@@ -80,7 +80,7 @@
 
 &emsp;&emsp;&emsp;In any case in which an appropriately completed National Medical Support Notice is issued in the case of a child of a participant under a group health plan who is a noncustodial parent of the child, and the Notice is deemed under clause (i) to be a qualified medical child support order, the plan administrator, within 40 business days after the date of the Notice, shall—
 
-&emsp;&emsp;&emsp;&emsp;(I) notify the State agency issuing the Notice with respect to such child whether coverage of the child is availableunder the terms of the plan and, if so, whether such child is covered under the plan and either the effective date of the coverage or, if necessary, any steps to be taken by the custodial parent (or by the official of a State or political subdivision thereof substituted for the name of such child pursuant to paragraph (3)(A)) to effectuate the coverage; and
+&emsp;&emsp;&emsp;&emsp;(I) notify the State agency issuing the Notice with respect to such child whether coverage of the child is available under the terms of the plan and, if so, whether such child is covered under the plan and either the effective date of the coverage or, if necessary, any steps to be taken by the custodial parent (or by the official of a State or political subdivision thereof substituted for the name of such child pursuant to paragraph (3)(A)) to effectuate the coverage; and
 
 &emsp;&emsp;&emsp;&emsp;(II) provide to the custodial parent (or such substituted official) a description of the coverage available and any forms or documents necessary to effectuate such coverage.
 
@@ -320,7 +320,7 @@ Group health plan.—The term ‘group health plan’ has the meaning provided i
 
 &emsp;&emsp;“(F)
 
-State.—The term ‘State’ includes the District of Columbia, the Commonwealth of PuertoRico, the Virgin Islands, Guam, and American Samoa.
+State.—The term ‘State’ includes the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, and American Samoa.
 
 &emsp;&emsp;“(G)
 
@@ -368,7 +368,7 @@ National medical support notice deemed to be a qualified medical child support o
 
 &emsp;&emsp;&emsp;“(i)
 
-In general.—If the plan administrator of any church group health plan which is maintained by the employer of a parent of a child or to which such an employer contributes receives an appropriately completed National Medical Support Notice promulgated pursuant to subsection (b) of this section \[section 401(b) of Pub. L. 105–200, 42 U.S.C. 651 note\] in the case of such child, and the Notice meets the requirements of paragraphs (3) and (4) of this subsection, the Notice shall be deemed to be a qualified medical child support order in the case of such child.
+In general.—If the plan administrator of any church group health plan which is maintained by the employer of a parent of a child or to which such an employer contributes receives an appropriately completed National Medical Support Notice promulgated pursuant to subsection (b) of this section \[section 401(b) of Pub. L. 105–200, 42 U.S.C. 651 note\] in the case of suchchild, and the Notice meets the requirements of paragraphs (3) and (4) of this subsection, the Notice shall be deemed to be a qualified medical child support order in the case of such child.
 
 &emsp;&emsp;&emsp;“(ii)
 
@@ -400,7 +400,7 @@ Report and Recommendations Regarding the Enforcement of Qualified Medical Child 
 
 #### Plan Amendments Not Required Until January 1, 1994
 
-For provisions setting forth circumstances under which any amendment to a plan required to be made by an amendment made by section 4301(d) of Pub. L. 103–66 shall not be required to be made before the first planyear beginning on or after Jan. 1, 1994, see section 4301(d) of Pub. L. 103–66, set out as an Effective Date of 1993 Amendment note under section 1021 of this title.
+For provisions setting forth circumstances under which any amendment to a plan required to be made by an amendment made by section 4301(d) of Pub. L. 103–66 shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 4301(d) of Pub. L. 103–66, set out as an Effective Date of 1993 Amendment note under section 1021 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be section “13623”.</i>
 

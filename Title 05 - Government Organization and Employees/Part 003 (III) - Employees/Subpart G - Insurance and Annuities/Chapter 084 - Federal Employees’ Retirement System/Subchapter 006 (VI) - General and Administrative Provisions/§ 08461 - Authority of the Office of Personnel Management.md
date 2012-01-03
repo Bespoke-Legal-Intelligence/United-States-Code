@@ -84,21 +84,21 @@
 
 #### Amendments
 
-2001—Subsec. (n)(1). Pub. L. 107–107, §1131(b)(1), inserted “and” at end of subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: “has 5 or more years of civilian service creditable under this chapter; and”.
+<b>2001</b>—Subsec. (n)(1). Pub. L. 107–107, §1131(b)(1), inserted “and” at end of subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: “has 5 or more years of civilian service creditable under this chapter; and”.
 
 Subsec. (n)(2)(B). Pub. L. 107–107, §1131(b)(2), struck out “vested” before “participant in a retirement system” and struck out “, as the term ‘vested participant’ is defined by such system” before semicolon at end.
 
-1996—Subsec. (n)(1). Pub. L. 104–106, §1043(a)(2)(A), struck out “of the Department of Defense or the Coast Guard” after “an employee” in introductory provisions and substituted “1 year” for “3 days” in subpar. (C).
+<b>1996</b>—Subsec. (n)(1). Pub. L. 104–106, §1043(a)(2)(A), struck out “of the Department of Defense or the Coast Guard” after “an employee” in introductory provisions and substituted “1 year” for “3 days” in subpar. (C).
 
 Subsec. (n)(2)(C). Pub. L. 104–106, §1043(a)(2)(B), substituted “1 year” for “3 days” and struck out “in the Department of Defense or the Coast Guard, respectively,” after “to a position”.
 
-1992—Subsec. (n)(1)(A), (2)(A). Pub. L. 102–378, §2(71)(A), amended subpars. (A) generally. Prior to amendment, subpars. (A) read as follows: “has not previously made or had an opportunity to make an election under this subsection;”.
+<b>1992</b>—Subsec. (n)(1)(A), (2)(A). Pub. L. 102–378, §2(71)(A), amended subpars. (A) generally. Prior to amendment, subpars. (A) read as follows: “has not previously made or had an opportunity to make an election under this subsection;”.
 
 Subsec. (n)(2)(D). Pub. L. 102–378, §2(71)(B), substituted “8347(q)” for “8347(p)”.
 
-1990—Subsec. (n). Pub. L. 101–508 added subsec. (n).
+<b>1990</b>—Subsec. (n). Pub. L. 101–508 added subsec. (n).
 
-1986—Subsec. (m)(2). Pub. L. 99–556 struck out “, and from the Thrift Savings Fund,” after “from the Fund”.
+<b>1986</b>—Subsec. (m)(2). Pub. L. 99–556 struck out “, and from the Thrift Savings Fund,” after “from the Fund”.
 
 #### Change of Name
 

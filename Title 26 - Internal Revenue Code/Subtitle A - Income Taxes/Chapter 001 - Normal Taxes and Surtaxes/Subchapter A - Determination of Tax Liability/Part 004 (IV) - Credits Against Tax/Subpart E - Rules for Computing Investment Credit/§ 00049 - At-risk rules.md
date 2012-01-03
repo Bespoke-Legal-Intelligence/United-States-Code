@@ -40,7 +40,7 @@
 
 #### (ii) Qualified commercial financing
 
-&emsp;&emsp;&emsp;For purposes of this paragraph, the term “qualified commercial financing” means any financing with respect to any property if—
+&emsp;&emsp;&emsp;For purposes of this paragraph, the term “qualified commercial financing” meansany financing with respect to any property if—
 
 &emsp;&emsp;&emsp;&emsp;(I) such property is acquired by the taxpayer from a person who is not a related person,
 
@@ -116,7 +116,7 @@
 
 #### (B) Certain transactions not taken into account
 
-&emsp;&emsp;For purposes of this paragraph, nonqualified nonrecourse financing shall not be treated as decreased through the surrender or other use of property financed by nonqualified nonrecourse financing.
+&emsp;&emsp;For purposes of this paragraph, nonqualified nonrecourse financing shall not betreated as decreased through the surrender or other use of property financed by nonqualified nonrecourse financing.
 
 #### (C) Manner in which taken into account
 
@@ -178,7 +178,7 @@ Subsec. (c)(5)(B)(i). Pub. L. 100–647, §1002(e)(3), amended cl. (i) generally
 
 Subsec. (c)(5)(C). Pub. L. 100–647, §1002(e)(8)(B), struck out subpar. (C) which related to portion of credits attributable to regular investment credit.
 
-Subsec. (d)(1). Pub. L. 100–647, §1002(e)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “In the case of periods after December 31, 1985, section 48(q) (relating to basis adjustment to section 38 property) shall be applied with respect to transaction property—
+Subsec. (d)(1). Pub. L. 100–647, §1002(e)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “In the case of periods after December 31, 1985, section 48(q) (relating to basis adjustment to section 38property) shall be applied with respect to transaction property—
 
 &emsp;“(A) by substituting ‘100 percent’ for ‘50 percent’ in paragraph (1), and
 
@@ -256,7 +256,7 @@ Additional exceptions.—
 
 &emsp;&emsp;“(iii) Property placed in service during 1986 by Satellite Industries, Inc., with headquarters in Minneapolis, Minnesota, to the extent that the cost of such property does not exceed $1,950,000.
 
-&emsp;“(E) Subsections (c) and (d) of section 49 of such Code shall not apply to property described in section 204(a)(4) of this Act \[enacting provisions set out as a note under section 168 of this title\].”
+&emsp;“(E) Subsections (c) and (d) of section 49 of such Code shall not apply to property described in section204(a)(4) of this Act \[enacting provisions set out as a note under section 168 of this title\].”
 
 #### Savings Provision
 

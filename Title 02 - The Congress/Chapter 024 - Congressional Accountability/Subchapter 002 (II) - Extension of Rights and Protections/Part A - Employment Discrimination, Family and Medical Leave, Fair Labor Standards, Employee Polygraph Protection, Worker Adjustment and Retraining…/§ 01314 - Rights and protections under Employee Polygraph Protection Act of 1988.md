@@ -42,7 +42,7 @@ The remedy for a violation of subsection (a) of this section shall be such remed
 
 #### Amendments
 
-2004—Subsec. (a)(2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in two places.
+<b>2004</b>—Subsec. (a)(2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in two places.
 
 Subsec. (d)(2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in heading and text.
 

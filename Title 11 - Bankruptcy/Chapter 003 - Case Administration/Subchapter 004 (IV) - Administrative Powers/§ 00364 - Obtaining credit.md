@@ -28,7 +28,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 364(f) of the House amendment is new. This provision continues the exemption found in section 3(a)(7) of the Securities Act of 1933 \[15 U.S.C. 77c(a)(7)\] for certificates of indebtedness issued by a trustee in bankruptcy. The exemption applies to any debt security issued under section 364 of title 11. The section does not intend to change present law which exempts such securities from the Trust Indenture Act, 15 U.S.C. 77aaa, et seq. (1976).
 
@@ -44,7 +44,7 @@ Subsection (c) is closer to the concept of certificates of indebtedness in curre
 
 Subsection (d) grants the court the authority to authorize the obtaining of credit and the incurring of debt with a superiority, that is a lien on encumbered property that is senior or equal to the existing lien on the property. The court may authorize such a superpriority only if the trustee is otherwise unable to obtain credit, and if there is adequate protection of the original lien holder's interest. Again, the trustee has the burden of proof on the issue of adequate protection.
 
-Subsection (e) provides the same protection for credit extenders pending an appeal of an authorization to incur debt as is provided under section 363(<i>l</i>) for purchasers: the credit is not affected on appeal by reversal of the authorization and the incurring of the debt were stayed pending appeal. The protection runs to a good faith lender, whether or not he knew of the pendency of the appeal.
+Subsection (e) provides the same protection for credit extenders pending an appeal of an authorization to incur debt as is provided under section 363(<i>l</i>) for purchasers: the credit is not affected on appeal by reversal of the authorization and the incurring of the debt werestayed pending appeal. The protection runs to a good faith lender, whether or not he knew of the pendency of the appeal.
 
 A claim arising as a result of lending or borrowing under this section will be a priority claim, as defined in proposed section 507(a)(1), even if the claim is granted a super-priority over administrative expenses and is to be paid in advance of other first priority claims.
 
@@ -56,11 +56,11 @@ The Trust Indenture Act of 1939, referred to in subsec. (f), is title III of act
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–394, §501(d)(9)(A), substituted “1203, 1204, or 1304” for “1304, 1203, or 1204”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–394, §501(d)(9)(A), substituted “1203, 1204, or 1304” for “1304, 1203, or 1204”.
 
 Subsec. (f). Pub. L. 103–394, §501(d)(9)(B), struck out “(15 U.S.C. 77e)” after “Act of 1933” and “(15 U.S.C. 77aaa et seq.)” after “Act of 1939”.
 
-1986—Subsec. (a). Pub. L. 99–554 inserted reference to sections 1203 and 1204 of this title.
+<b>1986</b>—Subsec. (a). Pub. L. 99–554 inserted reference to sections 1203 and 1204 of this title.
 
 #### Effective Date of 1994 Amendment
 

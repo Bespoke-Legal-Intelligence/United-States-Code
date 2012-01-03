@@ -28,7 +28,7 @@ Each judge designated under this section shall so serve for a maximum of seven y
 
 #### (e) Jurisdiction and procedures for review of petitions
 
-(1) Three judges designated under subsection (a) who reside within 20 miles of the District ofColumbia, or, if all of such judges are unavailable, other judges of the court established under subsection (a) as may be designated by the presiding judge of such court, shall comprise a petition review pool which shall have jurisdiction to review petitions filed pursuant to section 1861(f)(1) or 1881a(h)(4) of this title.
+(1) Three judges designated under subsection (a) who reside within 20 miles of the District of Columbia, or, if all of such judges are unavailable, other judges of the court established under subsection (a) as may be designated by the presiding judge of such court, shall comprise a petition review pool which shall have jurisdiction to review petitions filed pursuant to section 1861(f)(1) or 1881a(h)(4) of this title.
 
 (2) Not later than 60 days after March 9, 2006, the court established under subsection (a) shall adopt and, consistent with the protection of national security, publish procedures for the review of petitions filed pursuant to section 1861(f)(1) or 1881a(h)(4) of this title by the panel established under paragraph (1). Such procedures shall provide that review of a petition shall be conducted in camera and shall also provide for the designation of an acting presiding judge.
 
@@ -102,7 +102,7 @@ Pub. L. 110–55, §6, Aug. 5, 2007, 121 Stat. 556, as amended by Pub. L. 110–
 
 “(a)
 
-Effective Date.—Except as otherwise provided, the amendments made by this Act \[enacting sections1805a to 1805c of this title and amending this section\] shall take effect immediately after the date of the enactment of this Act \[Aug. 5, 2007\].
+Effective Date.—Except as otherwise provided, the amendments made by this Act \[enacting sections 1805a to 1805c of this title and amending this section\] shall take effect immediately after the date of the enactment of this Act \[Aug. 5, 2007\].
 
 “\[(b) Repealed. Pub. L. 110–261, title IV, §403(a)(3), July 10, 2008, 122 Stat. 2474.\]
 

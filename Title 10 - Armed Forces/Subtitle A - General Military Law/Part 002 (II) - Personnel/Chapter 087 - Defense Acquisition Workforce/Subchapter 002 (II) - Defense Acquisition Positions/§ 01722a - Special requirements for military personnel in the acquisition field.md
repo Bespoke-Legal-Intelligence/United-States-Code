@@ -18,7 +18,7 @@ Objectives.—Policies established and guidance issued pursuant to subsection (a
 
 Reservation of Acquisition Billets for General Officers and Flag Officers.—(1) The Secretary of Defense shall—
 
-&emsp;(A) establish for each military department a sufficient number of billets coded or classified for acquisition personnel that are reserved for general officers and flag officers that are needed for the purpose of ensuring the optimummanagement of the acquisition functions of the Department of Defense; and
+&emsp;(A) establish for each military department a sufficient number of billets coded or classified for acquisition personnel that are reserved for general officers and flag officers that are needed for the purpose of ensuring the optimum management of the acquisition functions of the Department of Defense; and
 
 &emsp;(B) ensure that the policies established and guidance issued pursuant to subsection (a) by the Secretary of each military department reserve at least that minimum number of billets and fill the billets with qualified and trained general officers and flag officers who have significant acquisition experience.
 

@@ -32,7 +32,7 @@ Upon a determination under subsection (a) of this section—
 
 &emsp;(3) the President
 
-> may by rule or order prohibit any such major fuel burning stationary source (or class or category thereof) from using fuels other than locally or regionally available coal or coal derivatives to comply with implementation plan requirements. In taking any action under this subsection, the Governor, the President, or thePresident's designee as the case may be, shall take into account, the final cost to the consumer of such an action.
+> may by rule or order prohibit any such major fuel burning stationary source (or class or category thereof) from using fuels other than locally or regionally available coal or coal derivatives to comply with implementation plan requirements. In taking any action under this subsection, the Governor, the President, or the President's designee as the case may be, shall take into account, the final cost to the consumer of such an action.
 
 #### (c) Contracts; schedules
 
@@ -60,7 +60,7 @@ Except as may otherwise be provided by rule by the State or the Administrator fo
 
 #### (f) Treatment of prohibitions, rules, or orders as requirements or parts of plans under other provisions
 
-For purposes of sections 7413 and 7420 of this title a prohibition under subsection (b) of this section, and a corresponding rule or order under subsection (c) of this section, shall be treated as a requirement of section 7413 of this title. For purposes of any plan (or portion thereof) promulgated under section 7410(c) of this title, any rule or order under subsection (c) of this section corresponding to a prohibition under subsection (b) of this section, shall be treated as a part of such plan. For purposes of section 7413 of this title, a prohibition under subsection (b) of this section, applicable to any source, and a corresponding rule or order under subsection (c) of this section, shall be treated as part of the applicable implementation plan for the State in which subject source is located.
+For purposes of sections 7413 and 7420 of this title a prohibition under subsection (b) of this section, and a corresponding rule or order under subsection (c) of this section, shall be treated as a requirement of section 7413 of this title. For purposes of any plan (or portion thereof) promulgated under section 7410(c) of this title, any rule or order under subsection (c) of this sectioncorresponding to a prohibition under subsection (b) of this section, shall be treated as a part of such plan. For purposes of section 7413 of this title, a prohibition under subsection (b) of this section, applicable to any source, and a corresponding rule or order under subsection (c) of this section, shall be treated as part of the applicable implementation plan for the State in which subject source is located.
 
 #### (g) Delegation of Presidential authority
 

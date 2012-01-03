@@ -46,7 +46,7 @@
 
 (2) No educational assistance allowance may be paid under this chapter to an individual for any month during which such individual is pursuing a program of education consisting exclusively of flight training until the Secretary has received from that individual and the institution providing such training a certification of the flight training received by the individual during that month and the tuition and other fees charged for that training.
 
-(3) The number of months of entitlement charged in the case of any individual for a program of education described in paragraph (1) of this subsection shall be equal to the number (including any fraction) determined by dividing the total amount of educational assistance paid such individual for such program by the monthly rate of educational assistance which, except for paragraph (1) of this subsection, such individual would otherwise be paid under subsection (a)(1), (b)(1), (d), or (e)(1) of section 3015 of this title, as the case may be.
+(3) The number of months of entitlement charged in the case of any individual for a program of education described in paragraph (1) of this subsection shall be equal to the number (including any fraction) determined by dividing the total amount of educational assistance paid such individual for such program by the monthly rate of educational assistance which, except for paragraph (1) of this subsection, such individual would otherwise be paid under subsection\(a)(1), (b)(1), (d), or (e)(1) of section 3015 of this title, as the case may be.
 
 (4) The number of solo flying hours for which an individual may be paid an educational assistance allowance under this subsection may not exceed the minimum number of solo flying hours required by the Federal Aviation Administration for the flight rating or certification which is the goal of the individual's flight training.
 
@@ -74,7 +74,7 @@
 
 <b>1996</b>—Subsecs. (d) to (f). Pub. L. 104–275 redesignated subsecs. (e) and (f) as (d) and (e), respectively, and struck out former subsec. (d) which read as follows:
 
-“(d)(1) The amount of the monthly educational assistance allowance payable to an individual pursuing acooperative program under this chapter shall be 80 percent of the monthly allowance otherwise payable to such individual under section 3015 and section 3022, if applicable, of this title.
+“(d)(1) The amount of the monthly educational assistance allowance payable to an individual pursuing a cooperative program under this chapter shall be 80 percent of the monthly allowance otherwise payable to such individual under section 3015 and section 3022, if applicable, of this title.
 
 “(2) For each month that an individual is paid a monthly educational assistance allowance for pursuit of a cooperative program under this chapter, the individual's entitlement under this chapter shall be charged at the rate of 80 percent of a month.”
 

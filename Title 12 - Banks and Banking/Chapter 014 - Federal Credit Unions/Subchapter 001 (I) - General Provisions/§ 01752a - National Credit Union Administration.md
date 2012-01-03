@@ -30,7 +30,7 @@ The management of the Administration shall be vested in the Board. The Board sha
 
 #### (e) Functions of Chairman
 
-The Chairman of the Board shall be the spokesman for the Board and shall represent theBoard and the National Credit Union Administration in its official relations with other branches of the Government. The Chairman shall determine each Board member's area of responsibility and shall review such assignments biennially. It shall be the Chairman's responsibility to direct the implementation of the adopted policies and regulations of the Board.
+The Chairman of the Board shall be the spokesman for the Board and shall represent the Board and the National Credit Union Administration in its official relations with other branches of the Government. The Chairman shall determine each Board member's area of responsibility and shall review such assignments biennially. It shall be the Chairman's responsibility to direct the implementation of the adopted policies and regulations of the Board.
 
 #### (f) Audit by Government Accountability Office
 
@@ -46,21 +46,21 @@ Section 1 of act June 29, 1948 transferred to the Federal Security Agency all fu
 
 Section 3 of act June 29, 1948 transferred to the Federal Security Agency, to be used in the administration of the functions, transferred, (a) all property, including office equipment, transferred to the Federal Deposit Insurance Corporation pursuant to Executive Order 9148 of April 27, 1942 \[see note under section 1751 of this title\], and in use on the effective date of this Act \[see section 5 of act June 29, 1948, set out as a note below\]; (b) all property, including office equipment, purchased by the Corporation for use exclusively in connection with the administration of the Federal Credit Union Act, as amended \[this chapter\], the cost of which had been charged to such functions and which were in use on the effective date of this Act; (c) all records and files pertaining exclusively to the supervision of Federal Credit Unions; and (d) all personnel employed primarily in the administration of the Federal Credit Union Act, as amended \[this chapter\], on the effective date of this Act.
 
-Section 4 of act June 29, 1948 transferred all funds allocated, specifically or otherwise, in the budget of the Federal Deposit Insurance Corporation for the administration of the Federal Credit Union Act, as amended \[this chapter\], during the fiscal year ending June 30, 1949, which were unexpended on the effective date of this Act \[see section 5 of act June 29, 1948, set out as a note below\], to the Federal Security Agency for use in the administration of the Federal Credit Union Act, as amended \[this chapter\]. The Corporation was to be reimbursed for the funds so transferred and for all other funds expended by it prior to the effective date of this Act in the administration of the Federal Credit Union Act, as amended \[this chapter\], in excess of fees from Federal Credit unions received by the Corporation, by deducting such amounts from the first moneys payable to the Secretary of the Treasury on account of the retirement of the stock of the Federal Deposit Insurance Corporation owned by the United States, and the Corporation was to have a charge on such stock for such amounts.
+Section 4 of act June 29, 1948 transferred all funds allocated, specifically or otherwise, in the budget of the Federal Deposit Insurance Corporation for the administration of the Federal Credit Union Act, as amended \[this chapter\], during the fiscal year ending June 30, 1949, which were unexpended on the effective date of this Act \[see section 5 of act June 29, 1948, set out as a note below\], to the Federal Security Agency for use in the administration of the Federal Credit Union Act, as amended \[this chapter\]. The Corporation was to be reimbursed for the funds so transferred and for allother funds expended by it prior to the effective date of this Act in the administration of the Federal Credit Union Act, as amended \[this chapter\], in excess of fees from Federal Credit unions received by the Corporation, by deducting such amounts from the first moneys payable to the Secretary of the Treasury on account of the retirement of the stock of the Federal Deposit Insurance Corporation owned by the United States, and the Corporation was to have a charge on such stock for such amounts.
 
 Section 5 of act June 29, 1948 provided that the Act was to become effective on the thirtieth day following the date of enactment.
 
 #### Amendments
 
-2004—Subsec. (f). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (f). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-1998—Subsec. (b). Pub. L. 105–219 inserted heading, designated existing provisions as par. (1), and added par. (2).
+<b>1998</b>—Subsec. (b). Pub. L. 105–219 inserted heading, designated existing provisions as par. (1), and added par. (2).
 
-1982—Subsec. (f). Pub. L. 97–320 struck out “on a calendar year basis” after “subject to audit”.
+<b>1982</b>—Subsec. (f). Pub. L. 97–320 struck out “on a calendar year basis” after “subject to audit”.
 
-1978—Pub. L. 95–630 generally revised section to eliminate the position of Administrator and to vest the management of the National Credit Union Administration in the National Credit Union Administration Board.
+<b>1978</b>—Pub. L. 95–630 generally revised section to eliminate the position of Administrator and to vest the management of the National Credit Union Administration in the National Credit Union Administration Board.
 
-1970—Pub. L. 91–206 designated existing provisions as subsec. (a), substituted provisions establishing an independent agency known as the National Credit Union Administration and an Administrator of such National Credit Union Administration for provisions establishing a Bureau of Federal Credit Unions under the supervision of a Director, which Director was appointed by, and, under the general direction and supervision of, the Secretary of Health, Education, and Welfare, and added subsecs. (b) to (f).
+<b>1970</b>—Pub. L. 91–206 designated existing provisions as subsec. (a), substituted provisions establishing an independent agency known as the National Credit Union Administration and an Administrator of such National Credit Union Administration for provisions establishing a Bureau of Federal Credit Unions under the supervision of a Director, which Director was appointed by, and, under the general direction and supervision of, the Secretary of Health, Education, and Welfare, and added subsecs. (b) to (f).
 
 #### Effective Date of 1978 Amendment
 
@@ -82,7 +82,7 @@ Pub. L. 105–219, title IV, §401, Aug. 7, 1998, 112 Stat. 934, provided that:
 
 Study.—The Secretary \[of the Treasury\] shall conduct a study of—
 
-&emsp;“(1) the differences between credit unions and other federally insured financial institutions, includingregulatory differences with respect to regulations enforced by the Office of Thrift Supervision, the Office of the Comptroller of the Currency, the Federal Deposit Insurance Corporation, and the Administration; and
+&emsp;“(1) the differences between credit unions and other federally insured financial institutions, including regulatory differences with respect to regulations enforced by the Office of Thrift Supervision, the Office of the Comptroller of the Currency, the Federal Deposit Insurance Corporation, and the Administration; and
 
 &emsp;“(2) the potential effects of the application of Federal laws, including Federal tax laws, on credit unions in the same manner as those laws are applied to other federally insured financial institutions.
 
@@ -158,5 +158,5 @@ Pub. L. 101–73, title XII, §1201, Aug. 9, 1989, 103 Stat. 519, directed Compt
 
 #### Federally Chartered Central Credit Unions; Report to Congress
 
-Section 3 of Pub. L. 86–354 directed Director of Bureau of Federal Credit Unions to make a study of desirability of providing for federally chartered central credit unions and to submit to Secretary of Health, Education, and Welfare, for transmission to Congress on or before Apr. 15, 1960, a report of results thereof and such recommendations for legislation thereon as Director deemed appropriate.
+Section 3 of Pub. L. 86–354 directed Director of Bureau of Federal Credit Unions to make a study of desirability of providing for federally chartered central credit unions and to submit to Secretary of Health, Education, and Welfare, for transmission to Congress on or before Apr. 15, 1960, a report of results thereof andsuch recommendations for legislation thereon as Director deemed appropriate.
 

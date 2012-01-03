@@ -2,7 +2,7 @@
 
 (a) Upon request of a Member of Congress, the Secretary concerned shall review a proposal for the award or presentation of a decoration (or the upgrading of a decoration), either for an individual or a unit, that is not otherwise authorized to be presented or awarded due to limitations established by law or policy for timely submission of a recommendation for such award or presentation. Based upon such review, the Secretary shall make a determination as to the merits of approving the award or presentation of the decoration.
 
-(b) Upon making a determination under subsection (a) as to the merits of approving the award or presentation of the decoration, the Secretary concerned shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives and to the requesting Member of Congress a detailed discussion of the rationale supporting the determination.
+(b) Upon making a determination under subsection (a) as to the merits of approving the award or presentation of the decoration, the Secretary concerned shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives and to the requesting Member of Congress a detailed discussion of the rationale supporting the determination. If the determination includes a favorable recommendation for the award of the Medal of Honor, the Secretary of Defense, instead of the Secretary concerned, shall make the submission under this subsection.
 
 (c) Determinations under this section regarding the award or presentation of a decoration shall be made in accordance with the same procedures that apply to the approval or disapproval of the award or presentation of a decoration when a recommendation for such award or presentation is submitted in a timely manner as prescribed by law or regulation.
 
@@ -16,9 +16,11 @@
 
 &emsp;(2) The term “decoration” means any decoration or award that may be presented or awarded to a member or unit of the armed forces.
 
-(Added Pub. L. 104–106, div. A, title V, §526(a), Feb. 10, 1996, 110 Stat. 313; amended Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §1031(a)(10), Nov. 24, 2003, 117 Stat. 1597.)
+(Added Pub. L. 104–106, div. A, title V, §526(a), Feb. 10, 1996, 110 Stat. 313; amended Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §1031(a)(10), Nov. 24, 2003, 117 Stat. 1597; Pub. L. 112–81, div. A, title V, §524, Dec. 31, 2011, 125 Stat. 1401.)
 
 #### Amendments
+
+<b>2011</b>—Subsec. (b). Pub. L. 112–81 inserted at end “If the determination includes a favorable recommendation for the award of the Medal of Honor, the Secretary of Defense, instead of the Secretary concerned, shall make the submission under this subsection.”
 
 <b>2003</b>—Pub. L. 108–136, §1031(a)(10)(B), struck out “and recommendation” after “review” in section catchline.
 
@@ -66,7 +68,7 @@ Operations Defined.—For purposes of this section:
 
 #### Eligibility of Certain World War II Military Organizations for Award of Unit Decorations
 
-Pub. L. 105–85, div. A, title V, §576, Nov. 18, 1997, 111 Stat. 1758, authorized award of a unit decoration for any unit or other organization of the Armed Forces that had supported the planning or execution of combat operations during World War II primarily through unit personnel who had been attached to other units of the Armed Forces or of other allied armed forces, and that had not been otherwise eligible for award of the decoration by reason of not usually having been deployed as a unit in support of such operations, and required that any recommendation for such an award be submitted tothe Secretary concerned not later than two years after Nov. 18, 1997.
+Pub. L. 105–85, div. A, title V, §576, Nov. 18, 1997, 111 Stat. 1758, authorized award of a unit decoration for any unit or other organization of the Armed Forces that had supported the planning or execution of combat operations during World War II primarily through unit personnel who had been attached to other units of the Armed Forces or of other allied armed forces, and that had not been otherwise eligible for award of the decoration by reason of not usually having been deployed as a unit in support of such operations, and required that any recommendation for such an award be submitted to the Secretary concerned not later than two years after Nov. 18, 1997.
 
 #### Authority To Award Decorations Recognizing Acts of Valor Performed in Combat During the Vietnam Conflict
 
@@ -138,7 +140,7 @@ Waiver on Restrictions of Awards.—(1) Any decoration covered by paragraph (2) 
 
 Review of Requests for Consideration of Awards.—(1) The Secretary of each military department shall review each request for consideration of award of a decoration described in subsection (a) that is received by the Secretary during the period beginning on February 10, 1996, and ending on February 9, 1998.
 
-“(2) The Secretaries shall begin the review within 30 days after the date of the enactment of this Act and shall complete the review of each request for consideration not later than one year after the date on which the request is received.
+“(2) The Secretaries shall begin the review within 30 days after the date of the enactment of this Act andshall complete the review of each request for consideration not later than one year after the date on which the request is received.
 
 “(3) The Secretary may use the same process for carrying out the review as the Secretary uses for reviewing other recommendations for awarding decorations to members of the Armed Forces under the Secretary's jurisdiction for acts, achievements, or service.
 

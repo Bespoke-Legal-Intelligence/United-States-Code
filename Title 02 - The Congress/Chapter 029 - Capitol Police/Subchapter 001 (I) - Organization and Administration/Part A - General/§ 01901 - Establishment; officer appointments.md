@@ -14,15 +14,15 @@ R.S. §1821 derived from acts Mar. 2, 1867, ch. 167, §2, 14 Stat. 466; Mar. 3, 
 
 #### Amendments
 
-2010—Pub. L. 111–145, §6(e)(3), amended first sentence of R.S. §1821 by striking “, the members of which shall be appointed by the Sergeants-at-Arms of the two Houses and the Architect of the Capitol Extension” after “There shall be a Capitol police”.
+<b>2010</b>—Pub. L. 111–145, §6(e)(3), amended first sentence of R.S. §1821 by striking “, the members of which shall be appointed by the Sergeants-at-Arms of the two Houses and the Architect of the Capitol Extension” after “There shall be a Capitol police”.
 
-Pub. L. 111–145, §6(e)(2), repealed Pub. L. 108–7, §1018(h)(1), and provided that the sentence repealed by such section is restored to appear at end of section. See 2003 Amendment note below.
+Pub. L. 111–145, §6(e)(2), repealed Pub. L. 108–7, §1018(h)(1), and provided that the sentence repealed bysuch section is restored to appear at end of section. See 2003 Amendment note below.
 
 Pub. L. 111–145, §6(e)(1), struck out “The captain and lieutenants shall be selected jointly by the Sergeant at Arms of the Senate and the Sergeant at Arms of the House of Representatives; and one-half of the privates shall be selected by the Sergeant at Arms of the Senate and one-half by the Sergeant at Arms of the House of Representatives.” after “from year to year.”
 
-2003—Pub. L. 108–7, §1018(h)(1), which struck out last sentence which read “The Capitol Police shall be headed by a Chief who shall be appointed by the Capitol Police Board and shall serve at the pleasure of the Board.”, was repealed by Pub. L. 111–145, §6(e)(2).
+<b>2003</b>—Pub. L. 108–7, §1018(h)(1), which struck out last sentence which read “The Capitol Police shall be headed by a Chief who shall be appointed by the Capitol Police Board and shall serve at the pleasure of the Board.”, was repealed by Pub. L. 111–145, §6(e)(2).
 
-1979—Pub. L. 96–152 inserted last sentence providing that the Capitol Police be headed by a Chief who shall be appointed by the Capitol Police Board and who shall serve at the pleasure of the Board.
+<b>1979</b>—Pub. L. 96–152 inserted last sentence providing that the Capitol Police be headed by a Chief who shall be appointed by the Capitol Police Board and who shall serve at the pleasure of the Board.
 
 #### Effective Date of 2010 Amendment
 
@@ -68,7 +68,7 @@ Capitol Police Board; Composition; Redefining Mission.—
 
 &emsp;“(1)
 
-Purpose.—The purpose of the Capitol Police Board is to oversee and support the Capitol Police in its mission and to advance coordination between theCapitol Police and the Sergeant at Arms of the House of Representatives and the Sergeant at Arms and Doorkeeper of the Senate, in their law enforcement capacities, and the Congress. Consistent with this purpose, the Capitol Police Board shall establish general goals and objectives covering its major functions and operations to improve the efficiency and effectiveness of its operations.
+Purpose.—The purpose of the Capitol Police Board is to oversee and support the Capitol Police in its mission and to advance coordination between the Capitol Police and the Sergeant at Arms of the House of Representatives and the Sergeant at Arms and Doorkeeper of the Senate, in their law enforcement capacities, and the Congress. Consistent with this purpose, the Capitol Police Board shall establish general goals and objectives covering its major functions and operations to improve the efficiency and effectiveness of its operations.
 
 &emsp;“(2)
 
@@ -106,7 +106,7 @@ Documentation.—
 
 &emsp;“(1)
 
-Functions and processes.—The Capitol Police Board shall document its functions and processes, including its mission statement, policies, directives, and operating procedures established or revised under subsection (a)(1) or (b), and make such documentation available for examination to the Speaker and minority leader of the House of Representatives, the President pro tempore and minority leader of the Senate, the Chief of the Capitol Police, and the Comptroller General.
+Functions and processes.—The Capitol Police Board shall document its functions and processes, including its mission statement, policies, directives, and operating procedures established or revised under subsection (a)(1) or (b), and make such documentation available for examination to the Speaker andminority leader of the House of Representatives, the President pro tempore and minority leader of the Senate, the Chief of the Capitol Police, and the Comptroller General.
 
 &emsp;“(2)
 
@@ -220,7 +220,7 @@ Nonreduction in pay, rank, or grade.—The transfer of any individual under this
 
 &emsp;“(2)
 
-Leave and compensatory time.—Any annual leave, sick leave, or other leave, or compensatory time, to the credit of an individual transferred under this section shall be transferred to the credit of that individual as a member or an employee of the Capitol Police (as the case may be). The treatment of leave or compensatory time transferred under this section shall be governed by regulations of the Capitol Police Board.
+Leave and compensatory time.—Any annual leave, sick leave, or other leave, or compensatory time, to the credit of an individual transferred under this section shall be transferred to the credit of that individual as a member or an employee of the Capitol Police (as the case may be). The treatment of leaveor compensatory time transferred under this section shall be governed by regulations of the Capitol Police Board.
 
 &emsp;“(3)
 
@@ -378,7 +378,7 @@ In general.—With respect to each year which is covered by the strategic plan d
 
 &emsp;“(2)
 
-Contents.—The annual performance plan developed under this subsection for a year shall includeperformance goals for each of the goals and objectives of the strategic plan which apply during the year, and shall include (to the extent practicable) quantifiable performance measures for determining the success of the Capitol Police in meeting each such performance goal.
+Contents.—The annual performance plan developed under this subsection for a year shall include performance goals for each of the goals and objectives of the strategic plan which apply during the year, and shall include (to the extent practicable) quantifiable performance measures for determining the success of the Capitol Police in meeting each such performance goal.
 
 &emsp;“(3)
 
@@ -440,7 +440,7 @@ Mar. 20, 1922, ch. 103, 42 Stat. 429.
 
 #### Capitol Police Civilian Support Positions With Respect to the House of Representatives
 
-House Resolution No. 199, One Hundred Second Congress, Aug. 1, 1991, made permanent law Pub. L. 102–392, title I, §102, Oct. 6, 1992, 106 Stat. 1710, and amended by Pub. L. 104–186, title II, §221(9)(B), Aug. 20, 1996, 110 Stat. 1749, authorized Committee on House Oversight \[now Committee on House Administration\] of the House of Representatives to establish 114 civilian support positions for the Capitol Police, provided for functions, compensation, and classification of positions, provided procedures for appointments to positions and that as each position was filled there would be abolished one position of private on Capitol Police, provided that positions would be filled by individuals in Capitol Police positions so abolished, that all positions would be filled by the end of the One Hundred Second Congress, and that at least 50 of such positions would be filled not later than the end of the first session of such Congress, and authorized Committee on House Oversight \[now Committee on House Administration\] to prescribe regulations to carry out this provision.
+House Resolution No. 199, One Hundred Second Congress, Aug. 1, 1991, made permanent law Pub. L. 102–392,title I, §102, Oct. 6, 1992, 106 Stat. 1710, and amended by Pub. L. 104–186, title II, §221(9)(B), Aug. 20, 1996, 110 Stat. 1749, authorized Committee on House Oversight \[now Committee on House Administration\] of the House of Representatives to establish 114 civilian support positions for the Capitol Police, provided for functions, compensation, and classification of positions, provided procedures for appointments to positions and that as each position was filled there would be abolished one position of private on Capitol Police, provided that positions would be filled by individuals in Capitol Police positions so abolished, that all positions would be filled by the end of the One Hundred Second Congress, and that at least 50 of such positions would be filled not later than the end of the first session of such Congress, and authorized Committee on House Oversight \[now Committee on House Administration\] to prescribe regulations to carry out this provision.
 
 #### Director of Employment Practices Under Capitol Police Board
 

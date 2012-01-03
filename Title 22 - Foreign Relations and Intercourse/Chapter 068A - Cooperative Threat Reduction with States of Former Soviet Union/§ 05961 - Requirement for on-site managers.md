@@ -44,7 +44,7 @@ Steps or activities referred to in subsection (c)(1) of this section are those a
 
 #### (f) Notification to Congress
 
-In any case in which the Secretary of Defense directs an on-site manager to resume United States participation in a project under subsection (c)(4) of this section, the Secretary shall concurrently notify Congress of such direction.
+In any case in which the Secretary of Defense directs an on-site manager to resume UnitedStates participation in a project under subsection (c)(4) of this section, the Secretary shall concurrently notify Congress of such direction.
 
 #### (g) Effective date
 

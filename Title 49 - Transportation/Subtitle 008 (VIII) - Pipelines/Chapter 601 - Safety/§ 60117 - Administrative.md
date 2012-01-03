@@ -34,7 +34,7 @@ Testing Facilities Involved in Accidents.—The Secretary may require testing of
 
 &emsp;(1) notifying the appropriate State official in the State in which the facility is located; and
 
-&emsp;(2) attempting to negotiate a mutually acceptable plan for testing with the owner of thefacility and, when the Secretary considers appropriate, the National Transportation Safety Board.
+&emsp;(2) attempting to negotiate a mutually acceptable plan for testing with the owner of the facility and, when the Secretary considers appropriate, the National Transportation Safety Board.
 
 (g)
 
@@ -102,17 +102,49 @@ Cost Recovery for Design Reviews.—
 
 &emsp;(1)
 
-In general.—If the Secretary conducts facility design safety reviews in connection with a proposal to construct, expand, or operate a liquefied natural gas pipeline facility, the Secretary may require the person requesting such reviews to pay the associated staff costs relating to such reviews incurred by the Secretary in section 60301(d). The Secretary may assess such costs in any reasonable manner.
+In general.—
+
+&emsp;&emsp;(A)
+
+Review costs.—For any project described in subparagraph (B), if the Secretary conducts facility design safety reviews in connection with a proposal to construct, expand, or operate a gas or hazardous liquid pipeline facility or liquefied natural gas pipeline facility, including construction inspections and oversight, the Secretary may require the person proposing the project to pay the costs incurred by the Secretary relating to such reviews. If the Secretary exercises the cost recovery authority described in this paragraph, the Secretary shall prescribe a fee structure and assessment methodology that is based on the costs of providing these reviews and shall prescribe procedures to collect fees under this paragraph. The Secretary may not collect design safety review fees under this paragraph and section 60301 for the same design safety review.
+
+&emsp;&emsp;(B)
+
+Projects to which applicable.—Subparagraph (A) applies to any project that—
+
+&emsp;&emsp;&emsp;(i) has design and construction costs totaling at least $2,500,000,000, as periodically adjusted by the Secretary to take into account increases in the Consumer Price Index for all-urban consumers published by the Department of Labor, based on—
+
+&emsp;&emsp;&emsp;&emsp;(I) the cost estimate provided to the Federal Energy Regulatory Commission in an application for a certificate of public convenience and necessity for a gas pipeline facility or an application for authorization for a liquefied natural gas pipeline facility; or
+
+&emsp;&emsp;&emsp;&emsp;(II) a good faith estimate developed by the person proposing a hazardous liquid pipeline facility and submitted to the Secretary; or
+
+&emsp;&emsp;&emsp;(ii) uses new or novel technologies or design, as determined by the Secretary.
 
 &emsp;(2)
 
-Deposit.—The Secretary shall deposit all funds paid to the Secretary under this subsection into the Department of Treasury account 69–5172–0–2–407 or its successor account.
+Notification.—For any new pipeline facility construction project in which the Secretary will conduct design reviews, the person proposing the project shall notify the Secretary and provide the design specifications, construction plans and procedures, and related materials at least 120 days prior to the commencement of construction. To the maximum extent practicable, not later than 90 days after receiving such design specifications, construction plans and procedures, and related materials, the Secretary shall provide written comments, feedback, and guidance on the project.
 
 &emsp;(3)
 
-Authorization of appropriations.—Funds deposited pursuant to this subsection are authorized to be appropriated for the purposes set forth in section 60301(d).
+Pipeline safety design review fund.—
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1321; Pub. L. 103–429, §6(77), Oct. 31, 1994, 108 Stat. 4388; Pub. L. 104–304, §§12, 19, Oct. 12, 1996, 110 Stat. 3802, 3804; Pub. L. 107–355, §7, Dec. 17, 2002, 116 Stat. 2993; Pub. L. 109–468, §§11, 13, 17, Dec. 29, 2006, 120 Stat. 3494–3496.)
+&emsp;&emsp;(A)
+
+Establishment.—There is established a Pipeline Safety Design Review Fund in the Treasury of the United States.
+
+&emsp;&emsp;(B)
+
+Deposits.—The Secretary shall deposit funds paid under this subsection into the Fund.
+
+&emsp;&emsp;(C)
+
+Use.—Amounts in the Fund shall be available to the Secretary, in amounts specified in appropriations Acts, to offset the costs of conducting facility design safety reviews under this subsection.
+
+&emsp;(4)
+
+No additional permitting authority.—Nothing in this subsection may be construedas authorizing the Secretary to require a person to obtain a permit before beginning design and construction in connection with a project described in paragraph (1)(B).
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1321; Pub. L. 103–429, §6(77), Oct. 31, 1994, 108 Stat. 4388; Pub. L. 104–304, §§12, 19, Oct. 12, 1996, 110 Stat. 3802, 3804; Pub. L. 107–355, §7, Dec. 17, 2002, 116 Stat. 2993; Pub. L. 109–468, §§11, 13, 17, Dec. 29, 2006, 120 Stat. 3494–3496; Pub. L. 112–90, §13(a), Jan. 3, 2012, 125 Stat. 1913.)
 
 Historical and Revision Notes
 
@@ -302,6 +334,20 @@ This amends 49:60117(i) by restating section 304(c) of the Pipeline Safety Act o
 
 #### Amendments
 
+<b>2012</b>—Subsec. (n). Pub. L. 112–90 amended subsec. (n) generally. Prior to amendment, text read as follows:
+
+“(1)
+
+In general.—If the Secretary conducts facility design safety reviews in connection with a proposal to construct, expand, or operate a liquefied natural gas pipeline facility, the Secretary may require the person requesting such reviews to pay the associated staff costs relating to such reviews incurred by the Secretary in section 60301(d). The Secretary may assess such costs in any reasonable manner.
+
+“(2)
+
+Deposit.—The Secretary shall deposit all funds paid to the Secretary under this subsection into the Department of Treasury account 69–5172–0–2–407 or its successor account.
+
+“(3)
+
+Authorization of appropriations.—Funds deposited pursuant to this subsection are authorized to be appropriated for the purposes set forth in section 60301(d).”
+
 <b>2006</b>—Subsec. (<i>l</i>). Pub. L. 109–468, §13, reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “If the Secretary decides that a pipeline facility has a potential safety-related condition, the Secretary may order the operator of the facility to take necessary corrective action, including physical inspection, testing, repair, replacement, or other appropriate action to remedy the safety-related condition.”
 
 Subsecs. (m), (n). Pub. L. 109–468, §§11, 17, added subsecs. (m) and (n).
@@ -315,6 +361,90 @@ Subsec. (b). Pub. L. 104–304, §12(1), (3), substituted “owning” for “tr
 Subsec. (k). Pub. L. 104–304, §12(2), added subsec. (k).
 
 <b>1994</b>—Subsec. (i). Pub. L. 103–429 designated existing provisions as par. (1) and added par. (2).
+
+#### Regulations
+
+Pub. L. 112–90, §20(a), Jan. 3, 2012, 125 Stat. 1916, provided that:
+
+“(1)
+
+In general.—Not later than 2 years after the date of enactment of this Act \[Jan. 3, 2012\], the Secretary of Transportation shall issue regulations—
+
+&emsp;“(A) requiring hearings under sections 60112, 60117, 60118, and 60122 of title 49, United States Code, to be convened before a presiding official;
+
+&emsp;“(B) providing the opportunity for any person requesting a hearing under section 60112, 60117, 60118, or 60122 of such title to arrange for a transcript of the hearing, at the expense of the requesting person;
+
+&emsp;“(C) ensuring expedited review of any order issued pursuant to section 60112(e) of such title;
+
+&emsp;“(D) implementing a separation of functions between personnel involved with the investigation and prosecution of an enforcement case and advising the Secretary on findings and determinations; and
+
+&emsp;“(E) prohibiting ex-parte communication relevant to the question to be decided in such a case by parties to an investigation or hearing.
+
+“(2)
+
+Presiding official.—The regulations issued under this subsection shall—
+
+&emsp;“(A) define the term ‘presiding official’ to mean the person who conducts any hearing relating to civil penalty assessments, compliance orders, safety orders, or corrective action orders; and
+
+&emsp;“(B) require that the presiding official be an attorney on the staff of the Deputy Chief Counsel of the Pipeline and Hazardous Materials Safety Administration that is not engaged in investigative or prosecutorial functions, including the preparation of notices of probable violations, notices relating to civil penalty assessments, notices relating to compliance, or notices of proposed corrective actions.
+
+“(3)
+
+Expedited review.—The regulations issued under this subsection shall define the term ‘expedited review’ for the purposes of paragraph (1)(C).”
+
+#### Accident and Incident Notification
+
+Pub. L. 112–90, §9, Jan. 3, 2012, 125 Stat. 1912, provided that:
+
+“(a)
+
+Revision of Regulations.—Not later than 18 months after the date of enactment of this Act \[Jan. 3, 2012\], the Secretary of Transportation shall revise regulations issued under sections 191.5 and 195.52 of title 49, Code of Federal Regulations, to establish specific time limits for telephonic or electronic notice of accidents and incidents involving pipeline facilities to the Secretary and the National Response Center.
+
+“(b)
+
+Minimum Requirements.—In revising the regulations, the Secretary, at a minimum, shall—
+
+&emsp;“(1) establish time limits for telephonic or electronic notification of an accident or incident to require such notification at the earliest practicable moment following confirmed discovery of an accident or incident and not later than 1 hour following the time of such confirmed discovery;
+
+&emsp;“(2) review procedures for owners and operators of pipeline facilities and the National Response Center to provide thorough and coordinated notification to all relevant State and local emergency response officials, including 911 emergency call centers, for the jurisdictions in which those pipeline facilities are located in the event of an accident or incident, and revise such procedures as appropriate; and
+
+&emsp;“(3) require such owners and operators to revise their initial telephonic or electronic notice to the Secretary and the National Response Center with an estimate of the amount of the product released, an estimate of the number of fatalities and injuries, if any, and any other information determined appropriate by the Secretary within 48 hours of the accident or incident, to the extent practicable.
+
+“(c)
+
+Updating of Reports.—After receiving revisions described in subsection (b)(3), the National Response Center shall update the initial report on an accident or incident instead of generating a new report.”
+
+\[Terms used in section 9 of Pub. L. 112–90, set out above, have the meaning given those terms in this chapter, see section 1(c)(1) of Pub. L. 112–90, set out as a note under section 60101 of this title.\]
+
+#### Guidance
+
+Pub. L. 112–90, §13(b), Jan. 3, 2012, 125 Stat. 1914, provided that: “Not later than 1 year after the date of enactment of this Act \[Jan. 3, 2012\], the Secretary of Transportation shall issue guidance to clarify the meaning of the term ‘new or novel technologies or design’ as used in section 60117(n)(1)(B)(ii) of title 49, United States Code, as amended by subsection (a) of this section.”
+
+#### Pipeline Safety Training for State and Local Government Personnel
+
+Pub. L. 112–90, §25, Jan. 3, 2012, 125 Stat. 1919, provided that:
+
+“(a)
+
+In General.—To further the objectives of chapter 601 of title 49, United States Code, the Secretary of Transportation may provide the services of personnel from the Pipeline and Hazardous Materials Safety Administration to provide training for State and local government personnel at a pipeline safety training facility that is established and operated by an agency or instrumentality of the United States, a unit of State or local government, or an educational institution.
+
+“(b)
+
+Reimbursements for Training Expenditures.—
+
+&emsp;“(1)
+
+In general.—Notwithstanding any other provision of law, the Secretary may require reimbursement from sources other than the Federal Government for all expenses incurred by the Secretary in providing training for State and local government personnel under subsection (a), including salaries, expenses, transportation for Pipeline and Hazardous Materials Safety Administration personnel, and the cost of training materials.
+
+&emsp;“(2)
+
+Authorization of appropriations.—Amounts collected as reimbursement under paragraph (1) are authorized to be appropriated for the purposes set forth in chapter 601 of title 49, United States Code.”
+
+\[Terms used in section 25 of Pub. L. 112–90, set out above, have the meaning given those terms in this chapter, see section 1(c)(1) of Pub. L. 112–90, set out as a note under section 60101 of this title.\]
+
+#### Tribal Consultation for Pipeline Projects
+
+Pub. L. 112–90, §30, Jan. 3, 2012, 125 Stat. 1921, provided that: “Not later than 1 year after the date of enactment of this Act \[Jan. 3, 2012\], the Secretary of Transportation shall develop and implement a protocol for consulting with Indian tribes to provide technical assistance for the regulation of pipelines that are under the jurisdiction of Indian tribes.”
 
 #### Incident Reporting
 

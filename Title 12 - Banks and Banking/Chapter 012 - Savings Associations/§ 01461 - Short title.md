@@ -2,11 +2,15 @@
 
 This chapter may be cited as the “Home Owners’ Loan Act.”
 
-(June 13, 1933, ch. 64, §1, 48 Stat. 128; Pub. L. 101–73, title III, §301, Aug. 9, 1989, 103 Stat. 277.)
+(June 13, 1933, ch. 64, §1 (part), 48 Stat. 128; Pub. L. 101–73, title III, §301, Aug. 9, 1989, 103 Stat. 277.)
+
+#### Codification
+
+Section is comprised of the first sentence of section 1 of act June 13, 1933. The remainder of section 1 of the Act included a table of contents for the Act.
 
 #### Amendments
 
-1989—Pub. L. 101–73 amended section generally, striking out “of 1933” after “Act”.
+<b>1989</b>—Pub. L. 101–73 amended section generally, striking out “of 1933” after “Act”.
 
 #### Effective Date of 1989 Amendment
 
@@ -26,5 +30,5 @@ Pub. L. 102–242, title IV, §436, Dec. 19, 1991, 105 Stat. 2381, provided that
 
 #### Short Title of 1982 Amendment
 
-Pub. L. 97–320, title III, §301, Oct. 15, 1982, 96 Stat. 1496, provided that: “This title \[enacting section 1701j–3 of this title, amending sections 1425a, 1426, 1428a, 1430, 1464, 1725, 1730a, 1841, and 3503 of this title, enacting provisions set out as a note under section 3503 of this title, and repealing provisions set out as a note under section 461 of this title\] may be cited as the ‘Thrift Institutions Restructuring Act’.”
+Pub. L. 97–320, title III, §301, Oct. 15, 1982, 96 Stat. 1496, provided that: “This title \[enacting section 1701j–3 of this title, amending sections 1425a, 1426, 1428a, 1430, 1464, 1725, 1730a, 1841, and 3503 of this title, enacting provisions set out as a note under section 3503 of thistitle, and repealing provisions set out as a note under section 461 of this title\] may be cited as the ‘Thrift Institutions Restructuring Act’.”
 

@@ -90,7 +90,7 @@ For purposes of this subchapter—
 
 #### (2) Circumstances in which notice is permitted
 
-&emsp;The Secretary may mail the notice referred to in subparagraph (A) of paragraph (1) to apartner with respect to partnership items for a partnership taxable year only if—
+&emsp;The Secretary may mail the notice referred to in subparagraph (A) of paragraph (1) to a partner with respect to partnership items for a partnership taxable year only if—
 
 &emsp;&emsp;(A) such partner—
 
@@ -134,7 +134,7 @@ For purposes of this subchapter—
 
 #### (1) In general
 
-&emsp;For purposes of section 6223(b) (relating to special rules for partnerships with more than 100 partners) and paragraph (11) of subsection (a) (relating to 5-percent group), the interest of a partner in the profits of a partnership for a partnership taxable year shall be determined—
+&emsp;For purposes of section 6223(b) (relating to special rules for partnerships with more than100 partners) and paragraph (11) of subsection (a) (relating to 5-percent group), the interest of a partner in the profits of a partnership for a partnership taxable year shall be determined—
 
 &emsp;&emsp;(A) in the case of a partner whose entire interest in the partnership is disposed of during such partnership taxable year, as of the moment immediately before such disposition, or
 
@@ -174,7 +174,7 @@ Except to the extent otherwise provided in regulations, in the case of any partn
 
 #### (2) Determination that subchapter does not apply
 
-&emsp;If, on the basis of a partnership return for a taxable year, the Secretary reasonably determines that this subchapter does not apply tosuch partnership for such year but such determination is erroneous, then the provisions of this subchapter shall not apply to such partnership (and its items) for such taxable year or to partners of such partnership.
+&emsp;If, on the basis of a partnership return for a taxable year, the Secretary reasonably determines that this subchapter does not apply to such partnership for such year but such determination is erroneous, then the provisions of this subchapter shall not apply to such partnership (and its items) for such taxable year or to partners of such partnership.
 
 (Added Pub. L. 97–248, title IV, §402(a), Sept. 3, 1982, 96 Stat. 663; amended Pub. L. 98–369, div. A, title VII, §714(p)(2)(B)–(D), (I), July 18, 1984, 98 Stat. 964, 965; Pub. L. 105–34, title XI, §1141(b), title XII, §§1232(a), 1234(a), Aug. 5, 1997, 111 Stat. 981, 1023, 1024; Pub. L. 105–206, title III, §3507(a), July 22, 1998, 112 Stat. 772; Pub. L. 107–147, title IV, §§416(d)(1)(C), 417(19)(C), Mar. 9, 2002, 116 Stat. 55, 57.)
 

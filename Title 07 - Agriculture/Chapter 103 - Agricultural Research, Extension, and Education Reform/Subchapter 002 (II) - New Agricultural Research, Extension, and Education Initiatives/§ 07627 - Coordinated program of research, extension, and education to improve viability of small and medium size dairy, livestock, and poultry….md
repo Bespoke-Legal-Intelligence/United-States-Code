@@ -30,9 +30,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (c). Pub. L. 110–246, §7511(c)(31), substituted “National Institute of Food and Agriculture” for “Cooperative State Research, Education, and Extension Service”.
+<b>2008</b>—Subsec. (c). Pub. L. 110–246, §7511(c)(31), substituted “National Institute of Food and Agriculture” for “Cooperative State Research, Education, and Extension Service”.
 
-2002—Subsec. (b)(3). Pub. L. 107–171 inserted “(including improved use of energy inputs)” after “poultry systems that increase efficiencies”.
+<b>2002</b>—Subsec. (b)(3). Pub. L. 107–171 inserted “(including improved use of energy inputs)” after “poultry systems that increase efficiencies”.
 
 #### Effective Date of 2008 Amendment
 

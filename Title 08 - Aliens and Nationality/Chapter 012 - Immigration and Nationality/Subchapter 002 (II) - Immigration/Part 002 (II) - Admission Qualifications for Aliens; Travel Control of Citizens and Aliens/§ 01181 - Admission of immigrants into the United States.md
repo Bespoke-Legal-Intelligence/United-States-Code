@@ -16,15 +16,15 @@ The provisions of subsection (a) of this section shall not apply to an alien who
 
 #### Amendments
 
-1990—Subsec. (b). Pub. L. 101–649 substituted “1182(a)(7)(A)” for “1182(a)(20)”.
+<b>1990</b>—Subsec. (b). Pub. L. 101–649 substituted “1182(a)(7)(A)” for “1182(a)(20)”.
 
-1980—Subsec. (a). Pub. L. 96–212, §202(1), inserted reference to subsection (c) of this section.
+<b>1980</b>—Subsec. (a). Pub. L. 96–212, §202(1), inserted reference to subsection (c) of this section.
 
 Subsec. (c). Pub. L. 96–212, §202(2), added subsec. (c).
 
-1976—Subsec. (b). Pub. L. 94–571 substituted reference to section 1101 “(a)(27)(A)” of this title for “(a)(27)(B)”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–571 substituted reference to section 1101 “(a)(27)(A)” of this title for “(a)(27)(B)”.
 
-1965—Subsec. (a). Pub. L. 89–236 restated requirement of an unexpired visa and passport for every immigrant arriving in United States to conform to the changes with respect to the classification of immigrant visas.
+<b>1965</b>—Subsec. (a). Pub. L. 89–236 restated requirement of an unexpired visa and passport for every immigrant arriving in United States to conform to the changes with respect to the classification of immigrant visas.
 
 Subsec. (b). Pub. L. 89–236 substituted “returning resident immigrants, defined in section 1101(a)(27)(B) of this title, who are otherwise admissible”, for “otherwise admissible aliens lawfully admitted for permanent residence who depart from the United States temporarily”.
 

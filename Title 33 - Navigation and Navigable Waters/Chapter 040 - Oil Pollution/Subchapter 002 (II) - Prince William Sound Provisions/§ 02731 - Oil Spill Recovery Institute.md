@@ -22,9 +22,9 @@ The Institute shall conduct research and carry out educational and demonstration
 
 &emsp;&emsp;(B) One representative appointed by each of the Secretaries of Commerce and the Interior and the Commandant of the Coast Guard, who shall be Federal employees.
 
-&emsp;&emsp;(C) Two representatives from the fishing industry appointed by the Governor of the State of Alaska from among residents of communities in Alaska that were affected by the EXXON VALDEZ oil spill, who shall serve terms of 2 years each. Interested organizations from within the fishing industry may submit the names of qualified individuals for consideration by the Governor.
+&emsp;&emsp;(C) Two representatives from the fishing industry appointed by the Governor of theState of Alaska from among residents of communities in Alaska that were affected by the EXXON VALDEZ oil spill, who shall serve terms of 2 years each. Interested organizations from within the fishing industry may submit the names of qualified individuals for consideration by the Governor.
 
-&emsp;&emsp;(D) Two Alaska Natives who represent Native entities affected by the EXXONVALDEZ oil spill, at least one of whom represents an entity located in Prince William Sound, appointed by the Governor of Alaska from a list of 4 qualified individuals submitted by the Alaska Federation of Natives, who shall serve terms of 2 years each.
+&emsp;&emsp;(D) Two Alaska Natives who represent Native entities affected by the EXXON VALDEZ oil spill, at least one of whom represents an entity located in Prince William Sound, appointed by the Governor of Alaska from a list of 4 qualified individuals submitted by the Alaska Federation of Natives, who shall serve terms of 2 years each.
 
 &emsp;&emsp;(E) Two representatives from the oil and gas industry to be appointed by the Governor of the State of Alaska who shall serve terms of 2 years each. Interested organizations from within the oil and gas industry may submit the names of qualified individuals for consideration by the Governor.
 

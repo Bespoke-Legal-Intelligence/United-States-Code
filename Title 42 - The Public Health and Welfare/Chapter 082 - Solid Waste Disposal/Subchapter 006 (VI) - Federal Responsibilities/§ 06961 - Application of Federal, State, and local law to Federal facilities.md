@@ -18,7 +18,7 @@ Unless a State law in effect on October 6, 1992, or a State constitution require
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–386 designated existing provisions as subsec. (a), inserted heading, inserted in first sentence “and management” before “in the same manner”, inserted second to fourth, sixth, and seventh sentences specifying Federal, State, interstate, and local substantive and procedural requirements, waiving sovereign immunity, determining reasonable service charges, and providing no agent, employee, or officer of the United States be personally liable for a civil penalty for an act or omission within the scope of official duties but be subject to criminal sanction, with no department, agency, or instrumentality of the executive, legislative, or judicial branch subject to such sanction, and added subsecs. (b) and (c).
+<b>1992</b>—Pub. L. 102–386 designated existing provisions as subsec. (a), inserted heading, inserted in first sentence“and management” before “in the same manner”, inserted second to fourth, sixth, and seventh sentences specifying Federal, State, interstate, and local substantive and procedural requirements, waiving sovereign immunity, determining reasonable service charges, and providing no agent, employee, or officer of the United States be personally liable for a civil penalty for an act or omission within the scope of official duties but be subject to criminal sanction, with no department, agency, or instrumentality of the executive, legislative, or judicial branch subject to such sanction, and added subsecs. (b) and (c).
 
 <b>1978</b>—Pub. L. 95–609 inserted “or management” after “disposal” in cl. (2).
 

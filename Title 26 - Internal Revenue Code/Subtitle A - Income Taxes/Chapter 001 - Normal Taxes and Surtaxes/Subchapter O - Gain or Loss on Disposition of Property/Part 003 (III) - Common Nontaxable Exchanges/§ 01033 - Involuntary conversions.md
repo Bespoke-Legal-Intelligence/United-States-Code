@@ -94,7 +94,7 @@ If property (as a result of its destruction in whole or in part, theft, seizure,
 
 #### (ii) Allocation of reduction among properties
 
-&emsp;&emsp;&emsp;If more than 1 property is described in a clause of subparagraph (C), the reduction under this paragraph shall be allocated among such property in proportion to the adjusted bases of such property (as so determined).
+&emsp;&emsp;&emsp;If more than 1 property is described in a clause of subparagraph (C), the reductionunder this paragraph shall be allocated among such property in proportion to the adjusted bases of such property (as so determined).
 
 #### (c) Property sold pursuant to reclamation laws
 
@@ -160,7 +160,7 @@ For purposes of subsection (a), if, because of drought, flood, or other weather-
 
 #### (1) Principal residences
 
-&emsp;If the taxpayer's principal residence or any of its contents is located in a disaster area and is compulsorily or involuntarily converted as a result of a federally declared disaster—
+&emsp;If the taxpayer's principal residence or any of its contents is located in a disaster area andis compulsorily or involuntarily converted as a result of a federally declared disaster—
 
 #### (A) Treatment of insurance proceeds
 
@@ -244,7 +244,7 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to
 
 The date of the enactment of this subsection, referred to in subsec. (k), is the date of enactment of Pub. L. 109–7, which was approved Apr. 15, 2005.
 
-The National Flood Insurance Act, referred to in subsec. (k), probably means the National Flood InsuranceAct of 1968, title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, as amended, which is classified principally to chapter 50 (§4001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of Title 42 and Tables.
+The National Flood Insurance Act, referred to in subsec. (k), probably means the National Flood Insurance Act of 1968, title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, as amended, which is classified principally to chapter 50 (§4001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of Title 42 and Tables.
 
 #### Amendments
 
@@ -406,7 +406,7 @@ Section 2140(b) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 2
 
 #### Effective Date of 1969 Amendment
 
-Section 915(b) of Pub. L. 91–172, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:“The amendment made by this section \[amending this section\] shall apply only if the disposition of the converted property (within the meaning of section 1033(a)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) occurs after the date of the enactment of this Act \[Dec. 30, 1969\].”
+Section 915(b) of Pub. L. 91–172, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by this section \[amending this section\] shall apply only if the disposition of the converted property (within the meaning of section 1033(a)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) occurs after the date of the enactment of this Act \[Dec. 30, 1969\].”
 
 #### Effective Date of 1964 Amendment
 

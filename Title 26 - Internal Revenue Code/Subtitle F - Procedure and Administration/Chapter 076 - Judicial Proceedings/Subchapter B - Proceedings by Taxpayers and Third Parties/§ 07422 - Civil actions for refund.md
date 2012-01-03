@@ -10,7 +10,7 @@ Such suit or proceeding may be maintained whether or not such tax, penalty, or s
 
 #### (c) Suits against collection officer a bar
 
-A suit against any officer or employee of the United States (or former officer or employee) or his personal representative for the recovery of any internal revenue tax alleged to have been erroneously or illegally assessed or collected, or of any penalty claimed to have been collected without authority, or of any sum alleged to have been excessive or in any manner wrongfully collected shall be treated as if the United States had been a party to such suit in applying the doctrine of res judicata in all suits in respect of any internal revenue tax, and in all proceedingsin the Tax Court and on review of decisions of the Tax Court.
+A suit against any officer or employee of the United States (or former officer or employee) or his personal representative for the recovery of any internal revenue tax alleged to have been erroneously or illegally assessed or collected, or of any penalty claimed to have been collected without authority, or of any sum alleged to have been excessive or in any manner wrongfully collected shall be treated as if the United States had been a party to such suit in applying the doctrine of res judicata in all suits in respect of any internal revenue tax, and in all proceedings in the Tax Court and on review of decisions of the Tax Court.
 
 #### (d) Credit treated as payment
 
@@ -18,7 +18,7 @@ The credit of an overpayment of any tax in satisfaction of any tax liability sha
 
 #### (e) Stay of proceedings
 
-If the Secretary prior to the hearing of a suit brought by a taxpayer in a district court or the United States Court of Federal Claims for the recovery of any income tax, estate tax, gift tax, or tax imposed by chapter 41, 42, 43, or 44 (or any penalty relating to such taxes) mails to the taxpayer a notice that a deficiency has been determined in respect of the tax which is the subject matter of taxpayer's suit, the proceedings in taxpayer's suit shall be stayed during the period of time in which the taxpayer may file a petition with the Tax Court for a redetermination of the asserted deficiency, and for 60 days thereafter. If the taxpayer files a petition with the Tax Court, the district court or the United States Court of Federal Claims, as the case may be, shall lose jurisdiction of taxpayer's suit to whatever extent jurisdiction is acquired by the Tax Court of the subject matter of taxpayer's suit for refund. If the taxpayer does not file a petition with the Tax Court for a redetermination of the asserted deficiency, the United States may counterclaim in the taxpayer's suit, or intervene in the event of a suit as described in subsection (c) (relating to suits against officers or employees of the United States), within the period of the stay of proceedings notwithstanding that the time for such pleading may have otherwise expired. The taxpayer shall have the burden of proof with respect to the issues raised by such counterclaim or intervention of the United States except as to the issue of whether the taxpayer has been guilty of fraud with intent to evade tax. This subsection shall not apply to a suit by a taxpayer which, prior to the date of enactment of this title, is commenced, instituted, or pending in a district court or the United States Court of Federal Claims for the recovery of any income tax, estate tax, or gift tax (or any penalty relating to such taxes).
+If the Secretary prior to the hearing of a suit brought by a taxpayer in a district court or the United States Court of Federal Claims for the recovery of any income tax, estate tax, gift tax, or tax imposed by chapter 41, 42, 43, or 44 (or any penalty relating to such taxes) mails to the taxpayer a notice that a deficiency has been determined in respect of the tax which is the subject matter of taxpayer's suit, the proceedings in taxpayer's suit shall be stayed during the period of time in which the taxpayer may file a petition with the Tax Court for a redetermination of the asserted deficiency, and for 60 days thereafter. If the taxpayer files a petition with the Tax Court, the district court or the United States Court of Federal Claims, as the case may be, shall lose jurisdiction of taxpayer's suit to whatever extent jurisdiction is acquired by theTax Court of the subject matter of taxpayer's suit for refund. If the taxpayer does not file a petition with the Tax Court for a redetermination of the asserted deficiency, the United States may counterclaim in the taxpayer's suit, or intervene in the event of a suit as described in subsection (c) (relating to suits against officers or employees of the United States), within the period of the stay of proceedings notwithstanding that the time for such pleading may have otherwise expired. The taxpayer shall have the burden of proof with respect to the issues raised by such counterclaim or intervention of the United States except as to the issue of whether the taxpayer has been guilty of fraud with intent to evade tax. This subsection shall not apply to a suit by a taxpayer which, prior to the date of enactment of this title, is commenced, instituted, or pending in a district court or the United States Court of Federal Claims for the recovery of any income tax, estate tax, or gift tax (or any penalty relating to such taxes).
 
 #### (f) Limitation on right of action for refund
 
@@ -56,7 +56,7 @@ No action may be brought for a refund attributable to partnership items (as defi
 
 #### (i) Special rule for actions with respect to tax shelter promoter and understatement penalties
 
-No action or proceeding may be brought in the United States Court of Federal Claims for any refund or credit of a penalty imposed by section 6700 (relating to penalty for promoting abusivetax shelters, etc.) or section 6701 (relating to penalties for aiding and abetting understatement of tax liability).
+No action or proceeding may be brought in the United States Court of Federal Claims for any refund or credit of a penalty imposed by section 6700 (relating to penalty for promoting abusive tax shelters, etc.) or section 6701 (relating to penalties for aiding and abetting understatement of tax liability).
 
 #### (j) Special rule for actions with respect to estates for which an election under section 6166 is made
 
@@ -72,7 +72,7 @@ No action or proceeding may be brought in the United States Court of Federal Cla
 
 &emsp;&emsp;(B) all such installments the due date for which is on or before the date the action is filed have been paid;
 
-&emsp;&emsp;(C) there is no case pending in the Tax Court with respect to the tax imposed by section 2001 on the estate and, if a notice of deficiency under section 6212 with respect to such tax has been issued, the time for filing a petition with the Tax Court with respect to such notice has expired; and
+&emsp;&emsp;(C) there is no case pending in the Tax Court with respect to the tax imposed by section 2001 on the estate and, if a notice ofdeficiency under section 6212 with respect to such tax has been issued, the time for filing a petition with the Tax Court with respect to such notice has expired; and
 
 &emsp;&emsp;(D) no proceeding for declaratory judgment under section 7479 is pending.
 
@@ -206,7 +206,7 @@ Amendment by Pub. L. 91–172 effective Jan. 1, 1970, see section 101(k)(1) of P
 
 #### Effective Date of 1966 Amendment
 
-Section 3(d) of Pub. L. 89–713 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 2502 of Title 28, Judiciary andJudicial Procedure\] shall apply to suits brought against officers, employees, or personal representatives referred to therein which are instituted 90 days or more after the date of the enactment of this Act \[Nov. 2, 1966\]. The amendment made by subsection (c) \[amending section 7482 of this title\] shall apply to all decisions of the Tax Court entered after the date of enactment of this Act.”
+Section 3(d) of Pub. L. 89–713 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 2502 of Title 28, Judiciary and Judicial Procedure\] shall apply to suits brought against officers, employees, or personal representatives referred to therein which are instituted 90 days or more after the date of the enactment of this Act \[Nov. 2, 1966\]. The amendment made by subsection (c) \[amending section 7482 of this title\] shall apply to all decisions of the Tax Court entered after the date of enactment of this Act.”
 
 #### Effective Date of 1958 Amendment
 

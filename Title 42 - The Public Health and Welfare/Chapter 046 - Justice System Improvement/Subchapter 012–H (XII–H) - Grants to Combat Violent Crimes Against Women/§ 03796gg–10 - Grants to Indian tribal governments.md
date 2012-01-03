@@ -12,7 +12,7 @@ The Attorney General may make grants to Indian tribal governments or authorized 
 
 &emsp;(4) enhance services to Indian women victimized by domestic violence, dating violence, sexual assault, and stalking;
 
-&emsp;(5) work in cooperation with the community to develop education and prevention strategies directed toward issues of domestic violence, dating violence, and stalking programs and to address the needs of children exposed to domestic violence;
+&emsp;(5) work in cooperation with the community to develop education and prevention strategiesdirected toward issues of domestic violence, dating violence, and stalking programs and to address the needs of children exposed to domestic violence;
 
 &emsp;(6) provide programs for supervised visitation and safe visitation exchange of children in situations involving domestic violence, sexual assault, or stalking committed by one parent against the other with appropriate security measures, policies, and procedures to protect the safety of victims and their children;
 

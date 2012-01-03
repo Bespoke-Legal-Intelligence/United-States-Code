@@ -36,13 +36,13 @@ This chapter, referred to in subsec. (f), was in the original a reference to thi
 
 #### Amendments
 
-1991—Subsec. (a). Pub. L. 102–232, §305(m)(7), struck out “, in duplicate,” after “file with the Attorney General”.
+<b>1991</b>—Subsec. (a). Pub. L. 102–232, §305(m)(7), struck out “, in duplicate,” after “file with the Attorney General”.
 
 Pub. L. 102–232, §305(e), made technical correction to directory language of Pub. L. 101–649, §407(d)(12)(B). See 1990 Amendment note below.
 
 Subsecs. (f), (g). Pub. L. 102–232, §305(d), redesignated subsec. (g) as (f).
 
-1990—Pub. L. 101–649, §407(d)(12)(A), substituted “Application for naturalization; declaration of intention” for “Petition for naturalization” in section catchline.
+<b>1990</b>—Pub. L. 101–649, §407(d)(12)(A), substituted “Application for naturalization; declaration of intention” for “Petition for naturalization” in section catchline.
 
 Subsec. (a). Pub. L. 101–649, §407(c)(15), (d)(12)(B), as amended by Pub. L. 102–232, §305(e), substituted “with the Attorney General” for “in the office of the clerk of a naturalization court”, “under this subchapter” for “upon the hearing of such petition”, and “application” for “petition” wherever appearing.
 
@@ -52,9 +52,9 @@ Subsec. (b). Pub. L. 101–649, §407(c)(15), (d)(12)(C), substituted “applica
 
 Subsecs. (c) to (e). Pub. L. 101–649, §407(d)(12)(F), added subsecs. (c) to (e) and struck out former subsecs. (c) to (e) which related to time to file, substitute filing place, and investigation into reasons for substitute filing place, respectively.
 
-Subsecs. (f), (g). Pub. L. 101–649, §407(c)(15), (d)(12)(D), (E), redesignated subsec. (f) as (g), substituted “An alien over 18 years of age who is residing in the United States pursuant to a lawful admission for permanent residence may file with the Attorney General a declaration of intention to become a citizen of the United States. Such a declaration shall be filed in duplicate and in a form prescribed by the Attorney General and shall be accompanied by an application prescribed and approved by the Attorney General.” for “Any alien over eighteen years of age who is residing in the United States pursuant to a lawful admission for permanent residence may, upon an application prescribed, filed with, and approved by the Service, make and file in duplicate in the office of the clerk of court, regardless of the alien's place of residence in the United States, a signed declaration of intention to become a citizen of the United States, in such form as the Attorney General shall prescribe.”, and substituted “an application” for “a petition” in last sentence.
+Subsecs. (f), (g). Pub. L. 101–649, §407(c)(15), (d)(12)(D), (E), redesignated subsec. (f) as (g), substituted “An alien over 18 years of age who is residing in the United States pursuant to a lawful admission for permanent residence may file with the Attorney General a declaration of intention to become a citizen of the United States. Such a declaration shall be filed in duplicate and in a form prescribed by the Attorney General and shall be accompanied by an application prescribed and approved by the Attorney General.” for “Any alien over eighteen years of age who is residing in the United States pursuant to a lawful admission for permanent residence may, upon an application prescribed, filedwith, and approved by the Service, make and file in duplicate in the office of the clerk of court, regardless of the alien's place of residence in the United States, a signed declaration of intention to become a citizen of the United States, in such form as the Attorney General shall prescribe.”, and substituted “an application” for “a petition” in last sentence.
 
-1981—Subsec. (a). Pub. L. 97–116 struck out “and duly verified by two witnesses,” after “able to write,”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–116 struck out “and duly verified by two witnesses,” after “able to write,”.
 
 #### Effective Date of 1991 Amendment
 

@@ -54,7 +54,7 @@ The management of the Regional Corporation shall be vested in a board of directo
 
 #### (1) Settlement Common Stock
 
-&emsp;(A) The Regional Corporation shall be authorized to issue such number of shares of Settlement Common Stock (divided into such classes as may be specified in the articles of incorporation to reflect the provisions of this chapter) as may be needed to issue one hundred shares of stock to each Native enrolled in the region pursuant to section 1604 of this title.
+&emsp;(A) The Regional Corporation shall be authorized to issue such number of shares of Settlement Common Stock (divided into such classes as may be specified in the articles of incorporation to reflect the provisions of this chapter) as may be needed to issue one hundred shares of stock to each Native enrolled inthe region pursuant to section 1604 of this title.
 
 &emsp;(B)(i) A Regional Corporation may amend its articles of incorporation to authorize the issuance of additional shares of Settlement Common Stock to—
 
@@ -80,7 +80,7 @@ In general.—An amendment under clause (i) may provide that Settlement Common S
 
 Conditions.—A condition referred to in subclause (I) is a condition that—
 
-&emsp;&emsp;&emsp;(aa) the stock described in that subclause shall be deemed to be canceled onthe death of the Native to whom the stock is issued, and no compensation for the cancellation shall be paid to the estate of the deceased Native or any person holding the stock;
+&emsp;&emsp;&emsp;(aa) the stock described in that subclause shall be deemed to be canceled on the death of the Native to whom the stock is issued, and no compensation for the cancellation shall be paid to the estate of the deceased Native or any person holding the stock;
 
 &emsp;&emsp;&emsp;(bb) the stock shall carry limited or no voting rights; and
 
@@ -320,7 +320,7 @@ Conditions.—A condition referred to in subclause (I) is a condition that—
 
 &emsp;&emsp;(III) otherwise in accordance with this paragraph.
 
-&emsp;(K) The consideration given for the purchase of Settlement Common Stock made pursuant to an offer to purchase that provides for such consideration may be in the form of cash, securities, or a combination of cash and securities, as determined by the board of directors of Cook Inlet Regional Corporation, in a manner consistent with an amendment made pursuant to subparagraph (B).
+&emsp;(K) The consideration given for the purchase of Settlement Common Stock made pursuant to an offer to purchase that provides for such consideration may be in the form of cash, securities, or a combination of cash and securities, as determined by the board of directors ofCook Inlet Regional Corporation, in a manner consistent with an amendment made pursuant to subparagraph (B).
 
 &emsp;(L) Sale of Settlement Common Stock in accordance with this paragraph shall not diminish a shareholder's status as an Alaska Native or descendant of a Native for the purpose of qualifying for those programs, benefits and services or other rights or privileges set out for the benefit of Alaska Natives and Native Americans. Proceeds from the sale of Settlement Common Stock shall not be excluded in determining eligibility for any needs-based programs that may be provided by Federal, State or local agencies.
 
@@ -328,7 +328,7 @@ Conditions.—A condition referred to in subclause (I) is a condition that—
 
 (1)(A) Except as provided by subparagraph (B), 70 percent of all revenues received by each Regional Corporation from the timber resources and subsurface estate patented to it pursuant to this chapter shall be divided annually by the Regional Corporation among all twelve Regional Corporations organized pursuant to this section according to the number of Natives enrolled in each region pursuant to section 1604 of this title. The provisions of this subsection shall not apply to the thirteenth Regional Corporation if organized pursuant to subsection (c) hereof.
 
-(B) In the case of the sale, disposition, or other use of common varieties of sand, gravel, stone, pumice, peat, clay, or cinder resources made during a fiscal year ending after October 31, 1998, the revenues received by a RegionalCorporation shall not be subject to division under subparagraph (A). Nothing in this subparagraph is intended to or shall be construed to alter the ownership of such sand, gravel, stone, pumice, peat, clay, or cinder resources.
+(B) In the case of the sale, disposition, or other use of common varieties of sand, gravel, stone, pumice, peat, clay, or cinder resources made during a fiscal year ending after October 31, 1998, the revenues received by a Regional Corporation shall not be subject to division under subparagraph (A). Nothing in this subparagraph is intended to or shall be construed to alter the ownership of such sand, gravel, stone, pumice, peat, clay, or cinder resources.
 
 (2) For purposes of this subsection, the term “revenues” does not include any benefit received or realized for the use of losses incurred or credits earned by a Regional Corporation.
 
@@ -366,7 +366,7 @@ Two or more Regional Corporations may contract with the same business management
 
 #### (r) Benefits for shareholders or immediate families
 
-The authority of a Native Corporation to provide benefits to its shareholders who are Natives or descendants of Natives or to its shareholders’immediate family members who are Natives or descendants of Natives to promote the health, education, or welfare of such shareholders or family members is expressly authorized and confirmed. Eligibility for such benefits need not be based on share ownership in the Native Corporation and such benefits may be provided on a basis other than pro rata based on share ownership.
+The authority of a Native Corporation to provide benefits to its shareholders who are Natives or descendants of Natives or to its shareholders’ immediate family members who are Natives or descendants of Natives to promote the health, education, or welfare of such shareholders or family members is expressly authorized and confirmed. Eligibility for such benefits need not be based on share ownership in the Native Corporation and such benefits may be provided on a basis other than pro rata based on share ownership.
 
 (Pub. L. 92–203, §7, Dec. 18, 1971, 85 Stat. 691; Pub. L. 96–487, title XIV, §1401(a), (c), Dec. 2, 1980, 94 Stat. 2491, 2492; Pub. L. 100–241, §§4, 5, 12(a), Feb. 3, 1988, 101 Stat. 1790, 1792, 1810; Pub. L. 102–415, §§4, 8, Oct. 14, 1992, 106 Stat. 2113, 2114; Pub. L. 104–10, §1(a), May 18, 1995, 109 Stat. 155; Pub. L. 104–42, title I, §109(a), Nov. 2, 1995, 109 Stat. 357; Pub. L. 105–333, §§8, 12, Oct. 31, 1998, 112 Stat. 3134, 3135; Pub. L. 106–194, §2, May 2, 2000, 114 Stat. 242; Pub. L. 110–453, title II, §206, Dec. 2, 2008, 122 Stat. 5030.)
 

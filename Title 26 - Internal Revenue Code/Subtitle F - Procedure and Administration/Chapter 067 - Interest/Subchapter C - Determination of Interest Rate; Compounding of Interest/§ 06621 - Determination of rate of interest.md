@@ -40,7 +40,7 @@ For purposes of this section—
 
 #### (3) Federal short-term rate
 
-&emsp;The Federal short-term rate for any month shall be the Federal short-term rate determined during such month by the Secretary in accordance with section 1274(d). Any such rate shall be rounded to the nearest full percent (or, if a multiple of 1/2 of 1 percent, such rate shall be increased to the next highest full percent).
+&emsp;The Federal short-term rate for any month shall be the Federal short-term rate determined during such month by the Secretary in accordance with section 1274(d). Any such rate shall be rounded to the nearest full percent (or, if a multiple of ½ of 1 percent, such rate shall be increased to the next highest full percent).
 
 #### (c) Increase in underpayment rate for large corporate underpayments
 
@@ -70,7 +70,7 @@ For purposes of this section—
 
 #### (ii) Exception where amounts paid in full
 
-&emsp;&emsp;&emsp;For purposes of subparagraph (A), a letter or notice shall be disregarded if, during the 30-day period beginning on the day on which it was sent, the taxpayer makes a payment equal to the amount shown as due in such letter or notice, as the case may be.
+&emsp;&emsp;&emsp;For purposes of subparagraph (A), a letter or notice shall be disregarded if, duringthe 30-day period beginning on the day on which it was sent, the taxpayer makes a payment equal to the amount shown as due in such letter or notice, as the case may be.
 
 #### (iii) Exception for letters or notices involving small amounts
 

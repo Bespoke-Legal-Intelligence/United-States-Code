@@ -22,7 +22,7 @@
 
 (2) Paragraph (1) shall not apply where—
 
-&emsp;(A) a statute specifically permits a regulation to be issued in interim final form or otherwise with a shorter period for public comment,
+&emsp;(A) a statute specifically permits a regulation to be issued in interim final form orotherwise with a shorter period for public comment,
 
 &emsp;(B) a statute establishes a specific deadline for the implementation of a provision and the deadline is less than 150 days after the date of the enactment of the statute in which the deadline is contained, or
 
@@ -79,10 +79,6 @@
 (3) A report under paragraph (1) shall include a description of efforts by the Secretary to reduce such inconsistency or conflicts, and recommendations for legislation or administrative action that the Secretary determines appropriate to further reduce such inconsistency or conflicts.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1871, as added Pub. L. 89–97, title I, §102(a) July 30, 1965, 79 Stat. 331; amended Pub. L. 99–509, title IX, §9321(e)(1), Oct. 21, 1986, 100 Stat. 2017; Pub. L. 100–203, title IV, §4035(b), (c), Dec. 22, 1987, 101 Stat. 1330–78; Pub. L. 108–173, title IX, §§902(a)(1), (b)(1), 903(a)(1), (b)(1), (c)(1), 904(b), Dec. 8, 2003, 117 Stat. 2375–2377.)
-
-#### References in Text
-
-Parts A and B of this subchapter, referred to in subsec. (f)(2)(A), are classified to sections 1395c et seq. and 1395j et seq., respectively, of this title.
 
 #### Amendments
 

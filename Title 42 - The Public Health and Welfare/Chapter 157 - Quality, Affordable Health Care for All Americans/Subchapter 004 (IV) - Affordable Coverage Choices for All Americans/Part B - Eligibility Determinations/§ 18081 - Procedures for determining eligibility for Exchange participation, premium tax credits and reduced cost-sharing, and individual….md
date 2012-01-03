@@ -4,7 +4,7 @@
 
 The Secretary shall establish a program meeting the requirements of this section for determining—
 
-&emsp;(1) whether an individual who is to be covered in the individual market by a qualified health plan offered through an Exchange, or who is claiming a premium tax credit or reduced cost-sharing, meets the requirements of sections 18032(f)(3), 18071(e), and 18082(d) of this title and section 36B(e) of title 26 that the individual be a citizen or national of the UnitedStates or an alien lawfully present in the United States;
+&emsp;(1) whether an individual who is to be covered in the individual market by a qualified health plan offered through an Exchange, or who is claiming a premium tax credit or reduced cost-sharing, meets the requirements of sections 18032(f)(3), 18071(e), and 18082(d) of this title and section 36B(e) of title 26 that the individual be a citizen or national of the United States or an alien lawfully present in the United States;
 
 &emsp;(2) in the case of an individual claiming a premium tax credit or reduced cost-sharing under section 36B of title 26 or section 18071 of this title—
 
@@ -112,7 +112,7 @@ The Secretary shall establish a program meeting the requirements of this section
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary, in consultation with the Secretary of the Treasury, the Secretary of Homeland Security, and the Commissioner of Social Security, shall provide that verifications and determinations under this subsection shall be done—
+&emsp;&emsp;The Secretary, in consultation with the Secretary of the Treasury, the Secretary ofHomeland Security, and the Commissioner of Social Security, shall provide that verifications and determinations under this subsection shall be done—
 
 &emsp;&emsp;&emsp;(i) through use of an on-line system or otherwise for the electronic submission of, and response to, the information submitted under this subsection with respect to an applicant; or
 
@@ -174,7 +174,7 @@ In the case of information provided under subsection (b) that is not required un
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in paragraph (3), the Exchange shall, during any period before the close of the period under subparagraph (A)(ii)(II), make any determination under paragraphs (2), (3), and (4) of subsection (a) on the basis of the information contained on the application.
+&emsp;&emsp;&emsp;Except as provided in paragraph (3), the Exchange shall, during any period before the close of the period under subparagraph (A)(ii)(II), make any determination under paragraphs (2), (3), and (4) of subsection (a)on the basis of the information contained on the application.
 
 #### (ii) Eligibility or amount of credit or reduction
 
@@ -295,6 +295,10 @@ Sections 36B(c)(2)(C) and 5000A(e)(2) of title 26, section 6103(<i>l</i>)(21) of
 This title, referred to in subsecs. (f)(2)(B) and (i)(1), is title I of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 130, which enacted this chapter and enacted, amended, and transferred numerous other sections and notes in the Code. For complete classification of title I to the Code, see Tables.
 
 Section 1513, referred to in subsec. (i)(1), means section 1513 of Pub. L. 111–148.
+
+#### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

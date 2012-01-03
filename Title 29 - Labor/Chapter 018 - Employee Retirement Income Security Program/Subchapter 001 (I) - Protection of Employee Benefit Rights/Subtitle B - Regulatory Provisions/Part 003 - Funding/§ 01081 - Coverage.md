@@ -32,7 +32,7 @@ For the purposes of paragraph (2) of subsection (a) of this section a plan is an
 
 &emsp;(1) the plan is funded exclusively by the purchase of individual insurance contracts,
 
-&emsp;(2) such contracts provide for level annual premium payments to be paid extending not later than the retirement age for each individual participating in the plan, and commencing with the date the individual became a participant in the plan (or, in the case of an increase in benefits, commencing at the time such increase became effective),
+&emsp;(2) such contracts provide for level annual premium payments to be paid extending notlater than the retirement age for each individual participating in the plan, and commencing with the date the individual became a participant in the plan (or, in the case of an increase in benefits, commencing at the time such increase became effective),
 
 &emsp;(3) benefits provided by the plan are equal to the benefits provided under each contract at normal retirement age under the plan and are guaranteed by an insurance carrier (licensed under the laws of a State to do business with the plan) to the extent premiums have been paid,
 

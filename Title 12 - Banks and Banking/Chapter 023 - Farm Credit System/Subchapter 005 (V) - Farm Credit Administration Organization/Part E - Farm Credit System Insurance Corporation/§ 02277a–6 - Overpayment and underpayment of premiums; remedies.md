@@ -36,7 +36,7 @@ The remedies provided in subsections (b) and (c) of this section shall not be co
 
 #### Amendments
 
-1988—Subsec. (b)(1). Pub. L. 100–399, §302(g), struck out “made any report of condition required under section 2277a–4 of this title or” after “bank has” and “make any such report or” after “bank to”.
+<b>1988</b>—Subsec. (b)(1). Pub. L. 100–399, §302(g), struck out “made any report of condition required under section 2277a–4 of this title or” after “bank has” and “make any such report or” after “bank to”.
 
 Subsec. (b)(2). Pub. L. 100–399, §302(h), substituted “bank has filed” for “bank has made or filed”.
 

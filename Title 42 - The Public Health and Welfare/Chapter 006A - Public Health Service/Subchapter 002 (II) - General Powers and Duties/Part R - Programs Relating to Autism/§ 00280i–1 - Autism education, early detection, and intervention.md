@@ -16,7 +16,7 @@ The Secretary shall, subject to the availability of appropriations, establish an
 
 &emsp;(2) promote research into the development and validation of reliable screening tools for autism spectrum disorder and other developmental disabilities and disseminate information regarding those screening tools;
 
-&emsp;(3) promote early screening of individuals at higher risk for autism spectrum disorder andother developmental disabilities as early as practicable, given evidence-based screening techniques and interventions;
+&emsp;(3) promote early screening of individuals at higher risk for autism spectrum disorder and other developmental disabilities as early as practicable, given evidence-based screening techniques and interventions;
 
 &emsp;(4) increase the number of individuals who are able to confirm or rule out a diagnosis of autism spectrum disorder and other developmental disabilities;
 
@@ -146,9 +146,9 @@ The Secretary shall promote research, through grants or contracts, to determine 
 
 #### (g) Sunset
 
-This section shall not apply after September 30, 2011.
+This section shall not apply after September 30, 2014.
 
-(July 1, 1944, ch. 373, title III, §399BB, as added Pub. L. 109–416, §3(a), Dec. 19, 2006, 120 Stat. 2823.)
+(July 1, 1944, ch. 373, title III, §399BB, as added Pub. L. 109–416, §3(a), Dec. 19, 2006, 120 Stat. 2823; amended Pub. L. 112–32, §2(2), Sept. 30, 2011, 125 Stat. 361.)
 
 #### References in Text
 
@@ -161,4 +161,8 @@ The Individuals with Disabilities Education Act, referred to in subsecs. (c)(1)(
 The Rehabilitation Act of 1973, referred to in subsec. (c)(1)(A)(x), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified principally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
 The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (d)(2)(A), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677, which is classified principally to chapter 144 (§15001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of this title and Tables.
+
+#### Amendments
+
+<b>2011</b>—Subsec. (g). Pub. L. 112–32 substituted “2014” for “2011”.
 

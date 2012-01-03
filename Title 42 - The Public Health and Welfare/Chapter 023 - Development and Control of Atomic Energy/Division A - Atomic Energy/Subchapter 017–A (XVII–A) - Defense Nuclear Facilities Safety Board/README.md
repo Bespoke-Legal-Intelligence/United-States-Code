@@ -16,3 +16,4 @@
 - [&sect; 02286h - Contract authority subject to appropriations](%C2%A7%2002286h%20-%20Contract%20authority%20subject%20to%20appropriations.md)
 - [&sect; 02286h&#8211;1 - Transmittal of certain information to Congress](%C2%A7%2002286h%E2%80%931%20-%20Transmittal%20of%20certain%20information%20to%20Congress.md)
 - [&sect; 02286i - Annual authorization of appropriations](%C2%A7%2002286i%20-%20Annual%20authorization%20of%20appropriations.md)
+- [&sect; 02286j - Procurement of inspector general services](%C2%A7%2002286j%20-%20Procurement%20of%20inspector%20general%20services.md)

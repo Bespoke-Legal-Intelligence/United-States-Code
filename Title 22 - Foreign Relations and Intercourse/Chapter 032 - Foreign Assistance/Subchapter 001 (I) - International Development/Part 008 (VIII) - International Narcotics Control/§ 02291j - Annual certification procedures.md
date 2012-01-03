@@ -72,7 +72,7 @@ Subsection (e) of this section shall apply to a country described in that subsec
 
 &emsp;&emsp;&emsp;&emsp;(II) if he had made such a certification and the Congress enacted a joint resolution disapproving the determination contained in the certification, why the Congress enacted that joint resolution; or
 
-&emsp;&emsp;(B) the Congress enacts a joint resolution approving the determination contained inthe certification under subsection (b)(1)(B) of this section.
+&emsp;&emsp;(B) the Congress enacts a joint resolution approving the determination contained in the certification under subsection (b)(1)(B) of this section.
 
 > Any certification under subparagraph (A) of paragraph (2) shall discuss the justification for the certification.
 
@@ -132,7 +132,7 @@ By virtue of the authority vested in me by section 490(b)(1)(A) of the Foreign A
 
 &emsp;The Bahamas, Bolivia, Brazil, People's Republic of China, Colombia, Dominican Republic, Ecuador, Guatemala, India, Jamaica, Laos, Mexico, Nigeria, Pakistan, Panama, Paraguay, Peru, Thailand, Venezuela, and Vietnam
 
-By virtue of the authority vested in me by section 490(b)(1)(B) of the Act, I hereby determine and certify that, for the following major illicit drug producing and/or major illicit drug transit countries that do not qualify for certification under section 490(b)(1)(A), the vital national interests of the United States require that assistance not be withheld and that the United States not vote against multilateral development bank assistance:
+By virtue of the authority vested in me by section 490(b)(1)(B) of the Act, I hereby determine and certify that, for the following major illicit drug producing and/or major illicit drug transit countries that do not qualify for certification under section 490(b)(1)(A), the vitalnational interests of the United States require that assistance not be withheld and that the United States not vote against multilateral development bank assistance:
 
 &emsp;Cambodia and Haiti
 
@@ -142,7 +142,7 @@ I have determined that the following major illicit drug producing and/or major i
 
 &emsp;Afghanistan and Burma
 
-In making these determinations, I have considered the factors set forth in section 490 of the Act, based on the information contained in the International Narcotics Control Strategy Report of 2001. Given that the performance of each of these countries has differed, I haveattached an explanatory statement for each of the countries subject to this determination \[not set out in the Code\].
+In making these determinations, I have considered the factors set forth in section 490 of the Act, based on the information contained in the International Narcotics Control Strategy Report of 2001. Given that the performance of each of these countries has differed, I have attached an explanatory statement for each of the countries subject to this determination \[not set out in the Code\].
 
 You are hereby authorized and directed to report this determination to the Congress immediately and to publish it in the Federal Register.
 

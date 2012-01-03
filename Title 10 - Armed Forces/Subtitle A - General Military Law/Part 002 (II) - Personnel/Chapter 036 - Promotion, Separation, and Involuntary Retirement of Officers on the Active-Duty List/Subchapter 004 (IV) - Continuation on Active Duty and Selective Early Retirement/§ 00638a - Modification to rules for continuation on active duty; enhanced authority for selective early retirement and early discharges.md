@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(B) Officers in the regular grade of colonel or, in the case of the Navy, captain who would be subject to consideration for selection for early retirement under section 638(a)(1)(B) of this title except that they have served on active duty in that grade less than four years (but not less than two years).
 
-&emsp;&emsp;(C) Officers, other than those described in subparagraphs (A) and (B), holding a regulargrade below the grade of colonel, or in the case of the Navy, captain, who are eligible for retirement under section 3911, 6323, or 8911 of this title, or who after two additional years or less of active service would be eligible for retirement under one of those sections and whose names are not on a list of officers recommended for promotion.
+&emsp;&emsp;(C) Officers, other than those described in subparagraphs (A) and (B), holding a regular grade below the grade of colonel, or in the case of the Navy, captain, who are eligible for retirement under section 3911, 6323, or 8911 of this title, or who after two additional years or less of active service would be eligible for retirement under one of those sections and whose names are not on a list of officers recommended for promotion.
 
 &emsp;(3) Suspending section 638(c) of this title.
 
@@ -44,7 +44,7 @@
 
 &emsp;(A) in each grade in each competitive category, except that during the period beginning on October 1, 2006, and ending on December 31, 2012, such number may be more than 30 percent of the officers considered in each competitive category, but may not be more than 30 percent of the number of officers considered in each grade; or
 
-&emsp;(B) in each grade, year group, or specialty (or combination thereof) in each competitive category, except that during the period beginning on October 1, 2006, and ending on December 31, 2012, such number may be more than 30 percent of the officers considered in each competitive category, but may not be more than 30 percent of the number of officers considered in each grade.
+&emsp;(B) in each grade, year group, or specialty (or combination thereof) in each competitive category, except that during the period beginning on October 1, 2006, and ending on December 31, 2012, such number may be more than 30percent of the officers considered in each competitive category, but may not be more than 30 percent of the number of officers considered in each grade.
 
 (3) The total number of officers described in subsection (b)(4) from any of the armed forces (or from any of the armed forces in a particular grade) who may be recommended during a fiscal year for discharge by a selection board convened pursuant to the authority of that subsection may not exceed 70 percent of the decrease, as compared to the preceding fiscal year, in the number of officers of that armed force (or the number of officers of that armed force in that grade) authorized to be serving on active duty as of the end of that fiscal year.
 
@@ -64,7 +64,7 @@ Section 4403 of the National Defense Authorization Act for Fiscal Year 1993, ref
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–364, §623(b)(1), inserted “and for the purpose of subsection (b)(4) during the period beginning on October 1, 2006, and ending on December 31, 2012,” after “December 31, 2001,”.
 
-Subsec. (d)(2)(A). Pub. L. 109–364, §623(b)(2)(A), inserted “, except that during the period beginning onOctober 1, 2006, and ending on December 31, 2012, such number may be more than 30 percent of the officers considered in each competitive category, but may not be more than 30 percent of the number of officers considered in each grade” before “; or” at end.
+Subsec. (d)(2)(A). Pub. L. 109–364, §623(b)(2)(A), inserted “, except that during the period beginning on October 1, 2006, and ending on December 31, 2012, such number may be more than 30 percent of the officers considered in each competitive category, but may not be more than 30 percent of the number of officers considered in each grade” before “; or” at end.
 
 Subsec. (d)(2)(B). Pub. L. 109–364, §623(b)(2)(B), inserted “, except that during the period beginning on October 1, 2006, and ending on December 31, 2012, such number may be more than 30 percent of the officers considered in each competitive category, but may not be more than 30 percent of the number of officers considered in each grade” before period at end.
 

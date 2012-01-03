@@ -10,7 +10,7 @@ Effectiveness of Adjustment.—An adjustment under this section shall have the f
 
 (c)
 
-Equal Percentage Increase for All Members.—(1) An adjustment made under this section in a year shall provide all eligible members with an increase in the monthly basic pay that is the percentage (rounded to the nearest one-tenth of one percent) by which the ECI for the base quarter of the year before the preceding year exceeds the ECI for the base quarter of the second year before the preceding calendar year (if at all).
+Equal Percentage Increase for All Members.—(1) An adjustment made under thissection in a year shall provide all eligible members with an increase in the monthly basic pay that is the percentage (rounded to the nearest one-tenth of one percent) by which the ECI for the base quarter of the year before the preceding year exceeds the ECI for the base quarter of the second year before the preceding calendar year (if at all).
 
 (2) Notwithstanding paragraph (1), but subject to subsection (d), the percentage of the adjustment taking effect under this section during each of fiscal years 2004, 2005, and 2006, shall be one-half of one percentage point higher than the percentage that would otherwise be applicable under such paragraph.
 
@@ -194,7 +194,7 @@ Pub. L. 94–106, title VIII, §819, Oct. 7, 1975, 89 Stat. 544.
 
 #### Adjustment of Pay Rates
 
-For adjustment of pay rates under this section, see the executive order detailing the adjustment of certain rates of pay set out as a note under section 5332 of Title 5, Government Organization and Employees.
+For adjustment of pay rates under this section, see the executive order detailing the adjustment of certainrates of pay set out as a note under section 5332 of Title 5, Government Organization and Employees.
 
 #### Executive Order No. 11812
 

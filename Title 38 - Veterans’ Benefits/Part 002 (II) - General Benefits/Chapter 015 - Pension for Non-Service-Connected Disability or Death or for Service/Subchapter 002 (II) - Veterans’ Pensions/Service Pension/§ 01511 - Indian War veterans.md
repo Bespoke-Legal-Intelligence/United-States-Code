@@ -18,7 +18,7 @@
 
 (2) The Secretary shall pay each month to each veteran of the Indian Wars who is receiving, or entitled to receive, pension based on a need of regular aid and attendance, whichever amount is greater (A) that provided by paragraph (2) of subsection (a) of this section, or (B) that which is payable to the veteran under section 1521 of this title if such veteran has elected, or would be payable if such veteran were to elect, to receive pension under such section pursuant to paragraph (1) of this subsection. Each change in the amount of pension payment required by this paragraph shall be effective as of the first day of the month during which the facts of the particular case warrant such change, and shall be made without specific application therefor.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1135, §511; Pub. L. 86–670, §1, July 14, 1960, 74 Stat. 545; Pub. L. 90–77, title I, §111(a), Aug. 31, 1967, 81 Stat. 181; Pub. L. 94–169, title I, §106(16), Dec. 23, 1975, 89 Stat. 1017; renumbered §1511 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1135, §511; Pub. L. 86–670, §1, July 14, 1960, 74 Stat. 545; Pub. L. 90–77, title I, §111(a), Aug. 31, 1967, 81 Stat. 181;Pub. L. 94–169, title I, §106(16), Dec. 23, 1975, 89 Stat. 1017; renumbered §1511 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
 
 #### Prior Provisions
 

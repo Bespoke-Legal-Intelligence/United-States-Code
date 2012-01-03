@@ -14,7 +14,7 @@ Authority to Use Property, Services, and Supplies.—Property, services, or supp
 
 (c)
 
-Periodic Audits by GAO.—The Comptroller General of the United States shall make periodic audits of money and property acceptedunder this section, at such intervals as the Comptroller General determines to be warranted. The Comptroller General shall submit to Congress a report on the results of each such audit.
+Periodic Audits by GAO.—The Comptroller General of the United States shall make periodic audits of money and property accepted under this section, at such intervals as the Comptroller General determines to be warranted. The Comptroller General shall submit to Congress a report on the results of each such audit.
 
 (Added Pub. L. 101–510, div. A, title XIV, §1451(b)(1), Nov. 5, 1990, 104 Stat. 1692; amended Pub. L. 103–160, div. A, title XI, §1105(a), Nov. 30, 1993, 107 Stat. 1749; Pub. L. 106–65, div. A, title X, §1032(a)(3), Oct. 5, 1999, 113 Stat. 751.)
 

@@ -30,7 +30,7 @@ As used in this Act:
 
 &emsp;&emsp;(J) The Office of Intelligence and Analysis of the Department of the Treasury.
 
-&emsp;&emsp;(K) The elements of the Department of Homeland Security concerned with the analysis of intelligence information.
+&emsp;&emsp;(K) The Office of Intelligence and Analysis of the Department of Homeland Security.
 
 &emsp;&emsp;(L) Such other elements of any department or agency as may be designated by the President, or designated jointly by the Director of National Intelligence and the head of the department or agency concerned, as an element of the intelligence community.
 
@@ -46,7 +46,7 @@ As used in this Act:
 
 &emsp;&emsp;&emsp;(iii) any other matter bearing on United States national or homeland security.
 
-&emsp;(6) The term “National Intelligence Program” refers to all programs, projects, and activities of the intelligence community, as well as any other programs of the intelligence community designated jointly by the Director of Central Intelligence and the head of a United States department or agency or by the President. Such term does not include programs, projects, or activities of the military departments to acquire intelligence solely for the planning and conduct of tactical military operations by United States Armed Forces.
+&emsp;(6) The term “National Intelligence Program” refers to all programs, projects, and activities of the intelligence community, as well as any other programs of the intelligence community designated jointly by the Director of National Intelligence and the head of a United States department or agency or by the President. Such term does not include programs, projects, or activities of the military departments to acquire intelligence solely for the planning and conduct of tactical military operations by United States Armed Forces.
 
 &emsp;(7) The term “congressional intelligence committees” means—
 
@@ -54,13 +54,17 @@ As used in this Act:
 
 &emsp;&emsp;(B) the Permanent Select Committee on Intelligence of the House of Representatives.
 
-(July 26, 1947, ch. 343, §3, as added Pub. L. 102–496, title VII, §702, Oct. 24, 1992, 106 Stat. 3188; amended Pub. L. 103–359, title V, §501(a)(1), Oct. 14, 1994, 108 Stat. 3428; Pub. L. 104–201, div. A, title XI, §1122(b)(1), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 107–56, title IX, §902, Oct. 26, 2001, 115 Stat. 387; Pub. L. 107–108, title I, §105, Dec. 28, 2001, 115 Stat. 1397; Pub. L. 107–296, title II, §201(h), Nov. 25, 2002, 116 Stat. 2149; Pub. L. 107–306, title III, §353(a), Nov. 27, 2002, 116 Stat. 2401; Pub. L. 108–136, div. A, title IX, §921(e)(1), Nov. 24, 2003, 117 Stat. 1569; Pub. L. 108–177, title I, §105(d)(1), Dec. 13, 2003, 117 Stat. 2603; Pub. L. 108–458, title I, §§1012, 1073, 1074(a), Dec. 17, 2004, 118 Stat. 3662, 3693, 3694; Pub. L. 111–259, title IV, §441, title VIII, §804(1), Oct. 7, 2010, 124 Stat. 2732, 2747.)
+(July 26, 1947, ch. 343, §3, as added Pub. L. 102–496, title VII, §702, Oct. 24, 1992, 106 Stat. 3188; amended Pub. L. 103–359, title V, §501(a)(1), Oct. 14, 1994, 108 Stat. 3428; Pub. L. 104–201, div. A, title XI, §1122(b)(1), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 107–56, title IX, §902, Oct. 26, 2001, 115 Stat. 387; Pub. L. 107–108, title I, §105, Dec. 28, 2001, 115 Stat. 1397; Pub. L. 107–296, title II, §201(h), Nov. 25, 2002, 116 Stat. 2149; Pub. L. 107–306, title III, §353(a), Nov. 27, 2002, 116 Stat. 2401; Pub. L. 108–136, div. A, title IX, §921(e)(1), Nov. 24, 2003, 117 Stat. 1569; Pub. L. 108–177, title I, §105(d)(1), Dec. 13, 2003, 117 Stat. 2603; Pub. L. 108–458, title I, §§1012, 1073, 1074(a), Dec. 17, 2004, 118 Stat. 3662, 3693, 3694; Pub. L. 111–259, title IV, §441, title VIII, §804(1), Oct. 7, 2010, 124 Stat. 2732, 2747; Pub. L. 112–87, title IV, §431, title V, §505(1), Jan. 3, 2012, 125 Stat. 1894, 1897.)
 
 #### References in Text
 
 This Act, referred to in text, means act July 26, 1947, ch. 343, 61 Stat. 495, as amended, known as the National Security Act of 1947. For complete classification of this Act to the Code, see Short Title note set out under section 401 of this title and Tables.
 
 #### Amendments
+
+<b>2012</b>—Par. (4)(K). Pub. L. 112–87, §431, amended subpar. (K) generally. Prior to amendment, subpar. (K) read as follows: “The elements of the Department of Homeland Security concerned with the analysis of intelligence information.”
+
+Par. (6). Pub. L. 112–87, §505(1), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
 <b>2010</b>—Par. (4)(H). Pub. L. 111–259, §441(1), inserted “the Coast Guard,” after “the Marine Corps,” and “the Drug Enforcement Administration,” after “the Federal Bureau of Investigation,”.
 
@@ -98,10 +102,6 @@ Par. (4)(H). Pub. L. 107–108 struck out “and” before “the Department of 
 
 <b>1994</b>—Par. (4)(E). Pub. L. 103–359 substituted “the Central Imagery Office” for “the central imagery authority within the Department of Defense”.
 
-#### Change of Name
-
-Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of this title.
-
 #### Effective Date of 2004 Amendment
 
 For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of this title.
@@ -125,6 +125,20 @@ For assignment of function of President under par. (5)(A) of this section to Dir
 Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in any official or office of Department of State and references to such officials or offices deemed to refer to Secretary of State or Department of State, as appropriate, see section 2651a of Title 22, Foreign Relations and Intercourse, and section 161(d) of Pub. L. 103–236, set out as a note under section 2651a of Title 22.
 
 #### Definitions
+
+Pub. L. 112–87, §2, Jan. 3, 2012, 125 Stat. 1877, provided that: “In this Act \[see Tables for classification\]:
+
+&emsp;“(1)
+
+Congressional intelligence committees.—The term ‘congressional intelligence committees’ means—
+
+&emsp;&emsp;“(A) the Select Committee on Intelligence of the Senate; and
+
+&emsp;&emsp;“(B) the Permanent Select Committee on Intelligence of the House of Representatives.
+
+&emsp;“(2)
+
+Intelligence community.—The term ‘intelligence community’ has the meaning given that term in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4)).”
 
 Pub. L. 111–259, §2, Oct. 7, 2010, 124 Stat. 2656, provided that: “In this Act \[see Tables for classification\]:
 

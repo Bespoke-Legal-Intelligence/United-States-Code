@@ -46,7 +46,7 @@ The State educational agency for a State that receives a grant under section 661
 
 &emsp;(6) Providing professional development for teachers and principals and, in cases in which a State educational agency determines support to be appropriate, supporting the participation of pupil services personnel in the same type of professional development activities as are made available to teachers and principals.
 
-&emsp;(7) Developing systems to measure the effectiveness of specific professional developmentprograms and strategies to document gains in student academic achievement or increases in teacher mastery of the academic subjects the teachers teach.
+&emsp;(7) Developing systems to measure the effectiveness of specific professional development programs and strategies to document gains in student academic achievement or increases in teacher mastery of the academic subjects the teachers teach.
 
 &emsp;(8) Fulfilling the State educational agency's responsibilities concerning proper and efficient administration of the programs carried out under this part, including provision of technical assistance to local educational agencies.
 
@@ -80,7 +80,7 @@ A State educational agency or State agency for higher education receiving a gran
 
 #### (e) Coordination
 
-A State that receives a grant to carry out this subpart and a grant under section 202 <sup>1</sup> of the Higher Education Act of 1965 shall coordinate the activities carried out under this subpart and the activities carried out under that section.
+A State that receives a grant to carry out this subpart and a grant under section 202 <sup>1</sup> of the Higher Education Act of 1965 shall coordinatethe activities carried out under this subpart and the activities carried out under that section.
 
 #### (f) Supplement, not supplant
 

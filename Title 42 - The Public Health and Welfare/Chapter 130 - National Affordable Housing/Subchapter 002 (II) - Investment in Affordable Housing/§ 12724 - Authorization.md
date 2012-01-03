@@ -10,7 +10,7 @@ There are authorized to be appropriated to carry out this subchapter $2,086,000,
 
 #### Amendments
 
-<b>1993</b>—Pub. L. 103–120 substituted “$25,000,000 for fiscal year 1994” for “$14,000,000 for fiscal year 1994” in par. (1)and “$22,000,000 for fiscal year 1994” for “$11,000,000 for fiscal year 1994” in par. (2).
+<b>1993</b>—Pub. L. 103–120 substituted “$25,000,000 for fiscal year 1994” for “$14,000,000 for fiscal year 1994” in par. (1) and “$22,000,000 for fiscal year 1994” for “$11,000,000 for fiscal year 1994” in par. (2).
 
 <b>1992</b>—Pub. L. 102–550 amended section generally. Prior to amendment, section read as follows: “There are authorized to be appropriated to carry out this subchapter $1,000,000,000 for fiscal year 1991, and $2,086,000,000 for fiscal year 1992, of which—
 

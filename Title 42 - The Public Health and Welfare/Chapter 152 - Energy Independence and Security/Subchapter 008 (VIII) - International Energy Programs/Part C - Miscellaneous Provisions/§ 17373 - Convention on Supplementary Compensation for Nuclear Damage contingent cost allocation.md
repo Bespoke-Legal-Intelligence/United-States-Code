@@ -56,7 +56,7 @@ In this section:
 
 #### (2) Contingent cost
 
-&emsp;The term “contingent cost” means the cost to the United States in the event of a coveredincident the amount of which is equal to the amount of funds the United States is obligated to make available under paragraph 1(b) of Article III of the Convention.
+&emsp;The term “contingent cost” means the cost to the United States in the event of a covered incident the amount of which is equal to the amount of funds the United States is obligated to make available under paragraph 1(b) of Article III of the Convention.
 
 #### (3) Convention
 
@@ -256,7 +256,7 @@ Nothing in any other law (including regulations) limits liability for a covered 
 
 #### (ii) Annual payments
 
-&emsp;&emsp;&emsp;A nuclear supplier may elect to prorate payment of the deferred payment required under subparagraph (A) in 5 equal annualpayments (including interest on the unpaid balance at the prime rate prevailing at the time the first payment is due).
+&emsp;&emsp;&emsp;A nuclear supplier may elect to prorate payment of the deferred payment required under subparagraph (A) in 5 equal annual payments (including interest on the unpaid balance at the prime rate prevailing at the time the first payment is due).
 
 #### (C) Vouchers
 
@@ -288,7 +288,7 @@ Nothing in any other law (including regulations) limits liability for a covered 
 
 #### (A) In general
 
-&emsp;&emsp;In any civil action arising under the Convention over which Article XIII of the Convention grants jurisdiction to the courts of the United States, any appeal or review by writ of mandamus or otherwise with respect to a nuclear incident that is not a Price-Anderson incident shall be in accordance with chapter 83 of title 28, except that the appeal or review shall occur in the United States Court of Appeals for the District of Columbia Circuit.
+&emsp;&emsp;In any civil action arising under the Convention over which Article XIII of the Convention grants jurisdiction to the courts of the United States, any appeal or review by writ of mandamus or otherwise with respect to a nuclear incident that is not a Price-Anderson incident shall be in accordance with chapter 83 of title 28, except that the appeal or review shall occur in the United StatesCourt of Appeals for the District of Columbia Circuit.
 
 #### (B) Supreme Court jurisdiction
 

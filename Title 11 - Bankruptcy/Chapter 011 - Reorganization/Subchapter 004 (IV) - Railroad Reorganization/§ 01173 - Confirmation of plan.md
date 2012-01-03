@@ -16,7 +16,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 1173 of the House amendment concerns confirmation of a plan of railroad reorganization and is derived from section 1172 of the House bill as modified. In particular, section 1173(a)(3) of the House amendment is derived from section 1170(3) of the Senate amendment. Section 1173(b) is derived from section 1173(a)(8) of the Senate amendment.
 
@@ -38,7 +38,7 @@ The public interest requirement, found in current law, will now be decided by th
 
 #### Amendments
 
-1984—Subsec. (a)(4). Pub. L. 98–353 substituted “consistent” for “compatible”.
+<b>1984</b>—Subsec. (a)(4). Pub. L. 98–353 substituted “consistent” for “compatible”.
 
 #### Effective Date of 1984 Amendment
 

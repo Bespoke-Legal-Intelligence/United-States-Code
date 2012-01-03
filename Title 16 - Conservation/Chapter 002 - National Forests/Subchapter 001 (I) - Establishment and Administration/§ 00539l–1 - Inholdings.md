@@ -30,7 +30,7 @@ If the Colorado State Land Board informs the Secretary that the Board is willing
 
 #### (d) Management of acquisitions
 
-Any lands within the James Peak Wilderness or the Protection Area acquired by the UnitedStates after August 21, 2002, shall be added to the James Peak Wilderness or the Protection Area, respectively, and managed accordingly.
+Any lands within the James Peak Wilderness or the Protection Area acquired by the United States after August 21, 2002, shall be added to the James Peak Wilderness or the Protection Area, respectively, and managed accordingly.
 
 (Pub. L. 107–216, §4, Aug. 21, 2002, 116 Stat. 1059.)
 

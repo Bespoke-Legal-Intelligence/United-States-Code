@@ -6,7 +6,7 @@ Criminal Penalty.—Except as provided by subsection (b) of this section, when a
 
 (b)
 
-Nonapplication.—Subsection (a) of this section does not apply to chapter 401 (except sections 40103(a) and (d), 40105, 40116, and 40117), chapter 441 (except section 44109), chapter 445, chapter 447 (except section 44718(a)), and chapter 449 (except sections 44902, 44903(d), 44904, and 44907–44909) of this title.
+Nonapplication.—Subsection (a) of this section does not apply to chapter 401 (except sections 40103(a) and (d), 40105, 40116, and 40117),chapter 441 (except section 44109), chapter 445, chapter 447 (except section 44718(a)), and chapter 449 (except sections 44902, 44903(d), 44904, and 44907–44909) of this title.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1240; Pub. L. 104–287, §5(79), Oct. 11, 1996, 110 Stat. 3397; Pub. L. 105–102, §3(d)(1)(D), Nov. 20, 1997, 111 Stat. 2215; Pub. L. 107–71, title I, §140(d)(7), Nov. 19, 2001, 115 Stat. 642.)
 
@@ -40,7 +40,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 19
 
 Oct. 15, 1966, Pub. L. 89–670, §6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L. 97–449, §7(b), 96 Stat. 2444.
 
-In subsection (a), the word “prescribed” is added for consistency in the revised title. The words “condition, or limitation of” are omitted as surplus. The word “Administrator” in section 902(a) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 784) is retained on authority of 49:106(g). The words “or in section 1474of this Appendix” are omitted as surplus because 49 App.:1474 is not included in the revised title. The words “shall be deemed guilty of a misdemeanor” are omitted for consistency with title 18. The words “and upon conviction thereof” are omitted as surplus. The words “shall be fined under title 18” are substituted for “shall be subject for the first offense to a fine of not more than $500, and for any subsequent offense to a fine of not more than $2,000” for consistency with title 18.
+In subsection (a), the word “prescribed” is added for consistency in the revised title. The words “condition, or limitation of” are omitted as surplus. The word “Administrator” in section 902(a) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 784) is retained on authority of 49:106(g). The words “or in section 1474 of this Appendix” are omitted as surplus because 49 App.:1474 is not included in the revised title. The words “shall be deemed guilty of a misdemeanor” are omitted for consistency with title 18. The words “and upon conviction thereof” are omitted as surplus. The words “shall be fined under title 18” are substituted for “shall be subject for the first offense to a fine of not more than $500, and for any subsequent offense to a fine of not more than $2,000” for consistency with title 18.
 
 In subsection (b), reference to 49 App.:ch. 20, subch. VII is omitted as unnecessary because subchapter VII is not restated in this part.
 

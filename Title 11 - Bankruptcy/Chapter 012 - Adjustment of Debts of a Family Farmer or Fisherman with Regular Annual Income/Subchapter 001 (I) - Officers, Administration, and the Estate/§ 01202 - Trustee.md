@@ -64,15 +64,15 @@ For repeal of section effective Oct. 1, 1998, and subsequent reenactment of sect
 
 #### Amendments
 
-2010—Subsec. (b)(1). Pub. L. 111–327, §2(a)(38)(A), substituted “704(a)(2), 704(a)(3), 704(a)(5), 704(a)(6), 704(a)(7), and 704(a)(9)” for “704(2), 704(3), 704(5), 704(6), 704(7), and 704(9)”.
+<b>2010</b>—Subsec. (b)(1). Pub. L. 111–327, §2(a)(38)(A), substituted “704(a)(2), 704(a)(3), 704(a)(5), 704(a)(6), 704(a)(7), and 704(a)(9)” for “704(2), 704(3), 704(5), 704(6), 704(7), and 704(9)”.
 
 Subsec. (b)(5). Pub. L. 111–327, §2(a)(38)(B), substituted “704(a)(8)” for “704(8)”.
 
-2005—Subsec. (b)(6). Pub. L. 109–8, §219(c)(1), added par. (6).
+<b>2005</b>—Subsec. (b)(6). Pub. L. 109–8, §219(c)(1), added par. (6).
 
 Subsec. (c). Pub. L. 109–8, §219(c)(2), added subsec. (c).
 
-1986—Subsecs. (c), (d). Pub. L. 99–554, §227, struck out subsecs. (c) and (d) which read as follows:
+<b>1986</b>—Subsecs. (c), (d). Pub. L. 99–554, §227, struck out subsecs. (c) and (d) which read as follows:
 
 “(c) If the number of cases under this chapter commenced in a particular judicial district so warrants, the court may appoint one or more individuals to serve as standing trustee for such district in cases under this chapter.
 

@@ -12,7 +12,7 @@ The Secretary is authorized, subject to the civil service and classification law
 
 #### (d) Delegation of authority; rules and regulations
 
-The Secretary may delegate any of his functions, powers, and duties to such officers andemployees of the Department as he may designate, may authorize such successive redelegations of such functions, powers, and duties as he may deem desirable, and may make such rules and regulations as may be necessary to carry out his functions, powers, and duties.
+The Secretary may delegate any of his functions, powers, and duties to such officers and employees of the Department as he may designate, may authorize such successive redelegations of such functions, powers, and duties as he may deem desirable, and may make such rules and regulations as may be necessary to carry out his functions, powers, and duties.
 
 #### (e) Temporary employment of experts or consultants; compensation
 
@@ -20,7 +20,7 @@ The Secretary may obtain services as authorized by section 3109 of title 5, at r
 
 #### (f) Working capital fund; establishment; uses; appropriations; capitalization; reimbursement
 
-The Secretary is authorized to establish a working capital fund, to be available without fiscal year limitation, for expenses necessary for the maintenance and operation of such common administrative services as he shall find to be desirable in the interest of economy and efficiency in the Department, including such services as a central supply service for stationery and other supplies and equipment for which adequate stocks may be maintained to meet in whole or in part the requirements of the Department and its agencies; central messenger, mail, telephone, and other communications services; office space; central services for document reproduction and for graphics and visual aids; and a central library service. In addition to amounts appropriated to provide capital for said fund, which appropriations are hereby authorized, the fund shall be capitalized by transfer to it of such stock of supplies and equipment on hand or on order as the Secretary shall direct. Such fund shall be reimbursed from available funds of agencies and offices in the Department for which services are performed at rates which will return in full all expenses of operation, including reserves for accrued annual leave and for depreciation of equipment.
+The Secretary is authorized to establish a working capital fund, to be available without fiscal year limitation, for expenses necessary for the maintenance and operation of such common administrative services as he shall find to be desirable in the interest of economy and efficiency in the Department, including such services as a central supply service for stationery and other supplies and equipment for which adequate stocks may be maintained to meet in whole or in part the requirements of the Department and its agencies; central messenger, mail, telephone, and other communications services; office space; central services for document reproduction and for graphics and visual aids; and a central library service. In addition to amounts appropriated to provide capital for said fund, which appropriations are hereby authorized, the fund shall be capitalized by transfer to it of suchstock of supplies and equipment on hand or on order as the Secretary shall direct. Such fund shall be reimbursed from available funds of agencies and offices in the Department for which services are performed at rates which will return in full all expenses of operation, including reserves for accrued annual leave and for depreciation of equipment.
 
 #### (g) Seal
 
@@ -42,7 +42,7 @@ Except as such authority is otherwise expressly provided in any other Act admini
 
 &emsp;(4) obtain insurance against loss in connection with property and other assets held;
 
-&emsp;(5) consent to the modification, with respect to the rate of interest, time of payment of any installment of principal or interest, security,or any other term of any contract or agreement to which he is a party or which has been transferred to him; and
+&emsp;(5) consent to the modification, with respect to the rate of interest, time of payment of any installment of principal or interest, security, or any other term of any contract or agreement to which he is a party or which has been transferred to him; and
 
 &emsp;(6) include in any contract or instrument such other covenants, conditions, or provisions as he may deem necessary, including any provisions relating to the authority or requirements under paragraph (5).
 
@@ -168,7 +168,7 @@ A plan for the reorganization of any regional, area, insuring, or other field of
 
 (2) Of the amounts authorized to be appropriated by this section, $96,000,000 shall be available for each of the fiscal years 1993 and 1994, which amounts shall be used to provide staff in regional, field, or zone offices of the Department of Housing and Urban Development to review, process, approve, and service applications for mortgage insurance under title II of the National Housing Act \[12 U.S.C. 1707 et seq.\] for housing consisting of 5 or more dwelling units.
 
-(3) Of the amounts authorized to be appropriated to carry out this section, not less than $5,000,000 of such amount shall be available for each fiscal year exclusively for the purposes of providing ongoing training and capacity building for Department personnel.
+(3) Of the amounts authorized to be appropriated to carry out this section, not less than$5,000,000 of such amount shall be available for each fiscal year exclusively for the purposes of providing ongoing training and capacity building for Department personnel.
 
 #### (t) Training regarding issues relating to grandparent-headed and relative-headed families
 
@@ -374,7 +374,7 @@ Advisory committees in existence on Jan. 5, 1973, to terminate not later than th
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

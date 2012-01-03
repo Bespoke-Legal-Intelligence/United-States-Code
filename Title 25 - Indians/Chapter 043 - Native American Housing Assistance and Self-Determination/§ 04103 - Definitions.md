@@ -74,7 +74,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (A) In general
 
-&emsp;&emsp;The term “housing related community development” means any facility, community building, business, activity, or infrastructure that—
+&emsp;&emsp;The term “housing related community development” means any facility, communitybuilding, business, activity, or infrastructure that—
 
 &emsp;&emsp;&emsp;(i) is owned by an Indian tribe or a tribally designated housing entity;
 
@@ -246,7 +246,7 @@ The United States Housing Act of 1937, referred to in pars. (13)(C)(i)(II) and (
 
 <b>2000</b>—Par. (17)(C). Pub. L. 106–402 substituted “as defined in section 15002 of title 42” for “as defined in section 6001 of title 42”.
 
-<b>1998</b>—Par. (10). Pub. L. 105–276, §595(e)(1), amended heading and text of par. (10) generally. Prior to amendment, text read as follows: “The term ‘Indian area’ means the area within which a tribally designated housing entity is authorized by one or more Indian tribes to provide assistance under this chapter for affordable housing.”
+<b>1998</b>—Par. (10). Pub. L. 105–276, §595(e)(1), amended heading and text of par. (10) generally. Prior to amendment, text read as follows: “The term ‘Indian area’ means the area within which a tribally designatedhousing entity is authorized by one or more Indian tribes to provide assistance under this chapter for affordable housing.”
 
 Par. (12)(B). Pub. L. 105–256 substituted “Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.)” for “Indian Self-Determination and Education Assistance Act of 1975”.
 

@@ -46,7 +46,7 @@ Notwithstanding any other provision of law, any civil action, suit, or proceedin
 
 #### Amendments
 
-1988—Subsec. (a)(12). Pub. L. 100–399, §201(a), substituted “(within the meaning of section 1813 of this title)” for “(as defined in section 1813(b) of this title)”.
+<b>1988</b>—Subsec. (a)(12). Pub. L. 100–399, §201(a), substituted “(within the meaning of section 1813 of this title)” for “(as defined in section 1813(b) of this title)”.
 
 Subsec. (b). Pub. L. 100–399, §201(b), substituted “exclusive” for “original”.
 

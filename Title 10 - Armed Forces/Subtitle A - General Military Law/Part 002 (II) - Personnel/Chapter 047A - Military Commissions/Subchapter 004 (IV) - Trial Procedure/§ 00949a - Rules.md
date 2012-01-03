@@ -14,9 +14,9 @@ Exceptions.—(1) In trials by military commission under this chapter, the Secre
 
 &emsp;(B) To be present at all sessions of the military commission (other than those for deliberations or voting), except when excluded under section 949d of this title.
 
-&emsp;(C)(i) When none of the charges preferred against the accused are capital, to be represented before a military commission by civilian counsel if provided at no expense to the Government, and by either the defense counsel detailed or the military counsel of the accused's own selection, if reasonably available.
+&emsp;(C)(i) When none of the charges sworn against the accused are capital, to be represented before a military commission by civilian counsel if provided at no expense to the Government, and by either the defense counsel detailed or the military counsel of the accused's own selection, if reasonably available.
 
-&emsp;(ii) When any of the charges preferred against the accused are capital, to be represented before a military commission in accordance with clause (i) and, to the greatest extent practicable, by at least one additional counsel who is learned in applicable law relating to capital cases and who, if necessary, may be a civilian and compensated in accordance with regulations prescribed by the Secretary of Defense.
+&emsp;(ii) When any of the charges sworn against the accused are capital, to be represented before a military commission in accordance with clause (i) and, to the greatest extent practicable, by at least one additional counsel who is learned in applicable law relating to capital cases and who, if necessary, may be a civilian and compensated in accordance with regulations prescribed by the Secretary of Defense.
 
 &emsp;(D) To self-representation, if the accused knowingly and competently waives the assistance of counsel, subject to the provisions of paragraph (4).
 
@@ -66,9 +66,13 @@ Delegation of Authority To Prescribe Regulations.—The Secretary of Defense may
 
 Notice to Congress of Modification of Rules.—Not later than 60 days before the date on which any proposed modification of the rules in effect for military commissions under this chapter goes into effect, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report describing the proposed modification.
 
-(Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2581.)
+(Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2581; amended Pub. L. 112–81, div. A, title X, §1034(a), Dec. 31, 2011, 125 Stat. 1572.)
 
 #### Prior Provisions
 
 A prior section 949a, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2608, related to rules, prior to the general amendment of this chapter by Pub. L. 111–84.
+
+#### Amendments
+
+<b>2011</b>—Subsec. (b)(2)(C)(i), (ii). Pub. L. 112–81 substituted “sworn” for “preferred”.
 

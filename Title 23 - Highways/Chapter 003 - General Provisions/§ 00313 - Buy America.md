@@ -44,7 +44,7 @@ The Intermodal Surface Transportation Efficiency Act of 1991, referred to in sub
 
 #### Codification
 
-Section, as added by Pub. L. 109–59, consists of text of Pub. L. 97–424, title I, §165, Jan. 6, 1983, 96 Stat. 2136; Pub. L. 98–229, §10, Mar. 9, 1984, 98 Stat. 57; Pub. L. 100–17, title I, §§133(a)(6), 337(a)(1), (b), (c), Apr. 2, 1987, 101 Stat. 171, 241; Pub. L. 102–240, title I, §1048, title III, §3003(b), Dec. 18, 1991, 105 Stat. 1999, 2088; Pub. L. 103–272, §4(r), July 5, 1994, 108 Stat. 1371; Pub. L. 103–429, §7(a)(3)(E), Oct. 31, 1994, 108 Stat. 4389, which was formerly set out as a note under section 101 of this title, and was repealed by Pub. L. 109–59, title I, §1903(d), Aug. 10, 2005, 119 Stat. 1465.
+Section, as added by Pub. L. 109–59, consists of text of Pub. L. 97–424, title I, §165, Jan. 6, 1983, 96 Stat. 2136; Pub. L. 98–229, §10, Mar. 9, 1984, 98 Stat. 57; Pub. L. 100–17, title I, §§133(a)(6), 337(a)(1), (b), (c), Apr. 2, 1987,101 Stat. 171, 241; Pub. L. 102–240, title I, §1048, title III, §3003(b), Dec. 18, 1991, 105 Stat. 1999, 2088; Pub. L. 103–272, §4(r), July 5, 1994, 108 Stat. 1371; Pub. L. 103–429, §7(a)(3)(E), Oct. 31, 1994, 108 Stat. 4389, which was formerly set out as a note under section 101 of this title, and was repealed by Pub. L. 109–59, title I, §1903(d), Aug. 10, 2005, 119 Stat. 1465.
 
 #### Prior Provisions
 
@@ -62,9 +62,11 @@ Subsec. (e) to (g). Pub. L. 109–59, §1903(c)(4), (5), which directed amendmen
 
 #### Buy America Waiver Notification and Annual Reports
 
-Pub. L. 111–117, div. A, title I, §123, Dec. 16, 2009, 123 Stat. 3048, provided that: “Not less than 15 days prior to waiving, under his statutory authority, any Buy America requirement for Federal-aid highway projects, the Secretary of Transportation shall make an informal public notice and comment opportunity on the intent to issue such waiver and the reasons therefor: <i>Provided</i>, That the Secretary shall provide an annual report to the Appropriations Committees of the Congress on any waivers granted under the Buy America requirements.”
+Pub. L. 112–55, div. C, title I, §122, Nov. 18, 2011, 125 Stat. 654, provided that: “Not less than 15 days prior to waiving, under his statutory authority, any Buy America requirement for Federal-aid highway projects, the Secretary of Transportation shall make an informal public notice and comment opportunity on the intent to issue such waiver and the reasons therefor: <i>Provided</i>, That the Secretary shall provide an annual report to the House and Senate Committees on Appropriations on any waivers granted under the Buy America requirements.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 111–117, div. A, title I, §123, Dec. 16, 2009, 123 Stat. 3048.
 
 Pub. L. 111–8, div. I, title I, §126, Mar. 11, 2009, 123 Stat. 928.
 

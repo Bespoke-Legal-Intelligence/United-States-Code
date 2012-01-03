@@ -74,7 +74,7 @@ The goals of the biofuels and bioproducts programs shall be to develop, in partn
 
 &emsp;Not later than 6 months after August 8, 2005, the Secretary shall solicit proposals for demonstration of advanced biorefineries. The Secretary shall select only proposals that—
 
-&emsp;&emsp;(A) demonstrate that the project will be able to operate profitably without direct Federal subsidy after initial construction costs are paid; and
+&emsp;&emsp;(A) demonstrate that the project will be able to operate profitably without directFederal subsidy after initial construction costs are paid; and
 
 &emsp;&emsp;(B) enable the biorefinery to be easily replicated.
 

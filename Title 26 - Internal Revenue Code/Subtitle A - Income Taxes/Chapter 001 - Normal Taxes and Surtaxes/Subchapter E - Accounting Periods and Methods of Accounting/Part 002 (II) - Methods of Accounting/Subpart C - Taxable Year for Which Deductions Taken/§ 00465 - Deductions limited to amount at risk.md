@@ -194,7 +194,7 @@
 
 &emsp;&emsp;&emsp;(i) the taxpayer actively participates in the management of such trade or business, or
 
-&emsp;&emsp;&emsp;(ii) such trade or business is carried on by a partnership or an S corporation and 65 percent or more of the losses for the taxable year is allocable to persons whoactively participate in the management of the trade or business.
+&emsp;&emsp;&emsp;(ii) such trade or business is carried on by a partnership or an S corporation and 65 percent or more of the losses for the taxable year is allocable to persons who actively participate in the management of the trade or business.
 
 #### (C) Aggregation or separation of activities under regulations
 
@@ -406,7 +406,7 @@
 
 #### (d) Definition of loss
 
-For purposes of this section, the term “loss” means the excess of the deductions allowable under this chapter for the taxable year (determined without regard to the first sentence of subsection (a)) and allocable to an activity to which this section applies over the income received or accrued by the taxpayer during the taxable year from such activity (determined without regard to subsection (e)(1)(A)).
+For purposes of this section, the term “loss” means the excess of the deductions allowable under this chapter for the taxable year (determined without regard to the first sentence of subsection (a)) and allocable to an activity towhich this section applies over the income received or accrued by the taxpayer during the taxable year from such activity (determined without regard to subsection (e)(1)(A)).
 
 #### (e) Recapture of losses where amount at risk is less than zero
 
@@ -440,7 +440,7 @@ Subsec. (c)(1)(E). Pub. L. 101–508, §11815(b)(3), substituted “section 613(
 
 Subsec. (b)(6). Pub. L. 99–514, §503(b), added par. (6).
 
-Subsec. (c)(3)(D), (E). Pub. L. 99–514, §503(a), redesignated subpar. (E) as (D) and struck out former subpar. (D) which read as follows: “In the case of activities described in subparagraph (A), the holding of real property (other than mineral property) shall be treated as a separate activity, and subsection (a) shall not apply to losses from such activity. For purposes of the preceding sentence, personal property and services whichare incidental to making real property available as living accommodations shall be treated as part of the activity of holding such real property.”
+Subsec. (c)(3)(D), (E). Pub. L. 99–514, §503(a), redesignated subpar. (E) as (D) and struck out former subpar. (D) which read as follows: “In the case of activities described in subparagraph (A), the holding of real property (other than mineral property) shall be treated as a separate activity, and subsection (a) shall not apply to losses from such activity. For purposes of the preceding sentence, personal property and services which are incidental to making real property available as living accommodations shall be treated as part of the activity of holding such real property.”
 
 Subsec. (c)(7)(D)(v)(II). Pub. L. 99–514, §1011(b)(1), substituted “section 806(b)(3)” for “section 806(c)(3)”.
 
@@ -476,7 +476,7 @@ Subsec. (e)(2)(A). Pub. L. 96–222, §102(a)(1)(C), inserted “by reason of lo
 
 <b>1978</b>—Pub. L. 95–600, §201(c)(1), substituted “Deductions limited to amount at risk” for “Deductions limited to amount at risk in case of certain activities” in section catchline.
 
-Subsec. (a). Pub. L. 95–600, §202, redesignated existing provisions as par. (1), substituted provisions relating to limitations with respect to an individual, an electing small business corporation defined under section 1371(b) of this title, and a corporation meeting the stock ownership requirements of section 542(a)(2) of this title and the rules of section 318 of this title, for provisions relating to limitations with respect to a taxpayer other than a corporation which is neither an electing small business corporation defined under section 1371(b) of this title, nor a personal holding company defined under section 542 of this title, and added par. (2).
+Subsec. (a). Pub. L. 95–600, §202, redesignated existing provisions as par. (1), substituted provisions relating to limitations with respect to an individual, an electing small business corporation defined under section 1371(b) of this title, and a corporation meeting the stock ownership requirements of section 542(a)(2) of this title and the rules of section 318 of this title, for provisions relating to limitations with respect to a taxpayer otherthan a corporation which is neither an electing small business corporation defined under section 1371(b) of this title, nor a personal holding company defined under section 542 of this title, and added par. (2).
 
 Subsec. (c)(1)(E). Pub. L. 95–618, §402(d)(1), added subpar. (E).
 
@@ -520,7 +520,7 @@ Amendment by section 1011(b)(1) of Pub. L. 99–514 applicable to taxable years 
 
 #### Effective Date of 1984 Amendment
 
-Section 432(d) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:“The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1983; except that any loss from an activity described in section 465(c)(7)(A) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by this section) which (but for the amendments made by this section) would have been treated as a deduction for the taxpayer's first taxable year beginning after December 31, 1983, under section 465(a)(2) of such Code shall be allowed as a deduction for such first taxable year notwithstanding such amendments.”
+Section 432(d) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1983; except that any loss from an activity described in section 465(c)(7)(A) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by this section) which (but for the amendments made by this section) would have been treated as a deduction for the taxpayer's first taxable year beginning after December 31, 1983, under section 465(a)(2) of such Code shall be allowed as a deduction for such first taxable year notwithstanding such amendments.”
 
 Amendment by section 721(x)(2) of Pub. L. 98–369 effective as if included in the Subchapter S Revision Act of 1982, Pub. L. 97–354, see section 721(y)(1) of Pub. L. 98–369, set out as a note under section 1361 of this title.
 
@@ -620,5 +620,5 @@ Rule for leases.—In the case of any activity described in section 465(c)(1)(C)
 
 &emsp;“(B)
 
-Holding of interests for purposes of subparagraph (a).—Subparagraph (A) shall apply onlyto taxpayers who held their interests in the property on October 31, 1978.”
+Holding of interests for purposes of subparagraph (a).—Subparagraph (A) shall apply only to taxpayers who held their interests in the property on October 31, 1978.”
 

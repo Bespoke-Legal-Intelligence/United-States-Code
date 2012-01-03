@@ -32,7 +32,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In the case of an installment obligation reportable by the decedent on the installmentmethod under section 453, for purposes of paragraph (2)—
+&emsp;&emsp;In the case of an installment obligation reportable by the decedent on the installment method under section 453, for purposes of paragraph (2)—
 
 &emsp;&emsp;&emsp;(i) the second sentence of paragraph (2) shall be applied by inserting “(other than the obligor)” after “or a transfer to a person”,
 
@@ -180,7 +180,7 @@ Subsec. (c)(5). Pub. L. 96–222 added par. (5).
 
 Subsec. (c)(2)(A). Pub. L. 94–455, §2005(a)(4)(A), substituted “Federal and State estate taxes (within the meaning of section 1023(f)(3))” for “the tax imposed on the estate of the decedent or any prior decedent under section 2001 or 2101, reduced by the credits against such tax”. See Repeals note below.
 
-Subsec. (c)(2)(C). Pub. L. 94–455, §2005(a)(4)(B), substituted “which bears the same ratio to the estate tax as such net value bears to the value of the gross estate” for “equal to the excess of the estate tax over the estate tax computed without including in the gross estate such net value”. See Repeals note below.
+Subsec. (c)(2)(C). Pub. L. 94–455, §2005(a)(4)(B), substituted “which bears the same ratio to the estate taxas such net value bears to the value of the gross estate” for “equal to the excess of the estate tax over the estate tax computed without including in the gross estate such net value”. See Repeals note below.
 
 Subsec. (c)(3). Pub. L. 94–455, §2006(b)(3), added par. (3).
 
@@ -254,7 +254,7 @@ Section 702(b)(2) of Pub. L. 95–600 provided that: “The amendment made by pa
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1901(a)(91) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976,see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
+Amendment by section 1901(a)(91) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
 Amendment by section 1951(b)(10)(A) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1951(d) of Pub. L. 94–455, set out as a note under section 72 of this title.
 
@@ -268,7 +268,7 @@ Amendment by Pub. L. 88–272 applicable to taxable years ending after Dec. 31, 
 
 #### Repeals
 
-Pub. L. 94–455, §2005(a)(4), cited as a credit to this section, and the amendments made thereby, were repealed by Pub. L. 96–223, title IV, §401(a), 94 Stat. 299, resulting in the text of this section reading as it read prior to enactment of section 2005(a)(4). See Effective Date of 1980 Amendments and Revival of Prior Law note above.
+Pub. L. 94–455, §2005(a)(4), cited as a credit to this section, and the amendments made thereby, were repealed by Pub. L. 96–223, title IV, §401(a), 94 Stat. 299, resultingin the text of this section reading as it read prior to enactment of section 2005(a)(4). See Effective Date of 1980 Amendments and Revival of Prior Law note above.
 
 #### Savings Provision
 

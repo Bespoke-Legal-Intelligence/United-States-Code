@@ -26,13 +26,13 @@
 
 &emsp;&emsp;&emsp;(v) fixes the scope and format of the notice to be provided regarding the hearing on approval of the disclosure statement; or
 
-&emsp;&emsp;&emsp;(vi) provides that the hearing on approval of the disclosure statement may becombined with the hearing on confirmation of the plan.
+&emsp;&emsp;&emsp;(vi) provides that the hearing on approval of the disclosure statement may be combined with the hearing on confirmation of the plan.
 
 (Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2555; Pub. L. 98–353, title I, §118, July 10, 1984, 98 Stat. 344; Pub. L. 99–554, title II, §203, Oct. 27, 1986, 100 Stat. 3097; Pub. L. 103–394, title I, §104(a), Oct. 22, 1994, 108 Stat. 4108; Pub. L. 109–8, title IV, §440, Apr. 20, 2005, 119 Stat. 114; Pub. L. 111–327, §2(a)(3), Dec. 22, 2010, 124 Stat. 3557.)
 
 #### Historical and Revision Notes
 
-I74senate report no. 95–989
+#### senate report no. 95–989
 
 Section 105 is derived from section 2a (15) of present law \[section 11(a)(15) of former title 11\], with two changes. First, the limitation on the power of a bankruptcy judge (the power to enjoin a court being reserved to the district judge) is removed as inconsistent with the increased powers and jurisdiction of the new bankruptcy court. Second, the bankruptcy judge is prohibited from appointing a receiver in a case under title 11 under any circumstances. The bankruptcy code has ample provision for the appointment of a trustee when needed. Appointment of a receiver would simply circumvent the established procedures.
 
@@ -44,17 +44,17 @@ The Federal Rules of Bankruptcy Procedure, referred to in subsec. (d)(2), are se
 
 #### Amendments
 
-2010—Subsec. (d)(2). Pub. L. 111–327 inserted “may” after “Procedure,” in introductory provisions.
+<b>2010</b>—Subsec. (d)(2). Pub. L. 111–327 inserted “may” after “Procedure,” in introductory provisions.
 
-2005—Subsec. (d). Pub. L. 109–8, §440(1), struck out “, may” after “party in interest” in introductory provisions.
+<b>2005</b>—Subsec. (d). Pub. L. 109–8, §440(1), struck out “, may” after “party in interest” in introductory provisions.
 
 Subsec. (d)(1). Pub. L. 109–8, §440(2), added par. (1) and struck out former par. (1) which read as follows: “hold a status conference regarding any case or proceeding under this title after notice to the parties in interest; and”.
 
-1994—Subsec. (d). Pub. L. 103–394 added subsec. (d).
+<b>1994</b>—Subsec. (d). Pub. L. 103–394 added subsec. (d).
 
-1986—Subsec. (a). Pub. L. 99–554 inserted at end “No provision of this title providing for the raising of an issue by a party in interest shall be construed to preclude the court from, sua sponte, taking any action or making any determination necessary or appropriate to enforce or implement court orders or rules, or to prevent an abuse of process.”
+<b>1986</b>—Subsec. (a). Pub. L. 99–554 inserted at end “No provision of this title providing for the raising of an issue by a party in interest shall be construed to preclude the court from, sua sponte, taking any action or making any determination necessary or appropriate to enforce or implement court orders or rules, or to prevent an abuse of process.”
 
-1984—Subsecs. (a), (b). Pub. L. 98–353, §118(1), struck out “bankruptcy” before “court”.
+<b>1984</b>—Subsecs. (a), (b). Pub. L. 98–353, §118(1), struck out “bankruptcy” before “court”.
 
 Subsec. (c). Pub. L. 98–353, §118(2), added subsec. (c).
 

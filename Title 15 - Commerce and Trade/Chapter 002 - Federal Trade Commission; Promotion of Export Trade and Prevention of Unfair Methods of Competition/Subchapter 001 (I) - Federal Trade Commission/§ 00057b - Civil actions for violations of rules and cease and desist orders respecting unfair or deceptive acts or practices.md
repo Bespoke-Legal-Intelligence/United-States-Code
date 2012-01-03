@@ -8,7 +8,7 @@
 
 #### (b) Nature of relief available
 
-The court in an action under subsection (a) of this section shall have jurisdiction to grant such relief as the court finds necessary to redress injury to consumers or other persons, partnerships, and corporations resulting from the rule violation or the unfair or deceptive act or practice, as the case may be. Such relief may include, but shall not be limited to, rescission or reformation of contracts, the refund of money or return of property, the payment of damages, and public notification respecting the rule violation or the unfair or deceptive act or practice, as the case may be; except that nothing in this subsection is intended to authorize the imposition of any exemplary or punitive damages.
+The court in an action under subsection (a) of this section shall have jurisdiction to grant such relief as the court finds necessary to redress injury to consumers or other persons, partnerships, and corporations resulting from the rule violation or the unfair or deceptive act or practice, as the case may be. Such relief may include, but shall not be limited to, rescission or reformation of contracts, the refund of money or return of property, the payment of damages, andpublic notification respecting the rule violation or the unfair or deceptive act or practice, as the case may be; except that nothing in this subsection is intended to authorize the imposition of any exemplary or punitive damages.
 
 #### (c) Conclusiveness of findings of Commission in cease and desist proceedings; notice of judicial proceedings to injured persons, etc.
 
@@ -28,7 +28,7 @@ Remedies provided in this section are in addition to, and not in lieu of, any ot
 
 #### Effective Date
 
-Section 206(b) of Pub. L. 93–637 provided that: “The amendment made by subsection (a) of this section \[enacting this section\] shall not apply to—
+Pub. L. 93–637, title II, §206(b), Jan. 4, 1975, 88 Stat. 2202, provided that: “The amendment made by subsection (a) of this section \[enacting this section\] shall not apply to—
 
 &emsp;“(1) any violation of a rule to the extent that such violation occurred before the date of enactment of this Act \[Jan. 4, 1975\], or
 

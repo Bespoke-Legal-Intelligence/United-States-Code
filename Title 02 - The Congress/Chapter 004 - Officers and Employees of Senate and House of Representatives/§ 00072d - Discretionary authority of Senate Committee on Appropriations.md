@@ -36,5 +36,5 @@ Section is from the Congressional Operations Appropriations Act, 1999, which is 
 
 #### Amendments
 
-2005—Subsec. (a)(5). Pub. L. 109–55 inserted “, except that any approval (and related reporting requirement) shall not apply” after “May 14, 1975”.
+<b>2005</b>—Subsec. (a)(5). Pub. L. 109–55 inserted “, except that any approval (and related reporting requirement) shall not apply” after “May 14, 1975”.
 

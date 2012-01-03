@@ -58,7 +58,7 @@ Section is comprised of section 191 of Pub. L. 104–127. Subsec. (i) of section
 
 #### Amendments
 
-2000—Subsec. (b). Pub. L. 106–224, §134(1), substituted “300 counties, except that not more than 25” for “100 counties, except that not more than 6” in first sentence.
+<b>2000</b>—Subsec. (b). Pub. L. 106–224, §134(1), substituted “300 counties, except that not more than 25” for “100 counties, except that not more than 6” in first sentence.
 
 Subsec. (c)(2). Pub. L. 106–224, §134(2), inserted before semicolon at end “during any calendar year in which a county in which the farm of the producer is located is included in the pilot program”.
 

@@ -54,7 +54,7 @@ This section also amends 5 U.S.C. 8503 to eliminate certain provisions that are 
 
 #### Amendments
 
-1976—Subsecs. (b), (c). Pub. L. 94–566, §116(e)(2), redesignated subsec. (c) as (b) and substituted “subsection (a)” for “subsection (a) or (b)”. Former subsec. (b), which made special provision for Federal employees whose Federal service and Federal wages were assigned to the Virgin Islands, was struck out.
+<b>1976</b>—Subsecs. (b), (c). Pub. L. 94–566, §116(e)(2), redesignated subsec. (c) as (b) and substituted “subsection (a)” for “subsection (a) or (b)”. Former subsec. (b), which made special provision for Federal employees whose Federal service and Federal wages were assigned to the Virgin Islands, was struck out.
 
 Subsec. (d). Pub. L. 94–566, §116(e)(2)(A), struck out subsec. (d) which authorized the Secretary to use the personnel and facilities of the agency in the Virgin Islands cooperating with the United States Employment Service.
 

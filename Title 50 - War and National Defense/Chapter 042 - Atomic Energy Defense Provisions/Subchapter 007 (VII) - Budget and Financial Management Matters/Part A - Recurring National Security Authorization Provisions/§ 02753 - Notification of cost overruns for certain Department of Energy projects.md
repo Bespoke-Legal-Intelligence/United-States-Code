@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Administrator for Nuclear Security shall establish a cost and schedule baselinefor each nuclear stockpile life extension project of the National Nuclear Security Administration.
+&emsp;&emsp;The Administrator for Nuclear Security shall establish a cost and schedule baseline for each nuclear stockpile life extension project of the National Nuclear Security Administration.
 
 #### (B) Per unit cost
 

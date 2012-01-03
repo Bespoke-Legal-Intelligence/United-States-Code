@@ -180,7 +180,7 @@ Section was not enacted as part of subtitle B of title XVI of Pub. L. 101–624 
 
 #### Amendments
 
-1991—Subsec. (b)(1)(D). Pub. L. 102–237, §201(a)(1), substituted “subsection (f)” for “subsection (e)”.
+<b>1991</b>—Subsec. (b)(1)(D). Pub. L. 102–237, §201(a)(1), substituted “subsection (f)” for “subsection (e)”.
 
 Subsec. (d). Pub. L. 102–237, §201(a)(2), inserted “each of” before “the calendar”.
 
@@ -190,7 +190,7 @@ Subsec. (h)(7)(B)(i). Pub. L. 102–237, §201(a)(4)(A), inserted before period 
 
 Subsec. (h)(7)(B)(ii). Pub. L. 102–237, §201(a)(4)(B), substituted “under section 101B(c)(1)(D), 103B(c)(1)(D), 105B(c)(1)(E), or 107B(c)(1)(E)” for “under section 101B(c)(1)(B), section 103B(c)(1)(B), section 105A(c)(1)(B), or section 107A(c)(1)(B)”.
 
-1990—Subsec. (d). Pub. L. 101–508, §1204(a)(1), substituted “enroll not less than” for “enroll not more than”.
+<b>1990</b>—Subsec. (d). Pub. L. 101–508, §1204(a)(1), substituted “enroll not less than” for “enroll not more than”.
 
 Subsec. (h)(7)(A). Pub. L. 101–508, §1204(a)(2), substituted “shall be eligible” for “shall not be eligible”.
 
@@ -201,4 +201,6 @@ Amendment by Pub. L. 102–237 effective as if included in the provision of the 
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–508 effective Nov. 29, 1990, see section 1301 of Pub. L. 101–508, set out as an Effective Date note under section 940d of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -34,7 +34,7 @@ The Secretary and the Governor of the telephone bank may not charge any fee or c
 
 #### Amendments
 
-1994—Pub. L. 103–354 substituted “Secretary” for “Administrator” wherever appearing.
+<b>1994</b>—Pub. L. 103–354 substituted “Secretary” for “Administrator” wherever appearing.
 
-1993—Pub. L. 103–129 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
+<b>1993</b>—Pub. L. 103–129 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
 

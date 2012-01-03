@@ -20,7 +20,7 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### Amendments
 
-1984—Subsecs. (a), (b). Pub. L. 98–557 substituted reference to member for reference to commissioned officer, warrant officer, and enlisted man.
+<b>1984</b>—Subsecs. (a), (b). Pub. L. 98–557 substituted reference to member for reference to commissioned officer, warrant officer, and enlisted man.
 
 #### Wearing of Uniform Authorized by President
 

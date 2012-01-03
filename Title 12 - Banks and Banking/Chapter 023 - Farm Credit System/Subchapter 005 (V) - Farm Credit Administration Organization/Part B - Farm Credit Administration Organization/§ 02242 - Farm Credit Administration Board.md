@@ -6,7 +6,7 @@ The management of the Farm Credit Administration shall be vested in a Farm Credi
 
 #### (b) Terms of office
 
-The term of office of each member of the Board shall be six years, except that the terms of the two members, other than the Chairman, first appointed under subsection (a) of this section shall expire, one on the expiration of two years after the date of appointment, and one on the expiration of four years after the date of appointment. Members of the Board shall not be appointed to succeed themselves, except that the members first appointed under subsection (a) of this section for a term of less than six years may be reappointed for a full six-year term and members appointed to fill unexpired terms of three years or less may be reappointed for a full six-year term. Any vacancy shall be filled for the unexpired term on like appointment. Any member of the Board shall continue to serve as such after the expiration of the member's term until a successor has been appointed and qualified.
+The term of office of each member of the Board shall be six years, except that the termsof the two members, other than the Chairman, first appointed under subsection (a) of this section shall expire, one on the expiration of two years after the date of appointment, and one on the expiration of four years after the date of appointment. Members of the Board shall not be appointed to succeed themselves, except that the members first appointed under subsection (a) of this section for a term of less than six years may be reappointed for a full six-year term and members appointed to fill unexpired terms of three years or less may be reappointed for a full six-year term. Any vacancy shall be filled for the unexpired term on like appointment. Any member of the Board shall continue to serve as such after the expiration of the member's term until a successor has been appointed and qualified.
 
 #### (c) Organization
 
@@ -14,7 +14,7 @@ Each member of the Board, within fifteen days after notice of appointment, shall
 
 #### (d) Compensation
 
-The members of the Board shall devote their full time and attention to the business of the Board. The Chairman of the Board shall receive compensation at the rate prescribed for level III of the Executive Schedule under section 5314 of title 5. Each of the other members of the Boardshall receive compensation at the rate prescribed for level IV of the Executive Schedule under section 5315 of title 5. Each member of the Board shall be reimbursed for necessary travel, subsistence, and other expenses in the discharge of the member's official duties without regard to other laws with respect to allowance for travel and subsistence of officers and employees of the United States. This subsection shall be subject to the provisions of section 2245 of this title.
+The members of the Board shall devote their full time and attention to the business of the Board. The Chairman of the Board shall receive compensation at the rate prescribed for level III of the Executive Schedule under section 5314 of title 5. Each of the other members of the Board shall receive compensation at the rate prescribed for level IV of the Executive Schedule under section 5315 of title 5. Each member of the Board shall be reimbursed for necessary travel, subsistence, and other expenses in the discharge of the member's official duties without regard to other laws with respect to allowance for travel and subsistence of officers and employees of the United States. This subsection shall be subject to the provisions of section 2245 of this title.
 
 #### (e) Qualifications of Farm Credit Administration Board members
 
@@ -30,13 +30,13 @@ The President shall appoint members of the Board who—
 
 #### Amendments
 
-1992—Subsec. (e). Pub. L. 102–552 added subsec. (e).
+<b>1992</b>—Subsec. (e). Pub. L. 102–552 added subsec. (e).
 
-1988—Subsec. (c). Pub. L. 100–233 amended last sentence generally, substituting “business by the Board,” for “its business” and “the actions and proceedings of the Board” for “its acts and proceedings”.
+<b>1988</b>—Subsec. (c). Pub. L. 100–233 amended last sentence generally, substituting “business by the Board,” for “its business” and “the actions and proceedings of the Board” for “its acts and proceedings”.
 
-1985—Pub. L. 99–205 amended section generally, substituting provisions of subsecs. (a) to (d) relating to the Farm Credit Administration Board for provisions of former subsecs. (a) to (i) which related to the Federal Farm Credit Board.
+<b>1985</b>—Pub. L. 99–205 amended section generally, substituting provisions of subsecs. (a) to (d) relating to the Farm Credit Administration Board for provisions of former subsecs. (a) to (i) which related to the Federal Farm Credit Board.
 
-1980—Subsec. (h). Pub. L. 96–592 substituted provisions relating to applicability of compensation under section 5332 of title 5, for provisions setting forth compensation at the rate of $100 a day.
+<b>1980</b>—Subsec. (h). Pub. L. 96–592 substituted provisions relating to applicability of compensation under section 5332 of title 5, for provisions setting forth compensation at the rate of $100 a day.
 
 #### Effective Date of 1985 Amendment
 

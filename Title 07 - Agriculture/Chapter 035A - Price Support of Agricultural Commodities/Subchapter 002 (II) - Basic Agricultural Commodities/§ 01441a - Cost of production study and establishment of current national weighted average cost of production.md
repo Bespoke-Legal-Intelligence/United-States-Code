@@ -1,6 +1,6 @@
 ### §1441a. Cost of production study and establishment of current national weighted average cost of production
 
-The Secretary of Agriculture, in cooperation with the land grant colleges, commodity organizations, general farm organizations, and individual farmers, shall conduct a cost of production study of the wheat, feed grain, cotton, and dairy commodities under the various production practices and establish a current national weighted average cost of production. This study shall be updated annually and shall include all typical variable costs, including interest costs, a return on fixed costs, and a return for management.
+The Secretary of Agriculture, in cooperation with the land grant colleges, commodity organizations, general farm organizations, and individual farmers, shall conduct a cost of production study of the wheat, feed grain, cotton, and dairy commodities under the various production practices and establish a current national weighted average cost of production. This study shall beupdated annually and shall include all typical variable costs, including interest costs, a return on fixed costs, and a return for management.
 
 (Pub. L. 91–524, title VIII, §808, as added Pub. L. 93–86, §1(27)(B), Aug. 10, 1973, 87 Stat. 237; amended Pub. L. 97–98, title XI, §1117, Dec. 22, 1981, 95 Stat. 1271.)
 
@@ -10,7 +10,7 @@ Section was enacted as part of the Agricultural Act of 1970 as added by the Agri
 
 #### Amendments
 
-1981—Pub. L. 97–98 inserted “including interest costs,” after “variable costs,”, substituted “, and a return for management” for “equal to the existing interest rates charged by the Federal Land Bank, and return for management comparable to the normal management fees charged by other comparable industries”, and struck out provision that these studies be basedupon the size unit that requires one man to farm on a full-time basis.
+<b>1981</b>—Pub. L. 97–98 inserted “including interest costs,” after “variable costs,”, substituted “, and a return for management” for “equal to the existing interest rates charged by the Federal Land Bank, and return for management comparable to the normal management fees charged by other comparable industries”, and struck out provision that these studies be based upon the size unit that requires one man to farm on a full-time basis.
 
 #### Effective Date of 1981 Amendment
 

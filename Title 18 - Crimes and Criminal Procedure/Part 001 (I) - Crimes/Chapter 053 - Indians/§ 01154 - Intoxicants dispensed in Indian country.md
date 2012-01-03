@@ -32,7 +32,7 @@ Subsection (a) of this section \[section 27(a)\] substitutes “Department of th
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500” after “first offense, be” and for “fined not more than $2,000” after “subsequent offense, be”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500” after“first offense, be” and for “fined not more than $2,000” after “subsequent offense, be”.
 
 <b>1949</b>—Subsec. (b). Act May 24, 1949, §27(a), substituted “Department of the Army” for “War Department”.
 
@@ -40,5 +40,5 @@ Subsec. (c). Act May 24, 1949, §27(b), added subsec. (c).
 
 #### Transfer of Functions
 
-Functions of all other officers of Department of the Interior and functions of all agencies and employees ofsuch Department, with two exceptions, transferred to Secretary of the Interior, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+Functions of all other officers of Department of the Interior and functions of all agencies and employees of such Department, with two exceptions, transferred to Secretary of the Interior, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 

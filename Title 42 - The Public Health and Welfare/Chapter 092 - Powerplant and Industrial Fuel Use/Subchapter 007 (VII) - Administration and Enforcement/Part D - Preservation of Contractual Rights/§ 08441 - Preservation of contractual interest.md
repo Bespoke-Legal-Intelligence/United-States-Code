@@ -76,7 +76,7 @@ No supplier of natural gas under any contract, with respect to which contractual
 
 &emsp;(2) the volume which such supplier would have been required to supply, under the curtailment plan in effect for such supplier, to the person, who transferred contractual interests under subsection (a)(1) of this section, if no such transfer had occurred;
 
-&emsp;(3) the volume which would have been delivered, or for which payment would have been made, pursuant to such contract but for the prohibition on the use of such natural gas under subchapter III of this chapter or any rule or order thereunder; and
+&emsp;(3) the volume which would have been delivered, or for which payment would have beenmade, pursuant to such contract but for the prohibition on the use of such natural gas under subchapter III of this chapter or any rule or order thereunder; and
 
 &emsp;(4) the volume actually delivered or for which payment would have been made pursuant to such contract during the 12-calendar-month period ending immediately before such transfer of contractual interests pursuant to this section.
 

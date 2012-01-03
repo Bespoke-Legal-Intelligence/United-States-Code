@@ -8,7 +8,7 @@ If for the taxable year an S corporation has—
 
 &emsp;(2) gross receipts more than 25 percent of which are passive investment income,
 
-> then there is hereby imposed a tax on the income of such corporation for such taxable year.Such tax shall be computed by multiplying the excess net passive income by the highest rate of tax specified in section 11(b).
+> then there is hereby imposed a tax on the income of such corporation for such taxable year. Such tax shall be computed by multiplying the excess net passive income by the highest rate of tax specified in section 11(b).
 
 #### (b) Definitions
 
@@ -104,7 +104,7 @@ Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to whichsuch amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 

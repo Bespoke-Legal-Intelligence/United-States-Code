@@ -102,7 +102,7 @@ For purposes of this section, the term “negligence” includes any failure to 
 
 &emsp;For purposes of this section, there is a substantial valuation misstatement under chapter 1 if—
 
-&emsp;&emsp;(A) the value of any property (or the adjusted basis of any property) claimed on any return of tax imposed by chapter 1 is 150 percent or more of the amount determined to bethe correct amount of such valuation or adjusted basis (as the case may be), or
+&emsp;&emsp;(A) the value of any property (or the adjusted basis of any property) claimed on any return of tax imposed by chapter 1 is 150 percent or more of the amount determined to be the correct amount of such valuation or adjusted basis (as the case may be), or
 
 &emsp;&emsp;(B)(i) the price for any property or services (or for the use of property) claimed on any such return in connection with any transaction between persons described in section 482 is 200 percent or more (or 50 percent or less) of the amount determined under section 482 to be the correct amount of such price, or
 
@@ -126,7 +126,7 @@ For purposes of this section, the term “negligence” includes any failure to 
 
 &emsp;&emsp;&emsp;(i) Any portion of the net increase in taxable income referred to in subparagraph (A) which is attributable to any redetermination of a price if—
 
-&emsp;&emsp;&emsp;&emsp;(I) it is established that the taxpayer determined such price in accordance with a specific pricing method set forth in the regulations prescribed under section 482 and that the taxpayer's use of such method was reasonable,
+&emsp;&emsp;&emsp;&emsp;(I) it is established that the taxpayer determined such price in accordancewith a specific pricing method set forth in the regulations prescribed under section 482 and that the taxpayer's use of such method was reasonable,
 
 &emsp;&emsp;&emsp;&emsp;(II) the taxpayer has documentation (which was in existence as of the time of filing the return) which sets forth the determination of such price in accordance with such a method and which establishes that the use of such method was reasonable, and
 
@@ -326,7 +326,7 @@ In general.—For purposes of this section, there is a substantial valuation ove
 
 Limitation.—No penalty shall be imposed by reason of subsection (b)(3) unless the portion of the underpayment for the taxable year attributable to substantial valuation overstatements under chapter 1 exceeds $5,000 ($10,000 in the case of a corporation other than an S corporation or a personal holding company (as defined in section 542)).”
 
-Subsec. (h)(2)(A). Pub. L. 101–508, §11312(b)(2), amended subpar. (A) generally. Prior to amendment, subpar.\(A) read as follows: “any substantial valuation overstatement under chapter 1 as determined under subsection (e) by substituting ‘400 percent’ for ‘200 percent’,”.
+Subsec. (h)(2)(A). Pub. L. 101–508, §11312(b)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “any substantial valuation overstatement under chapter 1 as determined under subsection (e) by substituting ‘400 percent’ for ‘200 percent’,”.
 
 #### Effective Date of 2010 Amendment
 

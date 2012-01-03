@@ -16,10 +16,6 @@
 
 <i>Pub. L. 92–603, title III, §303(a), (b), Oct. 30, 1972, 86 Stat. 1484, provided that this section is repealed effective Jan. 1, 1974, except with respect to Puerto Rico, Guam, and the Virgin Islands.</i>
 
-#### References in Text
-
-Part A of subchapter IV of this chapter, referred to in subsec. (a)(7), is classified to section 601 et seq. of this title.
-
 #### Amendments
 
 <b>1996</b>—Subsec. (a)(7). Pub. L. 104–193 substituted “assistance under a State program funded under part A of subchapter IV of this chapter” for “aid to families with dependent children under the State plan approved under section 602 of this title”.
@@ -50,7 +46,7 @@ Subsec. (a)(8). Pub. L. 87–543, §§106(a)(2), 154, inserted “, as well as 
 
 Subsec. (b). Pub. L. 87–543, §136(a), provided for approval of certain plans of States, without an approved plan on Jan. 1, 1949, meeting all but income and resources requirements, and payment of certain expenditures under such plans.
 
-<b>1960</b>—Subsec. (a)(8). Pub. L. 86–778, §710(b), struck out provision that required the State agency to disregard, alternatively, the first $50 per month of earned income in considering claimant's income and resources in determining need.
+<b>1960</b>—Subsec. (a)(8). Pub. L. 86–778, §710(b), struck out provision that required the State agency to disregard,alternatively, the first $50 per month of earned income in considering claimant's income and resources in determining need.
 
 Pub. L. 86–778, §710(a), inserted provision that required the State agency to disregard, alternatively, the first $85 per month of earned income plus one-half of earned income in excess of $85 per month in considering claimant's income and resources in determining need.
 
@@ -102,7 +98,7 @@ Section 154 of Pub. L. 87–543 provided that the amendment made by that section
 
 #### Effective Date of 1960 Amendment
 
-Section 710(a) of Pub. L. 86–778 provided that the amendment made by that section is effective for theperiod beginning with first day of calendar quarter which begins after Sept. 13, 1960, and ending with close of June 30, 1962.
+Section 710(a) of Pub. L. 86–778 provided that the amendment made by that section is effective for the period beginning with first day of calendar quarter which begins after Sept. 13, 1960, and ending with close of June 30, 1962.
 
 Section 710(b) of Pub. L. 86–778 provided that the amendment made by that section is effective July 1, 1962.
 

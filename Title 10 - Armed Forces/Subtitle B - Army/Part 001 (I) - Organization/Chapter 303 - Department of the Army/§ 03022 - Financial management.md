@@ -30,7 +30,7 @@
 
 (c) The Assistant Secretary shall maintain a five-year plan describing the activities the Department of the Army proposes to conduct over the next five fiscal years to improve financial management. Such plan shall be revised annually.
 
-(d) The Assistant Secretary of the Army for Financial Management shall transmit to the Secretary of the Army a report each year on the activities of the Assistant Secretary during the preceding year. Each such report shall include a description and analysis of the status of Department of the Army financial management.
+(d) The Assistant Secretary of the Army for Financial Management shall transmit to the Secretary of the Army a report each year on the activities of the Assistant Secretary during the preceding year. Each such report shall include adescription and analysis of the status of Department of the Army financial management.
 
 (Added Pub. L. 100–456, div. A, title VII, §702(a)(2), Sept. 29, 1988, 102 Stat. 1993; amended Pub. L. 103–337, div. A, title X, §1070(a)(15), Oct. 5, 1994, 108 Stat. 2856; Pub. L. 104–106, div. A, title XV, §1503(b)(1), Feb. 10, 1996, 110 Stat. 512.)
 

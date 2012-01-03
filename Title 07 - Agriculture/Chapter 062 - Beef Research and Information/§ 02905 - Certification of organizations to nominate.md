@@ -28,7 +28,7 @@ If more than one State organization is certified in a State (or in a unit referr
 
 #### Amendments
 
-1985—Pub. L. 99–198 amended section generally, substituting provisions relating to certification of organizations to nominate for provisions relating to findings and issuance of orders.
+<b>1985</b>—Pub. L. 99–198 amended section generally, substituting provisions relating to certification of organizations to nominate for provisions relating to findings and issuance of orders.
 
 #### Effective Date of 1985 Amendment
 

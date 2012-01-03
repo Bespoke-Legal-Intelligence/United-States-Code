@@ -16,7 +16,7 @@ The requirements referred to in this subsection are as follows:
 
 &emsp;&emsp;(C) meets the public notice and comment requirements of section 15406 of this title.
 
-&emsp;(2)(A) Subject to subparagraph (B), the State has filed with the Commission a plan for the implementation of the uniform, nondiscriminatory administrative complaint proceduresrequired under section 15512 of this title (or has included such a plan in the State plan filed under paragraph (1)), and has such procedures in place for purposes of meeting the requirements of such section. If the State does not include such an implementation plan in the State plan filed under paragraph (1), the requirements of sections 15405(b) and 15406 of this title shall apply to the implementation plan in the same manner as such requirements apply to the State plan.
+&emsp;(2)(A) Subject to subparagraph (B), the State has filed with the Commission a plan for the implementation of the uniform, nondiscriminatory administrative complaint procedures required under section 15512 of this title (or has included such a plan in the State plan filed under paragraph (1)), and has such procedures in place for purposes of meeting the requirements of such section. If the State does not include such an implementation plan in the State plan filed under paragraph (1), the requirements of sections 15405(b) and 15406 of this title shall apply to the implementation plan in the same manner as such requirements apply to the State plan.
 
 &emsp;(B) Subparagraph (A) shall not apply for purposes of determining the eligibility of a State to receive a requirements payment appropriated pursuant to the authorization provided under section 15407(a)(4) of this title.
 
@@ -38,13 +38,13 @@ The specific choices on the methods of complying with the elements of a State pl
 
 #### (d) Timing for filing of certification
 
-A State may not file a statement of certification under subsection (a) of this section until the expiration of the 45-day period (or, in the case of a fiscal year other than the first fiscal year for which a requirements payment is made to the State under this part, the 30-day period) which begins on the date the State plan under this part is published in the Federal Register pursuant to section 15405(b) of this title.
+A State may not file a statement of certification under subsection (a) of this section until the expiration of the 45-day period (or, in the case of a fiscal year other than the first fiscal year for which a requirements payment is made to the State under this part, the 30-day period) which begins on the date notice of the State plan under this part is published in the Federal Register pursuant to section 15405(b) of this title.
 
 #### (e) Chief State election official defined
 
 In this part, the “chief State election official” of a State is the individual designated by the State under section 10 of the National Voter Registration Act of 1993 (42 U.S.C. 1973gg–8) to be responsible for coordination of the State's responsibilities under such Act.
 
-(Pub. L. 107–252, title II, §253, Oct. 29, 2002, 116 Stat. 1693; Pub. L. 111–84, div. A, title V, §588(b)(1)(B)–(3), Oct. 28, 2009, 123 Stat. 2333.)
+(Pub. L. 107–252, title II, §253, Oct. 29, 2002, 116 Stat. 1693; Pub. L. 111–84, div. A, title V, §588(b)(1)(B)–(3), Oct. 28, 2009, 123 Stat. 2333; Pub. L. 112–74, div. C, title VI, §622(2), Dec. 23, 2011, 125 Stat. 927.)
 
 #### References in Text
 
@@ -57,6 +57,8 @@ Subchapter III of this chapter, referred to in subsec. (b)(4), was in the origin
 The National Voter Registration Act of 1993, referred to in subsec. (e), is Pub. L. 103–31, May 20, 1993, 107 Stat. 77, which is classified principally to subchapter I–H (§1973gg et seq.) of chapter 20 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1971 of this title and Tables.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (d). Pub. L. 112–74 inserted “notice of” before “the State plan”.
 
 <b>2009</b>—Subsec. (b)(1)(A). Pub. L. 111–84, §588(b)(1)(B), substituted “section 15404(a) of this title (or, for purposes of determining the eligibility of a State to receive a requirements payment appropriated pursuant to the authorization provided under section 15407(a)(4) of this title, contains the element described in paragraph (14) of such section)” for “section 15404 of this title”.
 

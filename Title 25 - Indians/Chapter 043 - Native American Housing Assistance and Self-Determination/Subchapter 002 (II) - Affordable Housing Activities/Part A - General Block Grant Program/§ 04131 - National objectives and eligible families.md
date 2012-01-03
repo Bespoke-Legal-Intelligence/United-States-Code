@@ -8,7 +8,7 @@ The national objectives of this chapter are—
 
 &emsp;(2) to ensure better access to private mortgage markets for Indian tribes and their members and to promote self-sufficiency of Indian tribes and their members;
 
-&emsp;(3) to coordinate activities to provide housing for Indian tribes and their members withFederal, State, and local activities to further economic and community development for Indian tribes and their members;
+&emsp;(3) to coordinate activities to provide housing for Indian tribes and their members with Federal, State, and local activities to further economic and community development for Indian tribes and their members;
 
 &emsp;(4) to plan for and integrate infrastructure resources for Indian tribes with housing development for tribes; and
 
@@ -52,7 +52,7 @@ The national objectives of this chapter are—
 
 #### (6) <sup>1</sup> Preference for tribal members and other Indian families
 
-&emsp;The Indian housing plan for an Indian tribe may require preference, for housing or housing assistance provided through affordable housing activities assisted with grant amounts provided under this chapter on behalf of such tribe, to be given (to the extent practicable) to Indian families who are members of such tribe, or to other Indian families. In any case in which the applicable Indian housing plan for an Indian tribe provides for preference under this paragraph, the recipient for the tribe shall ensure that housing activities that are assisted with grant amounts under this chapter for such tribe are subject to such preference.
+&emsp;The Indian housing plan for an Indian tribe may require preference, for housing or housing assistance provided through affordable housing activities assisted with grant amounts provided under this chapter on behalf of such tribe, to be given (to the extent practicable) to Indian families who are members of such tribe, or to other Indian families. In any case inwhich the applicable Indian housing plan for an Indian tribe provides for preference under this paragraph, the recipient for the tribe shall ensure that housing activities that are assisted with grant amounts under this chapter for such tribe are subject to such preference.
 
 #### (6) <sup>1</sup> Exemption
 

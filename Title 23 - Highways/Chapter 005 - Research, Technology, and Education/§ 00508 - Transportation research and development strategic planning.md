@@ -48,7 +48,7 @@ Considerations.—In developing the strategic plan, the Secretary shall ensure t
 
 Performance plans and reports.—In reports submitted under sections 1115 and 1116 of title 31, the Secretary shall include—
 
-&emsp;&emsp;(A) a summary of the Federal transportation research and development activities for the previous fiscal year in each topic area;
+&emsp;&emsp;(A) a summary of the Federal transportation research and development activitiesfor the previous fiscal year in each topic area;
 
 &emsp;&emsp;(B) the amount of funding spent in each topic area;
 
@@ -136,7 +136,7 @@ Contents.—The plan shall include the following:
 
 &emsp;&emsp;“(A) Details of the Department's surface transportation research and development programs, including appropriate funding levels and a schedule with milestones, preliminary cost estimates, appropriate work scopes, personnel requirements, and estimated costs and goals for the next 3 years for each area of research and development.
 
-&emsp;&emsp;“(B) A 10-year projection of long-term programs in surface transportation research and development and recommendations for the appropriate source or mechanism for surface transportation research and development funding, taking into account recommendations of the Research and Development Coordinating Council of the Department of Transportation and the plan of the National Council on Surface Transportation Research.
+&emsp;&emsp;“(B) A 10-year projection of long-term programs in surface transportation research and development and recommendations for the appropriate source or mechanism for surface transportation research anddevelopment funding, taking into account recommendations of the Research and Development Coordinating Council of the Department of Transportation and the plan of the National Council on Surface Transportation Research.
 
 &emsp;&emsp;“(C) Recommendations on changes needed to assure that Federal, State, and local contracting procedures encourage the adoption of advanced technologies developed as a consequence of the research programs in this Act \[Pub. L. 102–240, see Tables for classification\].
 

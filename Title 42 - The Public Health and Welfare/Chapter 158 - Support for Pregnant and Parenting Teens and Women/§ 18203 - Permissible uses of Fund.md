@@ -120,7 +120,7 @@ A State may use amounts received under a grant under section 18202 of this title
 
 &emsp;&emsp;(A) the identification of eligible pregnant women experiencing domestic violence, sexual violence, sexual assault, or stalking;
 
-&emsp;&emsp;(B) the assessment of the immediate and short-term safety of such a pregnant woman, the evaluation of the impact of the violence or stalking on the pregnant woman's health, and the assistance of the pregnant woman in developing a plan aimed at preventing further domestic violence, sexual violence, sexual assault, or stalking, as appropriate;
+&emsp;&emsp;(B) the assessment of the immediate and short-term safety of such a pregnant woman, the evaluation of the impact of the violence or stalking on the pregnant woman's health,and the assistance of the pregnant woman in developing a plan aimed at preventing further domestic violence, sexual violence, sexual assault, or stalking, as appropriate;
 
 &emsp;&emsp;(C) the maintenance of complete medical or forensic records that include the documentation of any examination, treatment given, and referrals made, recording the location and nature of the pregnant woman's injuries, and the establishment of mechanisms to ensure the privacy and confidentiality of those medical records; and
 

@@ -74,11 +74,11 @@ The Inspector General Act of 1978, referred to in subsec. (d)(1), is Pub. L. 95�
 
 #### Amendments
 
-2010—Subsec. (b)(1). Pub. L. 111–145 repealed Pub. L. 110–161, §1004(d)(3). See 2007 Amendment note below.
+<b>2010</b>—Subsec. (b)(1). Pub. L. 111–145 repealed Pub. L. 110–161, §1004(d)(3). See 2007 Amendment note below.
 
-2008—Subsec. (b)(1). Pub. L. 110–178 inserted “, except that nothing in this paragraph may be construed to authorize the Inspector General to audit or investigate any operations or activities of the United States Capitol Police” before semicolon at end.
+<b>2008</b>—Subsec. (b)(1). Pub. L. 110–178 inserted “, except that nothing in this paragraph may be construed to authorize the Inspector General to audit or investigate any operations or activities of the United States Capitol Police” before semicolon at end.
 
-2007—Subsec. (b)(1). Pub. L. 110–161, §1004(d)(3), which made amendment identical to that made by Pub. L. 110–178, was repealed by Pub. L. 111–145. See Effective Date of 2010 Amendment note below.
+<b>2007</b>—Subsec. (b)(1). Pub. L. 110–161, §1004(d)(3), which made amendment identical to that made by Pub. L. 110–178, was repealed by Pub. L. 111–145. See Effective Date of 2010 Amendment note below.
 
 #### Effective Date of 2010 Amendment
 
@@ -87,4 +87,6 @@ Repeal of section 1004 of Pub. L. 110–161 by Pub. L. 111–145 effective as if
 #### Effective Date of 2008 Amendment
 
 Amendment by Pub. L. 110–178 effective Oct. 1, 2009, see section 4(d) of Pub. L. 110–178, set out as an Effective Date of Repeal note under former section 167 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

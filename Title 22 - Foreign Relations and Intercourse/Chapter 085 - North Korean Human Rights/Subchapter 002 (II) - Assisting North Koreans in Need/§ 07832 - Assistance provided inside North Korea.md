@@ -4,7 +4,7 @@
 
 It is the sense of the Congress that—
 
-&emsp;(1) at the same time that Congress supports the provision of humanitarian assistance to the people of North Korea on humanitarian grounds, such assistance also should be provided and monitored so as to minimize the possibility that such assistance could be diverted to political or military use, and to maximize the likelihood that it will reach the most vulnerable North Koreans;
+&emsp;(1) at the same time that Congress supports the provision of humanitarian assistance to the people of North Korea on humanitariangrounds, such assistance also should be provided and monitored so as to minimize the possibility that such assistance could be diverted to political or military use, and to maximize the likelihood that it will reach the most vulnerable North Koreans;
 
 &emsp;(2) significant increases above current levels of United States support for humanitarian assistance provided inside North Korea should be conditioned upon substantial improvements in transparency, monitoring, and access to vulnerable populations throughout North Korea; and
 

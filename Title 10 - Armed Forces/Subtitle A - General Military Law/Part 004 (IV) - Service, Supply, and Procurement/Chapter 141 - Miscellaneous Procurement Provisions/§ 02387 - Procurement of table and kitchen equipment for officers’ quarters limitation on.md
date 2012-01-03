@@ -1,6 +1,6 @@
 ### §2387. Procurement of table and kitchen equipment for officers’ quarters: limitation on
 
-(a) Except under regulations approved by the Secretary of Defense and providing for uniform practices among the armed forces under his jurisdiction, no part of any appropriation of theDepartment of Defense may be used to supply or replace table linen, dishes, glassware, silver, and kitchen utensils for use in the residences on shore, or quarters on shore, of officers of those armed forces.
+(a) Except under regulations approved by the Secretary of Defense and providing for uniform practices among the armed forces under his jurisdiction, no part of any appropriation of the Department of Defense may be used to supply or replace table linen, dishes, glassware, silver, and kitchen utensils for use in the residences on shore, or quarters on shore, of officers of those armed forces.
 
 (b) This section does not apply to—
 

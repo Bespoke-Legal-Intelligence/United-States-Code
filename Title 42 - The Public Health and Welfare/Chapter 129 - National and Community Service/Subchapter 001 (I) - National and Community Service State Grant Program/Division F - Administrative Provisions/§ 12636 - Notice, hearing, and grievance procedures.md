@@ -44,7 +44,7 @@ Nothing in this subchapter shall be construed to link performance of service wit
 
 #### (A) Hearing
 
-&emsp;&emsp;A hearing on any grievance conducted under this subsection shall be conducted not later than 30 days after the filing of such grievance.
+&emsp;&emsp;A hearing on any grievance conducted under this subsection shall be conducted notlater than 30 days after the filing of such grievance.
 
 #### (B) Decision
 

@@ -16,19 +16,19 @@
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–295 inserted at end “The names of all officers approved by the President and recommended by the board to be placed at the top of the list of selectees shall be placed at the top of the list of selectees in the order of seniority on the active duty promotion list.”
+<b>2002</b>—Subsec. (a). Pub. L. 107–295 inserted at end “The names of all officers approved by the President and recommended by the board to be placed at the top of the list of selectees shall be placed at the top of the list of selectees in the order of seniority on the active duty promotion list.”
 
-1994—Subsec. (e). Pub. L. 103–337 substituted “section 12203 of title 10” for “section 593 of title 10”.
+<b>1994</b>—Subsec. (e). Pub. L. 103–337 substituted “section 12203 of title 10” for “section 593 of title 10”.
 
-1989—Subsec. (e). Pub. L. 101–225 inserted “except that advice and consent is not required for appointments under this section in the grade of lieutenant (junior grade) or lieutenant” before the period at end of first sentence.
+<b>1989</b>—Subsec. (e). Pub. L. 101–225 inserted “except that advice and consent is not required for appointments under this section in the grade of lieutenant (junior grade) or lieutenant” before the period at end of first sentence.
 
-1985—Subsec. (d). Pub. L. 99–145 substituted “rear admiral (lower half)” for “commodore”.
+<b>1985</b>—Subsec. (d). Pub. L. 99–145 substituted “rear admiral (lower half)” for “commodore”.
 
-1983—Subsec. (c). Pub. L. 97–417, §2(5)(A), inserted a comma after “ensign may”.
+<b>1983</b>—Subsec. (c). Pub. L. 97–417, §2(5)(A), inserted a comma after “ensign may”.
 
 Subsecs. (d) to (f). Pub. L. 97–417, §2(5)(B), (C), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
 
-1970—Subsec. (c). Pub. L. 91–278 substituted “twelve” for “eighteen”.
+<b>1970</b>—Subsec. (c). Pub. L. 91–278 substituted “twelve” for “eighteen”.
 
 #### Effective Date of 1994 Amendment
 
@@ -36,7 +36,7 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 #### Permanent Grades and Titles for Officers Holding Certain Grades on January 3, 1983
 
-Section 4 of Pub. L. 97–417 provided that:
+Pub. L. 97–417, §4, Jan. 4, 1983, 96 Stat. 2087, provided that:
 
 “(a) An officer of the Coast Guard who on the day before the effective date of this Act \[Jan. 4, 1983\]—
 
@@ -58,7 +58,7 @@ Section 4 of Pub. L. 97–417 provided that:
 
 > shall, on and after the effective date of this Act, or in the case of an officer on such a list, upon promotion to the grade of commodore, be entitled to wear the uniform and insignia of a rear admiral.
 
-“(e) An officer of the Coast Guard who on the day before the effective date of this Act \[Jan. 4, 1983\] held the grade of rear admiral on the retired list retains the grade of rear admiral and is entitled after that date towear the uniform and insignia of a rear admiral. Such an officer, when ordered to active duty—
+“(e) An officer of the Coast Guard who on the day before the effective date of this Act \[Jan. 4, 1983\] held the grade of rear admiral on the retired list retains the grade of rear admiral and is entitled after that date to wear the uniform and insignia of a rear admiral. Such an officer, when ordered to active duty—
 
 &emsp;“(1) holds the grade and has the right to wear the uniform and insignia of a rear admiral; and
 

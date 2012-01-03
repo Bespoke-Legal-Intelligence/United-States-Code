@@ -40,7 +40,7 @@ As used in this section:
 
 #### (8) Review physician
 
-&emsp;The term “review physician” means a physician as prescribed by the Secretary under subsection (f)(1)(D) of this section who meets such additional requirements as may be established by an accreditation body under subsection (e) of this section and approved by the Secretary to review clinical images under subsection (e)(1)(B)(i) of this section on behalf of the accreditation body.
+&emsp;The term “review physician” means a physician as prescribed by the Secretary under subsection (f)(1)(D) of this section who meets such additional requirements as may be established by an accreditation body under subsection (e)of this section and approved by the Secretary to review clinical images under subsection (e)(1)(B)(i) of this section on behalf of the accreditation body.
 
 #### (b) Certificate requirement
 
@@ -154,7 +154,7 @@ As used in this section:
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may approve a private nonprofit organization or State agency to accredit facilities for purposes of subsection\(d)(1)(A)(iv) of this section if the accreditation body meets the standards for accreditation established by the Secretary as described in subparagraph (B) and provides the assurances required by subparagraph (C).
+&emsp;&emsp;The Secretary may approve a private nonprofit organization or State agency to accredit facilities for purposes of subsection (d)(1)(A)(iv) of this section if the accreditation body meets the standards for accreditation established by the Secretary as described in subparagraph (B) and provides the assurances required by subparagraph (C).
 
 #### (B) Standards
 
@@ -242,7 +242,7 @@ As used in this section:
 
 #### (B) Report
 
-&emsp;&emsp;The Secretary shall annually prepare and submit to the Committee on Labor and Human Resources of the Senate and the Committee on Energy and Commerce of theHouse of Representatives a report that describes the results of the evaluation conducted in accordance with subparagraph (A).
+&emsp;&emsp;The Secretary shall annually prepare and submit to the Committee on Labor and Human Resources of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that describes the results of the evaluation conducted in accordance with subparagraph (A).
 
 #### (f) Quality standards
 
@@ -356,7 +356,7 @@ As used in this section:
 
 #### (4) Timing
 
-&emsp;The Secretary, or State or local agency, may conduct inspections under paragraphs (1), (2), and (3), during regular business hours or at a mutually agreeable time and after providing such notice as the Secretary may prescribe, except that the Secretary may waive such requirements if the continued performance of mammography at such facility threatens the public health.
+&emsp;The Secretary, or State or local agency, may conduct inspections under paragraphs (1),\(2), and (3), during regular business hours or at a mutually agreeable time and after providing such notice as the Secretary may prescribe, except that the Secretary may waive such requirements if the continued performance of mammography at such facility threatens the public health.
 
 #### (5) Limited reinspection
 
@@ -568,7 +568,7 @@ In carrying out this section, the Secretary shall consult with appropriate Feder
 
 #### (A) Grants
 
-&emsp;&emsp;The Secretary shall award grants to such entities as the Secretary may determine to be appropriate to establish surveillance systems in selected geographic areas to provide data to evaluate the functioning and effectiveness of breast cancer screening programs in the United States, including assessments of participation rates in screening mammography, diagnostic procedures, incidence of breast cancer, mode of detection (mammography screening or other methods), outcome and follow up information, and such related epidemiologic analyses that may improve early cancer detection and contribute to reduction in breast cancer mortality. Grants may be awarded for further research on breast cancer surveillance systems upon the Secretary's review of the evaluation of the program.
+&emsp;&emsp;The Secretary shall award grants to such entities as the Secretary may determine to be appropriate to establish surveillance systems in selected geographic areas to provide data to evaluate the functioning and effectiveness of breast cancer screening programs in the United States, including assessments of participation rates in screening mammography, diagnostic procedures, incidence ofbreast cancer, mode of detection (mammography screening or other methods), outcome and follow up information, and such related epidemiologic analyses that may improve early cancer detection and contribute to reduction in breast cancer mortality. Grants may be awarded for further research on breast cancer surveillance systems upon the Secretary's review of the evaluation of the program.
 
 #### (B) Use of funds
 
@@ -656,7 +656,7 @@ In carrying out this section, the Secretary shall consult with appropriate Feder
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall, in accordance with this paragraph assess and collect fees from persons described in subsection (d)(1)(A) of this section (other than persons who are governmental entities, as determined by the Secretary) to cover the costs of inspections conducted under subsection (g)(1) of this section by the Secretary or a State acting under a delegation under subparagraph (A) of such subsection. Fees may be assessed and collected under this paragraph only in such manner as would result in an aggregate amount of fees collected during any fiscal year which equals the aggregate amount of costs for such fiscal year for inspections of facilities of such persons under subsection (g)(1) of this section. A person's liability for fees shall be reasonably based on the proportion of the inspection costs which relate to such person.
+&emsp;&emsp;The Secretary shall, in accordance with this paragraph assess and collect fees frompersons described in subsection (d)(1)(A) of this section (other than persons who are governmental entities, as determined by the Secretary) to cover the costs of inspections conducted under subsection (g)(1) of this section by the Secretary or a State acting under a delegation under subparagraph (A) of such subsection. Fees may be assessed and collected under this paragraph only in such manner as would result in an aggregate amount of fees collected during any fiscal year which equals the aggregate amount of costs for such fiscal year for inspections of facilities of such persons under subsection (g)(1) of this section. A person's liability for fees shall be reasonably based on the proportion of the inspection costs which relate to such person.
 
 #### (B) Deposit and appropriations
 
@@ -686,7 +686,7 @@ Sections 263c to 263n, act July 1, 1944, ch. 373, title III, §§355–360F, as 
 
 #### Amendments
 
-<b>2004</b>—Subsec. (b)(1). Pub. L. 108–365, §2(1)(C), substituted “temporary renewal certificate, provisionalcertificate, or a limited provisional certificate” for “provisional certificate” in concluding provisions.
+<b>2004</b>—Subsec. (b)(1). Pub. L. 108–365, §2(1)(C), substituted “temporary renewal certificate, provisional certificate, or a limited provisional certificate” for “provisional certificate” in concluding provisions.
 
 Subsec. (b)(1)(A). Pub. L. 108–365, §2(1)(A), inserted “or a temporary renewal certificate” after “certificate” in introductory provisions and substituted “paragraphs (1) or (2) of subsection (c)” for “subsection (c)(1)” in cl. (i).
 

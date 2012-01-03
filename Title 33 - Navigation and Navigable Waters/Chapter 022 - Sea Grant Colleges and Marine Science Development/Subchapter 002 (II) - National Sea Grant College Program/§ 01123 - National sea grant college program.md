@@ -74,7 +74,7 @@ The national sea grant college program shall consist of the financial assistance
 
 &emsp;(C) ensure compliance with the guidelines for merit review under subsection (c)(2) of this section.
 
-(Pub. L. 89–454, title II, §204, as added Pub. L. 89–688, §1, Oct. 15, 1966, 80 Stat. 999; amended Pub. L. 90–477, §1(2), Aug. 11, 1968, 82 Stat. 704; Pub. L. 93–73, §1(2)–(7), July 10, 1973, 87 Stat. 170; Pub. L. 94–461, §2, Oct. 8, 1976, 90 Stat. 1963; Pub. L. 95–428, §§2(b), 3(1), Oct. 7, 1978, 92 Stat. 999; Pub. L. 96–289, §1(2), June 28, 1980, 94 Stat. 605; Pub. L. 100–220, title III, §§3104(b)(1)(D), (2), (c), 3105(b), Dec. 29, 1987, 101 Stat. 1470, 1471; Pub. L. 102–186, §§2, 4(b)(1)(A), Dec. 4, 1991, 105 Stat. 1282, 1283; Pub. L. 105–160, §5, Mar. 6, 1998, 112 Stat. 22; Pub. L. 107–299, §3(a), (b)(1), (c), Nov. 26, 2002, 116 Stat. 2345, 2346; Pub. L. 110–394, §§5, 9(a)(4)(C)(i), Oct. 13, 2008, 122 Stat. 4206, 4208.)
+(Pub. L. 89–454, title II, §204, as added Pub. L. 89–688, §1, Oct. 15, 1966, 80 Stat. 999; amended Pub. L. 90–477, §1(2), Aug. 11, 1968, 82 Stat. 704; Pub. L. 93–73, §1(2)–(7), July 10, 1973, 87 Stat. 170; Pub. L. 94–461, §2, Oct. 8, 1976, 90 Stat. 1963; Pub. L. 95–428, §§2(b), 3(1), Oct. 7, 1978, 92 Stat. 999; Pub. L. 96–289, §1(2), June 28, 1980, 94 Stat. 605; Pub. L. 100–220, title III, §§3104(b)(1)(D), (2), (c), 3105(b), Dec. 29, 1987, 101 Stat. 1470, 1471; Pub. L.102–186, §§2, 4(b)(1)(A), Dec. 4, 1991, 105 Stat. 1282, 1283; Pub. L. 105–160, §5, Mar. 6, 1998, 112 Stat. 22; Pub. L. 107–299, §3(a), (b)(1), (c), Nov. 26, 2002, 116 Stat. 2345, 2346; Pub. L. 110–394, §§5, 9(a)(4)(C)(i), Oct. 13, 2008, 122 Stat. 4206, 4208.)
 
 #### References in Text
 
@@ -182,5 +182,5 @@ Pub. L. 107–299, §3(b)(2), Nov. 26, 2002, 116 Stat. 2346, provided that:
 
 #### Notice of Reorganization
 
-Pub. L. 105–160, §9(d), Mar. 6, 1998, 112 Stat. 27, provided that: “The Secretary of Commerce shall provide notice to the Committees on Science \[now Science and Technology\], Resources \[now Natural Resources\], and Appropriations of the House of Representatives and the Committees on Commerce, Science, and Transportation and Appropriations of the Senate, not later than 45 days before any major reorganization of any program, project, or activity of the National Sea Grant College Program.”
+Pub. L. 105–160, §9(d), Mar. 6, 1998, 112 Stat. 27, provided that: “The Secretary of Commerce shall provide notice to the Committees on Science \[now Science, Space, and Technology\], Resources \[now Natural Resources\], and Appropriations of the House of Representatives and the Committees on Commerce, Science, and Transportation and Appropriations of the Senate, not later than 45 days before any major reorganization of any program, project, or activity of the National Sea Grant College Program.”
 

@@ -2,7 +2,7 @@
 
 #### (a) Encouragement of applications with respect to clinical trials
 
-(1) If, in the determination of the Secretary, there is preliminary evidence that a new drug has effectiveness in humans with respect to the prevention or treatment of acquired immune deficiency syndrome, the Secretary shall, through statements published in the Federal Register—
+(1) If, in the determination of the Secretary, there is preliminary evidence that a new drughas effectiveness in humans with respect to the prevention or treatment of acquired immune deficiency syndrome, the Secretary shall, through statements published in the Federal Register—
 
 &emsp;(A) announce the fact of such determination; and
 
@@ -28,7 +28,7 @@
 
 #### (c) Technical assistance with respect to treatment use
 
-In the case of a new drug with respect to which the Secretary has made a determinationdescribed in subsection (a) of this section, the Secretary may, directly or through grants or contracts, provide technical assistance with respect to the process of—
+In the case of a new drug with respect to which the Secretary has made a determination described in subsection (a) of this section, the Secretary may, directly or through grants or contracts, provide technical assistance with respect to the process of—
 
 &emsp;(1) submitting to the Secretary applications for exemptions described in paragraph (1)(B) of such subsection;
 

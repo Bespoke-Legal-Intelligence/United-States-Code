@@ -8,7 +8,7 @@
 
 &emsp;(A) provide development grants to Indian tribes and tribal energy resource development organizations for use in developing or obtaining the managerial and technical capacity needed to develop energy resources on Indian land, and to properly account for resulting energy production and revenues;
 
-&emsp;(B) provide grants to Indian tribes and tribal energy resource development organizations foruse in carrying out projects to promote the integration of energy resources, and to process, use, or develop those energy resources, on Indian land;
+&emsp;(B) provide grants to Indian tribes and tribal energy resource development organizations for use in carrying out projects to promote the integration of energy resources, and to process, use, or develop those energy resources, on Indian land;
 
 &emsp;(C) provide low-interest loans to Indian tribes and tribal energy resource development organizations for use in the promotion of energy resource development on Indian land and integration of energy resources; and
 
@@ -58,7 +58,7 @@
 
 (B) In providing a grant under this subsection, the Director shall give priority to any application received from an Indian tribe with inadequate electric service (as determined by the Director).
 
-(C) In providing a grant under this subsection for an activity to provide, or expand the provision of, electricity on Indian land, the Director shall encourage cooperative arrangements between Indian tribes and utilities that provide service to Indian tribes, as the Director determines to be appropriate.
+(C) In providing a grant under this subsection for an activity to provide, or expand the provision of, electricity on Indian land, the Directorshall encourage cooperative arrangements between Indian tribes and utilities that provide service to Indian tribes, as the Director determines to be appropriate.
 
 (5) The Secretary of Energy may issue such regulations as the Secretary determines to be necessary to carry out this subsection.
 

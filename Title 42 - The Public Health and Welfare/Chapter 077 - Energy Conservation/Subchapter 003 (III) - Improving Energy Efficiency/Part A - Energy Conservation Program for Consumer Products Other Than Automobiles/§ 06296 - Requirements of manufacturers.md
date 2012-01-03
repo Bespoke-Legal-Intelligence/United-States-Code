@@ -12,7 +12,7 @@ Each manufacturer of a covered product to which a rule under section 6294 of thi
 
 &emsp;(B) prior to commencement of production, of all models subsequently produced (and starting serial numbers of those models) to which such rule applies.
 
-(2) If requested by the Secretary or Commission, the manufacturer of a covered product to which a rule under section 6294 of this title applies shall provide, within 30 days of the date of the request, the data from which the information included on the label and required by the rule was derived. Data shall be kept on file by the manufacturer for a period specified in the rule.
+(2) If requested by the Secretary or Commission, the manufacturer of a covered product towhich a rule under section 6294 of this title applies shall provide, within 30 days of the date of the request, the data from which the information included on the label and required by the rule was derived. Data shall be kept on file by the manufacturer for a period specified in the rule.
 
 (3) When requested—
 
@@ -32,7 +32,7 @@ Each manufacturer shall use labels reflecting the range data required to be disc
 
 #### (d) Information requirements
 
-(1) For purposes of carrying out this part, the Secretary may require, under this part or other provision of law administered by the Secretary,each manufacturer of a covered product to submit information or reports to the Secretary with respect to energy efficiency, energy use, or, in the case of showerheads, faucets, water closets, and urinals, water use of such covered product and the economic impact of any proposed energy conservation standard, as the Secretary determines may be necessary to establish and revise test procedures, labeling rules, and energy conservation standards for such product and to insure compliance with the requirements of this part. In making any determination under this paragraph, the Secretary shall consider existing public sources of information, including nationally recognized certification programs of trade associations.
+(1) For purposes of carrying out this part, the Secretary may require, under this part or other provision of law administered by the Secretary, each manufacturer of a covered product to submit information or reports to the Secretary with respect to energy efficiency, energy use, or, in the case of showerheads, faucets, water closets, and urinals, water use of such covered product and the economic impact of any proposed energy conservation standard, as the Secretary determines may be necessary to establish and revise test procedures, labeling rules, and energy conservation standards for such product and to insure compliance with the requirements of this part. In making any determination under this paragraph, the Secretary shall consider existing public sources of information, including nationally recognized certification programs of trade associations.
 
 (2) The Secretary shall exercise authority under this section in a manner designed to minimize unnecessary burdens on manufacturers of covered products.
 

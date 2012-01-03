@@ -156,7 +156,7 @@
 
 #### (8) Leadership development
 
-&emsp;Each year, the Corporation shall convene current and former Encore Fellows to discussthe Encore Fellows’ experiences related to service under this subsection and discuss strategies for increasing leadership and careers in public service in the nonprofit sector or government.
+&emsp;Each year, the Corporation shall convene current and former Encore Fellows to discuss the Encore Fellows’ experiences related to service under this subsection and discuss strategies for increasing leadership and careers in public service in the nonprofit sector or government.
 
 #### (c) Evaluations
 

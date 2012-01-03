@@ -1,6 +1,6 @@
 ### §287. Limitation on damages and other remedies; marking and notice
 
-(a) Patentees, and persons making, offering for sale, or selling within the United States any patented article for or under them, or importing any patented article into the United States, may give notice to the public that the same is patented, either by fixing thereon the word “patent” or the abbreviation “pat.”, together with the number of the patent, or when, from the character of the article, this can not be done, by fixing to it, or to the package wherein one or more of them is contained, a label containing a like notice. In the event of failure so to mark, no damages shall be recovered by the patentee in any action for infringement, except on proof that the infringer was notified of the infringement and continued to infringe thereafter, in which event damages may be recovered only for infringement occurring after such notice. Filing of an action for infringement shall constitute such notice.
+(a) Patentees, and persons making, offering for sale, or selling within the United States any patented article for or under them, or importing any patented article into the United States, may give notice to the public that the same is patented, either by fixing thereon the word “patent” or the abbreviation “pat.”, together with the number of the patent, or by fixing thereon the word “patent” or the abbreviation “pat.” together with an address of a posting on the Internet, accessible to the public without charge for accessing the address, that associates the patented article with the number of the patent, or when, from the character of the article, this can not be done, by fixing to it, or to the package wherein one or more of them is contained, a label containing a like notice. In the event of failure so to mark, no damages shall be recovered by the patentee in any action for infringement, except on proof that the infringer was notified of the infringement and continued to infringe thereafter, in which event damages may be recovered only for infringement occurring after such notice. Filing of an action for infringement shall constitute such notice.
 
 (b)(1) An infringer under section 271(g) shall be subject to all the provisions of this title relating to damages and injunctions except to the extent those remedies are modified by this subsection or section 9006 of the Process Patent Amendments Act of 1988. The modifications of remedies provided in this subsection shall not be available to any person who—
 
@@ -66,7 +66,7 @@
 
 &emsp;(C) the term “related health care entity” shall mean an entity with which a medical practitioner has a professional affiliation under which the medical practitioner performs the medical activity, including but not limited to a nursing home, hospital, university, medical school, health maintenance organization, group medical practice, or a medical clinic.
 
-&emsp;(D) the term “professional affiliation” shall mean staff privileges, medical staff membership, employment or contractual relationship, partnership or ownership interest, academic appointment, or other affiliation under which a medical practitioner provides the medical activity on behalf of, or in association with, the health care entity.
+&emsp;(D) the term “professional affiliation” shall mean staff privileges, medical staff membership, employment or contractual relationship, partnership or ownership interest, academic appointment, or other affiliation under whicha medical practitioner provides the medical activity on behalf of, or in association with, the health care entity.
 
 &emsp;(E) the term “body” shall mean a human body, organ or cadaver, or a nonhuman animal used in medical research or instruction directly relating to the treatment of humans.
 
@@ -82,7 +82,19 @@
 
 (4) This subsection shall not apply to any patent issued based on an application the earliest effective filing date of which is prior to September 30, 1996.
 
-(July 19, 1952, ch. 950, 66 Stat. 813; Pub. L. 100–418, title IX, §9004(a), Aug. 23, 1988, 102 Stat. 1564; Pub. L. 103–465, title V, §533(b)(5), Dec. 8, 1994, 108 Stat. 4989; Pub. L. 104–208, div. A, title I, §101(a) \[title VI, §616\], Sept. 30, 1996, 110 Stat. 3009, 3009–67; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4803\], Nov. 29, 1999, 113 Stat. 1536, 1501A–589.)
+(July 19, 1952, ch. 950, 66 Stat. 813; Pub. L. 100–418, title IX, §9004(a), Aug. 23, 1988, 102 Stat. 1564; Pub. L. 103–465, title V, §533(b)(5), Dec. 8, 1994, 108 Stat. 4989; Pub. L. 104–208, div. A, title I, §101(a) \[title VI, §616\], Sept. 30, 1996, 110 Stat. 3009, 3009–67; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4803\], Nov. 29, 1999, 113 Stat. 1536, 1501A–589; Pub. L. 112–29, §§3(g)(2), 16(a)(1), 20(i)(4), (j), Sept. 16, 2011, 125 Stat. 288, 328, 335.)
+
+#### Amendment of Section
+
+<i>Pub. L. 112–29, §20(i)(4), (j), (l), Sept. 16, 2011, 125 Stat. 335, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, this section is amended:</i>
+
+<i>(1) in subsection (c)(2)(G), by striking “any state” and inserting “any State”; and</i>
+
+<i>(2) except in subsection (b)(1), by striking “of this title” each place that term appears.</i>
+
+<i>See 2011 Amendment notes below.</i>
+
+<i>Pub. L. 112–29, §3(g)(2), (n), Sept. 16, 2011, 125 Stat. 288, 293, provided that, effective upon the expiration of the 18-month period beginning on Sept. 16, 2011, and applicable to certain applications for patent and any patents issuing thereon, subsection (c)(4) of this section is amended by striking “the earliest effective filing date of which is prior to” and inserting “which has an effective filing date before”. See 2011 Amendment note below.</i>
 
 #### Historical and Revision Notes
 
@@ -106,6 +118,16 @@ The Clinical Laboratories Improvement Act, referred to in subsec. (c)(3)(B), pro
 
 #### Amendments
 
+<b>2011</b>—Subsec. (a). Pub. L. 112–29, §16(a)(1), substituted “or by fixing thereon the word ‘patent’ or the abbreviation ‘pat.’ together with an address of a posting on the Internet, accessible to the public without charge for accessing the address, that associates the patented article with the number of the patent, or when,” for “or when,”.
+
+Subsec. (b)(2). Pub. L. 112–29, §20(j), struck out “of this title” after “271(g)”.
+
+Subsec. (c)(1). Pub. L. 112–29, §20(j), struck out “of this title” after “271(a) or (b)” and after “285”.
+
+Subsec. (c)(2)(G). Pub. L. 112–29, §20(i)(4), substituted “any State” for “any state”.
+
+Subsec. (c)(4). Pub. L. 112–29, §3(g)(2), substituted “which has an effective filing date before” for “the earliest effective filing date of which is prior to”.
+
 <b>1999</b>—Subsec. (c)(4). Pub. L. 106–113 substituted “based on an application the earliest effective filing date of which is prior to September 30, 1996” for “before the date of enactment of this subsection”.
 
 <b>1996</b>—Subsec. (c). Pub. L. 104–208 added subsec. (c).
@@ -121,6 +143,14 @@ Subsec. (b)(4)(A)(ii). Pub. L. 103–465, §533(b)(5)(B)(iii), substituted “us
 Subsec. (b)(4)(C). Pub. L. 103–465, §533(b)(5)(B)(iv), (v), substituted “have been offered for sale or sold” for “have been sold” and “United States, or imported by the person into the United States, before” for “United States before”.
 
 <b>1988</b>—Pub. L. 100–418 inserted “and other remedies” in section catchline, designated existing provisions as subsec. (a), and added subsec. (b).
+
+#### Effective Date of 2011 Amendment
+
+Amendment by section 3(g)(2) of Pub. L. 112–29 effective upon the expiration of the 18-month period beginning on Sept. 16, 2011, and applicable to certain applications for patent and any patents issuing thereon, see section 3(n) of Pub. L. 112–29, set out as an Effective Date of 2011 Amendment; Savings Provisions note under section 100 of this title.
+
+Pub. L. 112–29, §16(a)(2), Sept. 16, 2011, 125 Stat. 328, provided that: “The amendment made by this subsection \[amending this section\] shall apply to any case that is pending on, or commenced on or after, the date of the enactment of this Act \[Sept. 16, 2011\].”
+
+Amendment by section 20(i)(4), (j) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(<i>l</i>) of Pub. L. 112–29, set out as a note under section 2 of this title.
 
 #### Effective Date of 1994 Amendment
 

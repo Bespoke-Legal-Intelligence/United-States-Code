@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;In any proceeding instituted pursuant to sections 78<i>o</i>(b)(4), 78<i>o</i>(b)(6), 78<i>o</i>–6, 78<i>o</i>–4, 78<i>o</i>–5,78<i>o</i>–7, or 78q–1 of this title against any person, the Commission or the appropriate regulatory agency may impose a civil penalty if it finds, on the record after notice and opportunity for hearing, that such penalty is in the public interest and that such person—
+&emsp;In any proceeding instituted pursuant to sections 78<i>o</i>(b)(4), 78<i>o</i>(b)(6), 78<i>o</i>–6, 78<i>o</i>–4, 78<i>o</i>–5, 78<i>o</i>–7, or 78q–1 of this title against any person, the Commission or the appropriate regulatory agency may impose a civil penalty if it finds, on the record after notice and opportunity for hearing, that such penalty is in the public interest and that such person—
 
 &emsp;&emsp;(A) has willfully violated any provision of the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\], the Investment Advisers Act of 1940 \[15 U.S.C. 80b–1 et seq.\], or this chapter, or the rules or regulations thereunder, or the rules of the Municipal Securities Rulemaking Board;
 
@@ -64,27 +64,27 @@ In any proceeding in which the Commission or the appropriate regulatory agency m
 
 In any proceeding in which the Commission or the appropriate regulatory agency may impose a penalty under this section, the Commission or the appropriate regulatory agency may enter an order requiring accounting and disgorgement, including reasonable interest. The Commission is authorized to adopt rules, regulations, and orders concerning payments to investors, rates of interest, periods of accrual, and such other matters as it deems appropriate to implement this subsection.
 
+#### (f) Security-based swaps
+
+#### (1) Clearing agency
+
+&emsp;Any clearing agency that knowingly or recklessly evades or participates in or facilitates an evasion of the requirements of section 78c–3 of this title shall be liable for a civil money penalty in twice the amount otherwise available for a violation of section 78c–3 of this title.
+
+#### (2) Security-based swap dealer or major security-based swap participant
+
+&emsp;Any security-based swap dealer or major security-based swap participant that knowingly or recklessly evades or participates in or facilitates an evasion of the requirements of section 78c–3 of this title shall be liable for a civil money penalty in twice the amount otherwise available for a violation of section 78c–3 of this title.
+
 (June 6, 1934, ch. 404, title I, §21B, as added Pub. L. 101–429, title II, §202(a), Oct. 15, 1990, 104 Stat. 937; amended Pub. L. 107–204, title V, §501(b), July 30, 2002, 116 Stat. 793; Pub. L. 109–291, §4(b)(1)(B), Sept. 29, 2006, 120 Stat. 1337; Pub. L. 111–203, title VII, §773, title IX, §929P(a)(2), July 21, 2010, 124 Stat. 1802, 1863.)
 
 #### Amendment of Section
 
-<i>Pub. L. 111–203, title VII, §§773, 774, July 21, 2010, 124 Stat. 1802, provided that, effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B (§§761–774) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, this section is amended by adding at the end the following:</i>
-
-#### <i>(f) Security-based swaps</i>
-
-#### <i>(1) Clearing agency</i>
-
-&emsp;<i>Any clearing agency that knowingly or recklessly evades or participates in or facilitates an evasion of the requirements of section 78c–3 of this title shall be liable for a civil money penalty in twice the amount otherwise available for a violation of section 78c–3 of this title.</i>
-
-#### <i>(2) Security-based swap dealer or major security-based swap participant</i>
-
-&emsp;<i>Any security-based swap dealer or major security-based swap participant that knowingly or recklessly evades or participates in or facilitates an evasion of the requirements of section 78c–3 of this title shall be liable for a civil money penalty in twice the amount otherwise available for a violation of section 78c–3 of this title.</i>
+<i>Unless otherwise provided, amendment by subtitle B (§§761–774) of title VII of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see 2010 Amendment notes and Effective Date of 2010 Amendment note below.</i>
 
 #### References in Text
 
 The Securities Act of 1933, referred to in subsec. (a)(1)(A), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
-The Investment Company Act of 1940, referred to in subsec. (a)(1)(A), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
+The Investment Company Act of 1940, referred to in subsec. (a)(1)(A), is title I of act Aug. 22, 1940, ch. 686,54 Stat. 789, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
 
 The Investment Advisers Act of 1940, referred to in subsec. (a)(1)(A), is title II of act Aug. 22, 1940, ch. 686, 54 Stat. 847, which is classified generally to subchapter II (§80b–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80b–20 of this title and Tables.
 
@@ -93,6 +93,8 @@ This chapter, referred to in subsec. (a)(1)(A), (C), (2), was in the original �
 #### Amendments
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–203, §929P(a)(2), designated existing provisions as par. (1) and inserted heading, inserted “that such penalty is in the public interest and” before “that such person—” in introductory provisions, redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1) and realigned margins, struck out concluding provisions which read “and that such penalty is in the public interest.”, and added par. (2).
+
+Subsec. (f). Pub. L. 111–203, §773, added subsec. (f).
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–291 inserted “78<i>o</i>–7,” after “78<i>o</i>–5,” in introductory provisions.
 

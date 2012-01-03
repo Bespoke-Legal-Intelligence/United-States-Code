@@ -38,7 +38,7 @@ This section does not apply to any plan—
 
 &emsp;(7) which is established and maintained outside of the United States primarily for the benefit of individuals substantially all of whom are nonresident aliens;
 
-&emsp;(8) which is maintained by an employer solely for the purpose of providing benefits for certain employees in excess of the limitations on contributions and benefits imposed by section 415 of title 26 on plans to which that section applies, without regard to whether the plan is funded, and, to the extent that a separable part of a plan (as determined by the corporation) maintained by an employer is maintained for such purpose, that part shall be treated for purposes of this subchapter, as a separate plan which is an excess benefit plan;
+&emsp;(8) which is maintained by an employer solely for the purpose of providing benefits for certain employees in excess of the limitations oncontributions and benefits imposed by section 415 of title 26 on plans to which that section applies, without regard to whether the plan is funded, and, to the extent that a separable part of a plan (as determined by the corporation) maintained by an employer is maintained for such purpose, that part shall be treated for purposes of this subchapter, as a separate plan which is an excess benefit plan;
 
 &emsp;(9) which is established and maintained exclusively for substantial owners;
 
@@ -78,7 +78,7 @@ For purposes of subsection (b)(9), the term “substantial owner” means an ind
 
 #### References in Text
 
-The Railroad Retirement Act of 1935 or 1937, referred to in subsec. (b)(2), means act Aug. 29, 1935, ch. 812, 49 Stat. 967, known as the Railroad Retirement Act of 1935. The Railroad Retirement Act of 1935 was amended generally by act June 24, 1937, ch. 382, part I, 50 Stat. 307, and was known as the Railroad Retirement Act of 1937. The Railroad Retirement Act of 1937 was amended generally and redesignated the Railroad Retirement Act of 1974 by Pub. L. 93–445, title I, Oct. 16, 1974, 88Stat. 1305, and is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For complete classification of this Act to the Code, see Tables.
+The Railroad Retirement Act of 1935 or 1937, referred to in subsec. (b)(2), means act Aug. 29, 1935, ch. 812, 49 Stat. 967, known as the Railroad Retirement Act of 1935. The Railroad Retirement Act of 1935 was amended generally by act June 24, 1937, ch. 382, part I, 50 Stat. 307, and was known as the Railroad Retirement Act of 1937. The Railroad Retirement Act of 1937 was amended generally and redesignated the Railroad Retirement Act of 1974 by Pub. L. 93–445, title I, Oct. 16, 1974, 88 Stat. 1305, and is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For complete classification of this Act to the Code, see Tables.
 
 The International Organizations Immunities Act, referred to in subsec. (b)(10), is title I of act Dec. 29, 1945, ch. 652, 59 Stat. 669, as amended, which is classified principally to subchapter XVIII (§288 et seq.) of chapter 7 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 288 of Title 22 and Tables.
 

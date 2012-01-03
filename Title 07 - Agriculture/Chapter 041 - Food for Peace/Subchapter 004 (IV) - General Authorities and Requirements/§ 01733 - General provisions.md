@@ -122,11 +122,11 @@ The Food for Progress Act of 1985, referred to in subsec. (<i>l</i>)(1)(C), is P
 
 #### Amendments
 
-2002—Subsec. (e). Pub. L. 107–171, §3009(a)(1), designated existing provisions as par. (1), inserted heading, and added par. (2).
+<b>2002</b>—Subsec. (e). Pub. L. 107–171, §3009(a)(1), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 Subsec. (<i>l</i>). Pub. L. 107–171, §3009(a)(2), added subsec. (<i>l</i>).
 
-1996—Subsec. (b). Pub. L. 104–127, §213(1), inserted heading and struck out former heading “Consultations” and in text struck out “consult with representatives from the International Monetary Fund, the International Bank for Reconstruction and Development, the World Bank, and other donor organizations to” before “ensure that”.
+<b>1996</b>—Subsec. (b). Pub. L. 104–127, §213(1), inserted heading and struck out former heading “Consultations” and in text struck out “consult with representatives from the International Monetary Fund, the International Bank for Reconstruction and Development, the World Bank, and other donor organizations to” before “ensure that”.
 
 Subsec. (c). Pub. L. 104–127, §213(2), struck out “from countries” after “require commitments” and substituted “or use for other” for “for use for other”.
 
@@ -134,21 +134,21 @@ Subsec. (f). Pub. L. 104–127, §213(3), inserted “or private entities, as ap
 
 Subsec. (i)(2)(C). Pub. L. 104–127, §213(4), struck out heading and text of subpar. (C). Text read as follows: “Not later than 30 days after an authorization is provided under subparagraph (B), the Secretary or the Administrator, as appropriate, shall prepare and submit to the appropriate committees of Congress a report concerning such authorization and include in any such report the reason for the authorization, including an explanation of why no alternatives to such handling or distribution were available.”
 
-1991—Subsec. (i)(2)(C). Pub. L. 102–237 substituted “committees” for “Committees”.
+<b>1991</b>—Subsec. (i)(2)(C). Pub. L. 102–237 substituted “committees” for “Committees”.
 
-1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions authorizing appropriations necessary for this chapter, classifying such expenditures under international affairs and finance rather than agriculture, valuing commodity, for purpose of reimbursing Commodity Credit Corporation, at price not greater than export market price at time commodity was made available, and authorizing President to transfer up to 15 percent of funding for any fiscal year from any subchapter of this chapter to any other subchapter.
+<b>1990</b>—Pub. L. 101–624 amended section generally, substituting present provisions for provisions authorizing appropriations necessary for this chapter, classifying such expenditures under international affairs and finance rather than agriculture, valuing commodity, for purpose of reimbursing Commodity Credit Corporation, at price not greater than export market price at time commodity was made available, and authorizing President to transfer up to 15 percent of funding for any fiscal year from any subchapter of this chapter to any other subchapter.
 
-1981—Subsec. (b). Pub. L. 97–98 inserted “a price not greater than”.
+<b>1981</b>—Subsec. (b). Pub. L. 97–98 inserted “a price not greater than”.
 
-1980—Subsec. (c). Pub. L. 96–533 added subsec. (c).
+<b>1980</b>—Subsec. (c). Pub. L. 96–533 added subsec. (c).
 
-1977—Pub. L. 95–113 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1977</b>—Pub. L. 95–113 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1966—Pub. L. 89–808 substituted provisions for authorization of appropriations, including reimbursement of Commodity Credit Corporation, and classification of expenditures, formerly covered in former section 1703(a) of this title, for provision for payment for commodities, now provided for by section 1706(a) of this title.
+<b>1966</b>—Pub. L. 89–808 substituted provisions for authorization of appropriations, including reimbursement of Commodity Credit Corporation, and classification of expenditures, formerly covered in former section 1703(a) of this title, for provision for payment for commodities, now provided for by section 1706(a) of this title.
 
-1964—Pub. L. 88–638 substituted “less than the minimum rate required by section 2161 of Title 22 for loansmade under that section” for “more than the cost of the funds to the United States Treasury as determined by the Secretary of the Treasury, taking into consideration the current average market yields on outstanding marketable obligations of the United States having maturity comparable to the maturities of loans made by the President under this section”.
+<b>1964</b>—Pub. L. 88–638 substituted “less than the minimum rate required by section 2161 of Title 22 for loans made under that section” for “more than the cost of the funds to the United States Treasury as determined by the Secretary of the Treasury, taking into consideration the current average market yields on outstanding marketable obligations of the United States having maturity comparable to the maturities of loans made by the President under this section”.
 
-1962—Pub. L. 87–703 substituted “reasonable” for “approximately equal” annual amounts and provided for deferral of date for beginning annual payment.
+<b>1962</b>—Pub. L. 87–703 substituted “reasonable” for “approximately equal” annual amounts and provided for deferral of date for beginning annual payment.
 
 #### Effective Date of 1990 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is hereby established a Senate Commission on Art (hereinafter referred to as “the Commission”) consisting of the President pro tempore of the Senate, the chairman and ranking minority member of the Committee on Rulesand Administration of the Senate, and the majority and minority leaders of the Senate.
+There is hereby established a Senate Commission on Art (hereinafter referred to as “the Commission”) consisting of the President pro tempore of the Senate, the chairman and ranking minority member of the Committee on Rules and Administration of the Senate, and the majority and minority leaders of the Senate.
 
 #### (b) Chairman and Vice Chairman; quorum; Executive Secretary
 
@@ -26,11 +26,11 @@ Section is based on section 1 of Senate Resolution No. 382, Ninetieth Congress, 
 
 #### Amendments
 
-2003—Subsec. (b). Pub. L. 108–83, §3(d)(1)(A), substituted “The Majority Leader and Minority Leader of the Senate shall be the chairman and vice chairman, respectively, of the Commission.” for “The Commission shall elect a Chairman and a Vice Chairman at the beginning of each Congress.”
+<b>2003</b>—Subsec. (b). Pub. L. 108–83, §3(d)(1)(A), substituted “The Majority Leader and Minority Leader of the Senate shall be the chairman and vice chairman, respectively, of the Commission.” for “The Commission shall elect a Chairman and a Vice Chairman at the beginning of each Congress.”
 
 Subsec. (c). Pub. L. 108–83, §3(d)(1)(B), added subsec. (c) and struck out former subsec. (c) which read as follows: “The Commission shall select a Curator of Art and Antiquities of the Senate who shall be appointed by and be an employee of the Secretary of the Senate. The Curator shall serve at the pleasure of the Commission, shall perform such duties as it may prescribe, and shall receive compensation at a gross rate, not to exceed $22,089 per annum to be fixed by the Commission. At the request of the Commission the Secretary of the Senate shall detail to the Commission such additional professional, clerical, and other assistants as, from time to time, it deems necessary.”
 
-1988—Subsec. (a). Pub. L. 100–696, §901(b)(3), substituted “Senate Commission on Art” for “Commission on Art and Antiquities of the United States Senate”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–696, §901(b)(3), substituted “Senate Commission on Art” for “Commission on Art and Antiquities of the United States Senate”.
 
 Subsec. (b). Pub. L. 100–696, §901(b)(1), inserted “The Secretary of the Senate shall be the Executive Secretary of the Commission”.
 

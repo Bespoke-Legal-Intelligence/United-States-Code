@@ -16,17 +16,17 @@
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 88–652, Oct. 13, 1964, 78 Stat. 1079, known as the House Employees Position Classification Act, which enacted this chapter and amended sections 88c and 123b of this title. For complete classification of this Act to the Code, see Short Title note set out under section 291 of this title and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 88–652, Oct. 13, 1964, 78 Stat. 1079, known as the House Employees Position Classification Act, which enacted this chapter andamended sections 88c and 123b of this title. For complete classification of this Act to the Code, see Short Title note set out under section 291 of this title and Tables.
 
 #### Amendments
 
-2004—Subsec. (b). Pub. L. 108–447 in last sentence substituted “succeeding year (other than any period during which a memorandum of understanding described in section 2168(a) of this title is in effect),” for “succeeding year,”.
+<b>2004</b>—Subsec. (b). Pub. L. 108–447 in last sentence substituted “succeeding year (other than any period during which a memorandum of understanding described in section 2168(a) of this title is in effect),” for “succeeding year,”.
 
-2001—Subsec. (b). Pub. L. 107–68 inserted at end “Notwithstanding any other provision of this chapter, for purposes of applying the adjustment made by the committee under this subsection for 2002 and each succeeding year, positions under the Chief Administrative Officer shall include positions of the United States Capitol telephone exchange under the Chief Administrative Officer.”
+<b>2001</b>—Subsec. (b). Pub. L. 107–68 inserted at end “Notwithstanding any other provision of this chapter, for purposes of applying the adjustment made by the committee under this subsection for 2002 and each succeeding year, positions under the Chief Administrative Officer shall include positions of the United States Capitol telephone exchange under the Chief Administrative Officer.”
 
-1996—Subsec. (a)(1). Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
 
-1995—Subsec. (b). Pub. L. 104–53 substituted “Chief Administrative Officer, and the Inspector General” for “Doorkeeper, and the Postmaster,”.
+<b>1995</b>—Subsec. (b). Pub. L. 104–53 substituted “Chief Administrative Officer, and the Inspector General” for “Doorkeeper, and the Postmaster,”.
 
 #### Change of Name
 

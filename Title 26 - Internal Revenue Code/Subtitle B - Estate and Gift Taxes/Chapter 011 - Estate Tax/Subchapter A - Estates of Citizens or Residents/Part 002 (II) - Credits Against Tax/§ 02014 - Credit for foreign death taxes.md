@@ -8,7 +8,7 @@ The tax imposed by section 2001 shall be credited with the amount of any estate,
 
 The credit provided in this section with respect to such taxes paid to any foreign country—
 
-&emsp;(1) shall not, with respect to any such tax, exceed an amount which bears the same ratio to the amount of such tax actually paid to such foreign country as the value of property which is—
+&emsp;(1) shall not, with respect to any such tax, exceed an amount which bears the same ratioto the amount of such tax actually paid to such foreign country as the value of property which is—
 
 &emsp;&emsp;(A) situated within such foreign country,
 
@@ -58,7 +58,7 @@ The credit provided in this section shall be allowed only for such taxes as were
 
 #### (f) Additional limitation in cases involving a deduction under section 2053(d)
 
-In any case where a deduction is allowed under section 2053(d) for an estate, succession, legacy, or inheritance tax imposed by and actually paid to any foreign country upon a transfer by the decedent for public, charitable, or religious uses described in section 2055, the property described in subparagraphs (A), (B), and (C) of paragraphs (1) and (2) of subsection (b) of this section shallnot include any property in respect of which such deduction is allowed under section 2053(d).
+In any case where a deduction is allowed under section 2053(d) for an estate, succession, legacy, or inheritance tax imposed by and actually paid to any foreign country upon a transfer by the decedent for public, charitable, or religious uses described in section 2055, the property described in subparagraphs (A), (B), and (C) of paragraphs (1) and (2) of subsection (b) of this section shall not include any property in respect of which such deduction is allowed under section 2053(d).
 
 #### (g) Possession of United States deemed a foreign country
 

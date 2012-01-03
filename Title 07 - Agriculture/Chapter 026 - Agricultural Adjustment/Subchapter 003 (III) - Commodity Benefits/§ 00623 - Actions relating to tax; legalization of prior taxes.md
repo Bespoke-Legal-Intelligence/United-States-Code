@@ -26,9 +26,9 @@ Another section 21 of act May 12, 1933, enacted sections 992 and 993 of Title 12
 
 #### Amendments
 
-1978—Subsec. (a). Pub. L. 95–598 struck out “, and bankruptcy” after “receivership” in first sentence, and struck out “bankruptcy,” after “receivership” in second sentence.
+<b>1978</b>—Subsec. (a). Pub. L. 95–598 struck out “, and bankruptcy” after “receivership” in first sentence, and struck out “bankruptcy,” after “receivership” in second sentence.
 
-1936—Subsecs. (d) to (g). Act June 22, 1936, §901, repealed subsec. (d) relating to prohibition on making certain refunds, subsec. (e) providing for access to books, and subsec. (g) providing for recovery of taxes erroneously collected, and act June 22, 1936, §601(c), repealed subsec. (f) relating to time for filing claim for refund.
+<b>1936</b>—Subsecs. (d) to (g). Act June 22, 1936, §901, repealed subsec. (d) relating to prohibition on makingcertain refunds, subsec. (e) providing for access to books, and subsec. (g) providing for recovery of taxes erroneously collected, and act June 22, 1936, §601(c), repealed subsec. (f) relating to time for filing claim for refund.
 
 #### Effective Date of 1978 Amendment
 
@@ -40,7 +40,7 @@ Validity of remainder of this chapter as not affected should any of the provisio
 
 #### Transfer of Functions
 
-Functions of all officers of Department of the Treasury, and functions of all agencies and employees of such Department, transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by 1950 Reorg. Plan No. 26, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5, Government Organization and Employees. Commissioner of Internal Revenue, referred to inthis section, is an officer of Department of the Treasury.
+Functions of all officers of Department of the Treasury, and functions of all agencies and employees of such Department, transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by 1950 Reorg. Plan No. 26, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5, Government Organization and Employees. Commissioner of Internal Revenue, referred to in this section, is an officer of Department of the Treasury.
 
 #### Constitutionality
 

@@ -64,7 +64,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 1141(d) of the House amendment is derived from a comparable provision contained in the Senate amendment. However, section 1141(d)(2) of the House amendment is derived from the House bill as preferable to the Senate amendment. It is necessary for a corporation or partnership undergoing reorganization to be able to present its creditors with a fixed list of liabilities upon which the creditors or third parties can make intelligent decisions. Retaining an exception for discharge with respect to nondischargeable taxes would leave an undesirable uncertainty surrounding reorganizations that is unacceptable. Section 1141(d)(3) is derived from the Senate amendment. Section 1141(d)(4) is likewise derived from the Senate amendment.
 
@@ -88,11 +88,11 @@ Paragraph (2) \[of subsec. (d)\] makes applicable to an individual debtor the ge
 
 #### Amendments
 
-2010—Subsec. (d)(5)(B)(iii). Pub. L. 111–327, §2(a)(36)(A), added cl. (iii).
+<b>2010</b>—Subsec. (d)(5)(B)(iii). Pub. L. 111–327, §2(a)(36)(A), added cl. (iii).
 
 Subsec. (d)(5)(C). Pub. L. 111–327, §2(a)(36)(B), substituted “the court may grant a discharge if,” for “unless” in introductory provisions and inserted concluding provisions.
 
-2005—Subsec. (d)(2). Pub. L. 109–8, §321(d)(1), substituted “A discharge under this chapter does not discharge a debtor who is an individual” for “The confirmation of a plan does not discharge an individual debtor”.
+<b>2005</b>—Subsec. (d)(2). Pub. L. 109–8, §321(d)(1), substituted “A discharge under this chapter does not discharge a debtor who is an individual” for “The confirmation of a plan does not discharge an individual debtor”.
 
 Subsec. (d)(5). Pub. L. 109–8, §321(d)(2), added par. (5).
 
@@ -100,7 +100,7 @@ Subsec. (d)(5)(C). Pub. L. 109–8, §330(b), added subpar. (C).
 
 Subsec. (d)(6). Pub. L. 109–8, §708, added par. (6).
 
-1984—Subsec. (a). Pub. L. 98–353, §513(a), substituted “any creditor, equity security holder, or general partner in” for “any creditor or equity security holder of, or general partner in,”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–353, §513(a), substituted “any creditor, equity security holder, or general partner in” for “any creditor or equity security holder of, or general partner in,”.
 
 Subsec. (c). Pub. L. 98–353, §513(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “After confirmation of a plan, the property dealt with by the plan is free and clear of all claims and interests of creditors, of equity security holders, and of general partners in the debtor, except as otherwise provided in the plan or in the order confirming the plan.”
 

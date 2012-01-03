@@ -2,15 +2,7 @@
 
 As used in this chapter—
 
-&emsp;(1) the term “alternative mortgage transaction” means a loan or credit sale secured by an interest in residential real property, a dwelling, all stock allocated to a dwelling unit in a residential cooperative housing corporation, or a residential manufactured home (as that term is defined in section 5402(6) of title 42—
-
-&emsp;&emsp;(A) in which the interest rate or finance charge may be adjusted or renegotiated;
-
-&emsp;&emsp;(B) involving a fixed-rate, but which implicitly permits rate adjustments by having the debt mature at the end of an interval shorter than the term of the amortization schedule; or
-
-&emsp;&emsp;(C) involving any similar type of rate, method of determining return, term, repayment, or other variation not common to traditional fixed-rate, fixed-term transactions, including without limitation, transactions that involve the sharing of equity or appreciation;
-
-> &emsp;described and defined by applicable regulation; and
+&emsp;(1) the term “alternative mortgage transaction” means a loan or credit sale secured by an interest in residential real property, a dwelling, all stock allocated to a dwelling unit in a residential cooperative housing corporation, or a residential manufactured home (as that term is defined in section 5402(6) of title 42), in which the interest rate or finance charge may be adjusted or renegotiated, described and defined by applicable regulation; and
 
 &emsp;(2) the term “housing creditor” means—
 
@@ -24,15 +16,39 @@ As used in this chapter—
 
 > &emsp;A person is not a “housing creditor” with respect to a specific alternative mortgage transaction if, except for this chapter, in order to enter into that transaction, the person would be required to comply with licensing requirements imposed under State law, unless such person is licensed under applicable State law and such person remains, or becomes, subject to the applicable regulatory requirements and enforcement mechanisms provided by State law.
 
-(Pub. L. 97–320, title VIII, §803, Oct. 15, 1982, 96 Stat. 1545.)
+(Pub. L. 97–320, title VIII, §803, Oct. 15, 1982, 96 Stat. 1545; Pub. L. 111–203, title X, §1083(a)(1), July 21, 2010, 124 Stat. 2080.)
 
 #### References in Text
 
-Section 501(a)(2) of the Depository Institutions Deregulation and Monetary Control Act of 1980, referred to in par. (2)(A), is section 501(a)(2) of Pub. L. 96–221, title V, Mar. 31, 1980, 94 Stat. 161, as amended, which is set out as a note under section 1735f–7 of this title.
+Section 501(a)(2) of the Depository Institutions Deregulation and Monetary Control Act of 1980, referred to in par. (2)(A), is section 501(a)(2) of Pub. L. 96–221, title V, Mar. 31, 1980, 94 Stat. 161, which is set out as a note under section 1735f–7 of this title.
 
-The National Housing Act, referred to in par. (2)(B), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to chapter 13 (§1701 et seq.) of this title. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
+The National Housing Act, referred to in par. (2)(B), is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to chapter 13 (§1701 et seq.) of this title. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
+
+#### Amendments
+
+<b>2010</b>—Par. (1). Pub. L. 111–203 substituted “section 5402(6) of title 42), in which the interest rate or finance charge may be adjusted or renegotiated, described and defined by applicable regulation; and” for “section 5402(6) of title 42)—
+
+&emsp;“(A) in which the interest rate or finance charge may be adjusted or renegotiated;
+
+&emsp;“(B) involving a fixed-rate, but which implicitly permits rate adjustments by having the debt mature at the end of an interval shorter than the term of the amortization schedule; or
+
+&emsp;“(C) involving any similar type of rate, method of determining return, term, repayment, or other variation not common to traditional fixed-rate, fixed-term transactions, including without limitation, transactions that involve the sharing of equity or appreciation;
+
+> described and defined by applicable regulation; and”.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–203, title X, §1083(b), July 21, 2010, 124 Stat. 2081, provided that: “This section \[amending this section and section 3803 of this title and enacting provisions set out as a note under this section\] and the amendments made by this section shall become effective on the designated transfer date.”
+
+\[For definition of “designated transfer date”, see section 5481 of this title.\]
 
 #### Effective Date
 
 Section effective Oct. 15, 1982, see section 807(a) of Pub. L. 97–320, set out as a note under section 3801 of this title.
+
+#### Construction of 2010 Amendment
+
+Pub. L. 111–203, title X, §1083(c), July 21, 2010, 124 Stat. 2081, provided that: “The amendments made by subsection (a) \[amending this section and section 3803 of this title\] shall not affect any transaction covered by the Alternative Mortgage Transaction Parity Act of l982 (12 U.S.C. 3801 et seq.) and entered into on or before the designated transfer date.”
+
+\[For definition of “designated transfer date”, see section 5481 of this title.\]
 

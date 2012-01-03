@@ -2,7 +2,7 @@
 
 (a) If death results from an injury sustained in the performance of duty, the United States shall pay, to the personal representative of the deceased or otherwise, funeral and burial expenses not to exceed $800, in the discretion of the Secretary of Labor.
 
-(b) The body of an employee whose home is in the United States, in the discretion of the Secretary, may be embalmed and transported in ahermetically sealed casket to his home or last place of residence at the expense of the Employees’ Compensation Fund if—
+(b) The body of an employee whose home is in the United States, in the discretion of the Secretary, may be embalmed and transported in a hermetically sealed casket to his home or last place of residence at the expense of the Employees’ Compensation Fund if—
 
 &emsp;(1) the employee dies from—
 
@@ -51,6 +51,54 @@ In subsection (a), the words “an injury sustained in the performance of duty�
 Administration of this subchapter was transferred to the Secretary of Labor by section 1 of 1950 Reorg. Plan. No. 19, 64 Stat. 1271 (see section 8145).
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+#### Burial Allowance
+
+Pub. L. 112–87, title III, §310, Jan. 3, 2012, 125 Stat. 1885, provided that:
+
+“(a)
+
+Authorization to Provide.—
+
+&emsp;“(1)
+
+In general.—The head of an agency or department containing an element of the intelligence community may pay to the estate of a decedent described in paragraph (2) a burial allowance at the request of a representative of such estate, as determined in accordance with the laws of a State.
+
+&emsp;“(2)
+
+Description.—A decedent described in this paragraph is an individual—
+
+&emsp;&emsp;“(A) who served as a civilian officer or employee of such an agency or department;
+
+&emsp;&emsp;“(B) who died as a result of an injury incurred during such service; and
+
+&emsp;&emsp;“(C) whose death—
+
+&emsp;&emsp;&emsp;“(i) resulted from hostile or terrorist activities; or
+
+&emsp;&emsp;&emsp;“(ii) occurred in connection with an intelligence activity having a substantial element of risk.
+
+“(b)
+
+Use of Burial Allowance.—A burial allowance paid under subsection (a) may be used to reimburse such estate for burial expenses, including recovery, mortuary, funeral, or memorial service, cremation, burial costs, and costs of transportation by common carrier to the place selected for final disposition of the decedent.
+
+“(c)
+
+Amount of Burial Allowance; Relationship to Other Provisions.—A burial allowance paid under subsection (a) shall be—
+
+&emsp;“(1) in an amount not greater than—
+
+&emsp;&emsp;“(A) the maximum reimbursable amount allowed under Department of Defense Instruction 1344.08 or successor instruction; plus
+
+&emsp;&emsp;“(B) the actual costs of transportation referred to in subsection (b); and
+
+&emsp;“(2) in addition to any other benefit permitted under any other provision of law, including funds that may be expended as specified in the General Provisions section of the classified annex accompanying this Act.
+
+“(d)
+
+Report.—Not later than 180 days after the date of the enactment of this Act \[Jan. 3, 2012\], the Director of the Office of Personnel Management, in consultation with the Director of National Intelligence, the Secretary of Labor, and the Secretary of Defense, shall submit to Congress a report on the feasibility of implementing legislation to provide for burial allowances at a level which adequately addresses the cost of burial expenses and provides for equitable treatment when an officer or employee of a Federal agency or department dies as the result of an injury sustained in the performance of duty.”
+
+\[For definition of “intelligence community” as used in section 310 of Pub. L. 112–87, set out above, see section 2 of Pub. L. 112–87, set out as a note under section 401a of Title 50, War and National Defense.\]
 
 #### Availability of Department of the Interior and Related Agencies Appropriations To Reimburse Representatives of Employees Killed in Line of Duty
 

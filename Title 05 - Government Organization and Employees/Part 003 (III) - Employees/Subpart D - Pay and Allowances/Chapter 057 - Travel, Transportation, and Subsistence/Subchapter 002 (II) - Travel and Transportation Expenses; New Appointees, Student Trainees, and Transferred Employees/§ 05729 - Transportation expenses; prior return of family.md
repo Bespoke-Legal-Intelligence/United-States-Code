@@ -6,7 +6,7 @@
 
 &emsp;(2) the public interest requires the return of the immediate family for compelling personal reasons of a humanitarian or compassionate nature, such as may involve physical or mental health, death of a member of the immediate family, or obligation imposed by authority or circumstances over which the individual has no control.
 
-(b) Under regulations prescribed under section 5738 of this title, an agency shall reimburse from its appropriations an employee whose post of duty is outside the continental United States for the proper transportation expenses of returning his immediate family and his household goods and personal effects to the United States, when—
+(b) Under regulations prescribed under section 5738 of this title, an agency shall reimburse fromits appropriations an employee whose post of duty is outside the continental United States for the proper transportation expenses of returning his immediate family and his household goods and personal effects to the United States, when—
 
 &emsp;(1) their return was made at the expense of the employee before his return and for other than reasons of public interest; and
 
@@ -36,9 +36,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1998—Subsecs. (a), (b). Pub. L. 105–264 struck out “or its territories or possessions” after “to the United States”.
+<b>1998</b>—Subsecs. (a), (b). Pub. L. 105–264 struck out “or its territories or possessions” after “to the United States”.
 
-1996—Subsecs. (a), (b). Pub. L. 104–201 substituted “Under regulations prescribed under section 5738 of this title” for “Under such regulations as the President may prescribe”.
+<b>1996</b>—Subsecs. (a), (b). Pub. L. 104–201 substituted “Under regulations prescribed under section 5738 of this title” for “Under such regulations as the President may prescribe”.
 
 #### Effective Date of 1996 Amendment
 

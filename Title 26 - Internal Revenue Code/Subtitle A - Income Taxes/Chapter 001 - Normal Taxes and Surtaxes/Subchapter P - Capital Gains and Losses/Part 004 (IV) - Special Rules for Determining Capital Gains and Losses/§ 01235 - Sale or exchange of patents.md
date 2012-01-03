@@ -26,7 +26,7 @@ This section shall be applicable with regard to any amounts received, or payment
 
 #### (d) Related persons
 
-Subsection (a) shall not apply to any transfer, directly or indirectly, between persons specified within any one of the paragraphs of section 267(b) or persons described in section 707(b); except that, in applying section 267(b) and (c) and section 707(b) for purposes of this section—
+Subsection (a) shall not apply to any transfer, directly or indirectly, between persons specifiedwithin any one of the paragraphs of section 267(b) or persons described in section 707(b); except that, in applying section 267(b) and (c) and section 707(b) for purposes of this section—
 
 &emsp;(1) the phrase “25 percent or more” shall be substituted for the phrase “more than 50 percent” each place it appears in section 267(b) or 707(b), and
 

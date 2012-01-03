@@ -10,7 +10,7 @@
 
 &emsp;(C) to a reserve officer of an armed force serving on active duty under a call or order to active duty for a period in excess of 270 days.
 
-(2)(A) Except as otherwise authorized by law, an officer to whom this subsection applies may not hold, or exercise the functions of, a civil office in the Government of the United States—
+(2)(A) Except as otherwise authorized by law, an officer to whom this subsection applies maynot hold, or exercise the functions of, a civil office in the Government of the United States—
 
 &emsp;(i) that is an elective office;
 

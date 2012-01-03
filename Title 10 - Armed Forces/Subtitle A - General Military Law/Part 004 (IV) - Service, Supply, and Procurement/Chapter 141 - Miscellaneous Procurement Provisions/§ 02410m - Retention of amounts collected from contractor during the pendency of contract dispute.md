@@ -2,7 +2,7 @@
 
 (a)
 
-Retention of Funds.—Notwithstanding sections 1552(a) and 3302(b) of title 31, anyamount, including interest, collected from a contractor as a result of a claim made by a military department or Defense Agency under chapter 71 of title 41, shall remain available in accordance with this section to pay—
+Retention of Funds.—Notwithstanding sections 1552(a) and 3302(b) of title 31, any amount, including interest, collected from a contractor as a result of a claim made by a military department or Defense Agency under chapter 71 of title 41, shall remain available in accordance with this section to pay—
 
 &emsp;(1) any settlement of the claim by the parties;
 
@@ -30,19 +30,7 @@ Period of Availability.—(1) The period of availability of an amount under subs
 
 (3) Upon the expiration of the period of availability of an amount under paragraph (1), the amount shall be covered into the Treasury as miscellaneous receipts.
 
-(c)
-
-Annual Report.—Not later than 60 days after the end of each fiscal year, the Under Secretary of Defense (Comptroller) shall submit to Congress a report on the amounts, if any, that are available for obligation pursuant to this section. The report shall include, at a minimum, the following:
-
-&emsp;(1) The total amount available for obligation at the end of such fiscal year.
-
-&emsp;(2) The total amount collected from contractors under this section during that fiscal year.
-
-&emsp;(3) The total amount disbursed under this section during that fiscal year and a description of the purpose for each disbursement.
-
-&emsp;(4) The total amount returned to the Treasury under this section during that fiscal year.
-
-(Added Pub. L. 105–85, div. A, title VIII, §831(a), Nov. 18, 1997, 111 Stat. 1841; amended Pub. L. 108–136, div. A, title X, §1031(a)(21), Nov. 24, 2003, 117 Stat. 1598; Pub. L. 111–350, §5(b)(32), Jan. 4, 2011, 124 Stat. 3845.)
+(Added Pub. L. 105–85, div. A, title VIII, §831(a), Nov. 18, 1997, 111 Stat. 1841; amended Pub. L. 108–136, div. A, title X, §1031(a)(21), Nov. 24, 2003, 117 Stat. 1598; Pub. L. 111–350, §5(b)(32), Jan. 4, 2011, 124 Stat. 3845; Pub. L. 112–81, div. A, title X, §1061(15), Dec. 31, 2011, 125 Stat. 1583.)
 
 #### References in Text
 
@@ -55,6 +43,8 @@ Section 7 of the Contract Disputes Act of 1978, referred to in subsec. (b)(1)(B)
 Subsec. (a)(2). Pub. L. 111–350, §5(b)(32)(B), substituted “section 7104(a) of title 41” for “section 7 of such Act (41 U.S.C. 606)”.
 
 Subsec. (b)(1)(A). Pub. L. 111–350, §5(b)(32)(C), substituted “section 7104(b) of title 41” for “section 10(a) of the Contract Disputes Act of 1978 (41 U.S.C. 609(a))” in introductory provisions.
+
+Subsec. (c). Pub. L. 112–81 struck out subsec. (c), which required submission of annual report on amounts available for obligation.
 
 <b>2003</b>—Subsec. (c). Pub. L. 108–136, §1031(a)(21)(A), substituted “Annual Report” for “Reporting Requirement” in heading and “Not later than 60 days after the end of each fiscal year” for “Each year” in introductory provisions.
 

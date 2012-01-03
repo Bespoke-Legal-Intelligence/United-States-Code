@@ -68,7 +68,7 @@ Applicability.—In the case of the purchase by a person of unprocessed timber o
 
 #### (2) Requirements for application for sourcing areas for processing facilities located outside the northwestern private timber open market area
 
-&emsp;The Secretaries concerned shall, not later than 3 months after August 20, 1990, prescribe procedures to be used by a person applying for approval of a sourcing area under paragraph (1). Such procedures shall require, at a minimum, the applicant to provide—
+&emsp;The Secretaries concerned shall, not later than 3 months after August 20, 1990, prescribe procedures to be used by a person applying for approval of a sourcing area under paragraph\(1). Such procedures shall require, at a minimum, the applicant to provide—
 
 &emsp;&emsp;(A) information regarding the location of private lands (except private land located in the northwestern private timber open market area) from which such person has, within the previous year, harvested or otherwise acquired unprocessed timber which has been exported from the United States; and
 
@@ -104,7 +104,7 @@ Applicability.—In the case of the purchase by a person of unprocessed timber o
 
 &emsp;(B) If a person referred to in subparagraph (A) certifies to the Secretary concerned, within 90 days after receiving disapproval of such application, that such person shall, within 15 months after such disapproval, cease the export of unprocessed timber originating from private lands from the geographic area determined by the Secretary for which the application would have been approved, such person may continue to purchase unprocessed timber originating from Federal lands in the area which is the subject of the application, without being subject to the restrictions of subparagraph (A), except that such purchases during that 15-month period may not exceed 125 percent of the annual average of such person's purchases of unprocessed timber originating from Federal lands in the same area during the 5 full fiscal years immediately prior to submission of the application which was denied.
 
-&emsp;(C) Any person to whom subparagraph (B) applies may not, during the 15-month period after the person's application for sourcing area boundaries is denied, export unprocessed timber originating from private lands in the geographic area determined by the Secretary concerned for which the application would have been approved in amounts that exceed 125 percent of the annual average of such person's exports of unprocessed timber from such private lands during the 5 full fiscal years immediately prior to submission of the application.
+&emsp;(C) Any person to whom subparagraph (B) applies may not, during the 15-month period after the person's application for sourcing area boundaries is denied, export unprocessed timber originating from private lands in thegeographic area determined by the Secretary concerned for which the application would have been approved in amounts that exceed 125 percent of the annual average of such person's exports of unprocessed timber from such private lands during the 5 full fiscal years immediately prior to submission of the application.
 
 #### (5) Review of determinations for sourcing areas for processing facilities located outside the northwestern private timber open market area
 
@@ -172,7 +172,7 @@ Nothing in this section restricts or authorizes any restriction on the domestic 
 
 #### References in Text
 
-August 20, 1990, referred to in subsec. (a)(2)(B), was in the original “the effective date of this title”, which isthe date of enactment of title IV of Pub. L. 101–382, approved Aug. 20, 1990, except as otherwise provided in sections 620 to 620j of this title, see section 494 of Pub. L. 101–382, set out as an Effective Date note under section 620 of this title.
+August 20, 1990, referred to in subsec. (a)(2)(B), was in the original “the effective date of this title”, which is the date of enactment of title IV of Pub. L. 101–382, approved Aug. 20, 1990, except as otherwise provided in sections 620 to 620j of this title, see section 494 of Pub. L. 101–382, set out as an Effective Date note under section 620 of this title.
 
 #### Amendments
 

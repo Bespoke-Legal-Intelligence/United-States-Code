@@ -2,7 +2,7 @@
 
 #### (a) Community supported living arrangements services
 
-In this subchapter, the term “community supported living arrangements services” means one or more of the following services meeting the requirements of subsection (h) of this section provided in a State eligible to provide services under this section (as defined in subsection (d) of this section) to assist a developmentally disabled individual (as defined in subsection (b) ofthis section) in activities of daily living necessary to permit such individual to live in the individual's own home, apartment, family home, or rental unit furnished in a community supported living arrangement setting:
+In this subchapter, the term “community supported living arrangements services” means one or more of the following services meeting the requirements of subsection (h) of this section provided in a State eligible to provide services under this section (as defined in subsection (d) of this section) to assist a developmentally disabled individual (as defined in subsection (b) of this section) in activities of daily living necessary to permit such individual to live in the individual's own home, apartment, family home, or rental unit furnished in a community supported living arrangement setting:
 
 &emsp;(1) Personal assistance.
 
@@ -84,7 +84,7 @@ The Secretary may waive such provisions of this subchapter as necessary to carry
 
 &emsp;&emsp;Interim and final requirements under subparagraph (A) shall assure, through methods other than reliance on State licensure processes or the State quality assurance programs under subsection (d) of this section, that—
 
-&emsp;&emsp;&emsp;(i) individuals receiving community supported living arrangements services areprotected from neglect, physical and sexual abuse, and financial exploitation;
+&emsp;&emsp;&emsp;(i) individuals receiving community supported living arrangements services are protected from neglect, physical and sexual abuse, and financial exploitation;
 
 &emsp;&emsp;&emsp;(ii) a provider of community supported living arrangements services may not use individuals who have been convicted of child or client abuse, neglect, or mistreatment or of a felony involving physical harm to an individual and shall take all reasonable steps to determine whether applicants for employment by the provider have histories indicating involvement in child or client abuse, neglect, or mistreatment or a criminal record involving physical harm to an individual;
 

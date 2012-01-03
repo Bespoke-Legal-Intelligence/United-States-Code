@@ -6,7 +6,7 @@ The Secretary, in carrying out programs under section 612c of this title and sec
 
 #### Amendments
 
-1999—Pub. L. 106–78 made technical amendment to reference in original act which appears in text as reference to section 1755 of title 42.
+<b>1999</b>—Pub. L. 106–78 made technical amendment to reference in original act which appears in text as reference to section 1755 of title 42.
 
 #### Exceptions From Transfer of Functions
 

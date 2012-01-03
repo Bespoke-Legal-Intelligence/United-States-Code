@@ -8,7 +8,7 @@ Each contract or grant agreement entered into pursuant to sections 450f, 450g, a
 
 Sections 450g and 450h of this title, referred to in text, was in the original “sections 103 and 104 of this Act”, meaning sections 103 and 104 of Pub. L. 93–638, the Indian Self-Determination Act. Section 103(a) and (b) and the first sentence of section 103(c) of Pub. L. 93–638 were repealed, and the remainder of section 103(c) of Pub. L. 93–638 was redesignated as section 102(d) of Pub. L. 93–638 (section 450f(d) of this title), by Pub. L. 100–472, title II, §201(b)(1), Oct. 5, 1988, 102 Stat. 2289. Sections 104 and 105 of Pub. L. 93–638 were renumbered as sections 103 and 104, respectively, of Pub. L. 93–638 by sections 202(a) and 203(a) of Pub. L. 100–472, and are classified to sections 450h and 450i, respectively, of this title.
 
-The Occupational Safety and Health Act of 1970, as amended, referred to in text, is Pub. L. 91–596, Dec. 29,1970, 84 Stat. 1590, as amended, which is classified principally to chapter 15 (§651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
+The Occupational Safety and Health Act of 1970, as amended, referred to in text, is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, as amended, which is classified principally to chapter 15 (§651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
 
 #### Amendments
 

@@ -12,7 +12,7 @@ The Office is authorized to make grants to a general local government, or a comb
 
 #### (b) Application; time of making; information; terms and conditions; waiver; development costs; population served
 
-An application for a grant from a general local government or a combination of general local governments shall be made at such time or times and shall contain such information as the Office may prescribe. The Office may make a grant under subsection (a) of this section only if the application therefor meets requirements similar to those established in section 4722(b) of this title for a State application for a grant, unless any such requirement is specifically waived by the Office, and the requirements of subsection (c) of this section. Such a grant may cover the costs of developing the program or project covered by the application. The Office may make grants to general local governments, or combinations of such governments, that serve a population of less than fifty thousand, if it finds that such grants will help meet essential needs in programs or projects of national interest and will assist general local governments experiencing special problems in personnel administration related to such programs or projects.
+An application for a grant from a general local government or a combination of general local governments shall be made at such time or times and shall contain such information as the Office may prescribe. The Office may make a grant under subsection (a) of this section only ifthe application therefor meets requirements similar to those established in section 4722(b) of this title for a State application for a grant, unless any such requirement is specifically waived by the Office, and the requirements of subsection (c) of this section. Such a grant may cover the costs of developing the program or project covered by the application. The Office may make grants to general local governments, or combinations of such governments, that serve a population of less than fifty thousand, if it finds that such grants will help meet essential needs in programs or projects of national interest and will assist general local governments experiencing special problems in personnel administration related to such programs or projects.
 
 #### (c) Gubernatorial review of application; disapproval explanation
 
@@ -22,7 +22,7 @@ An application to be submitted to the Office under subsection (b) of this sectio
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 91–648, Jan. 5,1971, 84 Stat. 1909, known as the Intergovernmental Personnel Act of 1970, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4701 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 91–648, Jan. 5, 1971, 84 Stat. 1909, known as the Intergovernmental Personnel Act of 1970, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4701 of this title and Tables.
 
 For effective date of the grant provisions of this chapter, referred to in subsec. (a), as being 180 days after Jan. 5, 1971, see section 4772 of this title.
 

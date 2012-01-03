@@ -108,7 +108,7 @@ For purposes of this section—
 
 &emsp;&emsp;Of the dollar amount in subparagraph (A), the Secretary is authorized to certify—
 
-&emsp;&emsp;&emsp;(i) $800,000,000 for integrated gasification combined cycle projects the applicationfor which is submitted during the period described in paragraph (2)(A)(i),
+&emsp;&emsp;&emsp;(i) $800,000,000 for integrated gasification combined cycle projects the application for which is submitted during the period described in paragraph (2)(A)(i),
 
 &emsp;&emsp;&emsp;(ii) $500,000,000 for projects which use other advanced coal-based generation technologies the application for which is submitted during the period described in paragraph (2)(A)(i), and
 

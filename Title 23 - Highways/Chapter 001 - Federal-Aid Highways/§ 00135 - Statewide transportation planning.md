@@ -20,7 +20,7 @@ Process of development.—The process for developing the statewide plan and the 
 
 Coordination With Metropolitan Planning; State Implementation Plan.—A State shall—
 
-&emsp;(1) coordinate planning carried out under this section with the transportation planning activities carried out under section 134 for metropolitan areas of the State and with statewide trade and economic development planning activities and related multistate planning efforts; and
+&emsp;(1) coordinate planning carried out under this section with the transportation planning activities carried out under section 134 formetropolitan areas of the State and with statewide trade and economic development planning activities and related multistate planning efforts; and
 
 &emsp;(2) develop the transportation portion of the State implementation plan as required by the Clean Air Act (42 U.S.C. 7401 et seq.).
 
@@ -44,7 +44,7 @@ Scope of Planning Process.—
 
 In general.—Each State shall carry out a statewide transportation planning process that provides for consideration and implementation of projects, strategies, and services that will—
 
-&emsp;&emsp;(A) support the economic vitality of the United States, the States, nonmetropolitan areas, and metropolitan areas, especially byenabling global competitiveness, productivity, and efficiency;
+&emsp;&emsp;(A) support the economic vitality of the United States, the States, nonmetropolitan areas, and metropolitan areas, especially by enabling global competitiveness, productivity, and efficiency;
 
 &emsp;&emsp;(B) increase the safety of the transportation system for motorized and nonmotorized users;
 
@@ -142,7 +142,7 @@ Consultation.—The discussion shall be developed in consultation with Federal, 
 
 &emsp;(5)
 
-Financial plan.—The statewide transportation plan may include a financial plan that demonstrates how the adopted statewide transportation plan can be implemented, indicates resources from public and private sources that are reasonably expected to be made available to carry out the plan, and recommends any additional financing strategiesfor needed projects and programs. The financial plan may include, for illustrative purposes, additional projects that would be included in the adopted statewide transportation plan if reasonable additional resources beyond those identified in the financial plan were available.
+Financial plan.—The statewide transportation plan may include a financial plan that demonstrates how the adopted statewide transportation plan can be implemented, indicates resources from public and private sources that are reasonably expected to be made available to carry out the plan, and recommends any additional financing strategies for needed projects and programs. The financial plan may include, for illustrative purposes, additional projects that would be included in the adopted statewide transportation plan if reasonable additional resources beyond those identified in the financial plan were available.
 
 &emsp;(6)
 
@@ -232,7 +232,7 @@ Selection of projects from illustrative list.—
 
 &emsp;&emsp;&emsp;(i)
 
-No required selection.—Notwithstanding subparagraph (F), a State shall not be required to select any project from the illustrative list of additional projectsincluded in the financial plan under subparagraph (F).
+No required selection.—Notwithstanding subparagraph (F), a State shall not be required to select any project from the illustrative list of additional projects included in the financial plan under subparagraph (F).
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -286,7 +286,7 @@ A prior section 135, Pub. L. 89–139, §4(a), Aug. 28, 1965, 79 Stat. 578, call
 
 <b>2005</b>—Pub. L. 109–59 amended section catchline and text generally, substituting provisions relating to statewide transportation planning for provisions relating to, in subsec. (a), development of plans and programs by each State, in subsec. (b), coordination of State with Federal planning, in subsec. (c), scope of planning process, in subsec. (d), additional minimum requirements for each State to consider, in subsec. (e), development of a long-range transportation plan, in subsec. (f), development of a State transportation improvement program, in subsec. (g), funding, in subsec. (h), treatment of certain State laws as congestion management systems, and, in subsec. (i), review of plans and programs under the National Environmental Policy Act of 1969.
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–178, §1204(a), reenacted heading without change and amended text of subsec. (a)generally. Prior to amendment, text read as follows: “It is in the national interest to encourage and promote the development of transportation systems embracing various modes of transportation in a manner that will serve all areas of the State efficiently and effectively. Subject to section 134 of this title, the State shall develop transportation plans and programs for all areas of the State. Such plans and programs shall provide for development of transportation facilities (including pedestrian walkways and bicycle transportation facilities) which will function as an intermodal State transportation system. The process for developing such plans and programs shall provide for consideration of all modes of transportation and shall be continuing, cooperative, and comprehensive to the degree appropriate, based on the complexity of the transportation problems.”
+<b>1998</b>—Subsec. (a). Pub. L. 105–178, §1204(a), reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “It is in the national interest to encourage and promote the development of transportation systems embracing various modes of transportation in a manner that will serve all areas of the State efficiently and effectively. Subject to section 134 of this title, the State shall develop transportation plans and programs for all areas of the State. Such plans and programs shall provide for development of transportation facilities (including pedestrian walkways and bicycle transportation facilities) which will function as an intermodal State transportation system. The process for developing such plans and programs shall provide for consideration of all modes of transportation and shall be continuing, cooperative, and comprehensive to the degree appropriate, based on the complexity of the transportation problems.”
 
 Subsec. (b). Pub. L. 105–178, §1204(b), inserted “and sections 5303 through 5305 of title 49” after “section 134 of this title”.
 
@@ -344,7 +344,7 @@ Pub. L. 105–178, title I, §1204(i), June 9, 1998, 112 Stat. 184, provided tha
 
 “(1)
 
-Study.—The Secretary shall conduct a study on the effectiveness of the participation of local elected officials in transportation planning and programming. In conducting the study, the Secretary shall considerthe degree of cooperation between each State, local officials in rural areas in the State, and regional planning and development organizations in the State.
+Study.—The Secretary shall conduct a study on the effectiveness of the participation of local elected officials in transportation planning and programming. In conducting the study, the Secretary shall consider the degree of cooperation between each State, local officials in rural areas in the State, and regional planning and development organizations in the State.
 
 “(2)
 
@@ -452,7 +452,7 @@ Allocation of funds.—
 
 &emsp;&emsp;“(A)
 
-Fiscal years 1998 and 1999.—For each of fiscal years 1998 and 1999, 100 percent of the funds made available under paragraph (1) shall be allocated to activities as described in paragraphs (1), (2), and (3) of subsection (b).
+Fiscal years 1998 and 1999.—For each of fiscal years 1998 and 1999, 100 percent of the funds made available under paragraph (1) shall be allocated toactivities as described in paragraphs (1), (2), and (3) of subsection (b).
 
 &emsp;&emsp;“(B)
 
@@ -472,7 +472,7 @@ Pub. L. 95–599, title I, §154, Nov. 6, 1978, 92 Stat. 2716, provided that:
 
 “(a) The Secretary of Transportation is authorized to carry out a demonstration project of the use of a sophisticated automated roadway management system to increase the capacity and safety of automobile travel in high density travel corridors without providing additional lanes of pavement. The management system shall coordinate the traffic flow in major freeways and arterials servicing the travel corridor by use of an integrated system of vehicle sensors to monitor traffic, computers to assess traffic conditions throughout the corridor, and devices to communicate with drivers, police, and emergency equipment.
 
-“(b) There is authorized to be appropriated to carry out this section, out of the Highway Trust Fund, not toexceed $1,500,000 for the fiscal year ending September 30, 1979, not to exceed $2,500,000 for the fiscal year ending September 30, 1980, and not to exceed $26,000,000 for the fiscal year ending September 30, 1981.
+“(b) There is authorized to be appropriated to carry out this section, out of the Highway Trust Fund, not to exceed $1,500,000 for the fiscal year ending September 30, 1979, not to exceed $2,500,000 for the fiscal year ending September 30, 1980, and not to exceed $26,000,000 for the fiscal year ending September 30, 1981.
 
 “(c) The Federal share payable on account of any project authorized under this section shall not exceed 90 per centum of the total cost thereof.
 

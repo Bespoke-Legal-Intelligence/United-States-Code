@@ -2,7 +2,7 @@
 
 #### (a) Development
 
-(1) The Secretary of Health and Human Services shall establish and carry out a program to inform the public of any dangers to human health resulting from the use of smokeless tobacco products. In carrying out such program the Secretary shall—
+(1) The Secretary of Health and Human Services shall establish and carry out a program to inform the public of any dangers to humanhealth resulting from the use of smokeless tobacco products. In carrying out such program the Secretary shall—
 
 &emsp;(A) develop educational programs and materials and public service announcements respecting the dangers to human health from the use of smokeless tobacco;
 

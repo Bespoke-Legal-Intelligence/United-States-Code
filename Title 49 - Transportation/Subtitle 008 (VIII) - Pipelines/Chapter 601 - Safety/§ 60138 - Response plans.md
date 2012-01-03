@@ -1,0 +1,24 @@
+### §60138. Response plans
+
+(a)
+
+In General.—The Secretary of Transportation shall—
+
+&emsp;(1) maintain on file a copy of the most recent response plan (as defined in part 194 of title 49, Code of Federal Regulations) prepared by an owner or operator of a pipeline facility; and
+
+&emsp;(2) provide upon written request to a person a copy of the plan, which may exclude, as the Secretary determines appropriate—
+
+&emsp;&emsp;(A) proprietary information;
+
+&emsp;&emsp;(B) security-sensitive information, including information described in section 1520.5(a) of title 49, Code of Federal Regulations;
+
+&emsp;&emsp;(C) specific response resources and tactical resource deployment plans; and
+
+&emsp;&emsp;(D) the specific amount and location of worst case discharges (as defined in part 194 of title 49, Code of Federal Regulations), including the process by which an owner or operator determines the worst case discharge.
+
+(b)
+
+Relationship to FOIA.—Nothing in this section may be construed to require disclosure of information or records that are exempt from disclosure under section 552 of title 5.
+
+(Added Pub. L. 112–90, §6(c)(1), Jan. 3, 2012, 125 Stat. 1910.)
+

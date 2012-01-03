@@ -14,7 +14,7 @@ Plan Submission.—As a condition to a State receiving a grant under this sectio
 
 (d)
 
-Grant Amounts.—The Secretary shall reserve, from amounts deducted under section 104(a) of title 23, $3,000,000 to make grants under this section. The total amount that a State may receive in grants under this section may not be more than $500,000.
+Grant Amounts.—The Secretary shall reserve, from amounts deducted under section 104(a) of title 23, $3,000,000 to make grants underthis section. The total amount that a State may receive in grants under this section may not be more than $500,000.
 
 (Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 850.)
 

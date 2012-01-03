@@ -38,7 +38,7 @@
 
 &emsp;&emsp;If—
 
-&emsp;&emsp;&emsp;(i) an employer is (or in the case of a multiemployer plan, 10 percent or more of the number of employers contributing to or under the plan are) unable to satisfy the minimum funding standard for a plan yearwithout temporary substantial business hardship (substantial business hardship in the case of a multiemployer plan), and
+&emsp;&emsp;&emsp;(i) an employer is (or in the case of a multiemployer plan, 10 percent or more of the number of employers contributing to or under the plan are) unable to satisfy the minimum funding standard for a plan year without temporary substantial business hardship (substantial business hardship in the case of a multiemployer plan), and
 
 &emsp;&emsp;&emsp;(ii) application of the standard would be adverse to the interests of plan participants in the aggregate,
 
@@ -116,7 +116,7 @@
 
 #### (ii) Treatment of waivers for which applications are pending
 
-&emsp;&emsp;&emsp;The amount described in clause (i)(I) shall include any increase in such amountwhich would result if all applications for waivers of the minimum funding standard under this subsection which are pending with respect to such plan were denied.
+&emsp;&emsp;&emsp;The amount described in clause (i)(I) shall include any increase in such amount which would result if all applications for waivers of the minimum funding standard under this subsection which are pending with respect to such plan were denied.
 
 #### (iii) Unpaid minimum required contribution
 
@@ -190,7 +190,7 @@
 
 &emsp;&emsp;(B) does not reduce the accrued benefit of any participant determined as of the beginning of the first plan year to which the amendment applies, and
 
-&emsp;&emsp;(C) does not reduce the accrued benefit of any participant determined as of the time ofadoption except to the extent required by the circumstances,
+&emsp;&emsp;(C) does not reduce the accrued benefit of any participant determined as of the time of adoption except to the extent required by the circumstances,
 
 > &emsp;shall, at the election of the plan administrator, be deemed to have been made on the first day of such plan year. No amendment described in this paragraph which reduces the accrued benefits of any participant shall take effect unless the plan administrator files a notice with the Secretary of the Treasury notifying him of such amendment and such Secretary has approved such amendment, or within 90 days after the date on which such notice was filed, failed to disapprove such amendment. No amendment described in this subsection shall be approved by the Secretary of the Treasury unless such Secretary determines that such amendment is necessary because of a temporary substantial business hardship (as determined under subsection (c)(2)) or a substantial business hardship (as so determined) in the case of a multiemployer plan and that a waiver under subsection (c) (or, in the case of a multiemployer plan, any extension of the amortization period under section 1084(d) of this title) is unavailable or inadequate.
 
@@ -258,7 +258,7 @@ Secretary authorized, effective Sept. 2, 1974, to promulgate regulations whereve
 
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 
-For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub.L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of Title 26, Internal Revenue Code.
+For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of Title 26, Internal Revenue Code.
 
 #### Special Rule for Certain Benefits Funded Under an Agreement Approved by the Pension Benefit Guaranty Corporation
 

@@ -2,7 +2,7 @@
 
 (a) The Office of Personnel Management shall prescribe regulations to carry out the purpose of this subchapter.
 
-(b) Under such regulations, the Office may provide for the application of all or portions of the provisions of this subchapter (subject to any conditions or limitations the Office may establish)—
+(b) Under such regulations, the Office may provide for the application of all or portions ofthe provisions of this subchapter (subject to any conditions or limitations the Office may establish)—
 
 &emsp;(1) to any individual reduced to a grade of a covered pay schedule from a position not subject to this subchapter;
 
@@ -20,9 +20,9 @@ A prior section 5365, added Pub. L. 91–34, §1(a), June 30, 1969, 83 Stat. 41;
 
 #### Amendments
 
-2004—Subsec. (b). Pub. L. 108–411 inserted “(subject to any conditions or limitations the Office may establish)” after “provisions of this subchapter” in introductory provisions.
+<b>2004</b>—Subsec. (b). Pub. L. 108–411 inserted “(subject to any conditions or limitations the Office may establish)” after “provisions of this subchapter” in introductory provisions.
 
-1990—Subsec. (b). Pub. L. 101–508 inserted at end “Individuals with respect to whom authority under paragraph (2) may be exercised include individuals who are moved without a break in service of more than 3 days from employment in nonappropriated fund instrumentalities of the Department of Defense or the Coast Guard described in section 2105(c) to employment in the Department of Defense or the Coast Guard, respectively, that is not described in section 2105(c).”
+<b>1990</b>—Subsec. (b). Pub. L. 101–508 inserted at end “Individuals with respect to whom authority under paragraph (2) may be exercised include individuals who are moved without a break in service of more than 3 days from employment in nonappropriated fund instrumentalities of the Department of Defense or the Coast Guard described in section 2105(c) to employment in the Department of Defense or the Coast Guard, respectively, that is not described in section 2105(c).”
 
 #### Effective Date of 2004 Amendment
 

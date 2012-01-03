@@ -26,7 +26,7 @@
 
 #### (2) Contents
 
-&emsp;For each National Laboratory and single-purpose research facility that is primarily used for science and energy research, the report shall contain—
+&emsp;For each National Laboratory and single-purpose research facility that is primarilyused for science and energy research, the report shall contain—
 
 &emsp;&emsp;(A) the current priority list of proposed facilities and infrastructure projects, including cost and schedule requirements;
 

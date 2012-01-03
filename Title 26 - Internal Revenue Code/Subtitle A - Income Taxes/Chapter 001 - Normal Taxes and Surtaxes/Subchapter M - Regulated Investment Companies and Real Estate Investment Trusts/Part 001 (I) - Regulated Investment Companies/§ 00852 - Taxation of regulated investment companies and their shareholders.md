@@ -96,11 +96,11 @@ The provisions of this part (other than subsection (c) of this section) shall no
 
 #### (IV) Post-December reported amount
 
-&emsp;&emsp;&emsp;&emsp;The term “post-December reported amount” means the aggregate reportedamount determined by taking into account only dividends paid after December 31 of the taxable year.
+&emsp;&emsp;&emsp;&emsp;The term “post-December reported amount” means the aggregate reported amount determined by taking into account only dividends paid after December 31 of the taxable year.
 
 #### (v) Adjustment for determinations
 
-&emsp;&emsp;&emsp;If there is an increase in the excess described in subparagraph (A) for the taxable year which results from a determination (as defined in section 860(e)), the company may, subject to the limitations of this subparagraph, increase the amount of capital gain dividends reported under clause (i).
+&emsp;&emsp;&emsp;If there is an increase in the excess described in subparagraph (A) for the taxable year which results from a determination (as defined in section 860(e)), the companymay, subject to the limitations of this subparagraph, increase the amount of capital gain dividends reported under clause (i).
 
 #### (vi) Special rule for losses late in the calendar year
 
@@ -240,7 +240,7 @@ The provisions of this part (other than subsection (c) of this section) shall no
 
 #### (7) Time certain dividends taken into account
 
-&emsp;For purposes of this title, any dividend declared by a regulated investment company inOctober, November, or December of any calendar year and payable to shareholders of record on a specified date in such a month shall be deemed—
+&emsp;For purposes of this title, any dividend declared by a regulated investment company in October, November, or December of any calendar year and payable to shareholders of record on a specified date in such a month shall be deemed—
 
 &emsp;&emsp;(A) to have been received by each shareholder on December 31 of such calendar year, and
 
@@ -414,7 +414,7 @@ In the case of a unit investment trust—
 
 #### (5) Determination
 
-&emsp;For purposes of this subsection, the term “determination” has the meaning given tosuch term by section 860(e). Such term also includes a determination by the investment company filed with the Secretary that the provisions of this part do not apply to the investment company for a taxable year.
+&emsp;For purposes of this subsection, the term “determination” has the meaning given to such term by section 860(e). Such term also includes a determination by the investment company filed with the Secretary that the provisions of this part do not apply to the investment company for a taxable year.
 
 #### (f) Treatment of certain load charges
 
@@ -626,7 +626,7 @@ Subsec. (b)(3)(B). Pub. L. 94–455, §1402(b)(2), provided that “9 months” 
 
 Pub. L. 94–455, §1402(b)(1)(N), provided that “6 months” would be changed to “9 months” for taxable years beginning in 1977.
 
-Subsec. (b)(3)(C). Pub. L. 94–455, §1901(a)(110)(A), (b)(33)(J)(ii), substituted “net capital gain” for “excess of the net long-term capital gain over the net short-term capital loss” in two places and struck out provision requiring for purpose of the deduction for capital gains dividends paid, the deductions shall in the case of a taxable year beginning before Jan. 1, 1975, first be made from the amount subject to tax in accordance with section 1201(a)(1)(B), to the extent thereof, and then from the amount subject to tax in accordance with section 1201(a)(1)(A).
+Subsec. (b)(3)(C). Pub. L. 94–455, §1901(a)(110)(A), (b)(33)(J)(ii), substituted “net capital gain” for “excessof the net long-term capital gain over the net short-term capital loss” in two places and struck out provision requiring for purpose of the deduction for capital gains dividends paid, the deductions shall in the case of a taxable year beginning before Jan. 1, 1975, first be made from the amount subject to tax in accordance with section 1201(a)(1)(B), to the extent thereof, and then from the amount subject to tax in accordance with section 1201(a)(1)(A).
 
 Subsec. (b)(3)(D)(iii). Pub. L. 94–455, §1901(a)(110)(B)(i), struck out “by 75 percent of so much of such amounts as equals the amount subject to tax in accordance with section 1201(a)(1)(A) and” after “his long term capital gains,” and “(72 percent in the case of a taxable year beginning after December 31, 1969, and before January 1, 1971)” after “by 70 percent” and substituted “section 1201(a)” for “section 1201(a)(1)(B) or (2)”.
 

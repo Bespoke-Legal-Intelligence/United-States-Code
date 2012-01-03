@@ -2,7 +2,7 @@
 
 #### (a) Transmission of information concerning safety at sea
 
-The master of every ship of the United States, equipped with radio transmitting apparatus, which meets with dangerous ice, a dangerous derelict, a tropical storm, or any other direct danger to navigation, or encounters subfreezing air temperatures associated with gale force winds causing severe ice accretion on superstructures, or winds of force 10 or above on the Beaufort scale for which no storm warning has been received, shall cause to be transmitted all pertinent information relating thereto to ships in the vicinity and to the appropriate authorities on land, in accordance with rules and regulations issued by the Commission. When they consider it necessary, such authorities of the United States shall promptly bring the information received by them to the knowledge of those concerned, including interested foreign authorities.
+The master of every ship of the United States, equipped with radio transmitting apparatus, which meets with dangerous ice, a dangerous derelict, a tropical storm, or any other direct danger to navigation, or encounters subfreezing air temperatures associated with gale force winds causing severe ice accretion on superstructures, or winds of force 10 or above on the Beaufort scale for which no storm warning has been received, shall cause to be transmitted allpertinent information relating thereto to ships in the vicinity and to the appropriate authorities on land, in accordance with rules and regulations issued by the Commission. When they consider it necessary, such authorities of the United States shall promptly bring the information received by them to the knowledge of those concerned, including interested foreign authorities.
 
 #### (b) Charges for transmission of safety information
 
@@ -10,7 +10,7 @@ No charge shall be made by any ship or station in the mobile service of the Unit
 
 #### (c) Reimbursement by Commission
 
-The transmission by any ship of the United States, made in compliance with subsection (a) of this section, to any station which imposes a charge for the reception, relay, or forwarding of the required information, shall be free of cost to the ship concerned and any communication charges incurred by the ship for transmission, relay, or forwarding of the information may be certified to the Commission for reimbursementout of moneys appropriated to the Commission for that purpose.
+The transmission by any ship of the United States, made in compliance with subsection (a) of this section, to any station which imposes a charge for the reception, relay, or forwarding of the required information, shall be free of cost to the ship concerned and any communication charges incurred by the ship for transmission, relay, or forwarding of the information may be certified to the Commission for reimbursement out of moneys appropriated to the Commission for that purpose.
 
 #### (d) Charges for transmission of distress messages
 

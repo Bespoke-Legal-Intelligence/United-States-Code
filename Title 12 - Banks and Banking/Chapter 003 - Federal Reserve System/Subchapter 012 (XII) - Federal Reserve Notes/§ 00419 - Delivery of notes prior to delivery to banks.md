@@ -16,5 +16,5 @@ On authority of act May 29, 1920, which abolished offices of Assistant Treasurer
 
 #### Amendments
 
-1994—Pub. L. 103–325, which directed general amendment of “\[t\]he 9th undesignated paragraph of section 16 of the Federal Reserve Act (12 U.S.C. 419)”, was executed to this section to reflect the probable intent of Congress. Prior to amendment, section read as follows: “When such notes have been prepared, they shall be deposited in the Treasury, or in the designated depositary or mint of the United States nearest the place of business of each Federal reserve bank and shall be held for the use of such bank subject to the order of the Comptroller of the Currency for their delivery, as provided by this chapter.”
+<b>1994</b>—Pub. L. 103–325, which directed general amendment of “\[t\]he 9th undesignated paragraph of section 16 of the Federal Reserve Act (12 U.S.C. 419)”, was executed to this section to reflect the probable intent of Congress. Prior to amendment, section read as follows: “When such notes have been prepared, they shall be deposited in the Treasury, or in the designated depositary or mint of the United States nearest the place of business of each Federal reserve bank and shall be held for the use of such bank subject to the order of the Comptroller of the Currency for their delivery, as provided by this chapter.”
 

@@ -18,7 +18,7 @@ The purpose of the Foundation shall be to support the National Institutes of Hea
 
 &emsp;&emsp;(B) A program to provide and administer fellowships and grants to research personnel in order to work and study in association with the National Institutes of Health. Such fellowships and grants may include stipends, travel, health insurance benefits and other appropriate expenses. The recipients of fellowships shall be selected by the donors and the Foundation upon the recommendation of the National Institutes of Health employees in the laboratory where the fellow would serve, and shall be subject to the agreement of the Director of the National Institutes of Health and the Executive Director of the Foundation.
 
-&emsp;&emsp;(C) A program to collect funds for pediatric pharmacologic research and studies for which the Secretary issues a certification in the affirmative under section 355a(n)(1)(A) of title 21).<sup>1</sup>
+&emsp;&emsp;(C) A program to collect funds for pediatric pharmacologic research and studies for which the Secretary issues a certification in the affirmative under section 355a(n)(1)(A) of title 21.
 
 &emsp;&emsp;(D) Supplementary programs to provide for—
 
@@ -26,7 +26,7 @@ The purpose of the Foundation shall be to support the National Institutes of Hea
 
 &emsp;&emsp;&emsp;(ii) the conduct and support of studies, projects, and research, which may include stipends, travel and other support for personnel in collaboration with national and international non-profit and for-profit organizations;
 
-&emsp;&emsp;&emsp;(iii) the conduct and support of forums, meetings, conferences, courses, and training workshops that may include undergraduate, graduate, post-graduate, and post-doctoral accredited courses and the maintenance of accreditation of suchcourses by the Foundation at the State and national level for college or continuing education credits or for degrees;
+&emsp;&emsp;&emsp;(iii) the conduct and support of forums, meetings, conferences, courses, and training workshops that may include undergraduate, graduate, post-graduate, and post-doctoral accredited courses and the maintenance of accreditation of such courses by the Foundation at the State and national level for college or continuing education credits or for degrees;
 
 &emsp;&emsp;&emsp;(iv) programs to support and encourage teachers and students of science at all levels of education and programs for the general public which promote the understanding of science;
 
@@ -34,7 +34,7 @@ The purpose of the Foundation shall be to support the National Institutes of Hea
 
 &emsp;&emsp;&emsp;(vi) the conduct of other activities to carry out and support the purpose described in subsection (b) of this section.
 
-&emsp;&emsp;(E) The Cures Acceleration Network described in section 282d of this title.
+&emsp;&emsp;(E) The Cures Acceleration Network described in section 287a of this title.
 
 #### (2) Fees
 
@@ -82,7 +82,7 @@ The purpose of the Foundation shall be to support the National Institutes of Hea
 
 &emsp;(F) No employee of the National Institutes of Health shall be appointed as a member of the Board.
 
-&emsp;(G) The Board may, through amendments to the bylaws of the Foundation, provide that the number of appointed members of the Board shall be greater than the number specified in subparagraph (C).
+&emsp;(G) The Board may, through amendments to the bylaws of the Foundation, provide that the number of appointed members of the Boardshall be greater than the number specified in subparagraph (C).
 
 #### (2) Chair
 
@@ -186,7 +186,7 @@ No participant in the program established under this part shall exercise any adm
 
 #### (1) Foundation integrity
 
-&emsp;The members of the Board shall be accountable for the integrity of the operations of the Foundation and shall ensure such integrity through the development and enforcement of criteria and procedures relating to standards of conduct, financial disclosure statements, conflict of interest rules, recusal and waiverrules, audits and other matter determined appropriate by the Board.
+&emsp;The members of the Board shall be accountable for the integrity of the operations of the Foundation and shall ensure such integrity through the development and enforcement of criteria and procedures relating to standards of conduct, financial disclosure statements, conflict of interest rules, recusal and waiver rules, audits and other matter determined appropriate by the Board.
 
 #### (2) Financial conflicts of interest
 
@@ -228,7 +228,7 @@ No participant in the program established under this part shall exercise any adm
 
 #### (8) National Institutes of Health Amendments of 1990
 
-&emsp;The activities conducted in support of the National Institutes of Health Amendments of 1990 (Public Law 101–613), and the amendments made by such Act, shall not be nullified by the enactment of this section.<sup>2</sup>
+&emsp;The activities conducted in support of the National Institutes of Health Amendments of 1990 (Public Law 101–613), and the amendments made by such Act, shall not be nullified by the enactment of this section.<sup>1</sup>
 
 #### (9) Limitation of activities
 
@@ -256,7 +256,7 @@ No participant in the program established under this part shall exercise any adm
 
 #### (iv) Action by the Commissioner of Food and Drugs
 
-&emsp;&emsp;&emsp;The Commissioner of Food and Drugs shall take appropriate action in response to a report received under clause (iii) in accordance with paragraphs (7) through\(12) <sup>3</sup> of section 284m(c) of this title, including negotiating with the holders of approved applications for the drugs studied for any labeling changes that the Commissioner determines to be appropriate and requests the holders to make.
+&emsp;&emsp;&emsp;The Commissioner of Food and Drugs shall take appropriate action in response to a report received under clause (iii) in accordance with paragraphs (7) through (12) <sup>2</sup> of section 284m(c) of this title, including negotiating with the holders of approved applications for the drugs studied for any labeling changes that the Commissioner determines to be appropriate and requests the holders to make.
 
 #### (C) Applicability
 
@@ -280,7 +280,7 @@ No participant in the program established under this part shall exercise any adm
 
 From amounts appropriated to the National Institutes of Health, for each fiscal year, the Director of NIH shall transfer not less than $500,000 and not more than $1,250,000 to the Foundation.
 
-(July 1, 1944, ch. 373, title IV, §499, formerly §499A, as added Pub. L. 101–613, §2, Nov. 16, 1990, 104 Stat. 3224; amended Pub. L. 102–170, title II, §216, Nov. 26, 1991, 105 Stat. 1128; Pub. L. 102–321, title I, §163(b)(6), July 10, 1992, 106 Stat. 376; renumbered §499 and amended Pub. L. 103–43, title I, §121(b)(3), title XVII, §1701, June 10, 1993, 107 Stat. 133, 186; Pub. L. 104–316, title I, §122(b), Oct. 19, 1996, 110 Stat. 3836; Pub. L. 105–392, title IV, §418(2), Nov. 13, 1998, 112 Stat. 3591; Pub. L. 107–109, §13, Jan. 4, 2002, 115 Stat. 1417; Pub. L. 109–482, title I, §107, Jan. 15, 2007, 120 Stat. 3696; Pub. L. 110–85, title V, §502(c), Sept. 27, 2007, 121 Stat. 889; Pub. L. 111–148, title X, §10409(c), Mar. 23, 2010, 124 Stat. 978.)
+(July 1, 1944, ch. 373, title IV, §499, formerly §499A, as added Pub. L. 101–613, §2, Nov. 16, 1990, 104 Stat. 3224; amended Pub. L. 102–170, title II, §216, Nov. 26, 1991, 105 Stat. 1128; Pub. L. 102–321, title I, §163(b)(6), July 10, 1992, 106 Stat. 376; renumbered §499 and amended Pub. L. 103–43, title I, §121(b)(3), title XVII, §1701, June 10, 1993, 107 Stat. 133, 186; Pub. L. 104–316, title I, §122(b), Oct. 19, 1996, 110 Stat. 3836; Pub. L. 105–392, title IV, §418(2), Nov. 13, 1998, 112 Stat. 3591; Pub. L. 107–109, §13, Jan. 4, 2002, 115 Stat. 1417; Pub. L. 109–482, title I, §107, Jan. 15, 2007, 120 Stat. 3696; Pub. L. 110–85, title V, §502(c), Sept. 27, 2007, 121 Stat. 889; Pub. L. 111–148, title X, §10409(c), Mar. 23, 2010, 124 Stat. 978; Pub. L. 112–74, div. F, title II, §221(d)(4), Dec. 23, 2011, 125 Stat. 1090.)
 
 #### References in Text
 
@@ -296,9 +296,11 @@ A prior section 499 of act July 1, 1944, was classified to section 289h of this 
 
 #### Amendments
 
+<b>2011</b>—Subsec. (c)(1)(E). Pub. L. 112–74 substituted “section 287a” for “section 282d”.
+
 <b>2010</b>—Subsec. (c)(1)(E). Pub. L. 111–148 added subpar. (E).
 
-<b>2007</b>—Subsec. (c)(1)(C). Pub. L. 110–85 substituted “and studies for which the Secretary issues a certification in the affirmative under section 355a(n)(1)(A) of title 21” for “and studies listed by the Secretary pursuant to section 284m(a)(1)(A) of this title and referred under section 355a(d)(4)(C) of title 21”. Amendment was executed as the probable intent of Congress, notwithstanding errors in the directory language in quoting the text in the original to be stricken out.
+<b>2007</b>—Subsec. (c)(1)(C). Pub. L. 110–85 substituted “and studies for which the Secretary issues a certification in the affirmative under section 355a(n)(1)(A) of title 21” for “and studies listed by the Secretary pursuant tosection 284m(a)(1)(A) of this title and referred under section 355a(d)(4)(C) of title 21”. Amendment was executed as the probable intent of Congress, notwithstanding errors in the directory language in quoting the text in the original to be stricken out.
 
 Subsec. (d)(1)(D)(ii). Pub. L. 109–482, §107(1)(A)(i), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “Upon the appointment of the members of the Board under clause (i)(II), the terms of service of the ex officio members of the Board as members of the Board shall terminate.”
 
@@ -396,7 +398,7 @@ Subsec. (i)(5), (6). Pub. L. 103–43, §1701(5)(B), (C), redesignated par. (6) 
 
 Subsec. (i)(7). Pub. L. 103–43, §1701(5)(C), (D), redesignated par. (8) as (7) and substituted “part” for “subtitle”. Former par. (7) redesignated (6).
 
-Subsec. (i)(8). Pub. L. 103–43, §1701(5)(C), (E), redesignated par. (9) as (8) and substituted “establish a process for the selection of candidates for positions under subsection (c) of this section” for “establish a mechanism for the selection of candidates, subject to the approval of the Director of the National Institutes of Health, for the endowed scientific positions within the organizational structure of the intramural research programs of the National Institutes of Health and candidates for participation in the National Institutes of Health Scholars program”.
+Subsec. (i)(8). Pub. L. 103–43, §1701(5)(C), (E), redesignated par. (9) as (8) and substituted “establish a process for the selection of candidates for positions under subsection (c) of this section” for “establish a mechanismfor the selection of candidates, subject to the approval of the Director of the National Institutes of Health, for the endowed scientific positions within the organizational structure of the intramural research programs of the National Institutes of Health and candidates for participation in the National Institutes of Health Scholars program”.
 
 Subsec. (i)(9), (10). Pub. L. 103–43, §1701(5)(C), redesignated pars. (10) and (11) as (9) and (10), respectively. Former par. (9) redesignated (8).
 
@@ -452,9 +454,7 @@ Amendment by Pub. L. 109–482 applicable only with respect to amounts appropria
 
 Amendment by Pub. L. 102–321 effective Oct. 1, 1992, with provision for programs providing financial assistance, see section 801(c), (d) of Pub. L. 102–321, set out as a note under section 236 of this title.
 
-<i><sup>1</sup></i><i> So in original. The closing parenthesis probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “subsection”.</i>
-
-<i><sup>3</sup></i><i> See References in Text note below.</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

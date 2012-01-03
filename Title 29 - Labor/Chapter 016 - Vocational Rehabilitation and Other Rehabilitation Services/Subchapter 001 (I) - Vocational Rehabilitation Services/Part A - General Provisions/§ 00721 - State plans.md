@@ -14,7 +14,7 @@
 
 #### (C) Duration
 
-&emsp;&emsp;The State plan shall remain in effect subject to the submission of such modifications as the State determines to be necessary or as the Commissioner may require based on a change in State policy, a change in Federal law (including regulations), an interpretation of this chapter by a Federal court or the highest court of the State, or a finding by the Commissioner of State noncompliance with the requirements of this chapter, until the State submits and receives approval of a new State plan.
+&emsp;&emsp;The State plan shall remain in effect subject to the submission of such modifications as the State determines to be necessary or as the Commissioner may require based on a change in State policy, a change in Federal law (including regulations), an interpretation of this chapter by a Federal court or the highest court of the State, or a finding by the Commissioner of State noncompliancewith the requirements of this chapter, until the State submits and receives approval of a new State plan.
 
 #### (2) Designated State agency; designated State unit
 
@@ -98,7 +98,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the number and type of personnel needed by the State, and a projection of the numbers of such personnel that will be needed in 5 years, based on projections of the number of individuals to be served, the number of such personnel who are expected to retire or leave the vocational rehabilitation field, and other relevant factors;
 
-&emsp;&emsp;&emsp;(ii) where appropriate, a description of the manner in which activities will beundertaken under this section to coordinate the system of personnel development with personnel development activities under the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.);
+&emsp;&emsp;&emsp;(ii) where appropriate, a description of the manner in which activities will be undertaken under this section to coordinate the system of personnel development with personnel development activities under the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.);
 
 &emsp;&emsp;&emsp;(iii) a description of the development and maintenance of a system of determining, on an annual basis, information on the programs of institutions of higher education within the State that are preparing rehabilitation professionals, including—
 
@@ -120,7 +120,7 @@
 
 &emsp;&emsp;(B) set forth policies and procedures relating to the establishment and maintenance of standards to ensure that personnel, including rehabilitation professionals and paraprofessionals, needed within the designated State unit to carry out this part are appropriately and adequately prepared and trained, including—
 
-&emsp;&emsp;&emsp;(i) the establishment and maintenance of standards that are consistent with any national or State approved or recognized certification, licensing, registration, or other comparable requirements that apply to the area in which such personnel are providing vocational rehabilitation services; and
+&emsp;&emsp;&emsp;(i) the establishment and maintenance of standards that are consistent with any national or State approved or recognized certification, licensing, registration, or othercomparable requirements that apply to the area in which such personnel are providing vocational rehabilitation services; and
 
 &emsp;&emsp;&emsp;(ii) to the extent that such standards are not based on the highest requirements in the State applicable to a specific profession or discipline, the steps the State is taking to require the retraining or hiring of personnel within the designated State unit that meet appropriate professional requirements in the State; and
 
@@ -172,7 +172,7 @@
 
 #### (ii) Reimbursement
 
-&emsp;&emsp;&emsp;If a public entity other than the designated State unit fails to provide or pay for the services described in clause (i) for an eligible individual, the designated State unit shall provide or pay for such services to the individual. Such designated State unit may claim reimbursement for the services from the public entity that failed to provide or pay for such services. Such public entity shall reimburse the designated State unit pursuant to the terms of the interagency agreement or other mechanism described in this paragraph according to the procedures established in such agreement or mechanism pursuant to subparagraph (B)(ii).
+&emsp;&emsp;&emsp;If a public entity other than the designated State unit fails to provide or pay for the services described in clause (i) for an eligible individual, the designated State unit shall provide or pay for such services to the individual. Such designated State unit may claim reimbursement for the services from the public entity that failed to provide or pay for such services. Such public entity shall reimburse the designated State unit pursuant to the termsof the interagency agreement or other mechanism described in this paragraph according to the procedures established in such agreement or mechanism pursuant to subparagraph (B)(ii).
 
 #### (D) Methods
 
@@ -236,7 +236,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) the number who ended their participation in the program carried out under this subchapter and the number who achieved employment outcomes after receiving vocational rehabilitation services; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the number who ended their participation in the program and who were employed 6 months and 12 months after securing or regaining employment, or, in the case of individuals whose employment outcome was to retain or advance in employment, who were employed 6 months and 12 months after achieving their employment outcome, including—
+&emsp;&emsp;&emsp;&emsp;(II) the number who ended their participation in the program and who were employed 6 months and 12 months after securing or regaining employment, or, inthe case of individuals whose employment outcome was to retain or advance in employment, who were employed 6 months and 12 months after achieving their employment outcome, including—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) the number who earned the minimum wage rate specified in section 6(a)(1) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(a)(1)) or another wage level set by the Commissioner, during such employment; and
 
@@ -302,7 +302,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) carry out any other activities that the designated State unit and the employers determine to be appropriate;
 
-&emsp;&emsp;&emsp;(v) identification of staff roles, responsibilities, and available resources, and specification of the financial responsibility of each component of the statewide workforce investment system with regard to paying for necessary services (consistent with State law and Federal requirements); and
+&emsp;&emsp;&emsp;(v) identification of staff roles, responsibilities, and available resources, andspecification of the financial responsibility of each component of the statewide workforce investment system with regard to paying for necessary services (consistent with State law and Federal requirements); and
 
 &emsp;&emsp;&emsp;(vi) specification of procedures for resolving disputes among such components.
 
@@ -440,7 +440,7 @@
 
 &emsp;The State plan shall—
 
-&emsp;&emsp;(A) provide that the designated State agency, prior to the adoption of any policies or procedures governing the provision of vocational rehabilitation services under the State plan (including making any amendment to such policies and procedures), shall conduct public meetings throughout the State, after providing adequate notice of the meetings, to provide the public, including individuals with disabilities, an opportunity to comment on the policies or procedures, and actively consult with the Director of the client assistance program carried out under section 732 of this title, and, as appropriate,Indian tribes, tribal organizations, and Native Hawaiian organizations on the policies or procedures; and
+&emsp;&emsp;(A) provide that the designated State agency, prior to the adoption of any policies or procedures governing the provision of vocational rehabilitation services under the State plan (including making any amendment to such policies and procedures), shall conduct public meetings throughout the State, after providing adequate notice of the meetings, to provide the public, including individuals with disabilities, an opportunity to comment on the policies or procedures, and actively consult with the Director of the client assistance program carried out under section 732 of this title, and, as appropriate, Indian tribes, tribal organizations, and Native Hawaiian organizations on the policies or procedures; and
 
 &emsp;&emsp;(B) provide that the designated State agency (or each designated State agency if two agencies are designated) and any sole agency administering the plan in a political subdivision of the State, shall take into account, in connection with matters of general policy arising in the administration of the plan, the views of—
 
@@ -544,7 +544,7 @@
 
 #### (B) More than one designated State agency
 
-&emsp;&emsp;In the case of a State that, under subsection (a)(2) of this section, designates a State agency to administer the part of the State plan under which vocational rehabilitation services are provided for individuals who are blind (or to supervise the administration of such part by a local agency) and designates a separate State agency to administer the rest of the State plan, the State shall either establish a State Rehabilitation Council for each of the two agencies that does not meet the requirements in subparagraph (A)(i), or establish one State Rehabilitation Council for both agencies if neither agency meets the requirements of subparagraph (A)(i).
+&emsp;&emsp;In the case of a State that, under subsection (a)(2) of this section, designates a State agency to administer the part of the State plan under which vocational rehabilitation services are provided for individuals who are blind (or to supervise the administration of such part by a local agency) and designates a separate State agency to administer the rest of the State plan, the State shall either establish a State RehabilitationCouncil for each of the two agencies that does not meet the requirements in subparagraph (A)(i), or establish one State Rehabilitation Council for both agencies if neither agency meets the requirements of subparagraph (A)(i).
 
 #### (22) Supported employment State plan supplement
 
@@ -574,7 +574,7 @@
 
 &emsp;Prior to disapproval of the State plan, the Commissioner shall notify the State of the intention to disapprove the plan and shall afford the State reasonable notice and opportunity for a hearing.
 
-(Pub. L. 93–112, title I, §101, as added Pub. L. 105–220, title IV, §404, Aug. 7, 1998, 112 Stat. 1119;amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(c)(4)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–415; Pub. L. 108–446, title III, §305(h)(1), Dec. 3, 2004, 118 Stat. 2805.)
+(Pub. L. 93–112, title I, §101, as added Pub. L. 105–220, title IV, §404, Aug. 7, 1998, 112 Stat. 1119; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(c)(4)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–415; Pub. L. 108–446, title III, §305(h)(1), Dec. 3, 2004, 118 Stat. 2805.)
 
 #### References in Text
 

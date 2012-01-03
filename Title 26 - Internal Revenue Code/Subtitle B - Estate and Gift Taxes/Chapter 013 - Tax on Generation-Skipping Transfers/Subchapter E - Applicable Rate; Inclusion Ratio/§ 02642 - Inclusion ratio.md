@@ -230,7 +230,7 @@ Except as provided in regulations—
 
 #### (5) Coordination with subsection (d)
 
-&emsp;Under regulations, appropriate adjustments shall be made in the application of subsection (d) to take into account the provisions of this subsection.
+&emsp;Under regulations, appropriate adjustments shall be made in the application of subsection\(d) to take into account the provisions of this subsection.
 
 #### (g) Relief provisions
 
@@ -264,7 +264,7 @@ Except as provided in regulations—
 
 <b>2001</b>—Subsec. (a)(3). Pub. L. 107–16, §§562(a), 901, temporarily added par. (3). See Effective and Termination Dates of 2001 Amendment note below.
 
-Subsec. (b)(1). Pub. L. 107–16, §§563(a), 901, temporarily reenacted heading without change and amended text of par. (1) generally. Prior to amendment, text read as follows: “If the allocation of the GST exemption to any property is made on a gift tax return filedon or before the date prescribed by section 6075(b) or is deemed to be made under section 2632(b)(1)—
+Subsec. (b)(1). Pub. L. 107–16, §§563(a), 901, temporarily reenacted heading without change and amended text of par. (1) generally. Prior to amendment, text read as follows: “If the allocation of the GST exemption to any property is made on a gift tax return filed on or before the date prescribed by section 6075(b) or is deemed to be made under section 2632(b)(1)—
 
 &emsp;“(A) the value of such property for purposes of subsection (a) shall be its value for purposes of chapter 12, and
 

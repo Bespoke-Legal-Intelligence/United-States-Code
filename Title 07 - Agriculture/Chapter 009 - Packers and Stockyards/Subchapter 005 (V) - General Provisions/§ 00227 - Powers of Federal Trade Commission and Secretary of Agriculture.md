@@ -8,7 +8,7 @@ The Federal Trade Commission shall have power and jurisdiction over any matter i
 
 &emsp;(1) When the Secretary in the exercise of his duties requests of the Commission that it make investigations and reports in any case.
 
-&emsp;(2) In any investigation of, or proceeding for the prevention of, an alleged violation of any Act administered by the Commission, arising out of acts or transactions involving meat, meat food products, or livestock products in unmanufactured form, if the Commission determines that effective exercise of its power or jurisdiction with respect to retail sales of any such commodities is or will be impaired by the absence of power or jurisdiction over all acts or transactions involving such commodities in such investigation or proceeding. In order to avoid unnecessary duplication of effort by the Government and burdens upon the industry, the Commissioner shall notify the Secretary of such determination, the reasons therefor, and the acts or transactions involved, and shall not exercise power or jurisdiction with regard to acts or transactions (other than retail sales) involving such commodities if the Secretary within ten days from the date of receipt of the notice notifies the Commission that there is pending in his Department an investigation of, or proceeding for the prevention of, an alleged violation of this chapter involving the same subject matter.
+&emsp;(2) In any investigation of, or proceeding for the prevention of, an alleged violation of any Act administered by the Commission, arising out of acts or transactions involving meat, meat food products, or livestock products in unmanufactured form, if the Commission determines that effective exercise of its power or jurisdiction with respect to retail sales of any such commodities is or will be impaired by the absence of power or jurisdiction over all acts or transactions involving such commodities insuch investigation or proceeding. In order to avoid unnecessary duplication of effort by the Government and burdens upon the industry, the Commissioner shall notify the Secretary of such determination, the reasons therefor, and the acts or transactions involved, and shall not exercise power or jurisdiction with regard to acts or transactions (other than retail sales) involving such commodities if the Secretary within ten days from the date of receipt of the notice notifies the Commission that there is pending in his Department an investigation of, or proceeding for the prevention of, an alleged violation of this chapter involving the same subject matter.
 
 &emsp;(3) Over all transactions in commerce in margarine, oleomargarine, or poultry products and over retail sales of meat, meat food products and livestock products in unmanufactured form.
 
@@ -36,9 +36,9 @@ Subsection (a) of section 406 is classified to section 226 of this title.
 
 #### Amendments
 
-1991—Subsec. (b)(2). Pub. L. 102–237 struck out comma after “unmanufactured form,”.
+<b>1991</b>—Subsec. (b)(2). Pub. L. 102–237 struck out comma after “unmanufactured form,”.
 
-1987—Subsec. (b)(2). Pub. L. 100–173, §7(1)(A)(ii), which directed insertion of “or” before “livestock products in unmanufactured form.” was executed by making insertion before “livestock products in unmanufactured form,” as the probable intent of Congress.
+<b>1987</b>—Subsec. (b)(2). Pub. L. 100–173, §7(1)(A)(ii), which directed insertion of “or” before “livestock products in unmanufactured form.” was executed by making insertion before “livestock products in unmanufactured form,” as the probable intent of Congress.
 
 Pub. L. 100–173, §7(1)(A)(i), struck out “or poultry products” after “in unmanufactured form,”.
 
@@ -50,7 +50,7 @@ Subsec. (e). Pub. L. 100–173, §7(3), (4), added subsec. (e) and redesignated 
 
 Subsec. (f). Pub. L. 100–173, §7(3), (5), redesignated former subsec. (e) as (f) and substituted “subsections (b), (d), and (e)” for “subsections (b) and (d)”.
 
-1958—Pub. L. 85–909 substituted subsecs. (b) to (e) for former provisions providing that Federal Trade Commission shall have no power or jurisdiction over matters within jurisdiction of Secretary of Agriculture except when Secretary requests Commission to make investigations and reports in any case, which were incorporated in subsecs. (b)(1) and (c).
+<b>1958</b>—Pub. L. 85–909 substituted subsecs. (b) to (e) for former provisions providing that Federal Trade Commission shall have no power or jurisdiction over matters within jurisdiction of Secretary of Agriculture except when Secretary requests Commission to make investigations and reports in any case, which were incorporated in subsecs. (b)(1) and (c).
 
 #### Effective Date of 1987 Amendment
 

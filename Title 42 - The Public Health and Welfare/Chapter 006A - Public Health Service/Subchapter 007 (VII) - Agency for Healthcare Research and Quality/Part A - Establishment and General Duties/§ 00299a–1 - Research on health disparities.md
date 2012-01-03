@@ -28,7 +28,7 @@ The Director shall—
 
 &emsp;&emsp;(C) test such strategies and widely disseminate those strategies for which there is scientific evidence of effectiveness; and
 
-&emsp;&emsp;(D) determine the most effective approaches for disseminating research findingsto health disparity populations, including minority populations.
+&emsp;&emsp;(D) determine the most effective approaches for disseminating research findings to health disparity populations, including minority populations.
 
 #### (2) Use of certain strategies
 

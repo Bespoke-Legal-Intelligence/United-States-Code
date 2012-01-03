@@ -44,7 +44,7 @@ In carrying out the purposes of section 241 of this title, the Secretary, acting
 
 &emsp;&emsp;(B) when appropriate, maximize investigator-initiated research project grants in their annual research portfolios;
 
-&emsp;(9) shall ensure that research conducted or supported by the National Institutes of Health is subject to review in accordance with section 289a of this title and that, after such review, the research is reviewed in accordance with section 289a–1(a)(2) of this title by the appropriate advisory council under section 284a of this title before the research proposals are approved for funding;
+&emsp;(9) shall ensure that research conducted or supported by the National Institutes of Healthis subject to review in accordance with section 289a of this title and that, after such review, the research is reviewed in accordance with section 289a–1(a)(2) of this title by the appropriate advisory council under section 284a of this title before the research proposals are approved for funding;
 
 &emsp;(10) shall have authority to review and approve the establishment of all centers of excellence recommended by the national research institutes;
 
@@ -84,7 +84,7 @@ In carrying out the purposes of section 241 of this title, the Secretary, acting
 
 &emsp;(23) shall designate a contact point or office to help innovators and physicians identify sources of funding available for pediatric medical device development; and
 
-&emsp;(24) implement the Cures Acceleration Network described in section 282d of this title.
+&emsp;(24) implement the Cures Acceleration Network described in section 287a of this title.
 
 > The Federal Advisory Committee Act shall not apply to the duration of a peer review group appointed under paragraph (16). The members of such a group shall be individuals who by virtue of their training or experience are eminently qualified to perform the review functions of such group. Not more than one-fourth of the members of any such group shall be officers or employees of the United States.
 
@@ -122,21 +122,7 @@ There shall be in the National Institutes of Health an Associate Director for Pr
 
 &emsp;(2) recommend, coordinate, and oversee the modification or reconstruction of such policies and techniques to ensure maximum dissemination, using advanced technologies to the maximum extent practicable, of research results to such entities.
 
-#### (g) Enhancing competitiveness of certain entities in obtaining research funds
-
-(1)(A) In the case of entities described in subparagraph (B), the Director of NIH, acting through the Director of the National Center for Research Resources, shall establish a program to enhance the competitiveness of such entities in obtaining funds from the national research institutes for conducting biomedical and behavioral research.
-
-(B) The entities referred to in subparagraph (A) are entities that conduct biomedical and behavioral research and are located in a State in which the aggregate success rate for applications to the national research institutes for assistance for such research by the entities in the State has historically constituted a low success rate of obtaining such funds, relative to such aggregate rate for such entities in other States.
-
-(C) With respect to enhancing competitiveness for purposes of subparagraph (A), the Director of NIH, in carrying out the program established under such subparagraph, may—
-
-&emsp;(i) provide technical assistance to the entities involved, including technical assistance in the preparation of applications for obtaining funds from the national research institutes;
-
-&emsp;(ii) assist the entities in developing a plan for biomedical or behavioral research proposals; and
-
-&emsp;(iii) assist the entities in implementing such plan.
-
-(2) The Director of NIH shall establish a program of supporting projects of biomedical or behavioral research whose principal researchers are individuals who have not previously served as the principal researchers of such projects supported by the Director.
+#### (g) Transferred
 
 #### (h) Increased participation of women and disadvantaged individuals in biomedical and behavioral research
 
@@ -242,7 +228,7 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 #### (i) Expansion of data bank
 
-&emsp;&emsp;&emsp;To enhance patient enrollment and provide a mechanism to track subsequent progress of clinical trials, the Secretary, acting through the Director of NIH, shall expand, in accordance with this subsection, the clinical trials registry of the data bank described under subsection (i)(1) (referred to in this subsection as the “registry data bank”). The Director of NIH shall ensure that the registry data bank is made publicly available through the Internet.
+&emsp;&emsp;&emsp;To enhance patient enrollment and provide a mechanism to track subsequent progress of clinical trials, the Secretary, acting through the Director of NIH, shall expand, in accordance with this subsection, the clinical trials registry of the data bank described under subsection (i)(1) (referred to in this subsection as the “registry data bank”). The Director of NIHshall ensure that the registry data bank is made publicly available through the Internet.
 
 #### (ii) Content
 
@@ -296,7 +282,7 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) the responsible party, by official title; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(cc) the facility name and facility contact information (including thecity, State, and zip code for each clinical trial location, or a toll-free number through which such location information may be accessed); and
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) the facility name and facility contact information (including the city, State, and zip code for each clinical trial location, or a toll-free number through which such location information may be accessed); and
 
 &emsp;&emsp;&emsp;&emsp;(IV) administrative data (which the Secretary may make publicly available as necessary), including—
 
@@ -422,7 +408,7 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 #### (C) Basic results
 
-&emsp;&emsp;Not later than 1 year after September 27, 2007, the Secretary shall include in the registry and results data bank for each applicable clinical trial for a drug that is approved under section 355 of title 21 or licensed under section 262 of this title or a device that is cleared under section 360(k) of title 21 or approved under section 360e or 360j(m) of title 21, the following elements:
+&emsp;&emsp;Not later than 1 year after September 27, 2007, the Secretary shall include in the registry and results data bank for each applicable clinical trial for a drug that is approved under section 355 of title 21 or licensed undersection 262 of this title or a device that is cleared under section 360(k) of title 21 or approved under section 360e or 360j(m) of title 21, the following elements:
 
 #### (i) Demographic and baseline characteristics of patient sample
 
@@ -506,7 +492,7 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 &emsp;&emsp;&emsp;&emsp;(VI) additions or modifications to the manner of reporting of the data elements established under subparagraph (C).
 
-#### (vi) Consideration of world health organization data set
+#### (vi) Consideration of World Health Organization data set
 
 &emsp;&emsp;&emsp;The Secretary shall consider the status of the consensus data elements set for reporting clinical trial results of the World Health Organization when issuing the regulations under this subparagraph.
 
@@ -568,7 +554,7 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 #### (F) Notice to Director of NIH
 
-&emsp;&emsp;The Commissioner of Food and Drugs shall notify the Director of NIH when there is anaction described in subparagraph (E)(iv) or item (aa), (bb), or (cc) of subparagraph (E)(v)(I) with respect to an application or a report that includes a certification required under paragraph (5)(B) of such action not later than 30 days after such action.
+&emsp;&emsp;The Commissioner of Food and Drugs shall notify the Director of NIH when there is an action described in subparagraph (E)(iv) or item (aa), (bb), or (cc) of subparagraph (E)(v)(I) with respect to an application or a report that includes a certification required under paragraph (5)(B) of such action not later than 30 days after such action.
 
 #### (G) Posting of data
 
@@ -630,7 +616,7 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 &emsp;&emsp;&emsp;A clinical trial described in this clause is—
 
-&emsp;&emsp;&emsp;&emsp;(I) an applicable clinical trial for a drug that is approved under section 355 of title 21 or licensed under section 262 of this title or for a device that is clearedunder section 360(k) of title 21 or approved under section 360e or section 360j(m) of title 21, whose completion date is on or after the date 10 years before September 27, 2007; or
+&emsp;&emsp;&emsp;&emsp;(I) an applicable clinical trial for a drug that is approved under section 355 of title 21 or licensed under section 262 of this title or for a device that is cleared under section 360(k) of title 21 or approved under section 360e or section 360j(m) of title 21, whose completion date is on or after the date 10 years before September 27, 2007; or
 
 &emsp;&emsp;&emsp;&emsp;(II) an applicable clinical trial that is described by both by <sup>3</sup> paragraph (2)(C) and paragraph (3)(D)(ii)(II)).<sup>4</sup>
 
@@ -666,7 +652,7 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 #### (iii) Notice and opportunity to remedy
 
-&emsp;&emsp;&emsp;If the head of an agency referred to in clause (i), as applicable, verifies that a grantee has not submitted clinical trial information as described in clause (ii), such agency head shall provide notice to such grantee of such non-compliance and allow such grantee 30 days to correct such non-compliance and submit the required clinical trial information.
+&emsp;&emsp;&emsp;If the head of an agency referred to in clause (i), as applicable, verifies that agrantee has not submitted clinical trial information as described in clause (ii), such agency head shall provide notice to such grantee of such non-compliance and allow such grantee 30 days to correct such non-compliance and submit the required clinical trial information.
 
 #### (iv) Consultation with other Federal agencies
 
@@ -684,7 +670,7 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 #### (i) Pilot quality control project
 
-&emsp;&emsp;&emsp;Until the effective date of the regulations issued under paragraph (3)(D), the Secretary, acting through the Director of NIH and the Commissioner of Food and Drugs, shall conduct a pilot project to determine the optimal method of verification to help to ensure that the clinical trial information submitted under paragraph (3)(C) is non-promotional and is not false or misleading in any particular under subparagraph (D). The Secretary shall usethe publicly available information described in paragraph (3)(A) and any other information available to the Secretary about applicable clinical trials to verify the accuracy of the clinical trial information submitted under paragraph (3)(C).
+&emsp;&emsp;&emsp;Until the effective date of the regulations issued under paragraph (3)(D), the Secretary, acting through the Director of NIH and the Commissioner of Food and Drugs, shall conduct a pilot project to determine the optimal method of verification to help to ensure that the clinical trial information submitted under paragraph (3)(C) is non-promotional and is not false or misleading in any particular under subparagraph (D). The Secretary shall use the publicly available information described in paragraph (3)(A) and any other information available to the Secretary about applicable clinical trials to verify the accuracy of the clinical trial information submitted under paragraph (3)(C).
 
 #### (ii) Notice of compliance
 
@@ -760,7 +746,7 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 #### (k) Day care for children of employees
 
-(1) The Director of NIH may establish a program to provide day care services for the employees of the National Institutes of Healthsimilar to those services provided by other Federal agencies (including the availability of day care service on a 24-hour-a-day basis).
+(1) The Director of NIH may establish a program to provide day care services for the employees of the National Institutes of Health similar to those services provided by other Federal agencies (including the availability of day care service on a 24-hour-a-day basis).
 
 (2) Any day care provider at the National Institutes of Health shall establish a sliding scale of fees that takes into consideration the income and needs of the employee.
 
@@ -820,7 +806,7 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 &emsp;&emsp;Any member appointed to fill a vacancy occurring before the expiration of the term for which the member's predecessor was appointed shall be appointed only for the remainder of that term. A member may serve after the expiration of that member's term until a successor has taken office.
 
-(July 1, 1944, ch. 373, title IV, §402, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 823; amended Pub. L. 100–607, title I, §111, Nov. 4, 1988, 102 Stat. 3052; Pub. L. 102–321, title I, §163(b)(3), July 10, 1992, 106 Stat. 376; Pub. L. 103–43, title I, §141(b), title II, §§201, 202, 206, 208, 210(b), (c), title III, §303(b), June 10, 1993, 107 Stat. 139, 144, 148–150, 153; Pub. L. 105–115, title I, §113(a), Nov. 21, 1997, 111 Stat. 2310; Pub. L. 105–362, title VI, §601(a)(1)(A), Nov. 10, 1998, 112 Stat. 3285; Pub. L. 105–392, title IV, §409, Nov. 13, 1998, 112 Stat. 3589; Pub. L. 107–109, §15(c)(2), Jan. 4, 2002, 115 Stat. 1420; Pub. L. 109–482, title I, §§102(a)–(d), (f)(1)(A), 103(b)(1), Jan. 15, 2007, 120 Stat. 3681, 3683, 3684, 3687; Pub. L. 110–85, title III, §304(a), title VIII, §801(a), title XI, §1104(2), Sept. 27, 2007, 121 Stat. 863, 904, 975; Pub. L. 110–316, title III, §302, Aug. 14, 2008, 122 Stat. 3524; Pub. L. 111–148, title X, §10409(b), Mar. 23, 2010, 124 Stat. 978.)
+(July 1, 1944, ch. 373, title IV, §402, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 823; amendedPub. L. 100–607, title I, §111, Nov. 4, 1988, 102 Stat. 3052; Pub. L. 102–321, title I, §163(b)(3), July 10, 1992, 106 Stat. 376; Pub. L. 103–43, title I, §141(b), title II, §§201, 202, 206, 208, 210(b), (c), title III, §303(b), June 10, 1993, 107 Stat. 139, 144, 148–150, 153; Pub. L. 105–115, title I, §113(a), Nov. 21, 1997, 111 Stat. 2310; Pub. L. 105–362, title VI, §601(a)(1)(A), Nov. 10, 1998, 112 Stat. 3285; Pub. L. 105–392, title IV, §409, Nov. 13, 1998, 112 Stat. 3589; Pub. L. 107–109, §15(c)(2), Jan. 4, 2002, 115 Stat. 1420; Pub. L. 109–482, title I, §§102(a)–(d), (f)(1)(A), 103(b)(1), Jan. 15, 2007, 120 Stat. 3681, 3683, 3684, 3687; Pub. L. 110–85, title III, §304(a), title VIII, §801(a), title XI, §1104(2), Sept. 27, 2007, 121 Stat. 863, 904, 975; Pub. L. 110–316, title III, §302, Aug. 14, 2008, 122 Stat. 3524; Pub. L. 111–148, title X, §10409(b), Mar. 23, 2010, 124 Stat. 978; Pub. L. 112–74, div. F, title II, §221(b)(5)(B), (d)(1), Dec. 23, 2011, 125 Stat. 1089, 1090.)
 
 #### References in Text
 
@@ -835,6 +821,10 @@ The National Literacy Act of 1991, referred to in subsec. (e)(5), is Pub. L. 102
 In subsec. (b)(14)(B), “section 8141 of title 40” substituted for “the Act of March 3, 1877 (40 U.S.C. 34)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (b)(24). Pub. L. 112–74, §221(d)(1), substituted “287a” for “282d”.
+
+Subsec. (g). Pub. L. 112–74, §221(b)(5)(B), redesignated and transferred subsec. (g) of this section to subsec. (b) of section 285k of this title.
 
 <b>2010</b>—Subsec. (b)(24). Pub. L. 111–148 added par. (24).
 
@@ -998,7 +988,7 @@ Pub. L. 110–85, title VIII, §801(d), Sept. 27, 2007, 121 Stat. 922, provided 
 
 “(1)
 
-In general.—Upon the expansion of the registry and results data bank under section 402(j)(3)(D) of the Public Health Service Act \[subsec. (j)(3)(D) of this section\], as added by this section, no State or political subdivision of a State may establish or continue in effect any requirement for the registration of clinical trials or for the inclusion of information relating to the results of clinical trials in a database.
+In general.—Upon the expansion of the registry and results data bank under section 402(j)(3)(D) of the Public Health Service Act \[subsec. (j)(3)(D) of this section\], as added by this section, no State or politicalsubdivision of a State may establish or continue in effect any requirement for the registration of clinical trials or for the inclusion of information relating to the results of clinical trials in a database.
 
 “(2)
 

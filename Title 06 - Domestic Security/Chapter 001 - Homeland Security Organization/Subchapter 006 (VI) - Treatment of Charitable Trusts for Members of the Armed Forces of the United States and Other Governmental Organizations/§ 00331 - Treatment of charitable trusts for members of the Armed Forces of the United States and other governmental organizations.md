@@ -26,7 +26,7 @@ Congress finds the following:
 
 #### (b) Designation of Johnny Micheal Spann Patriot Trusts
 
-Any charitable corporation, fund, foundation, or trust (or separate fund or account thereof) which otherwise meets all applicable requirements under law with respect to charitable entities and meets the requirements described in subsection (c) of this section shall be eligible to characterize itself as a “Johnny Micheal Spann Patriot Trust”.
+Any charitable corporation, fund, foundation, or trust (or separate fund or account thereof) which otherwise meets all applicable requirements under law with respect to charitable entities and meets the requirements described insubsection (c) of this section shall be eligible to characterize itself as a “Johnny Micheal Spann Patriot Trust”.
 
 #### (c) Requirements for the designation of Johnny Micheal Spann Patriot Trusts
 
@@ -72,7 +72,7 @@ Notwithstanding any other provision of law, and in a manner consistent with the 
 
 #### (f) Regulations
 
-Not later than 90 days after November 25, 2002, the Secretary of Defense, in coordination with the Attorney General, the Director of the Federal Bureau of Investigation, and the Director of Central Intelligence, shall prescribe regulations to carry out this section.
+Not later than 90 days after November 25, 2002, the Secretary of Defense, in coordination withthe Attorney General, the Director of the Federal Bureau of Investigation, and the Director of Central Intelligence, shall prescribe regulations to carry out this section.
 
 (Pub. L. 107–296, title VI, §601, Nov. 25, 2002, 116 Stat. 2215.)
 

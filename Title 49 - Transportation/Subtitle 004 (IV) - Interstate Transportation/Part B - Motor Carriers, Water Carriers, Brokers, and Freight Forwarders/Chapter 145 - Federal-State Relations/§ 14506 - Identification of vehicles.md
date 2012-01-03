@@ -22,5 +22,5 @@ Exception.—Notwithstanding subsection (a), a State may continue to require dis
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b)(2). Pub. L. 110–244 inserted “or under an applicable State law if, on October 1, 2006, the Statehas a form of highway use taxation not subject to collection through the International Fuel Tax Agreement” before semicolon at end.
+<b>2008</b>—Subsec. (b)(2). Pub. L. 110–244 inserted “or under an applicable State law if, on October 1, 2006, the State has a form of highway use taxation not subject to collection through the International Fuel Tax Agreement” before semicolon at end.
 

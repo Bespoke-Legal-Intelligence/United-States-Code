@@ -80,7 +80,7 @@ Subsec. (b)(2). Pub. L. 97–354 redesignated cl. (A)(i) as subpar. (A) and cl. 
 
 <b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-<b>1962</b>—Pub. L. 87–834 substituted “Returns regarding payments of dividends and corporate earnings and profits” for “Returns regarding corporate dividends, earnings, and profits” in section catchline, added subsecs. (a) to (c), designated existing provisions of section as subsec. (d), and substituted in par. (1) of subsec. (d) “furnish to the Secretary or his delegate a statement stating the name and address of each shareholder, and the number of shares owned by each shareholder” for “Make a return of its payments of dividends, stating the name and address of, the number of shares owned by, and the amount of dividends paid to, each shareholder.”
+<b>1962</b>—Pub. L. 87–834 substituted “Returns regarding payments of dividends and corporate earnings and profits” for “Returns regarding corporate dividends, earnings, and profits” in section catchline, added subsecs. (a) to (c), designated existing provisions of section as subsec. (d), and substituted in par. (1) of subsec. (d) “furnish to the Secretary or his delegate a statement stating the name and address of each shareholder, and the number of shares owned by each shareholder” for “Make a return of its payments of dividends, statingthe name and address of, the number of shares owned by, and the amount of dividends paid to, each shareholder.”
 
 #### Effective Date of 1996 Amendment
 

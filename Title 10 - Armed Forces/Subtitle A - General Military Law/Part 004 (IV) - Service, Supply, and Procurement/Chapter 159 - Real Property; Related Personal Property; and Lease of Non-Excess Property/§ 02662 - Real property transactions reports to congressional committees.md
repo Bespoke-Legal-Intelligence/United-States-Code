@@ -8,7 +8,7 @@ General Notice and Wait Requirements.—(1) The Secretary of a military departme
 
 &emsp;(B) A lease of any real property to the United States, if the estimated annual rental is more than $750,000.
 
-&emsp;(C) A lease or license of real property owned by the United States (other than a lease or license entered into under section 2667(g) of this title), if the estimated annual fair market rental value of the property is more than $750,000.
+&emsp;(C) A lease, license, or easement of real property owned by the United States (other than a lease or license entered into under section 2667(g) of this title), if the estimated annual fair market rental value of the property is more than $750,000.
 
 &emsp;(D) A transfer of real property owned by the United States to another Federal agency or another military department or to a State, if the estimated value is more than $750,000.
 
@@ -30,7 +30,7 @@ General Notice and Wait Requirements.—(1) The Secretary of a military departme
 
 (b)
 
-Additional Reporting Requirements Regarding Leases of Real Property Owned by the United States.—(1) In the case of a proposed lease or license of real property owned by the United States covered by paragraph (1)(C) of subsection (a), the Secretary concerned shall comply with the notice-and-wait requirements of paragraph (3) of such subsection before—
+Additional Reporting Requirements Regarding Leases of Real Property Owned by the United States.—(1) In the case of a proposed lease, license, or easement of real property owned by the United States covered by paragraph (1)(C) of subsection (a), the Secretary concerned shall comply with the notice-and-wait requirements of paragraph (3) of such subsection before—
 
 &emsp;(A) issuing a contract solicitation or other lease offering with regard to the transaction; and
 
@@ -38,7 +38,7 @@ Additional Reporting Requirements Regarding Leases of Real Property Owned by the
 
 (2) The report under paragraph (3) of subsection (a) shall include the following with regard to a proposed transaction covered by paragraph (1)(C) of such subsection:
 
-&emsp;(A) A description of the proposed transaction, including the proposed duration of the lease or license.
+&emsp;(A) A description of the proposed transaction, including the proposed duration of the lease, license, or easement.
 
 &emsp;(B) A description of the authorities to be used in entering into the transaction.
 
@@ -58,9 +58,9 @@ Additional Reporting Requirements Regarding Leases of Real Property Owned by the
 
 &emsp;(B) A description of the differences between the information submitted under paragraph (2) and the information regarding the transaction being submitted in the subsequent report.
 
-&emsp;(C) A description of the payment to be required in connection with the lease or license, including a description of any in-kind consideration that will be accepted.
+&emsp;(C) A description of the payment to be required in connection with the lease, license, or easement, including a description of any in-kind consideration that will be accepted.
 
-&emsp;(D) A description of any community support facility or provision of community support services under the lease or license, regardless of whether the facility will be operated by a covered entity (as defined in section 2667(d) of this title) or the lessee or the services will be provided by a covered entity or the lessee.
+&emsp;(D) A description of any community support facility or provision of community support services under the lease, license, or easement, regardless of whether the facility will be operated by a covered entity (as defined in section 2667(d) of this title) or the lessee or the services will be provided by a covered entity or the lessee.
 
 &emsp;(E) A description of the competitive procedures used to select the lessee or, in the case of a lease involving the public benefit exception authorized by section 2667(h)(2) of this title, a description of the public benefit to be served by the lease.
 
@@ -102,7 +102,7 @@ Exceptions for Transactions for War and Certain Emergency and Other Operations.�
 
 Secretary Concerned Defined.—In this section, the term “Secretary concerned” includes, with respect to Defense Agencies, the Secretary of Defense.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 147; Pub. L. 86–70, §6(c), June 25, 1959, 73 Stat. 142; Pub. L. 86–500, title V, §511(1), June 8, 1960, 74 Stat. 186; Pub. L. 86–624, §4(c), July 12, 1960, 74 Stat. 411; Pub. L. 92–145, title VII, §707(5), Oct. 27, 1971, 85Stat. 412; Pub. L. 92–545, title VII, §709, Oct. 25, 1972, 86 Stat. 1154; Pub. L. 93–552, title VI, §610, Dec. 27, 1974, 88 Stat. 1765; Pub. L. 94–107, title VI, §607(5), (6), Oct. 7, 1975, 89 Stat. 566; Pub. L. 94–431, title VI, §614, Sept. 30, 1976, 90 Stat. 1367; Pub. L. 96–418, title VIII, §805, Oct. 10, 1980, 94 Stat. 1777; Pub. L. 100–456, div. B, title XXVIII, §2803, Sept. 29, 1988, 102 Stat. 2115; Pub. L. 101–510, div. A, title XIII, §1311(6), Nov. 5, 1990, 104 Stat. 1670; Pub. L. 102–496, title IV, §403(a)(1), (2)(A), Oct. 24, 1992, 106 Stat. 3185; Pub. L. 104–106, div. A, title XV, §1502(a)(23), div. D, title XLIII, §4321(b)(21), Feb. 10, 1996, 110 Stat. 505, 673; Pub. L. 105–261, div. B, title XXVIII, §2811, Oct. 17, 1998, 112 Stat. 2204; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[div. B, title XXVIII, §2811\], Oct. 30, 2000, 114 Stat. 1654, 1654A–416; Pub. L. 108–136, div. A, title X, §1031(a)(27), Nov. 24, 2003, 117 Stat. 1598; Pub. L. 108–375, div. A, title X, §1084(d)(22), Oct. 28, 2004, 118 Stat. 2062; Pub. L. 110–181, div. B, title XXVIII, §2821, Jan. 28, 2008, 122 Stat. 543; Pub. L. 110–417, div. B, title XXVIII, §2811, Oct. 14, 2008, 122 Stat. 4725; Pub. L. 111–383, div. B, title XXVIII, §2811(a)–(f), Jan. 7, 2011, 124 Stat. 4461, 4462.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 147; Pub. L. 86–70, §6(c), June 25, 1959, 73 Stat. 142; Pub. L. 86–500, title V, §511(1), June 8, 1960, 74 Stat. 186; Pub. L. 86–624, §4(c), July 12, 1960, 74 Stat. 411; Pub. L. 92–145, title VII, §707(5), Oct. 27, 1971, 85 Stat. 412; Pub. L. 92–545, title VII, §709, Oct. 25, 1972, 86 Stat. 1154; Pub. L. 93–552, title VI, §610, Dec. 27, 1974, 88 Stat. 1765; Pub. L. 94–107, title VI, §607(5), (6), Oct. 7, 1975, 89 Stat. 566; Pub. L. 94–431, title VI, §614, Sept. 30, 1976, 90 Stat. 1367; Pub. L. 96–418, title VIII, §805, Oct. 10, 1980, 94 Stat. 1777; Pub. L. 100–456, div. B, title XXVIII, §2803, Sept. 29, 1988, 102 Stat. 2115; Pub. L. 101–510, div. A, title XIII, §1311(6), Nov. 5, 1990, 104 Stat. 1670; Pub. L. 102–496, title IV, §403(a)(1), (2)(A), Oct. 24, 1992, 106 Stat. 3185; Pub. L. 104–106, div. A, title XV, §1502(a)(23), div. D, title XLIII, §4321(b)(21), Feb. 10, 1996, 110 Stat. 505, 673; Pub. L. 105–261, div. B, title XXVIII, §2811, Oct. 17, 1998, 112 Stat. 2204; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[div. B, title XXVIII, §2811\], Oct. 30, 2000, 114 Stat. 1654, 1654A–416; Pub. L. 108–136, div. A, title X, §1031(a)(27), Nov. 24, 2003, 117 Stat. 1598; Pub. L. 108–375, div. A, title X, §1084(d)(22), Oct. 28, 2004, 118 Stat. 2062; Pub. L. 110–181, div. B, title XXVIII, §2821, Jan. 28, 2008, 122 Stat. 543; Pub. L. 110–417, div. B, title XXVIII, §2811, Oct. 14, 2008, 122 Stat. 4725; Pub. L. 111–383, div. B, title XXVIII, §2811(a)–(f), Jan. 7, 2011, 124 Stat. 4461, 4462; Pub. L. 112–81, div. B, title XXVIII, §2812, Dec. 31, 2011, 125 Stat. 1686.)
 
 Historical and Revision Notes
 
@@ -136,7 +136,7 @@ In subsection (a)(4), the words “or another military department” are substit
 
 In subsection (b), the words “more than $5,000 but not more than $25,000” are substituted for the words “between $5,000 and $25,000”. The words “shall report” are substituted for the words “will, in addition, furnish \* \* \* reports”.
 
-In subsection (c), the words “the United States, Alaska, Hawaii” are substituted for the words “the continental United States, the Territory of Alaska, the Territory of Hawaii”, since, as defined in section 101(1) of this title, “United States” includes the States and the District of Columbia; and “Territories” includes Alaska and Hawaii.
+In subsection (c), the words “the United States, Alaska, Hawaii” are substituted for the words “the continental United States, the Territory of Alaska, theTerritory of Hawaii”, since, as defined in section 101(1) of this title, “United States” includes the States and the District of Columbia; and “Territories” includes Alaska and Hawaii.
 
 In subsection (d), the words “A statement \* \* \* that the requirements of this section have been met” are substituted for the words “A recital of compliance with this chapter \* \* \* to the effect that the requirements of this chapter have been complied with”. The words “in the alternative”, “or lease”, and “evidence thereof” are omitted as surplusage.
 
@@ -150,11 +150,15 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to
 
 <b>2011</b>—Subsec. (a)(1). Pub. L. 111–383, §2811(f)(1)(A), substituted “the Secretary concerned submits” for “the Secretary submits” in introductory provisions.
 
-Subsec. (a)(1)(C). Pub. L. 111–383, §2811(a), inserted “(other than a lease or license entered into under section 2667(g) of this title)” after “United States”.
+Subsec. (a)(1)(C). Pub. L. 112–81, §2812(1), substituted “lease, license, or easement” for “lease or license”.
+
+Pub. L. 111–383, §2811(a), inserted “(other than a lease or license entered into under section 2667(g) of this title)” after “United States”.
 
 Subsec. (a)(3). Pub. L. 111–383, §2811(f)(1)(B), substituted “the Secretary concerned” for “the Secretary of a military department or the Secretary of Defense” in introductory provisions.
 
 Subsec. (b). Pub. L. 111–383, §2811(b), (e), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “The Secretary of each military department and, with respect to Defense Agencies, the Secretary of Defense shall submit annually to the congressional committees named in subsection (a) a report on transactions described in subsection (a) that involve an estimated value of more than $250,000, but not more than $750,000.”
+
+Subsec. (b)(1), (2)(A), (3)(C), (D). Pub. L. 112–81, §2812(2), substituted “lease, license, or easement” for “lease or license”.
 
 Subsec. (c). Pub. L. 111–383, §2811(c), substituted “Excepted Projects” for “Geographic Scope; Excepted Projects” in heading and “This section does not” for “This section applies only to real property in the United States, Puerto Rico, Guam, the American Virgin Islands, American Samoa, and the Trust Territory of the Pacific Islands. It does not” in text.
 
@@ -258,7 +262,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Reduction or Realignment of Training Bases
 
-Pub. L. 95–485, title VI, §602, Oct. 20, 1978, 92 Stat. 1617, prohibited any action to implement any substantial reduction or force structure realignment of the composite of installations, posts, camps, stations, and bases that had as a primary or secondary mission theconduct of formal entry level, advanced individual, or specialty training as a part of the fiscal year 1979 Defense manpower program unless certain criteria were complied with.
+Pub. L. 95–485, title VI, §602, Oct. 20, 1978, 92 Stat. 1617, prohibited any action to implement any substantial reduction or force structure realignment of the composite of installations, posts, camps, stations, and bases that had as a primary or secondary mission the conduct of formal entry level, advanced individual, or specialty training as a part of the fiscal year 1979 Defense manpower program unless certain criteria were complied with.
 
 #### Closing of Facilities; Closures or Realignments Publicly Announced After September 30, 1977
 

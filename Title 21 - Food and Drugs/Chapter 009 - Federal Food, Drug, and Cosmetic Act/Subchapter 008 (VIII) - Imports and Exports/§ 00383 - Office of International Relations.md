@@ -32,7 +32,7 @@ In carrying out the functions of the office under subsection (a) of this section
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–115 effective 90 days after Nov. 21, 1997, except as otherwise provided, see section 501 of Pub. L. 105–115, set out as a note under section 321 of this title.
+Amendment by Pub. L. 105–115 effective 90 days after Nov. 21, 1997, except as otherwise provided, see section501 of Pub. L. 105–115, set out as a note under section 321 of this title.
 
 #### Report on Activities of Office of International Relations
 

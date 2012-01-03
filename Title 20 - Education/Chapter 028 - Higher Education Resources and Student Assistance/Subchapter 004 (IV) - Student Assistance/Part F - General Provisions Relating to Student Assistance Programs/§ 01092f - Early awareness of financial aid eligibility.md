@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall implement, in cooperation with States, institutions of higher education, secondary schools, early intervention and outreach programs under this subchapter and part C of subchapter I of chapter 34 of title 42, other agencies and organizations involved in student financial assistance and college access, public libraries, community centers, employers, and businesses, a comprehensive system of early financial aid information in order to provide students and families with early information about financial aid and early estimates of such students’ eligibility for financial aid from multiple sources. Such system shall include the activities described in subsection (b).
+The Secretary shall implement, in cooperation with States, institutions of higher education,secondary schools, early intervention and outreach programs under this subchapter and part C of subchapter I of chapter 34 of title 42, other agencies and organizations involved in student financial assistance and college access, public libraries, community centers, employers, and businesses, a comprehensive system of early financial aid information in order to provide students and families with early information about financial aid and early estimates of such students’ eligibility for financial aid from multiple sources. Such system shall include the activities described in subsection (b).
 
 #### (b) Communication of availability of aid and aid eligibility
 
@@ -36,7 +36,7 @@ The Secretary shall implement, in cooperation with States, institutions of highe
 
 #### References in Text
 
-The Food and Nutrition Act of 2008, referred to in subsec. (b)(1)(A), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat.703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food and Nutrition Act of 2008, referred to in subsec. (b)(1)(A), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 #### Amendments
 

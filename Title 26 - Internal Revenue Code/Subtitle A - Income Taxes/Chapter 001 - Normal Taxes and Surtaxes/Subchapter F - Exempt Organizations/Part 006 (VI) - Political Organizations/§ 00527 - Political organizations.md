@@ -194,7 +194,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of this subsection, the term “principal campaign committee” means the political committee designated by a candidate for Congress as his principal campaign committee for purposes of—
+&emsp;&emsp;For purposes of this subsection, the term “principal campaign committee” means thepolitical committee designated by a candidate for Congress as his principal campaign committee for purposes of—
 
 &emsp;&emsp;&emsp;(i) section 302(e) of the Federal Election Campaign Act of 1971 (2 U.S.C. 432(e)), and
 
@@ -242,7 +242,7 @@ For purposes of this section—
 
 #### (4) Effect of failure
 
-&emsp;In the case of an organization failing to meet the requirements of paragraph (1) for anyperiod, the taxable income of such organization shall be computed by taking into account any exempt function income (and any deductions directly connected with the production of such income) or, in the case of a failure relating to a material change, by taking into account such income and deductions only during the period beginning on the date on which the material change occurs and ending on the date on which notice is given under this subsection. For purposes of the preceding sentence, the term “exempt function income” means any amount described in a subparagraph of subsection (c)(3), whether or not segregated for use for an exempt function.
+&emsp;In the case of an organization failing to meet the requirements of paragraph (1) for any period, the taxable income of such organization shall be computed by taking into account any exempt function income (and any deductions directly connected with the production of such income) or, in the case of a failure relating to a material change, by taking into account such income and deductions only during the period beginning on the date on which the material change occurs and ending on the date on which notice is given under this subsection. For purposes of the preceding sentence, the term “exempt function income” means any amount described in a subparagraph of subsection (c)(3), whether or not segregated for use for an exempt function.
 
 #### (5) Exceptions
 
@@ -458,7 +458,7 @@ Pub. L. 107–276, §6(h)(4)–(6), Nov. 2, 2002, 116 Stat. 1934, provided that:
 
 Subsections (e)(1)
 
-and (f).—The amendments made by subsections (e)(1) and (f) \[amending this section\] shall apply to reports and notices required to be filed more than 30 days after the date of the enactment of this Act \[Nov. 2, 2002\].
+and (f).—The amendments made by subsections (e)(1) and (f) \[amending this section\] shall apply to reports and notices required to befiled more than 30 days after the date of the enactment of this Act \[Nov. 2, 2002\].
 
 “(5)
 
@@ -520,7 +520,7 @@ Section 128(b) of Pub. L. 97–34 provided that: “The amendments made by this 
 
 #### Effective Date of 1978 Amendment
 
-Amendment by section 301(b)(6) of Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978,see section 301(c) of Pub. L. 95–600, set out as a note under section 11 of this title.
+Amendment by section 301(b)(6) of Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 301(c) of Pub. L. 95–600, set out as a note under section 11 of this title.
 
 #### Effective Date of 1978 Amendment; Election Campaign Contributions; Collateral
 

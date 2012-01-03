@@ -40,7 +40,7 @@ Order mandatory.—(A) The issuance of a restitution order under this section is
 
 &emsp;&emsp;(i) the economic circumstances of the defendant; or
 
-&emsp;&emsp;(ii) the fact that a victim has, or is entitled to, receive compensation for his or her injuries from the proceeds of insurance or any other source.
+&emsp;&emsp;(ii) the fact that a victim has, or is entitled to, receive compensation for his or herinjuries from the proceeds of insurance or any other source.
 
 (c)
 
@@ -58,7 +58,7 @@ Subsec. (b)(1). Pub. L. 104–132, §205(b)(2)(A), reenacted heading without cha
 
 &emsp;“(B) the United States Attorney enforce the restitution order by all available and reasonable means.”
 
-Subsec. (b)(2). Pub. L. 104–132, §205(b)(2)(B), struck out “by victim” after “Enforcement” in heading andamended text generally. Prior to amendment, text read as follows: “An order of restitution also may be enforced by a victim named in the order to receive the restitution in the same manner as a judgment in a civil action.”
+Subsec. (b)(2). Pub. L. 104–132, §205(b)(2)(B), struck out “by victim” after “Enforcement” in heading and amended text generally. Prior to amendment, text read as follows: “An order of restitution also may be enforced by a victim named in the order to receive the restitution in the same manner as a judgment in a civil action.”
 
 Subsec. (b)(4)(C), (D). Pub. L. 104–132, §205(b)(2)(C), struck out subpars. (C) and (D), which related to court's consideration of economic circumstances of defendant in determining schedule of payment of restitution orders, and court's entry of nominal restitution awards where economic circumstances of defendant do not allow for payment of restitution, respectively.
 

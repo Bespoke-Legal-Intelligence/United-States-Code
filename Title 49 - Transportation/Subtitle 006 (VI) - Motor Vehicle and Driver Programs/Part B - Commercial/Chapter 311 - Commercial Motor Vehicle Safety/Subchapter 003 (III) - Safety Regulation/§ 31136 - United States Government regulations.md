@@ -40,7 +40,7 @@ Limitations on Municipality and Commercial Zone Exemptions and Waivers.—(1) Th
 
 &emsp;(A) exempt a person or commercial motor vehicle from a regulation related to commercial motor vehicle safety only because the operations of the person or vehicle are entirely in a municipality or commercial zone of a municipality; or
 
-&emsp;(B) waive application to a person or commercial motor vehicle of a regulation related to commercial motor vehicle safety only because the operations of the person or vehicle are entirely in a municipality or commercial zone of a municipality.
+&emsp;(B) waive application to a person or commercial motor vehicle of a regulation related tocommercial motor vehicle safety only because the operations of the person or vehicle are entirely in a municipality or commercial zone of a municipality.
 
 (2) If a person was authorized to operate a commercial motor vehicle in a municipality or commercial zone of a municipality in the United States for the entire period from November 19, 1987, through November 18, 1988, and if the person is otherwise qualified to operate a commercial motor vehicle, the person may operate a commercial motor vehicle entirely in a municipality or commercial zone of a municipality notwithstanding—
 
@@ -148,7 +148,7 @@ Transportation of agricultural commodities and farm supplies.—Regulations pres
 
 &emsp;“(2)
 
-Transportation and operation of ground water well drilling rigs.—Such regulations shall, in the case of a driver of a commercial motor vehicle who is used primarily in the transportation and operation of a ground water well drilling rig, permit any period of 7 or 8 consecutive days to end with the beginning of an off-duty period of 24 or more consecutive hours for the purposes of determining maximum driving and on-duty time. Except as required in section 395.3 of title 49, Code of Federal Regulations, as in effect on the date of enactment of this sentence \[Aug. 10, 2005\], no additional off-duty time shall be required in order to operate such vehicle.
+Transportation and operation of ground water well drilling rigs.—Such regulations shall, in the case of a driver of a commercial motor vehicle who is used primarily in the transportation and operation of a ground water well drilling rig, permit any period of 7 or 8 consecutive days to end with the beginning of an off-duty period of 24 or more consecutive hours for the purposes of determining maximumdriving and on-duty time. Except as required in section 395.3 of title 49, Code of Federal Regulations, as in effect on the date of enactment of this sentence \[Aug. 10, 2005\], no additional off-duty time shall be required in order to operate such vehicle.
 
 &emsp;“(3)
 
@@ -234,7 +234,7 @@ Propane or pipeline emergency.—A regulation prescribed under section 31136 or 
 
 &emsp;“(2)
 
-Definition.—An emergency condition requiring immediate response is any condition that, if left unattended, is reasonably likely to result in immediate serious bodily harm, death, or substantial damage to property. In the case of propane such conditions shall include (but are not limited to) the detection of gas odor, the activation of carbon monoxide alarms, the detection of carbon monoxide poisoning, and any real or suspected damage to a propane gas system following a severe storm or flooding. An ‘emergency condition requiring an immediate response’ does not include requests to re-fill empty gas tanks. In the case of pipelines such conditions include (but are not limited to) indication of an abnormal pressure event, leak, release or rupture.”
+Definition.—An emergency condition requiring immediate response is any condition that, if left unattended, is reasonably likely to result in immediate serious bodily harm, death, or substantial damage to property. In the case of propane such conditions shall include (but are not limited to) the detection of gas odor, the activation of carbon monoxide alarms, the detection of carbon monoxide poisoning, and any realor suspected damage to a propane gas system following a severe storm or flooding. An ‘emergency condition requiring an immediate response’ does not include requests to re-fill empty gas tanks. In the case of pipelines such conditions include (but are not limited to) indication of an abnormal pressure event, leak, release or rupture.”
 
 #### Protection of Existing Exemptions
 
@@ -310,7 +310,7 @@ Review by Secretary.—Within 90 days after the completion of the pilot program,
 
 &emsp;“(1) permit a State to grant waivers of the regulations referred to in subsection (a) to motor carriers transporting home heating oil within the borders of the State, subject to such conditions as the Secretary may impose, if the Secretary determines that such waivers by the State meet the conditions in section 31136(e) of title 49, United States Code; or
 
-&emsp;“(2) amend the regulations referred to in subsection (a) as may be necessary to provide flexibility tomotor carriers delivering home heating oil during winter periods of peak demand.
+&emsp;“(2) amend the regulations referred to in subsection (a) as may be necessary to provide flexibility to motor carriers delivering home heating oil during winter periods of peak demand.
 
 “(f)
 

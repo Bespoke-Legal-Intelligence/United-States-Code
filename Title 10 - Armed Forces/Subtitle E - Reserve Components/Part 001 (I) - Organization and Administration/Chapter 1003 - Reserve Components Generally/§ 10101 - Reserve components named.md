@@ -42,6 +42,34 @@ Chapter effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
+#### Behavioral Health Support
+
+Pub. L. 112–81, div. A, title VII, §703(b), Dec. 31, 2011, 125 Stat. 1471, provided that:
+
+“(1)
+
+In general.—Each member of a reserve component of the Armed Forces participating in annual training or individual duty training shall have access, while so participating, to the behavioral health support programs for members of the reserve components described in paragraph (2).
+
+“(2)
+
+Behavioral health support programs.—The behavioral health support programs for members of the reserve components described in this paragraph shall include one or any combination of the following:
+
+&emsp;“(A) Programs providing access to licensed mental health providers in armories, reserve centers, or other places for scheduled unit training assemblies.
+
+&emsp;“(B) Programs providing training on suicide prevention and post-suicide response.
+
+&emsp;“(C) Psychological health programs.
+
+&emsp;“(D) Such other programs as the Secretary of Defense, in consultation with the Surgeon General for the National Guard of the State in which the members concerned reside, the Director of Psychological Health of the State in which the members concerned reside, the Department of Mental Health or the equivalent agency of the State in which the members concerned reside, or the Director of the Psychological Health Program of the National Guard Bureau, considers appropriate.
+
+“(3)
+
+Funding.—Behavioral health support programs provided to members of the reserve components under this subsection shall be provided using amounts made available for operation and maintenance for the reserve components.
+
+“(4)
+
+State defined.—In this subsection, the term ‘State’ has the meaning given that term in section 10001 of title 10, United States Code.”
+
 #### Limitation on Scheduling of Mobilization or Pre-Mobilization Training for Reserve Units When Certain Suspension of Training is Likely
 
 Pub. L. 111–84, div. A, title V, §514, Oct. 28, 2009, 123 Stat. 2282, provided that:
@@ -92,7 +120,7 @@ Pub. L. 111–84, div. A, title V, §597(b), Oct. 28, 2009, 123 Stat. 2344, prov
 
 &emsp;“(5) A description of current strategies to mitigate difficulties in sustaining attendance at events under the Yellow Ribbon Reintegration Program, and an explanation why funds, if any, that are available for the Yellow Ribbon Reintegration Program but remain unexpended have not been used for the Yellow Ribbon Reintegration Program.”
 
-Pub. L. 110–181, div. A, title V, §582, Jan. 28, 2008, 122 Stat. 122, as amended by Pub. L. 111–84, div. A, title V, §595, Oct. 28, 2009, 123 Stat. 2338; Pub. L. 111–383, div. A, title V, §583, Jan. 7, 2011, 124 Stat. 4228, provided that:
+Pub. L. 110–181, div. A, title V, §582, Jan. 28, 2008, 122 Stat. 122, as amended by Pub. L. 111–84, div. A, title V, §595, Oct. 28, 2009, 123 Stat. 2338; Pub. L. 111–383, div. A, title V, §583, Jan. 7, 2011, 124 Stat. 4228; Pub. L. 112–81, div. A, title V, §590, Dec. 31, 2011, 125 Stat. 1438, provided that:
 
 “(a)
 
@@ -100,7 +128,7 @@ Establishment of Program.—The Secretary of Defense shall establish a national 
 
 “(b)
 
-Purpose of Program; Deployment Cycle.—The Yellow Ribbon Reintegration Program shall consist of informational events and activities for members of the reserve components of the Armed Forces, their families, and community members to facilitate access to services supporting their health and well-being through the 4 phases of the deployment cycle:
+Purpose of Program; Deployment Cycle.—The Yellow Ribbon Reintegration Program shall consist of informational events and activities (including programs of outreach) for members of the reserve components of the Armed Forces, their families, and community members to facilitate access to services supporting their health and well-being through the 4 phases of the deployment cycle:
 
 &emsp;“(1) Pre-Deployment.
 
@@ -132,7 +160,15 @@ Partnerships and access.—The office may enter into partnerships with other pub
 
 &emsp;“(2)
 
-Center for excellence in reintegration.—The Office for Reintegration Programs shall establish a Center for Excellence in Reintegration within the office. The Center shall collect and analyze ‘lessons learned’ and suggestions from State National Guard and Reserve organizations with existing or developing reintegration programs. The Center shall also assist in developing training aids and briefing materials and training representatives from State National Guard and Reserve organizations. The Center shall develop and implement a process for evaluating the effectiveness of the Yellow Ribbon Reintegration Program in supporting the health and well-being of members of the Armed Forces and their families throughout the deployment cycle described in subsection (g).
+Center for excellence in reintegration.—The Office for Reintegration Programs shall establish a Center for Excellence in Reintegration within the office. The Center shall have the following functions:
+
+&emsp;&emsp;“(A) To collect and analyze ‘lessons learned’ and suggestions from State National Guard and Reserve organizations with existing or developing reintegration programs.
+
+&emsp;&emsp;“(B) To assist in developing training aids and briefing materials and training representatives from State National Guard and Reserve organizations.
+
+&emsp;&emsp;“(C) To develop and implement a process for evaluating the effectiveness of the Yellow Ribbon Reintegration Program in supporting the health and well-being of members of the Armed Forces and their families throughout the deployment cycle described in subsection (g).
+
+&emsp;&emsp;“(D) To develop and implement a process for identifying best practices in the delivery of information and services in programs of outreach as described in subsection (j).
 
 “(e)
 
@@ -148,7 +184,7 @@ Schedule.—The advisory board shall meet on a schedule determined by the Secret
 
 &emsp;“(3)
 
-Initial reporting requirement.—The advisory board shall issue internal reports as necessary and shall submit an initial report to the Committees on Armed Services of the Senate and House of Representatives not later than 180 days after the end of the 1-year period beginning on the date of the establishment of the Office for Reintegration Programs. The report shall contain—
+Initial reporting requirement.—The advisory board shall issue internal reports as necessary and shall submit an initial report to the Committees on Armed Services of the Senate and House of Representatives not later than 180 days after the end ofthe 1-year period beginning on the date of the establishment of the Office for Reintegration Programs. The report shall contain—
 
 &emsp;&emsp;“(A) an evaluation of the implementation of the Yellow Ribbon Reintegration Program by State National Guard and Reserve organizations;
 
@@ -176,7 +212,7 @@ Operation of Program Through Deployment Cycle.—
 
 &emsp;“(1)
 
-In general.—The Office for Reintegration Programs shall analyze the demographics, placement of State Family Assistance Centers and their resources before a mobilization alert is issued to affected State National Guard and Reserve organizations. The Officeof Reintegration Programs shall consult with affected State National Guard and Reserve organizations following the issuance of a mobilization alert and implement the reintegration events in accordance with the Reintegration Program phase model.
+In general.—The Office for Reintegration Programs shall analyze the demographics, placement of State Family Assistance Centers and their resources before a mobilization alert is issued to affected State National Guard and Reserve organizations. The Office of Reintegration Programs shall consult with affected State National Guard and Reserve organizations following the issuance of a mobilization alert and implement the reintegration events in accordance with the Reintegration Program phase model.
 
 &emsp;“(2)
 
@@ -296,7 +332,15 @@ Collaboration with centers of excellence.—The Office for Reintegration Program
 
 &emsp;“(4)
 
-Termination.—The program established under this subsection shall terminate on October 1, 2012.”
+Termination.—The program established under this subsection shall terminate on October 1, 2012.
+
+“(j)
+
+State-led Programs of Outreach.—The Office for Reintegration Programs may work with the States, whether acting through or in coordination with their National Guard and Reserve organizations, to assist the States and such organizations in developing and carrying out programs of outreach for members of the Armed Forces and their families to inform and educate them on the assistance and services available to them under the Yellow Ribbon Reintegration Program, including the assistance and services described in subsection (h).
+
+“(k)
+
+Scope of Activities Under Programs of Outreach.—For purposes of this section, the activities and services provided under programs of outreach may include personalized and substantive care coordination services targeted specifically to individual members of the Armed Forces and their families.”
 
 #### Pilot Program on Enhanced Quality of Life for Members of the Army Reserve and Their Families
 

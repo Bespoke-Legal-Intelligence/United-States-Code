@@ -16,9 +16,9 @@ For definition of “this chapter”, referred to in text, see note set out unde
 
 #### Amendments
 
-2002—Pub. L. 107–171 substituted “lowest of—” for “lower of”, realigned margins for pars., substituted “original loan;” for “original loan or (2) the”, added par. (2), and redesignated former par. (2) as (3).
+<b>2002</b>—Pub. L. 107–171 substituted “lowest of—” for “lower of”, realigned margins for pars., substituted “original loan;” for “original loan or (2) the”, added par. (2), and redesignated former par. (2) as (3).
 
 #### Adjustment of Interest Rates
 
-Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 428, provided that: “The Secretary may adjust interest rateson existing nonsubsidized loans if he determines such interest rates are excessive in relation to prevailing commercial rates for comparable loans: <i>Provided</i>, That such rate adjustments shall constitute a change in the loan agreement and not a new loan.”
+Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 428, provided that: “The Secretary may adjust interest rates on existing nonsubsidized loans if he determines such interest rates are excessive in relation to prevailing commercial rates for comparable loans: <i>Provided</i>, That such rate adjustments shall constitute a change in the loan agreement and not a new loan.”
 

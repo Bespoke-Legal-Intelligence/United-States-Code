@@ -68,7 +68,7 @@ The Secretary of Energy may, using funds authorized to be appropriated by sectio
 
 #### (d) Use of funds for termination of contract
 
-Not later than 15 days before the Secretary obligates funds available for a project authorized by section 3102(i) of the National Defense Authorization Act for Fiscal Year 1998 (Public Law 105–85) to terminate the contract for the project under subsection (a), the Secretary shall notifythe congressional defense committees of the Secretary's intent to obligate the funds for that purpose.
+Not later than 15 days before the Secretary obligates funds available for a project authorized by section 3102(i) of the National Defense Authorization Act for Fiscal Year 1998 (Public Law 105–85) to terminate the contract for the project under subsection (a), the Secretary shall notify the congressional defense committees of the Secretary's intent to obligate the funds for that purpose.
 
 #### (e) Annual report on contracts
 

@@ -28,7 +28,7 @@ The Office of Justice Programs of the Department of Justice may make grants to e
 
 &emsp;&emsp;(A) assurances that the State in which the government entity is located has in effect laws described in paragraph (1);
 
-&emsp;&emsp;(B) an assessment of the resource needs of the State or local government entity applying for the grant, including information on the need for reimbursements of base salaries and overtime costs, storage fees, and other expenditures to improve the investigation,prevention, or enforcement of laws described in paragraph (1); and
+&emsp;&emsp;(B) an assessment of the resource needs of the State or local government entity applying for the grant, including information on the need for reimbursements of base salaries and overtime costs, storage fees, and other expenditures to improve the investigation, prevention, or enforcement of laws described in paragraph (1); and
 
 &emsp;&emsp;(C) a plan for coordinating the programs funded under this section with other federally funded technical assistance and training programs, including directly funded local programs such as the Edward Byrne Memorial Justice Assistance Grant Program authorized by subpart 1 of part E of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3750 et seq.).
 

@@ -6,13 +6,13 @@ Except in the case of an increase described in paragraph (1), (2), (3), or (4) o
 
 #### (b) Promotional rate minimum term
 
-No increase in any annual percentage rate applicable to a credit card account under an open end consumer credit plan that is a promotional rate (as that term is defined by the Board) shall be effective before the end of the 6-month period beginning on the date on which the promotional rate takes effect, subject to such reasonable exceptions as the Board may establish, by rule.
+No increase in any annual percentage rate applicable to a credit card account under an open end consumer credit plan that is a promotional rate (as that term is defined by the Bureau) shall be effective before the end of the 6-month period beginning on the date on which the promotional rate takes effect, subject to such reasonable exceptions as the Bureau may establish, by rule.
 
 (Pub. L. 90–321, title I, §172, as added Pub. L. 111–24, title I, §101(d), May 22, 2009, 123 Stat. 1738; amended Pub. L. 111–203, title X, §1100A(2), July 21, 2010, 124 Stat. 2107.)
 
-#### Amendment of Section
+#### Amendments
 
-<i>Pub. L. 111–203, title X, §1100A(2), 1100H, July 21, 2010, 124 Stat. 2107, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Board” each place that term appears and inserting “Bureau”. See Effective Date of 2010 Amendment note below.</i>
+<b>2010</b>—Subsec. (b). Pub. L. 111–203 substituted “Bureau” for “Board” in two places.
 
 #### Effective Date of 2010 Amendment
 

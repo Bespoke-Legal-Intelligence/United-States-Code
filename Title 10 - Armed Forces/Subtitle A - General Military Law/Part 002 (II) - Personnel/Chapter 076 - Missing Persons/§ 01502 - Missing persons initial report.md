@@ -2,7 +2,7 @@
 
 (a)
 
-Preliminary Assessment and Recommendation by Commander.—After receiving information that the whereabouts and status of a person described in section 1501(c) of this title isuncertain and that the absence of the person may be involuntary, the commander of the unit, facility, or area to or in which the person is assigned shall make a preliminary assessment of the circumstances. If, as a result of that assessment, the commander concludes that the person is missing, the commander shall—
+Preliminary Assessment and Recommendation by Commander.—After receiving information that the whereabouts and status of a person described in section 1501(c) of this title is uncertain and that the absence of the person may be involuntary, the commander of the unit, facility, or area to or in which the person is assigned shall make a preliminary assessment of the circumstances. If, as a result of that assessment, the commander concludes that the person is missing, the commander shall—
 
 &emsp;(1) recommend that the person be placed in a missing status; and
 
@@ -28,7 +28,7 @@ Subsec. (b). Pub. L. 104–201, §578(b)(1)(D), struck out at end “The theater
 
 Pub. L. 104–201, §578(b)(1)(B), (C), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “
 
-Transmission Through Theater Component Commander.—Upon reviewing a report under subsection (a) recommending that a person be placed in a missing status, the theater component commander shall ensure that all necessary actions are being taken, and all appropriate assets are being used, to resolve the status of the missing person. Not later than 14 days after receiving the report, the theater component commander shall forward the report to the Secretary of Defense or the Secretary concerned in accordance with procedures prescribed under section 1501(b) of this title. The theater component commander shall include with such report a certification that all necessary actions are being taken, and all appropriate assets are being used, to resolve the status of the missing person.”
+Transmission Through Theater Component Commander.—Upon reviewing a report under subsection (a) recommending that a person be placed in amissing status, the theater component commander shall ensure that all necessary actions are being taken, and all appropriate assets are being used, to resolve the status of the missing person. Not later than 14 days after receiving the report, the theater component commander shall forward the report to the Secretary of Defense or the Secretary concerned in accordance with procedures prescribed under section 1501(b) of this title. The theater component commander shall include with such report a certification that all necessary actions are being taken, and all appropriate assets are being used, to resolve the status of the missing person.”
 
 Subsec. (c). Pub. L. 104–201, §578(b)(1)(C), redesignated subsec. (c) as (b).
 

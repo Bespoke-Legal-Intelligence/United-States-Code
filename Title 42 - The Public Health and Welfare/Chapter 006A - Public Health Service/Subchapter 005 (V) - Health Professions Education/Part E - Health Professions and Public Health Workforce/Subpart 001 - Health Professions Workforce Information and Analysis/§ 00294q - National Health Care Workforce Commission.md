@@ -66,7 +66,7 @@ There is hereby established the National Health Care Workforce Commission (in th
 
 #### (D) Ethical disclosure
 
-&emsp;&emsp;The Comptroller General shall establish a system for public disclosure by members of the Commission of financial and other potential conflicts of interest relating to such members. Members of the Commission shall be treated as employees of Congress for purposes of applying title I of the Ethics in Government Act of 1978 \[5 U.S.C. App.\]. Members of the Commission shall not be treated as special government employees under title 18.
+&emsp;&emsp;The Comptroller General shall establish a system for public disclosure by members ofthe Commission of financial and other potential conflicts of interest relating to such members. Members of the Commission shall be treated as employees of Congress for purposes of applying title I of the Ethics in Government Act of 1978 \[5 U.S.C. App.\]. Members of the Commission shall not be treated as special government employees under title 18.
 
 #### (3) Terms
 
@@ -84,7 +84,7 @@ There is hereby established the National Health Care Workforce Commission (in th
 
 #### (4) Compensation
 
-&emsp;While serving on the business of the Commission (including travel time), a member of the Commission shall be entitled to compensation at the per diem equivalent of the rate provided for level IV of the Executive Schedule under section 5315 of tile <sup>1</sup> 5, and while soserving away from home and the member's regular place of business, a member may be allowed travel expenses, as authorized by the Chairman of the Commission. Physicians serving as personnel of the Commission may be provided a physician comparability allowance by the Commission in the same manner as Government physicians may be provided such an allowance by an agency under section 5948 of title 5, and for such purpose subsection (i) of such section shall apply to the Commission in the same manner as it applies to the Tennessee Valley Authority. For purposes of pay (other than pay of members of the Commission) and employment benefits, rights, and privileges, all personnel of the Commission shall be treated as if they were employees of the United States Senate. Personnel of the Commission shall not be treated as employees of the Government Accountability Office for any purpose.
+&emsp;While serving on the business of the Commission (including travel time), a member of the Commission shall be entitled to compensation at the per diem equivalent of the rate provided for level IV of the Executive Schedule under section 5315 of tile <sup>1</sup> 5, and while so serving away from home and the member's regular place of business, a member may be allowed travel expenses, as authorized by the Chairman of the Commission. Physicians serving as personnel of the Commission may be provided a physician comparability allowance by the Commission in the same manner as Government physicians may be provided such an allowance by an agency under section 5948 of title 5, and for such purpose subsection (i) of such section shall apply to the Commission in the same manner as it applies to the Tennessee Valley Authority. For purposes of pay (other than pay of members of the Commission) and employment benefits, rights, and privileges, all personnel of the Commission shall be treated as if they were employees of the United States Senate. Personnel of the Commission shall not be treated as employees of the Government Accountability Office for any purpose.
 
 #### (5) Chairman, Vice Chairman
 
@@ -126,7 +126,7 @@ There is hereby established the National Health Care Workforce Commission (in th
 
 &emsp;&emsp;(B) health care workforce education and training capacity, including the number of students who have completed education and training, including registered apprenticeships; the number of qualified faculty; the education and training infrastructure; and the education and training demands, with projected demands during the subsequent 10 and 25 year periods;
 
-&emsp;&emsp;(C) the education loan and grant programs in titles VII and VIII of the Public Health Service Act (42 U.S.C. 292 et seq. and 296 et seq.), with recommendations on whether such programs should become part of the Higher Education Act of 1965 (20 U.S.C. 1001 et seq\[., 42 U.S.C. 2751 et seq.\]);
+&emsp;&emsp;(C) the education loan and grant programs in titles VII and VIII of the Public Health Service Act (42 U.S.C. 292 et seq. and 296 etseq.), with recommendations on whether such programs should become part of the Higher Education Act of 1965 (20 U.S.C. 1001 et seq\[., 42 U.S.C. 2751 et seq.\]);
 
 &emsp;&emsp;(D) the implications of new and existing Federal policies which affect the health care workforce, including Medicare and Medicaid graduate medical education policies, titles VII and VIII of the Public Health Service Act (42 U.S.C. 292 et seq. and 296 et seq.), the National Health Service Corps (with recommendations for aligning such programs with national health workforce priorities and goals), and other health care workforce programs, including those supported through the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.), the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.), the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.\[, 42 U.S.C. 2751 et seq.\]), and any other Federal health care workforce programs;
 
@@ -266,7 +266,7 @@ In this section:
 
 &emsp;The term “health professionals” includes—
 
-&emsp;&emsp;(A) dentists, dental hygienists, primary care providers, specialty physicians, nurses, nurse practitioners, physician assistants, psychologists and other behavioral and mental health professionals (including substance abuse prevention and treatment providers), social workers, physical and occupational therapists, optometrists, ophthalmologists,<sup>4</sup> public health professionals, clinical pharmacists, allied health professionals, doctors of chiropractic, community health workers, school nurses, certified nurse midwives, podiatrists, licensed complementary and alternative medicine providers, the EMS workforce (including professional and volunteer ambulance personnel and firefighters who perform emergency medical services), and integrative health practitioners;
+&emsp;&emsp;(A) dentists, dental hygienists, primary care providers, specialty physicians, nurses, nurse practitioners, physician assistants, psychologists and other behavioral and mental health professionals (including substance abuse prevention and treatment providers), social workers, physical and occupational therapists, optometrists, ophthalmologists,<sup>4</sup>public health professionals, clinical pharmacists, allied health professionals, doctors of chiropractic, community health workers, school nurses, certified nurse midwives, podiatrists, licensed complementary and alternative medicine providers, the EMS workforce (including professional and volunteer ambulance personnel and firefighters who perform emergency medical services), and integrative health practitioners;
 
 &emsp;&emsp;(B) national representatives of health professionals;
 
@@ -301,6 +301,18 @@ Level V of the Executive Schedule, referred to in subsec. (f)(1), is set out in 
 In subsec. (f)(3), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes (41 U.S.C. 5)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 Section was enacted as part of the Patient Protection and Affordable Care Act, and not as part of the Public Health Service Act which comprises this chapter.
+
+#### Prior Provisions
+
+Prior sections 294q to 294q–3 were omitted in the general amendment of this subchapter by Pub. L. 102–408.
+
+Section 294q, act July 1, 1944, ch. 373, title VII, §744, formerly §745, as added Sept. 24, 1963, Pub. L. 88–129, §2(b), 77 Stat. 173; amended Nov. 18, 1971, Pub. L. 92–157, title I, §105(f)(2), 85 Stat. 451; renumbered §744, Oct. 12, 1976, Pub. L. 94–484, title IV, §406(a)(2), 90 Stat. 2268, related to administrative provisions. See section 292u of this title.
+
+Section 294q–1, act July 1, 1944, ch. 373, title VII, §745, as added Oct. 22, 1985, Pub. L. 99–129, title II, §209(h)(2), 99 Stat. 535, related to student loan information to be furnished to students. See section 292v of this title.
+
+Section 294q–2, act July 1, 1944, ch. 373, title VII, §746, as added Oct. 22, 1985, Pub. L. 99–129, title II, §209(h)(2), 99 Stat. 536, related to procedures for appeal of terminations of agreements with schools. See section 292w of this title.
+
+Section 294q–3, act July 1, 1944, ch. 373, title VII, §747, formerly §745, as added and renumbered §747, Oct. 22, 1985, Pub. L. 99–129, title II, §209(a)(4), (h)(1), 99 Stat. 532, 535, defined “school of pharmacy”.
 
 #### Amendments
 
@@ -376,7 +388,7 @@ Postsecondary education.—The term ‘postsecondary education’ means—
 
 &emsp;&emsp;“(A) a 4-year program of instruction, or not less than a 1-year program of instruction that is acceptable for credit toward an associate or a baccalaureate degree, offered by an institution of higher education; or
 
-&emsp;&emsp;“(B) a certificate or registered apprenticeship program at the postsecondary level offered by aninstitution of higher education or a non-profit educational institution.
+&emsp;&emsp;“(B) a certificate or registered apprenticeship program at the postsecondary level offered by an institution of higher education or a non-profit educational institution.
 
 &emsp;“(6)
 

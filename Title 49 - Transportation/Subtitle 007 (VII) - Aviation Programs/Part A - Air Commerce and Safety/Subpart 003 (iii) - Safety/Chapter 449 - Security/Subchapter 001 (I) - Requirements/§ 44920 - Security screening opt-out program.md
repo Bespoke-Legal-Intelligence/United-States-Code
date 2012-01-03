@@ -26,7 +26,7 @@ Supervision of Screened Personnel.—The Under Secretary shall provide Federal G
 
 (f)
 
-Termination of Contracts.—The Under Secretary may terminate any contract entered into with a private screening company to provide screening services at an airport under this section if the Under Secretary finds that the company has failed repeatedly to comply with any standard, regulation, directive, order, law, or contract applicable to the hiring or training of personnel to provide such services or to the provision of screening at the airport.
+Termination of Contracts.—The Under Secretary may terminate any contract entered into with a private screening company to provide screening services at an airport under this section if the Under Secretary finds that the company has failed repeatedly to comply with any standard, regulation, directive, order, law, or contract applicable to the hiring or trainingof personnel to provide such services or to the provision of screening at the airport.
 
 (g)
 

@@ -1,6 +1,6 @@
 ### §4313. Criteria for performance appraisals
 
-Appraisals of performance in the Senior Executive Service shall be based on both individual and organizational performance, taking into account such factors as—
+Appraisals of performance in the Senior Executive Service shall be based on both individualand organizational performance, taking into account such factors as—
 
 &emsp;(1) improvements in efficiency, productivity, and quality of work or service, including any significant reduction in paperwork;
 
@@ -16,5 +16,5 @@ Appraisals of performance in the Senior Executive Service shall be based on both
 
 #### Amendments
 
-1994—Par. (5). Pub. L. 103–424 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “meeting affirmative action goals and achievement of equal employment opportunity requirements.”
+<b>1994</b>—Par. (5). Pub. L. 103–424 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “meeting affirmative action goals and achievement of equal employment opportunity requirements.”
 

@@ -86,13 +86,13 @@ Congressional notification.—No later than 180 days after receiving the second 
 
 &emsp;(4)
 
-Full portability.—Each master contract under this chapter shall include such provisions as may be necessary to ensure that, once an individual becomes duly enrolled, long-term care insurance coverage obtained by such individual pursuant to that enrollment shall not be terminated due to any change in status (such as separation from Government service or the uniformed services) or ceasing to meet the requirements for being considered a qualified relative (whether as a result of dissolution of marriage or otherwise).
+Full portability.—Each master contract under this chapter shall include such provisions as may be necessary to ensure that, once an individual becomes duly enrolled, long-term care insurance coverage obtained by such individual pursuant to that enrollmentshall not be terminated due to any change in status (such as separation from Government service or the uniformed services) or ceasing to meet the requirements for being considered a qualified relative (whether as a result of dissolution of marriage or otherwise).
 
 (Added Pub. L. 106–265, title I, §1002(a), Sept. 19, 2000, 114 Stat. 764; amended Pub. L. 111–350, §5(a)(18), Jan. 4, 2011, 124 Stat. 3842.)
 
 #### Amendments
 
-2011—Subsec. (a). Pub. L. 111–350, §5(a)(18)(A), substituted “section 6101(b) to (d) of title 41” for “section 5 of title 41”.
+<b>2011</b>—Subsec. (a). Pub. L. 111–350, §5(a)(18)(A), substituted “section 6101(b) to (d) of title 41” for “section 5 of title 41”.
 
 Subsec. (c)(3). Pub. L. 111–350, §5(a)(18)(B), substituted “chapter 71 of title 41” for “the Contract Disputes Act of 1978” in introductory provisions.
 

@@ -44,7 +44,7 @@ If an individual is an inpatient of a psychiatric hospital on the first day of t
 
 (2)(A) Except as provided in subparagraphs (B) and (C) and except in such exceptional and unusual circumstances as the Secretary may provide, if an individual makes such an election for a period with respect to a particular hospice program, the individual shall be deemed to have waived all rights to have payment made under this subchapter with respect to—
 
-&emsp;(i) hospice care provided by another hospice program (other than under arrangements made by the particular hospice program) during the period, and
+&emsp;(i) hospice care provided by another hospice program (other than under arrangementsmade by the particular hospice program) during the period, and
 
 &emsp;(ii) services furnished during the period that are determined (in accordance with guidelines of the Secretary) to be—
 
@@ -70,7 +70,7 @@ For purposes of subsections (b) and (c) of this section, inpatient hospital serv
 
 #### (f) Coverage of extended care services without regard to three-day prior hospitalization requirement
 
-(1) The Secretary shall provide for coverage, under clause (B) of subsection (a)(2) of this section, of extended care services which are notpost-hospital extended care services at such time and for so long as the Secretary determines, and under such terms and conditions (described in paragraph (2)) as the Secretary finds appropriate, that the inclusion of such services will not result in any increase in the total of payments made under this subchapter and will not alter the acute care nature of the benefit described in subsection (a)(2) of this section.
+(1) The Secretary shall provide for coverage, under clause (B) of subsection (a)(2) of this section, of extended care services which are not post-hospital extended care services at such time and for so long as the Secretary determines, and under such terms and conditions (described in paragraph (2)) as the Secretary finds appropriate, that the inclusion of such services will not result in any increase in the total of payments made under this subchapter and will not alter the acute care nature of the benefit described in subsection (a)(2) of this section.
 
 (2) The Secretary may provide—
 
@@ -85,10 +85,6 @@ For purposes of subsections (b) and (c) of this section, inpatient hospital serv
 For definitions of “spell of illness”, and for definitions of other terms used in this part, see section 1395x of this title.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1812, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 291; amended Pub. L. 90–248, title I, §§129(c)(2), 137(a), 138(a), 143(b), 146(a), Jan. 2, 1968, 81 Stat. 847, 853, 854, 857, 859; Pub. L. 96–499, title IX, §§930(b)–(d), 931(a), Dec. 5, 1980, 94 Stat. 2631, 2633; Pub. L. 97–35, title XXI, §2121(a), Aug. 13, 1981, 95 Stat. 796; Pub. L. 97–248, title I, §§122(b), 123, Sept. 3, 1982, 96 Stat. 356, 364; Pub. L. 97–448, title III, §309(b)(5), Jan. 12, 1983, 96 Stat. 2409; Pub. L. 100–360, title I, §101, July 1, 1988, 102 Stat. 684; Pub. L. 101–234, title I, §101(a), Dec. 13, 1989, 103 Stat. 1979; Pub. L. 101–239, title VI, §6003(g)(3)(B)(i), Dec. 19, 1989, 103 Stat. 2152; Pub. L. 101–508, title IV, §4006(a), Nov. 5, 1990, 104 Stat. 1388–43; Pub. L. 103–432, title I, §102(g)(1), Oct. 31, 1994, 108 Stat. 4404; Pub. L. 105–33, title IV, §§4201(c)(1), 4443(a), (b)(1), 4611(a), Aug. 5, 1997, 111 Stat. 373, 423, 472; Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(k)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–366; Pub. L. 108–173, title V, §512(a), title VII, §736(c)(1), Dec. 8, 2003, 117 Stat. 2299, 2356.)
-
-#### References in Text
-
-Part B of this subchapter, referred to in subsec. (a)(3), is classified to section 1395j et seq. of this title.
 
 #### Amendments
 
@@ -110,7 +106,7 @@ Subsec. (d)(1). Pub. L. 105–33, §4443(a), substituted “and an unlimited num
 
 Subsec. (d)(2)(B). Pub. L. 105–33, §4443(b)(1), substituted “90-day period or a subsequent 60-day period” for “90- or 30-day period or a subsequent extension period”.
 
-<b>1994</b>—Subsec. (a)(1). Pub. L. 103–432 substituted “inpatient hospital services or inpatient rural primary care hospital services” for “inpatient hospital services” before “for up to 150 days” and “such services” for “inpatient hospital services” before “in excess of 90” and struck out “and inpatient rural primary care hospital services” after “such payment made)”.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–432 substituted “inpatient hospital services or inpatient rural primary carehospital services” for “inpatient hospital services” before “for up to 150 days” and “such services” for “inpatient hospital services” before “in excess of 90” and struck out “and inpatient rural primary care hospital services” after “such payment made)”.
 
 <b>1990</b>—Subsec. (a)(4). Pub. L. 101–508, §4006(a)(1), substituted “90 days each, a subsequent period of 30 days, and a subsequent extension period” for “90 days each and one subsequent period of 30 days”.
 
@@ -226,7 +222,7 @@ In general.—Except as provided in paragraph (2) and subsection (b), the amendm
 
 “(2)
 
-Elimination of post-hospital requirement for extended care services.—The amendments made bythis subtitle, insofar as they eliminate the requirement (under section 1812(a)(2) of the Social Security Act \[subsec. (a)(2) of this section\]) that extended care services are only covered under title XVIII of such Act \[this subchapter\] if they are post-hospital extended care services, shall only apply to extended care services furnished pursuant to an admission to a skilled nursing facility occurring on or after January 1, 1989.”
+Elimination of post-hospital requirement for extended care services.—The amendments made by this subtitle, insofar as they eliminate the requirement (under section 1812(a)(2) of the Social Security Act \[subsec. (a)(2) of this section\]) that extended care services are only covered under title XVIII of such Act \[this subchapter\] if they are post-hospital extended care services, shall only apply to extended care services furnished pursuant to an admission to a skilled nursing facility occurring on or after January 1, 1989.”
 
 #### Effective Date of 1983 Amendment
 
@@ -268,7 +264,7 @@ Establishment.—
 
 &emsp;“(1)
 
-In general.—The Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall establish a Medicare Hospice Concurrent Care demonstration program at participating hospice programs under which Medicare beneficiaries are furnished, during the same period, hospice care and any other items or services covered under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) from funds otherwise paid under such title to such hospice programs.
+In general.—The Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall establish a Medicare Hospice Concurrent Care demonstration program at participating hospice programs under which Medicare beneficiaries are furnished, during the same period, hospice care and any other items or services covered under titleXVIII of the Social Security Act (42 U.S.C. 1395 et seq.) from funds otherwise paid under such title to such hospice programs.
 
 &emsp;“(2)
 
@@ -388,7 +384,7 @@ In general.—For purposes only of computing the monthly premium under section 1
 
 &emsp;“(B)
 
-No impact on government contribution.—Subparagraph (A) does not apply in determining the amount of the Government contribution under section 1844 of the Social Security Act (42 U.S.C. 1395w).”
+No impact on government contribution.—Subparagraph (A) does not apply in determining theamount of the Government contribution under section 1844 of the Social Security Act (42 U.S.C. 1395w).”
 
 #### Repeal of 1988 Expansion of Medicare Part A Benefits
 

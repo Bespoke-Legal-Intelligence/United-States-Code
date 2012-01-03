@@ -10,15 +10,17 @@ The corporation may—
 
 &emsp;(4) establish State and territorial organizations and local chapter or post organizations;
 
-&emsp;(5) acquire, own, lease, encumber, and transfer property as necessary to carry out the purposes of the corporation;
+&emsp;(5) provide guidance and leadership to organizations and local chapters established under paragraph (4), but may not control or otherwise influence the specific activities and conduct of such organizations and local chapters;
 
-&emsp;(6) publish a magazine and other publications;
+&emsp;(6) acquire, own, lease, encumber, and transfer property as necessary to carry out the purposes of the corporation;
 
-&emsp;(7) sue and be sued; and
+&emsp;(7) publish a magazine and other publications;
 
-&emsp;(8) do any other act necessary and proper to carry out the purposes of the corporation.
+&emsp;(8) sue and be sued; and
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1297.)
+&emsp;(9) do any other act necessary and proper to carry out the purposes of the corporation.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1297; Pub. L. 112–66, §1, Dec. 13, 2011, 125 Stat. 768.)
 
 Historical and Revision Notes
 
@@ -55,4 +57,8 @@ Clause (5) is substituted for “to receive, hold, own, use, and dispose of such
 In clause (7), the words “in courts of law and equity” are omitted as unnecessary.
 
 In clause (8), the words “do any other act” are substituted for “generally to do any and all such acts and things” for consistency in the revised title and to eliminate unnecessary words.
+
+#### Amendments
+
+<b>2011</b>—Pars. (5) to (9). Pub. L. 112–66 added par. (5) and redesignated former pars. (5) to (8) as (6) to (9), respectively.
 

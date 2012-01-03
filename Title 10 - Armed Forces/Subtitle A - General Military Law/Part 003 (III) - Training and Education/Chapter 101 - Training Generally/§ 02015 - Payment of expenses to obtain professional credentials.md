@@ -14,3 +14,35 @@ Limitation.—The authority under subsection (a) may not be used to pay the expe
 
 (Added Pub. L. 109–163, div. A, title V, §538(a), Jan. 6, 2006, 119 Stat. 3250.)
 
+#### Pilot Program on Receipt of Civilian Credentialing for Skills Required for Military Occupational Specialties
+
+Pub. L. 112–81, div. A, title V, §558, Dec. 31, 2011, 125 Stat. 1418, provided that:
+
+“(a)
+
+Pilot Program Required.—Commencing not later than nine months after the date of the enactment of this Act \[Dec. 31, 2011\], the Secretary of Defense shall carry out a pilot program to assess the feasibility and advisability of permitting enlisted members of the Armed Forces to obtain civilian credentialing or licensing for skills required for military occupational specialties (MOS) or qualification for duty specialty codes.
+
+“(b)
+
+Elements.—In carrying out the pilot program, the Secretary shall—
+
+&emsp;“(1) designate not less than three or more than five military occupational specialities or duty speciality codes for coverage under the pilot program; and
+
+&emsp;“(2) permit enlisted members of the Armed Forces to obtain the credentials or licenses required for the specialities or codes so designated through civilian credentialing or licensing entities, institutions, or bodies selected by the Secretary for purposes of the pilot program, whether concurrently with military training, at the completion of military training, or both.
+
+“(c)
+
+Duration.—The Secretary shall complete the pilot program by not later than five years after the date of the commencement of the pilot program.
+
+“(d)
+
+Report.—Not later than one year after commencement of the pilot program, the Secretary shall submit to Congress a report on the pilot program. The report shall set forth the following:
+
+&emsp;“(1) The number of enlisted members who participated in the pilot program.
+
+&emsp;“(2) A description of the costs incurred by the Department of Defense in connection with the receipt by members of credentialing or licensing under the pilot program.
+
+&emsp;“(3) A comparison of the cost associated with receipt by members of credentialing or licensing under the pilot program with the cost of receipt of similar credentialing or licensing by recently-discharged veterans of the Armed Forces under programs currently operated by the Department of Veterans Affairs and the Department of Labor.
+
+&emsp;“(4) The recommendation of the Secretary as to the feasibility and advisability of expanding the pilot program to additional military occupational specialties or duty specialty codes, and, if such expansion is considered feasible and advisable, a list of the military occupational specialties and duty specialty codes recommended for inclusion in the expansion.”
+

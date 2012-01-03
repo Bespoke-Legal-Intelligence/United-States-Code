@@ -4,7 +4,7 @@
 
 #### (1) Treatment as a banned hazardous substance
 
-&emsp;Except as expressly provided in subsection (b) beginning on the dates provided in paragraph (2), any children's product (as defined in section 3(a)(16) of the Consumer Product Safety Act (15 U.S.C. 2052(a)(16))) that contains more lead than the limit established by paragraph (2) shall be treated as a banned hazardous substance under the Federal Hazardous Substances Act (15 U.S.C. 1261 et seq.).
+&emsp;Except as expressly provided in subsection (b) beginning on the dates provided in paragraph (2), any children's product (as defined in section 3(a) of the Consumer Product Safety Act (15 U.S.C. 2052(a))) that contains more lead than the limit established by paragraph (2) shall be treated as a banned hazardous substance under the Federal Hazardous Substances Act (15 U.S.C. 1261 et seq.).
 
 #### (2) Lead limit
 
@@ -14,7 +14,7 @@
 
 #### (B) 300 parts per million
 
-&emsp;&emsp;Except as provided by subparagraphs (C), (D), and (E), beginning on the date that is 1year after August 14, 2008, the lead limit referred to in paragraph (1) is 300 parts per million total lead content by weight for any part of the product.
+&emsp;&emsp;Except as provided by subparagraphs (C), (D), and (E), beginning on the date that is 1 year after August 14, 2008, the lead limit referred to in paragraph (1) is 300 parts per million total lead content by weight for any part of the product.
 
 #### (C) 100 parts per million
 
@@ -28,21 +28,67 @@
 
 &emsp;&emsp;The Commission shall, based on the best available scientific and technical information, periodically review and revise downward the limit set forth in this subsection, no less frequently than every 5 years after promulgation of the limit under subparagraph (C) or (D) to require the lowest amount of lead that the Commission determines is technologically feasible to achieve. The amount of lead established by the Commission under the preceding sentence shall be substituted for the lead limit in effect immediately before such revision.
 
+#### (3) Application
+
+&emsp;Each limit set forth in paragraph (2) (except for the limit set forth in subparagraphs (A)and (B)) shall apply only to a children's product (as defined in section 3(a) of the Consumer Product Safety Act (15 U.S.C. 2052(a))) that is manufactured after the effective date of such respective limit.
+
 #### (b) Exclusion of certain materials or products and inaccessible component parts
 
-#### (1) Certain products or materials
+#### (1) Functional purpose exception
 
-&emsp;The Commission may, by regulation, exclude a specific product or material from the prohibition in subsection (a) if the Commission, after notice and a hearing, determines on the basis of the best-available, objective, peer-reviewed, scientific evidence that lead in such product or material will neither—
+#### (A) In general
 
-&emsp;&emsp;(A) result in the absorption of any lead into the human body, taking into account normal and reasonably foreseeable use and abuse of such product by a child, including swallowing, mouthing, breaking, or other children's activities, and the aging of the product; nor
+&emsp;&emsp;The Commission, on its own initiative or upon petition by an interested party, shall grant an exception to the limit in subsection (a) for a specific product, class of product, material, or component part if the Commission, after notice and a hearing, determines that—
 
-&emsp;&emsp;(B) have any other adverse impact on public health or safety.
+&emsp;&emsp;&emsp;(i) the product, class of product, material, or component part requires the inclusion of lead because it is not practicable or not technologically feasible to manufacture such product, class of product, material, or component part, as the case may be, in accordance with subsection (a) by removing the excessive lead or by making the lead inaccessible;
+
+&emsp;&emsp;&emsp;(ii) the product, class of product, material, or component part is not likely to be placed in the mouth or ingested, taking into account normal and reasonably foreseeable use and abuse of such product, class of product, material, or component part by a child; and
+
+&emsp;&emsp;&emsp;(iii) an exception for the product, class of product, material, or component part will have no measurable adverse effect on public health or safety, taking into account normal and reasonably foreseeable use and abuse.
+
+#### (B) Measurement
+
+&emsp;&emsp;For purposes of subparagraph (A)(iii), there is no measurable adverse effect on public health or safety if the exception described in subparagraph (A) will result in no measurable increase in blood lead levels of a child. The Commission may adopt an alternative method of measurement other than blood lead levels if it determines, after notice and a hearing, that such alternative method is a better scientific method for measuring adverse effect on public health and safety.
+
+#### (C) Procedures for granting exception
+
+#### (i) Burden of proof
+
+&emsp;&emsp;&emsp;A party seeking an exception under subparagraph (A) has the burden of demonstrating that it meets the requirements of such subparagraph.
+
+#### (ii) Grounds for decision
+
+&emsp;&emsp;&emsp;In the case where a party has petitioned for an exception, in determining whether to grant the exception, the Commission may base its decision solely on the materials presented by the party seeking the exception and any materials received through notice and a hearing.
+
+#### (iii) Admissible evidence
+
+&emsp;&emsp;&emsp;In demonstrating that it meets the requirements of subparagraph (A), a party seeking an exception under such subparagraph may rely on any nonproprietary information submitted by any other party seeking such an exception and such information shall be considered part of the record presented by the party that relies on that information.
+
+#### (iv) Scope of exception
+
+&emsp;&emsp;&emsp;If an exception is sought for an entire product, the burden is on the petitioning party to demonstrate that the criteria in subparagraph (A) are met with respect to every accessible component or accessible material of the product.
+
+#### (D) Limitation on exception
+
+&emsp;&emsp;If the Commission grants an exception for a product, class of product, material, or component part under subparagraph (A), the Commission may, as necessary to protect public health or safety—
+
+&emsp;&emsp;&emsp;(i) establish a lead limit that such product, class of product, material, or component part may not exceed; or
+
+&emsp;&emsp;&emsp;(ii) place a manufacturing expiration date on such exception or establish a schedule after which the manufacturer of such product, class of product, material, or component part shall be in full compliance with the limit established under clause (i) or the limit set forth in subsection (a).
+
+#### (E) Application of exception
+
+&emsp;&emsp;An exception under subparagraph (A) for a product, class of product, material, or component part shall apply regardless of the date of manufacture unless the Commission expressly provides otherwise.
+
+#### (F) Previously submitted petitions
+
+&emsp;&emsp;A party seeking an exception under this paragraph may rely on materials previously submitted in connection with a petition for exclusion under this section. In such cases, petitioners must notify the Commission of their intent to rely on materials previously submitted. Such reliance does not affect petitioners’ obligation to demonstrate that they meet all requirements of this paragraph as required by subparagraph (C)(i).
 
 #### (2) Exception for inaccessible component parts
 
 #### (A) In general
 
-&emsp;&emsp;The limits established under subsection (a) shall not apply to any component part of a children's product that is not accessible to a child through normal and reasonably foreseeable use and abuse of such product, as determined by the Commission. A component part is not accessible under this subparagraph if such component part is not physically exposed by reason of a sealed covering or casing and does not become physically exposed through reasonably foreseeable use and abuse of the product. Reasonably foreseeable use and abuse shall include to,<sup>1</sup> swallowing, mouthing, breaking, or other children's activities, and the aging of the product.
+&emsp;&emsp;The limits established under subsection (a) shall not apply to any component part of a children's product that is not accessible to a child through normal and reasonably foreseeable use and abuse of such product, as determined by the Commission. A component part is not accessible under this subparagraph if such component part is not physically exposed by reason of a sealed covering or casing and does not become physically exposed through reasonably foreseeable use and abuse of the product. Reasonably foreseeable use and abuse shall include swallowing, mouthing, breaking, or other children's activities, and the aging of the product.
 
 #### (B) Inaccessibility proceeding
 
@@ -64,9 +110,55 @@
 
 &emsp;&emsp;(B) establish a schedule by which such electronic devices shall be in full compliance with the limits in subsection (a), unless the Commission determines that full compliance will not be technologically feasible for such devices within a schedule set by the Commission.
 
-#### (5) Periodic review
+#### (5) Exception for off-highway vehicles
 
-&emsp;The Commission shall, based on the best available scientific and technical information,periodically review and revise the regulations promulgated pursuant to this subsection no less frequently than every 5 years after the first promulgation of a regulation under this subsection to make them more stringent and to require the lowest amount of lead the Commission determines is technologically feasible to achieve.
+#### (A) In general
+
+&emsp;&emsp;Subsection (a) shall not apply to an off-highway vehicle.
+
+#### (B) Off-highway vehicle defined
+
+&emsp;&emsp;For purposes of this section, the term “off-highway vehicle”—
+
+&emsp;&emsp;&emsp;(i) means any motorized vehicle—
+
+&emsp;&emsp;&emsp;&emsp;(I) that is manufactured primarily for use off public streets, roads, and highways;
+
+&emsp;&emsp;&emsp;&emsp;(II) designed to travel on 2, 3, or 4 wheels; and
+
+&emsp;&emsp;&emsp;&emsp;(III) that has either—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) a seat designed to be straddled by the operator and handlebars for steering control; or
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) a nonstraddle seat, steering wheel, seat belts, and roll-over protective structure; and
+
+&emsp;&emsp;&emsp;(ii) includes a snowmobile.
+
+#### (6) Bicycles and related products
+
+&emsp;In lieu of the lead limits established in subsection (a)(2), the limits set forth for each respective material in the notice of the Commission entitled “Notice of Stay of Enforcement Pertaining to Bicycles and Related Products”, published June 30, 2009 (74 Fed. Reg. 31254), shall apply to any metal component part of the products to which the stay of enforcement described in such notice applies, except that after December 31, 2011, the limits set forth in such notice shall not be more than 300 parts per million total lead content by weight for any metal component part of the products to which such stay pertains.
+
+#### (7) Exclusion of certain used children's products
+
+#### (A) General exclusion
+
+&emsp;&emsp;The lead limits established under subsection (a) shall not apply to a used children's product.
+
+#### (B) Definition
+
+&emsp;&emsp;In this paragraph, the term “used children's product” means a children's product (as defined in section 3(a) of the Consumer Product Safety Act (15 U.S.C. 2052(a)) that was obtained by the seller for use and not for the purpose of resale or was obtained by the seller, either directly or indirectly, from a person who obtained such children's product for use and not for the purpose of resale. Such term also includes a children's product that was donated to the seller for charitable distribution or resale to support charitable purposes. Such term shall not include—
+
+&emsp;&emsp;&emsp;(i) children's metal jewelry;
+
+&emsp;&emsp;&emsp;(ii) any children's product for which the donating party or the seller has actual knowledge that the product is in violation of the lead limits in this section; or
+
+&emsp;&emsp;&emsp;(iii) any other children's product or product category that the Commission determines, after notice and a hearing.
+
+> &emsp;&emsp;For purposes of this definition, the term “seller” includes a person who lends or donates a used children's product.
+
+#### (8) Periodic review
+
+&emsp;The Commission shall, based on the best available scientific and technical information, periodically review and revise the regulations promulgated pursuant to this subsection no less frequently than every 5 years after the first promulgation of a regulation under this subsection to make them more stringent and to require the lowest amount of lead the Commission determines is technologically feasible to achieve.
 
 #### (c) Application with ASTM F963
 
@@ -136,7 +228,7 @@ The pendency of a rulemaking proceeding to consider—
 
 Any ban imposed by subsection (a) or rule promulgated under subsection (a) or (b) of this section, and section 1303.1 of title 16, Code of Federal Regulations (as modified pursuant to subsection (f)(1) or (2)), or any successor regulation, shall be considered a regulation of the Commission promulgated under or for the enforcement of section 2(q) of the Federal Hazardous Substances Act (15 U.S.C. 1261(q)).
 
-(Pub. L. 110–314, title I, §101, Aug. 14, 2008, 122 Stat. 3017.)
+(Pub. L. 110–314, title I, §101, Aug. 14, 2008, 122 Stat. 3017; Pub. L. 112–28, §§1, 10(b), Aug. 12, 2011, 125 Stat. 273, 283.)
 
 #### References in Text
 
@@ -150,9 +242,27 @@ This Act, referred to in subsec. (e)(3), is Pub. L. 110–314, Aug. 14, 2008, 12
 
 Section was enacted as part of the Consumer Product Safety Improvement Act of 2008, and not as part of the Federal Hazardous Substances Act which comprises this chapter.
 
+#### Amendments
+
+<b>2011</b>—Subsec. (a)(1). Pub. L. 112–28, §10(b), substituted “(as defined in section 3(a) of the Consumer Product Safety Act (15 U.S.C. 2052(a)))” for “(as defined in section 3(a)(16) of the Consumer Product Safety Act (15 U.S.C. 2052(a)(16)))”.
+
+Subsec. (a)(3). Pub. L. 112–28, §1(a), added par. (3).
+
+Subsec. (b)(1). Pub. L. 112–28, §1(b)(1), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The Commission may, by regulation, exclude a specific product or material from the prohibition in subsection (a) if the Commission, after notice and a hearing, determines on the basis of the best-available, objective, peer-reviewed, scientific evidence that lead in such product or material will neither—
+
+&emsp;“(A) result in the absorption of any lead into the human body, taking into account normal and reasonably foreseeable use and abuse of such product by a child, including swallowing, mouthing, breaking, or other children's activities, and the aging of the product; nor
+
+&emsp;“(B) have any other adverse impact on public health or safety.”
+
+Subsec. (b)(2)(A). Pub. L. 112–28, §1(b)(2), substituted “include” for “include to,”.
+
+Subsec. (b)(5) to (8). Pub. L. 112–28, §1(b)(3), added pars. (5) to (7) and redesignated former par. (5) as (8).
+
+#### Effective Date of 2011 Amendment
+
+Pub. L. 112–28, §11, Aug. 12, 2011, 125 Stat. 283, provided that: “Except as provided otherwise, the amendments made by this Act \[amending this section and sections 2055a, 2056a, 2056b, 2057c, 2063, 2068, and 2076 of this title and enacting provisions set out as a note under section 2089 of this title\] shall take effect on the date of enactment of this Act \[Aug. 12, 2011\].”
+
 #### Definition
 
 For definition of “Commission” used in this section, see section 2(a) of Pub. L. 110–314, set out as a note under section 2051 of this title.
-
-<i><sup>1</sup></i><i> So in original. The word “to,” probably should not appear.</i>
 

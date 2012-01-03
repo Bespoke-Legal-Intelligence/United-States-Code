@@ -52,7 +52,7 @@ Pub. L. 110–139, §1, Dec. 18, 2007, 121 Stat. 1491, provided that:
 
 “(a)
 
-In General.—The great hall of the Capitol Visitor Center shall be known and designated as ‘Emancipation Hall’, and any reference to the great hall in anylaw, rule, or regulation shall be deemed to be a reference to Emancipation Hall.
+In General.—The great hall of the Capitol Visitor Center shall be known and designated as ‘Emancipation Hall’, and any reference to the great hall in any law, rule, or regulation shall be deemed to be a reference to Emancipation Hall.
 
 “(b)
 

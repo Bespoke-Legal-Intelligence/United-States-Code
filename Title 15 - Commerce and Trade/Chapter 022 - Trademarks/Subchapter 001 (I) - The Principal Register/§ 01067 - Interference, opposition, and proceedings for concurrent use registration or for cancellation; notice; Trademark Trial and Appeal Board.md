@@ -28,7 +28,7 @@ Subsecs. (c), (d). Pub. L. 110–313, §1(b)(2), added subsecs. (c) and (d).
 
 <b>1999</b>—Pub. L. 106–113 amended section generally. Prior to amendment, section read as follows:
 
-“In every case of interference, opposition to registration, application to register as a lawful concurrent user, or application to cancel the registration of a mark, the Commissioner shall give notice to all parties and shall direct a Trademark Trial and Appeal Board to determine and decide the respective rights of registration.
+“In every case of interference, opposition to registration, application to register as a lawful concurrent user, or application to cancel the registration of amark, the Commissioner shall give notice to all parties and shall direct a Trademark Trial and Appeal Board to determine and decide the respective rights of registration.
 
 “The Trademark Trial and Appeal Board shall include the Commissioner, the Deputy Commissioner, the Assistant Commissioners, and members appointed by the Commissioner. Employees of the Patent and Trademark Office and other persons, all of whom shall be competent in trademark law, shall be eligible for appointment as members. Each case shall be heard by at least three members of the Board, the members hearing such case to be designated by the Commissioner.”
 
@@ -60,7 +60,7 @@ Repeal of inconsistent provisions, effect of this chapter on pending proceedings
 
 #### Transfer of Functions
 
-For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certainexceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Reorganization Plan No. 5 of 1950
 

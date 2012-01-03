@@ -38,7 +38,7 @@ In order to be eligible to receive a grant under this section, an eligible entit
 
 Grants awarded under this section shall be used by the eligible entity (and participating institutions of higher education of the consortium, if applicable) to develop and implement a program for National Science Foundation Teaching Fellows or National Science Foundation Master Teaching Fellows, through—
 
-&emsp;(1) administering fellowships in accordance with this section, including providing theteaching fellowship salary supplements described in subsection (f);
+&emsp;(1) administering fellowships in accordance with this section, including providing the teaching fellowship salary supplements described in subsection (f);
 
 &emsp;(2) in the case of National Science Foundation Teaching Fellowships—
 
@@ -94,7 +94,7 @@ Grants awarded under this section shall be used by the eligible entity (and part
 
 &emsp;&emsp;(C) the extent to which the applicant (and participating institutions of higher education of the consortium, if applicable) is committed to making the program a central organizational focus;
 
-&emsp;&emsp;(D) the degree to which the proposed programming will enable participants to become highly effective mathematics and science teachers and prepare such participants to assume leadership roles in theirschools, in addition to their regular classroom duties, including serving as mentor or master teachers, developing curriculum, and assisting in the development and implementation of professional development activities;
+&emsp;&emsp;(D) the degree to which the proposed programming will enable participants to become highly effective mathematics and science teachers and prepare such participants to assume leadership roles in their schools, in addition to their regular classroom duties, including serving as mentor or master teachers, developing curriculum, and assisting in the development and implementation of professional development activities;
 
 &emsp;&emsp;(E) the number and quality of the individuals that will be served by the program; and
 

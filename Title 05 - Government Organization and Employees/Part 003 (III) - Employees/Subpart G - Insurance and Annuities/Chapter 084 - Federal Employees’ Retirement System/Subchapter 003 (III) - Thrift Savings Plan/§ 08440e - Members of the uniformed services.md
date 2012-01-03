@@ -36,9 +36,9 @@ The Internal Revenue Code of 1986, referred to in subsec. (d)(3), is classified 
 
 #### Amendments
 
-2004—Subsec. (b)(2)(A). Pub. L. 108–469 substituted “as provided under section 8432(b)” for “only during a period provided under section 8432(b), subject to the same conditions as prescribed under paragraph (2) (A)–(D) thereof”.
+<b>2004</b>—Subsec. (b)(2)(A). Pub. L. 108–469 substituted “as provided under section 8432(b)” for “only during a period provided under section 8432(b), subject to the same conditions as prescribed under paragraph (2) (A)–(D) thereof”.
 
-2000—Subsec. (b)(2)(B)(i). Pub. L. 106–398 substituted “as of the effective date that applies with respect to such individual under section 663 of the National Defense Authorization Act for Fiscal Year 2000” for “as of the effective date described in paragraph (1) of section 663(a) of the National Defense Authorization Act for Fiscal Year 2000 (or, if applicable, paragraph (2) thereof)”.
+<b>2000</b>—Subsec. (b)(2)(B)(i). Pub. L. 106–398 substituted “as of the effective date that applies with respect to such individual under section 663 of the National Defense Authorization Act for Fiscal Year 2000” for “as of the effective date described in paragraph (1) of section 663(a) of the National Defense Authorization Act for Fiscal Year 2000 (or, if applicable, paragraph (2) thereof)”.
 
 Subsec. (d)(1)(A). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §138(a)(6)(A)\], substituted “the maximum percentage of such member's basic pay for such pay period allowable under section 8440f.” for “5 percent of such member's basic pay for such pay period.”
 

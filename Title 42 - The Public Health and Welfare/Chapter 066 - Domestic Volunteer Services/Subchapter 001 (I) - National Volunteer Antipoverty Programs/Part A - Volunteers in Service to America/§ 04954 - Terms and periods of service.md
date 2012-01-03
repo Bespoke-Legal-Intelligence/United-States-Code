@@ -28,7 +28,7 @@ The Director shall establish a procedure, including notice and opportunity to be
 
 (3) The limitation on funds appropriated for grants and contracts, as contained in section 4958 of this title, shall not apply to the summer program.
 
-(Pub. L. 93–113, title I, §104, Oct. 1, 1973, 87 Stat. 397; Pub. L. 98–288, §5, May 21, 1984, 98 Stat. 190; Pub. L. 101–204, title VII, §702, Dec. 7, 1989, 103 Stat. 1821; Pub. L. 103–82, title III, §324, Sept. 21, 1993, 107 Stat. 900.)
+(Pub. L. 93–113, title I, §104, Oct. 1, 1973, 87 Stat. 397; Pub. L. 98–288, §5, May 21, 1984, 98 Stat. 190;Pub. L. 101–204, title VII, §702, Dec. 7, 1989, 103 Stat. 1821; Pub. L. 103–82, title III, §324, Sept. 21, 1993, 107 Stat. 900.)
 
 #### References in Text
 
@@ -54,7 +54,7 @@ Section 101(c) of Pub. L. 101–204, as amended by Pub. L. 103–82, title IV, �
 
 “(1)
 
-In general.—Notwithstanding the limitations established in section 104(b) of the Domestic Volunteer Service Act of 1973 (42 U.S.C. 4954(b)) for the maximum period of service as a volunteer under part A of title I of such Act (42 U.S.C. 4951 et seq.), the Chief Executive Officer of the Corporation for National and Community Service may, subject to paragraphs (2) and (3), extendbeyond such maximum the period of service for such volunteer in any case in which—
+In general.—Notwithstanding the limitations established in section 104(b) of the Domestic Volunteer Service Act of 1973 (42 U.S.C. 4954(b)) for the maximum period of service as a volunteer under part A of title I of such Act (42 U.S.C. 4951 et seq.), the Chief Executive Officer of the Corporation for National and Community Service may, subject to paragraphs (2) and (3), extend beyond such maximum the period of service for such volunteer in any case in which—
 
 &emsp;“(A) such extension is requested by the project or program to which such volunteer involved is assigned; and
 

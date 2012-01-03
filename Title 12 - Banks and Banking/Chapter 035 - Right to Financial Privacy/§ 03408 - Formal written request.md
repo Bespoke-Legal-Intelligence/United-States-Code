@@ -10,7 +10,7 @@ A Government authority may request financial records under section 3402(5) of th
 
 &emsp;(4)(A) a copy of the request has been served upon the customer or mailed to his last known address on or before the date on which the request was made to the financial institution together with the following notice which shall state with reasonable specificity the nature of the law enforcement inquiry:
 
-&emsp;“Records or information concerning your transactions held by the financial institutionnamed in the attached request are being sought by this (agency or department) in accordance with the Right to Financial Privacy Act of 1978 \[12 U.S.C. 3401 et seq.\] for the following purpose:
+&emsp;“Records or information concerning your transactions held by the financial institution named in the attached request are being sought by this (agency or department) in accordance with the Right to Financial Privacy Act of 1978 \[12 U.S.C. 3401 et seq.\] for the following purpose:
 
 &emsp;“If you desire that such records or information not be made available, you must:
 

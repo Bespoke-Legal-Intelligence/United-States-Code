@@ -94,7 +94,7 @@ Required Board Action for Prescribing Standards and Interpretations.—Before pr
 
 &emsp;(2) prepare and publish a report in the Federal Register on the issues reviewed under paragraph (1);
 
-&emsp;(3)(A) publish an advanced notice of proposed rulemaking in the Federal Register to solicit comments on the report prepared under paragraph (2);
+&emsp;(3)(A) publish an advanced notice of proposed rulemaking in the Federal Register to solicitcomments on the report prepared under paragraph (2);
 
 &emsp;(B) provide all parties affected at least 60 days after publication to submit their views and comments; and
 
@@ -200,7 +200,7 @@ Regulation on Types of CAS Coverage.—(1) The Administrator for Federal Procure
 
 “(d)
 
-Implementation.—The Administrator for Federal Procurement Policy shall ensure that this section \[see Tables for classification\] and the amendments made by this section are implemented in a manner that ensures that the Federal Government can recover costs, as appropriate, in a case in which noncompliancewith cost accounting standards, or a change in the cost accounting system of a contractor segment or subcontractor segment that is not determined to be desirable by the Federal Government, results in a shift of costs from contracts that are not covered by the cost accounting standards to contracts that are covered by the cost accounting standards.
+Implementation.—The Administrator for Federal Procurement Policy shall ensure that this section \[see Tables for classification\] and the amendments made by this section are implemented in a manner that ensures that the Federal Government can recover costs, as appropriate, in a case in which noncompliance with cost accounting standards, or a change in the cost accounting system of a contractor segment or subcontractor segment that is not determined to be desirable by the Federal Government, results in a shift of costs from contracts that are not covered by the cost accounting standards to contracts that are covered by the cost accounting standards.
 
 “(e)
 

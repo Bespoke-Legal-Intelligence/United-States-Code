@@ -260,7 +260,7 @@ Pub. L. 108–183, title VII, §704, Dec. 16, 2003, 117 Stat. 2672, as amended b
 
 “(a)
 
-Authority.—Using appropriated funds, other than funds available for compensation and pension, theSecretary of Veterans Affairs may provide for the conduct of examinations with respect to the medical disabilities of applicants for benefits under laws administered by the Secretary by persons other than Department of Veterans Affairs employees. The authority under this section is in addition to the authority provided in section 504(b) of the Veterans’ Benefits Improvement Act of 1996 (Public Law 104–275; 38 U.S.C. 5101 note).
+Authority.—Using appropriated funds, other than funds available for compensation and pension, the Secretary of Veterans Affairs may provide for the conduct of examinations with respect to the medical disabilities of applicants for benefits under laws administered by the Secretary by persons other than Department of Veterans Affairs employees. The authority under this section is in addition to the authority provided in section 504(b) of the Veterans’ Benefits Improvement Act of 1996 (Public Law 104–275; 38 U.S.C. 5101 note).
 
 “(b)
 
@@ -268,7 +268,7 @@ Performance by Contract.—Examinations under the authority provided in subsecti
 
 “(c)
 
-Expiration.—The authority in subsection (a) shall expire on December 31, 2012. No examination may be carried out under the authority provided in that subsection after that date.
+Expiration.—The authority in subsection (a) shall expire on December 31, 2012. No examination maybe carried out under the authority provided in that subsection after that date.
 
 “(d)
 

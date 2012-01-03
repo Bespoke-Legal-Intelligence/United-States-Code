@@ -12,7 +12,7 @@ Subject to approval in appropriation Acts, not more than $50,000,000 of the amou
 
 #### Amendments
 
-1992—Pub. L. 102–550 amended section generally. Prior to amendment, section read as follows:
+<b>1992</b>—Pub. L. 102–550 amended section generally. Prior to amendment, section read as follows:
 
 “(a)
 

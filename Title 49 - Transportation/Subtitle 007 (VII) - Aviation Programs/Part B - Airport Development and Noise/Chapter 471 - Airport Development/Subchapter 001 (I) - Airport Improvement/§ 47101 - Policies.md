@@ -16,7 +16,7 @@ General.—It is the policy of the United States—
 
 &emsp;(6) that airport development projects under this subchapter provide for the protection and enhancement of natural resources and the quality of the environment of the United States;
 
-&emsp;(7) that airport construction and improvement projects that increase the capacity of facilities to accommodate passenger and cargotraffic be undertaken to the maximum feasible extent so that safety and efficiency increase and delays decrease;
+&emsp;(7) that airport construction and improvement projects that increase the capacity of facilities to accommodate passenger and cargo traffic be undertaken to the maximum feasible extent so that safety and efficiency increase and delays decrease;
 
 &emsp;(8) to ensure that nonaviation usage of the navigable airspace be accommodated but not allowed to decrease the safety and capacity of the airspace and airport system;
 
@@ -50,7 +50,7 @@ National Transportation Policy.—(1) It is a goal of the United States to devel
 
 (6) Intermodality and flexibility are paramount issues in the process of developing an integrated system that will obtain the optimum yield of United States resources.
 
-(7) The United States transportation infrastructure must be reshaped to provide the economic underpinnings for the United States to compete in the 21st century global economy. The United States can no longer rely on the sheer size of its economy to dominate international economic rivals and must recognize fully that its economy is no longer a separate entity but is part of the global marketplace. The future economic prosperity of the United States depends on its ability to compete in an international marketplace that is teeming with competitors but in which a full one-quarter of the economic activity of the United States takes place.
+(7) The United States transportation infrastructure must be reshaped to provide the economic underpinnings for the United States to compete in the 21st century global economy. The United States can no longer rely on the sheer size of its economy to dominate international economic rivals and must recognize fully that its economy is no longer a separate entity but is part of the global marketplace. The future economic prosperity of the United States depends on its ability to compete in an international marketplace that is teeming with competitors but in which a full one-quarter of theeconomic activity of the United States takes place.
 
 (8) The United States must make a national commitment to rebuild its infrastructure through development of a national intermodal transportation system. The United States must provide the foundation for its industries to improve productivity and their ability to compete in the global economy with a system that will transport passengers and property in an efficient manner.
 
@@ -64,7 +64,7 @@ Consistency With Air Commerce and Safety Policies.—Each airport and airway pro
 
 (e)
 
-Adequacy of Navigation Aids and Airport Facilities.—This subchapter should be carriedout to provide adequate navigation aids and airport facilities for places at which scheduled commercial air service is provided. The facilities provided may include—
+Adequacy of Navigation Aids and Airport Facilities.—This subchapter should be carried out to provide adequate navigation aids and airport facilities for places at which scheduled commercial air service is provided. The facilities provided may include—
 
 &emsp;(1) reliever airports; and
 
@@ -292,7 +292,7 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 #### Effective Date of 1996 Amendment
 
-Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construedas affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -308,7 +308,7 @@ Pub. L. 106–181, title I, §158, Apr. 5, 2000, 114 Stat. 90, provided that: �
 
 #### Innovative Financing Techniques
 
-Pub. L. 104–264, title I, §148, Oct. 9, 1996, 110 Stat. 3223, authorized the Secretary of Transportation until Sept. 30, 1998, to carry out a demonstration program to provide information on the use of innovative financingtechniques for airport development projects to Congress and the National Civil Aviation Review Commission. See section 47135 of this title.
+Pub. L. 104–264, title I, §148, Oct. 9, 1996, 110 Stat. 3223, authorized the Secretary of Transportation until Sept. 30, 1998, to carry out a demonstration program to provide information on the use of innovative financing techniques for airport development projects to Congress and the National Civil Aviation Review Commission. See section 47135 of this title.
 
 #### Authority To Close Airport Located Near Closed or Realigned Military Base
 

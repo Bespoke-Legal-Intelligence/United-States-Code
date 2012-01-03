@@ -22,7 +22,7 @@
 
 #### (b) Reallotment
 
-Whenever the Commissioner determines that any amount of an allotment to a State for any fiscal year will not be expended by such State for carrying out the provisions of this part, the Commissioner shall make such amount available for carrying out the provisions of this part to one or more of the States that the Commissioner determines will be able to use additional amounts during such year for carrying out such provisions. Any amount made available to a State for any fiscal year pursuant to the preceding sentence shall, for the purposes of this section, be regarded as an increase in the allotment of the State (as determined under the preceding provisions of this section) for such year.
+Whenever the Commissioner determines that any amount of an allotment to a State for any fiscal year will not be expended by such State for carrying out the provisions of this part, the Commissioner shall make such amount available for carrying out the provisions of this part to one or more of the States that the Commissioner determines will be able to use additional amounts during such year for carrying out such provisions. Any amount made available to a State for any fiscal year pursuant to the preceding sentence shall, for the purposes of this section, be regarded as an increase in the allotmentof the State (as determined under the preceding provisions of this section) for such year.
 
 (Pub. L. 93–112, title VI, §622, as added Pub. L. 105–220, title IV, §409, Aug. 7, 1998, 112 Stat. 1214; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(b)(13)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–414.)
 

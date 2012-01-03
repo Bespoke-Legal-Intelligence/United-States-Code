@@ -190,7 +190,7 @@ Nitric acid
 
 #### (c) Termination
 
-No tax shall be imposed under this section during any period during which the Hazardous Substance Superfund financing rate under section 4611 does not apply.
+No tax shall be imposed under this section during any period during which the HazardousSubstance Superfund financing rate under section 4611 does not apply.
 
 (Added Pub. L. 96–510, title II, §211(a), Dec. 11, 1980, 94 Stat. 2798; amended Pub. L. 99–499, title V, §513(a), Oct. 17, 1986, 100 Stat. 1761; Pub. L. 99–509, title VIII, §8032(c)(3), Oct. 21, 1986, 100 Stat. 1958.)
 

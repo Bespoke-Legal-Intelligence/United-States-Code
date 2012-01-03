@@ -2,7 +2,7 @@
 
 (a)
 
-Cooperative Arrangements Authorized.—A working-capital funded Army industrial facility may enter into a contract or other cooperative arrangement with a non-Army entity to carry out with the non-Army entity a military or commercial project described in subsection (b), subject to the conditions prescribed in subsection (c). This authority may be used toenter into not more than eight contracts or cooperative agreements in addition to the contracts and cooperative agreements in place as of the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181).
+Cooperative Arrangements Authorized.—A working-capital funded Army industrial facility may enter into a contract or other cooperative arrangement with a non-Army entity to carry out with the non-Army entity a military or commercial project described in subsection (b), subject to the conditions prescribed in subsection (c).
 
 (b)
 
@@ -46,7 +46,7 @@ Conditions.—An activity authorized by subsection (b) may be carried out at an 
 
 &emsp;&emsp;(A) in any case of willful misconduct or gross negligence; and
 
-&emsp;&emsp;(B) in the case of a claim by a purchaser of articles or services under this section that damages or injury arose from the failure of the United States to comply with quality, schedule, or cost performance requirements in the contract to carry out the activity.
+&emsp;&emsp;(B) in the case of a claim by a purchaser of articles or services under this section that damages or injury arose from the failure ofthe United States to comply with quality, schedule, or cost performance requirements in the contract to carry out the activity.
 
 (d)
 
@@ -112,17 +112,13 @@ Definitions.—In this section:
 
 &emsp;(5) The term “variable costs” means the costs that are expected to fluctuate directly with the volume of sales or services provided or the use of equipment or facilities.
 
-(k)
-
-Expiration of Authority.—The authority to enter into a cooperative arrangement under subsection (a) expires September 30, 2014.
-
-(Added Pub. L. 108–375, div. A, title III, §353(a), Oct. 28, 2004, 118 Stat. 1859; amended Pub. L. 109–163, div. A, title III, §321, Jan. 6, 2006, 119 Stat. 3191; Pub. L. 109–364, div. A, title X, §1071(a)(29), Oct. 17, 2006, 120 Stat. 2399; Pub. L. 110–181, div. A, title III, §328(a), Jan. 28, 2008, 122 Stat. 66; Pub. L. 111–84, div. A, title III, §324(a), Oct. 28, 2009, 123 Stat. 2253.)
-
-#### References in Text
-
-The date of the enactment of the National Defense Authorization Act for Fiscal Year 2008, referred to in subsec. (a), is the date of enactment of Pub. L. 110–181, which was approved Jan. 28, 2008.
+(Added Pub. L. 108–375, div. A, title III, §353(a), Oct. 28, 2004, 118 Stat. 1859; amended Pub. L. 109–163, div. A, title III, §321, Jan. 6, 2006, 119 Stat. 3191; Pub. L. 109–364, div. A, title X, §1071(a)(29), Oct. 17, 2006, 120 Stat. 2399; Pub. L. 110–181, div. A, title III, §328(a), Jan. 28, 2008, 122 Stat. 66; Pub. L. 111–84, div. A, title III, §324(a), Oct. 28, 2009, 123 Stat. 2253; Pub. L. 112–81, div. A, title III, §323(a), Dec. 31, 2011, 125 Stat. 1362.)
 
 #### Amendments
+
+<b>2011</b>—Subsec. (a). Pub. L. 112–81, §323(a)(1), struck out second sentence which read as follows: “This authority may be used to enter into not more than eight contracts or cooperative agreements in addition to the contracts and cooperative agreements in place as of the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181).”
+
+Subsec. (k). Pub. L. 112–81, §323(a)(2), struck out subsec. (k). Prior to amendment, text read as follows: “The authority to enter into a cooperative arrangement under subsection (a) expires September 30, 2014.”
 
 <b>2009</b>—Subsec. (a). Pub. L. 111–84 inserted “in addition to the contracts and cooperative agreements in place as of the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181)” after “not more than eight contracts or cooperative agreements”.
 
@@ -150,7 +146,7 @@ Subsec. (k). Pub. L. 109–163, §321(b)(2), redesignated subsec. (j) as (k).
 
 #### Reports
 
-Pub. L. 110–181, div. A, title III, §328(b), Jan. 28, 2008, 122 Stat. 66, as amended by Pub. L. 111–84, div. A, title III, §324(b), Oct. 28, 2009, 123 Stat. 2253, provided that:
+Pub. L. 110–181, div. A, title III, §328(b), Jan. 28, 2008, 122 Stat. 66, as amended by Pub. L. 111–84, div. A, title III, §324(b), Oct. 28, 2009, 123 Stat. 2253; Pub. L. 112–81, div. A, title III, §323(b), Dec. 31, 2011, 125 Stat. 1362, provided that:
 
 “(1)
 
@@ -160,11 +156,11 @@ Annual report on use of authority.—The Secretary of the Army shall submit to C
 
 Analysis of use of authority.—Not later than September 30, 2012, the Secretary of the Army shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report—
 
-&emsp;“(A) assessing the advisability of making such authority permanent and eliminating the limitation on the number of contracts or cooperative arrangements that may be entered into pursuant to such authority;
+&emsp;“(A) assessing the effect of the use of such authority on the rates charged by each Army industrial facility when bidding on contracts for the Army or for a Defense agency and providing recommendations to improve the ability of each category of Army industrial facility (as defined in section 4544(j) of title 10, United States Code) to compete for such contracts;
 
 &emsp;“(B) assessing the benefit to the Federal Government of using such authority;
 
 &emsp;“(C) assessing the impact of the use of such authority on the availability of facilities needed by the Army and on the private sector; and
 
-&emsp;“(D) describing the steps taken to comply with the requirements under section 4544(g) of title 10, United States Code.”
+&emsp;“(D) describing the steps taken to comply with the requirements under section 4544(g) of title 10, United States Code.”\[Pub. L. 112–81, div. A, title III, §323(b), Dec. 31, 2011, 125 Stat. 1362, which directed substitution of “the effect of the use of such authority on the rates charged by each Army industrial facility when bidding on contracts for the Army or for a Defense agency and providing recommendations to improve the ability of each category of Army industrial facility (as defined in section 4544(j) of title 10, United States Code) to compete for such contracts” for “the advisability of making such authority permanent and eliminating the limitation on the number of contracts or cooperative arrangements that may be entered into pursuant to such authority” in section 328(b)(A) of Pub. L. 110–181, was executed by making the substitution in section 328(b)(2)(A) of Pub. L. 110–181, set out above, to reflect the probable intent of Congress.\]
 

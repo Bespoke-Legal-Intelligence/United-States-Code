@@ -88,7 +88,7 @@ For purposes of this section—
 
 #### (f) Restricted bank director stock
 
-If a director receives a distribution (not in part or full payment in exchange for stock) from an S corporation with respect to any restricted bank director stock (as defined in section 1361(f)), the amount of such distribution—
+If a director receives a distribution (not in part or full payment in exchange for stock) froman S corporation with respect to any restricted bank director stock (as defined in section 1361(f)), the amount of such distribution—
 
 &emsp;(1) shall be includible in gross income of the director, and
 

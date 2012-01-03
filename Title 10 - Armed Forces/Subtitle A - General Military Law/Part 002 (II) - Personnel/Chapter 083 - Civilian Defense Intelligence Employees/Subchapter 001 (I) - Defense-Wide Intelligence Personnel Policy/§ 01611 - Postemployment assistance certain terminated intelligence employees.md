@@ -58,7 +58,7 @@ Subsec. (e)(2), (3). Pub. L. 107–306, §811(b)(4)(B)(ii), (iii), added par. (2
 
 <b>2000</b>—Subsec. (a)(1). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1141(b)(1)\], substituted “a defense intelligence position” for “an intelligence component of the Department of Defense”.
 
-Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1141(b)(2)\], substituted “sensitive defense intelligence position” for “sensitive position in an intelligence component of the Department of Defense” in introductory provisions and “in a defense intelligence position”for “with the intelligence component” in pars. (1) and (2).
+Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1141(b)(2)\], substituted “sensitive defense intelligence position” for “sensitive position in an intelligence component of the Department of Defense” in introductory provisions and “in a defense intelligence position” for “with the intelligence component” in pars. (1) and (2).
 
 Subsec. (d). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1141(b)(3)\], substituted “in a defense intelligence position” for “an intelligence component of the Department of Defense”.
 

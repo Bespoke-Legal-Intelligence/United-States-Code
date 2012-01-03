@@ -48,7 +48,7 @@ A prior section 513 of act June 27, 1934, was renumbered section 513A of act Jun
 
 #### Amendments
 
-1984—Pub. L. 98–479 substituted “Prohibition against transient housing” for “Prohibition against use of insured multifamily housing for transient or hotel purposes” in section catchline.
+<b>1984</b>—Pub. L. 98–479 substituted “Prohibition against transient housing” for “Prohibition against use of insured multifamily housing for transient or hotel purposes” in section catchline.
 
-1967—Pub. L. 90–19 substituted “Secretary” for “Commissioner” wherever appearing in subsecs. (b) to (d), (e)(1), (f), and (g).
+<b>1967</b>—Pub. L. 90–19 substituted “Secretary” for “Commissioner” wherever appearing in subsecs. (b) to (d), (e)(1), (f), and (g).
 

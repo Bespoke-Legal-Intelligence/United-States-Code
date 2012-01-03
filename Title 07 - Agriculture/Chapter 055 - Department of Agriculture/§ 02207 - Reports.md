@@ -12,9 +12,9 @@ Section was formerly classified to section 557 of Title 5 prior to the general r
 
 #### Amendments
 
-1954—Act Aug. 30, 1954, struck out provision in first sentence which required that the annual report should contain an account of all moneys received and expended by the Secretary.
+<b>1954</b>—Act Aug. 30, 1954, struck out provision in first sentence which required that the annual report should contain an account of all moneys received and expended by the Secretary.
 
-1928—Act May 29, 1928, struck out requirement that there be included a statement of expenditures from contingent appropriations.
+<b>1928</b>—Act May 29, 1928, struck out requirement that there be included a statement of expenditures from contingent appropriations.
 
 #### Change of Name
 

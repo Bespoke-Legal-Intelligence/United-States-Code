@@ -72,7 +72,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;&emsp;(I) in the case of the first 2 plan years in the 9-plan-year period beginning with the election year, interest on the shortfall amortization base of the plan for the election year (determined using the effective interest rate for the plan for the election year), and
 
-&emsp;&emsp;&emsp;&emsp;(II) in the case of the last 7 plan years in such 9-plan-year period, the amountsnecessary to amortize the remaining balance of the shortfall amortization base of the plan for the election year in level annual installments over such last 7 plan years (using the segment rates under subparagraph (C) for the election year).
+&emsp;&emsp;&emsp;&emsp;(II) in the case of the last 7 plan years in such 9-plan-year period, the amounts necessary to amortize the remaining balance of the shortfall amortization base of the plan for the election year in level annual installments over such last 7 plan years (using the segment rates under subparagraph (C) for the election year).
 
 #### (iii) 15-year amortization
 
@@ -102,7 +102,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;&emsp;(I) give notice of the election to participants and beneficiaries of the plan, and
 
-&emsp;&emsp;&emsp;&emsp;(II) inform the Pension Benefit Guaranty Corporation of such election in such form and manner as the Director of the Pension Benefit Guaranty Corporation may prescribe.
+&emsp;&emsp;&emsp;&emsp;(II) inform the Pension Benefit Guaranty Corporation of such election insuch form and manner as the Director of the Pension Benefit Guaranty Corporation may prescribe.
 
 #### (vii) Increases in required installments in certain cases
 
@@ -336,7 +336,7 @@ For purposes of this section:
 
 #### (iii) Elections for multiple plans
 
-&emsp;&emsp;&emsp;If a plan sponsor makes elections under paragraph (2)(D) with respect to 2 or more plans, the Secretary of the Treasury shall provide rules for the application of this paragraph to such plans, including rules for the ratable allocation of any installment acceleration amount among such plans on the basis of each plan's relative reduction in the plan's shortfall amortization installment for the first plan year in the amortization period described in subparagraph (A) (determined without regard to this paragraph).
+&emsp;&emsp;&emsp;If a plan sponsor makes elections under paragraph (2)(D) with respect to 2 or more plans, the Secretary of the Treasury shall provide rules for the application of this paragraph to such plans, including rules for the ratable allocation of any installment acceleration amount among such plans on the basis of each plan's relativereduction in the plan's shortfall amortization installment for the first plan year in the amortization period described in subparagraph (A) (determined without regard to this paragraph).
 
 #### (iv) Mergers and acquisitions
 
@@ -382,7 +382,7 @@ For purposes of this section—
 
 #### (4) Waiver amortization base
 
-&emsp;The waiver amortization base of a plan for a plan year is the amount of the waived fundingdeficiency (if any) for such plan year under section 1082(c) of this title.
+&emsp;The waiver amortization base of a plan for a plan year is the amount of the waived funding deficiency (if any) for such plan year under section 1082(c) of this title.
 
 #### (5) Early deemed amortization upon attainment of funding target
 
@@ -576,7 +576,7 @@ For purposes of this section—
 
 #### (i) Plans not in existence in preceding year
 
-&emsp;&emsp;&emsp;In the case of the first plan year of any plan, subparagraph (B) shall apply to such plan by taking into account the number of participants that the plan is reasonably expected to have on days during such first plan year.
+&emsp;&emsp;&emsp;In the case of the first plan year of any plan, subparagraph (B) shall apply to suchplan by taking into account the number of participants that the plan is reasonably expected to have on days during such first plan year.
 
 #### (ii) Predecessors
 
@@ -618,7 +618,7 @@ For purposes of this section—
 
 #### (B) Special rule for current year contributions made before valuation date
 
-&emsp;&emsp;If any contributions for any plan year are made to or under the plan during the planyear but before the valuation date for the plan year, the assets of the plan as of the valuation date shall not include—
+&emsp;&emsp;If any contributions for any plan year are made to or under the plan during the plan year but before the valuation date for the plan year, the assets of the plan as of the valuation date shall not include—
 
 &emsp;&emsp;&emsp;(i) such contributions, and
 
@@ -660,7 +660,7 @@ For purposes of this section—
 
 #### (ii) Second segment rate
 
-&emsp;&emsp;&emsp;The term “second segment rate” means, with respect to any month, the single rate of interest which shall be determined by the Secretary of the Treasury for such month on the basis of the corporate bond yield curve for such month, taking into account only that portion of such yield curve which is based on bonds maturing during the 15-year period beginning at the end of the period described in clause (i).
+&emsp;&emsp;&emsp;The term “second segment rate” means, with respect to any month, the single rateof interest which shall be determined by the Secretary of the Treasury for such month on the basis of the corporate bond yield curve for such month, taking into account only that portion of such yield curve which is based on bonds maturing during the 15-year period beginning at the end of the period described in clause (i).
 
 #### (iii) Third segment rate
 
@@ -684,7 +684,7 @@ For purposes of this section—
 
 #### (F) Publication requirements
 
-&emsp;&emsp;The Secretary of the Treasury shall publish for each month the corporate bond yield curve (and the corporate bond yield curve reflecting the modification described in section 1055(g)(3)(B)(iii)(I) of this title for such month) and each of the rates determined under subparagraph (C) for such month. The Secretary of the Treasury shall also publisha description of the methodology used to determine such yield curve and such rates which is sufficiently detailed to enable plans to make reasonable projections regarding the yield curve and such rates for future months based on the plan's projection of future interest rates.
+&emsp;&emsp;The Secretary of the Treasury shall publish for each month the corporate bond yield curve (and the corporate bond yield curve reflecting the modification described in section 1055(g)(3)(B)(iii)(I) of this title for such month) and each of the rates determined under subparagraph (C) for such month. The Secretary of the Treasury shall also publish a description of the methodology used to determine such yield curve and such rates which is sufficiently detailed to enable plans to make reasonable projections regarding the yield curve and such rates for future months based on the plan's projection of future interest rates.
 
 #### (G) Transition rule
 
@@ -756,7 +756,7 @@ For purposes of this section—
 
 #### (II) Disposition
 
-&emsp;&emsp;&emsp;&emsp;Any mortality table submitted to the Secretary of the Treasury for approval under this subparagraph shall be treated as in effect as of the 1st day of the period described in clause (i) unless the Secretary of the Treasury, during the 180-day period beginning on the date of such submission, disapproves of such table and provides the reasons that such tablefails to meet the requirements of clause (iii). The 180-day period shall be extended upon mutual agreement of the Secretary of the Treasury and the plan sponsor.
+&emsp;&emsp;&emsp;&emsp;Any mortality table submitted to the Secretary of the Treasury for approval under this subparagraph shall be treated as in effect as of the 1st day of the period described in clause (i) unless the Secretary of the Treasury, during the 180-day period beginning on the date of such submission, disapproves of such table and provides the reasons that such table fails to meet the requirements of clause (iii). The 180-day period shall be extended upon mutual agreement of the Secretary of the Treasury and the plan sponsor.
 
 #### (D) Separate mortality tables for the disabled
 
@@ -828,7 +828,7 @@ For purposes of this section—
 
 #### (2) Target normal cost of at-risk plans
 
-&emsp;In the case of a plan which is in at-risk status for a plan year, the target normal costof the plan for such plan year shall be equal to the sum of—
+&emsp;In the case of a plan which is in at-risk status for a plan year, the target normal cost of the plan for such plan year shall be equal to the sum of—
 
 &emsp;&emsp;(A) the excess of—
 
@@ -982,7 +982,7 @@ For purposes of this section—
 
 #### (ii) Period of underpayment
 
-&emsp;&emsp;&emsp;The period for which any interest is charged under this paragraph with respect to any portion of the underpayment shall run from the due date for the installment to the date on which such portion is contributed to or under the plan.
+&emsp;&emsp;&emsp;The period for which any interest is charged under this paragraph with respectto any portion of the underpayment shall run from the due date for the installment to the date on which such portion is contributed to or under the plan.
 
 #### (iii) Order of crediting contributions
 
@@ -1040,7 +1040,7 @@ For purposes of this section—
 
 #### (iii) Plan with alternate valuation date
 
-&emsp;&emsp;&emsp;The Secretary of the Treasury shall prescribe regulations for the application of this paragraph in the case of a plan whichhas a valuation date other than the first day of the plan year.
+&emsp;&emsp;&emsp;The Secretary of the Treasury shall prescribe regulations for the application of this paragraph in the case of a plan which has a valuation date other than the first day of the plan year.
 
 #### (F) Quarterly contributions not to include certain increased contributions
 
@@ -1200,7 +1200,7 @@ Subsec. (j)(3)(F). Pub. L. 111–192, §201(a)(3)(B), added subpar. (F).
 
 Subsec. (c)(5)(B)(i). Pub. L. 110–458, §202(a)(2), added cl. (i) and struck out former cl. (i). Prior to amendment, text read as follows: “Except as provided in clauses (iii) and (iv), in the case of plan years beginning after 2007 and before 2011, only the applicable percentage of the funding target shall be taken into account under paragraph (3)(A) in determining the funding shortfall for the plan year for purposes of subparagraph (A).”
 
-Subsec. (c)(5)(B)(iii). Pub. L. 110–458, §202(a)(1), redesignated cl. (iv) as (iii) and struck out former cl. (iii). Prior to amendment, text read as follows: “Clause (i) shall not apply with respect to any plan year beginningafter 2008 unless the shortfall amortization base for each of the preceding years beginning after 2007 was zero (determined after application of this subparagraph).”
+Subsec. (c)(5)(B)(iii). Pub. L. 110–458, §202(a)(1), redesignated cl. (iv) as (iii) and struck out former cl. (iii). Prior to amendment, text read as follows: “Clause (i) shall not apply with respect to any plan year beginning after 2008 unless the shortfall amortization base for each of the preceding years beginning after 2007 was zero (determined after application of this subparagraph).”
 
 Pub. L. 110–458, §101(b)(1)(B), inserted “beginning” before “after 2008”.
 
@@ -1240,7 +1240,7 @@ Amendment by section 101(b)(1)(B)–(E), (F)(ii)–(H) of Pub. L. 110–458 effe
 
 Amendment by section 121(a) of Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, see section 121(c) of Pub. L. 110–458, set out as a note under section 430 of Title 26, Internal Revenue Code.
 
-Amendment by section 202(a) of Pub. L. 110–458 applicable as if included in the enactment of this section, see section 202(c) of Pub. L. 110–458, set out as a note under section 430 of Title 26, Internal Revenue Code.
+Amendment by section 202(a) of Pub. L. 110–458 applicable as if included in the enactment of this section,see section 202(c) of Pub. L. 110–458, set out as a note under section 430 of Title 26, Internal Revenue Code.
 
 #### Effective Date
 

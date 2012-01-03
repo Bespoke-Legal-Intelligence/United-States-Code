@@ -54,7 +54,7 @@ Within 90 days after the date on which the Commission adopts relevant technical 
 
 #### (d) FCC regulation of compliance
 
-The Federal Communications Commission may enforce compliance with this chapter but shall have no rulemaking authority under this chapter, except as provided in subsections (a), (b), (c), and (f).
+The Federal Communications Commission may enforce compliance with this chapter but shall have no rulemaking authority under thischapter, except as provided in subsections (a), (b), (c), and (f).
 
 #### (e) Limitation of liability
 

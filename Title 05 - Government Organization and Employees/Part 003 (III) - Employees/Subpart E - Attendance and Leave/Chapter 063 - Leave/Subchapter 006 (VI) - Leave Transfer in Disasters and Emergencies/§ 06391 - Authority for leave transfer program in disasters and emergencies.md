@@ -22,5 +22,5 @@
 
 #### Amendments
 
-2006—Subsecs. (f), (g). Pub. L. 109–229 added subsec. (f) and redesignated former subsec. (f) as (g).
+<b>2006</b>—Subsecs. (f), (g). Pub. L. 109–229 added subsec. (f) and redesignated former subsec. (f) as (g).
 

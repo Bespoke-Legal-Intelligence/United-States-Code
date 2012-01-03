@@ -14,7 +14,7 @@ As used in this section:
 
 &emsp;&emsp;(A) is not eligible for a loan from the Farm Credit Bank or association; and
 
-&emsp;&emsp;(B) has operations that are functionally similar to a person that is eligible for a loanfrom the Farm Credit Bank or association in that the person derives a majority of the income of the person from, or has a majority of the assets of the person invested in, the conduct of activities that are functionally similar to the activities that are conducted by an eligible person.
+&emsp;&emsp;(B) has operations that are functionally similar to a person that is eligible for a loan from the Farm Credit Bank or association in that the person derives a majority of the income of the person from, or has a majority of the assets of the person invested in, the conduct of activities that are functionally similar to the activities that are conducted by an eligible person.
 
 #### (b) Loan participation authority
 
@@ -32,7 +32,7 @@ Notwithstanding any other provision of this chapter, any Farm Credit Bank or dir
 
 #### Amendments
 
-2002—Subsec. (a)(1). Pub. L. 107–171, §5401(b)(1), substituted “2122(11)(B)(iii) of this title” for “2122(11)(B)(iv) of this title”.
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–171, §5401(b)(1), substituted “2122(11)(B)(iii) of this title” for “2122(11)(B)(iv) of this title”.
 
 Subsec. (c). Pub. L. 107–171, §5401(b)(2), struck out heading and text of subsec. (c). Text read as follows:
 

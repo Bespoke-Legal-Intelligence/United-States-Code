@@ -22,7 +22,7 @@ The Director of the United States Information Agency is authorized, when he cons
 
 &emsp;&emsp;(iv) participation by groups and individuals from other countries in nonprofit activities in the United States similar to those described in subparagraphs (ii) and (iii) of this paragraph, when the Director of the United States Information Agency determines that such participation is in the national interest.<sup>1</sup>
 
-&emsp;(3) United States participation in international fairs and expositions abroad, including trade and industrial fairs and other public or private demonstrations of United States economic accomplishments and cultural attainments.
+&emsp;(3) United States participation in international fairs and expositions abroad, including trade and industrial fairs and other publicor private demonstrations of United States economic accomplishments and cultural attainments.
 
 #### (b) Other exchanges
 
@@ -38,7 +38,7 @@ In furtherance of the purposes of this chapter, the President is further authori
 
 &emsp;(5) promoting and supporting medical, scientific, cultural, and educational research and development;
 
-&emsp;(6) promoting modern foreign language training and area studies in United States schools, colleges, and universities by supporting visits and study in foreign countries by teachers and prospective teachers in such schools, colleges, and universities for the purpose of improving their skill in languages and their knowledge of the culture of the people of those countries, and by financing visits byteachers from those countries to the United States for the purpose of participating in foreign language training and area studies in United States schools, colleges, and universities;
+&emsp;(6) promoting modern foreign language training and area studies in United States schools, colleges, and universities by supporting visits and study in foreign countries by teachers and prospective teachers in such schools, colleges, and universities for the purpose of improving their skill in languages and their knowledge of the culture of the people of those countries, and by financing visits by teachers from those countries to the United States for the purpose of participating in foreign language training and area studies in United States schools, colleges, and universities;
 
 &emsp;(7) United States representation at international nongovernmental educational, scientific, and technical meetings;
 
@@ -144,7 +144,7 @@ Pub. L. 102–138, title II, §214, Oct. 28, 1991, 105 Stat. 696, established Is
 
 Pub. L. 102–138, title II, §225, Oct. 28, 1991, 105 Stat. 699, authorized establishment of an endowment fund to support an exchange program among secondary school students from United States and former Warsaw Pact countries, prior to repeal, eff. 6 months after Oct. 24, 1992, by Pub. L. 102–511, title VIII, §807(c), Oct. 24, 1992, 106 Stat. 3354.
 
-Pub. L. 102–138, title II, §226, Oct. 28, 1991, 105 Stat. 699, authorized scholarships for foreign and United States students and scholars awarded by Bureau of Educational and Cultural Affairs of United States Information Agency to facilitate study, research, and teaching within United States.
+Pub. L. 102–138, title II, §226, Oct. 28, 1991, 105 Stat. 699, authorized scholarships for foreign and UnitedStates students and scholars awarded by Bureau of Educational and Cultural Affairs of United States Information Agency to facilitate study, research, and teaching within United States.
 
 Pub. L. 102–138, title II, §227, Oct. 28, 1991, 105 Stat. 700, as amended by Pub. L. 102–511, title VIII, §801, Oct. 24, 1992, 106 Stat. 3352; Pub. L. 105–277, div. G, subdiv. B, title XXIV, §2413, Oct. 21, 1998, 112 Stat. 2681–832, established Muskie Fellowship Program to award scholarships to graduate students from independent states of the former Soviet Union, Lithuania, Latvia, and Estonia for study within United States.
 

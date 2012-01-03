@@ -40,7 +40,7 @@ The Secretary is authorized to dispose of the acquired lands and interests there
 
 #### (h) Assistance to water users for installation of system improvements
 
-The Secretary is authorized, either in conjunction with or in lieu of land acquisition, to assist water users in the division in installing system improvements, such as ditch lining, change of field layouts, automatic equipment, sprinkler systems and bubbler systems, as a means of increasing irrigation efficiencies: <i>Provided, however</i>, That all costs associated with the improvements authorized herein and allocated to the water users on the basis of benefits received, as determined by the Secretary, shall be reimbursed to the United States in amounts and on terms and conditions satisfactory to the Secretary.
+The Secretary is authorized, either in conjunction with or in lieu of land acquisition, to assist water users in the division in installing system improvements, such as ditch lining, change of field layouts, automatic equipment, sprinkler systems and bubbler systems, as a means of increasing irrigation efficiencies: <i>Provided, however</i>, That all costs associated with the improvements authorized herein and allocated to the water users on the basis of benefits received, asdetermined by the Secretary, shall be reimbursed to the United States in amounts and on terms and conditions satisfactory to the Secretary.
 
 #### (i) Contract amendment
 
@@ -52,7 +52,7 @@ The Secretary is authorized to amend the contract between the United States and 
 
 #### (j) Acquisition of land for storage
 
-The Secretary is authorized to acquire through the Corps of Engineers fee title to, or other necessary interests in, additional lands above the Painted Rock Dam in Arizona that are required for the temporary storage capacity needed to permit operation of the dam and reservoir in times of serious flooding in accordancewith the obligations of the United States under Minute No. 242. No funds shall be expended for acquisition of land or interests therein until it is finally determined by a Federal court of competent jurisdiction that the Corps of Engineers presently lacks legal authority to use said lands for this purpose. Nothing contained in this subchapter nor any action taken pursuant to it shall be deemed to be a recognition or admission of any obligation to the owners of such land on the part of the United States or a limitation or deficiency in the rights or powers of the United States with respect to such lands or the operation of the reservoir.
+The Secretary is authorized to acquire through the Corps of Engineers fee title to, or other necessary interests in, additional lands above the Painted Rock Dam in Arizona that are required for the temporary storage capacity needed to permit operation of the dam and reservoir in times of serious flooding in accordance with the obligations of the United States under Minute No. 242. No funds shall be expended for acquisition of land or interests therein until it is finally determined by a Federal court of competent jurisdiction that the Corps of Engineers presently lacks legal authority to use said lands for this purpose. Nothing contained in this subchapter nor any action taken pursuant to it shall be deemed to be a recognition or admission of any obligation to the owners of such land on the part of the United States or a limitation or deficiency in the rights or powers of the United States with respect to such lands or the operation of the reservoir.
 
 #### (k) Transfer of funds
 

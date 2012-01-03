@@ -34,7 +34,7 @@ Subsec. (b)(1)(B). Pub. L. 110–181 inserted “or the period beginning on Octo
 
 <b>1998</b>—Subsec. (b)(1)(B). Pub. L. 105–261 substituted “September 30, 2001” for “September 30, 1999”.
 
-<b>1997</b>—Subsec. (b)(4). Pub. L. 105–85 struck out “(A)” before “In the case of”, redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, struck out “, during the Persian Gulf War,” after “Ready Reserve who”, and struck out former subpar. (B) which read as follows: “For the purposes of this paragraph, the term ‘Persian Gulf War’ shall have the meaning given such term in section 101(33) of title 38.”
+<b>1997</b>—Subsec. (b)(4). Pub. L. 105–85 struck out “(A)” before “In the case of”, redesignated cls. (i) and (ii) assubpars. (A) and (B), respectively, struck out “, during the Persian Gulf War,” after “Ready Reserve who”, and struck out former subpar. (B) which read as follows: “For the purposes of this paragraph, the term ‘Persian Gulf War’ shall have the meaning given such term in section 101(33) of title 38.”
 
 <b>1994</b>—Pub. L. 103–337, §1663(b)(2), renumbered section 2133 of this title as this section.
 

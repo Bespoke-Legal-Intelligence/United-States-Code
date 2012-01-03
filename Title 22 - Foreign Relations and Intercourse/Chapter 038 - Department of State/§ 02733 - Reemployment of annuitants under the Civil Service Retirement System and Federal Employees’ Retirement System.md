@@ -30,3 +30,7 @@ Pub. L. 109–234, title I, §1602(b)(1), June 15, 2006, 120 Stat. 441, which di
 
 Subsec. (a)(2). Pub. L. 111–32 substituted “2010” for “2008”.
 
+#### Extension of Authority
+
+Pub. L. 112–74, div. I, title VII, §7034(m)(5), Dec. 23, 2011, 125 Stat. 1216, provided that: “Section 61(a) of the State Department Basic Authorities Act of 1956 (22 U.S.C. 2733(a)) shall be applied by substituting ‘September 30, 2012’ for ‘October 1, 2010’ in paragraph (2).”
+

@@ -68,7 +68,7 @@
 
 &emsp;In this section, the term “Secretary” means—
 
-&emsp;&emsp;(A) the Secretary of Health and Human Services with respect to waivers relating to the provisions described in subparagraph (A) through (C) of paragraph (2); and
+&emsp;&emsp;(A) the Secretary of Health and Human Services with respect to waivers relating tothe provisions described in subparagraph (A) through (C) of paragraph (2); and
 
 &emsp;&emsp;(B) the Secretary of the Treasury with respect to waivers relating to the provisions described in paragraph (2)(D).
 

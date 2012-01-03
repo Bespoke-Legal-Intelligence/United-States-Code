@@ -98,5 +98,5 @@ Section 5 of the Uniformed Services Contingency Option Act of 1953 (67 Stat. 504
 
 #### Amendments
 
-1991—Pars. (2)(A), (3)(A). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+<b>1991</b>—Pars. (2)(A), (3)(A). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 

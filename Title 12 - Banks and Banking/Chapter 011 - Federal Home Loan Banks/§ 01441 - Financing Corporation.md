@@ -28,7 +28,7 @@ Notwithstanding any other provision of law, the Director shall charter a corpora
 
 #### (4) Equal representation of banks
 
-&emsp;No president of a Federal Home Loan Bank may be appointed to serve an additional term on the Directorate until such time as the presidents of each of the other Federal Home Loan Banks have served as many terms on the Directorate as the president of such bank (before the appointment of such president to such additional term).
+&emsp;No president of a Federal Home Loan Bank may be appointed to serve an additional term on the Directorate until such time as the presidents of each of the other Federal Home Loan Banks have served as many terms on theDirectorate as the president of such bank (before the appointment of such president to such additional term).
 
 #### (5) Chairperson
 
@@ -186,11 +186,11 @@ The Financing Corporation shall have only the following powers, subject to the o
 
 #### (D) Limitation on dividends
 
-&emsp;&emsp;The amount of dividends which may be paid for any year by a bank on whose behalf an investment is made under subparagraph (A)(i) shall not exceed an amount equal to 1/2 of the net earnings of the bank for the year.
+&emsp;&emsp;The amount of dividends which may be paid for any year by a bank on whose behalf an investment is made under subparagraph (A)(i) shall not exceed an amount equal to ½ of the net earnings of the bank for the year.
 
 #### (E) Transfer to account for purchase of stock required
 
-&emsp;&emsp;Of the net earnings for any year of a bank on whose behalf an investment is made under subparagraph (A)(i), such amount as is necessary to make the purchases of stock required under subparagraph (A)(ii) shall be placed in a reserve account (established in such manner as the Director shall prescribe by regulations) the balance in which shall be available only for such purchases.
+&emsp;&emsp;Of the net earnings for any year of a bank on whose behalf an investment is made under subparagraph (A)(i), such amount as is necessary to make the purchases of stock required under subparagraph (A)(ii) shall be placed in a reserve account (established in such manner as the Director shall prescribeby regulations) the balance in which shall be available only for such purchases.
 
 #### (7) Undivided profits defined
 
@@ -336,7 +336,7 @@ The Financing Corporation shall obtain funds for anticipated interest payments, 
 
 &emsp;&emsp;The term “issuance costs”—
 
-&emsp;&emsp;&emsp;(i) means issuance fees and commissions incurred by the Financing Corporation inconnection with the issuance or servicing of any obligation of the Financing Corporation; and
+&emsp;&emsp;&emsp;(i) means issuance fees and commissions incurred by the Financing Corporation in connection with the issuance or servicing of any obligation of the Financing Corporation; and
 
 &emsp;&emsp;&emsp;(ii) includes legal and accounting expenses, trustee and fiscal and paying agent charges, costs incurred in connection with preparing and printing offering materials, and advertising expenses, to the extent that any such cost or expense is incurred by the Financing Corporation in connection with issuing any obligation.
 
@@ -410,13 +410,13 @@ A prior section 1441, act July 22, 1932, ch. 522, §21, 47 Stat. 738, related to
 
 #### Amendments
 
-2008—Pub. L. 110–289, §1204(12), substituted “Director” for “Federal Housing Finance Board” wherever appearing in subsecs. (a), (b)(1)(B), (6)(B), (7)(B), (8), (c), (d), (e)(1), (4), (9), (g), (i), and (j).
+<b>2008</b>—Pub. L. 110–289, §1204(12), substituted “Director” for “Federal Housing Finance Board” wherever appearing in subsecs. (a), (b)(1)(B), (6)(B), (7)(B), (8), (c), (d), (e)(1), (4), (9), (g), (i), and (j).
 
 Subsec. (b)(5). Pub. L. 110–289, §1204(6), substituted “Director” for “Chairperson of the Federal Housing Finance Board”.
 
 Subsec. (f)(2). Pub. L. 110–289, §1204(8), which directed amendment of the Federal Home Loan Bank Act (this chapter) by substituting “the Director” for “the Board” wherever appearing, was not executed to subsec. (f)(2) to reflect the probable intent of Congress.
 
-2006—Subsec. (f)(2). Pub. L. 109–173, §9(d)(2)(A), struck out before period at end “, except that—
+<b>2006</b>—Subsec. (f)(2). Pub. L. 109–173, §9(d)(2)(A), struck out before period at end “, except that—
 
 “(A) the assessments imposed on insured depository institutions with respect to any BIF-assessable deposit shall be assessed at a rate equal to 1/5 of the rate of the assessments imposed on insured depository institutions with respect to any SAIF-assessable deposit; and
 
@@ -432,7 +432,7 @@ BIF-assessable deposits.—The term ‘BIF-assessable deposit’ means a deposit
 
 SAIF-assessable deposit.—The term ‘SAIF-assessable deposit’ has the meaning given to such term in section 2710 of the Deposit Insurance Funds Act of 1996.”
 
-1996—Subsec. (f)(2). Pub. L. 104–208, §2703(a)(1)(A), in introductory provisions, substituted “In addition to the amounts obtained pursuant to paragraph (1),” for “To the extent the amounts available pursuant to paragraph (1) are insufficient to cover the amount of interest payments, issuance costs, and custodial fees,”, “insured depository institution” for “Savings Association Insurance Fund member”, and “against such institutions” for “against such members”.
+<b>1996</b>—Subsec. (f)(2). Pub. L. 104–208, §2703(a)(1)(A), in introductory provisions, substituted “In addition to the amounts obtained pursuant to paragraph (1),” for “To the extent the amounts available pursuant to paragraph (1) are insufficient to cover the amount of interest payments, issuance costs, and custodial fees,”, “insured depository institution” for “Savings Association Insurance Fund member”, and “against such institutions” for “against such members”.
 
 Subsec. (f)(2)(A) to (C). Pub. L. 104–208, §2703(a)(1)(B), added subpars. (A) and (B) and struck out former subpars. (A) to (C) which read as follows:
 
@@ -454,15 +454,15 @@ Subsec. (k)(1). Pub. L. 104–208, §2703(a)(2)(B), (C), redesignated par. (2) a
 
 Subsec. (k)(2) to (4). Pub. L. 104–208, §2703(a)(2)(C), (D), added pars. (3) and (4) and redesignated former pars. (2) and (3) as (1) and (2), respectively.
 
-1992—Subsec. (e)(2). Pub. L. 102–550 made technical amendment to reference to December 12, 1991, to correct reference to corresponding provisions of original act.
+<b>1992</b>—Subsec. (e)(2). Pub. L. 102–550 made technical amendment to reference to December 12, 1991, to correct reference to corresponding provisions of original act.
 
-1991—Subsec. (d)(4). Pub. L. 102–233, §302(b), substituted “Thrift Depositor Protection Oversight Board” for “Oversight Board” in two places.
+<b>1991</b>—Subsec. (d)(4). Pub. L. 102–233, §302(b), substituted “Thrift Depositor Protection Oversight Board” for “Oversight Board” in two places.
 
 Subsec. (e)(2). Pub. L. 102–233, §104, amended par. (2) generally, substituting provisions setting forth termination date of Financing Corporation borrowing authority for provisions relating to investment of proceeds of obligations of such Corporation.
 
 Subsec. (k)(3). Pub. L. 102–233, §302(b), substituted “Thrift Depositor Protection Oversight Board” for “Oversight Board”.
 
-1989—Subsec. (a). Pub. L. 101–73, §512(2), substituted “Federal Housing Finance Board” for “Board”.
+<b>1989</b>—Subsec. (a). Pub. L. 101–73, §512(2), substituted “Federal Housing Finance Board” for “Board”.
 
 Subsec. (b)(1)(B). Pub. L. 101–73, §512(2), substituted “Federal Housing Finance Board” for “Federal Home Loan Bank Board”.
 
@@ -510,7 +510,7 @@ Pub. L. 101–73, §512(2), substituted “Federal Housing Finance Board” for 
 
 Subsec. (e)(3). Pub. L. 101–73, §512(12)(A), redesignated par. (4) as (3). Former par. (3) redesignated (2).
 
-Subsec. (e)(4). Pub. L. 101–73, §512(2), (12)(A), redesignated par. (5) as (4) and substituted “Federal HousingFinance Board” for “Board”. Former par. (4) redesignated (3).
+Subsec. (e)(4). Pub. L. 101–73, §512(2), (12)(A), redesignated par. (5) as (4) and substituted “Federal Housing Finance Board” for “Board”. Former par. (4) redesignated (3).
 
 Subsec. (e)(5). Pub. L. 101–73, §512(12)(A), redesignated par. (6) as (5). Former par. (5) redesignated (4).
 
@@ -582,7 +582,7 @@ Federal Savings and Loan Insurance Corporation abolished and functions transferr
 
 #### Abolition of Thrift Depositor Protection Oversight Board
 
-Thrift Depositor Protection Oversight Board abolished, see section 14(a)–(d) of Pub. L. 105–216, set out as a note under section 1441a of this title.
+Thrift Depositor Protection Oversight Board abolished, see section 14(a)–(d) of Pub. L. 105–216, formerly set out as a note under section 1441a of this title.
 
 #### Prohibition on Deposit Shifting
 
@@ -590,7 +590,7 @@ Section 2703(d) of Pub. L. 104–208 provided that:
 
 “(1)
 
-In general.—Effective as of the date of the enactment of this Act \[Sept. 30, 1996\] and ending on the date provided in subsection (c)(2) of this section \[set out as a note above\], the Comptroller of the Currency, the Board of Directors of the Federal Deposit Insurance Corporation, the Board of Governors of the Federal Reserve System, and the Director of the Office of Thrift Supervision shall take appropriate actions, including enforcement actions, denial of applications, or imposition of entrance and exit fees as if such transactions qualified as conversion transactions pursuant to section 5(d) of the Federal Deposit Insurance Act \[12 U.S.C. 1815(d)\], to prevent insured depository institutions and depository institution holding companies from facilitating or encouraging the shifting of deposits from SAIF-assessable deposits to BIF-assessable deposits (as defined in section 21(k) of the Federal Home Loan Bank Act \[12 U.S.C. 1441(k)\]) for the purpose of evading the assessments imposed on insured depositoryinstitutions with respect to SAIF-assessable deposits under section 7(b) of the Federal Deposit Insurance Act \[12 U.S.C. 1817(b)\] and section 21(f)(2) of the Federal Home Loan Bank Act \[12 U.S.C. 1441(f)(2)\].
+In general.—Effective as of the date of the enactment of this Act \[Sept. 30, 1996\] and ending on the date provided in subsection (c)(2) of this section \[set out as a note above\], the Comptroller of the Currency, the Board of Directors of the Federal Deposit Insurance Corporation, the Board of Governors of the Federal Reserve System, and the Director of the Office of Thrift Supervision shall take appropriate actions, including enforcement actions, denial of applications, or imposition of entrance and exit fees as if such transactions qualified as conversion transactions pursuant to section 5(d) of the Federal Deposit Insurance Act \[12 U.S.C. 1815(d)\], to prevent insured depository institutions and depository institution holding companies from facilitating or encouraging the shifting of deposits from SAIF-assessable deposits to BIF-assessable deposits (as defined in section 21(k) of the Federal Home Loan Bank Act \[12 U.S.C. 1441(k)\]) for the purpose of evading the assessments imposed on insured depository institutions with respect to SAIF-assessable deposits under section 7(b) of the Federal Deposit Insurance Act \[12 U.S.C. 1817(b)\] and section 21(f)(2) of the Federal Home Loan Bank Act \[12 U.S.C. 1441(f)(2)\].
 
 “(2)
 

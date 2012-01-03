@@ -256,7 +256,7 @@ Mediation discussions.—Discussions that occur during the mediation process sha
 
 #### (ii) Hearing
 
-&emsp;&emsp;&emsp;If the local educational agency has not resolved the complaint to the satisfactionof the parents within 30 days of the receipt of the complaint, the due process hearing may occur, and all of the applicable timelines for a due process hearing under this subchapter shall commence.
+&emsp;&emsp;&emsp;If the local educational agency has not resolved the complaint to the satisfaction of the parents within 30 days of the receipt of the complaint, the due process hearing may occur, and all of the applicable timelines for a due process hearing under this subchapter shall commence.
 
 #### (iii) Written settlement agreement
 
@@ -500,7 +500,7 @@ Except as provided in subsection (k)(4), during the pendency of any proceedings 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in subparagraph (B), within 10 school days of any decision tochange the placement of a child with a disability because of a violation of a code of student conduct, the local educational agency, the parent, and relevant members of the IEP Team (as determined by the parent and the local educational agency) shall review all relevant information in the student's file, including the child's IEP, any teacher observations, and any relevant information provided by the parents to determine—
+&emsp;&emsp;&emsp;Except as provided in subparagraph (B), within 10 school days of any decision to change the placement of a child with a disability because of a violation of a code of student conduct, the local educational agency, the parent, and relevant members of the IEP Team (as determined by the parent and the local educational agency) shall review all relevant information in the student's file, including the child's IEP, any teacher observations, and any relevant information provided by the parents to determine—
 
 &emsp;&emsp;&emsp;&emsp;(I) if the conduct in question was caused by, or had a direct and substantial relationship to, the child's disability; or
 
@@ -508,7 +508,7 @@ Except as provided in subsection (k)(4), during the pendency of any proceedings 
 
 #### (ii) Manifestation
 
-&emsp;&emsp;&emsp;If the local educational agency, the parent, and relevant members of the IEP Team determine that either subclause (I) or (II) of clause (i) is applicable for the child, the conduct shall be determined to be a manifestation of the child's disability.
+&emsp;&emsp;&emsp;If the local educational agency, the parent, and relevant members of the IEP Team determine that either subclause (I) or (II) of clause (i) is applicable for thechild, the conduct shall be determined to be a manifestation of the child's disability.
 
 #### (F) Determination that behavior was a manifestation
 
@@ -646,7 +646,7 @@ Nothing in this chapter shall be construed to restrict or limit the rights, proc
 
 #### (2) Special rule
 
-&emsp;If, under State law, a child with a disability who has reached the age of majority under State law, who has not been determined to be incompetent, but who is determined not to have the ability to provide informed consent with respect to the educational program of the child, the State shall establish procedures for appointing the parent of the child, or if the parent is not available, another appropriate individual, to represent the educational interests of the child throughout the period of eligibility of the child under this subchapter.
+&emsp;If, under State law, a child with a disability who has reached the age of majority underState law, who has not been determined to be incompetent, but who is determined not to have the ability to provide informed consent with respect to the educational program of the child, the State shall establish procedures for appointing the parent of the child, or if the parent is not available, another appropriate individual, to represent the educational interests of the child throughout the period of eligibility of the child under this subchapter.
 
 #### (n) Electronic mail
 

@@ -57,6 +57,10 @@ Pub. L. 104–106, div. A, title V, §572(b), Feb. 10, 1996, 110 Stat. 355, adde
 
 <b>1965</b>—Pub. L. 89–160, §1(2), Sept. 1, 1965, 79 Stat. 615, added item 2002.
 
+#### Policy on Active Shooter Training for Certain Law Enforcement Personnel
+
+Pub. L. 112–81, div. A, title III, §367, Dec. 31, 2011, 125 Stat. 1381, provided that: “The Secretary of Defense shall establish policy and promulgate guidelines to ensure civilian and military law enforcement personnel charged with security functions on military installations shall receive Active Shooter Training as described in finding 4.3 of the document entitled ‘Protecting the Force: Lessons From Fort Hood’.”
+
 #### Language Training Centers for Members of the Armed Forces and Civilian Employees of the Department of Defense
 
 Pub. L. 111–84, div. A, title V, §529, Oct. 28, 2009, 123 Stat. 2290, provided that:

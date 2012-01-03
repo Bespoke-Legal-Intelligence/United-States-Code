@@ -28,7 +28,7 @@ Another section 673 was renumbered section 674 of this title.
 
 #### Amendments
 
-2002—Subsec. (a)(3). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (a)(3). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
 #### Effective Date of 2002 Amendment
 

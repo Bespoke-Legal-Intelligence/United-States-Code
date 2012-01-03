@@ -34,7 +34,7 @@ The term “alarm monitoring service” means a service that uses a device locat
 
 &emsp;(2) to transmit a signal regarding such threat by means of transmission facilities of a local exchange carrier or one of its affiliates to a remote monitoring center to alert a person at such center of the need to inform the customer or another person or police, fire, rescue, security, or public safety personnel of such threat,
 
-> but does not include a service that uses a medical monitoring device attached to an individual for the automatic surveillance of an ongoing medical condition.
+> but does not include a service that uses a medical monitoring device attached to an individualfor the automatic surveillance of an ongoing medical condition.
 
 (June 19, 1934, ch. 652, title II, §275, as added Pub. L. 104–104, title I, §151(a), Feb. 8, 1996, 110 Stat. 105.)
 

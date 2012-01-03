@@ -16,7 +16,7 @@ Every manufacturer of new automobiles distributed in commerce shall, prior to th
 
 &emsp;&emsp;(1) the retail price of such automobile suggested by the manufacturer;
 
-&emsp;&emsp;(2) the retail delivered price suggested by the manufacturer for each accessory or item of optional equipment, physically attached to such automobile at the time of its delivery to such dealer, which is not included within the price of such automobile as stated pursuant to paragraph (1);
+&emsp;&emsp;(2) the retail delivered price suggested by the manufacturer for each accessory or itemof optional equipment, physically attached to such automobile at the time of its delivery to such dealer, which is not included within the price of such automobile as stated pursuant to paragraph (1);
 
 &emsp;&emsp;(3) the amount charged, if any, to such dealer for the transportation of such automobile to the location at which it is delivered to such dealer; and
 

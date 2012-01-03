@@ -98,7 +98,7 @@ For the purpose of carrying out this section, there are authorized to be appropr
 
 Subsec. (a)(2)(D), (E). Pub. L. 108–154, §2(1)(B)–(D), added subpars. (D) and (E).
 
-Subsecs. (b), (c). Pub. L. 108–154, §2(2),(4), redesignated subsecs. (c) and (d) as (b) and (c), respectively,and struck out former subsec. (b) which related to additional provisions regarding collection of data.
+Subsecs. (b), (c). Pub. L. 108–154, §2(2),(4), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which related to additional provisions regarding collection of data.
 
 Subsec. (d). Pub. L. 108–154, §2(4), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 

@@ -52,7 +52,7 @@ The intent of Congress in the definitions as given in this section should be con
 
 <b>1962</b>—Subsec. (b). Pub. L. 87–719, §1, added cl. (3).
 
-Subsec. (i). Pub. L. 87–719, §2, included in definition of “project area” the County of Los Alamos, New Mexico,excluding land under administrative control of the National Park Service.
+Subsec. (i). Pub. L. 87–719, §2, included in definition of “project area” the County of Los Alamos, New Mexico, excluding land under administrative control of the National Park Service.
 
 Subsec. (<i>l</i>). Pub. L. 87–719, §3, included in definition of “utility” any natural gas distribution system.
 
@@ -60,5 +60,5 @@ Subsec. (m). Pub. L. 87–719, §4, added subsec. (m).
 
 #### Transfer of Functions
 
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
+Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. Seealso Transfer of Functions notes set out under those sections.
 

@@ -82,7 +82,7 @@ The Secretary of Defense, the Secretary of Homeland Security, and the Secretary 
 
 &emsp;&emsp;(C) A summary of the criteria used in making the determination on what requests were funded and what requests were not funded, except that such summary shall not include specific information on any individual requests.
 
-&emsp;&emsp;(D) A general assessment of the future needs of the program, based on expected changes in threats, expected technologies, and likely need from potential recipients.
+&emsp;&emsp;(D) A general assessment of the future needs of the program, based on expectedchanges in threats, expected technologies, and likely need from potential recipients.
 
 &emsp;&emsp;(E) An assessment of the effectiveness of the technologies transferred, based in part on the evaluations provided by the recipients, with a recommendation whether the technology should continue to be offered through the program.
 

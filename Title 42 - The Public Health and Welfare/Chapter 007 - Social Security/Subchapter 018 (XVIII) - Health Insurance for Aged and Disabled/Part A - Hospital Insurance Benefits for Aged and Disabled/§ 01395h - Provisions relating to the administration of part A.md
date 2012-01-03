@@ -48,7 +48,7 @@ The administration of this part shall be conducted through contracts with medica
 
 #### (j) Denial of claim; notification and reconsideration
 
-A contract with a medicare administrative contractor under section 1395kk–1 of this title with respect to the administration of this part shall require that, with respect to a claim for home health services, extended care services, or post-hospital extended care services submitted by a provider to such medicare administrative contractor that is denied, such medicare administrative contractor—
+A contract with a medicare administrative contractor under section 1395kk–1 of this titlewith respect to the administration of this part shall require that, with respect to a claim for home health services, extended care services, or post-hospital extended care services submitted by a provider to such medicare administrative contractor that is denied, such medicare administrative contractor—
 
 &emsp;(1) furnish the provider and the individual with respect to whom the claim is made with a written explanation of the denial and of the statutory or regulatory basis for the denial; and
 
@@ -108,7 +108,7 @@ Subsec. (c)(3)(B). Pub. L. 103–66, §13568(a), added cls. (i) and (ii) and str
 
 “(ii) with respect to claims received in the 12-month period beginning October 1, 1988, 14 days.”
 
-<b>1990</b>—Subsec. (f). Pub. L. 101–508 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, struck out “Such standards and criteria” and all that follows, which was executed by striking out “Such standards and criteria shall be published in the Federal Register, and opportunity shall be provided for public comment prior to implementation. Such standards and criteria shall include with respect to claims for services furnished under this part by any provider of services other than a hospital whether such agency or organization is able to process 75 percent of reconsiderations within 60 days (except in the case of the fiscal year 1989, 66 percent of reconsiderations) and 90 percent of reconsiderations within 90 days and the extent to which its determinations are reversed on appeal.”, and added par. (2).
+<b>1990</b>—Subsec. (f). Pub. L. 101–508 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, struck out “Such standards and criteria” and all that follows, which was executed by striking out “Such standards and criteria shall be published in the Federal Register, and opportunity shall be provided for public commentprior to implementation. Such standards and criteria shall include with respect to claims for services furnished under this part by any provider of services other than a hospital whether such agency or organization is able to process 75 percent of reconsiderations within 60 days (except in the case of the fiscal year 1989, 66 percent of reconsiderations) and 90 percent of reconsiderations within 90 days and the extent to which its determinations are reversed on appeal.”, and added par. (2).
 
 <b>1989</b>—Subsec. (c)(1). Pub. L. 101–239, §6202(d)(1), inserted at end “The Secretary may not require, as a condition of entering into or renewing an agreement under this section or under section 1395hh of this title, that a fiscal intermediary match data obtained other than in its activities under this part with data used in the administration of this part for purposes of identifying situations in which the provisions of section 1395y(b) of this title may apply.”
 
@@ -138,7 +138,7 @@ Subsec. (c). Pub. L. 99–509, §9311(b), designated existing provisions as par.
 
 Subsec. (e)(4). Pub. L. 98–369, §2326(b), inserted provision that not later than July 1, 1987, the Secretary limit the number of regional agencies or organizations to not more than ten.
 
-Subsec. (f). Pub. L. 98–369, §2326(c)(1), struck out in cl. (2) “, by regulation,” after “Secretary shall establish”and inserted provision that the standards and criteria be published in the Federal Register and an opportunity be provided for public comment prior to implementation.
+Subsec. (f). Pub. L. 98–369, §2326(c)(1), struck out in cl. (2) “, by regulation,” after “Secretary shall establish” and inserted provision that the standards and criteria be published in the Federal Register and an opportunity be provided for public comment prior to implementation.
 
 <b>1982</b>—Subsec. (e)(5). Pub. L. 97–248 added par. (5).
 
@@ -226,7 +226,7 @@ Section 2326(d)(3) of Pub. L. 98–369 provided that: “The amendments made by 
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–248 applicable to hospice care provided on or after Nov. 1, 1983, see section122(h)(1) of Pub. L. 97–248, as amended, set out as a note under section 1395c of this title.
+Amendment by Pub. L. 97–248 applicable to hospice care provided on or after Nov. 1, 1983, see section 122(h)(1) of Pub. L. 97–248, as amended, set out as a note under section 1395c of this title.
 
 #### Effective Date of 1980 Amendment
 
@@ -258,7 +258,7 @@ Section 4031(b), (c) of Pub. L. 100–203 provided that, notwithstanding any oth
 
 #### Amendments to Agreements and Contracts Necessary To Implement Section 4032(a), (b) of Pub. L. 100–203
 
-Section 4032(c)(2) provided that: “The Secretary of Health and Human Services shall provide for such timely amendments to agreements under section 1816 \[this section\] and contracts under section 1842 of the Social Security Act \[section 1395u of this title\], and regulations, to such extent as may be necessary to implement the amendments made by subsections (a) and (b) \[amending this section\] on a timely basis.”
+Section 4032(c)(2) provided that: “The Secretary of Health and Human Services shall provide for such timely amendments to agreements under section 1816 \[thissection\] and contracts under section 1842 of the Social Security Act \[section 1395u of this title\], and regulations, to such extent as may be necessary to implement the amendments made by subsections (a) and (b) \[amending this section\] on a timely basis.”
 
 #### Replacement of Agency, Organization, or Carrier Processing Medicare Claims; Number of Agreements and Contracts Authorized for Fiscal Years 1985 Through 1993
 

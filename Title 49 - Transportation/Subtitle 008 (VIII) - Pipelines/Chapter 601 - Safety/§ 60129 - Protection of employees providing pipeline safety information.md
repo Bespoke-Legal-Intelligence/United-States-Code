@@ -114,7 +114,7 @@ Commencement of action.—A person on whose behalf an order was issued under par
 
 &emsp;&emsp;(B)
 
-Attorney fees.—The court, in issuing any final order under this paragraph, may award costs of litigation (including reasonable attorney and expert witness fees) to any party whenever the court determines such award of costs is appropriate.
+Attorney fees.—The court, in issuing any final order under this paragraph, mayaward costs of litigation (including reasonable attorney and expert witness fees) to any party whenever the court determines such award of costs is appropriate.
 
 (c)
 

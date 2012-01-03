@@ -31,7 +31,7 @@
 | [1831\.](%C2%A7%2001831%20-%20Separability%20of%20certain%20provisions%20of%20this%20chapter.md) | Separability of certain provisions of this chapter. |
 | [1831a.](%C2%A7%2001831a%20-%20Activities%20of%20insured%20State%20banks.md) | Activities of insured State banks. |
 | [1831b.](%C2%A7%2001831b%20-%20Disclosures%20with%20respect%20to%20certain%20federally%20related%20mortgage%20loans.md) | Disclosures with respect to certain federally related mortgage loans. |
-| [1831c.](%C2%A7%2001831c%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93325%2C%20title%20VI%2C%20%C2%A7602%28f%29%281%29%2C%20Sept.%2023%2C%201994%2C%20108%20Stat.%202292.md) | Repealed. |
+| [1831c.](%C2%A7%2001831c%20-%20Assuring%20consistent%20oversight%20of%20subsidiaries%20of%20holding%20companies.md) | Assuring consistent oversight of subsidiaries of holding companies. |
 | [1831d.](%C2%A7%2001831d%20-%20State-chartered%20insured%20depository%20institutions%20and%20insured%20branches%20of%20foreign%20banks.md) | State-chartered insured depository institutions and insured branches of foreign banks. |
 | [1831e.](%C2%A7%2001831e%20-%20Activities%20of%20savings%20associations.md) | Activities of savings associations. |
 | [1831f.](%C2%A7%2001831f%20-%20Brokered%20deposits.md) | Brokered deposits. |
@@ -46,6 +46,7 @@
 | 1831m–1. | Reports of information regarding safety and soundness of depository institutions. |
 | [1831n.](%C2%A7%2001831n%20-%20Accounting%20objectives%2C%20standards%2C%20and%20requirements.md) | Accounting objectives, standards, and requirements. |
 | 1831<i>o.</i> | Prompt corrective action. |
+| 1831<i>o</i>–1. | Source of strength. |
 | [1831p.](%C2%A7%2001831p%20-%20Transferred.md) | Transferred. |
 | 1831p–1. | Standards for safety and soundness. |
 | [1831q.](%C2%A7%2001831q%20-%20FDIC%20affordable%20housing%20program.md) | FDIC affordable housing program. |
@@ -109,7 +110,7 @@
 - [&sect; 01831 - Separability of certain provisions of this chapter](%C2%A7%2001831%20-%20Separability%20of%20certain%20provisions%20of%20this%20chapter.md)
 - [&sect; 01831a - Activities of insured State banks](%C2%A7%2001831a%20-%20Activities%20of%20insured%20State%20banks.md)
 - [&sect; 01831b - Disclosures with respect to certain federally related mortgage loans](%C2%A7%2001831b%20-%20Disclosures%20with%20respect%20to%20certain%20federally%20related%20mortgage%20loans.md)
-- [&sect; 01831c - Repealed. Pub. L. 103&#8211;325, title VI, &sect;602(f)(1), Sept. 23, 1994, 108 Stat. 2292](%C2%A7%2001831c%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93325%2C%20title%20VI%2C%20%C2%A7602%28f%29%281%29%2C%20Sept.%2023%2C%201994%2C%20108%20Stat.%202292.md)
+- [&sect; 01831c - Assuring consistent oversight of subsidiaries of holding companies](%C2%A7%2001831c%20-%20Assuring%20consistent%20oversight%20of%20subsidiaries%20of%20holding%20companies.md)
 - [&sect; 01831d - State-chartered insured depository institutions and insured branches of foreign banks](%C2%A7%2001831d%20-%20State-chartered%20insured%20depository%20institutions%20and%20insured%20branches%20of%20foreign%20banks.md)
 - [&sect; 01831e - Activities of savings associations](%C2%A7%2001831e%20-%20Activities%20of%20savings%20associations.md)
 - [&sect; 01831f - Brokered deposits](%C2%A7%2001831f%20-%20Brokered%20deposits.md)
@@ -124,6 +125,7 @@
 - [&sect; 01831m&#8211;1 - Reports of information regarding safety and soundness of depository institutions](%C2%A7%2001831m%E2%80%931%20-%20Reports%20of%20information%20regarding%20safety%20and%20soundness%20of%20depository%20institutions.md)
 - [&sect; 01831n - Accounting objectives, standards, and requirements](%C2%A7%2001831n%20-%20Accounting%20objectives%2C%20standards%2C%20and%20requirements.md)
 - [&sect; 01831o - Prompt corrective action](%C2%A7%2001831o%20-%20Prompt%20corrective%20action.md)
+- [&sect; 01831o&#8211;1 - Source of strength](%C2%A7%2001831o%E2%80%931%20-%20Source%20of%20strength.md)
 - [&sect; 01831p - Transferred](%C2%A7%2001831p%20-%20Transferred.md)
 - [&sect; 01831p&#8211;1 - Standards for safety and soundness](%C2%A7%2001831p%E2%80%931%20-%20Standards%20for%20safety%20and%20soundness.md)
 - [&sect; 01831q - FDIC affordable housing program](%C2%A7%2001831q%20-%20FDIC%20affordable%20housing%20program.md)

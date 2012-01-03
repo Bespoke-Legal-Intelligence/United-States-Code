@@ -100,7 +100,7 @@ Subsec. (f). Pub. L. 108–177, §361(c)(2), redesignated subsec. (f) as (e).
 
 Subsec. (a)(2) to (4). Pub. L. 107–306, §811(b)(1)(D)(i)(II), (III), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
-Subsec. (b)(1). Pub. L. 107–306, §811(b)(1)(D)(ii), substituted “submit to the congressional leadership on an annual basis, and to the congressional intelligence committees on the date each year provided in section 415b of this title,” for “, on an annual basis, submit to the congressional intelligence committees and the congressional leadership”.
+Subsec. (b)(1). Pub. L. 107–306, §811(b)(1)(D)(ii), substituted “submit to the congressional leadership on an annual basis, and to the congressional intelligencecommittees on the date each year provided in section 415b of this title,” for “, on an annual basis, submit to the congressional intelligence committees and the congressional leadership”.
 
 Subsec. (c). Pub. L. 107–306, §324(2), added subsec. (c). Former subsec. (c) redesignated (d).
 
@@ -172,7 +172,7 @@ Content.—The report required by subsection (a) shall include—
 
 Implementation of Strategic Plan.—Not later than 30 days after the date on which the Director of National Intelligence submits the report required by subsection (a), the Director shall begin implementation of the strategic plan referred to in subsection (b)(4).”
 
-\[For definition of terms used in section 335 of Pub. L. 111–259, set out above, see section 2 of Pub. L. 111–259, set out as a Definitions under section 401a of this title.\]
+\[For definitions of terms used in section 335 of Pub. L. 111–259, set out above, see section 2 of Pub. L. 111–259, set out as a Definitions note under section 401a of this title.\]
 
 #### Date for First Report on Cooperation With Civilian Law Enforcement Agencies
 

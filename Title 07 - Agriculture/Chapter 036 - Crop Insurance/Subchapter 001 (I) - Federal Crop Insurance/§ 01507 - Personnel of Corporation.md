@@ -22,7 +22,7 @@ In carrying out the provisions of this subchapter the Board may, in its discreti
 
 #### (f) Use of resources, data, boards, and committees of Federal agencies
 
-The Board should use, to the maximum extent possible, the resources, data, boards, and the committees of (1) the Soil Conservation Service, in assisting the Board in the classification of land as to risk and production capability and in the development of acceptable conservation practices; (2) the Forest Service, in assisting the Board in the development of a timber insurance plan; (3) the Agricultural Stabilization and Conservation Service, in assisting the Board in thedetermination of individual producer yields and in serving as a local contact point for farmers where the Board deems necessary; and (4) other Federal agencies in any way the Board deems necessary in carrying out this subchapter.
+The Board should use, to the maximum extent possible, the resources, data, boards, and the committees of (1) the Soil Conservation Service, in assisting the Board in the classification of land as to risk and production capability and in the development of acceptable conservation practices; (2) the Forest Service, in assisting the Board in the development of a timber insurance plan; (3) the Agricultural Stabilization and Conservation Service, in assisting the Board in the determination of individual producer yields and in serving as a local contact point for farmers where the Board deems necessary; and (4) other Federal agencies in any way the Board deems necessary in carrying out this subchapter.
 
 #### (g) Specialty Crops Coordinator
 
@@ -48,11 +48,11 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsecs. (b) to (f). Pub. L. 110–246, §12033(c)(2)(B), substituted “this subchapter” for “this chapter” wherever appearing.
+<b>2008</b>—Subsecs. (b) to (f). Pub. L. 110–246, §12033(c)(2)(B), substituted “this subchapter” for “this chapter” wherever appearing.
 
-2000—Subsec. (c). Pub. L. 106–224, in cl. (2), substituted “actuarial services, services relating to loss adjustment and rating plans of insurance,” for “actuarial, loss adjustment,” and inserted “and to enable the Corporation to concentrate on regulating the provision of insurance under this chapter and evaluating new products and materials submitted under section 1508(h) or 1523 of this title” after “private sector”.
+<b>2000</b>—Subsec. (c). Pub. L. 106–224, in cl. (2), substituted “actuarial services, services relating to loss adjustment and rating plans of insurance,” for “actuarial, loss adjustment,” and inserted “and to enable the Corporation to concentrate on regulating the provision of insurance under this chapter and evaluating new products and materials submitted under section 1508(h) or 1523 of this title” after “private sector”.
 
-1994—Subsec. (a). Pub. L. 103–354, §§105(1), 115(b)(1), substituted “as the Secretary may determine appropriate. However,” for “as he may determine: <i>Provided</i>, That” and struck out “, and county crop insurance committeemen” before “may be appointed”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–354, §§105(1), 115(b)(1), substituted “as the Secretary may determine appropriate. However,” for “as he may determine: <i>Provided</i>, That” and struck out “, and county crop insurance committeemen” before “may be appointed”.
 
 Subsec. (c). Pub. L. 103–354, §119(f)(2), substituted “1508(h)” for “1508(b)” in last sentence.
 
@@ -62,21 +62,21 @@ Pub. L. 103–354, §102(b)(4)(B), (C), 115(b)(2), substituted “Secretary” f
 
 Subsec. (g). Pub. L. 103–354, §105(3), added subsec. (g).
 
-1991—Subsec. (c). Pub. L. 102–237 inserted a comma after “private insurance companies” in cl. (2).
+<b>1991</b>—Subsec. (c). Pub. L. 102–237 inserted a comma after “private insurance companies” in cl. (2).
 
-1990—Subsec. (c). Pub. L. 101–624 inserted “private rating bureaus, and other organizations as appropriate for actuarial, loss adjustment, and other services to avoid duplication by the Federal Government of services that are or may readily be available in the private sector,” after “private insurance companies” and inserted at end “Nothing in this subsection shall permit the Corporation to contract with other persons to carry out the responsibility of the Corporation to review and approve policies, rates, and other materials submitted under section 1508(b) of this title.”
+<b>1990</b>—Subsec. (c). Pub. L. 101–624 inserted “private rating bureaus, and other organizations as appropriate for actuarial, loss adjustment, and other services to avoid duplication by the Federal Government of services that are or may readily be available in the private sector,” after “private insurance companies” and inserted at end “Nothing in this subsection shall permitthe Corporation to contract with other persons to carry out the responsibility of the Corporation to review and approve policies, rates, and other materials submitted under section 1508(b) of this title.”
 
-1980—Subsec. (c). Pub. L. 96–365, §104(1), inserted “shall, to the maximum extent possible”, incorporated existing provisions in cl. (1), including in cl. (1) provision for payment of program expenses, but omitting provision for inclusion of estimated expenses in insurance premiums, and added cls. (2) and (3) and provisions for exclusion of compensation from premium rates and indemnification of agents and brokers for errors or omissions of Commission or its contractors.
+<b>1980</b>—Subsec. (c). Pub. L. 96–365, §104(1), inserted “shall, to the maximum extent possible”, incorporated existing provisions in cl. (1), including in cl. (1) provision for payment of program expenses, but omitting provision for inclusion of estimated expenses in insurance premiums, and added cls. (2) and (3) and provisions for exclusion of compensation from premium rates and indemnification of agents and brokers for errors or omissions of Commission or its contractors.
 
 Subsec. (f). Pub. L. 96–365, §104(2), added subsec. (f).
 
-1972—Subsec. (a). Pub. L. 92–310 struck out provisions which empowered Secretary to require bonds of officers and employees.
+<b>1972</b>—Subsec. (a). Pub. L. 92–310 struck out provisions which empowered Secretary to require bonds of officers and employees.
 
-1949—Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
+<b>1949</b>—Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
 
-Act Aug. 25, 1949, inserted requirement that officers and employees be appointed subject to civil service laws and regulations, and exempted personnel paid byhour, day, or month when employed, and county crop-insurance committeemen from civil-service laws and regulations or the Classification Act of 1923.
+Act Aug. 25, 1949, inserted requirement that officers and employees be appointed subject to civil service laws and regulations, and exempted personnel paid by hour, day, or month when employed, and county crop-insurance committeemen from civil-service laws and regulations or the Classification Act of 1923.
 
-1947—Act Aug. 1, 1947, provided for selection and designation of county employees and agencies and their direct responsibility.
+<b>1947</b>—Act Aug. 1, 1947, provided for selection and designation of county employees and agencies and their direct responsibility.
 
 #### Effective Date of 2008 Amendment
 
@@ -92,7 +92,7 @@ Amendment by Pub. L. 96–365 effective Sept. 26, 1980, see section 112 of Pub. 
 
 #### Repeals
 
-Act Oct. 29, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, §8, 80 Stat. 632, 655.
+Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, §8, 80 Stat. 632, 655.
 
 #### Transfer of Functions
 

@@ -22,7 +22,7 @@ Any person who—
 
 #### (5) False, forged, or fraudulent bond
 
-&emsp;engages, or intends to engage, in the business of distiller, warehouseman, or processorof distilled spirits, and gives any false, forged, or fraudulent bond, under subchapter B; or
+&emsp;engages, or intends to engage, in the business of distiller, warehouseman, or processor of distilled spirits, and gives any false, forged, or fraudulent bond, under subchapter B; or
 
 #### (6) Distilling on prohibited premises
 
@@ -76,7 +76,7 @@ Any person who—
 
 #### (b) Presumptions
 
-Whenever on trial for violation of subsection (a)(4) the defendant is shown to have been at the site or place where, and at the time when, the business of a distiller or processor was so engaged in or carried on, such presence of the defendant shall be deemed sufficient evidence to authorize conviction, unless the defendant explains such presence to the satisfaction of the jury (or of the court when tried without jury).
+Whenever on trial for violation of subsection (a)(4) the defendant is shown to have been at thesite or place where, and at the time when, the business of a distiller or processor was so engaged in or carried on, such presence of the defendant shall be deemed sufficient evidence to authorize conviction, unless the defendant explains such presence to the satisfaction of the jury (or of the court when tried without jury).
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1398; amended Pub. L. 94–455, title XIX, §§1905(a)(22), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1820, 1834; Pub. L. 96–39, title VIII, §807(a)(52), July 26, 1979, 93 Stat. 288; Pub. L. 96–223, title II, §232(e)(2)(A), Apr. 2, 1980, 94 Stat. 280.)
 

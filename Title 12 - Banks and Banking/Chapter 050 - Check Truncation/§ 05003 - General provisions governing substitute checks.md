@@ -10,7 +10,7 @@ A substitute check shall be the legal equivalent of the original check for all p
 
 &emsp;(1) accurately represents all of the information on the front and back of the original check as of the time the original check was truncated; and
 
-&emsp;(2) bears the legend: “This is a legal copy of your check. You can use it the same way you would use the original check.”.
+&emsp;(2) bears the legend: “This is a legal copy of your check. You can use it the same way you would use the original check.”
 
 #### (c) Endorsements
 

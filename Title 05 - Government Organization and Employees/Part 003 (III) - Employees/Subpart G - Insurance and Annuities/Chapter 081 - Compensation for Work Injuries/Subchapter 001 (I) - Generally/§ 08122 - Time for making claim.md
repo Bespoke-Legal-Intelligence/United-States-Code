@@ -72,7 +72,7 @@ July 4, 1966, Pub. L. 89–488, §9, 80 Stat. 254.
 
 #### Amendments
 
-1974—Subsec. (a). Pub. L. 93–416, §14(1), substituted provisions requiring filing of claims for compensation within three years after death or disability, and setting forth conditions for waiver of filing within required time periods, for provisions requiring claim for death to be made within one year after death and for disability to be made within 60 days after injury and authorizing extension of time for good cause.
+<b>1974</b>—Subsec. (a). Pub. L. 93–416, §14(1), substituted provisions requiring filing of claims for compensation within three years after death or disability, and setting forth conditions for waiver of filing within required time periods, for provisions requiring claim for death to be made within one year after death and for disability to be made within 60 days after injury and authorizing extension of time for good cause.
 
 Subsec. (c). Pub. L. 93–416, §14(2), substituted provisions relating to timeliness of claim for death when claim for injury was timely filed and death was based on same injury, for provisions relating to waiver of compliance with requirements for giving notice of injury and filing claim for compensation.
 

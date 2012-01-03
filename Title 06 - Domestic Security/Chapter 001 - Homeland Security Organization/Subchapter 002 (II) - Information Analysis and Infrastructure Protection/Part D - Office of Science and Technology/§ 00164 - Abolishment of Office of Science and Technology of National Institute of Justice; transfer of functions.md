@@ -2,7 +2,7 @@
 
 #### (a) Authority to transfer functions
 
-The Attorney General may transfer to the Office any other program or activity of the Department of Justice that the Attorney General, in consultation with the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives, determines to be consistent with the mission of the Office.
+The Attorney General may transfer to the Office any other program or activity of the Department of Justice that the Attorney General, in consultation with the Committee on the Judiciary of the Senate and the Committee on theJudiciary of the House of Representatives, determines to be consistent with the mission of the Office.
 
 #### (b) Transfer of personnel and assets
 
@@ -26,5 +26,5 @@ This subchapter, referred to in subsec. (c), was in the original “this title�
 
 #### Amendments
 
-2003—Subsec. (b). Pub. L. 108–7 inserted before period at end “: <i>Provided</i>, That any such transfer shall be carried out in accordance with section 605 of Public Law 107–77”.
+<b>2003</b>—Subsec. (b). Pub. L. 108–7 inserted before period at end “: <i>Provided</i>, That any such transfer shall be carried out in accordance with section 605 of Public Law 107–77”.
 

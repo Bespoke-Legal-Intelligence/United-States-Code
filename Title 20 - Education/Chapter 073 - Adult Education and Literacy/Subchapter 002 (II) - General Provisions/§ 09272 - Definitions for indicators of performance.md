@@ -6,7 +6,7 @@ In order to ensure nationwide comparability of performance data, the Secretary o
 
 #### (b) Representatives
 
-The representatives referred to in subsection (a) of this section are representatives of States (as defined in section 2801 of title 29) and political subdivisions, business and industry, employees, eligible providers of employment and training activities (as defined in section 2801 of title 29), educators, participants in activities carried out under this Act, State Directors of adult education, providers of adult education, providers of literacy services, individuals with expertise in serving the employment and training needs of eligible youth (as defined in section 2801 of title 29), parents, and other interested parties, with expertise regarding activities authorized under this Act.
+The representatives referred to in subsection (a) of this section are representatives of States (as defined in section 2801 of title 29) and political subdivisions, business and industry, employees, eligible providers of employment and training activities (as defined in section 2801 of title 29), educators, participants in activities carried out under this Act, State Directors of adult education, providers of adult education, providers of literacy services, individuals with expertise inserving the employment and training needs of eligible youth (as defined in section 2801 of title 29), parents, and other interested parties, with expertise regarding activities authorized under this Act.
 
 (Pub. L. 105–220, title V, §502, Aug. 7, 1998, 112 Stat. 1244.)
 

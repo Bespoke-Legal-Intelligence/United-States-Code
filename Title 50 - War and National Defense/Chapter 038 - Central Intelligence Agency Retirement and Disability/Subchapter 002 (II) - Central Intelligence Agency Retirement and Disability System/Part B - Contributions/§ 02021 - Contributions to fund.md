@@ -16,7 +16,7 @@
 
 #### (b) Consent of participant to deductions from pay
 
-Each participant shall be deemed to consent and agree to such deductions from basic pay, and payment less such deductions shall be a full and complete discharge and acquittance of all claims and demands whatsoever for all regular services during the period covered by such payment, except the right to the benefits to which the participant is entitled under this subchapter, notwithstanding any law, rule, or regulation affecting the individual's pay.
+Each participant shall be deemed to consent and agree to such deductions from basic pay, and payment less such deductions shall be a full and complete discharge and acquittance of all claims and demands whatsoever for all regularservices during the period covered by such payment, except the right to the benefits to which the participant is entitled under this subchapter, notwithstanding any law, rule, or regulation affecting the individual's pay.
 
 #### (c) Treatment of contributions after 35 years of service
 
@@ -66,7 +66,7 @@ Each participant shall be deemed to consent and agree to such deductions from ba
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (d)(1)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Act is classified generally tosubchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (d)(1)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Prior Provisions
 
@@ -84,7 +84,7 @@ Amendment by Pub. L. 103–178 effective Feb. 1, 1993, see section 202(b) of Pub
 
 Pub. L. 106–346, §101(a) \[title V, §505(g)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–54, provided that: “Notwithstanding section 211(a)(2) of the Central Intelligence Agency Retirement Act (50 U.S.C. 2021(a)(2)), during the period beginning on October 1, 2002, through December 31, 2002, the Central Intelligence Agency shall contribute 7.5 percent of the basic pay of an employee participating in the Central Intelligence Agency Retirement and Disability System in lieu of the agency contribution otherwise required under section 211(a)(2) of such Act.”
 
-Pub. L. 105–33, title VII, §7001(c)(1), (2), Aug. 5, 1997, 111 Stat. 658, as amended by Pub. L. 106–346, §101(a) \[title V, §505(c)(1)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–53, provided that:
+Pub. L. 105–33, title VII, §7001(c)(1), (2), Aug. 5, 1997, 111 Stat. 658, as amended by Pub. L. 106–346, §101(a)\[title V, §505(c)(1)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–53, provided that:
 
 “(1)
 

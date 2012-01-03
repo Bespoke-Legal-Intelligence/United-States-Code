@@ -10,7 +10,7 @@ For purposes of subsection (a)—
 
 #### (1) Registration-required obligation
 
-&emsp;The term “registration-required obligation” has the meaning given to such term by section 163(f)(2) except that clause (iv) of subparagraph (A), and subparagraph (B), of such section shall not apply.
+&emsp;The term “registration-required obligation” has the meaning given to such term by section 163(f)(2).
 
 #### (2) Registered form
 
@@ -18,9 +18,9 @@ For purposes of subsection (a)—
 
 (Added Pub. L. 98–369, div. A, title I, §41(a), July 18, 1984, 98 Stat. 552; amended Pub. L. 111–147, title V, §502(a)(2)(D), Mar. 18, 2010, 124 Stat. 107.)
 
-#### Amendment of Subsection (b)(1)
+#### Amendments
 
-<i>Pub. L. 111–147, title V, §502(a)(2)(D), (f), Mar. 18, 2010, 124 Stat. 107, 108, provided that, applicable to obligations issued after the date which is 2 years after Mar. 18, 2010, subsection (b)(1) of this section is amended by striking “except that clause (iv) of subparagraph (A), and subparagraph (B), of such section shall not apply”.</i>
+<b>2010</b>—Subsec. (b)(1). Pub. L. 111–147 struck out “except that clause (iv) of subparagraph (A), and subparagraph (B), of such section shall not apply” before period.
 
 #### Effective Date of 2010 Amendment
 

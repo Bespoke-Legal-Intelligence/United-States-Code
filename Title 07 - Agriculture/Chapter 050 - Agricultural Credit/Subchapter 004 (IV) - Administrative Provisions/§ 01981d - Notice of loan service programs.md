@@ -58,11 +58,11 @@ For definition of “this chapter”, referred to in subsecs. (a) and (c), see n
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–127 substituted “90 days past due on” for “180 days delinquent in”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–127 substituted “90 days past due on” for “180 days delinquent in”.
 
-1992—Subsec. (e). Pub. L. 102–554, which directed the insertion of “or, in extraordinary circumstances as determined by the applicable State director, after the 60-day period” after “not later than 60 days after receipt of the notice required in this section”, was executed by making the insertion after “within 60 days after receipt of the notice required in this section” to reflect the probable intent of Congress.
+<b>1992</b>—Subsec. (e). Pub. L. 102–554, which directed the insertion of “or, in extraordinary circumstances as determined by the applicable State director, after the 60-day period” after “not later than 60 days after receipt of the notice required in this section”, was executed by making the insertion after “within 60 days after receipt of the notice required in this section” to reflect the probable intent of Congress.
 
-1990—Subsec. (b)(1). Pub. L. 101–624, §1807(1), inserted “debt settlement programs,” after “preservation loan service programs”.
+<b>1990</b>—Subsec. (b)(1). Pub. L. 101–624, §1807(1), inserted “debt settlement programs,” after “preservation loan service programs”.
 
 Subsec. (e). Pub. L. 101–624, §1807(2), substituted “60 days” for “45 days”.
 

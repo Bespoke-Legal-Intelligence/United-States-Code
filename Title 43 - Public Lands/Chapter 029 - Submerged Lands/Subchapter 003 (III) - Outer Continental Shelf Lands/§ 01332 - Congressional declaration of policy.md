@@ -8,7 +8,7 @@ It is hereby declared to be the policy of the United States that—
 
 &emsp;(3) the outer Continental Shelf is a vital national resource reserve held by the Federal Government for the public, which should be made available for expeditious and orderly development, subject to environmental safeguards, in a manner which is consistent with the maintenance of competition and other national needs;
 
-&emsp;(4) since exploration, development, and production of the minerals of the outer Continental Shelf will have significant impacts on coastal and non-coastal areas of the coastal States, and on other affected States, and, inrecognition of the national interest in the effective management of the marine, coastal, and human environments—
+&emsp;(4) since exploration, development, and production of the minerals of the outer Continental Shelf will have significant impacts on coastal and non-coastal areas of the coastal States, and on other affected States, and, in recognition of the national interest in the effective management of the marine, coastal, and human environments—
 
 &emsp;&emsp;(A) such States and their affected local governments may require assistance in protecting their coastal zones and other affected areas from any temporary or permanent adverse effects of such impacts;
 

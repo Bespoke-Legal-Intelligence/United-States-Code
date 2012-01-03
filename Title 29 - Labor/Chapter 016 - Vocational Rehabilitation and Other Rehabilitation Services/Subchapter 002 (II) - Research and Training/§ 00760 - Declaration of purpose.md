@@ -2,7 +2,7 @@
 
 The purpose of this subchapter is to—
 
-&emsp;(1) provide for research, demonstration projects, training, and related activities to maximize the full inclusion and integration into society, employment, independent living, family support, and economic and social self-sufficiency of individuals with disabilities of all ages, with particular emphasis on improving the effectiveness of services authorized under this chapter;
+&emsp;(1) provide for research, demonstration projects, training, and related activities to maximize the full inclusion and integration into society, employment, independent living, family support, and economic and social self-sufficiency of individuals with disabilities ofall ages, with particular emphasis on improving the effectiveness of services authorized under this chapter;
 
 &emsp;(2) provide for a comprehensive and coordinated approach to the support and conduct of such research, demonstration projects, training, and related activities and to ensure that the approach is in accordance with the 5-year plan developed under section 762(h) of this title;
 

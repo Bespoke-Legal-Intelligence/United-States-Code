@@ -22,7 +22,7 @@ Except in the case of a publicly offered regulated investment company (as define
 
 #### (d) Distributions by a member of an affiliated group
 
-In the case where a corporation which is a member of an affiliated group of corporations filing or required to file a consolidated return for a taxable year is required to file a separatepersonal holding company schedule for such taxable year, a distribution by such corporation to another member of the affiliated group shall be considered as a dividend for purposes of computing the dividends paid deduction if such distribution would constitute a dividend under the other provisions of this section to a recipient which is not a member of an affiliated group.
+In the case where a corporation which is a member of an affiliated group of corporations filing or required to file a consolidated return for a taxable year is required to file a separate personal holding company schedule for such taxable year, a distribution by such corporation to another member of the affiliated group shall be considered as a dividend for purposes of computing the dividends paid deduction if such distribution would constitute a dividend under the other provisions of this section to a recipient which is not a member of an affiliated group.
 
 #### (e) Special rules for real estate investment trusts
 
@@ -52,7 +52,7 @@ Pub. L. 111–325, title III, §307(c), Dec. 22, 2010, 124 Stat. 3550, provided 
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.
+Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31,2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 

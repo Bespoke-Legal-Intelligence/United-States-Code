@@ -86,7 +86,7 @@ Subject to subsection (c) of this section, an eligible entity receiving funds un
 
 &emsp;&emsp;(E) basic instruction services that are directly attributable to the presence in the school district involved of immigrant children and youth, including the payment of costs of providing additional classroom supplies, costs of transportation, or such other costs as are directly attributable to such additional basic instruction services;
 
-&emsp;&emsp;(F) other instruction services that are designed to assist immigrant children and youth to achieve in elementary schools and secondary schools in the United States, such as programs of introduction to the educational system and civics education; and
+&emsp;&emsp;(F) other instruction services that are designed to assist immigrant children and youth to achieve in elementary schools andsecondary schools in the United States, such as programs of introduction to the educational system and civics education; and
 
 &emsp;&emsp;(G) activities, coordinated with community-based organizations, institutions of higher education, private sector entities, or other entities with expertise in working with immigrants, to assist parents of immigrant children and youth by offering comprehensive community services.
 

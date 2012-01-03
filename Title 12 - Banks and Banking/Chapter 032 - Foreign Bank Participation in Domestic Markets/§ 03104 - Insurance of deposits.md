@@ -6,11 +6,11 @@ In implementing this section, the Comptroller and the Federal Deposit Insurance 
 
 #### (b) Deposits of less than amount equal to the standard maximum deposit insurance amount
 
-No foreign bank may establish or operate a Federal branch which receives deposits of less than an amount equal to the standard maximum deposit insurance amount unless the branch is an insured branch as defined in section 3(s) of the Federal Deposit Insurance Act \[12 U.S.C. 1813(s)\], or unless the Comptroller determines by order or regulation that the branch is not engaged in domestic retail deposit activities requiring deposit insurance protection, taking account of the size and nature of depositors and deposit accounts.
+No foreign bank may establish or operate a Federal branch which receives deposits of less than an amount equal to the standard maximum deposit insurance amount unless the branch is an insured branch as defined in section 3(s) of the Federal Deposit Insurance Act \[12 U.S.C.1813(s)\], or unless the Comptroller determines by order or regulation that the branch is not engaged in domestic retail deposit activities requiring deposit insurance protection, taking account of the size and nature of depositors and deposit accounts.
 
 #### (c) Deposits required to be insured under State law
 
-(1) After September 17, 1978, no foreign bank may establish a branch, and after one year following such date no foreign bank may operate a branch, in any State in which the deposits of a bank organized and existing under the laws of that State would be required to be insured, unless the branch is an insured branch as defined in section 3(s) of the Federal Deposit Insurance Act \[12 U.S.C. 1813(s)\], or unless the branch will not thereafter accept deposits of less than an amount equal to the standard maximum deposit insurance amount, or unless the Federal DepositInsurance Corporation determines by order or regulation that the branch is not engaged in domestic retail deposit activities requiring deposit insurance protection, taking account of the size and nature of depositors and deposit accounts.
+(1) After September 17, 1978, no foreign bank may establish a branch, and after one year following such date no foreign bank may operate a branch, in any State in which the deposits of a bank organized and existing under the laws of that State would be required to be insured, unless the branch is an insured branch as defined in section 3(s) of the Federal Deposit Insurance Act \[12 U.S.C. 1813(s)\], or unless the branch will not thereafter accept deposits of less than an amount equal to the standard maximum deposit insurance amount, or unless the Federal Deposit Insurance Corporation determines by order or regulation that the branch is not engaged in domestic retail deposit activities requiring deposit insurance protection, taking account of the size and nature of depositors and deposit accounts.
 
 (2) Notwithstanding the previous paragraph, a branch of a foreign bank in operation on September 17, 1978, which has applied for Federal deposit insurance pursuant to section 5 of the Federal Deposit Insurance Act \[12 U.S.C. 1815\] by September 17, 1979, and has not had such application denied, may continue to accept domestic retail deposits until January 31, 1980.
 
@@ -46,25 +46,25 @@ The Federal Deposit Insurance Act, referred to in subsec. (d)(1), (3), is act Se
 
 #### Amendments
 
-2006—Subsecs. (b), (c)(1), (d)(1), (2). Pub. L. 109–173, §2(c)(4)(A), substituted “an amount equal to the standard maximum deposit insurance amount” for “$100,000”.
+<b>2006</b>—Subsecs. (b), (c)(1), (d)(1), (2). Pub. L. 109–173, §2(c)(4)(A), substituted “an amount equal to the standard maximum deposit insurance amount” for “$100,000”.
 
 Subsec. (e). Pub. L. 109–173, §2(c)(4)(B), added subsec. (e).
 
-1994—Subsecs. (a) to (d). Pub. L. 103–328, §107(a), added subsec. (a) and redesignated former subsecs. (a) to (c) as (b) to (d), respectively.
+<b>1994</b>—Subsecs. (a) to (d). Pub. L. 103–328, §107(a), added subsec. (a) and redesignated former subsecs. (a) to (c) as (b) to (d), respectively.
 
 Subsec. (d)(3). Pub. L. 103–328, §107(d), added par. (3).
 
-1992—Subsec. (c). Pub. L. 102–550, §1604(a)(10), struck out the subsec. (c) which was in effect before the subsec. (c) added by Pub. L. 102–242, §214(a)(3), and which amended various other sections of this title.
+<b>1992</b>—Subsec. (c). Pub. L. 102–550, §1604(a)(10), struck out the subsec. (c) which was in effect before the subsec. (c) added by Pub. L. 102–242, §214(a)(3), and which amended various other sections of this title.
 
 Subsec. (c)(1). Pub. L. 102–558, §302(a)(1), inserted “domestic retail” before “deposit accounts” and “and requiring deposit insurance protection,” after “$100,000,” in introductory provisions. Pub. L. 102–550, §1604(a)(11)(A), which made an identical amendment, was repealed, effective Oct. 28, 1992, by Pub. L. 102–558, §305, set out as a Repeal of Duplicative Provisions note under section 1815 of this title.
 
 Subsec. (c)(2). Pub. L. 102–558, §302(a)(2), substituted “Domestic retail deposit” for “Deposit” and inserted “that require deposit insurance protection” after “$100,000”. Pub. L. 102–550, §1604(a)(11)(B), which made an identical amendment, was repealed, effective Oct. 28, 1992, by Pub. L. 102–558, §305, set out as a Repeal of Duplicative Provisions note under section 1815 of this title.
 
-1991—Subsec. (b). Pub. L. 102–242, §214(a)(1), (2), redesignated subsec. (b) as (b)(1) and designated last undesignated par. as par. (2).
+<b>1991</b>—Subsec. (b). Pub. L. 102–242, §214(a)(1), (2), redesignated subsec. (b) as (b)(1) and designated last undesignated par. as par. (2).
 
 Subsec. (c). Pub. L. 102–242, §214(a)(3), added subsec. (c).
 
-1979—Subsec. (b). Pub. L. 96–64 inserted second par. which extended time for foreign banks to obtain required deposit insurance with respect to domestic existing branches.
+<b>1979</b>—Subsec. (b). Pub. L. 96–64 inserted second par. which extended time for foreign banks to obtain required deposit insurance with respect to domestic existing branches.
 
 #### Effective Date of 2006 Amendment
 
@@ -72,7 +72,7 @@ Amendment by Pub. L. 109–173 effective Apr. 1, 2006, see section 2(e) of Pub. 
 
 #### Effective Date of 1992 Amendments
 
-Section 302(b) of Pub. L. 102–558 provided that: “This section, and the amendments made by this section \[amending this section\], shall have the same effective date as the Federal Deposit Insurance Corporation Improvement Act of 1991 \[Pub. L. 102–242\].”
+Section 302(b) of Pub. L. 102–558 provided that: “This section, and the amendments made by this section\[amending this section\], shall have the same effective date as the Federal Deposit Insurance Corporation Improvement Act of 1991 \[Pub. L. 102–242\].”
 
 Amendment by Pub. L. 102–550 effective as if included in the Federal Deposit Insurance Corporation Improvement Act of 1991, Pub. L. 102–242, as of Dec. 19, 1991, see section 1609(a) of Pub. L. 102–550, set out as a note under section 191 of this title.
 

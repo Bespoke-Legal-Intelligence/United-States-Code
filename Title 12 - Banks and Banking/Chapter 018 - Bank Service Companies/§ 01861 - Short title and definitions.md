@@ -26,11 +26,11 @@ For the purpose of this chapter—
 
 &emsp;(3) the term “Board” means the Board of Governors of the Federal Reserve System;
 
-&emsp;(4) the term “depository institution” means, except when such term appears in connection with the term “insured depository institution”, an insured bank, financial institution subject to examination by the Director of the Office of Thrift Supervision or the National Credit Union Administration Board, or a financial institution the accounts or deposits of which are insured or guaranteed under State law and are eligible to be insured by the Federal Deposit Insurance Corporation, the Federal Savings and Loan Insurance Corporation, or the National Credit Union Administration Board;
+&emsp;(4) the term “depository institution” means, except when such term appears in connection with the term “insured depository institution”, an insured bank, a savings association, financial institution subject to examination by the appropriate Federal banking agency or the National Credit Union Administration Board, or a financial institution the accounts or deposits of which are insured or guaranteed under State law and are eligible to be insured by the Federal Deposit Insurance Corporation or the National Credit Union Administration Board;
 
 &emsp;(5)
 
-Insured depository institution.—The term “insured depository institution” has the same meaning as in section 1813(c) of this title;
+Insured depository institution.—The terms “depository institution” and “savings association” have the same meanings as in section 1813 of this title;
 
 &emsp;(6) the term “invest” includes any advance of funds to a bank service company, whether by the purchase of stock, the making of a loan, or otherwise, except a payment for rent earned, goods sold and delivered, or services rendered prior to the making of such payment;
 
@@ -40,11 +40,15 @@ Insured depository institution.—The term “insured depository institution” 
 
 &emsp;(9) the terms “State depository institution”, “Federal depository institution”, “State savings association” and “Federal savings association” have the same meanings as in section 1813 of this title.
 
-(Pub. L. 87–856, §1, Oct. 23, 1962, 76 Stat. 1132; Pub. L. 97–320, title VII, §709, Oct. 15, 1982, 96 Stat. 1540; Pub. L. 97–457, §32(a), Jan. 12, 1983, 96 Stat. 2511; Pub. L. 104–208, div. A, title II, §2613(a), (b), Sept. 30, 1996, 110 Stat. 3009–476; Pub. L. 109–351, title VI, §602(b)(1), Oct. 13, 2006, 120 Stat. 1979.)
+(Pub. L. 87–856, §1, Oct. 23, 1962, 76 Stat. 1132; Pub. L. 97–320, title VII, §709, Oct. 15, 1982, 96 Stat. 1540; Pub. L. 97–457, §32(a), Jan. 12, 1983, 96 Stat. 2511; Pub. L. 104–208, div. A, title II, §2613(a), (b), Sept. 30, 1996, 110 Stat. 3009–476; Pub. L. 109–351, title VI, §602(b)(1), Oct. 13, 2006, 120 Stat. 1979; Pub. L. 111–203, title III, §357(1), (2), July 21, 2010, 124 Stat. 1547, 1548.)
 
 #### Amendments
 
-2006—Subsec. (b)(2)(A)(ii), (B)(ii). Pub. L. 109–351, §602(b)(1)(F), substituted “insured depository institutions” for “insured banks”.
+<b>2010</b>—Subsec. (b)(4). Pub. L. 111–203, §357(1), inserted “a savings association,” after “an insured bank,”, substituted “appropriate Federal banking agency” for “Director of the Office of Thrift Supervision”, and struck out “, the Federal Savings and Loan Insurance Corporation,” after “Federal Deposit Insurance Corporation”.
+
+Subsec. (b)(5). Pub. L. 111–203, §357(2), substituted “terms ‘depository institution’ and ‘savings association’ have the same meanings as in section 1813” for “term ‘insured depository institution’ has the same meaning as in section 1813(c)”.
+
+<b>2006</b>—Subsec. (b)(2)(A)(ii), (B)(ii). Pub. L. 109–351, §602(b)(1)(F), substituted “insured depository institutions” for “insured banks”.
 
 Subsec. (b)(4). Pub. L. 109–351, §602(b)(1)(A), inserted “, except when such term appears in connection with the term ‘insured depository institution’,” after “means” and substituted “Director of the Office of Thrift Supervision” for “Federal Home Loan Bank Board”.
 
@@ -54,7 +58,7 @@ Subsec. (b)(8). Pub. L. 109–351, §602(b)(1)(G), substituted “means the insu
 
 Subsec. (b)(9). Pub. L. 109–351, §602(b)(1)(C)–(E), added par. (9).
 
-1996—Subsec. (a). Pub. L. 104–208, §2613(a), inserted heading and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “This chapter may be cited as the ‘Bank Service Corporation Act’.”
+<b>1996</b>—Subsec. (a). Pub. L. 104–208, §2613(a), inserted heading and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “This chapter may be cited as the ‘Bank Service Corporation Act’.”
 
 Subsec. (b)(2). Pub. L. 104–208, §2613(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the term ‘bank service corporation’ means a corporation organized to perform services authorized by this chapter, all of the capital stock of which is owned by one or more insured banks;”.
 
@@ -66,9 +70,9 @@ Subsec. (b)(8). Pub. L. 104–208, §2613(b)(4), substituted “company” for �
 
 Pub. L. 104–208, §2613(b)(3), redesignated par. (7) as (8).
 
-1983—Subsec. (b)(4). Pub. L. 97–457 substituted “a” for “or another” after “insured bank,” and inserted reference to a financial institution insured by State law and eligible to be insured by certain Federal agencies.
+<b>1983</b>—Subsec. (b)(4). Pub. L. 97–457 substituted “a” for “or another” after “insured bank,” and inserted reference to a financial institution insured by State law and eligible to be insured by certain Federal agencies.
 
-1982—Subsec. (a). Pub. L. 97–320 substituted provision that this chapter may be cited as the “Bank Service Corporation Act” for provision that term “Federal supervisory agency” meant the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, or the Board of Directors of the Federal Deposit Insurance Corporation.
+<b>1982</b>—Subsec. (a). Pub. L. 97–320 substituted provision that this chapter may be cited as the “Bank Service Corporation Act” for provision that term “Federal supervisory agency” meant the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, or the Board of Directors of the Federal Deposit Insurance Corporation.
 
 Subsec. (b). Pub. L. 97–320 substituted definitions of “appropriate Federal banking agency”, “bank service corporation”, “Board”, “depository institution”, “insured bank”, “invest”, and “principal investor” for provision that term “bank services” meant services such as check and deposit sorting and posting, computation and posting of interest and other credits and charges, preparation and mailing of checks, statements, notices, and similar items, or any other clerical, bookkeeping, accounting, statistical, or similar functions performed for a bank.
 
@@ -76,7 +80,7 @@ Subsec. (c). Pub. L. 97–320 redesignated provisions of subsec. (c) defining �
 
 Subsec. (d). Pub. L. 97–320 redesignated provisions of subsec. (d) as (b)(6).
 
-#### Transfer of Functions
+#### Effective Date of 2010 Amendment
 
-Federal Savings and Loan Insurance Corporation abolished and functions transferred, see sections 401 to406 of Pub. L. 101–73, set out as a note under section 1437 of this title.
+Amendment by Pub. L. 111–203 effective on the transfer date, see section 351 of Pub. L. 111–203, set out as a note under section 906 of Title 2, The Congress.
 

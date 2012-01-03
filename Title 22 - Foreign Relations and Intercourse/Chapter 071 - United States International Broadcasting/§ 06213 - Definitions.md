@@ -10,7 +10,7 @@ For the purposes of this chapter—
 
 &emsp;&emsp;(B) any alternative grantee described in section 6206(e) <sup>2</sup> of this title; and
 
-&emsp;(3) the term “salary or other compensation” includes any deferred compensation or pension payments, any payments for expenses for which the recipient is not obligated to itemize, and any payments for personnel services provided to an employee of RFE/RL, Incorporated.
+&emsp;(3) the term “salary or other compensation” includes any deferred compensation or pension payments, any payments for expenses forwhich the recipient is not obligated to itemize, and any payments for personnel services provided to an employee of RFE/RL, Incorporated.
 
 (Pub. L. 103–236, title III, §314, Apr. 30, 1994, 108 Stat. 445.)
 

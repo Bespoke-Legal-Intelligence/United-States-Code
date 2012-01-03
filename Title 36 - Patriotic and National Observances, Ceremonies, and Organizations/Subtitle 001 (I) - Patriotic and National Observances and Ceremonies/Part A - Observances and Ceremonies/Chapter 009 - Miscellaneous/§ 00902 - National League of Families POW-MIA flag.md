@@ -134,7 +134,7 @@ Subsec. (d)(3). Pub. L. 107–323, §2(a), substituted “The World War II Memor
 
 Display.—The flag shall be displayed—
 
-&emsp;“(1) at each national cemetery and at the National Vietnam Veterans Memorial each year on MemorialDay and Veterans Day and on any day designated by law as National POW/MIA Recognition Day; and
+&emsp;“(1) at each national cemetery and at the National Vietnam Veterans Memorial each year on Memorial Day and Veterans Day and on any day designated by law as National POW/MIA Recognition Day; and
 
 &emsp;“(2) on, or on the grounds of, the buildings containing the primary offices of the Secretaries of State, Defense, and Veterans Affairs, and the Director of the Selective Service System on any day designated by law as National POW/MIA Recognition Day.
 

@@ -12,11 +12,11 @@ Prompt Indemnification Required.—(1) In the event of a loss that is covered by
 
 (b)
 
-Source of Funds for Payment of Indemnity.—The Secretary of Defense may pay an indemnity described in subsection (a) from anyfunds available to the Department of Defense for operation and maintenance, and such sums as may be necessary for payment of such indemnity are hereby authorized to be transferred to the Secretary of Transportation for such purpose.
+Source of Funds for Payment of Indemnity.—The Secretary of Defense may pay an indemnity described in subsection (a) from any funds available to the Department of Defense for operation and maintenance, and such sums as may be necessary for payment of such indemnity are hereby authorized to be transferred to the Secretary of Transportation for such purpose.
 
 (c)
 
-Notice to Congress.—In the event of a loss that is covered by defense-related aviation insurance in the case of an incident in which the covered loss is (or is expected to be) in an amount in excess of $1,000,000, the Secretary of Defense shall submit to Congress notification of the loss as soon after the occurrence of the loss as possible and in no event more than 30 days after the date of the loss.
+Notice to Congress.—In the event of a loss that is covered by defense-related aviation insurance in the case of an incident in which the covered loss is (or is expected to be) in an amount in excess of $10,000,000, the Secretary of Defense shall submit to Congress notification of the loss as soon after the occurrence of the loss as possible and in no event more than 30 days after the date of the loss.
 
 (d)
 
@@ -26,7 +26,7 @@ Implementing Matters.—(1) Payment of indemnification under this section is not
 
 (e)
 
-Construction With Other Transfer Authority.—Authority to transfer funds under this section is in addition to any other authority provided by law to transfer funds (whether enacted before, on, or after the date of the enactment of this section) and is not subject to any dollar limitation or notification requirement contained in any other such authority to transfer funds.
+Construction With Other Transfer Authority.—Authority to transfer funds under this section is in addition to any other authorityprovided by law to transfer funds (whether enacted before, on, or after the date of the enactment of this section) and is not subject to any dollar limitation or notification requirement contained in any other such authority to transfer funds.
 
 \[(f) Repealed. Pub. L. 108–136, div. A, title X, §1031(a)(60)(B), Nov. 24, 2003, 117 Stat. 1603.\]
 
@@ -42,13 +42,15 @@ Defense-related aviation insurance.—The term “defense-related aviation insur
 
 Loss.—The term “loss” includes damage to or destruction of property, personal injury or death, and other liabilities and expenses covered by the defense-related aviation insurance.
 
-(Added Pub. L. 104–201, div. A, title X, §1079(a)(1), Sept. 23, 1996, 110 Stat. 2667; amended Pub. L. 108–136, div. A, title X, §1031(a)(60), Nov. 24, 2003, 117 Stat. 1603.)
+(Added Pub. L. 104–201, div. A, title X, §1079(a)(1), Sept. 23, 1996, 110 Stat. 2667; amended Pub. L. 108–136, div. A, title X, §1031(a)(60), Nov. 24, 2003, 117 Stat. 1603; Pub. L. 112–81, div. A, title X, §1064(10), Dec. 31, 2011, 125 Stat. 1587.)
 
 #### References in Text
 
 The date of the enactment of this section, referred to in subsec. (e), is the date of enactment of Pub. L. 104–201, which was approved Sept. 23, 1996.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (c). Pub. L. 112–81 substituted “$10,000,000” for “$1,000,000”.
 
 <b>2003</b>—Subsec. (c). Pub. L. 108–136, §1031(a)(60)(A), struck out designation for par. (1) before “notification of the loss”, substituted “Congress” for “Congress—” and “loss.” for “loss; and”, and struck out par. (2) which read as follows: “semiannual reports thereafter updating the information submitted under paragraph (1) and showing with respect to losses arising from such incident the total amount expended to cover such losses, the source of those funds, pending litigation, and estimated total cost to the Government.”
 

@@ -109,7 +109,7 @@ The Peace Corps Act, referred to in subsec. (f)(1), is Pub. L. 87–293, Sept. 2
 
 #### Amendments
 
-2009—Pub. L. 111–84, §1904(b)(3)(A), amended section catchline generally, inserting “; deposits” after “service”.
+<b>2009</b>—Pub. L. 111–84, §1904(b)(3)(A), amended section catchline generally, inserting “; deposits” after “service”.
 
 Subsec. (c). Pub. L. 111–84, §1904(b)(2), inserted at end “Deposits made by an employee, Member, or survivor also shall be credited to the Fund.”
 
@@ -117,19 +117,19 @@ Subsec. (d)(2). Pub. L. 111–84, §1901(b), substituted “paragraph (1) or (2)
 
 Subsec. (i). Pub. L. 111–84, §1904(a), added subsec. (i).
 
-2007—Subsec. (a)(3). Pub. L. 110–161 inserted table for customs and border protection officer.
+<b>2007</b>—Subsec. (a)(3). Pub. L. 110–161 inserted table for customs and border protection officer.
 
-2003—Subsec. (d)(2). Pub. L. 108–176, which directed the substitution of “8415(j)” for “8415(i)”, could not be executed because “8415(i)” did not appear subsequent to amendment by Pub. L. 108–92. See below.
+<b>2003</b>—Subsec. (d)(2). Pub. L. 108–176, which directed the substitution of “8415(j)” for “8415(i)”, could not be executed because “8415(i)” did not appear subsequent to amendment by Pub. L. 108–92. See below.
 
 Pub. L. 108–92 substituted “8415(k)” for “8415(i)”.
 
-2002—Subsec. (d). Pub. L. 107–135 designated existing provisions as par. (1) and added par. (2).
+<b>2002</b>—Subsec. (d). Pub. L. 107–135 designated existing provisions as par. (1) and added par. (2).
 
-2001—Pub. L. 107–107, §1132(b)(2)(B), substituted “other service” for “military service” in section catchline.
+<b>2001</b>—Pub. L. 107–107, §1132(b)(2)(B), substituted “other service” for “military service” in section catchline.
 
 Subsec. (h). Pub. L. 107–107, §1132(b)(2)(A), added subsec. (h).
 
-2000—Subsec. (a)(3). Pub. L. 106–553 inserted “member of the Supreme Court Police,” after “member of the Capitol Police,” in table for law enforcement officer, firefighter, member of the Capitol Police, or air traffic controller.
+<b>2000</b>—Subsec. (a)(3). Pub. L. 106–553 inserted “member of the Supreme Court Police,” after “member of the Capitol Police,” in table for law enforcement officer, firefighter, member of the Capitol Police, or air traffic controller.
 
 Pub. L. 106–346, §101(a) \[title V, §505(b)(1)\], added par. (3) and struck out former par. (3), which set out tables of applicable percentages for employee, Congressional employee, Member, law enforcement officer, firefighter, member of the Capitol Police, air traffic controller, and nuclear materials courier.
 
@@ -137,11 +137,11 @@ Subsec. (e)(6). Pub. L. 106–346, §101(a) \[title V, §505(b)(2)\], inserted �
 
 Subsec. (f)(4). Pub. L. 106–346, §101(a) \[title V, §505(b)(3)\], inserted “and” at end of subpar. (A), substituted a period for “; and” at end of subpar. (B), and struck out subpar. (C) which read as follows: “January 1, 2001, through December 31, 2002, shall be 3.5 percent.”
 
-1999—Subsec. (a)(3). Pub. L. 106–65, in table for nuclear materials courier, substituted “October 16, 1998” for “the day before the date of the enactment of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999” and “October 17, 1998” for “The date of the enactment of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999”.
+<b>1999</b>—Subsec. (a)(3). Pub. L. 106–65, in table for nuclear materials courier, substituted “October 16, 1998” for “the day before the date of the enactment of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999” and “October 17, 1998” for “The date of the enactment of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999”.
 
-1998—Subsec. (a)(3). Pub. L. 105–261 inserted table for nuclear materials courier.
+<b>1998</b>—Subsec. (a)(3). Pub. L. 105–261 inserted table for nuclear materials courier.
 
-1997—Subsec. (a)(2), (3). Pub. L. 105–33, §7001(b)(1)(A), added pars. (2) and (3) and struck out former par. (2) which read as follows: “The applicable percentage under this subsection for any pay period shall be—
+<b>1997</b>—Subsec. (a)(2), (3). Pub. L. 105–33, §7001(b)(1)(A), added pars. (2) and (3) and struck out former par. (2) which read as follows: “The applicable percentage under this subsection for any pay period shall be—
 
 &emsp;“(A) in the case of an employee (other than a law enforcement officer, firefighter, air traffic controller, or Congressional employee) a percentage equal to—
 
@@ -151,7 +151,7 @@ Subsec. (f)(4). Pub. L. 106–346, §101(a) \[title V, §505(b)(3)\], inserted �
 
 &emsp;“(B) in the case of a Member, law enforcement officer, firefighter, air traffic controller, or Congressional employee, a percentage equal to—
 
-&emsp;&emsp;“(i) 71/2 percent, minus
+&emsp;&emsp;“(i) 7½ percent, minus
 
 &emsp;&emsp;“(ii) the same percentage as would apply in the case of an employee under subparagraph (A)(ii).”
 
@@ -165,19 +165,19 @@ Subsec. (f)(4). Pub. L. 105–33, §7001(b)(1)(C)(ii), added par. (4).
 
 Subsec. (g). Pub. L. 105–61 added subsec. (g).
 
-1996—Subsec. (c). Pub. L. 104–316 substituted “Secretary of the Treasury” for “Comptroller General of the United States”.
+<b>1996</b>—Subsec. (c). Pub. L. 104–316 substituted “Secretary of the Treasury” for “Comptroller General of the United States”.
 
 Subsec. (e)(1)(A), (3). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk”.
 
-1994—Subsec. (a)(2)(A)(ii). Pub. L. 103–353, §5(e)(2), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1994</b>—Subsec. (a)(2)(A)(ii). Pub. L. 103–353, §5(e)(2), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
 Subsec. (e)(1). Pub. L. 103–353, §5(d)(1), designated existing provisions as subpar. (A) and substituted “Except as provided in subparagraph (B), each employee” for “Each employee” and added subpar. (B).
 
 Subsec. (e)(2)(B). Pub. L. 103–353, §5(d)(2), inserted before comma at end “following the period of military service for which such deposit is due”.
 
-1993—Subsec. (f). Pub. L. 103–82 added subsec. (f).
+<b>1993</b>—Subsec. (f). Pub. L. 103–82 added subsec. (f).
 
-1988—Subsec. (e)(5). Pub. L. 100–238 added par. (5).
+<b>1988</b>—Subsec. (e)(5). Pub. L. 100–238 added par. (5).
 
 #### Effective Date of 2009 Amendment
 

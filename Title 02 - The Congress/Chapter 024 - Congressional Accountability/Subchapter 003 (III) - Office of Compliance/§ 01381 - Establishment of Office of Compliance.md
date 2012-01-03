@@ -10,7 +10,7 @@ The Office shall have a Board of Directors. The Board shall consist of 5 individ
 
 #### (c) Chair
 
-The Chair shall be appointed from members of the Board jointly by the Speaker of the House ofRepresentatives, the Majority Leader of the Senate, and the Minority Leaders of the House of Representatives and the Senate.
+The Chair shall be appointed from members of the Board jointly by the Speaker of the House of Representatives, the Majority Leader of the Senate, and the Minority Leaders of the House of Representatives and the Senate.
 
 #### (d) Board of Directors qualifications
 
@@ -124,11 +124,11 @@ The Ethics in Government Act of 1978, referred to in subsec. (k), is Pub. L. 95�
 
 #### Amendments
 
-2007—Subsec. (d)(2)(B). Pub. L. 110–164 substituted “legislative branch (other than the Office),” for “legislative branch,”.
+<b>2007</b>—Subsec. (d)(2)(B). Pub. L. 110–164 substituted “legislative branch (other than the Office),” for “legislative branch,”.
 
 Subsec. (g)(1). Pub. L. 110–161 added par. (1) and struck out heading and text of former par. (1). Text read as follows: “Each member of the Board shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of title 5 for each day (including travel time) during which such member is engaged in the performance of the duties of the Board. The rate of pay of a member may be prorated based on the portion of the day during which the member is engaged in the performance of Board duties.”
 
-2004—Subsec. (e)(1). Pub. L. 108–349 amended second sentence generally. Prior to amendment, second sentence read as follows: “A member of the Board who is appointed to a term of office of more than 3 years shall only be eligible for appointment for a single term of office.”
+<b>2004</b>—Subsec. (e)(1). Pub. L. 108–349 amended second sentence generally. Prior to amendment, second sentence read as follows: “A member of the Board who is appointed to a term of office of more than 3 years shall only be eligible for appointment for a single term of office.”
 
 #### Change of Name
 

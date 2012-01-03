@@ -44,7 +44,7 @@ To carry out the foregoing purposes and engage in the foregoing activities, the 
 
 &emsp;(B) local governmental bodies.
 
-(3) The Secretary of Housing and Urban Development, the Federal Home Loan Bank Board and the Federal home loan banks, the Board of Governors of the Federal Reserve System and the Federal Reserve banks, the Federal Deposit Insurance Corporation, and the Comptroller of the Currency, the National Credit Union Administration or any other department, agency, or other instrumentality of the Federal Government are authorized to provide funds, services and facilities, with or without reimbursement, necessary to achieve the objectives and to carry out the purposes of this subchapter.
+(3) The Secretary of Housing and Urban Development, the Federal Housing Finance Agency and the Federal home loan banks, the Board of Governors of the Federal Reserve System and the Federal Reserve banks, the Federal Deposit Insurance Corporation, and the Comptroller of the Currency, the National Credit Union Administration or any other department, agency, or other instrumentality of the Federal Government are authorized to provide funds, services and facilities, with or without reimbursement, necessary to achieve the objectives and to carry out the purposes of this subchapter.
 
 #### (d) Non-profit nature of corporation
 
@@ -56,19 +56,13 @@ To carry out the foregoing purposes and engage in the foregoing activities, the 
 
 (Pub. L. 95–557, title VI, §606, Oct. 31, 1978, 92 Stat. 2117; Pub. L. 96–399, title III, §315(2), Oct. 8, 1980, 94 Stat. 1645; Pub. L. 97–320, title VII, §710(b), Oct. 15, 1982, 96 Stat. 1544; Pub. L. 111–203, title III, §374, July 21, 2010, 124 Stat. 1566.)
 
-#### Amendment of Subsection (c)(3)
-
-<i>Pub. L. 111–203, title III, §§351, 374, July 21, 2010, 124 Stat. 1546, 1566, provided that, effective on the transfer date, subsection (c)(3) of this section is amended by substituting “Federal Housing Finance Agency” for “Federal Home Loan Bank Board”. See Effective Date of 2010 Amendment note below.</i>
-
 #### Amendments
+
+<b>2010</b>—Subsec. (c)(3). Pub. L. 111–203 substituted “Federal Housing Finance Agency” for “Federal Home Loan Bank Board”.
 
 <b>1982</b>—Subsec. (c)(3). Pub. L. 97–320 inserted “funds,” after “provide”.
 
 <b>1980</b>—Subsec. (a)(1). Pub. L. 96–399 substituted “monitoring” for “supervising”.
-
-#### Transfer of Functions
-
-Federal Home Loan Bank Board abolished and functions transferred, see sections 401 to 406 of Pub. L. 101–73, set out as a note under section 1437 of Title 12, Banks and Banking.
 
 #### Effective Date of 2010 Amendment
 

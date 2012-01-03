@@ -72,7 +72,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 1322(b)(2) of the House amendment represents a compromise agreement between similar provisions in the House bill and Senate amendment. Under the House amendment, the plan may modify the rights of holders of secured claims other than a claim secured by a security interest in real property that is the debtor's principal residence. It is intended that a claim secured by the debtor's principal residence may be treated with under section 1322(b)(5) of the House amendment.
 
@@ -94,13 +94,13 @@ Subsection (c) limits the payment period under the plan to 3 years, except that 
 
 #### Amendments
 
-2010—Subsec. (a). Pub. L. 111–327, §2(a)(43)(A), struck out “shall” after “plan” in introductory provisions.
+<b>2010</b>—Subsec. (a). Pub. L. 111–327, §2(a)(43)(A), struck out “shall” after “plan” in introductory provisions.
 
 Subsec. (a)(1) to (3). Pub. L. 111–327, §2(a)(43)(B)–(D), inserted “shall” before “provide”.
 
 Subsec. (a)(4). Pub. L. 111–327, §2(a)(43)(E), struck out “a plan” before “may provide”.
 
-2005—Subsec. (a)(4). Pub. L. 109–8, §213(8), added par. (4).
+<b>2005</b>—Subsec. (a)(4). Pub. L. 109–8, §213(8), added par. (4).
 
 Subsec. (b)(10), (11). Pub. L. 109–8, §213(9), added par. (10) and redesignated former par. (10) as (11).
 
@@ -108,11 +108,11 @@ Subsec. (d). Pub. L. 109–8, §318(1), amended subsec. (d) generally. Prior to 
 
 Subsec. (f). Pub. L. 109–8, §224(d), added subsec. (f).
 
-1994—Subsecs. (c), (d). Pub. L. 103–394, §301, added subsec. (c) and redesignated former subsec. (c) as (d).
+<b>1994</b>—Subsecs. (c), (d). Pub. L. 103–394, §301, added subsec. (c) and redesignated former subsec. (c) as (d).
 
 Subsec. (e). Pub. L. 103–394, §305(c), added subsec. (e).
 
-1984—Subsec. (a)(2). Pub. L. 98–353, §528(a), inserted a comma after “payments”.
+<b>1984</b>—Subsec. (a)(2). Pub. L. 98–353, §528(a), inserted a comma after “payments”.
 
 Subsec. (b)(1). Pub. L. 98–353, §316, inserted “; however, such plan may treat claims for a consumer debt of the debtor if an individual is liable on such consumer debt with the debtor differently than other unsecured claims”.
 

@@ -1694,9 +1694,11 @@ $70.00
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-(June 19, 1934, ch. 652, title I, §8, as added Pub. L. 99–272, title V, §5002(e), Apr. 7, 1986, 100 Stat. 118; amended Pub. L. 100–594, §5, Nov. 3, 1988, 102 Stat. 3021; Pub. L. 101–239, title III, §3001(a), (b), Dec. 19, 1989, 103 Stat. 2124, 2131; Pub. L. 102–538, title II, §209, Oct. 27, 1992, 106 Stat. 3544; Pub. L. 103–66, title VI, §6003(a)(2), Aug. 10, 1993, 107 Stat. 401; Pub. L. 103–414, title III, §§302, 303(a)(3), (4), Oct. 25, 1994, 108 Stat. 4294.)
+(June 19, 1934, ch. 652, title I, §8, as added Pub. L. 99–272, title V, §5002(e), Apr. 7, 1986, 100 Stat. 118; amended Pub. L. 100–594, §5, Nov. 3, 1988, 102 Stat. 3021; Pub. L. 101–239, title III, §3001(a), (b),Dec. 19, 1989, 103 Stat. 2124, 2131; Pub. L. 102–538, title II, §209, Oct. 27, 1992, 106 Stat. 3544; Pub. L. 103–66, title VI, §6003(a)(2), Aug. 10, 1993, 107 Stat. 401; Pub. L. 103–414, title III, §§302, 303(a)(3), (4), Oct. 25, 1994, 108 Stat. 4294.)
 
 #### References in Text
+
+This chapter, referred to in subsec. (e), was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
 Parts II and III of title III of the Communications Act, referred to in subsec. (g), mean parts II and III of title III of the Communications Act of 1934 which are classified to parts II (§351 et seq.) and III (§381 et seq.), respectively, of subchapter III of this chapter.
 

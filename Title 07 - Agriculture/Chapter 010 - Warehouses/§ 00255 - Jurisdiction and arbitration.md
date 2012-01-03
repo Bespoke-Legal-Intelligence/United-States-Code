@@ -2,7 +2,7 @@
 
 #### (a) Federal jurisdiction
 
-A district court of the United States shall have exclusive jurisdiction over any actionbrought under this chapter without regard to the amount in controversy or the citizenship of the parties.
+A district court of the United States shall have exclusive jurisdiction over any action brought under this chapter without regard to the amount in controversy or the citizenship of the parties.
 
 #### (b) Arbitration
 

@@ -16,7 +16,7 @@
 
 &emsp;(2) buy directly and hold an additional $3,000,000,000 of obligations of the Government for each agreed period, unless the Secretary consents to the sale of the obligations before the end of the period.
 
-(c) With the approval of the Secretary, the Board may require Federal reserve banks to take action the Secretary and Board considernecessary to prevent unreasonable credit expansion.
+(c) With the approval of the Secretary, the Board may require Federal reserve banks to take action the Secretary and Board consider necessary to prevent unreasonable credit expansion.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 993.)
 

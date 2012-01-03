@@ -66,7 +66,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsecs. (c), (d). Pub. L. 110–246, §14006, added subsecs. (c) and (d) and struck out former subsec. (c) which related to annual computation of the participation rate of socially disadvantaged farmers and ranchers as a percentage of the total participation of all farmers and ranchers for each Department of Agriculture program and requirement that participation according to race, ethnicity, and gender be included in each report.
+<b>2008</b>—Subsecs. (c), (d). Pub. L. 110–246, §14006, added subsecs. (c) and (d) and struck out former subsec. (c) which related to annual computation of the participation rate of socially disadvantaged farmers and ranchers as a percentage of the total participation of all farmers and ranchers for each Department of Agriculture program and requirement that participation according to race, ethnicity, and gender be included in each report.
 
 Subsec. (e). Pub. L. 110–246, §14003, added subsec. (e).
 

@@ -6,11 +6,11 @@ The organization certificate shall be presented to the Board for approval. Befor
 
 #### Amendments
 
-1978—Pub. L. 95–630 substituted “Board” for “Administrator” in two places.
+<b>1978</b>—Pub. L. 95–630 substituted “Board” for “Administrator” in two places.
 
-1970—Pub. L. 91–206 substituted “Administrator” for “Director” in two places.
+<b>1970</b>—Pub. L. 91–206 substituted “Administrator” for “Director” in two places.
 
-1959—Pub. L. 86–354 substituted “The” for “Any such” in first sentence and transferred second sentence to make it last sentence.
+<b>1959</b>—Pub. L. 86–354 substituted “The” for “Any such” in first sentence and transferred second sentence to make it last sentence.
 
 #### Effective Date of 1978 Amendment
 

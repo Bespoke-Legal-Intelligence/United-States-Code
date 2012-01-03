@@ -46,3 +46,7 @@ The Director shall submit a copy of the annual report required by subsection (b)
 
 (Pub. L. 111–358, title V, §554, Jan. 4, 2011, 124 Stat. 4024.)
 
+#### Change of Name
+
+Committee on Science and Technology of House of Representatives changed to Committee on Science,Space, and Technology of House of Representatives and Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+

@@ -4,7 +4,7 @@ The Secretary shall designate a State or unit of general local government to be 
 
 #### (1) Allocation
 
-&emsp;Not later than 20 days after funds to carry out this part become available (or, during the first year after November 28, 1990, not later than 20 days after (A) funds to carry out this part are provided in an appropriations Act, or (B) regulations to implement this part are promulgated, whichever is later), the Secretary shall allocate funds in accordance with section 12747 of this title and promptly notify each jurisdiction receiving a formula allocation of its allocation amount. If a jurisdiction is not already a participating jurisdiction, the Secretary shall inform the jurisdiction in writing how the jurisdiction may become a participating jurisdiction.
+&emsp;Not later than 20 days after funds to carry out this part become available (or, during the first year after November 28, 1990, not later than 20 days after (A) funds to carry out this part are provided in an appropriations Act, or (B) regulations to implement this part are promulgated, whichever is later), the Secretary shall allocate funds in accordance with section12747 of this title and promptly notify each jurisdiction receiving a formula allocation of its allocation amount. If a jurisdiction is not already a participating jurisdiction, the Secretary shall inform the jurisdiction in writing how the jurisdiction may become a participating jurisdiction.
 
 #### (2) Consortia
 

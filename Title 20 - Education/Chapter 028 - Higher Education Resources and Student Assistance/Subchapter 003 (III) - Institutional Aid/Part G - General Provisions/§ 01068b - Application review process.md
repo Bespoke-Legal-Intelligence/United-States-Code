@@ -2,7 +2,7 @@
 
 #### (a) Review panel
 
-(1) All applications submitted under this subchapter by institutions of higher education shall be read by a panel of readers composed of individuals selected by the Secretary. The Secretary shall assure that no individual assigned under this section to review any application has any conflict of interest with regard to the application which might impair the impartiality withwhich the individual conducts the review under this section.
+(1) All applications submitted under this subchapter by institutions of higher education shall be read by a panel of readers composed of individuals selected by the Secretary. The Secretary shall assure that no individual assigned under this section to review any application has any conflict of interest with regard to the application which might impair the impartiality with which the individual conducts the review under this section.
 
 (2) The Secretary shall take care to assure that representatives of historically and predominantly Black colleges, Hispanic institutions, Tribal Colleges and Universities, and institutions with substantial numbers of Hispanics, Native Americans, Asian Americans, and Native American Pacific Islanders (including Native Hawaiians) are included as readers.
 

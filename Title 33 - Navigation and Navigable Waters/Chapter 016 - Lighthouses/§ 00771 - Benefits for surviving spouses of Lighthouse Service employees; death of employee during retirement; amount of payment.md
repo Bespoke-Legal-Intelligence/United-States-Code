@@ -14,7 +14,7 @@ Where—
 
 <b>1984</b>—Pub. L. 98–557 substituted references to surviving spouse for references to widow.
 
-<b>1967</b>—Pub. L. 90–167 struck out provision which exempted from coverage of this section widows of employees whose positions were classified in one of the grades of the professional and scientific service of the Classification Act of 1923, or a comparable grade of the Classification Act of 1949, or who performed duties of a position comparable to a position so classified after the enactment of law requiring the classification of such positions.
+<b>1967</b>—Pub. L. 90–167 struck out provision which exempted from coverage of this section widows of employees whose positions were classified in one of the grades of the professional and scientific service of theClassification Act of 1923, or a comparable grade of the Classification Act of 1949, or who performed duties of a position comparable to a position so classified after the enactment of law requiring the classification of such positions.
 
 Pub. L. 90–163 substituted “$100 per month” for “$75 per month”.
 

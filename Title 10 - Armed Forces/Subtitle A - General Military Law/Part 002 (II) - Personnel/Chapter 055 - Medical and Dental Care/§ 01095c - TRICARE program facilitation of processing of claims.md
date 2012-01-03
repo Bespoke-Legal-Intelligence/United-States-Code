@@ -64,7 +64,7 @@ Pub. L. 107–314, div. A, title VII, §711(b), Dec. 2, 2002, 116 Stat. 2588, pr
 
 #### Standardization of Claims Processing Under TRICARE Program and Medicare Program
 
-Pub. L. 109–364, div. A, title VII, §731, Oct. 17, 2006, 120 Stat. 2295, provided that:
+Pub. L. 109–364, div. A, title VII, §731, Oct. 17, 2006, 120 Stat. 2295, as amended by Pub. L. 112–81, div. A, title X, §1062(d)(2), Dec. 31, 2011, 125 Stat. 1585, provided that:
 
 “(a)
 
@@ -97,18 +97,6 @@ Report on Collection of Amounts Owed.—Not later than March 1, 2007, the Secret
 &emsp;“(5) A plan of action to accelerate and increase the collections or recoupments of amounts owed from third party payers.
 
 “(d)
-
-Annual Reports on Claims Processing Standardization.—
-
-&emsp;“(1)
-
-In general.—Not later than October 1, 2007, and annually thereafter, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report setting forth a complete list of the claims processing requirements under the TRICARE program that differ from claims processing requirements under the Medicare program.
-
-&emsp;“(2)
-
-Elements.—Each report under paragraph (1) shall include, for each claims processing requirement listed in such report, a business case that justifies maintaining such requirement under the TRICARE program as a different claims processing requirement than that required under the Medicare program.
-
-“(e)
 
 Definitions.—In this section:
 

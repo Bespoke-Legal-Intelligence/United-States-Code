@@ -8,7 +8,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 1171 of the House amendment is derived from section 1170 of the House bill in lieu of section 1173(a)(9) of the Senate amendment.
 
@@ -20,7 +20,7 @@ Subsection (b) follows present section 77(b) of the Bankruptcy Act \[section 205
 
 #### Amendments
 
-1984—Subsec. (b). Pub. L. 98–353 substituted “the same” for “such”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–353 substituted “the same” for “such”.
 
 #### Effective Date of 1984 Amendment
 

@@ -8,7 +8,7 @@
 
 #### (2) Adjustment of vested benefits charge
 
-&emsp;In determining the minimum contribution requirement with respect to a plan for a plan year under section 418B(b), the vested benefits charge may be adjusted to reflect a plan amendment reducing benefits under this section or section 412(c)(8),<sup>1</sup> but only if the amendment is adopted and effective no later than 21/2 months after the end of the plan year, or within such extended period as the Secretary may prescribe by regulations under section 412(c)(10).<sup>1</sup>
+&emsp;In determining the minimum contribution requirement with respect to a plan for a plan year under section 418B(b), the vested benefits charge may be adjusted to reflect a plan amendment reducing benefits under this section or section 412(c)(8),<sup>1</sup> but only if the amendment is adopted and effective no later than 2½ months after the end of the plan year, or within such extended period as the Secretary may prescribe by regulations under section 412(c)(10).<sup>1</sup>
 
 #### (b) Limitation on reduction
 
@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(B) in accordance with regulations prescribed by the Secretary—
 
-&emsp;&emsp;&emsp;(i) any category of accrued benefits is not reduced with respect to inactive participants to a greater extent proportionally that such category of accrued benefits is reduced with respect to active participants,
+&emsp;&emsp;&emsp;(i) any category of accrued benefits is not reduced with respect to inactive participants to a greater extent proportionally that such category of accrued benefitsis reduced with respect to active participants,
 
 &emsp;&emsp;&emsp;(ii) benefits attributable to employer contributions other than accrued benefits and the rate of future benefit accruals are reduced at least to an extent equal to the reduction in accrued benefits of inactive participants, and
 

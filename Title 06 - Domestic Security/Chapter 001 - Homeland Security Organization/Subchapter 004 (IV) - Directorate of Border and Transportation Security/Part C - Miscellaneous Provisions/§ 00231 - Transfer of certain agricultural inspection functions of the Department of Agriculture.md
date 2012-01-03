@@ -66,7 +66,7 @@ For purposes of this section, the term “functions” does not include any quar
 
 #### (1) Transfer of funds
 
-&emsp;Out of funds collected by fees authorized under sections 136 and 136a of title 21, the Secretary of Agriculture shall transfer, from time to time in accordance with the agreement under subsection (e) of this section, to theSecretary funds for activities carried out by the Secretary for which such fees were collected.
+&emsp;Out of funds collected by fees authorized under sections 136 and 136a of title 21, the Secretary of Agriculture shall transfer, from time to time in accordance with the agreement under subsection (e) of this section, to the Secretary funds for activities carried out by the Secretary for which such fees were collected.
 
 #### (2) Limitation
 

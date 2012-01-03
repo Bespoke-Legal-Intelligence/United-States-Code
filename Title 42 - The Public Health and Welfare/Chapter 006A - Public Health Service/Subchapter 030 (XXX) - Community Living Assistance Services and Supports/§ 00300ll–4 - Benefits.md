@@ -12,7 +12,7 @@
 
 &emsp;&emsp;Not later than January 1, 2012, the Secretary shall—
 
-&emsp;&emsp;&emsp;(i) establish an Eligibility Assessment System (other than a service with which the Commissioner of Social Security has entered into an agreement, with respect to any State, to make disability determinations for purposes of title II or XVI of the Social Security Act \[42 U.S.C. 401 et seq.,1381 et seq.\]) to provide for eligibility assessments of active enrollees who apply for receipt of benefits;
+&emsp;&emsp;&emsp;(i) establish an Eligibility Assessment System (other than a service with which the Commissioner of Social Security has entered into an agreement, with respect to any State, to make disability determinations for purposes of title II or XVI of the Social Security Act \[42 U.S.C. 401 et seq., 1381 et seq.\]) to provide for eligibility assessments of active enrollees who apply for receipt of benefits;
 
 &emsp;&emsp;&emsp;(ii) enter into an agreement with the Protection and Advocacy System for each State to provide advocacy services in accordance with subsection (d); and
 
@@ -148,7 +148,7 @@ An eligible beneficiary shall receive the following benefits under the CLASS Ind
 
 #### (B) Inclusion of increased benefits
 
-&emsp;&emsp;The Secretary shall establish procedures under which cash benefits paid to an eligible beneficiary that increase or decrease as a result of a change in the functional status of the beneficiary before the end of a 12-month benefit period shall be included in the determination of the applicable annual benefit paid to the eligible beneficiary.
+&emsp;&emsp;The Secretary shall establish procedures under which cash benefits paid to an eligiblebeneficiary that increase or decrease as a result of a change in the functional status of the beneficiary before the end of a 12-month benefit period shall be included in the determination of the applicable annual benefit paid to the eligible beneficiary.
 
 #### (C) Recoupment of unpaid, accrued benefits
 
@@ -216,7 +216,7 @@ Nothing in this subchapter shall be construed as prohibiting benefits paid under
 
 #### (h) Protection against conflict of interests
 
-The Secretary shall establish procedures to ensure that the Eligibility Assessment System, the Protection and Advocacy System for aState, advocacy counselors for eligible beneficiaries, and any other entities that provide services to active enrollees and eligible beneficiaries under the CLASS program comply with the following:
+The Secretary shall establish procedures to ensure that the Eligibility Assessment System, the Protection and Advocacy System for a State, advocacy counselors for eligible beneficiaries, and any other entities that provide services to active enrollees and eligible beneficiaries under the CLASS program comply with the following:
 
 &emsp;(1) If the entity provides counseling or planning services, such services are provided in a manner that fosters the best interests of the active enrollee or beneficiary.
 

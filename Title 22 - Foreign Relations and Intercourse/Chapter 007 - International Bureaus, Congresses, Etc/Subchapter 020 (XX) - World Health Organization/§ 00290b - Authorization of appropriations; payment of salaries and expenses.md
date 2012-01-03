@@ -18,7 +18,7 @@ Subchapter XVII \[§287m et seq.\] of this chapter, referred to in subsec. (b)(2
 
 #### Codification
 
-In subsec. (b)(1), “chapter 51 and subchapter III of chapter 53 of title 5” and “section 3109 of title 5” substituted for “the Classification Act of 1949” and “section 15 of Public Law 600, Seventy–ninth Congress \[5 U.S.C. 55a\]”, respectively, on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, which Act enacted Title 5, Government Organization and Employees.
+In subsec. (b)(1), “chapter 51 and subchapter III of chapter 53 of title 5” and “section 3109 of title 5” substituted for “the Classification Act of 1949” and “section 15 of Public Law 600, Seventy–ninth Congress \[5 U.S.C. 55a\]”, respectively, on authority of Pub. L.89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, which Act enacted Title 5, Government Organization and Employees.
 
 In subsec. (b)(1), “section 501 of title 44” substituted for “section 11 of the Act of March 1, 1919 (44 U.S.C. 111),” on authority of Pub. L. 90–620, §2(b), Oct. 22, 1968, 82 Stat. 1305, which Act enacted Title 44, Public Printing and Documents.
 

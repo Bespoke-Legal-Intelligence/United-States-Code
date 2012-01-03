@@ -10,11 +10,13 @@
 | [16134\.](%C2%A7%2016134%20-%20Termination%20of%20assistance.md) | Termination of assistance. |
 | [16135\.](%C2%A7%2016135%20-%20Failure%20to%20participate%20satisfactorily%3B%20penalties.md) | Failure to participate satisfactorily; penalties. |
 | [16136\.](%C2%A7%2016136%20-%20Administration%20of%20program.md) | Administration of program. |
-| [16137\.](%C2%A7%2016137%20-%20Biennial%20report%20to%20Congress.md) | Biennial report to Congress. |
+| \[16137. | Repealed.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2011</b>—Pub. L. 112–81, div. A, title X, §1061(29)(B), Dec. 31, 2011, 125 Stat. 1584, struck out item 16137 “Biennial report to Congress”.
 
 <b>2008</b>—Pub. L. 110–252, title V, §5006(e)(2), June 30, 2008, 122 Stat. 2386, added item 16132a.
 
@@ -37,4 +39,4 @@ Pub. L. 110–181, div. A, title V, §528(a)(2), Jan. 28, 2008, 122 Stat. 107, a
 - [&sect; 16134 - Termination of assistance](%C2%A7%2016134%20-%20Termination%20of%20assistance.md)
 - [&sect; 16135 - Failure to participate satisfactorily; penalties](%C2%A7%2016135%20-%20Failure%20to%20participate%20satisfactorily%3B%20penalties.md)
 - [&sect; 16136 - Administration of program](%C2%A7%2016136%20-%20Administration%20of%20program.md)
-- [&sect; 16137 - Biennial report to Congress](%C2%A7%2016137%20-%20Biennial%20report%20to%20Congress.md)
+- [&sect; 16137 - Repealed. Pub. L. 112&#8211;81, div. A, title X, &sect;1061(29)(A), Dec. 31, 2011, 125 Stat. 1584](%C2%A7%2016137%20-%20Repealed.%20Pub.%20L.%20112%E2%80%9381%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71061%2829%29%28A%29%2C%20Dec.%2031%2C%202011%2C%20125%20Stat.%201584.md)

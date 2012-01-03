@@ -78,7 +78,7 @@ A partially processed biological product which—
 
 In this section:
 
-&emsp;(1) The term “biological product” means a virus, therapeutic serum, toxin, antitoxin, vaccine, blood, blood component or derivative, allergenic product, protein (except any chemically synthesized polypeptide), or analogous product, or arsphenamine or derivative of arsphenamine (or any other trivalent organic arsenic compound), applicable to the prevention, treatment, or cure of a disease or condition of human beings.
+&emsp;(1) The term “biological product” means a virus, therapeutic serum, toxin, antitoxin, vaccine, blood, blood component or derivative, allergenic product, protein (except any chemically synthesized polypeptide), or analogous product, or arsphenamine or derivative of arsphenamine (or any other trivalent organic arsenic compound), applicable to the prevention,treatment, or cure of a disease or condition of human beings.
 
 &emsp;(2) The term “biosimilar” or “biosimilarity”, in reference to a biological product that is the subject of an application under subsection (k), means—
 
@@ -114,7 +114,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) animal studies (including the assessment of toxicity); and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(cc) a clinical study or studies (including the assessment of immunogenicity and pharmacokinetics or pharmacodynamics) that are sufficient to demonstrate safety, purity, and potency in 1 or more appropriate conditions of use for which the reference product is licensed and intendedto be used and for which licensure is sought for the biological product;
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) a clinical study or studies (including the assessment of immunogenicity and pharmacokinetics or pharmacodynamics) that are sufficient to demonstrate safety, purity, and potency in 1 or more appropriate conditions of use for which the reference product is licensed and intended to be used and for which licensure is sought for the biological product;
 
 &emsp;&emsp;&emsp;&emsp;(II) the biological product and reference product utilize the same mechanism or mechanisms of action for the condition or conditions of use prescribed, recommended, or suggested in the proposed labeling, but only to the extent the mechanism or mechanisms of action are known for the reference product;
 
@@ -266,7 +266,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 #### (A) Application of paragraph
 
-&emsp;&emsp;Unless otherwise agreed to by a person that submits an application under subsection (k) (referred to in this subsection as the “subsection (k) applicant”) and the sponsor of the application for the reference product (referred to in this subsection as the “reference product sponsor”), the provisionsof this paragraph shall apply to the exchange of information described in this subsection.
+&emsp;&emsp;Unless otherwise agreed to by a person that submits an application under subsection (k) (referred to in this subsection as the “subsection (k) applicant”) and the sponsor of the application for the reference product (referred to in this subsection as the “reference product sponsor”), the provisions of this paragraph shall apply to the exchange of information described in this subsection.
 
 #### (B) In general
 
@@ -296,7 +296,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 #### (D) Use of confidential information
 
-&emsp;&emsp;Confidential information shall be used for the sole and exclusive purpose of determining, with respect to each patent assigned to or exclusively licensed by the reference product sponsor, whether a claim of patent infringement could reasonably be asserted if the subsection (k) applicant engaged in the manufacture, use, offering for sale, sale, or importation into the United States of the biological product that is the subject of the application under subsection (k).
+&emsp;&emsp;Confidential information shall be used for the sole and exclusive purpose of determining, with respect to each patent assigned toor exclusively licensed by the reference product sponsor, whether a claim of patent infringement could reasonably be asserted if the subsection (k) applicant engaged in the manufacture, use, offering for sale, sale, or importation into the United States of the biological product that is the subject of the application under subsection (k).
 
 #### (E) Ownership of confidential information
 
@@ -322,7 +322,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 &emsp;Not later than 20 days after the Secretary notifies the subsection (k) applicant that the application has been accepted for review, the subsection (k) applicant—
 
-&emsp;&emsp;(A) shall provide to the reference product sponsor a copy of the application submittedto the Secretary under subsection (k), and such other information that describes the process or processes used to manufacture the biological product that is the subject of such application; and
+&emsp;&emsp;(A) shall provide to the reference product sponsor a copy of the application submitted to the Secretary under subsection (k), and such other information that describes the process or processes used to manufacture the biological product that is the subject of such application; and
 
 &emsp;&emsp;(B) may provide to the reference product sponsor additional information requested by or on behalf of the reference product sponsor.
 
@@ -418,7 +418,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 &emsp;&emsp;(B) the reference product sponsor reasonably believes that, due to the issuance of such patent, a claim of patent infringement could reasonably be asserted by the reference product sponsor if a person not licensed by the reference product sponsor engaged in the making, using, offering to sell, selling, or importing into the United States of the biological product that is the subject of the subsection (k) application,
 
-> &emsp;not later than 30 days after such issuance or licensing, the reference product sponsor shall provide to the subsection (k) applicant a supplement to the list provided by the reference product sponsor under paragraph (3)(A) that includes such patent, not later than 30 days after such supplement is provided, the subsection (k) applicant shall provide a statement to the reference product sponsor in accordance with paragraph (3)(B), and such patent shall be subject to paragraph (8).
+> &emsp;not later than 30 days after such issuance or licensing, the reference product sponsor shall provide to the subsection (k) applicant a supplement to the list provided by the referenceproduct sponsor under paragraph (3)(A) that includes such patent, not later than 30 days after such supplement is provided, the subsection (k) applicant shall provide a statement to the reference product sponsor in accordance with paragraph (3)(B), and such patent shall be subject to paragraph (8).
 
 #### (8) Notice of commercial marketing and preliminary injunction
 
@@ -450,7 +450,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 #### (B) Subsequent failure to act by subsection (k) applicant
 
-&emsp;&emsp;If a subsection (k) applicant fails to complete an action required of the subsection (k) applicant under paragraph (3)(B)(ii), paragraph (5), paragraph (6)(C)(i), paragraph (7), or paragraph (8)(A), the reference product sponsor, but not the subsection (k) applicant, may bring an action under section 2201 of title 28 for a declaration of infringement,validity, or enforceability of any patent included in the list described in paragraph (3)(A), including as provided under paragraph (7).
+&emsp;&emsp;If a subsection (k) applicant fails to complete an action required of the subsection (k) applicant under paragraph (3)(B)(ii), paragraph (5), paragraph (6)(C)(i), paragraph (7), or paragraph (8)(A), the reference product sponsor, but not the subsection (k) applicant, may bring an action under section 2201 of title 28 for a declaration of infringement, validity, or enforceability of any patent included in the list described in paragraph (3)(A), including as provided under paragraph (7).
 
 #### (C) Subsection (k) application not provided
 
@@ -472,7 +472,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 #### (3) Market exclusivity for already-marketed biological products
 
-&emsp;If the Secretary determines that information relating to the use of a licensed biological product in the pediatric population may produce health benefits in that population and makes a written request to the holder of an approved application under subsection (a) for pediatric studies (which shall include a timeframe for completing such studies), the holder agrees to the request, such studies are completed using appropriate formulations for each age group for which the study is requested within any such timeframe, and the reports thereof are submitted and accepted in accordance with section 505A(d)(3) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355a(d)(3)\]—
+&emsp;If the Secretary determines that information relating to the use of a licensed biological product in the pediatric population may produce health benefits in that population and makes a written request to the holder of an approved application under subsection (a) for pediatric studies (which shall include a timeframe for completing such studies), the holderagrees to the request, such studies are completed using appropriate formulations for each age group for which the study is requested within any such timeframe, and the reports thereof are submitted and accepted in accordance with section 505A(d)(3) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355a(d)(3)\]—
 
 &emsp;&emsp;(A) the periods for such biological product referred to in subsection (k)(7) are deemed to be 4 years and 6 months rather than 4 years and 12 years and 6 months rather than 12 years; and
 
@@ -618,7 +618,7 @@ Alteration of user fee.—If the audit performed under clause (i) indicates that
 
 &emsp;“(iii)
 
-Accounting standards.—The Secretary shall perform an audit under clause (i) in conformance with the accounting principles, standards, and requirements prescribed by the Comptroller General of the United States under section 3511 of title 31, United State Code, to ensure the validity of any potential variability.”
+Accounting standards.—The Secretary shall perform an audit under clause (i) in conformance with the accounting principles, standards, and requirements prescribed by the Comptroller General ofthe United States under section 3511 of title 31, United State Code, to ensure the validity of any potential variability.”
 
 #### Licensing of Orphan Products
 

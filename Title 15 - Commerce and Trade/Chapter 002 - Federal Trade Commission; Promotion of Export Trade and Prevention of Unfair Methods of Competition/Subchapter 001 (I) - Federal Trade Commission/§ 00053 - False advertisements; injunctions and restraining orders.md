@@ -8,13 +8,13 @@ Whenever the Commission has reason to believe—
 
 &emsp;(2) that the enjoining thereof pending the issuance of a complaint by the Commission under section 45 of this title, and until such complaint is dismissed by the Commission or set aside by the court on review, or the order of the Commission to cease and desist made thereon has become final within the meaning of section 45 of this title, would be to the interest of the public,
 
-> the Commission by any of its attorneys designated by it for such purpose may bring suit in a district court of the United States or in the United States court of any Territory, to enjoin the dissemination or the causing of the dissemination of such advertisement. Upon proper showing a temporary injunction or restraining order shall be granted without bond. Any suit may be brought where such person, partnership, or corporation resides or transacts business, or wherever venue is proper under section 1391 of title 28. In addition, the court may, if the court determines that the interests of justice require that any other person, partnership, or corporation should be a party in such suit, cause such other person, partnership, or corporation to be added as a party without regard to whether venue is otherwise proper in the district in which the suit is brought. In any suit under this section, process may be served on any person, partnership, or corporation wherever it may be found.
+> the Commission by any of its attorneys designated by it for such purpose may bring suit in a district court of the United States or in the United States court of any Territory, to enjoin the dissemination or the causing of the dissemination of such advertisement. Upon proper showing a temporary injunction or restraining order shall be granted without bond. Any suit may be brought where such person, partnership, or corporation resides or transacts business, or wherever venue is proper under section 1391 of title 28. In addition, the court may, if the court determines that the interests of justice require that any other person, partnership, or corporation should be a party in such suit, cause such other person, partnership, or corporation to be added as a party without regard to whether venue is otherwise proper in the district in which the suit is brought. In any suit under this section, process may be served on any person,partnership, or corporation wherever it may be found.
 
 #### (b) Temporary restraining orders; preliminary injunctions
 
 Whenever the Commission has reason to believe—
 
-&emsp;(1) that any person, partnership, or corporation is violating, or is about to violate, anyprovision of law enforced by the Federal Trade Commission, and
+&emsp;(1) that any person, partnership, or corporation is violating, or is about to violate, any provision of law enforced by the Federal Trade Commission, and
 
 &emsp;(2) that the enjoining thereof pending the issuance of a complaint by the Commission and until such complaint is dismissed by the Commission or set aside by the court on review, or until the order of the Commission made thereon has become final, would be in the interest of the public—
 

@@ -22,17 +22,35 @@ Regulations Governing Acceptance of Gifts.—(1) The Secretary of Defense (and t
 
 Covered Members.—This section applies to a member of the armed forces who, while performing active duty, full-time National Guard duty, or inactive-duty training on or after September 11, 2001, incurred an injury or illness—
 
-&emsp;(1) as described in section 1413a(e)(2) of this title; or
+&emsp;(1) as described in section 1413a(e)(2) of this title;
 
-&emsp;(2) under other circumstances determined by the Secretary concerned to warrant treatment analogous to members covered by paragraph (1).
+&emsp;(2) in an operation or area designated as a combat operation or a combat zone, respectively, by the Secretary of Defense in accordance with the regulations prescribed under subsection (a); or
+
+&emsp;(3) under other circumstances determined by the Secretary concerned to warrant treatment analogous to members covered by paragraph (1).
 
 (c)
 
-Covered Employees.—This section applies to a civilian employee of the Department of Defense or Coast Guard who, while an employee on or after September 11, 2001, incurred an injury or illness under a circumstance described in paragraph (1) or (2) of subsection (c).
+Covered Employees.—This section applies to a civilian employee of the Department of Defense or Coast Guard who, while an employee on or after September 11, 2001, incurred an injury or illness under a circumstance described in paragraph (1), (2) or (3) of subsection (b).
 
 (d)
 
 Gifts From Certain Sources Prohibited.—The regulations issued under subsection (a) may not authorize the acceptance of a gift from a foreign government or international organization or their agents.
 
-(Added Pub. L. 111–383, div. A, title V, §591(a), Jan. 7, 2011, 124 Stat. 4231.)
+(e)
+
+Application of Certain Regulations.—To the extent provided in the regulations issued under subsection (a) to implement subsection (b)(2), the regulations shall apply to the acceptance of gifts received after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2012 for injuries or illnesses incurred on or after September 11, 2001.
+
+(Added Pub. L. 111–383, div. A, title V, §591(a), Jan. 7, 2011, 124 Stat. 4231; amended Pub. L. 112–81, div. A, title V, §543, Dec. 31, 2011, 125 Stat. 1411.)
+
+#### References in Text
+
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2012, referred to in subsec. (e), is the date of enactment of Pub. L. 112–81, which was approved Dec. 31, 2011.
+
+#### Amendments
+
+<b>2011</b>—Subsec. (b)(2), (3). Pub. L. 112–81, §543(1), added par. (2) and redesignated former par. (2) as (3).
+
+Subsec. (c). Pub. L. 112–81, §543(2), substituted “paragraph (1), (2) or (3) of subsection (b)” for “paragraph (1) or (2) of subsection (c)”.
+
+Subsec. (e). Pub. L. 112–81, §543(3), added subsec. (e).
 

@@ -10,7 +10,7 @@ In this part—
 
 &emsp;(4) “person”, in addition to its meaning under section 1 of title 1, includes a trustee, receiver, assignee, or personal representative of a person;
 
-&emsp;(5) “rail carrier” means a person providing common carrier railroad transportation forcompensation, but does not include street, suburban, or interurban electric railways not operated as part of the general system of rail transportation;
+&emsp;(5) “rail carrier” means a person providing common carrier railroad transportation for compensation, but does not include street, suburban, or interurban electric railways not operated as part of the general system of rail transportation;
 
 &emsp;(6) “railroad” includes—
 
@@ -98,7 +98,7 @@ Section 10361, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1355, related to Rail S
 
 Section 10362, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1355; Pub. L. 98–216, §2(5)–(7), Feb. 14, 1984, 98 Stat. 5; Pub. L. 99–509, title IV, §4033(c)(7), Oct. 21, 1986, 100 Stat. 1909; Pub. L. 103–272, §4(j)(13), July 5, 1994, 108 Stat. 1368, related to duties of Rail Services Planning Office.
 
-Section 10363, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1356; Pub. L. 103–272, §4(j)(14), July 5, 1994, 108 Stat. 1369,related to appointment and duties of Director of Rail Services Planning Office.
+Section 10363, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1356; Pub. L. 103–272, §4(j)(14), July 5, 1994, 108 Stat. 1369, related to appointment and duties of Director of Rail Services Planning Office.
 
 Section 10364, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1356; Pub. L. 103–272, §5(m)(15), July 5, 1994, 108 Stat. 1377, related to powers of and assistance to Director.
 

@@ -96,7 +96,7 @@ The Secretary shall make grants to the States, from allotments made under subsec
 
 &emsp;&emsp;&emsp;(i) provisions or procedures for an individual to report known and suspected instances of child abuse and neglect, including a State law for mandatory reporting by individuals required to report such instances;
 
-&emsp;&emsp;&emsp;(ii) policies and procedures (including appropriate referrals to child protection service systems and for other appropriate services) to address the needs of infants born with and identified as being affected by illegal substance abuse or withdrawal symptoms resulting from prenatal drug exposure, or a Fetal Alcohol Spectrum Disorder, including a requirement that health care providers involved in the delivery or care of such infants notify the child protective services system of the occurrence of such condition in such infants, except that such notification shall not be construed to—
+&emsp;&emsp;&emsp;(ii) policies and procedures (including appropriate referrals to child protection service systems and for other appropriate services) to address the needs of infants born with and identified as being affectedby illegal substance abuse or withdrawal symptoms resulting from prenatal drug exposure, or a Fetal Alcohol Spectrum Disorder, including a requirement that health care providers involved in the delivery or care of such infants notify the child protective services system of the occurrence of such condition in such infants, except that such notification shall not be construed to—
 
 &emsp;&emsp;&emsp;&emsp;(I) establish a definition under Federal law of what constitutes child abuse or neglect; or
 
@@ -200,7 +200,7 @@ The Secretary shall make grants to the States, from allotments made under subsec
 
 &emsp;&emsp;(E) an assurance or certification that the programs or projects relating to child abuse and neglect carried out under part B of title IV of the Social Security Act \[42 U.S.C. 620 et seq.\] comply with the requirements set forth in paragraph (1) and this paragraph;
 
-&emsp;&emsp;(F) an assurance or certification that programs and training conducted under this subchapter address the unique needs of unaccompanied homeless youth, including access to enrollment and support services and that such youth are eligible for under parts B and E of title IV of the Social Security Act \[42 U.S.C. 620 et seq., 670 et seq.\] and meet the requirements of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11301 et seq.); and
+&emsp;&emsp;(F) an assurance or certification that programs and training conducted under this subchapter address the unique needs of unaccompanied homeless youth, including accessto enrollment and support services and that such youth are eligible for under parts B and E of title IV of the Social Security Act \[42 U.S.C. 620 et seq., 670 et seq.\] and meet the requirements of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11301 et seq.); and
 
 &emsp;&emsp;(G) an assurance that the State, in developing the State plan described in paragraph (1), has collaborated with community-based prevention agencies and with families affected by child abuse or neglect.
 
@@ -398,7 +398,7 @@ Within 6 months after receiving the State reports under subsection (d) of this s
 
 #### (A) Minimum allotments to States for increased appropriations years
 
-&emsp;&emsp;In any fiscal year for which the grant funds exceed the fiscal year 2009 grant funds by more than $1,000,000, the Secretary shall adjust the allotments under paragraph (2), asnecessary, such that no State that applies for a grant under this section receives an allotment in an amount that is less than—
+&emsp;&emsp;In any fiscal year for which the grant funds exceed the fiscal year 2009 grant funds by more than $1,000,000, the Secretary shall adjust the allotments under paragraph (2), as necessary, such that no State that applies for a grant under this section receives an allotment in an amount that is less than—
 
 &emsp;&emsp;&emsp;(i) $100,000, for a fiscal year in which the grant funds exceed the fiscal year 2009 grant funds by more than $1,000,000 but less than $2,000,000;
 
@@ -522,7 +522,7 @@ Subsec. (d)(7). Pub. L. 111–320, §115(e)(3), added par. (7) and struck out fo
 
 Subsec. (d)(9). Pub. L. 111–320, §115(e)(4), substituted “child abuse or neglect” for “abuse or neglect”.
 
-Subsec. (d)(10). Pub. L. 111–320, §115(e)(5), added par. (10) and struck out former par. (10) which read as follows: “The number of child protective services workers responsible for intake, assessment, and investigation of child abuse and neglect reports relative to the number of reports investigated in the previous year.”
+Subsec. (d)(10). Pub. L. 111–320, §115(e)(5), added par. (10) and struck out former par. (10) which read as follows: “The number of child protective services workersresponsible for intake, assessment, and investigation of child abuse and neglect reports relative to the number of reports investigated in the previous year.”
 
 Subsec. (d)(11). Pub. L. 111–320, §115(e)(6), substituted “or neglect” for “and neglect”.
 

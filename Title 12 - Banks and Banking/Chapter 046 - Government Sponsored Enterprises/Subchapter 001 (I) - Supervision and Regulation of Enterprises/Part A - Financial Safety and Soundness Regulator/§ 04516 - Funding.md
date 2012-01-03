@@ -40,7 +40,7 @@ The Director shall establish and collect from the regulated entities annual asse
 
 #### (1) Increase for inadequate capitalization
 
-&emsp;The semiannual payments made pursuant to subsection (b) by any regulated entity that is not classified (for purposes of subchapter II) as adequately capitalized may be increased, as necessary, in the discretion of the Director to pay additional estimated costs of regulation of the regulated entity.
+&emsp;The semiannual payments made pursuant to subsection (b) by any regulated entity that isnot classified (for purposes of subchapter II) as adequately capitalized may be increased, as necessary, in the discretion of the Director to pay additional estimated costs of regulation of the regulated entity.
 
 #### (2) Adjustment for enforcement activities
 
@@ -78,7 +78,7 @@ At the end of each year for which an assessment under this section is made, the 
 
 #### (5) Availability of oversight fund amounts
 
-&emsp;Notwithstanding any other provision of law, any amounts remaining in the Federal Housing Enterprises Oversight Fund established under this section (as in effect before the effective date of the Federal Housing Finance Regulatory Reform Act of 2008, and any amounts remaining from assessments on the Federal Home Loan Banks pursuant to section 1438(b) of this title), shall, upon such effective date, be treated for purposes of this subsection as amounts received from assessments under this section.
+&emsp;Notwithstanding any other provision of law, any amounts remaining in the Federal Housing Enterprises Oversight Fund established under this section (as in effect before the effective date of the Federal Housing Finance Regulatory Reform Act of 2008, and any amounts remaining from assessments on the Federal Home Loan Banks pursuant to section 1438(b) <sup>2</sup> of this title), shall, upon such effective date, be treated for purposes of this subsection as amounts received from assessments under this section.
 
 #### (6) Treasury investments
 
@@ -134,7 +134,7 @@ At the end of each year for which an assessment under this section is made, the 
 
 #### (3) Assistance and costs
 
-&emsp;For the purpose of conducting an audit under this subsection, the Comptroller General may, in the discretion of the Comptroller General, employ by contract, without regard to section 5 of title 41, professional services of firms and organizations of certified public accountants for temporary periods or for special purposes. Upon the request of the Comptroller General, the Director of the Agency shall transfer to the Government Accountability Office from funds available, the amount requested by the Comptroller General to cover the full costs of any audit and report conducted by the Comptroller General. The Comptroller General shall credit funds transferred to the account established for salaries and expenses of the Government Accountability Office, and such amount shall be available upon receipt and without fiscal year limitation to cover the full costs of the audit and report.
+&emsp;For the purpose of conducting an audit under this subsection, the Comptroller General may, in the discretion of the Comptroller General, employ by contract, without regard to section 6101 of title 41, professional services of firms and organizations of certified public accountants for temporary periods or for special purposes. Upon the request of the Comptroller General, the Director of the Agency shall transfer to the Government Accountability Office from funds available, the amount requested by the Comptroller General to cover the full costs of any audit and report conducted by the Comptroller General. The Comptroller General shall credit funds transferred to the account established for salaries and expenses of the Government Accountability Office, and such amount shall be available upon receipt and without fiscal year limitation to cover the full costs of the audit and report.
 
 (Pub. L. 102–550, title XIII, §1316, Oct. 28, 1992, 106 Stat. 3947; Pub. L. 104–134, title I, §101(e) \[title II, §211\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–288; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 110–289, div. A, title I, §1106, July 30, 2008, 122 Stat. 2669.)
 
@@ -146,23 +146,31 @@ This Act, referred to in subsec. (c)(2), (3), is Pub. L. 102–550, Oct. 28, 199
 
 The effective date of the Federal Housing Finance Regulatory Reform Act of 2008, referred to in subsec. (f)(5), probably means the date of enactment of div. A of Pub. L. 110–289, which was approved July 30, 2008.
 
+Section 1438(b) of this title, referred to in subsec. (f)(5), was repealed by Pub. L. 110–289, div. A, title II, §1204(2), July 30, 2008, 122 Stat. 2786.
+
+#### Codification
+
+In subsec. (h)(3), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes of the United States (41 U.S.C. 5)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–289, §1106(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Director may, to the extent provided in appropriation Acts, establish and collect from the enterprises annual assessments in an amount not exceeding the amount sufficient to provide for reasonable costs and expenses of the Office, including the expenses of any examinations under section 4517 of this title. The initial annual assessment shall include any startup costs of the Office and any anticipated costs and expenses of the Office for the following fiscal year.”
+<b>2008</b>—Subsec. (a). Pub. L. 110–289, §1106(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Director may, to the extent provided in appropriation Acts, establish and collect from the enterprises annual assessments in an amount not exceeding the amount sufficient to provide for reasonable costs and expenses of the Office, including the expenses of any examinations under section 4517 of this title. The initial annual assessment shall include any startup costs of the Office and any anticipated costs and expenses of the Office for the following fiscal year.”
 
 Subsec. (b)(2) to (4). Pub. L. 110–289, §1106(2), realigned margins, added par. (2), and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
-Subsec. (c). Pub. L. 110–289, §1106(3), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “The semiannual payments made pursuant to subsection (b) of this section by any enterprise that is not classified (for purposes of subchapterII of this chapter) as adequately capitalized may be increased, as necessary, in the discretion of the Director to pay additional estimated costs of regulation of the enterprise.”
+Subsec. (c). Pub. L. 110–289, §1106(3), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “The semiannual payments made pursuant to subsection (b) of this section by any enterprise that is not classified (for purposes of subchapter II of this chapter) as adequately capitalized may be increased, as necessary, in the discretion of the Director to pay additional estimated costs of regulation of the enterprise.”
 
 Subsec. (d). Pub. L. 110–289, §1106(4), substituted “Except with respect to amounts collected pursuant to subsection (a)(3), if” for “If”.
 
 Subsecs. (e) to (h). Pub. L. 110–289, §1106(5), added subsecs. (e) to (h) and struck out former subsecs. (e) to (g) which related, respectively, to initial special assessment, the Federal Housing Enterprises Oversight Fund, and budget and financial reports.
 
-1996—Subsec. (b)(2). Pub. L. 104–134 added par. (2) and struck out heading and text of former par. (2). Text read as follows: “The annual assessment shall be payable semiannually on September 1 and March 1 of the year for which the assessment is made.”
+<b>1996</b>—Subsec. (b)(2). Pub. L. 104–134 added par. (2) and struck out heading and text of former par. (2). Text read as follows: “The annual assessment shall be payable semiannually on September 1 and March 1 of the year for which the assessment is made.”
 
 #### Non-Reduction of First Annual Assessment
 
 Pub. L. 103–124, title II, Oct. 28, 1993, 107 Stat. 1290, provided that notwithstanding the last sentence of subsec. (e) of this section, the amount of this first annual assessment was not to be reduced by any part of the amount of the initial special assessment under subsec. (e).
 
 <i><sup>1</sup></i><i> So in original. Probably should be “bear”.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

@@ -18,7 +18,7 @@ Navy and Marine Corps.—(1) The Secretary of the Navy may defer the retirement 
 
 (2) The Secretary of Defense may defer the retirement of a reserve officer serving in the position of Chief of the Navy Reserve or Commander of the Marine Forces Reserve, but such deferment may not extend beyond the first day of the month following the month in which the officer becomes 66 years of age. A deferment under this paragraph shall not count toward the limitation on the total number of officers whose retirement may be deferred at any one time under paragraph (1).
 
-(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2953; amended Pub. L.109–163, div. A, title V, §§511, 515(b)(1)(UU), Jan. 6, 2006, 119 Stat. 3231, 3234; Pub. L. 109–364, div. A, title V, §503(d), Oct. 17, 2006, 120 Stat. 2178; Pub. L. 110–181, div. A, title XVIII, §1825(b), Jan. 28, 2008, 122 Stat. 502.)
+(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2953; amended Pub. L. 109–163, div. A, title V, §§511, 515(b)(1)(UU), Jan. 6, 2006, 119 Stat. 3231, 3234; Pub. L. 109–364, div. A, title V, §503(d), Oct. 17, 2006, 120 Stat. 2178; Pub. L. 110–181, div. A, title XVIII, §1825(b), Jan. 28, 2008, 122 Stat. 502.)
 
 #### Prior Provisions
 

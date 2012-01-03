@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(A) a carrier, lessor, or association;
 
-&emsp;&emsp;(B) a person controlling, controlled by, or under common control with a carrier, if the Secretary considers inspection relevant to that person's relation to, or transaction with, that carrier; and
+&emsp;&emsp;(B) a person controlling, controlled by, or under common control with a carrier, if theSecretary considers inspection relevant to that person's relation to, or transaction with, that carrier; and
 
 &emsp;&emsp;(C) a person furnishing cars or protective service against heat or cold to or for a rail carrier if the Secretary prescribed the form of that record.
 

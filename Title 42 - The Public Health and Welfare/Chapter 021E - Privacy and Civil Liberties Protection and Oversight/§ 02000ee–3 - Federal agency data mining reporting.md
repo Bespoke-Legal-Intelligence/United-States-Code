@@ -48,7 +48,7 @@ In this section:
 
 &emsp;&emsp;(F) A list and analysis of the laws and regulations that govern the information being or to be collected, reviewed, gathered, analyzed, or used in conjunction with the data mining activity, to the extent applicable in the context of the data mining activity.
 
-&emsp;&emsp;(G) A thorough discussion of the policies, procedures, and guidelines that are in place or that are to be developed and applied in the use of such data mining activity in order to—
+&emsp;&emsp;(G) A thorough discussion of the policies, procedures, and guidelines that are in place or that are to be developed and applied inthe use of such data mining activity in order to—
 
 &emsp;&emsp;&emsp;(i) protect the privacy and due process rights of individuals, such as redress procedures; and
 

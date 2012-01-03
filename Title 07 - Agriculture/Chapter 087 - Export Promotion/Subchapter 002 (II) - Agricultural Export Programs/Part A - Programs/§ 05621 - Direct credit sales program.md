@@ -62,9 +62,9 @@ A prior section 201 of Pub. L. 95–501 enacted section 1707b of this title prio
 
 #### Amendments
 
-1996—Subsec. (d)(1)(C)(ii). Pub. L. 104–127 substituted “emerging markets” for “emerging democracies”.
+<b>1996</b>—Subsec. (d)(1)(C)(ii). Pub. L. 104–127 substituted “emerging markets” for “emerging democracies”.
 
-1992—Subsec. (c). Pub. L. 102–511, §707(a), inserted sentence at end.
+<b>1992</b>—Subsec. (c). Pub. L. 102–511, §707(a), inserted sentence at end.
 
 Subsec. (d)(1)(C). Pub. L. 102–511, §707(b), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “to assist countries, particularly developing countries, in meeting their food and fiber needs; and”.
 

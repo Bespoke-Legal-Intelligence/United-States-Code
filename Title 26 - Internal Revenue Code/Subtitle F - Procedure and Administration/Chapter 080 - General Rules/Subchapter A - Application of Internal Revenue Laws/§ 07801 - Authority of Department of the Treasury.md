@@ -78,6 +78,12 @@ For transfer of authorities, functions, personnel, and assets of the Bureau of A
 
 For order of succession during any period when both Secretary and Deputy Secretary of the Treasury are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13246, Dec. 18, 2001, 66 F.R. 66270, set out as a note under section 3345 of Title 5, Government Organization and Employees.
 
+#### IRS Reports on Information Technology Investments
+
+Pub. L. 112–74, div. C, title I, Dec. 23, 2011, 125 Stat. 888, provided in part: “That not later than 14 days after the end of each quarter of each fiscal year, the Internal Revenue Service shall submit a report to the House and Senate Committees on Appropriations and the Comptroller General of the United States detailing the cost and schedule performance for its major information technology investments, including the purpose and life-cycle stages of the investments; the reasons for any cost and schedule variances; the risks of such investments and strategies the Internal Revenue Service is using to mitigate such risks; and the expected developmental milestones to be achieved and costs to be incurred in the next quarter”.
+
+Pub. L. 112–74, div. C, title I, Dec. 23, 2011, 125 Stat. 889, provided in part: “That not later than 14 days after the end of each quarter of each fiscal year, the Internal Revenue Service shall submit a report to the House and Senate Committees on Appropriations and the Comptroller General of the United States detailing the cost and schedule performance for CADE2 and Modernized e-File information technology investments, including the purposes and life-cycle stages of the investments; the reasons for any cost and schedule variances; the risks of such investments and the strategies the Internal Revenue Service is using to mitigate such risks; and the expected developmental milestones to be achieved and costs to be incurred in the next quarter.”
+
 #### Elimination of User Fee for Requests to IRS Regarding Pension Plans
 
 Pub. L. 107–16, title VI, §620, June 7, 2001, 115 Stat. 110, related to elimination of user fees for certain requests to the Internal Revenue Service regarding pension plans, prior to repeal by Pub. L. 108–89, title II, §202(b)(3), Oct. 1, 2003, 117 Stat. 1133.
@@ -216,7 +222,7 @@ Preservation of specific tax rights and remedies.—Nothing in the plan develope
 
 &emsp;“(2)
 
-Continuing effect of legal documents.—All orders, determinations, rules, regulations, permits,agreements, grants, contracts, certificates, licenses, registrations, privileges, and other administrative actions—
+Continuing effect of legal documents.—All orders, determinations, rules, regulations, permits, agreements, grants, contracts, certificates, licenses, registrations, privileges, and other administrative actions—
 
 &emsp;&emsp;“(A) which have been issued, made, granted, or allowed to become effective by the President, any Federal agency or official thereof, or by a court of competent jurisdiction, in the performance of any function transferred or affected by the reorganization of the Internal Revenue Service or any other administrative unit of the Department of the Treasury under this section; and
 
@@ -274,7 +280,7 @@ Pub. L. 105–206, title III, §3503, July 22, 1998, 112 Stat. 771, provided tha
 
 “(a)
 
-In General.—The Secretary of the Treasury or the Secretary's delegate shall, as soon as practicable, but not later than 180 days after the date of the enactment of this Act \[July 22, 1998\], incorporate into the statement required by section 6227 of the Omnibus Taxpayer Bill of Rights \[Pub. L. 100–647, set out below\] (Internal Revenue Service Publication No. 1) a statement which sets forth in simple and nontechnical terms the criteria and procedures for selecting taxpayers for examination. Such statement shall not include any information the disclosure of which would be detrimental to law enforcement, but shall specify the general procedures used by the Internal Revenue Service, including whether taxpayers are selected for examination on the basis of information available in the media or on the basis of information provided to the Internal Revenue Service by informants.
+In General.—The Secretary of the Treasury or the Secretary's delegate shall, as soon as practicable, but not later than 180 days after the date of the enactment of this Act \[July 22, 1998\], incorporate into the statement required by section 6227 of the Omnibus Taxpayer Bill of Rights \[Pub. L. 100–647, set out below\] (Internal Revenue Service Publication No. 1) a statement which sets forth in simple and nontechnical terms thecriteria and procedures for selecting taxpayers for examination. Such statement shall not include any information the disclosure of which would be detrimental to law enforcement, but shall specify the general procedures used by the Internal Revenue Service, including whether taxpayers are selected for examination on the basis of information available in the media or on the basis of information provided to the Internal Revenue Service by informants.
 
 “(b)
 
@@ -520,7 +526,7 @@ Staff of the Commission.—
 
 &emsp;“(1)
 
-In general.—The Co-Chairs, in accordance with rules agreed upon by the Commission, may appoint and fix the compensation of a staff director and such other personnel as may be necessary to enable the Commission to carry out its functions, without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that no rate of pay fixed under this subsection may exceed the equivalent of that payable to a person occupying a position at level V of the Executive Schedule under section 5316 of title 5, UnitedStates Code. Any Federal Government employee may be detailed to the Commission without reimbursement from the Commission, and such detailee shall retain the rights, status, and privileges of his or her regular employment without interruption.
+In general.—The Co-Chairs, in accordance with rules agreed upon by the Commission, may appoint and fix the compensation of a staff director and such other personnel as may be necessary to enable the Commission to carry out its functions, without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that no rate of pay fixed under this subsection may exceed the equivalent of that payable to a person occupying a position at level V of the Executive Schedule under section 5316 of title 5, United States Code. Any Federal Government employee may be detailed to the Commission without reimbursement from the Commission, and such detailee shall retain the rights, status, and privileges of his or her regular employment without interruption.
 
 &emsp;“(2)
 
@@ -604,7 +610,7 @@ Pub. L. 95–600, title V, §552, Nov. 6, 1978, 92 Stat. 2891, authorized the Se
 
 #### Study of Taxation of Nonresident Alien Real Estate Transactions in the United States
 
-Pub. L. 95–600, title V, §553, Nov. 6, 1978, 92 Stat. 2891, authorized the Secretary of the Treasury to make a study of the appropriate tax treatment to be given toincome derived from, or gain realized on, the sale of interests in United States property held by nonresident aliens or foreign corporations and to submit a report on such study to Congress no later than six months from Nov. 6, 1978, together with any recommendations.
+Pub. L. 95–600, title V, §553, Nov. 6, 1978, 92 Stat. 2891, authorized the Secretary of the Treasury to make a study of the appropriate tax treatment to be given to income derived from, or gain realized on, the sale of interests in United States property held by nonresident aliens or foreign corporations and to submit a report on such study to Congress no later than six months from Nov. 6, 1978, together with any recommendations.
 
 #### Study and Investigation of Internal Revenue Code Provisions Which Impede or Discourage Recycling of Solid Waste Materials; Presidential and Congressional Report
 

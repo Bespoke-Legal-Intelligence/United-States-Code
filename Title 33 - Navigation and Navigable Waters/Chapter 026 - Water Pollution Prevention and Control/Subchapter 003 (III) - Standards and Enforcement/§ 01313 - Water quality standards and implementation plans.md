@@ -20,7 +20,7 @@
 
 &emsp;(B) a water quality standard submitted by such State under subsection (a) of this section is determined by the Administrator not to be consistent with the applicable requirements of subsection (a) of this section.
 
-(2) The Administrator shall promulgate any water quality standard published in a proposed regulation not later than one hundred and ninety days after the date he publishes any such proposed standard, unless prior to such promulgation, such State has adopted a water quality standard which the Administrator determines to be in accordance with subsection (a) of this section.
+(2) The Administrator shall promulgate any water quality standard published in a proposedregulation not later than one hundred and ninety days after the date he publishes any such proposed standard, unless prior to such promulgation, such State has adopted a water quality standard which the Administrator determines to be in accordance with subsection (a) of this section.
 
 #### (c) Review; revised standards; publication
 

@@ -1,6 +1,6 @@
 ### §1385. Finality of payments and loans; substitution of beneficiaries
 
-The facts constituting the basis for any chapter 3B of title 16 payment, any payment under the wheat, feed grain, upland cotton, extra long staple cotton, and rice programs authorized by chapter 35A of this title and this chapter, any loan, or price support operation, or the amount thereof, when officially determined in conformity with the applicable regulations prescribed by the Secretary or by the Commodity Credit Corporation, shall be final and conclusive and shall not be reviewable by any other officer or agency of the Government. In case any person who is entitled to any such payment dies, becomes incompetent, or disappears before receiving such payment, or is succeeded by another who renders or completes the required performance, thepayment shall, without regard to any other provisions of law, be made as the Secretary of Agriculture may determine to be fair and reasonable in all the circumstances and provide by regulations. This section also shall be applicable to payments provided for under section 1348 of this title.
+The facts constituting the basis for any chapter 3B of title 16 payment, any payment under the wheat, feed grain, upland cotton, extra long staple cotton, and rice programs authorized by chapter 35A of this title and this chapter, any loan, or price support operation, or the amount thereof, when officially determined in conformity with the applicable regulations prescribed by the Secretary or by the Commodity Credit Corporation, shall be final and conclusive and shall not be reviewable by any other officer or agency of the Government. In case any person who is entitled to any such payment dies, becomes incompetent, or disappears before receiving such payment, or is succeeded by another who renders or completes the required performance, the payment shall, without regard to any other provisions of law, be made as the Secretary of Agriculture may determine to be fair and reasonable in all the circumstances and provide by regulations. This section also shall be applicable to payments provided for under section 1348 of this title.
 
 (Feb. 16, 1938, ch. 30, title III, §385, 52 Stat. 68; July 2, 1940, ch. 521, §7, 54 Stat. 728; July 3, 1948, ch. 827, title II, §207(e), 62 Stat. 1257; Pub. L. 87–703, title III, §322, Sept. 27, 1962, 76 Stat. 626; Pub. L. 88–297, title I, §102, Apr. 11, 1964, 78 Stat. 174; Pub. L. 91–524, title IV, §404(5), title VI, §605(3), Nov. 30, 1970, 84 Stat. 1366, 1378; Pub. L. 94–214, title III, §302, Feb. 16, 1976, 90 Stat. 187; Pub. L. 95–113, title IV, §405, Sept. 29, 1977, 91 Stat. 927; Pub. L. 97–98, title XI, §1102, Dec. 22, 1981, 95 Stat. 1263; Pub. L. 99–198, title X, §1017(a), Dec. 23, 1985, 99 Stat. 1459.)
 
@@ -12,23 +12,23 @@ Chapter 35A \[§1421 et seq.\] of this title, referred to in text, was in the or
 
 #### Amendments
 
-1985—Pub. L. 99–198 inserted “extra long staple cotton,” after “upland cotton,” in first sentence.
+<b>1985</b>—Pub. L. 99–198 inserted “extra long staple cotton,” after “upland cotton,” in first sentence.
 
-1981—Pub. L. 97–98 amended first sentence generally.
+<b>1981</b>—Pub. L. 97–98 amended first sentence generally.
 
-1977—Pub. L. 95–113 temporarily amended first sentence generally. See Effective and Termination Dates of 1977 Amendment note below.
+<b>1977</b>—Pub. L. 95–113 temporarily amended first sentence generally. See Effective and Termination Dates of 1977 Amendment note below.
 
-1976—Pub. L. 94–214 temporarily inserted reference to payments under the rice program authorized by section 1441(g) of this title. See Effective and Termination Dates of 1976 Amendment note below.
+<b>1976</b>—Pub. L. 94–214 temporarily inserted reference to payments under the rice program authorized by section 1441(g) of this title. See Effective and Termination Dates of 1976 Amendment note below.
 
-1970—Pub. L. 91–524 temporarily inserted references to payments under the cotton set-aside program and to payments (including certificates) under the wheat and feed grain set-aside programs. See Effective and Termination Dates of 1970 Amendment note below.
+<b>1970</b>—Pub. L. 91–524 temporarily inserted references to payments under the cotton set-aside program and to payments (including certificates) under the wheat and feed grain set-aside programs. See Effective and Termination Dates of 1970 Amendment note below.
 
-1964—Pub. L. 88–297 provided for application of this section to payments in kind to equalize cost of cotton to domestic and foreign users.
+<b>1964</b>—Pub. L. 88–297 provided for application of this section to payments in kind to equalize cost of cotton to domestic and foreign users.
 
-1962—Pub. L. 87–703 inserted “payment under section 1339 of this title,” after “parity payment,”.
+<b>1962</b>—Pub. L. 87–703 inserted “payment under section 1339 of this title,” after “parity payment,”.
 
-1948—Act July 3, 1948, substituted “loan, or price support operation” for “or loan”.
+<b>1948</b>—Act July 3, 1948, substituted “loan, or price support operation” for “or loan”.
 
-1940—Act July 2, 1940, inserted last sentence.
+<b>1940</b>—Act July 2, 1940, inserted last sentence.
 
 #### Effective Date of 1981 Amendment
 
@@ -64,5 +64,5 @@ Functions of Corporations of Department of Agriculture, boards of directors and 
 
 #### Determination of Rate of Loans, Payments, and Purchases Under Price Support Program for 1986 Through 1990 Crops; Notice and Public Participation in Rulemaking Not Required
 
-Section 1017(b) of Pub. L. 99–198, as amended by Pub. L. 101–624, title XI, §1144, Nov. 28, 1990, 104 Stat. 3516, provided that: “The Secretary of Agriculture shall determine the rate of loans, payments, and purchases under a program established under the Agricultural Act of 1949 (7 U.S.C. 1421 et seq.) for any of the 1991 through 1995 crops of a commodity without regard to the requirements for notice and public participation in rulemaking prescribed in section 553 of title 5, United States Code, or in any directive of the Secretary.”
+Section 1017(b) of Pub. L. 99–198, as amended by Pub. L. 101–624, title XI, §1144, Nov. 28, 1990, 104 Stat. 3516, provided that: “The Secretary of Agriculture shall determine the rate of loans, payments, and purchases under a program established under the AgriculturalAct of 1949 (7 U.S.C. 1421 et seq.) for any of the 1991 through 1995 crops of a commodity without regard to the requirements for notice and public participation in rulemaking prescribed in section 553 of title 5, United States Code, or in any directive of the Secretary.”
 

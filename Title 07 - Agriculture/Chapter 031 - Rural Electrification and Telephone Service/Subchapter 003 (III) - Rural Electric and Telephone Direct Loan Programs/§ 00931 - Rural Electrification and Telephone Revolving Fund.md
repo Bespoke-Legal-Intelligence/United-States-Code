@@ -22,13 +22,13 @@ Section 905 of this title, referred to in pars. (1) and (2), was repealed by Pub
 
 #### Amendments
 
-1996—Pub. L. 104–127 struck out “(a)” before “There is hereby” in introductory provisions and struck out “notwithstanding section 903(a) of this title,” before “all collections” in par. (3).
+<b>1996</b>—Pub. L. 104–127 struck out “(a)” before “There is hereby” in introductory provisions and struck out “notwithstanding section 903(a) of this title,” before “all collections” in par. (3).
 
-1994—Subsec. (a)(1). Pub. L. 103–354 substituted “Secretary” for “Administrator”.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–354 substituted “Secretary” for “Administrator”.
 
-1976—Subsec. (a)(4). Pub. L. 94–570 provided for inclusion in the fund the unobligated balances of any funds made available for loans under item “Rural Electrification Administration” in the Department of Agriculture and Agriculture-Environmental and Consumer Protection Appropriation Acts.
+<b>1976</b>—Subsec. (a)(4). Pub. L. 94–570 provided for inclusion in the fund the unobligated balances of any funds made available for loans under item “Rural Electrification Administration” in the Department of Agriculture and Agriculture-Environmental and Consumer Protection Appropriation Acts.
 
-1973—Pub. L. 93–32 substituted provisions establishing the Rural Electrification and Telephone Revolving Fund and enumerating its constituent parts, for provisions establishing a rural telephone account in the United States Treasury.
+<b>1973</b>—Pub. L. 93–32 substituted provisions establishing the Rural Electrification and Telephone RevolvingFund and enumerating its constituent parts, for provisions establishing a rural telephone account in the United States Treasury.
 
 #### Effective Date of 1976 Amendment
 

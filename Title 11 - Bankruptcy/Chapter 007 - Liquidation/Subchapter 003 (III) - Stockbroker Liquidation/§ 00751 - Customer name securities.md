@@ -6,7 +6,7 @@ The trustee shall deliver any customer name security to or on behalf of the cust
 
 #### Historical and Revision Notes
 
-I74senate report no. 95–989
+#### senate report no. 95–989
 
 Section 751 requires the trustee to deliver a customer name security to the customer entitled to such security unless the customer has a negative net equity. The customer's net equity will be negative when the amount owed by the customer to the stockbroker exceeds the liquidation value of the non-customer name securities in the customer's account. If the customer is a net debtor of the stockbroker, then the trustee may permit the customer to repay debts to the stockbroker so that the customer will no longer be in debt to the stockbroker. If the customer refuses to pay such amount, then the court may order the customer to endorse the security in order that the trustee may liquidate such property.
 

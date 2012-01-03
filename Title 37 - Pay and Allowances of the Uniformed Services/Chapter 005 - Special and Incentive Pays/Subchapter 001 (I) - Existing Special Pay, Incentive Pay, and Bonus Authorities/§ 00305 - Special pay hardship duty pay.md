@@ -72,7 +72,7 @@ Regulations.—The Secretary of Defense shall prescribe regulations for the prov
 
 <b>1998</b>—Pub. L. 105–261, §617(c)(1), struck out “location” after “duty” in section catchline.
 
-Subsec. (a). Pub. L. 105–261, §617(a)(1), substituted “performing duty in the United States or outside the United States that is designated by the Secretary of Defense as hardship duty.” for “on duty at a location in the United States or outside the United States designated by the Secretary of Defense as a hardship duty location.”
+Subsec. (a). Pub. L. 105–261, §617(a)(1), substituted “performing duty in the United States or outside theUnited States that is designated by the Secretary of Defense as hardship duty.” for “on duty at a location in the United States or outside the United States designated by the Secretary of Defense as a hardship duty location.”
 
 Subsec. (b). Pub. L. 105–261, §617(a)(4), redesignated subsec. (d) as (b).
 
@@ -152,5 +152,5 @@ Section 804(c) of Pub. L. 95–485 provided that: “Any individual who on Septe
 
 #### Executive Order No. 10168
 
-Ex. Ord. No. 10168, Oct. 11, 1950, 15 F.R. 6877, as amended by Ex. Ord. No. 10821, May 20, 1959, 24 F.R. 4123; Ex. Ord. No. 10989, Jan. 23, 1962, 27 F.R. 727; Ex. Ord. No. 11120, Oct. 2, 1963, 28 F.R. 10631, which concerned regulations relating to special pay for sea duty and duty at certain places, was revoked by Ex. Ord. No. 11157, June 22, 1964, 29 F.R. 7973, formerly set out as a note under section 301 of this title.
+Ex. Ord. No. 10168, Oct. 11, 1950, 15 F.R. 6877, as amended by Ex. Ord. No. 10821, May 20, 1959, 24 F.R.4123; Ex. Ord. No. 10989, Jan. 23, 1962, 27 F.R. 727; Ex. Ord. No. 11120, Oct. 2, 1963, 28 F.R. 10631, which concerned regulations relating to special pay for sea duty and duty at certain places, was revoked by Ex. Ord. No. 11157, June 22, 1964, 29 F.R. 7973, formerly set out as a note under section 301 of this title.
 

@@ -8,7 +8,7 @@ An eligible grantee shall submit an application to the Attorney General that—
 
 &emsp;&emsp;(A) the period ending on the date on which the next session of the State or Indian tribal legislature ends; or
 
-&emsp;&emsp;(B) 2 years of September 13, 1994 or, in the case of the condition set forth in subsection <sup>1</sup>3796hh(c)(4) of this title, the expiration of the 2-year period beginning on October 28, 2000;
+&emsp;&emsp;(B) 2 years of September 13, 1994 or, in the case of the condition set forth in subsection <sup>1</sup> 3796hh(c)(4) of this title, the expiration of the 2-year period beginning on October 28, 2000;
 
 &emsp;(2) describes plans to further the purposes stated in section 3796hh(a) of this title;
 

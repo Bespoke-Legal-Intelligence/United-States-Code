@@ -76,7 +76,7 @@ The purposes of this section are—
 
 #### (4) Minimum amount
 
-&emsp;The Attorney General shall allocate to each State not less than 1.50 percent of the total amount appropriated in a fiscal year for grants under this section, except that the United States Virgin Islands, American Samoa, Guam, the District of Columbia, Puerto Rico, and the Commonwealth of the Northern Mariana Islands shall each be allocated 0.125 percent of the total appropriations. The remaining funds shall be allotted to each State and each territory in an amount that bears the same ratio to such remaining funds as the population of such State and such territory bears to the population of all the States and the territories. The District of Columbia shall be treated as a territory for purposes of calculating its allocation under the preceding formula.
+&emsp;The Attorney General shall allocate to each State not less than 1.50 percent of the total amount appropriated in a fiscal year for grants under this section, except that the United States Virgin Islands, American Samoa, Guam, the District of Columbia, Puerto Rico, and the Commonwealth of the Northern Mariana Islands shall each be allocated 0.125 percent of the total appropriations. Theremaining funds shall be allotted to each State and each territory in an amount that bears the same ratio to such remaining funds as the population of such State and such territory bears to the population of all the States and the territories. The District of Columbia shall be treated as a territory for purposes of calculating its allocation under the preceding formula.
 
 #### (c) Grants for culturally specific programs addressing sexual assault
 
@@ -182,7 +182,7 @@ The purposes of this section are—
 
 #### (1) In general
 
-&emsp;There are authorized to be appropriated $50,000,000 to remain available until expendedfor each of the fiscal years 2007 through 2011 to carry out the provisions of this section.
+&emsp;There are authorized to be appropriated $50,000,000 to remain available until expended for each of the fiscal years 2007 through 2011 to carry out the provisions of this section.
 
 #### (2) Allocations
 

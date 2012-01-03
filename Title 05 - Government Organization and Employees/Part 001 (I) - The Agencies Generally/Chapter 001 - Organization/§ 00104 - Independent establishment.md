@@ -16,11 +16,11 @@ Certain agencies are not independent establishments under the definition since t
 
 #### Amendments
 
-2006—Par. (1). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
+<b>2006</b>—Par. (1). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
 
-2004—Par. (2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Par. (2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-1970—Par. (1). Pub. L. 91–375 inserted “(other than the United States Postal Service or the Postal Rate Commission)” after “executive branch”.
+<b>1970</b>—Par. (1). Pub. L. 91–375 inserted “(other than the United States Postal Service or the Postal Rate Commission)” after “executive branch”.
 
 #### Effective Date of 1970 Amendment
 

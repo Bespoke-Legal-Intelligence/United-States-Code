@@ -40,7 +40,7 @@ A prior section 383I of Pub. L. 87–128, title III, was renumbered section 383J
 
 #### Amendments
 
-2008—Subsec. (a)(1). Pub. L. 110–246, §6026(i), inserted “multistate or” before “regional”.
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–246, §6026(i), inserted “multistate or” before “regional”.
 
 #### Effective Date of 2008 Amendment
 

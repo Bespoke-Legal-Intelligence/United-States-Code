@@ -30,7 +30,7 @@ Prescribing Minimum Safety Standards.—The Administrator may prescribe minimum 
 
 (c)
 
-Reducing and Eliminating Accidents.—The Administrator shall carry out this chapterin a way that best tends to reduce or eliminate the possibility or recurrence of accidents in air transportation. However, the Administrator is not required to give preference either to air transportation or to other air commerce in carrying out this chapter.
+Reducing and Eliminating Accidents.—The Administrator shall carry out this chapter in a way that best tends to reduce or eliminate the possibility or recurrence of accidents in air transportation. However, the Administrator is not required to give preference either to air transportation or to other air commerce in carrying out this chapter.
 
 (d)
 
@@ -678,7 +678,7 @@ Deadline for Beginning Implementation of Plan.—Not later than one year after t
 
 “(a)
 
-Rulemaking.—The Administrator of the Federal Aviation Administration shall conduct a rulemakingproceeding to require all part 121 air carriers to implement a safety management system.
+Rulemaking.—The Administrator of the Federal Aviation Administration shall conduct a rulemaking proceeding to require all part 121 air carriers to implement a safety management system.
 
 “(b)
 
@@ -776,7 +776,7 @@ Numbers of flight hours.—The total flight hours required by the Administrator 
 
 &emsp;“(2)
 
-Flight hours in difficult operational conditions.—The total flight hours required by the Administrator under subsection (b)(1) shall include sufficient flight hours, as determined by the Administrator, in difficult operational conditions that may be encountered by an air carrier to enable a pilot to operate safely in such conditions.
+Flight hours in difficult operational conditions.—The total flight hours required by the Administrator under subsection (b)(1) shall include sufficient flight hours, as determined by the Administrator, in difficult operational conditions that maybe encountered by an air carrier to enable a pilot to operate safely in such conditions.
 
 “(d)
 
@@ -834,7 +834,7 @@ Workload of Inspectors.—
 
 &emsp;“(1)
 
-Study by national academy of sciences.—Not later than 90 days after the date of enactment of thisAct \[Dec. 12, 2003\], the Administrator of the Federal Aviation Administration shall make appropriate arrangements for the National Academy of Sciences to conduct a study of the assumptions and methods used by the Federal Aviation Administration to estimate staffing standards for FAA inspectors to ensure proper oversight over the aviation industry, including the designee program.
+Study by national academy of sciences.—Not later than 90 days after the date of enactment of this Act \[Dec. 12, 2003\], the Administrator of the Federal Aviation Administration shall make appropriate arrangements for the National Academy of Sciences to conduct a study of the assumptions and methods used by the Federal Aviation Administration to estimate staffing standards for FAA inspectors to ensure proper oversight over the aviation industry, including the designee program.
 
 &emsp;“(2)
 

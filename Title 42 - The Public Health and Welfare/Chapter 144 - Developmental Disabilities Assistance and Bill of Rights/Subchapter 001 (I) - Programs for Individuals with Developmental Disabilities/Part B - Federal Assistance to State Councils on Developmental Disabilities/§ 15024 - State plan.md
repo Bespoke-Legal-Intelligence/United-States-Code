@@ -14,7 +14,7 @@ In order to be approved by the Secretary under this section, a State plan shall 
 
 #### (1) State Council
 
-&emsp;The plan shall provide for the establishment and maintenance of a Council in accordancewith section 15025 of this title and describe the membership of such Council.
+&emsp;The plan shall provide for the establishment and maintenance of a Council in accordance with section 15025 of this title and describe the membership of such Council.
 
 #### (2) Designated State agency
 
@@ -138,7 +138,7 @@ In order to be approved by the Secretary under this section, a State plan shall 
 
 #### (J) Employee protections
 
-&emsp;&emsp;The plan shall provide assurances that fair and equitable arrangements (as determinedby the Secretary after consultation with the Secretary of Labor) will be provided to protect the interests of employees affected by actions taken under the plan to provide community living activities, including arrangements designed to preserve employee rights and benefits and provide training and retraining of such employees where necessary, and arrangements under which maximum efforts will be made to guarantee the employment of such employees.
+&emsp;&emsp;The plan shall provide assurances that fair and equitable arrangements (as determined by the Secretary after consultation with the Secretary of Labor) will be provided to protect the interests of employees affected by actions taken under the plan to provide community living activities, including arrangements designed to preserve employee rights and benefits and provide training and retraining of such employees where necessary, and arrangements under which maximum efforts will be made to guarantee the employment of such employees.
 
 #### (K) Staff assignments
 

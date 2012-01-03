@@ -40,7 +40,7 @@ In determining whether the applicant has sustained the burden of establishing go
 
 #### Amendments
 
-2005—Subsec. (g). Pub. L. 109–149, §518, temporarily added subsec. (g) reading as follows:
+<b>2005</b>—Subsec. (g). Pub. L. 109–149, §518, temporarily added subsec. (g) reading as follows:
 
 “(1) The continuous residency requirement under subsection (a) of this section may be reduced to 3 years for an applicant for naturalization if—
 
@@ -62,9 +62,9 @@ In determining whether the applicant has sustained the burden of establishing go
 
 “(B) The fee collected under subparagraph (A) shall be deposited as offsetting collections in the Immigration Examinations Fee Account.” See Termination Date of 2005 Amendment note below.
 
-1996—Subsec. (f)(1). Pub. L. 104–208 substituted “clauses (i) through (v) of section 1158(b)(2)(A) of this title” for “subparagraphs (A) through (D) of section 1253(h)(2) of this title”.
+<b>1996</b>—Subsec. (f)(1). Pub. L. 104–208 substituted “clauses (i) through (v) of section 1158(b)(2)(A) of this title” for “subparagraphs (A) through (D) of section 1253(h)(2) of this title”.
 
-1990—Subsec. (a). Pub. L. 101–649, §407(c)(2), substituted references to applicant and application for references to petitioner and petition wherever appearing.
+<b>1990</b>—Subsec. (a). Pub. L. 101–649, §407(c)(2), substituted references to applicant and application for references to petitioner and petition wherever appearing.
 
 Pub. L. 101–649, §402, substituted “and who has resided within the State or within the district of the Service in the United States in which the applicant filed the application for at least three months” for “and who has resided within the State in which the petitioner filed the petition for at least six months” in cl. (1).
 
@@ -90,9 +90,9 @@ Subsec. (f)(2). Pub. L. 101–649, §407(d)(1)(E), amended first sentence genera
 
 Subsec. (f)(3). Pub. L. 101–649, §407(c)(2), substituted reference to application for reference to petition.
 
-1985—Subsec. (g). Pub. L. 99–169 added subsec. (g).
+<b>1985</b>—Subsec. (g). Pub. L. 99–169 added subsec. (g).
 
-1981—Subsec. (b). Pub. L. 97–116 inserted provision that the spouse and dependent unmarried sons and daughters who are members of the household of a person who qualifies for the benefits of this subsection also be entitled to such benefits during the period for which they were residing abroad as dependent members of the household of the person.
+<b>1981</b>—Subsec. (b). Pub. L. 97–116 inserted provision that the spouse and dependent unmarried sons and daughters who are members of the household of a person who qualifies for the benefits of this subsection also be entitled to such benefits during the period for which they were residing abroad as dependent members of the household of the person.
 
 #### Change of Name
 

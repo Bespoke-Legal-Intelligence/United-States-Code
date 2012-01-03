@@ -98,15 +98,17 @@ Reports.—(1) Not later than March 31 of each year, the Committee shall submit 
 
 (d)
 
-Termination.—The Committee shall cease to exist December 30, 2011.
+Termination.—The Committee shall cease to exist December 31, 2012.
 
-(Added Pub. L. 107–95, §5(a)(1), Dec. 21, 2001, 115 Stat. 916; amended Pub. L. 109–444, §2(e), Dec. 21, 2006, 120 Stat. 3304; Pub. L. 109–461, title VII, §709, title X, §1006(b), Dec. 22, 2006, 120 Stat. 3441, 3468.)
+(Added Pub. L. 107–95, §5(a)(1), Dec. 21, 2001, 115 Stat. 916; amended Pub. L. 109–444, §2(e), Dec. 21, 2006, 120 Stat. 3304; Pub. L. 109–461, title VII, §709, title X, §1006(b), Dec. 22, 2006, 120 Stat. 3441, 3468; Pub. L. 112–37, §10(f), Oct. 5, 2011, 125 Stat. 397.)
 
 #### References in Text
 
-The McKinney-Vento Homeless Assistance Act, referred to in subsec. (b)(3)(F), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended. Title II of the Act is classified generally to subchapter II (§11311 et seq.) of chapter 119 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, seeShort Title note set out under section 11301 of Title 42 and Tables.
+The McKinney-Vento Homeless Assistance Act, referred to in subsec. (b)(3)(F), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended. Title II of the Act is classified generally to subchapter II (§11311 et seq.) of chapter 119 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (d). Pub. L. 112–37 substituted “December 31, 2012” for “December 30, 2011”.
 
 <b>2006</b>—Subsec. (a)(3)(E) to (G). Pub. L. 109–461, §709(a), added subpars. (E) to (G).
 

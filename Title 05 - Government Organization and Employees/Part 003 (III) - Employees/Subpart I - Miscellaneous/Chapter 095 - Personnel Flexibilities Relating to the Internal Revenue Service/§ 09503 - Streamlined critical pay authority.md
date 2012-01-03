@@ -32,5 +32,5 @@ The provisions of this title governing appointments in the competitive service, 
 
 #### Amendments
 
-2007—Subsec. (a). Pub. L. 110–161 substituted “before July 23, 2013” for “for a period of 10 years after the date of enactment of this section” in introductory provisions.
+<b>2007</b>—Subsec. (a). Pub. L. 110–161 substituted “before July 23, 2013” for “for a period of 10 years after the date of enactment of this section” in introductory provisions.
 

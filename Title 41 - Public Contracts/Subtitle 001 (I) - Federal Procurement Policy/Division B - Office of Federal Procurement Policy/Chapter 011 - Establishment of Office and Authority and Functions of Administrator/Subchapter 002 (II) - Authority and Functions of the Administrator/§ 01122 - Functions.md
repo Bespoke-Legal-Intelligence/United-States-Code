@@ -14,27 +14,7 @@ In General.—The functions of the Administrator include—
 
 &emsp;(B) ensuring executive agency compliance with the record requirements of section 1712 of this title;
 
-&emsp;(5) providing for and directing the activities of the Federal Acquisition Institute (including recommending to the Administrator of General Services a sufficient budget for those activities), which shall be located in the General Services Administration, in order to—
-
-&emsp;&emsp;(A) foster and promote the development of a professional acquisition workforce Government-wide;
-
-&emsp;&emsp;(B) promote and coordinate Government-wide research and studies to improve the procurement process and the laws, policies, methods, regulations, procedures, and forms relating to acquisition by the executive agencies;
-
-&emsp;&emsp;(C) collect data and analyze acquisition workforce data from the Office of Personnel Management, from the heads of executive agencies, and, through periodic surveys, from individual employees;
-
-&emsp;&emsp;(D) periodically analyze acquisition career fields to identify critical competencies, duties, tasks, and related academic prerequisites, skills, and knowledge;
-
-&emsp;&emsp;(E) coordinate and assist agencies in identifying and recruiting highly qualified candidates for acquisition fields;
-
-&emsp;&emsp;(F) develop instructional materials for acquisition personnel in coordination with private and public acquisition colleges and training facilities;
-
-&emsp;&emsp;(G) evaluate the effectiveness of training and career development programs for acquisition personnel;
-
-&emsp;&emsp;(H) promote the establishment and utilization of academic programs by colleges and universities in acquisition fields;
-
-&emsp;&emsp;(I) facilitate, to the extent requested by agencies, interagency intern and training programs; and
-
-&emsp;&emsp;(J) perform other career management or research functions as directed by the Administrator;
+&emsp;(5) providing for and directing the activities of the Federal Acquisition Institute established under section 1201 of this title, including recommending to the Administrator of General Services a sufficient budget for such activities.
 
 &emsp;(6) administering section 1703(a) to (i) of this title;
 
@@ -82,7 +62,7 @@ Within office.—The Administrator may make and authorize delegations within the
 
 To another executive agency.—The Administrator may delegate, and authorize successive redelegations of, an authority, function, or power of the Administrator under this division (other than the authority to provide overall direction of Federal procurement policy and to prescribe policies and regulations to carry out the policy) to another executive agency with the consent of the head of the executive agency or at the direction of the President.
 
-(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3685.)
+(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3685; Pub. L. 112–81, div. A, title VIII, §864(b)(3), Dec. 31, 2011, 125 Stat. 1524.)
 
 Historical and Revision Notes
 
@@ -124,6 +104,10 @@ Pub. L. 93–400, §12, Aug. 30, 1974, 88 Stat. 799; Pub. L. 96–83, §8, Oct. 
 
 In clause (12), the words “small business concerns owned and controlled by service-disabled veterans” are added to conform to section 15(g)(1) of the Small Business Act (15:644(g)(1)).
 
+#### Amendments
+
+<b>2011</b>—Subsec. (a)(5). Pub. L. 112–81 amended par. (5) generally. Prior to amendment, par. (5) related to the purposes of the activities of the Federal Acquisition Institute.
+
 #### Pilot Program To Inventory Cost and Size of Service Contracts
 
 Pub. L. 110–161, div. D, title VII, §748, Dec. 26, 2007, 121 Stat. 2035, provided that: “No later than 180 days after enactment of this Act \[Dec. 26, 2007\], the Office of Management and Budget shall establish a pilot program to develop and implement an inventory to track the cost and size (in contractor manpower equivalents) of service contracts, particularly with respect to contracts that have been performed poorly by a contractor because of excessive costs or inferior quality, as determined by a contracting officer within the last five years, involve inherently governmental functions, or were undertaken without competition. The pilot program shall be established in at least three Cabinet-level departments, based on varying levels of annual contracting for services, as reported by the Federal Procurement Data System's Federal Procurement Report for fiscal year 2005, including at least one Cabinet-level department that contracts out annually for $10,000,000,000 or more in services, at least one Cabinet-level department that contracts out annually for between $5,000,000,000 and $9,000,000,000 in services, and at least one Cabinet-level department that contracts out annually for under $5,000,000,000 in services.”
@@ -134,7 +118,7 @@ Pub. L. 105–135, title IV, §414, Dec. 2, 1997, 111 Stat. 2619, provided that:
 
 “(a)
 
-Data Collection Required.—The Federal Procurement Data System described in section 6(d)(4)(A) of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 405(d)(4)(A)) \[now 41 U.S.C. 1122(a)(4)(A)\] shall be modified to collect data regarding bundling of contract requirements when the contracting officer anticipates that the resulting contract price, including all options, is expected to exceed $5,000,000. The data shall reflect a determination made by the contracting officer regarding whether a particular solicitation constitutes a contract bundling.
+Data Collection Required.—The Federal Procurement Data System described in section 6(d)(4)(A) of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 405(d)(4)(A)) \[now 41 U.S.C. 1122(a)(4)(A)\] shallbe modified to collect data regarding bundling of contract requirements when the contracting officer anticipates that the resulting contract price, including all options, is expected to exceed $5,000,000. The data shall reflect a determination made by the contracting officer regarding whether a particular solicitation constitutes a contract bundling.
 
 “(b)
 

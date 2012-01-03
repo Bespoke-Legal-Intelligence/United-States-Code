@@ -26,7 +26,7 @@ Requirements for historic sites.—The requirements of this section shall be con
 
 &emsp;&emsp;(B)
 
-Requirements for parks, recreation areas, and wildlife or waterfowl refuges.—The requirements of subsection (c)(1) shall be considered to be satisfied with respect to an area described in paragraph (3) if the Secretary determines, in accordance with this subsection, that a transportation program or project will have a de minimis impact on the area. The requirements of subsection (c)(2) with respect to an area described in paragraph (3) shall not include an alternatives analysis.
+Requirements for parks, recreation areas, and wildlife or waterfowl refuges.—The requirements of subsection (c)(1) shall be considered to be satisfied with respect to an area described in paragraph (3) if the Secretary determines, in accordancewith this subsection, that a transportation program or project will have a de minimis impact on the area. The requirements of subsection (c)(2) with respect to an area described in paragraph (3) shall not include an alternatives analysis.
 
 &emsp;&emsp;(C)
 

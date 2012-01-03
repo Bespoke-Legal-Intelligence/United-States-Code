@@ -10,7 +10,7 @@ In the case of any individual—
 
 &emsp;(3) who enters into an agreement with the Secretary to serve as nurse for a period of not less than two years at a health care facility with a critical shortage of nurses, or in a <sup>2</sup> accredited school of nursing, as defined by section 296(2) of this title, as nurse faculty;
 
-> the Secretary shall make payments in accordance with subsection (b) of this section, for and on behalf of that individual, on the principal of and interest on any loan of that individual described in paragraph (2) of this subsection which is outstanding on the date the individual begins the service specified in the agreement described in paragraph (3) of this subsection. After fiscal year 2007, the Secretary may not, pursuant to any agreement entered into under this subsection, assign a nurse to any private entity unless that entity is nonprofit.
+> the Secretary shall make payments in accordance with subsection (b) of this section, for andon behalf of that individual, on the principal of and interest on any loan of that individual described in paragraph (2) of this subsection which is outstanding on the date the individual begins the service specified in the agreement described in paragraph (3) of this subsection. After fiscal year 2007, the Secretary may not, pursuant to any agreement entered into under this subsection, assign a nurse to any private entity unless that entity is nonprofit.
 
 #### (b) Manner of payments
 

@@ -212,3 +212,5 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 “Secretary” as meaning the Secretary of Agriculture, see section 8701 of this title.
 
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a third closing parenthesis.</i>
+

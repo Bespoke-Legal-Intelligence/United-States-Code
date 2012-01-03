@@ -10,7 +10,7 @@ Congress finds the following:
 
 &emsp;(4) Oversight by the Attorney General is required to address these problems.
 
-&emsp;(5) While most governmental entities may prefer to use, and will continue to use, fully trained and sworn law enforcement officers when transporting violent prisoners, fiscal or logistical concerns may make the use of highly specialized private prisoner transport companies an option. Nothing in sections 13726 to 13726c of this title should be construed to mean that governmental entities should contract with private prisoner transport companies to move violent prisoners; however when a government entity opts to use a private prisoner transport company to move violent prisoners, then the company should be subject to regulation in order to enhance public safety.
+&emsp;(5) While most governmental entities may prefer to use, and will continue to use, fully trained and sworn law enforcement officers when transporting violent prisoners, fiscal or logistical concerns may make the use of highly specialized private prisoner transport companies an option. Nothing in sections 13726 to13726c of this title should be construed to mean that governmental entities should contract with private prisoner transport companies to move violent prisoners; however when a government entity opts to use a private prisoner transport company to move violent prisoners, then the company should be subject to regulation in order to enhance public safety.
 
 (Pub. L. 106–560, §2, Dec. 21, 2000, 114 Stat. 2784.)
 

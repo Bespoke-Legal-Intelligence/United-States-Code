@@ -30,7 +30,7 @@ Substantive Differences.—(1) Except as provided in subsection (c) of this sect
 
 Compliance With Section 5112(b)
 
-Regulations.—(1) Except as provided in paragraph (2) of this subsection, after the last day of the 2-year period beginning on the date a regulation is prescribed under section 5112(b) of this title, a State or Indian tribe may establish, maintain, or enforce a highway routing designation over which hazardous material may or may not be transported by motor vehicles, or a limitation or requirement related to highway routing, only if the designation, limitation, or requirement complies with section 5112(b).
+Regulations.—(1) Except as provided in paragraph (2) ofthis subsection, after the last day of the 2-year period beginning on the date a regulation is prescribed under section 5112(b) of this title, a State or Indian tribe may establish, maintain, or enforce a highway routing designation over which hazardous material may or may not be transported by motor vehicles, or a limitation or requirement related to highway routing, only if the designation, limitation, or requirement complies with section 5112(b).
 
 (2)(A) A highway routing designation, limitation, or requirement established before the date a regulation is prescribed under section 5112(b) of this title does not have to comply with section 5112(b)(1)(B), (C), and (F).
 

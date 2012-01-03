@@ -274,13 +274,13 @@ Sec. 1–301. <i>Steel Imports</i>. The functions vested in the President by sec
 
 Sec. 1–401. <i>Telecommunications Trade</i>. The functions vested in the President by sections 1375 and 1376(e) of the Omnibus Trade Act \[19 U.S.C. 3104, 3105(e)\], regarding certain telecommunications negotiations as may be ordered by the President and reports thereon to Congressional Committees, are delegated to the United States Trade Representative.
 
-Sec. 1–501. <i>Uniform Fee on Imports</i>. The functions vested in the President by section 1428 of the OmnibusTrade Act \[19 U.S.C. 2397, 19 U.S.C. 2397 note\], regarding negotiations to obtain authority under the General Agreement on Tariffs and Trade to impose a small uniform fee on imports, are delegated to the United States Trade Representative.
+Sec. 1–501. <i>Uniform Fee on Imports</i>. The functions vested in the President by section 1428 of the Omnibus Trade Act \[19 U.S.C. 2397, 19 U.S.C. 2397 note\], regarding negotiations to obtain authority under the General Agreement on Tariffs and Trade to impose a small uniform fee on imports, are delegated to the United States Trade Representative.
 
 #### PART II—EXPORT ENHANCEMENT
 
 Sec. 2–101. <i>Countertrade and Barter.</i>
 
-(1) <i>Establishment</i>. There is established an Interagency Group on Countertrade, which shall be composed of the Secretaries of Commerce, State, Defense, Treasury, Labor, Agriculture, and Energy, the Attorney General, the Administrator of the Agency for International Development, the Director \[Administrator\] of the Federal Emergency Management Agency, the United States Trade Representative and the Director of the Office of Management and Budget, or their respective representatives. The Secretary of Commerce or his representative shall be the Chairman of the interagency group.
+(1) <i>Establishment</i>. There is established an Interagency Group on Countertrade, which shall be composed of theSecretaries of Commerce, State, Defense, Treasury, Labor, Agriculture, and Energy, the Attorney General, the Administrator of the Agency for International Development, the Director \[Administrator\] of the Federal Emergency Management Agency, the United States Trade Representative and the Director of the Office of Management and Budget, or their respective representatives. The Secretary of Commerce or his representative shall be the Chairman of the interagency group.
 
 (2) <i>Functions</i>. The interagency group shall carry out the functions and duties set out in section 2205(a) of the Omnibus Trade Act \[15 U.S.C. 4712(a)\].
 
@@ -326,13 +326,13 @@ Sec. 3–201. <i>Authority to Review Certain Mergers, Acquisitions, and Takeover
 
 Sec. 3–301. <i>Reporting Requirement on Semiconductors, Fiber Optics and Superconducting Materials.</i>
 
-(1) The Secretary of Commerce, in consultation with the Director of the Office of Science and Technology Policy, the Secretary of Defense, and the Director of the Office of Management and Budget, shall prepare forthe President to submit to the Congress with the Fiscal Year 1990 budget a report describing policies and budget proposals regarding:
+(1) The Secretary of Commerce, in consultation with the Director of the Office of Science and Technology Policy, the Secretary of Defense, and the Director of the Office of Management and Budget, shall prepare for the President to submit to the Congress with the Fiscal Year 1990 budget a report describing policies and budget proposals regarding:
 
 (A) Federal research in semiconductors and semiconductor manufacturing technology, including a discussion of the respective roles of the various Federal departments and agencies in such research;
 
 (B) Federal research and acquisition policies for fiber optics and optical-electronic technologies generally;
 
-(C) Superconducting materials, including descriptions of research priorities, the scientific and technical barriers to commercialization which such research is designed to overcome, steps taken to ensure coordination among Federal agencies conducting research on superconducting materials, and steps taken to consult with private United States industry to ensure that no unnecessary duplication of research exists and that all important scientific and technical barriers to the commercialization of superconducting materials will be addressed; and
+(C) Superconducting materials, including descriptions of research priorities, the scientific and technicalbarriers to commercialization which such research is designed to overcome, steps taken to ensure coordination among Federal agencies conducting research on superconducting materials, and steps taken to consult with private United States industry to ensure that no unnecessary duplication of research exists and that all important scientific and technical barriers to the commercialization of superconducting materials will be addressed; and
 
 (D) Federal research to assist United States industry to develop and apply advanced manufacturing technologies for the production of durable and nondurable goods.
 

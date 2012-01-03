@@ -38,7 +38,7 @@
 
 (C) For purposes of this paragraph (with respect to representation before the Supreme Court), the term “Attorney General” includes the Solicitor General.
 
-(4) If, prior to the expiration of the 45-day period specified in paragraph (1) of this section or a 60-day period specified in paragraph (3), any right of the Commission to commence, defend, or intervene in, any such action or appeal may be extinguished due to any procedural requirement of any court with respect to the time in which any pleadings, notice of appeal, or other acts pertaining to such action or appeal may be taken, the Attorney General shall have one-halfof the time required to comply with any such procedural requirement of the court (including any extension of such time granted by the court) for the purpose of commencing, defending, or intervening in the civil action pursuant to paragraph (1) or for the purpose of refusing to appeal or file a petition for writ of certiorari and the written notification or failing to take any action pursuant to paragraph 3(A)(ii).
+(4) If, prior to the expiration of the 45-day period specified in paragraph (1) of this section ora 60-day period specified in paragraph (3), any right of the Commission to commence, defend, or intervene in, any such action or appeal may be extinguished due to any procedural requirement of any court with respect to the time in which any pleadings, notice of appeal, or other acts pertaining to such action or appeal may be taken, the Attorney General shall have one-half of the time required to comply with any such procedural requirement of the court (including any extension of such time granted by the court) for the purpose of commencing, defending, or intervening in the civil action pursuant to paragraph (1) or for the purpose of refusing to appeal or file a petition for writ of certiorari and the written notification or failing to take any action pursuant to paragraph 3(A)(ii).
 
 (5) The provisions of this subsection shall apply notwithstanding chapter 31 of title 28, or any other provision of law.
 
@@ -86,7 +86,7 @@ Amendment by Pub. L. 109–455 to cease to have effect 7 years after Dec. 22, 20
 
 #### Effective Date of 1975 Amendment
 
-Section 204(c) of Pub. L. 93–637 provided that: “The amendment and repeal made by this section \[amending this section and repealing section 45(m) of this title\] shall not apply to any civil action commenced before the date of enactment of this Act \[Jan. 4, 1975\].”
+Pub. L. 93–637, title II, §204(c), Jan. 4, 1975, 88 Stat. 2200, provided that: “The amendment and repeal made by this section \[amending this section and repealing section 45(m) of this title\] shall not apply to any civil action commenced before the date of enactment of this Act \[Jan. 4, 1975\].”
 
 #### Transfer of Functions
 

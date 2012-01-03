@@ -18,9 +18,11 @@ The purpose of the Retirement Home is to provide, through the Armed Forces Retir
 
 (1) The Chief Operating Officer of the Armed Forces Retirement Home is the head of the Retirement Home. The Chief Operating Officer is subject to the authority, direction, and control of the Secretary of Defense.
 
-(2) Each facility of the Retirement Home shall be maintained as a separate establishment of the Retirement Home for administrative purposes and shall be under the authority, direction, and control of the Director of that facility. The Director of each facility of the Retirement Home is subject to the authority, direction, and control of the Chief Operating Officer.
+(2) Each facility of the Retirement Home shall be maintained as a separate establishment of the Retirement Home for administrative purposes and shall be under the authority, direction, and control of the Administrator of that facility. The Administrator of each facility of the Retirement Home is subject to the authority, direction, and control of the Chief Operating Officer.
 
-(3) The administration of the Retirement Home (including administration for the provision of health care and medical care for residents) shall remain under the direct authority, control, and administration of the Secretary of Defense.
+(3) <sup>1</sup> The administration of the Retirement Home (including administration for the provision of health care and medical care for residents) shall remain under the direct authority, control, and administration of the Secretary of Defense.
+
+(3) <sup>1</sup> The administration of the Retirement Home, including administration for the provision of health care and medical care for residents, shall remain under the control and administration of the Secretary of Defense.
 
 #### (e) Property and facilities
 
@@ -40,7 +42,7 @@ The Chief Operating Officer shall secure and maintain accreditation by a nationa
 
 #### (h) Annual report
 
-The Secretary of Defense shall transmit to Congress an annual report on the financial and other affairs of the Retirement Home for each fiscal year. The annual report shall include an assessment of all aspects of each facility of the Retirement Home, including the quality of care at the facility.
+The Secretary of Defense shall transmit to Congress an annual report on the financial and other affairs of the Retirement Home for each fiscal year. The annual report shall include anassessment of all aspects of each facility of the Retirement Home, including the quality of care at the facility.
 
 #### (i) Authority to lease non-excess property
 
@@ -96,7 +98,7 @@ The Secretary of Defense shall transmit to Congress an annual report on the fina
 
 (8) The interest of a lessee of property leased under this subsection may be taxed by State or local governments. A lease under this subsection shall provide that, if and to the extent that the leased property is later made taxable by State or local governments under an Act of Congress, the lease shall be renegotiated.
 
-(Pub. L. 101–510, div. A, title XV, §1511, Nov. 5, 1990, 104 Stat. 1723; Pub. L. 103–160, div. A, title III, §366(a), Nov. 30, 1993, 107 Stat. 1630; Pub. L. 107–107, div. A, title XIV, §1403, Dec. 28, 2001, 115 Stat. 1258; Pub. L. 110–181, div. A, title XIV, §1422(a), (b), Jan. 28, 2008, 122 Stat. 420; Pub. L. 111–84, div. B, title XXVIII, §2823, Oct. 28, 2009, 123 Stat. 2666; Pub. L. 111–383, div. B, title XXVIII, §2813(b), Jan. 7, 2011, 124 Stat. 4463.)
+(Pub. L. 101–510, div. A, title XV, §1511, Nov. 5, 1990, 104 Stat. 1723; Pub. L. 103–160, div. A, title III, §366(a), Nov. 30, 1993, 107 Stat. 1630; Pub. L. 107–107, div. A, title XIV, §1403, Dec. 28, 2001, 115 Stat. 1258; Pub. L. 110–181, div. A, title XIV, §1422(a), (b), Jan. 28, 2008, 122 Stat. 420; Pub. L. 111–84, div. B, title XXVIII, §2823, Oct. 28, 2009, 123 Stat. 2666; Pub. L. 111–383, div. B, title XXVIII, §2813(b), Jan. 7, 2011, 124 Stat. 4463; Pub. L. 112–81, div. A, title V, §§561, 564(b)(1), Dec. 31, 2011, 125 Stat. 1420, 1424.)
 
 #### References in Text
 
@@ -104,7 +106,11 @@ This chapter, referred to in subsec. (f), was in the original “this title”, 
 
 #### Amendments
 
-<b>2011</b>—Subsec. (i)(2)(F). Pub. L. 111–383 added subpar. (F).
+<b>2011</b>—Subsec. (d)(2). Pub. L. 112–81, §564(b)(1), substituted “Administrator” for “Director” in two places.
+
+Subsec. (d)(3). Pub. L. 112–81, §561, added second par. (3).
+
+Subsec. (i)(2)(F). Pub. L. 111–383 added subpar. (F).
 
 <b>2009</b>—Subsec. (e)(2). Pub. L. 111–84, §2823(a), inserted at end “If the purchase price to acquire fee title to real property for inclusion in the Retirement Home is more than $750,000, the Secretary may acquire the real property only if the acquisition is specifically authorized by law.”
 
@@ -125,4 +131,6 @@ Subsec. (h). Pub. L. 110–181, §1422(a)(2), inserted at end “The annual repo
 #### Effective Date
 
 Section effective one year after Nov. 5, 1990, see section 1541(a) of Pub. L. 101–510, formerly set out as a note under section 401 of this title.
+
+<i><sup>1</sup></i><i> So in original. Two pars. (3) have been enacted.</i>
 

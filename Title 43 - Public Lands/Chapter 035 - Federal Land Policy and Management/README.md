@@ -6,6 +6,7 @@
 | :--- | ---: |
 | [1701\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001701%20-%20Congressional%20declaration%20of%20policy.md) | Congressional declaration of policy. |
 | [1702\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001702%20-%20Definitions.md) | Definitions. |
+| [1703\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001703%20-%20Cooperative%20action%20and%20sharing%20of%20resources%20by%20Secretaries%20of%20the%20Interior%20and%20Agriculture.md) | Cooperative action and sharing of resources by Secretaries of the Interior and Agriculture. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -91,6 +92,7 @@
 |  |  |
 | :--- | ---: |
 | [1781\.](Subchapter%20006%20%28VI%29%20-%20Designated%20Management%20Areas/%C2%A7%2001781%20-%20California%20Desert%20Conservation%20Area.md) | California Desert Conservation Area. |
+| [1781a.](Subchapter%20006%20%28VI%29%20-%20Designated%20Management%20Areas/%C2%A7%2001781a%20-%20Acceptance%20of%20donation%20of%20certain%20existing%20permits%20or%20leases.md) | Acceptance of donation of certain existing permits or leases. |
 | [1782\.](Subchapter%20006%20%28VI%29%20-%20Designated%20Management%20Areas/%C2%A7%2001782%20-%20Bureau%20of%20Land%20Management%20Wilderness%20Study.md) | Bureau of Land Management Wilderness Study. |
 | [1783\.](Subchapter%20006%20%28VI%29%20-%20Designated%20Management%20Areas/%C2%A7%2001783%20-%20Yaquina%20Head%20Outstanding%20Natural%20Area.md) | Yaquina Head Outstanding Natural Area. |
 | [1784\.](Subchapter%20006%20%28VI%29%20-%20Designated%20Management%20Areas/%C2%A7%2001784%20-%20Lands%20in%20Alaska%3B%20designation%20as%20wilderness%3B%20management%20by%20Bureau%20of%20Land%20Management%20pending%20Congressional%20action.md) | Lands in Alaska; designation as wilderness; management by Bureau of Land Management pending Congressional action. |

@@ -46,7 +46,7 @@
 
 (d) Notwithstanding subsections (a) and (b) of this section, the court shall disallow any claim of any entity from which property is recoverable under section 542, 543, 550, or 553 of this title or that is a transferee of a transfer avoidable under section 522(f), 522(h), 544, 545, 547, 548, 549, or 724(a) of this title, unless such entity or transferee has paid the amount, or turned over any such property, for which such entity or transferee is liable under section 522(i), 542, 543, 550, or 553 of this title.
 
-(e)(1) Notwithstanding subsections (a), (b), and (c) of this section and paragraph (2) of this subsection, the court shall disallow any claim for reimbursement or contribution of an entity that is liable with the debtor on or has secured the claim of a creditor, to the extent that—
+(e)(1) Notwithstanding subsections (a), (b), and (c) of this section and paragraph (2) of this subsection, the court shall disallow any claim for reimbursement or contribution of an entity thatis liable with the debtor on or has secured the claim of a creditor, to the extent that—
 
 &emsp;(A) such creditor's claim against the estate is disallowed;
 
@@ -54,7 +54,7 @@
 
 &emsp;(C) such entity asserts a right of subrogation to the rights of such creditor under section 509 of this title.
 
-(2) A claim for reimbursement or contribution of such an entity that becomes fixed after the commencement of the case shall be determined, and shall be allowed under subsection (a), (b), or (c) of this section, or disallowed under subsection (d) of this section, the same as if suchclaim had become fixed before the date of the filing of the petition.
+(2) A claim for reimbursement or contribution of such an entity that becomes fixed after the commencement of the case shall be determined, and shall be allowed under subsection (a), (b), or (c) of this section, or disallowed under subsection (d) of this section, the same as if such claim had become fixed before the date of the filing of the petition.
 
 (f) In an involuntary case, a claim arising in the ordinary course of the debtor's business or financial affairs after the commencement of the case but before the earlier of the appointment of a trustee and the order for relief shall be determined as of the date such claim arises, and shall be allowed under subsection (a), (b), or (c) of this section or disallowed under subsection (d) or (e) of this section, the same as if such claim had arisen before the date of the filing of the petition.
 
@@ -90,7 +90,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 The House amendment adopts a compromise position in section 502(a) between H.R. 8200, as passed by the House, and the Senate amendment. Section 502(a) has been modified to make clear that a party in interest includes a creditor of a partner in a partnership that is a debtor under chapter 7. Since the trustee of the partnership is given an absolute claim against the estate of each general partner under section 723(c), creditors of the partner must have standing to object to claims against the partnership at the partnership level because no opportunity will be afforded at the partner's level for such objection.
 
@@ -100,7 +100,7 @@ Section 502(b)(7)(A) represents a compromise between the House bill and the Sena
 
 As used in section 502(b)(7), the phrase “lease of real property” applies only to a “true” or “bona fide” lease and does not apply to financing leases of real property or interests therein, or to leases of such property which are intended as security.
 
-Historically, the limitation on allowable claims of lessors of real property was based on two considerations. First, the amount of the lessor's damages on breach of a real estate lease was considered contingent and difficult to prove. Partly for this reason, claims of a lessor of real estate were not provable prior to the 1934 amendments, to the Bankruptcy Act \[former title 11\]. Second, in a true lease of real property, the lessorretains all risks and benefits as to the value of the real estate at the termination of the lease. Historically, it was, therefore, considered equitable to limit the claims of real estate lessor.
+Historically, the limitation on allowable claims of lessors of real property was based on two considerations. First, the amount of the lessor's damages on breach of a real estate lease was considered contingent and difficult to prove. Partly for this reason, claims of a lessor of real estate were not provable prior to the 1934 amendments, to the Bankruptcy Act \[former title 11\]. Second, in a true lease of real property, the lessor retains all risks and benefits as to the value of the real estate at the termination of the lease. Historically, it was, therefore, considered equitable to limit the claims of real estate lessor.
 
 However, these considerations are not present in “lease financing” transactions where, in substance, the “lease” involves a sale of the real estate and the rental payments are in substance the payment of principal and interest on a secured loan or sale. In a financing lease the lessor is essentially a secured or unsecured creditor (depending upon whether his interest is perfected or not) of the debtor, and the lessor's claim should not be subject to the 502(b)(7) limitation. Financing “leases” are in substance installment sales or loans. The “lessors” are essentially sellers or lenders and should be treated as such for purposes of the bankruptcy law.
 
@@ -156,9 +156,9 @@ As used in section 502(b)(7), the phrase “lease of real property” applies on
 
 Historically, the limitation on allowable claims of lessors of real property was based on two considerations. First, the amount of the lessors damages on breach of a real estate lease was considered contingent and difficult to prove. Partly for this reason, claims of a lessor of real estate were not provable prior to the 1934 amendments to the Bankruptcy Act \[former title 11\]. Second, in a true lease of real property, the lessor retains all risk and benefits as to the value of the real estate at the termination of the lease. Historically, it was, therefore, considered equitable to limit the claims of a real estate lessor.
 
-However, these considerations are not present in “lease financing” transactions where, in substance, the “lease” involves a sale of the real estate and the rental payments are in substance the payment of principal and interest on a secured loan or sale. In a financing lease the lessor is essentially a secured or unsecured creditor (depending upon whether his interest is perfected or not) of the debtor, and the lessor's claim should not be subject to the 502(b)(7) limitation. Financing “leases” are in substance installment sales or loans. The “lessors” are essentially sellers or lenders and should be treated as such for purposes of the bankruptcy law.
+However, these considerations are not present in “lease financing” transactions where, in substance, the “lease” involves a sale of the real estate and the rental payments are in substance the payment of principal and interest on a secured loan or sale. In a financinglease the lessor is essentially a secured or unsecured creditor (depending upon whether his interest is perfected or not) of the debtor, and the lessor's claim should not be subject to the 502(b)(7) limitation. Financing “leases” are in substance installment sales or loans. The “lessors” are essentially sellers or lenders and should be treated as such for purposes of the bankruptcy law.
 
-Whether a “lease” is true or bona fide lease or, in the alternative, a financing “lease” or a lease intended as security, depends upon the circumstances of each case. The distinction between a true lease and a financing transaction is based upon the economic substance of the transaction and not, for example, upon the locus of title, the form of the transaction or the fact that the transaction is denominated as a “lease”. The fact that the lessee, upon compliance with the terms of the lease, becomes or has the option to become the owner of the leased property for no additional consideration or fornominal consideration indicates that the transaction is a financing lease or lease intended as security. In such cases, the lessor has no substantial interest in the leased property at the expiration of the lease term. In addition, the fact that the lessee assumes and discharges substantially all the risks and obligations ordinarily attributed to the outright ownership of the property is more indicative of a financing transaction than of a true lease. The rental payments in such cases are in substance payments of principal and interest either on a loan secured by the leased real property or on the purchase of the leased real property. See, e. g., Financial Accounting Standards Board Statement No. 13 and SEC Reg. S–X, 17 C.F.R. sec. 210.3–16(q) (1977); cf. <i>First National Bank of Chicago v. Irving Trust Co</i>., 74 F.2d 263 (2nd Cir. 1934); and Albenda and Lief, “Net Lease Financing Transactions Under the Proposed Bankruptcy Act of 1973,” 30 Business Lawyer, 713 (1975).
+Whether a “lease” is true or bona fide lease or, in the alternative, a financing “lease” or a lease intended as security, depends upon the circumstances of each case. The distinction between a true lease and a financing transaction is based upon the economic substance of the transaction and not, for example, upon the locus of title, the form of the transaction or the fact that the transaction is denominated as a “lease”. The fact that the lessee, upon compliance with the terms of the lease, becomes or has the option to become the owner of the leased property for no additional consideration or for nominal consideration indicates that the transaction is a financing lease or lease intended as security. In such cases, the lessor has no substantial interest in the leased property at the expiration of the lease term. In addition, the fact that the lessee assumes and discharges substantially all the risks and obligations ordinarily attributed to the outright ownership of the property is more indicative of a financing transaction than of a true lease. The rental payments in such cases are in substance payments of principal and interest either on a loan secured by the leased real property or on the purchase of the leased real property. See, e. g., Financial Accounting Standards Board Statement No. 13 and SEC Reg. S–X, 17 C.F.R. sec. 210.3–16(q) (1977); cf. <i>First National Bank of Chicago v. Irving Trust Co</i>., 74 F.2d 263 (2nd Cir. 1934); and Albenda and Lief, “Net Lease Financing Transactions Under the Proposed Bankruptcy Act of 1973,” 30 Business Lawyer, 713 (1975).
 
 Paragraph (8) is new. It tracks the landlord limitation on damages provision in paragraph (7) for damages resulting from the breach by the debtor of an employment contract, but limits the recovery to the compensation reserved under an employment contract for the year following the earlier of the date of the petition and the termination of employment.
 
@@ -188,23 +188,23 @@ The Federal Rules of Bankruptcy Procedure, referred to in subsec. (b)(9), are se
 
 #### Amendments
 
-2005—Subsec. (b)(9). Pub. L. 109–8, §716(d), inserted “, and except that in a case under chapter 13, a claim of a governmental unit for a tax with respect to a return filed under section 1308 shall be timely if the claim is filed on or before the date that is 60 days after the date on which such return was filed as required” before period at end.
+<b>2005</b>—Subsec. (b)(9). Pub. L. 109–8, §716(d), inserted “, and except that in a case under chapter 13, a claim of a governmental unit for a tax with respect to a return filed under section 1308 shall be timely if the claim is filed on or before the date that is 60 days after the date on which such return was filed as required” before period at end.
 
 Subsec. (g). Pub. L. 109–8, §910(b), designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (k). Pub. L. 109–8, §201(a), added subsec. (k).
 
-1994—Subsec. (b)(9). Pub. L. 103–394, §213(a), added par. (9).
+<b>1994</b>—Subsec. (b)(9). Pub. L. 103–394, §213(a), added par. (9).
 
 Subsec. (i). Pub. L. 103–394, §304(h)(1), substituted “507(a)(8)” for “507(a)(7)”.
 
-1986—Subsec. (b)(6)(A)(ii). Pub. L. 99–554, §283(f)(1), substituted “repossessed” for “reposessed”.
+<b>1986</b>—Subsec. (b)(6)(A)(ii). Pub. L. 99–554, §283(f)(1), substituted “repossessed” for “reposessed”.
 
 Subsec. (g). Pub. L. 99–554, §257(j), inserted reference to chapter 12.
 
 Subsec. (i). Pub. L. 99–554, §283(f)(2), substituted “507(a)(7)” for “507(a)(6)”.
 
-1984—Subsec. (a). Pub. L. 98–353, §445(a), inserted “general” before “partner”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–353, §445(a), inserted “general” before “partner”.
 
 Subsec. (b). Pub. L. 98–353, §445(b)(1), (2), in provisions preceding par. (1), inserted “(e)(2),” after “subsections” and “in lawful currency of the United States” after “claim”.
 

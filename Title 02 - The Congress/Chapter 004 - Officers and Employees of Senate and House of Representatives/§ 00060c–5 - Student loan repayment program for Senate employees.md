@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Eligible employee
 
-&emsp;The term “eligible employee” means an individual—
+&emsp;The term “eligible employee” means an individual, except as provided under subsection (b)(3)—
 
 &emsp;&emsp;(A) who is an employee of the Senate; and
 
@@ -14,11 +14,19 @@ In this section:
 
 #### (2) Employee of the Senate
 
-&emsp;The term “employee of the Senate” has the meaning given the term in section 1301 of this title.
+&emsp;The term “employee of the Senate”—
+
+&emsp;&emsp;(A) has the meaning given the term under section 1301 of this title; and
+
+&emsp;&emsp;(B) includes any employee of the Office of Congressional Accessibility Services whose pay is disbursed by the Secretary of the Senate.
 
 #### (3) Employing office
 
-&emsp;The term “employing office” means the employing office, as defined in section 1301 of this title, of an employee of the Senate.
+&emsp;The term “employing office”—
+
+&emsp;&emsp;(A) means the employing office, as defined under section 1301 of this title, of an employee of the Senate; and
+
+&emsp;&emsp;(B) includes the Office of Congressional Accessibility Services with respect to employees of that office whose pay is disbursed by the Secretary of the Senate.
 
 #### (4) Secretary
 
@@ -70,6 +78,10 @@ In this section:
 
 &emsp;On entering into a service agreement under this section, the employing office shall submit a copy of the service agreement to the Secretary.
 
+#### (3) Exclusion from participation in dual programs
+
+&emsp;Notwithstanding section 5379 of title 5, an employee of the Office of Congressional Accessibility Services may not participate in the student loan repayment program through an agreement under that section and participate in the student loan repayment program through a service agreement under this section at the same time.
+
 #### (c) Program conditions
 
 #### (1) Period of employment
@@ -98,7 +110,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;An employee shall not be eligible for continued student loan payments under a serviceagreement under this section and (except in a case in which an employee's duty is terminated under paragraph (2) or an employing office assumes responsibilities under paragraph (3)) shall reimburse the Senate for the amount of all student loan payments made on behalf of the employee under the agreement, if, before the employee completes the required period of employment specified in the agreement—
+&emsp;An employee shall not be eligible for continued student loan payments under a service agreement under this section and (except in a case in which an employee's duty is terminated under paragraph (2) or an employing office assumes responsibilities under paragraph (3)) shall reimburse the Senate for the amount of all student loan payments made on behalf of the employee under the agreement, if, before the employee completes the required period of employment specified in the agreement—
 
 &emsp;&emsp;(A) the employee voluntarily separates from service with the employing office;
 
@@ -222,7 +234,7 @@ In this section:
 
 #### (2) Allocation
 
-&emsp;From the total amount made available to carry out this section for a fiscal year, there shall be allocated to each employing office for that fiscal year—
+&emsp;From the total amount made available to carry out this section for a fiscal year, thereshall be allocated to each employing office for that fiscal year—
 
 &emsp;&emsp;(A) the maximum amount for that employing office for that fiscal year; or
 
@@ -250,13 +262,13 @@ In this section:
 
 This section shall apply to fiscal year 2002 and each fiscal year thereafter.
 
-(Pub. L. 107–68, title I, §102, Nov. 12, 2001, 115 Stat. 563; Pub. L. 107–117, div. B, §916, Jan. 10, 2002, 115 Stat. 2324.)
+(Pub. L. 107–68, title I, §102, Nov. 12, 2001, 115 Stat. 563; Pub. L. 107–117, div. B, §916, Jan. 10, 2002, 115 Stat. 2324; Pub. L. 112–74, div. G, title I, §1001(a), (b), Dec. 23, 2011, 125 Stat. 1124.)
 
 #### References in Text
 
 The Higher Education Act of 1965, referred to in subsec. (a)(5)(A), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Parts B, D, and E of title IV of the Act are classified to parts B (§1071 et seq.), C (§1087a et seq.), and D (§1087aa et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
-The Public Health Service Act, referred to in subsec. (a)(5)(B), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Part A of title VII of the Act is classified generally to part A (§292 et seq.) of subchapter V of chapter 6A of Title 42, The Public Health and Welfare.Part E of title VIII of the Act is classified generally to part E (§297a et seq.) of subchapter VI of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in subsec. (a)(5)(B), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Part A of title VII of the Act is classified generally to part A (§292 et seq.) of subchapter V of chapter 6A of Title 42, The Public Health and Welfare. Part E of title VIII of the Act is classified generally to part E (§297a et seq.) of subchapter VI of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 Section 60c–2a(c) of this title, referred to in subsec. (d)(4)(A), was in the original “section 104(c) of the Legislative Appropriation Act, 1977”, and was translated as reading “section 104(c) of the Legislative Branch Appropriation Act, 1977”, to reflect the probable intent of Congress.
 
@@ -268,7 +280,25 @@ Section is from the Congressional Operations Appropriations Act, 2002, which is 
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–117, §916(1), redesignated pars. (2) to (6) as (1) to (5), respectively, and struck out heading and text of former par. (1). Text read as follows: “The term ‘Committee’ means the Committee on Rules and Administration of the Senate.”
+<b>2011</b>—Subsec. (a)(1). Pub. L. 112–74, §1001(a)(1), inserted “, except as provided under subsection (b)(3)” after “means an individual” in introductory provisions.
+
+Subsec. (a)(2), (3). Pub. L. 112–74, §1001(a)(2), added pars. (2) and (3) and struck out former pars. (2) and (3) which read as follows:
+
+“(2)
+
+Employee of the senate.—The term ‘employee of the Senate’ has the meaning given the term in section 1301 of this title.
+
+“(3)
+
+Employing office.—The term ‘employing office’ means the employing office, as defined in section 1301 of this title, of an employee of the Senate.”
+
+Subsec. (b)(3). Pub. L. 112–74, §1001(b), added par. (3).
+
+<b>2002</b>—Subsec. (a). Pub. L. 107–117, §916(1), redesignated pars. (2) to (6) as (1) to (5), respectively, and struck out heading and text of former par. (1). Text read as follows: “The term ‘Committee’ means the Committee on Rules and Administration of the Senate.”
 
 Subsec. (g)(1). Pub. L. 107–117, §916(2), substituted “subsection (h)(1)(A)” for “subsection (i)(1)(A)” in subpar. (A) and “subsection (h)(1)(B)” for “subsection (i)(1)(B)” in subpar. (B).
+
+#### Effective Date of 2011 Amendment
+
+Pub. L. 112–74, div. G, title I, §1001(c), Dec. 23, 2011, 125 Stat. 1124, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of enactment of this Act \[Dec. 23, 2011\] and apply to service agreements entered into under section 102 of the Legislative Branch Appropriations Act, 2002 (2 U.S.C. 60c–5) or section 5379 of title 5, United States Code, on or after that date.”
 

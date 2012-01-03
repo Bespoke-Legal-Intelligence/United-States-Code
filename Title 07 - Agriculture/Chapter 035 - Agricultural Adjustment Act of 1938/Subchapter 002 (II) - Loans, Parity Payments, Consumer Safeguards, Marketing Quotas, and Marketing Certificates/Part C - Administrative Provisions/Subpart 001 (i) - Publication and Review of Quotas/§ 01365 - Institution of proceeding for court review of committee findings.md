@@ -6,5 +6,5 @@ If the farmer is dissatisfied with the determination of the review committee, he
 
 #### Amendments
 
-1960—Pub. L. 86–507 inserted “or by certified mail” after “registered mail”.
+<b>1960</b>—Pub. L. 86–507 inserted “or by certified mail” after “registered mail”.
 

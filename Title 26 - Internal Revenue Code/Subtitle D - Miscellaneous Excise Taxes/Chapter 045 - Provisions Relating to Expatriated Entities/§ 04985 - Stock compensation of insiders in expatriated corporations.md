@@ -6,7 +6,7 @@ In the case of an individual who is a disqualified individual with respect to an
 
 &emsp;(1) the rate of tax specified in section 1(h)(1)(C), multiplied by
 
-&emsp;(2) the value (determined under subsection (b)) of the specified stock compensation held (directly or indirectly) by or for the benefit of such individual or a member of such individual's family (as defined in section 267) at any time during the 12-month period beginning onthe date which is 6 months before the expatriation date.
+&emsp;(2) the value (determined under subsection (b)) of the specified stock compensation held (directly or indirectly) by or for the benefit of such individual or a member of such individual's family (as defined in section 267) at any time during the 12-month period beginning on the date which is 6 months before the expatriation date.
 
 #### (b) Value
 

@@ -4,7 +4,7 @@
 
 (b) The Telephone Bank is also authorized to issue telephone debentures to the Secretary of the Treasury, and the Secretary of the Treasury may in his discretion purchase any such debentures, and for such purpose the Secretary of the Treasury is authorized to use as a public debt transaction the proceeds of the sale of any securities hereafter issued under chapter 31 of title 31, as now or hereafter in force, and the purposes for which securities may be issued under chapter 31 of title 31 as now or hereafter in force are extended to include such purchases. Each purchase of telephone debentures by the Secretary of the Treasury under this subsection shall be upon such terms and conditions as to yield a return at a rate not less than a rate determined by the Secretary of the Treasury, taking into consideration the current average yield on outstanding marketable obligations of the United States of comparable maturity. The Secretary of the Treasury may sell, upon such terms and conditions and at such price or prices as he shall determine, any of the telephone debentures acquired by him under this subsection. All purchases and sales by the Secretary of the Treasury of such debentures under this subsection shall be treated as public debt transactions of the United States.
 
-(c) Purchases and resales by the Secretary of the Treasury as authorized in subsection (b) ofthis section shall not be included in the totals of the budget of the United States Government and shall be exempt from any general limitation imposed by statute on expenditures and net lending (budget outlays) of the United States.
+(c) Purchases and resales by the Secretary of the Treasury as authorized in subsection (b) of this section shall not be included in the totals of the budget of the United States Government and shall be exempt from any general limitation imposed by statute on expenditures and net lending (budget outlays) of the United States.
 
 (May 20, 1936, ch. 432, title IV, §407, as added Pub. L. 92–12, §2, May 7, 1971, 85 Stat. 34; amended Pub. L. 92–324, §2, June 30, 1972, 86 Stat. 390; Pub. L. 93–32, §§6, 7, May 11, 1973, 87 Stat. 70.)
 
@@ -14,11 +14,11 @@ In subsec. (b), “chapter 31 of title 31” substituted for “the Second Liber
 
 #### Amendments
 
-1973—Subsec. (a). Pub. L. 93–32, §6, increased from eight times the paid-in capital and retained earnings of the telephone bank to twenty times the paid-in capital and retained earnings of the telephone bank the amount of telephone debentures which may be outstanding at any one time and struck out provisions directing the insertion by the telephone bank in all its telephone debentures of appropriate language indicating that such telephone debentures together with interest thereon are not guaranteed by the United States and do not constitute a debt or obligation of the United States or of any agency or instrumentality thereof other than the telephone bank.
+<b>1973</b>—Subsec. (a). Pub. L. 93–32, §6, increased from eight times the paid-in capital and retained earnings of the telephone bank to twenty times the paid-in capital and retained earnings of the telephone bank the amount of telephone debentures which may be outstanding at any one time and struck out provisions directing the insertion by the telephone bank in all its telephone debentures of appropriate language indicating that such telephone debentures together with interest thereon are not guaranteed by the United States and do not constitute a debt or obligation of the United States or of any agency or instrumentality thereof other than the telephone bank.
 
 Subsec. (c). Pub. L. 93–32, §7, added subsec. (c).
 
-1972—Pub. L. 92–324 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1972</b>—Pub. L. 92–324 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 1973 Amendment
 

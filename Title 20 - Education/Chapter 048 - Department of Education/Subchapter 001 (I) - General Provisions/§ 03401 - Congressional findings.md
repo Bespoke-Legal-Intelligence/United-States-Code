@@ -34,7 +34,7 @@ Section 601 of Pub. L. 96–88 provided that:
 
 &emsp;“(2) the Secretary may promulgate regulations pursuant to section 505(b)(2) of this Act \[section 3505(b)(2) of this title\].
 
-“(b) Funds available to any department or agency (or any official or component thereof), the functions or offices of which are transferred to the Secretary or the Department by this Act \[see Short Title note below\], may, with the approval of the Director of the Office ofManagement and Budget, be used to pay the compensation and expenses of any officer appointed pursuant to this title \[this section and section 602 of Pub. L. 96–88 set out below\] and other transitional and planning expenses associated with the establishment of the Department or transfer of functions or offices thereto until such time as funds for such purposes are otherwise available.”
+“(b) Funds available to any department or agency (or any official or component thereof), the functions or offices of which are transferred to the Secretary or the Department by this Act \[see Short Title note below\], may, with the approval of the Director of the Office of Management and Budget, be used to pay the compensation and expenses of any officer appointed pursuant to this title \[this section and section 602 of Pub. L. 96–88 set out below\] and other transitional and planning expenses associated with the establishment of the Department or transfer of functions or offices thereto until such time as funds for such purposes are otherwise available.”
 
 #### Short Title of 1990 Amendment
 
@@ -42,7 +42,7 @@ Pub. L. 101–392, title VI, §601, Sept. 25, 1990, 104 Stat. 840, provided that
 
 #### Short Title
 
-Section 1 of Pub. L. 96–88 provided that: “This Act \[enacting this chapter, amending sections 928, 929, 1102, 2390, 2711, and 3012 of this title, section 19 of Title 3, The President, sections 101, 5312, and 5314 to 5316 of Title 5, Government Organization and Employees, sections 2, 9, and 11 of the Inspector General Act of 1978, set out in the Appendix to Title 5, section 1004 of Title 21, Food and Drugs, and sections 761b, 794c, 821, 829, 873, 879, 882, 914, and 952 of Title 29, Labor, and enacting provisions set out as notes under this section and section 1102 of this title\] may be cited as the ‘Department of Education Organization Act’.”
+Section 1 of Pub. L. 96–88 provided that: “This Act \[enacting this chapter, amending sections 928, 929, 1102, 2390, 2711, and 3012 of this title, section 19 of Title 3, The President, sections 101, 5312, and 5314 to 5316 of Title 5, Government Organization and Employees, sections 2, 9, and 11 of the Inspector General Act of 1978, set out in the Appendix to Title 5, section 1004 of Title 21, Foodand Drugs, and sections 761b, 794c, 821, 829, 873, 879, 882, 914, and 952 of Title 29, Labor, and enacting provisions set out as notes under this section and section 1102 of this title\] may be cited as the ‘Department of Education Organization Act’.”
 
 #### Interim Appointments
 

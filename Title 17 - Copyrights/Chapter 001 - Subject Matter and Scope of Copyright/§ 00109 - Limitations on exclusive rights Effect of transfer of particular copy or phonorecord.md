@@ -64,7 +64,7 @@ The committee's intention is to preserve the traditional privilege of the owner 
 
 The date of the enactment of the Computer Software Rental Amendments Act of 1990, referred to in subsec. (b)(2)(B), is the date of enactment of Pub. L. 101–650, which was approved Dec. 1, 1990.
 
-The first section of the Clayton Act, referred to in subsec. (b)(3), is classified to section 12 of Title 15, Commerce and Trade.
+The first section of the Clayton Act, referred to in subsec. (b)(3), is classified to section 12 of Title 15, Commerce and Trade, and section 53 of Title 29, Labor. The term “antitrust laws” is defined in section 12 of Title 15.
 
 Section 5 of the Federal Trade Commission Act, referred to in subsec. (b)(3), is classified to section 45 of Title 15.
 

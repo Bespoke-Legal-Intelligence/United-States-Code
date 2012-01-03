@@ -1,6 +1,6 @@
 ### §285<i>o</i>. Expropriation of United States property; loan restrictions
 
-The President shall instruct the United States Executive Director of the Asian DevelopmentBank to vote against any loan or other utilization of the funds of the Bank for the benefit of any country which has—
+The President shall instruct the United States Executive Director of the Asian Development Bank to vote against any loan or other utilization of the funds of the Bank for the benefit of any country which has—
 
 &emsp;(1) nationalized or expropriated or seized ownership or control of property owned by any United States citizen or by any corporation, partnership, or association not less than 50 per centum of which is beneficially owned by United States citizens;
 

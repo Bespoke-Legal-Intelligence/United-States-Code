@@ -42,5 +42,5 @@ Section was enacted as part of title VII of the Personal Responsibility and Work
 
 #### Amendments
 
-1999—Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act” in section catchline and in two places in text.
+<b>1999</b>—Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act” in section catchline and in two places in text.
 

@@ -22,7 +22,7 @@
 
 #### (ii) Limitation
 
-&emsp;&emsp;&emsp;The number of employees of such a business that are treated as New York Liberty Zone business employees on any day by reason of clause (i) shall not exceed the excess of—
+&emsp;&emsp;&emsp;The number of employees of such a business that are treated as New York LibertyZone business employees on any day by reason of clause (i) shall not exceed the excess of—
 
 &emsp;&emsp;&emsp;&emsp;(I) the number of employees of such business on September 11, 2001, in the New York Liberty Zone, over
 
@@ -292,7 +292,7 @@
 
 #### (g) Extension of replacement period for nonrecognition of gain
 
-Notwithstanding subsections (g) and (h) of section 1033, clause (i) of section 1033(a)(2)(B) shall be applied by substituting “5 years” for “2 years” with respect to property which is compulsorily or involuntarily converted as a result of the terrorist attacks on September 11, 2001, in the New York Liberty Zone but only if substantially all of the use of the replacement property is in the City of New York, New York.
+Notwithstanding subsections (g) and (h) of section 1033, clause (i) of section 1033(a)(2)(B) shall be applied by substituting “5 years” for “2years” with respect to property which is compulsorily or involuntarily converted as a result of the terrorist attacks on September 11, 2001, in the New York Liberty Zone but only if substantially all of the use of the replacement property is in the City of New York, New York.
 
 #### (h) New York Liberty Zone
 

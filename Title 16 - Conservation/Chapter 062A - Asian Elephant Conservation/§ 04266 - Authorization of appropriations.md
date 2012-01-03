@@ -6,7 +6,7 @@ There is authorized to be appropriated to the Fund $5,000,000 for each of fiscal
 
 #### (b) Administrative expenses
 
-Of amounts available each fiscal year to carry out this chapter, the Secretary may expend notmore than 3 percent or $100,000, whichever is greater, to pay the administrative expenses necessary to carry out this chapter.
+Of amounts available each fiscal year to carry out this chapter, the Secretary may expend not more than 3 percent or $100,000, whichever is greater, to pay the administrative expenses necessary to carry out this chapter.
 
 (Pub. L. 105–96, §8, formerly §7, Nov. 19, 1997, 111 Stat. 2153; renumbered §8 and amended Pub. L. 107–141, §§2–4, Feb. 12, 2002, 116 Stat. 13; Pub. L. 110–133, §2(b), (c), Dec. 6, 2007, 121 Stat. 1362.)
 

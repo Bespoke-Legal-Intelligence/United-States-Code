@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The budget justification materials submitted to Congress in support of the budget of the President for a fiscal year that is submitted to Congress under section 1105(a) of title 31 shall set forth separately the aggregate amount requested for that fiscal year for the National Intelligence Program for each of the following:
+The budget justification materials submitted to Congress in support of the budget of the President for a fiscal year that is submitted toCongress under section 1105(a) of title 31 shall set forth separately the aggregate amount requested for that fiscal year for the National Intelligence Program for each of the following:
 
 &emsp;(1) Counterterrorism.
 
@@ -14,19 +14,17 @@ The budget justification materials submitted to Congress in support of the budge
 
 #### (b) Election of classified or unclassified form
 
-Amounts set forth under subsection (a) of this section may be set forth in unclassified form or classified form, at the election of the Director of Central Intelligence.
+Amounts set forth under subsection (a) of this section may be set forth in unclassified form or classified form, at the election of the Director of National Intelligence.
 
-(July 26, 1947, ch. 343, title V, §506, as added Pub. L. 107–306, title III, §311(a), Nov. 27, 2002, 116 Stat. 2390; amended Pub. L. 108–458, title I, §1074(b)(1)(A), Dec. 17, 2004, 118 Stat. 3694.)
+(July 26, 1947, ch. 343, title V, §506, as added Pub. L. 107–306, title III, §311(a), Nov. 27, 2002, 116 Stat. 2390; amended Pub. L. 108–458, title I, §1074(b)(1)(A), Dec. 17, 2004, 118 Stat. 3694; Pub. L. 112–87, title V, §505(2), Jan. 3, 2012, 125 Stat. 1897.)
 
 #### Amendments
+
+<b>2012</b>—Subsec. (b). Pub. L. 112–87 substituted “Director of National Intelligence.” for “Director of Central Intelligence.”
 
 <b>2004</b>—Pub. L. 108–458, §1074(b)(1)(A)(ii), struck out “Foreign” before “Intelligence” in section catchline.
 
 Subsec. (a). Pub. L. 108–458, §1074(b)(1)(A)(i), substituted “National Intelligence Program” for “National Foreign Intelligence Program”.
-
-#### Change of Name
-
-Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of this title.
 
 #### Effective Date of 2004 Amendment
 

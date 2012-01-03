@@ -32,7 +32,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-2005—Subsec. (c). Pub. L. 109–140 added subsec. (c).
+<b>2005</b>—Subsec. (c). Pub. L. 109–140 added subsec. (c).
 
 #### Delegation of Functions
 

@@ -48,7 +48,7 @@ The following agencies of the National Institutes of Health are national researc
 
 &emsp;(20) The National Library of Medicine.
 
-&emsp;(21) The National Center for Research Resources.
+&emsp;(21) The National Center for Advancing Translational Sciences.
 
 &emsp;(22) The John E. Fogarty International Center for Advanced Study in the Health Sciences.
 
@@ -68,7 +68,7 @@ The following agencies of the National Institutes of Health are national researc
 
 #### (A) Offices
 
-&emsp;&emsp;The following offices are within the Division: The Office of AIDS Research, the Office of Research on Women's Health, the Office of Behavioral and Social Sciences Research, the Office of Disease Prevention, the Office of Dietary Supplements, the Office of Rare Diseases, and any other office located within the Office of the Director of NIH as of the day before January 15, 2007. In addition to such offices, the Director of NIH may establish within the Division such additional offices or other administrative units as the Director determines to be appropriate.
+&emsp;&emsp;The following offices are within the Division: The Office of AIDS Research, the Office of Research on Women's Health, the Office of Behavioral and Social Sciences Research, the Office of Disease Prevention, the Office of Dietary Supplements, and any other office located within the Office of the Director of NIH as of the day before January 15, 2007. In addition to such offices, the Director of NIH may establish within the Division such additional offices or other administrative units as the Director determines to be appropriate.
 
 #### (B) Authorities
 
@@ -110,7 +110,7 @@ The following agencies of the National Institutes of Health are national researc
 
 #### (1) In general
 
-&emsp;Not later than 60 days after January 15, 2007, the Secretary shall establish an advisory council within the National Institutes of Health to be known as the Scientific Management Review Board (referred to in this subsection as the “Board”).
+&emsp;Not later than 60 days after January 15, 2007, the Secretary shall establish an advisorycouncil within the National Institutes of Health to be known as the Scientific Management Review Board (referred to in this subsection as the “Board”).
 
 #### (2) Duties
 
@@ -158,7 +158,7 @@ The following agencies of the National Institutes of Health are national researc
 
 #### (3) Composition of Board
 
-&emsp;The Board shall consist of the Director of NIH, who shall be a permanent nonvotingmember on an ex officio basis, and an odd number of additional members, not to exceed 21, all of whom shall be voting members. The voting members of the Board shall be the following:
+&emsp;The Board shall consist of the Director of NIH, who shall be a permanent nonvoting member on an ex officio basis, and an odd number of additional members, not to exceed 21, all of whom shall be voting members. The voting members of the Board shall be the following:
 
 &emsp;&emsp;(A) Not fewer than 9 officials who are directors of national research institutes or national centers. The Secretary shall designate such officials for membership and shall ensure that the group of officials so designated includes directors of—
 
@@ -274,9 +274,13 @@ For purposes of this subchapter:
 
 For purposes of this subchapter, a reference to the National Institutes of Health includes its agencies.
 
-(July 1, 1944, ch. 373, title IV, §401, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 822; amended Pub. L. 100–553, §2(1), Oct. 28, 1988, 102 Stat. 2769; Pub. L. 100–607, title I, §101(1), Nov. 4, 1988, 102 Stat. 3048; Pub. L. 100–690, title II, §2613(b)(2), Nov. 18, 1988, 102 Stat. 4238; Pub. L. 102–321, title I, §121(a), July 10, 1992, 106 Stat. 358; Pub. L. 103–43, title XV, §§1501(1), 1511(b)(1), 1521(1), June 10, 1993, 107 Stat. 172, 179, 180; Pub. L. 103–417, §13(b), Oct. 25, 1994, 108 Stat. 4335; Pub. L. 105–277, div. A, §101(f) \[title II, §212, title VI, §601(k)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–359, 2681–388; Pub. L. 106–525, title I, §101(b)(1), Nov. 22, 2000, 114 Stat. 2501; Pub. L. 106–580, §3(e), Dec. 29, 2000, 114 Stat. 3091; Pub. L. 109–482, title I, §§101(a), (b), 108(a), Jan. 15, 2007, 120 Stat. 3675, 3676, 3697; Pub. L. 110–154, §1(b)(1), Dec. 21, 2007, 121 Stat. 1827; Pub. L. 111–148, title X, §10334(c)(3)(A), Mar. 23, 2010, 124 Stat. 974.)
+(July 1, 1944, ch. 373, title IV, §401, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 822; amendedPub. L. 100–553, §2(1), Oct. 28, 1988, 102 Stat. 2769; Pub. L. 100–607, title I, §101(1), Nov. 4, 1988, 102 Stat. 3048; Pub. L. 100–690, title II, §2613(b)(2), Nov. 18, 1988, 102 Stat. 4238; Pub. L. 102–321, title I, §121(a), July 10, 1992, 106 Stat. 358; Pub. L. 103–43, title XV, §§1501(1), 1511(b)(1), 1521(1), June 10, 1993, 107 Stat. 172, 179, 180; Pub. L. 103–417, §13(b), Oct. 25, 1994, 108 Stat. 4335; Pub. L. 105–277, div. A, §101(f) \[title II, §212, title VI, §601(k)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–359, 2681–388; Pub. L. 106–525, title I, §101(b)(1), Nov. 22, 2000, 114 Stat. 2501; Pub. L. 106–580, §3(e), Dec. 29, 2000, 114 Stat. 3091; Pub. L. 109–482, title I, §§101(a), (b), 108(a), Jan. 15, 2007, 120 Stat. 3675, 3676, 3697; Pub. L. 110–154, §1(b)(1), Dec. 21, 2007, 121 Stat. 1827; Pub. L. 111–148, title X, §10334(c)(3)(A), Mar. 23, 2010, 124 Stat. 974; Pub. L. 112–74, div. F, title II, §221(a)(2), (c)(2)(B), Dec. 23, 2011, 125 Stat. 1087, 1089.)
 
 #### Amendments
+
+<b>2011</b>—Subsec. (b)(21). Pub. L. 112–74, §221(a)(2), substituted “National Center for Advancing Translational Sciences” for “National Center for Research Resources”.
+
+Subsec. (c)(2)(A). Pub. L. 112–74, §221(c)(2)(B), struck out “the Office of Rare Diseases,” after “the Office of Dietary Supplements,”.
 
 <b>2010</b>—Subsec. (b)(24). Pub. L. 111–148 substituted “Institute” for “Center”.
 
@@ -334,7 +338,7 @@ Pub. L. 109–482, title I, §102(g), Jan. 15, 2007, 120 Stat. 3685, provided th
 
 #### Study of the Use of Centers of Excellence at the National Institutes of Health
 
-Pub. L. 107–84, §7, Dec. 18, 2001, 115 Stat. 829, required the Secretary of Health and Human Services to contract, not later than 60 days after Dec. 18, 2001, with the Institute of Medicine to conduct a study on the impact of, need for, and other issues associated with Centers of Excellence at the National Institutes of Health and complete the study and submit a report not later than one year after the date of the contract.
+Pub. L. 107–84, §7, Dec. 18, 2001, 115 Stat. 829, required the Secretary of Health and Human Services to contract, not later than 60 days after Dec. 18, 2001, with the Institute of Medicine to conduct a study on the impact of, need for, and other issues associated with Centers of Excellence at the National Institutes of Health andcomplete the study and submit a report not later than one year after the date of the contract.
 
 #### Report on Medical Uses of Biological Agents in Development of Defenses Against Biological Warfare
 

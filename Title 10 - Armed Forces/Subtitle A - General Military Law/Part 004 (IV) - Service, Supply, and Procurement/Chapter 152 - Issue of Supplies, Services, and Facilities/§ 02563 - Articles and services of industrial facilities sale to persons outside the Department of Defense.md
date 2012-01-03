@@ -64,7 +64,7 @@ Definitions.—In this section:
 
 &emsp;(2) The term “not available”, with respect to an article or service proposed to be sold under this section, means that the article or service is unavailable from a commercial source in the required quantity and quality or within the time required.
 
-&emsp;(3) The term “variable costs”, with respect to sales of articles or services, means the costs that are expected to fluctuate directly with the volume of sales and—
+&emsp;(3) The term “variable costs”, with respect to sales of articles or services, means the coststhat are expected to fluctuate directly with the volume of sales and—
 
 &emsp;&emsp;(A) in the case of articles, the volume of production necessary to satisfy the sales orders; or
 

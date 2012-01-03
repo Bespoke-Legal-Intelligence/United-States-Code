@@ -12,7 +12,7 @@ Relief From Liability.—The Secretary may relieve an eligible organization to w
 
 (c)
 
-Conditions on Loan or Donation.—In lending or donating rifles under subsection (a), theSecretary shall impose such conditions on the use of the rifles as may be necessary to ensure security, safety, and accountability. The Secretary may impose such other conditions as the Secretary considers appropriate.
+Conditions on Loan or Donation.—In lending or donating rifles under subsection (a), the Secretary shall impose such conditions on the use of the rifles as may be necessary to ensure security, safety, and accountability. The Secretary may impose such other conditions as the Secretary considers appropriate.
 
 (d)
 

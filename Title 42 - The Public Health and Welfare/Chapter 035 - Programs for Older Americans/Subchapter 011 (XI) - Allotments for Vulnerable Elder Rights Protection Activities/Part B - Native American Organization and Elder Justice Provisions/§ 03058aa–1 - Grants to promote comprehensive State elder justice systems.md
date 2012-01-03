@@ -40,7 +40,7 @@ The amount of a grant to a State with an application approved under this section
 
 #### (2) Maintenance of effort
 
-&emsp;Funds made available to States pursuant to this section shall be used to supplement andnot supplant other Federal, State, and local funds expended to support activities described in paragraph (1).
+&emsp;Funds made available to States pursuant to this section shall be used to supplement and not supplant other Federal, State, and local funds expended to support activities described in paragraph (1).
 
 (Pub. L. 89–73, title VII, §752, as added Pub. L. 109–365, title VII, §704(2), Oct. 17, 2006, 120 Stat. 2593.)
 

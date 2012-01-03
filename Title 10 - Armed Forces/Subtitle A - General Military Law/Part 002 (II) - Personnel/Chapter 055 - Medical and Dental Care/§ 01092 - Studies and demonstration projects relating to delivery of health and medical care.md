@@ -24,7 +24,7 @@
 
 (5) The Secretary of Defense may include in the studies and demonstration projects conducted under paragraph (1) studies and demonstration projects to improve the medical and dental readiness of members of reserve components of the armed forces, including the provision of health care services to such members for which they are not otherwise entitled or eligible under this chapter.
 
-(6) The Secretary of Defense may include in the studies and demonstration projects conducted under paragraph (1) studies and demonstration projects to improve the continuity of health care services for family members of mobilized members of the reserve components of the armed forces who are eligible for such services under this chapter, including payment of a stipend for continuation of employer-provided health coverage during extended periods of active duty.
+(6) The Secretary of Defense may include in the studies and demonstration projects conducted under paragraph (1) studies and demonstration projects to improve the continuity of health care services for family members of mobilized members of the reserve components of the armed forces who are eligible for such services under this chapter, including payment of a stipend for continuation of employer-providedhealth coverage during extended periods of active duty.
 
 (b) Subject to the availability of appropriations for that purpose, the Secretary of Defense may enter into contracts with public or private agencies, institutions, and organizations to conduct studies and demonstration projects under subsection (a).
 
@@ -220,7 +220,7 @@ Pub. L. 106–65, div. A, title VII, §724, Oct. 5, 1999, 113 Stat. 697, as amen
 
 #### Demonstration Program To Train Military Medical Personnel in Civilian Shock Trauma Units
 
-Pub. L. 104–106, div. A, title VII, §744, Feb. 10, 1996, 110 Stat. 386, directed the Secretary of Defense to implement, not later than Apr. 1, 1996, a demonstration program to evaluate the feasibility of providing shock trauma training for military medical personnel through an agreement with one or more public or nonprofit hospitals, and to submit to Congress a report describing the scope and activities of the program not later than Mar. 1 of each year in which it was conducted, provided for the termination of the program on Mar. 31, 1998, and required the Comptroller General of the United States to submit to Congress a report evaluating its effectiveness not later than May 1, 1998.
+Pub. L. 104–106, div. A, title VII, §744, Feb. 10, 1996, 110 Stat. 386, directed the Secretary of Defense to implement, not later than Apr. 1, 1996, a demonstration program to evaluate the feasibility of providing shocktrauma training for military medical personnel through an agreement with one or more public or nonprofit hospitals, and to submit to Congress a report describing the scope and activities of the program not later than Mar. 1 of each year in which it was conducted, provided for the termination of the program on Mar. 31, 1998, and required the Comptroller General of the United States to submit to Congress a report evaluating its effectiveness not later than May 1, 1998.
 
 #### Demonstration Project on Management of Health Care in Catchment Areas and Other Demonstration Projects
 
@@ -314,7 +314,7 @@ Consultation Requirements.—The Secretary of Defense shall consult with the oth
 
 “(c)
 
-Continuation of Current Services.—Until the plan required under subsection (a) is implemented, the Secretary shall continue to furnish the same level of chiropractic health care services and benefits under the Defense Health Program that is provided during fiscal year 2000 at military medical treatment facilities that provide such services and benefits.
+Continuation of Current Services.—Until the plan required under subsection (a) is implemented, the Secretary shall continue to furnish the same level of chiropractic health care services and benefits under theDefense Health Program that is provided during fiscal year 2000 at military medical treatment facilities that provide such services and benefits.
 
 “(d)
 

@@ -14,7 +14,7 @@ Combat Readiness.—(1) Periodically (and not less often than every two years), 
 
 Participation in Joint Training Exercises.—The Chairman shall—
 
-&emsp;(1) provide for the participation of the combat support agencies in joint training exercises to the extent necessary to ensure that those agencies are capable of performing theirsupport missions with respect to a war or threat to national security; and
+&emsp;(1) provide for the participation of the combat support agencies in joint training exercises to the extent necessary to ensure that those agencies are capable of performing their support missions with respect to a war or threat to national security; and
 
 &emsp;(2) assess the performance in joint training exercises of each such agency and, in accordance with guidelines established by the Secretary of Defense, take steps to provide for any change that the Chairman considers appropriate to improve that performance.
 
@@ -86,5 +86,5 @@ Section 1124 of title XI of div. A of Pub. L. 104–201 provided that: “This t
 
 #### First Report and Other Actions by Chairman of Joint Chiefs of Staff
 
-Section 304(b) of Pub. L. 99–433 required the first report under subsec. (a) of section 193 of this title to besubmitted and subsecs. (b) and (c) of section 193 to be implemented not later than one year after Oct. 1, 1986, and a report on implementation to be submitted to Congress for 1988 under section 113(c) of this title.
+Section 304(b) of Pub. L. 99–433 required the first report under subsec. (a) of section 193 of this title to be submitted and subsecs. (b) and (c) of section 193 to be implemented not later than one year after Oct. 1, 1986, and a report on implementation to be submitted to Congress for 1988 under section 113(c) of this title.
 

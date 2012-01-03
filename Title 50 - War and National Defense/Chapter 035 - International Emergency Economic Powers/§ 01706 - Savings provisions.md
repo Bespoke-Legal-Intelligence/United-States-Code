@@ -8,7 +8,7 @@
 
 #### (b) Congressional termination of national emergencies by concurrent resolution
 
-The authorities described in subsection (a)(1) of this section may not continue to be exercisedunder this section if the national emergency is terminated by the Congress by concurrent resolution pursuant to section 202 of the National Emergencies Act \[50 U.S.C. 1622\] and if the Congress specifies in such concurrent resolution that such authorities may not continue to be exercised under this section.
+The authorities described in subsection (a)(1) of this section may not continue to be exercised under this section if the national emergency is terminated by the Congress by concurrent resolution pursuant to section 202 of the National Emergencies Act \[50 U.S.C. 1622\] and if the Congress specifies in such concurrent resolution that such authorities may not continue to be exercised under this section.
 
 #### (c) Supplemental savings provisions; supersedure of inconsistent provisions
 

@@ -48,7 +48,7 @@ Except as provided in subsection (g) of this section, the Secretary of Commerce 
 
 &emsp;&emsp;Subject to subparagraph (B), the Secretary of Commerce shall, as soon as possible after July 1, 1993—
 
-&emsp;&emsp;&emsp;(i) determine the species, grades, and geographic origin of unprocessed timber tobe prohibited from export in each State that is subject to an order issued under subsection (a) of this section;
+&emsp;&emsp;&emsp;(i) determine the species, grades, and geographic origin of unprocessed timber to be prohibited from export in each State that is subject to an order issued under subsection (a) of this section;
 
 &emsp;&emsp;&emsp;(ii) administer the prohibitions consistent with sections 620 to 620j of this title;
 

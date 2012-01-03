@@ -12,7 +12,7 @@
 
 #### (2) Plan
 
-&emsp;The Secretary shall develop, and periodically update, a plan governing the research, demonstration, and evaluation activities under this section.
+&emsp;The Secretary shall develop, and periodically update, a plan governing the research,demonstration, and evaluation activities under this section.
 
 #### (b) Conduct of research, demonstration, and evaluation activities
 
@@ -80,7 +80,7 @@ In developing priorities for research, demonstration, and evaluation activities 
 
 &emsp;(1) examine the developmental progress of children and their families both during and following participation in a Head Start program, including the examination of factors that contribute to or detract from such progress;
 
-&emsp;(2) examine factors related to improving the quality of the Head Start programs and the preparation the programs provide for children and their families to function effectively in schools and other settings in the years following participation in such a program; and
+&emsp;(2) examine factors related to improving the quality of the Head Start programs and the preparation the programs provide for childrenand their families to function effectively in schools and other settings in the years following participation in such a program; and
 
 &emsp;(3) as appropriate, permit comparison of children and families participating in Head Start programs with children and families receiving other early childhood education and development services or programs, and with other appropriate control groups.
 
@@ -192,7 +192,7 @@ The Secretary shall take necessary steps to ensure that all studies, reports, pr
 
 #### (2) Report
 
-&emsp;The Secretary shall prepare and submit to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions ofthe Senate, not later than September 30, 2010, a report containing the results of the study, including information on—
+&emsp;The Secretary shall prepare and submit to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate, not later than September 30, 2010, a report containing the results of the study, including information on—
 
 &emsp;&emsp;(A) the demographics of limited English proficient children from birth through age 5, including the number of such children receiving Head Start services and Early Head Start services, and the geographic distribution of children described in this subparagraph;
 
@@ -218,7 +218,7 @@ The Secretary shall take necessary steps to ensure that all studies, reports, pr
 
 #### (i) Research and evaluation activities relevant to diverse communities
 
-For purposes of conducting the study described in subsection (h), activities described in section 9835(<i>l</i>)(5)(A) of this title, and other research and evaluation activities relevant to limited English proficient children and their families, migrant and seasonal farmworker families, and other families from diverse populations served by Head Start programs, the Secretary shall award, on a competitive basis, funds from amounts made available under section 9835(a)(2)(D) of this title to 1 or more organizations with a demonstrated capacity for serving and studying the populations involved.
+For purposes of conducting the study described in subsection (h), activities described in section 9835(<i>l</i>)(5)(A) of this title, and other research and evaluation activities relevant to limited English proficient children and their families, migrant and seasonal farmworker families,and other families from diverse populations served by Head Start programs, the Secretary shall award, on a competitive basis, funds from amounts made available under section 9835(a)(2)(D) of this title to 1 or more organizations with a demonstrated capacity for serving and studying the populations involved.
 
 #### (j) Review of assessments
 
@@ -288,7 +288,7 @@ The Secretary shall—
 
 &emsp;(3) not later than 9 months after the effective date of this subsection, publish in the Federal Register a notice of how the Secretary plans to carry out paragraph (1) and shall provide a period for public comment. To the extent practicable, the Secretary shall consider comments received before submitting a report to the Congress;
 
-&emsp;(4) not later than 1 year after the effective date of this subsection, submit a report to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate, detailing how the Department of Health and Human Services plans to carry out paragraph (1);
+&emsp;(4) not later than 1 year after the effective date of this subsection, submit a report to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate, detailing how the Department ofHealth and Human Services plans to carry out paragraph (1);
 
 &emsp;(5) through regulation, ensure the confidentiality of any personally identifiable data, information, and records collected or maintained by the Secretary, by Head Start agencies that carry out Indian Head Start programs, and by State Directors of Head Start Collaboration, by the Indian Head Start Collaboration Project Director and by other appropriate entities pursuant to this subsection (such regulations shall provide the policies, protections, and rights equivalent to those provided a parent, student, or educational agency or institution under section 1232g of title 20); and
 
@@ -336,7 +336,7 @@ The Secretary shall—
 
 &emsp;&emsp;(A) recommendations for improvements to Federal, State, and local preparedness and response capabilities to large-scale emergencies, including those that were developed in response to hurricanes Katrina, Rita, and Wilma, as they relate to Head Start programs, including Early Head Start programs, and the Secretary's plan to implement such recommendations;
 
-&emsp;&emsp;(B) an evaluation of the procedures for informing families of children in Head Start programs about the program protocols for response to a large-scale emergency, including procedures for communicating with such families in the event of a large-scale emergency;
+&emsp;&emsp;(B) an evaluation of the procedures for informing families of children in Head Startprograms about the program protocols for response to a large-scale emergency, including procedures for communicating with such families in the event of a large-scale emergency;
 
 &emsp;&emsp;(C) an evaluation of such procedures for staff training on State and local evacuation and emergency protocols; and
 
@@ -405,6 +405,10 @@ Subsecs. (g), (h). Pub. L. 105–285, §116(2), added subsecs. (g) and (h).
 Subsecs. (d) to (f). Pub. L. 101–501, §117(a)(2), added subsecs. (d) to (f).
 
 <b>1984</b>—Subsec. (c). Pub. L. 98–558 added subsec. (c).
+
+#### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Effective Date of 1998 Amendment
 

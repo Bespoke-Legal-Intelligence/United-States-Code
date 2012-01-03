@@ -286,13 +286,13 @@ This chapter, referred to in subsec. (f)(1)(C), was in the original, “this Act
 
 #### Amendments
 
-1996—Subsec. (b)(3). Pub. L. 104–208 struck out comma after “is authorized”.
+<b>1996</b>—Subsec. (b)(3). Pub. L. 104–208 struck out comma after “is authorized”.
 
 Subsec. (b)(4). Pub. L. 104–208 struck out comma after “The Secretary” in introductory provisions.
 
 Subsec. (e)(4). Pub. L. 104–193 substituted “State program funded” for “State plan approved”.
 
-1994—Subsec. (a)(2)(A). Pub. L. 103–236, §162(n)(2)(A), struck out “, together with the Coordinator,” after “subsection (b)(1) of this section”.
+<b>1994</b>—Subsec. (a)(2)(A). Pub. L. 103–236, §162(n)(2)(A), struck out “, together with the Coordinator,” after “subsection (b)(1) of this section”.
 
 Subsec. (b)(3), (4). Pub. L. 103–236, §162(n)(2)(B), struck out “in consultation with the Coordinator,” after “Secretary is authorized,” in par. (3) and after “The Secretary,” in par. (4).
 
@@ -300,9 +300,9 @@ Subsec. (e)(7)(C). Pub. L. 103–236, §162(n)(2)(C), struck out “, in consul
 
 Subsec. (e)(7)(D). Pub. L. 103–416 struck out “paragraph (1) or (2) of” after “appropriated under”.
 
-1988—Subsecs. (f)(5), (g). Pub. L. 100–525 redesignated subsec. (g) as (f)(5) and substituted “all other appropriate Federal officials and all appropriate State and county officials referred to in paragraph (2)” for “all appropriate Federal, State, and county officials referred to in section 13 of this Act”, “Cuban nationals described in paragraph (1)” for “such persons defined in subsection (f)(1) of this section” and “authorized to carry out this subsection” for “hereafter authorized by this section”.
+<b>1988</b>—Subsecs. (f)(5), (g). Pub. L. 100–525 redesignated subsec. (g) as (f)(5) and substituted “all other appropriate Federal officials and all appropriate State and county officials referred to in paragraph (2)” for “all appropriate Federal, State, and county officials referred to in section 13 of this Act”, “Cuban nationals described in paragraph (1)” for “such persons defined in subsection (f)(1) of this section” and “authorized to carry out this subsection” for “hereafter authorized by this section”.
 
-1986—Subsec. (a)(2)(A). Pub. L. 99–605, §4(1), inserted “and the Federal agency administering subsection (b)(1) of this section” after “The Director”, “(not less often than quarterly)” after “shall consult regularly”, and “before their placement in those States and localities” after “States and localities”.
+<b>1986</b>—Subsec. (a)(2)(A). Pub. L. 99–605, §4(1), inserted “and the Federal agency administering subsection (b)(1) of this section” after “The Director”, “(not less often than quarterly)” after “shall consult regularly”, and “before their placement in those States and localities” after “States and localities”.
 
 Subsec. (a)(2)(C)(iii). Pub. L. 99–605, §4(2), added cl. (iii).
 
@@ -342,11 +342,11 @@ Subsec. (e)(8). Pub. L. 99–605, §9(b), added par. (8).
 
 Subsecs. (f), (g). Pub. L. 99–605, §13, added subsecs. (f) and (g).
 
-1984—Subsec. (e)(7). Pub. L. 98–473 added par. (7).
+<b>1984</b>—Subsec. (e)(7). Pub. L. 98–473 added par. (7).
 
-1983—Subsec. (b)(1)(B). Pub. L. 98–164 struck out first sentence directing the President to provide for a study of which agency is best able to administer the program of initial resettlement and to report to the Congress, not later than Mar. 1, 1981, on that study, and “after such study” after “If the President determines”.
+<b>1983</b>—Subsec. (b)(1)(B). Pub. L. 98–164 struck out first sentence directing the President to provide for a study of which agency is best able to administer the program of initial resettlement and to report to the Congress, not later than Mar. 1, 1981, on that study, and “after such study” after “If the President determines”.
 
-1982—Subsec. (a)(1)(A). Pub. L. 97–363, §3(a)(1), (2), designated existing provisions of par. (1) as subpar. (A)and redesignated existing cls. (A) through (D) as (i) through (iv), respectively.
+<b>1982</b>—Subsec. (a)(1)(A). Pub. L. 97–363, §3(a)(1), (2), designated existing provisions of par. (1) as subpar. (A)and redesignated existing cls. (A) through (D) as (i) through (iv), respectively.
 
 Subsec. (a)(1)(B). Pub. L. 97–363, §3(a)(3), added subpar. (B).
 
@@ -476,7 +476,7 @@ Pub. L. 96–422, Oct. 10, 1980, 94 Stat. 1799, as amended by Pub. L. 96–424, 
 
 #### “Title I—General Provisions
 
-I74“definitions
+#### “definitions
 
 “Sec. 101. As used in this Act—
 
@@ -534,7 +534,7 @@ I74“definitions
 
 #### “Title II—General Assistance for Local Educational Agencies
 
-I74“state entitlements
+#### “state entitlements
 
 “Sec. 201. (a) The Secretary shall, in accordance with the provisions of this title, make grants to State educational agencies for fiscal year 1981, and for each subsequent fiscal year, for the purposes of assisting local educational agencies of that State in providing basic education for eligible participants enrolled in elementary or secondary public schools. Payments made under this title to any State shall be used in accordance with applications approved under section 202 for public educational services for eligible participants enrolled in the elementary and secondary public schools under the jurisdiction of the local educational agencies of that State.
 
@@ -576,7 +576,7 @@ I74“state entitlements
 
 #### “Title III—Special Impact Assistance for Substantial Increases in Attendance
 
-I74“state entitlements
+#### “state entitlements
 
 “Sec. 301. (a) The Secretary shall, in accordance with the provisions of this title, make payments to State educational agencies for fiscal year 1981, and for each subsequent fiscal year for the purpose set forth in section 302.
 
@@ -658,7 +658,7 @@ I74“state entitlements
 
 #### “Title IV—Adult Education Programs
 
-I74“state entitlements
+#### “state entitlements
 
 “Sec. 401. (a) The Secretary shall, in accordance with the provisions of this title, make payments to State educational agencies for fiscal year 1982, and for each subsequent fiscal year for the purposes of providing for the operation of adult education programs as described under section 402 for eligible participants aged 16 or older. Payments made under this title to any State shall be used in accordance with applications approved under section 403.
 
@@ -708,7 +708,7 @@ I74“state entitlements
 
 #### “Title V—Other Provisions Relating to Cuban and Haitian Entrants
 
-I74“authorities for other programs and activities
+#### “authorities for other programs and activities
 
 “Sec. 501. (a)(1) The President shall exercise authorities with respect to Cuban and Haitian entrants which are identical to the authorities which are exercised under chapter 2 of title IV of the Immigration and Nationality Act \[8 U.S.C. 1521 et seq.\]. The authorizations provided in section 414 of that Act \[8 U.S.C. 1524\] shall be available to carry out this section without regard to the dollar limitation contained in section 414(a)(2).
 

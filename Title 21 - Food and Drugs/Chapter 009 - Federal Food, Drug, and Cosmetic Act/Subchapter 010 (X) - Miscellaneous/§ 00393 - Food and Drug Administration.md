@@ -122,7 +122,7 @@ Not later than February 1 of each year, the Secretary shall submit to Congress a
 
 The Secretary shall make the reports required under subsection (h) available to the public on the Internet Web site of the Food and Drug Administration.
 
-(June 25, 1938, ch. 675, §1003, formerly §903, as added Pub. L. 100–607, title V, §503(a), Nov. 4,1988, 102 Stat. 3121; amended Pub. L. 100–690, title II, §2631, Nov. 18, 1988, 102 Stat. 4244; Pub. L. 105–115, title IV, §§406, 414, Nov. 21, 1997, 111 Stat. 2369, 2377; renumbered §1003 and amended Pub. L. 111–31, div. A, title I, §§101(b)(2), 103(m), June 22, 2009, 123 Stat. 1784, 1838; Pub. L. 111–353, title II, §201(b), Jan. 4, 2011, 124 Stat. 3925.)
+(June 25, 1938, ch. 675, §1003, formerly §903, as added Pub. L. 100–607, title V, §503(a), Nov. 4, 1988, 102 Stat. 3121; amended Pub. L. 100–690, title II, §2631, Nov. 18, 1988, 102 Stat. 4244; Pub. L. 105–115, title IV, §§406, 414, Nov. 21, 1997, 111 Stat. 2369, 2377; renumbered §1003 and amended Pub. L. 111–31, div. A, title I, §§101(b)(2), 103(m), June 22, 2009, 123 Stat. 1784, 1838; Pub. L. 111–353, title II, §201(b), Jan. 4, 2011, 124 Stat. 3925.)
 
 #### Amendments
 
@@ -158,7 +158,7 @@ Pub. L. 108–282, title I, §102(b)(7), Aug. 2, 2004, 118 Stat. 905, provided t
 
 #### Regulations for Sunscreen Products
 
-Section 129 of Pub. L. 105–115 provided that: “Not later than 18 months after the date of enactment of this Act \[Nov. 21, 1997\], the Secretary of Health and Human Services shall issue regulations for over-the-counter sunscreen products for the prevention or treatment of sunburn.”
+Section 129 of Pub. L. 105–115 provided that: “Not later than 18 months after the date of enactment ofthis Act \[Nov. 21, 1997\], the Secretary of Health and Human Services shall issue regulations for over-the-counter sunscreen products for the prevention or treatment of sunburn.”
 
 #### Construction of 2011 Amendment
 

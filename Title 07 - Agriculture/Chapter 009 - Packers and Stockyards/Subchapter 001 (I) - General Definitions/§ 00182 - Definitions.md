@@ -34,7 +34,7 @@ Swine contractor.—The term “swine contractor” means any person engaged in 
 
 &emsp;(13)
 
-Swine production contract.—The term “swine production contract” means any growout contract or other arrangement under which a swine production contract grower raises and cares for the swine in accordance with the instructions of another person.
+Swine production contract.—The term “swine production contract” means anygrowout contract or other arrangement under which a swine production contract grower raises and cares for the swine in accordance with the instructions of another person.
 
 &emsp;(14)
 
@@ -48,11 +48,11 @@ Section is composed of subsec. (a) of section 2 of act Aug. 15, 1921. Subsec. (b
 
 #### Amendments
 
-2002—Pars. (12) to (14). Pub. L. 107–171 added pars. (12) to (14).
+<b>2002</b>—Pars. (12) to (14). Pub. L. 107–171 added pars. (12) to (14).
 
-1987—Pars. (6) to (11). Pub. L. 100–173 added pars. (6) to (10) and redesignated former par. (6) as (11).
+<b>1987</b>—Pars. (6) to (11). Pub. L. 100–173 added pars. (6) to (10) and redesignated former par. (6) as (11).
 
-1976—Pars. (4), (5). Pub. L. 94–410 substituted “livestock” for “live stock” in par. (4) and for “live-stock” in par. (5).
+<b>1976</b>—Pars. (4), (5). Pub. L. 94–410 substituted “livestock” for “live stock” in par. (4) and for “live-stock” in par. (5).
 
 #### Effective Date of 1987 Amendment
 

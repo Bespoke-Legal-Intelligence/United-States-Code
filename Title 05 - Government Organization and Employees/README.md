@@ -1,5 +1,5 @@
 
-5 U.S.C.<br>United States Code, 2010 Edition<br>Title 5 - GOVERNMENT ORGANIZATION AND EMPLOYEES<br>From the U.S. Government Publishing Office, www.gpo.gov
+5 U.S.C.<br>United States Code, 2011 Edition<br>Title 5 - GOVERNMENT ORGANIZATION AND EMPLOYEES<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 5—GOVERNMENT ORGANIZATION AND EMPLOYEES
 
@@ -15,7 +15,7 @@
 
 #### Amendments
 
-1979—Pub. L. 96–54, §2(a)(1), Aug. 14, 1979, 93 Stat. 381, substituted “Civil Service Functions and Responsibilities” for “The United States Civil Service Commission” in item for part II.
+<b>1979</b>—Pub. L. 96–54, §2(a)(1), Aug. 14, 1979, 93 Stat. 381, substituted “Civil Service Functions and Responsibilities” for “The United States Civil Service Commission” in item for part II.
 
 Table Showing Disposition of All Sections of Former Title 5
 

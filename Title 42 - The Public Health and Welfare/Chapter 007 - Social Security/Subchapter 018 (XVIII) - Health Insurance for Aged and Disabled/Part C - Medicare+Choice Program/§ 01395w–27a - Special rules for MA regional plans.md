@@ -108,7 +108,7 @@ An MA regional plan shall include the following:
 
 #### (i) Costs between 92 and 97 percent of target amount
 
-&emsp;&emsp;&emsp;If the allowable costs for the plan for the year are less than 97 percent, but greater than or equal to 92 percent, of the target amount for the plan and year, the Secretary shall reduce the total of the monthly payments made to the organization offering the plan for the year under section 1395w–23(a) of this title by an amount (or otherwise recover from the plan an amount) equal to 50 percent of the difference between 97 percent of the target amount and such allowable costs.
+&emsp;&emsp;&emsp;If the allowable costs for the plan for the year are less than 97 percent, but greaterthan or equal to 92 percent, of the target amount for the plan and year, the Secretary shall reduce the total of the monthly payments made to the organization offering the plan for the year under section 1395w–23(a) of this title by an amount (or otherwise recover from the plan an amount) equal to 50 percent of the difference between 97 percent of the target amount and such allowable costs.
 
 #### (ii) Costs below 92 percent of target amount
 
@@ -264,7 +264,7 @@ Instead of applying section 1395w–22(a)(2)(C) of this title with respect to an
 
 #### (1) In general
 
-&emsp;For purposes of enabling MA organizations that offer MA regional plans to meet applicable provider access requirements under section 1395w–22 of this title with respect to such plans, the Secretary may provide for payment under this section to an essential hospital that provides inpatient hospital services to enrollees in such a plan where the MA organization offering the plan certifies to the Secretary that the organization was unable to reach an agreement between the hospital and the organization regarding provision of such services under the plan. Such payment shall be available only if—
+&emsp;For purposes of enabling MA organizations that offer MA regional plans to meet applicable provider access requirements under section 1395w–22 of this title with respect to such plans, the Secretary may provide for payment under this section to an essential hospital that provides inpatient hospital services to enrollees in such a plan where the MA organization offering the plan certifies to the Secretary that the organization was unable to reach anagreement between the hospital and the organization regarding provision of such services under the plan. Such payment shall be available only if—
 
 &emsp;&emsp;(A) the organization provides assurances satisfactory to the Secretary that the organization will make payment to the hospital for inpatient hospital services of an amount that is not less than the amount that would be payable to the hospital under section 1395ww of this title with respect to such services; and
 

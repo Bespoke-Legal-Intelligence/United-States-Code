@@ -98,7 +98,7 @@ Paragraph (2) of subsection (a) shall apply with respect to any transaction only
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The employment requirements of this subparagraph are met with respect to a facility financed by the net proceeds of anissue if, as of the close of each calendar year in the testing period, the aggregate face amount of all outstanding tax-exempt private activity bonds issued to provide financing for the establishment which includes such facility is not more than 20 times greater than the aggregate wages (as defined by section 3121(a)) paid during the preceding calendar year to individuals (who are enrolled members of the Indian tribe of the issuer or the spouse of any such member) for services rendered at such establishment.
+&emsp;&emsp;&emsp;The employment requirements of this subparagraph are met with respect to a facility financed by the net proceeds of an issue if, as of the close of each calendar year in the testing period, the aggregate face amount of all outstanding tax-exempt private activity bonds issued to provide financing for the establishment which includes such facility is not more than 20 times greater than the aggregate wages (as defined by section 3121(a)) paid during the preceding calendar year to individuals (who are enrolled members of the Indian tribe of the issuer or the spouse of any such member) for services rendered at such establishment.
 
 #### (ii) Failure to meet requirements
 
@@ -174,7 +174,7 @@ For purposes of this section, the term “essential governmental function” sha
 
 &emsp;&emsp;Such term shall not include any bond issued as part of an issue if any portion of the proceeds of such issue are used to finance—
 
-&emsp;&emsp;&emsp;(i) any portion of a building in which class II or class III gaming (as defined in section 4 of the Indian Gaming Regulatory Act) is conducted or housed or any other property actually used in the conduct of such gaming, or
+&emsp;&emsp;&emsp;(i) any portion of a building in which class II or class III gaming (as defined insection 4 of the Indian Gaming Regulatory Act) is conducted or housed or any other property actually used in the conduct of such gaming, or
 
 &emsp;&emsp;&emsp;(ii) any facility located outside the Indian reservation (as defined in section 168(j)(6)).
 
@@ -260,7 +260,7 @@ Amendment by Pub. L. 98–21 applicable to taxable years beginning after Dec. 31
 
 Section 204 of title II of Pub. L. 97–473, as amended by Pub. L. 98–369, div. A, title X, §1065(a), July 18, 1984, 98 Stat. 1048; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this title \[enacting this section, amending sections 41, 103, 164, 170, 2055, 2106, 2522, 4227, 4484, 6420, 6421, 6424, 6427, and 7701 of this title, and enacting provisions set out as a note under section 1 of this title\]—
 
-&emsp;“(1) insofar as they relate to chapter 1 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[26 U.S.C. 1 et seq.\] (other than section 103 thereof), shallapply to taxable years beginning after December 31, 1982,
+&emsp;“(1) insofar as they relate to chapter 1 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[26 U.S.C. 1 et seq.\] (other than section 103 thereof), shall apply to taxable years beginning after December 31, 1982,
 
 &emsp;“(2) insofar as they relate to section 103 of such Code, shall apply to obligations issued after December 31, 1982,
 

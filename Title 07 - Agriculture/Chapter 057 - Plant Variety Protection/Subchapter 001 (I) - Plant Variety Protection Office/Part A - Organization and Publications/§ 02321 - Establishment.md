@@ -6,7 +6,7 @@ There is hereby established in the Department of Agriculture an office to be kno
 
 #### Amendments
 
-1980—Pub. L. 96–574 substituted “an office” for “a bureau”.
+<b>1980</b>—Pub. L. 96–574 substituted “an office” for “a bureau”.
 
 #### Effective Date
 

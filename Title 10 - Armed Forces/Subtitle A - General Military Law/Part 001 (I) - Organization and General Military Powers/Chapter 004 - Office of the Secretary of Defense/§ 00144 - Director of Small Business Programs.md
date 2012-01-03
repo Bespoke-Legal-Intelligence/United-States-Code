@@ -30,7 +30,7 @@ Positions redesignated.—The following positions within the Department of Defen
 
 &emsp;“(C) The Director of Small and Disadvantaged Business Utilization of the Department of the Navy is redesignated as the Director of Small Business Programs of the Department of the Navy.
 
-&emsp;“(D) The Director of Small and Disadvantaged Business Utilization of the Department of the AirForce is redesignated as the Director of Small Business Programs of the Department of the Air Force.
+&emsp;“(D) The Director of Small and Disadvantaged Business Utilization of the Department of the Air Force is redesignated as the Director of Small Business Programs of the Department of the Air Force.
 
 “(2)
 
@@ -46,5 +46,5 @@ Offices redesignated.—The following offices within the Department of Defense a
 
 “(3)
 
-References.—Any reference in any law, regulation, document, paper, or other record of the United States to a position or office redesignated by paragraph (1) or (2) shall be deemed to be a reference to the position or office as so redesignated.”
+References.—Any reference in any law, regulation, document, paper, or other record of the UnitedStates to a position or office redesignated by paragraph (1) or (2) shall be deemed to be a reference to the position or office as so redesignated.”
 

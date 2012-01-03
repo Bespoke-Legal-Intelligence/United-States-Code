@@ -44,7 +44,7 @@ There is authorized to be appropriated to the Secretary such sums as the Congres
 
 &emsp;(C) Provide for adequate custody of any pooled guaranteed loans.
 
-&emsp;(D) Take such actions as are necessary, in restructuring pools of the guaranteed portion of loans, to minimize the estimated costs of paying claims under guarantees issued under this subsection.
+&emsp;(D) Take such actions as are necessary, in restructuring pools of the guaranteed portionof loans, to minimize the estimated costs of paying claims under guarantees issued under this subsection.
 
 &emsp;(E) Require each market maker—
 
@@ -56,7 +56,7 @@ There is authorized to be appropriated to the Secretary such sums as the Congres
 
 (4) The Secretary may contract for goods and services to be used for the purposes of this subsection without regard to the provisions of titles 5, 40, and 41, and any regulations issued thereunder.
 
-(Pub. L. 87–128, title III, §338, Aug. 8, 1961, 75 Stat. 316; Pub. L. 89–429, §5, May 24, 1966, 80 Stat.167; Pub. L. 100–233, title VII, §711(a), Jan. 6, 1988, 101 Stat. 1707; Pub. L. 100–399, title VI, §605, Aug. 17, 1988, 102 Stat. 1006; Pub. L. 101–624, title XXIII, §2303(d), Nov. 28, 1990, 104 Stat. 3981; Pub. L. 104–127, title VII, §749(a), Apr. 4, 1996, 110 Stat. 1129; Pub. L. 105–362, title I, §101(a), Nov. 10, 1998, 112 Stat. 3281.)
+(Pub. L. 87–128, title III, §338, Aug. 8, 1961, 75 Stat. 316; Pub. L. 89–429, §5, May 24, 1966, 80 Stat. 167; Pub. L. 100–233, title VII, §711(a), Jan. 6, 1988, 101 Stat. 1707; Pub. L. 100–399, title VI, §605, Aug. 17, 1988, 102 Stat. 1006; Pub. L. 101–624, title XXIII, §2303(d), Nov. 28, 1990, 104 Stat. 3981; Pub. L. 104–127, title VII, §749(a), Apr. 4, 1996, 110 Stat. 1129; Pub. L. 105–362, title I, §101(a), Nov. 10, 1998, 112 Stat. 3281.)
 
 #### References in Text
 
@@ -64,17 +64,17 @@ For definition of “this chapter”, referred to in text, see note set out unde
 
 #### Amendments
 
-1998—Subsec. (b)(4), (5). Pub. L. 105–362 redesignated par. (5) as (4) and struck out former par. (4) which provided that not later than March 31 of each year, Secretary was to transmit to Congress a report on secondary market operations under subsec. (b) during preceding calendar year, and described contents of reports.
+<b>1998</b>—Subsec. (b)(4), (5). Pub. L. 105–362 redesignated par. (5) as (4) and struck out former par. (4) which provided that not later than March 31 of each year, Secretary was to transmit to Congress a report on secondary market operations under subsec. (b) during preceding calendar year, and described contents of reports.
 
-1996—Subsecs. (b) to (f). Pub. L. 104–127 redesignated subsec. (f) as (b) and struck out former subsecs. (b) to (e) which provided for: in subsec. (b), form and denomination of notes to obtain funds for making direct loans under this chapter as well as maturities, terms and conditions, interest rate, purchase by Treasury, and public debt transaction; in subsec. (c), establishment of Farmers Home Administration direct loan account as well as deposits into account, liabilities, obligations, expenditures, and net expenditure basis of budgeting; in subsec. (d), sale of notes and mortgages; and in subsec. (e), distribution of real estate loans among States.
+<b>1996</b>—Subsecs. (b) to (f). Pub. L. 104–127 redesignated subsec. (f) as (b) and struck out former subsecs. (b) to (e) which provided for: in subsec. (b), form and denomination of notes to obtain funds for making direct loans under this chapter as well as maturities, terms and conditions, interest rate, purchase by Treasury, and public debt transaction; in subsec. (c), establishment of Farmers Home Administration direct loan account as well as deposits into account, liabilities, obligations, expenditures, and net expenditure basis of budgeting; in subsec. (d), sale of notes and mortgages; and in subsec. (e), distribution of real estate loans among States.
 
-1990—Subsec. (a). Pub. L. 101–624 inserted “or the Rural Development Administration” after “Farmers Home Administration”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–624 inserted “or the Rural Development Administration” after “Farmers Home Administration”.
 
-1988—Subsec. (f)(5). Pub. L. 100–399 added par. (5).
+<b>1988</b>—Subsec. (f)(5). Pub. L. 100–399 added par. (5).
 
 Subsec. (f). Pub. L. 100–233 added subsec. (f).
 
-1966—Subsec. (c). Pub. L. 89–429 inserted references to section 8 of the Watershed Protection and Flood Prevention Act, as amended, and section 32(e) of the Bankhead-Jones Farm Tenant Act, as amended.
+<b>1966</b>—Subsec. (c). Pub. L. 89–429 inserted references to section 8 of the Watershed Protection and Flood Prevention Act, as amended, and section 32(e) of the Bankhead-Jones Farm Tenant Act, as amended.
 
 #### Effective Date of 1988 Amendment
 

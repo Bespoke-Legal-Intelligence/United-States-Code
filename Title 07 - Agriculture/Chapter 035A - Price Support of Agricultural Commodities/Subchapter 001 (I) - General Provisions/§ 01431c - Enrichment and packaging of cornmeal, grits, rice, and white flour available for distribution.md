@@ -20,9 +20,9 @@ Section was not enacted as part of the Agricultural Act of 1949 which is classif
 
 #### Amendments
 
-1999—Subsec. (a). Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act”.
+<b>1999</b>—Subsec. (a). Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act”.
 
-1962—Subsec. (a). Pub. L. 87–803 inserted provisions requiring the enrichment of rice to meet the standards for enriched rice, empowered recipient agencies to request containers larger than 50 pounds, and provided that nothing in this section shall prohibit the distribution of fortified parboiled rice which is substantially equal in nutritional value to that of enriched rice.
+<b>1962</b>—Subsec. (a). Pub. L. 87–803 inserted provisions requiring the enrichment of rice to meet the standards for enriched rice, empowered recipient agencies to request containers larger than 50 pounds, and provided that nothing in this section shall prohibit the distribution of fortified parboiled rice which is substantially equal in nutritional value to that of enriched rice.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

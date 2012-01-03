@@ -286,7 +286,7 @@
 
 #### (iv) Pharmaceuticals
 
-&emsp;&emsp;&emsp;Not later than July 1, 2011, the Comptroller General of the United States shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report on whether existing Federal pharmaceutical purchasing programs can provide pharmaceutical benefits more efficiently and effectively than through the WTC program.
+&emsp;&emsp;&emsp;Not later than July 1, 2011, the Comptroller General of the United States shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education,Labor, and Pensions of the Senate a report on whether existing Federal pharmaceutical purchasing programs can provide pharmaceutical benefits more efficiently and effectively than through the WTC program.
 
 #### (C) Improving quality and efficiency through modification of payment amounts and methodologies
 

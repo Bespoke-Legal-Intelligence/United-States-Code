@@ -6,7 +6,7 @@ Nothing in this chapter shall authorize or require the recovery by an electric u
 
 #### (b) State authority
 
-Nothing in this chapter prohibits any State regulatory authority or nonregulated electric utility from adopting, pursuant to State law, any standard or rule affecting electric utilities which is different from any standard established by this subchapter.
+Nothing in this chapter prohibits any State regulatory authority or nonregulated electricutility from adopting, pursuant to State law, any standard or rule affecting electric utilities which is different from any standard established by this subchapter.
 
 #### (c) Federal agencies
 

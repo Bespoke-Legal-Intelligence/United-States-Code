@@ -58,7 +58,7 @@ The Social Security Act, referred to in subsec. (b)(2)(B)(i), is act Aug. 14, 19
 
 #### Amendments
 
-1997—Subsec. (b)(1)(C). Pub. L. 105–33, §5581(b)(3), substituted “withholding” for “with-holding”.
+<b>1997</b>—Subsec. (b)(1)(C). Pub. L. 105–33, §5581(b)(3), substituted “withholding” for “with-holding”.
 
 Pub. L. 105–33, §5562, substituted “section 243(h) of such Act (as in effect immediately before the effective date of section 307 of division C of Public Law 104–208) or section 241(b)(3) of such Act (as amended by section 305(a) of division C of Public Law 104–208)” for “section 243(h) of such Act”.
 

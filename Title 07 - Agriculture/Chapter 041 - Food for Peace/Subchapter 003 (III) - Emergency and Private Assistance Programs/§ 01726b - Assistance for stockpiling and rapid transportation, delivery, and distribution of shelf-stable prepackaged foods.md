@@ -50,9 +50,9 @@ A prior section 1726b, act July 10, 1954, ch. 469, title II, §208, as added Dec
 
 #### Amendments
 
-2008—Subsec. (f). Pub. L. 110–246 substituted “$8,000,000” for “$3,000,000” and “2012” for “2007”.
+<b>2008</b>—Subsec. (f). Pub. L. 110–246 substituted “$8,000,000” for “$3,000,000” and “2012” for “2007”.
 
-2002—Subsec. (f). Pub. L. 107–171 substituted “through 2007” for “and 2002”.
+<b>2002</b>—Subsec. (f). Pub. L. 107–171 substituted “through 2007” for “and 2002”.
 
 #### Effective Date of 2008 Amendment
 

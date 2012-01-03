@@ -30,7 +30,7 @@ Exception.—This subsection does not apply to any airport in the State of Alask
 
 &emsp;(4)
 
-Waivers.—The Secretary may waive the application of paragraph (1)(B) in cases in which the Secretary determines that the public interest so requires.
+Waivers.—The Secretary may waive the application of paragraph (1)(B) in cases inwhich the Secretary determines that the public interest so requires.
 
 (c)
 
@@ -44,7 +44,7 @@ Alaska.—An air carrier holding a certificate issued under section 41102 of thi
 
 Suspensions.—(1) The Secretary shall suspend for not more than 30 days any part of the certificate of a charter air carrier if the Secretary decides that the failure of the carrier to comply with the requirements described in sections 41110(e) and 41112 of this title, or a regulation or order of the Secretary under section 41110(e) or 41112, requires immediate suspension in the interest of the rights, welfare, or safety of the public. The Secretary may act under this paragraph without notice or a hearing.
 
-(2) The Secretary shall begin immediately a hearing to decide if the certificate referred to inparagraph (1) of this subsection should be amended, modified, suspended, or revoked. Until the hearing is completed, the Secretary may suspend the certificate for additional periods totaling not more than 60 days. If the Secretary decides that the carrier is complying with the requirements described in sections 41110(e) and 41112 of this title and regulations and orders under sections 41110(e) and 41112, the Secretary immediately may end the suspension period and proceeding begun under this subsection. However, the Secretary is not prevented from imposing a civil penalty on the carrier for violating the requirements described in section 41110(e) or 41112 or a regulation or order under section 41110(e) or 41112.
+(2) The Secretary shall begin immediately a hearing to decide if the certificate referred to in paragraph (1) of this subsection should be amended, modified, suspended, or revoked. Until the hearing is completed, the Secretary may suspend the certificate for additional periods totaling not more than 60 days. If the Secretary decides that the carrier is complying with the requirements described in sections 41110(e) and 41112 of this title and regulations and orders under sections 41110(e) and 41112, the Secretary immediately may end the suspension period and proceeding begun under this subsection. However, the Secretary is not prevented from imposing a civil penalty on the carrier for violating the requirements described in section 41110(e) or 41112 or a regulation or order under section 41110(e) or 41112.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1120; Pub. L. 106–181, title VII, §723, Apr. 5, 2000, 114 Stat. 165; Pub. L. 106–528, §8(c), Nov. 22, 2000, 114 Stat. 2522; Pub. L. 108–176, title VIII, §822, Dec. 12, 2003, 117 Stat. 2594.)
 
@@ -132,5 +132,5 @@ Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after S
 
 Amendment by Pub. L. 106–528 effective 30 days after Nov. 22, 2000, see section 9 of Pub. L. 106–528, set out as a note under section 106 of this title.
 
-Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 ofPub. L. 106–181, set out as a note under section 106 of this title.
 

@@ -40,7 +40,7 @@ The United States Government shall seek the consent of the owner or the operator
 
 &emsp;&emsp;(G) the earliest commencement and latest closing dates and times of the inspection; and
 
-&emsp;&emsp;(H) the duration of inspection will not exceed time limits specified in the Conventionunless agreed by the owner, operator, or agent in charge of the plant.
+&emsp;&emsp;(H) the duration of inspection will not exceed time limits specified in the Convention unless agreed by the owner, operator, or agent in charge of the plant.
 
 #### (3) Content of warrants
 

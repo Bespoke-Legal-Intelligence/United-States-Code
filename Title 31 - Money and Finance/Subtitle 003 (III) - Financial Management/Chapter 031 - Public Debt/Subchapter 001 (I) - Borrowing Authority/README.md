@@ -6,6 +6,7 @@
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 03101 - Public debt limit](%C2%A7%2003101%20-%20Public%20debt%20limit.md)
+- [&sect; 03101A - Presidential modification of the debt ceiling](%C2%A7%2003101A%20-%20Presidential%20modification%20of%20the%20debt%20ceiling.md)
 - [&sect; 03102 - Bonds](%C2%A7%2003102%20-%20Bonds.md)
 - [&sect; 03103 - Notes](%C2%A7%2003103%20-%20Notes.md)
 - [&sect; 03104 - Certificates of indebtedness and Treasury bills](%C2%A7%2003104%20-%20Certificates%20of%20indebtedness%20and%20Treasury%20bills.md)

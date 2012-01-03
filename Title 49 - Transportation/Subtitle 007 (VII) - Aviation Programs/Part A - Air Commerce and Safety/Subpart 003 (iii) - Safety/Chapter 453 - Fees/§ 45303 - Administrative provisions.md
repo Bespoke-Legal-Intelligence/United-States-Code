@@ -20,7 +20,7 @@ Receipts Credited to Account.—Notwithstanding section 3302 of title 31, all fe
 
 (d)
 
-Annual Budget Report by Administrator.—The Administrator shall, on the same day each year as the President submits the annual budget to Congress, provide to the Committee on Commerce, Science, and Transportationof the Senate and the Committee on Transportation and Infrastructure of the House of Representatives—
+Annual Budget Report by Administrator.—The Administrator shall, on the same day each year as the President submits the annual budget to Congress, provide to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives—
 
 &emsp;(1) a list of fee collections by the Administration during the preceding fiscal year;
 

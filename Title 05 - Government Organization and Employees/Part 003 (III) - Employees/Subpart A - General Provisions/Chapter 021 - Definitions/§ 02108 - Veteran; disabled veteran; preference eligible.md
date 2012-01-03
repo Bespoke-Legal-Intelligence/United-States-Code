@@ -1,8 +1,8 @@
 ### §2108. Veteran; disabled veteran; preference eligible
 
-For the purpose of this title–
+For the purpose of this title—
 
-&emsp;(1) “veteran” means an individual who–
+&emsp;(1) “veteran” means an individual who—
 
 &emsp;&emsp;(A) served on active duty in the armed forces during a war, in a campaign or expedition for which a campaign badge has been authorized, or during the period beginning April 28, 1952, and ending July 1, 1955;
 
@@ -12,11 +12,11 @@ For the purpose of this title–
 
 &emsp;&emsp;(D) served on active duty as defined by section 101(21) of title 38 at any time in the armed forces for a period of more than 180 consecutive days any part of which occurred during the period beginning on September 11, 2001, and ending on the date prescribed by Presidential proclamation or by law as the last date of Operation Iraqi Freedom;
 
-> &emsp;and who has been discharged or released from active duty in the armed forces under honorable conditions;
+> &emsp;and, except as provided under section 2108a, who has been discharged or released from active duty in the armed forces under honorable conditions;
 
-&emsp;(2) “disabled veteran” means an individual who has served on active duty in the armed forces, has been separated therefrom under honorable conditions, and has established the present existence of a service-connected disability or is receiving compensation, disability retirement benefits, or pension because of a public statute administered by the Department of Veterans Affairs or a military department;
+&emsp;(2) “disabled veteran” means an individual who has served on active duty in the armed forces, (except as provided under section 2108a) has been separated therefrom under honorableconditions, and has established the present existence of a service-connected disability or is receiving compensation, disability retirement benefits, or pension because of a public statute administered by the Department of Veterans Affairs or a military department;
 
-&emsp;(3) “preference eligible” means, except as provided in paragraph (4) of this section—
+&emsp;(3) “preference eligible” means, except as provided in paragraph (4) of this section or section 2108a(c)—
 
 &emsp;&emsp;(A) a veteran as defined by paragraph (1)(A) of this section;
 
@@ -56,7 +56,7 @@ For the purpose of this title–
 
 &emsp;(5) “retired member of the armed forces” means a member or former member of the armed forces who is entitled, under statute, to retired, retirement, or retainer pay on account of service as a member.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 410; Pub. L. 90–83, §1(6), Sept. 11, 1967, 81 Stat. 196; Pub. L. 90–623, §1(2), Oct. 22, 1968, 82 Stat. 1312; Pub. L. 92–187, §1, Dec. 15, 1971, 85 Stat. 644; Pub. L. 94–502, title VII, §702, Oct. 15, 1976, 90 Stat. 2405; Pub. L. 95–454, title III, §307(a), title IV, §401(d), Oct. 13, 1978, 92 Stat. 1147, 1154; Pub. L. 96–54, §2(a)(8), (9)(A), Aug. 14, 1979, 93 Stat. 381; Pub. L. 96–191, §8(a), Feb. 15, 1980, 94 Stat. 33; Pub. L. 97–89, title VIII, §801, Dec. 4, 1981, 95 Stat. 1161; Pub. L. 100–325, §2(a), May 30, 1988, 102 Stat. 581; Pub. L. 102–54, §13(b)(1), June 13, 1991, 105 Stat. 274; Pub. L. 105–85, div. A, title XI, §1102(a), (c), Nov. 18, 1997, 111 Stat. 1922; Pub. L. 105–339, §4(a), Oct. 31, 1998, 112 Stat. 3185; Pub. L. 109–163, div. A, title V, §515(f)(1), title XI, §§1111, 1112(a), Jan. 6, 2006, 119 Stat. 3236, 3451; Pub. L. 110–317, §8, Aug. 29, 2008, 122 Stat. 3529.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 410; Pub. L. 90–83, §1(6), Sept. 11, 1967, 81 Stat. 196; Pub. L. 90–623, §1(2), Oct. 22, 1968, 82 Stat. 1312; Pub. L. 92–187, §1, Dec. 15, 1971, 85 Stat. 644; Pub. L. 94–502, title VII, §702, Oct. 15, 1976, 90 Stat. 2405; Pub. L. 95–454, title III, §307(a), title IV, §401(d), Oct. 13, 1978, 92 Stat. 1147, 1154; Pub. L. 96–54, §2(a)(8), (9)(A), Aug. 14, 1979, 93 Stat. 381; Pub. L. 96–191, §8(a), Feb. 15, 1980, 94 Stat. 33; Pub. L. 97–89, title VIII, §801, Dec. 4, 1981, 95 Stat. 1161; Pub. L. 100–325, §2(a), May 30, 1988, 102 Stat. 581; Pub. L. 102–54, §13(b)(1), June 13, 1991, 105 Stat. 274; Pub. L. 105–85, div. A, title XI, §1102(a), (c), Nov. 18, 1997, 111 Stat. 1922; Pub. L. 105–339, §4(a), Oct. 31, 1998, 112 Stat. 3185; Pub. L. 109–163, div. A, title V, §515(f)(1), title XI, §§1111, 1112(a), Jan. 6, 2006, 119 Stat. 3236, 3451; Pub. L. 110–317, §8, Aug. 29, 2008, 122 Stat. 3529; Pub. L. 112–56, title II, §235(a)(2)(A), Nov. 21, 2011, 125 Stat. 723.)
 
 Historical and Revision Notes<br>1966
 
@@ -116,9 +116,15 @@ Mar. 3, 1966, Pub. L. 89–358, §11, 80 Stat. 28.
 
 #### Amendments
 
-2008—Par. (3)(H). Pub. L. 110–317 added subpar. (H).
+<b>2011</b>—Par. (1). Pub. L. 112–56, §235(a)(2)(A)(i), in concluding provisions, inserted “, except as provided under section 2108a,” before “who has been”.
 
-2006—Par. (1). Pub. L. 109–163, §1112(a), in concluding provisions, substituted “discharged or released from active duty in” for “separated from”.
+Par. (2). Pub. L. 112–56, §235(a)(2)(A)(ii), inserted “(except as provided under section 2108a)” before “has been separated”.
+
+Par. (3). Pub. L. 112–56, §235(a)(2)(A)(iii), in introductory provisions, inserted “or section 2108a(c)” after “paragraph (4) of this section”.
+
+<b>2008</b>—Par. (3)(H). Pub. L. 110–317 added subpar. (H).
+
+<b>2006</b>—Par. (1). Pub. L. 109–163, §1112(a), in concluding provisions, substituted “discharged or released from active duty in” for “separated from”.
 
 Par. (1)(B). Pub. L. 109–163, §515(f)(1), substituted “Navy Reserve” for “Naval Reserve”.
 
@@ -126,27 +132,27 @@ Par. (1)(D). Pub. L. 109–163, §1111(a), added subpar. (D).
 
 Par. (3)(B). Pub. L. 109–163, §1111(b), substituted “paragraph (1)(B), (C), or (D)” for “paragraph (1)(B) or (C)”.
 
-1998—Par. (3). Pub. L. 105–339, in concluding provisions, substituted “or the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service;” for “the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service, or the General Accounting Office;”.
+<b>1998</b>—Par. (3). Pub. L. 105–339, in concluding provisions, substituted “or the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service;” for “the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service, or the General Accounting Office;”.
 
-1997—Par. (1)(B). Pub. L. 105–85, §1102(c), substituted “October 15, 1976,” for “the date of enactment of the Veterans’ Education and Employment Assistance Act of 1976,” and “12103(d) of title 10” for “511(d) of title 10”.
+<b>1997</b>—Par. (1)(B). Pub. L. 105–85, §1102(c), substituted “October 15, 1976,” for “the date of enactment of the Veterans’ Education and Employment Assistance Act of 1976,” and “12103(d) of title 10” for “511(d) of title 10”.
 
 Par. (1)(C). Pub. L. 105–85, §1102(a)(1), added subpar. (C).
 
 Par. (3)(B). Pub. L. 105–85, §1102(a)(2), inserted “or (C)” after “paragraph (1)(B)”.
 
-1991—Par. (2). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+<b>1991</b>—Par. (2). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-1988—Par. (3). Pub. L. 100–325 inserted reference to Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service in concluding provisions.
+<b>1988</b>—Par. (3). Pub. L. 100–325 inserted reference to Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service in concluding provisions.
 
-1981—Par. (3). Pub. L. 97–89 inserted reference to Defense Intelligence Senior Executive Service and Senior Cryptologic Executive Service in concluding provisions.
+<b>1981</b>—Par. (3). Pub. L. 97–89 inserted reference to Defense Intelligence Senior Executive Service and Senior Cryptologic Executive Service in concluding provisions.
 
-1980—Par. (3). Pub. L. 96–191 inserted reference to General Accounting Office in concluding provisions.
+<b>1980</b>—Par. (3). Pub. L. 96–191 inserted reference to General Accounting Office in concluding provisions.
 
-1979—Par. (3). Pub. L. 96–54, §2(a)(8), inserted provision excepting applicants for, or members of, Senior Executive Service.
+<b>1979</b>—Par. (3). Pub. L. 96–54, §2(a)(8), inserted provision excepting applicants for, or members of, Senior Executive Service.
 
 Par. (5). Pub. L. 96–54, §2(a)(9)(A), struck out provision excepting applicants for, or members of, Senior Executive Service.
 
-1978—Par. (2). Pub. L. 95–454, §307(a)(1), struck out “and” at end.
+<b>1978</b>—Par. (2). Pub. L. 95–454, §307(a)(1), struck out “and” at end.
 
 Par. (3). Pub. L. 95–454, §307(a)(2), (3), inserted “, except as provided in paragraph (4) of this section” after “means”, and substituted a semicolon for the period at end.
 
@@ -154,13 +160,13 @@ Pars. (4), (5). Pub. L. 95–454, §307(a)(4), added pars. (4) and (5) relating 
 
 Par. (5). Pub. L. 95–454, §401(d), inserted “; but does not include applicants for, or members of, the Senior Executive Service” before the period at end.
 
-1976—Par. (1)(B). Pub. L. 94–502 substituted “any part of which occurred after January 31, 1955, and before the date of enactment of the Veterans’ Education and Employment Assistance Act of 1976,” for “after January 31, 1955,”.
+<b>1976</b>—Par. (1)(B). Pub. L. 94–502 substituted “any part of which occurred after January 31, 1955, and before the date of enactment of the Veterans’ Education and Employment Assistance Act of 1976,” for “after January 31, 1955,”.
 
-1971—Par. (3)(D). Pub. L. 92–187 inserted “or widower” after “unmarried widow”.
+<b>1971</b>—Par. (3)(D). Pub. L. 92–187 inserted “or widower” after “unmarried widow”.
 
 Par. (3)(E). Pub. L. 92–187 inserted “or husband” after “the wife”.
 
-1968—Par. (3)(D). Pub. L. 90–623 inserted “as defined by paragraph (1)(A) of this section” after “veteran”.
+<b>1968</b>—Par. (3)(D). Pub. L. 90–623 inserted “as defined by paragraph (1)(A) of this section” after “veteran”.
 
 #### Effective Date of 2008 Amendment
 

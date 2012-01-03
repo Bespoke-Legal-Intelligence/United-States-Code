@@ -28,7 +28,7 @@ For purposes of conducting negotiations under section 3104(a) of this title, the
 
 #### (d) Modification of specific negotiating objectives
 
-Before the President takes any action under section 3104(b)(2)(A) of this title to refine or modify specific negotiating objectives, the President shall consult with the Congress andwith members of the industry, and representatives of labor, affected by the proposed refinement or modification.
+Before the President takes any action under section 3104(b)(2)(A) of this title to refine or modify specific negotiating objectives, the President shall consult with the Congress and with members of the industry, and representatives of labor, affected by the proposed refinement or modification.
 
 (Pub. L. 100–418, title I, §1379, Aug. 23, 1988, 102 Stat. 1223.)
 

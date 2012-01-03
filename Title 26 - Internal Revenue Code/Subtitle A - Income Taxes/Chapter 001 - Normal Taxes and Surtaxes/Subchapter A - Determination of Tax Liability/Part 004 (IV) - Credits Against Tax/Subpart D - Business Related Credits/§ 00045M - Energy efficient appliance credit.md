@@ -252,7 +252,7 @@ Pub. L. 110–343, div. B, title III, §305(f), Oct. 3, 2008, 122 Stat. 3848, pr
 
 #### Effective Date
 
-Section applicable to appliances produced after Dec. 31, 2005, see section 1334(d) of Pub. L. 109–58, set out asan Effective Date of 2005 Amendments note under section 38 of this title.
+Section applicable to appliances produced after Dec. 31, 2005, see section 1334(d) of Pub. L. 109–58, set out as an Effective Date of 2005 Amendments note under section 38 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “a”.</i>
 

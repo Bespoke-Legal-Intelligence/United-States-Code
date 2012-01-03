@@ -26,7 +26,7 @@ The Secretary of State shall review on a continuing basis the health care progra
 
 #### (g) Retention of medical reimbursements
 
-Reimbursements paid to the Department of State for funding the costs of medical care abroad for employees and eligible family members shall be credited to the currently available applicable appropriation account. Such reimbursements shall be available for obligation and expenditure during the fiscal year in which they are received or for such longer period of time as may be provided in law.
+Reimbursements paid to the Department of State for funding the costs of medical care abroad for employees and eligible family members shall be credited to the currently available applicable appropriation account. Such reimbursements shall be available for obligation and expenditure during the fiscal year in which theyare received or for such longer period of time as may be provided in law.
 
 (Pub. L. 96–465, title I, §904, Oct. 17, 1980, 94 Stat. 2127; Pub. L. 99–93, title I, §122, Aug. 16, 1985, 99 Stat. 413; Pub. L. 100–238, title II, §243, Jan. 8, 1988, 101 Stat. 1776; Pub. L. 107–228, div. A, title III, §316, Sept. 30, 2002, 116 Stat. 1379; Pub. L. 109–140, §2, Dec. 22, 2005, 119 Stat. 2650.)
 

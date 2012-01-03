@@ -16,7 +16,7 @@ The Secretary of Commerce (hereafter in this chapter referred to as the “Secre
 
 &emsp;(4) to enter into contracts, including cooperative research and development arrangements, and grants and cooperative agreements, in furtherance of the purposes of this chapter;
 
-&emsp;(5) to provide United States industry, Government, and educational institutions with a national clearinghouse of current information, techniques, and advice for the achievement of higher quality and productivity based on current domestic and international scientific and technical development;
+&emsp;(5) to provide United States industry, Government, and educational institutions with anational clearinghouse of current information, techniques, and advice for the achievement of higher quality and productivity based on current domestic and international scientific and technical development;
 
 &emsp;(6) to assist industry in the development of measurements, measurement methods, and basic measurement technology;
 
@@ -76,7 +76,7 @@ In carrying out the functions specified in subsection (b) of this section, the S
 
 &emsp;(19) operate national user facilities;
 
-&emsp;(20) evaluate promising inventions and other novel technical concepts submitted by inventors and small companies and work with otherFederal agencies, States, and localities to provide appropriate technical assistance and support for those inventions which are found in the evaluation process to have commercial promise;
+&emsp;(20) evaluate promising inventions and other novel technical concepts submitted by inventors and small companies and work with other Federal agencies, States, and localities to provide appropriate technical assistance and support for those inventions which are found in the evaluation process to have commercial promise;
 
 &emsp;(21) demonstrate the results of the Institute's activities by exhibits or other methods of technology transfer, including the use of scientific or technical personnel of the Institute for part-time or intermittent teaching and training activities at educational institutions of higher learning as part of and incidental to their official duties; and
 
@@ -154,7 +154,7 @@ Contents of report.—The report prepared by the Director under this paragraph s
 
 #### Transmittal of Plan for Standards Conformity to Congress
 
-Section 12(c) of Pub. L. 104–113 provided that: “The National Institute of Standards and Technology shall, within 90 days after the date of enactment of this Act \[Mar. 7, 1996\], transmit to the Congress a plan for implementing the amendments made by this section \[amending this section and enacting provisions set out as a note below\].”
+Pub. L. 104–113, §12(c), Mar. 7, 1996, 110 Stat. 783, provided that: “The National Institute of Standards and Technology shall, within 90 days after the date of enactment of this Act \[Mar. 7, 1996\], transmit to the Congress a plan for implementing the amendments made by this section \[amending this section and enacting provisions set out as a note below\].”
 
 #### Utilization of Consensus Technical Standards by Federal Agencies
 
@@ -170,7 +170,7 @@ Consultation; participation.—In carrying out paragraph (1) of this subsection,
 
 “(3)
 
-Exception.—If compliance with paragraph (1) of this subsection is inconsistent with applicable law or otherwise impractical, a Federal agency or department may elect to use technical standards that are not developed or adopted by voluntary consensus standardsbodies if the head of each such agency or department transmits to the Office of Management and Budget an explanation of the reasons for using such standards. Each year, beginning with fiscal year 1997, the Office of Management and Budget shall transmit to Congress and its committees a report summarizing all explanations received in the preceding year under this paragraph.
+Exception.—If compliance with paragraph (1) of this subsection is inconsistent with applicable law or otherwise impractical, a Federal agency or department may elect to use technical standards that are not developed or adopted by voluntary consensus standards bodies if the head of each such agency or department transmits to the Office of Management and Budget an explanation of the reasons for using such standards. Each year, beginning with fiscal year 1997, the Office of Management and Budget shall transmit to Congress and its committees a report summarizing all explanations received in the preceding year under this paragraph.
 
 “(4)
 
@@ -190,13 +190,13 @@ Program.—The Secretary, acting through the Director of the National Institute 
 
 “(b)
 
-Long-Term Plan.—No later than June 30, 1989, the Secretary shall submit to the Committee on Science, Space, and Technology \[now Committee on Science and Technology\] of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a long-term plan for assistance under this section for each nation or group of nations which annually has imports of at least $1,000,000,000 from the United States (or has the potential for being a major importer from the United States) and which desires such assistance. The plan shall include a description of the resources needed to provide such assistance, the appropriate and likely sources of such funds, and the appropriate relationship between the program established under this section and private sector standards organizations. Special consideration is to be given to the feasibility of establishing a data base and other methods for making standards information developed in cooperation with one country available to other countries.”
+Long-Term Plan.—No later than June 30, 1989, the Secretary shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a long-term plan for assistance under this section for each nation or group of nations which annually has imports of at least $1,000,000,000 from the United States (or has the potential for being a major importer from the United States) and which desires such assistance. The plan shall include a description of the resources needed to provide such assistance, the appropriate and likely sources of such funds, and the appropriate relationship between the program established under this section and private sector standards organizations. Special consideration is to be given to the feasibility of establishing a data base and other methods for making standards information developed in cooperation with one country available to other countries.”
 
 #### Initial Organization Plan for Institute
 
 Pub. L. 100–418, title V, §5112(d), Aug. 23, 1988, 102 Stat. 1431, provided that:
 
-“(1) At least 60 days before its effective date and within 120 days after the date of the enactment of this Act \[Aug. 23, 1988\], an initial organization plan for the National Institute of Standards and Technology (hereafter in this part \[see Short Title of 1988 Amendment note set out under section 271 of this title\] referred to as the ‘Institute’) shall be submitted by the Director of the Institute (hereafter in this part referred to as the ‘Director’) after consultation with the Visiting Committee on Advanced Technology, to the Committee on Science, Space, and Technology \[now Committee on Science and Technology\] of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate. Such plan shall—
+“(1) At least 60 days before its effective date and within 120 days after the date of the enactment of this Act \[Aug. 23, 1988\], an initial organization plan for the National Institute of Standards and Technology (hereafter in this part \[see Short Title of 1988 Amendment note set out under section 271 of this title\] referred to as the ‘Institute’) shall be submitted by the Director of the Institute (hereafter in this part referred to as the ‘Director’) after consultation with the Visiting Committee on Advanced Technology, to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate. Such plan shall—
 
 &emsp;“(A) establish the major operating units of the Institute;
 
@@ -214,7 +214,7 @@ Pub. L. 100–418, title V, §5112(d), Aug. 23, 1988, 102 Stat. 1431, provided t
 
 #### National Institute of Standards and Technology; Small Business Plan
 
-Pub. L. 100–418, title V, §5163(b), Aug. 23, 1988, 102 Stat. 1450, provided that: “The Director of the National Institute of Standards and Technology shall prepare a plan detailing the manner in which the Institute will make small businesses more aware of the Institute's activities and research, and the manner in which the Institute will seek to increase the application by small businesses of the Institute's research, particularly in manufacturing. The plan shall be submitted to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology \[now Committee on Science and Technology\] of the House of Representatives not later than 120 days after the date of the enactment of this Act \[Aug. 23, 1988\].”
+Pub. L. 100–418, title V, §5163(b), Aug. 23, 1988, 102 Stat. 1450, provided that: “The Director of the National Institute of Standards and Technology shall prepare a plan detailing the manner in which the Institute will make small businesses more aware of the Institute's activities and research, and the manner in which the Institute will seek to increase the application by small businesses of the Institute's research, particularly in manufacturing. The plan shall be submitted to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives not later than 120 days after the date of the enactment of this Act \[Aug. 23, 1988\].”
 
 #### Construction of Radio Laboratory Building
 

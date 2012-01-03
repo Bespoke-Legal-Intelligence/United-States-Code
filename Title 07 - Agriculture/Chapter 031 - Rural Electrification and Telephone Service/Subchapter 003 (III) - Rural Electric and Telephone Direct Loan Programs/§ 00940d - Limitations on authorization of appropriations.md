@@ -52,13 +52,13 @@ The Secretary shall make insured loans under this subchapter for the purposes, i
 
 Amounts made available for loans under section 935 of this title are authorized to remain available until expended.
 
-(May 20, 1936, ch. 432, title III, §314, as added Pub. L. 101–508, title I, §1201, Nov. 5, 1990, 104Stat. 1388–7; amended Pub. L. 103–129, §2(b)(1), Nov. 1, 1993, 107 Stat. 1362; Pub. L. 103–354, title II, §235(a)(13), Oct. 13, 1994, 108 Stat. 3221.)
+(May 20, 1936, ch. 432, title III, §314, as added Pub. L. 101–508, title I, §1201, Nov. 5, 1990, 104 Stat. 1388–7; amended Pub. L. 103–129, §2(b)(1), Nov. 1, 1993, 107 Stat. 1362; Pub. L. 103–354, title II, §235(a)(13), Oct. 13, 1994, 108 Stat. 3221.)
 
 #### Amendments
 
-1994—Subsecs. (b), (c). Pub. L. 103–354 substituted “Secretary” for “Administrator”.
+<b>1994</b>—Subsecs. (b), (c). Pub. L. 103–354 substituted “Secretary” for “Administrator”.
 
-1993—Pub. L. 103–129 amended section generally, substituting provisions authorizing appropriations for the cost of electric hardship loans, electric municipal rate loans, telephone hardship loans, and telephone cost-of-money loans under section 935 of this title for fiscal years 1994 through 1998 for provisions directing the Administrator to make insured loans from the Rural Electrification and Telephone Revolving Fund under section 931 of this title for fiscal years 1991 through 1995, to reduce the amounts of such loans to obtain funds to guarantee the loans, and to guarantee the loans upon request of the borrower at 90 percent of the principal and interest.
+<b>1993</b>—Pub. L. 103–129 amended section generally, substituting provisions authorizing appropriations for the cost of electric hardship loans, electric municipal rate loans, telephone hardship loans, and telephone cost-of-money loans under section 935 of this title for fiscal years 1994 through 1998 for provisions directing the Administrator to make insured loans from the Rural Electrification and Telephone Revolving Fund under section 931 of this title for fiscal years 1991 through 1995, to reduce the amounts of such loans to obtain funds to guarantee the loans, and to guarantee the loans upon request of the borrower at 90 percent of the principal and interest.
 
 #### Effective Date
 

@@ -22,7 +22,7 @@ For the purposes of this subchapter and the declaration of policy—
 
 &emsp;(G) Notwithstanding the foregoing provisions of this section, the parity price for any basic agricultural commodity, as of any date during the six-year period beginning January 1, 1950, shall not be less than its parity price computed in the manner used prior to October 31, 1949.
 
-&emsp;(2) “Parity”, as applied to income, shall be that gross income from agriculture which will provide the farm operator and his family witha standard of living equivalent to those afforded persons dependent upon other gainful occupation. “Parity” as applied to income from any agricultural commodity for any year, shall be that gross income which bears the same relationship to parity income from agriculture for such year as the average gross income from such commodity for the preceding ten calendar years bears to the average gross income from agriculture for such ten calendar years.
+&emsp;(2) “Parity”, as applied to income, shall be that gross income from agriculture which will provide the farm operator and his family with a standard of living equivalent to those afforded persons dependent upon other gainful occupation. “Parity” as applied to income from any agricultural commodity for any year, shall be that gross income which bears the same relationship to parity income from agriculture for such year as the average gross income from such commodity for the preceding ten calendar years bears to the average gross income from agriculture for such ten calendar years.
 
 &emsp;(3) The term “interstate and foreign commerce” means sale, marketing, trade, and traffic between any State or Territory or the District of Columbia or Puerto Rico, and any place outside thereof; or between points within the same State or Territory or within the District of Columbia or Puerto Rico, through any place outside thereof; or within any Territory or within the District of Columbia or Puerto Rico.
 
@@ -46,7 +46,7 @@ For the purposes of this subchapter—
 
 &emsp;(B) “Actual production” of any number of acres of cotton, rice or peanuts on a farm means the actual average yield for the farm times such number of acres.
 
-&emsp;(2) “Bushel” means in the case of ear corn that amount of ear corn, including not to exceed 151/2 per centum of moisture content, which weighs seventy pounds, and in the case of shelled corn, means that amount of shelled corn including not to exceed 151/2 per centum of moisture content, which weighs fifty-six pounds.
+&emsp;(2) “Bushel” means in the case of ear corn that amount of ear corn, including not to exceed 15½ per centum of moisture content, which weighs seventy pounds, and in the case of shelled corn, means that amount of shelled corn including not to exceed 15½ per centum of moisture content, which weighs fifty-six pounds.
 
 &emsp;(3)(A) “Carry-over”, in the case of corn, rice, and peanuts for any marketing year shall be the quantity of the commodity on hand in the United States at the beginning of such marketing year, not including any quantity which was produced in the United States during the calendar year then current.
 
@@ -56,7 +56,7 @@ For the purposes of this subchapter—
 
 &emsp;(4)(A) “Commercial corn-producing area” shall include all counties in which the average production of corn (excluding corn used as silage) during the ten calendar years immediately preceding the calendar year for which such area is determined, after adjustment for abnormal weather conditions, is four hundred and fifty bushels or more per farm and four bushels or more for each acre of farm land in the county.
 
-&emsp;(B) Whenever prior to February 1 of any calendar year the Secretary has reason to believe that any county which is not included in the commercial corn-producing area determined pursuant to the provisions of subparagraph (A) of this subsection, but which borders upon one of the counties in such area, or that any minor civil division in a county bordering on such area, is producing (excluding corn used for silage) an average of at least four hundred and fifty bushels of corn per farm and an average of at least four bushels for each acre of farm land in the county or in the minor civil division, as the case may be, he shall cause immediate investigation to be made to determine such fact. If, upon the basis of such investigation, the Secretary finds that such county or minor civil division is likely to produce corn in such average amounts during such calendar year, he shall proclaim such determination and, commencing with such calendar year, such county shall be included in the commercial corn-producing area. In the case of a county included in the commercial corn-producing area pursuant to this subparagraph, whenever prior to February 1 of any calendar year the Secretary has reason to believe that facts justifying the inclusion of such county are not likely to exist in such calendar year, he shall cause an immediate investigation to be made with respect thereto. If, upon the basis of such investigation, the Secretary finds that such facts are not likely to exist in such calendar year, he shall proclaim such determination, and commencing with such calendar year,such county shall be excluded from the commercial corn-producing area.
+&emsp;(B) Whenever prior to February 1 of any calendar year the Secretary has reason to believe that any county which is not included in the commercial corn-producing area determined pursuant to the provisions of subparagraph (A) of this subsection, but which borders upon one of the counties in such area, or that any minor civil division in a county bordering on such area, is producing (excluding corn used for silage) an average of at least four hundred and fifty bushels of corn per farm and an average of at least four bushels for each acre of farm land in the county or in the minor civil division, as the case may be, he shall cause immediate investigation to be made to determine such fact. If, upon the basis of such investigation, the Secretary finds that such county or minor civil division is likely to produce corn in such average amounts during such calendar year, he shall proclaim such determination and, commencing with such calendar year, such county shall be included in the commercial corn-producing area. In the case of a county included in the commercial corn-producing area pursuant to this subparagraph, wheneverprior to February 1 of any calendar year the Secretary has reason to believe that facts justifying the inclusion of such county are not likely to exist in such calendar year, he shall cause an immediate investigation to be made with respect thereto. If, upon the basis of such investigation, the Secretary finds that such facts are not likely to exist in such calendar year, he shall proclaim such determination, and commencing with such calendar year, such county shall be excluded from the commercial corn-producing area.
 
 &emsp;(5) “Farm consumption” of corn means consumption by the farmer's family, employees, or household, or by his work stock; or consumption by poultry or livestock on his farm if such poultry or livestock, or the products thereof, are consumed or to be consumed by the farmer's family, employees, or household.
 
@@ -116,9 +116,9 @@ For the purposes of this subchapter—
 
 &emsp;(I) “Normal yield” for any farm, for any crop of cotton, shall be the average yield per acre of cotton for the farm, adjusted for abnormal weather conditions and any significant changes in production practices during the three calendar years immediately preceding the year in which such normal yield is determined. If for any such year the data are not available, or there is no actual yield, then the normal yield for the farm shall be appraised in accordance with regulations of the Secretary, taking into consideration abnormal weather conditions, the normal yield for the county, changes in production practices, and the yield in years for which data are available.
 
-&emsp;(J) “Projected county yield” for any crop of wheat shall be determined on the basis of the yield per harvested acre of such commodity in the county during each of the five calendar years immediately preceding the year in which such projected county yield is determined, adjusted for abnormal weather conditions affecting such yield, for trends in yields and for any significant changes in production practices.
+&emsp;(J) “Projected county yield” for any crop of wheat shall be determined on the basis of the yield per harvested acre of such commodity in the county during each of the five calendar years immediately preceding the year inwhich such projected county yield is determined, adjusted for abnormal weather conditions affecting such yield, for trends in yields and for any significant changes in production practices.
 
-&emsp;(K) “Projected farm yield” for any crop of wheat shall be determined on the basis of the yield per harvested acre of such commodity on the farm during each of the three calendar years immediately preceding the year in which such projected farm yield is determined,adjusted for abnormal weather conditions affecting such yield, for trends in yields and for any significant changes in production practices, but in no event shall such projected farm yield be less than the normal yield for such farm as provided in subparagraph (E) of this paragraph.
+&emsp;(K) “Projected farm yield” for any crop of wheat shall be determined on the basis of the yield per harvested acre of such commodity on the farm during each of the three calendar years immediately preceding the year in which such projected farm yield is determined, adjusted for abnormal weather conditions affecting such yield, for trends in yields and for any significant changes in production practices, but in no event shall such projected farm yield be less than the normal yield for such farm as provided in subparagraph (E) of this paragraph.
 
 &emsp;(L) “Projected national, State, and county yields” for any crop of cotton shall be determined on the basis of the yield per harvested acre of such crop in the United States, the State and the county, respectively, during each of the five calendar years immediately preceding the year in which such projected yield for the United States, the State, and the county, respectively, is determined, adjusted for abnormal weather conditions affecting such yield, for trends in yields, and for any significant changes in production practices.
 
@@ -138,7 +138,7 @@ The latest available statistics of the Federal Government shall be used by the S
 
 In making any determination under this chapter or under the Agricultural Act of 1949 \[7 U.S.C. 1421 et seq.\] with respect to the carryover of any agricultural commodity, the Secretary shall exclude from such determination the stocks of any commodity acquired pursuant to, or under the authority of, the Strategic and Critical Materials Stock Piling Act (60 Stat. 596) \[50 U.S.C. 98 et seq.\].
 
-(Feb. 16, 1938, ch. 30, title III, §301, 52 Stat. 38; Apr. 7, 1938, ch. 107, §§2–4, 52 Stat. 202; June 13, 1940, ch. 360, §1, 54 Stat. 392; July 2, 1940, ch. 521, §§3–5, 54 Stat. 727, 728; Nov. 22, 1940, ch. 914, §§1, 3, 4, 54 Stat. 1209, 1210; Nov. 25, 1940, ch. 917, 54 Stat. 1211; Apr. 3, 1941, ch. 39, §§2, 3, 55 Stat. 91, 92; July 9, 1942, ch. 497, §1(4), (5), 56 Stat. 654; July 3, 1948, ch. 827, title II, §201(a), (b), (d), (e), 62 Stat. 1250; Aug. 29, 1949, ch. 518, §2(a), 63 Stat. 675; Oct. 31, 1949, ch. 792, title IV, §§409(a)–(d), 415(c)–(e), 418(b), (c), 63 Stat. 1056, 1057, 1958, 1062; July 8, 1952, ch. 587, 66 Stat. 442; July 17, 1952, ch. 933, §1, 66 Stat. 758; July 14, 1953, ch. 194, §6, 67 Stat. 152; Aug. 28, 1954, ch. 1041, title III, §§301, 302, 68 Stat. 902; May 28, 1956, ch. 327, title V, §502, title VI, §602, 70 Stat. 212, 213; Pub. L. 85–92, §1, July 10, 1957, 71 Stat. 284; Pub. L. 87–703, title III, §320, Sept. 27, 1962, 76 Stat. 625; Pub. L. 88–297, title I, §106(5)–(7), Apr. 11, 1964, 78 Stat. 177; Pub. L. 89–321, title IV, §403, title V, §§509, 511(a), Nov. 3, 1965, 79 Stat. 1197, 1204, 1205; Pub. L. 91–524, title IV, §405(b), Nov. 30, 1970, as added Pub. L. 93–86, §1(12), Aug. 10, 1973, 87 Stat. 229; Pub. L. 94–61, §1, July 25, 1975, 89 Stat. 302; Pub. L. 97–218, title III, §303(a), July 20, 1982, 96 Stat. 211; Pub. L. 99–198, title X, §1020, Dec. 23, 1985, 99 Stat. 1459; Pub. L. 99–272, title I, §1103(a), Apr. 7, 1986, 100 Stat. 85; Pub. L. 107–171, title I, §1610, May 13, 2002, 116 Stat. 218; Pub. L. 108–357, title VI, §611(f), Oct. 22, 2004, 118 Stat. 1522.)
+(Feb. 16, 1938, ch. 30, title III, §301, 52 Stat. 38; Apr. 7, 1938, ch. 107, §§2–4, 52 Stat. 202; June 13, 1940, ch. 360, §1, 54 Stat. 392; July 2, 1940, ch. 521, §§3–5, 54 Stat. 727, 728; Nov. 22, 1940, ch. 914, §§1, 3, 4, 54 Stat. 1209, 1210; Nov. 25, 1940, ch. 917, 54 Stat. 1211; Apr. 3, 1941, ch. 39, §§2, 3, 55 Stat. 91, 92; July 9, 1942, ch. 497, §1(4), (5), 56 Stat. 654; July 3, 1948, ch. 827, title II, §201(a), (b), (d), (e), 62 Stat. 1250; Aug. 29, 1949, ch. 518, §2(a), 63 Stat. 675; Oct. 31, 1949, ch. 792, title IV, §§409(a)–(d), 415(c)–(e), 418(b), (c), 63 Stat. 1056–1058, 1062; July 8, 1952, ch. 587, 66 Stat. 442; July 17, 1952, ch. 933, §1, 66 Stat. 758; July 14, 1953, ch. 194, §6, 67 Stat. 152; Aug. 28, 1954, ch. 1041, title III, §§301, 302, 68 Stat. 902; May 28, 1956, ch. 327, title V, §502, title VI, §602, 70 Stat. 212, 213; Pub. L. 85–92, §1, July 10, 1957, 71 Stat. 284; Pub. L. 87–703, title III, §320, Sept. 27, 1962, 76 Stat. 625; Pub. L. 88–297, title I, §106(5)–(7), Apr. 11, 1964, 78 Stat. 177; Pub. L. 89–321, title IV, §403, title V, §§509, 511(a), Nov. 3, 1965, 79 Stat. 1197, 1204, 1205; Pub. L. 91–524, title IV, §405(b), Nov. 30, 1970, as added Pub. L. 93–86, §1(12)(a), Aug. 10, 1973, 87 Stat. 229; Pub. L. 94–61, §1, July 25, 1975, 89 Stat. 302; Pub. L. 97–218, title III, §303(a), July 20, 1982, 96 Stat. 211; Pub. L. 99–198, title X, §1020, Dec. 23, 1985, 99 Stat. 1459; Pub. L. 99–272, title I, §1103(a), Apr. 7, 1986, 100 Stat. 85; Pub. L. 107–171, title I, §1610, May 13, 2002, 116 Stat. 218; Pub. L. 108–357, title VI, §611(f), Oct. 22, 2004, 118 Stat. 1522.)
 
 #### References in Text
 
@@ -154,7 +154,7 @@ The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (d
 
 #### Amendments
 
-2004—Subsec. (b)(3)(C), (D). Pub. L. 108–357, §611(f)(1), redesignated subpar. (D) as (C) and struck out former subpar. (C) which defined “carry-over” of tobacco for any marketing year.
+<b>2004</b>—Subsec. (b)(3)(C), (D). Pub. L. 108–357, §611(f)(1), redesignated subpar. (D) as (C) and struck out former subpar. (C) which defined “carry-over” of tobacco for any marketing year.
 
 Subsec. (b)(6)(A). Pub. L. 108–357, §611(f)(2), struck out “tobacco,” after “rice,”.
 
@@ -174,47 +174,47 @@ Subsec. (b)(16)(B), (C). Pub. L. 108–357, §611(f)(8), redesignated subpar. (C
 
 Subsec. (b)(17). Pub. L. 108–357, §611(f)(9), struck out par. (17) which defined “domestic manufacturer of cigarettes”.
 
-2002—Subsec. (b)(14)(C). Pub. L. 107–171 substituted “60,000,000” for “100,000,000” in cl. (i) and “10 percent” for “15 percent” in cl. (ii).
+<b>2002</b>—Subsec. (b)(14)(C). Pub. L. 107–171 substituted “60,000,000” for “100,000,000” in cl. (i) and “10 percent” for “15 percent” in cl. (ii).
 
-1986—Subsec. (b)(14)(C), (D). Pub. L. 99–272, §1103(a)(1), added subpars. (C) and (D).
+<b>1986</b>—Subsec. (b)(14)(C), (D). Pub. L. 99–272, §1103(a)(1), added subpars. (C) and (D).
 
 Subsec. (b)(17). Pub. L. 99–272, §1103(a)(2), added par. (17).
 
-1985—Subsec. (b)(7). Pub. L. 99–198 substituted “Corn, September 1–August 31” for “Corn, October 1–September 30”.
+<b>1985</b>—Subsec. (b)(7). Pub. L. 99–198 substituted “Corn, September 1–August 31” for “Corn, October 1–September 30”.
 
-1982—Subsec. (b)(15). Pub. L. 97–218 inserted proviso that for purposes of section 1314e of this title, types 22 and 23, fire-cured tobacco shall be treated as one “kind of tobacco”.
+<b>1982</b>—Subsec. (b)(15). Pub. L. 97–218 inserted proviso that for purposes of section 1314e of this title, types 22 and 23, fire-cured tobacco shall be treated as one “kind of tobacco”.
 
-1975—Subsec. (b)(7). Pub. L. 94–61 substituted “Wheat, June 1–May 31” for “Wheat, July 1–June 30”.
+<b>1975</b>—Subsec. (b)(7). Pub. L. 94–61 substituted “Wheat, June 1–May 31” for “Wheat, July 1–June 30”.
 
-1973—Subsec. (b)(13)(K). Pub. L, 91–524, §405(b), as added by Pub. L. 93–86, temporarily inserted “(five calendar years in the case of wheat)” after “three calendar years”. See Effective and Termination Dates of 1973 Amendment note below.
+<b>1973</b>—Subsec. (b)(13)(K). Pub. L, 91–524, §405(b), as added by Pub. L. 93–86, temporarily inserted “(five calendar years in the case of wheat)” after “three calendar years”. See Effective and Termination Dates of 1973 Amendment note below.
 
-1965—Subsec. (b)(8). Pub. L. 89–321, §509(1), designated existing provisions as subpar. (A) and added subpar. (B).
+<b>1965</b>—Subsec. (b)(8). Pub. L. 89–321, §509(1), designated existing provisions as subpar. (A) and added subpar. (B).
 
 Subsec. (b)(9). Pub. L. 89–321, §511(a), struck out “cotton” and “wheat” in first sentence, and inserted definition of normal production when applied to any number of acres of cotton or wheat.
 
 Subsec. (b)(13). Pub. L. 89–321, §§403, 509(2), added subpars. (J), (K), (L), and (M).
 
-1964—Subsec. (b)(13). Pub. L. 88–297, §106(5)–(7), struck out “cotton or” before “peanuts” in subpar. (B) in two places, struck out “, cotton,” after “corn” in subpar. (G) in two places, and added subpars. (H) and (I), respectively.
+<b>1964</b>—Subsec. (b)(13). Pub. L. 88–297, §106(5)–(7), struck out “cotton or” before “peanuts” in subpar. (B) in two places, struck out “, cotton,” after “corn” in subpar. (G) in two places, and added subpars. (H) and (I), respectively.
 
-1962—Subsec. (b)(13). Pub. L. 87–703 struck out par. (A) which defined “normal yield” for any county in the case of corn or wheat; inserted in pars. (D) and (E) “and wheat” after “in the case of rice”, “or wheat, as the case may be,” after “per acre of rice”, and “in the case of rice, or during the five years immediately preceding the year in which such normal yield is determined in the case of wheat” after “determined”; and struck out from par. (G) “wheat,” after “corn,” in two places, “and, in the case of wheat, but not in the case of corn, cotton, or peanuts, for trends in yields” after “abnormal weather conditions”, “ten calendar years in the case of wheat, and” before “five calendar years” and “in the case of corn, cotton, or peanuts” after “five calendar years”.
+<b>1962</b>—Subsec. (b)(13). Pub. L. 87–703 struck out par. (A) which defined “normal yield” for any county in the case of corn or wheat; inserted in pars. (D) and (E) “and wheat” after “in the case of rice”, “or wheat, as the case may be,” after “per acre of rice”, and “in the case of rice, or during the five years immediately preceding the year in which such normal yield is determined in the case of wheat” after “determined”; and struck out from par. (G) “wheat,” after “corn,” in two places, “and, in the case of wheat, but not in the case of corn, cotton, or peanuts, for trends in yields” after “abnormal weather conditions”, “ten calendar years in the case of wheat, and” before “five calendar years” and “in the case of corn, cotton, or peanuts” after “five calendar years”.
 
-1957—Subsec. (b)(15). Pub. L. 85–92 inserted proviso relating to treatment of type 21 fire-cured tobacco as a “kind of tobacco”.
+<b>1957</b>—Subsec. (b)(15). Pub. L. 85–92 inserted proviso relating to treatment of type 21 fire-cured tobacco as a “kind of tobacco”.
 
-1956—Subsec. (a)(1)(E). Act May 28, 1956, §602, inserted “(not counting 1956 in the case of basic agricultural commodities)” after “full calendar years”.
+<b>1956</b>—Subsec. (a)(1)(E). Act May 28, 1956, §602, inserted “(not counting 1956 in the case of basic agricultural commodities)” after “full calendar years”.
 
 Subsec. (b)(13). Act May 28, 1956, §502, limited determination of normal yield provided for in subpar. (D) only to counties and authorized adjustments for abnormal weather conditions and for trends in yields, added subpars. (E) and (F), and redesignated subpar. (E) as (G).
 
-1954—Subsec. (a)(1)(E). Act Aug. 28, 1954, §301, changed definition of “transitional parity price” as applied to basic agricultural commodities so as to make it “old parity” less 5 per centum for each full year elapsed since Jan. 1, 1955, instead of Jan. 1, 1949.
+<b>1954</b>—Subsec. (a)(1)(E). Act Aug. 28, 1954, §301, changed definition of “transitional parity price” as applied to basic agricultural commodities so as to make it “old parity” less 5 per centum for each full year elapsed since Jan. 1, 1955, instead of Jan. 1, 1949.
 
 Subsec. (b). Act Aug. 28, 1954, §302, increased carryover allowance from 10 per centum to 15 per centum in case of corn and from 15 per centum to 20 per centum in case of wheat in subpar. (10)(A), and provided for computing county and farm “normal yields” on the basis of 5-year yields instead of 10-year yields in case of corn in subpars. (13)(A) and (13)(E).
 
-1953—Subsec. (d). Act July 14, 1953, added subsec. (d).
+<b>1953</b>—Subsec. (d). Act July 14, 1953, added subsec. (d).
 
-1952—Subsec. (a)(1)(G). Act July 17, 1952, extended dual parity provisions for two years.
+<b>1952</b>—Subsec. (a)(1)(G). Act July 17, 1952, extended dual parity provisions for two years.
 
 Subsec. (b)(3)(C), (16)(B). Act July 8, 1952, provided for computation of carry-over as of Jan. 1st, following the beginning of the marketing year instead of Oct. 1st the beginning of the marketing year.
 
-1949—Subsec. (a)(1)(B). Act Oct. 31, 1949, §409(a), inserted last sentence.
+<b>1949</b>—Subsec. (a)(1)(B). Act Oct. 31, 1949, §409(a), inserted last sentence.
 
 Subsec. (a)(1)(C). Act Oct. 31, 1949, §409(b), inserted “, wages paid hired farm labor” after “buy” and “, wages” after “such prices”.
 
@@ -240,7 +240,7 @@ Act Aug. 29, 1949, §2(a)(3), made provision inapplicable to cotton.
 
 Subsec. (b)(16)(C). Act Aug. 29, 1949, §2(a)(3), added subpar. (C) which was also reenacted by act Oct. 31, 1949, §415(d).
 
-1948—Subsec. (a). Act July 3, 1948, §201(a), struck out paragraphs (1) and (2) and inserted new paragraphs (1) and (2) to change the method of computing parity prices to give recognition to changes in relationships among the prices of agricultural commodities themselves which have occurred since the base period 1910 to 1914, and redefined “parity”.
+<b>1948</b>—Subsec. (a). Act July 3, 1948, §201(a), struck out paragraphs (1) and (2) and inserted new paragraphs (1) and (2) to change the method of computing parity prices to give recognition to changes in relationships among the prices of agricultural commodities themselves which have occurred since the base period 1910 to 1914, and redefined “parity”.
 
 Subsec. (b)(3)(A). Act July 3, 1948, §201(b), redefined “carry-over” in the case of corn, rice, and peanuts.
 
@@ -250,15 +250,15 @@ Subsec. (b)(10). Act July 3, 1948, §201(d), redefined “normal supply”.
 
 Subsec. (b)(16). Act July 3, 1948, §201(e), redefined “total supply”.
 
-1942—Subsec. (b)(13)(B). Act July 9, 1942, §1(4), inserted “or peanuts” after “cotton” wherever appearing, and added a new sentence reading “For 1942, the normal yield for any county, in the case of peanuts, shall be the average yield per acre for peanuts for the county, adjusted for abnormal conditions, during the years 1936–1940, inclusive, except that for any county in which the years 1935–1939, inclusive, are equally as representative, such period may be used in determining the normal yields for counties in the State”.
+<b>1942</b>—Subsec. (b)(13)(B). Act July 9, 1942, §1(4), inserted “or peanuts” after “cotton” wherever appearing, and added a new sentence reading “For 1942, the normal yield for any county, in the case of peanuts, shall be the average yield per acre for peanuts for the county, adjusted for abnormal conditions, during the years 1936–1940, inclusive, except that for any county in which the years 1935–1939, inclusive, are equally as representative, such period may be used in determining the normal yields for counties in the State”.
 
-Subsec. (b)(13)(E). Act July 9, 1942, §1(5), struck out “or” after “wheat” and before “cotton” wherever appearing, inserted “or peanuts” after “cotton” wherever appearing, and inserted after first sentence “For 1942,the normal yield for any farm, in the case of peanuts, shall be the average yield per acre of peanuts for the farm, adjusted for abnormal conditions, during the years 1936–1940, inclusive, except that for any county in which the years 1935–1939, inclusive, are equally as representative, such period may be used in determining normal yields for farms in the county”.
+Subsec. (b)(13)(E). Act July 9, 1942, §1(5), struck out “or” after “wheat” and before “cotton” wherever appearing, inserted “or peanuts” after “cotton” wherever appearing, and inserted after first sentence “For 1942, the normal yield for any farm, in the case of peanuts, shall be the average yield per acre of peanuts for the farm, adjusted for abnormal conditions, during the years 1936–1940, inclusive, except that for any county in which the years 1935–1939, inclusive, are equally as representative, such period may be used in determining normal yields for farms in the county”.
 
-1941—Subsec. (b)(1)(B). Act April 3, 1941, §2, inserted “or peanuts” after “cotton”.
+<b>1941</b>—Subsec. (b)(1)(B). Act April 3, 1941, §2, inserted “or peanuts” after “cotton”.
 
 Subsec. (b)(6)(C). Act Apr. 3, 1941, §3, added subpar. (C).
 
-1940—Subsec. (a)(1). Act Nov. 22, 1940, §3, inserted “and, in the case of Burley and flue-cured tobacco, shall be the period August 1934 to July 1939; except that the August 1919–July 1929 base period shall be used in allocating any funds appropriated prior to September 1, 1940” after “July, 1929” in last sentence.
+<b>1940</b>—Subsec. (a)(1). Act Nov. 22, 1940, §3, inserted “and, in the case of Burley and flue-cured tobacco, shall be the period August 1934 to July 1939; except that the August 1919–July 1929 base period shall be used in allocating any funds appropriated prior to September 1, 1940” after “July, 1929” in last sentence.
 
 Subsec. (b)(3)(C). Act June 13, 1940, inserted exception.
 
@@ -272,7 +272,7 @@ Subsec. (b)(13)(E). Act Nov. 25, 1940, in first sentence substituted “in which
 
 Subsec. (b)(15). Act Nov. 22, 1940, §§1, 4, among other changes substituted “Fire-cured tobacco comprising types 21, 22, 23, and 24; Dark air-cured tobacco comprising types 35 and 36” for “Fire-cured and dark air cured tobacco comprising types 21, 22, 23, 24, 35, 36, and 37” and inserted proviso at end of last sentence.
 
-1938—Subsec. (b)(13). Act Apr. 7, 1938, substituted “county” for “farm” in subpars. (A) and (B) and added subpar. (E).
+<b>1938</b>—Subsec. (b)(13). Act Apr. 7, 1938, substituted “county” for “farm” in subpars. (A) and (B) and added subpar. (E).
 
 #### Effective Date of 2004 Amendment
 
@@ -324,7 +324,7 @@ Section 1108(c) of Pub. L. 99–272 provided that: “The Secretary of Agricultu
 
 #### Study of Methods of Improving Parity Formula
 
-Section 602 of act May 28, 1956, required the Secretary to make a thorough study of the possible methods of improving the parity formula and report thereon, with specific recommendations, including drafts of necessary legislation to carry out such recommendations, to Congress not later than Jan. 31, 1957.
+Section 602 of act May 28, 1956, required the Secretary to make a thorough study of the possible methods ofimproving the parity formula and report thereon, with specific recommendations, including drafts of necessary legislation to carry out such recommendations, to Congress not later than Jan. 31, 1957.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “consumed”.</i>
 

@@ -43,7 +43,7 @@
 
 #### Amendments
 
-1988—Pub. L. 100–597, §11, Nov. 3, 1988, 102 Stat. 3030, added items 927 to 929 and redesignated former item 927 as 930.
+<b>1988</b>—Pub. L. 100–597, §11, Nov. 3, 1988, 102 Stat. 3030, added items 927 to 929 and redesignated former item 927 as 930.
 
 
 ---

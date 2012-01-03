@@ -102,7 +102,7 @@ There is authorized to be appropriated to carry out the program established by t
 
 In subsec. (b)(1)(A), “section 2101(1) of title 41” substituted for “section 27(f)(5) of the Office of Federal Procurement Policy Act (41 U.S.C. 423(f)(5))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (b)(1)(B), “section 107 of title 41” substituted for “section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403)” on authority of Pub. L.111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (b)(1)(B), “section 107 of title 41” substituted for “section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 In subsec. (b)(4), “chapter 85 of title 41” substituted for “the Javits-Wagner-O'Day Act (41 U.S.C. 46 et seq.)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
@@ -168,5 +168,5 @@ Pub. L. 105–135, title VI, §602(b)(2), Dec. 2, 1997, 111 Stat. 2631, as amend
 
 #### Report
 
-Section 606 of Pub. L. 105–135 provided that: “Not later than March 1, 2002, the Administrator shall submit to the Committees a report on the implementation of the HUBZone program established under section 31 of the Small Business Act \[15 U.S.C. 657a\] (as added by section 602(b) of this title) and the degree to which the HUBZone program has resulted in increased employment opportunities and an increased level of investment in HUBZones (as defined in section 3(p) of the Small Business Act (15 U.S.C. 632(p)), as added by section 602(a) of this title).”
+Pub. L. 105–135, title VI, §606, Dec. 2, 1997, 111 Stat. 2635, provided that: “Not later than March 1, 2002, the Administrator shall submit to the Committees a report on the implementation of the HUBZone program established under section 31 of the Small Business Act \[15 U.S.C. 657a\] (as added by section 602(b) of this title) and the degree to which the HUBZone program has resulted in increased employment opportunities and an increased level of investment in HUBZones (as defined in section 3(p) of the Small Business Act (15 U.S.C. 632(p)), as added by section 602(a) of this title).”
 

@@ -190,7 +190,7 @@ Designation of Relevant Courses, Certifications, Degrees, Licenses, and Registra
 
 “(c)
 
-Identified Competencies.—An individual shall demonstrate each core competency identified by the Administrator under subsection (a) for the category of personnel that includes such individual. An individual shall demonstrate each core competency through the means identified under subsection (b) not later than one year after the date on which such core competency is identified under subsection (a) or, if the date of hire of such individual occurs after the date of such identification, not later than one year after such date of hire. In the case of an individual hired for an employment period not to exceed one year, such individual shalldemonstrate each core competency at the start of the employment period.
+Identified Competencies.—An individual shall demonstrate each core competency identified by the Administrator under subsection (a) for the category of personnel that includes such individual. An individual shall demonstrate each core competency through the means identified under subsection (b) not later than one year after the date on which such core competency is identified under subsection (a) or, if the date of hire of such individual occurs after the date of such identification, not later than one year after such date of hire. In the case of an individual hired for an employment period not to exceed one year, such individual shall demonstrate each core competency at the start of the employment period.
 
 “(d)
 

@@ -14,21 +14,21 @@
 
 (e)(1) As far as practicable, regulations for the administration of subsections (a)–(d) shall be uniform for all of the uniformed services.
 
-(2)(A) Notwithstanding any other provision of law, an obligation for an advance of pay made pursuant to this section shall be recorded as an obligation only in the fiscal year in which the entitlement of the member to the pay accrues.
+(2)(A) Notwithstanding any other provision of law, an obligation for an advance of pay madepursuant to this section shall be recorded as an obligation only in the fiscal year in which the entitlement of the member to the pay accrues.
 
 (B) Current appropriations available for advance payments under this section may be transferred to the prior fiscal year appropriation available for the same purpose in the amount of any unliquidated advance payments that remain at the end of such prior fiscal year. Such unliquidated advance payments shall then be credited to the current appropriation.
 
 (f) Under regulations prescribed by the Secretary of Homeland Security, an advance of pay of not more than three months’ pay may be made to an officer of the Coast Guard who is ordered to sea duty or to or from shore duty beyond the seas. In addition, the Commandant of the Coast Guard may direct such advances as he considers necessary and proper to members of the Coast Guard stationed at distant stations where the pay and emoluments to which they are entitled cannot be paid regularly.
 
-(g) Under regulations prescribed by the Secretary concerned, the dislocation allowance authorized by section 407 of this title for a member of a uniformed service whose dependents are covered by section 405a(a) of this title may be paid in advance of the evacuation of the dependents and to the dependents designated by the member.
+(g) Under regulations prescribed by the Secretary concerned, the dislocation allowance authorized by section 477 of this title for a member of a uniformed service whose dependents are covered by section 475a(a) of this title may be paid in advance of the evacuation of the dependents and to the dependents designated by the member.
 
-(h) Notwithstanding subsections (a) and (b) of section 3324 of title 31, the Secretary concerned may, when the last day of the pay period falls on a Saturday, Sunday, or legal holiday, authorizethe payment of pay and allowances to members of uniformed service under his jurisdiction on the preceding workday but not more than three days before the last day of that pay period. If a member dies after he has received an advance payment under this subsection, but before the last day of the pay period for which the payment is made, no part of the amount so advance is recoverable by the United States.
+(h) Notwithstanding subsections (a) and (b) of section 3324 of title 31, the Secretary concerned may, when the last day of the pay period falls on a Saturday, Sunday, or legal holiday, authorize the payment of pay and allowances to members of uniformed service under his jurisdiction on the preceding workday but not more than three days before the last day of that pay period. If a member dies after he has received an advance payment under this subsection, but before the last day of the pay period for which the payment is made, no part of the amount so advance is recoverable by the United States.
 
 (i) Under regulations prescribed by the Secretary concerned, not more than one month's pay may be paid in advance to a member of the Armed Forces Health Professions Scholarship program upon reporting for a period of active duty required by section 2121(c) of title 10.
 
 (j) Under regulations prescribed by the Secretary concerned, not more than one month's pay may be paid in advance to a member of the Senior Reserve Officers’ Training Corps who is ordered to field training or a practice required under section 2109 of title 10.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 490; Pub. L. 89–26, §1(6), May 22, 1965, 79 Stat. 117; Pub. L. 89–193, Sept. 21, 1965, 79 Stat. 823; Pub. L. 89–718, §70, Nov. 2, 1966, 80 Stat. 1123; Pub. L. 90–623, §3(1), (9), Oct. 22, 1968, 82 Stat. 1314, 1315; Pub. L. 96–76, title III, §313(b), Sept. 29, 1979, 93 Stat. 586; Pub. L. 96–215, §3, Mar. 25, 1980, 94 Stat. 123; Pub. L. 96–343, §8, Sept. 8, 1980, 94 Stat. 1128; Pub. L. 96–513, title V, §516(23), Dec. 12, 1980, 94 Stat. 2939; Pub. L. 97–60, title I, §131(b), Oct. 14, 1981, 95 Stat. 1005; Pub. L. 97–258, §3(j), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 99–145, title XIII, §1303(b)(12), Nov. 8, 1985, 99 Stat. 741; Pub. L. 99–661, div. A, title VI, §602(a), Nov. 14, 1986, 100 Stat. 3874; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §602(a), Oct. 23, 1992, 106 Stat. 2420; Pub. L. 103–160, div. A, title VI, §605(a), Nov. 30, 1993, 107 Stat. 1679; Pub. L. 105–261, div. A, title VI, §652, Oct. 17, 1998, 112 Stat. 2051; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 490; Pub. L. 89–26, §1(6), May 22, 1965, 79 Stat. 117; Pub. L. 89–193, Sept. 21, 1965, 79 Stat. 823; Pub. L. 89–718, §70, Nov. 2, 1966, 80 Stat. 1123; Pub. L. 90–623, §3(1), (9), Oct. 22, 1968, 82 Stat. 1314, 1315; Pub. L. 96–76, title III, §313(b), Sept. 29, 1979, 93 Stat. 586; Pub. L. 96–215, §3, Mar. 25, 1980, 94 Stat. 123; Pub. L. 96–343, §8, Sept. 8, 1980, 94 Stat. 1128; Pub. L. 96–513, title V, §516(23), Dec. 12, 1980, 94 Stat. 2939; Pub. L. 97–60, title I, §131(b), Oct. 14, 1981, 95 Stat. 1005; Pub. L. 97–258, §3(j), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 99–145, title XIII, §1303(b)(12), Nov. 8, 1985, 99 Stat. 741; Pub. L. 99–661, div. A, title VI, §602(a), Nov. 14, 1986, 100 Stat. 3874; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §602(a), Oct. 23, 1992, 106 Stat. 2420; Pub. L. 103–160, div. A, title VI, §605(a), Nov. 30, 1993, 107 Stat. 1679; Pub. L. 105–261, div. A, title VI, §652, Oct. 17, 1998, 112 Stat. 2051; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 112–81, div. A, title VI, §631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465.)
 
 Historical and Revision Notes
 
@@ -78,7 +78,13 @@ In subsection (c), the words “Secretary concerned” are substituted for the w
 
 In subsection (d), the words “If a” are substituted for the words “In the event the”. The words “credited to the account” are substituted for the words “passed to credit in the account”.
 
+#### Codification
+
+Section 631(f)(4)(A) of Pub. L. 112–81, which directed that this title be amended by conforming any references to sections of this title which were transferred and redesignated by “subsection (c)” of section 631, was executed by conforming the references to those sections as transferred and redesignated by subsection (d) of section 631, to reflect the probable intent of Congress.
+
 #### Amendments
+
+<b>2011</b>—Subsec. (g). Pub. L. 112–81 substituted “477” for “407” and “475a” for “405a”. See Codification note above.
 
 <b>2002</b>—Subsec. (f). Pub. L. 107–296 substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
 
@@ -158,7 +164,7 @@ Amendment by Pub. L. 90–623 intended to restate without substantive change the
 
 #### Effective Date of 1965 Amendment
 
-Amendment by Pub. L. 89–26 effective Feb. 1, 1965, see section 2 of Pub. L. 89–26, as amended, set out as an Effective Date note under section 405a of this title.
+Amendment by Pub. L. 89–26 effective Feb. 1, 1965, see section 2 of Pub. L. 89–26, as amended, set out as an Effective Date note under section 475a of this title.
 
 #### Transfer of Functions
 

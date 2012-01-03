@@ -30,11 +30,13 @@
 | [1599a.](%C2%A7%2001599a%20-%20Financial%20assistance%20to%20certain%20employees%20in%20acquisition%20of%20critical%20skills.md) | Financial assistance to certain employees in acquisition of critical skills. |
 | [1599b.](%C2%A7%2001599b%20-%20Employees%20abroad%20travel%20expenses%3B%20health%20care.md) | Employees abroad: travel expenses; health care. |
 | [1599c.](%C2%A7%2001599c%20-%20Health%20care%20professionals%20enhanced%20appointment%20and%20compensation%20authority%20for%20personnel%20for%20care%20and%20treatment%20of%20wounded%20and%20injured%E2%80%A6.md) | Health care professionals: enhanced appointment and compensation authority for personnel for care and treatment of wounded and injured members of the armed forces. |
-| [1599d.](%C2%A7%2001599d%20-%20Professional%20accounting%20positions%20authority%20to%20prescribe%20certification%20and%20credential%20standards.md) | Professional accounting positions: authority to prescribe certification and credential standards. |
+| [1599d.](%C2%A7%2001599d%20-%20Financial%20management%20positions%20authority%20to%20prescribe%20professional%20certification%20and%20credential%20standards.md) | Financial management positions: authority to prescribe professional certification and credential standards. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2011</b>—Pub. L. 112–81, div. A, title X, §1051(b), Dec. 31, 2011, 125 Stat. 1582, added item 1599d and struck out former item 1599d “Professional accounting positions: authority to prescribe certification and credential standards”.
 
 <b>2008</b>—Pub. L. 110–181, div. A, title XVI, §1636(b), Jan. 28, 2008, 122 Stat. 464, added item 1599c and struck out former item 1599c “Appointment in excepted service of certain health care professionals”.
 
@@ -110,7 +112,7 @@ Regulations.—Not later than 120 days after the date of the enactment of this A
 
 &emsp;“(1) shall ensure that the authority in subsection (a) is utilized to build government capabilities that are needed to perform inherently governmental functions, functions closely associated with inherently governmental functions, and other critical functions;
 
-&emsp;“(2) shall include a mechanism to ensure that follow-on funding to provide compensation for civilian employees of the Department to perform functions described in paragraph (1) is provided from appropriate accounts; and
+&emsp;“(2) shall include a mechanism to ensure that follow-on funding to provide compensation for civilianemployees of the Department to perform functions described in paragraph (1) is provided from appropriate accounts; and
 
 &emsp;“(3) may establish additional criteria and levels of approval within the Department for the utilization of funds to provide compensation for civilian employees of the Department pursuant to subsection (a).
 
@@ -222,11 +224,11 @@ Objective, merit-based principles for personnel decisions.—The Secretary shall
 
 &emsp;“(7)
 
-Consideration for senior management, functional, and technical workforce.—Any participant in the program who, as determined by the Secretary, demonstrates outstanding performance shall be afforded priority in consideration for selection into the appropriate element of the senior management, functional, and technical workforce of the Department of Defense (as defined in section 115b(f) of title 10, United States Code).”
+Consideration for senior management, functional, and technical workforce.—Any participant in the program who, as determined by the Secretary, demonstrates outstanding performance shall be afforded priority in consideration for selection into the appropriate element of the senior management, functional, and technical workforce of the Department of Defense (as defined in section 115b(f) \[now 115b(g)\] of title 10, United States Code).”
 
 #### Direct Hire Authority at Personnel Demonstration Laboratories for Certain Candidates
 
-Pub. L. 110–417, \[div. A\], title XI, §1108, Oct. 14, 2008, 122 Stat. 4618, as amended by Pub. L. 111–383, div. A, title XI, §1101(a), Jan. 7, 2011, 124 Stat. 4381, provided that:
+Pub. L. 110–417, \[div. A\], title XI, §1108, Oct. 14, 2008, 122 Stat. 4618, as amended by Pub. L. 111–383, div. A, title XI, §1101(a), Jan. 7, 2011, 124 Stat. 4381; Pub. L. 112–81, div. A, title XI, §1103, Dec. 31, 2011, 125 Stat. 1612, provided that:
 
 “(a)
 
@@ -234,7 +236,7 @@ Authority.—The Secretary of Defense may appoint qualified candidates possessin
 
 “(b)
 
-Applicability.—This section applies with respect to candidates for scientific and engineering positions within any laboratory designated by section 1105(a) of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 123 Stat. 2486; 10 U.S.C. 2358 note) as a Department of Defense science and technology reinvention laboratory.
+Applicability.—This section applies with respect to candidates for scientific and engineering positions within any laboratory designated by section1105(a) of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 123 Stat. 2486; 10 U.S.C. 2358 note) as a Department of Defense science and technology reinvention laboratory.
 
 “(c)
 
@@ -245,10 +247,6 @@ Limitation.—(1) Authority under this section may not, in any calendar year and
 “(d)
 
 Employee Defined.—As used in this section, the term ‘employee’ has the meaning given such term by section 2105 of title 5, United States Code.
-
-“(e)
-
-Termination.—The authority to make appointments under this section shall not be available after December 31, 2013.”
 
 \[Amendment by section 1101(a)(1) of Pub. L. 111–383 to section 1108(b) of Pub. L. 110–417, set out above, effective Oct. 28, 2009, and amendment by section 1101(a)(2) of Pub. L. 111–383 to section 1108(c) of Pub. L. 110–417, set out above, effective Jan. 7, 2011, see section 1101(d) of Pub. L. 111–383, set out as an Effective Date of 2011 Amendment note under section 9902 of Title 5, Government Organization and Employees.\]
 
@@ -343,4 +341,4 @@ Pub. L. 109–163, div. A, title XI, §1122, Jan. 6, 2006, 119 Stat. 3452, which
 - [&sect; 01599a - Financial assistance to certain employees in acquisition of critical skills](%C2%A7%2001599a%20-%20Financial%20assistance%20to%20certain%20employees%20in%20acquisition%20of%20critical%20skills.md)
 - [&sect; 01599b - Employees abroad travel expenses; health care](%C2%A7%2001599b%20-%20Employees%20abroad%20travel%20expenses%3B%20health%20care.md)
 - [&sect; 01599c - Health care professionals enhanced appointment and compensation authority for personnel for care and treatment of wounded and injured&#8230;](%C2%A7%2001599c%20-%20Health%20care%20professionals%20enhanced%20appointment%20and%20compensation%20authority%20for%20personnel%20for%20care%20and%20treatment%20of%20wounded%20and%20injured%E2%80%A6.md)
-- [&sect; 01599d - Professional accounting positions authority to prescribe certification and credential standards](%C2%A7%2001599d%20-%20Professional%20accounting%20positions%20authority%20to%20prescribe%20certification%20and%20credential%20standards.md)
+- [&sect; 01599d - Financial management positions authority to prescribe professional certification and credential standards](%C2%A7%2001599d%20-%20Financial%20management%20positions%20authority%20to%20prescribe%20professional%20certification%20and%20credential%20standards.md)

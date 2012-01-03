@@ -68,7 +68,7 @@ For effective date of this chapter, referred to in subsecs. (a) and (c), see Eff
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–385, §109(a), redesignated subsec. (b) as (a) and struck out former subsec. (a) relating to submission of a report by the President to Congress with recommendations for disposition, continuation, or reorganization of Energy Administration and organization of the Federal Government for the management of energy and natural resources policies and programs.
 
-Subsec. (b). Pub. L. 94–385, §109(a)(2), (b), redesignated subsec. (c) as (b) and added par. (6) and provisions requiring Administrator to include in report a discussion on benefits of employing a utility and Btu tax as ameans for obtaining national energy goals. Former subsec. (b) redesignated (a).
+Subsec. (b). Pub. L. 94–385, §109(a)(2), (b), redesignated subsec. (c) as (b) and added par. (6) and provisions requiring Administrator to include in report a discussion on benefits of employing a utility and Btu tax as a means for obtaining national energy goals. Former subsec. (b) redesignated (a).
 
 Subsecs. (c) to (e). Pub. L. 94–385, §109(a)(2), (c), redesignated subsecs. (c) to (e) as (b) to (d), respectively, and added new subsec. (e).
 

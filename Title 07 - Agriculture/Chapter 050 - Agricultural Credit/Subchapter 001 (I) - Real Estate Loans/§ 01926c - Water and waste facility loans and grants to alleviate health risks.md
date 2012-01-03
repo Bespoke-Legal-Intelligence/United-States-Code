@@ -42,7 +42,7 @@
 
 The Secretary shall give preference in the awarding of loans and grants—
 
-&emsp;(1) under subsection (a) of this section to rural water supply corporations, cooperatives, or similar entities, or public agencies, thatpropose to provide water supply or waste disposal services to the residents of those rural subdivisions commonly referred to as colonias, that are characterized by substandard housing, inadequate roads and drainage, and a lack of adequate water or waste facilities; and
+&emsp;(1) under subsection (a) of this section to rural water supply corporations, cooperatives, or similar entities, or public agencies, that propose to provide water supply or waste disposal services to the residents of those rural subdivisions commonly referred to as colonias, that are characterized by substandard housing, inadequate roads and drainage, and a lack of adequate water or waste facilities; and
 
 &emsp;(2) under subsection (b) of this section to individuals who reside in a rural subdivision commonly referred to as a colonia, that is characterized by substandard housing, inadequate roads and drainage, and a lack of adequate water or waste facilities.
 
@@ -74,13 +74,13 @@ Not later than 30 days after October 28, 1992, the Secretary shall issue interim
 
 #### Amendments
 
-2002—Subsec. (e). Pub. L. 107–171 added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: “There are authorized to be appropriated—
+<b>2002</b>—Subsec. (e). Pub. L. 107–171 added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: “There are authorized to be appropriated—
 
 &emsp;“(1) for grants under this section, $30,000,000 for each fiscal year; and
 
 &emsp;“(2) for loans under this section, $30,000,000 for each fiscal year.”
 
-1992—Subsec. (a)(2). Pub. L. 102–554 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “(2)
+<b>1992</b>—Subsec. (a)(2). Pub. L. 102–554 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “(2)
 
 Certain counties targeted.—Loans and grants under paragraph (1) shall be made only if the loan or grant funds will be used primarily to provide water or waste services, or both, to residents of a county—
 
@@ -92,7 +92,7 @@ Subsec. (b)(1). Pub. L. 102–552, §516(<i>l</i>), substituted “, connecting
 
 Subsec. (f). Pub. L. 102–552, §516(m), added subsec. (f).
 
-1991—Subsec. (a)(2). Pub. L. 102–237 realigned margins of subpars. (A) and (B).
+<b>1991</b>—Subsec. (a)(2). Pub. L. 102–237 realigned margins of subpars. (A) and (B).
 
 #### Effective Date of 1991 Amendment
 

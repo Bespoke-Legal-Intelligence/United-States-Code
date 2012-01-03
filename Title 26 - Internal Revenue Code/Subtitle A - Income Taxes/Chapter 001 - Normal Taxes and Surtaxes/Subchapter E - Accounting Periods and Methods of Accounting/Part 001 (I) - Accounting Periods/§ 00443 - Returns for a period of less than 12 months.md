@@ -40,7 +40,7 @@ A return for a period of less than 12 months (referred to in this section as “
 
 #### (C) Application for benefits
 
-&emsp;&emsp;Application for the benefits of this paragraph shall be made in such manner and at such time as the regulations prescribed under subparagraph (D) may require; except that the time so prescribed shall not be later than the time (including extensions) for filing the return for the first taxable year which ends on or after the day which is 12 months after the first day of the short period. Such application, in case the return was filed without regard to this paragraph, shall be considered a claim for credit or refund with respect to the amount by which the tax is reduced under this paragraph.
+&emsp;&emsp;Application for the benefits of this paragraph shall be made in such manner and at such time as the regulations prescribed under subparagraph (D) may require; except that the time so prescribed shall not be laterthan the time (including extensions) for filing the return for the first taxable year which ends on or after the day which is 12 months after the first day of the short period. Such application, in case the return was filed without regard to this paragraph, shall be considered a claim for credit or refund with respect to the amount by which the tax is reduced under this paragraph.
 
 #### (D) Regulations
 
@@ -76,7 +76,7 @@ If a return is made for a short period by reason of subsection (a)—
 
 &emsp;<b>For returns for a period of less than 12 months in the case of a debtor's election to terminate a taxable year, see section 1398(d)(2)(E).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 149; Pub. L. 86–779, §10(i), Sept. 14, 1960, 74 Stat. 1009; Pub. L.91–172, title III, §301(b)(6), Dec. 30, 1969, 83 Stat. 585; Pub. L. 94–455, title III, §301(e), title XII, §1204(c)(2), title XVI, §1607(b)(1)(C), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1553, 1697, 1757, 1834; Pub. L. 95–30, title I, §102(b)(6), May 23, 1977, 91 Stat. 137; Pub. L. 95–600, title IV, §421(e)(2), title VII, §703(<i>o</i>)(1)–(3), Nov. 6, 1978, 92 Stat. 2876, 2943; Pub. L. 96–222, title I, §104(a)(4)(H)(iii), Apr. 1, 1980, 94 Stat. 217; Pub. L. 96–589, §3(d), Dec. 24, 1980, 94 Stat. 3401; Pub. L. 97–448, title III, §304(a), Jan. 12, 1983, 96 Stat. 2398; Pub. L. 99–514, title I, §104(b)(7), title VII, §701(e)(3), Oct. 22, 1986, 100 Stat. 2105, 2342; Pub. L. 108–357, title IV, §413(c)(6), Oct. 22, 2004, 118 Stat. 1507.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 149; Pub. L. 86–779, §10(i), Sept. 14, 1960, 74 Stat. 1009; Pub. L. 91–172, title III, §301(b)(6), Dec. 30, 1969, 83 Stat. 585; Pub. L. 94–455, title III, §301(e), title XII, §1204(c)(2), title XVI, §1607(b)(1)(C), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1553, 1697, 1757, 1834; Pub. L. 95–30, title I, §102(b)(6), May 23, 1977, 91 Stat. 137; Pub. L. 95–600, title IV, §421(e)(2), title VII, §703(<i>o</i>)(1)–(3), Nov. 6, 1978, 92 Stat. 2876, 2943; Pub. L. 96–222, title I, §104(a)(4)(H)(iii), Apr. 1, 1980, 94 Stat. 217; Pub. L. 96–589, §3(d), Dec. 24, 1980, 94 Stat. 3401; Pub. L. 97–448, title III, §304(a), Jan. 12, 1983, 96 Stat. 2398; Pub. L. 99–514, title I, §104(b)(7), title VII, §701(e)(3), Oct. 22, 1986, 100 Stat. 2105, 2342; Pub. L. 108–357, title IV, §413(c)(6), Oct. 22, 2004, 118 Stat. 1507.)
 
 #### Amendments
 
@@ -150,7 +150,7 @@ Amendment by section 421(e)(2) of Pub. L. 95–600 applicable to taxable years b
 
 #### Effective Date of 1977 Amendment
 
-Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31, 1976, see section 106(a) ofPub. L. 95–30, set out as a note under section 1 of this title.
+Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31, 1976, see section 106(a) of Pub. L. 95–30, set out as a note under section 1 of this title.
 
 #### Effective Date of 1976 Amendment
 

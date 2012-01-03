@@ -186,7 +186,7 @@ No pension plan may provide that any part of a participant's accrued benefit der
 
 &emsp;For purposes of paragraph (1), the term “prohibited payment” means—
 
-&emsp;&emsp;(A) any payment, in excess of the monthly amount paid under a single life annuity (plus any social security supplements described in the last sentence of section 1054(b)(1)(G) of this title), to a participant or beneficiary whose annuity starting date (as defined in section 1055(h)(2) of this title), that occurs during the period referred to in paragraph (1),
+&emsp;&emsp;(A) any payment, in excess of the monthly amount paid under a single life annuity (plus any social security supplements described in the last sentence of section1054(b)(1)(G) of this title), to a participant or beneficiary whose annuity starting date (as defined in section 1055(h)(2) of this title), that occurs during the period referred to in paragraph (1),
 
 &emsp;&emsp;(B) any payment for the purchase of an irrevocable commitment from an insurer to pay benefits, and
 
@@ -292,7 +292,7 @@ In the case of a plan covered by section 1350 of this title, upon termination of
 
 &emsp;&emsp;For purpose <sup>1</sup> of this paragraph, the term “prohibited payment” means—
 
-&emsp;&emsp;&emsp;(i) any payment, in excess of the monthly amount paid under a single life annuity (plus any social security supplements described in the last sentence of section 1054(b)(1)(G) of this title), to a participant or beneficiary whose annuity starting date\(as defined in section 1055(h)(2) of this title) occurs during any period a limitation under subparagraph (A) or (B) is in effect,
+&emsp;&emsp;&emsp;(i) any payment, in excess of the monthly amount paid under a single life annuity (plus any social security supplements described in the last sentence of section 1054(b)(1)(G) of this title), to a participant or beneficiary whose annuity starting date (as defined in section 1055(h)(2) of this title) occurs during any period a limitation under subparagraph (A) or (B) is in effect,
 
 &emsp;&emsp;&emsp;(ii) any payment for the purchase of an irrevocable commitment from an insurer to pay benefits, and
 
@@ -334,7 +334,7 @@ In the case of a plan covered by section 1350 of this title, upon termination of
 
 &emsp;&emsp;&emsp;&emsp;(I) the date on which the plan terminates,
 
-&emsp;&emsp;&emsp;&emsp;(II) if there is a failure to make a payment of the minimum required contribution for any plan year beginning after the security is provided, the due date for the payment under section 1083(j) of this title, or
+&emsp;&emsp;&emsp;&emsp;(II) if there is a failure to make a payment of the minimum required contribution for any plan year beginning after the security is provided, the due date forthe payment under section 1083(j) of this title, or
 
 &emsp;&emsp;&emsp;&emsp;(III) if the adjusted funding target attainment percentage is less than 60 percent for a consecutive period of 7 years, the valuation date for the last year in the period.
 
@@ -368,7 +368,7 @@ In the case of a plan covered by section 1350 of this title, upon termination of
 
 #### (A) Presumption of continued underfunding
 
-&emsp;&emsp;In any case in which a benefit limitation under paragraph (1), (2), (3), or (4) has beenapplied to a plan with respect to the plan year preceding the current plan year, the adjusted funding target attainment percentage of the plan for the current plan year shall be presumed to be equal to the adjusted funding target attainment percentage of the plan for the preceding plan year until the enrolled actuary of the plan certifies the actual adjusted funding target attainment percentage of the plan for the current plan year.
+&emsp;&emsp;In any case in which a benefit limitation under paragraph (1), (2), (3), or (4) has been applied to a plan with respect to the plan year preceding the current plan year, the adjusted funding target attainment percentage of the plan for the current plan year shall be presumed to be equal to the adjusted funding target attainment percentage of the plan for the preceding plan year until the enrolled actuary of the plan certifies the actual adjusted funding target attainment percentage of the plan for the current plan year.
 
 #### (B) Presumption of underfunding after 10th month
 
@@ -394,7 +394,7 @@ In the case of a plan covered by section 1350 of this title, upon termination of
 
 #### (B) Treatment of affected benefits
 
-&emsp;&emsp;Nothing in this paragraph shall be construed as affecting the plan's treatment of benefits which would have been paid or accrued but for this subsection.
+&emsp;&emsp;Nothing in this paragraph shall be construed as affecting the plan's treatment ofbenefits which would have been paid or accrued but for this subsection.
 
 #### (9) Terms relating to funding target attainment percentage
 
@@ -526,7 +526,7 @@ Subsec. (d)(2). Pub. L. 101–239, §7891(a)(1), substituted “Internal Revenue
 
 Subsec. (d)(3)(I). Pub. L. 101–239, §7894(c)(9)(A), substituted “such Act” for “such act”.
 
-<b>1986</b>—Subsec. (d)(3)(E)(i). Pub. L. 99–514, §1898(c)(7)(B)(iii), substituted “A” for “In the case ofany payment before a participant has separated from service, a” in introductory provisions and inserted “in the case of any payment before a participant has separated from service,” in subcl. (I).
+<b>1986</b>—Subsec. (d)(3)(E)(i). Pub. L. 99–514, §1898(c)(7)(B)(iii), substituted “A” for “In the case of any payment before a participant has separated from service, a” in introductory provisions and inserted “in the case of any payment before a participant has separated from service,” in subcl. (I).
 
 Subsec. (d)(3)(E)(ii). Pub. L. 99–514, §1898(c)(7)(B)(iv), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “For purposes of this subparagraph, the term ‘earliest retirement age’ has the meaning given such term by section 1055(h)(3) of this section, except that in the case of any individual account plan, the earliest retirement age shall be the date which is 10 years before the normal retirement age.”
 
@@ -574,7 +574,7 @@ Section 761(b) of Pub. L. 103–465 provided that:
 
 “(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 1082, 1132, and 1301 of this title\] shall apply to plan years beginning after December 31, 1994.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending thissection and sections 1082, 1132, and 1301 of this title\] shall apply to plan years beginning after December 31, 1994.
 
 “(2)
 

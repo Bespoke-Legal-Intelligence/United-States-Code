@@ -108,5 +108,5 @@ Congressional Oversight.—The head of a covered element of the intelligence com
 
 &emsp;“(2) of the correction of a long-standing, correctable material weakness, as verified by an independent auditor under subsection (d)(2).”
 
-\[For definition of “congressional intelligence committees” as used in section 368 of Pub. L. 111–259, set out above, see section 2 of Pub. L. 111–259, set out as a note under section 401a of this title.\]
+\[For definition of “congressional intelligence committees” as used in section 368 of Pub. L. 111–259, set out above, see section 2 of Pub. L. 111–259, set out as a Definitions note under section 401a of this title.\]
 

@@ -66,11 +66,11 @@ The Home Owners’ Loan Act, referred to in subsec. (a)(1)(A)(vii), is act June 
 
 #### Amendments
 
-1994—Subsec. (a)(1)(A)(iii). Pub. L. 103–325, §602(a)(62), substituted “section” for “sections” and “or” for “and”.
+<b>1994</b>—Subsec. (a)(1)(A)(iii). Pub. L. 103–325, §602(a)(62), substituted “section” for “sections” and “or” for “and”.
 
 Subsec. (a)(2). Pub. L. 103–325, §602(a)(63), inserted period at end.
 
-1990—Subsec. (a)(1). Pub. L. 101–647, §2586(1), struck out “, in an amount that exceeds $50,000,” after “recovery” in introductory provisions.
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–647, §2586(1), struck out “, in an amount that exceeds $50,000,” after “recovery” in introductory provisions.
 
 Subsec. (a)(2). Pub. L. 101–647, §2586(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “a forfeiture under section 981 or 982 of title 18 that—
 

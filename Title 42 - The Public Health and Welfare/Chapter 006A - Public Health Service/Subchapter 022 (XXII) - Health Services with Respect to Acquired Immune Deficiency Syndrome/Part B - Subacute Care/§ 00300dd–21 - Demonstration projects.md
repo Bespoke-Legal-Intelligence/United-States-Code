@@ -14,7 +14,7 @@ The Secretary shall conduct three demonstration projects to determine the effect
 
 #### (c) Services
 
-(1) The services provided under each demonstration project shall be designed to meet the specific needs of individuals infected with the etiologic agent for acquired immune deficiency syndrome, and shall include—
+(1) The services provided under each demonstration project shall be designed to meet thespecific needs of individuals infected with the etiologic agent for acquired immune deficiency syndrome, and shall include—
 
 &emsp;(A) the care and treatment of such individuals by providing—
 
@@ -48,7 +48,7 @@ The demonstration projects shall be conducted—
 
 #### (e) Evaluation and report
 
-The Secretary shall evaluate the operations of the demonstration projects and shall submit tothe Committee on Energy and Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate—
+The Secretary shall evaluate the operations of the demonstration projects and shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate—
 
 &emsp;(1) not later than 18 months after the beginning of the first project, a preliminary report that contains—
 

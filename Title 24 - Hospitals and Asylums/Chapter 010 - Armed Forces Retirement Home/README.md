@@ -12,13 +12,14 @@
 | :--- | ---: |
 | [411\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000411%20-%20Establishment%20of%20the%20Armed%20Forces%20Retirement%20Home.md) | Establishment of the Armed Forces Retirement Home. |
 | [412\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000412%20-%20Residents%20of%20Retirement%20Home.md) | Residents of Retirement Home. |
-| [413\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000413%20-%20Services%20provided%20residents.md) | Services provided residents. |
-| [413a.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000413a%20-%20Improved%20health%20care%20oversight%20of%20Retirement%20Home.md) | Improved health care oversight of Retirement Home. |
+| [413\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000413%20-%20Services%20provided%20to%20residents.md) | Services provided to residents. |
+| [413a.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000413a%20-%20Oversight%20of%20health%20care%20provided%20to%20residents.md) | Oversight of health care provided to residents. |
 | [414\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000414%20-%20Fees%20paid%20by%20residents.md) | Fees paid by residents. |
 | [415\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000415%20-%20Chief%20Operating%20Officer.md) | Chief Operating Officer. |
-| [416\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000416%20-%20Local%20Boards%20of%20Trustees.md) | Local Boards of Trustees. |
-| [417\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000417%20-%20Directors%2C%20deputy%20directors%2C%20associate%20directors%2C%20and%20staff%20of%20facilities.md) | Directors, deputy directors, associate directors, and staff of facilities. |
-| [418\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000418%20-%20Inspection%20of%20Retirement%20Home.md) | Inspection of Retirement Home. |
+| [416\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000416%20-%20Advisory%20Council.md) | Advisory Council. |
+| [416a.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000416a%20-%20Resident%20Advisory%20Committees.md) | Resident Advisory Committees. |
+| [417\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000417%20-%20Administrators%2C%20Ombudsmen%2C%20and%20staff%20of%20facilities.md) | Administrators, Ombudsmen, and staff of facilities. |
+| [418\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000418%20-%20Periodic%20inspection%20of%20retirement%20home%20facilities%20by%20Department%20of%20Defense%20Inspector%20General%20and%20outside%20inspectors.md) | Periodic inspection of retirement home facilities by Department of Defense Inspector General and outside inspectors. |
 | [419\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000419%20-%20Armed%20Forces%20Retirement%20Home%20Trust%20Fund.md) | Armed Forces Retirement Home Trust Fund. |
 | [420\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000420%20-%20Disposition%20of%20effects%20of%20deceased%20persons%3B%20unclaimed%20property.md) | Disposition of effects of deceased persons; unclaimed property. |
 | [421\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000421%20-%20Payment%20of%20residents%20for%20services.md) | Payment of residents for services. |
@@ -30,11 +31,9 @@
 
 #### SUBCHAPTER II—TRANSITIONAL PROVISIONS
 
-|  |  |
-| :--- | ---: |
-| [431\.](Subchapter%20002%20%28II%29%20-%20Transitional%20Provisions/%C2%A7%2000431%20-%20Temporary%20continuation%20of%20Armed%20Forces%20Retirement%20Home%20Board.md) | Temporary continuation of Armed Forces Retirement Home Board. |
-| [432\.](Subchapter%20002%20%28II%29%20-%20Transitional%20Provisions/%C2%A7%2000432%20-%20Directors%20of%20facilities.md) | Directors of facilities. |
-| [433\.](Subchapter%20002%20%28II%29%20-%20Transitional%20Provisions/%C2%A7%2000433%20-%20Temporary%20continuation%20of%20incumbent%20deputy%20directors.md) | Temporary continuation of incumbent deputy directors. |
+|  |
+| :--- |
+| 431 to 433. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -28,7 +28,7 @@ For purposes of this part, the term “distributable net income” means, with r
 
 &emsp;In the case of a foreign trust—
 
-&emsp;&emsp;(A) There shall be included the amounts of gross income from sources without the United States, reduced by any amounts which would be deductible in respect of disbursements allocable to such income but for the provisions of section 265(a)(1) (relating to disallowance of certain deductions).
+&emsp;&emsp;(A) There shall be included the amounts of gross income from sources without theUnited States, reduced by any amounts which would be deductible in respect of disbursements allocable to such income but for the provisions of section 265(a)(1) (relating to disallowance of certain deductions).
 
 &emsp;&emsp;(B) Gross income from sources within the United States shall be determined without regard to section 894 (relating to income exempt under treaty).
 

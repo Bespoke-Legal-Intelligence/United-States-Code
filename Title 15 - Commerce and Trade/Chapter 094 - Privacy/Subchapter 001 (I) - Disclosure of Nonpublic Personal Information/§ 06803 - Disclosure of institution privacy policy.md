@@ -48,7 +48,7 @@ The disclosure required by subsection (a) of this section shall include—
 
 #### (3) Definitions
 
-&emsp;For purposes of this subsection, the term “State” means any State or territory of the United States, the District of Columbia, Puerto Rico, Guam, American Samoa, the TrustTerritory of the Pacific Islands, the Virgin Islands, or the Northern Mariana Islands.
+&emsp;For purposes of this subsection, the term “State” means any State or territory of the United States, the District of Columbia, Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Virgin Islands, or the Northern Mariana Islands.
 
 #### (e) Model forms
 

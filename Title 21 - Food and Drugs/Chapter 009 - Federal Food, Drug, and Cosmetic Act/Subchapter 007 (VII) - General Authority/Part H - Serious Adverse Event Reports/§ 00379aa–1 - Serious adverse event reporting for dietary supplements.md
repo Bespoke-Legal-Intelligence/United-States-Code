@@ -44,7 +44,7 @@ In this section:
 
 #### (1) Timing of reports
 
-&emsp;The responsible person shall submit to the Secretary a serious adverse event report no later than 15 business days after the report is received through the address or phone number described in section 343(y) of this title.
+&emsp;The responsible person shall submit to the Secretary a serious adverse event report nolater than 15 business days after the report is received through the address or phone number described in section 343(y) of this title.
 
 #### (2) New medical information
 

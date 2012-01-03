@@ -12,5 +12,5 @@ Section 529 of Pub. L. 96–221 provided that the repeal of this section is effe
 
 #### Savings Provision
 
-Section 529 of Pub. L. 96–221 provided that, notwithstanding the repeal of Pub. L. 96–104 and title II of Pub.L. 96–161, this section \[which had been enacted by those laws\] shall continue to apply to any loan made, any deposit made, or any obligation issued in any State during any period when this section was in effect in such State.
+Section 529 of Pub. L. 96–221 provided that, notwithstanding the repeal of Pub. L. 96–104 and title II of Pub. L. 96–161, this section \[which had been enacted by thoselaws\] shall continue to apply to any loan made, any deposit made, or any obligation issued in any State during any period when this section was in effect in such State.
 

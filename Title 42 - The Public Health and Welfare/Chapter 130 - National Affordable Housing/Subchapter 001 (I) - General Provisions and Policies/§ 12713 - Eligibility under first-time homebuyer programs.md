@@ -26,7 +26,7 @@ For purposes of this section:
 
 #### (2) First-time homebuyer
 
-&emsp;The term “first-time homebuyer” means an individual who has never, or has not during aspecified period of time, had any present ownership interest in a principal residence.
+&emsp;The term “first-time homebuyer” means an individual who has never, or has not during a specified period of time, had any present ownership interest in a principal residence.
 
 #### (3) Single parent
 

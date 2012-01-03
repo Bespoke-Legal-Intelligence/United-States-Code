@@ -90,7 +90,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (a)(2)(A). Pub. L. 110–246, §11012(b)(1), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “The Secretary shall have power to issue a subpoena to compel the attendance and testimony of any witness and the production of any documentary evidence relating to the administration or enforcement of this chapter or any matter under investigation in connection with this chapter.”
+<b>2008</b>—Subsec. (a)(2)(A). Pub. L. 110–246, §11012(b)(1), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “The Secretary shall have power to issue a subpoena to compel the attendance and testimony of any witness and the production of any documentary evidence relating to the administration or enforcement of this chapter or any matter under investigation in connection with this chapter.”
 
 Subsec. (a)(2)(B). Pub. L. 110–246, §11012(b)(2), struck out “documentary” before “evidence”.
 

@@ -8,6 +8,10 @@ For purposes of this Act, the terms “independent states of the former Soviet U
 
 This Act, referred to in text, is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 3320, as amended, known as the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992 and also as the FREEDOM Support Act. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
+#### Short Title of 2012 Amendment
+
+Pub. L. 112–82, §1, Jan. 3, 2012, 125 Stat. 1863, provided that: “This Act \[amending provisions set out as a note under section 5811 of this title\] may be cited as the ‘Belarus Democracy and Human Rights Act of 2011’.”
+
 #### Short Title of 2007 Amendment
 
 Pub. L. 109–480, §1, Jan. 12, 2007, 120 Stat. 3666, provided that: “This Act \[enacting and amending provisions set out as notes under section 5811 of this title\] may be cited as the ‘Belarus Democracy Reauthorization Act of 2006’.”
@@ -18,7 +22,7 @@ Pub. L. 103–199, §1, Dec. 17, 1993, 107 Stat. 2317, provided that: “This Ac
 
 #### Short Title
 
-Section 1 of Pub. L. 102–511 provided that: “This Act \[enacting this chapter and sections 282m, 282n, 286e–1<i>l</i>, 286e–5b, 286e–13, 286<i>ll</i>, 286mm, 288j, 2295 to 2295c, and 5402 of this title, amending sections 262d, 2370, 2507, and 4903 of this title and sections 1736<i>o</i>, 3293, 5602, 5621, 5622, and5651 of Title 7, Agriculture, enacting provisions set out as notes under sections 2295a, 2452, 2753, 4903, and 5812 of this title, section 5621 of Title 7, and section 955 of Title 18, Crimes and Criminal Procedure, amending provisions set out as notes under section 2452 of this title, section 5622 of Title 7, and sections 1157 and 1255 of Title 8, Aliens and Nationality, and repealing provisions set out as a note under section 2452 of this title\] may be cited as the ‘Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992’ or the ‘FREEDOM Support Act’.”
+Section 1 of Pub. L. 102–511 provided that: “This Act \[enacting this chapter and sections 282m, 282n, 286e–1<i>l</i>, 286e–5b, 286e–13, 286<i>ll</i>, 286mm, 288j, 2295 to 2295c, and 5402 of this title, amending sections 262d, 2370, 2507, and 4903 of this title and sections 1736<i>o</i>, 3293, 5602, 5621, 5622, and 5651 of Title 7, Agriculture, enacting provisions set out as notes under sections 2295a, 2452, 2753, 4903, and 5812 of this title, section 5621 of Title 7, and section 955 of Title 18, Crimes and Criminal Procedure, amending provisions set out as notes under section 2452 of this title, section 5622 of Title 7, and sections 1157 and 1255 of Title 8, Aliens and Nationality, and repealing provisions set out as a note under section 2452 of this title\] may be cited as the ‘Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992’ or the ‘FREEDOM Support Act’.”
 
 #### Policy of Friendship and Cooperation
 

@@ -26,7 +26,7 @@
 
 #### (C) Use of basic formula
 
-&emsp;&emsp;The basic formula established under subparagraph (A) shall be used for all formula allocations and reallocations provided for in this part.
+&emsp;&emsp;The basic formula established under subparagraph (A) shall be used for all formulaallocations and reallocations provided for in this part.
 
 #### (D) Weights
 
@@ -94,7 +94,7 @@ The Secretary shall establish objective criteria for making direct reallocations
 
 #### (2) Commitments
 
-&emsp;The Secretary shall establish procedures according to which participating jurisdictions may make commitments to invest funds madeavailable under this section. Such procedures shall provide for appropriate stages of commitment of funds to a project from initial reservation through binding commitment. Notwithstanding any other provision of this subchapter, funds that the Secretary determines are needed to fulfill binding commitments shall not be available for reallocation.
+&emsp;The Secretary shall establish procedures according to which participating jurisdictions may make commitments to invest funds made available under this section. Such procedures shall provide for appropriate stages of commitment of funds to a project from initial reservation through binding commitment. Notwithstanding any other provision of this subchapter, funds that the Secretary determines are needed to fulfill binding commitments shall not be available for reallocation.
 
 #### (3) Limitation
 
@@ -128,7 +128,7 @@ In general.—For each fiscal year, of any amount approved in an appropriations 
 
 “(B)
 
-Specific criteria.—The Secretary shall provide for the distribution of amounts reserved under this paragraph among the insular areas in accordance with specific criteria to be set forth in a regulation promulgated by the Secretary after notice and public comment.
+Specific criteria.—The Secretary shall provide for the distribution of amounts reserved under this paragraph among the insular areas in accordance withspecific criteria to be set forth in a regulation promulgated by the Secretary after notice and public comment.
 
 “(C)
 

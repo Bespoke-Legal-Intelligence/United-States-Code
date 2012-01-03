@@ -236,7 +236,7 @@ Flexible Funding for States With a Strategic Highway Safety Plan.—
 
 &emsp;(1)
 
-In general.—To further the implementation of a State strategic highway safety plan, a State may use up to 10 percent of the amount of funds apportioned to the State under section 104(b)(5) for a fiscal year to carry out safety projects under any other section as provided in the State strategic highway safety plan if the State certifies that—
+In general.—To further the implementation of a State strategic highway safety plan, a State may use up to 10 percent of the amount of funds apportioned to the Stateunder section 104(b)(5) for a fiscal year to carry out safety projects under any other section as provided in the State strategic highway safety plan if the State certifies that—
 
 &emsp;&emsp;(A) the State has met needs in the State relating to railway-highway crossings; and
 
@@ -340,5 +340,5 @@ In general.—Before October 1 of the second fiscal year after the date of enact
 
 &emsp;“(B)
 
-No strategic highway safety plan.—If a State has not developed a strategic highway safety plan by October 1, 2007, the State shall receive for the highway safety improvement program for each subsequent fiscal year until the date of development of such plan an amount that equals the amount apportioned to the State for that program for fiscal year 2007.”
+No strategic highway safety plan.—If a State has not developed a strategic highway safety plan by October 1, 2007, the State shall receive for thehighway safety improvement program for each subsequent fiscal year until the date of development of such plan an amount that equals the amount apportioned to the State for that program for fiscal year 2007.”
 

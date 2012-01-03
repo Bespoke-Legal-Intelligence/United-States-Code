@@ -102,7 +102,7 @@ There is established within the Department of the Treasury the Internal Revenue 
 
 #### (A) In general
 
-&emsp;&emsp;Any member of the Oversight Board appointed under subparagraph (A) or (D) ofparagraph (1) may be removed at the will of the President.
+&emsp;&emsp;Any member of the Oversight Board appointed under subparagraph (A) or (D) of paragraph (1) may be removed at the will of the President.
 
 #### (B) Secretary and Commissioner
 
@@ -216,7 +216,7 @@ The Oversight Board shall have the following specific responsibilities:
 
 #### (B) Chairperson
 
-&emsp;&emsp;In lieu of the amount specified in subparagraph (A), the Chairperson of the OversightBoard shall be compensated at a rate of $50,000 per year.
+&emsp;&emsp;In lieu of the amount specified in subparagraph (A), the Chairperson of the Oversight Board shall be compensated at a rate of $50,000 per year.
 
 #### (2) Travel expenses
 

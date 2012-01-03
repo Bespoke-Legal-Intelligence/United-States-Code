@@ -10,7 +10,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Chapter 9 of the House amendment represents a compromise between chapter 9 of the House bill and 9 of the Senate amendment. In most respects this chapter follows current law with respect to the adjustment of debts of a municipality. Stylistic changes and minor substantive revisions have been made in order to conform this chapter with other new chapters of the bankruptcy code. There are few major differences between the House bill and the Senate amendment on this issue. Section 901 indicates the applicability of other sections of title 11 in cases under chapter 9. Included are sections providing for creditors’ committees under sections 1102 and 1103.
 
@@ -28,7 +28,7 @@ Section 901 makes applicable appropriate provisions of other chapters of propose
 
 <i>§361. Adequate protection</i>. Section 361 provides the general standard for the protection of secured creditors whose property is used in a case under title 11. Its importance lies in its application to sections 362 and 364.
 
-<i>§362. Automatic stay</i>. The automatic stay provisions of the general portions of the title are incorporated into chapter 9. There is an automatic stay provided in current Bankruptcy Act §85(e) \[section 405(e) of former title 11\]. The thrust of section 362 is the same as thatof section 85(e), but, of course, its application in chapter 9 is modernized and drafted to conform with the stay generally applicable under the bankruptcy code. An additional part of the automatic stay applicable only to municipal cases is included in section 922.
+<i>§362. Automatic stay</i>. The automatic stay provisions of the general portions of the title are incorporated intochapter 9. There is an automatic stay provided in current Bankruptcy Act §85(e) \[section 405(e) of former title 11\]. The thrust of section 362 is the same as that of section 85(e), but, of course, its application in chapter 9 is modernized and drafted to conform with the stay generally applicable under the bankruptcy code. An additional part of the automatic stay applicable only to municipal cases is included in section 922.
 
 <i>§§364(c), 364(d), 364(e). Obtaining credit</i>. This section governs the borrowing of money by a municipality in reorganization. It is narrower than a comparable provision in current law, section 82(b)(2) \[section 402(b)(2) of former title 11\]. The difference lies mainly in the removal under the bill of the authority of the court to supervise borrowing by the municipality in instances in which none of the special bankruptcy powers are involved. That is, if a municipality could borrow money outside of the bankruptcy court, then it should have the same authority in bankruptcy court, under the doctrine of <i>Ashton v. Cameron Water District No. 1</i>, 298 U.S. 513 (1936) \[Tex.1936, 56 S.Ct. 892, 80 L.Ed. 1309, 31 Am.Bankr.Rep.N.S. 96, rehearing denied 57 S.Ct. 5, 299 U.S. 619, 81 L.Ed. 457\] and <i>National League of Cities v. Usery</i>, 426 U.S. 833 (1976) \[Dist.Col.1976, 96 S.Ct. 2465, 49 L.Ed.2d 245, on remand 429 F. Supp. 703\]. Only when the municipality needs special authority, such as subordination of existing liens, or special priority for the borrowed funds, will the court become involved in the authorization.
 
@@ -90,17 +90,17 @@ Section 103(e) of this title, referred to in subsec. (b), was redesignated secti
 
 #### Amendments
 
-2010—Subsec. (a). Pub. L. 111–327 inserted “333,” after “301,” and “351,” after “350(b)”.
+<b>2010</b>—Subsec. (a). Pub. L. 111–327 inserted “333,” after “301,” and “351,” after “350(b)”.
 
-2005—Subsec. (a). Pub. L. 109–8, §1502(a)(5), substituted “507(a)(2)” for “507(a)(1)”.
+<b>2005</b>—Subsec. (a). Pub. L. 109–8, §1502(a)(5), substituted “507(a)(2)” for “507(a)(1)”.
 
 Pub. L. 109–8, §1216, inserted “1123(d),” after “1123(b),”.
 
 Pub. L. 109–8, §502, inserted “555, 556,” after “553,” and “559, 560, 561, 562,” after “557,”.
 
-1988—Subsec. (a). Pub. L. 100–597 inserted “1129(a)(6),” after “1129(a)(3),”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–597 inserted “1129(a)(6),” after “1129(a)(3),”.
 
-1984—Subsec. (a). Pub. L. 98–353 inserted “557,” after “553,” and substituted “1111(b),” for “1111(b)”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–353 inserted “557,” after “553,” and substituted “1111(b),” for “1111(b)”.
 
 #### Effective Date of 2005 Amendment
 

@@ -4,7 +4,7 @@
 
 The Congress finds the following:
 
-&emsp;(1) The rehabilitation, reclamation, and beautification of urban public housing, recreational sites, youth and senior centers, and public roads and public works facilities through the efforts of young people in the United States in an Urban Youth Corps can benefit these youths, while also benefiting their communities, by—
+&emsp;(1) The rehabilitation, reclamation, and beautification of urban public housing, recreational sites, youth and senior centers, and public roads and public works facilities through the efforts of young people in the United States in an Urban Youth Corps canbenefit these youths, while also benefiting their communities, by—
 
 &emsp;&emsp;(A) providing them with education and work opportunities;
 
@@ -26,7 +26,7 @@ It is the purpose of this section—
 
 &emsp;(2) to assist government housing, public works, and transportation authorities and agencies;
 
-&emsp;(3) to expose young people in the United States to public service while furthering theirunderstanding and appreciation of their community;
+&emsp;(3) to expose young people in the United States to public service while furthering their understanding and appreciation of their community;
 
 &emsp;(4) to expand educational opportunity for individuals who participate in the Urban Youth Corps established by this section by providing them with an increased ability to pursue postsecondary education or job training; and
 
@@ -74,7 +74,7 @@ For purposes of this section:
 
 #### (3) Service projects
 
-&emsp;The Secretaries may each utilize the Corps or any qualified urban youth corps to carry out appropriate service projects that the Secretary involved is authorized to carry out under other authority of law involving public housing projects or public works resources or facilities.
+&emsp;The Secretaries may each utilize the Corps or any qualified urban youth corps to carryout appropriate service projects that the Secretary involved is authorized to carry out under other authority of law involving public housing projects or public works resources or facilities.
 
 #### (4) Preference for certain projects
 
@@ -100,7 +100,7 @@ The Secretaries shall provide each participant in the Urban Youth Corps with a l
 
 #### (f) Terms of service
 
-Each participant in the Urban Youth Corps shall agree to participate in the Corps for a termof service established by the Secretary involved, consistent with the terms of service required under section 139(b) of the National and Community Service Act of 1990 \[42 U.S.C. 12593(b)\] for participants in a national service program assisted under subtitle C of title I of such Act \[42 U.S.C. 12571 et seq.\].
+Each participant in the Urban Youth Corps shall agree to participate in the Corps for a term of service established by the Secretary involved, consistent with the terms of service required under section 139(b) of the National and Community Service Act of 1990 \[42 U.S.C. 12593(b)\] for participants in a national service program assisted under subtitle C of title I of such Act \[42 U.S.C. 12571 et seq.\].
 
 #### (g) Educational awards
 

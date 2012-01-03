@@ -8,7 +8,7 @@ The Congress finds and declares the following:
 
 &emsp;(3) An expertly staffed and adequately financed earthquake hazards reduction program, based on Federal, State, local, and private research, planning, decisionmaking, and contributions would reduce the risk of such loss, destruction, and disruption in seismic areas by an amount far greater than the cost of such program.
 
-&emsp;(4) A well-funded seismological research program in earthquake prediction could providedata adequate for the design, of an operational system that could predict accurately the time, place, magnitude, and physical effects of earthquakes in selected areas of the United States.
+&emsp;(4) A well-funded seismological research program in earthquake prediction could provide data adequate for the design, of an operational system that could predict accurately the time, place, magnitude, and physical effects of earthquakes in selected areas of the United States.
 
 &emsp;(5) The geological study of active faults and features can reveal how recently and how frequently major earthquakes have occurred on those faults and how much risk they pose. Such long-term seismic risk assessments are needed in virtually every aspect of earthquake hazards management, whether emergency planning, public regulation, detailed building design, insurance rating, or investment decision.
 

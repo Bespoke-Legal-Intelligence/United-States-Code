@@ -28,7 +28,7 @@ Conforming Budget and Planning Transfers.—When a ballistic missile defense pro
 
 Follow-on Research, Development, Test, and Evaluation.—The Secretary of Defense shall ensure that, before a ballistic missile defense program is transferred from the Director of the Missile Defense Agency to the Secretary of a military department, roles and responsibilities for research, development, test, and evaluation related to system improvements for that program are clearly delineated.
 
-(Added Pub. L. 105–85, div. A, title II, §232(a)(1), Nov. 18, 1997, 111 Stat. 1662; amended Pub. L. 107–107, div. A, title II, §231(a), (b)(1), Dec. 28, 2001, 115 Stat. 1035, 1036; Pub. L. 107–314, div. A,title II, §§222, 225(b)(1)(A), Dec. 2, 2002, 116 Stat. 2485, 2486; Pub. L. 108–136, div. A, title II, §226, title X, §1043(b)(4), Nov. 24, 2003, 117 Stat. 1421, 1611.)
+(Added Pub. L. 105–85, div. A, title II, §232(a)(1), Nov. 18, 1997, 111 Stat. 1662; amended Pub. L. 107–107, div. A, title II, §231(a), (b)(1), Dec. 28, 2001, 115 Stat. 1035, 1036; Pub. L. 107–314, div. A, title II, §§222, 225(b)(1)(A), Dec. 2, 2002, 116 Stat. 2485, 2486; Pub. L. 108–136, div. A, title II, §226, title X, §1043(b)(4), Nov. 24, 2003, 117 Stat. 1421, 1611.)
 
 #### Amendments
 

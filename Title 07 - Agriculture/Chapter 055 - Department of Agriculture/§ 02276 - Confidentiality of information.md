@@ -6,7 +6,7 @@ In the case of information furnished under a provision of law referred to in sub
 
 &emsp;(1) use such information for a purpose other than the development or reporting of aggregate data in a manner such that the identity of the person who supplied such information is not discernible and is not material to the intended uses of such information;
 
-&emsp;(2) disclose such information to the public, unless such information has been transformed into a statistical or aggregate form that does not allow the identification of the person who supplied particular information; or
+&emsp;(2) disclose such information to the public, unless such information has been transformed into a statistical or aggregate form that doesnot allow the identification of the person who supplied particular information; or
 
 &emsp;(3) in the case of information collected under the authority described in subsection (d)(12) of this section, disclose the information to any person or any Federal, State, local, or tribal agency outside the Department of Agriculture, unless the information has been converted into a statistical or aggregate form that does not allow the identification of the person that supplied particular information.
 
@@ -60,13 +60,13 @@ This section shall not prohibit the release of information under section 2204g(f
 
 #### Amendments
 
-2002—Subsec. (a)(3). Pub. L. 107–171, §2004(b)(1), added par. (3).
+<b>2002</b>—Subsec. (a)(3). Pub. L. 107–171, §2004(b)(1), added par. (3).
 
 Subsec. (d)(12). Pub. L. 107–171, §2004(b)(2), added par. (12).
 
-1999—Subsec. (d)(10), (11). Pub. L. 106–113 added par. (10) and redesignated former par. (10) as (11).
+<b>1999</b>—Subsec. (d)(10), (11). Pub. L. 106–113 added par. (10) and redesignated former par. (10) as (11).
 
-1997—Subsec. (d)(10). Pub. L. 105–113, §4(a)(2), added par. (10).
+<b>1997</b>—Subsec. (d)(10). Pub. L. 105–113, §4(a)(2), added par. (10).
 
 Subsec. (e). Pub. L. 105–113, §4(b), added subsec. (e).
 

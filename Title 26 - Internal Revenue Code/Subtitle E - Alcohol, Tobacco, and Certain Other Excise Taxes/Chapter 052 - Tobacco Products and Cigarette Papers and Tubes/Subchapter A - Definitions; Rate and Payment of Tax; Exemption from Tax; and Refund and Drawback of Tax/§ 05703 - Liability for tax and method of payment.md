@@ -44,7 +44,7 @@
 
 #### (C) Tobacco products and cigarette papers and tubes brought into the United States from Puerto Rico
 
-&emsp;&emsp;In the case of tobacco products and cigarette papers and tubes which are broughtinto the United States from Puerto Rico, the last day for payment of tax shall be the 14th day after the last day of the semimonthly period during which the article is brought into the United States.
+&emsp;&emsp;In the case of tobacco products and cigarette papers and tubes which are brought into the United States from Puerto Rico, the last day for payment of tax shall be the 14th day after the last day of the semimonthly period during which the article is brought into the United States.
 
 #### (D) Special rule for tax due in September
 

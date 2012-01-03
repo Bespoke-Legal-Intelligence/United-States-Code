@@ -6,7 +6,7 @@ Farm marketing quotas for wheat shall not be transferable, but, in accordance wi
 
 #### Amendments
 
-1985—Pub. L. 99–198 amended section generally, temporarily substituting provisions for voluntary surrender of any part of a farm marketing quota by the producer and reallocation by the Secretary to other farms having farm marketing quotas for provisions authorizing allocation of excess quotas to other farms on which the acreage allotment had not been exceeded. See Effective and Termination Dates of 1985 Amendment note below.
+<b>1985</b>—Pub. L. 99–198 amended section generally, temporarily substituting provisions for voluntary surrender of any part of a farm marketing quota by the producer and reallocation by the Secretary to other farms having farm marketing quotas for provisions authorizing allocation of excess quotas to other farms on which the acreage allotment had not been exceeded. See Effective and Termination Dates of 1985 Amendment note below.
 
 #### Effective and Termination Dates of 1985 Amendment
 

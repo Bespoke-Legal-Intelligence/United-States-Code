@@ -12,7 +12,7 @@ The Secretary of the Treasury (in this section referred to as the â€œSecretaryâ€
 
 #### (2) Development of multimedia campaign
 
-&emsp;The Secretary, after review of the recommendations of the Commission, shall develop,in consultation with nonprofit, public, or private organizations, especially those that are well qualified by virtue of their experience in the field of financial literacy and education, to develop the financial literacy national public service multimedia campaign.
+&emsp;The Secretary, after review of the recommendations of the Commission, shall develop, in consultation with nonprofit, public, or private organizations, especially those that are well qualified by virtue of their experience in the field of financial literacy and education, to develop the financial literacy national public service multimedia campaign.
 
 #### (3) Focus of campaign
 

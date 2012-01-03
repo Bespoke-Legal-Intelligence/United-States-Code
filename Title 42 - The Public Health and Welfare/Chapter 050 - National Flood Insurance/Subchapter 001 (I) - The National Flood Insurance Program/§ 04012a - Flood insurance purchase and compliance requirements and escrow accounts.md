@@ -8,7 +8,7 @@ After the expiration of sixty days following December 31, 1973, no Federal offic
 
 #### (1) Regulated lending institutions
 
-&emsp;Each Federal entity for lending regulation (after consultation and coordination with the Financial Institutions Examination Council established under the Federal Financial Institutions Examination Council Act of 1974 \[12 U.S.C. 3301 et seq.\]) shall by regulation direct regulated lending institutions not to make, increase, extend, or renew any loan secured by improved real estate or a mobile home located or to be located in an area that has been identified by the Director as an area having special flood hazards and in which flood insurance has been made available under the National Flood Insurance Act of 1968 \[42 U.S.C. 4001 et seq.\], unless the building or mobile home and any personal property securing such loan is covered for the term of the loan by flood insurance in an amount at least equal to the outstanding principal balance of the loan or the maximum limit of coverage made available under the Act with respect to the particular type of property, whichever is less.
+&emsp;Each Federal entity for lending regulation (after consultation and coordination with theFinancial Institutions Examination Council established under the Federal Financial Institutions Examination Council Act of 1974 \[12 U.S.C. 3301 et seq.\]) shall by regulation direct regulated lending institutions not to make, increase, extend, or renew any loan secured by improved real estate or a mobile home located or to be located in an area that has been identified by the Director as an area having special flood hazards and in which flood insurance has been made available under the National Flood Insurance Act of 1968 \[42 U.S.C. 4001 et seq.\], unless the building or mobile home and any personal property securing such loan is covered for the term of the loan by flood insurance in an amount at least equal to the outstanding principal balance of the loan or the maximum limit of coverage made available under the Act with respect to the particular type of property, whichever is less.
 
 #### (2) Federal agency lenders
 
@@ -88,7 +88,7 @@ After the expiration of sixty days following December 31, 1973, no Federal offic
 
 #### (A) In general
 
-&emsp;&emsp;The borrower and lender for a loan secured by improved real estate or a mobile homemay jointly request the Director to review a determination of whether the building or mobile home is located in an area having special flood hazards. Such request shall be supported by technical information relating to the improved real estate or mobile home. Not later than 45 days after the Director receives the request, the Director shall review the determination and provide to the borrower and the lender with a letter stating whether or not the building or mobile home is in an area having special flood hazards. The determination of the Director shall be final.
+&emsp;&emsp;The borrower and lender for a loan secured by improved real estate or a mobile home may jointly request the Director to review a determination of whether the building or mobile home is located in an area having special flood hazards. Such request shall be supported by technical information relating to the improved real estate or mobile home. Not later than 45 days after the Director receives the request, the Director shall review the determination and provide to the borrower and the lender with a letter stating whether or not the building or mobile home is in an area having special flood hazards. The determination of the Director shall be final.
 
 #### (B) Effect of determination
 
@@ -126,7 +126,7 @@ After the expiration of sixty days following December 31, 1973, no Federal offic
 
 #### (A) In general
 
-&emsp;&emsp;If the Federal National Mortgage Association or the Federal Home Loan Mortgage Corporation is found by the Director of the Federal Housing Finance Agency to have a pattern or practice of purchasing loans in violation of the procedures established pursuant to subsection (b)(3) of this section, the Director of such Office <sup>2</sup> shall assess a civil penalty against such enterprise in the amount provided under paragraph (5) of this subsection.
+&emsp;&emsp;If the Federal National Mortgage Association or the Federal Home Loan Mortgage Corporation is found by the Director of the Federal Housing Finance Agency to have a pattern or practice of purchasing loans in violation of the procedures established pursuant to subsection (b)(3) of this section, the Director of such Office <sup>2</sup> shall assess a civilpenalty against such enterprise in the amount provided under paragraph (5) of this subsection.
 
 #### (B) “Enterprise” defined
 

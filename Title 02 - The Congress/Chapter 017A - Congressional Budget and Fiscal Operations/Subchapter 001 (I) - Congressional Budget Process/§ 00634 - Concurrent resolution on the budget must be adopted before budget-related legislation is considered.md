@@ -44,9 +44,9 @@ Section was formerly classified to section 1324 of Title 31 prior to the general
 
 #### Amendments
 
-1997—Pub. L. 105–33 amended section catchline and text generally. Prior to amendment, text provided that concurrent resolution on the budget must be adopted before legislation providing new budget authority, new spending authority, new credit authority, or changes in revenues or public debt limit could be considered.
+<b>1997</b>—Pub. L. 105–33 amended section catchline and text generally. Prior to amendment, text provided thatconcurrent resolution on the budget must be adopted before legislation providing new budget authority, new spending authority, new credit authority, or changes in revenues or public debt limit could be considered.
 
-1990—Subsec. (a). Pub. L. 101–508, §13207(a)(1)(C), substituted “bill, joint resolution, amendment, motion, or conference report” for “bill or resolution (or amendment thereto)”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–508, §13207(a)(1)(C), substituted “bill, joint resolution, amendment, motion, or conference report” for “bill or resolution (or amendment thereto)”.
 
 Pub. L. 101–508, §13205(a)(4), inserted “(or, in the Senate, a concurrent resolution on the budget covering such fiscal year)” after “fiscal year” in closing provisions.
 
@@ -54,7 +54,7 @@ Subsec. (a)(5), (6). Pub. L. 101–508, §13205(a)(1)–(3), added pars. (5) and
 
 Subsec. (b). Pub. L. 101–508, §13205(b), designated existing provisions as par. (1) and substituted “In the House of Representatives, subsection (a)” for “Subsection (a)”, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
 
-1985—Pub. L. 99–177 inserted reference to new credit authority in section catchline.
+<b>1985</b>—Pub. L. 99–177 inserted reference to new credit authority in section catchline.
 
 Subsec. (a). Pub. L. 99–177 amended subsec. (a) generally, substituting provisions respecting new entitlement authority or new credit authority, for provisions respecting new spending authority.
 
@@ -64,5 +64,5 @@ Subsec. (c). Pub. L. 99–177 amended subsec. (c) generally, inserting reference
 
 #### Effective Date of 1985 Amendment
 
-Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, set out as an Effective and Termination Dates note under section 900 of this title.
+Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of this title prior to repeal by Pub. L. 112–25, title I, §104(a), Aug. 2, 2011, 125 Stat. 246.
 

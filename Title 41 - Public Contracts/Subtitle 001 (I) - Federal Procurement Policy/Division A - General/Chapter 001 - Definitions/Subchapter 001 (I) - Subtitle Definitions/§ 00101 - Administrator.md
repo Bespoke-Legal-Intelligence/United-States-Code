@@ -66,9 +66,9 @@ Pub. L. 93–400, §1(a), Aug. 30, 1974, 88 Stat. 796, as amended by Pub. L. 103
 
 #### Short Title of 1949 Act
 
-Act June 30, 1949, ch. 288, §1(a), 63 Stat. 377, as amended by Pub. L. 103–355, title X, §10005(a)(2), Oct. 13, 1994, 108 Stat. 3406; Pub. L. 107–217, §6(b), Aug. 21, 2002, 116 Stat. 1304; Pub. L. 108–178, §2(b)(1), Dec. 15, 2003, 117 Stat. 2640, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Federal Property and Administrative Services Act of 1949’.”
+Act June 30, 1949, ch. 288, §1(a), 63 Stat. 377, as amended by Pub. L. 103–355, title X, §10005(a)(2), Oct. 13, 1994,108 Stat. 3406; Pub. L. 107–217, §6(b), Aug. 21, 2002, 116 Stat. 1304; Pub. L. 108–178, §2(b)(1), Dec. 15, 2003, 117 Stat. 2640, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Federal Property and Administrative Services Act of 1949’.”
 
-\[Pub. L. 107–217, §6(b), which had repealed section 1(a) of act June 30, 1949, set out above, was itself repealed effective Aug. 21, 2002, by Pub. L. 108–178, §2(b)(1), insofar as it related to section 1(a) of act June 30, 1949, andPub. L. 108–178, §2(b)(1), further provided that section 1(a) of act June 30, 1949, was revived to read as if Pub. L. 107–217, §6(b), had not been enacted.\]
+\[Pub. L. 107–217, §6(b), which had repealed section 1(a) of act June 30, 1949, set out above, was itself repealed effective Aug. 21, 2002, by Pub. L. 108–178, §2(b)(1), insofar as it related to section 1(a) of act June 30, 1949, and Pub. L. 108–178, §2(b)(1), further provided that section 1(a) of act June 30, 1949, was revived to read as if Pub. L. 107–217, §6(b), had not been enacted.\]
 
 #### Short Title of 1936 Act
 

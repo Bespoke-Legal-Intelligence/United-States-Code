@@ -1,8 +1,10 @@
 ### §3105. Duration of rehabilitation programs
 
-(a) In any case in which the Secretary is unable to determine whether it currently is reasonably feasible for a veteran to achieve a vocational goal, the period of extended evaluation under section 3106(c) of this title may not exceed twelve months, except that such period may be extended for additional periods of up to sixmonths each if the Secretary determines before granting any such extension that it is reasonably likely that, during the period of any such extension, a determination can be made whether the achievement of a vocational goal is reasonably feasible in the case of such veteran.
+(a) In any case in which the Secretary is unable to determine whether it currently is reasonably feasible for a veteran to achieve a vocational goal, the period of extended evaluation under section 3106(c) of this title may not exceed twelve months, except that such period may be extended for additional periods of up to six months each if the Secretary determines before granting any such extension that it is reasonably likely that, during the period of any such extension, a determination can be made whether the achievement of a vocational goal is reasonably feasible in the case of such veteran.
 
-(b) Except as provided in subsection (c) of this section, the period of a vocational rehabilitation program for a veteran under this chapter following a determination of the current reasonable feasibility of achieving a vocational goal may not exceed forty-eight months, except that the counseling and placement and postplacement services described in section 3104(a)(2) and (5) of this title may be provided for an additional period not to exceed eighteen months in any case in which the Secretary determines the provision of such counseling and services to be necessary to accomplish the purposes of a rehabilitation program in the individual case.
+(b)(1) Except as provided in paragraph (2) and in subsection (c), the period of a vocational rehabilitation program for a veteran under this chapter following a determination of the current reasonable feasibility of achieving a vocational goal may not exceed forty-eight months, except that the counseling and placement and postplacement services described in section 3104(a)(2) and (5) of this title may be provided for an additional period not to exceed eighteen months in any case in which the Secretary determines the provision of such counseling and services to be necessary to accomplish the purposes of a rehabilitation program in the individual case.
+
+(2) The period of a vocational rehabilitation program pursued by a veteran under section 3102(b) of this title following a determination of the current reasonable feasibility of achieving a vocational goal may not exceed 12 months.
 
 (c) The Secretary may extend the period of a vocational rehabilitation program for a veteran to the extent that the Secretary determines that an extension of such period is necessary to enable such veteran to achieve a vocational goal if the Secretary also determines—
 
@@ -30,13 +32,15 @@
 
 (3) The period for which, by reason of this subsection, a subsistence allowance and other assistance is not charged against entitlement or counted toward the applicable aggregate period under section 3695 of this title shall be the period of participation in the vocational rehabilitation program for which the veteran failed to receive credit or with respect to which the veteran lost training time, as determined by the Secretary.
 
-(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2176, §1505; amended Pub. L. 99–576, title III, §333(b)(3), Oct. 28, 1986, 100 Stat. 3279; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3105 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–275, title I, §101(e), Oct. 9, 1996, 110 Stat. 3324; Pub. L. 107–103, title I, §103(c)(1), Dec. 27, 2001, 115 Stat. 979; Pub. L. 110–389, title III, §331, Oct. 10, 2008, 122 Stat. 4170.)
+(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2176, §1505; amended Pub. L. 99–576, title III, §333(b)(3), Oct. 28, 1986, 100 Stat. 3279; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3105 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–275, title I, §101(e), Oct. 9, 1996, 110 Stat. 3324; Pub. L. 107–103, title I, §103(c)(1), Dec. 27, 2001, 115 Stat. 979; Pub. L. 110–389, title III, §331, Oct. 10, 2008, 122 Stat. 4170; Pub. L. 112–56, title II, §233(a)(2), Nov. 21, 2011, 125 Stat. 720.)
 
 #### Prior Provisions
 
 Prior section 3105 was renumbered section 5305 of this title.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (b). Pub. L. 112–56 designated existing provisions as par. (1), substituted “Except as providedin paragraph (2) and in subsection (c)” for “Except as provided in subsection (c) of this section”, and added par. (2).
 
 <b>2008</b>—Subsec. (d). Pub. L. 110–389 substituted “(1) Except as provided in paragraph (2),” for “Unless the Secretary determines that a longer period is necessary and likely to result in a substantial increase in a veteran's level of independence in daily living,” and added par. (2).
 
@@ -57,6 +61,10 @@ Subsec. (b). Pub. L. 102–83, §5(c)(1), substituted “3104(a)(2)” for “15
 Subsec. (b). Pub. L. 99–576, §333(b)(3)(B), inserted “current” after “of the”.
 
 Subsec. (d). Pub. L. 99–576, §333(b)(3)(C), inserted “currently” after “goal”.
+
+#### Effective Date of 2011 Amendment
+
+Amendment by Pub. L. 112–56 effective June 1, 2012, and applicable with respect to rehabilitation programs beginning after such date, see section 233(c) of Pub. L. 112–56, set out as a note under section 3102 of this title.
 
 #### Effective Date of 2001 Amendment
 

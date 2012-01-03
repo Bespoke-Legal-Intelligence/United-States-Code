@@ -26,7 +26,7 @@
 
 #### (1) Grants
 
-&emsp;The Secretary shall award competitive grants to States for the establishment ofState- or multistate-level primary care Primary Care Extension Program State Hubs (referred to in this section as “Hubs”).
+&emsp;The Secretary shall award competitive grants to States for the establishment of State- or multistate-level primary care Primary Care Extension Program State Hubs (referred to in this section as “Hubs”).
 
 #### (2) Composition of Hubs
 
@@ -98,7 +98,7 @@
 
 #### (4) Continuing support
 
-&emsp;After the sixth year in which assistance is provided to a State under a grant awarded under subsection (b), the State may receive additional support under this section if the State program has received satisfactory evaluations with respect to program performanceand the merits of the State sustainability plan, as determined by the Secretary.
+&emsp;After the sixth year in which assistance is provided to a State under a grant awarded under subsection (b), the State may receive additional support under this section if the State program has received satisfactory evaluations with respect to program performance and the merits of the State sustainability plan, as determined by the Secretary.
 
 #### (5) Limitation
 

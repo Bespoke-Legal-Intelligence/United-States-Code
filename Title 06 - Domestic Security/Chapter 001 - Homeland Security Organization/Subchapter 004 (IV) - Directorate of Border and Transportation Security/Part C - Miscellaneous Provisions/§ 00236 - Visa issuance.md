@@ -44,7 +44,7 @@ Notwithstanding section 104(a) of the Immigration and Nationality Act (8 U.S.C. 
 
 &emsp;&emsp;(K) Section 401 of the Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996 \[22 U.S.C. 6091\].
 
-&emsp;&emsp;(L) Section 613 of the Departments of Commerce, Justice, and State, the Judiciary and Related Agencies Appropriations Act, 1999 <sup>3</sup> (as contained in section 101(b) of division A of Public Law 105–277) (Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999); 112 Stat. 2681; H.R. 4328 (originally H.R. 4276) as amended by section 617 of Public Law 106–553.
+&emsp;&emsp;(L) Section 613 of the Departments of Commerce, Justice, and State, the Judiciary andRelated Agencies Appropriations Act, 1999 <sup>3</sup> (as contained in section 101(b) of division A of Public Law 105–277) (Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999); 112 Stat. 2681; H.R. 4328 (originally H.R. 4276) as amended by section 617 of Public Law 106–553.
 
 &emsp;&emsp;(M) Section 103(f) of the Chemical Weapon Convention Implementation Act of 1998 \[22 U.S.C. 6713(f)\] (112 Stat. 2681–865).
 
@@ -164,7 +164,7 @@ Section 568 of the Foreign Operations, Export Financing, and Related Programs Ap
 
 #### Change of Name
 
-References to National Foreign Affairs Training Center considered to refer to George P. Shultz National Foreign Affairs Training Center, see section 1(b) of Pub. L. 107–132, set out as a note under section 4021 of this title.
+References to National Foreign Affairs Training Center considered to refer to George P. Shultz National Foreign Affairs Training Center, see section 1(b) of Pub. L. 107–132, set out as a note under section 4021 of Title 22, Foreign Relations and Intercourse.
 
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

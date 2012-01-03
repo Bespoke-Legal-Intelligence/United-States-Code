@@ -30,7 +30,7 @@ In this chapter:
 
 #### (5) Land use regulation
 
-&emsp;The term “land use regulation” means a zoning or landmarking law, or the applicationof such a law, that limits or restricts a claimant's use or development of land (including a structure affixed to land), if the claimant has an ownership, leasehold, easement, servitude, or other property interest in the regulated land or a contract or option to acquire such an interest.
+&emsp;The term “land use regulation” means a zoning or landmarking law, or the application of such a law, that limits or restricts a claimant's use or development of land (including a structure affixed to land), if the claimant has an ownership, leasehold, easement, servitude, or other property interest in the regulated land or a contract or option to acquire such an interest.
 
 #### (6) Program or activity
 

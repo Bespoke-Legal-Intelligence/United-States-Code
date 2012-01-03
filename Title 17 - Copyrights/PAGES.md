@@ -1,6 +1,6 @@
 # Printed pages - Title 17 - Copyrights
 
-GPO's 2010 edition (laws in effect as of 2011-01-07), from its printed page marks. The exact position of
+GPO's 2011 edition (laws in effect as of 2012-01-03), from its printed page marks. The exact position of
 every mark is in `_page-maps/USCODE-title17.json`. Page numbers belong to the printed edition and change
 from edition to edition; the section files hold the text only.
 
@@ -128,8 +128,8 @@ from edition to edition; the section files hold the text only.
 | [Chapter 012 - Copyright Protection and Management Systems](Chapter%20012%20-%20Copyright%20Protection%20and%20Management%20Systems/README.md) | 190 |
 | [&sect; 01201 - Circumvention of copyright protection systems](Chapter%20012%20-%20Copyright%20Protection%20and%20Management%20Systems/%C2%A7%2001201%20-%20Circumvention%20of%20copyright%20protection%20systems.md) | 190–194 |
 | [&sect; 01202 - Integrity of copyright management information](Chapter%20012%20-%20Copyright%20Protection%20and%20Management%20Systems/%C2%A7%2001202%20-%20Integrity%20of%20copyright%20management%20information.md) | 194–196 |
-| [&sect; 01203 - Civil remedies](Chapter%20012%20-%20Copyright%20Protection%20and%20Management%20Systems/%C2%A7%2001203%20-%20Civil%20remedies.md) | 196 |
-| [&sect; 01204 - Criminal offenses and penalties](Chapter%20012%20-%20Copyright%20Protection%20and%20Management%20Systems/%C2%A7%2001204%20-%20Criminal%20offenses%20and%20penalties.md) | 196–197 |
+| [&sect; 01203 - Civil remedies](Chapter%20012%20-%20Copyright%20Protection%20and%20Management%20Systems/%C2%A7%2001203%20-%20Civil%20remedies.md) | 196–197 |
+| [&sect; 01204 - Criminal offenses and penalties](Chapter%20012%20-%20Copyright%20Protection%20and%20Management%20Systems/%C2%A7%2001204%20-%20Criminal%20offenses%20and%20penalties.md) | 197 |
 | [&sect; 01205 - Savings clause](Chapter%20012%20-%20Copyright%20Protection%20and%20Management%20Systems/%C2%A7%2001205%20-%20Savings%20clause.md) | 197 |
 | [Chapter 013 - Protection of Original Designs](Chapter%20013%20-%20Protection%20of%20Original%20Designs/README.md) | 197 |
 | [&sect; 01301 - Designs protected](Chapter%20013%20-%20Protection%20of%20Original%20Designs/%C2%A7%2001301%20-%20Designs%20protected.md) | 197–198 |
@@ -141,12 +141,12 @@ from edition to edition; the section files hold the text only.
 | [&sect; 01307 - Effect of omission of notice](Chapter%20013%20-%20Protection%20of%20Original%20Designs/%C2%A7%2001307%20-%20Effect%20of%20omission%20of%20notice.md) | 199 |
 | [&sect; 01308 - Exclusive rights](Chapter%20013%20-%20Protection%20of%20Original%20Designs/%C2%A7%2001308%20-%20Exclusive%20rights.md) | 199 |
 | [&sect; 01309 - Infringement](Chapter%20013%20-%20Protection%20of%20Original%20Designs/%C2%A7%2001309%20-%20Infringement.md) | 199–200 |
-| [&sect; 01310 - Application for registration](Chapter%20013%20-%20Protection%20of%20Original%20Designs/%C2%A7%2001310%20-%20Application%20for%20registration.md) | 200 |
-| [&sect; 01311 - Benefit of earlier filing date in foreign country](Chapter%20013%20-%20Protection%20of%20Original%20Designs/%C2%A7%2001311%20-%20Benefit%20of%20earlier%20filing%20date%20in%20foreign%20country.md) | 200–201 |
+| [&sect; 01310 - Application for registration](Chapter%20013%20-%20Protection%20of%20Original%20Designs/%C2%A7%2001310%20-%20Application%20for%20registration.md) | 200–201 |
+| [&sect; 01311 - Benefit of earlier filing date in foreign country](Chapter%20013%20-%20Protection%20of%20Original%20Designs/%C2%A7%2001311%20-%20Benefit%20of%20earlier%20filing%20date%20in%20foreign%20country.md) | 201 |
 | [&sect; 01312 - Oaths and acknowledgments](Chapter%20013%20-%20Protection%20of%20Original%20Designs/%C2%A7%2001312%20-%20Oaths%20and%20acknowledgments.md) | 201 |
 | [&sect; 01313 - Examination of application and issue or refusal of registration](Chapter%20013%20-%20Protection%20of%20Original%20Designs/%C2%A7%2001313%20-%20Examination%20of%20application%20and%20issue%20or%20refusal%20of%20registration.md) | 201 |
-| [&sect; 01314 - Certification of registration](Chapter%20013%20-%20Protection%20of%20Original%20Designs/%C2%A7%2001314%20-%20Certification%20of%20registration.md) | 201 |
-| [&sect; 01315 - Publication of announcements and indexes](Chapter%20013%20-%20Protection%20of%20Original%20Designs/%C2%A7%2001315%20-%20Publication%20of%20announcements%20and%20indexes.md) | 201–202 |
+| [&sect; 01314 - Certification of registration](Chapter%20013%20-%20Protection%20of%20Original%20Designs/%C2%A7%2001314%20-%20Certification%20of%20registration.md) | 201–202 |
+| [&sect; 01315 - Publication of announcements and indexes](Chapter%20013%20-%20Protection%20of%20Original%20Designs/%C2%A7%2001315%20-%20Publication%20of%20announcements%20and%20indexes.md) | 202 |
 | [&sect; 01316 - Fees](Chapter%20013%20-%20Protection%20of%20Original%20Designs/%C2%A7%2001316%20-%20Fees.md) | 202 |
 | [&sect; 01317 - Regulations](Chapter%20013%20-%20Protection%20of%20Original%20Designs/%C2%A7%2001317%20-%20Regulations.md) | 202 |
 | [&sect; 01318 - Copies of records](Chapter%20013%20-%20Protection%20of%20Original%20Designs/%C2%A7%2001318%20-%20Copies%20of%20records.md) | 202 |
@@ -157,9 +157,9 @@ from edition to edition; the section files hold the text only.
 | [&sect; 01323 - Recovery for infringement](Chapter%20013%20-%20Protection%20of%20Original%20Designs/%C2%A7%2001323%20-%20Recovery%20for%20infringement.md) | 203 |
 | [&sect; 01324 - Power of court over registration](Chapter%20013%20-%20Protection%20of%20Original%20Designs/%C2%A7%2001324%20-%20Power%20of%20court%20over%20registration.md) | 203 |
 | [&sect; 01325 - Liability for action on registration fraudulently obtained](Chapter%20013%20-%20Protection%20of%20Original%20Designs/%C2%A7%2001325%20-%20Liability%20for%20action%20on%20registration%20fraudulently%20obtained.md) | 203 |
-| [&sect; 01326 - Penalty for false marking](Chapter%20013%20-%20Protection%20of%20Original%20Designs/%C2%A7%2001326%20-%20Penalty%20for%20false%20marking.md) | 203 |
-| [&sect; 01327 - Penalty for false representation](Chapter%20013%20-%20Protection%20of%20Original%20Designs/%C2%A7%2001327%20-%20Penalty%20for%20false%20representation.md) | 203 |
-| [&sect; 01328 - Enforcement by Treasury and Postal Service](Chapter%20013%20-%20Protection%20of%20Original%20Designs/%C2%A7%2001328%20-%20Enforcement%20by%20Treasury%20and%20Postal%20Service.md) | 203–204 |
+| [&sect; 01326 - Penalty for false marking](Chapter%20013%20-%20Protection%20of%20Original%20Designs/%C2%A7%2001326%20-%20Penalty%20for%20false%20marking.md) | 203–204 |
+| [&sect; 01327 - Penalty for false representation](Chapter%20013%20-%20Protection%20of%20Original%20Designs/%C2%A7%2001327%20-%20Penalty%20for%20false%20representation.md) | 204 |
+| [&sect; 01328 - Enforcement by Treasury and Postal Service](Chapter%20013%20-%20Protection%20of%20Original%20Designs/%C2%A7%2001328%20-%20Enforcement%20by%20Treasury%20and%20Postal%20Service.md) | 204 |
 | [&sect; 01329 - Relation to design patent law](Chapter%20013%20-%20Protection%20of%20Original%20Designs/%C2%A7%2001329%20-%20Relation%20to%20design%20patent%20law.md) | 204 |
 | [&sect; 01330 - Common law and other rights unaffected](Chapter%20013%20-%20Protection%20of%20Original%20Designs/%C2%A7%2001330%20-%20Common%20law%20and%20other%20rights%20unaffected.md) | 204 |
 | [&sect; 01331 - Administrator; Office of the Administrator](Chapter%20013%20-%20Protection%20of%20Original%20Designs/%C2%A7%2001331%20-%20Administrator%3B%20Office%20of%20the%20Administrator.md) | 204 |

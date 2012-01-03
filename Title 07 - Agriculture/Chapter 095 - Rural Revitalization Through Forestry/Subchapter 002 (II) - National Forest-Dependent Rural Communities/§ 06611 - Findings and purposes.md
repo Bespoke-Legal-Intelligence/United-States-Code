@@ -32,7 +32,7 @@ The purposes of this subchapter are—
 
 #### Amendments
 
-1999—Subsec. (a)(2). Pub. L. 106–113, §1000(a)(3) \[title III, §345(a)(1)(A)\], substituted “National Forest System land;” for “national forests;”.
+<b>1999</b>—Subsec. (a)(2). Pub. L. 106–113, §1000(a)(3) \[title III, §345(a)(1)(A)\], substituted “National Forest System land;” for “national forests;”.
 
 Subsec. (a)(4). Pub. L. 106–113, §1000(a)(3) \[title III, §345(a)(1)(B)\], substituted “National Forest System land” for “the national forests”.
 

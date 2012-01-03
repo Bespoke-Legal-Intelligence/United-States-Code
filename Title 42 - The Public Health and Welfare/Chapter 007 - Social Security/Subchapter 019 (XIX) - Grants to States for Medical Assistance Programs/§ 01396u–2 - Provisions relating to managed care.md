@@ -46,7 +46,7 @@
 
 #### (C) Indian enrollment
 
-&emsp;&emsp;A State may not require under paragraph (1) the enrollment in a managed care entityof an individual who is an Indian (as defined in section 4(c) <sup>1</sup> of the Indian Health Care Improvement Act of 1976 (25 U.S.C. 1603(c)) unless the entity is one of the following (and only if such entity is participating under the plan):
+&emsp;&emsp;A State may not require under paragraph (1) the enrollment in a managed care entity of an individual who is an Indian (as defined in section 4(c) <sup>1</sup> of the Indian Health Care Improvement Act of 1976 (25 U.S.C. 1603(c)) unless the entity is one of the following (and only if such entity is participating under the plan):
 
 &emsp;&emsp;&emsp;(i) The Indian Health Service.
 
@@ -108,7 +108,7 @@
 
 &emsp;&emsp;In carrying out paragraph (1)(A), the State shall establish a default enrollment process—
 
-&emsp;&emsp;&emsp;(i) under which any such individual who does not enroll with a managed care entity during the enrollment period specified by the State shall be enrolled by the State with such an entity which has not been found to be out of substantial compliance with the applicable requirements of this section and of section 1396b(m) of this title or section 1396d(t) of this title; and
+&emsp;&emsp;&emsp;(i) under which any such individual who does not enroll with a managed care entityduring the enrollment period specified by the State shall be enrolled by the State with such an entity which has not been found to be out of substantial compliance with the applicable requirements of this section and of section 1396b(m) of this title or section 1396d(t) of this title; and
 
 &emsp;&emsp;&emsp;(ii) that takes into consideration—
 
@@ -182,7 +182,7 @@
 
 #### (B) “Emergency services” defined
 
-&emsp;&emsp;In subparagraph (A)(i), the term “emergency services” means, with respect to an individual enrolled with an organization, covered inpatient and outpatient services that—
+&emsp;&emsp;In subparagraph (A)(i), the term “emergency services” means, with respect to an individual enrolled with an organization,covered inpatient and outpatient services that—
 
 &emsp;&emsp;&emsp;(i) are furnished by a provider that is qualified to furnish such services under this subchapter, and
 
@@ -250,7 +250,7 @@
 
 #### (7) Antidiscrimination
 
-&emsp;A medicaid managed care organization shall not discriminate with respect to participation, reimbursement, or indemnification as to any provider who is acting within the scope of the provider's license or certification under applicable State law, solely on the basis of such license or certification. This paragraph shallnot be construed to prohibit an organization from including providers only to the extent necessary to meet the needs of the organization's enrollees or from establishing any measure designed to maintain quality and control costs consistent with the responsibilities of the organization.
+&emsp;A medicaid managed care organization shall not discriminate with respect to participation, reimbursement, or indemnification as to any provider who is acting within the scope of the provider's license or certification under applicable State law, solely on the basis of such license or certification. This paragraph shall not be construed to prohibit an organization from including providers only to the extent necessary to meet the needs of the organization's enrollees or from establishing any measure designed to maintain quality and control costs consistent with the responsibilities of the organization.
 
 #### (8) Compliance with certain maternity and mental health requirements
 
@@ -390,7 +390,7 @@
 
 #### (4) Use of unique physician identifier for participating physicians
 
-&emsp;Each medicaid managed care organization shall require each physician providing services to enrollees eligible for medical assistance under the State plan under this subchapter tohave a unique identifier in accordance with the system established under section 1320d–2(b) of this title.
+&emsp;Each medicaid managed care organization shall require each physician providing services to enrollees eligible for medical assistance under the State plan under this subchapter to have a unique identifier in accordance with the system established under section 1320d–2(b) of this title.
 
 #### (e) Sanctions for noncompliance
 
@@ -444,7 +444,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) improvements are made to remedy the violations found under paragraph (1),
 
-&emsp;&emsp;&nbsp;except that temporary management under this subparagraph may not be terminated until the State has determined that the medicaid managed care organization has the capability to ensure that the violations shall not recur.
+&emsp;&emsp;&nbsp;except that temporary management under this subparagraph may not be terminated until the State has determined that themedicaid managed care organization has the capability to ensure that the violations shall not recur.
 
 &emsp;&emsp;(C) Permitting individuals enrolled with the managed care entity to terminate enrollment without cause, and notifying such individuals of such right to terminate enrollment.
 
@@ -460,7 +460,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In the case of a managed care entity which has failed to meet the requirements of thispart or a contract under section 1396b(m) or 1396d(t)(3) of this title, the State shall have the authority to terminate such contract with the entity and to enroll such entity's enrollees with other managed care entities (or to permit such enrollees to receive medical assistance under the State plan under this subchapter other than through a managed care entity).
+&emsp;&emsp;In the case of a managed care entity which has failed to meet the requirements of this part or a contract under section 1396b(m) or 1396d(t)(3) of this title, the State shall have the authority to terminate such contract with the entity and to enroll such entity's enrollees with other managed care entities (or to permit such enrollees to receive medical assistance under the State plan under this subchapter other than through a managed care entity).
 
 #### (B) Availability of hearing prior to termination of contract
 
@@ -504,7 +504,7 @@ Each contract with a managed care entity under section 1396b(m) of this title or
 
 #### (2) Assurance of payment to Indian health care providers for provision of covered services
 
-&emsp;Each contract with a managed care entity under section 1396b(m) of this title or under section 1396d(t)(3) of this title shall require any such entity, as a condition of receiving payment under such contract, to satisfy the following requirements:
+&emsp;Each contract with a managed care entity under section 1396b(m) of this title or undersection 1396d(t)(3) of this title shall require any such entity, as a condition of receiving payment under such contract, to satisfy the following requirements:
 
 #### (A) Demonstration of access to Indian health care providers and application of alternative payment arrangements
 
@@ -572,8 +572,6 @@ Each contract with a managed care entity under section 1396b(m) of this title or
 
 #### References in Text
 
-Part E of subchapter IV of this chapter, referred to in subsec. (a)(2)(A)(iv), is classified to section 670 et seq. of this title.
-
 Section 4(c) of the Indian Health Care Improvement Act of 1976, referred to in subsec. (a)(2)(C), probably means section 4(c) of the Indian Health Care Improvement Act, which was redesignated section 4(13) of the Act by Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935, and is classified to section 1603(13) of Title 25, Indians.
 
 The Indian Self-Determination Act, referred to in subsec. (a)(2)(C)(ii), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
@@ -581,8 +579,6 @@ The Indian Self-Determination Act, referred to in subsec. (a)(2)(C)(ii), is titl
 The Indian Health Care Improvement Act, referred to in subsec. (a)(2)(C)(iii), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400. Title V of the Act is classified generally to subchapter IV (§1651 et seq.) of chapter 18 of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 25 and Tables.
 
 Section 9517(c)(3) of the Omnibus Budget Reconciliation Act of 1985, referred to in subsec. (a)(3)(C)(i)(II), is section 9517(c)(3) of Pub. L. 99–272, which is set out as a note under section 1396b of this title.
-
-Part C of subchapter XVIII of this chapter, referred to in subsecs. (b)(2)(A)(ii) and (c)(1)(A)(iii), (2)(C), is classified to section 1395w–21 et seq. of this title.
 
 The Employee Retirement Income Security Act of 1974, referred to in subsec. (b)(3)(B), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 

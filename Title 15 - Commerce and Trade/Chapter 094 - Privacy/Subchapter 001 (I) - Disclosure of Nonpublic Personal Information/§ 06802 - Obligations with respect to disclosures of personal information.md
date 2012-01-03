@@ -18,7 +18,7 @@ Except as otherwise provided in this subchapter, a financial institution may not
 
 #### (2) Exception
 
-&emsp;This subsection shall not prevent a financial institution from providing nonpublic personal information to a nonaffiliated third party to perform services for or functions on behalf of the financial institution, including marketing of the financial institution's own products or services, or financial products or services offered pursuant to joint agreements between two or more financial institutions that comply with the requirements imposed by the regulations prescribed under section 6804 of this title, if the financial institution fully discloses the providing of such information and enters into a contractual agreement with the third party that requires the third party to maintain the confidentiality of such information.
+&emsp;This subsection shall not prevent a financial institution from providing nonpublic personal information to a nonaffiliated third party to perform services for or functions on behalf of the financial institution, including marketing of the financial institution's own products orservices, or financial products or services offered pursuant to joint agreements between two or more financial institutions that comply with the requirements imposed by the regulations prescribed under section 6804 of this title, if the financial institution fully discloses the providing of such information and enters into a contractual agreement with the third party that requires the third party to maintain the confidentiality of such information.
 
 #### (c) Limits on reuse of information
 
@@ -46,19 +46,15 @@ Subsections (a) and (b) of this section shall not prohibit the disclosure of non
 
 &emsp;(4) to provide information to insurance rate advisory organizations, guaranty funds or agencies, applicable rating agencies of the financial institution, persons assessing the institution's compliance with industry standards, and the institution's attorneys, accountants, and auditors;
 
-&emsp;(5) to the extent specifically permitted or required under other provisions of law and in accordance with the Right to Financial Privacy Act of 1978 \[12 U.S.C. 3401 et seq.\], to law enforcement agencies (including a Federal functional regulator, the Secretary of the Treasury with respect to subchapter II of chapter 53 of title 31, and chapter 2 of title I of Public Law 91–508 (12 U.S.C. 1951–1959), a State insurance authority, or the Federal Trade Commission), self-regulatory organizations, or for an investigation on a matter related to public safety;
+&emsp;(5) to the extent specifically permitted or required under other provisions of law and in accordance with the Right to Financial Privacy Act of 1978 \[12 U.S.C. 3401 et seq.\], to law enforcement agencies (including the Bureau of Consumer Financial Protection <sup>1</sup> a Federal functional regulator, the Secretary of the Treasury with respect to subchapter II of chapter 53 of title 31, and chapter 2 of title I of Public Law 91–508 (12 U.S.C. 1951–1959), a State insurance authority, or the Federal Trade Commission), self-regulatory organizations, or for an investigation on a matter related to public safety;
 
 &emsp;(6)(A) to a consumer reporting agency in accordance with the Fair Credit Reporting Act \[15 U.S.C. 1681 et seq.\], or (B) from a consumer report reported by a consumer reporting agency;
 
-&emsp;(7) in connection with a proposed or actual sale, merger, transfer, or exchange of all or aportion of a business or operating unit if the disclosure of nonpublic personal information concerns solely consumers of such business or unit; or
+&emsp;(7) in connection with a proposed or actual sale, merger, transfer, or exchange of all or a portion of a business or operating unit if the disclosure of nonpublic personal information concerns solely consumers of such business or unit; or
 
 &emsp;(8) to comply with Federal, State, or local laws, rules, and other applicable legal requirements; to comply with a properly authorized civil, criminal, or regulatory investigation or subpoena or summons by Federal, State, or local authorities; or to respond to judicial process or government regulatory authorities having jurisdiction over the financial institution for examination, compliance, or other purposes as authorized by law.
 
 (Pub. L. 106–102, title V, §502, Nov. 12, 1999, 113 Stat. 1437; Pub. L. 111–203, title X, §1093(2), July 21, 2010, 124 Stat. 2095.)
-
-#### Amendment of Subsection (e)(5)
-
-<i>Pub. L. 111–203, title X, §§1093(2), 1100H, July 21, 2010, 124 Stat. 2095, 2113, provided that, effective on the designated transfer date, subsection (e)(5) of this section is amended by inserting “the Bureau of Consumer Financial Protection” after “(including”. See Effective Date of 2010 Amendment note below.</i>
 
 #### References in Text
 
@@ -70,7 +66,13 @@ Chapter 2 of title I of Public Law 91–508, referred to in subsec. (e)(5), is c
 
 The Fair Credit Reporting Act, referred to in subsec. (e)(6)(A), is title VI of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1127, which is classified generally to subchapter III (§1681 et seq.) of chapter 41 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 
+#### Amendments
+
+<b>2010</b>—Subsec. (e)(5). Pub. L. 111–203 inserted “the Bureau of Consumer Financial Protection” after “(including”.
+
 #### Effective Date of 2010 Amendment
 
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

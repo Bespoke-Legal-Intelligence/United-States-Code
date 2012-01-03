@@ -10,7 +10,7 @@ All reservoir sites reserved or to be reserved shall be open to use and occupati
 
 #### References in Text
 
-Sections 946 to 949 of this title, referred to in text, were repealed by Pub. L. 94–579, title VII, §706(a), Oct.21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
+Sections 946 to 949 of this title, referred to in text, were repealed by Pub. L. 94–579, title VII, §706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
 
 #### Savings Provision
 

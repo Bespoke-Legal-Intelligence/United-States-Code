@@ -24,7 +24,7 @@
 
 #### (1) In general
 
-&emsp;For the purpose of evaluating, on a statistically significant basis, the national characteristics of the use of broadband service capability, the Commission shall conduct and make public periodic surveys of consumers in urban, suburban, and rural areas in the large business, small business, and residential consumer markets to determine—
+&emsp;For the purpose of evaluating, on a statistically significant basis, the national characteristics of the use of broadband service capability, the Commission shall conduct and make public periodic surveys of consumers in urban, suburban, and rural areas in the largebusiness, small business, and residential consumer markets to determine—
 
 &emsp;&emsp;(A) the types of technology used to provide the broadband service capability to which consumers subscribe;
 

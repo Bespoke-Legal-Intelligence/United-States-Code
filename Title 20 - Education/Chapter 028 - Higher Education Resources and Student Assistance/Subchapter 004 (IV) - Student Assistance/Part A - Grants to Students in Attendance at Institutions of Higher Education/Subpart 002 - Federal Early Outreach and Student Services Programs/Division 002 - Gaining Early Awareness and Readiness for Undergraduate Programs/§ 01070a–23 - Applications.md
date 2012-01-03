@@ -48,7 +48,7 @@
 
 #### (2) Special rule
 
-&emsp;Notwithstanding the matching requirement described in paragraph (1)(A), the Secretary may by regulation modify the percentage requirement described in paragraph (1)(A) for eligible entities described in section 1070a–21(c)(2) of this title. The Secretary may approve an eligible entity's request for a reduced match percentage—
+&emsp;Notwithstanding the matching requirement described in paragraph (1)(A), the Secretary may by regulation modify the percentage requirement described in paragraph (1)(A) for eligible entities described in section 1070a–21(c)(2) of this title. The Secretary mayapprove an eligible entity's request for a reduced match percentage—
 
 &emsp;&emsp;(A) at the time of application—
 

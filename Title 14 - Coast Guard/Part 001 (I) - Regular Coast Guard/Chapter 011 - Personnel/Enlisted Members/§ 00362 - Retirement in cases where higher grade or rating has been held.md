@@ -12,11 +12,11 @@ The requirement that the higher grade or rating be held prior to June 30, 1946, 
 
 #### Amendments
 
-1986—Pub. L. 99–348 struck out “, with retired pay of the grade or rating with which retired” after “permanent grade or rating”.
+<b>1986</b>—Pub. L. 99–348 struck out “, with retired pay of the grade or rating with which retired” after “permanent grade or rating”.
 
-1984—Pub. L. 98–557 substituted reference to enlisted member for reference to enlisted man.
+<b>1984</b>—Pub. L. 98–557 substituted reference to enlisted member for reference to enlisted man.
 
-1982—Pub. L. 97–295 substituted “of this title” for “of this chapter” after “357”.
+<b>1982</b>—Pub. L. 97–295 substituted “of this title” for “of this chapter” after “357”.
 
-1950—Act Aug. 3, 1950, struck out reference to section 356.
+<b>1950</b>—Act Aug. 3, 1950, struck out reference to section 356.
 

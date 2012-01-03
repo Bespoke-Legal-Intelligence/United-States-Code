@@ -32,7 +32,7 @@
 
 &emsp;&emsp;&emsp;(i) any recognized gain on the sale or exchange of property used in the trade or business, and
 
-&emsp;&emsp;&emsp;(ii) any recognized gain from the compulsory or involuntary conversion (as a result of destruction in whole or in part, theft or seizure, or an exercise of thepower of requisition or condemnation or the threat or imminence thereof) into other property or money of—
+&emsp;&emsp;&emsp;(ii) any recognized gain from the compulsory or involuntary conversion (as a result of destruction in whole or in part, theft or seizure, or an exercise of the power of requisition or condemnation or the threat or imminence thereof) into other property or money of—
 
 &emsp;&emsp;&emsp;&emsp;(I) property used in the trade or business, or
 
@@ -182,7 +182,7 @@ Amendment by Pub. L. 106–170 applicable to any instrument held, acquired, or e
 
 Section 176(b) of Pub. L. 98–369 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to net section 1231 gains for taxable years beginning after December 31, 1984.”
 
-Amendment by section 711(c)(2)(A)(iii) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, see section 711(c)(2)(A)(v) of Pub. L. 98–369, set out as a note under section 165 of this title.
+Amendment by section 711(c)(2)(A)(iii) of Pub. L. 98–369 applicable to taxable years beginning after Dec.31, 1983, see section 711(c)(2)(A)(v) of Pub. L. 98–369, set out as a note under section 165 of this title.
 
 Amendment by section 1001(b)(15) of Pub. L. 98–369 applicable to property acquired after June 22, 1984, and before Jan. 1, 1988, see section 1001(e) of Pub. L. 98–369, set out as a note under section 166 of this title.
 

@@ -32,7 +32,7 @@ In this chapter:
 
 #### (8) Operations research
 
-&emsp;The term “operations research” means the application of social science research methods,statistical analysis, and other appropriate scientific methods to judge, compare, and improve policies and program outcomes, from the earliest stages of defining and designing programs through their development and implementation, with the objective of the rapid dissemination of conclusions and concrete impact on programming.
+&emsp;The term “operations research” means the application of social science research methods, statistical analysis, and other appropriate scientific methods to judge, compare, and improve policies and program outcomes, from the earliest stages of defining and designing programs through their development and implementation, with the objective of the rapid dissemination of conclusions and concrete impact on programming.
 
 #### (9) Paraprofessional
 
@@ -58,7 +58,7 @@ In this chapter:
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 108–25, May 27, 2003, 117 Stat. 711, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7601 of this title and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 108–25, May 27, 2003, 117 Stat. 711, which is classified principally to this chapter. For complete classification of this Act to the Code, seeShort Title note set out under section 7601 of this title and Tables.
 
 The Foreign Assistance Act of 1961, referred to in par. (12), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 

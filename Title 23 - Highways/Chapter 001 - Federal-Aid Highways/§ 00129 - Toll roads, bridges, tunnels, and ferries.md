@@ -30,7 +30,7 @@ Ownership.—Each highway, bridge, tunnel, or approach thereto constructed under
 
 &emsp;(3)
 
-Limitations on use of revenues.—Before the Secretary may permit Federal participation under this subsection in construction of a highway, bridge, or tunnel located in a State, the public authority (including the State transportation department) having jurisdiction over the highway, bridge, or tunnel must enter into an agreement with the Secretarywhich provides that all toll revenues received from operation of the toll facility will be used first for debt service, for reasonable return on investment of any private person financing the project, and for the costs necessary for the proper operation and maintenance of the toll facility, including reconstruction, resurfacing, restoration, and rehabilitation. If the State certifies annually that the tolled facility is being adequately maintained, the State may use any toll revenues in excess of amounts required under the preceding sentence for any purpose for which Federal funds may be obligated by a State under this title.
+Limitations on use of revenues.—Before the Secretary may permit Federal participation under this subsection in construction of a highway, bridge, or tunnel located in a State, the public authority (including the State transportation department) having jurisdiction over the highway, bridge, or tunnel must enter into an agreement with the Secretary which provides that all toll revenues received from operation of the toll facility will be used first for debt service, for reasonable return on investment of any private person financing the project, and for the costs necessary for the proper operation and maintenance of the toll facility, including reconstruction, resurfacing, restoration, and rehabilitation. If the State certifies annually that the tolled facility is being adequately maintained, the State may use any toll revenues in excess of amounts required under the preceding sentence for any purpose for which Federal funds may be obligated by a State under this title.
 
 &emsp;(4)
 
@@ -82,7 +82,7 @@ Reuse of funds.—Amounts repaid to a State from a loan made under this paragrap
 
 &emsp;&emsp;&emsp;(i) for any purpose for which the loan funds were available under this title; and
 
-&emsp;&emsp;&emsp;(ii) for the purchase of insurance or for use as a capital reserve for other forms of credit enhancement for project debt in order to improve credit market access or to lower interest rates for projects eligible for assistance under this title.
+&emsp;&emsp;&emsp;(ii) for the purchase of insurance or for use as a capital reserve for other forms of credit enhancement for project debt in order to improve credit market access orto lower interest rates for projects eligible for assistance under this title.
 
 &emsp;&emsp;(I)
 
@@ -98,7 +98,7 @@ Initial construction defined.—For purposes of this subsection, the term “ini
 
 &emsp;(1) It is not feasible to build a bridge, tunnel, combination thereof, or other normal highway structure in lieu of the use of such ferry.
 
-&emsp;(2) The operation of the ferry shall be on a route classified as a public road within theState and which has not been designated as a route on the Interstate System. Projects under this subsection may be eligible for both ferry boats carrying cars and passengers and ferry boats carrying passengers only.
+&emsp;(2) The operation of the ferry shall be on a route classified as a public road within the State and which has not been designated as a route on the Interstate System. Projects under this subsection may be eligible for both ferry boats carrying cars and passengers and ferry boats carrying passengers only.
 
 &emsp;(3) Such ferry boat or ferry terminal facility shall be publicly owned or operated or majority publicly owned if the Secretary determines with respect to a majority publicly owned ferry or ferry terminal facility that such ferry boat or ferry terminal facility provides substantial public benefits.
 
@@ -124,7 +124,7 @@ For the effective date of title I of the Intermodal Surface Transportation Effic
 
 Subsec. (c)(3). Pub. L. 105–178, §1207(a), substituted “owned or operated or majority publicly owned if the Secretary determines with respect to a majority publicly owned ferry or ferry terminal facility that such ferry boat or ferry terminal facility provides substantial public benefits.” for “owned.”
 
-Subsec. (d). Pub. L. 105–178, §1211(f), formerly §1211(g), as renumbered by Pub. L. 105–206, §9003(d)(5), struck out subsec. (d) which related to pilot toll collection program.
+Subsec. (d). Pub. L. 105–178, §1211(f), formerly §1211(g), as renumbered by Pub. L. 105–206, §9003(d)(5), struck outsubsec. (d) which related to pilot toll collection program.
 
 <b>1995</b>—Subsec. (a)(5). Pub. L. 104–59, §313(a), amended par. (5) generally. Prior to amendment, par. (5) read as follows:
 
@@ -162,7 +162,7 @@ Subsec. (i). Pub. L. 102–240, §1012(c)(1), struck out subsec. (i) which autho
 
 Subsec. (j). Pub. L. 102–240, §1012(c)(2), redesignated subsec. (j) as (d).
 
-Subsec. (k). Pub. L. 102–240, §1012(c)(1), struck out subsec. (k) which required operators of toll roads, tunnels, ferries and bridges on Federal-aid highway system to biennially certify to Governor of State that facilities were adequately maintained and that operator had ability to fund such facilities that were not adequately maintained without using Federal-aid highway funds, and which required Governor of each State to report biennially to Secretary on facilities required to so certify.
+Subsec. (k). Pub. L. 102–240, §1012(c)(1), struck out subsec. (k) which required operators of toll roads, tunnels, ferries and bridges on Federal-aid highway system to biennially certify to Governor of State that facilities were adequately maintained and that operator had ability to fund such facilities that were not adequately maintained without using Federal-aid highway funds,and which required Governor of each State to report biennially to Secretary on facilities required to so certify.
 
 <b>1988</b>—Subsec. (j)(1), (3). Pub. L. 100–457, §335, amended Pub. L. 100–202, §101(<i>l</i>) \[title III, §347(d)(1), (2)(A), (C)\], see 1987 Amendment note below.
 
@@ -184,7 +184,7 @@ Subsec. (k). Pub. L. 100–17, §120(b), added subsec. (k).
 
 <b>1976</b>—Subsec. (g)(5). Pub. L. 94–280 authorized ferry operations within the islands which comprise the Commonwealth of Puerto Rico and excepted ferry operations between the islands which comprise the Commonwealth of Puerto Rico from the prohibition of ferry operations in foreign or international waters.
 
-<b>1975</b>—Subsec. (g)(5). Pub. L. 93–643 substituted “operations between the islands which comprise the State of Hawaii and operations between any two points in Alaska and between Alaska and Washington, including stops at appropriate points in the Dominion of Canada” for “operations between the islands which comprise the State of Hawaii and operations between the States ofAlaska and Washington, or between any two points within the State of Alaska”.
+<b>1975</b>—Subsec. (g)(5). Pub. L. 93–643 substituted “operations between the islands which comprise the State of Hawaii and operations between any two points in Alaska and between Alaska and Washington, including stops at appropriate points in the Dominion of Canada” for “operations between the islands which comprise the State of Hawaii and operations between the States of Alaska and Washington, or between any two points within the State of Alaska”.
 
 <b>1973</b>—Subsec. (b). Pub. L. 93–87, §118(a), inserted third sentence providing that when any toll road which the Secretary has approved as a part of the Interstate System is made a toll-free facility, Federal-aid highway funds apportioned under section 104(b)(5) of this title may be expended for the construction, reconstruction, or improvement of that road to meet the standards adopted for the improvement of projects located on the Interstate System.
 

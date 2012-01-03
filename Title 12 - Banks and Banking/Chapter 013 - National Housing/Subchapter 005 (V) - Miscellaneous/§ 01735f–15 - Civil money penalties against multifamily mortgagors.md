@@ -8,7 +8,7 @@ The penalties set forth in this section shall be in addition to any other availa
 
 #### (1) Authority
 
-&emsp;Whenever a mortgagor of property that includes 5 or more living units and that has a mortgage insured, co-insured, or held pursuant to this chapter, who has agreed in writing, as a condition of a transfer of physical assets, a flexible subsidy loan, a capital improvement loan, a modification of the mortgage terms, or a workout agreement, to use nonproject income to make cash contributions for payments due under the note and mortgage, for payments to the reserve for replacements, to restore the project to good physical condition, or to pay other project liabilities, knowingly and materially fails to comply with any of these commitments, the Secretary may impose a civil money penalty on that mortgagor, on a general partner of a partnership mortgagor, or on any officer or director of a corporate mortgagor in accordance with the provisions of this section.
+&emsp;Whenever a mortgagor of property that includes 5 or more living units and that has a mortgage insured, co-insured, or held pursuant to this chapter, who has agreed in writing, asa condition of a transfer of physical assets, a flexible subsidy loan, a capital improvement loan, a modification of the mortgage terms, or a workout agreement, to use nonproject income to make cash contributions for payments due under the note and mortgage, for payments to the reserve for replacements, to restore the project to good physical condition, or to pay other project liabilities, knowingly and materially fails to comply with any of these commitments, the Secretary may impose a civil money penalty on that mortgagor, on a general partner of a partnership mortgagor, or on any officer or director of a corporate mortgagor in accordance with the provisions of this section.
 
 #### (2) Amount of penalty
 
@@ -62,13 +62,13 @@ The penalties set forth in this section shall be in addition to any other availa
 
 > &emsp;&emsp;The Secretary shall approve an extension where the mortgagor demonstrates that failure to comply with this clause is due to events beyond the control of the mortgagor.
 
-&emsp;&emsp;(xi) At the request of the Secretary, the agents of the Secretary, the employees of the Secretary, or the attorneys of the Secretary, failure to furnish monthly occupancy reports or failure to provide specific answers to questions upon which information is sought relative to income, assets, liabilities, contracts, the operation and condition of the property, or the status of the mortgage.
+&emsp;&emsp;(xi) At the request of the Secretary, the agents of the Secretary, the employees of the Secretary, or the attorneys of the Secretary, failure to furnish monthly occupancy reports or failure to provide specific answers to questions upon which information issought relative to income, assets, liabilities, contracts, the operation and condition of the property, or the status of the mortgage.
 
 &emsp;&emsp;(xii) Failure to make promptly all payments due under the note and mortgage, including mortgage insurance premiums, tax and insurance escrow payments, and payments to the reserve for replacements when there is adequate project income available to make such payments.
 
 &emsp;&emsp;(xiii) Failure to maintain the premises, accommodations, any living unit in the project, and the grounds and equipment appurtenant thereto in good repair and condition in accordance with regulations and requirements of the Secretary, except that nothing in this clause shall have the effect of altering the provisions of an existing regulatory agreement or federally insured mortgage on the property.
 
-&emsp;&emsp;(xiv) Failure, by a mortgagor, a general partner of a partnership mortgagor, or an officer or director of a corporate mortgagor, to provide management for the project that isacceptable to the Secretary pursuant to regulations and requirements of the Secretary.
+&emsp;&emsp;(xiv) Failure, by a mortgagor, a general partner of a partnership mortgagor, or an officer or director of a corporate mortgagor, to provide management for the project that is acceptable to the Secretary pursuant to regulations and requirements of the Secretary.
 
 &emsp;&emsp;(xv) Failure to provide access to the books, records, and accounts related to the operations of the mortgaged property and of the project.
 
@@ -158,11 +158,11 @@ In this section, the terms “agent employed to manage the property that has an 
 
 #### Amendments
 
-2004—Subsec. (c)(1)(B)(ii). Pub. L. 108–447, §219(b), inserted “other revenues, or contract rights,” after “rents,”.
+<b>2004</b>—Subsec. (c)(1)(B)(ii). Pub. L. 108–447, §219(b), inserted “other revenues, or contract rights,” after “rents,”.
 
 Subsec. (c)(1)(B)(x). Pub. L. 108–447, §219(c), amended cl. (x) generally. Prior to amendment, cl. (x) read as follows: “Failure to furnish the Secretary, by the expiration of the 60-day period beginning on the 1st day after the completion of each fiscal year, with a complete annual financial report based upon an examination of the books and records of the mortgagor prepared and certified to by an independent public accountant or a certified public accountant and certified to by an officer of the mortgagor, unless the Secretary has approved an extension of the 60-day period in writing. The Secretary shall approve an extension where the mortgagor demonstrates that failure to comply with this subparagraph is due to events beyond the control of the mortgagor.”
 
-1997—Subsec. (b)(1). Pub. L. 105–65, §561(a)(1), substituted “on that mortgagor, on a general partner of a partnership mortgagor, or on any officer or director of a corporate mortgagor” for “on that mortgagor”.
+<b>1997</b>—Subsec. (b)(1). Pub. L. 105–65, §561(a)(1), substituted “on that mortgagor, on a general partner of a partnership mortgagor, or on any officer or director of a corporate mortgagor” for “on that mortgagor”.
 
 Subsec. (c). Pub. L. 105–65, §561(a)(2)(A), substituted “Other violations” for “Violations of regulatory agreement for which penalty may be imposed” in heading.
 

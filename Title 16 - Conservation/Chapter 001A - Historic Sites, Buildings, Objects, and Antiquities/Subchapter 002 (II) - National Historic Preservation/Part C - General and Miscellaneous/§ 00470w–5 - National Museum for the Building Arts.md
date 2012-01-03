@@ -44,7 +44,7 @@ The Committee shall submit an annual report to the Secretary and the Administrat
 
 #### (f) “Building arts” defined
 
-For purposes of this section, the term “building arts” includes, but shall not be limited to, all practical and scholarly aspects of prehistoric, historic, and contemporary architecture, archaeology, construction, building technology and skills, landscape architecture, preservation and conservation, building and construction, engineering, urban and communitydesign and renewal, city and regional planning, and related professions, skills, trades, and crafts.
+For purposes of this section, the term “building arts” includes, but shall not be limited to,all practical and scholarly aspects of prehistoric, historic, and contemporary architecture, archaeology, construction, building technology and skills, landscape architecture, preservation and conservation, building and construction, engineering, urban and community design and renewal, city and regional planning, and related professions, skills, trades, and crafts.
 
 (Pub. L. 89–665, title III, §306, as added Pub. L. 96–515, title V, §501, Dec. 12, 1980, 94 Stat. 3002.)
 

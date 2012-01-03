@@ -12,7 +12,7 @@ Within one year after September 26, 1980, a multiemployer plan may irrevocably e
 
 An election described in subsection (a) of this section shall be effective only if—
 
-&emsp;(1) the plan is amended to provide that it shall not be treated as a multiemployer plan for all purposes under this chapter and the Internal Revenue Code of 1954, and
+&emsp;(1) the plan is amended to provide that it shall not be treated as a multiemployer planfor all purposes under this chapter and the Internal Revenue Code of 1954, and
 
 &emsp;(2) written notice of the amendment is provided to the corporation within 60 days after the amendment is adopted.
 

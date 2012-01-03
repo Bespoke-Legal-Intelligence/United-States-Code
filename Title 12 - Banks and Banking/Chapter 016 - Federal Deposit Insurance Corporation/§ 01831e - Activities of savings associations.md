@@ -104,11 +104,11 @@ Notwithstanding subsection (a)(1) of this section, if an activity (other than an
 
 &emsp;&emsp;&emsp;(i) remains in compliance with applicable capital requirements; or
 
-&emsp;&emsp;&emsp;(ii) adopts and complies with a capital plan acceptable to the Director of the Office of Thrift Supervision;
+&emsp;&emsp;&emsp;(ii) adopts and complies with a capital plan acceptable to the Comptroller of the Currency or the Corporation, as appropriate;
 
 &emsp;&emsp;(B) the company to which the corporate debt security not of investment grade is transferred is not a bank holding company, an insured savings association, or a direct or indirect subsidiary of such holding company or insured savings association;
 
-&emsp;&emsp;(C) before the end of the 90-day period beginning on August 9, 1989, the insured savings association notifies the Director of the Office of Thrift Supervision of such association's intention to transfer the corporate debt security not of investment grade to the savings and loan holding company or the subsidiary of such holding company;
+&emsp;&emsp;(C) before the end of the 90-day period beginning on August 9, 1989, the insured savings association notifies the Comptroller of the Currency or the Corporation, as appropriate, of such association's intention to transfer the corporate debt security not of investment grade to the savings and loan holding company or the subsidiary of such holding company;
 
 &emsp;&emsp;(D) the transfer of the corporate debt security not of investment grade is completed—
 
@@ -118,7 +118,7 @@ Notwithstanding subsection (a)(1) of this section, if an activity (other than an
 
 &emsp;&emsp;(E) the insured savings association receives in exchange for the corporate debt security not of investment grade the fair market value of such security;
 
-&emsp;&emsp;(F) the Director of the Office of Thrift Supervision has—
+&emsp;&emsp;(F) the Comptroller of the Currency or the Corporation, as appropriate has—
 
 &emsp;&emsp;&emsp;(i) approved the transaction; and
 
@@ -130,9 +130,9 @@ Notwithstanding subsection (a)(1) of this section, if an activity (other than an
 
 &emsp;The term “qualified note” means any note that—
 
-&emsp;&emsp;(A) is at all times fully secured by the corporate debt security not of investment grade transferred in exchange for the note, or by other collateral of at least equivalent value that is acceptable to the Director of the Office of Thrift Supervision;
+&emsp;&emsp;(A) is at all times fully secured by the corporate debt security not of investment grade transferred in exchange for the note, or by other collateral of at least equivalent value that is acceptable to the Comptroller of the Currency or the Corporation, as appropriate;
 
-&emsp;&emsp;(B) contains provisions acceptable to the Director of the Office of Thrift Supervision that would—
+&emsp;&emsp;(B) contains provisions acceptable to the Comptroller of the Currency or the Corporation, as appropriate, that would—
 
 &emsp;&emsp;&emsp;(i) prevent any action to encumber or impair the value of the collateral referred to in subparagraph (A); and
 
@@ -174,25 +174,77 @@ This section may not be construed as limiting—
 
 &emsp;(1) any other authority of the Corporation; or
 
-&emsp;(2) any authority of the Director of the Office of Thrift Supervision or of a State to impose more stringent restrictions.
+&emsp;(2) any authority of the Comptroller of the Currency, of the Corporation, or of a State to impose more stringent restrictions.
 
-(Sept. 21, 1950, ch. 967, §2\[28\], as added Pub. L. 101–73, title II, §222, Aug. 9, 1989, 103 Stat. 269; amended Pub. L. 102–242, title I, §151(a)(3), Dec. 19, 1991, 105 Stat. 2284; Pub. L. 103–325, title VI, §602(a)(56)–(58), Sept. 23, 1994, 108 Stat. 2290, 2291; Pub. L. 104–208, div. A, title II, §2704(d)(14)(X), Sept. 30, 1996, 110 Stat. 3009–494; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §8(a)(32), Feb. 15, 2006, 119 Stat. 3615.)
+(Sept. 21, 1950, ch. 967, §2\[28\], as added Pub. L. 101–73, title II, §222, Aug. 9, 1989, 103 Stat. 269;amended Pub. L. 102–242, title I, §151(a)(3), Dec. 19, 1991, 105 Stat. 2284; Pub. L. 103–325, title VI, §602(a)(56)–(58), Sept. 23, 1994, 108 Stat. 2290, 2291; Pub. L. 104–208, div. A, title II, §2704(d)(14)(X), Sept. 30, 1996, 110 Stat. 3009–494; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §8(a)(32), Feb. 15, 2006, 119 Stat. 3615; Pub. L. 111–203, title III, §363(9), title IX, §939(a)(2), (3), July 21, 2010, 124 Stat. 1555, 1885.)
+
+#### Amendment of Subsections (d) and (e)
+
+<i>Pub. L. 111–203, title IX, §939(a)(2), (3), (g), July 21, 2010, 124 Stat. 1885, 1887, provided that, effective 2 years after July 21, 2010, this section is amended:</i>
+
+<i>(1) in subsection (d)—</i>
+
+<i>(A) in the heading, by striking out “Not of Investment Grade”;</i>
+
+<i>(B) in paragraph (1), by substituting “that does not meet standards of credit-worthiness as established by the Corporation” for “not of investment grade”;</i>
+
+<i>(C) in paragraph (2), by striking out “not of investment grade”;</i>
+
+<i>(D) by striking paragraph (3);</i>
+
+<i>(E) by redesignating paragraph (4) as (3); and</i>
+
+<i>(F) in paragraph (3), as so redesignated—</i>
+
+<i>(i) by striking out subparagraph (A);</i>
+
+<i>(ii) by redesignating subparagraphs (B) and (C) as (A) and (B), respectively; and</i>
+
+<i>(iii) in subparagraph (B), as so redesignated, by substituting “that does not meet standards of credit-worthiness as established by the Corporation” for “not of investment grade”; and</i>
+
+<i>(2) in subsection (e)—</i>
+
+<i>(A) in the heading, by striking out “Not of Investment Grade”;</i>
+
+<i>(B) in paragraph (1), by substituting “that does not meet standards of credit-worthiness as established by the Corporation” for “not of investment grade”; and</i>
+
+<i>(C) in paragraphs (2) and (3), by substituting “that does not meet standards of credit-worthiness established by the Corporation” for “not of investment grade” wherever appearing.</i>
+
+<i>See 2010 Amendment notes below.</i>
 
 #### Amendments
 
-2006—Subsecs. (a)(1), (b)(1), (c)(2)(A). Pub. L. 109–173 substituted “Deposit Insurance Fund” for “affected deposit insurance fund”.
+<b>2010</b>—Subsec. (e)(2)(A)(ii). Pub. L. 111–203, §363(9)(A)(i)(I), substituted “Comptroller of the Currency or the Corporation, as appropriate” for “Director of the Office of Thrift Supervision”.
+
+Subsec. (e)(2)(C). Pub. L. 111–203, §363(9)(A)(i)(II), substituted “Comptroller of the Currency or the Corporation, as appropriate,” for “Director of the Office of Thrift Supervision”.
+
+Subsec. (e)(2)(F). Pub. L. 111–203, §363(9)(A)(i)(III), substituted “Comptroller of the Currency or the Corporation, as appropriate” for “Director of the Office of Thrift Supervision” in introductory provisions.
+
+Subsec. (e)(3)(A). Pub. L. 111–203, §363(9)(A)(ii)(I), substituted “Comptroller of the Currency or the Corporation, as appropriate” for “Director of the Office of Thrift Supervision”.
+
+Subsec. (e)(3)(B). Pub. L. 111–203, §363(9)(A)(ii)(II), substituted “Comptroller of the Currency or the Corporation, as appropriate,” for “Director of the Office of Thrift Supervision” in introductory provisions.
+
+Subsec. (h)(2). Pub. L. 111–203, §363(9)(B), substituted “Comptroller of the Currency, of the Corporation,” for “Director of the Office of Thrift Supervision”.
+
+<b>2006</b>—Subsecs. (a)(1), (b)(1), (c)(2)(A). Pub. L. 109–173 substituted “Deposit Insurance Fund” for “affected deposit insurance fund”.
 
 Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(14)(X). See 1996 Amendment note below.
 
-1996—Subsecs. (a)(1), (b)(1), (c)(2)(A). Pub. L. 104–208, §2704(d)(14)(X), which directed substitution of “Deposit Insurance Fund” for “affected deposit insurance fund”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+<b>1996</b>—Subsecs. (a)(1), (b)(1), (c)(2)(A). Pub. L. 104–208, §2704(d)(14)(X), which directed substitution of “Deposit Insurance Fund” for “affected deposit insurance fund”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
-1994—Subsec. (c)(2)(A)(i). Pub. L. 103–325, §602(a)(56), substituted “; or” for “, or”.
+<b>1994</b>—Subsec. (c)(2)(A)(i). Pub. L. 103–325, §602(a)(56), substituted “; or” for “, or”.
 
 Subsec. (d)(4)(C). Pub. L. 103–325, §602(a)(57), substituted “subparagraph” for “subparagraphs”.
 
 Subsec. (e)(4). Pub. L. 103–325, §602(a)(58), substituted “and any other” for “any other”.
 
-1991—Subsecs. (h), (i). Pub. L. 102–242 redesignated subsec. (i) as (h) and struck out former subsec. (h) which required that all savings associations with uninsured deposits disclose in clear and conspicuous statements that its deposits were not insured.
+<b>1991</b>—Subsecs. (h), (i). Pub. L. 102–242 redesignated subsec. (i) as (h) and struck out former subsec. (h) which required that all savings associations with uninsured deposits disclose in clear and conspicuous statements that its deposits were not insured.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by section 363(9) of Pub. L. 111–203 effective on the transfer date, see section 351 of Pub. L. 111–203, set out as a note under section 906 of Title 2, The Congress.
+
+Amendment by section 939(a)(2), (3) of Pub. L. 111–203 effective 2 years after July 21, 2010, see section 939(g) of Pub. L. 111–203, set out as a note under section 24a of this title.
 
 #### Effective Date of 2006 Amendment
 

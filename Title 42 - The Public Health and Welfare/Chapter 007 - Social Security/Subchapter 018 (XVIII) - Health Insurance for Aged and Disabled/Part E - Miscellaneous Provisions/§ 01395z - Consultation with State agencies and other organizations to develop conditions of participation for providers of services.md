@@ -38,7 +38,7 @@ Pub. L. 96–499, §934(c)(1), inserted “or by ambulatory surgical centers und
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–432 applicable to mammography furnished by a facility on and after the first date that the certificate requirements of section 263b(b) of this title apply to such mammography conducted by such facility, see section 145(d) of Pub. L. 103–432, set out as a note under section 1395m of this title.
+Amendment by Pub. L. 103–432 applicable to mammography furnished by a facility on and after the firstdate that the certificate requirements of section 263b(b) of this title apply to such mammography conducted by such facility, see section 145(d) of Pub. L. 103–432, set out as a note under section 1395m of this title.
 
 #### Effective Date of 1990 Amendment
 

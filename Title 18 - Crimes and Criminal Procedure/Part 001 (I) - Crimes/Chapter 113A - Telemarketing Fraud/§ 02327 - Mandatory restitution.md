@@ -14,7 +14,7 @@ Directions.—The order of restitution under this section shall direct the defen
 
 &emsp;(2)
 
-Enforcement.—An order of restitution under this section shall be issued and enforced in accordance with section 3664 in the same manner as an order under section 3663A.
+Enforcement.—An order of restitution under this section shall be issued and enforcedin accordance with section 3664 in the same manner as an order under section 3663A.
 
 &emsp;(3)
 
@@ -78,5 +78,5 @@ Subsec. (f). Pub. L. 104–132, §205(e)(4), redesignated subsec. (f) as (c).
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–132 effective, to extent constitutionally permissible, for sentencing proceedings in cases in which defendant is convicted on orafter Apr. 24, 1996, see section 211 of Pub. L. 104–132, set out as a note under section 2248 of this title.
+Amendment by Pub. L. 104–132 effective, to extent constitutionally permissible, for sentencing proceedings in cases in which defendant is convicted on or after Apr. 24, 1996, see section 211 of Pub. L. 104–132, set out as a note under section 2248 of this title.
 

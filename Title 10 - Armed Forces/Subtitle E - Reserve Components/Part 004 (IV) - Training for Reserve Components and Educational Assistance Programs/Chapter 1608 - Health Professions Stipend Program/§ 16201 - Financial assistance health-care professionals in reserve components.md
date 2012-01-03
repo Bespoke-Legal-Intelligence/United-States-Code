@@ -24,7 +24,7 @@ Medical and Dental School Students.—(1) Under the stipend program under this c
 
 (2) Under the agreement—
 
-&emsp;(A) the Secretary of the military department concerned shall agree to pay the participant a stipend, in the amount determined under subsection (f), for the period or the remainder of the period that the student is satisfactorily progressing toward a degree in medicine or dentistry while enrolled in an accredited medical or dental school;
+&emsp;(A) the Secretary of the military department concerned shall agree to pay the participant a stipend, in the amount determined under subsection (g), for the period or the remainder of the period that the student is satisfactorily progressing toward a degree in medicine or dentistry while enrolled in an accredited medical or dental school;
 
 &emsp;(B) the participant shall not be eligible to receive such stipend before appointment, designation, or assignment as an officer for service in the Ready Reserve;
 
@@ -48,7 +48,7 @@ Physicians and Dentists in Critical Wartime Specialties.—(1) Under the stipend
 
 (2) Under the agreement—
 
-&emsp;(A) the Secretary shall agree to pay the participant a stipend, in an amount determined under subsection (f), for the period or the remainder of the period of the residency program in which the participant enrolls or is enrolled;
+&emsp;(A) the Secretary shall agree to pay the participant a stipend, in an amount determined under subsection (g), for the period or the remainder of the period of the residency program in which the participant enrolls or is enrolled;
 
 &emsp;(B) the participant shall not be eligible to receive such stipend before appointment, designation, or assignment as a medical officer or dental officer for service in the Ready Reserve;
 
@@ -74,7 +74,7 @@ Registered Nurses in Critical Specialties.—(1) Under the stipend program under
 
 (2) Under the agreement—
 
-&emsp;(A) the Secretary shall agree to pay the participant a stipend, in an amount determined under subsection (f), for the period or the remainder of the period of the nursing program in which the participant enrolls or is enrolled;
+&emsp;(A) the Secretary shall agree to pay the participant a stipend, in an amount determined under subsection (g), for the period or the remainder of the period of the nursing program in which the participant enrolls or is enrolled;
 
 &emsp;(B) the participant shall not be eligible to receive such stipend before being appointed as a Reserve officer for service in the Ready Reserve—
 
@@ -110,15 +110,49 @@ Baccalaureate Students in Nursing or Other Health Professions.—(1) Under the s
 
 (f)
 
-Amount of Stipend.—The amount of a stipend under an agreement under subsection (b) or (c) shall be—
+Mental Health Professionals in Critical Wartime Specialties.—(1) Under the stipend program under this chapter, the Secretary of the military department concerned may enter into an agreement with a person who—
+
+&emsp;(A) is eligible to be appointed as an officer in a reserve component;
+
+&emsp;(B) is enrolled or has been accepted for enrollment in an institution in a course of study that results in a degree in clinical psychology or social work;
+
+&emsp;(C) signs an agreement that, unless sooner separated, the person will—
+
+&emsp;&emsp;(i) complete the educational phase of the program;
+
+&emsp;&emsp;(ii) accept a reappointment or redesignation within the person's reserve component, if tendered, based upon the person's healthprofession, following satisfactory completion of the educational and intern programs; and
+
+&emsp;&emsp;(iii) participate in a residency program if required for clinical licensure in a mental health profession skill; and
+
+&emsp;(D) if required by regulations prescribed by the Secretary of Defense, agrees to apply for, if eligible, and accept, if offered, residency training in a mental health profession skill that has been designated by the Secretary as a critically needed wartime skill.
+
+(2) Under the agreement—
+
+&emsp;(A) the Secretary of the military department concerned shall agree to pay the participant a stipend, in the amount determined under subsection (g), for the period or the remainder of the period that the student is satisfactorily progressing toward a degree in clinical psychology or social work while enrolled in a school accredited in the designated mental health discipline;
+
+&emsp;(B) the participant shall not be eligible to receive such stipend before appointment, designation, or assignment as an officer for service in the Selected Reserve;
+
+&emsp;(C) the participant shall be subject to such active duty requirements as may be specified in the agreement and to active duty in time of war or national emergency as provided by law for members of the Selected Reserve; and
+
+&emsp;(D) the participant shall agree to serve, upon successful completion of the program, one year in the Selected Reserve for each six months, or part thereof, for which the stipend is provided.
+
+(g)
+
+Amount of Stipend.—The amount of a stipend under an agreement under subsection (b), (c), or (f) shall be—
 
 &emsp;(1) the stipend rate in effect for participants in the Armed Forces Health Professions Scholarship Program under section 2121(d) of this title, if the participant has agreed to serve in the Selected Reserve; or
 
 &emsp;(2) one-half of that rate, if the participant has agreed to serve in the Individual Ready Reserve.
 
-(Added Pub. L. 100–180, div. A, title VII, §711(a)(3), Dec. 4, 1987, 101 Stat. 1108, §2128; renumbered §16201 and amended Pub. L. 103–337, div. A, title XVI, §1663(c)(2), (5), Oct. 5, 1994, 108 Stat. 3007, 3008; Pub. L. 104–106, div. A, title VII, §736, Feb. 10, 1996, 110 Stat. 383; Pub. L. 107–107, div. A, title V, §539, Dec. 28, 2001, 115 Stat. 1108; Pub. L. 109–163, div. A, title V, §515(b)(1)(WW), Jan. 6, 2006, 119 Stat. 3234; Pub. L. 110–417, \[div. A\], title VI, §616(c), Oct. 14, 2008, 122 Stat. 4486; Pub. L. 111–84, div. A, title X, §1073(c)(3), Oct. 28, 2009, 123 Stat. 2474.)
+(Added Pub. L. 100–180, div. A, title VII, §711(a)(3), Dec. 4, 1987, 101 Stat. 1108, §2128; renumbered §16201 and amended Pub. L. 103–337, div. A, title XVI, §1663(c)(2), (5), Oct. 5, 1994, 108 Stat. 3007, 3008; Pub. L. 104–106, div. A, title VII, §736, Feb. 10, 1996, 110 Stat. 383; Pub. L. 107–107, div. A, title V, §539, Dec. 28, 2001, 115 Stat. 1108; Pub. L. 109–163, div. A, title V, §515(b)(1)(WW), Jan. 6, 2006, 119 Stat. 3234; Pub. L. 110–417, \[div. A\], title VI, §616(c), Oct. 14, 2008, 122 Stat. 4486; Pub. L. 111–84, div. A, title X, §1073(c)(3), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 112–81, div. A, title V, §556, Dec. 31, 2011, 125 Stat. 1416.)
 
 #### Amendments
+
+<b>2011</b>—Subsecs. (b)(2)(A), (c)(2)(A), (d)(2)(A). Pub. L. 112–81, §556(b)(1), substituted “subsection (g)” for “subsection (f)”.
+
+Subsec. (f). Pub. L. 112–81, §556(a)(2), added subsec. (f). Former subsec. (f) redesignated (g).
+
+Subsec. (g). Pub. L. 112–81, §556(a)(1), (b)(2), redesignated subsec. (f) as (g) and substituted “subsection (b), (c), or (f)” for “subsection (b) or (c)” in introductory provisions.
 
 <b>2009</b>—Subsec. (e)(2)(A). Pub. L. 111–84 made technical amendment to directory language of Pub. L. 110–417, §616(c). See 2008 Amendment note below.
 

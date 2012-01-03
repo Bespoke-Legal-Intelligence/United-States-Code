@@ -34,7 +34,7 @@ It shall be the policy of the United States, as follows:
 
 &emsp;(3) To be vigorous and flexible, reflecting both the unwavering commitment of the United States to religious freedom and the desire of the United States for the most effective and principled response, in light of the range of violations of religious freedom by a variety of persecuting regimes, and the status of the relations of the United States with different nations.
 
-&emsp;(4) To work with foreign governments that affirm and protect religious freedom, in order to develop multilateral documents and initiatives to combat violations of religious freedom and promote the right to religious freedom abroad.
+&emsp;(4) To work with foreign governments that affirm and protect religious freedom, in orderto develop multilateral documents and initiatives to combat violations of religious freedom and promote the right to religious freedom abroad.
 
 &emsp;(5) Standing for liberty and standing with the persecuted, to use and implement appropriate tools in the United States foreign policy apparatus, including diplomatic, political, commercial, charitable, educational, and cultural channels, to promote respect for religious freedom by all governments and peoples.
 
@@ -47,6 +47,10 @@ House Concurrent Resolution 102, referred to in subsec. (a)(7)(C), is H. Con. Re
 The Foreign Assistance Act of 1961, referred to in subsec. (b)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 The International Financial Institutions Act of 1977, referred to in subsec. (b)(2), probably means the International Financial Institutions Act, Pub. L. 95–118, Oct. 3, 1977, 91 Stat. 1067, as amended, which enacted sections 262c, 262d, 262e to 262g–3, 262m to 262p–12, 262r to 262t, 282i, 284n, 285s, 285t, 286e–1f, and 290g–10 of this title, repealed sections 283y, 284m, and 290g–9 of this title, and enacted provisions set out as notes under sections 262c and 282i of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 261 of this title and Tables.
+
+#### Short Title of 2011 Amendment
+
+Pub. L. 112–75, §1, Dec. 23, 2011, 125 Stat. 1272, provided that: “This Act \[amending sections 6431, 6432b, 6435, 6435a, and 6436 of this title and enacting provisions set out as a note under section 6432b of this title\] may be cited as the ‘United States Commission on International Religious Freedom Reform and Reauthorization Act of 2011’.”
 
 #### Short Title
 

@@ -22,11 +22,13 @@
 
 (B) In the case of travel by a person to or from a Department facility by special mode of travel, the Secretary may provide payment under this section to the provider of the transportation by special mode before determining the eligibility of such person for such payment if the Secretary determines that providing such payment is in the best interest of furnishing care and services. Such a payment shall be made subject to subsequently recovering from such person the amount of the payment if such person is determined to have been ineligible for payment for such travel.
 
+(C) In the case of transportation of a person under subparagraph (B) by ambulance, the Secretary may pay the provider of the transportation the lesser of the actual charge for thetransportation or the amount determined by the fee schedule established under section 1834(<i>l</i>) of the Social Security Act (42 U.S.C. 1395(<i>l</i>)) <sup>2</sup> unless the Secretary has entered into a contract for that transportation with the provider.
+
 (4) In determining for purposes of subsection (a) whether travel by air is the only practical way for a veteran to reach a Department facility, the Secretary shall consider the medical condition of the veteran and any other impediments to the use of ground transportation by the veteran.
 
 (c)(1) Except as otherwise provided in this subsection, the Secretary, in making a payment under this section to or for a person described in subparagraph (A), (B), (C), or (D) of subsection (b)(1) of this section for travel for examination, treatment, or care, shall deduct from the amount otherwise payable an amount equal to $3 for each one-way trip.
 
-(2) In the case of a person who is determined by the Secretary to be a person who is required to make six or more one-way trips for needed examination, treatment, or care during the remainder of the calendar month in which the determination is made or during any subsequent calendar month during the one-year period following the last day of the month in which thedetermination is made, the amount deducted by the Secretary pursuant to paragraph (1) of this subsection from payments for trips made to or from such facility during any such month shall not exceed $18.
+(2) In the case of a person who is determined by the Secretary to be a person who is required to make six or more one-way trips for needed examination, treatment, or care during the remainder of the calendar month in which the determination is made or during any subsequent calendar month during the one-year period following the last day of the month in which the determination is made, the amount deducted by the Secretary pursuant to paragraph (1) of this subsection from payments for trips made to or from such facility during any such month shall not exceed $18.
 
 (3) No deduction shall be made pursuant to paragraph (1) of this subsection in the case of a person whose travel to or from a Department facility is performed by a special mode of travel for which payment under this section is authorized under subsection (b)(3) of this section.
 
@@ -64,9 +66,9 @@
 
 (2) If an adjustment in the mileage rate under paragraph (1) results in a lower mileage rate than the mileage rate otherwise specified in subsection (a), the Secretary shall, not later than 60 days before the date of the implementation of the mileage rate as so adjusted, submit to Congress a written report setting forth the adjustment in the mileage rate under this subsection, together with a justification for the decision to make the adjustment in the mileage rate under this subsection.
 
-(h) The Secretary, in consultation and coordination with the Secretary of Transportation and appropriate representatives of veterans’ service organizations, shall take all appropriate steps to facilitate the establishment and maintenance of a program under which such organizations, or individuals who are volunteering their services to the Department, would take responsibility for the transportation, without reimbursement from the Department, to Department facilities of veterans (primarily those residing in areas which are geographically accessible to such facilities) who seek services or benefits from the Department under chapter 17 or other provisions of this title.
+(h) The Secretary, in consultation and coordination with the Secretary of Transportation and appropriate representatives of veterans’ service organizations, shall take all appropriate steps to facilitate the establishment and maintenance of a program under which such organizations, or individuals who are volunteering their services to the Department, would take responsibility for the transportation, without reimbursement from the Department, to Department facilities of veterans (primarily those residing in areas which are geographically accessible to such facilities) who seek services or benefits from theDepartment under chapter 17 or other provisions of this title.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1113; Pub. L. 86–590, July 5, 1960, 74 Stat. 329; Pub. L. 89–358, §4(g), Mar. 3, 1966, 80 Stat. 24; Pub. L. 89–455, June 18, 1966, 80 Stat. 208; Pub. L. 94–581, title I, §101, Oct. 21, 1976, 90 Stat. 2842; Pub. L. 96–151, title II, §201(a), Dec. 20, 1979, 93 Stat. 1093; Pub. L. 97–295, §4(5), Oct. 12, 1982, 96 Stat. 1305; Pub. L. 100–322, title I, §108(a), (b)(1), (c)–(e)(1), May 20, 1988, 102 Stat. 496–498; Pub. L. 102–83, §§4(a)(3), (4), (6), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–446, title XII, §1201(e)(1), Nov. 2, 1994, 108 Stat. 4685; Pub. L. 110–387, title IV, §401(a)(1), (b), Oct. 10, 2008, 122 Stat. 4122; Pub. L. 111–163, title I, §104, title III, §305(a)–(d), May 5, 2010, 124 Stat. 1140, 1151, 1152.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1113; Pub. L. 86–590, July 5, 1960, 74 Stat. 329; Pub. L. 89–358, §4(g), Mar. 3, 1966, 80 Stat. 24; Pub. L. 89–455, June 18, 1966, 80 Stat. 208; Pub. L. 94–581, title I, §101, Oct. 21, 1976, 90 Stat. 2842; Pub. L. 96–151, title II, §201(a), Dec. 20, 1979, 93 Stat. 1093; Pub. L. 97–295, §4(5), Oct. 12, 1982, 96 Stat. 1305; Pub. L. 100–322, title I, §108(a), (b)(1), (c)–(e)(1), May 20, 1988, 102 Stat. 496–498; Pub. L. 102–83, §§4(a)(3), (4), (6), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–446, title XII, §1201(e)(1), Nov. 2, 1994, 108 Stat. 4685; Pub. L. 110–387, title IV, §401(a)(1), (b), Oct. 10, 2008, 122 Stat. 4122; Pub. L. 111–163, title I, §104, title III, §305(a)–(d), May 5, 2010, 124 Stat. 1140, 1151, 1152; Pub. L. 112–56, title II, §263, Nov. 21, 2011, 125 Stat. 732.)
 
 #### References in Text
 
@@ -76,7 +78,9 @@ The date of the enactment of the Caregivers and Veterans Omnibus Health Services
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–163, §305(a)(1), (b), substituted “(at a rate of 41.5 cents per mile),” for “traveled,” and inserted before last sentence “Actual necessary expense of travel includes the reasonable costsof airfare if travel by air is the only practical way to reach a Department facility.”
+<b>2011</b>—Subsec. (b)(3)(C). Pub. L. 112–56 added subpar. (C).
+
+<b>2010</b>—Subsec. (a). Pub. L. 111–163, §305(a)(1), (b), substituted “(at a rate of 41.5 cents per mile),” for “traveled,” and inserted before last sentence “Actual necessary expense of travel includes the reasonable costs of airfare if travel by air is the only practical way to reach a Department facility.”
 
 Subsec. (b)(1)(D)(i). Pub. L. 111–163, §305(c), inserted “who is not traveling by air and” before “whose annual”.
 
@@ -140,7 +144,7 @@ Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans�
 
 Subsecs. (b), (c). Pub. L. 100–322, §108(a)(2), added subsecs. (b) and (c). Former subsecs. (b) and (c) redesignated (d) and (e), respectively.
 
-Subsec. (d). Pub. L. 100–322, §108(a)(1), (d), redesignated subsec. (b) as (d), and in par. (1) substituted “The mileage” for “the mileage” and “of this section.” for “hereof;”, in par. (2) substituted “Actual” for “actual” and a period for a semicolon, and in par. (3) substituted “The expense” for “the expense”. Former subsec. (d) redesignated (f).
+Subsec. (d). Pub. L. 100–322, §108(a)(1), (d), redesignated subsec. (b) as (d), and in par. (1) substituted “Themileage” for “the mileage” and “of this section.” for “hereof;”, in par. (2) substituted “Actual” for “actual” and a period for a semicolon, and in par. (3) substituted “The expense” for “the expense”. Former subsec. (d) redesignated (f).
 
 Subsecs. (e), (f). Pub. L. 100–322, §108(a)(1), redesignated subsecs. (c) and (d) as (e) and (f), respectively. Former subsec. (e) redesignated (g).
 
@@ -220,7 +224,7 @@ Section 1. The Administrator of Veterans’ Affairs may authorize or approve the
 
 Sec. 2. The Administrator of Veterans’ Affairs may authorize or approve in lieu of actual necessary expenses of travel, including lodging and subsistence, payment of an allowance, in such amount per mile as the Administrator shall from time to time fix pursuant to 38 U.S.C. 111 as affected by this order, to any claimant or beneficiary of the Veterans’ Administration traveling to or from a Veterans’ Administration facility, or other place, in connection with vocational rehabilitation or counseling, or for the purpose of examination, treatment, or care. In addition to such mileage allowance, the Administrator may allow reimbursement for the actual cost of ferry fares, and bridge, road, and tunnel tolls. In his discretion, the Administrator may authorize or approve such payment and such reimbursement to the person who or the organization which has actually paid the expenses of such travel, including lodging and subsistence.
 
-Sec. 3. Whenever a claimant or beneficiary requires an attendant other than an employee of the Veterans’ Administration for the performance of travel specifiedin Section 1 and 2 hereof, the travel expenses of such attendant may be allowed in the same manner and to the same extent that travel expenses are allowed to such claimant or beneficiary.
+Sec. 3. Whenever a claimant or beneficiary requires an attendant other than an employee of the Veterans’ Administration for the performance of travel specified in Section 1 and 2 hereof, the travel expenses of such attendant may be allowed in the same manner and to the same extent that travel expenses are allowed to such claimant or beneficiary.
 
 Sec. 4. Payment of the following expenses or allowances in connection with vocational rehabilitation, counseling, or upon termination of examination, treatment, or care, may be made before the completion of travel:
 
@@ -235,4 +239,6 @@ Sec. 5. The Administrator of Veterans’ Affairs may prescribe such rules and re
 Sec. 6. Executive Order No. 11142 of February 12, 1964, is hereby superseded.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “1395m(l))”.</i>
 

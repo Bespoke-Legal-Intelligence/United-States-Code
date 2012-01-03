@@ -94,11 +94,11 @@ In this section, the term “socially disadvantaged farmer or rancher” has the
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 
-2008—Subsec. (a)(1). Pub. L. 110–246, §5004(1), substituted “or ranchers and socially disadvantaged farmers or ranchers” for “and ranchers”.
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–246, §5004(1), substituted “or ranchers and socially disadvantaged farmers or ranchers” for “and ranchers”.
 
 Subsec. (b)(1), (2). Pub. L. 110–246, §5004(2)(A), added par. (1) and par. (2) consisting of subpars. (A) and (B) and struck out former par. (1). Prior to amendment, text of par. (1) read as follows: “Each loan made under this section shall be in an amount equal to 40 percent of the purchase price or appraisal value, whichever is lower, of the farm or ranch to be acquired, unless the borrower requests a lesser amount.”
 
@@ -118,7 +118,7 @@ Subsec. (d)(5). Pub. L. 110–246, §5004(4)(C), added par. (5).
 
 Subsec. (e). Pub. L. 110–246, §5004(5), added subsec. (e).
 
-2002—Subsec. (b)(1). Pub. L. 107–171, §5005(1)(A), substituted “40 percent” for “30 percent”.
+<b>2002</b>—Subsec. (b)(1). Pub. L. 107–171, §5005(1)(A), substituted “40 percent” for “30 percent”.
 
 Subsec. (b)(3). Pub. L. 107–171, §5005(1)(B), substituted “15 years” for “10 years”.
 

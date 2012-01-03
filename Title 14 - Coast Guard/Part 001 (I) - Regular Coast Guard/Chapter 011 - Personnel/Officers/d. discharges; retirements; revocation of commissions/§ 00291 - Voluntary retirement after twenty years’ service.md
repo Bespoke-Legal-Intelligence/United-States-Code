@@ -6,7 +6,7 @@ Any regular commissioned officer who has completed twenty years’ active servic
 
 #### Amendments
 
-1986—Pub. L. 99–348 struck out “, with retired pay of the grade with which retired” after “from active service”.
+<b>1986</b>—Pub. L. 99–348 struck out “, with retired pay of the grade with which retired” after “from active service”.
 
 #### Retired Pay on or Prior to September 24, 1963
 

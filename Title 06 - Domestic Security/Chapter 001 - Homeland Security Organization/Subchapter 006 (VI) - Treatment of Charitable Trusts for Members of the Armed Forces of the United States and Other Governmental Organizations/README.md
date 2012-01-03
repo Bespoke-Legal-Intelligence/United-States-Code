@@ -1,7 +1,5 @@
 ### SUBCHAPTER VI—TREATMENT OF CHARITABLE TRUSTS FOR MEMBERS OF THE ARMED FORCES OF THE UNITED STATES AND OTHER GOVERNMENTAL ORGANIZATIONS
 
-<i><sup>1</sup></i><i> So in original. Probably should be “publicly”.</i>
-
 
 ---
 

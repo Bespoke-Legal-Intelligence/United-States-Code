@@ -2,7 +2,7 @@
 
 #### (a) Policy
 
-(1) It is the continuing responsibility of the Federal Government to ensure the full use of theresults of the Nation's Federal investment in research and development. To this end the Federal Government shall strive where appropriate to transfer federally owned or originated technology to State and local governments and to the private sector.
+(1) It is the continuing responsibility of the Federal Government to ensure the full use of the results of the Nation's Federal investment in research and development. To this end the Federal Government shall strive where appropriate to transfer federally owned or originated technology to State and local governments and to the private sector.
 
 (2) Technology transfer, consistent with mission responsibilities, is a responsibility of each laboratory science and engineering professional.
 
@@ -10,7 +10,7 @@
 
 #### (b) Establishment of Research and Technology Applications Offices
 
-Each Federal laboratory shall establish an Office of Research and technology Applications. Laboratories having existing organizational structures which perform the functions of this section may elect to combine the Office of Research and Technology Applications within the existing organization. The staffing and funding levels for these offices shall be determined between each Federal laboratory and the Federal agency operating or directing the laboratory, except that (1) each laboratory having 200 or more full-time equivalent scientific, engineering, and related technical positions shall provide one or more full-time equivalent positions as staff for its Office of Research and Technology Applications, and (2) each Federal agency which operates or directs one or more Federal laboratories shall make available sufficient funding, either as a separate line item or from the agency's research and development budget, to support the technology transfer function at the agency and at its laboratories, including support of the Offices of Research and Technology Applications. Furthermore, individuals filling positions in an Office of Research and Technology Applications shall be included in the overall laboratory/agency management development program so as to ensure that highly competent technical managers are full participants in the technology transfer process.
+Each Federal laboratory shall establish an Office of Research and technology Applications.Laboratories having existing organizational structures which perform the functions of this section may elect to combine the Office of Research and Technology Applications within the existing organization. The staffing and funding levels for these offices shall be determined between each Federal laboratory and the Federal agency operating or directing the laboratory, except that (1) each laboratory having 200 or more full-time equivalent scientific, engineering, and related technical positions shall provide one or more full-time equivalent positions as staff for its Office of Research and Technology Applications, and (2) each Federal agency which operates or directs one or more Federal laboratories shall make available sufficient funding, either as a separate line item or from the agency's research and development budget, to support the technology transfer function at the agency and at its laboratories, including support of the Offices of Research and Technology Applications. Furthermore, individuals filling positions in an Office of Research and Technology Applications shall be included in the overall laboratory/agency management development program so as to ensure that highly competent technical managers are full participants in the technology transfer process.
 
 #### (c) Functions of Research and Technology Applications Offices
 
@@ -50,7 +50,7 @@ The National Technical Information Service shall—
 
 &emsp;(A) develop and (with the consent of the Federal laboratory concerned) administer techniques, training courses, and materials concerning technology transfer to increase the awareness of Federal laboratory employees regarding the commercial potential of laboratory technology and innovations;
 
-&emsp;(B) furnish advice and assistance requested by Federal agencies and laboratories for use in their technology transfer programs (includingthe planning of seminars for small business and other industry);
+&emsp;(B) furnish advice and assistance requested by Federal agencies and laboratories for use in their technology transfer programs (including the planning of seminars for small business and other industry);
 
 &emsp;(C) provide a clearinghouse for requests, received at the laboratory level, for technical assistance from States and units of local governments, businesses, industrial development organizations, not-for-profit organizations including universities, Federal agencies and laboratories, and other persons, and—
 
@@ -94,7 +94,7 @@ The National Technical Information Service shall—
 
 #### (1) In general
 
-&emsp;Each Federal agency which operates or directs one or more Federal laboratories or which conducts activities under sections 207 and 209 of title 35 shall report annually to theOffice of Management and Budget, as part of the agency's annual budget submission, on the activities performed by that agency and its Federal laboratories under the provisions of this section and of sections 207 and 209 of title 35.
+&emsp;Each Federal agency which operates or directs one or more Federal laboratories or which conducts activities under sections 207 and 209 of title 35 shall report annually to the Office of Management and Budget, as part of the agency's annual budget submission, on the activities performed by that agency and its Federal laboratories under the provisions of this section and of sections 207 and 209 of title 35.
 
 #### (2) Contents
 
@@ -178,7 +178,7 @@ The reporting obligations imposed by this section—
 
 The Director of a laboratory, or the head of any Federal agency or department, may loan, lease, or give research equipment that is excess to the needs of the laboratory, agency, or department to an educational institution or nonprofit organization for the conduct of technical and scientific education and research activities. Title of ownership shall transfer with a gift under this section.
 
-(Pub. L. 96–480, §11, Oct. 21, 1980, 94 Stat. 2318; renumbered §10 and amended Pub. L. 99–502, §§3–5, 9(e)(1), Oct. 20, 1986, 100 Stat. 1787, 1789, 1791, 1797; renumbered §11 and amended Pub. L. 100–418, title V, §§5115(b)(2), 5122(a)(1), 5162(b), 5163(c)(1), (3), Aug. 23, 1988, 102 Stat. 1433, 1438, 1450, 1451; Pub. L. 100–519, title II, §§201(d)(3), 212(a)(4), Oct. 24, 1988, 102 Stat. 2594, 2595; Pub. L. 101–189, div. C, title XXXI, §3133(e), Nov. 29, 1989, 103 Stat. 1679; Pub. L. 102–245, title III, §§301, 303, Feb. 14, 1992, 106 Stat. 19, 20; Pub. L. 104–66, title III, §3001(f), Dec. 21, 1995, 109 Stat. 734; Pub. L. 104–113, §§3, 9, Mar. 7, 1996, 110 Stat. 775, 779; Pub. L. 105–394, title II, §212(d), Nov. 13, 1998, 112 Stat. 3655; Pub. L. 106–404, §§7(5), (6), 10(a), Nov. 1, 2000, 114 Stat. 1745–1747; Pub. L. 110–69, title III, §3002(c)(4), Aug. 9, 2007, 121 Stat. 586.)
+(Pub. L. 96–480, §11, Oct. 21, 1980, 94 Stat. 2318; renumbered §10 and amended Pub. L. 99–502, §§3–5, 9(e)(1), Oct. 20, 1986, 100 Stat. 1787, 1789, 1791, 1797; renumbered §11 and amended Pub. L. 100–418, title V, §§5115(b)(2), 5122(a)(1), 5162(b), 5163(c)(1), (3), Aug. 23, 1988, 102 Stat. 1433, 1438, 1450, 1451; Pub. L. 100–519, title II, §§201(d)(3), 212(a)(4), Oct. 24, 1988, 102 Stat. 2594, 2595; Pub. L. 101–189, div. C, title XXXI, §3133(e), Nov. 29, 1989, 103 Stat. 1679; Pub. L. 102–245, title III, §§301, 303, Feb. 14,1992, 106 Stat. 19, 20; Pub. L. 104–66, title III, §3001(f), Dec. 21, 1995, 109 Stat. 734; Pub. L. 104–113, §§3, 9, Mar. 7, 1996, 110 Stat. 775, 779; Pub. L. 105–394, title II, §212(d), Nov. 13, 1998, 112 Stat. 3655; Pub. L. 106–404, §§7(5), (6), 10(a), Nov. 1, 2000, 114 Stat. 1745–1747; Pub. L. 110–69, title III, §3002(c)(4), Aug. 9, 2007, 121 Stat. 586.)
 
 #### References in Text
 
@@ -230,7 +230,7 @@ Subsec. (e)(8). Pub. L. 102–245, §301(d), struck out former par. (8) which re
 
 Subsec. (i). Pub. L. 102–245, §303, added subsec. (i).
 
-<b>1989</b>—Subsec. (b). Pub. L. 101–189 struck out “after September 30, 1981,” after “(2)”, substituted “sufficient funding, either as a separate line item or from the agency's research and development budget,” for “not less than 0.5 percent of the agency's research and development budget”, struck out “agency head may waive the requirement set forth in clause (2) of the preceding sentence. If the agency head waives such requirement, the” after “transfer process. The”, and substituted “agency's technology transfer program for the preceding year and the agency's plans for conducting its technology transfer function for the upcoming year, including plans for securing intellectual property rights in laboratory innovations with commercial promise and plans for managing such innovations so as to benefit the competitiveness of United States industry” for“reasons for the waiver and alternate plans for conducting the technology transfer function at the agency”.
+<b>1989</b>—Subsec. (b). Pub. L. 101–189 struck out “after September 30, 1981,” after “(2)”, substituted “sufficient funding, either as a separate line item or from the agency's research and development budget,” for “not less than 0.5 percent of the agency's research and development budget”, struck out “agency head may waive the requirement set forth in clause (2) of the preceding sentence. If the agency head waives such requirement, the” after “transfer process. The”, and substituted “agency's technology transfer program for the preceding year and the agency's plans for conducting its technology transfer function for the upcoming year, including plans for securing intellectual property rights in laboratory innovations with commercial promise and plans for managing such innovations so as to benefit the competitiveness of United States industry” for “reasons for the waiver and alternate plans for conducting the technology transfer function at the agency”.
 
 <b>1988</b>—Subsec. (d)(6). Pub. L. 100–418, §5163(c)(3), added par. (6).
 
@@ -242,7 +242,7 @@ Pub. L. 100–418, §5115(b)(2), substituted “National Institute of Standards 
 
 Subsec. (g)(1). Pub. L. 100–519, §201(d)(3), inserted reference to the Under Secretary.
 
-Subsec. (h). Pub. L. 100–519, §212(a)(4), struck out subsec. (h) which read as follows: “None of the activities or functions of the National Technical Information Service which are not performed by contractors as of September 30, 1987, shall be contracted out or otherwise transferred from the Federal Government unless such transfer is expressly authorized by statute, or unless the value of all work performed under the contract and related contracts in each fiscal year does not exceed $250,000.”
+Subsec. (h). Pub. L. 100–519, §212(a)(4), struck out subsec. (h) which read as follows: “None of the activitiesor functions of the National Technical Information Service which are not performed by contractors as of September 30, 1987, shall be contracted out or otherwise transferred from the Federal Government unless such transfer is expressly authorized by statute, or unless the value of all work performed under the contract and related contracts in each fiscal year does not exceed $250,000.”
 
 Pub. L. 100–418, §5163(c)(1), added subsec. (h).
 
@@ -296,7 +296,7 @@ Section 1. <i>Transfer of Federally Funded Technology.</i>
 
 (4) promote the commercialization, in accord with my Memorandum to the Heads of Executive Departments and Agencies of February 18, 1983, of patentable results of federally funded research by granting to all contractors, regardless of size, the title to patents made in whole or in part with Federal funds, in exchange for royalty-free use by or on behalf of the government;
 
-(5) administer all patents and licenses to inventions made with federal assistance, which are owned by thenon-profit contractor or grantee, in accordance with Section 202(c)(7) of Title 35 of the United States Code as amended by Public Law 98–620, without regard to limitations on licensing found in that section prior to amendment or in Institutional Patent Agreements now in effect that were entered into before that law was enacted on November 8, 1984, unless, in the case of an invention that has not been marketed, the funding agency determines, based on information in its files, that the contractor or grantee has not taken adequate steps to market the inventions, in accordance with applicable law or an Institutional Patent Agreement;
+(5) administer all patents and licenses to inventions made with federal assistance, which are owned by the non-profit contractor or grantee, in accordance with Section 202(c)(7) of Title 35 of the United States Code as amended by Public Law 98–620, without regard to limitations on licensing found in that section prior to amendment or in Institutional Patent Agreements now in effect that were entered into before that law was enacted on November 8, 1984, unless, in the case of an invention that has not been marketed, the funding agency determines, based on information in its files, that the contractor or grantee has not taken adequate steps to market the inventions, in accordance with applicable law or an Institutional Patent Agreement;
 
 (6) implement, as expeditiously as practicable, royalty-sharing programs with inventors who were employees of the agency at the time their inventions were made, and cash award programs; and
 

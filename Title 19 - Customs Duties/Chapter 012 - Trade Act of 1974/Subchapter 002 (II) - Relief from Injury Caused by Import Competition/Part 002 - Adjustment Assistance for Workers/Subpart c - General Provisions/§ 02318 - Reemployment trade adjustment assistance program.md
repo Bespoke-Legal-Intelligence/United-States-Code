@@ -22,7 +22,7 @@
 
 #### (C) Training and other services
 
-&emsp;&emsp;A worker described in paragraph (3)(B) participating in the program establishedunder paragraph (1) is eligible to receive training approved under section 2296 of this title and employment and case management services under section 2295 of this title.
+&emsp;&emsp;A worker described in paragraph (3)(B) participating in the program established under paragraph (1) is eligible to receive training approved under section 2296 of this title and employment and case management services under section 2295 of this title.
 
 #### (3) Eligibility
 
@@ -36,7 +36,7 @@
 
 &emsp;&emsp;&emsp;(i) is at least 50 years of age;
 
-&emsp;&emsp;&emsp;(ii) earns not more than $55,000 each year in wages from reemployment;
+&emsp;&emsp;&emsp;(ii) earns not more than $50,000 each year in wages from reemployment;
 
 &emsp;&emsp;&emsp;(iii)(I) is employed on a full-time basis as defined by the law of the State in which the worker is employed and is not enrolled in a training program approved under section 2296 of this title; or
 
@@ -64,7 +64,7 @@
 
 &emsp;&emsp;The payments described in paragraph (2)(A) made to a worker may not exceed—
 
-&emsp;&emsp;&emsp;(i) $12,000 per worker during the eligibility period under paragraph (4)(A); or
+&emsp;&emsp;&emsp;(i) $10,000 per worker during the eligibility period under paragraph (4)(A); or
 
 &emsp;&emsp;&emsp;(ii) the amount described in subparagraph (B) per worker during the eligibility period under paragraph (4)(B).
 
@@ -72,7 +72,7 @@
 
 &emsp;&emsp;The amount described in this subparagraph is the amount equal to the product of—
 
-&emsp;&emsp;&emsp;(i) $12,000, and
+&emsp;&emsp;&emsp;(i) $10,000, and
 
 &emsp;&emsp;&emsp;(ii) the ratio of—
 
@@ -106,17 +106,21 @@
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), no payments may be made by a State under the program established under subsection (a)(1) of this section after February 12, 2011.
+&emsp;Except as provided in paragraph (2), no payments may be made by a State under the program established under subsection (a)(1) of this section after December 31, 2013.
 
 #### (2) Exception
 
 &emsp;Notwithstanding paragraph (1), a worker receiving payments under the program established under subsection (a)(1) of this section on the termination date described in paragraph (1) shall continue to receive such payments if the worker meets the criteria described in subsection (a)(3) of this section.
 
-(Pub. L. 93–618, title II, §246, as added Pub. L. 107–210, div. A, title I, §124(a), Aug. 6, 2002, 116 Stat. 944; amended Pub. L. 108–429, title II, §2004(a)(7), Dec. 3, 2004, 118 Stat. 2590; Pub. L. 111–5, div. B, title I, §1841(a), (b), Feb. 17, 2009, 123 Stat. 386, 389; Pub. L. 111–344, title I, §101(c)(3), Dec. 29, 2010, 124 Stat. 3613.)
+(Pub. L. 93–618, title II, §246, as added Pub. L. 107–210, div. A, title I, §124(a), Aug. 6, 2002, 116 Stat. 944; amended Pub. L. 108–429, title II, §2004(a)(7), Dec. 3, 2004, 118 Stat. 2590; Pub. L. 111–5, div. B, title I, §1841(a), (b), Feb. 17, 2009, 123 Stat. 386, 389; Pub. L. 111–344, title I, §101(c)(3), Dec. 29, 2010, 124 Stat. 3613; Pub. L. 112–40, title II, §§201(b), (c), 215, Oct. 21, 2011, 125 Stat. 403, 407.)
 
-#### Amendment of Section
+#### Reversion to Provisions in Effect on February 13, 2011
 
-<i>For termination of amendment by section 1893 of Pub. L. 111–5, see Effective and Termination Dates of 2009 Amendment note below.</i>
+<i>For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to section 233(b) of Pub. L. 112–40, see Codification and Effective and Termination Dates of 2011 Revival notes below.</i>
+
+#### Codification
+
+Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination of amendment by Pub. L. 111–5, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, and the provisions of this section, as amended by Pub. L. 111–5 and Pub. L. 111–344 and as in effect on Feb. 12, 2011, were temporarily revived, effective Oct. 21, 2011, until Jan. 1, 2014, by Pub. L. 112–40, §§201(b), (c), 233. See 2009, 2010, and 2011 Amendment notes, Effective and Termination Dates of 2009 Amendment notes, Effective Date of 2010 Amendment note, and Effective and Termination Dates of 2011 Revival note below.
 
 #### Prior Provisions
 
@@ -126,13 +130,21 @@ Another prior section 2318, Pub. L. 93–618, title II, §246, Jan. 3, 1975, 88 
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b)(1). Pub. L. 111–344 substituted “February 12, 2011” for “December 31, 2010”.
+<b>2011</b>—Pub. L. 112–40, §§201(b), (c), 233, temporarily revived the provisions of this section, as in effect on Feb. 12, 2011. See Codification note above and 2009 and 2010 Amendment and Effective and Termination Dates of 2011 Revival notes below.
 
-<b>2009</b>—Pub. L. 111–5, §§1841(a)(1), 1893, temporarily substituted “Reemployment trade adjustment assistance program” for “Demonstration project for alternative trade adjustment assistance for older workers” in section catchline. See Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (a)(3)(B)(ii). Pub. L. 112–40, §§215(a)(1), 233, temporarily substituted “$50,000” for “$55,000”. See Codification note above and Effective and Termination Dates of 2011 Revival note below.
 
-Subsec. (a)(1). Pub. L. 111–5, §§1841(a)(2)(A), 1893, temporarily substituted “The Secretary” for “Not later than 1 year after August 6, 2002, the Secretary” and “a reemployment trade adjustment assistance program” for “an alternative trade adjustment assistance program for older workers”. See Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (a)(5)(A)(i), (B)(i). Pub. L. 112–40, §§215(a)(2), 233, temporarily substituted “$10,000” for “$12,000”. See Codification note above and Effective and Termination Dates of 2011 Revival note below.
 
-Subsec. (a)(2)(A). Pub. L. 111–5, §§1841(a)(2)(B)(i)(I), 1893, temporarily substituted “for the eligibility period under subparagraph (A) or (B) of paragraph (4) (as the case may be)” for “for a period not to exceed 2 years” in introductory provisions. See Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (b)(1). Pub. L. 112–40, §§215(b), 233, temporarily substituted “December 31, 2013” for “February 12, 2011”. See Codification note above and Effective and Termination Dates of 2011 Revival note below.
+
+<b>2010</b>—Subsec. (b)(1). Pub. L. 111–344 substituted “February 12, 2011” for “December 31, 2010”. See Codification note above.
+
+<b>2009</b>—Pub. L. 111–5, §§1841(a)(1), 1893, temporarily substituted “Reemployment trade adjustment assistance program” for “Demonstration project for alternative trade adjustment assistance for older workers” in section catchline. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+
+Subsec. (a)(1). Pub. L. 111–5, §§1841(a)(2)(A), 1893, temporarily substituted “The Secretary” for “Not later than 1 year after August 6, 2002, the Secretary” and “a reemployment trade adjustment assistance program” for “an alternative trade adjustment assistance program for older workers”. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+
+Subsec. (a)(2)(A). Pub. L. 111–5, §§1841(a)(2)(B)(i)(I), 1893, temporarily substituted “for the eligibility period under subparagraph (A) or (B) of paragraph (4) (as the case may be)” for “for a period not to exceed 2 years” in introductory provisions. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
 Subsec. (a)(2)(A)(i), (ii). Pub. L. 111–5, §§1841(a)(2)(B)(i)(II), 1893, temporarily added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
 
@@ -140,23 +152,27 @@ Subsec. (a)(2)(A)(i), (ii). Pub. L. 111–5, §§1841(a)(2)(B)(i)(II), 1893, tem
 
 “(ii) the wages received by the worker at the time of separation.”
 
-> See Effective and Termination Dates of 2009 Amendment note below.
+> See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (a)(2)(B). Pub. L. 111–5, §§1841(a)(2)(B)(ii), 1893, temporarily substituted “for the eligibility period under subparagraph (A) or (B) of paragraph (4) (as the case may be)” for “for a period not to exceed 2 years” and struck out “, as added by section 201 of the Trade Act of 2002” before period. See Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (a)(2)(B). Pub. L. 111–5, §§1841(a)(2)(B)(ii), 1893, temporarily substituted “for the eligibility period under subparagraph (A) or (B) of paragraph (4) (as the case may be)” for “for a period not to exceed 2 years” and struck out “, as added by section 201 of the Trade Act of 2002” before period. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (a)(2)(C). Pub. L. 111–5, §§1841(a)(2)(B)(iii), 1893, temporarily added subpar. (C). See Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (a)(2)(C). Pub. L. 111–5, §§1841(a)(2)(B)(iii), 1893, temporarily added subpar. (C). See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (a)(3) to (7). Pub. L. 111–5, §§1841(a)(2)(C), 1893, temporarily added pars. (3) to (7) and struck out former pars. (3) to (5) which related to eligibility, total amount of payments, and limitation on other benefits, respectively. See Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (a)(3) to (7). Pub. L. 111–5, §§1841(a)(2)(C), 1893, temporarily added pars. (3) to (7) and struck out former pars. (3) to (5) which related to eligibility, total amount of payments, and limitation on other benefits, respectively. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (b)(1). Pub. L. 111–5, §§1841(b), 1893, temporarily substituted “December 31, 2010.” for “the date that is 5 years after the date on which such program is implemented by the State.” See Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (b)(1). Pub. L. 111–5, §§1841(b), 1893, temporarily substituted “December 31, 2010.” for “the date that is 5 years after the date on which such program is implemented by the State.” See Codification noteabove and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (b)(2). Pub. L. 111–5, §§1841(a)(3), 1893, temporarily substituted “subsection (a)(3)” for “subsection (a)(3)(B)”. See Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (b)(2). Pub. L. 111–5, §§1841(a)(3), 1893, temporarily substituted “subsection (a)(3)” for “subsection (a)(3)(B)”. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
 <b>2004</b>—Subsec. (a)(3)(B)(iii). Pub. L. 108–429, §2004(a)(7)(A), struck out “and” after semicolon.
 
 Subsec. (a)(5). Pub. L. 108–429, §2004(a)(7)(B), substituted “paragraph (2)(B)” for “section 2298(a)(2)(B) of this title”.
 
 Subsec. (b)(2). Pub. L. 108–429, §2004(a)(7)(C), substituted “if” for “provided that”.
+
+#### Effective and Termination Dates of 2011 Revival
+
+For temporary revival and applicability of provisions as in effect on Feb. 12, 2011, see sections 201(b), (c) and 233 of Pub. L. 112–40, set out as notes preceding section 2271 of this title. For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to section 233(b) of Pub. L. 112–40, see section 233 of Pub. L. 112–40, set out as a note preceding section 2271 of this title.
 
 #### Effective Date of 2010 Amendment
 
@@ -166,7 +182,7 @@ Amendment by Pub. L. 111–344 effective Jan. 1, 2011, see section 101(d) of Pub
 
 Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title.
 
-Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and this section to be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, except that subsec. (b)(1) shall be applied and administered by substituting “February 12, 2012” for “the date that is 5 years” and all that follows through “State”, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
+Section 1893 of Pub. L. 111–5, which provided that, except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and that this section be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, with certain exceptions, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403. See Codification note above.
 
 #### Effective Date
 
@@ -174,5 +190,5 @@ Section applicable to petitions for certification filed under this part or part 
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after Feb. 12, 2011, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after Dec. 31, 2013, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 

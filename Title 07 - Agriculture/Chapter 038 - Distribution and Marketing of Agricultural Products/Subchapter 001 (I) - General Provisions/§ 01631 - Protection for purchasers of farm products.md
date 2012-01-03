@@ -52,7 +52,7 @@ For the purposes of this section—
 
 &emsp;&emsp;&emsp;(iii) the farm products in which each buyer, commission merchant, and selling agent has an interest;
 
-&emsp;&emsp;(E) the Secretary of State distributes regularly as prescribed by the State to each buyer, commission merchant, and selling agent on the list described in subparagraph (D) a copy in written or printed form of those portions of the master list described in subparagraph (C) that cover the farm products in which such buyer, commission merchant, or selling agent has registered an interest except that—
+&emsp;&emsp;(E) the Secretary of State distributes regularly as prescribed by the State to eachbuyer, commission merchant, and selling agent on the list described in subparagraph (D) a copy in written or printed form of those portions of the master list described in subparagraph (C) that cover the farm products in which such buyer, commission merchant, or selling agent has registered an interest except that—
 
 &emsp;&emsp;&emsp;(i) the distribution of the portion of the master list may be in electronic, written, or printed form; and
 
@@ -66,7 +66,7 @@ For the purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) on the written request of the buyer, commission merchant, or selling agent, by paper copy of the list to the requestor;
 
-&emsp;&emsp;(F) the Secretary of State furnishes to those who are not registered pursuant to (2)(D) of this section <sup>1</sup> oral confirmation within 24 hours of any effective financingstatement on request followed by written confirmation to any buyer of farm products buying from a debtor, or commission merchant or selling agent selling for a seller covered by such statement.
+&emsp;&emsp;(F) the Secretary of State furnishes to those who are not registered pursuant to (2)(D) of this section <sup>1</sup> oral confirmation within 24 hours of any effective financing statement on request followed by written confirmation to any buyer of farm products buying from a debtor, or commission merchant or selling agent selling for a seller covered by such statement.
 
 &emsp;(3) The term “commission merchant” means any person engaged in the business of receiving any farm product for sale, on commission, or for or on behalf of another person.
 
@@ -110,7 +110,7 @@ For the purposes of this section—
 
 &emsp;(11) The term “Secretary of State” means the Secretary of State or the designee of the State.
 
-&emsp;(5) <sup>3</sup> The term “approved unique identifier” means a number, combination of numbers and letters, or other identifier selected by the Secretary of State using a selection system or method approved by the Secretary of Agriculture.
+&emsp;(5) <sup>3</sup> The term “approved unique identifier” means a number, combination of numbers andletters, or other identifier selected by the Secretary of State using a selection system or method approved by the Secretary of Agriculture.
 
 #### (d) Purchases free of security interest
 
@@ -230,17 +230,17 @@ Section was enacted as part of the Food Security Act of 1985, and not as part of
 
 #### Amendments
 
-2008—Subsec. (c)(2)(C)(ii)(II). Pub. L. 110–246, §14215(1), inserted “, except that the numerical list containing social security or taxpayer identification numbers may be encrypted for security purposes if the Secretary of State provides a method by which an effective search of the encrypted numbers may be conducted to determine whether the farm product at issue is subject to 1 or more liens” after “such debtors”.
+<b>2008</b>—Subsec. (c)(2)(C)(ii)(II). Pub. L. 110–246, §14215(1), inserted “, except that the numerical list containing social security or taxpayer identification numbers may be encrypted for security purposes if the Secretary of State provides a method by which an effective search of the encrypted numbers may be conducted to determine whether the farm product at issue is subject to 1 or more liens” after “such debtors”.
 
 Subsec. (c)(2)(E). Pub. L. 110–246, §14215(2), substituted “subparagraph (C)” for “paragraph (C)”, inserted “except that—” after “an interest”, and added cls. (i) and (ii) before semicolon at end.
 
-2004—Subsec. (c)(2)(C)(ii)(II), (4)(C)(iii). Pub. L. 108–447, §776(1)(A), (B), inserted “, or other approved unique identifier,” after “social security number” and “identification number”.
+<b>2004</b>—Subsec. (c)(2)(C)(ii)(II), (4)(C)(iii). Pub. L. 108–447, §776(1)(A), (B), inserted “, or other approved unique identifier,” after “social security number” and “identification number”.
 
 Subsec. (c)(5). Pub. L. 108–447, §776(1)(C), added par. (5) defining “approved unique identifier” at end of subsec. (c).
 
 Subsecs. (e)(1)(A)(ii)(III), (g)(2)(A)(ii)(III). Pub. L. 108–447, §776(2), (3), inserted “, or other approved unique identifier,” after “social security number” and “identification number”.
 
-2002—Subsec. (c)(4)(B). Pub. L. 107–171, §10604(a)(1), substituted “signed, authorized, or otherwise authenticated by the debtor,” for “signed”.
+<b>2002</b>—Subsec. (c)(4)(B). Pub. L. 107–171, §10604(a)(1), substituted “signed, authorized, or otherwise authenticated by the debtor,” for “signed”.
 
 Subsec. (c)(4)(C). Pub. L. 107–171, §10604(a)(2), (6), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “other than in the case of an electronically reproduced copy of the statement, is signed by the debtor;”.
 
@@ -286,7 +286,7 @@ Subsec. (g)(2)(A)(iv). Pub. L. 107–171, §10604(c)(3), substituted “notice s
 
 Subsec. (g)(2)(A)(v). Pub. L. 107–171, §10604(c)(4), inserted “contains” before “any payment”.
 
-1996—Subsec. (c)(4)(A). Pub. L. 104–127, §662(1), substituted “of the statement, or, in the case of a State which (under the applicable State law provisions of the Uniform Commercial Code) allows the electronic filing of financing statements without the signature of the debtor, is an electronically reproduced copy of the statement” for “thereof”.
+<b>1996</b>—Subsec. (c)(4)(A). Pub. L. 104–127, §662(1), substituted “of the statement, or, in the case of a State which (under the applicable State law provisions of the Uniform Commercial Code) allows the electronic filing of financing statements without the signature of the debtor, is an electronically reproduced copy of the statement” for “thereof”.
 
 Subsec. (c)(4)(B), (C). Pub. L. 104–127, §662(2), inserted “other than in the case of an electronically reproduced copy of the statement,” before “is”.
 

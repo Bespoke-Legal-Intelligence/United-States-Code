@@ -36,7 +36,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;On motion of the Corporation, the court in which the conviction or the agreement of a person referred to in subparagraph (A) has been entered may grant an exception to the application of paragraph (1) to such person if granting the exception is in the interest of justice.
+&emsp;&emsp;&emsp;On motion of the Corporation, the court in which the conviction or the agreementof a person referred to in subparagraph (A) has been entered may grant an exception to the application of paragraph (1) to such person if granting the exception is in the interest of justice.
 
 #### (ii) Period for filing
 
@@ -60,13 +60,13 @@ Whoever knowingly violates subsection (a) of this section shall be fined not mor
 
 #### (1) In general
 
-&emsp;Subsections (a) and (b) shall apply to any savings and loan holding company as if such savings and loan holding company were an insured depository institution, except that such subsections shall be applied for purposes of this subsection by substituting “Director of the Office of Thrift Supervision” for “Corporation” each place that term appears in such subsections.
+&emsp;Subsections (a) and (b) shall apply to any savings and loan holding company as if such savings and loan holding company were an insured depository institution, except that such subsections shall be applied for purposes of this subsection by substituting “Board of Governors of the Federal Reserve System” for “Corporation” each place that term appears in such subsections.
 
 #### (2) Authority of Director
 
-&emsp;The Director of the Office of Thrift Supervision may provide exemptions, by regulation or order, from the application of paragraph (1) if the exemption is consistent with the purposes of this subsection.
+&emsp;The Board of Governors of the Federal Reserve System may provide exemptions, by regulation or order, from the application of paragraph (1) if the exemption is consistent with the purposes of this subsection.
 
-(Sept. 21, 1950, ch. 967, §2\[19\], 64 Stat. 893; Pub. L. 101–73, title IX, §910(a), Aug. 9, 1989, 103 Stat. 477; Pub. L. 101–647, title XXV, §2502(a), Nov. 29, 1990, 104 Stat. 4860; Pub. L. 102–550, title XV, §1505, Oct. 28, 1992, 106 Stat. 4055; Pub. L. 103–322, title XXXII, §320605, Sept. 13, 1994, 108 Stat. 2119; Pub. L. 109–351, title VII, §710(a), Oct. 13, 2006, 120 Stat. 1990.)
+(Sept. 21, 1950, ch. 967, §2\[19\], 64 Stat. 893; Pub. L. 101–73, title IX, §910(a), Aug. 9, 1989, 103 Stat. 477; Pub. L. 101–647, title XXV, §2502(a), Nov. 29, 1990, 104 Stat. 4860; Pub. L. 102–550, title XV, §1505, Oct. 28, 1992, 106 Stat. 4055; Pub. L. 103–322, title XXXII, §320605, Sept. 13, 1994, 108 Stat. 2119; Pub. L. 109–351, title VII, §710(a), Oct. 13, 2006, 120 Stat. 1990; Pub. L. 111–203, title III, §363(8), July 21, 2010, 124 Stat. 1554.)
 
 #### References in Text
 
@@ -76,19 +76,25 @@ Sections 25 and 25A of the Federal Reserve Act, referred to in subsec. (d)(1), a
 
 #### Amendments
 
-2006—Subsecs. (d), (e). Pub. L. 109–351 added subsecs. (d) and (e).
+<b>2010</b>—Subsec. (e). Pub. L. 111–203 substituted “Board of Governors of the Federal Reserve System” for “Director of the Office of Thrift Supervision” in two places.
 
-1994—Subsec. (a)(2)(A)(i)(I). Pub. L. 103–322 substituted “1517, 1956, or 1957” for “or 1956”.
+<b>2006</b>—Subsecs. (d), (e). Pub. L. 109–351 added subsecs. (d) and (e).
 
-1992—Subsec. (a)(1)(A). Pub. L. 102–550 inserted “or money laundering” after “breach of trust”.
+<b>1994</b>—Subsec. (a)(2)(A)(i)(I). Pub. L. 103–322 substituted “1517, 1956, or 1957” for “or 1956”.
 
-1990—Subsec. (a). Pub. L. 101–647 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Except with the prior written consent of the Corporation—
+<b>1992</b>—Subsec. (a)(1)(A). Pub. L. 102–550 inserted “or money laundering” after “breach of trust”.
+
+<b>1990</b>—Subsec. (a). Pub. L. 101–647 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Except with the prior written consent of the Corporation—
 
 &emsp;“(1) any person who has been convicted of any criminal offense involving dishonesty or a breach of trust may not participate, directly or indirectly, in any manner in the conduct of the affairs of an insured depository institution; and
 
 &emsp;“(2) an insured depository institution may not permit such participation.”
 
-1989—Pub. L. 101–73 amended section generally. Prior to amendment, section read as follows: “Except with the written consent of the Corporation, no person shall serve as a director, officer, or employee of an insured bank who has been convicted, or who is hereafter convicted, of any criminal offense involving dishonesty or a breach of trust. For each willful violation of this prohibition, the bank involved shall be subject to a penalty of not more than $100 for each day this prohibition is violated, which the Corporation may recover for its use.”
+<b>1989</b>—Pub. L. 101–73 amended section generally. Prior to amendment, section read as follows: “Except with the written consent of the Corporation, no person shall serve as a director, officer, or employee of an insured bank who has been convicted, or who is hereafter convicted, of any criminal offense involving dishonesty or a breach of trust. For each willful violation of this prohibition, the bank involved shall be subject to a penalty of not more than $100 for each day this prohibition is violated, which the Corporation may recover for its use.”
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the transfer date, see section 351 of Pub. L. 111–203, set out as a note under section 906 of Title 2, The Congress.
 
 #### Provisions Not Repealed, Modified or Affected
 

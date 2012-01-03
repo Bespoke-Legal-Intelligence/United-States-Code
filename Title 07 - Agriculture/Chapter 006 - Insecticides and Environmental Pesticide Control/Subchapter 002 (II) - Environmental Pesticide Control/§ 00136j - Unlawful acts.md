@@ -4,7 +4,7 @@
 
 (1) Except as provided by subsection (b) of this section, it shall be unlawful for any person in any State to distribute or sell to any person—
 
-&emsp;(A) any pesticide that is not registered under section 136a of this title or whose registrationhas been canceled or suspended, except to the extent that distribution or sale otherwise has been authorized by the Administrator under this subchapter;
+&emsp;(A) any pesticide that is not registered under section 136a of this title or whose registration has been canceled or suspended, except to the extent that distribution or sale otherwise has been authorized by the Administrator under this subchapter;
 
 &emsp;(B) any registered pesticide if any claims made for it as a part of its distribution or sale substantially differ from any claims made for it as a part of the statement required in connection with its registration under section 136a of this title;
 
@@ -30,7 +30,7 @@
 
 &emsp;(C) to give a guaranty or undertaking provided for in subsection (b) of this section which is false in any particular, except that a person who receives and relies upon a guaranty authorized under subsection (b) of this section may give a guaranty to the same effect, which guaranty shall contain, in addition to the person's own name and address, the name and address of the person residing in the United States from whom the person received the guaranty or undertaking;
 
-&emsp;(D) to use for the person's own advantage or to reveal, other than to the Administrator, or officials or employees of the Environmental Protection Agency or other Federal executive agencies, or to the courts, or to physicians, pharmacists, and other qualified persons, needing such information for the performance of their duties, in accordance with such directions as the Administrator may prescribe, any information acquired by authority of this subchapter which is confidential under this subchapter;
+&emsp;(D) to use for the person's own advantage or to reveal, other than to the Administrator, or officials or employees of the EnvironmentalProtection Agency or other Federal executive agencies, or to the courts, or to physicians, pharmacists, and other qualified persons, needing such information for the performance of their duties, in accordance with such directions as the Administrator may prescribe, any information acquired by authority of this subchapter which is confidential under this subchapter;
 
 &emsp;(E) who is a registrant, wholesaler, dealer, retailer, or other distributor to advertise a product registered under this subchapter for restricted use without giving the classification of the product assigned to it under section 136a of this title;
 
@@ -66,7 +66,7 @@
 
 The penalties provided for a violation of paragraph (1) of subsection (a) of this section shall not apply to—
 
-&emsp;(1) any person who establishes a guaranty signed by, and containing the name and address of, the registrant or person residing in the United States from whom the person purchased or received in good faith the pesticide in the same unbroken package, to the effect that the pesticide was lawfully registered atthe time of sale and delivery to the person, and that it complies with the other requirements of this subchapter, and in such case the guarantor shall be subject to the penalties which would otherwise attach to the person holding the guaranty under the provisions of this subchapter;
+&emsp;(1) any person who establishes a guaranty signed by, and containing the name and address of, the registrant or person residing in the United States from whom the person purchased or received in good faith the pesticide in the same unbroken package, to the effect that the pesticide was lawfully registered at the time of sale and delivery to the person, and that it complies with the other requirements of this subchapter, and in such case the guarantor shall be subject to the penalties which would otherwise attach to the person holding the guaranty under the provisions of this subchapter;
 
 &emsp;(2) any carrier while lawfully shipping, transporting, or delivering for shipment any pesticide or device, if such carrier upon request of any officer or employee duly designated by the Administrator shall permit such officer or employee to copy all of its records concerning such pesticide or device;
 
@@ -84,7 +84,7 @@ A prior section 12 of act June 25, 1947, was classified to section 135j of this 
 
 #### Amendments
 
-1991—Subsec. (a)(2)(C). Pub. L. 102–237, §1006(b)(3)(L), substituted “the person's” for “his” and “the person” for “he” before “received”.
+<b>1991</b>—Subsec. (a)(2)(C). Pub. L. 102–237, §1006(b)(3)(L), substituted “the person's” for “his” and “the person” for “he” before “received”.
 
 Subsec. (a)(2)(D). Pub. L. 102–237, §1006(b)(3)(M), substituted “the person's” for “his”.
 
@@ -98,7 +98,7 @@ Subsec. (b)(1). Pub. L. 102–237, §1006(b)(3)(N), substituted “the person”
 
 Subsec. (b)(3). Pub. L. 102–237, §1006(b)(3)(O), substituted “the official duties of the public official” for “his official duties”.
 
-1988—Subsec. (a)(1). Pub. L. 100–532, §601(b)(2)(A), in introductory provisions, substituted “distribute or sell to any person” for “distribute, sell, offer for sale, hold for sale, ship, deliver for shipment, or receive and (having so received) deliver or offer to deliver, to any person”.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–532, §601(b)(2)(A), in introductory provisions, substituted “distribute or sell to any person” for “distribute, sell, offer for sale, hold for sale, ship, deliver for shipment, or receive and (having so received) deliver or offer to deliver, to any person”.
 
 Subsec. (a)(1)(A). Pub. L. 100–532, §603(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “any pesticide which is not registered under section 136a of this title, except as provided by section 136d(a)(1) of this title;”.
 
@@ -116,7 +116,7 @@ Subsec. (a)(2)(M). Pub. L. 100–532, §603(2)(C), substituted “this subchapte
 
 Subsec. (a)(2)(Q), (R), (S). Pub. L. 100–532, §603(2)(D), added subpars. (Q), (R), and (S).
 
-1978—Subsec. (a)(2)(F). Pub. L. 95–396 inserted proviso exempting from prohibition the sale, under regulations issued by the Administrator, of a restricted use pesticide to a person who is not a certified applicator for application by a certified applicator.
+<b>1978</b>—Subsec. (a)(2)(F). Pub. L. 95–396 inserted proviso exempting from prohibition the sale, under regulations issued by the Administrator, of a restricted use pesticide to a person who is not a certified applicator for application by a certified applicator.
 
 #### Effective Date of 1988 Amendment
 

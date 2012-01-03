@@ -34,7 +34,7 @@
 
 &emsp;&emsp;If the plan or coverage includes an annual limit on substantially all medical and surgical benefits (in this paragraph referred to as the “applicable annual limit”), the plan or coverage shall either—
 
-&emsp;&emsp;&emsp;(i) apply the applicable annual limit both to medical and surgical benefits to which it otherwise would apply and to mental health and substance use disorder benefits and not distinguish in the application of such limit between such medicaland surgical benefits and mental health and substance use disorder benefits; or
+&emsp;&emsp;&emsp;(i) apply the applicable annual limit both to medical and surgical benefits to which it otherwise would apply and to mental health and substance use disorder benefits and not distinguish in the application of such limit between such medical and surgical benefits and mental health and substance use disorder benefits; or
 
 &emsp;&emsp;&emsp;(ii) not include any annual limit on mental health or substance use disorder benefits that is less than the applicable annual limit.
 
@@ -94,7 +94,7 @@ Nothing in this section shall be construed—
 
 #### (B) Small employer
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “small employer” means, in connection with a group health plan with respect to a calendar year and a plan year, an employer who employed an average of at least 2 (or 1 in the case of an employer residing in a State that permits small groups to include a single individual) but not more than 50 employees onbusiness days during the preceding calendar year.
+&emsp;&emsp;For purposes of subparagraph (A), the term “small employer” means, in connection with a group health plan with respect to a calendar year and a plan year, an employer who employed an average of at least 2 (or 1 in the case of an employer residing in a State that permits small groups to include a single individual) but not more than 50 employees on business days during the preceding calendar year.
 
 #### (C) Application of certain rules in determination of employer size
 
@@ -160,7 +160,7 @@ Nothing in this section shall be construed—
 
 #### (F) Audits by appropriate agencies
 
-&emsp;&emsp;To determine compliance with this paragraph, the Secretary may audit the books and records of a group health plan or health insurance issuer relating to an exemption, including any actuarial reports preparedpursuant to subparagraph (C), during the 6 year period following the notification of such exemption under subparagraph (E). A State agency receiving a notification under subparagraph (E) may also conduct such an audit with respect to an exemption covered by such notification.
+&emsp;&emsp;To determine compliance with this paragraph, the Secretary may audit the books and records of a group health plan or health insurance issuer relating to an exemption, including any actuarial reports prepared pursuant to subparagraph (C), during the 6 year period following the notification of such exemption under subparagraph (E). A State agency receiving a notification under subparagraph (E) may also conduct such an audit with respect to an exemption covered by such notification.
 
 #### (d) Separate application to each option offered
 
@@ -192,7 +192,7 @@ For purposes of this section—
 
 #### (f) Secretary report
 
-The Secretary shall, by January 1, 2012, and every two years thereafter, submit to the appropriate committees of Congress a report on compliance of group health plans (and health insurance coverage offered in connection with such plans) with the requirements of this section. Such report shall include the results of any surveys or audits on compliance of group health plans (and health insurance coverage offered in connection with such plans) with such requirements and an analysis of the reasons for any failures to comply.
+The Secretary shall, by January 1, 2012, and every two years thereafter, submit to the appropriate committees of Congress a report on compliance of group health plans (and health insurance coverage offered in connection with suchplans) with the requirements of this section. Such report shall include the results of any surveys or audits on compliance of group health plans (and health insurance coverage offered in connection with such plans) with such requirements and an analysis of the reasons for any failures to comply.
 
 #### (g) Notice and assistance
 

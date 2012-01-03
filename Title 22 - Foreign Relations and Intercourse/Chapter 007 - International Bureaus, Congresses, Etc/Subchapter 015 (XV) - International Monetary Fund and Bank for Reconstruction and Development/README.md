@@ -83,3 +83,5 @@
 - [&sect; 00286rr - Approval to sell a limited amount of the Fund's gold](%C2%A7%2000286rr%20-%20Approval%20to%20sell%20a%20limited%20amount%20of%20the%20Fund%27s%20gold.md)
 - [&sect; 00286ss - Acceptance of amendment to Articles of Agreement of Fund approved on October 22, 1997](%C2%A7%2000286ss%20-%20Acceptance%20of%20amendment%20to%20Articles%20of%20Agreement%20of%20Fund%20approved%20on%20October%2022%2C%201997.md)
 - [&sect; 00286tt - Restrictions on use of United States funds for foreign governments; protection of American taxpayers](%C2%A7%2000286tt%20-%20Restrictions%20on%20use%20of%20United%20States%20funds%20for%20foreign%20governments%3B%20protection%20of%20American%20taxpayers.md)
+- [&sect; 00286uu - Acceptance of an amendment to the Articles of Agreement of the Bank to increase basic votes](%C2%A7%2000286uu%20-%20Acceptance%20of%20an%20amendment%20to%20the%20Articles%20of%20Agreement%20of%20the%20Bank%20to%20increase%20basic%20votes.md)
+- [&sect; 00286vv - Capital stock increases](%C2%A7%2000286vv%20-%20Capital%20stock%20increases.md)

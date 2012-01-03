@@ -54,7 +54,7 @@
 
 #### (A) General rule
 
-&emsp;&emsp;Except as otherwise provided in subparagraphs (B), (C), and (D), all years of service with the employer or employers maintaining the plan shall be taken into account in computing the period of service for purposes of paragraph (1).
+&emsp;&emsp;Except as otherwise provided in subparagraphs (B), (C), and (D), all years of servicewith the employer or employers maintaining the plan shall be taken into account in computing the period of service for purposes of paragraph (1).
 
 #### (B) Employees under 2-year 100 percent vesting
 
@@ -76,7 +76,7 @@
 
 #### (ii) Years of service not taken into account
 
-&emsp;&emsp;&emsp;If any years of service are not required to be taken into account by reason of a period of breaks in service to which clause (i) applies, such years of service shall not betaken into account in applying clause (i) to a subsequent period of breaks in service.
+&emsp;&emsp;&emsp;If any years of service are not required to be taken into account by reason of a period of breaks in service to which clause (i) applies, such years of service shall not be taken into account in applying clause (i) to a subsequent period of breaks in service.
 
 #### (iii) Nonvested participant defined
 
@@ -254,7 +254,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If a person becomes, or ceases to be, a member of a group described in subsection\(b), (c), (m), or (o) of section 414, then the requirements of this subsection shall be treated as having been met during the transition period with respect to any plan covering employees of such person or any other member of such group if—
+&emsp;&emsp;&emsp;If a person becomes, or ceases to be, a member of a group described in subsection (b), (c), (m), or (o) of section 414, then the requirements of this subsection shall be treated as having been met during the transition period with respect to any plan covering employees of such person or any other member of such group if—
 
 &emsp;&emsp;&emsp;&emsp;(I) such requirements were met immediately before each such change, and
 
@@ -472,7 +472,7 @@ Waiver of underfunding.—In the case of a plan maintained on January 1, 1974, p
 
 &emsp;&emsp;“(C)
 
-Labor organization conventions.—In the case of a plan maintained by a labor organization, which is exempt from tax under section 501(c)(5) of the Internal Revenue Code of 1986 exclusively for the benefit of its employees and their beneficiaries, section 412 of such Code and other amendments made by this part to the extent such amendments relate to such section 412, shall be applied by substituting for the term ‘December 31, 1975’ in subsection (b), the earlier of—
+Labor organization conventions.—In the case of a plan maintained by a labor organization,which is exempt from tax under section 501(c)(5) of the Internal Revenue Code of 1986 exclusively for the benefit of its employees and their beneficiaries, section 412 of such Code and other amendments made by this part to the extent such amendments relate to such section 412, shall be applied by substituting for the term ‘December 31, 1975’ in subsection (b), the earlier of—
 
 &emsp;&emsp;&emsp;“(i) the date on which the second convention of such labor organization held after the date of the enactment of this Act \[Sept. 2, 1974\] ends, or
 
@@ -504,7 +504,7 @@ Participation.—In the case of a plan to which section 410 of the Internal Reve
 
 &emsp;“(2)
 
-Vesting.—In the case of a plan to which section 411 of the Internal Revenue Code of 1986 applies,if any plan amendment with respect to breaks in service (which amendment is made or becomes effective after January 1, 1974, and before the date on which such section 411 first becomes effective with respect to such plan) provides that the nonforfeitable benefit derived from employer contributions to which any employee would be entitled is less than the lesser of the nonforfeitable benefit derived from employer contributions to which he would be entitled under—
+Vesting.—In the case of a plan to which section 411 of the Internal Revenue Code of 1986 applies, if any plan amendment with respect to breaks in service (which amendment is made or becomes effective after January 1, 1974, and before the date on which such section 411 first becomes effective with respect to such plan) provides that the nonforfeitable benefit derived from employer contributions to which any employee would be entitled is less than the lesser of the nonforfeitable benefit derived from employer contributions to which he would be entitled under—
 
 &emsp;&emsp;“(A) the break in service rules of section 411(a)(6) of such Code, or
 

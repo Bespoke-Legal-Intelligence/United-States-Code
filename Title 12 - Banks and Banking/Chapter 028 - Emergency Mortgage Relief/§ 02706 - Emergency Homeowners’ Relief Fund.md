@@ -14,7 +14,11 @@
 
 &emsp;(2) such amounts as may be appropriated for the purposes of this chapter.
 
-(Pub. L. 94–50, title I, §107, July 2, 1975, 89 Stat. 252; Pub. L. 98–479, title II, §204(m)(1), Oct. 17, 1984, 98 Stat. 2234.)
+(Pub. L. 94–50, title I, §107, July 2, 1975, 89 Stat. 252; Pub. L. 98–479, title II, §204(m)(1), Oct. 17, 1984, 98 Stat. 2234; Pub. L. 111–203, title XIV, §1496(b)(4), July 21, 2010, 124 Stat. 2208.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title XIV, §§1400(c), 1496(b)(4), July 21, 2010, 124 Stat. 2136, 2208, provided that this section is amended, effective on the date on which final regulations implementing such amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, by striking out “(a)” and subsection (b). See Effective Date of 2010 Amendment note below.</i>
 
 #### References in Text
 
@@ -22,7 +26,15 @@ This Act, referred to in subsec. (b)(1), is Pub. L. 94–50, July 2, 1975, 89 St
 
 #### Amendments
 
-1984—Subsec. (a). Pub. L. 98–479, §204(m)(1)(A), (B), redesignated subsec. (a)(1) as subsec. (a) and subpars. (A), (B), and (C) as pars. (1), (2), and (3), respectively.
+<b>1984</b>—Subsec. (a). Pub. L. 98–479, §204(m)(1)(A), (B), redesignated subsec. (a)(1) as subsec. (a) and subpars. (A), (B), and (C) as pars. (1), (2), and (3), respectively.
 
 Subsec. (b). Pub. L. 98–479, §204(m)(1)(C), (D), redesignated subsec. (a)(2) as subsec. (b) and subpars. (A) and (B) as pars. (1) and (2), respectively.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as a note under section 1601 of Title 15, Commerce and Trade.
+
+#### Emergency Mortgage Relief
+
+Pub. L. 111–203, title XIV, §1496(a), July 21, 2010, 124 Stat. 2207, provided that: “Effective October 1, 2010, and notwithstanding any other provision of law, there is hereby made available to the Secretary of Housing and Urban Development such sums as are necessary to provide $1,000,000,000 in assistance through the Emergency Homeowners’ Relief Fund, which such Secretary shall establish pursuant to section 107 of the Emergency Housing Act of 1975 (12 U.S.C. 2706), as such Act is amended by this section, for use for emergency mortgage assistance in accordance with title I of such Act \[12 U.S.C. 2701 et seq.\].”
 

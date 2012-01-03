@@ -56,7 +56,7 @@
 
 &emsp;&emsp;(F) Any known or anticipated acute or chronic health risks associated with the emergency and, where appropriate, advice regarding medical attention necessary for exposed individuals.
 
-&emsp;&emsp;(G) Proper precautions to take as a result of the release, including evacuation (unless such information is readily available to the community emergency coordinator pursuant to the emergency plan).
+&emsp;&emsp;(G) Proper precautions to take as a result of the release, including evacuation (unlesssuch information is readily available to the community emergency coordinator pursuant to the emergency plan).
 
 &emsp;&emsp;(H) The name and telephone number of the person or persons to be contacted for further information.
 

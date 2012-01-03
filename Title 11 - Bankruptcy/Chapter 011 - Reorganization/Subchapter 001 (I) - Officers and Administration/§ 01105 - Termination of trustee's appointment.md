@@ -6,7 +6,7 @@ At any time before confirmation of a plan, on request of a party in interest or 
 
 #### Historical and Revision Notes
 
-I74senate report no. 95–989
+#### senate report no. 95–989
 
 This section authorizes the court to terminate the trustee's appointment and to restore the debtor to possession and management of the property of the estate and to operation of the debtor's business. Section 1104(a) provides that this section does not apply in the case of a public company, for which the appointment of a trustee is mandatory.
 
@@ -16,9 +16,9 @@ This section authorizes the court to terminate the trustee's appointment and to 
 
 #### Amendments
 
-1986—Pub. L. 99–554 inserted “or the United States trustee” after “party in interest”.
+<b>1986</b>—Pub. L. 99–554 inserted “or the United States trustee” after “party in interest”.
 
-1984—Pub. L. 98–353 substituted “estate and of the” for “estate, and”.
+<b>1984</b>—Pub. L. 98–353 substituted “estate and of the” for “estate, and”.
 
 #### Effective Date of 1986 Amendment
 

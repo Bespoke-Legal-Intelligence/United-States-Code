@@ -18,13 +18,31 @@ Members Eligible for Programs.—Subject to such other eligibility requirements 
 
 (c)
 
-Associate Degrees.—(1) Subject to paragraph (2), an academic degree at the level of associate may be conferred under section 9317 of this title upon any enlisted member who has completed a program prescribed by the Community College of the Air Force.
+Seriously Wounded, Ill, or Injured Former and Retired Enlisted Members.—(1) The Secretary of the Air Force may authorize participation in a program of higher education under subsection (a)(1) by a person who is a former or retired enlisted member of the armed forces who at the time of the person's separation from active duty—
 
-(2) No degree may be conferred upon any enlisted member under this section unless the Secretary of Education determines that the standards for the award of academic degrees in agencies of the United States have been met.
+&emsp;(A) had commenced but had not completed a program of higher education under subsection (a)(1); and
 
-(Added Pub. L. 94–361, title VI, §602, July 14, 1976, 90 Stat. 928; amended Pub. L. 96–513, title V, §514(9), Dec. 12, 1980, 94 Stat. 2935; Pub. L. 103–160, div. A, title XI, §1182(a)(12), Nov. 30, 1993, 107 Stat. 1772; Pub. L. 104–106, div. A, title X, §1078(a), Feb. 10, 1996, 110 Stat. 451; Pub. L. 105–85, div. A, title V, §552(a), (b), Nov. 18, 1997, 111 Stat. 1748; Pub. L. 108–375, div. A, title V, §556(b), Oct. 28, 2004, 118 Stat. 1915.)
+&emsp;(B) is categorized by the Secretary concerned as seriously wounded, ill, or injured.
+
+(2) For purposes of this subsection, a person who may be categorized as seriously wounded, ill, or injured is a person with a serious injury or illness (as that term is defined in section 1602(8) of the Wounded Warrior Act (title XVI of Public Law 110–181; 10 U.S.C. 1071 note)).
+
+(3) A person may not be authorized under paragraph (1) to participate in a program of higher education after the end of the 10-year period beginning on the date of the person's separation from active duty.
+
+(4) The Secretary may not pay the tuition for participation in a program of higher education under subsection (a)(1) of a person participating in such program pursuant to an authorization under paragraph (1).
+
+(d)
+
+Associate Degrees.—(1) Subject to paragraph (2), an academic degree at the level of associate may be conferred under section 9317 of this title upon any person who has completed a program prescribed by the Community College of the Air Force.
+
+(2) No degree may be conferred upon any person under this section unless the Secretary of Education determines that the standards for the award of academic degrees in agencies of the United States have been met.
+
+(Added Pub. L. 94–361, title VI, §602, July 14, 1976, 90 Stat. 928; amended Pub. L. 96–513, title V, §514(9), Dec. 12, 1980, 94 Stat. 2935; Pub. L. 103–160, div. A, title XI, §1182(a)(12), Nov. 30, 1993, 107 Stat. 1772; Pub. L. 104–106, div. A, title X, §1078(a), Feb. 10, 1996, 110 Stat. 451; Pub. L. 105–85, div. A, title V, §552(a), (b), Nov. 18, 1997, 111 Stat. 1748; Pub. L. 108–375, div. A, title V, §556(b), Oct. 28, 2004, 118 Stat. 1915; Pub. L. 112–81, div. A, title V, §555(a), (b), Dec. 31, 2011, 125 Stat. 1415.)
 
 #### Amendments
+
+<b>2011</b>—Subsec. (c). Pub. L. 112–81, §555(a)(2), added subsec. (c). Former subsec. (c) redesignated (d).
+
+Subsec. (d). Pub. L. 112–81, §555(a)(1), (b), redesignated subsec. (c) as (d) and substituted “person” for “enlisted member” in two places.
 
 <b>2004</b>—Subsec. (c). Pub. L. 108–375 amended heading and text generally. Prior to amendment, text read as follows:
 
@@ -47,6 +65,10 @@ Subsec. (c). Pub. L. 105–85, §552(a)(2), (3), (b)(2), redesignated subsec. (b
 Subsec. (c). Pub. L. 103–160, §1182(a)(12)(B), substituted “Air Education and Training Command of the Air Force” for “Air Force Training Command”.
 
 <b>1980</b>—Subsec. (c). Pub. L. 96–513 substituted “Secretary of Education” for “Commissioner of Education of the Department of Health, Education, and Welfare”.
+
+#### Effective Date of 2011 Amendment
+
+Pub. L. 112–81, div. A, title V, §555(c), Dec. 31, 2011, 125 Stat. 1416, provided that: “Subsection (c) of section 9315 of title 10, United States Code (as added by subsection (a)(2)), shall apply to persons covered by paragraph (1) of such subsection who are categorized by the Secretary concerned as seriously wounded, ill, or injured after September 11, 2001. With respect to any such person who is separated from active duty during the period beginning on September 12, 2001, and ending on the date of the enactment of this Act \[Dec. 31, 2011\], the 10-year period specified in paragraph (3) of such subsection shall be deemed to commence on the date of the enactment of this Act.”
 
 #### Effective Date of 1997 Amendment
 

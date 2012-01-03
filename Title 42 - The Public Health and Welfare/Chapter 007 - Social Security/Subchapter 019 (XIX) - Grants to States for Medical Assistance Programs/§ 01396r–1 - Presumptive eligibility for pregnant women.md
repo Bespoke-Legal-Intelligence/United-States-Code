@@ -84,7 +84,7 @@ If the State has elected the option to provide a presumptive eligibility period 
 
 #### Amendment of Subsection (e)
 
-<i>Pub. L. 111–148, title II, §2004(b), (d), title X, §10201(a)(3), Mar. 23, 2010, 124 Stat. 283, 918, provided that, effective Jan. 1, 2014, subsection (e) of this section is amended by inserting “, clause (i)(IX),” after “clause (i)(VIII)”.</i>
+<i>Pub. L. 111–148, title II, §2004(b), (d), title X, §10201(a)(3), Mar. 23, 2010, 124 Stat. 283, 918, provided that, effective Jan. 1, 2014, subsection (e) of this section is amended by inserting “, clause (i)(IX),” after “clause (i)(VIII)”. See 2010 Amendment notes below.</i>
 
 #### References in Text
 
@@ -100,7 +100,9 @@ A prior section 1920 of act Aug. 14, 1935, was renumbered section 1939 and is cl
 
 #### Amendments
 
-<b>2010</b>—Subsec. (e). Pub. L. 111–148, §2001(e)(2)(C), inserted “or clause (ii)(XX)” after “clause (i)(VIII)”.
+<b>2010</b>—Subsec. (e). Pub. L. 111–148, §2004(b), inserted “, clause (i)(IX),” after “clause (i)(VIII)”.
+
+Pub. L. 111–148, §2001(e)(2)(C), inserted “or clause (ii)(XX)” after “clause (i)(VIII)”.
 
 Pub. L. 111–148, §2001(a)(4)(B), added subsec. (e).
 

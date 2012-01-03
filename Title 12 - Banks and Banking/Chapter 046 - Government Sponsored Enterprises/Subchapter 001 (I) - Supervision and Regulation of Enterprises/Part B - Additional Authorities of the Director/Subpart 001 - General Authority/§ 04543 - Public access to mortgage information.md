@@ -36,7 +36,7 @@ The Home Mortgage Disclosure Act of 1975, referred to in subsec. (a)(2), is titl
 
 #### Amendments
 
-2008—Pub. L. 110–289, §1122(a)(1), substituted “Director” for “Secretary” wherever appearing in subsecs. (a) to (c).
+<b>2008</b>—Pub. L. 110–289, §1122(a)(1), substituted “Director” for “Secretary” wherever appearing in subsecs. (a) to (c).
 
 Subsec. (a). Pub. L. 110–289, §1126(1), substituted “Availability” for “In general” in subsec. heading, inserted par. (1) designation and heading, and added par. (2). The amendment was executed to reflect the probable intent of Congress, notwithstanding an error in the directory language which did not take into consideration the prior amendment by Pub. L. 110–289, §1122(a)(1). See above.
 

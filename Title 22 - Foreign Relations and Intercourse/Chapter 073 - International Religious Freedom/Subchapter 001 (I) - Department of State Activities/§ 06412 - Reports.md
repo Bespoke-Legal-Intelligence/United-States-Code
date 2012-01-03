@@ -60,11 +60,11 @@ The Ambassador at Large shall assist the Secretary of State in preparing those p
 
 #### (ii) Countries of significant improvement in religious freedom
 
-&emsp;&emsp;&emsp;An identification of foreign countries the governments of which have demonstrated significant improvement in the protection and promotion of the internationally recognized right to freedom of religion during the period covered by the Annual Report. This section of the report shall include a description of the nature of the improvement and an analysis of the factors contributing to such improvement, including actions taken by the United States under this chapter.
+&emsp;&emsp;&emsp;An identification of foreign countries the governments of which have demonstrated significant improvement in the protection and promotion of the internationally recognized right to freedom of religion during the period covered by the Annual Report. This section of the report shall include a description of the nature of the improvement and an analysis of the factors contributing to such improvement,including actions taken by the United States under this chapter.
 
 #### (2) Classified addendum
 
-&emsp;If the Secretary of State determines that it is in the national security interests of the United States or is necessary for the safety of individuals to be identified in the Annual Report or is necessary to further the purposes of this chapter, any information required byparagraph (1), including measures or actions taken by the United States, may be summarized in the Annual Report or the Executive Summary and submitted in more detail in a classified addendum to the Annual Report or the Executive Summary.
+&emsp;If the Secretary of State determines that it is in the national security interests of the United States or is necessary for the safety of individuals to be identified in the Annual Report or is necessary to further the purposes of this chapter, any information required by paragraph (1), including measures or actions taken by the United States, may be summarized in the Annual Report or the Executive Summary and submitted in more detail in a classified addendum to the Annual Report or the Executive Summary.
 
 #### (c) Preparation of reports regarding violations of religious freedom
 

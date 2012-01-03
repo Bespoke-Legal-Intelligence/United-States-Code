@@ -6,13 +6,31 @@ If a joint inventor refuses to join in an application for patent or cannot be fo
 
 Whenever through error a person is named in an application for patent as the inventor, or through error an inventor is not named in an application, and such error arose without any deceptive intention on his part, the Director may permit the application to be amended accordingly, under such terms as he prescribes.
 
-(July 19, 1952, ch. 950, 66 Stat. 799; Pub. L. 97–247, §6(a), Aug. 27, 1982, 96 Stat. 320; Pub. L. 98–622, title I, §104(a), Nov. 8, 1984, 98 Stat. 3384; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
+(July 19, 1952, ch. 950, 66 Stat. 799; Pub. L. 97–247, §6(a), Aug. 27, 1982, 96 Stat. 320; Pub. L. 98–622, title I, §104(a), Nov. 8, 1984, 98 Stat. 3384; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, §20(a), Sept. 16, 2011, 125 Stat. 333.)
+
+#### Amendment of Section
+
+<i>Pub. L. 112–29, §20(a), (l), Sept. 16, 2011, 125 Stat. 333, 335, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, this section is amended:</i>
+
+<i>(1) in the first undesignated paragraph, by striking “When” and inserting “(a) JOINT INVENTIONS.—When”;</i>
+
+<i>(2) in the second undesignated paragraph, by striking “If a joint inventor” and inserting “(b) OMITTED INVENTOR.—If a joint inventor”; and</i>
+
+<i>(3) in the third undesignated paragraph—</i>
+
+<i>(A) by striking “Whenever” and inserting “(c) CORRECTION OF ERRORS IN APPLICATION.—Whenever”; and</i>
+
+<i>(B) by striking “and such error arose without any deceptive intention on his part,”.</i>
+
+<i>See 2011 Amendment note below.</i>
 
 #### Historical and Revision Notes
 
-The first paragraph is implied in the present statutes, and the part of the last paragraph relating to omission of an erroneously joined inventor is in the Patent Office rules. The remainder is new and provides for the correction of a mistake in erroneously joining a person as inventor, and for filing an application when one of several joint inventors cannot be found. This section is ancillary to section 256.
+The first paragraph is implied in the present statutes, and the part of the last paragraph relating to omission of an erroneously joined inventor is in the Patent Office rules. The remainder is new and provides for the correction of a mistake in erroneously joining a personas inventor, and for filing an application when one of several joint inventors cannot be found. This section is ancillary to section 256.
 
 #### Amendments
+
+<b>2011</b>—Pub. L. 112–29 designated first to third pars. as subsecs. (a) to (c), respectively, inserted headings, and in subsec. (c), struck out “and such error arose without any deceptive intention on his part,” before “the Director”.
 
 <b>2002</b>—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
 
@@ -21,6 +39,10 @@ The first paragraph is implied in the present statutes, and the part of the last
 <b>1984</b>—Pub. L. 98–622 amended first par. generally, striking out “and each sign the application” after “patent jointly” and inserting sentence beginning “Inventors may apply”.
 
 <b>1982</b>—Pub. L. 97–247 substituted “Inventors” for “Joint inventors” as section catchline, and substituted “through error a person is named in an application for patent as the inventor, or through error an inventor is not named in an application” for “a person is joined in an application for patent as joint inventor through error, or a joint inventor is not included in an application through error”.
+
+#### Effective Date of 2011 Amendment
+
+Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(<i>l</i>) of Pub. L. 112–29, set out as a note under section 2 of this title.
 
 #### Effective Date of 1999 Amendment
 

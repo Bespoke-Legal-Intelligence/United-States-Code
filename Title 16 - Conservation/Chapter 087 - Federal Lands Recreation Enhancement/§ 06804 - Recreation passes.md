@@ -12,7 +12,7 @@
 
 #### (3) Notice of establishment
 
-&emsp;The Secretaries shall publish a notice in the Federal Register when the National Parks andFederal Recreational Lands Pass is first established and available for purchase.
+&emsp;The Secretaries shall publish a notice in the Federal Register when the National Parks and Federal Recreational Lands Pass is first established and available for purchase.
 
 #### (4) Duration
 
@@ -38,7 +38,7 @@
 
 #### (7) Administrative guidelines
 
-&emsp;The Secretaries shall issue guidelines on administration of the National Parks and Federal Recreational Lands Pass, which shall include agreement on price, the distribution of revenues between the Federal land management agencies, the sharing of costs, benefits provided, marketing and design, adequate documentation for age and disability discounts under subsection (b), and the issuance of that recreation pass to volunteers. The Secretaries shall take into consideration all relevant visitor and sales data available in establishing the guidelines.
+&emsp;The Secretaries shall issue guidelines on administration of the National Parks and Federal Recreational Lands Pass, which shall include agreement on price, the distribution of revenues between the Federal land management agencies, the sharing of costs, benefitsprovided, marketing and design, adequate documentation for age and disability discounts under subsection (b), and the issuance of that recreation pass to volunteers. The Secretaries shall take into consideration all relevant visitor and sales data available in establishing the guidelines.
 
 #### (8) Development and implementation agreements
 
@@ -80,7 +80,7 @@ The Secretary may provide for a discounted or free admission day or use of Feder
 
 #### (1) Existing passports
 
-&emsp;A passport issued under section 460<i>l</i>–6a of this title or title VI of the National Parks Omnibus Management Act of 1998 (Public Law 105–391; 16 U.S.C. 5991–5995), such as the Golden Eagle Passport, the Golden Age Passport, the Golden Access Passport, and the National Parks Passport, that was valid on the day before the publication of the Federal Registernotice required under subsection (a)(3) shall be valid in accordance with the terms agreed to at the time of issuance of the passport, to the extent practicable, and remain in effect until expired, lost, or stolen.
+&emsp;A passport issued under section 460<i>l</i>–6a of this title or title VI of the National Parks Omnibus Management Act of 1998 (Public Law 105–391; 16 U.S.C. 5991–5995), such as the Golden Eagle Passport, the Golden Age Passport, the Golden Access Passport, and the National Parks Passport, that was valid on the day before the publication of the Federal Register notice required under subsection (a)(3) shall be valid in accordance with the terms agreed to at the time of issuance of the passport, to the extent practicable, and remain in effect until expired, lost, or stolen.
 
 #### (2) Permits
 

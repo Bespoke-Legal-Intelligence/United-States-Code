@@ -48,7 +48,7 @@ Notwithstanding any other provision of law, the Secretary of State may provide f
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–277, §2311(a)(1), substituted “Subject to subsection (e) of this section, members” for “Members” in introductory provisions.
 
-Subsec. (d). Pub. L. 105–292 inserted “Such service in the promotion of internationally recognized humanrights, including the right to freedom of religion, shall serve as a basis for granting awards under this section.” after first sentence.
+Subsec. (d). Pub. L. 105–292 inserted “Such service in the promotion of internationally recognized human rights, including the right to freedom of religion, shall serve as a basis for granting awards under this section.” after first sentence.
 
 Subsec. (e). Pub. L. 105–277, §2311(a)(2), added subsec. (e).
 

@@ -40,7 +40,19 @@
 
 (3) For purposes of paragraph (2), the term “joint research agreement” means a written contract, grant, or cooperative agreement entered into by two or more persons or entities for the performance of experimental, developmental, or research work in the field of the claimed invention.
 
-(July 19, 1952, ch. 950, 66 Stat. 798; Pub. L. 98–622, title I, §103, Nov. 8, 1984, 98 Stat. 3384; Pub. L. 104–41, §1, Nov. 1, 1995, 109 Stat. 351; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4807(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–591; Pub. L. 108–453, §2, Dec. 10, 2004, 118 Stat. 3596.)
+(July 19, 1952, ch. 950, 66 Stat. 798; Pub. L. 98–622, title I, §103, Nov. 8, 1984, 98 Stat. 3384; Pub. L. 104–41, §1, Nov. 1, 1995, 109 Stat. 351; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4807(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–591; Pub. L. 108–453, §2, Dec. 10, 2004, 118 Stat. 3596; Pub. L. 112–29, §§3(c), 20(j), Sept. 16, 2011, 125 Stat. 287, 335.)
+
+#### Amendment of Section
+
+<i>Pub. L. 112–29, §20(j), (l), Sept. 16, 2011, 125 Stat. 335, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, this section is amended by striking “of this title” each place that term appears. See 2011 Amendment notes below.</i>
+
+<i>Pub. L. 112–29, §3(c), (n), Sept. 16, 2011, 125 Stat. 287, 293, provided that, effective upon the</i><i>expiration of the 18-month period beginning on Sept. 16, 2011, and applicable to certain applications for patent and any patents issuing thereon, this section is amended to read as follows:</i>
+
+#### §103. Conditions for patentability; non-obvious subject matter
+
+<i>A patent for a claimed invention may not be obtained, notwithstanding that the claimed invention is not identically disclosed as set forth in section 102, if the differences between the claimed invention and the prior art are such that the claimed invention as a whole would have been obvious before the effective filing date of the claimed invention to a person having ordinary skill in the art to which the claimed invention pertains. Patentability shall not be negated by the manner in which the invention was made.</i>
+
+<i>See 2011 Amendment notes below.</i>
 
 #### Historical and Revision Notes
 
@@ -50,6 +62,10 @@ The second sentence states that patentability as to this requirement is not to b
 
 #### Amendments
 
+<b>2011</b>—Pub. L. 112–29, §3(c), amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) and related to conditions for patentability; non-obvious subject matter.
+
+Subsecs. (a), (c)(1). Pub. L. 112–29, §20(j), struck out “of this title” after “102”.
+
 <b>2004</b>—Subsec. (c). Pub. L. 108–453 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Subject matter developed by another person, which qualifies as prior art only under one or more of subsections (e), (f), and (g) of section 102 of this title, shall not preclude patentability under this section where the subject matter and the claimed invention were, at the time the invention was made, owned by the same person or subject to an obligation of assignment to the same person.”
 
 <b>1999</b>—Subsec. (c). Pub. L. 106–113 substituted “one or more of subsections (e), (f), and (g)” for “subsection (f) or (g)”.
@@ -57,6 +73,12 @@ The second sentence states that patentability as to this requirement is not to b
 <b>1995</b>—Pub. L. 104–41 designated first and second pars. as subsecs. (a) and (c), respectively, and added subsec. (b).
 
 <b>1984</b>—Pub. L. 98–622 inserted “Subject matter developed by another person, which qualifies as prior art only under subsection (f) or (g) of section 102 of this title, shall not preclude patentability under this section where the subject matter and the claimed invention were, at the time the invention was made, owned by the same person or subject to an obligation of assignment to the same person.”
+
+#### Effective Date of 2011 Amendment
+
+Amendment by section 3(c) of Pub. L. 112–29 effective upon the expiration of the 18-month period beginning on Sept. 16, 2011, and applicable to certain applications for patent and any patents issuing thereon, see section 3(n) of Pub. L. 112–29, set out as an Effective Date of 2011 Amendment; Savings Provisions note under section 100 of this title.
+
+Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(<i>l</i>) of Pub. L. 112–29, set out as a note under section 2 of this title.
 
 #### Effective Date of 2004 Amendment
 
@@ -88,7 +110,7 @@ Section 106 of Pub. L. 98–622 provided that:
 
 “(c) Section 271(f) of title 35, United States Code, added by section 101 of this Act shall apply only to the supplying, or causing to be supplied, of any component or components of a patented invention after the date of enactment of this Act \[Nov. 8, 1984\].
 
-“(d) No United States patent granted before the date of enactment of this Act \[Nov. 8, 1984\] shall abridge or affect the right of any person or his successors in business who made, purchased, or used prior to such effective date anything protected by the patent, to continue the use of, or to sell to others to be used or sold, the specific thing so made, purchased, or used, if the patent claims were invalid or otherwise unenforceable on a ground obviated by section 103 or 104 of this Act \[amending this section and sections 116 and 120 of this title\] and the person made, purchased, or used the specific thing in reasonable reliance on such invalidity or unenforceability. If a person reasonably relied on such invalidity or unenforceability, the court before which such matter is in question may provide for the continued manufacture, use, or sale of the thing made, purchased, or used as specified, or for the manufacture, use, or sale of which substantial preparation was made before the date of enactment of this Act, and it may also provide for the continued practice of any process practiced, or for the practice of which substantial preparation was made, prior to the date of enactment, to the extent and under such terms as the court deems equitable for the protection of investments made or business commenced before the date of enactment.
+“(d) No United States patent granted before the date of enactment of this Act \[Nov. 8, 1984\] shall abridge or affect the right of any person or his successors in business who made, purchased, or used prior to such effective date anything protected by the patent, to continue the use of, or to sell to others to be used or sold, the specific thing so made, purchased, or used, if the patent claims were invalid or otherwise unenforceable on a ground obviated by section 103 or 104 of this Act \[amending this section and sections 116 and 120 of this title\] and the person made, purchased, or used the specific thing in reasonable reliance on such invalidity or unenforceability. If a person reasonably relied on such invalidity or unenforceability, the court before whichsuch matter is in question may provide for the continued manufacture, use, or sale of the thing made, purchased, or used as specified, or for the manufacture, use, or sale of which substantial preparation was made before the date of enactment of this Act, and it may also provide for the continued practice of any process practiced, or for the practice of which substantial preparation was made, prior to the date of enactment, to the extent and under such terms as the court deems equitable for the protection of investments made or business commenced before the date of enactment.
 
 “(e) The amendments made by this Act shall not affect the right of any party in any case pending in court on the date of enactment \[Nov. 8, 1984\] to have their rights determined on the basis of the substantive law in effect prior to the date of enactment.”
 

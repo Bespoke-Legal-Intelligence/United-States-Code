@@ -10,15 +10,11 @@
 
 > At the option of the State, the plan may provide that manuals and other policy issuances will be furnished to persons without charge for the reasonable cost of such materials, but such provision shall not be required by the Secretary as a condition for the approval of such plan under this subchapter.
 
-(Aug. 14, 1935, ch. 531, title XIV, §1402, as added Aug. 28, 1950, ch. 809, title III, pt. 5, §351, 64 Stat. 555; amended 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Aug. 1, 1956, ch. 836, title III, §314(b), 70 Stat. 850; Pub. L. 87–543, title I, §§104(a)(3)(I), 106(a)(3), July 25, 1962, 76 Stat. 185, 188; Pub. L. 89–97, title IV, §403(d) July 30, 1965, 79 Stat. 418; Pub. L. 90–248, title II, §§210(a)(4), 213(a)(3), Jan. 2, 1968, 81 Stat. 896, 898; Pub. L. 92–603, title IV, §§405(c), 406(c), 407(c), 410(c), 413(c), Oct. 30, 1972, 86 Stat. 1488, 1489, 1491, 1492; Pub. L. 98–369, div. B, title VI, §2651(g), July 18, 1984, 98 Stat. 1150; Pub. L. 104–193, title I, §108(h), Aug. 22, 1996, 110 Stat. 2169.)
+(Aug. 14, 1935, ch. 531, title XIV, §1402, as added Aug. 28, 1950, ch. 809, title III, pt. 5, §351, 64 Stat. 555; amended 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Aug. 1, 1956, ch. 836, title III, §314(b), 70 Stat. 850; Pub.L. 87–543, title I, §§104(a)(3)(I), 106(a)(3), July 25, 1962, 76 Stat. 185, 188; Pub. L. 89–97, title IV, §403(d) July 30, 1965, 79 Stat. 418; Pub. L. 90–248, title II, §§210(a)(4), 213(a)(3), Jan. 2, 1968, 81 Stat. 896, 898; Pub. L. 92–603, title IV, §§405(c), 406(c), 407(c), 410(c), 413(c), Oct. 30, 1972, 86 Stat. 1488, 1489, 1491, 1492; Pub. L. 98–369, div. B, title VI, §2651(g), July 18, 1984, 98 Stat. 1150; Pub. L. 104–193, title I, §108(h), Aug. 22, 1996, 110 Stat. 2169.)
 
 #### Repeal of Section
 
 <i>Pub. L. 92–603, title III, §303(a), (b), Oct. 30, 1972, 86 Stat. 1484, provided that this section is repealed effective Jan. 1, 1974, except with respect to Puerto Rico, Guam, and the Virgin Islands.</i>
-
-#### References in Text
-
-Part A of subchapter IV of this chapter, referred to in subsec. (a)(7), is classified to section 601 et seq. of this title.
 
 #### Amendments
 
@@ -76,7 +72,7 @@ Amendment by act Aug. 1, 1956, effective July 1, 1957, see section 314 \[315\] o
 
 Functions, powers, and duties of Secretary under subsec. (a)(5)(A) of this section, insofar as relates to the prescription of personnel standards on a merit basis, transferred to Office of Personnel Management, see section 4728(a)(3)(D) of this title.
 
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfareand all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
 #### Public Access to State Disbursement Records
 

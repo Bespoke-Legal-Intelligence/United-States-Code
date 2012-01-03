@@ -10,7 +10,7 @@
 
 &emsp;(4) application of State redemption periods to these mortgages following their foreclosure would impair the salability of the properties involved and discourage their rehabilitation and improvement, thereby compounding the problems referred to in clause (3);
 
-&emsp;(5) the availability of a uniform and more expeditious procedure for the foreclosure of these mortgages by the Secretary and continuation of the practice of not applying postsale redemption periods to such mortgages will tend to ameliorate these conditions; and
+&emsp;(5) the availability of a uniform and more expeditious procedure for the foreclosure ofthese mortgages by the Secretary and continuation of the practice of not applying postsale redemption periods to such mortgages will tend to ameliorate these conditions; and
 
 &emsp;(6) providing the Secretary with a nonjudicial foreclosure procedure will reduce unnecessary litigation by removing many foreclosures from the courts where they contribute to overcrowded calendars.
 
@@ -20,7 +20,7 @@
 
 #### Amendments
 
-1992—Subsec. (a)(1). Pub. L. 102–550, §517(a)(1), substituted “multifamily mortgages” for “real estate mortgages which the Secretary holds pursuant to title II of the National Housing Act or section 312 of the Housing Act of 1964 covering multiunit residential and nonresidential properties”.
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–550, §517(a)(1), substituted “multifamily mortgages” for “real estate mortgages which the Secretary holds pursuant to title II of the National Housing Act or section 312 of the Housing Act of 1964 covering multiunit residential and nonresidential properties”.
 
 Subsec. (b). Pub. L. 102–550, §517(a)(2), substituted “multifamily mortgages” for “multiunit residential and nonresidential mortgages held by the Secretary of Housing and Urban Development pursuant to title II of the National Housing Act or section 312 of the Housing Act of 1964”.
 

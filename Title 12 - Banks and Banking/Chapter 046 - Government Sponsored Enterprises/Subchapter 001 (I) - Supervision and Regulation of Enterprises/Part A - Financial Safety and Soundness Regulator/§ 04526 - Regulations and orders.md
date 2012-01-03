@@ -16,7 +16,7 @@ This chapter, referred to in subsec. (a), was in the original “this title”, 
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–289, §1107(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Director shall issue any regulations and orders necessary to carry out the duties of the Director and to carry out this chapter before the expiration of the 18-month period beginning on the appointment of the Director under section 4512 of this title. Such regulations and orders shall be subject to the approval of the Secretary only to the extent provided in subsections (b) and (c) of section 4513 of this title.”
+<b>2008</b>—Subsec. (a). Pub. L. 110–289, §1107(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Director shall issue any regulations and orders necessary to carry out the duties of the Director and to carry out this chapter before the expiration of the 18-month period beginning on the appointment of the Director under section 4512 of this title. Such regulations and orders shall be subject to the approval of the Secretary only to the extent provided in subsections (b) and (c) of section 4513 of this title.”
 
 Subsec. (c). Pub. L. 110–289, §1107(2), struck out subsec. (c). Text read as follows: “The Director may not publish any regulation for comment under subsection (b) of this section unless, not less than 15 days before it is published for comment, the Director has submitted a copy of the regulation, in the form it is intended to be proposed, to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate.”
 

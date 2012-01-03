@@ -30,7 +30,7 @@ The Secretary of the Interior is authorized to pay from agency appropriations th
 
 #### (e) Interior appropriations budget proposal
 
-The Secretary shall identify the funds utilized to enforce this chapter and any regulationsthereto as a specific appropriations item in the Department of the Interior appropriations budget proposal to the Congress.
+The Secretary shall identify the funds utilized to enforce this chapter and any regulations thereto as a specific appropriations item in the Department of the Interior appropriations budget proposal to the Congress.
 
 (Pub. L. 97–79, §9(a)–(c), (g), (h), Nov. 16, 1981, 95 Stat. 1079, 1080.)
 

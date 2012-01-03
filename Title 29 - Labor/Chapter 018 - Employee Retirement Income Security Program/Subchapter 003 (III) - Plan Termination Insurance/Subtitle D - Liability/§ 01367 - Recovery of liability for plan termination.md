@@ -1,6 +1,6 @@
 ### §1367. Recovery of liability for plan termination
 
-The corporation is authorized to make arrangements with contributing sponsors and members of their controlled groups who are or may become liable under section 1362, 1363, or 1364 of this title for payment of their liability, including arrangements for deferred payment of amounts of liability to the corporation accruing as of the termination date on such terms and forsuch periods as the corporation deems equitable and appropriate.
+The corporation is authorized to make arrangements with contributing sponsors and members of their controlled groups who are or may become liable under section 1362, 1363, or 1364 of this title for payment of their liability, including arrangements for deferred payment of amounts of liability to the corporation accruing as of the termination date on such terms and for such periods as the corporation deems equitable and appropriate.
 
 (Pub. L. 93–406, title IV, §4067, Sept. 2, 1974, 88 Stat. 1032; Pub. L. 99–272, title XI, §11016(a)(6)(A), Apr. 7, 1986, 100 Stat. 271; Pub. L. 100–203, title IX, §9313(b)(6), Dec. 22, 1987, 101 Stat. 1330–366; Pub. L. 101–239, title VII, §7893(g)(3), Dec. 19, 1989, 103 Stat. 2448.)
 

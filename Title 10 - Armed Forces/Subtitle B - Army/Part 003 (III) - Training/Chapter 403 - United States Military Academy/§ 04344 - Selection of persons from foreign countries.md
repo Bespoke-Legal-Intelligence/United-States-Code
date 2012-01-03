@@ -92,7 +92,7 @@ Subsec. (d). Pub. L. 98–94 reenacted subsec. (d) without change.
 
 Pub. L. 107–107, div. A, title V, §533(a)(3), Dec. 28, 2001, 115 Stat. 1105, provided that: “The amendments made by paragraph (2) \[amending this section\] shall not apply with respect to any person who entered the United States Military Academy to receive instruction under section 4344 of title 10, United States Code, before the date of the enactment of this Act \[Dec. 28, 2001\].”
 
-Pub. L. 107–107, div. A, title V, §533(d), Dec. 28, 2001, 115 Stat. 1106, provided that: “The amendments made by this section \[amending this section and sections 6957 and 9344 of this title\] shall not apply with respect to any academic year that began before the date of the enactment of this Act \[Dec. 28, 2001\].”
+Pub. L. 107–107, div. A, title V, §533(d), Dec. 28, 2001, 115 Stat. 1106, provided that: “The amendments madeby this section \[amending this section and sections 6957 and 9344 of this title\] shall not apply with respect to any academic year that began before the date of the enactment of this Act \[Dec. 28, 2001\].”
 
 #### Effective Date of 2000 Amendment
 
@@ -110,7 +110,7 @@ Section 543(d) of Pub. L. 105–85 provided that: “The amendments made by this
 
 Section 1004(d) of Pub. L. 98–94 provided that:
 
-“Sections 4344(b)(2), 6957(b)(2), and 9344(b)(2) of title 10, United States Code, as added by this section, do not apply to the cost of providing instruction to a person who, before the effective date of this section, entered the United States Military Academy, the United States Naval Academy, or the United States Air Force Academy under section 4344, 4345, 6957, 9344, or 9345 of suchtitle, as in effect on the day before such date. Any such person shall be counted against the maximum of 40 persons who may attend the Academy concerned at any time under any of those sections.
+“Sections 4344(b)(2), 6957(b)(2), and 9344(b)(2) of title 10, United States Code, as added by this section, do not apply to the cost of providing instruction to a person who, before the effective date of this section, entered the United States Military Academy, the United States Naval Academy, or the United States Air Force Academy under section 4344, 4345, 6957, 9344, or 9345 of such title, as in effect on the day before such date. Any such person shall be counted against the maximum of 40 persons who may attend the Academy concerned at any time under any of those sections.
 
 “The amendments made by subsections (a), (b), and (c) \[amending this section and sections 6957 and 9344 of this title and repealing sections 4345 and 9345 of this title\] shall take effect one year after the date of the enactment of this Act \[Sept. 24, 1983\] and shall apply to each person entering the United States Military Academy, the United States Naval Academy, or the United States Air Force Academy after that effective date.”
 

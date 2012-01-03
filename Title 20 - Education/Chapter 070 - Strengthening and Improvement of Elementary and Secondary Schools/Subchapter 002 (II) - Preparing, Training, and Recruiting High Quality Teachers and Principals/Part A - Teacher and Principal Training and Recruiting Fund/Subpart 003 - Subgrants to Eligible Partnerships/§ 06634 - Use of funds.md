@@ -8,7 +8,7 @@ An eligible partnership that receives a subgrant under section 6632 of this titl
 
 &emsp;&emsp;(A) teachers and highly qualified paraprofessionals, and, if appropriate, principals have subject matter knowledge in the academic subjects that the teachers teach, including the use of computer related technology to enhance student learning; and
 
-&emsp;&emsp;(B) principals have the instructional leadership skills that will help such principals work most effectively with teachers to help students master core academic subjects; and
+&emsp;&emsp;(B) principals have the instructional leadership skills that will help such principalswork most effectively with teachers to help students master core academic subjects; and
 
 &emsp;(2) developing and providing assistance to local educational agencies and individuals who are teachers, highly qualified paraprofessionals, or principals of schools served by such agencies, for sustained, high-quality professional development activities that—
 

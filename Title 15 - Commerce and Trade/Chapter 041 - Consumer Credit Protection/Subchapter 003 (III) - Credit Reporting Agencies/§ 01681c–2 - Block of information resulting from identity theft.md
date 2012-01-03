@@ -42,7 +42,7 @@ A consumer reporting agency shall promptly notify the furnisher of information i
 
 #### (3) Significance of block
 
-&emsp;For purposes of this subsection, if a consumer reporting agency rescinds a block, the presence of information in the file of a consumer prior to the blocking of such information is not evidence of whether the consumer knew or should have known that the consumer obtained possession of any goods, services, or money as a result of the block.
+&emsp;For purposes of this subsection, if a consumer reporting agency rescinds a block, thepresence of information in the file of a consumer prior to the blocking of such information is not evidence of whether the consumer knew or should have known that the consumer obtained possession of any goods, services, or money as a result of the block.
 
 #### (d) Exception for resellers
 
@@ -54,7 +54,7 @@ A consumer reporting agency shall promptly notify the furnisher of information i
 
 &emsp;&emsp;(B) is not, at the time of the request of the consumer under subsection (a) of this section, otherwise furnishing or reselling a consumer report concerning the information identified by the consumer; and
 
-&emsp;&emsp;(C) informs the consumer, by any means, that the consumer may report the identity theft to the Commission to obtain consumer information regarding identity theft.
+&emsp;&emsp;(C) informs the consumer, by any means, that the consumer may report the identity theft to the Bureau to obtain consumer information regarding identity theft.
 
 #### (2) Reseller with file
 
@@ -78,9 +78,9 @@ No provision of this section shall be construed as requiring a consumer reportin
 
 (Pub. L. 90–321, title VI, §605B, as added Pub. L. 108–159, title I, §152(a), Dec. 4, 2003, 117 Stat. 1964; amended Pub. L. 111–203, title X, §1088(a)(2)(C), July 21, 2010, 124 Stat. 2087.)
 
-#### Amendment of Section
+#### Amendments
 
-<i>Pub. L. 111–203, title X, §§1088(a)(2)(C), 1100H, July 21, 2010, 124 Stat. 2087, 2113, provided that, effective on the designated transfer date, this section is amended by striking “the Commission” each place that term appears and inserting “the Bureau”. See Effective Date of 2010 Amendment note below.</i>
+<b>2010</b>—Subsec. (d)(1)(C). Pub. L. 111–203 substituted “the Bureau” for “the Commission”.
 
 #### Effective Date of 2010 Amendment
 

@@ -22,7 +22,7 @@ Each Head Start agency shall take steps to coordinate with the local educational
 
 &emsp;&emsp;(B) as appropriate, the information provided to parents of limited English proficient children under section 3302 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7012);
 
-&emsp;(8) developing and implementing a family outreach and support program, in cooperation with entities carrying out parental involvement efforts under title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.), and family outreach and support efforts under subtitle B of title VII of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11431 et seq.), taking into consideration the language needs of parents of limited English proficient children;
+&emsp;(8) developing and implementing a family outreach and support program, in cooperationwith entities carrying out parental involvement efforts under title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.), and family outreach and support efforts under subtitle B of title VII of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11431 et seq.), taking into consideration the language needs of parents of limited English proficient children;
 
 &emsp;(9) assisting families, administrators, and teachers in enhancing educational and developmental continuity and continuity of parental involvement in activities between Head Start services and elementary school classes;
 

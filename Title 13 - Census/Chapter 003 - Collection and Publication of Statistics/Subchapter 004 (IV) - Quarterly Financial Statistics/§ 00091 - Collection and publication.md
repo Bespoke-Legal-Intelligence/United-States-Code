@@ -1,6 +1,6 @@
 ### §91. Collection and publication
 
-(a) The Secretary shall collect and publish quarterly financial statistics of business operations, organization, practices, management, and relation to other businesses, including data on sales, expenses, profits, assets, liabilities, stockholders’ equity, and related accounts generally used by businesses in income statements, balance sheets, and other measures of financial condition.
+(a) The Secretary shall collect and publish quarterly financial statistics of business operations, organization, practices, management,and relation to other businesses, including data on sales, expenses, profits, assets, liabilities, stockholders’ equity, and related accounts generally used by businesses in income statements, balance sheets, and other measures of financial condition.
 
 (b) Except to the extent determined otherwise by the Secretary on the basis of changed circumstances, the nature of statistics collected and published under this section, and the manner of the collection and publication of such statistics, shall conform to the quarterly financial reporting program carried out by the Federal Trade Commission before the effective date of this section under section 6(b) of the Federal Trade Commission Act.
 
@@ -56,9 +56,9 @@ Section 3(a) of the Small Business Act, referred to in subsec. (d)(4)(A), is cla
 
 #### Amendments
 
-1995—Subsec. (d). Pub. L. 104–13 added subsec. (d).
+<b>1995</b>—Subsec. (d). Pub. L. 104–13 added subsec. (d).
 
-1986—Subsec. (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Subsec. (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
 #### Effective Date of 1995 Amendment
 
@@ -84,9 +84,9 @@ Pub. L. 97–454, §4, Jan. 12, 1983, 96 Stat. 2495, as amended by Pub. L. 101�
 
 #### Transfer of Functions Relating to Quarterly Financial Statistics
 
-Section 2 of Pub. L. 97–454, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 97–454, §2, Jan. 12, 1983, 96 Stat. 2494, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-“(a) There are transferred to the Secretary of Commerce, for administration under section 91 of title 13, United States Code, all functions relating to the quarterly financial report program which was carried out by the Federal Trade Commission before the effective date of this Act \[Jan. 12, 1983\] pursuant to the authority of section 6(b) of the Federal Trade Commission Act (15 U.S.C. 46(b)).
+“(a) There are transferred to the Secretary of Commerce, for administration under section 91 of title 13, United States Code, all functions relating to the quarterly financial report program which was carried out by the Federal Trade Commission before the effectivedate of this Act \[Jan. 12, 1983\] pursuant to the authority of section 6(b) of the Federal Trade Commission Act (15 U.S.C. 46(b)).
 
 “(b) All personnel, property, and records of the Federal Trade Commission which the Director of the Office of Management and Budget determines, after consultation with the Secretary of Commerce and the Chairman of the Federal Trade Commission, to be employed, held, or used in connection with any function relating to the quarterly financial report program shall be transferred to the Department of Commerce. For purposes of sections 6103, 7213, and 7431, and other provisions of the Internal Revenue Code of 1986 \[26 U.S.C. 6103, 7213, 7431\], return information (as defined in section 6103(b) of such Code) which is transferred under this subsection shall be treated as if it were furnished to the Bureau of the Census under section 6103(j)(1) of such Code solely for administering the quarterly financial report program under section 91 of title 13, United States Code. Such transfer shall be carried out not later than 90 days after the effective date of this Act \[Jan. 12, 1983\].”
 

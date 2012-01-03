@@ -20,7 +20,7 @@ Each report under subsection (a) shall include the following:
 
 #### (c) Limitation on use of certain funds
 
-(1) No amounts authorized to be appropriated for the Department of Energy by the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by Public Law 106–398) or any other Act for purposes of the Nuclear Materials Protection, Control, and Accounting Program may be obligated or expended after September 30, 2000, for any project under the program at a site controlled by the Russian Ministry of Atomic Energy (MINATOM) in Russia until the Secretary submits to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the access policy established with respect to such project, including a certification that the access policy has been implemented.
+(1) No amounts authorized to be appropriated for the Department of Energy by the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by Public Law 106–398) or any other Act for purposes of the Nuclear Materials Protection, Control, and Accounting Program may be obligated or expended after September 30, 2000, for any project underthe program at a site controlled by the Russian Ministry of Atomic Energy (MINATOM) in Russia until the Secretary submits to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the access policy established with respect to such project, including a certification that the access policy has been implemented.
 
 (2) The access policy with respect to a project under this subsection shall—
 

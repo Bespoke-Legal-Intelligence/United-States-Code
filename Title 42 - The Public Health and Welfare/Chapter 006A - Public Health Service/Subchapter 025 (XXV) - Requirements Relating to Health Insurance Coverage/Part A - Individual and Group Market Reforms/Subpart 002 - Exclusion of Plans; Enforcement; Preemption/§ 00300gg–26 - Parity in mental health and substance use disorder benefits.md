@@ -16,7 +16,7 @@
 
 &emsp;&emsp;&emsp;(i) apply the applicable lifetime limit both to the medical and surgical benefits to which it otherwise would apply and to mental health and substance use disorder benefits and not distinguish in the application of such limit between such medical and surgical benefits and mental health and substance use disorder benefits; or
 
-&emsp;&emsp;&emsp;(ii) not include any aggregate lifetime limit on mental health or substance use disorder benefits that is less than the applicable lifetime limit.
+&emsp;&emsp;&emsp;(ii) not include any aggregate lifetime limit on mental health or substance usedisorder benefits that is less than the applicable lifetime limit.
 
 #### (C) Rule in case of different limits
 
@@ -74,7 +74,7 @@
 
 #### (5) Out-of-network providers
 
-&emsp;In the case of a plan or coverage that provides both medical and surgical benefits and mental health or substance use disorder benefits, if the plan or coverage provides coverage for medical or surgical benefits provided by out-of-network providers, the plan or coverage shall provide coverage for mental health or substance use disorder benefits provided by out-of-network providers in a manner that is consistent with the requirements of this section.
+&emsp;In the case of a plan or coverage that provides both medical and surgical benefits andmental health or substance use disorder benefits, if the plan or coverage provides coverage for medical or surgical benefits provided by out-of-network providers, the plan or coverage shall provide coverage for mental health or substance use disorder benefits provided by out-of-network providers in a manner that is consistent with the requirements of this section.
 
 #### (b) Construction
 
@@ -176,7 +176,7 @@ Section was formerly classified to section 300gg–5 of this title prior to renu
 
 #### Amendments
 
-<b>2010</b>—Subsecs. (a), (b). Pub. L. 111–148, §1563(c)(4)(A), (B), formerly §1562(c)(4)(A), (B), as renumbered by Pub.L. 111–148, §10107(b)(1), substituted “or a health insurance issuer offering group or individual health insurance coverage” for “(or health insurance coverage offered in connection with such a plan)” wherever appearing.
+<b>2010</b>—Subsecs. (a), (b). Pub. L. 111–148, §1563(c)(4)(A), (B), formerly §1562(c)(4)(A), (B), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted “or a health insurance issuer offering group or individual health insurance coverage” for “(or health insurance coverage offered in connection with such a plan)” wherever appearing.
 
 Subsec. (c)(1). Pub. L. 111–148, §1563(c)(4)(C)(i), formerly §1562(c)(4)(C)(i), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted “and a health insurance issuer offering group or individual health insurance coverage” for “(and group health insurance coverage offered in connection with a group health plan)”.
 
@@ -196,7 +196,7 @@ Subsec. (b)(2). Pub. L. 110–343, §512(b)(2), amended par. (2) generally. Prio
 
 Subsec. (c)(1). Pub. L. 110–343, §512(b)(3)(A), inserted “(as defined in section 300gg–91(e)(4) of this title, except that for purposes of this paragraph such term shall include employers with 1 employee in the case of an employer residing in a State that permits small groups to include a single individual)” before period at end.
 
-Subsec. (c)(2). Pub. L. 110–343, §512(b)(3)(B), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “This section shall not apply with respect to a group health plan (or health insurance coverage offered in connection with a group health plan) if the application of this section to such plan (or to such coverage) results in an increase in the cost under the plan (or for such coverage) of at least 1 percent.”
+Subsec. (c)(2). Pub. L. 110–343, §512(b)(3)(B), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “This section shall not apply with respect to a group health plan (or health insurance coverage offered in connection with a group health plan) if the application of this section to such plan (or to suchcoverage) results in an increase in the cost under the plan (or for such coverage) of at least 1 percent.”
 
 Subsec. (e)(3). Pub. L. 110–343, §512(b)(7), substituted “mental health or substance use disorder benefits” for “mental health benefits”.
 
@@ -254,7 +254,7 @@ Pub. L. 110–343, div. C, title V, §512(d), Oct. 3, 2008, 122 Stat. 3891, prov
 
 #### Assuring Coordination
 
-Pub. L. 110–343, div. C, title V, §512(f), Oct. 3, 2008, 122 Stat. 3892, provided that: “The Secretary of Health andHuman Services, the Secretary of Labor, and the Secretary of the Treasury may ensure, through the execution or revision of an interagency memorandum of understanding among such Secretaries, that—
+Pub. L. 110–343, div. C, title V, §512(f), Oct. 3, 2008, 122 Stat. 3892, provided that: “The Secretary of Health and Human Services, the Secretary of Labor, and the Secretary of the Treasury may ensure, through the execution or revision of an interagency memorandum of understanding among such Secretaries, that—
 
 &emsp;“(1) regulations, rulings, and interpretations issued by such Secretaries relating to the same matter over which two or more such Secretaries have responsibility under this section \[amending this section, section 9812 of Title 26, Internal Revenue Code, and section 1185a of Title 29, Labor, and enacting provisions set out as notes under this section\] (and the amendments made by this section) are administered so as to have the same effect at all times; and
 

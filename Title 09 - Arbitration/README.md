@@ -1,5 +1,5 @@
 
-9 U.S.C.<br>United States Code, 2010 Edition<br>Title 9 - ARBITRATION<br>From the U.S. Government Publishing Office, www.gpo.gov
+9 U.S.C.<br>United States Code, 2011 Edition<br>Title 9 - ARBITRATION<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 9—ARBITRATION
 
@@ -15,9 +15,9 @@
 
 #### Amendments
 
-1990—Pub. L. 101–369, §2, Aug. 15, 1990, 104 Stat. 450, added item for chapter 3.
+<b>1990</b>—Pub. L. 101–369, §2, Aug. 15, 1990, 104 Stat. 450, added item for chapter 3.
 
-1970—Pub. L. 91–368, §2, July 31, 1970, 84 Stat. 693, added analysis of chapters.
+<b>1970</b>—Pub. L. 91–368, §2, July 31, 1970, 84 Stat. 693, added analysis of chapters.
 
 #### Table
 

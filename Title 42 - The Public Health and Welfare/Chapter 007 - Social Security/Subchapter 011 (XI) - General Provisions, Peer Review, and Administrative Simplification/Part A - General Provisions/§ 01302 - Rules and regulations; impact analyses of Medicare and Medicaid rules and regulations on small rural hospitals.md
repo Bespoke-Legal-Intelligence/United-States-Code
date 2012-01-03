@@ -10,10 +10,6 @@
 
 (Aug. 14, 1935, ch. 531, title XI, §1102, 49 Stat. 647; Aug. 28, 1950, ch. 809, title IV, §403(c), 64 Stat. 559; Pub. L. 98–369, div. B, title VI, §2663(j)(2)(D)(i), (<i>l</i>)(2), July 18, 1984, 98 Stat. 1170, 1171; Pub. L. 100–203, title IV, §4402(a), Dec. 22, 1987, 101 Stat. 1330–226.)
 
-#### References in Text
-
-Part B of this subchapter, referred to in subsec. (b)(1), is classified to section 1320c et seq. of this title.
-
 #### Amendments
 
 <b>1987</b>—Pub. L. 100–203 designated existing provision as subsec. (a) and added subsec. (b).

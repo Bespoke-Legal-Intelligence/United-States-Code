@@ -10,7 +10,7 @@
 
 &emsp;&emsp;&emsp;(i) are United States citizens in order to enable such students to study, for at least one academic semester or equivalent term, in foreign countries that are critical countries (as determined under section 1903(d)(4)(A) of this title) in those languages and study areas where deficiencies exist (as identified in the assessments undertaken pursuant to section 1906(d) of this title); and
 
-&emsp;&emsp;&emsp;(ii) pursuant to subsection (b)(2)(A) of this section, enter into an agreement to work in a national security position or work in the field of higher education in the area of study for which the scholarship was awarded;
+&emsp;&emsp;&emsp;(ii) pursuant to subsection (b)(2)(A) of this section, enter into an agreement towork in a national security position or work in the field of higher education in the area of study for which the scholarship was awarded;
 
 &emsp;&emsp;(B) awarding fellowships to graduate students who—
 
@@ -52,7 +52,7 @@
 
 #### (4) Contract authority
 
-&emsp;The Secretary may enter into one or more contracts, with private national organizations having an expertise in foreign languages, areastudies, counterproliferation studies, and other international fields, for the awarding of the scholarships, fellowships, and grants described in paragraph (1) in accordance with the provisions of this chapter. The Secretary may enter into such contracts without regard to section 6101 of title 41 or any other provision of law that requires the use of competitive procedures. In addition, the Secretary may enter into personal service contracts for periods up to one year for program administration, except that not more than 10 such contracts may be in effect at any one time.
+&emsp;The Secretary may enter into one or more contracts, with private national organizations having an expertise in foreign languages, area studies, counterproliferation studies, and other international fields, for the awarding of the scholarships, fellowships, and grants described in paragraph (1) in accordance with the provisions of this chapter. The Secretary may enter into such contracts without regard to section 6101 of title 41 or any other provision of law that requires the use of competitive procedures. In addition, the Secretary may enter into personal service contracts for periods up to one year for program administration, except that not more than 10 such contracts may be in effect at any one time.
 
 #### (b) Service agreement
 
@@ -106,7 +106,7 @@ No person who receives a grant, scholarship, or fellowship or any other type of 
 
 &emsp;The Secretary of Defense may—
 
-&emsp;&emsp;(A) appoint or retain a person provided scholarship or fellowship assistance under the program in a position in the Department of Defense on an interim basis during the period of the person's pursuit of a degree under the program and for a period not to exceed two years after completion of the degree, but only if, in the case of the period after completion of the degree, there is an active investigation to provide security clearance to the person for an appropriate permanent position in the Department of Defense under subsection (b)(2); and
+&emsp;&emsp;(A) appoint or retain a person provided scholarship or fellowship assistance under the program in a position in the Department of Defense on an interim basis during the period of the person's pursuit of a degree under the program and for a period not to exceed two years after completion of the degree,but only if, in the case of the period after completion of the degree, there is an active investigation to provide security clearance to the person for an appropriate permanent position in the Department of Defense under subsection (b)(2); and
 
 &emsp;&emsp;(B) if there is no appropriate permanent position available for the person after the end of the periods described in subparagraph (A), separate the person from employment with the Department without regard to any other provision of law, in which event the service agreement of the person under subsection (b) shall terminate.
 
@@ -144,7 +144,7 @@ No person who receives a grant, scholarship, or fellowship or any other type of 
 
 &emsp;(i) to continue in the service of the department or agency of the Federal Government employing the employee for the period of such training;
 
-&emsp;(ii) to continue in the service of such department or agency, following completion by theemployee of such training, for a period of two years for each year, or part of the year, of such training;
+&emsp;(ii) to continue in the service of such department or agency, following completion by the employee of such training, for a period of two years for each year, or part of the year, of such training;
 
 &emsp;(iii) if, before the completion by the employee of such training, the employment of the employee is terminated by such department or agency due to misconduct by the employee, or by the employee voluntarily, to reimburse the United States for the total cost of such training (excluding the employee's pay and allowances) provided to the employee; and
 

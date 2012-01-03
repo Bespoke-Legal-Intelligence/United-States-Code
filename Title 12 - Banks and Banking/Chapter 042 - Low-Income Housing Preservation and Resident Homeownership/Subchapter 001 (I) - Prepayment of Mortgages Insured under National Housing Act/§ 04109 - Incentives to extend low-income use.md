@@ -40,7 +40,7 @@ Section 1715z–6(f) of this title, referred to in subsec. (b)(7), was repealed 
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–550 inserted “(for each year after the approval of the plan of action)” after “receive” and inserted at end “The Secretary shall take such actions as are necessary to ensure that owners receive the annual authorized return for the housing determined under section 4104(a) of this title during the period in which rent increases are phased in as provided in section 4112(a)(2)(E) of this title, including (in order of preference) (1) allowing the owner access to residual receipt accounts (pursuant to subsection (b)(1) of this section), (2) deferring remittance of excess rent payments, and (3) providing an increase in rents permitted under an existing contract under section 1437f of title 42 (pursuant to subsection (b)(2) of this section).”
+<b>1992</b>—Subsec. (a). Pub. L. 102–550 inserted “(for each year after the approval of the plan of action)” after “receive” and inserted at end “The Secretary shall take such actions as are necessary to ensure that owners receive the annual authorized return for the housing determined under section 4104(a) of this title during the period in which rent increases are phased in as provided in section 4112(a)(2)(E) of this title, including (in order of preference) (1) allowing the owner access to residual receipt accounts (pursuant to subsection (b)(1) of this section), (2) deferring remittance of excess rent payments, and (3) providing an increase in rents permitted under an existing contract under section 1437f of title 42 (pursuant to subsection (b)(2) of this section).”
 
 #### Study of Projects Assisted Under Flexible Subsidy Program
 

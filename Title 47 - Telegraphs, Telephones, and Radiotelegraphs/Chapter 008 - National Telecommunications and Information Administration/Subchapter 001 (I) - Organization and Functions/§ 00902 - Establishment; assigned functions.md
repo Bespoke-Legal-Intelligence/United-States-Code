@@ -136,7 +136,7 @@ Pub. L. 110–161, div. B, title V, §536, Dec. 26, 2007, 121 Stat. 1932, as ame
 
 &emsp;&emsp;&emsp;“(E) a Native Hawaiian-serving institution as that term is defined in section 317(b)(4) of the Higher Education Act of 1965 (20 U.S.C. 1059d(b)(4)).
 
-&emsp;&emsp;“(3) The term ‘historically Black college or university’ means a part B institution as that term is defined in section 322(2) of the Higher Education Act of 1965 (20 U.S.C. 1061(2)).
+&emsp;&emsp;“(3) The term ‘historically Black college or university’ means a part B institution as that term isdefined in section 322(2) of the Higher Education Act of 1965 (20 U.S.C. 1061(2)).
 
 &emsp;“(b)(1)(A) There is established within the National Telecommunications and Information Administration a pilot program under which the Administrator shall award 9 grants to eligible educational institutions to enable the eligible educational institutions to develop digital and wireless networks for online educational programs of study within the eligible educational institutions. The Administrator shall award not less than 1 grant to each type of eligible educational institution, enumerated under subsection (a)(2).
 

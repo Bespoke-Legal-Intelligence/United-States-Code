@@ -86,7 +86,7 @@ A qualified individual enrolled in any qualified health plan may pay any applica
 
 #### (II) Congressional staff
 
-&emsp;&emsp;&emsp;&emsp;The term “congressional staff” means all full-time and part-time employees employed by the official office of a Member of Congress, whether in Washington, DC or outside of Washington, DC.
+&emsp;&emsp;&emsp;&emsp;The term “congressional staff” means all full-time and part-time employeesemployed by the official office of a Member of Congress, whether in Washington, DC or outside of Washington, DC.
 
 #### (4) No penalty for transferring to minimum essential coverage outside Exchange
 
@@ -134,7 +134,7 @@ The Secretary shall establish procedures under which a State may allow agents or
 
 #### (ii) Large employers eligible
 
-&emsp;&emsp;&emsp;If a State under clause (i) allows issuers to offer qualified health plans in the largegroup market through an Exchange, the term “qualified employer” shall include a large employer that elects to make all full-time employees of such employer eligible for 1 or more qualified health plans offered in the large group market through the Exchange.
+&emsp;&emsp;&emsp;If a State under clause (i) allows issuers to offer qualified health plans in the large group market through an Exchange, the term “qualified employer” shall include a large employer that elects to make all full-time employees of such employer eligible for 1 or more qualified health plans offered in the large group market through the Exchange.
 
 #### (3) Access limited to lawful residents
 

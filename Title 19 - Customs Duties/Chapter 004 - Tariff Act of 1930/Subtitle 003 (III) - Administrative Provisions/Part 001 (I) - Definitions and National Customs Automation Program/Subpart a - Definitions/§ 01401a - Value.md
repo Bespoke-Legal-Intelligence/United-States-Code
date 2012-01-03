@@ -2,7 +2,7 @@
 
 #### (a) Generally
 
-(1) Except as otherwise specifically provided for in this chapter, imported merchandise shall be appraised, for the purposes of this chapter, on the basis of the following:
+(1) Except as otherwise specifically provided for in this chapter, imported merchandise shallbe appraised, for the purposes of this chapter, on the basis of the following:
 
 &emsp;(A) The transaction value provided for under subsection (b) of this section.
 
@@ -68,7 +68,7 @@
 
 &emsp;(iii) the costs, commissions, values, fees, and proceeds described in paragraph (1); and
 
-&emsp;(iv) the costs incurred by the seller in sales in which he and the buyer are not related that are not incurred by the seller in sales in which he and the buyer are related.
+&emsp;(iv) the costs incurred by the seller in sales in which he and the buyer are not related thatare not incurred by the seller in sales in which he and the buyer are related.
 
 (3) The transaction value of imported merchandise does not include any of the following, if identified separately from the price actually paid or payable and from any cost or other item referred to in paragraph (1):
 
@@ -348,7 +348,7 @@ Application of Old Law Valuation Standards.—For purposes of the administration
 
 “(c)
 
-Special Treatment for Certain Rubber Footwear.—The amendments made by section 223(b) \[amending schedule 7, part 1, subpart A of the Tariff Schedules of the United States\] shall take effect July 1, 1981, or, if later, the date on which the Agreement enters into force with respect to the United States, and shall apply, together with the other amendments made by this title, to rubber footwear exported to the United States on or after such date. For purposes of the administration of the customs laws, all rubber footwear (other than rubber footwear to which the preceding sentence applies) shall be appraised on the same basis, and in the same manner, as if the amendments made by this title had not been enacted.
+Special Treatment for Certain Rubber Footwear.—The amendments made by section 223(b) \[amending schedule 7, part 1, subpart A of the Tariff Schedules of the United States\] shall take effect July 1, 1981, or, if later, the date on which the Agreement enters into force with respect to the United States, and shall apply, together with the other amendments madeby this title, to rubber footwear exported to the United States on or after such date. For purposes of the administration of the customs laws, all rubber footwear (other than rubber footwear to which the preceding sentence applies) shall be appraised on the same basis, and in the same manner, as if the amendments made by this title had not been enacted.
 
 “(d)
 

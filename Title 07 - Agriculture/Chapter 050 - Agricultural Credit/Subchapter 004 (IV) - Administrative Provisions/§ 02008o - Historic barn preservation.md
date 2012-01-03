@@ -100,7 +100,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (c)(2)(A), (B). Pub. L. 110–246, §6020(a)(1)(A), substituted “historic barns” for “a historic barn”.
+<b>2008</b>—Subsec. (c)(2)(A), (B). Pub. L. 110–246, §6020(a)(1)(A), substituted “historic barns” for “a historic barn”.
 
 Subsec. (c)(2)(C). Pub. L. 110–246, §6020(a)(1)(B), substituted “on historic barns (including surveys)” for “on a historic barn”.
 

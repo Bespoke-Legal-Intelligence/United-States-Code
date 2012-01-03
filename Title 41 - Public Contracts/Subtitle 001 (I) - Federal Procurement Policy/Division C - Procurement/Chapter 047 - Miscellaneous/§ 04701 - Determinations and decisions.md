@@ -6,7 +6,7 @@ Individual or Class Determinations and Decisions Authorized.—
 
 &emsp;(1)
 
-In general.—Determinations and decisions required to be made under this divisionby the head of an executive agency or provided in this division or chapters 1 to 11 of title 40 to be made by the Administrator of General Services or other agency head may be made for an individual purchase or contract or, except for determinations or decisions made under sections 3105, 3301, 3303 to 3305, 3306(a)–(e), and 3308, chapter 37, and section 4702 of this title or to the extent expressly prohibited by another law, for a class of purchases or contracts.
+In general.—Determinations and decisions required to be made under this division by the head of an executive agency or provided in this division or chapters 1 to 11 of title 40 to be made by the Administrator of General Services or other agency head may be made for an individual purchase or contract or, except for determinations or decisions made under sections 3105, 3301, 3303 to 3305, 3306(a)–(e), and 3308, chapter 37, and section 4702 of this title or to the extent expressly prohibited by another law, for a class of purchases or contracts.
 
 &emsp;(2)
 

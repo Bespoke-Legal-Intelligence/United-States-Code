@@ -46,11 +46,21 @@ Eligible Projects.—The Secretary may approve a grant under this section to a S
 
 (f)
 
-Sunset.—This section shall not be in effect after March 31, 2011.
+Sunset.—This section shall not be in effect after January 31, 2012.
 
-(Added Pub. L. 108–176, title I, §160(a), Dec. 12, 2003, 117 Stat. 2511; amended Pub. L. 110–253, §3(c)(2), June 30, 2008, 122 Stat. 2417; Pub. L. 110–330, §5(g), Sept. 30, 2008, 122 Stat. 3718; Pub. L. 111–12, §5(f), Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §5(g), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–116, §5(f), Dec. 16, 2009, 123 Stat. 3032; Pub. L. 111–153, §5(f), Mar. 31, 2010, 124 Stat. 1085; Pub. L. 111–161, §5(f), Apr. 30, 2010, 124 Stat. 1127; Pub. L. 111–197, §5(f), July 2, 2010, 124 Stat. 1354; Pub. L. 111–216, title I, §104(f), Aug. 1, 2010, 124 Stat. 2349; Pub. L. 111–249, §5(g), Sept. 30, 2010, 124 Stat. 2628; Pub. L. 111–329, §5(f), Dec. 22, 2010, 124 Stat. 3567.)
+(Added Pub. L. 108–176, title I, §160(a), Dec. 12, 2003, 117 Stat. 2511; amended Pub. L. 110–253, §3(c)(2), June 30, 2008, 122 Stat. 2417; Pub. L. 110–330, §5(g), Sept. 30, 2008, 122 Stat. 3718; Pub. L. 111–12, §5(f), Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §5(g), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–116, §5(f), Dec. 16, 2009, 123 Stat. 3032; Pub. L. 111–153, §5(f), Mar. 31, 2010, 124 Stat. 1085; Pub. L. 111–161, §5(f), Apr. 30, 2010, 124 Stat. 1127; Pub. L. 111–197, §5(f), July 2, 2010, 124 Stat. 1354; Pub. L. 111–216, title I, §104(f), Aug. 1, 2010, 124 Stat. 2349; Pub. L. 111–249, §5(g), Sept. 30, 2010, 124 Stat. 2628; Pub. L. 111–329, §5(f), Dec. 22, 2010, 124 Stat. 3567; Pub. L. 112–7, §5(f), Mar. 31, 2011, 125 Stat. 32; Pub. L. 112–16, §5(f), May 31, 2011, 125 Stat. 219; Pub. L. 112–21, §5(f), June 29, 2011, 125 Stat. 234; Pub. L. 112–27, §5(f), Aug. 5, 2011, 125 Stat. 271; Pub. L. 112–30, title II, §205(g), Sept. 16, 2011, 125 Stat. 358.)
 
 #### Amendments
+
+<b>2011</b>—Subsec. (f). Pub. L. 112–30 substituted “January 31, 2012.” for “September 16, 2011.”
+
+Pub. L. 112–27 substituted “September 16, 2011.” for “July 22, 2011.”
+
+Pub. L. 112–21 substituted “July 22, 2011.” for “June 30, 2011.”
+
+Pub. L. 112–16 substituted “June 30, 2011.” for “May 31, 2011.”
+
+Pub. L. 112–7 substituted “May 31, 2011.” for “March 31, 2011.”
 
 <b>2010</b>—Subsec. (f). Pub. L. 111–329 substituted “March 31, 2011.” for “December 31, 2010.”
 
@@ -73,6 +83,16 @@ Pub. L. 111–12 substituted “September 30, 2009.” for “March 31, 2009.”
 <b>2008</b>—Subsec. (f). Pub. L. 110–330 substituted “March 31, 2009” for “September 30, 2008”.
 
 Pub. L. 110–253 substituted “September 30, 2008” for “September 30, 2007”.
+
+#### Effective Date of 2011 Amendment
+
+Amendment by Pub. L. 112–27 effective July 23, 2011, see section 5(j) of Pub. L. 112–27, set out as a note under section 40117 of this title.
+
+Amendment by Pub. L. 112–21 effective July 1, 2011, see section 5(j) of Pub. L. 112–21, set out as a note under section 40117 of this title.
+
+Amendment by Pub. L. 112–16 effective June 1, 2011, see section 5(j) of Pub. L. 112–16, set out as a note under section 40117 of this title.
+
+Amendment by Pub. L. 112–7 effective Apr. 1, 2011, see section 5(j) of Pub. L. 112–7, set out as a note under section 40117 of this title.
 
 #### Effective Date of 2010 Amendment
 

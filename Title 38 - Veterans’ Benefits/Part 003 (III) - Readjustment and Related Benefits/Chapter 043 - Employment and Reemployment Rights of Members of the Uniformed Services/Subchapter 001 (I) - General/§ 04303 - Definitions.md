@@ -4,7 +4,7 @@ For the purposes of this chapter—
 
 &emsp;(1) The term “Attorney General” means the Attorney General of the United States or any person designated by the Attorney General to carry out a responsibility of the Attorney General under this chapter.
 
-&emsp;(2) The term “benefit”, “benefit of employment”, or “rights and benefits” means any advantage, profit, privilege, gain, status, account, or interest (including wages or salary for work performed) that accrues by reason of an employment contract or agreement or an employer policy, plan, or practice and includes rights and benefits under a pension plan, a health plan, an employee stock ownership plan, insurance coverage and awards, bonuses, severance pay, supplemental unemployment benefits, vacations, and the opportunity to select work hours or location of employment.
+&emsp;(2) The term “benefit”, “benefit of employment”, or “rights and benefits” means the terms, conditions, or privileges of employment, including any advantage, profit, privilege, gain, status, account, or interest (including wages or salary for work performed) that accrues by reason of an employment contract or agreement or an employer policy, plan, or practice and includes rights and benefits under a pension plan, a health plan, an employee stock ownership plan, insurance coverage and awards, bonuses, severance pay, supplementalunemployment benefits, vacations, and the opportunity to select work hours or location of employment.
 
 &emsp;(3) The term “employee” means any person employed by an employer. Such term includes any person who is a citizen, national, or permanent resident alien of the United States employed in a workplace in a foreign country by an employer that is an entity incorporated or otherwise organized in the United States or that is controlled by an entity organized in the United States, within the meaning of section 4319(c) of this title.
 
@@ -58,7 +58,7 @@ For the purposes of this chapter—
 
 &emsp;(12) The term “seniority” means longevity in employment together with any benefits of employment which accrue with, or are determined by, longevity in employment.
 
-&emsp;(13) The term “service in the uniformed services” means the performance of duty on a voluntary or involuntary basis in a uniformed service under competent authority and includes active duty, active duty for training, initial active duty for training, inactive dutytraining, full-time National Guard duty, a period for which a person is absent from a position of employment for the purpose of an examination to determine the fitness of the person to perform any such duty, and a period for which a person is absent from employment for the purpose of performing funeral honors duty as authorized by section 12503 of title 10 or section 115 of title 32.
+&emsp;(13) The term “service in the uniformed services” means the performance of duty on a voluntary or involuntary basis in a uniformed service under competent authority and includes active duty, active duty for training, initial active duty for training, inactive duty training, full-time National Guard duty, a period for which a person is absent from a position of employment for the purpose of an examination to determine the fitness of the person to perform any such duty, and a period for which a person is absent from employment for the purpose of performing funeral honors duty as authorized by section 12503 of title 10 or section 115 of title 32.
 
 &emsp;(14) The term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands, and other territories of the United States (including the agencies and political subdivisions thereof).
 
@@ -66,7 +66,7 @@ For the purposes of this chapter—
 
 &emsp;&emsp;(A) the nature and cost of the action needed under this chapter;
 
-&emsp;&emsp;(B) the overall financial resources of the facility or facilities involved in the provision of the action; the number of persons employed at such facility; the effect on expenses and resources, or the impact otherwise of such action upon the operation of the facility;
+&emsp;&emsp;(B) the overall financial resources of the facility or facilities involved in the provision of the action; the number of personsemployed at such facility; the effect on expenses and resources, or the impact otherwise of such action upon the operation of the facility;
 
 &emsp;&emsp;(C) the overall financial resources of the employer; the overall size of the business of an employer with respect to the number of its employees; the number, type, and location of its facilities; and
 
@@ -74,7 +74,7 @@ For the purposes of this chapter—
 
 &emsp;(16) The term “uniformed services” means the Armed Forces, the Army National Guard and the Air National Guard when engaged in active duty for training, inactive duty training, or full-time National Guard duty, the commissioned corps of the Public Health Service, and any other category of persons designated by the President in time of war or national emergency.
 
-(Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3150; amended Pub. L. 104–275, title III, §311(2), Oct. 9, 1996, 110 Stat. 3334; Pub. L. 105–368, title II, §212(a), Nov. 11, 1998, 112 Stat. 3331; Pub. L. 106–419, title III, §323(a), Nov. 1, 2000, 114 Stat. 1855; Pub. L. 107–14, §8(a)(11), (b)(2), June 5, 2001, 115 Stat. 35, 36; Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242; Pub. L. 111–275, title VII, §§701(a), 702(a), Oct. 13, 2010, 124 Stat. 2887.)
+(Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3150; amended Pub. L. 104–275, title III, §311(2), Oct. 9, 1996, 110 Stat. 3334; Pub. L. 105–368, title II, §212(a), Nov. 11, 1998, 112 Stat. 3331; Pub. L. 106–419, title III, §323(a), Nov. 1, 2000, 114 Stat. 1855; Pub. L. 107–14, §8(a)(11), (b)(2), June 5, 2001, 115 Stat. 35, 36; Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242; Pub. L. 111–275, title VII, §§701(a), 702(a), Oct. 13, 2010, 124 Stat. 2887; Pub. L. 112–56, title II, §251, Nov. 21, 2011, 125 Stat. 729.)
 
 #### Prior Provisions
 
@@ -84,7 +84,9 @@ Another prior section 4303 was renumbered section 7603 of this title.
 
 #### Amendments
 
-<b>2010</b>—Par. (2). Pub. L. 111–275, §701(a), substituted “including” for “other than”.
+<b>2011</b>—Par. (2). Pub. L. 112–56 inserted “the terms, conditions, or privileges of employment, including” after “means”.
+
+<b>2010</b>—Par. (2). Pub. L. 111–275, §701(a), substituted “(including” for “(other than”.
 
 Par. (4)(D). Pub. L. 111–275, §702(a), added subpar. (D).
 
@@ -126,7 +128,7 @@ Pub. L. 106–419, title III, §323(c), Nov. 1, 2000, 114 Stat. 1856, provided t
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–368, title II, §212(c), Nov. 11, 1998, 112 Stat. 3331, provided that: “The amendments made by this section \[enacting section 4319 of this title and amending this section\] shall apply only with respect to causesof action arising after the date of the enactment of this Act \[Nov. 11, 1998\].”
+Pub. L. 105–368, title II, §212(c), Nov. 11, 1998, 112 Stat. 3331, provided that: “The amendments made by this section \[enacting section 4319 of this title and amending this section\] shall apply only with respect to causes of action arising after the date of the enactment of this Act \[Nov. 11, 1998\].”
 
 #### Effective Date of 1996 Amendment
 

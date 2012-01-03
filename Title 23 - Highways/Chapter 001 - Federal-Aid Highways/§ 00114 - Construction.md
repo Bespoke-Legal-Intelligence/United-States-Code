@@ -70,7 +70,7 @@ Remote.—The term “remote”, as used with respect to a project, means that t
 
 Resident.—The term “resident”, as used with respect to a project, means a person living within 65 road miles of the midpoint of the project for at least 12 consecutive months prior to the award of the project.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 896; Pub. L. 86–657, §8(f), July 14, 1960, 74 Stat. 525; Pub. L. 93–87, title I, §115, Aug. 13, 1973, 87 Stat. 258; Pub. L. 97–424, title I, §148, Jan. 6, 1983, 96 Stat. 2131; Pub. L. 98–473, title II, §226, Oct. 12, 1984, 98 Stat. 2030; Pub. L. 100–17, title I, §112(a), (b)(1), Apr. 2, 1987, 101 Stat. 148; Pub. L. 102–240, title I, §1019, Dec. 18, 1991, 105 Stat. 1948; Pub. L. 105–178, title I, §1212(a)(2)(A), June 9, 1998, 112 Stat. 193; Pub.L. 109–59, title I, §§1409(d), 1904(b), Aug. 10, 2005, 119 Stat. 1232, 1467.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 896; Pub. L. 86–657, §8(f), July 14, 1960, 74 Stat. 525; Pub. L. 93–87, title I, §115, Aug. 13, 1973, 87 Stat. 258; Pub. L. 97–424, title I, §148, Jan. 6, 1983, 96 Stat. 2131; Pub. L. 98–473, title II, §226, Oct. 12, 1984, 98 Stat. 2030; Pub. L. 100–17, title I, §112(a), (b)(1), Apr. 2, 1987, 101 Stat. 148; Pub. L. 102–240, title I, §1019, Dec. 18, 1991, 105 Stat. 1948; Pub. L. 105–178, title I, §1212(a)(2)(A), June 9, 1998, 112 Stat. 193; Pub. L. 109–59, title I, §§1409(d), 1904(b), Aug. 10, 2005, 119 Stat. 1232, 1467.)
 
 #### Amendments
 

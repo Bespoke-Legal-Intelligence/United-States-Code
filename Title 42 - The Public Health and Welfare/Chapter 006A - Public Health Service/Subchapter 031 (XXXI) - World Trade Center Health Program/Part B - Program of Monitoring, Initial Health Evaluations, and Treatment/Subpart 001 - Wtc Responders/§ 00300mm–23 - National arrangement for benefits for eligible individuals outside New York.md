@@ -18,7 +18,7 @@ Any health care provider participating in the network under subsection (a) shall
 
 #### (c) Training and technical assistance
 
-The WTC Program Administer <sup>1</sup> may provide, including through contract, for the provision of training and technical assistance to health careproviders participating in the network under subsection (a).
+The WTC Program Administer <sup>1</sup> may provide, including through contract, for the provision of training and technical assistance to health care providers participating in the network under subsection (a).
 
 #### (d) Provision of services through the VA
 

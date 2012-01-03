@@ -32,7 +32,7 @@ A prior section 383N of Pub. L. 87–128, title III, was renumbered section 383O
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–246, §6026(j), substituted “2008 through 2012” for “2002 through 2007”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–246, §6026(j), substituted “2008 through 2012” for “2002 through 2007”.
 
 #### Effective Date of 2008 Amendment
 

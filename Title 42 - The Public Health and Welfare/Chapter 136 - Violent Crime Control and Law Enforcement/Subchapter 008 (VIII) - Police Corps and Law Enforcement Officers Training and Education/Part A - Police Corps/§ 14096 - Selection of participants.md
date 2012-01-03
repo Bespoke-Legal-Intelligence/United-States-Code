@@ -10,7 +10,7 @@ Participants in State Police Corps programs shall be selected on a competitive b
 
 &emsp;(A) be a citizen of the United States or an alien lawfully admitted for permanent residence in the United States;
 
-&emsp;(B) meet the requirements for admission as a trainee of the State or local police force towhich the participant will be assigned pursuant to section 14099(5) of this title, including achievement of satisfactory scores on any applicable examination, except that failure to meet the age requirement for a trainee of the State or local police shall not disqualify the applicant if the applicant will be of sufficient age upon completing an undergraduate course of study;
+&emsp;(B) meet the requirements for admission as a trainee of the State or local police force to which the participant will be assigned pursuant to section 14099(5) of this title, including achievement of satisfactory scores on any applicable examination, except that failure to meet the age requirement for a trainee of the State or local police shall not disqualify the applicant if the applicant will be of sufficient age upon completing an undergraduate course of study;
 
 &emsp;(C) possess the necessary mental and physical capabilities and emotional characteristics to discharge effectively the duties of a law enforcement officer;
 

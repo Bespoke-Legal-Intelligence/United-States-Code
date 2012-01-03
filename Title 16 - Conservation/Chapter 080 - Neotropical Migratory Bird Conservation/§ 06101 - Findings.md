@@ -10,7 +10,7 @@ Congress finds that—
 
 &emsp;(B) the primary reason for the decline in the populations of those species is habitat loss and degradation (including pollution and contamination) across the species’ range; and
 
-&emsp;(4)(A) because neotropical migratory birds range across numerous international borders each year, their conservation requires thecommitment and effort of all countries along their migration routes; and
+&emsp;(4)(A) because neotropical migratory birds range across numerous international borders each year, their conservation requires the commitment and effort of all countries along their migration routes; and
 
 &emsp;(B) although numerous initiatives exist to conserve migratory birds and their habitat, those initiatives can be significantly strengthened and enhanced by increased coordination.
 

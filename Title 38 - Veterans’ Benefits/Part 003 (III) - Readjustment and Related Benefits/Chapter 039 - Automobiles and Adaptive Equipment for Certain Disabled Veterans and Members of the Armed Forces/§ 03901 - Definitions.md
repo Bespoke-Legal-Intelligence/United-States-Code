@@ -42,7 +42,7 @@ Par. (1)(B). Pub. L. 111–275, §803(a)(2), (b)(2)(C), substituted “Any membe
 
 <b>1976</b>—Par. (1). Pub. L. 94–433, §303(1), (2), substituted “on or after September 16, 1940” for “during World War II or thereafter” in cls. (A) and (B).
 
-<b>1974</b>—Par. (1)(A). Pub. L. 93–538, §2(1), substituted “World War II or thereafter” for “World War II, or the Korean conflict; or if the disability is the result of an injury incurred or disease contracted in or aggravatedby active military, naval, or air service performed after January 31, 1955, and the injury was incurred or the disease was contracted in line of duty as a direct result of the performance of military duty.”
+<b>1974</b>—Par. (1)(A). Pub. L. 93–538, §2(1), substituted “World War II or thereafter” for “World War II, or the Korean conflict; or if the disability is the result of an injury incurred or disease contracted in or aggravated by active military, naval, or air service performed after January 31, 1955, and the injury was incurred or the disease was contracted in line of duty as a direct result of the performance of military duty.”
 
 Par. (1)(B). Pub. L. 93–538, §2(2), substituted “World War II or thereafter” for “World War II, the Korean conflict, or the Vietnam era; or if such disability is the result of an injury incurred or disease contracted in or aggravated by any other active military, naval, or air service performed after January 31, 1955, and the injury was incurred or the disease was contracted in line of duty as a direct result of the performance of military duty.”
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Penalty.—(1) A person that knowingly violates this chapter or a regulation, order, special permit, or approval issued under this chapter is liable to the United States Government for a civil penalty of at least $250 but not more than $50,000 for each violation. A person acts knowingly when—
+Penalty.—(1) A person that knowingly violates this chapter or a regulation, order, specialpermit, or approval issued under this chapter is liable to the United States Government for a civil penalty of at least $250 but not more than $50,000 for each violation. A person acts knowingly when—
 
 &emsp;(A) the person has actual knowledge of the facts giving rise to the violation; or
 
@@ -124,5 +124,5 @@ Hearing requirement.—The amendment made by subsection (b) \[amending this sect
 
 “(2)
 
-Civil actions to collect.—The amendment made by subsection (c) \[amending this section\] shall apply with respect to civil penalties imposed on violations described in section 5123(a) of title 49, United States Code (as amended by this section), that occur on or after the date of enactment of this Act \[Aug. 10, 2005\].”
+Civil actions to collect.—The amendment made by subsection (c) \[amending this section\] shall apply with respect to civil penalties imposed on violations described in section 5123(a) of title 49, United States Code (as amended by this section), that occur onor after the date of enactment of this Act \[Aug. 10, 2005\].”
 

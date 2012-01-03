@@ -140,7 +140,7 @@ Subject to subsection (c), the preferential treatment described in subsection (a
 
 #### (8) Textile articles originating entirely in one or more lesser developed beneficiary sub-Saharan African countries
 
-&emsp;Textile and textile articles classifiable under chapters 50 through 60 or chapter 63 of the Harmonized Tariff Schedule of the United States that are products of a lesser developed beneficiary sub-Saharan African country and are wholly formed in one or more such countries from fibers, yarns, fabrics, fabric components, or components knit-to-shape that are the product of one or more such countries.
+&emsp;Textile and textile articles classifiable under chapters 50 through 60 or chapter 63 ofthe Harmonized Tariff Schedule of the United States that are products of a lesser developed beneficiary sub-Saharan African country and are wholly formed in one or more such countries from fibers, yarns, fabrics, fabric components, or components knit-to-shape that are the product of one or more such countries.
 
 #### (c) Lesser developed countries
 
@@ -148,7 +148,7 @@ Subject to subsection (c), the preferential treatment described in subsection (a
 
 #### (A) Products covered
 
-&emsp;&emsp;In addition to the products described in subsection (b) <sup>1</sup> the preferential treatment described in subsection (a) shall apply through September 30, 2012, to apparel articles wholly assembled, or knit-to-shape and wholly assembled, or both, in one or more lesser developed beneficiary sub-Saharan African countries, regardless of the country of origin of the fabric or the yarn used to make such articles, in an amount not to exceed the applicable percentage of the aggregate square meter equivalents of all apparel articles imported into the United States in thepreceding 12-month period for which data are available.
+&emsp;&emsp;In addition to the products described in subsection (b) <sup>1</sup> the preferential treatment described in subsection (a) shall apply through September 30, 2012, to apparel articles wholly assembled, or knit-to-shape and wholly assembled, or both, in one or more lesser developed beneficiary sub-Saharan African countries, regardless of the country of origin of the fabric or the yarn used to make such articles, in an amount not to exceed the applicable percentage of the aggregate square meter equivalents of all apparel articles imported into the United States in the preceding 12-month period for which data are available.
 
 #### (B) Applicable percentage
 

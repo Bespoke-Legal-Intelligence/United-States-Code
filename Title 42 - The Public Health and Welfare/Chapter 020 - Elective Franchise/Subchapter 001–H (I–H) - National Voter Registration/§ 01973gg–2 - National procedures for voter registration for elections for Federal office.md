@@ -30,7 +30,7 @@ Upon the enactment of this subchapter, referred to in subsec. (b)(2), means the 
 
 #### Codification
 
-Amendment by Pub. L. 104–91 is based on section 116(a) of H.R. 2076, One Hundred Fourth Congress, aspassed by the House of Representatives on Dec. 6, 1995, which was enacted into law by Pub. L. 104–91.
+Amendment by Pub. L. 104–91 is based on section 116(a) of H.R. 2076, One Hundred Fourth Congress, as passed by the House of Representatives on Dec. 6, 1995, which was enacted into law by Pub. L. 104–91.
 
 #### Amendments
 

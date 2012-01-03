@@ -6,5 +6,5 @@ Not more than $45,000 each fiscal year appropriated for necessary expenses for t
 
 #### Amendments
 
-2004—Pub. L. 108–293 substituted “$45,000 each fiscal year” for “$15,000 per annum”.
+<b>2004</b>—Pub. L. 108–293 substituted “$45,000 each fiscal year” for “$15,000 per annum”.
 

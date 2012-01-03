@@ -24,7 +24,7 @@
 
 &emsp;(C) the owner of the crossing line compensates the owner of the crossed line.
 
-(2) If the parties are unable to agree on the terms of operation or the amount of payment for purposes of paragraph (1) of this subsection, either party may submit the matters in dispute to the Board for determination. The Board shall make a determination under this paragraph within 120 days after the dispute is submitted for determination.
+(2) If the parties are unable to agree on the terms of operation or the amount of paymentfor purposes of paragraph (1) of this subsection, either party may submit the matters in dispute to the Board for determination. The Board shall make a determination under this paragraph within 120 days after the dispute is submitted for determination.
 
 (Added Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 822.)
 

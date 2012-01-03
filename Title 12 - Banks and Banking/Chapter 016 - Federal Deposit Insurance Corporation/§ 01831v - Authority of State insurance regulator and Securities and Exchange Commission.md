@@ -8,7 +8,7 @@ Notwithstanding any other provision of law, the provisions of—
 
 &emsp;(2) section 1844(g) of this title that limit the authority of the Board to require a functionally regulated subsidiary of a holding company to provide capital or other funds or assets to a depository institution subsidiary of the holding company and to take certain actions including requiring divestiture of the depository institution; and
 
-&emsp;(3) section 1848a of this title that limit whatever authority the Board might otherwise have to take direct or indirect action with respect to holding companies and their functionally regulated subsidiaries;
+&emsp;(3) section 1848a <sup>1</sup> of this title that limit whatever authority the Board might otherwise have to take direct or indirect action with respect to holding companies and their functionally regulated subsidiaries;
 
 > shall also limit whatever authority that a Federal banking agency might otherwise have under any statute or regulation to require reports, make examinations, impose capital requirements, or take any other direct or indirect action with respect to any functionally regulated affiliate of a depository institution, subject to the same standards and requirements as are applicable to the Board under those provisions.
 
@@ -34,7 +34,13 @@ For purposes of this section, the following definitions shall apply:
 
 (Sept. 21, 1950, ch. 967, §2\[45\], as added Pub. L. 106–102, title I, §112(b), Nov. 12, 1999, 113 Stat. 1367.)
 
+#### References in Text
+
+Section 1848a of this title, referred to in subsec. (a)(3), was repealed by Pub. L. 111–203, title VI, §604(c)(2), July 21, 2010, 124 Stat. 1601.
+
 #### Effective Date
 
 Section effective 120 days after Nov. 12, 1999, see section 161 of Pub. L. 106–102, set out as an Effective Date of 1999 Amendment note under section 24 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

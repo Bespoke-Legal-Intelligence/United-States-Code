@@ -102,7 +102,7 @@ A State which has adopted the certification program may use accreditation organi
 
 &emsp;&emsp;(B) which have been certified by an accreditation organization approved by the Secretary under section 263a–3 of this title,
 
-> &emsp;for the purpose of determining whether the laboratory is being operated in accordance with the standards in subsection (d) of this section.
+> &emsp;for the purpose of determining whether the laboratory is being operated in accordancewith the standards in subsection (d) of this section.
 
 #### (2) Access to facilities and records
 
@@ -142,7 +142,7 @@ A State which has adopted the certification program may use accreditation organi
 
 #### (j) Term
 
-The term of a certification issued by a State or an accreditation organization in a State shallbe prescribed by the Secretary in the certification program and shall be valid for a period of time to be defined by the Secretary through the public comment process described in subsection (h)(2) <sup>4</sup> of this section. The Secretary shall provide an application for recertification to be submitted at the time of changes in the ownership of a certified laboratory or changes in the administration of such a laboratory.
+The term of a certification issued by a State or an accreditation organization in a State shall be prescribed by the Secretary in the certification program and shall be valid for a period of time to be defined by the Secretary through the public comment process described in subsection (h)(2) <sup>4</sup> of this section. The Secretary shall provide an application for recertification to be submitted at the time of changes in the ownership of a certified laboratory or changes in the administration of such a laboratory.
 
 (Pub. L. 102–493, §3, Oct. 24, 1992, 106 Stat. 3146.)
 

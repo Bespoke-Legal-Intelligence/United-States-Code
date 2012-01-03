@@ -26,7 +26,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;(C) Any such program or service that is a workforce development program targeted to specific groups.
 
-&emsp;(3) The term “priority of service” means, with respect to any qualified job training program, that a covered person shall be given priority over nonveterans for the receipt of employment, training, and placement services provided under that program, notwithstanding any other provision of law.
+&emsp;(3) The term “priority of service” means, with respect to any qualified job training program, that a covered person shall be given priority over nonveterans for the receipt of employment, training, and placement services provided under that program, notwithstanding any other provision of law. Such priority includes giving access to such services to a covered person before a non-covered person or, if resources are limited, giving access to such services to a covered person instead of a non-covered person.
 
 (b)
 
@@ -44,13 +44,27 @@ Administration of Programs at State and Local Levels.—An entity of a State or 
 
 (d)
 
-Addition to Annual Report.—In the annual report required under section 4107(c) of this title for the program year beginning in 2003 and each subsequent program year, the Secretary of Labor shall evaluate whether covered persons are receiving priority of service and are being fully served by qualified job training programs, and whether the representation of veterans in such programs is in proportion to the incidence of representation of veterans in the labor market, including within groups that the Secretary may designate for priority under such programs, if any.
+Addition to Annual Report.—(1) In the annual report required under section 4107(c) of this title for the program year beginning in 2003 and each subsequent program year, the Secretary of Labor shall evaluate whether covered persons are receiving priority of service and are being fully served by qualified job training programs. Such evaluation shall include—
 
-(Added Pub. L. 107–288, §2(a)(1), Nov. 7, 2002, 116 Stat. 2033.)
+&emsp;(A) an analysis of the implementation of providing such priority at the local level;
+
+&emsp;(B) whether the representation of veterans in such programs is in proportion to the incidence of representation of veterans in the labor market, including within groups that the Secretary may designate for priority under such programs, if any; and
+
+&emsp;(C) performance measures, as determined by the Secretary, to determine whether veterans are receiving priority of service and are being fully served by qualified job training programs.
+
+(2) The Secretary may not use the proportion of representation of veterans described in subparagraph (B) of paragraph (1) as the basis for determining under such paragraph whether veterans are receiving priority of service and are being fully served by qualified job training programs.
+
+(Added Pub. L. 107–288, §2(a)(1), Nov. 7, 2002, 116 Stat. 2033; amended Pub. L. 112–56, title II, §239, Nov. 21, 2011, 125 Stat. 727.)
 
 #### References in Text
 
 The Workforce Investment Act of 1998, referred to in subsec. (a)(2)(B), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+
+#### Amendments
+
+<b>2011</b>—Subsec. (a)(3). Pub. L. 112–56, §239(1), inserted at end “Such priority includes giving access to such services to a covered person before a non-covered person or, if resources are limited, giving access to such services to a covered person instead of a non-covered person.”
+
+Subsec. (d). Pub. L. 112–56, §239(2), amended subsec. (d) generally. Prior to amendment, text read as follows: “In the annual report required under section 4107(c) of this title for the program year beginning in 2003 and each subsequent program year, the Secretary of Labor shall evaluate whether covered persons are receiving priority of service and are being fully served by qualified job training programs, and whether the representation of veterans in such programs is in proportion to the incidence of representation of veterans in the labor market, including within groups that the Secretary may designate for priority under such programs, if any.”
 
 #### Department of Labor Implementation of Regulations for Priority of Service
 

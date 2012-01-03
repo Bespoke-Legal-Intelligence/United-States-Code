@@ -48,7 +48,7 @@ Section 1252 of this title, referred to in subsec. (c), was amended generally by
 
 #### Amendments
 
-1996—Pub. L. 104–208, §308(e)(14)(A), amended section catchline.
+<b>1996</b>—Pub. L. 104–208, §308(e)(14)(A), amended section catchline.
 
 Subsec. (a)(1). Pub. L. 104–208, §308(d)(4)(J)(i), substituted “denied admission, excluded, deported, or removed” for “arrested and deported, has been excluded and deported,” and “exclusion, deportation, or removal” for “exclusion or deportation”.
 
@@ -72,11 +72,11 @@ Subsec. (c). Pub. L. 104–132, §438(b), added subsec. (c).
 
 Subsec. (d). Pub. L. 104–132, §441(a), added subsec. (d).
 
-1994—Subsec. (b). Pub. L. 103–322, in par. (1), inserted “three or more misdemeanors involving drugs, crimes against the person, or both, or” after “commission of” and substituted “10” for “5”, in par. (2), substituted “20” for “15”, and added concluding sentence.
+<b>1994</b>—Subsec. (b). Pub. L. 103–322, in par. (1), inserted “three or more misdemeanors involving drugs, crimes against the person, or both, or” after “commission of” and substituted “10” for “5”, in par. (2), substituted “20” for “15”, and added concluding sentence.
 
-1990—Subsec. (a). Pub. L. 101–649 substituted “shall be fined under title 18, or imprisoned not more than 2 years” for “shall be guilty of a felony, and upon conviction thereof, be punished by imprisonment of not more than two years, or by a fine of not more than $1,000”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–649 substituted “shall be fined under title 18, or imprisoned not more than 2 years” for “shall be guilty of a felony, and upon conviction thereof, be punished by imprisonment of not more than two years, or by a fine of not more than $1,000”.
 
-1988—Pub. L. 100–690 designated existing provisions as subsec. (a), substituted “Subject to subsection (b) of this section, any alien” for “Any alien”, and added subsec. (b).
+<b>1988</b>—Pub. L. 100–690 designated existing provisions as subsec. (a), substituted “Subject to subsection (b) of this section, any alien” for “Any alien”, and added subsec. (b).
 
 #### Effective Date of 1996 Amendments
 

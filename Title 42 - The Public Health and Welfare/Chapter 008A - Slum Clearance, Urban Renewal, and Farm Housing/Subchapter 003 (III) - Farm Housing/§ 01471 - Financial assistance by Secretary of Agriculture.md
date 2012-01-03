@@ -22,7 +22,7 @@ Definitions.—For purposes of this subchapter, the terms “repair”, “repai
 
 (3) For the purposes of this subchapter, the term “elderly or handicapped persons or families” means families which consist of two or more persons, the head of which (or his or her spouse) is at least sixty-two years of age or is handicapped. Such term also means a single person who is at least sixty-two years of age or is handicapped. A person shall be considered handicapped if such person is determined, pursuant to regulations issued by the Secretary, to have an impairment which (A) is expected to be of long-continued and indefinite duration, (B) substantially impedes his ability to live independently, and (C) is of such a nature that such ability could be improved by more suitable housing conditions, or if such person has a developmental disability as defined in section 15002 of this title. The Secretary shall prescribe such regulations as may be necessary to prevent abuses in determining, under the definitions contained in this paragraph, eligibility of families and persons for admission to and occupancy of housing constructed with assistance under this subchapter. Notwithstanding the preceding provisions of this paragraph, such term also includes two or more elderly (sixty-two years of age or over) or handicapped persons living together, one or more such persons living with another person who is determined (under regulations prescribed by the Secretary) to be essential to the care or well-being of such persons, and the surviving member or members of any family described in the first sentence of this paragraph who were living, in a unit assisted under this subchapter, with the deceased member of the family at the time of his or her death.
 
-(4) For the purpose of this subchapter, the terms “low income families or persons” and “very low-income families or persons” means those families and persons whose incomes do not exceed the respective levels established for lower income families and very low-income families under the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\]. Notwithstanding the preceding sentence, the maximum income levels established for purposes of this subchapter forsuch families and persons in the Virgin Islands shall not be less than the highest such levels established for purposes of this subchapter for such families and persons in American Samoa, Guam, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands. The temporary absence of a child from the home due to placement in foster care should not be considered in considering family composition and family size.
+(4) For the purpose of this subchapter, the terms “low income families or persons” and“very low-income families or persons” means those families and persons whose incomes do not exceed the respective levels established for lower income families and very low-income families under the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\]. Notwithstanding the preceding sentence, the maximum income levels established for purposes of this subchapter for such families and persons in the Virgin Islands shall not be less than the highest such levels established for purposes of this subchapter for such families and persons in American Samoa, Guam, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands. The temporary absence of a child from the home due to placement in foster care should not be considered in considering family composition and family size.
 
 (5)(A) For the purpose of this subchapter, the terms “income” and “adjusted income” have the meanings given by sections 3(b)(4) and 3(b)(5), respectively, of the United States Housing Act of 1937 \[42 U.S.C. 1437a(b)(4), (5)\].
 
@@ -60,7 +60,7 @@ The programs authorized by this subchapter shall be carried out, consistent with
 
 #### (h) Eligibility of resident aliens
 
-The Secretary may not restrict the availability of assistance under this subchapter for any alien for whom assistance may not be restricted under section 1436a of this title.
+The Secretary may not restrict the availability of assistance under this subchapter for anyalien for whom assistance may not be restricted under section 1436a of this title.
 
 #### (i) Loan packaging by nonprofit organizations as a “development cost”
 
@@ -116,7 +116,7 @@ Subsec. (b)(6). Pub. L. 98–479, §203(d)(3), substituted “chapter 67 of titl
 
 <b>1983</b>—Subsec. (b)(4). Pub. L. 98–181, §502(a), amended par. (4) generally, substituting definition of low and very low-income families or persons as those whose incomes do not exceed levels established by the Secretary under the United States Housing Act of 1937 for definition of persons of low income as those whose incomes do not exceed 80 per centum of the area median income, except when it is impracticable to use such median income or variations are necessary because of other factors.
 
-Subsec. (b)(5). Pub. L. 98–181, §502(b), amended par. (5) generally, substituting definition of income and adjusted income as having the meanings given by sections 3(b)(4) and 3(b)(5) of the United States Housing Act of 1937 for definition of income as income from all sources of each household member, as determined in accordance with criteria prescribed by the Secretary.
+Subsec. (b)(5). Pub. L. 98–181, §502(b), amended par. (5) generally, substituting definition of income and adjusted income as having the meanings given by sections 3(b)(4) and 3(b)(5) of the United States Housing Act of1937 for definition of income as income from all sources of each household member, as determined in accordance with criteria prescribed by the Secretary.
 
 <b>1980</b>—Subsec. (a)(2). Pub. L. 96–399, §507(a), inserted reference to persons residing in reservations or villages of Indian tribes.
 
@@ -212,7 +212,7 @@ Report.—The Secretary of Agriculture shall prepare a report to the Congress on
 
 Failure to meet goals.—If a performance standard or goal has not been met, the report under paragraph (3) shall include an explanation of why the goal was not met, propose plans for achieving the performance goal, and recommend any legislative or regulatory changes necessary for achievement of the goal.”
 
-\[For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under section 925(b)(3) of Pub. L. 102–550, set out above,is listed in item 12 on page 47), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.\]
+\[For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under section 925(b)(3) of Pub. L. 102–550, set out above, is listed in item 12 on page 47), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.\]
 
 #### Admission of Alaska and Hawaii to Statehood
 

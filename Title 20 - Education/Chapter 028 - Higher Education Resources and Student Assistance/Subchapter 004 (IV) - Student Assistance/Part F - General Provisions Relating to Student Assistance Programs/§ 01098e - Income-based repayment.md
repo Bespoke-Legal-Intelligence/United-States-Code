@@ -28,7 +28,7 @@ In this section:
 
 Notwithstanding any other provision of this chapter and part C of subchapter I of chapter 34 of title 42, the Secretary shall carry out a program under which—
 
-&emsp;(1) a borrower of any loan made, insured, or guaranteed under part B or C (other than an excepted PLUS loan or excepted consolidationloan) who has a partial financial hardship (whether or not the borrower's loan has been submitted to a guaranty agency for default aversion or had been in default) may elect, during any period the borrower has the partial financial hardship, to have the borrower's aggregate monthly payment for all such loans not exceed the result described in subsection (a)(3)(B) divided by 12;
+&emsp;(1) a borrower of any loan made, insured, or guaranteed under part B or C (other than an excepted PLUS loan or excepted consolidation loan) who has a partial financial hardship (whether or not the borrower's loan has been submitted to a guaranty agency for default aversion or had been in default) may elect, during any period the borrower has the partial financial hardship, to have the borrower's aggregate monthly payment for all such loans not exceed the result described in subsection (a)(3)(B) divided by 12;
 
 &emsp;(2) the holder of such a loan shall apply the borrower's monthly payment under this subsection first toward interest due on the loan, next toward any fees due on the loan, and then toward the principal of the loan;
 

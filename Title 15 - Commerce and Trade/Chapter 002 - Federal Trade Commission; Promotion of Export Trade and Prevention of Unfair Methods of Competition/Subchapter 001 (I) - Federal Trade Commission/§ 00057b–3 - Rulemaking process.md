@@ -22,7 +22,7 @@ For purposes of this section:
 
 &emsp;(B) a description of any reasonable alternatives to the proposed rule which may accomplish the stated objective of the rule in a manner consistent with applicable law; and
 
-&emsp;(C) for the proposed rule, and for each of the alternatives described in the analysis, a preliminary analysis of the projected benefits and any adverse economic effects and any other effects, and of the effectiveness of the proposed rule and each alternative in meeting the stated objectives of the proposed rule.
+&emsp;(C) for the proposed rule, and for each of the alternatives described in the analysis, a preliminary analysis of the projected benefits and any adverse economic effects and any other effects, and of the effectiveness of the proposedrule and each alternative in meeting the stated objectives of the proposed rule.
 
 (2) In any case in which the Commission promulgates a final rule, the Commission shall issue a final regulatory analysis relating to the final rule. Each final regulatory analysis shall contain—
 

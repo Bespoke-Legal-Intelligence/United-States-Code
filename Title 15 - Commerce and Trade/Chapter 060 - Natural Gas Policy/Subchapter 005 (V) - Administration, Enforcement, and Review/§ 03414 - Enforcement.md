@@ -8,7 +8,7 @@ It shall be unlawful for any person to violate any provision of this chapter or 
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), whenever it appears to the Commission that any person is engaged or about to engage in any act or practice which constitutes or will constitute a violation of any provision of this chapter, or of any rule or order thereunder, the Commission may bring an action in the District Court of the United States for the District of Columbia or any other appropriatedistrict court of the United States to enjoin such act or practice and to enforce compliance with this chapter, or any rule or order thereunder.
+&emsp;Except as provided in paragraph (2), whenever it appears to the Commission that any person is engaged or about to engage in any act or practice which constitutes or will constitute a violation of any provision of this chapter, or of any rule or order thereunder, the Commission may bring an action in the District Court of the United States for the District of Columbia or any other appropriate district court of the United States to enjoin such act or practice and to enforce compliance with this chapter, or any rule or order thereunder.
 
 #### (2) Enforcement of emergency orders
 
@@ -18,7 +18,7 @@ It shall be unlawful for any person to violate any provision of this chapter or 
 
 #### (4) Relief available
 
-&emsp;In any action under paragraph (1) or (2), the court shall, upon a proper showing, issue a temporary restraining order or preliminary or permanent injunction without bond. In any such action, the court may also issue a mandatory injunction commanding any person to comply with any applicable provision of law, rule, or order, or ordering such other legal or equitable relief as the court determines appropriate, including refund or restitution.
+&emsp;In any action under paragraph (1) or (2), the court shall, upon a proper showing, issue atemporary restraining order or preliminary or permanent injunction without bond. In any such action, the court may also issue a mandatory injunction commanding any person to comply with any applicable provision of law, rule, or order, or ordering such other legal or equitable relief as the court determines appropriate, including refund or restitution.
 
 #### (5) Criminal referral
 
@@ -84,7 +84,7 @@ It shall be unlawful for any person to violate any provision of this chapter or 
 
 #### (5) “Knowingly” defined
 
-&emsp;For purposes of this subsection, the term “knowingly”, when used with respect to anyact or omission by any person, means such person—
+&emsp;For purposes of this subsection, the term “knowingly”, when used with respect to any act or omission by any person, means such person—
 
 &emsp;&emsp;(A) had actual knowledge; or
 

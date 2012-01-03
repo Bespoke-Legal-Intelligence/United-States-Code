@@ -4,7 +4,7 @@
 
 #### (1) Authorities of Secretary
 
-&emsp;The Secretary of Health and Human Services (hereinafter in this subsection referred to as the Secretary), in consultation with the Administrator, shall establish and support a basic research and training program (through grants, cooperative agreements, and contracts) consisting of the following:
+&emsp;The Secretary of Health and Human Services (hereinafter in this subsection referred to as the Secretary), in consultation with the Administrator, shall establish and support a basic research and training program (throughgrants, cooperative agreements, and contracts) consisting of the following:
 
 &emsp;&emsp;(A) Basic research (including epidemiologic and ecologic studies) which may include each of the following:
 
@@ -28,7 +28,7 @@
 
 #### (3) Recipients of grants, etc.
 
-&emsp;A grant, cooperative agreement, or contract may be made or entered into under paragraph (1) with an accredited institution of highereducation. The institution may carry out the research or training under the grant, cooperative agreement, or contract through contracts, including contracts with any of the following:
+&emsp;A grant, cooperative agreement, or contract may be made or entered into under paragraph (1) with an accredited institution of higher education. The institution may carry out the research or training under the grant, cooperative agreement, or contract through contracts, including contracts with any of the following:
 
 &emsp;&emsp;(A) Generators of hazardous wastes.
 
@@ -98,7 +98,7 @@
 
 #### (B) Solicitation
 
-&emsp;&emsp;Within 90 days after October 17, 1986, and no less often than once every 12 monthsthereafter, the Administrator shall publish a solicitation for innovative or alternative technologies at a stage of development suitable for full-scale demonstrations at sites at which a response action may be undertaken under section 9604 of this title. The purpose of any such project shall be to demonstrate the use of an alternative or innovative treatment technology with respect to hazardous substances or pollutants or contaminants which are located at the site or which are to be removed from the site. The solicitation notice shall prescribe information to be included in the application, including technical and economic data derived from the applicant's own research and development efforts, and other information sufficient to permit the Administrator to assess the technology's potential and the types of remedial action to which it may be applicable.
+&emsp;&emsp;Within 90 days after October 17, 1986, and no less often than once every 12 months thereafter, the Administrator shall publish a solicitation for innovative or alternative technologies at a stage of development suitable for full-scale demonstrations at sites at which a response action may be undertaken under section 9604 of this title. The purpose of any such project shall be to demonstrate the use of an alternative or innovative treatment technology with respect to hazardous substances or pollutants or contaminants which are located at the site or which are to be removed from the site. The solicitation notice shall prescribe information to be included in the application, including technical and economic data derived from the applicant's own research and development efforts, and other information sufficient to permit the Administrator to assess the technology's potential and the types of remedial action to which it may be applicable.
 
 #### (C) Applications
 
@@ -138,7 +138,7 @@
 
 #### (7) Criteria
 
-&emsp;In selecting technologies to be demonstrated under this subsection, the Administratorshall, consistent with the protection of human health and the environment, consider each of the following criteria:
+&emsp;In selecting technologies to be demonstrated under this subsection, the Administrator shall, consistent with the protection of human health and the environment, consider each of the following criteria:
 
 &emsp;&emsp;(A) The potential for contributing to solutions to those waste problems which pose the greatest threat to human health, which cannot be adequately controlled under present technologies, or which otherwise pose significant management difficulties.
 
@@ -326,7 +326,7 @@ Conference.—Not later than 90 days after the date of enactment of this Act \[D
 
 “(b)
 
-Report.—Not later than 3 months after each conference, the Administrator shall submit a report to the Congress that summarizes the proceedings of the conference, including a summary of any recommendations or concerns raised by the non-Federal participants and how the Administrator intends to respond to them. The report shall also be made widely available to the general public.
+Report.—Not later than 3 months after each conference, the Administrator shall submit a report to the Congress that summarizes the proceedings of theconference, including a summary of any recommendations or concerns raised by the non-Federal participants and how the Administrator intends to respond to them. The report shall also be made widely available to the general public.
 
 #### “SEC. 6. RESIDUAL EFFECTS STUDY.
 

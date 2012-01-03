@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The taxable income of any holder of a residual interest in a REMIC for any taxable year shall in no event be less than the excess inclusion for such taxable year.
+&emsp;The taxable income of any holder of a residual interest in a REMIC for any taxable yearshall in no event be less than the excess inclusion for such taxable year.
 
 #### (2) Special rule for affiliated groups
 
@@ -82,7 +82,7 @@ If a residual interest in a REMIC is held by a real estate investment trust, und
 
 &emsp;(2) any amount allocated to a shareholder under paragraph (1) shall be treated as an excess inclusion with respect to a residual interest held by such shareholder.
 
-> Rules similar to the rules of the preceding sentence shall apply also in the case of regulatedinvestment companies, common trust funds, and organizations to which part I of subchapter T applies.
+> Rules similar to the rules of the preceding sentence shall apply also in the case of regulated investment companies, common trust funds, and organizations to which part I of subchapter T applies.
 
 #### (e) Tax on transfers of residual interests to certain organizations, etc.
 
@@ -100,7 +100,7 @@ If a residual interest in a REMIC is held by a real estate investment trust, und
 
 #### (3) Liability
 
-&emsp;The tax imposed by paragraph (1) on any transfer shall be paid by the transferor; except that, where such transfer is through an agent for a disqualified organization, such tax shall be paid by such agent.
+&emsp;The tax imposed by paragraph (1) on any transfer shall be paid by the transferor; exceptthat, where such transfer is through an agent for a disqualified organization, such tax shall be paid by such agent.
 
 #### (4) Transferee furnishes affidavit
 

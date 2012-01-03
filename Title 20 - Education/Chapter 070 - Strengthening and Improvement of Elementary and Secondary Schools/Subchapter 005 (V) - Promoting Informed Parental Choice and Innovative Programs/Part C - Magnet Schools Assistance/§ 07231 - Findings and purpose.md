@@ -16,7 +16,7 @@ Congress makes the following findings:
 
 &emsp;&emsp;(B) to ensure that all students have equitable access to a high quality education that will prepare all students to function well in a technologically oriented and a highly competitive economy comprised of people from many different racial and ethnic backgrounds; and
 
-&emsp;&emsp;(C) to continue to desegregate and diversify schools by supporting magnet schools, recognizing that segregation exists between minority and nonminority students as well as among students of different minority groups.
+&emsp;&emsp;(C) to continue to desegregate and diversify schools by supporting magnet schools,recognizing that segregation exists between minority and nonminority students as well as among students of different minority groups.
 
 &emsp;(5) Desegregation efforts through magnet school programs are a significant part of our Nation's effort to achieve voluntary desegregation in schools and help to ensure equal educational opportunities for all students.
 

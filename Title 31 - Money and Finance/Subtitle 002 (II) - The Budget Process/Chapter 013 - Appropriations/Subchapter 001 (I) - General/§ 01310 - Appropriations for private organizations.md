@@ -18,7 +18,7 @@
 
 &emsp;(B) that states the amount is to be applied to small claims.
 
-(2) The fiscal official shall provide the Secretary or the designated depositary on which the check is drawn with a certified list of theclaims. The list shall state the kind and amount of each claim and the name of each claimant.
+(2) The fiscal official shall provide the Secretary or the designated depositary on which the check is drawn with a certified list of the claims. The list shall state the kind and amount of each claim and the name of each claimant.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 919.)
 

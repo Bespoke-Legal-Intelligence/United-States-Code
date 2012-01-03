@@ -2,7 +2,7 @@
 
 #### (a) “Commodity promotion law” defined
 
-In this section, the term “commodity promotion law” means a Federal law that providesfor the establishment and operation of a promotion program regarding an agricultural commodity that includes a combination of promotion, research, industry information, or consumer information activities, is funded by mandatory assessments on producers or processors, and is designed to maintain or expand markets and uses for the commodity (as determined by the Secretary). The term includes—
+In this section, the term “commodity promotion law” means a Federal law that provides for the establishment and operation of a promotion program regarding an agricultural commodity that includes a combination of promotion, research, industry information, or consumer information activities, is funded by mandatory assessments on producers or processors, and is designed to maintain or expand markets and uses for the commodity (as determined by the Secretary). The term includes—
 
 &emsp;(1) the marketing promotion provisions under section 608c(6)(I) of this title;
 
@@ -74,7 +74,7 @@ Congress finds the following:
 
 #### (c) Independent evaluation of promotion program effectiveness
 
-Except as otherwise provided by law, each commodity board established under the supervision and oversight of the Secretary of Agriculture pursuant to a commodity promotion law shall, not less often than every 5 years, authorize and fund, from funds otherwise available tothe board, an independent evaluation of the effectiveness of the generic commodity promotion programs and other programs conducted by the board pursuant to a commodity promotion law. The board shall submit to the Secretary, and make available to the public, the results of each periodic independent evaluation conducted under this subsection.
+Except as otherwise provided by law, each commodity board established under the supervision and oversight of the Secretary of Agriculture pursuant to a commodity promotion law shall, not less often than every 5 years, authorize and fund, from funds otherwise available to the board, an independent evaluation of the effectiveness of the generic commodity promotion programs and other programs conducted by the board pursuant to a commodity promotion law. The board shall submit to the Secretary, and make available to the public, the results of each periodic independent evaluation conducted under this subsection.
 
 #### (d) Administrative costs
 
@@ -116,7 +116,7 @@ Public Law 103–407, referred to in subsec. (a)(14), is Pub. L. 103–407, Oct.
 
 #### Amendments
 
-2002—Subsec. (a)(19). Pub. L. 107–171, §10607(b), added par. (19).
+<b>2002</b>—Subsec. (a)(19). Pub. L. 107–171, §10607(b), added par. (19).
 
 Subsec. (e). Pub. L. 107–171, §10607(a), added subsec. (e).
 
@@ -128,5 +128,5 @@ Section 531 of title V of Pub. L. 104–127 provided that: “This subtitle \[su
 
 Section 551 of title V of Pub. L. 104–127 provided that: “This subtitle \[subtitle D (§§551–564) of title V of Pub. L. 104–127, enacting subchapter IV of this chapter\] may be cited as the ‘National Kiwifruit Research, Promotion, and Consumer Information Act’.”
 
-Section 571 of title V of Pub. L. 104–127 provided that: “This subtitle \[subtitle E (§§571–582) of title V of Pub.L. 104–127, enacting subchapter V of this chapter\] may be cited as the ‘Popcorn Promotion, Research, and Consumer Information Act’.”
+Section 571 of title V of Pub. L. 104–127 provided that: “This subtitle \[subtitle E (§§571–582) of title V of Pub. L. 104–127, enacting subchapter V of this chapter\] may be cited as the ‘Popcorn Promotion, Research, and Consumer Information Act’.”
 

@@ -18,9 +18,9 @@ The Food for Peace Act, referred to in par. (4), is act July 10, 1954, ch. 469, 
 
 #### Amendments
 
-2008—Par. (4). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
+<b>2008</b>—Par. (4). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
 
-1996—Pub. L. 104–127 substituted “Duties” for “Establishment” in section catchline and amended text generally. Prior to amendment, text read as follows: “The Service shall assist the Secretary in carrying out the agricultural trade policy of the United States by acquiring information pertaining to agricultural trade, carrying out market promotion and development activities, and implementing the programs authorized in this chapter, the Agricultural Trade Development and Assistance Act of 1954, and other Acts.”
+<b>1996</b>—Pub. L. 104–127 substituted “Duties” for “Establishment” in section catchline and amended text generally. Prior to amendment, text read as follows: “The Service shall assist the Secretary in carrying out the agricultural trade policy of the United States by acquiring information pertaining to agricultural trade, carrying out market promotion and development activities, and implementing the programs authorized in this chapter, the Agricultural Trade Development and Assistance Act of 1954, and other Acts.”
 
 #### Effective Date of 2008 Amendment
 

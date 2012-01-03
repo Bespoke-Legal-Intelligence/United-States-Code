@@ -20,7 +20,7 @@ Effective 2 years after October 24, 1992, each assisted reproductive technology 
 
 &emsp;&emsp;(A) the basic live birth rate calculated for each assisted reproductive technology performed by an assisted reproductive technology program by dividing the number of pregnancies which result in live births by the number of ovarian stimulation procedures attempted by such program, and
 
-&emsp;&emsp;(B) the live birth rate per successful oocyte retrieval procedure calculated for eachassisted reproductive technology performed by an assisted reproductive technology program by dividing the number of pregnancies which result in live births by the number of successful oocyte retrieval procedures performed by such program.
+&emsp;&emsp;(B) the live birth rate per successful oocyte retrieval procedure calculated for each assisted reproductive technology performed by an assisted reproductive technology program by dividing the number of pregnancies which result in live births by the number of successful oocyte retrieval procedures performed by such program.
 
 #### (c) Consultation
 

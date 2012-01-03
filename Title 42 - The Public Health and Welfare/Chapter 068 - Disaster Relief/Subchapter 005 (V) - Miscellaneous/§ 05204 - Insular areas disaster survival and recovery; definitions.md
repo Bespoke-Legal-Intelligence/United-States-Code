@@ -2,7 +2,7 @@
 
 As used in sections 5204 to 5204c of this title—
 
-&emsp;(1) the term “insular area” means any of the following: American Samoa, the FederatedStates of Micronesia, Guam, the Marshall Islands, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and the Virgin Islands;
+&emsp;(1) the term “insular area” means any of the following: American Samoa, the Federated States of Micronesia, Guam, the Marshall Islands, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and the Virgin Islands;
 
 &emsp;(2) the term “disaster” means a declaration of a major disaster by the President after September 1, 1989, pursuant to section 5170 of this title; and
 

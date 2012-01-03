@@ -14,5 +14,5 @@ A prior section 1379A of Pub. L. 102–550 was renumbered section 1379C and is c
 
 #### Amendments
 
-2008—Pub. L. 110–289, §1156(b)(2), which directed substitution of “a regulated entity” for “an enterprise”, was executed by making the substitution in two places to reflect the probable intent of Congress.
+<b>2008</b>—Pub. L. 110–289, §1156(b)(2), which directed substitution of “a regulated entity” for “an enterprise”, was executed by making the substitution in two places to reflect the probable intent of Congress.
 

@@ -52,17 +52,17 @@ A prior section 2663, Pub. L. 92–419, title V, §503, Aug. 30, 1972, 86 Stat. 
 
 #### Amendments
 
-1996—Subsec. (c). Pub. L. 104–127, §792(b)(2)(A)(ii), (iii), which directed substitution of “subsections (e), (h), and (i) of section 2662 of this title shall be distributed” for “section 2662(e)” and all that follows through “shall be distributed” and “objectives of subsections (e), (h), and (i) of section 2662 of this title” for “objectives of” and all that follows through “title”, could not be executed because of prior amendment by Pub. L. 102–237, which substituted “subsections (e) and (i) of section 2662 of this title shall be distributed” for “the provisions of section 2662(e) of this title shall be distributed” and “objectives of those subsections” for “objectives of section 2662(e) of this title”. See 1991 Amendment note below.
+<b>1996</b>—Subsec. (c). Pub. L. 104–127, §792(b)(2)(A)(ii), (iii), which directed substitution of “subsections (e), (h), and (i) of section 2662 of this title shall be distributed” for “section 2662(e)” and all that follows through “shall be distributed” and “objectives of subsections (e), (h), and (i) of section 2662 of this title” for “objectives of” and all that follows through “title”, could not be executed because of prior amendment by Pub. L. 102–237, which substituted “subsections (e) and (i) of section 2662 of this title shall be distributed” for “the provisions of section 2662(e) of this title shall be distributed” and “objectives of those subsections” for “objectives of section 2662(e) of this title”. See 1991 Amendment note below.
 
 Pub. L. 104–127, §792(b)(2)(A)(i), (B), struck out “(1)” before “Such sums” and struck out par. (2) which read as follows: “The Secretary shall distribute the amounts appropriated to carry out section 2662(f) of this title to colleges and universities in accordance with the requirements of such subsection.”
 
-1991—Subsec. (c)(1). Pub. L. 102–237 substituted “subsections (e) and (i) of section 2662 of this title” for “the provisions of section 2662(e) of this title” and “objectives of those subsections” for “objectives of section 2662(e) of this title”.
+<b>1991</b>—Subsec. (c)(1). Pub. L. 102–237 substituted “subsections (e) and (i) of section 2662 of this title” for “the provisions of section 2662(e) of this title” and “objectives of those subsections” for “objectives of section 2662(e) of this title”.
 
-1990—Subsec. (c). Pub. L. 101–624, §2390(b)(2), which directed substitution of “section 2662(f) of this title, and section 2662(h) of this title” for “and section 2662(f) of this title”, could not be executed because of prior amendment by Pub. L. 101–624, §2389(c)(2)(B), which struck out “and section 2662(f)” wherever appearing in par. (1). See below.
+<b>1990</b>—Subsec. (c). Pub. L. 101–624, §2390(b)(2), which directed substitution of “section 2662(f) of this title, and section 2662(h) of this title” for “and section 2662(f) of this title”, could not be executed because of prior amendment by Pub. L. 101–624, §2389(c)(2)(B), which struck out “and section 2662(f)” wherever appearing in par. (1). See below.
 
 Pub. L. 101–624, §2389(c)(2), inserted heading, designated existing provisions as par. (1), struck out “and section 2662(f)” before “of this title” in two places, and added par. (2).
 
-1985—Subsec. (c). Pub. L. 99–198 inserted references to section 2662(f) of this title.
+<b>1985</b>—Subsec. (c). Pub. L. 99–198 inserted references to section 2662(f) of this title.
 
 #### Effective Date
 

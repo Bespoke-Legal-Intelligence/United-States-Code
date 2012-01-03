@@ -62,7 +62,7 @@ To be eligible to receive an initial grant or a renewal grant under this part, a
 
 &emsp;The coalition shall, with respect to the community involved—
 
-&emsp;&emsp;(A) have as its principal mission the reduction of substance abuse, which, at a minimum, includes the use and abuse of drugsreferenced in section 1523(9)(A) of this title, in a comprehensive and long-term manner, with a primary focus on youth in the community;
+&emsp;&emsp;(A) have as its principal mission the reduction of substance abuse, which, at a minimum, includes the use and abuse of drugs referenced in section 1523(9)(A) of this title, in a comprehensive and long-term manner, with a primary focus on youth in the community;
 
 &emsp;&emsp;(B) describe and document the nature and extent of the substance abuse problem, which, at a minimum, includes the use and abuse of drugs referenced in section 1523(9)(A) of this title, in the community;
 

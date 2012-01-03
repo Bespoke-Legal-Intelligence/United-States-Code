@@ -120,7 +120,7 @@ Subsec. (f). Pub. L. 110–453, §202, substituted “lease or construction cont
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–221, in second sentence, substituted “Moapa Indian Reservation” for “Moapa Indian reservation” and “the lands comprising the Moses Allotment Numbered 8 and the Moses Allotment Numbered 10, Chelan County, Washington,” for “lands comprising the Moses Allotment Numbered 10, Chelan County, Washington,,” and inserted “the Confederated Tribes of the Umatilla Indian Reservation,” before “the Burns Paiute Reservation”, “the” before “Yavapai-Prescott”, “the Muckleshoot Indian Reservation and land held in trust for the Muckleshoot Indian Tribe,” after “the Cabazon Indian Reservation,”, “land held in trust for the Prairie Band Potawatomi Nation,” before “lands held in trust for the Cherokee Nation of Oklahoma”, “land held in trust for the Fallon Paiute Shoshone Tribes,” before “lands held in trust for the Pueblo of Santa Clara”, and “land held in trust for the Yurok Tribe, land held in trust for the Hopland Band of Pomo Indians of the Hopland Rancheria,” after “Pueblo of Santa Clara,”.
 
-<b>2005</b>—Subsec. (f). Pub. L. 109–147 substituted “Any contract, including a lease, affecting land” for “Any lease entered into under sections 415 to 415d of thistitle, or any contract entered into under section 81 of this title, affecting land”, “such contract” for “such lease or contract”, and “Such contracts” for “Such leases or contracts entered into pursuant to such Acts”.
+<b>2005</b>—Subsec. (f). Pub. L. 109–147 substituted “Any contract, including a lease, affecting land” for “Any lease entered into under sections 415 to 415d of this title, or any contract entered into under section 81 of this title, affecting land”, “such contract” for “such lease or contract”, and “Such contracts” for “Such leases or contracts entered into pursuant to such Acts”.
 
 <b>2004</b>—Subsec. (g). Pub. L. 108–199 added subsec. (g).
 
@@ -198,7 +198,7 @@ Pub. L. 90–182 inserted “the Gila Reservation,” after “Pyramid Lake Rese
 
 <b>1962</b>—Pub. L. 87–785 authorized leases for not more than 99 years of lands on Southern Ute Reservation.
 
-<b>1961</b>—Pub. L. 87–375 authorized longer term leases of Indian lands on Dania Reservation and excepted from renewal leases the initial term of which extends for more than 74 years.
+<b>1961</b>—Pub. L. 87–375 authorized longer term leases of Indian lands on Dania Reservation and excepted fromrenewal leases the initial term of which extends for more than 74 years.
 
 <b>1960</b>—Pub. L. 86–505 authorized leases for not more than 99 years of lands on Navajo Reservation.
 

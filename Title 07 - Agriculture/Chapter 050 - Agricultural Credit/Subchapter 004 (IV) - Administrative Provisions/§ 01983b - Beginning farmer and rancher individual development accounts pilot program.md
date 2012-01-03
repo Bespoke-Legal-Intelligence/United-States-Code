@@ -164,7 +164,7 @@ In this section:
 
 &emsp;&emsp;(C) the experience and ability of the qualified entity in recruiting, educating, and assisting eligible participants to increase economic independence and pursue or advance farming opportunities;
 
-&emsp;&emsp;(D) the aggregate amount of direct funds from non-Federal public sector and private sources that are formally committed to the demonstration program as matching contributions;
+&emsp;&emsp;(D) the aggregate amount of direct funds from non-Federal public sector and privatesources that are formally committed to the demonstration program as matching contributions;
 
 &emsp;&emsp;(E) the adequacy of the plan of the qualified entity to provide information relevant to an evaluation of the demonstration program; and
 
@@ -180,7 +180,7 @@ In this section:
 
 #### (4) Approval
 
-&emsp;Not later than 1 year after the date of enactment of this section, in accordance with thissection, the Secretary shall, on a competitive basis, approve such applications to conduct demonstration programs as the Secretary considers appropriate.
+&emsp;Not later than 1 year after the date of enactment of this section, in accordance with this section, the Secretary shall, on a competitive basis, approve such applications to conduct demonstration programs as the Secretary considers appropriate.
 
 #### (5) Term of authority
 
@@ -266,5 +266,5 @@ A prior section 1983b, Pub. L. 87–128, title III, §333B, as added Pub. L. 99�
 
 #### Effective Date
 
-Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 

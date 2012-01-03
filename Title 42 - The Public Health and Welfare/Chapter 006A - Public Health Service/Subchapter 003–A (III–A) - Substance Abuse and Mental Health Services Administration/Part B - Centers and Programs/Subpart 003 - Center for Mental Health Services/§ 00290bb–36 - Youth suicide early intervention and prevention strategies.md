@@ -10,7 +10,7 @@ The Secretary, acting through the Administrator of the Substance Abuse and Menta
 
 &emsp;(3) provide grants to institutions of higher education to coordinate the implementation of State-sponsored statewide or tribal youth suicide early intervention and prevention strategies;
 
-&emsp;(4) collect and analyze data on State-sponsored statewide or tribal youth suicide early intervention and prevention services that can be used to monitor the effectiveness of suchservices and for research, technical assistance, and policy development; and
+&emsp;(4) collect and analyze data on State-sponsored statewide or tribal youth suicide early intervention and prevention services that can be used to monitor the effectiveness of such services and for research, technical assistance, and policy development; and
 
 &emsp;(5) assist eligible entities, through State-sponsored statewide or tribal youth suicide early intervention and prevention strategies, in achieving targets for youth suicide reductions under title V of the Social Security Act \[42 U.S.C. 701 et seq.\].
 

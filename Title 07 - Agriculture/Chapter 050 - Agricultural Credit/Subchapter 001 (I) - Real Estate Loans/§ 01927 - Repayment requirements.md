@@ -40,9 +40,9 @@ In general.—Except as provided in clause (ii) and notwithstanding subparagraph
 
 Exception.—Clause (i) does not apply to a loan for a specific project that is the subject of a loan that has been approved, but not closed, as of the date of enactment of this subparagraph.
 
-(4) Except as provided in paragraph (6), the interest rates on loans under sections 1926(a)(1) and 1932 of this title (other than guaranteed loans and loans as described in paragraph (3) of this subsection) shall be as determined by the Secretary, but not less than such rates as determined by the Secretary of the Treasury taking into consideration the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the average maturities of such loans, adjusted in the judgment of the Secretary of the Treasury to provide for rates comparable to the rates prevailing in the private market for similar loans and considering the Secretary's insurance of the loans, plus an additional charge, prescribed by the Secretary, to cover the Secretary's losses and cost of administration, which charge shall be deposited in the Rural Development Insurance Fund, and further adjusted to the nearest one-eighth of 1 per centum.
+(4) Except as provided in paragraph (6), the interest rates on loans under sections 1926(a)(1)and 1932 of this title (other than guaranteed loans and loans as described in paragraph (3) of this subsection) shall be as determined by the Secretary, but not less than such rates as determined by the Secretary of the Treasury taking into consideration the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the average maturities of such loans, adjusted in the judgment of the Secretary of the Treasury to provide for rates comparable to the rates prevailing in the private market for similar loans and considering the Secretary's insurance of the loans, plus an additional charge, prescribed by the Secretary, to cover the Secretary's losses and cost of administration, which charge shall be deposited in the Rural Development Insurance Fund, and further adjusted to the nearest one-eighth of 1 per centum.
 
-(5)(A) Except as provided in subparagraph (B), the interest rate on any loan made under this subchapter as a guaranteed loan shall be such rate as may be agreed upon by the borrower andthe lender, but not in excess of a rate as may be determined by the Secretary.
+(5)(A) Except as provided in subparagraph (B), the interest rate on any loan made under this subchapter as a guaranteed loan shall be such rate as may be agreed upon by the borrower and the lender, but not in excess of a rate as may be determined by the Secretary.
 
 (B) In the case of a loan made under section 1932 of this title as a guaranteed loan, subparagraph (A) shall apply notwithstanding the provisions of the constitution or laws of any State limiting the rate or amount of interest that may be charged, taken, received, or reserved.
 
@@ -78,7 +78,7 @@ The Secretary may not—
 
 &emsp;(2) bring any action to foreclose, or otherwise liquidate, any such loan as a result of the failure of a borrower to provide additional collateral to secure a loan, if the borrower was current in the payment of principal and interest on the loan at the time the additional collateral was requested.
 
-(Pub. L. 87–128, title III, §307, Aug. 8, 1961, 75 Stat. 308; Pub. L. 92–419, title I, §§113, 114, 128(b), Aug. 30, 1972, 86 Stat. 660, 666; Pub. L. 95–334, title I, §108, Aug. 4, 1978, 92 Stat. 422; Pub. L. 97–35, title I, §160(a), Aug. 13, 1981, 95 Stat. 376; Pub. L. 99–198, title XIII, §§1304A, 1305, Dec. 23, 1985, 99 Stat. 1521; Pub. L. 100–233, title VI, §§603, 604, Jan. 6, 1988, 101 Stat. 1665, 1666; Pub. L. 101–624, title XVIII, §1803(a), title XXIII, §2383, Nov. 28, 1990, 104 Stat. 3818, 4050; Pub. L. 102–552, title V, §516(c)(1), Oct. 28, 1992, 106 Stat. 4137; Pub. L. 103–328, title I, §113(a), Sept. 29, 1994, 108 Stat. 2366; Pub. L. 104–127, title VI, §§604, 661(a), title VII, §747(b)(1), Apr. 4, 1996, 110 Stat. 1086, 1106, 1128; Pub. L. 110–234, title VI, §§6011, 6012(b)(1), May 22, 2008, 122 Stat. 1163, 1165; Pub. L. 110–246, §4(a), title VI, §§6011, 6012(b)(1), June 18, 2008, 122 Stat. 1664, 1925, 1927.)
+(Pub. L. 87–128, title III, §307, Aug. 8, 1961, 75 Stat. 308; Pub. L. 92–419, title I, §§113, 114, 128(b), Aug. 30, 1972, 86 Stat. 660, 666; Pub. L. 95–334, title I, §108, Aug. 4, 1978, 92 Stat. 422; Pub. L. 97–35, title I, §160(a), Aug. 13, 1981, 95 Stat. 376; Pub. L. 99–198, title XIII, §§1304A, 1305, Dec. 23, 1985, 99 Stat. 1521; Pub. L. 100–233, title VI, §§603, 604, Jan. 6, 1988, 101 Stat. 1665, 1666; Pub. L. 101–624, title XVIII, §1803(a), title XXIII, §2383, Nov. 28, 1990, 104 Stat. 3818, 4050; Pub. L. 102–552, title V, §516(c)(1), Oct. 28, 1992, 106 Stat. 4137; Pub. L. 103–328, title I, §113(a), Sept. 29, 1994, 108 Stat. 2366; Pub. L. 104–127, title VI, §§604, 661(a),title VII, §747(b)(1), Apr. 4, 1996, 110 Stat. 1086, 1106, 1128; Pub. L. 110–234, title VI, §§6011, 6012(b)(1), May 22, 2008, 122 Stat. 1163, 1165; Pub. L. 110–246, §4(a), title VI, §§6011, 6012(b)(1), June 18, 2008, 122 Stat. 1664, 1925, 1927.)
 
 #### References in Text
 
@@ -92,11 +92,11 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (a)(3)(E). Pub. L. 110–246, §6011, added subpar. (E).
+<b>2008</b>—Subsec. (a)(3)(E). Pub. L. 110–246, §6011, added subpar. (E).
 
 Subsec. (a)(6)(B)(ii). Pub. L. 110–246, §6012(b)(1), added cl. (ii) and struck out former cl. (ii) which read as follows: “clause (1) of section 1932(a) of this title, and”.
 
-1996—Subsec. (a)(3)(B). Pub. L. 104–127, §604(1), inserted “subparagraph (D) and in” after “Except as provided in”.
+<b>1996</b>—Subsec. (a)(3)(B). Pub. L. 104–127, §604(1), inserted “subparagraph (D) and in” after “Except as provided in”.
 
 Subsec. (a)(3)(D). Pub. L. 104–127, §604(2), added subpar. (D).
 
@@ -114,33 +114,33 @@ Subsec. (a)(6)(B). Pub. L. 104–127, §661(a)(2), inserted “and” at end of 
 
 Subsec. (a)(6)(B)(iii). Pub. L. 104–127, §747(b)(1), substituted “section 1932(d) of this title” for “subsections (d) and (e) of section 1932 of this title”.
 
-1994—Subsec. (a)(3)(A). Pub. L. 103–328, §113(a)(1), substituted “Notwithstanding the provisions of the constitution or laws of any State limiting the rate or amount of interest that may be charged, taken, received, or reserved, except” for “Except”.
+<b>1994</b>—Subsec. (a)(3)(A). Pub. L. 103–328, §113(a)(1), substituted “Notwithstanding the provisions of the constitution or laws of any State limiting the rate or amount of interest that may be charged, taken, received, or reserved, except” for “Except”.
 
 Subsec. (a)(5). Pub. L. 103–328, §113(a)(2), substituted “(5)(A) Except as provided in subparagraph (B), the” for “(5) The” and added subpar. (B).
 
-1992—Subsec. (a)(6)(B)(ii) to (viii). Pub. L. 102–552 redesignated cls. (iii) to (viii) as (ii) to (vii) and struck out former cl. (ii) which read as follows: “the provisions of section 1924(a) of this title, relating to the financing of outdoor recreational enterprises or the conversion of farming or ranching operations to recreational uses,”.
+<b>1992</b>—Subsec. (a)(6)(B)(ii) to (viii). Pub. L. 102–552 redesignated cls. (iii) to (viii) as (ii) to (vii) and struck out former cl. (ii) which read as follows: “the provisions of section 1924(a) of this title, relating to the financing of outdoor recreational enterprises or the conversion of farming or ranching operations to recreational uses,”.
 
-1990—Subsec. (a)(3)(A). Pub. L. 101–624, §2383(1), substituted “guaranteed” for “guranteed”.
+<b>1990</b>—Subsec. (a)(3)(A). Pub. L. 101–624, §2383(1), substituted “guaranteed” for “guranteed”.
 
 Subsec. (a)(3)(B). Pub. L. 101–624, §1803(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “Except as provided in paragraph (6), the interest rates on loans (other than guaranteed loans) under section 1934 of this title shall be as determined by the Secretary, but not in excess of one-half of the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the average maturities of such loans, nor less than 5 per centum per annum.”
 
 Subsec. (a)(3)(C). Pub. L. 101–624, §2383(2), added subpar. (C).
 
-1988—Subsec. (c). Pub. L. 100–233, §603, inserted provisions at end relating to use of same collateral to secure two or more loans made, insured, or guaranteed under this subchapter.
+<b>1988</b>—Subsec. (c). Pub. L. 100–233, §603, inserted provisions at end relating to use of same collateral to secure two or more loans made, insured, or guaranteed under this subchapter.
 
 Subsec. (e). Pub. L. 100–233, §604, added subsec. (e).
 
-1985—Subsec. (a)(3)(A). Pub. L. 99–198, §1304A, substituted “where the median household income of the persons to be served by such facility is below the higher of 80 per centum of the statewide nonmetropolitan median household income or the poverty line established by the Office of Management and Budget, as revised under section 9902(2) of title 42” for “where the median family income of the persons to be served by such facility is below the poverty line prescribed by the Office of Management and Budget as adjusted under section 2971d of title 42” and prescribed a 7 per centum per annum ceiling on loans for facilities that do not qualify for the 5 per centum per annum interest rate but are located in areas where the median household income of the persons to be served by the facility does not exceed 100 per centum of the statewide nonmetropolitan median household income.
+<b>1985</b>—Subsec. (a)(3)(A). Pub. L. 99–198, §1304A, substituted “where the median household income of the persons to be served by such facility is below the higher of 80 per centum of the statewide nonmetropolitan median household income or the poverty line established by the Office of Management and Budget, as revised under section 9902(2) of title 42” for “where the median family income of the persons to be served by such facility is below the poverty line prescribed by the Office of Management and Budget as adjusted under section 2971d of title 42” and prescribed a 7 per centum per annum ceiling on loans for facilities that do not qualify for the 5 per centum per annum interest rate but are located in areas where the median household income of the persons to be served by the facility does not exceed 100 per centum of the statewide nonmetropolitan median household income.
 
 Subsec. (d). Pub. L. 99–198, §1305, added subsec. (d).
 
-1981—Subsec. (a). Pub. L. 97–35 in par. (2) inserted reference to par. (6), in par. (3) designated existing provisions as subpar. (A), expanded provisions to take into account provisions of par. (6) and revised criteria for determination of applicable interest rates, and added subpar. (B), in par. (4) inserted exception for par. (6), and added par. (6).
+<b>1981</b>—Subsec. (a). Pub. L. 97–35 in par. (2) inserted reference to par. (6), in par. (3) designated existing provisions as subpar. (A), expanded provisions to take into account provisions of par. (6) and revised criteria for determination of applicable interest rates, and added subpar. (B), in par. (4) inserted exception for par. (6), and added par. (6).
 
-1978—Subsec. (a). Pub. L. 95–334, §108(1), substituted provisions relating to determination of interest rates on loans, except as provided in pars. (3) to (5), as not in excess of the current average market yield on outstanding marketable obligations of the United States, with comparable remaining periods of maturity to the average maturities of such loans plus additional adjusted amounts, for provisions relating to establishment of interest rates on loans, except as specifically provided, but not in excess of 5 per centum per annum.
+<b>1978</b>—Subsec. (a). Pub. L. 95–334, §108(1), substituted provisions relating to determination of interest rates on loans, except as provided in pars. (3) to (5), as not in excess of the current average market yield on outstanding marketable obligations of the United States, with comparable remaining periods of maturity to the average maturities of such loans plus additional adjusted amounts, for provisions relating to establishment of interest rates on loans, except as specifically provided, but not in excess of 5 per centum per annum.
 
 Subsecs. (b), (c). Pub. L. 95–334, §108(2), (3), added subsec. (b) and redesignated former subsec. (b) as (c).
 
-1972—Subsec. (a). Pub. L. 92–419, §§113, 114, prescribed interest rates on rural development other than guaranteed and guaranteed loans and escrow payment of taxes and insurance, respectively.
+<b>1972</b>—Subsec. (a). Pub. L. 92–419, §§113, 114, prescribed interest rates on rural development other than guaranteed and guaranteed loans and escrow payment of taxes and insurance, respectively.
 
 Subsec. (b). Pub. L. 92–419, §128(b), substituted “may” for “shall” in second sentence.
 
@@ -162,7 +162,7 @@ State option.—Except as provided in paragraph (3), the amendments made by subs
 
 “(3)
 
-Transitional period.—In any case in which a State takes an action described in paragraph (2), the amendments made by subsection (a) shall continue to apply to a loan made, insured, or guaranteed under the Consolidated Farm and Rural Development Act in the State after the date the action was taken pursuant to a commitment for the loan that was entered into during the period beginning on the date of enactment of this Act, and ending on the date on which the State takes the action.”
+Transitional period.—In any case in which a State takes an action described in paragraph (2), theamendments made by subsection (a) shall continue to apply to a loan made, insured, or guaranteed under the Consolidated Farm and Rural Development Act in the State after the date the action was taken pursuant to a commitment for the loan that was entered into during the period beginning on the date of enactment of this Act, and ending on the date on which the State takes the action.”
 
 #### Effective Date of 1992 Amendment
 

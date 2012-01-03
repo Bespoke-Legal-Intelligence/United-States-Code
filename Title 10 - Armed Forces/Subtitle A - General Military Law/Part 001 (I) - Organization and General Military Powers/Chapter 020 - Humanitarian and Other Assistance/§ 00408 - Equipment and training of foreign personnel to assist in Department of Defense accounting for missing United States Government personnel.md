@@ -30,13 +30,19 @@ Construction With Other Assistance.—The authority to provide assistance under 
 
 (f)
 
-Annual Reports.—(1) Not later than December 31 each year, the Secretary of Defense shall submit to the congressional defense committees a report on the assistance provided under this section during the fiscal year ending in such year.
+Congressional Oversight.—Whenever the Secretary of Defense provides assistance to a foreign nation under this section, the Secretaryshall submit to the congressional defense committees a report on the assistance provided. Each such report shall identify the nation to which the assistance was provided and include a description of the type and amount of the assistance provided.
 
-(2) Each report under paragraph (1) shall include, for the fiscal year covered by such report, the following:
+(Added Pub. L. 110–181, div. A, title XII, §1207(a), Jan. 28, 2008, 122 Stat. 367; amended Pub. L. 112–81, div. A, title X, §1064(5), Dec. 31, 2011, 125 Stat. 1587.)
 
-&emsp;(A) A listing of each foreign nation provided assistance under this section.
+#### Amendments
 
-&emsp;(B) For each nation so provided assistance, a description of the type and amount of such assistance.
+<b>2011</b>—Subsec. (f). Pub. L. 112–81 amended subsec. (f) generally. Prior to amendment, text read as follows:
 
-(Added Pub. L. 110–181, div. A, title XII, §1207(a), Jan. 28, 2008, 122 Stat. 367.)
+“(1) Not later than December 31 each year, the Secretary of Defense shall submit to the congressional defense committees a report on the assistance provided under this section during the fiscal year ending in such year.
+
+“(2) Each report under paragraph (1) shall include, for the fiscal year covered by such report, the following:
+
+&emsp;“(A) A listing of each foreign nation provided assistance under this section.
+
+&emsp;“(B) For each nation so provided assistance, a description of the type and amount of such assistance.”
 

@@ -24,7 +24,7 @@ Along the seacoast at high-water mark, in a general southwesterly direction for 
 
 9\. One hundred and seventy-eight degrees thirty-eight minutes and twenty-five seconds exactly twelve thousand five hundred feet along portion of the land of Keauhou to a pipe in concrete at top of the Poliokeawe pali;
 
-10\. One hundred and sixty-six degrees twenty-two minutes and twenty-four seconds twelve thousand four hundred and sixty-seven and nine-tenths feet along portion of the land of Keauhou to a pipe in concrete on the south boundary of Hawaii National Park, Kilauea section;
+10\. One hundred and sixty-six degrees twenty-two minutes and twenty-four seconds twelvethousand four hundred and sixty-seven and nine-tenths feet along portion of the land of Keauhou to a pipe in concrete on the south boundary of Hawaii National Park, Kilauea section;
 
 11\. Exactly two hundred and sixty-nine degrees and ten minutes twenty-one thousand one hundred forty-six and five-tenths feet along Hawaii National Park, Kilauea section, to a pipe (note: azimuths of courses 12 and 13 are referred to Puu Huluhulu meridian):
 
@@ -92,7 +92,7 @@ Footprint extension: Beginning at the northeast corner of this tract of land, at
 
 #### Amendments
 
-<b>2000</b>—Pub. L. 106–510 substituted at end “park. Land (including the land depicted on the map entitled ‘NPS–PAC 1997HW’) may be acquired by the Secretary through donation, exchange, or purchase with donated or appropriated funds.” for “park: <i>Provided</i>, That the United States shall not purchase, by appropriation ofpublic moneys, any land within the aforesaid area, but such lands shall be secured by the United States only by public and private donations, except for the land depicted on the map entitled ‘NPS–PAC 1997HW’, which may be purchased with donated or appropriated funds.”
+<b>2000</b>—Pub. L. 106–510 substituted at end “park. Land (including the land depicted on the map entitled ‘NPS–PAC 1997HW’) may be acquired by the Secretary through donation, exchange, or purchase with donated or appropriated funds.” for “park: <i>Provided</i>, That the United States shall not purchase, by appropriation of public moneys, any land within the aforesaid area, but such lands shall be secured by the United States only by public and private donations, except for the land depicted on the map entitled ‘NPS–PAC 1997HW’, which may be purchased with donated or appropriated funds.”
 
 <b>1998</b>—Pub. L. 105–380 inserted before period at end “, except for the land depicted on the map entitled ‘NPS–PAC 1997HW’, which may be purchased with donated or appropriated funds”.
 

@@ -184,23 +184,23 @@ Section 108A of the Mutual Educational and Cultural Exchange Act of 1961, referr
 
 #### Amendments
 
-2011—Subsec. (e)(1). Pub. L. 111–350 substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)”.
+<b>2011</b>—Subsec. (e)(1). Pub. L. 111–350 substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)”.
 
-2010—Subsec. (f)(4). Pub. L. 111–259 amended par. (4) generally. Prior to amendment, par. (4) read as follows:
+<b>2010</b>—Subsec. (f)(4). Pub. L. 111–259 amended par. (4) generally. Prior to amendment, par. (4) read as follows:
 
 “(A) In transmitting such listings for the Central Intelligence Agency, the Director of the Central Intelligence Agency may delete the information described in subparagraphs (A) and (C) of paragraphs (2) and (3) if the Director certifies in writing to the Secretary of State that the publication of such information could adversely affect United States intelligence sources.
 
 “(B) In transmitting such listings for the Office of the Director of National Intelligence, the Director of National Intelligence may delete the information described in subparagraphs (A) and (C) of paragraphs (2) and (3) if the Director certifies in writing to the Secretary of State that the publication of such information could adversely affect United States intelligence sources.”
 
-2006—Subsec. (a)(1)(A). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
+<b>2006</b>—Subsec. (a)(1)(A). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
 
-2004—Subsec. (f)(4). Pub. L. 108–458 designated existing provisions as subpar. (A), substituted “the Director of the Central Intelligence Agency” for “the Director of Central Intelligence”, and added subpar. (B).
+<b>2004</b>—Subsec. (f)(4). Pub. L. 108–458 designated existing provisions as subpar. (A), substituted “the Director of the Central Intelligence Agency” for “the Director of Central Intelligence”, and added subpar. (B).
 
-2002—Subsec. (e)(1). Pub. L. 107–217 substituted “provisions of subtitle I of title 40 and title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)” for “provisions of the Federal Property and Administrative Services Act of 1949”.
+<b>2002</b>—Subsec. (e)(1). Pub. L. 107–217 substituted “provisions of subtitle I of title 40 and title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)” for “provisions of the Federal Property and Administrative Services Act of 1949”.
 
-1986—Subsecs. (a)(1)(G), (e)(2). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Subsecs. (a)(1)(G), (e)(2). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-1978—Subsec. (a)(6)(A). Pub. L. 95–426, §712(a)(1), substituted “(e)(1)” for “(e)”.
+<b>1978</b>—Subsec. (a)(6)(A). Pub. L. 95–426, §712(a)(1), substituted “(e)(1)” for “(e)”.
 
 Subsec. (a)(6)(B). Pub. L. 95–426, §712(a)(2), inserted “, except that those responsibilities (other than responsibilities involving approval of the employing agency) specified in subsection (c)(2), (d), and (g)(2)(B) shall be carried out by the Secretary of the Senate”.
 
@@ -210,7 +210,7 @@ Subsec. (d). Pub. L. 95–426, §712(b)(2), substituted “official use, for for
 
 Subsec. (e). Pub. L. 95–426, §712(c), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), gifts” for “Gifts”, “(A)” and “(B)” for “(1)” and “(2)”, respectively, and added par. (2).
 
-1977—Subsec. (a). Pub. L. 95–105 in par. (1) inserted provisions expanding definition of “employee” to include an officer or employee of the United States Postal Service or Postal Rate Commission, certain experts and consultants, the Vice President, and any Delegate to Congress, in par. (2) incorporated existing provisions into subpars. (A) and (C) and added subpar. (B), in par. (3) substituted reference to tangible or intangible present for reference to present, in par. (4) inserted reference to award, and added pars. (5) and (6).
+<b>1977</b>—Subsec. (a). Pub. L. 95–105 in par. (1) inserted provisions expanding definition of “employee” to include an officer or employee of the United States Postal Service or Postal Rate Commission, certain experts and consultants, the Vice President, and any Delegate to Congress, in par. (2) incorporated existing provisions into subpars. (A) and (C) and added subpar. (B), in par. (3) substituted reference to tangible or intangible present for reference to present, in par. (4) inserted reference to award, and added pars. (5) and (6).
 
 Subsec. (b). Pub. L. 95–105 designated existing provisions as par. (1) and added par. (2).
 
@@ -221,6 +221,10 @@ Subsec. (d). Pub. L. 95–105 struck out provisions requiring the Secretary of S
 Subsec. (e). Pub. L. 95–105 substituted provisions relating to the disposal of decorations for provisions authorizing the President to prescribe regulations to carry out the purposes of this section.
 
 Subsecs. (f) to (k). Pub. L. 95–105 added subsecs. (f) to (k).
+
+#### Change of Name
+
+Committee on Standards of Official Conduct of House of Representatives changed to Committee on Ethics of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Effective Date of 2004 Amendment
 

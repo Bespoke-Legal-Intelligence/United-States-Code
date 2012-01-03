@@ -20,7 +20,7 @@
 
 (4) No spousal agreement or court order under section 4060(b)(1) of this title involving any participant may provide for an annuity or any combination of annuities under this subsection which exceeds the annuity of the participant, nor may any such court order relating to an annuity under this subsection be given effect if it is issued more than 24 months after the date the divorce or annulment involved becomes final.
 
-(5)(A) The annuity payable to any participant shall be reduced by the amount of an annuityunder this subsection paid to any former spouse based upon the service of that participant. Such reduction shall be disregarded in calculating the survivor annuity for any spouse, former spouse, or other survivor under this part, and in calculating any reduction in the annuity of the participant to provide survivor benefits under subsection (b) of this section or section 4046(b)(3) of this title.
+(5)(A) The annuity payable to any participant shall be reduced by the amount of an annuity under this subsection paid to any former spouse based upon the service of that participant. Such reduction shall be disregarded in calculating the survivor annuity for any spouse, former spouse, or other survivor under this part, and in calculating any reduction in the annuity of the participant to provide survivor benefits undersubsection (b) of this section or section 4046(b)(3) of this title.
 
 (B) If any annuitant whose annuity is reduced under subparagraph (A) is recalled to service under section 3948 of this title, or reinstated or reappointed in the Service in the case of a recovered disability annuitant or if any annuitant is reemployed as provided for under section 4064 of this title, the salary of that annuitant shall be reduced by the same amount as the annuity would have been reduced if it had continued. Amounts equal to the reductions under this subparagraph shall be deposited in the Treasury of the United States to the credit of the Fund.
 
@@ -76,7 +76,7 @@
 
 &emsp;(iii) by any combination thereof.
 
-(B) The present value of the total amount to accrue to the Fund under subparagraph (A) to provide any annuity under this subsection shall be actuarially equivalent in value to such annuity, as calculated upon such tables of mortality as may from time to time be prescribed for this purpose by the Secretary of State.
+(B) The present value of the total amount to accrue to the Fund under subparagraph (A) to provide any annuity under this subsection shallbe actuarially equivalent in value to such annuity, as calculated upon such tables of mortality as may from time to time be prescribed for this purpose by the Secretary of State.
 
 (C) If a former spouse predeceases the participant or remarries before attaining age 60 (or, in the case of a spouse, the spouse does not qualify as a former spouse upon dissolution of the marriage)—
 

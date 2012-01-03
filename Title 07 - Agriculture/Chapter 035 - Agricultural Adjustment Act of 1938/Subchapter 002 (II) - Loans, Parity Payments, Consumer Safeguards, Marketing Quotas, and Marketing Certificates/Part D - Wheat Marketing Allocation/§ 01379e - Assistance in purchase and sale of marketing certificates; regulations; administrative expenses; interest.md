@@ -10,15 +10,15 @@ The sentence added by Pub. L. 89–321, as amended by Pub. L. 90–559, which di
 
 #### Amendments
 
-1970—Pub. L. 91–524, temporarily directed the Commodity Credit Corporation to sell marketing certificates for the marketing years for the 1971, 1972, and 1973 crops of wheat to persons engaged in the processing of food products but directed that, in determining the cost to processors of food products, the face value be 75 cents per bushel. See Effective and Termination Dates of 1970 Amendment note below.
+<b>1970</b>—Pub. L. 91–524, temporarily directed the Commodity Credit Corporation to sell marketing certificates for the marketing years for the 1971, 1972, and 1973 crops of wheat to persons engaged in the processing of food products but directed that, in determining the cost to processors of food products, the face value be 75 cents per bushel. See Effective and Termination Dates of 1970 Amendment note below.
 
-1968—Pub. L. 90–559 provided for a one year extension of period for sale of marketing certificates, substituting “1966 through the 1970” for “1966 through the 1969” wheat crops.
+<b>1968</b>—Pub. L. 90–559 provided for a one year extension of period for sale of marketing certificates, substituting “1966 through the 1970” for “1966 through the 1969” wheat crops.
 
-1965—Pub. L. 89–321 required the Commodity Credit Corporation to sell marketing certificates for the marketing years for the 1966 through the 1969 wheat crops to persons engaged in the processing of food products at the face value thereof less any amount by which price support for wheat accompanied by domestic certificates exceeds $2 per bushel.
+<b>1965</b>—Pub. L. 89–321 required the Commodity Credit Corporation to sell marketing certificates for the marketing years for the 1966 through the 1969 wheat crops to persons engaged in the processing of food products at the face value thereof less any amount by which price support for wheat accompanied by domestic certificates exceeds $2 per bushel.
 
 #### Effective and Termination Dates of 1970 Amendment
 
-Section 403(a) of Pub. L. 91–524 provided that the amendment made by that section is effective only with respect to marketing years beginning July 1, 1971, July 1, 1972, and July 1, 1973.
+Section 403(a) of Pub. L. 91–524 provided that the amendment made by that section is effective only withrespect to marketing years beginning July 1, 1971, July 1, 1972, and July 1, 1973.
 
 #### Inapplicability of Section
 
@@ -34,5 +34,5 @@ Section inapplicable to wheat processors or exporters during period June 1, 1982
 
 Section inapplicable to wheat processors or exporters during period July 1, 1973, through May 31, 1982, see section 403 of Pub. L. 95–113, set out as a note under section 1379d of this title.
 
-Section inapplicable to wheat processed or exported during period July 1, 1973, through June 30, 1978, see section 403(b) of Pub. L. 91–524, as added by section 1(10)of Pub. L. 93–86, set out as a note under section 1379d of this title.
+Section inapplicable to wheat processed or exported during period July 1, 1973, through June 30, 1978, see section 403(b) of Pub. L. 91–524, as added by section 1(10) of Pub. L. 93–86, set out as a note under section 1379d of this title.
 

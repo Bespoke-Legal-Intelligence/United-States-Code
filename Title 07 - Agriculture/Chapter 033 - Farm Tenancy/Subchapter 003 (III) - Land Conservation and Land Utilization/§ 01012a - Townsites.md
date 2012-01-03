@@ -10,7 +10,7 @@ Section, which is also set out as section 478a of Title 16, Conservation, was no
 
 #### Amendments
 
-1976—Pub. L. 94–579 substituted provisions setting forth procedures applicable to designation of townsites of tracts of National Forest System lands in Alaska or the eleven contiguous Western States, for provisions setting forth procedures applicable to designation of townsites from any national forest lands or lands administered by Secretary of Agriculture under the Bankhead-Jones Farm Tenant Act.
+<b>1976</b>—Pub. L. 94–579 substituted provisions setting forth procedures applicable to designation of townsites of tracts of National Forest System lands in Alaska or the eleven contiguous Western States, for provisions setting forth procedures applicable to designation of townsites from any national forest lands or lands administered by Secretary of Agriculture under the Bankhead-Jones Farm Tenant Act.
 
 #### Savings Provision
 

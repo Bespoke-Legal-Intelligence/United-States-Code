@@ -72,7 +72,7 @@ The Board may approve the adjustment of any term or condition of a loan guarante
 
 #### (1) Performance schedules
 
-&emsp;An applicant for a loan guarantee under this chapter for a project covered by section1103(e)(1) <sup>1</sup> of this title shall enter into stipulated performance schedules with the Administrator with respect to the signals to be provided through the project.
+&emsp;An applicant for a loan guarantee under this chapter for a project covered by section 1103(e)(1) <sup>1</sup> of this title shall enter into stipulated performance schedules with the Administrator with respect to the signals to be provided through the project.
 
 #### (2) Penalty
 

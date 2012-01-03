@@ -42,7 +42,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1974—Subsec. (a)(3). Pub. L. 93–443 substituted “be a candidate for elective office” for “take an active part in political management or in political campaigns”.
+<b>1974</b>—Subsec. (a)(3). Pub. L. 93–443 substituted “be a candidate for elective office” for “take an active part in political management or in political campaigns”.
 
 #### Effective Date of 1974 Amendment
 

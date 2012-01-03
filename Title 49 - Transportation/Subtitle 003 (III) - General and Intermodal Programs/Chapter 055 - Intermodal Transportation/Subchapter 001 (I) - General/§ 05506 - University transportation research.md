@@ -204,7 +204,7 @@ Amount of grants.—The Secretary shall make a grant of $500,000 for each of fis
 
 (h)
 
-Support of National Strategy for Surface Transportation Research.—In order to be eligible to receive a grant under this section, a nonprofit institution of higher learning shall provide assurances satisfactory to the Secretary that the research and education activities of its university transportation center will supportthe national strategy for surface transportation research, as identified by—
+Support of National Strategy for Surface Transportation Research.—In order to be eligible to receive a grant under this section, a nonprofit institution of higher learning shall provide assurances satisfactory to the Secretary that the research and education activities of its university transportation center will support the national strategy for surface transportation research, as identified by—
 
 &emsp;(1) the report of the National Highway Research and Technology Partnership entitled “Highway Research and Technology: The Need for Greater Investment”, dated April 2002; and
 

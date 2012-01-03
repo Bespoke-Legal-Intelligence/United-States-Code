@@ -22,7 +22,7 @@ I transmit herewith Reorganization Plan No. 4 of 1966, prepared in accordance wi
 
 Today, all responsibilities for the administration of the park are vested in the Smithsonian Institution with one exception—the function of preparing plans and specifications for the construction of buildings and bridges at the zoo. That statutory responsibility is now conducted by the Board of Commissioners of the District of Columbia \[now the Mayor\].
 
-Under the accompanying reorganization plan, the responsibility for the preparation of these plans and specifications would be transferred from the District of Columbia Board of Commissioners to the Smithsonian.The complete administration of the park would then be vested in one agency—the Smithsonian Institution. This will allow the more efficient and effective development and management of the park.
+Under the accompanying reorganization plan, the responsibility for the preparation of these plans and specifications would be transferred from the District of Columbia Board of Commissioners to the Smithsonian. The complete administration of the park would then be vested in one agency—the Smithsonian Institution. This will allow the more efficient and effective development and management of the park.
 
 In 1912, the functions to be transferred were vested in the Municipal Architect of the District of Columbia and in the Engineers of the Bridges of the District of Columbia. In 1952, they were transferred to the Board of Commissioners.
 

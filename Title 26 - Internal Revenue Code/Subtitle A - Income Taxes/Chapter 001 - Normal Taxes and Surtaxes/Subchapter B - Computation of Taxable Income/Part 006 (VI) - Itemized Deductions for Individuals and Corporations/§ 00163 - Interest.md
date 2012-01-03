@@ -80,7 +80,7 @@ For purposes of this subtitle, any annual or periodic rental under a redeemable 
 
 &emsp;&emsp;&emsp;(iii) so much of the net capital gain referred to in clause (ii)(II) (or, if lesser, the net gain referred to in clause (ii)(I)) as the taxpayer elects to take into account under this clause.
 
-> &emsp;&emsp;Such term shall include qualified dividend income (as defined in section 1(h)(11)(B))only to the extent the taxpayer elects to treat such income as investment income for purposes of this subsection.
+> &emsp;&emsp;Such term shall include qualified dividend income (as defined in section 1(h)(11)(B)) only to the extent the taxpayer elects to treat such income as investment income for purposes of this subsection.
 
 #### (C) Investment expenses
 
@@ -189,7 +189,7 @@ For purposes of this subtitle, any annual or periodic rental under a redeemable 
 
 #### (A) In general
 
-&emsp;&emsp;If any debt instrument having original issue discount is held by a related foreignperson, any portion of such original issue discount shall not be allowable as a deduction to the issuer until paid. The preceding sentence shall not apply to the extent that the original issue discount is effectively connected with the conduct by such foreign related person of a trade or business within the United States unless such original issue discount is exempt from taxation (or is subject to a reduced rate of tax) pursuant to a treaty obligation of the United States.
+&emsp;&emsp;If any debt instrument having original issue discount is held by a related foreign person, any portion of such original issue discount shall not be allowable as a deduction to the issuer until paid. The preceding sentence shall not apply to the extent that the original issue discount is effectively connected with the conduct by such foreign related person of a trade or business within the United States unless such original issue discount is exempt from taxation (or is subject to a reduced rate of tax) pursuant to a treaty obligation of the United States.
 
 #### (B) Special rule for certain foreign entities
 
@@ -199,7 +199,7 @@ For purposes of this subtitle, any annual or periodic rental under a redeemable 
 
 #### (ii) Secretarial authority
 
-&emsp;&emsp;&emsp;The Secretary may by regulation exempt transactions from the application of clause (i), including any transaction which is entered into by a payor in the ordinary course of a trade or business in which the payor is predominantly engaged.
+&emsp;&emsp;&emsp;The Secretary may by regulation exempt transactions from the application of clause (i), including any transaction which is entered into by a payor in the ordinarycourse of a trade or business in which the payor is predominantly engaged.
 
 #### (C) Related foreign person
 
@@ -263,7 +263,7 @@ For purposes of this subtitle, any annual or periodic rental under a redeemable 
 
 #### (E) Effect on earnings and profits
 
-&emsp;&emsp;This paragraph shall not apply for purposes of determining earnings and profits; except that, for purposes of determining thedividend equivalent portion of any amount includible in gross income under section 1272(a) in respect of an applicable high yield discount obligation, no reduction shall be made for any amount attributable to the disqualified portion of any original issue discount on such obligation.
+&emsp;&emsp;This paragraph shall not apply for purposes of determining earnings and profits; except that, for purposes of determining the dividend equivalent portion of any amount includible in gross income under section 1272(a) in respect of an applicable high yield discount obligation, no reduction shall be made for any amount attributable to the disqualified portion of any original issue discount on such obligation.
 
 #### (F) Suspension of application of paragraph
 
@@ -277,7 +277,7 @@ For purposes of this subtitle, any annual or periodic rental under a redeemable 
 
 #### (iii) Secretarial authority to suspend application
 
-&emsp;&emsp;&emsp;The Secretary may apply this paragraph with respect to debt instruments issued in periods following the period described in clause (i) if the Secretary determines that such application is appropriate in light of distressed conditions in the debt capital markets.
+&emsp;&emsp;&emsp;The Secretary may apply this paragraph with respect to debt instruments issued inperiods following the period described in clause (i) if the Secretary determines that such application is appropriate in light of distressed conditions in the debt capital markets.
 
 #### (G) Cross reference
 
@@ -305,39 +305,21 @@ For purposes of this subtitle, any annual or periodic rental under a redeemable 
 
 &emsp;&emsp;&emsp;(i) is issued by a natural person,
 
-&emsp;&emsp;&emsp;(ii) is not of a type offered to the public,
+&emsp;&emsp;&emsp;(ii) is not of a type offered to the public, or
 
-&emsp;&emsp;&emsp;(iii) has a maturity (at issue) of not more than 1 year, or
+&emsp;&emsp;&emsp;(iii) has a maturity (at issue) of not more than 1 year.
 
-&emsp;&emsp;&emsp;(iv) is described in subparagraph (B).
+#### (B) Authority to include other obligations
 
-#### (B) Certain obligations not included
+&emsp;&emsp;Clauses (ii) and (iii) of subparagraph (A) shall not apply to any obligation if—
 
-&emsp;&emsp;An obligation is described in this subparagraph if—
-
-&emsp;&emsp;&emsp;(i) there are arrangements reasonably designed to ensure that such obligation will be sold (or resold in connection with the original issue) only to a person who is not a United States person, and
-
-&emsp;&emsp;&emsp;(ii) in the case of an obligation not in registered form—
-
-&emsp;&emsp;&emsp;&emsp;(I) interest on such obligation is payable only outside the United States and its possessions, and
-
-&emsp;&emsp;&emsp;&emsp;(II) on the face of such obligation there is a statement that any United States person who holds such obligation will be subject to limitations under the United States income tax laws.
-
-#### (C) Authority to include other obligations
-
-&emsp;&emsp;Clauses (ii) and (iii) of subparagraph (A), and subparagraph (B), shall not apply to any obligation if—
-
-&emsp;&emsp;&emsp;(i) in the case of—
-
-&emsp;&emsp;&emsp;&emsp;(I) subparagraph (A), such obligation is of a type which the Secretary has determined by regulations to be used frequently in avoiding Federal taxes, or
-
-&emsp;&emsp;&emsp;&emsp;(II) subparagraph (B), such obligation is of a type specified by the Secretary in regulations, and
+&emsp;&emsp;&emsp;(i) such obligation is of a type which the Secretary has determined by regulations to be used frequently in avoiding Federal taxes, and
 
 &emsp;&emsp;&emsp;(ii) such obligation is issued after the date on which the regulations referred to in clause (i) take effect.
 
 #### (3) Book entries permitted, etc.
 
-&emsp;For purposes of this subsection, rules similar to the rules of section 149(a)(3) shall apply.
+&emsp;For purposes of this subsection, rules similar to the rules of section 149(a)(3) shall apply, except that a dematerialized book entry system or other book entry system specified by the Secretary shall be treated as a book entry system described in such section.
 
 #### (g) Reduction of deduction where section 25 credit taken
 
@@ -353,7 +335,7 @@ The amount of the deduction under this section for interest paid or accrued duri
 
 &emsp;For purposes of this subsection, the term “personal interest” means any interest allowable as a deduction under this chapter other than—
 
-&emsp;&emsp;(A) interest paid or accrued on indebtedness properly allocable to a trade or business\(other than the trade or business of performing services as an employee),
+&emsp;&emsp;(A) interest paid or accrued on indebtedness properly allocable to a trade or business (other than the trade or business of performing services as an employee),
 
 &emsp;&emsp;(B) any investment interest (within the meaning of subsection (d)),
 
@@ -447,7 +429,7 @@ The amount of the deduction under this section for interest paid or accrued duri
 
 #### (ii) Phaseout
 
-&emsp;&emsp;&emsp;The amount otherwise treated as interest under clause (i) shall be reduced (butnot below zero) by 10 percent of such amount for each $1,000 ($500 in the case of a married individual filing a separate return) (or fraction thereof) that the taxpayer's adjusted gross income for the taxable year exceeds $100,000 ($50,000 in the case of a married individual filing a separate return).
+&emsp;&emsp;&emsp;The amount otherwise treated as interest under clause (i) shall be reduced (but not below zero) by 10 percent of such amount for each $1,000 ($500 in the case of a married individual filing a separate return) (or fraction thereof) that the taxpayer's adjusted gross income for the taxable year exceeds $100,000 ($50,000 in the case of a married individual filing a separate return).
 
 #### (iii) Limitation
 
@@ -489,7 +471,7 @@ The amount of the deduction under this section for interest paid or accrued duri
 
 #### (B) Special rule for cooperative housing corporations
 
-&emsp;&emsp;Any indebtedness secured by stock held by the taxpayer as a tenant-stockholder (as defined in section 216) in a cooperative housing corporation (as so defined) shall be treated as secured by the house or apartment which the taxpayer is entitled to occupy as such a tenant-stockholder. If stock described in the preceding sentence may not be used to secure indebtedness, indebtedness shall be treated as so secured if the taxpayer establishes to the satisfaction of the Secretary that such indebtedness was incurred to acquire such stock.
+&emsp;&emsp;Any indebtedness secured by stock held by the taxpayer as a tenant-stockholder (as defined in section 216) in a cooperative housing corporation (as so defined) shall be treatedas secured by the house or apartment which the taxpayer is entitled to occupy as such a tenant-stockholder. If stock described in the preceding sentence may not be used to secure indebtedness, indebtedness shall be treated as so secured if the taxpayer establishes to the satisfaction of the Secretary that such indebtedness was incurred to acquire such stock.
 
 #### (C) Unenforceable security interests
 
@@ -557,7 +539,7 @@ The amount of the deduction under this section for interest paid or accrued duri
 
 #### (4) Debt instrument
 
-&emsp;For purposes of this subsection, the term “debt instrument” means any instrument which is a debt instrument as defined in section 1275(a).
+&emsp;For purposes of this subsection, the term “debt instrument” means any instrumentwhich is a debt instrument as defined in section 1275(a).
 
 #### (5) Regulations
 
@@ -601,7 +583,7 @@ The amount of the deduction under this section for interest paid or accrued duri
 
 #### (ii) Excess limitation carryforward
 
-&emsp;&emsp;&emsp;If a corporation has an excess limitation for any taxable year, the amount of such excess limitation shall be an excess limitation carryforward to the 1st succeeding taxable year and to the 2nd and 3rd succeeding taxable years to the extent not previously taken into account under this clause. The amount of such a carryforward taken into account for any such succeeding taxable year shall not exceed the excess interest expense for such succeedingtaxable year (determined without regard to the carryforward from the taxable year of such excess limitation).
+&emsp;&emsp;&emsp;If a corporation has an excess limitation for any taxable year, the amount of such excess limitation shall be an excess limitation carryforward to the 1st succeeding taxable year and to the 2nd and 3rd succeeding taxable years to the extent not previously taken into account under this clause. The amount of such a carryforward taken into account for any such succeeding taxable year shall not exceed the excess interest expense for such succeeding taxable year (determined without regard to the carryforward from the taxable year of such excess limitation).
 
 #### (iii) Excess limitation
 
@@ -641,7 +623,7 @@ The amount of the deduction under this section for interest paid or accrued duri
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the term “related person” means any person who is related (within the meaning of section 267(b) or 707(b)(1)) to the taxpayer.
+&emsp;&emsp;Except as provided in subparagraph (B), the term “related person” means any personwho is related (within the meaning of section 267(b) or 707(b)(1)) to the taxpayer.
 
 #### (B) Special rule for certain partnerships
 
@@ -783,7 +765,7 @@ No deduction shall be allowed under this section for any interest payable under 
 
 &emsp;&emsp;(B) a substantial amount of the principal or interest is required to be determined, or at the option of the issuer or a related party is determined, by reference to the value of such equity, or
 
-&emsp;&emsp;(C) the indebtedness is part of an arrangement which is reasonably expected to resultin a transaction described in subparagraph (A) or (B).
+&emsp;&emsp;(C) the indebtedness is part of an arrangement which is reasonably expected to result in a transaction described in subparagraph (A) or (B).
 
 > &emsp;For purposes of this paragraph, principal or interest shall be treated as required to be so paid, converted, or determined if it may be required at the option of the holder or a related party and there is a substantial certainty the option will be exercised.
 
@@ -823,22 +805,6 @@ No deduction shall be allowed under this chapter for any interest paid or accrue
 
 #### Amendment of Section
 
-<i>Pub. L. 111–147, title V, §502(a)(1), (2)(B), (C), (c), (f), Mar. 18, 2010, 124 Stat. 107, 108, provided that, applicable to obligations issued after the date which is 2 years after Mar. 18, 2010, subsection (f) of this section is amended as follows:</i>
-
-<i>(1) in paragraph (2):</i>
-
-<i>(A) in subparagraph (A), by inserting “or” at the end of clause (ii), by striking “, or” at the end of clause (iii) and inserting a period, and by striking clause (iv);</i>
-
-<i>(B) by striking out subparagraph (B) and redesignating subparagraph (C) as (B);</i>
-
-<i>(C) by striking out “, and subparagraph (B),” in introductory provisions of subparagraph (B), as resdesignated; and</i>
-
-<i>(D) by amending clause (i) of subparagraph (B), as redesignated, to read as follows:</i>
-
-&emsp;&emsp;&emsp;<i>“(i) such obligation is of a type which the Secretary has determined by regulations to be used frequently in avoiding Federal taxes, and”; and</i>
-
-<i>(2) in paragraph (3), by inserting before the period at the end the following: “, except that a dematerialized book entry system or other book entry system specified by the Secretary shall be treated as a book entry system described in such section”.</i>
-
 <i>For termination of amendment by section 303 of Pub. L. 108–27, see Effective and Termination Dates of 2003 Amendment note below.</i>
 
 #### References in Text
@@ -849,7 +815,21 @@ Section 6664(d)(2)(A), referred to in subsec. (m), was redesignated as section 6
 
 #### Amendments
 
-<b>2010</b>—Subsec. (h)(3)(E)(iv)(I). Pub. L. 111–312 substituted “December 31, 2011” for “December 31, 2010”.
+<b>2010</b>—Subsec. (f)(2)(A)(ii) to (iv). Pub. L. 111–147, §502(a)(2)(B), inserted “or” at end of cl. (ii), substituted period for “, or” in cl. (iii), and struck out cl. (iv), which read as follows: “is described in subparagraph (B).”
+
+Subsec. (f)(2)(B). Pub. L. 111–147, §502(a)(1), (2)(C)(i), redesignated subpar. (C) as (B), struck out “, and subparagraph (B),” after “subparagraph (A)” in introductory provisions, and struck out former subpar. (B) which related to certain obligations not included as registration-required obligations..
+
+Subsec. (f)(2)(B)(i). Pub. L. 111–147, §502(a)(2)(C)(ii), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “in the case of—
+
+&emsp;“(I) subparagraph (A), such obligation is of a type which the Secretary has determined by regulations to be used frequently in avoiding Federal taxes, or
+
+&emsp;“(II) subparagraph (B), such obligation is of a type specified by the Secretary in regulations, and”.
+
+Subsec. (f)(2)(C). Pub. L. 111–147, §502(a)(1), redesignated subpar. (C) as (B).
+
+Subsec. (f)(3). Pub. L. 111–147, §502(c), inserted before period at end “, except that a dematerialized book entry system or other book entry system specified by the Secretary shall be treated as a book entry system described in such section”.
+
+Subsec. (h)(3)(E)(iv)(I). Pub. L. 111–312 substituted “December 31, 2011” for “December 31, 2010”.
 
 <b>2009</b>—Subsec. (e)(5)(F), (G). Pub. L. 111–5, §1232(a), added subpar. (F) and redesignated former subpar. (F) as (G).
 
@@ -883,7 +863,7 @@ Subsecs. (m), (n). Pub. L. 108–357, §838(a), added subsec. (m) and redesignat
 
 <b>1998</b>—Subsec. (h)(2)(F). Pub. L. 105–277 added subpar. (F).
 
-<b>1997</b>—Subsec. (h)(2)(E). Pub. L. 105–34, §503(b)(2)(B), struck out “or 6166 or under section 6166A (as in effect before its repeal by the Economic Recovery Tax Act of 1981)” after “section 6163”.
+<b>1997</b>—Subsec. (h)(2)(E). Pub. L. 105–34, §503(b)(2)(B), struck out “or 6166 or under section 6166A (as in effectbefore its repeal by the Economic Recovery Tax Act of 1981)” after “section 6163”.
 
 Subsec. (h)(4)(A)(i)(I). Pub. L. 105–34, §312(d)(1), substituted “section 121” for “section 1034”.
 
@@ -983,7 +963,7 @@ Subsec. (h)(4)(A). Pub. L. 100–647, §1005(c)(6)(B)(i), (7), effective as if e
 
 Subsec. (h)(4)(B). Pub. L. 100–647, §1005(c)(6)(B)(ii), effective as if enacted immediately before enactment of Pub. L. 100–203 (redesignating par. (5) as (4), see 1987 Amendment note below), amended subpar. (B) by substituting “Any” for “For purposes of this paragraph, any”.
 
-Subsec. (h)(4)(C), (D). Pub. L. 100–647, §1005(c)(8), effective as if enacted immediately before enactment of Pub. L. 100–203 (redesignating par. (5) as (4), see 1987 Amendment note below), par. (4) added subpars. (C) and (D).
+Subsec. (h)(4)(C), (D). Pub. L. 100–647, §1005(c)(8), effective as if enacted immediately before enactment ofPub. L. 100–203 (redesignating par. (5) as (4), see 1987 Amendment note below), par. (4) added subpars. (C) and (D).
 
 Subsec. (h)(5). Pub. L. 100–647, §2004(b)(1), redesignated par. (6) as (5).
 
@@ -1135,7 +1115,7 @@ Suspension.—The amendments made by subsection (a) \[amending this section\] sh
 
 “(2)
 
-Interest rate authority.—The amendments made by subsection (b) \[amending this section\] shallapply to obligations issued after December 31, 2009, in taxable years ending after such date.”
+Interest rate authority.—The amendments made by subsection (b) \[amending this section\] shall apply to obligations issued after December 31, 2009, in taxable years ending after such date.”
 
 #### Effective Date of 2007 Amendment
 
@@ -1175,7 +1155,7 @@ Amendment by Pub. L. 105–277 effective as if included in the provision of the 
 
 #### Effective Date of 1997 Amendment
 
-Amendment by section 312(d)(1) of Pub. L. 105–34 applicable to sales and exchanges after May 6, 1997, with certain exceptions, see section 312(d) of Pub. L. 105–34, set out as a note under section 121 of this title.
+Amendment by section 312(d)(1) of Pub. L. 105–34 applicable to sales and exchanges after May 6, 1997, withcertain exceptions, see section 312(d) of Pub. L. 105–34, set out as a note under section 121 of this title.
 
 Section 503(d) of Pub. L. 105–34 provided that:
 
@@ -1281,7 +1261,7 @@ Special rule for demand loans, etc.—In the case of any demand loan (or other l
 
 Section 1005(c)(13) of Pub. L. 100–647 provided that: “For purposes of applying the amendments made by this subsection \[amending this section and sections 467, 1255, and 7872 of this title\] and the amendments made by section 10102 of the Revenue Act of 1987 \[section 10102 of Pub. L. 100–203, amending this section\], the provisions of this subsection shall be treated as having been enacted immediately before the enactment of the Revenue Act of 1987.”
 
-Amendment by sections 1006(u)(1) and 1009(b)(6) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by sections 1006(u)(1) and 1009(b)(6) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Actof 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 Amendment by section 2004(b)(1) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provisions of the Revenue Act of 1987, Pub. L. 100–203, title X, to which such amendment relates, see section 2004(u) of Pub. L. 100–647, set out as a note under section 56 of this title.
 

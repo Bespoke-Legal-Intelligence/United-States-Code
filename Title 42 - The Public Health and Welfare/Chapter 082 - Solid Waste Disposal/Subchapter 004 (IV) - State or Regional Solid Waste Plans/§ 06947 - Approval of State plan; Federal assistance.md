@@ -28,7 +28,7 @@ The Administrator shall, within six months after a State plan has been submitted
 
 Nothing in this subchapter shall be construed to prevent or affect any activities respecting solid waste planning or management which are carried out by State, regional, or local authorities unless such activities are inconsistent with a State plan approved by the Administrator under this subchapter.
 
-(Pub. L. 89–272, title II, §4007, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2817; amended Pub. L. 95–609, §7(<i>l</i>), Nov. 8, 1978, 92 Stat. 3082; Pub. L. 104–119, §4(8), Mar. 26, 1996, 110 Stat. 833.)
+(Pub. L. 89–272, title II, §4007, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2817; amendedPub. L. 95–609, §7(<i>l</i>), Nov. 8, 1978, 92 Stat. 3082; Pub. L. 104–119, §4(8), Mar. 26, 1996, 110 Stat. 833.)
 
 #### Amendments
 
@@ -38,5 +38,5 @@ Nothing in this subchapter shall be construed to prevent or affect any activitie
 
 #### Transfer of Functions
 
-For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator forAlaska Natural Gas Transportation Projects, see note set out under section 6903 of this title.
+For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 6903 of this title.
 

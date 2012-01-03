@@ -46,7 +46,7 @@
 
 #### (C) Distribution borrowers
 
-&emsp;&emsp;A distribution borrower not in default on the repayment of loans made or insured under this chapter shall be eligible for discounted prepayment as provided in this subsection. For the purpose of determining eligibility for discounted prepayment under this subsection or eligibility for assistance under this chapter, a default by a borrower from which a distribution borrower purchases wholesale power shall not be considered a default by the distribution borrower.
+&emsp;&emsp;A distribution borrower not in default on the repayment of loans made or insuredunder this chapter shall be eligible for discounted prepayment as provided in this subsection. For the purpose of determining eligibility for discounted prepayment under this subsection or eligibility for assistance under this chapter, a default by a borrower from which a distribution borrower purchases wholesale power shall not be considered a default by the distribution borrower.
 
 #### (6) Definitions
 
@@ -72,11 +72,11 @@ October 21, 1992, referred to in subsec. (a)(5)(A), (B), was in the original “
 
 #### Amendments
 
-1994—Pub. L. 103–354 substituted “Secretary” for “Administrator” wherever appearing.
+<b>1994</b>—Pub. L. 103–354 substituted “Secretary” for “Administrator” wherever appearing.
 
-1992—Subsec. (a). Pub. L. 102–428, §2(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “A direct or insured loan made under this chapter shall not be sold or prepaid at a value less than the face value of any outstanding principal balance on such loan, except when sold to or prepaid by the borrower at the lesser of the outstanding principal balance due on the loan or the loan's present value discounted from the face value at maturity at the rate set by the Administrator. The exception contained in the preceding sentence shall be effective for the period ending September 30, 1987.”
+<b>1992</b>—Subsec. (a). Pub. L. 102–428, §2(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “A direct or insured loan made under this chapter shall not be sold or prepaid at a value less than the face value of any outstanding principal balance on such loan, except when sold to or prepaid by the borrower at the lesser of the outstanding principal balance due on the loan or the loan's present value discounted from the face value at maturity at the rate set by the Administrator. The exception contained in the preceding sentence shall be effective for the period ending September 30, 1987.”
 
 Subsec. (b). Pub. L. 102–428, §2(b), inserted heading.
 
-1990—Pub. L. 101–624 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1990</b>—Pub. L. 101–624 designated existing provisions as subsec. (a) and added subsec. (b).
 

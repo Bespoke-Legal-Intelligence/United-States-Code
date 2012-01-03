@@ -18,7 +18,7 @@
 
 (3) Notwithstanding any other provision of this subsection, any service performed by an individual described under paragraph (1) as an employee of the Center is deemed to be civilian service creditable under section 8411 of title 5 for purposes of qualifying for survivor annuities and disability benefits under subchapters IV and V of chapter 84 of such title, if such individual makes payment of an amount, determined by the Office of Personnel Management, which would have been deducted and withheld from the basic pay of such individual if such individual had been an employee subject to section 8422 of title 5 for such period so credited, together with interest thereon.
 
-(4) An individual described under paragraph (1) shall be deemed an employee for purposes of chapter 84 of title 5, including subchapter III of such title,<sup>1</sup> and may make contributions under section 8432 of such title effective for the first applicable pay period beginning on or after the date such individual elects coverage under this section.
+(4) An individual described under paragraph (1) shall be deemed an employee for purposes of chapter 84 of title 5, including subchapter III of such title,<sup>1</sup> and may make contributions undersection 8432 of such title effective for the first applicable pay period beginning on or after the date such individual elects coverage under this section.
 
 (5) The Office of Personnel Management shall accept the certification of the Librarian of Congress concerning creditable service for purposes of this subsection.
 
@@ -32,7 +32,7 @@ An individual who is employed by the Center shall be deemed an employee under se
 
 #### (d) Government contributions by Librarian from available appropriations
 
-Government contributions for individuals receiving benefits under this section, as computed under sections 8423, 8432, 8708, and 8906 <sup>2</sup> shall bemade by the Librarian of Congress from any appropriations available to the Library of Congress.
+Government contributions for individuals receiving benefits under this section, as computed under sections 8423, 8432, 8708, and 8906 <sup>2</sup> shall be made by the Librarian of Congress from any appropriations available to the Library of Congress.
 
 #### (e) Payroll and personnel functions of Library of Congress
 

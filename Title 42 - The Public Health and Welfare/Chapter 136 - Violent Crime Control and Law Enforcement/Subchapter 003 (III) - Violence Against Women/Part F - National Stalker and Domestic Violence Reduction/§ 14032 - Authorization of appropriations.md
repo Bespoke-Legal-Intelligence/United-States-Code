@@ -2,7 +2,7 @@
 
 There is authorized to be appropriated to carry out this part $3,000,000 for each of fiscal years 2007 through 2011.
 
-(Pub. L. 103–322, title IV, §40603, Sept. 13, 1994, 108 Stat. 1951; Pub. L. 106–386, div. B, title I, §1106(a), Oct. 28, 2000, 114 Stat. 1497; Pub. L. 109–162, title I, §109, Jan. 5, 2006, 119 Stat. 2984.)
+(Pub. L. 103–322, title IV, §40603, Sept. 13, 1994, 108 Stat. 1951; Pub. L. 106–386, div. B, title I,§1106(a), Oct. 28, 2000, 114 Stat. 1497; Pub. L. 109–162, title I, §109, Jan. 5, 2006, 119 Stat. 2984.)
 
 #### References in Text
 

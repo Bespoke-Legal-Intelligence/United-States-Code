@@ -6,7 +6,7 @@ If a creditor of a partnership debtor receives, from a general partner that is n
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 508(b) of the House amendment is new and provides an identical rule with respect to a creditor of a partnership who receives payment from a partner, to that of a creditor of a debtor who receives a payment in a foreign proceeding involving the debtor.
 
@@ -16,7 +16,7 @@ This section prohibits a creditor from receiving any distribution in the bankrup
 
 #### Amendments
 
-2005—Pub. L. 109–8 designated subsec. (b) as entire section and struck out subsec. (a) which read as follows: “If a creditor receives, in a foreign proceeding, payment of, or a transfer of property on account of, a claim that is allowed under this title, such creditor may not receive any payment under this title on account of such claim until each of the other holders of claims on account of which such holders are entitled to share equally with such creditor under this title has received payment under this title equal in value to the consideration received by such creditor in such foreign proceeding.”
+<b>2005</b>—Pub. L. 109–8 designated subsec. (b) as entire section and struck out subsec. (a) which read as follows: “If a creditor receives, in a foreign proceeding, payment of, or a transfer of property on account of, a claim that is allowed under this title, such creditor may not receive any payment under this title on account of such claim until each of the other holders of claims on account of which such holders are entitled to share equally with such creditor under this title has received payment under this title equal in value to the consideration received by such creditor in such foreign proceeding.”
 
 #### Effective Date of 2005 Amendment
 

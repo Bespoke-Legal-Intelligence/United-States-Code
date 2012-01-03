@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment and Designation.—The building constructed on the Federal Triangleproperty shall be known and designated as the Ronald Reagan Building and International Trade Center.
+Establishment and Designation.—The building constructed on the Federal Triangle property shall be known and designated as the Ronald Reagan Building and International Trade Center.
 
 (b)
 

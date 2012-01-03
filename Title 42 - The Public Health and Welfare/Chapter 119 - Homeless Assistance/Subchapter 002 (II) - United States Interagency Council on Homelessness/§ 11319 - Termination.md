@@ -1,10 +1,14 @@
 ### §11319. Termination
 
-The Council shall cease to exist, and the requirements of this subchapter shall terminate, on October 1, 2010.
+The Council shall cease to exist, and the requirements of this subchapter shall terminate, on October 1, 2015 <sup>1</sup>
 
-(Pub. L. 100–77, title II, §209, July 22, 1987, 101 Stat. 489; Pub. L. 100–628, title II, §205, Nov. 7, 1988, 102 Stat. 3228; Pub. L. 101–402, §2, Oct. 1, 1990, 104 Stat. 866; Pub. L. 101–645, title I, §103, Nov. 29, 1990, 104 Stat. 4675; Pub. L. 102–550, title XIV, §1422, Oct. 28, 1992, 106 Stat. 4043; Pub. L. 106–377, §1(a)(1) \[title II, §231(2)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–31; Pub. L. 109–115, div. A, title VI, Nov. 30, 2005, 119 Stat. 2490; Pub. L. 110–161, div. K, title III, Dec. 26, 2007, 121 Stat. 2443; Pub. L. 111–8, div. I, title III, Mar. 11, 2009, 123 Stat. 985.)
+(Pub. L. 100–77, title II, §209, July 22, 1987, 101 Stat. 489; Pub. L. 100–628, title II, §205, Nov. 7, 1988, 102 Stat. 3228; Pub. L. 101–402, §2, Oct. 1, 1990, 104 Stat. 866; Pub. L. 101–645, title I, §103, Nov. 29, 1990, 104 Stat. 4675; Pub. L. 102–550, title XIV, §1422, Oct. 28, 1992, 106 Stat. 4043; Pub. L. 106–377, §1(a)(1) \[title II, §231(2)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–31; Pub. L. 109–115, div. A, title VI, Nov. 30, 2005, 119 Stat. 2490; Pub. L. 110–161, div. K, title III, Dec. 26, 2007, 121 Stat. 2443; Pub. L. 111–8, div. I, title III, Mar. 11, 2009, 123 Stat. 985; Pub. L. 112–10, div. B, title XII, §2255, Apr. 15, 2011, 125 Stat. 197; Pub. L. 112–55, div. C, title III, Nov. 18, 2011, 125 Stat. 707.)
 
 #### Amendments
+
+<b>2011</b>—Pub. L. 112–55 substituted “October 1, 2015” for “October 1, 2013.”
+
+Pub. L. 112–10 substituted “October 1, 2013.” for “October 1, 2010.”
 
 <b>2009</b>—Pub. L. 111–8 substituted “2010” for “2008”.
 
@@ -36,9 +40,11 @@ Pub. L. 101–494, §3, Oct. 31, 1990, 104 Stat. 1185, as amended by Pub. L. 106
 
 “(a)
 
-Extension.—If upon enactment of this Act \[Oct. 31, 1990\], section 209 of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11319) provides for the termination of the Interagency Council on the Homeless on October 31, 1990, then notwithstanding such section, the Interagency Council on the Homeless shall cease to exist, and the requirements of title II of the McKinney-Vento Homeless Assistance Act \[42 U.S.C. 11311 et seq.\] shall terminate, on November 30, 1990.
+Extension.—If upon enactment of this Act \[Oct. 31, 1990\], section 209 of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11319) provides for the termination of the Interagency Council on the Homeless on October 31, 1990, then notwithstanding such section, theInteragency Council on the Homeless shall cease to exist, and the requirements of title II of the McKinney-Vento Homeless Assistance Act \[42 U.S.C. 11311 et seq.\] shall terminate, on November 30, 1990.
 
 “(b)
 
 Limitations.—If upon enactment of this Act \[Oct. 31, 1990\] such section 209 provides for termination of the Council (referred to in subsection (a)) on a date other than October 31, 1990, this section shall not apply. This section shall not apply with respect to any amendment to section 209 of the McKinney-Vento Homeless Assistance Act made after the date of the enactment of this Act.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

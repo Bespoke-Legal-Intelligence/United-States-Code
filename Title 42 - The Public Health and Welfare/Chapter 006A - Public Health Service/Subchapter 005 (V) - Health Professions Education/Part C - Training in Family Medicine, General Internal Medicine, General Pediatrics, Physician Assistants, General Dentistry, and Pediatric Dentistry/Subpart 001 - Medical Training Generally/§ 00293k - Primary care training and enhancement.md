@@ -26,7 +26,7 @@
 
 &emsp;&emsp;&emsp;(iii) providing continuing education to primary care physicians relevant to patient-centered medical homes; and
 
-&emsp;&emsp;(H) to plan, develop, and operate joint degree programs to provide interdisciplinary and interprofessional graduate training in public health and other health professions to provide training in environmental health, infectious disease control, disease prevention and health promotion, epidemiological studies and injury control.
+&emsp;&emsp;(H) to plan, develop, and operate joint degree programs to provide interdisciplinary and interprofessional graduate training inpublic health and other health professions to provide training in environmental health, infectious disease control, disease prevention and health promotion, epidemiological studies and injury control.
 
 #### (2) Duration of awards
 

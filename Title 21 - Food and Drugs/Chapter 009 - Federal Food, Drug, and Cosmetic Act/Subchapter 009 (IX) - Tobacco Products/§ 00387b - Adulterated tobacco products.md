@@ -2,7 +2,7 @@
 
 A tobacco product shall be deemed to be adulterated if—
 
-&emsp;(1) it consists in whole or in part of any filthy, putrid, or decomposed substance, or is otherwise contaminated by any added poisonous or added deleterious substance that may render the product injurious to health;
+&emsp;(1) it consists in whole or in part of any filthy, putrid, or decomposed substance, or isotherwise contaminated by any added poisonous or added deleterious substance that may render the product injurious to health;
 
 &emsp;(2) it has been prepared, packed, or held under insanitary conditions whereby it may have been contaminated with filth, or whereby it may have been rendered injurious to health;
 

@@ -4,7 +4,7 @@
 
 The Secretary of Commerce, in cooperation with the Secretary of Education, shall request the National Academy of Sciences to conduct a study on the scientific workforce in the areas of oceanic and atmospheric research and development. The study shall investigate—
 
-&emsp;(1) whether there is a shortage in the number of individuals with advanced degrees in oceanic and atmospheric sciences who havethe ability to conduct high quality scientific research in physical and chemical oceanography, meteorology, and atmospheric modeling, and related fields, for government, nonprofit, and private sector entities;
+&emsp;(1) whether there is a shortage in the number of individuals with advanced degrees in oceanic and atmospheric sciences who have the ability to conduct high quality scientific research in physical and chemical oceanography, meteorology, and atmospheric modeling, and related fields, for government, nonprofit, and private sector entities;
 
 &emsp;(2) what Federal programs are available to help facilitate the education of students hoping to pursue these degrees;
 

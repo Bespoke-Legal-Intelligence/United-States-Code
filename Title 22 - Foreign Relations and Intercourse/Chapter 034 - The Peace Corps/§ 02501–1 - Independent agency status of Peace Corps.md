@@ -2,7 +2,7 @@
 
 Effective on December 29, 1981, the Peace Corps shall be an independent agency within the executive branch and shall not be an agency within the ACTION Agency, the successor to the ACTION Agency, or any other department or agency of the United States.
 
-(Pub. L. 87–293, title I, §2A as added Pub. L. 97–113, title VI, §601(a), Dec. 29, 1981, 95 Stat. 1540; amended Pub. L. 103–82, title IV, §405(e), Sept. 21, 1993, 107 Stat. 921.)
+(Pub. L. 87–293, title I, §2A, as added Pub. L. 97–113, title VI, §601(a), Dec. 29, 1981, 95 Stat. 1540; amended Pub. L. 103–82, title IV, §405(e), Sept. 21, 1993, 107 Stat. 921.)
 
 #### Amendments
 
@@ -18,7 +18,7 @@ Section 601(b), (c) of Pub. L. 97–113 provided that:
 
 “(b) There are transferred to the Director of the Peace Corps all functions relating to the Peace Corps which were vested in the Director of the ACTION Agency \[now Corporation for National and Community Service\] on the day before the date of the enactment of this Act \[Dec. 29, 1981\].
 
-“(c)(1) All personnel, assets liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds are are determined by the Director of the Office of Management and Budget, after consultation with the Comptroller General of the United States, the Director of the Peace Corps, and the Director of the ACTION Agency, to be employed, held, used, or assumed primarily in connection with any function relating to the Peace Corps before the date of the enactment of this Act \[Dec. 29, 1981\] are transferred to the Peace Corps. The transfer of unexpended balances pursuant to the preceding sentence shall be subject to section 202 of the Budget and Accounting Procedures Act of 1950 (31 U.S.C. 581c) \[31 U.S.C. 1531\].
+“(c)(1) All personnel, assets liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds are are determined by the Director of the Office ofManagement and Budget, after consultation with the Comptroller General of the United States, the Director of the Peace Corps, and the Director of the ACTION Agency, to be employed, held, used, or assumed primarily in connection with any function relating to the Peace Corps before the date of the enactment of this Act \[Dec. 29, 1981\] are transferred to the Peace Corps. The transfer of unexpended balances pursuant to the preceding sentence shall be subject to section 202 of the Budget and Accounting Procedures Act of 1950 (31 U.S.C. 581c) \[31 U.S.C. 1531\].
 
 “(2)(A) The transfer pursuant to this subsection of full-time personnel (except special Government employees) and part-time personnel holding permanent positions shall not cause any employee to be separated or reduced in rank, class, grade, or compensation, or otherwise suffer a loss of employment benefits for one year after—
 
@@ -42,5 +42,5 @@ Section 601(b), (c) of Pub. L. 97–113 provided that:
 
 #### References to ACTION Agency or Director of ACTION Agency With Respect to Peace Corps or Director Functions or Activities
 
-Section 601(g) of Pub. L. 97–113 provided that: “References in any statute, reorganization plan, Executiveorder, regulation, or other official document or proceeding to the ACTION Agency \[now Corporation for National and Community Service\] or the Director of the ACTION Agency with respect to functions or activities relating to the Peace Corps shall be deemed to refer to the Peace Corps or the Director of the Peace Corps, respectively.”
+Section 601(g) of Pub. L. 97–113 provided that: “References in any statute, reorganization plan, Executive order, regulation, or other official document or proceeding to the ACTION Agency \[now Corporation for National and Community Service\] or the Director of the ACTION Agency with respect to functions or activities relating to the Peace Corps shall be deemed to refer to the Peace Corps or the Director of the Peace Corps, respectively.”
 

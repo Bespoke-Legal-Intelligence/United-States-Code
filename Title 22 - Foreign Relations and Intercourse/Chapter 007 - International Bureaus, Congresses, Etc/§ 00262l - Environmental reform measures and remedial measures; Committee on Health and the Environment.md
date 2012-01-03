@@ -28,7 +28,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 &emsp;(3) establish a regular integrated multidisciplinary planning process to conduct land use capability analyses in reviewing potential loans. Such plans shall include, but not be limited to, a review of ongoing or other potential resource utilization efforts in and adjacent to the project area;
 
-&emsp;(4) vigorously promote a commitment of these institutions to develop and implement plans for the rehabilitation and management of the ecological resources of borrower nations on a sustained basis. Special attention shall be paid to soil conservation, wildlife, wetlands, estuaries, croplands, grasslands, forests, and fisheries, including—
+&emsp;(4) vigorously promote a commitment of these institutions to develop and implementplans for the rehabilitation and management of the ecological resources of borrower nations on a sustained basis. Special attention shall be paid to soil conservation, wildlife, wetlands, estuaries, croplands, grasslands, forests, and fisheries, including—
 
 &emsp;&emsp;(A) long-term programs of research designed to manage ecosystems properly;
 
@@ -36,7 +36,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 &emsp;&emsp;(C) improved programs of training in environmental science and land-use planning;
 
-&emsp;(5) vigorously promote a commitment of these institutions to increase the proportion of their programs supporting environmentally beneficial projects and project components, such as technical assistance for environmental ministries and institutions, resource rehabilitation projects and project components, protection of indigenous peoples, and appropriate light capital technology projects. Other examples of such projects include small scale mixedfarming and multiple cropping, agroforestry, programs to promote kitchen gardens, watershed management and rehabilitation, high yield wood lots, integrated pest management systems, dune stabilization programs, programs to improve energy efficiency, energy efficient technologies such as small scale hydro projects, rural solar energy systems, and rural and mobile telecommunications systems, and improved efficiency and management of irrigation systems.<sup>1</sup>
+&emsp;(5) vigorously promote a commitment of these institutions to increase the proportion of their programs supporting environmentally beneficial projects and project components, such as technical assistance for environmental ministries and institutions, resource rehabilitation projects and project components, protection of indigenous peoples, and appropriate light capital technology projects. Other examples of such projects include small scale mixed farming and multiple cropping, agroforestry, programs to promote kitchen gardens, watershed management and rehabilitation, high yield wood lots, integrated pest management systems, dune stabilization programs, programs to improve energy efficiency, energy efficient technologies such as small scale hydro projects, rural solar energy systems, and rural and mobile telecommunications systems, and improved efficiency and management of irrigation systems.<sup>1</sup>
 
 &emsp;(6) place an increased emphasis on upgrading the efficient use of energy and other resources by borrower nations. Such efforts shall include, but not be limited to—
 
@@ -78,7 +78,7 @@ The Administrator of the Agency for International Development in conjunction wit
 
 &emsp;(1) instruct overseas missions of the Agency for International Development and embassies of the United States to analyze the impacts of Multilateral Development Bank projects proposed to be undertaken in the host country well in advance of a project's approval by the relevant institution. Such reviews shall address the economic viability of the project; adverse impacts on the environment, natural resources, and indigenous peoples; and recommendations as to measures, including alternatives, that could eliminate or mitigate adverse impacts. If not classified under the national security system of classification, such information shall be made available to the public;
 
-&emsp;(2) in preparation of reviews required by subsection (g)(1), compile a list of categories ofprojects likely to have adverse impacts on the environment, natural resources, or indigenous peoples. The list shall be developed in consultation with interested members of the public and made available to the Committee on Appropriations by December 31, 1986 and semiannually thereafter; and
+&emsp;(2) in preparation of reviews required by subsection (g)(1), compile a list of categories of projects likely to have adverse impacts on the environment, natural resources, or indigenous peoples. The list shall be developed in consultation with interested members of the public and made available to the Committee on Appropriations by December 31, 1986 and semiannually thereafter; and
 
 &emsp;(3) study the feasibility of creating a cooperative “early warning system” for projects of concern with other interested donors.
 
@@ -134,7 +134,7 @@ Pub. L. 101–167, title V, §533, Nov. 21, 1989, 103 Stat. 1225, provided that:
 
 &emsp;&emsp;“(B) encouragement and adoption of policies which allow for public participation in the EIA process;
 
-&emsp;“(5) include environmental costs in the economic assessment of the proposed projects with significant potential environmental impacts, or power projects, and if possible for all projects which involve expansion of generating capacity of more than 10 MW, develop a standard increase in project cost as a surrogate for the environmental costs;
+&emsp;“(5) include environmental costs in the economic assessment of the proposed projects with significantpotential environmental impacts, or power projects, and if possible for all projects which involve expansion of generating capacity of more than 10 MW, develop a standard increase in project cost as a surrogate for the environmental costs;
 
 &emsp;“(6) encourage and promote end-use energy efficiency and renewable energy in negotiations of policy-based energy sector lending, and MDBs should consider not proceeding with policy-based sector loans which do not contain commitments from the borrowing country to devote a significant portion of its sector investments toward energy efficiency and renewable energy;
 

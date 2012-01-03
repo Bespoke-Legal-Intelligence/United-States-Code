@@ -64,7 +64,7 @@ Major Weapon System Defined.—In this section, the term “major weapon system�
 
 #### References in Text
 
-Section 4(12) of the Office of Federal Procurement Policy Act, referred to in subsecs. (a)(1)(A), (b)(2)(A), and (c)(1)(B)(i), means section 4(12) of Pub. L. 93–400, which was classified to section 403(12) of former Title 41, Public Contracts, and was repealed and restated in section 103 of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
+Section 4(12) of the Office of Federal Procurement Policy Act, referred to in subsecs. (a)(1)(A), (b)(2)(A),and (c)(1)(B)(i), means section 4(12) of Pub. L. 93–400, which was classified to section 403(12) of former Title 41, Public Contracts, and was repealed and restated in section 103 of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
 
 Section 35(c) of the Office of Federal Procurement Policy Act, referred to in subsecs. (b) and (c)(1), means section 35(c) of Pub. L. 93–400, which was classified to section 431(c) of former Title 41, Public Contracts, and was repealed and restated as section 104 of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
 

@@ -108,7 +108,7 @@ Not later than 3 years after October 10, 2000, each Federal agency that has juri
 
 &emsp;(2) is consistent with the performance criteria published under subsection (a) of this section;
 
-&emsp;(3) includes a completed report on the information specified in subsection (b)(3)(A) of thissection, to be submitted to the Administrator; and
+&emsp;(3) includes a completed report on the information specified in subsection (b)(3)(A) of this section, to be submitted to the Administrator; and
 
 &emsp;(4) addresses the matters specified in subsection (c) of this section.
 
@@ -152,7 +152,7 @@ The Administrator shall provide technical assistance to States and local governm
 
 #### (h) EPA implementation
 
-In the case of a State that has no program for monitoring and notification that is consistent with the performance criteria published under subsection (a) of this section after the last day of the 3-year period beginning on the date on which the Administrator lists waters in the State under subsection (g)(1)(B) of this section, the Administrator shall conduct a monitoring and notification program for the listed waters based on a priority ranking established by the Administrator using funds appropriated for grants under subsection (i) of this section—
+In the case of a State that has no program for monitoring and notification that is consistent with the performance criteria published undersubsection (a) of this section after the last day of the 3-year period beginning on the date on which the Administrator lists waters in the State under subsection (g)(1)(B) of this section, the Administrator shall conduct a monitoring and notification program for the listed waters based on a priority ranking established by the Administrator using funds appropriated for grants under subsection (i) of this section—
 
 &emsp;(1) to conduct monitoring and notification; and
 

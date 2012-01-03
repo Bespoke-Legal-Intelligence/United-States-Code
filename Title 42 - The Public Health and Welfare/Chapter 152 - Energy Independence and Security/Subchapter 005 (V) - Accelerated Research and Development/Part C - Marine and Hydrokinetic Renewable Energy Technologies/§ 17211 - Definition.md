@@ -10,7 +10,7 @@ For purposes of this part, the term “marine and hydrokinetic renewable energy�
 
 &emsp;(4) differentials in ocean temperature (ocean thermal energy conversion).
 
-> The term “marine and hydrokinetic renewable energy” does not include energy from anysource that uses a dam, diversionary structure, or impoundment for electric power purposes.
+> The term “marine and hydrokinetic renewable energy” does not include energy from any source that uses a dam, diversionary structure, or impoundment for electric power purposes.
 
 (Pub. L. 110–140, title VI, §632, Dec. 19, 2007, 121 Stat. 1686.)
 

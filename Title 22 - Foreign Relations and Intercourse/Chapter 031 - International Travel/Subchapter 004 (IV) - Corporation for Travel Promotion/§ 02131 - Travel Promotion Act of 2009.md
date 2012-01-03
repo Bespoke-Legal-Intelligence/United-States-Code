@@ -14,7 +14,7 @@ This section may be cited as the “Travel Promotion Act of 2009”.
 
 #### (A) In general
 
-&emsp;&emsp;The Corporation shall have a board of directors of 11 members with knowledge ofinternational travel promotion and marketing, broadly representing various regions of the United States, who are United States citizens. Members of the board shall be appointed by the Secretary of Commerce (after consultation with the Secretary of Homeland Security and the Secretary of State), as follows:
+&emsp;&emsp;The Corporation shall have a board of directors of 11 members with knowledge of international travel promotion and marketing, broadly representing various regions of the United States, who are United States citizens. Members of the board shall be appointed by the Secretary of Commerce (after consultation with the Secretary of Homeland Security and the Secretary of State), as follows:
 
 &emsp;&emsp;&emsp;(i) 1 shall have appropriate expertise and experience in the hotel accommodations sector;
 
@@ -164,7 +164,7 @@ This section may be cited as the “Travel Promotion Act of 2009”.
 
 #### (1) Objectives
 
-&emsp;The Board shall establish annual objectives for the Corporation for each fiscal year subjectto approval by the Secretary of Commerce (after consultation with the Secretary of Homeland Security and the Secretary of State). The Corporation shall establish a marketing plan for each fiscal year not less than 60 days before the beginning of that year and provide a copy of the plan, and any revisions thereof, to the Secretary.
+&emsp;The Board shall establish annual objectives for the Corporation for each fiscal year subject to approval by the Secretary of Commerce (after consultation with the Secretary of Homeland Security and the Secretary of State). The Corporation shall establish a marketing plan for each fiscal year not less than 60 days before the beginning of that year and provide a copy of the plan, and any revisions thereof, to the Secretary.
 
 #### (2) Budget
 
@@ -216,7 +216,7 @@ This section may be cited as the “Travel Promotion Act of 2009”.
 
 &emsp;&emsp;&emsp;(i) for fiscal year 2012, the Corporation provides matching amounts from non-Federal sources equal in the aggregate to 50 percent or more of the amount transferred to the Fund under paragraph (2); and
 
-&emsp;&emsp;&emsp;(ii) for any fiscal year after fiscal year 2012, the Corporation provides matching amounts from non-Federal sources equal in the aggregate to 100 percent of the amount transferred to the Fund under paragraph (2) for the fiscal year.
+&emsp;&emsp;&emsp;(ii) for any fiscal year after fiscal year 2012, the Corporation provides matchingamounts from non-Federal sources equal in the aggregate to 100 percent of the amount transferred to the Fund under paragraph (2) for the fiscal year.
 
 #### (B) Goods and services
 
@@ -302,7 +302,7 @@ The District of Columbia Nonprofit Corporation Act, referred to in subsec. (b)(1
 
 Section is comprised of section 9 of Pub. L. 111–145. Subsec. (e) of section 9 of Pub. L. 111–145 amended section 1187 of Title 8, Aliens and Nationality. Subsecs. (g) and (h) of section 9 of Pub. L. 111–145 enacted sections 2123 and 2123a of this title, respectively.
 
-Section was enacted as part of the United States Capitol Police Administrative Technical Corrections Act of 2009, and not as part of the International Travel Act of 1961 which comprises this chapter.
+Section was enacted as part of the United States Capitol Police Administrative Technical Corrections Act of2009, and not as part of the International Travel Act of 1961 which comprises this chapter.
 
 #### Amendments
 

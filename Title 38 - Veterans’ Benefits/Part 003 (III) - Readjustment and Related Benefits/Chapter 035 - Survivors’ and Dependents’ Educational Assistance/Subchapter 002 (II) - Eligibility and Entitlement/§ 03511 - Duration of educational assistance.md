@@ -18,7 +18,7 @@
 
 (b) If any eligible person pursuing a program of education, or of special restorative training, under this chapter ceases to be an “eligible person” because—
 
-&emsp;(1) the parent or spouse from whom eligibility is derived is found no longer to have a “total disability permanent in nature”, as defined in section 3501(a)(8) of this title,
+&emsp;(1) the parent or spouse from whom eligibility is derived is found no longer to have a“total disability permanent in nature”, as defined in section 3501(a)(8) of this title,
 
 &emsp;(2) the parent or spouse from whom eligibility is derived based upon section 3501(a)(1)(C) of this title is no longer listed in one of the categories specified therein,
 
@@ -78,7 +78,7 @@ Subsec. (b). Pub. L. 94–502, §§303(2), 310(6), substituted “the spouse” 
 
 <b>1969</b>—Subsec. (b)(1). Pub. L. 91–24 substituted “section 1701(a)(8) of this title” for “section 1701(a)(10) of this title”.
 
-<b>1968</b>—Subsec. (b). Pub. L. 90–631, §§1(c), 2(d), redesignated subsec. (d) as (b) and extended applicability of subsec. from any child pursuing a program of education or training to any eligible person pursuing such program, and expanded causes of persons ceasing to be “eligible persons” to include spouses no longer found to have a “total disability permanent in nature” as defined under section 1701(a)(10) of this title, and the individual, as an eligible person under section 1701(a)(1)(C) of this title, is divorced, without fault on her part, from the person upon whose disability her eligibility is based. Former subsec. (b), setting forth reductions in the period of entitlement of an eligible person, was struck out.
+<b>1968</b>—Subsec. (b). Pub. L. 90–631, §§1(c), 2(d), redesignated subsec. (d) as (b) and extended applicability of subsec. from any child pursuing a program of education or training to any eligible person pursuing such program, and expanded causes of persons ceasing to be “eligible persons” to include spouses no longer found to have a “total disability permanent in nature” as defined under section 1701(a)(10) of this title, and the individual, as an eligible person under section 1701(a)(1)(C) of this title, is divorced, without fault on her part, from the person upon whose disability her eligibility is based. Former subsec. (b), setting forth reductions inthe period of entitlement of an eligible person, was struck out.
 
 Subsec. (c). Pub. L. 90–631, §1(c), struck out subsec. (c) which required an eligible person to elect either educational assistance or vocational rehabilitation when such person is entitled to both, or becomes entitled to vocational rehabilitation after receiving educational assistance.
 

@@ -26,7 +26,7 @@ The remedy for a violation of subsection (a) of this section shall be an order t
 
 #### (1) Requests for inspections
 
-&emsp;Upon written request of any employing office or covered employee, the General Counsel shall exercise the authorities granted to the Secretary of Labor by subsections (a), (d), (e), and (f) of section 8 of the Occupational Safety and Health Act of 1970 (29 U.S.C. 657(a), (d), (e), and (f)) to inspect and investigate places of employment under the jurisdiction of employing offices.
+&emsp;Upon written request of any employing office or covered employee, the General Counselshall exercise the authorities granted to the Secretary of Labor by subsections (a), (d), (e), and (f) of section 8 of the Occupational Safety and Health Act of 1970 (29 U.S.C. 657(a), (d), (e), and (f)) to inspect and investigate places of employment under the jurisdiction of employing offices.
 
 #### (2) Citations, notices, and notifications
 
@@ -38,7 +38,7 @@ The remedy for a violation of subsection (a) of this section shall be an order t
 
 #### (3) Hearings and review
 
-&emsp;If after issuing a citation or notification, the General Counsel determines that a violationhas not been corrected, the General Counsel may file a complaint with the Office against the employing office named in the citation or notification. The complaint shall be submitted to a hearing officer for decision pursuant to subsections (b) through (h) of section 1405 of this title, subject to review by the Board pursuant to section 1406 of this title.
+&emsp;If after issuing a citation or notification, the General Counsel determines that a violation has not been corrected, the General Counsel may file a complaint with the Office against the employing office named in the citation or notification. The complaint shall be submitted to a hearing officer for decision pursuant to subsections (b) through (h) of section 1405 of this title, subject to review by the Board pursuant to section 1406 of this title.
 
 #### (4) Variance procedures
 
@@ -86,7 +86,7 @@ The remedy for a violation of subsection (a) of this section shall be an order t
 
 #### (4) Detailed personnel
 
-&emsp;The Secretary of Labor may, on request of the Executive Director, detail to the Office such personnel as may be necessary to advise and assist the Office in carrying out its duties under this section.
+&emsp;The Secretary of Labor may, on request of the Executive Director, detail to the Officesuch personnel as may be necessary to advise and assist the Office in carrying out its duties under this section.
 
 #### (f) Initial period for study and corrective action
 
@@ -110,9 +110,9 @@ The Occupational Safety and Health Act of 1970, referred to in subsec. (a)(2), i
 
 #### Amendments
 
-2008—Subsec. (e)(1). Pub. L. 110–437 substituted “the Office of Congressional Accessibility Services,” for “the Capitol Guide Service,”.
+<b>2008</b>—Subsec. (e)(1). Pub. L. 110–437 substituted “the Office of Congressional Accessibility Services,” for “the Capitol Guide Service,”.
 
-2004—Subsecs. (a)(2)(C), (D), (e)(1) . Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsecs. (a)(2)(C), (D), (e)(1) . Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
 Subsec. (g)(2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in heading and text.
 

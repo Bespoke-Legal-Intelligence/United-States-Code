@@ -96,7 +96,7 @@ In subsection (a), the authority of the President to prescribe rules is added on
 
 In subsection (b), the words “That after the expiration of six months from the passage of this act” are omitted as executed. The words “in the competitive service” are substituted for “in either of the said classes now existing, or that may be arranged hereunder pursuant to said rules” because of the definition of “competitive service” in section 2102. In the second sentence, the words “the provisions of this title governing the competitive service” are substituted for “this act”.
 
-In subsection (c), the provisions of former section 631b(b) and (c) are combined and restated for clarity. The words “From and after the effective date of this Act” and “From and after the date of approval of this Act” are omitted as executed. The words “competitive service” are substituted for “classified civil service” in view of the definition of “competitive service” in section 2102. The words “or as a clerical employee of the Senate or House of Representatives” are omitted as included in the reference to “an individual . . . in the legislative branch in a position in which he was paid by the Secretary of the Senate or the Clerk of the House of Representatives”. The words “and nothing in this Act shall be construed to impair any right of retransfer provided for under civil service laws or regulations made thereunder” are omitted as unnecessary.
+In subsection (c), the provisions of former section 631b(b) and (c) are combined and restated for clarity. The words “From and after the effective date of this Act” and “From and after the date of approval of this Act” are omitted as executed. The words “competitive service” are substituted for “classified civil service” in view of the definition of “competitive service” in section 2102. The words “or as a clerical employee of the Senate or House of Representatives” are omitted as included in the reference to “an individual . . . in the legislative branch in a position in which he was paid by the Secretary of the Senate or the Clerk of the House of Representatives”. The words “and nothing in this Act shall be construed to impair any right of retransferprovided for under civil service laws or regulations made thereunder” are omitted as unnecessary.
 
 In subsection (d), the word “Employees” is substituted for “collector, postmaster, and other officers of the United States”.
 
@@ -104,29 +104,29 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-2009—Subsec. (a)(3)(B). Pub. L. 111–84 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows:
+<b>2009</b>—Subsec. (a)(3)(B). Pub. L. 111–84 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows:
 
 “(i) the Office of Personnel Management has determined that there exists a severe shortage of candidates or there is a critical hiring need; or
 
 “(ii) the candidate is a participant in the Science, Mathematics, and Research for Transformation (SMART) Defense Defense Education Program under section 2192a of title 10, United States Code.”
 
-2006—Subsec. (a)(3)(B)(ii). Pub. L. 109–163 substituted “Defense Education Program” for “Scholarship Pilot Program” and “section 2192a of title 10, United States Code.” for “section 1105 of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005.”
+<b>2006</b>—Subsec. (a)(3)(B)(ii). Pub. L. 109–163 substituted “Defense Education Program” for “Scholarship Pilot Program” and “section 2192a of title 10, United States Code.” for “section 1105 of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005.”
 
-2004—Subsec. (a)(3)(B). Pub. L. 108–375 added subpar. (B) and struck out former subpar. (B) which read as follows: “the Office of Personnel Management has determined that there exists a severe shortage of candidates or there is a critical hiring need.”
+<b>2004</b>—Subsec. (a)(3)(B). Pub. L. 108–375 added subpar. (B) and struck out former subpar. (B) which read as follows: “the Office of Personnel Management has determined that there exists a severe shortage of candidates or there is a critical hiring need.”
 
-2002—Subsec. (a)(3). Pub. L. 107–296 added par. (3).
+<b>2002</b>—Subsec. (a)(3). Pub. L. 107–296 added par. (3).
 
-1999—Subsec. (f)(2), (3). Pub. L. 106–117, §511(c)(2), (3), added par. (2) and redesignated former par. (2) as (3). Former par. (3) redesignated (4).
+<b>1999</b>—Subsec. (f)(2), (3). Pub. L. 106–117, §511(c)(2), (3), added par. (2) and redesignated former par. (2) as (3). Former par. (3) redesignated (4).
 
 Subsec. (f)(4). Pub. L. 106–117, §511(c)(1), (2), redesignated par. (3) as (4) and struck out former par. (4) which read as follows: “The Office of Personnel Management shall establish an appointing authority to appoint such preference eligibles and veterans.”
 
 Subsec. (f)(5). Pub. L. 106–117, §511(c)(4), added par. (5).
 
-1998—Subsec. (f). Pub. L. 105–339 added subsec. (f).
+<b>1998</b>—Subsec. (f). Pub. L. 105–339 added subsec. (f).
 
-1996—Subsec. (c)(1). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk”.
+<b>1996</b>—Subsec. (c)(1). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk”.
 
-1995—Subsec. (c). Pub. L. 104–65, §16(a), (b), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “Notwithstanding a contrary provision of this title or of the rules and regulations prescribed under this title for the administration of the competitive service, an individual who served—
+<b>1995</b>—Subsec. (c). Pub. L. 104–65, §16(a), (b), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “Notwithstanding a contrary provision of this title or of the rules and regulations prescribed under this title for the administration of the competitive service, an individual who served—
 
 &emsp;“(1) for at least 3 years in the legislative branch in a position in which he was paid by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives; or
 
@@ -138,9 +138,9 @@ Subsec. (d). Pub. L. 104–65, §17(a), which directed amendment of this section
 
 Pub. L. 104–65, §16(b), redesignated subsec. (d) as (c).
 
-1986—Subsecs. (d), (e). Pub. L. 99–586 added subsec. (d) and redesignated former subsec. (d) as (e).
+<b>1986</b>—Subsecs. (d), (e). Pub. L. 99–586 added subsec. (d) and redesignated former subsec. (d) as (e).
 
-1978—Subsec. (d). Pub. L. 95–454 substituted “the Office of Personnel Management” for “a Civil Service Commission board of examiners”.
+<b>1978</b>—Subsec. (d). Pub. L. 95–454 substituted “the Office of Personnel Management” for “a Civil Service Commission board of examiners”.
 
 #### Effective Date of 2002 Amendment
 

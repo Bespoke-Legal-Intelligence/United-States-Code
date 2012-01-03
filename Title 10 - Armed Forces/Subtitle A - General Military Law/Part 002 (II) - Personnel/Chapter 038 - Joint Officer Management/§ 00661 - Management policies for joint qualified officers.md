@@ -164,7 +164,7 @@ Plan required.—Not later than March 31, 2007, the Secretary of Defense shall s
 
 “(2)
 
-Elements of plan.—In developing the plan required by this subsection, the Secretary shall pay particular attention to matters related to the transition of officers from the joint specialty system in effect before October 1, 2007, to the joint officer management system in effect after that date. At a minimum, the plan shall include the following:
+Elements of plan.—In developing the plan required by this subsection, the Secretary shall pay particular attention to matters related to the transition of officers from the joint specialty system in effect beforeOctober 1, 2007, to the joint officer management system in effect after that date. At a minimum, the plan shall include the following:
 
 &emsp;“(A) The policies and criteria to be used for designating officers as joint qualified on the basis of service performed by such officers before that date, had the amendments made by this section and other provisions of this Act to provisions of chapter 38 of title 10, United States Code, taken effect before the date of the enactment of this Act \[Oct. 17, 2006\].
 

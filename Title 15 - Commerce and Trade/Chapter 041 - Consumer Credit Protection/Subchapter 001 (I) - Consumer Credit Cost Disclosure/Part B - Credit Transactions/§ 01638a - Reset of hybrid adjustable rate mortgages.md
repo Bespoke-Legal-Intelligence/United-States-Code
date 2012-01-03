@@ -2,7 +2,7 @@
 
 #### (a) Hybrid adjustable rate mortgages defined
 
-For purposes of this section, the term “hybrid adjustable rate mortgage” means a consumer credit transaction secured by the consumer's principal residence with a fixed interest rate foran introductory period that adjusts or resets to a variable interest rate after such period.
+For purposes of this section, the term “hybrid adjustable rate mortgage” means a consumer credit transaction secured by the consumer's principal residence with a fixed interest rate for an introductory period that adjusts or resets to a variable interest rate after such period.
 
 #### (b) Notice of reset and alternatives
 
@@ -12,7 +12,7 @@ During the 1-month period that ends 6 months before the date on which the intere
 
 &emsp;(2) An explanation of how the new interest rate and payment would be determined, including an explanation of how the index was adjusted, such as by the addition of a margin.
 
-&emsp;(3) A good faith estimate, based on accepted industry standards, of the creditor or servicer of the amount of the monthly payment that will apply after the date of the adjustment or reset, and the assumptions on which this estimate is based.
+&emsp;(3) A good faith estimate, based on accepted industry standards, of the creditor or servicer of the amount of the monthly payment that will apply after the date of the adjustment orreset, and the assumptions on which this estimate is based.
 
 &emsp;(4) A list of alternatives consumers may pursue before the date of adjustment or reset, and descriptions of the actions consumers must take to pursue these alternatives, including—
 

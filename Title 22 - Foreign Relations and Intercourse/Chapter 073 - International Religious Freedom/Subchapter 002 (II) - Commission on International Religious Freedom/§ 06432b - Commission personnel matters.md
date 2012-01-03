@@ -30,11 +30,27 @@ The Executive Director shall be required to obtain a security clearance. The Exe
 
 The Commission shall reimburse all appropriate Government agencies for the cost of obtaining clearances for members of the commission,<sup>1</sup> for the executive <sup>1</sup> director,<sup>1</sup> and for any other personnel.
 
-(Pub. L. 105–292, title II, §204, as added Pub. L. 106–55, §1(b)(3), Aug. 17, 1999, 113 Stat. 402.)
+#### (g) Application of antidiscrimination laws
+
+For purposes of providing remedies and procedures to address alleged violations of rights and protections that pertain to employment discrimination, family and medical leave, fair labor standards, employee polygraph protection, worker adjustment and retraining, veterans’ employment and reemployment, intimidation or reprisal, protections under the Americans with Disabilities Act of 1990 \[42 U.S.C. 12101 et seq.\], occupational safety and health, labor-management relations, and rights and protections that apply to employees whose pay is disbursed by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives, all employees of the Commission shall be treated as employees whose pay is disbursed by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives and the Commission shall be treated as an employing office of the Senate or the House of Representatives.
+
+(Pub. L. 105–292, title II, §204, as added Pub. L. 106–55, §1(b)(3), Aug. 17, 1999, 113 Stat. 402; amended Pub. L. 112–75, §3(a), Dec. 23, 2011, 125 Stat. 1273.)
+
+#### References in Text
+
+The Americans with Disabilities Act of 1990, referred to in subsec. (g), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 #### Prior Provisions
 
 A prior section 204 of Pub. L. 105–292 was renumbered section 206 and is classified to section 6434 of this title.
+
+#### Amendments
+
+<b>2011</b>—Subsec. (g). Pub. L. 112–75 added subsec. (g).
+
+#### Pending Claims
+
+Pub. L. 112–75, §3(b), Dec. 23, 2011, 125 Stat. 1273, provided that: “Any administrative or judicial claim or action pending on the date of the enactment of this Act \[Dec. 23, 2011\] may be maintained under section 204(g) of the International Religious Freedom Act of 1998 \[22 U.S.C. 6432b(g)\], as added by subsection (a).”
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

@@ -18,7 +18,7 @@ Definitions.—In this section—
 
 (b)
 
-General Requirement and Minimum Amount.—(1) The Secretary of Transportationshall prescribe regulations to require minimum levels of financial responsibility sufficient to satisfy liability amounts established by the Secretary covering public liability, property damage, and environmental restoration for the transportation of property by motor carrier or motor private carrier (as such terms are defined in section 13102 of this title) in the United States between a place in a State and—
+General Requirement and Minimum Amount.—(1) The Secretary of Transportation shall prescribe regulations to require minimum levels of financial responsibility sufficient to satisfy liability amounts established by the Secretary covering public liability, property damage, and environmental restoration for the transportation of property by motor carrier or motor private carrier (as such terms are defined in section 13102 of this title) in the United States between a place in a State and—
 
 &emsp;(A) a place in another State;
 

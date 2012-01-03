@@ -12,9 +12,9 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
-The House amendment deletes section 701(d) of the Senate amendment. It is anticipated that the Rules of Bankruptcy Procedure will require the appointment ofan interim trustee at the earliest practical moment in commodity broker bankruptcies, but no later than noon of the day after the date of the filing of the petition, due to the volatility of such cases.
+The House amendment deletes section 701(d) of the Senate amendment. It is anticipated that the Rules of Bankruptcy Procedure will require the appointment of an interim trustee at the earliest practical moment in commodity broker bankruptcies, but no later than noon of the day after the date of the filing of the petition, due to the volatility of such cases.
 
 #### senate report no. 95–989
 
@@ -30,7 +30,7 @@ Subsection (d) provides that in a commodity broker case where speed is essential
 
 #### Amendments
 
-1986—Subsec. (a). Pub. L. 99–554 designated existing provisions as par. (1), substituted “the United States trustee shall appoint” for “the court shall appoint”, “586(a)(1)” for “604(f)”, “that is serving” for “that was serving”, and added par. (2).
+<b>1986</b>—Subsec. (a). Pub. L. 99–554 designated existing provisions as par. (1), substituted “the United States trustee shall appoint” for “the court shall appoint”, “586(a)(1)” for “604(f)”, “that is serving” for “that was serving”, and added par. (2).
 
 #### Effective Date of 1986 Amendment
 

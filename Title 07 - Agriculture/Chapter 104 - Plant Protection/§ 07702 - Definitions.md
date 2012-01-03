@@ -112,7 +112,7 @@ In this chapter:
 
 #### (18) Systems approach
 
-&emsp;For the purposes of section 7712(e) of this title, the term “systems approach” means a defined set of phytosanitary procedures, at least two of which have an independent effectin mitigating pest risk associated with the movement of commodities.
+&emsp;For the purposes of section 7712(e) of this title, the term “systems approach” means a defined set of phytosanitary procedures, at least two of which have an independent effect in mitigating pest risk associated with the movement of commodities.
 
 #### (19) This chapter
 

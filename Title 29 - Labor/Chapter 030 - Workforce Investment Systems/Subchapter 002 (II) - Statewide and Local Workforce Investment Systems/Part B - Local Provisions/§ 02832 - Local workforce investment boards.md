@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There shall be established in each local area of a State, and certified by the Governor of theState, a local workforce investment board, to set policy for the portion of the statewide workforce investment system within the local area (referred to in this chapter as a “local workforce investment system”).
+There shall be established in each local area of a State, and certified by the Governor of the State, a local workforce investment board, to set policy for the portion of the statewide workforce investment system within the local area (referred to in this chapter as a “local workforce investment system”).
 
 #### (b) Membership
 
@@ -82,7 +82,7 @@ There shall be established in each local area of a State, and certified by the G
 
 #### (B) Criteria
 
-&emsp;&emsp;Such certification shall be based on criteria established under subsection (b) of thissection and, for a second or subsequent certification, the extent to which the local board has ensured that workforce investment activities carried out in the local area have enabled the local area to meet the local performance measures.
+&emsp;&emsp;Such certification shall be based on criteria established under subsection (b) of this section and, for a second or subsequent certification, the extent to which the local board has ensured that workforce investment activities carried out in the local area have enabled the local area to meet the local performance measures.
 
 #### (C) Failure to achieve certification
 
@@ -108,7 +108,7 @@ There shall be established in each local area of a State, and certified by the G
 
 #### (4) Single State area
 
-&emsp;Notwithstanding subsection (b) of this section and paragraphs (1) and (2), if a State described in section 2831(b) of this title indicates in the State plan that the State will be treated as a local area for purposes of the application of this chapter, the Governor may designate the State board to carry out any of the functions described in subsection (d) of this section.
+&emsp;Notwithstanding subsection (b) of this section and paragraphs (1) and (2), if a State described in section 2831(b) of this title indicates in the State plan that the State will be treated as a local area for purposes of the application of this chapter, the Governor may designate the State board to carry out any of thefunctions described in subsection (d) of this section.
 
 #### (d) Functions of local board
 
@@ -322,7 +322,9 @@ A member of a local board may not—
 
 #### References in Text
 
-This Act, referred to in subsecs. (c)(1)(C), (d)(3)(B)(i)(III), (iii), (f)(3), and (i)(2), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended, known as the Workforce Investment Act of 1998. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+This chapter, referred to in subsecs. (a), (c)(4), and (d)(3)(B)(i)(III), was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
+
+This Act, referred to in subsecs. (c)(1)(C), (d)(3)(B)(i)(III), (iii), (f)(3), and (i)(2), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, known as the Workforce Investment Act of 1998. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
 Section 1512 of this title, referred to in subsec. (i)(1)(C)(i), was repealed by Pub. L. 105–220, title I, §199(b)(2), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000.
 

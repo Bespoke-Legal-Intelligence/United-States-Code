@@ -124,7 +124,7 @@ In applying this subchapter to a partner in a partnership—
 
 #### (1) In general
 
-&emsp;For purposes of this subchapter, an electing corporation shall be treated as continuing to use a qualifying vessel in the United Statesforeign trade during any period of temporary use in the United States domestic trade if the electing corporation gives timely notice to the Secretary stating—
+&emsp;For purposes of this subchapter, an electing corporation shall be treated as continuing to use a qualifying vessel in the United States foreign trade during any period of temporary use in the United States domestic trade if the electing corporation gives timely notice to the Secretary stating—
 
 &emsp;&emsp;(A) that it temporarily operates or has operated in the United States domestic trade a qualifying vessel which had been used in the United States foreign trade, and
 
@@ -208,7 +208,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a)(4). Pub. L. 109–432, §413(a), substituted “6,000” for “10,000 (6,000, in the case of taxable years beginning after December 31, 2005, and ending before January 1, 2011)”.
+<b>2006</b>—Subsec. (a)(4). Pub. L. 109–432, §413(a), substituted “6,000” for “10,000 (6,000, in the case of taxableyears beginning after December 31, 2005, and ending before January 1, 2011)”.
 
 Pub. L. 109–222 inserted “(6,000, in the case of taxable years beginning after December 31, 2005, and ending before January 1, 2011)” after “10,000”.
 

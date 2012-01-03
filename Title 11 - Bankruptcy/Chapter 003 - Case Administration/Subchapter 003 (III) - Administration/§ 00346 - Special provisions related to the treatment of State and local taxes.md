@@ -38,7 +38,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 346 of the House amendment, together with sections 728 and 1146, represent special tax provisions applicable in bankruptcy. The policy contained in those sections reflects the policy that should be applied in Federal, State, and local taxes in the view of the House Committee on the Judiciary. The House Ways and Means Committee and the Senate Finance Committee did not have time to process a bankruptcy tax bill during the 95th Congress. It is anticipated that early in the 96th Congress, and before the effective date of the bankruptcy code \[Oct. 1, 1979\], the tax committees of Congress will have an opportunity to consider action with respect to amendments to the Internal Revenue Code \[title 26\] and the special tax provisions in title 11. Since the special tax provisions are likely to be amended during the first part of the 96th Congress, it is anticipated that the bench and bar will also study and comment on these special tax provisions prior to their revision.
 
@@ -50,7 +50,7 @@ Section 726 of the Senate amendment provides that the rule requiring pro rata pa
 
 When taxes considered “incurred”: The Senate amendment contained rules of general application dealing with when a tax is “incurred” for purposes of the various tax collection rules affecting the debtor and the estate. The House amendment adopts the substance of these rules and transfers them to section 507 of title 11.
 
-Penalty for failure to pay tax: The Senate amendment contains a rule which relieves the debtor and the trustee from certain tax penalties for failure to maketimely payment of a tax to the extent that the bankruptcy rules prevent the trustee or the debtor from paying the tax on time. Since most of these penalties relate to Federal taxes, the House amendment deletes these rules pending consideration of Federal tax rules affecting bankruptcy in the next Congress.
+Penalty for failure to pay tax: The Senate amendment contains a rule which relieves the debtor and the trustee from certain tax penalties for failure to make timely payment of a tax to the extent that the bankruptcy rules prevent the trustee or the debtor from paying the tax on time. Since most of these penalties relate to Federal taxes, the House amendment deletes these rules pending consideration of Federal tax rules affecting bankruptcy in the next Congress.
 
 #### senate report no. 95–989
 
@@ -94,7 +94,7 @@ Paragraph (3) causes any net operating loss of a debtor that is an individual or
 
 Paragraph (4) specifically excludes two kinds of indebtedness from reduction of net operating losses under paragraph (3) or from reduction of basis under paragraph (5). Subparagraph (A) excludes items of a deductible nature that were not deducted or that could not be deducted such as gambling losses or liabilities for interest owed to a relative of the debtor. Subparagraph (B) excludes indebtedness of a debtor that is an individual or corporation that resulted in deductions which did not offset income and that did not contribute to an unexpired net operating loss or loss carryover. In these situations, the debtor has derived no tax benefit so there is no need to incur an offsetting reduction.
 
-Paragraph (5) provides a two-point test for reduction of basis. The paragraph replaces sections 270, 396, and 522 of the Bankruptcy Act \[sections 670, 796, and 922 of former title 11\]. Subparagraph (A) sets out the maximum amount by which basis may be reduced—the total indebtedness forgiven less adjustments made under paragraphs (2) and (3). This avoids double counting. If a deduction is disallowed under paragraph (2) or a carryover is reduced under paragraph (3) then the tax benefit is neutralized, and there is no need to reduce basis. Subparagraph (B) reduces basis to the extent the debtor's total basis of assets before the discharge exceeds total preexisting liabilities still remaining after discharge of indebtedness. This is a “basis solvency” limitation which differs from the usual test of solvency because it measures against the remaining liabilities the benefit aspect of assets, their basis, rather than their value. Paragraph (5) applies so that any transferee of the debtor's property who is required to use the debtor's basis takes the debtor's basis reduced by the lesser of (A) and (B). Thus, basis will be reduced, but never below a level equal to undischarged liabilities.
+Paragraph (5) provides a two-point test for reduction of basis. The paragraph replaces sections 270, 396, and522 of the Bankruptcy Act \[sections 670, 796, and 922 of former title 11\]. Subparagraph (A) sets out the maximum amount by which basis may be reduced—the total indebtedness forgiven less adjustments made under paragraphs (2) and (3). This avoids double counting. If a deduction is disallowed under paragraph (2) or a carryover is reduced under paragraph (3) then the tax benefit is neutralized, and there is no need to reduce basis. Subparagraph (B) reduces basis to the extent the debtor's total basis of assets before the discharge exceeds total preexisting liabilities still remaining after discharge of indebtedness. This is a “basis solvency” limitation which differs from the usual test of solvency because it measures against the remaining liabilities the benefit aspect of assets, their basis, rather than their value. Paragraph (5) applies so that any transferee of the debtor's property who is required to use the debtor's basis takes the debtor's basis reduced by the lesser of (A) and (B). Thus, basis will be reduced, but never below a level equal to undischarged liabilities.
 
 Paragraph (6) specifies that basis need not be reduced under paragraph (5) to the extent the debtor treats discharged indebtedness as taxable income. This permits the debtor to elect whether to recognize income, which may be advantageous if the debtor anticipates subsequent net operating losses, rather than to reduce basis.
 
@@ -106,13 +106,13 @@ The Internal Revenue Code of 1986, referred to in text, is classified generally 
 
 #### Amendments
 
-2005—Pub. L. 109–8 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (j) relating to special tax provisions.
+<b>2005</b>—Pub. L. 109–8 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (j) relating to special tax provisions.
 
-1994—Subsec. (a). Pub. L. 103–394, §504(d)(4)(A), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954 (26 U.S.C. 1 et seq.)”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–394, §504(d)(4)(A), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954 (26 U.S.C. 1 et seq.)”.
 
 Subsec. (g)(1)(C). Pub. L. 103–394, §501(d)(4)(B), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954 (26 U.S.C. 371)”.
 
-1986—Subsec. (b)(1). Pub. L. 99–554, §257(g)(1), inserted reference to chapter 12.
+<b>1986</b>—Subsec. (b)(1). Pub. L. 99–554, §257(g)(1), inserted reference to chapter 12.
 
 Subsec. (g)(1)(C). Pub. L. 99–554, §257(g)(2), inserted reference to chapter 12.
 
@@ -120,7 +120,7 @@ Subsec. (i)(1). Pub. L. 99–554, §257(g)(3), inserted reference to chapter 12.
 
 Subsec. (j)(7). Pub. L. 99–554, §283(c), substituted “owed” for “owned”.
 
-1984—Subsec. (c)(2). Pub. L. 98–353 substituted “corporation” for “operation”.
+<b>1984</b>—Subsec. (c)(2). Pub. L. 98–353 substituted “corporation” for “operation”.
 
 #### Effective Date of 2005 Amendment
 

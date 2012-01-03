@@ -32,7 +32,7 @@
 
 (f)(1) The Commandant shall also perform the duties prescribed for him as a member of the Joint Chiefs of Staff under section 151 of this title.
 
-(2) To the extent that such action does not impair the independence of the Commandant in the performance of his duties as a member of the Joint Chiefs of Staff, the Commandant shall inform the Secretary regarding military advice rendered by members of the Joint Chiefs of Staff on matters affecting the Department of the Navy.
+(2) To the extent that such action does not impair the independence of the Commandant in the performance of his duties as a member of the Joint Chiefs of Staff, the Commandant shall inform the Secretary regarding military advicerendered by members of the Joint Chiefs of Staff on matters affecting the Department of the Navy.
 
 (3) Subject to the authority, direction, and control of the Secretary of Defense, the Commandant shall keep the Secretary of the Navy fully informed of significant military operations affecting the duties and responsibilities of the Secretary.
 
@@ -54,5 +54,5 @@ Provisions similar to those in this section were contained in section 5201 of th
 
 #### Waiver of Qualifications for Appointment as Service Chief
 
-For provisions giving President temporary authority to waive requirements in subsec. (a)(2) of this section,see section 532(c) of Pub. L. 99–433, formerly set out as a note under section 3033 of this title.
+For provisions giving President temporary authority to waive requirements in subsec. (a)(2) of this section, see section 532(c) of Pub. L. 99–433, formerly set out as a note under section 3033 of this title.
 

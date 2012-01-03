@@ -194,7 +194,7 @@ Section 1004 of Pub. L. 102–511 provided that:
 
 “(a)
 
-In General.—In order to promote macroeconomic stabilization and the integration of the independent states of the former Soviet Union into the international financial system, enhance the opportunities for trade, improve the climate for foreign investment, and strengthen the process of transformation of the former socialist economies into free enterprise systems and thereby progressively enhance the well-being of the citizens of these states, the United States shouldin appropriate circumstances take a leading role in organizing and supporting multilateral efforts at macroeconomic stabilization and debt rescheduling, conditioned on the appropriate development and implementation of comprehensive economic reform programs.
+In General.—In order to promote macroeconomic stabilization and the integration of the independent states of the former Soviet Union into the international financial system, enhance the opportunities for trade, improve the climate for foreign investment, and strengthen the process of transformation of the former socialist economies into free enterprise systems and thereby progressively enhance the well-being of the citizens of these states, the United States should in appropriate circumstances take a leading role in organizing and supporting multilateral efforts at macroeconomic stabilization and debt rescheduling, conditioned on the appropriate development and implementation of comprehensive economic reform programs.
 
 “(b)
 
@@ -228,7 +228,7 @@ Section 1. <i>Secretary of State</i>. (a) There are delegated to the Secretary o
 
 Sec. 2. <i>Coordinator</i>. There are delegated to the Coordinator designated in accordance with section 102 of the Act \[22 U.S.C. 5812\] the functions conferred upon the President by:
 
-(a) section 104 of the Act \[22 U.S.C. 5814\], and the Coordinator is authorized to assign responsibility for particular aspects of the reports described in that section to the heads of appropriate agencies;
+(a) \[former\] section 104 of the Act \[22 U.S.C. 5814\], and the Coordinator is authorized to assign responsibility for particular aspects of the reports described in that section to the heads of appropriate agencies;
 
 (b) section 301 of the Act \[22 U.S.C. 5821\], insofar as it relates to determinations and directives;
 

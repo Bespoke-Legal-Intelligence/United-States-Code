@@ -86,7 +86,7 @@ The total of the amounts which are treated under section 666 as having been dist
 
 #### (i) Limitation on credit
 
-&emsp;&emsp;&emsp;For purposes of determining under subparagraph (A) the amount treated as a credit for any computation year, the limitations under subpart A of part III of subchapter N shall be applied separately with respect to amounts added under subsection (b)(1)(C) to the taxable income of the beneficiary for such computation year. For purposes of computing the increase in tax under subsection (b)(1)(D) for any computation year for which the beneficiary did not choose the benefits of subpart A of part III of subchapter N, the beneficiary shall be treated as having chosen such benefits for such computation year.
+&emsp;&emsp;&emsp;For purposes of determining under subparagraph (A) the amount treated as acredit for any computation year, the limitations under subpart A of part III of subchapter N shall be applied separately with respect to amounts added under subsection (b)(1)(C) to the taxable income of the beneficiary for such computation year. For purposes of computing the increase in tax under subsection (b)(1)(D) for any computation year for which the beneficiary did not choose the benefits of subpart A of part III of subchapter N, the beneficiary shall be treated as having chosen such benefits for such computation year.
 
 #### (ii) Retention of character
 
@@ -148,7 +148,7 @@ Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31
 
 #### Effective Date of 1976 Amendment
 
-Section 701(h) of Pub. L. 94–455 provided that: “The amendments made by subsections (a), (b), (c), (d), and (f) of this section \[amending this section and sections 665, 666, 1302, and 6401 of this title and repealing sections 668 and 669 of this title\] shall apply to distributions made in taxable years beginning after December 31, 1975. The amendments made by subsection (e) of this section \[enacting section 644 of this title and amending section 641 of this title\] shall apply to transfers in trust made after May 21, 1976.”
+Section 701(h) of Pub. L. 94–455 provided that: “The amendments made by subsections (a), (b), (c), (d), and (f) of this section \[amending this section and sections 665, 666, 1302, and 6401 of this title and repealing sections 668 and 669 of this title\] shall apply to distributions made in taxable years beginning after December31, 1975. The amendments made by subsection (e) of this section \[enacting section 644 of this title and amending section 641 of this title\] shall apply to transfers in trust made after May 21, 1976.”
 
 #### Effective Date of 1969 Amendment
 

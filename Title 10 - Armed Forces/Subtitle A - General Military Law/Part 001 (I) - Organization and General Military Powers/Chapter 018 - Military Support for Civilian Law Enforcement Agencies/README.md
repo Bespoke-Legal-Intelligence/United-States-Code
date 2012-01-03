@@ -19,7 +19,7 @@
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 111–383, div. A, title X, §1075(b)(10)(C), Jan. 7, 2011, 124 Stat. 4369, added item 382 and struckout former item 382 “Emergency situations involving chemical or biological weapons of mass destruction”.
+<b>2011</b>—Pub. L. 111–383, div. A, title X, §1075(b)(10)(C), Jan. 7, 2011, 124 Stat. 4369, added item 382 and struck out former item 382 “Emergency situations involving chemical or biological weapons of mass destruction”.
 
 <b>2008</b>—Pub. L. 110–417, \[div. A\], title VIII, §885(b)(2), Oct. 14, 2008, 122 Stat. 4561, added item 381 and struck out former item 381 “Procurement by State and local governments of law enforcement equipment suitable for counter-drug activities through the Department of Defense”.
 

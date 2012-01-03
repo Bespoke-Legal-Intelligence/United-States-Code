@@ -20,7 +20,7 @@ Transmission to Congress of Prospectus of Proposed Project.—To secure consider
 
 &emsp;(3) a comprehensive plan for providing space for all Government officers and employees in the locality of the proposed facility or the space to be leased, having due regard for suitable space which may continue to be available in existing Government-owned or occupied buildings, especially those buildings that enhance the architectural, historical, social, cultural, and economic environment of the locality;
 
-&emsp;(4) with respect to any project for the construction, alteration, or acquisition of any building, a statement by the Administrator that suitable space owned by the Government is not available and that suitable rental space is not available at a price commensurate with that to be afforded through the proposed action;
+&emsp;(4) with respect to any project for the construction, alteration, or acquisition of any building, a statement by the Administrator that suitable space owned by the Government is not available and that suitable rental space is not available at a price commensurate withthat to be afforded through the proposed action;
 
 &emsp;(5) a statement by the Administrator of the economic and other justifications for not acquiring a building identified to the Administrator under section 3303(c) of this title as suitable for the public building needs of the Government;
 
@@ -30,7 +30,7 @@ Transmission to Congress of Prospectus of Proposed Project.—To secure consider
 
 (c)
 
-Increase of Estimated Maximum Cost.—The estimated maximum cost of any project approved under this section as set forth in any prospectus may be increased by an amount equal to any percentage increase, as determined by the Administrator, in construction or alteration costs from the date the prospectus is transmitted to Congress. The increase authorized by thissubsection may not exceed 10 percent of the estimated maximum cost.
+Increase of Estimated Maximum Cost.—The estimated maximum cost of any project approved under this section as set forth in any prospectus may be increased by an amount equal to any percentage increase, as determined by the Administrator, in construction or alteration costs from the date the prospectus is transmitted to Congress. The increase authorized by this subsection may not exceed 10 percent of the estimated maximum cost.
 
 (d)
 

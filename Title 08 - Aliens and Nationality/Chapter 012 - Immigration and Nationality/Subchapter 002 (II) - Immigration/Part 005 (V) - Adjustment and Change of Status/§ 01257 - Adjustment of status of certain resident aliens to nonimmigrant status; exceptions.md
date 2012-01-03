@@ -8,7 +8,7 @@
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–208 substituted “time of admission” for “time of entry”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–208 substituted “time of admission” for “time of entry”.
 
 #### Effective Date of 1996 Amendment
 

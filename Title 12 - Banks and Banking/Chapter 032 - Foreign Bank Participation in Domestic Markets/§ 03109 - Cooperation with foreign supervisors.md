@@ -42,5 +42,5 @@ Before making any disclosure of any information to a foreign authority, the Boar
 
 #### Amendments
 
-2006—Subsec. (c). Pub. L. 109–351 added subsec. (c).
+<b>2006</b>—Subsec. (c). Pub. L. 109–351 added subsec. (c).
 

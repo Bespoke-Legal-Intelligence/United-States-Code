@@ -12,7 +12,7 @@ Section is based on act Mar. 4, 1907, popularly known as the “Sundry Civil App
 
 #### Amendments
 
-2010—Pub. L. 111–145 substituted “other than the United States Capitol Police” for “other than officers and privates of the Capitol police” in two places.
+<b>2010</b>—Pub. L. 111–145 substituted “other than the United States Capitol Police” for “other than officers and privates of the Capitol police” in two places.
 
 #### Change of Name
 
@@ -88,7 +88,7 @@ Separate Account in the Treasury.—
 
 &emsp;“(1)
 
-Establishment.—There is established in the Treasury of the United States a separate accountwhich shall consist of amounts deposited into the account by the Architect of the Capitol under subsection (a).
+Establishment.—There is established in the Treasury of the United States a separate account which shall consist of amounts deposited into the account by the Architect of the Capitol under subsection (a).
 
 &emsp;“(2)
 
@@ -150,7 +150,7 @@ House Resolution No. 402, One Hundred First Congress, Sept. 10, 1990, provided t
 
 “(a)
 
-Thomas P. O'Neill, Jr. House of Representatives Office Building.—The House of Representatives office building located at C Street and New Jersey Avenue, Southeast, in the District of Columbia, and known as House of Representatives Office Building Annex No. 1, shall be known and designated as the ‘Thomas P. O'Neill, Jr. House of Representatives Office Building’.
+Thomas P. O'Neill, Jr. House of Representatives Office Building.—The House of Representatives office building located at C Street and New Jersey Avenue, Southeast, in the District of Columbia, and known as House of Representatives Office Building Annex No.1, shall be known and designated as the ‘Thomas P. O'Neill, Jr. House of Representatives Office Building’.
 
 “(b)
 

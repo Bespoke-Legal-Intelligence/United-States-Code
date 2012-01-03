@@ -6,7 +6,7 @@ Any regular commissioned officer who has completed thirty years’ service may, 
 
 #### Amendments
 
-1986—Pub. L. 99–348 which directed that “, with retired pay of the grade with which retired” be struck out was executed by striking out that phrase after “from active service” as the probable intent of Congress even though there was no comma, before “with retired”.
+<b>1986</b>—Pub. L. 99–348 which directed that “, with retired pay of the grade with which retired” be struck out was executed by striking out that phrase after “from active service” as the probable intent of Congress even though there was no comma, before “with retired”.
 
 #### Retired Pay on or Prior to September 24, 1963
 

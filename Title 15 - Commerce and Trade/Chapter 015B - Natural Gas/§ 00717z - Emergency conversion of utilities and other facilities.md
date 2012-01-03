@@ -20,7 +20,7 @@ The President may declare a natural gas supply emergency (or extend a previously
 
 #### (c) Prohibitions
 
-During a natural gas emergency declared under this section, the President may, by order, prohibit the burning of natural gas by any electric powerplant or major fuel-burning installation if the President determines that—
+During a natural gas emergency declared under this section, the President may, by order,prohibit the burning of natural gas by any electric powerplant or major fuel-burning installation if the President determines that—
 
 &emsp;(1) such powerplant or installation had on September 1, 1977 (or at any time thereafter) the capability to burn petroleum products without damage to its facilities or equipment and without interference with operational requirements;
 
@@ -38,7 +38,7 @@ The President shall exempt from any order issued under this section the burning 
 
 #### (f) Exemption for air-quality emergencies
 
-The President shall exempt any electric powerplant or major fuel-burning installation in whole or in part, from any order issued underthis section for such period and to such extent as the President determines necessary to alleviate any imminent and substantial endangerment to the health of persons within the meaning of section 7603 of title 42.
+The President shall exempt any electric powerplant or major fuel-burning installation in whole or in part, from any order issued under this section for such period and to such extent as the President determines necessary to alleviate any imminent and substantial endangerment to the health of persons within the meaning of section 7603 of title 42.
 
 #### (g) Limitation on injunctive relief
 

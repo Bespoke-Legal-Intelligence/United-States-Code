@@ -40,7 +40,7 @@ For purposes of subsection (a), the following property shall be considered to ha
 
 &emsp;&emsp;(C) property described in any other paragraph of this subsection.
 
-&emsp;(10) Property includible in the gross estate of the decedent under section 2044 (relating to certain property for which marital deduction was previously allowed). In any such case, the last 3 sentences of paragraph (9) shall apply as if such property were described in the first sentence of paragraph (9).
+&emsp;(10) Property includible in the gross estate of the decedent under section 2044 (relating to certain property for which marital deductionwas previously allowed). In any such case, the last 3 sentences of paragraph (9) shall apply as if such property were described in the first sentence of paragraph (9).
 
 #### (c) Property representing income in respect of a decedent
 
@@ -142,7 +142,7 @@ Section 508(e)(1) of Pub. L. 105–34 provided that: “The amendments made by s
 
 #### Effective Date of 1983 Amendment
 
-Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in theprovision of the Economic Recovery Tax Act of 1981, Pub. L. 97–34, to which such amendment relates, see section 109 of Pub. L. 97–448, set out as a note under section 1 of this title.
+Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in the provision of the Economic Recovery Tax Act of 1981, Pub. L. 97–34, to which such amendment relates, see section 109 of Pub. L. 97–448, set out as a note under section 1 of this title.
 
 #### Effective Date of 1981 Amendment
 

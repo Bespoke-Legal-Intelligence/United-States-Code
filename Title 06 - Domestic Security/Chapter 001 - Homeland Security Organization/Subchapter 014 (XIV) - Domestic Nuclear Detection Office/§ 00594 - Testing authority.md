@@ -20,5 +20,5 @@ Fees received for services made available under this section may be credited to 
 
 #### Amendments
 
-2007—Subsec. (a). Pub. L. 110–53, §104(a)(3), made technical amendment to reference in original act which appears in text as reference to section 592 of this title.
+<b>2007</b>—Subsec. (a). Pub. L. 110–53, §104(a)(3), made technical amendment to reference in original act which appears in text as reference to section 592 of this title.
 

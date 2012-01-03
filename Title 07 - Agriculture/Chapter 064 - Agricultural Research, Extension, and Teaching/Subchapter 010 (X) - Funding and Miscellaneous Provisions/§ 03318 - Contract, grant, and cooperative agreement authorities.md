@@ -40,7 +40,7 @@ In subsec. (e), “section 3324(a) and (b) of title 31” substituted for refere
 
 #### Amendments
 
-1985—Subsecs. (b) to (e). Pub. L. 99–198 added subsec. (b) and redesignated former subsecs. (b) to (d) as (c) to (e), respectively.
+<b>1985</b>—Subsecs. (b) to (e). Pub. L. 99–198 added subsec. (b) and redesignated former subsecs. (b) to (d) as (c) to (e), respectively.
 
 #### Effective Date
 

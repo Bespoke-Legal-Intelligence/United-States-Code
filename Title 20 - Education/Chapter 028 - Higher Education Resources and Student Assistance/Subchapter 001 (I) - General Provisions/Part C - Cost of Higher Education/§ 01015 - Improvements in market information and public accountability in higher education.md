@@ -36,7 +36,7 @@
 
 #### (b) Data dissemination
 
-The Secretary shall make available the data collected pursuant to subsection (a) of this section. Such data shall be available in a form that permits the review and comparison of the data submissions of individual institutions of higher education. Such data shall be presented in a form that is easily understandable and allows parents and students to make informed decisions based on the costs for typical full-time undergraduate students.
+The Secretary shall make available the data collected pursuant to subsection (a) of this section. Such data shall be available in a form that permits the review and comparison of the data submissions of individual institutions of higher education. Such data shall be presented in aform that is easily understandable and allows parents and students to make informed decisions based on the costs for typical full-time undergraduate students.
 
 #### (c) Study
 
@@ -118,7 +118,7 @@ The Secretary shall display a link to the Federal student financial aid website 
 
 #### (4) Definition
 
-&emsp;In this subsection, the term “Federal and State student financial assistance” means any grant, loan, work assistance, tuition assistance, scholarship, fellowship, or other form of financial aid for pursuing a postsecondary education that is—
+&emsp;In this subsection, the term “Federal and State student financial assistance” means anygrant, loan, work assistance, tuition assistance, scholarship, fellowship, or other form of financial aid for pursuing a postsecondary education that is—
 
 &emsp;&emsp;(A) administered, sponsored, or supported by the Department of Education, the Department of Defense, the Department of Veterans Affairs, or a State; and
 
@@ -138,7 +138,7 @@ The Secretary shall display a link to the Federal student financial aid website 
 
 &emsp;The Secretary shall ensure that—
 
-&emsp;&emsp;(A) not later than 90 days after the Secretary receives the information required under paragraph (3), the eligibility requirements, application procedures, financial terms and conditions, and other relevant information for each nondepartmental student financial assistance program are searchable and accessible through the Federal student financial aid website in a manner that issimple and understandable for students and the students’ families; and
+&emsp;&emsp;(A) not later than 90 days after the Secretary receives the information required under paragraph (3), the eligibility requirements, application procedures, financial terms and conditions, and other relevant information for each nondepartmental student financial assistance program are searchable and accessible through the Federal student financial aid website in a manner that is simple and understandable for students and the students’ families; and
 
 &emsp;&emsp;(B) the website displaying the information described in subparagraph (A) includes a link to the National Database on Financial Assistance for the Study of Science, Technology, Engineering, and Mathematics pursuant to paragraph (4), and the information on military benefits under subsection (f), once such Database and information are available.
 
@@ -196,7 +196,7 @@ The Secretary shall display a link to the Federal student financial aid website 
 
 &emsp;&emsp;&emsp;The STEM Database shall provide, to the users of the STEM Database—
 
-&emsp;&emsp;&emsp;&emsp;(I) a recommendation that students and families should carefully review all of the application requirements prior to applying for any aid or program of student financial assistance; and
+&emsp;&emsp;&emsp;&emsp;(I) a recommendation that students and families should carefully review allof the application requirements prior to applying for any aid or program of student financial assistance; and
 
 &emsp;&emsp;&emsp;&emsp;(II) a disclaimer that the non-Federal programs of student financial assistance presented in the STEM Database are not provided or endorsed by the Department or the Federal Government.
 
@@ -253,8 +253,6 @@ Subsec. (h). Pub. L. 110–315, §110(c), added subsec. (h).
 #### Change of Name
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effective Date of 2009 Amendment
 

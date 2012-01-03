@@ -2,7 +2,7 @@
 
 (a)
 
-Guidelines Required.—(1) The Under Secretary of Defense for Personnel and Readiness shall devise and implement guidelines and procedures to ensure that consideration is given to using, on a regular basis, Department of Defense civilian employees to perform new functions and functions that are performed by contractors and could be performed by Department of Defense civilian employees. The Secretary of a military department may prescribe supplemental regulations, if the Secretary determines such regulations are necessary for implementing such guidelines within that military department.
+Guidelines Required.—(1) The Under Secretary of Defense for Personnel and Readiness shall devise and implement guidelines and procedures to ensure that consideration is given to using, on a regular basis, Department of Defense civilian employees to perform new functions andfunctions that are performed by contractors and could be performed by Department of Defense civilian employees. The Secretary of a military department may prescribe supplemental regulations, if the Secretary determines such regulations are necessary for implementing such guidelines within that military department.
 
 (2) The guidelines and procedures required under paragraph (1) may not include any specific limitation or restriction on the number of functions or activities that may be converted to performance by Department of Defense civilian employees.
 
@@ -12,13 +12,21 @@ Special Consideration for Certain Functions.—The guidelines and procedures req
 
 &emsp;(1) is performed by a contractor and—
 
-&emsp;&emsp;(A) has been performed by Department of Defense civilian employees at any time during the previous 10 years;
+&emsp;&emsp;(A) is a critical function that—
 
-&emsp;&emsp;(B) is a function closely associated with the performance of an inherently governmental function;
+&emsp;&emsp;&emsp;(i) is necessary to maintain sufficient Government expertise and technical capabilities; or
 
-&emsp;&emsp;(C) has been performed pursuant to a contract awarded on a non-competitive basis; or
+&emsp;&emsp;&emsp;(ii) entails operational risk associated with contractor performance;
 
-&emsp;&emsp;(D) has been performed poorly, as determined by a contracting officer during the 5-year period preceding the date of such determination, because of excessive costs or inferior quality; or
+&emsp;&emsp;(B) is an acquisition workforce function;
+
+&emsp;&emsp;(C) is a function closely associated with the performance of an inherently governmental function;
+
+&emsp;&emsp;(D) has been performed by Department of Defense civilian employees at any time during the previous 10-year period;
+
+&emsp;&emsp;(E) has been performed pursuant to a contract awarded on a non-competitive basis; or
+
+&emsp;&emsp;(F) has been performed poorly, as determined by a contracting officer during the 5-year period preceding the date of such determination, because of excessive costs or inferior quality; or
 
 &emsp;(2) is a new requirement, with particular emphasis given to a new requirement that is similar to a function previously performed by Department of Defense civilian employees or is a function closely associated with the performance of an inherently governmental function.
 
@@ -40,19 +48,53 @@ Use of Flexible Hiring Authority.—(1) The Secretary of Defense may use the fle
 
 (e)
 
-Definitions.—In this section the term “functions closely associated with inherently governmental functions” has the meaning given that term in section 2383(b)(3) of this title.
+Determinations Relating to the Conversion of Certain Functions.—(1) Except as provided in paragraph (2), in determining whether a function should be converted to performance by Department of Defense civilian employees, the Secretary of Defense shall—
 
-(Added Pub. L. 110–181, div. A, title III, §324(a)(1), Jan. 28, 2008, 122 Stat. 60; amended Pub. L. 111–383, div. A, title III, §353, Jan. 7, 2011, 124 Stat. 4194.)
+&emsp;(A) develop methodology for determining costs based on the guidance outlined in the Directive-Type Memorandum 09–007 entitled “Estimating and Comparing the Full Costs of Civilian and Military Manpower and Contractor Support” or any successor guidance for the determination of costs when costs are the sole basis for the determination;
+
+&emsp;(B) take into consideration any supplemental guidance issued by the Secretary of a military department for determinations affecting functions of that military department; and
+
+&emsp;(C) ensure that the difference in the cost of performing the function by a contractor compared to the cost of performing the function by Department of Defense civilian employees would be equal to or exceed the lesser of—
+
+&emsp;&emsp;(i) 10 percent of the personnel-related costs for performance of that function; or
+
+&emsp;&emsp;(ii) $10,000,000.
+
+(2) Paragraph (1) shall not apply to any function that is inherently governmental or any function described in subparagraph (A), (B), or (C) of subsection (b)(1).
+
+(f)
+
+Notification Relating to the Conversion of Certain Functions.—The Secretary of Defense shall establish procedures for the timely notification of any contractor who performs a function that the Secretary plans to convert to performance by Department of Defense civilian employees pursuant to subsection (a). The Secretary shall provide a copy of any such notification to the congressional defense committees.
+
+(g)
+
+Definitions.—In this section:
+
+&emsp;(1) The term “functions closely associated with inherently governmental functions” has the meaning given that term in section 2383(b)(3) of this title.
+
+&emsp;(2) The term “acquisition function” has the meaning given that term under section 1721(a) of this title.
+
+&emsp;(3) The term “inherently governmental function” has the meaning given that term in the Federal Activities Inventory Reform Act of 1998 (Public Law 105–270; 31 U.S.C. 501 note).
+
+(Added Pub. L. 110–181, div. A, title III, §324(a)(1), Jan. 28, 2008, 122 Stat. 60; amended Pub. L. 111–383, div. A, title III, §353, Jan. 7, 2011, 124 Stat. 4194; Pub. L. 112–81, div. A, title IX, §938, Dec. 31, 2011, 125 Stat. 1547.)
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in Pub. L. 109–163, div. A, title III, §343, Jan. 6, 2006, 119 Stat. 3200, which was set out as a note under section 2461 of this title, prior to repeal by Pub. L. 110–181, div. A, title III, §324(c), Jan. 28, 2008, 122 Stat. 61.
+Provisions similar to those in this section were contained in Pub. L. 109–163, div. A, title III, §343, Jan. 6,2006, 119 Stat. 3200, which was set out as a note under section 2461 of this title, prior to repeal by Pub. L. 110–181, div. A, title III, §324(c), Jan. 28, 2008, 122 Stat. 61.
 
 A prior section 2463, added Pub. L. 100–370, §2(a)(1), July 19, 1988, 102 Stat. 853; amended Pub. L. 101–189, div. A, title XVI, §1622(c)(7), Nov. 29, 1989, 103 Stat. 1604; Pub. L. 101–510, div. A, title XIII, §1301(14), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 105–85, div. A, title III, §385(a), Nov. 18, 1997, 111 Stat. 1712, related to collection and retention of cost information data on the conversion of services and functions of the Department of Defense to or from contractor performance, prior to repeal by Pub. L. 109–163, div. A, title III, §341(f), Jan. 6, 2006, 119 Stat. 3199.
 
 #### Amendments
 
-<b>2011</b>—Subsec. (d)(1). Pub. L. 111–383 struck out “under the National Security Personnel System, as established” before “pursuant to section 9902 of title 5”.
+<b>2011</b>—Subsec. (b)(1). Pub. L. 112–81, §938(1), added subpars. (A), (B), and (D), redesignated former subpars. (B), (C), and (D) as (C), (E), and (F), and struck out former subpar. (A) which read as follows: “has been performed by Department of Defense civilian employees at any time during the previous 10 years;”.
+
+Subsec. (d)(1). Pub. L. 111–383 struck out “under the National Security Personnel System, as established” before “pursuant to section 9902 of title 5”.
+
+Subsecs. (e), (f). Pub. L. 112–81, §938(3), added subsecs. (e) and (f). Former subsec. (e) redesignated (g).
+
+Subsec. (g). Pub. L. 112–81, §938(4), substituted “this section:” for “this section the term ‘functions closely associated with inherently governmental functions’ has the meaning given that term in section 2383(b)(3) of this title.” and added pars. (1) to (3).
+
+Pub. L. 112–81, §938(2), redesignated subsec. (e) as (g).
 
 #### Prohibition on Establishing Goals or Quotas for Conversion of Functions To Performance by Department of Defense Civilian Employees
 

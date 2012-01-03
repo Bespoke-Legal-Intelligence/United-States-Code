@@ -8,7 +8,7 @@
 
 (b) Regulations prescribed by the Secretary of Defense under this chapter shall be uniform for the Armed Forces under the jurisdiction of the Secretary of a military department.
 
-(c) Payment of educational assistance allowance in the case of an eligible individual pursuing a program of education under this chapter on less than a half-time basis shall be made in a lump-sum amount for the entire quarter, semester, or term not later than the last day of the month immediately following the month in which certification is received from the educational institution that such individual has enrolled in and is pursuing a program at such institution. Such lump-sum payment shall be computed at the rate determined under section 3032(b) of this title.
+(c) Payment of educational assistance allowance in the case of an eligible individual pursuing a program of education under this chapter on less than a half-time basis shall be made in a lump-sum amount for the entire quarter, semester, or term not later than the last day of the month immediately following the month inwhich certification is received from the educational institution that such individual has enrolled in and is pursuing a program at such institution. Such lump-sum payment shall be computed at the rate determined under section 3032(b) of this title.
 
 (d) The Secretary may approve the pursuit of flight training (in addition to a course of flight training that may be approved under section 3680A(b) of this title) by an individual entitled to basic educational assistance under this chapter if—
 
@@ -32,7 +32,7 @@
 
 <b>2011</b>—Subsec. (d)(3). Pub. L. 111–377 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “the flight school courses meet Federal Aviation Administration standards for such courses and are approved by the Federal Aviation Administration and the State approving agency.”
 
-<b>1998</b>—Subsec. (d)(2). Pub. L. 105–368, §204(a), substituted “pilot certificate” for “pilot's license” in twoplaces and inserted “, on the day the individual begins a course of flight training,” after “meets”.
+<b>1998</b>—Subsec. (d)(2). Pub. L. 105–368, §204(a), substituted “pilot certificate” for “pilot's license” in two places and inserted “, on the day the individual begins a course of flight training,” after “meets”.
 
 Subsec. (e). Pub. L. 105–368, §206(a), added subsec. (e).
 

@@ -76,11 +76,11 @@ A regulated entity that is classified as significantly undercapitalized in accor
 
 #### Amendments
 
-2008—Subsec. (a)(1). Pub. L. 110–289, §1144(3), substituted “A regulated entity” for “An enterprise”.
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–289, §1144(3), substituted “A regulated entity” for “An enterprise”.
 
 Subsec. (a)(2)(A). Pub. L. 110–289, §1144(1)–(3), substituted “A regulated entity” for “An enterprise” in two places, “the regulated entity” for “the enterprise”, and, in second sentence, “undercapitalized” for “undercapitalized enterprise”.
 
-Subsec. (a)(2)(B). Pub. L. 110–289, §1144(2), (4), substituted “a regulated entity” for “an enterprise” and “the regulated entity” for “the enterprise” wherever appearing.
+Subsec. (a)(2)(B). Pub. L. 110–289, §1144(2), (4), substituted “a regulated entity” for “an enterprise” and“the regulated entity” for “the enterprise” wherever appearing.
 
 Subsec. (b). Pub. L. 110–289, §1144(4), (5)(A), (B), substituted “Specific” for “Discretionary supervisory” in heading and “shall carry out this section by taking, at any time, 1 or more” for “may, at any time, take any” and “a regulated entity” for “an enterprise” in introductory provisions.
 

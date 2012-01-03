@@ -60,7 +60,7 @@ If an action is brought under subsection (a) or (b) with respect to a partnershi
 
 &emsp;&emsp;(B) the period within which any tax attributable to such partnership items may be assessed against that partner expired.
 
-> &emsp;Notwithstanding subparagraph (B), any person treated under subsection (c) as a party to anaction shall be permitted to participate in such action (or file a readjustment petition under subsection (b) or paragraph (2) of this subsection) solely for the purpose of asserting that the period of limitations for assessing any tax attributable to partnership items has expired with respect to such person, and the court having jurisdiction of such action shall have jurisdiction to consider such assertion.
+> &emsp;Notwithstanding subparagraph (B), any person treated under subsection (c) as a party to an action shall be permitted to participate in such action (or file a readjustment petition under subsection (b) or paragraph (2) of this subsection) solely for the purpose of asserting that the period of limitations for assessing any tax attributable to partnership items has expired with respect to such person, and the court having jurisdiction of such action shall have jurisdiction to consider such assertion.
 
 #### (2) To file petition
 
@@ -86,7 +86,7 @@ A court with which a petition is filed in accordance with this section shall hav
 
 #### (g) Determination of court reviewable
 
-Any determination by a court under this section shall have the force and effect of a decision of the Tax Court or a final judgment or decree of the district court or the Court of Federal Claims, as the case may be, and shall be reviewable as such. With respect to the partnership, only the tax matters partner, a notice partner, or a 5-percent group may seek review of a determination by a court under this section.
+Any determination by a court under this section shall have the force and effect of a decisionof the Tax Court or a final judgment or decree of the district court or the Court of Federal Claims, as the case may be, and shall be reviewable as such. With respect to the partnership, only the tax matters partner, a notice partner, or a 5-percent group may seek review of a determination by a court under this section.
 
 #### (h) Effect of decision dismissing action
 

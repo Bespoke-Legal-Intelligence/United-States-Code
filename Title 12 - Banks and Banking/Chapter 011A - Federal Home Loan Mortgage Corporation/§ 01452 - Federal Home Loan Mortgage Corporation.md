@@ -2,9 +2,9 @@
 
 #### (a) Creation; Board of Directors; policies; principal office; membership; term; vacancies
 
-(1) There is hereby created the Federal Home Loan Mortgage Corporation, which shall be a body corporate under the direction of a Board ofDirectors. Within the limitations of law and regulation, the Board of Directors shall determine the general policies that govern the operations of the Corporation. The principal office of the Corporation shall be in the District of Columbia or at any other place determined by the Corporation.
+(1) There is hereby created the Federal Home Loan Mortgage Corporation, which shall be a body corporate under the direction of a Board of Directors. Within the limitations of law and regulation, the Board of Directors shall determine the general policies that govern the operations of the Corporation. The principal office of the Corporation shall be in the District of Columbia or at any other place determined by the Corporation.
 
-(2)(A) The Board of Directors of the Corporation shall consist of 13 persons, or such other number as the Director determines appropriate, who shall be elected annually by the voting common stockholders. Except to the extent action under section 4636a of this title temporarily results in a lesser number, the Board of Directors shall at all times have as members at least 1 person from the homebuilding industry, at least 1 person from the mortgage lending industry, at least 1 person from the real estate industry, and at least 1 person from an organization that has represented consumer or community interests for not less than 2 years or 1 person who has demonstrated a career commitment to the provision of housing for low-income households.
+(2)(A) The Board of Directors of the Corporation shall consist of 13 persons, or such other number as the Director determines appropriate, who shall be elected annually by the voting common stockholders. Except to the extent action under section 4636a of this title temporarily results in a lesser number, the Board of Directors shall at all times have as members at least 1 person from the homebuilding industry, at least 1 person from the mortgage lending industry, at least 1 person from the real estate industry, and at least 1 person from an organization that has represented consumer or community interests for not less than 2 years or 1 personwho has demonstrated a career commitment to the provision of housing for low-income households.
 
 (B) Each member of the Board of Directors shall be elected for a term ending on the date of the next annual meeting of the voting common stockholders.
 
@@ -28,11 +28,11 @@ Funds of the Corporation may be invested in such investments as the Board of Dir
 
 #### (e) Exemption from Federal, State, and local taxation; exception; applicability of other provisions
 
-The Corporation, including its franchise, activities, capital, reserves, surplus, and income, shall be exempt from all taxation now or hereafter imposed by any territory, dependency, or possession of the United States or by any State, county, municipality, or local taxing authority, except that any real property of the Corporation shall be subject to State, territorial, county,municipal, or local taxation to the same extent according to its value as other real property is taxed.
+The Corporation, including its franchise, activities, capital, reserves, surplus, and income, shall be exempt from all taxation now or hereafter imposed by any territory, dependency, or possession of the United States or by any State, county, municipality, or local taxing authority, except that any real property of the Corporation shall be subject to State, territorial, county, municipal, or local taxation to the same extent according to its value as other real property is taxed.
 
 #### (f) Actions by and against the Corporation; jurisdiction; removal of actions; attachment or execution issued against the Corporation
 
-Notwithstanding section 1349 of title 28 or any other provision of law, (1) the Corporation shall be deemed to be an agency included in sections 1345 and 1442 of such title 28; (2) all civil actions to which the Corporation is a party shall be deemed to arise under the laws of the United States, and the district courts of the United States shall have original jurisdiction of all such actions, without regard to amount or value; and (3) any civil or other action, case or controversy in a court of a State, or in any court other than a district court of the United States, to which the Corporation is a party may at any time before the trial thereof be removed by the Corporation, without the giving of any bond or security, to the district court of the United States for the district and division embracing the place where the same is pending, or, if there is no such district court, to the district court of the United States for the district in which the principal office of the Corporation is located, by following any procedure for removal of causes in effect at the time of such removal.
+Notwithstanding section 1349 of title 28 or any other provision of law, (1) the Corporation shall be deemed to be an agency included in sections 1345 and 1442 of such title 28; (2) all civil actions to which the Corporation is a party shall be deemed to arise under the laws of the United States, and the district courts of the United States shall have original jurisdiction of all such actions, without regard to amount or value; and (3) any civil or other action, case or controversy in a court of a State, or in any court other than a district court of the United States, to which the Corporation is a party may at any time before the trial thereof be removedby the Corporation, without the giving of any bond or security, to the district court of the United States for the district and division embracing the place where the same is pending, or, if there is no such district court, to the district court of the United States for the district in which the principal office of the Corporation is located, by following any procedure for removal of causes in effect at the time of such removal.
 
 #### (g) Mortgages, obligations, or other securities sold by Corporation deemed lawful investments for security purposes
 
@@ -52,7 +52,7 @@ All mortgages, obligations, or other securities which are or have been sold by t
 
 #### Amendments
 
-2008—Subsec. (a)(2)(A). Pub. L. 110–289, §1162(b)(1)(A), substituted “13 persons, or such other number as the Director determines appropriate, who” for “18 persons, 5 of whom shall be appointed annually by the President of the United States and the remainder of whom” in first sentence and struck out “appointed by the President of the United States” after “as members” in second sentence.
+<b>2008</b>—Subsec. (a)(2)(A). Pub. L. 110–289, §1162(b)(1)(A), substituted “13 persons, or such other number as the Director determines appropriate, who” for “18 persons, 5 of whom shall be appointed annually by the President of the United States and the remainder of whom” in first sentence and struck out “appointed by the President of the United States” after “as members” in second sentence.
 
 Pub. L. 110–289, §1153(b)(3), substituted “Except to the extent action under section 4636a of this title temporarily results in a lesser number, the” for “The” in second sentence.
 
@@ -64,7 +64,7 @@ Subsecs. (b)(2), (h)(2). Pub. L. 110–289, §1161(c)(1), substituted “Directo
 
 Subsec. (h)(4). Pub. L. 110–289, §1113(b)(2), added par. (4).
 
-1992—Subsec. (a)(2)(A). Pub. L. 102–550, §1382(c)(1), in second sentence, struck out “and” after “mortgagelending industry,” and inserted before period “, and at least 1 person from an organization that has represented consumer or community interests for not less than 2 years or 1 person who has demonstrated a career commitment to the provision of housing for low-income households”.
+<b>1992</b>—Subsec. (a)(2)(A). Pub. L. 102–550, §1382(c)(1), in second sentence, struck out “and” after “mortgage lending industry,” and inserted before period “, and at least 1 person from an organization that has represented consumer or community interests for not less than 2 years or 1 person who has demonstrated a career commitment to the provision of housing for low-income households”.
 
 Subsec. (a)(2)(B). Pub. L. 102–550, §1382(d), inserted before period at end “, except that any appointed member may be removed from office by the President for good cause”.
 
@@ -76,13 +76,13 @@ Subsec. (f). Pub. L. 102–550, §1382(h), struck out at end “No attachment or
 
 Subsec. (h). Pub. L. 102–550, §1382(f)(2), added subsec. (h).
 
-1989—Subsec. (a). Pub. L. 101–73, §731(b)(1), amended subsec. (a) generally, reorganizing provisions into pars. (1) and (2), and substituting provisions setting forth general policies as governing Board, membership requirements and vacancies, for provisions setting forth status of members, liabilities, and conditions and limitations.
+<b>1989</b>—Subsec. (a). Pub. L. 101–73, §731(b)(1), amended subsec. (a) generally, reorganizing provisions into pars. (1) and (2), and substituting provisions setting forth general policies as governing Board, membership requirements and vacancies, for provisions setting forth status of members, liabilities, and conditions and limitations.
 
 Subsecs. (b) to (g). Pub. L. 101–73, §731(c), added subsec. (b) and redesignated former subsecs. (b) to (f) as (c) to (g), respectively.
 
-1984—Subsec. (d). Pub. L. 98–369 struck out “by the United States,” before “by any territory”, substituted “possession of the United States” for “possession thereof,” and struck out “The provisions of this subsection shall be applicable without regard to any other law, including without limitation on the generality of the foregoing section 3301 of title 26, except laws hereafter enacted by Congress expressly in limitation of this subsection.”
+<b>1984</b>—Subsec. (d). Pub. L. 98–369 struck out “by the United States,” before “by any territory”, substituted “possession of the United States” for “possession thereof,” and struck out “The provisions of this subsection shall be applicable without regard to any other law, including without limitation on the generality of the foregoing section 3301 of title 26, except laws hereafter enacted by Congress expressly in limitation of this subsection.”
 
-1979—Subsec. (f). Pub. L. 96–153 added subsec. (f).
+<b>1979</b>—Subsec. (f). Pub. L. 96–153 added subsec. (f).
 
 #### Change of Name
 

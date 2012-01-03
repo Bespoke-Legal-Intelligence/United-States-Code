@@ -4,7 +4,7 @@ The National Transportation Safety Board shall submit a report to Congress on Ju
 
 &emsp;(1) a statistical and analytical summary of the transportation accident investigations conducted and reviewed by the Board during the prior calendar year;
 
-&emsp;(2) a survey and summary of the recommendations made by the Board to reduce thelikelihood of recurrence of those accidents together with the observed response to each recommendation;
+&emsp;(2) a survey and summary of the recommendations made by the Board to reduce the likelihood of recurrence of those accidents together with the observed response to each recommendation;
 
 &emsp;(3) a detailed appraisal of the accident investigation and accident prevention activities of other departments, agencies, and instrumentalities of the United States Government and State and local governmental authorities having responsibility for those activities under a law of the United States or a State;
 

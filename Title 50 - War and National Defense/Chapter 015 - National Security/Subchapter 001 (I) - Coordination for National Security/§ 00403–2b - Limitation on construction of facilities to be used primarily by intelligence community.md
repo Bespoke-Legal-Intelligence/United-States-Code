@@ -32,7 +32,7 @@
 
 #### (3) Projects primarily for CIA
 
-&emsp;If a project referred to in paragraph (1) is primarily for the Central Intelligence Agency, the Director of the Central Intelligence Agency shall make the determination and submit the report required by paragraphs (1) and (2).
+&emsp;If a project referred to in paragraph (1) is primarily for the Central Intelligence Agency,the Director of the Central Intelligence Agency shall make the determination and submit the report required by paragraphs (1) and (2).
 
 #### (4) Limitation
 

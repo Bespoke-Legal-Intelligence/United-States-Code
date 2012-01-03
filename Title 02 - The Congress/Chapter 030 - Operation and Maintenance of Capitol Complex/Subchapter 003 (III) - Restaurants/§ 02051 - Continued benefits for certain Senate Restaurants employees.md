@@ -30,7 +30,7 @@ In this section:
 
 #### (4) Transfer date
 
-&emsp;The term “transfer date” means the date on which a contractor begins the performance of food services operations under a food services contract.
+&emsp;The term “transfer date” means the date on which a contractor begins the performance offood services operations under a food services contract.
 
 #### (b) Election of coverage
 
@@ -279,4 +279,6 @@ The Congressional Accountability Act of 1995, referred to in subsec. (g)(3), is 
 #### Codification
 
 Section is comprised of section 1 of Pub. L. 110–279. Subsec. (c)(4)(C) of section 1 of Pub. L. 110–279 repealed section 2048 of this title. Subsec. (g)(1), (2) of section 1 of Pub. L. 110–279 amended sections 1301 and 1331 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -138,7 +138,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 The Act of July 22, 1937, referred to in par. (7)(A), is act July 22, 1937, ch. 517, 50 Stat. 522, known as the Bankhead-Jones Farm Tenant Act, which is classified generally to chapter 33 (§1000 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1000 of Title 7 and Tables.
 
-Act of August 28, 1937, referred to in par. (10), is act Aug. 28, 1937, ch. 876, 50 Stat. 874. Section 3 of the Actwas classified to section 1181c of Title 43, Public Lands, prior to repeal by Pub. L. 94–579, title VII, §702, Oct. 21, 1976, 90 Stat. 2787. Title II of the Act enacted section 1181f of Title 43 and repealed section 1174 of Title 43. For complete classification of this Act to the Code, see Tables.
+Act of August 28, 1937, referred to in par. (10), is act Aug. 28, 1937, ch. 876, 50 Stat. 874. Section 3 of the Act was classified to section 1181c of Title 43, Public Lands, prior to repeal by Pub. L. 94–579, title VII, §702, Oct. 21, 1976, 90 Stat. 2787. Title II of the Act enacted section 1181f of Title 43 and repealed section 1174 of Title 43. For complete classification of this Act to the Code, see Tables.
 
 The Act of May 24, 1939, referred to in par. (10), is act May 24, 1939, ch. 144, 53 Stat. 753, which enacted sections 1181f–1 to 1181f–4 of Title 43, Public Lands, and provisions set out as a note under section 1181f–1 of Title 43. For complete classification of this Act to the Code, see Tables.
 

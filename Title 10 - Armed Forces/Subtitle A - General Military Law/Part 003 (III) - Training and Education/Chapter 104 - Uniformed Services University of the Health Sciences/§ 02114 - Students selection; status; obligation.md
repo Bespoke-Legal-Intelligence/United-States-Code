@@ -102,7 +102,7 @@ Subsec. (f). Pub. L. 101–510, §533(b)(3), added subsec. (f).
 
 <b>1980</b>—Subsec. (b). Pub. L. 96–513, §511(65), substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare” wherever appearing.
 
-Pub. L. 96–513, §114, struck out provision under which officers attending the Uniformed Services University ofHealth Sciences were not counted against authorized military strengths.
+Pub. L. 96–513, §114, struck out provision under which officers attending the Uniformed Services University of Health Sciences were not counted against authorized military strengths.
 
 <b>1979</b>—Subsec. (b). Pub. L. 96–107 substituted “uniformed” for “uniform”.
 

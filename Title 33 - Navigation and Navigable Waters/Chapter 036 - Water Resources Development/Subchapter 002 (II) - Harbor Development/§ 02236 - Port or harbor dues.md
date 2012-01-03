@@ -10,13 +10,13 @@ Subject to the following conditions, a non-Federal interest may levy port or har
 
 &emsp;&emsp;(A)(i) to finance the non-Federal share of construction and operation and maintenance costs of a navigation project for a harbor under the requirements of section 2211 of this title; or
 
-&emsp;&emsp;(ii) to finance the cost of construction and operation and maintenance of a navigation project for a harbor under section 2232 or 2233 of this title; and
+&emsp;&emsp;(ii) to finance the cost of construction and operation and maintenance of a navigationproject for a harbor under section 2232 or 2233 of this title; and
 
 &emsp;&emsp;(B) provide emergency response services in the harbor, including contingency planning, necessary personnel training, and the procurement of equipment and facilities.
 
 #### (2) Limitation on port or harbor dues for emergency service
 
-&emsp;Port or harbor dues may not be levied for the purposes described in paragraph (1)(B) ofthis subsection after the dues cease to be levied for the purposes described in paragraph (1)(A) of this subsection.
+&emsp;Port or harbor dues may not be levied for the purposes described in paragraph (1)(B) of this subsection after the dues cease to be levied for the purposes described in paragraph (1)(A) of this subsection.
 
 #### (3) General limitations
 
@@ -84,7 +84,7 @@ Subject to the following conditions, a non-Federal interest may levy port or har
 
 (1) The district court of the United States for the district in which is located a non-Federal interest that levies port or harbor dues under this section has original and exclusive jurisdiction over any matter arising out of or concerning, the imposition, computation, collection, and enforcement of port or harbor dues by a non-Federal interest under this section.
 
-(2) Any person who suffers legal wrong or is adversely affected or aggrieved by the imposition by a non-Federal interest of a proposed scheme or schedule of port or harbor dues under this section may, not later than 180 days after the date of hearing under subsection\(a)(5)(A)(iii) of this section, commence an action to seek judicial review of that proposed scheme or schedule in the appropriate district court under paragraph (1).
+(2) Any person who suffers legal wrong or is adversely affected or aggrieved by the imposition by a non-Federal interest of a proposed scheme or schedule of port or harbor dues under this section may, not later than 180 days after the date of hearing under subsection (a)(5)(A)(iii) of this section, commence an action to seek judicial review of that proposed scheme or schedule in the appropriate district court under paragraph (1).
 
 (3) On petition of the Attorney General or any other party, that district court may—
 

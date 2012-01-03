@@ -14,7 +14,7 @@ Section was formerly classified to section 342c of Title 5 prior to the general 
 
 #### Amendments
 
-1952—Act June 27, 1952, substituted “immigration officers” for “inspectors”.
+<b>1952</b>—Act June 27, 1952, substituted “immigration officers” for “inspectors”.
 
 #### Transfer of Functions
 

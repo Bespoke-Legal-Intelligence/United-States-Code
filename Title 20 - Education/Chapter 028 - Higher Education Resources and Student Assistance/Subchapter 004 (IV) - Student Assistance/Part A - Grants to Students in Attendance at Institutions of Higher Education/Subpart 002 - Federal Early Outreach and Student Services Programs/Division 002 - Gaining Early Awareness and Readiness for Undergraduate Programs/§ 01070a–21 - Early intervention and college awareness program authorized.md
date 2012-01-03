@@ -84,7 +84,7 @@ Subsec. (c)(2). Pub. L. 110–315, §404(a)(3), added par. (2) and struck out fo
 
 &emsp;“(B) one or more degree granting institutions of higher education; and
 
-&emsp;“(C) at least two community organizations or entities, such as businesses, professional associations, community-based organizations, philanthropic organizations, State agencies, institutions or agencies sponsoring programs authorized under subpart 4 of this part, or other public or private agencies or organizations.”
+&emsp;“(C) at least two community organizations or entities, such as businesses, professional associations,community-based organizations, philanthropic organizations, State agencies, institutions or agencies sponsoring programs authorized under subpart 4 of this part, or other public or private agencies or organizations.”
 
 #### Effective Date
 

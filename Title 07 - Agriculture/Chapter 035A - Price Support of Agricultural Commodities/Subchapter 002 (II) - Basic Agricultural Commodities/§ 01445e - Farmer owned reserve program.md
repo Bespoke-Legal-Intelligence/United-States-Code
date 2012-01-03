@@ -138,7 +138,7 @@ Notwithstanding any other provision of law, this section shall become effective 
 
 #### Amendments
 
-1991—Subsec. (k). Pub. L. 102–237, §113(7)(C)(i), redesignated subsec. (k), relating to review, as (<i>o</i>).
+<b>1991</b>—Subsec. (k). Pub. L. 102–237, §113(7)(C)(i), redesignated subsec. (k), relating to review, as (<i>o</i>).
 
 Subsec. (n). Pub. L. 102–237, §113(7)(A), substituted “November 28, 1990” for “the date of enactment of this section”.
 
@@ -148,23 +148,23 @@ Pub. L. 102–237, §113(7)(B), redesignated subsec. (<i>o</i>) as (p).
 
 Subsec. (p). Pub. L. 102–237, §113(7)(B), redesignated subsec. (<i>o</i>) as (p).
 
-1990—Pub. L. 101–624, §1123, amended section generally, substituting provisions relating to the farmer owned reserve program for provisions relating to the establishment and maintenance of the producer reserve program for wheat and feed grains.
+<b>1990</b>—Pub. L. 101–624, §1123, amended section generally, substituting provisions relating to the farmer owned reserve program for provisions relating to the establishment and maintenance of the producer reserve program for wheat and feed grains.
 
 Subsec. (k). Pub. L. 101–624, §2010, added subsec. (k) relating to review.
 
-1988—Subsec. (j). Pub. L. 100–387 temporarily added subsec. (j). See Effective and Termination Dates of 1988 Amendment note.
+<b>1988</b>—Subsec. (j). Pub. L. 100–387 temporarily added subsec. (j). See Effective and Termination Dates of 1988 Amendment note.
 
-1987—Subsec. (b)(A)(i). Pub. L. 100–203, §1108(1), substituted “300 million bushels” for “17 percent of the estimated total domestic and export usage of wheat during the then current marketing year for wheat, as determined by the Secretary”.
+<b>1987</b>—Subsec. (b)(A)(i). Pub. L. 100–203, §1108(1), substituted “300 million bushels” for “17 percent of the estimated total domestic and export usage of wheat during the then current marketing year for wheat, as determined by the Secretary”.
 
 Subsec. (b)(A)(ii). Pub. L. 100–203, §1108(2), substituted “450 million bushels” for “7 percent of the estimated total domestic and export usage of feed grains during the then current marketing year for feed grains, as determined by the Secretary”.
 
-1985—Subsec. (a). Pub. L. 99–198 in first sentence substituted “abundant supply, extend” for “abundant supply and extend” and inserted “, and provide for adequate, but not excessive, carryover stocks to ensure a reliable supply of the commodities” after “for their orderly marketing”.
+<b>1985</b>—Subsec. (a). Pub. L. 99–198 in first sentence substituted “abundant supply, extend” for “abundant supply and extend” and inserted “, and provide for adequate, but not excessive, carryover stocks to ensure a reliable supply of the commodities” after “for their orderly marketing”.
 
-Subsec. (b). Pub. L. 99–198 in third sentence substituted “, with extensions as warranted by market conditions” for “nor more than five years” in cl. (1), substituted “when the total amount of wheat or feed grains in storage under programs under this section is below the upper limits for such storage as set forth in clauses (A) and (B) of subsection (e)(2) of this section and the market price for wheat or feed grains is below” for “before the market price for wheat or feed grains has reached” in cl. (4), substituted “the higher of 140 percent of the nonrecourse loan rate for the commodity or the established price for such commodity, as determined under this subchapter” for “a specified level, as determined by the Secretary” in cl. (5), and at end inserted provisions requiring Secretary to encourage participation in the programs authorized under this section by offering producers increased storage payments and loan levels, interest waivers, or such other incentives as the Secretary determines necessary to maintain total amount of storage at specified levels, whenever the total quantity of wheat and feed grains stored under this section is less than 17 and 7 percent, respectively, of the estimated total usage thereof during the then current marketing year, and the marketing price does not exceed 140 percent of the nonrecourse loan rate for the commodity, and inserted provision requiring Secretary to ensure than producers are afforded a fair and equitable opportunity to participate in each producer storage program.
+Subsec. (b). Pub. L. 99–198 in third sentence substituted “, with extensions as warranted by market conditions” for “nor more than five years” in cl. (1), substituted “when the total amount of wheat or feed grains in storage under programs under this section is below the upper limits for such storage as set forth in clauses (A) and (B) of subsection (e)(2) of this section and the market price for wheat or feed grains is below” for “before the market price for wheat or feed grains has reached” in cl. (4), substituted “the higher of 140 percent of the nonrecourse loan rate for the commodityor the established price for such commodity, as determined under this subchapter” for “a specified level, as determined by the Secretary” in cl. (5), and at end inserted provisions requiring Secretary to encourage participation in the programs authorized under this section by offering producers increased storage payments and loan levels, interest waivers, or such other incentives as the Secretary determines necessary to maintain total amount of storage at specified levels, whenever the total quantity of wheat and feed grains stored under this section is less than 17 and 7 percent, respectively, of the estimated total usage thereof during the then current marketing year, and the marketing price does not exceed 140 percent of the nonrecourse loan rate for the commodity, and inserted provision requiring Secretary to ensure than producers are afforded a fair and equitable opportunity to participate in each producer storage program.
 
 Subsec. (e). Pub. L. 99–198 designated existing provisions as par. (1), inserted “, subject to the upper limits on the total quantity of wheat and feed grains that may be stored under storage programs established under this section set out in paragraph (2)” in second sentence, struck out third sentence which authorized the Secretary to place an upper limit of not less than seven hundred million bushels for wheat and one billion bushels for feed grains placed in the reserve, and added par. (2).
 
-1981—Subsec. (a). Pub. L. 97–98 struck out discretionary authority of Secretary with regard to permitting producers of feed grains to store wheat and feed grains.
+<b>1981</b>—Subsec. (a). Pub. L. 97–98 struck out discretionary authority of Secretary with regard to permitting producers of feed grains to store wheat and feed grains.
 
 Subsec. (b). Pub. L. 97–98 substituted “Secretary shall provide” for “Secretary may provide”, struck out “at the same level of support as provided by this Act” after “loans for wheat and feed grains”, and substituted provisions that loans be made at such levels of support as Secretary determines appropriate, except that the loan rate not be less than the then current level of support under the wheat and feed grains programs established under this subchapter for provisions relating to the level of price support loans to be made available to producers for the 1980 and 1981 crops of wheat and feed grains necessary to mitigate the adverse effects of the restrictions on the export of agricultural products to the Union of Soviet Socialist Republics and providing that the level of price support loans for the 1980 and 1981 crops of wheat and feed grains not be used in determining the levels at which producers repay loans and redeem commodities prior to the maturity dates of the loans or levels at which Secretary may call for the repayment of loans prior to their maturity dates and “program may provide” for “program shall provide”.
 
@@ -192,7 +192,7 @@ Subsec. (h). Pub. L. 97–98 redesignated former subsec. (g) as (h). Former subs
 
 Subsec. (i). Pub. L. 97–98 redesignated former subsec. (h) as (i) and substituted “To the maximum extent” for “In addition, to the maximum extent”.
 
-1980—Subsec. (b). Pub. L. 96–494, §203(a)(1), inserted two provisos in provisions permitting Secretary to provide original or extended price support loans for wheat and feed grains at the same level of support as provided by this Act, in carrying out the producer storage program, under terms and conditions designed to encourage producers to store wheat and feed grains for extended periods of time to promote orderly marketing when wheat or feed grains are in abundant supply.
+<b>1980</b>—Subsec. (b). Pub. L. 96–494, §203(a)(1), inserted two provisos in provisions permitting Secretary to provide original or extended price support loans for wheat and feed grains at the same level of support as provided by this Act, in carrying out the producer storage program, under terms and conditions designed to encourage producers to store wheat and feed grains for extended periods of time to promote orderly marketing when wheat or feed grains are in abundant supply.
 
 Subsec. (b)(3). Pub. L. 96–494, §203(a)(2), inserted provisions requiring Secretary to waive interest on loans made on the 1980 and 1981 crops of wheat and feed grains.
 
@@ -206,7 +206,7 @@ Subsec. (e). Pub. L. 96–494, §205(1), (2), substituted “except as otherwise
 
 Pub. L. 96–234, §1(1), (2), redesignated former subsec. (d) as (e) and added cl. (3). Former subsec. (e) redesignated (f).
 
-Subsec. (e)(3). Pub. L. 96–494, §205(3), in provisions preceding subpar. (A), substituted “sales of corn” for “sales of corn when sold at not less than the releaselevel under the extended loan program”, and inserted “when sold at not less than the price at which producers may repay producer storage loans and redeem corn prior to the maturity dates of loans, as determined under clause (5) of the second sentence of subsection (b) of this section, or, whenever the fuel conversion price (as defined in section 4005 of this title) for corn exceeds such price, at not less than the fuel conversion price”.
+Subsec. (e)(3). Pub. L. 96–494, §205(3), in provisions preceding subpar. (A), substituted “sales of corn” for “sales of corn when sold at not less than the release level under the extended loan program”, and inserted “when sold at not less than the price at which producers may repay producer storage loans and redeem corn prior to the maturity dates of loans, as determined under clause (5) of the second sentence of subsection (b) of this section, or, whenever the fuel conversion price (as defined in section 4005 of this title) for corn exceeds such price, at not less than the fuel conversion price”.
 
 Subsecs. (f) to (h). Pub. L. 96–234, §1(1), redesignated former subsecs. (e) to (g) as (f) to (h), respectively.
 

@@ -20,7 +20,7 @@
 
 #### (2) Procedures
 
-&emsp;The provisions of section 1320a–7a of this title (other than subsections (a) and (b) andthe second sentence of subsection (f)) shall apply to the imposition of a civil money penalty under this subsection in the same manner as such provisions apply to the imposition of a penalty under such section 1320a–7a of this title.
+&emsp;The provisions of section 1320a–7a of this title (other than subsections (a) and (b) and the second sentence of subsection (f)) shall apply to the imposition of a civil money penalty under this subsection in the same manner as such provisions apply to the imposition of a penalty under such section 1320a–7a of this title.
 
 #### (3) Tiers of penalties described
 
@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(A) the amount described in this subparagraph is $100 for each such violation, except that the total amount imposed on the person for all such violations of an identical requirement or prohibition during a calendar year may not exceed $25,000;
 
-&emsp;&emsp;(B) the amount described in this subparagraph is $1,000 for each such violation, except that the total amount imposed on the person for all such violations of an identical requirement or prohibition during a calendar year may not exceed $100,000;
+&emsp;&emsp;(B) the amount described in this subparagraph is $1,000 for each such violation, except that the total amount imposed on the person for all such violations of an identicalrequirement or prohibition during a calendar year may not exceed $100,000;
 
 &emsp;&emsp;(C) the amount described in this subparagraph is $10,000 for each such violation, except that the total amount imposed on the person for all such violations of an identical requirement or prohibition during a calendar year may not exceed $250,000; and
 
@@ -92,7 +92,7 @@
 
 #### (C) Reduction of damages
 
-&emsp;&emsp;In assessing damages under subparagraph (A), the court may consider the factors theSecretary may consider in determining the amount of a civil money penalty under subsection (a) under the HIPAA privacy regulations.
+&emsp;&emsp;In assessing damages under subparagraph (A), the court may consider the factors the Secretary may consider in determining the amount of a civil money penalty under subsection (a) under the HIPAA privacy regulations.
 
 #### (3) Attorney fees
 
@@ -180,7 +180,7 @@ Subsec. (e). Pub. L. 111–5, §13410(f), added subsec. (e).
 
 #### Effective Date of 2009 Amendment
 
-Amendment by Pub. L. 111–5 effective 12 months after Feb. 17, 2009, except as otherwise specifically provided,see section 13423 of Pub. L. 111–5, set out as an Effective Date note under section 17931 of this title.
+Amendment by Pub. L. 111–5 effective 12 months after Feb. 17, 2009, except as otherwise specifically provided, see section 13423 of Pub. L. 111–5, set out as an Effective Date note under section 17931 of this title.
 
 Amendment by section 13410(a)(1) of Pub. L. 111–5 applicable to penalties imposed on or after the date that is 24 months after Feb. 17, 2009, see section 17939(b)(1) of this title.
 

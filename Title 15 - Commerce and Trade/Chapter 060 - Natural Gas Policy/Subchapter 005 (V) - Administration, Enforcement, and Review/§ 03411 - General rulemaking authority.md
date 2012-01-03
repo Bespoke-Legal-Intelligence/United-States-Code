@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Except where expressly provided otherwise, the Commission shall administer this chapter. The Commission, or any other Federal officer or agency in which any function under this chapter is vested or delegated, is authorized to perform any and all acts (including any appropriate enforcement activity), and to prescribe, issue, amend, and rescind such rules and orders as it may find necessary or appropriate to carry out its functions under this chapter.
+Except where expressly provided otherwise, the Commission shall administer this chapter. The Commission, or any other Federal officer or agency in which any function under this chapter is vested or delegated, is authorized to performany and all acts (including any appropriate enforcement activity), and to prescribe, issue, amend, and rescind such rules and orders as it may find necessary or appropriate to carry out its functions under this chapter.
 
 #### (b) Authority to define terms
 

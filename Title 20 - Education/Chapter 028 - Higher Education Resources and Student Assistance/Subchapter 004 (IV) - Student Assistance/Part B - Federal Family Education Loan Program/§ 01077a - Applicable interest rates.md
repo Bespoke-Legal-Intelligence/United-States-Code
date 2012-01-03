@@ -146,7 +146,7 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any loa
 
 #### (2) Interest rates for new PLUS loans after July 1, 1998
 
-&emsp;Notwithstanding subsections (a), (b), (d), (e), (f), and (g) of this section, with respect to any loan made under section 1078–2 of this title for which the first disbursement is made on or after July 1, 1998, paragraph (1) shall be applied—
+&emsp;Notwithstanding subsections (a), (b), (d), (e), (f), and (g) of this section, with respect to anyloan made under section 1078–2 of this title for which the first disbursement is made on or after July 1, 1998, paragraph (1) shall be applied—
 
 &emsp;&emsp;(A) by substituting “2.1 percent” for “1.0 percent” in subparagraph (B); and
 
@@ -222,7 +222,7 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any loa
 
 #### (1) In general
 
-&emsp;Notwithstanding subsection (h) of this section, but subject to paragraph (2), with respectto any loan made, insured, or guaranteed under this part (other than a loan made pursuant to section 1078–2 or 1078–3 of this title) for which the first disbursement is made on or after July 1, 1998, and before October 1, 1998, the applicable rate of interest shall, during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to—
+&emsp;Notwithstanding subsection (h) of this section, but subject to paragraph (2), with respect to any loan made, insured, or guaranteed under this part (other than a loan made pursuant to section 1078–2 or 1078–3 of this title) for which the first disbursement is made on or after July 1, 1998, and before October 1, 1998, the applicable rate of interest shall, during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to—
 
 &emsp;&emsp;(A) the bond equivalent rate of 91-day Treasury bills auctioned at the final auction held prior to such June 1; plus
 
@@ -300,7 +300,7 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any loa
 
 #### (1) In general
 
-&emsp;Notwithstanding subsection (h) of this section, with respect to any loan made, insured, or guaranteed under this part (other than a loan made pursuant to section 1078–2 or 1078–3 of this title) for which the first disbursement is made on or after July 1, 2006, and before July 1, 2010, the applicable rate of interestshall be 6.8 percent on the unpaid principal balance of the loan.
+&emsp;Notwithstanding subsection (h) of this section, with respect to any loan made, insured, or guaranteed under this part (other than a loan made pursuant to section 1078–2 or 1078–3 of this title) for which the first disbursement is made on or after July 1, 2006, and before July 1, 2010, the applicable rate of interest shall be 6.8 percent on the unpaid principal balance of the loan.
 
 #### (2) PLUS loans
 
@@ -424,7 +424,7 @@ Subsecs. (f) to (h). Pub. L. 102–325, §415(c)(1), redesignated subsecs. (e) t
 
 <b>1987</b>—Subsec. (c)(4)(A). Pub. L. 100–50, §10(d)(1)(A), (B), substituted “and disbursed on or after July 1, 1987” for “to cover the cost of instruction for any period of enrollment beginning on or after July 1, 1987” and “any 12-month period beginning on or after July 1 and ending on June 30” for “any calendar year”.
 
-Subsec. (c)(4)(B). Pub. L. 100–50, §10(d)(1)(C), added subpar. (B) and struck out former subpar. (B) which read as follows: “For any calendar year, the rate determined under this subparagraph is determined on December 15 preceding such calendar year and is equal to—
+Subsec. (c)(4)(B). Pub. L. 100–50, §10(d)(1)(C), added subpar. (B) and struck out former subpar. (B) whichread as follows: “For any calendar year, the rate determined under this subparagraph is determined on December 15 preceding such calendar year and is equal to—
 
 &emsp;“(i) the average of the bond equivalent rates of 91-day Treasury bills auctioned during the 12 months ending on November 30 preceding such calendar year; plus
 

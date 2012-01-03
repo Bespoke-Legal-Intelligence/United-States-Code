@@ -16,7 +16,7 @@ The Administrator shall implement programs and activities—
 
 #### (c) Report
 
-No later than 12 months after January 4, 2011, the Administrator, in consultation with the National Science Foundation or other such agencies with mature transformational research portfolios, shall develop and submit a report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Science and Technology that describes NOAA's strategy for enhancing transformational research in its research and development portfolio to increase United States competitiveness in oceanic and atmospheric science and technology. The report shall—
+No later than 12 months after January 4, 2011, the Administrator, in consultation with the National Science Foundation or other such agencies with mature transformational research portfolios, shall develop and submit a report to the Senate Committee on Commerce, Science,and Transportation and the House of Representatives Committee on Science and Technology that describes NOAA's strategy for enhancing transformational research in its research and development portfolio to increase United States competitiveness in oceanic and atmospheric science and technology. The report shall—
 
 &emsp;(1) define “transformational research”;
 
@@ -33,6 +33,10 @@ No later than 12 months after January 4, 2011, the Administrator, in consultatio
 #### Amendments
 
 <b>2011</b>—Pub. L. 111–358 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
+
+#### Change of Name
+
+Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

@@ -6,7 +6,7 @@ The Secretary shall by regulations establish the rates and conditions under whic
 
 &emsp;(1) fees and mileage to persons who are summoned to appear before the Secretary, and
 
-&emsp;(2) reimbursement for such costs that are reasonably necessary which have been directly incurred in searching for, reproducing, ortransporting books, papers, records, or other data required to be produced by summons.
+&emsp;(2) reimbursement for such costs that are reasonably necessary which have been directly incurred in searching for, reproducing, or transporting books, papers, records, or other data required to be produced by summons.
 
 #### (b) Exceptions
 

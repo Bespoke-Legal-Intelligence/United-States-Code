@@ -44,5 +44,5 @@ The financial statements of the Fund shall be audited in accordance with section
 
 #### Amendments
 
-2008—Subsec. (e). Pub. L. 110–289 substituted “Federal Housing Finance Agency” for “Federal Housing Finance Board”.
+<b>2008</b>—Subsec. (e). Pub. L. 110–289 substituted “Federal Housing Finance Agency” for “Federal Housing Finance Board”.
 

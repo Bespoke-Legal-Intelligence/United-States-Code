@@ -18,7 +18,7 @@ Administration of Grant Funds.—The Secretary shall establish an account for ad
 
 (e)
 
-Related Expenses.—Subject to such limitations as may be provided in appropriations Acts, appropriations available for the Naval Postgraduate School may be used to pay expenses incurred by the School in applying for, and otherwise pursuing, the award of qualifying research grants.
+Related Expenses.—Subject to such limitations as may be provided in appropriationsActs, appropriations available for the Naval Postgraduate School may be used to pay expenses incurred by the School in applying for, and otherwise pursuing, the award of qualifying research grants.
 
 (f)
 

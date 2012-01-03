@@ -2,7 +2,7 @@
 
 #### (a) Words “sterling” or “coin” forbidden
 
-In the case of articles of merchandise made in whole or in part of an inferior metal, having deposited or plated thereon or brazed or otherwise affixed thereto a plating, covering, or sheet composed of gold or silver, or of an alloy of either of said metals, and known in the market as rolled gold plate, gold plate, gold filled, silver plate, or gold or silver electroplate, or by any similar designation, so imported into or exported from the United States, or so deposited in the United States mails for transmission, or so delivered to any common carrier, or so transported or caused to be transported as specified in section 294 of this title, no such article, nor any tag, card, or label attached thereto, nor any box, package, cover, or wrapper in which such article is encased or inclosed, shall be stamped, branded, engraved, or imprinted with any word or mark usually employed to indicate the fineness of gold, unless such word or mark be accompanied by other words, plainly indicating that such article or part thereof is made of rolled gold plate, gold plate, or gold electroplate, or is gold filled, as the case may be, and no such article, nor any tag, card, or label attached thereto, nor any box, package, cover, or wrapper in which such article is incased or inclosed, shall be stamped, branded, engraved, orimprinted with the word “sterling” or the word “coin”, either alone or in conjunction with other words or marks.
+In the case of articles of merchandise made in whole or in part of an inferior metal, having deposited or plated thereon or brazed or otherwise affixed thereto a plating, covering, or sheet composed of gold or silver, or of an alloy of either of said metals, and known in the market asrolled gold plate, gold plate, gold filled, silver plate, or gold or silver electroplate, or by any similar designation, so imported into or exported from the United States, or so deposited in the United States mails for transmission, or so delivered to any common carrier, or so transported or caused to be transported as specified in section 294 of this title, no such article, nor any tag, card, or label attached thereto, nor any box, package, cover, or wrapper in which such article is encased or inclosed, shall be stamped, branded, engraved, or imprinted with any word or mark usually employed to indicate the fineness of gold, unless such word or mark be accompanied by other words, plainly indicating that such article or part thereof is made of rolled gold plate, gold plate, or gold electroplate, or is gold filled, as the case may be, and no such article, nor any tag, card, or label attached thereto, nor any box, package, cover, or wrapper in which such article is incased or inclosed, shall be stamped, branded, engraved, or imprinted with the word “sterling” or the word “coin”, either alone or in conjunction with other words or marks.
 
 #### (b) Identifying trademark
 
@@ -34,17 +34,17 @@ The effective date of this Act, referred to in subsec. (b), as the first day of 
 
 #### Effective Date of 1970 Amendment
 
-Section 4 of Pub. L. 91–366 provided that: “This Act \[amending this section and sections 298 and 299 of this title and enacting provisions set out below\] shall take effect three months after enactment \[July 31, 1970\].”
+Pub. L. 91–366, §4, July 31, 1970, 84 Stat. 691, provided that: “This Act \[amending this section and sections 298 and 299 of this title and enacting provisions set out below\] shall take effect three months after enactment \[July 31, 1970\].”
 
 #### Effective Date of 1961 Amendment
 
-Section 2 of Pub. L. 87–354 provided that: “The amendments made by this Act \[amending this section\] shall take effect on the first day of the third month beginning after the date of enactment of this Act \[Oct. 4, 1961\].”
+Pub. L. 87–354, §2, Oct. 4, 1961, 75 Stat. 776, provided that: “The amendments made by this Act \[amending this section\] shall take effect on the first day of the third month beginning after the date of enactment of this Act \[Oct. 4, 1961\].”
 
 #### Separability
 
-Section 2 of Pub. L. 91–366 provided that: “If any provision of this Act \[see Effective Date of 1970 Amendment note above\] or any amendment made thereby, or the application thereof to any person, as that term is herein defined, is held invalid, the remainder of the Act or amendment and the application of the remaining provisions of the Act or amendment to any person shall not be affected thereby.”
+Pub. L. 91–366, §2, July 31, 1970, 84 Stat. 691, provided that: “If any provision of this Act \[see Effective Date of 1970 Amendment note above\] or any amendment made thereby, or the application thereof to any person, as that term is herein defined, is held invalid, the remainder of the Act or amendment and the application of the remaining provisions of the Act or amendment to any person shall not be affected thereby.”
 
 #### Construction of 1970 Amendment
 
-Section 3 of Pub. L. 91–366 provided that: “The provisions of this Act \[see Effective Date of 1970 Amendment note above\] and amendments made thereby shall be held to be in addition to, and not in substitution for or limitation of, the provisions of any other Act of the United States.”
+Pub. L. 91–366, §3, July 31, 1970, 84 Stat. 691, provided that: “The provisions of this Act \[see Effective Date of 1970 Amendment note above\] and amendments made thereby shall be held to be in addition to, and not in substitution for or limitation of, the provisions of any other Act of the United States.”
 

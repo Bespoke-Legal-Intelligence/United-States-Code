@@ -16,7 +16,7 @@ In addition to any other funds authorized to be appropriated to the Commission, 
 
 #### Codification
 
-Pub. L. 94–29, which directed amendment of the Securities Exchange Act of 1934 by adding this section at the end, is reflected in the source credit above as adding this section to title I of the Securities Exchange Act of 1934, to reflect the probable intent of Congress.
+Pub. L. 94–29, which directed amendment of the Securities Exchange Act of 1934 by adding this section atthe end, is reflected in the source credit above as adding this section to title I of the Securities Exchange Act of 1934, to reflect the probable intent of Congress.
 
 #### Amendments
 

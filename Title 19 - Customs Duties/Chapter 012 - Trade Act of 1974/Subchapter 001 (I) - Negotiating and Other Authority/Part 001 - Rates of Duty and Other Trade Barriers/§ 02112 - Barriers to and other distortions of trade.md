@@ -6,7 +6,7 @@ The Congress finds that barriers to (and other distortions of) international tra
 
 #### (b) Presidential determinations prerequisite to entry into trade agreements; trade with Israel
 
-(1) Whenever the President determines that any barriers to (or other distortions of) international trade of any foreign country or the United States unduly burden and restrict the foreign trade of the United States or adversely affect the United States economy, or that the imposition of such barriers is likely to result in such a burden, restriction, or effect, and that the purposes of this chapter will be promoted thereby, the President, during the 13-year period beginning on January 3, 1975, may enter into trade agreements with foreign countries or instrumentalities providing for the harmonization, reduction, or elimination of such barriers (or other distortions) or providing for the prohibition of or limitations on the imposition of such barriers (or other distortions).
+(1) Whenever the President determines that any barriers to (or other distortions of) international trade of any foreign country or the United States unduly burden and restrict theforeign trade of the United States or adversely affect the United States economy, or that the imposition of such barriers is likely to result in such a burden, restriction, or effect, and that the purposes of this chapter will be promoted thereby, the President, during the 13-year period beginning on January 3, 1975, may enter into trade agreements with foreign countries or instrumentalities providing for the harmonization, reduction, or elimination of such barriers (or other distortions) or providing for the prohibition of or limitations on the imposition of such barriers (or other distortions).
 
 (2)(A) Trade agreements that provide for the elimination or reduction of any duty imposed by the United States may be entered into under paragraph (1) only with Israel.
 
@@ -56,7 +56,7 @@ Whenever the President enters into a trade agreement under this section providin
 
 #### (e) Steps prerequisite to entry into force of trade agreements
 
-Each trade agreement submitted to the Congress under this subsection shall enter into forcewith respect to the United States if (and only if)—
+Each trade agreement submitted to the Congress under this subsection shall enter into force with respect to the United States if (and only if)—
 
 &emsp;(1) the President, not less than 90 days before the day on which he enters into such trade agreement, notifies the House of Representatives and the Senate of his intention to enter into such an agreement, and promptly thereafter publishes notice of such intention in the Federal Register;
 
@@ -286,7 +286,7 @@ Certain knit-to-shape textiles and textile articles.—Notwithstanding paragraph
 
 &emsp;&emsp;“(C)
 
-Certain dyed and printed textiles and textile articles.—Notwithstanding paragraph (1)(D), a good classified under heading 6117.10, 6213.00, 6214.00. 6302.22, 6302.29, 6302.52, 6302.53, 6302.59, 6302.92, 6302.93, 6302.99, 6303.92, 6303.99, 6304.19, 6304.93, 6304.99, 9404.90.85, or 9404.90.95 of the HTS, except for a good classified under any such heading as of cotton or of wool or consisting of fiber blends containing 16 percent or more by weight of cotton, shall be considered to meet the requirements of paragraph (1)(A) of subsection (a) if the fabric in the good is both dyed and printed inJordan, and such dyeing and printing is accompanied by 2 or more of the following finishing operations: bleaching, shrinking, fulling, napping, decating, permanent stiffening, weighting, permanent embossing, or moireing.
+Certain dyed and printed textiles and textile articles.—Notwithstanding paragraph (1)(D), a good classified under heading 6117.10, 6213.00, 6214.00. 6302.22, 6302.29, 6302.52, 6302.53, 6302.59, 6302.92, 6302.93, 6302.99, 6303.92, 6303.99, 6304.19, 6304.93, 6304.99, 9404.90.85, or 9404.90.95 of the HTS, except for a good classified under any such heading as of cotton or of wool or consisting of fiber blends containing 16 percent or more by weight of cotton, shall be considered to meet the requirements of paragraph (1)(A) of subsection (a) if the fabric in the good is both dyed and printed in Jordan, and such dyeing and printing is accompanied by 2 or more of the following finishing operations: bleaching, shrinking, fulling, napping, decating, permanent stiffening, weighting, permanent embossing, or moireing.
 
 &emsp;&emsp;“(D)
 
@@ -406,7 +406,7 @@ Applicable Provisions.—For purposes of this subtitle, the provisions of paragr
 
 “(a)
 
-In General.—No later than the date that is 30 days after the date on which the President receives the report of the Commission containing an affirmative determination of the Commission under section 212(a), the President shall provide relief from imports of the article that is the subject of such determination to the extent that the President determines necessary to prevent or remedy the injury found by the Commissionand to facilitate the efforts of the domestic industry to make a positive adjustment to import competition, unless the President determines that the provision of such relief is not in the national economic interest of the United States or, in extraordinary circumstances, that the provision of such relief would cause serious harm to the national security of the United States.
+In General.—No later than the date that is 30 days after the date on which the President receives the report of the Commission containing an affirmative determination of the Commission under section 212(a), the President shall provide relief from imports of the article that is the subject of such determination to the extent that the President determines necessary to prevent or remedy the injury found by the Commission and to facilitate the efforts of the domestic industry to make a positive adjustment to import competition, unless the President determines that the provision of such relief is not in the national economic interest of the United States or, in extraordinary circumstances, that the provision of such relief would cause serious harm to the national security of the United States.
 
 “(b)
 

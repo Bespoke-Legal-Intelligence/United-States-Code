@@ -28,7 +28,7 @@ As used in this section—
 
 &emsp;(1) the term “appropriate congressional committees” means—
 
-&emsp;&emsp;(A) the Committee on Foreign Relations of the Senate, the Committee on Foreign Affairs of the House of Representatives, and the Committees on Appropriations of the House and the Senate, wherever the account, budget activity, or program is funded from appropriations made under the international affairs budget function (150);
+&emsp;&emsp;(A) the Committee on Foreign Relations of the Senate, the Committee on Foreign Affairs of the House of Representatives, and the Committees on Appropriations of the House and the Senate, wherever the account,budget activity, or program is funded from appropriations made under the international affairs budget function (150);
 
 &emsp;&emsp;(B) the Committees on Armed Services and the Committees on Appropriations of the Senate and the House of Representatives, wherever the account, budget activity, or program is funded from appropriations made under the national defense budget function (050); and
 

@@ -54,7 +54,7 @@ Grant funds under this section shall be used for one or more of the following:
 
 &emsp;(1) Development or implementation of cultural, social, or educational transition programs to assist students to transition into college life and academics in order to increase such students’ retention rates in the fields of science, technology, engineering, or mathematics, with a focus on Alaska Native or Native Hawaiian students.
 
-&emsp;(2) Development or implementation of academic support or supplemental educational programs to increase the graduation rates of students in the fields of science, technology, engineering, or mathematics, with a focus on Alaska Native and Native Hawaiian students.
+&emsp;(2) Development or implementation of academic support or supplemental educationalprograms to increase the graduation rates of students in the fields of science, technology, engineering, or mathematics, with a focus on Alaska Native and Native Hawaiian students.
 
 &emsp;(3) Development or implementation of internship programs, carried out in coordination with educational institutions and private entities, to prepare students for careers in the fields of science, technology, engineering, or mathematics, with a focus on programs that serve Alaska Native or Native Hawaiian students.
 

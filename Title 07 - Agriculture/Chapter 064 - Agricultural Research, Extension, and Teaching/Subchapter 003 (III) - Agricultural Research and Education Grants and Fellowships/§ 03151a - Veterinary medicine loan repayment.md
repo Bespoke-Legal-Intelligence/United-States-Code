@@ -102,7 +102,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (b). Pub. L. 110–246, §7105(a)(1), added subsec. (b) and struck out former subsec. (b) which authorized the Secretary to consider certain factors in determining “veterinarian shortage situations”.
+<b>2008</b>—Subsec. (b). Pub. L. 110–246, §7105(a)(1), added subsec. (b) and struck out former subsec. (b) which authorized the Secretary to consider certain factors in determining “veterinarian shortage situations”.
 
 Subsec. (c)(8). Pub. L. 110–246, §7105(a)(2), added par. (8).
 

@@ -56,7 +56,7 @@ Subsec. (b)(2). Pub. L. 105–42, §6(d)(2), inserted “(a)(5) or” before “
 
 Subsec. (d). Pub. L. 105–42, §6(d)(3), struck out heading and text of subsec. (d). Text read as follows: “For purposes of this section, tuna or a tuna product is dolphin safe if—
 
-&emsp;“(1) it does not contain tuna that was harvested on the high seas by a vessel engaged in driftnet fishing, as that term is defined in section 4003 of the Driftnet Impact, Monitoring, Assessment, and Control Act of 1987;
+&emsp;“(1) it does not contain tuna that was harvested on the high seas by a vessel engaged in driftnet fishing,as that term is defined in section 4003 of the Driftnet Impact, Monitoring, Assessment, and Control Act of 1987;
 
 &emsp;“(2) in the case of tuna or a tuna product that contains tuna harvested in the eastern tropical Pacific Ocean, it is dolphin safe under subsection (d)(2) of section 1385 of this title;
 

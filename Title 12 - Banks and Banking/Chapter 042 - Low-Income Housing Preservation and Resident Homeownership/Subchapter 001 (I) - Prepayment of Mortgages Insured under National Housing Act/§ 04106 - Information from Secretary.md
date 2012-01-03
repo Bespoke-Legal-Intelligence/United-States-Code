@@ -32,7 +32,7 @@ The Secretary shall make any information provided to the owner under subsections
 
 #### (1) Filing
 
-&emsp;Each owner of eligible low-income housing that elects to transfer housing under section4110 of this title shall submit to the Secretary, in such form and manner as the Secretary prescribes, notice of intent to sell the housing under section 4110 of this title. To be eligible to prepay the mortgage or voluntarily terminate the insurance contract on the mortgage, an owner of housing for which the preservation rents exceed the Federal cost limits under section 4105(b) of this title shall submit to the Secretary notice of such intent. The provisions of sections 4111 and 4113 of this title shall apply to any owner submitting a notice under the preceding sentence.
+&emsp;Each owner of eligible low-income housing that elects to transfer housing under section 4110 of this title shall submit to the Secretary, in such form and manner as the Secretary prescribes, notice of intent to sell the housing under section 4110 of this title. To be eligible to prepay the mortgage or voluntarily terminate the insurance contract on the mortgage, an owner of housing for which the preservation rents exceed the Federal cost limits under section 4105(b) of this title shall submit to the Secretary notice of such intent. The provisions of sections 4111 and 4113 of this title shall apply to any owner submitting a notice under the preceding sentence.
 
 #### (2) Timing
 
@@ -46,7 +46,7 @@ The Secretary shall make any information provided to the owner under subsections
 
 #### Amendments
 
-1992—Subsec. (b)(4). Pub. L. 102–550, §317(a)(2), substituted “exceed” for “exceeds”.
+<b>1992</b>—Subsec. (b)(4). Pub. L. 102–550, §317(a)(2), substituted “exceed” for “exceeds”.
 
 Subsec. (d)(3). Pub. L. 102–550, §303, added par. (3).
 

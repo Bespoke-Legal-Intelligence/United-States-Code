@@ -66,7 +66,7 @@ For purposes of this part, the term “controlled group of corporations” means
 
 #### (4) Overlapping groups
 
-&emsp;If a corporation is a component member of more than one controlled group of corporations with respect to any taxable year, such corporation shall be treated as a componentmember of only one controlled group. The determination as to the group of which such corporation is a component member shall be made under regulations prescribed by the Secretary which are consistent with the purposes of this part.
+&emsp;If a corporation is a component member of more than one controlled group of corporations with respect to any taxable year, such corporation shall be treated as a component member of only one controlled group. The determination as to the group of which such corporation is a component member shall be made under regulations prescribed by the Secretary which are consistent with the purposes of this part.
 
 #### (c) Certain stock excluded
 
@@ -92,7 +92,7 @@ For purposes of this part, the term “controlled group of corporations” means
 
 &emsp;&emsp;&emsp;(iii) stock in the subsidiary corporation owned (within the meaning of subsection (d)(2)) by an employee of the subsidiary corporation if such stock is subject to conditions which run in favor of such parent (or subsidiary) corporation and which substantially restrict or limit the employee's right (or if the employee constructively owns such stock, the direct owner's right) to dispose of such stock, or
 
-&emsp;&emsp;&emsp;(iv) stock in the subsidiary corporation owned (within the meaning of subsection (d)(2)) by an organization (other than the parent corporation) to which section 501 (relating to certain educational and charitable organizations which are exempt from tax) applies and which is controlled directly or indirectly by the parent corporation or subsidiary corporation, by an individual, estate, or trust that is a principal stockholder (within the meaning of clause (ii)) of the parent corporation, by an officer of the parent corporation, or by any combination thereof.
+&emsp;&emsp;&emsp;(iv) stock in the subsidiary corporation owned (within the meaning of subsection (d)(2)) by an organization (other than theparent corporation) to which section 501 (relating to certain educational and charitable organizations which are exempt from tax) applies and which is controlled directly or indirectly by the parent corporation or subsidiary corporation, by an individual, estate, or trust that is a principal stockholder (within the meaning of clause (ii)) of the parent corporation, by an officer of the parent corporation, or by any combination thereof.
 
 #### (B) Brother-sister controlled group
 
@@ -192,7 +192,7 @@ For purposes of this part, the term “controlled group of corporations” means
 
 &emsp;&emsp;(A) If stock may be considered as owned by a person under subsection (e)(1) and under any other paragraph of subsection (e), it shall be considered as owned by him under subsection (e)(1).
 
-&emsp;&emsp;(B) If stock is owned (within the meaning of subsection (d)) by two or more persons,such stock shall be considered as owned by the person whose ownership of such stock results in the corporation being a component member of a controlled group. If by reason of the preceding sentence, a corporation would (but for this sentence) become a component member of two controlled groups, it shall be treated as a component member of one controlled group. The determination as to the group of which such corporation is a component member shall be made under regulations prescribed by the Secretary which are consistent with the purposes of this part.
+&emsp;&emsp;(B) If stock is owned (within the meaning of subsection (d)) by two or more persons, such stock shall be considered as owned by the person whose ownership of such stock results in the corporation being a component member of a controlled group. If by reason of the preceding sentence, a corporation would (but for this sentence) become a component member of two controlled groups, it shall be treated as a component member of one controlled group. The determination as to the group of which such corporation is a component member shall be made under regulations prescribed by the Secretary which are consistent with the purposes of this part.
 
 &emsp;&emsp;(C) If stock is owned by a person within the meaning of subsection (d) and such ownership results in the corporation being a component member of a controlled group, such stock shall not be treated as excluded stock under subsection (c)(2), if by reason of treating such stock as excluded stock the result is that such corporation is not a component member of a controlled group of corporations.
 

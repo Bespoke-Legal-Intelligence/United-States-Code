@@ -146,7 +146,7 @@ At the time that the annual budget request for Bureau educational services is pr
 
 #### (C) Inspection
 
-&emsp;&emsp;After making a determination described in subparagraph (A), the Bureau health and safety officer and the individual designated by the tribe shall conduct an inspection of the conditions of such facility in order to determine whether conditions at such facility constitute an immediate hazard to health and safety. Such inspection shall be completed as expeditiously as practicable, but not later than 20 days after the date on which the action described in subparagraph (A) is taken.
+&emsp;&emsp;After making a determination described in subparagraph (A), the Bureau health and safety officer and the individual designatedby the tribe shall conduct an inspection of the conditions of such facility in order to determine whether conditions at such facility constitute an immediate hazard to health and safety. Such inspection shall be completed as expeditiously as practicable, but not later than 20 days after the date on which the action described in subparagraph (A) is taken.
 
 #### (D) Failure to concur
 
@@ -208,7 +208,7 @@ At the time that the annual budget request for Bureau educational services is pr
 
 #### (1) Distribution of funds
 
-&emsp;Beginning with the first fiscal year following January 8, 2002, all funds appropriated to the budget accounts for the operations and maintenance of Bureau-funded schools shall be distributed by formula to the schools. No funds from these accounts may be retained or segregated by the Bureau to pay for administrative or other costs of any facilities branch or office, at any level of the Bureau.
+&emsp;Beginning with the first fiscal year following January 8, 2002, all funds appropriated to the budget accounts for the operations andmaintenance of Bureau-funded schools shall be distributed by formula to the schools. No funds from these accounts may be retained or segregated by the Bureau to pay for administrative or other costs of any facilities branch or office, at any level of the Bureau.
 
 #### (2) Requirements for certain uses
 
@@ -238,7 +238,7 @@ Another prior section 2005, Pub. L. 95–561, title XI, §1125, Nov. 1, 1978, 92
 
 #### Change of Name
 
-Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives and Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Use of Tribal Priority Allocations Funds for School Facilities
 

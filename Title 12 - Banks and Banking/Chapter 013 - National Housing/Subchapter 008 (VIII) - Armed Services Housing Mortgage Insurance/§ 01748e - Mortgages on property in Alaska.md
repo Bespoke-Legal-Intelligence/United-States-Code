@@ -10,7 +10,7 @@ Section 1715d of this title, referred to in text, was in the original “section
 
 #### Amendments
 
-1959—Pub. L. 86–70 substituted “State” for “Territory” in two places.
+<b>1959</b>—Pub. L. 86–70 substituted “State” for “Territory” in two places.
 
-1955—Act Aug. 11, 1955, reenacted section without change.
+<b>1955</b>—Act Aug. 11, 1955, reenacted section without change.
 

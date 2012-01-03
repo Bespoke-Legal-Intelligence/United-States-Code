@@ -54,7 +54,7 @@ In this section:
 
 #### (7) Demonstrations
 
-&emsp;The Director, periodically, shall hold homeland security technology demonstrations to improve contact among technology developers, vendors and acquisition personnel.
+&emsp;The Director, periodically, shall hold homeland security technology demonstrations toimprove contact among technology developers, vendors and acquisition personnel.
 
 #### (c) Fund
 

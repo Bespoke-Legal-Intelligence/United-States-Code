@@ -42,13 +42,15 @@ The last sentence is added because in various areas the authority to investigate
 
 #### FBI Investigations of Espionage by Persons Employed by or Assigned to United States Diplomatic Missions Abroad
 
-Pub. L. 101–193, title VI, §603, Nov. 30, 1989, 103 Stat. 1710, provided that: “Subject to the authority of the Attorney General, the FBI shall supervise the conduct of all investigations of violations of the espionage laws of the United States by persons employed by or assigned to United States diplomatic missions abroad. All departments and agencies shall report immediately to the FBI any information concerning such a violation. All departments and agencies shall provide appropriate assistance to the FBI in the conduct of such investigations. Nothing in this provision shall be construed as establishing a defense to any criminal, civil, or administrative action.”
+Pub. L. 101–193, title VI, §603, Nov. 30, 1989, 103 Stat. 1710, provided that: “Subject to the authority of the Attorney General, the FBI shall supervise the conduct of all investigations of violations of the espionage laws of the United States by persons employed by or assigned to United States diplomatic missions abroad. All departments and agencies shall report immediately tothe FBI any information concerning such a violation. All departments and agencies shall provide appropriate assistance to the FBI in the conduct of such investigations. Nothing in this provision shall be construed as establishing a defense to any criminal, civil, or administrative action.”
 
 #### Undercover Investigative Operations Conducted by Federal Bureau of Investigation or Drug Enforcement Administration; Annual Report to Congress; Financial Audit
 
-Pub. L. 111–117, div. B, title II, §207, Dec. 16, 2009, 123 Stat. 3139, provided that: “Notwithstanding any other provision of law, Public Law 102–395 section 102(b) \[set out below\] shall extend to the Bureau of Alcohol, Tobacco, Firearms and Explosives in the conduct of undercover investigative operations and shall apply without fiscal year limitation with respect to any undercover investigative operation by the Bureau of Alcohol, Tobacco, Firearms and Explosives that is necessary for the detection and prosecution of crimes against the United States.”
+Pub. L. 112–55, div. B, title II, §207, Nov. 18, 2011, 125 Stat. 619, provided that: “Notwithstanding any other provision of law, Public Law 102–395 section 102(b) \[set out below\] shall extend to the Bureau of Alcohol, Tobacco, Firearms and Explosives in the conduct of undercover investigative operations and shall apply without fiscal year limitation with respect to any undercover investigative operation by the Bureau of Alcohol, Tobacco, Firearms and Explosives that is necessary for the detection and prosecution of crimes against the United States.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 111–117, div. B, title II, §207, Dec. 16, 2009, 123 Stat. 3139.
 
 Pub. L. 111–8, div. B, title II, §207, Mar. 11, 2009, 123 Stat. 585.
 

@@ -68,7 +68,7 @@ Pub. L. 106–43 substituted “trademarks” for “trade-marks”.
 
 Subsec. (e). Pub. L. 106–113 substituted “Director” for “Commissioner”.
 
-<b>1998</b>—Subsec. (d). Pub. L. 105–330, §108(1)(A), in introductory provisions, substituted “or 1091 of this title or under subsection (e) of this section” for “1091 of this title, or subsection (e) of this section”.
+<b>1998</b>—Subsec. (d). Pub. L. 105–330, §108(1)(A), in introductory provisions, substituted “or 1091 of this title orunder subsection (e) of this section” for “1091 of this title, or subsection (e) of this section”.
 
 Subsec. (d)(3), (4). Pub. L. 105–330, §108(1)(B), made technical amendment to reference in original act which appears in text as reference to this subsection.
 
@@ -108,7 +108,7 @@ Amendment by Pub. L. 100–667 effective one year after Nov. 16, 1988, see secti
 
 #### Effective Date of 1961 Amendment
 
-Section 3 of Pub. L. 87–333 provided that: “This Act \[amending this section and section 119 of Title 35, Patents\] shall take effect on the date when the Convention of Paris for the Protection of Industrial Property of March 20, 1883, as revised at Lisbon, October 31, 1958, comes into force with respect to the United States and shall apply only to applications thereafter filed in theUnited States by persons entitled to the benefit of said convention, as revised at the time of such filing.”
+Section 3 of Pub. L. 87–333 provided that: “This Act \[amending this section and section 119 of Title 35, Patents\] shall take effect on the date when the Convention of Paris for the Protection of Industrial Property of March 20, 1883, as revised at Lisbon, October 31, 1958, comes into force with respect to the United States and shall apply only to applications thereafter filed in the United States by persons entitled to the benefit of said convention, as revised at the time of such filing.”
 
 #### Repeal and Effect on Existing Rights
 

@@ -284,7 +284,7 @@ Judicial districts for the states of alabama and north carolina.—(A) Notwithst
 
 > &emsp;before the expiration of the 1-year period beginning on the date such election becomes effective.
 
-&emsp;“(G) Notwithstanding section 589a of title 28, United States Code, as added by section 115 of this Act, funds collected as a result of the amendments made by section 117 of this Act \[amending section 1930 of this title\] in a judicial district in the State of Alabama or the State of North Carolina under section1930(a) of title 28, United States Code, before the date the amendments made by subtitle A of title II of this Act take effect in such district shall be deposited in the general receipts of the Treasury.
+&emsp;“(G) Notwithstanding section 589a of title 28, United States Code, as added by section 115 of this Act, funds collected as a result of the amendments made by section 117 of this Act \[amending section 1930 of this title\] in a judicial district in the State of Alabama or the State of North Carolina under section 1930(a) of title 28, United States Code, before the date the amendments made by subtitle A of title II of this Act take effect in such district shall be deposited in the general receipts of the Treasury.
 
 &emsp;“(H) The repeal made by section 231 of this Act \[repealing chapter 15 of title 11\] shall not apply in or with respect to the Northern District of Alabama until March 1, 1987, or the effective date of any election made under subparagraph (A) by such district, whichever occurs first.
 
@@ -516,5 +516,5 @@ Pub. L. 109–162, title XI, §1175, Jan. 5, 2006, 119 Stat. 3125, provided that
 
 &emsp;“(3) for any year in which the number of criminal referrals is less than for the prior year, an explanation of the decrease; and
 
-&emsp;“(4) the United States Trustee Program's efforts to prevent bankruptcy fraud and abuse, particularly with respect to the establishment of uniform internal controls to detect common, higher risk frauds, such as a debtor's failure to disclose all assets.”
+&emsp;“(4) the United States Trustee Program's efforts to prevent bankruptcy fraud and abuse, particularlywith respect to the establishment of uniform internal controls to detect common, higher risk frauds, such as a debtor's failure to disclose all assets.”
 

@@ -82,7 +82,7 @@ There is established a commission to be known as the National Prison Rape Elimin
 
 &emsp;&emsp;(E) an assessment of the characteristics of inmates most likely to commit prison rape and the effectiveness of various types of treatment or programs to reduce such likelihood;
 
-&emsp;&emsp;(F) an assessment of the characteristics of inmates most likely to be victims of prison rape and the effectiveness of various types of treatment or programs to reduce such likelihood;
+&emsp;&emsp;(F) an assessment of the characteristics of inmates most likely to be victims of prison rape and the effectiveness of various types oftreatment or programs to reduce such likelihood;
 
 &emsp;&emsp;(G) an assessment of the impacts of prison rape on individuals, families, social institutions and the economy generally, including an assessment of the extent to which the incidence of prison rape contributes to recidivism and to increased incidence of sexual assault;
 
@@ -212,7 +212,7 @@ The Commission may secure directly from any Federal department or agency such in
 
 #### (3) Procurement of temporary and intermittent services
 
-&emsp;Upon the request of the Commission, the Attorney General shall provide reasonable andappropriate office space, supplies, and administrative assistance.
+&emsp;Upon the request of the Commission, the Attorney General shall provide reasonable and appropriate office space, supplies, and administrative assistance.
 
 #### (j) Contracts for research
 

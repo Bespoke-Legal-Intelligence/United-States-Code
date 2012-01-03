@@ -130,7 +130,7 @@ A funding agreement for a grant under section 290ff(a) of this title is that the
 
 The Secretary may waive one or more of the requirements of subsection (c) of this section for a public entity that is an Indian Tribe or tribal organization, or American Samoa, Guam, the Marshall Islands, the Federated States of Micronesia, the Commonwealth of the Northern Mariana Islands, the Republic of Palau, or the United States Virgin Islands if the Secretary determines, after peer review, that the system of care is family-centered and uses the least restrictive environment that is clinically appropriate.
 
-(July 1, 1944, ch. 373, title V, §562, as added Pub. L. 102–321, title I, §119, July 10, 1992, 106 Stat. 351; amended Pub. L. 106–310, div. B, title XXXI, §3105(b), Oct. 17, 2000, 114 Stat. 1175; Pub. L. 108–446, title III, §305(i)(4), Dec. 3, 2004, 118 Stat. 2806.)
+(July 1, 1944, ch. 373, title V, §562, as added Pub. L. 102–321, title I, §119, July 10, 1992, 106 Stat.351; amended Pub. L. 106–310, div. B, title XXXI, §3105(b), Oct. 17, 2000, 114 Stat. 1175; Pub. L. 108–446, title III, §305(i)(4), Dec. 3, 2004, 118 Stat. 2806.)
 
 #### References in Text
 

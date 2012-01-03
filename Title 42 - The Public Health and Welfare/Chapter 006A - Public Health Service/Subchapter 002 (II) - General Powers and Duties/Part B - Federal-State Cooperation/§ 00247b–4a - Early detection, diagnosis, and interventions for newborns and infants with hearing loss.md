@@ -44,7 +44,7 @@ The purposes of this section are to clarify the authority within the Public Heal
 
 #### (c) Statewide newborn and infant hearing screening, evaluation and intervention programs and systems
 
-Under the existing authority of the Public Health Service Act \[42 U.S.C. 201 et seq.\], the Secretary of Health and Human Services (in this section referred to as the “Secretary”), acting through the Administrator of the Health Resources and Services Administration, shall make awards of grants or cooperative agreements to develop statewide newborn and infant hearing screening, evaluation and intervention programs and systems for the following purposes:
+Under the existing authority of the Public Health Service Act \[42 U.S.C. 201 et seq.\], the Secretary of Health and Human Services (in this section referred to as the “Secretary”), acting through the Administrator of the Health Resources and Services Administration, shall make awards of grants or cooperative agreements to develop statewide newborn and infanthearing screening, evaluation and intervention programs and systems for the following purposes:
 
 &emsp;(1) To develop and monitor the efficacy of statewide newborn and infant hearing screening, evaluation and intervention programs and systems. Early intervention includes referral to schools and agencies, including community, consumer, and parent-based agencies and organizations and other programs mandated by part C of the Individuals with Disabilities Education Act \[20 U.S.C. 1431 et seq.\], which offer programs specifically designed to meet the unique language and communication needs of deaf and hard-of-hearing newborns, infants, toddlers, and children.
 
@@ -70,7 +70,7 @@ Under the existing authority of the Public Health Service Act \[42 U.S.C. 201 et
 
 #### (2) National Institutes of Health
 
-&emsp;Under the existing authority of the Public Health Service Act, the Director of the National Institutes of Health, acting through the Director of the National Institute on Deafnessand Other Communication Disorders, shall for purposes of this section, continue a program of research and development on the efficacy of new screening techniques and technology, including clinical studies of screening methods, studies on efficacy of intervention, and related research.
+&emsp;Under the existing authority of the Public Health Service Act, the Director of the National Institutes of Health, acting through the Director of the National Institute on Deafness and Other Communication Disorders, shall for purposes of this section, continue a program of research and development on the efficacy of new screening techniques and technology, including clinical studies of screening methods, studies on efficacy of intervention, and related research.
 
 #### (e) Coordination and collaboration
 
@@ -84,7 +84,7 @@ Under the existing authority of the Public Health Service Act \[42 U.S.C. 201 et
 
 #### (3) State early detection, diagnosis, and intervention programs and systems; data collection
 
-&emsp;Under the existing authority of the Public Health Service Act, the Administrator of the Health Resources and Services Administration and the Director of the Centers for Disease Control and Prevention shall coordinate and collaborate in assisting States to establish newborn and infant hearing screening, evaluation and intervention programs and systems under subsection (c) of this section and to develop a data collection system under subsection (d) of this section.
+&emsp;Under the existing authority of the Public Health Service Act, the Administrator of the Health Resources and Services Administration and the Director of the Centers for Disease Control and Prevention shall coordinate and collaborate in assisting States to establish newborn and infant hearing screening, evaluation and intervention programs and systemsunder subsection (c) of this section and to develop a data collection system under subsection (d) of this section.
 
 #### (f) Rule of construction
 
@@ -116,5 +116,5 @@ The Social Security Act, referred to in subsec. (e)(1), is act Aug. 14, 1935, ch
 
 #### Codification
 
-Section was enacted as part of the Departments of Labor, Health, and Human Services, and Education,and Related Agencies Appropriations Act, 2000, and not as part of the Public Health Service Act which comprises this chapter.
+Section was enacted as part of the Departments of Labor, Health, and Human Services, and Education, and Related Agencies Appropriations Act, 2000, and not as part of the Public Health Service Act which comprises this chapter.
 

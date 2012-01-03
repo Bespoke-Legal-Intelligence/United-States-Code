@@ -10,7 +10,7 @@ The terms “bonds and notes of the United States”, “bonds and notes of the 
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, known as the Federal Reserve Act. Forcomplete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, known as the Federal Reserve Act. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
 
 #### Codification
 
@@ -18,11 +18,11 @@ This section is comprised of the second to fourth pars. of section 1 of act Dec.
 
 #### Amendments
 
-2006—Pub. L. 109–351 and 109–356 amended section identically, inserting “For purposes of this chapter, a State bank includes any bank which is operating under the Code of Law for the District of Columbia.” at end of first par.
+<b>2006</b>—Pub. L. 109–351 and 109–356 amended section identically, inserting “For purposes of this chapter, a State bank includes any bank which is operating under the Code of Law for the District of Columbia.” at end of first par.
 
-1982—Pub. L. 97–258 inserted provisions defining “bonds and notes of the United States”, “bonds and notes of the Government of the United States”, and “bonds or notes of the United States”. These provisions are based on acts Sept. 24, 1917, ch. 56, §5(c), 40 Stat. 290; Apr. 4, 1918, ch. 44, §4, 40 Stat. 504; Mar. 3, 1919, ch. 100, §3, 40 Stat. 1311; restated June 17, 1929, ch. 26, 46 Stat. 20 (former 31 U.S.C. 754(c)).
+<b>1982</b>—Pub. L. 97–258 inserted provisions defining “bonds and notes of the United States”, “bonds and notes of the Government of the United States”, and “bonds or notes of the United States”. These provisions are based on acts Sept. 24, 1917, ch. 56, §5(c), 40 Stat. 290; Apr. 4, 1918, ch. 44, §4, 40 Stat. 504; Mar. 3, 1919, ch. 100, §3, 40 Stat. 1311; restated June 17, 1929, ch. 26, 46 Stat. 20 (former 31 U.S.C. 754(c)).
 
-1959—Pub. L. 86–70 inserted definition of “the continental United States”.
+<b>1959</b>—Pub. L. 86–70 inserted definition of “the continental United States”.
 
 #### Change of Name
 

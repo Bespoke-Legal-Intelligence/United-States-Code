@@ -24,7 +24,7 @@
 
 #### (2) Program requirements
 
-&emsp;(A) The program shall include, at a minimum, ongoing classified and unclassified threat-based briefings, and automated exercises and examinations that simulate common attack techniques.
+&emsp;(A) The program shall include, at a minimum, ongoing classified and unclassifiedthreat-based briefings, and automated exercises and examinations that simulate common attack techniques.
 
 &emsp;(B) All agency employees and contractors engaged in the operation or use of agency information infrastructure shall participate in the program.
 

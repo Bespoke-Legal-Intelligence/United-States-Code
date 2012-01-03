@@ -24,7 +24,7 @@ Funds available to an intelligence agency may not be made available for any inte
 
 #### (c) Presidential finding required for expenditure of funds on covert action
 
-No funds appropriated for, or otherwise available to, any department, agency, or entity of the United States Government may be expended, or may be directed to be expended, for any covert action, as defined in section 413b(e) of this title, unless and until a Presidential finding required by subsection (a) of section 413b of this title has been signed or otherwise issued in accordance with that subsection.
+No funds appropriated for, or otherwise available to, any department, agency, or entity of the United States Government may be expended, or may be directed to be expended, for any covert action, as defined in section 413b(e) of this title,unless and until a Presidential finding required by subsection (a) of section 413b of this title has been signed or otherwise issued in accordance with that subsection.
 
 #### (d) Report to Congressional committees required for expenditure of nonappropriated funds for intelligence activity
 
@@ -54,7 +54,7 @@ As used in this section—
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(3)(B). Pub. L. 111–259 amended subpar. (B) generally. Prior to amendment, subpar. (B)read as follows: “the need for funds for such activity is based on unforseen requirements; and”.
+<b>2010</b>—Subsec. (a)(3)(B). Pub. L. 111–259 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the need for funds for such activity is based on unforseen requirements; and”.
 
 <b>2004</b>—Subsec. (a)(2). Pub. L. 108–458, §1071(a)(5), substituted “Director of the Central Intelligence Agency” for “Director of Central Intelligence”.
 
@@ -96,7 +96,7 @@ Pub. L. 100–202, §101(b) \[title VIII, §8037\], Dec. 22, 1987, 101 Stat. 132
 
 #### Sense of Congress Regarding Disclosure of Annual Intelligence Budget
 
-Pub. L. 102–496, title III, §303, Oct. 24, 1992, 106 Stat. 3183, provided that: “It is the sense of Congress that, beginning in 1993, and in each year thereafter, the aggregate amount requested and authorized for, and spent on, intelligence and intelligence-related activities should be disclosed to the public in an appropriate manner.” Similar provisions were contained in the following prior appropriation act: Pub. L. 102–183, title VII, §701, Dec. 4, 1991, 105 Stat. 1270.
+Pub. L. 102–496, title III, §303, Oct. 24, 1992, 106 Stat. 3183, provided that: “It is the sense of Congress that, beginning in 1993, and in each year thereafter, the aggregate amount requested and authorized for, and spent on, intelligence and intelligence-related activitiesshould be disclosed to the public in an appropriate manner.” Similar provisions were contained in the following prior appropriation act: Pub. L. 102–183, title VII, §701, Dec. 4, 1991, 105 Stat. 1270.
 
 #### Limitation of Expenditure of Funds Appropriated for Department of Defense Intelligence Programs
 

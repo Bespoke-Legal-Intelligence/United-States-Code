@@ -28,11 +28,7 @@ The notice provided under subsection (a) of this section shall include—
 
 &emsp;(4) a toll-free telephone number maintained by the Inspector General in the Department of Health and Human Services for the receipt of complaints and information about waste, fraud, and abuse in the provision or billing of services under this subchapter.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1804, as added Pub. L. 100–360, title II, §223(a), July 1, 1988, 102 Stat. 747; amended Pub. L. 103–432, title I, §171(j)(1), Oct. 31, 1994, 108 Stat. 4450; Pub. L. 105–33, title IV, §4311(a)(1), Aug. 5, 1997, 111 Stat. 384; Pub. L. 108–173, title IX, §923(d)(1), Dec. 8, 2003, 117 Stat. 2394.)
-
-#### References in Text
-
-Parts A and B of this subchapter, referred to in subsec. (a), are classified to sections 1395c et seq. and 1395j et seq., respectively, of this title.
+(Aug. 14, 1935, ch. 531, title XVIII, §1804, as added Pub. L. 100–360, title II, §223(a), July 1, 1988, 102 Stat. 747; amended Pub. L. 103–432, title I,§171(j)(1), Oct. 31, 1994, 108 Stat. 4450; Pub. L. 105–33, title IV, §4311(a)(1), Aug. 5, 1997, 111 Stat. 384; Pub. L. 108–173, title IX, §923(d)(1), Dec. 8, 2003, 117 Stat. 2394.)
 
 #### Amendments
 
@@ -76,7 +72,7 @@ Section 4361(b) of Pub. L. 101–508 provided that: “The Secretary of Health a
 
 #### Notice of Changes Under Repeal of Medicare Catastrophic Coverage
 
-Pub. L. 101–234, title II, §203(c), Dec. 13, 1989, 103 Stat. 1984, provided that: “The Secretary of Health and Human Services shall provide, in the notice of medicare benefits provided under section 1804 of the Social Security Act \[this section\] for 1990, for a description of the changes in benefits under title XVIII of such Act\[this subchapter\] made by the amendments made by this Act \[see Tables for classification\].”
+Pub. L. 101–234, title II, §203(c), Dec. 13, 1989, 103 Stat. 1984, provided that: “The Secretary of Health and Human Services shall provide, in the notice of medicare benefits provided under section 1804 of the Social Security Act \[this section\] for 1990, for a description of the changes in benefits under title XVIII of such Act \[this subchapter\] made by the amendments made by this Act \[see Tables for classification\].”
 
 #### Benefits Counseling and Assistance Demonstration Project for Certain Medicare and Medicaid Beneficiaries
 

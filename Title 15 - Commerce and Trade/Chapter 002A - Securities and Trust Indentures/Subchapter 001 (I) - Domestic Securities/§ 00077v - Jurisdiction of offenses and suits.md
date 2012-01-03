@@ -16,7 +16,7 @@ The district courts of the United States and the United States courts of any Ter
 
 &emsp;(2) conduct occurring outside the United States that has a foreseeable substantial effect within the United States.
 
-(May 27, 1933, ch. 38, title I, §22, 48 Stat. 86; June 25, 1936, ch. 804, 49 Stat. 1921; June 25, 1948, ch. 646, §32(b), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Aug. 10, 1954, ch. 667, title I, §11, 68 Stat. 686; Pub. L. 91–452, title II, §213, Oct. 15, 1970, 84 Stat. 929; Pub. L. 100–181, title II, §209, Dec. 4, 1987, 101 Stat. 1253; Pub. L. 105–353, title I, §101(a)(3), Nov. 3, 1998, 112 Stat. 3230; Pub. L.111–203, title IX, §§929E(a), 929P(b)(1), July 21, 2010, 124 Stat. 1853, 1864.)
+(May 27, 1933, ch. 38, title I, §22, 48 Stat. 86; June 25, 1936, ch. 804, 49 Stat. 1921; June 25, 1948, ch. 646, §32(b), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Aug. 10, 1954, ch. 667, title I, §11, 68 Stat. 686; Pub. L. 91–452, title II, §213, Oct. 15, 1970, 84 Stat. 929; Pub. L. 100–181, title II, §209, Dec. 4, 1987, 101 Stat. 1253; Pub. L. 105–353, title I, §101(a)(3), Nov. 3, 1998, 112 Stat. 3230; Pub. L. 111–203, title IX, §§929E(a), 929P(b)(1), July 21, 2010, 124 Stat. 1853, 1864.)
 
 #### References in Text
 

@@ -30,7 +30,7 @@ Section is from the Legislative Branch Appropriations Act, 2004.
 
 #### Amendments
 
-2007—Subsec. (b)(1). Pub. L. 110–161, §1306(a)(1), substituted “Committees on Appropriations and Rules and Administration” for “Committee on Rules and Administration”.
+<b>2007</b>—Subsec. (b)(1). Pub. L. 110–161, §1306(a)(1), substituted “Committees on Appropriations and Rules and Administration” for “Committee on Rules and Administration”.
 
 Subsec. (b)(2). Pub. L. 110–161, §1306(a)(2), substituted “the Committee on Appropriations of the House of Representatives and the House Office Building Commission” for “the House Office Building Commission”.
 

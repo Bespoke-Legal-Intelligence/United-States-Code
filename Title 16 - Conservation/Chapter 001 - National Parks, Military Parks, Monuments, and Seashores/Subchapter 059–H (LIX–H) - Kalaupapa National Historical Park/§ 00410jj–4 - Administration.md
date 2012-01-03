@@ -46,5 +46,5 @@ Approval.—The location, size, design, and inscriptions of the memorial authori
 
 “(c)
 
-Funding.—Ka ‘Ohana O Kalaupapa, a nonprofit organization, shall be solely responsible for acceptance of contributions for and payment of the expenses associated with the establishment of the memorial.”
+Funding.—Ka ‘Ohana O Kalaupapa, a nonprofit organization, shall be solely responsible for acceptanceof contributions for and payment of the expenses associated with the establishment of the memorial.”
 

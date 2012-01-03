@@ -32,7 +32,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 1104 of the House amendment represents a compromise between the House bill and the Senate amendment concerning the appointment of a trustee or examiner. The method of appointment rather than election, is derived from the House bill; the two alternative standards of appointment are derived with modifications from the Senate amendment, instead of the standard stated in the House bill. For example, if the current management of the debtor gambled away rental income before the filing of the petition, a trusteeshould be appointed after the petition, whether or not postpetition mismanagement can be shown. However, under no circumstances will cause include the number of security holders of the debtor or the amount of assets or liabilities of the debtor. The standard also applies to the appointment of an examiner in those circumstances in which mandatory appointment, as previously detailed, is not required.
 
@@ -62,23 +62,23 @@ Subsection (c) directs that the United States trustee actually select and appoin
 
 #### Amendments
 
-2010—Subsec. (a). Pub. L. 111–327, §2(a)(30)(A), inserted “or” at end of par. (1), substituted a period for “; or” at end of par. (2), and struck out par. (3) which read as follows: “if grounds exist to convert or dismiss the case under section 1112, but the court determines that the appointment of a trustee or an examiner is in the best interests of creditors and the estate.”
+<b>2010</b>—Subsec. (a). Pub. L. 111–327, §2(a)(30)(A), inserted “or” at end of par. (1), substituted a period for “; or” at end of par. (2), and struck out par. (3) which read as follows: “if grounds exist to convert or dismiss the case under section 1112, but the court determines that the appointment of a trustee or an examiner is in the best interests of creditors and the estate.”
 
 Subsec. (b)(2)(B)(ii). Pub. L. 111–327, §2(a)(30)(B), substituted “subsection (a)” for “subsection (d)”.
 
-2005—Subsec. (a)(3). Pub. L. 109–8, §442(b), added par. (3).
+<b>2005</b>—Subsec. (a)(3). Pub. L. 109–8, §442(b), added par. (3).
 
 Subsec. (b). Pub. L. 109–8, §416, designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (e). Pub. L. 109–8, §1405, added subsec. (e).
 
-1994—Subsec. (b). Pub. L. 103–394, §211(a)(2), added subsec. (b). Former subsec. (b) redesignated (c).
+<b>1994</b>—Subsec. (b). Pub. L. 103–394, §211(a)(2), added subsec. (b). Former subsec. (b) redesignated (c).
 
 Subsec. (c). Pub. L. 103–394, §211(a)(1), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
 Subsec. (d). Pub. L. 103–394, §§211(a)(1), 501(d)(30), redesignated subsec. (c) as (d) and inserted comma after “interest”.
 
-1986—Subsecs. (a), (b). Pub. L. 99–554, §222(1), (2), inserted “or the United States trustee” after “party in interest”.
+<b>1986</b>—Subsecs. (a), (b). Pub. L. 99–554, §222(1), (2), inserted “or the United States trustee” after “party in interest”.
 
 Subsec. (c). Pub. L. 99–554, §222(3), substituted “the United States trustee, after consultation with parties in interest shall appoint, subject to the court's approval, one disinterested person other than the United States trustee to serve” for “the court shall appoint one disinterested person to serve”.
 

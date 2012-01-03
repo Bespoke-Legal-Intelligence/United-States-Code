@@ -6,7 +6,7 @@ In carrying out this subchapter, the Secretary may—
 
 &emsp;(1) provide technical assistance to any council to assist in developing and implementing an area plan for a designated area;
 
-&emsp;(2) cooperate with other departments and agencies of the Federal Government, States, local units of government, local Indian tribes,and local nonprofit organizations in conducting surveys and inventories, disseminating information, and developing area plans;
+&emsp;(2) cooperate with other departments and agencies of the Federal Government, States, local units of government, local Indian tribes, and local nonprofit organizations in conducting surveys and inventories, disseminating information, and developing area plans;
 
 &emsp;(3) assist in carrying out an area plan approved by the Secretary for any designated area by providing technical assistance and financial assistance to any council; and
 

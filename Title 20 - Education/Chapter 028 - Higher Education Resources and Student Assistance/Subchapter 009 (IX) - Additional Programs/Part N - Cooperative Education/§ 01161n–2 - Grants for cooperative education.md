@@ -12,7 +12,7 @@
 
 #### (2) Program requirement
 
-&emsp;Cooperative education programs assisted under this section shall provide alternating or parallel periods of academic study and of public or private employment, giving students work experience related to their academic oroccupational objectives and the opportunity to earn the funds necessary for continuing and completing their education.
+&emsp;Cooperative education programs assisted under this section shall provide alternating or parallel periods of academic study and of public or private employment, giving students work experience related to their academic or occupational objectives and the opportunity to earn the funds necessary for continuing and completing their education.
 
 #### (3) Amount of grants
 

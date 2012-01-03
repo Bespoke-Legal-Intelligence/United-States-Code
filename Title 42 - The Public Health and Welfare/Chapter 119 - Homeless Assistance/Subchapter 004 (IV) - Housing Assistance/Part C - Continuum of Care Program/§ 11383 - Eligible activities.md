@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Grants awarded under section 11382 of this title to qualified applicants shall be used tocarry out projects that serve homeless individuals or families that consist of one or more of the following eligible activities:
+Grants awarded under section 11382 of this title to qualified applicants shall be used to carry out projects that serve homeless individuals or families that consist of one or more of the following eligible activities:
 
 &emsp;(1) Construction of new housing units to provide transitional or permanent housing.
 
@@ -26,7 +26,7 @@ Grants awarded under section 11382 of this title to qualified applicants shall b
 
 &emsp;(9) Operation of, participation in, and ensuring consistent participation by project sponsors in, a community-wide homeless management information system.
 
-&emsp;(10) In the case of a collaborative applicant that is a legal entity, payment of administrative costs related to meeting the requirements described in paragraphs (1) and (2) of section 11360a(f) of this title, for which the collaborative applicant may use not more than 3 percent of the total funds made available in the geographic area under this part for such costs.
+&emsp;(10) In the case of a collaborative applicant that is a legal entity, payment of administrative costs related to meeting the requirements described in paragraphs (1) and (2) of section11360a(f) of this title, for which the collaborative applicant may use not more than 3 percent of the total funds made available in the geographic area under this part for such costs.
 
 &emsp;(11) In the case of a collaborative applicant that is a unified funding agency under section 11360a(g) of this title, payment of administrative costs related to meeting the requirements of that section, for which the unified funding agency may use not more than 3 percent of the total funds made available in the geographic area under this part for such costs, in addition to funds used under paragraph (10).
 
@@ -58,7 +58,7 @@ The Secretary may impose minimum grant terms of up to 5 years for new projects p
 
 &emsp;&emsp;(A) earlier than 10 years after operation of the project begins, the Secretary shall require the recipient or project sponsor to repay 100 percent of the assistance; or
 
-&emsp;&emsp;(B) not earlier than 10 years, but earlier than 15 years, after operation of the project begins, the Secretary shall require the recipient or project sponsor to repay 20 percent ofthe assistance for each of the years in the 15-year period for which the project fails to provide that housing.
+&emsp;&emsp;(B) not earlier than 10 years, but earlier than 15 years, after operation of the project begins, the Secretary shall require the recipient or project sponsor to repay 20 percent of the assistance for each of the years in the 15-year period for which the project fails to provide that housing.
 
 #### (2) Prevention of undue benefits
 

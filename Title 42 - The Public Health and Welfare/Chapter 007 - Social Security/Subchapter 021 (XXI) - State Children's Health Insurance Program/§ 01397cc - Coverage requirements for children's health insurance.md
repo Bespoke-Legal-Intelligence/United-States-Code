@@ -90,7 +90,7 @@ The benchmark benefit packages are as follows:
 
 &emsp;&emsp;(C) using a standardized set of utilization and price factors;
 
-&emsp;&emsp;(D) using a standardized population that is representative of privately insured childrenof the age of children who are expected to be covered under the State child health plan;
+&emsp;&emsp;(D) using a standardized population that is representative of privately insured children of the age of children who are expected to be covered under the State child health plan;
 
 &emsp;&emsp;(E) applying the same principles and factors in comparing the value of different coverage (or categories of services);
 
@@ -236,7 +236,7 @@ The benchmark benefit packages are as follows:
 
 &emsp;The State child health plan shall provide for the application of subsections (a)(4), (a)(5), (b), (c), (d), and (e) of section 1396u–2 of this title (relating to requirements for managed care) to coverage, State agencies, enrollment brokers, managed care entities, and managed care organizations under this subchapter in the same manner as such subsections apply to coverage and such entities and organizations under subchapter XIX.
 
-(Aug. 14, 1935, ch. 531, title XXI, §2103, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 554; amended Pub. L. 111–3, title I,§111(b)(1), title IV, §403(a), title V, §§501(a)(1), 502, 504(a), 505(a), Feb. 4, 2009, 123 Stat. 28, 84, 89, 90.)
+(Aug. 14, 1935, ch. 531, title XXI, §2103, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 554; amended Pub. L. 111–3, title I, §111(b)(1), title IV, §403(a), title V, §§501(a)(1), 502, 504(a), 505(a), Feb. 4, 2009, 123 Stat. 28, 84, 89, 90.)
 
 #### References in Text
 

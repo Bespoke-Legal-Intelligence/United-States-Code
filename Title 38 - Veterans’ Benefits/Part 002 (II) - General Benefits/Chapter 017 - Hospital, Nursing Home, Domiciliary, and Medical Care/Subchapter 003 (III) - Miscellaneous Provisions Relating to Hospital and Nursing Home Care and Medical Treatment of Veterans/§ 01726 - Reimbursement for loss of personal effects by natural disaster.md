@@ -2,7 +2,7 @@
 
 The Secretary shall, under regulations which the Secretary shall prescribe, reimburse veterans in Department hospitals and domiciliaries for any loss of personal effects sustained by fire, earthquake, or other natural disaster while such effects were stored in designated locations in Department hospitals or domiciliaries.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1144, §627; Pub. L. 93–82, title I, §105, Aug. 2, 1973, 87 Stat. 183; Pub. L. 94–581, title II, §210(a)(12), Oct. 21,1976, 90 Stat. 2863; renumbered §1726 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1144, §627; Pub. L. 93–82, title I, §105, Aug. 2, 1973, 87 Stat. 183; Pub. L. 94–581, title II, §210(a)(12), Oct. 21, 1976, 90 Stat. 2863; renumbered §1726 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
 
 #### Prior Provisions
 

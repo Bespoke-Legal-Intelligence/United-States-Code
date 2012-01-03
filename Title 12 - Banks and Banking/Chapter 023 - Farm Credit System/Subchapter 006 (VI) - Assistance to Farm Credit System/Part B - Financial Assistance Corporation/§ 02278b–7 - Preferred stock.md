@@ -28,7 +28,7 @@ The Financial Assistance Corporation shall purchase shares of stock issued by ce
 
 #### Amendments
 
-1988—Subsec. (a)(1). Pub. L. 100–399, §201(y), struck out “(a) or (b)” after “section 2278a–4”.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–399, §201(y), struck out “(a) or (b)” after “section 2278a–4”.
 
 Subsec. (a)(2)(B). Pub. L. 100–399, §201(z), substituted “Farm Credit System Insurance Corporation” for “Reserve Account Board” and “Insurance Corporation purchases” for “Board purchases”.
 

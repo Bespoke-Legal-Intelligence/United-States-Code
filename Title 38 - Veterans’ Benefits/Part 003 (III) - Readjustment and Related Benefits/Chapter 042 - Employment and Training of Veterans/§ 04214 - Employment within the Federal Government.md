@@ -52,7 +52,7 @@
 
 (g) To further the policy stated in subsection (a) of this section, the Secretary may give preference to qualified covered veterans for employment in the Department as veterans’ benefits counselors and veterans’ claims examiners and in positions to provide the outreach services required under section 6303 of this title, to serve as veterans’ representatives at certain educational institutions as provided in section 6305 of this title, or to provide readjustment counseling under section 1712A of this title.
 
-(Added Pub. L. 93–508, title IV, §403(a), Dec. 3, 1974, 88 Stat. 1593, §2014; amended Pub. L. 95–202, title III, §308, Nov. 23, 1977, 91 Stat. 1445; Pub. L. 95–520, §6(b), Oct. 26, 1978, 92 Stat. 1821; Pub. L. 96–466, title V, §510, title VIII, §801(<i>l</i>), Oct. 17, 1980, 94 Stat. 2207, 2217; Pub. L. 97–72, title II, §202(a), Nov. 3, 1981, 95 Stat. 1054; Pub. L. 97–295, §4(95)(A), Oct. 12, 1982, 96 Stat. 1313; Pub. L. 98–543, title II, §211, Oct. 24, 1984, 98 Stat. 2743; Pub. L. 99–576, title III, §332, Oct. 28, 1986, 100 Stat. 3279; Pub. L. 101–237, title IV, §407(a)(1), (b), Dec. 18, 1989, 103 Stat. 2082; Pub. L. 102–16, §9(a), (b), Mar. 22, 1991, 105 Stat. 54; renumbered §4214 and amended Pub. L. 102–83, §§2(c)(5), 4(a)(1), (3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 402–406; Pub. L. 102–127, §4, Oct. 10, 1991, 105 Stat. 622; Pub. L. 102–568, title V, §505, Oct. 29, 1992, 106 Stat. 4340; Pub. L. 107–288, §2(c)(1)–(3), Nov. 7, 2002, 116 Stat. 2036; Pub. L. 109–233, title IV, §402(e)(3), June 15, 2006, 120 Stat. 411.)
+(Added Pub. L. 93–508, title IV, §403(a), Dec. 3, 1974, 88 Stat. 1593, §2014; amended Pub. L. 95–202, title III, §308, Nov. 23, 1977, 91 Stat. 1445; Pub. L. 95–520, §6(b), Oct. 26, 1978, 92 Stat. 1821; Pub. L. 96–466, title V, §510, title VIII, §801(<i>l</i>), Oct. 17, 1980, 94 Stat. 2207, 2217; Pub. L. 97–72, title II, §202(a), Nov. 3, 1981, 95 Stat. 1054; Pub. L. 97–295, §4(95)(A), Oct. 12, 1982, 96 Stat. 1313; Pub. L. 98–543, title II, §211, Oct. 24, 1984, 98 Stat. 2743; Pub. L. 99–576, title III, §332, Oct. 28, 1986, 100Stat. 3279; Pub. L. 101–237, title IV, §407(a)(1), (b), Dec. 18, 1989, 103 Stat. 2082; Pub. L. 102–16, §9(a), (b), Mar. 22, 1991, 105 Stat. 54; renumbered §4214 and amended Pub. L. 102–83, §§2(c)(5), 4(a)(1), (3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 402–406; Pub. L. 102–127, §4, Oct. 10, 1991, 105 Stat. 622; Pub. L. 102–568, title V, §505, Oct. 29, 1992, 106 Stat. 4340; Pub. L. 107–288, §2(c)(1)–(3), Nov. 7, 2002, 116 Stat. 2036; Pub. L. 109–233, title IV, §402(e)(3), June 15, 2006, 120 Stat. 411.)
 
 #### References in Text
 
@@ -142,7 +142,7 @@ Subsec. (b)(1). Pub. L. 101–237, §407(b)(2)(A)(i), substituted “veterans re
 
 Subsec. (b)(1)(A). Pub. L. 101–237, §407(b)(2)(A)(ii), inserted before semicolon at end “or in the case of a veteran referred to in paragraph (2)(A) of this subsection, the level of GS–11 or its equivalent”.
 
-Subsec. (b)(1)(B). Pub. L. 101–237, §407(b)(2)(A)(iii), added cl. (B) and struck out former cl. (B) which readas follows: “a veteran of the Vietnam era shall be eligible for such an appointment without any time limitation with respect to eligibility for such an appointment;”.
+Subsec. (b)(1)(B). Pub. L. 101–237, §407(b)(2)(A)(iii), added cl. (B) and struck out former cl. (B) which read as follows: “a veteran of the Vietnam era shall be eligible for such an appointment without any time limitation with respect to eligibility for such an appointment;”.
 
 Subsec. (b)(1)(C). Pub. L. 101–237, §407(b)(2)(A)(iv), inserted “referred to in paragraph (2) of this subsection” after “a veteran of the Vietnam era”.
 
@@ -226,7 +226,41 @@ Section effective Dec. 3, 1974, see section 503 of Pub. L. 93–508, set out as 
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of reporting provisions in subsec. (e) of this section, see section 3003of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 188 of House Document No. 103–7.
+For termination, effective May 15, 2000, of reporting provisions in subsec. (e) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 188 of House Document No. 103–7.
+
+#### Employment Assistance: Other Federal Agencies
+
+Pub. L. 112–56, title II, §235(b), Nov. 21, 2011, 125 Stat. 724, provided that:
+
+“(1)
+
+Definitions.—In this subsection—
+
+&emsp;“(A) the term ‘agency’ has the meaning given the term ‘Executive agency’ in section 105 of title 5, United States Code; and
+
+&emsp;“(B) the term ‘veteran’ has the meaning given that term in section 101 of title 38, United States Code.
+
+“(2)
+
+Responsibilities of office of personnel management.—The Director of the Office of Personnel Management shall—
+
+&emsp;“(A) designate agencies that shall establish a program to provide employment assistance to members of the Armed Forces who are being separated from active duty in accordance with paragraph (3); and
+
+&emsp;“(B) ensure that the programs established under this subsection are coordinated with the Transition Assistance Program (TAP) of the Department of Defense.
+
+“(3)
+
+Elements of program.—The head of each agency designated under paragraph (2)(A), in consultation with the Director of the Office of Personnel Management, and acting through the Veterans Employment Program Office of the agency established under Executive Order 13518 (74 Fed. Reg. 58533; relating to employment of veterans in the Federal Government) \[5 U.S.C. 3301 note\], or any successor thereto, shall—
+
+&emsp;“(A) establish a program to provide employment assistance to members of the Armed Forces who are being separated from active duty, including assisting such members in seeking employment with the agency;
+
+&emsp;“(B) provide such members with information regarding the program of the agency established under subparagraph (A); and
+
+&emsp;“(C) promote the recruiting, hiring, training and development, and retention of such members and veterans by the agency.
+
+“(4)
+
+Other office.—If an agency designated under paragraph (2)(A) does not have a Veterans Employment Program Office, the head of the agency, in consultation with the Director of the Office of Personnel Management, shall select an appropriate office of the agency to carry out the responsibilities of the agency under paragraph (3).”
 
 #### Contents of Reports on Veterans’ Readjustment Appointments
 

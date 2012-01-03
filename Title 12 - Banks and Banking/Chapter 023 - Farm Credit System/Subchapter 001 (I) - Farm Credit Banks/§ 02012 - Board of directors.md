@@ -1,6 +1,6 @@
 ### §2012. Board of directors
 
-Each Farm Credit Bank shall elect a board of directors of such number, for such term, in such manner, and with such qualifications, as may be required in its bylaws, except that, at least onemember shall be elected by the other directors, which member shall not be a director, officer, employee, or stockholder of a System institution.
+Each Farm Credit Bank shall elect a board of directors of such number, for such term, in such manner, and with such qualifications, as may be required in its bylaws, except that, at least one member shall be elected by the other directors, which member shall not be a director, officer, employee, or stockholder of a System institution.
 
 (Pub. L. 92–181, title I, §1.4, as added Pub. L. 100–233, title IV, §401, Jan. 6, 1988, 101 Stat. 1622; amended Pub. L. 100–399, title IV, §401(c), Aug. 17, 1988, 102 Stat. 995.)
 
@@ -10,7 +10,7 @@ A prior section 2012, Pub. L. 92–181, title I, §1.4, Dec. 10, 1971, 85 Stat. 
 
 #### Amendments
 
-1988—Pub. L. 100–399 struck out “from its voting stockholders” after “shall elect”.
+<b>1988</b>—Pub. L. 100–399 struck out “from its voting stockholders” after “shall elect”.
 
 #### Effective Date of 1988 Amendment
 

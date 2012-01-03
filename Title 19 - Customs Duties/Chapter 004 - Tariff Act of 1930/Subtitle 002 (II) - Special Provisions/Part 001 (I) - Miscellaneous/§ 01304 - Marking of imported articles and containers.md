@@ -14,7 +14,7 @@ Except as hereinafter provided, every article of foreign origin (or its containe
 
 &emsp;&emsp;(B) Such article cannot be marked prior to shipment to the United States without injury;
 
-&emsp;&emsp;(C) Such article cannot be marked prior to shipment to the United States, except at anexpense economically prohibitive of its importation;
+&emsp;&emsp;(C) Such article cannot be marked prior to shipment to the United States, except at an expense economically prohibitive of its importation;
 
 &emsp;&emsp;(D) The marking of a container of such article will reasonably indicate the origin of such article;
 
@@ -44,7 +44,7 @@ Whenever an article is excepted under subdivision (3) of subsection (a) of this 
 
 #### (d) Marking of compressed gas cylinders
 
-No exception may be made under subsection (a)(3) of this section with respect to compressed gas cylinders designed to be used for the transport and storage of compressed gases whether or not certified prior to exportation to have been made in accordance with the safety requirements of sections 178.36 through 178.68 of title 49, Code of Federal Regulations, each of which shall be marked with the English name of the country of origin by means of die stamping, molding, etching, raised lettering, or an equally permanent method of marking.
+No exception may be made under subsection (a)(3) of this section with respect to compressed gas cylinders designed to be used for the transport and storage of compressed gases whether or not certified prior to exportation to have been made in accordance with the safety requirements of sections 178.36 through 178.68 of title 49, Code of Federal Regulations, each of which shall be marked with the English name of the countryof origin by means of die stamping, molding, etching, raised lettering, or an equally permanent method of marking.
 
 #### (e) Marking of certain manhole rings or frames, covers, and assemblies thereof
 
@@ -102,7 +102,7 @@ No imported article held in customs custody for inspection, examination, or appr
 
 &emsp;&emsp;&emsp;&emsp;(I) if claiming to be the exporter, is located in a NAFTA country and is required to maintain records in that country regarding exportations to NAFTA countries; or
 
-&emsp;&emsp;&emsp;&emsp;(II) if claiming to be the producer, grows, mines, harvests, fishes, traps, hunts, manufactures, processes, or assembles such merchandise in a NAFTA country.
+&emsp;&emsp;&emsp;&emsp;(II) if claiming to be the producer, grows, mines, harvests, fishes, traps,hunts, manufactures, processes, or assembles such merchandise in a NAFTA country.
 
 #### (B) Intervention or petition regarding adverse marking decisions
 
@@ -200,7 +200,7 @@ Section 214 of title II of Pub. L. 98–573 provided that:
 
 “(a) For purposes of this section, the term ‘15th day’ means the 15th day after the date of the enactment of this Act \[Oct. 30, 1984\].
 
-“(b) Except as provided in subsections (c), (d), and (e), the amendments made by this title \[enacting sections 58b, 1339, and 1627a of this title, amending sections 81c, 81<i>o</i>, 1313, 1330, 1431, 1498, 1555, 2192, 2251, 2253, and 2703 of this title, section 925 of Title 18, Crimes and Criminal Procedure, and section 162 of Title 26, Internal Revenue Code, and enacting provisions set out as notes undersections 2, 81c, 81<i>o</i>, and 1339 of this title, and section 162 of Title 26\] shall take effect on the 15th day.
+“(b) Except as provided in subsections (c), (d), and (e), the amendments made by this title \[enacting sections 58b, 1339, and 1627a of this title, amending sections 81c, 81<i>o</i>, 1313, 1330, 1431, 1498, 1555, 2192, 2251, 2253, and 2703 of this title, section 925 of Title 18, Crimes and Criminal Procedure, and section 162 of Title 26, Internal Revenue Code, and enacting provisions set out as notes under sections 2, 81c, 81<i>o</i>, and 1339 of this title, and section 162 of Title 26\] shall take effect on the 15th day.
 
 “(c)(1) The amendment made by section 204 \[amending section 1441 of this title\] shall apply with respect to vessels returning from the British Virgin Islands on or after the 15th day.
 
@@ -250,7 +250,7 @@ Amendment by act June 25, 1938, effective on thirtieth day following June 25, 19
 
 #### Savings Provision
 
-Section 23 of act Aug. 8, 1953, provided: “Except as may be otherwise provided for in this Act \[see Short Title of 1953 Amendment note set out under section 1654 of this title\], the repeal of existing law or modifications thereof embraced in this Act shall not affect any act done, or any right accruing or accrued, or any suit or proceeding had or commenced in any civil or criminal case prior to such repeal or modification, but all liabilities under such laws shall continue, except as otherwise specifically provided in this Act, and may be enforced in the same manner as if such repeal or modification had not been made.”
+Section 23 of act Aug. 8, 1953, provided: “Except as may be otherwise provided for in this Act \[see Short Title of 1953 Amendment note set out under section 1654 of this title\], the repeal of existing law or modifications thereof embraced in this Act shall not affect any act done, or any right accruing or accrued, or any suit or proceeding had or commenced in any civil or criminal case prior to such repeal or modification, but all liabilities under such laws shall continue, except asotherwise specifically provided in this Act, and may be enforced in the same manner as if such repeal or modification had not been made.”
 
 #### Transfer of Functions
 
@@ -264,5 +264,5 @@ Section 207(b) of Pub. L. 103–182 provided that: “Articles that qualify as g
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
 

@@ -40,9 +40,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsecs. (a), (b)(3), (c). Pub. L. 110–246, §1606, substituted “title I of the Farm Security and Rural Investment Act of 2002, and title I of the Food, Conservation, and Energy Act of 2008” for “and title I of the Farm Security and Rural Investment Act of 2002”.
+<b>2008</b>—Subsecs. (a), (b)(3), (c). Pub. L. 110–246, §1606, substituted “title I of the Farm Security and Rural Investment Act of 2002, and title I of the Food, Conservation, and Energy Act of 2008” for “and title I of the Farm Security and Rural Investment Act of 2002”.
 
-2002—Subsecs. (a), (b)(3), (c). Pub. L. 107–171 substituted “this chapter and title I of the Farm Security and Rural Investment Act of 2002” for “this chapter”.
+<b>2002</b>—Subsecs. (a), (b)(3), (c). Pub. L. 107–171 substituted “this chapter and title I of the Farm Security and Rural Investment Act of 2002” for “this chapter”.
 
 #### Effective Date of 2008 Amendment
 

@@ -60,5 +60,5 @@ Section effective not later than six months after Dec. 17, 2004, except as other
 
 #### Delegation of Functions
 
-Reporting functions of President under this section assigned to the Director of National Intelligence bysection 3 of Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 48633, set out as a note under section 301 of Title 3, The President.
+Reporting functions of President under this section assigned to the Director of National Intelligence by section 3 of Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 48633, set out as a note under section 301 of Title 3, The President.
 

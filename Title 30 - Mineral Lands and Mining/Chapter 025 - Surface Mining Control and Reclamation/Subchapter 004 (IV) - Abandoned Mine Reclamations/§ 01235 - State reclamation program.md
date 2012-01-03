@@ -28,7 +28,7 @@ On an annual basis, each State having an approved State Reclamation Plan may sub
 
 &emsp;(2) a priority evaluation of each proposed project;
 
-&emsp;(3) a statement of the estimated benefits in such terms as: number of acres restored, milesof stream improved, acres of surface lands protected from subsidence, population protected from subsidence, air pollution, hazards of mine and coal refuse disposal area fires;
+&emsp;(3) a statement of the estimated benefits in such terms as: number of acres restored, miles of stream improved, acres of surface lands protected from subsidence, population protected from subsidence, air pollution, hazards of mine and coal refuse disposal area fires;
 
 &emsp;(4) an estimate of the cost for each proposed project;
 

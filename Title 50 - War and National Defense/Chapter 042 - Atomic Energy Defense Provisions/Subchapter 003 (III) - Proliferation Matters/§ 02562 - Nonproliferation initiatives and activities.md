@@ -34,11 +34,7 @@
 
 (B) If the Secretary determines as a result of the evaluation that a project is not likely to achieve its intended commercial objective, the Secretary shall terminate the project.
 
-(6) Funds appropriated for the Initiatives for Proliferation Prevention program may not be used to pay any tax or customs duty levied by the government of the Russian Federation. In the event payment of such a tax or customs duty with such funds is unavoidable, the Secretary of Energy shall—
-
-&emsp;(A) after such payment, submit a report to the congressional defense committees explaining the particular circumstances making such payment under the Initiatives for Proliferation Prevention program with such funds unavoidable; and
-
-&emsp;(B) ensure that sufficient additional funds are provided to the Initiatives for Proliferation Prevention Program <sup>1</sup> to offset the amount of such payment.
+(6) Funds appropriated for the Initiatives for Proliferation Prevention program may not be used to pay any tax or customs duty levied by the government of the Russian Federation. In the event payment of such a tax or customs duty with such funds is unavoidable, the Secretary of Energy shall ensure that sufficient additional funds are provided to the Initiatives for Proliferation Prevention Program <sup>1</sup> to offset the amount of such payment.
 
 #### (b) Nuclear Cities Initiative
 
@@ -50,7 +46,7 @@
 
 (B) If the Secretary determines as a result of the study that the intended commercial benefits of a program are not likely to be achieved, the Secretary may not provide assistance for the conduct of that program.
 
-(4) Not later than January 1, 2000, the Secretary shall submit to Congress a report describing the participation in or contribution to the Nuclear Cities Initiative of each department and agency of the United States Government that participates in or contributes to the initiative. The report shall describe separately any interagency participation in or contribution to the initiative.
+(4) Not later than January 1, 2000, the Secretary shall submit to Congress a report describing the participation in or contribution to theNuclear Cities Initiative of each department and agency of the United States Government that participates in or contributes to the initiative. The report shall describe separately any interagency participation in or contribution to the initiative.
 
 #### (c) Report
 
@@ -72,7 +68,7 @@
 
 For purposes of this section, the term “Nuclear Cities Initiative” means the initiative arising pursuant to the March 1998 discussions between the Vice President of the United States and the Prime Minister of the Russian Federation and between the Secretary of Energy of the United States and the Minister of Atomic Energy of the Russian Federation.
 
-(Pub. L. 107–314, div. D, title XLIII, §4302, formerly Pub. L. 106–65, div. C, title XXXI, §3136, Oct. 5, 1999, 113 Stat. 927; renumbered Pub. L. 107–314, div. D, title XLIII, §4302, and amended Pub. L. 108–136, div. C, title XXXI, §3141(f)(3), Nov. 24, 2003, 117 Stat. 1762.)
+(Pub. L. 107–314, div. D, title XLIII, §4302, formerly Pub. L. 106–65, div. C, title XXXI, §3136, Oct. 5, 1999, 113 Stat. 927; renumbered Pub. L. 107–314, div. D, title XLIII, §4302, and amended Pub. L. 108–136, div. C, title XXXI, §3141(f)(3), Nov. 24, 2003, 117 Stat. 1762; Pub. L. 112–81, div. C, title XXXI, §3121(b), Dec. 31, 2011, 125 Stat. 1709.)
 
 #### References in Text
 
@@ -81,6 +77,8 @@ Title XXXI of the National Defense Authorization Act for Fiscal Year 2000, refer
 This title, referred to in subsec. (b)(2), probably means title XXXI of Pub. L. 106–65. See above.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (a)(6). Pub. L. 112–81 amended par. (6) generally. Prior to amendment, par. (6) prohibited use of funds appropriated for the Initiatives for Proliferation Prevention program to be used to pay Russian Federation taxes or customs duties and, in the event funds were used to pay such taxes or duties, required the Secretary of Energy to provide explanation to the congressional defense committees and to provide additional funds to the program to offset the payment.
 
 <b>2003</b>—Subsec. (b)(1). Pub. L. 108–136, §3141(f)(3)(D), substituted “title XXXI of the National Defense Authorization Act for Fiscal Year 2000 (Public Law 106–65)” for “this title”.
 

@@ -170,7 +170,7 @@ For purposes of this section—
 
 #### (B) Limitation
 
-&emsp;&emsp;In the case of qualified microturbine property placed in service during the taxableyear, the credit otherwise determined under subsection (a) for such year with respect to such property shall not exceed an amount equal <sup>2</sup> $200 for each kilowatt of capacity of such property.
+&emsp;&emsp;In the case of qualified microturbine property placed in service during the taxable year, the credit otherwise determined under subsection (a) for such year with respect to such property shall not exceed an amount equal <sup>2</sup> $200 for each kilowatt of capacity of such property.
 
 #### (C) Stationary microturbine power plant
 
@@ -186,7 +186,7 @@ For purposes of this section—
 
 &emsp;&emsp;The term “combined heat and power system property” means property comprising a system—
 
-&emsp;&emsp;&emsp;(i) which uses the same energy source for the simultaneous or sequential generation of electrical power, mechanical shaft power, or both, in combination with the generation of steam or other forms of useful thermal energy (including heating and cooling applications),
+&emsp;&emsp;&emsp;(i) which uses the same energy source for the simultaneous or sequential generationof electrical power, mechanical shaft power, or both, in combination with the generation of steam or other forms of useful thermal energy (including heating and cooling applications),
 
 &emsp;&emsp;&emsp;(ii) which produces—
 
@@ -396,7 +396,7 @@ Termination.—Effective with respect to periods after June 30, 1992, the energy
 
 <b>1991</b>—Subsec. (a)(2)(B). Pub. L. 102–227 substituted “June 30, 1992” for “December 31, 1991”.
 
-<b>1990</b>—Pub. L. 101–508, §11813(a), amended section generally, substituting section catchline for one which read: “Definitions; special rules” and in text substituting present provisions for provisions defining section 38 property, new section 38 property, used section 38 property, provisions relating to certain leased property, estates and trusts, special rules for qualified rehabilitated buildings, credit for movie and television films, treatment of energy property, application of certain transitional rules, definitions of certain credits, definition of single purpose agricultural or horticulturalstructure, basis adjustment to section 38 property, certain section 501(d) organizations, special rules relating to sound recordings, and a cross reference to section 381 of this title.
+<b>1990</b>—Pub. L. 101–508, §11813(a), amended section generally, substituting section catchline for one which read: “Definitions; special rules” and in text substituting present provisions for provisions defining section 38 property, new section 38 property, used section 38 property, provisions relating to certain leased property, estates and trusts, special rules for qualified rehabilitated buildings, credit for movie and television films, treatment of energy property, application of certain transitional rules, definitions of certain credits, definition of single purpose agricultural or horticultural structure, basis adjustment to section 38 property, certain section 501(d) organizations, special rules relating to sound recordings, and a cross reference to section 381 of this title.
 
 Subsec. (a)(8). Pub. L. 101–508, §11801(c)(6)(A), struck out par. (8) “Amortized property” which read as follows: “Any property with respect to which an election under section 167(k), 184, or 188 applies shall not be treated as section 38 property.”
 
@@ -462,7 +462,7 @@ Subsec. (s)(5). Pub. L. 99–514, §803(b)(2)(B), which directed the general ame
 
 <b>1985</b>—Subsec. (g)(2)(A)(i), (B)(v). Pub. L. 99–121 substituted “19” for “18”.
 
-<b>1984</b>—Subsec. (a)(5). Pub. L. 98–369, §31(b), amended par. (5) generally, to extend its scope to encompass property used by foreign persons or entities and to create an exception for short-term leases by substituting provisions covered by subpars. (A) to (D) for former provisions which had directed that property used by the United States, any State or political subdivision thereof, any international organization, or any agency or instrumentality of any of the foregoing not be treated as section 38 property, that for purposes of that prohibition the International Telecommunications Satellite Consortium, the International Maritime Satellite Organization, and any successor organization of suchConsortium or Organization not be treated as an international organization, and that if any qualified rehabilitated building were used by the governmental unit pursuant to a lease, this paragraph would not apply to that portion of the basis of such building attributable to qualified rehabilitation expenditures.
+<b>1984</b>—Subsec. (a)(5). Pub. L. 98–369, §31(b), amended par. (5) generally, to extend its scope to encompass property used by foreign persons or entities and to create an exception for short-term leases by substituting provisions covered by subpars. (A) to (D) for former provisions which had directed that property used by the United States, any State or political subdivision thereof, any international organization, or any agency or instrumentality of any of the foregoing not be treated as section 38 property, that for purposes of that prohibition the International Telecommunications Satellite Consortium, the International Maritime Satellite Organization, and any successor organization of such Consortium or Organization not be treated as an international organization, and that if any qualified rehabilitated building were used by the governmental unit pursuant to a lease, this paragraph would not apply to that portion of the basis of such building attributable to qualified rehabilitation expenditures.
 
 Subsec. (b). Pub. L. 98–369, §114(a), amended subsec. (b) generally, substituting a general definition of “new section 38 property” for definitions which made reference to property constructed, reconstructed or erected after December 31, 1961, and adding pars. (2) and (3).
 
@@ -546,7 +546,7 @@ Subsec. (d)(5). Pub. L. 97–248, §205(a)(4), added par. (5).
 
 Subsec. (e). Pub. L. 97–354, §5(a)(7), struck out subsec. (e) relating to apportionment among shareholders of qualified investments by an electing small business corporation.
 
-Subsec. (g)(5). Pub. L. 97–248, §205(a)(5)(A), struck out par. (5) which, as amended by §102(f)(3) of Pub. L. 97–448, had provided that for purposes of this subtitle, if a credit were determined under section 46(a)(2) for any qualified rehabilitation expenditure in connectionwith a qualified rehabilitated building other than a certified historic structure, the increase in basis of such property which would (but for this paragraph) have resulted from such expenditure had to be reduced by the amount of the credit so determined, that if during any taxable year there was a recapture amount determined with respect to any qualified rehabilitated building the basis of which was reduced under subpar. (A), the basis of such building (immediately before the event resulting in such recapture), had to be increased by an amount equal to such recapture amount, and that for purposes of this paragraph “recapture amount” was defined as any increase in tax (or adjustment in carrybacks or carryovers) determined under section 47(a)(5). See 1983 Amendment note for subsec. (g)(5) above and see Effective Date of 1982 and 1983 Amendment notes set out under sections 1 and 196 of this title.
+Subsec. (g)(5). Pub. L. 97–248, §205(a)(5)(A), struck out par. (5) which, as amended by §102(f)(3) of Pub. L. 97–448, had provided that for purposes of this subtitle, if a credit were determined under section 46(a)(2) for any qualified rehabilitation expenditure in connection with a qualified rehabilitated building other than a certified historic structure, the increase in basis of such property which would (but for this paragraph) have resulted from such expenditure had to be reduced by the amount of the credit so determined, that if during any taxable year there was a recapture amount determined with respect to any qualified rehabilitated building the basis of which was reduced under subpar. (A), the basis of such building (immediately before the event resulting in such recapture), had to be increased by an amount equal to such recapture amount, and that for purposes of this paragraph “recapture amount” was defined as any increase in tax (or adjustment in carrybacks or carryovers) determined under section 47(a)(5). See 1983 Amendment note for subsec. (g)(5) above and see Effective Date of 1982 and 1983 Amendment notes set out under sections 1 and 196 of this title.
 
 Subsec. (k)(5)(D)(i). Pub. L. 97–354, §5(a)(8), substituted “an S corporation” for “an electing small business corporation (within the meaning of section 1371)”.
 
@@ -626,7 +626,7 @@ Subsec. (n). Pub. L. 96–222, §101(a)(7)(G), (H), (L)(i)(I)–(IV), (ii)(III)�
 
 Subsec. (n)(6)(B)(i). Pub. L. 96–605, §223(a), substituted “the date on which the securities are contributed to the plan” for “the due date for filing the return for the taxable year (determined with regard to extensions)”.
 
-Subsec. (<i>o</i>). Pub. L. 96–222, §101(a)(7)(L)(iii)(III), (v)(IV), (V), (M)(iii), substituted “employee plan” for “ESOP” wherever appearing and inserted “percentage” after “attributable to the matching employee plan” in par. (5).
+Subsec. (<i>o</i>). Pub. L. 96–222, §101(a)(7)(L)(iii)(III), (v)(IV), (V), (M)(iii), substituted “employee plan” for“ESOP” wherever appearing and inserted “percentage” after “attributable to the matching employee plan” in par. (5).
 
 <b>1978</b>—Subsec. (a)(1)(A). Pub. L. 95–618, §301(d)(1), inserted “(other than an air conditioning or heating unit)” after “personal property”.
 
@@ -706,7 +706,7 @@ Subsec. (a)(6). Pub. L. 92–178, §104(e), substituted provisions for treatment
 
 Subsec. (a)(7) to (9). Pub. L. 92–178, §§103, 104(f)(1), (g), added pars. (7) to (9), respectively.
 
-Subsec. (d). Pub. L. 92–178, §108(b) and (c), substituted “section 46(d)(1)” for “section 46(d)”; and designated as par. (1) the present first sentence, redesignated as subpars. (A) and (B) provisions formerly designated cls. (1) and (2), again substituted “section 46(d)(1)” for “section 46(d)” in par. (1) and inserted “(other than property described in paragraph (4))” in par. (1), added pars. (2) and (4), incorporated provisions of former second, third, and fourth sentences in provisions designated as par. (3),substituted in par. (3) “the lessee shall be treated for all purposes of this subpart as having acquired a fractional portion of such property equal to the fraction determined under paragraph (2)(B) with respect to such property” for “the lessee shall be treated for all purposes of this subpart as having acquired such property”, and struck out former fifth and sixth sentences respecting election regarding treatment of leases of suspension period property and section 38 property. See Effective Date of 1971 Amendment note below.
+Subsec. (d). Pub. L. 92–178, §108(b) and (c), substituted “section 46(d)(1)” for “section 46(d)”; and designated as par. (1) the present first sentence, redesignated as subpars. (A) and (B) provisions formerly designated cls. (1) and (2), again substituted “section 46(d)(1)” for “section 46(d)” in par. (1) and inserted “(other than property described in paragraph (4))” in par. (1), added pars. (2) and (4), incorporated provisions of former second, third, and fourth sentences in provisions designated as par. (3), substituted in par. (3) “the lessee shall be treated for all purposes of this subpart as having acquired a fractional portion of such property equal to the fraction determined under paragraph (2)(B) with respect to such property” for “the lessee shall be treated for all purposes of this subpart as having acquired such property”, and struck out former fifth and sixth sentences respecting election regarding treatment of leases of suspension period property and section 38 property. See Effective Date of 1971 Amendment note below.
 
 <b>1969</b>—Subsec. (a)(4). Pub. L. 91–172, §121(d)(2)(A), inserted provision relating to the percentage of the basis or cost of debt-financed property that may be considered in computing qualified investment under section 46(c) of this title.
 
@@ -1062,7 +1062,7 @@ Functions, powers, and duties of Federal Aviation Agency and of Administrator an
 
 #### Grants for Specified Energy Property in Lieu of Tax Credits
 
-Pub. L. 111–5, div. B, title I, §1603, Feb. 17, 2009, 123 Stat. 364, as amended by Pub. L. 111–312, title VII, §707, Dec. 17, 2010, 124 Stat. 3312, provided that:
+Pub. L. 111–5, div. B, title I, §1603, Feb. 17, 2009, 123 Stat. 364, as amended by Pub. L. 111–312, title VII, §707, Dec. 17, 2010, 124 Stat. 3312; Pub. L. 112–81, div. A, title X, §1096(a), Dec. 31, 2011, 125 Stat. 1608, provided that:
 
 “(a)
 
@@ -1144,7 +1144,7 @@ Credit Termination Date.—For purposes of this section, the term ‘credit term
 
 &emsp;“(1) in the case of any specified energy property which is part of a facility described in paragraph (1) of section 45(d) of the Internal Revenue Code of 1986, January 1, 2013,
 
-&emsp;“(2) in the case of any specified energy property which is part of a facility described in paragraph (2), (3), (4), (6), (7), (9), or (11) of section 45(d) of such Code, January 1, 2014, and
+&emsp;“(2) in the case of any specified energy property which is part of a facility described in paragraph (2),\(3), (4), (6), (7), (9), or (11) of section 45(d) of such Code, January 1, 2014, and
 
 &emsp;“(3) in the case of any specified energy property described in section 48 of such Code, January 1, 2017.
 
@@ -1152,7 +1152,7 @@ Credit Termination Date.—For purposes of this section, the term ‘credit term
 
 “(f)
 
-Application of Certain Rules.—In making grants under this section, the Secretary of the Treasury shall apply rules similar to the rules of section 50 of the Internal Revenue Code of 1986. In applying such rules, if the property is disposed of, or otherwise ceases to be specified energy property, the Secretary of the Treasury shall provide for the recapture of the appropriate percentage of the grant amount in such manner as the Secretary of the Treasury determines appropriate.
+Application of Certain Rules.—In making grants under this section, the Secretary of the Treasury shall apply rules similar to the rules of section 50 of the Internal Revenue Code of 1986 (other than subsection (d)(2) thereof). In applying such rules, if the property is disposed of, or otherwise ceases to be specified energy property, the Secretary of the Treasury shall provide for the recapture of the appropriate percentage of the grant amount in such manner as the Secretary of the Treasury determines appropriate.
 
 “(g)
 
@@ -1177,6 +1177,8 @@ Appropriations.—There is hereby appropriated to the Secretary of the Treasury 
 “(j)
 
 Termination.—The Secretary of the Treasury shall not make any grant to any person under this section unless the application of such person for such grant is received before October 1, 2012.”
+
+\[Pub. L. 112–81, div. A, title X, §1096(b), Dec. 31, 2011, 125 Stat. 1608, provided that: “The amendment made by this section \[amending section 1603 of Pub. L. 111–5, set out above\] shall take effect as if included in section 1603 of the American Recovery and Reinvestment Tax Act of 2009 \[Pub. L. 111–5\].”\]
 
 #### Plan Amendments Not Required Until January 1, 1989
 
@@ -1206,7 +1208,7 @@ General rule for determining useful life, predominant foreign use, etc.—In the
 
 &emsp;&emsp;“(B) for purposes of section 46(c)(1) of such Code, the basis of the property shall be determined by taking into account the total production costs (within the meaning of section 48(k)(5)(B) of such Code),
 
-&emsp;&emsp;“(C) for purposes of section 48(a)(2) of such Code, such film shall be considered to be used predominantly outside the United States in the first taxable year for which 50 percent or more of the gross revenues received or accrued during the taxableyear from showing the film were received or accrued from showing the film outside the United States, and
+&emsp;&emsp;“(C) for purposes of section 48(a)(2) of such Code, such film shall be considered to be used predominantly outside the United States in the first taxable year for which 50 percent or more of the gross revenues received or accrued during the taxable year from showing the film were received or accrued from showing the film outside the United States, and
 
 &emsp;&emsp;“(D) Section 47(a)(7) of such Code shall apply.
 
@@ -1230,7 +1232,7 @@ Effect of election.—If the taxpayer makes an election under this paragraph, th
 
 &emsp;&emsp;“(C)
 
-Rules relating to elections.—An election under this paragraph shall be made not later than the day which is 6 months after the date of the enactment of this Act \[Oct. 4, 1976\] and shall be made in such manner as the Secretary of the Treasury or his delegate shall by regulations prescribe. Such an election may be revoked only with the consent of the Secretary of the Treasury or his delegate.
+Rules relating to elections.—An election under this paragraph shall be made not later thanthe day which is 6 months after the date of the enactment of this Act \[Oct. 4, 1976\] and shall be made in such manner as the Secretary of the Treasury or his delegate shall by regulations prescribe. Such an election may be revoked only with the consent of the Secretary of the Treasury or his delegate.
 
 &emsp;&emsp;“(D)
 

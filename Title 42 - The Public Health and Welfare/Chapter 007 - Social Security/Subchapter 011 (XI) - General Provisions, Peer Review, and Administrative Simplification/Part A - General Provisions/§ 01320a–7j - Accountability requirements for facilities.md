@@ -42,7 +42,7 @@ In this section, the term “facility” means—
 
 &emsp;&emsp;(A) The organization must have established compliance standards and procedures to be followed by its employees and other agents that are reasonably capable of reducing the prospect of criminal, civil, and administrative violations under this chapter.
 
-&emsp;&emsp;(B) Specific individuals within high-level personnel of the organization must havebeen assigned overall responsibility to oversee compliance with such standards and procedures and have sufficient resources and authority to assure such compliance.
+&emsp;&emsp;(B) Specific individuals within high-level personnel of the organization must have been assigned overall responsibility to oversee compliance with such standards and procedures and have sufficient resources and authority to assure such compliance.
 
 &emsp;&emsp;(C) The organization must have used due care not to delegate substantial discretionary authority to individuals whom the organization knew, or should have known through the exercise of due diligence, had a propensity to engage in criminal, civil, and administrative violations under this chapter.
 
@@ -84,7 +84,7 @@ In this section, the term “facility” means—
 
 #### (B) Complaint resolution process
 
-&emsp;&emsp;The State must establish a complaint resolution process in order to ensure that the legal representative of a resident of a facility or other responsible party is not denied access to such resident or otherwise retaliated against if they have complained about the quality of care provided by the facility or other issues relating to the facility. Such complaint resolution process shall include—
+&emsp;&emsp;The State must establish a complaint resolution process in order to ensure that the legal representative of a resident of a facility or other responsible party is not denied access to such resident or otherwise retaliated against if they have complained aboutthe quality of care provided by the facility or other issues relating to the facility. Such complaint resolution process shall include—
 
 &emsp;&emsp;&emsp;(i) procedures to assure accurate tracking of complaints received, including notification to the complainant that a complaint has been received;
 
@@ -98,7 +98,7 @@ In this section, the term “facility” means—
 
 #### (g) Submission of staffing information based on payroll data in a uniform format
 
-Beginning not later than 2 years after March 23, 2010, and after consulting with State long-term care ombudsman programs, consumer advocacy groups, provider stakeholder groups, employees and their representatives, and other parties the Secretary deems appropriate, the Secretary shall require a facility to electronically submit to the Secretary direct care staffing information (including information with respect to agency and contract staff) based on payroll and other verifiable and auditable data in a uniform format (according to specifications established by the Secretary in consultation withsuch programs, groups, and parties). Such specifications shall require that the information submitted under the preceding sentence—
+Beginning not later than 2 years after March 23, 2010, and after consulting with State long-term care ombudsman programs, consumer advocacy groups, provider stakeholder groups, employees and their representatives, and other parties the Secretary deems appropriate, the Secretary shall require a facility to electronically submit to the Secretary direct care staffing information (including information with respect to agency and contract staff) based on payroll and other verifiable and auditable data in a uniform format (according to specifications established by the Secretary in consultation with such programs, groups, and parties). Such specifications shall require that the information submitted under the preceding sentence—
 
 &emsp;(1) specify the category of work a certified employee performs (such as whether the employee is a registered nurse, licensed practical nurse, licensed vocational nurse, certified nursing assistant, therapist, or other medical personnel);
 

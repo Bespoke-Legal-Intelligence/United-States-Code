@@ -1,6 +1,6 @@
 ### §5378. Police forces of the Bureau of Engraving and Printing and the United States Mint
 
-(a) The Secretary of the Department of the Treasury, or his designee, in his sole discretion shall fix the rates of basic pay for positions within the police forces of the United States Mint and the Bureau of Engraving and Printing without regard to the pay provisions of title 5, United States Code, except that no entry-level police officer shall receive basic pay for a calendar year that is less than the basic rate of payfor General Schedule GS–7 and no executive security official shall receive basic compensation for a calendar year that exceeds the basic rate of pay for General Schedule GS–15.
+(a) The Secretary of the Department of the Treasury, or his designee, in his sole discretion shall fix the rates of basic pay for positions within the police forces of the United States Mint and the Bureau of Engraving and Printing without regard to the pay provisions of title 5, United States Code, except that no entry-level police officer shall receive basic pay for a calendar year that is less than the basic rate of pay for General Schedule GS–7 and no executive security official shall receive basic compensation for a calendar year that exceeds the basic rate of pay for General Schedule GS–15.
 
 (b) For the purpose of this section, the term “police forces of the Bureau of Engraving and Printing and the United States Mint” means the employees of the Department of the Treasury who are appointed, under the authority of the Secretary of the Treasury, as police officers for the protection of the Bureau of Engraving and Printing and the United States Mint buildings and property.
 
@@ -12,9 +12,9 @@ The General Schedule, referred to in subsec. (a), is set out under section 5332 
 
 #### Amendments
 
-1997—Subsec. (a). Pub. L. 105–61 amended subsec. (a) generally. Prior to amendment, subsec. (a) consisted of pars. (1) to (8) providing maximum levels of General Schedule at which Secretary of the Treasury was to set basic rates of pay for positions in police forces of Bureau of Engraving and Printing and United States Mint.
+<b>1997</b>—Subsec. (a). Pub. L. 105–61 amended subsec. (a) generally. Prior to amendment, subsec. (a) consisted of pars. (1) to (8) providing maximum levels of General Schedule at which Secretary of the Treasury was to set basic rates of pay for positions in police forces of Bureau of Engraving and Printing and United States Mint.
 
-1995—Subsec. (a)(8). Pub. L. 104–52, which directed amendment of this section by adding par. (8), was executed by adding par. (8) at end of subsec. (a) to reflect the probable intent of Congress.
+<b>1995</b>—Subsec. (a)(8). Pub. L. 104–52, which directed amendment of this section by adding par. (8), was executed by adding par. (8) at end of subsec. (a) to reflect the probable intent of Congress.
 
 #### Effective Date; Conversion and Savings Provisions
 
@@ -24,7 +24,7 @@ Section 529 \[title I, §109(c)\] of Pub. L. 101–509 provided that:
 
 “(2)(A) A special pay rate (as defined in subparagraph (B)) shall apply to an individual holding a position if—
 
-&emsp;“(i) as a result of the initial exercise of authority with respect to such position under the amendment made by subsection (a)(1)(A) \[enacting this section\], such individual would (but for this paragraph) be paid—
+&emsp;“(i) as a result of the initial exercise of authority with respect to such position under the amendmentmade by subsection (a)(1)(A) \[enacting this section\], such individual would (but for this paragraph) be paid—
 
 &emsp;&emsp;“(I) at the step of the grade for which such special pay rate is then in effect; or
 

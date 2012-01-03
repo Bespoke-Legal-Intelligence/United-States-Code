@@ -98,9 +98,13 @@ Amendment by Pub. L. 88–448 effective on first day of first month which begins
 
 #### Restriction on Transfer of Funds Available to Central Intelligence Agency for Drug Interdiction and Counter-Drug Activities
 
-Pub. L. 111–118, div. A, title VIII, §8047(b), Dec. 19, 2009, 123 Stat. 3439, provided that: “None of the funds available to the Central Intelligence Agency for any fiscal year for drug interdiction and counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law.”
+Pub. L. 112–74, div. A, title VIII, §8045(b), Dec. 23, 2011, 125 Stat. 817, provided that: “None of the funds available to the Central Intelligence Agency for any fiscal year for drug interdiction and counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 112–10, div. A, title VIII, §8045(b), Apr. 15, 2011, 125 Stat. 67.
+
+Pub. L. 111–118, div. A, title VIII, §8047(b), Dec. 19, 2009, 123 Stat. 3439.
 
 Pub. L. 110–329, div. C, title VIII, §8047(b), Sept. 30, 2008, 122 Stat. 3632.
 

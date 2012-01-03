@@ -30,7 +30,7 @@ Termination of Assistance.—No educational assistance shall be afforded any eli
 
 #### Prior Provisions
 
-Provisions similar to those comprising subsecs. (a) and (b) of this section were contained in Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1176, which was classified to former sections 1612(c) and 1613(a), and 1612(a) of this title, respectively, prior to repeal by section 4(a) of Pub. L. 89–358.
+Provisions similar to those comprising subsecs. (a) and (b) of this section were contained in Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1176, which was classified toformer sections 1612(c) and 1613(a), and 1612(a) of this title, respectively, prior to repeal by section 4(a) of Pub. L. 89–358.
 
 #### Amendments
 

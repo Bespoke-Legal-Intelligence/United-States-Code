@@ -96,11 +96,11 @@ Title XVIII of this Act, referred to in subsec. (e)(2), is title XVIII of the Fo
 
 #### Amendments
 
-1996—Subsec. (e). Pub. L. 104–127 added subsec. (e).
+<b>1996</b>—Subsec. (e). Pub. L. 104–127 added subsec. (e).
 
-1990—Subsecs. (c) to (e). Pub. L. 101–624 redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out former subsec. (c) which read as follows: “In order to meet the increasing needs of consumers and to promote the health and welfare of people, the Secretary shall ensure that the cooperative research, extension, and teaching programs of the various States adequately address the challenges described in paragraph (10) of section 3101 of this title. The Secretary may implement new cooperative initiatives in home economics and related disciplines to address such challenges.”
+<b>1990</b>—Subsecs. (c) to (e). Pub. L. 101–624 redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out former subsec. (c) which read as follows: “In order to meet the increasing needs of consumers and to promote the health and welfare of people, the Secretary shall ensure that the cooperative research, extension, and teaching programs of the various States adequately address the challenges described in paragraph (10) of section 3101 of this title. The Secretary may implement new cooperative initiatives in homeeconomics and related disciplines to address such challenges.”
 
-1985—Subsec. (a)(4). Pub. L. 99–198, §1407(a), added par. (4).
+<b>1985</b>—Subsec. (a)(4). Pub. L. 99–198, §1407(a), added par. (4).
 
 Subsecs. (d), (e). Pub. L. 99–198, §1407(b), added subsecs. (d) and (e).
 

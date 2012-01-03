@@ -10,9 +10,9 @@ For definition of Canal Zone, referred to in text, see section 3602(b) of Title 
 
 #### Amendments
 
-2006—Pub. L. 109–351 and 109–356 amended section identically, substituting “means any national” for “means (1) any national” and striking out “, and (2) any bank or trust company located in the District of Columbia and operating under the supervision of the Comptroller of the Currency” before first semicolon.
+<b>2006</b>—Pub. L. 109–351 and 109–356 amended section identically, substituting “means any national” for “means (1) any national” and striking out “, and (2) any bank or trust company located in the District of Columbia and operating under the supervision of the Comptroller of the Currency” before first semicolon.
 
-1989—Pub. L. 101–73, §801(1), in cl. (1), extended term “bank” to include any financial institution chartered or licensed under Federal law and subject to supervision of Comptroller of the Currency.
+<b>1989</b>—Pub. L. 101–73, §801(1), in cl. (1), extended term “bank” to include any financial institution chartered or licensed under Federal law and subject to supervision of Comptroller of the Currency.
 
 Pub. L. 101–73, §801(2), in cl. (2), inserted definition of term “voluntary dissolution and liquidation”.
 

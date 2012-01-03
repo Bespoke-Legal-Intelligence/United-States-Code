@@ -6,5 +6,5 @@ A person not a citizen who owes permanent allegiance to the United States, and w
 
 #### Amendments
 
-1990—Pub. L. 101–649 substituted “applications” for “petitions”.
+<b>1990</b>—Pub. L. 101–649 substituted “applications” for “petitions”.
 

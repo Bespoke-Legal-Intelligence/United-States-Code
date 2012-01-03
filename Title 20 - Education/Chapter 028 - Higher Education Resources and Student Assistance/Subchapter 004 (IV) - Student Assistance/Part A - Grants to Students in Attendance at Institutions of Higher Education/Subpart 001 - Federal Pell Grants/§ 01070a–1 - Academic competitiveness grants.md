@@ -22,7 +22,7 @@ In this section the term “eligible student” means a student who, for the awa
 
 &emsp;(3) in the case of a student enrolled or accepted for enrollment in—
 
-&emsp;&emsp;(A) the first year of a program of undergraduate education at a two- or four-year degree-granting institution of higher education (including a program of not less than one year for which the institution awards a certificate)—
+&emsp;&emsp;(A) the first year of a program of undergraduate education at a two- or four-year degree-granting institution of higher education (including a program of not less thanone year for which the institution awards a certificate)—
 
 &emsp;&emsp;&emsp;(i) has successfully completed, after January 1, 2006, a rigorous secondary school program of study that prepares students for college and is recognized as such by the State official designated for such recognition, or with respect to any private or home school, the school official designated for such recognition for such school, consistent with State law, which recognized program shall be reported to the Secretary; and
 
@@ -52,7 +52,7 @@ In this section the term “eligible student” means a student who, for the awa
 
 &emsp;&emsp;&emsp;(ii) has obtained a cumulative grade point average of at least 3.0 (or the equivalent as determined under regulations prescribed by the Secretary) in the coursework required for the major described in clause (i);
 
-&emsp;&emsp;(D) the third or fourth year of a program of undergraduate education at an institution of higher education (as defined in section1001(a) of this title), is attending an institution that demonstrates, to the satisfaction of the Secretary, that the institution—
+&emsp;&emsp;(D) the third or fourth year of a program of undergraduate education at an institution of higher education (as defined in section 1001(a) of this title), is attending an institution that demonstrates, to the satisfaction of the Secretary, that the institution—
 
 &emsp;&emsp;&emsp;(i) offers a single liberal arts curriculum leading to a baccalaureate degree, under which students are not permitted by the institution to declare a major in a particular subject area, and the student—
 

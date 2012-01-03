@@ -52,7 +52,35 @@ For purposes of this chapter:
 
 &emsp;The term “written appraisal” means a written statement used in connection with a federally related transaction that is independently and impartially prepared by a licensed or certified appraiser setting forth an opinion of defined value of an adequately described property as of a specific date, supported by presentation and analysis of relevant market information.
 
-(Pub. L. 101–73, title XI, §1121, Aug. 9, 1989, 103 Stat. 517.)
+(Pub. L. 101–73, title XI, §1121, Aug. 9, 1989, 103 Stat. 517; Pub. L. 111–203, title XIV, §1473(f)(4), (t)(2), (3), July 21, 2010, 124 Stat. 2193, 2199.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title XIV, §§1400(c), 1473(f)(4), (t)(2), (3), July 21, 2010, 124 Stat. 2136, 2193, 2199, provided that this section is amended, effective on the date on which final regulations implementing such amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date:</i>
+
+<i>(1) in paragraph (6), by striking “Corporations,” and inserting “Corporation,”;</i>
+
+<i>(2) in paragraph (8), by striking “council” and inserting “Council”; and</i>
+
+<i>(3) by adding at the end the following:</i>
+
+#### <i>“(11) Appraisal management company</i>
+
+&emsp;<i>“The term ‘appraisal management company’ means, in connection with valuing properties collateralizing mortgage loans or mortgages incorporated into a securitization, any external third party authorized either by a creditor of a consumer credit transaction secured by a consumer's principal dwelling or by an underwriter of or other principal in the secondary mortgage markets, that oversees a network or panel of more than 15 certified or licensed appraisers in a State or 25 or more nationally within a given year—</i>
+
+&emsp;&emsp;<i>“(A) to recruit, select, and retain appraisers;</i>
+
+&emsp;&emsp;<i>“(B) to contract with licensed and certified appraisers to perform appraisal assignments;</i>
+
+&emsp;&emsp;<i>“(C) to manage the process of having an appraisal performed, including providing adminis</i><i>trative duties such as receiving appraisal orders and appraisal reports, submitting completed appraisal reports to creditors and underwriters, collecting fees from creditors and underwriters for services provided, and reimbursing appraisers for services performed; or</i>
+
+&emsp;&emsp;<i>“(D) to review and verify the work of appraisers.”</i>
+
+<i>See Effective Date of 2010 Amendment note below.</i>
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as a note under section 1601 of Title 15, Commerce and Trade.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

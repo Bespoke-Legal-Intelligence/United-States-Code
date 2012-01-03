@@ -196,3 +196,7 @@ Functions of President under subsecs. (a)(5) and (c) of this section delegated t
 
 Memorandum of the President of the United States, Aug. 24, 1990, 55 F.R. 35291, which delegated to the Secretary of the Department in which the Coast Guard is operating authority to make available from the Oil Spill Liability Trust Fund not to exceed $50,000,000 in any fiscal year to remove discharged oil or hazardous substances from navigable waters, was revoked by Ex. Ord. No. 12777, §8(i), Oct. 18, 1991, 56 F.R. 54769, set out as a note under section 1321 of this title.
 
+#### Use of Fund for Spills of National Significance
+
+Pub. L. 112–74, div. D, title V, §563, Dec. 23, 2011, 125 Stat. 981, provided that: “For fiscal year 2012 and thereafter, notwithstanding section 1012(a)(5) of the Oil Pollution Act of 1990 (33 U.S.C. 2712(a)(5)) and 31 U.S.C. 3302, in the event that a spill of national significance occurs, any payment of amounts from the Oil Spill Liability Trust Fund pursuant to section 1012(a)(1) of the Oil Pollution Act of 1990 (33 U.S.C. 2712(a)(1)) for the removal costs incurred by the Coast Guard for such spill, shall be credited directly to the accounts of the Coast Guard current at the time such removal costs were incurred or when reimbursement is received: <i>Provided</i>, That such amounts shall be merged with and, without further appropriations, made available for the same time period and the same purpose as the appropriation to which it is credited.”
+

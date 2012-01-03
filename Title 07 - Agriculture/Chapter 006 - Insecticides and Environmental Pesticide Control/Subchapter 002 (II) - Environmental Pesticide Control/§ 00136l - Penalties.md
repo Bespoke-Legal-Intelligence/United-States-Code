@@ -26,7 +26,7 @@
 
 #### (1) In general
 
-&emsp;(A) Any registrant, applicant for a registration, or producer who knowingly violates anyprovision of this subchapter shall be fined not more than $50,000 or imprisoned for not more than 1 year, or both.
+&emsp;(A) Any registrant, applicant for a registration, or producer who knowingly violates any provision of this subchapter shall be fined not more than $50,000 or imprisoned for not more than 1 year, or both.
 
 &emsp;(B) Any commercial applicator of a restricted use pesticide, or any other person not described in subparagraph (A) who distributes or sells pesticides or devices, who knowingly violates any provision of this subchapter shall be fined not more than $25,000 or imprisoned for not more than 1 year, or both.
 
@@ -46,11 +46,11 @@
 
 #### Amendments
 
-1991—Subsec. (a)(2). Pub. L. 102–237 substituted “, except that” for “: <i>Provided</i>, That” and “uses” for “use”.
+<b>1991</b>—Subsec. (a)(2). Pub. L. 102–237 substituted “, except that” for “: <i>Provided</i>, That” and “uses” for “use”.
 
-1988—Subsec. (b)(1). Pub. L. 100–532 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Any registrant, commercial applicator, wholesaler, dealer, retailer, or other distributor who knowingly violates any provision of this subchapter shall be guilty of a misdemeanor and shall on conviction be fined not more than $25,000, or imprisoned for not more than one year, or both.”
+<b>1988</b>—Subsec. (b)(1). Pub. L. 100–532 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Any registrant, commercial applicator, wholesaler, dealer, retailer, or other distributor who knowinglyviolates any provision of this subchapter shall be guilty of a misdemeanor and shall on conviction be fined not more than $25,000, or imprisoned for not more than one year, or both.”
 
-1978—Subsec. (a)(2). Pub. L. 95–396, §17(1), authorized assessment of a civil penalty of not more than $500 for a first offense and not more than $1,000 for each subsequent offense against any applicator providing a service of controlling pests for violations of this subchapter.
+<b>1978</b>—Subsec. (a)(2). Pub. L. 95–396, §17(1), authorized assessment of a civil penalty of not more than $500 for a first offense and not more than $1,000 for each subsequent offense against any applicator providing a service of controlling pests for violations of this subchapter.
 
 Subsec. (a)(3). Pub. L. 95–396, §17(2), struck out provision respecting certain considerations when determining amount of penalty, now covered in par. (4).
 

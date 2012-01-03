@@ -6,7 +6,7 @@ The Secretary concerned shall enforce payment of the recreation fees authorized 
 
 #### (b) Evidence of nonpayment
 
-If the display of proof of payment of a recreation fee, or the payment of a recreation fee within a certain time period is required, failure to display such proof as required or to pay the recreation fee within the time period specified shall constitute nonpayment.
+If the display of proof of payment of a recreation fee, or the payment of a recreation feewithin a certain time period is required, failure to display such proof as required or to pay the recreation fee within the time period specified shall constitute nonpayment.
 
 #### (c) Joint liability
 

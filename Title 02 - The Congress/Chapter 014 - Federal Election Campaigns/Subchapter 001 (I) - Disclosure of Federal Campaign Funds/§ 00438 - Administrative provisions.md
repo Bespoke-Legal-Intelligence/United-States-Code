@@ -10,11 +10,11 @@ The Commission shall—
 
 &emsp;(3) develop a filing, coding, and cross-indexing system consistent with the purposes of this Act;
 
-&emsp;(4) within 48 hours after the time of the receipt by the Commission of reports and statements filed with it, make them available for public inspection, and copying, at the expense of the person requesting such copying, except that any information copied from such reports or statements may not be sold or used by any person for the purpose of soliciting contributions or for commercial purposes, other than using the name and address of any political committee to solicit contributions from such committee. A political committee may submit 10 pseudonyms on each report filed in order to protect against the illegal use of names and addresses of contributors, provided such committee attaches a list of such pseudonyms to the appropriate report. The Secretary or the Commission shall exclude these lists from the public record;
+&emsp;(4) within 48 hours after the time of the receipt by the Commission of reports and statements filed with it, make them available for public inspection, and copying, at the expenseof the person requesting such copying, except that any information copied from such reports or statements may not be sold or used by any person for the purpose of soliciting contributions or for commercial purposes, other than using the name and address of any political committee to solicit contributions from such committee. A political committee may submit 10 pseudonyms on each report filed in order to protect against the illegal use of names and addresses of contributors, provided such committee attaches a list of such pseudonyms to the appropriate report. The Secretary or the Commission shall exclude these lists from the public record;
 
 &emsp;(5) keep such designations, reports, and statements for a period of 10 years from the date of receipt, except that designations, reports, and statements that relate solely to candidates for the House of Representatives shall be kept for 5 years from the date of their receipt;
 
-&emsp;(6)(A) compile and maintain a cumulative index of designations, reports, and statementsfiled under this Act, which index shall be published at regular intervals and made available for purchase directly or by mail;
+&emsp;(6)(A) compile and maintain a cumulative index of designations, reports, and statements filed under this Act, which index shall be published at regular intervals and made available for purchase directly or by mail;
 
 &emsp;(B) compile, maintain, and revise a separate cumulative index of reports and statements filed by multi-candidate committees, including in such index a list of multi-candidate committees; and
 
@@ -50,13 +50,13 @@ Any forms prescribed by the Commission under subsection (a)(1) of this section, 
 
 #### (e) Scope of protection for good faith reliance upon rules or regulations
 
-Notwithstanding any other provision of law, any person who relies upon any rule or regulation prescribed by the Commission in accordance with the provisions of this section and who acts in good faith in accordance with such rule or regulation shall not, as a result of such act, be subject to any sanction provided by this Act or by chapter 95 or chapter 96 of title 26.
+Notwithstanding any other provision of law, any person who relies upon any rule or regulation prescribed by the Commission in accordance with the provisions of this section and who acts in good faith in accordance with such ruleor regulation shall not, as a result of such act, be subject to any sanction provided by this Act or by chapter 95 or chapter 96 of title 26.
 
 #### (f) Promulgation of rules, regulations, and forms by Commission and Internal Revenue Service; report to Congress on cooperative efforts
 
 In prescribing such rules, regulations, and forms under this section, the Commission and the Internal Revenue Service shall consult and work together to promulgate rules, regulations, and forms which are mutually consistent. The Commission shall report to the Congress annually on the steps it has taken to comply with this subsection.
 
-(Pub. L. 92–225, title III, §311, formerly §308, Feb. 7, 1972, 86 Stat. 16; renumbered §316 and amended Pub. L. 93–443, title II, §§208(a), (c)(7)–(10), 209(a)(1), (b), Oct. 15, 1974, 88 Stat. 1279, 1286, 1287; renumbered §315 and amended Pub. L. 94–283, title I, §§105, 110, May 11, 1976, 90 Stat. 481, 486; renumbered §311 and amended Pub. L. 96–187, title I, §§105(4), 109, Jan. 8, 1980, 93 Stat. 1354, 1362; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat.2095; Pub. L. 104–79, §3(c), Dec. 28, 1995, 109 Stat. 792; Pub. L. 107–252, title VIII, §801(b), Oct. 29, 2002, 116 Stat. 1726.)
+(Pub. L. 92–225, title III, §311, formerly §308, Feb. 7, 1972, 86 Stat. 16; renumbered §316 and amended Pub. L. 93–443, title II, §§208(a), (c)(7)–(10), 209(a)(1), (b), Oct. 15, 1974, 88 Stat. 1279, 1286, 1287; renumbered §315 and amended Pub. L. 94–283, title I, §§105, 110, May 11, 1976, 90 Stat. 481, 486; renumbered §311 and amended Pub. L. 96–187, title I, §§105(4), 109, Jan. 8, 1980, 93 Stat. 1354, 1362; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 104–79, §3(c), Dec. 28, 1995, 109 Stat. 792; Pub. L. 107–252, title VIII, §801(b), Oct. 29, 2002, 116 Stat. 1726.)
 
 #### References in Text
 
@@ -74,13 +74,13 @@ Another prior section 311 of Pub. L. 92–225 was renumbered section 320, and wa
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–252 inserted “and” at end of par. (8), substituted a period for “; and” at end of par. (9), and struck out par. (10) and concluding sentences which read as follows: “serve as a national clearinghouse for the compilation of information and review of procedures with respect to the administration of Federal elections. The Commission may enter into contracts for the purpose of conducting studies under this paragraph. Reports or studies made under this paragraph shall be available to the public upon the payment of the cost thereof, except that copies shall be made available without cost, upon request, to agencies and branches of the Federal Government.”
+<b>2002</b>—Subsec. (a). Pub. L. 107–252 inserted “and” at end of par. (8), substituted a period for “; and” at end of par. (9), and struck out par. (10) and concluding sentences which read as follows: “serve as a national clearinghouse for the compilation of information and review of procedures with respect to the administration of Federal elections. The Commission may enter into contracts for the purpose of conducting studies under this paragraph. Reports or studies made under this paragraph shall be available to the public upon the payment of the cost thereof, except that copies shall be made available without cost, upon request, to agencies and branches of the Federal Government.”
 
-1995—Subsec. (a)(4). Pub. L. 104–79 substituted “Secretary” for “Clerk, Secretary,”.
+<b>1995</b>—Subsec. (a)(4). Pub. L. 104–79 substituted “Secretary” for “Clerk, Secretary,”.
 
-1986—Subsecs. (b), (e). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsecs. (b), (e). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-1980—Subsec. (a). Pub. L. 96–187, §109, substituted in introductory clause “The Commission shall” for “It shall be the duty of the Commission”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–187, §109, substituted in introductory clause “The Commission shall” for “It shall be the duty of the Commission”.
 
 Subsec. (a)(1). Pub. L. 96–187, §109, substituted “prescribe forms necessary to implement this Act” for “to develop and furnish to the person required by the provisions of this Act prescribed forms for the making of the reports and statements required to be filed with it under this subchapter”.
 
@@ -102,7 +102,7 @@ Subsec. (a)(9). Pub. L. 96–187, §109, substituted provisions for transmittal 
 
 Subsec. (a)(10). Pub. L. 96–187, §109, substituted provisions authorizing the Commission to serve as a national clearinghouse for compilation of information and review procedures with respect to administration of Federal elections, and to enter into contracts to conduct studies, to be made available to the public upon payment of costs except that copies be made available without cost to agencies and branches of the Federal Government for provisions for prescription of rules and regulations to carry out the provisions of this subchapter in accordance with the provisions of subsec. (c) of this section.
 
-Subsec. (b). Pub. L. 96–187, §109, substituted provisions for the conduct of audits and field investigations with priority to verification for, and receipt and use of payments received by a candidate or committee under chapter 95 or 96 of title 26, and performance of internal review of reports of selected committees to determine compliance with threshold requirements of this Act, such requirements to be established by the Commission, audits and investigations to be undertaken upon affirmative vote of 4 members within 30 days of such vote except audits of an authorized committee of a candidate to be commenced within 6 months of the election for which such committee was authorized, for provisions declaring it the duty of the Commission to act as a national clearinghouse for information in respect to administration of elections, to enter into contracts to conduct independent studies of administration ofelections, such studies to be published by the Commission and copies made available to the general public.
+Subsec. (b). Pub. L. 96–187, §109, substituted provisions for the conduct of audits and field investigations with priority to verification for, and receipt and use of payments received by a candidate or committee under chapter 95 or 96 of title 26, and performance of internal review of reports of selected committees to determine compliance with threshold requirements of this Act, such requirements to be established by the Commission, audits and investigations to be undertaken upon affirmative vote of 4 members within 30 days of such vote except audits of an authorized committee of a candidate to be commenced within 6 months of the election for which such committee was authorized, for provisions declaring it the duty of the Commission to act as a national clearinghouse for information in respect to administration of elections, to enter into contracts to conduct independent studies of administration of elections, such studies to be published by the Commission and copies made available to the general public.
 
 Subsec. (c). Pub. L. 96–187, §109, substituted provisions exempting from the provisions of section 3512 of title 44 any forms prescribed by the Commission and any information-gathering activities of the Commission for provisions of pars. (1) to (5) relating to prescribing of rules and regulations and approval thereof by either the Senate or the House of Representatives, and definition of “legislative days” and “rule or regulation”.
 
@@ -114,7 +114,7 @@ Subsec. (d)(3), (4). Pub. L. 96–187, §109, added pars. (3) and (4).
 
 Subsecs. (e), (f). Pub. L. 96–187, §109, added subsecs. (e) and (f).
 
-1976—Subsec. (a)(6). Pub. L. 94–283, §110(a)(1), inserted provisions covering and index of reports and statements filed by committees supporting more than one candidate.
+<b>1976</b>—Subsec. (a)(6). Pub. L. 94–283, §110(a)(1), inserted provisions covering and index of reports and statements filed by committees supporting more than one candidate.
 
 Subsec. (a)(8). Pub. L. 94–283, §110(a)(2), inserted provisions giving priority to auditing and field investigating of the verification for, and the receipt and use of, any payments received by a candidate under chapter 95 or 96 of title 26.
 
@@ -122,7 +122,7 @@ Subsec. (c)(2). Pub. L. 94–283, §110(b)(1), inserted provision for priority c
 
 Subsec. (c)(5). Pub. L. 94–283, §110(b)(2), added par. (5).
 
-1974—Subsec. (a). Pub. L. 93–443, §208(c)(8), substituted “Commission” for “supervisory officer” in introductory provision.
+<b>1974</b>—Subsec. (a). Pub. L. 93–443, §208(c)(8), substituted “Commission” for “supervisory officer” in introductory provision.
 
 Subsec. (a)(1), (4). Pub. L. 93–443, §208(c)(9)(A), (B), substituted “him” for “it” in pars. (1) and (4).
 

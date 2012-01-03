@@ -16,7 +16,7 @@ Section 4112, acts Aug. 16, 1954, ch. 736, 68A Stat. 485; Aug. 11, 1955, ch. 805
 
 Section 4113, act Aug. 16, 1954, ch. 736, 68A Stat. 485, related to exemptions for manufacturers of refrigerator components, prior to repeal by act Aug. 11, 1955, ch. 805, §1(d), 69 Stat. 689, effective on the first day of the first month beginning more than 10 days after Aug. 11, 1955.
 
-Section 4121, acts Aug. 16, 1954, ch. 736, 68A Stat. 486; Sept. 2, 1958, Pub. L. 85–859, title I, §112, 72 Stat. 1277,imposed a 5 percent tax on electric, gas, and oil household appliances and their accessories, prior to repeal by Pub. L. 89–44, title II, §203, June 21, 1965, 79 Stat. 139, applicable with respect to articles sold on or after June 22, 1965.
+Section 4121, acts Aug. 16, 1954, ch. 736, 68A Stat. 486; Sept. 2, 1958, Pub. L. 85–859, title I, §112, 72 Stat. 1277, imposed a 5 percent tax on electric, gas, and oil household appliances and their accessories, prior to repeal by Pub. L. 89–44, title II, §203, June 21, 1965, 79 Stat. 139, applicable with respect to articles sold on or after June 22, 1965.
 
 Section 4131, act Aug. 16, 1954, ch. 736, 68A Stat. 486, imposed a 10 percent tax on electric light bulbs and tubes, prior to repeal by Pub. L. 89–44, title II, §203, June 21, 1965, 79 Stat. 139, applicable with respect to articles sold on or after Jan. 1, 1965.
 

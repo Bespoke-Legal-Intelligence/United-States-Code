@@ -2,7 +2,7 @@
 
 (a)
 
-Exemptions for Air Service to Small and Nonhub Airports.—Subject to section 41714(i),the Secretary of Transportation shall grant, by order, exemptions from the requirements under subparts K and S of part 93 of title 14, Code of Federal Regulations (pertaining to slots at high density airports) to any air carrier to provide nonstop air transportation, using an aircraft with a certificated maximum seating capacity of less than 71, between LaGuardia Airport or John F. Kennedy International Airport and a small hub airport or nonhub airport—
+Exemptions for Air Service to Small and Nonhub Airports.—Subject to section 41714(i), the Secretary of Transportation shall grant, by order, exemptions from the requirements under subparts K and S of part 93 of title 14, Code of Federal Regulations (pertaining to slots at high density airports) to any air carrier to provide nonstop air transportation, using an aircraft with a certificated maximum seating capacity of less than 71, between LaGuardia Airport or John F. Kennedy International Airport and a small hub airport or nonhub airport—
 
 &emsp;(1) if the air carrier was not providing such air transportation during the week of November 1, 1999;
 

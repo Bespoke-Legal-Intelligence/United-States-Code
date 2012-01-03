@@ -1,6 +1,6 @@
 ### §327. Employment of professional persons
 
-(a) Except as otherwise provided in this section, the trustee, with the court's approval, may employ one or more attorneys, accountants, appraisers, auctioneers, or other professional persons, that do not hold or represent an interest adverse to the estate, and that are disinterestedpersons, to represent or assist the trustee in carrying out the trustee's duties under this title.
+(a) Except as otherwise provided in this section, the trustee, with the court's approval, may employ one or more attorneys, accountants, appraisers, auctioneers, or other professional persons, that do not hold or represent an interest adverse to the estate, and that are disinterested persons, to represent or assist the trustee in carrying out the trustee's duties under this title.
 
 (b) If the trustee is authorized to operate the business of the debtor under section 721, 1202, or 1108 of this title, and if the debtor has regularly employed attorneys, accountants, or other professional persons on salary, the trustee may retain or replace such professional persons if necessary in the operation of such business.
 
@@ -16,7 +16,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 327(a) of the House amendment contains a technical amendment indicating that attorneys, and perhaps other officers enumerated therein, represent, rather than assist, the trustee in carrying out the trustee's duties.
 
@@ -42,13 +42,13 @@ Subsection (c) is an additional exception. The trustee may employ as his counsel
 
 #### Amendments
 
-1986—Subsec. (b). Pub. L. 99–554, §257(e)(1), which directed the insertion of “, 1202,” after “section 721,” was executed by making the insertion after “section 721” to reflect the probable intent of Congress.
+<b>1986</b>—Subsec. (b). Pub. L. 99–554, §257(e)(1), which directed the insertion of “, 1202,” after “section 721,” was executed by making the insertion after “section 721” to reflect the probable intent of Congress.
 
 Subsec. (c). Pub. L. 99–554, §257(e)(2), which directed the insertion of “, 12,” after “section 7,” was executed by making the insertion after “chapter 7” to reflect the probable intent of Congress.
 
 Pub. L. 99–554, §210, inserted “or the United States trustee” after “another creditor”.
 
-1984—Subsec. (c). Pub. L. 98–353 substituted “In a case under chapter 7 or 11 of this title, a person is not disqualified for employment under this section solely because of such person's employment by or representation of a creditor, unless there is objection by another creditor, in which case the court shall disapprove such employment if there is an actual conflict of interest.” for “In a case under chapter 7 or 11 of this title, a person is not disqualified for employment under this section solely because of such person's employment by or representation of a creditor, but may not, while employed by the trustee, represent, in connection with the case, a creditor.”
+<b>1984</b>—Subsec. (c). Pub. L. 98–353 substituted “In a case under chapter 7 or 11 of this title, a person is not disqualified for employment under this section solely because of such person's employment by or representation of a creditor, unless there is objection by another creditor, in which case the court shall disapprove such employment if there is an actual conflict of interest.” for “In a case under chapter 7 or 11 of this title, a person is not disqualified for employment under this section solely because of such person's employment by or representation of a creditor, but may not, while employed by the trustee, represent, in connection with the case, a creditor.”
 
 #### Effective Date of 1986 Amendment
 

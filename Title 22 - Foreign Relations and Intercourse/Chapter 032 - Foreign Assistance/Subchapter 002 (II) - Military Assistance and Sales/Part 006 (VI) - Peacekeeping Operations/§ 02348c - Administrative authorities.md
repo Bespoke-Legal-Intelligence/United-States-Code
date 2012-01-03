@@ -2,7 +2,7 @@
 
 Except where expressly provided to the contrary, any reference in any law to subchapter I of this chapter shall be deemed to include reference to this part and any reference in any law to subchapter II of this chapter shall be deemed to exclude reference to this part.
 
-(Pub. L. 87–195, pt. II, §553, formerly §554, as added Pub. L. 95–384, §12(a), Sept. 26, 1978, 92 Stat. 737; renumbered §553, Pub. L. 96–533, title I, §116(b), Dec. 16, 1980, 94 Stat. 3140.)
+(Pub. L. 87–195, pt. II, §553, formerly §554, as added Pub. L. 95–384, §12(a), Sept. 26, 1978, 92Stat. 737; renumbered §553, Pub. L. 96–533, title I, §116(b), Dec. 16, 1980, 94 Stat. 3140.)
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II, and References to Subchapter II Deemed To Exclude Such Parts
 

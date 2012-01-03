@@ -20,7 +20,9 @@ In this subchapter—
 
 &emsp;&emsp;(E) with respect to a commodity options dealer, commodity option;
 
-&emsp;&emsp;(F) any other agreement or transaction that is similar to an agreement or transaction referred to in this paragraph;
+&emsp;&emsp;(F)(i) any other contract, option, agreement, or transaction that is similar to a contract, option, agreement, or transaction referred to in this paragraph; and
+
+&emsp;&emsp;(ii) with respect to a futures commission merchant or a clearing organization, any other contract, option, agreement, or transaction, in each case, that is cleared by a clearing organization;
 
 &emsp;&emsp;(G) any combination of the agreements or transactions referred to in this paragraph;
 
@@ -42,11 +44,11 @@ In this subchapter—
 
 &emsp;&emsp;(A) with respect to a futures commission merchant—
 
-&emsp;&emsp;&emsp;(i) entity for or with whom such futures commission merchant deals and that holds a claim against such futures commission merchant on account of a commodity contract made, received, acquired, or held by or through such futures commission merchant in the ordinary course of such futures commission merchant's business as a futures commission merchant from or for the commodity futures account of such entity; or
+&emsp;&emsp;&emsp;(i) entity for or with whom such futures commission merchant deals and that holds a claim against such futures commission merchant on account of a commodity contract made, received, acquired, or held by or through such futures commission merchant in the ordinary course of such futures commission merchant's business as a futures commission merchant from or for a commodity contract account of such entity; or
 
 &emsp;&emsp;&emsp;(ii) entity that holds a claim against such futures commission merchant arising out of—
 
-&emsp;&emsp;&emsp;&emsp;(I) the making, liquidation, or change in the value of a commodity contract ofa kind specified in clause (i) of this subparagraph;
+&emsp;&emsp;&emsp;&emsp;(I) the making, liquidation, or change in the value of a commodity contract of a kind specified in clause (i) of this subparagraph;
 
 &emsp;&emsp;&emsp;&emsp;(II) a deposit or payment of cash, a security, or other property with such futures commission merchant for the purpose of making or margining such a commodity contract; or
 
@@ -104,7 +106,7 @@ In this subchapter—
 
 &emsp;&emsp;&emsp;(vi) cash, a security, or other property received by the debtor as payment for a commodity to be delivered to fulfill a commodity contract from or for the account of a customer;
 
-&emsp;&emsp;&emsp;(vii) a security held as property of the debtor to the extent such security is necessary to meet a net equity claim based on a security of the same class and series of an issuer;
+&emsp;&emsp;&emsp;(vii) a security held as property of the debtor to the extent such security is necessary to meet a net equity claim based ona security of the same class and series of an issuer;
 
 &emsp;&emsp;&emsp;(viii) property that was unlawfully converted from and that is the lawful property of the estate; and
 
@@ -142,21 +144,9 @@ In this subchapter—
 
 (Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2615; Pub. L. 97–222, §16, July 27, 1982, 96 Stat. 238; Pub. L. 98–353, title III, §485, July 10, 1984, 98 Stat. 383; Pub. L. 103–394, title V, §501(d)(29), Oct. 22, 1994, 108 Stat. 4146; Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(6)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–395; Pub. L. 109–8, title IX, §907(a)(3), Apr. 20, 2005, 119 Stat. 174; Pub. L. 111–203, title VII, §724(b), July 21, 2010, 124 Stat. 1684.)
 
-#### Amendment of Paragraphs (4)(F) and (9)(A)(i)
-
-<i>Pub. L. 111–203, title VII, §§724(b), 754, July 21, 2010, 124 Stat. 1684, 1754, provided that, effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, this section is amended as follows:</i>
-
-<i>(1) in paragraph (4), by striking subparagraph (F) and inserting the following:</i>
-
-&emsp;&emsp;<i>“(F)(i) any other contract, option, agreement, or transaction that is similar to a contract, option, agreement, or transaction referred to in this paragraph; and</i>
-
-&emsp;&emsp;<i>“(ii) with respect to a futures commission merchant or a clearing organization, any other contract, option, agreement, or transaction, in each case, that is cleared by a clearing organization;”; and</i>
-
-<i>(2) in paragraph (9)(A)(i), by striking “the commodity futures account” and inserting “a commodity contract account”.</i>
-
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Subchapter IV of chapter 7 represents a compromise between similar chapters in the House bill and Senate amendment. Section 761(2) of the House amendment defines “clearing organization” to cover an organization that clears commodity contracts on a contract market or a board of trade; the expansion of the definition is intended to include clearing organizations that clear commodity options. Section 761(4) of the House amendment adopts the term “commodity contract” as used in section 761(5) of the Senate amendment but with the more precise substantive definitions contained in section 761(8) of the House bill. The definition is modified to insert “board of trade” to cover commodity options. Section 761(5) of the House amendment adopts the definition contained in section 761(6) of the Senate amendment in preference to the definition contained in section 761(4) of the House bill which erroneously included onions. Section 761(9) of the House amendment represents a compromise between similar provisions contained in section 761(10) of the Senate amendment and section 761(9) of the House bill. The compromise adopts the substance contained in the House bill and adopts the terminology of “commodity contract” in lieu of “contractual commitment” as suggested in the Senate amendment. Section 761(10) of the House amendment represents a compromise between similar sections in the House bill and Senate amendment regarding the definition of “customer property.” The definition of “distribution share” contained in section 761(12) of the Senate amendment is deleted as unnecessary. Section 761(12) of the House amendment adopts a definition of “foreign futures commission merchant” similar to the definition contained in section 761(14) of the Senate amendment. The definition is modified to cover either an entity engaged in soliciting orders or the purchase or sale of a foreign future, or an entity that accepts cash, a security, or other property for credit in connection with such a solicitation or acceptance. Section 761(13) of the House amendment adopts a definition of “leverage transaction” identical to the definition contained in section 761(15) of the Senate amendment. Section 761(15) of the House amendment adopts the definition of “margin payment” contained in section 761(17) of the Senate amendment. Section 761(17) of the House amendment adopts a definition of “net equity” derived from section 761(15) of the House bill.
 
@@ -202,27 +192,31 @@ Paragraph (15) \[enacted as (17)\] defines “net equity” to include the value
 
 #### References in Text
 
-The Commodity Exchange Act, referred to in pars. (1), (2), (8), and (17), is act Sept. 21, 1922, ch. 369, 42 Stat.998, as amended, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. Sections 4c(b) and 19 of the Act are classified to sections 6c(b) and 23, respectively, of Title 7. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
+The Commodity Exchange Act, referred to in pars. (1), (2), (8), and (17), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. Sections 4c(b) and 19 of the Act are classified to sections 6c(b) and 23, respectively, of Title 7. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
 #### Amendments
 
-2005—Par. (4)(F) to (J). Pub. L. 109–8 added subpars. (F) to (J).
+<b>2010</b>—Par. (4)(F). Pub. L. 111–203, §724(b)(1), added subpar. (F) and struck out former subpar. (F) which readas follows: “any other agreement or transaction that is similar to an agreement or transaction referred to in this paragraph;”.
 
-2000—Par. (2). Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(6)(A)\], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “ ‘clearing organization’ means organization that clears commodity contracts made on, or subject to the rules of, a contract market or board of trade;”.
+Par. (9)(A)(i). Pub. L. 111–203, §724(b)(2), substituted “a commodity contract account” for “the commodity futures account”.
+
+<b>2005</b>—Par. (4)(F) to (J). Pub. L. 109–8 added subpars. (F) to (J).
+
+<b>2000</b>—Par. (2). Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(6)(A)\], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “ ‘clearing organization’ means organization that clears commodity contracts made on, or subject to the rules of, a contract market or board of trade;”.
 
 Par. (7). Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(6)(B)\], amended par. (7) generally. Prior to amendment, par. (7) read as follows: “ ‘contract market’ means board of trade designated as a contract market by the Commission under the Act;”.
 
 Par. (8). Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(6)(C)\], amended par. (8) generally. Prior to amendment, par. (8) read as follows: “ ‘contract of sale’, ‘commodity’, ‘future delivery’, ‘board of trade’, and ‘futures commission merchant’ have the meanings assigned to those terms in the Act;”.
 
-1994—Par. (1). Pub. L. 103–394, §501(d)(29)(A), struck out “(7 U.S.C. 1 et seq.)” after “Act”.
+<b>1994</b>—Par. (1). Pub. L. 103–394, §501(d)(29)(A), struck out “(7 U.S.C. 1 et seq.)” after “Act”.
 
 Par. (5). Pub. L. 103–394, §501(d)(29)(B), struck out “(7 U.S.C. 6c(b))” after “Act”.
 
 Par. (13). Pub. L. 103–394, §501(d)(29)(C), struck out “(7 U.S.C. 23)” after “Act”.
 
-1984—Par. (10)(A)(viii). Pub. L. 98–353 substituted “from and that is the lawful property” for “and that is property”.
+<b>1984</b>—Par. (10)(A)(viii). Pub. L. 98–353 substituted “from and that is the lawful property” for “and that is property”.
 
-1982—Par. (2). Pub. L. 97–222, §16(1), inserted “made” after “commodity contracts”.
+<b>1982</b>—Par. (2). Pub. L. 97–222, §16(1), inserted “made” after “commodity contracts”.
 
 Par. (4). Pub. L. 97–222, §16(2), substituted “with respect to” for “if the debtor is” wherever appearing, and substituted “cleared by such clearing organization, or commodity option traded on, or subject to the rules of, a contract market or board of trade that is cleared by such clearing organization” for “cleared by the debtor” in subpar. (D).
 

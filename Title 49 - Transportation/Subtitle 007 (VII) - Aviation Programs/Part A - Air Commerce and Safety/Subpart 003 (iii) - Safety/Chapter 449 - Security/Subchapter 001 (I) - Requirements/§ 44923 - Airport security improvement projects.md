@@ -42,7 +42,7 @@ Notice to congress.—The Under Secretary shall transmit to the Committees on Ap
 
 &emsp;(5)
 
-Limitations.—A letter of intent issued under this subsection is not an obligation of the Government under section 1501 of title 31,and the letter is not deemed to be an administrative commitment for financing. An obligation or administrative commitment may be made only as amounts are provided in authorization and appropriations laws.
+Limitations.—A letter of intent issued under this subsection is not an obligation of the Government under section 1501 of title 31, and the letter is not deemed to be an administrative commitment for financing. An obligation or administrative commitment may be made only as amounts are provided in authorization and appropriations laws.
 
 &emsp;(6)
 
@@ -58,7 +58,7 @@ In general.—The Government's share of the cost of a project under this section
 
 &emsp;(2)
 
-Existing letters of intent.—The Under Secretary shall revise letters of intent issued before the date of enactment of this section to reflect the cost share established in this subsection with respect to grants made after September 30, 2003.
+Existing letters of intent.—The Under Secretary shall revise letters of intent issuedbefore the date of enactment of this section to reflect the cost share established in this subsection with respect to grants made after September 30, 2003.
 
 (f)
 
@@ -138,7 +138,7 @@ In general.—The Administrator of the Transportation Security Administration sh
 
 “(2)
 
-Airports that have incurred eligible costs.—The schedule shall include airports that have incurred eligible costs associated with development of partial or completed in-line baggage systems before the date of enactment of this Act \[Aug. 3, 2007\] in reasonable anticipation of receiving a grant under section 44923 oftitle 49, United States Code, in reimbursement of those costs but that have not received such a grant.
+Airports that have incurred eligible costs.—The schedule shall include airports that have incurred eligible costs associated with development of partial or completed in-line baggage systems before the date of enactment of this Act \[Aug. 3, 2007\] in reasonable anticipation of receiving a grant under section 44923 of title 49, United States Code, in reimbursement of those costs but that have not received such a grant.
 
 “(3)
 

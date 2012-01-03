@@ -18,7 +18,7 @@ Actions of the Administrator.—The Administrator may issue an order amending, m
 
 (c)
 
-Advice to Certificate Holders and Opportunity To Answer.—Before acting under subsection (b) of this section, the Administrator shall advise the holder of the certificate of the charges or other reasons on which the Administrator relies for the proposed action. Except in an emergency, the Administrator shall provide the holder an opportunity to answer the charges and be heard why the certificate should not be amended, modified, suspended, or revoked.
+Advice to Certificate Holders and Opportunity To Answer.—Before acting undersubsection (b) of this section, the Administrator shall advise the holder of the certificate of the charges or other reasons on which the Administrator relies for the proposed action. Except in an emergency, the Administrator shall provide the holder an opportunity to answer the charges and be heard why the certificate should not be amended, modified, suspended, or revoked.
 
 (d)
 
@@ -156,7 +156,7 @@ In this section, the word “Administrator” in section 609(a) of the Federal A
 
 In subsection (a), the words “airman holding a certificate issued under section 44703 of this title” are substituted for “civil airman” for clarity.
 
-In subsection (b)(1), before subclause (A), the words “certificate issued under this chapter” are substituted for “type certificate, production certificate, airworthiness certificate, airman certificate, air carrier operating certificate, air navigation facility certificate (including airport operating certificate), or air agency certificate” to eliminate unnecessary words.
+In subsection (b)(1), before subclause (A), the words “certificate issued under this chapter” are substitutedfor “type certificate, production certificate, airworthiness certificate, airman certificate, air carrier operating certificate, air navigation facility certificate (including airport operating certificate), or air agency certificate” to eliminate unnecessary words.
 
 In subsection (b)(2), the words “in his discretion” and “regarding the use or operation of an aircraft” in 49 App.:1429(b) are omitted as surplus.
 

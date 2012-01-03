@@ -40,7 +40,7 @@ If the corporation seeking a tentative carryback adjustment under this section, 
 
 &emsp;&emsp;&emsp;(i) the amount of the tax for such taxable year computed without regard to the deduction described in section 1341(a)(2),
 
-&emsp;&emsp;&emsp;(ii) the amount of the tax for all prior taxable years for which the decrease in tax provided in section 1341(a)(5)(B) was computed,
+&emsp;&emsp;&emsp;(ii) the amount of the tax for all prior taxable years for which the decrease in taxprovided in section 1341(a)(5)(B) was computed,
 
 &emsp;&emsp;&emsp;(iii) the amount determined under section 1341(a)(5)(B),
 
@@ -124,7 +124,7 @@ Subsec. (a). Pub. L. 92–178, §601(e)(1)(B) and (C), inserted “by a work inc
 
 Subsec. (b). Pub. L. 91–172, §512(d)(2), substituted “net operating loss, net capital loss, or unused investment credit” for “net operating loss or unused investment credit” wherever such term appears.
 
-Subsec. (c). Pub. L. 91–172, §512(d)(2), substituted “net operating loss, net capital loss, or unused investmentcredit” for “net operating loss or unused investment credit”.
+Subsec. (c). Pub. L. 91–172, §512(d)(2), substituted “net operating loss, net capital loss, or unused investment credit” for “net operating loss or unused investment credit”.
 
 <b>1967</b>—Subsec. (a). Pub. L. 90–225 inserted “(or, with respect to any portion of an investment credit carryback from a taxable year attributable to a net operating loss carryback from a subsequent taxable year, within a period of 12 months from the end of such subsequent taxable year)” after “within a period of 12 months from the end of such taxable year”.
 
@@ -162,7 +162,7 @@ Notwithstanding section 715 of Pub. L. 98–369, amendment by section 714(n)(2)(
 
 #### Effective Date of 1981 Amendment
 
-Amendment by section 221(b)(2)(B) of Pub. L. 97–34 applicable to amounts paid or incurred after June 30, 1981, see section 221(d) of Pub. L. 97–34, as amended, set out as an Effective Date note under section 41 of this title.
+Amendment by section 221(b)(2)(B) of Pub. L. 97–34 applicable to amounts paid or incurred after June 30, 1981,see section 221(d) of Pub. L. 97–34, as amended, set out as an Effective Date note under section 41 of this title.
 
 Amendment by section 331(d)(2)(B) of Pub. L. 97–34 applicable to taxable years beginning after Dec. 31, 1981, see section 339 of Pub. L. 97–34, set out as a note under section 401 of this title.
 

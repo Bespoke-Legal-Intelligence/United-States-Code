@@ -12,7 +12,7 @@ Uniform Implementation.—The Secretary shall ensure that, to the maximum extent
 
 #### Effective Date
 
-Section 1211 of title XII of Pub. L. 101–510 provided that: “Except as otherwise provided in this title \[see Short Title note below\], this title and the amendments made by this title, including chapter 87 of title 10, United States Code (as added by section 1202), shall take effect on the date of the enactment of this Act \[Nov. 5, 1990\].”
+Section 1211 of title XII of Pub. L. 101–510 provided that: “Except as otherwise provided in this title \[seeShort Title note below\], this title and the amendments made by this title, including chapter 87 of title 10, United States Code (as added by section 1202), shall take effect on the date of the enactment of this Act \[Nov. 5, 1990\].”
 
 #### Short Title
 
@@ -112,7 +112,7 @@ Definition.—In this section, the term ‘post-employment restrictions’ inclu
 
 #### Government Performance of Critical Acquisition Functions
 
-Pub. L. 109–364, div. A, title VIII, §820, Oct. 17, 2006, 120 Stat. 2330, as amended by Pub. L. 111–84, div. A, title VIII, §805(c), Oct. 28, 2009, 123 Stat. 2403, provided that:
+Pub. L. 109–364, div. A, title VIII, §820, Oct. 17, 2006, 120 Stat. 2330, as amended by Pub. L. 111–84, div. A, title VIII, §805(c), Oct. 28, 2009, 123 Stat. 2403; Pub. L. 112–81, div. A, title VIII, §835(a), Dec. 31, 2011, 125 Stat. 1507, provided that:
 
 “(a)
 
@@ -128,7 +128,9 @@ Goal.—It shall be the goal of the Department of Defense and each of the milita
 
 &emsp;“(5) Systems engineer.
 
-&emsp;“(6) Cost estimator.
+&emsp;“(6) Chief developmental tester.
+
+&emsp;“(7) Cost estimator.
 
 “(b)
 

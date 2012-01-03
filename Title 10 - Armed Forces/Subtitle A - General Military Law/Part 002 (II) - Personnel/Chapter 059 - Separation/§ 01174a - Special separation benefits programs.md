@@ -14,7 +14,7 @@ Benefits.—Upon the approval of the request of an eligible member, the member s
 
 &emsp;&emsp;(A) separation pay equal to 15 percent of the product of (i) the member's years of active service, and (ii) 12 times the monthly basic pay to which the member is entitled at the time of his discharge or release from active duty; and
 
-&emsp;&emsp;(B) the same benefits and services as are provided under chapter 58 of this title, sections 404 and 406 of title 37, and section 503(c) of the National Defense Authorization Act for Fiscal Year 1991 (104 Stat. 1558; 37 U.S.C. 406 note) for members of the armed forces who are involuntarily separated within the meaning of section 1141 of this title.
+&emsp;&emsp;(B) the same benefits and services as are provided under chapter 58 of this title, sections 474 and 476 of title 37, and section 503(c) of the National Defense Authorization Act for Fiscal Year 1991 (104 Stat. 1558; 37 U.S.C. 476 note) for members of the armed forces who are involuntarily separated within the meaning of section 1141 of this title.
 
 (c)
 
@@ -80,9 +80,15 @@ Termination of Program.—(1) Except as provided in paragraph (2), the Secretary
 
 (2) No member of the armed forces may be separated under a program established pursuant to this section after the date of the termination of that program.
 
-(Added Pub. L. 102–190, div. A, title VI, §661(a)(1), Dec. 5, 1991, 105 Stat. 1394; amended Pub. L. 102–484, div. A, title X, §1052(15), div. D, title XLIV, §§4405(a), 4422(a), Oct. 23, 1992, 106 Stat. 2499, 2706, 2718; Pub. L. 103–35, title II, §202(a)(17), May 31, 1993, 107 Stat. 102; Pub. L. 103–160, div. A, title V, §§502, 561(g), Nov. 30, 1993, 107 Stat. 1644, 1668; Pub. L. 103–337, div. A, title V, §542(b), Oct. 5, 1994, 108 Stat. 2768; Pub. L. 105–261, div. A, title V, §561(b), Oct. 17, 1998, 112 Stat. 2025; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134.)
+(Added Pub. L. 102–190, div. A, title VI, §661(a)(1), Dec. 5, 1991, 105 Stat. 1394; amended Pub. L. 102–484, div. A, title X, §1052(15), div. D, title XLIV, §§4405(a), 4422(a), Oct. 23, 1992, 106 Stat. 2499, 2706, 2718; Pub. L. 103–35, title II, §202(a)(17), May 31, 1993, 107 Stat. 102; Pub. L. 103–160, div. A, title V, §§502, 561(g), Nov. 30, 1993, 107 Stat. 1644, 1668; Pub. L. 103–337, div. A, title V, §542(b), Oct. 5, 1994, 108 Stat. 2768; Pub. L. 105–261, div. A, title V, §561(b), Oct. 17, 1998, 112 Stat. 2025; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134; Pub. L. 112–81, div. A, title VI, §631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465.)
+
+#### Codification
+
+Section 631(f)(4)(A) of Pub. L. 112–81, which directed that this title be amended by conforming any references to sections of title 37, United States Code, which were transferred and redesignated by “subsection (c)” of section 631, was executed by conforming the references to those sections as transferred and redesignated by subsection (d) of section 631, to reflect the probable intent of Congress.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (b)(2)(B). Pub. L. 112–81 substituted “474” for “404” and substituted “476” for “406” in two places. See Codification note above.
 
 <b>2000</b>—Subsec. (h)(1). Pub. L. 106–398 substituted “December 31, 2001” for “September 30, 2001”.
 
@@ -144,7 +150,7 @@ Procedure for Review.—(1) The Secretary of each military department shall esta
 
 “(b)
 
-Application.—A review under this section shall be conducted in any case submitted to the Secretaryconcerned by application from the officer or former officer under regulations prescribed by the Secretary.
+Application.—A review under this section shall be conducted in any case submitted to the Secretary concerned by application from the officer or former officer under regulations prescribed by the Secretary.
 
 “(c)
 

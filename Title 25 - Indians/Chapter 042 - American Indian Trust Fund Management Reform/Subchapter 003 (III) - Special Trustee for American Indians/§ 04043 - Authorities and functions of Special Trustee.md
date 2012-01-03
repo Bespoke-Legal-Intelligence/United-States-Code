@@ -46,7 +46,7 @@
 
 #### (4) Minerals Management Service
 
-&emsp;The Special Trustee shall ensure that the Minerals Management Service establishes policies and practices to enforce compliance by lessees of Indian lands with all requirements for timely and accurate reporting of production and payment of lease royalties and other revenues, including the audit of leases to ensure that lessees are accurately reporting production levels and calculating royalty payments.
+&emsp;The Special Trustee shall ensure that the Minerals Management Service establishes policies and practices to enforce complianceby lessees of Indian lands with all requirements for timely and accurate reporting of production and payment of lease royalties and other revenues, including the audit of leases to ensure that lessees are accurately reporting production levels and calculating royalty payments.
 
 #### (c) Coordination of policies
 
@@ -116,7 +116,7 @@ The Special Trustee, and his staff, shall have access to all records, reports, a
 
 #### (f) Annual report
 
-The Special Trustee shall report to the Secretary and the Committee on Natural Resources of the House of Representatives and the Committee on Indian Affairs of the Senate each year on the progress of the Department, the Bureau, the Bureau of Land Management, and the Minerals Management Service in implementing the reforms identified in the comprehensive strategic plan under subsection (a)(1) of this section and in meeting the timetable established in the strategic plan under subsection (a)(2)(C) of this section.
+The Special Trustee shall report to the Secretary and the Committee on Natural Resourcesof the House of Representatives and the Committee on Indian Affairs of the Senate each year on the progress of the Department, the Bureau, the Bureau of Land Management, and the Minerals Management Service in implementing the reforms identified in the comprehensive strategic plan under subsection (a)(1) of this section and in meeting the timetable established in the strategic plan under subsection (a)(2)(C) of this section.
 
 (Pub. L. 103–412, title III, §303, Oct. 25, 1994, 108 Stat. 4245; Pub. L. 104–109, §6(a), Feb. 12, 1996, 110 Stat. 764.)
 

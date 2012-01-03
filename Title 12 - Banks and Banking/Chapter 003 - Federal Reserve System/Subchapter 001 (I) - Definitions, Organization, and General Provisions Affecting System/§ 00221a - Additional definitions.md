@@ -22,9 +22,9 @@ As used in this chapter, referred to in text, was in the original “As used in 
 
 #### Amendments
 
-1966—Subsec. (b)(4). Pub. L. 89–485, §13(a), added par. (4) which incorporates definitions of “holding company affiliate” contained in cls. (1) and (2) of former subsec. (c) of this section, and substituted “a member bank” for “any one bank” in first two places.
+<b>1966</b>—Subsec. (b)(4). Pub. L. 89–485, §13(a), added par. (4) which incorporates definitions of “holding company affiliate” contained in cls. (1) and (2) of former subsec. (c) of this section, and substituted “a member bank” for “any one bank” in first two places.
 
 Subsec. (c). Pub. L. 89–485, §13(b), repealed definition of “holding company affiliate”, cls. (1) and (2) thereof now being incorporated in the subsec. (b)(4) definition of “affiliate”, substituting “a member bank” for “any one bank” in first two places and the par. excluding therefrom any corporations stock of which is fully owned by the United States and any organization determined by the Board of Governors of the Federal Reserve System not to be engaged, directly or indirectly, as a business in holding the stock of, or managing or controlling, banks, banking associations, savings banks, or trust companies.
 
-1935—Subsec. (c). Act Aug. 23, 1935, added last par.
+<b>1935</b>—Subsec. (c). Act Aug. 23, 1935, added last par.
 

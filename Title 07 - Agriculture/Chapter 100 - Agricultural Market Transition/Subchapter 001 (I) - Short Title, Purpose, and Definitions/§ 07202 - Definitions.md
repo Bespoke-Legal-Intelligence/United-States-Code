@@ -76,3 +76,5 @@ The Agricultural Act of 1949, referred to in pars. (1), (2), and (4), is act Oct
 
 Section 505 of the Agricultural Act of 1949 (7 U.S.C. 1465), referred to in par. (9), was omitted from the Code.
 
+<i><sup>1</sup></i><i> So in original. Probably should be “chapter”.</i>
+

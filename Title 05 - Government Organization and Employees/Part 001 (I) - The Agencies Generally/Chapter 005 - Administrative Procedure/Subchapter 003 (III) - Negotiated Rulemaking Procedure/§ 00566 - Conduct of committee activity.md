@@ -42,5 +42,5 @@ Section 10 of the Federal Advisory Committee Act, referred to in subsecs. (c), (
 
 #### Amendments
 
-1992—Pub. L. 102–354 renumbered section 586 of this title as this section.
+<b>1992</b>—Pub. L. 102–354 renumbered section 586 of this title as this section.
 

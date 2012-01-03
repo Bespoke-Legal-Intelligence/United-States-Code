@@ -22,7 +22,7 @@ For the purposes of this chapter—
 
 (7) The term “marine mammal product” means any item of merchandise which consists, or is composed in whole or in part, of any marine mammal.
 
-(8) The term “moratorium” means a complete cessation of the taking of marine mammals anda complete ban on the importation into the United States of marine mammals and marine mammal products, except as provided in this chapter.
+(8) The term “moratorium” means a complete cessation of the taking of marine mammals and a complete ban on the importation into the United States of marine mammals and marine mammal products, except as provided in this chapter.
 
 (9) The term “optimum sustainable population” means, with respect to any population stock, the number of animals which will result in the maximum productivity of the population or the species, keeping in mind the carrying capacity of the habitat and the health of the ecosystem of which they form a constituent element.
 
@@ -122,7 +122,7 @@ For the purposes of this chapter—
 
 (29) The term “Declaration of Panama” means the declaration signed in Panama City, Republic of Panama, on October 4, 1995.
 
-(Pub. L. 92–522, §3, Oct. 21, 1972, 86 Stat. 1028; Pub. L. 93–205, §13(e)(1), Dec. 28, 1973, 87 Stat. 903; Pub. L. 94–265, title IV, §404(a), Apr. 13, 1976, 90 Stat. 360; Pub. L. 97–58, §1(a), (b)(2), Oct. 9, 1981, 95 Stat. 979; Pub. L. 102–251, title III, §304, Mar. 9, 1992, 106 Stat. 65; Pub. L. 102–523, §2(c), Oct. 26, 1992, 106 Stat. 3432; Pub. L. 102–582, title IV, §401(a), Nov. 2, 1992, 106 Stat. 4909; Pub. L. 102–587, title III, §3004(b), Nov. 4, 1992, 106 Stat. 5067; Pub. L. 103–238, §§12, 16(a), 24(a)(2), Apr. 30, 1994, 108 Stat. 557, 559, 565; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 104–297, title IV, §405(b)(2), (3), Oct. 11, 1996, 110 Stat. 3621; Pub. L. 105–42, §3, Aug. 15, 1997, 111 Stat. 1123; Pub. L. 106–555, title II, §202(b), Dec. 21, 2000, 114 Stat. 2768; Pub. L. 108–136, div. A, title III, §319(a), Nov. 24, 2003, 117 Stat. 1433.)
+(Pub. L. 92–522, §3, Oct. 21, 1972, 86 Stat. 1028; Pub. L. 93–205, §13(e)(1), Dec. 28, 1973, 87 Stat. 903; Pub. L. 94–265, title IV, §404(a), Apr. 13, 1976, 90 Stat. 360; Pub. L. 97–58, §1(a), (b)(2), Oct. 9, 1981, 95 Stat. 979; Pub. L. 102–251, title III, §304, Mar. 9, 1992, 106 Stat. 65; Pub. L. 102–523, §2(c), Oct. 26, 1992, 106 Stat. 3432; Pub. L. 102–582, title IV, §401(a), Nov. 2, 1992, 106 Stat. 4909; Pub. L. 102–587, title III, §3004(b), Nov. 4, 1992, 106 Stat. 5067; Pub. L. 103–238, §§12, 16(a), 24(a)(2), Apr. 30, 1994, 108 Stat. 557, 559, 565; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 104–297, title IV, §405(b)(2), (3), Oct. 11, 1996, 110 Stat. 3621; Pub. L. 105–42, §3, Aug. 15, 1997, 111 Stat. 1123; Pub. L.106–555, title II, §202(b), Dec. 21, 2000, 114 Stat. 2768; Pub. L. 108–136, div. A, title III, §319(a), Nov. 24, 2003, 117 Stat. 1433.)
 
 #### References in Text
 
@@ -158,7 +158,7 @@ Pars. (18) to (27). Pub. L. 103–238, §12, added pars. (18) to (27).
 
 <b>1992</b>—Pars. (5) to (11). Pub. L. 102–582 added par. (5) and redesignated former pars. (5) to (10) as (6) to (11), respectively.
 
-Par. (12). Pub. L. 102–587 substituted “(A) Except as provided in subparagraph (B), the term” for “The term”, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, and added subpar. (B). SeeConstruction of Amendment by Pub. L. 102–587 note below.
+Par. (12). Pub. L. 102–587 substituted “(A) Except as provided in subparagraph (B), the term” for “The term”, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, and added subpar. (B). See Construction of Amendment by Pub. L. 102–587 note below.
 
 Pub. L. 102–582 redesignated par. (11) as (12). Former par. (12) redesignated (13).
 

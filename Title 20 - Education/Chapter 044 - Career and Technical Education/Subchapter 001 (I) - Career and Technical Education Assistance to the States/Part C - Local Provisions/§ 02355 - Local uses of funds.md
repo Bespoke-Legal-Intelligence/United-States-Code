@@ -56,7 +56,7 @@ Funds made available to eligible recipients under this part shall be used to sup
 
 Funds made available to an eligible recipient under this subchapter may be used—
 
-&emsp;(1) to involve parents, businesses, and labor organizations as appropriate, in the design, implementation, and evaluation of career and technical education programs authorized under this subchapter, including establishingeffective programs and procedures to enable informed and effective participation in such programs;
+&emsp;(1) to involve parents, businesses, and labor organizations as appropriate, in the design, implementation, and evaluation of career and technical education programs authorized under this subchapter, including establishing effective programs and procedures to enable informed and effective participation in such programs;
 
 &emsp;(2) to provide career guidance and academic counseling, which may include information described in section 2328 of this title, for students participating in career and technical education programs, that—
 

@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) reduce payments under this subchapter to the Department by an amount equal to the amount of such payments that were not expended in accordance with this subchapter; or
 
-&emsp;&emsp;(C) limit the availability of payments under this subchapter to programs, projects,or activities not affected by such failure to comply.
+&emsp;&emsp;(C) limit the availability of payments under this subchapter to programs, projects, or activities not affected by such failure to comply.
 
 #### (2) Actions
 

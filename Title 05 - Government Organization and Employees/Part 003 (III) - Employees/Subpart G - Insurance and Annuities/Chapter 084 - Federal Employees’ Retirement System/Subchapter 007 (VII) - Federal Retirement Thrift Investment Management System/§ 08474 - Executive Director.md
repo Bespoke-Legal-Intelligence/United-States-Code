@@ -46,5 +46,5 @@ The provisions of law governing appointments in the competitive service, referre
 
 #### Amendments
 
-2006—Subsec. (c)(4). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
+<b>2006</b>—Subsec. (c)(4). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
 

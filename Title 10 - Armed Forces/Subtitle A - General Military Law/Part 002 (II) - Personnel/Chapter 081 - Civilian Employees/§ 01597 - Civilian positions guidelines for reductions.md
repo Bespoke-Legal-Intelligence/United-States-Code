@@ -6,7 +6,7 @@ Requirement of Guidelines for Reductions in Civilian Positions.—Reductions in 
 
 (b)
 
-Guidelines.—The Secretary of Defense shall establish guidelines for the manner in which reductions in the number of civilian positions of the Department of Defense are made. The guidelines shall include procedures for reviewing civilian positions for reductions according to the following order:
+Guidelines.—The Secretary of Defense shall establish guidelines for the manner in which reductions in the number of civilian positions of the Department of Defense are made. In establishing the guidelines, the Secretary shall ensure that nothing in the guidelines conflicts with the requirements of section 129 of this title or the policies and procedures established under section 129a of this title. The guidelines shall include procedures for reviewing civilian positions for reductions according to the following order:
 
 &emsp;(1) Positions filled by foreign national employees overseas.
 
@@ -18,7 +18,7 @@ Guidelines.—The Secretary of Defense shall establish guidelines for the manner
 
 (c)
 
-Master Plan.—(1) The Secretary of Defense shall include in the materials submitted toCongress in support of the budget request for the Department of Defense for each fiscal year a civilian positions master plan described in paragraph (2) for the Department of Defense as a whole and for each military department, Defense Agency, and other principal component of the Department of Defense.
+Master Plan.—(1) The Secretary of Defense shall include in the materials submitted to Congress in support of the budget request for the Department of Defense for each fiscal year a civilian positions master plan described in paragraph (2) for the Department of Defense as a whole and for each military department, Defense Agency, and other principal component of the Department of Defense.
 
 (2) The master plan referred to in paragraph (1) shall include the information described in paragraph (3). Such information shall include information for each of the two fiscal years immediately preceding such fiscal year and projected information for such fiscal year and each of the two fiscal years immediately following such fiscal year.
 
@@ -42,7 +42,7 @@ Master Plan.—(1) The Secretary of Defense shall include in the materials submi
 
 &emsp;(B) For industrial-type and commercial-type activities funded through the Defense Business Operations Fund, the following information:
 
-&emsp;&emsp;(i) Annual trends in the amount of funded workload for each activity, based upon the average number of months of accumulated, funded workload to be performed, or projected to be performed, by the activity.
+&emsp;&emsp;(i) Annual trends in the amount of funded workload for each activity, based upon theaverage number of months of accumulated, funded workload to be performed, or projected to be performed, by the activity.
 
 &emsp;&emsp;(ii) The extent to which such workload is funded by funds that are appropriated from appropriation accounts and managed through the Defense Business Operations Fund.
 
@@ -60,9 +60,11 @@ Exceptions.—The Secretary of Defense may permit a variation from the guideline
 
 Involuntary Reductions of Civilian Positions.—The Secretary of Defense may not implement any involuntary reduction or furlough of civilian positions in a military department, Defense Agency, or other component of the Department of Defense until the expiration of the 45-day period beginning on the date on which the Secretary submits to Congress a report setting forth the reasons why such reductions or furloughs are required and a description of any change in workload or positions requirements that will result from such reductions or furloughs.
 
-(Added Pub. L. 101–510, div. A, title III, §322(a)(1), Nov. 5, 1990, 104 Stat. 1528; amended Pub. L. 102–484, div. A, title III, §371(a), Oct. 23, 1992, 106 Stat. 2382; Pub. L. 103–35, title II, §201(d)(1), May 31, 1993, 107 Stat. 98; Pub. L. 103–160, div. A, title III, §363, Nov. 30, 1993, 107 Stat. 1628.)
+(Added Pub. L. 101–510, div. A, title III, §322(a)(1), Nov. 5, 1990, 104 Stat. 1528; amended Pub. L. 102–484, div. A, title III, §371(a), Oct. 23, 1992, 106 Stat. 2382; Pub. L. 103–35, title II, §201(d)(1), May 31, 1993, 107 Stat. 98; Pub. L. 103–160, div. A, title III, §363, Nov. 30, 1993, 107 Stat. 1628; Pub. L. 112–81, div. A, title IX, §933(b), Dec. 31, 2011, 125 Stat. 1544.)
 
 #### Amendments
+
+<b>2011</b>—Subsec. (b). Pub. L. 112–81 inserted after first sentence “In establishing the guidelines, the Secretary shall ensure that nothing in the guidelines conflicts with the requirements of section 129 of this title or the policies and procedures established under section 129a of this title.”
 
 <b>1993</b>—Subsec. (a). Pub. L. 103–160, §363(a)(1), substituted “during a fiscal year” for “during fiscal year 1993”.
 

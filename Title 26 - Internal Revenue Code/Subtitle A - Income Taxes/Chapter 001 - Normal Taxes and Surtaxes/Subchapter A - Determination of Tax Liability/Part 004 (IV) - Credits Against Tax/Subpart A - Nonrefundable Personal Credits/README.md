@@ -4,7 +4,7 @@ Subpart A—Nonrefundable Personal Credits
 | :--- | ---: |
 | [21\.](%C2%A7%2000021%20-%20Expenses%20for%20household%20and%20dependent%20care%20services%20necessary%20for%20gainful%20employment.md) | Expenses for household and dependent care services necessary for gainful employment. |
 | [22\.](%C2%A7%2000022%20-%20Credit%20for%20the%20elderly%20and%20the%20permanently%20and%20totally%20disabled.md) | Credit for the elderly and the permanently and totally disabled. |
-| \[23. | Renumbered.\] |
+| [23\.](%C2%A7%2000023%20-%20Adoption%20expenses.md) | Adoption expenses. |
 | [24\.](%C2%A7%2000024%20-%20Child%20tax%20credit.md) | Child tax credit. |
 | [25\.](%C2%A7%2000025%20-%20Interest%20on%20certain%20home%20mortgages.md) | Interest on certain home mortgages. |
 | [25A.](%C2%A7%2000025A%20-%20Hope%20and%20Lifetime%20Learning%20credits.md) | Hope and Lifetime Learning credits. |
@@ -80,7 +80,7 @@ Pub. L. 94–12, title II, §§203(b)(1), 204(c), 208(d)(1), Mar. 29, 1975, 89 S
 
 - [&sect; 00021 - Expenses for household and dependent care services necessary for gainful employment](%C2%A7%2000021%20-%20Expenses%20for%20household%20and%20dependent%20care%20services%20necessary%20for%20gainful%20employment.md)
 - [&sect; 00022 - Credit for the elderly and the permanently and totally disabled](%C2%A7%2000022%20-%20Credit%20for%20the%20elderly%20and%20the%20permanently%20and%20totally%20disabled.md)
-- [&sect; 00023 - Renumbered &sect;36C](%C2%A7%2000023%20-%20Renumbered%20%C2%A736C.md)
+- [&sect; 00023 - Adoption expenses](%C2%A7%2000023%20-%20Adoption%20expenses.md)
 - [&sect; 00024 - Child tax credit](%C2%A7%2000024%20-%20Child%20tax%20credit.md)
 - [&sect; 00025 - Interest on certain home mortgages](%C2%A7%2000025%20-%20Interest%20on%20certain%20home%20mortgages.md)
 - [&sect; 00025A - Hope and Lifetime Learning credits](%C2%A7%2000025A%20-%20Hope%20and%20Lifetime%20Learning%20credits.md)

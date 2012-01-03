@@ -10,7 +10,7 @@ The Senate directs the Subcommittee on the District of Columbia of the Committee
 
 #### (c) “Expanded” and “expansion” defined
 
-For purposes of this section, the terms “expanded” and “expansion” mean any alteration of the physical structure of the prison complex that is made to increase the number of inmates incarcerated at the prison.
+For purposes of this section, the terms “expanded” and “expansion” mean any alterationof the physical structure of the prison complex that is made to increase the number of inmates incarcerated at the prison.
 
 (Pub. L. 103–322, title II, §20410, Sept. 13, 1994, 108 Stat. 1828; Pub. L. 105–33, title XI, §11717(b), Aug. 5, 1997, 111 Stat. 786.)
 
@@ -24,5 +24,5 @@ Section 446 of the District of Columbia Home Rule Act, referred to in subsec. (a
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–33 effective Oct. 1, 1997, except as otherwise provided in title XI of Pub. L. 105–33, see section 11721 of Pub. L. 105–33, set out as anote under section 4246 of Title 18, Crimes and Criminal Procedure.
+Amendment by Pub. L. 105–33 effective Oct. 1, 1997, except as otherwise provided in title XI of Pub. L. 105–33, see section 11721 of Pub. L. 105–33, set out as a note under section 4246 of Title 18, Crimes and Criminal Procedure.
 

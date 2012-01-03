@@ -34,7 +34,7 @@ Any lot or parcel which is part of a tract of real property in the hands of a ta
 
 &emsp;&emsp;(B) it is shown to the satisfaction of the Secretary that the lot or parcel, the value of which was substantially enhanced by such improvement, would not have been marketable at the prevailing local price for similar building sites without such improvement; and
 
-&emsp;&emsp;(C) the taxpayer elects, in accordance with regulations prescribed by the Secretary, to make no adjustment to basis of the lot orparcel, or of any other property owned by the taxpayer, on account of the expenditures for such improvements. Such election shall not make any item deductible which would not otherwise be deductible.
+&emsp;&emsp;(C) the taxpayer elects, in accordance with regulations prescribed by the Secretary, to make no adjustment to basis of the lot or parcel, or of any other property owned by the taxpayer, on account of the expenditures for such improvements. Such election shall not make any item deductible which would not otherwise be deductible.
 
 #### (c) Tract defined
 
@@ -88,7 +88,7 @@ Section 1 of Pub. L. 91–686, as amended by Pub. L. 99–514, §2, Oct. 22, 198
 
 &emsp;“(1) no shareholder of the corporation directly or indirectly holds real property primarily for sale to customers in the ordinary course of trade or business; and
 
-&emsp;“(2)(A) such lot or parcel is a part of real property (i) held for more than twenty-five years at the time of sale or exchange, and (ii) acquired before January 1, 1934, by the corporation as a result of the foreclosure of a lien (or liens) thereon which secured the payment of indebtedness held by one or more creditors who transferred one or more foreclosure bids to the corporation in exchange for all its stock (with or without other consideration), or
+&emsp;“(2)(A) such lot or parcel is a part of real property (i) held for more than twenty-five years at the time of sale or exchange, and (ii) acquired before January 1, 1934, by the corporation as a result of the foreclosure of a lien (or liens) thereon which secured thepayment of indebtedness held by one or more creditors who transferred one or more foreclosure bids to the corporation in exchange for all its stock (with or without other consideration), or
 
 &emsp;“(B)(i) such lot or parcel is a part of additional real property acquired before January 1, 1957, by the corporation in the near vicinity of any real property to which subparagraph (A) applies, or
 

@@ -10,7 +10,7 @@
 
 #### References in Text
 
-The Radiation Exposure Compensation Act, referred to in subsec. (c), is Pub. L. 101–426, Oct. 15, 1990, 104Stat. 920, as amended, which is set out as a note under section 2210 of Title 42, The Public Health and Welfare.
+The Radiation Exposure Compensation Act, referred to in subsec. (c), is Pub. L. 101–426, Oct. 15, 1990, 104 Stat. 920, as amended, which is set out as a note under section 2210 of Title 42, The Public Health and Welfare.
 
 #### Amendments
 
@@ -64,7 +64,7 @@ Pub. L. 102–568, title I, §104, Oct. 29, 1992, 106 Stat. 4322, provided that:
 
 “(a)
 
-In General.—The Comptroller General of the United States shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report with respect to the most appropriate combination of financial, health-care, educational, and other survivor benefits to meet the needs of survivors of veterans.
+In General.—The Comptroller General of the United States shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report with respect to the most appropriatecombination of financial, health-care, educational, and other survivor benefits to meet the needs of survivors of veterans.
 
 “(b)
 

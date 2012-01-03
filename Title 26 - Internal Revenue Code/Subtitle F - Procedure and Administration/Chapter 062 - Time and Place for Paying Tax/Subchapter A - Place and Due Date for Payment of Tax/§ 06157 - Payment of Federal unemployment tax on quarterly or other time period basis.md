@@ -26,7 +26,7 @@ Nothing in this section shall require the payment of tax with respect to any cal
 
 #### Prior Provisions
 
-A prior section 6157, act Aug. 16, 1954, ch. 736, 68A Stat. 761, §6156; renumbered §6157, June 29, 1961, Pub. L.87–61, title II, §203(c)(1), 75 Stat. 125, made a cross reference provision for payment of taxes under provisions of the Tariff Act, prior to repeal by Pub. L. 91–53, §2(a), Aug. 7, 1969, 83 Stat. 91.
+A prior section 6157, act Aug. 16, 1954, ch. 736, 68A Stat. 761, §6156; renumbered §6157, June 29, 1961, Pub. L. 87–61, title II, §203(c)(1), 75 Stat. 125, made a cross reference provision for payment of taxes under provisions of the Tariff Act, prior to repeal by Pub. L. 91–53, §2(a), Aug. 7, 1969, 83 Stat. 91.
 
 #### Amendments
 
@@ -82,7 +82,7 @@ Section 101(c)(2) of Pub. L. 91–373 provided that: “The amendment made by su
 
 #### Effective Date
 
-Section 4(a) of Pub. L. 91–53 provided that: “The amendments made by the first two sections of this Act \[enacting section 6317 and amending this section and sections 3306, 6201, 6513, and 6601 of this title\] shall apply with respect to calendar years beginning after December 31, 1969.”
+Section 4(a) of Pub. L. 91–53 provided that: “The amendments made by the first two sections of this Act\[enacting section 6317 and amending this section and sections 3306, 6201, 6513, and 6601 of this title\] shall apply with respect to calendar years beginning after December 31, 1969.”
 
 #### Extension of Time for Payment of Additional FUTA Taxes
 

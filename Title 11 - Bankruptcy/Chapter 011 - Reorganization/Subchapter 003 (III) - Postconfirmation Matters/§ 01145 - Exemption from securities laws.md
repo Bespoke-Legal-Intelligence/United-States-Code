@@ -60,7 +60,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 1145 of the House amendment deletes a provision contained in section 1145(a)(1) of the House bill in favor of a more adequate provision contained in section 364(f) of the House amendment. In addition, section 1145(d) has been added to indicate that the Trust Indenture Act \[15 U.S.C. 77aaa et seq.\] does not apply to a commercial note issued under a plan, if the note matures not later than 1 year after the effective date of the plan. Some commercial notes receive such an exemption under 304(a)(4) of the Trust Indenture Act of 1939 (15 U.S.C. §77ddd(a)(4)) and others may receive protection by incorporation by reference into the Trust Indenture Act of securities exempt under section 3a(3), (7), (9), or (10) of the Securities Act of 1933 \[15 U.S.C. 77c(a)(3), (7), (9), (10)\].
 
@@ -108,15 +108,15 @@ The Trust Indenture Act of 1939, referred to in subsec. (d), is title III of act
 
 #### Amendments
 
-2010—Subsec. (b). Pub. L. 111–327 substituted “2(a)(11)” for “2(11)” wherever appearing.
+<b>2010</b>—Subsec. (b). Pub. L. 111–327 substituted “2(a)(11)” for “2(11)” wherever appearing.
 
-1994—Subsec. (a). Pub. L. 103–394, §501(d)(33)(A), in introductory provisions struck out “(15 U.S.C. 77e)” after “Act of 1933” and substituted “do not apply” for “does not apply” and in par. (3)(B)(i) struck out “(15 U.S.C. 78m or 78<i>o</i>(d))” after “Act of 1934”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–394, §501(d)(33)(A), in introductory provisions struck out “(15 U.S.C. 77e)” after “Act of 1933” and substituted “do not apply” for “does not apply” and in par. (3)(B)(i) struck out “(15 U.S.C. 78m or 78<i>o</i>(d))” after “Act of 1934”.
 
 Subsec. (b)(1). Pub. L. 103–394, §501(d)(33)(B), struck out “(15 U.S.C. 77b(11))” after “Act of 1933”.
 
 Subsec. (d). Pub. L. 103–394, §501(d)(33)(C), struck out “(15 U.S.C. 77aaa et seq.)” after “Act of 1939”.
 
-1984—Subsec. (a)(3)(B)(i). Pub. L. 98–353, §516(a)(1), inserted “or 15(d)” after “13”, and “or 78<i>o</i>(d)” after “78m”.
+<b>1984</b>—Subsec. (a)(3)(B)(i). Pub. L. 98–353, §516(a)(1), inserted “or 15(d)” after “13”, and “or 78<i>o</i>(d)” after “78m”.
 
 Subsec. (a)(3)(B)(ii). Pub. L. 98–353, §516(a)(2), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “in compliance with all applicable requirements for the continuance of trading in such security on the date of such offer or sale; and”.
 

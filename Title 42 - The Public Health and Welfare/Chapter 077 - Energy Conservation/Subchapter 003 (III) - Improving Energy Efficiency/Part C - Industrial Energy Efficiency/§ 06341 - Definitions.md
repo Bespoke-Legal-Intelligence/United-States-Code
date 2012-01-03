@@ -52,7 +52,7 @@ In this part:
 
 #### (9) Other terms
 
-&emsp;The terms “electric utility”, “nonregulated electric utility”, “State regulated electric utility”, and other terms have the meanings given those terms in title I of the Public Utility Regulatory Policies Act of 1978 (16 U.S.C. 2611 et seq.).
+&emsp;The terms “electric utility”, “nonregulated electric utility”, “State regulated electric utility”, and other terms have the meaningsgiven those terms in title I of the Public Utility Regulatory Policies Act of 1978 (16 U.S.C. 2611 et seq.).
 
 (Pub. L. 94–163, title III, §371, as added Pub. L. 110–140, title IV, §451(a), Dec. 19, 2007, 121 Stat. 1623.)
 

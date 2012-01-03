@@ -8,10 +8,6 @@ Within the boundaries of the seashore, the Secretary may acquire lands, waters, 
 
 <b>1994</b>—Pub. L. 103–437 substituted “Natural Resources and on Science, Space, and Technology of the House of Representatives and to the Committees on Energy and Natural Resources and on Commerce, Science, and Transportation of the Senate” for “Interior and Insular Affairs of the Congress and to the Committee on Science and Astronautics of the House of Representatives and to the Committee on Aeronautical and Space Sciences of the Senate”.
 
-#### Change of Name
-
-Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2. Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
-
 #### Additions to Seashore
 
 Pub. L. 100–564, §§1, 3, Oct. 31, 1988, 102 Stat. 2831, authorized and directed the Secretary of the Interior to acquire certain lands depicted on a map entitled “Additions to Canaveral National Seashore”, required the Secretary to file the map with certain Congressional committees, and authorized appropriations necessary to carry out such acquisitions.

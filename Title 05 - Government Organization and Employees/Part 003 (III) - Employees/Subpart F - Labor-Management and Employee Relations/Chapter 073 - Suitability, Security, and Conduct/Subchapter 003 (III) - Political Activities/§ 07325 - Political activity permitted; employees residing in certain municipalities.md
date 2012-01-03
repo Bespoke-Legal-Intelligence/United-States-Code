@@ -14,5 +14,5 @@ A prior section 7325, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 526; Pub. L. 96�
 
 #### Amendments
 
-1996—Pub. L. 104–93 inserted “and paragraph (2) of section 7323(b)” after “section 7323(a)”.
+<b>1996</b>—Pub. L. 104–93 inserted “and paragraph (2) of section 7323(b)” after “section 7323(a)”.
 

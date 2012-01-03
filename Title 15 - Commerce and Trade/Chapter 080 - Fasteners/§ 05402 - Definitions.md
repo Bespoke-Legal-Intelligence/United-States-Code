@@ -64,7 +64,7 @@ As used in this chapter, the term—
 
 &emsp;&emsp;&emsp;(iii) that—
 
-&emsp;&emsp;&emsp;&emsp;(I) is subject to certification in accordance with the requirements of ISO/IEC Guide 62 (or another document approved by the Director under section 5411a(a) of this title), including revisions from time-to-time, by a third party who is accredited by an accreditation body in accordance with the requirements of ISO/IEC Guide 61 (or another document approved by the Director under section5411a(b) of this title), including revisions from time-to-time; or
+&emsp;&emsp;&emsp;&emsp;(I) is subject to certification in accordance with the requirements of ISO/IEC Guide 62 (or another document approved by the Director under section 5411a(a) of this title), including revisions from time-to-time, by a third party who is accredited by an accreditation body in accordance with the requirements of ISO/IEC Guide 61 (or another document approved by the Director under section 5411a(b) of this title), including revisions from time-to-time; or
 
 &emsp;&emsp;&emsp;&emsp;(II) undergoes regular or random evaluation and assessment by the end user or end users of the screws, nuts, bolts, studs, or load-indicating washers produced under such fastener manufacturing system to ensure that such system meets the requirements of clauses (i) and (ii);
 

@@ -22,7 +22,7 @@ Regulations.—The Secretary of Defense shall prescribe regulations for the admi
 
 Definitions.—In this section:
 
-&emsp;(1) The term “special operations forces” includes civil affairs forces and psychological operations forces.
+&emsp;(1) The term “special operations forces” includes civil affairs forces and military information support operations forces.
 
 &emsp;(2) The term “incremental expenses”, with respect to a developing country, means the reasonable and proper cost of rations, fuel, training ammunition, transportation, and other goods and services consumed by such country, except that the term does not include pay, allowances, and other normal costs of such country's personnel.
 
@@ -42,9 +42,11 @@ Reports.—Not later than April 1 of each year, the Secretary of Defense shall s
 
 &emsp;(6) A discussion of the unique military training benefit to United States special operations forces derived from the training activities for which expenses were paid under this section.
 
-(Added Pub. L. 102–190, div. A, title X, §1052(a)(1), Dec. 5, 1991, 105 Stat. 1470; amended Pub. L. 104–106, div. A, title XV, §1503(a)(18), Feb. 10, 1996, 110 Stat. 512; Pub. L. 105–261, div. A, title X, §1062, Oct. 17, 1998, 112 Stat. 2129.)
+(Added Pub. L. 102–190, div. A, title X, §1052(a)(1), Dec. 5, 1991, 105 Stat. 1470; amended Pub. L. 104–106, div. A, title XV, §1503(a)(18), Feb. 10, 1996, 110 Stat. 512; Pub. L. 105–261, div. A, title X, §1062, Oct. 17, 1998, 112 Stat. 2129; Pub. L. 112–81, div. A, title X, §1086(2), Dec. 31, 2011, 125 Stat. 1603.)
 
 #### Amendments
+
+<b>2011</b>—Subsec. (d)(1). Pub. L. 112–81 substituted “military information support operations” for “psychological operations”.
 
 <b>1998</b>—Subsec. (c). Pub. L. 105–261, §1062(a), inserted after first sentence “The regulations shall require that training activities may be carried out under this section only with the prior approval of the Secretary of Defense.”
 

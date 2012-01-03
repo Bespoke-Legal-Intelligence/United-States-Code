@@ -20,6 +20,8 @@ Reimbursement of Providers.—(1) Subject to paragraph (2), the Secretary of Def
 
 &emsp;(B) The amount equal to 115 percent of the CHAMPUS maximum allowable charge for the service.
 
+(3) In establishing rates and procedures for reimbursement of providers and other administrative requirements, including those contained in provider network agreements, the Secretary shall, to the extent practicable, maintain adequate networks of providers, including institutional, professional, and pharmacy. For the purpose of determining whether network providers under such provider network agreements are subcontractors for purposes of the Federal Acquisition Regulation or any other law, a TRICARE managed care support contract that includes the requirement to establish, manage, or maintain a network of providers may not be considered to be a contract for the performance of health care services or supplies on the basis of such requirement.
+
 (b)
 
 Third-Party Collections.—(1) A medical treatment facility of the uniformed services under the TRICARE program has the same right as the United States under section 1095 of this title to collect from a third-party payer the reasonable charges for health care services described in paragraph (2) that are incurred by the facility on behalf of a covered beneficiary under that program.
@@ -42,7 +44,11 @@ Third-Party Collections.—(1) A medical treatment facility of the uniformed ser
 
 Consultation Requirement.—The Secretary of Defense shall carry out the responsibilities under this section after consultation with the other administering Secretaries.
 
-(Added Pub. L. 106–65, div. A, title VII, §716(a)(1), Oct. 5, 1999, 113 Stat. 690.)
+(Added Pub. L. 106–65, div. A, title VII, §716(a)(1), Oct. 5, 1999, 113 Stat. 690; amended Pub. L. 112–81, div. A, title VII, §715, Dec. 31, 2011, 125 Stat. 1477.)
+
+#### Amendments
+
+<b>2011</b>—Subsec. (a)(3). Pub. L. 112–81 added par. (3).
 
 #### Effective Date
 
@@ -50,5 +56,5 @@ Pub. L. 106–65, div. A, title VII, §716(d), Oct. 5, 1999, 113 Stat. 692, prov
 
 #### Report on Implementation
 
-Pub. L. 106–65, div. A, title VII, §716(b), Oct. 5, 1999, 113 Stat. 691, directed the Secretary of Defense to submit to Congress a report assessing the effects of the implementation of the requirements and authorities set forth in this section not later than 6 months after Oct. 5, 1999.
+Pub. L. 106–65, div. A, title VII, §716(b), Oct. 5, 1999, 113 Stat. 691, directed the Secretary of Defense to submit to Congress a report assessing the effects of the implementation of the requirements and authorities setforth in this section not later than 6 months after Oct. 5, 1999.
 

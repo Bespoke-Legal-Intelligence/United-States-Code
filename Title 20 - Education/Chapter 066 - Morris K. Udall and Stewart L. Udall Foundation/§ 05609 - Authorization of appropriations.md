@@ -38,5 +38,5 @@ This subsection, referred to in subsec. (c), was enacted by Pub. L. 106–568, w
 
 <b>2000</b>—Subsec. (c). Pub. L. 106–568 added subsec. (c).
 
-<b>1998</b>—Pub. L. 105–156, §8, designated existing provisions as subsec. (a), inserted heading, substituted“There is authorized to be appropriated to the Trust Fund” for “There are authorized to be appropriated to the Fund”, and added subsec. (b).
+<b>1998</b>—Pub. L. 105–156, §8, designated existing provisions as subsec. (a), inserted heading, substituted “There is authorized to be appropriated to the Trust Fund” for “There are authorized to be appropriated to the Fund”, and added subsec. (b).
 

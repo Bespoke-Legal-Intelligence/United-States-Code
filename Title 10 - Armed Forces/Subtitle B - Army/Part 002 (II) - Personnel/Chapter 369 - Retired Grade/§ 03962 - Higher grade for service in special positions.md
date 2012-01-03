@@ -122,7 +122,7 @@ Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. 
 
 Section 13(c) of Pub. L. 96–343 provided that:
 
-“(1) The President may, by and with the advice and consent of the Senate, appoint any commissioned officer of a reserve component of the Armed Forces who retired after December 31, 1967, to the retired grade in which such officer could have been retired had such officer retired on or after the date of the enactment of this Act \[Sept. 8, 1980\].
+“(1) The President may, by and with the advice and consent of the Senate, appoint any commissioned officer of a reserve component of the Armed Forces who retired after December 31, 1967, to the retired grade inwhich such officer could have been retired had such officer retired on or after the date of the enactment of this Act \[Sept. 8, 1980\].
 
 “(2) The retired pay of any retired officer who is appointed to a higher retired grade under paragraph (1) shall be recalculated as if such officer had retired in the grade to which appointed, but any increase in such retired pay by virtue of such appointment or this subsection shall be effective only with respect to periods beginning on or after the date on which such appointment is made.”
 

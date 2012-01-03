@@ -10,9 +10,9 @@ Section is comprised of the eighth par. of section 9 of act Dec. 23, 1913, as am
 
 #### Amendments
 
-1999—Pub. L. 106–102 inserted last sentence and struck out former last sentence which read as follows: “Copies of the reports of such examinations may, in the discretion of the Board of Governors of the Federal Reserve System, be furnished to the State authorities having supervision of such banks, to officers, directors, or receivers of such banks, and to any other proper persons.”
+<b>1999</b>—Pub. L. 106–102 inserted last sentence and struck out former last sentence which read as follows: “Copies of the reports of such examinations may, in the discretion of the Board of Governors of the Federal Reserve System, be furnished to the State authorities having supervision of such banks, to officers, directors, or receivers of such banks, and to any other proper persons.”
 
-1930—Act June 26, 1930, amended next to last sentence and inserted last sentence.
+<b>1930</b>—Act June 26, 1930, amended next to last sentence and inserted last sentence.
 
 #### Change of Name
 

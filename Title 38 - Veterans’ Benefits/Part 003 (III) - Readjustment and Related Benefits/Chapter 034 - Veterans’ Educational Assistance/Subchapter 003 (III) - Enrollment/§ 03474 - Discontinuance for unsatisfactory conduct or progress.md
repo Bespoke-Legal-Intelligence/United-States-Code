@@ -48,7 +48,7 @@ Amendment by Pub. L. 96–466 effective Oct. 1, 1980, except as otherwise specif
 
 #### Effective Date of 1977 Amendment
 
-Amendment by Pub. L. 95–202 effective first day of first month beginning 60 days after Nov. 23, 1977, see section 501 of Pub. L. 95–202, set out as a note under section 101 of this title.
+Amendment by Pub. L. 95–202 effective first day of first month beginning 60 days after Nov. 23, 1977, seesection 501 of Pub. L. 95–202, set out as a note under section 101 of this title.
 
 #### Effective Date of 1976 Amendment
 

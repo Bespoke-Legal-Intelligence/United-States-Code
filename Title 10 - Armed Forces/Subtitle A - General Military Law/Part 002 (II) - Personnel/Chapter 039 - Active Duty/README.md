@@ -6,7 +6,8 @@
 | [671a.](%C2%A7%2000671a%20-%20Members%20service%20extension%20during%20war.md) | Members: service extension during war. |
 | [671b.](%C2%A7%2000671b%20-%20Members%20service%20extension%20when%20Congress%20is%20not%20in%20session.md) | Members: service extension when Congress is not in session. |
 | [672\.](%C2%A7%2000672%20-%20Reference%20to%20chapter%201209.md) | Reference to chapter 1209. |
-| \[673 to 687. Renumbered.\] |  |
+| [673\.](%C2%A7%2000673%20-%20Consideration%20of%20application%20for%20permanent%20change%20of%20station%20or%20unit%20transfer%20for%20members%20on%20active%20duty%20who%20are%20the%20victim%20of%20a%20sexual%E2%80%A6.md) | Consideration of application for permanent change of station or unit transfer for members on active duty who are the victim of a sexual assault or related offense. |
+| \[674 to 687. Renumbered.\] |  |
 | [688\.](%C2%A7%2000688%20-%20Retired%20members%20authority%20to%20order%20to%20active%20duty%3B%20duties.md) | Retired members: authority to order to active duty; duties. |
 | [688a.](%C2%A7%2000688a%20-%20Retired%20members%20temporary%20authority%20to%20order%20to%20active%20duty%20in%20high-demand%2C%20low-density%20assignments.md) | Retired members: temporary authority to order to active duty in high-demand, low-density assignments. |
 | [689\.](%C2%A7%2000689%20-%20Retired%20members%20grade%20in%20which%20ordered%20to%20active%20duty%20and%20upon%20release%20from%20active%20duty.md) | Retired members: grade in which ordered to active duty and upon release from active duty. |
@@ -16,6 +17,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2011</b>—Pub. L. 112–81, div. A, title V, §582(b), Dec. 31, 2011, 125 Stat. 1432, added item 673.
 
 <b>2006</b>—Pub. L. 109–364, div. A, title VI, §621(d)(2)(B), Oct. 17, 2006, 120 Stat. 2255, substituted “Retired members: temporary authority to order to active duty in high-demand, low-density assignments” for “Retired aviators: temporary authority to order to active duty” in item 688a.
 
@@ -64,7 +67,7 @@ Pub. L. 102–25, title VII, §701(e)(3), Apr. 6, 1991, 105 Stat. 114, transferr
 - [&sect; 00671a - Members service extension during war](%C2%A7%2000671a%20-%20Members%20service%20extension%20during%20war.md)
 - [&sect; 00671b - Members service extension when Congress is not in session](%C2%A7%2000671b%20-%20Members%20service%20extension%20when%20Congress%20is%20not%20in%20session.md)
 - [&sect; 00672 - Reference to chapter 1209](%C2%A7%2000672%20-%20Reference%20to%20chapter%201209.md)
-- [&sect; 00673 - Renumbered &sect;12302](%C2%A7%2000673%20-%20Renumbered%20%C2%A712302.md)
+- [&sect; 00673 - Consideration of application for permanent change of station or unit transfer for members on active duty who are the victim of a sexual&#8230;](%C2%A7%2000673%20-%20Consideration%20of%20application%20for%20permanent%20change%20of%20station%20or%20unit%20transfer%20for%20members%20on%20active%20duty%20who%20are%20the%20victim%20of%20a%20sexual%E2%80%A6.md)
 - [&sect; 00673a - Renumbered &sect;12303](%C2%A7%2000673a%20-%20Renumbered%20%C2%A712303.md)
 - [&sect; 00673b - Renumbered &sect;12304](%C2%A7%2000673b%20-%20Renumbered%20%C2%A712304.md)
 - [&sect; 00673c - Renumbered &sect;12305](%C2%A7%2000673c%20-%20Renumbered%20%C2%A712305.md)

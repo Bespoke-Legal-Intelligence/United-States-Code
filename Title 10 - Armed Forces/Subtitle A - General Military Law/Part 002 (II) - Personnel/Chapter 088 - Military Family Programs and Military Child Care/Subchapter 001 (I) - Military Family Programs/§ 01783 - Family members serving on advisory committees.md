@@ -1,6 +1,6 @@
 ### §1783. Family members serving on advisory committees
 
-A committee within the Department of Defense which advises or assists the Department inthe performance of any function which affects members of military families and which includes members of military families in its membership shall not be considered an advisory committee under section 3(2) of the Federal Advisory Committee Act (5 U.S.C. App.) solely because of such membership.
+A committee within the Department of Defense which advises or assists the Department in the performance of any function which affects members of military families and which includes members of military families in its membership shall not be considered an advisory committee under section 3(2) of the Federal Advisory Committee Act (5 U.S.C. App.) solely because of such membership.
 
 (Added Pub. L. 104–106, div. A, title V, §568(a)(1), Feb. 10, 1996, 110 Stat. 330.)
 

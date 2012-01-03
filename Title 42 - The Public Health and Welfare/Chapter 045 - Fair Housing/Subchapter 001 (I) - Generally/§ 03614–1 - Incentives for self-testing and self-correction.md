@@ -12,7 +12,7 @@
 
 #### (2) Privileged self-test
 
-&emsp;If a person meets the conditions specified in subparagraphs (A) and (B) of paragraph (1)with respect to a self-test described in that paragraph, any report or results of that self-test—
+&emsp;If a person meets the conditions specified in subparagraphs (A) and (B) of paragraph (1) with respect to a self-test described in that paragraph, any report or results of that self-test—
 
 &emsp;&emsp;(A) shall be privileged; and
 

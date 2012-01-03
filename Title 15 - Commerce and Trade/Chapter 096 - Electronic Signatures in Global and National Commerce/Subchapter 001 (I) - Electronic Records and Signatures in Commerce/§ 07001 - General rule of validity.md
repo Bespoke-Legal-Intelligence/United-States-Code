@@ -38,7 +38,7 @@ This subchapter does not—
 
 &emsp;&emsp;&emsp;(i) prior to consenting, is provided with a statement of the hardware and software requirements for access to and retention of the electronic records; and
 
-&emsp;&emsp;&emsp;(ii) consents electronically, or confirms his or her consent electronically, in a manner that reasonably demonstrates that the consumer can access information inthe electronic form that will be used to provide the information that is the subject of the consent; and
+&emsp;&emsp;&emsp;(ii) consents electronically, or confirms his or her consent electronically, in a manner that reasonably demonstrates that the consumer can access information in the electronic form that will be used to provide the information that is the subject of the consent; and
 
 &emsp;&emsp;(D) after the consent of a consumer in accordance with subparagraph (A), if a change in the hardware or software requirements needed to access or retain electronic records creates a material risk that the consumer will not be able to access or retain a subsequent electronic record that was the subject of the consent, the person providing the electronic record—
 
@@ -66,7 +66,7 @@ This subchapter does not—
 
 #### (5) Prior consent
 
-&emsp;This subsection does not apply to any records that are provided or made available to a consumer who has consented prior to the effective date of this subchapter to receive such records in electronic form as permitted by any statute, regulation, or other rule of law.
+&emsp;This subsection does not apply to any records that are provided or made available to a consumer who has consented prior to the effective date of this subchapter to receive suchrecords in electronic form as permitted by any statute, regulation, or other rule of law.
 
 #### (6) Oral communications
 
@@ -100,7 +100,7 @@ Notwithstanding subsection (a) of this section, if a statute, regulation, or oth
 
 #### (f) Proximity
 
-Nothing in this subchapter affects the proximity required by any statute, regulation, or otherrule of law with respect to any warning, notice, disclosure, or other record required to be posted, displayed, or publicly affixed.
+Nothing in this subchapter affects the proximity required by any statute, regulation, or other rule of law with respect to any warning, notice, disclosure, or other record required to be posted, displayed, or publicly affixed.
 
 #### (g) Notarization and acknowledgment
 

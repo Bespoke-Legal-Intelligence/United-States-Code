@@ -2,7 +2,7 @@
 
 #### (a) Establishment of Native Hawaiian Education Council
 
-In order to better effectuate the purposes of this part through the coordination of educational and related services and programs available to Native Hawaiians, including those programs receiving funding under this part, the Secretary is authorized to establish a Native Hawaiian Education Council (hereafter in this part referred to as the “Education Council”).
+In order to better effectuate the purposes of this part through the coordination of educational and related services and programs available to Native Hawaiians, including those programs receiving funding under this part, theSecretary is authorized to establish a Native Hawaiian Education Council (hereafter in this part referred to as the “Education Council”).
 
 #### (b) Composition of Education Council
 
@@ -97,8 +97,4 @@ The Federal Advisory Committee Act, referred to in subsec. (g), is Pub. L. 92–
 #### Prior Provisions
 
 A prior section 7514, Pub. L. 89–10, title VII, §7204, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3738, related to applications for grants, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 7259b of this title.
-
-#### Change of Name
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

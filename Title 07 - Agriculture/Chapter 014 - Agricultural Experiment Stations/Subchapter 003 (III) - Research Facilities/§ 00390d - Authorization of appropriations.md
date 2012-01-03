@@ -42,11 +42,11 @@ A prior section 390k, Pub. L. 88–74, §12, July 22, 1963, 77 Stat. 92, authori
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–246, §7405, substituted “2012” for “2007”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–246, §7405, substituted “2012” for “2007”.
 
-2002—Subsec. (a). Pub. L. 107–171 substituted “2007” for “2002”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–171 substituted “2007” for “2002”.
 
-1998—Subsec. (a). Pub. L. 105–185 substituted “each of fiscal years 1996 through 2002” for “fiscal years 1996 and 1997”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–185 substituted “each of fiscal years 1996 through 2002” for “fiscal years 1996 and 1997”.
 
 #### Effective Date of 2008 Amendment
 

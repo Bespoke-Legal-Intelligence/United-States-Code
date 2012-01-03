@@ -2,7 +2,7 @@
 
 #### (a) Preemption of testing and labeling requirements
 
-(1) Effective on March 17, 1987, this part supersedes any State regulation insofar as such State regulation provides at any time for the disclosure of information with respect to any measure of energy consumption or water use of any covered product if—
+(1) Effective on March 17, 1987, this part supersedes any State regulation insofar as such Stateregulation provides at any time for the disclosure of information with respect to any measure of energy consumption or water use of any covered product if—
 
 &emsp;(A) such State regulation requires testing or the use of any measure of energy consumption, water use, or energy descriptor in any manner other than that provided under section 6293 of this title; or
 
@@ -22,7 +22,7 @@
 
 Effective on March 17, 1987, and ending on the effective date of an energy conservation standard established under section 6295 of this title for any covered product, no State regulation, or revision thereof, concerning the energy efficiency, energy use, or water use of the covered product shall be effective with respect to such covered product, unless the State regulation or revision—
 
-&emsp;(1)(A) was prescribed or enacted before January 8, 1987, and is applicable to products before January 3, 1988, or in the case of any portion of any regulation which establishes requirements for fluorescent lamp ballasts, was prescribed or enacted before June 28, 1988, or in the case of any portion of any regulation which establishes requirements for fluorescentor incandescent lamps, flow rate requirements for showerheads or faucets, or water use requirements for water closets or urinals, was prescribed or enacted before October 24, 1992; or
+&emsp;(1)(A) was prescribed or enacted before January 8, 1987, and is applicable to products before January 3, 1988, or in the case of any portion of any regulation which establishes requirements for fluorescent lamp ballasts, was prescribed or enacted before June 28, 1988, or in the case of any portion of any regulation which establishes requirements for fluorescent or incandescent lamps, flow rate requirements for showerheads or faucets, or water use requirements for water closets or urinals, was prescribed or enacted before October 24, 1992; or
 
 &emsp;(B) in the case of any portion of any regulation that establishes requirements for general service incandescent lamps, intermediate base incandescent lamps, or candelabra base lamps, was enacted or adopted by the State of California or Nevada before December 4, 2007, except that—
 
@@ -48,7 +48,7 @@ Effective on March 17, 1987, and ending on the effective date of an energy conse
 
 Except as provided in section 6295(b)(3)(A)(ii) of this title, subparagraphs (B) and (C) of section 6295(j)(3) of this title, and subparagraphs (B) and (C) of section 6295(k)(3) of this title and effective on the effective date of an energy conservation standard established in or prescribed under section 6295 of this title for any covered product, no State regulation concerning the energy efficiency, energy use, or water use of such covered product shall be effective with respect to such product unless the regulation—
 
-&emsp;(1) is a regulation described in paragraph (2) or (4) of subsection (b) of this section, except that a State regulation (or portion thereof) regulating fluorescent lamp ballasts other than those to which paragraph (5) of section 6295(g) of this title is applicable shall be effective only until the effective date of a standard that is prescribed by the Secretary under paragraph (7) of such section and is applicable to such ballasts, except that a State regulation (or portion thereof) regulating fluorescent or incandescent lamps other than those for which section 6295(i) of this title is applicable shall be effective only until the effective date of a standard that is prescribed by the Secretary and is applicable to such lamps;
+&emsp;(1) is a regulation described in paragraph (2) or (4) of subsection (b) of this section, except that a State regulation (or portion thereof) regulating fluorescent lamp ballasts other than those to which paragraph (5) of section 6295(g) of this title is applicable shall be effective only until the effective date of a standardthat is prescribed by the Secretary under paragraph (7) of such section and is applicable to such ballasts, except that a State regulation (or portion thereof) regulating fluorescent or incandescent lamps other than those for which section 6295(i) of this title is applicable shall be effective only until the effective date of a standard that is prescribed by the Secretary and is applicable to such lamps;
 
 &emsp;(2) is a regulation which has been granted a waiver under subsection (d) of this section;
 
@@ -110,7 +110,7 @@ Except as provided in section 6295(b)(3)(A)(ii) of this title, subparagraphs (B)
 
 (5) No final rule prescribed by the Secretary under this subsection may—
 
-&emsp;(A) permit any State regulation to become effective with respect to any covered product manufactured within three years after such rule is published in the Federal Register orwithin five years if the Secretary finds that such additional time is necessary due to the substantial burdens of retooling, redesign, or distribution needed to comply with the State regulation; or
+&emsp;(A) permit any State regulation to become effective with respect to any covered product manufactured within three years after such rule is published in the Federal Register or within five years if the Secretary finds that such additional time is necessary due to the substantial burdens of retooling, redesign, or distribution needed to comply with the State regulation; or
 
 &emsp;(B) become effective with respect to a covered product manufactured before the earliest possible effective date specified in section 6295 of this title for the initial amendment of the energy conservation standard established in such section for the covered product; except that such rule may become effective before such date if the Secretary finds (and publishes such finding) that, in addition to the other requirements of this subsection the State has established, by a preponderance of the evidence, that—
 
@@ -148,7 +148,7 @@ Any State regulation which sets forth procurement standards for a State (or poli
 
 &emsp;(C) The credit to the energy consumption or conservation objective allowed by the code for installing covered products having energy efficiencies exceeding such energy conservation standard established in or prescribed under section 6295 of this title or the efficiency level required in a State regulation referred to in subparagraph (B) is on a one-for-one equivalent energy use or equivalent cost basis.
 
-&emsp;(D) If the code uses one or more baseline building designs against which all submitted building designs are to be evaluated and such baseline building designs contain a covered product subject to an energy conservation standard established in or prescribed under section 6295 of this title, the baseline building designs are based on the efficiency level for such covered product which meets but doesnot exceed such standard or the efficiency level required by a regulation of that State for which the Secretary has issued a rule granting a waiver under subsection (d) of this section.
+&emsp;(D) If the code uses one or more baseline building designs against which all submitted building designs are to be evaluated and such baseline building designs contain a covered product subject to an energy conservation standard established in or prescribed under section 6295 of this title, the baseline building designs are based on the efficiency level for such covered product which meets but does not exceed such standard or the efficiency level required by a regulation of that State for which the Secretary has issued a rule granting a waiver under subsection (d) of this section.
 
 &emsp;(E) If the code sets forth one or more optional combinations of items which meet the energy consumption or conservation objective, for every combination which includes a covered product the efficiency of which exceeds either standard or level referred to in subparagraph (D), there also shall be at least one combination which includes such covered product the efficiency of which does not exceed such standard or level by more than 5 percent, except that at least one combination shall include such covered product the efficiency of which meets but does not exceed such standard.
 
@@ -196,7 +196,7 @@ Subsec. (d)(1)(A). Pub. L. 102–486, §123(h)(4)(A), inserted “or river basin
 
 Subsec. (d)(1)(B). Pub. L. 102–486, §123(h)(4)(B), substituted “State or river basin commission has” for “State has” and inserted “or water” after “energy”.
 
-Subsec. (d)(1)(C). Pub. L. 102–486, §123(h)(4)(C), in introductory provisions and cl. (ii) inserted “or water” after “energy” wherever appearing and in closing provisions inserted before period at end “, and, with respect to a State regulation for which a petition has been submitted to the Secretary which provides for any energy conservation standard or requirement with respect to water use of a covered product, within the context of the water supply and groundwater management plan, water quality program, and comprehensive plan\(if any) of the State or river basin commission for improving, developing, or conserving a waterway affected by water supply development”.
+Subsec. (d)(1)(C). Pub. L. 102–486, §123(h)(4)(C), in introductory provisions and cl. (ii) inserted “or water” after “energy” wherever appearing and in closing provisions inserted before period at end “, and, with respect to a State regulation for which a petition has been submitted to the Secretary which provides for any energy conservation standard or requirement with respect to water use of a covered product, within the context of the water supply and groundwater management plan, water quality program, and comprehensive plan (if any) of the State or river basin commission for improving, developing, or conserving a waterway affected by water supply development”.
 
 Subsec. (d)(5)(B)(i). Pub. L. 102–486, §123(h)(5), added cl. (i) and struck out former cl. (i) which read as follows: “an energy emergency condition exists within the State which—
 

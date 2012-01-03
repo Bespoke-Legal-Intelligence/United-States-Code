@@ -20,7 +20,7 @@
 
 #### Amendments
 
-<b>2000</b>—Pub. L. 106–404, §4(b), Nov. 1, 2000, 114 Stat. 1744, substituted “Licensing federally owned inventions” for“Restrictions on licensing of federally owned inventions” in item 209.
+<b>2000</b>—Pub. L. 106–404, §4(b), Nov. 1, 2000, 114 Stat. 1744, substituted “Licensing federally owned inventions” for “Restrictions on licensing of federally owned inventions” in item 209.
 
 <b>1984</b>—Pub. L. 98–620, title V, §501(15), Nov. 8, 1984, 98 Stat. 3368, added item 212.
 

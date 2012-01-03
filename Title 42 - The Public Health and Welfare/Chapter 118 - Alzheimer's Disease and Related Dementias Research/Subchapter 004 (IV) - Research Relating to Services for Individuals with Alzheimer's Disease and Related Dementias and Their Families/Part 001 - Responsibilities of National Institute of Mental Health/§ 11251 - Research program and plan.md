@@ -12,7 +12,7 @@ The Director of the National Institute of Mental Health shall—
 
 &emsp;&emsp;(A) mental health services and treatment modalities relevant to the mental, behavioral, and psychological problems associated with Alzheimer's disease and related dementias;
 
-&emsp;&emsp;(B) the most effective methods for providing comprehensive multidimensional assessments to obtain information about the current functioning of, and needs for the care of, individuals with Alzheimer's disease and related dementias;
+&emsp;&emsp;(B) the most effective methods for providing comprehensive multidimensional assessments to obtain information about the current functioning of, and needs for the careof, individuals with Alzheimer's disease and related dementias;
 
 &emsp;&emsp;(C) the optimal range, types, and cost-effectiveness of services and specialized care for individuals with Alzheimer's disease and related dementias and for their families, in community and residential settings (including home care, day care, and respite care), and in institutional settings, particularly with respect to—
 
@@ -32,7 +32,7 @@ The Director of the National Institute of Mental Health shall—
 
 &emsp;&emsp;(G) improved methods to deliver services for individuals with Alzheimer's disease and related dementias and their families, including services such as outreach services, comprehensive assessment and care management services, outpatient treatment services, home care services, respite care services, adult day care services, partial hospitalization services, nursing home services, and other residential services and care; and
 
-&emsp;(2) ensure that the research is coordinated with, and uses, to the maximum extent feasible, resources of, other Federal programs relating to Alzheimer's disease and dementia, including centers supported under section 285e–2 of this title, centers supported by theNational Institute of Mental Health on the psychopathology of the elderly, relevant activities of the Administration on Aging, other programs and centers involved in research on Alzheimer's disease and related dementias supported by the Department, and other programs relating to Alzheimer's disease and related dementias which are planned or conducted by Federal agencies other than the Department, State or local agencies, community organizations, or private foundations.
+&emsp;(2) ensure that the research is coordinated with, and uses, to the maximum extent feasible, resources of, other Federal programs relating to Alzheimer's disease and dementia, including centers supported under section 285e–2 of this title, centers supported by the National Institute of Mental Health on the psychopathology of the elderly, relevant activities of the Administration on Aging, other programs and centers involved in research on Alzheimer's disease and related dementias supported by the Department, and other programs relating to Alzheimer's disease and related dementias which are planned or conducted by Federal agencies other than the Department, State or local agencies, community organizations, or private foundations.
 
 (Pub. L. 99–660, title IX, §931, formerly §944, Nov. 14, 1986, 100 Stat. 3809; renumbered §931, Pub. L. 100–607, title I, §142(c)(2)(B), Nov. 4, 1988, 102 Stat. 3057; Pub. L. 102–507, §7(a)(1), (2), Oct. 24, 1992, 106 Stat. 3284.)
 

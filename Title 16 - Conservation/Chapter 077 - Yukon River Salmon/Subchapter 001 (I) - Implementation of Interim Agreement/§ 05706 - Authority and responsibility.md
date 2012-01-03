@@ -10,7 +10,7 @@ The designation under subsection (a) of this section shall not be considered to 
 
 #### (c) Recommendations of Panel
 
-In addition to recommendations made by the Panel to the responsible management entities in accordance with the Agreement, the Panel may make recommendations concerning the conservation and management of salmon originating in the Yukon River to the Department of the Interior, Department of Commerce, Department of State, North Pacific Fishery Management Council, and other Federal or State entities as appropriate. Recommendations by the Panel shall be advisory in nature.
+In addition to recommendations made by the Panel to the responsible management entities in accordance with the Agreement, the Panel may make recommendations concerning the conservation and management of salmon originating in the Yukon River to the Department of the Interior, Department of Commerce, Department of State, North Pacific Fishery ManagementCouncil, and other Federal or State entities as appropriate. Recommendations by the Panel shall be advisory in nature.
 
 (Pub. L. 104–43, title VII, §707, Nov. 3, 1995, 109 Stat. 394.)
 

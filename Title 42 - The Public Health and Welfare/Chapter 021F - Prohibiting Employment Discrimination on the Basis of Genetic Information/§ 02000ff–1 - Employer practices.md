@@ -40,7 +40,7 @@ It shall be an unlawful employment practice for an employer to request, require,
 
 &emsp;&emsp;(D) the monitoring is in compliance with—
 
-&emsp;&emsp;&emsp;(i) any Federal genetic monitoring regulations, including any such regulations that may be promulgated by the Secretary of Labor pursuant to the Occupational Safety and Health Act of 1970 (29 U.S.C. 651et seq.), the Federal Mine Safety and Health Act of 1977 (30 U.S.C. 801 et seq.), or the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.); or
+&emsp;&emsp;&emsp;(i) any Federal genetic monitoring regulations, including any such regulations that may be promulgated by the Secretary of Labor pursuant to the Occupational Safety and Health Act of 1970 (29 U.S.C. 651 et seq.), the Federal Mine Safety and Health Act of 1977 (30 U.S.C. 801 et seq.), or the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.); or
 
 &emsp;&emsp;&emsp;(ii) State genetic monitoring regulations, in the case of a State that is implementing genetic monitoring regulations under the authority of the Occupational Safety and Health Act of 1970 (29 U.S.C. 651 et seq.); and
 

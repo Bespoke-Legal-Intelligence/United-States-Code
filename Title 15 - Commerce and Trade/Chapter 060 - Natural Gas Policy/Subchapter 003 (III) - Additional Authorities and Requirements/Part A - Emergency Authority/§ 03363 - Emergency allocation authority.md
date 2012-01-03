@@ -110,7 +110,7 @@ In order to assist in meeting natural gas requirements for high-priority uses of
 
 #### (e) Limitation
 
-No order may be issued under this section unless the President determines that such orderwill not require transportation of natural gas by any pipeline in excess of its available transportation capacity.
+No order may be issued under this section unless the President determines that such order will not require transportation of natural gas by any pipeline in excess of its available transportation capacity.
 
 #### (f) Industry assistance
 
@@ -124,7 +124,7 @@ The President may request that representatives of pipelines, local distribution 
 
 #### (2) Calculation of compensation for certain boiler fuel natural gas
 
-&emsp;For purposes of any supplemental order under paragraph (1) with respect to emergency deliveries pursuant to subsection (b) of this section, the President shall calculate the amount of compensation—
+&emsp;For purposes of any supplemental order under paragraph (1) with respect to emergencydeliveries pursuant to subsection (b) of this section, the President shall calculate the amount of compensation—
 
 &emsp;&emsp;(A) for supplies of natural gas based upon the amount required to make whole the user subject to the prohibition order, but in no event may such compensation exceed just compensation prescribed in section 717z of this title; and
 

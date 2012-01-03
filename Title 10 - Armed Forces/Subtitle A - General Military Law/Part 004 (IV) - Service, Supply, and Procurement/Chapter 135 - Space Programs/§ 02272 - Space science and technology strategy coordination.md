@@ -8,7 +8,7 @@ Space Science and Technology Strategy.—(1) The Secretary of Defense and the Di
 
 &emsp;(A) Short-term and long-term goals of the space science and technology programs of the Department of Defense.
 
-&emsp;(B) The process for achieving the goals identified under subparagraph (A), including animplementation plan for achieving those goals.
+&emsp;(B) The process for achieving the goals identified under subparagraph (A), including an implementation plan for achieving those goals.
 
 &emsp;(C) The process for assessing progress made toward achieving those goals.
 

@@ -44,7 +44,7 @@ The Secretary is authorized to enter into written agreements with any taxpayer u
 
 #### (c) Secretary required to enter into installment agreements in certain cases
 
-In the case of a liability for tax of an individual under subtitle A, the Secretary shall enter into an agreement to accept the full payment of such tax in installments if, as of the date the individual offers to enter into the agreement—
+In the case of a liability for tax of an individual under subtitle A, the Secretary shall enterinto an agreement to accept the full payment of such tax in installments if, as of the date the individual offers to enter into the agreement—
 
 &emsp;(1) the aggregate amount of such liability (determined without regard to interest, penalties, additions to the tax, and additional amounts) does not exceed $10,000;
 
@@ -74,7 +74,7 @@ The Secretary shall establish procedures for an independent administrative revie
 
 &emsp;&emsp;<b>For rights to administrative review and appeal, see section 7122(e).</b>
 
-(Added Pub. L. 100–647, title VI, §6234(a), Nov. 10, 1988, 102 Stat. 3735; amended Pub. L. 104–168, title II, §§201(a), (b), 202(a), July 30, 1996, 110 Stat. 1456, 1457; Pub. L. 105–206, title III, §§3462(c)(2), 3467(a), July 22, 1998, 112 Stat. 766, 769; Pub. L. 105–277, div. J, title IV, §4002(g), Oct. 21, 1998, 112Stat. 2681–907; Pub. L. 108–357, title VIII, §843(a), (b), Oct. 22, 2004, 118 Stat. 1600; Pub. L. 109–222, title V, §509(c), May 17, 2006, 120 Stat. 363.)
+(Added Pub. L. 100–647, title VI, §6234(a), Nov. 10, 1988, 102 Stat. 3735; amended Pub. L. 104–168, title II, §§201(a), (b), 202(a), July 30, 1996, 110 Stat. 1456, 1457; Pub. L. 105–206, title III, §§3462(c)(2), 3467(a), July 22, 1998, 112 Stat. 766, 769; Pub. L. 105–277, div. J, title IV, §4002(g), Oct. 21, 1998, 112 Stat. 2681–907; Pub. L. 108–357, title VIII, §843(a), (b), Oct. 22, 2004, 118 Stat. 1600; Pub. L. 109–222, title V, §509(c), May 17, 2006, 120 Stat. 363.)
 
 #### Amendments
 
@@ -142,5 +142,5 @@ Section 6234(c) of Pub. L. 100–647 provided that: “The amendments made by th
 
 #### Statements Regarding Installment Agreements
 
-Pub. L. 105–206, title III, §3506, July 22, 1998, 112 Stat. 771, as amended by Pub. L. 106–554, §1(a)(7) \[title III, §302(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–632, provided that: “The Secretary of the Treasury or the Secretary's delegate shall, beginning not later than September 1, 2001, provide each taxpayer who has an installment agreement in effect under section 6159 of the Internal Revenue Code of 1986 an annual statement setting forth the initial balance at the beginning of the year, the payments made during the year, and the remaining balance as of the end of the year.”
+Pub. L. 105–206, title III, §3506, July 22, 1998, 112 Stat. 771, as amended by Pub. L. 106–554, §1(a)(7) \[title III, §302(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–632, providedthat: “The Secretary of the Treasury or the Secretary's delegate shall, beginning not later than September 1, 2001, provide each taxpayer who has an installment agreement in effect under section 6159 of the Internal Revenue Code of 1986 an annual statement setting forth the initial balance at the beginning of the year, the payments made during the year, and the remaining balance as of the end of the year.”
 

@@ -18,13 +18,17 @@
 
 > In prescribing the rules described in this paragraph, the Commission shall also consider recordkeeping requirements.
 
-#### (b) Rulemaking
+#### (b) Rulemaking authority
 
-The Commission shall prescribe the rules under subsection (a) of this section within 365 days after August 16, 1994. Such rules shall beprescribed in accordance with section 553 of title 5.
+The Commission shall have authority to prescribe rules under subsection (a), in accordance with section 553 of title 5. In prescribing a rule under this section that relates to the provision of a consumer financial product or service that is subject to the Consumer Financial Protection Act of 2010, including any enumerated consumer law thereunder, the Commission shall consult with the Bureau of Consumer Financial Protection regarding the consistency of a proposed rule with standards, purposes, or objectives administered by the Bureau of Consumer Financial Protection.
 
-#### (c) Enforcement
+#### (c) Violations
 
-Any violation of any rule prescribed under subsection (a) of this section shall be treated as a violation of a rule under section 57a of this title regarding unfair or deceptive acts or practices.
+Any violation of any rule prescribed under subsection (a)—
+
+&emsp;(1) shall be treated as a violation of a rule under section 57a of this title regarding unfair or deceptive acts or practices; and
+
+&emsp;(2) that is committed by a person subject to the Consumer Financial Protection Act of 2010 shall be treated as a violation of a rule under section 1031 of that Act \[12 U.S.C. 5531\] regarding unfair, deceptive, or abusive acts or practices.
 
 #### (d) Securities and Exchange Commission rules
 
@@ -70,29 +74,25 @@ Any violation of any rule prescribed under subsection (a) of this section shall 
 
 (Pub. L. 103–297, §3, Aug. 16, 1994, 108 Stat. 1545; Pub. L. 107–56, title X, §1011(b)(1), (2), Oct. 26, 2001, 115 Stat. 396; Pub. L. 111–203, title X, §1100C(a), July 21, 2010, 124 Stat. 2110.)
 
-#### Amendment of Section
+#### References in Text
 
-<i>Pub. L. 111–203, title X, §§1100C(a), 1100H, July 21, 2010, 124 Stat. 2110, 2113, provided that, effective on the designated transfer date, this section is amended by striking subsections (b) and (c) and inserting the following:</i>
-
-#### <i>“(b) Rulemaking authority</i>
-
-<i>“The Commission shall have authority to prescribe rules under subsection (a), in accordance with section 553 of title 5. In prescribing a rule under this section that relates to the provision of a consumer financial product or service that is subject to the Consumer Financial Protection Act of 2010, including any enumerated consumer law thereunder, the Commission shall consult with the Bureau of Consumer Financial Protection regarding the consistency of a proposed rule with standards, purposes, or objectives administered by the Bureau of Consumer Financial Protection.</i>
-
-#### <i>“(c) Violations</i>
-
-<i>“Any violation of any rule prescribed under subsection (a)—</i>
-
-&emsp;<i>“(1) shall be treated as a violation of a rule under section 57a of this title regarding unfair or deceptive acts or practices; and</i>
-
-&emsp;<i>“(2) that is committed by a person subject to the Consumer Financial Protection Act of 2010 shall be treated as a violation of a rule under section 1031 of that Act regarding unfair, deceptive, or abusive acts or practices.”</i>
-
-<i>See Effective Date of 2010 Amendment note below.</i>
+The Consumer Financial Protection Act of 2010, referred to in subsecs. (b) and (c)(2), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, which enacted subchapter V (§5481 et seq.) of chapter 53 of Title 12, Banks and Banking, and enacted and amended numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 12 and Tables.
 
 #### Codification
 
 Section is comprised of section 3 of Pub. L. 103–297. Subsec. (e)(2) of section 3 of Pub. L. 103–297 enacted section 9b of Title 7, Agriculture.
 
 #### Amendments
+
+<b>2010</b>—Subsecs. (b), (c). Pub. L. 111–203 added subsecs. (b) and (c) and struck out former subsecs. (b) and (c) which read as follows:
+
+“(b)
+
+Rulemaking.—The Commission shall prescribe the rules under subsection (a) of this section within 365 days after August 16, 1994. Such rules shall be prescribed in accordance with section 553 of title 5.
+
+“(c)
+
+Enforcement.—Any violation of any rule prescribed under subsection (a) of this section shall be treated as a violation of a rule under section 57a of this title regarding unfair or deceptive acts or practices.”
 
 <b>2001</b>—Subsec. (a)(2). Pub. L. 107–56, §1011(b)(1), inserted “which shall include fraudulent charitable solicitations, and” before “which may include”.
 

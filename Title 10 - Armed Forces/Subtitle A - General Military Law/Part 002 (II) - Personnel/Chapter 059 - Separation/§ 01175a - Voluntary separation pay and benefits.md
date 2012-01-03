@@ -56,7 +56,7 @@ Separation Pay and Benefits.—(1) A member of the armed forces who is separated
 
 &emsp;(A) chapter 58 of this title during the 180-day period beginning on the date the member is separated (notwithstanding any termination date for such benefits and services otherwise applicable under the provisions of such chapter); and
 
-&emsp;(B) sections 404 and 406 of title 37.
+&emsp;(B) sections 474 and 476 of title 37.
 
 (f)
 
@@ -76,7 +76,7 @@ Payment of Voluntary Separation Pay.—(1) Voluntary separation pay under this s
 
 (h)
 
-Coordination With Retired or Retainer Pay and Disability Compensation.—(1) A member who is paid voluntary separation pay under this section and who later qualifies for retired or retainer pay under this title or title 14 shall have deducted from each payment of such retired or retainer pay an amount, in such schedule of monthly installments as the Secretary concerned shall specify, until the total amount deducted from such retired or retainer pay is equal to the total amount of voluntary separation pay so paid.
+Coordination With Retired or Retainer Pay and Disability Compensation.—(1) A member who is paid voluntary separation pay under this section and who later qualifies for retiredor retainer pay under this title or title 14 shall have deducted from each payment of such retired or retainer pay an amount, in such schedule of monthly installments as the Secretary concerned shall specify, until the total amount deducted from such retired or retainer pay is equal to the total amount of voluntary separation pay so paid.
 
 (2)(A) Except as provided in subparagraphs (B) and (C), a member who is paid voluntary separation pay under this section shall not be deprived, by reason of the member's receipt of such pay, of any disability compensation to which the member is entitled under the laws administered by the Secretary of Veterans Affairs, but there shall be deducted from such disability compensation an amount, in such schedule of monthly installments as the Secretary concerned shall specify, until the total amount deducted from such disability compensation is equal to the total amount of voluntary separation pay so paid, less the amount of Federal income tax withheld from such pay (such withholding being at the flat withholding rate for Federal income tax withholding, as in effect pursuant to regulations prescribed under chapter 24 of the Internal Revenue Code of 1986).
 
@@ -98,25 +98,33 @@ Repayment for Members Who Return to Active Duty.—(1) Except as provided in par
 
 (2) Members who are involuntarily recalled to active duty or full-time National Guard duty in accordance with section 12301(a), 12301(b), 12301(g), 12302, 12303, or 12304 of this title or section 502(f)(1) of title 32 shall not be subject to this subsection.
 
-(3) Members who are recalled or perform active duty or full-time National Guard duty in accordance with section 101(d)(1), 101(d)(2), 101(d)(5), 12301(d) (insofar as the period served isless than 180 consecutive days with the consent of the member), 12319, or 12503 of this title, or section 114, 115, or 502(f)(2) of title 32 (insofar as the period served is less than 180 consecutive days with consent of the member), shall not be subject to this subsection.
+(3) Members who are recalled or perform active duty or full-time National Guard duty in accordance with section 101(d)(1), 101(d)(2), 101(d)(5), 12301(d) (insofar as the period served is less than 180 consecutive days with the consent of the member), 12319, or 12503 of this title, or section 114, 115, or 502(f)(2) of title 32 (insofar as the period served is less than 180 consecutive days with consent of the member), shall not be subject to this subsection.
 
 (4) The Secretary of Defense may waive, in whole or in part, repayment required under paragraph (1) if the Secretary determines that recovery would be against equity and good conscience or would be contrary to the best interests of the United States. The authority in this paragraph may be delegated only to the Undersecretary of Defense for Personnel and Readiness and the Principal Deputy Undersecretary of Defense for Personnel and Readiness.
 
 (k)
 
-Termination of Authority.—(1) The authority to separate a member of the armed forces from active duty under subsection (c) shall terminate on December 31, 2012.
+Termination of Authority.—(1) The authority to separate a member of the armed forces from active duty under subsection (c) shall terminate on December 31, 2018.
 
 (2) A member who separates by the date specified in paragraph (1) may continue to be provided voluntary separation pay and benefits under this section until the member has received the entire amount of pay and benefits to which the member is entitled under this section.
 
-(Added Pub. L. 109–163, div. A, title VI, §643(a)(1), Jan. 6, 2006, 119 Stat. 3306; amended Pub. L. 109–364, div. A, title VI, §623(a)(1), (2), Oct. 17, 2006, 120 Stat. 2256; Pub. L. 111–84, div. A, title X, §1073(a)(14), Oct. 28, 2009, 123 Stat. 2473; Pub. L. 111–383, div. A, title X, §1075(b)(18), Jan. 7, 2011, 124 Stat. 4370.)
+(Added Pub. L. 109–163, div. A, title VI, §643(a)(1), Jan. 6, 2006, 119 Stat. 3306; amended Pub. L. 109–364, div. A, title VI, §623(a)(1), (2), Oct. 17, 2006, 120 Stat. 2256; Pub. L. 111–84, div. A, title X, §1073(a)(14), Oct. 28, 2009, 123 Stat. 2473; Pub. L. 111–383, div. A, title X, §1075(b)(18), Jan. 7, 2011, 124 Stat. 4370; Pub. L. 112–81, div. A, title V, §526, title VI, §631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1401, 1465.)
 
 #### References in Text
 
 Chapter 24 of the Internal Revenue Code of 1986, referred to in subsec. (h)(2)(A), is classified generally to chapter 24 (§3401 et seq.) of Title 26, Internal Revenue Code.
 
+#### Codification
+
+Section 631(f)(4)(A) of Pub. L. 112–81, which directed that this title be amended by conforming any references to sections of title 37, United States Code, which were transferred and redesignated by “subsection (c)” of section 631, was executed by conforming the references to those sections as transferred and redesignated by subsection (d) of section 631, to reflect the probable intent of Congress.
+
 #### Amendments
 
-<b>2011</b>—Subsec. (j)(3). Pub. L. 111–383 substituted “this title” for “title 10”.
+<b>2011</b>—Subsec. (e)(2)(B). Pub. L. 112–81, §631(f)(4)(A), substituted “474” for “404” and “476” for “406”. See Codification note above.
+
+Subsec. (j)(3). Pub. L. 111–383 substituted “this title” for “title 10”.
+
+Subsec. (k)(1). Pub. L. 112–81, §526, substituted “December 31, 2018” for “December 31, 2012”.
 
 <b>2009</b>—Subsec. (h)(1). Pub. L. 111–84 substituted “qualifies” for “qualities”.
 

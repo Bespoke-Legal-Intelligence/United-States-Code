@@ -6,7 +6,7 @@ Effectiveness, Generally.—The Secretary may enter into an operating agreement 
 
 (b)
 
-Vessels Under Charter to United States.—Unless an earlier date is requested by the applicant, the effective date for an operating agreement with respect to a vessel that is, on the date of entry into an operating agreement, on charter to the United States Government, other than a charter pursuant to an Emergency Preparedness Agreement under section 53107, shall be the expiration or termination date of the Government charter covering the vessel, or any earlier date the vessel is withdrawn from that charter.
+Vessels Under Charter to United States.—Unless an earlier date is requested by the applicant, the effective date for an operating agreement with respect to a vessel that is, on the date of entry into an operating agreement, on charter to the United States Government, other than a charter pursuant to an Emergency Preparedness Agreement under section 53107,shall be the expiration or termination date of the Government charter covering the vessel, or any earlier date the vessel is withdrawn from that charter.
 
 (c)
 
@@ -24,7 +24,7 @@ Termination by secretary.—If the contractor with respect to an operating agree
 
 &emsp;(2)
 
-Early termination by contractor, generally.—An operating agreement under this chapter shall terminate on a date specified by the contractor if the contractor notifies the Secretary, by not later than 60 days before the effective date of the termination, that thecontractor intends to terminate the agreement.
+Early termination by contractor, generally.—An operating agreement under this chapter shall terminate on a date specified by the contractor if the contractor notifies the Secretary, by not later than 60 days before the effective date of the termination, that the contractor intends to terminate the agreement.
 
 &emsp;(3)
 

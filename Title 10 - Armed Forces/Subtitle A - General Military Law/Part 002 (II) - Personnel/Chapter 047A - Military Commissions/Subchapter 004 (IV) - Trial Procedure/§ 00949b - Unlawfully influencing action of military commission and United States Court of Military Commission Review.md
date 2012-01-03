@@ -2,7 +2,7 @@
 
 (a)
 
-Military Commissions.—(1) No authority convening a military commission under thischapter may censure, reprimand, or admonish the military commission, or any member, military judge, or counsel thereof, with respect to the findings or sentence adjudged by the military commission, or with respect to any other exercises of its or their functions in the conduct of the proceedings.
+Military Commissions.—(1) No authority convening a military commission under this chapter may censure, reprimand, or admonish the military commission, or any member, military judge, or counsel thereof, with respect to the findings or sentence adjudged by the military commission, or with respect to any other exercises of its or their functions in the conduct of the proceedings.
 
 (2) No person may attempt to coerce or, by any unauthorized means, influence—
 
@@ -22,17 +22,17 @@ Military Commissions.—(1) No authority convening a military commission under t
 
 United States Court of Military Commission Review.—(1) No person may attempt to coerce or, by any unauthorized means, influence—
 
-&emsp;(A) the action of a military appellate judge or other duly appointed judge under this chapter on the United States Court of Military Commissions Review in reaching a decision on the findings or sentence on appeal in any case; or
+&emsp;(A) the action of a judge on the United States Court of Military Commissions Review in reaching a decision on the findings or sentence on appeal in any case; or
 
 &emsp;(B) the exercise of professional judgment by trial counsel or defense counsel appearing before the United States Court of Military Commission Review.
 
-(2) No person may censure, reprimand, or admonish a military appellate judge on the United States Court of Military Commission Review, or counsel thereof, with respect to any exercise of their functions in the conduct of proceedings under this chapter.
+(2) No person may censure, reprimand, or admonish a judge on the United States Court of Military Commission Review, or counsel thereof, with respect to any exercise of their functions in the conduct of proceedings under this chapter.
 
 (3) The provisions of this subsection shall not apply with respect to—
 
 &emsp;(A) general instructional or informational courses in military justice if such courses are designed solely for the purpose of instructing members of a command in the substantive and procedural aspects of military commissions; or
 
-&emsp;(B) statements and instructions given in open proceedings by an appellate military judge or a duly appointed appellate judge on the United States Court of Military Commission Review, or counsel.
+&emsp;(B) statements and instructions given in open proceedings by a judge on the United States Court of Military Commission Review, or counsel.
 
 (4) No appellate military judge on the United States Court of Military Commission Review may be reassigned to other duties, except under circumstances as follows:
 
@@ -52,9 +52,17 @@ Prohibition on Consideration of Actions on Commission in Evaluation of Fitness.�
 
 &emsp;(2) give a less favorable rating or evaluation to any commissioned officer because of the zeal with which such officer, in acting as counsel, represented any accused before a military commission under this chapter.
 
-(Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2583.)
+(Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2583; amended Pub. L. 112–81, div. A, title X, §1034(b), Dec. 31, 2011, 125 Stat. 1573.)
 
 #### Prior Provisions
 
 A prior section 949b, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2609, related to unlawfully influencing action of military commission, prior to the general amendment of this chapter by Pub. L. 111–84.
+
+#### Amendments
+
+<b>2011</b>—Subsec. (b)(1)(A). Pub. L. 112–81, §1034(b)(1), substituted “a judge on” for “a military appellate judge or other duly appointed judge under this chapter on”.
+
+Subsec. (b)(2). Pub. L. 112–81, §1034(b)(2), substituted “a judge on” for “a military appellate judge on”.
+
+Subsec. (b)(3)(B). Pub. L. 112–81, §1034(b)(3), substituted “a judge on” for “an appellate military judge or a duly appointed appellate judge on”.
 

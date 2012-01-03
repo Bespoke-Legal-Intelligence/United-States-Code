@@ -2,9 +2,9 @@
 
 | Sec. |  |
 | :--- | ---: |
+| [1390\.](%C2%A7%2001390%20-%20Scope.md) | Scope. |
 | [1391\.](%C2%A7%2001391%20-%20Venue%20generally.md) | Venue generally. |
-| [1392\.](%C2%A7%2001392%20-%20Defendants%20or%20property%20in%20different%20districts%20in%20same%20State.md) | Defendants or property in different districts in same State. |
-| \[1393. | Repealed.\] |
+| \[1392, 1393. Repealed.\] |  |
 | [1394\.](%C2%A7%2001394%20-%20Banking%20association%27s%20action%20against%20Comptroller%20of%20Currency.md) | Banking association's action against Comptroller of Currency. |
 | [1395\.](%C2%A7%2001395%20-%20Fine%2C%20penalty%20or%20forfeiture.md) | Fine, penalty or forfeiture. |
 | [1396\.](%C2%A7%2001396%20-%20Internal%20revenue%20taxes.md) | Internal revenue taxes. |
@@ -30,6 +30,8 @@
 
 #### Amendments
 
+<b>2011</b>—Pub. L. 112–63, title II, §§201(b), 203, Dec. 7, 2011, 125 Stat. 763, 764, added item 1390 and struck out item 1392 “Defendants or property in different districts in same State”.
+
 <b>1998</b>—Pub. L. 105–304, title V, §503(c)(3), Oct. 28, 1998, 112 Stat. 2917 inserted “, mask works, and designs” in item 1400.
 
 <b>1996</b>—Pub. L. 104–331, §3(b)(2)(B), Oct. 26, 1996, 110 Stat. 4069, which directed amendment of table of sections for chapter 37 by adding item 1413 at end, was executed by adding item 1413 at end of table of sections for chapter 87 to reflect the probable intent of Congress.
@@ -47,8 +49,9 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
+- [&sect; 01390 - Scope](%C2%A7%2001390%20-%20Scope.md)
 - [&sect; 01391 - Venue generally](%C2%A7%2001391%20-%20Venue%20generally.md)
-- [&sect; 01392 - Defendants or property in different districts in same State](%C2%A7%2001392%20-%20Defendants%20or%20property%20in%20different%20districts%20in%20same%20State.md)
+- [&sect; 01392 - Repealed. Pub. L. 112&#8211;63, &sect;203, Dec. 7, 2011, 125 Stat. 764](%C2%A7%2001392%20-%20Repealed.%20Pub.%20L.%20112%E2%80%9363%2C%20%C2%A7203%2C%20Dec.%207%2C%202011%2C%20125%20Stat.%20764.md)
 - [&sect; 01393 - Repealed. Pub. L. 100&#8211;702, title X, &sect;1001(a), Nov. 19, 1988, 102 Stat. 4664](%C2%A7%2001393%20-%20Repealed.%20Pub.%20L.%20100%E2%80%93702%2C%20title%20X%2C%20%C2%A71001%28a%29%2C%20Nov.%2019%2C%201988%2C%20102%20Stat.%204664.md)
 - [&sect; 01394 - Banking association's action against Comptroller of Currency](%C2%A7%2001394%20-%20Banking%20association%27s%20action%20against%20Comptroller%20of%20Currency.md)
 - [&sect; 01395 - Fine, penalty or forfeiture](%C2%A7%2001395%20-%20Fine%2C%20penalty%20or%20forfeiture.md)

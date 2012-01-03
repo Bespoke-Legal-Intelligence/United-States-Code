@@ -108,7 +108,7 @@ The Associate Administrator shall promote sales opportunities for small business
 
 &emsp;&emsp;(F) participate, jointly with employees of the Office, in an annual training program that focuses on current small business needs for exporting; and
 
-&emsp;&emsp;(G) develop and conduct training programs for exporters and lenders, in cooperation with the Export Assistance Centers, the Department of Commerce, the Department of Agriculture, small business development centers, women's business centers, the Export-Import Bank of the United States, the Overseas Private Investment Corporation, and other relevant Federal agencies;
+&emsp;&emsp;(G) develop and conduct training programs for exporters and lenders, in cooperationwith the Export Assistance Centers, the Department of Commerce, the Department of Agriculture, small business development centers, women's business centers, the Export-Import Bank of the United States, the Overseas Private Investment Corporation, and other relevant Federal agencies;
 
 &emsp;(10) make available on the website of the Administration the name and contact information of each individual described in paragraph (9);
 
@@ -262,7 +262,7 @@ The Administrator shall ensure that—
 
 #### (3) Consistency of tracking
 
-&emsp;The Associate Administrator, in coordination with the departments and agencies that are represented on the Trade Promotion Coordinating Committee established under section 4727 of this title and the small business development center network, shall develop a system to track exports by small business concerns, including information relating to the performance measures developed under paragraph (1), that is consistent with systems used by the departments and agencies and the network.
+&emsp;The Associate Administrator, in coordination with the departments and agencies thatare represented on the Trade Promotion Coordinating Committee established under section 4727 of this title and the small business development center network, shall develop a system to track exports by small business concerns, including information relating to the performance measures developed under paragraph (1), that is consistent with systems used by the departments and agencies and the network.
 
 #### (k) Export Assistance Centers
 
@@ -426,7 +426,7 @@ Committee on Small Business of Senate changed to Committee on Small Business and
 
 #### Effective Date
 
-Section 113(b) of Pub. L. 96–481 provided that: “The amendment made by subsection (a) \[enacting this section\] shall take effect on October 1, 1980, or the date of enactment of this Act \[Oct. 21, 1980\], whichever occurs later.”
+Pub. L. 96–481, title I, §113(b), Oct. 21, 1980, 94 Stat. 2324, provided that: “The amendment made by subsection (a) \[enacting this section\] shall take effect on October 1, 1980, or the date of enactment of this Act \[Oct. 21, 1980\], whichever occurs later.”
 
 #### Short Title
 
@@ -488,7 +488,7 @@ Definition.—In this subsection, the term ‘export finance specialist’ has t
 
 #### Congressional Declaration of Policy
 
-Section 111 of title I of Pub. L. 96–481 provided that:
+Pub. L. 96–481, title I, §111, Oct. 21, 1980, 94 Stat. 2323, provided that:
 
 “(a) The Congress finds and declares that—
 

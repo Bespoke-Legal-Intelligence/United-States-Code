@@ -4,7 +4,7 @@
 
 (b) Interest rate adjustment provisions of a mortgage guaranteed under this section shall—
 
-&emsp;(1) correspond to a specified national interest rate index approved by the Secretary, information on which is readily accessible tomortgagors from generally available published sources;
+&emsp;(1) correspond to a specified national interest rate index approved by the Secretary, information on which is readily accessible to mortgagors from generally available published sources;
 
 &emsp;(2) be made by adjusting the monthly payment on an annual basis;
 

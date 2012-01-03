@@ -36,11 +36,11 @@ This subtitle, referred to in text, means subtitle C (§§541–544) of Pub. L. 
 
 Section was formerly set out as a note under section 1707 of this title.
 
-Section was enacted as part of the Multifamily Housing Finance Improvement Act and also as part of theHousing and Community Development Act of 1992, and not as part of the National Housing Act which comprises this chapter.
+Section was enacted as part of the Multifamily Housing Finance Improvement Act and also as part of the Housing and Community Development Act of 1992, and not as part of the National Housing Act which comprises this chapter.
 
 #### Amendments
 
-1994—Par. (1). Pub. L. 103–233, §307(c)(1), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “The term ‘multifamily housing’ means a property consisting of more than 4 dwelling units.”
+<b>1994</b>—Par. (1). Pub. L. 103–233, §307(c)(1), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “The term ‘multifamily housing’ means a property consisting of more than 4 dwelling units.”
 
 Par. (5). Pub. L. 103–233, §307(c)(2), added par. (5).
 

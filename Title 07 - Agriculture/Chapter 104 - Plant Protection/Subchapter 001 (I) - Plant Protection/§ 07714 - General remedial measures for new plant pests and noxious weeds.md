@@ -42,7 +42,7 @@ No plant, biological control organism, plant product, plant pest, noxious weed, 
 
 #### Amendments
 
-2002—Subsec. (b)(1). Pub. L. 107–171, §10418(b)(1)(A), struck out “, or the owner's agent,” after “subsection (a) of this section”.
+<b>2002</b>—Subsec. (b)(1). Pub. L. 107–171, §10418(b)(1)(A), struck out “, or the owner's agent,” after “subsection (a) of this section”.
 
 Subsec. (b)(2). Pub. L. 107–171, §10418(b)(1)(B), struck out “or agent of the owner” after “the owner” in two places.
 

@@ -46,7 +46,7 @@ In subsection (a), the words “provisions of title 5 governing appointment in t
 
 In subsection (b), the word “compensation” after “may be paid” in 49:1657(<i>o</i>) is omitted as surplus. The words “not more than $100 a day” are substituted for “at rates not exceeding those authorized for individuals under subsection (b) of this section” in 49:1657(<i>o</i>) for clarity because that is the rate under 49:1657(b). The words “A member is entitled to reimbursement for expenses under section 5703 of title 5” are substituted for 49:1343(g) (last sentence) and 49:1657(<i>o</i>) (last sentence words after 4th comma) for clarity.
 
-In subsection (c), the words “A member of an advisory committee advising the Secretary” are substituted for “in the case of any individual” in 49:1343(g) for clarity. The words “may serve” are added for clarity and because of the restatement of the section. The words “in carrying out aviation duties and powers” are added because the source provisions being restated only applies to carrying out duties and powers related to the Federal Aviation Administration.
+In subsection (c), the words “A member of an advisory committee advising the Secretary” are substituted for “in the case of any individual” in 49:1343(g) for clarity. The words “may serve” are added for clarity and because of the restatement of the section. Thewords “in carrying out aviation duties and powers” are added because the source provisions being restated only applies to carrying out duties and powers related to the Federal Aviation Administration.
 
 #### Termination of Advisory Committees
 

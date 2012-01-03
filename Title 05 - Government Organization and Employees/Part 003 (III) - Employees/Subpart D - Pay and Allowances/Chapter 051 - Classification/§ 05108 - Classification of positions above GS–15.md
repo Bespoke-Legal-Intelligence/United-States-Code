@@ -110,25 +110,25 @@ The amendment to 5 U.S.C. 5108(c)(5) corrects a typographical error and conforms
 
 #### Amendments
 
-2009—Subsec. (c). Pub. L. 111–68 added subsec. (c).
+<b>2009</b>—Subsec. (c). Pub. L. 111–68 added subsec. (c).
 
-2008—Subsec. (a)(2). Pub. L. 110–372 inserted “published by the Director of the Office of Personnel Management in such form as the Director may determine” after “and procedures”.
+<b>2008</b>—Subsec. (a)(2). Pub. L. 110–372 inserted “published by the Director of the Office of Personnel Management in such form as the Director may determine” after “and procedures”.
 
-1992—Subsec. (a)(2). Pub. L. 102–378 substituted a period for semicolon at end.
+<b>1992</b>—Subsec. (a)(2). Pub. L. 102–378 substituted a period for semicolon at end.
 
-1990—Pub. L. 101–509 amended section generally, substituting provisions relating to classification of positions above GS–15, consisting of subsecs. (a) and (b), for provisions relating to classification of provisions at GS–16, 17, and 18, consisting of subsecs. (a) to (c).
+<b>1990</b>—Pub. L. 101–509 amended section generally, substituting provisions relating to classification of positions above GS–15, consisting of subsecs. (a) and (b), for provisions relating to classification of provisions at GS–16, 17, and 18, consisting of subsecs. (a) to (c).
 
 Subsec. (c). Pub. L. 101–474 redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1), which read as follows: “the Director of the Administrative Office of the United States Courts, subject to the standards and procedures prescribed by this chapter, may place a total of 17 positions in GS–16, 17, and 18; and”.
 
-1988—Subsec. (a). Pub. L. 100–325 added cl. (iii) and substituted “the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service” for “GS–16, 17, and 18 in the Federal Bureau of Investigation” in last sentence.
+<b>1988</b>—Subsec. (a). Pub. L. 100–325 added cl. (iii) and substituted “the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service” for “GS–16, 17, and 18 in the Federal Bureau of Investigation” in last sentence.
 
 Subsec. (c)(1). Pub. L. 100–702 substituted “17 positions” for “15 positions”.
 
-1980—Subsec. (c). Pub. L. 96–191 struck out par. (1) which authorized Comptroller General, subject to procedures prescribed by this section, to place a total of 90 positions in General Accounting Office in GS–16, 17, and 18, and redesignated pars. (2) to (4) as (1) to (3), respectively.
+<b>1980</b>—Subsec. (c). Pub. L. 96–191 struck out par. (1) which authorized Comptroller General, subject to procedures prescribed by this section, to place a total of 90 positions in General Accounting Office in GS–16, 17, and 18, and redesignated pars. (2) to (4) as (1) to (3), respectively.
 
-1979—Subsec. (c)(4), (17). Pub. L. 96–54 redesignated par. (17), relating to executive departments or agencies in which boards of contracts appeals are established, as par. (4).
+<b>1979</b>—Subsec. (c)(4), (17). Pub. L. 96–54 redesignated par. (17), relating to executive departments or agencies in which boards of contracts appeals are established, as par. (4).
 
-1978—Subsec. (a). Pub. L. 95–630 substituted “3,310” for “3,301”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–630 substituted “3,310” for “3,301”.
 
 Pub. L. 95–612 substituted “3362” for “3301”.
 
@@ -160,21 +160,21 @@ Subsec. (f). Pub. L. 95–454, §414(a)(1)(A)(ii), repealed subsec. (f) which au
 
 Subsec. (g). Pub. L. 95–454, §414(a)(1)(A)(ii), repealed subsec. (g) which authorized Pension Benefit Guaranty Corporation to place additional positions in grades GS–16, 17, and 18.
 
-1977—Subsec. (a). Pub. L. 95–219 substituted “3301” for “3293”.
+<b>1977</b>—Subsec. (a). Pub. L. 95–219 substituted “3301” for “3293”.
 
 Pub. L. 95–190 substituted “3293” for “3243”.
 
 Pub. L. 95–91 substituted “3243” for “2754”.
 
-1976—Subsec. (c)(7). Pub. L. 94–233 restructured provisions and, as restructured, deleted authority relating to 8 positions of Member of the Board of Parole in GS–17.
+<b>1976</b>—Subsec. (c)(7). Pub. L. 94–233 restructured provisions and, as restructured, deleted authority relating to 8 positions of Member of the Board of Parole in GS–17.
 
 Subsec. (c)(8). Pub. L. 94–503 substituted provision that the Attorney General, without regard to any other provision of this section, may place a total of 32 positions in GS–16, 17, and 18 for provision that the Attorney General, without regard to this chapter (except section 5114), may place 1 position in GS–16.
 
-1975—Subsec. (c)(11). Pub. L. 94–183, §2(14), increased to twenty-five the number of positions which the Law Enforcement Assistance Administration may place in GS–16, 17, and 18. The increase required no change in text in view of the 1974 amendment by Pub. L. 93–415, which called for an identical increase.
+<b>1975</b>—Subsec. (c)(11). Pub. L. 94–183, §2(14), increased to twenty-five the number of positions which the Law Enforcement Assistance Administration may place in GS–16, 17, and 18. The increase required no change in text in view of the 1974 amendment by Pub. L. 93–415, which called for an identical increase.
 
 Subsec. (c)(13) to (16). Pub. L. 94–183, §2(15), redesignated par. (12) relating to the Commodity Futures Trading Commission, par. (12) relating to the Secretary of Health, Education, and Welfare and the Office for the Blind and Visually Handicapped of the Rehabilitation Services Administration, par. (13) relating to the Chairman of the Equal Employment Opportunity Commission, and par. (14) relating to the Secretary of Health, Education, and Welfare and the National Institute on Alcohol Abuse and Alcoholism, as pars. (13) to (16), respectively.
 
-1974—Subsec. (c)(11). Pub. L. 93–415 increased from twenty-two to twenty-five the number of positions which the Law Enforcement Assistance Administration may place in GS–16, 17, and 18. Amendment has been executed to subsec. (c)(11) as the probable intent of Congress notwithstanding direction in section 210 (g) of Pub. L. 93–415 that the amendment be executed to subsec. (c) (10).
+<b>1974</b>—Subsec. (c)(11). Pub. L. 93–415 increased from twenty-two to twenty-five the number of positions which the Law Enforcement Assistance Administration may place in GS–16, 17, and 18. Amendment has been executed to subsec. (c)(11) as the probable intent of Congress notwithstanding direction in section 210 (g) of Pub. L. 93–415 that the amendment be executed to subsec. (c) (10).
 
 Subsec. (c)(11) to (14). Pub. L. 93–282 redesignated par. (10) relating to Law Enforcement Assistance Administration, par. (10) relating to Chief Judge of the United States Tax Court, par. (11) relating to Chairman of the Equal Employment Opportunity Commission, as pars. (11) to (13), respectively, and added par. (14) relating to GS–16, 17, and 18 positions in the National Institute on Alcohol Abuse and Alcoholism.
 
@@ -188,21 +188,21 @@ Subsec. (f). Pub. L. 93–406, §507(b), added subsec. (f).
 
 Subsec. (g). Pub. L. 93–406, §4002(c), added subsec. (g).
 
-1973—Subsec. (c)(10). Pub. L. 93–83 substituted in par. (10) as added by Pub. L. 91–644 “twenty-two” for “twenty”.
+<b>1973</b>—Subsec. (c)(10). Pub. L. 93–83 substituted in par. (10) as added by Pub. L. 91–644 “twenty-two” for “twenty”.
 
-1972—Subsec. (c). Pub. L. 92–261 added par. (11).
+<b>1972</b>—Subsec. (c). Pub. L. 92–261 added par. (11).
 
-1971—Subsec. (a). Pub. L. 91–656, §9(b), substituted “2,754” for “2,734”.
+<b>1971</b>—Subsec. (a). Pub. L. 91–656, §9(b), substituted “2,754” for “2,734”.
 
 Subsec. (c)(10). Pub. L. 91–656, §9(a), added par. (10) relating to Chief Judge of the United States Tax Court.
 
 Pub. L. 91–644 added par. (10) relating to Law Enforcement Assistance Administration.
 
-1970—Subsec. (a). Pub. L. 91–206 substituted “2,734” for “2,727”.
+<b>1970</b>—Subsec. (a). Pub. L. 91–206 substituted “2,734” for “2,727”.
 
 Subsec. (c)(10). Pub. L. 91–596 added par. (10) relating to positions in the Department of Labor.
 
-1969—Subsec. (a). Pub. L. 91–187, §1(a), substituted “2,727” for “2,577”.
+<b>1969</b>—Subsec. (a). Pub. L. 91–187, §1(a), substituted “2,727” for “2,577”.
 
 Subsec. (b)(2). Pub. L. 91–187, §1(b), increased number of positions in Library of Congress from 28 to 44.
 
@@ -210,7 +210,7 @@ Subsec. (c)(1). Pub. L. 91–187, §1(c), increased number of positions in GAO f
 
 Subsec. (c)(2). Pub. L. 91–187, §1(d), increased number of positions in FBI from 110 to 140.
 
-1966—Subsec. (a). Pub. L. 89–632, §1(a), increased number of positions authorized to be established from 2,400 to 2,577, struck out cl. (1) designation preceding the provision limiting number of positions to be placed in GS–17 and GS–18, and struck out cls. (2) to (5), which made positions available only for allocation as follows: 50, with Presidential approval, for an agency or function created after Oct. 4, 1961, 14 to the United States Arms Control and Disarmament Agency, 6 to the Immigration and Naturalization Service, and 4 to the Federal Home Loan Bank Board, respectively.
+<b>1966</b>—Subsec. (a). Pub. L. 89–632, §1(a), increased number of positions authorized to be established from 2,400 to 2,577, struck out cl. (1) designation preceding the provision limiting number of positions to be placed in GS–17 and GS–18, and struck out cls. (2) to (5), which made positions available only for allocation as follows: 50, with Presidential approval, for an agency or function created after Oct. 4, 1961, 14 to the United States Arms Control and Disarmament Agency, 6 to the Immigration and Naturalization Service, and 4 to the Federal Home Loan Bank Board, respectively.
 
 Subsec. (b). Pub. L. 89–632, §1(b), designated existing provisions as par. (1) and added par. (2).
 

@@ -60,7 +60,7 @@ In this chapter:
 
 #### (13) Tract
 
-&emsp;The term “tract” means an established location within a National Forest containing 1 ormore cabins authorized in accordance with the program.
+&emsp;The term “tract” means an established location within a National Forest containing 1 or more cabins authorized in accordance with the program.
 
 #### (14) Tract association
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—ELIMINATION OF DEFICITS IN EXCESS OF MAXIMUM DEFICIT AMOUNT
 
-#### Termination of Subchapter
-
-<i>This subchapter, comprised of part C (§§250–258C) of title II of Pub. L. 99–177 and classified to sections 900 to 907d, has expired. Sections 901, 903, and 907c of this title expired Sept. 30, 2002. Sections 900, 902, 904 to 907b, and 907d of this title expired Sept. 30, 2006. See section 275(b) of Pub. L. 99–177, as amended, set out as an Effective and Termination Dates note under section 900 of this title.</i>
-
 
 ---
 
@@ -11,7 +7,7 @@
 
 - [&sect; 00900 - Statement of budget enforcement through sequestration; definitions](%C2%A7%2000900%20-%20Statement%20of%20budget%20enforcement%20through%20sequestration%3B%20definitions.md)
 - [&sect; 00901 - Enforcing discretionary spending limits](%C2%A7%2000901%20-%20Enforcing%20discretionary%20spending%20limits.md)
-- [&sect; 00901a - Repealed. Pub. L. 105&#8211;33, title X, &sect;10204(a)(1), Aug. 5, 1997, 111 Stat. 702](%C2%A7%2000901a%20-%20Repealed.%20Pub.%20L.%20105%E2%80%9333%2C%20title%20X%2C%20%C2%A710204%28a%29%281%29%2C%20Aug.%205%2C%201997%2C%20111%20Stat.%20702.md)
+- [&sect; 00901a - Enforcement of budget goal](%C2%A7%2000901a%20-%20Enforcement%20of%20budget%20goal.md)
 - [&sect; 00902 - Enforcing pay-as-you-go](%C2%A7%2000902%20-%20Enforcing%20pay-as-you-go.md)
 - [&sect; 00903 - Enforcing deficit targets](%C2%A7%2000903%20-%20Enforcing%20deficit%20targets.md)
 - [&sect; 00904 - Reports and orders](%C2%A7%2000904%20-%20Reports%20and%20orders.md)

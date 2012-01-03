@@ -34,17 +34,11 @@
 
 &emsp;&emsp;(C) 22 officers in the grade of major general.
 
-(b)(1) The limitations of subsection (a) do not include the following:
+(b) The limitations of subsection (a) do not include the following:
 
-&emsp;(A) An officer released from a joint duty assignment, but only during the 60-day period beginning on the date the officer departs the joint duty assignment, except that the Secretary of Defense may authorize the Secretary of a military department to extend the 60-day period by an additional 120 days, but no more than 3 officers from each armed forces may be on active duty who are excluded under this subparagraph.
+&emsp;(1) An officer released from a joint duty assignment, but only during the 60-day period beginning on the date the officer departs the joint duty assignment, except that the Secretary of Defense may authorize the Secretary of a military department to extend the 60-day period by an additional 120 days, but no more than three officers from each armed forces may be on active duty who are excluded under this paragraph.
 
-&emsp;(B) An officer while serving in the position of Staff Judge Advocate to the Commandant of the Marine Corps under section 5046 of this title.
-
-&emsp;(C) The number of officers required to serve in joint duty assignments as authorized by the Secretary of Defense under section 526(b) for each military service.
-
-&emsp;(D) An officer while serving as Chief of the National Guard Bureau.
-
-(2) An officer of the Army while serving as Superintendent of the United States Military Academy, if serving in the grade of lieutenant general, is in addition to the number that would otherwise be permitted for the Army for officers serving on active duty in grades above major general under subsection (a). An officer of the Navy or Marine Corps while serving as Superintendent of the United States Naval Academy, if serving in the grade of vice admiral or lieutenant general, is in addition to the number that would otherwise be permitted for the Navy or Marine Corps, respectively, for officers serving on active duty in grades above major general or rear admiral under subsection (a). An officer while serving as Superintendent of the United States Air Force Academy, if serving in the grade of lieutenant general, is in addition to the number that would otherwise be permitted for the Air Force for officers serving on active duty in grades above major general under subsection (a).
+&emsp;(2) The number of officers required to serve in joint duty assignments as authorized by the Secretary of Defense under section 526(b) for each military service.
 
 (c)(1) Subject to paragraph (3), the President—
 
@@ -70,21 +64,41 @@
 
 (f) An officer while serving as Attending Physician to the Congress is in addition to the number that would otherwise be permitted for that officer's armed force for officers serving on active duty in grades above brigadier general or rear admiral (lower half) under subsection (a).
 
-(g)(1) The limitations of this section do not apply to a reserve component general or flag officer who is on active duty for a period in excess of 365 days, but not to exceed three years, except that the number of officers from each reserve component who are covered by this subsection and are not serving in a position that is a joint duty assignment for purposes of chapter 38 of this title may not exceed 5 per component, unless authorized by the Secretary of Defense.
+(g)(1) The limitations of this section do not apply to a reserve component general or flag officer who is on active duty for a period in excess of 365 days, but not to exceed three years, except that the number of officers from each reserve component who are covered by this subsection and are not serving in a position that is a jointduty assignment for purposes of chapter 38 of this title may not exceed 5 per component, unless authorized by the Secretary of Defense.
 
-(2) The exception in paragraph (1) does apply to the position of Chief of the National Guard Bureau.
+(2) Not later than 30 days after authorizing a number of reserve component general or flag officers in excess of the number specified in paragraph (1), the Secretary of Defense shall notify the Committees on Armed Services of the Senate and the House of Representatives of such authorization, and shall include with such notice a statement of the reason for such authorization.
 
-(3) Not later than 30 days after authorizing a number of reserve component general or flag officers in excess of the number specified in paragraph (1), the Secretary of Defense shall notify the Committees on Armed Services of the Senate and the House of Representatives of such authorization, and shall include with such notice a statement of the reason for such authorization.
+(Added Pub. L. 96–513, title I, §103, Dec. 12, 1980, 94 Stat. 2844; amended Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–433, title II, §202(a), Oct. 1, 1986, 100 Stat. 1010; Pub. L. 100–180, div. A, title V, §511(a), Dec. 4, 1987, 101 Stat. 1088; Pub. L. 101–510, div. A, title IV, §405, Nov. 5, 1990, 104 Stat. 1546; Pub. L. 103–337, div. A, title IV, §405(a), Oct. 5, 1994, 108 Stat. 2744; Pub. L. 104–106, div. A, title IV, §403(a), Feb. 10, 1996, 110 Stat. 286; Pub. L. 104–201, div. A, title IV, §404(b), Sept. 23, 1996, 110 Stat. 2506; Pub. L. 105–261, div. A, title IV, §§404, 406, Oct. 17, 1998, 112 Stat. 1996; Pub. L. 106–65, div. A, title V, §§509(b), (c), 532(b), Oct. 5, 1999, 113 Stat. 592, 604; Pub. L. 106–398, §1 \[\[div. A\], title V, §507(g)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–105; Pub. L. 107–314, div. A, title IV, §§404(a), (b), 405(b), Dec. 2, 2002, 116 Stat. 2525, 2526; Pub. L. 108–136, div. A, title V, §504(b), Nov. 24, 2003, 117 Stat. 1456; Pub. L. 109–163, div. A, title V, §503(a), Jan. 6, 2006, 119 Stat. 3226; Pub. L. 109–364, div. A, title V, §507(b), Oct. 17, 2006, 120 Stat. 2180; Pub. L. 110–181, div. A, title V, §§501(b), 543(d), Jan. 28, 2008, 122 Stat. 94, 115; Pub. L. 110–417, \[div. A\], title V, §§503(d), 504(b), Oct. 14, 2008, 122 Stat. 4433, 4434; Pub. L. 111–84, div. A, title V, §502(b)–(d), Oct. 28, 2009, 123 Stat. 2273–2275; Pub. L. 111–383, div. A, title X, §1075(b)(12), (d)(2), Jan. 7, 2011, 124 Stat. 4369, 4372; Pub. L. 112–81, div. A, title V, §§502(a)(1), (b)(2), 511(a)(3), Dec. 31, 2011, 125 Stat. 1386, 1387, 1391.)
 
-(Added Pub. L. 96–513, title I, §103, Dec. 12, 1980, 94 Stat. 2844; amended Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–433, title II, §202(a), Oct. 1, 1986, 100 Stat. 1010; Pub. L. 100–180, div. A, title V, §511(a), Dec. 4, 1987, 101 Stat. 1088; Pub. L. 101–510, div. A, title IV, §405, Nov. 5, 1990, 104 Stat. 1546; Pub. L. 103–337, div. A, title IV, §405(a), Oct. 5, 1994, 108 Stat. 2744; Pub. L. 104–106, div. A, title IV, §403(a), Feb. 10, 1996, 110 Stat. 286; Pub. L. 104–201, div. A, title IV, §404(b), Sept. 23, 1996, 110 Stat. 2506; Pub. L. 105–261, div. A, title IV, §§404, 406, Oct. 17, 1998, 112 Stat. 1996; Pub. L. 106–65, div. A, title V, §§509(b), (c), 532(b), Oct. 5, 1999, 113 Stat. 592, 604; Pub. L. 106–398, §1 \[\[div. A\], title V, §507(g)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–105; Pub. L. 107–314, div. A, title IV, §§404(a), (b), 405(b), Dec. 2, 2002, 116 Stat. 2525, 2526; Pub. L. 108–136, div. A, title V, §504(b), Nov. 24, 2003, 117 Stat. 1456; Pub. L. 109–163, div. A, title V, §503(a), Jan. 6, 2006, 119 Stat. 3226; Pub. L. 109–364, div. A, title V, §507(b), Oct. 17, 2006, 120 Stat. 2180; Pub. L. 110–181, div. A, title V, §§501(b), 543(d), Jan. 28, 2008, 122 Stat. 94, 115; Pub. L. 110–417, \[div. A\], title V, §§503(d), 504(b), Oct. 14, 2008, 122 Stat. 4433, 4434; Pub. L. 111–84, div. A, title V, §502(b)–(d), Oct. 28, 2009, 123 Stat. 2273–2275; Pub. L. 111–383, div. A, title X, §1075(b)(12), (d)(2), Jan. 7, 2011, 124 Stat. 4369, 4372.)
+#### Amendment of Subsection (a)
+
+<i>Pub. L. 112–81, div. A, title V, §502(b)(2), (3), Dec. 31, 2011, 125 Stat. 1387, provided that, effective Oct. 1, 2013, subsection (a) of this section is amended:</i>
+
+<i>(1) in paragraph (1)(B), by striking “45” and inserting “46”;</i>
+
+<i>(2) in paragraph (2)(B), by striking “43” and inserting “44”;</i>
+
+<i>(3) in paragraph (3)(B), by striking “32” and inserting “33”; and</i>
+
+<i>(4) in paragraph (4)(C), by striking “22” and inserting “23”.</i>
+
+<i>See 2011 Amendment note below.</i>
 
 #### Amendments
 
-<b>2011</b>—Subsec. (c)(3)(B). Pub. L. 111–383, §1075(d)(2), made technical amendment to directory language of Pub. L. 111–84, §502(c)(3). See 2009 Amendment note below.
+<b>2011</b>—Subsec. (a). Pub. L. 112–81, §502(b)(2), substituted “46” for “45” in par. (1)(B), “44” for “43” in par. (2)(B), “33” for “32” in par. (3)(B), and “23” for “22” in par. (4)(C).
+
+Subsec. (b). Pub. L. 112–81, §502(a)(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to exclusions from limitations on appointment of general officers on active duty in the Army, Air Force, and Marine Corps and flag officers on active duty in the Navy.
+
+Subsec. (b)(1)(D). Pub. L. 112–81, §511(a)(3)(A), struck out subpar. (D) which read as follows: “An officer while serving as Chief of the National Guard Bureau.”
+
+Subsec. (c)(3)(B). Pub. L. 111–383, §1075(d)(2), made technical amendment to directory language of Pub. L. 111–84, §502(c)(3). See 2009 Amendment note below.
 
 Subsec. (d). Pub. L. 111–383, §1075(b)(12)(A), substituted “section 601(b)(5)” for “section 601(b)(4)”.
 
 Subsec. (g)(1). Pub. L. 111–383, §1075(b)(12)(B), substituted “and are not” for “and is not” and inserted period at end.
+
+Subsec. (g)(2), (3). Pub. L. 112–81, §511(a)(3)(B), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “The exception in paragraph (1) does apply to the position of Chief of the National Guard Bureau.”
 
 <b>2009</b>—Subsecs. (a), (b). Pub. L. 111–84, §502(b), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which related to limitations on appointments in a grade above brigadier general in the Army, Air Force, or Marine Corps or in a grade above rear admiral (lower half) in the Navy and limitations on appointments in a grade above major general in the Army, Air Force, or Marine Corps or in a grade above rear admiral in the Navy, respectively.
 
@@ -96,7 +110,7 @@ Subsec. (c)(3)(A). Pub. L. 111–84, §502(c)(2), substituted “15” for “th
 
 Subsec. (c)(3)(B). Pub. L. 111–84, §502(c)(3), as amended by Pub. L. 111–383, §1075(d)(2), substituted “5” for “the number equal to 15 percent of the total number of general officers and flag officers that may be serving on active duty in those grades in the Army, Navy, Air Force, and Marine Corps”.
 
-Subsec. (e). Pub. L. 111–84, §502(d)(1), in introductory provisions, substituted “The following officers shall not be counted for purposes of this section:” for “In determining the total number of general officers or flag officers of an armed force on active duty for purposesof this section, the following officers shall not be counted:”.
+Subsec. (e). Pub. L. 111–84, §502(d)(1), in introductory provisions, substituted “The following officers shall not be counted for purposes of this section:” for “In determining the total number of general officers or flag officers of an armed force on active duty for purposes of this section, the following officers shall not be counted:”.
 
 Subsec. (g). Pub. L. 111–84, §502(d)(2), added subsec. (g).
 
@@ -158,6 +172,10 @@ Subsec. (b)(4). Pub. L. 101–510, §405(a), added par. (4).
 
 #### Effective Date of 2011 Amendment
 
+Pub. L. 112–81, div. A, title V, §502(a)(2), Dec. 31, 2011, 125 Stat. 1387, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on January 1, 2012.”
+
+Pub. L. 112–81, div. A, title V, §502(b)(3), Dec. 31, 2011, 125 Stat. 1387, provided that: “The amendments made by this subsection \[amending this section and section 526 of this title\] shall take effect on October 1, 2013.”
+
 Pub. L. 111–383, div. A, title X, §1075(d), Jan. 7, 2011, 124 Stat. 4372, provided that the amendment by section 1075(d)(2) is effective as of Oct. 28, 2009, and as if included in Pub. L. 111–84 as enacted.
 
 #### Effective Date of 2002 Amendment
@@ -212,7 +230,7 @@ Pub. L. 103–337, div. A, title IV, §405(d), Oct. 5, 1994, 108 Stat. 2745, dir
 
 #### Temporary Exclusion of Superintendent of Naval Academy From Counting Toward Number of Senior Admirals Authorized To Be on Active Duty
 
-Section 406 of Pub. L. 103–337 provided that: “The officer serving as Superintendent of the United States Naval Academy on the date of the enactment of this Act \[Oct. 5, 1994\], while so serving, shall not be counted for purposes of the limitations contained in section 525(b)(2) of title 10, United States Code.”
+Section 406 of Pub. L. 103–337 provided that: “The officer serving as Superintendent of the United States Naval Academy on the date of the enactment of this Act \[Oct. 5, 1994\], while so serving, shall not be counted for purposes of the limitations contained in \[former\] section 525(b)(2) of title 10, United States Code.”
 
 #### Temporary Increase in Number of General and Flag Officers Authorized To Be on Active Duty
 

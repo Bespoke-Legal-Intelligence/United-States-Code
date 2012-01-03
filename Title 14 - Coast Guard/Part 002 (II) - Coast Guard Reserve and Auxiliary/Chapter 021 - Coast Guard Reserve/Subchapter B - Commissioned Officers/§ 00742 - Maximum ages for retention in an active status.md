@@ -12,7 +12,7 @@
 
 #### Amendments
 
-2004—Pub. L. 108–293 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows:
+<b>2004</b>—Pub. L. 108–293 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows:
 
 “(a) A Reserve officer, if qualified, shall be transferred to the Retired Reserve on the day the officer becomes sixty-two years of age.
 
@@ -20,9 +20,9 @@
 
 “(c) Except as provided for in subsections (a) and (b) of this section, a Reserve officer shall be discharged effective upon the day the officer becomes sixty-two years of age.”
 
-1985—Subsec. (b). Pub. L. 99–145 substituted “rear admiral (lower half)” for “commodore”.
+<b>1985</b>—Subsec. (b). Pub. L. 99–145 substituted “rear admiral (lower half)” for “commodore”.
 
-1983—Subsec. (b). Pub. L. 97–417 inserted “or commodore” after “rear admiral”.
+<b>1983</b>—Subsec. (b). Pub. L. 97–417 inserted “or commodore” after “rear admiral”.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subsections”.</i>
 

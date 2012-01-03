@@ -12,7 +12,7 @@ As used in this chapter—
 
 #### Amendments
 
-1989—Par. (1). Pub. L. 101–73, §744(a)(1)(A), substituted “Office of Thrift Supervision” for “Federal Home Loan Bank Board”.
+<b>1989</b>—Par. (1). Pub. L. 101–73, §744(a)(1)(A), substituted “Office of Thrift Supervision” for “Federal Home Loan Bank Board”.
 
 Par. (3). Pub. L. 101–73, §744(a)(1)(B), substituted “savings association” for “savings and loan association”.
 

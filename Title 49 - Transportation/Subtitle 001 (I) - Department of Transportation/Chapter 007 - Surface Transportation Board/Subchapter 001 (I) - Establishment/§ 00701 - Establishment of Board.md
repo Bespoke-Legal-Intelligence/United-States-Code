@@ -16,7 +16,7 @@ Membership.—(1) The Board shall consist of 3 members, to be appointed by the P
 
 (5) No individual may serve as a member of the Board for more than 2 terms. In the case of an individual who becomes a member of the Board pursuant to paragraph (4), or an individual appointed to fill a vacancy occurring before the expiration of the term for which the predecessor of that individual was appointed, such individual may not be appointed for more than one additional term.
 
-(6) A member of the Board may not have a pecuniary interest in, hold an official relation to, or own stock in or bonds of, a carrier providing transportation by any mode and may not engage in another business, vocation, or employment.
+(6) A member of the Board may not have a pecuniary interest in, hold an official relation to,or own stock in or bonds of, a carrier providing transportation by any mode and may not engage in another business, vocation, or employment.
 
 (7) A vacancy in the membership of the Board does not impair the right of the remaining members to exercise all of the powers of the Board. The Board may designate a member to act as Chairman during any period in which there is no Chairman designated by the President.
 
@@ -24,7 +24,7 @@ Membership.—(1) The Board shall consist of 3 members, to be appointed by the P
 
 Chairman.—(1) There shall be at the head of the Board a Chairman, who shall be designated by the President from among the members of the Board. The Chairman shall receive compensation at the rate prescribed for level III of the Executive Schedule under section 5314 of title 5.
 
-(2) Subject to the general policies, decisions, findings, and determinations of the Board, the Chairman shall be responsible for administeringthe Board. The Chairman may delegate the powers granted under this paragraph to an officer, employee, or office of the Board. The Chairman shall—
+(2) Subject to the general policies, decisions, findings, and determinations of the Board, the Chairman shall be responsible for administering the Board. The Chairman may delegate the powers granted under this paragraph to an officer, employee, or office of the Board. The Chairman shall—
 
 &emsp;(A) appoint and supervise, other than regular and full-time employees in the immediate offices of another member, the officers and employees of the Board, including attorneys to provide legal aid and service to the Board and its members, and to represent the Board in any case in court;
 
@@ -84,7 +84,7 @@ Suits.—(1) This Act shall not affect suits commenced before the date of the en
 
 “(d)
 
-Continuance of Actions Against Officers.—No suit, action, or other proceeding commenced by or against any officer in his official capacity as an officer of the Interstate Commerce Commission shall abate by reason of the enactment of this Act. No cause of action by or against the Interstate Commerce Commission, or by or against any officer thereof in his official capacity, shall abate by reason of enactment of this Act.
+Continuance of Actions Against Officers.—No suit, action, or other proceeding commenced by or against any officer in his official capacity as an officer of the Interstate Commerce Commission shall abate byreason of the enactment of this Act. No cause of action by or against the Interstate Commerce Commission, or by or against any officer thereof in his official capacity, shall abate by reason of enactment of this Act.
 
 “(e)
 

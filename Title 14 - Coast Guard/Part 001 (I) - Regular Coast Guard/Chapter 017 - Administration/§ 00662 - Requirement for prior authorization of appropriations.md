@@ -8,11 +8,11 @@ Amounts may be appropriated to or for the use of the Coast Guard for the followi
 
 &emsp;(3) For altering obstructive bridges.
 
-&emsp;(4) For research, development, test, or evaluation related to a matter referred to in clauses (1)–(3).
+&emsp;(4) For research, development, test, or evaluation related to intelligence systems and capabilities or a matter referred to in clauses (1)–(3).
 
 &emsp;(5) For environmental compliance and restoration at Coast Guard facilities.
 
-(Added Pub. L. 97–295, §2(20)(A), Oct. 12, 1982, 96 Stat. 1303; amended Pub. L. 101–225, title II, §222(c), Dec. 12, 1989, 103 Stat. 1919.)
+(Added Pub. L. 97–295, §2(20)(A), Oct. 12, 1982, 96 Stat. 1303; amended Pub. L. 101–225, title II,§222(c), Dec. 12, 1989, 103 Stat. 1919; Pub. L. 111–259, title IV, §442(2), Oct. 7, 2010, 124 Stat. 2733.)
 
 Historical and Revision Notes
 
@@ -32,5 +32,7 @@ The word “Amounts” is substituted for “funds” for clarity and consistenc
 
 #### Amendments
 
-1989—Par. (5). Pub. L. 101–225 added par. (5).
+<b>2010</b>—Par. (4). Pub. L. 111–259 inserted “intelligence systems and capabilities or” after “related to”.
+
+<b>1989</b>—Par. (5). Pub. L. 101–225 added par. (5).
 

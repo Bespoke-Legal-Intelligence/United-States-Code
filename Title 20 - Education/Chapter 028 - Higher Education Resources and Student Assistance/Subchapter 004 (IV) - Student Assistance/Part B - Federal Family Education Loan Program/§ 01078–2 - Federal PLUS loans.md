@@ -40,7 +40,7 @@
 
 #### (b) Limitation based on need
 
-Any loan under this section may be counted as part of the expected family contribution in the determination of need under this subchapter and part C of subchapter I of chapter 34 of title 42, but no loan may be made to any graduate or professional student or any parent under this section for any academic year in excess of (A) the student's estimated cost of attendance, minus (B) other financial aid as certified by the eligible institution under section 1078(a)(2)(A) of this title. The annual insurable limit on account of any student shall not be deemed to be exceeded by a line of credit under which actual payments to the borrower will not be made in any year in excess of the annual limit.
+Any loan under this section may be counted as part of the expected family contribution in thedetermination of need under this subchapter and part C of subchapter I of chapter 34 of title 42, but no loan may be made to any graduate or professional student or any parent under this section for any academic year in excess of (A) the student's estimated cost of attendance, minus (B) other financial aid as certified by the eligible institution under section 1078(a)(2)(A) of this title. The annual insurable limit on account of any student shall not be deemed to be exceeded by a line of credit under which actual payments to the borrower will not be made in any year in excess of the annual limit.
 
 #### (c) PLUS loan disbursement
 
@@ -108,7 +108,7 @@ All loans made under this section shall be disbursed in accordance with the requ
 
 #### (2) Refinancing to secure variable interest rate
 
-&emsp;An eligible lender may reissue a loan which was made under this section before July 1, 1987, or under this section as in effect prior to October 17, 1986, in order to permit the borrower to obtain the interest rate provided under section 1077a(c)(4) of this title. A lender offering to reissue a loan or loans for such purpose may charge a borrower an amount not to exceed $100 to cover the administrative costs of reissuing such loan or loans, not more than one-half of which shall be paid to the guarantor of the loan being reissued to cover costs of reissuance. Reissuance of a loan under this paragraph shall not affect any insurance applicable with respect to the loan, and no additional insurance fee may be charged to the borrower with respect to the loan.
+&emsp;An eligible lender may reissue a loan which was made under this section before July 1, 1987, or under this section as in effect prior to October 17, 1986, in order to permit the borrower to obtain the interest rate providedunder section 1077a(c)(4) of this title. A lender offering to reissue a loan or loans for such purpose may charge a borrower an amount not to exceed $100 to cover the administrative costs of reissuing such loan or loans, not more than one-half of which shall be paid to the guarantor of the loan being reissued to cover costs of reissuance. Reissuance of a loan under this paragraph shall not affect any insurance applicable with respect to the loan, and no additional insurance fee may be charged to the borrower with respect to the loan.
 
 #### (3) Refinancing by discharge of previous loan
 
@@ -146,7 +146,7 @@ A prior section 1078–2, Pub. L. 89–329, title IV, §428B, as added Pub. L. 9
 
 <b>2009</b>—Subsec. (e)(3)(B). Pub. L. 111–39, §402(f)(2)(A), substituted “subsection (d)(5)(B)” for “subsection (c)(5)(B)”.
 
-Subsec. (e)(5). Pub. L. 111–39, §402(f)(2)(B), struck out par. (5) which related to notification to borrowers ofavailability of refinancing options for certain loans made before Oct. 17, 1986.
+Subsec. (e)(5). Pub. L. 111–39, §402(f)(2)(B), struck out par. (5) which related to notification to borrowers of availability of refinancing options for certain loans made before Oct. 17, 1986.
 
 <b>2008</b>—Subsec. (a)(3). Pub. L. 110–227, §4, amended par. (3) generally. Prior to amendment, text read as follows: “Whenever necessary to carry out the provisions of this section, the terms ‘student’ and ‘borrower’ as used in this part shall include a parent borrower under this section.”
 
@@ -176,7 +176,7 @@ Subsec. (d)(1). Pub. L. 109–171, §8005(c)(4), substituted “the graduate or 
 
 Subsec. (d)(4). Pub. L. 105–244, §416(a)(2), substituted “section 1077a” for “section 1077a(c)”.
 
-Pub. L. 105–178 which directed substitution of “section 1077a of this title for loans made under this section” for “section 1077a(c) of this title” in “section 428B(d)(4) (20 U.S.C. 1078–2(d)(4))” could not be executed because it did not indicate what act was to be amended.
+Pub. L. 105–178 which directed substitution of “section 1077a of this title for loans made under this section” for “section 1077a(c) of this title” in “section428B(d)(4) (20 U.S.C. 1078–2(d)(4))” could not be executed because it did not indicate what act was to be amended.
 
 Subsec. (f). Pub. L. 105–244, §419(2), added subsec. (f).
 
@@ -248,7 +248,7 @@ Amendment by Pub. L. 102–325 effective July 23, 1992, except that changes made
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986,Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
 
 #### Amendment of Note or Other Written Evidence of Loan by Eligible Lender at Request of Borrower; Circumstances; Denial of Request
 

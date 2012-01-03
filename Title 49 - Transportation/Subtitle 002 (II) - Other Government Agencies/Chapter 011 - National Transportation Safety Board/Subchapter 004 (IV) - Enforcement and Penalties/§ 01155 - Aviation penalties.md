@@ -14,7 +14,7 @@ Civil Penalty.—(1) A person violating section 1132, section 1134(b), section 1
 
 (b)
 
-Criminal Penalty.—A person that knowingly and without authority removes, conceals, or withholds a part of a civil aircraft involved inan accident, or property on the aircraft at the time of the accident, shall be fined under title 18, imprisoned for not more than 10 years, or both.
+Criminal Penalty.—A person that knowingly and without authority removes, conceals, or withholds a part of a civil aircraft involved in an accident, or property on the aircraft at the time of the accident, shall be fined under title 18, imprisoned for not more than 10 years, or both.
 
 (Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 758; Pub. L. 104–264, title VII, §702(b), Oct. 9, 1996, 110 Stat. 3267.)
 

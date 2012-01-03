@@ -32,13 +32,15 @@ Regulations.—The Secretaries concerned shall prescribe regulations to carry ou
 
 (g)
 
-Termination of Authority.—No agreement under this section may be entered into after December 31, 2011.
+Termination of Authority.—No agreement under this section may be entered into after December 31, 2012.
 
-(Added Pub. L. 108–136, div. A, title VI, §625(a), Nov. 24, 2003, 117 Stat. 1506; amended Pub. L. 108–375, div. A, title VI, §622, Oct. 28, 2004, 118 Stat. 1955; Pub. L. 109–163, div. A, title VI, §687(b)(34), Jan. 6, 2006, 119 Stat. 3333; Pub. L. 109–364, div. A, title VI, §614(g), Oct. 17, 2006, 120 Stat. 2249; Pub. L. 110–181, div. A, title VI, §614(f), Jan. 28, 2008, 122 Stat. 149; Pub. L. 110–417, \[div. A\], title VI, §614(f), Oct. 14, 2008, 122 Stat. 4485; Pub. L. 111–84, div. A, title VI, §615(6), Oct. 28, 2009, 123 Stat. 2354; Pub. L. 111–383, div. A, title VI, §615(6), Jan. 7, 2011, 124 Stat. 4237.)
+(Added Pub. L. 108–136, div. A, title VI, §625(a), Nov. 24, 2003, 117 Stat. 1506; amended Pub. L. 108–375, div. A, title VI, §622, Oct. 28, 2004, 118 Stat. 1955; Pub. L. 109–163, div. A, title VI, §687(b)(34), Jan. 6, 2006, 119 Stat. 3333; Pub. L. 109–364, div. A, title VI, §614(g), Oct. 17, 2006, 120 Stat. 2249; Pub. L. 110–181, div. A, title VI, §614(f), Jan. 28, 2008, 122 Stat. 149; Pub. L. 110–417, \[div. A\], title VI, §614(f), Oct. 14, 2008, 122 Stat. 4485; Pub. L. 111–84, div. A, title VI, §615(6), Oct. 28, 2009, 123 Stat. 2354; Pub. L. 111–383, div. A, title VI, §615(6), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §615(6), Dec. 31, 2011, 125 Stat. 1450.)
 
 #### Amendments
 
-<b>2011</b>—Subsec. (g). Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
+<b>2011</b>—Subsec. (g). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
+
+Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
 
 <b>2009</b>—Subsec. (g). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
 
@@ -52,7 +54,7 @@ Subsec. (g). Pub. L. 109–364 substituted “December 31, 2007” for “Decemb
 
 <b>2004</b>—Subsec. (a). Pub. L. 108–375, §622(a)(1), inserted “of a regular or reserve component” after “an eligible member”.
 
-Subsec. (b). Pub. L. 108–375, §622(a)(2), substituted comma for dash after “if”, struck out “(1) the member is entitled to basic pay; and” and par. (2) designationbefore “at the time”, and redesignated subpars. (A) and (B) of former par. (2) as pars. (1) and (2), respectively.
+Subsec. (b). Pub. L. 108–375, §622(a)(2), substituted comma for dash after “if”, struck out “(1) the member is entitled to basic pay; and” and par. (2) designation before “at the time”, and redesignated subpars. (A) and (B) of former par. (2) as pars. (1) and (2), respectively.
 
 Subsec. (c)(1). Pub. L. 108–375, §622(b), inserted before period at end “, in the case of a member of a regular component of the armed forces, and $2,000, in the case of a member of a reserve component of the armed forces”.
 

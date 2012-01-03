@@ -36,15 +36,17 @@ Data To Be Collected.—The data required to be collected under subsection (a) i
 
 (c)
 
-Inventory.—(1) Not later than the end of the third quarter of each fiscal year, the Secretary of Defense shall submit to Congress an annual inventory of the activities performed during the preceding fiscal year pursuant to contracts for services for or on behalf of the Department of Defense. The guidance for compiling the inventory shall be issued by the Under Secretary of Defense for Personnel and Readiness, the Under Secretary of Defense (Comptroller), and the Under Secretary of Defense for Acquisition, Technology, and Logistics, as follows:
+Inventory.—(1) Not later than the end of the third quarter of each fiscal year, the Secretary of Defense shall submit to Congress an annual inventory of the activities performed during the preceding fiscal year pursuant to contracts for services (and pursuant to contracts for goods to the extent services are a significant component of performance as identified in a separate line item of a contract) for or on behalf of the Department of Defense. The guidance for compiling the inventory shall be issued by the Under Secretary of Defense for Personnel and Readiness, the Under Secretary of Defense (Comptroller), and the Under Secretary of Defense for Acquisition, Technology, and Logistics, as follows:
 
 &emsp;(A) The Under Secretary of Defense for Personnel and Readiness, as supported by the Under Secretary of Defense (Comptroller), shall be responsible for developing guidance for—
 
-&emsp;&emsp;(i) the collection of data regarding functions and missions performed by contractors in a manner that is comparable to the manpower data elements used in inventories of functions performed by Department of Defense employees; and
+&emsp;&emsp;(i) the collection of data regarding functions and missions performed by contractors in a manner that is comparable to the manpower data elements used in inventories of functions performed by Department of Defense employees;
 
-&emsp;&emsp;(ii) the calculation of contractor manpower equivalents in a manner that is comparable to the calculation of full-time equivalents for use in inventories of functions performed by Department of Defense employees.
+&emsp;&emsp;(ii) the calculation of contractor full-time equivalents for direct labor, using direct labor hours in a manner that is comparable to the calculation of Department of Defense civilian full-time employees; and
 
-&emsp;(B) The Under Secretary of Defense for Acquisition, Technology, and Logistics shall be responsible for developing guidance on other data elements and implementing procedures.
+&emsp;&emsp;(iii) the conduct and completion of the annual review required under subsection (e)(1).
+
+&emsp;(B) The Under Secretary of Defense for Acquisition, Technology, and Logistics shall be responsible for developing guidance on other data elements and implementing procedures for requirements relating to acquisition.
 
 (2) The entry for an activity on an inventory under this subsection shall include, for the fiscal year covered by such entry, the following:
 
@@ -84,21 +86,31 @@ Review and Planning Requirements.—Within 90 days after the date on which an in
 
 &emsp;&emsp;(B) the activities on the list do not include any inherently governmental functions; and
 
-&emsp;&emsp;(C) to the maximum extent practicable, the activities on the list do not include any functions closely associated with inherently governmental functions;
+&emsp;&emsp;(C) to the maximum extent practicable, the activities on the list do not include any functions closely associated with inherently governmental functions; and
 
 &emsp;(3) identify activities that should be considered for conversion—
 
 &emsp;&emsp;(A) to performance by civilian employees of the Department of Defense pursuant to section 2463 of this title; or
 
-&emsp;&emsp;(B) to an acquisition approach that would be more advantageous to the Department of Defense; and
-
-&emsp;(4) develop a plan, including an enforcement mechanism and approval process, to provide for appropriate consideration of the conversion of activities identified under paragraph (3) within a reasonable period of time.
+&emsp;&emsp;(B) to an acquisition approach that would be more advantageous to the Department of Defense.
 
 (f)
 
-Rule of Construction.—Nothing in this section shall be construed to authorize the performance of personal services by a contractor except where expressly authorized by a provision of law other than this section.
+Development of Plan and Enforcement and Approval Mechanisms.—The Secretary ofthe military department or head of the Defense Agency responsible for activities in the inventory shall develop a plan, including an enforcement mechanism and approval process, to—
+
+&emsp;(1) provide for the use of the inventory by the military department or Defense Agency to implement the requirements of section 129a of this title;
+
+&emsp;(2) ensure the inventory is used to inform strategic workforce planning;
+
+&emsp;(3) facilitate use of the inventory for compliance with section 235 of this title; and
+
+&emsp;(4) provide for appropriate consideration of the conversion of activities identified under subsection (e)(3) within a reasonable period of time.
 
 (g)
+
+Rule of Construction.—Nothing in this section shall be construed to authorize the performance of personal services by a contractor except where expressly authorized by a provision of law other than this section.
+
+(h)
 
 Definitions.—In this section:
 
@@ -118,13 +130,23 @@ Inherently governmental functions.—The term “inherently governmental functio
 
 Personal services contract.—The term “personal services contract” means a contract under which, as a result of its terms or conditions or the manner of its administration during performance, contractor personnel are subject to the relatively continuous supervision and control of one or more Government officers or employees, except that the giving of an order for a specific article or service, with the right to reject the finished product or result, is not the type of supervision or control that makes a contract a personal services contract.
 
-(Added Pub. L. 107–107, div. A, title VIII, §801(c), Dec. 28, 2001, 115 Stat. 1176; amended Pub. L. 110–181, div. A, title VIII, §807(a), Jan. 28, 2008, 122 Stat. 213; Pub. L. 111–84, div. A, title VIII, §803(b), Oct. 28, 2009, 123 Stat. 2402; Pub. L. 111–383, div. A, title III, §321, Jan. 7, 2011, 124 Stat. 4183.)
+(Added Pub. L. 107–107, div. A, title VIII, §801(c), Dec. 28, 2001, 115 Stat. 1176; amended Pub. L. 110–181, div. A, title VIII, §807(a), Jan. 28, 2008, 122 Stat. 213; Pub. L. 111–84, div. A, title VIII, §803(b), Oct. 28, 2009, 123 Stat. 2402; Pub. L. 111–383, div. A, title III, §321, Jan. 7, 2011, 124 Stat. 4183; Pub. L. 112–81, div. A, title IX, §936, Dec. 31, 2011, 125 Stat. 1545.)
 
 #### Amendments
 
 <b>2011</b>—Subsec. (c). Pub. L. 111–383, §321(2) to (4), substituted “The guidance for compiling the inventory shall be issued by the Under Secretary of Defense for Personnel and Readiness, the Under Secretary of Defense (Comptroller), and the Under Secretary of Defense for Acquisition, Technology, and Logistics, as follows:” for “The entry for an activity on an inventory under this subsection shall include, for the fiscal year covered by such entry, the following:” in par. (1), added new subpars. (A) and (B) to par. (1), inserted par. (2) designation and introductory provisions before former subpars. (A) to (G) of par. (1) thereby making them part of par. (2), added subpar. (E), and struck out former subpar. (E) which read as follows: “The number of full-time contractor employees (or its equivalent) paid for the performance of the activity.”
 
+Subsec. (c)(1). Pub. L. 112–81, §936(a)(1), inserted “(and pursuant to contracts for goods to the extent services are a significant component of performance as identified in a separate line item of a contract)” after “pursuant to contracts for services” in introductory provisions.
+
+Subsec. (c)(1)(A)(ii), (iii). Pub. L. 112–81, §936(a)(2), added cls. (ii) and (iii) and struck out former cl. (ii) which read as follows: “the calculation of contractor manpower equivalents in a manner that is comparable to the calculation of full-time equivalents for use in inventories of functions performed by Department of Defense employees.”
+
+Subsec. (c)(1)(B). Pub. L. 112–81, §936(a)(3), inserted “for requirements relating to acquisition” before period at end.
+
 Subsec. (c)(2), (3). Pub. L. 111–383, §321(1), redesignated par. (2) as (3).
+
+Subsec. (e)(2) to (4). Pub. L. 112–81, §936(b), inserted “and” at end of par. (2), substituted period for “; and” at end of par. (3), and struck out par. (4) which read as follows: “develop a plan, including an enforcement mechanism and approval process, to provide for appropriate consideration of the conversion of activities identified under paragraph (3) within a reasonable period of time.”
+
+Subsec. (f) to (h). Pub. L. 112–81, §936(c), added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
 <b>2009</b>—Subsec. (e)(4). Pub. L. 111–84 inserted “, including an enforcement mechanism and approval process,” after “plan”.
 
@@ -150,11 +172,11 @@ Guidance Required.—Not later than 270 days after the date of the enactment of 
 
 &emsp;“(1) require a clear distinction between employees of the Department of Defense and employees of Department of Defense contractors;
 
-&emsp;“(2) provide appropriate safeguards with respect to when, where, and to what extent the Secretary may enter into a contract for the procurement of personal services; and
+&emsp;“(2) provide appropriate safeguards with respect to when, where, and to what extent the Secretary mayenter into a contract for the procurement of personal services; and
 
 &emsp;“(3) assess and take steps to mitigate the risk that, as implemented and administered, non-personal services contracts may become personal services contracts.
 
 “(b)
 
-Definition of Personal Services Contract.—In this section, the term ‘personal services contract’ has the meaning given that term in section 2330a(g)(5) of title 10, United States Code.”
+Definition of Personal Services Contract.—In this section, the term ‘personal services contract’ has the meaning given that term in section 2330a(g)(5) \[now 2330a(h)(5)\] of title 10, United States Code.”
 

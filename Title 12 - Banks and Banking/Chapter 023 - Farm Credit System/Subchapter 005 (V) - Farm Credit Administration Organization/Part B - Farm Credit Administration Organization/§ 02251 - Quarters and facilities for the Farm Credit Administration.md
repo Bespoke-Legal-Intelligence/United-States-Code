@@ -12,7 +12,7 @@ As an alternate to the rental of quarters under section 2249 of this title, and 
 
 (5) To sell or otherwise dispose of any interest in property leased or acquired under the foregoing if authorized by the Board.
 
-> The Board may require of the respective banks of the System, and they shall make to the Farm Credit Administration, such advances of funds for the purposes set out in this section as in the sole judgment of the Board may from time to time be advisable for the purposes of this section. Such advances shall be in addition to and kept in a separate fund from the assessments authorized in section 2250 of this title and shall be apportioned by the Board among the banks in proportion to the total assets of the respective banks, and determined in such manner and at such times as the Board may prescribe. The powers of the banks of the System and purposes for which obligations may be issued by such banks are hereby enlarged to include the purpose of obtaining funds to permit the making of advances required by this section. The plans and decisions for such building and facilities and for the enlargement, remodeling, or reconstruction thereof shall be such as is approved in the sole discretion of the Board. In actions undertaken by the banks pursuant to the foregoing provisions of this section, the Farm Credit Administration may act as agent for the banks.
+> The Board may require of the respective banks of the System, and they shall make to the FarmCredit Administration, such advances of funds for the purposes set out in this section as in the sole judgment of the Board may from time to time be advisable for the purposes of this section. Such advances shall be in addition to and kept in a separate fund from the assessments authorized in section 2250 of this title and shall be apportioned by the Board among the banks in proportion to the total assets of the respective banks, and determined in such manner and at such times as the Board may prescribe. The powers of the banks of the System and purposes for which obligations may be issued by such banks are hereby enlarged to include the purpose of obtaining funds to permit the making of advances required by this section. The plans and decisions for such building and facilities and for the enlargement, remodeling, or reconstruction thereof shall be such as is approved in the sole discretion of the Board. In actions undertaken by the banks pursuant to the foregoing provisions of this section, the Farm Credit Administration may act as agent for the banks.
 
 (Pub. L. 92–181, title V, §5.16, formerly §5.17, Dec. 10, 1971, 85 Stat. 621; Pub. L. 96–592, title V, §506, Dec. 24, 1980, 94 Stat. 3449; renumbered §5.16 and amended Pub. L. 99–205, title II, §201(6), Dec. 23, 1985, 99 Stat. 1690; Pub. L. 100–233, title VIII, §805(y), Jan. 6, 1988, 101 Stat. 1717; Pub. L. 100–399, title IX, §901(<i>l</i>), Aug. 17, 1988, 102 Stat. 1008.)
 
@@ -22,13 +22,13 @@ A prior section 5.16 of Pub. L. 92–181 was renumbered section 5.15 and is clas
 
 #### Amendments
 
-1988—Pub. L. 100–399 substituted “bank boards” for “district boards” in introductory provisions.
+<b>1988</b>—Pub. L. 100–399 substituted “bank boards” for “district boards” in introductory provisions.
 
 Pub. L. 100–233 transferred undesignated provisions following par. (4) consisting of four sentences relating to advances of funds for purposes set out in this section as in the sole judgment of the Board may from time to time be advisable for purposes of this section, to a position immediately before last sentence of this section which provides for agency status of Administration for the banks.
 
-1985—Pub. L. 99–205, §201(6)(A)–(C), made technical amendments to the references to sections 2249 and 2250 of this title in first and third sentences to reflect the renumbering of the corresponding sections of the original act, and struck out “Federal Farm Credit” before “Board” in par. (2) of first sentence.
+<b>1985</b>—Pub. L. 99–205, §201(6)(A)–(C), made technical amendments to the references to sections 2249 and 2250 of this title in first and third sentences to reflect the renumbering of the corresponding sections of the original act, and struck out “Federal Farm Credit” before “Board” in par. (2) of first sentence.
 
-1980—Pub. L. 96–592 added par. (5) and provisions respecting agency status of Administration for the banks.
+<b>1980</b>—Pub. L. 96–592 added par. (5) and provisions respecting agency status of Administration for the banks.
 
 #### Effective Date of 1988 Amendment
 

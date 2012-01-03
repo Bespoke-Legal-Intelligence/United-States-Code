@@ -28,7 +28,7 @@ A State may, subject to subsection (f), use amounts provided under a grant award
 
 #### (2) Exception
 
-&emsp;Subparagraph (C) of paragraph (1) shall not apply to any applicant consortium that the State determines will operate in a community or locality in which it has been demonstrated by the applicant consortium that—
+&emsp;Subparagraph (C) of paragraph (1) shall not apply to any applicant consortium that theState determines will operate in a community or locality in which it has been demonstrated by the applicant consortium that—
 
 &emsp;&emsp;(A) subpopulations exist within the community to be served that have unique service requirements; and
 
@@ -98,7 +98,7 @@ In providing assistance under subsection (a) of this section, the State shall, a
 
 #### (f) Allocation of funds; treatment as support services
 
-For purposes of the requirement of section 300ff–22(b)(1) of this title, expenditures of grants under section 300ff–21 of this title for or through consortia under this section are deemed to be support services, not core medical services. The preceding sentence may not be construed as having any legal effect on the provisions of subsection (a) that relate to authorized expenditures of the grant.
+For purposes of the requirement of section 300ff–22(b)(1) of this title, expenditures of grants under section 300ff–21 of this title for or through consortia under this section are deemed to besupport services, not core medical services. The preceding sentence may not be construed as having any legal effect on the provisions of subsection (a) that relate to authorized expenditures of the grant.
 
 (July 1, 1944, ch. 373, title XXVI, §2613, as added Pub. L. 101–381, title II, §201, Aug. 18, 1990, 104 Stat. 586; amended Pub. L. 104–146, §3(c)(2), May 20, 1996, 110 Stat. 1354; Pub. L. 106–345, title II, §203, Oct. 20, 2000, 114 Stat. 1331; Pub. L. 109–415, title II, §§201(b), 204(a), title VII, §§702(3), 703, Dec. 19, 2006, 120 Stat. 2787, 2796, 2820; Pub. L. 111–87, §2(a)(1), (3)(A), Oct. 30, 2009, 123 Stat. 2885.)
 
@@ -144,7 +144,7 @@ Subsec. (c)(2)(C). Pub. L. 104–146, §3(c)(2)(B)(ii), added subpar. (C).
 
 #### Effective Date of 2009 Amendment; Revival of Section
 
-For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effectiveSept. 30, 2009, and that the provisions of this section as in effect on Sept. 30, 2009, be revived, see section 2(a)(2), (3)(A) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
+For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effective Sept. 30, 2009, and that the provisions of this section as in effect on Sept. 30, 2009, be revived, see section 2(a)(2), (3)(A) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
 
 #### Effective Date of 1996 Amendment
 

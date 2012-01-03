@@ -34,7 +34,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 553 of the House amendment is derived from a similar provision contained in the Senate amendment, but is modified to clarify application of a two-point test with respect to setoffs.
 
@@ -48,13 +48,13 @@ As under section 547(f), the debtor is presumed to have been insolvent during th
 
 #### Amendments
 
-2005—Subsec. (a)(2)(B)(ii). Pub. L. 109–8, §907(n)(1), inserted “(except for a setoff of a kind described in section 362(b)(6), 362(b)(7), 362(b)(17), 362(b)(27), 555, 556, 559, 560, or 561)” before semicolon.
+<b>2005</b>—Subsec. (a)(2)(B)(ii). Pub. L. 109–8, §907(n)(1), inserted “(except for a setoff of a kind described in section 362(b)(6), 362(b)(7), 362(b)(17), 362(b)(27), 555, 556, 559, 560, or 561)” before semicolon.
 
 Subsec. (a)(3)(C). Pub. L. 109–8, §907(n)(2), inserted “(except for a setoff of a kind described in section 362(b)(6), 362(b)(7), 362(b)(17), 362(b)(27), 555, 556, 559, 560, or 561)” before period.
 
 Subsec. (b)(1). Pub. L. 109–8, §907(n)(3), substituted “362(b)(17), 362(b)(27), 555, 556, 559, 560, 561,” for “362(b)(14),” in introductory provisions.
 
-1994—Subsec. (a)(1). Pub. L. 103–394, §501(d)(19)(A), struck out before semicolon at end “other than under section 502(b)(3) of this title”.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–394, §501(d)(19)(A), struck out before semicolon at end “other than under section 502(b)(3) of this title”.
 
 Subsec. (b)(1). Pub. L. 103–394, §501(d)(19)(B), substituted “section 362(b)(14),” for “section 362(b)(14),,”.
 
@@ -62,9 +62,9 @@ Pub. L. 103–394, §222(b), which directed the amendment of section 553(b)(1) b
 
 Pub. L. 103–394, §205(b), substituted “365(h)” for “365(h)(2)”.
 
-1990—Subsec. (b)(1). Pub. L. 101–311 substituted “362(b)(7), 362(b)(14),” for “362(b)(7),”.
+<b>1990</b>—Subsec. (b)(1). Pub. L. 101–311 substituted “362(b)(7), 362(b)(14),” for “362(b)(7),”.
 
-1984—Subsec. (b)(1). Pub. L. 98–353 inserted “, 362(b)(7),” after “362(b)(6)”, and substituted “, 365(h)(2), or 365(i)(2)” for “or 365(h)(1)”.
+<b>1984</b>—Subsec. (b)(1). Pub. L. 98–353 inserted “, 362(b)(7),” after “362(b)(6)”, and substituted “, 365(h)(2), or 365(i)(2)” for “or 365(h)(1)”.
 
 #### Effective Date of 2005 Amendment
 

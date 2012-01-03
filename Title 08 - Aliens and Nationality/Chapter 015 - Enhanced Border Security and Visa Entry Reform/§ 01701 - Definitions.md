@@ -68,9 +68,9 @@ The Uniting and Strengthening America by Providing Appropriate Tools Required to
 
 #### Amendments
 
-2004—Par. (4)(G). Pub. L. 108–293 substituted “The Coast Guard” for “The Coastal Security Service”.
+<b>2004</b>—Par. (4)(G). Pub. L. 108–293 substituted “The Coast Guard” for “The Coastal Security Service”.
 
-2002—Par. (4)(J). Pub. L. 107–296 substituted “Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice” for “Bureau of Alcohol, Tobacco, and Firearms”.
+<b>2002</b>—Par. (4)(J). Pub. L. 107–296 substituted “Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice” for “Bureau of Alcohol, Tobacco, and Firearms”.
 
 #### Change of Name
 

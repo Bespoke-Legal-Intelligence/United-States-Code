@@ -18,7 +18,7 @@ The cost of real property shall not include any amount in respect of real proper
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), any stock for which an average basis methodis permissible under section 1012 which is acquired before January 1, 2012, shall be treated as a separate account from any such stock acquired on or after such date.
+&emsp;&emsp;Except as provided in subparagraph (B), any stock for which an average basis method is permissible under section 1012 which is acquired before January 1, 2012, shall be treated as a separate account from any such stock acquired on or after such date.
 
 #### (B) Election fund for treatment as single account
 
@@ -76,5 +76,5 @@ In general.—Except as otherwise provided in this subsection, the amendments ma
 
 “(2)
 
-Extension of period for statements sent to customers.—The amendments made by subsection (a)(3) \[amending section 6045 of this title\] shall apply to statements required to be furnished after December 31, 2008.”
+Extension of period for statements sent to customers.—The amendments made by subsection\(a)(3) \[amending section 6045 of this title\] shall apply to statements required to be furnished after December 31, 2008.”
 

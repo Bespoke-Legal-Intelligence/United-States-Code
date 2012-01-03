@@ -2,7 +2,7 @@
 
 (a)
 
-Interest.—A creditor who extends consumer credit to a covered member of the armedforces or a dependent of such a member shall not require the member or dependent to pay interest with respect to the extension of such credit, except as—
+Interest.—A creditor who extends consumer credit to a covered member of the armed forces or a dependent of such a member shall not require the member or dependent to pay interest with respect to the extension of such credit, except as—
 
 &emsp;(1) agreed to under the terms of the credit agreement or promissory note;
 
@@ -100,7 +100,7 @@ Regulations.—(1) The Secretary of Defense shall prescribe regulations to carry
 
 &emsp;(B) The method for calculating the applicable annual percentage rate of interest on such obligations, in accordance with the limit established under this section.
 
-&emsp;(C) A maximum allowable amount of all fees, and the types of fees, associated with any suchextension of credit, to be expressed and disclosed to the borrower as a total amount and as a percentage of the principal amount of the obligation, at the time at which the transaction is entered into.
+&emsp;(C) A maximum allowable amount of all fees, and the types of fees, associated with any such extension of credit, to be expressed and disclosed to the borrower as a total amount and as a percentage of the principal amount of the obligation, at the time at which the transaction is entered into.
 
 &emsp;(D) Definitions of “creditor” under paragraph (5) and “consumer credit” under paragraph (6) of subsection (i), consistent with the provisions of this section.
 

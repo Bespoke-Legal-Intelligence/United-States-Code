@@ -108,7 +108,7 @@
 
 #### (1) Identification of prospective program participants
 
-&emsp;The Secretary shall establish a method for identifying targeted beneficiaries who may benefit from participation in a chronic care improvement program.
+&emsp;The Secretary shall establish a method for identifying targeted beneficiaries who maybenefit from participation in a chronic care improvement program.
 
 #### (2) Initial contact by Secretary
 
@@ -230,7 +230,7 @@
 
 #### References in Text
 
-Parts A, B, and C of this subchapter, referred to in subsecs. (a)(2)(E)(i) and (b)(3)(B), (4), are classified tosections 1395c et seq., 1395j et seq., and 1395w–21 et seq., respectively, of this title.
+Parts A, B, and C of this subchapter, referred to in subsecs. (a)(2)(E)(i) and (b)(3)(B), (4), are classified to sections 1395c et seq., 1395j et seq., and 1395w–21 et seq., respectively, of this title.
 
 #### Demonstration Project for Consumer-Directed Chronic Outpatient Services
 
@@ -336,7 +336,7 @@ Pub. L. 108–173, title VII, §723, Dec. 8, 2003, 117 Stat. 2348, provided that
 
 “(a)
 
-Development of Plan.—Not later than 6 months after the date of the enactment of this Act \[Dec. 8, 2003\], the Secretary \[of Health and Human Services\]shall develop a plan to improve quality of care and reduce the cost of care for chronically ill medicare beneficiaries.
+Development of Plan.—Not later than 6 months after the date of the enactment of this Act \[Dec. 8, 2003\], the Secretary \[of Health and Human Services\] shall develop a plan to improve quality of care and reduce the cost of care for chronically ill medicare beneficiaries.
 
 “(b)
 

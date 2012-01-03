@@ -54,7 +54,7 @@ Standard changes are made to conform with the definitions applicable and style o
 
 #### Amendments
 
-1994—Subsec. (c). Pub. L. 103–329, §629(b)(1)(B), added subsec. (c). Former subsec. (c) redesignated (d).
+<b>1994</b>—Subsec. (c). Pub. L. 103–329, §629(b)(1)(B), added subsec. (c). Former subsec. (c) redesignated (d).
 
 Subsec. (d). Pub. L. 103–388 added subsec. (d) relating to use of sick leave for purposes relating to family member.
 

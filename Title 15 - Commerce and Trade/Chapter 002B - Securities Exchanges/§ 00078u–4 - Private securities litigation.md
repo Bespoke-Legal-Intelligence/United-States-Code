@@ -34,7 +34,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Not later than 20 days after the date on which the complaint is filed, the plaintiffor plaintiffs shall cause to be published, in a widely circulated national business-oriented publication or wire service, a notice advising members of the purported plaintiff class—
+&emsp;&emsp;&emsp;Not later than 20 days after the date on which the complaint is filed, the plaintiff or plaintiffs shall cause to be published, in a widely circulated national business-oriented publication or wire service, a notice advising members of the purported plaintiff class—
 
 &emsp;&emsp;&emsp;&emsp;(I) of the pendency of the action, the claims asserted therein, and the purported class period; and
 
@@ -168,7 +168,7 @@
 
 #### (B) Exception
 
-&emsp;&emsp;In the case of an action for money damages brought against a credit rating agencyor a controlling person under this chapter, it shall be sufficient, for purposes of pleading any required state of mind in relation to such action, that the complaint state with particularity facts giving rise to a strong inference that the credit rating agency knowingly or recklessly failed—
+&emsp;&emsp;In the case of an action for money damages brought against a credit rating agency or a controlling person under this chapter, it shall be sufficient, for purposes of pleading any required state of mind in relation to such action, that the complaint state with particularity facts giving rise to a strong inference that the credit rating agency knowingly or recklessly failed—
 
 &emsp;&emsp;&emsp;(i) to conduct a reasonable investigation of the rated security with respect to the factual elements relied upon by its own methodology for evaluating credit risk; or
 
@@ -188,7 +188,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;During the pendency of any stay of discovery pursuant to this paragraph, unless otherwise ordered by the court, any party to the action with actual notice of the allegations contained in the complaint shall treat all documents, data compilations (including electronically recorded or stored data), and tangible objects that are in the custody or control of such person and that are relevant to the allegations, as if they were the subject of a continuing request for production of documents from an opposing party under the Federal Rules of Civil Procedure.
+&emsp;&emsp;&emsp;During the pendency of any stay of discovery pursuant to this paragraph, unless otherwise ordered by the court, any party to the action with actual notice of the allegations contained in the complaint shall treat all documents, data compilations (including electronically recorded or stored data), and tangible objects that are in thecustody or control of such person and that are relevant to the allegations, as if they were the subject of a continuing request for production of documents from an opposing party under the Federal Rules of Civil Procedure.
 
 #### (ii) Sanction for willful violation
 
@@ -232,7 +232,7 @@
 
 #### (C) Sanctions
 
-&emsp;&emsp;If the party or attorney against whom sanctions are to be imposed meets its burden under subparagraph (B), the court shall award the sanctions that the court deemsappropriate pursuant to Rule 11 of the Federal Rules of Civil Procedure.
+&emsp;&emsp;If the party or attorney against whom sanctions are to be imposed meets its burden under subparagraph (B), the court shall award the sanctions that the court deems appropriate pursuant to Rule 11 of the Federal Rules of Civil Procedure.
 
 #### (d) Defendant's right to written interrogatories
 
@@ -250,7 +250,7 @@ In any private action arising under this chapter in which the plaintiff may reco
 
 #### (3) “Mean trading price” defined
 
-&emsp;For purposes of this subsection, the “mean trading price” of a security shall be an average of the daily trading price of that security, determined as of the close of the market each day during the 90-day period referred to in paragraph (1).
+&emsp;For purposes of this subsection, the “mean trading price” of a security shall be an average of the daily trading price of that security,determined as of the close of the market each day during the 90-day period referred to in paragraph (1).
 
 #### (f) Proportionate liability
 
@@ -302,7 +302,7 @@ In any private action arising under this chapter in which the plaintiff may reco
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding paragraph (2)(B), upon <sup>1</sup> motion made not later than 6 months after a final judgment is entered in any private action, the court determines that all or part of the share of the judgment of the covered person is not collectible against that covered person, and is also not collectibleagainst a covered person described in paragraph (2)(A), each covered person described in paragraph (2)(B) shall be liable for the uncollectible share as follows:
+&emsp;&emsp;Notwithstanding paragraph (2)(B), upon <sup>1</sup> motion made not later than 6 months after a final judgment is entered in any private action, the court determines that all or part of the share of the judgment of the covered person is not collectible against that covered person, and is also not collectible against a covered person described in paragraph (2)(A), each covered person described in paragraph (2)(B) shall be liable for the uncollectible share as follows:
 
 #### (i) Percentage of net worth
 

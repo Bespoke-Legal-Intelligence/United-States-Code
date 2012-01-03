@@ -32,7 +32,7 @@
 
 (3) The fraction under this paragraph for any annuitant is a fraction—
 
-&emsp;(A) the numerator of which is the annuitant's total years of service (rounding a fraction to the nearest whole number, with 1/2 being rounded to the next higher number), not to exceed the number under subparagraph (B); and
+&emsp;(A) the numerator of which is the annuitant's total years of service (rounding a fraction to the nearest whole number, with ½ being rounded to the next higher number), not to exceed the number under subparagraph (B); and
 
 &emsp;(B) the denominator of which is 40.
 
@@ -54,11 +54,11 @@ The Social Security Act, referred to in subsecs. (a)(3)(B) and (b)(2), (4)(A), (
 
 #### Amendments
 
-2002—Subsec. (a)(2). Pub. L. 107–296, which directed amendment of par. (2) by striking “, except that an individual entitled to an annuity under section 8414(a) for failure to be recertified as a senior executive shall be entitled to an annuity supplement without regard to such applicable retirement age”, was executed by striking out “, except that an individual entitled to an annuity under section 8414(a) for failure to be recertified as a senior executive shall be entitled to an annuity supplement without regard to such applicable minimum retirement age” before period at end, to reflect the probable intent of Congress.
+<b>2002</b>—Subsec. (a)(2). Pub. L. 107–296, which directed amendment of par. (2) by striking “, except that an individual entitled to an annuity under section 8414(a) for failure to be recertified as a senior executive shall be entitled to an annuity supplement without regard to such applicable retirement age”, was executed by striking out “, except that an individual entitled to an annuity under section 8414(a) for failure to be recertified as a senior executive shall be entitled to an annuity supplement without regard to such applicable minimum retirement age” before period at end, to reflect the probable intent of Congress.
 
-1992—Subsec. (a)(2). Pub. L. 102–378 inserted period at end.
+<b>1992</b>—Subsec. (a)(2). Pub. L. 102–378 inserted period at end.
 
-1989—Subsec. (a)(2). Pub. L. 101–194 substituted “, except that an individual entitled to an annuity under section 8414(a) for failure to be recertified as a senior executive shall be entitled to an annuity supplement without regard to such applicable minimum retirement age” for period at end.
+<b>1989</b>—Subsec. (a)(2). Pub. L. 101–194 substituted “, except that an individual entitled to an annuity under section 8414(a) for failure to be recertified as a senior executive shall be entitled to an annuity supplement without regard to such applicable minimum retirement age” for period at end.
 
 #### Effective Date of 2002 Amendment
 

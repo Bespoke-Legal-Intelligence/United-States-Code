@@ -22,7 +22,7 @@ In this subchapter:
 
 #### References in Text
 
-This subchapter, referred to in text, was in the original “this Act”, meaning Pub. L. 100–505, Oct. 18, 1988,102 Stat. 2533, which is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of this title and Tables.
+This subchapter, referred to in text, was in the original “this Act”, meaning Pub. L. 100–505, Oct. 18, 1988, 102 Stat. 2533, which is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of this title and Tables.
 
 #### Amendments
 

@@ -28,7 +28,7 @@ All actions taken by an owner or consignee to modify such product under subsecti
 
 #### (e) Product destruction
 
-Products refused admission into the customs territory of the United States shall be destroyed unless, upon application by the owner, consignee, or importer of record, the Secretary ofthe Treasury permits the export of the product in lieu of destruction. If the owner, consignee, or importer of record does not export the product within 90 days of approval to export, such product shall be destroyed.
+Products refused admission into the customs territory of the United States shall be destroyed unless, upon application by the owner, consignee, or importer of record, the Secretary of the Treasury permits the export of the product in lieu of destruction. If the owner, consignee, or importer of record does not export the product within 90 days of approval to export, such product shall be destroyed.
 
 #### (f) Payment of expenses occasioned by refusal of admission
 
@@ -96,7 +96,7 @@ Use of International Trade Data System and Other Databases.—In developing the 
 
 &emsp;“(3) examine, in consultation with U.S. Customs and Border Protection, how to share information collected and retained by the Commission, including information in the database required under section 6A of the Consumer Product Safety Act \[15 U.S.C. 2055a\], for the purpose of identifying shipments of consumer products in violation of section 17(a) of such Act (15 U.S.C. 2066(a)) or other import provisions enforced by the Commission; and
 
-&emsp;“(4) examine, in consultation with U.S. Customs and Border Protection, how to share information required by section 15(j) of the CPSA \[15 U.S.C. 2064(j)\]as added by section 223 of this Act for the purpose of identifying shipments of consumer products in violation of section 17(a) of the Consumer Product Safety Act (15 U.S.C. 2066(a)) or other import provisions enforced by the Commission.
+&emsp;“(4) examine, in consultation with U.S. Customs and Border Protection, how to share information required by section 15(j) of the CPSA \[15 U.S.C. 2064(j)\] as added by section 223 of this Act for the purpose of identifying shipments of consumer products in violation of section 17(a) of the Consumer Product Safety Act (15 U.S.C. 2066(a)) or other import provisions enforced by the Commission.
 
 “(c)
 

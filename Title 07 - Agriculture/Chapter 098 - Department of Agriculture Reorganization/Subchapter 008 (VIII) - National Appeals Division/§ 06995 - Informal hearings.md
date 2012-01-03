@@ -28,7 +28,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Pub. L. 110–246, §12032, designated the three sentences of existing provisions as subsecs. (a) to (c), respectively, inserted headings, and in subsec. (c) designated part of existing provisions as par. (1) and added par. (2).
+<b>2008</b>—Pub. L. 110–246, §12032, designated the three sentences of existing provisions as subsecs. (a) to (c), respectively, inserted headings, and in subsec. (c) designated part of existing provisions as par. (1) and added par. (2).
 
 #### Effective Date of 2008 Amendment
 

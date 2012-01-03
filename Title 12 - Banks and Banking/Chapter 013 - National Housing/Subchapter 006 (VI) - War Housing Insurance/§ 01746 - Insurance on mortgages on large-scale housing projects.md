@@ -20,7 +20,7 @@ To be eligible for insurance under this section, a mortgage shall—
 
 &emsp;With respect to the insurance of advances during construction, the Secretary is authorized to approve advances by the mortgagee to cover the cost of materials delivered upon the mortgaged property and labor performed in the fabrication or erection thereof;
 
-&emsp;(4) provide for complete amortization by periodic payments within such term as the Secretary shall prescribe and shall bear interest (exclusive of premium charges for insurance) as not to exceed 4 per centum per annum on the amount of the principal obligation outstanding at any time: <i>Provided</i>, That the Secretary with the approval of the Secretary of the Treasury, may prescribe by regulation a higher maximum rate of interest, not exceeding 41/2 per centum per annum on the amount of the principal obligation outstanding at any time, if he finds that the mortgage market demands it. The Secretary may consent to the release of a part or parts of the mortgaged property from the lien of the mortgage upon such terms and conditions as he may prescribe and the mortgage may provide for such release, and the mortgage may provide that, upon the completion of the construction of the project, such mortgage may be replaced by individual mortgages covering each individual dwelling in the project. Each such individual mortgage may be insured under this section with the mortgagor being either the builder who constructed the dwellings or the owner and occupant of the dwelling at the time, and where the mortgagor is the owner and occupant, may involve a principal obligation in such amount and have such maturity and interest rate as a mortgage eligible for insurance under section 1709(b)(2)(D) of this title.
+&emsp;(4) provide for complete amortization by periodic payments within such term as the Secretary shall prescribe and shall bear interest (exclusive of premium charges for insurance) as not to exceed 4 per centum per annum on the amount of the principal obligation outstanding at any time: <i>Provided</i>, That the Secretary with the approval of the Secretary of the Treasury, may prescribe by regulation a higher maximum rate of interest, not exceeding 4½ per centum per annum on the amount of the principal obligation outstanding at any time, if he finds that the mortgage market demands it. The Secretary may consent to the release of a part or parts of the mortgaged property from the lien of the mortgage upon such terms and conditions as he may prescribe and the mortgage may provide for such release, and the mortgage may provide that, upon the completion of the construction of the project, such mortgage may be replaced by individual mortgages covering each individual dwelling in the project. Each such individual mortgage may be insured under this section with the mortgagor being either the builder who constructed the dwellings or the owner and occupant of the dwelling at the time, and where the mortgagor is the owner and occupant, may involve a principal obligation in such amount and have such maturity and interest rate as a mortgage eligible for insurance under section 1709(b)(2)(D) of this title.
 
 #### (c) Preferences in occupancy for veterans and hardship cases
 
@@ -38,9 +38,9 @@ Section 1709(b)(2)(D) of this title, referred to in subsec. (b)(4), is a referen
 
 #### Amendments
 
-1967—Pub. L. 90–19 substituted “Secretary” for “Commissioner” wherever appearing in subsecs. (a), (b), and (c).
+<b>1967</b>—Pub. L. 90–19 substituted “Secretary” for “Commissioner” wherever appearing in subsecs. (a), (b), and (c).
 
-1950—Act Apr. 20, 1950, §122, substituted “Commissioner” for “Administrator” wherever appearing.
+<b>1950</b>—Act Apr. 20, 1950, §122, substituted “Commissioner” for “Administrator” wherever appearing.
 
 Subsec. (b)(3). Act Apr. 20, 1950, §121(1), (2), substituted “85” for “80” in cl. (A), and inserted entirely new material in cl. (B).
 

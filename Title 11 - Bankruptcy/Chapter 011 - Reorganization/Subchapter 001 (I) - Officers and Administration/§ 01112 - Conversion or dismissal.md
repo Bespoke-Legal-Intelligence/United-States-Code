@@ -74,7 +74,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 1112 of the House amendment represents a compromise between the House bill and Senate amendment with respect to the factors constituting cause for conversion of a case to chapter 7 or dismissal. The House amendment combines two separate factors contained in section 1112(b)(1) and section 1112(b)(2) of the Senate amendment. Section 1112(b)(1) of the House amendment permits the court to convert a case to a case under chapter 7 or to dismiss the case if there is both a continuing loss to or diminution of the estate and the absence of a reasonable likelihood of rehabilitation; requiring both factors to be present simultaneously represents a compromise from the House bill which eliminated both factors from the list of causes enumerated.
 
@@ -98,7 +98,7 @@ The Federal Rules of Bankruptcy Procedure, referred to in subsec. (b)(4)(G), are
 
 #### Amendments
 
-2010—Subsec. (b)(1). Pub. L. 111–327, §2(a)(33)(A)(i), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Except as provided in paragraph (2) of this subsection, subsection (c) of this section, and section 1104(a)(3), on request of a party in interest, and after notice and a hearing, absent unusual circumstances specifically identified by the court that establish that the requested conversion or dismissal is not in the best interests of creditors and the estate, the court shall convert a case under this chapter to a case under chapter 7 or dismiss a case under this chapter, whichever is in the best interests of creditors and the estate, if the movant establishes cause.”
+<b>2010</b>—Subsec. (b)(1). Pub. L. 111–327, §2(a)(33)(A)(i), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Except as provided in paragraph (2) of this subsection, subsection (c) of this section, and section 1104(a)(3), on request of a party in interest, and after notice and a hearing, absent unusual circumstances specifically identified by the court that establish that the requested conversion or dismissal is not in the best interests of creditors and the estate, the court shall convert a case under this chapter to a case under chapter 7 or dismiss a case under this chapter, whichever is in the best interests of creditors and the estate, if the movant establishes cause.”
 
 Subsec. (b)(2). Pub. L. 111–327, §2(a)(33)(A)(ii)(I), inserted introductory provisions and struck out former introductory provisions which read as follows: “The relief provided in paragraph (1) shall not be granted absent unusual circumstances specifically identified by the court that establish that such relief is not in the best interests of creditors and the estate, if the debtor or another party in interest objects and establishes that—”.
 
@@ -106,11 +106,11 @@ Subsec. (b)(2)(B). Pub. L. 111–327, §2(a)(33)(A)(ii)(II), substituted “conv
 
 Subsec. (e). Pub. L. 111–327, §2(a)(33)(B), substituted “521(a)” for “521”.
 
-2005—Subsec. (b). Pub. L. 109–8 added subsec. (b) and struck out former subsec. (b) which consisted of introductory provisions and pars. (1) to (10) relating to conversion of cases under this chapter to chapter 7 cases or dismissal for cause in the best interest of creditors and the estate.
+<b>2005</b>—Subsec. (b). Pub. L. 109–8 added subsec. (b) and struck out former subsec. (b) which consisted of introductory provisions and pars. (1) to (10) relating to conversion of cases under this chapter to chapter 7 cases or dismissal for cause in the best interest of creditors and the estate.
 
-1994—Subsec. (b). Pub. L. 103–394 inserted “or bankruptcy administrator” after “United States trustee”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–394 inserted “or bankruptcy administrator” after “United States trustee”.
 
-1986—Subsec. (b). Pub. L. 99–554, §224(1)(A), inserted “or the United States trustee” after “party in interest”.
+<b>1986</b>—Subsec. (b). Pub. L. 99–554, §224(1)(A), inserted “or the United States trustee” after “party in interest”.
 
 Subsec. (b)(10). Pub. L. 99–554, §224(1)(B)–(D), added par. (10).
 
@@ -118,7 +118,7 @@ Subsec. (d). Pub. L. 99–554, §256, inserted reference to chapter 12 and added
 
 Subsecs. (e), (f). Pub. L. 99–554, §224(2), (3), added subsec. (e) and redesignated former subsec. (e) as (f).
 
-1984—Subsec. (a)(2). Pub. L. 98–353, §505(a)(1), substituted “originally was commenced as an involuntary case” for “is an involuntary case originally commenced”.
+<b>1984</b>—Subsec. (a)(2). Pub. L. 98–353, §505(a)(1), substituted “originally was commenced as an involuntary case” for “is an involuntary case originally commenced”.
 
 Subsec. (a)(3). Pub. L. 98–353, §505(a)(2), substituted “other than on” for “on other than”.
 

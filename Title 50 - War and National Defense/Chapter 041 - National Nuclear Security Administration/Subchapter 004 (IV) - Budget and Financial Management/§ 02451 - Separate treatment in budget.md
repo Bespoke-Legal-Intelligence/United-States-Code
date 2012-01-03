@@ -38,7 +38,7 @@ Requirement to Specify Source of Facility Funding in Budget Requests.—In any b
 
 Appropriate Congressional Committees Defined.—In this section, the term ‘appropriate congressional committees’ means—
 
-&emsp;“(1) the Committee on Armed Services, the Committee on Appropriations, and the Committee on Science and Technology of the House of Representatives; and
+&emsp;“(1) the Committee on Armed Services, the Committee on Appropriations, and the Committee on Science and Technology \[now Committee on Science, Space, and Technology\] of the House of Representatives; and
 
 &emsp;“(2) the Committee on Armed Services, the Committee on Appropriations, and the Committee on Energy and Natural Resources of the Senate.”
 

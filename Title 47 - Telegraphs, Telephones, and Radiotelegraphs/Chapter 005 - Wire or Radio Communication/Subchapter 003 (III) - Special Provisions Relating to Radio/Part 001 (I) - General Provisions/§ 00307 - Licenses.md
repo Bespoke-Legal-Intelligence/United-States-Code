@@ -6,7 +6,7 @@ The Commission, if public convenience, interest, or necessity will be served the
 
 #### (b) Allocation of facilities
 
-In considering applications for licenses, and modifications and renewals thereof, when andinsofar as there is demand for the same, the Commission shall make such distribution of licenses, frequencies, hours of operation, and of power among the several States and communities as to provide a fair, efficient, and equitable distribution of radio service to each of the same.
+In considering applications for licenses, and modifications and renewals thereof, when and insofar as there is demand for the same, the Commission shall make such distribution of licenses, frequencies, hours of operation, and of power among the several States and communities as to provide a fair, efficient, and equitable distribution of radio service to each of the same.
 
 #### (c) Terms of licenses
 
@@ -36,9 +36,13 @@ No renewal of an existing station license in the broadcast or the common carrier
 
 #### (f) Areas in Alaska without access to over the air broadcasts
 
-Notwithstanding any other provision of law, (1) any holder of a broadcast license may broadcast to an area of Alaska that otherwise does not have access to over the air broadcasts via translator, microwave, or other alternative signal delivery even if another holder of a broadcast license begins broadcasting to such area, (2) any holder of a broadcast license who has broadcast to an area of Alaska that did not have access to over the air broadcasts via translator, microwave, or other alternative signal delivery may continue providing such service even if another holder of a broadcast license begins broadcasting to such area, and shall not be fined or subject to any other penalty, forfeiture, or revocation related to providing such service including any fine, penalty, forfeiture, or revocation for continuing to operate notwithstanding orders to the contrary.
+Notwithstanding any other provision of law, (1) any holder of a broadcast license may broadcast to an area of Alaska that otherwise does not have access to over the air broadcasts via translator, microwave, or other alternative signal delivery even if another holder of a broadcast license begins broadcasting to such area, (2) any holder of a broadcast license who has broadcast to an area of Alaska that did not have access to over the air broadcasts via translator, microwave, or other alternative signal delivery may continue providing such service even if another holder of a broadcast license begins broadcasting to such area, and shall not be fined or subject to any other penalty, forfeiture, or revocation related to providing such service including any fine, penalty, forfeiture, or revocationfor continuing to operate notwithstanding orders to the contrary.
 
 (June 19, 1934, ch. 652, title III, §307, 48 Stat. 1083; June 5, 1936, ch. 511, §2, 49 Stat. 1475; July 16, 1952, ch. 879, §5, 66 Stat. 714; Pub. L. 86–752, §3, Sept. 13, 1960, 74 Stat. 889; Pub. L. 87–439, Apr. 27, 1962, 76 Stat. 58; Pub. L. 97–35, title XII, §1241(a), Aug. 13, 1981, 95 Stat. 736; Pub. L. 97–259, title I, §§112, 113(a), Sept. 13, 1982, 96 Stat. 1093; Pub. L. 104–104, title II, §203, title IV, §403(i), Feb. 8, 1996, 110 Stat. 112, 131; Pub. L. 108–447, div. J, title IX \[title II, §213(1), (2)\], Dec. 8, 2004, 118 Stat. 3431.)
+
+#### References in Text
+
+This chapter, referred to in subsecs. (a) and (e), was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
 #### Amendments
 

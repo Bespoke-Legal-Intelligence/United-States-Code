@@ -158,7 +158,7 @@
 
 #### (ii) No additional program expenditures
 
-&emsp;&emsp;&emsp;Payments under this section for applicable items and services under this subchapter (including payment for services described in subparagraph (B)) for applicable beneficiaries for a year shall be established in a manner that does not result in spending more for such entity for such beneficiaries than would otherwise be expended for such entity for such beneficiaries for such year if the pilot program were not implemented, as estimated by the Secretary.
+&emsp;&emsp;&emsp;Payments under this section for applicable items and services under this subchapter (including payment for services described in subparagraph (B)) for applicable beneficiaries for a year shall be established in a manner that does not result in spending more for such entity for suchbeneficiaries than would otherwise be expended for such entity for such beneficiaries for such year if the pilot program were not implemented, as estimated by the Secretary.
 
 #### (B) Inclusion of certain services
 
@@ -176,7 +176,7 @@
 
 #### (ii) Requirement for provision of applicable services and other appropriate services
 
-&emsp;&emsp;&emsp;Applicable services and other appropriate services for which payment is madeunder this subparagraph shall be furnished or directed by the entity which is participating in the pilot program.
+&emsp;&emsp;&emsp;Applicable services and other appropriate services for which payment is made under this subparagraph shall be furnished or directed by the entity which is participating in the pilot program.
 
 #### (D) Payment for post-acute care services after the episode of care
 

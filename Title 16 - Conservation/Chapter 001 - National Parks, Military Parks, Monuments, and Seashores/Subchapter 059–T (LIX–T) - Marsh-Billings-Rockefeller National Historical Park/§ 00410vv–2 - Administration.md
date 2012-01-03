@@ -20,7 +20,7 @@ The primary purposes of the historic zone shall be preservation, education, and 
 
 (1) The primary purpose of the protection zone shall be to preserve the general character of the setting across from the Marsh-Billings-Rockefeller Mansion in such a manner and by such means as will continue to permit current and future compatible uses.
 
-(2) The Secretary shall pursue protection and preservation alternatives for the protection zone by working with affected State and local governments and affected landowners to develop and implement land use practices consistent with this subchapter.
+(2) The Secretary shall pursue protection and preservation alternatives for the protection zone by working with affected State and local governments and affected landowners to developand implement land use practices consistent with this subchapter.
 
 (Pub. L. 102–350, §4, Aug. 26, 1992, 106 Stat. 934; Pub. L. 105–277, div. A, §101(e) \[title I, §143\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–267.)
 

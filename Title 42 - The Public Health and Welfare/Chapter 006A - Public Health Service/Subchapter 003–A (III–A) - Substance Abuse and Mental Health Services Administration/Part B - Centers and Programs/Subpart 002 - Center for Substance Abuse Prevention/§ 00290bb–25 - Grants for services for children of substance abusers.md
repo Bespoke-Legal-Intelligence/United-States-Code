@@ -64,7 +64,7 @@ The Secretary may make a grant under subsection (a) of this section only if the 
 
 &emsp;(8) Additional developmental services that are consistent with the provision of early intervention services, as such term is defined in part C of the Individuals with Disabilities Education Act \[20 U.S.C. 1431 et seq.\].
 
-> Services shall be provided under paragraphs (2) through (8) by a public health nurse, social worker, or similar professional, or by a trained worker from the community who is supervised by a professional, or by an entity, where the professional or entity provides assurances that the professional or entity is licensed or certified by the State if required and is complying with applicable licensure or certification requirements.
+> Services shall be provided under paragraphs (2) through (8) by a public health nurse, social worker, or similar professional, or by a trained worker from the community who is supervised by a professional, or by an entity, where the professional or entity provides assurances that theprofessional or entity is licensed or certified by the State if required and is complying with applicable licensure or certification requirements.
 
 #### (c) Services for affected families
 
@@ -156,7 +156,7 @@ The Secretary may make a grant under subsection (a) of this section only if the 
 
 &emsp;(1) a description of the population that is to receive services under this section and a description of such services that are to be provided and measurable goals and objectives;
 
-&emsp;(2) a description of the mechanism that will be used to involve the local public agencies responsible for health, including maternal and child health <sup>2</sup> mental health, child welfare, education, juvenile justice, developmental disabilities, and substance abuse in planning and providing services under this section, as well as evidence that the proposal has been coordinated with the State agencies responsible for administering those programs, the State agency responsible for administering alcohol and drug programs, the State lead agency, and theState Interagency Coordinating Council under part H <sup>3</sup> of the Individuals with Disabilities Education Act; and; <sup>4</sup>
+&emsp;(2) a description of the mechanism that will be used to involve the local public agencies responsible for health, including maternal and child health <sup>2</sup> mental health, child welfare, education, juvenile justice, developmental disabilities, and substance abuse in planning and providing services under this section, as well as evidence that the proposal has been coordinated with the State agencies responsible for administering those programs, the State agency responsible for administering alcohol and drug programs, the State lead agency, and the State Interagency Coordinating Council under part H <sup>3</sup> of the Individuals with Disabilities Education Act; and; <sup>4</sup>
 
 &emsp;(3) such other information as the Secretary determines to be appropriate.
 
@@ -210,7 +210,7 @@ The Secretary shall periodically conduct evaluations to determine the effectiven
 
 #### (<i>l</i>) Report to Congress
 
-Not later than 2 years after the date on which amounts are first appropriated under subjection <sup>5</sup> (<i>o</i>) of this section, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report that contains a description of programs carried out under this section. At a minimum, the report shall contain—
+Not later than 2 years after the date on which amounts are first appropriated under subjection <sup>5</sup> (<i>o</i>) of this section, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives,and to the Committee on Labor and Human Resources of the Senate, a report that contains a description of programs carried out under this section. At a minimum, the report shall contain—
 
 &emsp;(1) information concerning the number and type of programs receiving grants;
 
@@ -272,7 +272,7 @@ Section was formerly classified to section 280d of this title.
 
 <b>2004</b>—Subsecs. (b)(8), (f). Pub. L. 108–446, §305(i)(1), (3), which directed amendment of subsecs. (b)(8) and (f) of section 399A of the Public Health Service Act by substituting “part C” for “part H”, was executed to subsec. (b)(8) of this section, which is section 519 of the Public Health Service Act, to reflect the probable intent of Congress and the renumbering of this section and repeal of former subsec. (f). See 2000 Amendments notes below.
 
-<b>2000</b>—Pub. L. 106–310, §3106(a)–(m), which directed numerous amendments to section 399D of the Public Health Service Act and the subsequent renumbering of that section as section 519 of title V of the Act, was executed by amending this section and renumbering this section as section 519 of title V, to reflect the probable intent of Congress, notwithstanding the intervening renumbering of this section as section 399A of the Act by section 502(1) of Pub. L. 106–310. See source credit above and notes below.
+<b>2000</b>—Pub. L. 106–310, §3106(a)–(m), which directed numerous amendments to section 399D of the Public Health Service Act and the subsequent renumbering of that section as section 519 of title V of the Act, was executed by amending this section and renumbering thissection as section 519 of title V, to reflect the probable intent of Congress, notwithstanding the intervening renumbering of this section as section 399A of the Act by section 502(1) of Pub. L. 106–310. See source credit above and notes below.
 
 Subsec. (a)(1). Pub. L. 106–310, §3106(a)(1)(A), substituted “Administrator of the Substance Abuse and Mental Health Services Administration” for “Administrator of the Health Resources and Services Administration” in introductory provisions.
 
@@ -352,7 +352,7 @@ Subsec. (m)(3)(A). Pub. L. 106–310, §3106(h)(2)(A), inserted “and” at end
 
 Subsec. (m)(3)(B). Pub. L. 106–310, §3106(h)(2)(B), substituted period for semicolon at end.
 
-Subsec. (m)(3)(C) to (E). Pub. L. 106–310, §3106(h)(2)(C), struck out subpars. (C) to (E) relating to the number of children served who were placed in out-of-home care during the period in which entities provided services under this section, the number of children described in subparagraph (C) who were reunited with their families, and the number of children described in subparagraph (C) who were permanently placed in out-of-home care, respectively.
+Subsec. (m)(3)(C) to (E). Pub. L. 106–310, §3106(h)(2)(C), struck out subpars. (C) to (E) relating to the number of children served who were placed in out-of-home care during the period in which entities provided services under this section, the number of children described insubparagraph (C) who were reunited with their families, and the number of children described in subparagraph (C) who were permanently placed in out-of-home care, respectively.
 
 Subsec. (m)(4). Pub. L. 106–310, §3106(h)(3), struck out par. (4) relating to an analysis of the access provided to, and use of, related services and alcohol and drug treatment through programs carried out under this section.
 

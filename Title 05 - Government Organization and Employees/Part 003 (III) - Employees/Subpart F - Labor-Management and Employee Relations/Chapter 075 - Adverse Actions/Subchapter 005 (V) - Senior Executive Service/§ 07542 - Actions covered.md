@@ -6,9 +6,9 @@ This subchapter applies to a removal from the civil service or suspension for mo
 
 #### Amendments
 
-1989—Pub. L. 101–12 substituted “1215” for “1206”.
+<b>1989</b>—Pub. L. 101–12 substituted “1215” for “1206”.
 
-1981—Pub. L. 97–35 inserted reference to section 3595 of this title.
+<b>1981</b>—Pub. L. 97–35 inserted reference to section 3595 of this title.
 
 #### Effective Date of 1989 Amendment
 

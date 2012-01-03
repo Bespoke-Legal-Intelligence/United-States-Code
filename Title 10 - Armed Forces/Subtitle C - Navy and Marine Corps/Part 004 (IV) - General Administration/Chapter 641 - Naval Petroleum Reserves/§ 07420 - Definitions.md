@@ -106,7 +106,7 @@ Distribution of Remaining Funds.—Section 35 of the Mineral Leasing Act (30 U.S
 
 “(a)
 
-Conveyance.—Effective on the date of the enactment of this Act \[Aug. 8, 2005\], there is conveyed to theCity of Taft, California (in this section referred to as the ‘City’), all surface right, title, and interest of the United States in and to a parcel of real property consisting of approximately 220 acres located in the NE1/4, the NE1/4 of the NW1/4, and the N1/2 of the SE1/4 of the NW1/4 of section 18, township 32 south, range 24 east, Mount Diablo meridian, Kern County, California.
+Conveyance.—Effective on the date of the enactment of this Act \[Aug. 8, 2005\], there is conveyed to theCity of Taft, California (in this section referred to as the ‘City’), all surface right, title, and interest of the United States in and to a parcel of real property consisting of approximately 220 acres located in the NE¼, the NE¼ of the NW¼, and the N½ of the SE¼ of the NW¼ of section 18, township 32 south, range 24 east, Mount Diablo meridian, Kern County, California.
 
 “(b)
 
@@ -236,7 +236,7 @@ Conveyance.—(1) Except as provided in paragraph (2) and subsection (e), all ri
 
 &emsp;“(B) The land (including surface and mineral rights) to the west of the Green River within NOSR–2, as depicted on the map.
 
-&emsp;“(C) A 1/4 mile scenic easement on the east side of the Green River within NOSR–2.
+&emsp;“(C) A ¼ mile scenic easement on the east side of the Green River within NOSR–2.
 
 “(c)
 
@@ -278,7 +278,7 @@ Royalty.—(1) Notwithstanding the conveyance under subsection (b), the United S
 
 “(f)
 
-River Management.—(1) The Tribe shall manage, under Tribal jurisdiction and in accordance with ordinances adopted by the Tribe, land of the Tribe that is adjacent to, and within 1/4 mile of, the Green River in a manner that—
+River Management.—(1) The Tribe shall manage, under Tribal jurisdiction and in accordance with ordinances adopted by the Tribe, land of the Tribe that is adjacent to, and within ¼ mile of, the Green River in a manner that—
 
 &emsp;“(A) maintains the protected status of the land; and
 

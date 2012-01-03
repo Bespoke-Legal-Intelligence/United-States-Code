@@ -40,17 +40,17 @@ This chapter, referred to in subsec. (b), was in the original, “this Act”, m
 
 #### Amendments
 
-2003—Subsec. (e)(4). Pub. L. 108–177 inserted “when Department of Defense activities are relevant to the determination” after “Secretary of Defense” and “and the Secretary of Homeland Security” after “Attorney General”.
+<b>2003</b>—Subsec. (e)(4). Pub. L. 108–177 inserted “when Department of Defense activities are relevant to the determination” after “Secretary of Defense” and “and the Secretary of Homeland Security” after “Attorney General”.
 
-1999—Subsec. (e). Pub. L. 106–120 added subsec. (e).
+<b>1999</b>—Subsec. (e). Pub. L. 106–120 added subsec. (e).
 
-1994—Subsec. (a)(2). Pub. L. 103–416 substituted “or” for “and” before “(F)”.
+<b>1994</b>—Subsec. (a)(2). Pub. L. 103–416 substituted “or” for “and” before “(F)”.
 
-1991—Subsec. (a)(2). Pub. L. 102–232 inserted “and” before “(F)” and struck out “; (G) who, regardless of whether he is within any of the other provisions of thissection, is a member of or affiliated with any Communist-action organization during the time it is registered or required to be registered under the provisions of section 786 of title 50; or (H) who, regardless of whether he is within any of the other provisions of this section, is a member of or affiliated with any Communist-front organization during the time it is registered or required to be registered under section 786 of title 50” after “may hereafter adopt”.
+<b>1991</b>—Subsec. (a)(2). Pub. L. 102–232 inserted “and” before “(F)” and struck out “; (G) who, regardless of whether he is within any of the other provisions of thissection, is a member of or affiliated with any Communist-action organization during the time it is registered or required to be registered under the provisions of section 786 of title 50; or (H) who, regardless of whether he is within any of the other provisions of this section, is a member of or affiliated with any Communist-front organization during the time it is registered or required to be registered under section 786 of title 50” after “may hereafter adopt”.
 
-1990—Subsec. (c). Pub. L. 101–649 substituted “application” for “petition” wherever appearing.
+<b>1990</b>—Subsec. (c). Pub. L. 101–649 substituted “application” for “petition” wherever appearing.
 
-1988—Subsec. (a)(2)(D). Pub. L. 100–525 substituted “party of” for “party or”.
+<b>1988</b>—Subsec. (a)(2)(D). Pub. L. 100–525 substituted “party of” for “party or”.
 
 #### Change of Name
 

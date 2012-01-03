@@ -146,7 +146,7 @@ For purposes of this section—
 
 #### (C) Adjusted basis
 
-&emsp;&emsp;For purposes of subparagraph (A), the adjusted basis of any building shall not include so much of the basis of such building as is determined by reference to the basis of other property held at any time by the person acquiring the building.
+&emsp;&emsp;For purposes of subparagraph (A), the adjusted basis of any building shall not includeso much of the basis of such building as is determined by reference to the basis of other property held at any time by the person acquiring the building.
 
 #### (D) Special rules for subparagraph (B)
 
@@ -200,7 +200,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraphs (B) and (C), the adjusted basis of any buildingshall be determined without regard to the adjusted basis of any property which is not residential rental property.
+&emsp;&emsp;Except as provided in subparagraphs (B) and (C), the adjusted basis of any building shall be determined without regard to the adjusted basis of any property which is not residential rental property.
 
 #### (B) Basis of property in common areas, etc., included
 
@@ -294,7 +294,7 @@ For purposes of this section—
 
 #### (B) Buildings acquired from insured depository institutions in default
 
-&emsp;&emsp;On application by the taxpayer, the Secretary may waive paragraph (2)(B)(ii) with respect to any building acquired from an insured depository institution in default (as defined in section 3 of the Federal Deposit Insurance Act) or from a receiver or conservator of such an institution.
+&emsp;&emsp;On application by the taxpayer, the Secretary may waive paragraph (2)(B)(ii) withrespect to any building acquired from an insured depository institution in default (as defined in section 3 of the Federal Deposit Insurance Act) or from a receiver or conservator of such an institution.
 
 #### (C) Federally- or State-assisted building
 
@@ -356,7 +356,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) The requirement of this subclause is met if such amount is not less than 20 percent of the adjusted basis of the building (determined as of the 1st day of such period and without regard to paragraphs (2) and (3) of section 1016(a)).
 
-&emsp;&emsp;&emsp;&emsp;(II) The requirement of this subclause is met if the qualified basis attributableto such amount, when divided by the number of low-income units in the building, is $6,000 or more.
+&emsp;&emsp;&emsp;&emsp;(II) The requirement of this subclause is met if the qualified basis attributable to such amount, when divided by the number of low-income units in the building, is $6,000 or more.
 
 #### (B) Exception from 10 percent rehabilitation
 
@@ -378,7 +378,7 @@ For purposes of this section—
 
 #### (4) Special rules
 
-&emsp;For purposes of applying this section with respect to expenditures which are treated as a separate building by reason of this subsection—
+&emsp;For purposes of applying this section with respect to expenditures which are treated as aseparate building by reason of this subsection—
 
 &emsp;&emsp;(A) such expenditures shall be treated as placed in service at the close of the 24-month period referred to in paragraph (3)(A), and
 
@@ -510,7 +510,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) In the case of a unit which has 1 or more separate bedrooms, 1.5 individuals for each separate bedroom.
 
-> &emsp;&emsp;In the case of a project with respect to which a credit is allowable by reason of this section and for which financing is provided by abond described in section 142(a)(7), the imputed income limitation shall apply in lieu of the otherwise applicable income limitation for purposes of applying section 142(d)(4)(B)(ii).
+> &emsp;&emsp;In the case of a project with respect to which a credit is allowable by reason of this section and for which financing is provided by a bond described in section 142(a)(7), the imputed income limitation shall apply in lieu of the otherwise applicable income limitation for purposes of applying section 142(d)(4)(B)(ii).
 
 #### (D) Treatment of units occupied by individuals whose incomes rise above limit
 
@@ -648,7 +648,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;An allocation meets the requirements of this subparagraph if such allocation ismade with respect to a qualified building which is placed in service not later than the close of the second calendar year following the calendar year in which the allocation is made.
+&emsp;&emsp;&emsp;An allocation meets the requirements of this subparagraph if such allocation is made with respect to a qualified building which is placed in service not later than the close of the second calendar year following the calendar year in which the allocation is made.
 
 #### (ii) Qualified building
 
@@ -742,7 +742,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The aggregate housing credit dollar amount for any constitutional home rule city for any calendar year shall be an amount which bears the same ratio to the State housing credit ceiling for such calendar year as—
+&emsp;&emsp;&emsp;The aggregate housing credit dollar amount for any constitutional home rulecity for any calendar year shall be an amount which bears the same ratio to the State housing credit ceiling for such calendar year as—
 
 &emsp;&emsp;&emsp;&emsp;(I) the population of such city, bears to
 
@@ -806,7 +806,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Not more than 90 percent of the State housing credit ceiling for any State for anycalendar year shall be allocated to projects other than qualified low-income housing projects described in subparagraph (B).
+&emsp;&emsp;Not more than 90 percent of the State housing credit ceiling for any State for any calendar year shall be allocated to projects other than qualified low-income housing projects described in subparagraph (B).
 
 #### (B) Projects involving qualified nonprofit organizations
 
@@ -956,7 +956,7 @@ For purposes of this section—
 
 #### (A) Building must be located within jurisdiction of credit agency
 
-&emsp;&emsp;A housing credit agency may allocate its aggregate housing credit dollar amount onlyto buildings located in the jurisdiction of the governmental unit of which such agency is a part.
+&emsp;&emsp;A housing credit agency may allocate its aggregate housing credit dollar amount only to buildings located in the jurisdiction of the governmental unit of which such agency is a part.
 
 #### (B) Agency allocations in excess of limit
 
@@ -978,7 +978,7 @@ For purposes of this section—
 
 #### (iii) Determination of credit amount
 
-&emsp;&emsp;&emsp;The credit amount determined in accordance with this clause is the amount of the credit which would (but for this subparagraph) be determined under this section with respect to the building if—
+&emsp;&emsp;&emsp;The credit amount determined in accordance with this clause is the amount of thecredit which would (but for this subparagraph) be determined under this section with respect to the building if—
 
 &emsp;&emsp;&emsp;&emsp;(I) this section were applied without regard to paragraphs (2)(A) and (3)(B) of subsection (f), and
 
@@ -1236,7 +1236,7 @@ For purposes of this section—
 
 #### (B) Statute of limitations
 
-&emsp;&emsp;If a building (or an interest therein) is disposed of during any taxable year and there is any reduction in the qualified basis of such building which results in an increase in tax under this subsection for such taxable or any subsequent taxable year, then—
+&emsp;&emsp;If a building (or an interest therein) is disposed of during any taxable year and there isany reduction in the qualified basis of such building which results in an increase in tax under this subsection for such taxable or any subsequent taxable year, then—
 
 &emsp;&emsp;&emsp;(i) the statutory period for the assessment of any deficiency with respect to such increase in tax shall not expire before the expiration of 3 years from the date the Secretary is notified by the taxpayer (in such manner as the Secretary may prescribe) of such reduction in qualified basis, and
 
@@ -1304,7 +1304,7 @@ For purposes of this section—
 
 #### (B) Applicable portion
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “applicable portion” means the aggregate decrease in the credits allowed to a taxpayer under section 38 for all prior taxable years which would have resulted if the eligible basis of the building were reduced by the amount of financing which does not meet requirements of paragraph (2)(D).
+&emsp;&emsp;For purposes of subparagraph (A), the term “applicable portion” means the aggregate decrease in the credits allowed to a taxpayer under section 38 for all prior taxable yearswhich would have resulted if the eligible basis of the building were reduced by the amount of financing which does not meet requirements of paragraph (2)(D).
 
 #### (C) Certain rules to apply
 
@@ -1362,7 +1362,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) such amount was allocated pursuant to a qualified allocation plan of the housing credit agency which is approved by the governmental unit (in accordance with rules similar to the rules of section 147(f)(2) (other than subparagraph (B)(ii) thereof)) of which such agency is a part,
 
-&emsp;&emsp;&emsp;(ii) such agency notifies the chief executive officer (or the equivalent) of the localjurisdiction within which the building is located of such project and provides such individual a reasonable opportunity to comment on the project,
+&emsp;&emsp;&emsp;(ii) such agency notifies the chief executive officer (or the equivalent) of the local jurisdiction within which the building is located of such project and provides such individual a reasonable opportunity to comment on the project,
 
 &emsp;&emsp;&emsp;(iii) a comprehensive market study of the housing needs of low-income individuals in the area to be served by the project is conducted before the credit allocation is made and at the developer's expense by a disinterested party who is approved by such agency, and
 
@@ -1454,7 +1454,7 @@ For purposes of this section—
 
 #### (n) Regulations
 
-The Secretary shall prescribe such regulations as may be necessary or appropriate to carry outthe purposes of this section, including regulations—
+The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations—
 
 &emsp;(1) dealing with—
 
@@ -1468,7 +1468,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;(4) providing the opportunity for housing credit agencies to correct administrative errors and omissions with respect to allocations and record keeping within a reasonable period after their discovery, taking into account the availability of regulations and other administrative guidance from the Secretary.
 
-(Added Pub. L. 99–514, title II, §252(a), Oct. 22, 1986, 100 Stat. 2189; amended Pub. L. 99–509, title VIII, §8072(a), Oct. 21, 1986, 100 Stat. 1964; Pub. L. 100–647, title I, §§1002(<i>l</i>)(1)–(25), (32), 1007(g)(3)(B), title IV, §§4003(a), (b)(1), (3), 4004(a), Nov. 10, 1988, 102 Stat. 3373–3381, 3435, 3643, 3644; Pub. L. 101–239, title VII, §§7108(a)(1), (b)–(e)(2), (f)–(m), (n)(2)–(q), 7811(a), 7831(c), 7841(d)(13)–(15), Dec. 19, 1989, 103 Stat. 2306–2321, 2406, 2426, 2429; Pub. L. 101–508, title XI, §§11407(a)(1), (b)(1)–(9), 11701(a)(1)–(3)(A), (4), (5)(A), (6)–(10), 11812(b)(3), 11813(b)(3), Nov. 5, 1990, 104 Stat. 1388–474, 1388–475, 1388–505 to 1388–507, 1388–535, 1388–551; Pub. L. 102–227, title I, §107(a), Dec. 11, 1991, 105 Stat. 1687; Pub. L. 103–66, title XIII, §13142(a)(1), (b)(1)–(5), Aug. 10, 1993, 107 Stat. 437–439; Pub. L. 104–188, title I, §1704(t)(53), (64), Aug. 20, 1996, 110 Stat. 1890; Pub. L. 105–206, title VI, §6004(g)(5), July 22, 1998, 112 Stat. 796; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 106–554, §1(a)(7) \[title I, §§131(a)–(c), 132–136\], Dec. 21, 2000, 114 Stat. 2763, 2763A–610 to 2763A–613; Pub. L. 107–147, title IV, §417(2), (3), Mar. 9, 2002, 116 Stat. 56; Pub. L. 108–311, title II, §207(8), title IV, §408(a)(3), Oct. 4, 2004, 118 Stat. 1177, 1191; Pub. L. 110–142, §6(a), Dec. 20, 2007, 121 Stat. 1806; Pub. L. 110–289, div. C, title I, §§3001–3002(b), 3003(a)–(g), 3004(a)–(g), 3007(b), July 30, 2008, 122 Stat. 2878–2884, 2886; Pub. L. 111–5, div. B, title I, §1404, Feb. 17, 2009, 123 Stat. 352.)
+(Added Pub. L. 99–514, title II, §252(a), Oct. 22, 1986, 100 Stat. 2189; amended Pub. L. 99–509, title VIII, §8072(a), Oct. 21, 1986, 100 Stat. 1964; Pub. L. 100–647, title I, §§1002(<i>l</i>)(1)–(25), (32), 1007(g)(3)(B), title IV, §§4003(a), (b)(1), (3), 4004(a), Nov. 10, 1988, 102 Stat. 3373–3381, 3435, 3643, 3644; Pub. L. 101–239, title VII, §§7108(a)(1), (b)–(e)(2), (f)–(m), (n)(2)–(q), 7811(a), 7831(c), 7841(d)(13)–(15), Dec. 19, 1989, 103 Stat. 2306–2321, 2406, 2426, 2429; Pub. L. 101–508, title XI, §§11407(a)(1), (b)(1)–(9), 11701(a)(1)–(3)(A), (4), (5)(A), (6)–(10), 11812(b)(3), 11813(b)(3), Nov. 5, 1990, 104 Stat. 1388–474, 1388–475, 1388–505 to 1388–507, 1388–535, 1388–551; Pub. L. 102–227, title I, §107(a), Dec. 11, 1991, 105 Stat. 1687; Pub. L. 103–66, title XIII, §13142(a)(1), (b)(1)–(5), Aug. 10, 1993, 107 Stat. 437–439; Pub. L. 104–188, title I, §1704(t)(53), (64), Aug. 20, 1996, 110 Stat. 1890; Pub. L. 105–206, title VI, §6004(g)(5), July 22, 1998, 112 Stat. 796; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 106–554, §1(a)(7) \[title I, §§131(a)–(c), 132–136\], Dec. 21, 2000, 114 Stat. 2763, 2763A–610 to 2763A–613; Pub. L. 107–147, title IV, §417(2), (3), Mar. 9, 2002, 116 Stat. 56; Pub. L. 108–311, title II, §207(8), title IV, §408(a)(3), Oct. 4, 2004, 118 Stat. 1177, 1191; Pub. L. 110–142, §6(a), Dec. 20, 2007, 121 Stat. 1806; Pub. L.110–289, div. C, title I, §§3001–3002(b), 3003(a)–(g), 3004(a)–(g), 3007(b), July 30, 2008, 122 Stat. 2878–2884, 2886; Pub. L. 111–5, div. B, title I, §1404, Feb. 17, 2009, 123 Stat. 352.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -1582,7 +1582,7 @@ Subsec. (m)(1)(C)(ix), (x). Pub. L. 110–289, §3004(d), added cls. (ix) and (x
 
 Subsec. (i)(3)(D)(ii)(I). Pub. L. 108–311, §207(8), inserted “, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof” after “section 152”.
 
-<b>2002</b>—Subsec. (h)(3)(C). Pub. L. 107–147, §417(2), substituted “the amounts described in clauses (ii) through (iv) over the aggregate housing credit dollar amount allocated for such year” for “the amounts described in clauses (ii) and (iii) over the aggregate housing creditdollar amount allocated for such year” in concluding provisions.
+<b>2002</b>—Subsec. (h)(3)(C). Pub. L. 107–147, §417(2), substituted “the amounts described in clauses (ii) through (iv) over the aggregate housing credit dollar amount allocated for such year” for “the amounts described in clauses (ii) and (iii) over the aggregate housing credit dollar amount allocated for such year” in concluding provisions.
 
 Subsec. (m)(1)(B)(ii)(II), (III). Pub. L. 107–147, §417(3), struck out second “and” at end of subcl. (II) and inserted “and” at end of subcl. (III).
 
@@ -1844,7 +1844,7 @@ Subsec. (i)(6). Pub. L. 101–239, §7831(c)(3), added par. (6).
 
 Subsec. (i)(8). Pub. L. 101–239, §7108(q), added par. (8).
 
-Subsec. (k)(2)(D). Pub. L. 101–239, §7108(<i>o</i>), added provision at end relating to the applicability of cl. (ii) toqualified nonprofit organizations not described in section 46(c)(8)(D)(iv)(II) with respect to a building.
+Subsec. (k)(2)(D). Pub. L. 101–239, §7108(<i>o</i>), added provision at end relating to the applicability of cl. (ii) to qualified nonprofit organizations not described in section 46(c)(8)(D)(iv)(II) with respect to a building.
 
 Subsec. (<i>l</i>)(1). Pub. L. 101–239, §7108(p), in introductory provisions, substituted “Following” for “Not later than the 90th day following” and inserted “at such time and” before “in such form”.
 
@@ -1950,7 +1950,7 @@ Subsec. (j)(4)(F). Pub. L. 100–647, §1002(<i>l</i>)(20), added subpar. (F).
 
 Subsec. (j)(5)(B). Pub. L. 100–647, §4004(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “This paragraph shall apply to any partnership—
 
-&emsp;“(i) more than 1/2 the capital interests, and more than 1/2 the profit interests, in which are owned by a group of 35 or more partners each of whom is a natural person or an estate, and
+&emsp;“(i) more than ½ the capital interests, and more than ½ the profit interests, in which are owned by a group of 35 or more partners each of whom is a natural person or an estate, and
 
 &emsp;“(ii) which elects the application of this paragraph.”
 
@@ -1966,7 +1966,7 @@ Subsec. (<i>l</i>)(2), (3). Pub. L. 100–647, §1002(<i>l</i>)(24)(A), added pa
 
 Subsec. (n). Pub. L. 100–647, §4003(b)(3), amended subsec. (n) generally, substituting a single par. for former pars. (1) and (2).
 
-Subsec. (n)(1). Pub. L. 100–647, §1002(<i>l</i>)(25), inserted “, and, except for any building described in paragraph (2)(B), subsection (h)(4) shall not apply to any building placed in service after 1989” after “year after 1989”.
+Subsec. (n)(1). Pub. L. 100–647, §1002(<i>l</i>)(25), inserted “, and, except for any building described in paragraph\(2)(B), subsection (h)(4) shall not apply to any building placed in service after 1989” after “year after 1989”.
 
 <b>1986</b>—Subsec. (k)(1). Pub. L. 99–509 substituted “subparagraphs (D)(ii)(II) and (D)(iv)(I)” for “subparagraph (D)(iv)(I)”.
 
@@ -2082,7 +2082,7 @@ Section 107(b) of Pub. L. 102–227 provided that: “The amendments made by thi
 
 #### Effective Date of 1990 Amendment
 
-Section 11407(a)(3) of Pub. L. 101–508 provided that: “The amendments made by this subsection \[amending this section and repealing provisions set out below\] shall apply to calendar years after 1989.”
+Section 11407(a)(3) of Pub. L. 101–508 provided that: “The amendments made by this subsection \[amendingthis section and repealing provisions set out below\] shall apply to calendar years after 1989.”
 
 Section 11407(b)(10) of Pub. L. 101–508 provided that:
 
@@ -2144,7 +2144,7 @@ Buildings not subject to allocation limits.—Except as otherwise provided in th
 
 “(3)
 
-One-year carryover of unused credit authority, etc.—The amendments made by subsection (b) \[amending this section\] shall apply to calendar years after 1989, but clauses (ii), (iii), and (iv) of section42(h)(3)(C) of such Code (as added by this section) shall be applied without regard to allocations for 1989 or any preceding year.
+One-year carryover of unused credit authority, etc.—The amendments made by subsection (b) \[amending this section\] shall apply to calendar years after 1989, but clauses (ii), (iii), and (iv) of section 42(h)(3)(C) of such Code (as added by this section) shall be applied without regard to allocations for 1989 or any preceding year.
 
 “(4)
 
@@ -2266,7 +2266,7 @@ Return of Unused Grant Funds.—Any grant funds not used to make subawards under
 
 “(e)
 
-Definitions.—Any term used in this section which is also used in section 42 of the Internal Revenue Code of 1986 shall have the same meaning for purposes of this section as when used in such section 42. Any reference in this section to the Secretary of the Treasury shall be treated as including the Secretary's delegate.
+Definitions.—Any term used in this section which is also used in section 42 of the Internal Revenue Code of 1986 shall have the same meaning for purposesof this section as when used in such section 42. Any reference in this section to the Secretary of the Treasury shall be treated as including the Secretary's delegate.
 
 “(f)
 
@@ -2384,7 +2384,7 @@ In general.—There is hereby allocated to each housing credit agency described 
 
 Housing credit agencies described.—The housing credit agencies described in this subparagraph are:
 
-&emsp;&emsp;“(i) A corporate governmental agency constituted as a public benefit corporation and established in 1971 under the provisions of Article XII of the Private Housing Finance Law of the State.
+&emsp;&emsp;“(i) A corporate governmental agency constituted as a public benefit corporation and established in1971 under the provisions of Article XII of the Private Housing Finance Law of the State.
 
 &emsp;&emsp;“(ii) A city department established on December 20, 1979, pursuant to chapter XVIII of a municipal code of such city for the purpose of supervising and coordinating the formation and execution of projects and programs affecting housing within such city.
 

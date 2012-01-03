@@ -72,7 +72,7 @@ Pub. L. 100–242, title I, §125, Feb. 5, 1988, 101 Stat. 1847, provided that:
 
 “(a)
 
-Establishment.—The Secretary of Housing and Urban Development shall establish a demonstration program through the assistance of an appropriate technology transfer organization that specializes in producing detailed energy-efficient designs and in conducting local and statewide, public participation tests for energy efficient, needs-oriented housing. The appropriate technology organization shall carry out the demonstration working through and with public housing agencies to build and test a variety of energy-efficient housing designs in 100 separate housing units in 4 different States that meet local lower income housing needs (including single parent, disabled, and elderly concerns) through a composite ranging from single to 12-plexunits in the cluster approach on vacant lots and open areas.
+Establishment.—The Secretary of Housing and Urban Development shall establish a demonstration program through the assistance of an appropriate technology transfer organization that specializes in producing detailed energy-efficient designs and in conducting local and statewide, public participation tests for energy efficient, needs-oriented housing. The appropriate technology organization shall carry out the demonstration working through and with public housing agencies to build and test a variety of energy-efficient housing designs in 100 separate housing units in 4 different States that meet local lower income housing needs (including single parent, disabled, and elderly concerns) through a composite ranging from single to 12-plex units in the cluster approach on vacant lots and open areas.
 
 “(b)
 

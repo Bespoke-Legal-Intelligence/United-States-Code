@@ -8,7 +8,7 @@ For the purpose of encouraging and facilitating the development and implementati
 
 &emsp;(2) The Governor of each State, within sixty days after publication of the guidelines issued pursuant to paragraph (1) of this subsection, shall identify each area within the State which, as a result of urban-industrial concentrations or other factors, has substantial water quality control problems. Not later than one hundred and twenty days following such identification and after consultation with appropriate elected and other officials of local governments having jurisdiction in such areas, the Governor shall designate (A) the boundaries of each such area, and (B) a single representative organization, including elected officials from local governments or their designees, capable of developing effective areawide waste treatment management plans for such area. The Governor may in the same manner at any later time identify any additional area (or modify an existing area) for which he determines areawide waste treatment management to be appropriate, designate the boundaries of such area, and designate an organization capable of developing effective areawide waste treatment management plans for such area.
 
-&emsp;(3) With respect to any area which, pursuant to the guidelines published under paragraph (1) of this subsection, is located in two or more States, the Governors of the respective States shall consult and cooperate in carrying out the provisions of paragraph (2), with a view toward designating the boundaries of the interstate area having common water quality control problems and for which areawide wastetreatment management plans would be most effective, and toward designating, within one hundred and eighty days after publication of guidelines issued pursuant to paragraph (1) of this subsection, of a single representative organization capable of developing effective areawide waste treatment management plans for such area.
+&emsp;(3) With respect to any area which, pursuant to the guidelines published under paragraph (1) of this subsection, is located in two or more States, the Governors of the respective States shall consult and cooperate in carrying out the provisions of paragraph (2), with a view toward designating the boundaries of the interstate area having common water quality control problems and for which areawide waste treatment management plans would be most effective, and toward designating, within one hundred and eighty days after publication of guidelines issued pursuant to paragraph (1) of this subsection, of a single representative organization capable of developing effective areawide waste treatment management plans for such area.
 
 &emsp;(4) If a Governor does not act, either by designating or determining not to make a designation under paragraph (2) of this subsection, within the time required by such paragraph, or if, in the case of an interstate area, the Governors of the States involved do not designate a planning organization within the time required by paragraph (3) of this subsection, the chief elected officials of local governments within an area may by agreement designate (A) the boundaries for such an area, and (B) a single representative organization including elected officials from such local governments, or their designees, capable of developing an areawide waste treatment management plan for such area.
 
@@ -34,7 +34,7 @@ For the purpose of encouraging and facilitating the development and implementati
 
 &emsp;&emsp;(i) implement the waste treatment management requirements of section 1281(c) of this title,
 
-&emsp;&emsp;(ii) regulate the location, modification, and construction of any facilities within such area which may result in any discharge in such area, and
+&emsp;&emsp;(ii) regulate the location, modification, and construction of any facilities withinsuch area which may result in any discharge in such area, and
 
 &emsp;&emsp;(iii) assure that any industrial or commercial wastes discharged into any treatment works in such area meet applicable pretreatment requirements;
 
@@ -106,7 +106,7 @@ For the purpose of encouraging and facilitating the development and implementati
 
 #### (d) Conformity of works with area plan
 
-After a waste treatment management agency having the authority required by subsection (c) of this section has been designated under such subsection for an area and a plan for such areahas been approved under subsection (b) of this section, the Administrator shall not make any grant for construction of a publicly owned treatment works under section 1281(g)(1) of this title within such area except to such designated agency and for works in conformity with such plan.
+After a waste treatment management agency having the authority required by subsection (c) of this section has been designated under such subsection for an area and a plan for such area has been approved under subsection (b) of this section, the Administrator shall not make any grant for construction of a publicly owned treatment works under section 1281(g)(1) of this title within such area except to such designated agency and for works in conformity with such plan.
 
 #### (e) Permits not to conflict with approved plans
 
@@ -128,7 +128,7 @@ The Administrator is authorized, upon request of the Governor or the designated 
 
 (1) The Secretary of the Army, acting through the Chief of Engineers, in cooperation with the Administrator is authorized and directed, upon request of the Governor or the designated planning organization, to consult with, and provide technical assistance to, any agency designed <sup>1</sup> under subsection (a) of this section in developing and operating a continuing areawide waste treatment management planning process under subsection (b) of this section.
 
-(2) There is authorized to be appropriated to the Secretary of the Army, to carry out this subsection, not to exceed $50,000,000 per fiscal year for the fiscal years ending June 30, 1973, and June 30, 1974.
+(2) There is authorized to be appropriated to the Secretary of the Army, to carry out this subsection, not to exceed $50,000,000 per fiscalyear for the fiscal years ending June 30, 1973, and June 30, 1974.
 
 #### (i) State best management practices program
 
@@ -174,7 +174,7 @@ Public Law 83–566, referred to in subsec. (j)(8), is act Aug. 4, 1954, ch. 656
 
 #### Amendments
 
-<b>1987</b>—Subsec. (f)(3). Pub. L. 100–4, §101(d), struck out “and” after “1974,” and “1980,” and inserted “, andsuch sums as may be necessary for fiscal years 1983 through 1990” after “1982”.
+<b>1987</b>—Subsec. (f)(3). Pub. L. 100–4, §101(d), struck out “and” after “1974,” and “1980,” and inserted “, and such sums as may be necessary for fiscal years 1983 through 1990” after “1982”.
 
 Subsec. (j)(9). Pub. L. 100–4, §101(e), struck out “and” after “1981,” and inserted “and such sums as may be necessary for fiscal years 1983 through 1990,” after “1982,”.
 

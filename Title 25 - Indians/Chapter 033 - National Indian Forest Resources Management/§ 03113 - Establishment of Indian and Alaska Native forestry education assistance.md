@@ -22,7 +22,7 @@
 
 (2) The cooperative educational program that is to be maintained under paragraph (1) shall be modeled on and shall have essentially the same features of the program operated on November 28, 1990, pursuant to chapter 308 of the Federal Personnel Manual of the Office of Personnel Management.
 
-(3) Under the cooperative agreement program that is to be maintained under paragraph (1), theSecretary shall pay all costs for tuition, books, and fees of an Indian or Alaska Native student who—
+(3) Under the cooperative agreement program that is to be maintained under paragraph (1), the Secretary shall pay all costs for tuition, books, and fees of an Indian or Alaska Native student who—
 
 &emsp;(A) is enrolled in a course of study at an education institution with which the Secretary has entered into a cooperative agreement, and
 

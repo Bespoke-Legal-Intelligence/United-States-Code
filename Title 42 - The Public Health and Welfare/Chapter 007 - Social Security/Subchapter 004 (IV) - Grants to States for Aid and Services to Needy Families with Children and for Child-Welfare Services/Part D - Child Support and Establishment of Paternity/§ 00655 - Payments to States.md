@@ -4,7 +4,7 @@
 
 (1) From the sums appropriated therefor, the Secretary shall pay to each State for each quarter an amount—
 
-&emsp;(A) equal to the percent specified in paragraph (2) of the total amounts expended by such State during such quarter for the operation of the plan approved under section 654 of this title,
+&emsp;(A) equal to the percent specified in paragraph (2) of the total amounts expended bysuch State during such quarter for the operation of the plan approved under section 654 of this title,
 
 &emsp;(B) equal to the percent specified in paragraph (3) of the sums expended during such quarter that are attributable to the planning, design, development, installation or enhancement of an automatic data processing and information retrieval system (including in such sums the full cost of the hardware components of such system); and <sup>1</sup>
 
@@ -24,7 +24,7 @@
 
 (3)(A) The Secretary shall pay to each State, for each quarter in fiscal years 1996 and 1997, 90 percent of so much of the State expenditures described in paragraph (1)(B) as the Secretary finds are for a system meeting the requirements specified in section 654(16) of this title (as in effect on September 30, 1995) but limited to the amount approved for States in the advance planning documents of such States submitted on or before September 30, 1995.
 
-(B)(i) The Secretary shall pay to each State or system described in clause (iii), for each quarterin fiscal years 1996 through 2001, the percentage specified in clause (ii) of so much of the State or system expenditures described in paragraph (1)(B) as the Secretary finds are for a system meeting the requirements of sections 654(16) and 654a of this title.
+(B)(i) The Secretary shall pay to each State or system described in clause (iii), for each quarter in fiscal years 1996 through 2001, the percentage specified in clause (ii) of so much of the State or system expenditures described in paragraph (1)(B) as the Secretary finds are for a system meeting the requirements of sections 654(16) and 654a of this title.
 
 (ii) The percentage specified in this clause is 80 percent.
 
@@ -106,7 +106,7 @@
 
 (1) Prior to the beginning of each quarter, the Secretary shall estimate the amount to which a State will be entitled under subsection (a) of this section for such quarter, such estimates to be based on (A) a report filed by the State containing its estimate of the total sum to be expended in such quarter in accordance with the provisions of such subsection, and stating the amount appropriated or made available by the State and its political subdivisions for such expenditures in such quarter, and if such amount is less than the State's proportionate share of the total sum of such estimated expenditures, the source or sources from which the difference is expected to be derived, and (B) such other investigation as the Secretary may find necessary.
 
-(2) Subject to subsection (d) of this section, the Secretary shall then pay, in such installments as he may determine, to the State the amount so estimated, reduced or increased to the extent of any overpayment or underpayment which the Secretary determines was made under this section to such State for any prior quarter and with respect to which adjustment has not already been made under this subsection.
+(2) Subject to subsection (d) of this section, the Secretary shall then pay, in such installments as he may determine, to the State the amount so estimated, reduced or increased to the extent of any overpayment or underpayment which the Secretary determines was made under this section to such State for any prior quarterand with respect to which adjustment has not already been made under this subsection.
 
 (3) Upon the making of any estimate by the Secretary under this subsection, any appropriations available for payments under this section shall be deemed obligated.
 
@@ -178,7 +178,7 @@ Subsec. (b). Pub. L. 104–193, §375(b), added subsec. (b) relating to direct F
 
 Subsec. (e)(1). Pub. L. 104–193, §395(d)(1)(E), substituted “noncustodial parents” for “absent parents”.
 
-<b>1988</b>—Subsec. (a)(1). Pub. L. 100–485, §123(c), which directed striking subpars. (A) and (B), redesignating subpar. (C) as (A), striking “(rather than the percentage specified in subparagraph (A))” and inserting “and” after the semicolon in subpar. (A), and adding new subpar. (B) which read “equal to the percent specified inparagraph (2) of the total amounts expended by such State during such quarter for the operation of the plan approved under section 654 of this title;”, was repealed by Pub. L. 104–193, §344(c).
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–485, §123(c), which directed striking subpars. (A) and (B), redesignating subpar. (C) as (A), striking “(rather than the percentage specified in subparagraph (A))” and inserting “and” after the semicolon in subpar. (A), and adding new subpar. (B) which read “equal to the percent specified in paragraph (2) of the total amounts expended by such State during such quarter for the operation of the plan approved under section 654 of this title;”, was repealed by Pub. L. 104–193, §344(c).
 
 Subsec. (a)(1)(C). Pub. L. 100–485, §112(a), added subpar. (C).
 
@@ -252,7 +252,7 @@ Section 123(c) of Pub. L. 100–485 which provided that the amendment made by th
 
 Amendment by section 4(a) of Pub. L. 98–378 applicable to fiscal years after fiscal year 1983, see section 4(c) of Pub. L. 98–378, set out as a note under section 652 of this title.
 
-Amendment by section 6(b) of Pub. L. 98–378 applicable with respect to quarters beginning on or after Oct.1, 1984, see section 6(c) of Pub. L. 98–378, set out as a note under section 654 of this title.
+Amendment by section 6(b) of Pub. L. 98–378 applicable with respect to quarters beginning on or after Oct. 1, 1984, see section 6(c) of Pub. L. 98–378, set out as a note under section 654 of this title.
 
 #### Effective Date of 1982 Amendment
 

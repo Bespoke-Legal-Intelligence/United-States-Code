@@ -40,7 +40,7 @@ The remedy provided by this section is in addition to any other remedies availab
 
 #### References in Text
 
-The National Housing Act, referred to in subsecs. (a) and (c), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to this chapter (§1701 et seq.). Title II of the National Housing Act is classified generally to this subchapter (§1707 et seq.).For complete classification of this Act to the Code, see section 1701 of this title and Tables.
+The National Housing Act, referred to in subsecs. (a) and (c), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to this chapter (§1701 et seq.). Title II of the National Housing Act is classified generally to this subchapter (§1707 et seq.). For complete classification of this Act to the Code, see section 1701 of this title and Tables.
 
 #### Codification
 
@@ -48,11 +48,11 @@ Section was enacted as part of the Housing and Community Development Act of 1987
 
 #### Amendments
 
-2005—Subsec. (a)(1)(A). Pub. L. 109–115, §324(1), inserted “or, at the time of the violations, was” after “is”.
+<b>2005</b>—Subsec. (a)(1)(A). Pub. L. 109–115, §324(1), inserted “or, at the time of the violations, was” after “is”.
 
 Subsec. (a)(1)(C). Pub. L. 109–115, §324(2), inserted “or, at the time of the violations, was insured or held” after “held”.
 
-2004—Subsec. (a)(1). Pub. L. 108–447, §220(3), substituted “property” for “project” in second sentence.
+<b>2004</b>—Subsec. (a)(1). Pub. L. 108–447, §220(3), substituted “property” for “project” in second sentence.
 
 Subsec. (a)(1)(A). Pub. L. 108–447, §220(1), inserted “, nursing home, intermediate care facility, board and care home, assisted living facility, or hospital” after “project”.
 
@@ -64,7 +64,7 @@ Subsec. (c). Pub. L. 108–447, §220(5), substituted “property that the court
 
 Subsec. (d). Pub. L. 108–447, §220(6), substituted “a property's” for “project”.
 
-1997—Subsec. (a)(1). Pub. L. 105–65, §563(1), substituted “(B) a regulatory agreement that applies to a multifamily project whose mortgage is insured or held by the Secretary under section 1701q of this title (including property subject to section 1701q of this title as it existed before November 28, 1990); (C) a regulatory agreement or such other form of regulatory control as may be imposed by the Secretary that applies to mortgages insured or held by the Secretary under section 542 of the Housing and Community Development Act of 1992, but not reinsured under section 542 of the Housing and Community Development Act of 1992; or (D)” for “or (B)” in first sentence and inserted “, or such other form of regulatory control as may be imposed by the Secretary,” after “regulatory agreement” in second sentence.
+<b>1997</b>—Subsec. (a)(1). Pub. L. 105–65, §563(1), substituted “(B) a regulatory agreement that applies to a multifamily project whose mortgage is insured or held by the Secretary under section 1701q of this title (including property subject to section 1701q of this title as it existed before November 28, 1990); (C) a regulatory agreement or such other form of regulatory control as may be imposed by the Secretary that applies to mortgages insured or held by the Secretary under section 542 of the Housing and Community Development Act of 1992, but not reinsured under section 542 of the Housing and Community Development Act of 1992; or (D)” for “or (B)” in first sentence and inserted “, or such other form of regulatory control as may be imposed by the Secretary,” after “regulatory agreement” in second sentence.
 
 Subsec. (a)(2). Pub. L. 105–65, §563(2), inserted “under section 1701q of this title (including section 1701q of this title as it existed before November 28, 1990) and under section 542 of the Housing and Community Development Act of 1992,” after “title II of National Housing Act,”.
 

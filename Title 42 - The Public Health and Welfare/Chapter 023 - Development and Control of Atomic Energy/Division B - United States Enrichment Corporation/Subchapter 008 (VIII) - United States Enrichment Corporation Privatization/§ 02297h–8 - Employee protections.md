@@ -18,7 +18,7 @@
 
 &emsp;(B) abide by the terms of the predecessor contractor's collective bargaining agreement until the agreement expires or a new agreement is signed.
 
-(5) In the event of a plant closing or mass layoff (as such terms are defined in section 2101(a)(2) and (3) of title 29) at either of the gaseous diffusion plants, the Secretary of Energy shall treat any adversely affected employee of an operating contractor at either plant who was an employee at such plant on July 1, 1993, as a Department of Energy employee for purposes of sections 3161 and 3162 of the National DefenseAuthorization Act for Fiscal Year 1993 (42 U.S.C. 7274h–7274i).<sup>1</sup>
+(5) In the event of a plant closing or mass layoff (as such terms are defined in section 2101(a)(2) and (3) of title 29) at either of the gaseous diffusion plants, the Secretary of Energy shall treat any adversely affected employee of an operating contractor at either plant who was an employee at such plant on July 1, 1993, as a Department of Energy employee for purposes of sections 3161 and 3162 of the National Defense Authorization Act for Fiscal Year 1993 (42 U.S.C. 7274h–7274i).<sup>1</sup>
 
 (6)(A) The Secretary and the private corporation shall cause the post-retirement health benefits plan provider (or its successor) to continue to provide benefits for eligible persons, as described under subparagraph (B), employed by an operating contractor at either of the gaseous diffusion plants in an economically efficient manner and at substantially the same level of coverage as eligible retirees are entitled to receive on the privatization date.
 

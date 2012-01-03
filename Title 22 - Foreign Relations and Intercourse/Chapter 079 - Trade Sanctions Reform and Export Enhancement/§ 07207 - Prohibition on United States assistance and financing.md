@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(B) Financing by third country financial institutions (excluding United States persons or Government of Cuba entities), except that such financing may be confirmed or advised by a United States financial institution.
 
-> &emsp;Nothing in this paragraph authorizes payment terms or trade financing involving a debit or credit to an account of a person located inCuba or of the Government of Cuba maintained on the books of a United States depository institution.
+> &emsp;Nothing in this paragraph authorizes payment terms or trade financing involving a debit or credit to an account of a person located in Cuba or of the Government of Cuba maintained on the books of a United States depository institution.
 
 #### (2) Penalties
 
@@ -64,7 +64,7 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Presidential Determination on Sudan
 
-Determination of the President of the United States, No. 2011–05, Nov. 19, 2010, 75 F.R 75865, provided:
+Determination of President of the United States, No. 2011–05, Nov. 19, 2010, 75 F.R 75865, provided:
 
 Memorandum for the Secretary of State \[and the\] President of the Export-Import Bank of the United States
 

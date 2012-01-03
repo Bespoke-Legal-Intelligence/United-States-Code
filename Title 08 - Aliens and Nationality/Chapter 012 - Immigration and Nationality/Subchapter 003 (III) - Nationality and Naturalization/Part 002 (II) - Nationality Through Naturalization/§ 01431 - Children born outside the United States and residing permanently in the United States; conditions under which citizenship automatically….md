@@ -14,7 +14,7 @@
 
 #### Amendments
 
-2000—Pub. L. 106–395 amended section catchline and text generally. Prior to amendment, text read as follows:
+<b>2000</b>—Pub. L. 106–395 amended section catchline and text generally. Prior to amendment, text read as follows:
 
 “(a) A child born outside of the United States, one of whose parents at the time of the child's birth was an alien and the other of whose parents then was and never thereafter ceased to be a citizen of the United States, shall, if such alien parent is naturalized, become a citizen of the United States, when—
 
@@ -24,15 +24,15 @@
 
 “(b) Subsection (a) of this section shall apply to an adopted child only if the child is residing in the United States at the time of naturalization of such adoptive parent, in the custody of his adoptive parents, pursuant to a lawful admission for permanent residence.”
 
-1988—Subsec. (a)(1). Pub. L. 100–525, §8(<i>l</i>), repealed Pub. L. 99–653, §14. See 1986 Amendment note below.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–525, §8(<i>l</i>), repealed Pub. L. 99–653, §14. See 1986 Amendment note below.
 
 Subsec. (b). Pub. L. 100–525, §9(w), substituted “Subsection (a)” for “Subsection (a)(1)”.
 
-1986—Subsec. (a)(1). Pub. L. 99–653, §14, which inserted “unmarried and” after “such child is”, was repealed by Pub. L. 100–525, §8(<i>l</i>).
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–653, §14, which inserted “unmarried and” after “such child is”, was repealed by Pub. L. 100–525, §8(<i>l</i>).
 
-1981—Subsec. (b). Pub. L. 97–116 substituted “an adopted child only if the child” for “a child adopted while under the age of sixteen years who”.
+<b>1981</b>—Subsec. (b). Pub. L. 97–116 substituted “an adopted child only if the child” for “a child adopted while under the age of sixteen years who”.
 
-1978—Subsec. (a). Pub. L. 95–417 substituted in pars. (1) and (2) “eighteen years” for “sixteen years”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–417 substituted in pars. (1) and (2) “eighteen years” for “sixteen years”.
 
 Subsec. (b). Pub. L. 95–417 substituted provisions making subsec. (a)(1) of this section applicable to adopted children for provisions making subsec. (a) of this section inapplicable to adopted children.
 

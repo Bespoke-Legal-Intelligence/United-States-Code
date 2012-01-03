@@ -8,7 +8,7 @@ The Valles Caldera Trust shall terminate at the end of the twentieth full fiscal
 
 #### (1) Board
 
-&emsp;(A) If after the fourteenth full fiscal years <sup>1</sup> from the date of acquisition of the Baca ranch under section 698v–2(a) of this title, the Board believes the Trust has met the goals and objectives of the comprehensive management program under section 698v–6(d) of this title, but has not become financially self-sustaining, the Board may submit to the Committees of Congress, a recommendation for authorization of appropriations beyond that provided under sections 698v to 698v–10 of this title.
+&emsp;(A) If after the fourteenth full fiscal years <sup>1</sup> from the date of acquisition of the Baca ranch under section 698v–2(a) of this title, the Board believes the Trust has met the goals and objectives of the comprehensive management program under section 698v–6(d) of this title, but has not become financially self-sustaining,the Board may submit to the Committees of Congress, a recommendation for authorization of appropriations beyond that provided under sections 698v to 698v–10 of this title.
 
 &emsp;(B) During the eighteenth full fiscal year from the date of acquisition of the Baca ranch under section 698v–2(a) of this title, the Board shall submit to the Secretary its recommendation that the Trust be either extended or terminated including the reasons for such recommendation.
 

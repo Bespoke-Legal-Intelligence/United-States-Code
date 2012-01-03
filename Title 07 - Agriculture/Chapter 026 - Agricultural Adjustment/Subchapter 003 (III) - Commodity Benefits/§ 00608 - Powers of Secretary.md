@@ -66,7 +66,7 @@ Section as originally enacted consisted of subsections (1) to (5). Act Aug. 24, 
 
 #### Amendments
 
-1935—Subsec. (1) was, together with subsecs. (2) to (9), inserted in lieu of former (1) by section 2 of act Aug. 24, 1935, which also struck out former (1) as amended by acts May 9, 1934, and March 18, 1935.
+<b>1935</b>—Subsec. (1) was, together with subsecs. (2) to (9), inserted in lieu of former (1) by section 2 of act Aug. 24, 1935, which also struck out former (1) as amended by acts May 9, 1934, and March 18, 1935.
 
 Subsec. (2) was, together with subsecs. (1) and (3) to (9), inserted in lieu of former (1) by section 2 of act Aug. 24, 1935. Former subsec. (2), as amended by act Apr. 7, 1934, was designated section 8b of the Agricultural Adjustment Act, section 608b of this title, and amended by section 4 of said act Aug. 24, 1935.
 
@@ -78,7 +78,7 @@ Subsec. (5) was, together with subsecs. (1) to (4) and (6) to (9), inserted in l
 
 Subsecs. (6) to (9) were, together with subsecs. (1) to (5), inserted in lieu of former (1) by section 2 of act Aug. 24, 1935.
 
-1934—Act May 9, 1934, amended subsec. (1) generally.
+<b>1934</b>—Act May 9, 1934, amended subsec. (1) generally.
 
 Act Apr. 7, 1934, amended subsec. (2) by striking out proviso.
 

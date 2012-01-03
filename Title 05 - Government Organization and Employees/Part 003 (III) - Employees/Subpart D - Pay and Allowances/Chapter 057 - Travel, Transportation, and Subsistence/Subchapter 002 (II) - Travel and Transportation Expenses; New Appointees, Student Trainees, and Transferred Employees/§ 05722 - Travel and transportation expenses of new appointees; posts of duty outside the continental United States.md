@@ -14,7 +14,7 @@
 
 &emsp;(2) 12 months after his appointment, if selected for appointment to any other position;
 
-> unless separated for reasons beyond his control which are acceptable to the agency concerned. If the individual violates the agreement, themoney spent by the Government for the expenses is recoverable from the individual as a debt due the Government.
+> unless separated for reasons beyond his control which are acceptable to the agency concerned. If the individual violates the agreement, the money spent by the Government for the expenses is recoverable from the individual as a debt due the Government.
 
 (c) An agency may pay expenses under subsection (a)(2) of this section only after the individual has served for a minimum period of—
 
@@ -54,11 +54,11 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1998—Subsec. (a)(2). Pub. L. 105–264, §6(2)(A), substituted “continental United States;” for “United States;”.
+<b>1998</b>—Subsec. (a)(2). Pub. L. 105–264, §6(2)(A), substituted “continental United States;” for “United States;”.
 
 Subsec. (b). Pub. L. 105–264, §6(2)(B), substituted “Government” for “United States” in two places in concluding provisions.
 
-1996—Subsec. (a). Pub. L. 104–201, §1723(b)(1), in introductory provisions, substituted “Under regulations prescribed under section 5738 of this title” for “Under such regulations as the President may prescribe”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–201, §1723(b)(1), in introductory provisions, substituted “Under regulations prescribed under section 5738 of this title” for “Under such regulations as the President may prescribe”.
 
 Subsec. (a)(3). Pub. L. 104–201, §1715(b)(1), added par. (3).
 

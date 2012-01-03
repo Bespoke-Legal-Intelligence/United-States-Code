@@ -58,7 +58,7 @@ Agricultural real estate that is acquired by an institution of the System as a r
 
 #### (3) Mandatory lease
 
-&emsp;An institution of the System receiving an offer from the previous owner to lease theproperty at a rate equivalent to the appraised rental value of the property shall, within 15 days after the receipt of such offer, accept such offer and lease the property to the previous owner unless the institution determines that the previous owner—
+&emsp;An institution of the System receiving an offer from the previous owner to lease the property at a rate equivalent to the appraised rental value of the property shall, within 15 days after the receipt of such offer, accept such offer and lease the property to the previous owner unless the institution determines that the previous owner—
 
 &emsp;&emsp;(A) does not have the resources available to conduct a successful farming or ranching operation; or
 
@@ -126,7 +126,7 @@ This section shall not apply to a bank for cooperatives.
 
 #### Amendments
 
-1988—Pub. L. 100–233 amended section generally. Prior to amendment, section read as follows: “No institution of the Farm Credit System shall sell any real property that previously served as security for a loan in a tract larger than a normal family size farm in the vicinity of the property for less than the amount it can receive from the Capital Corporation.”
+<b>1988</b>—Pub. L. 100–233 amended section generally. Prior to amendment, section read as follows: “No institution of the Farm Credit System shall sell any real property that previously served as security for a loan in a tract larger than a normal family size farm in the vicinity of the property for less than the amount it can receive from the Capital Corporation.”
 
 Subsec. (b)(2). Pub. L. 100–399, §104(a), substituted “30” for “15”.
 

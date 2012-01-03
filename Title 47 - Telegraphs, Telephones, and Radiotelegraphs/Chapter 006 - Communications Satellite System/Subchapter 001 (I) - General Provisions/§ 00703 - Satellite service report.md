@@ -2,7 +2,7 @@
 
 #### (a) Annual report
 
-The Federal Communications Commission shall review competitive market conditions with respect to domestic and international satellite communications services and shall include in an annual report an analysis of those conditions.The Commission shall transmit a copy of the report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Energy and Commerce.
+The Federal Communications Commission shall review competitive market conditions with respect to domestic and international satellite communications services and shall include in an annual report an analysis of those conditions. The Commission shall transmit a copy of the report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Energy and Commerce.
 
 #### (b) Content
 

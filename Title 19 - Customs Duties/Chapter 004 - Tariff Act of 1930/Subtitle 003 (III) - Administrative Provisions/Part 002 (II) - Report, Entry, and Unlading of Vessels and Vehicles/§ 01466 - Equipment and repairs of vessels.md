@@ -66,7 +66,7 @@ The duty imposed by subsection (a) of this section shall not apply to—
 
 &emsp;(1) the cost of any equipment, or any part of equipment, purchased for, or the repair parts or materials to be used, or the expense of repairs made in a foreign country with respect to, LASH (Lighter Aboard Ship) barges documented under the laws of the United States and utilized as cargo containers;
 
-&emsp;(2) the cost of spare repair parts or materials (other than nets or nettings) which the owner or master of the vessel certifies are intended for use aboard a cargo vessel, documented under the laws of the United States and engaged in the foreign or coasting trade, for installation or use on such vessel, as needed, inthe United States, at sea, or in a foreign country, but only if duty is paid under appropriate commodity classifications of the Harmonized Tariff Schedule of the United States upon first entry into the United States of each such spare part purchased in, or imported from, a foreign country;
+&emsp;(2) the cost of spare repair parts or materials (other than nets or nettings) which the owner or master of the vessel certifies are intended for use aboard a cargo vessel, documented under the laws of the United States and engaged in the foreign or coasting trade, for installation or use on such vessel, as needed, in the United States, at sea, or in a foreign country, but only if duty is paid under appropriate commodity classifications of the Harmonized Tariff Schedule of the United States upon first entry into the United States of each such spare part purchased in, or imported from, a foreign country;
 
 &emsp;(3) the cost of spare parts necessarily installed before the first entry into the United States, but only if duty is paid under appropriate commodity classifications of the Harmonized Tariff Schedule of the United States upon first entry into the United States of each such spare part purchased in, or imported from, a foreign country; or
 
@@ -104,7 +104,7 @@ Subsec. (g). Pub. L. 96–609 added subsec. (g).
 
 <b>1979</b>—Subsec. (f). Pub. L. 96–39 added subsec. (f).
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–410, §206(1), incorporated seizure and forfeiture provision formerly a part of first sentence in an inserted second sentence; substituted therein “willfully or knowingly” for “willfully and knowingly” and “such vessel, or a monetary amount up to the value thereof as determined by the Secretary, to be recovered from the owner, shall be subject to seizure and forfeiture” for “such vessel, with her tackle, apparel, and furniture, shall be seized and forfeited”; and authorized the seizure and forfeiture for making false statements in respect of purchases or repairs or aiding or procuring the making of false statements.
+<b>1978</b>—Subsec. (a). Pub. L. 95–410, §206(1), incorporated seizure and forfeiture provision formerly a part of first sentence in an inserted second sentence; substituted therein “willfully or knowingly” for “willfully and knowingly” and “such vessel, or a monetary amount upto the value thereof as determined by the Secretary, to be recovered from the owner, shall be subject to seizure and forfeiture” for “such vessel, with her tackle, apparel, and furniture, shall be seized and forfeited”; and authorized the seizure and forfeiture for making false statements in respect of purchases or repairs or aiding or procuring the making of false statements.
 
 Subsecs. (b) to (e). Pub. L. 95–410, §206(2), added subsecs. (b) and (c) and redesignated former subsecs. (b) and (c) as (d) and (e), respectively.
 
@@ -266,5 +266,5 @@ Section 2 of Pub. L. 91–654 provided that:
 
 &emsp;“(2) with respect to which there would have been no duty if the amendment made by the first section of this Act applied to such entry,
 
-> shall, notwithstanding the provisions of section 514 of the Tariff Act of 1930 \[section 1514 of this title\] or anyother provision of law, be liquidated or reliquidated as though such entry had been made on the day after the date of the enactment of this Act.”
+> shall, notwithstanding the provisions of section 514 of the Tariff Act of 1930 \[section 1514 of this title\] or any other provision of law, be liquidated or reliquidated as though such entry had been made on the day after the date of the enactment of this Act.”
 

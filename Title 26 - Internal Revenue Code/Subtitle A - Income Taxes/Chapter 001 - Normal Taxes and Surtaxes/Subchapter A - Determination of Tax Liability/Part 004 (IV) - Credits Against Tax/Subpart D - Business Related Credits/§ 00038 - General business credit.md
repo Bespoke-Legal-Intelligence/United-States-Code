@@ -444,7 +444,7 @@ Subsec. (d). Pub. L. 101–508, §11813(b)(2)(D)(i), substituted “any provisio
 
 Subsec. (d)(2). Pub. L. 101–508, §11813(b)(2)(D)(ii), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The order in which credits attributable to a percentage referred to in section 46(a) are used shall be determined on the basis of the order in which such percentages are listed in section 46(a) as of the close of the taxable year in which the credit is used.”
 
-Subsec. (d)(3)(B). Pub. L. 101–508, §11813(b)(2)(D)(iii), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the employee plan percentage (as defined in section 46(a)(2)(E), as in effect onthe day before the date of the enactment of the Tax Reform Act of 1984) shall be treated as referred to after section 46(a)(2).”
+Subsec. (d)(3)(B). Pub. L. 101–508, §11813(b)(2)(D)(iii), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the employee plan percentage (as defined in section 46(a)(2)(E), as in effect on the day before the date of the enactment of the Tax Reform Act of 1984) shall be treated as referred to after section 46(a)(2).”
 
 <b>1988</b>—Subsec. (c). Pub. L. 100–647, §1007(g)(2), amended pars. (1) to (3) generally, substituting pars. (1) and (2) for former pars. (1) to (3), redesignating former par. (4) as (3), and substituting “subparagraph (B) of paragraph (1)” for “subparagraphs (A) and (B) of paragraph (1)” in subpars. (A), (B), (C), and (D).
 
@@ -534,7 +534,7 @@ Pub. L. 109–432, div. A, title IV, §405(e), Dec. 20, 2006, 120 Stat. 2958, pr
 
 Pub. L. 109–59, title XI, §11126(d), Aug. 10, 2005, 119 Stat. 1958, provided that: “The amendments made by this section \[enacting section 5011 of this title and amending this section\] shall apply to taxable years beginning after September 30, 2005.”
 
-Pub. L. 109–59, title XI, §11151(d)(2), Aug. 10, 2005, 119 Stat. 1968, provided that: “If the Energy Policy Act of 2005 \[Pub. L. 109–58, see Tables for classification\] is enacted before the date of the enactment of this Act \[Aug. 10, 2005\], for purposes of executing any amendments made by the Energy Policy Act of 2005 to section 38(b) of the Internal Revenue Code of 1986, the amendments made by section 11126(b) of this Act \[amending this section\] shall be treated as having been executed before such amendments made by the Energy Policy Act of 2005.”
+Pub. L. 109–59, title XI, §11151(d)(2), Aug. 10, 2005, 119 Stat. 1968, provided that: “If the Energy Policy Act of 2005 \[Pub. L. 109–58, see Tables for classification\] is enacted before the date of the enactment of this Act\[Aug. 10, 2005\], for purposes of executing any amendments made by the Energy Policy Act of 2005 to section 38(b) of the Internal Revenue Code of 1986, the amendments made by section 11126(b) of this Act \[amending this section\] shall be treated as having been executed before such amendments made by the Energy Policy Act of 2005.”
 
 Pub. L. 109–59, title XI, §11151(f)(3), Aug. 10, 2005, 119 Stat. 1969, provided that: “The amendments made by subsections (d)(1) and (e)(2) \[amending this section and sections 4041 and 6426 of this title\] shall take effect as if included in the provision of the Energy Tax Incentives Act of 2005 \[Pub. L. 109–58, title XIII\] to which they relate.”
 
@@ -590,11 +590,11 @@ Section 1702(i) of Pub. L. 104–188 provided that: “Except as otherwise expre
 
 #### Effective Date of 1993 Amendment
 
-Section 13303 of Pub. L. 103–66 provided that: “The amendments made by this part \[part I (§§13301–13303) ofsubchapter C of chapter 1 of title XIII of Pub. L. 103–66, enacting sections 1391 to 1394 and 1396 to 1397D of this title and amending this section and sections 39, 51, 196, 280C, and 381 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 10, 1993\].”
+Section 13303 of Pub. L. 103–66 provided that: “The amendments made by this part \[part I (§§13301–13303) of subchapter C of chapter 1 of title XIII of Pub. L. 103–66, enacting sections 1391 to 1394 and 1396 to 1397D of this title and amending this section and sections 39, 51, 196, 280C, and 381 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 10, 1993\].”
 
 Section 13322(f) of Pub. L. 103–66 provided that: “The amendments made by this section \[enacting section 45A of this title and amending this section and sections 39, 196, and 280C of this title\] shall apply to wages paid or incurred after December 31, 1993.”
 
-Section 13443(d) of Pub. L. 103–66, as amended by Pub. L. 104–188, title I, §1112(a)(2), Aug. 20, 1996, 110 Stat. 1759, provided that: “The amendments made by this section \[enacting section 45B of this title and amending this section and section 39 of this title\] shall apply with respect to taxes paid after December 31, 1993, with respect to services performed before, on, or after such date.”
+Section 13443(d) of Pub. L. 103–66, as amended by Pub. L. 104–188, title I, §1112(a)(2), Aug. 20, 1996, 110 Stat.1759, provided that: “The amendments made by this section \[enacting section 45B of this title and amending this section and section 39 of this title\] shall apply with respect to taxes paid after December 31, 1993, with respect to services performed before, on, or after such date.”
 
 #### Effective Date of 1992 Amendment
 
@@ -692,7 +692,7 @@ Payments to possessions.—
 
 &emsp;&emsp;“(A)
 
-Mirror code possessions.—The Secretary of the Treasury shall pay to each possession of the United States with a mirror code tax system amounts equal to the loss to that possession by reason of the application of this section (other than this subsection). Such amounts shall be determined by the Secretary of the Treasury based on information provided by the government of the respective possession.
+Mirror code possessions.—The Secretary of the Treasury shall pay to each possession of the United States with a mirror code tax systemamounts equal to the loss to that possession by reason of the application of this section (other than this subsection). Such amounts shall be determined by the Secretary of the Treasury based on information provided by the government of the respective possession.
 
 &emsp;&emsp;“(B)
 
@@ -796,7 +796,7 @@ Qualified Low-Income Assistance.—For purposes of this section, the term ‘qua
 
 #### Applicability of Certain Amendments by Public Law 99–514 in Relation to Treaty Obligations of United States
 
-For applicability of amendment by section 701(c)(4) of Pub. L. 99–514 notwithstanding any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title Iof Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(2), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
+For applicability of amendment by section 701(c)(4) of Pub. L. 99–514 notwithstanding any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(2), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
 
 #### Effective 15-Year Carryback of Existing Carryforwards of Steel Companies
 
@@ -804,7 +804,7 @@ Section 212 of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §100
 
 “(a)
 
-General Rule.—If a qualified corporation makes an election under this section for its 1st taxable year beginning after December 31, 1986, with respect to any portion of its existing carryforwards, the amount determined under subsection (b) shall be treated as a payment against the tax imposed by chapter 1 of the Internal Revenue Code of 1986 made by such corporation on the last day prescribed by law (without regard to extensions) for filing its return of tax under chapter 1 of such Code for such 1st taxable year.
+General Rule.—If a qualified corporation makes an election under this section for its 1st taxable yearbeginning after December 31, 1986, with respect to any portion of its existing carryforwards, the amount determined under subsection (b) shall be treated as a payment against the tax imposed by chapter 1 of the Internal Revenue Code of 1986 made by such corporation on the last day prescribed by law (without regard to extensions) for filing its return of tax under chapter 1 of such Code for such 1st taxable year.
 
 “(b)
 
@@ -912,7 +912,7 @@ Section 213 of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §100
 
 “(a)
 
-General Rule.—If a taxpayer who is a qualified farmer makes an election under this section for its 1sttaxable year beginning after December 31, 1986, with respect to any portion of its existing carryforwards, the amount determined under subsection (b) shall be treated as a payment against the tax imposed by chapter 1 of the Internal Revenue Code of 1986 made by such taxpayer on the last day prescribed by law (without regard to extensions) for filing its return of tax under chapter 1 of such Code for such 1st taxable year.
+General Rule.—If a taxpayer who is a qualified farmer makes an election under this section for its 1st taxable year beginning after December 31, 1986, with respect to any portion of its existing carryforwards, the amount determined under subsection (b) shall be treated as a payment against the tax imposed by chapter 1 of the Internal Revenue Code of 1986 made by such taxpayer on the last day prescribed by law (without regard to extensions) for filing its return of tax under chapter 1 of such Code for such 1st taxable year.
 
 “(b)
 
@@ -1004,11 +1004,11 @@ In general.—It was the intent of Congress in enacting, in the Revenue Act of 1
 
 Exceptions.—Paragraph (1) shall not apply to taxpayers who are subject to the provisions of section 46(e) of the Internal Revenue Code of 1986 (as added by section 105(c) of this Act) or to section 203(e) of the Revenue Act of 1964 (as modified by section 105(e) of this Act) \[set out as note below\].”
 
-\[Section 450(b) of Pub. L. 98–369 provided that: “The amendments made by this section \[amending this note\]shall take effect as if included in the Revenue Act of 1971.”\]
+\[Section 450(b) of Pub. L. 98–369 provided that: “The amendments made by this section \[amending this note\] shall take effect as if included in the Revenue Act of 1971.”\]
 
 #### Treatment of Investment Credit by Federal Regulatory Agencies
 
-Pub. L. 88–272, title II, §203(e), Feb. 26, 1964, 78 Stat. 35, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “It was the intent of the Congress in providing an investment credit under section 38 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] and it is the intent of the Congress in repealing the reduction in basis required by section 48(g) of such Code to provide an incentive for modernization and growth of private industry (including that portion thereof which is regulated). Accordingly, Congress does not intend that any agency or instrumentality of the United States having jurisdiction with respect to a taxpayer shall, without the consent of the taxpayer, use—
+Pub. L. 88–272, title II, §203(e), Feb. 26, 1964, 78 Stat. 35, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “It was the intent of the Congress in providing an investment credit under section 38 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] and it is the intent of the Congress in repealing the reduction in basis required by section 48(g) of such Code to provide an incentive for modernization andgrowth of private industry (including that portion thereof which is regulated). Accordingly, Congress does not intend that any agency or instrumentality of the United States having jurisdiction with respect to a taxpayer shall, without the consent of the taxpayer, use—
 
 &emsp;“(1) in the case of public utility property (as defined in section 46(c)(3)(B) of the Internal Revenue Code of 1986, more than a proportionate part (determined with reference to the average useful life of the property with respect to which the credit was allowed) of the credit against tax allowed for any taxable year by section 38 of such Code, or
 

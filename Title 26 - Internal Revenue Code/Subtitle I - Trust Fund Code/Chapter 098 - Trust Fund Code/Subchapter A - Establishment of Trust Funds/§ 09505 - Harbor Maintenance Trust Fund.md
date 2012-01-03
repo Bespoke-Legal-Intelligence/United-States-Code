@@ -30,7 +30,7 @@ Amounts in the Harbor Maintenance Trust Fund shall be available, as provided by 
 
 Section 13 of the Act of May 13, 1954, referred to in subsecs. (a)(2) and (c)(2), is classified to section 988a of Title 33, Navigation and Navigable Waters.
 
-Section 210 of the Water Resources Development Act of 1986 (as in effect on the date of the enactment of theWater Resources Development Act of 1996), referred to in subsec. (c)(1), is classified to section 2238 of Title 33, Navigation and Navigable Waters. The date of the enactment of the Water Resources Development Act of 1996 is the date of enactment of Pub. L. 104–303, which was approved Oct. 12, 1996.
+Section 210 of the Water Resources Development Act of 1986 (as in effect on the date of the enactment of the Water Resources Development Act of 1996), referred to in subsec. (c)(1), is classified to section 2238 of Title 33, Navigation and Navigable Waters. The date of the enactment of the Water Resources Development Act of 1996 is the date of enactment of Pub. L. 104–303, which was approved Oct. 12, 1996.
 
 #### Amendments
 

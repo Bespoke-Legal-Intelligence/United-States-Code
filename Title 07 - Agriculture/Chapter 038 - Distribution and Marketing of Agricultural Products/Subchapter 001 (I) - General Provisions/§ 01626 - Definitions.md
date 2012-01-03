@@ -10,7 +10,7 @@ This chapter, referred to in text inserted by Pub. L. 92–318, probably means t
 
 #### Amendments
 
-1972—Pub. L. 92–318 inserted “, and the term ‘State’ when used in this chapter shall include the Virgin Islands and Guam” before period at end.
+<b>1972</b>—Pub. L. 92–318 inserted “, and the term ‘State’ when used in this chapter shall include the Virgin Islands and Guam” before period at end.
 
 #### Effective Date of 1972 Amendment
 

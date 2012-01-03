@@ -14,7 +14,7 @@ Chief Acquisition Officer.—The term “Chief Acquisition Officer” means a Ch
 
 (b)
 
-Associate Administrator for Acquisition Workforce Programs.—The Administrator shall designate a member of the Senior Executive Service as the Associate Administrator for Acquisition Workforce Programs. The Associate Administrator shall be located in the Federal Acquisition Institute (or its successor). The Associate Administrator shall be responsible for—
+Associate Administrator for Acquisition Workforce Programs.—The Administrator shall designate a member of the Senior Executive Service as the Associate Administrator for Acquisition Workforce Programs. The Associate Administrator shall be chosen on the basis of demonstrated knowledge and expertise in acquisition, human capital, and management. The Associate Administrator shall be located in the Office of Federal Procurement Policy. The Associate Administrator shall be responsible for—
 
 &emsp;(1) supervising the acquisition workforce training fund established under section 1703(i) of this title;
 
@@ -22,9 +22,11 @@ Associate Administrator for Acquisition Workforce Programs.—The Administrator 
 
 &emsp;(3) reviewing and providing input to individual agency acquisition workforce succession plans;
 
-&emsp;(4) recommending to the Administrator and other senior government officials appropriate programs, policies, and practices to increase the quantity and quality of the Federal acquisition workforce; and
+&emsp;(4) recommending to the Administrator and other senior government officials appropriate programs, policies, and practices to increase the quantity and quality of the Federal acquisition workforce;
 
-&emsp;(5) carrying out other functions that the Administrator may assign.
+&emsp;(5) implementing workforce programs under subsections (f) through (<i>l</i>) of section 1703 of this title; and
+
+&emsp;(6) carrying out other functions that the Administrator may assign.
 
 (c)
 
@@ -50,7 +52,7 @@ Government-wide Policies and Evaluation.—The Administrator shall issue policie
 
 (e)
 
-Information on Acquisition and Contracting Training.—The Administrator shallensure that the heads of executive agencies collect and maintain standardized information on the acquisition and contracting workforce related to the implementation of subsection (c).
+Information on Acquisition and Contracting Training.—The Administrator shall ensure that the heads of executive agencies collect and maintain standardized information on the acquisition and contracting workforce related to the implementation of subsection (c).
 
 (f)
 
@@ -122,11 +124,11 @@ Training in the Acquisition of Architect and Engineering Services.—The Adminis
 
 Utilization of Recruitment and Retention Authorities.—The Administrator, in coordination with the Director of the Office of Personnel Management, shall encourage executive agencies to use existing authorities, including direct hire authority and tuition assistance programs, to recruit and retain acquisition personnel and consider recruiting acquisition personnel who may be retiring from the private sector, consistent with existing laws and regulations.
 
-(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3706; Pub. L. 111–383, div. A, title X, §1075(e)(15), Jan. 7, 2011, 124 Stat. 4375.)
+(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3706; Pub. L. 111–383, div. A, title X, §1075(e)(15), Jan. 7, 2011, 124 Stat. 4375; Pub. L. 112–81, div. A, title VIII, §864(a), Dec. 31, 2011, 125 Stat. 1522.)
 
 #### Amendments Not Shown in Text
 
-<i>Subsec. (g) of this section was derived from Pub. L. 110–417, \[div. A\], title VIII, §869, Oct. 14, 2008, 122 Stat. 4553, which was set out as a note under section 433a of former Title 41, Public Contracts, prior to being repealed and reenacted as subsec. (g) of this section by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. Section 869 of Pub. L. 110–417 was amended by Pub. L. 111–383, div. A, title X, §1075(e)(15), Jan. 7, 2011, 124 Stat. 4375. For applicability of that amendment to this section,</i><i>see section 6(a) of Pub. L. 111–350, set out as a Transitional and Savings Provisions note preceding section 101 of this title. Section 869 of Pub. L. 110–417 was amended as follows:</i>
+<i>Subsec. (g) of this section was derived from Pub. L. 110–417, \[div. A\], title VIII, §869, Oct. 14, 2008, 122 Stat. 4553, which was set out as a note under section 433a of former Title 41, Public Contracts, prior to being repealed and reenacted as subsec. (g) of this section by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. Section 869 of Pub. L. 110–417 was amended by Pub. L. 111–383, div. A, title X, §1075(e)(15), Jan. 7, 2011, 124 Stat. 4375. For applicability of that amendment to this section, see section 6(a) of Pub. L. 111–350, set out as a Transitional and Savings Provisions note preceding section 101 of this title. Section 869 of Pub. L. 110–417 was amended as follows:</i>
 
 <i>(1) in subsection (b), by striking “433(a)” and inserting “433a(a)”; and</i>
 
@@ -179,4 +181,12 @@ In subsection (f)(1), the words “Not later than 1 year after the date of the e
 In subsection (g)(2), the words “Associate Administrator” are substituted for “Associate Administrator for Acquisition Workforce Programs designated under section 855(a) of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110-181; 122 Stat. 251; 41 U.S.C. 433(a))” because of subsection (a)(1).
 
 In subsection (g)(3)(D), the reference to “section 37(j) of the Office of Federal Procurement Policy Act” is changed to “section 1703(g) of this title” to correct an error in the law.
+
+#### Amendments
+
+<b>2011</b>—Subsec. (b). Pub. L. 112–81, §864(a)(2), which directed substitution of “The Associate Administrator shall be located in the Office of Federal Procurement Policy.” for “The Associate Administrator for Acquisition Workforce Programs shall be located in the Federal Acquisition Institute (or its successor).”, was executed by making the substitution for “The Associate Administrator shall be located in the Federal Acquisition Institute (or its successor).” in introductory provisions, to reflect the probable intent of Congress.
+
+Pub. L. 112–81, §864(a)(1), inserted “The Associate Administrator shall be chosen on the basis of demonstrated knowledge and expertise in acquisition, human capital, and management.” after “Programs.” in introductory provisions.
+
+Subsec. (b)(5), (6). Pub. L. 112–81, §864(a)(3)–(5), added par. (5) and redesignated former par. (5) as (6).
 

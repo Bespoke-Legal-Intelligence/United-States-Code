@@ -50,7 +50,7 @@
 
 #### (3) Time and manner of payments to Commonwealth of Puerto Rico
 
-&emsp;The Secretary shall, subject to the provisions of subsection (b) of this section, pay to the Commonwealth for the applicable fiscal year, at such times and in such manner as the Secretary may determine, the amount estimated by the Commonwealth pursuant to subsection (b)(1)(A)(iv) of this section, reduced or increased to the extent of any prior overpayment or current underpayment which the Secretary determines has been made under this section and with respect to which adjustment has not already been made under this subsection.
+&emsp;The Secretary shall, subject to the provisions of subsection (b) of this section, pay tothe Commonwealth for the applicable fiscal year, at such times and in such manner as the Secretary may determine, the amount estimated by the Commonwealth pursuant to subsection (b)(1)(A)(iv) of this section, reduced or increased to the extent of any prior overpayment or current underpayment which the Secretary determines has been made under this section and with respect to which adjustment has not already been made under this subsection.
 
 #### (b) Plan for provision of assistance; approval; noncompliance
 
@@ -90,7 +90,7 @@
 
 Whoever knowingly and willfully embezzles, misapplies, steals, or obtains by fraud, false statement, or forgery, any funds, assets, or property provided or financed under this section shall be fined not more than $10,000 or imprisoned for not more than five years, or both, but if the value of the funds, assets or property involved is not over $200, the penalty shall be a fine of not more than $1,000 or imprisonment for not more than one year, or both.
 
-(Pub. L. 88–525, §19, as added Pub. L. 97–35, title I, §116(a)(2), Aug. 13, 1981, 95 Stat. 364; amended Pub. L. 97–253, title I, §184(a), Sept. 8, 1982, 96 Stat. 785; Pub. L. 98–204, §1, Dec. 2, 1983, 97 Stat. 1385; Pub. L. 99–114, §2, Oct. 1, 1985, 99 Stat. 488; Pub. L. 99–157, §3, Nov. 15, 1985, 99 Stat. 818; Pub. L. 99–182, §3, Dec. 13, 1985, 99 Stat. 1173; Pub. L. 99–198, title XV, §1543, Dec. 23, 1985, 99 Stat. 1589; Pub. L. 101–624, title XVII, §1762(b), Nov. 28, 1990, 104 Stat. 3804; Pub. L. 102–237, title IX, §941(9), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 103–66, title XIII, §13917, Aug. 10, 1993, 107 Stat. 674; Pub. L.104–127, title IV, §401(f), Apr. 4, 1996, 110 Stat. 1026; Pub. L. 106–387, §1(a) \[title VIII, §821\], Oct. 28, 2000, 114 Stat. 1549, 1549A–59; Pub. L. 107–171, title IV, §4124(a), May 13, 2002, 116 Stat. 324; Pub. L. 110–234, title IV, §§4115(b)(13), 4406(a)(6), May 22, 2008, 122 Stat. 1108, 1141; Pub. L. 110–246, §4(a), title IV, §§4115(b)(13), 4406(a)(6), June 18, 2008, 122 Stat. 1664, 1870, 1902.)
+(Pub. L. 88–525, §19, as added Pub. L. 97–35, title I, §116(a)(2), Aug. 13, 1981, 95 Stat. 364; amended Pub. L. 97–253, title I, §184(a), Sept. 8, 1982, 96 Stat. 785; Pub. L. 98–204, §1, Dec. 2, 1983, 97 Stat. 1385; Pub. L. 99–114, §2, Oct. 1, 1985, 99 Stat. 488; Pub. L. 99–157, §3, Nov. 15, 1985, 99 Stat. 818; Pub. L. 99–182, §3, Dec. 13, 1985, 99 Stat. 1173; Pub. L. 99–198, title XV, §1543, Dec. 23, 1985, 99 Stat. 1589; Pub. L. 101–624, title XVII, §1762(b), Nov. 28, 1990, 104 Stat. 3804; Pub. L. 102–237, title IX, §941(9), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 103–66, title XIII, §13917, Aug. 10, 1993, 107 Stat. 674; Pub. L. 104–127, title IV, §401(f), Apr. 4, 1996, 110 Stat. 1026; Pub. L. 106–387, §1(a) \[title VIII, §821\], Oct. 28, 2000, 114 Stat. 1549, 1549A–59; Pub. L. 107–171, title IV, §4124(a), May 13, 2002, 116 Stat. 324; Pub. L. 110–234, title IV, §§4115(b)(13), 4406(a)(6), May 22, 2008, 122 Stat. 1108, 1141; Pub. L. 110–246, §4(a), title IV, §§4115(b)(13), 4406(a)(6), June 18, 2008, 122 Stat. 1664, 1870, 1902.)
 
 #### Codification
 
@@ -98,9 +98,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (a)(2)(A)(ii). Pub. L. 110–246, §§4115(b)(13), 4406(a)(6), substituted “subject to the availability of appropriations under section 2027(a) of this title, for each fiscal year thereafter” for “for each of fiscal years 2004 through 2007” and “section 2012(u)(4)” for “section 2012(<i>o</i>)(4)”.
+<b>2008</b>—Subsec. (a)(2)(A)(ii). Pub. L. 110–246, §§4115(b)(13), 4406(a)(6), substituted “subject to the availability of appropriations under section 2027(a) of this title, for each fiscal year thereafter” for “for each of fiscal years 2004 through 2007” and “section 2012(u)(4)” for “section 2012(<i>o</i>)(4)”.
 
-2002—Pub. L. 107–171, §4124(a)(1), substituted “Consolidated block grants for Puerto Rico and American Samoa” for “Puerto Rico block grant” in section catchline.
+<b>2002</b>—Pub. L. 107–171, §4124(a)(1), substituted “Consolidated block grants for Puerto Rico and American Samoa” for “Puerto Rico block grant” in section catchline.
 
 Subsec. (a). Pub. L. 107–171, §4124(a)(1), inserted heading, added pars. (1) and (2), redesignated former par. (2) as (3) and inserted heading, and struck out former par. (1) which read as follows:
 
@@ -120,31 +120,31 @@ Subsec. (b). Pub. L. 107–171, §4124(a)(2), substituted “subsection (a)(2)(B
 
 Subsec. (c). Pub. L. 107–171, §4124(a)(3), substituted “subsection (a)(2)(A) of this section” for “subsection (a)(1)(A) of this section” in two places.
 
-2000—Subsec. (a)(1)(A). Pub. L. 106–387 substituted “Puerto Rico—” and cls. (i) to (iii) for “Puerto Rico $1,143,000,000 for fiscal year 1996, $1,174,000,000 for fiscal year 1997, $1,204,000,000 for fiscal year 1998, $1,236,000,000 for fiscal year 1999, $1,268,000,000 for fiscal year 2000, $1,301,000,000 for fiscal year 2001, and $1,335,000,000 for fiscal year 2002,”.
+<b>2000</b>—Subsec. (a)(1)(A). Pub. L. 106–387 substituted “Puerto Rico—” and cls. (i) to (iii) for “Puerto Rico $1,143,000,000 for fiscal year 1996, $1,174,000,000 for fiscal year 1997, $1,204,000,000 for fiscal year 1998, $1,236,000,000 for fiscal year 1999, $1,268,000,000 for fiscal year 2000, $1,301,000,000 for fiscal year 2001, and $1,335,000,000 for fiscal year 2002,”.
 
-1996—Subsec. (a)(1)(A). Pub. L. 104–127 substituted “$1,143,000,000 for fiscal year 1996, $1,174,000,000 for fiscal year 1997, $1,204,000,000 for fiscal year 1998, $1,236,000,000 for fiscal year 1999, $1,268,000,000 for fiscal year 2000, $1,301,000,000 for fiscal year 2001, and $1,335,000,000 for fiscal year 2002” for “$974,000,000 for fiscal year 1991, $1,013,000,000 for fiscal year 1992, $1,051,000,000 for fiscal year 1993, $1,097,000,000 for fiscal year 1994, and $1,143,000,000 for fiscal year 1995”.
+<b>1996</b>—Subsec. (a)(1)(A). Pub. L. 104–127 substituted “$1,143,000,000 for fiscal year 1996, $1,174,000,000 for fiscal year 1997, $1,204,000,000 for fiscal year 1998, $1,236,000,000 for fiscal year 1999, $1,268,000,000 for fiscal year 2000, $1,301,000,000 for fiscal year 2001, and $1,335,000,000 for fiscal year 2002” for “$974,000,000 for fiscal year 1991, $1,013,000,000 for fiscal year 1992, $1,051,000,000 for fiscal year 1993, $1,097,000,000 for fiscal year 1994, and $1,143,000,000 for fiscal year 1995”.
 
-1993—Subsec. (a)(1)(A). Pub. L. 103–66 substituted “$1,097,000,000” for “$1,091,000,000” and “$1,143,000,000” for “$1,133,000,000”.
+<b>1993</b>—Subsec. (a)(1)(A). Pub. L. 103–66 substituted “$1,097,000,000” for “$1,091,000,000” and “$1,143,000,000” for “$1,133,000,000”.
 
-1991—Subsec. (b)(1)(A)(i). Pub. L. 102–237 struck out a period after “directly”.
+<b>1991</b>—Subsec. (b)(1)(A)(i). Pub. L. 102–237 struck out a period after “directly”.
 
-1990—Subsec. (a)(1)(A). Pub. L. 101–624 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “From the sums appropriated under this chapter the Secretary shall, subject to the provisions of this subsection and subsection (b) of this section, pay to the Commonwealth of Puerto Rico not to exceed $825,000,000 for the fiscal year ending September 30, 1986, $852,750,000 for the fiscal year ending September 30, 1987, $879,750,000 for the fiscal year ending September 30, 1988, $908,250,000 for the fiscal year ending September 30, 1989, and $936,750,000 for the fiscal year ending September 30, 1990, to finance 100 per centum of the expenditures for food assistance provided to needy persons, and 50 per centum of the administrative expenses related to the provision of such assistance.”
+<b>1990</b>—Subsec. (a)(1)(A). Pub. L. 101–624 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “From the sums appropriated under this chapter the Secretary shall, subject to the provisions of this subsection and subsection (b) of this section, pay to the Commonwealth of Puerto Rico not to exceed $825,000,000 for the fiscal year ending September 30, 1986, $852,750,000 for the fiscal year ending September 30, 1987, $879,750,000 for the fiscal year ending September 30, 1988, $908,250,000 for the fiscal year ending September 30, 1989, and $936,750,000 for the fiscal year ending September 30, 1990, to finance 100 per centum of the expenditures for food assistance provided to needy persons, and 50 per centum of the administrative expenses related to the provision of such assistance.”
 
-1985—Subsec. (a)(1)(A). Pub. L. 99–198, §1543(1), (2), substituted “for the fiscal year ending September 30, 1986, $852,750,000 for the fiscal year ending September 30, 1987, $879,750,000 for the fiscal year ending September 30, 1988, $908,250,000 for the fiscal year ending September 30, 1989, and $936,750,000 for the fiscal year ending September 30, 1990,” for “for each fiscal year” and struck out “noncash” after “100 per centum of the expenditures for”.
+<b>1985</b>—Subsec. (a)(1)(A). Pub. L. 99–198, §1543(1), (2), substituted “for the fiscal year ending September 30, 1986, $852,750,000 for the fiscal year ending September 30, 1987, $879,750,000 for the fiscal year ending September 30, 1988, $908,250,000 for the fiscal year ending September 30, 1989, and $936,750,000 for the fiscal year ending September 30, 1990,” for “for each fiscal year” and struck out “noncash” after “100 per centum of the expenditures for”.
 
 Pub. L. 99–114, Pub. L. 99–157, and Pub. L. 99–182, made identical amendments which temporarily struck out “noncash” after “100 per centum of the expenditures for”, for specified periods of time. See Effective and Termination Dates of 1985 Amendments note below.
 
 Subsec. (b)(1)(A)(i). Pub. L. 99–198, §1543(3), substituted “the agency or agencies directly.” for “a single agency which shall be”.
 
-1983—Subsec. (a)(1)(A). Pub. L. 98–204 temporarily struck out “noncash” after “100 per centum of the expenditures for”. See Effective and Termination Dates of 1983 Amendment note below.
+<b>1983</b>—Subsec. (a)(1)(A). Pub. L. 98–204 temporarily struck out “noncash” after “100 per centum of the expenditures for”. See Effective and Termination Dates of 1983 Amendment note below.
 
-1982—Subsec. (a)(1)(A). Pub. L. 97–253 substituted “the expenditures for noncash food assistance” for “the expenditures for food assistance”.
+<b>1982</b>—Subsec. (a)(1)(A). Pub. L. 97–253 substituted “the expenditures for noncash food assistance” for “the expenditures for food assistance”.
 
 #### Effective Date of 2008 Amendment
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-Amendment by sections 4115(b)(13) and 4406(a)(6) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
+Amendment by sections 4115(b)(13) and 4406(a)(6) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 ofPub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 
 #### Effective Date of 2002 Amendment
 

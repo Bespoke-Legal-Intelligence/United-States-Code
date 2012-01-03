@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Each depository institution shall maintain a schedule of fees, charges, interest rates, and terms and conditions applicable to each class of accounts offered by the depository institution, in accordance with the requirements of this section and regulations which the Board shall prescribe. The Board shall specify, in regulations, which fees, charges, penalties, terms, conditions, and account restrictions must be included in a schedule required under this subsection. A depository institution need not include in such schedule any information not specified in such regulation.
+Each depository institution shall maintain a schedule of fees, charges, interest rates, and terms and conditions applicable to each class of accounts offered by the depository institution, in accordance with the requirements of this section and regulations which the Bureau shall prescribe. The Bureau shall specify, in regulations, which fees, charges, penalties, terms, conditions, and account restrictions must be included in a schedule required under this subsection. A depository institution need not include in such schedule any information not specified in such regulation.
 
 #### (b) Information on fees and charges
 
@@ -40,11 +40,19 @@ The schedule required under subsection (a) of this section with respect to any a
 
 #### (d) Other information
 
-The schedule required under subsection (a) of this section shall include such other disclosures as the Board may determine to be necessary to allow consumers to understand and compare accounts, including frequency of interest rate adjustments, account restrictions, and renewal policies for time accounts.
+The schedule required under subsection (a) of this section shall include such other disclosures as the Bureau may determine to be necessary to allow consumers to understand and compare accounts, including frequency of interest rate adjustments, account restrictions, and renewal policies for time accounts.
 
 #### (e) Style and format
 
 Schedules required under subsection (a) of this section shall be written in clear and plain language and be presented in a format designed to allow consumers to readily understand the terms of the accounts offered.
 
-(Pub. L. 102–242, title II, §264, Dec. 19, 1991, 105 Stat. 2335.)
+(Pub. L. 102–242, title II, §264, Dec. 19, 1991, 105 Stat. 2335; Pub. L. 111–203, title X, §1100B(1), July 21, 2010, 124 Stat. 2109.)
+
+#### Amendments
+
+<b>2010</b>—Subsecs. (a), (d). Pub. L. 111–203 substituted “Bureau” for “Board” wherever appearing.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 

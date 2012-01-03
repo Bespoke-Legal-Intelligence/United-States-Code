@@ -30,7 +30,7 @@
 
 (e) For the purposes of this section:
 
-&emsp;(1) The term “health-care item” includes any item listed in, or (as determined by the Secretary) of the same nature as an item listed in, Federal Supply Classification (FSC) Group 65 or 66. Effective December 1, 1992, such term also includes any item listed in, or (as determined by the Secretary) of the same nature as an item listed in, Federal Supply Classification (FSC) Group 73. Such term does not include perishable items.
+&emsp;(1) The term “health-care item” includes any item listed in, or (as determined by theSecretary) of the same nature as an item listed in, Federal Supply Classification (FSC) Group 65 or 66. Effective December 1, 1992, such term also includes any item listed in, or (as determined by the Secretary) of the same nature as an item listed in, Federal Supply Classification (FSC) Group 73. Such term does not include perishable items.
 
 &emsp;(2) The term “local contract” means a contract entered into by a Department medical center for procurement of an item for use by that medical center.
 
@@ -74,7 +74,7 @@ Subsec. (e)(1). Pub. L. 100–687, §1507(c), substituted “65 or 66” for “
 
 Section 403(b) of Pub. L. 100–322, as amended by Pub. L. 100–687, div. B, title XV, §1507(a), Nov. 18, 1988, 102 Stat. 4136, provided that:
 
-“(1) Subsections (a), (b)(1), and (b)(2) of section 5025 \[now 8125\] of title 38, United States Code (as added bysubsection (a)), shall take effect one year after the date of the enactment of this Act \[May 20, 1988\].
+“(1) Subsections (a), (b)(1), and (b)(2) of section 5025 \[now 8125\] of title 38, United States Code (as added by subsection (a)), shall take effect one year after the date of the enactment of this Act \[May 20, 1988\].
 
 “(2) Subsection (b)(3) of such section shall apply to health-care items procured for use by the Veterans’ Administration \[now Department of Veterans Affairs\] after September 30, 1990.”
 

@@ -142,7 +142,7 @@ Subsec. (c)(2). Pub. L. 104–235, §104(3)(G), added par. (2). Former par. (2) 
 
 Subsec. (c)(3), (4). Pub. L. 104–235, §104(3)(B), redesignated pars. (3) and (4) as (1)(C) and (1)(D), respectively.
 
-<b>1989</b>—Subsec. (b)(1). Pub. L. 101–126, §3(b)(2)(A), made technical amendment to reference to section 5105(b) ofthis title to reflect renumbering of corresponding section of original act.
+<b>1989</b>—Subsec. (b)(1). Pub. L. 101–126, §3(b)(2)(A), made technical amendment to reference to section 5105(b) of this title to reflect renumbering of corresponding section of original act.
 
 Subsec. (b)(2)(B). Pub. L. 101–126, §3(b)(2)(B), inserted “of the Child Abuse Prevention, Adoption, and Family Services Act of 1988” after “section 105(a)(1)”.
 

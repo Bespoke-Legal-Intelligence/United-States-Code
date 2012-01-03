@@ -34,7 +34,7 @@ If the Administrator proposes to release for inspection information which the ap
 
 #### (e) Disclosure to contractors
 
-Information otherwise protected from disclosure to the public under subsection (b) of this section may be disclosed to contractors with the United States and employees of such contractors if, in the opinion of the Administrator, such disclosure is necessary for the satisfactory performance by the contractor of a contract with the United States for the performance of work in connection with this subchapter and under such conditions as the Administrator may specify. The Administrator shall require as a condition to the disclosure of information under this subsection that the person receiving it take such security precautions respecting the information as the Administrator shall by regulation prescribe.
+Information otherwise protected from disclosure to the public under subsection (b) of thissection may be disclosed to contractors with the United States and employees of such contractors if, in the opinion of the Administrator, such disclosure is necessary for the satisfactory performance by the contractor of a contract with the United States for the performance of work in connection with this subchapter and under such conditions as the Administrator may specify. The Administrator shall require as a condition to the disclosure of information under this subsection that the person receiving it take such security precautions respecting the information as the Administrator shall by regulation prescribe.
 
 #### (f) Penalty for disclosure by Federal employees
 
@@ -58,17 +58,17 @@ A prior section 10 of act June 25, 1947, was classified to section 135h of this 
 
 #### Amendments
 
-1991—Subsec. (a). Pub. L. 102–237, §1006(b)(3)(J), substituted “the applicant's” for “his”.
+<b>1991</b>—Subsec. (a). Pub. L. 102–237, §1006(b)(3)(J), substituted “the applicant's” for “his”.
 
 Subsec. (b). Pub. L. 102–237, §1006(b)(2), substituted “the Administrator's” for “his”.
 
 Subsec. (c). Pub. L. 102–237, §1006(b)(1), substituted “the Administrator” for “he” before “shall notify”.
 
-1988—Subsec. (d). Pub. L. 100–532 in par. (1), substituted “public. The use” for “public: <i>Provided</i>, That the use” and “title. This paragraph” for “title: <i>Provided further</i>, That this paragraph”, and in par. (3), “notice. Where” for “notice: <i>Provided</i>, That where”.
+<b>1988</b>—Subsec. (d). Pub. L. 100–532 in par. (1), substituted “public. The use” for “public: <i>Provided</i>, That the use” and “title. This paragraph” for “title: <i>Provided further</i>, That this paragraph”, and in par. (3), “notice. Where” for “notice: <i>Provided</i>, That where”.
 
-1984—Subsec. (d)(3). Pub. L. 98–620 struck out provisions requiring the court to give expedited consideration to actions involving injunctions or limitations of proposed disclosure.
+<b>1984</b>—Subsec. (d)(3). Pub. L. 98–620 struck out provisions requiring the court to give expedited consideration to actions involving injunctions or limitations of proposed disclosure.
 
-1978—Subsec. (b). Pub. L. 95–396, §15(1), made disclosure of information by the Administrator subject to the limitations of subsecs. (d) and (e) of this section.
+<b>1978</b>—Subsec. (b). Pub. L. 95–396, §15(1), made disclosure of information by the Administrator subject to the limitations of subsecs. (d) and (e) of this section.
 
 Subsecs. (d) to (g). Pub. L. 95–396, §15(2), added subsecs. (d) to (g).
 

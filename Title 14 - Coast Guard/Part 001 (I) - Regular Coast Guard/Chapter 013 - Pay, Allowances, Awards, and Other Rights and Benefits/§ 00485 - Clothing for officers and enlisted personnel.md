@@ -18,9 +18,9 @@ Subsection (c) is new. Title 37, U.S.C., 1946 ed., §110 authorizes the payment 
 
 #### Amendments
 
-1962—Subsec. (c). Pub. L. 87–649 repealed subsec. (c) which permitted the Coast Guard to purchase uniform clothing for distribution to enlisted personnel or to pay such enlisted personnel a cash clothing allowance.
+<b>1962</b>—Subsec. (c). Pub. L. 87–649 repealed subsec. (c) which permitted the Coast Guard to purchase uniform clothing for distribution to enlisted personnel or to pay such enlisted personnel a cash clothing allowance.
 
-1950—Subsec. (c). Act Aug. 3, 1950, struck out “to” after “or”.
+<b>1950</b>—Subsec. (c). Act Aug. 3, 1950, struck out “to” after “or”.
 
 #### Effective Date of 1962 Amendment
 

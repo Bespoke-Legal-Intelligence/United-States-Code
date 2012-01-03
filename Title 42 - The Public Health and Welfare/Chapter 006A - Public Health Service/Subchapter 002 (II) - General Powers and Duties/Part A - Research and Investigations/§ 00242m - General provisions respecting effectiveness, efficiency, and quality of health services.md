@@ -22,7 +22,7 @@
 
 (2)(A) Each application submitted for a grant or contract under section 242k of this title in an amount exceeding $50,000 of direct costs and for a health services research, evaluation, or demonstration project, or for a grant under section 242k(m) of this title, shall be submitted to a peer review group for an evaluation of the technical and scientific merits of the proposals made in each such application. The Director of the National Center for Health Statistics shall establish such peer review groups as may be necessary to provide for such an evaluation of each such application.
 
-(B) A peer review group to which an application is submitted pursuant to subparagraph (A) shall report its finding and recommendations respecting the application to the Secretary, acting through the Director of the National Center for Health Statistics, in such form and manner asthe Secretary shall by regulation prescribe. The Secretary may not approve an application described in such subparagraph unless a peer review group has recommended the application for approval.
+(B) A peer review group to which an application is submitted pursuant to subparagraph (A) shall report its finding and recommendations respecting the application to the Secretary, acting through the Director of the National Center for Health Statistics, in such form and manner as the Secretary shall by regulation prescribe. The Secretary may not approve an application described in such subparagraph unless a peer review group has recommended the application for approval.
 
 (C) The Secretary, acting through the Director of the National Center for Health Statistics, shall make appointments to the peer review groups required in subparagraph (A) from among persons who are not officers or employees of the United States and who possess appropriate technical and scientific qualifications, except that peer review groups regarding grants under section 242k(m) of this title may include appropriately qualified such officers and employees.
 
@@ -40,7 +40,7 @@ No information, if an establishment or person supplying the information or descr
 
 (2) The amounts otherwise payable to any person under a grant or contract made under section 242b, 242k, or 242<i>l</i> of this title shall be reduced by—
 
-&emsp;(A) amounts equal to the fair market value of any equipment or supplies furnished to such person by the Secretary for the purpose of carrying out the project with respect to which such grant or contract is made, and
+&emsp;(A) amounts equal to the fair market value of any equipment or supplies furnished to suchperson by the Secretary for the purpose of carrying out the project with respect to which such grant or contract is made, and
 
 &emsp;(B) amounts equal to the pay, allowances, traveling expenses, and related personnel expenses attributable to the performance of services by an officer or employee of the Government in connection with such project, if such officer or employee was assigned or detailed by the Secretary to perform such services,
 
@@ -100,7 +100,7 @@ Subsec. (b)(3). Pub. L. 101–527, §7(d), struck out par. (3) which related to 
 
 <b>1989</b>—Pub. L. 101–239, §6103(e)(4)(A), amended section catchline.
 
-Subsec. (a)(1)(A)(i). Pub. L. 101–239, §6103(e)(4)(B)(i), substituted “sections 242b, 242k, and 242<i>l</i> of this title and subchapter VII of this chapter” for “sections 242b, 242c, 242k, and 242<i>l</i> of this title and section 242n of this title”.
+Subsec. (a)(1)(A)(i). Pub. L. 101–239, §6103(e)(4)(B)(i), substituted “sections 242b, 242k, and 242<i>l</i> of this title and subchapter VII of this chapter” for “sections 242b,242c, 242k, and 242<i>l</i> of this title and section 242n of this title”.
 
 Subsec. (a)(2). Pub. L. 101–239, §6103(e)(4)(B)(ii), substituted “the Agency for Health Care Policy and Research” for “the National Center for Health Services Research and Health Care Technology Assessment”.
 

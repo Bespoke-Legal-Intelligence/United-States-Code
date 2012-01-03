@@ -12,7 +12,7 @@ The Secretary, in accordance with this part, shall exercise authority over the d
 
 #### (f) Purpose of drawdown and distribution; requests for funds for storage
 
-(1) The drawdown and distribution of petroleum products from the Strategic Petroleum Reserve is authorized only under section 6241 of this title, and drawdown and distribution of petroleum products for purposes other than those described in section 6241 of this title shall be prohibited.
+(1) The drawdown and distribution of petroleum products from the Strategic Petroleum Reserve is authorized only under section 6241 ofthis title, and drawdown and distribution of petroleum products for purposes other than those described in section 6241 of this title shall be prohibited.
 
 (2) In the Secretary's annual budget submission, the Secretary shall request funds for acquisition, transportation, and injection of petroleum products for storage in the Reserve. If no requests for funds are made, the Secretary shall provide a written explanation of the reason therefore.
 
@@ -24,7 +24,7 @@ The Secretary, in accordance with this part, shall exercise authority over the d
 
 Subsec. (b). Pub. L. 106–469, §103(7)(B), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Secretary, not later than December 15, 1976, shall prepare and transmit to the Congress, in accordance with section 6421 of this title, a Strategic Petroleum Reserve Plan. Such Plan shall comply with the provisions of this section and shall detail the Secretary's proposals for designing, constructing, and filling the storage and related facilities of the Reserve.”
 
-Subsecs. (c) to (e). Pub. L. 106–469, §103(7)(C), struck out subsecs. (c) to (e) which related to the levels ofcrude oil to be stored, plan objectives, and plan provisions.
+Subsecs. (c) to (e). Pub. L. 106–469, §103(7)(C), struck out subsecs. (c) to (e) which related to the levels of crude oil to be stored, plan objectives, and plan provisions.
 
 <b>1998</b>—Subsec. (f). Pub. L. 105–177 added subsec. (f).
 

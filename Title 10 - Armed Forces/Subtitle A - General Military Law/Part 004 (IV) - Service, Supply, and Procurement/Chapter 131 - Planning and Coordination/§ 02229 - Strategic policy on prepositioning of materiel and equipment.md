@@ -16,7 +16,19 @@ Limitation of Diversion of Prepositioned Materiel.—The Secretary of a military
 
 Congressional Notification.—The Secretary of Defense may not implement or change the policy required under subsection (a) until the Secretary submits to the congressional defense committees a report describing the policy or change to the policy.
 
-(Added Pub. L. 109–364, div. A, title III, §351(a), Oct. 17, 2006, 120 Stat. 2160.)
+(d)
+
+Annual Certification.—(1) Not later than the date of the submission of the President's budget request for a fiscal year under section 1105 of title 31, the Secretary of Defense shall submit to the congressional defense committees certification <sup>1</sup> in writing that the prepositioned stocks of each of the military departments meet all operations plans, in both fill and readiness, that are in effect as of the date of the submission of the certification.
+
+(2) If, for any year, the Secretary cannot certify that any of the prepositioned stocks meet such operations plans, the Secretary shall include with the certification for that year a list of the operations plans affected, a description of any measures that have been taken to mitigate any risk associated with prepositioned stock shortfalls, and an anticipated timeframe for the replenishment of the stocks.
+
+(3) A certification under this subsection shall be in an unclassified form but may have a classified annex.
+
+(Added Pub. L. 109–364, div. A, title III, §351(a), Oct. 17, 2006, 120 Stat. 2160; amended Pub. L. 112–81, div. A, title III, §341(a), Dec. 31, 2011, 125 Stat. 1369.)
+
+#### Amendments
+
+<b>2011</b>—Subsec. (d). Pub. L. 112–81 added subsec. (d).
 
 #### Deadline for Establishment of Policy
 
@@ -53,4 +65,6 @@ Military Readiness.—The Secretary of Defense shall ensure that the preposition
 “(e)
 
 Procedures and Guidelines.—The Secretary may develop procedures and guidelines applicable to the prepositioning of basic response assets under subsection (b).”
+
+<i><sup>1</sup></i><i> So in original. Probably should be “a certification”.</i>
 

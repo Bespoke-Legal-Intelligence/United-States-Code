@@ -240,7 +240,7 @@ Report.—
 
 &emsp;“(1)
 
-In general.—Not later than 60 days after the completion of the pilot program, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the pilot program.
+In general.—Not later than 60 days after the completion of the pilot program, the Secretary shallsubmit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the pilot program.
 
 &emsp;“(2)
 

@@ -74,7 +74,7 @@ The Secretary may waive the application of subsection (a) in the case of any eli
 
 #### (2) Allocation basis
 
-&emsp;If an area career and technical education school or educational service agency meets the requirements of paragraph (1), then the amount that would otherwise be distributed to the local educational agency shall be allocated to the area career and technical education school, the educational service agency, and the local educational agency based on each school, agency or entity's relative share of students who are attending career and technical education programs (based, if practicable, on the average enrollment for the preceding 3 years).
+&emsp;If an area career and technical education school or educational service agency meets the requirements of paragraph (1), then the amount that would otherwise be distributed to the local educational agency shall be allocated to the area career and technical education school, the educational service agency, andthe local educational agency based on each school, agency or entity's relative share of students who are attending career and technical education programs (based, if practicable, on the average enrollment for the preceding 3 years).
 
 #### (3) Appeals procedure
 

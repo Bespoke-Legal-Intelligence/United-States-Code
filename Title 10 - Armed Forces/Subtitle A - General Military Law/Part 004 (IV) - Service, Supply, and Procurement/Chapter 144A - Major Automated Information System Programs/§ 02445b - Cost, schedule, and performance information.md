@@ -38,13 +38,13 @@ Baseline.—(1) For purposes of this chapter, the initial submittal to Congress 
 
 (2) An adjustment or revision of the original estimate or information originally submitted on a program may be treated as the original estimate or information originally submitted on the program if the adjustment or revision is the result of a critical change in the program covered by section 2445c(d) of this title.
 
-(3) In the event of an adjustment or revision to the original estimate or information originally submitted on a program under paragraph (2), the Secretary of Defense shall include in the next budget justification documents submitted under subsection (a) after such adjustment or revision a notification to the congressional defense committees of such adjustment or revision, together with the reasons for such adjustment or revision.
+(3) In the event of an adjustment or revision to the original estimate or information originally submitted on a program under paragraph (2), the Secretary of Defense shall include in the next budget justification documents submitted undersubsection (a) after such adjustment or revision a notification to the congressional defense committees of such adjustment or revision, together with the reasons for such adjustment or revision.
 
 (d)
 
 Elements Regarding Other Major Information Technology Investment Programs.—With respect to each other major information technology investment program, the information required by subsection (a) may be provided in the format that is most appropriate to the current status of the program.
 
-(Added Pub. L. 109–364, div. A, title VIII, §816(a)(1), Oct. 17, 2006, 120 Stat. 2323; amendedPub. L. 110–417, \[div. A\], title VIII, §812(b), Oct. 14, 2008, 122 Stat. 4525; Pub. L. 111–84, div. A, title VIII, §841(a), Oct. 28, 2009, 123 Stat. 2418; Pub. L. 111–383, div. A, title VIII, §805(b), Jan. 7, 2011, 124 Stat. 4259.)
+(Added Pub. L. 109–364, div. A, title VIII, §816(a)(1), Oct. 17, 2006, 120 Stat. 2323; amended Pub. L. 110–417, \[div. A\], title VIII, §812(b), Oct. 14, 2008, 122 Stat. 4525; Pub. L. 111–84, div. A, title VIII, §841(a), Oct. 28, 2009, 123 Stat. 2418; Pub. L. 111–383, div. A, title VIII, §805(b), Jan. 7, 2011, 124 Stat. 4259.)
 
 #### Amendments
 

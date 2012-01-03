@@ -10,7 +10,7 @@ Section is from the Congressional Operations Appropriations Act, 2001, which is 
 
 #### Amendments
 
-2003—Pub. L. 108–7 substituted “$5,000” for “$3,000”.
+<b>2003</b>—Pub. L. 108–7 substituted “$5,000” for “$3,000”.
 
 #### Effective Date of 2003 Amendment
 

@@ -58,11 +58,11 @@ This section shall not apply to—
 
 &emsp;&emsp;&emsp;(iv) any interest in a real estate investment trust, a common trust fund, a regulated investment company, a publicly-traded partnership (as defined in section 7704(b)) or any other equity interest (other than in a corporation) which pursuant to its terms or any other arrangement is readily convertible into, or exchangeable for, any asset described in any preceding clause, this clause or clause (v) or (viii),
 
-&emsp;&emsp;&emsp;(v) except to the extent provided in regulations prescribed by the Secretary, any interest in a precious metal, unless such metal is used or held in the active conduct of a trade or business after the contribution,
+&emsp;&emsp;&emsp;(v) except to the extent provided in regulations prescribed by the Secretary, any interest in a precious metal, unless suchmetal is used or held in the active conduct of a trade or business after the contribution,
 
 &emsp;&emsp;&emsp;(vi) except as otherwise provided in regulations prescribed by the Secretary, interests in any entity if substantially all of the assets of such entity consist (directly or indirectly) of any assets described in any preceding clause or clause (viii),
 
-&emsp;&emsp;&emsp;(vii) to the extent provided in regulations prescribed by the Secretary, any interest in any entity not described in clause (vi), but only to the extent of the value of such interest that is attributable to assetslisted in clauses (i) through (v) or clause (viii), or
+&emsp;&emsp;&emsp;(vii) to the extent provided in regulations prescribed by the Secretary, any interest in any entity not described in clause (vi), but only to the extent of the value of such interest that is attributable to assets listed in clauses (i) through (v) or clause (viii), or
 
 &emsp;&emsp;&emsp;(viii) any other asset specified in regulations prescribed by the Secretary.
 
@@ -140,7 +140,7 @@ If—
 
 #### (A) Preferred stock
 
-&emsp;&emsp;The term “preferred stock” means stock which is limited and preferred as to dividends and does not participate in corporate growth to any significant extent. Stock shall not be treated as participating in corporate growth to any significant extent unless there is a real and meaningful likelihood of the shareholder actually participating in the earnings and growth of the corporation. If there is not a real and meaningful likelihood that dividends beyond any limitation or preference will actually be paid, the possibility of such payments will be disregarded in determining whether stock is limited and preferred as to dividends.
+&emsp;&emsp;The term “preferred stock” means stock which is limited and preferred as to dividends and does not participate in corporate growth to any significant extent. Stock shall not be treated as participating in corporate growth to any significant extent unless there is a real and meaningful likelihood of the shareholder actually participating in the earnings and growth of the corporation. If there is not a real and meaningful likelihood that dividends beyond any limitation or preference will actually be paid, the possibility of such payments willbe disregarded in determining whether stock is limited and preferred as to dividends.
 
 #### (B) Related person
 
@@ -148,7 +148,7 @@ If—
 
 #### (4) Regulations
 
-&emsp;The Secretary may prescribe such regulations as may be necessary or appropriate to carry out the purposes of this subsection andsections 354(a)(2)(C), 355(a)(3)(D), and 356(e). The Secretary may also prescribe regulations, consistent with the treatment under this subsection and such sections, for the treatment of nonqualified preferred stock under other provisions of this title.
+&emsp;The Secretary may prescribe such regulations as may be necessary or appropriate to carry out the purposes of this subsection and sections 354(a)(2)(C), 355(a)(3)(D), and 356(e). The Secretary may also prescribe regulations, consistent with the treatment under this subsection and such sections, for the treatment of nonqualified preferred stock under other provisions of this title.
 
 #### (h) Cross references
 
@@ -236,7 +236,7 @@ Pub. L. 108–357, title VIII, §899(b), Oct. 22, 2004, 118 Stat. 1649, provided
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–36, title III, §3001(e), June 25, 1999, 113 Stat. 184, provided that: “The amendments made bythis section \[amending this section and sections 357, 358, 362, 368, 584, and 1031 of this title\] shall apply to transfers after October 18, 1998.”
+Pub. L. 106–36, title III, §3001(e), June 25, 1999, 113 Stat. 184, provided that: “The amendments made by this section \[amending this section and sections 357, 358, 362, 368, 584, and 1031 of this title\] shall apply to transfers after October 18, 1998.”
 
 #### Effective Date of 1998 Amendments
 

@@ -84,7 +84,7 @@ The Secretary of Housing and Urban Development shall, on a quarterly basis, requ
 
 #### (e) Application for property
 
-(1) A representative of the homeless may submit an application to the Secretary of Healthand Human Services for any property that is published under subsection (c)(1)(A)(ii) of this section as available for application for use to assist the homeless.
+(1) A representative of the homeless may submit an application to the Secretary of Health and Human Services for any property that is published under subsection (c)(1)(A)(ii) of this section as available for application for use to assist the homeless.
 
 (2) No later than 90 days after the submission of written notice of intent to apply for a property, an applicant shall submit a complete application to the Secretary of Health and Human Services. The Secretary of Health and Human Services shall, with the concurrence of the appropriate landholding agency, grant reasonable extensions.
 

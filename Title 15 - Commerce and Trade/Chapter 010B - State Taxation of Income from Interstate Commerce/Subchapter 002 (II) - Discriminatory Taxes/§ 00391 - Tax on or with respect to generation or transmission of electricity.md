@@ -6,5 +6,5 @@ No State, or political subdivision thereof, may impose or assess a tax on or wit
 
 #### Effective Date
 
-Section 2121(b) of Pub. L. 94–455 provided that: “The amendment made by subsection (a) \[enacting this section\] shall take effect beginning June 30, 1974.”
+Pub. L. 94–455, title XXI, §2121(b), Oct. 4, 1976, 90 Stat. 1914, provided that: “The amendment made by subsection (a) \[enacting this section\] shall take effect beginning June 30, 1974.”
 

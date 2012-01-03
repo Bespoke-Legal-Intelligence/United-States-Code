@@ -42,7 +42,7 @@ The general purpose of the Center is the conduct and support of research and res
 
 &emsp;(B) make recommendations for the coordination of such research conducted or supported by the National Institutes of Health and other agencies of the Federal Government.
 
-(3)(A) Not later than 18 months after the date of the enactment of the National Institutes ofHealth Revitalization Amendments of 1990, the Director of the Institute shall transmit the Research Plan to the Director of NIH, who shall submit the Plan to the President and the Congress.
+(3)(A) Not later than 18 months after the date of the enactment of the National Institutes of Health Revitalization Amendments of 1990, the Director of the Institute shall transmit the Research Plan to the Director of NIH, who shall submit the Plan to the President and the Congress.
 
 (B) Subparagraph (A) shall be carried out independently of the process of reporting that is required in sections 283 and 284b <sup>1</sup> of this title.
 
@@ -96,7 +96,7 @@ The general purpose of the Center is the conduct and support of research and res
 
 #### References in Text
 
-The Federal Advisory Committee Act, referred to in subsec. (c)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (c)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770,as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 The date of the enactment of the National Institutes of Health Revitalization Amendments of 1990, referred to in subsecs. (d)(3)(A) and (f)(1), probably means the date of enactment of the National Institutes of Health Amendments of 1990, Pub. L. 101–613, which was approved Nov. 16, 1990.
 

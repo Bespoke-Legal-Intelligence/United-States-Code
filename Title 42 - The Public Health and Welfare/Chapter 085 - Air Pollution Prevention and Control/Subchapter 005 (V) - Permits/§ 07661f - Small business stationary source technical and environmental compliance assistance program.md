@@ -4,7 +4,7 @@
 
 Consistent with sections 7410 and 7412 of this title, each State shall, after reasonable notice and public hearings, adopt and submit to the Administrator as part of the State implementation plan for such State or as a revision to such State implementation plan under section 7410 of this title, plans for establishing a small business stationary source technical and environmental compliance assistance program. Such submission shall be made within 24 months after November 15, 1990. The Administrator shall approve such program if it includes each of the following:
 
-&emsp;(1) Adequate mechanisms for developing, collecting, and coordinating information concerning compliance methods and technologiesfor small business stationary sources, and programs to encourage lawful cooperation among such sources and other persons to further compliance with this chapter.
+&emsp;(1) Adequate mechanisms for developing, collecting, and coordinating information concerning compliance methods and technologies for small business stationary sources, and programs to encourage lawful cooperation among such sources and other persons to further compliance with this chapter.
 
 &emsp;(2) Adequate mechanisms for assisting small business stationary sources with pollution prevention and accidental release detection and prevention, including providing information concerning alternative technologies, process changes, products, and methods of operation that help reduce air pollution.
 
@@ -60,7 +60,7 @@ The Administrator shall direct the Agency's Office of Small and Disadvantaged Bu
 
 &emsp;(1) render advisory opinions on the overall effectiveness of the Small Business Stationary Source Technical and Environmental Compliance Assistance Program, difficulties encountered, and degree and severity of enforcement;
 
-&emsp;(2) make periodic reports to the Congress on the compliance of the Small Business Stationary Source Technical and Environmental Compliance Assistance Program with the requirements of the Paperwork Reduction Act,<sup>2</sup>the Regulatory Flexibility Act \[5 U.S.C. 601 et seq.\], and the Equal Access to Justice Act;
+&emsp;(2) make periodic reports to the Congress on the compliance of the Small Business Stationary Source Technical and Environmental Compliance Assistance Program with the requirements of the Paperwork Reduction Act,<sup>2</sup> the Regulatory Flexibility Act \[5 U.S.C. 601 et seq.\], and the Equal Access to Justice Act;
 
 &emsp;(3) review information to be issued by the Small Business Stationary Source Technical and Environmental Compliance Assistance Program for small business stationary sources to ensure that the information is understandable by the layperson; and
 

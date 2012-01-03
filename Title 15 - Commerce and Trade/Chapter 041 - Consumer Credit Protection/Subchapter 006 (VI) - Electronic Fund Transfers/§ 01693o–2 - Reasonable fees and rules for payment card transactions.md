@@ -186,7 +186,7 @@
 
 #### (B) Lawful discounts
 
-&emsp;&emsp;For purposes of this paragraph, the network may not penalize any person for theproviding of a discount that is in compliance with Federal law and applicable State law.
+&emsp;&emsp;For purposes of this paragraph, the network may not penalize any person for the providing of a discount that is in compliance with Federal law and applicable State law.
 
 #### (3) Limitation on restrictions on setting transaction minimums or maximums
 

@@ -28,7 +28,7 @@ The Act entitled “An Act for the Protection of the Bald Eagle”, approved Jun
 
 The Migratory Bird Treaty Act, referred to in par. (4), is act July 3, 1918, ch. 128, 40 Stat. 755, as amended, which is classified generally to subchapter II (§703 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 710 of this title and Tables.
 
-The Federal Aid in Wildlife Restoration Act, referred to in par. (4), is act Sept. 2, 1937, ch. 899, 50 Stat. 917, as amended, also known as the Pittman-Robertson Wildlife Restoration Act, which is classified generally to chapter 5B (§669 et seq.) of this title. For completeclassification of this Act to the Code, see Short Title note set out under section 669 of this title and Tables.
+The Federal Aid in Wildlife Restoration Act, referred to in par. (4), is act Sept. 2, 1937, ch. 899, 50 Stat. 917, as amended, also known as the Pittman-Robertson Wildlife Restoration Act, which is classified generally to chapter 5B (§669 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 669 of this title and Tables.
 
 The Magnuson-Stevens Fishery Conservation and Management Act, referred to in par. (4), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
@@ -36,7 +36,7 @@ The Federal Aid in Fish Restoration Act, referred to in par. (4), is act Aug. 9,
 
 #### Amendments
 
-<b>1997</b>—Par. (5). Pub. L. 105–83, §316(b)(9), which directed amendment of section by adding par. (5) reading as follows: “prohibiting the Secretary or the State from entering into co-management agreements with Alaska Native organizations or other local or regional entities when such organization or entity is managing fish and wildlife on public lands in Alaska for subsistence uses.”, was repealed by Pub. L. 105–83, §316(d). See Effective and Termination Dates of 1997 Amendment note below.
+<b>1997</b>—Par. (5). Pub. L. 105–83, §316(b)(9), which directed amendment of section by adding par. (5) readingas follows: “prohibiting the Secretary or the State from entering into co-management agreements with Alaska Native organizations or other local or regional entities when such organization or entity is managing fish and wildlife on public lands in Alaska for subsistence uses.”, was repealed by Pub. L. 105–83, §316(d). See Effective and Termination Dates of 1997 Amendment note below.
 
 <b>1996</b>—Par. (4). Pub. L. 104–208 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
 

@@ -16,7 +16,7 @@ In this subchapter:
 
 #### (A) In general
 
-&emsp;&emsp;The term “1890 Institution” means a college or university that is eligible to receive funds under the Act of August 30, 1890 (7 U.S.C. 321 et seq.).
+&emsp;&emsp;The term “1890 Institution” means a college or university that is eligible to receivefunds under the Act of August 30, 1890 (7 U.S.C. 321 et seq.).
 
 #### (B) Inclusion
 

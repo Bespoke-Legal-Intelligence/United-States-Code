@@ -2,7 +2,7 @@
 
 #### (a) Manufacturing program
 
-(1) The Secretary of Energy shall carry out a program for purposes of establishing within the Government a manufacturing infrastructure that has the capabilities of meeting the following objectives as specified in the Nuclear Posture Review:
+(1) The Secretary of Energy shall carry out a program for purposes of establishing within theGovernment a manufacturing infrastructure that has the capabilities of meeting the following objectives as specified in the Nuclear Posture Review:
 
 &emsp;(A) To provide a stockpile surveillance engineering base.
 

@@ -66,7 +66,7 @@
 
 (B) If a supplemental report is requested under paragraph (5), the President shall take action under paragraph (1) within 30 days after the supplemental report is received, except that, in a case in which the President has proclaimed provisional relief under section 2252(d)(2)(D) of this title with respect to the article concerned, action by the President under paragraph (1) may not be taken later than the 200th day after the provisional relief was proclaimed.
 
-(5) The President may, within 15 days after the date on which he receives a report from the Commission containing an affirmative determination under section 2252(b)(1) of this title, request additional information from the Commission. The Commission shall, as soon as practicable but in no event more than 30 days after the date on which it receives the President's request, furnish additional information with respect to the industry in a supplemental report.
+(5) The President may, within 15 days after the date on which he receives a report from theCommission containing an affirmative determination under section 2252(b)(1) of this title, request additional information from the Commission. The Commission shall, as soon as practicable but in no event more than 30 days after the date on which it receives the President's request, furnish additional information with respect to the industry in a supplemental report.
 
 #### (b) Reports to Congress
 
@@ -94,7 +94,7 @@ If the President reports under subsection (b)(1) or (2) of this section that—
 
 #### (e) Limitations on actions
 
-(1)(A) Subject to subparagraph (B), the duration of the period in which an action takenunder this section may be in effect shall not exceed 4 years. Such period shall include the period, if any, in which provisional relief under section 2252(d) of this title was in effect.
+(1)(A) Subject to subparagraph (B), the duration of the period in which an action taken under this section may be in effect shall not exceed 4 years. Such period shall include the period, if any, in which provisional relief under section 2252(d) of this title was in effect.
 
 (B)(i) Subject to clause (ii), the President, after receiving an affirmative determination from the Commission under section 2254(c) of this title (or, if the Commission is equally divided in its determination, a determination which the President considers to be an affirmative determination of the Commission), may extend the effective period of any action under this section if the President determines that—
 
@@ -120,7 +120,7 @@ If the President reports under subsection (b)(1) or (2) of this section that—
 
 > shall be treated as an increase in duty.
 
-(B) No proclamation providing for a suspension referred to in subparagraph (A) with respect to any article may be made by the President, nor may any such suspension be recommended by the Commission under section 2252(e) of this title, unless the Commission, in addition to making an affirmative determination under section 2252(b)(1) of this title, determines in the course of its investigation under section 2252(b) of this title that the serious injury, or threat thereof, substantially caused by imports to the domestic industry producing a like or directly competitive article results from, as the case may be—
+(B) No proclamation providing for a suspension referred to in subparagraph (A) with respect to any article may be made by the President, nor may any such suspension be recommended by the Commission under section 2252(e) of this title, unless the Commission, in addition to making an affirmative determination under section 2252(b)(1) of this title, determines in thecourse of its investigation under section 2252(b) of this title that the serious injury, or threat thereof, substantially caused by imports to the domestic industry producing a like or directly competitive article results from, as the case may be—
 
 &emsp;(i) the application of subheading 9802.00.60 or subheading 9802.00.80 of the Harmonized Tariff Schedule of the United States; or
 
@@ -150,7 +150,7 @@ If the President reports under subsection (b)(1) or (2) of this section that—
 
 (1) The President shall by regulation provide for the efficient and fair administration of all actions taken for the purpose of providing import relief under this part.
 
-(2) In order to carry out an international agreement concluded under this part, the President may prescribe regulations governing the entry or withdrawal from warehouse of articles covered by such agreement. In addition, in order to carry out any agreement of the type described in subsection (a)(3)(E) of this section that is concluded under this part with one or more countries accounting for a major part of United States imports of the article covered bysuch agreement, including imports into a major geographic area of the United States, the President may issue regulations governing the entry or withdrawal from warehouse of like articles which are the product of countries not parties to such agreement.
+(2) In order to carry out an international agreement concluded under this part, the President may prescribe regulations governing the entry or withdrawal from warehouse of articles covered by such agreement. In addition, in order to carry out any agreement of the type described in subsection (a)(3)(E) of this section that is concluded under this part with one or more countries accounting for a major part of United States imports of the article covered by such agreement, including imports into a major geographic area of the United States, the President may issue regulations governing the entry or withdrawal from warehouse of like articles which are the product of countries not parties to such agreement.
 
 (3) Regulations prescribed under this subsection shall, to the extent practicable and consistent with efficient and fair administration, insure against inequitable sharing of imports by a relatively small number of the larger importers.
 
@@ -182,7 +182,7 @@ Subsec. (e)(2). Pub. L. 103–465, §303(9), substituted “of a type described 
 
 Subsec. (e)(4), (5). Pub. L. 103–465, §302(b)(2), (3), amended pars. (4) and (5) generally. Prior to amendment, pars. (4) and (5) read as follows:
 
-“(4) Any action taken under this section proclaiming a quantitative restriction shall permit the importation of a quantity or value of the article which is not less than the quantity or value of such article imported into the United States during the most recent period that is representative of imports of such article.
+“(4) Any action taken under this section proclaiming a quantitative restriction shall permit the importationof a quantity or value of the article which is not less than the quantity or value of such article imported into the United States during the most recent period that is representative of imports of such article.
 
 “(5) To the extent feasible, an effective period of more than 3 years for an action described in subsection (a)(3)(A), (B), or (C) of this section shall be phased down during the period in which the action is taken, with the first reduction taking effect no later than the close of the day which is 3 years after the day on which such action first takes effect.”
 

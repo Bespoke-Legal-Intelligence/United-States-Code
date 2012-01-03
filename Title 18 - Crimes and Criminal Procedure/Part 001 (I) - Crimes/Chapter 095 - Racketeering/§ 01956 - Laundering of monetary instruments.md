@@ -68,7 +68,7 @@ Federal receiver.—
 
 &emsp;&emsp;(A)
 
-In general.—A court may appoint a Federal Receiver, in accordance with subparagraph (B) of this paragraph, to collect, marshal, and take custody, control, and possession of all assets of the defendant, wherever located, to satisfy a civil judgmentunder this subsection, a forfeiture judgment under section 981 or 982, or a criminal sentence under section 1957 or subsection (a) of this section, including an order of restitution to any victim of a specified unlawful activity.
+In general.—A court may appoint a Federal Receiver, in accordance with subparagraph (B) of this paragraph, to collect, marshal, and take custody, control, and possession of all assets of the defendant, wherever located, to satisfy a civil judgment under this subsection, a forfeiture judgment under section 981 or 982, or a criminal sentence under section 1957 or subsection (a) of this section, including an order of restitution to any victim of a specified unlawful activity.
 
 &emsp;&emsp;(B)
 
@@ -112,7 +112,7 @@ Appointment and authority.—A Federal Receiver described in subparagraph (A)—
 
 &emsp;&emsp;&emsp;(ii) murder, kidnapping, robbery, extortion, destruction of property by means of explosive or fire, or a crime of violence (as defined in section 16);
 
-&emsp;&emsp;&emsp;(iii) fraud, or any scheme or attempt to defraud, by or against a foreign bank (as defined in paragraph 7 of section 1(b) of the International Banking Act of 1978)); <sup>1</sup>
+&emsp;&emsp;&emsp;(iii) fraud, or any scheme or attempt to defraud, by or against a foreign bank (asdefined in paragraph 7 of section 1(b) of the International Banking Act of 1978)); <sup>1</sup>
 
 &emsp;&emsp;&emsp;(iv) bribery of a public official, or the misappropriation, theft, or embezzlement of public funds by or for the benefit of a public official;
 
@@ -168,7 +168,7 @@ Venue.—(1) Except as provided in paragraph (2), a prosecution for an offense u
 
 (3) For purposes of this section, a transfer of funds from 1 place to another, by wire or any other means, shall constitute a single, continuing transaction. Any person who conducts (as that term is defined in subsection (c)(2)) any portion of the transaction may be charged in any district in which the transaction takes place.
 
-(Added Pub. L. 99–570, title I, §1352(a), Oct. 27, 1986, 100 Stat. 3207–18; amended Pub. L. 100–690, title VI, §§6183, 6465, 6466, 6469(a)(1), 6471(a), (b), title VII, §7031, Nov. 18, 1988, 102 Stat. 4354, 4375, 4377, 4378, 4398; Pub. L. 101–647, title I, §§105–108, title XII, §1205(j), title XIV, §§1402, 1404, title XXV, §2506, title XXXV, §3557, Nov. 29, 1990, 104 Stat. 4791, 4792, 4831, 4835, 4862, 4927; Pub. L. 102–550, title XV, §§1504(c), 1524, 1526(a), 1527(a), 1530, 1531, 1534, 1536, Oct. 28, 1992, 106 Stat. 4055, 4064–4067; Pub. L. 103–322, title XXXII, §320104(b), title XXXIII, §§330008(2), 330011(<i>l</i>), 330012, 330019, 330021(1), Sept. 13, 1994, 108 Stat. 2111, 2142, 2145, 2146, 2149, 2150; Pub. L. 103–325, title IV, §§411(c)(2)(E), 413(c)(1), (d), Sept. 23, 1994, 108 Stat. 2253–2255; Pub. L. 104–132, title VII, §726, Apr. 24, 1996, 110 Stat. 1301; Pub. L. 104–191, title II, §246, Aug. 21, 1996, 110 Stat. 2018; Pub. L. 104–294, title VI, §§601(f)(6), 604(b)(38), Oct. 11, 1996, 110 Stat. 3499, 3509; Pub. L. 106–569, title VII, §709(a), Dec. 27, 2000, 114 Stat. 3018; Pub. L. 107–56, title III, §§315, 317, 318, 376, title VIII, §805(b), title X, §1004, Oct. 26, 2001, 115 Stat. 308, 310, 311, 342, 378, 392; Pub. L. 107–273, div. B, title IV, §§4002(a)(11), (b)(5), (c)(2), 4005(d)(1), (e), Nov. 2, 2002, 116 Stat. 1807, 1809, 1812, 1813; Pub. L. 108–458, title VI, §6909, Dec. 17, 2004, 118 Stat. 3774; Pub. L. 109–164, title I, §103(b), Jan. 10, 2006, 119 Stat. 3563; Pub. L. 109–177, title III, §311(c), title IV, §§403(b), (c)(1), 405, 406(a)(2), 409, Mar. 9, 2006, 120 Stat. 242–244, 246; Pub. L. 110–234, title IV, §§4002(b)(1)(B), (D), (2)(M), 4115(c)(1)(A)(i), (B)(ii), May 22, 2008, 122 Stat. 1096, 1097, 1109; Pub. L. 110–246, §4(a), title IV, §§4002(b)(1)(B), (D), (2)(M), 4115(c)(1)(A)(i), (B)(ii), June 18, 2008, 122 Stat. 1664, 1857, 1858, 1870; Pub. L. 110–358, title II, §202, Oct. 8, 2008, 122 Stat. 4003; Pub. L. 111–21, §2(f)(1), May 20, 2009, 123 Stat. 1618.)
+(Added Pub. L. 99–570, title I, §1352(a), Oct. 27, 1986, 100 Stat. 3207–18; amended Pub. L. 100–690, title VI, §§6183, 6465, 6466, 6469(a)(1), 6471(a), (b), title VII, §7031, Nov. 18, 1988, 102 Stat. 4354, 4375, 4377, 4378, 4398; Pub. L. 101–647, title I, §§105–108, title XII, §1205(j), title XIV, §§1402, 1404, title XXV, §2506, title XXXV, §3557, Nov. 29, 1990, 104 Stat. 4791, 4792, 4831, 4835, 4862, 4927; Pub. L. 102–550, title XV, §§1504(c), 1524, 1526(a), 1527(a), 1530, 1531, 1534, 1536, Oct. 28, 1992, 106 Stat. 4055, 4064–4067; Pub. L. 103–322, title XXXII, §320104(b), title XXXIII, §§330008(2), 330011(<i>l</i>), 330012, 330019, 330021(1), Sept. 13, 1994, 108 Stat. 2111, 2142, 2145, 2146, 2149, 2150; Pub. L. 103–325, title IV, §§411(c)(2)(E), 413(c)(1), (d), Sept. 23, 1994, 108 Stat. 2253–2255; Pub. L. 104–132, title VII, §726, Apr. 24, 1996, 110 Stat. 1301; Pub. L. 104–191, title II, §246, Aug. 21, 1996, 110 Stat. 2018; Pub. L. 104–294, title VI, §§601(f)(6), 604(b)(38), Oct. 11,1996, 110 Stat. 3499, 3509; Pub. L. 106–569, title VII, §709(a), Dec. 27, 2000, 114 Stat. 3018; Pub. L. 107–56, title III, §§315, 317, 318, 376, title VIII, §805(b), title X, §1004, Oct. 26, 2001, 115 Stat. 308, 310, 311, 342, 378, 392; Pub. L. 107–273, div. B, title IV, §§4002(a)(11), (b)(5), (c)(2), 4005(d)(1), (e), Nov. 2, 2002, 116 Stat. 1807, 1809, 1812, 1813; Pub. L. 108–458, title VI, §6909, Dec. 17, 2004, 118 Stat. 3774; Pub. L. 109–164, title I, §103(b), Jan. 10, 2006, 119 Stat. 3563; Pub. L. 109–177, title III, §311(c), title IV, §§403(b), (c)(1), 405, 406(a)(2), 409, Mar. 9, 2006, 120 Stat. 242–244, 246; Pub. L. 110–234, title IV, §§4002(b)(1)(B), (D), (2)(M), 4115(c)(1)(A)(i), (B)(ii), May 22, 2008, 122 Stat. 1096, 1097, 1109; Pub. L. 110–246, §4(a), title IV, §§4002(b)(1)(B), (D), (2)(M), 4115(c)(1)(A)(i), (B)(ii), June 18, 2008, 122 Stat. 1664, 1857, 1858, 1870; Pub. L. 110–358, title II, §202, Oct. 8, 2008, 122 Stat. 4003; Pub. L. 111–21, §2(f)(1), May 20, 2009, 123 Stat. 1618.)
 
 #### References in Text
 
@@ -178,7 +178,7 @@ The Federal Rules of Civil Procedure, referred to in subsec. (b)(2), are set out
 
 The Controlled Substances Act, referred to in subsec. (c)(7)(B)(i), (D), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. Section 422 of the Act is classified to section 863 of Title 21. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
-The Chemical Diversion and Trafficking Act of 1988, referred to in subsec. (c)(7)(D), is subtitle A (§6051–6061) of title VI of Pub. L. 100–690, Nov. 18, 1988, 102 Stat. 4312. For complete classification of subtitle A to the Code,see Short Title of 1988 Amendment note set out under section 801 of Title 21, Food and Drugs, and Tables.
+The Chemical Diversion and Trafficking Act of 1988, referred to in subsec. (c)(7)(D), is subtitle A (§6051–6061) of title VI of Pub. L. 100–690, Nov. 18, 1988, 102 Stat. 4312. For complete classification of subtitle A to the Code, see Short Title of 1988 Amendment note set out under section 801 of Title 21, Food and Drugs, and Tables.
 
 Section 38(c) of the Arms Export Control Act, referred to in subsec. (c)(7)(D), is classified to section 2778(c) of Title 22, Foreign Relations and Intercourse.
 
@@ -376,7 +376,7 @@ Subsec. (e). Pub. L. 100–690, §6469(a)(1), substituted “and, with respect t
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set outas an Effective Date note under section 8701 of Title 7, Agriculture.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 Amendment by sections 4002(b)(1)(B), (D), (2)(M), and 4115(c)(1)(A)(i), (B)(ii) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 

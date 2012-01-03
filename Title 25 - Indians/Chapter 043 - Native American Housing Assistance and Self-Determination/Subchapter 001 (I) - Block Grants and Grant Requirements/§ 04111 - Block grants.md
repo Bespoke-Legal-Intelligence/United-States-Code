@@ -34,7 +34,7 @@ Notwithstanding any other provision of this chapter, grant amounts provided unde
 
 #### (d) Exemption from taxation
 
-Notwithstanding any other provision of this chapter, grant amounts provided under this chapter on behalf of an Indian tribe may not be used for affordable housing activities under this chapter for rental or lease-purchase dwelling units developed under the United States Housing Act of 1937 (42 U.S.C. 1437 et seq.) or with amounts provided under this chapter that are owned by the recipient for the tribe unless—
+Notwithstanding any other provision of this chapter, grant amounts provided under thischapter on behalf of an Indian tribe may not be used for affordable housing activities under this chapter for rental or lease-purchase dwelling units developed under the United States Housing Act of 1937 (42 U.S.C. 1437 et seq.) or with amounts provided under this chapter that are owned by the recipient for the tribe unless—
 
 &emsp;(1) such dwelling units (which, in the case of units in a multi-unit project, shall be exclusive of any portions of the project not developed under the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\] or with amounts provided under this chapter) are exempt from all real and personal property taxes levied or imposed by any State, tribe, city, county, or other political subdivision; and
 
@@ -48,7 +48,7 @@ Notwithstanding any other provision of this chapter, grant amounts provided unde
 
 #### (e) Effect of failure to exempt from taxation
 
-Notwithstanding subsection (d) of this section, a grant recipient that does not comply with therequirements under such subsection may receive a block grant under this chapter, but only if the tribe, State, city, county, or other political subdivision in which the affordable housing development is located contributes, in the form of cash or tax remission, the amount by which the taxes paid with respect to the development exceed the amounts prescribed in subsection (d)(2) of this section.
+Notwithstanding subsection (d) of this section, a grant recipient that does not comply with the requirements under such subsection may receive a block grant under this chapter, but only if the tribe, State, city, county, or other political subdivision in which the affordable housing development is located contributes, in the form of cash or tax remission, the amount by which the taxes paid with respect to the development exceed the amounts prescribed in subsection (d)(2) of this section.
 
 #### (f) Amount
 
@@ -88,7 +88,7 @@ Notwithstanding any other provision of law, with respect to any grant (or portio
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
-The United States Housing Act of 1937, referred to in subsec. (d), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
+The United States Housing Act of 1937, referred to in subsec. (d), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8\(§1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
 
 #### Amendments
 

@@ -20,7 +20,7 @@ The Secretary shall, to the extent permitted by, and consistent with, the requir
 
 #### (c) Breach of service contract
 
-If an individual breaches the contract entered into under section 254<i>l</i> or 254<i>l</i>–1 of this title by failing (for any reason) to begin his service obligation in accordance with an agreement entered into under subsection (a) of this section or to complete such service obligation, the Secretary may permit such individual to perform such service obligation as a member of the Corps.
+If an individual breaches the contract entered into under section 254<i>l</i> or 254<i>l</i>–1 of this title byfailing (for any reason) to begin his service obligation in accordance with an agreement entered into under subsection (a) of this section or to complete such service obligation, the Secretary may permit such individual to perform such service obligation as a member of the Corps.
 
 #### (d) Travel expenses
 

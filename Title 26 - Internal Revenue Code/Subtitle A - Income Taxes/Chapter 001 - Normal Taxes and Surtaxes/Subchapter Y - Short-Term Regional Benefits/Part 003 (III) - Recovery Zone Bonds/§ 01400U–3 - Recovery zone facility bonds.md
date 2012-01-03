@@ -18,7 +18,7 @@ For purposes of part IV of subchapter B (relating to tax exemption requirements 
 
 #### (2) Limitation on amount of bonds designated
 
-&emsp;The maximum aggregate face amount of bonds which may be designated by any issuer under paragraph (1) shall not exceed the amount of recovery zone facility bond limitation allocated to such issuer under section 1400U–1.
+&emsp;The maximum aggregate face amount of bonds which may be designated by any issuerunder paragraph (1) shall not exceed the amount of recovery zone facility bond limitation allocated to such issuer under section 1400U–1.
 
 #### (c) Recovery zone property
 

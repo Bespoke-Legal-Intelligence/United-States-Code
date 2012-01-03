@@ -16,7 +16,7 @@ The Secretary of Homeland Security, in coordination with the Secretary of Health
 
 #### (b) Reporting requirement
 
-The Secretary of Homeland Security shall, on a biennial basis, submit to the relevant committees of Congress, and make publicly available on the Internet Web site of the Department of Homeland Security, a report on the progress ofthe integrated consortium of laboratory networks, as established under subsection (a), in carrying out this section.
+The Secretary of Homeland Security shall, on a biennial basis, submit to the relevant committees of Congress, and make publicly available on the Internet Web site of the Department of Homeland Security, a report on the progress of the integrated consortium of laboratory networks, as established under subsection (a), in carrying out this section.
 
 (Pub. L. 111–353, title II, §203, Jan. 4, 2011, 124 Stat. 3929.)
 

@@ -116,7 +116,7 @@ Nov. 30, 1979, Pub. L. 96–129, 93 Stat. 989, §209(b)(6); added Oct. 24, 1992,
 
 49 App.:2008(b)(4), (5).
 
-In subsection (a), before clause (1), the word “reasonable” and the text of 49 App.:1679b(b)(1) (last sentence) and 2008(b)(1) (last sentence) are omitted as surplus. Clauses (1) and (2) are substituted for “that any pipeline facility is hazardous to life or property” and 49 App.:1679b(b)(2) and 2008(b)(2) to eliminate unnecessary words.
+In subsection (a), before clause (1), the word “reasonable” and the text of 49 App.:1679b(b)(1) (last sentence)and 2008(b)(1) (last sentence) are omitted as surplus. Clauses (1) and (2) are substituted for “that any pipeline facility is hazardous to life or property” and 49 App.:1679b(b)(2) and 2008(b)(2) to eliminate unnecessary words.
 
 In subsection (b)(1), the words “involved” and “(including its resistance to corrosion and deterioration)” are omitted as surplus.
 

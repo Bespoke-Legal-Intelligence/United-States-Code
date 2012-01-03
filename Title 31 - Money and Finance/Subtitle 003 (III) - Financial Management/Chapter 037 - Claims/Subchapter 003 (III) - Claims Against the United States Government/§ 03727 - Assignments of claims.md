@@ -30,7 +30,7 @@
 
 (e)(1) An assignee under this section does not have to make restitution of, refund, or repay the amount received because of the liability of the assignor to the Government that arises from or is independent of the contract.
 
-(2) The Government may not collect or reclaim money paid to a person receiving anamount under an assignment or allotment of pay or allowances authorized by law when liability may exist because of the death of the person making the assignment or allotment.
+(2) The Government may not collect or reclaim money paid to a person receiving an amount under an assignment or allotment of pay or allowances authorized by law when liability may exist because of the death of the person making the assignment or allotment.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 976.)
 

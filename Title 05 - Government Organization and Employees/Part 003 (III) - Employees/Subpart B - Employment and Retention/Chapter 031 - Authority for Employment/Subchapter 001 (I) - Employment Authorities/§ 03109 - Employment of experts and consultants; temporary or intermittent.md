@@ -14,7 +14,7 @@
 
 &emsp;(3) section 6101(b) to (d) of title 41, except in the case of stenographic reporting services by an organization.
 
-> However, an agency subject to chapter 51 and subchapter III of chapter 53 of this title may pay a rate for services under this section in excess of the daily equivalent of the highest rate payable under section 5332 of this title only when specifically authorized by the appropriation or otherstatute authorizing the procurement of the services.
+> However, an agency subject to chapter 51 and subchapter III of chapter 53 of this title may pay a rate for services under this section in excess of the daily equivalent of the highest rate payable under section 5332 of this title only when specifically authorized by the appropriation or other statute authorizing the procurement of the services.
 
 (c) Positions in the Senior Executive Service or the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service may not be filled under the authority of subsection (b) of this section.
 
@@ -56,19 +56,19 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-2011—Subsec. (b)(3). Pub. L. 111–350 substituted “section 6101(b) to (d) of title 41” for “section 5 of title 41”.
+<b>2011</b>—Subsec. (b)(3). Pub. L. 111–350 substituted “section 6101(b) to (d) of title 41” for “section 5 of title 41”.
 
-1992—Subsecs. (d), (e). Pub. L. 102–378 added subsecs. (d) and (e).
+<b>1992</b>—Subsecs. (d), (e). Pub. L. 102–378 added subsecs. (d) and (e).
 
-1988—Subsec. (c). Pub. L. 100–325 inserted reference to Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service.
+<b>1988</b>—Subsec. (c). Pub. L. 100–325 inserted reference to Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service.
 
-1982—Subsec. (a)(2). Pub. L. 97–258 substituted “section 9104” for “section 849”.
+<b>1982</b>—Subsec. (a)(2). Pub. L. 97–258 substituted “section 9104” for “section 849”.
 
-1978—Subsec. (c). Pub. L. 95–454 added subsec. (c).
+<b>1978</b>—Subsec. (c). Pub. L. 95–454 added subsec. (c).
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–454 effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415 of Pub. L. 95–454, set out as an Effective Date note under section 3131 of this title.
+Amendment by Pub. L. 95–454 effective 9 months after Oct. 13, 1978, and congressional review of provisions ofsections 401 through 412 of Pub. L. 95–454, see section 415 of Pub. L. 95–454, set out as an Effective Date note under section 3131 of this title.
 
 #### Appropriations Relating to Labor, Health and Human Services, and Education; Public Disclosure of Consulting Service Through Procurement Contract
 
@@ -98,7 +98,7 @@ Pub. L. 97–377, title I, §101(e)(1) \[title V, §501\], Dec. 21, 1982, 96 Sta
 
 Pub. L. 102–394, title V, §503, Oct. 6, 1992, 106 Stat. 1825, provided that: “Appropriations contained in this Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts, available for salaries and expenses, shall be available for services as authorized by 5 U.S.C. 3109 but at rates for individuals not to exceed the per diem rate equivalent to the maximum rate payable for senior-level positions under 5 U.S.C. 5376.”
 
-\[Except as otherwise provided, reference to maximum rate under section 5376 of this title before first day of first pay period beginning on or after 180th day after Oct. 8, 2008, considered reference to basic pay rate for level IV of Executive Schedule (5 U.S.C. 5315) and reference to maximum rate on or after first day of first pay period beginning on or after 180th day after Oct. 8, 2008, considered reference to basic pay rate for level III of Executive Schedule (5 U.S.C. 5314), or for level II of the Executive Schedule (5 U.S.C. 5313) for certain employees, see section 2(d)(3) of Pub. L. 110–372, set out as an Effective Date of 2008 Amendment note under section 5376 of this title.\]
+\[For reference to maximum rate under section 5376 of this title, see section 2(d)(3) of Pub. L. 110–372, set out as an Effective Date of 2008 Amendment note under section 5376 of this title.\]
 
 Similar provisions were contained in the following prior appropriation acts:
 

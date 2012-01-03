@@ -30,7 +30,7 @@ Additional registration requirements for household goods motor carriers.—In ad
 
 &emsp;&emsp;(C) provides evidence that it has access to, has read, is familiar with, and will observe all applicable Federal laws relating to consumer protection, estimating, consumers’ rights and responsibilities, and options for limitations of liability for loss and damage; and
 
-&emsp;&emsp;(D) discloses any relationship involving common stock, common ownership, common management, or common familial relationships between that person and any othermotor carrier, freight forwarder, or broker of household goods within 3 years of the proposed date of registration.
+&emsp;&emsp;(D) discloses any relationship involving common stock, common ownership, common management, or common familial relationships between that person and any other motor carrier, freight forwarder, or broker of household goods within 3 years of the proposed date of registration.
 
 &emsp;(3)
 
@@ -188,7 +188,7 @@ Penalties for Failure To Comply With Registration Requirements.—In addition to
 
 &emsp;(1)
 
-Out-of-service orders.—If, upon inspection or investigation, the Secretary determines that a motor vehicle providing transportation requiring registration under this section is operating without a registration or beyond the scope of its registration, the Secretary may order the vehicle out-of-service. Subsequent to the issuance of the out-of-service order, the Secretary shall provide an opportunity for review in accordance with section 554 of title 5, United States Code; except that such review shall occur not later than 10 days after issuance of such order.
+Out-of-service orders.—If, upon inspection or investigation, the Secretary determines that a motor vehicle providing transportation requiring registration under thissection is operating without a registration or beyond the scope of its registration, the Secretary may order the vehicle out-of-service. Subsequent to the issuance of the out-of-service order, the Secretary shall provide an opportunity for review in accordance with section 554 of title 5, United States Code; except that such review shall occur not later than 10 days after issuance of such order.
 
 &emsp;(2)
 
@@ -260,7 +260,7 @@ Provisions similar to those in this section were contained in section 10922 of t
 
 Subsec. (a)(5). Pub. L. 110–291, §2(b), inserted “(including the accessibility requirements established by the Secretary under subpart H of part 37 of title 49, Code of Federal Regulations, or such successor regulations to those accessibility requirements as the Secretary may issue, for transportation provided by an over-the-road bus)” after “Board”.
 
-<b>2005</b>—Subsec. (a)(1)(B). Pub. L. 109–59, §4113(b), amended subpar. (B) generally. Prior to amendment,subpar. (B) read as follows: “any safety regulations imposed by the Secretary and the safety fitness requirements established by the Secretary under section 31144; and”.
+<b>2005</b>—Subsec. (a)(1)(B). Pub. L. 109–59, §4113(b), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “any safety regulations imposed by the Secretary and the safety fitness requirements established by the Secretary under section 31144; and”.
 
 Subsec. (a)(2), (3). Pub. L. 109–59, §4204(1), (3), added pars. (2) and (3) and struck out former pars. (2) and (3) which read as follows:
 
@@ -334,7 +334,7 @@ Pub. L. 110–28, title VI, §6901, May 25, 2007, 121 Stat. 183, provided that:
 
 &emsp;&emsp;&emsp;“(iv) specific standards to be used to evaluate the pilot program and compare any change in the level of motor carrier safety as a result of the pilot program; and
 
-&emsp;&emsp;&emsp;“(v) a list of Federal motor carrier safety laws and regulations, including the commercial drivers license requirements, for which the Secretary of Transportation will accept compliance with a corresponding Mexican law or regulation as theequivalent to compliance with the United States law or regulation, including for each law or regulation an analysis as to how the corresponding United States and Mexican laws and regulations differ.
+&emsp;&emsp;&emsp;“(v) a list of Federal motor carrier safety laws and regulations, including the commercial drivers license requirements, for which the Secretary of Transportation will accept compliance with a corresponding Mexican law or regulation as the equivalent to compliance with the United States law or regulation, including for each law or regulation an analysis as to how the corresponding United States and Mexican laws and regulations differ.
 
 “(c) During and following the pilot program described in subsection (a), the Inspector General of the Department of Transportation shall monitor and review the conduct of the pilot program and submit to Congress and the Secretary of Transportation an interim report, 6 months after the commencement of the pilot program, and a final report, within 60 days after the conclusion of the pilot program. Such reports shall address whether—
 
@@ -406,7 +406,7 @@ Pub. L. 107–87, title III, §350, Dec. 18, 2001, 115 Stat. 864, provided that:
 
 &emsp;&emsp;“(B) a Commercial Vehicle Safety Alliance decal to be affixed to each such commercial vehicle upon completion of the inspection required by clause (A) or a re-inspection if the vehicle has met the criteria for the Level I inspection; and
 
-&emsp;&emsp;“(C) that any such decal, when affixed, expire at the end of a period of not more than 90 days, but nothing in this paragraph shall be construed to preclude the Administration from requiring reinspection of a vehicle bearing a valid inspection decal or from requiring that such a decal be removed when a certified Federal or State inspector determines that such a vehicle has a safety violation subsequent to the inspection for which the decal was granted.
+&emsp;&emsp;“(C) that any such decal, when affixed, expire at the end of a period of not more than 90 days, butnothing in this paragraph shall be construed to preclude the Administration from requiring reinspection of a vehicle bearing a valid inspection decal or from requiring that such a decal be removed when a certified Federal or State inspector determines that such a vehicle has a safety violation subsequent to the inspection for which the decal was granted.
 
 &emsp;“(6) requires State inspectors who detect violations of Federal motor carrier safety laws or regulations to enforce them or notify Federal authorities of such violations;
 
@@ -450,7 +450,7 @@ Pub. L. 107–87, title III, §350, Dec. 18, 2001, 115 Stat. 864, provided that:
 
 &emsp;&emsp;“(G) there is an accessible database containing sufficiently comprehensive data to allow safety monitoring of all Mexican motor carriers that apply for authority to operate commercial vehicles beyond United States municipalities and commercial zones on the United States-Mexico border and the drivers of those vehicles; and
 
-&emsp;&emsp;“(H) measures are in place to enable United States law enforcement authorities to ensure theeffective enforcement and monitoring of license revocation and licensing procedures of Mexican motor carriers.
+&emsp;&emsp;“(H) measures are in place to enable United States law enforcement authorities to ensure the effective enforcement and monitoring of license revocation and licensing procedures of Mexican motor carriers.
 
 &emsp;“(2) The Secretary of Transportation certifies in writing in a manner addressing the Inspector General's findings in paragraphs (c)(1)(A) through (c)(1)(H) of this section that the opening of the border does not pose an unacceptable safety risk to the American public.
 
@@ -560,7 +560,7 @@ The North American Free Trade Agreement (NAFTA) established a schedule for liber
 
 First, qualified motor carriers domiciled in Mexico will be allowed to obtain operating authority to transport passengers in cross-border scheduled bus services. Second, qualified motor carriers domiciled in Mexico will be allowed to obtain operating authority to provide cross-border truck services. The moratorium on the issuance of certificates or permits to Mexican-domiciled motor carriers for the provision of truck or bus services between points in the United States will remain in place. These modifications shall be effective on the date of this memorandum.
 
-Furthermore, pursuant to 49 U.S.C. 13902(c)(5), I hereby determine that expeditious action is required to implement this modification to the moratorium. Effective on the date of this memorandum, the Department of Transportation is authorized to act on applications, submitted by motor carriers domiciled in Mexico, to obtain operating authority to provide cross-border scheduled bus services and cross-border truck services. In reviewing such applications, the Department shall continue to work closely with the Department of Justice, the Office of Homeland Security, and other relevant Federal departments, agencies, and offices inorder to help ensure the security of the border and to prevent potential threats to national security.
+Furthermore, pursuant to 49 U.S.C. 13902(c)(5), I hereby determine that expeditious action is required to implement this modification to the moratorium. Effective on the date of this memorandum, the Department of Transportation is authorized to act on applications, submitted by motor carriers domiciled in Mexico, to obtain operating authority to provide cross-border scheduled bus services and cross-border truck services. In reviewing such applications, the Department shall continue to work closely with the Department of Justice, the Office of Homeland Security, and other relevant Federal departments, agencies, and offices in order to help ensure the security of the border and to prevent potential threats to national security.
 
 Motor carriers domiciled in Mexico operating in the United States will be subject to the same Federal and State laws, regulations, and procedures that apply to carriers domiciled in the United States. These include safety regulations, such as drug and alcohol testing requirements; insurance requirements; taxes and fees; and other applicable laws and regulations, including those administered by the United States Customs Service, the Immigration and Naturalization Service, the Department of Labor, and Federal and State environmental agencies.
 

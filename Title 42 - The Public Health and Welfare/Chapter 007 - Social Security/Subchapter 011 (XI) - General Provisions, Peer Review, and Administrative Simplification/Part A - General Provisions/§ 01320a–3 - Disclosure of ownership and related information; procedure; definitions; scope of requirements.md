@@ -8,7 +8,7 @@
 
 &emsp;(B) as a condition for the approval or renewal of a contract or agreement between the disclosing entity and the Secretary or the appropriate State agency under any of the programs established under subchapters V, XVIII, and XIX of this chapter,
 
-> supply the Secretary or the appropriate State agency with full and complete information as to the identity of each person with an ownership or control interest (as defined in paragraph (3)) in the entity or in any subcontractor (as defined by the Secretary in regulations) in which the entity directly or indirectly has a 5 per centum or more ownership interest and supply the Secretary with the <sup>1</sup> both the employer identification number (assigned pursuant to section 6109 of the Internal Revenue Code of 1986) and social security account number (assigned under section 405(c)(2)(B) of this title) of the disclosing entity, each person with an ownership or control interest (as defined in subsection (a)(3) of this section), and any subcontractor in which the entity directly or indirectly has a 5 percent or more ownership interest.
+> supply the Secretary or the appropriate State agency with full and complete information as to the identity of each person with an ownership or control interest (as defined in paragraph (3)) in the entity or in any subcontractor (as defined by the Secretary in regulations) in which the entity directly or indirectly has a 5 per centum ormore ownership interest and supply the Secretary with the <sup>1</sup> both the employer identification number (assigned pursuant to section 6109 of the Internal Revenue Code of 1986) and social security account number (assigned under section 405(c)(2)(B) of this title) of the disclosing entity, each person with an ownership or control interest (as defined in subsection (a)(3) of this section), and any subcontractor in which the entity directly or indirectly has a 5 percent or more ownership interest.
 
 (2) As used in this section, the term “disclosing entity” means an entity which is—
 
@@ -138,15 +138,13 @@ To the extent determined to be feasible under regulations of the Secretary, a di
 
 The Internal Revenue Code of 1986, referred to in subsec. (a)(1), is classified generally to Title 26, Internal Revenue Code.
 
-Parts A and B of subchapter XVIII of this chapter, referred to in subsec. (a)(2)(C), are classified to sections 1395c et seq. and 1395j et seq. of this title.
-
 Section 6101(b) of the Patient Protection and Affordable Care Act, referred to in subsec. (c)(1)(A), is section 6101(b) of Pub. L. 111–148, which is set out as a note below.
 
 #### Amendments
 
 <b>2010</b>—Subsec. (c). Pub. L. 111–148 added subsec. (c).
 
-<b>1997</b>—Subsec. (a)(1). Pub. L. 105–33, §4313(a), inserted before period at end of concluding provisions “and supply the Secretary with the both the employer identification number (assigned pursuant to section 6109 of the Internal Revenue Code of 1986) and social security account number (assigned under section 405(c)(2)(B) of this title) of the disclosing entity, each person with an ownership or control interest (as defined in subsection (a)(3) of this section), and any subcontractor in which the entity directly or indirectly has a 5 percent or more ownership interest.” The substitution was made to reflect the probable intent of Congress, in the absence of closing quotations designating the provisions to be inserted.
+<b>1997</b>—Subsec. (a)(1). Pub. L. 105–33, §4313(a), inserted before period at end of concluding provisions “and supply the Secretary with the both the employer identification number (assigned pursuant to section 6109 of the Internal Revenue Code of 1986) and social security account number (assigned under section 405(c)(2)(B) of this title) of the disclosing entity, each person with an ownership or control interest (as defined in subsection (a)(3) of this section), and any subcontractor in which the entity directly or indirectly has a 5 percent or more ownership interest.” The substitution was made to reflect the probable intent of Congress, in the absence ofclosing quotations designating the provisions to be inserted.
 
 Subsec. (a)(2)(A). Pub. L. 105–33, §4707(c), inserted “a managed care entity, as defined in section 1396u–2(a)(1)(B) of this title,” after “renal disease facility,”.
 
@@ -182,7 +180,7 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, except as otherwise explici
 
 #### Effective Date
 
-Section 3(e) of Pub. L. 95–142 provided that: “The amendment made by subsection (a)(1) \[enacting this section\] shall apply with respect to certifications and recertifications made (and participation in the programs established by titles V, XVIII, XIX, and XX of the Social Security Act \[subchapters V, XVIII, XIX, and XX of this chapter\] pursuant to certifications andrecertifications made), and fiscal intermediary or agent agreements or contracts entered into or renewed, on and after the date of the enactment of this Act \[Oct. 25, 1977\]. The remaining amendments made by this section \[amending sections 1395x and 1395cc of this title\] shall take effect on the date of the enactment of this Act \[Oct. 25, 1977\]; except that the amendments made by subsections (c) and (d) \[amending sections 1396a, 1396b, 1397a, and 1397b of this title\] shall become effective January 1, 1978.”
+Section 3(e) of Pub. L. 95–142 provided that: “The amendment made by subsection (a)(1) \[enacting this section\] shall apply with respect to certifications and recertifications made (and participation in the programs established by titles V, XVIII, XIX, and XX of the Social Security Act \[subchapters V, XVIII, XIX, and XX of this chapter\] pursuant to certifications and recertifications made), and fiscal intermediary or agent agreements or contracts entered into or renewed, on and after the date of the enactment of this Act \[Oct. 25, 1977\]. The remaining amendments made by this section \[amending sections 1395x and 1395cc of this title\] shall take effect on the date of the enactment of this Act \[Oct. 25, 1977\]; except that the amendments made by subsections (c) and (d) \[amending sections 1396a, 1396b, 1397a, and 1397b of this title\] shall become effective January 1, 1978.”
 
 #### Public Availability of Information
 

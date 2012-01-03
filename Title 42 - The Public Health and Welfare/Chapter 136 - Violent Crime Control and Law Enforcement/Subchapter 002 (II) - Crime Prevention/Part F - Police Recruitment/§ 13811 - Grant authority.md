@@ -42,7 +42,7 @@ A program is a qualified program for which a grant may be made under subsection 
 
 #### (d) Applications
 
-To qualify for a grant under subsection (a) of this section, a qualified organization shall submit an application to the Attorney General in such form as the Attorney General may prescribe. Such application shall—
+To qualify for a grant under subsection (a) of this section, a qualified organization shall submit an application to the Attorney General insuch form as the Attorney General may prescribe. Such application shall—
 
 &emsp;(1) include documentation from the applicant showing—
 

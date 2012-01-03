@@ -20,7 +20,7 @@ Rule of construction.—Paragraph (1) shall not be construed to exempt any compa
 
 #### Amendments
 
-2001—Pub. L. 107–104 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>2001</b>—Pub. L. 107–104 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 #### Effective Date of 2001 Amendment
 

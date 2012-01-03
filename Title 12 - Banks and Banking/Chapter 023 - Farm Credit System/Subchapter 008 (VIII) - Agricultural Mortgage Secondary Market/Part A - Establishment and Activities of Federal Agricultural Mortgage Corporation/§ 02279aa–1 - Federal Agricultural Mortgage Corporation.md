@@ -36,5 +36,5 @@ The Corporation shall—
 
 #### Amendments
 
-1996—Subsec. (b)(4). Pub. L. 104–105 added par. (4).
+<b>1996</b>—Subsec. (b)(4). Pub. L. 104–105 added par. (4).
 

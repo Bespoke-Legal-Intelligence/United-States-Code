@@ -6,7 +6,7 @@ In any removal proceedings before an immigration judge and in any appeal proceed
 
 #### Amendments
 
-1996—Pub. L. 104–208, §371(b)(9), substituted “an immigration judge” for “a special inquiry officer”.
+<b>1996</b>—Pub. L. 104–208, §371(b)(9), substituted “an immigration judge” for “a special inquiry officer”.
 
 Pub. L. 104–208, §308(d)(4)(O), substituted “removal” for “exclusion or deportation” in two places.
 

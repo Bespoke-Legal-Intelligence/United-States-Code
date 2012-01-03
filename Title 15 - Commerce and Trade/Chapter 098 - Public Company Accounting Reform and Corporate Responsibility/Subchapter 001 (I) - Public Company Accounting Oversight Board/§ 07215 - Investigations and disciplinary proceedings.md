@@ -8,7 +8,7 @@ The Board shall establish, by rule, subject to the requirements of this section,
 
 #### (1) Authority
 
-&emsp;In accordance with the rules of the Board, the Board may conduct an investigation of any act or practice, or omission to act, by a registered public accounting firm, any associated person of such firm, or both, that may violate any provision of this Act, the rules of the Board, the provisions of the securities laws relating to the preparation and issuance of audit reports and the obligations and liabilities of accountants with respect thereto, including the rules of the Commission issued under this Act, or professional standards, regardless of how the act, practice, or omission is brought to the attention of the Board.
+&emsp;In accordance with the rules of the Board, the Board may conduct an investigation ofany act or practice, or omission to act, by a registered public accounting firm, any associated person of such firm, or both, that may violate any provision of this Act, the rules of the Board, the provisions of the securities laws relating to the preparation and issuance of audit reports and the obligations and liabilities of accountants with respect thereto, including the rules of the Commission issued under this Act, or professional standards, regardless of how the act, practice, or omission is brought to the attention of the Board.
 
 #### (2) Testimony and document production
 
@@ -122,7 +122,7 @@ The Board shall establish, by rule, subject to the requirements of this section,
 
 #### (2) Public hearings
 
-&emsp;Hearings under this section shall not be public, unless otherwise ordered by the Board forgood cause shown, with the consent of the parties to such hearing.
+&emsp;Hearings under this section shall not be public, unless otherwise ordered by the Board for good cause shown, with the consent of the parties to such hearing.
 
 #### (3) Supporting statement
 
@@ -190,7 +190,7 @@ The Board shall establish, by rule, subject to the requirements of this section,
 
 #### (B) Association with an issuer, broker, or dealer
 
-&emsp;&emsp;It shall be unlawful for any person that is suspended or barred from being associated with a registered public accounting firm under this subsection willfully to become or remain associated with any issuer, broker, or dealer in an accountancy or a financial management capacity, and for any issuer, broker, or dealer that knew, or in the exercise of reasonable care should have known, of such suspension or bar, to permit such anassociation, without the consent of the Board or the Commission.
+&emsp;&emsp;It shall be unlawful for any person that is suspended or barred from being associated with a registered public accounting firm under this subsection willfully to become or remain associated with any issuer, broker, or dealer in an accountancy or a financial management capacity, and for any issuer, broker, or dealer that knew, or in the exercise of reasonable care should have known, of such suspension or bar, to permit such an association, without the consent of the Board or the Commission.
 
 #### (d) Reporting of sanctions
 

@@ -236,7 +236,7 @@ Sec. 2. <i>Functions</i>. (a) The Board shall provide advice and information to 
 
 (c) The Board shall submit annual written reports to the President, who may apprise the Congress and other interested organizations and individuals on its activities, progress, and problems relating to maximizing employment opportunities for people with disabilities.
 
-(d) The Chairperson of the Board shall serve as a member and Vice Chair of the National Task Force onEmployment of Adults with Disabilities established under Executive Order 13078 of March 13, 1998 \[set out above\].
+(d) The Chairperson of the Board shall serve as a member and Vice Chair of the National Task Force on Employment of Adults with Disabilities established under Executive Order 13078 of March 13, 1998 \[set out above\].
 
 Sec. 3. <i>Administration</i>. (a) The Board shall meet when called by the Chairperson, at a time and place designated by the Chairperson. The Chairperson shall call at least two meetings per calendar year. The Chairperson may form subcommittees or working groups within the Board to address particular matters.
 

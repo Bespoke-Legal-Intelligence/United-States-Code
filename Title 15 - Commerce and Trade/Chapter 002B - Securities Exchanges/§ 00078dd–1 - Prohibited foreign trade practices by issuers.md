@@ -6,7 +6,7 @@ It shall be unlawful for any issuer which has a class of securities registered p
 
 &emsp;(1) any foreign official for purposes of—
 
-&emsp;&emsp;(A)(i) influencing any act or decision of such foreign official in his official capacity,\(ii) inducing such foreign official to do or omit to do any act in violation of the lawful duty of such official, or (iii) securing any improper advantage; or
+&emsp;&emsp;(A)(i) influencing any act or decision of such foreign official in his official capacity, (ii) inducing such foreign official to do or omit to do any act in violation of the lawful duty of such official, or (iii) securing any improper advantage; or
 
 &emsp;&emsp;(B) inducing such foreign official to use his influence with a foreign government or instrumentality thereof to affect or influence any act or decision of such government or instrumentality,
 
@@ -36,7 +36,7 @@ Subsections (a) and (g) of this section shall not apply to any facilitating or e
 
 It shall be an affirmative defense to actions under subsection (a) or (g) of this section that—
 
-&emsp;(1) the payment, gift, offer, or promise of anything of value that was made, was lawful under the written laws and regulations of the foreign official's, political party's, party official's, or candidate's country; or
+&emsp;(1) the payment, gift, offer, or promise of anything of value that was made, was lawfulunder the written laws and regulations of the foreign official's, political party's, party official's, or candidate's country; or
 
 &emsp;(2) the payment, gift, offer, or promise of anything of value that was made, was a reasonable and bona fide expenditure, such as travel and lodging expenses, incurred by or on behalf of a foreign official, party, party official, or candidate and was directly related to—
 
@@ -56,7 +56,7 @@ Not later than one year after August 23, 1988, the Attorney General, after consu
 
 #### (e) Opinions of Attorney General
 
-(1) The Attorney General, after consultation with appropriate departments and agencies of the United States and after obtaining the views of all interested persons through public notice and comment procedures, shall establish a procedure to provide responses to specific inquiries by issuers concerning conformance of their conduct with the Department of Justice's present enforcement policy regarding the preceding provisions of this section. The Attorney General shall, within 30 days after receiving such a request, issue an opinion in response to that request. The opinion shall state whether or not certain specified prospective conduct would, for purposes of the Department of Justice's present enforcement policy, violate the preceding provisions of this section. Additional requests for opinions may be filed with the Attorney General regarding other specified prospective conduct that is beyond the scope of conduct specified inprevious requests. In any action brought under the applicable provisions of this section, there shall be a rebuttable presumption that conduct, which is specified in a request by an issuer and for which the Attorney General has issued an opinion that such conduct is in conformity with the Department of Justice's present enforcement policy, is in compliance with the preceding provisions of this section. Such a presumption may be rebutted by a preponderance of the evidence. In considering the presumption for purposes of this paragraph, a court shall weigh all relevant factors, including but not limited to whether the information submitted to the Attorney General was accurate and complete and whether it was within the scope of the conduct specified in any request received by the Attorney General. The Attorney General shall establish the procedure required by this paragraph in accordance with the provisions of subchapter II of chapter 5 of title 5 and that procedure shall be subject to the provisions of chapter 7 of that title.
+(1) The Attorney General, after consultation with appropriate departments and agencies of the United States and after obtaining the views of all interested persons through public notice and comment procedures, shall establish a procedure to provide responses to specific inquiries by issuers concerning conformance of their conduct with the Department of Justice's present enforcement policy regarding the preceding provisions of this section. The Attorney General shall, within 30 days after receiving such a request, issue an opinion in response to that request. The opinion shall state whether or not certain specified prospective conduct would, for purposes of the Department of Justice's present enforcement policy, violate the preceding provisions of this section. Additional requests for opinions may be filed with the Attorney General regarding other specified prospective conduct that is beyond the scope of conduct specified in previous requests. In any action brought under the applicable provisions of this section, there shall be a rebuttable presumption that conduct, which is specified in a request by an issuer and for which the Attorney General has issued an opinion that such conduct is in conformity with the Department of Justice's present enforcement policy, is in compliance with the preceding provisions of this section. Such a presumption may be rebutted by a preponderance of the evidence. In considering the presumption for purposes of this paragraph, a court shall weigh all relevant factors, including but not limited to whether the information submitted to the Attorney General was accurate and complete and whether it was within the scope of the conduct specified in any request received by the Attorney General. The Attorney General shall establish the procedure required by this paragraph in accordance with the provisions of subchapter II of chapter 5 of title 5 and that procedure shall be subject to the provisions of chapter 7 of that title.
 
 (2) Any document or other material which is provided to, received by, or prepared in the Department of Justice or any other department or agency of the United States in connection with a request by an issuer under the procedure established under paragraph (1), shall be exempt from disclosure under section 552 of title 5 and shall not, except with the consent of the issuer, be made publicly available, regardless of whether the Attorney General responds to such a request or the issuer withdraws such request before receiving a response.
 
@@ -192,7 +192,7 @@ Designation of agreements.—The President shall designate which agreements cons
 
 “(e)
 
-Preservation of Law Enforcement and Intelligence Functions.—Nothing in subsection (c) or (d) ofthis section shall affect any immunity from suit or legal process of an international organization providing commercial communications services, or the privatized affiliates or successors thereof, for acts or omissions—
+Preservation of Law Enforcement and Intelligence Functions.—Nothing in subsection (c) or (d) of this section shall affect any immunity from suit or legal process of an international organization providing commercial communications services, or the privatized affiliates or successors thereof, for acts or omissions—
 
 &emsp;“(1) under chapter 119, 121, 206, or 601 of title 18, United States Code, the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.), section 514 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 884), or Rule 104, 501, or 608 of the Federal Rules of Evidence \[28 U.S.C. App.\];
 
@@ -274,7 +274,7 @@ Definition.—For purposes of this section, the term ‘Convention’ means the 
 
 #### International Agreements Concerning Acts Prohibited With Respect to Issuers and Domestic Concerns; Report to Congress
 
-Section 5003(d) of Pub. L. 100–418 provided that:
+Pub. L. 100–418, title V, §5003(d), Aug. 23, 1988, 102 Stat. 1424, provided that:
 
 “(1)
 

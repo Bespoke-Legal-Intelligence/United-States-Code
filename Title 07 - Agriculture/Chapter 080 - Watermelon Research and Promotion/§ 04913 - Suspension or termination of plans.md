@@ -8,7 +8,7 @@
 
 #### Amendments
 
-1993—Subsec. (b). Pub. L. 103–189, §8(j)(3), struck out at end “Any such referendum shall be conducted at county extension offices.”
+<b>1993</b>—Subsec. (b). Pub. L. 103–189, §8(j)(3), struck out at end “Any such referendum shall be conducted at county extension offices.”
 
 Pub. L. 103–189, §8(j)(2)(C), which directed the substitution of “, handled by the handlers, or imported by the importers” for “or handled by the handlers,” in second sentence, was executed by making the substitution in text which did not contain a comma after the word “handlers”, to reflect the probable intent of Congress.
 

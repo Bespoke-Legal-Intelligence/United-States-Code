@@ -22,7 +22,7 @@
 
 &emsp;(C) the term “compensation” means cash benefits payable to individuals with respect to their unemployment, exclusive of expenses of administration.
 
-(b) The Secretary of the Treasury shall, prior to audit or settlement by the Government Accountability Office, transfer in monthly installments from the Federal unemployment account to the account of the State in the Unemployment Trust Fund the amount certified under subsection (a) of this section by the Secretary of Labor (but not exceeding that portion of the balance in the Federal unemployment account at the time of the transfer which is not restricted as to use pursuant to section 1103(b)(1) of this title). The amount of any monthly installment so transferred shall not exceed the amount estimated by the State to be required for the payment of compensation for the month with respect to which such installment is made.
+(b) The Secretary of the Treasury shall, prior to audit or settlement by the Government Accountability Office, transfer in monthly installments from the Federal unemployment account to the account of the State in the Unemployment Trust Fund the amount certified under subsection (a) of this section by the Secretary ofLabor (but not exceeding that portion of the balance in the Federal unemployment account at the time of the transfer which is not restricted as to use pursuant to section 1103(b)(1) of this title). The amount of any monthly installment so transferred shall not exceed the amount estimated by the State to be required for the payment of compensation for the month with respect to which such installment is made.
 
 (Aug. 14, 1935, ch. 531, title XII, §1201, as added Oct. 3, 1944, ch. 480, title IV, §402, 58 Stat. 790; amended Aug. 6, 1947, ch. 510, §5(b), 61 Stat. 794; 1949 Reorg. Plan No. 2, §1, eff. Aug. 19, 1949, 14 F.R. 5225, 63 Stat. 1065; Aug. 28, 1950, ch. 809, title IV, §404(a), 64 Stat. 560; Aug. 5, 1954, ch. 657, §3, 68 Stat. 671; Pub. L. 86–778, title V, §522(a), Sept. 13, 1960, 74 Stat. 978; Pub. L. 94–566, title II, §213(a)–(c), Oct. 20, 1976, 90 Stat. 2677; Pub. L. 97–35, title XXIV, §2407(b)(1), Aug. 13, 1981, 95 Stat. 880; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
@@ -64,7 +64,7 @@ Section 4 of act Aug. 6, 1947, provided that: “Section 603 of the War Mobiliza
 
 Pub. L. 86–778, title V, §522(b), Sept. 13, 1960, 74 Stat. 979, provided that:
 
-“(1) No amount shall be transferred on or after the date of the enactment of this Act \[Sept. 13, 1960\] fromthe Federal unemployment account to the account of any State in the Unemployment Trust Fund pursuant to any application made under section 1201(a) of the Social Security Act \[subsec. (a) of this section\] as in effect before such date; except that, if—
+“(1) No amount shall be transferred on or after the date of the enactment of this Act \[Sept. 13, 1960\] from the Federal unemployment account to the account of any State in the Unemployment Trust Fund pursuant to any application made under section 1201(a) of the Social Security Act \[subsec. (a) of this section\] as in effect before such date; except that, if—
 
 &emsp;“(A) some but not all of an amount certified by the Secretary of Labor to the Secretary of the Treasury for transfer to the account of any State was transferred to such account before such date, and
 

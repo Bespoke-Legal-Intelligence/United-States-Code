@@ -36,7 +36,7 @@ A vacancy in the Joint Committee—
 
 #### (A) Adjournment or recess of Congress
 
-&emsp;&emsp;In case of a vacancy during an adjournment or recess of Congress for a period of more than 2 weeks, the members of the Joint Committee who are members of the Committee entitled to fill such vacancy may designate a member of such Committee to serve until his successor is chosen by such Committee; and
+&emsp;&emsp;In case of a vacancy during an adjournment or recess of Congress for a period ofmore than 2 weeks, the members of the Joint Committee who are members of the Committee entitled to fill such vacancy may designate a member of such Committee to serve until his successor is chosen by such Committee; and
 
 #### (B) Expiration of Congress
 

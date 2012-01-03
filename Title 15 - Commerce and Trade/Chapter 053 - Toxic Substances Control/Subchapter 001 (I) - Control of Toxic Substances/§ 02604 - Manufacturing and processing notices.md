@@ -46,7 +46,7 @@
 
 &emsp;(ii) in the case of a chemical substance with respect to which notice is required under subsection (a)(1)(B) of this section, the intended significant new use of the chemical substance will not present an unreasonable risk of injury to health or the environment.
 
-(3) Data submitted under paragraph (1) or (2) shall be made available, subject to section 2613 of this title, for examination by interested persons.
+(3) Data submitted under paragraph (1) or (2) shall be made available, subject to section 2613of this title, for examination by interested persons.
 
 (4)(A)(i) The Administrator may, by rule, compile and keep current a list of chemical substances with respect to which the Administrator finds that the manufacture, processing, distribution in commerce, use, or disposal, or any combination of such activities, presents or may present an unreasonable risk of injury to health or the environment.
 
@@ -98,7 +98,7 @@ The Administrator may for good cause extend for additional periods (not to excee
 
 &emsp;(II) such substance is or will be produced in substantial quantities, and such substance either enters or may reasonably be anticipated to enter the environment in substantial quantities or there is or may be significant or substantial human exposure to the substance,
 
-> the Administrator may issue a proposed order, to take effect on the expiration of the notification period applicable to the manufacturing or processing of such substance under subsection (a), (b), or (c) of this section, to prohibit or limit the manufacture, processing, distribution in commerce, use, or disposal of such substance or to prohibit or limit any combination of such activities.
+> the Administrator may issue a proposed order, to take effect on the expiration of the notification period applicable to the manufacturing orprocessing of such substance under subsection (a), (b), or (c) of this section, to prohibit or limit the manufacture, processing, distribution in commerce, use, or disposal of such substance or to prohibit or limit any combination of such activities.
 
 (B) A proposed order may not be issued under subparagraph (A) respecting a chemical substance (i) later than 45 days before the expiration of the notification period applicable to the manufacture or processing of such substance under subsection (a), (b), or (c) of this section, and (ii) unless the Administrator has, on or before the issuance of the proposed order, notified, in writing, each manufacturer or processor, as the case may be, of such substance of the determination which underlies such order.
 
@@ -172,7 +172,7 @@ If the Administrator has not initiated any action under this section or section 
 
 &emsp;(ii) submission of data by the applicant on such substance would be duplicative of data which has been submitted to the Administrator in accordance with such subsection,
 
-> the Administrator shall exempt the applicant from the requirement to submit such data onsuch substance. No exemption which is granted under this subparagraph with respect to the submission of data for a chemical substance may take effect before the beginning of the reimbursement period applicable to such data.
+> the Administrator shall exempt the applicant from the requirement to submit such data on such substance. No exemption which is granted under this subparagraph with respect to the submission of data for a chemical substance may take effect before the beginning of the reimbursement period applicable to such data.
 
 (B) If the Administrator exempts any person, under subparagraph (A), from submitting data required under subsection (b)(2) of this section for a chemical substance because of the existence of previously submitted data and if such exemption is granted during the reimbursement period for such data, then (unless such person and the persons referred to in clauses (i) and (ii) agree on the amount and method of reimbursement) the Administrator shall order the person granted the exemption to provide fair and equitable reimbursement (in an amount determined under rules of the Administrator)—
 

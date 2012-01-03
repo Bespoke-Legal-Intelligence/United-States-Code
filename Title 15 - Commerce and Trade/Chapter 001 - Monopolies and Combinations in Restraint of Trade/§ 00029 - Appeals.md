@@ -32,7 +32,7 @@ Act Mar. 3, 1911, which transferred the powers and duties of the circuit courts 
 
 #### Effective Date of 1974 Amendment
 
-Section 7 of Pub. L. 93–528 provided that: “The amendment made by section 5 of this Act \[amending this section\] shall not apply to an action in which a notice of appeal to the Supreme Court has been filed on or before the fifteenth day following the date of enactment of this Act \[Dec. 21, 1974\]. Appeal in any such action shall be taken pursuant to the provisions of section 2 of the Act of February 11, 1903 (32 Stat. 823), as amended (15 U.S.C. 29; \[former\] 49 U.S.C. 45) which were in effect on the day preceding the date of enactment of this Act.”
+Pub. L. 93–528, §7, Dec. 21, 1974, 88 Stat. 1710, provided that: “The amendment made by section 5 of this Act \[amending this section\] shall not apply to an action in which a notice of appeal to the Supreme Court has been filed on or before the fifteenth day following the date of enactment of this Act \[Dec. 21, 1974\]. Appeal in any such action shall be taken pursuant to the provisions of section 2 of the Act of February 11, 1903 (32 Stat. 823), as amended (15 U.S.C. 29; \[former\] 49 U.S.C. 45) which were in effect on the day preceding the date of enactment of this Act.”
 
 #### Effective Date of 1948 Amendment
 
@@ -40,7 +40,7 @@ Section 38 of act June 25, 1948, provided that the amendment made by that act is
 
 #### Effective Date of 1944 Amendment
 
-The last paragraph of act June 9, 1944, provided: “This Act \[this section\] shall apply to every case pending before the Supreme Court of the United States on the date of its enactment \[June 9, 1944\].”
+Act June 9, 1944, ch. 239, 58 Stat. 272, provided in part: “This Act \[this section\] shall apply to every case pending before the Supreme Court of the United States on the date of its enactment \[June 9, 1944\].”
 
 #### Short Title
 

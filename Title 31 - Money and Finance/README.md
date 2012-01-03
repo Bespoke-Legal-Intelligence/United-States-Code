@@ -1,5 +1,5 @@
 
-31 U.S.C.<br>United States Code, 2010 Edition<br>Title 31 - MONEY AND FINANCE<br>From the U.S. Government Publishing Office, www.gpo.gov
+31 U.S.C.<br>United States Code, 2011 Edition<br>Title 31 - MONEY AND FINANCE<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 31—MONEY AND FINANCE
 

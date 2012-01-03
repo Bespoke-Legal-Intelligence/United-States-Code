@@ -54,13 +54,13 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1991—Subsec. (a)(3)(A)(ii). Pub. L. 102–83 substituted reference to section 1101 of title 38 for reference to section 301 of title 38.
+<b>1991</b>—Subsec. (a)(3)(A)(ii). Pub. L. 102–83 substituted reference to section 1101 of title 38 for reference to section 301 of title 38.
 
-1988—Subsec. (b). Pub. L. 100–325 inserted reference to Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service.
+<b>1988</b>—Subsec. (b). Pub. L. 100–325 inserted reference to Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service.
 
-1978—Subsec. (b). Pub. L. 95–454 inserted reference to a member of Senior Executive Service.
+<b>1978</b>—Subsec. (b). Pub. L. 95–454 inserted reference to a member of Senior Executive Service.
 
-1975—Subsec. (b). Pub. L. 94–183 struck out “, except an employee whose appointment is made under section3311 of title 39” after “or made with the advice and consent of, the Senate”.
+<b>1975</b>—Subsec. (b). Pub. L. 94–183 struck out “, except an employee whose appointment is made under section 3311 of title 39” after “or made with the advice and consent of, the Senate”.
 
 #### Effective Date of 1978 Amendment
 

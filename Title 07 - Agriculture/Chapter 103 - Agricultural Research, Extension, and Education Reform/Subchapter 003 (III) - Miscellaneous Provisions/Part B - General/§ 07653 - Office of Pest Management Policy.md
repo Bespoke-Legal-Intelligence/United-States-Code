@@ -12,7 +12,7 @@ The Secretary of Agriculture shall establish in the Department an Office of Pest
 
 &emsp;(2) the coordination of activities and services of the Department, including research, extension, and education activities, regarding the development, availability, and use of economically and environmentally sound pest management tools and practices;
 
-&emsp;(3) assisting other agencies of the Department in fulfilling their responsibilities related to pest management or pesticides under the Food Quality Protection Act of 1996 (Public Law 104–170; 110 Stat. 1489), the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136 et seq.), the Federal Food, Drug, andCosmetic Act (21 U.S.C. 301 et seq.), and other applicable laws; and
+&emsp;(3) assisting other agencies of the Department in fulfilling their responsibilities related to pest management or pesticides under the Food Quality Protection Act of 1996 (Public Law 104–170; 110 Stat. 1489), the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136 et seq.), the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.), and other applicable laws; and
 
 &emsp;(4) performing such other functions as may be required by law or prescribed by the Secretary.
 
@@ -22,7 +22,7 @@ In support of its responsibilities under subsection (b) of this section, the Off
 
 #### (d) Outreach
 
-The Office of Pest Management Policy shall consult with agricultural producers that may be affected by pest management or pesticide-related activities or actions of the Department or other agencies as necessary in carrying out the Office's responsibilities under this section.
+The Office of Pest Management Policy shall consult with agricultural producers that may beaffected by pest management or pesticide-related activities or actions of the Department or other agencies as necessary in carrying out the Office's responsibilities under this section.
 
 #### (e) Director
 
@@ -48,9 +48,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (f). Pub. L. 110–246, §7313, substituted “2012” for “2007”.
+<b>2008</b>—Subsec. (f). Pub. L. 110–246, §7313, substituted “2012” for “2007”.
 
-2002—Subsec. (f). Pub. L. 107–171 substituted “2007” for “2002”.
+<b>2002</b>—Subsec. (f). Pub. L. 107–171 substituted “2007” for “2002”.
 
 #### Effective Date of 2008 Amendment
 

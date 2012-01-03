@@ -48,7 +48,7 @@ Subchapters I to X, referred to in text, were in the original references to titl
 
 Section 8801 of this title, referred to in subsecs. (a)(6) and (b)(1), was repealed by Pub. L. 107–110, title X, §1011(5)(C), Jan. 8, 2002, 115 Stat. 1986.
 
-For Oct. 1, 1994, as the date the Compact of Free Association with the Government of Palau takes effect,referred to in subsec. (a)(7), see Proc. No. 6726, Sept. 27, 1994, 59 F.R. 49777, set out as a note under section 1931 of Title 48, Territories and Insular Possessions.
+For Oct. 1, 1994, as the date the Compact of Free Association with the Government of Palau takes effect, referred to in subsec. (a)(7), see Proc. No. 6726, Sept. 27, 1994, 59 F.R. 49777, set out as a note under section 1931 of Title 48, Territories and Insular Possessions.
 
 #### Amendments
 

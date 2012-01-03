@@ -26,7 +26,7 @@ Not later than 1 year after July 29, 2010, the Secretary of the Interior, the At
 
 &emsp;(6) direct Bureau of Indian Affairs agency and education superintendents, where appropriate, and the Indian Health Service service unit directors to cooperate fully with tribal requests made pursuant to section 2412 of this title, and
 
-&emsp;(7) provide for an annual review of such agreements by the Secretary of the Interior,the Attorney General, and the Secretary of Health and Human Services.
+&emsp;(7) provide for an annual review of such agreements by the Secretary of the Interior, the Attorney General, and the Secretary of Health and Human Services.
 
 #### (b) Character of activities
 

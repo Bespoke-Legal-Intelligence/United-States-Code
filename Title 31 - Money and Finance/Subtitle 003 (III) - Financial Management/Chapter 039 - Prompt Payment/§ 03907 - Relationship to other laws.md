@@ -10,7 +10,7 @@
 
 (2) Paragraph (1) of this subsection does not prevent an interest penalty from accruing under section 7109(a)(1) and (b) of title 41 after a penalty stops accruing under this chapter. A penalty accruing under section 7109(a)(1) and (b) may accrue on an unpaid contract payment and on the unpaid penalty under this chapter.
 
-(c) Except as provided in section 3904 of this title, this chapter does not require an interestpenalty on a payment that is not made because of a dispute between the head of an agency and a business concern over the amount of payment or compliance with the contract. A claim related to the dispute, and interest payable for the period during which the dispute is being resolved, is subject to chapter 71 of title 41.
+(c) Except as provided in section 3904 of this title, this chapter does not require an interest penalty on a payment that is not made because of a dispute between the head of an agency and a business concern over the amount of payment or compliance with the contract. A claim related to the dispute, and interest payable for the period during which the dispute is being resolved, is subject to chapter 71 of title 41.
 
 (Added Pub. L. 97–452, §1(18)(A), Jan. 12, 1983, 96 Stat. 2477, §3906; renumbered §3907, Pub. L. 100–496, §9(a)(1), Oct. 17, 1988, 102 Stat. 2460; amended Pub. L. 111–350, §5(h)(8), Jan. 4, 2011, 124 Stat. 3849.)
 

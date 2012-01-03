@@ -22,7 +22,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-2001—Pub. L. 107–68 inserted at end “For purposes of this section, the term ‘agency’ includes the Office of the Architect of the Capitol.”
+<b>2001</b>—Pub. L. 107–68 inserted at end “For purposes of this section, the term ‘agency’ includes the Office of the Architect of the Capitol.”
 
 #### Effective Date of 2001 Amendment
 

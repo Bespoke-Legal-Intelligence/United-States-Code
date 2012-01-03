@@ -46,9 +46,9 @@ Section 901(c) of former Title 5, Executive Departments and Government Officers 
 
 #### Amendments
 
-1977—Subsecs. (a) to (d). Pub. L. 95–17 reenacted subsecs. (a) and (b) without change, added subsec. (c), and redesignated former subsec. (c) as (d).
+<b>1977</b>—Subsecs. (a) to (d). Pub. L. 95–17 reenacted subsecs. (a) and (b) without change, added subsec. (c), and redesignated former subsec. (c) as (d).
 
-1971—Subsec. (a). Pub. L. 92–179, §1(a), substituted “The Congress declares that it is the policy of the United States” for “The President shall from time to time examine the organization of all agencies and shall determine what changes therein are necessary to accomplish the following purposes” preceding par. (1).
+<b>1971</b>—Subsec. (a). Pub. L. 92–179, §1(a), substituted “The Congress declares that it is the policy of the United States” for “The President shall from time to time examine the organization of all agencies and shall determine what changes therein are necessary to accomplish the following purposes” preceding par. (1).
 
 Subsec. (c). Pub. L. 92–179, §1(b), added subsec. (c) consisting of provisions formerly set out preceding par. (1) of subsec. (a).
 

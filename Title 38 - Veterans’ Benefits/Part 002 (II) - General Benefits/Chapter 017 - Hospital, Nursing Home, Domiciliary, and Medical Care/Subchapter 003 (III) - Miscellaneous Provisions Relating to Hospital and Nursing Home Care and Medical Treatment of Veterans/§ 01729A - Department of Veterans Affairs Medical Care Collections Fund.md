@@ -60,7 +60,7 @@ Subsec. (d). Pub. L. 106–117, §203, struck out par. (1) designation, substitu
 
 #### Effective Date of 1999 Amendment
 
-Amendment by section 111(b)(1) of Pub. L. 106–117 effective 180 days after Nov. 30, 1999, see section 111(c) ofPub. L. 106–117, set out as an Effective Date note under section 1725 of this title.
+Amendment by section 111(b)(1) of Pub. L. 106–117 effective 180 days after Nov. 30, 1999, see section 111(c) of Pub. L. 106–117, set out as an Effective Date note under section 1725 of this title.
 
 #### Effective Date
 

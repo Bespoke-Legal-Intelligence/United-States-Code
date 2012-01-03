@@ -92,11 +92,11 @@ This Act, referred to in subsec. (c)(2)(B)(i), is Pub. L. 100–233, Jan. 6, 198
 
 #### Amendments
 
-2000—Subsec. (c)(1), (2). Pub. L. 106–472, §306(a)(1), added pars. (1) and (2) and struck out former pars. (1) and (2), which required State mediation program to provide services for producers, their creditors, and other persons involved in agricultural loans, or involved in agricultural loans and such issues as wetlands determinations, compliance with farm programs, agricultural credit, rural water loan programs, grazing on National Forest System lands, pesticides, or such other issues considered appropriate.
+<b>2000</b>—Subsec. (c)(1), (2). Pub. L. 106–472, §306(a)(1), added pars. (1) and (2) and struck out former pars. (1) and (2), which required State mediation program to provide services for producers, their creditors, and other persons involved in agricultural loans, or involved in agricultural loans and such issues as wetlands determinations, compliance with farm programs, agricultural credit, rural water loan programs, grazing on National Forest System lands, pesticides, or such other issues considered appropriate.
 
 Subsec. (d). Pub. L. 106–472, §306(a)(2), added subsec. (d).
 
-1994—Subsec. (a). Pub. L. 103–354, §282(a)(1), substituted “a mediation program” for “an agricultural loan mediation program”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–354, §282(a)(1), substituted “a mediation program” for “an agricultural loan mediation program”.
 
 Subsec. (b). Pub. L. 103–354, §282(a)(2), struck out “agricultural loan” before “mediation program”.
 
@@ -112,7 +112,7 @@ Subsec. (c). Pub. L. 103–354, §282(a)(3), added subsec. (c) and struck out he
 
 &emsp;“(5) ensures that all lenders and borrowers of agricultural loans receive adequate notification of the mediation program.”
 
-1988—Subsec. (b). Pub. L. 100–399 struck out comma after “Governor of a State”.
+<b>1988</b>—Subsec. (b). Pub. L. 100–399 struck out comma after “Governor of a State”.
 
 #### Effective Date of 1988 Amendment
 

@@ -36,15 +36,21 @@ If an account is established by more than 1 individual or for a person other tha
 
 #### (e) Notice to account holders as of effective date of regulations
 
-For any account for which the depository institution delivers an account statement on a quarterly or more frequent basis, the depository institution shall include on or with the first regularly scheduled mailing sent after the end of the 6-month period beginning on the date of publication of regulations issued by the Board in final form, a statement that the account holder has the right to request an account schedule containing the terms, charges, and interest rates of the account, and that the account holder may wish to request such an account schedule.
+For any account for which the depository institution delivers an account statement on a quarterly or more frequent basis, the depository institution shall include on or with the first regularly scheduled mailing sent after the end of the 6-month period beginning on the date of publication of regulations issued by the Bureau infinal form, a statement that the account holder has the right to request an account schedule containing the terms, charges, and interest rates of the account, and that the account holder may wish to request such an account schedule.
 
-(Pub. L. 102–242, title II, §266, Dec. 19, 1991, 105 Stat. 2337; Pub. L. 102–550, title XVI, §1604(e)(1), Oct. 28, 1992, 106 Stat. 4084; Pub. L. 104–208, div. A, title II, §2604(d), Sept. 30, 1996, 110 Stat. 3009–471.)
+(Pub. L. 102–242, title II, §266, Dec. 19, 1991, 105 Stat. 2337; Pub. L. 102–550, title XVI, §1604(e)(1), Oct. 28, 1992, 106 Stat. 4084; Pub. L. 104–208, div. A, title II, §2604(d), Sept. 30, 1996, 110 Stat. 3009–471; Pub. L. 111–203, title X, §1100B(1), July 21, 2010, 124 Stat. 2109.)
 
 #### Amendments
 
-1996—Subsec. (a)(3). Pub. L. 104–208 inserted “has a maturity of more than 30 days” after “deposit which”.
+<b>2010</b>—Subsec. (e). Pub. L. 111–203 substituted “Bureau” for “Board”.
 
-1992—Subsec. (e). Pub. L. 102–550 substituted “on or with the first regularly scheduled mailing sent after the end of the 6-month period beginning on the date of publication” for “on or with any regularly scheduled mailing posted or delivered within 180 days after publication”.
+<b>1996</b>—Subsec. (a)(3). Pub. L. 104–208 inserted “has a maturity of more than 30 days” after “deposit which”.
+
+<b>1992</b>—Subsec. (e). Pub. L. 102–550 substituted “on or with the first regularly scheduled mailing sent after the end of the 6-month period beginning on the date of publication” for “on or with any regularly scheduled mailing posted or delivered within 180 days after publication”.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1992 Amendment
 

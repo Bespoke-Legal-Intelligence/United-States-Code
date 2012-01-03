@@ -24,7 +24,7 @@ The functions of the Foundation shall be the planning, development, and implemen
 
 &emsp;&emsp;(ii) thereafter shall consist of those nine members plus up to six additional voting members as determined in accordance with the bylaws of the Foundation.
 
-&emsp;(B)(i) The Secretary of Commerce shall, within six months after September 30, 1992, appoint the initial nine voting members of the Board and thereafter shall appoint the successors of each of three such members, as provided by such bylaws.
+&emsp;(B)(i) The Secretary of Commerce shall, within six months after September 30, 1992, appoint the initial nine voting members of theBoard and thereafter shall appoint the successors of each of three such members, as provided by such bylaws.
 
 &emsp;(ii) The voting members of the Board, other than those referred to in clause (i), shall be appointed in accordance with procedures established by such bylaws.
 

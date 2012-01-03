@@ -6,7 +6,7 @@
 
 &emsp;(2) For an employee whose basic pay is at a rate which exceeds the minimum rate of basic pay for GS–10 (including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law), the overtime hourly rate of pay is an amount equal to the greater of one and one-half times the hourly rate of the minimum rate of basic pay for GS–10 (including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law) or the hourly rate of basic pay of the employee, and all that amount is premium pay.
 
-&emsp;(3) Notwithstanding paragraphs (1) and (2) of this subsection for an employee of the Department of Transportation who occupies a nonmanagerial position in GS–14 or under and, asdetermined by the Secretary of Transportation,
+&emsp;(3) Notwithstanding paragraphs (1) and (2) of this subsection for an employee of the Department of Transportation who occupies a nonmanagerial position in GS–14 or under and, as determined by the Secretary of Transportation,
 
 &emsp;&emsp;(A) the duties of which are critical to the immediate daily operation of the air traffic control system, directly affect aviation safety, and involve physical or mental strain or hardship;
 
@@ -58,7 +58,7 @@
 
 &emsp;(1) such subsection shall be deemed to apply to hours of work officially ordered or approved in excess of 106 hours in a biweekly pay period, or, if the agency establishes a weekly basis for overtime pay computation, in excess of 53 hours in an administrative workweek; and
 
-&emsp;(2) the overtime hourly rate of pay is an amount equal to one and one-half times the hourly rate of basic pay under section 5545b(b)(1)(A) or (c)(1)(B), as applicable, and such overtime hourly rate of pay may not be less than such hourly rate of basic pay in applying the limitation on the overtime rateprovided in paragraph (2) of such subsection (a).
+&emsp;(2) the overtime hourly rate of pay is an amount equal to one and one-half times the hourly rate of basic pay under section 5545b(b)(1)(A) or (c)(1)(B), as applicable, and such overtime hourly rate of pay may not be less than such hourly rate of basic pay in applying the limitation on the overtime rate provided in paragraph (2) of such subsection (a).
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 485; Pub. L. 90–83, §1(24), Sept. 11, 1967, 81 Stat. 200; Pub. L. 90–206, title II, §222(a), Dec. 16, 1967, 81 Stat. 641; Pub. L. 90–556, §1, Oct. 10, 1968, 82 Stat. 969; Pub. L. 92–194, Dec. 15, 1971, 85 Stat. 648; Pub. L. 98–473, title I, §101(c) \[title III, §322\], Oct. 12, 1984, 98 Stat. 1837, 1874; Pub. L. 101–509, title V, §529 \[title I, §101(b)(3)(E), title II, §210(1), title IV, §410(a)\], Nov. 5, 1990, 104 Stat. 1427, 1439, 1460, 1468; Pub. L. 102–378, §2(41), Oct. 2, 1992, 106 Stat. 1352; Pub. L. 103–329, title VI, §633(c), Sept. 30, 1994, 108 Stat. 2427; Pub. L. 104–52, title V, §531, Nov. 19, 1995, 109 Stat. 496; Pub. L. 105–277, div. A, §101(b) \[title IV, §407(c)(2)\], (h) \[title VI, §628(a)(1)\], div. G, subdiv. B, title XXIII, §2316(c)(2), Oct. 21, 1998, 112 Stat. 2681–50, 2681–102, 2681–480, 2681–519, 2681–829; Pub. L. 106–558, §2(a), Dec. 21, 2000, 114 Stat. 2776; Pub. L. 108–136, div. A, title XI, §1121, Nov. 24, 2003, 117 Stat. 1636; Pub. L. 111–383, div. A, title XI, §1105(a), Jan. 7, 2011, 124 Stat. 4383.)
 
@@ -126,37 +126,37 @@ Section 37(a)(3) of the State Department Basic Authorities Act of 1956, referred
 
 #### Amendments
 
-2011—Subsec. (a)(6). Pub. L. 111–383 added par. (6).
+<b>2011</b>—Subsec. (a)(6). Pub. L. 111–383 added par. (6).
 
-2003—Subsec. (a)(2). Pub. L. 108–136 inserted “the greater of” before “one and one-half” and “or the hourly rate of basic pay of the employee” before “, and all that amount”.
+<b>2003</b>—Subsec. (a)(2). Pub. L. 108–136 inserted “the greater of” before “one and one-half” and “or the hourly rate of basic pay of the employee” before “, and all that amount”.
 
-2000—Subsec. (a)(5). Pub. L. 106–558 added par. (5).
+<b>2000</b>—Subsec. (a)(5). Pub. L. 106–558 added par. (5).
 
-1998—Subsec. (e). Pub. L. 105–277, §101(b) \[title IV, §407(c)(2)\] and §2316(c)(2), amended subsec. (e) identically, substituting “title 18 or section 37(a)(3) of the State Department Basic Authorities Act of 1956,” for “title 18, United States Code,”.
+<b>1998</b>—Subsec. (e). Pub. L. 105–277, §101(b) \[title IV, §407(c)(2)\] and §2316(c)(2), amended subsec. (e) identically, substituting “title 18 or section 37(a)(3) of the State Department Basic Authorities Act of 1956,” for “title 18, United States Code,”.
 
 Subsec. (f). Pub. L. 105–277, §101(h) \[title VI, §628(a)(1)\], added subsec. (f).
 
-1995—Subsec. (e). Pub. L. 104–52 added subsec. (e).
+<b>1995</b>—Subsec. (e). Pub. L. 104–52 added subsec. (e).
 
-1994—Subsec. (d). Pub. L. 103–329 added subsec. (d).
+<b>1994</b>—Subsec. (d). Pub. L. 103–329 added subsec. (d).
 
-1992—Subsec. (a)(4). Pub. L. 102–378, §2(41)(A), substituted “officer,” for “officer (within the meaning of section 8331(20) or 8401(17)),” and realigned margin of closing provision.
+<b>1992</b>—Subsec. (a)(4). Pub. L. 102–378, §2(41)(A), substituted “officer,” for “officer (within the meaning of section 8331(20) or 8401(17)),” and realigned margin of closing provision.
 
 Subsec. (c). Pub. L. 102–378, §2(41)(B), amended second sentence generally. Prior to amendment, second sentence read as follows: “In the case of an employee who would, were it not for the preceding sentence, be subject to this section, hours of work in excess of 8 hours in a day shall be deemed to be overtime hours for the purposes of such section 7 and hours in a paid nonwork status shall be deemed to be hours of work.”
 
-1990—Subsec. (a). Pub. L. 101–509, §529 \[title I, §101(b)(3)(E)\], inserted “(including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law)” after “GS–10” wherever appearing.
+<b>1990</b>—Subsec. (a). Pub. L. 101–509, §529 \[title I, §101(b)(3)(E)\], inserted “(including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law)” after “GS–10” wherever appearing.
 
 Subsec. (a)(4). Pub. L. 101–509, §529 \[title IV, §410(a)\], added par. (4).
 
 Subsec. (c). Pub. L. 101–509, §529 \[title II, §210(1)\], added subsec. (c).
 
-1984—Subsec. (b)(2)(B)(iv). Pub. L. 98–473 inserted “, including travel by an employee to such an event and the return of such employee from such event to his or her official-duty station”.
+<b>1984</b>—Subsec. (b)(2)(B)(iv). Pub. L. 98–473 inserted “, including travel by an employee to such an event and the return of such employee from such event to his or her official-duty station”.
 
-1971—Subsec. (a). Pub. L. 92–194 substituted “For full-time, part-time and intermittent tours of duty, hours” for “Hours”.
+<b>1971</b>—Subsec. (a). Pub. L. 92–194 substituted “For full-time, part-time and intermittent tours of duty, hours” for “Hours”.
 
-1968—Subsec. (a)(3). Pub. L. 90–556 added par. (3).
+<b>1968</b>—Subsec. (a)(3). Pub. L. 90–556 added par. (3).
 
-1967—Subsec. (b)(2)(B). Pub. L. 90–206 designated existing provisions as cls. (i) and (iii) and added cls. (ii) and (iv).
+<b>1967</b>—Subsec. (b)(2)(B). Pub. L. 90–206 designated existing provisions as cls. (i) and (iii) and added cls. (ii) and (iv).
 
 #### Effective Date of 2000 Amendment
 
@@ -174,7 +174,7 @@ Amendment by section 101(h) \[title VI, §628(a)(1)\] of Pub. L. 105–277 effec
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–329 effective first day of first applicable pay period beginning on or after 30thday following Sept. 30, 1994, with exceptions relating to criminal investigators employed in Offices of Inspectors General, see section 633(e) of Pub. L. 103–329, set out as an Effective Date note under section 5545a of this title.
+Amendment by Pub. L. 103–329 effective first day of first applicable pay period beginning on or after 30th day following Sept. 30, 1994, with exceptions relating to criminal investigators employed in Offices of Inspectors General, see section 633(e) of Pub. L. 103–329, set out as an Effective Date note under section 5545a of this title.
 
 #### Effective Date of 1992 Amendment
 

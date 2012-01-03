@@ -162,11 +162,11 @@ The date of enactment of the Food, Conservation, and Energy Act of 2008, referre
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 
-2008—Pub. L. 110–246, §6028, amended section generally. Prior to amendment, section provided for certification of Regional Investment Boards.
+<b>2008</b>—Pub. L. 110–246, §6028, amended section generally. Prior to amendment, section provided for certification of Regional Investment Boards.
 
 #### Effective Date of 2008 Amendment
 

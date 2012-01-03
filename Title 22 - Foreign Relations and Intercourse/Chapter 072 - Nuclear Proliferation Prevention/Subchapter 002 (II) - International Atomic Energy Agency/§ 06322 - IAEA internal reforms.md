@@ -28,7 +28,7 @@ In order to promote the early adoption of reforms in the implementation of the s
 
 &emsp;(12) provide the IAEA the additional funds, technical assistance, and political support necessary to carry out the goals set forth in this subsection; <sup>1</sup> and
 
-&emsp;(13) make public the annual safeguards implementation report of the IAEA, establishing a public registry of commodities in international nuclear commerce, including dual-use goods, and creating a public repository ofcurrent nuclear trade control laws, agreements, regulations, and enforcement and judicial actions by IAEA member nations.
+&emsp;(13) make public the annual safeguards implementation report of the IAEA, establishing a public registry of commodities in international nuclear commerce, including dual-use goods, and creating a public repository of current nuclear trade control laws, agreements, regulations, and enforcement and judicial actions by IAEA member nations.
 
 (Pub. L. 103–236, title VIII, §842, Apr. 30, 1994, 108 Stat. 523.)
 

@@ -214,7 +214,7 @@
 
 #### (4) Report on coordination
 
-&emsp;The Director, in consultation with the Secretary of Education, shall provide an annual report to the Committee on Science of the House of Representatives, the Committee on Education and the Workforce of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Health, Education, Labor, and Pensions of the Senate describing how the program authorized under this section has been and will be coordinated with the program authorized under part B of title II of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6661 et seq.\]. The report under this paragraph shall be submitted along with the President's annual budget request.
+&emsp;The Director, in consultation with the Secretary of Education, shall provide an annual report to the Committee on Science of the House of Representatives, the Committee on Education and the Workforce of the House ofRepresentatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Health, Education, Labor, and Pensions of the Senate describing how the program authorized under this section has been and will be coordinated with the program authorized under part B of title II of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6661 et seq.\]. The report under this paragraph shall be submitted along with the President's annual budget request.
 
 #### (5) Technical assistance
 
@@ -236,7 +236,7 @@ In this section—
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in subsecs. (b)(3)(A) and (c)(4), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Part A of title I of the Act is classified generally to part A (§6311 et seq.) of subchapter I of chapter 70 of Title 20,Education. Part B of title II of the Act is classified generally to part B (§6661 et seq.) of subchapter II of chapter 70 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsecs. (b)(3)(A) and (c)(4), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Part A of title I of the Act is classified generally to part A (§6311 et seq.) of subchapter I of chapter 70 of Title 20, Education. Part B of title II of the Act is classified generally to part B (§6661 et seq.) of subchapter II of chapter 70 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
 #### Codification
 
@@ -270,9 +270,7 @@ Subsec. (d). Pub. L. 110–69, §7028(9), added subsec. (d).
 
 #### Change of Name
 
-Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Findings
 
@@ -290,7 +288,7 @@ Pub. L. 107–368, §2, Dec. 19, 2002, 116 Stat. 3034, provided that: “Congres
 
 &emsp;“(6) The emerging global economic, scientific, and technical environment challenges long-standing assumptions about domestic and international policy, requiring the National Science Foundation to play a more proactive role in sustaining the competitive advantage of the United States through superior research capabilities.
 
-&emsp;“(7) Commercial application of the results of Federal investment in basic and computing science is consistent with longstanding United States technology transfer policy and is a critical national priority, particularly with regard to cybersecurity and other homeland security applications, because of the urgent needs of commercial, academic, and individual users as well as the Federal and State Governments.”
+&emsp;“(7) Commercial application of the results of Federal investment in basic and computing science is consistent with longstanding United States technology transfer policy and is a critical national priority, particularly with regard to cybersecurity and other homeland security applications, because of theurgent needs of commercial, academic, and individual users as well as the Federal and State Governments.”
 
 #### Report on Foundation Budgetary and Programmatic Expansion
 
@@ -330,7 +328,7 @@ Foundation.—The term ‘Foundation’ means the National Science Foundation es
 
 &emsp;“(8)
 
-High-need local educational agency.—The term ‘high-need local educational agency’ means alocal educational agency that meets one or more of the following criteria:
+High-need local educational agency.—The term ‘high-need local educational agency’ means a local educational agency that meets one or more of the following criteria:
 
 &emsp;&emsp;“(A) It has at least one school in which 50 percent or more of the enrolled students are eligible for participation in the free and reduced price lunch program established by the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.).
 

@@ -182,43 +182,39 @@ Notwithstanding any other provision of law, the Commission may accept payment an
 
 &emsp;&emsp;(B) report to the Director of that Division.
 
+#### (i) Securities and Exchange Commission Reserve Fund
+
+#### (1) Reserve Fund established
+
+&emsp;There is established in the Treasury of the United States a separate fund, to be known as the “Securities and Exchange Commission Reserve Fund” (referred to in this subsection as the “Reserve Fund”).
+
+#### (2) Reserve Fund amounts
+
+#### (A) In general
+
+&emsp;&emsp;Except as provided in subparagraph (B), any registration fees collected by the Commission under section 77f(b) of this title or section 80a–24(f) of this title shall be deposited into the Reserve Fund.
+
+#### (B) Limitations
+
+&emsp;&emsp;For any 1 fiscal year—
+
+&emsp;&emsp;&emsp;(i) the amount deposited in the Fund may not exceed $50,000,000; and
+
+&emsp;&emsp;&emsp;(ii) the balance in the Fund may not exceed $100,000,000.
+
+#### (C) Excess fees
+
+&emsp;&emsp;Any amounts in excess of the limitations described in subparagraph (B) that the Commission collects from registration fees under section 77f(b) of this title or section 80a–24(f) of this title shall be deposited in the General Fund of the Treasury of the United States and shall not be available for obligation by the Commission.
+
+#### (3) Use of amounts in Reserve Fund
+
+&emsp;The Commission may obligate amounts in the Reserve Fund, not to exceed a total of $100,000,000 in any 1 fiscal year, as the Commission determines is necessary to carry out the functions of the Commission. Any amounts in the reserve fund shall remain available until expended. Not later than 10 days after the date on which the Commission obligates amounts under this paragraph, the Commission shall notify Congress of the date, amount, and purpose of the obligation.
+
+#### (4) Rule of construction
+
+&emsp;Amounts collected and deposited in the Reserve Fund shall not be construed to be Government funds or appropriated monies and shall not be subject to apportionment for the purpose of chapter 15 of title 31 or under any other authority.
+
 (June 6, 1934, ch. 404, title I, §4, 48 Stat. 885; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Pub. L. 86–619, §3, July 12, 1960, 74 Stat. 408; Pub. L. 86–771, Sept. 13, 1960, 74 Stat. 913; Pub. L. 88–426, title III, §305(20), Aug. 14, 1964, 78 Stat. 425; Pub. L. 98–38, §1, June 6, 1983, 97 Stat. 205; Pub. L. 100–181, title III, §307, Dec. 4, 1987, 101 Stat. 1254; Pub. L. 101–550, title I, §103, title II, §207, Nov. 15, 1990, 104 Stat. 2713, 2721; Pub. L. 104–290, title IV, §406, Oct. 11, 1996, 110 Stat. 3444; Pub. L. 105–353, title II, §203, Nov. 3, 1998, 112 Stat. 3234; Pub. L. 107–123, §8(d)(2), Jan. 16, 2002, 115 Stat. 2399; Pub. L. 111–203, title IX, §§915, 919D, 965, 991(e)(1), July 21, 2010, 124 Stat. 1830, 1840, 1911, 1954.)
-
-#### Amendment of Section
-
-<i>Pub. L. 111–203, title IX, §991(e), July 21, 2010, 124 Stat. 1954, provided that, effective Oct. 1, 2011, this section is amended by adding at the end the following:</i>
-
-#### <i>(i) Securities and Exchange Commission Reserve Fund</i>
-
-#### <i>(1) Reserve Fund established</i>
-
-&emsp;<i>There is established in the Treasury of the United States a separate fund, to be known as the “Securities and Exchange Commission Reserve Fund” (referred to in this subsection as the “Reserve Fund”).</i>
-
-#### <i>(2) Reserve Fund amounts</i>
-
-#### <i>(A) In general</i>
-
-&emsp;&emsp;<i>Except as provided in subparagraph (B), any registration fees collected by the Commission under section 77f(b) of this title or section 80a–24(f) of this title shall be deposited into the Reserve Fund.</i>
-
-#### <i>(B) Limitations</i>
-
-&emsp;&emsp;<i>For any 1 fiscal year—</i>
-
-&emsp;&emsp;&emsp;<i>(i) the amount deposited in the Fund may not exceed $50,000,000; and</i>
-
-&emsp;&emsp;&emsp;<i>(ii) the balance in the Fund may not exceed $100,000,000.</i>
-
-#### <i>(C) Excess fees</i>
-
-&emsp;&emsp;<i>Any amounts in excess of the limitations described in subparagraph (B) that the Commission collects from registration fees under section 77f(b) of this title or section 80a–24(f) of this title shall be deposited in the General Fund of the Treasury of the United States and shall not be available for obligation by the Commission.</i>
-
-#### <i>(3) Use of amounts in Reserve Fund</i>
-
-&emsp;<i>The Commission may obligate amounts in the Reserve Fund, not to exceed a total of $100,000,000 in any 1 fiscal year, as the Commission determines is necessary to carry out the functions of the Commission. Any amounts in the reserve fund shall remain available until expended. Not later than 10 days after the date on which the Commission obligates amounts under this paragraph, the Commission shall notify Congress of the date, amount, and purpose of the obligation.</i>
-
-#### <i>(4) Rule of construction</i>
-
-&emsp;<i>Amounts collected and deposited in the Reserve Fund shall not be construed to be Government funds or appropriated monies and shall not be subject to apportionment for the purpose of chapter 15 of title 31 or under any other authority.</i>
 
 #### References in Text
 
@@ -232,7 +228,9 @@ Subsec. (g)(8). Pub. L. 111–203, §919D, added par. (8).
 
 Subsec. (h). Pub. L. 111–203, §965, added subsec. (h).
 
-<b>2002</b>—Subsec. (b)(1), (2). Pub. L. 107–123 added pars. (1) and (2) and struck out former pars. (1) and (2), which authorized the Commission to appoint and compensate officers, attorneys, examiners, and other experts asneeded, and to select, appoint, and compensate professional economists.
+Subsec. (i). Pub. L. 111–203, §991(e)(1), added subsec. (i).
+
+<b>2002</b>—Subsec. (b)(1), (2). Pub. L. 107–123 added pars. (1) and (2) and struck out former pars. (1) and (2), which authorized the Commission to appoint and compensate officers, attorneys, examiners, and other experts as needed, and to select, appoint, and compensate professional economists.
 
 <b>1998</b>—Subsec. (b)(2), (3). Pub. L. 105–353 added par. (2) and redesignated former par. (2) as (3).
 

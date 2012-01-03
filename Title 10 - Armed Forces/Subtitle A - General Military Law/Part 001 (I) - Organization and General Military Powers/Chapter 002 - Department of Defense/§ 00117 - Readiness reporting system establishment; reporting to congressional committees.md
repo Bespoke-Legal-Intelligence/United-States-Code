@@ -2,7 +2,7 @@
 
 (a)
 
-Required Readiness Reporting System.—The Secretary of Defense shall establish a comprehensive readiness reporting system for the Department of Defense. The readiness reportingsystem shall measure in an objective, accurate, and timely manner the capability of the armed forces to carry out—
+Required Readiness Reporting System.—The Secretary of Defense shall establish a comprehensive readiness reporting system for the Department of Defense. The readiness reporting system shall measure in an objective, accurate, and timely manner the capability of the armed forces to carry out—
 
 &emsp;(1) the National Security Strategy prescribed by the President in the most recent annual national security strategy report under section 108 of the National Security Act of 1947 (50 U.S.C. 404a);
 
@@ -180,7 +180,7 @@ Multiyear Contract Notification.—
 
 &emsp;“(1)
 
-Notification.—If the Secretary of a military department makes the determination described in paragraph (2) with respect to the use of a multiyear contract, the Secretary shall notify the congressionaldefense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] within 30 days of the determination and provide a detailed description of the proposed multiyear contract.
+Notification.—If the Secretary of a military department makes the determination described in paragraph (2) with respect to the use of a multiyear contract, the Secretary shall notify the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] within 30 days of the determination and provide a detailed description of the proposed multiyear contract.
 
 &emsp;“(2)
 

@@ -36,7 +36,7 @@ For purposes of subsection (a)—
 
 &emsp;&emsp;(D) section 832(b)(4) (relating to premiums earned on insurance contracts),
 
-> &emsp;shall be taken into account only to the extent they are in respect of any reinsurance or theissuing of any insurance or annuity contract described in subsection (a)(1).
+> &emsp;shall be taken into account only to the extent they are in respect of any reinsurance or the issuing of any insurance or annuity contract described in subsection (a)(1).
 
 &emsp;(3) Reserves for any insurance or annuity contract shall be determined in the same manner as under section 954(i).
 
@@ -246,7 +246,7 @@ For purposes of subsection (a)—
 
 &emsp;&emsp;The amount of tax determined under this paragraph shall be equal to the lesser of—
 
-&emsp;&emsp;&emsp;(i) 3/4 of 1 percent of the aggregate amount of capital and accumulated surplus of the corporation as of December 31, 1987, or
+&emsp;&emsp;&emsp;(i) ¾ of 1 percent of the aggregate amount of capital and accumulated surplus of the corporation as of December 31, 1987, or
 
 &emsp;&emsp;&emsp;(ii) $1,500,000.
 
@@ -416,7 +416,7 @@ Subsec. (e). Pub. L. 105–277, §1005(b)(1)(B), added subsec. (e).
 
 <b>1989</b>—Subsec. (d)(3). Pub. L. 101–239 substituted “for purposes of section 1503(d) without regard to paragraph (2)(B) thereof” for “(as defined in section 1503(d))”.
 
-<b>1988</b>—Subsec. (b)(1). Pub. L. 100–647, §1012(i)(7)(A), redesignated par. (2) as (1) and struck out former par. (1)which read as follows: “A corporation which would, if it were a domestic insurance corporation, be taxable under part II of subchapter L shall apply subsection (a) as if it were taxable under part III of subchapter L.”
+<b>1988</b>—Subsec. (b)(1). Pub. L. 100–647, §1012(i)(7)(A), redesignated par. (2) as (1) and struck out former par. (1) which read as follows: “A corporation which would, if it were a domestic insurance corporation, be taxable under part II of subchapter L shall apply subsection (a) as if it were taxable under part III of subchapter L.”
 
 Subsec. (b)(1)(A). Pub. L. 100–647, §1012(i)(7)(B), added subpar. (A) and struck out former subpar. (A) which read as follows: “The special life insurance company deduction and the small life insurance company deduction.”
 
@@ -518,7 +518,7 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1988 Amendment
 
-Section 1012(i)(3)(C) of Pub. L. 100–647 provided that: “The amendments made by this paragraph \[amendingthis section\] to the extent such amendments add the phrase ‘(directly or indirectly)’ shall apply only to taxable years beginning after December 31, 1987.”
+Section 1012(i)(3)(C) of Pub. L. 100–647 provided that: “The amendments made by this paragraph \[amending this section\] to the extent such amendments add the phrase ‘(directly or indirectly)’ shall apply only to taxable years beginning after December 31, 1987.”
 
 Amendment by section 1012(i)(1), (2), (4), (5), (7)–(9), (21) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 

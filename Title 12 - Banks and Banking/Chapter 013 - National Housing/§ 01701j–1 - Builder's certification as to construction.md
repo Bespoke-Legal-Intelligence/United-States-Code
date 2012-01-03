@@ -16,9 +16,9 @@ Section was enacted as part of the Housing Act of 1954, and not as part of the N
 
 #### Amendments
 
-1967—Subsecs. (a), (b). Pub. L. 90–19 substituted “Secretary of Housing and Urban Development” and “Secretary” for “Federal Housing Commissioner” and “Commissioner”, respectively.
+<b>1967</b>—Subsecs. (a), (b). Pub. L. 90–19 substituted “Secretary of Housing and Urban Development” and “Secretary” for “Federal Housing Commissioner” and “Commissioner”, respectively.
 
-1958—Subsec. (a). Pub. L. 85–857 struck out provisions that related to Administrator of Veterans’ Affairs and to mortgages guaranteed by him.
+<b>1958</b>—Subsec. (a). Pub. L. 85–857 struck out provisions that related to Administrator of Veterans’ Affairs and to mortgages guaranteed by him.
 
 Subsec. (b). Pub. L. 85–857 struck out provisions that related to Administrator of Veterans’ Affairs.
 

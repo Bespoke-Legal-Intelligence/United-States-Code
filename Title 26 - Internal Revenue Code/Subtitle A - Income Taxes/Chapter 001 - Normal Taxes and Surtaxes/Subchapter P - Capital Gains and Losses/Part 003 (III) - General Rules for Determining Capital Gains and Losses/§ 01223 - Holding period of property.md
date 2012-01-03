@@ -18,7 +18,7 @@ For purposes of this subtitle—
 
 &emsp;(6) In determining the period for which the taxpayer has held a residence, the acquisition of which resulted under section 1034 (as in effect on the day before the date of the enactment of the Taxpayer Relief Act of 1997) in the nonrecognition of any part of the gain realized on the sale or exchange of another residence, there shall be included the period for which such other residence had been held as of the date of such sale or exchange. For purposes of this paragraph, the term “sale or exchange” includes an involuntary conversion occurring after December 31, 1950, and before January 1, 1954.
 
-&emsp;(7) In determining the period for which the taxpayer has held a commodity acquired in satisfaction of a commodity futures contract (other than a commodity futures contract to which section 1256 applies) there shall be included the period for which he held the commodity futures contract if such commodity futures contract was a capital asset in his hands.
+&emsp;(7) In determining the period for which the taxpayer has held a commodity acquired in satisfaction of a commodity futures contract (other than a commodity futures contract towhich section 1256 applies) there shall be included the period for which he held the commodity futures contract if such commodity futures contract was a capital asset in his hands.
 
 &emsp;(8) Any reference in this section to a provision of this title shall, where applicable, be deemed a reference to the corresponding provision of the Internal Revenue Code of 1939, or prior internal revenue laws.
 
@@ -70,7 +70,7 @@ The Internal Revenue Code of 1939, referred to in par. (8), is act Feb. 10, 1939
 
 <b>2004</b>—Pars. (10) to (17). Pub. L. 108–357 redesignated pars. (11) to (17) as (10) to (16), respectively, and struck out former par. (10) which read as follows: “In determining the period for which the taxpayer has held trust certificates of a trust to which subsection (d) of section 1246 applies, or the period for which the taxpayer has held stock in a corporation to which subsection (d) of section 1246 applies, there shall be included the period for which the trust or corporation (as the case may be) held the stock of foreign investment companies.”
 
-<b>2000</b>—Par. (15). Pub. L. 106–554, §1(a)(7) \[title I, §116(b)(2)\], amended par. (15) generally. Prior to amendment, par. (15) read as follows: “In determining the period for which the taxpayer has held property the acquisition of which resulted under section 1045 in the nonrecognition of any part of the gain realized on the sale of other property, there shall be included the period for which such other property has been held as of the date of such sale.”
+<b>2000</b>—Par. (15). Pub. L. 106–554, §1(a)(7) \[title I, §116(b)(2)\], amended par. (15) generally. Prior to amendment, par. (15) read as follows: “In determining the period for which the taxpayer has held property the acquisition of which resulted under section 1045 in the nonrecognition of any part of the gain realized on thesale of other property, there shall be included the period for which such other property has been held as of the date of such sale.”
 
 Pars. (16), (17). Pub. L. 106–554, §1(a)(7) \[title IV, §401(h)(1)\], added par. (16) and redesignated former par. (16) as (17).
 
@@ -114,7 +114,7 @@ Pub. L. 94–455, §1402(b)(1)(Q), provided that “6 months” would be changed
 
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which it relates, but not applicable with respect to any transaction ordered in compliance with the Public Utility Holding Company Act of 1935 (15 U.S.C. 79 et seq.) before its repeal, see section 402(m) of Pub. L. 109–135, set out as an Effective and Termination Dates of 2005 Amendments note under section 36C of this title.
+Amendment by Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which it relates, but not applicable with respect to any transaction ordered in compliance with the Public Utility Holding Company Act of 1935 (15 U.S.C. 79 et seq.) before its repeal, see section 402(m) of Pub. L. 109–135, set out as an Effective and Termination Dates of 2005 Amendments note under section 23 of this title.
 
 #### Effective Date of 2004 Amendment
 

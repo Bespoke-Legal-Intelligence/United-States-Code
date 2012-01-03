@@ -88,7 +88,7 @@ Participating state.—The term “participating State” means a State that has
 
 &emsp;(8)
 
-Unified carrier registration agreement.—The terms “unified carrier registration agreement” and “UCR agreement” mean the interstate agreement developed under the unified carrier registration plan governing the collection and distribution of registration and financial responsibility information provided and fees paid by motor carriers, motor private carriers, brokers, freight forwarders, and leasing companies pursuant to this section.
+Unified carrier registration agreement.—The terms “unified carrier registration agreement” and “UCR agreement” mean theinterstate agreement developed under the unified carrier registration plan governing the collection and distribution of registration and financial responsibility information provided and fees paid by motor carriers, motor private carriers, brokers, freight forwarders, and leasing companies pursuant to this section.
 
 &emsp;(9)
 
@@ -266,7 +266,7 @@ Determination of fees.—
 
 &emsp;&emsp;(A)
 
-Recommendation by board.—The board shall recommend to the Secretary theinitial annual fees to be assessed carriers, leasing companies, brokers, and freight forwarders under the unified carrier registration agreement. In making its recommendation to the Secretary for the level of fees to be assessed in any agreement year, and in setting the fee level, the board and the Secretary shall consider—
+Recommendation by board.—The board shall recommend to the Secretary the initial annual fees to be assessed carriers, leasing companies, brokers, and freight forwarders under the unified carrier registration agreement. In making its recommendation to the Secretary for the level of fees to be assessed in any agreement year, and in setting the fee level, the board and the Secretary shall consider—
 
 &emsp;&emsp;&emsp;(i) the administrative costs associated with the unified carrier registration plan and the agreement;
 
@@ -352,11 +352,11 @@ Fees.—(A) Fees charged—
 
 &emsp;(2)
 
-Determination of ownership or operation.—For purposes of this subsection, a commercial motor vehicle is owned or operated by a motor carrier, motor private carrier, or freight forwarder if the vehicle is registered under Federal law or State law, or both, in thename of the motor carrier, motor private carrier, or freight forwarder or is controlled by the motor carrier, motor private carrier, or freight forwarder under a long term lease during a vehicle registration year.
+Determination of ownership or operation.—For purposes of this subsection, a commercial motor vehicle is owned or operated by a motor carrier, motor private carrier, or freight forwarder if the vehicle is registered under Federal law or State law, or both, in the name of the motor carrier, motor private carrier, or freight forwarder or is controlled by the motor carrier, motor private carrier, or freight forwarder under a long term lease during a vehicle registration year.
 
 &emsp;(3)
 
-Calculation of number of commercial motor vehicles owned or operated.—The number of commercial motor vehicles owned or operated by a motor carrier, motor private carrier, or freight forwarder for purposes of paragraph (1) shall be based either on the number of commercial motor vehicles the motor carrier, motor private carrier, or freight forwarder has indicated it operates on its most recently filed MCS–150 or the total number of such vehicles it owned or operated for the 12-month period ending on June 30 of the year immediately prior to the registration year of the Unified Carrier Registration System. A motor carrier may include in the calculation of its fleet size for purposes of paragraph (1) any commercial motor vehicle. Motor carriers and motor private carriers in the calculation of their fleet size for purposes of paragraph (1) may elect not to include commercial motor vehicles used exclusively in the intrastate transportation of property, waste, or recyclable material.
+Calculation of number of commercial motor vehicles owned or operated.—The number of commercial motor vehicles owned or operated by a motor carrier, motor private carrier, or freight forwarder for purposes of paragraph (1) shall be based either on the number of commercial motor vehicles the motor carrier, motor private carrier, or freight forwarder has indicated it operates onits most recently filed MCS–150 or the total number of such vehicles it owned or operated for the 12-month period ending on June 30 of the year immediately prior to the registration year of the Unified Carrier Registration System. A motor carrier may include in the calculation of its fleet size for purposes of paragraph (1) any commercial motor vehicle. Motor carriers and motor private carriers in the calculation of their fleet size for purposes of paragraph (1) may elect not to include commercial motor vehicles used exclusively in the intrastate transportation of property, waste, or recyclable material.
 
 &emsp;(4)
 
@@ -418,7 +418,7 @@ Relief.—Subject to section 1341 of title 28, the court, on a proper showing sh
 
 Enforcement by states.—Nothing in this section—
 
-&emsp;&emsp;(A) prohibits a participating State from issuing citations and imposing reasonable fines and penalties pursuant to the applicable laws and regulations of the State on anymotor carrier, motor private carrier, freight forwarder, broker, or leasing company for failure to—
+&emsp;&emsp;(A) prohibits a participating State from issuing citations and imposing reasonable fines and penalties pursuant to the applicable laws and regulations of the State on any motor carrier, motor private carrier, freight forwarder, broker, or leasing company for failure to—
 
 &emsp;&emsp;&emsp;(i) submit information documents as required under subsection (d)(2); or
 

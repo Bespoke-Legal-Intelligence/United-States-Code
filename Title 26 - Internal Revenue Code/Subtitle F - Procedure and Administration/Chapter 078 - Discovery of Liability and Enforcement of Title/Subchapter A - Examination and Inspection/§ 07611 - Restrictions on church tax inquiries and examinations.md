@@ -48,7 +48,7 @@
 
 &emsp;&emsp;(A) in the case of church records, to the extent necessary to determine the liability for, and the amount of, any tax imposed by this title, and
 
-&emsp;&emsp;(B) in the case of religious activities, to the extent necessary to determine whetheran organization claiming to be a church is a church for any period.
+&emsp;&emsp;(B) in the case of religious activities, to the extent necessary to determine whether an organization claiming to be a church is a church for any period.
 
 #### (2) Notice of examination; opportunity for conference
 
@@ -126,9 +126,9 @@
 
 &emsp;&emsp;(B)(i) send a notice of deficiency of any tax involved in a church tax examination, or
 
-&emsp;&emsp;(ii) in the case of any tax with respect to which subchapter B of chapter 63 (relating to deficiency procedures) does not apply, assess any underpayment of such tax involved in a church tax examination,
+&emsp;&emsp;(ii) in the case of any tax with respect to which subchapter B of chapter 63 (relating todeficiency procedures) does not apply, assess any underpayment of such tax involved in a church tax examination,
 
-> &emsp;only if the appropriate regional counsel of the Internal Revenue Service determines in writing that there has been substantial compliance with the requirements of this section andapproves in writing of such revocation, notice of deficiency, or assessment.
+> &emsp;only if the appropriate regional counsel of the Internal Revenue Service determines in writing that there has been substantial compliance with the requirements of this section and approves in writing of such revocation, notice of deficiency, or assessment.
 
 #### (2) Limitations on period of assessment
 

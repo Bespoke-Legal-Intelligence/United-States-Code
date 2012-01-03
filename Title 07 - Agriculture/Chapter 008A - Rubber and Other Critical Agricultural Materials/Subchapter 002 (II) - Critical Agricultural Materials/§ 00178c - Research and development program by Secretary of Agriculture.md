@@ -44,13 +44,13 @@ Notwithstanding any other provision of law, in carrying out a demonstration proj
 
 #### Amendments
 
-1991—Subsec. (b)(9). Pub. L. 102–237 substituted “industrial purposes,” for “industrial purposes,,”.
+<b>1991</b>—Subsec. (b)(9). Pub. L. 102–237 substituted “industrial purposes,” for “industrial purposes,,”.
 
-1985—Subsec. (b)(9). Pub. L. 99–198, §1439(a), extended research program to carrying out demonstration projects to promote the development or commercialization of native agricultural crops, including projects designed to expand domestic or foreign markets for such crops.
+<b>1985</b>—Subsec. (b)(9). Pub. L. 99–198, §1439(a), extended research program to carrying out demonstration projects to promote the development or commercialization of native agricultural crops, including projects designed to expand domestic or foreign markets for such crops.
 
 Subsec. (d). Pub. L. 99–198, §1439(b), added subsec. (d).
 
-1984—Subsec. (a). Pub. L. 98–284, §5(1), added subsec. (a).
+<b>1984</b>—Subsec. (a). Pub. L. 98–284, §5(1), added subsec. (a).
 
 Subsec. (b). Pub. L. 98–284, §5(1), designated existing provisions as subsec. (b) and in first sentence of subsec. (b) as so designated inserted provision relating to development of other critical agricultural materials from native agricultural crops having strategic and industrial importance.
 

@@ -8,13 +8,13 @@ In order to preserve for the benefit and inspiration of the people of the United
 
 The historical park shall be comprised of the following:
 
-&emsp;(1) All property administered by the National Park Service in the Adams National Historic Site as of November 2, 1998, as well as all property previously authorized to be acquired by the Secretary for inclusion in the Adams National Historic Site, as generally depicted on the map entitled “Adams National Historical Park”, numbered NERO 386/80,000, and dated April 1998.
+&emsp;(1) All property administered by the National Park Service in the Adams National Historic Site as of November 2, 1998, as well asall property previously authorized to be acquired by the Secretary for inclusion in the Adams National Historic Site, as generally depicted on the map entitled “Adams National Historical Park”, numbered NERO 386/80,000, and dated April 1998.
 
 &emsp;(2) All property authorized to be acquired for inclusion in the historical park by this subchapter or other law enacted after November 2, 1998.
 
 #### (c) Visitor and administrative sites
 
-To preserve the historical character and landscape of the main features of the historicalpark, the Secretary may acquire up to 10 acres for the development of visitor, administrative, museum, curatorial, and maintenance facilities adjacent to or in the general proximity of the property depicted on the map identified in subsection (b)(1)(A) <sup>1</sup> of this section.
+To preserve the historical character and landscape of the main features of the historical park, the Secretary may acquire up to 10 acres for the development of visitor, administrative, museum, curatorial, and maintenance facilities adjacent to or in the general proximity of the property depicted on the map identified in subsection (b)(1)(A) <sup>1</sup> of this section.
 
 #### (d) Map
 

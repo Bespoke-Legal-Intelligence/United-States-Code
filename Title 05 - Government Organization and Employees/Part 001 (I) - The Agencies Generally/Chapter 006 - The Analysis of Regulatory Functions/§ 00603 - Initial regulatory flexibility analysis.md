@@ -1,6 +1,6 @@
 ### §603. Initial regulatory flexibility analysis
 
-(a) Whenever an agency is required by section 553 of this title, or any other law, to publish general notice of proposed rulemaking for any proposed rule, or publishes a notice of proposed rulemaking for an interpretative rule involving the internal revenue laws of the United States, the agency shall prepare and make available for public comment an initial regulatory flexibility analysis. Such analysis shall describe the impact of the proposed rule on small entities. The initial regulatory flexibility analysis or a summary shall be published in the Federal Register at the time of the publication of general notice of proposed rulemaking for the rule. The agency shall transmit a copy of the initial regulatory flexibility analysis to the Chief Counsel for Advocacy of the Small Business Administration. In the case of an interpretative rule involving the internal revenue laws of the United States, this chapter applies to interpretative rules published in the Federal Register for codification in the Code of Federal Regulations, but only to the extent that such interpretative rules impose on small entities a collection of information requirement.
+(a) Whenever an agency is required by section 553 of this title, or any other law, to publish general notice of proposed rulemaking for any proposed rule, or publishes a notice of proposed rulemaking for an interpretative rule involving the internal revenue laws of the United States, the agency shall prepare and make available for public comment an initial regulatory flexibility analysis. Such analysis shall describe the impact of the proposed rule on small entities. The initial regulatory flexibility analysis or a summary shall be published in the Federal Register at the time of the publication of general notice of proposed rulemaking for the rule. The agency shall transmit a copy of the initial regulatory flexibility analysis to the Chief Counsel for Advocacy of the Small Business Administration. Inthe case of an interpretative rule involving the internal revenue laws of the United States, this chapter applies to interpretative rules published in the Federal Register for codification in the Code of Federal Regulations, but only to the extent that such interpretative rules impose on small entities a collection of information requirement.
 
 (b) Each initial regulatory flexibility analysis required under this section shall contain—
 
@@ -24,31 +24,27 @@
 
 &emsp;(4) an exemption from coverage of the rule, or any part thereof, for such small entities.
 
+(d)(1) For a covered agency, as defined in section 609(d)(2), each initial regulatory flexibility analysis shall include a description of—
+
+&emsp;(A) any projected increase in the cost of credit for small entities;
+
+&emsp;(B) any significant alternatives to the proposed rule which accomplish the stated objectives of applicable statutes and which minimize any increase in the cost of credit for small entities; and
+
+&emsp;(C) advice and recommendations of representatives of small entities relating to issues described in subparagraphs (A) and (B) and subsection (b).
+
+(2) A covered agency, as defined in section 609(d)(2), shall, for purposes of complying with paragraph (1)(C)—
+
+&emsp;(A) identify representatives of small entities in consultation with the Chief Counsel for Advocacy of the Small Business Administration; and
+
+&emsp;(B) collect advice and recommendations from the representatives identified under subparagraph (A) relating to issues described in subparagraphs (A) and (B) of paragraph (1) and subsection (b).
+
 (Added Pub. L. 96–354, §3(a), Sept. 19, 1980, 94 Stat. 1166; amended Pub. L. 104–121, title II, §241(a)(1), Mar. 29, 1996, 110 Stat. 864; Pub. L. 111–203, title X, §1100G(b), July 21, 2010, 124 Stat. 2112.)
-
-#### Amendment of Section
-
-<i>Pub. L. 111–203, title X, §§1100G(b), 1100H, July 21, 2010, 124 Stat. 2112, 2113, provided that, effective on the designated transfer date, this section is amended by adding at the end the following new subsection:</i>
-
-<i>(d)(1) For a covered agency, as defined in section 609(d)(2), each initial regulatory flexibility analysis shall include a description of—</i>
-
-&emsp;<i>(A) any projected increase in the cost of credit for small entities;</i>
-
-&emsp;<i>(B) any significant alternatives to the proposed rule which accomplish the stated objectives of applicable statutes and which minimize any increase in the cost of credit for small entities; and</i>
-
-&emsp;<i>(C) advice and recommendations of representatives of small entities relating to issues described in subparagraphs (A) and (B) and subsection (b).</i>
-
-<i>(2) A covered agency, as defined in section 609(d)(2), shall, for purposes of complying with paragraph (1)(C)—</i>
-
-&emsp;<i>(A) identify representatives of small entities in consultation with the Chief Counsel for Advocacy of the Small Business Administration; and</i>
-
-&emsp;<i>(B) collect advice and recommendations from the representatives identified under subparagraph (A) relating to issues described in subparagraphs (A) and (B) of paragraph (1) and subsection (b).</i>
-
-<i>See Effective Date of 2010 Amendment note below.</i>
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–121, §241(a)(1)(B), inserted at end “In the case of an interpretative rule involving the internal revenue laws of the United States, this chapter applies to interpretative rules published in the Federal Register for codification in the Code of Federal Regulations, but only to the extent that such interpretative rules impose on small entities a collection of information requirement.”
+<b>2010</b>—Subsec. (d). Pub. L. 111–203 added subsec. (d).
+
+<b>1996</b>—Subsec. (a). Pub. L. 104–121, §241(a)(1)(B), inserted at end “In the case of an interpretative rule involving the internal revenue laws of the United States, this chapter applies to interpretative rules published in the Federal Register for codification in the Code of Federal Regulations, but only to the extent that such interpretative rules impose on small entities a collection of information requirement.”
 
 Pub. L. 104–121, §241(a)(1)(A), which directed the insertion of “, or publishes a notice of proposed rulemaking for an interpretative rule involving the internal revenue laws of the United States” after “proposed rule” was executed by making the insertion where those words appeared in first sentence to reflect the probable intent of Congress.
 

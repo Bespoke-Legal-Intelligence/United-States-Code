@@ -1,8 +1,8 @@
 ### §3101. Public debt limit
 
-(a) In this section, the current redemption value of an obligation issued on a discount basisand redeemable before maturity at the option of its holder is deemed to be the face amount of the obligation.
+(a) In this section, the current redemption value of an obligation issued on a discount basis and redeemable before maturity at the option of its holder is deemed to be the face amount of the obligation.
 
-(b) The face amount of obligations issued under this chapter and the face amount of obligations whose principal and interest are guaranteed by the United States Government (except guaranteed obligations held by the Secretary of the Treasury) may not be more than $14,294,000,000,000, outstanding at one time, subject to changes periodically made in that amount as provided by law through the congressional budget process described in Rule XLIX <sup>1</sup> of the Rules of the House of Representatives or otherwise.
+(b) The face amount of obligations issued under this chapter and the face amount of obligations whose principal and interest are guaranteed by the United States Government (except guaranteed obligations held by the Secretary of the Treasury) may not be more than $14,294,000,000,000, outstanding at one time, subject to changes periodically made in that amount as provided by law through the congressional budget process described in Rule XLIX <sup>1</sup> of the Rules of the House of Representatives or as provided by section 3101A or otherwise.
 
 (c) For purposes of this section, the face amount, for any month, of any obligation issued on a discount basis that is not redeemable before maturity at the option of the holder of the obligation is an amount equal to the sum of—
 
@@ -10,7 +10,7 @@
 
 &emsp;(2) the portion of the discount on the obligation attributable to periods before the beginning of such month (as determined under the principles of section 1272(a) of the Internal Revenue Code of 1986 without regard to any exceptions contained in paragraph (2) of such section).
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 938; Pub. L. 98–34, §1(a), May 26, 1983, 97 Stat. 196; Pub. L. 98–161, Nov. 21, 1983, 97 Stat. 1012; Pub. L. 98–342, §1(a), July 6, 1984, 98 Stat. 313; Pub. L. 98–475, Oct. 13, 1984, 98 Stat. 2206; Pub. L. 99–177, §1, Dec. 12, 1985, 99 Stat. 1037; Pub. L. 99–384, Aug. 21, 1986, 100 Stat. 818; Pub. L. 100–119, §1, Sept. 29, 1987, 101 Stat. 754; Pub. L. 101–72, §2, Aug. 7, 1989, 103 Stat. 182; Pub. L. 101–140, §1, Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–508, title XI, §11901\[(a)\], Nov. 5, 1990, 104 Stat. 1388–560; Pub. L. 103–66, title XIII, §13411(a), Aug. 10, 1993, 107 Stat. 565; Pub. L. 104–121, title III, §301, Mar. 29, 1996, 110 Stat. 875; Pub. L. 105–33, title V, §5701, Aug. 5, 1997, 111 Stat. 648; Pub. L. 107–199, §1, June 28, 2002, 116 Stat. 734; Pub. L. 108–24, May 27, 2003, 117 Stat. 710; Pub. L. 108–415, §1, Nov. 19, 2004, 118 Stat. 2337; Pub. L. 109–182, Mar. 20, 2006, 120 Stat. 289; Pub. L. 110–91, Sept. 29, 2007, 121 Stat. 988; Pub. L. 110–289, div. C, title III, §3083, July 30, 2008, 122 Stat. 2908; Pub. L. 110–343, div. A, title I, §122, Oct. 3, 2008, 122 Stat. 3790; Pub. L. 111–5, div. B, title I, §1604, Feb. 17, 2009, 123 Stat. 366; Pub. L. 111–123, §1, Dec. 28, 2009, 123 Stat. 3483; Pub. L. 111–139, Feb. 12, 2010, 124 Stat. 8.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 938; Pub. L. 98–34, §1(a), May 26, 1983, 97 Stat. 196; Pub. L. 98–161, Nov. 21, 1983, 97 Stat. 1012; Pub. L. 98–342, §1(a), July 6, 1984, 98 Stat. 313; Pub. L. 98–475, Oct. 13, 1984, 98 Stat. 2206; Pub. L. 99–177, §1, Dec. 12, 1985, 99 Stat. 1037; Pub. L. 99–384, Aug. 21, 1986, 100 Stat. 818; Pub. L. 100–119, §1, Sept. 29, 1987, 101 Stat. 754; Pub. L. 101–72, §2, Aug. 7, 1989, 103 Stat. 182; Pub. L. 101–140, §1, Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–508, title XI, §11901\[(a)\], Nov. 5, 1990, 104 Stat. 1388–560; Pub. L. 103–66, title XIII, §13411(a), Aug. 10, 1993, 107 Stat. 565; Pub. L. 104–121, title III, §301, Mar. 29, 1996, 110 Stat. 875; Pub. L. 105–33, title V, §5701, Aug. 5, 1997, 111 Stat. 648; Pub. L. 107–199, §1, June 28, 2002, 116 Stat. 734; Pub. L. 108–24, May 27, 2003, 117 Stat. 710; Pub. L. 108–415, §1, Nov. 19, 2004, 118 Stat. 2337; Pub. L. 109–182, Mar. 20, 2006, 120 Stat. 289; Pub. L. 110–91, Sept. 29, 2007, 121 Stat. 988; Pub. L. 110–289, div. C, title III, §3083, July 30, 2008, 122 Stat. 2908; Pub. L. 110–343, div. A, title I, §122, Oct. 3, 2008, 122 Stat. 3790; Pub. L. 111–5, div. B, title I, §1604, Feb. 17, 2009, 123 Stat. 366; Pub. L. 111–123, §1, Dec. 28, 2009, 123 Stat. 3483; Pub. L. 111–139, Feb. 12, 2010, 124 Stat. 8; Pub. L. 112–25, title III, §301(a)(1), Aug. 2, 2011, 125 Stat. 251.)
 
 Historical and Revision Notes
 
@@ -45,6 +45,8 @@ The Rules of the House of Representatives for the One Hundred Sixth Congress wer
 Section 1272(a) of the Internal Revenue Code of 1986, referred to in subsec. (c), is classified to section 1272(a) of Title 26, Internal Revenue Code.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (b). Pub. L. 112–25 substituted “or as provided by section 3101A or otherwise” for “or otherwise”.
 
 <b>2010</b>—Subsec. (b). Pub. L. 111–139 substituted “$14,294,000,000,000” for “$12,394,000,000,000”.
 
@@ -110,7 +112,7 @@ The public debt limit set forth in this section was temporarily increased for li
 
 Oct. 28, 1990, Pub. L. 101–467, §106, 104 Stat. 1087—Increase to $3,230,000,000,000 for the period Oct. 28, 1990, to Nov. 5, 1990.
 
-Aug. 9, 1990, Pub. L. 101–350, §1, 104 Stat. 403, as amended Oct. 2, 1990, Pub. L. 101–405, §1, 104 Stat. 878; Oct. 9, 1990, Pub. L. 101–412, §114, 104 Stat. 897; Oct. 19, 1990, Pub. L. 101–444, §114, 104 Stat. 1033; Oct. 25, 1990, Pub. L. 101–461, §114, 104 Stat. 1078—Increase to $3,195,000,000,000 for the period Aug. 9, 1990, to Oct. 27, 1990.
+Aug. 9, 1990, Pub. L. 101–350, §1, 104 Stat. 403, as amended Oct. 2, 1990, Pub. L. 101–405, §1, 104 Stat. 878; Oct. 9, 1990, Pub. L. 101–412, §114, 104 Stat. 897; Oct. 19, 1990, Pub. L. 101–444, §114, 104 Stat. 1033; Oct. 25, 1990,Pub. L. 101–461, §114, 104 Stat. 1078—Increase to $3,195,000,000,000 for the period Aug. 9, 1990, to Oct. 27, 1990.
 
 Aug. 7, 1989, Pub. L. 101–72, §1, 103 Stat. 182—Increase of $70,000,000,000 for the period Aug. 7, 1989, to Oct. 31, 1989.
 
@@ -150,7 +152,7 @@ Pub. L. 95–333, §1, Aug. 3, 1978, 92 Stat. 419, providing for a temporary inc
 
 Pub. L. 95–120, §1, Oct. 4, 1977, 91 Stat. 1090, as amended, providing for a temporary increase of $352,000,000,000 in the public debt limit for the period Oct. 4, 1977, to July 31, 1978, was also repealed by Pub. L. 95–333, §2, Aug. 3, 1978, 92 Stat. 419.
 
-Pub. L. 94–334, §1, June 30, 1976, 90 Stat. 793, providing for a temporary increase of $300,000,000,000 in the public debt limit for the period Apr. 1, 1977, to Sept. 30, 1977,was also repealed by Pub. L. 95–120, §2, Oct. 4, 1977, 91 Stat. 1090.
+Pub. L. 94–334, §1, June 30, 1976, 90 Stat. 793, providing for a temporary increase of $300,000,000,000 in the public debt limit for the period Apr. 1, 1977, to Sept. 30, 1977, was also repealed by Pub. L. 95–120, §2, Oct. 4, 1977, 91 Stat. 1090.
 
 Pub. L. 94–232, §1, Mar. 15, 1976, 90 Stat. 217, provided for a temporary increase of $227,000,000,000 for the period Mar. 15, 1976, to June 30, 1976.
 

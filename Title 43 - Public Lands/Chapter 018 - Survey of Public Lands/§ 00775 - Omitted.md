@@ -8,7 +8,7 @@ June 23, 1959, Pub. L. 86–60, title I, 72 Stat. 93.
 
 June 4, 1958, Pub. L. 85–439, title I, 72 Stat. 156.
 
-July 1, 1957, Pub. L. 85–77, title I, 71 Stat. 528.
+July 1, 1957, Pub. L. 85–77, title I, 71 Stat. 258.
 
 June 13, 1956, ch. 380, title I, 70 Stat. 258.
 

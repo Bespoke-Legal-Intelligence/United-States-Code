@@ -34,7 +34,7 @@
 
 &emsp;The Board shall—
 
-&emsp;&emsp;(A) advise the Secretary on current and future trends, challenges, and opportunities presented by advances in biological and life sciences, biotechnology, and genetic engineering with respect to threats posed by naturally occurring infectious diseases andchemical, biological, radiological, and nuclear agents;
+&emsp;&emsp;(A) advise the Secretary on current and future trends, challenges, and opportunities presented by advances in biological and life sciences, biotechnology, and genetic engineering with respect to threats posed by naturally occurring infectious diseases and chemical, biological, radiological, and nuclear agents;
 
 &emsp;&emsp;(B) at the request of the Secretary, review and consider any information and findings received from the working groups established under subsection (b); and
 
@@ -84,7 +84,7 @@
 
 #### (D) Detail of Government employees
 
-&emsp;&emsp;Any Federal Government employee may be detailed to the Board with the approval for the contributing agency without reimbursement, and such detail shall be without interruption or loss of civil service status or privilege.
+&emsp;&emsp;Any Federal Government employee may be detailed to the Board with the approval forthe contributing agency without reimbursement, and such detail shall be without interruption or loss of civil service status or privilege.
 
 #### (b) Other working groups
 

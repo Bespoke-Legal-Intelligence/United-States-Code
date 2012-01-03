@@ -30,7 +30,7 @@ Duties.—(1) In addition to any other matters assigned to the Committee by the 
 
 &emsp;(A) recommend to the Secretary of Defense policies and procedures necessary to effectively integrate the requirements of section 2222 of this title into all business activities and any transformation, reform, reorganization, or process improvement initiatives undertaken within the Department of Defense;
 
-&emsp;(B) review and approve any major update of the defense business enterprise architecture developed under subsection (b) of section 2222of this title, including evolving the architecture, and of defense business systems modernization plans; and
+&emsp;(B) review and approve any major update of the defense business enterprise architecture developed under subsection (b) <sup>1</sup> of section 2222 of this title, including evolving the architecture, and of defense business systems modernization plans; and
 
 &emsp;(C) manage cross-domain integration consistent with such enterprise architecture.
 
@@ -40,9 +40,13 @@ Duties.—(1) In addition to any other matters assigned to the Committee by the 
 
 (d)
 
-Definitions.—In this section, the terms “defense business system” and “defense business system modernization” have the meanings given such terms in section 2222 of this title.
+Definitions.—In this section, the terms “defense business system” and “defense business system modernization” have the meanings given such terms in section 2222 <sup>1</sup> of this title.
 
 (Added Pub. L. 108–375, div. A, title III, §332(b)(1), Oct. 28, 2004, 118 Stat. 1854; amended Pub. L. 110–417, \[div. A\], title IX, §904, Oct. 14, 2008, 122 Stat. 4567; Pub. L. 111–383, div. A, title X, §1075(b)(9), Jan. 7, 2011, 124 Stat. 4369.)
+
+#### References in Text
+
+Section 2222 of this title, referred to in subsecs. (c)(1)(A), (B), (3) and (d), was amended generally by Pub. L. 112–81, div. A, title IX, §901, Dec. 31, 2011, 125 Stat. 1527. As so amended, subsec. (b) does not relate to development of defense business enterprise architecture, and section no longer defines “defense business system modernization”.
 
 #### Amendments
 
@@ -61,4 +65,6 @@ Subsec. (b). Pub. L. 110–417, §904(b), substituted “The Deputy Chief Manage
 #### Implementation Requirements
 
 Pub. L. 108–375, div. A, title III, §332(c), Oct. 28, 2004, 118 Stat. 1855, directed the Secretary of Defense, not later than 60 days after Oct. 28, 2004, to designate a vice chairman of the Defense Business System Management Committee, as required by subsec. (b) of this section, and to complete the delegation of responsibility for the review, approval, and oversight of the planning, design, acquisition, deployment, operation, maintenance, and modernization of defense business systems required by section 2222(f) of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -36,7 +36,7 @@ Of amounts available for distribution to States under subsection (a)(2), the Sec
 
 #### (d) Indian tribes
 
-Of amounts available for distribution to Indian tribes under subsection (a)(3), the Secretary shall establish a formula for allocation ofthe amounts to Indian tribes, taking into account any factors that the Secretary determines to be appropriate.
+Of amounts available for distribution to Indian tribes under subsection (a)(3), the Secretary shall establish a formula for allocation of the amounts to Indian tribes, taking into account any factors that the Secretary determines to be appropriate.
 
 #### (e) Publication of allocation formulas
 

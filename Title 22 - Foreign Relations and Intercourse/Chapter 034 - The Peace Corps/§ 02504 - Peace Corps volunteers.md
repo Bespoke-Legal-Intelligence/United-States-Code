@@ -2,7 +2,7 @@
 
 #### (a) Persons eligible; terms and conditions of service; Federal employee status; racial, sex, religious, or color discrimination
 
-The President may enroll in the Peace Corps for service abroad qualified citizens and nationals of the United States (referred to in this chapter as “volunteers”). The terms and conditions of the enrollment, training, compensation, hours of work, benefits, leave, termination, and all other terms and conditions of the service of volunteers shall be exclusively those set forth in this chapter and those consistent therewith which the President may prescribe; and, except as provided in this chapter, volunteers shall not be deemed officers or employees or otherwise in the service or employment of, or holding office under, the United States for any purpose. In carrying out this subsection, there shall be no discrimination against any person on account of race, sex, creed, or color.
+The President may enroll in the Peace Corps for service abroad qualified citizens and nationals of the United States (referred to in this chapter as “volunteers”). The terms and conditions of the enrollment, training (including training under section 2507a of this title), compensation, hours of work, benefits, leave, termination, and all other terms and conditions of the service of volunteers shall be exclusively those set forth in this chapter and those consistent therewith which the President may prescribe; and, except as provided in this chapter, volunteers shall not be deemed officers or employees or otherwise in the service or employment of, or holding office under, the United States for any purpose. In carrying out this subsection, there shall be no discrimination against any person on account of race, sex, creed, or color.
 
 #### (b) Living allowances, travel, leave and related items; transfers of supplies and equipment
 
@@ -16,7 +16,7 @@ Volunteers shall be entitled to receive a readjustment allowance at a rate not l
 
 #### (e) Health care
 
-Volunteers shall receive such health care during their service, applicants for enrollment shall receive such health examinations preparatory to their service, applicants for enrollment who have accepted an invitation to begin a period of training under section 2507(a) of this title shall receive such immunization and dental care preparatory to their service, and former volunteers shall receive such health examinations within six months after termination of their service, as the President may deem necessary or appropriate. Subject to such conditions as the President may prescribe, such health care may be provided in any facility of any agency of the United States Government, and in such cases the appropriation for maintaining and operating such facility shall be reimbursed from appropriations available under this chapter. Health care may not be provided under this subsection in a manner inconsistent with the Assisted Suicide Funding Restriction Act of 1997 \[42 U.S.C. 14401 et seq.\].
+Volunteers shall receive such health care (including, if necessary, for volunteers and trainees, services under section 2507b of this title) during their service, applicants for enrollment shall receive such health examinations preparatory to their service, applicants for enrollment who have accepted an invitation to begin a period of training under section 2507(a) of this title shall receive such immunization and dental care preparatory to their service, and former volunteers shall receive such health examinations within six months after termination of their service, including services provided in accordance with section 2507b of this title (except that the six-month limitation shall not apply in the case of such services), as the President may deem necessary or appropriate. Subject to such conditions as the President may prescribe, such health care may be provided in any facility of any agency of the United States Government, and in such cases the appropriation for maintaining and operating such facility shall be reimbursed from appropriations available under this chapter. Health care may not be provided under this subsection in a manner inconsistent with the Assisted Suicide Funding Restriction Act of 1997 \[42 U.S.C. 14401 et seq.\].
 
 #### (f) Retirement and other credits based upon length of service
 
@@ -50,7 +50,7 @@ In order to assure that the skills and experience which former volunteers have d
 
 #### (<i>l</i>) Legal expenses of defendant in judicial or administrative proceedings
 
-Notwithstanding any other provision of law, counsel may be employed and counsel fees, court costs, bail, and other expenses incident to the defense of volunteers may be paid in foreign judicial or administrative proceedings to which volunteers have been made parties.
+Notwithstanding any other provision of law, counsel may be employed and counsel fees, court costs, bail, and other expenses incident to the defense of volunteers may be paid in foreign judicial or administrative proceedings to which volunteers have been made parties and counsel may be employed and counsel fees, court costs and other expenses may be paid in the support of volunteers who are parties, complaining witnesses, or otherwise participating in the prosecution of crimes committed against such volunteers.
 
 #### (m) Allowances and expenses of minor children
 
@@ -58,7 +58,7 @@ The minor children of a volunteer living with the volunteer may receive—
 
 &emsp;(1) such living, travel, education, and leave allowances, such housing, transportation, subsistence, and essential special items of clothing as the President may determine;
 
-&emsp;(2) such health care, including health care following the volunteer's service for illness or injury incurred during such service, and health and accident insurance, as the President may determine and upon such terms as he may determine, including health care in any facility referred to in subsection (e) of this section, subject to such conditions as the President may prescribe and subject to reimbursement of appropriations as provided in such subsection (e);
+&emsp;(2) such health care, including health care following the volunteer's service for illness or injury incurred during such service, and health and accident insurance, as the President may determine and upon such terms ashe may determine, including health care in any facility referred to in subsection (e) of this section, subject to such conditions as the President may prescribe and subject to reimbursement of appropriations as provided in such subsection (e);
 
 &emsp;(3) such orientation, language, and other training necessary to accomplish the purposes of this chapter as the President may determine; and
 
@@ -68,7 +68,7 @@ The minor children of a volunteer living with the volunteer may receive—
 
 The costs of packing and unpacking, transporting to and from a place of storage, and storing the furniture and household and personal effects of a volunteer who has one or more minor children at the time of his entering a period of pre-enrollment training may be paid from the date of his departure from his place of residence to enter training until no later than three months after termination of his service.
 
-(Pub. L. 87–293, title I, §5, Sept. 22, 1961, 75 Stat. 613; Pub. L. 88–200, §2, Dec. 13, 1963, 77 Stat. 359; Pub. L. 89–134, §2, Aug. 24, 1965, 79 Stat. 549; Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 661, 662; Pub. L. 89–572, §2(a), Sept. 13, 1966, 80 Stat. 765; Pub. L. 91–99, §2, Oct. 29, 1969, 83 Stat. 166; Pub. L. 91–352, §3, July 24, 1970, 84 Stat. 464; Pub. L. 94–130, §§4, 6, Nov. 14, 1975, 89 Stat. 684; Pub. L. 95–331, §4, Aug. 2, 1978, 92 Stat. 414; Pub. L. 96–465, title II, §2202(a), Oct. 17, 1980, 94 Stat. 2157; Pub. L. 97–113, title VI, §§604(b), 606, Dec. 29, 1981, 95 Stat. 1543; Pub. L. 99–83, title XI, §1105(b), Aug. 8, 1985, 99 Stat. 276; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 105–12, §9(j), Apr. 30, 1997, 111 Stat. 27; Pub. L. 106–30, §2(b)(1)–(3), May 21, 1999, 113 Stat. 55.)
+(Pub. L. 87–293, title I, §5, Sept. 22, 1961, 75 Stat. 613; Pub. L. 88–200, §2, Dec. 13, 1963, 77 Stat. 359; Pub. L. 89–134, §2, Aug. 24, 1965, 79 Stat. 549; Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 661, 662; Pub. L. 89–572, §2(a), Sept. 13, 1966, 80 Stat. 765; Pub. L. 91–99, §2, Oct. 29, 1969, 83 Stat. 166; Pub. L. 91–352, §3, July 24, 1970, 84 Stat. 464; Pub. L. 94–130, §§4, 6, Nov. 14, 1975, 89 Stat. 684; Pub. L. 95–331, §4, Aug. 2, 1978, 92 Stat. 414; Pub. L. 96–465, title II, §2202(a), Oct. 17, 1980, 94 Stat. 2157; Pub. L. 97–113, title VI, §§604(b), 606, Dec. 29, 1981, 95 Stat. 1543; Pub. L. 99–83, title XI, §1105(b), Aug. 8, 1985, 99 Stat. 276; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 105–12, §9(j), Apr. 30, 1997, 111 Stat. 27; Pub. L. 106–30, §2(b)(1)–(3), May 21, 1999, 113 Stat. 55; Pub. L. 112–57, §§3, 8(a)(1), (b), Nov. 21, 2011, 125 Stat. 744, 745.)
 
 #### References in Text
 
@@ -83,6 +83,12 @@ The Foreign Service Act of 1980, referred to in subsec. (f)(1), is Pub. L. 96–
 The Federal Tort Claims Act, referred to in subsec. (h), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (a). Pub. L. 112–57, §8(a)(1), inserted “(including training under section 2507a of this title)” after “training”.
+
+Subsec. (e). Pub. L. 112–57, §8(b), in first sentence, inserted “(including, if necessary, for volunteers and trainees, services under section 2507b of this title)” after “health care” and “including services provided in accordance with section 2507b of this title (except that the six-month limitation shall not apply in the case of such services),” before “as the President”.
+
+Subsec. (<i>l</i>). Pub. L. 112–57, §3, inserted “and counsel may be employed and counsel fees, court costs and other expenses may be paid in the support of volunteers who are parties, complaining witnesses, or otherwise participating in the prosecution of crimes committed against such volunteers” before period at end.
 
 <b>1999</b>—Subsec. (f)(1)(B). Pub. L. 106–30, §2(b)(1), substituted “Office of Personnel Management” for “Civil Service Commission”.
 
@@ -114,7 +120,7 @@ Subsec. (h). Pub. L. 95–331, §4(2), inserted provisions relating to applicabi
 
 Subsec. (c). Pub. L. 94–130, §6, substituted $125 for $75 in initial clause of first sentence.
 
-<b>1970</b>—Subsec. (c). Pub. L. 91–352, §3(a), inserted exception that in case of volunteers having one or more children at time of entering a period of pre-enrollment training, one parent would be entitled to receive a readjustment allowance not exceeding $125 for each month of satisfactory service as determined by thePresident, and substituted “section 5582(b) of title 5” for “section 61f of title 5”.
+<b>1970</b>—Subsec. (c). Pub. L. 91–352, §3(a), inserted exception that in case of volunteers having one or more children at time of entering a period of pre-enrollment training, one parent would be entitled to receive a readjustment allowance not exceeding $125 for each month of satisfactory service as determined by the President, and substituted “section 5582(b) of title 5” for “section 61f of title 5”.
 
 Subsecs. (m), (n). Pub. L. 91–352, §3(b), added subsecs. (m) and (n).
 

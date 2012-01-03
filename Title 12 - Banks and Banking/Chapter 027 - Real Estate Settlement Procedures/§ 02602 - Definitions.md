@@ -12,7 +12,7 @@ For purposes of this chapter—
 
 &emsp;&emsp;(iii) is intended to be sold by the originating lender to the Federal National Mortgage Association, the Government National Mortgage Association, the Federal Home Loan Mortgage Corporation, or a financial institution from which it is to be purchased by the Federal Home Loan Mortgage Corporation; or
 
-&emsp;&emsp;(iv) is made in whole or in part by any “creditor”, as defined in section 1602(f) of title 15, who makes or invests in residential real estate loans aggregating more than $1,000,000 per year, except that for the purpose of this chapter, the term “creditor” does not include any agency or instrumentality of any State;
+&emsp;&emsp;(iv) is made in whole or in part by any “creditor”, as defined in section 1602(f) <sup>1</sup> of title 15, who makes or invests in residential real estate loans aggregating more than $1,000,000 per year, except that for the purpose of this chapter, the term “creditor” does not include any agency or instrumentality of any State;
 
 &emsp;(2) the term “thing of value” includes any payment, advance, funds, loan, service, or other consideration;
 
@@ -24,29 +24,41 @@ For purposes of this chapter—
 
 &emsp;(6) the term “Secretary” means the Secretary of Housing and Urban Development;
 
-&emsp;(7) the term “affiliated business arrangement” means an arrangement in which (A) a person who is in a position to refer business incident to or a part of a real estate settlement service involving a federally related mortgage loan, or an associate of such person, has either an affiliate relationship with or a direct or beneficial ownership interest of more than 1 percent in a provider of settlement services; and (B) either of such persons directly or indirectly refers such business to that provider or affirmatively influences the selection of that provider; and
+&emsp;(7) the term “affiliated business arrangement” means an arrangement in which (A) a person who is in a position to refer business incident to or a part of a real estate settlement service involving a federally related mortgage loan, or an associate of such person, has either an affiliate relationship with or a direct or beneficial ownership interest of more than 1 percent in a provider of settlement services; and (B) either of such persons directly or indirectly refers such business to that provider or affirmatively influences the selection of that provider;
 
-&emsp;(8) the term “associate” means one who has one or more of the following relationships with a person in a position to refer settlement business: (A) a spouse, parent, or child of such person; (B) a corporation or business entity that controls, is controlled by, or is under common control with such person; (C) an employer, officer, director, partner, franchisor, or franchisee of such person; or (D) anyone who has an agreement, arrangement, or understanding, with such person, the purpose or substantial effect of which is to enable the person in a position to refer settlement business to benefit financially from the referrals of such business.
+&emsp;(8) the term “associate” means one who has one or more of the following relationships with a person in a position to refer settlement business: (A) a spouse, parent, or child of such person; (B) a corporation or business entity that controls, is controlled by, or is under common control with such person; (C) an employer, officer, director, partner, franchisor, or franchisee of such person; or (D) anyone who has an agreement, arrangement, or understanding, with such person, the purpose or substantial effect of which is to enable the person in a position to refer settlement business to benefit financially from the referrals of such business; and
 
-(Pub. L. 93–533, §3, Dec. 22, 1974, 88 Stat. 1724; Pub. L. 94–205, §2, Jan. 2, 1976, 89 Stat. 1157; Pub. L. 98–181, title IV, §461(a), Nov. 30, 1983, 97 Stat. 1230; Pub. L. 102–550, title IX, §908(a), (b), Oct. 28, 1992, 106 Stat. 3873, 3874; Pub. L. 104–208, div. A, title II, §2103(c)(1), Sept. 30, 1996, 110 Stat. 3009–400.)
+&emsp;(9) the term “Bureau” means the Bureau of Consumer Financial Protection.
+
+(Pub. L. 93–533, §3, Dec. 22, 1974, 88 Stat. 1724; Pub. L. 94–205, §2, Jan. 2, 1976, 89 Stat. 1157; Pub. L. 98–181, title IV, §461(a), Nov. 30, 1983, 97 Stat. 1230; Pub. L. 102–550, title IX, §908(a), (b), Oct. 28, 1992, 106 Stat. 3873, 3874; Pub. L. 104–208, div. A, title II, §2103(c)(1), Sept. 30, 1996, 110 Stat. 3009–400; Pub. L. 111–203, title X, §1098(1), July 21, 2010, 124 Stat. 2103.)
+
+#### References in Text
+
+Section 1602(f) of title 15, referred to in par. (1)(B)(iv), was redesignated section 1602(g) of title 15 by Pub. L. 111–203, title X, §1100A(1)(A), July 21, 2010, 124 Stat. 2107.
 
 #### Amendments
 
-1996—Par. (7). Pub. L. 104–208 substituted “affiliated business arrangement” for “controlled business arrangement”.
+<b>2010</b>—Par. (9). Pub. L. 111–203 added par. (9).
 
-1992—Par. (1)(A). Pub. L. 102–550, §908(b), inserted “or subordinate” after “first” and “, including any such secured loan, the proceeds of which are used to prepay or pay off an existing loan secured by the same property” after “families”.
+<b>1996</b>—Par. (7). Pub. L. 104–208 substituted “affiliated business arrangement” for “controlled business arrangement”.
+
+<b>1992</b>—Par. (1)(A). Pub. L. 102–550, §908(b), inserted “or subordinate” after “first” and “, including any such secured loan, the proceeds of which are used to prepay or pay off an existing loan secured by the same property” after “families”.
 
 Par. (3). Pub. L. 102–550, §908(a), inserted “the origination of a federally related mortgage loan (including, but not limited to, the taking of loan applications, loan processing, and the underwriting and funding of loans),” after “broker,”.
 
-1983—Pars. (7), (8). Pub. L. 98–181 added pars. (7) and (8).
+<b>1983</b>—Pars. (7), (8). Pub. L. 98–181 added pars. (7) and (8).
 
-1976—Par. (1). Pub. L. 94–205, §2(1), inserted “(other than temporary financing such as a construction loan)” in introductory text.
+<b>1976</b>—Par. (1). Pub. L. 94–205, §2(1), inserted “(other than temporary financing such as a construction loan)” in introductory text.
 
 Par. (1)(A). Pub. L. 94–205, §2(2), inserted “a first lien on” after “is secured by”.
 
 Par. (1)(B)(iii). Pub. L. 94–205, §2(3)–(5), substituted “is intended to be sold by the originating lender to” for “is eligible for purchase by” and “a” and “is to” for “from any” and “could”, respectively, and struck out “or” after “the Government National Mortgage Association”.
 
 Par. (1)(B)(iv). Pub. L. 94–205, §2(6), inserted “, except that for the purpose of this chapter, the term ‘creditor’ does not include any agency or instrumentality of any State” after “more than $1,000,000 per year”.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1992 Amendment
 
@@ -63,4 +75,6 @@ Section 12 of Pub. L. 94–205 provided that: “The provisions of this Act and 
 #### Regulations
 
 Section 908(c) of Pub. L. 102–550 provided that: “The Secretary of Housing and Urban Development shall issue regulations to implement the amendments made by this section \[amending this section\] not later than the expiration of the 180-day period beginning on the date of the enactment of this Act \[Oct. 28, 1992\]. The regulations shall be issued after notice and opportunity for public comment pursuant to the provisions of section 553 of title 5, United States Code (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section).”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -12,7 +12,7 @@ The original text provided “that the commissioner of lighthouses, subject to t
 
 #### Prior Provisions
 
-Prior provisions for the arrangement of the various lighthouse districts were made by R.S. §4670; act July26, 1886, ch. 779, 24 Stat. 148, which were repealed by section 13 of act June 17, 1910.
+Prior provisions for the arrangement of the various lighthouse districts were made by R.S. §4670; act July 26, 1886, ch. 779, 24 Stat. 148, which were repealed by section 13 of act June 17, 1910.
 
 #### Change of Name
 

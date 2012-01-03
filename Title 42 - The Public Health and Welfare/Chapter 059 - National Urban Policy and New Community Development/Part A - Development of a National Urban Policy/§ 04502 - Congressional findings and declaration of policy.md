@@ -8,7 +8,7 @@
 
 (d) The Congress further declares that the national urban policy should—
 
-&emsp;(1) favor patterns of urbanization and economic development and stabilization which offer a range of alternative locations and encourage the wise and balanced use of physical and human resources in metropolitan and urban regions as well as in smaller urbanplaces which have a potential for accelerated growth;
+&emsp;(1) favor patterns of urbanization and economic development and stabilization which offer a range of alternative locations and encourage the wise and balanced use of physical and human resources in metropolitan and urban regions as well as in smaller urban places which have a potential for accelerated growth;
 
 &emsp;(2) foster the continued economic strength of all parts of the United States, including central cities, suburbs, smaller communities, local neighborhoods, and rural areas;
 

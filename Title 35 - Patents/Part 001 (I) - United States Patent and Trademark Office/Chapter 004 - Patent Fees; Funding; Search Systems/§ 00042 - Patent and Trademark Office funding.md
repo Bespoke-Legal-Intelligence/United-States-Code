@@ -4,7 +4,13 @@
 
 (b) All fees paid to the Director and all appropriations for defraying the costs of the activities of the Patent and Trademark Office will be credited to the Patent and Trademark Office Appropriation Account in the Treasury of the United States.
 
-(c) To the extent and in the amounts provided in advance in appropriations Acts, fees authorized in this title or any other Act to be charged or established by the Director shall be collected by and shall be available to the Director to carry out the activities of the Patent and Trademark Office. All fees available to the Director under section 31 of the Trademark Act of 1946 shall be used only for the processing of trademark registrations and for other activities, services, and materials relating to trademarks and to cover a proportionate share of the administrative costs of the Patent and Trademark Office.
+(c)(1) To the extent and in the amounts provided in advance in appropriations Acts, fees authorized in this title or any other Act to be charged or established by the Director shall be collected by and shall, subject to paragraph (3), be available to the Director to carry out the activities of the Patent and Trademark Office.
+
+(2) There is established in the Treasury a Patent and Trademark Fee Reserve Fund. If fee collections by the Patent and Trademark Office for a fiscal year exceed the amount appropriated to the Office for that fiscal year, fees collected in excess of the appropriated amount shall be deposited in the Patent and Trademark Fee Reserve Fund. To the extent and in the amounts provided in appropriations Acts, amounts in the Fund shall be made available until expended only for obligation and expenditure by the Office in accordance with paragraph (3).
+
+(3)(A) Any fees that are collected under sections 41, 42, and 376, and any surcharges on such fees, may only be used for expenses of the Office relating to the processing of patent applications and for other activities, services, and materials relating to patents and to cover a share of the administrative costs of the Office relating to patents.
+
+(B) Any fees that are collected under section 31 of the Trademark Act of 1946, and any surcharges on such fees, may only be used for expenses of the Office relating to the processing of trademark registrations and for other activities, services, and materials relating to trademarks and to cover a share of the administrative costs of the Office relating to trademarks.
 
 (d) The Director may refund any fee paid by mistake or any amount paid in excess of that required.
 
@@ -20,7 +26,7 @@
 
 &emsp;(5) such other information as the committees consider necessary.
 
-(July 19, 1952, ch. 950, 66 Stat. 796; Pub. L. 94–131, §4, Nov. 14, 1975, 89 Stat. 690; Pub. L. 96–517, §3, Dec. 12, 1980, 94 Stat. 3018; Pub. L. 97–247, §3(g), Aug. 27, 1982, 96 Stat. 319; Pub. L. 97–258, §3(i), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 102–204, §§4, 5(e), Dec. 10, 1991, 105 Stat. 1637, 1640; Pub. L. 105–358, §4, Nov. 10, 1998, 112 Stat. 3274; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4205, 4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–555, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
+(July 19, 1952, ch. 950, 66 Stat. 796; Pub. L. 94–131, §4, Nov. 14, 1975, 89 Stat. 690; Pub. L. 96–517, §3, Dec. 12, 1980, 94 Stat. 3018; Pub. L. 97–247, §3(g), Aug. 27, 1982, 96 Stat. 319; Pub. L. 97–258, §3(i), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 102–204, §§4, 5(e), Dec. 10, 1991, 105 Stat. 1637, 1640; Pub. L. 105–358, §4, Nov. 10, 1998, 112 Stat. 3274; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4205, 4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–555, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, §22(a), Sept. 16, 2011, 125 Stat. 336.)
 
 #### Historical and Revision Notes
 
@@ -30,9 +36,11 @@ Language has been changed.
 
 #### References in Text
 
-Section 31 of the Trademark Act of 1946, referred to in subsec. (c), is classified to section 1113 of Title 15, Commerce and Trade.
+Section 31 of the Trademark Act of 1946, referred to in subsec. (c)(3)(B), is classified to section 1113 of Title 15, Commerce and Trade.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (c). Pub. L. 112–29 designated existing provisions as par. (1), substituted “shall, subject to paragraph (3), be available” for “shall be available”, struck out at end “All fees available to the Director under section 31 of the Trademark Act of 1946 shall be used only for the processing of trademark registrations and for other activities, services, and materials relating to trademarks and to cover a proportionate share of the administrative costs of the Patent and Trademark Office.”, and added pars. (2) and (3).
 
 <b>2002</b>—Subsecs. (a), (b). Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\]. See 1999 Amendment note below.
 
@@ -55,6 +63,10 @@ Subsec. (c). Pub. L. 97–247 inserted provision that fees available to the Comm
 <b>1980</b>—Pub. L. 96–517 designated existing provision relating to payment of patent fees as subsec. (a) and struck out provision that, except as provided in sections 361(b) and 376(b) of this title, the Commissioner deposit fees paid in the Treasury of the United States in such manner as directed by the Secretary of the Treasury, designated existing provision relating to return of excess amounts paid as subsec. (d), and added subsecs. (b) and (c).
 
 <b>1975</b>—Pub. L. 94–131 inserted “, except as provided in sections 361(b) and 376(b) of this title,”.
+
+#### Effective Date of 2011 Amendment
+
+Pub. L. 112–29, §22(b), Sept. 16, 2011, 125 Stat. 336, provided that: “The amendments made by this section \[amending this section\] shall take effect on October 1, 2011.”
 
 #### Effective Date of 1999 Amendment
 

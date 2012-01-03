@@ -1,10 +1,30 @@
 ### §313. Inter partes reexamination order by Director
 
-If, in a determination made under section 312(a), the Director finds that a substantial new question of patentability affecting a claim of a patent is raised, the determination shall include an order for inter partes reexamination of the patent for resolution of the question. The order may be accompanied by the initial action of the Patent and Trademark Office on the merits of the inter partes reexamination conducted in accordance with section 314.
+If, in a determination made under section 312(a), the Director finds that it has been shown that there is a reasonable likelihood that the requester would prevail with respect to at least 1 of the claims challenged in the request, the determination shall include an order for inter partes reexamination of the patent for resolution of the question. The order may be accompanied by the initial action of the Patent and Trademark Office on the merits of the inter partes reexamination conducted in accordance with section 314.
 
-(Added Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4604(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–568; amended Pub. L. 107–273, div. C, title III, §13202(c)(1), Nov. 2, 2002, 116 Stat. 1902.)
+(Added Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4604(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–568; amended Pub. L. 107–273, div. C, title III, §13202(c)(1), Nov. 2, 2002, 116 Stat. 1902; Pub. L. 112–29, §6(a), (c)(3)(A)(ii), Sept. 16, 2011, 125 Stat. 300, 305.)
+
+#### Amendment of Section
+
+<i>Pub. L. 112–29, §6(a), (c)(2), Sept. 16, 2011, 125 Stat. 300, 304, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to any patent issued before, on, or after that effective date, with provisions for graduated implementation, this section is amended to read as follows:</i>
+
+#### §313. Preliminary response to petition
+
+<i>If an inter partes review petition is filed under section 311, the patent owner shall have the right to file a preliminary response to the petition, within a time period set by the Director, that sets forth reasons why no inter partes review should be instituted based upon the failure of the petition to meet any requirement of this chapter.</i>
+
+<i>See 2011 Amendment note below.</i>
 
 #### Amendments
 
+<b>2011</b>—Pub. L. 112–29, §6(c)(3)(A)(ii), which directed substitution of “it has been shown that there is a reasonable likelihood that the requester would prevail with respect to at least 1 of the claims challenged in the request” for “a substantial new question of patentability affecting a claim of the patent is raised”, was executed by making the substitution for “a substantial new question of patentability affecting a claim of a patent is raised”, to reflect the probable intent of Congress.
+
+Pub. L. 112–29, §6(a), amended section generally. Prior to amendment, text read as follows: “If, in a determination made under section 312(a), the Director finds that it has been shown that there is a reasonable likelihood that the requester would prevail with respect to at least 1 of the claims challenged in the request, the determination shall include an order for inter partes reexamination of the patent for resolution of the question. The order may be accompanied by the initial action of the Patent and Trademark Office on the merits of the inter partes reexamination conducted in accordance with section 314.”
+
 <b>2002</b>—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113, which enacted this section.
+
+#### Effective Date of 2011 Amendment
+
+Amendment by section 6(a) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning onSept. 16, 2011, and applicable to any patent issued before, on, or after that effective date, with provisions for graduated implementation, see section 6(c)(2) of Pub. L. 112–29, set out as a note under section 311 of this title.
+
+Amendment by section 6(c)(3)(A)(ii) of Pub. L. 112–29 effective Sept. 16, 2011, and applicable to requests for inter partes reexamination filed on or after Sept. 16, 2011, but before the effective date set forth in section 6(c)(2)(A) of Pub. L. 112–29, with continued applicability of prior provisions, see section 6(c)(3)(B), (C) of Pub. L. 112–29, set out as a note under section 312 of this title.
 

@@ -118,7 +118,7 @@ If—
 
 &emsp;&emsp;&emsp;&emsp;(I) a reasonable period after the close of such taxable year, or
 
-&emsp;&emsp;&emsp;&emsp;(II) 81/2 months after the close of such taxable year,
+&emsp;&emsp;&emsp;&emsp;(II) 8½ months after the close of such taxable year,
 
 &emsp;&emsp;&emsp;(iii) such item is recurring in nature and the taxpayer consistently treats items of such kind as incurred in the taxable year in which the requirements of clause (i) are met, and
 
@@ -200,7 +200,7 @@ If—
 
 #### (1) Limitation
 
-&emsp;If a taxpayer other than a C corporation receives any applicable subsidy for any taxable year, any excess farm loss of the taxpayer for the taxable year shall not be allowed.
+&emsp;If a taxpayer other than a C corporation receives any applicable subsidy for any taxableyear, any excess farm loss of the taxpayer for the taxable year shall not be allowed.
 
 #### (2) Disallowed loss carried to next taxable year
 
@@ -246,7 +246,7 @@ If—
 
 &emsp;&emsp;&emsp;&emsp;(I) notwithstanding the disregard in subparagraph (A)(i) of any disallowance under paragraph (1), in the case of any loss which is carried forward under paragraph (2) from any taxable year, such loss (or any portion thereof) shall be taken into account for the first taxable year in which a deduction for such loss (or portion) is not disallowed by reason of this subsection, and
 
-&emsp;&emsp;&emsp;&emsp;(II) the Secretary shall prescribe rules for the computation of the aggregate amounts described in such clause in cases where the filing status of the taxpayer is not the same for the taxableyear and each of the taxable years in the period described in such clause.
+&emsp;&emsp;&emsp;&emsp;(II) the Secretary shall prescribe rules for the computation of the aggregate amounts described in such clause in cases where the filing status of the taxpayer is not the same for the taxable year and each of the taxable years in the period described in such clause.
 
 #### (C) Farming business
 
@@ -284,7 +284,7 @@ If—
 
 &emsp;This subsection shall be applied before the application of section 469.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 157; Pub. L. 86–781, §6(a), Sept. 14, 1960, 74 Stat. 1020; Pub. L. 87–876, §3(a), Oct. 24, 1962, 76 Stat. 1199; Pub. L. 88–272, title II, §223(a)(1), Feb. 26, 1964, 78 Stat. 76; Pub. L. 94–455, title II, §208(a), title XIX, §§1901(a)(69), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1541, 1775, 1834; Pub. L. 98–369, div. A, title I, §91(a), (e), July 18, 1984,98 Stat. 598, 607; Pub. L. 99–514, title VIII, §§801(b), 805(c)(5), 823(b)(1), title XVIII, §1807(a)(1), (2), Oct. 22, 1986, 100 Stat. 2347, 2362, 2374, 2811; Pub. L. 100–203, title X, §10201(b)(5), Dec. 22, 1987, 101 Stat. 1330–387; Pub. L. 100–647, title I, §§1008(a)(3), 1018(u)(5), Nov. 10, 1988, 102 Stat. 3436, 3590; Pub. L. 101–239, title VII, §7721(c)(10), Dec. 19, 1989, 103 Stat. 2400; Pub. L. 101–508, title XI, §11704(a)(5), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 104–188, title I, §1704(t)(24), (78), Aug. 20, 1996, 110 Stat. 1888, 1891; Pub. L. 109–135, title IV, §412(aa), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 110–234, title XV, §15351(a), May 22, 2008, 122 Stat. 1523; Pub. L. 110–246, §4(a), title XV, §15351(a), June 18, 2008, 122 Stat. 1664, 2285.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 157; Pub. L. 86–781, §6(a), Sept. 14, 1960, 74 Stat. 1020; Pub. L. 87–876, §3(a), Oct. 24, 1962, 76 Stat. 1199; Pub. L.88–272, title II, §223(a)(1), Feb. 26, 1964, 78 Stat. 76; Pub. L. 94–455, title II, §208(a), title XIX, §§1901(a)(69), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1541, 1775, 1834; Pub. L. 98–369, div. A, title I, §91(a), (e), July 18, 1984,98 Stat. 598, 607; Pub. L. 99–514, title VIII, §§801(b), 805(c)(5), 823(b)(1), title XVIII, §1807(a)(1), (2), Oct. 22, 1986, 100 Stat. 2347, 2362, 2374, 2811; Pub. L. 100–203, title X, §10201(b)(5), Dec. 22, 1987, 101 Stat. 1330–387; Pub. L. 100–647, title I, §§1008(a)(3), 1018(u)(5), Nov. 10, 1988, 102 Stat. 3436, 3590; Pub. L. 101–239, title VII, §7721(c)(10), Dec. 19, 1989, 103 Stat. 2400; Pub. L. 101–508, title XI, §11704(a)(5), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 104–188, title I, §1704(t)(24), (78), Aug. 20, 1996, 110 Stat. 1888, 1891; Pub. L. 109–135, title IV, §412(aa), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 110–234, title XV, §15351(a), May 22, 2008, 122 Stat. 1523; Pub. L. 110–246, §4(a), title XV, §15351(a), June 18, 2008, 122 Stat. 1664, 2285.)
 
 #### References in Text
 

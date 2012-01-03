@@ -176,7 +176,7 @@ Written justification for public interest waiver.—When issuing a waiver based 
 
 &emsp;(A) has an agreement with the United States Government under which the Secretary has waived the requirement of this subsection; and
 
-&emsp;(B) has violated the agreement by discriminating against goods to which this subsectionapplies that are produced in the United States and to which the agreement applies.
+&emsp;(B) has violated the agreement by discriminating against goods to which this subsection applies that are produced in the United States and to which the agreement applies.
 
 (6) A person is ineligible under subpart 9.4 of chapter 1 of title 48, Code of Federal Regulations, to receive a contract or subcontract made with amounts authorized under the Federal Public Transportation Act of 2005 if a court or department, agency, or instrumentality of the Government decides the person intentionally—
 
@@ -208,7 +208,7 @@ Relationship to Other Laws.—Section 1001 of title 18 applies to a certificate,
 
 (m)
 
-Preaward and Postdelivery Review of Rolling Stock Purchases.—The Secretary of Transportation shall prescribe regulations requiring a preaward and postdelivery review of a grant under this chapter to buy rolling stock to ensure compliance with Government motor vehicle safety requirements, subsection (j) of this section, and bid specifications requirements of grant recipients under this chapter. Under this subsection, independent inspections and review are required, and a manufacturer certification is not sufficient. Rolling stock procurements of 20 vehicles or fewer made for the purpose of serving other than urbanized areas and urbanized areas with populations of 200,000 or fewer shall be subject to the same requirements as established for procurements of 10 or fewer buses under the post-delivery purchaser's requirements certification process under section 663.37(c) of title 49, Code of Federal Regulations.
+Preaward and Postdelivery Review of Rolling Stock Purchases.—The Secretary ofTransportation shall prescribe regulations requiring a preaward and postdelivery review of a grant under this chapter to buy rolling stock to ensure compliance with Government motor vehicle safety requirements, subsection (j) of this section, and bid specifications requirements of grant recipients under this chapter. Under this subsection, independent inspections and review are required, and a manufacturer certification is not sufficient. Rolling stock procurements of 20 vehicles or fewer made for the purpose of serving other than urbanized areas and urbanized areas with populations of 200,000 or fewer shall be subject to the same requirements as established for procurements of 10 or fewer buses under the post-delivery purchaser's requirements certification process under section 663.37(c) of title 49, Code of Federal Regulations.
 
 (n)
 
@@ -378,7 +378,7 @@ In subsection (j), the word “goods” is substituted for “products” for co
 
 In subsection (j)(1), the words “Notwithstanding any other provision of law” are omitted as surplus.
 
-In subsection (j)(2), before clause (A), the words “The Secretary of Transportation may waive” are substituted for “shall not apply” for clarity. In clause (B), the words “steel, iron, and goods” are substituted for“materials and products” for consistency. In clause (C), before subclause (i), the words “bus and other” are omitted as surplus. In subclauses (i) and (ii), the words “rolling stock” are substituted for “vehicle or equipment” for consistency. In clause (D), the word “contract” is omitted as surplus.
+In subsection (j)(2), before clause (A), the words “The Secretary of Transportation may waive” are substituted for “shall not apply” for clarity. In clause (B), the words “steel, iron, and goods” are substituted for “materials and products” for consistency. In clause (C), before subclause (i), the words “bus and other” are omitted as surplus. In subclauses (i) and (ii), the words “rolling stock” are substituted for “vehicle or equipment” for consistency. In clause (D), the word “contract” is omitted as surplus.
 
 In subsection (j)(4), before clause (A), the words “The Secretary of Transportation may not make a waiver under” are substituted for “shall not apply” for clarity. The words “government of a foreign country” are substituted for “foreign country”, and the word “Government” is added, for consistency in the revised title and with other titles of the United States Code.
 
@@ -460,7 +460,7 @@ Subsec. (j)(9). Pub. L. 109–59, §3023(i)(3), added par. (9).
 
 Subsec. (<i>l</i>). Pub. L. 109–59, §3023(j), amended heading and text of subsec. (<i>l</i>) generally. Prior to amendment, text read as follows: “The planning and programming requirements of section 135 of title 23 apply to a grant made under sections 5307–5311 of this title.”
 
-Subsec. (m). Pub. L. 109–59, §3023(k), inserted at end “Rolling stock procurements of 20 vehicles or fewermade for the purpose of serving other than urbanized areas and urbanized areas with populations of 200,000 or fewer shall be subject to the same requirements as established for procurements of 10 or fewer buses under the post-delivery purchaser's requirements certification process under section 663.37(c) of title 49, Code of Federal Regulations.”
+Subsec. (m). Pub. L. 109–59, §3023(k), inserted at end “Rolling stock procurements of 20 vehicles or fewer made for the purpose of serving other than urbanized areas and urbanized areas with populations of 200,000 or fewer shall be subject to the same requirements as established for procurements of 10 or fewer buses under the post-delivery purchaser's requirements certification process under section 663.37(c) of title 49, Code of Federal Regulations.”
 
 Subsec. (<i>o</i>). Pub. L. 109–59, §3023(<i>l</i>), substituted “chapter 6 (other than section 609) of title 23” for “the Transportation Infrastructure Finance and Innovation Act of 1998”.
 

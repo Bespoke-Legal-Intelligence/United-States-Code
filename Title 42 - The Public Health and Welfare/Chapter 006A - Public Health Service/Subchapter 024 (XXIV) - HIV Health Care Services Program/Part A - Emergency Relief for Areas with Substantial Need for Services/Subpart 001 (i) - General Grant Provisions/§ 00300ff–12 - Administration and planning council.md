@@ -90,7 +90,7 @@
 
 &emsp;&emsp;&emsp;(iii) individuals with HIV/AIDS who do not know their HIV status;
 
-&emsp;&emsp;(C) establish priorities for the allocation of funds within the eligible area, including how best to meet each such priority and additional factors that a grantee should considerin allocating funds under a grant based on the—
+&emsp;&emsp;(C) establish priorities for the allocation of funds within the eligible area, including how best to meet each such priority and additional factors that a grantee should consider in allocating funds under a grant based on the—
 
 &emsp;&emsp;&emsp;(i) size and demographics of the population of individuals with HIV/AIDS (as determined under subparagraph (A)) and the needs of such population (as determined under subparagraph (B));
 

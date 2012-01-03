@@ -8,7 +8,7 @@
 
 #### (2) Surplus proceed
 
-&emsp;If property has been sold pursuant to a levy, any person (other than the person against whom is assessed the tax out of which such levy arose) who claims an interest in or lien on such property junior to that of the United States and to be legally entitled to the surplus proceeds of such sale may bring a civil action against the United States in a district court of the United States.
+&emsp;If property has been sold pursuant to a levy, any person (other than the person against whom is assessed the tax out of which such levy arose) who claims an interest in or lien on such property junior to that of the United States and to be legally entitled to the surplus proceeds of such sale may bring a civil actionagainst the United States in a district court of the United States.
 
 #### (3) Substituted sale proceeds
 
@@ -84,7 +84,7 @@ Interest shall be allowed at the overpayment rate established under section 6621
 
 #### (1) In general
 
-&emsp;Notwithstanding subsection (b), if, in any action brought under this section, there is a finding that any officer or employee of the Internal Revenue Service recklessly or intentionally, or by reason of negligence, disregarded any provision of this title the defendant shall be liable to the plaintiff in an amount equal to the lesser of $1,000,000 ($100,000 in the case of negligence) or the sum of—
+&emsp;Notwithstanding subsection (b), if, in any action brought under this section, there is afinding that any officer or employee of the Internal Revenue Service recklessly or intentionally, or by reason of negligence, disregarded any provision of this title the defendant shall be liable to the plaintiff in an amount equal to the lesser of $1,000,000 ($100,000 in the case of negligence) or the sum of—
 
 &emsp;&emsp;(A) actual, direct economic damages sustained by the plaintiff as a proximate result of the reckless or intentional or negligent disregard of any provision of this title by the officer or employee (reduced by any amount of such damages awarded under subsection (b)); and
 

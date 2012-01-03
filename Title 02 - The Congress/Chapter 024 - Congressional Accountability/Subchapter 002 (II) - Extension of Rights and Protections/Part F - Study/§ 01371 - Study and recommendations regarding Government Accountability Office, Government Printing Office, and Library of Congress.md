@@ -80,15 +80,15 @@ The Worker Adjustment and Retraining Notification Act, referred to in subsec. (b
 
 #### Amendments
 
-2004—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in section catchline.
+<b>2004</b>—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in section catchline.
 
 Subsec. (a)(1)(A). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-1995—Subsec. (a). Pub. L. 104–53, §309(a), substituted “Board” for “Administrative Conference of the United States” in introductory provisions.
+<b>1995</b>—Subsec. (a). Pub. L. 104–53, §309(a), substituted “Board” for “Administrative Conference of the United States” in introductory provisions.
 
 Subsec. (d)(1). Pub. L. 104–53, §309(b), substituted “Board” for “Administrative Conference of the United States” and struck out “and shall submit the study and recommendations to the Board” before semicolon.
 
 #### Effective Date of 1995 Amendment
 
-Section 309(c) of Pub. L. 104–53 provided that: “The amendments made by this section \[amending this section\] shall take effect only if the Administrative Conference of the United States ceases to exist prior to the completion and submission of the study to the Board as required by section 230 of the Congressional Accountability Act of 1995 (2 U.S.C. 1371). \[See provision of title II of Pub. L. 104–52, set out as a note preceding section 591 of Title 5, Government Organization and Employees.\]”
+Section 309(c) of Pub. L. 104–53 provided that: “The amendments made by this section \[amending this section\] shall take effect only if the Administrative Conference of the United States ceases to exist prior to the completion and submission of the study to the Board as required by section 230 of the Congressional Accountability Act of 1995 (2 U.S.C. 1371). \[See provision of title II of Pub. L. 104–52, set out as a note preceding section591 of Title 5, Government Organization and Employees.\]”
 

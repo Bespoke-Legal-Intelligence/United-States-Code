@@ -14,7 +14,7 @@ The Commission may for the purpose of carrying out this subchapter hold such hea
 
 #### (c) Contracting authority
 
-The Commission, in performing its duties and functions under this subchapter, may enter into contracts with appropriate public or nonprofit private entities. The authority of the Commission to enter into such contracts is effective for any fiscal year only to such extent or in such amounts as are provided in advance in appropriation Acts.
+The Commission, in performing its duties and functions under this subchapter, may enter intocontracts with appropriate public or nonprofit private entities. The authority of the Commission to enter into such contracts is effective for any fiscal year only to such extent or in such amounts as are provided in advance in appropriation Acts.
 
 #### (d) Informational requirements and prohibitions
 

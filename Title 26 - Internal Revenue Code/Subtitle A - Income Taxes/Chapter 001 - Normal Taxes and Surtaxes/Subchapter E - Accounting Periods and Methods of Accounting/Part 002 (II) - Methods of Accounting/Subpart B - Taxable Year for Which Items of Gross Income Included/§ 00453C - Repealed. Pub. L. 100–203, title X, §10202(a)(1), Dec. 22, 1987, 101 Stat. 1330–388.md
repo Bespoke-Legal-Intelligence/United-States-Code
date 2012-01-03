@@ -78,7 +78,7 @@ Treatment of certain installment obligations.—Notwithstanding the amendments m
 
 &emsp;“(A) such note agreement was executed pursuant to an agreement of purchase and sale dated April 25, 1980,
 
-&emsp;“(B) more than 1/2 of the installment payments of the aggregate principal of such notes have been received by August 29, 1986, and
+&emsp;“(B) more than ½ of the installment payments of the aggregate principal of such notes have been received by August 29, 1986, and
 
 &emsp;“(C) the last installment payment of the principal of such notes is due August 29, 1989,
 

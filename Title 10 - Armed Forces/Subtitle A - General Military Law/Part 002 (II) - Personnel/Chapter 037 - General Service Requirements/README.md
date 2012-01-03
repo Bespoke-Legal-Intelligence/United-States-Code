@@ -5,16 +5,14 @@
 | [651\.](%C2%A7%2000651%20-%20Members%20required%20service.md) | Members: required service. |
 | [652\.](%C2%A7%2000652%20-%20Notice%20to%20Congress%20of%20proposed%20changes%20in%20units%2C%20assignments%2C%20etc.%20to%20which%20female%20members%20may%20be%20assigned.md) | Notice to Congress of proposed changes in units, assignments, etc. to which female members may be assigned. |
 | [653\.](%C2%A7%2000653%20-%20Minimum%20service%20requirement%20for%20certain%20flight%20crew%20positions.md) | Minimum service requirement for certain flight crew positions. |
-| [654\.](%C2%A7%2000654%20-%20Policy%20concerning%20homosexuality%20in%20the%20armed%20forces.md) | Policy concerning homosexuality in the armed forces. |
+| \[654. | Repealed.\] |
 | [655\.](%C2%A7%2000655%20-%20Designation%20of%20persons%20having%20interest%20in%20status%20of%20a%20missing%20member.md) | Designation of persons having interest in status of a missing member. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Repeal of Item
-
-<i>Pub. L. 111–321, §2(b), (f)(1), Dec. 22, 2010, 124 Stat. 3516, provided that, effective on the date established by section 2(b) of Pub. L. 111–321, set out in a note under section 654 of this title, the table of sections for this chapter is amended by striking the item relating to section 654.</i>
-
 #### Amendments
+
+<b>2010</b>—Pub. L. 111–321, §2(f)(1)(B), Dec. 22, 2010, 124 Stat. 3516, struck out item 654 “Policy concerning homosexuality in the armed forces”.
 
 <b>2006</b>—Pub. L. 109–163, div. A, title V, §541(a)(2), Jan. 6, 2006, 119 Stat. 3252, added item 652.
 
@@ -42,5 +40,5 @@ Pub. L. 110–181, div. A, title V, §544, Jan. 28, 2008, 122 Stat. 116, provide
 - [&sect; 00651 - Members required service](%C2%A7%2000651%20-%20Members%20required%20service.md)
 - [&sect; 00652 - Notice to Congress of proposed changes in units, assignments, etc. to which female members may be assigned](%C2%A7%2000652%20-%20Notice%20to%20Congress%20of%20proposed%20changes%20in%20units%2C%20assignments%2C%20etc.%20to%20which%20female%20members%20may%20be%20assigned.md)
 - [&sect; 00653 - Minimum service requirement for certain flight crew positions](%C2%A7%2000653%20-%20Minimum%20service%20requirement%20for%20certain%20flight%20crew%20positions.md)
-- [&sect; 00654 - Policy concerning homosexuality in the armed forces](%C2%A7%2000654%20-%20Policy%20concerning%20homosexuality%20in%20the%20armed%20forces.md)
+- [&sect; 00654 - Repealed. Pub. L. 111&#8211;321, &sect;2(f)(1)(A), Dec. 22, 2010, 124 Stat. 3516](%C2%A7%2000654%20-%20Repealed.%20Pub.%20L.%20111%E2%80%93321%2C%20%C2%A72%28f%29%281%29%28A%29%2C%20Dec.%2022%2C%202010%2C%20124%20Stat.%203516.md)
 - [&sect; 00655 - Designation of persons having interest in status of a missing member](%C2%A7%2000655%20-%20Designation%20of%20persons%20having%20interest%20in%20status%20of%20a%20missing%20member.md)

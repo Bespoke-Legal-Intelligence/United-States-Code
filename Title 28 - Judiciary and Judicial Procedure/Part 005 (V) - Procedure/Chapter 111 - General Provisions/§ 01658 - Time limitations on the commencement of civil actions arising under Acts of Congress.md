@@ -28,5 +28,5 @@ Section 313(c) of Pub. L. 101–650 provided that: “The amendments made by thi
 
 #### No Creation of Actions
 
-Pub. L. 107–204, title VIII, §804(c), July 30, 2002, 116 Stat. 801, provided that: “Nothing in this section \[amending this section and enacting provisions set outas a note under this section\] shall create a new, private right of action.”
+Pub. L. 107–204, title VIII, §804(c), July 30, 2002, 116 Stat. 801, provided that: “Nothing in this section \[amending this section and enacting provisions set out as a note under this section\] shall create a new, private right of action.”
 

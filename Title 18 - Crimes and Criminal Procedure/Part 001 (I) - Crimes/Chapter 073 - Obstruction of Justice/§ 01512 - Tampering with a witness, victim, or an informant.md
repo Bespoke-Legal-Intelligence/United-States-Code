@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(ii) alter, destroy, mutilate, or conceal an object with intent to impair the integrity or availability of the object for use in an official proceeding;
 
-&emsp;&emsp;(iii) evade legal process summoning that person to appear as a witness, or to producea record, document, or other object, in an official proceeding; or
+&emsp;&emsp;(iii) evade legal process summoning that person to appear as a witness, or to produce a record, document, or other object, in an official proceeding; or
 
 &emsp;&emsp;(iv) be absent from an official proceeding to which that person has been summoned by legal process; or
 
@@ -100,7 +100,7 @@
 
 (j) If the offense under this section occurs in connection with a trial of a criminal case, the maximum term of imprisonment which may be imposed for the offense shall be the higher of that otherwise provided by law or the maximum term that could have been imposed for any offense charged in such case.
 
-(k) Whoever conspires to commit any offense under this section shall be subject to the same penalties as those prescribed for the offense thecommission of which was the object of the conspiracy.
+(k) Whoever conspires to commit any offense under this section shall be subject to the same penalties as those prescribed for the offense the commission of which was the object of the conspiracy.
 
 (Added Pub. L. 97–291, §4(a), Oct. 12, 1982, 96 Stat. 1249; amended Pub. L. 99–646, §61, Nov. 10, 1986, 100 Stat. 3614; Pub. L. 100–690, title VII, §7029(a), (c), Nov. 18, 1988, 102 Stat. 4397, 4398; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 103–322, title VI, §60018, title XXXIII, §330016(1)(O), (U), Sept. 13, 1994, 108 Stat. 1975, 2148; Pub. L. 104–214, §1(2), Oct. 1, 1996, 110 Stat. 3017; Pub. L. 104–294, title VI, §604(b)(31), Oct. 11, 1996, 110 Stat. 3508; Pub. L. 107–204, title XI, §1102, July 30, 2002, 116 Stat. 807; Pub. L. 107–273, div. B, title III, §3001(a), (c)(1), Nov. 2, 2002, 116 Stat. 1803, 1804; Pub. L. 110–177, title II, §205, Jan. 7, 2008, 121 Stat. 2537.)
 

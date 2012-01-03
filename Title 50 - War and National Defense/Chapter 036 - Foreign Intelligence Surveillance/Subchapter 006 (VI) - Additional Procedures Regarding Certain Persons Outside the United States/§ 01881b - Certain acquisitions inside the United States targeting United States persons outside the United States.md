@@ -46,7 +46,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) such information cannot reasonably be obtained by normal investigative techniques;
 
-&emsp;&emsp;(G) a summary statement of the means by which the acquisition will be conducted and whether physical entry is required to effect the acquisition;
+&emsp;&emsp;(G) a summary statement of the means by which the acquisition will be conducted andwhether physical entry is required to effect the acquisition;
 
 &emsp;&emsp;(H) the identity of any electronic communication service provider necessary to effect the acquisition, provided that the application is not required to identify the specific facilities, places, premises, or property at which the acquisition authorized under this section will be directed or conducted;
 

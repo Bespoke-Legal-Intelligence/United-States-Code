@@ -6,11 +6,11 @@ This subchapter does not apply to the following:
 
 &emsp;(2) Transactions in securities or commodities accounts by a broker-dealer registered with the Securities and Exchange Commission.
 
-&emsp;(3) Credit transactions, other than those in which a security interest is or will be acquired in real property, or in personal property used or expected to be used as the principal dwelling of the consumer and other than private education loans (as that term is defined in section 1650(a) of this title), in which the total amount financed exceeds $25,000.
+&emsp;(3) Credit transactions, other than those in which a security interest is or will be acquired in real property, or in personal property used or expected to be used as the principal dwelling of the consumer and other than private education loans (as that term is defined in section 1650(a) of this title), in which the total amount financed exceeds $50,000.
 
-&emsp;(4) Transactions under public utility tariffs, if the Board determines that a State regulatory body regulates the charges for the public utility services involved, the charges for delayed payment, and any discount allowed for early payment.
+&emsp;(4) Transactions under public utility tariffs, if the Bureau determines that a State regulatory body regulates the charges for the public utility services involved, the charges for delayed payment, and any discount allowed for early payment.
 
-&emsp;(5) Transactions for which the Board, by rule, determines that coverage under this subchapter is not necessary to carry out the purposes of this subchapter.
+&emsp;(5) Transactions for which the Bureau, by rule, determines that coverage under this subchapter is not necessary to carry out the purposes of this subchapter.
 
 &emsp;(6) Repealed. Pub. L. 96–221, title VI, §603(c)(3), Mar. 31, 1980, 94 Stat. 169.
 
@@ -18,21 +18,19 @@ This subchapter does not apply to the following:
 
 (Pub. L. 90–321, title I, §104, May 29, 1968, 82 Stat. 147; Pub. L. 93–495, title IV, §402, Oct. 28, 1974, 88 Stat. 1517; Pub. L. 96–221, title VI, §603(c), Mar. 31, 1980, 94 Stat. 169; Pub. L. 97–320, title VII, §701(a), Oct. 15, 1982, 96 Stat. 1538; Pub. L. 104–208, div. A, title II, §2102(a), Sept. 30, 1996, 110 Stat. 3009–398; Pub. L. 110–315, title X, §1022, Aug. 14, 2008, 122 Stat. 3488; Pub. L. 111–203, title X, §§1100A(2), 1100E(a)(1), July 21, 2010, 124 Stat. 2107, 2111.)
 
-#### Amendment of Section
+#### Adjustments for Inflation
 
-<i>Pub. L. 111–203, title X, §§1100A(2), 1100E(a)(1), 1100H, July 21, 2010, 124 Stat. 2107, 2111, 2113, provided that, effective on the designated transfer date, this section is amended as follows:</i>
-
-<i>(1) by striking “Board” each place that term appears and inserting “Bureau”; and</i>
-
-<i>(2) in paragraph (3), by striking “$25,000” and inserting “$50,000”.</i>
-
-<i>See Effective Date of 2010 Amendment note below.</i>
+<i>For requirement of inflation adjustment of dollar amounts in par. (3) of this section, see section 1100E(b) of Pub. L. 111–203, set out as a note below.</i>
 
 #### References in Text
 
-The Higher Education Act of 1965, referred to in par. (7), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, asamended. Title IV of the Higher Education Act of 1965 is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in par. (7), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Higher Education Act of 1965 is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 #### Amendments
+
+<b>2010</b>—Par. (3). Pub. L. 111–203, §1100E(a)(1), substituted “$50,000” for “$25,000”.
+
+Pars. (4), (5). Pub. L. 111–203, §1100A(2), substituted “Bureau” for “Board”.
 
 <b>2008</b>—Par. (3). Pub. L. 110–315 inserted “and other than private education loans (as that term is defined in section 1650(a) of this title)” after “consumer”.
 

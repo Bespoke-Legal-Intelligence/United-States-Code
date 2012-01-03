@@ -2,7 +2,7 @@
 
 #### (a) Prerequisites for promulgation
 
-(1) Within six months from January 4, 1975, the Secretary shall, to the extent practicable, consult with national and regional Indian organizations with experiences in Indian education to consider and formulate appropriate rules and regulations to implement the provisions of this part.
+(1) Within six months from January 4, 1975, the Secretary shall, to the extent practicable, consult with national and regional Indian organizations with experiences in Indian education to consider and formulate appropriate rules andregulations to implement the provisions of this part.
 
 (2) Within seven months from January 4, 1975, the Secretary shall present the proposed rules and regulations to the Committees on Interior and Insular Affairs of the United States Senate and House of Representatives.
 
@@ -12,7 +12,7 @@
 
 #### (b) Revision and amendment
 
-The Secretary is authorized to revise and amend any rules or regulations promulgatedpursuant to subsection (a) of this section: <i>Provided</i>, That prior to any revision or amendment to such rules or regulations the Secretary shall, to the extent practicable, consult with appropriate national and regional Indian organizations, and shall publish any proposed revisions in the Federal Register not less than sixty days prior to the effective date of such rules and regulations in order to provide adequate notice to, and receive comments from, other interested parties.
+The Secretary is authorized to revise and amend any rules or regulations promulgated pursuant to subsection (a) of this section: <i>Provided</i>, That prior to any revision or amendment to such rules or regulations the Secretary shall, to the extent practicable, consult with appropriate national and regional Indian organizations, and shall publish any proposed revisions in the Federal Register not less than sixty days prior to the effective date of such rules and regulations in order to provide adequate notice to, and receive comments from, other interested parties.
 
 (Pub. L. 93–638, title II, §207, Jan. 4, 1975, 88 Stat. 2216.)
 

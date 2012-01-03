@@ -58,7 +58,7 @@ Subject to subsection (c)(2) of this section, nothing in this subchapter limits 
 
 #### (1) Reimposing paper prohibited
 
-&emsp;Nothing in subsection (b) of this section (other than paragraph (3)(B) thereof) shall be construed to grant any Federal regulatory agency or State regulatory agency authority to impose or reimpose any requirement that a record be in a tangible printed or paper form.
+&emsp;Nothing in subsection (b) of this section (other than paragraph (3)(B) thereof) shall be construed to grant any Federal regulatoryagency or State regulatory agency authority to impose or reimpose any requirement that a record be in a tangible printed or paper form.
 
 #### (2) Continuing obligation under Government Paperwork Elimination Act
 

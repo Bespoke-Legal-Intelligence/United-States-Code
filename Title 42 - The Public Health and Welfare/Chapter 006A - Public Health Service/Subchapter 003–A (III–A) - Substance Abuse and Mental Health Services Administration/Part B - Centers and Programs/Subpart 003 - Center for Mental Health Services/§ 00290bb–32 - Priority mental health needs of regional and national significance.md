@@ -50,7 +50,7 @@ The Secretary shall evaluate each project carried out under subsection (a)(1) of
 
 #### (1) In general
 
-&emsp;The Secretary shall establish information and education programs to disseminate and apply the findings of the knowledge development and application, training, and technical assistance programs, and targeted capacity response programs, under this section to the general public, to health care professionals, and to interested groups. The Secretary shall make every effort to provide linkages between the findings of supported projects and State agencies responsible for carrying out mental health services.
+&emsp;The Secretary shall establish information and education programs to disseminate and apply the findings of the knowledge development and application, training, and technical assistance programs, and targeted capacity response programs, under this section to the general public, to health care professionals, and to interested groups. The Secretary shall make every effort to provide linkages betweenthe findings of supported projects and State agencies responsible for carrying out mental health services.
 
 #### (2) Rural and underserved areas
 

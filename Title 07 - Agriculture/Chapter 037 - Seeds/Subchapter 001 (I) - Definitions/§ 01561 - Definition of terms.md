@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(C) commerce within the District of Columbia.
 
-&emsp;(4) For the purposes of this chapter with respect to labeling for treatment, variety and origin (but not in anywise limiting the foregoing definition), seeds shall be considered to be in interstate commerce, or delivered for transportation in interstate commerce, if such seeds are part of, or delivered for transportation in, that current of commerce usual in the transportation and/or merchandising of seeds, whereby such seeds are sent from one State with the expectation that they will end their transit in another, including, in addition to cases within the above general description, all cases where seeds are transported or delivered for transportation to another State, or for processing or cleaning for seeding purposes within the State and shipment outside the State of the processed or cleaned seeds. Seeds normally in such current of commerce shall not be considered out of such current through resort being had to any means or device intended to remove transactions in respect thereto from the provisions of this chapter.
+&emsp;(4) For the purposes of this chapter with respect to labeling for treatment, variety and origin (but not in anywise limiting the foregoing definition), seeds shall be considered to be in interstate commerce, or delivered for transportation in interstate commerce, if such seeds are part of, or delivered for transportation in, that current of commerce usual in the transportation and/or merchandising of seeds, whereby such seeds are sent from one State with the expectation that they will endtheir transit in another, including, in addition to cases within the above general description, all cases where seeds are transported or delivered for transportation to another State, or for processing or cleaning for seeding purposes within the State and shipment outside the State of the processed or cleaned seeds. Seeds normally in such current of commerce shall not be considered out of such current through resort being had to any means or device intended to remove transactions in respect thereto from the provisions of this chapter.
 
 &emsp;(5) The term “foreign commerce” means commerce between the United States, its possessions, or any Territory of the United States, and any foreign country.
 
@@ -76,7 +76,7 @@
 
 &emsp;(23) The term “treated” means given an application of a substance or subjected to a process designed to reduce, control, or repel disease organisms, insects or other pests which attack seeds or seedlings growing therefrom.
 
-&emsp;(24) The term “seed certifying agency” means (A) an agency authorized under the laws of a State, Territory, or possession, to officially certify seed and which has standards and procedures approved by the Secretary (after due notice, hearings, and full consideration of the views of farmer users of certified seed and other interested parties) to assurethe genetic purity and identity of the seed certified, or (B) an agency of a foreign country determined by the Secretary of Agriculture to adhere to procedures and standards for seed certification comparable to those adhered to generally by seed certifying agencies under (A).
+&emsp;(24) The term “seed certifying agency” means (A) an agency authorized under the laws of a State, Territory, or possession, to officially certify seed and which has standards and procedures approved by the Secretary (after due notice, hearings, and full consideration of the views of farmer users of certified seed and other interested parties) to assure the genetic purity and identity of the seed certified, or (B) an agency of a foreign country determined by the Secretary of Agriculture to adhere to procedures and standards for seed certification comparable to those adhered to generally by seed certifying agencies under (A).
 
 (Aug. 9, 1939, ch. 615, title I, §101, 53 Stat. 1275; June 25, 1948, ch. 646, §1, 62 Stat. 870; Aug. 1, 1956, ch. 852, §1, 70 Stat. 908; Pub. L. 85–581, §§1–3, Aug. 1, 1958, 72 Stat. 476; Pub. L. 89–686, §§1–3, 19, Oct. 15, 1966, 80 Stat. 975, 979; Pub. L. 91–89, §1, Oct. 17, 1969, 83 Stat. 134; Pub. L. 97–439, §5(a), Jan. 8, 1983, 96 Stat. 2288.)
 
@@ -88,7 +88,7 @@ Former subsec. (a)(6)(b), which extended the former term “circuit court of app
 
 #### Amendments
 
-1983—Subsec. (a)(8). Pub. L. 97–439, §5(a)(1)(B), struck out “(A)” before “For the purpose of subchapter II of this chapter”.
+<b>1983</b>—Subsec. (a)(8). Pub. L. 97–439, §5(a)(1)(B), struck out “(A)” before “For the purpose of subchapter II of this chapter”.
 
 Subsec. (a)(8)(A). Pub. L. 97–439, §5(a)(1)(C), substituted “(A)” for “(i)” before “The State into which”.
 
@@ -98,9 +98,9 @@ Subsec. (a)(17). Pub. L. 97–439, §5(a)(2), redesignated par. (18) as (17). Fo
 
 Subsec. (a)(18) to (25). Pub. L. 97–439, §5(a)(2), redesignated pars. (18) through (25) as (17) through (24), respectively.
 
-1969—Subsec. (a)(25). Pub. L. 91–89 inserted provision authorizing Secretary (after due notice, hearing, and full consideration of the views of interested parties) to approve of the standards and procedures of seed certifying agencies authorized under the laws of a State, Territory, or possession.
+<b>1969</b>—Subsec. (a)(25). Pub. L. 91–89 inserted provision authorizing Secretary (after due notice, hearing, and full consideration of the views of interested parties) to approve of the standards and procedures of seed certifying agencies authorized under the laws of a State, Territory, or possession.
 
-1966—Subsec. (a)(1). Pub. L. 89–686, §1, struck out references to “Alaska,” and “Hawaii,” before and after “District of Columbia,”.
+<b>1966</b>—Subsec. (a)(1). Pub. L. 89–686, §1, struck out references to “Alaska,” and “Hawaii,” before and after “District of Columbia,”.
 
 Subsec. (a)(4). Pub. L. 89–686, §19, inserted “treatment” before “variety”.
 
@@ -112,13 +112,13 @@ Subsec. (a)(10). Pub. L. 89–686, §1, struck out references to “Alaska,” a
 
 Subsec. (a)(11). Pub. L. 89–686, §3, substituted “soybean, flax, carrot, radish” for “wheat, oat, vetch, sweetclover”.
 
-1958—Subsec. (a)(7)(A). Pub. L. 85–581, §1, included sugar beets in list of seeds subject to this chapter by striking out “excluding sugar beet” after “Beta vulgaris L.—Field beet”.
+<b>1958</b>—Subsec. (a)(7)(A). Pub. L. 85–581, §1, included sugar beets in list of seeds subject to this chapter by striking out “excluding sugar beet” after “Beta vulgaris L.—Field beet”.
 
 Subsec. (a)(24). Pub. L. 85–581, §2, added par. (24).
 
 Subsec. (a)(25). Pub. L. 85–581, §3, added par. (25).
 
-1956—Subsec. (a)(8)(A)(ii). Act Aug. 1, 1956, §1(a), inserted “Guam” after “Puerto Rico”.
+<b>1956</b>—Subsec. (a)(8)(A)(ii). Act Aug. 1, 1956, §1(a), inserted “Guam” after “Puerto Rico”.
 
 Subsec. (a)(9)(A)(ii). Act Aug. 1, 1956, §1(b), inserted “Guam” after “Puerto Rico”.
 

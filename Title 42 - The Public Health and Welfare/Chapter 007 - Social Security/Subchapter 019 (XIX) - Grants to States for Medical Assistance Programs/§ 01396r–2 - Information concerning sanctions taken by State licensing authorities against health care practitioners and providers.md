@@ -36,7 +36,7 @@ The information described in subsection (a)(1) of this section shall be provided
 
 &emsp;(3) to State agencies administering or supervising the administration of State health care programs (as defined in section 1320a–7(h) of this title),
 
-&emsp;(4) to utilization and quality control peer review organizations described in part B of subchapter XI of this chapter and to appropriate entities with contracts under section 1320c–3(a)(4)(C) of this title with respect to eligible organizations reviewed under the contracts, but only with respect to information provided pursuant to subsection (a)(1)(A),
+&emsp;(4) to utilization and quality control peer review organizations <sup>2</sup> described in part B of subchapter XI of this chapter and to appropriate entities with contracts under section 1320c–3(a)(4)(C) <sup>3</sup> of this title with respect to eligible organizations reviewed under the contracts, but only with respect to information provided pursuant to subsection (a)(1)(A),
 
 &emsp;(5) to State law or fraud enforcement agencies,
 
@@ -120,7 +120,7 @@ In implementing this section, the Secretary shall provide for the maximum approp
 
 #### References in Text
 
-Part B of subchapter XI of this chapter, referred to in subsec. (b)(4), is classified to section 1320c et seq. of this title.
+Section 1320c–3(a)(4)(C) of this title, referred to in subsec. (b)(4), was repealed by Pub. L. 112–40, title II, §261(c)(2)(A)(ii), Oct. 21, 2011, 125 Stat. 425.
 
 The Health Care Quality Improvement Act of 1986 and that Act, referred to in subsecs. (b)(6) and (h), are title IV of Pub. L. 99–660, Nov. 14, 1986, 100 Stat. 3784, which is classified generally to chapter 117 (§11101 et seq.) of this title. Part B of the Act is classified generally to subchapter II (§11131 et seq.) of chapter 117 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 11101 of this title and Tables.
 
@@ -171,4 +171,8 @@ Section 4752(f)(2) of Pub. L. 101–508 provided that: “The amendments made by
 Section applicable, with certain exceptions, to payments under subchapter XIX of this chapter for calendar quarters beginning more than thirty days after Aug. 18, 1987, without regard to whether or not final regulations to carry out this section have been published by that date, see section 15(c)(1), (2) of Pub. L. 100–93 set out as an Effective Date of 1987 Amendment note under section 1320a–7 of this title.
 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a comma.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “to quality improvement organizations”.</i>
+
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 

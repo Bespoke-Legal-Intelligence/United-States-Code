@@ -26,7 +26,7 @@ Motor carriers.—
 
 &emsp;&emsp;(A)
 
-Shipper waiver.—Subject to the provisions of subparagraph (B), a carrier providing transportation or service subject to jurisdiction under subchapter I or III of chapter 135 may, subject to the provisions of this chapter (including with respect to a motor carrier, the requirements of section 13710(a)), establish rates for the transportation of property (other than household goods described in section 13102(10)(A)) under which the liability of the carrier for such property is limited to a value established by written or electronic declaration of the shipper or by written agreement between the carrier andshipper if that value would be reasonable under the circumstances surrounding the transportation.
+Shipper waiver.—Subject to the provisions of subparagraph (B), a carrier providing transportation or service subject to jurisdiction under subchapter I or III of chapter 135 may, subject to the provisions of this chapter (including with respect to a motor carrier, the requirements of section 13710(a)), establish rates for the transportation of property (other than household goods described in section 13102(10)(A)) under which the liability of the carrier for such property is limited to a value established by written or electronic declaration of the shipper or by written agreement between the carrier and shipper if that value would be reasonable under the circumstances surrounding the transportation.
 
 &emsp;&emsp;(B)
 
@@ -34,7 +34,7 @@ Carrier notification.—If the motor carrier is not required to file its tariff 
 
 &emsp;&emsp;(C)
 
-Prohibition against collective establishment.—No discussion, consideration, or approval as to rules to limit liability under this subsection may be undertaken by carriers acting under an agreement approved pursuant to section 13703.
+Prohibition against collective establishment.—No discussion, consideration,or approval as to rules to limit liability under this subsection may be undertaken by carriers acting under an agreement approved pursuant to section 13703.
 
 &emsp;(2)
 
@@ -138,7 +138,7 @@ Pub. L. 109–59, title IV, §4215, Aug. 10, 2005, 119 Stat. 1760, provided that
 
 “(a)
 
-Review.—Not later than 1 year after the date of enactment of this Act \[Aug. 10, 2005\], the Surface Transportation Board shall complete a review of the current Federal regulations regarding the level of liability protection provided by motor carriers that provide transportation of household goods and revise such regulations, if necessary, to provide enhanced protection in the case of loss or damage.
+Review.—Not later than 1 year after the date of enactment of this Act \[Aug. 10, 2005\], the SurfaceTransportation Board shall complete a review of the current Federal regulations regarding the level of liability protection provided by motor carriers that provide transportation of household goods and revise such regulations, if necessary, to provide enhanced protection in the case of loss or damage.
 
 “(b)
 

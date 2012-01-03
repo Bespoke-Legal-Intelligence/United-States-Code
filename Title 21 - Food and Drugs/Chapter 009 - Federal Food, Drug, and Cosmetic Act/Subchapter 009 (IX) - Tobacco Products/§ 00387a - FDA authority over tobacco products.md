@@ -22,7 +22,7 @@ This subchapter shall apply to all cigarettes, cigarette tobacco, roll-your-own 
 
 #### (B) Exception
 
-&emsp;&emsp;Notwithstanding subparagraph (A), if a producer of tobacco leaf is also a tobacco product manufacturer or controlled by a tobacco product manufacturer, the producer shall be subject to this subchapter in the producer's capacity as a manufacturer. Theexception in this subparagraph shall not apply to a producer of tobacco leaf who grows tobacco under a contract with a tobacco product manufacturer and who is not otherwise engaged in the manufacturing process.
+&emsp;&emsp;Notwithstanding subparagraph (A), if a producer of tobacco leaf is also a tobacco product manufacturer or controlled by a tobacco product manufacturer, the producer shall be subject to this subchapter in the producer's capacity as a manufacturer. The exception in this subparagraph shall not apply to a producer of tobacco leaf who grows tobacco under a contract with a tobacco product manufacturer and who is not otherwise engaged in the manufacturing process.
 
 #### (C) Rule of construction
 
@@ -48,7 +48,7 @@ Prior to promulgating rules under this subchapter, the Secretary shall endeavor 
 
 #### References in Text
 
-The Family Smoking Prevention and Tobacco Control Act, referred to in subsec. (c)(1), is div. A of Pub. L. 111–31, June 22, 2009, 123 Stat. 1776. Section 101(a) of title I of the Act amended section 321 of this title. Section 102 of title I of the Act enacted section 387a–1 of this title. Section 103 of title I of the Act amended sections 331, 333, 334, 355, 360m, 372 to 374, 375, 379a, 381, 393, 399, and 679 of this title and enacted provisions set out as notes under sections 331, 333, and 387c of this title. Title II of the Act amended sections 1333, 1334, 4402, and 4406 of Title 15, Commerce and Trade, and enacted provisions set out as notes under sections 1333 and 4402 of Title 15. Title III of the Act enacted section 387t of this title. For complete classification of this Act to the Code, see Short Title of 2009 Amendment note set out under section 301 of this title and Tables.
+The Family Smoking Prevention and Tobacco Control Act, referred to in subsec. (c)(1), is div. A of Pub. L. 111–31, June 22, 2009, 123 Stat. 1776. Section 101(a) oftitle I of the Act amended section 321 of this title. Section 102 of title I of the Act enacted section 387a–1 of this title. Section 103 of title I of the Act amended sections 331, 333, 334, 355, 360m, 372 to 374, 375, 379a, 381, 393, 399, and 679 of this title and enacted provisions set out as notes under sections 331, 333, and 387c of this title. Title II of the Act amended sections 1333, 1334, 4402, and 4406 of Title 15, Commerce and Trade, and enacted provisions set out as notes under sections 1333 and 4402 of Title 15. Title III of the Act enacted section 387t of this title. For complete classification of this Act to the Code, see Short Title of 2009 Amendment note set out under section 301 of this title and Tables.
 
 #### Prior Provisions
 

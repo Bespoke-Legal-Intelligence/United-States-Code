@@ -14,7 +14,7 @@ In this section:
 
 #### (2) Incumbent service provider
 
-&emsp;The term “incumbent service provider”, with respect to an application submittedunder this section, means an entity that, as of the date of submission of the application, is providing broadband service to not less than 5 percent of the households in the service territory proposed in the application.
+&emsp;The term “incumbent service provider”, with respect to an application submitted under this section, means an entity that, as of the date of submission of the application, is providing broadband service to not less than 5 percent of the households in the service territory proposed in the application.
 
 #### (3) Rural area
 
@@ -104,7 +104,7 @@ In this section:
 
 #### (5) Notice requirement
 
-&emsp;The Secretary shall publish a notice of each application for a loan or loan guarantee underthis section describing the application, including—
+&emsp;The Secretary shall publish a notice of each application for a loan or loan guarantee under this section describing the application, including—
 
 &emsp;&emsp;(A) the identity of the applicant;
 
@@ -176,7 +176,7 @@ Notwithstanding any other provision of this chapter, the proceeds of any loan ma
 
 #### (j) Reports
 
-Not later than 1 year after the date of enactment of the Food, Conservation, and Energy Act of 2008, and annually thereafter, the Administrator shall submit to Congress a report that describes the extent of participation in the loan and loan guarantee program under this section for the preceding fiscal year, including a description of—
+Not later than 1 year after the date of enactment of the Food, Conservation, and Energy Actof 2008, and annually thereafter, the Administrator shall submit to Congress a report that describes the extent of participation in the loan and loan guarantee program under this section for the preceding fiscal year, including a description of—
 
 &emsp;(1) the number of loans applied for and provided under this section;
 
@@ -190,7 +190,7 @@ Not later than 1 year after the date of enactment of the Food, Conservation, and
 
 &emsp;(5) the method by which the Secretary determines that a service enables a subscriber to originate and receive high-quality voice, data, graphics, and video for purposes of subsection (b)(1); and
 
-&emsp;(6) each broadband service, including the type and speed of broadband service, for whichassistance was sought, and each broadband service for which assistance was provided, under this section.
+&emsp;(6) each broadband service, including the type and speed of broadband service, for which assistance was sought, and each broadband service for which assistance was provided, under this section.
 
 #### (k) Funding
 
@@ -236,9 +236,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Pub. L. 110–246, §6110(a), amended section generally, substituting provisions authorizing loans and loan guarantees for the costs of construction, improvement, and acquisition of facilities and equipment for broadband service in rural areas and terminating such authority on Sept. 30, 2012, for provisions authorizing similar loans and loan guarantees and terminating such authority on Sept. 30, 2007.
+<b>2008</b>—Pub. L. 110–246, §6110(a), amended section generally, substituting provisions authorizing loans and loan guarantees for the costs of construction, improvement, and acquisition of facilities and equipment for broadband service in rural areas and terminating such authority on Sept. 30, 2012, for provisions authorizing similar loans and loan guarantees and terminating such authority on Sept. 30, 2007.
 
-2004—Subsec. (b)(2). Pub. L. 108–199 amended heading and text of subsec. (b)(2) generally. Prior to amendment, text read as follows: “The term ‘eligible rural community’ means any incorporated or unincorporated place that—
+<b>2004</b>—Subsec. (b)(2). Pub. L. 108–199 amended heading and text of subsec. (b)(2) generally. Prior to amendment, text read as follows: “The term ‘eligible rural community’ means any incorporated or unincorporated place that—
 
 &emsp;“(A) has not more than 20,000 inhabitants, based on the most recent available population statistics of the Bureau of the Census; and
 

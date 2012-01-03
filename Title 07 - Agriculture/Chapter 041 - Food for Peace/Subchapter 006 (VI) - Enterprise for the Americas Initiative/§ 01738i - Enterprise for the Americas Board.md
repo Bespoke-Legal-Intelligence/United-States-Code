@@ -34,13 +34,13 @@ The Board shall—
 
 #### Amendments
 
-1992—Pub. L. 102–549, §603(1), substituted “Enterprise” for “Environment” in section catchline.
+<b>1992</b>—Pub. L. 102–549, §603(1), substituted “Enterprise” for “Environment” in section catchline.
 
 Subsec. (a). Pub. L. 102–549, §603(2), substituted “Enterprise” for “Environment”.
 
 Subsec. (b)(1)(B). Pub. L. 102–549, §603(3), inserted “child survival and child development,” after “environmental,” and “, at least one of whom shall be a representative from a child survival and child development organization”.
 
-1991—Subsec. (b)(1)(A). Pub. L. 102–237, §339(1), substituted “six” for “five” and inserted “, at least one of whom shall be a representative of the Department of Agriculture” after “Government”.
+<b>1991</b>—Subsec. (b)(1)(A). Pub. L. 102–237, §339(1), substituted “six” for “five” and inserted “, at least one of whom shall be a representative of the Department of Agriculture” after “Government”.
 
 Subsec. (b)(1)(B). Pub. L. 102–237, §339(2), substituted “five” for “four”.
 

@@ -2,7 +2,7 @@
 
 #### (a) Gifts after December 31, 1920
 
-If the property was acquired by gift after December 31, 1920, the basis shall be the same as it would be in the hands of the donor or the last preceding owner by whom it was not acquired by gift, except that if such basis (adjusted for the period before the date of the gift as provided in section 1016) is greater than the fair market value of the property at the time of the gift, then for the purpose of determining loss the basis shall be such fair market value. If the facts necessary to determine the basis in the hands of the donor or the last preceding owner are unknown to the donee, the Secretary shall, if possible, obtain such facts from such donor or last preceding owner, or any other person cognizant thereof. If the Secretary finds it impossible to obtain such facts, the basis in the hands of such donor or last preceding owner shall be the fair market value of such property as found by the Secretary as of the date or approximate date at which, according to the best information that the Secretary is able to obtain, such property was acquired by such donor or last preceding owner.
+If the property was acquired by gift after December 31, 1920, the basis shall be the same as itwould be in the hands of the donor or the last preceding owner by whom it was not acquired by gift, except that if such basis (adjusted for the period before the date of the gift as provided in section 1016) is greater than the fair market value of the property at the time of the gift, then for the purpose of determining loss the basis shall be such fair market value. If the facts necessary to determine the basis in the hands of the donor or the last preceding owner are unknown to the donee, the Secretary shall, if possible, obtain such facts from such donor or last preceding owner, or any other person cognizant thereof. If the Secretary finds it impossible to obtain such facts, the basis in the hands of such donor or last preceding owner shall be the fair market value of such property as found by the Secretary as of the date or approximate date at which, according to the best information that the Secretary is able to obtain, such property was acquired by such donor or last preceding owner.
 
 #### (b) Transfer in trust after December 31, 1920
 
@@ -20,7 +20,7 @@ If the property was acquired by gift or transfer in trust on or before December 
 
 &emsp;&emsp;(A) the property is acquired by gift on or after September 2, 1958, the basis shall be the basis determined under subsection (a), increased (but not above the fair market value of the property at the time of the gift) by the amount of gift tax paid with respect to such gift, or
 
-&emsp;&emsp;(B) the property was acquired by gift before September 2, 1958, and has not been sold,exchanged, or otherwise disposed of before such date, the basis of the property shall be increased on such date by the amount of gift tax paid with respect to such gift, but such increase shall not exceed an amount equal to the amount by which the fair market value of the property at the time of the gift exceeded the basis of the property in the hands of the donor at the time of the gift.
+&emsp;&emsp;(B) the property was acquired by gift before September 2, 1958, and has not been sold, exchanged, or otherwise disposed of before such date, the basis of the property shall be increased on such date by the amount of gift tax paid with respect to such gift, but such increase shall not exceed an amount equal to the amount by which the fair market value of the property at the time of the gift exceeded the basis of the property in the hands of the donor at the time of the gift.
 
 #### (2) Amount of tax paid with respect to gift
 
@@ -56,7 +56,7 @@ If the property was acquired by gift or transfer in trust on or before December 
 
 In the case of any property acquired by gift in a transfer described in section 1041(a), the basis of such property in the hands of the transferee shall be determined under section 1041(b)(2) and not this section.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 298; Pub. L. 85–866, title I, §43(a), Sept. 2, 1958, 72 Stat. 1640; Pub. L. 91–614, title I, §102(d)(1), Dec. 31, 1970, 84 Stat. 1841; Pub. L. 94–455, title XIX, §§1901(a)(122), 1906(b) (13)(A), title XX, §2005(c), Oct. 4, 1976, 90 Stat. 1784, 1834, 1877; Pub. L. 97–34, title IV, §442(d)(1), Aug. 13, 1981, 95 Stat. 322; Pub. L. 98–369, div. A, title IV, §421(b)(5), July 18, 1984, 98 Stat. 794.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 298; Pub. L. 85–866, title I, §43(a), Sept. 2, 1958, 72 Stat. 1640; Pub. L. 91–614, title I, §102(d)(1), Dec. 31, 1970, 84 Stat. 1841; Pub. L. 94–455, title XIX, §§1901(a)(122), 1906(b) (13)(A), title XX, §2005(c), Oct. 4, 1976, 90 Stat. 1784, 1834, 1877; Pub. L. 97–34,title IV, §442(d)(1), Aug. 13, 1981, 95 Stat. 322; Pub. L. 98–369, div. A, title IV, §421(b)(5), July 18, 1984, 98 Stat. 794.)
 
 #### References in Text
 
@@ -94,7 +94,7 @@ Amendment by section 1901(a)(122) of Pub. L. 94–455 applicable with respect to
 
 Section 2005(f) of Pub. L. 94–455, as amended by Pub. L. 95–600, title V, §515(6), Nov. 6, 1978, 92 Stat. 2884, provided that:
 
-“(1) Except as provided in paragraph (2), the amendments made by this section \[enacting sections 1023,1040, 6039A, and 6694 of this title, amending sections 691, 1016, and 1246 of this title, and renumbering former section 1023 as 1024\] shall apply in respect of decedents dying after December 31, 1979.
+“(1) Except as provided in paragraph (2), the amendments made by this section \[enacting sections 1023, 1040, 6039A, and 6694 of this title, amending sections 691, 1016, and 1246 of this title, and renumbering former section 1023 as 1024\] shall apply in respect of decedents dying after December 31, 1979.
 
 “(2) The amendment made by subsection (c) \[amending this section\] shall apply to gifts made after December 31, 1976.”
 

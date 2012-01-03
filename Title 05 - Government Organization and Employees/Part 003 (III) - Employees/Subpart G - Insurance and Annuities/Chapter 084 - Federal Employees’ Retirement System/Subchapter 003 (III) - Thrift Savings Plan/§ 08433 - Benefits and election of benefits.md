@@ -42,7 +42,7 @@
 
 (2) Unless otherwise elected under this section, and subject to paragraph (1), benefits under this subchapter shall be paid as an annuity commencing for an employee, Member, former employee, or former Member on April 1 of the year following the latest of the year in which—
 
-&emsp;(A) the employee, Member, former employee, or former Member becomes 701/2 years of age; or
+&emsp;(A) the employee, Member, former employee, or former Member becomes 70½ years of age; or
 
 &emsp;(B) the employee, Member, former employee, or former Member separates from Government employment.
 
@@ -56,7 +56,7 @@
 
 (h)(1) An employee or Member may apply, before separation, to the Board for permission to withdraw an amount from the employee's or Member's account based upon—
 
-&emsp;(A) the employee or Member having attained age 591/2; or
+&emsp;(A) the employee or Member having attained age 59½; or
 
 &emsp;(B) financial hardship.
 
@@ -76,19 +76,19 @@ Sections 72(p) and 402(c)(8) of the Internal Revenue Code of 1986, referred to i
 
 #### Amendments
 
-2009—Subsec. (e). Pub. L. 111–31 designated existing provisions as par. (1) and added pars. (2) and (3).
+<b>2009</b>—Subsec. (e). Pub. L. 111–31 designated existing provisions as par. (1) and added pars. (2) and (3).
 
-2004—Subsec. (d)(1). Pub. L. 108–469 substituted “paragraph (2)” for “paragraph (3)”.
+<b>2004</b>—Subsec. (d)(1). Pub. L. 108–469 substituted “paragraph (2)” for “paragraph (3)”.
 
-1999—Subsecs. (g)(1), (h)(3). Pub. L. 106–65 struck out “under section 8432(a) of this title” after “by the employee or Member”.
+<b>1999</b>—Subsecs. (g)(1), (h)(3). Pub. L. 106–65 struck out “under section 8432(a) of this title” after “by the employee or Member”.
 
-1996—Subsec. (b). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §203(a)(1)\]\], added subsec. (b) and struck out former subsec. (b) which read as follows: “Subject to section 8435 of this title, any employee or Member who separates from Government employment is entitled and may elect—
+<b>1996</b>—Subsec. (b). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §203(a)(1)\]\], added subsec. (b) and struck out former subsec. (b) which read as follows: “Subject to section 8435 of this title, any employee or Member who separates from Government employment is entitled and may elect—
 
 &emsp;“(1) to receive an immediate annuity from the Thrift Savings Fund;
 
-&emsp;“(2) to defer the commencement of the payment of an annuity from the Thrift Savings Fund until such date as the employee or Member specifies, but not later than April 1 of the year following the year in which the employee or Member becomes 701/2 years of age;
+&emsp;“(2) to defer the commencement of the payment of an annuity from the Thrift Savings Fund until such date as the employee or Member specifies, but not later than April 1 of the year following the year in which the employee or Member becomes 70½ years of age;
 
-&emsp;“(3) to withdraw the amount of the balance in the employee's or Member's account in the Thrift Savings Fund in one or more substantially equal payments to be made not less frequently than annually and to commence before April 1 of the year following the year in which the employee or Member becomes 701/2 years of age; or
+&emsp;“(3) to withdraw the amount of the balance in the employee's or Member's account in the Thrift Savings Fund in one or more substantially equal payments to be made not less frequently than annually and to commence before April 1 of the year following the year in which the employee or Member becomes 70½ years of age; or
 
 &emsp;“(4) to transfer the amount of the balance in the employee's or Member's account to an eligible retirement plan as provided in subsection (c).”
 
@@ -108,7 +108,7 @@ Subsec. (d)(3). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §203(
 
 Subsec. (f)(1). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §203(a)(3)\]\], substituted “less than an amount that the Executive Director prescribes by regulation” for “$3,500 or less” and substituted a comma for “unless the employee or Member elects, at such time and otherwise in such manner as the Executive Director prescribes, one of the options available under subsection (b), or”.
 
-Subsec. (f)(2). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §203(a)(4)\]\], in introductory provisions substituted “April 1” for “February 1”, in subpar. (A) substituted “701/2” for “65” and inserted “or” after semicolon, redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: “occurs the tenth anniversary of the year in which the employee, Member, former employee, or former Member became subject to this subchapter; or”.
+Subsec. (f)(2). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §203(a)(4)\]\], in introductory provisions substituted “April 1” for “February 1”, in subpar. (A) substituted “70½” for “65” and inserted “or” after semicolon, redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: “occurs the tenth anniversary of the year in which the employee, Member, former employee, or former Member became subject to this subchapter; or”.
 
 Subsec. (g)(1). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §203(a)(5)(A)\]\], struck out “after December 31, 1987, and” after “At any time”, and inserted at end “Before a loan is issued, the Executive Director shall provide in writing the employee or Member with appropriate information concerning the cost of the loan relative to other sources of financing, as well as the lifetime cost of the loan, including the difference in interest rates between the funds offered by the Thrift Savings Fund, and any other effect of such loan on the employee's or Member's final account balance.”
 
@@ -124,7 +124,7 @@ Subsec. (g)(2) to (5). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II,
 
 Subsec. (h). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §203(a)(6)\]\], added subsec. (h).
 
-1994—Subsec. (b). Pub. L. 103–226, §9(b)(1), amended introductory provisions generally, substituting “Subject to section 8435 of this title, any employee or Member who separates from Government employment is entitled and may elect—” for “Subject to section 8435 of this title, any employee or Member who separates from Government employment entitled to an immediate annuity under subchapter II of this chapter, any employee or Member who separates from Government employment entitled to benefits under subchapter I of chapter 81 of this title, any employee who separates from Government employment pursuant to regulations under section 3502(a) of this title or procedures under section 3595(a) of this title in a reduction in force, and any employee or Member who is entitled to receive disability benefits under subchapter V of this chapter is entitled and may elect—”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–226, §9(b)(1), amended introductory provisions generally, substituting “Subject to section 8435 of this title, any employee or Member who separates from Government employment is entitled and may elect—” for “Subject to section 8435 of this title, any employee or Member who separates from Government employment entitled to an immediate annuity under subchapter II of this chapter, any employee or Member who separates from Government employment entitled to benefits under subchapter I of chapter 81 of this title, any employee who separates from Government employment pursuant to regulations under section 3502(a) of this title or procedures under section 3595(a) of this title in a reduction in force, and any employee or Member who is entitled to receive disability benefits under subchapter V of this chapter is entitled and may elect—”.
 
 Subsec. (b)(4). Pub. L. 103–226, §9(i)(3), substituted “subsection (c)” for “subsection (e)”.
 
@@ -162,9 +162,9 @@ Subsec. (i). Pub. L. 103–226, §9(b)(2), redesignated subsec. (i) as (g).
 
 Subsec. (i)(4). Pub. L. 103–353, §5(e)(4), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-1992—Subsec. (b). Pub. L. 102–484 inserted “any employee who separates from Government employment pursuant to regulations under section 3502(a) of this title or procedures under section 3595(a) of this title in a reduction in force,” after “chapter 81 of this title,”.
+<b>1992</b>—Subsec. (b). Pub. L. 102–484 inserted “any employee who separates from Government employment pursuant to regulations under section 3502(a) of this title or procedures under section 3595(a) of this title in a reduction in force,” after “chapter 81 of this title,”.
 
-1990—Subsec. (f)(3)(A). Pub. L. 101–335, §5(a)(1), substituted “an annuity contract is purchased to provide for the annuity elected by the former employee or Member” for “an annuity elected by the former employee or Member commences”.
+<b>1990</b>—Subsec. (f)(3)(A). Pub. L. 101–335, §5(a)(1), substituted “an annuity contract is purchased to provide for the annuity elected by the former employee or Member” for “an annuity elected by the former employee or Member commences”.
 
 Subsec. (f)(3)(B). Pub. L. 101–335, §5(a)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “A modification of a date may not be made under paragraph (2) on or after such date and may not specify a date for the commencement of an annuity earlier than 1 month after the date on which the modification is submitted to the Executive Director.”
 
@@ -176,7 +176,7 @@ Subsec. (h). Pub. L. 101–335, §6(a)(2), amended subsec. (h) generally. Prior 
 
 &emsp;“(3) the employee, Member, former employee, or former Member separates from Government employment.”
 
-1988—Subsec. (i)(3). Pub. L. 100–238 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Loans under this subsection shall be subject to such conditions as the Board may prescribe consistent with section 408(b)(1) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1108(b)(1)). The conditions shall be included in regulations issued by the Executive Director.”
+<b>1988</b>—Subsec. (i)(3). Pub. L. 100–238 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Loans under this subsection shall be subject to such conditions as the Board may prescribe consistent with section 408(b)(1) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1108(b)(1)). The conditions shall be included in regulations issued by the Executive Director.”
 
 #### Effective Date of 1999 Amendment
 

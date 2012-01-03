@@ -22,5 +22,5 @@ Under a conservation security contract, a producer shall agree, during the term 
 
 #### Prior Provisions
 
-A prior section 3838b, Pub. L. 99–198, title XII, §1238B, as added Pub. L. 101–624, title XIV, §1439, Nov. 28, 1990, 104 Stat. 3590, directed Secretary to formulate and carry out agricultural water quality protection program, prior to repeal by Pub. L. 104–127, title III, §336(h), Apr. 4, 1996, 110 Stat. 1007.
+A prior section 3838b, Pub. L. 99–198, title XII, §1238B, as added Pub. L. 101–624, title XIV, §1439, Nov. 28, 1990,104 Stat. 3590, directed Secretary to formulate and carry out agricultural water quality protection program, prior to repeal by Pub. L. 104–127, title III, §336(h), Apr. 4, 1996, 110 Stat. 1007.
 

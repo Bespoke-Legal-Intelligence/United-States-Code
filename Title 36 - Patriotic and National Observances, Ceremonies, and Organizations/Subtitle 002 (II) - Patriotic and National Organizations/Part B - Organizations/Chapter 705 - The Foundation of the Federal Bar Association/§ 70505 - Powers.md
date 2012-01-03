@@ -44,7 +44,7 @@ Aug. 24, 1954, ch. 911, §§4, 18, 68 Stat. 797, 800.
 
 In this section, the definition of “State” in 36:588 is omitted because the word “State” (which in the source provisions for this chapter only appears in 36:574) is not used in the revised chapter.
 
-In clause (1), the words “apply, and administer” and “not inconsistent with the laws of the United States of America or any State in which the corporation is to operate” are omitted as unnecessary.
+In clause (1), the words “apply, and administer” and “not inconsistent with the laws of the United States ofAmerica or any State in which the corporation is to operate” are omitted as unnecessary.
 
 In clause (2), the word “use” is omitted as unnecessary.
 

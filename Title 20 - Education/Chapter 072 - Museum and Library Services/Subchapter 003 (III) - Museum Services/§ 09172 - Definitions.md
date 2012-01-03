@@ -4,7 +4,7 @@ As used in this subchapter:
 
 #### (1) Museum
 
-&emsp;The term “museum” means a public or private nonprofit agency or institution organizedon a permanent basis for essentially educational or aesthetic purposes, that utilizes a professional staff, owns or utilizes tangible objects, cares for the tangible objects, and exhibits the tangible objects to the public on a regular basis. Such term includes museums that have tangible and digital collections and includes aquariums, arboretums, botanical gardens, art museums, children's museums, general museums, historic houses and sites, history museums, nature centers, natural history and anthropology museums, planetariums, science and technology centers, specialized museums, and zoological parks.
+&emsp;The term “museum” means a public or private nonprofit agency or institution organized on a permanent basis for essentially educational or aesthetic purposes, that utilizes a professional staff, owns or utilizes tangible objects, cares for the tangible objects, and exhibits the tangible objects to the public on a regular basis. Such term includes museums that have tangible and digital collections and includes aquariums, arboretums, botanical gardens, art museums, children's museums, general museums, historic houses and sites, history museums, nature centers, natural history and anthropology museums, planetariums, science and technology centers, specialized museums, and zoological parks.
 
 #### (2) State
 

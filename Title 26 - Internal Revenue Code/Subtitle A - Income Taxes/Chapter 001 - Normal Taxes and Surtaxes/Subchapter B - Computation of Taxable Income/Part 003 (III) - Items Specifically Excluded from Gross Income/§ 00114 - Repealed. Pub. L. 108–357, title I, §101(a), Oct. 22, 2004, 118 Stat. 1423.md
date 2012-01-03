@@ -38,7 +38,7 @@ Revocation of Election To Be Treated as Domestic Corporation.—If, during the 1
 
 &emsp;“(2) was acquired during a taxable year to which such election applies and before May 1, 2003, in the ordinary course of its trade or business.
 
-> The Secretary of the Treasury (or such Secretary's delegate) may prescribe such regulations as may be necessary to prevent the abuse of the purposes of this subsection.
+> The Secretary of the Treasury (or such Secretary's delegate) may prescribe such regulations as may benecessary to prevent the abuse of the purposes of this subsection.
 
 “\[(f) Repealed. Pub. L. 109–222, title V, §513(b), May 17, 2006, 120 Stat. 366.\]”
 

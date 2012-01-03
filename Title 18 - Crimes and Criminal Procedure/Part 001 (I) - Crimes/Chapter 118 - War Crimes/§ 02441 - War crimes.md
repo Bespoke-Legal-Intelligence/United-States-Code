@@ -36,7 +36,7 @@ Torture.—The act of a person who commits, or conspires or attempts to commit, 
 
 &emsp;&emsp;(B)
 
-Cruel or inhuman treatment.—The act of a person who commits, or conspires orattempts to commit, an act intended to inflict severe or serious physical or mental pain or suffering (other than pain or suffering incidental to lawful sanctions), including serious physical abuse, upon another within his custody or control.
+Cruel or inhuman treatment.—The act of a person who commits, or conspires or attempts to commit, an act intended to inflict severe or serious physical or mental pain or suffering (other than pain or suffering incidental to lawful sanctions), including serious physical abuse, upon another within his custody or control.
 
 &emsp;&emsp;(C)
 

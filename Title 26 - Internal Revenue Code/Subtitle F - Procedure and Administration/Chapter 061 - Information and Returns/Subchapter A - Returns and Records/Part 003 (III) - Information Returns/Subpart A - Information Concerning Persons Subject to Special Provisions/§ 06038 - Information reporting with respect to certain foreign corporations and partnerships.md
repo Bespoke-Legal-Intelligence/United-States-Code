@@ -28,11 +28,11 @@
 
 &emsp;&emsp;(ii) information comparable to the information described in clause (i) in the case of a foreign partnership.
 
-> &emsp;The Secretary may also require the furnishing of any other information which is similar or related in nature to that specified in the preceding sentence or which the Secretary determines to be appropriate to carry out the provisions of this title.
+> &emsp;The Secretary may also require the furnishing of any other information which is similar orrelated in nature to that specified in the preceding sentence or which the Secretary determines to be appropriate to carry out the provisions of this title.
 
 #### (2) Period for which information is to be furnished, etc.
 
-&emsp;The information required under paragraph (1) shall be furnished for the annual accounting period of the foreign business entity ending with or within the United States person'staxable year. The information so required shall be furnished at such time and in such manner as the Secretary shall prescribe.
+&emsp;The information required under paragraph (1) shall be furnished for the annual accounting period of the foreign business entity ending with or within the United States person's taxable year. The information so required shall be furnished at such time and in such manner as the Secretary shall prescribe.
 
 #### (3) Limitation
 
@@ -216,7 +216,7 @@ Subsec. (a)(3). Pub. L. 87–834 struck out provisions which related to foreign 
 
 Subsec. (b). Pub. L. 87–834, among other changes, substituted “If a United States person fails to furnish” for “If a domestic corporation fails to furnish” in the opening provisions, inserted provisions relating to reduction of taxes in applying sections 901 and 960 of this title, to the maximum amount of reduction under par. (1) for each failure to furnish information with respect to a foreign corporation required under subsec. (a)(1), and making the reduction provided by subsec. (b) inapplicable, in applying subsecs. (a) and (b) of section 902 and subsec. (a) of section 960, for purposes of determining the amount of accumulated profits in excess of income, war profits, and excess profits taxes, and eliminated provisions which related to the furnishing of information with respect to foreign subsidiaries.
 
-Subsec. (c). Pub. L. 87–834 substituted provisions empowering the Secretary to provide for the furnishing of information by only one person where two or more persons would be required to furnish information under subsec. (a) with respect to the same foreign corporation for the same period for provisions which required a domestic corporation if at any time during its taxable year owned more than 50 percent of the voting stock of a foreign corporation to be deemed to be in control of such foreign corporation, and in the case of a foreign corporation if at any time during its annual accounting period owned more than 50 percent of the voting stock of another foreign corporation, that such other corporation shall be considered a foreign subsidiary of the corporation owning such stock. The provisions relating to control are now contained in subsec. (d) of this section.
+Subsec. (c). Pub. L. 87–834 substituted provisions empowering the Secretary to provide for the furnishing of information by only one person where two or more persons would be required to furnish information under subsec. (a) with respect to the same foreign corporation for the same period for provisions which required a domestic corporation if at any time during its taxable year owned more than 50 percent of the voting stock of a foreign corporation to be deemed to be in control of such foreign corporation, and in the case of a foreign corporation if at any time during its annual accounting period owned more than 50 percent of the voting stock of another foreign corporation, that such other corporation shall be considered a foreign subsidiary of the corporation owning such stock. The provisions relatingto control are now contained in subsec. (d) of this section.
 
 Subsec. (d). Pub. L. 87–834 added par. (1) which was formerly covered in part by subsec. (c) of this section, designated existing provisions as par. (2), and eliminated from par. (2) provisions which related to the annual accounting period of a foreign subsidiary.
 

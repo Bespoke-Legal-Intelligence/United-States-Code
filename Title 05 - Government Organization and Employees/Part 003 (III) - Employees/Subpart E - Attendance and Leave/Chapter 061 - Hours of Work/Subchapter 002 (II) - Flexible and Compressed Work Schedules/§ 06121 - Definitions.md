@@ -30,9 +30,9 @@ For purposes of this subchapter—
 
 #### Amendments
 
-2009—Par. (1). Pub. L. 111–68 substituted “the Library of Congress, the Architect of the Capitol, and the Botanic Garden” for “and the Library of Congress”.
+<b>2009</b>—Par. (1). Pub. L. 111–68 substituted “the Library of Congress, the Architect of the Capitol, and the Botanic Garden” for “and the Library of Congress”.
 
-1996—Par. (2). Pub. L. 104–106 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “ ‘employee’ has the meaning given it by section 2105 of this title;”.
+<b>1996</b>—Par. (2). Pub. L. 104–106 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “ ‘employee’ has the meaning given it by section 2105 of this title;”.
 
-1989—Par. (1). Pub. L. 101–163 inserted “the Government Printing Office,” after “military department,”.
+<b>1989</b>—Par. (1). Pub. L. 101–163 inserted “the Government Printing Office,” after “military department,”.
 

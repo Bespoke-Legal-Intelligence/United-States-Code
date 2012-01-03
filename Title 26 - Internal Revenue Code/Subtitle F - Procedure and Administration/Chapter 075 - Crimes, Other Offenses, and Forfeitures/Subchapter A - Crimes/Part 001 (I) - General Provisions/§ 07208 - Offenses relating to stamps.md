@@ -4,11 +4,11 @@ Any person who—
 
 #### (1) Counterfeiting
 
-&emsp;With intent to defraud, alters, forges, makes, or counterfeits any stamp, coupon,ticket, book, or other device prescribed under authority of this title for the collection or payment of any tax imposed by this title, or sells, lends, or has in his possession any such altered, forged, or counterfeited stamp, coupon, ticket, book, or other device, or makes, uses, sells, or has in his possession any material in imitation of the material used in the manufacture of such stamp, coupon, ticket, book, or other device; or
+&emsp;With intent to defraud, alters, forges, makes, or counterfeits any stamp, coupon, ticket, book, or other device prescribed under authority of this title for the collection or payment of any tax imposed by this title, or sells, lends, or has in his possession any such altered, forged, or counterfeited stamp, coupon, ticket, book, or other device, or makes, uses, sells, or has in his possession any material in imitation of the material used in the manufacture of such stamp, coupon, ticket, book, or other device; or
 
 #### (2) Mutilation or removal
 
-&emsp;Fraudulently cuts, tears, or removes from any vellum, parchment, paper, instrument, writing, package, or article, upon which any tax is imposed by this title, any adhesive stamp or the impression of any stamp, die, plate, or other article provided, made, or used in pursuance of this title; or
+&emsp;Fraudulently cuts, tears, or removes from any vellum, parchment, paper, instrument, writing, package, or article, upon which any tax is imposed by this title, any adhesive stamp or the impression of any stamp, die,plate, or other article provided, made, or used in pursuance of this title; or
 
 #### (3) Use of mutilated, insufficient, or counterfeited stamps
 

@@ -34,7 +34,7 @@
 
 #### (c) Ombudsman program
 
-The Assistant Secretary shall provide technical assistance and training (by contract, grant, or otherwise) to State long-term care ombudsman programs established under section 3027(a)(9) of this title in accordance with section 3058g of this title, and to individuals within such programs designated under section 3058g of thistitle to be representatives of a long-term care ombudsman, in order to enable such ombudsmen and such representatives to carry out the ombudsman program effectively.
+The Assistant Secretary shall provide technical assistance and training (by contract, grant, or otherwise) to State long-term care ombudsman programs established under section 3027(a)(9) of this title in accordance with section 3058g of this title, and to individuals within such programs designated under section 3058g of this title to be representatives of a long-term care ombudsman, in order to enable such ombudsmen and such representatives to carry out the ombudsman program effectively.
 
 #### (d) Use of funds
 

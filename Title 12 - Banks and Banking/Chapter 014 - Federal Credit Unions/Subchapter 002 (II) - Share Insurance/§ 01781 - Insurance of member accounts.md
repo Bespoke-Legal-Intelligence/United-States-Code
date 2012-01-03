@@ -66,7 +66,7 @@ Upon the approval of any application for insurance, the Board shall notify the a
 
 &emsp;No provision of this subsection shall be construed as prohibiting any employee of a Government-sponsored enterprise from becoming a member of a credit union whose field of membership is the employees of such enterprise.
 
-(June 26, 1934, ch. 750, title II, §201, as added Pub. L. 91–468, §1(3), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 92–221, §§1, 2, Dec. 23, 1971, 85 Stat. 796, 797; Pub. L. 95–22, title III, §301, Apr. 19, 1977, 91 Stat. 49; Pub. L. 95–630, title V, §§502(b), 504, Nov. 10, 1978, 92 Stat. 3681, 3682; Pub. L. 98–369, div. B, title VIII, §2801, July 18,1984, 98 Stat. 1203; Pub. L. 104–208, div. A, title II, §2615(a), Sept. 30, 1996, 110 Stat. 3009–478; Pub. L. 109–351, title VII, §726(11), Oct. 13, 2006, 120 Stat. 2002.)
+(June 26, 1934, ch. 750, title II, §201, as added Pub. L. 91–468, §1(3), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 92–221, §§1, 2, Dec. 23, 1971, 85 Stat. 796, 797; Pub. L. 95–22, title III, §301, Apr. 19, 1977, 91 Stat. 49; Pub. L. 95–630, title V, §§502(b), 504, Nov. 10, 1978, 92 Stat. 3681, 3682; Pub. L. 98–369, div. B, title VIII, §2801, July 18, 1984, 98 Stat. 1203; Pub. L. 104–208, div. A, title II, §2615(a), Sept. 30, 1996, 110 Stat. 3009–478; Pub. L. 109–351, title VII, §726(11), Oct. 13, 2006, 120 Stat. 2002.)
 
 #### References in Text
 
@@ -76,13 +76,13 @@ Section 1404(e)(1)(A) of the Financial Institutions Reform, Recovery, and Enforc
 
 #### Amendments
 
-2006—Subsec. (b)(5). Pub. L. 109–351 substituted “this chapter” for “section 1762 of this title”.
+<b>2006</b>—Subsec. (b)(5). Pub. L. 109–351 substituted “this chapter” for “section 1762 of this title”.
 
-1996—Subsec. (e). Pub. L. 104–208 added subsec. (e).
+<b>1996</b>—Subsec. (e). Pub. L. 104–208 added subsec. (e).
 
-1984—Subsec. (b)(8). Pub. L. 98–369 inserted provisions relating to payment and maintenance of the deposit.
+<b>1984</b>—Subsec. (b)(8). Pub. L. 98–369 inserted provisions relating to payment and maintenance of the deposit.
 
-1978—Subsec. (a). Pub. L. 95–630, §§502(b), 504(a), substituted “Board” for “Administrator” and “it” for “he”, and inserted “, including the trust territories,” after “the several territories”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–630, §§502(b), 504(a), substituted “Board” for “Administrator” and “it” for “he”, and inserted “, including the trust territories,” after “the several territories”.
 
 Subsec. (b). Pub. L. 95–630, §§502(b), 504(b), substituted “Board” for “Administrator” wherever appearing and inserted in par. (7) “except for accounts authorized by State law for State credit unions” after “by the Board”.
 
@@ -90,9 +90,9 @@ Subsec. (c). Pub. L. 95–630, §502(b), substituted “Board” for “Administ
 
 Subsecs. (d), (e). Pub. L. 95–630, §§502(b), 504(c), struck out subsec. (d), redesignated subsec. (e) as (d) and substituted “Board” for “Administrator”.
 
-1977—Subsec. (c)(3) Pub. L. 95–22 struck out par. (3) which provided for approval by Administrator of applications of State credit unions for insurance of its member accounts where credit union meets requirements of this chapter and where in the event of liquidation of the credit union, the claims with respect to demand deposit accounts shall be subordinate to the claims with respect to member accounts.
+<b>1977</b>—Subsec. (c)(3) Pub. L. 95–22 struck out par. (3) which provided for approval by Administrator of applications of State credit unions for insurance of its member accounts where credit union meets requirements of this chapter and where in the event of liquidation of the credit union, the claims with respect to demand deposit accounts shall be subordinate to the claims with respect to member accounts.
 
-1971—Subsec. (c)(2). Pub. L. 92–221, §1(a), substituted “disapproved” for “reject”.
+<b>1971</b>—Subsec. (c)(2). Pub. L. 92–221, §1(a), substituted “disapproved” for “reject”.
 
 Subsec. (c)(3). Pub. L. 92–221, §2, added par. (3).
 

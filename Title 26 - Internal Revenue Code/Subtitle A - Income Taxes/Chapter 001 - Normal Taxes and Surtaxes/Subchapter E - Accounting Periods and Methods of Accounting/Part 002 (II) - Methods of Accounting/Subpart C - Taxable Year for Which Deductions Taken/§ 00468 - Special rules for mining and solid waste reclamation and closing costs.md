@@ -44,7 +44,7 @@
 
 #### (A) Reclamation reserves
 
-&emsp;&emsp;In the case of any reserve for qualified reclamation costs, there shall be included ingross income for any taxable year an amount equal to the excess of—
+&emsp;&emsp;In the case of any reserve for qualified reclamation costs, there shall be included in gross income for any taxable year an amount equal to the excess of—
 
 &emsp;&emsp;&emsp;(i) the closing balance of the reserve for such taxable year, over
 
@@ -146,7 +146,7 @@ For purposes of this section—
 
 #### (ii) Exception for certain hazardous waste sites
 
-&emsp;&emsp;&emsp;Clause (i) shall not apply to that portion of any property which is disturbed afterthe property is listed in the national contingency plan established under section 105 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980.
+&emsp;&emsp;&emsp;Clause (i) shall not apply to that portion of any property which is disturbed after the property is listed in the national contingency plan established under section 105 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980.
 
 #### (3) Property
 
@@ -186,7 +186,7 @@ Section effective July 18, 1984, with respect to taxable years ending after such
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certaintransactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

@@ -36,9 +36,9 @@ Former section 141 of this title purportedly derived from part of section 2 of a
 
 #### Amendments
 
-1959—Pub. L. 86–3 required readjustment of districts when the State of Hawaii is admitted to the Union.
+<b>1959</b>—Pub. L. 86–3 required readjustment of districts when the State of Hawaii is admitted to the Union.
 
-1958—Pub. L. 85–508 required readjustment of districts when the State of Alaska is admitted to the Union, and inserted provisions requiring national banks to become members of the Federal Reserve System upon commencing business or within 90 Days after admission into the Union of the State in which they are located.
+<b>1958</b>—Pub. L. 85–508 required readjustment of districts when the State of Alaska is admitted to the Union, and inserted provisions requiring national banks to become members of the Federal Reserve System upon commencing business or within 90 Days after admission into the Union of the State in which they are located.
 
 #### Change of Name
 

@@ -72,7 +72,7 @@
 
 &emsp;(5) the degree to which the recruitment or retention problems referred to in paragraph (2) were alleviated under this section.
 
-(Added Pub. L. 95–603, §2(a), Nov. 6, 1978, 92 Stat. 3018; amended Pub. L. 96–166, §2, Dec. 29, 1979, 93 Stat. 1273; Pub. L. 97–141, §2, Dec. 29, 1981, 95 Stat. 1719; Pub. L. 98–168, title I, §102(a), Nov. 29, 1983, 97 Stat. 1105; Pub. L. 98–615, title II, §204(a)(3), Nov. 8, 1984, 98 Stat. 3216; Pub. L. 100–140, §1, Oct. 26, 1987, 101 Stat. 830; Pub. L. 101–420, §1(a), formerly §1, Oct. 12, 1990, 104 Stat. 908, renumbered §1(a), Pub. L. 103–114, §1(b)(2)(A), Oct. 26, 1993, 107 Stat. 1115; Pub. L. 102–378, §2(51), Oct. 2, 1992, 106 Stat. 1353; Pub. L. 103–89, §3(b)(1)(M), Sept. 30, 1993, 107 Stat. 982; Pub. L. 103–114, §§1(a)(1), 2(a), Oct. 26, 1993, 107Stat. 1115, 1116; Pub. L. 105–61, title V, §517(a), Oct. 10, 1997, 111 Stat. 1307; Pub. L. 105–266, §7(a), Oct. 19, 1998, 112 Stat. 2369; Pub. L. 106–554, §1(a)(1) \[title II, §218(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–28; Pub. L. 106–571, §§2(a)(1), (b), 3(d), Dec. 28, 2000, 114 Stat. 3054, 3057.)
+(Added Pub. L. 95–603, §2(a), Nov. 6, 1978, 92 Stat. 3018; amended Pub. L. 96–166, §2, Dec. 29, 1979, 93 Stat. 1273; Pub. L. 97–141, §2, Dec. 29, 1981, 95 Stat. 1719; Pub. L. 98–168, title I, §102(a), Nov. 29, 1983, 97 Stat. 1105; Pub. L. 98–615, title II, §204(a)(3), Nov. 8, 1984, 98 Stat. 3216; Pub. L. 100–140, §1, Oct. 26, 1987, 101 Stat. 830; Pub. L. 101–420, §1(a), formerly §1, Oct. 12, 1990, 104 Stat. 908, renumbered §1(a), Pub. L. 103–114, §1(b)(2)(A), Oct. 26, 1993, 107 Stat. 1115; Pub. L. 102–378, §2(51), Oct. 2, 1992, 106 Stat. 1353; Pub. L. 103–89, §3(b)(1)(M), Sept. 30, 1993, 107 Stat. 982; Pub. L. 103–114, §§1(a)(1), 2(a), Oct. 26, 1993, 107 Stat. 1115, 1116; Pub. L. 105–61, title V, §517(a), Oct. 10, 1997, 111 Stat. 1307; Pub. L. 105–266, §7(a), Oct. 19, 1998, 112 Stat. 2369; Pub. L. 106–554, §1(a)(1) \[title II, §218(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–28; Pub. L. 106–571, §§2(a)(1), (b), 3(d), Dec. 28, 2000, 114 Stat. 3054, 3057.)
 
 #### References in Text
 
@@ -88,7 +88,7 @@ Section 2 of the Act of May 29, 1959 (Public Law 86–36, as amended, 50 U.S.C. 
 
 #### Amendments
 
-2000—Subsec. (d). Pub. L. 106–571, §2(a)(1), struck out second sentence which read as follows: “No agreement shall be entered into under this section later than September 30, 2005, nor shall any agreement cover a period of service extending beyond September 30, 2007.”
+<b>2000</b>—Subsec. (d). Pub. L. 106–571, §2(a)(1), struck out second sentence which read as follows: “No agreement shall be entered into under this section later than September 30, 2005, nor shall any agreement cover a period of service extending beyond September 30, 2007.”
 
 Pub. L. 106–554 amended second sentence generally. Prior to amendment, second sentence read as follows: “No agreement shall be entered into under this section later than September 30, 2000, nor shall any agreement cover a period of service extending beyond September 30, 2002.”
 
@@ -100,27 +100,27 @@ Subsec. (j). Pub. L. 106–571, §2(b), in par. (1), substituted “(j)” for �
 
 &emsp;“(B) the reasons for those recommendations.”
 
-1998—Subsec. (a)(2). Pub. L. 105–266 substituted “$30,000” for “$20,000”.
+<b>1998</b>—Subsec. (a)(2). Pub. L. 105–266 substituted “$30,000” for “$20,000”.
 
-1997—Subsec. (d). Pub. L. 105–61, §517(a)(1), substituted “No agreement shall be entered into under this section later than September 30, 2000, nor shall any agreement cover a period of service extending beyond September 30, 2002.” for “No agreement shall be entered into under this section later than September 30, 1997, nor shall any agreement cover a period of service extending beyond September 30, 1999.”
+<b>1997</b>—Subsec. (d). Pub. L. 105–61, §517(a)(1), substituted “No agreement shall be entered into under this section later than September 30, 2000, nor shall any agreement cover a period of service extending beyond September 30, 2002.” for “No agreement shall be entered into under this section later than September 30, 1997, nor shall any agreement cover a period of service extending beyond September 30, 1999.”
 
 Subsec. (j)(2)(A). Pub. L. 105–61, §517(a)(2), substituted “September 30, 2000” for “September 30, 1997”.
 
-1993—Subsec. (d). Pub. L. 103–114, §1(a)(1), amended second sentence generally. Prior to amendment, second sentence read as follows: “No agreement shall be entered into under this section later than September 30, 1993, nor shall any agreement cover a period of service extending beyond September 30, 1995.”
+<b>1993</b>—Subsec. (d). Pub. L. 103–114, §1(a)(1), amended second sentence generally. Prior to amendment, second sentence read as follows: “No agreement shall be entered into under this section later than September 30, 1993, nor shall any agreement cover a period of service extending beyond September 30, 1995.”
 
 Subsec. (g)(1)(C) to (L). Pub. L. 103–89 redesignated subpars. (D) to (L) as (C) to (K), respectively, and struck out former subpar. (C) which read as follows: “chapter 54 of this title, relating to the performance management and recognition system;”.
 
 Subsec. (j). Pub. L. 103–114, §2(a), added subsec. (j).
 
-1992—Subsec. (a). Pub. L. 102–378, §2(51)(A), inserted “, section 5307,” after “provisions of this section” in first sentence.
+<b>1992</b>—Subsec. (a). Pub. L. 102–378, §2(51)(A), inserted “, section 5307,” after “provisions of this section” in first sentence.
 
 Subsec. (g)(1)(D). Pub. L. 102–378, §2(51)(B)(i), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “section 5371 of this title, or similar statutory authority, relating to administratively determined pay for certain specially qualified scientific or professional personnel;”.
 
 Subsec. (g)(1)(J) to (L). Pub. L. 102–378, §2(51)(B)(ii)–(iv), added subpars. (J) to (L).
 
-1990—Subsec. (d). Pub. L. 101–420 added second sentence and struck out former second sentence which read as follows: “No agreement shall be entered into under this section later than September 30, 1990, nor shall any agreement cover a period of service extending beyond September 30, 1992.”
+<b>1990</b>—Subsec. (d). Pub. L. 101–420 added second sentence and struck out former second sentence which read as follows: “No agreement shall be entered into under this section later than September 30, 1990, nor shall any agreement cover a period of service extending beyond September 30, 1992.”
 
-1987—Subsec. (a). Pub. L. 100–140, §1(a)(3), inserted last sentence.
+<b>1987</b>—Subsec. (a). Pub. L. 100–140, §1(a)(3), inserted last sentence.
 
 Subsec. (a)(1). Pub. L. 100–140, §1(a)(1), substituted “$14,000” for “$7,000”.
 
@@ -128,15 +128,15 @@ Subsec. (a)(2). Pub. L. 100–140, §1(a)(2), substituted “$20,000” for “$
 
 Subsec. (d). Pub. L. 100–140, §1(b), substituted “September 30, 1990” for “September 30, 1987” and “September 30, 1992” for “September 30, 1989”.
 
-1984—Subsec. (g)(1)(C). Pub. L. 98–615 substituted “performance management and recognition system” for “Merit Pay System”.
+<b>1984</b>—Subsec. (g)(1)(C). Pub. L. 98–615 substituted “performance management and recognition system” for “Merit Pay System”.
 
-1983—Subsec. (d). Pub. L. 98–168 substituted “1987” for “1983”, and “1989” for “1985”.
+<b>1983</b>—Subsec. (d). Pub. L. 98–168 substituted “1987” for “1983”, and “1989” for “1985”.
 
-1981—Subsec. (d). Pub. L. 97–141, §2(1), substituted “September 30, 1983, nor shall any agreement cover a period of service extending beyond September 30, 1985” for “September 30, 1981, nor shall any agreement cover a period of service extending beyond September 30, 1983”.
+<b>1981</b>—Subsec. (d). Pub. L. 97–141, §2(1), substituted “September 30, 1983, nor shall any agreement cover a period of service extending beyond September 30, 1985” for “September 30, 1981, nor shall any agreement cover a period of service extending beyond September 30, 1983”.
 
 Subsec. (g)(1). Pub. L. 97–141, §2(2), (3), reenacted provisions preceding subpar. (A) without change, and in subpar. (F), substituted “chapter 4 of title I of the Foreign Service Act of 1980 (22 U.S.C. 3961 and following)” for “title 4 of the Foreign Service Act of 1946 (22 U.S.C. 861–890)”.
 
-1979—Subsec. (d). Pub. L. 96–166, §2(1), substituted “September 30, 1981” for “September 30, 1979” and “September 30, 1983” for “September 30, 1981”.
+<b>1979</b>—Subsec. (d). Pub. L. 96–166, §2(1), substituted “September 30, 1981” for “September 30, 1979” and “September 30, 1983” for “September 30, 1981”.
 
 Subsec. (g)(1). Pub. L. 96–166, §2(2)(A), directed the amendment of subsec. (g)(1) by inserting “or dentist” after “physician” which was executed by inserting the term after “employed as a physician” in introductory phrase as the probable intent of Congress.
 
@@ -212,7 +212,7 @@ Section 1(a)(3) of Pub. L. 103–114 provided that: “Any service agreement ent
 
 #### Due Date for First Annual Report on Operation of Section
 
-Section 2(b) of Pub. L. 103–114 provided that: “The first report under section 5948(j) of title 5, United States Code, as amended by subsection (a), shall be due not later than June 30, 1994.”
+Section 2(b) of Pub. L. 103–114 provided that: “The first report under section 5948(j) of title 5, UnitedStates Code, as amended by subsection (a), shall be due not later than June 30, 1994.”
 
 #### Pay of Certain Federal Physicians for Fiscal Year 1982
 

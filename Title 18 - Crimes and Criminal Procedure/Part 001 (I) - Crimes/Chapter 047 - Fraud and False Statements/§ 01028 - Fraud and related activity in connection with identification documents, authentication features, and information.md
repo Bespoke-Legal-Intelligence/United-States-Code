@@ -22,7 +22,7 @@
 
 (b) The punishment for an offense under subsection (a) of this section is—
 
-&emsp;(1) except as provided in paragraphs (3) and (4), a fine under this title or imprisonment fornot more than 15 years, or both, if the offense is—
+&emsp;(1) except as provided in paragraphs (3) and (4), a fine under this title or imprisonment for not more than 15 years, or both, if the offense is—
 
 &emsp;&emsp;(A) the production or transfer of an identification document, authentication feature, or false identification document that is or appears to be—
 
@@ -80,11 +80,11 @@
 
 &emsp;&emsp;(A) is not issued by or under the authority of a governmental entity or was issued under the authority of a governmental entity but was subsequently altered for purposes of deceit; and
 
-&emsp;&emsp;(B) appears to be issued by or under the authority of the United States Government, a State, a political subdivision of a State, a sponsoring entity of an event designated by the President as a special event of national significance, a foreign government, a political subdivision of a foreign government, or an international governmental or quasi-governmental organization;
+&emsp;&emsp;(B) appears to be issued by or under the authority of the United States Government, a State, a political subdivision of a State, a sponsoring entity of an event designated by the President as a special event of national significance, a foreign government, a political subdivision of a foreign government, oran international governmental or quasi-governmental organization;
 
 &emsp;(5) the term “false authentication feature” means an authentication feature that—
 
-&emsp;&emsp;(A) is genuine in origin, but, without the authorization of the issuing authority, hasbeen tampered with or altered for purposes of deceit;
+&emsp;&emsp;(A) is genuine in origin, but, without the authorization of the issuing authority, has been tampered with or altered for purposes of deceit;
 
 &emsp;&emsp;(B) is genuine, but has been distributed, or is intended for distribution, without the authorization of the issuing authority and not in connection with a lawfully made identification document, document-making implement, or means of identification to which such authentication feature is intended to be affixed or embedded by the respective issuing authority; or
 
@@ -146,7 +146,7 @@ Rule of Construction.—For purpose of subsection (a)(7), a single identificatio
 
 Subsec. (d)(3). Pub. L. 109–177, §603(3), inserted “a sponsoring entity of an event designated as a special event of national significance,” after “political subdivision of a State,”.
 
-Subsec. (d)(4)(B), (6)(B). Pub. L. 109–177, §603(4), inserted “a sponsoring entity of an event designated by the President as a special event of national significance,” after “political subdivision of a State,”.
+Subsec. (d)(4)(B), (6)(B). Pub. L. 109–177, §603(4), inserted “a sponsoring entity of an event designated bythe President as a special event of national significance,” after “political subdivision of a State,”.
 
 <b>2005</b>—Subsec. (a)(8). Pub. L. 109–13 substituted “false or actual authentication features” for “false authentication features”.
 
@@ -254,7 +254,7 @@ Pub. L. 106–578, §5, Dec. 28, 2000, 114 Stat. 3077, provided that: “This Ac
 
 #### Effective Date of 1996 Amendment
 
-Section 211(c) of div. C of Pub. L. 104–208 provided that: “This section \[amending this section and sections 1425 to 1427, 1541 to 1544, and 1546 of this title and enacting provisions set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] and the amendments made by this section shall apply with respect to offenses occurring on or after the date of the enactment of this Act \[Sept. 30, 1996\].”
+Section 211(c) of div. C of Pub. L. 104–208 provided that: “This section \[amending this section and sections1425 to 1427, 1541 to 1544, and 1546 of this title and enacting provisions set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] and the amendments made by this section shall apply with respect to offenses occurring on or after the date of the enactment of this Act \[Sept. 30, 1996\].”
 
 #### Coordinating Committee on False Identification
 

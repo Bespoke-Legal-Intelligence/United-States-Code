@@ -2,11 +2,15 @@
 
 Upon finding for the claimant the court shall award the claimant damages adequate to compensate for the infringement, but in no event less than a reasonable royalty for the use made of the invention by the infringer, together with interest and costs as fixed by the court.
 
-When the damages are not found by a jury, the court shall assess them. In either event the court may increase the damages up to three times the amount found or assessed. Increaseddamages under this paragraph shall not apply to provisional rights under section 154(d) of this title.
+When the damages are not found by a jury, the court shall assess them. In either event the court may increase the damages up to three times the amount found or assessed. Increased damages under this paragraph shall not apply to provisional rights under section 154(d) of this title.
 
 The court may receive expert testimony as an aid to the determination of damages or of what royalty would be reasonable under the circumstances.
 
-(July 19, 1952, ch. 950, 66 Stat. 813; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4507(9)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–566.)
+(July 19, 1952, ch. 950, 66 Stat. 813; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4507(9)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–566; Pub. L. 112–29, §20(j), Sept. 16, 2011, 125 Stat. 335.)
+
+#### Amendment of Section
+
+<i>Pub. L. 112–29, §20(j), (l), Sept. 16, 2011, 125 Stat. 335, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, this section is amended by striking “of this title” each place that term appears. See 2011 Amendment note below.</i>
 
 #### Historical and Revision Notes
 
@@ -16,7 +20,13 @@ This section consolidates the provisions relating to damages in R.S. 4919 and 49
 
 #### Amendments
 
+<b>2011</b>—Second par. Pub. L. 112–29 struck out “of this title” after “154(d)”.
+
 <b>1999</b>—Second par. Pub. L. 106–113 inserted at end “Increased damages under this paragraph shall not apply to provisional rights under section 154(d) of this title.”
+
+#### Effective Date of 2011 Amendment
+
+Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(<i>l</i>) of Pub. L. 112–29, set out as a note under section 2 of this title.
 
 #### Effective Date of 1999 Amendment
 

@@ -22,7 +22,7 @@ In the case of an individual who is an eligible individual for any month during 
 
 &emsp;In the case of individuals who are married to each other, if either spouse has family coverage—
 
-&emsp;&emsp;(A) both spouses shall be treated as having only such family coverage (and if suchspouses each have family coverage under different plans, as having the family coverage with the lowest annual deductible), and
+&emsp;&emsp;(A) both spouses shall be treated as having only such family coverage (and if such spouses each have family coverage under different plans, as having the family coverage with the lowest annual deductible), and
 
 &emsp;&emsp;(B) the limitation under paragraph (1) (after the application of subparagraph (A) of this paragraph) shall be divided equally between them unless they agree on a different division.
 
@@ -190,7 +190,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) unless it is in cash, or
 
-&emsp;&emsp;&emsp;(ii) to the extent such contribution, when added to previous contributions to the trust for the calendar year, exceeds 75 percent of the highest annual limit deductible permitted under subsection (c)(2)(A)(ii) for such calendar year.
+&emsp;&emsp;&emsp;(ii) to the extent such contribution, when added to previous contributions tothe trust for the calendar year, exceeds 75 percent of the highest annual limit deductible permitted under subsection (c)(2)(A)(ii) for such calendar year.
 
 &emsp;&emsp;(B) The trustee is a bank (as defined in section 408(n)), an insurance company (as defined in section 816), or another person who demonstrates to the satisfaction of the Secretary that the manner in which such person will administer the trust will be consistent with the requirements of this section.
 
@@ -204,7 +204,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “qualified medical expenses” means, with respect to an account holder, amounts paid by such holder for medical care (as defined in section 213(d)) for such individual, the spouse of such individual, and any dependent (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof) of such individual, but only to the extent such amounts are not compensated for by insurance or otherwise. Such term shall include an amount paid for medicine or a drug onlyif such medicine or drug is a prescribed drug (determined without regard to whether such drug is available without a prescription) or is insulin.
+&emsp;&emsp;The term “qualified medical expenses” means, with respect to an account holder, amounts paid by such holder for medical care (as defined in section 213(d)) for such individual, the spouse of such individual, and any dependent (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof) of such individual, but only to the extent such amounts are not compensated for by insurance or otherwise. Such term shall include an amount paid for medicine or a drug only if such medicine or drug is a prescribed drug (determined without regard to whether such drug is available without a prescription) or is insulin.
 
 #### (B) Health insurance may not be purchased from account
 
@@ -292,7 +292,7 @@ For purposes of this section—
 
 #### (C) Exception for distributions after medicare eligibility
 
-&emsp;&emsp;Subparagraph (A) shall not apply to any payment or distribution after the date onwhich the account holder attains the age specified in section 1811 of the Social Security Act.
+&emsp;&emsp;Subparagraph (A) shall not apply to any payment or distribution after the date on which the account holder attains the age specified in section 1811 of the Social Security Act.
 
 #### (5) Rollover contribution
 
@@ -426,7 +426,7 @@ The Secretary may require the trustee of an Archer MSA to make such reports rega
 
 &emsp;&emsp;(A) this subsection shall not apply to any otherwise eligible individual who is covered under a high deductible health plan during the first 6 months of the second calendar year following the cut-off year (and such individual shall be treated as an active MSA participant for purposes of this subsection if a contribution is made to any Archer MSA with respect to such coverage), and
 
-&emsp;&emsp;(B) any employer who offers coverage under a high deductible health plan to any employee during such 6-month period shall be treated as an MSA-participating employer for purposes of this subsection if the requirements of paragraph (4) are met with respect to such coverage.
+&emsp;&emsp;(B) any employer who offers coverage under a high deductible health plan to any employee during such 6-month period shall be treated as an MSA-participating employer for purposes of this subsection if therequirements of paragraph (4) are met with respect to such coverage.
 
 > &emsp;For purposes of this paragraph, subsection (j)(2)(A) shall be applied for 1998 by substituting “750,000” for “600,000”.
 
@@ -700,7 +700,7 @@ Section 301(k) of Pub. L. 104–191 provided that: “The Secretary of the Treas
 
 #### Study of Effects of Medical Savings Accounts on Small Group Market
 
-Section 301(<i>l</i>) of Pub. L. 104–191 provided that: “The Comptroller General of the United States shall enter into a contract with an organization with expertise in health economics, health insurance markets, and actuarial science to conduct a comprehensive study regarding the effects of medical savings accounts in the small group market on—
+Section 301(<i>l</i>) of Pub. L. 104–191 provided that: “The Comptroller General of the United States shall enterinto a contract with an organization with expertise in health economics, health insurance markets, and actuarial science to conduct a comprehensive study regarding the effects of medical savings accounts in the small group market on—
 
 &emsp;“(1) selection, including adverse selection,
 

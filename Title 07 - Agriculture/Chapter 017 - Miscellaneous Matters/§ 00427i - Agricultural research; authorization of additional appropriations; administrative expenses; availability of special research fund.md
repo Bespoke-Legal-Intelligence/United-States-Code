@@ -50,7 +50,7 @@ In subsec. (a), “section 3324(a) and (b) of title 31” substituted for “sec
 
 #### Amendments
 
-1954—Subsec. (e). Act July 23, 1954, added subsec. (e).
+<b>1954</b>—Subsec. (e). Act July 23, 1954, added subsec. (e).
 
 #### Transfer of Functions
 

@@ -1,6 +1,6 @@
 ### §8912. Jurisdiction of courts
 
-The district courts of the United States have original jurisdiction, concurrent with the United States Court of Federal Claims, of a civil action or claim against the United States founded on this chapter.
+The district courts of the United States have original jurisdiction, concurrent with theUnited States Court of Federal Claims, of a civil action or claim against the United States founded on this chapter.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 607; Pub. L. 97–164, title I, §160(a)(3), Apr. 2, 1982, 96 Stat. 48; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
@@ -22,9 +22,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1992—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-1982—Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”.
+<b>1982</b>—Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”.
 
 #### Effective Date of 1992 Amendment
 

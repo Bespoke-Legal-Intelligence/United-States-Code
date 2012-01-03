@@ -1,6 +1,6 @@
 ### §8103. Medical services and initial medical and other benefits
 
-(a) The United States shall furnish to an employee who is injured while in the performance of duty, the services, appliances, and supplies prescribed or recommended by a qualified physician, which the Secretary of Labor considers likely to cure, give relief, reduce the degree or the period of disability, or aid in lessening the amount of the monthly compensation. Theseservices, appliances, and supplies shall be furnished—
+(a) The United States shall furnish to an employee who is injured while in the performance of duty, the services, appliances, and supplies prescribed or recommended by a qualified physician, which the Secretary of Labor considers likely to cure, give relief, reduce the degree or the period of disability, or aid in lessening the amount of the monthly compensation. These services, appliances, and supplies shall be furnished—
 
 &emsp;(1) whether or not disability has arisen;
 
@@ -70,7 +70,7 @@ The words “another retirement system for employees of the Government” are su
 
 #### Amendments
 
-1974—Subsec. (a). Pub. L. 93–416 substituted “at the employee's option” for “when this is not practicable”, struck out “private” before “physicians and hospitals” in par. (3), and, in provision following par. (3), added authorization for the employee to initially select a physician in accordance with such regulations and instructions considered necessary by the Secretary.
+<b>1974</b>—Subsec. (a). Pub. L. 93–416 substituted “at the employee's option” for “when this is not practicable”, struck out “private” before “physicians and hospitals” in par. (3), and, in provision following par. (3), added authorization for the employee to initially select a physician in accordance with such regulations and instructions considered necessary by the Secretary.
 
 #### Effective Date of 1974 Amendment
 

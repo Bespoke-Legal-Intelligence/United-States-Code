@@ -98,7 +98,7 @@ Exceptions.—Subsection (a) shall not apply to lithographic printing performed 
 
 &emsp;“(2)
 
-Notice to congress.—Not later than 30 days after making a determination under paragraph (1)(A),the head of a Federal agency shall report the determination to the Committee on Government Operations \[now Committee on Oversight and Government Reform\] and the Committee on House Administration of the House of Representatives, and the Committee on Rules of the Senate.
+Notice to congress.—Not later than 30 days after making a determination under paragraph (1)(A), the head of a Federal agency shall report the determination to the Committee on Government Operations \[now Committee on Oversight and Government Reform\] and the Committee on House Administration of the House of Representatives, and the Committee on Rules of the Senate.
 
 “(c)
 

@@ -6,7 +6,7 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 #### (b) Research and development; demonstration projects; education and training
 
-With respect to the prevention, treatment, control, and elimination of tuberculosis, the Secretary may, directly or through grants topublic or nonprofit private entities, carry out the following:
+With respect to the prevention, treatment, control, and elimination of tuberculosis, the Secretary may, directly or through grants to public or nonprofit private entities, carry out the following:
 
 &emsp;(1) Research, with priority given to research and development concerning latent tuberculosis infection, strains of tuberculosis resistant to drugs, and research concerning cases of tuberculosis that affect certain populations at risk for tuberculosis.
 
@@ -72,7 +72,7 @@ The Secretary may make a grant under subsection (a) or (b) of this section only 
 
 #### (2) Corresponding reduction in payments
 
-&emsp;With respect to a request described in paragraph (1), the Secretary shall reduce theamount of payments under the grant involved by an amount equal to the costs of detailing personnel and the fair market value of any supplies, equipment, or services provided by the Secretary. The Secretary shall, for the payment of expenses incurred in complying with such request, expend the amounts withheld.
+&emsp;With respect to a request described in paragraph (1), the Secretary shall reduce the amount of payments under the grant involved by an amount equal to the costs of detailing personnel and the fair market value of any supplies, equipment, or services provided by the Secretary. The Secretary shall, for the payment of expenses incurred in complying with such request, expend the amounts withheld.
 
 #### (f) Advisory Council
 

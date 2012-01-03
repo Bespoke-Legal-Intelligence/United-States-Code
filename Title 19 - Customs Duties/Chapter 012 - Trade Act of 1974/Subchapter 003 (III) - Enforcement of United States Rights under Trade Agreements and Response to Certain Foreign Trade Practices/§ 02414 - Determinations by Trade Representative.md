@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(ii) any act, policy, or practice described in subsection (a)(1)(B) or (b)(1) of section 2411 of this title exists, and
 
-&emsp;(B) if the determination made under subparagraph (A) is affirmative, determine what action, if any, the Trade Representative should take under subsection (a) or (b) of section 2411 of this title.
+&emsp;(B) if the determination made under subparagraph (A) is affirmative, determine whataction, if any, the Trade Representative should take under subsection (a) or (b) of section 2411 of this title.
 
 (2) The Trade Representative shall make the determinations required under paragraph (1) on or before—
 

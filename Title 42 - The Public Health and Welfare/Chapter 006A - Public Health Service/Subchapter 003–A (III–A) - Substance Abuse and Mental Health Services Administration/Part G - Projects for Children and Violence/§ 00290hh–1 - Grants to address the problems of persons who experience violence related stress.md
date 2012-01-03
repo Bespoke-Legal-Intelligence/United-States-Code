@@ -18,7 +18,7 @@ The Secretary, as part of the application process, shall require that each appli
 
 #### (e) Duration of awards
 
-With respect to a grant, contract or cooperative agreement under subsection (a) of this section, the period during which payments under such an award will be made to the recipient may not exceed 5 years. Such grants, contracts or agreements may be renewed.
+With respect to a grant, contract or cooperative agreement under subsection (a) of this section, the period during which payments undersuch an award will be made to the recipient may not exceed 5 years. Such grants, contracts or agreements may be renewed.
 
 #### (f) Authorization of appropriations
 

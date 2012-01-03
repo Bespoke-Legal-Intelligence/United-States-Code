@@ -56,7 +56,7 @@
 
 &emsp;The Assistant Secretary shall make grants to States, on a competitive basis, for the development and operation of—
 
-&emsp;&emsp;(A) systems for the delivery of mental health screening and treatment services for older individuals who lack access to such services; and
+&emsp;&emsp;(A) systems for the delivery of mental health screening and treatment services forolder individuals who lack access to such services; and
 
 &emsp;&emsp;(B) programs to—
 

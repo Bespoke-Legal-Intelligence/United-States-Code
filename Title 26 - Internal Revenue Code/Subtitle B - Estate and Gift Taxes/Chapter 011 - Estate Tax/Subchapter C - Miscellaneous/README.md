@@ -33,7 +33,7 @@
 
 <b>2001</b>—Pub. L. 107–16, title V, §501(c)(1), title IX, §901, June 7, 2001, 115 Stat. 69, 150, temporarily added item 2210 “Termination”.
 
-<b>1989</b>—Pub. L. 101–239, title VII, §7304(b)(2)(C), Dec. 19, 1989, 103 Stat. 2353, struck out item 2210 “Liability for payment in case of transfer of employer securities to an employee stock ownership plan or a worker-owned cooperative”.
+<b>1989</b>—Pub. L. 101–239, title VII, §7304(b)(2)(C), Dec. 19, 1989, 103 Stat. 2353, struck out item 2210 “Liability for payment in case of transfer of employer securities toan employee stock ownership plan or a worker-owned cooperative”.
 
 <b>1988</b>—Pub. L. 100–647, title III, §3031(f)(2), Nov. 10, 1988, 102 Stat. 3638, added item 2207B.
 

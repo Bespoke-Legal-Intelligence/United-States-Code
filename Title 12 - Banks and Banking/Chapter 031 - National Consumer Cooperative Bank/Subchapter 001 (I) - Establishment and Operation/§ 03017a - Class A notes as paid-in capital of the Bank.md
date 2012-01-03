@@ -6,7 +6,7 @@ Only for purposes of section 3017(a) of this title, class A notes shall be deeme
 
 #### Codification
 
-Section was enacted as part of the National Consumer Cooperative Bank Act Amendments of 1981 and also as part of the Omnibus Budget Reconciliation Act of 1981, and not as part of the National Consumer Cooperative Bank Act which comprises this chapter.
+Section was enacted as part of the National Consumer Cooperative Bank Act Amendments of 1981 andalso as part of the Omnibus Budget Reconciliation Act of 1981, and not as part of the National Consumer Cooperative Bank Act which comprises this chapter.
 
 #### Effective Date
 

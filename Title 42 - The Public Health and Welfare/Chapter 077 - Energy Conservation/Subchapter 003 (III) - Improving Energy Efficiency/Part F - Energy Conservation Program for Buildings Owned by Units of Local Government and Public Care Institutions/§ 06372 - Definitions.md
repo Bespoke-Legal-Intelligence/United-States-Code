@@ -2,7 +2,7 @@
 
 For purposes of this part—
 
-&emsp;(1) The terms “hospital”, “State”, “school”, “Governor”, “State energy agency”, “energy conservation measure”, “energy conservation maintenance and operating procedure”, “preliminary energy audit”, “technical assistancecosts”, “energy audit” and “Secretary” have the meanings provided in section 6371 of this title.
+&emsp;(1) The terms “hospital”, “State”, “school”, “Governor”, “State energy agency”, “energy conservation measure”, “energy conservation maintenance and operating procedure”, “preliminary energy audit”, “technical assistance costs”, “energy audit” and “Secretary” have the meanings provided in section 6371 of this title.
 
 &emsp;(2) The term “unit of local government” means the government of a county, municipality, or township, which is a unit of general purpose government below the State (determined on the basis of the same principles as are used by the Bureau of the Census for general statistical purposes) and the District of Columbia. Such term also means the recognized governing body of an Indian tribe (as defined in section 6862 of this title) which governing body performs substantial governmental functions.
 

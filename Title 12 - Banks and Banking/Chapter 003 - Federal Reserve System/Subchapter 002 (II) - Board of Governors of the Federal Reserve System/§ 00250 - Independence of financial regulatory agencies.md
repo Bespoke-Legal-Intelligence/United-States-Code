@@ -10,9 +10,9 @@ Section was not enacted as part of the Federal Reserve Act which comprises this 
 
 #### Amendments
 
-2008—Pub. L. 110–289 substituted “the Director of the Federal Housing Finance Agency” for “the Federal Housing Finance Board”.
+<b>2008</b>—Pub. L. 110–289 substituted “the Director of the Federal Housing Finance Agency” for “the Federal Housing Finance Board”.
 
-1999—Pub. L. 106–102 substituted “Director of the Office of Thrift Supervision, the Federal Housing Finance Board,” for “Federal Home Loan Bank Board,”.
+<b>1999</b>—Pub. L. 106–102 substituted “Director of the Office of Thrift Supervision, the Federal Housing Finance Board,” for “Federal Home Loan Bank Board,”.
 
-1994—Pub. L. 103–325 inserted “the Comptroller of the Currency,” after “Federal Deposit Insurance Corporation,”.
+<b>1994</b>—Pub. L. 103–325 inserted “the Comptroller of the Currency,” after “Federal Deposit Insurance Corporation,”.
 

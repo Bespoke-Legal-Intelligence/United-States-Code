@@ -18,7 +18,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) the sum of the amounts paid for fiscal year 2006 under section 102(a)(2) <sup>1</sup> (as in effect on September 29, 2006) for the eligible counties in the covered State that have elected under section 7112(b) of this title to receive a share of the State payment for fiscal year 2009; and
 
-&emsp;&emsp;&emsp;(ii) the sum of the amounts paid for fiscal year 2006 under section 103(a)(2) <sup>1</sup> (as in effect on September 29, 2006) for the eligible counties in the State of Oregon that have elected under section 7112(b) of this title to receive the county payment for fiscal year 2009; and
+&emsp;&emsp;&emsp;(ii) the sum of the amounts paid for fiscal year 2006 under section 103(a)(2) <sup>1</sup> (as in effect on September 29, 2006) for the eligible counties in the State of Oregon that have elected under section 7112(b) of thistitle to receive the county payment for fiscal year 2009; and
 
 &emsp;&emsp;(C) for fiscal year 2010, 73 percent of—
 

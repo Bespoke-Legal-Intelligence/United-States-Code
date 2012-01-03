@@ -16,15 +16,15 @@ An organization having a contract with the Secretary under this part shall provi
 
 &emsp;(1) which may identify specific providers or practitioners as may be necessary—
 
-&emsp;&emsp;(A) to assist Federal and State agencies recognized by the Secretary as having responsibility for identifying and investigating cases or patterns of fraud or abuse, which data and information shall be provided by the peer review organization to any such agency at the request of such agency relating to a specific case or pattern;
+&emsp;&emsp;(A) to assist Federal and State agencies recognized by the Secretary as having responsibility for identifying and investigating cases or patterns of fraud or abuse, which data and information shall be provided by the quality improvement organization to any such agency at the request of such agency relating to a specific case or pattern;
 
-&emsp;&emsp;(B) to assist appropriate Federal and State agencies recognized by the Secretary as having responsibility for identifying cases or patterns involving risks to the public health, which data and information shall be provided by the peer review organization to any such agency—
+&emsp;&emsp;(B) to assist appropriate Federal and State agencies recognized by the Secretary as having responsibility for identifying cases or patterns involving risks to the public health, which data and information shall be provided by the quality improvement organization to any such agency—
 
-&emsp;&emsp;&emsp;(i) at the discretion of the peer review organization, at the request of such agency relating to a specific case or pattern with respect to which such agency has made a finding, or has a reasonable belief, that there may be a substantial risk to the public health, or
+&emsp;&emsp;&emsp;(i) at the discretion of the quality improvement organization, at the request of such agency relating to a specific case or pattern with respect to which such agency has made a finding, or has a reasonable belief, that there may be a substantial risk to the public health, or
 
-&emsp;&emsp;&emsp;(ii) upon a finding by, or the reasonable belief of, the peer review organization that there may be a substantial risk to the public health;
+&emsp;&emsp;&emsp;(ii) upon a finding by, or the reasonable belief of, the quality improvement organization that there may be a substantial risk to the public health;
 
-&emsp;&emsp;(C) to assist appropriate State agencies recognized by the Secretary as having responsibility for licensing or certification of providers or practitioners or to assist national accreditation bodies acting pursuant to section 1395bb of this title in accrediting providers for purposes of meeting the conditions described in subchapter XVIII of this chapter, which data and information shall be provided by the peer review organization to any such agency or body at the request of such agency or body relating to a specific case or to a possible pattern of substandard care, but only to the extent that such data and information are required by the agency or body to carry out its respective function which is within the jurisdiction of the agency or body under State law or under section 1395bb of this title; and
+&emsp;&emsp;(C) to assist appropriate State agencies recognized by the Secretary as having responsibility for licensing or certification of providers or practitioners or to assist national accreditation bodies acting pursuant to section 1395bb of this title in accrediting providers for purposes of meeting the conditions described in subchapter XVIII of this chapter, which data and information shall be provided by the quality improvement organization to any such agency or body at the request of such agency or body relating to a specific case or to a possible pattern of substandard care, but only to the extent that such data and information are required by the agency or body to carry out its respective function which is within the jurisdiction of the agency or body under State law or under section 1395bb of this title; and
 
 &emsp;&emsp;(D) to provide notice in accordance with section 1320c–3(a)(9)(B) of this title;
 
@@ -42,9 +42,13 @@ No patient record in the possession of an organization having a contract with th
 
 #### (e) Organizations with contracts
 
-For purposes of this section and section 1320c–6 of this title, the term “organization with a contract with the Secretary under this part” includes an entity with a contract with the Secretary under section 1320c–3(a)(4)(C) of this title.
+For purposes of this section and section 1320c–6 of this title, the term “organization with a contract with the Secretary under this part” includes an entity with a contract with the Secretary under section 1320c–3(a)(4)(C) <sup>1</sup> of this title.
 
-(Aug. 14, 1935, ch. 531, title XI, §1160, as added Pub. L. 97–248, title I, §143, Sept. 3, 1982, 96 Stat. 391; amended Pub. L. 99–509, title IX, §9353(d)(1), Oct. 21, 1986, 100 Stat. 2047; Pub. L. 100–203, title IV, §4039(h)(6), Dec. 22, 1987, as added Pub. L. 100–360, title IV, §411(e)(3), July 1, 1988, 102 Stat. 776; Pub. L. 101–508, title IV, §4205(d)(1)(B), (e)(1), Nov. 5, 1990, 104 Stat. 1388–113, 1388–114; Pub. L. 103–432, title I, §156(b)(2)(B), (4), Oct. 31, 1994, 108 Stat. 4441.)
+(Aug. 14, 1935, ch. 531, title XI, §1160, as added Pub. L. 97–248, title I, §143, Sept. 3, 1982, 96 Stat. 391; amended Pub. L. 99–509, title IX, §9353(d)(1), Oct. 21, 1986, 100 Stat. 2047; Pub. L. 100–203, title IV, §4039(h)(6), Dec. 22, 1987, as added Pub. L. 100–360, title IV, §411(e)(3), July 1, 1988, 102 Stat. 776; Pub. L. 101–508, title IV, §4205(d)(1)(B), (e)(1), Nov. 5, 1990, 104 Stat. 1388–113, 1388–114; Pub. L. 103–432, title I, §156(b)(2)(B), (4), Oct. 31, 1994, 108 Stat. 4441; Pub. L. 112–40, title II, §261(a)(2)(C), Oct. 21, 2011, 125 Stat. 423.)
+
+#### References in Text
+
+Section 1320c–3(a)(4)(C) of this title, referred to in subsec. (e), was repealed by Pub. L. 112–40, title II, §261(c)(2)(A)(ii), Oct. 21, 2011, 125 Stat. 425.
 
 #### Prior Provisions
 
@@ -52,7 +56,9 @@ A prior section 1320c–9, act Aug. 14, 1935, ch. 531, title XI, §1160, as adde
 
 #### Amendments
 
-<b>1994</b>—Subsec. (b)(1)(D). Pub. L. 103–432, §156(b)(2)(B), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “to provide notice to theState medical board in accordance with section 1320c–3(a)(9)(B) of this title when the organization submits a report and recommendations to the Secretary under section 1320c–5(b)(1) of this title with respect to a physician whom the board is responsible for licensing;”.
+<b>2011</b>—Subsec. (b)(1)(A) to (C). Pub. L. 112–40 substituted “quality improvement” for “peer review” wherever appearing.
+
+<b>1994</b>—Subsec. (b)(1)(D). Pub. L. 103–432, §156(b)(2)(B), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “to provide notice to the State medical board in accordance with section 1320c–3(a)(9)(B) of this title when the organization submits a report and recommendations to the Secretary under section 1320c–5(b)(1) of this title with respect to a physician whom the board is responsible for licensing;”.
 
 Subsec. (d). Pub. L. 103–432, §156(b)(4), which directed amendment of subsec. (d) by substituting “subpoena” for “subpena”, was executed by making the substitution in two places to reflect the probable intent of Congress.
 
@@ -65,6 +71,10 @@ Subsec. (d). Pub. L. 101–508, §4205(e)(1), inserted at end “No document or 
 <b>1987</b>—Subsec. (e). Pub. L. 100–203, §4039(h)(6), as added by Pub. L. 100–360, added subsec. (e).
 
 <b>1986</b>—Subsec. (b)(1)(C). Pub. L. 99–509 amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “to assist appropriate State agencies recognized by the Secretary as having responsibility for licensing or certification of providers or practitioners, which data and information shall be provided by the peer review organization to any such agency at the request of such agency relating to a specific case, but only to the extent that such data and information is required by the agency in carrying out a function which is within the jurisdiction of such agency under State law; and”.
+
+#### Effective Date of 2011 Amendment
+
+Amendment by Pub. L. 112–40 applicable to contracts entered into or renewed on or after Jan. 1, 2012, see section 261(e) of Pub. L. 112–40, set out as a note under section 1320c of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -91,4 +101,6 @@ Section 9353(d)(2) of Pub. L. 99–509 provided that: “The amendments made by 
 #### Freedom of Information Act Request
 
 Pub. L. 96–499, title IX, §928, Dec. 5, 1980, 94 Stat. 2630, provided that: “No Professional Standards Review Organization designated (conditionally or otherwise) under part B of title XI of the Social Security Act \[this part\] shall be required to make available any records pursuant to a request made under section 552 of title 5, United States Code, until the later of (1) one year after the date of entry of a final court order requiring that such records be made available, or (2) the last date of the Congress during which the court order was entered.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

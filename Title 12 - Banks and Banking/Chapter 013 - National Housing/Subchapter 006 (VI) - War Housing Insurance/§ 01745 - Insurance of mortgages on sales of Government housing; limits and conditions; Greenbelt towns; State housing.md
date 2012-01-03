@@ -1,6 +1,6 @@
 ### §1745. Insurance of mortgages on sales of Government housing; limits and conditions; Greenbelt towns; State housing
 
-Notwithstanding any of the provisions of this subchapter, the Secretary is authorized, upon application by the mortgagee, to insure or to make commitments to insure under section 1738 or section 1743 of this title any mortgage executed in connection with the sale by the Government, or any agency or official thereof, of any housing acquired or constructed under Public Law 849, Seventy-sixth Congress, as amended; Public Law 781, Seventy-sixth Congress, as amended; or Public Laws 9, 73, or 353, Seventy-seventh Congress, as amended (including any property acquired, held or constructed in connection with such housing or to serve the inhabitants thereof), without regard to—
+Notwithstanding any of the provisions of this subchapter, the Secretary is authorized, upon application by the mortgagee, to insure or to make commitments to insure under section 1738 or section 1743 of this title any mortgage executed in connection with the sale by the Government, or any agency or official thereof, of any housing acquired or constructed under Public Law 849, Seventy-sixth Congress, as amended; Public Law 781, Seventy-sixth Congress, as amended; or Public Laws 9, 73, or 353, Seventy-seventh Congress, as amended (including anyproperty acquired, held or constructed in connection with such housing or to serve the inhabitants thereof), without regard to—
 
 &emsp;(1) any limit as to the time when any mortgage may be insured under this subchapter;
 
@@ -10,7 +10,7 @@ Notwithstanding any of the provisions of this subchapter, the Secretary is autho
 
 &emsp;(4) any of the provisions of subsections (b)(2) or (b)(5) of section 1738 of this title or paragraphs (B) and (C) of the first sentence of section 1743(b)(3) of this title:
 
-> <i>Provided</i>, That such mortgage shall (1) otherwise be eligible for insurance under section 1738 or section 1743 of this title as the case may be, (2) have a maturity not exceeding twenty-five years from the date of insurance, (3) involve a principal obligation (including such initial service charges, appraisal, inspection, and other fees as the Secretary shall approve) in an amount not exceeding 90 per centum of the appraised valueof the mortgage property as determined by the Secretary, and (4) bear interest (exclusive of premium charges) at not to exceed 5 per centum per annum on the amount of the principal obligation outstanding at any time if such mortgage covers property on which there is located a dwelling designed principally for residential use for not more than four families in the aggregate, irrespective of whether such dwelling or dwellings have a party wall or are otherwise physically connected with another dwelling or dwellings, or bear interest at not to exceed 41/2 per centum per annum on the amount of the principal obligation outstanding at any time if such mortgage covers property upon which there is located a dwelling or dwellings designed principally for residential use for more than four families.
+> <i>Provided</i>, That such mortgage shall (1) otherwise be eligible for insurance under section 1738 or section 1743 of this title as the case may be, (2) have a maturity not exceeding twenty-five years from the date of insurance, (3) involve a principal obligation (including such initial service charges, appraisal, inspection, and other fees as the Secretary shall approve) in an amount not exceeding 90 per centum of the appraised value of the mortgage property as determined by the Secretary, and (4) bear interest (exclusive of premium charges) at not to exceed 5 per centum per annum on the amount of the principal obligation outstanding at any time if such mortgage covers property on which there is located a dwelling designed principally for residential use for not more than four families in the aggregate, irrespective of whether such dwelling or dwellings have a party wall or are otherwise physically connected with another dwelling or dwellings, or bear interest at not to exceed 4½ per centum per annum on the amount of the principal obligation outstanding at any time if such mortgage covers property upon which there is located a dwelling or dwellings designed principally for residential use for more than four families.
 
 The Secretary is further authorized to insure or to make commitments to insure in accordance with the provisions of this section any mortgage executed in connection with the sale by the Secretary, or by any public housing agency with the approval of the Secretary, of any housing (including any property acquired, held, or constructed in connection with such housing or to serve the inhabitants thereof) owned or financially assisted pursuant to the provisions of Public Law 671, Seventy-sixth Congress.
 
@@ -30,17 +30,17 @@ Public Laws 9, 73, or 353, Seventy-seventh Congress, as amended, referred to in 
 
 Public Law 671, Seventy-sixth Congress, referred to in text, is act June 28, 1940, ch. 440, 54 Stat. 676, as amended. Provisions of the Act relating to housing are contained in title II, which is classified generally to subchapter I (§1501 et seq.) of chapter 9 of Title 42. For complete classification of this Act to the Code, see Tables.
 
-The Emergency Relief Appropriation Act of 1935, referred to in text, is Joint Res. Apr. 8, 1935, ch. 48, 49 Stat. 115. It was a temporary legislation, and was formerly set out in a note in former chapter 16 of Title 15, Commerce and Trade. See notes under sections 721 to 728 of that title.
+The Emergency Relief Appropriation Act of 1935, referred to in text, is Joint Res. Apr. 8, 1935, ch. 48, 49 Stat. 115. It was a temporary legislation, and was formerly set out in a note in former chapter 16 of Title 15,Commerce and Trade. See notes under sections 721 to 728 of that title.
 
 #### Amendments
 
-1967—Pub. L. 90–19 substituted “Secretary” for “Commissioner” wherever appearing, and “Secretary” for “Public Housing Administration” and “said Administration” in second par., respectively.
+<b>1967</b>—Pub. L. 90–19 substituted “Secretary” for “Commissioner” wherever appearing, and “Secretary” for “Public Housing Administration” and “said Administration” in second par., respectively.
 
-1952—Act July 14, 1952, inserted last par.
+<b>1952</b>—Act July 14, 1952, inserted last par.
 
-1950—Act Apr. 20, 1950, §120, made the insurance authority of this section applicable to sale by the Public Housing Administration, or any public housing agency, of any housing owned or financially assisted pursuant to the provisions of sections 1501 to 1505 of Title 42. The Public Health and Welfare, which provided for the construction of war housing out of prior authorizations for low-rent public housing on the condition that such housing would be converted to low-rent use after termination of its use for war housing.
+<b>1950</b>—Act Apr. 20, 1950, §120, made the insurance authority of this section applicable to sale by the Public Housing Administration, or any public housing agency, of any housing owned or financially assisted pursuant to the provisions of sections 1501 to 1505 of Title 42. The Public Health and Welfare, which provided for the construction of war housing out of prior authorizations for low-rent public housing on the condition that such housing would be converted to low-rent use after termination of its use for war housing.
 
 Act Apr. 20, 1950, §122, substituted “Commissioner” for “Administrator” wherever appearing.
 
-1948—Act Aug. 10, 1948, inserted last par. relating to the Greenbelt towns.
+<b>1948</b>—Act Aug. 10, 1948, inserted last par. relating to the Greenbelt towns.
 

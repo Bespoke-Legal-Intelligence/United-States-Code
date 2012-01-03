@@ -10,7 +10,7 @@
 
 #### (B) Use
 
-&emsp;&emsp;Grants under subparagraph (A) shall be used to support clinical investigators in theearly phases of their independent careers by providing salary and such other support for a period of supervised study.
+&emsp;&emsp;Grants under subparagraph (A) shall be used to support clinical investigators in the early phases of their independent careers by providing salary and such other support for a period of supervised study.
 
 #### (2) Applications
 

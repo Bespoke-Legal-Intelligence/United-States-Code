@@ -198,35 +198,35 @@ The date of the enactment of the Legislative Branch Appropriations Act, 2004, re
 
 #### Amendments
 
-2009—Par. (19)(C). Pub. L. 111–84 substituted “8411(f) or 8422(i);” for “8411(f);”.
+<b>2009</b>—Par. (19)(C). Pub. L. 111–84 substituted “8411(f) or 8422(i);” for “8411(f);”.
 
-2008—Par. (31). Pub. L. 110–181, in concluding provisions, substituted “and includes service as a cadet at the United States Military Academy, the United States Air Force Academy, or the United States Coast Guard Academy, or as a midshipman at the United States Naval Academy, but” for “but”.
+<b>2008</b>—Par. (31). Pub. L. 110–181, in concluding provisions, substituted “and includes service as a cadet at the United States Military Academy, the United States Air Force Academy, or the United States Coast Guard Academy, or as a midshipman at the United States Naval Academy, but” for “but”.
 
-2007—Par. (36). Pub. L. 110–161 added par. (36).
+<b>2007</b>—Par. (36). Pub. L. 110–161 added par. (36).
 
-2003—Par. (20). Pub. L. 108–83 inserted before semicolon at end “, and who (in the case of an individual who is a Member of the House of Representatives, including a Delegate or Resident Commissioner to the Congress) serves as a Member prior to the date of the enactment of the Legislative Branch Appropriations Act, 2004”.
+<b>2003</b>—Par. (20). Pub. L. 108–83 inserted before semicolon at end “, and who (in the case of an individual who is a Member of the House of Representatives, including a Delegate or Resident Commissioner to the Congress) serves as a Member prior to the date of the enactment of the Legislative Branch Appropriations Act, 2004”.
 
 Par. (35). Pub. L. 108–176 added par. (35).
 
-2000—Par. (34). Pub. L. 106–571 added par. (34).
+<b>2000</b>—Par. (34). Pub. L. 106–571 added par. (34).
 
-1999—Par. (30). Pub. L. 106–65 amended par. (30) generally. Prior to amendment, par. (30) read as follows: “the term ‘military reserve technician’ means a member of one of the reserve components of the armed forces specified in section 10101 of title 10 who—
+<b>1999</b>—Par. (30). Pub. L. 106–65 amended par. (30) generally. Prior to amendment, par. (30) read as follows: “the term ‘military reserve technician’ means a member of one of the reserve components of the armed forces specified in section 10101 of title 10 who—
 
 &emsp;“(A) is assigned to a civilian position as a technician in the administration and training of such reserve components or in the maintenance and repair of supplies issued to such reserve components; and
 
 &emsp;“(B) as a condition of employment in such position, is required to be a member of one of such reserve components serving in a specified military grade;”.
 
-1998—Par. (33). Pub. L. 105–261 added par. (33).
+<b>1998</b>—Par. (33). Pub. L. 105–261 added par. (33).
 
-1996—Par. (4). Pub. L. 104–208 struck out “except as provided in subchapter III of this chapter,” before “the term”.
+<b>1996</b>—Par. (4). Pub. L. 104–208 struck out “except as provided in subchapter III of this chapter,” before “the term”.
 
-1994—Par. (11). Pub. L. 103–353, §5(e)(1), in flush provisions before cl. (i), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1994</b>—Par. (11). Pub. L. 103–353, §5(e)(1), in flush provisions before cl. (i), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
 Par. (30). Pub. L. 103–337 substituted “section 10101” for “section 261(a)” in introductory provisions.
 
 Par. (31). Pub. L. 103–353, §5(c), in closing provisions, inserted before semicolon “or full-time National Guard duty (as such term is defined in section 101(d) of title 10) if such service interrupts creditable civilian service under this subchapter and is followed by reemployment in accordance with chapter 43 of title 38 that occurs on or after August 1, 1990”.
 
-1990—Par. (11)(C). Pub. L. 101–508, §7202(k)(1)(A)(i)–(iii), added subpar. (C).
+<b>1990</b>—Par. (11)(C). Pub. L. 101–508, §7202(k)(1)(A)(i)–(iii), added subpar. (C).
 
 Par. (11)(i)(I). Pub. L. 101–474 struck out “(v),” after “(i),”.
 
@@ -236,7 +236,7 @@ Par. (15). Pub. L. 101–508, §7202(k)(1)(B), substituted “, Gallaudet Colle
 
 Par. (32). Pub. L. 101–335 added par. (32).
 
-1988—Par. (11)(A). Pub. L. 100–679 substituted “(J), or (K)” for “or (J)”.
+<b>1988</b>—Par. (11)(A). Pub. L. 100–679 substituted “(J), or (K)” for “or (J)”.
 
 Par. (11)(i)(II). Pub. L. 100–238, §103(d)(2), struck out “(other than an employee of the United States Park Police, or the United States Secret Service, whose civilian service after December 31, 1983, is such employment)”.
 
@@ -248,7 +248,7 @@ Par. (14)(B). Pub. L. 100–238, §103(c)(2), substituted “for at least 3 year
 
 Par. (17). Pub. L. 100–238, §103(a)(2), (c)(1), in subpar. (A)(ii), substituted “should be” for “are required to be”, added subpar. (B), redesignated former subpar. (B) as (C) and amended it generally, substituting “subparagraph (A) and (B) for at least 3 years” for “subparagraph (A) for at least 10 years”, redesignated former subpar. (C) as (D), and in concluding provisions, substituted “should be” for “are required to be”.
 
-1986—Par. (11). Pub. L. 99–556, §119, struck out “any of” before “whose civilian service” in two places.
+<b>1986</b>—Par. (11). Pub. L. 99–556, §119, struck out “any of” before “whose civilian service” in two places.
 
 Par. (18). Pub. L. 99–556, §109, amended par. (18) generally. Prior to amendment, par. (18) read as follows: “the term ‘loss’, when used with respect to the Thrift Savings Fund, means the amount of the loss resulting from the investment of sums in such Fund;”.
 

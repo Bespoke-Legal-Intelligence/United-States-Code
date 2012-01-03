@@ -56,7 +56,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;(D) A foreign government or an agency authorized by a foreign government to place children for adoption, in any case in which—
 
-&emsp;&emsp;&emsp;(i) the adopted child is entitled to automatic citizenship under section 320 of the Immigration and Nationality Act (8 U.S.C. 1431); or
+&emsp;&emsp;&emsp;(i) the adopted child is entitled to automatic citizenship under section 320 of theImmigration and Nationality Act (8 U.S.C. 1431); or
 
 &emsp;&emsp;&emsp;(ii) a certificate of citizenship has been issued for such child under section 322 of that Act (8 U.S.C. 1433).
 

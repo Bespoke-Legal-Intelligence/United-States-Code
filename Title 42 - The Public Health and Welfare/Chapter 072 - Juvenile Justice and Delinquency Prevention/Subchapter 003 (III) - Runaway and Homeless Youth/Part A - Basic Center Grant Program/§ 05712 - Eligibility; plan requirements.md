@@ -26,13 +26,13 @@ In order to qualify for assistance under section 5711(a) of this title, an appli
 
 &emsp;&emsp;(C) the return of runaway and homeless youth from correctional institutions;
 
-&emsp;(5) shall develop an adequate plan for providing counseling and aftercare services to such youth, for encouraging the involvement of their parents or legal guardians in counseling, and for ensuring, as possible, that aftercare services will be provided to those youth who are returned beyond the State in which the runaway and homeless youth center is located;
+&emsp;(5) shall develop an adequate plan for providing counseling and aftercare services to such youth, for encouraging the involvement of their parents or legal guardians in counseling, and for ensuring, as possible, that aftercare services will be provided to those youth whoare returned beyond the State in which the runaway and homeless youth center is located;
 
 &emsp;(6) shall develop an adequate plan for establishing or coordinating with outreach programs designed to attract persons (including, where applicable, persons who are members of a cultural minority and persons with limited ability to speak English) who are eligible to receive services for which a grant under subsection (a) of this section may be expended;
 
 &emsp;(7) shall keep adequate statistical records profiling the youth and family members whom it serves (including youth who are not referred to out-of-home shelter services), except that records maintained on individual runaway and homeless youth shall not be disclosed without the consent of the individual youth and parent or legal guardian to anyone other than another agency compiling statistical records or a government agency involved in the disposition of criminal charges against an individual runaway and homeless youth, and reports or other documents based on such statistical records shall not disclose the identity of individual runaway and homeless youth;
 
-&emsp;(8) shall submit annual reports to the Secretary detailing how the center has been ableto meet the goals of its plans and reporting the statistical summaries required by paragraph (7);
+&emsp;(8) shall submit annual reports to the Secretary detailing how the center has been able to meet the goals of its plans and reporting the statistical summaries required by paragraph (7);
 
 &emsp;(9) shall demonstrate its ability to operate under accounting procedures and fiscal control devices as required by the Secretary;
 
@@ -102,7 +102,7 @@ To be eligible to use assistance under section 5711(a)(2)(C)(iii) of this title 
 
 #### References in Text
 
-The McKinney-Vento Homeless Assistance Act, referred to in subsec. (b)(4)(B), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended. Subtitle B of title VII of the Act is classified generally to part B (§11431 et seq.) of subchapter VI of chapter 119 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
+The McKinney-Vento Homeless Assistance Act, referred to in subsec. (b)(4)(B), is Pub. L. 100–77, July 22,1987, 101 Stat. 482, as amended. Subtitle B of title VII of the Act is classified generally to part B (§11431 et seq.) of subchapter VI of chapter 119 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
 
 #### Amendments
 
@@ -112,7 +112,7 @@ The McKinney-Vento Homeless Assistance Act, referred to in subsec. (b)(4)(B), is
 
 Subsec. (b)(2)(A). Pub. L. 108–96, §106, inserted “, except where the applicant assures that the State where the center or locally controlled facility is located has a State or local law or regulation that requires a higher maximum to comply with licensure requirements for child and youth serving facilities” after “youth”.
 
-Subsec. (b)(4)(B). Pub. L. 108–96, §109, substituted “McKinney-Vento school district liaisons, designated under section 722(g)(1)(J)(ii) of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11432(g)(1)(J)(ii)), to assure that runaway and homeless youth are provided information about the educational services available to such youth under subtitle B of title VII of that Act;” for “personnel of the schools to which runaway andhomeless youth will return, to assist such youth to stay current with the curricula of those schools;”.
+Subsec. (b)(4)(B). Pub. L. 108–96, §109, substituted “McKinney-Vento school district liaisons, designated under section 722(g)(1)(J)(ii) of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11432(g)(1)(J)(ii)), to assure that runaway and homeless youth are provided information about the educational services available to such youth under subtitle B of title VII of that Act;” for “personnel of the schools to which runaway and homeless youth will return, to assist such youth to stay current with the curricula of those schools;”.
 
 <b>1999</b>—Subsec. (b)(8). Pub. L. 106–71, §3(c)(1)(A), substituted “paragraph (7)” for “paragraph (6)”.
 

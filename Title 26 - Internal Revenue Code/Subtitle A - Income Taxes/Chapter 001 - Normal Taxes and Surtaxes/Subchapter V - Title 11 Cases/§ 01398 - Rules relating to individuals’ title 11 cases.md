@@ -156,7 +156,7 @@ The estate shall succeed to and take into account the following items (determine
 
 #### (D) Administrative expense deductions allowed only to estate
 
-&emsp;&emsp;The deductions allowable under this chapter solely by reason of paragraph (1), and the deduction provided by subparagraph (A) of this paragraph, shall be allowable only to the estate.
+&emsp;&emsp;The deductions allowable under this chapter solely by reason of paragraph (1), and thededuction provided by subparagraph (A) of this paragraph, shall be allowable only to the estate.
 
 #### (i) Debtor succeeds to tax attributes of estate
 
@@ -172,7 +172,7 @@ In the case of a termination of an estate, the debtor shall succeed to and take 
 
 #### (A) Carrybacks from estate
 
-&emsp;&emsp;If any carryback year of the estate is a taxable year before the estate's first taxableyear, the carryback to such carryback year shall be taken into account for the debtor's taxable year corresponding to the carryback year.
+&emsp;&emsp;If any carryback year of the estate is a taxable year before the estate's first taxable year, the carryback to such carryback year shall be taken into account for the debtor's taxable year corresponding to the carryback year.
 
 #### (B) Carrybacks from debtor's activities
 

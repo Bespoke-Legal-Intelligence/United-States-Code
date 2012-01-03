@@ -6,7 +6,7 @@ Notwithstanding chapter 63 of title 31, the Secretary may enter into a fee manag
 
 &emsp;(1) With any governmental or nongovernmental entity, including those in a gateway community, for the purpose of obtaining fee collection and processing services, including visitor reservation services.
 
-&emsp;(2) With any governmental or nongovernmental entity, including those in a gateway community, for the purpose of obtaining emergency medical services.
+&emsp;(2) With any governmental or nongovernmental entity, including those in a gatewaycommunity, for the purpose of obtaining emergency medical services.
 
 &emsp;(3) With any governmental entity, including those in a gateway community, to obtain law enforcement services.
 

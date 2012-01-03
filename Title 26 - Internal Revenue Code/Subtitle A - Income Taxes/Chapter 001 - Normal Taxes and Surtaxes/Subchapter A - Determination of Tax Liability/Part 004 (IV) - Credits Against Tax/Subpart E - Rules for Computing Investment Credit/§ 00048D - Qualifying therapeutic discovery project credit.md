@@ -186,7 +186,7 @@ Section 9023(e) of the Patient Protection and Affordable Care Act of 2009, refer
 
 #### Effective Date
 
-Section applicable to amounts paid or incurred after Dec. 31, 2008, in taxable years beginning after such date,see section 9023(f) of Pub. L. 111–148, set out as an Effective Date of 2010 Amendment note under section 46 of this title.
+Section applicable to amounts paid or incurred after Dec. 31, 2008, in taxable years beginning after such date, see section 9023(f) of Pub. L. 111–148, set out as an Effective Date of 2010 Amendment note under section 46 of this title.
 
 #### Grants for Qualified Investments in Therapeutic Discovery Projects in Lieu of Tax Credits
 

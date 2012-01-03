@@ -1,6 +1,6 @@
 ### §5334. Rate on change of position or type of appointment; regulations
 
-(a) The rate of basic pay to which an employee is entitled is governed by regulations prescribedby the Office of Personnel Management in conformity with this subchapter and chapter 51 of this title when—
+(a) The rate of basic pay to which an employee is entitled is governed by regulations prescribed by the Office of Personnel Management in conformity with this subchapter and chapter 51 of this title when—
 
 &emsp;(1) he is transferred from a position in the legislative, judicial, or executive branch to which this subchapter does not apply;
 
@@ -18,7 +18,7 @@
 
 > For the purpose of this subsection, an individual employed by the Appalachian Regional Commission under section 14306(a)(2) of title 40, who was a Federal employee immediately prior to such employment by a commission and within 6 months after separation from such employment is employed in a position to which this subchapter applies, shall be treated as if transferred from a position in the executive branch to which this subchapter does not apply.
 
-(b) An employee who is promoted or transferred to a position in a higher grade is entitled to basic pay at the lowest rate of the higher grade which exceeds his existing rate of basic pay by not less than two step-increases of the grade from which he is promoted or transferred. If, in the case of an employee so promoted or transferred who is receiving basic pay at a rate in excess of the maximum rate of his grade, there is no rate in the higher grade which is at least two step-increases above his existing rate of basic pay, he is entitled to—
+(b) An employee who is promoted or transferred to a position in a higher grade is entitledto basic pay at the lowest rate of the higher grade which exceeds his existing rate of basic pay by not less than two step-increases of the grade from which he is promoted or transferred. If, in the case of an employee so promoted or transferred who is receiving basic pay at a rate in excess of the maximum rate of his grade, there is no rate in the higher grade which is at least two step-increases above his existing rate of basic pay, he is entitled to—
 
 &emsp;(1) the maximum rate of the higher grade; or
 
@@ -68,7 +68,7 @@
 
 &emsp;(A) first, by determining the rate of pay to which such employee would be entitled at the new official duty station based on such employee's position, grade, and step (or relative position in the rate range) before the move, and
 
-&emsp;(B) then, by applying the provisions of this section that would otherwise apply (if any), treating the rate determined under subparagraph (A) as if it were the rate last received by the employee before the rate adjustment.
+&emsp;(B) then, by applying the provisions of this section that would otherwise apply (if any),treating the rate determined under subparagraph (A) as if it were the rate last received by the employee before the rate adjustment.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 468; Pub. L. 90–103, title I, §105, Oct. 11, 1967, 81 Stat. 257; Pub. L. 90–367, §1, June 29, 1968, 82 Stat. 277; Pub L. 90–623, §1(6), (24), Oct. 22, 1968, 82 Stat. 1312, 1314; Pub. L. 95–454, title V, §503(f), title VIII, §801(a)(2), (3)(F), (G), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1184, 1221, 1222, 1224; Pub. L. 96–54, §2(a)(27), Aug. 14, 1979, 93 Stat. 383; Pub. L. 98–615, title II, §204(a)(1), Nov. 8, 1984, 98 Stat. 3216; Pub. L. 99–251, title III, §306(b), Feb. 27, 1986, 100 Stat. 27; Pub. L. 101–508, title VII, §7202(d), Nov. 5, 1990, 104 Stat. 1388–335; Pub. L. 103–89, §3(b)(1)(G), Sept. 30, 1993, 107 Stat. 982; Pub. L. 104–186, title II, §215(4), Aug. 20, 1996, 110 Stat. 1745; Pub. L. 105–85, div. A, title XI, §1104(a), Nov. 18, 1997, 111 Stat. 1923; Pub. L. 105–393, title II, §223, Nov. 13, 1998, 112 Stat. 3626; Pub. L. 107–171, title X, §10701, May 13, 2002, 116 Stat. 515; Pub. L. 108–178, §4(a), Dec. 15, 2003, 117 Stat. 2640; Pub. L. 108–411, title III, §301(a)(3), Oct. 30, 2004, 118 Stat. 2315; Pub. L. 110–181, div. A, title XI, §1114, Jan. 28, 2008, 122 Stat. 360.)
 
@@ -118,35 +118,35 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-2008—Subsec. (f). Pub. L. 110–181 designated first sentence as par. (1), substituted “does not exceed—” for “does not exceed the highest previous rate of basic pay received by that employee during the employee's service described in section 2105(c).”, added subpars. (A) to (C), and designated second sentence as par. (2).
+<b>2008</b>—Subsec. (f). Pub. L. 110–181 designated first sentence as par. (1), substituted “does not exceed—” for “does not exceed the highest previous rate of basic pay received by that employee during the employee's service described in section 2105(c).”, added subpars. (A) to (C), and designated second sentence as par. (2).
 
-2004—Subsec. (b). Pub. L. 108–411, §301(a)(3)(A), inserted concluding provisions.
+<b>2004</b>—Subsec. (b). Pub. L. 108–411, §301(a)(3)(A), inserted concluding provisions.
 
 Subsec. (g). Pub. L. 108–411, §301(a)(3)(B), added subsec. (g).
 
-2003—Subsec. (a). Pub. L. 108–178 substituted “section 14306(a)(2) of title 40” for “section 106(2) of the Appalachian Regional Development Act of 1965 (40 U.S.C. App.)”.
+<b>2003</b>—Subsec. (a). Pub. L. 108–178 substituted “section 14306(a)(2) of title 40” for “section 106(2) of the Appalachian Regional Development Act of 1965 (40 U.S.C. App.)”.
 
-2002—Subsec. (e). Pub. L. 107–171 added subsec. (e) and struck out former subsec. (e) which read as follows: “An employee of a county committee established pursuant to section 590h(b) of title 16 may, upon appointment to a position subject to this subchapter, have his initial rate of basic pay fixed at the minimum rate of the appropriate grade, or at any step of such grade that does not exceed the highest previous rate of basic pay received by him during service with such county committee.”
+<b>2002</b>—Subsec. (e). Pub. L. 107–171 added subsec. (e) and struck out former subsec. (e) which read as follows: “An employee of a county committee established pursuant to section 590h(b) of title 16 may, upon appointment to a position subject to this subchapter, have his initial rate of basic pay fixed at the minimum rate of the appropriate grade, or at any step of such grade that does not exceed the highest previous rate of basic pay received by him during service with such county committee.”
 
-1998—Subsec. (a). Pub. L. 105–393 substituted “the Appalachian Regional Development Act of 1965 (40 U.S.C. App.)” for “title 40, appendix, or by a regional commission established pursuant to section 3182 of title 42, under section 3186(a)(2) of that title”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–393 substituted “the Appalachian Regional Development Act of 1965 (40 U.S.C. App.)” for “title 40, appendix, or by a regional commission established pursuant to section 3182 of title 42, under section 3186(a)(2) of that title”.
 
-1997—Subsec. (d). Pub. L. 105–85 substituted “an amount determined under regulations which the Secretary of Defense shall prescribe for the determination of the yearly rate of pay of the position. The amount by which a rate of pay is increased under the regulations may not exceed the amount equal to 20 percent of that rate of pay.” for “20 percent to determine the yearly rate of pay of the position.”
+<b>1997</b>—Subsec. (d). Pub. L. 105–85 substituted “an amount determined under regulations which the Secretary of Defense shall prescribe for the determination of the yearly rate of pay of the position. The amount by which a rate of pay is increased under the regulations may not exceed the amount equal to 20 percent of that rate of pay.” for “20 percent to determine the yearly rate of pay of the position.”
 
-1996—Subsec. (c). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk”.
+<b>1996</b>—Subsec. (c). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk”.
 
-1993—Subsec. (c)(2). Pub. L. 103–89, §3(b)(1)(G)(i), substituted “step” for “step, or for an employee appointed to a position covered by the performance management and recognition system established under chapter 54 of this title, any dollar amount,”.
+<b>1993</b>—Subsec. (c)(2). Pub. L. 103–89, §3(b)(1)(G)(i), substituted “step” for “step, or for an employee appointed to a position covered by the performance management and recognition system established under chapter 54 of this title, any dollar amount,”.
 
 Subsecs. (f), (g). Pub. L. 103–89, §3(b)(1)(G)(ii), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: “In the case of an employee covered by the performance management and recognition system established under chapter 54 of this title, all references in this section to ‘two steps’ or ‘two step-increases’ shall be deemed to mean 6 percent.”
 
-1990—Subsec. (g). Pub. L. 101–508 added subsec. (g).
+<b>1990</b>—Subsec. (g). Pub. L. 101–508 added subsec. (g).
 
-1986—Subsec. (e). Pub. L. 99–251 substituted “may, upon appointment to a position” for “may upon appointment to a position under the Department of Agriculture,”.
+<b>1986</b>—Subsec. (e). Pub. L. 99–251 substituted “may, upon appointment to a position” for “may upon appointment to a position under the Department of Agriculture,”.
 
-1984—Subsecs. (c)(2), (f). Pub. L. 98–615 substituted “the performance management and recognition system established under chapter 54” for “the merit pay system established under section 5402”.
+<b>1984</b>—Subsecs. (c)(2), (f). Pub. L. 98–615 substituted “the performance management and recognition system established under chapter 54” for “the merit pay system established under section 5402”.
 
-1979—Subsec. (a). Pub. L. 96–54 substituted “106(2)” for “106(a)” and “3186(a)(2)” for “3186(2)”.
+<b>1979</b>—Subsec. (a). Pub. L. 96–54 substituted “106(2)” for “106(a)” and “3186(a)(2)” for “3186(2)”.
 
-1978—Subsec. (a). Pub. L. 95–454, §906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–454, §906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
 
 Subsec. (b). Pub. L. 95–454, §801(a)(3)(F), substituted “subchapter VI of this chapter” for “section 5337 of this title” wherever appearing.
 
@@ -156,17 +156,17 @@ Subsecs. (d) to (f). Pub. L. 95–454, §801(a)(2), (3)(G), redesignated subsecs
 
 Pub. L. 95–454, §503(f)(2), added a new subsec. (f).
 
-1968—Subsec. (a). Pub. L. 90–623, §1(6), substituted “title 40, appendix” for “the Appalachian Regional Development Act of 1965”, “section 3182 of title 42, under section 3186(2) of that title” for “section 502 of the Public Works and Economic Development Act of 1965, under section 506(2) of such Act”, and “6” for “six”.
+<b>1968</b>—Subsec. (a). Pub. L. 90–623, §1(6), substituted “title 40, appendix” for “the Appalachian Regional Development Act of 1965”, “section 3182 of title 42, under section 3186(2) of that title” for “section 502 of the Public Works and Economic Development Act of 1965, under section 506(2) of such Act”, and “6” for “six”.
 
 Subsec. (f). Pub. L. 90–623, §1(24), substituted “section 590h(b) of title 16” for “section 8(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b))”.
 
 Pub. L. 90–367 added subsec. (f).
 
-1967—Subsec. (a). Pub. L. 90–103 provided for treatment as a transfer from a position in the executive branch to which this subchapter does not apply of certain regional commission employees who were Federal employees immediately prior to employment by a commission and were employed within six months after separation from the commission in a position subject to this subchapter.
+<b>1967</b>—Subsec. (a). Pub. L. 90–103 provided for treatment as a transfer from a position in the executive branch to which this subchapter does not apply of certain regional commission employees who were Federal employees immediately prior to employment by a commission and were employed within six months after separation from the commission in a position subject to this subchapter.
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–411 effective on the first day of the first applicable pay period beginning on or after the 180th day after Oct. 30, 2004, with provisions relating to conversion rules, see section 301(d) of Pub. L. 108–411, set out as a note under section 5363 of this title.
+Amendment by Pub. L. 108–411 effective on the first day of the first applicable pay period beginning on orafter the 180th day after Oct. 30, 2004, with provisions relating to conversion rules, see section 301(d) of Pub. L. 108–411, set out as a note under section 5363 of this title.
 
 #### Effective Date of 2003 Amendment
 

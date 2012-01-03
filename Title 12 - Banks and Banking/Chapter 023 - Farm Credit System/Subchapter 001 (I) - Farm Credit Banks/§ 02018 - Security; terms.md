@@ -36,7 +36,7 @@
 
 Loans, other than real estate loans, and discounts made under the provisions of this subchapter shall be repayable in not more than 7 years (15 years if made to producers or harvesters of aquatic products) from the time that such are made or discounted by the Farm Credit Bank, except that the Board of Directors, under regulations of the Farm Credit Administration, may approve policies permitting loans, advances, or discounts (other than those made to producers or harvesters of aquatic products) to be repayable in not more than 10 years from the time that such are made or discounted by such bank.
 
-(Pub. L. 92–181, title I, §1.10, as added Pub. L. 100–233, title IV, §401, Jan. 6, 1988, 101 Stat. 1627;amended Pub. L. 100–399, title IV, §401(h), (i), Aug. 17, 1988, 102 Stat. 996; Pub. L. 104–105, title II, §§202, 203, Feb. 10, 1996, 110 Stat. 172.)
+(Pub. L. 92–181, title I, §1.10, as added Pub. L. 100–233, title IV, §401, Jan. 6, 1988, 101 Stat. 1627; amended Pub. L. 100–399, title IV, §401(h), (i), Aug. 17, 1988, 102 Stat. 996; Pub. L. 104–105, title II, §§202, 203, Feb. 10, 1996, 110 Stat. 172.)
 
 #### Prior Provisions
 
@@ -44,13 +44,13 @@ A prior section 2018, Pub. L. 92–181, title I, §1.10, Dec. 10, 1971, 85 Stat.
 
 #### Amendments
 
-1996—Subsec. (a)(1)(A). Pub. L. 104–105, §202(b), substituted “subparagraphs (C) and (D)” for “paragraphs (2) and (3)”.
+<b>1996</b>—Subsec. (a)(1)(A). Pub. L. 104–105, §202(b), substituted “subparagraphs (C) and (D)” for “paragraphs (2) and (3)”.
 
 Subsec. (a)(1)(D). Pub. L. 104–105, §202(a), added subpar. (D).
 
 Subsec. (a)(5). Pub. L. 104–105, §203, struck out heading and text of par. (5). Text read as follows: “Each Farm Credit Bank shall require a financial statement from each borrower at least once every 3 years, or during such shorter period of time as may be required under regulations of the Farm Credit Administration.”
 
-1988—Subsec. (a)(2). Pub. L. 100–399, §401(h)(1), substituted “prescribed by regulations of” for “approved by”.
+<b>1988</b>—Subsec. (a)(2). Pub. L. 100–399, §401(h)(1), substituted “prescribed by regulations of” for “approved by”.
 
 Subsec. (a)(3). Pub. L. 100–399, §401(h)(2), substituted “under standards” for “under appraisal standards” and “in accordance with regulations of” for “and approved by”.
 

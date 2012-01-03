@@ -34,7 +34,7 @@ The purposes of this chapter are to—
 
 &emsp;(3) authorize such other actions as are necessary to ensure effective child protection in Indian country;
 
-&emsp;(4) establish the Indian Child Abuse Prevention and Treatment Grant Program to providefunds for the establishment on Indian reservations of treatment programs for victims of child sexual abuse;
+&emsp;(4) establish the Indian Child Abuse Prevention and Treatment Grant Program to provide funds for the establishment on Indian reservations of treatment programs for victims of child sexual abuse;
 
 &emsp;(5) provide for technical assistance and training related to the investigation and treatment of cases of child abuse and neglect;
 

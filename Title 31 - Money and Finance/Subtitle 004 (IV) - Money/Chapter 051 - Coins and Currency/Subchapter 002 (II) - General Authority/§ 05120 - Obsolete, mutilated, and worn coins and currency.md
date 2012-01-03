@@ -66,3 +66,7 @@ In subsection (c), the word “currency” is substituted for “currency . . 
 
 All assets and liabilities of Coinage Profit Fund and Coinage Metal Fund transferred to United States Mint Public Enterprise Fund and both coinage funds to cease to exist as separate funds as their activities and functions are subsumed under and subject to United States Mint Public Enterprise Fund, see section 5136 of this title.
 
+#### Threshold for Requiring Taxpayer Identification Number
+
+Pub. L. 112–74, div. C, title I, §117, Dec. 23, 2011, 125 Stat. 891, provided that: “In the current fiscal year and each fiscal year hereafter, any person who forwards to the Bureau of Engraving and Printing a mutilated paper currency claim equal to or exceeding $10,000 for redemption will be required to provide the Bureau their taxpayer identification number.”
+

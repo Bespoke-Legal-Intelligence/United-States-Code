@@ -38,7 +38,7 @@ A group health plan, and a health insurance issuer that offers group or individu
 
 #### (d) No change in benefits
 
-A dependent child whose benefits are continued under this section shall be entitled to the same benefits as if (during the medically necessary leave of absence) the child continued tobe a covered student at the institution of higher education and was not on a medically necessary leave of absence.
+A dependent child whose benefits are continued under this section shall be entitled to the same benefits as if (during the medically necessary leave of absence) the child continued to be a covered student at the institution of higher education and was not on a medically necessary leave of absence.
 
 #### (e) Continued application in case of changed coverage
 
@@ -64,7 +64,7 @@ Section was formerly classified to section 300gg–7 of this title prior to renu
 
 Subsec. (b)(1). Pub. L. 111–148, §1563(c)(6)(B)(i), formerly §1562(c)(6)(B)(i), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted “or a health insurance issuer that offers group or individual health insurance coverage” for “or a health insurance issuer that provides health insurance coverage in connection with a group health plan” in introductory provisions.
 
-Subsec. (b)(2). Pub. L. 111–148, §1563(c)(6)(B)(ii), formerly §1562(c)(6)(B)(ii), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted “individual health insurance coverage” for “health insurance coverage offered in connection with the plan” in introductory provisions.
+Subsec. (b)(2). Pub. L. 111–148, §1563(c)(6)(B)(ii), formerly §1562(c)(6)(B)(ii), as renumbered by Pub. L.111–148, §10107(b)(1), substituted “individual health insurance coverage” for “health insurance coverage offered in connection with the plan” in introductory provisions.
 
 Subsec. (b)(3). Pub. L. 111–148, §1563(c)(6)(B)(iii), formerly §1562(c)(6)(B)(iii), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted “individual health insurance coverage” for “health insurance coverage offered by an issuer in connection with such plan”.
 

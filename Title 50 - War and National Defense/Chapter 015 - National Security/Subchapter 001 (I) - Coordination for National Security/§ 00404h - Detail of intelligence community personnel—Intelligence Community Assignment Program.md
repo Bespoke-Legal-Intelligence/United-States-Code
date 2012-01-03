@@ -4,7 +4,7 @@
 
 (1) Notwithstanding any other provision of law, the head of a department with an element in the intelligence community or the head of an intelligence community agency or element may detail any employee within that department, agency, or element to serve in any position in the Intelligence Community Assignment Program on a reimbursable or a nonreimbursable basis.
 
-(2) Nonreimbursable details may be for such periods as are agreed to between the heads of the parent and host agencies, up to a maximum of three years, except that such details may be extended for a period not to exceed one year when the heads of the parent and host agencies determine that such extension is in the public interest.
+(2) Nonreimbursable details may be for such periods as are agreed to between the heads of the parent and host agencies, up to a maximumof three years, except that such details may be extended for a period not to exceed one year when the heads of the parent and host agencies determine that such extension is in the public interest.
 
 #### (b) Benefits, allowances, travel, incentives
 
@@ -38,7 +38,7 @@ GS–15 of the General Schedule, referred to in subsec. (b)(2)(F), is set out un
 
 <b>2004</b>—Subsec. (b)(2)(A). Pub. L. 108–458 substituted “Director of National Intelligence” for “Director of Central Intelligence” in introductory provisions.
 
-<b>2002</b>—Subsec. (c). Pub. L. 107–306 struck out heading and text of subsec. (c). Text read as follows: “Not later than March 1, 1999, and annually thereafter, the Director of Central Intelligence shall submit to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate a report describing the detail of intelligence community personnel pursuant to subsection (a) of this section during the 12-month periodending on the date of the report. The report shall set forth the number of personnel detailed, the identity of parent and host agencies or elements, and an analysis of the benefits of the details.”
+<b>2002</b>—Subsec. (c). Pub. L. 107–306 struck out heading and text of subsec. (c). Text read as follows: “Not later than March 1, 1999, and annually thereafter, the Director of Central Intelligence shall submit to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate a report describing the detail of intelligence community personnel pursuant to subsection (a) of this section during the 12-month period ending on the date of the report. The report shall set forth the number of personnel detailed, the identity of parent and host agencies or elements, and an analysis of the benefits of the details.”
 
 <b>2001</b>—Subsec. (b). Pub. L. 107–108 designated existing provisions as par. (1) and added par. (2).
 

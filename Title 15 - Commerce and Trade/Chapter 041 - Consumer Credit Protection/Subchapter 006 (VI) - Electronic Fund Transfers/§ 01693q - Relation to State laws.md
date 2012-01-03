@@ -1,12 +1,8 @@
 ### §1693q. Relation to State laws
 
-This subchapter does not annul, alter, or affect the laws of any State relating to electronic fund transfers, dormancy fees, inactivity charges or fees, service fees, or expiration dates of gift certificates, store gift cards, or general-use prepaid cards, except to the extent that those laws are inconsistent with the provisions of this subchapter, and then only to the extent of the inconsistency. A State law is not inconsistent with this subchapter if the protection such law affords any consumer is greater than the protection afforded by this subchapter. The Board shall, upon its own motion or upon the request of any financial institution, State, or other interested party, submitted in accordance with procedures prescribed in regulations of the Board, determine whether a State requirement is inconsistent or affords greater protection. If the Board determines that a State requirement is inconsistent, financial institutions shall incur no liability under the law of that State for a good faith failure to comply with that law, notwithstanding that such determination is subsequently amended, rescinded, or determined by judicial or other authority to be invalid for any reason. This subchapter does not extend the applicability of any such law to any class of persons or transactions to which it would not otherwise apply.
+This subchapter does not annul, alter, or affect the laws of any State relating to electronic fund transfers, dormancy fees, inactivity charges or fees, service fees, or expiration dates of gift certificates, store gift cards, or general-use prepaid cards, except to the extent that those laws are inconsistent with the provisions of this subchapter, and then only to the extent of the inconsistency. A State law is not inconsistent with this subchapter if the protection such law affords any consumer is greater than the protection afforded by this subchapter. The Bureau shall, upon its own motion or upon the request of any financial institution, State, or other interested party, submitted in accordance with procedures prescribed in regulations of the Bureau, determine whether a State requirement is inconsistent or affords greater protection. If the Bureau determines that a State requirement is inconsistent, financial institutions shall incur no liability under the law of that State for a good faith failure to comply with that law, notwithstanding that such determination is subsequently amended, rescinded, or determined by judicial or other authority to be invalid for any reason. This subchapter does not extend the applicability of any such law to any class of persons or transactions to which it would not otherwise apply.
 
 (Pub. L. 90–321, title IX, §922, formerly §919, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3741; renumbered §920 and amended Pub. L. 111–24, title IV, §§401(1), 402, May 22, 2009, 123 Stat. 1751, 1754; renumbered §921, renumbered §922, and amended Pub. L. 111–203, title X, §§1073(a)(3), 1075(a)(1), 1084(1), July 21, 2010, 124 Stat. 2060, 2068, 2081.)
-
-#### Amendment of Section
-
-<i>Pub. L. 111–203, title X, §§1084(1), 1100H, July 21, 2010, 124 Stat. 2081, 2113, provided that, ef</i><i>fective on the designated transfer date, this section is amended by striking “Board” each place that term appears and inserting “Bureau”. See Effective Date of 2010 Amendment note below.</i>
 
 #### Codification
 
@@ -19,6 +15,8 @@ Renumbering of section 919 of Pub. L. 90–321 as section 920 by section 401(1) 
 A prior section 922 of Pub. L. 90–321 was renumbered section 923 and is classified as an Effective Date note under section 1693 of this title.
 
 #### Amendments
+
+<b>2010</b>—Pub. L. 111–203, §1084(1), substituted “Bureau” for “Board” wherever appearing.
 
 <b>2009</b>—Pub. L. 111–24, §402, inserted “dormancy fees, inactivity charges or fees, service fees, or expiration dates of gift certificates, store gift cards, or general-use prepaid cards,” after “electronic fund transfers,”.
 

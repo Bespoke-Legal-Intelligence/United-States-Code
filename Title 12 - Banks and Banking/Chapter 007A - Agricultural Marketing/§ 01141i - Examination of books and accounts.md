@@ -10,9 +10,9 @@ Section was formerly classified to section 534 of Title 7, Agriculture.
 
 #### Amendments
 
-2004—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-1954—Act Aug. 30, 1954, repealed former second sentence which required the Comptroller General to make reports to Congress on examinations of Farm Credit Administration transactions under the agricultural marketing revolving fund, in violation of law, together with his recommendations. See chapter 91 of Title 31, Money and Finance.
+<b>1954</b>—Act Aug. 30, 1954, repealed former second sentence which required the Comptroller General to make reports to Congress on examinations of Farm Credit Administration transactions under the agricultural marketing revolving fund, in violation of law, together with his recommendations. See chapter 91 of Title 31, Money and Finance.
 
 #### Change of Name
 

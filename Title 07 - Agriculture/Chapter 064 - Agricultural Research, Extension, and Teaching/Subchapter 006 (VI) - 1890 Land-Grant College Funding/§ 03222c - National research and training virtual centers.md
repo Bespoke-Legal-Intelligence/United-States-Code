@@ -90,9 +90,9 @@ A prior section 1448 of Pub. L. 95–113, title XIV, Sept. 29, 1977, 91 Stat. 10
 
 #### Amendments
 
-2008—Subsecs. (a)(1), (f). Pub. L. 110–246, §7126, substituted “2012” for “2007”.
+<b>2008</b>—Subsecs. (a)(1), (f). Pub. L. 110–246, §7126, substituted “2012” for “2007”.
 
-2002—Pub. L. 107–171, §7110(b)(1), substituted “virtual” for “centennial” in section catchline.
+<b>2002</b>—Pub. L. 107–171, §7110(b)(1), substituted “virtual” for “centennial” in section catchline.
 
 Subsec. (a). Pub. L. 107–171, §7110(b)(2), substituted “virtual centers” for “centennial centers” in introductory provisions.
 
@@ -102,11 +102,11 @@ Subsec. (f). Pub. L. 107–171, §7110(a), substituted “2007” for “2002”
 
 Subsec. (g). Pub. L. 107–171, §7110(b)(2), substituted “virtual” for “centennial”.
 
-1998—Subsec. (a)(1). Pub. L. 105–185, §301(a)(10)(A), substituted “through 2002” for “and 1997”.
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–185, §301(a)(10)(A), substituted “through 2002” for “and 1997”.
 
 Subsec. (f). Pub. L. 105–185, §301(a)(10)(B), substituted “2002” for “1997”.
 
-1996—Subsec. (a)(1). Pub. L. 104–127, §814(1), inserted “, or fiscal years 1996 and 1997,” after “1995”.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–127, §814(1), inserted “, or fiscal years 1996 and 1997,” after “1995”.
 
 Subsec. (f). Pub. L. 104–127, §814(2), substituted “1997” for “1995”.
 

@@ -4,7 +4,7 @@
 
 #### (1) Authority
 
-&emsp;Except as otherwise provided in this section, the Corporation may conduct a pilot program submitted to and approved by the Board undersection 1508(h) of this title, or that is developed under subsection (b) of this section or section 1522 of this title, to evaluate whether a proposal or new risk management tool tested by the pilot program is suitable for the marketplace and addresses the needs of producers of agricultural commodities.
+&emsp;Except as otherwise provided in this section, the Corporation may conduct a pilot program submitted to and approved by the Board under section 1508(h) of this title, or that is developed under subsection (b) of this section or section 1522 of this title, to evaluate whether a proposal or new risk management tool tested by the pilot program is suitable for the marketplace and addresses the needs of producers of agricultural commodities.
 
 #### (2) Private coverage
 
@@ -94,7 +94,7 @@
 
 #### (9) Eligible producers
 
-&emsp;Any producer of a type of livestock covered by a pilot program under this subsection thatowns or operates a farm or ranch in a county selected as a location for that pilot program shall be eligible to participate in that pilot program.
+&emsp;Any producer of a type of livestock covered by a pilot program under this subsection that owns or operates a farm or ranch in a county selected as a location for that pilot program shall be eligible to participate in that pilot program.
 
 #### (10) Limitation on expenditures
 
@@ -192,7 +192,7 @@
 
 #### (2) Determination by Board
 
-&emsp;The Board shall approve a policy or plan of insurance proposed under paragraph (1) if, asdetermined by the Board, the policy or plan of insurance—
+&emsp;The Board shall approve a policy or plan of insurance proposed under paragraph (1) if, as determined by the Board, the policy or plan of insurance—
 
 &emsp;&emsp;(A) protects the interests of producers;
 
@@ -264,7 +264,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsecs. (a), (b), (d). Pub. L. 110–246, §12033(c)(2)(B), substituted “this subchapter” for “this chapter” wherever appearing.
+<b>2008</b>—Subsecs. (a), (b), (d). Pub. L. 110–246, §12033(c)(2)(B), substituted “this subchapter” for “this chapter” wherever appearing.
 
 Subsec. (f). Pub. L. 110–246, §12033(c)(2)(B), substituted “this subchapter” for “this chapter”.
 
@@ -272,7 +272,7 @@ Pub. L. 110–246, §12025(a), added subsec. (f).
 
 Subsecs. (g), (h). Pub. L. 110–246, §12025(a), added subsecs. (g) and (h).
 
-2002—Subsec. (e). Pub. L. 107–171 added subsec. (e).
+<b>2002</b>—Subsec. (e). Pub. L. 107–171 added subsec. (e).
 
 #### Effective Date of 2008 Amendment
 

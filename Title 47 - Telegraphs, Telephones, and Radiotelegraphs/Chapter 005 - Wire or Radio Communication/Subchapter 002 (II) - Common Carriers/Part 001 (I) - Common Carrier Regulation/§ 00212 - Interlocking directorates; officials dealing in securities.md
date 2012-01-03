@@ -4,6 +4,10 @@ It shall be unlawful for any person to hold the position of officer or director 
 
 (June 19, 1934, ch. 652, title II, §212, 48 Stat. 1074; Aug. 2, 1956, ch. 874, §1, 70 Stat. 931; Pub. L. 103–414, title III, §304(a)(2), Oct. 25, 1994, 108 Stat. 4296.)
 
+#### References in Text
+
+This chapter, referred to in text, was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–414 substituted “It shall” for “After sixty days from June 19, 1934, it shall”.

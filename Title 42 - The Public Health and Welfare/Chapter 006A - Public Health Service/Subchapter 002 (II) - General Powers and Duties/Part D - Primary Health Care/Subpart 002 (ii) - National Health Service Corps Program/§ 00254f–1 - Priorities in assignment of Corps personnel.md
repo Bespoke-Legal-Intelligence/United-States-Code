@@ -72,7 +72,7 @@ In approving applications made under section 254f of this title for the assignme
 
 #### (1) Determination of available Corps members
 
-&emsp;By April 1 of each calendar year, the Secretary shall determine the number of participants in the Scholarship Program who will be available for assignments under section 254f of this title during the program year beginning on July 1 of that calendar year.
+&emsp;By April 1 of each calendar year, the Secretary shall determine the number of participants in the Scholarship Program who will be available for assignments under section 254f ofthis title during the program year beginning on July 1 of that calendar year.
 
 #### (2) Determination of number of entities
 
@@ -120,7 +120,7 @@ Subsec. (d)(3). Pub. L. 107–251, §304(4)(D), added par. (3) and struck out he
 
 “(A) Not later than 30 days after the preparation of each list under paragraph (1), the Secretary shall notify entities specified for purposes of subparagraph (A) of such paragraph of the fact that the entities have been provided an authorization to receive assignments of Corps members in the event that Corps members are available for the assignments.
 
-“(B) In the case of individuals with respect to whom a period of obligated service under the Scholarship Program will begin during the period under subsection (f) of this section for which a list under paragraph (1) isprepared, the Secretary shall, not later than 30 days after the preparation of each such list, provide to such individuals the names of each of the entities specified for purposes of paragraph (1)(B)(i) that is appropriate to the medical specialty of the individuals.”
+“(B) In the case of individuals with respect to whom a period of obligated service under the Scholarship Program will begin during the period under subsection (f) of this section for which a list under paragraph (1) is prepared, the Secretary shall, not later than 30 days after the preparation of each such list, provide to such individuals the names of each of the entities specified for purposes of paragraph (1)(B)(i) that is appropriate to the medical specialty of the individuals.”
 
 Pub. L. 107–251, §304(4)(A), redesignated par. (2) as (3). Former par. (3) redesignated (4).
 

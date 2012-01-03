@@ -2,7 +2,7 @@
 
 #### (a) Formal entry
 
-Within 24 hours (or such other period of time as may be provided under subsection (c)(2) of this section) after the arrival at any port or place in the United States of—
+Within 24 hours (or such other period of time as may be provided under subsection (c)(2) ofthis section) after the arrival at any port or place in the United States of—
 
 &emsp;(1) any vessel from a foreign port or place;
 

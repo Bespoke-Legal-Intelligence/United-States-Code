@@ -178,7 +178,7 @@ Definitions.—In this section:
 
 &emsp;(1)
 
-Cost or pricing data.—The term “cost or pricing data” means all facts that, as of the date of agreement on the price of a contract (or the price of a contract modification), or, ifapplicable consistent with subsection (e)(1)(B), another date agreed upon between the parties, a prudent buyer or seller would reasonably expect to affect price negotiations significantly. Such term does not include information that is judgmental, but does include the factual information from which a judgment was derived.
+Cost or pricing data.—The term “cost or pricing data” means all facts that, as of the date of agreement on the price of a contract (or the price of a contract modification), or, if applicable consistent with subsection (e)(1)(B), another date agreed upon between the parties, a prudent buyer or seller would reasonably expect to affect price negotiations significantly. Such term does not include information that is judgmental, but does include the factual information from which a judgment was derived.
 
 &emsp;(2)
 
@@ -188,7 +188,7 @@ Subcontract.—The term “subcontract” includes a transfer of commercial item
 
 Commercial item.—The term “commercial item” has the meaning provided such term in section 103 of title 41.
 
-(Added Pub. L. 99–500, §101(c) \[title X, §952(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–166, and Pub. L. 99–591, §101(c) \[title X, §952(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–166; Pub. L. 99–661, div. A, title IX, formerly title IV, §952(a), Nov. 14, 1986, 100 Stat. 3945, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–180, div. A, title VIII, §804(a), (b), Dec. 4, 1987, 101 Stat. 1125; Pub. L. 101–510, div. A, title VIII, §803(a)(1), (d), Nov. 5, 1990, 104 Stat. 1589, 1590; Pub. L. 102–25, title VII, §701(b), (f)(8), Apr. 6, 1991, 105 Stat. 113, 115; Pub. L. 102–190, div. A, title VIII, §804(a)–(c)(1), title X, §1061(a)(9), Dec. 5, 1991, 105 Stat. 1415, 1416, 1472; Pub. L. 103–355, title I, §§1201–1209, Oct. 13, 1994, 108 Stat. 3273–3277; Pub. L. 104–106, div. D, title XLII, §4201(a), title XLIII, §4321(a)(2), (b)(7), Feb. 10, 1996, 110 Stat. 649, 671, 672; Pub. L. 104–201, div. A, title X, §1074(a)(12), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 105–85, div. A, title X, §1073(a)(46), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 105–261, div. A, title VIII, §§805(a), 808(a), Oct. 17, 1998, 112 Stat. 2083, 2085; Pub. L. 108–375, div. A, title VIII, §818(a), Oct. 28, 2004, 118 Stat. 2015; Pub. L. 110–181, div. A, title VIII, §814, Jan. 28, 2008, 122 Stat. 222; Pub. L. 111–350, §5(b)(15), Jan. 4, 2011, 124 Stat. 3843.)
+(Added Pub. L. 99–500, §101(c) \[title X, §952(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–166, and Pub. L. 99–591, §101(c) \[title X, §952(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–166; Pub. L. 99–661, div. A, title IX, formerly title IV, §952(a), Nov. 14, 1986, 100 Stat. 3945, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–180, div. A, title VIII, §804(a), (b),Dec. 4, 1987, 101 Stat. 1125; Pub. L. 101–510, div. A, title VIII, §803(a)(1), (d), Nov. 5, 1990, 104 Stat. 1589, 1590; Pub. L. 102–25, title VII, §701(b), (f)(8), Apr. 6, 1991, 105 Stat. 113, 115; Pub. L. 102–190, div. A, title VIII, §804(a)–(c)(1), title X, §1061(a)(9), Dec. 5, 1991, 105 Stat. 1415, 1416, 1472; Pub. L. 103–355, title I, §§1201–1209, Oct. 13, 1994, 108 Stat. 3273–3277; Pub. L. 104–106, div. D, title XLII, §4201(a), title XLIII, §4321(a)(2), (b)(7), Feb. 10, 1996, 110 Stat. 649, 671, 672; Pub. L. 104–201, div. A, title X, §1074(a)(12), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 105–85, div. A, title X, §1073(a)(46), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 105–261, div. A, title VIII, §§805(a), 808(a), Oct. 17, 1998, 112 Stat. 2083, 2085; Pub. L. 108–375, div. A, title VIII, §818(a), Oct. 28, 2004, 118 Stat. 2015; Pub. L. 110–181, div. A, title VIII, §814, Jan. 28, 2008, 122 Stat. 222; Pub. L. 111–350, §5(b)(15), Jan. 4, 2011, 124 Stat. 3843.)
 
 #### References in Text
 
@@ -248,7 +248,7 @@ Subsec. (a)(6). Pub. L. 103–355, §1201(c), struck out subpar. (A) designation
 
 Subsec. (a)(7). Pub. L. 103–355, §1201(b), added par. (7).
 
-Subsec. (b). Pub. L. 103–355, §1202(a), as amended by Pub. L. 104–106, §4321(a)(2), amended heading and text ofsubsec. (b) generally. Prior to amendment, text read as follows: “This section need not be applied to a contract or subcontract—
+Subsec. (b). Pub. L. 103–355, §1202(a), as amended by Pub. L. 104–106, §4321(a)(2), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “This section need not be applied to a contract or subcontract—
 
 &emsp;“(1) for which the price agreed upon is based on—
 
@@ -328,7 +328,7 @@ Subsec. (a)(1)(B). Pub. L. 101–510, §803(a)(1)(B), substituted “$500,000 (o
 
 Subsec. (a)(1)(C)(i). Pub. L. 101–510, §803(a)(1)(C), substituted “$500,000 or, in the case of a subcontract to be awarded after December 31, 1995, $100,000” for “$100,000”.
 
-Subsec. (a)(1)(D). Pub. L. 101–510, §803(a)(1)(D), substituted “$500,000 (or such lesser amount as may be prescribed by the head of the agency) or, in the case of achange or modification to be made after December 31, 1995, $100,000” for “$100,000”.
+Subsec. (a)(1)(D). Pub. L. 101–510, §803(a)(1)(D), substituted “$500,000 (or such lesser amount as may be prescribed by the head of the agency) or, in the case of a change or modification to be made after December 31, 1995, $100,000” for “$100,000”.
 
 Subsec. (c). Pub. L. 101–510, §803(d), inserted at end “In any case in which the head of the agency requires such data to be submitted under this subsection, the head of the agency shall document in writing the reasons for such requirement.”
 
@@ -422,7 +422,7 @@ Sunset Date.—This section shall not be in effect on and after April 1, 2015.�
 
 #### Grants of Exceptions to Cost or Pricing Data Certification Requirements and Waivers of Cost Accounting Standards
 
-Pub. L. 107–314, div. A, title VIII, §817, Dec. 2, 2002, 116 Stat. 2610, provided that:
+Pub. L. 107–314, div. A, title VIII, §817, Dec. 2, 2002, 116 Stat. 2610, as amended by Pub. L. 112–81, div. A, title VIII, §809(a), Dec. 31, 2011, 125 Stat. 1490, provided that:
 
 “(a)
 
@@ -444,13 +444,15 @@ Applicability of New Guidance.—The guidance issued under subsection (a) shall 
 
 “(d)
 
-Annual Report on Both Commercial Item and Exceptional Case Exceptions and Waivers With Price or Value Greater Than $15,000,000.—(1) The Secretary of Defense shall transmit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] promptly after the end of each fiscal year a report on commercial item exceptions, and exceptional case exceptions and waivers, described in paragraph (2) that were granted during that fiscal year.
+Annual Report on Both Commercial Item and Exceptional Case Exceptions and Waivers.—(1) The Secretary of Defense shall transmit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] promptly after the end of each fiscal year a report on commercial item exceptions, and exceptional case exceptions and waivers, described in paragraph (2) that were granted during that fiscal year.
 
 “(2) The report for a fiscal year shall include—
 
-&emsp;“(A) with respect to any commercial item exception granted in the case of a contract, subcontract, or contract or subcontract modification that is expected to have a price of $15,000,000 or more, an explanation of the basis for the determination that the products or services to be purchased are commercial items, including an identification of the specific steps taken to ensure price reasonableness; and
+&emsp;“(A) with respect to any commercial item exception granted in the case of a contract, subcontract, or contract or subcontract modification that is expected to have a price of $15,000,000 or more, an explanation of the basis for the determination that the products or services to be purchased are commercial items, including an identification of the specific steps taken to ensure price reasonableness;
 
-&emsp;“(B) with respect to any exceptional case exception or waiver granted in the case of a contract or subcontract that is expected to have a value of $15,000,000 or more, an explanation of the basis for the determination described in subsection (b), including an identification of the specific steps taken to ensure that the price was fair and reasonable.
+&emsp;“(B) with respect to any exceptional case exception or waiver granted in the case of a contract or subcontract that is expected to have a value of $15,000,000 or more, an explanation of the basis for the determination described in subsection (b), including an identification of the specific steps taken to ensure that the price was fair and reasonable; and
+
+&emsp;“(C) with respect to any determination pursuant to section 2304a(d)(3)(D) of title 10, United States Code, that because of exceptional circumstances it is necessary in the public interest to award a task or delivery order contract with an estimated value in excess of $100,000,000 to a single source, an explanation of the basis for the determination.
 
 “(e)
 

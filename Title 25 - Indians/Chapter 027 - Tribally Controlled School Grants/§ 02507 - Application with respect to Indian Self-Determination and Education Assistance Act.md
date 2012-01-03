@@ -68,7 +68,7 @@ No funds may be provided under any contract entered into under the Indian Self-D
 
 #### (e) Exceptions, problems, and disputes
 
-Any exception or problem cited in an audit conducted pursuant to section 2505(b)(1) of this title, any dispute regarding a grant authorized to be made pursuant to this chapter or any amendment to such grant, and any dispute involving an administrative cost grant under section 2008 of this title shall be administered under the provisions governing such exceptions, problems, or disputes in the case of contracts under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\]. The Equal Access to Justice Act shall apply to administrative appeals filed after September 8, 1988, by grantees regarding a grant under this chapter, including an administrative cost grant.
+Any exception or problem cited in an audit conducted pursuant to section 2505(b)(1) of this title, any dispute regarding a grant authorized to be made pursuant to this chapter or any amendment to such grant, and any dispute involving an administrative cost grant under section 2008 of this title shall be administered under the provisions governing such exceptions, problems, or disputes in the case of contracts under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\]. TheEqual Access to Justice Act shall apply to administrative appeals filed after September 8, 1988, by grantees regarding a grant under this chapter, including an administrative cost grant.
 
 (Pub. L. 100–297, title V, §5208, as added Pub. L. 107–110, title X, §1043, Jan. 8, 2002, 115 Stat. 2076.)
 
@@ -80,7 +80,7 @@ The Equal Access to Justice Act, referred to in subsec. (e), is title II of Pub.
 
 #### Prior Provisions
 
-A prior section 2507, Pub. L. 100–297, title V, §5208, Apr. 28, 1988, 102 Stat. 393; Pub. L. 100–427, §13, Sept. 9, 1988, 102 Stat. 1609; Pub. L. 103–382, title III, §382(c), Oct.20, 1994, 108 Stat. 4017, related to payment of grants and investment of funds, prior to repeal by Pub. L. 107–110, title X, §1043, Jan. 8, 2002, 115 Stat. 2063. See section 2506 of this title.
+A prior section 2507, Pub. L. 100–297, title V, §5208, Apr. 28, 1988, 102 Stat. 393; Pub. L. 100–427, §13, Sept. 9, 1988, 102 Stat. 1609; Pub. L. 103–382, title III, §382(c), Oct. 20, 1994, 108 Stat. 4017, related to payment of grants and investment of funds, prior to repeal by Pub. L. 107–110, title X, §1043, Jan. 8, 2002, 115 Stat. 2063. See section 2506 of this title.
 
 #### Effective Date
 

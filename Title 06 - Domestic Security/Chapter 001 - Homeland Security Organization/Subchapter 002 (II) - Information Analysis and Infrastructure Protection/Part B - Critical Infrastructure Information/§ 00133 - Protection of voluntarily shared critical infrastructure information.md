@@ -96,7 +96,7 @@ The Federal Advisory Committee Act, referred to in subsec. (b), is Pub. L. 92–
 
 #### Amendments
 
-2004—Subsec. (a)(1)(D)(ii)(II). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (a)(1)(D)(ii)(II). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

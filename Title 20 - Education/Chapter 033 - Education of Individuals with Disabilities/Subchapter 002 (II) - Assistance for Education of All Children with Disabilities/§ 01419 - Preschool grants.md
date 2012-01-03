@@ -164,7 +164,7 @@ Each State shall use any funds the State reserves under subsection (d) and does 
 
 #### (h) Subchapter III inapplicable
 
-Subchapter III does not apply to any child with a disability receiving a free appropriate public education, in accordance with this subchapter, with funds received under this section.
+Subchapter III does not apply to any child with a disability receiving a free appropriatepublic education, in accordance with this subchapter, with funds received under this section.
 
 #### (i) State defined
 

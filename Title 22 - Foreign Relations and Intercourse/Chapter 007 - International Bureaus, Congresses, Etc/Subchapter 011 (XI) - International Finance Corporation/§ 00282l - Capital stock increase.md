@@ -12,7 +12,7 @@
 
 #### (2) Prior appropriation required
 
-&emsp;The subscription authority provided in paragraph (1) shall be effective only to such extentor in such amounts as are provided in advance in appropriations Acts.
+&emsp;The subscription authority provided in paragraph (1) shall be effective only to such extent or in such amounts as are provided in advance in appropriations Acts.
 
 #### (b) Limitations on authorization of appropriations
 

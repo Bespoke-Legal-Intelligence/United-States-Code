@@ -12,7 +12,7 @@ Any packer or swine contractor, or any officer, director, agent, or employee of 
 
 #### Amendments
 
-2002—Pub. L. 107–171 substituted “packer or swine contractor” for “packer” in two places in introductory provisions.
+<b>2002</b>—Pub. L. 107–171 substituted “packer or swine contractor” for “packer” in two places in introductory provisions.
 
 #### Change of Name
 

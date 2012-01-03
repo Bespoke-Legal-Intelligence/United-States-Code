@@ -26,7 +26,7 @@ For the purpose of this chapter—
 
 &emsp;(12) “cooperative unit” means a part of the cooperative property which is subject to exclusive use and possession by a cooperative unit owner. A unit may be improvements, land, or land and improvements together, as specified in the cooperative documents;
 
-&emsp;(13) “cooperative unit owner” means the person having a membership or share interest in the cooperative association and holding a lease, or other muniment of title or possession, of a cooperative unit that is granted by the cooperative association as the owner of the cooperative property;
+&emsp;(13) “cooperative unit owner” means the person having a membership or share interest in the cooperative association and holding alease, or other muniment of title or possession, of a cooperative unit that is granted by the cooperative association as the owner of the cooperative property;
 
 &emsp;(14) “developer” means (A) any person who offers to sell or sells his interest in a cooperative or condominium unit not previously conveyed, or (B) any successor of such person who offers to sell or sells his interests in units in a cooperative or condominium project and who has the authority to exercise special developer control in the project including the right to: add, convert, or withdraw real estate from the cooperative or condominium project, and maintain sales offices, management offices and rental units; exercise easements through common elements for the purpose of making improvements within the cooperative or condominium; or exercise control of the owners’ association;
 

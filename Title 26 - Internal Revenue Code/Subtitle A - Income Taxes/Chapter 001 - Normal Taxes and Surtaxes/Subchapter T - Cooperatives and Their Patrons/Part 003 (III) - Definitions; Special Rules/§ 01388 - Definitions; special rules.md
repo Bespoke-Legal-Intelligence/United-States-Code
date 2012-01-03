@@ -60,7 +60,7 @@ For purposes of this subchapter, the term “written notice of allocation” mea
 
 #### (4) Qualified check
 
-&emsp;For purposes of this subchapter, the term “qualified check” means only a check (or other instrument which is redeemable in money) which is paid as a part of a patronage dividend, or as a part of a payment described in section 1382(c)(2)(A), to a distributee who has not given consent as provided in paragraph (2)(A) or (B) with respect to such patronage dividend or payment, and on which there is clearly imprinted a statement that the endorsement and cashing of the check (or other instrument) constitutes the consent of the payee to include in his gross income, as provided in the Federal income tax laws, the stated dollar amount of the written notice of allocation which is a part of the patronage dividend or payment of which such qualified check is also a part. Such term does not include any check (or other instrument) which is paid as part of a patronage dividend or payment which does not include a written notice of allocation (other than a written notice of allocation described in paragraph (1)(A)).
+&emsp;For purposes of this subchapter, the term “qualified check” means only a check (or other instrument which is redeemable in money) which is paid as a part of a patronage dividend, or as a part of a payment described in section 1382(c)(2)(A), to a distributee who has not given consent as provided in paragraph (2)(A) or (B) with respect to such patronage dividend or payment, and on which there is clearly imprinted a statement that the endorsement and cashing of the check (or other instrument) constitutes the consent of the payee to include in his gross income, as provided in the Federal income tax laws, the stated dollar amount of the written notice of allocation which is a part of the patronage dividend or payment of which such qualified check is also a part. Such term does not include any check (or other instrument) which is paid as part of a patronage dividend or payment whichdoes not include a written notice of allocation (other than a written notice of allocation described in paragraph (1)(A)).
 
 #### (d) Nonqualified written notice of allocation
 
@@ -134,7 +134,7 @@ For purposes of this subchapter, in the case of any organization to which part I
 
 &emsp;&emsp;(A) such earnings are properly allocable to periods after the date of acquisition, and
 
-&emsp;&emsp;(B) such earnings could have been offset by such losses if such earnings and losses had been derived from allocation units of the same organization.
+&emsp;&emsp;(B) such earnings could have been offset by such losses if such earnings and losses hadbeen derived from allocation units of the same organization.
 
 #### (3) Notice requirements
 
@@ -146,7 +146,7 @@ For purposes of this subchapter, in the case of any organization to which part I
 
 &emsp;&emsp;&emsp;(ii) states generally the identity of the offsetting allocation units, and
 
-&emsp;&emsp;&emsp;(iii) states briefly what rights, if any, its patrons may have to additional financialinformation of such organization under terms of its charter, articles of incorporation, or bylaws, or under any provision of law.
+&emsp;&emsp;&emsp;(iii) states briefly what rights, if any, its patrons may have to additional financial information of such organization under terms of its charter, articles of incorporation, or bylaws, or under any provision of law.
 
 #### (B) Certain information need not be provided
 

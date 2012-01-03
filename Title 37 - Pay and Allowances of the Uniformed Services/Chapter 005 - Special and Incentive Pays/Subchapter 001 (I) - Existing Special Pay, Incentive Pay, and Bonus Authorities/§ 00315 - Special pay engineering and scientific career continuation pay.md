@@ -34,7 +34,7 @@
 
 <b>1987</b>—Subsec. (a). Pub. L. 100–26 inserted “the term” after “In this section,”.
 
-<b>1985</b>—Subsec. (a). Pub. L. 99–145, §637(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a)read as follows: “In this section, the term ‘engineering or scientific duty’ means service performed by an officer that requires an engineering or science degree and that requires a skill designated under regulations prescribed by the Secretary of Defense as critical and as a skill in which there is a critical shortage of officers in the armed force concerned.”
+<b>1985</b>—Subsec. (a). Pub. L. 99–145, §637(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “In this section, the term ‘engineering or scientific duty’ means service performed by an officer that requires an engineering or science degree and that requires a skill designated under regulations prescribed by the Secretary of Defense as critical and as a skill in which there is a critical shortage of officers in the armed force concerned.”
 
 Subsec. (b). Pub. L. 99–145, §637(a)(2), in provision preceding par. (1), substituted “prescribed by the Secretary concerned” for “prescribed by the Secretary of Defense” and “officer of a uniformed service” for “officer of an armed force”.
 

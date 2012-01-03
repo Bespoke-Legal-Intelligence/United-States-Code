@@ -70,19 +70,19 @@ Section was enacted as part of the Agricultural Development and Trade Act of 199
 
 #### Amendments
 
-1996—Pub. L. 104–127, §277(b)(1), in section catchline, substituted “middle income countries, emerging democracies, and emerging markets” for “middle income countries and emerging democracies”.
+<b>1996</b>—Pub. L. 104–127, §277(b)(1), in section catchline, substituted “middle income countries, emerging democracies, and emerging markets” for “middle income countries and emerging democracies”.
 
 Subsec. (b)(5). Pub. L. 104–127, §277(b)(2), added par. (5).
 
 Subsec. (c)(1). Pub. L. 104–127, §277(b)(3), substituted “food and fiber needs” for “food needs”.
 
-1992—Subsec. (a). Pub. L. 102–511, §705(a)(1), struck out “middle income countries and emerging democracies” after “fellowship program for” and inserted “(as determined under subsection (b) of this section)” after “eligible countries”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–511, §705(a)(1), struck out “middle income countries and emerging democracies” after “fellowship program for” and inserted “(as determined under subsection (b) of this section)” after “eligible countries”.
 
 Subsec. (b). Pub. L. 102–511, §705(a)(2), substituted “described in any of the following paragraphs” for “that meet the following requirements” in introductory provisions and added par. (4).
 
 Subsec. (d). Pub. L. 102–511, §705(b), inserted at end “The Secretary may provide fellowships under the program authorized by this section to private agricultural producers from eligible countries.”
 
-1991—Subsec. (e). Pub. L. 102–237 substituted “program” for “Program”.
+<b>1991</b>—Subsec. (e). Pub. L. 102–237 substituted “program” for “Program”.
 
 <i><sup>1</sup></i><i> So in original. The word “for” probably should not appear.</i>
 

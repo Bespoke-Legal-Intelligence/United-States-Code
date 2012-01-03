@@ -130,7 +130,7 @@ Designations for categories of projects.—The Secretary may exercise the author
 
 Concurrent reviews.—Each Federal agency shall, to the maximum extent practicable—
 
-&emsp;&emsp;(A) carry out obligations of the Federal agency under other applicable law concurrently, and in conjunction, with the review required under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), unless doing so would impair the ability of theFederal agency to carry out those obligations; and
+&emsp;&emsp;(A) carry out obligations of the Federal agency under other applicable law concurrently, and in conjunction, with the review required under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), unless doing so would impair the ability of the Federal agency to carry out those obligations; and
 
 &emsp;&emsp;(B) formulate and implement administrative, policy, and procedural mechanisms to enable the agency to ensure completion of the environmental review process in a timely, coordinated, and environmentally responsible manner.
 
@@ -216,7 +216,7 @@ Factors for consideration.—In establishing the schedule, the lead agency shall
 
 &emsp;&emsp;(C)
 
-Consistency with other time periods.—A schedule under subparagraph (B) shall be consistent with any other relevant time periods established under Federal law.
+Consistency with other time periods.—A schedule under subparagraph (B)shall be consistent with any other relevant time periods established under Federal law.
 
 &emsp;&emsp;(D)
 
@@ -300,7 +300,7 @@ Assistance to Affected State and Federal Agencies.—
 
 &emsp;(1)
 
-In general.—For a project that is subject to the environmental review process established under this section and for which funds are made available to a State under this title or chapter 53 of title 49, the Secretary may approve a request by the State to provide funds so made available under this title or such chapter 53 to affected Federal agencies (including the Department of Transportation), State agencies, and Indian tribes participating in the environmental review process for the projects in that State or participating in a State process that has been approved by the Secretary for that State. Such funds may be provided only to support activities that directly and meaningfully contribute to expediting and improving transportation project planning and delivery for projects in that State.
+In general.—For a project that is subject to the environmental review process established under this section and for which funds are made available to a State under this titleor chapter 53 of title 49, the Secretary may approve a request by the State to provide funds so made available under this title or such chapter 53 to affected Federal agencies (including the Department of Transportation), State agencies, and Indian tribes participating in the environmental review process for the projects in that State or participating in a State process that has been approved by the Secretary for that State. Such funds may be provided only to support activities that directly and meaningfully contribute to expediting and improving transportation project planning and delivery for projects in that State.
 
 &emsp;(2)
 

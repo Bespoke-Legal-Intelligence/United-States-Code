@@ -16,7 +16,7 @@
 
 #### (i) Minimum allotment for States
 
-&emsp;&emsp;&emsp;No State shall be allotted less than one-half of 1 percent of the funds appropriated under section 3058a of this title for the fiscal year for which the determination is made.
+&emsp;&emsp;&emsp;No State shall be allotted less than one-half of 1 percent of the funds appropriatedunder section 3058a of this title for the fiscal year for which the determination is made.
 
 #### (ii) Minimum allotment for territories
 
@@ -60,7 +60,7 @@ A prior section 703 of Pub. L. 89–73 was classified to section 3045b of this t
 
 #### Amendments
 
-<b>2000</b>—Subsec. (a)(2)(C)(i). Pub. L. 106–501, §§702, 801(e)(1)(A), substituted “section 3058a of this title andmade available to carry out subpart II of this part” for “section 3058a(a) of this title” and “2000” for “1991”.
+<b>2000</b>—Subsec. (a)(2)(C)(i). Pub. L. 106–501, §§702, 801(e)(1)(A), substituted “section 3058a of this title and made available to carry out subpart II of this part” for “section 3058a(a) of this title” and “2000” for “1991”.
 
 Subsec. (a)(2)(C)(ii). Pub. L. 106–501, §§702, 801(e)(1)(B), substituted “section 3058a of this title and made available to carry out subpart III of this part” for “section 3058a(b) of this title” and “2000” for “1991”.
 

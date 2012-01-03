@@ -1,5 +1,5 @@
 
-4 U.S.C.<br>United States Code, 2010 Edition<br>Title 4 - FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES<br>From the U.S. Government Publishing Office, www.gpo.gov
+4 U.S.C.<br>United States Code, 2011 Edition<br>Title 4 - FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 4—FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES
 
@@ -17,7 +17,7 @@
 
 #### Amendments
 
-1951—Act Oct. 31, 1951, ch. 655, §11, 65 Stat. 713, added item for chapter 5.
+<b>1951</b>—Act Oct. 31, 1951, ch. 655, §11, 65 Stat. 713, added item for chapter 5.
 
 #### Positive Law; Citation
 

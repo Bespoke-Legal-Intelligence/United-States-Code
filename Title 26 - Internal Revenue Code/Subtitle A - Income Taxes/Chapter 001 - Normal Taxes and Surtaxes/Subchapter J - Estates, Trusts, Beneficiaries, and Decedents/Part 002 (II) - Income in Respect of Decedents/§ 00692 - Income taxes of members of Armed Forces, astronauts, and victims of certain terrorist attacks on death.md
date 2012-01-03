@@ -52,7 +52,7 @@ For purposes of this section, in the case of an individual who was in a missing 
 
 #### (3) Taxation of certain benefits
 
-&emsp;Subject to such rules as the Secretary may prescribe, paragraph (1) shall not apply to the amount of any tax imposed by this chapter which would be computed by only taking into account the items of income, gain, or other amounts attributable to—
+&emsp;Subject to such rules as the Secretary may prescribe, paragraph (1) shall not apply to theamount of any tax imposed by this chapter which would be computed by only taking into account the items of income, gain, or other amounts attributable to—
 
 &emsp;&emsp;(A) deferred compensation which would have been payable after death if the individual had died other than as a specified terrorist victim, or
 
@@ -142,7 +142,7 @@ In general.—The amendments made by this subsection \[amending this section and
 
 “(B)
 
-Statute of limitations waived.—Notwithstanding section 6511 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the time for filing a claim for credit or refund of any overpayment of tax resulting from the amendments made by this subsection shall not expire before the date 1 year after the date of the enactment of this Act \[July 18, 1984\].”
+Statute of limitations waived.—Notwithstanding section 6511 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the time for filing a claim forcredit or refund of any overpayment of tax resulting from the amendments made by this subsection shall not expire before the date 1 year after the date of the enactment of this Act \[July 18, 1984\].”
 
 Section 1(b) of Pub. L. 98–259 as amended by Pub. L. 98–369, div. A, title VII, §722(g)(1), July 18, 1984, 98 Stat. 974; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 

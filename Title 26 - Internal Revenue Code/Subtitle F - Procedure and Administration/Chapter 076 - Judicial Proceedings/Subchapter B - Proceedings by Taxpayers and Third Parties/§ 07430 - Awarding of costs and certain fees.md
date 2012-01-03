@@ -42,7 +42,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the reasonable cost of any study, analysis, engineering report, test, or project which is found by the court to be necessary for the preparation of the party's case, and
 
-&emsp;&emsp;&emsp;(iii) reasonable fees paid or incurred for the services of attorneys in connection with the court proceeding, except that such fees shall not be in excess of $125 per hour unless the court determines that a special factor, such as the limited availability of qualified attorneys for such proceeding, the difficulty of the issues presented in the case, or the local availability of tax expertise, justifies a higher rate.
+&emsp;&emsp;&emsp;(iii) reasonable fees paid or incurred for the services of attorneys in connection with the court proceeding, except that such fees shall not be in excess of $125 perhour unless the court determines that a special factor, such as the limited availability of qualified attorneys for such proceeding, the difficulty of the issues presented in the case, or the local availability of tax expertise, justifies a higher rate.
 
 > &emsp;In the case of any calendar year beginning after 1996, the dollar amount referred to in clause (iii) shall be increased by an amount equal to such dollar amount multiplied by the cost-of-living adjustment determined under section 1(f)(3) for such calendar year, by substituting “calendar year 1995” for “calendar year 1992” in subparagraph (B) thereof. If any dollar amount after being increased under the preceding sentence is not a multiple of $10, such dollar amount shall be rounded to the nearest multiple of $10.
 
@@ -92,7 +92,7 @@ For purposes of this section—
 
 #### (iii) Effect of losing on substantially similar issues
 
-&emsp;&emsp;&emsp;In determining for purposes of clause (i) whether the position of the United Stateswas substantially justified, the court shall take into account whether the United States has lost in courts of appeal for other circuits on substantially similar issues.
+&emsp;&emsp;&emsp;In determining for purposes of clause (i) whether the position of the United States was substantially justified, the court shall take into account whether the United States has lost in courts of appeal for other circuits on substantially similar issues.
 
 #### (iv) Applicable published guidance
 
@@ -112,7 +112,7 @@ For purposes of this section—
 
 #### (D) Special rules for applying net worth requirement
 
-&emsp;&emsp;In applying the requirements of section 2412(d)(2)(B) of title 28, United States Code, for purposes of subparagraph (A)(ii) of this paragraph—
+&emsp;&emsp;In applying the requirements of section 2412(d)(2)(B) of title 28, United States Code,for purposes of subparagraph (A)(ii) of this paragraph—
 
 &emsp;&emsp;&emsp;(i) the net worth limitation in clause (i) of such section shall apply to—
 
@@ -388,7 +388,7 @@ In general.—The amendments made by this section \[enacting this section and am
 
 “(2)
 
-Penalty.—The amendments made by subsections (b) and (d)(2) \[amending section 6673 of this title\] shall apply to any action or proceeding in the United States Tax Court which—
+Penalty.—The amendments made by subsections (b) and (d)(2) \[amending section 6673 of this title\] shallapply to any action or proceeding in the United States Tax Court which—
 
 &emsp;“(A) is commenced after December 31, 1982, or
 

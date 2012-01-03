@@ -52,7 +52,7 @@ A prior section 212 of Pub. L. 89–73 was renumbered section 211 and is classif
 
 <b>1993</b>—Pub. L. 103–171 substituted “Director of the Office for” for “Associate Commissioner on” and “Assistant Secretary” for “Commissioner”.
 
-<b>1987</b>—Pub. L. 100–175 inserted “(or in the case of a grantee under subchapter X of this chapter, subject to the recommendation of the Associate Commissioner on American Indian, Alaskan Native, and Native Hawaiian Aging and the approval of the Commissioner)” after “State agency”.
+<b>1987</b>—Pub. L. 100–175 inserted “(or in the case of a grantee under subchapter X of this chapter, subject to the recommendation of the Associate Commissioner on American Indian, Alaskan Native, and Native HawaiianAging and the approval of the Commissioner)” after “State agency”.
 
 <b>1981</b>—Pub. L. 97–35 struck out provisions respecting demonstration of superiority by the organization.
 

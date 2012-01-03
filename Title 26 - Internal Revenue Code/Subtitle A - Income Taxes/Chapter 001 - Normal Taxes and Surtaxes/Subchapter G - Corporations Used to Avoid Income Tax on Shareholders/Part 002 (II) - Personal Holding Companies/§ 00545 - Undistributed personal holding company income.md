@@ -2,7 +2,7 @@
 
 #### (a) Definition
 
-For purposes of this part, the term “undistributed personal holding company income” means the taxable income of a personal holding company adjusted in the manner provided in subsections (b), (c), and (d), minus the dividends paid deduction as defined in section 561. In the case of a personal holding company which is a foreign corporation, not more than 10 percent in value of the outstanding stock of which is owned (within the meaning of section 958(a)) during the last half of the taxable year by United States persons, the term “undistributed personal holding company income” means the amount determined by multiplying the undistributed personal holding company income (determinedwithout regard to this sentence) by the percentage in value of its outstanding stock which is the greatest percentage in value of its outstanding stock so owned by United States persons on any one day during such period.
+For purposes of this part, the term “undistributed personal holding company income” means the taxable income of a personal holding company adjusted in the manner provided in subsections (b), (c), and (d), minus the dividends paid deduction as defined in section 561. In the case of a personal holding company which is a foreign corporation, not more than 10 percent in value of the outstanding stock of which is owned (within the meaning of section 958(a)) during the last half of the taxable year by United States persons, the term “undistributed personal holding company income” means the amount determined by multiplying the undistributed personal holding company income (determined without regard to this sentence) by the percentage in value of its outstanding stock which is the greatest percentage in value of its outstanding stock so owned by United States persons on any one day during such period.
 
 #### (b) Adjustments to taxable income
 
@@ -34,7 +34,7 @@ For the purposes of subsection (a), the taxable income shall be adjusted as foll
 
 #### (6) Expenses and depreciation applicable to property of the taxpayer
 
-&emsp;The aggregate of the deductions allowed under section 162 (relating to trade or business expenses) and section 167 (relating to depreciation), which are allocable to the operation and maintenance of property owned or operated by the corporation, shall be allowed only in an amount equal to the rent or other compensation received for the use of, or the right to use, the property, unless it is established (under regulations prescribed by the Secretary) to the satisfaction of the Secretary—
+&emsp;The aggregate of the deductions allowed under section 162 (relating to trade or businessexpenses) and section 167 (relating to depreciation), which are allocable to the operation and maintenance of property owned or operated by the corporation, shall be allowed only in an amount equal to the rent or other compensation received for the use of, or the right to use, the property, unless it is established (under regulations prescribed by the Secretary) to the satisfaction of the Secretary—
 
 &emsp;&emsp;(A) that the rent or other compensation received was the highest obtainable, or, if none was received, that none was obtainable;
 
@@ -134,7 +134,7 @@ Amendment by Pub. L. 91–172 applicable to taxable years beginning after Dec. 3
 
 Amendment by Pub. L. 89–809 applicable with respect to taxable years beginning after Dec. 31, 1966, see section 104(n) of Pub. L. 89–809, set out as a note under section 11 of this title.
 
-Amendment by Pub. L. 89–719 applicable after Nov. 2, 1966, regardless of when the title or lien of the United States arose or when the lien or interest of another person was acquired, except in a case in which a lien or title derived from enforcement of a lien held by the United States has been enforced by a civil action or suit which has become final by judgment, sale, or agreement before Nov. 2, 1966, or in a case in which theamendment would impair a priority held by any person other than the United States holding a lien or interest prior to Nov. 2, 1966, operate to increase the liability of such person, or shorten the time for bringing suit with respect to transactions occurring before Nov. 2, 1966, see section 114(a)–(e) of Pub. L. 89–719, set out as a note under section 6323 of this title.
+Amendment by Pub. L. 89–719 applicable after Nov. 2, 1966, regardless of when the title or lien of the United States arose or when the lien or interest of another person was acquired, except in a case in which a lien or title derived from enforcement of a lien held by the United States has been enforced by a civil action or suit which has become final by judgment, sale, or agreement before Nov. 2, 1966, or in a case in which the amendment would impair a priority held by any person other than the United States holding a lien or interest prior to Nov. 2, 1966, operate to increase the liability of such person, or shorten the time for bringing suit with respect to transactions occurring before Nov. 2, 1966, see section 114(a)–(e) of Pub. L. 89–719, set out as a note under section 6323 of this title.
 
 #### Effective Date of 1964 Amendment
 

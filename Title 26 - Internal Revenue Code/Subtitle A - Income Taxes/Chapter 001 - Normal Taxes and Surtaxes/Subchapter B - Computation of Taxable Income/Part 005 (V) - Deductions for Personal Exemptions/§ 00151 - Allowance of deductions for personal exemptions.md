@@ -22,7 +22,7 @@ For purposes of this section—
 
 #### (2) Exemption amount disallowed in case of certain dependents
 
-&emsp;In the case of an individual with respect to whom a deduction under this section is allowable to another taxpayer for a taxable year beginning in the calendar year in which the individual's taxable year begins, the exemption amount applicable to such individual for such individual's taxable year shall be zero.
+&emsp;In the case of an individual with respect to whom a deduction under this section is allowable to another taxpayer for a taxable year beginning in the calendar year in which the individual's taxable year begins, the exemptionamount applicable to such individual for such individual's taxable year shall be zero.
 
 #### (3) Phaseout
 
@@ -107,7 +107,7 @@ No exemption shall be allowed under this section with respect to any individual 
 
 #### Amendments
 
-<b>2004</b>—Subsec. (c). Pub. L. 108–311 reenacted heading without change and amended text generally. Prior to amendment, text consisted of pars. (1) to (6) relating to additional exemption for dependents in general, exemption denied in case of certain married dependents, child defined, student defined, certain income of handicapped dependents not taken into account, and treatment of missing children, respectively.
+<b>2004</b>—Subsec. (c). Pub. L. 108–311 reenacted heading without change and amended text generally. Prior toamendment, text consisted of pars. (1) to (6) relating to additional exemption for dependents in general, exemption denied in case of certain married dependents, child defined, student defined, certain income of handicapped dependents not taken into account, and treatment of missing children, respectively.
 
 <b>2002</b>—Subsec. (c)(6)(B)(iii). Pub. L. 107–147, §417(6), inserted “as” before “such terms”.
 

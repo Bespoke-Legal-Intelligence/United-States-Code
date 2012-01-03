@@ -10,7 +10,7 @@
 
 #### Amendments
 
-1974—Pub. L. 93–283, §1(9)(A), substituted “Use of moneys appropriated for acquisition, construction, and improvement; for research, development, test, and evaluation; and for the alteration of bridges over the navigable waters” for “Use of appropriations to restore, replace, establish, or develop facilities” in section catchline.
+<b>1974</b>—Pub. L. 93–283, §1(9)(A), substituted “Use of moneys appropriated for acquisition, construction, and improvement; for research, development, test, and evaluation; and for the alteration of bridges over the navigable waters” for “Use of appropriations to restore, replace, establish, or develop facilities” in section catchline.
 
 Pub. L. 93–283, §1(9)(B), (C), added subsec. (a) and redesignated former subsecs. (a) and (b) as (b) and (c), respectively.
 

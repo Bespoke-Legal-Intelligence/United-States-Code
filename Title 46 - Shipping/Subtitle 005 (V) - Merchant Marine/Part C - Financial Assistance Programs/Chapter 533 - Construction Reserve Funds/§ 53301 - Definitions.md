@@ -66,7 +66,7 @@ June 29, 1936, ch. 858, title V, §511(m), as added Oct. 10, 1940, ch. 849, 54 S
 
 In subsection (a)(2)(A)(i), the words “constructed with a construction-differential subsidy under title V of the Merchant Marine Act, 1936, or constructed with financing or a financing guarantee under chapter 537 or 575 of this title” are substituted for “the construction of which has been financed under subchapters V or VII of this chapter, or the construction of which has been aided by a mortgage insured under subchapter XI of this chapter” because of the reorganization of the material and the omission from the revised title of the provisions relating to the construction-differential subsidy program.
 
-Subsection (a)(2)(B) is substituted for the source provision to state more directly that a vessel described inthe source provision is a new vessel for purposes of this chapter.
+Subsection (a)(2)(B) is substituted for the source provision to state more directly that a vessel described in the source provision is a new vessel for purposes of this chapter.
 
 #### References in Text
 

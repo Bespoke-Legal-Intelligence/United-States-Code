@@ -10,7 +10,7 @@ The Director shall, on an annual basis, evaluate all of the Foundation's grants 
 
 #### (b) Continuation of funding
 
-For grants that are identified under subsection (a) and that are determined by the Director to be successful in meeting the objectives of the initial grant solicitation, the Director may extend the duration of those grants for not more than 3 additional years beyond theirscheduled expiration without the requirement for a recompetition.
+For grants that are identified under subsection (a) and that are determined by the Director to be successful in meeting the objectives of the initial grant solicitation, the Director may extend the duration of those grants for not more than 3 additional years beyond their scheduled expiration without the requirement for a recompetition.
 
 #### (c) Report to Congress
 
@@ -29,6 +29,10 @@ The Science and Engineering Equal Opportunity Act, referred to in subsec. (a)(1)
 #### Codification
 
 Section was enacted as part of the America COMPETES Act, also known as the America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Act, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
+
+#### Change of Name
+
+Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Definitions
 

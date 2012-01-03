@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;A person that submits to the Secretary an application under section 360j(m) of this title, or an application (or supplement to an application) or a product development protocol under section 360e of this title, shall include in the application or protocol the information described in paragraph (2).
+&emsp;A person that submits to the Secretary an application under section 360j(m) of this title,or an application (or supplement to an application) or a product development protocol under section 360e of this title, shall include in the application or protocol the information described in paragraph (2).
 
 #### (2) Required information
 

@@ -134,7 +134,7 @@ Section 670 of division II (§§610–670) of chapter VI of title II of Pub. L. 
 
 #### Effective Date of 1977 Amendment
 
-Section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115, §6(d)(2), Oct. 3, 1977, 91 Stat. 1058, which provided that except as otherwise provided by the Juvenile Justice Amendments of 1977 (see Short Title of 1977Amendments note below), the amendments made by the Juvenile Justice Amendments of 1977 were to take effect on Oct. 1, 1977, was repealed by Pub. L. 100–690, title VII, §7266(2), Nov. 18, 1988, 102 Stat. 4449.
+Section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115, §6(d)(2), Oct. 3, 1977, 91 Stat. 1058, which provided that except as otherwise provided by the Juvenile Justice Amendments of 1977 (see Short Title of 1977 Amendments note below), the amendments made by the Juvenile Justice Amendments of 1977 were to take effect on Oct. 1, 1977, was repealed by Pub. L. 100–690, title VII, §7266(2), Nov. 18, 1988, 102 Stat. 4449.
 
 #### Effective Date
 
@@ -168,7 +168,7 @@ Pub. L. 100–690, title VII, §7250(a), Nov. 18, 1988, 102 Stat. 4434, provided
 
 #### Short Title of 1984 Amendment
 
-Section 610 of Pub. L. 98–473 provided that: “This Division \[division II (§§610–670) of chapter VI of title II of Pub. L. 98–473, enacting sections 5714a, 5714b, and 5771 to 5777 of this title, amending this section and sections 5602, 5603, 5611, 5612, 5614, 5616, 5632 to 5635, 5637, 5638, 5651, 5653, 5654, 5657, 5659, 5661, 5671, 5672, 5702, 5711 to 5714, and 5751 of this title, repealing sections 5617, 5655, and 5741 of this title, and enacting provisions set out as notes under this section\] may be cited as the ‘Juvenile Justice, Runaway Youth, and Missing Children's Act Amendments of 1984’.”
+Section 610 of Pub. L. 98–473 provided that: “This Division \[division II (§§610–670) of chapter VI of title II of Pub. L. 98–473, enacting sections 5714a, 5714b, and 5771 to 5777 of this title, amending this section and sections 5602, 5603, 5611, 5612, 5614, 5616, 5632 to 5635, 5637, 5638, 5651, 5653, 5654, 5657, 5659, 5661, 5671, 5672, 5702, 5711 to 5714, and 5751 of this title, repealing sections 5617, 5655, and 5741 of this title, and enacting provisions set out as notes under this section\] may be cited as the ‘JuvenileJustice, Runaway Youth, and Missing Children's Act Amendments of 1984’.”
 
 #### Short Title of 1980 Amendment
 
@@ -184,7 +184,7 @@ Section 1 of Pub. L. 93–415 provided: “That this Act \[enacting this chapter
 
 Section 301 of title III of Pub. L. 93–415, as amended by Pub. L. 96–509, §18(b), Dec. 8, 1980, 94 Stat. 2762, provided that: “This title \[enacting subchapter III of this chapter\] may be cited as the ‘Runaway and Homeless Youth Act’.”
 
-Section 401 of title IV of Pub. L. 93–415, as added by Pub. L. 98–473, title II, §660, Oct. 12, 1984, 98 Stat. 2125,as amended by Pub. L. 101–204, title X, §1004(1), Dec. 7, 1990, 103 Stat. 1828, provided that: “This title \[enacting subchapter IV of this chapter\] may be cited as the ‘Missing Children's Assistance Act’.”
+Section 401 of title IV of Pub. L. 93–415, as added by Pub. L. 98–473, title II, §660, Oct. 12, 1984, 98 Stat. 2125, as amended by Pub. L. 101–204, title X, §1004(1), Dec. 7, 1990, 103 Stat. 1828, provided that: “This title \[enacting subchapter IV of this chapter\] may be cited as the ‘Missing Children's Assistance Act’.”
 
 Section 501 of title V of Pub. L. 93–415, as added by Pub. L. 107–273, div. C, title II, §12222(a), Nov. 2, 2002, 116 Stat. 1894, provided that: “This title \[enacting subchapter V of this chapter\] may be cited as the ‘Incentive Grants for Local Delinquency Prevention Programs Act of 2002’.”
 

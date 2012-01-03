@@ -1,6 +1,6 @@
 ### §3325. Appointments to scientific and professional positions
 
-(a) Positions established under section 3104 of this title are in the competitive service. However, appointments to the positions are made without competitive examination on approval of the qualifications of the proposed appointee by the Office of Personnel Management on the basis of standards developed by the agency involved inaccordance with criteria specified in regulations prescribed by the Director of the Office of Personnel Management.
+(a) Positions established under section 3104 of this title are in the competitive service. However, appointments to the positions are made without competitive examination on approval of the qualifications of the proposed appointee by the Office of Personnel Management on the basis of standards developed by the agency involved in accordance with criteria specified in regulations prescribed by the Director of the Office of Personnel Management.
 
 (b) This section does not apply to positions established under section 3104(c).
 
@@ -38,13 +38,13 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–372, §2(c)(3)(A), substituted “on the basis of standards developed by the agency involved in accordance with criteria specified in regulations prescribed by the Director of the Office of Personnel Management” for “or its designee for this purpose”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–372, §2(c)(3)(A), substituted “on the basis of standards developed by the agency involved in accordance with criteria specified in regulations prescribed by the Director of the Office of Personnel Management” for “or its designee for this purpose”.
 
 Subsec. (c). Pub. L. 110–372, §2(c)(3)(B), added subsec. (c).
 
-1992—Subsec. (b). Pub. L. 102–378 substituted “section 3104(c)” for “section 3104(a)(7) of this title”.
+<b>1992</b>—Subsec. (b). Pub. L. 102–378 substituted “section 3104(c)” for “section 3104(a)(7) of this title”.
 
-1978—Subsec. (a). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
 
 #### Effective Date of 2008 Amendment
 

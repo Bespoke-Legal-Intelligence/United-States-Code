@@ -34,7 +34,7 @@
 
 #### Prior Provisions
 
-A prior section 1610 of act July 1, 1944, ch. 373, title XVI, as added Jan. 4, 1975, Pub. L. 93–641, §4, 88 Stat. 2262; amended Aug. 1, 1977, Pub. L. 95–83, title I, §106(w), 91 Stat. 385, was classified to section 300p of this title, prior to repeal by Pub. L. 96–79, title II, §201(a), Oct. 4, 1979, 93 Stat. 630.
+A prior section 1610 of act July 1, 1944, ch. 373, title XVI, as added Jan. 4, 1975, Pub. L. 93–641, §4, 88 Stat. 2262; amended Aug. 1, 1977, Pub. L. 95–83, title I, §106(w), 91 Stat. 385, was classified to section 300p of this title,prior to repeal by Pub. L. 96–79, title II, §201(a), Oct. 4, 1979, 93 Stat. 630.
 
 #### Amendments
 

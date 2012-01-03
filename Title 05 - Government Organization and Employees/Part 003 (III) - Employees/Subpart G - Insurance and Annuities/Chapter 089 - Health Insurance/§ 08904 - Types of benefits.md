@@ -90,15 +90,15 @@ The Social Security Act, referred to in subsec. (b)(1), is act Aug. 14, 1935, ch
 
 #### Amendments
 
-1993—Subsec. (b)(1). Pub. L. 103–66, §11003(a)(1), designated existing provisions as subpar. (A) and added subpars. (B) and (C).
+<b>1993</b>—Subsec. (b)(1). Pub. L. 103–66, §11003(a)(1), designated existing provisions as subpar. (A) and added subpars. (B) and (C).
 
 Subsec. (b)(3)(B). Pub. L. 103–66, §11003(a)(2), inserted cl. (i) designation and added cl. (ii).
 
 Subsec. (b)(4). Pub. L. 103–66, §11003(a)(3), added par. (4).
 
-1992—Subsec. (a). Pub. L. 102–378 substituted “this subsection” for “this section” in pars. (3) and (4) and in last sentence.
+<b>1992</b>—Subsec. (a). Pub. L. 102–378 substituted “this subsection” for “this section” in pars. (3) and (4) and in last sentence.
 
-1990—Pub. L. 101–508 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1990</b>—Pub. L. 101–508 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 1993 Amendment
 

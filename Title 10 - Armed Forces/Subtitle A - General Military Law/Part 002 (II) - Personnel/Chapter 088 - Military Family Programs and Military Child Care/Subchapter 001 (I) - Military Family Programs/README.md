@@ -15,10 +15,13 @@
 | [1787\.](%C2%A7%2001787%20-%20Reporting%20of%20child%20abuse.md) | Reporting of child abuse. |
 | [1788\.](%C2%A7%2001788%20-%20Additional%20family%20assistance.md) | Additional family assistance. |
 | [1789\.](%C2%A7%2001789%20-%20Chaplain-led%20programs%20authorized%20support.md) | Chaplain-led programs: authorized support. |
+| [1790\.](%C2%A7%2001790%20-%20Military%20personnel%20citizenship%20processing.md) | Military personnel citizenship processing. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2011</b>—Pub. L. 112–74, div. A, title VIII, §8070(b), Dec. 23, 2011, 125 Stat. 823, added item 1790.
 
 <b>2009</b>—Pub. L. 111–84, div. A, title V, §563(a)(2), Oct. 28, 2009, 123 Stat. 2307, added item 1781c.
 
@@ -48,3 +51,4 @@ Pub. L. 110–181, div. A, title V, §581(d), Jan. 28, 2008, 122 Stat. 122, adde
 - [&sect; 01787 - Reporting of child abuse](%C2%A7%2001787%20-%20Reporting%20of%20child%20abuse.md)
 - [&sect; 01788 - Additional family assistance](%C2%A7%2001788%20-%20Additional%20family%20assistance.md)
 - [&sect; 01789 - Chaplain-led programs authorized support](%C2%A7%2001789%20-%20Chaplain-led%20programs%20authorized%20support.md)
+- [&sect; 01790 - Military personnel citizenship processing](%C2%A7%2001790%20-%20Military%20personnel%20citizenship%20processing.md)

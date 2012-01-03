@@ -4,7 +4,7 @@
 
 The Secretary of Health and Human Services (referred to in this section as the “Secretary”) shall provide for the planning and implementation of a national public–private partnership for a prevention and health promotion outreach and education campaign to raise public awareness of health improvement across the life span. Such campaign shall include the dissemination of information that—
 
-&emsp;(1) describes the importance of utilizing preventive services to promote wellness, reducehealth disparities, and mitigate chronic disease;
+&emsp;(1) describes the importance of utilizing preventive services to promote wellness, reduce health disparities, and mitigate chronic disease;
 
 &emsp;(2) promotes the use of preventive services recommended by the United States Preventive Services Task Force and the Community Preventive Services Task Force;
 
@@ -50,7 +50,7 @@ The Secretary, in consultation with private-sector experts, shall maintain or en
 
 #### (e) Dissemination of information through providers
 
-The Secretary, acting through the Centers for Disease Control and Prevention, shall develop and implement a plan for the dissemination of health promotion and disease prevention information consistent with national priorities, to health care providers who participate in Federal programs, including programs administered by the Indian Health Service, the Department of Veterans Affairs, the Department of Defense, and the Health Resources and Services Administration, and Medicare and Medicaid.
+The Secretary, acting through the Centers for Disease Control and Prevention, shall develop and implement a plan for the dissemination of health promotion and disease prevention information consistent with national priorities, to health care providers who participate in Federal programs, including programs administered bythe Indian Health Service, the Department of Veterans Affairs, the Department of Defense, and the Health Resources and Services Administration, and Medicare and Medicaid.
 
 #### (f) Personalized prevention plans
 

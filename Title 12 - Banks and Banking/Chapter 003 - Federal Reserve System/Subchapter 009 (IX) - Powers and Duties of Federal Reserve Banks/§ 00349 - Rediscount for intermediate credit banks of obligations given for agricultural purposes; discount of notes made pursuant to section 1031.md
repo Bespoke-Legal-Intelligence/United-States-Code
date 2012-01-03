@@ -16,7 +16,7 @@ Section is comprised of second par. of section 13A, formerly section 13a, as add
 
 #### Amendments
 
-1932—Act May 19, 1932, inserted last sentence.
+<b>1932</b>—Act May 19, 1932, inserted last sentence.
 
 #### Change of Name
 

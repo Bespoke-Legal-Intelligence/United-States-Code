@@ -6,9 +6,9 @@ Government Relief From Liability.—The Secretary of Transportation shall ensure
 
 (b)
 
-Air Traffic Control Contract Program.—(1) The Secretary shall continue the lowactivity (Visual Flight Rules) level I air traffic control tower contract program established under subsection (a) of this section for towers existing on December 30, 1987, and extend the program to other towers as practicable.
+Air Traffic Control Contract Program.—(1) The Secretary shall continue the low activity (Visual Flight Rules) level I air traffic control tower contract program established under subsection (a) of this section for towers existing on December 30, 1987, and extend the program to other towers as practicable.
 
-(2) The Secretary may make a contract with a qualified entity (as determined by the Secretary) or, on a sole source basis, with a State or a political subdivision of a State to allow the entity, State, or subdivision to operate an airport traffic control tower classified as a level I (Visual Flight Rules) tower if the Secretary decides that the entity, State, or subdivision has the capability to comply with the requirements of this paragraph. The contract shall require that the entity, State, or subdivision comply with applicable safety regulations in operating the facility and with applicable competition requirements in making a subcontract to perform work to carry out the contract.
+(2) The Secretary may make a contract with a qualified entity (as determined by the Secretary) or, on a sole source basis, with a State or a political subdivision of a State to allow the entity, State, or subdivision to operate an airport traffic control tower classified as a level I (Visual Flight Rules) tower if the Secretary decides that the entity, State, or subdivision hasthe capability to comply with the requirements of this paragraph. The contract shall require that the entity, State, or subdivision comply with applicable safety regulations in operating the facility and with applicable competition requirements in making a subcontract to perform work to carry out the contract.
 
 (3)
 
@@ -46,7 +46,7 @@ Priority.—In selecting facilities to participate in the program, the Secretary
 
 &emsp;(D)
 
-Costs exceeding benefits.—If the costs of operating an air traffic tower under the program exceed the benefits, the airport sponsor or State or local government having jurisdiction over the airport shall pay the portion of the costs that exceed such benefit.
+Costs exceeding benefits.—If the costs of operating an air traffic tower under the program exceed the benefits, the airport sponsor or State or local government having jurisdiction over the airport shall pay the portion of the costs that exceed such benefit, with the maximum allowable local cost share capped at 20 percent.
 
 &emsp;(E)
 
@@ -74,13 +74,13 @@ Grants.—The Secretary may provide grants to a sponsor of—
 
 &emsp;&emsp;&emsp;(II) from amounts made available under sections 47114(c)(2) and 47114(d)(3)(A) for reimbursement for the cost of construction or improvement of a nonapproach control tower, as defined by the Secretary, incurred after October 1, 1996, if the sponsor complied with the requirements of sections 47107(e), 47112(b), and 47112(c) in constructing or improving that tower; and
 
-&emsp;&emsp;&emsp;(III) from amounts made available under sections 47114(c)(2) and 47114(d)(3)(A) for reimbursement for the cost of acquiring and installing in that tower air traffic control, communications, and related equipmentthat was acquired or installed after October 1, 1996.
+&emsp;&emsp;&emsp;(III) from amounts made available under sections 47114(c)(2) and 47114(d)(3)(A) for reimbursement for the cost of acquiring and installing in that tower air traffic control, communications, and related equipment that was acquired or installed after October 1, 1996.
 
 &emsp;(B)
 
 Eligibility.—An airport sponsor shall be eligible for a grant under this paragraph only if—
 
-&emsp;&emsp;(i)(I) the sponsor is a participant in the Federal Aviation Administration contract tower program established under subsection (a) and continued under paragraph (1) or the pilot program established under paragraph (3); or
+&emsp;&emsp;(i)(I) the sponsor is a participant in the Federal Aviation Administration contract tower program established under subsection (a) and continued under paragraph (1) or thepilot program established under paragraph (3); or
 
 &emsp;&emsp;(II) construction of a nonapproach control tower would qualify the sponsor to be eligible to participate in such program;
 
@@ -100,7 +100,7 @@ Eligibility.—An airport sponsor shall be eligible for a grant under this parag
 
 Limitation on federal share.—The Federal share of the cost of construction of a nonapproach control tower under this paragraph may not exceed $1,500,000.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1276; Pub. L. 106–181, title I, §131, Apr. 5, 2000, 114 Stat. 78; Pub. L. 108–7, div. I, title III, §370(b)(1), (2), Feb. 20, 2003, 117 Stat. 425, 426; Pub. L. 108–176, title I, §105, Dec. 12, 2003, 117 Stat. 2498.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1276; Pub. L. 106–181, title I, §131, Apr. 5, 2000, 114 Stat. 78; Pub. L. 108–7, div. I, title III, §370(b)(1), (2), Feb. 20, 2003, 117 Stat. 425, 426; Pub. L. 108–176, title I, §105, Dec. 12, 2003, 117 Stat. 2498; Pub. L. 112–55, div. C, title I, §119, Nov. 18, 2011, 125 Stat. 649.)
 
 Historical and Revision Notes
 
@@ -138,6 +138,8 @@ In subsection (b)(2), the word “Secretary” is substituted for “Administrat
 
 #### Amendments
 
+<b>2011</b>—Subsec. (b)(3)(D). Pub. L. 112–55 substituted “benefit, with the maximum allowable local cost share capped at 20 percent.” for “benefit.”
+
 <b>2003</b>—Subsec. (a). Pub. L. 108–176, §105(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The Secretary of Transportation shall ensure that an agreement under this subchapter with a State or a political subdivision of a State to allow the State or subdivision to operate an airport facility in the State or subdivision relieves the United States Government from any liability arising out of, or related to, acts or omissions of employees of the State or subdivision in operating the airport facility.”
 
 Subsec. (b)(2). Pub. L. 108–176, §105(2), added par. (2) and struck out former par. (2) which read as follows: “The Secretary may make a contract, on a sole source basis, with a State or a political subdivision of a State to allow the State or subdivision to operate an airport traffic control tower classified as a level I (Visual Flight Rules) tower if the Secretary decides that the State or subdivision has the capability to comply with the requirements of this paragraph. The contract shall require that the State or subdivision comply with applicable safety regulations in operating the facility and with applicable competition requirements in making a subcontract to perform work to carry out the contract.”
@@ -170,7 +172,7 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 #### Savings Provision
 
-Pub. L. 108–7, div. I, title III, §370(b)(3), Feb. 20, 2003, 117 Stat. 426, provided that: “Notwithstanding the amendments made by this section \[amending this section and section 47102 of this title\], the towers for which assistance is being provided on the day before the date of enactment of this Act \[Feb. 20, 2003\] undersection 47124(b)(4) of title 49, United States Code, as in effect on such day, may continue to be provided such assistance under the terms of such section.”
+Pub. L. 108–7, div. I, title III, §370(b)(3), Feb. 20, 2003, 117 Stat. 426, provided that: “Notwithstanding the amendments made by this section \[amending this section and section 47102 of this title\], the towers for which assistance is being provided on the day before the date of enactment of this Act \[Feb. 20, 2003\] under section 47124(b)(4) of title 49, United States Code, as in effect on such day, may continue to be provided such assistance under the terms of such section.”
 
 #### Nonapproach Control Towers
 

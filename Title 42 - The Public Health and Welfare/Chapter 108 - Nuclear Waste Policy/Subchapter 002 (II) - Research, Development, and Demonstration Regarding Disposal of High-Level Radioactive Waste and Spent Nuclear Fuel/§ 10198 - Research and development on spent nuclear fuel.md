@@ -12,7 +12,7 @@ To carry out the programs described in subsection (a) of this section, the Secre
 
 &emsp;(2) the Secretary shall provide, on a cost-sharing basis, consultative and technical assistance, including design support and generic licensing documentation, to assist such utility in obtaining the construction authorization and appropriate license from the Commission; and
 
-&emsp;(3) the Secretary shall provide generic research and development of alternative spent nuclear fuel storage techniques to enhance utility-provided, at-reactor storage capabilities, if authorized in any other provision of this chapter or in any other provision of law.
+&emsp;(3) the Secretary shall provide generic research and development of alternative spent nuclear fuel storage techniques to enhanceutility-provided, at-reactor storage capabilities, if authorized in any other provision of this chapter or in any other provision of law.
 
 #### (c) Dry storage research and development
 
@@ -37,8 +37,4 @@ The spent nuclear fuel storage program authorized in section 10155 of this title
 #### Amendments
 
 <b>1994</b>—Subsec. (e)(1). Pub. L. 103–437 substituted “Committee on Science, Space, and Technology” for “Committee on Science and Technology”.
-
-#### Change of Name
-
-Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

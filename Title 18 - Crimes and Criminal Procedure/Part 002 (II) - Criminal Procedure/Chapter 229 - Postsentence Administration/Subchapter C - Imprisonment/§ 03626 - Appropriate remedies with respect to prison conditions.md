@@ -20,7 +20,7 @@ Prospective relief.—(A) Prospective relief in any civil action with respect to
 
 &emsp;(2)
 
-Preliminary injunctive relief.—In any civil action with respect to prison conditions, to the extent otherwise authorized by law, the court may enter a temporary restraining order or an order for preliminary injunctive relief. Preliminary injunctive relief must be narrowly drawn, extend no further than necessary to correct the harm the court finds requires preliminary relief, and be the least intrusive means necessary to correct that harm. The court shall give substantial weight to any adverse impact on public safety or the operation of a criminal justice system caused by the preliminary relief and shall respect the principles of comity set out in paragraph (1)(B) in tailoring any preliminary relief. Preliminary injunctive relief shall automatically expire on the date that is 90 days after its entry, unless the court makes the findings required under subsection (a)(1) for the entry of prospective relief and makes the order final before the expiration of the 90-day period.
+Preliminary injunctive relief.—In any civil action with respect to prison conditions,to the extent otherwise authorized by law, the court may enter a temporary restraining order or an order for preliminary injunctive relief. Preliminary injunctive relief must be narrowly drawn, extend no further than necessary to correct the harm the court finds requires preliminary relief, and be the least intrusive means necessary to correct that harm. The court shall give substantial weight to any adverse impact on public safety or the operation of a criminal justice system caused by the preliminary relief and shall respect the principles of comity set out in paragraph (1)(B) in tailoring any preliminary relief. Preliminary injunctive relief shall automatically expire on the date that is 90 days after its entry, unless the court makes the findings required under subsection (a)(1) for the entry of prospective relief and makes the order final before the expiration of the 90-day period.
 
 &emsp;(3)
 
@@ -42,7 +42,7 @@ Prisoner release order.—(A) In any civil action with respect to prison conditi
 
 &emsp;&emsp;(ii) no other relief will remedy the violation of the Federal right.
 
-&emsp;(F) Any State or local official including a legislator or unit of government whose jurisdiction or function includes the appropriation of funds for the construction, operation, or maintenance of prison facilities, or the prosecution or custody of persons who may be released from, or not admitted to, a prison as a result of a prisoner release order shall have standing to oppose the imposition or continuation in effect of such relief and to seek termination of such relief, and shall have the rightto intervene in any proceeding relating to such relief.
+&emsp;(F) Any State or local official including a legislator or unit of government whose jurisdiction or function includes the appropriation of funds for the construction, operation, or maintenance of prison facilities, or the prosecution or custody of persons who may be released from, or not admitted to, a prison as a result of a prisoner release order shall have standing to oppose the imposition or continuation in effect of such relief and to seek termination of such relief, and shall have the right to intervene in any proceeding relating to such relief.
 
 (b)
 
@@ -88,7 +88,7 @@ Private settlement agreements.—(A) Nothing in this section shall preclude part
 
 (d)
 
-State Law Remedies.—The limitations on remedies in this section shall not apply to relief entered by a State court based solely upon claims arising under State law.
+State Law Remedies.—The limitations on remedies in this section shall not apply to reliefentered by a State court based solely upon claims arising under State law.
 
 (e)
 
@@ -136,7 +136,7 @@ Appointment.—(A) If the court determines that the appointment of a special mas
 
 &emsp;(3)
 
-Interlocutory appeal.—Any party shall have the right to an interlocutory appeal of the judge's selection of the special masterunder this subsection, on the ground of partiality.
+Interlocutory appeal.—Any party shall have the right to an interlocutory appeal of the judge's selection of the special master under this subsection, on the ground of partiality.
 
 &emsp;(4)
 

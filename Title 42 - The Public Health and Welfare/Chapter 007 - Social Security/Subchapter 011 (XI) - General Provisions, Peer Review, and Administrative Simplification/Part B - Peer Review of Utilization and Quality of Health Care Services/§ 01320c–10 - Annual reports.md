@@ -2,7 +2,7 @@
 
 The Secretary shall submit to the Congress not later than April 1 of each year, a full and complete report on the administration, impact, and cost of the program under this part during the preceding fiscal year, including data and information on—
 
-&emsp;(1) the number, status, and service areas of all utilization and quality control peer review organizations participating in the program;
+&emsp;(1) the number, status, and service areas of all quality improvement organizations participating in the program;
 
 &emsp;(2) the number of health care institutions and practitioners whose services are subject to review by such organizations, and the number of beneficiaries and recipients who received services subject to such review during such year;
 
@@ -14,11 +14,19 @@ The Secretary shall submit to the Congress not later than April 1 of each year, 
 
 &emsp;(6) descriptions of the criteria upon which decisions are made, and the selection and relative weights of such criteria.
 
-(Aug. 14, 1935, ch. 531, title XI, §1161, as added Pub. L. 97–248, title I, §143, Sept. 3, 1982, 96 Stat. 392.)
+(Aug. 14, 1935, ch. 531, title XI, §1161, as added Pub. L. 97–248, title I, §143, Sept. 3, 1982, 96 Stat. 392; amended Pub. L. 112–40, title II, §261(a)(2)(C), Oct. 21, 2011, 125 Stat. 423.)
 
 #### Prior Provisions
 
 A prior section 1320c–10, act Aug. 14, 1935, ch. 531, title XI, §1161, as added Oct. 30, 1972, Pub. L. 92–603, title II, §249F(b), 86 Stat. 1440, related to giving of notice to a practitioner or provider by a Professional Standards Review Organization immediately after taking certain action or making certain determinations, prior to the general revision of this part by Pub. L. 97–248.
+
+#### Amendments
+
+<b>2011</b>—Par. (1). Pub. L. 112–40 substituted “quality improvement” for “utilization and quality control peer review”.
+
+#### Effective Date of 2011 Amendment
+
+Amendment by Pub. L. 112–40 applicable to contracts entered into or renewed on or after Jan. 1, 2012, see section 261(e) of Pub. L. 112–40, set out as a note under section 1320c of this title.
 
 #### Performance of Professional Standards Review Organizations; Report to Congress
 

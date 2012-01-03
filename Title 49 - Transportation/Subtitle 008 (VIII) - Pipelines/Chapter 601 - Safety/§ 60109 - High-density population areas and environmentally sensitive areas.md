@@ -48,9 +48,9 @@ Authority to issue regulations.—The Secretary may satisfy the requirements of 
 
 Minimum requirements of integrity management programs.—An integrity management program required under paragraph (1) shall include, at a minimum, the following requirements:
 
-&emsp;&emsp;(A) A baseline integrity assessment of each of the operator's facilities in areas identified pursuant to subsection (a)(1) and defined in chapter 192 of title 49, Code of Federal Regulations, including any subsequent modifications, by internal inspection device, pressure testing, direct assessment, or an alternative method that the Secretary determines would provide an equal or greater level of safety. The operator shall complete such assessment not later than 10 years after the date of enactment of this subsection. At least 50 percent of such facilities shall be assessed not later than 5 years after such date of enactment. The operator shall prioritize such facilities for assessment based on all risk factors, including any previously discovered defects or anomalies and any history of leaks, repairs, or failures. The operator shall ensure that assessments of facilities with the highest risks are given priority for completion and that such assessments will be completed not later than 5 years after such date of enactment.
+&emsp;&emsp;(A) A baseline integrity assessment of each of the operator's facilities in areas identified pursuant to subsection (a)(1) and defined in chapter 192 of title 49, Code ofFederal Regulations, including any subsequent modifications, by internal inspection device, pressure testing, direct assessment, or an alternative method that the Secretary determines would provide an equal or greater level of safety. The operator shall complete such assessment not later than 10 years after the date of enactment of this subsection. At least 50 percent of such facilities shall be assessed not later than 5 years after such date of enactment. The operator shall prioritize such facilities for assessment based on all risk factors, including any previously discovered defects or anomalies and any history of leaks, repairs, or failures. The operator shall ensure that assessments of facilities with the highest risks are given priority for completion and that such assessments will be completed not later than 5 years after such date of enactment.
 
-&emsp;&emsp;(B) Subject to paragraph (5), periodic reassessment of the facility, at a minimum of once every 7 years, using methods described in subparagraph (A).
+&emsp;&emsp;(B) Subject to paragraph (5), periodic reassessments of the facility, at a minimum of once every 7 calendar years, using methods described in subparagraph (A). The Secretary may extend such deadline for an additional 6 months if the operator submits written notice to the Secretary with sufficient justification of the need for the extension.
 
 &emsp;&emsp;(C) Clearly defined criteria for evaluating the results of assessments conducted under subparagraphs (A) and (B) and for taking actions based on such results.
 
@@ -176,6 +176,10 @@ In general.—The minimum standards shall include a requirement for an operator 
 
 &emsp;&emsp;(B)
 
+Distribution branch services, multifamily facilities, and small commercial facilities.—Not later than 2 years after the date of enactment of the Pipeline Safety, Regulatory Certainty, and Job Creation Act of 2011, and after issuing a final report on the evaluation of the National Transportation Safety Board's recommendation on excess flow valves in applications other than service lines serving one single family residence, the Secretary, if appropriate, shall by regulation require the use of excess flow valves, or equivalent technology, where economically, technically, and operationally feasible on new or entirely replaced distribution branch services, multifamily facilities, and small commercial facilities.
+
+&emsp;&emsp;(C)
+
 Reports.—Operators of natural gas distribution systems shall report annually to the Secretary on the number of excess flow valves installed on their systems under subparagraph (A).
 
 &emsp;(4)
@@ -184,7 +188,7 @@ Applicability.—The Secretary shall determine which distribution pipelines will
 
 &emsp;(5)
 
-Development and implementation.—Each operator of a distribution pipeline that the Secretary determines is subject to the minimum standards prescribed by the Secretary under this subsection shall develop and implement an integrity management program in accordance with those standards.
+Development and implementation.—Each operator of a distribution pipeline thatthe Secretary determines is subject to the minimum standards prescribed by the Secretary under this subsection shall develop and implement an integrity management program in accordance with those standards.
 
 &emsp;(6)
 
@@ -198,7 +202,7 @@ Certification of Pipeline Integrity Management Program Performance.—The Secret
 
 &emsp;(2) to the best of such officer's knowledge and belief, the report is true and complete.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1315; Pub. L. 103–429, §6(75), Oct. 31, 1994, 108 Stat. 4388; Pub. L. 104–304, §§7, 20(i), Oct. 12, 1996, 110 Stat. 3800, 3805; Pub. L. 107–355, §14(a), (b), Dec. 17, 2002, 116 Stat. 3002, 3005; Pub. L. 109–468, §§9, 14, 16, Dec. 29, 2006, 120 Stat. 3493, 3496.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1315; Pub. L. 103–429, §6(75), Oct. 31, 1994, 108 Stat. 4388; Pub. L. 104–304, §§7, 20(i), Oct. 12, 1996, 110 Stat. 3800, 3805; Pub. L. 107–355, §14(a), (b), Dec. 17, 2002, 116 Stat. 3002, 3005; Pub. L. 109–468, §§9, 14, 16, Dec. 29, 2006, 120 Stat. 3493, 3496; Pub. L. 112–90, §§5(e), 22, Jan. 3, 2012, 125 Stat. 1908, 1917.)
 
 Historical and Revision Notes
 
@@ -246,9 +250,15 @@ This amends 49:60109(a)(2) to correct an error in the codification enacted by se
 
 The date of enactment of this subsection, referred to in subsecs. (c) and (d), is the date of enactment of Pub. L. 107–355, which was approved Dec. 17, 2002.
 
+The date of enactment of the Pipeline Safety, Regulatory Certainty, and Job Creation Act of 2011, referred to in subsec. (e)(3)(B), is the date of enactment of Pub. L. 112–90, which was approved Jan. 3, 2012.
+
 The Electronic Signatures in Global and National Commerce Act, referred to in subsec. (f), is Pub. L. 106–229, June 30, 2000, 114 Stat. 464, which is classified principally to chapter 96 (§7001 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 7001 of Title 15 and Tables.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (c)(3)(B). Pub. L. 112–90, §5(e), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “Subject to paragraph (5), periodic reassessment of the facility, at a minimum of once every 7 years, using methods described in subparagraph (A).”
+
+Subsec. (e)(3)(B), (C). Pub. L. 112–90, §22, added subpar. (B) and redesignated former subpar. (B) as (C).
 
 <b>2006</b>—Subsec. (c)(9)(A)(iii). Pub. L. 109–468, §14, reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “If the Secretary determines that a risk analysis or integrity management program does not comply with the requirements of this subsection or regulations issued as described in paragraph (2), or is inadequate for the safe operation of a pipeline facility, the Secretary shall act under section 60108(a)(2) to require the operator to revise the risk analysis or integrity management program.”
 
@@ -279,6 +289,116 @@ Subsec. (b). Pub. L. 104–304, §7(b), reenacted heading without change and ame
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
+
+#### Integrity Management
+
+Pub. L. 112–90, §5, Jan. 3, 2012, 125 Stat. 1907, provided that:
+
+“(a)
+
+Evaluation.—Not later than 18 months after the date of enactment of this Act \[Jan. 3, 2012\], the Secretary of Transportation shall evaluate—
+
+&emsp;“(1) whether integrity management system requirements, or elements thereof, should be expanded beyond high-consequence areas; and
+
+&emsp;“(2) with respect to gas transmission pipeline facilities, whether applying integrity management program requirements, or elements thereof, to additional areas would mitigate the need for class location requirements.
+
+“(b)
+
+Factors.—In conducting the evaluation under subsection (a), the Secretary shall consider, at a minimum, the following:
+
+&emsp;“(1) The continuing priority to enhance protections for public safety.
+
+&emsp;“(2) The continuing importance of reducing risk in high-consequence areas.
+
+&emsp;“(3) The incremental costs of applying integrity management standards to pipelines outside of high-consequence areas where operators are already conducting assessments beyond what is required under chapter 601 of title 49, United States Code.
+
+&emsp;“(4) The need to undertake integrity management assessments and repairs in a manner that is achievable and sustainable, and that does not disrupt pipeline service.
+
+&emsp;“(5) The options for phasing in the extension of integrity management requirements beyond high-consequence areas, including the most effective and efficient options for decreasing risks to an increasing number of people living or working in proximity to pipeline facilities.
+
+&emsp;“(6) The appropriateness of applying repair criteria, such as pressure reductions and special requirements for scheduling remediation, to areas that are not high-consequence areas.
+
+“(c)
+
+Report.—Not later than 2 years after the date of enactment of this Act \[Jan. 3, 2012\], the Secretary shall submit to the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report, based on the evaluation conducted under subsection (a), containing the Secretary's analysis and findings regarding—
+
+&emsp;“(1) expansion of integrity management requirements, or elements thereof, beyond high-consequence areas; and
+
+&emsp;“(2) with respect to gas transmission pipeline facilities, whether applying the integrity management program requirements, or elements thereof, to additional areas would mitigate the need for class location requirements.
+
+“(d)
+
+Data Reporting.—The Secretary shall collect any relevant data necessary to complete the evaluation required by subsection (a).
+
+“(e)
+
+Technical Correction.—\[Amended this section.\]
+
+“(f)
+
+Rulemaking Requirements.—
+
+&emsp;“(1)
+
+Review period defined.—In this subsection, the term ‘review period’ means the period beginning on the date of enactment of this Act \[Jan. 3, 2012\] and ending on the earlier of—
+
+&emsp;&emsp;“(A) the date that is 1 year after the date of completion of the report under subsection (c); or
+
+&emsp;&emsp;“(B) the date that is 3 years after the date of enactment of this Act.
+
+&emsp;“(2)
+
+Congressional authority.—In order to provide Congress the necessary time to review the results of the report required by subsection (c) and implement appropriate recommendations, the Secretary shall not, during the review period, issue final regulations described in paragraph (3)(B).
+
+&emsp;“(3)
+
+Standards.—
+
+&emsp;&emsp;“(A)
+
+Findings.—As soon as practicable following the review period, the Secretary shall issue final regulations described in subparagraph (B), if the Secretary finds, in the report required under subsection (c), that—
+
+&emsp;&emsp;&emsp;“(i) integrity management system requirements, or elements thereof, should be expanded beyond high-consequence areas; and
+
+&emsp;&emsp;&emsp;“(ii) with respect to gas transmission pipeline facilities, applying integrity management program requirements, or elements thereof, to additional areas would mitigate the need for class location requirements.
+
+&emsp;&emsp;“(B)
+
+Regulations.—Regulations issued by the Secretary under subparagraph (A), if any, shall—
+
+&emsp;&emsp;&emsp;“(i) expand integrity management system requirements, or elements thereof, beyond high-consequence areas; and
+
+&emsp;&emsp;&emsp;“(ii) remove redundant class location requirements for gas transmission pipeline facilities that are regulated under an integrity management program adopted and implemented under section 60109(c)(2) of title 49, United States Code.
+
+&emsp;“(4)
+
+Savings clause.—
+
+&emsp;&emsp;“(A)
+
+In general.—Notwithstanding any other provision of this subsection, the Secretary, during the review period, may issue final regulations described in paragraph (3)(B), if the Secretary determines that a condition that poses a risk to public safety, property, or the environment is present or an imminent hazard exists and that the regulations will address the risk or hazard.
+
+&emsp;&emsp;“(B)
+
+Imminent hazard defined.—In subparagraph (A), the term ‘imminent hazard’ means the existence of a condition related to pipelines or pipeline operations that presents a substantial likelihood that death, serious illness, severe personal injury, or substantial endangerment to health, property, or the environment may occur.
+
+“(g)
+
+Report to Congress on Risk-Based Pipeline Reassessment Intervals.—Not later than 2 years after the date of enactment of this Act \[Jan. 3, 2012\], the Comptroller General of the United States shall evaluate—
+
+&emsp;“(1) whether risk-based reassessment intervals are a more effective alternative for managing risks to pipelines in high-consequence areas once baseline assessments are complete when compared to the reassessment interval specified in section 60109(c)(3)(B) of title 49, United States Code;
+
+&emsp;“(2) the number of anomalies found in baseline assessments required under section 60109(c)(3)(A) of title 49, United States Code, as compared to the number of anomalies found in reassessments required under section 60109(c)(3)(B) of such title; and
+
+&emsp;“(3) the progress made in implementing the recommendations in GAO Report 06–945 and the current relevance of those recommendations that have not been implemented.”
+
+\[Terms used in section 5 of Pub. L. 112–90, set out above, have the meaning given those terms in this chapter, see section 1(c)(1) of Pub. L. 112–90, set out as a note under section 60101 of this title. For definition of “high-consequence area” as used in section 5 of Pub. L. 112–90, see section 1(c)(2) of Pub. L. 112–90, set out as a note under section 60101 of this title.\]
+
+#### Seismicity
+
+Pub. L. 112–90, §29, Jan. 3, 2012, 125 Stat. 1921, provided that: “In identifying and evaluating all potential threats to each pipeline segment pursuant to parts 192 and 195 of title 49, Code of Federal Regulations, an operator of a pipeline facility shall consider the seismicity of the area.”
+
+\[Terms used in section 29 of Pub. L. 112–90, set out above, have the meaning given those terms in this chapter, see section 1(c)(1) of Pub. L. 112–90, set out as a note under section 60101 of this title.\]
 
 #### Study of Reassessment Intervals
 

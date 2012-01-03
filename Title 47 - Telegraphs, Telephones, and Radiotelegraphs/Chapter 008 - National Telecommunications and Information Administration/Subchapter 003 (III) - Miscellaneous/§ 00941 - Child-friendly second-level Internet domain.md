@@ -54,7 +54,7 @@ The NTIA shall grant the initial registry the option periods available under the
 
 &emsp;&emsp;(A) The registry that operates and maintains the new domain.
 
-&emsp;&emsp;(B) Any entity that contracts with such registry to carry out functions to ensure that content accessed through the new domain complies with the limitations applicable to the new domain.
+&emsp;&emsp;(B) Any entity that contracts with such registry to carry out functions to ensurethat content accessed through the new domain complies with the limitations applicable to the new domain.
 
 &emsp;&emsp;(C) Any registrar for the registry of the new domain that is operating in compliance with its agreement with the registry.
 
@@ -92,7 +92,7 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;The term “harmful to minors” means, with respect to material, that—
 
-&emsp;&emsp;(A) the average person, applying contemporary community standards, would find, taking the material as a whole and with respect to minors, that it is designed to appealto, or is designed to pander to, the prurient interest;
+&emsp;&emsp;(A) the average person, applying contemporary community standards, would find, taking the material as a whole and with respect to minors, that it is designed to appeal to, or is designed to pander to, the prurient interest;
 
 &emsp;&emsp;(B) the material depicts, describes, or represents, in a manner patently offensive with respect to minors, an actual or simulated sexual act or sexual contact, an actual or simulated normal or perverted sexual act, or a lewd exhibition of the genitals or post-pubescent female breast; and
 
@@ -140,7 +140,7 @@ Findings.—The Congress finds that—
 
 &emsp;“(1) the World Wide Web presents a stimulating and entertaining opportunity for children to learn, grow, and develop educationally and intellectually;
 
-&emsp;“(2) Internet technology also makes available an extensive amount of information that is harmful to children, as studies indicate that a significant portion of all material available on the Internet is related to pornography;
+&emsp;“(2) Internet technology also makes available an extensive amount of information that is harmful tochildren, as studies indicate that a significant portion of all material available on the Internet is related to pornography;
 
 &emsp;“(3) young children, when trying to use the World Wide Web for positive purposes, are often presented—either mistakenly or intentionally—with material that is inappropriate for their age, which can be extremely frustrating for children, parents, and educators;
 

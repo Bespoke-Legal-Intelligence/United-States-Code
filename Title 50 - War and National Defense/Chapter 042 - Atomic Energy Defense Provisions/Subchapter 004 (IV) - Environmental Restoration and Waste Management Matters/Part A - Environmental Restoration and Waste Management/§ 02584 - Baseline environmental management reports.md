@@ -60,7 +60,7 @@ A report required under subsection (a) or (b) shall be based on compliance with 
 
 &emsp;&emsp;(iv) An explanation of the reasons for any projected cost variance between actual and estimated expenditures of more than 15 percent or $10,000,000, or any schedule delay of more than six months, for the activity or project.
 
-&emsp;(B) For the fiscal year during which the report is submitted, a disaggregation of thefunds appropriated for Department of Energy defense environmental restoration and waste management into the activities and projects (including discrete parts of multiyear activities and projects) that the Secretary of Energy expects to accomplish during that fiscal year.
+&emsp;(B) For the fiscal year during which the report is submitted, a disaggregation of the funds appropriated for Department of Energy defense environmental restoration and waste management into the activities and projects (including discrete parts of multiyear activities and projects) that the Secretary of Energy expects to accomplish during that fiscal year.
 
 &emsp;(C) For the fiscal year for which the budget is submitted, a disaggregation of the Department of Energy defense environmental restoration and waste management budget request into the activities and projects (including discrete parts of multiyear activities and projects) that the Secretary of Energy expects to accomplish during that fiscal year.
 

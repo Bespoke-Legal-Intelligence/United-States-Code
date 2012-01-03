@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary may provide long-term loans to eligible community foundations to assist in the implementation of regional investment strategies.
+The Secretary may provide long-term loans to eligible community foundations to assist in theimplementation of regional investment strategies.
 
 #### (b) Eligible community foundations
 
@@ -32,7 +32,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Pub. L. 110–246, §6028, amended section generally. Prior to amendment, section provided for competitive innovation grants to be made to Regional Boards.
+<b>2008</b>—Pub. L. 110–246, §6028, amended section generally. Prior to amendment, section provided for competitive innovation grants to be made to Regional Boards.
 
 #### Effective Date of 2008 Amendment
 

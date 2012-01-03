@@ -24,10 +24,22 @@
 | [295\.](%C2%A7%2000295%20-%20Presumption%20Product%20made%20by%20patented%20process.md) | Presumption: Product made by patented process. |
 | [296\.](%C2%A7%2000296%20-%20Liability%20of%20States%2C%20instrumentalities%20of%20States%2C%20and%20State%20officials%20for%20infringement%20of%20patents.md) | Liability of States, instrumentalities of States, and State officials for infringement of patents. |
 | [297\.](%C2%A7%2000297%20-%20Improper%20and%20deceptive%20invention%20promotion.md) | Improper and deceptive invention promotion. |
+| [298\.](%C2%A7%2000298%20-%20Advice%20of%20counsel.md) | Advice of counsel. |
+| [299\.](%C2%A7%2000299%20-%20Joinder%20of%20parties.md) | Joinder of parties. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Amendment of Analysis
+
+<i>Pub. L. 112–29, §3(h)(2), (n), Sept. 16, 2011, 125 Stat. 289, 293, provided that, effective upon the expiration of the 18-month period beginning on Sept. 16, 2011, and applicable to certain applications for patent and any patents issuing thereon, item 291 of this analysis is amended to read “Derived patents.”. See 2011 Amendment notes below.</i>
+
 #### Amendments
+
+<b>2011</b>—Pub. L. 112–29, §19(d)(2), Sept. 16, 2011, 125 Stat. 333, added item 299.
+
+Pub. L. 112–29, §17(b), Sept. 16, 2011, 125 Stat. 329, added item 298.
+
+Pub. L. 112–29, §3(h)(2), Sept. 16, 2011, 125 Stat. 289, amended item 291 generally, substituting “Derived patents” for “Interfering patents”.
 
 <b>1999</b>—Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4102(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–554, added item 297.
 
@@ -61,3 +73,5 @@
 - [&sect; 00295 - Presumption Product made by patented process](%C2%A7%2000295%20-%20Presumption%20Product%20made%20by%20patented%20process.md)
 - [&sect; 00296 - Liability of States, instrumentalities of States, and State officials for infringement of patents](%C2%A7%2000296%20-%20Liability%20of%20States%2C%20instrumentalities%20of%20States%2C%20and%20State%20officials%20for%20infringement%20of%20patents.md)
 - [&sect; 00297 - Improper and deceptive invention promotion](%C2%A7%2000297%20-%20Improper%20and%20deceptive%20invention%20promotion.md)
+- [&sect; 00298 - Advice of counsel](%C2%A7%2000298%20-%20Advice%20of%20counsel.md)
+- [&sect; 00299 - Joinder of parties](%C2%A7%2000299%20-%20Joinder%20of%20parties.md)

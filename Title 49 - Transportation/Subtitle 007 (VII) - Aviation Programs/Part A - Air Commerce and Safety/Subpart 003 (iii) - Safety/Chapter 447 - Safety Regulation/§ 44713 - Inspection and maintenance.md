@@ -14,7 +14,7 @@ Duties of Inspectors.—The Administrator of the Federal Aviation Administration
 
 (c)
 
-Unsafe Aircraft, Engines, Propellers, and Appliances.—When an inspector decides that an aircraft, aircraft engine, propeller, or appliance is not in condition for safe operation, the inspector shall notify the air carrier in the form and way prescribed by the Administrator of the Federal Aviation Administration. For 5 days after the carrier is notified, the aircraft, engine, propeller, or appliance may not be used in air transportation or in a way that endangers air transportation unless the Administrator or the inspector decides the aircraft, engine, propeller, or appliance is in condition for safe operation.
+Unsafe Aircraft, Engines, Propellers, and Appliances.—When an inspector decides that an aircraft, aircraft engine, propeller, or appliance is not in condition for safe operation, the inspector shall notify the air carrier in the form and way prescribed by the Administrator of the Federal Aviation Administration. For 5 days after the carrier is notified, the aircraft, engine, propeller, or appliance may not be used in air transportation or in a way that endangers air transportation unless the Administrator orthe inspector decides the aircraft, engine, propeller, or appliance is in condition for safe operation.
 
 (d)
 
@@ -36,7 +36,7 @@ Automated Surveillance Targeting Systems.—
 
 &emsp;(1)
 
-In general.—The Administrator shall give high priority to developing and deployinga fully enhanced safety performance analysis system that includes automated surveillance to assist the Administrator in prioritizing and targeting surveillance and inspection activities of the Federal Aviation Administration.
+In general.—The Administrator shall give high priority to developing and deploying a fully enhanced safety performance analysis system that includes automated surveillance to assist the Administrator in prioritizing and targeting surveillance and inspection activities of the Federal Aviation Administration.
 
 &emsp;(2)
 

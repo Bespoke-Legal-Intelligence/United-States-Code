@@ -46,7 +46,7 @@ Section was enacted as part of the Farm Security and Rural Investment Act of 200
 
 #### Amendments
 
-2008—Pub. L. 110–246, §10302, amended section generally. Prior to amendment, text read as follows: “The Secretary shall ensure that segregated data on the production and marketing of organic agricultural products is included in the ongoing baseline of data collection regarding agricultural production and marketing.”
+<b>2008</b>—Pub. L. 110–246, §10302, amended section generally. Prior to amendment, text read as follows: “The Secretary shall ensure that segregated data on the production and marketing of organic agricultural products is included in the ongoing baseline of data collection regarding agricultural production and marketing.”
 
 #### Effective Date of 2008 Amendment
 

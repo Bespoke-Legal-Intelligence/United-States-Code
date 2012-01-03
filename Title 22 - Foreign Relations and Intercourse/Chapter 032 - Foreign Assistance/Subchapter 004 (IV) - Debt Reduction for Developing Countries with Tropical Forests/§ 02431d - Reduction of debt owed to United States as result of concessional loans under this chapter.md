@@ -44,7 +44,7 @@
 
 #### (c) Additional terms and conditions
 
-(1) The following additional terms and conditions shall apply to the reduction of debt under subsection (a)(1) of this section in the same manner as such terms and conditions apply to the reduction of debt under section 2430c(a)(1) of this title:
+(1) The following additional terms and conditions shall apply to the reduction of debt under subsection (a)(1) of this section in the same manner as such terms and conditions apply tothe reduction of debt under section 2430c(a)(1) of this title:
 
 &emsp;(A) The provisions relating to repayment of principal under section 2430d of this title.
 

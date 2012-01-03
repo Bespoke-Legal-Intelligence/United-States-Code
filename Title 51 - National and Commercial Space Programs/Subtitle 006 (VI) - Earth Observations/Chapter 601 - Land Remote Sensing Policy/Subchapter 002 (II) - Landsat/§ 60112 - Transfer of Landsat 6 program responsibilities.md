@@ -1,0 +1,22 @@
+### §60112. Transfer of Landsat 6 program responsibilities
+
+The responsibilities of the Secretary with respect to Landsat 6 shall be transferred to the Landsat Program Management, as agreed to between the Secretary and the Landsat Program Management, pursuant to section 60111 of this title.
+
+(Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3413.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+60112
+
+15 U.S.C. 5614.
+
+Pub. L. 102–555, title I, §104, Oct. 28, 1992, 106 Stat. 4170.
+

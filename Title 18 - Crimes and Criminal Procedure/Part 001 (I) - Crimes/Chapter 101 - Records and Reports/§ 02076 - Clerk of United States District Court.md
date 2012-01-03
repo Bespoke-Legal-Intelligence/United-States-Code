@@ -16,5 +16,5 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–294 substituted “fined under this title or imprisoned not more than one year, or both” for “fined not more than $1,000 or imprisoned not more than one year” before period at end.
+<b>1996</b>—Pub. L. 104–294 substituted “fined under this title or imprisoned not more than one year, or both”for “fined not more than $1,000 or imprisoned not more than one year” before period at end.
 

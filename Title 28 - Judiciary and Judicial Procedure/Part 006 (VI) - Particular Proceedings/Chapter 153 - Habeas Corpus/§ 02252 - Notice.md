@@ -1,6 +1,6 @@
 ### §2252. Notice
 
-Prior to the hearing of a habeas corpus proceeding in behalf of a person in custody of State officers or by virtue of State laws notice shall be served on the attorney general or other appropriate officer of such State as the justice orjudge at the time of issuing the writ shall direct.
+Prior to the hearing of a habeas corpus proceeding in behalf of a person in custody of State officers or by virtue of State laws notice shall be served on the attorney general or other appropriate officer of such State as the justice or judge at the time of issuing the writ shall direct.
 
 (June 25, 1948, ch. 646, 62 Stat. 967.)
 

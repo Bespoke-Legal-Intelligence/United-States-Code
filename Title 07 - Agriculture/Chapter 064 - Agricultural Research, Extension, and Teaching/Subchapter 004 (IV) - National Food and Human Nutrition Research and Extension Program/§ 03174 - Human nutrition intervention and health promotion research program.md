@@ -32,13 +32,13 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Prior Provisions
 
-A prior section 3174, Pub. L. 95–113, title XIV, §1424, as added Pub. L. 101–624, title XVI, §1610(a), Nov. 28, 1990, 104 Stat. 3719, provided for establishment of food science and nutrition research center for Southeast region of United States prior to repeal by Pub. L. 104–127, title VIII, §808, Apr. 4, 1996, 110 Stat. 1162.
+A prior section 3174, Pub. L. 95–113, title XIV, §1424, as added Pub. L. 101–624, title XVI, §1610(a), Nov. 28,1990, 104 Stat. 3719, provided for establishment of food science and nutrition research center for Southeast region of United States prior to repeal by Pub. L. 104–127, title VIII, §808, Apr. 4, 1996, 110 Stat. 1162.
 
 Another prior section 3174, Pub. L. 95–113, title XIV, §1424, Sept. 29, 1977, 91 Stat. 1000, provided for a study assessing potential value and cost of establishing regional food and human nutrition research centers and a report thereon, with findings and recommendations, to be submitted to the Congress not later than one year after Oct. 1, 1977, prior to repeal by Pub. L. 99–198, title XIV, §1413, Dec. 23, 1985, 99 Stat. 1549.
 
 #### Amendments
 
-2008—Subsec. (b)(1). Pub. L. 110–246, §7113(1), which directed amendment of par. (1) by striking out “and,” at end, was executed by striking out “and” at end to reflect the probable intent of Congress.
+<b>2008</b>—Subsec. (b)(1). Pub. L. 110–246, §7113(1), which directed amendment of par. (1) by striking out “and,” at end, was executed by striking out “and” at end to reflect the probable intent of Congress.
 
 Subsec. (b)(2). Pub. L. 110–246, §7113(2), substituted “; and” for comma at end.
 
@@ -46,9 +46,9 @@ Subsec. (b)(3). Pub. L. 110–246, §7113(3), added par. (3).
 
 Subsec. (d). Pub. L. 110–246, §7114, substituted “2012” for “2007”.
 
-2002—Subsec. (d). Pub. L. 107–171 substituted “2007” for “2002”.
+<b>2002</b>—Subsec. (d). Pub. L. 107–171 substituted “2007” for “2002”.
 
-1998—Subsec. (d). Pub. L. 105–185 substituted “each of fiscal years 1996 through 2002” for “fiscal years 1996 and 1997”.
+<b>1998</b>—Subsec. (d). Pub. L. 105–185 substituted “each of fiscal years 1996 through 2002” for “fiscal years 1996 and 1997”.
 
 #### Effective Date of 2008 Amendment
 

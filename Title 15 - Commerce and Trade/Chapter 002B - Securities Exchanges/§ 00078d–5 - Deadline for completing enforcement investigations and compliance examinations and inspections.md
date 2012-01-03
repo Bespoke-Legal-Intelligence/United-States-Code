@@ -18,7 +18,7 @@
 
 #### (2) Exception for certain complex actions
 
-&emsp;Notwithstanding paragraph (1), if the head of any division or office within the Commission responsible for compliance examinations and inspections or his designee determines that a particular compliance examination or inspection is sufficiently complex such that a determination regarding concluding the examination or inspection, or regarding the staff requests the entity undertake corrective action,cannot be completed within the deadline specified in paragraph (1), the head of any division or office within the Commission responsible for compliance examinations and inspections or his designee may, after providing notice to the Chairman of the Commission, extend such deadline as needed for one additional 180-day period.
+&emsp;Notwithstanding paragraph (1), if the head of any division or office within the Commission responsible for compliance examinations and inspections or his designee determines that a particular compliance examination or inspection is sufficiently complex such that a determination regarding concluding the examination or inspection, or regarding the staff requests the entity undertake corrective action, cannot be completed within the deadline specified in paragraph (1), the head of any divisionor office within the Commission responsible for compliance examinations and inspections or his designee may, after providing notice to the Chairman of the Commission, extend such deadline as needed for one additional 180-day period.
 
 (June 6, 1934, ch. 404, title I, §4E, as added Pub. L. 111–203, title IX, §929U, July 21, 2010, 124 Stat. 1867.)
 

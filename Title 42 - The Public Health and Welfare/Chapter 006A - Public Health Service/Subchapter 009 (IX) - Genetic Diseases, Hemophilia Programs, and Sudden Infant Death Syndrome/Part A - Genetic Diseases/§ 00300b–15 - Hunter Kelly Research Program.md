@@ -14,7 +14,7 @@
 
 #### (2) Additional newborn condition
 
-&emsp;For purposes of this subsection, the term “additional newborn condition” means any condition that is not one of the core conditions recommended by the Advisory Committee and adopted by the Secretary.
+&emsp;For purposes of this subsection, the term “additional newborn condition” means anycondition that is not one of the core conditions recommended by the Advisory Committee and adopted by the Secretary.
 
 #### (b) Funding
 
@@ -22,7 +22,7 @@ In carrying out the research program under this section, the Secretary and the D
 
 #### (c) Reports
 
-The Director is encouraged to include information about the activities carried out under this section in the biennial report requiredunder section 403 of the National Institutes of Health Reform Act of 2006.<sup>1</sup> If such information is included, the Director shall make such information available to be included on the Internet Clearinghouse established under section 300b–11 of this title.
+The Director is encouraged to include information about the activities carried out under this section in the biennial report required under section 403 of the National Institutes of Health Reform Act of 2006.<sup>1</sup> If such information is included, the Director shall make such information available to be included on the Internet Clearinghouse established under section 300b–11 of this title.
 
 #### (d) Nonduplication
 

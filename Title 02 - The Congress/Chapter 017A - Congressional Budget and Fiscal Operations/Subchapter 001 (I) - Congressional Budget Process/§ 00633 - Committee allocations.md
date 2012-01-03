@@ -46,7 +46,7 @@ As soon as practicable after a concurrent resolution on the budget is agreed to,
 
 #### (c) Point of order
 
-After the Committee on Appropriations has received an allocation pursuant to subsection (a) of this section for a fiscal year, it shall not be in order in the House of Representatives or the Senate to consider any bill, joint resolution, amendment, motion, or conference report within the jurisdiction of that committee providingnew budget authority for that fiscal year, until that committee makes the suballocations required by subsection (b) of this section.
+After the Committee on Appropriations has received an allocation pursuant to subsection (a) of this section for a fiscal year, it shall not be in order in the House of Representatives or the Senate to consider any bill, joint resolution, amendment, motion, or conference report within the jurisdiction of that committee providing new budget authority for that fiscal year, until that committee makes the suballocations required by subsection (b) of this section.
 
 #### (d) Subsequent concurrent resolutions
 
@@ -104,7 +104,7 @@ At any time after a committee reports the allocations required to be made under 
 
 #### (2) Revised allocations
 
-&emsp;(A) As soon as practicable after Congress agrees to a bill or joint resolution that would have been subject to a point of order under subsection (f)(1) of this section but for the exception provided in paragraph (1)(A) or would have been subject to a point of order under section 642(a) of this title but for the exception provided in paragraph (1)(B), the chairman of the committee <sup>1</sup> on the Budget of the House of Representatives shall file with the House appropriately revised allocations under subsection (a) of this section and revised functional levels and budget aggregates to reflect that bill.
+&emsp;(A) As soon as practicable after Congress agrees to a bill or joint resolution that would have been subject to a point of order under subsection (f)(1) of this section but for the exception provided in paragraph (1)(A) or would have been subject to a point of order undersection 642(a) of this title but for the exception provided in paragraph (1)(B), the chairman of the committee <sup>1</sup> on the Budget of the House of Representatives shall file with the House appropriately revised allocations under subsection (a) of this section and revised functional levels and budget aggregates to reflect that bill.
 
 &emsp;(B) Such revised allocations, functional levels, and budget aggregates shall be considered for the purposes of this Act as allocations, functional levels, and budget aggregates contained in the most recently agreed to concurrent resolution on the budget.
 
@@ -120,7 +120,7 @@ Section was formerly classified to section 1323 of Title 31 prior to the general
 
 #### Amendments
 
-1997—Subsec. (a). Pub. L. 105–33, §10106(a), added subsec. (a) and struck out former subsec. (a) which required inclusion of certain allocations to committees of the House of Representatives and of the Senate in the joint explanatory statement accompanying a conference report on a concurrent resolution on the budget.
+<b>1997</b>—Subsec. (a). Pub. L. 105–33, §10106(a), added subsec. (a) and struck out former subsec. (a) which required inclusion of certain allocations to committees of the House of Representatives and of the Senate in the joint explanatory statement accompanying a conference report on a concurrent resolution on the budget.
 
 Subsec. (b). Pub. L. 105–33, §10106(a), added subsec. (b) and struck out former subsec. (b) which required committees of each House to subdivide among their subcommittees the allocations of budget outlays and new budget authority allocated to them in joint explanatory statement accompanying conference report on concurrent resolution on budget and required further subdivisions of such allocations by subcommittees.
 
@@ -138,7 +138,7 @@ Subsec. (f)(2). Pub. L. 105–33, §10106(c)(2), reenacted heading without chang
 
 Subsec. (g). Pub. L. 105–33, §10106(d), amended heading and text of subsec. (g) generally. Prior to amendment, text read as follows: “For purposes of this section, the levels of new budget authority, spending authority as described in section 651(c)(2) of this title, outlays, and new credit authority for a fiscal year shall be determined on the basis of estimates made by the Committee on the Budget of the House of Representatives or the Senate, as the case may be.”
 
-1990—Subsec. (a)(1). Pub. L. 101–508, §13201(b)(3)(A), substituted “and total entitlement authority” for “total entitlement authority, and total credit authority”, “or such entitlement authority” for “such entitlement authority, or such credit authority”, and “and entitlement authority” for “entitlement authority, and credit authority”.
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–508, §13201(b)(3)(A), substituted “and total entitlement authority” for “total entitlement authority, and total credit authority”, “or such entitlement authority” for “such entitlement authority, or such credit authority”, and “and entitlement authority” for “entitlement authority, and credit authority”.
 
 Subsec. (a)(2). Pub. L. 101–508, §13303(c)(1), inserted “social security outlays for the fiscal year of the resolution and for each of the 4 succeeding fiscal years,” after “appropriate levels of”.
 
@@ -158,7 +158,7 @@ Pub. L. 101–508, §13201(b)(3)(E), substituted “year or new entitlement auth
 
 Subsec. (f)(2). Pub. L. 101–508, §13303(c)(3), inserted three sentences at end beginning with “In applying this paragraph—”.
 
-Pub. L. 101–508, §13303(c)(2), which directed the insertion of “or provides for social security outlays in excess of the appropriate allocation of social security outlays under subsection (a) of this section for the fiscal year of the resolution or for the total of that year and the 4 succeeding fiscal years” before the period, was executed by making the insertion before the period at end of first sentence, as the probable intent of Congress, in view of the applicability of the amendment. See Effective and Termination Dates of 1990 Amendment note below.
+Pub. L. 101–508, §13303(c)(2), which directed the insertion of “or provides for social security outlays in excess of the appropriate allocation of social securityoutlays under subsection (a) of this section for the fiscal year of the resolution or for the total of that year and the 4 succeeding fiscal years” before the period, was executed by making the insertion before the period at end of first sentence, as the probable intent of Congress, in view of the applicability of the amendment. See Effective and Termination Dates of 1990 Amendment note below.
 
 Pub. L. 101–508, §13207(a)(2), substituted “outlays, new budget authority, or new spending authority (as defined in section 651(c)(2) of this title)” for “outlays or new budget authority”.
 
@@ -168,7 +168,7 @@ Pub. L. 101–508, §13201(b)(2), temporarily inserted “or new credit authorit
 
 Pub. L. 101–508, §13112(a)(7), inserted “(A)” after “in excess of”, substituted “under subsection (a) of this section, or (B) the appropriate allocation (if any) of such outlays or authority reported under subsection (b) of this section” for “under subsection (b) of this section”, and inserted after first sentence “Subparagraph (A) shall not apply to any bill, resolution, amendment, motion, or conference report that is within the jurisdiction of the Committee on Appropriations.”
 
-1985—Pub. L. 99–177 substituted “Committee allocations” for “Matters to be included in joint statement of managers; reports by committees” in section catchline.
+<b>1985</b>—Pub. L. 99–177 substituted “Committee allocations” for “Matters to be included in joint statement of managers; reports by committees” in section catchline.
 
 Subsec. (a). Pub. L. 99–177 amended subsec. (a) generally, providing for separate provisions relating to allocations of totals for the House of Representatives and for the Senate, with respect to the joint explanatory statement accompanying the conference report on a concurrent resolution on the budget.
 
@@ -188,7 +188,7 @@ Amendment by section 13303(c) of Pub. L. 101–508 applicable with respect to fi
 
 #### Effective Date of 1985 Amendment
 
-Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, except that such amendment, insofar as it relates to subsecs. (c), (f), and (g) of this section, to become effective Apr. 15, 1986, see section 275(a)(1), (2)(A) of Pub. L. 99–177, set out as an Effective and Termination Dates note under section 900 of this title.
+Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, except that such amendment, insofar as it relates to subsecs. (c), (f), and (g) of this section, to become effective Apr. 15, 1986, see section 275(a)(1), (2)(A) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of this title prior to repeal by Pub. L. 112–25, title I, §104(a), Aug. 2, 2011, 125 Stat. 246.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

@@ -92,5 +92,5 @@ Pub. L. 111–31, div. A, title II, §204(b), June 22, 2009, 123 Stat. 1848, pro
 
 #### Effective Date
 
-Subsec. (a) effective one year after Feb. 27, 1986, and subsecs. (b) to (e) effective Feb. 27, 1986, see section 11 of Pub. L. 99–252, set out as a note under section 4401 of this title.
+Subsec. (a) effective one year after Feb. 27, 1986, and subsecs. (b) to (e) effective Feb. 27, 1986, see section 11of Pub. L. 99–252, set out as a note under section 4401 of this title.
 

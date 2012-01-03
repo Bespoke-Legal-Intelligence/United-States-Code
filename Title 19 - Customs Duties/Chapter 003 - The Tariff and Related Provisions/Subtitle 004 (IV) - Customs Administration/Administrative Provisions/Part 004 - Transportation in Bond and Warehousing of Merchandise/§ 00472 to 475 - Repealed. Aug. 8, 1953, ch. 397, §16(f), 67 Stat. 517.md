@@ -4,7 +4,7 @@ Sections, act June 8, 1896, ch. 371, §§1–4, 29 Stat. 263, related to special
 
 #### Effective Date of Repeal
 
-Section 1 of act Aug. 8, 1953, provided that such act is effective, except as otherwise specifically provided for, on and after thirtieth day following date of its enactment (Aug. 8, 1953).
+Section 1 of act Aug. 8, 1953, provided that such act is effective, except as otherwise specifically providedfor, on and after thirtieth day following date of its enactment (Aug. 8, 1953).
 
 The exception “except as otherwise specifically provided for” apparently refers to amendments made to provisions preceding subd. (1) of section 1308 of this title and to section 1557(b) of this title, for which separate effective dates were provided as explained in notes under those sections.
 

@@ -56,7 +56,7 @@ To be eligible to receive a grant under this section, a State agency shall submi
 
 &emsp;&emsp;(B) an analysis of the means by which the State agency will use and disseminate the team nutrition messages and material developed by the Secretary;
 
-&emsp;&emsp;(C) an explanation of the ways in which the State agency will use the funds from the grant to work toward the goals required under subparagraph (A), and to promote healthy eating and physical activity and fitness in schools throughout the State;
+&emsp;&emsp;(C) an explanation of the ways in which the State agency will use the funds from thegrant to work toward the goals required under subparagraph (A), and to promote healthy eating and physical activity and fitness in schools throughout the State;
 
 &emsp;&emsp;(D) a description of the ways in which the State team nutrition network messages and activities will be coordinated at the State level with other health promotion and education activities;
 
@@ -128,7 +128,7 @@ A State agency that receives a grant under this section may use funds from the g
 
 &emsp;&emsp;(B) a description of how the proposed project will improve health and nutrition through education and increased access to physical activity;
 
-&emsp;&emsp;(C) a description of how the proposed project will be aligned with the local wellness policy required under section 204 of the Child Nutrition and WIC Reauthorization Act of 2004;
+&emsp;&emsp;(C) a description of how the proposed project will be aligned with the local wellness policy required under section 204 ofthe Child Nutrition and WIC Reauthorization Act of 2004;
 
 &emsp;&emsp;(D) a description of how funds under this subsection will be coordinated with other programs under this chapter, the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.), or other Acts, as appropriate, to improve student health and nutrition;
 
@@ -252,13 +252,13 @@ Subsec. (f)(1). Pub. L. 104–193, §731(b)(1)(B), struck out “(A)” before �
 
 Pub. L. 104–193, §731(b)(1)(A), struck out subpar. (B) which read as follows: “As used in this paragraph, the term ‘language appropriate’ used with respect to materials, programming, or advertisements means materials, programming, or advertisements, respectively, using a language other than the English language in a case in which the language is dominant for a large percentage of individuals participating in the program.”
 
-Subsec. (f)(2), (3). Pub. L. 104–193, §731(b)(2), (3), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “Any State desiring to receive grants authorized by this section may, from the funds appropriated to carry out this section, receive a planning and assessment grant for the purposes of carrying out the responsibilities described in clauses (A), (B), (C), and (D) of paragraph (1) of this subsection. Any State receiving a planning and assessment grant, may, during the first year of participation, be advanced a portion of the funds necessary to carry out such responsibilities: <i>Provided</i>, That in order to receive additional funding, the State must carry out such responsibilities.”
+Subsec. (f)(2), (3). Pub. L. 104–193, §731(b)(2), (3), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “Any State desiring to receive grants authorized by this section may, from the funds appropriated to carry out this section, receive a planning and assessment grant for the purposes of carrying out the responsibilities described in clauses (A), (B),\(C), and (D) of paragraph (1) of this subsection. Any State receiving a planning and assessment grant, may, during the first year of participation, be advanced a portion of the funds necessary to carry out such responsibilities: <i>Provided</i>, That in order to receive additional funding, the State must carry out such responsibilities.”
 
 Subsec. (f)(4). Pub. L. 104–193, §731(b)(2), struck out par. (4) which read as follows: “Nothing in this section shall prohibit State or local educational agencies from making available or distributing to adults nutrition education materials, resources, activities, or programs authorized under this section.”
 
 Subsec. (g)(1). Pub. L. 104–193, §731(c), substituted “be available at any reasonable time” for “at all times be available” in second sentence.
 
-Subsec. (h)(1). Pub. L. 104–193, §731(d)(1), in second sentence, struck out “as provided in paragraph (2) of this subsection” after “needs in the State” and “asprovided in paragraph (3) of this subsection” after “prepare a State plan”.
+Subsec. (h)(1). Pub. L. 104–193, §731(d)(1), in second sentence, struck out “as provided in paragraph (2) of this subsection” after “needs in the State” and “as provided in paragraph (3) of this subsection” after “prepare a State plan”.
 
 Subsec. (h)(2). Pub. L. 104–193, §731(d)(2), struck out at end “Such assessment shall include, but not be limited to, the identification and location of all students in need of nutrition education. The assessment shall also identify State and local individual, group, and institutional resources within the State for materials, facilities, staffs, and methods related to nutrition education.”
 
@@ -340,7 +340,7 @@ Pub. L. 101–147, §214, inserted at end “Each plan developed as required by 
 
 Pub. L. 101–147, §124(2), in subpar. (C), struck out “the National Advisory Council on Child Nutrition,” after “recommendations of”.
 
-Subsec. (i)(2). Pub. L. 101–147, §124(3), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “For the fiscal year ending September 30, 1980, and for each succeeding fiscal year ending on or before September 30, 1989, there is hereby authorized to be appropriated for grants to each State for the conduct of nutrition education and information programs, an amount equal to the higher of (A) 50 cents for each child enrolled in schools or in institutions within each State, or (B) $50,000 for each State. There is authorized to be appropriated for the grants referred to in the preceding sentence not more than $15,000,000 for fiscal year 1981, and not more than $5,000,000 for each subsequent fiscal year. Grants to each State from such appropriations shall be based on a rate of 50 cents for each childenrolled in schools or in institutions within such State, except that no State shall receive an amount less than $50,000 for that year. If funds appropriated for such year are insufficient to pay the amount to which each State is entitled under the second preceding sentence, the amount of such grant shall be ratably reduced to the extent necessary so that the total of such amounts paid does not exceed the amount of appropriated funds. If additional funds become available for making such payments, such amounts shall be increased on the same basis as they were reduced.”
+Subsec. (i)(2). Pub. L. 101–147, §124(3), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “For the fiscal year ending September 30, 1980, and for each succeeding fiscal year ending on or before September 30, 1989, there is hereby authorized to be appropriated for grants to each State for the conduct of nutrition education and information programs, an amount equal to the higher of (A) 50 cents for each child enrolled in schools or in institutions within each State, or (B) $50,000 for each State. There is authorized to be appropriated for the grants referred to in the preceding sentence not more than $15,000,000 for fiscal year 1981, and not more than $5,000,000 for each subsequent fiscal year. Grants to each State from such appropriations shall be based on a rate of 50 cents for each child enrolled in schools or in institutions within such State, except that no State shall receive an amount less than $50,000 for that year. If funds appropriated for such year are insufficient to pay the amount to which each State is entitled under the second preceding sentence, the amount of such grant shall be ratably reduced to the extent necessary so that the total of such amounts paid does not exceed the amount of appropriated funds. If additional funds become available for making such payments, such amounts shall be increased on the same basis as they were reduced.”
 
 Subsec. (j). Pub. L. 101–147, §124(4), added subsec. (j).
 
@@ -353,10 +353,6 @@ Subsecs. (i), (j). Pub. L. 99–500 and Pub. L. 99–591, §§315, 362, 372(b)(2
 Subsec. (j)(2). Pub. L. 97–35, §806, substituted provisions authorizing $15,000,000 for fiscal year 1981 and not more than $5,000,000 for each subsequent fiscal year for provisions authorizing $15,000,000 for the fiscal year beginning Oct. 1, 1980, and each subsequent fiscal year.
 
 <b>1980</b>—Subsec. (j)(2). Pub. L. 96–499 substituted “For the fiscal year ending September 30, 1980, and for each succeeding fiscal year ending on or before September 30, 1984” for “For the fiscal year beginning October 1, 1979” and “second preceding sentence” for “preceding sentence” and inserted provision authorizing appropriations for the fiscal year beginning October 1, 1980, and subsequent fiscal years, for the grants referred to in the preceding sentence, not more than $15,000,000.
-
-#### Change of Name
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effective Date of 1998 Amendment
 

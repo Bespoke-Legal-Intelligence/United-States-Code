@@ -68,7 +68,7 @@ The Corporation is authorized to issue and sell the Corporation's obligations, o
 
 #### (C) Interest rate limit
 
-&emsp;&emsp;The rate of interest payable in connection with any obligation issued, or amount borrowed, by the Corporation under paragraph (1) shall not exceed an amount determinedby the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities.
+&emsp;&emsp;The rate of interest payable in connection with any obligation issued, or amount borrowed, by the Corporation under paragraph (1) shall not exceed an amount determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities.
 
 #### (D) Obligations to be held only by BIF members <sup>1</sup>
 
@@ -132,9 +132,9 @@ Section is derived from subsec. (<i>o</i>) of former section 264 of this title. 
 
 #### Amendments
 
-2009—Subsec. (a). Pub. L. 111–22 substituted “$100,000,000,000” for “$30,000,000,000”, designated existing provisions as pars. (1) and (2), inserted par. headings, and added par. (3).
+<b>2009</b>—Subsec. (a). Pub. L. 111–22 substituted “$100,000,000,000” for “$30,000,000,000”, designated existing provisions as pars. (1) and (2), inserted par. headings, and added par. (3).
 
-2006—Subsec. (a). Pub. L. 109–173, §8(a)(20), in fifth sentence, substituted “Deposit Insurance Fund” for “Bank Insurance Fund or the Savings Association Insurance Fund” and “the Deposit Insurance Fund” for “each such fund”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–173, §8(a)(20), in fifth sentence, substituted “Deposit Insurance Fund” for “Bank Insurance Fund or the Savings Association Insurance Fund” and “the Deposit Insurance Fund” for “each such fund”.
 
 Pub. L. 109–171. Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(14)(N). See 1996 Amendment note below.
 
@@ -162,13 +162,13 @@ Subsec. (d)(1). Pub. L. 109–173, §8(a)(23)(B), (C), substituted “insured de
 
 Subsec. (d)(2)(D). Pub. L. 109–173, §8(a)(23)(A), substituted “insured depository institution” for “Bank Insurance Fund member”.
 
-Subsec. (d)(3). Pub. L. 109–173, §8(a)(23)(C), (E), substituted “the Deposit Insurance Fund” for “BIF” in heading and “Deposit Insurance Fund” for “Bank Insurance Fund” in text.
+Subsec. (d)(3). Pub. L. 109–173, §8(a)(23)(C), (E), substituted “the Deposit Insurance Fund” for “BIF” inheading and “Deposit Insurance Fund” for “Bank Insurance Fund” in text.
 
 Subsec. (d)(5). Pub. L. 109–173, §8(a)(23)(A), (F), substituted “insured depository institutions” for “BIF members” in heading and “insured depository institution” for “Bank Insurance Fund member” in subpars. (A) and (B).
 
 Subsec. (e). Pub. L. 109–173, §8(a)(24), added subsec. (e).
 
-1996—Subsec. (a). Pub. L. 104–208, §2704(d)(14)(N), which directed substitution of “Deposit Insurance Fund” for “Bank Insurance Fund or the Savings Association Insurance Fund” and “the Deposit Insurance Fund” for “each such fund” in fifth sentence, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+<b>1996</b>—Subsec. (a). Pub. L. 104–208, §2704(d)(14)(N), which directed substitution of “Deposit Insurance Fund” for “Bank Insurance Fund or the Savings Association Insurance Fund” and “the Deposit Insurance Fund” for “each such fund” in fifth sentence, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
 Subsec. (b). Pub. L. 104–208, §2704(d)(14)(O), which directed substitution of “Deposit Insurance Fund” for “Bank Insurance Fund or Savings Association Insurance Fund”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
@@ -176,19 +176,19 @@ Subsec. (c)(3). Pub. L. 104–208, §2704(d)(14)(P), which directed striking out
 
 Subsec. (d). Pub. L. 104–208, §2704(d)(14)(Q), which directed substitution of “DIF” for “BIF” and “Deposit Insurance Fund” for “Bank Insurance Fund” wherever appearing, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
-1993—Subsec. (c)(3). Pub. L. 103–204 added par. (3).
+<b>1993</b>—Subsec. (c)(3). Pub. L. 103–204 added par. (3).
 
-1992—Subsec. (d)(2)(D). Pub. L. 102–550 substituted “member” for “Member”.
+<b>1992</b>—Subsec. (d)(2)(D). Pub. L. 102–550 substituted “member” for “Member”.
 
-1991—Subsec. (a). Pub. L. 102–242, §101, substituted “$30,000,000,000” for “$5,000,000,000”.
+<b>1991</b>—Subsec. (a). Pub. L. 102–242, §101, substituted “$30,000,000,000” for “$5,000,000,000”.
 
 Subsec. (c). Pub. L. 102–242, §103(a), added subsec. (c).
 
 Subsec. (d). Pub. L. 102–242, §105, added subsec. (d).
 
-1990—Pub. L. 101–508 inserted section catchline, designated existing provisions as subsec. (a), inserted heading, substituted “this subsection” for “this section” wherever appearing, substituted “The Corporation may employ any funds obtained under this section” for “The Corporation may employ such funds”, and added subsec. (b).
+<b>1990</b>—Pub. L. 101–508 inserted section catchline, designated existing provisions as subsec. (a), inserted heading, substituted “this subsection” for “this section” wherever appearing, substituted “The Corporation may employ any funds obtained under this section” for “The Corporation may employ such funds”, and added subsec. (b).
 
-1989—Pub. L. 101–73 substituted “$5,000,000,000 outstanding at any one time, subject to the approval of the Secretary of the Treasury” for “$3,000,000,000 outstanding at any one time”, substituted “an amount determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities” for “the current average rate on outstanding marketable and nonmarketable obligations of the United States as of the last day of the month preceding the making of such loan”, and inserted at end “The Corporation may employ such funds for purposes of the Bank Insurance Fund or the Savings Association Insurance Fund and the borrowing shall become a liability of each such fund to the extent funds are employed therefor. There are hereby appropriated to the Secretary, for fiscal year 1989 and each fiscal year thereafter, such sums as may be necessary to carry out this section.”
+<b>1989</b>—Pub. L. 101–73 substituted “$5,000,000,000 outstanding at any one time, subject to the approval of the Secretary of the Treasury” for “$3,000,000,000 outstanding at any one time”, substituted “an amount determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities” for “the current average rate on outstanding marketable and nonmarketable obligations of the United States as of the last day of the month preceding the making of such loan”, and inserted at end “The Corporation may employ such funds for purposes of the Bank Insurance Fund or the Savings Association Insurance Fund and the borrowing shall become a liability of each such fund to the extent funds are employed therefor. There are hereby appropriated to the Secretary, for fiscal year 1989 and each fiscal year thereafter, such sums as may be necessary to carry out this section.”
 
 #### Change of Name
 

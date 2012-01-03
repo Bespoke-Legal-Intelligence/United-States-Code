@@ -2,7 +2,7 @@
 
 #### (a) Power of Commission
 
-The Commission shall have authority from time to time to make, issue, amend, and rescind such rules and regulations and such orders as are necessary or appropriate to the exercise of the functions and powers conferred upon the Commission elsewhere in this subchapter. For the purposes of its rules or regulations the Commission may classify persons and matters within its jurisdiction and prescribe different requirements for different classes of persons or matters.
+The Commission shall have authority from time to time to make, issue, amend, and rescind such rules and regulations and such orders as are necessary or appropriate to the exercise of the functions and powers conferred upon the Commission elsewhere in this subchapter, including rules and regulations defining technical, trade, and other terms used in this subchapter, except that the Commission may not define the term “client” for purposes of paragraphs (1) and (2) of section 80b–6 of this title to include an investor in a private fund managed by an investment adviser, if such private fund has entered into an advisory contract with such adviser. For the purposes of its rules or regulations the Commission may classify persons and matters within its jurisdiction and prescribe different requirements for different classes of persons or matters.
 
 #### (b) Effective date of regulations
 
@@ -16,11 +16,15 @@ Orders of the Commission under this subchapter shall be issued only after approp
 
 No provision of this subchapter imposing any liability shall apply to any act done or omitted in good faith in conformity with any rule, regulation, or order of the Commission, notwithstanding that such rule, regulation, or order may, after such act or omission, be amended or rescinded or be determined by judicial or other authority to be invalid for any reason.
 
-#### (g) <sup>1</sup> Standard of conduct
+#### (e) Disclosure rules on private funds
+
+The Commission and the Commodity Futures Trading Commission shall, after consultation with the Council but not later than 12 months after July 21, 2010, jointly promulgate rules to establish the form and content of the reports required to be filed with the Commission under subsection <sup>1</sup> 80b–4(b) of this title and with the Commodity Futures Trading Commission by investment advisers that are registered both under this subchapter and the Commodity Exchange Act \[7 U.S.C. 1 et seq.\].
+
+#### (g) <sup>2</sup> Standard of conduct
 
 #### (1) In general
 
-&emsp;The Commission may promulgate rules to provide that the standard of conduct for allbrokers, dealers, and investment advisers, when providing personalized investment advice about securities to retail customers (and such other customers as the Commission may by rule provide), shall be to act in the best interest of the customer without regard to the financial or other interest of the broker, dealer, or investment adviser providing the advice. In accordance with such rules, any material conflicts of interest shall be disclosed and may be consented to by the customer. Such rules shall provide that such standard of conduct shall be no less stringent than the standard applicable to investment advisers under section 80b–6(1) and (2) of this title when providing personalized investment advice about securities, except the Commission shall not ascribe a meaning to the term “customer” that would include an investor in a private fund managed by an investment adviser, where such private fund has entered into an advisory contract with such adviser. The receipt of compensation based on commission or fees shall not, in and of itself, be considered a violation of such standard applied to a broker, dealer, or investment adviser.
+&emsp;The Commission may promulgate rules to provide that the standard of conduct for all brokers, dealers, and investment advisers, when providing personalized investment advice about securities to retail customers (and such other customers as the Commission may by rule provide), shall be to act in the best interest of the customer without regard to the financial or other interest of the broker, dealer, or investment adviser providing the advice. In accordance with such rules, any material conflicts of interest shall be disclosed and may be consented to by the customer. Such rules shall provide that such standard of conduct shall be no less stringent than the standard applicable to investment advisers under section 80b–6(1) and (2) of this title when providing personalized investment advice about securities, except the Commission shall not ascribe a meaning to the term “customer” that would include an investor in a private fund managed by an investment adviser, where such private fund has entered into an advisory contract with such adviser. The receipt of compensation based on commission or fees shall not, in and of itself, be considered a violation of such standard applied to a broker, dealer, or investment adviser.
 
 #### (2) Retail customer defined
 
@@ -42,35 +46,27 @@ The Commission shall—
 
 The enforcement authority of the Commission with respect to violations of the standard of conduct applicable to an investment adviser shall include—
 
-&emsp;(1) the enforcement authority of the Commission with respect to such violations provided under this chapter; and
+&emsp;(1) the enforcement authority of the Commission with respect to such violations provided under this subchapter; and
 
 &emsp;(2) the enforcement authority of the Commission with respect to violations of the standard of conduct applicable to a broker or dealer providing personalized investment advice about securities to a retail customer under the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], including the authority to impose sanctions for such violations, and
 
-> the Commission shall seek to prosecute and sanction violators of the standard of conduct applicable to an investment adviser under this chapter to same extent as the Commission prosecutes and sanctions violators of the standard of conduct applicable to a broker or dealer providing personalized investment advice about securities to a retail customer under the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\].
+> the Commission shall seek to prosecute and sanction violators of the standard of conduct applicable to an investment adviser under this subchapter to same extent as the Commission prosecutes and sanctions violators of the standard of conduct applicable to a broker or dealer providing personalized investment advice about securities to a retail customer under the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\].
 
 (Aug. 22, 1940, ch. 686, title II, §211, 54 Stat. 855; Pub. L. 86–507, §1(16), June 11, 1960, 74 Stat. 201; Pub. L. 86–750, §14, Sept. 13, 1960, 74 Stat. 888; Pub. L. 100–181, title VII, §705, Dec. 4, 1987, 101 Stat. 1264; Pub. L. 111–203, title IV, §406, title IX, §913(g)(2), (h)(2), July 21, 2010, 124 Stat. 1574, 1828, 1829.)
 
-#### Amendment of Section
-
-<i>Pub. L. 111–203, title IV, §§406, 419, July 21, 2010, 124 Stat. 1574, 1580, provided that, effective 1 year after July 21, 2010, except that any investment adviser may, at the discretion of the investment adviser, register with the Commission under the Investment Advisers Act of 1940 during that 1-year period, subject to the rules of the Commission, and except as otherwise provided, this section is amended as follows:</i>
-
-<i>(1) in subsection (a), by inserting before the period at the end of the first sentence the following: “, including rules and regulations defining technical, trade, and other terms used in this subchapter, except that the Commission may not define the term ‘client’ for purposes of paragraphs (1) and (2) of section 80b–6 of this title to include an investor in a private fund managed by an investment adviser, if such private fund has entered into an advisory contract with such adviser”; and</i>
-
-<i>(2) by adding at the end the following:</i>
-
-#### <i>“(e) Disclosure rules on private funds</i>
-
-<i>“The Commission and the Commodity Futures Trading Commission shall, after consultation with the Council but not later than 12 months after July 21, 2010, jointly promulgate rules to establish the form and content of the reports required to be filed with the Commission under subsection 80b–4(b) of this title and with the Commodity Futures Trading Commission by investment advisers that are registered both under this subchapter and the Commodity Exchange Act (7 U.S.C. 1a et seq.).”</i>
-
-<i>See Effective Date of 2010 Amendment note below.</i>
-
 #### References in Text
+
+The Commodity Exchange Act, referred to in subsec. (e), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
 The Securities Exchange Act of 1934, referred to in subsec. (i), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
 
 #### Amendments
 
-<b>2010</b>—Subsecs. (g), (h). Pub. L. 111–203, §913(g)(2), added subsecs. (g) and (h).
+<b>2010</b>—Subsec. (a). Pub. L. 111–203, §406(1), inserted “, including rules and regulations defining technical, trade, and other terms used in this subchapter, except that the Commission may not define the term ‘client’ for purposes of paragraphs (1) and (2) of section 80b–6 of this title to include an investor in a private fund managed by an investment adviser, if such private fund has entered into an advisory contract with such adviser” after “elsewhere in this subchapter”.
+
+Subsec. (e). Pub. L. 111–203, §406(2), which directed addition of subsec. (e) at end of section, was executed by adding subsec. (e) after subsec. (d) to reflect the probable intent of Congress. See Effective Date of 2010 Amendment notes below.
+
+Subsecs. (g), (h). Pub. L. 111–203, §913(g)(2), added subsecs. (g) and (h).
 
 Subsec. (i). Pub. L. 111–203, §913(h)(2), added subsec. (i).
 
@@ -118,5 +114,7 @@ Report Required.—The Commission shall report its findings to the Committee on 
 
 \[For definitions of terms used in section 914 of Pub. L. 111–203, set out above, see section 5301 of Title 12, Banks and Banking.\]
 
-<i><sup>1</sup></i><i> So in original. No subsec. (f) has been enacted. For text of subsec. (e), see Amendment of Section note below.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
+
+<i><sup>2</sup></i><i> So in original. No subsec. (f) has been enacted.</i>
 

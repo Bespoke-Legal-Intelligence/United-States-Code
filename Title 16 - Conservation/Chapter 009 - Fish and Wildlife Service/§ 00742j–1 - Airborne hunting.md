@@ -36,7 +36,7 @@ The Secretary of the Interior shall enforce the provisions of this section and s
 
 #### (e) Forfeiture
 
-All birds, fish, or other animals shot or captured contrary to the provisions of this section, or of any regulation issued hereunder, and all guns, aircraft, and other equipment used to aidin the shooting, attempting to shoot, capturing, or harassing of any bird, fish, or other animal in violation of this section or of any regulation issued hereunder shall be subject to forfeiture to the United States.
+All birds, fish, or other animals shot or captured contrary to the provisions of this section, or of any regulation issued hereunder, and all guns, aircraft, and other equipment used to aid in the shooting, attempting to shoot, capturing, or harassing of any bird, fish, or other animal in violation of this section or of any regulation issued hereunder shall be subject to forfeiture to the United States.
 
 #### (f) Certain customs laws applied
 

@@ -34,7 +34,7 @@ For purposes of this chapter—
 
 &emsp;(12) The term “expenditure report period” with respect to any presidential election means—
 
-&emsp;&emsp;(A) in the case of a major party, the period beginning with the first day of September before the election, or, if earlier, with the date on which such major party at its national convention nominated its candidate for election to the office of President of the United States, and ending 30 days after the date of the presidential election; and
+&emsp;&emsp;(A) in the case of a major party, the period beginning with the first day of Septemberbefore the election, or, if earlier, with the date on which such major party at its national convention nominated its candidate for election to the office of President of the United States, and ending 30 days after the date of the presidential election; and
 
 &emsp;&emsp;(B) in the case of a party which is not a major party, the same period as the expenditure report period of the major party which has the shortest expenditure report period for such presidential election under subparagraph (A).
 

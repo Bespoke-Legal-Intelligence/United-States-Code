@@ -54,7 +54,7 @@ A prior section 1070b–2, Pub. L. 89–329, title IV, §413C, as added Pub. L. 
 
 #### Amendments
 
-<b>1998</b>—Subsec. (d). Pub. L. 105–244 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “If the institution's allocation under this subpart is directly or indirectly based in part on the financial need demonstrated by students who are independent students or attending the institution less than full time and if the total financial need of all such students attending the institution exceeds 5 percent of the total financial need of all students attending such institution, then at least 5 percent of such allotment shall be made available to such students.”
+<b>1998</b>—Subsec. (d). Pub. L. 105–244 amended heading and text of subsec. (d) generally. Prior to amendment,text read as follows: “If the institution's allocation under this subpart is directly or indirectly based in part on the financial need demonstrated by students who are independent students or attending the institution less than full time and if the total financial need of all such students attending the institution exceeds 5 percent of the total financial need of all students attending such institution, then at least 5 percent of such allotment shall be made available to such students.”
 
 <b>1993</b>—Subsec. (d). Pub. L. 103–208 substituted “and” for “, a reasonable proportion of the institution's allocation shall be made available to such students, except that” and “5 percent of the total financial need” for “5 percent of the need”.
 

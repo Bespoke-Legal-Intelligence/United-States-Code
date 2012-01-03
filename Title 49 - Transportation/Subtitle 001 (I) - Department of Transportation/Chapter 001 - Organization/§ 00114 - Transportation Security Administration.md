@@ -50,7 +50,7 @@ Screening Operations.—The Under Secretary shall—
 
 (f)
 
-Additional Duties and Powers.—In addition to carrying out the functions specified in subsections (d) and (e), the Under Secretary shall—
+Additional Duties and Powers.—In addition to carrying out the functions specified insubsections (d) and (e), the Under Secretary shall—
 
 &emsp;(1) receive, assess, and distribute intelligence information related to transportation security;
 
@@ -136,7 +136,7 @@ In general.—The Under Secretary is authorized—
 
 &emsp;&emsp;(A) to acquire (by purchase, lease, condemnation, or otherwise) such real property, or any interest therein, within and outside the continental United States, as the Under Secretary considers necessary;
 
-&emsp;&emsp;(B) to acquire (by purchase, lease, condemnation, or otherwise) and to construct, repair, operate, and maintain such personal property (including office space and patents), or any interest therein, within and outside the continental United States, as the Under Secretary considers necessary;
+&emsp;&emsp;(B) to acquire (by purchase, lease, condemnation, or otherwise) and to construct,repair, operate, and maintain such personal property (including office space and patents), or any interest therein, within and outside the continental United States, as the Under Secretary considers necessary;
 
 &emsp;&emsp;(C) to lease to others such real and personal property and to provide by contract or otherwise for necessary facilities for the welfare of its employees and to acquire, maintain, and operate equipment for these facilities;
 
@@ -302,7 +302,7 @@ Contents of national strategy for transportation security.—The National Strate
 
 &emsp;&emsp;(E) A comprehensive delineation of prevention, response, and recovery responsibilities and issues regarding threatened and executed acts of terrorism within the United States and threatened and executed acts of terrorism outside the United States to the extent such acts affect United States transportation systems.
 
-&emsp;&emsp;(F) A prioritization of research and development objectives that support transportation security needs, giving a higher priority to research and development directed toward protecting vital transportation assets. Transportation security research and development projects shall be based, to the extent practicable, on such prioritization. Nothing in the preceding sentence shall be construedto require the termination of any research or development project initiated by the Secretary of Homeland Security or the Secretary of Transportation before the date of enactment of the Implementing Recommendations of the 9/11 Commission Act of 2007.
+&emsp;&emsp;(F) A prioritization of research and development objectives that support transportation security needs, giving a higher priority to research and development directed toward protecting vital transportation assets. Transportation security research and development projects shall be based, to the extent practicable, on such prioritization. Nothing in the preceding sentence shall be construed to require the termination of any research or development project initiated by the Secretary of Homeland Security or the Secretary of Transportation before the date of enactment of the Implementing Recommendations of the 9/11 Commission Act of 2007.
 
 &emsp;&emsp;(G) A 3- and 10-year budget for Federal transportation security programs that will achieve the priorities of the National Strategy for Transportation Security.
 
@@ -562,7 +562,7 @@ Notice and opportunity to request hearing.—Before imposing a penalty under thi
 
 &emsp;&emsp;&emsp;(i) written notice of the proposed penalty; and
 
-&emsp;&emsp;&emsp;(ii) the opportunity to request a hearing on the proposed penalty, if the Secretary receives the request not later than 30 daysafter the date on which the person receives notice.
+&emsp;&emsp;&emsp;(ii) the opportunity to request a hearing on the proposed penalty, if the Secretary receives the request not later than 30 days after the date on which the person receives notice.
 
 &emsp;(4)
 
@@ -674,7 +674,7 @@ Subsec. (t)(1)(B). Pub. L. 110–53, §1202(a), amended subpar. (B) generally. P
 
 Subsec. (t)(3)(B). Pub. L. 110–53, §1202(b)(1), inserted “, based on risk assessments conducted or received by the Secretary of Homeland Security (including assessments conducted under the Implementing Recommendations of the 9/11 Commission Act of 2007” after “risk-based priorities”.
 
-Subsec. (t)(3)(D). Pub. L. 110–53, §1202(b)(2), substituted “local, and tribal” for “and local” and “cooperation and participation by private sector entities,including nonprofit employee labor organizations,” for “private sector cooperation and participation”.
+Subsec. (t)(3)(D). Pub. L. 110–53, §1202(b)(2), substituted “local, and tribal” for “and local” and “cooperation and participation by private sector entities, including nonprofit employee labor organizations,” for “private sector cooperation and participation”.
 
 Subsec. (t)(3)(E). Pub. L. 110–53, §1202(b)(3), substituted “prevention, response, and recovery” for “response and recovery” and inserted “and threatened and executed acts of terrorism outside the United States to the extent such acts affect United States transportation systems” before period at end.
 

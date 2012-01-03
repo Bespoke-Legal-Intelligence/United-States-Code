@@ -16,7 +16,7 @@
 
 #### (3) Acting Director
 
-&emsp;If the Director dies, resigns, or is otherwise unable to perform the functions and duties of the office, the Deputy Director shall perform the functions and duties of the Director temporarily in an acting capacity pursuant to subchapter III of chapter 33 of title 5.
+&emsp;If the Director dies, resigns, or is otherwise unable to perform the functions and duties ofthe office, the Deputy Director shall perform the functions and duties of the Director temporarily in an acting capacity pursuant to subchapter III of chapter 33 of title 5.
 
 #### (4) Prohibition
 
@@ -112,7 +112,7 @@ The Director—
 
 #### (B) Submission of drug control budget requests
 
-&emsp;&emsp;The head of each National Drug Control Program agency shall ensure timely development and submission to the Director of each proposed drug control budget requesttransmitted pursuant to this paragraph, in such format as may be designated by the Director with the concurrence of the Director of the Office of Management and Budget.
+&emsp;&emsp;The head of each National Drug Control Program agency shall ensure timely development and submission to the Director of each proposed drug control budget request transmitted pursuant to this paragraph, in such format as may be designated by the Director with the concurrence of the Director of the Office of Management and Budget.
 
 #### (C) Content of drug control budget requests
 
@@ -138,7 +138,7 @@ The Director—
 
 #### (i) Inadequate requests
 
-&emsp;&emsp;&emsp;If the Director concludes that a budget request submitted under paragraph (1) is inadequate, in whole or in part, to implement the objectives of the National Drug Control Strategy with respect to the department, agency, or program at issue for the year for which the request is submitted, the Director shall submit to the head of the applicable National Drug Control Program agency a written description of funding levels and specific initiatives that would, in the determination of the Director, make the request adequate to implement those objectives.
+&emsp;&emsp;&emsp;If the Director concludes that a budget request submitted under paragraph (1) is inadequate, in whole or in part, to implement the objectives of the National Drug Control Strategy with respect to the department, agency, or program at issue for the year for which the request is submitted, the Director shall submit to the head of the applicable National Drug Control Program agency a written description offunding levels and specific initiatives that would, in the determination of the Director, make the request adequate to implement those objectives.
 
 #### (ii) Adequate requests
 
@@ -212,7 +212,7 @@ The Director—
 
 #### (A) In general
 
-&emsp;&emsp;No National Drug Control Program agency shall submit to Congress a reprogramming or transfer request with respect to any amount of appropriated funds in an amount exceeding $1,000,000 that is included in the National Drug Control Program budget unless the request has been approved by the Director. If the Director has not responded to a request for reprogramming subject to this subparagraph within 30 days after receiving notice of the request having been made, the request shall be deemed approved by the Director under this subparagraph and forwarded to Congress.
+&emsp;&emsp;No National Drug Control Program agency shall submit to Congress a reprogrammingor transfer request with respect to any amount of appropriated funds in an amount exceeding $1,000,000 that is included in the National Drug Control Program budget unless the request has been approved by the Director. If the Director has not responded to a request for reprogramming subject to this subparagraph within 30 days after receiving notice of the request having been made, the request shall be deemed approved by the Director under this subparagraph and forwarded to Congress.
 
 #### (B) Appeal
 
@@ -328,7 +328,7 @@ In carrying out subsection (b) of this section, the Director may—
 
 #### (5) <sup>3</sup> Restrictions
 
-&emsp;The Director shall not issue a fund control notice to direct that all or part of an amountappropriated to the National Drug Control Program agency account be obligated, modified, or altered in any manner contrary, in whole or in part, to a specific appropriation or statute.
+&emsp;The Director shall not issue a fund control notice to direct that all or part of an amount appropriated to the National Drug Control Program agency account be obligated, modified, or altered in any manner contrary, in whole or in part, to a specific appropriation or statute.
 
 #### (g) Inapplicability to certain programs
 
@@ -404,7 +404,7 @@ Subsec. (c)(3)(D)(iii). Pub. L. 109–469, §105(c)(3), which directed amendment
 
 Subsec. (c)(3)(E). Pub. L. 109–469, §105(c)(1), redesignated subpar. (D) as (E).
 
-Subsec. (c)(3)(E)(ii)(II)(bb). Pub. L. 109–469, §105(c)(4), which directed amendment of item (bb) by inserting “and the appropriate congressional committees,” after “House of Representatives”, was not executed in viewof the identical amendment made by Pub. L. 109–469, §103(c)(2) to subpar. (D)(ii)(II)(bb) prior to its redesignation as (E)(ii)(II)(bb). See above.
+Subsec. (c)(3)(E)(ii)(II)(bb). Pub. L. 109–469, §105(c)(4), which directed amendment of item (bb) by inserting “and the appropriate congressional committees,” after “House of Representatives”, was not executed in view of the identical amendment made by Pub. L. 109–469, §103(c)(2) to subpar. (D)(ii)(II)(bb) prior to its redesignation as (E)(ii)(II)(bb). See above.
 
 Subsec. (c)(4)(A). Pub. L. 109–469, §105(d), substituted “$1,000,000” for “$5,000,000” and inserted at end “If the Director has not responded to a request for reprogramming subject to this subparagraph within 30 days after receiving notice of the request having been made, the request shall be deemed approved by the Director under this subparagraph and forwarded to Congress.”
 
@@ -434,7 +434,7 @@ Ex. Ord. No. 12880, Nov. 16, 1993, 58 F.R. 60989, as amended by Ex. Ord. No. 130
 
 The Office of National Drug Control Policy has the lead responsibility within the Executive Office of the President to establish policies, priorities, and objectives for the Nation's drug control program, with the goal of reducing the production, availability, and use of illegal drugs. All lawful and reasonable means must be used to ensure that the United States has a comprehensive and effective National Drug Control Strategy.
 
-Therefore, by the authority vested in me as President by the Constitution and the laws of the United States of America, including the National Narcotics Leadership Act of 1988, as amended (former 21 U.S.C. 1501 <i>et seq</i>.), and in order to provide for the effective management of the drug abuse policies of the United States, it is hereby ordered as follows:
+Therefore, by the authority vested in me as President by the Constitution and the laws of the United Statesof America, including the National Narcotics Leadership Act of 1988, as amended (former 21 U.S.C. 1501 <i>et seq</i>.), and in order to provide for the effective management of the drug abuse policies of the United States, it is hereby ordered as follows:
 
 Section 1.
 

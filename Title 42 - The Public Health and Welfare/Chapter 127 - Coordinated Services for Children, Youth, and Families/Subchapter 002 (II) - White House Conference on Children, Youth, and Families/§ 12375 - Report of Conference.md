@@ -6,7 +6,7 @@ A proposed report of the Conference which shall include a statement of comprehen
 
 #### (b) Response to proposed report
 
-The chief executive officers of the States, after reviewing and soliciting recommendations and comments on the proposed report of the Conference, shall submit to the Secretary, not later than 180 days after receiving such report, their views and findings on the recommendations of the Conference.
+The chief executive officers of the States, after reviewing and soliciting recommendations and comments on the proposed report of theConference, shall submit to the Secretary, not later than 180 days after receiving such report, their views and findings on the recommendations of the Conference.
 
 #### (c) Final report
 
@@ -27,4 +27,6 @@ Not later than 180 days after submission of the views and comments of the chief 
 #### Change of Name
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 

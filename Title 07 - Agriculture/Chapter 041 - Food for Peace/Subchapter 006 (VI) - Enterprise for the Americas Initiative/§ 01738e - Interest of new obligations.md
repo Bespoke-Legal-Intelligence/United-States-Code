@@ -12,7 +12,7 @@ New obligations issued to an eligible country under section 1738c of this title 
 
 #### (2) Local currency
 
-&emsp;If an eligible country to which a new obligation has been issued under section 1738c of this title has entered into an agreement under section 1738f of this title, interest under such obligation may be paid in the local currency of the eligible country and deposited into an Environmental Fund as provided for in section 1738g of this title. Such interest shall be the property of the eligible country until such time as it is disbursed under section 1738g of this title. Such local currencies shall be used for the purposes specified in the agreement entered into under section 1738f of this title.
+&emsp;If an eligible country to which a new obligation has been issued under section 1738c of thistitle has entered into an agreement under section 1738f of this title, interest under such obligation may be paid in the local currency of the eligible country and deposited into an Environmental Fund as provided for in section 1738g of this title. Such interest shall be the property of the eligible country until such time as it is disbursed under section 1738g of this title. Such local currencies shall be used for the purposes specified in the agreement entered into under section 1738f of this title.
 
 #### (c) Interest previously paid
 
@@ -22,5 +22,5 @@ If an eligible country to which a new obligation has been issued under section 1
 
 #### Amendments
 
-1991—Subsec. (c). Pub. L. 102–237 inserted “accounts” after “Corporation”.
+<b>1991</b>—Subsec. (c). Pub. L. 102–237 inserted “accounts” after “Corporation”.
 

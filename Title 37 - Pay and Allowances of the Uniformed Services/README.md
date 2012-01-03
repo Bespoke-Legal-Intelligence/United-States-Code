@@ -1,5 +1,5 @@
 
-37 U.S.C.<br>United States Code, 2010 Edition<br>Title 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES<br>From the U.S. Government Publishing Office, www.gpo.gov
+37 U.S.C.<br>United States Code, 2011 Edition<br>Title 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 37—PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
 
@@ -10,7 +10,8 @@
 | [<b>1.</b>](Chapter%20001%20-%20Definitions/README.md) | <b>Definitions</b> | <b>101</b> |
 | [<b>3.</b>](Chapter%20003%20-%20Basic%20Pay/README.md) | <b>Basic Pay</b> | <b>201</b> |
 | [<b>5.</b>](Chapter%20005%20-%20Special%20and%20Incentive%20Pays/README.md) | <b>Special and Incentive Pays</b> | <b>301</b> |
-| [<b>7.</b>](Chapter%20007%20-%20Allowances/README.md) | <b>Allowances</b> | <b>401</b> |
+| [<b>7.</b>](Chapter%20007%20-%20Allowances%20Other%20Than%20Travel%20and%20Transportation%20Allowances/README.md) | <b>Allowances Other Than Travel and Transportation Allowances</b> | <b>401</b> |
+| [<b>8.</b>](Chapter%20008%20-%20Travel%20and%20Transportation%20Allowances/README.md) | <b>Travel and Transportation Allowances</b> | <b>451</b> |
 | [<b>9.</b>](Chapter%20009%20-%20Leave/README.md) | <b>Leave</b> | <b>501</b> |
 | [<b>10.</b>](Chapter%20010%20-%20Payments%20to%20Missing%20Persons/README.md) | <b>Payments to Missing Persons</b> | <b>551</b> |
 | [<b>11.</b>](Chapter%20011%20-%20Payments%20to%20Mentally%20Incompetent%20Persons/README.md) | <b>Payments to Mentally Incompetent Persons</b> | <b>601</b> |
@@ -23,7 +24,9 @@
 
 #### Amendments
 
-<b>1966</b>—Pub. L. 89–554, §5(a), Sept. 6, 1966, 80 Stat. 625, inserted item for chapter 10.
+<b>2011</b>—Pub. L. 112–81, div. A, title VI, §631(f)(2), Dec. 31, 2011, 125 Stat. 1464, substituted “Allowances Other Than Travel and Transportation Allowances” for “Allowances” in item for chapter 7 and added item for chapter 8.
+
+<b>1966</b>—Pub. L. 89–554, §5(a), Sept. 6, 1966, 80 Stat. 625, added item for chapter 10.
 
 Table Showing Disposition of All Sections of Former Title 37
 
@@ -809,7 +812,8 @@ Pub. L. 87–649, §14, Sept. 7, 1962, 76 Stat. 498, repealed the sections or pa
 - [Chapter 001 - Definitions](Chapter%20001%20-%20Definitions/README.md)
 - [Chapter 003 - Basic Pay](Chapter%20003%20-%20Basic%20Pay/README.md)
 - [Chapter 005 - Special and Incentive Pays](Chapter%20005%20-%20Special%20and%20Incentive%20Pays/README.md)
-- [Chapter 007 - Allowances](Chapter%20007%20-%20Allowances/README.md)
+- [Chapter 007 - Allowances Other Than Travel and Transportation Allowances](Chapter%20007%20-%20Allowances%20Other%20Than%20Travel%20and%20Transportation%20Allowances/README.md)
+- [Chapter 008 - Travel and Transportation Allowances](Chapter%20008%20-%20Travel%20and%20Transportation%20Allowances/README.md)
 - [Chapter 009 - Leave](Chapter%20009%20-%20Leave/README.md)
 - [Chapter 010 - Payments to Missing Persons](Chapter%20010%20-%20Payments%20to%20Missing%20Persons/README.md)
 - [Chapter 011 - Payments to Mentally Incompetent Persons](Chapter%20011%20-%20Payments%20to%20Mentally%20Incompetent%20Persons/README.md)

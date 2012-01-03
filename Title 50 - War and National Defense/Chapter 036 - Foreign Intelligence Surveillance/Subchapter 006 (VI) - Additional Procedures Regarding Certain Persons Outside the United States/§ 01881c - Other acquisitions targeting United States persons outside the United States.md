@@ -58,7 +58,7 @@ Each application for an order under this section shall be made by a Federal offi
 
 &emsp;&emsp;(A) the application has been made by a Federal officer and approved by the Attorney General;
 
-&emsp;&emsp;(B) on the basis of the facts submitted by the applicant, for the United States person who is the target of the acquisition, there is probable cause to believe that the target is—
+&emsp;&emsp;(B) on the basis of the facts submitted by the applicant, for the United States personwho is the target of the acquisition, there is probable cause to believe that the target is—
 
 &emsp;&emsp;&emsp;(i) a person reasonably believed to be located outside the United States; and
 
@@ -120,7 +120,7 @@ Each application for an order under this section shall be made by a Federal offi
 
 #### (4) Use of information
 
-&emsp;If an application submitted to the Court pursuant to paragraph (1) is denied, or in any other case where the acquisition is terminated and no order with respect to the target of the acquisition is issued under subsection (c), no information obtained or evidence derived from such acquisition, except under circumstances in which the target of the acquisition is determined not to be a United States person, shall be received in evidence or otherwise disclosed in any trial, hearing, or other proceeding in or before any court, grand jury, department, office, agency, regulatory body, legislative committee, or other authority of the United States, a State, or political subdivision thereof, and no information concerning any United States person acquired from such acquisition shall subsequently be used or disclosed in any other manner by Federal officers or employees without the consent of such person, except with the approval of the Attorney General if the information indicates a threat of death or serious bodily harm to any person.
+&emsp;If an application submitted to the Court pursuant to paragraph (1) is denied, or in anyother case where the acquisition is terminated and no order with respect to the target of the acquisition is issued under subsection (c), no information obtained or evidence derived from such acquisition, except under circumstances in which the target of the acquisition is determined not to be a United States person, shall be received in evidence or otherwise disclosed in any trial, hearing, or other proceeding in or before any court, grand jury, department, office, agency, regulatory body, legislative committee, or other authority of the United States, a State, or political subdivision thereof, and no information concerning any United States person acquired from such acquisition shall subsequently be used or disclosed in any other manner by Federal officers or employees without the consent of such person, except with the approval of the Attorney General if the information indicates a threat of death or serious bodily harm to any person.
 
 #### (e) Appeal
 

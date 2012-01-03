@@ -24,7 +24,7 @@ If the Broadcasting Board of Governors determines that the prohibition under sub
 
 #### Amendments
 
-<b>1998</b>—Subsec. (c). Pub. L. 105–277, in introductory provisions, substituted “Broadcasting Board of Governors”for “Director of the United States Information Agency”, “Board begins” for “Agency begins”, and “Board shall” for “Director shall”.
+<b>1998</b>—Subsec. (c). Pub. L. 105–277, in introductory provisions, substituted “Broadcasting Board of Governors” for “Director of the United States Information Agency”, “Board begins” for “Agency begins”, and “Board shall” for “Director shall”.
 
 #### Effective Date of 1998 Amendment
 

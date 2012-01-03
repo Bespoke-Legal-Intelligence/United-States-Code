@@ -28,7 +28,7 @@ This Act, referred to in subsec. (a), means act July 26, 1947, ch. 343, 61 Stat.
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–259, §404(1), inserted “of the Intelligence Community” after “Chief InformationOfficer” and substituted “President.” for “President, by and with the advice and consent of the Senate.”
+<b>2010</b>—Subsec. (a). Pub. L. 111–259, §404(1), inserted “of the Intelligence Community” after “Chief Information Officer” and substituted “President.” for “President, by and with the advice and consent of the Senate.”
 
 Subsecs. (b) to (d). Pub. L. 111–259, §404(2)–(4), redesignated subsecs. (c) and (d) as (b) and (c), respectively, inserted “of the Intelligence Community” after “Chief Information Officer” in two places, and struck out former subsec. (b). Text of former subsec. (b) read as follows: “The Chief Information Officer shall serve as the chief information officer of the intelligence community.”
 

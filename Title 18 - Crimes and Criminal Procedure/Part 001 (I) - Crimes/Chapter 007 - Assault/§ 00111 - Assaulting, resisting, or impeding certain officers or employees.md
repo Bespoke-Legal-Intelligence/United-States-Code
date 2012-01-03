@@ -36,7 +36,7 @@ Subsec. (b). Pub. L. 107–273, §11008(b)(2), substituted “20” for “ten�
 
 <b>1996</b>—Subsec. (b). Pub. L. 104–132 inserted “(including a weapon intended to cause death or danger but that fails to do so by reason of a defective component)” after “deadly or dangerous weapon”.
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–322, §320101(a)(1), inserted “, where the acts in violation of this section constitute only simple assault, be fined under this title or imprisoned not more than one year, or both, and in all other cases,” after “shall” in concluding provisions.
+<b>1994</b>—Subsec. (a). Pub. L. 103–322, §320101(a)(1), inserted “, where the acts in violation of this sectionconstitute only simple assault, be fined under this title or imprisoned not more than one year, or both, and in all other cases,” after “shall” in concluding provisions.
 
 Subsec. (b). Pub. L. 103–322, §320101(a)(2), inserted “or inflicts bodily injury” after “weapon”.
 
@@ -48,5 +48,5 @@ Subsec. (b). Pub. L. 103–322, §320101(a)(2), inserted “or inflicts bodily i
 
 #### Short Title of 2002 Amendment
 
-Pub. L. 107–273, div. C, title I, §11008(a), Nov. 2, 2002, 116 Stat. 1818, provided that: “This section \[amendingthis section, sections 115 and 876 of this title, and provisions set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Federal Judiciary Protection Act of 2002’.”
+Pub. L. 107–273, div. C, title I, §11008(a), Nov. 2, 2002, 116 Stat. 1818, provided that: “This section \[amending this section, sections 115 and 876 of this title, and provisions set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Federal Judiciary Protection Act of 2002’.”
 

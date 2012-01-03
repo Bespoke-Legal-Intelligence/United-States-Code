@@ -8,7 +8,7 @@
 
 (d) The Director shall perform the following functions with respect to veterans who are minorities:
 
-&emsp;(1) Serve as principal adviser to the Secretary on the adoption and implementation ofpolicies and programs affecting veterans who are minorities.
+&emsp;(1) Serve as principal adviser to the Secretary on the adoption and implementation of policies and programs affecting veterans who are minorities.
 
 &emsp;(2) Make recommendations to the Secretary, the Under Secretary for Health, the Under Secretary for Benefits, and other Department officials for the establishment or improvement of programs in the Department for which veterans who are minorities are eligible.
 

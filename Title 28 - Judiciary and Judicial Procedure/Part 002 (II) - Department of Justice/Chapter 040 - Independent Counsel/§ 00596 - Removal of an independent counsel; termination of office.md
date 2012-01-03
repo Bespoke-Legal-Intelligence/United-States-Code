@@ -76,7 +76,7 @@ Amendment by Pub. L. 103–270 applicable with respect to independent counsels a
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–191 effective Dec. 15, 1987, and applicable to proceedings initiated and independentcounsels appointed on and after Dec. 15, 1987, but with subsecs. (a)(3) and (c) applicable to previously initiated proceedings pending on Dec. 15, 1987, see section 6 of Pub. L. 100–191, set out as a note under section 591 of this title.
+Amendment by Pub. L. 100–191 effective Dec. 15, 1987, and applicable to proceedings initiated and independent counsels appointed on and after Dec. 15, 1987, but with subsecs. (a)(3) and (c) applicable to previously initiated proceedings pending on Dec. 15, 1987, see section 6 of Pub. L. 100–191, set out as a note under section 591 of this title.
 
 #### Effective Date of 1984 Amendment
 

@@ -14,5 +14,5 @@ Section is comprised of the ninth par. (formerly the tenth par.) of section 16 o
 
 #### Amendments
 
-1994—Pub. L. 103–325, which directed amendment of “\[t\]he 10th undesignated paragraph of section 16 of the Federal Reserve Act (12 U.S.C. 420)” by substituting “Secretary of the Treasury” for “Comptroller of the Currency” and “Board of Governors of the Federal Reserve System” for “Federal Reserve Board”, was executed by making the substitutions in this section to reflect the probable intent of Congress.
+<b>1994</b>—Pub. L. 103–325, which directed amendment of “\[t\]he 10th undesignated paragraph of section 16 of the Federal Reserve Act (12 U.S.C. 420)” by substituting “Secretary of the Treasury” for “Comptroller of the Currency” and “Board of Governors of the Federal Reserve System” for “Federal Reserve Board”, was executed by making the substitutions in this section to reflect the probable intent of Congress.
 

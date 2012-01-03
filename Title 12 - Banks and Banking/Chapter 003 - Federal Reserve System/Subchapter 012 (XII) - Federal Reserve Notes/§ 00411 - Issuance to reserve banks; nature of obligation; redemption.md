@@ -18,7 +18,7 @@ Par. 11 (formerly 12) of section 16 of act Dec. 23, 1913, formerly classified to
 
 #### Amendments
 
-1934—Act Jan. 30, 1934, struck out from last sentence provision permitting redemption in gold.
+<b>1934</b>—Act Jan. 30, 1934, struck out from last sentence provision permitting redemption in gold.
 
 #### Change of Name
 

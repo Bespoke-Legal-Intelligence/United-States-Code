@@ -321,6 +321,7 @@
 | [2286h.](Division%20A%20-%20Atomic%20Energy/Subchapter%20017%E2%80%93A%20%28XVII%E2%80%93A%29%20-%20Defense%20Nuclear%20Facilities%20Safety%20Board/%C2%A7%2002286h%20-%20Contract%20authority%20subject%20to%20appropriations.md) | Contract authority subject to appropriations. |
 | 2286h–1. | Transmittal of certain information to Congress. |
 | [2286i.](Division%20A%20-%20Atomic%20Energy/Subchapter%20017%E2%80%93A%20%28XVII%E2%80%93A%29%20-%20Defense%20Nuclear%20Facilities%20Safety%20Board/%C2%A7%2002286i%20-%20Annual%20authorization%20of%20appropriations.md) | Annual authorization of appropriations. |
+| [2286j.](Division%20A%20-%20Atomic%20Energy/Subchapter%20017%E2%80%93A%20%28XVII%E2%80%93A%29%20-%20Defense%20Nuclear%20Facilities%20Safety%20Board/%C2%A7%2002286j%20-%20Procurement%20of%20inspector%20general%20services.md) | Procurement of inspector general services. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

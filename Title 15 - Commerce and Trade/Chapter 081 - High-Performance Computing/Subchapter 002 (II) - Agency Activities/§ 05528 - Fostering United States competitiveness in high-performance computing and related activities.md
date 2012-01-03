@@ -30,7 +30,7 @@ The Congress finds the following:
 
 &emsp;&emsp;&emsp;(i) unmanufactured articles, materials, or supplies mined or produced outside the United States; or
 
-&emsp;&emsp;&emsp;(ii) manufactured articles, materials, or supplies other than those manufactured in the United States substantially all from articles, materials, or supplies mined, produced, or manufactured in the United States,
+&emsp;&emsp;&emsp;(ii) manufactured articles, materials, or supplies other than those manufactured inthe United States substantially all from articles, materials, or supplies mined, produced, or manufactured in the United States,
 
 > &emsp;&emsp;under the meaning of chapter 83 of title 41.
 

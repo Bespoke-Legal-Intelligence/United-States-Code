@@ -36,7 +36,7 @@ Subject to subsections (c), (d), and (e) of this section and to such other condi
 
 #### (c) Consent of entity
 
-Operations under this section to prevent, retard, control, or suppress insects or diseases affecting forests and trees on land not controlled or administered by the Secretary shall not be conducted without the consent, cooperation, and participation of the entity having ownership of or jurisdiction over the affected land.
+Operations under this section to prevent, retard, control, or suppress insects or diseases affecting forests and trees on land not controlled or administered by the Secretary shall not be conducted without the consent, cooperation, andparticipation of the entity having ownership of or jurisdiction over the affected land.
 
 #### (d) Contribution by entity
 
@@ -106,7 +106,7 @@ Pub. L. 105–277, div. A, §101(e) \[title III, §347\], Oct. 21, 1998, 112 Sta
 
 “(a)
 
-In General.—Until September 30, 2013, the Forest Service and the Bureau of Land Management, via agreement or contract as appropriate, may enter into stewardship contracting projects with private persons or other public or private entities to perform services to achieve land management goals for the national forests and the public lands that meet local and rural community needs.
+In General.—Until September 30, 2013, the Forest Service and the Bureau of Land Management, via agreement or contract as appropriate, may enter into stewardship contracting projects with private persons or other public or private entities to perform servicesto achieve land management goals for the national forests and the public lands that meet local and rural community needs.
 
 “(b)
 
@@ -232,7 +232,7 @@ Pilot project and purpose.—The Secretary of Agriculture (in this section refer
 
 &emsp;“(2)
 
-Pilot project area.—The Secretary shall conduct the pilot project on the Federal lands within Plumas National Forest, Lassen National Forest, andthe Sierraville Ranger District of Tahoe National Forest in the State of California designated as ‘Available for Group Selection’ on the map entitled ‘QUINCY LIBRARY GROUP Community Stability Proposal’, dated October 12, 1993 (in this section referred to as the ‘pilot project area’). Such map shall be on file and available for inspection in the appropriate offices of the Forest Service.
+Pilot project area.—The Secretary shall conduct the pilot project on the Federal lands within Plumas National Forest, Lassen National Forest, and the Sierraville Ranger District of Tahoe National Forest in the State of California designated as ‘Available for Group Selection’ on the map entitled ‘QUINCY LIBRARY GROUP Community Stability Proposal’, dated October 12, 1993 (in this section referred to as the ‘pilot project area’). Such map shall be on file and available for inspection in the appropriate offices of the Forest Service.
 
 “(c)
 

@@ -70,9 +70,9 @@ Section was enacted as part of the Housing and Urban Development Act of 1965, an
 
 #### Amendments
 
-1991—Subsecs. (a)(2)(B), (e). Pub. L. 102–54 substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs” wherever appearing.
+<b>1991</b>—Subsecs. (a)(2)(B), (e). Pub. L. 102–54 substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs” wherever appearing.
 
-1966—Subsec. (a)(2)(A). Pub. L. 89–754 substituted “Secretary of Housing and Urban Development” for “Federal Housing Commissioner”.
+<b>1966</b>—Subsec. (a)(2)(A). Pub. L. 89–754 substituted “Secretary of Housing and Urban Development” for “Federal Housing Commissioner”.
 
 Subsec. (a)(3). Pub. L. 89–754 redefined as distressed mortgagor, describing in subpar. (A) such a person as an individual whose employment or military service at a military base or other Federal installation was terminated subsequent to Nov. 1, 1964, as the result of closing of such base or installation, formerly defined as an individual who was unemployed, although willing to work, as the result of the closing of a Federal installation, and providing in subpar. (B) for dwelling situated at or near the base or installation and substituting “payments due under such mortgage” for “payments of principal and/or interest under such mortgage”.
 

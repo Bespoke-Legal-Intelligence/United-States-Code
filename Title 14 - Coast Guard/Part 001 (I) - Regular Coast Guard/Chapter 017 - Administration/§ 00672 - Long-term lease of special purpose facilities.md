@@ -16,11 +16,11 @@
 
 #### Amendments
 
-2004—Pub. L. 108–293, §212(a)(1), added section catchline and struck out former section catchline which read as follows: “Long-term lease authority for navigation and communications systems sites”.
+<b>2004</b>—Pub. L. 108–293, §212(a)(1), added section catchline and struck out former section catchline which read as follows: “Long-term lease authority for navigation and communications systems sites”.
 
 Subsec. (a). Pub. L. 108–293, §212(a)(2), inserted “special purpose facilities, including,” after “automatic renewal clauses, for”.
 
 Subsecs. (b), (c). Pub. L. 108–293, §212(a)(3), added subsec. (b), redesignated former subsec. (b) as (c), and substituted “In the case of ATON, VTS, or NDS sites, the” for “The” in introductory provisions.
 
-1996—Pub. L. 104–324 added section catchline and struck out former section catchline.
+<b>1996</b>—Pub. L. 104–324 added section catchline and struck out former section catchline.
 

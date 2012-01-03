@@ -34,23 +34,23 @@
 
 &emsp;Reports submitted under paragraph (1) shall contain a summary of the information contained in the State reports submitted under subsection (a) of this section, and shall reflect the findings and actions taken as a result of any evaluation conducted by the Corporation.
 
-#### (c) Report to Congress by Secretary of Defense
-
-#### (1) Study
-
-&emsp;The Secretary of Defense shall annually conduct a study of the effect of the programs carried out under this subchapter on recruitment for the Armed Forces.
-
-#### (2) Report
-
-&emsp;The Secretary of Defense shall annually submit a report to the authorizing committees, the Committee on Armed Services of the House of Representatives, and the Committee on Armed Services of the Senate containing the findings of the study described in paragraph (1) and such recommendations for legislative and administrative reform as the Secretary may determine to be appropriate.
-
-(Pub. L. 101–610, title I, §172, Nov. 16, 1990, 104 Stat. 3159; Pub. L. 103–82, title I, §114, title IV, §402(b)(1), Sept. 21, 1993, 107 Stat. 861, 918; Pub. L. 111–13, title I, §1602, Apr. 21, 2009, 123 Stat. 1529.)
+(Pub. L. 101–610, title I, §172, Nov. 16, 1990, 104 Stat. 3159; Pub. L. 103–82, title I, §114, title IV, §402(b)(1), Sept. 21, 1993, 107 Stat. 861, 918; Pub. L. 111–13, title I, §1602, Apr. 21, 2009, 123 Stat. 1529; Pub. L. 112–81, div. A, title X, §1063(c), Dec. 31, 2011, 125 Stat. 1586.)
 
 #### References in Text
 
 This chapter, referred to in subsec. (a)(3)(A), was in the original “this Act”, meaning Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, known as the National and Community Service Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (c). Pub. L. 112–81 struck out subsec. (c). Prior to amendment, text read as follows:
+
+“(1)
+
+Study.—The Secretary of Defense shall annually conduct a study of the effect of the programs carried out under this subchapter on recruitment for the Armed Forces.
+
+“(2)
+
+Report.—The Secretary of Defense shall annually submit a report to the authorizing committees, theCommittee on Armed Services of the House of Representatives, and the Committee on Armed Services of the Senate containing the findings of the study described in paragraph (1) and such recommendations for legislative and administrative reform as the Secretary may determine to be appropriate.”
 
 <b>2009</b>—Subsec. (b)(1). Pub. L. 111–13, §1602(1), which directed substitution of “authorizing committees, the Committee on Appropriations of the House of Representatives, and the Committee on Appropriations of the Senate” for “appropriate authorizing and appropriations Committees of Congress”, was executed by making the substitution for “appropriate authorizing and appropriation Committees of Congress” to reflect the probable intent of Congress.
 

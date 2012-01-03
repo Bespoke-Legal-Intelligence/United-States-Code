@@ -26,7 +26,7 @@ Regulations.—This section shall be administered under regulations prescribed b
 
 (f)
 
-Reports.—Not later than January 1, 2010, and annually thereafter through 2014, the Secretary of Defense shall submit to the Director of the Office of Management and Budget, and to Congress, a report on the payment of incentive pay under this section during the preceding fiscal year. Each report shall include, for the fiscal year covered by such report, the following:
+Reports.—Not later than April 1, 2012, and annually thereafter through 2014, the Secretary of Defense shall submit to the Director of the Office of Management and Budget, and to Congress, a report on the payment of incentive pay under this section during the preceding fiscal year. Each report shall include, for the fiscal year covered by such report, the following:
 
 &emsp;(1) The number of individuals paid incentive pay under this section, the number of individuals commencing receipt of incentive pay under this section, and the number of individuals ceasing receipt of incentive pay under this section.
 
@@ -42,9 +42,13 @@ Reports.—Not later than January 1, 2010, and annually thereafter through 2014,
 
 Termination of Authority.—No incentive pay may be paid under this section after December 31, 2013.
 
-(Added Pub. L. 110–417, \[div. A\], title VI, §619(b)(1), Oct. 14, 2008, 122 Stat. 4488.)
+(Added Pub. L. 110–417, \[div. A\], title VI, §619(b)(1), Oct. 14, 2008, 122 Stat. 4488; amended Pub. L. 112–81, div. A, title X, §1065(b), Dec. 31, 2011, 125 Stat. 1588.)
 
 #### Prior Provisions
 
 A prior section 316a, added Pub. L. 102–190, div. A, title VI, §636(a), Dec. 5, 1991, 105 Stat. 1382, related to waiver of certification requirement, prior to repeal by Pub. L. 108–375, div. A, title VI, §620(b)(1), Oct. 28, 2004, 118 Stat. 1954.
+
+#### Amendments
+
+<b>2011</b>—Subsec. (f). Pub. L. 112–81 substituted “April 1, 2012” for “January 1, 2010” in introductory provisions.
 

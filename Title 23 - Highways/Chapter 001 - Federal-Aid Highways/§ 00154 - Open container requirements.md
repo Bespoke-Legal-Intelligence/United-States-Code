@@ -10,7 +10,7 @@ Alcoholic beverage.—The term “alcoholic beverage” has the meaning given th
 
 &emsp;(2)
 
-Motor vehicle.—The term “motor vehicle” means a vehicle driven or drawn by mechanical power and manufactured primarilyfor use on public highways, but does not include a vehicle operated exclusively on a rail or rails.
+Motor vehicle.—The term “motor vehicle” means a vehicle driven or drawn by mechanical power and manufactured primarily for use on public highways, but does not include a vehicle operated exclusively on a rail or rails.
 
 &emsp;(3)
 
@@ -94,7 +94,7 @@ Amount.—The amount of obligation authority referred to in subparagraph (A) sha
 
 &emsp;&emsp;&emsp;(ii) the ratio that—
 
-&emsp;&emsp;&emsp;&emsp;(I) the amount of obligation authority distributed for the fiscal year to the State for Federal-aid highways and highway safety construction programs, bears to
+&emsp;&emsp;&emsp;&emsp;(I) the amount of obligation authority distributed for the fiscal year to theState for Federal-aid highways and highway safety construction programs, bears to
 
 &emsp;&emsp;&emsp;&emsp;(II) the total of the sums apportioned to the State for Federal-aid highways and highway safety construction programs (excluding sums not subject to any obligation limitation) for the fiscal year.
 
@@ -106,7 +106,7 @@ Limitation on applicability of obligation limitation.—Notwithstanding any othe
 
 #### Prior Provisions
 
-A prior section 154, added Pub. L. 93–643, §114(a), Jan. 4, 1975, 88 Stat. 2286; amended Pub. L. 95–599, title II, §205, Nov. 6, 1978, 92 Stat. 2729; Pub. L. 97–35, title XI, §1108, Aug. 13, 1981, 95 Stat. 626; Pub. L. 100–17, title I, §174, Apr. 2, 1987, 101 Stat. 218; Pub. L. 102–240, title I,§1029(a), (b), (e), (g), Dec. 18, 1991, 105 Stat. 1968–1970, established the national maximum speed limit, prior to repeal by Pub. L. 104–59, title II, §205(d)(1)(B), (3), Nov. 28, 1995, 109 Stat. 577, applicable to State on 10th day following Nov. 28, 1995, except that if legislature was not in session on such date and chief executive officer declared before such date that legislature was not in session and that State preferred applicability date that was after date on which legislature would convene, applicable to State on 60th day following date on which legislature would next convene.
+A prior section 154, added Pub. L. 93–643, §114(a), Jan. 4, 1975, 88 Stat. 2286; amended Pub. L. 95–599, title II, §205, Nov. 6, 1978, 92 Stat. 2729; Pub. L. 97–35, title XI, §1108, Aug. 13, 1981, 95 Stat. 626; Pub. L. 100–17, title I, §174, Apr. 2, 1987, 101 Stat. 218; Pub. L. 102–240, title I, §1029(a), (b), (e), (g), Dec. 18, 1991, 105 Stat. 1968–1970, established the national maximum speed limit, prior to repeal by Pub. L. 104–59, title II, §205(d)(1)(B), (3), Nov. 28, 1995, 109 Stat. 577, applicable to State on 10th day following Nov. 28, 1995, except that if legislature was not in session on such date and chief executive officer declared before such date that legislature was not in session and that State preferred applicability date that was after date on which legislature would convene, applicable to State on 60th day following date on which legislature would next convene.
 
 #### Amendments
 

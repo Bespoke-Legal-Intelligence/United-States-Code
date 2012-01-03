@@ -26,7 +26,7 @@ Within one year after October 8, 2010, the Commission shall establish regulation
 
 &emsp;&emsp;&emsp;(ii)
 
-No violation.—If a determination is made that a violation has not occurred, the Commission shall provide the basis for such determination.
+No violation.—If a determination is made that a violation has not occurred,the Commission shall provide the basis for such determination.
 
 #### (C) Consolidation of complaints
 
@@ -66,7 +66,7 @@ No violation.—If a determination is made that a violation has not occurred, th
 
 #### (1) In general
 
-&emsp;Every two years after October 8, 2010, the Commission shall submit to the Committee onCommerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that includes the following:
+&emsp;Every two years after October 8, 2010, the Commission shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that includes the following:
 
 &emsp;&emsp;(A) An assessment of the level of compliance with sections 255, 617, and 619 of this title.
 

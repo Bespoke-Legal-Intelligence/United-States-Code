@@ -90,7 +90,7 @@
 
 (3) There are hereby authorized to be appropriated to the Secretary of State such additional or supplemental amounts as may be necessary for increases in salary, pay, retirement, or other employee benefits authorized by law.
 
-(May 7, 1926, ch. 250, §4, 44 Stat. 404; June 19, 1952, ch. 446, §2, 66 Stat. 140; Pub. L. 86–723, §49, Sept. 8, 1960, 74 Stat. 847; Pub. L. 88–94, §§1, 2(d), Aug. 12, 1963, 77 Stat. 121, 122; Pub. L. 88–414, Aug. 10, 1964, 78 Stat. 387; Pub. L. 89–22, May 21, 1965, 79 Stat. 112; Pub. L. 89–636, §1, Oct. 10, 1966, 80 Stat. 881; Pub. L. 90–442, July 30, 1968, 82 Stat. 461; Pub. L. 91–586, Dec. 24, 1970, 84 Stat. 1578; Pub. L. 93–47, June 22, 1973, 87 Stat. 98; Pub. L. 93–263, Apr. 12, 1974, 88 Stat. 83; Pub. L. 94–141, title I, §171, Nov. 29, 1975, 89 Stat. 760; Pub. L. 94–350, title I, §109, July 12, 1976, 90 Stat. 824; Pub. L. 95–45, §3, June 15, 1977, 91 Stat. 221; Pub. L. 103–199, title V, §503, Dec. 17, 1993, 107 Stat. 2327.)
+(May 7, 1926, ch. 250, §4, 44 Stat. 404; June 19, 1952, ch. 446, §2, 66 Stat. 140; Pub. L. 86–723, §49,Sept. 8, 1960, 74 Stat. 847; Pub. L. 88–94, §§1, 2(d), Aug. 12, 1963, 77 Stat. 121, 122; Pub. L. 88–414, Aug. 10, 1964, 78 Stat. 387; Pub. L. 89–22, May 21, 1965, 79 Stat. 112; Pub. L. 89–636, §1, Oct. 10, 1966, 80 Stat. 881; Pub. L. 90–442, July 30, 1968, 82 Stat. 461; Pub. L. 91–586, Dec. 24, 1970, 84 Stat. 1578; Pub. L. 93–47, June 22, 1973, 87 Stat. 98; Pub. L. 93–263, Apr. 12, 1974, 88 Stat. 83; Pub. L. 94–141, title I, §171, Nov. 29, 1975, 89 Stat. 760; Pub. L. 94–350, title I, §109, July 12, 1976, 90 Stat. 824; Pub. L. 95–45, §3, June 15, 1977, 91 Stat. 221; Pub. L. 103–199, title V, §503, Dec. 17, 1993, 107 Stat. 2327.)
 
 #### References in Text
 
@@ -116,7 +116,7 @@ Subsec. (i). Pub. L. 94–141, §171(b), redesignated former subsec. (h) as (i),
 
 <b>1974</b>—Subsec. (g)(1). Pub. L. 93–263, §1(1)–(3), increased appropriations authorization for fiscal year 1974, in subpar. (A) to $631,000 from $590,000, in subpar. (C) to $204,000 from $160,000, and in subpar. (E) to $2,287,000 from $2,218,000.
 
-Subsec. (g)(2). Pub. L. 92–263, §1(4), increased appropriations authorization for fiscal years 1974 and 1975 to$48,532,000 from $45,800,000 and increased limitation for fiscal year 1974, to $23,066,000 from $21,700,000.
+Subsec. (g)(2). Pub. L. 92–263, §1(4), increased appropriations authorization for fiscal years 1974 and 1975 to $48,532,000 from $45,800,000 and increased limitation for fiscal year 1974, to $23,066,000 from $21,700,000.
 
 <b>1973</b>—Subsec. (g). Pub. L. 93–47, §1(1), added subsec. (g). Former subsec. (g) redesignated (h).
 

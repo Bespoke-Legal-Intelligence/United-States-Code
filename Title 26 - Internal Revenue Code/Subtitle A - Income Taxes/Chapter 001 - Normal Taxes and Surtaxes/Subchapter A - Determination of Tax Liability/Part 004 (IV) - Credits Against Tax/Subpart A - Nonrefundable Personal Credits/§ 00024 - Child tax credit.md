@@ -28,7 +28,7 @@ There shall be allowed as a credit against the tax imposed by this chapter for t
 
 &emsp;&emsp;(A) the sum of the regular tax liability (as defined in section 26(b)) plus the tax imposed by section 55, over
 
-&emsp;&emsp;(B) the sum of the credits allowable under this subpart (other than this section and sections 25A(i), 25B, 25D, 30, 30B, and 30D) and section 27 for the taxable year.
+&emsp;&emsp;(B) the sum of the credits allowable under this subpart (other than this section and sections 23, 25A(i), 25B, 25D, 30, 30B, and 30D) and section 27 for the taxable year.
 
 #### (c) Qualifying child
 
@@ -90,7 +90,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) such dollar amount, multiplied by
 
-&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2000” for “calendar year 1992” in subparagraph (B) thereof.
+&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendaryear in which the taxable year begins, determined by substituting “calendar year 2000” for “calendar year 1992” in subparagraph (B) thereof.
 
 > &emsp;Any increase determined under the preceding sentence shall be rounded to the nearest multiple of $50.
 
@@ -158,7 +158,7 @@ Subsec. (d)(4). Pub. L. 110–343, §501(a), added par. (4).
 
 Subsec. (d)(1)(B)(ii)(II). Pub. L. 110–172, §11(c)(1)(B), substituted “section 32” for “section”.
 
-<b>2005</b>—Subsec. (b)(3). Pub. L. 109–135, §402(i)(3)(B)(i), (H), temporarily substituted “In the case of a taxable year to which section 26(a)(2) does not apply, the credit” for “The credit” in introductory provisions. See Effective and Termination Dates of 2005 Amendment note below.
+<b>2005</b>—Subsec. (b)(3). Pub. L. 109–135, §402(i)(3)(B)(i), (H), temporarily substituted “In the case of a taxableyear to which section 26(a)(2) does not apply, the credit” for “The credit” in introductory provisions. See Effective and Termination Dates of 2005 Amendment note below.
 
 Subsec. (d)(1). Pub. L. 109–135, §402(i)(3)(B)(ii), (H), temporarily reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The aggregate credits allowed to a taxpayer under subpart C shall be increased by the lesser of—
 
@@ -294,7 +294,7 @@ Pub. L. 111–5, div. B, title I, §1144(d), Feb. 17, 2009, 123 Stat. 333, provi
 
 Pub. L. 110–351, title V, §501(d), Oct. 7, 2008, 122 Stat. 3980, provided that: “The amendments made by this section \[amending this section and section 152 of this title\] shall apply to taxable years beginning after December 31, 2008.”
 
-Amendment by section 106(e)(2)(B) of title I of div. B of Pub. L. 110–343 applicable to taxable years beginning after Dec. 31, 2007, and subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, §901, in the same manner as the provisions of such Act to which such amendment relates, see section 106(f)(1), (3) of Pub. L. 110–343, set out as a note under section 36C of this title.
+Amendment by section 106(e)(2)(B) of title I of div. B of Pub. L. 110–343 applicable to taxable years beginning after Dec. 31, 2007, and subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, §901, in the same manner as the provisions of such Act to which such amendment relates, see section 106(f)(1), (3) of Pub. L. 110–343, set out as a note under section 23 of this title.
 
 Pub. L. 110–343, div. B, title II, §205(e), (f), Oct. 3, 2008, 122 Stat. 3839, provided that:
 
@@ -304,7 +304,7 @@ Effective Date.—The amendments made by this section \[enacting section 30D of 
 
 “(f)
 
-Application of EGTRRA Sunset.—The amendment made by subsection (d)(1)(A) \[amending this section\] shall be subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001 \[Pub. L. 107–16, §901, set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title\] in the same manner as the provision of such Act to which such amendment relates.”
+Application of EGTRRA Sunset.—The amendment made by subsection (d)(1)(A) \[amending this section\] shall be subject to title IX of the EconomicGrowth and Tax Relief Reconciliation Act of 2001 \[Pub. L. 107–16, §901, set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title\] in the same manner as the provision of such Act to which such amendment relates.”
 
 Pub. L. 110–343, div. C, title V, §501(b), Oct. 3, 2008, 122 Stat. 3876, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2007.”
 
@@ -314,9 +314,9 @@ Pub. L. 110–172, §11(c)(2), Dec. 29, 2007, 121 Stat. 2489, provided that: “
 
 #### Effective and Termination Dates of 2005 Amendment
 
-Amendment by Pub. L. 109–135 subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, §901, in the same manner as the provisions of such Act to which such amendment relates, see section 402(i)(3)(H) of Pub. L. 109–135, set out as a note under section 36C of this title.
+Amendment by Pub. L. 109–135 subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, §901, in the same manner as the provisions of such Act to which such amendment relates, see section 402(i)(3)(H) of Pub. L. 109–135, set out as a note under section 23 of this title.
 
-Amendment by Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which it relates and applicable to taxable years beginning after Dec. 31, 2005, see section 402(m) of Pub. L. 109–135, set out as a note under section 36C of this title.
+Amendment by Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which it relates and applicable to taxable years beginning after Dec. 31, 2005, see section 402(m) of Pub. L. 109–135, set out as a note under section 23 of this title.
 
 #### Effective and Termination Dates of 2004 Amendment
 
@@ -350,11 +350,11 @@ Amendment by section 411(b) of Pub. L. 107–147 effective as if included in the
 
 #### Effective and Termination Dates of 2001 Amendment
 
-Amendment by sections 201(b), 202(f), and 618(b) of Pub. L. 107–16 inapplicable to taxable years beginning during 2004 or 2005, see section 312(b)(2) of Pub. L. 108–311, set out as a note under section 36C of this title.
+Amendment by sections 201(b), 202(f), and 618(b) of Pub. L. 107–16 inapplicable to taxable years beginning during 2004 or 2005, see section 312(b)(2) of Pub. L. 108–311, set out as a note under section 23 of this title.
 
-Amendment by sections 201(b), 202(f), and 618(b) of Pub. L. 107–16 inapplicable to taxable years beginning during 2002 and 2003, see section 601(b)(2) of Pub. L. 107–147, set out as a note under section 36C of this title.
+Amendment by sections 201(b), 202(f), and 618(b) of Pub. L. 107–16 inapplicable to taxable years beginning during 2002 and 2003, see section 601(b)(2) of Pub. L. 107–147, set out as a note under section 23 of this title.
 
-Pub. L. 107–90, title II, §204(f), Dec. 21, 2001, 115 Stat. 893, provided that: “The amendments made by this section \[enacting subchapter E of chapter 22 of this title and amending this section and sections 72, 3201, 3211,3221, and 3231 of this title\] shall apply to calendar years beginning after December 31, 2001.”
+Pub. L. 107–90, title II, §204(f), Dec. 21, 2001, 115 Stat. 893, provided that: “The amendments made by this section \[enacting subchapter E of chapter 22 of this title and amending this section and sections 72, 3201, 3211, 3221, and 3231 of this title\] shall apply to calendar years beginning after December 31, 2001.”
 
 Pub. L. 107–16, title II, §201(e), June 7, 2001, 115 Stat. 47, provided that:
 
@@ -366,7 +366,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 Subsection (b).—The amendments made by subsection (b) \[amending this section and sections 23, 25, 26, 904, and 1400C of this title\] shall apply to taxable years beginning after December 31, 2001.”
 
-Amendment by section 202(f)(2)(B) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 202(g)(1) of Pub. L. 107–16, set out as a note under section 36C of this title.
+Amendment by section 202(f)(2)(B) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 202(g)(1) of Pub. L. 107–16, set out as a note under section 23 of this title.
 
 Pub. L. 107–16, title VI, §618(d), June 7, 2001, 115 Stat. 108, provided that: “The amendments made by this section \[enacting section 25B of this title and amending this section and sections 25, 25B, 26, 904, and 1400C of this title\] shall apply to taxable years beginning after December 31, 2001.”
 
@@ -388,5 +388,5 @@ Section 101(e) of Pub. L. 105–34 provided that: “The amendments made by this
 
 #### Refunds Disregarded in Administration of Federal and Federally Assisted Programs
 
-Pub. L. 107–16, title II, §203, June 7, 2001, 115 Stat. 49, provided that: “Any payment considered to have been made to any individual by reason of section 24 of the Internal Revenue Code of 1986, as amended by section 201, shall not be taken into account as income and shall not be taken into account as resources for the month of receipt and the following month, for purposes of determining the eligibility of such individual or any other individual for benefits or assistance, or the amount or extent of benefits or assistance, under any Federal program or under any State or local program financed in whole or in part with Federal funds.”
+Pub. L. 107–16, title II, §203, June 7, 2001, 115 Stat. 49, provided that: “Any payment considered to have beenmade to any individual by reason of section 24 of the Internal Revenue Code of 1986, as amended by section 201, shall not be taken into account as income and shall not be taken into account as resources for the month of receipt and the following month, for purposes of determining the eligibility of such individual or any other individual for benefits or assistance, or the amount or extent of benefits or assistance, under any Federal program or under any State or local program financed in whole or in part with Federal funds.”
 

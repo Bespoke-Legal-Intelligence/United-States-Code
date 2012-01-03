@@ -108,7 +108,7 @@ Subsec. (i). Pub. L. 103–322, §40505, added subsec. (i).
 
 Subsec. (f)(4). Pub. L. 101–647, §3595, substituted “604(a)(18)” for “604(a)(17)”.
 
-<b>1988</b>—Subsec. (h). Pub. L. 100–690 amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “An order of restitution may be enforced by the United States in the manner provided in sections 3812 and 3813 or in the same manner as a judgment in a civil action, and by the victim named in the order to receive the restitution in the same manner as a judgment in a civil action.”
+<b>1988</b>—Subsec. (h). Pub. L. 100–690 amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “An order of restitution may be enforced by the United States in the manner provided in sections 3812 and 3813 or in the same manner as a judgment in a civil action, and by the victim named in the order to receivethe restitution in the same manner as a judgment in a civil action.”
 
 <b>1987</b>—Subsec. (f)(4). Pub. L. 100–185 inserted “or the person designated under section 604(a)(17) of title 28” after “Attorney General”.
 

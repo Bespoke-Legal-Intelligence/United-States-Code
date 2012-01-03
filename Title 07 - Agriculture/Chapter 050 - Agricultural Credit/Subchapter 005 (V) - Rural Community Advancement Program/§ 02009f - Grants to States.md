@@ -4,7 +4,7 @@
 
 #### (1) Mandatory grant
 
-&emsp;The Secretary shall make a grant to any eligible State for any fiscal year for which the State requests a grant under this section in an amount equal to 5 percent of the total amount allocated for the State under section 2009d(f) of this title.
+&emsp;The Secretary shall make a grant to any eligible State for any fiscal year for which the State requests a grant under this section in an amount equal to 5 percent of the total amountallocated for the State under section 2009d(f) of this title.
 
 #### (2) Permissive grant
 
@@ -88,7 +88,7 @@ Nothing in this subchapter—
 
 #### Amendments
 
-2002—Subsec. (a)(1), (2). Pub. L. 107–171, §6026(c)(1), substituted “section 2009d(f) of this title” for “section 2009d(g) of this title”.
+<b>2002</b>—Subsec. (a)(1), (2). Pub. L. 107–171, §6026(c)(1), substituted “section 2009d(f) of this title” for “section 2009d(g) of this title”.
 
 Subsec. (b)(1). Pub. L. 107–171, §6026(c)(2), substituted “section 2009d(g) of this title” for “section 2009d(h) of this title”.
 

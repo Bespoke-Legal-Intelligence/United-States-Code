@@ -34,7 +34,7 @@ Each application under this section shall require the approval of the Attorney G
 
 &emsp;&emsp;(ii) the identity, if known, of the person to whom is leased or in whose name is listed the telephone line or other facility to which the pen register or trap and trace device is to be attached or applied; and
 
-&emsp;&emsp;(iii) the attributes of the communications to which the order applies, such as the number or other identifier, and, if known, the location of the telephone line or other facility to which the pen register or trap and trace device is to be attached or applied and, in the case of a trap and trace device, the geographic limits of the trap and trace order;
+&emsp;&emsp;(iii) the attributes of the communications to which the order applies, such as the number or other identifier, and, if known, the location of the telephone line or other facilityto which the pen register or trap and trace device is to be attached or applied and, in the case of a trap and trace device, the geographic limits of the trap and trace order;
 
 &emsp;(B) shall direct that—
 
@@ -132,7 +132,7 @@ Subsec. (d)(2)(A). Pub. L. 107–56, §214(a)(4), amended subpar. (A) generally.
 
 &emsp;&emsp;“(II) the number and, if known, physical location of the telephone line; and
 
-&emsp;“(iii) in the case of an application for the use of a pen register or trap and trace device with respect toa communication instrument or device not covered by clause (ii)—
+&emsp;“(iii) in the case of an application for the use of a pen register or trap and trace device with respect to a communication instrument or device not covered by clause (ii)—
 
 &emsp;&emsp;“(I) the identity, if known, of the person who owns or leases the instrument or device or in whose name the instrument or device is listed; and
 

@@ -280,5 +280,7 @@ Pub. L. 110–229, title VIII, §803(b), May 8, 2008, 122 Stat. 870, provided th
 
 #### Continued Applicability of Subsection (f)(1)(B)(ix)
 
+Pub. L. 112–74, div. F, title III, §306, Dec. 23, 2011, 125 Stat. 1099, provided that: “Section 105(f)(1)(B)(ix) of the Compact of Free Association Amendments Act of 2003 (48 U.S.C. 1921d(f)(1)(B)(ix)) shall be applied by substituting ‘2012’ for ‘2009’.”
+
 Pub. L. 111–117, div. D, title III, §309, Dec. 16, 2009, 123 Stat. 3272, provided that: “Section 105(f)(1)(B)(ix) of the Compact of Free Association Amendments Act of 2003 (48 U.S.C. 1921d(f)(1)(B)(ix)) shall be applied by substituting ‘2010’ for ‘2009’.”
 

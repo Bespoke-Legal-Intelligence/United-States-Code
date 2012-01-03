@@ -20,7 +20,7 @@ In the case of lender paid mortgage insurance that is required in connection wit
 
 &emsp;(1) not later than the date on which a loan commitment is made for the residential mortgage transaction, the prospective mortgagee shall provide to the prospective mortgagor a written notice—
 
-&emsp;&emsp;(A) that lender paid mortgage insurance differs from borrower paid mortgage insurance, in that lender paid mortgage insurance may not be canceled by the mortgagor,while borrower paid mortgage insurance could be cancelable by the mortgagor in accordance with section 4902(a) of this title, and could automatically terminate on the termination date in accordance with section 4902(b) of this title;
+&emsp;&emsp;(A) that lender paid mortgage insurance differs from borrower paid mortgage insurance, in that lender paid mortgage insurance may not be canceled by the mortgagor, while borrower paid mortgage insurance could be cancelable by the mortgagor in accordance with section 4902(a) of this title, and could automatically terminate on the termination date in accordance with section 4902(b) of this title;
 
 &emsp;&emsp;(B) that lender paid mortgage insurance—
 
@@ -46,7 +46,7 @@ The Truth in Lending Act, referred to in subsec.(c)(1)(B)(ii), is title I of Pub
 
 #### Amendments
 
-2000—Subsec. (c). Pub. L. 106–569, §403(c)(1)(A), struck out “a residential mortgage or” before “a residential mortgage transaction” in introductory provisions.
+<b>2000</b>—Subsec. (c). Pub. L. 106–569, §403(c)(1)(A), struck out “a residential mortgage or” before “a residential mortgage transaction” in introductory provisions.
 
 Subsec. (c)(1)(B)(ii). Pub. L. 106–569, §406(a), inserted “(under the meaning given such term in the regulations issued by the Board of Governors of the Federal Reserve System to carry out the Truth in Lending Act (15 U.S.C. 1601 et seq.))” after “refinanced”.
 

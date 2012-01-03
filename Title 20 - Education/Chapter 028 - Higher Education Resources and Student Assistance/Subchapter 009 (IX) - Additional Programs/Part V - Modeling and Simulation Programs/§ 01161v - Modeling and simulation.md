@@ -68,7 +68,7 @@
 
 #### (D) Non-Federal share
 
-&emsp;&emsp;Each eligible institution receiving a grant under this subsection shall provide, from non-Federal sources, in cash or in-kind, an amount equal to 25 percent of the amount of the grant to carry out the activities supported by the grant. The Secretary may waive the non-Federal share requirement under this subparagraph for an eligible institution if the Secretary determines a waiver to be appropriate based on the financial ability of the institution.
+&emsp;&emsp;Each eligible institution receiving a grant under this subsection shall provide, from non-Federal sources, in cash or in-kind, anamount equal to 25 percent of the amount of the grant to carry out the activities supported by the grant. The Secretary may waive the non-Federal share requirement under this subparagraph for an eligible institution if the Secretary determines a waiver to be appropriate based on the financial ability of the institution.
 
 #### (2) Eligible institutions
 
@@ -128,7 +128,7 @@
 
 &emsp;To apply for a grant under this subsection, an eligible institution shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require. Such application shall include—
 
-&emsp;&emsp;(A) a letter from the president or provost of the eligible institution that demonstratesthe institution's commitment to the establishment of a modeling and simulation program at the institution of higher education;
+&emsp;&emsp;(A) a letter from the president or provost of the eligible institution that demonstrates the institution's commitment to the establishment of a modeling and simulation program at the institution of higher education;
 
 &emsp;&emsp;(B) a detailed plan for how the grant funds will be used to establish a modeling and simulation program at the institution; and
 

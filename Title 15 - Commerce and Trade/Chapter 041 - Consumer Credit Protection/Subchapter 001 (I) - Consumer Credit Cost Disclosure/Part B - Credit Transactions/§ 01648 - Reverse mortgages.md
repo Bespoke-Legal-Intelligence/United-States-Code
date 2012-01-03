@@ -4,13 +4,13 @@
 
 In addition to the disclosures required under this subchapter, for each reverse mortgage, the creditor shall, not less than 3 days prior to consummation of the transaction, disclose to the consumer in conspicuous type a good faith estimate of the projected total cost of the mortgage to the consumer expressed as a table of annual interest rates. Each annual interest rate shall be based on a projected total future credit extension balance under a projected appreciation rate for the dwelling and a term for the mortgage. The disclosure shall include—
 
-&emsp;(1) statements of the annual interest rates for not less than 3 projected appreciation rates and not less than 3 credit transaction periods, as determined by the Board, including—
+&emsp;(1) statements of the annual interest rates for not less than 3 projected appreciation rates and not less than 3 credit transaction periods, as determined by the Bureau, including—
 
 &emsp;&emsp;(A) a short-term reverse mortgage;
 
 &emsp;&emsp;(B) a term equaling the actuarial life expectancy of the consumer; and
 
-&emsp;&emsp;(C) such longer term as the Board deems appropriate; and
+&emsp;&emsp;(C) such longer term as the Bureau deems appropriate; and
 
 &emsp;(2) a statement that the consumer is not obligated to complete the reverse mortgage transaction merely because the consumer has received the disclosure required under this section or has signed an application for the reverse mortgage.
 
@@ -22,15 +22,15 @@ In determining the projected total cost of the mortgage to be disclosed to the c
 
 &emsp;(2) all costs and charges to the consumer, including the costs of any associated annuity that the consumer elects or is required to purchase as part of the reverse mortgage transaction;
 
-&emsp;(3) all payments to and for the benefit of the consumer, including, in the case in which an associated annuity is purchased (whether or not required by the lender as a condition of making the reverse mortgage), the annuity payments received by the consumer and financed from the proceeds of the loan, instead of the proceeds used to finance the annuity; and
+&emsp;(3) all payments to and for the benefit of the consumer, including, in the case in which an associated annuity is purchased (whether or not required by the lender as a condition of making the reverse mortgage), the annuity payments received by the consumer and financed from the proceeds of the loan, insteadof the proceeds used to finance the annuity; and
 
 &emsp;(4) any limitation on the liability of the consumer under reverse mortgage transactions (such as nonrecourse limits and equity conservation agreements).
 
 (Pub. L. 90–321, title I, §138, as added Pub. L. 103–325, title I, §154(b), Sept. 23, 1994, 108 Stat. 2196; amended Pub. L. 111–203, title X, §1100A(2), July 21, 2010, 124 Stat. 2107.)
 
-#### Amendment of Section
+#### Amendments
 
-<i>Pub. L. 111–203, title X, §§1100A(2), 1100H, July 21, 2010, 124 Stat. 2107, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Board” each place that term appears and inserting “Bureau”. See Effective Date of 2010 Amendment note below.</i>
+<b>2010</b>—Subsec. (a)(1). Pub. L. 111–203 substituted “Bureau” for “Board” in two places.
 
 #### Effective Date of 2010 Amendment
 

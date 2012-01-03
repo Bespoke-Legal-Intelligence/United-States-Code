@@ -142,5 +142,5 @@ Subsec. (f). Pub. L. 110–233, §101(c), added subsec. (f).
 
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–233 applicable with respect to group health plans for plan years beginningafter the date that is one year after May 21, 2008, see section 101(f)(2) of Pub. L. 110–233, set out as a note under section 1132 of this title.
+Amendment by Pub. L. 110–233 applicable with respect to group health plans for plan years beginning after the date that is one year after May 21, 2008, see section 101(f)(2) of Pub. L. 110–233, set out as a note under section 1132 of this title.
 

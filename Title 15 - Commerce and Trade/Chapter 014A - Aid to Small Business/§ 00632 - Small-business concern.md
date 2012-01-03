@@ -176,7 +176,7 @@ For the purposes of this chapter, the term “small agricultural cooperative” 
 
 #### (k) “Disaster” defined
 
-(1) For the purposes of this chapter, the term “disaster” means a sudden event which causes severe damage including, but not limited to, floods, hurricanes, tornadoes, earthquakes, fires, explosions, volcanoes, windstorms, landslides or mudslides, tidal waves, commercial fishery failures or fishery resource disasters (as determined by the Secretary of Commerce under section 4107(b) of title 16), ocean conditions resulting in the closure of customary fishing waters, riots, civil disorders or other catastrophes, except it does not include economic dislocations.
+(1) For the purposes of this chapter, the term “disaster” means a sudden event which causes severe damage including, but not limited to,floods, hurricanes, tornadoes, earthquakes, fires, explosions, volcanoes, windstorms, landslides or mudslides, tidal waves, commercial fishery failures or fishery resource disasters (as determined by the Secretary of Commerce under section 4107(b) of title 16), ocean conditions resulting in the closure of customary fishing waters, riots, civil disorders or other catastrophes, except it does not include economic dislocations.
 
 (2) For purposes of section 636(b)(2) of this title, the term “disaster” includes—
 
@@ -204,7 +204,7 @@ For purposes of this chapter, the term “simplified acquisition threshold” ha
 
 For the purposes of this chapter, a small business concern is a small business concern owned and controlled by women if—
 
-&emsp;(1) at least 51 percent of small business concern is owned by one or more women or, in thecase of any publicly owned business, at least 51 percent of the stock of which is owned by one or more women; and
+&emsp;(1) at least 51 percent of small business concern is owned by one or more women or, in the case of any publicly owned business, at least 51 percent of the stock of which is owned by one or more women; and
 
 &emsp;(2) the management and daily business operations of the business are controlled by one or more women.
 
@@ -346,7 +346,7 @@ In this chapter:
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) in the case of a contract for services (except construction), not less than 50 percent of the cost of contract performance incurred for personnel will be expended for its employees or for employees of other HUBZone small business concerns;
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) in the case of a contract for procurement of supplies (other than procurement from a regular dealer in such supplies), not less than 50 percent of the cost of manufacturing the supplies (not including the cost of materials) will be incurred in connection with the performance of the contract in a HUBZone by 1 or more HUBZone small business concerns; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) in the case of a contract for procurement of supplies (other than procurement from a regular dealer in suchsupplies), not less than 50 percent of the cost of manufacturing the supplies (not including the cost of materials) will be incurred in connection with the performance of the contract in a HUBZone by 1 or more HUBZone small business concerns; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(cc) in the case of a contract for the procurement by the Secretary of Agriculture of agricultural commodities, none of the commodity being procured will be obtained by the prime contractor through a subcontract for the purchase of the commodity in substantially the final form in which it is to be supplied to the Government; and
 
@@ -362,7 +362,7 @@ In this chapter:
 
 #### (C) Construction and other contracts
 
-&emsp;&emsp;The Administrator shall promulgate final regulations imposing requirements that are similar to those specified in items (aa) and\(bb) of subparagraph (A)(i)(III) on contracts for general and specialty construction, and on contracts for any other industry category that would not otherwise be subject to those requirements. The percentage applicable to any such requirement shall be determined in accordance with subparagraph (B).
+&emsp;&emsp;The Administrator shall promulgate final regulations imposing requirements that are similar to those specified in items (aa) and (bb) of subparagraph (A)(i)(III) on contracts for general and specialty construction, and on contracts for any other industry category that would not otherwise be subject to those requirements. The percentage applicable to any such requirement shall be determined in accordance with subparagraph (B).
 
 #### (D) List of qualified small business concerns
 
@@ -506,7 +506,7 @@ In this chapter, the term “multiple award contract” means—
 
 &emsp;&emsp;(B) Submission of a bid or proposal for a Federal grant, contract, subcontract, cooperative agreement, or cooperative research and development agreement which in any way encourages a Federal agency to classify the bid or proposal, if awarded, as an award to a small business concern.
 
-&emsp;&emsp;(C) Registration on any Federal electronic database for the purpose of being considered for award of a Federal grant, contract, subcontract, cooperative agreement, or cooperative research agreement, as a small business concern.
+&emsp;&emsp;(C) Registration on any Federal electronic database for the purpose of being consideredfor award of a Federal grant, contract, subcontract, cooperative agreement, or cooperative research agreement, as a small business concern.
 
 #### (3) Certification by signature of responsible official
 
@@ -544,7 +544,19 @@ Not later than 1 year after September 27, 2010, the Administrator, in consultati
 
 Subject to section 647(a) of this title and notwithstanding section 647(b)(1) of this title, the Administrator may provide disaster assistance under section 636(b)(2) of this title to aquaculture enterprises that are small businesses.
 
-(Pub. L. 85–536, §2\[3\], July 18, 1958, 72 Stat. 384; Pub. L. 94–305, title I, §112(b), June 4, 1976, 90 Stat. 667; Pub. L. 95–507, title II, §224(b), Oct. 24, 1978, 92 Stat. 1772; Pub. L. 96–302, title V, §504, July 2, 1980, 94 Stat. 851; Pub. L. 96–481, title I, §108, Oct. 21, 1980, 94 Stat. 2323; Pub. L. 97–35, title XIX, §1903, Aug. 13, 1981, 95 Stat. 771; Pub. L. 98–270, title III, §310, Apr. 18, 1984, 98 Stat. 161; Pub. L. 98–362, §6, July 16, 1984, 98 Stat. 434; Pub. L. 98–473, title I, §111A(b), Oct. 12, 1984, 98 Stat. 1966; Pub. L. 99–272, title XVIII, §18016, Apr. 7, 1986, 100 Stat. 371; Pub. L. 99–500, §101(c) \[title X, §921(f)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–149, and Pub. L. 99–591, §101(c) \[title X, §921(f)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–149; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–661, div. A, title IX, formerly title IV, §921(f), Nov. 14, 1986, 100 Stat. 3929, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §10(b)(2), Apr. 21, 1987, 101 Stat. 288; Pub. L. 100–456, div. A, title VIII, §845, Sept. 29, 1988, 102 Stat. 2027; Pub. L. 100–590, title I, §119(b), Nov. 3, 1988, 102 Stat. 2999; Pub. L. 100–656, title VII, §732, Nov. 15, 1988, 102 Stat. 3897; Pub. L. 101–510, div. A, title VIII, §806(e)(1), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 102–366, title II, §222(a), Sept. 4, 1992, 106 Stat. 999; Pub. L. 103–355, title IV, §4404(a), title VII, §7106(d), Oct. 13, 1994, 108 Stat. 3349, 3376; Pub. L. 103–403, title III, §301, Oct. 22, 1994, 108 Stat. 4187; Pub. L. 104–208, div. D, title I, §104(b)(1), Sept. 30, 1996, 110 Stat. 3009–730; Pub. L. 105–135, title IV, §412, title VI, §602(a), Dec. 2, 1997, 111 Stat. 2617, 2627; Pub. L. 106–50, title I, §103(a), title IV, §401(a), Aug. 17, 1999, 113 Stat. 234, 243; Pub. L. 106–554, §1(a)(9) \[title VI, §§602–604, 611, 612(b)–615(a), title VIII, §806(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–697 to 2763A–701, 2763A–706; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–447, div. K, title I, §§151, 152(a)(1), (3)–(c)(1), 162, Dec. 8, 2004, 118 Stat. 3456, 3457, 3465; Pub. L. 109–59, title X, §10203, Aug. 10, 2005, 119 Stat. 1933; Pub. L. 109–163, div. A, title VIII, §§844, 845(a)(1), Jan. 6, 2006, 119 Stat. 3389, 3390; Pub. L. 110–186, title II, §205, Feb. 14, 2008, 122 Stat. 629; Pub. L. 110–234, title XII, §§12063(c)(1), 12071, May 22, 2008, 122 Stat. 1408, 1411; Pub. L. 110–246, §4(a), title XII, §§12063(c)(1), 12071, June 18, 2008, 122 Stat. 1664, 2170, 2173; Pub. L. 111–240, title I, §§1116, 1202(b)(1), 1311, 1341, 1342, 1343(b), 1501, Sept. 27, 2010, 124 Stat. 2509, 2521, 2536, 2543–2545, 2550.)
+#### (aa) Venture capital operating company
+
+In this chapter, the term “venture capital operating company” means an entity described in clause (i), (v), or (vi) of section 121.103(b)(5) of title 13, Code of Federal Regulations (or any successor thereto).
+
+#### (bb) Hedge fund
+
+In this chapter, the term “hedge fund” has the meaning given that term in section 1851(h)(2) of title 12.
+
+#### (cc) Private equity firm
+
+In this chapter, the term “private equity firm” has the meaning given the term “private equity fund” in section 1851(h)(2) of title 12.
+
+(Pub. L. 85–536, §2\[3\], July 18, 1958, 72 Stat. 384; Pub. L. 94–305, title I, §112(b), June 4, 1976, 90 Stat. 667; Pub. L. 95–507, title II, §224(b), Oct. 24, 1978, 92 Stat. 1772; Pub. L. 96–302, title V, §504, July 2, 1980, 94 Stat. 851; Pub. L. 96–481, title I, §108, Oct. 21, 1980, 94 Stat. 2323; Pub. L. 97–35, title XIX, §1903, Aug. 13, 1981, 95 Stat. 771; Pub. L. 98–270, title III, §310, Apr. 18, 1984, 98 Stat. 161; Pub. L. 98–362, §6, July 16, 1984, 98 Stat. 434; Pub. L. 98–473, title I, §111A(b), Oct. 12, 1984, 98 Stat. 1966; Pub. L. 99–272, title XVIII, §18016, Apr. 7, 1986, 100 Stat. 371; Pub. L. 99–500, §101(c) \[title X, §921(f)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–149, and Pub. L. 99–591, §101(c) \[title X, §921(f)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–149; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–661, div. A, title IX, formerly title IV, §921(f), Nov. 14, 1986, 100 Stat. 3929, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §10(b)(2), Apr. 21, 1987, 101 Stat. 288; Pub. L. 100–456, div. A, title VIII, §845, Sept. 29, 1988, 102 Stat. 2027; Pub. L. 100–590, title I, §119(b), Nov. 3, 1988, 102 Stat. 2999; Pub. L. 100–656, title VII, §732, Nov. 15, 1988, 102 Stat. 3897; Pub. L. 101–510, div. A, title VIII, §806(e)(1), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 102–366, title II, §222(a), Sept. 4, 1992, 106 Stat. 999; Pub. L. 103–355, title IV, §4404(a), title VII, §7106(d), Oct. 13, 1994, 108 Stat. 3349, 3376; Pub. L. 103–403, title III, §301, Oct. 22, 1994, 108 Stat. 4187; Pub. L. 104–208, div. D, title I, §104(b)(1), Sept. 30, 1996, 110 Stat. 3009–730; Pub. L. 105–135, title IV, §412, title VI, §602(a), Dec. 2, 1997, 111 Stat. 2617, 2627; Pub. L. 106–50, title I, §103(a), title IV, §401(a), Aug. 17, 1999, 113 Stat. 234, 243; Pub. L. 106–554, §1(a)(9) \[title VI, §§602–604, 611, 612(b)–615(a), title VIII, §806(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–697 to 2763A–701, 2763A–706; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–447, div. K, title I, §§151, 152(a)(1), (3)–(c)(1), 162, Dec. 8, 2004, 118 Stat. 3456, 3457, 3465; Pub. L. 109–59, title X, §10203, Aug. 10, 2005, 119 Stat. 1933; Pub. L. 109–163, div. A, title VIII, §§844, 845(a)(1), Jan. 6, 2006, 119 Stat. 3389, 3390; Pub. L. 110–186, title II, §205, Feb. 14, 2008, 122 Stat. 629; Pub. L. 110–234, title XII, §§12063(c)(1), 12071, May 22, 2008, 122 Stat. 1408, 1411; Pub. L. 110–246, §4(a), title XII, §§12063(c)(1), 12071, June 18, 2008, 122 Stat. 1664, 2170, 2173; Pub. L. 111–240, title I, §§1116, 1202(b)(1), 1311, 1341, 1342, 1343(b), 1501, Sept. 27, 2010, 124 Stat. 2509, 2521, 2536, 2543–2545, 2550; Pub. L. 112–81, div. E, title LI, §5107(b), Dec. 31, 2011, 125 Stat. 1829.)
 
 #### References in Text
 
@@ -572,9 +584,11 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Prior Provisions
 
-Prior similar provisions were contained in section 203 of act July 30, 1953, ch. 282, title II, 67 Stat. 233, whichwas previously classified to this section. See Codification note set out under section 631 of this title.
+Prior similar provisions were contained in section 203 of act July 30, 1953, ch. 282, title II, 67 Stat. 233, which was previously classified to this section. See Codification note set out under section 631 of this title.
 
 #### Amendments
+
+<b>2011</b>—Subsecs. (aa) to (cc). Pub. L. 112–81 added subsecs. (aa) to (cc).
 
 <b>2010</b>—Subsec. (a)(5). Pub. L. 111–240, §1116, added par. (5).
 
@@ -740,7 +754,7 @@ Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 
 
 #### Effective Date of 1996 Amendment
 
-Section 104(b)(2) of div. D of Pub. L. 104–208 provided that: “The amendment made by paragraph (1) \[amending this section\] shall be effective with respect to any disaster occurring on or after March 1, 1994.”
+Pub. L. 104–208, div. D, title I, §104(b)(2), Sept. 30, 1996, 110 Stat. 3009–731, provided that: “The amendment made by paragraph (1) \[amending this section\] shall be effective with respect to any disaster occurring on or after March 1, 1994.”
 
 #### Effective Date of 1994 Amendment
 
@@ -748,7 +762,7 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 #### Effective Date of 1987 Amendment
 
-Section 12(c) of Pub. L. 100–26 provided that: “The amendments made by sections 5 \[amending section 2365 of Title 10, Armed Forces, and amending provisions set out as notes under sections 1621, 2326, and 2437 of Title 10\] and 10 \[amending this section, sections 637 and 644 of this title, and provisions set out as a note under this section\] shall apply as if included in each instance of the Defense Acquisition Improvement Act (as specified in section 2) \[title X of section 101(c) of Pub. L. 99–500 and Pub. L. 99–591, and title IX of div. A of Pub. L. 99–661\] when each was enacted \[Oct. 18, 1986, Oct. 30, 1986, and Nov. 14, 1986, respectively\].”
+Pub. L. 100–26, §12(c), Apr. 21, 1987, 101 Stat. 289, provided that: “The amendments made by sections 5 \[amending section 2365 of Title 10, Armed Forces, and amending provisions set out as notes under sections 1621, 2326, and 2437 of Title 10\] and 10 \[amending this section, sections 637 and 644 of this title, and provisions set out as a note under this section\] shall apply as if included in each instance of the Defense Acquisition Improvement Act (as specified in section 2) \[title X of section 101(c) of Pub. L. 99–500 and Pub. L. 99–591, and title IX of div. A of Pub. L. 99–661\] when each was enacted \[Oct. 18, 1986, Oct. 30, 1986, and Nov. 14, 1986, respectively\].”
 
 #### Effective Date of 1986 Amendment; Initial Review of Standards
 
@@ -768,9 +782,9 @@ Initial Review of Size Standards.—(1) Paragraph (2) of section 3(a) of the Sma
 
 #### Effective Date of 1984 Amendments
 
-Section 312 of title III of Pub. L. 98–270 provided that: “The amendments made by sections 310 and 311 of this title \[amending this section and section 636 of this title\] shall apply to loans granted on the basis of any disaster with respect to which a declaration has been issued after September 1, 1982, under section 7(b)(2) (A), (B), or (C) of the Small Business Act \[15 U.S.C. 636(b)(2)(A), (B), (C)\] or with respect to which a certification has been made after such date under section 7(b)(2)(D) of such Act.”
+Pub. L. 98–270, title III, §312, Apr. 18, 1984, 98 Stat. 161, provided that: “The amendments made by sections 310 and 311 of this title \[amending this section and section 636 of this title\] shall apply to loans granted on the basis of any disaster with respect to which a declaration has been issued after September 1, 1982, under section 7(b)(2) (A), (B), or (C) of the Small Business Act \[15 U.S.C. 636(b)(2)(A), (B), (C)\] or with respect to which a certification has been made after such date under section 7(b)(2)(D) of such Act.”
 
-Section 313 of title III of Pub. L. 98–270 provided that: “This title \[amending this section and sections 633, 636, and 647 of this title, enacting provisions set out as notes under sections 632 and 636 of this title, and amending provisions set out as a note under section 631 of this title\] shall take effect October 1, 1983.”
+Pub. L. 98–270, title III, §313, Apr. 18, 1984, 98 Stat. 162, provided that: “This title \[amending this section and sections 633, 636, and 647 of this title, enacting provisions set out as notes under sections 632 and 636 of this title, and amending provisions set out as a note under section 631 of this title\] shall take effect October 1, 1983.”
 
 Amendment by Pub. L. 98–362 effective Oct. 1, 1984, see section 7(a) of Pub. L. 98–362, set out as an Effective and Termination Dates of 1984 Amendments note under section 633 of this title.
 
@@ -786,7 +800,7 @@ Amendment by Pub. L. 96–302 effective Oct. 1, 1980, see section 507 of Pub. L.
 
 Pub. L. 109–163, div. A, title VIII, §845(d), Jan. 6, 2006, 119 Stat. 3391, provided that: “Not later than 45 days after the date of enactment of this Act \[Jan. 6, 2006\], the Administrator of the Small Business Administration shall promulgate final rules to carry out this section \[amending this section and section 636 of this title\] and the amendments made by this section.”
 
-Section 605 of title VI of Pub. L. 105–135 provided that:
+Pub. L. 105–135, title VI, §605, Dec. 2, 1997, 111 Stat. 2635, provided that:
 
 “(a)
 
@@ -796,7 +810,7 @@ In General.—Not later than 180 days after the date of enactment of this Act \[
 
 Federal Acquisition Regulation.—Not later than 180 days after the date on which final regulations are published under subsection (a), the Federal Acquisition Regulatory Council shall amend the Federal Acquisition Regulation in order to ensure consistency between the Federal Acquisition Regulation, this title and the amendments made by this title, and the final regulations published under subsection (a).”
 
-Section 222(b) of Pub. L. 102–366 provided that:
+Pub. L. 102–366, title II, §222(b), Sept. 4, 1992, 106 Stat. 999, provided that:
 
 “(1)
 
@@ -844,7 +858,7 @@ In general.—The Administrator shall—
 
 &emsp;&emsp;“(A) during the 18-month period beginning on the date of enactment of this Act \[Sept. 27, 2010\], and during every 18-month period thereafter, conduct a detailed review of not less than 1/3 of the size standards for small business concerns established under section 3(a)(2) of the Small Business Act (15 U.S.C. 632(a)(2)), which shall include holding not less than 2 public forums located in different geographic regions of the United States;
 
-&emsp;&emsp;“(B) after completing each review under subparagraph (A) make appropriate adjustments to the sizestandards established under section 3(a)(2) of the Small Business Act to reflect market conditions;
+&emsp;&emsp;“(B) after completing each review under subparagraph (A) make appropriate adjustments to the size standards established under section 3(a)(2) of the Small Business Act to reflect market conditions;
 
 &emsp;&emsp;“(C) make publicly available—
 

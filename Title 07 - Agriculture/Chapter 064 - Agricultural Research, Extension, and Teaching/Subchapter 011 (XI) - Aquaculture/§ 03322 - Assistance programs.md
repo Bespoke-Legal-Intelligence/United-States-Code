@@ -42,11 +42,11 @@ The National Aquaculture Act of 1980, referred to in subsecs. (a), (b), and (c),
 
 #### Amendments
 
-1996—Subsecs. (e) to (g). Pub. L. 104–127 redesignated subsecs. (f) and (g) as (e) and (f), respectively, and struck out heading and text of former subsec. (e). Text read as follows: “Not later than March 1 of each year, the Secretary shall submit a report to the President, the House Committee on Agriculture, the House Committee on Merchant Marine and Fisheries, the House Committee on Appropriations, the Senate Committee on Agriculture, Nutrition, and Forestry, and the Senate Committee on Appropriations, containing a summary outlining the progress of the Department of Agriculture in meeting the purposes of the programs established under this subchapter.”
+<b>1996</b>—Subsecs. (e) to (g). Pub. L. 104–127 redesignated subsecs. (f) and (g) as (e) and (f), respectively, and struck out heading and text of former subsec. (e). Text read as follows: “Not later than March 1 of each year, the Secretary shall submit a report to the President, the House Committee on Agriculture, the House Committee on Merchant Marine and Fisheries, the House Committee on Appropriations, the Senate Committee on Agriculture, Nutrition, and Forestry, and the Senate Committee on Appropriations, containing a summary outlining the progress of the Department of Agriculture in meeting the purposes of the programs established under this subchapter.”
 
-1995—Subsec. (e). Pub. L. 104–66 struck out “(1)” before “Not later than” and struck out par. (2) which required Secretary to conduct a study assessing economic impact of animal damage to the United States aquaculture industry.
+<b>1995</b>—Subsec. (e). Pub. L. 104–66 struck out “(1)” before “Not later than” and struck out par. (2) which required Secretary to conduct a study assessing economic impact of animal damage to the United States aquaculture industry.
 
-1990—Subsec. (a). Pub. L. 101–624, §1614(a)(1), inserted heading and substituted “United States and to enhance further the safety of food products derived from the aquaculture industry,” for “United States,”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–624, §1614(a)(1), inserted heading and substituted “United States and to enhance further the safety of food products derived from the aquaculture industry,” for “United States,”.
 
 Subsec. (b). Pub. L. 101–624, §1614(a)(2), inserted heading, inserted “and sea grant” after “land-grant” in par. (1), and inserted before period at end “and to enhance further the safety and wholesomeness of those species and products, including the development of reliable supplies of seed stock and therapeutic compounds”.
 
@@ -58,7 +58,7 @@ Subsec. (e). Pub. L. 101–624, §1614(a)(5), inserted heading, designated exist
 
 Subsecs. (f), (g). Pub. L. 101–624, §1614(a)(6), added subsecs. (f) and (g).
 
-1985—Subsec. (b). Pub. L. 99–198, §1429(a)(1), (2), added par. (4) and inserted “(of which amount an in-kind contribution may not exceed 50 percent)” after “matching grant”.
+<b>1985</b>—Subsec. (b). Pub. L. 99–198, §1429(a)(1), (2), added par. (4) and inserted “(of which amount an in-kind contribution may not exceed 50 percent)” after “matching grant”.
 
 Subsec. (d). Pub. L. 99–198, §1429(a)(3), (4), substituted in first sentence “any of the non-Federal entities specified in subsection (b) of this section” for “State agencies (including State departments of agriculture), and land-grant colleges and universities,” and inserted provision respecting geographic location of aquaculture research, development, and demonstration centers.
 

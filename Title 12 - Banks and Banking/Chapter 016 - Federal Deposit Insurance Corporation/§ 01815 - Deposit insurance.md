@@ -52,11 +52,11 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 (2) After any branch of a foreign bank becomes an insured branch, the bank shall maintain on deposit with the Corporation, or as the Corporation may direct, surety bonds or assets or both, in such amounts and of such types as shall be determined from time to time in accordance with such regulations as the Board of Directors may prescribe. Such regulations may impose differing requirements on the basis of any factors which in the judgment of the Board of Directors are reasonably related to the purpose set forth in paragraph (4).
 
-(3) The Corporation may require of any given bank larger deposits of bonds and assets than required under paragraph (2) of this subsection if, in the judgment of the Corporation, the situation of that bank or any branch thereof is or becomes such that the deposits of bonds and assets otherwise required under this section would not adequately fulfill the purpose set forth in paragraph (4). The imposition of any such additional requirements may be without notice or opportunity for hearing, but the Corporation shall afford an opportunity to any such bank to apply for a reduction or removal of any such additional requirements so imposed.
+(3) The Corporation may require of any given bank larger deposits of bonds and assets than required under paragraph (2) of this subsection if,in the judgment of the Corporation, the situation of that bank or any branch thereof is or becomes such that the deposits of bonds and assets otherwise required under this section would not adequately fulfill the purpose set forth in paragraph (4). The imposition of any such additional requirements may be without notice or opportunity for hearing, but the Corporation shall afford an opportunity to any such bank to apply for a reduction or removal of any such additional requirements so imposed.
 
 (4) The purpose of the surety bonds and pledges of assets required under this subsection is to provide protection to the Deposit Insurance Fund against the risks entailed in insuring the domestic deposits of a foreign bank whose activities, assets, and personnel are in large part outside the jurisdiction of the United States. In the implementation of its authority under this subsection, however, the Corporation shall endeavor to avoid imposing requirements on such banks which would unnecessarily place them at a competitive disadvantage in relation to domestically incorporated banks.
 
-(5) In the case of any failure or threatened failure of a foreign bank to comply with any requirement imposed under this subsection (c), the Corporation, in addition to all other administrative and judicial remedies, may apply to any United States district court, or United States court of any territory, within the jurisdiction of which any branch of the bank is located, for aninjunction to compel such bank and any officer, employee, or agent thereof, or any other person having custody or control of any of its assets, to deliver to the Corporation such assets as may be necessary to meet such requirement, and to take any other action necessary to vest the Corporation with control of assets so delivered. If the court shall determine that there has been any such failure or threatened failure to comply with any such requirement, it shall be the duty of the court to issue such injunction. The propriety of the requirement may be litigated only as provided in chapter 7 of title 5, and may not be made an issue in an action for an injunction under this paragraph.
+(5) In the case of any failure or threatened failure of a foreign bank to comply with any requirement imposed under this subsection (c), the Corporation, in addition to all other administrative and judicial remedies, may apply to any United States district court, or United States court of any territory, within the jurisdiction of which any branch of the bank is located, for an injunction to compel such bank and any officer, employee, or agent thereof, or any other person having custody or control of any of its assets, to deliver to the Corporation such assets as may be necessary to meet such requirement, and to take any other action necessary to vest the Corporation with control of assets so delivered. If the court shall determine that there has been any such failure or threatened failure to comply with any such requirement, it shall be the duty of the court to issue such injunction. The propriety of the requirement may be litigated only as provided in chapter 7 of title 5, and may not be made an issue in an action for an injunction under this paragraph.
 
 #### (d) Insurance fees
 
@@ -114,7 +114,7 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 #### (C) Priority
 
-&emsp;&emsp;The liability of any insured depository institution under this subsection shall have priority with respect to other obligations and liabilities as follows:
+&emsp;&emsp;The liability of any insured depository institution under this subsection shall havepriority with respect to other obligations and liabilities as follows:
 
 #### (i) Superiority
 
@@ -192,7 +192,7 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 #### (6) Exclusion for institutions acquired in debt collections
 
-&emsp;Any depository institution shall not be treated as commonly controlled, for purposes of this subsection, during the 5-year period beginning on the date of an acquisition described in subparagraph (A) or such longer period as the Corporation may determine after written application by the acquirer, if—
+&emsp;Any depository institution shall not be treated as commonly controlled, for purposesof this subsection, during the 5-year period beginning on the date of an acquisition described in subparagraph (A) or such longer period as the Corporation may determine after written application by the acquirer, if—
 
 &emsp;&emsp;(A) 1 depository institution controls another by virtue of ownership of voting shares acquired in securing or collecting a debt previously contracted in good faith; and
 
@@ -202,7 +202,7 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 &emsp;No depository institution shall have any liability to the Corporation under this subsection as the result of the default of, or assistance provided with respect to, an insured depository institution which is an affiliate of such depository institution if—
 
-&emsp;&emsp;(A) such affiliate was receiving cash payments from the Federal Savings and LoanInsurance Corporation under an assistance agreement or note entered into before August 9, 1989;
+&emsp;&emsp;(A) such affiliate was receiving cash payments from the Federal Savings and Loan Insurance Corporation under an assistance agreement or note entered into before August 9, 1989;
 
 &emsp;&emsp;(B) the Federal Savings and Loan Insurance Corporation, or such other entity which has succeeded to the payment obligations of such Corporation with respect to such assistance agreement or note, is unable to continue such payments; and
 
@@ -228,7 +228,7 @@ Section is derived from subsec. (f)(2) of former section 264 of this title. See 
 
 #### Amendments
 
-2006—Subsec. (b)(5). Pub. L. 109–173, §8(a)(2), substituted “the Deposit Insurance Fund,” for “the Bank Insurance Fund or the Savings Association Insurance Fund,”.
+<b>2006</b>—Subsec. (b)(5). Pub. L. 109–173, §8(a)(2), substituted “the Deposit Insurance Fund,” for “the Bank Insurance Fund or the Savings Association Insurance Fund,”.
 
 Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(14)(B). See 1996 Amendment note below.
 
@@ -256,7 +256,7 @@ Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(14)(E)(ii), (iii). See 1
 
 Subsec. (e)(8)(A). Pub. L. 109–351, §703, which directed general amendment of par. (9)(A) of subsec. (e), was executed by making the amendment to par. (8)(A) to reflect the probable intent of Congress and amendment by 109–173, §8(a)(6)(B), (C). Prior to amendment, subpar. (A) read as follows: “such institutions are controlled by the same depository institution holding company (including any company required to file reports pursuant to section 1843(f)(6) of this title); or”.
 
-1996—Subsec. (b)(5). Pub. L. 104–208, §2704(d)(14)(B), which directed substitution of “Deposit Insurance Fund,” for “the Bank Insurance Fund or the Savings Association Insurance Fund;”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+<b>1996</b>—Subsec. (b)(5). Pub. L. 104–208, §2704(d)(14)(B), which directed substitution of “Deposit Insurance Fund,” for “the Bank Insurance Fund or the Savings Association Insurance Fund;”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
 Subsec. (d). Pub. L. 104–208, §2704(d)(14)(C) and (D), which directed the amendment of subsec. (d) by striking out par. (1) designation and heading, redesignating subpar. (A) of par. (1) as par. (1), realigning margin, and substituting “the reserve ratio of the Deposit Insurance Fund” for “reserve ratios in the Bank Insurance Fund and the Savings Association Insurance Fund”, striking out subpar. (B) of par. (1) and pars. (2) and (3) and adding new par. (2), and redesignating subpar. (C) of par. (1) as par. (3) and realigning margin, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
@@ -274,7 +274,7 @@ Subsec. (e)(5)(A). Pub. L. 104–208, §2704(d)(14)(E)(i), which directed substi
 
 Subsec. (e)(6) to (9). Pub. L. 104–208, §2704(d)(14)(E)(ii), (iii), which directed striking out par. (6) and redesignating pars. (7) to (9) as (6) to (8), respectively, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
-1994—Subsec. (b)(5). Pub. L. 103–325, §602(a)(2), substituted comma for semicolon at end.
+<b>1994</b>—Subsec. (b)(5). Pub. L. 103–325, §602(a)(2), substituted comma for semicolon at end.
 
 Subsec. (d)(3)(A). Pub. L. 103–325, §319(b)(1), redesignated cl. (i) formerly entitled “In general” as subpar. (A), inserted comma after “Notwithstanding paragraph (2)(A)”, and struck out heading and text of cl. (ii). Text read as follows: “If, in connection with any transaction referred to in clause (i), the acquiring, assuming, or resulting depository institution is a Bank Insurance Fund member which is a subsidiary of a bank holding company, the prior written approval of the Board shall be required for such transaction in addition to the approval of any agency referred to in clause (i).”
 
@@ -290,17 +290,17 @@ Subsec. (d)(3)(K). Pub. L. 103–325, §319(b)(4), struck out heading and text o
 
 Subsec. (e)(4). Pub. L. 103–325, §602(a)(3), redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, and realigned margins.
 
-1993—Subsec. (d)(2)(A)(ii). Pub. L. 103–204, §9(a), substituted “before the later of the end” for “before the end” and inserted before period at end “or the date on which the Savings Association Insurance Fund first meets or exceeds the designated reserve ratio for such fund”.
+<b>1993</b>—Subsec. (d)(2)(A)(ii). Pub. L. 103–204, §9(a), substituted “before the later of the end” for “before the end” and inserted before period at end “or the date on which the Savings Association Insurance Fund first meets or exceeds the designated reserve ratio for such fund”.
 
 Subsec. (d)(2)(B)(v). Pub. L. 103–204, §9(b), added cl. (v).
 
 Subsec. (d)(2)(C)(ii), (iii), (3)(I)(i). Pub. L. 103–204, §9(c), substituted “moratorium period established by” for “5-year period referred to in”.
 
-1992—Subsec. (d)(3)(B). Pub. L. 102–558, §303(b)(6)(B), amended directory language of Pub. L. 102–242, §302(e). See 1991 amendment note below. Pub. L. 102–550, §1605(a)(5)(B), which contained an identical amendment, was repealed, effective Oct. 28, 1992, by Pub. L. 102–558, §305, set out as a Repeal of Duplicative Provisions note below.
+<b>1992</b>—Subsec. (d)(3)(B). Pub. L. 102–558, §303(b)(6)(B), amended directory language of Pub. L. 102–242, §302(e). See 1991 amendment note below. Pub. L. 102–550, §1605(a)(5)(B), which contained an identical amendment, was repealed, effective Oct. 28, 1992, by Pub. L. 102–558, §305, set out as a Repeal of Duplicative Provisions note below.
 
 Subsec. (d)(3)(K). Pub. L. 102–550, §1607(a), added subpar. (K).
 
-1991—Pub. L. 102–242, §115(a), amended section catchline.
+<b>1991</b>—Pub. L. 102–242, §115(a), amended section catchline.
 
 Subsec. (a). Pub. L. 102–242, §115(a), added subsec. (a) consisting of pars. (1) to (6) and struck out former subsec. (a) relating to application for insurance, which consisted of pars. (1) to (7).
 
@@ -322,7 +322,7 @@ Subsec. (d)(3)(B)(ii). Pub. L. 102–242, §302(e)(2), as added by Pub. L. 102�
 
 &emsp;“(III) be treated as deposits which are insured by the Bank Insurance Fund.”
 
-1989—Pub. L. 101–73, §201(a), substituted references to insured depository institutions for references to insured banks wherever appearing.
+<b>1989</b>—Pub. L. 101–73, §201(a), substituted references to insured depository institutions for references to insured banks wherever appearing.
 
 Subsec. (a). Pub. L. 101–73, §206(a)(1)–(4), inserted heading, designated existing provisions as par. (1), inserted par. (1) heading, and substituted “Any” for “Subject to the provisions of this chapter, any”, inserted “and State savings association” after “any State nonmember bank” and after “such State nonmember bank”, “or savings association” after “such bank”, and “or savings association, and in the case of an application by a State savings association, the Corporation shall notify the Director of the Office of Thrift Supervision of the Corporation's approval of such application” after “books of the bank”, and added pars. (2) to (7).
 
@@ -332,9 +332,9 @@ Subsec. (b)(5) to (8). Pub. L. 101–73, §206(a)(6), added par. (5) and redesig
 
 Subsecs. (d), (e). Pub. L. 101–73, §206(a)(7), added subsecs. (d) and (e).
 
-1982—Subsec. (a). Pub. L. 97–320 inserted provision relating to the determination before the application of an industrial bank or similar institution is approved that it is chartered and operating under provisions substantially comparable to those applicable to banks operating in the same State.
+<b>1982</b>—Subsec. (a). Pub. L. 97–320 inserted provision relating to the determination before the application of an industrial bank or similar institution is approved that it is chartered and operating under provisions substantially comparable to those applicable to banks operating in the same State.
 
-1978—Pub. L. 95–369 designated existing provision as subsec. (a) and added subsecs. (b) and (c).
+<b>1978</b>—Pub. L. 95–369 designated existing provision as subsec. (a) and added subsecs. (b) and (c).
 
 #### Effective Date of 2006 Amendment
 
@@ -370,6 +370,52 @@ Section 305 of Pub. L. 102–558 provided that: “In the event of the enactment
 
 &emsp;“(3) \[sic\] Paragraphs (2) through (7) of section 1605(a) of such Act \[amending sections 1815, 1817, 1818, 1820, 1834, and 1834a of this title and enacting provisions set out as notes under sections 1817, 1834, and 1834a of this title\].”
 
+#### Moratorium on Treatment of Credit Card Banks, Industrial Loan Companies, and Certain Other Companies Under the Bank Holding Company Act of 1956.
+
+Pub. L. 111–203, title VI, §603(a), July 21, 2010, 124 Stat. 1597, provided that:
+
+“(1)
+
+Definitions.—In this subsection—
+
+&emsp;“(A) the term ‘credit card bank’ means an institution described in section 2(c)(2)(F) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(c)(2)(F));
+
+&emsp;“(B) the term ‘industrial bank’ means an institution described in section 2(c)(2)(H) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(c)(2)(H)); and
+
+&emsp;“(C) the term ‘trust bank’ means an institution described in section 2(c)(2)(D) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(c)(2)(D)).
+
+“(2)
+
+Moratorium on provision of deposit insurance.—The Corporation may not approve an application for deposit insurance under section 5 of the Federal Deposit Insurance Act (12 U.S.C. 1815) that is received after November 23, 2009, for an industrial bank, a credit card bank, or a trust bank that is directly or indirectly owned or controlled by a commercial firm.
+
+“(3)
+
+Change in control.—
+
+&emsp;“(A)
+
+In general.—Except as provided in subparagraph (B), the appropriate Federal banking agency shall disapprove a change in control, as provided in section 7(j) of the Federal Deposit Insurance Act (12 U.S.C. 1817(j)), of an industrial bank, a credit card bank, or a trust bank if the change in control would result in direct or indirect control of the industrial bank, credit card bank, or trust bank by a commercial firm.
+
+&emsp;“(B)
+
+Exceptions.—Subparagraph (A) shall not apply to a change in control of an industrial bank, credit card bank, or trust bank—
+
+&emsp;&emsp;“(i) that—
+
+&emsp;&emsp;&emsp;“(I) is in danger of default, as determined by the appropriate Federal banking agency;
+
+&emsp;&emsp;&emsp;“(II) results from the merger or whole acquisition of a commercial firm that directly or indirectly controls the industrial bank, credit card bank, or trust bank in a bona fide merger with or acquisition by another commercial firm, as determined by the appropriate Federal banking agency; or
+
+&emsp;&emsp;&emsp;“(III) results from an acquisition of voting shares of a publicly traded company that controls an industrial bank, credit card bank, or trust bank, if, after the acquisition, the acquiring shareholder (or group of shareholders acting in concert) holds less than 25 percent of any class of the voting shares of the company; and
+
+&emsp;&emsp;“(ii) that has obtained all regulatory approvals otherwise required for such change of control under any applicable Federal or State law, including section 7(j) of the Federal Deposit Insurance Act (12 U.S.C. 1817(j)).
+
+“(4)
+
+Sunset.—This subsection shall cease to have effect 3 years after the date of enactment of this Act \[July 21, 2010\].”
+
+\[For definitions of terms used in section 603(a) of Pub. L. 111–203, set out above, see section 5301 of this title.\]
+
 #### Deposit of Funds Into Deposit Insurance Fund
 
 Pub. L. 109–173, §8(a)(4), Feb. 15, 2006, 119 Stat. 3610, provided in part that: “any funds resulting from the application of such paragraph (2) \[of subsec. (d) of this section\] prior to its repeal \[see 2006 Amendment note above\] shall be deposited into the general fund of the Deposit Insurance Fund”.
@@ -387,4 +433,10 @@ Section 206(b) of Pub. L. 101–73 provided that: “Any insured depository inst
 &emsp;“(4) was an insured institution (as so defined) for less than 1 year as of April 1, 1987,
 
 > may cease to be a Savings Association Insurance Fund member and become a Bank Insurance Fund member at any time during the 2-year period beginning on the date of the enactment of this Act without the approval of the Federal Deposit Insurance Corporation under section 5(d)(2) of the Federal Deposit Insurance Act \[12 U.S.C. 1815(d)(2)\] (as added by subsection (a) of this section) and without incurring any liability for any exit or entrance fee imposed under such section 5(d)(2).”
+
+#### Definition of “Commercial Firm”
+
+Pub. L. 111–203, title VI, §602, July 21, 2010, 124 Stat. 1596, provided that: “For purposes of this title \[see Short Title note set out under section 1811 of this title\], a company is a ‘commercial firm’ if the annual gross revenues derived by the company and all of its affiliates from activities that are financial in nature (as defined in section 4(k) of the Bank Holding Company Act of 1956 (12 U.S.C. 1843(k))) and, if applicable, from the ownership or control of one or more insured depository institutions, represent less than 15 percent of the consolidated annual gross revenues of the company.”
+
+\[For definitions of terms used in section 602 of Pub. L. 111–203, set out above, see section 5301 of this title.\]
 

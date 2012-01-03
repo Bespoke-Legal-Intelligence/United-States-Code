@@ -26,7 +26,7 @@ To the extent that the right to use the registered mark has become incontestable
 
 &emsp;(9) That equitable principles, including laches, estoppel, and acquiescence, are applicable.
 
-(July 5, 1946, ch. 540, title VI, §33, 60 Stat. 438; Pub. L. 87–772, §18, Oct. 9, 1962, 76 Stat. 774; Pub.L. 100–667, title I, §128(a), (b), Nov. 16, 1988, 102 Stat. 3944; Pub. L. 105–330, title II, §201(a)(9), Oct. 30, 1998, 112 Stat. 3070; Pub. L. 107–273, div. C, title III, §13207(b)(7), Nov. 2, 2002, 116 Stat. 1908.)
+(July 5, 1946, ch. 540, title VI, §33, 60 Stat. 438; Pub. L. 87–772, §18, Oct. 9, 1962, 76 Stat. 774; Pub. L. 100–667, title I, §128(a), (b), Nov. 16, 1988, 102 Stat. 3944; Pub. L. 105–330, title II, §201(a)(9), Oct. 30, 1998, 112 Stat. 3070; Pub. L. 107–273, div. C, title III, §13207(b)(7), Nov. 2, 2002, 116 Stat. 1908.)
 
 #### References in Text
 
@@ -58,7 +58,7 @@ Subsec. (b)(8). Pub. L. 100–667, §128(b)(5), (6), added par. (8).
 
 <b>1962</b>—Subsec. (a). Pub. L. 87–772 substituted “registration subject to” for “certificate subject to”, and struck out “certificate of” before “registration issued”.
 
-Subsec. (b). Pub. L. 87–772 substituted “registration shall” for “certificate shall”, and “affidavit filed under the provisions of said section 1065” for “certificate” in text preceding par. (1), substituted “registrant or a person in privity with the registrant,” for “assignee”, and struck out “has been assigned and” after “registered mark” in par. (3), substituted “registration of the mark under this chapter or” for “the”, and struck out “(a) or” before “(c) of section 1062” in par. (5), inserted “registration under this chapter”, substituted “such registration or such” for “the date of”, and struck out “(a) or” before “(c) of section 1062”, “only where the said mark has been published pursuant to subsections (c) of section 1062 of this title and shall apply” after “defect shall apply”, and “under subsection (a) or (c) of section 1062 of this title” after “registrant's mark”, in par. (6).
+Subsec. (b). Pub. L. 87–772 substituted “registration shall” for “certificate shall”, and “affidavit filed underthe provisions of said section 1065” for “certificate” in text preceding par. (1), substituted “registrant or a person in privity with the registrant,” for “assignee”, and struck out “has been assigned and” after “registered mark” in par. (3), substituted “registration of the mark under this chapter or” for “the”, and struck out “(a) or” before “(c) of section 1062” in par. (5), inserted “registration under this chapter”, substituted “such registration or such” for “the date of”, and struck out “(a) or” before “(c) of section 1062”, “only where the said mark has been published pursuant to subsections (c) of section 1062 of this title and shall apply” after “defect shall apply”, and “under subsection (a) or (c) of section 1062 of this title” after “registrant's mark”, in par. (6).
 
 #### Effective Date of 1998 Amendment
 

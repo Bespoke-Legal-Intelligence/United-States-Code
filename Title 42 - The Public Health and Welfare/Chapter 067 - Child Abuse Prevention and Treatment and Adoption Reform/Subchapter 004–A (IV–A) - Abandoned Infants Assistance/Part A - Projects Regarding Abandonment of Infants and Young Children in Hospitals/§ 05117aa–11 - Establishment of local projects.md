@@ -66,7 +66,7 @@ The Secretary may not make a grant under subsection (a) unless—
 
 #### (f) Technical assistance to grantees
 
-The Secretary may, without charge to any grantee under subsection (a), provide technical assistance (including training) with respect to the planning, development, and operation of projects described in such subsection. The Secretary may provide such technical assistance directly, through contracts, or through grants.
+The Secretary may, without charge to any grantee under subsection (a), provide technicalassistance (including training) with respect to the planning, development, and operation of projects described in such subsection. The Secretary may provide such technical assistance directly, through contracts, or through grants.
 
 #### (g) Technical assistance with respect to process of applying for grant
 

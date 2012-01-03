@@ -4,7 +4,7 @@
 
 &emsp;(1) who at the time of death was in receipt of compensation (or but for the receipt of retirement pay would have been entitled to compensation) or was in receipt of pension, or
 
-&emsp;(2) who was a veteran of any war or was discharged or released from the active military, naval, or air service for a disability incurred or aggravated in line of duty, whose body is held by a State (or a political subdivision of a State), and with respect to whom the Secretary determines—
+&emsp;(2) who was a veteran of any war or was discharged or released from the active military, naval, or air service for a disability incurred or aggravated in line of duty, whose body is held by a State (or a political subdivision of aState), and with respect to whom the Secretary determines—
 
 &emsp;&emsp;(A) that there is no next of kin or other person claiming the body of the deceased veteran, and
 
@@ -34,7 +34,7 @@ Subsec. (b). Pub. L. 95–476, §203(b)(3), substituted “the death of such vet
 
 <b>1966</b>—Subsec. (a). Pub. L. 89–360 extended authorized burial allowance to include peacetime veterans who die of a service connected disability but who have neither applied for disability compensation for disability nor been discharged for disability.
 
-<b>1964</b>—Subsec. (b). Pub. L. 88–359 provided that no claim shall be allowed when allowance would revert tothe funds of a public or private organization, or would discharge such an organization's obligation without payment, and struck out requirement that amounts paid by burial associations toward burial and funeral expenses be deducted prior to payment of allowance.
+<b>1964</b>—Subsec. (b). Pub. L. 88–359 provided that no claim shall be allowed when allowance would revert to the funds of a public or private organization, or would discharge such an organization's obligation without payment, and struck out requirement that amounts paid by burial associations toward burial and funeral expenses be deducted prior to payment of allowance.
 
 #### Effective Date of 1982 Amendment
 

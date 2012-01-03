@@ -112,7 +112,7 @@ A prior section 169, act Aug. 16, 1954, ch. 736, 68A Stat. 55, related to amorti
 
 Subsec. (d)(3). Pub. L. 109–58, §1309(d), substituted “Health and Human Services” for “Health, Education, and Welfare”.
 
-Subsec. (d)(4)(B). Pub. L. 109–58, §1309(b), amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “In the case of any treatment facility used in connection with any plant or other property not in operation before January 1, 1969, the preceding sentence shall be applied by substituting December 31, 1975, for December 31, 1968.”
+Subsec. (d)(4)(B). Pub. L. 109–58, §1309(b), amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “In the case of any treatment facility used in connection with any plant or other property not in operation before January 1, 1969,the preceding sentence shall be applied by substituting December 31, 1975, for December 31, 1968.”
 
 Subsec. (d)(5). Pub. L. 109–58, §1309(a), added par. (5).
 
@@ -130,7 +130,7 @@ Subsec. (d)(4). Pub. L. 94–455, §2112(c), among other changes, struck out pro
 
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–135 effective as if included in the provision of the Energy Policy Act of 2005, Pub. L. 109–58, to which such amendment relates, see section 402(m)(1) of Pub. L. 109–135, set out as an Effective and Termination Dates of 2005 Amendments note under section 36C of this title.
+Amendment by Pub. L. 109–135 effective as if included in the provision of the Energy Policy Act of 2005, Pub. L. 109–58, to which such amendment relates, see section 402(m)(1) of Pub. L. 109–135, set out as an Effective and Termination Dates of 2005 Amendments note under section 23 of this title.
 
 Pub. L. 109–58, title XIII, §1309(e), Aug. 8, 2005, 119 Stat. 1007, provided that: “The amendments made by this section \[amending this section\] shall apply to facilities placed in service after April 11, 2005.”
 

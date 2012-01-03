@@ -8,11 +8,11 @@ All orders, determinations, rules, regulations, permits, contracts, licenses, an
 
 All records transferred to the Commission under this chapter shall be available for use by the Commission to the same extent as if such records were originally records of the Commission. All final valuations and determinations of depreciation charges by the Interstate Commerce Commission with respect to common carriers engaged in radio or wire communication, and all orders of the Interstate Commerce Commission with respect to such valuations and determinations, shall have the same force and effect as though made by the Commission under this chapter.
 
-(June 19, 1934, ch. 652, title VII, §704, formerly title VI, §604, 48 Stat. 1103; renumbered title VII, §704, Pub. L. 98–549, §6(a), Oct. 30, 1984, 98 Stat. 2804; amended Pub. L. 103–414, title III, §304(a)(14), Oct. 25, 1994, 108 Stat. 4297.)
+(June 19, 1934, ch. 652, title VII, §704, formerly title VI, §604, 48 Stat. 1103; renumbered title VII,§704, Pub. L. 98–549, §6(a), Oct. 30, 1984, 98 Stat. 2804; amended Pub. L. 103–414, title III, §304(a)(14), Oct. 25, 1994, 108 Stat. 4297.)
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, as amended, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
 #### Amendments
 

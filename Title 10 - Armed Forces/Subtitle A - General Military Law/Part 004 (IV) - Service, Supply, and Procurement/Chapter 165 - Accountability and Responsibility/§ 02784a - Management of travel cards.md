@@ -6,7 +6,7 @@ Disbursement of Travel Allowances Directly to Creditors.—(1) The Secretary of 
 
 (2) The Secretary of Defense may waive the requirement for a direct payment to a travel card issuer under paragraph (1) in any case the Secretary determines appropriate.
 
-(3) For the purposes of this subsection, the travel and transportation allowances referred to in paragraph (1) are amounts to which an employee of the Department of Defense is entitled under section 5702 of title 5 or a member of the armed forces is entitled under section 404 of title 37.
+(3) For the purposes of this subsection, the travel and transportation allowances referred to in paragraph (1) are amounts to which an employee of the Department of Defense is entitled under section 5702 of title 5 or a member of the armed forces is entitled under section 474 of title 37.
 
 (b)
 
@@ -64,9 +64,15 @@ Definitions.—In this section:
 
 Exclusion of Coast Guard.—This section does not apply to the Coast Guard.
 
-(Added Pub. L. 107–314, div. A, title X, §1008(a), Dec. 2, 2002, 116 Stat. 2634; amended Pub. L. 108–136, div. A, title X, §1009(a)–(c)(1), Nov. 24, 2003, 117 Stat. 1587, 1588; Pub. L. 109–364, div. A, title X, §1071(a)(25), Oct. 17, 2006, 120 Stat. 2399.)
+(Added Pub. L. 107–314, div. A, title X, §1008(a), Dec. 2, 2002, 116 Stat. 2634; amended Pub. L. 108–136, div. A, title X, §1009(a)–(c)(1), Nov. 24, 2003, 117 Stat. 1587, 1588; Pub. L. 109–364, div. A, title X, §1071(a)(25), Oct. 17, 2006, 120 Stat. 2399; Pub. L. 112–81, div. A, title VI, §631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465.)
+
+#### Codification
+
+Section 631(f)(4)(A) of Pub. L. 112–81, which directed that this title be amended by conforming any references to sections of title 37, United States Code, which were transferred and redesignated by “subsection (c)” of section 631, was executed by conforming the references to those sections as transferred and redesignated by subsection (d) of section 631, to reflect the probable intent of Congress.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (a)(3). Pub. L. 112–81 substituted “474” for “404”. See Codification note above.
 
 <b>2006</b>—Subsec. (a)(2). Pub. L. 109–364 substituted “card” for “care”.
 

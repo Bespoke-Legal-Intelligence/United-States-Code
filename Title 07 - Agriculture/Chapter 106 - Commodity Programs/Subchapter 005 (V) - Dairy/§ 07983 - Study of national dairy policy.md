@@ -2,7 +2,7 @@
 
 #### (a) Study required
 
-The Secretary of Agriculture shall conduct a comprehensive economic evaluation of the potential direct and indirect effects of the various elements of the national dairy policy, including an examination of the effect of the national dairy policy on—
+The Secretary of Agriculture shall conduct a comprehensive economic evaluation of the potential direct and indirect effects of the variouselements of the national dairy policy, including an examination of the effect of the national dairy policy on—
 
 &emsp;(1) farm price stability, farm profitability and viability, and local rural economies in the United States;
 

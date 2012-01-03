@@ -42,39 +42,31 @@ Subsection (a) shall apply to—
 
 &emsp;(2) any amount includible under section 409A and which is not treated as wages under section 3401(a).
 
-#### (h) Treatment of rental property expense payments
-
-#### (1) In general
-
-&emsp;Solely for purposes of subsection (a) and except as provided in paragraph (2), a person receiving rental income from real estate shall be considered to be engaged in a trade or business of renting property.
-
-#### (2) Exceptions
-
-&emsp;Paragraph (1) shall not apply to—
-
-&emsp;&emsp;(A) any individual, including any individual who is an active member of the uniformed services or an employee of the intelligence community (as defined in section 121(d)(9)(C)(iv)), if substantially all rental income is derived from renting the principal residence (within the meaning of section 121) of such individual on a temporary basis,
-
-&emsp;&emsp;(B) any individual who receives rental income of not more than the minimal amount, as determined under regulations prescribed by the Secretary, and
-
-&emsp;&emsp;(C) any other individual for whom the requirements of this section would cause hardship, as determined under regulations prescribed by the Secretary.
-
-(Aug. 16, 1954, ch. 736, 68A Stat. 745; Pub. L. 87–834, §19(f), Oct. 16, 1962, 76 Stat. 1058; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title V, §501(b), Nov. 6, 1978, 92 Stat. 2878; Pub. L. 97–34, title VII, §723(b)(1), Aug. 13, 1981, 95 Stat. 344; Pub. L. 97–248, title III, §309(b)(1), Sept. 3, 1982, 96 Stat. 595; Pub. L. 98–369, div. A, title VII, §722(h)(4)(B), July 18, 1984, 98 Stat. 976; Pub. L. 99–514, title XV, §§1501(c)(1), 1523(b)(2), Oct. 22, 1986, 100 Stat. 2736, 2748; Pub. L. 104–168, title XII, §1201(a)(1), July 30, 1996, 110 Stat. 1469; Pub. L. 108–173, title XII, §1203(a), Dec. 8, 2003, 117 Stat. 2480; Pub. L. 108–357, title VIII, §885(b)(3), Oct. 22, 2004, 118 Stat. 1640; Pub. L. 111–148, title IX, §9006(a), (b), Mar. 23, 2010, 124 Stat. 855; Pub. L. 111–240, title II, §2101(a), Sept. 27, 2010, 124 Stat. 2561.)
-
-#### Amendment of Section
-
-<i>Pub. L. 111–148, title IX, §9006, Mar. 23, 2010, 124 Stat. 855; Pub. L. 111–240, title II, §2101(a), Sept. 27, 2010, 124 Stat. 2561, provided that, applicable to payments made after Dec. 31, 2011, this section is amended (1) in subsection (a), by inserting “amounts in consideration for property,” after “wages,”, “gross proceeds,” after “emoluments, or other”, and “gross proceeds,” after “setting forth the amount of such”; and (2) by adding at the end the following new subsections:</i>
-
-#### <i>(i) Application to corporations</i>
-
-<i>Notwithstanding any regulation prescribed by the Secretary before the date of the enactment of this subsection, for purposes of this section the term “person” includes any corporation that is not an organization exempt from tax under section 501(a).</i>
-
-#### <i>(j) Regulations</i>
-
-<i>The Secretary may prescribe such regulations and other guidance as may be appropriate or necessary to carry out the purposes of this section, including rules to prevent duplicative reporting of transactions.</i>
+(Aug. 16, 1954, ch. 736, 68A Stat. 745; Pub. L. 87–834, §19(f), Oct. 16, 1962, 76 Stat. 1058; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title V, §501(b), Nov. 6, 1978, 92 Stat. 2878; Pub. L. 97–34, title VII, §723(b)(1), Aug. 13, 1981, 95 Stat. 344; Pub. L. 97–248, title III, §309(b)(1), Sept. 3, 1982, 96 Stat. 595; Pub. L. 98–369, div. A, title VII, §722(h)(4)(B), July 18, 1984, 98 Stat. 976; Pub. L. 99–514, title XV, §§1501(c)(1), 1523(b)(2), Oct. 22, 1986, 100 Stat. 2736, 2748; Pub. L. 104–168, title XII, §1201(a)(1), July 30, 1996, 110 Stat. 1469; Pub. L. 108–173, title XII, §1203(a), Dec. 8, 2003, 117 Stat. 2480; Pub. L. 108–357, title VIII, §885(b)(3), Oct. 22, 2004, 118 Stat. 1640; Pub. L. 111–148, title IX, §9006(a), (b), Mar. 23, 2010, 124 Stat. 855; Pub. L. 111–240, title II, §2101(a), Sept. 27, 2010, 124 Stat. 2561; Pub. L. 112–9, §§2(a), (b), 3(a), Apr. 14, 2011, 125 Stat. 36.)
 
 #### Amendments
 
-<b>2010</b>—Subsec. (h). Pub. L. 111–240 added subsec. (h).
+<b>2011</b>—Subsec. (a). Pub. L. 112–9, §2(b), struck out “amounts in consideration for property,” after “salaries, wages,”, “gross proceeds,” after “emoluments, or other”, and “gross proceeds,” after “setting forth the amount of such”.
+
+Subsec. (h). Pub. L. 112–9, §3(a), struck out subsec. (h) which related to treatment of rental property expense payments.
+
+Subsecs. (i), (j). Pub. L. 112–9, §2(a), struck out subsecs. (i) and (j) which read as follows:
+
+“(i) Application to corporations.—“Notwithstanding any regulation prescribed by the Secretary before the date of the enactment of this subsection, for purposes of this section the term ‘person’ includes any corporation that is not an organization exempt from tax under section 501(a).
+
+“(j) Regulations.—“The Secretary may prescribe such regulations and other guidance as may be appropriate or necessary to carry out the purposes of this section, including rules to prevent duplicative reporting of transactions.”
+
+<b>2010</b>—Subsec. (a). Pub. L. 111–148, §9006(b), inserted “amounts in consideration for property,” after “salaries, wages,”, “gross proceeds,” after “emoluments, or other”, and “gross proceeds,” after “setting forth the amount of such”.
+
+Subsec. (h). Pub. L. 111–240 added subsec. (h). Former subsec. (h) redesignated (i).
+
+Pub. L. 111–148, §9006(a), added subsec. (h).
+
+Subsec. (i). Pub. L. 111–240 redesignated subsec. (h) as (i). Former subsec. (i) redesignated (j).
+
+Pub. L. 111–148, §9006(a), added subsec. (i).
+
+Subsec. (j). Pub. L. 111–240 redesignated subsec. (i) as (j).
 
 <b>2004</b>—Subsec. (g). Pub. L. 108–357 added subsec. (g).
 
@@ -100,6 +92,12 @@ Subsec. (d). Pub. L. 99–514, §1501(c)(1), in amending subsec. (d) generally, 
 
 Subsec. (c). Pub. L. 87–834, §19(f)(2), repealed subsec. (c) which related to returns of payments of interest by corporations.
 
+#### Effective Date of 2011 Amendment
+
+Pub. L. 112–9, §2(c), Apr. 14, 2011, 125 Stat. 36, provided that: “The amendments made by this section \[amending this section\] shall apply to payments made after December 31, 2011.”
+
+Pub. L. 112–9, §3(b), Apr. 14, 2011, 125 Stat. 36, provided that: “The amendment made by this section \[amending this section\] shall apply to payments made after December 31, 2010.”
+
 #### Effective Date of 2010 Amendment
 
 Pub. L. 111–240, title II, §2101(b), Sept. 27, 2010, 124 Stat. 2561, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to payments made after December 31, 2010.”
@@ -120,7 +118,7 @@ Section 1201(b) of Pub. L. 104–168 provided that: “The amendments made by su
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 1501(c)(1) of Pub. L. 99–514 applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1986, see section 1501(e) of Pub. L. 99–514, set out as an Effective Date note under section 6721 of this title.
+Amendment by section 1501(c)(1) of Pub. L. 99–514 applicable to returns the due date for which (determinedwithout regard to extensions) is after Dec. 31, 1986, see section 1501(e) of Pub. L. 99–514, set out as an Effective Date note under section 6721 of this title.
 
 Amendment by section 1523(b)(2) of Pub. L. 99–514 applicable to payments made after Dec. 31, 1986, see section 1523(d) of Pub. L. 99–514, set out as an Effective Date note under section 6050N of this title.
 

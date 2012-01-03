@@ -19,7 +19,7 @@
 
 <b>2009</b>—Pub. L. 111–84, div. A, title V, §525(a)(3)(B), title IX, §901(b), Oct. 28, 2009, 123 Stat. 2286, 2423, added items 2167a and 2169.
 
-<b>2008</b>—Pub. L. 110–417, \[div. A\], title V, §543(a)(2), (b)(2), Oct. 14, 2008, 122 Stat. 4457, 4458, added items 2161and 2163 and struck out former items 2161 “Joint Military Intelligence College: academic degrees” and 2163 “National Defense University: master's degree programs”.
+<b>2008</b>—Pub. L. 110–417, \[div. A\], title V, §543(a)(2), (b)(2), Oct. 14, 2008, 122 Stat. 4457, 4458, added items 2161 and 2163 and struck out former items 2161 “Joint Military Intelligence College: academic degrees” and 2163 “National Defense University: master's degree programs”.
 
 Pub. L. 110–181, div. A, title V, §526(b)(2), Jan. 28, 2008, 122 Stat. 105, added item 2163 and struck out former item 2163 “National Defense University: master of science degrees”.
 
@@ -79,7 +79,7 @@ Pub. L. 103–337, div. A, title IX, §914, Oct. 5, 1994, 108 Stat. 2829, provid
 
 #### Military Department Affiliation of War College Students
 
-Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8069\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–102, which provided that, for resident classes entering war colleges after Sept. 30, 1997, Department of Defense was to require that not less than 20 percent of total of United States military students at each war college was to be from military departments other than hosting military department and provided that each military department was to recognize attendance at sister military department war college as equivalent of attendance at its own war college for promotion and advancement of personnel, was from the Department of Defense Appropriations Act, 1997, and was not repeated in subsequent appropriations acts. Similar provisions were contained in the following prior appropriation acts:
+Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8069\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–102, whichprovided that, for resident classes entering war colleges after Sept. 30, 1997, Department of Defense was to require that not less than 20 percent of total of United States military students at each war college was to be from military departments other than hosting military department and provided that each military department was to recognize attendance at sister military department war college as equivalent of attendance at its own war college for promotion and advancement of personnel, was from the Department of Defense Appropriations Act, 1997, and was not repeated in subsequent appropriations acts. Similar provisions were contained in the following prior appropriation acts:
 
 Pub. L. 104–61, title VIII, §8084, Dec. 1, 1995, 109 Stat. 667.
 

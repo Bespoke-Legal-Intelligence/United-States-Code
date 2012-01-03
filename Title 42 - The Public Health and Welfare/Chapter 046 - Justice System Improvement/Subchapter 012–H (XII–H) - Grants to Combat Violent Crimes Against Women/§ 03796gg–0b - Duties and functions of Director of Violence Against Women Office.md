@@ -10,7 +10,7 @@ The Director shall have the following duties:
 
 &emsp;(4) Serving, at the request of the President, acting through the Attorney General, as the representative of the United States Government on human rights and economic justice matters related to violence against women in international fora, including, but not limited to, the United Nations.
 
-&emsp;(5) Carrying out the functions of the Department of Justice under the Violence AgainstWomen Act of 1994 (title IV of Public Law 103–322) and the Violence Against Women Act of 2000 (division B of Public Law 106–386), including with respect to those functions—
+&emsp;(5) Carrying out the functions of the Department of Justice under the Violence Against Women Act of 1994 (title IV of Public Law 103–322) and the Violence Against Women Act of 2000 (division B of Public Law 106–386), including with respect to those functions—
 
 &emsp;&emsp;(A) the development of policy, protocols, and guidelines;
 

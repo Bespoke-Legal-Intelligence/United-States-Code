@@ -8,7 +8,7 @@
 
 &emsp;(3) in the case of an individual who becomes entitled to such assistance under section 3011(a)(1)(C) or 3012(a)(1)(C) of this title, on December 27, 2001.
 
-(b) In the case of any eligible individual who has been prevented, as determined by the Secretary, from pursuing a program of education under this chapter within the 10-year period prescribed by subsection (a) of this section because such individual had not met the nature of discharge requirement of this chapter before the nature of such individual's discharge or release was changed by appropriate authority, such 10-year period shall not run during the period of time that such individual was so prevented from pursuing such program of education.
+(b) In the case of any eligible individual who has been prevented, as determined by the Secretary, from pursuing a program of educationunder this chapter within the 10-year period prescribed by subsection (a) of this section because such individual had not met the nature of discharge requirement of this chapter before the nature of such individual's discharge or release was changed by appropriate authority, such 10-year period shall not run during the period of time that such individual was so prevented from pursuing such program of education.
 
 (c) In the case of an individual eligible for educational assistance under the provisions of this chapter who, after such individual's last discharge or release from active duty, was detained by a foreign government or power, the 10-year period described in subsection (a) of this section shall not run (1) while such individual is so detained, or (2) during any period immediately following such individual's release from such detention during which such individual is hospitalized at a military, civilian, or Department of Veterans Affairs medical facility.
 
@@ -26,7 +26,7 @@
 
 (B) Subparagraph (A) shall not apply with respect to the period of an individual as a primary provider of personal care services if the period concludes with the revocation of the individual's designation as such a primary provider under section 1720G(a)(7)(D) of this title.
 
-(e)(1) Except as provided in paragraph (2) of this subsection, in the case of an individual described in section 3011(a)(1)(B), 3011(a)(1)(C), 3012(a)(1)(B), or 3012(a)(1)(C) of this title who is entitled to basic educational assistance under this chapter, the 10-year period prescribed in subsection (a) of this section shall be reduced by an amount of time equal to the amount of time that such individual was not serving on activeduty during the period beginning on January 1, 1977, and ending on June 30, 1985.
+(e)(1) Except as provided in paragraph (2) of this subsection, in the case of an individual described in section 3011(a)(1)(B), 3011(a)(1)(C), 3012(a)(1)(B), or 3012(a)(1)(C) of this title who is entitled to basic educational assistance under this chapter, the 10-year period prescribed in subsection (a) of this section shall be reduced by an amount of time equal to the amount of time that such individual was not serving on active duty during the period beginning on January 1, 1977, and ending on June 30, 1985.
 
 (2) In the case of an individual to which paragraph (1) of this subsection is applicable and who is described in section 3452(a)(1)(B) of this title, the 10-year period prescribed in subsection (a) of this section shall not be reduced by any period in 1977 before the individual began serving on active duty.
 
@@ -38,7 +38,7 @@
 
 (h) For purposes of subsection (a) of this section, an individual's last discharge or release from active duty shall not include any discharge or release from a period of active duty of less than 90 days of continuous service unless the individual involved is discharged or released for a service-connected disability, for a medical condition which preexisted such service and which the Secretary determines is not service connected, for hardship, or as a result of a reduction in force as described in section 3011(a)(1)(A)(ii)(III) of this title.
 
-(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2560, §1431; amended Pub. L. 99–576, title III, §§307(b), 321(7), Oct. 28, 1986, 100 Stat. 3270, 3278; Pub. L. 100–689, title I, §111(a)(6), Nov. 18, 1988, 102 Stat. 4171; Pub. L. 101–237, title IV, §§420(a)(1), (b), 423(a)(4), (b)(1), Dec. 18, 1989, 103 Stat. 2087, 2088, 2091, 2092; renumbered §3031 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §302(a)(3), Oct. 29, 1992, 106 Stat. 4327; Pub. L. 106–117, title VII, §702(b), Nov. 30, 1999, 113 Stat. 1583; Pub. L. 107–103, title I, §105(c), Dec. 27, 2001, 115 Stat. 983; Pub. L. 107–330, title III, §308(g)(10), Dec. 6, 2002, 116 Stat. 2829; Pub. L. 111–377, title II, §201(a), Jan. 4, 2011, 124 Stat. 4122.)
+(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2560, §1431; amended Pub. L. 99–576, title III, §§307(b), 321(7), Oct. 28, 1986, 100 Stat. 3270, 3278; Pub. L. 100–689, title I, §111(a)(6), Nov. 18, 1988, 102 Stat. 4171; Pub. L. 101–237, title IV, §§420(a)(1), (b), 423(a)(4), (b)(1), Dec. 18, 1989, 103 Stat. 2087, 2088, 2091, 2092; renumbered §3031 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §302(a)(3), Oct. 29, 1992, 106 Stat. 4327; Pub. L. 106–117, title VII, §702(b), Nov. 30, 1999, 113 Stat. 1583; Pub. L. 107–103, title I, §105(c), Dec. 27, 2001,115 Stat. 983; Pub. L. 107–330, title III, §308(g)(10), Dec. 6, 2002, 116 Stat. 2829; Pub. L. 111–377, title II, §201(a), Jan. 4, 2011, 124 Stat. 4122.)
 
 #### References in Text
 
@@ -130,7 +130,7 @@ Pub. L. 106–419, title I, §103(e), Nov. 1, 2000, 114 Stat. 1826, provided tha
 
 “(2) An individual referred to in paragraph (1) is an individual who—
 
-&emsp;“(A) before the date of the enactment of this Act, was not eligible for basic educational assistance under chapter 30 of such title by reason of the requirement of an initial obligated period of active duty as condition of eligibility for such assistance as in effect on the date preceding the date of the enactment of this Act; and
+&emsp;“(A) before the date of the enactment of this Act, was not eligible for basic educational assistanceunder chapter 30 of such title by reason of the requirement of an initial obligated period of active duty as condition of eligibility for such assistance as in effect on the date preceding the date of the enactment of this Act; and
 
 &emsp;“(B) on or after such date becomes eligible for such assistance by reason of the amendments made by this section \[amending sections 3011 to 3013 and 3015 of this title\].”
 

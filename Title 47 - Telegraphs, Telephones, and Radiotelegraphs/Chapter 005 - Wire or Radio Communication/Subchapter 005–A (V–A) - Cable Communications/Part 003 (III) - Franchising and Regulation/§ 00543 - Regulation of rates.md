@@ -42,7 +42,7 @@
 
 #### (6) Exercise of jurisdiction by Commission
 
-&emsp;If the Commission disapproves a franchising authority's certification under paragraph (4), or revokes such authority's jurisdiction under paragraph (5), the Commission shall exercise the franchising authority's regulatory jurisdiction under paragraph (2)(A) until the franchising authority has qualified to exercise that jurisdiction by filing a new certification that meets the requirements of paragraph (3).Such new certification shall be effective upon approval by the Commission. The Commission shall act to approve or disapprove any such new certification within 90 days after the date it is filed.
+&emsp;If the Commission disapproves a franchising authority's certification under paragraph (4), or revokes such authority's jurisdiction under paragraph (5), the Commission shall exercise the franchising authority's regulatory jurisdiction under paragraph (2)(A) until the franchising authority has qualified to exercise that jurisdiction by filing a new certification that meets the requirements of paragraph (3). Such new certification shall be effective upon approval by the Commission. The Commission shall act to approve or disapprove any such new certification within 90 days after the date it is filed.
 
 #### (7) Aggregation of equipment costs
 
@@ -88,7 +88,7 @@
 
 &emsp;The regulations prescribed by the Commission under this subsection shall include standards to establish, on the basis of actual cost, the price or rate for—
 
-&emsp;&emsp;(A) installation and lease of the equipment used by subscribers to receive the basic service tier, including a converter box and a remote control unit and, if requested by the subscriber, such addressable converter box or other equipment as is required to access programming described in paragraph (8); and
+&emsp;&emsp;(A) installation and lease of the equipment used by subscribers to receive the basic service tier, including a converter box and a remote control unit and, if requested by the subscriber, such addressable converter boxor other equipment as is required to access programming described in paragraph (8); and
 
 &emsp;&emsp;(B) installation and monthly use of connections for additional television receivers.
 
@@ -168,7 +168,7 @@
 
 &emsp;&emsp;(C) the history of the rates for cable programming services of the system, including the relationship of such rates to changes in general consumer prices;
 
-&emsp;&emsp;(D) the rates, as a whole, for all the cable programming, cable equipment, and cable services provided by the system, other thanprogramming provided on a per channel or per program basis;
+&emsp;&emsp;(D) the rates, as a whole, for all the cable programming, cable equipment, and cable services provided by the system, other than programming provided on a per channel or per program basis;
 
 &emsp;&emsp;(E) capital and operating costs of the cable system, including the quality and costs of the customer service provided by the cable system; and
 
@@ -212,7 +212,7 @@ In developing and prescribing regulations pursuant to this section, the Commissi
 
 #### (j) Rate regulation agreements
 
-During the term of an agreement made before July 1, 1990, by a franchising authority and a cable operator providing for the regulation of basic cable service rates, where there was not effective competition under Commission rules in effect on that date, nothing in this section (or the regulations thereunder) shall abridge the ability of such franchising authority to regulate rates in accordance with such an agreement.
+During the term of an agreement made before July 1, 1990, by a franchising authority and acable operator providing for the regulation of basic cable service rates, where there was not effective competition under Commission rules in effect on that date, nothing in this section (or the regulations thereunder) shall abridge the ability of such franchising authority to regulate rates in accordance with such an agreement.
 
 #### (k) Reports on average prices
 
@@ -234,7 +234,7 @@ As used in this section—
 
 &emsp;&emsp;&emsp;(i) served by at least two unaffiliated multichannel video programming distributors each of which offers comparable video programming to at least 50 percent of the households in the franchise area; and
 
-&emsp;&emsp;&emsp;(ii) the number of households subscribing to programming services offered by multichannel video programming distributorsother than the largest multichannel video programming distributor exceeds 15 percent of the households in the franchise area;
+&emsp;&emsp;&emsp;(ii) the number of households subscribing to programming services offered by multichannel video programming distributors other than the largest multichannel video programming distributor exceeds 15 percent of the households in the franchise area;
 
 &emsp;&emsp;(C) a multichannel video programming distributor operated by the franchising authority for that franchise area offers video programming to at least 50 percent of the households in that franchise area; or
 
@@ -274,7 +274,7 @@ Subsec. (c)(1)(C). Pub. L. 104–104, §301(b)(1)(B), substituted “the first c
 
 Subsec. (c)(3), (4). Pub. L. 104–104, §301(b)(1)(C), added pars. (3) and (4) and struck out heading and text of former par. (3). Text read as follows: “Except during the 180-day period following the effective date of the regulations prescribed by the Commission under paragraph (1), the procedures established under subparagraph (B) of such paragraph shall be available only with respect to complaints filed within a reasonable period of time following a change in rates that is initiated after that effective date, including a change in rates that results from a change in that system's service tiers.”
 
-Subsec. (d). Pub. L. 104–104, §301(b)(2), inserted at end “This subsection does not apply to (1) a cable operator with respect to the provision of cable service over its cable system in any geographic area in which the video programming services offered by the operator in that area are subject to effective competition, or (2) any video programming offered on a per channel or per program basis. Bulk discounts to multiple dwelling units shall not be subject to this subsection, except that a cable operator of a cable system that is not subject to effective competition may not charge predatory prices to a multiple dwelling unit. Upon a prima facie showing by a complainant that there are reasonable grounds to believe that the discounted price is predatory, the cable system shall have the burden of showing that its discounted price is not predatory.”
+Subsec. (d). Pub. L. 104–104, §301(b)(2), inserted at end “This subsection does not apply to (1) a cable operator with respect to the provision of cable service over its cable system in any geographic area in which the video programming services offered by the operator in that area are subject to effective competition, or (2) any video programming offered on a per channel or per program basis. Bulk discounts to multiple dwelling units shall not be subject to this subsection, except that a cable operator of a cable system that is not subject to effective competition may not charge predatory pricesto a multiple dwelling unit. Upon a prima facie showing by a complainant that there are reasonable grounds to believe that the discounted price is predatory, the cable system shall have the burden of showing that its discounted price is not predatory.”
 
 Subsec. (<i>l</i>)(1)(D). Pub. L. 104–104, §301(b)(3), added subpar. (D).
 

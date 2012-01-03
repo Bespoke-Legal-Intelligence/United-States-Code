@@ -4,7 +4,7 @@ The duties and powers of the Department of the Interior include the preservation
 
 The Secretary of the Interior shall from time to time collect and publish useful information as to the propagation, uses, and preservation of such birds.
 
-And the Secretary of the Interior shall make and publish all needful rules and regulations for carrying out the purposes of this Act, and shall expend for said purposes such sums as Congress may appropriate therefor.
+And the Secretary of the Interior shall make and publish all needful rules and regulations forcarrying out the purposes of this Act, and shall expend for said purposes such sums as Congress may appropriate therefor.
 
 (May 25, 1900, ch. 553, §1, 31 Stat. 187; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433.)
 
@@ -44,7 +44,7 @@ Sec. 2. <i>Definitions</i>. For purposes of this order:
 
 (h) “Action” means a program, activity, project, official policy (such as a rule or regulation), or formal plan directly carried out by a Federal agency. Each Federal agency will further define what the term “action” means with respect to its own authorities and what programs should be included in the agency-specific Memoranda of Understanding required by this order. Actions delegated to or assumed by nonfederal entities, or carried out by nonfederal entities with Federal assistance, are not subject to this order. Such actions, however, continue to be subject to the Migratory Bird Treaty Act.
 
-(i) “Species of concern” refers to those species listed in the periodic report “Migratory Nongame Birds ofManagement Concern in the United States,” priority migratory bird species as documented by established plans (such as Bird Conservation Regions in the North American Bird Conservation Initiative or Partners in Flight physiographic areas), and those species listed in 50 C.F.R. 17.11.
+(i) “Species of concern” refers to those species listed in the periodic report “Migratory Nongame Birds of Management Concern in the United States,” priority migratory bird species as documented by established plans (such as Bird Conservation Regions in the North American Bird Conservation Initiative or Partners in Flight physiographic areas), and those species listed in 50 C.F.R. 17.11.
 
 Sec. 3. <i>Federal Agency Responsibilities</i>. (a) Each Federal agency taking actions that have, or are likely to have, a measurable negative effect on migratory bird populations is directed to develop and implement, within 2 years, a Memorandum of Understanding (MOU) with the Fish and Wildlife Service (Service) that shall promote the conservation of migratory bird populations.
 
@@ -90,7 +90,7 @@ Sec. 3. <i>Federal Agency Responsibilities</i>. (a) Each Federal agency taking a
 
 (g) Each agency shall advise the public of the availability of its MOU through a notice published in the Federal Register.
 
-Sec. 4. <i>Council for the Conservation of Migratory Birds</i>. (a) The Secretary of Interior shall establish an interagency Council for the Conservation of Migratory Birds (Council) to oversee the implementation of this order. The Council's duties shall include the following: (1) sharing the latest resource information to assist in the conservation and management of migratory birds; (2) developing an annual report of accomplishments and recommendations related to this order; (3) fostering partnerships to further the goals of this order; and (4)selecting an annual recipient of a Presidential Migratory Bird Federal Stewardship Award for contributions to the protection of migratory birds.
+Sec. 4. <i>Council for the Conservation of Migratory Birds</i>. (a) The Secretary of Interior shall establish an interagency Council for the Conservation of Migratory Birds (Council) to oversee the implementation of this order. The Council's duties shall include the following: (1) sharing the latest resource information to assist in the conservation and management of migratory birds; (2) developing an annual report of accomplishments and recommendations related to this order; (3) fostering partnerships to further the goals of this order; and (4) selecting an annual recipient of a Presidential Migratory Bird Federal Stewardship Award for contributions to the protection of migratory birds.
 
 (b) The Council shall include representation, at the bureau director/administrator level, from the Departments of the Interior, State, Commerce, Agriculture, Transportation, Energy, Defense, and the Environmental Protection Agency and from such other agencies as appropriate.
 

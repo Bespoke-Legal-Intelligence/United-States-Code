@@ -114,7 +114,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 3 years after the date of submission of the strategy under subsection (c)(1), and every 3 years thereafter, the Presidentshall transmit to the appropriate congressional committees a report on the implementation of this section for the prior 3-year period.
+&emsp;Not later than 3 years after the date of submission of the strategy under subsection (c)(1), and every 3 years thereafter, the President shall transmit to the appropriate congressional committees a report on the implementation of this section for the prior 3-year period.
 
 #### (2) Matters to be included
 

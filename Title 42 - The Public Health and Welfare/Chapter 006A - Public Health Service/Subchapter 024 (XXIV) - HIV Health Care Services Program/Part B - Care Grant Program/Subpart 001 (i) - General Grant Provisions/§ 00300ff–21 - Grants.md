@@ -24,7 +24,7 @@ Pub. L. 109–415, §204(a), substituted “this section” for “this part”.
 
 Pub. L. 109–415, §201(c)(1), struck out subsec. (a) designation and heading before “The Secretary” and struck out subsec. (b) which related to priority for women, infants, and children.
 
-<b>2000</b>—Subsec. (b). Pub. L. 106–345 amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “For the purpose of providing health and support services to infants, children, and women with HIV disease, including treatment measures to prevent the perinatal transmission of HIV, a State shall use, of the funds allocated under this part to the State for a fiscal year, not less than the percentage constituted by the ratio of the population in the Stateof infants, children, and women with acquired immune deficiency syndrome to the general population in the State of individuals with such syndrome.”
+<b>2000</b>—Subsec. (b). Pub. L. 106–345 amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “For the purpose of providing health and support services to infants, children, and women with HIV disease, including treatment measures to prevent the perinatal transmission of HIV, a State shall use, of the funds allocated under this part to the State for a fiscal year, not less than the percentage constituted by the ratio of the population in the State of infants, children, and women with acquired immune deficiency syndrome to the general population in the State of individuals with such syndrome.”
 
 <b>1996</b>—Pub. L. 104–146, §3(c)(1), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 

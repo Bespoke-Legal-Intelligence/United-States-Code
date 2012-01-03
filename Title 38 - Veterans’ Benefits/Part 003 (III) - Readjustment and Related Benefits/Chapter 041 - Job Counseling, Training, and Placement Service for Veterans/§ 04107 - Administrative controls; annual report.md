@@ -12,17 +12,29 @@
 
 &emsp;(1) specification, by State and by age group, of the numbers of eligible veterans, disabled veterans, special disabled veterans, eligible persons, recently separated veterans (as defined in section 4211(6) of this title), and servicemembers transitioning to civilian careers who registered for assistance with, or who are identified as veterans by, the public employment service system and, for each of such categories, the numbers referred to and placed in permanent and other jobs, the numbers referred to and placed in jobs and job training programs supported by the Federal Government, the number who received intensive services, and the number who received some, and the number who received no, reportable service;
 
-&emsp;(2) a comparison of the rate of entered employment (as determined in a manner consistent with State performance measures applicable under section 136(b) of the Workforce Investment Act of 1998) for each of the categories of veterans and persons described in clause (1) of this subsection with such rate of entered employment (as so determined) for nonveterans of the same age groups registered for assistance with the public employment system in each State;
+&emsp;(2) a comparison of the rate of entered employment (as determined in a manner consistent with State performance measures applicable under section 136(b) of the Workforce Investment Act of 1998) for each of the categories of veterans and persons described in paragraph (1) of this subsection with such rate of entered employment (as so determined) for nonveterans of the same age groups registered for assistance with the public employment system in each State;
 
 &emsp;(3) any determination made by the Secretary during the preceding fiscal year under section 4106 of this title or subsection (a)(2) of this section and a statement of the reasons for such determination;
 
 &emsp;(4) a report on activities carried out during the preceding program year under section 4212(d) of this title;
 
-&emsp;(5) a report on the operation during the preceding program year of programs for the provision of employment and training services designed to meet the needs of eligible veterans and eligible persons, including an evaluation of the effectiveness of such programs during such program year in meeting the requirements of section 4102A(b) of this title, the efficiency with which services were provided through such programs during such year, and such recommendations for further legislative action relating to veterans’ employment and training as the Secretary considers appropriate; and
+&emsp;(5) a report on the operation during the preceding program year of programs for the provision of employment and training services designed to meet the needs of eligible veterans and eligible persons, including an evaluation of the effectiveness of such programs during such program year in meeting the requirements of section 4102A(b) of this title, the efficiency with which services were provided through such programs during such year, and such recommendations for further legislative action relating to veterans’ employment and training as the Secretary considers appropriate;
 
-&emsp;(6) a report on the operation during the preceding program year of the program of performance incentive awards for quality employment services under section 4112 of this title.
+&emsp;(6) a report on the operation during the preceding program year of the program of performance incentive awards for quality employment services under section 4112 of this title; and
 
-(Added Pub. L. 92–540, title V, §502(a), Oct. 24, 1972, 86 Stat. 1096, §2007; amended Pub. L. 93–508, title IV, §401(f), Dec. 3, 1974, 88 Stat. 1592; Pub. L. 94–502, title VI, §604, Oct. 15, 1976, 90 Stat. 2404; Pub. L. 95–202, title III, §309(b), Nov. 23, 1977, 91 Stat. 1446; Pub. L. 96–466, title V, §507, Oct. 17, 1980, 94 Stat. 2205; Pub. L. 97–306, title III, §307, Oct. 14, 1982, 96 Stat. 1440; Pub. L. 100–323, §§2(d), 15(a)(2), May 20, 1988, 102 Stat. 558, 574; renumbered §4107 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 107–288, §§4(a)(3)(B), (e)(1), 5(a)(1)(D), (E), (d)(1), Nov. 7, 2002, 116 Stat. 2042, 2044, 2045.)
+&emsp;(7) performance measures for the provision of assistance under this chapter, including—
+
+&emsp;&emsp;(A) the percentage of participants in programs under this chapter who find employment before the end of the first 90-day period following their completion of the program;
+
+&emsp;&emsp;(B) the percentage of participants described in subparagraph (A) who are employed during the first 180-day period following the period described in such subparagraph;
+
+&emsp;&emsp;(C) the median earnings of participants described in subparagraph (A) during the period described in such subparagraph;
+
+&emsp;&emsp;(D) the median earnings of participants described in subparagraph (B) during the period described in such subparagraph; and
+
+&emsp;&emsp;(E) the percentage of participants in programs under this chapter who obtain a certificate, degree, diploma, licensure, or industry-recognized credential relating to the program in which they participated under this chapter during the third 90-day period following their completion of the program.
+
+(Added Pub. L. 92–540, title V, §502(a), Oct. 24, 1972, 86 Stat. 1096, §2007; amended Pub. L. 93–508, title IV, §401(f), Dec. 3, 1974, 88 Stat. 1592; Pub. L. 94–502, title VI, §604, Oct. 15, 1976, 90 Stat. 2404; Pub. L. 95–202, title III, §309(b), Nov. 23, 1977, 91 Stat. 1446; Pub. L. 96–466, title V, §507, Oct. 17, 1980, 94 Stat. 2205; Pub. L. 97–306, title III, §307, Oct. 14, 1982, 96 Stat. 1440; Pub. L. 100–323, §§2(d), 15(a)(2), May 20, 1988, 102 Stat. 558, 574; renumbered §4107 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 107–288, §§4(a)(3)(B), (e)(1), 5(a)(1)(D), (E), (d)(1), Nov. 7, 2002, 116 Stat. 2042, 2044, 2045; Pub. L. 112–56, title II, §238, Nov. 21, 2011, 125 Stat. 726.)
 
 #### References in Text
 
@@ -34,11 +46,15 @@ Prior section 4107, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1245; Pub. L. 86�
 
 #### Amendments
 
+<b>2011</b>—Subsec. (c)(2). Pub. L. 112–56, §238(1), substituted “paragraph (1)” for “clause (1)”.
+
+Subsec. (c)(7). Pub. L. 112–56, §238(2)–(4), added par. (7).
+
 <b>2002</b>—Subsec. (a)(1). Pub. L. 107–288, §5(a)(1)(D), substituted “intensive services” for “employment counseling services”.
 
 Subsec. (b). Pub. L. 107–288, §5(d)(1)(E), inserted second and third sentences and struck out former second sentence which read as follows: “A full report as to the extent and reasons for any noncompliance by any such State agency during any fiscal year, together with the agency's plan for corrective action during the succeeding year, shall be included in the annual report of the Secretary required by subsection (c) of this section.”
 
-Pub. L. 107–288, §4(a)(3)(B), substituted “The Secretary shall apply performance standards established under section 4102A(f) of this title” for “The Secretary shall establish definitive performance standards”.
+Pub. L. 107–288, §4(a)(3)(B), substituted “The Secretary shall apply performance standards establishedunder section 4102A(f) of this title” for “The Secretary shall establish definitive performance standards”.
 
 Subsec. (c)(1). Pub. L. 107–288, §5(d)(1)(A), struck out “veterans of the Vietnam era,” before “disabled veterans, special” and substituted “eligible persons, recently separated veterans (as defined in section 4211(6) of this title), and servicemembers transitioning to civilian careers who registered for assistance with, or who are identified as veterans by,” for “and eligible persons who registered for assistance with”.
 
@@ -108,7 +124,7 @@ Section effective 90 days after Oct. 24, 1972, see section 601(b) of Pub. L. 92�
 
 Section 513 of Pub. L. 96–466 provided that:
 
-“(a) When the Commissioner of the Bureau of Labor Statistics publishes annual labor-market statistics relating specifically to veterans who served in the Armed Forces during the Vietnam era, the Commissioner shall also publish separate labor-market statistics on the same subject matter which apply only to veterans who served in the Vietnam theatre of operations. When the Commissioner of the Bureau of Labor Statistics publishes labor-market statistics which relate specifically to veterans who served in the Armed Forces during the Vietnam era in addition to those statistics published on an annual basis to which the preceding sentence applies, the Commissioner shall also, if feasible, publish separate labor-market statistics on the same subject matter which apply only to veterans who served in the Vietnam theatre of operations.
+“(a) When the Commissioner of the Bureau of Labor Statistics publishes annual labor-market statistics relating specifically to veterans who served in the ArmedForces during the Vietnam era, the Commissioner shall also publish separate labor-market statistics on the same subject matter which apply only to veterans who served in the Vietnam theatre of operations. When the Commissioner of the Bureau of Labor Statistics publishes labor-market statistics which relate specifically to veterans who served in the Armed Forces during the Vietnam era in addition to those statistics published on an annual basis to which the preceding sentence applies, the Commissioner shall also, if feasible, publish separate labor-market statistics on the same subject matter which apply only to veterans who served in the Vietnam theatre of operations.
 
 “(b) For the purposes of this section, veterans who during the Vietnam era served in Vietnam, in air missions over Vietnam, or in naval missions in the waters adjacent to Vietnam shall be considered to be veterans who served in the Vietnam theatre of operations.”
 

@@ -72,5 +72,5 @@ Par. (8). Pub. L. 105–85, §599(b)(2), added par. (8).
 
 &emsp;“(B) a civilian employee of the Department of Defense or an employee of a contractor of the Department of Defense who serves with or accompanies the Armed Forces in the field under orders and who is in a missing status.”
 
-Par. (8). Pub. L. 104–201, §578(b)(3), struck out par. (8) which read as follows: “The term ‘theater componentcommander’ means, with respect to any of the combatant commands, an officer of any of the armed forces who (A) is commander of all forces of that armed force assigned to that combatant command, and (B) is directly subordinate to the commander of the combatant command.”
+Par. (8). Pub. L. 104–201, §578(b)(3), struck out par. (8) which read as follows: “The term ‘theater component commander’ means, with respect to any of the combatant commands, an officer of any of the armed forces who (A) is commander of all forces of that armed force assigned to that combatant command, and (B) is directly subordinate to the commander of the combatant command.”
 

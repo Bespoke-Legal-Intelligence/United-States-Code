@@ -10,7 +10,7 @@ A prior section 1206, added Pub. L. 95–454, title II, §202(a), Oct. 13, 1978,
 
 #### Amendments
 
-1989—Pub. L. 101–12 renumbered section 1209(b) of this title as this section and inserted section catchline.
+<b>1989</b>—Pub. L. 101–12 renumbered section 1209(b) of this title as this section and inserted section catchline.
 
 #### Effective Date of 1989 Amendment
 

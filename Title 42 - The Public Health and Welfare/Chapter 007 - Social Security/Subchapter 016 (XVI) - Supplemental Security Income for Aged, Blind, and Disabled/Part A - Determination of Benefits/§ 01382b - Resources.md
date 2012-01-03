@@ -44,7 +44,7 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 &emsp;(15) for the 9-month period beginning after the month in which received, any grant, scholarship, fellowship, or gift (or portion of a gift) used to pay the cost of tuition and fees at any educational (including technical or vocational education) institution;
 
-&emsp;(16) for the month of receipt and every month thereafter, any annuity paid by a Stateto the individual (or such spouse) on the basis of the individual's being a veteran (as defined in section 101 of title 38), and blind, disabled, or aged; and
+&emsp;(16) for the month of receipt and every month thereafter, any annuity paid by a State to the individual (or such spouse) on the basis of the individual's being a veteran (as defined in section 101 of title 38), and blind, disabled, or aged; and
 
 &emsp;(17) any amount received by such individual (or such spouse) which is excluded from income under section 1382a(b)(26) of this title (relating to compensation for participation in a clinical trial involving research and testing of treatments for a rare disease or condition).
 
@@ -94,7 +94,7 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 &emsp;&emsp;(III) a sibling of the transferor who has an equity interest in such home and who was residing in the transferor's home for a period of at least 1 year immediately before the date the transferor becomes an institutionalized individual; or
 
-&emsp;&emsp;(IV) a son or daughter of the transferor (other than a child described in subclause (II)) who was residing in the transferor's home for a period of at least 2 years immediately before the date the transferor becomes an institutionalized individual, andwho provided care to the transferor which permitted the transferor to reside at home rather than in such an institution or facility;
+&emsp;&emsp;(IV) a son or daughter of the transferor (other than a child described in subclause (II)) who was residing in the transferor's home for a period of at least 2 years immediately before the date the transferor becomes an institutionalized individual, and who provided care to the transferor which permitted the transferor to reside at home rather than in such an institution or facility;
 
 &emsp;(ii) the resources—
 
@@ -144,7 +144,7 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 (3) If the Commissioner of Social Security finds that any part of the amount excluded under paragraph (1) was used for purposes other than those for which it was set aside in cases where the inclusion of any portion of the amount would cause the resources of such individual, or of such individual and spouse, to exceed the limits specified in paragraph (1) or (2) (whichever may be applicable) of section 1382(a) of this title, the Commissioner shall reduce any future benefits payable to the eligible individual (or to such individual and his spouse) by an amount equal to such part.
 
-(4) The Commissioner of Social Security may provide by regulations that whenever an amount set aside to meet burial and related expenses is excluded under paragraph (1) in determining the resources of an individual, any interest earnedor accrued on such amount (and left to accumulate), and any appreciation in the value of prepaid burial arrangements for which such amount was set aside, shall also be excluded (to such extent and subject to such conditions or limitations as such regulations may prescribe) in determining the resources (and the income) of such individual.
+(4) The Commissioner of Social Security may provide by regulations that whenever an amount set aside to meet burial and related expenses is excluded under paragraph (1) in determining the resources of an individual, any interest earned or accrued on such amount (and left to accumulate), and any appreciation in the value of prepaid burial arrangements for which such amount was set aside, shall also be excluded (to such extent and subject to such conditions or limitations as such regulations may prescribe) in determining the resources (and the income) of such individual.
 
 #### (e) Trusts
 
@@ -164,7 +164,7 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 &emsp;(iv) any restrictions on the use of distributions from the trust.
 
-(3)(A) In the case of a revocable trust established by an individual, the corpus of the trust shall be considered a resource available to the individual.
+(3)(A) In the case of a revocable trust established by an individual, the corpus of the trustshall be considered a resource available to the individual.
 
 (B) In the case of an irrevocable trust established by an individual, if there are any circumstances under which payment from the trust could be made to or for the benefit of the individual (or of the individual's spouse), the portion of the corpus from which payment to or for the benefit of the individual (or of the individual's spouse) could be made shall be considered a resource available to the individual.
 
@@ -206,7 +206,7 @@ The Internal Revenue Code of 1986, referred to in subsec. (a)(11), (13), is clas
 
 Section 203 of the Economic Growth and Tax Relief Reconciliation Act of 2001, referred to in subsec. (a)(11)(A), is section 203 of Pub. L. 107–16, which is set out as a note under section 24 of Title 26, Internal Revenue Code.
 
-Section 212(b) of Public Law 93–66, referred to in subsec. (c)(1)(A)(iv)(II), (F)(i), is section 212(b) of Pub. L.93–66, title II, July 9, 1973, 87 Stat. 155, as amended, which is set out as a note under section 1382 of this title.
+Section 212(b) of Public Law 93–66, referred to in subsec. (c)(1)(A)(iv)(II), (F)(i), is section 212(b) of Pub. L. 93–66, title II, July 9, 1973, 87 Stat. 155, as amended, which is set out as a note under section 1382 of this title.
 
 Section 1396p(e)(3) of this title, referred to in subsec. (c)(1)(F)(ii), was redesignated section 1396p(h)(3) of this title by Pub. L. 109–171, title VI, §§6012(a), 6014(a), 6015(b), Feb. 8, 2006, 120 Stat. 62, 64, 65.
 
@@ -318,7 +318,7 @@ Amendment by Pub. L. 105–306 applicable to gifts made on or after the date tha
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 213(b) of Pub. L. 104–193 applicable to payments made after Aug. 22, 1996, see section 213(d) of Pub. L. 104–193, set out as a note under section 1382a of this title.
+Amendment by section 213(b) of Pub. L. 104–193 applicable to payments made after Aug. 22, 1996, see section213(d) of Pub. L. 104–193, set out as a note under section 1382a of this title.
 
 #### Effective Date of 1994 Amendment
 

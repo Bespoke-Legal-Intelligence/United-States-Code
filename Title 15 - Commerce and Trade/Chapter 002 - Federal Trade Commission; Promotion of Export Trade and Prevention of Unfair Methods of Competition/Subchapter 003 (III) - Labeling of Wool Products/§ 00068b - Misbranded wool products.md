@@ -12,7 +12,7 @@ A wool product shall be misbranded—
 
 &emsp;&emsp;(B) the maximum percentage of the total weight of the wool product, of any nonfibrous loading, filling, or adulterating matter.
 
-&emsp;&emsp;(C) the name of the manufacturer of the wool product and/or the name of one or more persons subject to section 68a of this title with respect to such wool product.
+&emsp;&emsp;(C) the name of the manufacturer of the wool product and/or the name of one or morepersons subject to section 68a of this title with respect to such wool product.
 
 &emsp;&emsp;(D) the name of the country where processed or manufactured.
 
@@ -86,7 +86,7 @@ The Commission, after giving due notice and opportunity to be heard to intereste
 
 #### (e) False or deceptive advertising in mail order promotions
 
-For the purposes of this subchapter, a wool product shall be considered to be falsely or deceptively advertised in any mail order promotional material which is used in the direct sale or direct offering for sale of such wool product, unless such wool product description states in a clear and conspicuous manner that such wool product is processed or manufactured in the United States of America, or imported, or both.
+For the purposes of this subchapter, a wool product shall be considered to be falsely or deceptively advertised in any mail order promotional material which is used in the direct sale or direct offering for sale of such wool product, unless such wool product description states in a clear and conspicuous manner that such wool product is processed or manufactured inthe United States of America, or imported, or both.
 
 #### (f) Location of label, etc.
 
@@ -106,11 +106,11 @@ Subsecs. (e), (f). Pub. L. 98–417, §305, added subsecs. (e) and (f).
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–428, §2(b), Dec. 20, 2006, 120 Stat. 2915, provided that: “The amendments made by this section\[amending this section\] shall apply to wool products manufactured on or after January 1, 2007.”
+Pub. L. 109–428, §2(b), Dec. 20, 2006, 120 Stat. 2915, provided that: “The amendments made by this section \[amending this section\] shall apply to wool products manufactured on or after January 1, 2007.”
 
 #### Effective Date of 1984 Amendment
 
-Section 307 of title III of Pub. L. 98–417 provided that: “The amendments made by this title \[amending this section and sections 68c and 70b of this title\] shall be effective ninety days after the date of enactment of this Act \[Sept. 24, 1984\].”
+Pub. L. 98–417, title III, §307, Sept. 24, 1984, 98 Stat. 1605, provided that: “The amendments made by this title \[amending this section and sections 68c and 70b of this title\] shall be effective ninety days after the date of enactment of this Act \[Sept. 24, 1984\].”
 
 #### Effective Date of 1980 Amendment
 

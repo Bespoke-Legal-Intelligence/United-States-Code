@@ -50,5 +50,5 @@ Provisions similar to this section were contained in section 1805(c)(2) of this 
 
 <b>1978</b>—Pub. L. 95–604 inserted reference to section 2114 of this title.
 
-<b>1974</b>—Pub. L. 93–377 substituted “qualified applicants with or without charge” for “licensees with or without charge”, and struck out “Licensees of the Commission may distribute byproduct material only to applicants therefor who are licensed by the Commission to receivesuch byproduct material” before “The Commission shall not”.
+<b>1974</b>—Pub. L. 93–377 substituted “qualified applicants with or without charge” for “licensees with or without charge”, and struck out “Licensees of the Commission may distribute byproduct material only to applicants therefor who are licensed by the Commission to receive such byproduct material” before “The Commission shall not”.
 

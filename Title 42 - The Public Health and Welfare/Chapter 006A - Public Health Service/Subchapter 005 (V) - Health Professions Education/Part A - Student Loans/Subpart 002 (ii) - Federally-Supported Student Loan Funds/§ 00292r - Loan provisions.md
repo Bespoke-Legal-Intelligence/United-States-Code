@@ -34,7 +34,7 @@ Such loans shall be repayable in equal or graduated periodic installments (with 
 
 &emsp;(2) a period—
 
-&emsp;&emsp;(A) not in excess of two years during which a borrower who is a full-time student in such a school leaves the school, with the intent to return to such school as a full-time student, in order to engage in a full-time educational activity which is directly related to the health profession for which the borrower is preparing, as determined by the Secretary; or
+&emsp;&emsp;(A) not in excess of two years during which a borrower who is a full-time student in such a school leaves the school, with the intent to return to such school as a full-time student, in order to engage in a full-time educational activity which is directly related to thehealth profession for which the borrower is preparing, as determined by the Secretary; or
 
 &emsp;&emsp;(B) not in excess of two years during which a borrower who is a graduate of such a school is a participant in a fellowship training program or a full-time educational activity which—
 
@@ -44,7 +44,7 @@ Such loans shall be repayable in equal or graduated periodic installments (with 
 
 #### (d) Cancellation of liability
 
-The liability to repay the unpaid balance of such a loan and accrued interest thereon shall be canceled upon the death of the borrower, or ifthe Secretary determines that he has become permanently, and totally disabled.
+The liability to repay the unpaid balance of such a loan and accrued interest thereon shall be canceled upon the death of the borrower, or if the Secretary determines that he has become permanently, and totally disabled.
 
 #### (e) Rate of interest
 
@@ -84,7 +84,7 @@ Upon application by a person who received, and is under an obligation to repay, 
 
 #### (<i>l</i>) Collection efforts by Secretary
 
-The Secretary is authorized to attempt to collect any loan which was made under this subpart, which is in default, and which was referred to the Secretary by a school with which the Secretary has an agreement under this subpart, on behalf of that school under such terms and conditions as the Secretary may prescribe (including reimbursement from the school's student loan fund for expenses the Secretary may reasonably incur in attempting collection), but only if the school has complied with such requirements as the Secretary may specify by regulation with respect to the collection of loans under this subpart. A loan so referred shall be treated as a debt subject to section 5514 of title 5. Amounts collected shall be deposited in the school's student loan fund. Whenever the Secretary desires the institution of a civil action regarding any such loan, the Secretary shall refer the matter to the Attorney General for appropriate action.
+The Secretary is authorized to attempt to collect any loan which was made under this subpart, which is in default, and which was referred to the Secretary by a school with which the Secretary has an agreement under this subpart, on behalf of that school under such terms and conditions as the Secretary may prescribe (including reimbursement from the school's student loan fund for expenses the Secretary may reasonably incur in attempting collection), but only if the school has complied with such requirements as the Secretary may specify by regulation with respect to the collection of loans under this subpart. A loan so referred shall be treated as a debt subject to section 5514 of title 5. Amounts collected shall be deposited in the school's student loan fund. Whenever the Secretary desires the institution of a civil action regarding any such loan, the Secretary shallrefer the matter to the Attorney General for appropriate action.
 
 #### (m) Elimination of statute of limitation for loan collections
 

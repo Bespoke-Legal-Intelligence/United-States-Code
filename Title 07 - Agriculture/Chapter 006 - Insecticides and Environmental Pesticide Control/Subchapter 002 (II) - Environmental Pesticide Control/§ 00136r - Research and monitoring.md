@@ -16,9 +16,9 @@ The Administrator shall undertake such monitoring activities, including, but not
 
 #### Amendments
 
-1991—Subsec. (a). Pub. L. 102–237 substituted “ensure” for “insure” and “the Administrator” for “he” before “shall conduct”.
+<b>1991</b>—Subsec. (a). Pub. L. 102–237 substituted “ensure” for “insure” and “the Administrator” for “he” before “shall conduct”.
 
-1978—Subsec. (a). Pub. L. 95–396, §20(1), substituted in first sentence “shall conduct research into integrated pest management in coordination with the Secretary of Agriculture” for “shall give priority to research to develop biologically integrated alternatives for pest control”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–396, §20(1), substituted in first sentence “shall conduct research into integrated pest management in coordination with the Secretary of Agriculture” for “shall give priority to research to develop biologically integrated alternatives for pest control”.
 
 Subsec. (c). Pub. L. 95–396, §20(2), inserted provision requiring establishment of monitoring procedures and the carrying out of the activities in cooperation with other Federal, State, and local agencies.
 

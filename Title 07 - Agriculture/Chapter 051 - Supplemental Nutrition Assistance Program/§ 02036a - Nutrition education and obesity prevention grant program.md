@@ -76,11 +76,11 @@ Consistent with the terms and conditions of grants awarded under this section, S
 
 #### (4) Notification
 
-&emsp;To the maximum extent practicable, State agencies shall notify applicants, participants, and eligible individuals under this chapter of the availability of nutrition education and obesity prevention services under this section in local communities.
+&emsp;To the maximum extent practicable, State agencies shall notify applicants, participants,and eligible individuals under this chapter of the availability of nutrition education and obesity prevention services under this section in local communities.
 
 #### (5) Coordination
 
-&emsp;Subject to the approval of the Secretary, projects carried out with funds received under this section may be coordinated with other health promotion or nutrition improvementstrategies, whether public or privately funded, if the projects carried out with funds received under this section remain under the administrative control of the State agency.
+&emsp;Subject to the approval of the Secretary, projects carried out with funds received under this section may be coordinated with other health promotion or nutrition improvement strategies, whether public or privately funded, if the projects carried out with funds received under this section remain under the administrative control of the State agency.
 
 #### (d) Funding
 

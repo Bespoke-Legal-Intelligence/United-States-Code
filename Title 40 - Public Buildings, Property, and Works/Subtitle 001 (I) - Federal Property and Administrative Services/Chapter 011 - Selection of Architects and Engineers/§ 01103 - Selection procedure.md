@@ -10,7 +10,7 @@ Annual Statements.—The agency head shall encourage firms to submit annually a 
 
 (c)
 
-Evaluation.—For each proposed project, the agency head shall evaluate current statements of qualifications and performance data on file with the agency, together with statements submitted by other firms regarding the proposedproject. The agency head shall conduct discussions with at least 3 firms to consider anticipated concepts and compare alternative methods for furnishing services.
+Evaluation.—For each proposed project, the agency head shall evaluate current statements of qualifications and performance data on file with the agency, together with statements submitted by other firms regarding the proposed project. The agency head shall conduct discussions with at least 3 firms to consider anticipated concepts and compare alternative methods for furnishing services.
 
 (d)
 

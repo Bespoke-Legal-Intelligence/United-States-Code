@@ -14,7 +14,7 @@ Section was classified to section 207e of former Title 40, prior to the enactmen
 
 #### Amendments
 
-2010—Subsec. (a)(1). Pub. L. 111–145, §2(b)(1)(A), substituted “United States Capitol Police” for “Capitol Police Board” in two places.
+<b>2010</b>—Subsec. (a)(1). Pub. L. 111–145, §2(b)(1)(A), substituted “United States Capitol Police” for “Capitol Police Board” in two places.
 
 Subsec. (a)(2). Pub. L. 111–145, §2(b)(1)(B), substituted “Chief of the United States Capitol Police” for “Capitol Police Board”.
 

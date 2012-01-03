@@ -96,7 +96,7 @@ This chapter, referred to in subsecs. (a) and (e)(2), was in the original, “th
 
 #### Amendments
 
-1996—Subsec. (a)(1). Pub. L. 104–208, §212(a)(1), inserted “or to obtain a benefit under this chapter” before comma at end.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–208, §212(a)(1), inserted “or to obtain a benefit under this chapter” before comma at end.
 
 Subsec. (a)(2). Pub. L. 104–208, §212(a)(2), inserted “or to obtain a benefit under this chapter” before comma at end.
 
@@ -122,9 +122,9 @@ Subsec. (e). Pub. L. 104–208, §213, added subsec. (e).
 
 Subsec. (f). Pub. L. 104–208, §212(b), added subsec. (f).
 
-1994—Subsec. (b). Pub. L. 103–416 substituted “chapter 224 of title 18” for “title V of the Organized Crime Control Act of 1970 (18 U.S.C. note prec. 3481)”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–416 substituted “chapter 224 of title 18” for “title V of the Organized Crime Control Act of 1970 (18 U.S.C. note prec. 3481)”.
 
-1991—Subsec. (a)(2) to (4). Pub. L. 102–232 inserted “or to provide” after “receive” in pars. (2) and (4) and “or to provide or attempt to provide” after “attempt to use” in par. (3).
+<b>1991</b>—Subsec. (a)(2) to (4). Pub. L. 102–232 inserted “or to provide” after “receive” in pars. (2) and (4) and “or to provide or attempt to provide” after “attempt to use” in par. (3).
 
 #### Effective Date of 1996 Amendment
 

@@ -59,71 +59,71 @@
 | :--- | ---: |
 | [675\.](%C2%A7%2000675%20-%20Small%20boat%20station%20closures.md) | Small boat station closures. |
 | [676\.](%C2%A7%2000676%20-%20Search%20and%20rescue%20center%20standards.md) | Search and rescue center standards. |
-| [677\.](%C2%A7%2000677%20-%20Turnkey%20selection%20procedures.md) | Turnkey selection procedures <sup>3</sup> |
+| [677\.](%C2%A7%2000677%20-%20Turnkey%20selection%20procedures.md) | Turnkey selection procedures. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-2006—Pub. L. 109–241, title IX, §901(b), July 11, 2006, 120 Stat. 564, amended Pub. L. 108–293,§212(b), effective Aug. 9, 2004. See 2004 Amendment note below.
+<b>2010</b>—Pub. L. 111–281, title IX, §903(b)(2), Oct. 15, 2010, 124 Stat. 3011, inserted period at end of item 677.
+
+<b>2006</b>—Pub. L. 109–241, title IX, §901(b), July 11, 2006, 120 Stat. 564, amended Pub. L. 108–293,§212(b), effective Aug. 9, 2004. See 2004 Amendment note below.
 
 Pub. L. 109–241, title II, §205(b), July 11, 2006, 120 Stat. 521, added item 677.
 
-2004—Pub. L. 108–293, title II, §212(b), Aug. 9, 2004, 118 Stat. 1037, as amended by Pub. L. 109–241, title IX, §901(b), July 11, 2006, 120 Stat. 564, substituted “Long-term lease of special purpose facilities” for “Long-term lease authority for navigation and communications systems sites” in item 672.
+<b>2004</b>—Pub. L. 108–293, title II, §212(b), Aug. 9, 2004, 118 Stat. 1037, as amended by Pub. L. 109–241, title IX, §901(b), July 11, 2006, 120 Stat. 564, substituted “Long-term lease of special purpose facilities” for “Long-term lease authority for navigation and communications systems sites” in item 672.
 
 Pub. L. 108–293, title II, §205(e)(2), Aug. 9, 2004, 118 Stat. 1033, substituted “indemnity” for “immunity” in item 637.
 
-2002—Pub. L. 107–296, title XVII, §1704(f)(2), Nov. 25, 2002, 116 Stat. 2316, which directed the redesignation of item 673 “Small boat station rescue capability” as item 673a, could not be executed because of prior amendment by Pub. L. 107–295, §405(c), see below.
+<b>2002</b>—Pub. L. 107–296, title XVII, §1704(f)(2), Nov. 25, 2002, 116 Stat. 2316, which directed the redesignation of item 673 “Small boat station rescue capability” as item 673a, could not be executed because of prior amendment by Pub. L. 107–295, §405(c), see below.
 
 Pub. L. 107–295, title IV, §§405(c), 417(b), Nov. 25, 2002, 116 Stat. 2116, 2123, added items 672a and 674 to 676, and struck out item 673 “Small boat station rescue capability” and former item 674 “Small boat station closures”.
 
-1996—Pub. L. 104–324, title III, §309(b), Oct. 19, 1996, 110 Stat. 3919, added item 673 “Small boat station rescue capability” and item 674.
+<b>1996</b>—Pub. L. 104–324, title III, §309(b), Oct. 19, 1996, 110 Stat. 3919, added item 673 “Small boat station rescue capability” and item 674.
 
 Pub. L. 104–201, div. A, title X, §1009(a)(2)(B), Sept. 23, 1996, 110 Stat. 2634, added item 673 “Designation, powers, and accountability of deputy disbursing officials”.
 
-1993—Pub. L. 103–206, title III, §§302(b), 303(b), 304(b), Dec. 20, 1993, 107 Stat. 2423, 2424, added items 670, 671, and 672.
+<b>1993</b>—Pub. L. 103–206, title III, §§302(b), 303(b), 304(b), Dec. 20, 1993, 107 Stat. 2423, 2424, added items 670, 671, and 672.
 
-1992—Pub. L. 102–587, title V, §§5203(b), 5204(b), Nov. 4, 1992, 106 Stat. 5074, added items 645 and 669.
+<b>1992</b>—Pub. L. 102–587, title V, §§5203(b), 5204(b), Nov. 4, 1992, 106 Stat. 5074, added items 645 and 669.
 
-1990—Pub. L. 101–595, title III, §§306(b), 319(b), Nov. 16, 1990, 104 Stat. 2985, 2989, added items 667 and 668.
+<b>1990</b>—Pub. L. 101–595, title III, §§306(b), 319(b), Nov. 16, 1990, 104 Stat. 2985, 2989, added items 667 and 668.
 
 Pub. L. 101–510, div. A, title III, §327(d)(2), Nov. 5, 1990, 104 Stat. 1532, added item 640.
 
-1989—Pub. L. 101–225, title II, §206(b), Dec. 12, 1989, 103 Stat. 1913, added item 666.
+<b>1989</b>—Pub. L. 101–225, title II, §206(b), Dec. 12, 1989, 103 Stat. 1913, added item 666.
 
-1988—Pub. L. 100–690, title VII, §7401(b), Nov. 18, 1988, 102 Stat. 4483, substituted “immunity for firing at or into vessel” for “immunity of Coast Guard officer” in item 637.
+<b>1988</b>—Pub. L. 100–690, title VII, §7401(b), Nov. 18, 1988, 102 Stat. 4483, substituted “immunity for firing at or into vessel” for “immunity of Coast Guard officer” in item 637.
 
 Pub. L. 100–448, §§26(b), 29(b), Sept. 28, 1988, 102 Stat. 1848, 1849, added items 659 and 665.
 
-1986—Pub. L. 99–509, title V, §5102(a)(1), Oct. 21, 1986, 100 Stat. 1925, added item 664.
+<b>1986</b>—Pub. L. 99–509, title V, §5102(a)(1), Oct. 21, 1986, 100 Stat. 1925, added item 664.
 
-1982—Pub. L. 97–295, §2(17), (19)(B), (20)(B), Oct. 12, 1982, 96 Stat. 1302, 1303, struck out items 645 and 659, and added items 661, 662, and 663.
+<b>1982</b>—Pub. L. 97–295, §2(17), (19)(B), (20)(B), Oct. 12, 1982, 96 Stat. 1302, 1303, struck out items 645 and 659, and added items 661, 662, and 663.
 
-1980—Pub. L. 96–376, §10(b), Oct. 3, 1980, 94 Stat. 1511, added item 660.
+<b>1980</b>—Pub. L. 96–376, §10(b), Oct. 3, 1980, 94 Stat. 1511, added item 660.
 
-1977—Pub. L. 95–61, §4(2), July 1, 1977, 91 Stat. 260, added item 659.
+<b>1977</b>—Pub. L. 95–61, §4(2), July 1, 1977, 91 Stat. 260, added item 659.
 
-1974—Pub. L. 93–283, §1(11), May 14, 1974, 88 Stat. 140, substituted “Use of moneys appropriated for acquisition, construction, and improvement; for research, development, test, and evaluation; and for the alteration of bridges over the navigable waters” for “Use of appropriations to restore, replace, establish, or develop facilities” in item 656, and added item 658.
+<b>1974</b>—Pub. L. 93–283, §1(11), May 14, 1974, 88 Stat. 140, substituted “Use of moneys appropriated for acquisition, construction, and improvement; for research, development, test, and evaluation; and for the alteration of bridges over the navigable waters” for “Use of appropriations to restore, replace, establish, or develop facilities” in item 656, and added item 658.
 
-1972—Pub. L. 92–417, §2(b), Aug. 29, 1972, 86 Stat. 656, substituted “Admiralty claims against the United States” for “Claims for damages occasioned by vessels” in item 646.
+<b>1972</b>—Pub. L. 92–417, §2(b), Aug. 29, 1972, 86 Stat. 656, substituted “Admiralty claims against the United States” for “Claims for damages occasioned by vessels” in item 646.
 
-1970—Pub. L. 91–278, §1(15), June 12, 1970, 84 Stat. 306, added item 657.
+<b>1970</b>—Pub. L. 91–278, §1(15), June 12, 1970, 84 Stat. 306, added item 657.
 
-1963—Pub. L. 88–45, §3, June 21, 1963, 77 Stat. 69, added item 656.
+<b>1963</b>—Pub. L. 88–45, §3, June 21, 1963, 77 Stat. 69, added item 656.
 
-1962—Pub. L. 87–526, §1(7), July 10, 1962, 76 Stat. 142, added item 655.
+<b>1962</b>—Pub. L. 87–526, §1(7), July 10, 1962, 76 Stat. 142, added item 655.
 
-1959—Pub. L. 86–159, §2, Aug. 14, 1959, 73 Stat. 358, added item 654.
+<b>1959</b>—Pub. L. 86–159, §2, Aug. 14, 1959, 73 Stat. 358, added item 654.
 
-1958—Pub. L. 85–861, §5(1), Sept. 2, 1958, 72 Stat. 1547, struck out item 640.
+<b>1958</b>—Pub. L. 85–861, §5(1), Sept. 2, 1958, 72 Stat. 1547, struck out item 640.
 
-1956—Act Aug. 7, 1956, ch. 1023, §1(b), 70 Stat. 1077, substituted “Coast Guard Supply Fund” for “Coast Guard supply fund and supply account” in item 650.
+<b>1956</b>—Act Aug. 7, 1956, ch. 1023, §1(b), 70 Stat. 1077, substituted “Coast Guard Supply Fund” for “Coast Guard supply fund and supply account” in item 650.
 
 <i><sup>1</sup></i><i> So in original. Capitalization does not conform to section catchline.</i>
 
 <i><sup>2</sup></i><i> So in original. Does not conform to section catchline.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be followed by a period.</i>
 
 
 ---

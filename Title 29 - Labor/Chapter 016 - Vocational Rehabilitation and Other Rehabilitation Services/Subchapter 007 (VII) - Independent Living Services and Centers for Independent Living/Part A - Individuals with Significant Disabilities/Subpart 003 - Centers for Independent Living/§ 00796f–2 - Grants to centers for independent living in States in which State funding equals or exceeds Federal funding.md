@@ -20,7 +20,7 @@
 
 #### (B) Subsequent years
 
-&emsp;&emsp;For each year subsequent to the initial fiscal year described in subparagraph (A), thedirector of the designated State unit shall continue to have the authority to award such grants under this section if the Commissioner determines that the State continues to earmark the amount of State funds described in subparagraph (A)(i). If the State does not continue to earmark such an amount for a fiscal year, the State shall be ineligible to make grants under this section after a final year following such fiscal year, as defined in accordance with regulations established by the Commissioner, and for each subsequent fiscal year.
+&emsp;&emsp;For each year subsequent to the initial fiscal year described in subparagraph (A), the director of the designated State unit shall continue to have the authority to award such grants under this section if the Commissioner determines that the State continues to earmark the amount of State funds described in subparagraph (A)(i). If the State does not continue to earmark such an amount for a fiscal year, the State shall be ineligible to make grants under this section after a final year following such fiscal year, as defined in accordance with regulations established by the Commissioner, and for each subsequent fiscal year.
 
 #### (2) Grants by designated State units
 
@@ -42,7 +42,7 @@ In any State in which the Commissioner has approved the State plan required by s
 
 #### (c) Existing eligible agencies
 
-In the administration of the provisions of this section, the director of the designated State unit shall award grants under this section to any eligible agency that has been awarded a grant under this subpart by September 30, 1997, unless the director makes a finding that the agency involved fails to comply with the standards and assurances set forth in section 796f–4 of this title.
+In the administration of the provisions of this section, the director of the designated State unit shall award grants under this section to any eligible agency that has been awarded a grant under this subpart by September 30, 1997,unless the director makes a finding that the agency involved fails to comply with the standards and assurances set forth in section 796f–4 of this title.
 
 #### (d) New centers for independent living
 
@@ -110,7 +110,7 @@ A center that provides or manages residential housing after October 1, 1994, sha
 
 #### (h) Onsite compliance review
 
-The director of the designated State unit shall annually conduct onsite compliance reviews of at least 15 percent of the centers for independent living that receive funding under this section in the State. Each team that conducts onsite compliance review of centers for independent living shall include at least one person who is not an employee of the designated State agency, who has experience in the operation of centers for independent living, and who is jointly selected by the director of the designated State unit and the chairperson of or other individual designated by the Council acting on behalf of and at the direction of the Council. A copy of this review shall be provided to the Commissioner.
+The director of the designated State unit shall annually conduct onsite compliance reviews of at least 15 percent of the centers for independent living that receive funding under this section in the State. Each team that conducts onsite compliance review of centers for independent living shall include at least one person who is not an employee of the designated State agency, who has experience in the operation of centers forindependent living, and who is jointly selected by the director of the designated State unit and the chairperson of or other individual designated by the Council acting on behalf of and at the direction of the Council. A copy of this review shall be provided to the Commissioner.
 
 #### (i) Adverse actions
 

@@ -1,6 +1,6 @@
 ### §1976. Effective date
 
-The insurance provided for in this subchapter and the deductions and contributions for thatpurpose shall take effect on the date designated by the Secretary and certified by the Secretary to each Secretary concerned.
+The insurance provided for in this subchapter and the deductions and contributions for that purpose shall take effect on the date designated by the Secretary and certified by the Secretary to each Secretary concerned.
 
 (Added Pub. L. 89–214, §1(a), Sept. 29, 1965, 79 Stat. 885, §776; amended Pub. L. 99–576, title VII, §701(42), Oct. 28, 1986, 100 Stat. 3294; renumbered §1976 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
 

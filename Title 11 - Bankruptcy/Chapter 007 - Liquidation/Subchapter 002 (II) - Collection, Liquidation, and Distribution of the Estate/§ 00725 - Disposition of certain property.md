@@ -6,7 +6,7 @@ After the commencement of a case under this chapter, but before final distributi
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 725 of the House amendment adopts the substance contained in both the House bill and Senate amendment but transfers an administrative function to the trustee in accordance with the general thrust of this legislation to separate the administrative and the judicial functions where appropriate.
 
@@ -16,7 +16,7 @@ This section requires the court to determine the appropriate disposition of prop
 
 #### Amendments
 
-1984—Pub. L. 98–353 substituted “distribution of property of the estate” for “distribution”.
+<b>1984</b>—Pub. L. 98–353 substituted “distribution of property of the estate” for “distribution”.
 
 #### Effective Date of 1984 Amendment
 

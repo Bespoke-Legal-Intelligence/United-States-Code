@@ -6,5 +6,5 @@ The Secretaries are authorized to accept financial or other assistance from any 
 
 #### Amendments
 
-1984—Pub. L. 98–284 inserted “or to other critical agricultural materials”.
+<b>1984</b>—Pub. L. 98–284 inserted “or to other critical agricultural materials”.
 

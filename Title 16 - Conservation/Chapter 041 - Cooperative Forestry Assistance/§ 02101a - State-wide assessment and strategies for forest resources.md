@@ -18,11 +18,11 @@ For a State to be eligible to receive funds under the authorities of this chapte
 
 &emsp;&emsp;(A) strategies for addressing threats to forest resources in the State outlined in the assessment required by paragraph (1); and
 
-&emsp;&emsp;(B) a description of the resources necessary for the State forester or equivalent State official from all sources to address the State-wide strategy.
+&emsp;&emsp;(B) a description of the resources necessary for the State forester or equivalentState official from all sources to address the State-wide strategy.
 
 #### (b) Updating
 
-At such times as the Secretary determines to be necessary, the State forester or equivalentState official shall update and resubmit to the Secretary the State-wide assessment and State-wide strategy required by subsection (a).
+At such times as the Secretary determines to be necessary, the State forester or equivalent State official shall update and resubmit to the Secretary the State-wide assessment and State-wide strategy required by subsection (a).
 
 #### (c) Coordination
 

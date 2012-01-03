@@ -8,7 +8,7 @@
 
 #### (2) Relevant local markets
 
-&emsp;If the aggregate preservation rents for a project exceeds the amount determined underparagraph (1), the Secretary shall determine whether such aggregate rents exceed the amount determined by multiplying 120 percent of the prevailing rents in the relevant local market area in which the housing is located by the number of units in the project (according to the appropriate unit sizes). A relevant local market area shall be an area geographically smaller than a market area established by the Secretary under section 1437f(c)(1) of title 42 that is identifiable as a distinct rental market area. The Secretary may rely on the appraisal to determine the relevant local market areas and prevailing rents in such local areas and any other information the Secretary determines is appropriate.
+&emsp;If the aggregate preservation rents for a project exceeds the amount determined under paragraph (1), the Secretary shall determine whether such aggregate rents exceed the amount determined by multiplying 120 percent of the prevailing rents in the relevant local market area in which the housing is located by the number of units in the project (according to the appropriate unit sizes). A relevant local market area shall be an area geographically smaller than a market area established by the Secretary under section 1437f(c)(1) of title 42 that is identifiable as a distinct rental market area. The Secretary may rely on the appraisal to determine the relevant local market areas and prevailing rents in such local areas and any other information the Secretary determines is appropriate.
 
 #### (3) Effect
 
@@ -38,5 +38,5 @@
 
 #### Amendments
 
-1992—Subsec. (a)(2). Pub. L. 102–550 made technical amendment to reference to section 1437f(c)(1) of title 42 to reflect correction of corresponding provision of original act.
+<b>1992</b>—Subsec. (a)(2). Pub. L. 102–550 made technical amendment to reference to section 1437f(c)(1) of title 42 to reflect correction of corresponding provision of original act.
 

@@ -22,7 +22,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (A) In general
 
-&emsp;&emsp;The alien must establish that he entered the United States before January 1, 1982, andthat he has resided continuously in the United States in an unlawful status since such date and through the date the application is filed under this subsection.
+&emsp;&emsp;The alien must establish that he entered the United States before January 1, 1982, and that he has resided continuously in the United States in an unlawful status since such date and through the date the application is filed under this subsection.
 
 #### (B) Nonimmigrants
 
@@ -104,7 +104,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (iii) Relation to naturalization examination
 
-&emsp;&emsp;&emsp;In accordance with regulations of the Attorney General, an alien who has demonstrated under clause (i)(I) that the alienmeets the requirements of section 1423(a) of this title may be considered to have satisfied the requirements of that section for purposes of becoming naturalized as a citizen of the United States under subchapter III of this chapter.
+&emsp;&emsp;&emsp;In accordance with regulations of the Attorney General, an alien who has demonstrated under clause (i)(I) that the alien meets the requirements of section 1423(a) of this title may be considered to have satisfied the requirements of that section for purposes of becoming naturalized as a citizen of the United States under subchapter III of this chapter.
 
 #### (2) Termination of temporary residence
 
@@ -478,19 +478,19 @@ A prior section 1255a, Pub. L. 85–316, §9, Sept. 11, 1957, 71 Stat. 641, prov
 
 #### Amendments
 
-2008—Subsec. (h)(1)(A)(iii). Pub. L. 110–246, §4002(b)(1)(B), (2)(J), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
+<b>2008</b>—Subsec. (h)(1)(A)(iii). Pub. L. 110–246, §4002(b)(1)(B), (2)(J), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
 
-2006—Subsec. (h)(4)(C). Pub. L. 109–270 substituted “The Carl D. Perkins Career and Technical Education Act of 2006” for “Carl D. Perkins Vocational and Technical Education Act of 1998”.
+<b>2006</b>—Subsec. (h)(4)(C). Pub. L. 109–270 substituted “The Carl D. Perkins Career and Technical Education Act of 2006” for “Carl D. Perkins Vocational and Technical Education Act of 1998”.
 
-1999—Subsec. (h)(4)(A). Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act”.
+<b>1999</b>—Subsec. (h)(4)(A). Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act”.
 
-1998—Subsec. (h)(4)(C). Pub. L. 105–332 substituted “Carl D. Perkins Vocational and Technical Education Act of 1998” for “Vocational Education Act of 1963”.
+<b>1998</b>—Subsec. (h)(4)(C). Pub. L. 105–332 substituted “Carl D. Perkins Vocational and Technical Education Act of 1998” for “Vocational Education Act of 1963”.
 
 Subsec. (h)(4)(F). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(4)\], substituted “Title I” for “The Job Training Partnership Act or title I”.
 
 Pub. L. 105–277, §101(f) \[title VIII, §405(d)(4)\], substituted “The Job Training Partnership Act or title I of the Workforce Investment Act of 1998.” for “The Job Training Partnership Act.”
 
-1996—Subsec. (a)(1)(B). Pub. L. 104–208, §308(g)(5)(A)(iii), inserted “(as in effect before October 1, 1996)” after “section 1252 of this title”.
+<b>1996</b>—Subsec. (a)(1)(B). Pub. L. 104–208, §308(g)(5)(A)(iii), inserted “(as in effect before October 1, 1996)” after “section 1252 of this title”.
 
 Subsec. (c)(5). Pub. L. 104–208, §623(a), amended heading and text of par. (5) generally, substituting subpars. (A) to (E) for former par. consisting of introductory and concluding provisions and subpars. (A) to (C), relating to confidentiality of information.
 
@@ -512,17 +512,17 @@ Subsec. (h)(1)(A)(i). Pub. L. 104–193, §110(s)(2)(A), substituted “State pr
 
 Subsec. (h)(2)(B). Pub. L. 104–193, §110(s)(2)(B), substituted “assistance under a State program funded under part A of title IV of the Social Security Act” for “aid to families with dependent children”.
 
-1994—Subsec. (b)(1)(D)(i)(I), (iii). Pub. L. 103–416, §108(b), substituted “1423(a)” for “1423”.
+<b>1994</b>—Subsec. (b)(1)(D)(i)(I), (iii). Pub. L. 103–416, §108(b), substituted “1423(a)” for “1423”.
 
 Subsec. (c)(7)(C). Pub. L. 103–416, §219(<i>l</i>)(1), realigned margins and substituted “subparagraph (B)” for “subsection (B)”.
 
 Subsec. (h)(4)(D). Pub. L. 103–382 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “Chapter 1 of the Education Consolidation and Improvement Act of 1981.”
 
-1991—Subsec. (c)(7)(C). Pub. L. 102–140, which directed the addition “after subsection (B)” of “a new subsection” (C), was executed by adding subpar. (C) after subpar. (B) to reflect the probable intent of Congress.
+<b>1991</b>—Subsec. (c)(7)(C). Pub. L. 102–140, which directed the addition “after subsection (B)” of “a new subsection” (C), was executed by adding subpar. (C) after subpar. (B) to reflect the probable intent of Congress.
 
 Subsec. (d)(2)(B)(ii). Pub. L. 102–232, substituted “Subclause (IV)” for “Subclause (II)” in last sentence, added subcl. (III), redesignated former subcl. (III) as (II) and former subcl. (II) as (IV), and struck out former subcl. (IV) which read as follows: “Paragraphs (3) (relating to security and related grounds), other than subparagraph (E) thereof.”
 
-1990—Subsec. (b)(1)(A). Pub. L. 101–649, §703(a)(1), substituted “2-year period” for “one-year period”.
+<b>1990</b>—Subsec. (b)(1)(A). Pub. L. 101–649, §703(a)(1), substituted “2-year period” for “one-year period”.
 
 Subsec. (b)(2)(C). Pub. L. 101–649, §703(a)(2), substituted “43rd” for “thirty-first”.
 
@@ -544,7 +544,7 @@ Subsec. (d)(2)(B)(ii)(V). Pub. L. 101–649, §603(a)(13)(F), struck out subcl. 
 
 Subsec. (d)(2)(B)(iii). Pub. L. 101–649, §603(a)(13)(H), substituted “1182(a)(4)” for “1182(a)(15)”.
 
-1988—Subsec. (a)(1)(B). Pub. L. 100–525, §2(h)(1)(A), substituted “12-month” for “18-month”.
+<b>1988</b>—Subsec. (a)(1)(B). Pub. L. 100–525, §2(h)(1)(A), substituted “12-month” for “18-month”.
 
 Subsec. (b)(1)(D)(ii). Pub. L. 100–525, §2(h)(1)(B), inserted references to developmentally disabled in heading and text.
 
@@ -702,7 +702,7 @@ Similar provisions were contained in Pub. L. 100–202, §101(a) \[title IX, §�
 
 #### Procedures for Property Acquisition or Leasing
 
-Pub. L. 99–603, title II, §201(c)(1), Nov. 6, 1986, 100 Stat. 3403, provided that notwithstanding Federal Property and Administrative Services Act of 1949 \[see chapters 1 to 11 of Title 40, Public Buildings, Property, and Works and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41, Public Contracts\], the Attorney General was authorized for period of up to two years after effective date of legalization program, to expend from appropriation provided for administration and enforcement of this chapter, such amounts necessary for leasing or acquisition of property in fulfillment of section 201 of Pub. L. 99–603, which enacted this section and amended sections 602, 672, and 673 of Title 42, The Public Health and Welfare.
+Pub. L. 99–603, title II, §201(c)(1), Nov. 6, 1986, 100 Stat. 3403, provided that notwithstanding Federal Property and Administrative Services Act of 1949 \[see chapters 1 to 11 of Title 40, Public Buildings, Property, and Works, and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41, Public Contracts\], the Attorney General was authorized for period of up to two years after effective date of legalization program, to expend from appropriation provided for administration and enforcement of this chapter, such amounts necessary for leasing or acquisition of property in fulfillment of section 201 of Pub. L. 99–603, which enacted this section and amended sections 602, 672, and 673 of Title 42, The Public Health and Welfare.
 
 #### Use of Retired Federal Employees
 

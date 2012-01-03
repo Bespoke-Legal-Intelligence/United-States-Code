@@ -16,11 +16,11 @@ In addition to the amounts authorized to be appropriated under subsection (b) of
 
 #### References in Text
 
-The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsec. (b), is Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, which is classified generally to chapter 61 (§4601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of Title 42 and Tables.
+The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsec. (b), is Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, which is classified principally to chapter 61 (§4601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of Title 42 and Tables.
 
 #### Amendments
 
-<b>2000</b>—Subsec. (c). Pub. L. 106–459, in first sentence, substituted “$175,000,000 for section 1592(a) of this title” for “$75,000,000 for subsection 1592(a) of this title” and “paragraph (6) of section 1592(a) of this title” for “paragraph 1592(a)(6) of this title” and, in second sentence, substituted “section 1592(a)(6) of this title” for “paragraph 1592(a)(6) of this title”.
+<b>2000</b>—Subsec. (c). Pub. L. 106–459, in first sentence, substituted “$175,000,000 for section 1592(a) of this title”for “$75,000,000 for subsection 1592(a) of this title” and “paragraph (6) of section 1592(a) of this title” for “paragraph 1592(a)(6) of this title” and, in second sentence, substituted “section 1592(a)(6) of this title” for “paragraph 1592(a)(6) of this title”.
 
 <b>1995</b>—Subsec. (c). Pub. L. 104–20 added subsec. (c).
 

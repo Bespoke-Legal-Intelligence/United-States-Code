@@ -8,7 +8,7 @@ In this section—
 
 &emsp;(2) the term “consolidation of contract requirements”, with respect to contract requirements of a Federal agency, means a use of a solicitation to obtain offers for a single contract or a multiple award contract to satisfy 2 or more requirements of the Federal agency for goods or services that have been provided to or performed for the Federal agency under 2 or more separate contracts lower in cost than the total cost of the contract for which the offers are solicited; and
 
-&emsp;(3) the term “senior procurement executive” means an official designated under section 1702(c) of title 41 as the senior procurement executive for a Federal agency.
+&emsp;(3) the term “senior procurement executive” means an official designated under section1702(c) of title 41 as the senior procurement executive for a Federal agency.
 
 #### (b) Policy
 
@@ -38,7 +38,7 @@ The head of each Federal agency shall ensure that the decisions made by the Fede
 
 #### (B) Savings in administrative or personnel costs
 
-&emsp;&emsp;For purposes of subparagraph (A), savings in administrative or personnel costs alone do not constitute a sufficient justification for a consolidation of contract requirements in a procurement unless the expected total amount of the cost savings, as determined by the senior procurement executive or Chief Acquisition Officer, is expected to besubstantial in relation to the total cost of the procurement.
+&emsp;&emsp;For purposes of subparagraph (A), savings in administrative or personnel costs alone do not constitute a sufficient justification for a consolidation of contract requirements in a procurement unless the expected total amount of the cost savings, as determined by the senior procurement executive or Chief Acquisition Officer, is expected to be substantial in relation to the total cost of the procurement.
 
 #### (3) Benefits to be considered
 

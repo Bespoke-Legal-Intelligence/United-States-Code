@@ -2,7 +2,7 @@
 
 #### (a) Rules or regulations
 
-The President is further authorized to take such other action, including prohibiting or restricting the importation or exportation of wheat or wheat-flour and to issue such rules or regulations which shall have the force and effect of law, as may be necessary in his judgment in the implementation of the International Wheat Agreement.
+The President is further authorized to take such other action, including prohibiting or restricting the importation or exportation of wheat or wheat-flour and to issue such rules or regulations which shall have the force and effect of law, as may be necessary in his judgment inthe implementation of the International Wheat Agreement.
 
 #### (b) Reports; keeping and examination of books and records
 
@@ -10,7 +10,7 @@ All persons exporting or importing wheat or wheat-flour or selling wheat or whea
 
 #### (c) Penalty for violation
 
-Any person failing to make any report or keep any record as required by or pursuant to this section, or making any false report or record orknowingly violating any rule or regulation of the President issued pursuant to this section shall be deemed guilty of a misdemeanor and upon conviction thereof shall be subject to a fine of not more than $1,000 for each violation.
+Any person failing to make any report or keep any record as required by or pursuant to this section, or making any false report or record or knowingly violating any rule or regulation of the President issued pursuant to this section shall be deemed guilty of a misdemeanor and upon conviction thereof shall be subject to a fine of not more than $1,000 for each violation.
 
 #### (d) Forfeiture for excessive exports or imports
 
@@ -56,7 +56,7 @@ In subsec. (h), “chapter 51 and subchapter III of chapter 53 of title 5” was
 
 #### Amendments
 
-1949—Subsec. (h). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act \[of 1923\]”.
+<b>1949</b>—Subsec. (h). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act \[of 1923\]”.
 
 #### Repeals
 
@@ -65,4 +65,6 @@ Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (sub
 #### Executive Order No. 11108
 
 Ex. Ord. No. 11108, May 22, 1963, 28 F.R. 5185, which delegated to Secretary of Agriculture authority of President under this chapter, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

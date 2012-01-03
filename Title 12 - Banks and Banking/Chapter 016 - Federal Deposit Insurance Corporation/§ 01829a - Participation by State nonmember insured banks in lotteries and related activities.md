@@ -48,7 +48,7 @@ The Board of Directors shall prescribe such regulations as may be necessary to t
 
 #### Amendments
 
-1994—Subsec. (a)(3). Pub. L. 103–325 inserted “or” at end.
+<b>1994</b>—Subsec. (a)(3). Pub. L. 103–325 inserted “or” at end.
 
 #### Effective Date
 

@@ -112,7 +112,7 @@ Effect on personnel.—Personnel transferred under this section shall not be sep
 
 “(c)
 
-References.—With respect to any function or authority transferred under this Act and exercised on or after the effective date of that transfer, reference inany Federal law to the Comptroller General or to any officer or employee of the General Accounting Office \[now Government Accountability Office\] is deemed to refer to the Federal officer or agency to which the function or authority is transferred under this Act.
+References.—With respect to any function or authority transferred under this Act and exercised on or after the effective date of that transfer, reference in any Federal law to the Comptroller General or to any officer or employee of the General Accounting Office \[now Government Accountability Office\] is deemed to refer to the Federal officer or agency to which the function or authority is transferred under this Act.
 
 “(d)
 

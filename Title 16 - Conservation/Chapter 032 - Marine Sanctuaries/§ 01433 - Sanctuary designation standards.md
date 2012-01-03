@@ -2,7 +2,7 @@
 
 #### (a) Standards
 
-The Secretary may designate any discrete area of the marine environment as a nationalmarine sanctuary and promulgate regulations implementing the designation if the Secretary determines that—
+The Secretary may designate any discrete area of the marine environment as a national marine sanctuary and promulgate regulations implementing the designation if the Secretary determines that—
 
 &emsp;(1) the designation will fulfill the purposes and policies of this chapter;
 

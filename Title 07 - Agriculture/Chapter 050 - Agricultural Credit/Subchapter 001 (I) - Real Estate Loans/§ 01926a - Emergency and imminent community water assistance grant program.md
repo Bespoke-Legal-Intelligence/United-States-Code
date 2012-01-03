@@ -124,9 +124,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (i)(2). Pub. L. 110–246, §6008, substituted “2008 through 2012” for “2003 through 2007”.
+<b>2008</b>—Subsec. (i)(2). Pub. L. 110–246, §6008, substituted “2008 through 2012” for “2003 through 2007”.
 
-2002—Pub. L. 107–171, §6009(1), inserted “and imminent” before “community water assistance” in section catchline.
+<b>2002</b>—Pub. L. 107–171, §6009(1), inserted “and imminent” before “community water assistance” in section catchline.
 
 Subsec. (a)(1). Pub. L. 107–171, §6009(2)(A), inserted “, or when such a decline is imminent” before semicolon at end.
 
@@ -136,7 +136,7 @@ Subsec. (a)(2)(B). Pub. L. 107–171, §6009(2)(B)(ii), substituted “decline, 
 
 Subsec. (c)(2). Pub. L. 107–171, §6009(3), substituted “occurred, or will occur,” for “occurred”.
 
-Subsec. (d)(1). Pub. L. 107–171, §6009(4), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “Grants made under this section may be used for waterline extensions from existing systems, laying of new waterlines, repairs, significant maintenance, digging of new wells, equipment replacement, hook and tap fees, and any other appropriate purpose associated with developing sources of, or treating, storing, or distributing water, and to assist communities in complying with the requirements of the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.) or the Safe Drinking Water Act (42 U.S.C. 300f et seq.).”
+Subsec. (d)(1). Pub. L. 107–171, §6009(4), added par. (1) and struck out heading and text of former par. (1). Textread as follows: “Grants made under this section may be used for waterline extensions from existing systems, laying of new waterlines, repairs, significant maintenance, digging of new wells, equipment replacement, hook and tap fees, and any other appropriate purpose associated with developing sources of, or treating, storing, or distributing water, and to assist communities in complying with the requirements of the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.) or the Safe Drinking Water Act (42 U.S.C. 300f et seq.).”
 
 Subsec. (f)(2). Pub. L. 107–171, §6009(5), substituted “$150,000” for “$75,000”.
 
@@ -144,9 +144,9 @@ Subsec. (h)(1). Pub. L. 107–171, §6009(6)(A), substituted “decline, or immi
 
 Subsec. (h)(2). Pub. L. 107–171, §6009(6)(B), added par. (2) and struck out heading and text of former par. (2). Text read as follows: “The Secretary shall make every effort to review and act on applications within 60 days of the date that such applications are submitted.”
 
-Subsec. (i). Pub. L. 107–171, §6009(7), added subsec. (i) and struck out heading and text of former subsec. (i).Text read as follows: “There are authorized to be appropriated to carry out this section $35,000,000 for each of fiscal years 1996 through 2002.”
+Subsec. (i). Pub. L. 107–171, §6009(7), added subsec. (i) and struck out heading and text of former subsec. (i). Text read as follows: “There are authorized to be appropriated to carry out this section $35,000,000 for each of fiscal years 1996 through 2002.”
 
-1996—Subsec. (e)(1)(A). Pub. L. 104–127, §742(1)(A), substituted “10,000” for “15,000”.
+<b>1996</b>—Subsec. (e)(1)(A). Pub. L. 104–127, §742(1)(A), substituted “10,000” for “15,000”.
 
 Subsec. (e)(2). Pub. L. 104–127, §742(1)(B), substituted “3,000” for “5,000”.
 

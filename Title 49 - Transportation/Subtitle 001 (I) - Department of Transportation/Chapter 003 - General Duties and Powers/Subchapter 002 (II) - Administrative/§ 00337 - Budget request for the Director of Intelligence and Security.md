@@ -1,6 +1,6 @@
 ### §337. Budget request for the Director of Intelligence and Security
 
-The annual budget the Secretary of Transportation submits shall include a specific request for the Office of the Director of Intelligence and Security. In deciding on the budget request for the Office, the Secretary shall consider recommendations in the annual report submitted under section 44938(a) of this title.
+The annual budget the Secretary of Transportation submits shall include a specific request for the Office of the Director of Intelligence andSecurity. In deciding on the budget request for the Office, the Secretary shall consider recommendations in the annual report submitted under section 44938(a) of this title.
 
 (Pub. L. 103–272, §4(j)(10)(A), July 5, 1994, 108 Stat. 1367.)
 

@@ -158,7 +158,7 @@
 
 &emsp;&emsp;(B)(i) for which there is a prudential regulator, shall keep books and records of all activities related to the business as a swap dealer or major swap participant in such form and manner and for such period as may be prescribed by the Commission by rule or regulation; and
 
-&emsp;&emsp;(ii) for which there is no prudential regulator, shall keep books and records in suchform and manner and for such period as may be prescribed by the Commission by rule or regulation;
+&emsp;&emsp;(ii) for which there is no prudential regulator, shall keep books and records in such form and manner and for such period as maybe prescribed by the Commission by rule or regulation;
 
 &emsp;&emsp;(C) shall keep books and records described in subparagraph (B) open to inspection and examination by any representative of the Commission; and
 
@@ -478,7 +478,7 @@ The Employee Retirement Income Security Act of 1974, referred to in subsec. (h)(
 
 #### Amendments
 
-2010—Subsec. (<i>l</i>). Pub. L. 111–203, §724(c), added subsec. (<i>l</i>).
+<b>2010</b>—Subsec. (<i>l</i>). Pub. L. 111–203, §724(c), added subsec. (<i>l</i>).
 
 #### Effective Date
 

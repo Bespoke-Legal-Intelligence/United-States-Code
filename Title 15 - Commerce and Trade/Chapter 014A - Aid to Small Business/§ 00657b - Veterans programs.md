@@ -2,7 +2,7 @@
 
 #### (a) Office of Veterans Business Development
 
-There is established in the Administration an Office of Veterans Business Development, which shall be administered by the Associate Administrator for Veterans Business Development (in this section referred to as the “Associate Administrator”) appointed under section 633(b)(1) of this title.
+There is established in the Administration an Office of Veterans Business Development, whichshall be administered by the Associate Administrator for Veterans Business Development (in this section referred to as the “Associate Administrator”) appointed under section 633(b)(1) of this title.
 
 #### (b) Associate Administrator for Veterans Business Development
 
@@ -136,7 +136,7 @@ Pub. L. 106–50, title I, §101, Aug. 17, 1999, 113 Stat. 234, provided that: �
 
 &emsp;“(4) Medical advances and new medical technologies have made it possible for service-disabled veterans to play a much more active role in the formation and expansion of small business enterprises in the United States.
 
-&emsp;“(5) The United States must provide additional assistance and support to veterans to better equip themto form and expand small business enterprises, thereby enabling them to realize the American dream that they fought to protect.”
+&emsp;“(5) The United States must provide additional assistance and support to veterans to better equip them to form and expand small business enterprises, thereby enabling them to realize the American dream that they fought to protect.”
 
 #### Congressional Purpose
 
@@ -342,7 +342,7 @@ Pub. L. 106–50, title III, §302, Aug. 17, 1999, 113 Stat. 242, provided that:
 
 #### Annual Report of Administrator
 
-Pub. L. 106–50, title VI, §603, Aug. 17, 1999, 113 Stat. 248, provided that: “The Administrator of the Small Business Administration shall transmit annually to the Committees on Small Business and Veterans Affairs of the House of Representatives and the Senate \[Committee on Small Business of Senate now Committee on Small Business and Entrepreneurship of Senate\] a report on the needs of small business concerns owned and controlled by veterans and small business concerns owned and controlled by service-disabled veterans, which shall include information on—
+Pub. L. 106–50, title VI, §603, Aug. 17, 1999, 113 Stat. 248, provided that: “The Administrator of the Small Business Administration shall transmit annually to the Committees on Small Business and Veterans Affairs of the House of Representatives and the Senate \[Committee on Small Business of Senate now Committee onSmall Business and Entrepreneurship of Senate\] a report on the needs of small business concerns owned and controlled by veterans and small business concerns owned and controlled by service-disabled veterans, which shall include information on—
 
 &emsp;“(1) the availability of Small Business Administration programs for such small business concerns and the degree of utilization of such programs by such small business concerns during the preceding 12-month period, including statistical information on such utilization as compared to the small business community as a whole;
 
@@ -437,6 +437,10 @@ Sec. 4. <i>General Provisions</i>. (a) The Small Business Administration shall p
 (d) This order is not intended to and does not create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Extension of Term of Interagency Task Force on Veterans Small Business Development
+
+Term of the Interagency Task Force on Veterans Small Business Development extended until Sept. 30, 2013, by Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 #### Definitions
 

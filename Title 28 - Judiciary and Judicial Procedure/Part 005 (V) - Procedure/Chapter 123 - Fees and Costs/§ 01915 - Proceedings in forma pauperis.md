@@ -18,7 +18,7 @@
 
 (4) In no event shall a prisoner be prohibited from bringing a civil action or appealing a civil or criminal judgment for the reason that the prisoner has no assets and no means by which to pay the initial partial filing fee.
 
-(c) Upon the filing of an affidavit in accordance with subsections (a) and (b) and the prepayment of any partial filing fee as may be required under subsection (b), the court may direct payment by the United States of the expenses of (1) printing the record on appeal in any civil or criminal case, if such printing is required by theappellate court; (2) preparing a transcript of proceedings before a United States magistrate judge in any civil or criminal case, if such transcript is required by the district court, in the case of proceedings conducted under section 636(b) of this title or under section 3401(b) of title 18, United States Code; and (3) printing the record on appeal if such printing is required by the appellate court, in the case of proceedings conducted pursuant to section 636(c) of this title. Such expenses shall be paid when authorized by the Director of the Administrative Office of the United States Courts.
+(c) Upon the filing of an affidavit in accordance with subsections (a) and (b) and the prepayment of any partial filing fee as may be required under subsection (b), the court may direct payment by the United States of the expenses of (1) printing the record on appeal in any civil or criminal case, if such printing is required by the appellate court; (2) preparing a transcript of proceedings before a United States magistrate judge in any civil or criminal case, if such transcript is required by the district court, in the case of proceedings conducted under section 636(b) of this title or under section 3401(b) of title 18, United States Code; and (3) printing the record on appeal if such printing is required by the appellate court, in the case of proceedings conducted pursuant to section 636(c) of this title. Such expenses shall be paid when authorized by the Director of the Administrative Office of the United States Courts.
 
 (d) The officers of the court shall issue and serve all process, and perform all duties in such cases. Witnesses shall attend as in other cases, and the same remedies shall be available as are provided for by law in other cases.
 
@@ -86,7 +86,7 @@ Subsec. (c). Pub. L. 104–134, §101\[(a)\] \[title VIII, §804(a)(2), (4)\], r
 
 Subsec. (d). Pub. L. 104–134, §101\[(a)\] \[title VIII, §804(a)(2)\], redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 104–134, §101\[(a)\] \[title VIII, §804(a)(5)\], amended subsec. (e) generally. Prior toamendment, subsec. (e) read as follows: “The court may request an attorney to represent any such person unable to employ counsel and may dismiss the case if the allegation of poverty is untrue, or if satisfied that the action is frivolous or malicious.”
+Subsec. (e). Pub. L. 104–134, §101\[(a)\] \[title VIII, §804(a)(5)\], amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The court may request an attorney to represent any such person unable to employ counsel and may dismiss the case if the allegation of poverty is untrue, or if satisfied that the action is frivolous or malicious.”
 
 Pub. L. 104–134, §101\[(a)\] \[title VIII, §804(a)(2)\], redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 

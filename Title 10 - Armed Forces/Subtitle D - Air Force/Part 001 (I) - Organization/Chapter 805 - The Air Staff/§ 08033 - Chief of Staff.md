@@ -100,7 +100,7 @@ A prior section 8033 was renumbered section 10305 of this title.
 
 <b>1986</b>—Pub. L. 99–433 renumbered section 8034 of this title as this section, substituted “Chief of Staff” for “Chief of Staff: appointment; duties” in section catchline, and amended text generally. Prior to amendment, text read as follows:
 
-“(a) The Chief of Staff shall be appointed for a period of four years by the President, by and with the advice and consent of the Senate, from the general officers of the Air Force. He serves during the pleasure of the President. In time of war or national emergency declared by the Congress after December 31, 1968, he may be reappointed for a term of not more than four years.
+“(a) The Chief of Staff shall be appointed for a period of four years by the President, by and with the advice and consent of the Senate, from the general officers ofthe Air Force. He serves during the pleasure of the President. In time of war or national emergency declared by the Congress after December 31, 1968, he may be reappointed for a term of not more than four years.
 
 “(b) The Chief of Staff, while so serving, has the grade of general without vacating his regular or reserve grade.
 

@@ -10,7 +10,7 @@
 
 (2) The Secretary shall allocate 10 percent of the amounts made available under section 6371f(b) <sup>1</sup> of this title in any year for purposes of making grants as provided under section 6371e(b)(2) of this title in excess of the 50 percent limitation contained in section 6371e(b)(1) of this title.
 
-(3) In the case of any State which received for any fiscal year an amount which exceeded 50 percent of the cost of any energy audit as provided in section 6371b(e)(2) of this title, the aggregate amount allocated to such State under this subsection for such fiscal year (determined after applying paragraphs (1) and (2)) shall be reduced by an amount equal to such excess. The amount of such reduction shall be reallocated to the States for such fiscal year as provided in this subsection except that for purposes of such reallocation, the State which received such excess shall not be eligible for any portion of such reallocation.
+(3) In the case of any State which received for any fiscal year an amount which exceeded 50percent of the cost of any energy audit as provided in section 6371b(e)(2) of this title, the aggregate amount allocated to such State under this subsection for such fiscal year (determined after applying paragraphs (1) and (2)) shall be reduced by an amount equal to such excess. The amount of such reduction shall be reallocated to the States for such fiscal year as provided in this subsection except that for purposes of such reallocation, the State which received such excess shall not be eligible for any portion of such reallocation.
 
 #### (b) Restrictions on allocations to States
 
@@ -18,7 +18,7 @@ The total amount allocated to any State under subsection (a) of this section in 
 
 #### (c) Prescription of rules governing allocations among States with regard to energy audits
 
-Not later than 60 days after November 9, 1978, the Secretary shall prescribe rules governing the allocation among the States of funds for grants for preliminary energy audits and energyaudits. Such rules shall take into account the population and climate of such States and such other factors as he may deem appropriate.
+Not later than 60 days after November 9, 1978, the Secretary shall prescribe rules governing the allocation among the States of funds for grants for preliminary energy audits and energy audits. Such rules shall take into account the population and climate of such States and such other factors as he may deem appropriate.
 
 #### (d) Prescription of rules limiting allocations to States for administrative expenses
 

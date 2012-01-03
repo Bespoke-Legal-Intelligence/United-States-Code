@@ -56,7 +56,7 @@ During the time in which a moratorium under this section is in effect, it is unl
 
 &emsp;(8) ship, transport, offer for sale, sell, purchase, import, or have custody, control, or possession of, any fish taken or retained in violation of this chapter; or
 
-&emsp;(9) interfere with, delay, or prevent, by any means, the apprehension or arrest of anotherperson, knowing that such other person has committed any act prohibited by this section.
+&emsp;(9) interfere with, delay, or prevent, by any means, the apprehension or arrest of another person, knowing that such other person has committed any act prohibited by this section.
 
 #### (f) Civil and criminal penalties
 
@@ -86,5 +86,5 @@ The Magnuson-Stevens Fishery Conservation and Management Act, referred to in sub
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

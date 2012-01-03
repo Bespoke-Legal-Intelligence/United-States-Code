@@ -22,7 +22,7 @@ If—
 
 #### (2) Limitation
 
-&emsp;The amount of gain determined under paragraph (1) resulting from a reacquisition during any taxable year beginning after the date of the enactment of this section shall not exceed the amount by which the price at which the real property was sold exceeded its adjusted basis, reduced by the sum of—
+&emsp;The amount of gain determined under paragraph (1) resulting from a reacquisition duringany taxable year beginning after the date of the enactment of this section shall not exceed the amount by which the price at which the real property was sold exceeded its adjusted basis, reduced by the sum of—
 
 &emsp;&emsp;(A) the amount of the gain on the sale of such property returned as income for periods prior to the reacquisition of such property, and
 
@@ -36,7 +36,7 @@ If—
 
 #### (c) Basis of reacquired real property
 
-If subsection (a) applies to the reacquisition of any real property, the basis of such property upon such reacquisition shall be the adjustedbasis of the indebtedness to the seller secured by such property (determined as of the date of reacquisition), increased by the sum of—
+If subsection (a) applies to the reacquisition of any real property, the basis of such property upon such reacquisition shall be the adjusted basis of the indebtedness to the seller secured by such property (determined as of the date of reacquisition), increased by the sum of—
 
 &emsp;(1) the amount of the gain determined under subsection (b) resulting from such reacquisition, and
 

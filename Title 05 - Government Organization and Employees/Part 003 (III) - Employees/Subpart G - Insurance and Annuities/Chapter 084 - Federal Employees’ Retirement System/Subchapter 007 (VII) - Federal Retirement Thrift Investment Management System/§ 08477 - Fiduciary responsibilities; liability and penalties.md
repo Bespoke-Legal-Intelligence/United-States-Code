@@ -226,11 +226,11 @@ Section 114 of the Federal Employees’ Retirement System Technical Corrections 
 
 #### Amendments
 
-2009—Subsec. (e)(1)(C). Pub. L. 111–31 designated existing provisions as cl. (i) and added cl. (ii).
+<b>2009</b>—Subsec. (e)(1)(C). Pub. L. 111–31 designated existing provisions as cl. (i) and added cl. (ii).
 
-1990—Pub. L. 101–335 repealed section 133(c) of Pub. L. 100–238. See Effective Date of 1988 Amendment note below.
+<b>1990</b>—Pub. L. 101–335 repealed section 133(c) of Pub. L. 100–238. See Effective Date of 1988 Amendment note below.
 
-1988—Subsec. (e)(1)(A). Pub. L. 100–238, §133(a)(1), inserted “, except as provided in paragraphs (3) and (4) of this subsection”.
+<b>1988</b>—Subsec. (e)(1)(A). Pub. L. 100–238, §133(a)(1), inserted “, except as provided in paragraphs (3) and (4) of this subsection”.
 
 Subsec. (e)(1)(B). Pub. L. 100–238, §133(a)(2), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
@@ -268,7 +268,7 @@ Subsec. (e)(4) to (8). Pub. L. 100–238, §133(a)(4), (5), added pars. (4) to (
 
 Subsec. (e)(5). Pub. L. 100–366, §3(a)(2), substituted “paragraph (3)” for “paragraphs (3) and (4)”.
 
-1986—Subsec. (c)(3)(E). Pub. L. 99–556, §112, added subpar. (E).
+<b>1986</b>—Subsec. (c)(3)(E). Pub. L. 99–556, §112, added subpar. (E).
 
 Subsec. (e)(1)(B). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 

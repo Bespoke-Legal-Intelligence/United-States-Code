@@ -22,7 +22,7 @@
 
 &emsp;(2) in the case of an office other than the office of the head of an Executive agency (including the Executive Office of the President, and other than the Government Accountability Office), only the head of such Executive agency may perform any function or duty of such office.
 
-(c) If the last day of any 210-day period under section 3346 is a day on which the Senate is notin session, the second day the Senate is next in session and receiving nominations shall be deemed to be the last day of such period.
+(c) If the last day of any 210-day period under section 3346 is a day on which the Senate is not in session, the second day the Senate is next in session and receiving nominations shall be deemed to be the last day of such period.
 
 (d)(1) An action taken by any person who is not acting under section 3345, 3346, or 3347, or as provided by subsection (b), in the performance of any function or duty of a vacant office to which this section and sections 3346, 3347, 3349, 3349a, 3349b, and 3349c apply shall have no force or effect.
 
@@ -48,7 +48,7 @@ A prior section 3348, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 426; Pub. L. 100
 
 #### Amendments
 
-2004—Subsec. (b). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in two places.
+<b>2004</b>—Subsec. (b). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in two places.
 
 Subsec. (e)(5). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 

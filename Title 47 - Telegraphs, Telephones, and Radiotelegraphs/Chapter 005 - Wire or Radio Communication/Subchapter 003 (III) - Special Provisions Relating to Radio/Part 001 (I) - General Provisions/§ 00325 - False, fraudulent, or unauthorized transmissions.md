@@ -104,7 +104,7 @@ Such application shall contain such information as the Commission may by regulat
 
 #### (A) Exclusive defenses
 
-&emsp;&emsp;The defenses under this paragraph are the exclusive defenses available to a satellitecarrier against which a complaint under this subsection is filed.
+&emsp;&emsp;The defenses under this paragraph are the exclusive defenses available to a satellite carrier against which a complaint under this subsection is filed.
 
 #### (B) Defenses
 
@@ -172,7 +172,7 @@ Such application shall contain such information as the Commission may by regulat
 
 #### (10) Civil action for statutory damages
 
-&emsp;Within 6 months after issuance of an order by the Commission under this subsection, a television broadcast station may file a civil action in any United States district court that has personal jurisdiction over the satellite carrier for an award of statutory damages for any violation that the Commission has determined to have been committed by a satellite carrier under this subsection. Such action shall not be subject to transfer under section 1404(a) of title 28. On finding that the satellite carrier has committed one or more violations of subsection (b) of this section, the District Court shall be required to award the television broadcast station statutory damages of $25,000 per violation, in accordance with paragraph (5), and the costs and attorney's fees incurred by the station. Such statutory damages shall be awarded only if the television broadcast station has filed a binding stipulation with the court that such station will donate the full amount in excess of $1,000 of any statutory damage award to the United States Treasury for public purposes. Notwithstanding any other provision of law, a station shall incur no tax liability of any kind with respect to any amounts so donated. Discovery may be conducted by the parties in any proceeding under this paragraph only if and to the extent necessary to resolve a genuinely disputed issue of fact concerning one of the defenses under paragraph (4). In any such action, the defenses under paragraph (4) shall be exclusive, and the burden of proof shall be on the satellite carrier with respect to all defenses other than the defense under paragraph (4)(B)(i). A judgment under this paragraph may be enforced in any manner permissible under Federal or State law.
+&emsp;Within 6 months after issuance of an order by the Commission under this subsection, a television broadcast station may file a civil action in any United States district court that has personal jurisdiction over the satellite carrier for an award of statutory damages for any violation that the Commission has determined to have been committed by a satellite carrier under this subsection. Such action shall not be subject to transfer under section1404(a) of title 28. On finding that the satellite carrier has committed one or more violations of subsection (b) of this section, the District Court shall be required to award the television broadcast station statutory damages of $25,000 per violation, in accordance with paragraph (5), and the costs and attorney's fees incurred by the station. Such statutory damages shall be awarded only if the television broadcast station has filed a binding stipulation with the court that such station will donate the full amount in excess of $1,000 of any statutory damage award to the United States Treasury for public purposes. Notwithstanding any other provision of law, a station shall incur no tax liability of any kind with respect to any amounts so donated. Discovery may be conducted by the parties in any proceeding under this paragraph only if and to the extent necessary to resolve a genuinely disputed issue of fact concerning one of the defenses under paragraph (4). In any such action, the defenses under paragraph (4) shall be exclusive, and the burden of proof shall be on the satellite carrier with respect to all defenses other than the defense under paragraph (4)(B)(i). A judgment under this paragraph may be enforced in any manner permissible under Federal or State law.
 
 #### (11) Appeals
 
@@ -214,7 +214,7 @@ Subsec. (b)(3)(C)(ii), (iii). Pub. L. 111–118, §1003(b)(2), substituted “Ma
 
 <b>2004</b>—Subsec. (b)(2)(C). Pub. L. 108–447, §201, substituted “December 31, 2009” for “December 31, 2004”.
 
-Subsec. (b)(3)(C). Pub. L. 108–447, §207(a)(1), (2), in introductory provisions, substituted “The” for “Within 45 days after November 29, 1999, the” and struck out second sentence which read “The Commission shallcomplete all actions necessary to prescribe such regulations within 1 year after November 29, 1999.”
+Subsec. (b)(3)(C). Pub. L. 108–447, §207(a)(1), (2), in introductory provisions, substituted “The” for “Within 45 days after November 29, 1999, the” and struck out second sentence which read “The Commission shall complete all actions necessary to prescribe such regulations within 1 year after November 29, 1999.”
 
 Subsec. (b)(3)(C)(ii). Pub. L. 108–447, §207(a)(4)(A), substituted “January 1, 2010” for “January 1, 2006”.
 

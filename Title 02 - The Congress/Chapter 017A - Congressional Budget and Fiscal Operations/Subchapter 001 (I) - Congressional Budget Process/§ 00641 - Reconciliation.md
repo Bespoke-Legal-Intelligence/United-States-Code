@@ -34,7 +34,7 @@ If a concurrent resolution containing directives to one or more committees to de
 
 #### (c) Compliance with reconciliation directions
 
-(1) Any committee of the House of Representatives or the Senate that is directed, pursuant toa concurrent resolution on the budget, to determine and recommend changes of the type described in paragraphs (1) and (2) of subsection (a) of this section with respect to laws within its jurisdiction, shall be deemed to have complied with such directions—
+(1) Any committee of the House of Representatives or the Senate that is directed, pursuant to a concurrent resolution on the budget, to determine and recommend changes of the type described in paragraphs (1) and (2) of subsection (a) of this section with respect to laws within its jurisdiction, shall be deemed to have complied with such directions—
 
 &emsp;(A) if—
 
@@ -64,7 +64,7 @@ If a concurrent resolution containing directives to one or more committees to de
 
 (1) It shall not be in order in the House of Representatives to consider any amendment to a reconciliation bill or reconciliation resolution if such amendment would have the effect of increasing any specific budget outlays above the level of such outlays provided in the bill or resolution (for the fiscal years covered by the reconciliation instructions set forth in the most recently agreed to concurrent resolution on the budget), or would have the effect of reducing any specific Federal revenues below the level of such revenues provided in the bill or resolution (for such fiscal years), unless such amendment makes at least an equivalent reduction in other specific budget outlays, an equivalent increase in other specific Federal revenues, or an equivalent combination thereof (for such fiscal years), except that a motion to strike a provision providing new budget authority or new entitlement authority may be in order.
 
-(2) It shall not be in order in the Senate to consider any amendment to a reconciliation bill or reconciliation resolution if such amendment would have the effect of decreasing any specific budget outlay reductions below the level of such outlay reductions provided (for the fiscal years covered) in the reconciliation instructions which relate to such bill or resolution set forth in a resolution providing for reconciliation, or would have the effect of reducing Federal revenue increases below the level of such revenue increases provided (for such fiscal years) in such instructions relating to such bill or resolution, unless such amendment makes a reduction in other specific budget outlays, an increase in other specific Federal revenues, or a combination thereof (for such fiscal years) at least equivalent to any increase in outlays or decrease in revenues provided by such amendment, except that a motion to strike a provision shall always be in order.
+(2) It shall not be in order in the Senate to consider any amendment to a reconciliation bill or reconciliation resolution if such amendment would have the effect of decreasing any specific budget outlay reductions below the level of such outlay reductions provided (for the fiscal years covered) in the reconciliation instructions which relate to such bill or resolution set forth in a resolution providing for reconciliation, or would have the effect of reducing Federal revenue increases below the level of such revenue increases provided (for such fiscal years) in such instructions relating to such bill or resolution, unless such amendment makes a reduction in other specific budget outlays, an increase inother specific Federal revenues, or a combination thereof (for such fiscal years) at least equivalent to any increase in outlays or decrease in revenues provided by such amendment, except that a motion to strike a provision shall always be in order.
 
 (3) Paragraphs (1) and (2) shall not apply if a declaration of war by the Congress is in effect.
 
@@ -98,11 +98,11 @@ Section was formerly classified to section 1331 of Title 31 prior to the general
 
 #### Amendments
 
-1997—Subsec. (c)(1)(A)(i). Pub. L. 105–33, §10111(1), substituted subcls. (I) and (II) for “20 percent of the total of the amounts of the changes such committee was directed to make under paragraphs (1) and (2) of such subsection, and”.
+<b>1997</b>—Subsec. (c)(1)(A)(i). Pub. L. 105–33, §10111(1), substituted subcls. (I) and (II) for “20 percent of the total of the amounts of the changes such committee was directed to make under paragraphs (1) and (2) of such subsection, and”.
 
 Subsec. (c)(1)(A)(ii). Pub. L. 105–33, §10111(2), substituted subcls. (I) and (II) for “20 percent of the total of the amounts of the changes such committee was directed to make under paragraphs (1) and (2) of such subsection; and”.
 
-1990—Subsec. (a)(4). Pub. L. 101–508, §13207(d), inserted before period at end “(including a direction to achieve deficit reduction)”.
+<b>1990</b>—Subsec. (a)(4). Pub. L. 101–508, §13207(d), inserted before period at end “(including a direction to achieve deficit reduction)”.
 
 Subsec. (c). Pub. L. 101–508, §13207(c), designated existing provisions as par. (1), redesignated former par. (1) and subpars. (A) and (B) thereof as subpar. (A) and cls. (i) and (ii), respectively, redesignated former par. (2) as subpar. (B) of par. (1), and added par. (2).
 
@@ -110,7 +110,7 @@ Subsec. (f). Pub. L. 101–508, §13210(2), struck out par. (1) heading “In ge
 
 Subsec. (g). Pub. L. 101–508, §13112(a)(9), substituted “joint resolution pursuant” for “resolution pursuant” and “section 907d of this title” for “section 904(b) of this title”.
 
-1985—Pub. L. 99–177 substituted “Reconciliation” for “Second required concurrent resolution and reconciliation process” in section catchline.
+<b>1985</b>—Pub. L. 99–177 substituted “Reconciliation” for “Second required concurrent resolution and reconciliation process” in section catchline.
 
 Subsec. (a). Pub. L. 99–177 amended subsec. (a) generally, inserting provisions relating to new entitlement authority and credit authority, and deleting provision that any such concurrent resolution could be reported, and the report accompanying it could be filed, in either House notwithstanding that that House was not in session on the day on which such concurrent resolution is reported.
 
@@ -128,7 +128,7 @@ Subsec. (g). Pub. L. 99–177, in amending section generally, added subsec. (g).
 
 #### Effective Date of 1985 Amendment
 
-Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, except that such amendment, insofar as it relates to subsecs. (c), (d), and (g) of this section, to become effective Apr. 15, 1986, see section 275(a)(1), (2)(A) of Pub. L. 99–177, set out as an Effective and Termination Dates note under section 900 of this title.
+Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, except that such amendment, insofar as it relates to subsecs. (c), (d), and (g) of this section, to become effective Apr. 15, 1986, see section 275(a)(1), (2)(A) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of this title prior to repeal by Pub. L. 112–25, title I, §104(a), Aug. 2, 2011, 125 Stat. 246.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “than—”.</i>
 

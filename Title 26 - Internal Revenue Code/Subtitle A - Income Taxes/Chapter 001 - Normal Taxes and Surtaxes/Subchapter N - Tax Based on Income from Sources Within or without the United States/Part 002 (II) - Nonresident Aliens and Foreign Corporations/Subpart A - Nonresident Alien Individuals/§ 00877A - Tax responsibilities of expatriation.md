@@ -50,7 +50,7 @@ For purposes of this subtitle—
 
 #### (3) Termination of extension
 
-&emsp;The due date for payment of tax may not be extended under this subsection later than the due date for the return of tax imposed by this chapter for the taxable year which includes the date of death of the expatriate (or, if earlier, the time that the security provided with respect to the property fails to meet the requirements of paragraph (4), unless the taxpayer corrects such failure within the time specified by the Secretary).
+&emsp;The due date for payment of tax may not be extended under this subsection later than thedue date for the return of tax imposed by this chapter for the taxable year which includes the date of death of the expatriate (or, if earlier, the time that the security provided with respect to the property fails to meet the requirements of paragraph (4), unless the taxpayer corrects such failure within the time specified by the Secretary).
 
 #### (4) Security
 
@@ -94,7 +94,7 @@ Subsection (a) shall not apply to—
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any eligible deferred compensation item, the payor shall deduct andwithhold from any taxable payment to a covered expatriate with respect to such item a tax equal to 30 percent thereof.
+&emsp;&emsp;In the case of any eligible deferred compensation item, the payor shall deduct and withhold from any taxable payment to a covered expatriate with respect to such item a tax equal to 30 percent thereof.
 
 #### (B) Taxable payment
 
@@ -182,7 +182,7 @@ Subsection (a) shall not apply to—
 
 &emsp;&emsp;(A) the trustee shall deduct and withhold from such distribution an amount equal to 30 percent of the taxable portion of the distribution, and
 
-&emsp;&emsp;(B) if the fair market value of such property exceeds its adjusted basis in the hands of the trust, gain shall be recognized to thetrust as if such property were sold to the expatriate at its fair market value.
+&emsp;&emsp;(B) if the fair market value of such property exceeds its adjusted basis in the hands of the trust, gain shall be recognized to the trust as if such property were sold to the expatriate at its fair market value.
 
 #### (2) Taxable portion
 
@@ -224,7 +224,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) has been a resident of the United States (as defined in section 7701(b)(1)(A)(ii)) for not more than 10 taxable years during the 15-taxable year period ending with the taxable year during which the expatriation date occurs, or
 
-&emsp;&emsp;&emsp;(ii)(I) the individual's relinquishment of United States citizenship occurs before such individual attains age 181/2, and
+&emsp;&emsp;&emsp;(ii)(I) the individual's relinquishment of United States citizenship occurs before such individual attains age 18½, and
 
 &emsp;&emsp;&emsp;(II) the individual has been a resident of the United States (as so defined) for not more than 10 taxable years before the date of relinquishment.
 

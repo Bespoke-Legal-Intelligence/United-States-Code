@@ -90,7 +90,7 @@ The eligible agency shall provide at such time and in such manner as the Commiss
 
 #### Prior Provisions
 
-A prior section 796f–4, Pub. L. 93–112, title VII, §725, as added Pub. L. 102–569, title VII, §701(2), Oct. 29, 1992, 106 Stat. 4462; amended Pub. L. 103–73, title I, §114(<i>l</i>), Aug. 11, 1993, 107 Stat. 731, related to standards and assurances for centers for independent living, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 796f–4, Pub. L. 93–112, title VII, §725, as added Pub. L. 102–569, title VII, §701(2), Oct. 29, 1992, 106 Stat. 4462; amended Pub. L. 103–73, title I, §114(<i>l</i>),Aug. 11, 1993, 107 Stat. 731, related to standards and assurances for centers for independent living, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
 #### Amendments
 

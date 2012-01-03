@@ -1,7 +1,5 @@
 ### SUBCHAPTER XVII—DISPOSITION OF UNCLAIMED PROPERTY RECOVERED FROM CLOSED NATIONAL BANKS
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
 
 ---
 

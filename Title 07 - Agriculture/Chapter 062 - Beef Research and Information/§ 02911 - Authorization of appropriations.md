@@ -6,7 +6,7 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 #### Amendments
 
-1985—Pub. L. 99–198 amended section generally, substituting provisions relating to authorization of appropriations for provisions relating to refund of assessment from Beef Board.
+<b>1985</b>—Pub. L. 99–198 amended section generally, substituting provisions relating to authorization of appropriations for provisions relating to refund of assessment from Beef Board.
 
 #### Effective Date of 1985 Amendment
 

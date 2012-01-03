@@ -13,7 +13,7 @@
 
 #### Amendments
 
-1951—Chapter added by act Oct. 31, 1951, ch. 655, §12, 65 Stat. 713.
+<b>1951</b>—Chapter added by act Oct. 31, 1951, ch. 655, §12, 65 Stat. 713.
 
 #### Similar Provisions; Repeal; Saving Clause; Delegation of Functions; Transfer of Property and Personnel
 

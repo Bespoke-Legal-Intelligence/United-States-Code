@@ -28,7 +28,7 @@ The Secretary may provide financial, technical, educational, and related assista
 
 &emsp;&emsp;(B) the conversion of wood to energy for domestic, industrial, municipal, and other uses;
 
-&emsp;&emsp;(C) the planning, management, and treatment of forest land, including site preparation, reforestation, thinning, prescribed burning, and other silvicultural activities designed to increase the quantity and improve the quality of timber and other forest resources;
+&emsp;&emsp;(C) the planning, management, and treatment of forest land, including site preparation, reforestation, thinning, prescribedburning, and other silvicultural activities designed to increase the quantity and improve the quality of timber and other forest resources;
 
 &emsp;&emsp;(D) ensuring that forest regeneration or reforestation occurs if needed to sustain long-term resource productivity;
 

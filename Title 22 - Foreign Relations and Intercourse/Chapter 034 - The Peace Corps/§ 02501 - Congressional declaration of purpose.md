@@ -24,6 +24,10 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 
 Section 28, formerly section 27, of Pub. L. 87–293, as renumbered by Pub. L. 99–83, title XI, §1105(a)(1), Aug. 8, 1985, 99 Stat. 276, provided that: “This Act \[see Short Title note below\] shall take effect on the date of its enactment \[Sept. 22, 1961\].”
 
+#### Short Title of 2011 Amendment
+
+Pub. L. 112–57, §1, Nov. 21, 2011, 125 Stat. 736, provided that: “This Act \[enacting sections 2507a to 2507i of this title, amending sections 2504, 2506, 2507, and 2509 of this title, and enacting provisions set out as notes under sections 2503 and 2507a of this title\] may be cited as the ‘Kate Puzey Peace Corps Volunteer Protection Act of 2011’.”
+
 #### Short Title of 1978 Amendment
 
 Section 1 of Pub. L. 95–331 provided: “That this Act \[amending this section and sections 2501a, 2502, 2504, 2509, and 2510 of this title and enacting provisions set out as notes under sections 2501a and 2509 of this title\] may be cited as the ‘Peace Corps Act Amendments of 1978’.”
@@ -50,7 +54,7 @@ Ex. Ord. No. 10924, Mar. 1, 1961, 26 F.R. 1789, relating to the establishment an
 
 #### Executive Order No. 11041
 
-Ex. Ord. No. 11041, Aug. 7, 1962, 27 F.R. 7859, as amended by Ex. Ord. No. 11250, Oct. 10, 1965, 30 F.R. 13003, which provided for the continuance and administration of the Peace Corps in the Department of State, was superseded by Ex. Ord. No. 11603, June 30, 1971, 36 F.R. 12675, formerly set out below.
+Ex. Ord. No. 11041, Aug. 7, 1962, 27 F.R. 7859, as amended by Ex. Ord. No. 11250, Oct. 10, 1965, 30 F.R. 13003,which provided for the continuance and administration of the Peace Corps in the Department of State, was superseded by Ex. Ord. No. 11603, June 30, 1971, 36 F.R. 12675, formerly set out below.
 
 #### Executive Order No. 11603
 
@@ -80,7 +84,7 @@ Peace Corps
 
 1–107. The reports required by Section 11 of the Act, as amended (\[former\] 22 U.S.C. 2510), shall be prepared by the Director and submitted to the Congress through the President.
 
-1–108. Subject to applicable provisions of law, all funds appropriated or otherwise made available to the President for carrying out the provisions of the Act\[this chapter\] shall be deemed to be allocated without any further action of the President to the Director or to such subordinate officer as the Director may designate. The Director or such officer may allocate or transfer, as appropriate, any of such funds to any United States Government agency or part thereof for obligation or expenditures thereby consistent with applicable law.
+1–108. Subject to applicable provisions of law, all funds appropriated or otherwise made available to the President for carrying out the provisions of the Act \[this chapter\] shall be deemed to be allocated without any further action of the President to the Director or to such subordinate officer as the Director may designate. The Director or such officer may allocate or transfer, as appropriate, any of such funds to any United States Government agency or part thereof for obligation or expenditures thereby consistent with applicable law.
 
 1–109. Nothing in this Order shall be deemed to impair or limit the powers or functions vested in the Secretary of State by the Act \[this chapter\].
 
@@ -126,7 +130,7 @@ Incidental Provisions
 
 National Voluntary Action Program
 
-1–501. The National Voluntary Action Program to encourage and stimulate more widespread and effective voluntary action for solving public domestic problems, established in the Executive Branch of the Government by Section 1 of Executive Order No. 11470 of May 26, 1969 \[formerly set out as a note under section 2701 of Title 42, the Public Health and Welfare\], is continued in ACTION. That program shall supplement corresponding action by private and other non-Federal organizations such as the National Center for Voluntary Action. As used in this Order, the term “voluntary action” means the contribution or application of non-governmental resources of all kinds (time, money, goods, services, and skills) by private and other organizations of all types (profit and nonprofit, national and local, occupational, and altruistic) and by individual citizens.
+1–501. The National Voluntary Action Program to encourage and stimulate more widespread and effectivevoluntary action for solving public domestic problems, established in the Executive Branch of the Government by Section 1 of Executive Order No. 11470 of May 26, 1969 \[formerly set out as a note under section 2701 of Title 42, the Public Health and Welfare\], is continued in ACTION. That program shall supplement corresponding action by private and other non-Federal organizations such as the National Center for Voluntary Action. As used in this Order, the term “voluntary action” means the contribution or application of non-governmental resources of all kinds (time, money, goods, services, and skills) by private and other organizations of all types (profit and nonprofit, national and local, occupational, and altruistic) and by individual citizens.
 
 #### 1–6.
 
@@ -156,7 +160,7 @@ General Provisions
 
 1–701. Except to the extent that they may be inconsistent with this Order, all determinations, authorizations, regulations, rulings, certifications, orders, directives, contracts, agreements, and other actions made, issued or entered into with respect to any function affected by this Order and not revoked, superseded, or otherwise made inapplicable before the effective date of this Order shall continue in full force and effect until amended, modified, or terminated by appropriate authority.
 
-1–702. Except as otherwise expressly provided herein, nothing in this Order shall be construed as subjecting any department, establishment, or other instrumentality of the Executive Branch of the Federal Governmentor the head thereof, or any function vested by law in or assigned pursuant to law to any such agency or head, to the authority of any other agency or head or as abrogating, modifying, or restricting any such function in any manner.
+1–702. Except as otherwise expressly provided herein, nothing in this Order shall be construed as subjecting any department, establishment, or other instrumentality of the Executive Branch of the Federal Government or the head thereof, or any function vested by law in or assigned pursuant to law to any such agency or head, to the authority of any other agency or head or as abrogating, modifying, or restricting any such function in any manner.
 
 1–703. So much of the personnel, property, records, and unexpended balances or appropriations, allocations, and other funds employed, used, held, available, or to be made available in connection with the functions assigned to the Director of the Peace Corps or to the Director of ACTION by this Order as the Director of the Office of Management and Budget shall determine, shall be transferred to the Director of the Peace Corps or the Director of ACTION at such time or times as the Director of the Office of Management and Budget shall direct.
 

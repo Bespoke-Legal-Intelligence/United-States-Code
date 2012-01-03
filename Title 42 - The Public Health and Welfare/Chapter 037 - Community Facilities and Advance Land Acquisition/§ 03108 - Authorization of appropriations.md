@@ -46,5 +46,5 @@ Section 2 of Pub. L. 91–431 provided that:
 
 #### Administrative Priority for Applications Relating to Activities in Areas Affected by Base Closings
 
-State or unit of local government or agency thereof affected by reduction in level of expenditure or employment at Department of Defense installation located in or near such State or unit of local government, priority in processing applications for assistance under this section, see section 1453a of this title.
+State or unit of local government or agency thereof affected by reduction in level of expenditure or employment at Department of Defense installation located in or near such State or unit of local government, priorityin processing applications for assistance under this section, see section 1453a of this title.
 

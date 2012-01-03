@@ -90,7 +90,7 @@ A prior section 742 of act June 25, 1938, was renumbered section 746 and is clas
 
 #### Termination Date
 
-Pub. L. 110–316, title II, §204(b), Aug. 14, 2008, 122 Stat. 3524, provided that: “The amendment made by section 203 \[enacting this section\] shall cease to be effective January 31, 2014.”
+Pub. L. 110–316, title II, §204(b), Aug. 14, 2008, 122 Stat. 3524, provided that: “The amendment made by section203 \[enacting this section\] shall cease to be effective January 31, 2014.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

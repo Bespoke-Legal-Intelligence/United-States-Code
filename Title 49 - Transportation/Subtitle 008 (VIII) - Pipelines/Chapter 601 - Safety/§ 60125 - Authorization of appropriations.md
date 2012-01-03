@@ -6,27 +6,11 @@ Gas and Hazardous Liquid.—
 
 &emsp;(1)
 
-In general.—To carry out the provisions of this chapter related to gas and hazardous liquid and section 12 of the Pipeline Safety Improvement Act of 2002 (49 U.S.C. 60101 note; Public Law 107–355), the following amounts are authorized to be appropriated to the Department of Transportation from fees collected under section 60301 in each respective year:
-
-&emsp;&emsp;(A) For fiscal year 2007, $60,175,000 of which $7,386,000 is for carrying out such section 12 and $17,556,000 is for making grants.
-
-&emsp;&emsp;(B) For fiscal year 2008, $67,118,000 of which $7,586,000 is for carrying out such section 12 and $20,614,000 is for making grants.
-
-&emsp;&emsp;(C) For fiscal year 2009, $72,045,000 of which $7,586,000 is for carrying out such section 12 and $21,513,000 is for making grants.
-
-&emsp;&emsp;(D) For fiscal year 2010, $76,580,000 of which $7,586,000 is for carrying out subsection <sup>1</sup> 12 and $22,252,000 is for making grants.
+In general.—To carry out the provisions of this chapter related to gas and hazardous liquid and section 12 of the Pipeline Safety Improvement Act of 2002 (49 U.S.C. 60101 note; Public Law 107–355), there is authorized to be appropriated to the Department of Transportation for each of fiscal years 2012 through 2015, from fees collected under section 60301, $90,679,000, of which $4,746,000 is for carrying out such section 12 and $36,194,000 is for making grants.
 
 &emsp;(2)
 
-Trust fund amounts.—In addition to the amounts authorized to be appropriated by paragraph (1) the following amounts are authorized from the Oil Spill Liability Trust Fund to carry out the provisions of this chapter related to hazardous liquid and section 12 of the Pipeline Safety Improvement Act of 2002 (49 U.S.C. 60101 note; Public Law 107–355):
-
-&emsp;&emsp;(A) For fiscal year 2007, $18,810,000 of which $4,207,000 is for carrying out such section 12 and $2,682,000 is for making grants.
-
-&emsp;&emsp;(B) For fiscal year 2008, $19,000,000 of which $4,207,000 is for carrying out such section 12 and $2,682,000 is for making grants.
-
-&emsp;&emsp;(C) For fiscal year 2009, $19,500,000 of which $4,207,000 is for carrying out such section 12 and $3,103,000 is for making grants.
-
-&emsp;&emsp;(D) For fiscal year 2010, $20,000,000 of which $4,207,000 is for carrying out such section 12 <sup>2</sup> $3,603,000 is for making grants.
+Trust fund amounts.—In addition to the amounts authorized to be appropriated by paragraph (1), there is authorized to be appropriated for each of fiscal years 2012 through 2015 from the Oil Spill Liability Trust Fund to carry out the provisions of this chapter related to hazardous liquid and section 12 of the Pipeline Safety Improvement Act of 2002 (49 U.S.C. 60101 note; Public Law 107–355), $18,573,000, of which $2,174,000 is for carrying out such section 12 and $4,558,000 is for making grants.
 
 (b)
 
@@ -38,13 +22,13 @@ In general.—The Secretary may establish a program for making grants to State, 
 
 &emsp;(2)
 
-Authorization of appropriations.—There is authorized to be appropriated $10,000,000 for each of fiscal years 2007 through 2010 to carry out this subsection.
+Authorization of appropriations.—There is authorized to be appropriated $10,000,000 for each of fiscal years 2012 through 2015 to carry out this subsection.
 
 (c)
 
 Crediting Appropriations for Expenditures for Training.—The Secretary may credit to an appropriation authorized under subsection (a) amounts received from sources other than the Government for reimbursement for expenses incurred by the Secretary in providing training.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1327; Pub. L. 104–304, §21, Oct. 12, 1996, 110 Stat. 3805; Pub. L. 107–355, §22, Dec. 17, 2002, 116 Stat. 3010; Pub. L. 109–468, §18(a)–(c), Dec. 29, 2006, 120 Stat. 3497, 3498.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1327; Pub. L. 104–304, §21, Oct. 12, 1996, 110 Stat. 3805; Pub. L. 107–355, §22, Dec. 17, 2002, 116 Stat. 3010; Pub. L. 109–468, §18(a)–(c), Dec. 29, 2006, 120 Stat. 3497, 3498; Pub. L. 112–90, §32(a), (b), Jan. 3, 2012, 125 Stat. 1922.)
 
 Historical and Revision Notes
 
@@ -104,7 +88,7 @@ In this section, references to fiscal years ending September 30, 1980, 1981, and
 
 In subsection (a), the words “(except sections 60107 and 60114(b))” are substituted for “(other than provisions for which funds are authorized to be appropriated under subsection . . . (c) of this section or section 1687 of this Appendix)” to eliminate unnecessary words. The reference to subsection (b) is omitted as obsolete.
 
-In subsection (b), the words “(except sections 60107” are substituted for “(other than provisions for which funds are authorized to be appropriated under . . . section 1684(c) of this Appendix)” to eliminate unnecessary words. The words “subsection (b) of this section or” areomitted as obsolete. The reference to section 60114(b) of the revised title is added for clarity.
+In subsection (b), the words “(except sections 60107” are substituted for “(other than provisions for which funds are authorized to be appropriated under . . . section 1684(c) of this Appendix)” to eliminate unnecessary words. The words “subsection (b) of this section or” are omitted as obsolete. The reference to section 60114(b) of the revised title is added for clarity.
 
 In subsection (c)(1) and (2), the words “the Federal grants-in-aid provisions of” are omitted as surplus.
 
@@ -115,6 +99,10 @@ In subsection (e), the text of 49 App.:1684(a) (last sentence) is omitted as exp
 In subsection (f)(5), the words “made available” are omitted as surplus.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a). Pub. L. 112–90, §32(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) authorized appropriations and trust fund amounts for gas and hazardous liquid transportation for fiscal years 2007 through 2010.
+
+Subsec. (b)(2). Pub. L. 112–90, §32(b), substituted “2012 through 2015” for “2007 through 2010”.
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–468, §18(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) authorized appropriations for gas and hazardous liquid transportation for fiscal years 2003 through 2006.
 
@@ -211,8 +199,4 @@ Gas.—Not more than the following amounts may be appropriated to the Secretary 
 &emsp;“(3) $7,500,000 for the fiscal year ending September 30, 1995.”
 
 Subsec. (c)(1). Pub. L. 104–304, §21(b), added subpars. (D) to (H).
-
-<i><sup>1</sup></i><i> So in original. Probably should be “such section”.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be followed by “and”.</i>
 

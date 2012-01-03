@@ -12,7 +12,7 @@ In the event of a participant's death, the amount of such participant's unused c
 
 > If there is no such person living, such amount shall be paid to such participant's estate.
 
-(Added Pub. L. 94–502, title IV, §404, Oct. 15, 1976, 90 Stat. 2395, §1624; amended Pub. L. 96–466, title IV, §402, Oct. 17, 1980, 94 Stat. 2201; renumbered §3224, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–275, title IV, §405(c)(2), Oct. 9, 1996, 110 Stat. 3340.)
+(Added Pub. L. 94–502, title IV, §404, Oct. 15, 1976, 90 Stat. 2395, §1624; amended Pub. L. 96–466, title IV, §402, Oct. 17, 1980, 94 Stat. 2201; renumbered §3224, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat.406; Pub. L. 104–275, title IV, §405(c)(2), Oct. 9, 1996, 110 Stat. 3340.)
 
 #### Amendments
 

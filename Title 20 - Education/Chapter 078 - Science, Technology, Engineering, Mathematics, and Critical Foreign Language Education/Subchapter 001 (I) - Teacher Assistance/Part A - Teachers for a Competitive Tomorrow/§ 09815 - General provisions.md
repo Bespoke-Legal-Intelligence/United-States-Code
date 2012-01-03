@@ -22,3 +22,7 @@ From amounts made available for any fiscal year under section 9816 of this title
 
 (Pub. L. 110–69, title VI, §6115, Aug. 9, 2007, 121 Stat. 634.)
 
+#### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+

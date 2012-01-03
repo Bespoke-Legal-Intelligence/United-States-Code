@@ -66,7 +66,7 @@ Implementation grants may be used for activities to carry out homeownership prog
 
 &emsp;&emsp;(B) a description of the qualifications and experience of the applicant in providing low-income housing;
 
-&emsp;&emsp;(C) a description of the proposed homeownership program, consistent with section 12894 of this title and the other requirements of this part specifying the activities proposed to be carried out and their estimated costs, identifying reasonable schedules for carrying it out, and demonstrating that theprogram will comply with the affordability requirements under section 12894(b) of this title;
+&emsp;&emsp;(C) a description of the proposed homeownership program, consistent with section 12894 of this title and the other requirements of this part specifying the activities proposed to be carried out and their estimated costs, identifying reasonable schedules for carrying it out, and demonstrating that the program will comply with the affordability requirements under section 12894(b) of this title;
 
 &emsp;&emsp;(D) an identification and description of the properties to be acquired under the homeownership program and a description of the composition of potential eligible families, including family size and income;
 
@@ -112,7 +112,7 @@ The Secretary shall notify each applicant, not later than 6 months after the dat
 
 The Fair Housing Act, referred to in subsec. (d)(2)(K), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, as amended, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
-The Civil Rights Act of 1964, referred to in subsec. (d)(2)(K), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (d)(2)(K), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, asamended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
 The Age Discrimination Act of 1975, referred to in subsec. (d)(2)(K), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, as amended, which is classified generally to chapter 76 (§6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
 

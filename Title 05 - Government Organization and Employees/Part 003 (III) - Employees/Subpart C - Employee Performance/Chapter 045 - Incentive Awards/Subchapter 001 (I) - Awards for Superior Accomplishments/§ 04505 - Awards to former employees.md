@@ -24,7 +24,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1981—Pub. L. 97–35 substituted “subchapter” for “chapter”.
+<b>1981</b>—Pub. L. 97–35 substituted “subchapter” for “chapter”.
 
 #### Effective Date of 1981 Amendment
 

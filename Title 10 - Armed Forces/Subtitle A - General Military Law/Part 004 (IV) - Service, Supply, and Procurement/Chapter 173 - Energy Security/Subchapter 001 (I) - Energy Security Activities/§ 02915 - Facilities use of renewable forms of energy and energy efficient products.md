@@ -28,25 +28,11 @@ Exception to Square Feet and Cost Per Square Foot Limitations.—In order to equ
 
 Use of Energy Efficient Products in Facilities.—(1) The Secretary of Defense shall ensure, to the maximum extent practicable, that energy efficient products meeting the requirements of the Department of Defense are used in construction, repair, or renovation of facilities by or for the Department carried out under chapter 169 of this title if such products are readily available and their use is consistent with the energy performance goals and energy performance master plan for the Department developed under section 2911 of this title and supported by the special considerations specified in subsection (c) of such section.
 
-(2) For purposes of this subsection, energy efficient products may include, at a minimum, the following technologies, consistent with the products specified in paragraph (3):
+(2)(A) The Secretary of Defense shall prescribe a definition of the term “energy-efficient product” for purposes of this subsection and establish and maintain a list of products satisfying the definition. The definition and list shall be developed in consultation with the Secretary of Energy to ensure, to the maximum extent practicable, consistency with definitions of the term used by other Federal agencies.
 
-&emsp;(A) Roof-top solar thermal, photovoltaic, and energy reducing coating technologies.
+(B) The Secretary shall modify the definition and list of energy-efficient products as necessary to account for emerging or changing technologies.
 
-&emsp;(B) Energy management control and supervisory control and data acquisition systems.
-
-&emsp;(C) Energy efficient heating, ventilation, and air conditioning systems.
-
-&emsp;(D) Thermal windows and insulation systems.
-
-&emsp;(E) Electric meters.
-
-&emsp;(F) Lighting, equipment, and appliances that are designed to use less electricity.
-
-&emsp;(G) Hybrid vehicle plug-in charging stations.
-
-&emsp;(H) Solar-power collecting structures to shade vehicle parking areas.
-
-&emsp;(I) Wall and roof insulation systems and air infiltration-mitigation systems, such as weatherproofing.
+(C) The list of energy-efficient products shall be included as part of the energy performance master plan developed pursuant to section 2911(b)(2) of this title.
 
 (3) In determining the energy efficiency of products, the Secretary shall consider products that—
 
@@ -54,7 +40,7 @@ Use of Energy Efficient Products in Facilities.—(1) The Secretary of Defense s
 
 &emsp;(B) are listed on the Federal Energy Management Program Product Energy Efficiency Recommendations product list of the Department of Energy.
 
-(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 166, §2857; amended Pub. L. 97–321, title VIII, §801(b)(1), (2), Oct. 15, 1982, 96 Stat. 1571; Pub. L. 98–525, title XIV, §1405(45)(A), Oct. 19, 1984, 98 Stat. 2625; Pub. L. 101–218, §8(b), Dec. 11, 1989, 103 Stat. 1868; Pub. L. 101–510, div. B, title XXVIII, §2852(b), Nov. 5, 1990, 104 Stat. 1804; Pub. L. 102–25, title VII, §701(g)(2), Apr. 6, 1991, 105 Stat. 115; renumbered §2915 and amended Pub. L. 109–364, div. B, title XXVIII, §§2851(b)(1), (3)(A), 2854, Oct. 17, 2006, 120 Stat. 2494, 2497; Pub. L. 111–383, div. B, title XXVIII, §2832(b), Jan. 7, 2011, 124 Stat. 4468.)
+(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 166, §2857; amended Pub. L. 97–321, title VIII, §801(b)(1), (2), Oct. 15, 1982, 96 Stat. 1571; Pub. L. 98–525, title XIV, §1405(45)(A), Oct. 19, 1984, 98 Stat. 2625; Pub. L. 101–218, §8(b), Dec. 11, 1989, 103 Stat. 1868; Pub. L. 101–510, div. B, title XXVIII, §2852(b), Nov. 5, 1990, 104 Stat. 1804; Pub. L. 102–25, title VII, §701(g)(2), Apr. 6, 1991, 105 Stat. 115; renumbered §2915 and amended Pub. L. 109–364, div. B, title XXVIII, §§2851(b)(1), (3)(A), 2854, Oct. 17, 2006, 120 Stat. 2494, 2497; Pub. L. 111–383, div. B, title XXVIII, §2832(b), Jan. 7, 2011, 124 Stat. 4468; Pub. L. 112–81, div. B, title XXVIII, §2825(a), Dec. 31, 2011, 125 Stat. 1693.)
 
 #### Amendments
 
@@ -68,7 +54,11 @@ Subsec. (e). Pub. L. 111–383, §2832(b)(3)(A), substituted “Use of Energy Ef
 
 Subsec. (e)(1). Pub. L. 111–383, §2832(b)(3)(B), substituted “construction, repair, or renovation of facilities” for “new facility construction” and “energy performance master plan” for “energy performance plan”.
 
-Subsec. (e)(2), (3). Pub. L. 111–383, §2832(b)(3)(C), (D), added par. (2) and redesignated former par. (2) as (3).
+Subsec. (e)(2). Pub. L. 112–81 added par. (2) and struck out former par. (2), which related to energy efficient products and provided examples of technologies, consistent with the products specified in paragraph (3).
+
+Pub. L. 111–383, §2832(b)(3)(D), added par. (2). Former par. (2) redesignated (3).
+
+Subsec. (e)(3). Pub. L. 111–383, §2832(b)(3)(C), redesignated par. (2) as (3).
 
 <b>2006</b>—Pub. L. 109–364, §2854(b)(1), substituted “New construction: use of renewable forms of energy and energy efficient products” for “Use of renewable forms of energy in new facilities” in section catchline.
 

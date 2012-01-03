@@ -16,7 +16,7 @@ Except as provided in subsection (b), section 4221 shall not apply with respect 
 
 #### (3) Certain purchases and sales by the United States
 
-&emsp;Subsection (a) shall apply to purchases and sales by the United States only to the extentprovided by regulations prescribed by the Secretary.
+&emsp;Subsection (a) shall apply to purchases and sales by the United States only to the extent provided by regulations prescribed by the Secretary.
 
 #### \[(4) Repealed. Pub. L. 89–44, title II, §208(e), June 21, 1965, 79 Stat. 141\]
 
@@ -130,7 +130,7 @@ Amendment by Pub. L. 95–600 effective on first day of first calendar month beg
 
 #### Effective Date of 1971 Amendment
 
-Amendment by Pub. L. 92–178 applicable with respect to articles sold on or after the day after Dec. 10, 1971, see section 401(h)(1) of Pub. L. 92–178, set out as a note under section 4071 of this title.
+Amendment by Pub. L. 92–178 applicable with respect to articles sold on or after the day after Dec. 10, 1971,see section 401(h)(1) of Pub. L. 92–178, set out as a note under section 4071 of this title.
 
 #### Effective Date of 1965 Amendment
 

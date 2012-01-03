@@ -152,7 +152,7 @@ No student shall be required, as part of any applicable program, to submit to a 
 
 #### (A) Instructional material
 
-&emsp;&emsp;The term “instructional material” means instructional content that is provided to astudent, regardless of its format, including printed or representational materials, audio-visual materials, and materials in electronic or digital formats (such as materials accessible through the Internet). The term does not include academic tests or academic assessments.
+&emsp;&emsp;The term “instructional material” means instructional content that is provided to a student, regardless of its format, including printed or representational materials, audio-visual materials, and materials in electronic or digital formats (such as materials accessible through the Internet). The term does not include academic tests or academic assessments.
 
 #### (B) Invasive physical examination
 
@@ -164,7 +164,7 @@ No student shall be required, as part of any applicable program, to submit to a 
 
 #### (D) Parent
 
-&emsp;&emsp;The term “parent” includes a legal guardian or other person standing in loco parentis (such as a grandparent or stepparent with whom the child lives, or a person who is legally responsible for the welfare of the child).
+&emsp;&emsp;The term “parent” includes a legal guardian or other person standing in loco parentis (such as a grandparent or stepparent withwhom the child lives, or a person who is legally responsible for the welfare of the child).
 
 #### (E) Personal information
 

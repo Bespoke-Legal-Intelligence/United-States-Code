@@ -22,13 +22,13 @@ The approximately 16,000 acres of land in the Arapaho/Roosevelt National Forest 
 
 #### (c) Map and boundary description
 
-As soon as practicable after August 21, 2002, the Secretary shall file with the Committee onResources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a map and a boundary description of the Protection Area. The map and boundary description shall have the same force and effect as if included in this Act, except that the Secretary may correct clerical and typographical errors in the map and boundary description. The map and boundary description shall be on file and available for public inspection in the office of the Chief of the Forest Service, Department of Agriculture, and in the office of the Forest Supervisor of the Arapaho/Roosevelt National Forest.
+As soon as practicable after August 21, 2002, the Secretary shall file with the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a map and a boundary description of the Protection Area. The map and boundary description shall have the same force and effect as if included in this Act, except that the Secretary may correct clerical and typographical errors in the map and boundary description. The map and boundary description shall be on file and available for public inspection in the office of the Chief of the Forest Service, Department of Agriculture, and in the office of the Forest Supervisor of the Arapaho/Roosevelt National Forest.
 
 #### (d) Management
 
 #### (1) In general
 
-&emsp;Except as otherwise provided in this section, the Protection Area shall be managed and administered by the Secretary in the same manner as the management area prescription designations identified for these lands in the 1997 Revision of the Land and Resource Management Plan for the Arapaho/Roosevelt National Forest and the Pawnee National Grasslands. Such management and administration shall be in accordance with the following:
+&emsp;Except as otherwise provided in this section, the Protection Area shall be managed and administered by the Secretary in the same manner as the management area prescription designations identified for these lands in the 1997 Revision of the Land and Resource Management Plan for the Arapaho/Roosevelt National Forest and the Pawnee National Grasslands.Such management and administration shall be in accordance with the following:
 
 #### (A) Grazing
 
@@ -84,7 +84,7 @@ As soon as practicable after August 21, 2002, the Secretary shall file with the 
 
 #### (2) Natural gas pipeline
 
-&emsp;The Secretary shall allow for maintenance of rights-of-ways and access roads located within the Protection Area to the extent necessary to operate the natural gas pipeline permitted under the Arapaho/Roosevelt National Forest master permit numbered 4138.01 in amanner that avoids negative impacts on public safety and allows for compliance with Federal pipeline safety requirements. Such maintenance may include vegetation management, road maintenance, ground stabilization, and motorized vehicle access.
+&emsp;The Secretary shall allow for maintenance of rights-of-ways and access roads located within the Protection Area to the extent necessary to operate the natural gas pipeline permitted under the Arapaho/Roosevelt National Forest master permit numbered 4138.01 in a manner that avoids negative impacts on public safety and allows for compliance with Federal pipeline safety requirements. Such maintenance may include vegetation management, road maintenance, ground stabilization, and motorized vehicle access.
 
 #### (3) Permanent Federal ownership
 

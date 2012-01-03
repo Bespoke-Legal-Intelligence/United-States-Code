@@ -4,7 +4,7 @@ Congress finds and declares that—
 
 &emsp;(a) there is an immediate need for a fair and just settlement of all claims by Natives and Native groups of Alaska, based on aboriginal land claims;
 
-&emsp;(b) the settlement should be accomplished rapidly, with certainty, in conformity withthe real economic and social needs of Natives, without litigation, with maximum participation by Natives in decisions affecting their rights and property, without establishing any permanent racially defined institutions, rights, privileges, or obligations, without creating a reservation system or lengthy wardship or trusteeship, and without adding to the categories of property and institutions enjoying special tax privileges or to the legislation establishing special relationships between the United States Government and the State of Alaska;
+&emsp;(b) the settlement should be accomplished rapidly, with certainty, in conformity with the real economic and social needs of Natives, without litigation, with maximum participation by Natives in decisions affecting their rights and property, without establishing any permanent racially defined institutions, rights, privileges, or obligations, without creating a reservation system or lengthy wardship or trusteeship, and without adding to the categories of property and institutions enjoying special tax privileges or to the legislation establishing special relationships between the United States Government and the State of Alaska;
 
 &emsp;(c) no provision of this chapter shall replace or diminish any right, privilege, or obligation of Natives as citizens of the United States or of Alaska, or relieve, replace, or diminish any obligation of the United States or of the State or Alaska to protect and promote the rights or welfare of Natives as citizens of the United States or of Alaska; the Secretary is authorized and directed, together with other appropriate agencies of the United States Government, to make a study of all Federal programs primarily designed to benefit Native people and to report back to the Congress with his recommendations for the future management and operation of these programs within three years of December 18, 1971;
 
@@ -38,7 +38,7 @@ Pub. L. 105–333, §14, Oct. 31, 1998, 112 Stat. 3136, provided that: “This A
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–415, §1, Oct. 14, 1992, 106 Stat. 2112, provided that: “This Act \[amending sections 1606, 1617, 1620, 1621, 1626, and 1634 of this title and section 3198 of Title 16, Conservation, and enacting provisions set out as notes under section 852 of this title and section 539 of Title 16\] may be cited as the ‘Alaska Land Status Technical Corrections Act of 1992’.”
+Pub. L. 102–415, §1, Oct. 14, 1992, 106 Stat. 2112, provided that: “This Act \[amending sections 1606, 1617,1620, 1621, 1626, and 1634 of this title and section 3198 of Title 16, Conservation, and enacting provisions set out as notes under section 852 of this title and section 539 of Title 16\] may be cited as the ‘Alaska Land Status Technical Corrections Act of 1992’.”
 
 #### Short Title of 1988 Amendment
 

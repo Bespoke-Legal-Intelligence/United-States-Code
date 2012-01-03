@@ -26,7 +26,7 @@ For the purpose of this Act—
 
 #### References in Text
 
-This Act, referred to in text, means Pub. L. 91–601 which enacted this chapter, section 136(z)(2)(i) of Title7, Agriculture, and sections 343(n), 352(p), and 362(f) of Title 21, Food and Drugs, amended section 1261(p) of this title and section 353(b)(2) of Title 21, and enacted provisions set out as a note under this section. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This Act, referred to in text, means Pub. L. 91–601 which enacted this chapter, section 136(z)(2)(i) of Title 7, Agriculture, and sections 343(n), 352(p), and 362(f) of Title 21, Food and Drugs, amended section 1261(p) of this title and section 353(b)(2) of Title 21, and enacted provisions set out as a note under this section. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 #### Amendments
 

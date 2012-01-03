@@ -136,7 +136,7 @@ Subsec. (g). Pub. L. 100–647, §1018(f)(5)(A), added subsec. (g).
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–432, div. A, title IV, §409(b), Dec. 20, 2006, 120 Stat. 2963, provided that: “The amendment made bythis section \[amending this section\] shall take effect as if included in section 201 of the Tax Increase Prevention and Reconciliation Act of 2005 \[Pub. L. 109–222\].”
+Pub. L. 109–432, div. A, title IV, §409(b), Dec. 20, 2006, 120 Stat. 2963, provided that: “The amendment made by this section \[amending this section\] shall take effect as if included in section 201 of the Tax Increase Prevention and Reconciliation Act of 2005 \[Pub. L. 109–222\].”
 
 Pub. L. 109–222, title II, §201(b), May 17, 2006, 120 Stat. 348, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to accounts and funds established after the date of the enactment of this Act \[May 17, 2006\].”
 
@@ -168,5 +168,5 @@ Section 1807(a)(7)(C) of Pub. L. 99–514, as amended by Pub. L. 100–647, titl
 
 #### Clarification of Law With Respect to Certain Funds
 
-Section 1807(a)(7)(D) of Pub. L. 99–514 provided that nothing in any provision of law be construed as providing that an escrow account, settlement fund, or similar fund established after Aug. 16, 1986, not be subject to current income tax and that if contributions to such account or fund are not deductible then the account or fund be taxed as a grantor trust, prior to repeal by Pub. L. 100–647, title I, §1018(f)(5)(B), Nov. 10, 1988, 102 Stat. 3582.
+Section 1807(a)(7)(D) of Pub. L. 99–514 provided that nothing in any provision of law be construed as providing that an escrow account, settlement fund, or similarfund established after Aug. 16, 1986, not be subject to current income tax and that if contributions to such account or fund are not deductible then the account or fund be taxed as a grantor trust, prior to repeal by Pub. L. 100–647, title I, §1018(f)(5)(B), Nov. 10, 1988, 102 Stat. 3582.
 

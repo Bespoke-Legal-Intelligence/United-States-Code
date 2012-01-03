@@ -12,7 +12,7 @@
 
 (2)(A) No person may, for a fee, reproduce, reprint, or distribute any item consisting of a form, application, or other publication of the Social Security Administration unless such person has obtained specific, written authorization for such activity in accordance with regulations which the Commissioner of Social Security shall prescribe.
 
-(B) No person may, for a fee, reproduce, reprint, or distribute any item consisting of a form, application, or other publication of the Department of Health and Human Services unless such person has obtained specific, written authorization for such activity in accordance with regulations which the Secretary shall prescribe.
+(B) No person may, for a fee, reproduce, reprint, or distribute any item consisting of aform, application, or other publication of the Department of Health and Human Services unless such person has obtained specific, written authorization for such activity in accordance with regulations which the Secretary shall prescribe.
 
 (3) Any determination of whether the use of one or more words, letters, symbols, or emblems (or any combination or variation thereof) in connection with an item described in paragraph (1) or the reproduction, reprinting, or distribution of an item described in paragraph (2) is a violation of this subsection shall be made without regard to any inclusion in such item (or any so reproduced, reprinted, or distributed copy thereof) of a disclaimer of affiliation with the United States Government or any particular agency or instrumentality thereof.
 
@@ -56,7 +56,7 @@ The preceding provisions of this section may be enforced through the Office of t
 
 Subsec. (a)(1). Pub. L. 108–203, §207(a)(3), which directed the substitution of “the Centers for Medicare \& Medicaid Services,” for “the Health Care Financing Administration,” wherever appearing in concluding provisions, could not be executed because “the Health Care Financing Administration,” did not appear subsequent to amendment by Pub. L. 108–173, §900(e)(1)(B)(i). See 2003 Amendment note below.
 
-Subsec. (a)(1)(A). Pub. L. 108–203, §207(a)(1), which directed the insertion of “ ‘Centers for Medicare \& Medicaid Services’,” after “ ‘Health Care Financing Administration’,” and “ ‘CMS’,” after “ ‘HCFA’,”, could not be executed because of the prior amendment by Pub. L. 108–173, §900(e)(1)(B)(ii). See 2003 Amendment note below.
+Subsec. (a)(1)(A). Pub. L. 108–203, §207(a)(1), which directed the insertion of “ ‘Centers for Medicare \& Medicaid Services’,” after “ ‘Health Care Financing Administration’,” and “ ‘CMS’,” after “ ‘HCFA’,”, could not beexecuted because of the prior amendment by Pub. L. 108–173, §900(e)(1)(B)(ii). See 2003 Amendment note below.
 
 Pub. L. 108–203, §207(a)(1), substituted “ ‘Medicaid’, ‘Death Benefits Update’, ‘Federal Benefit Information’, ‘Funeral Expenses’, or ‘Final Supplemental Plan’,” for “or ‘Medicaid’,”.
 
@@ -112,7 +112,7 @@ Pub. L. 108–203, title II, §207(b), Mar. 2, 2004, 118 Stat. 513, provided tha
 
 Amendment by section 108(b)(12) of Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of this title.
 
-Amendment by section 312(a)–(j) of Pub. L. 103–296 applicable with respect to violations occurring after Mar. 31, 1995, see section 312(m)(1) of Pub. L. 103–296, set out as an Effective Date note under section 333 of Title 31, Money and Finance.
+Amendment by section 312(a)–(j) of Pub. L. 103–296 applicable with respect to violations occurring after Mar. 31, 1995, see section 312(m)(1) of Pub. L. 103–296, set outas an Effective Date note under section 333 of Title 31, Money and Finance.
 
 #### Effective Date of 1988 Amendment
 

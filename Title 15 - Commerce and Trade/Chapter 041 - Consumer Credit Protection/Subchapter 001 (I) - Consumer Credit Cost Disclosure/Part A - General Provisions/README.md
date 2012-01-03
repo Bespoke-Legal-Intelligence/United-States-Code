@@ -17,7 +17,7 @@ Part A—General Provisions
 - [&sect; 01610 - Effect on other laws](%C2%A7%2001610%20-%20Effect%20on%20other%20laws.md)
 - [&sect; 01611 - Criminal liability for willful and knowing violation](%C2%A7%2001611%20-%20Criminal%20liability%20for%20willful%20and%20knowing%20violation.md)
 - [&sect; 01612 - Effect on government agencies](%C2%A7%2001612%20-%20Effect%20on%20government%20agencies.md)
-- [&sect; 01613 - Annual reports to Congress by Board](%C2%A7%2001613%20-%20Annual%20reports%20to%20Congress%20by%20Board.md)
+- [&sect; 01613 - Annual reports to Congress by Bureau](%C2%A7%2001613%20-%20Annual%20reports%20to%20Congress%20by%20Bureau.md)
 - [&sect; 01614 - Repealed. Pub. L. 96&#8211;221, title VI, &sect;616(b), Mar. 31, 1980, 94 Stat. 182](%C2%A7%2001614%20-%20Repealed.%20Pub.%20L.%2096%E2%80%93221%2C%20title%20VI%2C%20%C2%A7616%28b%29%2C%20Mar.%2031%2C%201980%2C%2094%20Stat.%20182.md)
 - [&sect; 01615 - Prohibition on use of &#8220;Rule of 78's&#8221; in connection with mortgage refinancings and other consumer loans](%C2%A7%2001615%20-%20Prohibition%20on%20use%20of%20%E2%80%9CRule%20of%2078%27s%E2%80%9D%20in%20connection%20with%20mortgage%20refinancings%20and%20other%20consumer%20loans.md)
 - [&sect; 01616 - Board review of consumer credit plans and regulations](%C2%A7%2001616%20-%20Board%20review%20of%20consumer%20credit%20plans%20and%20regulations.md)

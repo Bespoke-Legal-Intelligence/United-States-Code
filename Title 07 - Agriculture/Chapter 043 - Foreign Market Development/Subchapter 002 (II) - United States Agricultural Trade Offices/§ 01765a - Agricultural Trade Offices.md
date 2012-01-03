@@ -14,7 +14,7 @@ Each Agricultural Trade Officer may be appointed without regard to the provision
 
 #### (d) Transmittal of information
 
-Each Agricultural Trade Officer shall, through the Agricultural Counselor or Attache�AE1 or other senior representative of the Secretary of Agriculture in each nation in which the United States Agricultural Trade Office administered by such Officer exercises its functions, keep the Chief of the United States diplomatic mission fully and currently informed with respect to all activities and operations of such Office.
+Each Agricultural Trade Officer shall, through the Agricultural Counselor or Attache�AE1 or other senior representative of the Secretary of Agriculture in each nation in which the United States Agricultural Trade Office administered by such Officer exercises its functions, keep the Chief of the United States diplomatic missionfully and currently informed with respect to all activities and operations of such Office.
 
 #### (e) Office functions and activities
 
@@ -36,7 +36,7 @@ Upon the request of the Secretary of Agriculture, the Secretary of State shall r
 
 #### Amendments
 
-1980—Subsec. (h). Pub. L. 96–465 substituted “members of the Foreign Service” for “Foreign Service Personnel”.
+<b>1980</b>—Subsec. (h). Pub. L. 96–465 substituted “members of the Foreign Service” for “Foreign Service Personnel”.
 
 #### Effective Date of 1980 Amendment
 

@@ -130,7 +130,7 @@ The Energy Policy Act, referred to in subsec. (b)(1), probably means the Energy 
 
 #### Prior Provisions
 
-A prior section 7546, act July 14, 1955, ch. 360, title II, §212, as added Dec. 31, 1970, Pub. L. 91–604, §10(c), 84Stat. 1700; amended Dec. 31, 1970, Pub. L. 91–605, §202(a), 84 Stat. 1739; Apr. 9, 1973, Pub. L. 93–15, §1(b), 87 Stat. 11; June 22, 1974, Pub. L. 93–319, §13(b), 88 Stat. 265, related to low-emission vehicles, prior to repeal by Pub. L. 101–549, title II, §230(10), Nov. 15, 1990, 104 Stat. 2529.
+A prior section 7546, act July 14, 1955, ch. 360, title II, §212, as added Dec. 31, 1970, Pub. L. 91–604, §10(c), 84 Stat. 1700; amended Dec. 31, 1970, Pub. L. 91–605, §202(a), 84 Stat. 1739; Apr. 9, 1973, Pub. L. 93–15, §1(b), 87 Stat. 11; June 22, 1974, Pub. L. 93–319, §13(b), 88 Stat. 265, related to low-emission vehicles, prior to repeal by Pub. L. 101–549, title II, §230(10), Nov. 15, 1990, 104 Stat. 2529.
 
 A prior section 212 of act July 14, 1955, was renumbered section 213 by Pub. L. 91–604, renumbered section 214 by Pub. L. 93–319, and renumbered section 216 by Pub. L. 95–95, and is classified to section 7550 of this title.
 

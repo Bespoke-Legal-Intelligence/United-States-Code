@@ -6,7 +6,7 @@ That nothing herein contained shall affect any valid existing claim, location, o
 
 #### References in Text
 
-Herein, referred to in text, means act Apr. 25, 1947, which was generally classified to this subchapter. For complete classification of this Act to the Code, see Tables.
+Herein, referred to in text, means act Apr. 25, 1947, which was generally classified to this subchapter. Forcomplete classification of this Act to the Code, see Tables.
 
 The land laws of the United States, referred to in text, are classified generally to Title 43, Public Lands.
 

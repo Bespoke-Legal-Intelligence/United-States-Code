@@ -62,7 +62,7 @@ This section shall not apply to the extent that a distribution is treated as a s
 
 &emsp;&emsp;(A) a corporation (hereafter in this subsection referred to as the “corporate partner”) receives a distribution from a partnership of stock in another corporation (hereafter in this subsection referred to as the “distributed corporation”),
 
-&emsp;&emsp;(B) the corporate partner has control of the distributed corporation immediatelyafter the distribution or at any time thereafter, and
+&emsp;&emsp;(B) the corporate partner has control of the distributed corporation immediately after the distribution or at any time thereafter, and
 
 &emsp;&emsp;(C) the partnership's adjusted basis in such stock immediately before the distribution exceeded the corporate partner's adjusted basis in such stock immediately after the distribution,
 

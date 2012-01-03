@@ -47,7 +47,7 @@ The date of the enactment of the Tax Reform Act of 1986, referred to in subsec. 
 
 #### Amendments
 
-<b>1986</b>—Subsec. (a)(1)(A). Pub. L. 99–514 substituted “(as in effect on the day before the date of the enactment ofthe Tax Reform Act of 1986)” for “(relating to expenditures by farmers for clearing land)”.
+<b>1986</b>—Subsec. (a)(1)(A). Pub. L. 99–514 substituted “(as in effect on the day before the date of the enactment of the Tax Reform Act of 1986)” for “(relating to expenditures by farmers for clearing land)”.
 
 <b>1984</b>—Subsec. (a)(1). Pub. L. 98–369 struck out “, except that this section shall not apply to the extent section 1251 applies to such gain” after “of this subtitle” in last sentence.
 

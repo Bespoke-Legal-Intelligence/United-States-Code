@@ -6,7 +6,7 @@ The governing body of any Indian tribe may, at its discretion, adopt a resolutio
 
 #### (b) Cooperation
 
-At the request of any Indian tribe pursuant to a resolution adopted under subsection (a) of this section, the Bureau of Indian Affairs agency and education superintendents, where appropriate,,<sup>1</sup> the Office of Justice Programs, the Substance Abuse and Mental Health Services Administration, and the Indian Health Service service unit director providing services to such tribe shall cooperate with the tribe in the development of a Tribal Action Plan to coordinate resources and programs relevant to alcohol and substance abuse prevention and treatment. Upon the development of such a plan, such superintendents and director, as directed by the Memorandum of Agreement established under section 2411 of this title, shall enter into an agreement with the tribe for the implementation of the Tribal Action Plan under subsection (a) of this section.
+At the request of any Indian tribe pursuant to a resolution adopted under subsection (a) of this section, the Bureau of Indian Affairs agency and education superintendents, where appropriate,,<sup>1</sup>the Office of Justice Programs, the Substance Abuse and Mental Health Services Administration, and the Indian Health Service service unit director providing services to such tribe shall cooperate with the tribe in the development of a Tribal Action Plan to coordinate resources and programs relevant to alcohol and substance abuse prevention and treatment. Upon the development of such a plan, such superintendents and director, as directed by the Memorandum of Agreement established under section 2411 of this title, shall enter into an agreement with the tribe for the implementation of the Tribal Action Plan under subsection (a) of this section.
 
 #### (c) Provisions
 
@@ -80,7 +80,7 @@ Section 2475 of this title, referred to in subsec. (c)(1)(A)(iv), was repealed b
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b). Pub. L. 111–211, §241(a)(2)(A), inserted “, the Office of Justice Programs, the Substance Abuse and Mental Health Services Administration,” before “and the Indian Health Service service unit”.
+<b>2010</b>—Subsec. (b). Pub. L. 111–211, §241(a)(2)(A), inserted “, the Office of Justice Programs, the SubstanceAbuse and Mental Health Services Administration,” before “and the Indian Health Service service unit”.
 
 Subsec. (c)(1)(A)(i). Pub. L. 111–211, §241(a)(2)(B), inserted “, the Office of Justice Programs, the Substance Abuse and Mental Health Services Administration,” before “and the Indian Health Service service unit”.
 

@@ -19,11 +19,9 @@
 
 #### Amendments
 
-2005—Pub. L. 109–8, title I, §106(e)(2), title II, §233(b), Apr. 20, 2005, 119 Stat. 41, 74, added items 111 and 112.
+<b>2005</b>—Pub. L. 109–8, title I, §106(e)(2), title II, §233(b), Apr. 20, 2005, 119 Stat. 41, 74, added items 111 and 112.
 
-1994—Pub. L. 103–394, title III, §308(b), Oct. 22, 1994, 108 Stat. 4137, added item 110.
-
-<i><sup>1</sup></i><i> So in original. Does not conform to chapter heading.</i>
+<b>1994</b>—Pub. L. 103–394, title III, §308(b), Oct. 22, 1994, 108 Stat. 4137, added item 110.
 
 
 ---

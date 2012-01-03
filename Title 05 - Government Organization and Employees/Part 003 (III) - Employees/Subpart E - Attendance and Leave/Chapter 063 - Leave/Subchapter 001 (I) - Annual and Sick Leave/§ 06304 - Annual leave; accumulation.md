@@ -48,7 +48,7 @@
 
 (B) As used in subparagraph (A)—
 
-&emsp;(i) the term “Department of Defense emergency essential employee” means an employeeof the Department of Defense who is designated under section 1580 of title 10 as an emergency essential employee; and
+&emsp;(i) the term “Department of Defense emergency essential employee” means an employee of the Department of Defense who is designated under section 1580 of title 10 as an emergency essential employee; and
 
 &emsp;(ii) the term “combat zone” has the meaning given such term in section 112(c)(2) of the Internal Revenue Code of 1986.
 
@@ -136,23 +136,23 @@ Section 112(c)(2) of the Internal Revenue Code of 1986, referred to in subsec. (
 
 #### Amendments
 
-2010—Subsec. (f)(1)(F). Pub. L. 111–282, §2(b)(1), which directed amendment of subpar. (F) by striking “or” after the semicolon, could not be executed because the word “or” did not appear.
+<b>2010</b>—Subsec. (f)(1)(F). Pub. L. 111–282, §2(b)(1), which directed amendment of subpar. (F) by striking “or” after the semicolon, could not be executed because the word “or” did not appear.
 
 Subsec. (f)(1)(G). Pub. L. 111–282, §2(b)(2), which directed substitution of “; or” for the period, could not be executed because there was no period.
 
 Subsec. (f)(1)(H). Pub. L. 111–282, §2(b)(3), added subpar. (H) relating to a position in the United States Secret Service Uniformed Division.
 
-2009—Subsec. (f)(1)(H). Pub. L. 111–68 added subpar. (H).
+<b>2009</b>—Subsec. (f)(1)(H). Pub. L. 111–68 added subpar. (H).
 
-2008—Subsec. (f)(1). Pub. L. 110–181 substituted “in—” for “in a position in—” in introductory provisions, inserted “a position in” before “the” in subpars. (A) to (E), struck out “or” at end of subpar. (D), substituted semicolon for period at end of subpar. (E), and added subpars. (F) and (G).
+<b>2008</b>—Subsec. (f)(1). Pub. L. 110–181 substituted “in—” for “in a position in—” in introductory provisions, inserted “a position in” before “the” in subpars. (A) to (E), struck out “or” at end of subpar. (D), substituted semicolon for period at end of subpar. (E), and added subpars. (F) and (G).
 
-1999—Subsec. (d)(4). Pub. L. 106–65 added par. (4).
+<b>1999</b>—Subsec. (d)(4). Pub. L. 106–65 added par. (4).
 
-1998—Subsec. (d)(3)(A). Pub. L. 105–261 inserted “the closure of an installation of the Department of Defense in the Republic of Panama in accordance with the Panama Canal Treaty of 1977,” after “2687 note) during any period,”.
+<b>1998</b>—Subsec. (d)(3)(A). Pub. L. 105–261 inserted “the closure of an installation of the Department of Defense in the Republic of Panama in accordance with the Panama Canal Treaty of 1977,” after “2687 note) during any period,”.
 
-1994—Subsec. (d)(3). Pub. L. 103–337, §2816(a), designated existing provisions as subpar. (A), substituted “closure of, and any realignment with respect to,” for “closure of”, and added subpar. (B).
+<b>1994</b>—Subsec. (d)(3). Pub. L. 103–337, §2816(a), designated existing provisions as subpar. (A), substituted “closure of, and any realignment with respect to,” for “closure of”, and added subpar. (B).
 
-Pub. L. 103–337, §341(c), substituted “the closure of an installation of the Department of Defense pursuant tothe Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note) during any period, and the closure of any other installation” for “the closure of an installation”.
+Pub. L. 103–337, §341(c), substituted “the closure of an installation of the Department of Defense pursuant to the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note) during any period, and the closure of any other installation” for “the closure of an installation”.
 
 Subsec. (f). Pub. L. 103–356 amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “Annual leave accrued shall not be subject to the limitation on accumulation otherwise imposed by this section if such leave is accrued by an individual while serving in a position in—
 
@@ -166,29 +166,29 @@ Subsec. (f). Pub. L. 103–356 amended subsec. (f) generally. Prior to amendment
 
 &emsp;“(5) the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service.”
 
-1992—Subsec. (d)(3). Pub. L. 102–484 added par. (3).
+<b>1992</b>—Subsec. (d)(3). Pub. L. 102–484 added par. (3).
 
 Subsec. (e). Pub. L. 102–378 substituted “date” for “date of” in last sentence.
 
-1988—Subsec. (f)(5). Pub. L. 100–325 added par. (5).
+<b>1988</b>—Subsec. (f)(5). Pub. L. 100–325 added par. (5).
 
-1981—Subsec. (f). Pub. L. 97–89 amended subsec. (f) generally, transferring from former subsec. (g) provisions excepting from the limitation on accumulation otherwise imposed by this section any annual leave accrued by members of the Senior Foreign Service and inserting provisions relating to annual leave accrued by individuals while serving in positions in the Defense Intelligence Senior Executive Service or the Senior Cryptologic Executive Service.
+<b>1981</b>—Subsec. (f). Pub. L. 97–89 amended subsec. (f) generally, transferring from former subsec. (g) provisions excepting from the limitation on accumulation otherwise imposed by this section any annual leave accrued by members of the Senior Foreign Service and inserting provisions relating to annual leave accrued by individuals while serving in positions in the Defense Intelligence Senior Executive Service or the Senior Cryptologic Executive Service.
 
 Subsec. (g). Pub. L. 97–89 struck out subsec. (g). Provisions formerly set out in subsec. (g), relating to annual leave accrued by members of the Senior Foreign service, were incorporated in subsec. (f).
 
-1980—Subsec. (a). Pub. L. 96–465, §2312(b)(1), inserted reference to subsec. (g).
+<b>1980</b>—Subsec. (a). Pub. L. 96–465, §2312(b)(1), inserted reference to subsec. (g).
 
 Subsec. (g). Pub. L. 96–465, §2312(b)(2), added subsec. (g).
 
-1979—Subsec. (e). Pub. L. 96–54 substituted “rate of basic pay” for “salary rate”.
+<b>1979</b>—Subsec. (e). Pub. L. 96–54 substituted “rate of basic pay” for “salary rate”.
 
-1978—Subsec. (a). Pub. L. 95–454, §410(1), inserted reference to subsec. (f).
+<b>1978</b>—Subsec. (a). Pub. L. 95–454, §410(1), inserted reference to subsec. (f).
 
 Subsec. (d)(2). Pub. L. 95–454, §906(a)(2), (3), substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively.
 
 Subsec. (f). Pub. L. 95–454, §410(2), added subsec. (f).
 
-1973—Subsec. (a). Pub. L. 93–181, §3(1), substituted “subsections (b), (d), and (e) of this section” for “subsection (b) of this section”.
+<b>1973</b>—Subsec. (a). Pub. L. 93–181, §3(1), substituted “subsections (b), (d), and (e) of this section” for “subsection (b) of this section”.
 
 Subsecs. (d), (e). Pub. L. 93–181, §3(2), added subsecs. (d) and (e).
 
@@ -232,7 +232,7 @@ Pub. L. 108–136, div. A, title XI, §1114, Nov. 24, 2003, 117 Stat. 1635, prov
 
 Restoration of Annual Leave.—During the period October 1, 1992, through December 31, 1997, all employees transferring from a closing or realigning Department of Defense installation or activity as defined under section 6304(d)(3) of title 5, United States Code, to another Department of Defense installation or activity—
 
-&emsp;“(1) may be deemed eligible by the Secretary of Defense for automatic restoration of forfeited annual leave under section 6304(d)(3) of title 5, United States Code, during the year of transfer; and
+&emsp;“(1) may be deemed eligible by the Secretary of Defense for automatic restoration of forfeited annualleave under section 6304(d)(3) of title 5, United States Code, during the year of transfer; and
 
 &emsp;“(2) may be deemed by the Secretary of Defense to have used all forfeited annual leave properly restored under section 6304(d)(3) of title 5, United States Code, within the appropriate time limits, only if such restored annual leave was used by the employee or paid to the employee in the form of a lump sum payment under section 5551(a) of title 5, United States Code, by the last day of the 2001 leave year.
 
@@ -248,7 +248,7 @@ Payment of Restored Annual Leave.—(1) On or after September 23, 1996, all empl
 
 #### Use of Excess Leave
 
-Section 201(b) of Pub. L. 103–356 provided that: “Notwithstanding the amendment made by subsection (a) \[amending this section\], in the case of an employeewho, on the effective date of subsection (a) \[see Effective Date of 1994 Amendments note above\], is subject to subsection (f) of section 6304 of title 5, United States Code, and who has to such employee's credit annual leave in excess of the maximum accumulation otherwise permitted by subsection (a) or (b) of section 6304 (determined applying the amendment made by subsection (a)), such excess annual leave shall remain to the credit of the employee and be subject to reduction, in the same manner as provided in subsection (c) of section 6304.”
+Section 201(b) of Pub. L. 103–356 provided that: “Notwithstanding the amendment made by subsection (a) \[amending this section\], in the case of an employee who, on the effective date of subsection (a) \[see Effective Date of 1994 Amendments note above\], is subject to subsection (f) of section 6304 of title 5, United States Code, and who has to such employee's credit annual leave in excess of the maximum accumulation otherwise permitted by subsection (a) or (b) of section 6304 (determined applying the amendment made by subsection (a)), such excess annual leave shall remain to the credit of the employee and be subject to reduction, in the same manner as provided in subsection (c) of section 6304.”
 
 #### Lump-Sum Payment for Accrued Annual Leave to Former Employees
 

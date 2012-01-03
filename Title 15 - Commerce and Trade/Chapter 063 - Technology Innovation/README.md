@@ -5,7 +5,7 @@
 | [3701\.](%C2%A7%2003701%20-%20Findings.md) | Findings. |
 | [3702\.](%C2%A7%2003702%20-%20Purpose.md) | Purpose. |
 | [3703\.](%C2%A7%2003703%20-%20Definitions.md) | Definitions. |
-| [3704\.](%C2%A7%2003704%20-%20Experimental%20program%20to%20stimulate%20competitive%20technology.md) | Experimental program to stimulate competitive technology. |
+| [3704\.](%C2%A7%2003704%20-%20Experimental%20Program%20to%20Stimulate%20Competitive%20Technology.md) | Experimental Program to Stimulate Competitive Technology. |
 | [3704a.](%C2%A7%2003704a%20-%20Clearinghouse%20for%20State%20and%20Local%20Initiatives%20on%20Productivity%2C%20Technology%2C%20and%20Innovation.md) | Clearinghouse for State and Local Initiatives on Productivity, Technology, and Innovation. |
 | [3704b.](%C2%A7%2003704b%20-%20National%20Technical%20Information%20Service.md) | National Technical Information Service. |
 | 3704b–1. | Recovery of operating costs through fee collections. |
@@ -46,7 +46,7 @@
 - [&sect; 03701 - Findings](%C2%A7%2003701%20-%20Findings.md)
 - [&sect; 03702 - Purpose](%C2%A7%2003702%20-%20Purpose.md)
 - [&sect; 03703 - Definitions](%C2%A7%2003703%20-%20Definitions.md)
-- [&sect; 03704 - Experimental program to stimulate competitive technology](%C2%A7%2003704%20-%20Experimental%20program%20to%20stimulate%20competitive%20technology.md)
+- [&sect; 03704 - Experimental Program to Stimulate Competitive Technology](%C2%A7%2003704%20-%20Experimental%20Program%20to%20Stimulate%20Competitive%20Technology.md)
 - [&sect; 03704a - Clearinghouse for State and Local Initiatives on Productivity, Technology, and Innovation](%C2%A7%2003704a%20-%20Clearinghouse%20for%20State%20and%20Local%20Initiatives%20on%20Productivity%2C%20Technology%2C%20and%20Innovation.md)
 - [&sect; 03704b - National Technical Information Service](%C2%A7%2003704b%20-%20National%20Technical%20Information%20Service.md)
 - [&sect; 03704b&#8211;1 - Recovery of operating costs through fee collections](%C2%A7%2003704b%E2%80%931%20-%20Recovery%20of%20operating%20costs%20through%20fee%20collections.md)

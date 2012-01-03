@@ -116,9 +116,9 @@ In subsection (e), the words “is deemed” are substituted for “shall be con
 
 #### Amendments
 
-1990—Subsec. (b)(1). Pub. L. 101–303 substituted “age 55” for “age 60”.
+<b>1990</b>—Subsec. (b)(1). Pub. L. 101–303 substituted “age 55” for “age 60”.
 
-1974—Subsec. (a)(1). Pub. L. 93–416, §16(a), substituted “50” for “45”.
+<b>1974</b>—Subsec. (a)(1). Pub. L. 93–416, §16(a), substituted “50” for “45”.
 
 Subsec. (a)(2). Pub. L. 93–416, §16(a), substituted “45” for “40”.
 
@@ -132,7 +132,7 @@ Subsec. (f). Pub. L. 93–416, §18, added subsec. (f).
 
 #### Effective Date of 1974 Amendment
 
-Amendment by sections 16(a) and 17 of Pub. L. 93–416 applicable to cases where injury or death occurred prior to Sept. 7, 1974 but only to a period beginning on or after Sept. 7, 1974, see section 28(a) of Pub. L. 93–416, set out as a note under section 8101 of this title.
+Amendment by sections 16(a) and 17 of Pub. L. 93–416 applicable to cases where injury or death occurredprior to Sept. 7, 1974 but only to a period beginning on or after Sept. 7, 1974, see section 28(a) of Pub. L. 93–416, set out as a note under section 8101 of this title.
 
 Amendment by section 18 of Pub. L. 93–416 effective on Sept. 7, 1974, and applicable to any injury or death occurring on or after Sept. 7, 1974, see section 28(a) of Pub. L. 93–416, set out as a note under section 8101 of this title.
 

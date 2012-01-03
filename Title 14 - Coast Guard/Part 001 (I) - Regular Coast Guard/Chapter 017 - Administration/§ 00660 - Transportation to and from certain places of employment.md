@@ -1,6 +1,6 @@
 ### §660. Transportation to and from certain places of employment
 
-(a) Whenever the Secretary determines that it is necessary for the effective conduct of the affairs of the Coast Guard, he may, at reasonable rates of fare fixed under regulations to be prescribed by him, provide assured and adequate transportation by motor vehicle or water carrier to and from their places of employment for persons attached to, or employed by, the Coast Guard; and during a war or during a national emergency declared by Congress or the President, for persons attached to, or employed in, a private plant that is manufacturing material for the Coast Guard.
+(a) Whenever the Secretary determines that it is necessary for the effective conduct of the affairs of the Coast Guard, he may, at reasonablerates of fare fixed under regulations to be prescribed by him, provide assured and adequate transportation by motor vehicle or water carrier to and from their places of employment for persons attached to, or employed by, the Coast Guard; and during a war or during a national emergency declared by Congress or the President, for persons attached to, or employed in, a private plant that is manufacturing material for the Coast Guard.
 
 (b) Transportation may not be provided under subsection (a) unless the Secretary or an officer designated by the Secretary, determines that—
 
@@ -24,9 +24,9 @@
 
 #### Amendments
 
-1986—Subsec. (e). Pub. L. 99–550 struck out subsec. (e) which provided that passenger motor vehicles of theUnited States could be used to provide transportation between the residence and place of work of the Commandant. See section 1344 of Title 31, Money and Finance.
+<b>1986</b>—Subsec. (e). Pub. L. 99–550 struck out subsec. (e) which provided that passenger motor vehicles of the United States could be used to provide transportation between the residence and place of work of the Commandant. See section 1344 of Title 31, Money and Finance.
 
-1985—Subsec. (e). Pub. L. 99–145 added subsec. (e).
+<b>1985</b>—Subsec. (e). Pub. L. 99–145 added subsec. (e).
 
 #### Effective Date of 1985 Amendment
 

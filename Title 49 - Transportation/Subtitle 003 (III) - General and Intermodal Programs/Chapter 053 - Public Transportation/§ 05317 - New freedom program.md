@@ -90,7 +90,7 @@ Statewide solicitation.—A recipient of funds apportioned under subsection (c)(
 
 &emsp;(3)
 
-Application.—Recipients and subrecipients seeking to receive a grant from funds apportioned under subsection (c) shall submit tothe recipient an application in the form and in accordance with such requirements as the recipient shall establish.
+Application.—Recipients and subrecipients seeking to receive a grant from funds apportioned under subsection (c) shall submit to the recipient an application in the form and in accordance with such requirements as the recipient shall establish.
 
 &emsp;(4)
 
@@ -154,7 +154,7 @@ Use of certain funds.—For purposes of paragraph (3)(B), the prohibitions on th
 
 &emsp;(5)
 
-Limitation on operating assistance.—A recipient carrying out a program of operating assistance under this section may not limit the level or extent of use of the Government grant for the payment of operating expenses.
+Limitation on operating assistance.—A recipient carrying out a program of operating assistance under this section may not limitthe level or extent of use of the Government grant for the payment of operating expenses.
 
 (Added Pub. L. 109–59, title III, §3019(a), Aug. 10, 2005, 119 Stat. 1605.)
 

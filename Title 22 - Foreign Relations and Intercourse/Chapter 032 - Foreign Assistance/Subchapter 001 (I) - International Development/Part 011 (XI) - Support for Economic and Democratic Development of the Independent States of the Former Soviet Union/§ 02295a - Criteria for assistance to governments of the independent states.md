@@ -50,13 +50,13 @@ The President shall not provide assistance under this part—
 
 &emsp;(4) for the government of any independent state that is prohibited from receiving such assistance by section 2799aa or 2799aa–1 of this title or sections 5604(a)(1) and 5605 of this title;
 
-&emsp;(5) for the government of any independent state effective 30 days after the President has determined and certified to the appropriate congressional committees (and Congress has not enacted legislation disapproving the determination within that 30-day period) that suchgovernment is providing assistance for, or engaging in nonmarket based trade (as defined in section 2295b(k)(3) of this title) with, the Cuban Government; or
+&emsp;(5) for the government of any independent state effective 30 days after the President has determined and certified to the appropriate congressional committees (and Congress has not enacted legislation disapproving the determination within that 30-day period) that such government is providing assistance for, or engaging in nonmarket based trade (as defined in section 2295b(k)(3) of this title) with, the Cuban Government; or
 
 &emsp;(6) for the Government of Russia if it has failed to make significant progress on the removal of Russian or Commonwealth of Independent States troops from Estonia, Latvia, and Lithuania or if it has failed to undertake good faith efforts, such as negotiations, to end other military practices that violate the sovereignty of the Baltics <sup>1</sup> states.
 
 #### (c) Exceptions to ineligibility
 
-Assistance prohibited by subsection (b) of this section or any similar provision of law, other than assistance prohibited by the provisions referred to in subsection (b)(4) of this section, may be furnished under any of the following circumstances:
+Assistance prohibited by subsection (b) of this section or any similar provision of law, otherthan assistance prohibited by the provisions referred to in subsection (b)(4) of this section, may be furnished under any of the following circumstances:
 
 &emsp;(1) The President determines that furnishing such assistance is important to the national interest of the United States.
 

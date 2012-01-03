@@ -106,7 +106,7 @@ Pub. L. 102–582, §2, Nov. 2, 1992, 106 Stat. 4900, as amended by Pub. L. 104�
 
 Findings.—Congress makes the following findings:
 
-&emsp;“(1) Large-scale driftnet fishing on the high seas is highly destructive to the living marine resources andocean ecosystems of the world's oceans, including anadromous fish and other living marine resources of the United States.
+&emsp;“(1) Large-scale driftnet fishing on the high seas is highly destructive to the living marine resources and ocean ecosystems of the world's oceans, including anadromous fish and other living marine resources of the United States.
 
 &emsp;“(2) The cumulative effects of large-scale driftnet fishing pose a significant threat to the marine ecosystem, and slow-reproducing species like marine mammals, sharks, and seabirds may require many years to recover.
 
@@ -120,7 +120,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;“(7) The United States, in section 307(1)(M) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1857(1)(M)), has specifically prohibited the practice of large-scale driftnet fishing by United States nationals and vessels both within the exclusive economic zone of the United States and beyond the exclusive economic zone of any nation.
 
-&emsp;“(8) The Senate, through Senate Resolution 396 of the One Hundredth Congress (approved on March 18, 1988), has called for a moratorium on fishing in the Central Bering Sea and the United States has taken concrete steps to implement such moratorium through international negotiations.
+&emsp;“(8) The Senate, through Senate Resolution 396 of the One Hundredth Congress (approved on March 18, 1988), has called for a moratorium on fishing in theCentral Bering Sea and the United States has taken concrete steps to implement such moratorium through international negotiations.
 
 &emsp;“(9) Despite the continued evidence of a decline in the fishery resources of the Bering Sea and the multiyear cooperative negotiations undertaken by the United States, the Russian Federation, Japan, and other concerned fishing nations, some nations refuse to agree to measures to reduce or eliminate unregulated fishing practices in the waters of the Bering Sea beyond the exclusive economic zones of the United States and the Russian Federation.
 

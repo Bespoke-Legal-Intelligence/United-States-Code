@@ -114,7 +114,7 @@ If the Secretary receives or obtains information providing a reasonable basis to
 
 &emsp;&emsp;(C) may provide for review by the Secretary of any determination or order, or interlocutory ruling, arising from a hearing.
 
-> &emsp;If no hearing is requested within 15 days of receipt of the notice of opportunity for hearing, the imposition of the penalty shall constitute a final and unappealable determination. If theSecretary reviews the determination or order, the Secretary may affirm, modify, or reverse that determination or order. If the Secretary does not review the determination or order, the determination or order shall be final.
+> &emsp;If no hearing is requested within 15 days of receipt of the notice of opportunity for hearing, the imposition of the penalty shall constitute a final and unappealable determination. If the Secretary reviews the determination or order, the Secretary may affirm, modify, or reverse that determination or order. If the Secretary does not review the determination or order, the determination or order shall be final.
 
 #### (2) Factors in determining amount of penalty
 
@@ -132,7 +132,7 @@ If the Secretary receives or obtains information providing a reasonable basis to
 
 #### (2) Objections not raised in hearing
 
-&emsp;The court shall not consider any objection that was not raised in the hearing conducted pursuant to subsection (g)(1) of this section unless a demonstration is made of extraordinary circumstances causing the failure to raise the objection. If any party demonstrates to the satisfaction of the court that additional evidence not presented at the hearing is material and that there were reasonable grounds for the failure to present such evidence at the hearing, the court shall remand the matter to the Secretary for consideration of such additional evidence.
+&emsp;The court shall not consider any objection that was not raised in the hearing conductedpursuant to subsection (g)(1) of this section unless a demonstration is made of extraordinary circumstances causing the failure to raise the objection. If any party demonstrates to the satisfaction of the court that additional evidence not presented at the hearing is material and that there were reasonable grounds for the failure to present such evidence at the hearing, the court shall remand the matter to the Secretary for consideration of such additional evidence.
 
 #### (3) Scope of review
 

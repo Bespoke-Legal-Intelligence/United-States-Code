@@ -1,6 +1,6 @@
 ### §1973q. Construction
 
-A reference in this subchapter to the effective date of the amendments made by, or the date of the enactment of, the Fannie Lou Hamer, Rosa Parks, Coretta Scott King, Ce�AE1sar E. Cha�AE1vez, Barbara C. Jordan, William C. Vela�AE1squez, and Dr. Hector P. Garcia Voting Rights Act Reauthorization and Amendments Act of 2006 shall be considered to refer to, respectively, the effective date of the amendments made by, or the date of the enactment of, the Fannie Lou Hamer, Rosa Parks, and Coretta Scott King Voting Rights Act Reauthorization and Amendments Act of 2006.
+A reference in this subchapter to the effective date of the amendments made by, or the date ofthe enactment of, the Fannie Lou Hamer, Rosa Parks, Coretta Scott King, Ce�AE1sar E. Cha�AE1vez, Barbara C. Jordan, William C. Vela�AE1squez, and Dr. Hector P. Garcia Voting Rights Act Reauthorization and Amendments Act of 2006 shall be considered to refer to, respectively, the effective date of the amendments made by, or the date of the enactment of, the Fannie Lou Hamer, Rosa Parks, and Coretta Scott King Voting Rights Act Reauthorization and Amendments Act of 2006.
 
 (Pub. L. 89–110, title I, §20, as added Pub. L. 110–258, §3, July 1, 2008, 122 Stat. 2428.)
 

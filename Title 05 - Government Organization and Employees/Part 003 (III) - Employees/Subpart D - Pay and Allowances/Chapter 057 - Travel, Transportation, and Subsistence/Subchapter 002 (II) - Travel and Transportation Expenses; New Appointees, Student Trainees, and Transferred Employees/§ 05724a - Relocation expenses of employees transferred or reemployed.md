@@ -106,7 +106,7 @@ The General Schedule, referred to in subsec. (f)(2), is set out under section 53
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–264, §7(1), substituted “Under regulations prescribed under section 5738, an agency shall pay” for “An agency shall pay”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–264, §7(1), substituted “Under regulations prescribed under section 5738, an agency shall pay” for “An agency shall pay”.
 
 Subsec. (b)(1). Pub. L. 105–264, §7(2), substituted “Under regulations prescribed under section 5738, an agency may pay” for “An agency may pay” in introductory provisions.
 
@@ -132,9 +132,9 @@ Subsec. (i). Pub. L. 105–264, §7(9), struck out subsec. (i) which read as fol
 
 Subsec. (j). Pub. L. 105–264, §6(5), struck out subsec. (j) which read as follows: “For purposes of subsections (c), (d), and (e), the term ‘United States’ includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the territories and possessions of the United States, and the areas and installations in the Republic of Panama that are made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements (as described in section 3(a) of the Panama Canal Act of 1979 (22 U.S.C. 3602(a))).”
 
-1997—Subsec. (j). Pub. L. 105–85, which directed the amendment of subsec. (j) by inserting “and” after “Northern Mariana Islands,” and by substituting “United States.” for “United States, and the areas and installations in the Republic of Panama that are made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements (as described in section 3(a) of the Panama Canal Act of 1979 (22 U.S.C. 3602(a))).”, effective Jan. 1, 1999, could not be executed because subsec. (j) did not appear subsequent to amendment by Pub. L. 105–264. See 1998 Amendment note above.
+<b>1997</b>—Subsec. (j). Pub. L. 105–85, which directed the amendment of subsec. (j) by inserting “and” after “Northern Mariana Islands,” and by substituting “United States.” for “United States, and the areas and installations in the Republic of Panama that are made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements (as described in section 3(a) of the Panama Canal Act of 1979 (22 U.S.C. 3602(a))).”, effective Jan. 1, 1999, could not be executed because subsec. (j) did not appear subsequent to amendment by Pub. L. 105–264. See 1998 Amendment note above.
 
-1996—Pub. L. 104–201, §1711, amended section generally, substituting subsecs. (a) and (b) for former subsecs. (a) to (c) which made funds available to pay certain expenses of employees for whom Government pays travel and transportation expenses under section 5724(a) of this title, provided for entitlement to certain amounts of basic pay to such employees, and provided for payment of expenses of certain former employees.
+<b>1996</b>—Pub. L. 104–201, §1711, amended section generally, substituting subsecs. (a) and (b) for former subsecs. (a) to (c) which made funds available to pay certain expenses of employees for whom Government pays travel and transportation expenses under section 5724(a) of this title, provided for entitlement to certain amounts of basic pay to such employees, and provided for payment of expenses of certain former employees.
 
 Subsec. (c). Pub. L. 104–201, §1712, added subsec. (c).
 
@@ -146,23 +146,23 @@ Subsec. (e). Pub. L. 104–201, §1714(2), added subsec. (e).
 
 Subsecs. (f) to (j). Pub. L. 104–201, §1718, added subsecs. (f) to (j).
 
-1990—Subsec. (a)(2). Pub. L. 101–510 struck out “continental” before “United States” in second sentence.
+<b>1990</b>—Subsec. (a)(2). Pub. L. 101–510 struck out “continental” before “United States” in second sentence.
 
-1987—Subsec. (a)(4)(A). Pub. L. 100–202 inserted provisions authorizing reimbursement of expenses of selling residence of employee at official station from which employee was transferred when assigned to duty outside United States, its territories or possessions, Puerto Rico, or parts of Panama, provisions authorizing reimbursement of expenses of purchasing residence at new official station in United States, its territories or possessions, Puerto Rico, or parts of Panama, and provisions disallowing reimbursement of expenses in connection with transfers from a post of duty located outside the United States, its territories or possessions, Puerto Rico, or parts of Panama, for any transaction that occurs prior to official notification that employee's return to the United States would be to official station other than official station from which employee was transferred.
+<b>1987</b>—Subsec. (a)(4)(A). Pub. L. 100–202 inserted provisions authorizing reimbursement of expenses of selling residence of employee at official station from which employee was transferred when assigned to duty outside United States, its territories or possessions, Puerto Rico, or parts of Panama, provisions authorizing reimbursement of expenses of purchasing residence at new official station in United States, its territories or possessions, Puerto Rico, or parts of Panama, and provisions disallowing reimbursement of expenses in connection with transfers from a post of duty located outside the United States, its territories or possessions, Puerto Rico, or parts of Panama, for any transaction that occurs prior to official notification that employee's return to the United States would be to official station other than official station from which employee was transferred.
 
-1986—Subsec. (a)(1). Pub. L. 99–234, §105(1), (2), substituted “allowance or” for “allowance instead of” and “maximum payment permitted under regulations which implement section 5702 of this title” for “maximum per diem rates prescribed by or under section 5702 of this title”.
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–234, §105(1), (2), substituted “allowance or” for “allowance instead of” and “maximum payment permitted under regulations which implement section 5702 of this title” for “maximum per diem rates prescribed by or under section 5702 of this title”.
 
 Subsec. (a)(2). Pub. L. 99–234, §105(1), (2), substituted “allowance or” for “allowance instead of” and “maximum payment permitted under regulations which implement section 5702 of this title” for “maximum per diem rates prescribed by or under section 5702 of this title”.
 
 Subsec. (a)(3). Pub. L. 99–234, §105(2), (3), substituted “maximum payment permitted under regulations which implement section 5702 of this title” for “maximum per diem rates prescribed by or under section 5702 of this title” and “daily rates and amounts” for “average daily rates”.
 
-1983—Subsec. (a)(3). Pub. L. 98–151, §118(a)(5)(A), in first sentence substituted “60 days” for “30 days”.
+<b>1983</b>—Subsec. (a)(3). Pub. L. 98–151, §118(a)(5)(A), in first sentence substituted “60 days” for “30 days”.
 
 Pub. L. 98–151, §118(a)(5)(B), substituted provisions authorizing extension for an additional 60 days if agency head or designee determines existence of compelling reasons for continued occupancy, for provisions authorizing extension for an additional 30 days if the employee moves to or from Alaska, Hawaii, the territories or possessions, etc., and struck out provisions relating to additional limitations on daily rates for reimbursement for subsistence expenses.
 
 Subsec. (a)(4). Pub. L. 98–151, §118(a)(6), redesignated existing provisions as subpar. (A) and added subpar. (B).
 
-1979—Subsec. (a)(3), (4). Pub. L. 96–70 substituted in pars. (3) and (4) “areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements (as described in section 3(a) of the Panama Canal Act of 1979)” for “Canal Zone” wherever appearing.
+<b>1979</b>—Subsec. (a)(3), (4). Pub. L. 96–70 substituted in pars. (3) and (4) “areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements (as described in section 3(a) of the Panama Canal Act of 1979)” for “Canal Zone” wherever appearing.
 
 #### Effective Date of 1997 Amendment
 
@@ -190,9 +190,9 @@ Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L.
 
 #### Extension of Payment of Relocation Expenses to Puerto Rico, Northern Mariana Islands, and Territories and Possessions of the United States
 
-Pub. L. 105–277, div. A, §101(b) \[title I, §125\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–74, provided that: “Effective with the enactment of this Act \[Oct. 21, 1998\], and inany fiscal year hereafter, the Attorney General and the Secretary of the Treasury may, for their respective agencies, extend the payment of relocation expenses listed in section 5724a(b)(1) of Title 5 of the United States Code to include the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and the territories and possessions of the United States.”
+Pub. L. 105–277, div. A, §101(b) \[title I, §125\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–74, provided that: “Effective with the enactment of this Act \[Oct. 21, 1998\], and in any fiscal year hereafter, the Attorney General and the Secretary of the Treasury may, for their respective agencies, extend the payment of relocation expenses listed in section 5724a(b)(1) of Title 5 of the United States Code to include the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and the territories and possessions of the United States.”
 
 #### Funding of Amendments by Pub. L. 98–151
 
-Amendments by Pub. L. 98–151 to be carried out be agencies by use of funds appropriated or otherwise available for administrative expenses of such agencies, and do not authorize appropriation of funds in amounts exceeding sums already authorized to be appropriated for such agencies, see section 118(b) of Pub. L. 98–151, set out as a note under section 5724 of this title.
+Amendments by Pub. L. 98–151 to be carried out be agencies by use of funds appropriated or otherwiseavailable for administrative expenses of such agencies, and do not authorize appropriation of funds in amounts exceeding sums already authorized to be appropriated for such agencies, see section 118(b) of Pub. L. 98–151, set out as a note under section 5724 of this title.
 

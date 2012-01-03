@@ -30,7 +30,7 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 &emsp;The term “Bell operating company”—
 
-&emsp;&emsp;(A) means any of the following companies: Bell Telephone Company of Nevada, Illinois Bell Telephone Company, Indiana Bell Telephone Company, Incorporated, MichiganBell Telephone Company, New England Telephone and Telegraph Company, New Jersey Bell Telephone Company, New York Telephone Company, U S West Communications Company, South Central Bell Telephone Company, Southern Bell Telephone and Telegraph Company, Southwestern Bell Telephone Company, The Bell Telephone Company of Pennsylvania, The Chesapeake and Potomac Telephone Company, The Chesapeake and Potomac Telephone Company of Maryland, The Chesapeake and Potomac Telephone Company of Virginia, The Chesapeake and Potomac Telephone Company of West Virginia, The Diamond State Telephone Company, The Ohio Bell Telephone Company, The Pacific Telephone and Telegraph Company, or Wisconsin Telephone Company; and
+&emsp;&emsp;(A) means any of the following companies: Bell Telephone Company of Nevada, Illinois Bell Telephone Company, Indiana Bell Telephone Company, Incorporated, Michigan Bell Telephone Company, New England Telephone and Telegraph Company, New Jersey Bell Telephone Company, New York Telephone Company, U S West Communications Company, South Central Bell Telephone Company, Southern Bell Telephone and Telegraph Company, Southwestern Bell Telephone Company, The Bell Telephone Company of Pennsylvania, The Chesapeake and Potomac Telephone Company, The Chesapeake and Potomac Telephone Company of Maryland, The Chesapeake and Potomac Telephone Company of Virginia, The Chesapeake and Potomac Telephone Company of West Virginia, The Diamond State Telephone Company, The Ohio Bell Telephone Company, The Pacific Telephone and Telegraph Company, or Wisconsin Telephone Company; and
 
 &emsp;&emsp;(B) includes any successor or assign of any such company that provides wireline telephone exchange service; but
 
@@ -106,7 +106,7 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 #### (23) Harbor
 
-&emsp;The term “harbor” or “port” means any place to which ships may resort for shelter or to load or unload passengers or goods, or to obtain fuel, water, or supplies. This term shall apply to such places whether proclaimed public or not and whether natural or artificial.
+&emsp;The term “harbor” or “port” means any place to which ships may resort for shelter orto load or unload passengers or goods, or to obtain fuel, water, or supplies. This term shall apply to such places whether proclaimed public or not and whether natural or artificial.
 
 #### (24) Information service
 
@@ -232,7 +232,7 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 &emsp;(C) A cargo ship means any ship not a passenger ship.
 
-&emsp;(D) A passenger is any person carried on board a ship or vessel except (1) the officers and crew actually employed to man and operate the ship, (2) persons employed to carry on the business of the ship, and (3) persons on board a ship when they are carried, either because of the obligation laid upon the master to carry shipwrecked, distressed, or other persons in like or similar situations or by reason of any circumstance over which neither the master, the owner, nor the charterer (if any) has control.
+&emsp;(D) A passenger is any person carried on board a ship or vessel except (1) the officers and crew actually employed to man and operate the ship, (2) persons employed to carry on the business of the ship, and (3) persons on board a ship when they are carried, either because of the obligation laid upon the master to carry shipwrecked, distressed, or other persons in like or similar situations or by reason ofany circumstance over which neither the master, the owner, nor the charterer (if any) has control.
 
 &emsp;(E) “Nuclear ship” means a ship provided with a nuclear powerplant.
 
@@ -297,6 +297,8 @@ For the purposes of this chapter, unless the context otherwise requires—
 (June 19, 1934, ch. 652, title I, §3, 48 Stat. 1065; May 20, 1937, ch. 229, §2, 50 Stat. 189; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, 60 Stat. 1352; July 16, 1952, ch. 879, §2, 66 Stat. 711; Apr. 27, 1954, ch. 175, §§2, 3, 68 Stat. 64; Aug. 13, 1954, ch. 729, §3, 68 Stat. 707; Aug. 13, 1954, ch. 735, §1, 68 Stat. 729; Aug. 6, 1956, ch. 973, §3, 70 Stat. 1049; Pub. L. 89–121, §1, Aug. 13, 1965, 79 Stat. 511; Pub. L. 90–299, §2, May 3, 1968, 82 Stat. 112; Pub. L. 97–259, title I, §120(b), Sept. 13, 1982, 96 Stat. 1097; Pub. L. 103–66, title VI, §6002(b)(2)(B)(ii), Aug. 10, 1993, 107 Stat. 396; Pub. L. 104–104, §3(a), (c), Feb. 8, 1996, 110 Stat. 58, 61; Pub. L. 105–33, title III, §3001(b), Aug. 5, 1997, 111 Stat. 258; Pub. L. 111–260, title I, §101, Oct. 8, 2010, 124 Stat. 2752.)
 
 #### References in Text
+
+This chapter, referred to in text, was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
 For definition of Canal Zone, referred to in pars. (28) and (58), see section 3602(b) of Title 22, Foreign Relations and Intercourse.
 
@@ -390,7 +392,7 @@ In General.—Except as provided in subsection (b), no person shall be liable fo
 
 &emsp;“(1) transmits, routes, or stores in intermediate or transient storage the communications made available through the provision of advanced communications services by a third party; or
 
-&emsp;“(2) provides an information location tool, such as a directory, index, reference, pointer, menu, guide,user interface, or hypertext link, through which an end user obtains access to such video programming, online content, applications, services, advanced communications services, or equipment used to provide or access advanced communications services.
+&emsp;“(2) provides an information location tool, such as a directory, index, reference, pointer, menu, guide, user interface, or hypertext link, through which an end user obtains access to such video programming, online content, applications, services, advanced communications services, or equipment used to provide or access advanced communications services.
 
 “(b)
 

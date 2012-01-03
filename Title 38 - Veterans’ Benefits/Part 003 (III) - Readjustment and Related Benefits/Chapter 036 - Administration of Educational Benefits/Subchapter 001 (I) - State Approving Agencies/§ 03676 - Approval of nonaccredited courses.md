@@ -64,7 +64,7 @@
 
 (d) The Secretary may waive, in whole or in part, the requirements of subsection (c)(13) of this section in the case of an educational institution which—
 
-&emsp;(1) is a college, university, or similar institution offering postsecondary level academicinstruction that leads to an associate or higher degree,
+&emsp;(1) is a college, university, or similar institution offering postsecondary level academic instruction that leads to an associate or higher degree,
 
 &emsp;(2) is operated by an agency of a State or of a unit of local government,
 

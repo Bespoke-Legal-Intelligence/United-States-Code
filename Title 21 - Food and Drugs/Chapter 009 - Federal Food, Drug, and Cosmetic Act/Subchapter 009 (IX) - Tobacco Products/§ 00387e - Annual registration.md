@@ -64,7 +64,7 @@ Any establishment within any foreign country engaged in the manufacture, prepara
 
 &emsp;&emsp;(B) If since the date the registrant last made a report under this paragraph that person has discontinued the manufacture, preparation, compounding, or processing for commercial distribution of a tobacco product included in a list filed under subparagraph (A) or paragraph (1), notice of such discontinuance, the date of such discontinuance, and the identity of its established name.
 
-&emsp;&emsp;(C) If since the date the registrant reported under subparagraph (B) a notice of discontinuance that person has resumed the manufacture, preparation, compounding, or processing for commercial distribution of the tobacco product with respect to which such notice of discontinuance was reported, notice of such resumption, the date of such resumption, the identity of such tobacco product by established name, and other information required by paragraph (1), unless the registrant has previously reported such resumption to the Secretary under this subparagraph.
+&emsp;&emsp;(C) If since the date the registrant reported under subparagraph (B) a notice of discontinuance that person has resumed the manufacture, preparation, compounding, or processing for commercial distribution of the tobacco product with respect to which such notice of discontinuance was reported, notice of such resumption, the date of suchresumption, the identity of such tobacco product by established name, and other information required by paragraph (1), unless the registrant has previously reported such resumption to the Secretary under this subparagraph.
 
 &emsp;&emsp;(D) Any material change in any information previously submitted under this paragraph or paragraph (1).
 

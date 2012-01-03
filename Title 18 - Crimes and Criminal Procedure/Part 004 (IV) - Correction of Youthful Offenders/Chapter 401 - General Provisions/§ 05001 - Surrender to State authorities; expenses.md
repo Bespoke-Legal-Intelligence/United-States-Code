@@ -4,7 +4,7 @@ Whenever any person under twenty-one years of age has been arrested, charged wit
 
 The United States marshal of such district upon written order of the United States attorney shall convey such person to such State or the District of Columbia, or, if already therein, to any other part thereof and deliver him into the custody of the proper authority thereof.
 
-Before any person is conveyed from one State to another or from or to the District of Columbia under this section, he shall signify his willingness to be so returned, or there shall be presented to the United States attorney a demand from the executive authority of such State or the District of Columbia, to which the prisoner is to be returned, supported by indictment or affidavit as prescribed by section 3182 of this title.
+Before any person is conveyed from one State to another or from or to the District of Columbia under this section, he shall signify his willingness to be so returned, or there shall be presented to the United States attorney a demandfrom the executive authority of such State or the District of Columbia, to which the prisoner is to be returned, supported by indictment or affidavit as prescribed by section 3182 of this title.
 
 The expense incident to the transportation of any such person, as herein authorized, shall be paid from the appropriation “Salaries, Fees, and Expenses, United States Marshals.”
 

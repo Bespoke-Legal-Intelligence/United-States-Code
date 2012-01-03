@@ -16,7 +16,7 @@
 
 #### (2) Prohibition on new entrants
 
-&emsp;The Administrator shall not issue any permit under this Act which authorizes a person to dump into ocean waters, or to transport for the purposes of dumping into ocean waters, sewage sludge or industrial waste, unless thatperson was authorized by a permit issued under section 1412 of this title or by a court order to dump into ocean waters, or to transport for the purpose of dumping into ocean waters, sewage sludge or industrial waste on September 1, 1988.
+&emsp;The Administrator shall not issue any permit under this Act which authorizes a person to dump into ocean waters, or to transport for the purposes of dumping into ocean waters, sewage sludge or industrial waste, unless that person was authorized by a permit issued under section 1412 of this title or by a court order to dump into ocean waters, or to transport for the purpose of dumping into ocean waters, sewage sludge or industrial waste on September 1, 1988.
 
 #### (b) Special dumping fees
 
@@ -48,7 +48,7 @@
 
 #### (4) Waiver of fees
 
-&emsp;(A) The Administrator shall waive all fees under this subsection, other than the portion of fees required to be paid to the Administrator under paragraph (2)(B) for agency activities, for any person who has entered into a compliance agreement which meets the requirements of subsection (c)(2) of this section.
+&emsp;(A) The Administrator shall waive all fees under this subsection, other than the portionof fees required to be paid to the Administrator under paragraph (2)(B) for agency activities, for any person who has entered into a compliance agreement which meets the requirements of subsection (c)(2) of this section.
 
 &emsp;(B) The Administrator shall reimpose fees under this subsection for a person for whom such fees are waived under subparagraph (A) if the Administrator determines that—
 
@@ -82,7 +82,7 @@
 
 &emsp;An agreement shall be a compliance agreement for purposes of this section only if—
 
-&emsp;&emsp;(A) it includes a plan negotiated by the person, the State in which the person is located, and the Administrator that will, in the opinion of the Administrator, if adhered to by the person in good faith, result in the phasing out and termination of ocean dumping, and transportation for the purpose of ocean dumping, of sewage sludge and industrial waste by such person by not later than December 31, 1991, through the design, construction, and full implementation of an alternative system for the management ofsewage sludge and industrial waste transported or dumped by the person;
+&emsp;&emsp;(A) it includes a plan negotiated by the person, the State in which the person is located, and the Administrator that will, in the opinion of the Administrator, if adhered to by the person in good faith, result in the phasing out and termination of ocean dumping, and transportation for the purpose of ocean dumping, of sewage sludge and industrial waste by such person by not later than December 31, 1991, through the design, construction, and full implementation of an alternative system for the management of sewage sludge and industrial waste transported or dumped by the person;
 
 &emsp;&emsp;(B) it includes a schedule which—
 

@@ -14,7 +14,11 @@ Section was enacted as part of the Department of Defense Appropriations Act, 200
 
 #### Similar Provisions
 
-Provisions similar to those in this section were contained in the following appropriation act:
+Provisions similar to those in this section were contained in the following appropriation acts:
+
+Pub. L. 112–74, div. A, title VIII, §8090, Dec. 23, 2011, 125 Stat. 827.
+
+Pub. L. 112–10, div. A, title VIII, §8091, Apr. 15, 2011, 125 Stat. 77.
 
 Pub. L. 111–118, div. A, title VIII, §8100, Dec. 19, 2009, 123 Stat. 3450.
 

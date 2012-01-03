@@ -8,7 +8,7 @@
 
 #### (2) Secretarial review
 
-&emsp;Not later than 60 days after receiving the submission under paragraph (1), the Secretaryshall review and augment the security assessments received, and conduct additional security assessments as necessary to ensure that at a minimum, all high risk public transportation agencies, as determined by the Secretary, will have a completed security assessment.
+&emsp;Not later than 60 days after receiving the submission under paragraph (1), the Secretary shall review and augment the security assessments received, and conduct additional security assessments as necessary to ensure that at a minimum, all high risk public transportation agencies, as determined by the Secretary, will have a completed security assessment.
 
 #### (3) Content
 
@@ -84,7 +84,7 @@ Not later than 180 days after August 3, 2007, the Secretary shall—
 
 #### (5) Waiver
 
-&emsp;The Secretary may waive the exemption provided in paragraph (4) to require a public transportation agency to develop a security plan under paragraph (1) in the absence of grant funds under section 1135 of this title if not less than 3 days after making the determination the Secretary provides the appropriate congressional committees and the public transportation agency written notification detailing the need for the security plan, thereasons grant funding has not been made available, and the reason the agency has been designated high risk.
+&emsp;The Secretary may waive the exemption provided in paragraph (4) to require a public transportation agency to develop a security plan under paragraph (1) in the absence of grant funds under section 1135 of this title if not less than 3 days after making the determination the Secretary provides the appropriate congressional committees and the public transportation agency written notification detailing the need for the security plan, the reasons grant funding has not been made available, and the reason the agency has been designated high risk.
 
 #### (d) Consistency with other plans
 

@@ -258,7 +258,7 @@ Section 606 of Public Law 101–162, referred to in subsec. (q)(3)(B), is sectio
 
 #### Amendments
 
-2009—Subsec. (v)(2)(B), (C). Pub. L. 111–117, which directed substitution of subpars. (B) and (C) for “subparagraphs (B) and (C) that appear within section 426(b) of division J of” Pub. L. 108–447, was executed by adding subpars. (B) and (C) to subsec. (v)(2) and striking out former subpars. (B) and (C), to reflect the probable intent of Congress. See 2004 Amendment note below. Prior to amendment, subpars. (B) and (C) read as follows:
+<b>2009</b>—Subsec. (v)(2)(B), (C). Pub. L. 111–117, which directed substitution of subpars. (B) and (C) for “subparagraphs (B) and (C) that appear within section 426(b) of division J of” Pub. L. 108–447, was executed by adding subpars. (B) and (C) to subsec. (v)(2) and striking out former subpars. (B) and (C), to reflect the probable intent of Congress. See 2004 Amendment note below. Prior to amendment, subpars. (B) and (C) read as follows:
 
 “(B)
 
@@ -268,11 +268,11 @@ Secretary of homeland security.—One-third of the amounts deposited into the Fr
 
 Secretary of labor.—One-third of the amounts deposited into the Fraud Prevention and Detection Account shall remain available to the Secretary of Labor until expended for enforcement programs and activities described in section 1182(n) of this title.”
 
-2007—Subsec. (v)(2)(A)(i). Pub. L. 109–472, §2(1), inserted “or primarily” after “exclusively”.
+<b>2007</b>—Subsec. (v)(2)(A)(i). Pub. L. 109–472, §2(1), inserted “or primarily” after “exclusively”.
 
 Subsec. (v)(2)(A)(ii). Pub. L. 109–472, §2(2), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “otherwise to prevent and detect such fraud pursuant to the terms of a memorandum of understanding or other cooperative agreement between the Secretary of State and the Secretary of Homeland Security; and”.
 
-2005—Subsec. (s)(6). Pub. L. 109–13, §6046, inserted “and section 1182(a)(5)(A) of this title” before period at end.
+<b>2005</b>—Subsec. (s)(6). Pub. L. 109–13, §6046, inserted “and section 1182(a)(5)(A) of this title” before period at end.
 
 Subsec. (v). Pub. L. 109–13, §403(b)(2), struck out “H–1B and L” before “Fraud Prevention” in heading.
 
@@ -288,7 +288,7 @@ Subsec. (v)(2)(C). Pub. L. 109–13, §403(b)(1)(A), struck out “H–1B and L�
 
 Subsec. (v)(2)(D). Pub. L. 109–13, §403(b)(1)(A), (D), struck out “H–1B and L” before “Fraud Prevention” and inserted “or for programs and activities to prevent and detect fraud with respect to petitions under paragraph (1) or (2)(A) of section 1184(c) of this title to grant an alien nonimmigrant status described in section 1101(a)(15)(H)(ii) of this title” before period at end.
 
-2004—Subsec. (s)(2). Pub. L. 108–447, §427(1), substituted “50 percent” for “55 percent”.
+<b>2004</b>—Subsec. (s)(2). Pub. L. 108–447, §427(1), substituted “50 percent” for “55 percent”.
 
 Subsec. (s)(3). Pub. L. 108–447, §427(2), substituted “30 percent” for “22 percent”.
 
@@ -300,13 +300,13 @@ Subsec. (s)(6). Pub. L. 108–447, §427(5), substituted “Beginning with fisca
 
 Subsec. (v). Pub. L. 108–447, §426(b), added subsec. (v).
 
-2003—Subsec. (e)(3). Pub. L. 108–7, §108, added par. (3) and struck out former par. (3) which read as follows: “The Attorney General shall charge and collect $3 per individual for the immigration inspection or pre-inspection of each commercial vessel passenger whose journey originated in the United States or in any place set forth in paragraph (1): <i>Provided</i>, That this requirement shall not apply to immigration inspection at designated ports of entry of passengers arriving by the following vessels, when operating on a regular schedule: Great Lakes international ferries, or Great Lakes Vessels on the Great Lakes and connecting waterways.”
+<b>2003</b>—Subsec. (e)(3). Pub. L. 108–7, §108, added par. (3) and struck out former par. (3) which read as follows: “The Attorney General shall charge and collect $3 per individual for the immigration inspection or pre-inspection of each commercial vessel passenger whose journey originated in the United States or in any place set forth in paragraph (1): <i>Provided</i>, That this requirement shall not apply to immigration inspection at designated ports of entry of passengers arriving by the following vessels, when operating on a regular schedule: Great Lakes international ferries, or Great Lakes Vessels on the Great Lakes and connecting waterways.”
 
 Subsec. (m). Pub. L. 108–7, §107, repealed Pub. L. 107–296, §457. See 2002 Amendment note below.
 
 Subsec. (s)(1). Pub. L. 108–77, §§107(c), 402(d)(2), temporarily substituted “paragraphs (9) and (11) of section 1184(c) of this title” for “section 1184(c)(9) of this title”. See Effective and Termination Dates of 2003 Amendment note below.
 
-2002—Subsec. (e)(3). Pub. L. 107–206 substituted “shall” for “is authorized to” and “requirement” for “authorization”.
+<b>2002</b>—Subsec. (e)(3). Pub. L. 107–206 substituted “shall” for “is authorized to” and “requirement” for “authorization”.
 
 Subsec. (g). Pub. L. 107–173 struck out “, within forty-five minutes of their presentation for inspection,” after “adequately provided” in introductory provisions.
 
@@ -314,7 +314,7 @@ Subsec. (m). Pub. L. 107–296, §457, which directed the substitution of “suc
 
 Subsec. (q)(2). Pub. L. 107–273 inserted “, including receipts for services performed in processing forms I–94, I–94W, and I–68, and other similar applications processed at land border ports of entry,” after “subsection”.
 
-2001—Subsec. (d). Pub. L. 107–77, §109(1), substituted “$7” for “$6”.
+<b>2001</b>—Subsec. (d). Pub. L. 107–77, §109(1), substituted “$7” for “$6”.
 
 Subsec. (e)(1). Pub. L. 107–77, §109(2), substituted “Except as provided in paragraph (3), no” for “No”.
 
@@ -322,7 +322,7 @@ Subsec. (e)(3). Pub. L. 107–77, §109(3), added par. (3).
 
 Subsec. (q)(1)(A)(i). Pub. L. 107–77, §110, which directed the substitution of “96” for “6” in section 286(q)(1)(A) of the Immigration and Nationality Act of 1953, was executed by making the substitution in section 286(q)(1)(A) of the Immigration and Nationality Act to reflect the probable intent of Congress.
 
-2000—Subsec. (s)(2). Pub. L. 106–313, §110(a)(1), substituted “55 percent” for “56.3 percent”.
+<b>2000</b>—Subsec. (s)(2). Pub. L. 106–313, §110(a)(1), substituted “55 percent” for “56.3 percent”.
 
 Subsec. (s)(3). Pub. L. 106–313, §113(b), provided that in the amendment made by section 110(a)(2) of Pub. L. 106–313 the figure to be inserted is deemed to be “22 percent”. See below.
 
@@ -350,13 +350,13 @@ Pub. L. 106–313, §110(a)(5), substituted “2.5 percent” for “3 percent�
 
 Subsecs. (t), (u). Pub. L. 106–553 added subsecs. (t) and (u).
 
-1999—Subsec. (q)(1)(A)(ii) to (iv). Pub. L. 106–113, which directed amendment of section 286(q)(1)(A) of the Immigration and Nationality Act of 1953 by striking out cl. (ii), redesignating cl. (iii) as (ii), striking out “, until September 30, 2000,” after “submit on a quarterly basis” in cl. (iv), and redesignating cl. (iv) as (iii), was executed by making the amendment to this section, which is section 286 of the Immigration and Nationality Act, to reflect the probable intent of Congress. Prior to amendment, cl. (ii) read as follows: “The program authorized in this subparagraph shall terminate on September 30, 2000, unless further authorized by an Act of Congress.”
+<b>1999</b>—Subsec. (q)(1)(A)(ii) to (iv). Pub. L. 106–113, which directed amendment of section 286(q)(1)(A) of the Immigration and Nationality Act of 1953 by striking out cl. (ii), redesignating cl. (iii) as (ii), striking out “, until September 30, 2000,” after “submit on a quarterly basis” in cl. (iv), and redesignating cl. (iv) as (iii), was executed by making the amendment to this section, which is section 286 of the Immigration and Nationality Act, to reflect the probable intent of Congress. Prior to amendment, cl. (ii) read as follows: “The program authorized in this subparagraph shall terminate on September 30, 2000, unless further authorized by an Act of Congress.”
 
-1998—Subsec. (e)(1)(C). Pub. L. 105–277, §101(b) \[title I, §114\], inserted “State,” before “territory”.
+<b>1998</b>—Subsec. (e)(1)(C). Pub. L. 105–277, §101(b) \[title I, §114\], inserted “State,” before “territory”.
 
 Subsec. (s). Pub. L. 105–277, §414(b), added subsec. (s).
 
-1997—Subsec. (r)(2). Pub. L. 105–119, §110(2)(A), inserted “, and amount described in section 1255(i)(3)(b) of this title” after “recovered by the Department of Justice”.
+<b>1997</b>—Subsec. (r)(2). Pub. L. 105–119, §110(2)(A), inserted “, and amount described in section 1255(i)(3)(b) of this title” after “recovered by the Department of Justice”.
 
 Subsec. (r)(3). Pub. L. 105–119, §110(2)(B), substituted “Attorney General” for “Immigration and Naturalization Service” in introductory provisions.
 
@@ -364,7 +364,7 @@ Subsec. (r)(4). Pub. L. 105–119, §110(2)(C), added par. (4) and struck out fo
 
 Subsec. (s). Pub. L. 105–119, §110(1), struck out heading and text of subsec. (s) which established Immigration Detention Account in general fund of the Treasury to be drawn upon to refund to any appropriation amounts paid out for expenses incurred by Attorney General for detention of aliens.
 
-1996—Subsec. (a). Pub. L. 104–208, §308(g)(1), substituted “section 1223(b)” for “section 1228(b)”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–208, §308(g)(1), substituted “section 1223(b)” for “section 1228(b)”.
 
 Subsec. (h)(1)(A). Pub. L. 104–208, §671(e)(5), inserted period after “expended”.
 
@@ -402,7 +402,7 @@ Subsec. (r)(4), (6). Pub. L. 104–208, §671(b)(11), substituted “the Fund”
 
 Subsec. (s). Pub. L. 104–208, §376(b), added subsec. (s).
 
-1994—Subsec. (r). Pub. L. 103–416, §219(t)(1), substituted “Fund” for “Account” in heading.
+<b>1994</b>—Subsec. (r). Pub. L. 103–416, §219(t)(1), substituted “Fund” for “Account” in heading.
 
 Subsec. (r)(1). Pub. L. 103–416, §219(t)(2), substituted “(in this subsection referred to as the ‘Fund’)” for “(hereafter referred to as the Fund)”.
 
@@ -416,13 +416,13 @@ Subsec. (r)(5). Pub. L. 103–416, §219(t)(6), substituted “Fund” for “ac
 
 Subsec. (r)(6). Pub. L. 103–416, §219(t)(4), struck out “the Breached Bond/Detention” before “Fund” in two places.
 
-1993—Subsec. (d). Pub. L. 103–121 substituted “$6” for “$5”.
+<b>1993</b>—Subsec. (d). Pub. L. 103–121 substituted “$6” for “$5”.
 
 Subsec. (h)(2)(A)(v), (vi). Pub. L. 103–121, which directed the amendment of subpar. (A) by “deleting subsection (v)” and adding new cls. (v) and (vi), was executed by adding cls. (v) and (vi) and striking out former cl. (v) which read as follows: “providing detention and deportation services for excludable aliens arriving on commercial aircraft and vessels.”, to reflect the probable intent of Congress.
 
-1992—Subsec. (r). Pub. L. 102–395 added subsec. (r).
+<b>1992</b>—Subsec. (r). Pub. L. 102–395 added subsec. (r).
 
-1991—Subsec. (e)(1)(D). Pub. L. 102–232, §309(b)(12), made an amendment to reference to section 1101(b)(5) of this title involving corresponding provision of original act.
+<b>1991</b>—Subsec. (e)(1)(D). Pub. L. 102–232, §309(b)(12), made an amendment to reference to section 1101(b)(5) of this title involving corresponding provision of original act.
 
 Subsec. (f)(3). Pub. L. 102–232, §309(a)(2)(B), made technical correction to directory language of Pub. L. 101–515, §210(a)(2). See 1990 Amendment note below.
 
@@ -448,7 +448,7 @@ Subsec. (q)(3)(A). Pub. L. 102–232, §309(a)(2)(A)(iii), (iv), inserted “the
 
 Subsec. (q)(5)(B). Pub. L. 102–232, §309(a)(2)(A)(v), substituted “paragraph (1)” for “subsection (q)(1)”.
 
-1990—Subsec. (e)(1). Pub. L. 101–515, §210(a)(1), inserted “, other than aircraft passengers,” after “arrival of any passenger”.
+<b>1990</b>—Subsec. (e)(1). Pub. L. 101–515, §210(a)(1), inserted “, other than aircraft passengers,” after “arrival of any passenger”.
 
 Subsec. (f)(3). Pub. L. 101–515, §210(a)(2), as amended by Pub. L. 102–232, §309(a)(2)(B), inserted “, except the fourth quarter payment for fees collected from airline passengers shall be made on the date that is ten days before the end of the fiscal year, and the first quarter payment shall include any collections made in the preceding quarter that were not remitted with the previous payment” after “in which the fees are collected”.
 
@@ -462,9 +462,9 @@ Subsec. (m). Pub. L. 101–515, §210(d)(1), (2), inserted “as offsetting rece
 
 Subsec. (q). Pub. L. 101–515, §210(d)(3), added subsec. (q).
 
-1989—Subsec. (n). Pub. L. 101–162, as amended by Pub. L. 102–232, §309(a)(1)(B), struck out “in excess of$50,000,000” before “shall remain available” and struck out after first sentence “At least annually, deposits in the amount of $50,000,000 shall be transferred from the ‘Immigration Examinations Fee Account’ to the General Fund of the Treasury of the United States.”
+<b>1989</b>—Subsec. (n). Pub. L. 101–162, as amended by Pub. L. 102–232, §309(a)(1)(B), struck out “in excess of$50,000,000” before “shall remain available” and struck out after first sentence “At least annually, deposits in the amount of $50,000,000 shall be transferred from the ‘Immigration Examinations Fee Account’ to the General Fund of the Treasury of the United States.”
 
-1988—Subsec. (a). Pub. L. 100–525, §8(f), added Pub. L. 99–653, §7(d)(1). See 1986 Amendment note below.
+<b>1988</b>—Subsec. (a). Pub. L. 100–525, §8(f), added Pub. L. 99–653, §7(d)(1). See 1986 Amendment note below.
 
 Subsecs. (d) to (<i>l</i>). Pub. L. 100–525, §4(a)(2)(A), (d), amended Pub. L. 99–500 and Pub. L. 99–591. See 1986 Amendment note below.
 
@@ -490,15 +490,15 @@ Subsec. (<i>l</i>). Pub. L. 100–525, §4(a)(1)(E), struck out subsec. (<i>l</i
 
 Subsecs. (m) to (p). Pub. L. 100–459, as amended by Pub. L. 102–232, §309(a)(1)(A)(i)(I), added subsecs. (m) to (p).
 
-1987—Subsec. (h)(1)(A). Pub. L. 100–71, directed the general amendment of first sentence of section 205(h)(1)(A) of the Departments of Commerce, Justice, and State, and the Judiciary and Related Agencies Appropriations Act, 1987, in Pub. L. 99–500 and Pub. L. 99–591. Section 205 of such act does not contain a subsec. (h)(1)(A) but did enact subsec. (h)(1)(A) of this section and had such amendment been executed to first sentence of subsec. (h)(1)(A) of this section it would have resulted in inserting “, to remain available until expended” after “Treasury of the United States”. See 1988 Amendment note above.
+<b>1987</b>—Subsec. (h)(1)(A). Pub. L. 100–71, directed the general amendment of first sentence of section 205(h)(1)(A) of the Departments of Commerce, Justice, and State, and the Judiciary and Related Agencies Appropriations Act, 1987, in Pub. L. 99–500 and Pub. L. 99–591. Section 205 of such act does not contain a subsec. (h)(1)(A) but did enact subsec. (h)(1)(A) of this section and had such amendment been executed to first sentence of subsec. (h)(1)(A) of this section it would have resulted in inserting “, to remain available until expended” after “Treasury of the United States”. See 1988 Amendment note above.
 
-1986—Subsec. (a). Pub. L. 99–653, §7(d)(1), as added by Pub. L. 100–525, §8(f), substituted “section 1228(b) of this title” for “section 1228(c) of this title”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–653, §7(d)(1), as added by Pub. L. 100–525, §8(f), substituted “section 1228(b) of this title” for “section 1228(c) of this title”.
 
 Subsecs. (d) to (<i>l</i>). Pub. L. 99–500, §101(b) \[title II, §205(a), formerly §205\], as redesignated by Pub. L. 100–525, §4(a)(2)(A), added subsecs. (d) to (<i>l</i>).
 
 Pub. L. 99–591, §101(b) \[title II, §205\], a corrected version of Pub. L. 99–500, §101(b) \[title II, §205(a)\], was repealed by Pub. L. 100–525, §4(d), effective as of Oct. 30, 1986.
 
-1981—Subsecs. (b), (c). Pub. L. 97–116 added subsec. (b), redesignated former subsec. (b) as (c), and inserted “and subsection (b)” after “subsection (a)”.
+<b>1981</b>—Subsecs. (b), (c). Pub. L. 97–116 added subsec. (b), redesignated former subsec. (b) as (c), and inserted “and subsection (b)” after “subsection (a)”.
 
 #### Effective Date of 2009 Amendment
 

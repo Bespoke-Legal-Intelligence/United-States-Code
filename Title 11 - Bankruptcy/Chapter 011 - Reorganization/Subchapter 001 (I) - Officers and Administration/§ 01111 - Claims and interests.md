@@ -20,7 +20,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 A discussion of section 1111(b) of the House amendment is best considered in the context of confirmation and will therefore, be discussed in connection with section 1129.
 
@@ -30,5 +30,5 @@ This section dispenses with the need for every creditor and equity security hold
 
 #### Amendments
 
-2010—Subsec. (a). Pub. L. 111–327 substituted “521(a)(1)” for “521(1)”.
+<b>2010</b>—Subsec. (a). Pub. L. 111–327 substituted “521(a)(1)” for “521(1)”.
 

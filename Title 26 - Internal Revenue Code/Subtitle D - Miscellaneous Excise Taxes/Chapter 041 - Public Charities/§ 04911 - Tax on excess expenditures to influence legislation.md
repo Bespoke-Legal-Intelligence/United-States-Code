@@ -45,7 +45,7 @@ For purposes of this section—
 
 #### (4) Grass roots nontaxable amount
 
-&emsp;The grass roots nontaxable amount for any organization for any taxable year is 25 percent of the lobbying nontaxable amount (determined under paragraph (2)) for such organization for such taxable year.
+&emsp;The grass roots nontaxable amount for any organization for any taxable year is 25 percentof the lobbying nontaxable amount (determined under paragraph (2)) for such organization for such taxable year.
 
 #### (d) Influencing legislation
 
@@ -55,7 +55,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) any attempt to influence any legislation through an attempt to affect the opinions of the general public or any segment thereof, and
 
-&emsp;&emsp;(B) any attempt to influence any legislation through communication with any member or employee of a legislative body, orwith any government official or employee who may participate in the formulation of the legislation.
+&emsp;&emsp;(B) any attempt to influence any legislation through communication with any member or employee of a legislative body, or with any government official or employee who may participate in the formulation of the legislation.
 
 #### (2) Exceptions
 
@@ -123,7 +123,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;Except as otherwise provided in paragraph (4), if for a taxable year two or more organizations described in section 501(c)(3) are members of an affiliated group of organizations as defined in paragraph (2), and an election under section 501(h) is effective for at least one such organization for such year, then—
+&emsp;Except as otherwise provided in paragraph (4), if for a taxable year two or more organizations described in section 501(c)(3) are members of an affiliated group of organizations as defined in paragraph (2), and an election undersection 501(h) is effective for at least one such organization for such year, then—
 
 &emsp;&emsp;(A) the determination as to whether excess lobbying expenditures have been made and the determination as to whether the expenditure limits of section 501(h)(1) have been exceeded shall be made as though such affiliated group is one organization,
 

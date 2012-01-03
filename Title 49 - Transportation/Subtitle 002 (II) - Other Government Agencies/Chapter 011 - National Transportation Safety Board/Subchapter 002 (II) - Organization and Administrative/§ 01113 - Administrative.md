@@ -40,7 +40,7 @@ Submission of Certain Copies to Congress.—When the Board submits to the Presid
 
 (d)
 
-Liaison Committees.—The Chairman may determine the number of committees that areappropriate to maintain effective liaison with other departments, agencies, and instrumentalities of the Government, State and local governmental authorities, and independent standard-setting authorities that carry out programs and activities related to transportation safety. The Board may designate representatives to serve on or assist those committees.
+Liaison Committees.—The Chairman may determine the number of committees that are appropriate to maintain effective liaison with other departments, agencies, and instrumentalities of the Government, State and local governmental authorities, and independent standard-setting authorities that carry out programs and activities related to transportation safety. The Board may designate representatives to serve on or assist those committees.
 
 (e)
 
@@ -156,7 +156,7 @@ Jan. 3, 1975, Pub. L. 93–633, §304(b)(6), 88 Stat. 2170; July 19, 1988, Pub. 
 
 Jan. 3, 1975, Pub. L. 93–633, §304(b)(12), 88 Stat. 2171; July 19, 1988, Pub. L. 100–372, §4, 102 Stat. 876; Nov. 28, 1990, Pub. L. 101–641, §6, 104 Stat. 4656.
 
-In subsection (a)(1), the words “sit and act at such times and places” are omitted as unnecessary. The word “necessary” is substituted for “as the Board or such officer or employee deems advisable” because it is more accurate.
+In subsection (a)(1), the words “sit and act at such times and places” are omitted as unnecessary. The word “necessary” is substituted for “as the Board orsuch officer or employee deems advisable” because it is more accurate.
 
 In subsection (a)(2), the words “the witness would have been” are added for clarity and consistency in the revised title and with other titles of the United States Code.
 
@@ -226,5 +226,5 @@ Report on Usage.—On July 1 of each year, as part of the annual report required
 
 #### Travel Budgets
 
-Pub. L. 106–424, §9, Nov. 1, 2000, 114 Stat. 1886, provided that: “The Chairman of the National Transportation Safety Board shall establish annual fiscal year budgets for non-accident-related travel expenditures for Board members which shall be approved by the Board and submitted to the Senate Committee on Commerce, Science, and Transportation and to the House of Representatives Committee on Transportation and Infrastructure together with an annual report detailing the non-accident-related travel of each Board member. The report shall include separate accounting for foreign and domestic travel, including any personnel or other expenses associated with that travel.”
+Pub. L. 106–424, §9, Nov. 1, 2000, 114 Stat. 1886, provided that: “The Chairman of the National Transportation Safety Board shall establish annual fiscal year budgets for non-accident-related travel expenditures for Board members which shall be approved by the Board and submitted to the Senate Committee on Commerce, Science, and Transportation and to the House of Representatives Committee on Transportation and Infrastructure together with an annual report detailingthe non-accident-related travel of each Board member. The report shall include separate accounting for foreign and domestic travel, including any personnel or other expenses associated with that travel.”
 

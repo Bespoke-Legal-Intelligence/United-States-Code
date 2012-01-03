@@ -20,7 +20,7 @@ Not later than September 30 of 2009 and of each subsequent year, the Inspector G
 
 The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of this chapter. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
-This section, referred to in par. (1), means section 7001 of Pub. L. 110–252, which enacted this section and section 1396w of this title, amended sections 1396a and 1396b of this title, and repealed provisions set out as a note under section 1396a of this title.
+This section, referred to in par. (1), means section 7001 of Pub. L. 110–252, which enacted this section andsection 1396w of this title, amended sections 1396a and 1396b of this title, and repealed provisions set out as a note under section 1396a of this title.
 
 #### Codification
 

@@ -1,6 +1,6 @@
 ### §6323. Military leave; Reserves and National Guardsmen
 
-(a)(1) Subject to paragraph (2) of this subsection, an employee as defined by section 2105 of this title or an individual employed by the government of the District of Columbia, permanent or temporary indefinite, is entitled to leave without loss in pay, time, or performance or efficiency rating for active duty, inactive-duty training (as defined in section 101 of title 37), funeral honors duty (as described in section 12503 of title 10 and section 115 of title 32), or engaging in field or coast defense training under sections 502–505 of title 32 as a Reserve of the armed forces or member of the National Guard. Leave under this subsection accrues for an employee or individual at the rate of 15 days per fiscal year and, to the extent that it is not used in a fiscal year, accumulates for use in the succeeding fiscal year until it totals 15 days at the beginning of a fiscal year.
+(a)(1) Subject to paragraph (2) of this subsection, an employee as defined by section 2105of this title or an individual employed by the government of the District of Columbia, permanent or temporary indefinite, is entitled to leave without loss in pay, time, or performance or efficiency rating for active duty, inactive-duty training (as defined in section 101 of title 37), funeral honors duty (as described in section 12503 of title 10 and section 115 of title 32), or engaging in field or coast defense training under sections 502–505 of title 32 as a Reserve of the armed forces or member of the National Guard. Leave under this subsection accrues for an employee or individual at the rate of 15 days per fiscal year and, to the extent that it is not used in a fiscal year, accumulates for use in the succeeding fiscal year until it totals 15 days at the beginning of a fiscal year.
 
 (2) In the case of an employee or individual employed on a part-time career employment basis (as defined in section 3401(2) of this title), the rate at which leave accrues under this subsection shall be a percentage of the rate prescribed under paragraph (1) which is determined by dividing 40 into the number of hours in the regularly scheduled workweek of that employee or individual during that fiscal year.
 
@@ -62,37 +62,37 @@ Section 8401(30) of this title, referred to in subsec. (d)(1), was amended gener
 
 #### Amendments
 
-2004—Subsec. (d)(1). Pub. L. 108–375 struck out “(other than active duty during a war or national emergency declared by the President or Congress)” before “for participation in”.
+<b>2004</b>—Subsec. (d)(1). Pub. L. 108–375 struck out “(other than active duty during a war or national emergency declared by the President or Congress)” before “for participation in”.
 
-2003—Subsec. (b)(2). Pub. L. 108–136 designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpar. (B).
+<b>2003</b>—Subsec. (b)(2). Pub. L. 108–136 designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpar. (B).
 
-2001—Subsec. (a)(1). Pub. L. 107–107 inserted “funeral honors duty (as described in section 12503 of title 10 and section 115 of title 32),” after “(as defined in section 101 of title 37),”.
+<b>2001</b>—Subsec. (a)(1). Pub. L. 107–107 inserted “funeral honors duty (as described in section 12503 of title 10 and section 115 of title 32),” after “(as defined in section 101 of title 37),”.
 
-2000—Subsec. (a)(3). Pub. L. 106–554 added par. (3).
+<b>2000</b>—Subsec. (a)(3). Pub. L. 106–554 added par. (3).
 
-1999—Subsec. (a)(1). Pub. L. 106–65, §1106(a), inserted “, inactive-duty training (as defined in section 101 of title 37),” after “active duty” in first sentence.
+<b>1999</b>—Subsec. (a)(1). Pub. L. 106–65, §1106(a), inserted “, inactive-duty training (as defined in section 101 of title 37),” after “active duty” in first sentence.
 
 Subsec. (d)(1). Pub. L. 106–65, §§672(b) and 1105(a), amended par. (1) identically, striking out “noncombat” after “for participation in”.
 
-1996—Subsec. (b). Pub. L. 104–106, §516(a), inserted at end “Upon the request of an employee, the period for which an employee is absent to perform service described in paragraph (2) may be charged to the employee's accrued annual leave or to compensatory time available to the employee instead of being charged as leave to which the employee is entitled under this subsection. The period of absence may not be charged to sick leave.”
+<b>1996</b>—Subsec. (b). Pub. L. 104–106, §516(a), inserted at end “Upon the request of an employee, the period for which an employee is absent to perform service described in paragraph (2) may be charged to the employee's accrued annual leave or to compensatory time available to the employee instead of being charged as leave to which the employee is entitled under this subsection. The period of absence may not be charged to sick leave.”
 
 Subsec. (d). Pub. L. 104–106, §1039, added subsec. (d).
 
-1994—Subsec. (b)(1). Pub. L. 103–337, §1677(a)(2)(A), substituted “section 10101” for “section 261”.
+<b>1994</b>—Subsec. (b)(1). Pub. L. 103–337, §1677(a)(2)(A), substituted “section 10101” for “section 261”.
 
 Subsec. (b)(2)(A). Pub. L. 103–337, §1677(a)(2)(B), substituted “or 12406 of title 10” for “3500, or 8500 of title 10”.
 
-1991—Subsec. (b)(2). Pub. L. 102–190 substituted “law or for the purpose of providing assistance to civil authorities in the protection or saving of life or property or the prevention of injury—” for “law—” in introductory provisions.
+<b>1991</b>—Subsec. (b)(2). Pub. L. 102–190 substituted “law or for the purpose of providing assistance to civil authorities in the protection or saving of life or property or the prevention of injury—” for “law—” in introductory provisions.
 
-1980—Subsec. (a). Pub. L. 96–431 designated existing provisions as par. (1), substituted “Subject to paragraph (2) of this subsection, an employee” for “An employee” and “for active duty or engaging in field or coast defense training” for “for each day, not in excess of 15 days in a calendar year, in which he is on active duty or is engaged in field or coast defense training”, inserted provision relating to accrual and accumulation of leave, and added par. (2).
+<b>1980</b>—Subsec. (a). Pub. L. 96–431 designated existing provisions as par. (1), substituted “Subject to paragraph (2) of this subsection, an employee” for “An employee” and “for active duty or engaging in field or coast defense training” for “for each day, not in excess of 15 days in a calendar year, in which he is on active duty or is engaged in field or coast defense training”, inserted provision relating to accrual and accumulation of leave, and added par. (2).
 
-1979—Subsec. (b)(2)(B). Pub. L. 96–70 which directed the amendment of subsec. (c)(2)(B) by striking out “the Canal Zone,” was executed to subsec. (b)(2)(B) in view of the redesignation of subsec. (c) as (b) by Pub. L. 96–54. See 1979 Amendment note below.
+<b>1979</b>—Subsec. (b)(2)(B). Pub. L. 96–70 which directed the amendment of subsec. (c)(2)(B) by striking out “the Canal Zone,” was executed to subsec. (b)(2)(B) in view of the redesignation of subsec. (c) as (b) by Pub. L. 96–54. See 1979 Amendment note below.
 
 Subsec. (b). Pub. L. 96–54 redesignated subsec. (c), as added by Pub. L. 90–588, as (b). Former subsec. (b), relating to military leave, was repealed by Pub. L. 91–375, §6(c)(18)(B), Aug. 12, 1970, 84 Stat. 776.
 
 Subsec. (c). Pub. L. 96–54 redesignated subsec. (c), as added by Pub. L. 90–588, as (b).
 
-1970—Subsec. (a). Pub. L. 91–375, §6(c)(18)(A), struck out “(except a substitute in the postal field service)” after “section 2105 of this title”.
+<b>1970</b>—Subsec. (a). Pub. L. 91–375, §6(c)(18)(A), struck out “(except a substitute in the postal field service)” after “section 2105 of this title”.
 
 Subsec. (b). Pub. L. 91–375, §6(c)(18)(B), struck out subsec. (b) relating to military leave, without loss in pay, time, or efficiency rating, of substitute employees of the postal service, not in excess of 80 hours in a calendar year, for National Guard training as Reserves of the Armed Forces or members of the National Guard, on basis of 1 hour for 26 hours of work, including minimum working period of 1,040 hours in the prior calendar year.
 
@@ -100,7 +100,7 @@ Subsec. (c). Pub. L. 91–375, §6(c)(18)(A), struck out “(except a substitute
 
 Subsec. (d). Pub. L. 91–375, §6(c)(18)(B), struck out subsec. (d) relating to military leave, without loss of or reduction in pay, leave, service credit, or efficiency rating, of substitute employees of the postal service, not in excess of 160 hours in a calendar year, for service as members of Reserve components of the Armed Forces or the National Guard, for Federal service under insurrection provisions of sections 331, 332, and 333 and in the Army National Guard and Air National Guard under sections 3500 and 8500 of Title 10 and non-Federal service (in the States, District of Columbia, Puerto Rico, Canal Zone, and the territories) for purpose of providing military aid to enforce the law, on basis of 1 hour for 13 hours of work, including minimum working period of 1,040 hours in the prior calendar year.
 
-1968—Subsecs. (a), (b). Pub. L. 90–623, §1(17)(A), substituted “loss in” for “loss of”.
+<b>1968</b>—Subsecs. (a), (b). Pub. L. 90–623, §1(17)(A), substituted “loss in” for “loss of”.
 
 Subsec. (c). Pub. L. 90–623, §1(17)(B), added subsec. (c), set out second.
 

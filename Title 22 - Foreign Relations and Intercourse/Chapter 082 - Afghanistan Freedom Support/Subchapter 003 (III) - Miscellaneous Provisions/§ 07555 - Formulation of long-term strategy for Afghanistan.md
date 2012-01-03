@@ -16,7 +16,7 @@
 
 #### (2) Contents
 
-&emsp;The strategy formulated under paragraph (1) shall include specific and measurable goals for addressing the long-term development and security needs of Afghanistan, including sectors such as agriculture and irrigation, parliamentary and democratic development, the judicial system and rule of law, human rights, education, health, telecommunications, electricity, women's rights, counternarcotics, police, border security, anti-corruption, andother law-enforcement activities, as well as the anticipated costs and time frames associated with achieving those goals.
+&emsp;The strategy formulated under paragraph (1) shall include specific and measurable goals for addressing the long-term development and security needs of Afghanistan, including sectors such as agriculture and irrigation, parliamentary and democratic development, the judicial system and rule of law, human rights, education, health, telecommunications, electricity, women's rights, counternarcotics, police, border security, anti-corruption, and other law-enforcement activities, as well as the anticipated costs and time frames associated with achieving those goals.
 
 #### (b) Monitoring
 

@@ -34,7 +34,7 @@ Exceptions.—(A) An application shall not be published if that application is�
 
 &emsp;(iii) An applicant who has made a request under clause (i) but who subsequently files, in a foreign country or under a multilateral international agreement specified in clause (i), an application directed to the invention disclosed in the application filed in the Patent and Trademark Office, shall notify the Director of such filing not later than 45 days after the date of the filing of such foreign or international application. A failure of the applicant to provide such notice within the prescribed period shall result in the application being regarded as abandoned, unless it is shown to the satisfaction of the Director that the delay in submitting the notice was unintentional.
 
-&emsp;(iv) If an applicant rescinds a request made under clause (i) or notifies the Director thatan application was filed in a foreign country or under a multilateral international agreement specified in clause (i), the application shall be published in accordance with the provisions of paragraph (1) on or as soon as is practical after the date that is specified in clause (i).
+&emsp;(iv) If an applicant rescinds a request made under clause (i) or notifies the Director that an application was filed in a foreign country or under a multilateral international agreement specified in clause (i), the application shall be published in accordance with the provisions of paragraph (1) on or as soon as is practical after the date that is specified in clause (i).
 
 &emsp;(v) If an applicant has filed applications in one or more foreign countries, directly or through a multilateral international agreement, and such foreign filed applications corresponding to an application filed in the Patent and Trademark Office or the description of the invention in such foreign filed applications is less extensive than the application or description of the invention in the application filed in the Patent and Trademark Office, the applicant may submit a redacted copy of the application filed in the Patent and Trademark Office eliminating any part or description of the invention in such application that is not also contained in any of the corresponding applications filed in a foreign country. The Director may only publish the redacted copy of the application unless the redacted copy of the application is not received within 16 months after the earliest effective filing date for which a benefit is sought under this title. The provisions of section 154(d) shall not apply to a claim if the description of the invention published in the redacted application filed under this clause with respect to the claim does not enable a person skilled in the art to make and use the subject matter of the claim.
 
@@ -46,7 +46,41 @@ Protest and Pre-Issuance Opposition.—The Director shall establish appropriate 
 
 National Security.—No application for patent shall be published under subsection (b)(1) if the publication or disclosure of such invention would be detrimental to the national security. The Director shall establish appropriate procedures to ensure that such applications are promptly identified and the secrecy of such inventions is maintained in accordance with chapter 17 of this title.
 
-(July 19, 1952, ch. 950, 66 Stat. 801; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4502(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–561.)
+(July 19, 1952, ch. 950, 66 Stat. 801; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4502(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–561; Pub. L. 112–29, §§8(a), 20(j), Sept. 16, 2011, 125 Stat. 315, 335.)
+
+#### Amendment of Section
+
+<i>Pub. L. 112–29, §8, Sept. 16, 2011, 125 Stat. 315, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to any patent application filed before, on, or after that effective date, this section is amended by adding at the end the following:</i>
+
+<i>(e)</i>
+
+<i>Preissuance Submissions by Third Parties.—</i>
+
+&emsp;<i>(1)</i>
+
+<i>In general.—Any third party may submit for consideration and inclusion in the record of a patent application, any patent, published patent application, or other printed publication of potential relevance to the examination of the application, if such submission is made in writing before the earlier of—</i>
+
+&emsp;&emsp;<i>(A) the date a notice of allowance under section 151 is given or mailed in the application for patent; or</i>
+
+&emsp;&emsp;<i>(B) the later of—</i>
+
+&emsp;&emsp;&emsp;<i>(i) 6 months after the date on which the application for patent is first published under section 122 by the Office, or</i>
+
+&emsp;&emsp;&emsp;<i>(ii) the date of the first rejection under section 132 of any claim by the examiner during the examination of the application for patent.</i>
+
+&emsp;<i>(2)</i>
+
+<i>Other requirements.—Any submission under paragraph (1) shall—</i>
+
+&emsp;&emsp;<i>(A) set forth a concise description of the asserted relevance of each submitted document;</i>
+
+&emsp;&emsp;<i>(B) be accompanied by such fee as the Director may prescribe; and</i>
+
+&emsp;&emsp;<i>(C) include a statement by the person making such submission affirming that the submission was made in compliance with this section.</i>
+
+<i>See 2011 Amendment note below.</i>
+
+<i>Pub. L. 112–29, §20(j), (l), Sept. 16, 2011, 125 Stat. 335, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, this section is amended by striking “of this title” each place that term appears. See 2011 Amendment notes below.</i>
 
 #### Historical and Revision Notes
 
@@ -54,9 +88,25 @@ This section enacts the Patent Office rule of secrecy of applications.
 
 #### Amendments
 
+<b>2011</b>—Subsec. (b)(2)(A)(ii). Pub. L. 112–29, §20(j), struck out “of this title” after “181”.
+
+Subsec. (b)(2)(A)(iii). Pub. L. 112–29, §20(j), struck out “of this title” after “111(b)”.
+
+Subsec. (b)(2)(A)(iv). Pub. L. 112–29, §20(j), struck out “of this title” after “16”.
+
+Subsec. (d). Pub. L. 112–29, §20(j), struck out “of this title” after “17”.
+
+Subsec. (e). Pub. L. 112–29, §8(a), added subsec. (e).
+
 <b>1999</b>—Pub. L. 106–113 amended section catchline and text generally. Prior to amendment, text read as follows: “Applications for patents shall be kept in confidence by the Patent and Trademark Office and no information concerning the same given without authority of the applicant or owner unless necessary to carry out the provisions of any Act of Congress or in such special circumstances as may be determined by the Commissioner.”
 
 <b>1975</b>—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
+
+#### Effective Date of 2011 Amendment
+
+Pub. L. 112–29, §8(b), Sept. 16, 2011, 125 Stat. 316, provided that: “The amendments made by this section \[amending this section\] shall take effect upon the expiration of the 1-year period beginning on the date of the enactment of this Act \[Sept. 16, 2011\] and shall apply to any patent application filed before, on, or after that effective date.”
+
+Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(<i>l</i>) of Pub. L. 112–29, set out as a note under section 2 of this title.
 
 #### Effective Date of 1999 Amendment
 

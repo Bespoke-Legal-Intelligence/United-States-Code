@@ -16,6 +16,8 @@ In any case where the Commission issues a notice of apparent liability looking t
 
 #### References in Text
 
+This chapter, referred to in subsecs. (a) and (c), was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
+
 Parts II and III of subchapter III of this chapter, referred to in subsec. (b), are classified to sections 351 et seq. and 381 et seq., respectively, of this title.
 
 #### Amendments
@@ -42,7 +44,7 @@ Subsec. (c). Pub. L. 86–752, §7(d), added subsec. (c).
 
 #### Change of Name
 
-Act June 25, 1948, eff. Sept. 1, 1948, substituted “United States attorneys” for “district attorneys”. See section 541 of Title 28, Judiciary and Judicial Procedure, and Historical and Revision Notes thereunder.
+Act June 25, 1948, eff. Sept. 1, 1948, substituted “United States attorneys” for “district attorneys”. Seesection 541 of Title 28, Judiciary and Judicial Procedure, and Historical and Revision Notes thereunder.
 
 #### Effective Date of 1978 Amendment
 

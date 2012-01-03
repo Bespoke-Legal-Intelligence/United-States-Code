@@ -1,6 +1,6 @@
 ### §1769j. Ensuring safety of school meals
 
-#### (a) Food and nutrition service
+#### (a) Food and Nutrition Service
 
 Not later than 1 year after December 13, 2010, the Secretary, acting through the Administrator of the Food and Nutrition Service, shall—
 

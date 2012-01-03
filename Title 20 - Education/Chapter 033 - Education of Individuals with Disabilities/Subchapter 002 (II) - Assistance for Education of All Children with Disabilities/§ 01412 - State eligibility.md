@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-A State is eligible for assistance under this subchapter for a fiscal year if the State submits a plan that provides assurances to the Secretary that the State has in effect policies and procedures to ensure that the State meets each of the following conditions:
+A State is eligible for assistance under this subchapter for a fiscal year if the State submitsa plan that provides assurances to the Secretary that the State has in effect policies and procedures to ensure that the State meets each of the following conditions:
 
 #### (1) Free appropriate public education
 
@@ -58,7 +58,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (ii) Assurance
 
-&emsp;&emsp;&emsp;If the State does not have policies and procedures to ensure compliance withclause (i), the State shall provide the Secretary an assurance that the State will revise the funding mechanism as soon as feasible to ensure that such mechanism does not result in such placements.
+&emsp;&emsp;&emsp;If the State does not have policies and procedures to ensure compliance with clause (i), the State shall provide the Secretary an assurance that the State will revise the funding mechanism as soon as feasible to ensure that such mechanism does not result in such placements.
 
 #### (6) Procedural safeguards
 
@@ -120,7 +120,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (V) Completion period
 
-&emsp;&emsp;&emsp;&emsp;Such child find process shall be completed in a time period comparable tothat for other students attending public schools in the local educational agency.
+&emsp;&emsp;&emsp;&emsp;Such child find process shall be completed in a time period comparable to that for other students attending public schools in the local educational agency.
 
 #### (iii) Consultation
 
@@ -172,7 +172,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Children with disabilities in private schools and facilities are provided special education and related services, in accordance with an individualized education program, at no cost to their parents, if such children are placed in, or referred to, such schools or facilities by the State or appropriate local educational agency as the means of carrying out the requirements ofthis subchapter or any other applicable law requiring the provision of special education and related services to all children with disabilities within such State.
+&emsp;&emsp;&emsp;Children with disabilities in private schools and facilities are provided special education and related services, in accordance with an individualized education program, at no cost to their parents, if such children are placed in, or referred to, such schools or facilities by the State or appropriate local educational agency as the means of carrying out the requirements of this subchapter or any other applicable law requiring the provision of special education and related services to all children with disabilities within such State.
 
 #### (ii) Standards
 
@@ -366,7 +366,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (D) Reports
 
-&emsp;&emsp;The State educational agency (or, in the case of a districtwide assessment, the localeducational agency) makes available to the public, and reports to the public with the same frequency and in the same detail as it reports on the assessment of nondisabled children, the following:
+&emsp;&emsp;The State educational agency (or, in the case of a districtwide assessment, the local educational agency) makes available to the public, and reports to the public with the same frequency and in the same detail as it reports on the assessment of nondisabled children, the following:
 
 &emsp;&emsp;&emsp;(i) The number of children with disabilities participating in regular assessments, and the number of those children who were provided accommodations in order to participate in those assessments.
 
@@ -374,7 +374,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 &emsp;&emsp;&emsp;(iii) The number of children with disabilities participating in alternate assessments described in subparagraph (C)(ii)(II).
 
-&emsp;&emsp;&emsp;(iv) The performance of children with disabilities on regular assessments and on alternate assessments (if the number of children with disabilities participating in those assessments is sufficient to yield statistically reliable information and reporting that information will not reveal personally identifiable information about an individual student), compared with the achievement of all children, including children with disabilities, on those assessments.
+&emsp;&emsp;&emsp;(iv) The performance of children with disabilities on regular assessments and on alternate assessments (if the number of children with disabilities participating in those assessments is sufficient to yield statistically reliable information and reporting that information will not reveal personally identifiable information aboutan individual student), compared with the achievement of all children, including children with disabilities, on those assessments.
 
 #### (E) Universal design
 
@@ -432,7 +432,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (B) Membership
 
-&emsp;&emsp;Such advisory panel shall consist of members appointed by the Governor, or any otherofficial authorized under State law to make such appointments, be representative of the State population, and be composed of individuals involved in, or concerned with, the education of children with disabilities, including—
+&emsp;&emsp;Such advisory panel shall consist of members appointed by the Governor, or any other official authorized under State law to make such appointments, be representative of the State population, and be composed of individuals involved in, or concerned with, the education of children with disabilities, including—
 
 &emsp;&emsp;&emsp;(i) parents of children with disabilities (ages birth through 26);
 
@@ -528,7 +528,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (24) Overidentification and disproportionality
 
-&emsp;The State has in effect, consistent with the purposes of this chapter and with section 1418(d) of this title, policies and procedures designed to prevent the inappropriate overidentification or disproportionate representation by race and ethnicity of children as children with disabilities, including children with disabilities with a particular impairment described in section 1401 of this title.
+&emsp;The State has in effect, consistent with the purposes of this chapter and with section1418(d) of this title, policies and procedures designed to prevent the inappropriate overidentification or disproportionate representation by race and ethnicity of children as children with disabilities, including children with disabilities with a particular impairment described in section 1401 of this title.
 
 #### (25) Prohibition on mandatory medication
 

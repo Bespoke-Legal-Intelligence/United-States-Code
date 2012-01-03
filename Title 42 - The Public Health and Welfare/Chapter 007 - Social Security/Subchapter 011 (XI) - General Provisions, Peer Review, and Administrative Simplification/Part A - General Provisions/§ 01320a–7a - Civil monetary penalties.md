@@ -6,7 +6,7 @@ Any person (including an organization, agency, or other entity, but excluding a 
 
 &emsp;(1) knowingly presents or causes to be presented to an officer, employee, or agent of the United States, or of any department or agency thereof, or of any State agency (as defined in subsection (i)(1) of this section), a claim (as defined in subsection (i)(2) of this section) that the Secretary determines—
 
-&emsp;&emsp;(A) is for a medical or other item or service that the person knows or should know was not provided as claimed, including any person who engages in a pattern or practice of presenting or causing to be presented a claim for an item or service that is based on a code that the person knows or should know will result in a greater payment to the person than the code the person knows orshould know is applicable to the item or service actually provided,
+&emsp;&emsp;(A) is for a medical or other item or service that the person knows or should know was not provided as claimed, including any person who engages in a pattern or practice of presenting or causing to be presented a claim for an item or service that is based on a code that the person knows or should know will result in a greater payment to the person than the code the person knows or should know is applicable to the item or service actually provided,
 
 &emsp;&emsp;(B) is for a medical or other item or service and the person knows or should know the claim is false or fraudulent,
 
@@ -48,7 +48,7 @@ Any person (including an organization, agency, or other entity, but excluding a 
 
 &emsp;(10) knows of an overpayment (as defined in paragraph (4) of section 1320a–7k(d) of this title) and does not report and return the overpayment in accordance with such section;
 
-> shall be subject, in addition to any other penalties that may be prescribed by law, to a civilmoney penalty of not more than $10,000 for each item or service (or, in cases under paragraph (3), $15,000 for each individual with respect to whom false or misleading information was given; in cases under paragraph (4), $10,000 for each day the prohibited relationship occurs; in cases under paragraph (7), $50,000 for each such act,<sup>6</sup> in cases under paragraph (8),<sup>7</sup> $50,000 for each false record or statement,<sup>6</sup> or <sup>8</sup> in cases under paragraph (9),<sup>9</sup> $15,000 for each day of the failure described in such paragraph); <sup>10</sup> or in cases under paragraph (9),<sup>11</sup> $50,000 for each false statement or misrepresentation of a material fact). In addition, such a person shall be subject to an assessment of not more than 3 times the amount claimed for each such item or service in lieu of damages sustained by the United States or a State agency because of such claim (or, in cases under paragraph (7), damages of not more than 3 times the total amount of remuneration offered, paid, solicited, or received, without regard to whether a portion of such remuneration was offered, paid, solicited, or received for a lawful purpose; or in cases under paragraph (9), an assessment of not more than 3 times the total amount claimed for each item or service for which payment was made based upon the application containing the false statement or misrepresentation of a material fact). In addition the Secretary may make a determination in the same proceeding to exclude the person from participation in the Federal health care programs (as defined in section 1320a–7b(f)(1) of this title) and to direct the appropriate State agency to exclude the person from participation in any State health care program.
+> shall be subject, in addition to any other penalties that may be prescribed by law, to a civil money penalty of not more than $10,000 for each item or service (or, in cases under paragraph (3), $15,000 for each individual with respect to whom false or misleading information was given; in cases under paragraph (4), $10,000 for each day the prohibited relationship occurs; in cases under paragraph (7), $50,000 for each such act,<sup>6</sup> in cases under paragraph (8),<sup>7</sup> $50,000 for each false record or statement,<sup>6</sup> or <sup>8</sup> in cases under paragraph (9),<sup>9</sup> $15,000 for each day of the failure described in such paragraph); <sup>10</sup> or in cases under paragraph (9),<sup>11</sup> $50,000 for each false statement or misrepresentation of a material fact). In addition, such a person shall be subject to an assessment of not more than 3 times the amount claimed for each such item or service in lieu of damages sustained by the United States or a State agency because of such claim (or, in cases under paragraph (7), damages of not more than 3 times the total amount of remuneration offered, paid, solicited, or received, without regard to whether a portion of such remuneration was offered, paid, solicited, or received for a lawful purpose; or in cases under paragraph (9), an assessment of not more than 3 times the total amount claimed for each item or service for which payment was made based upon the application containing the false statement or misrepresentation of a material fact). In addition the Secretary may make a determination in the same proceeding to exclude the person from participation in the Federal health care programs (as defined in section 1320a–7b(f)(1) of this title) and to direct the appropriate State agency to exclude the person from participation in any State health care program.
 
 #### (b) Payments to induce reduction or limitation of services
 
@@ -118,7 +118,7 @@ Any person adversely affected by a determination of the Secretary under this sec
 
 #### (f) Compromise of penalties and assessments; recovery; use of funds recovered
 
-Civil money penalties and assessments imposed under this section may be compromised by the Secretary and may be recovered in a civil action in the name of the United States brought in United States district court for the district where the claim was presented, or where the claimant resides, as determined by the Secretary. Amounts recovered under this section shall be paid to the Secretary and disposed of as follows:
+Civil money penalties and assessments imposed under this section may be compromised by the Secretary and may be recovered in a civilaction in the name of the United States brought in United States district court for the district where the claim was presented, or where the claimant resides, as determined by the Secretary. Amounts recovered under this section shall be paid to the Secretary and disposed of as follows:
 
 &emsp;(1)(A) In the case of amounts recovered arising out of a claim under subchapter XIX of this chapter, there shall be paid to the State agency an amount bearing the same proportion to the total amount recovered as the State's share of the amount paid by the State agency for such claim bears to the total amount paid for such claim.
 
@@ -170,7 +170,7 @@ For the purposes of this section:
 
 &emsp;&emsp;(B) subject to subsection (n) of this section, any permissible practice described in any subparagraph of section 1320a–7b(b)(3) of this title or in regulations issued by the Secretary;
 
-&emsp;&emsp;(C) differentials in coinsurance and deductible amounts as part of a benefit plan design as long as the differentials have been disclosed in writing to all beneficiaries, third party payers, and providers, to whom claims are presented and as long as the differentials meet the standards as defined in regulations promulgated by the Secretary not later than 180 days after August 21, 1996;
+&emsp;&emsp;(C) differentials in coinsurance and deductible amounts as part of a benefit plan designas long as the differentials have been disclosed in writing to all beneficiaries, third party payers, and providers, to whom claims are presented and as long as the differentials meet the standards as defined in regulations promulgated by the Secretary not later than 180 days after August 21, 1996;
 
 &emsp;&emsp;(D) incentives given to individuals to promote the delivery of preventive care as determined by the Secretary in regulations so promulgated;
 
@@ -190,7 +190,7 @@ For the purposes of this section:
 
 &emsp;&emsp;&emsp;(i) the items or services are not offered as part of any advertisement or solicitation;
 
-&emsp;&emsp;&emsp;(ii) the items or services are not tied to the provision of other services reimbursed in whole or in part by the program undersubchapter XVIII or a State health care program (as so defined);
+&emsp;&emsp;&emsp;(ii) the items or services are not tied to the provision of other services reimbursed in whole or in part by the program under subchapter XVIII or a State health care program (as so defined);
 
 &emsp;&emsp;&emsp;(iii) there is a reasonable connection between the items or services and the medical care of the individual; and
 
@@ -242,7 +242,7 @@ A principal is liable for penalties, assessments, and an exclusion under this se
 
 (2) A practice described in this paragraph is a practice under which a health care provider or facility pays, in whole or in part, premiums for medicare supplemental policies for individuals entitled to benefits under part A of subchapter XVIII of this chapter pursuant to section 426–1 of this title.
 
-(Aug. 14, 1935, ch. 531, title XI, §1128A, as added Pub. L. 97–35, title XXI, §2105(a), Aug. 13, 1981, 95 Stat. 789; amended Pub. L. 97–248, title I, §137(b)(26), Sept. 3, 1982, 96 Stat. 380; Pub. L. 98–369, div. B, title III, §§2306(f)(1), 2354(a)(3), July 18, 1984, 98 Stat. 1073, 1100; Pub. L. 99–509, title IX, §§9313(c)(1), 9317(a), (b), Oct. 21, 1986, 100 Stat. 2003, 2008; Pub. L. 100–93, §3, Aug. 18, 1987, 101 Stat. 686; Pub. L. 100–203, title IV, §§4039(h)(1), 4118(e)(1), (6)–(10), Dec. 22, 1987, 101 Stat. 1330–155, as amended Pub. L. 100–360, title IV, §411(e)(3), (k)(10)(B)(ii), (D), July 1, 1988, 102 Stat. 775, 794, 795; Pub. L. 100–360, title II, §202(c)(2), July 1, 1988, 102 Stat. 715; Pub. L.100–485, title VI, §608(d)(26)(H)–(K)(i), Oct. 13, 1988, 102 Stat. 2422; Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §6003(g)(3)(D)(i), Dec. 19, 1989, 103 Stat. 2153; Pub. L. 101–508, title IV, §§4204(a)(3), 4207(h), formerly 4027(h), 4731(b)(1), 4753, Nov. 5, 1990, 104 Stat. 1388–109, 1388–123, 1388–195, 1388–208, renumbered §4207(h), Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 104–191, title II, §§231(a)–(e), (h), 232(a), Aug. 21, 1996, 110 Stat. 2012–2015; Pub. L. 105–33, title IV, §§4201(c)(1), 4304(a), (b), 4331(e), 4523(c), Aug. 5, 1997, 111 Stat. 373, 383, 396, 449; Pub. L. 105–277, div. J, title V, §5201(a), (b)(1), Oct. 21, 1998, 112 Stat. 2681–916; Pub. L. 111–148, title VI, §§6402(d)(2), 6408(a), 6703(d)(3)(B), Mar. 23, 2010, 124 Stat. 757, 770, 804.)
+(Aug. 14, 1935, ch. 531, title XI, §1128A, as added Pub. L. 97–35, title XXI, §2105(a), Aug. 13, 1981, 95 Stat. 789; amended Pub. L. 97–248, title I, §137(b)(26), Sept. 3, 1982, 96 Stat. 380; Pub. L. 98–369, div. B, title III, §§2306(f)(1), 2354(a)(3), July 18, 1984, 98 Stat. 1073, 1100; Pub. L. 99–509, title IX, §§9313(c)(1), 9317(a), (b), Oct. 21, 1986, 100 Stat. 2003, 2008; Pub. L. 100–93, §3, Aug. 18, 1987, 101 Stat. 686; Pub. L. 100–203, title IV, §§4039(h)(1), 4118(e)(1), (6)–(10), Dec. 22, 1987, 101 Stat. 1330–155, as amended Pub. L. 100–360, title IV, §411(e)(3), (k)(10)(B)(ii), (D), July 1, 1988, 102 Stat. 775, 794, 795; Pub. L. 100–360, title II, §202(c)(2), July 1, 1988, 102 Stat. 715; Pub. L. 100–485, title VI, §608(d)(26)(H)–(K)(i), Oct. 13, 1988, 102 Stat. 2422; Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §6003(g)(3)(D)(i), Dec. 19, 1989, 103 Stat. 2153; Pub. L. 101–508, title IV, §§4204(a)(3), 4207(h), formerly 4027(h), 4731(b)(1), 4753, Nov. 5, 1990, 104 Stat. 1388–109, 1388–123, 1388–195, 1388–208, renumbered §4207(h), Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 104–191, title II, §§231(a)–(e), (h), 232(a), Aug. 21, 1996, 110 Stat. 2012–2015; Pub. L. 105–33, title IV, §§4201(c)(1), 4304(a), (b), 4331(e), 4523(c), Aug. 5, 1997, 111 Stat. 373, 383, 396, 449; Pub. L. 105–277, div. J, title V, §5201(a), (b)(1), Oct. 21, 1998, 112 Stat. 2681–916; Pub. L. 111–148, title VI, §§6402(d)(2), 6408(a), 6703(d)(3)(B), Mar. 23, 2010, 124 Stat. 757, 770, 804.)
 
 #### References in Text
 
@@ -302,7 +302,7 @@ Subsec. (i)(6)(B). Pub. L. 105–33, §4523(c)(1), which directed amendment of p
 
 Pub. L. 105–33, §4331(e)(3), added subpar. (B). Former subpar. (B) redesignated (C).
 
-Subsec. (i)(6)(C). Pub. L. 105–33, §4523(c)(2), which directed amendment of par. (6) by substituting “; or” for the period at end of subpar. (C), could not be executed because there was not a period at the end of subpar. (C)subsequent to amendment by Pub. L. 105–33, §4331(e)(2). See below.
+Subsec. (i)(6)(C). Pub. L. 105–33, §4523(c)(2), which directed amendment of par. (6) by substituting “; or” for the period at end of subpar. (C), could not be executed because there was not a period at the end of subpar. (C) subsequent to amendment by Pub. L. 105–33, §4331(e)(2). See below.
 
 Pub. L. 105–33, §4331(e)(2), redesignated subpar. (B) as (C). Former subpar. (C) redesignated (D).
 
@@ -396,7 +396,7 @@ Pub. L. 100–93, §3(a)(3)(B), in concluding provisions, inserted “(or, in ca
 
 Subsec. (a)(1). Pub. L. 100–203, §4118(e)(1)(A), formerly §4118(e)(1), as amended by Pub. L. 100–360, §411(k)(10)(B)(ii)(I), (II), as amended by Pub. L. 100–485, §608(d)(26)(H), substituted “or should know” for “or has reason to know” in subpars. (A) to (C).
 
-Pub. L. 100–93, §3(a)(1), substituted “the Secretary determines” for “the Secretary determines is for a medical or other item or service” in introductory provisionsand substituted subpars. (A) to (D) for former subpars. (A) and (B) which read as follows:
+Pub. L. 100–93, §3(a)(1), substituted “the Secretary determines” for “the Secretary determines is for a medical or other item or service” in introductory provisions and substituted subpars. (A) to (D) for former subpars. (A) and (B) which read as follows:
 
 “(A) that the person knows or has reason to know was not provided as claimed, or
 
@@ -482,7 +482,7 @@ Pub. L. 105–277, div. J, title V, §5201(d), Oct. 21, 1998, 112 Stat. 2681–9
 
 #### Effective Date of 1997 Amendment
 
-Amendment by section 4201(c)(1) of Pub. L. 105–33 applicable to services furnished on or after Oct. 1, 1997,see section 4201(d) of Pub. L. 105–33, set out as a note under section 1395f of this title.
+Amendment by section 4201(c)(1) of Pub. L. 105–33 applicable to services furnished on or after Oct. 1, 1997, see section 4201(d) of Pub. L. 105–33, set out as a note under section 1395f of this title.
 
 Section 4304(c) of Pub. L. 105–33 provided that:
 
@@ -536,7 +536,7 @@ Section 9317(d)(1), (2) of Pub. L. 99–509 provided that:
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 2354(a)(3) of Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2354(e)(1) of Pub. L. 98–369, set out as a note under section 1320a–1 of this title.
+Amendment by section 2354(a)(3) of Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2354(e)(1) of Pub. L.98–369, set out as a note under section 1320a–1 of this title.
 
 #### Effective Date of 1982 Amendment
 
@@ -556,7 +556,7 @@ Section 201(a) of Pub. L. 101–234 provided that:
 
 “(1)
 
-General rule.—Except as provided in paragraph (2), sections 201 through 208 of MCCA \[sections 201 to 208 of Pub. L. 100–360, enacting section 1395w–3 of this title, amending this section and sections 1320c–3, 1395h, 1395k, 1395<i>l</i>, 1395m, 1395n, 1395u, 1395w–2, 1395x, 1395y, 1395z, 1395aa, 1395bb, 1395cc, 1395mm, 1396a, 1396b, and 1396n of this title, and enacting provisions set out as notesunder sections 1320c–3, 1395b–1, 1395k, 1395m, 1395u, 1395x, 1395<i>ll</i>, and 1395ww of this title\] are repealed and the provisions of law amended or repealed by such sections are restored or revived as if such sections had not been enacted.
+General rule.—Except as provided in paragraph (2), sections 201 through 208 of MCCA \[sections 201 to 208 of Pub. L. 100–360, enacting section 1395w–3 of this title, amending this section and sections 1320c–3, 1395h, 1395k, 1395<i>l</i>, 1395m, 1395n, 1395u, 1395w–2, 1395x, 1395y, 1395z, 1395aa, 1395bb, 1395cc, 1395mm, 1396a, 1396b, and 1396n of this title, and enacting provisions set out as notes under sections 1320c–3, 1395b–1, 1395k, 1395m, 1395u, 1395x, 1395<i>ll</i>, and 1395ww of this title\] are repealed and the provisions of law amended or repealed by such sections are restored or revived as if such sections had not been enacted.
 
 “(2)
 

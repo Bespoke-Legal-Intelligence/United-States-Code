@@ -26,7 +26,7 @@ Delegation of Authority.—(1) The authority of the Secretary of Defense under s
 
 (B) The Secretary of Defense shall prescribe policies and procedures for making rewards in the manner described in subparagraph (A), which shall include guidance for the accountability of funds used for making rewards in that manner. The policies and procedures shall not take effect until 30 days after the date on which the Secretary submits the policies and procedures to the congressional defense committees. Rewards may not be made in the manner described in subparagraph (A) except under policies and procedures that have taken effect.
 
-(C) Rewards may not be made in the manner described in subparagraph (A) after September 30, 2011.
+(C) Rewards may not be made in the manner described in subparagraph (A) after September 30, 2013.
 
 (D) Not later than April 1, 2008, the Secretary of Defense shall submit to the congressional defense committees a report on the implementation of this paragraph. The report shall identify each reward made in the manner described in subparagraph (A) and, for each such reward—
 
@@ -38,7 +38,7 @@ Delegation of Authority.—(1) The authority of the Secretary of Defense under s
 
 (d)
 
-Coordination.—(1) The Secretary of Defense shall prescribe policies and procedures for the offering and making of rewards under thissection and otherwise for administering the authority under this section. Such policies and procedures shall be prescribed in consultation with the Secretary of State and the Attorney General and shall ensure that the making of a reward under this section does not duplicate or interfere with the payment of a reward authorized by the Secretary of State or the Attorney General.
+Coordination.—(1) The Secretary of Defense shall prescribe policies and procedures for the offering and making of rewards under this section and otherwise for administering the authority under this section. Such policies and procedures shall be prescribed in consultation with the Secretary of State and the Attorney General and shall ensure that the making of a reward under this section does not duplicate or interfere with the payment of a reward authorized by the Secretary of State or the Attorney General.
 
 (2) The Secretary of Defense shall consult with the Secretary of State regarding the making of any reward under this section in an amount or with a value in excess of $2,000,000.
 
@@ -54,7 +54,7 @@ Persons Not Eligible.—The following persons are not eligible to receive a rewa
 
 (f)
 
-Annual Report.—(1) Not later than December 1 of each year, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the administration of the rewards program under this section during the preceding fiscal year.
+Annual Report.—(1) Not later than February 1 of each year, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the administration of the rewards program under this section during the preceding fiscal year.
 
 (2) Each report for a fiscal year under this subsection shall include the following:
 
@@ -66,11 +66,17 @@ Annual Report.—(1) Not later than December 1 of each year, the Secretary of De
 
 &emsp;&emsp;(i) the amount or value of the reward and whether the reward was provided as a monetary payment or in some other form;
 
-&emsp;&emsp;(ii) the recipient of the reward; and
+&emsp;&emsp;(ii) the recipient of the reward and the recipient's geographic location; and
 
 &emsp;&emsp;(iii) a description of the information or assistance for which the reward was paid, together with an assessment of the significance and benefit of the information or assistance.
 
 &emsp;(D) Information on the implementation of paragraph (3) of subsection (c).
+
+&emsp;(E) A description of the status of program implementation in each geographic combatant command.
+
+&emsp;(F) A description of efforts to coordinate and de-conflict the authority under subsection (a) with similar rewards programs administered by the United States Government.
+
+&emsp;(G) An assessment of the effectiveness of the program in meeting its objectives.
 
 (3) The Secretary may submit the report in classified form if the Secretary determines that it is necessary to do so.
 
@@ -78,11 +84,21 @@ Annual Report.—(1) Not later than December 1 of each year, the Secretary of De
 
 Determinations by the Secretary.—A determination by the Secretary under this section is final and conclusive and is not subject to judicial review.
 
-(Added Pub. L. 107–314, div. A, title X, §1065(a), Dec. 2, 2002, 116 Stat. 2655; amended Pub. L. 109–163, div. A, title X, §1056(c)(2), Jan. 6, 2006, 119 Stat. 3439; Pub. L. 109–364, div. A, title XIV, §1401, Oct. 17, 2006, 120 Stat. 2433; Pub. L. 110–181, div. A, title X, §1033, Jan. 28, 2008, 122 Stat. 307; Pub. L. 111–84, div. A, title X, §1071, Oct. 28, 2009, 123 Stat. 2470; Pub. L. 111–383, div. A, title X, §1031, Jan. 7, 2011, 124 Stat. 4351.)
+(Added Pub. L. 107–314, div. A, title X, §1065(a), Dec. 2, 2002, 116 Stat. 2655; amended Pub. L. 109–163, div. A, title X, §1056(c)(2), Jan. 6, 2006, 119 Stat. 3439; Pub. L. 109–364, div. A, title XIV, §1401, Oct. 17, 2006, 120 Stat. 2433; Pub. L. 110–181, div. A, title X, §1033, Jan. 28, 2008, 122 Stat. 307; Pub. L. 111–84, div. A, title X, §1071, Oct. 28, 2009, 123 Stat. 2470; Pub. L. 111–383, div. A, title X, §1031, Jan. 7, 2011, 124 Stat. 4351; Pub. L. 112–81, div. A, title X, §§1033, 1064(3), Dec. 31, 2011, 125 Stat. 1572, 1587.)
 
 #### Amendments
 
-<b>2011</b>—Subsec. (c)(3)(C). Pub. L. 111–383 substituted “2011” for “2010”.
+<b>2011</b>—Subsec. (c)(3)(C). Pub. L. 112–81, §1033(1), substituted “September 30, 2013” for “September 30, 2011”.
+
+Pub. L. 111–383 substituted “2011” for “2010”.
+
+Subsec. (f)(1). Pub. L. 112–81, §1064(3), which directed the substitution of “February 1” for “December 1”, could not be executed because of the intervening amendment by Pub. L. 112–81, §1033(2)(A). See note below.
+
+Pub. L. 112–81, §1033(2)(A), substituted “February” for “December”.
+
+Subsec. (f)(2)(C)(ii). Pub. L. 112–81, §1033(2)(B)(i), inserted “and the recipient's geographic location” after “reward”.
+
+Subsec. (f)(2)(E) to (G). Pub. L. 112–81, §1033(2)(B)(ii), added subpars. (E) to (G).
 
 <b>2009</b>—Subsec. (c)(3)(C). Pub. L. 111–84 substituted “2010” for “2009”.
 

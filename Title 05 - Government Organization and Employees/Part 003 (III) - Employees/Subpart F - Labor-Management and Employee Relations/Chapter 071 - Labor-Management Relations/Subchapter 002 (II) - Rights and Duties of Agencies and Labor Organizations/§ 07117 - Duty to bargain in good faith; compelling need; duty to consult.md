@@ -14,7 +14,7 @@
 
 &emsp;(B) the Authority determines that a compelling need for a rule or regulation does not exist.
 
-(3) A hearing may be held, in the discretion of the Authority, before a determination is madeunder this subsection. If a hearing is held, it shall be expedited to the extent practicable and shall not include the General Counsel as a party.
+(3) A hearing may be held, in the discretion of the Authority, before a determination is made under this subsection. If a hearing is held, it shall be expedited to the extent practicable and shall not include the General Counsel as a party.
 
 (4) The agency, or primary national subdivision, as the case may be, which issued the rule or regulation shall be a necessary party at any hearing under this subsection.
 

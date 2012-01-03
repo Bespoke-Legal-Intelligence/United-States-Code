@@ -79,6 +79,7 @@
 | :--- | ---: |
 | [1861\.](Subchapter%20004%20%28IV%29%20-%20Appropriations%20and%20Expenditures/%C2%A7%2001861%20-%20Appropriations%20under%20control%20of%20Architect%20of%20the%20Capitol.md) | Appropriations under control of Architect of the Capitol. |
 | [1862\.](Subchapter%20004%20%28IV%29%20-%20Appropriations%20and%20Expenditures/%C2%A7%2001862%20-%20Transfer%20of%20funds.md) | Transfer of funds. |
+| [1862a.](Subchapter%20004%20%28IV%29%20-%20Appropriations%20and%20Expenditures/%C2%A7%2001862a%20-%20Use%20of%20construction%20project%20funds%20to%20reimburse%20Capitol%20Police%20for%20related%20overtime%20costs.md) | Use of construction project funds to reimburse Capitol Police for related overtime costs. |
 | [1863\.](Subchapter%20004%20%28IV%29%20-%20Appropriations%20and%20Expenditures/%C2%A7%2001863%20-%20Funds%20out%20of%20Contingent%20Expenses%2C%20Architect%20of%20the%20Capitol%20Appropriation.md) | Funds out of Contingent Expenses, Architect of the Capitol Appropriation. |
 | [1864\.](Subchapter%20004%20%28IV%29%20-%20Appropriations%20and%20Expenditures/%C2%A7%2001864%20-%20Funds%20out%20of%20Capitol%20Buildings%2C%20Architect%20of%20the%20Capitol%20Appropriation.md) | Funds out of Capitol Buildings, Architect of the Capitol Appropriation. |
 | [1865\.](Subchapter%20004%20%28IV%29%20-%20Appropriations%20and%20Expenditures/%C2%A7%2001865%20-%20Capitol%20Police%20Buildings%20and%20Grounds%20Account.md) | Capitol Police Buildings and Grounds Account. |

@@ -12,7 +12,7 @@ There is authorized to be appropriated to the Secretary of the Treasury such sum
 
 #### Amendments
 
-1992—Subsecs. (b), (c). Pub. L. 102–552 redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows:
+<b>1992</b>—Subsecs. (b), (c). Pub. L. 102–552 redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows:
 
 “(b)
 
@@ -30,7 +30,7 @@ Allocation.—Until such repayment is completed, each System institution shall p
 
 &emsp;&emsp;“(B) the total performing loan volume of the System for the preceding year.”
 
-1988—Subsec. (b)(2). Pub. L. 100–399 in introductory provision substituted “paragraph (1) equal” for “this paragraph” and in subpar. (A) substituted “section 2278b–6(c)(2)(D) of this title” for “subsection (c)(1)(D) of this section”.
+<b>1988</b>—Subsec. (b)(2). Pub. L. 100–399 in introductory provision substituted “paragraph (1) equal” for “this paragraph” and in subpar. (A) substituted “section 2278b–6(c)(2)(D) of this title” for “subsection (c)(1)(D) of this section”.
 
 #### Effective Date of 1988 Amendment
 

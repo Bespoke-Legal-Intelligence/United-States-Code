@@ -194,7 +194,7 @@ Par. (18). Pub. L. 107–107, §3151(a)(4)(C), struck out par. (18) which read a
 
 #### Effective Date of 2001 Amendments
 
-Pub. L. 107–107, div. C, title XXXI, §3151(a)(4)(D), Dec. 28, 2001, 115 Stat. 1374, provided that: “The amendments made by this paragraph \[amending this section and sections 7384s and 7384u of this title\] shall take effect on July 1, 2001.”
+Pub. L. 107–107, div. C, title XXXI, §3151(a)(4)(D), Dec. 28, 2001, 115 Stat. 1374, provided that: “The amendmentsmade by this paragraph \[amending this section and sections 7384s and 7384u of this title\] shall take effect on July 1, 2001.”
 
 Pub. L. 107–20, title II, §2403(b), July 24, 2001, 115 Stat. 175, provided that: “This section \[amending this section\] shall be effective on October 1, 2001.”
 

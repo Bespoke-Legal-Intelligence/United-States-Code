@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(i) service rendered as an employee of a county committee established pursuant to section 8(b) of the Soil Conservation and Allotment Act or of a committee or association of producers described in section 10(b) of the Agricultural Adjustment Act; and
 
-&emsp;&emsp;(ii) service rendered as an employee described in section 2105(c) if such employee moves or has moved, on or after January 1, 1966, without a break in service of more than 3 days, from a position in a nonappropriated fund instrumentality of the Department of Defense or the Coast Guard to a position in the Department of Defense or the Coast Guard, respectively, that is not described in section 2105(c).
+&emsp;&emsp;(ii) service rendered as an employee described in section 2105(c) if such employeemoves or has moved, on or after January 1, 1966, without a break in service of more than 3 days, from a position in a nonappropriated fund instrumentality of the Department of Defense or the Coast Guard to a position in the Department of Defense or the Coast Guard, respectively, that is not described in section 2105(c).
 
 (b) A preference eligible described in section 2108(3)(C) of this title who has a compensable service-connected disability of 30 percent or more and whose performance has not been rated unacceptable under a performance appraisal system implemented under chapter 43 of this title is entitled to be retained in preference to other preference eligibles.
 
@@ -128,13 +128,13 @@ The Workforce Investment Act of 1998, referred to in subsec. (d)(3), (4), is Pub
 
 #### Amendments
 
-2008—Subsec. (f)(5). Pub. L. 110–417 substituted “September 30, 2014” for “September 30, 2010”.
+<b>2008</b>—Subsec. (f)(5). Pub. L. 110–417 substituted “September 30, 2014” for “September 30, 2010”.
 
-2006—Subsec. (f)(5). Pub. L. 109–163 substituted “September 30, 2010” for “September 30, 2005”.
+<b>2006</b>—Subsec. (f)(5). Pub. L. 109–163 substituted “September 30, 2010” for “September 30, 2005”.
 
-2000—Subsec. (f)(5). Pub. L. 106–398 substituted “September 30, 2005” for “September 30, 2001”.
+<b>2000</b>—Subsec. (f)(5). Pub. L. 106–398 substituted “September 30, 2005” for “September 30, 2001”.
 
-1998—Subsec. (d)(3)(A)(i). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(1)(A)(i)\], added cl. (i) and struck out former cl. (i) which read as follows: “the appropriate State dislocated worker unit or office (referred to in section 311(b)(2) of the Job Training Partnership Act), or the State or entity designated by the State to carry out rapid response activities under section 134(a)(2)(A) of the Workforce Investment Act of 1998; and”.
+<b>1998</b>—Subsec. (d)(3)(A)(i). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(1)(A)(i)\], added cl. (i) and struck out former cl. (i) which read as follows: “the appropriate State dislocated worker unit or office (referred to in section 311(b)(2) of the Job Training Partnership Act), or the State or entity designated by the State to carry out rapid response activities under section 134(a)(2)(A) of the Workforce Investment Act of 1998; and”.
 
 Pub. L. 105–277, §101(f) \[title VIII, §405(d)(1)(A)(i)\], added cl. (i) and struck out former cl. (i) which read as follows: “the appropriate State dislocated worker unit or units (referred to in section 311(b)(2) of the Job Training Partnership Act); and”.
 
@@ -146,7 +146,7 @@ Subsec. (d)(4). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(1)(B)\], stru
 
 Pub. L. 105–277, §101(f) \[title VIII, §405(d)(1)(B)\], substituted “Secretary of Labor on matters relating to the Job Training Partnership Act or title I of the Workforce Investment Act of 1998” for “Secretary of Labor on matters relating to the Job Training Partnership Act”.
 
-1996—Subsec. (a)(C)(ii). Pub. L. 104–106, §1043(d)(1), substituted “January 1, 1966” for “January 1, 1987”.
+<b>1996</b>—Subsec. (a)(C)(ii). Pub. L. 104–106, §1043(d)(1), substituted “January 1, 1966” for “January 1, 1987”.
 
 Subsec. (f). Pub. L. 104–201 amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows:
 
@@ -166,19 +166,19 @@ Subsec. (f). Pub. L. 104–201 amended subsec. (f) generally. Prior to amendment
 
 Pub. L. 104–106, §1034, added subsec. (f).
 
-1992—Subsecs. (d), (e). Pub. L. 102–484 added subsecs. (d) and (e).
+<b>1992</b>—Subsecs. (d), (e). Pub. L. 102–484 added subsecs. (d) and (e).
 
-1990—Subsec. (a)(C). Pub. L. 101–508 amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “is entitled to credit for service rendered as an employee of a county committee established pursuant to section 590h(b) of title 16, or of a committee or an association of producers described in section 610(b) of title 7.”
+<b>1990</b>—Subsec. (a)(C). Pub. L. 101–508 amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “is entitled to credit for service rendered as an employee of a county committee established pursuant to section 590h(b) of title 16, or of a committee or an association of producers described in section 610(b) of title 7.”
 
-1986—Subsec. (a)(C). Pub. L. 99–251 struck out “who is an employee in or under the Department of Agriculture” before “is entitled to credit”.
+<b>1986</b>—Subsec. (a)(C). Pub. L. 99–251 struck out “who is an employee in or under the Department of Agriculture” before “is entitled to credit”.
 
-1978—Subsec. (a). Pub. L. 95–454, §906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–454, §906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
 
 Subsec. (b). Pub. L. 95–454, §307(e), substituted provisions relating to retention of a preference eligible with a compensable service-connected disability of 30 percent or more, for provisions relating to retention of preference eligible employees on the basis of ratings.
 
 Subsec. (c). Pub. L. 95–454, §307(e), added subsec. (c).
 
-1968—Subsec. (a). Pub. L. 90–623 made minor changes in form and punctuation in subpars. (A) and (B), and, in subpar. (C), substituted “section 590h(b) of title 16” and “section 610(b) of title 7” for “section 8(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b))” and “section 10(b) of the Agricultural Adjustment Act of May 12, 1933 (48 Stat. 37)” respectively.
+<b>1968</b>—Subsec. (a). Pub. L. 90–623 made minor changes in form and punctuation in subpars. (A) and (B), and, in subpar. (C), substituted “section 590h(b) of title 16” and “section 610(b) of title 7” for “section 8(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b))” and “section 10(b) of the Agricultural Adjustment Act of May 12, 1933 (48 Stat. 37)” respectively.
 
 Subsec. (a)(C). Pub. L. 90–367 added subsec. (a)(C).
 
@@ -188,7 +188,7 @@ Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(g)\], Oct. 21, 1998, 112
 
 “(1)
 
-Immediately effective amendments.—The amendments made by subsections (a) through (d) \[amending this section and sections 2014, 2015, and 2026 of Title 7, Agriculture, sections 1255a and 1613 of Title 8, Aliens and Nationality, sections 636, 1022a, 3116, and 3151 of Title 15, Commerce and Trade, section 79<i>l</i> of Title 16, Conservation, section 665 of Title 18, Crimes and Criminal Procedure, sections 2296 and 2311 of Title 19, Customs Duties, sections 1070d–2, 1087vv, 3443, 5934, 5938, 6365, 6434, 6453, and 6455 of Title 20, Education, section 5855 of Title 22, Foreign Relations and Intercourse, section 2102 of Title 29, Labor, section 6703 of Title 31, Money and Finance, sections 4102A, 4103A, and 4213 of Title 38, Veterans’ Benefits, and sections 603, 1437u, 1474, 3013, 3056, 3056a, 3056h, 3796ee, 4368a, 4953, 4959, 6103, 6864, 6873, 7274h, 9806, 11302, 12637, 12653c, 12655m, 12899c, 12899e, and 13823 of Title 42, The Public Health and Welfare, amending provisions set out as notes under sections 1183a and 1522 of Title 8, sections 1143, 2391, 2501, 2701, and 2687 of Title 10, Armed Forces, section 3304 of Title 26, Internal Revenue Code, section 1721 of Title 29, and section 4101 of Title 38, and repealing provisions set out as notes under sections 1501 and 1551 of Title 29\] shall take effect on the date of the enactment of this Act \[Oct. 21, 1998\].
+Immediately effective amendments.—The amendments made by subsections (a) through (d)\[amending this section and sections 2014, 2015, and 2026 of Title 7, Agriculture, sections 1255a and 1613 of Title 8, Aliens and Nationality, sections 636, 1022a, 3116, and 3151 of Title 15, Commerce and Trade, section 79<i>l</i> of Title 16, Conservation, section 665 of Title 18, Crimes and Criminal Procedure, sections 2296 and 2311 of Title 19, Customs Duties, sections 1070d–2, 1087vv, 3443, 5934, 5938, 6365, 6434, 6453, and 6455 of Title 20, Education, section 5855 of Title 22, Foreign Relations and Intercourse, section 2102 of Title 29, Labor, section 6703 of Title 31, Money and Finance, sections 4102A, 4103A, and 4213 of Title 38, Veterans’ Benefits, and sections 603, 1437u, 1474, 3013, 3056, 3056a, 3056h, 3796ee, 4368a, 4953, 4959, 6103, 6864, 6873, 7274h, 9806, 11302, 12637, 12653c, 12655m, 12899c, 12899e, and 13823 of Title 42, The Public Health and Welfare, amending provisions set out as notes under sections 1183a and 1522 of Title 8, sections 1143, 2391, 2501, 2701, and 2687 of Title 10, Armed Forces, section 3304 of Title 26, Internal Revenue Code, section 1721 of Title 29, and section 4101 of Title 38, and repealing provisions set out as notes under sections 1501 and 1551 of Title 29\] shall take effect on the date of the enactment of this Act \[Oct. 21, 1998\].
 
 “(2)
 
@@ -264,7 +264,7 @@ Study and Report.—(1) The Director of the Office of Personnel Management shall
 
 Agreements To Establish Interagency Placement Program.—(1) The Director may establish a Government-wide interagency placement program for Federal employees affected by reductions in force if, during the 6-month period beginning on the date of the enactment of this Act \[Oct. 5, 1994\], the Director, in consultation with the Secretary of Defense, determines that such a program is feasible. To carry out the program, the Director may enter into an agreement with the head of each agency that agrees to participate in the program. If the Director establishes a program under this subsection, it is not necessary that the program be an interagency placement program within the meaning of subsection (a)(2).
 
-“(2) If the Director establishes a program pursuant to paragraph (1), the report required by subsection (a)(5) shall identify each agency that does not agree to participate in the program and the reasons of the head of that agency for not agreeing to participate.
+“(2) If the Director establishes a program pursuant to paragraph (1), the report required by subsection (a)(5)shall identify each agency that does not agree to participate in the program and the reasons of the head of that agency for not agreeing to participate.
 
 “(c)
 

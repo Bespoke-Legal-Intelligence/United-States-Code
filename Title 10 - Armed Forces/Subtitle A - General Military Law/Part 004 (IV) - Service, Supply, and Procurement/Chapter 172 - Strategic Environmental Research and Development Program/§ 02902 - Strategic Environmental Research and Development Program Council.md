@@ -58,7 +58,7 @@
 
 &emsp;(2) provide governmental and nongovernmental entities with analytic assistance, consistent with national defense missions, including access to military platforms for sensor deployment and access to computer capabilities, in order to facilitate environmental research;
 
-&emsp;(3) provide for the identification of energy technologies developed for national defense purposes (including electricity generation systems, energy storage systems, alternativefuels, biomass energy technology, and applied materials technology) that might have environmentally sound, energy efficient applications for other programs of the Department of Defense and the Department of Energy national security programs;
+&emsp;(3) provide for the identification of energy technologies developed for national defense purposes (including electricity generation systems, energy storage systems, alternative fuels, biomass energy technology, and applied materials technology) that might have environmentally sound, energy efficient applications for other programs of the Department of Defense and the Department of Energy national security programs;
 
 &emsp;(4) provide for the identification and support of programs of basic and applied research, development, and demonstration in technologies useful—
 
@@ -80,7 +80,7 @@
 
 &emsp;(7) encourage transfer of technologies referred to in clauses (2) through (6) to the private sector under the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3701 et seq.) and other applicable laws;
 
-&emsp;(8) provide for the identification of, and planning for the demonstration and use of, existing environmentally sound, energy-efficient technologies developed by the private sector that could be used directly by the Department of Defense;
+&emsp;(8) provide for the identification of, and planning for the demonstration and use of, existing environmentally sound, energy-efficienttechnologies developed by the private sector that could be used directly by the Department of Defense;
 
 &emsp;(9) provide for the identification of military specifications that prevent or limit the use of environmentally beneficial technologies, materials, and substances in the performance of Department of Defense contracts and recommend changes to such specifications; and
 

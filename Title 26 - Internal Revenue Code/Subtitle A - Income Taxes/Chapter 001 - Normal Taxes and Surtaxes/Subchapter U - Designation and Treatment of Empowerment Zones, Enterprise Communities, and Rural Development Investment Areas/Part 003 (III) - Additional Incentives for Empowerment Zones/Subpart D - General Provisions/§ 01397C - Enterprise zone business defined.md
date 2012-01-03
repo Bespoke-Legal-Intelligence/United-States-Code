@@ -80,7 +80,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) any trade or business consisting of the operation of any facility described in section 144(c)(6)(B), and
 
-&emsp;&emsp;(B) any trade or business the principal activity of which is farming (within the meaning of subparagraphs <sup>1</sup> (A) or (B) of section2032A(e)(5)), but only if, as of the close of the taxable year, the sum of—
+&emsp;&emsp;(B) any trade or business the principal activity of which is farming (within the meaning of subparagraphs <sup>1</sup> (A) or (B) of section 2032A(e)(5)), but only if, as of the close of the taxable year, the sum of—
 
 &emsp;&emsp;&emsp;(i) the aggregate unadjusted bases (or, if greater, the fair market value) of the assets owned by the taxpayer which are used in such a trade or business, and
 

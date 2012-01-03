@@ -2,7 +2,7 @@
 
 #### (a) Employment status
 
-Individuals appointed under section 7002, 7003, 7004, or 7005 of this title, other than officers oremployees of the United States Government, shall not be considered to be Federal employees while performing such service, except for purposes of injury compensation or tort claims liability as provided in chapter 81 of title 5 and chapter 171 of title 28.
+Individuals appointed under section 7002, 7003, 7004, or 7005 of this title, other than officers or employees of the United States Government, shall not be considered to be Federal employees while performing such service, except for purposes of injury compensation or tort claims liability as provided in chapter 81 of title 5 and chapter 171 of title 28.
 
 #### (b) Compensation
 
@@ -20,7 +20,7 @@ Except as provided in subsection (d), the Secretary shall pay the necessary trav
 
 #### (d) Joint appointees
 
-With respect to the 2 independent members of the scientific review group and the 2 public advisors to the scientific review group jointly appointed under section 7003(c) of this title, and the 1 independent member to the joint technical committee jointly appointed under section 7004(b) of this title, the Secretary may pay up to 50 percent of—
+With respect to the 2 independent members of the scientific review group and the 2 public advisors to the scientific review group jointly appointed under section 7003(c) of this title, andthe 1 independent member to the joint technical committee jointly appointed under section 7004(b) of this title, the Secretary may pay up to 50 percent of—
 
 &emsp;(1) any compensation paid to such individuals; and
 

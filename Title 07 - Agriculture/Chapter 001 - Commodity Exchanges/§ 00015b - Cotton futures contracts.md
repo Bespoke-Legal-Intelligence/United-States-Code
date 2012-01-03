@@ -78,7 +78,7 @@ Each cotton futures contract shall be a basis grade contract, or a tendered grad
 
 #### (F) Provisions for tender in full, notice of delivery date, and certificate of grade
 
-&emsp;&emsp;Provide that all tenders of cotton under such contract shall be the full number of bales involved therein, except that such variations of the number of bales may be permitted as is necessary to bring the total weight of the cotton tendered within the provisions of the contract as to weight; that, on the fifth business day prior to delivery, the person making the tender shall give to the person receiving the same written notice of the date of delivery, and that, on or prior to the date so fixed for delivery, and in advance of final settlement of the contract, the person making the tender shall furnish to the person receiving the same a written notice or certificate stating the grade ofeach individual bale to be delivered and, by means of marks or numbers, identifying each bale with its grade.
+&emsp;&emsp;Provide that all tenders of cotton under such contract shall be the full number of bales involved therein, except that such variations of the number of bales may be permitted as is necessary to bring the total weight of the cotton tendered within the provisions of the contract as to weight; that, on the fifth business day prior to delivery, the person making the tender shall give to the person receiving the same written notice of the date of delivery, and that, on or prior to the date so fixed for delivery, and in advance of final settlement of the contract, the person making the tender shall furnish to the person receiving the same a written notice or certificate stating the grade of each individual bale to be delivered and, by means of marks or numbers, identifying each bale with its grade.
 
 #### (G) Provision for tender and settlement in accordance with Government classification
 
@@ -126,7 +126,7 @@ Each cotton futures contract shall be a basis grade contract, or a tendered grad
 
 #### (B) Specification of grade, price, dates of sale and delivery
 
-&emsp;&emsp;Specify the grade, type, sample, or description of the cotton involved in the contract, the price per pound at which such cotton iscontracted to be bought or sold, the date of the purchase or sale, and the time when shipment or delivery of such cotton is to be made.
+&emsp;&emsp;Specify the grade, type, sample, or description of the cotton involved in the contract, the price per pound at which such cotton is contracted to be bought or sold, the date of the purchase or sale, and the time when shipment or delivery of such cotton is to be made.
 
 #### (C) Prohibition of delivery of other than specified grade
 
@@ -184,11 +184,11 @@ In subsec. (f)(1)(G), “chapters 1 to 11 of title 40 and division C (except sec
 
 #### Amendments
 
-2000—Subsec. (d)(2). Pub. L. 106–472 inserted at end “A person complying with the preceding sentence shall not be liable for any loss or damage arising or resulting from such compliance.”
+<b>2000</b>—Subsec. (d)(2). Pub. L. 106–472 inserted at end “A person complying with the preceding sentence shall not be liable for any loss or damage arising or resulting from such compliance.”
 
-1991—Subsec. (c)(1). Pub. L. 102–237 inserted before period at end “, except that any cotton futures contract that, by its terms, is settled in cash is excluded from the coverage of this paragraph and section”.
+<b>1991</b>—Subsec. (c)(1). Pub. L. 102–237 inserted before period at end “, except that any cotton futures contract that, by its terms, is settled in cash is excluded from the coverage of this paragraph and section”.
 
-1981—Subsec. (f)(1)(G). Pub. L. 97–35 inserted provisions relating to crediting to account referred to in section 55 of this title and provisions respecting cotton samples submitted or used becoming the property of the United States.
+<b>1981</b>—Subsec. (f)(1)(G). Pub. L. 97–35 inserted provisions relating to crediting to account referred to in section 55 of this title and provisions respecting cotton samples submitted or used becoming the property of the United States.
 
 #### Effective Date of 1981 Amendment
 
@@ -196,7 +196,7 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 156(e) of Pub. 
 
 #### Effective Date
 
-Section 1952(<i>o</i>) of Pub. L. 94–455 provided that: “The provisions of this section \[enacting this section, amending section 6808 of Title 26, Internal Revenue Code, and repealing sections 7233 and 7263, subchapter D of chapter 39, and subchapter E of chapter 76 of Title 26\] shall take effect on the 90th day after the date of enactment of this Act \[Oct. 4, 1976\].”
+Section 1952(<i>o</i>) of Pub. L. 94–455 provided that: “The provisions of this section \[enacting this section,amending section 6808 of Title 26, Internal Revenue Code, and repealing sections 7233 and 7263, subchapter D of chapter 39, and subchapter E of chapter 76 of Title 26\] shall take effect on the 90th day after the date of enactment of this Act \[Oct. 4, 1976\].”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “basis”.</i>
 

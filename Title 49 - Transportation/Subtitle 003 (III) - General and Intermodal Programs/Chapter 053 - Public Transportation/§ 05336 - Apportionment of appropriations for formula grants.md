@@ -70,7 +70,7 @@ Based on Bus Revenue Vehicle-Miles and Passenger-Miles.—Of the amount apportio
 
 Date of Apportionment.—The Secretary of Transportation shall—
 
-&emsp;(1) apportion amounts appropriated under subsections (a)(1)(C)(vi) and (b)(2)(B) of section 5338 of this title to carry out section 5307 ofthis title not later than the 10th day after the date the amounts are appropriated or October 1 of the fiscal year for which the amounts are appropriated, whichever is later; and
+&emsp;(1) apportion amounts appropriated under subsections (a)(1)(C)(vi) and (b)(2)(B) of section 5338 of this title to carry out section 5307 of this title not later than the 10th day after the date the amounts are appropriated or October 1 of the fiscal year for which the amounts are appropriated, whichever is later; and
 
 &emsp;(2) publish apportionments of the amounts, including amounts attributable to each urbanized area with a population of more than 50,000 and amounts attributable to each State of a multistate urbanized area, on the apportionment date.
 
@@ -334,7 +334,7 @@ This amends 49:5336(b)(2) to clarify the restatement of 49 App.:1607a(b) by sect
 
 #### References in Text
 
-The date of enactment of the Federal Public Transportation Act of 2005, referred to in subsec. (k)(2)(A), isthe date of enactment of title III of Pub. L. 109–59, which was approved Aug. 10, 2005.
+The date of enactment of the Federal Public Transportation Act of 2005, referred to in subsec. (k)(2)(A), is the date of enactment of title III of Pub. L. 109–59, which was approved Aug. 10, 2005.
 
 #### Amendments
 

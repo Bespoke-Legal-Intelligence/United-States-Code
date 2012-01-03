@@ -82,7 +82,7 @@
 
 (g) Unless an order establishing an expedited procedure under subsection (c) of this section, or determining any interest in or approving any disposition of grain or the proceeds of grain, is stayed pending appeal—
 
-&emsp;(1) the reversal or modification of such order on appeal does not affect the validity of any procedure, determination, or disposition thatoccurs before such reversal or modification, whether or not any entity knew of the pendency of the appeal; and
+&emsp;(1) the reversal or modification of such order on appeal does not affect the validity of any procedure, determination, or disposition that occurs before such reversal or modification, whether or not any entity knew of the pendency of the appeal; and
 
 &emsp;(2) neither the court nor the trustee may delay, due to the appeal of such order, any proceeding in the case in which such order is issued.
 
@@ -96,7 +96,7 @@
 
 #### Amendments
 
-1986—Subsec. (d)(3). Pub. L. 99–554 inserted reference to section 1202 of this title.
+<b>1986</b>—Subsec. (d)(3). Pub. L. 99–554 inserted reference to section 1202 of this title.
 
 #### Effective Date of 1986 Amendment
 

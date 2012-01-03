@@ -16,7 +16,7 @@
 
 #### (i) Procuring agency duties
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii) and subparagraph (B), after the date specified in applicable guidelines prepared pursuant to paragraph (3), each procuring agency shall—
+&emsp;&emsp;&emsp;Except as provided in clause (ii) and subparagraph (B), after the date specified inapplicable guidelines prepared pursuant to paragraph (3), each procuring agency shall—
 
 &emsp;&emsp;&emsp;&emsp;(I) establish a procurement program, develop procurement specifications, and procure biobased products identified under the guidelines described in paragraph (3) in accordance with this section; and
 

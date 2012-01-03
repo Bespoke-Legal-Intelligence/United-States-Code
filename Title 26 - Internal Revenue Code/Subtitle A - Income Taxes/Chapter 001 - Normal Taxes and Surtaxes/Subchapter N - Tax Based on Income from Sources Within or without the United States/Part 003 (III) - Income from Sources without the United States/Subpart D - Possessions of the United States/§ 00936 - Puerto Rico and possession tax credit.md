@@ -164,7 +164,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of paragraph (2)(B), an investment in a financial institution shall, subject to such conditions as the Secretary may prescribe by regulations, be treated as for use in Puerto Rico to the extent used by such financial institution (or by the Government Development Bank for Puerto Rico or the Puerto Rico Economic Development Bank)—
+&emsp;&emsp;For purposes of paragraph (2)(B), an investment in a financial institution shall,subject to such conditions as the Secretary may prescribe by regulations, be treated as for use in Puerto Rico to the extent used by such financial institution (or by the Government Development Bank for Puerto Rico or the Puerto Rico Economic Development Bank)—
 
 &emsp;&emsp;&emsp;(i) for investment, consistent with the goals and purposes of the Caribbean Basin Economic Recovery Act, in—
 
@@ -184,7 +184,7 @@ For purposes of this section—
 
 &emsp;&emsp;Subparagraph (A) shall not apply to any investment made by a financial institution (or by the Government Development Bank for Puerto Rico or the Puerto Rico Economic Development Bank) unless—
 
-&emsp;&emsp;&emsp;(i) the person in whose trade or business such investment is made (or such other recipient of the investment) and the financial institution or such Bank certify to the Secretary and the Commissioner of Financial Institutions of Puerto Rico that theproceeds of the loan will be promptly used to acquire active business assets or to make other authorized expenditures, and
+&emsp;&emsp;&emsp;(i) the person in whose trade or business such investment is made (or such other recipient of the investment) and the financial institution or such Bank certify to the Secretary and the Commissioner of Financial Institutions of Puerto Rico that the proceeds of the loan will be promptly used to acquire active business assets or to make other authorized expenditures, and
 
 &emsp;&emsp;&emsp;(ii) the financial institution (or the Government Development Bank for Puerto Rico or the Puerto Rico Economic Development Bank) and the recipient of the investment funds agree to permit the Secretary and the Commissioner of Financial Institutions of Puerto Rico to examine such of their books and records as may be necessary to ensure that the requirements of this paragraph are met.
 
@@ -354,7 +354,7 @@ No credit shall be allowed under this section to a corporation for any taxable y
 
 #### (i) Requirement of significant business presence
 
-&emsp;&emsp;&emsp;An election may be made to use one of the methods specified in subparagraph (C)with respect to a product or type of service only if an electing corporation has a significant business presence in a possession with respect to such product or type of service. An election may remain in effect with respect to such product or type of service for any subsequent taxable year only if such electing corporation maintains a significant business presence in a possession with respect to such product or type of service in such subsequent taxable year. If an election is not in effect for a taxable year because of the preceding sentence, the electing corporation shall be deemed to have revoked the election on the first day of such taxable year.
+&emsp;&emsp;&emsp;An election may be made to use one of the methods specified in subparagraph (C) with respect to a product or type of service only if an electing corporation has a significant business presence in a possession with respect to such product or type of service. An election may remain in effect with respect to such product or type of service for any subsequent taxable year only if such electing corporation maintains a significant business presence in a possession with respect to such product or type of service in such subsequent taxable year. If an election is not in effect for a taxable year because of the preceding sentence, the electing corporation shall be deemed to have revoked the election on the first day of such taxable year.
 
 #### (ii) Definition
 
@@ -418,7 +418,7 @@ No credit shall be allowed under this section to a corporation for any taxable y
 
 #### (II) Effect of election
 
-&emsp;&emsp;&emsp;&emsp;For purposes of determining the amount of its gross income derived from the active conduct of a trade or business in a possession with respect to a product produced by, or type of service rendered by, the electing corporation for a taxable year, if an election of this method is in effect, the electing corporation shall be treated as the owner (for purposes of obtaining a return thereon) of intangible property described in subsection (h)(3)(B)(i) which is related to the units of the product produced, or type of service rendered, by the electing corporation. Such electing corporation shall not be treated as the owner (for purposes of obtaining a return thereon) of any intangible property described in subsection (h)(3)(B)(ii) through (v) (to the extent not described in subsection (h)(3)(B)(i)) or of any other nonmanufacturing intangible. Notwithstanding the precedingsentence, an electing corporation shall be treated as the owner (for purposes of obtaining a return thereon) of (a) intangible property which was developed solely by such corporation in a possession and is owned by such corporation, (b) intangible property described in subsection (h)(3)(B)(i) acquired by such corporation from a person who was not related to such corporation (or to any person related to such corporation) at the time of, or in connection with, such acquisition, and (c) any intangible property described in subsection (h)(3)(B)(ii) through (v) (to the extent not described in subsection (h)(3)(B)(i)) and other nonmanufacturing intangibles which relate to sales of units of products, or services rendered, to unrelated persons for ultimate consumption or use in the possession in which the electing corporation conducts its trade or business.
+&emsp;&emsp;&emsp;&emsp;For purposes of determining the amount of its gross income derived from the active conduct of a trade or business in a possession with respect to a product produced by, or type of service rendered by, the electing corporation for a taxable year, if an election of this method is in effect, the electing corporation shall be treated as the owner (for purposes of obtaining a return thereon) of intangible property described in subsection (h)(3)(B)(i) which is related to the units of the product produced, or type of service rendered, by the electing corporation. Such electing corporation shall not be treated as the owner (for purposes of obtaining a return thereon) of any intangible property described in subsection (h)(3)(B)(ii) through (v) (to the extent not described in subsection (h)(3)(B)(i)) or of any other nonmanufacturing intangible. Notwithstanding the preceding sentence, an electing corporation shall be treated as the owner (for purposes of obtaining a return thereon) of (a) intangible property which was developed solely by such corporation in a possession and is owned by such corporation, (b) intangible property described in subsection (h)(3)(B)(i) acquired by such corporation from a person who was not related to such corporation (or to any person related to such corporation) at the time of, or in connection with, such acquisition, and (c) any intangible property described in subsection (h)(3)(B)(ii) through (v) (to the extent not described in subsection (h)(3)(B)(i)) and other nonmanufacturing intangibles which relate to sales of units of products, or services rendered, to unrelated persons for ultimate consumption or use in the possession in which the electing corporation conducts its trade or business.
 
 #### (III) Payment provisions
 
@@ -442,7 +442,7 @@ No credit shall be allowed under this section to a corporation for any taxable y
 
 #### (II) Computation of combined taxable income
 
-&emsp;&emsp;&emsp;&emsp;Combined taxable income shall be computed separately for each product produced or type of service rendered, in whole or in part, by the electing corporation in a possession. Combined taxable income shall be computed (notwithstanding any provision to the contrary) for each such product or type of service rendered by deducting from the gross income of the affiliated group (other than foreign affiliates) derived from covered sales of such product or type of serviceall expenses, losses, and other deductions properly apportioned or allocated to gross income from such sales or services, and a ratable part of all expenses, losses, or other deductions which cannot definitely be allocated to some item or class of gross income, which are incurred by the affiliated group (other than foreign affiliates). Notwithstanding any other provision to the contrary, in computing the combined taxable income for each such product or type of service rendered, the research, development, and experimental costs, expenses and related deductions for the taxable year which would otherwise be apportioned or allocated to the gross income of the affiliated group (other than foreign affiliates) derived from covered sales of such product produced or type of service rendered, in whole or in part, by the electing corporation in a possession, shall not be less than the same proportion of the amount of the share of product area research determined under subparagraph (C)(i)(I) (without regard to the third and fourth sentences thereof, but substituting “120 percent” for “110 percent” in the second sentence thereof) in the product area which includes such product or type of service, that such gross income from the product or type of service bears to such gross income from all products and types of services, within such product area, produced or rendered, in whole or part, by the electing corporation in a possession.
+&emsp;&emsp;&emsp;&emsp;Combined taxable income shall be computed separately for each product produced or type of service rendered, in whole or in part, by the electing corporation in a possession. Combined taxable income shall be computed (notwithstanding any provision to the contrary) for each such product or type of service rendered by deducting from the gross income of the affiliated group (other than foreign affiliates) derived from covered sales of such product or type of service all expenses, losses, and other deductions properly apportioned or allocated to gross income from such sales or services, and a ratable part of all expenses, losses, or other deductions which cannot definitely be allocated to some item or class of gross income, which are incurred by the affiliated group (other than foreign affiliates). Notwithstanding any other provision to the contrary, in computing the combined taxable income for each such product or type of service rendered, the research, development, and experimental costs, expenses and related deductions for the taxable year which would otherwise be apportioned or allocated to the gross income of the affiliated group (other than foreign affiliates) derived from covered sales of such product produced or type of service rendered, in whole or in part, by the electing corporation in a possession, shall not be less than the same proportion of the amount of the share of product area research determined under subparagraph (C)(i)(I) (without regard to the third and fourth sentences thereof, but substituting “120 percent” for “110 percent” in the second sentence thereof) in the product area which includes such product or type of service, that such gross income from the product or type of service bears to such gross income from all products and types of services, within such product area, produced or rendered, in whole or part, by the electing corporation in a possession.
 
 #### (III) Division of combined taxable income
 
@@ -464,7 +464,7 @@ No credit shall be allowed under this section to a corporation for any taxable y
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;An election under subparagraph (A) to use one of the methods under subparagraph (C) shall be made only on or before the due date prescribed by law (including extensions) for filing the tax return of the electing corporation for its first taxable year beginning after December 31, 1982. If an election of one of such methods is made, such election shall be binding on the electing corporation and such method must be used for each taxable year thereafter until such election is revoked by the electing corporation under subparagraph (F)(iii). If any such election is revoked by the electing corporation under subparagraph (F)(iii), such electing corporation may make a subsequent election under subparagraph (A) only with the consent of the Secretary.
+&emsp;&emsp;&emsp;An election under subparagraph (A) to use one of the methods under subparagraph (C) shall be made only on or before the due date prescribed by law (including extensions) for filing the tax return of the electing corporation for its first taxable year beginning after December 31, 1982. If an election of one of such methods is made, such election shall be binding on the electing corporation and such method must be used for each taxable year thereafter until such election is revoked by the electing corporation under subparagraph (F)(iii). If any such election is revoked by the electing corporation under subparagraph (F)(iii), such electing corporation may make a subsequent election undersubparagraph (A) only with the consent of the Secretary.
 
 #### (ii) Manner of making election
 
@@ -534,7 +534,7 @@ No credit shall be allowed under this section to a corporation for any taxable y
 
 #### (C) Treatment of certain employees
 
-&emsp;&emsp;The term “qualified possession wages” shall not include any wages paid to employees who are assigned by the employer to perform services for another person, unless the principal trade or business of the employer is to make employees available for temporary periods to other persons in return for compensation. All possession corporations treated as 1 corporation under paragraph (5) shall be treated as 1 employer for purposes of the preceding sentence.
+&emsp;&emsp;The term “qualified possession wages” shall not include any wages paid to employees who are assigned by the employer to perform services for another person, unless theprincipal trade or business of the employer is to make employees available for temporary periods to other persons in return for compensation. All possession corporations treated as 1 corporation under paragraph (5) shall be treated as 1 employer for purposes of the preceding sentence.
 
 #### (D) Wages
 
@@ -560,7 +560,7 @@ No credit shall be allowed under this section to a corporation for any taxable y
 
 #### (B) Expenses taken into account
 
-&emsp;&emsp;For purposes of subparagraph (A), the amount determined under this subparagraphfor any taxable year is the aggregate amount allowable as a deduction under this chapter to the possession corporation for such taxable year with respect to—
+&emsp;&emsp;For purposes of subparagraph (A), the amount determined under this subparagraph for any taxable year is the aggregate amount allowable as a deduction under this chapter to the possession corporation for such taxable year with respect to—
 
 &emsp;&emsp;&emsp;(i) employer contributions under a stock bonus, pension, profit-sharing, or annuity plan,
 
@@ -748,7 +748,7 @@ No credit shall be allowed under this section to a corporation for any taxable y
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If a corporation does not have significant possession income for each of themost recent 5 taxable years ending before October 14, 1995, then, in lieu of applying subparagraph (A), the term “base period year” means only those taxable years (of such 5 taxable years) for which the corporation has significant possession income; except that, if such corporation has significant possession income for 4 of such 5 taxable years, the rule of subparagraph (A)(ii) shall apply.
+&emsp;&emsp;&emsp;If a corporation does not have significant possession income for each of the most recent 5 taxable years ending before October 14, 1995, then, in lieu of applying subparagraph (A), the term “base period year” means only those taxable years (of such 5 taxable years) for which the corporation has significant possession income; except that, if such corporation has significant possession income for 4 of such 5 taxable years, the rule of subparagraph (A)(ii) shall apply.
 
 #### (ii) Special rule
 
@@ -926,7 +926,7 @@ Subsec. (h)(3)(D)(ii). Pub. L. 99–514, §1812(c)(4)(C), amended cl. (ii) gener
 
 &emsp;“(II) section 267(b)(3) shall be applied without regard to whether a person was a personal holding company or a foreign personal holding company.”
 
-Subsec. (h)(5)(C)(i)(I). Pub. L. 99–514, §1231(a)(1), as amended by Pub. L. 100–647, §1012(n)(4), in introductory provisions, substituted “the same proportion of 110 percent of the cost” for “the same proportion of the cost”, and inserted at end of material relating to payment ofcost sharing “In the case of intangible property described in subsection (h)(3)(B)(i) which the electing corporation is treated as owning under subclause (II), in no event shall the payment required under this subclause be less than the inclusion or payment which would be required under section 367(d)(2)(A)(ii) or section 482 if the electing corporation were a foreign corporation.”
+Subsec. (h)(5)(C)(i)(I). Pub. L. 99–514, §1231(a)(1), as amended by Pub. L. 100–647, §1012(n)(4), in introductory provisions, substituted “the same proportion of 110 percent of the cost” for “the same proportion of the cost”, and inserted at end of material relating to payment of cost sharing “In the case of intangible property described in subsection (h)(3)(B)(i) which the electing corporation is treated as owning under subclause (II), in no event shall the payment required under this subclause be less than the inclusion or payment which would be required under section 367(d)(2)(A)(ii) or section 482 if the electing corporation were a foreign corporation.”
 
 Subsec. (h)(5)(C)(i)(I)(a). Pub. L. 99–514, §231(d)(3)(G), substituted “section 41(b)” for “section 30(b)”.
 
@@ -982,7 +982,7 @@ Section 6132(b) of Pub. L. 100–647 provided that: “The amendment made by thi
 
 Amendment by section 231(d)(3)(G) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1985, see section 231(g) of Pub. L. 99–514, set out as a note under section 41 of this title.
 
-Amendment by section 701(e)(4)(I) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 701(f) of Pub. L. 99–514, set out as an Effective Date note under section 55 of this title.
+Amendment by section 701(e)(4)(I) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31,1986, with certain exceptions and qualifications, see section 701(f) of Pub. L. 99–514, set out as an Effective Date note under section 55 of this title.
 
 Section 1231(g) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1012(n)(1)–(3), Nov. 10, 1988, 102 Stat. 3514, provided that:
 

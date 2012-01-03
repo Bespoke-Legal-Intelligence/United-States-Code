@@ -12,7 +12,7 @@ Section is based on section 3 of Senate Resolution No. 382, Ninetieth Congress, 
 
 #### Amendments
 
-2001—Pub. L. 107–68 substituted “and of the Old Supreme Court Chamber insofar as each” for “insofar as it”.
+<b>2001</b>—Pub. L. 107–68 substituted “and of the Old Supreme Court Chamber insofar as each” for “insofar as it”.
 
 #### Effective Date of 2001 Amendment
 

@@ -46,7 +46,7 @@ Section 2009g(i) of this title shall apply to any guarantee of a trust certifica
 
 #### (2) Ownership rights
 
-&emsp;No Federal, State, or local law shall preclude or limit the exercise by the Secretary of the ownership rights of the Secretary in a debenture residing in a trust or pool against which 1 or more trust certificates are issued under this section.
+&emsp;No Federal, State, or local law shall preclude or limit the exercise by the Secretary ofthe ownership rights of the Secretary in a debenture residing in a trust or pool against which 1 or more trust certificates are issued under this section.
 
 #### (e) Management and administration
 
@@ -82,7 +82,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (b)(3)(A). Pub. L. 110–246, §6027(a), added cl. (i), designated existing provisions as cl. (ii), inserted heading, and substituted “Subject to clause (i), if” for “In the event”.
+<b>2008</b>—Subsec. (b)(3)(A). Pub. L. 110–246, §6027(a), added cl. (i), designated existing provisions as cl. (ii), inserted heading, and substituted “Subject to clause (i), if” for “In the event”.
 
 #### Effective Date of 2008 Amendment
 

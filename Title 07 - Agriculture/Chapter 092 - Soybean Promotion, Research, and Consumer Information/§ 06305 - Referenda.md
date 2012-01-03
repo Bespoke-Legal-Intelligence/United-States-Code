@@ -84,5 +84,5 @@
 
 #### Amendments
 
-1991—Subsec. (b)(3)(A). Pub. L. 102–237 made technical amendment to reference to this chapter to correct reference to corresponding provision of original act.
+<b>1991</b>—Subsec. (b)(3)(A). Pub. L. 102–237 made technical amendment to reference to this chapter to correct reference to corresponding provision of original act.
 

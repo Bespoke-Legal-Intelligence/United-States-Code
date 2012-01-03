@@ -6,11 +6,11 @@
 
 (2) The Commission and the Secretary of the Treasury, in making rules and regulations pursuant to any provisions of this chapter, shall consider among other matters the impact any such rule or regulation would have on competition. The Commission and the Secretary of the Treasury shall not adopt any such rule or regulation which would impose a burden on competition not necessary or appropriate in furtherance of the purposes of this chapter. The Commission and the Secretary of the Treasury shall include in the statement of basis and purpose incorporated in any rule or regulation adopted under this chapter, the reasons for the Commission's or the Secretary's determination that any burden on competition imposed by such rule or regulation is necessary or appropriate in furtherance of the purposes of this chapter.
 
-(3) The Commission and the Secretary, in making rules and regulations pursuant to any provision of this chapter, considering any application for registration in accordance with section 78s(a) of this title, or reviewing any proposed rule change of a self-regulatory organization in accordance with section 78s(b) of this title, shall keep in a public file and make available for copying all written statements filedwith the Commission and the Secretary and all written communications between the Commission or the Secretary and any person relating to the proposed rule, regulation, application, or proposed rule change: <i>Provided, however</i>, That the Commission and the Secretary shall not be required to keep in a public file or make available for copying any such statement or communication which it may withhold from the public in accordance with the provisions of section 552 of title 5.
+(3) The Commission and the Secretary, in making rules and regulations pursuant to any provision of this chapter, considering any application for registration in accordance with section 78s(a) of this title, or reviewing any proposed rule change of a self-regulatory organization in accordance with section 78s(b) of this title, shall keep in a public file and make available for copying all written statements filed with the Commission and the Secretary and all written communications between the Commission or the Secretary and any person relating to the proposed rule, regulation, application, or proposed rule change: <i>Provided, however</i>, That the Commission and the Secretary shall not be required to keep in a public file or make available for copying any such statement or communication which it may withhold from the public in accordance with the provisions of section 552 of title 5.
 
 #### (b) Annual report to Congress
 
-(1) The Commission, the Board of Governors of the Federal Reserve System, and the other agencies enumerated in section 78c(a)(34) of this title, other than the Office of Thrift Supervision, shall each make an annual report to the Congress on its work for the preceding year, and shall include in each such report whatever information, data, and recommendations for further legislation it considers advisable with regard to matters within its respective jurisdiction under this chapter.
+(1) The Commission, the Board of Governors of the Federal Reserve System, and the other agencies enumerated in section 78c(a)(34) of this title shall each make an annual report to the Congress on its work for the preceding year, and shall include in each such report whatever information, data, and recommendations for further legislation it considers advisable with regard to matters within its respective jurisdiction under this chapter.
 
 (2) The appropriate regulatory agency for a self-regulatory organization shall include in its annual report to the Congress for each fiscal year, a summary of its oversight activities under this chapter with respect to such self-regulatory organization, including a description of any examination conducted as part of such activities of any such organization, any material recommendation presented as part of such activities to such organization for changes in its organization or rules, and any action by such organization in response to any such recommendation.
 
@@ -46,15 +46,13 @@ Within 1 year after October 15, 1990, the Commission shall establish regulations
 
 (June 6, 1934, ch. 404, title I, §23, 48 Stat. 901; Aug. 23, 1935, ch. 614, §203(a), 49 Stat. 704; May 27, 1936, ch. 462, §8, 49 Stat. 1379; Pub. L. 88–467, §10, Aug. 20, 1964, 78 Stat. 580; Pub. L. 94–29, §18, June 4, 1975, 89 Stat. 155; Pub. L. 99–571, title I, §102(j), Oct. 28, 1986, 100 Stat. 3220; Pub. L. 100–181, title III, §§324, 325, Dec. 4, 1987, 101 Stat. 1259; Pub. L. 101–429, title II, §204, Oct. 15, 1990, 104 Stat. 940; Pub. L. 103–202, title I, §107, Dec. 17, 1993, 107 Stat. 2351; Pub. L. 109–351, title IV, §401(a)(3), Oct. 13, 2006, 120 Stat. 1973; Pub. L. 111–203, title III, §376(4), July 21, 2010, 124 Stat. 1569.)
 
-#### Amendment of Subsection (b)(1)
-
-<i>Pub. L. 111–203, title III, §§351, 376(4), July 21, 2010, 124 Stat. 1546, 1569, provided that, effective on the transfer date, subsection (b)(1) of this section is amended by striking “, other than the Office of Thrift Supervision,”. See Effective Date of 2010 Amendment note below.</i>
-
 #### References in Text
 
 This chapter, referred to in subsecs. (a) to (c), was in the original “this title”. See References in Text note set out under section 78a of this title.
 
 #### Amendments
+
+<b>2010</b>—Subsec. (b)(1). Pub. L. 111–203 struck out “, other than the Office of Thrift Supervision,” before “shall each make”.
 
 <b>2006</b>—Subsec. (b)(1). Pub. L. 109–351 inserted “other than the Office of Thrift Supervision,” before “shall each”.
 

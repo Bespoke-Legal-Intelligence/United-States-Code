@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(B)(i) will provide community service employment and other authorized activities for eligible individuals in the community in which such individuals reside, or in nearby communities; or
 
-&emsp;&emsp;(ii) if such project is carried out by a tribal organization that receives a grant under thissubsection or receives assistance from a State that receives a grant under this subsection, will provide community service employment and other authorized activities for such individuals, including those who are Indians residing on an Indian reservation, as defined in section 3501 of title 25;
+&emsp;&emsp;(ii) if such project is carried out by a tribal organization that receives a grant under this subsection or receives assistance from a State that receives a grant under this subsection, will provide community service employment and other authorized activities for such individuals, including those who are Indians residing on an Indian reservation, as defined in section 3501 of title 25;
 
 &emsp;&emsp;(C) will comply with an average participation cap for eligible individuals (in the aggregate) of—
 
@@ -28,7 +28,7 @@
 
 &emsp;&emsp;&emsp;(ii) pursuant to the request of a grantee, an extended period of participation established by the Secretary for a specific project area for such grantee, up to a period of not more than 36 months, if the Secretary determines that extenuating circumstances exist relating to the factors identified in section 3056k(a)(2)(D) of this title that justify such an extended period for the program year involved;
 
-&emsp;&emsp;(D) will employ eligible individuals in service related to publicly owned and operated facilities and projects, or projects sponsored by nonprofit organizations (excluding political parties exempt from taxation under section 501(c)(3) of title 26), but excluding projects involving the construction, operation, or maintenance of any facility used or to be used as a place for sectarian religious instruction or worship;
+&emsp;&emsp;(D) will employ eligible individuals in service related to publicly owned and operated facilities and projects, or projects sponsored by nonprofit organizations (excludingpolitical parties exempt from taxation under section 501(c)(3) of title 26), but excluding projects involving the construction, operation, or maintenance of any facility used or to be used as a place for sectarian religious instruction or worship;
 
 &emsp;&emsp;(E) will contribute to the general welfare of the community, which may include support for children, youth, and families;
 
@@ -130,7 +130,7 @@
 
 &emsp;For purposes of this subchapter, administrative costs are the costs, both personnel-related and nonpersonnel-related and both direct and indirect, associated with the following:
 
-&emsp;&emsp;(A) The costs of performing general administrative functions and of providing for thecoordination of functions, such as the costs of—
+&emsp;&emsp;(A) The costs of performing general administrative functions and of providing for the coordination of functions, such as the costs of—
 
 &emsp;&emsp;&emsp;(i) accounting, budgeting, and financial and cash management;
 
@@ -266,7 +266,7 @@ Whenever a grantee conducts a project within a planning and service area in a St
 
 #### References in Text
 
-The Workforce Investment Act of 1998, referred to in subsecs. (b)(1)(H), (N)(i), (3) and (e)(2)(B)(ii), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, which enacted chapter 73 (§9201 et seq.) of Title 20, Education, and chapter 30 (§2801 et seq.) of Title 29, Labor, and enacted, amended, and repealed numerous other sections and notes in the Code. Title I of the Act is classified principally to chapter 30 of Title 29. Subtitle B of title I of the Act isclassified generally to subchapter II (§2811 et seq.) of chapter 30 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20 and Tables.
+The Workforce Investment Act of 1998, referred to in subsecs. (b)(1)(H), (N)(i), (3) and (e)(2)(B)(ii), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, which enacted chapter 73 (§9201 et seq.) of Title 20, Education, and chapter 30 (§2801 et seq.) of Title 29, Labor, and enacted, amended, and repealed numerous other sections and notes in the Code. Title I of the Act is classified principally to chapter 30 of Title 29. Subtitle B of title I of the Act is classified generally to subchapter II (§2811 et seq.) of chapter 30 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20 and Tables.
 
 The Fair Labor Standards Act of 1938, referred to in subsec. (b)(1)(J)(i), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
 
@@ -276,7 +276,7 @@ The Social Security Act, referred to in subsec. (b)(1)(N)(i), is act Aug. 14, 19
 
 #### Prior Provisions
 
-A prior section 3056, Pub. L. 89–73, title V, §502, as added Pub. L. 106–501, title V, §501, Nov. 13, 2000, 114 Stat. 2267; amended Pub. L. 109–270, §2(k)(1), Aug. 12, 2006, 120 Stat. 748, related to the older American community service employment program, prior to the general amendment of this subchapter by Pub. L. 109–365.
+A prior section 3056, Pub. L. 89–73, title V, §502, as added Pub. L. 106–501, title V, §501, Nov. 13, 2000, 114Stat. 2267; amended Pub. L. 109–270, §2(k)(1), Aug. 12, 2006, 120 Stat. 748, related to the older American community service employment program, prior to the general amendment of this subchapter by Pub. L. 109–365.
 
 Another prior section 3056, Pub. L. 89–73, title V, §502, formerly title IX, §902, as added Pub. L. 94–135, title I, §113(a), Nov. 28, 1975, 89 Stat. 720; renumbered title V, §502, and amended Pub. L. 95–478, title I, §105(a), (b), Oct. 18, 1978, 92 Stat. 1547; Pub. L. 97–115, §12(a)(1), (2), (b)(1), (c), Dec. 29, 1981, 95 Stat. 1606; Pub. L. 98–459, title V, §501, Oct. 9, 1984, 98 Stat. 1786; Pub. L. 100–175, title I, §§161, 162(a), Nov. 29, 1987, 101 Stat. 957; Pub. L. 102–375, title V, §§501, 504(c)(1), (2), title IX, §904(b)(1), Sept. 30, 1992, 106 Stat. 1265, 1269, 1309; Pub. L. 105–220, title III, §323, Aug. 7, 1998, 112 Stat. 1087; Pub. L. 105–277, div. A, §101(f) \[title VIII, §§403(b), 405(d)(33)(B), (f)(25)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–416, 2681–426, 2681–433; Pub. L. 105–332, §3(i)(1), Oct. 31, 1998, 112 Stat. 3126, related to the older American community service employment program, prior to the general amendment of this subchapter by Pub. L. 106–501.
 

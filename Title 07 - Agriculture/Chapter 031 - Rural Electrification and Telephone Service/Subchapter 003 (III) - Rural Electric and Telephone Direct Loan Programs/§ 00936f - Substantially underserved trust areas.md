@@ -24,7 +24,7 @@ The Secretary, in consultation with local governments and Federal agencies, may 
 
 In carrying out subsection (b), the Secretary—
 
-&emsp;(1) may make available from loan or loan guarantee programs administered by the Rural Utilities Service to qualified utilities or applicants financing with an interest rate aslow as 2 percent, and with extended repayment terms;
+&emsp;(1) may make available from loan or loan guarantee programs administered by the Rural Utilities Service to qualified utilities or applicants financing with an interest rate as low as 2 percent, and with extended repayment terms;
 
 &emsp;(2) may waive nonduplication restrictions, matching fund requirements, or credit support requirements from any loan or grant program administered by the Rural Utilities Service to facilitate the construction, acquisition, or improvement of infrastructure;
 

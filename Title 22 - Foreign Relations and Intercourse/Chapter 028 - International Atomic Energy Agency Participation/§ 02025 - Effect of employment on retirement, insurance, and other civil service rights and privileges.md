@@ -16,7 +16,7 @@ The President is authorized to prescribe such regulations as may be necessary to
 
 #### Repeals
 
-<i>Section 7 of Pub. L. 85–795, Aug. 28, 1958, 72 Stat. 962, provided that: “Section 6(a) of the International Atomic Energy Agency Participation Act of 1957 \[subsec. (a) of this section\], is repealed except that it shall be considered to remain in effect with respect to any employee subject thereto who is serving as an employee of the International Atomic Energy Agency on the date of enactment of this Act \[Aug. 28, 1958\] and who does not make the election referred to in section 6, and for the purposes of any rights and benefits vested thereunder prior to such date.”</i>
+<i>Section 7 of Pub. L. 85–795, Aug. 28, 1958, 72 Stat. 962, provided that: “Section 6(a) of the International Atomic Energy Agency Participation Act of 1957 \[subsec. (a) of this section\], is</i><i>repealed except that it shall be considered to remain in effect with respect to any employee subject thereto who is serving as an employee of the International Atomic Energy Agency on the date of enactment of this Act \[Aug. 28, 1958\] and who does not make the election referred to in section 6, and for the purposes of any rights and benefits vested thereunder prior to such date.”</i>
 
 <i>Section 7 of Pub. L. 85–795, Aug. 28, 1958, 72 Stat. 962, was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 660. See section 8 of Pub. L. 89–554, set out as a note preceding section 101 of Title 5, Government Organization and Employees.</i>
 

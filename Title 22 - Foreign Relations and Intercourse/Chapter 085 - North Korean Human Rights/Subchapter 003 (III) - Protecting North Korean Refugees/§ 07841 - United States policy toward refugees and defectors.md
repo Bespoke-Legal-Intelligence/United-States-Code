@@ -10,7 +10,7 @@ The report shall include—
 
 &emsp;(1) an assessment of the circumstances facing North Korean refugees and migrants in hiding, particularly in China, and of the circumstances they face if forcibly returned to North Korea;
 
-&emsp;(2) an assessment of whether North Koreans in China have effective access to personnel of the United Nations High Commissioner for Refugees, and of whether the Government of China is fulfilling its obligations under the 1951 Convention Relating to the Status of Refugees, particularly Articles 31, 32, and 33 of such Convention;
+&emsp;(2) an assessment of whether North Koreans in China have effective access to personnel of the United Nations High Commissioner forRefugees, and of whether the Government of China is fulfilling its obligations under the 1951 Convention Relating to the Status of Refugees, particularly Articles 31, 32, and 33 of such Convention;
 
 &emsp;(3) an assessment of whether North Koreans presently have unobstructed access to United States refugee and asylum processing, and of United States policy toward North Koreans who may present themselves at United States embassies or consulates and request protection as refugees or asylum seekers and resettlement in the United States;
 

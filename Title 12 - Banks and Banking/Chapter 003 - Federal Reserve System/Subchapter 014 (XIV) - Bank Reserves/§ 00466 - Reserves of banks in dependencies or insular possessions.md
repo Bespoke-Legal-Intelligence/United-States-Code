@@ -14,7 +14,7 @@ Section is comprised of subsec. (h), formerly eleventh par., of section 19 of ac
 
 #### Amendments
 
-1959—Pub. L. 86–70 struck out “in Alaska or” before “in a dependency”.
+<b>1959</b>—Pub. L. 86–70 struck out “in Alaska or” before “in a dependency”.
 
 #### Change of Name
 

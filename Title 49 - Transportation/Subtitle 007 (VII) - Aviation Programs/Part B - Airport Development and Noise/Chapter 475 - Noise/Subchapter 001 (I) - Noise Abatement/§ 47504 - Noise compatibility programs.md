@@ -22,7 +22,7 @@ Submissions.—(1) An airport operator that submitted a noise exposure map and r
 
 (b)
 
-Approvals.—(1) The Secretary shall approve or disapprove a program submitted under subsection (a) of this section (except as the program is related to flight procedures referred to in subsection (a)(2)(D) of this section) not later than 180 days after receiving it. The Secretaryshall approve the program (except as the program is related to flight procedures referred to in subsection (a)(2)(D)) if the program—
+Approvals.—(1) The Secretary shall approve or disapprove a program submitted under subsection (a) of this section (except as the program is related to flight procedures referred to in subsection (a)(2)(D) of this section) not later than 180 days after receiving it. The Secretary shall approve the program (except as the program is related to flight procedures referred to in subsection (a)(2)(D)) if the program—
 
 &emsp;(A) does not place an unreasonable burden on interstate or foreign commerce;
 

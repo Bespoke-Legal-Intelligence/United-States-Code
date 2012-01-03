@@ -14,7 +14,7 @@ The standard time of the first zone shall be known and designated as Atlantic st
 
 #### Conforming Changes in Time Zone Designations
 
-Section 2003(b) of Pub. L. 98–181 provided that:
+Pub. L. 98–181, title II, §2003(b), Nov. 30, 1983, 97 Stat. 1297, provided that:
 
 “(1) Any reference to Yukon standard time in any law, regulation, map, document, record, or other paper of the United States shall be held and considered to be a reference to Alaska standard time.
 

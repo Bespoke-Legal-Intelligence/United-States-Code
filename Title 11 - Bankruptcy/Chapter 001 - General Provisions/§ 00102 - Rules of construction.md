@@ -32,9 +32,9 @@ In this title—
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
-Section 102 specifies various rules of construction but is not exclusive. Other rules of construction that arenot set out in title 11 are nevertheless intended to be followed in construing the bankruptcy code. For example, the phrase “on request of a party in interest” or a similar phrase, is used in connection with an action that the court may take in various sections of the Code. The phrase is intended to restrict the court from acting sua sponte. Rules of bankruptcy procedure or court decisions will determine who is a party in interest for the particular purposes of the provision in question, but the court will not be permitted to act on its own.
+Section 102 specifies various rules of construction but is not exclusive. Other rules of construction that are not set out in title 11 are nevertheless intended to be followed in construing the bankruptcy code. For example, the phrase “on request of a party in interest” or a similar phrase, is used in connection with an action that the court may take in various sections of the Code. The phrase is intended to restrict the court from acting sua sponte. Rules of bankruptcy procedure or court decisions will determine who is a party in interest for the particular purposes of the provision in question, but the court will not be permitted to act on its own.
 
 Although “property” is not construed in this section, it is used consistently throughout the code in its broadest sense, including cash, all interests in property, such as liens, and every kind of consideration including promises to act or forbear to act as in section 548(d).
 
@@ -66,9 +66,9 @@ Paragraph (7) specifies that the singular includes the plural. The plural, howev
 
 #### Amendments
 
-1986—Par. (9). Pub. L. 99–554 added par. (9).
+<b>1986</b>—Par. (9). Pub. L. 99–554 added par. (9).
 
-1984—Par. (8). Pub. L. 98–353 substituted “contained” for “continued”.
+<b>1984</b>—Par. (8). Pub. L. 98–353 substituted “contained” for “continued”.
 
 #### Effective Date of 1986 Amendment
 

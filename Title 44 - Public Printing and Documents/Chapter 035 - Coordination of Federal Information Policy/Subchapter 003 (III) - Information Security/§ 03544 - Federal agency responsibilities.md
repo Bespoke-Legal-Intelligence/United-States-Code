@@ -46,7 +46,7 @@ In General.—The head of each agency shall—
 
 &emsp;&emsp;(C) developing and maintaining information security policies, procedures, and control techniques to address all applicable requirements, including those issued under section 3543 of this title, and section 11331 of title 40;
 
-&emsp;&emsp;(D) training and overseeing personnel with significant responsibilities for informationsecurity with respect to such responsibilities; and
+&emsp;&emsp;(D) training and overseeing personnel with significant responsibilities for information security with respect to such responsibilities; and
 
 &emsp;&emsp;(E) assisting senior agency officials concerning their responsibilities under paragraph (2);
 
@@ -164,7 +164,7 @@ The Federal Financial Management Improvement Act, referred to in subsec. (c)(2)(
 
 #### Change of Name
 
-Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives and Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives and Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 

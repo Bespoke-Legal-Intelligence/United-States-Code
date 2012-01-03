@@ -26,7 +26,7 @@ June 15, 1956, ch. 390, 70 Stat. 283.
 
 Sept. 13, 1961, Pub. L. 87–224, §1, 75 Stat. 496.
 
-The words “individuals employed by” and the word “individuals” are substituted for “civilian employees of” and “employees”, respectively, in view of the definition of “employee” in section 2105 which is limited to those employed by the Government of the United States. The word “civilian” is omitted as unnecessary as military personnel are not “employed”. The words “disbursing officials” are substituted for “disbursing officers” as the definition of “officer” in section 2104 excludes a member of a uniformed service.
+The words “individuals employed by” and the word “individuals” are substituted for “civilian employees of” and “employees”, respectively, in view of the definition of “employee” in section 2105 which is limited tothose employed by the Government of the United States. The word “civilian” is omitted as unnecessary as military personnel are not “employed”. The words “disbursing officials” are substituted for “disbursing officers” as the definition of “officer” in section 2104 excludes a member of a uniformed service.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -58,7 +58,7 @@ Sec. 3. Each such agreement shall:
 
 (c) Provide for procedures for the withholding, the filing of the returns, and the payment of the sums withheld from compensation to the officials of the State, or organization designated by such officials to receive sums withheld for such programs, which procedures shall conform, so far as practicable, to the usual fiscal practices of the Department of the Army and the Department of the Air Force, respectively.
 
-Sec. 4. The Secretary of the Army with respect to civilian employees of the Army National Guard, and the Secretary of the Air Force with respect to civilian employees of the Air National Guard, shall designate, orprovide for the designation of, the officers or employees whose duty it shall be to withhold sums from compensation, file required returns, and direct the payment of sums so withheld, in accordance with the terms of the agreements entered into between the Secretary of Defense and the States.
+Sec. 4. The Secretary of the Army with respect to civilian employees of the Army National Guard, and the Secretary of the Air Force with respect to civilian employees of the Air National Guard, shall designate, or provide for the designation of, the officers or employees whose duty it shall be to withhold sums from compensation, file required returns, and direct the payment of sums so withheld, in accordance with the terms of the agreements entered into between the Secretary of Defense and the States.
 
 Sec. 5. Nothing in this order, or in rules or regulations issued thereunder, or in any agreement entered into pursuant thereto, shall be construed as giving consent to the application of any provision of law of any State which has the effect of imposing more burdensome requirements upon the United States than it imposes upon departments, agencies, or political subdivisions of the State concerned, with respect to employees thereof who are members of the State or State-sponsored retirement, disability, or death benefits system, or which has the effect of subjecting the United States or any of its officers or employees to any penalty or liability.
 

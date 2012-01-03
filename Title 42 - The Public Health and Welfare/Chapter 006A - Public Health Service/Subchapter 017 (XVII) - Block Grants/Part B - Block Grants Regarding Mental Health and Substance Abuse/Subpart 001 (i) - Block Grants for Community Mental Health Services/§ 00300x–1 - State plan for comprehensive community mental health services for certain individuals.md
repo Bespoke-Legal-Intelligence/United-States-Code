@@ -64,7 +64,7 @@ With respect to the provision of comprehensive community mental health services 
 
 #### (2) Substantial implementation and good faith effort regarding fiscal year 1993
 
-&emsp;(A) In making a grant under section 300x of this title to a State for fiscal year 1993, the Secretary shall make a determination of the extent to which the State has implemented the plan required in subsection (a) of this section. If the Secretary determines that the State has not substantially implemented the plan, the Secretary shall, subject to subparagraph (B), reduce the amount of the allotment under section 300x of this title for the State for such fiscal year by an amount equal to 10 percent of the amount determined under section 300x–7 of this title for the State for the fiscal year.
+&emsp;(A) In making a grant under section 300x of this title to a State for fiscal year 1993, the Secretary shall make a determination of theextent to which the State has implemented the plan required in subsection (a) of this section. If the Secretary determines that the State has not substantially implemented the plan, the Secretary shall, subject to subparagraph (B), reduce the amount of the allotment under section 300x of this title for the State for such fiscal year by an amount equal to 10 percent of the amount determined under section 300x–7 of this title for the State for the fiscal year.
 
 &emsp;(B) In carrying out subparagraph (A), if the Secretary determines that the State is making a good faith effort to implement the plan required in subsection (a) of this section, the Secretary may make a reduction under such subparagraph in an amount that is less than the amount specified in such subparagraph, except that the reduction may not be made in an amount that is less than 5 percent of the amount determined under section 300x–7 of this title for the State for fiscal year 1993.
 
@@ -84,7 +84,7 @@ Section 300x–1, act July 1, 1944, ch. 373, title XIX, §1912, as added Oct. 19
 
 Another prior section 300x–1, act July 1, 1944, ch. 373, title XIX, §1912, as added Aug. 13, 1981, Pub. L. 97–35, title IX, §901, 95 Stat. 543; amended Jan. 4, 1983, Pub. L. 97–414, §8(t), 96 Stat. 2062; Oct. 19, 1984, Pub. L. 98–509, title I, §106(e), 98 Stat. 2358, contained provisions relating to grants and allotment of grants for alcohol, drug abuse, and mental health services, prior to repeal by section 102(a) of Pub. L. 98–509.
 
-Section 300x–1a, act July 1, 1944, ch. 373, title XIX, §1912A, as added and amended Nov. 18, 1988, Pub. L. 100–690, title II, §§2022(a)–(c), 2023, 102 Stat. 4194, 4196,4197; Aug. 16, 1989, Pub. L. 101–93, §2(a), 103 Stat. 603, related to allotments of grants for alcohol, drug abuse, and mental health services.
+Section 300x–1a, act July 1, 1944, ch. 373, title XIX, §1912A, as added and amended Nov. 18, 1988, Pub. L. 100–690, title II, §§2022(a)–(c), 2023, 102 Stat. 4194, 4196, 4197; Aug. 16, 1989, Pub. L. 101–93, §2(a), 103 Stat. 603, related to allotments of grants for alcohol, drug abuse, and mental health services.
 
 Another prior section 300x–1a, act July 1, 1944, ch. 373, title XIX, §1913, as added Oct. 19, 1984, Pub. L. 98–509, title I, §102(a), 98 Stat. 2353, was transferred to section 300x–1b of this title.
 

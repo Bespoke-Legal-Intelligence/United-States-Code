@@ -70,7 +70,7 @@ The Real Estate Settlement Procedures Act of 1974, referred to in subsec. (c), i
 
 #### Amendments
 
-2000—Subsec. (a)(1). Pub. L. 106–569, §§402(c)(2)(A)(i), 403(b)(1)(A), substituted “residential mortgage transaction (other than a residential mortgage transaction described in section 4902(g)(1) of this title)” for “residential mortgage or mortgage transaction (other than a mortgage or mortgage transaction described in section 4902(f)(1) of this title)” in introductory provisions.
+<b>2000</b>—Subsec. (a)(1). Pub. L. 106–569, §§402(c)(2)(A)(i), 403(b)(1)(A), substituted “residential mortgage transaction (other than a residential mortgage transaction described in section 4902(g)(1) of this title)” for “residential mortgage or mortgage transaction (other than a mortgage or mortgage transaction described in section 4902(f)(1) of this title)” in introductory provisions.
 
 Subsec. (a)(1)(A)(ii)(IV), (B)(iii). Pub. L. 106–569, §402(c)(2)(A)(ii), (iii), substituted “section 4902(g) of this title” for “section 4902(f) of this title”.
 

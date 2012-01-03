@@ -8,7 +8,7 @@
 
 (b) A claim under this section may be allowed only if it is presented to the head of the agency within one year after it accrues.
 
-(c) A claim under this section may be paid as provided in section 1304 of this title only if the claimant accepts the amount of the settlement in complete satisfaction of the claim against the Government.
+(c) A claim under this section may be paid as provided in section 1304 of this title only if theclaimant accepts the amount of the settlement in complete satisfaction of the claim against the Government.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 975.)
 

@@ -92,23 +92,23 @@ Section 1874(c) of title 42, referred to in subsec. (a)(2), which related to cle
 
 #### Amendments
 
-1996—Subsec. (e)(1). Pub. L. 104–208 inserted “, including personnel management services performed at the request of individual agencies (which would otherwise be the responsibility of such agencies), or at the request of nonappropriated fund instrumentalities” before period at end of first sentence.
+<b>1996</b>—Subsec. (e)(1). Pub. L. 104–208 inserted “, including personnel management services performed at the request of individual agencies (which would otherwise be the responsibility of such agencies), or at the request of nonappropriated fund instrumentalities” before period at end of first sentence.
 
-1995—Subsec. (e)(6). Pub. L. 104–66 struck out before period at end “at least once every three years”.
+<b>1995</b>—Subsec. (e)(6). Pub. L. 104–66 struck out before period at end “at least once every three years”.
 
-1994—Subsec. (e)(6). Pub. L. 103–437 substituted “Committee on Governmental Affairs of the Senate and theCommittee on Post Office and Civil Service of the House” for “Committees on Post Office and Civil Service of the Senate and House”.
+<b>1994</b>—Subsec. (e)(6). Pub. L. 103–437 substituted “Committee on Governmental Affairs of the Senate and theCommittee on Post Office and Civil Service of the House” for “Committees on Post Office and Civil Service of the Senate and House”.
 
-1984—Subsec. (e)(1). Pub. L. 98–224 struck out cl. (i) designation and struck out cl. (ii) which provided that participation fees imposed by the President's Commission on Executive Exchange for private sector participation in its Executive Exchange Program be collected and credited to the fund, and be available for the costs of education and related travel of exchanged executives, for printing without regard to section 501 of title 44, and, in such amounts as specified in appropriations Acts, for entertainment expenses. See section 4109(d) of this title.
+<b>1984</b>—Subsec. (e)(1). Pub. L. 98–224 struck out cl. (i) designation and struck out cl. (ii) which provided that participation fees imposed by the President's Commission on Executive Exchange for private sector participation in its Executive Exchange Program be collected and credited to the fund, and be available for the costs of education and related travel of exchanged executives, for printing without regard to section 501 of title 44, and, in such amounts as specified in appropriations Acts, for entertainment expenses. See section 4109(d) of this title.
 
-1983—Subsec. (e)(1). Pub. L. 97–412 designated existing provisions as cl. (i) and added cl. (ii).
+<b>1983</b>—Subsec. (e)(1). Pub. L. 97–412 designated existing provisions as cl. (i) and added cl. (ii).
 
-1979—Subsec. (a)(1). Pub. L. 96–60 struck out reference to section 1434 of title 22.
+<b>1979</b>—Subsec. (a)(1). Pub. L. 96–60 struck out reference to section 1434 of title 22.
 
-1978—Subsecs. (a) to (f). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission” wherever appearing.
+<b>1978</b>—Subsecs. (a) to (f). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission” wherever appearing.
 
-1971—Subsec. (e). Pub. L. 91–648 struck out in par. (1) “of $4,000,000” after “revolving fund” and inserted in par. (2)(A) “, which appropriations are hereby authorized”.
+<b>1971</b>—Subsec. (e). Pub. L. 91–648 struck out in par. (1) “of $4,000,000” after “revolving fund” and inserted in par. (2)(A) “, which appropriations are hereby authorized”.
 
-1969—Subsec. (e). Pub. L. 91–189, §1(a), increased the scope of reimbursable services for which the fund may be used, restricted reimbursement to services which were included in the budget estimates submitted to Congress for that fiscal year, inserted a list of components which comprise the fund, specifically listed those items that would be credited directly to the capital fund, required that a budget be prepared by the Commission, and directed the Comptroller General as a result of the activities financed to make recommendations to the committees on Post Office and Civil Service of the Senate and House of Representatives at least once every three years.
+<b>1969</b>—Subsec. (e). Pub. L. 91–189, §1(a), increased the scope of reimbursable services for which the fund may be used, restricted reimbursement to services which were included in the budget estimates submitted to Congress for that fiscal year, inserted a list of components which comprise the fund, specifically listed those items that would be credited directly to the capital fund, required that a budget be prepared by the Commission, and directed the Comptroller General as a result of the activities financed to make recommendations to the committees on Post Office and Civil Service of the Senate and House of Representatives at least once every three years.
 
 Subsec. (f). Pub. L. 91–189, §1(b), authorized an agency to use available appropriations to reimburse the Commission or the Federal Bureau of Investigation for the cost of training and functions performed.
 

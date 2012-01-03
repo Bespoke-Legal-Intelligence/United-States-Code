@@ -32,9 +32,9 @@ A prior section 2 of Pub. L. 88–74 was classified to section 390a of this titl
 
 #### Amendments
 
-2008—Par. (3). Pub. L. 110–246, §7101(b)(1), substituted “3103” for “3103(8)”.
+<b>2008</b>—Par. (3). Pub. L. 110–246, §7101(b)(1), substituted “3103” for “3103(8)”.
 
-2002—Par. (3). Pub. L. 107–171, §7214, reenacted heading without change and amended text of par. (3) generally. Prior to amendment, text read as follows: “The term ‘food and agricultural sciences’ means—
+<b>2002</b>—Par. (3). Pub. L. 107–171, §7214, reenacted heading without change and amended text of par. (3) generally. Prior to amendment, text read as follows: “The term ‘food and agricultural sciences’ means—
 
 &emsp;“(A) agriculture, including soil and water conservation and use, the use of organic materials to improve soil tilth and fertility, plant and animal production and protection, and plant and animal health;
 

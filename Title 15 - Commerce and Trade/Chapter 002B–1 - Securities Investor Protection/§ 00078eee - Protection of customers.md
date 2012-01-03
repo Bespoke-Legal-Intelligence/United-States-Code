@@ -96,7 +96,7 @@
 
 #### (B) Application for allowances
 
-&emsp;&emsp;Any person seeking allowances shall file with the court an application which complies in form and content with the provisions of title 11 governing applications for allowances under such title. A copy of such application shall be served upon SIPC when filed. The court shall fix a time for a hearing on such application, and notice of such hearing shall be given to the applicant, the trustee, the debtor, the creditors, SIPC, and such other persons as the court may designate, except that notice need not be given to customers whose claims have been or will be satisfied in full or to creditors who cannot reasonably be expected to receive any distribution during the course of the liquidation proceeding.
+&emsp;&emsp;Any person seeking allowances shall file with the court an application which complies in form and content with the provisions of title 11 governing applications for allowances under such title. A copy of such application shall be served upon SIPC when filed.The court shall fix a time for a hearing on such application, and notice of such hearing shall be given to the applicant, the trustee, the debtor, the creditors, SIPC, and such other persons as the court may designate, except that notice need not be given to customers whose claims have been or will be satisfied in full or to creditors who cannot reasonably be expected to receive any distribution during the course of the liquidation proceeding.
 
 #### (C) Recommendations of SIPC and awarding of allowances
 
@@ -138,7 +138,7 @@ The Commission may, on its own motion, file notice of its appearance in any proc
 
 SIPC shall be deemed to be a party in interest as to all matters arising in a liquidation proceeding, with the right to be heard on all such matters, and shall be deemed to have intervened with respect to all such matters with the same force and effect as if a petition for such purpose had been allowed by the court.
 
-(Pub. L. 91–598, §5, Dec. 30, 1970, 84 Stat. 1644; Pub. L. 95–283, §7, May 21, 1978, 92 Stat. 254; Pub. L. 95–598, title III, §308(a)–(f), Nov. 6, 1978, 92 Stat. 2674; Pub. L. 109–8, title IX, §911, Apr. 20, 2005, 119 Stat. 185; Pub. L. 109–390, §5(c), Dec. 12,2006, 120 Stat. 2698; Pub. L. 111–203, title IX, §929H(b), July 21, 2010, 124 Stat. 1857.)
+(Pub. L. 91–598, §5, Dec. 30, 1970, 84 Stat. 1644; Pub. L. 95–283, §7, May 21, 1978, 92 Stat. 254; Pub. L. 95–598, title III, §308(a)–(f), Nov. 6, 1978, 92 Stat. 2674; Pub. L. 109–8, title IX, §911, Apr. 20, 2005, 119 Stat. 185; Pub. L. 109–390, §5(c), Dec. 12, 2006, 120 Stat. 2698; Pub. L. 111–203, title IX, §929H(b), July 21, 2010, 124 Stat. 1857.)
 
 #### References in Text
 

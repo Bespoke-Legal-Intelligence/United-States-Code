@@ -12,5 +12,5 @@ The second paragraph was based on H. Res. No. 279, Ninety-eighth Congress, July 
 
 #### Amendments
 
-1996—Pub. L. 104–186, in first par., substituted “Senate employees” for “congressional employees” and struck out “and the Clerk of the House of Representatives” after “Secretary of the Senate”, and struck out second par. which read as follows: “This section shall not apply to any minor who is an employee of the House of Representatives or to any educational facility under the House of Representatives Page Board.”
+<b>1996</b>—Pub. L. 104–186, in first par., substituted “Senate employees” for “congressional employees” and struck out “and the Clerk of the House of Representatives” after “Secretary of the Senate”, and struck out second par. which read as follows: “This section shall not apply to any minor who is an employee of the House of Representatives or to any educational facility under the House of Representatives Page Board.”
 

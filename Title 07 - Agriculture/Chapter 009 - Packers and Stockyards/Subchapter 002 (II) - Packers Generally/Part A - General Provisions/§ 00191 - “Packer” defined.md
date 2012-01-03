@@ -6,5 +6,5 @@ When used in this chapter the term “packer” means any person engaged in the 
 
 #### Amendments
 
-1976—Pub. L. 94–410 substituted definition of “packer” for former definition which included provisions dealing with direct or indirect control of specified businesses through stock ownership or otherwise.
+<b>1976</b>—Pub. L. 94–410 substituted definition of “packer” for former definition which included provisions dealing with direct or indirect control of specified businesses through stock ownership or otherwise.
 

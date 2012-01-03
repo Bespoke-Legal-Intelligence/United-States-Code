@@ -56,7 +56,7 @@ It shall be the duty of the Joint Committee—
 
 &emsp;“(vi) the annual filing season.”
 
-<b>1998</b>—Par. (3). Pub. L. 105–206 reenacted heading without change and amended text generally. Prior toamendment, text read as follows: “To report, from time to time, to the Committee on Finance and the Committee on Ways and Means, and, in its discretion, to the Senate or the House of Representatives, or both, the results of its investigations, together with such recommendation as it may deem advisable.”
+<b>1998</b>—Par. (3). Pub. L. 105–206 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “To report, from time to time, to the Committee on Finance and the Committee on Ways and Means, and, in its discretion, to the Senate or the House of Representatives, or both, the results of its investigations, together with such recommendation as it may deem advisable.”
 
 #### Change of Name
 

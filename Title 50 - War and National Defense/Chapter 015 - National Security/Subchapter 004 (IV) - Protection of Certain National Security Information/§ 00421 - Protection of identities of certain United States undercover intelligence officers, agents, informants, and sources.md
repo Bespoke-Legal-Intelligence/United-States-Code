@@ -2,7 +2,7 @@
 
 #### (a) Disclosure of information by persons having or having had access to classified information that identifies covert agent
 
-Whoever, having or having had authorized access to classified information that identifies acovert agent, intentionally discloses any information identifying such covert agent to any individual not authorized to receive classified information, knowing that the information disclosed so identifies such covert agent and that the United States is taking affirmative measures to conceal such covert agent's intelligence relationship to the United States, shall be fined under title 18 or imprisoned not more than 15 years, or both.
+Whoever, having or having had authorized access to classified information that identifies a covert agent, intentionally discloses any information identifying such covert agent to any individual not authorized to receive classified information, knowing that the information disclosed so identifies such covert agent and that the United States is taking affirmative measures to conceal such covert agent's intelligence relationship to the United States, shall be fined under title 18 or imprisoned not more than 15 years, or both.
 
 #### (b) Disclosure of information by persons who learn identity of covert agents as result of having access to classified information
 

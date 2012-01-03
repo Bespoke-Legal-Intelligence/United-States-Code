@@ -111,7 +111,7 @@
 
 |  |  |
 | :--- | ---: |
-| [18101\.](Subchapter%20005%20%28V%29%20-%20Shared%20Responsibility%20for%20Health%20Care/Part%20B%20-%20Employer%20Responsibilities/%C2%A7%2018101%20-%20Free%20choice%20vouchers.md) | Free choice vouchers. |
+| [18101\.](Subchapter%20005%20%28V%29%20-%20Shared%20Responsibility%20for%20Health%20Care/Part%20B%20-%20Employer%20Responsibilities/%C2%A7%2018101%20-%20Repealed.%20Pub.%20L.%20112%E2%80%9310%2C%20div.%20B%2C%20title%20VIII%2C%20%C2%A71858%28a%29%2C%20Apr.%2015%2C%202011%2C%20125%20Stat.%20168.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

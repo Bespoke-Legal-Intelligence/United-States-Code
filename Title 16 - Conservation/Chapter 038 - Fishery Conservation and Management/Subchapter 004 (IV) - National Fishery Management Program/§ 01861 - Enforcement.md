@@ -26,7 +26,7 @@ The provisions of this chapter shall be enforced by the Secretary and the Secret
 
 &emsp;(C) exercise any other lawful authority.
 
-(2) Subject to the direction of the Secretary, a person charged with law enforcement responsibilities by the Secretary who is performing a duty related to enforcement of a law regarding fisheries or other marine resources may make an arrest without a warrant for an offense against the United States committed in his presence, or for a felony cognizable under the laws of the United States, if he has reasonable grounds to believe that the person to be arrested has committed or is committing a felony. Thearrest authority described in the preceding sentence may be conferred upon an officer or employee of a State agency, subject to such conditions and restrictions as are set forth by agreement between the State agency, the Secretary, and, with respect to enforcement operations within the exclusive economic zone, the Secretary of the department in which the Coast Guard is operating.
+(2) Subject to the direction of the Secretary, a person charged with law enforcement responsibilities by the Secretary who is performing a duty related to enforcement of a law regarding fisheries or other marine resources may make an arrest without a warrant for an offense against the United States committed in his presence, or for a felony cognizable under the laws of the United States, if he has reasonable grounds to believe that the person to be arrested has committed or is committing a felony. The arrest authority described in the preceding sentence may be conferred upon an officer or employee of a State agency, subject to such conditions and restrictions as are set forth by agreement between the State agency, the Secretary, and, with respect to enforcement operations within the exclusive economic zone, the Secretary of the department in which the Coast Guard is operating.
 
 #### (c) Issuance of citations
 
@@ -108,7 +108,7 @@ The Secretary, in consultation with the Governors of the Pacific Insular Areas a
 
 #### (1) In general
 
-&emsp;The Governor of an eligible State may apply to the Secretary for execution of a joint enforcement agreement with the Secretary that will authorize the deputization and funding of State law enforcement officers with marine law enforcement responsibilities to perform duties of the Secretary relating to law enforcement provisions under this subchapter or any other marine resource law enforced by the Secretary. Upon receiving an application meeting the requirements of this subsection, the Secretary may enter into a joint enforcement agreement with the requesting State.
+&emsp;The Governor of an eligible State may apply to the Secretary for execution of a joint enforcement agreement with the Secretary that will authorize the deputization and funding of State law enforcement officers with marine law enforcement responsibilities to perform duties of the Secretary relating to law enforcement provisions under this subchapter orany other marine resource law enforced by the Secretary. Upon receiving an application meeting the requirements of this subsection, the Secretary may enter into a joint enforcement agreement with the requesting State.
 
 #### (2) Eligible State
 
@@ -227,6 +227,18 @@ Section effective Mar. 1, 1977, see section 312 of Pub. L. 94–265, formerly se
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Fisheries Enforcement Asset Forfeiture Fund and Sanctuaries Enforcement Asset Forfeiture Fund
+
+Pub. L. 112–55, div. B, title I, §§110, 111, Nov. 18, 2011, 125 Stat. 602, provided that:
+
+“
+
+Sec. 110. There is established in the Treasury a non-interest bearing fund to be known as the ‘Fisheries Enforcement Asset Forfeiture Fund’, which shall consist of all sums received as fines, penalties, and forfeitures of property for violations of any provisions of 16 U.S.C. chapter 38 or of any other marine resource law enforced by the Secretary of Commerce, including the Lacey Act Amendments of 1981 (16 U.S.C. 3371 et seq.) and with the exception of collections pursuant to 16 U.S.C. 1437, which are currently deposited in the Operations, Research, and Facilities account: <i>Provided</i>, That all unobligated balances that have been collected pursuant to 16 U.S.C. 1861 or any other marine resource law enforced by the Secretary of Commerce with the exception of 16 U.S.C. 1437 shall be transferred from the Operations, Research, and Facilities account into the Fisheries Enforcement Asset Forfeiture Fund and shall remain available until expended.
+
+“
+
+Sec. 111. There is established in the Treasury a non-interest bearing fund to be known as the ‘Sanctuaries Enforcement Asset Forfeiture Fund’, which shall consist of all sums received as fines, penalties, and forfeitures of property for violations of any provisions of 16 U.S.C. chapter 38, which are currently deposited in the Operations, Research, and Facilities account: <i>Provided</i>, That all unobligated balances that have been collected pursuant to 16 U.S.C. 1437 shall be transferred from the Operations, Research, and Facilities account into theSanctuaries Enforcement Asset Forfeiture Fund and shall remain available until expended.”
 
 #### Action Against Vessels and Vessel Owners Engaged in Illegal, Unreported, or Unregulated Fishing
 

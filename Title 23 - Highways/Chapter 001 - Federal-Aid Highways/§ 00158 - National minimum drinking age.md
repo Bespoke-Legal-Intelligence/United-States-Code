@@ -40,7 +40,7 @@ The Internal Revenue Code of 1986, referred to in subsec. (c), is set out in Tit
 
 “(1)
 
-First year.—The Secretary shall withhold 5 per centum of the amount required to be apportioned to any State under each of sections 104(b)(1), 104(b)(2), 104(b)(5), and 104(b)(6) of this title on the first day of the fiscal year succeeding the first fiscal year beginning after September 30, 1985, in which the purchase or public possession in such State of any alcoholic beverage by a person who is less than twenty-one years of age is lawful.”
+First year.—The Secretary shall withhold 5 per centum of the amount required to be apportioned to any State under each of sections 104(b)(1), 104(b)(2),104(b)(5), and 104(b)(6) of this title on the first day of the fiscal year succeeding the first fiscal year beginning after September 30, 1985, in which the purchase or public possession in such State of any alcoholic beverage by a person who is less than twenty-one years of age is lawful.”
 
 Subsec. (a)(2), (3). Pub. L. 105–178, §1103(<i>l</i>)(2)(A)(ii), (iv), redesignated par. (3) as (2) and substituted “paragraph (1)” for “paragraphs (1) and (2) of this subsection”. Former par. (2) redesignated (1).
 
@@ -54,7 +54,7 @@ Subsec. (a)(2). Pub. L. 99–272, §4104(a), (d)(3), (5), added paragraph headin
 
 Subsec. (a)(3). Pub. L. 99–272, §4104(b), added par. (3).
 
-Subsec. (b). Pub. L. 99–272, §4104(c), amended subsec. (b) generally. Prior to amendment, subsec. (b) read asfollows: “The Secretary shall promptly apportion to a State any funds which have been withheld from apportionment under subsection (a) of this section in fiscal year if in any succeeding fiscal year such State makes unlawful the purchase or public possession of any alcoholic beverage by a person who is less than twenty-one years of age.”
+Subsec. (b). Pub. L. 99–272, §4104(c), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Secretary shall promptly apportion to a State any funds which have been withheld from apportionment under subsection (a) of this section in fiscal year if in any succeeding fiscal year such State makes unlawful the purchase or public possession of any alcoholic beverage by a person who is less than twenty-one years of age.”
 
 Subsec. (c). Pub. L. 99–272, §4104(d)(6), added subsection heading.
 

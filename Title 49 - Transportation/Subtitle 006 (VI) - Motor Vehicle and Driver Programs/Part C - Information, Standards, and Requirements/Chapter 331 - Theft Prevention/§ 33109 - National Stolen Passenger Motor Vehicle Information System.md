@@ -2,7 +2,7 @@
 
 (a)
 
-General Requirements.—(1) Not later than July 25, 1993, the Attorney General shallestablish, and thereafter maintain, a National Stolen Passenger Motor Vehicle Information System containing the vehicle identification numbers of stolen passenger motor vehicles and stolen passenger motor vehicle parts. The System shall be located in the National Crime Information Center and shall include at least the following information on each passenger motor vehicle reported to a law enforcement authority as stolen and not recovered:
+General Requirements.—(1) Not later than July 25, 1993, the Attorney General shall establish, and thereafter maintain, a National Stolen Passenger Motor Vehicle Information System containing the vehicle identification numbers of stolen passenger motor vehicles and stolen passenger motor vehicle parts. The System shall be located in the National Crime Information Center and shall include at least the following information on each passenger motor vehicle reported to a law enforcement authority as stolen and not recovered:
 
 &emsp;(A) the vehicle identification number.
 
@@ -100,7 +100,7 @@ In the section, the words “National Stolen Passenger Motor Vehicle Information
 
 In subsection (a)(1), before clause (A), the words “establish, and thereafter maintain” are substituted for “maintain” for clarity. The words “shall be located” are added for clarity.
 
-In subsection (a)(2)(B), the words “stolen passenger motor vehicle and passenger motor vehicle parts information” are substituted for “stolen vehicle and vehicleparts information” for consistency with the terminology used in the revised chapter.
+In subsection (a)(2)(B), the words “stolen passenger motor vehicle and passenger motor vehicle parts information” are substituted for “stolen vehicle and vehicle parts information” for consistency with the terminology used in the revised chapter.
 
 In subsection (a)(4), the text of 15:2026c(f) (1st sentence) is omitted as surplus. The words “the effective date of the System” are substituted for “shall be effective as provided” because of the restatement.
 

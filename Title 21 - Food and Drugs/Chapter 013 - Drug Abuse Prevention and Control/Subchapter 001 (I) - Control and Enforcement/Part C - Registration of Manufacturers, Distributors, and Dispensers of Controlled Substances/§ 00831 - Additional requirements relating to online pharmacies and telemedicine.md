@@ -22,7 +22,7 @@ Each online pharmacy shall post in a visible and clear manner on the homepage of
 
 &emsp;(5) A certification that the pharmacy is registered under this part to deliver, distribute, or dispense by means of the Internet controlled substances.
 
-&emsp;(6) The name, address, telephone number, professional degree, and States of licensure of any practitioner who has a contractual relationship to provide medical evaluations or issue prescriptions for controlled substances, through referrals from the website or at the request of the owner or operator of the website, or any employee or agent thereof.
+&emsp;(6) The name, address, telephone number, professional degree, and States of licensure of any practitioner who has a contractual relationship to provide medical evaluations or issue prescriptions for controlled substances, through referrals from the website or at therequest of the owner or operator of the website, or any employee or agent thereof.
 
 &emsp;(7) The following statement, unless revised by the Attorney General by regulation: “This online pharmacy will only dispense a controlled substance to a person who has a valid prescription issued for a legitimate medical purpose based upon a medical relationship with a prescribing practitioner. This includes at least one prior in-person medical evaluation or medical evaluation via telemedicine in accordance with applicable requirements of section 309.”.
 
@@ -58,7 +58,7 @@ Any statement, declaration, notification, or disclosure required under this sect
 
 #### (1) In general
 
-&emsp;For purposes of sections 802(52) and 882(c)(6)(B) of this title, the Secretary shallnotify the Attorney General, at such times and in such manner as the Secretary and the Attorney General determine appropriate, of the Indian tribes or tribal organizations with which the Secretary has contracted or compacted under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\] for the tribes or tribal organizations to provide pharmacy services.
+&emsp;For purposes of sections 802(52) and 882(c)(6)(B) of this title, the Secretary shall notify the Attorney General, at such times and in such manner as the Secretary and the Attorney General determine appropriate, of the Indian tribes or tribal organizations with which the Secretary has contracted or compacted under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\] for the tribes or tribal organizations to provide pharmacy services.
 
 #### (2) Designations
 

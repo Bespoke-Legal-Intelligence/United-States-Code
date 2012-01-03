@@ -2,7 +2,7 @@
 
 #### (a) General definition
 
-The term “taxable gifts” means the total amount of gifts made during the calendar year,less the deductions provided in subchapter C (section 2522 and following).
+The term “taxable gifts” means the total amount of gifts made during the calendar year, less the deductions provided in subchapter C (section 2522 and following).
 
 #### (b) Exclusions from gifts
 

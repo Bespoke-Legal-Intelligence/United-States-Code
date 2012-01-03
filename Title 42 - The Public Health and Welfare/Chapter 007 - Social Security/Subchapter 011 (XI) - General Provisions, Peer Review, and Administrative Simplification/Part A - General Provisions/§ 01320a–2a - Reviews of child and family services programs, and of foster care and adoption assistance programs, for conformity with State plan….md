@@ -58,10 +58,6 @@ The regulations referred to in subsection (a) of this section shall—
 
 (Aug. 14, 1935, ch. 531, title XI, §1123A, formerly §1123, as added Pub. L. 103–432, title II, §203(a), Oct. 31, 1994, 108 Stat. 4454; renumbered §1123A, Pub. L. 104–193, title V, §504, Aug. 22, 1996, 110 Stat. 2278; amended Pub. L. 109–432, div. B, title IV, §405(c)(1)(B)(ii), Dec. 20, 2006, 120 Stat. 2999.)
 
-#### References in Text
-
-Parts B and E of subchapter IV of this chapter, referred to in subsec. (a), are classified to sections 620 et seq. and 670 et seq., respectively, of this title.
-
 #### Codification
 
 Section was formerly classified to section 1320a–1a of this title prior to renumbering by Pub. L. 104–193.

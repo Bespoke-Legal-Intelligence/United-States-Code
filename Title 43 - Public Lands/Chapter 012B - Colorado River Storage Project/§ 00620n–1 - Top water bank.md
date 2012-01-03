@@ -24,7 +24,7 @@
 
 &emsp;(C) water in the top water bank be released for delivery to the owner or assigns of the banked water on request of the owner, subject to reasonable scheduling requirements for making the release;
 
-&emsp;(D) water in the top water bank be the first water spilled or released for flood control purposes in anticipation of a spill, on the condition that top water bank water shall not be released or included for purposes of calculating whether a release should occur for purposes of satisfying the flow recommendations of the San Juan River Basin Recovery Implementation Program; and
+&emsp;(D) water in the top water bank be the first water spilled or released for flood control purposes in anticipation of a spill, on the condition that top water bank water shall not be released or included for purposes of calculating whether a release should occur for purposes of satisfying the flow recommendations of theSan Juan River Basin Recovery Implementation Program; and
 
 &emsp;(E) water eligible for banking in the top water bank shall be water that otherwise would have been diverted and beneficially used in New Mexico that year.
 

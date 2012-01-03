@@ -44,7 +44,7 @@
 
 (d)(1) Subject to paragraph (2), the Office of the Secretary of the Air Force shall have sole responsibility within the Office of the Secretary and the Air Staff for the function of research and development.
 
-(2) The Secretary of the Air Force may assign to the Air Staff responsibility for those aspects of the function of research and development that relate to military requirements and test and evaluation.
+(2) The Secretary of the Air Force may assign to the Air Staff responsibility for those aspectsof the function of research and development that relate to military requirements and test and evaluation.
 
 (3) The Secretary shall establish or designate a single office or other entity within the Office of the Secretary of the Air Force to conduct the function specified in paragraph (1).
 

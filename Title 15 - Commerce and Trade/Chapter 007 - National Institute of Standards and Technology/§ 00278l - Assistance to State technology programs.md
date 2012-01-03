@@ -14,7 +14,7 @@
 
 #### Technology Extension Services
 
-Section 5121(b), (c) of Pub. L. 100–418, as amended by Pub. L. 102–245, title I, §105(d), Feb. 14, 1992, 106 Stat. 12, provided that:
+Pub. L. 100–418, title V, §5121(b), (c), Aug. 23, 1988, 102 Stat. 1436, 1437, as amended by Pub. L. 102–245, title I, §105(d), Feb. 14, 1992, 106 Stat. 12, provided that:
 
 “(b)
 
@@ -32,7 +32,7 @@ Technology Extension Services.—(1) The Secretary shall conduct a nationwide st
 
 &emsp;“(F) an assessment of how the services could be more effective agents for the transfer of Federal scientific and technical information, including the results and application of Federal and federally funded research.
 
-> The Secretary shall submit to the Committee on Science, Space, and Technology \[now Committee on Science and Technology\] of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate, at the time of submission of the organization plan for the Institute under section 5112(d)(1) \[of Pub. L. 100–418, set out as a note under section 272 of this title\], the results of the study and an initial implementation plan for the programs under section 26 of the Act of March 3, 1901 \[15 U.S.C. 278<i>l</i>\], and under this section \[enacting sections 278k to 278m of this title\]. The implementation plan shall include methods of providing technical assistance to States and criteria for awarding financial assistance under this section. The Secretary may make use of contractors and experts for any or all of the studies and findings called for in this section.
+> The Secretary shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate, at the time of submission of the organization plan for the Institute under section 5112(d)(1) \[of Pub. L. 100–418, set out as a note under section 272 of this title\], the results of the study and an initial implementation plan for the programs under section 26 of the Act of March 3, 1901 \[15 U.S.C. 278<i>l</i>\], and under this section \[enacting sections 278k to 278m of this title\]. The implementation plan shall include methods of providing technical assistance to States and criteria for awarding financial assistance under this section. The Secretary may make use of contractors and experts for any or all of the studies and findings called for in this section.
 
 “(2)(A) The Institute shall enter into cooperative agreements with State technology extension services to—
 
@@ -60,5 +60,5 @@ Technology Extension Services.—(1) The Secretary shall conduct a nationwide st
 
 “(c)
 
-Federal Technology Transfer Act of 1986.—Nothing in sections \[sic\] 25 or 26 of the Act of March 3, 1901 \[15 U.S.C. 278k, 278<i>l</i>\], or in subsection (b) of this section shall be construed as limiting the authorities contained in the Federal Technology Transfer Act of 1986 (Public Law 99–502) \[see Short Title of 1986 Amendments note set out under section 3701 of this title\].”
+Federal Technology Transfer Act of 1986.—Nothing in sections \[sic\] 25 or 26 of the Act of March 3,1901 \[15 U.S.C. 278k, 278<i>l</i>\], or in subsection (b) of this section shall be construed as limiting the authorities contained in the Federal Technology Transfer Act of 1986 (Public Law 99–502) \[see Short Title of 1986 Amendments note set out under section 3701 of this title\].”
 

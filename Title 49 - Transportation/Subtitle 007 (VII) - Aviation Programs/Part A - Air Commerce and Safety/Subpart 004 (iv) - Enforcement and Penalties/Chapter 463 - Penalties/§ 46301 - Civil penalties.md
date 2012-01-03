@@ -28,7 +28,7 @@ Penalties applicable to individuals and small business concerns.—
 
 &emsp;(A) An individual (except an airman serving as an airman) or small business concern is liable to the Government for a civil penalty of not more than $10,000 for violating—
 
-&emsp;&emsp;(i) chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), section 44502 (b) or (c), chapter 447 (except sections 44717–44723), or chapter 449 (except sections 44902, 44903(d), 44904, and 44907–44909) of this title; or
+&emsp;&emsp;(i) chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), section 44502 (b) or (c), chapter 447 (except sections 44717–44723), chapter 449 (except sections 44902, 44903(d), 44904, and 44907–44909), or section 46314(a) of this title; or
 
 &emsp;&emsp;(ii) a regulation prescribed or order issued under any provision to which clause (i) applies.
 
@@ -92,7 +92,7 @@ Administrative Imposition of Penalties.—(1) In this subsection—
 
 &emsp;(A) the amount in controversy is more than—
 
-&emsp;&emsp;(i) $50,000 if the violation was committed by any person before the date of enactment of the Vision 100—Century of Aviation Reauthorization Act;
+&emsp;&emsp;(i) $50,000 if the violation was committed by any person before the date of enactmentof the Vision 100—Century of Aviation Reauthorization Act;
 
 &emsp;&emsp;(ii) $400,000 if the violation was committed by a person other than an individual or small business concern on or after that date; or
 
@@ -184,7 +184,7 @@ Nonapplication.—(1) This section does not apply to the following when performi
 
 Small Business Concern Defined.—In this section, the term “small business concern” has the meaning given that term in section 3 of the Small Business Act (15 U.S.C. 632).
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1231; Pub. L. 103–305, title I, §112(c), title II, §207(c), Aug. 23, 1994, 108 Stat. 1575, 1588; Pub. L. 103–429, §6(60), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–264, title V, §502(c), title VIII, §804(b), title XII, §1220(b), Oct. 9, 1996, 110 Stat. 3263, 3271, 3286; Pub. L. 104–287, §5(77), Oct. 11, 1996, 110 Stat. 3396; Pub. L. 105–102, §3(c)(4), Nov. 20, 1997, 111 Stat. 2215; Pub. L. 106–181, title II, §222, title V, §§503(c), 504(b), 519(c), title VII, §§707(b), 720, Apr. 5, 2000, 114 Stat. 102, 133, 134, 149, 158, 163; Pub. L. 106–424, §15, Nov. 1, 2000, 114 Stat. 1888; Pub. L. 107–71, title I, §140(d)(1)–(4), Nov. 19, 2001, 115 Stat. 642; Pub. L. 107–296, title XVI, §1602, Nov. 25, 2002, 116 Stat. 2312; Pub. L. 108–176, title V, §503(a)–(c), Dec. 12, 2003, 117 Stat. 2557, 2558; Pub. L. 108–458, title IV, §4027(a), Dec. 17, 2004, 118 Stat. 3727; Pub. L. 110–53, title XIII, §1302(b), Aug. 3, 2007, 121 Stat. 392; Pub. L. 110–161, div. E, title V, §542, Dec. 26, 2007, 121 Stat. 2079.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1231; Pub. L. 103–305, title I, §112(c), title II, §207(c), Aug. 23, 1994, 108 Stat. 1575, 1588; Pub. L. 103–429, §6(60), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–264, title V, §502(c), title VIII, §804(b), title XII, §1220(b), Oct. 9, 1996, 110 Stat. 3263, 3271, 3286; Pub. L. 104–287, §5(77), Oct. 11, 1996, 110 Stat. 3396; Pub. L. 105–102, §3(c)(4), Nov. 20, 1997, 111 Stat. 2215; Pub. L. 106–181, title II, §222, title V, §§503(c), 504(b), 519(c), title VII, §§707(b), 720, Apr. 5, 2000, 114 Stat. 102, 133, 134, 149, 158, 163; Pub. L. 106–424, §15, Nov. 1, 2000, 114 Stat. 1888; Pub. L. 107–71, title I, §140(d)(1)–(4), Nov. 19, 2001, 115 Stat. 642; Pub. L. 107–296, title XVI, §1602, Nov. 25, 2002, 116 Stat. 2312; Pub. L. 108–176, title V, §503(a)–(c), Dec. 12, 2003, 117 Stat. 2557, 2558; Pub. L. 108–458, title IV, §4027(a), Dec. 17, 2004, 118 Stat. 3727; Pub. L. 110–53, title XIII, §1302(b), Aug. 3, 2007, 121 Stat. 392; Pub. L. 110–161, div. E, title V, §542, Dec. 26, 2007, 121 Stat. 2079; Pub. L. 112–74, div. D, title V, §564(a), Dec. 23, 2011, 125 Stat. 981.)
 
 Historical and Revision Notes
 
@@ -328,7 +328,7 @@ In subsection (d), the word “impose” is substituted for “assess” for con
 
 In subsection (d)(1), before clause (A), the words “the following definitions apply” are omitted as surplus.
 
-In subsection (d)(2), the text of section 7214 of the Anti-Drug Abuse Act of 1988 (Public Law 100–690, 102 Stat 4434) is omitted as obsolete. The words “or the delegate of the Administrator” are omitted because of 49:322(b).
+In subsection (d)(2), the text of section 7214 of the Anti-Drug Abuse Act of 1988 (Public Law 100–690, 102 Stat 4434) is omitted as obsolete. The words “or thedelegate of the Administrator” are omitted because of 49:322(b).
 
 In subsection (d)(4)(C), the word “or” is substituted for “and” for clarity.
 
@@ -371,6 +371,8 @@ The date of enactment of this paragraph, referred to in subsec. (a)(6), is the d
 The date of enactment of the Vision 100—Century of Aviation Reauthorization Act, referred to in subsec. (d)(4)(A), (8), is the date of enactment of Pub. L. 108–176, which was approved Dec. 12, 2003.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (a)(5)(A)(i). Pub. L. 112–74 substituted “chapter 449” for “or chapter 449” and inserted “, or section 46314(a)” after “44909)”.
 
 <b>2007</b>—Subsec. (a)(4). Pub. L. 110–53 struck out “or another requirement under this title administered by the Under Secretary of Transportation for Security” after “chapter 449”.
 

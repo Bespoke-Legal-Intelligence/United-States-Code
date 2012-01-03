@@ -22,7 +22,7 @@ Returns with respect to income taxes under subtitle A shall be made by the follo
 
 &emsp;&emsp;(i) who is described in section 63(c)(5) and who has—
 
-&emsp;&emsp;&emsp;(I) income (other than earned income) in excess of the sum of the amount in effectunder section 63(c)(5)(A) plus the additional standard deduction (if any) to which the individual is entitled, or
+&emsp;&emsp;&emsp;(I) income (other than earned income) in excess of the sum of the amount in effect under section 63(c)(5)(A) plus the additional standard deduction (if any) to which the individual is entitled, or
 
 &emsp;&emsp;&emsp;(II) total gross income in excess of the standard deduction, or
 
@@ -70,7 +70,7 @@ Returns with respect to income taxes under subtitle A shall be made by the follo
 
 #### (5) Joint fiduciaries
 
-&emsp;Under such regulations as the Secretary may prescribe, a return made by one of two or more joint fiduciaries shall be sufficient compliance with the requirements of this section. A return made pursuant to this paragraph shall contain a statement that the fiduciary has sufficient knowledge of the affairs of the person for whom the return is made to enable him to make the return, and that the return is, to the best of his knowledge and belief, true and correct.
+&emsp;Under such regulations as the Secretary may prescribe, a return made by one of two or more joint fiduciaries shall be sufficient compliance with the requirements of this section. A return made pursuant to this paragraph shall contain a statement that the fiduciary has sufficient knowledge of the affairs of the person for whom the return is made to enable him to make the return, and that the returnis, to the best of his knowledge and belief, true and correct.
 
 #### (6) IRA share of partnership income
 
@@ -212,7 +212,7 @@ Pub. L. 106–230, §3(d), July 1, 2000, 114 Stat. 483, provided that: “The am
 
 Amendment by section 312(d)(11) of Pub. L. 105–34 applicable to sales and exchanges after May 6, 1997, with certain exceptions, see section 312(d)\[(e)\] of Pub. L. 105–34, set out as a note under section 121 of this title.
 
-Amendment by section 1225 of Pub. L. 105–34 applicable to partnership taxable years beginning after Dec. 31, 1997, see section 1226 of Pub. L. 105–34, as amended, set out as a note under section 6011 of this title.
+Amendment by section 1225 of Pub. L. 105–34 applicable to partnership taxable years beginning after Dec.31, 1997, see section 1226 of Pub. L. 105–34, as amended, set out as a note under section 6011 of this title.
 
 #### Effective Date of 1988 Amendment
 

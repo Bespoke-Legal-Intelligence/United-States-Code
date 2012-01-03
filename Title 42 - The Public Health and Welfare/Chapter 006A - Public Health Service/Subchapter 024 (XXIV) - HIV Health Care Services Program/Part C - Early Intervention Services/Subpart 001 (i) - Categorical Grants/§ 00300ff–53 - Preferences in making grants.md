@@ -16,7 +16,7 @@ In making grants under section 300ff–51 of this title, the Secretary shall giv
 
 &emsp;&emsp;(C) the lack of availability of early intervention services;
 
-&emsp;&emsp;(D) the number of other cases of sexually transmitted diseases, and <sup>1</sup> the number of cases of tuberculosis and of drug abuse <sup>2</sup> andthe number of cases of individuals co-infected with HIV/AIDS and hepatitis B or C;
+&emsp;&emsp;(D) the number of other cases of sexually transmitted diseases, and <sup>1</sup> the number of cases of tuberculosis and of drug abuse <sup>2</sup> and the number of cases of individuals co-infected with HIV/AIDS and hepatitis B or C;
 
 &emsp;&emsp;(E) the rate of increase in each of the cases specified in subparagraph (D);
 

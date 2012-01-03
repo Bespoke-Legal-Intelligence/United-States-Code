@@ -22,7 +22,7 @@ Property includible in the decedent's gross estate under section 2041 (relating 
 
 #### (c) Death taxes payable out of bequests
 
-If the tax imposed by section 2001, or any estate, succession, legacy, or inheritance taxes,are, either by the terms of the will, by the law of the jurisdiction under which the estate is administered, or by the law of the jurisdiction imposing the particular tax, payable in whole or in part out of the bequests, legacies, or devises otherwise deductible under this section, then the amount deductible under this section shall be the amount of such bequests, legacies, or devises reduced by the amount of such taxes.
+If the tax imposed by section 2001, or any estate, succession, legacy, or inheritance taxes, are, either by the terms of the will, by the law of the jurisdiction under which the estate is administered, or by the law of the jurisdiction imposing the particular tax, payable in whole or in part out of the bequests, legacies, or devises otherwise deductible under this section, then the amount deductible under this section shall be the amount of such bequests, legacies, or devises reduced by the amount of such taxes.
 
 #### (d) Limitation on deduction
 
@@ -136,7 +136,7 @@ Works of art and their copyrights treated as separate properties in certain case
 
 &emsp;(A)
 
-In general.—In the case of a qualified contribution of a work of art, the work of art and the copyright on such work of art shall be treated as separate properties for purposes of paragraph (2).
+In general.—In the case of a qualified contribution of a work of art, the work of artand the copyright on such work of art shall be treated as separate properties for purposes of paragraph (2).
 
 &emsp;(B)
 
@@ -178,7 +178,7 @@ A deduction shall be allowed under subsection (a) in respect of any transfer of 
 
 &emsp;&emsp;<b>(5) For treatment of gifts and bequests to or for the benefit of National Park Foundation as gifts or bequests to or for the use of the United States, see section 8 of the Act of December 18, 1967 (16 U.S.C. 191).</b>
 
-&emsp;&emsp;<b>(6) For treatment of gifts, devises, or bequests accepted by the Secretary of State, the Director of the International Communication Agency, or the Director of the United States International Development</b><b>Cooperation Agency as gifts, devises, or bequests to or for the use of the United States, see section 25 of the State Department Basic Authorities Act of 1956.</b>
+&emsp;&emsp;<b>(6) For treatment of gifts, devises, or bequests accepted by the Secretary of State, the Director of the International Communication Agency, or the Director of the United States International Development Cooperation Agency as gifts, devises, or bequests to or for the use of the United States, see section 25 of the State Department Basic Authorities Act of 1956.</b>
 
 &emsp;&emsp;<b>(7) For treatment of gifts or bequests of money accepted by the Attorney General for credit to “Commissary Funds, Federal Prisons,” as gifts or bequests to or for the use of the United States, see section 4043 of title 18, United States Code.</b>
 
@@ -264,7 +264,7 @@ Subsec. (f)(5). Pub. L. 96–465, among other changes, inserted references to th
 
 <b>1978</b>—Subsec. (e)(3). Pub. L. 95–600 inserted “or (B)” before “of paragraph (2)”, substituted “on or before December 31, 1978” for “on or before December 31, 1977” wherever appearing and “which meets the requirements of such subparagraph (a) or (B) (as the case may be),” for “which is a charitable remainder annuity trust, a charitable remainder unitrust (described in section 664), or a pooled income fund (described in section 642(c)(5)),”.
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–455, §§1307(d)(1)(B)(ii), (C), 1313(b)(2), 1902(a)(12)(A), 2009(b)(4)(B), (C), struck out “(including the interest which falls into any such bequest, legacy, devise, or transfer as a result of an irrevocable disclaimer of a bequest, legacy, devise, transfer, or power, if the disclaimer is made before the date prescribed for the filing of the estate tax return)” after “or transfers” in provisions preceding par. (1), struck out “Territory,” after “State,” in par. (1), inserted “, or to foster national or international amateur sports competition (but only if no part of its activities involve the provision of athletic facilities or equipment),” after “encouragement of art” and substituted “which is not disqualified for tax exemption under section 501(c)(3) by reason of attempting to influence legislation,” for “no substantial part of the activities of which is carrying on propaganda, or otherwise attempting to influence legislation,” in par. (2), substituted “such trust, fraternal society, order, or association would not be disqualified for tax exemption under section 501(c)(3) by reason of attempting to influence legislation,” for “no substantial part of the activities of such trustee or trustees, or of such fraternal society, order, or association, is carrying on propaganda, or otherwise attempting, to influence legislation,” in par. (3), and, in provisions following par. (4), substituted “a qualified disclaimer” for “an irrevocable disclaimer” and “such qualified disclaimer” for “such irrevocable disclaimer”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §§1307(d)(1)(B)(ii), (C), 1313(b)(2), 1902(a)(12)(A), 2009(b)(4)(B), (C), struck out “(including the interest which falls into any such bequest, legacy, devise, or transfer as a result of an irrevocable disclaimer of a bequest, legacy, devise, transfer, or power, if the disclaimer is made before the date prescribed for the filing of the estate tax return)” after “or transfers” in provisions preceding par. (1), struck out “Territory,” after “State,” in par. (1), inserted “, or to foster national or international amateur sports competition (but only if no part of its activities involve the provision of athletic facilities or equipment),” after “encouragement of art” and substituted “which is not disqualified for tax exemption under section 501(c)(3) by reason of attempting to influence legislation,” for “no substantial part of the activities of which is carrying on propaganda, or otherwise attempting to influence legislation,” in par. (2), substituted “such trust, fraternal society, order, or association would not be disqualified for tax exemption under section 501(c)(3) by reason of attempting to influence legislation,” for “no substantial part of the activities of such trustee or trustees, or of such fraternal society, order, or association, is carrying on propaganda, or otherwise attempting, toinfluence legislation,” in par. (3), and, in provisions following par. (4), substituted “a qualified disclaimer” for “an irrevocable disclaimer” and “such qualified disclaimer” for “such irrevocable disclaimer”.
 
 Subsec. (b). Pub. L. 94–455, §1902(a)(4)(A), struck out provisions under which a bequest in trust, if the surviving spouse of the decedent was entitled for life to all of the net income from the trust and the surviving spouse had a power of appointment over the corpus of that trust exercisable by will in favor of, among others, organizations described in subsec. (a)(2), could be deemed a transfer to the organization by the decedent under certain conditions.
 
@@ -294,7 +294,7 @@ International Communication Agency, and Director thereof, redesignated United St
 
 #### Effective Date of 2007 Amendment
 
-Amendment by Pub. L. 110–172 effective as if included in the provisions of the Pension Protection Act of 2006,Pub. L. 109–280, to which such amendment relates, see section 3(j) of Pub. L. 110–172, set out as a note under section 170 of this title.
+Amendment by Pub. L. 110–172 effective as if included in the provisions of the Pension Protection Act of 2006, Pub. L. 109–280, to which such amendment relates, see section 3(j) of Pub. L. 110–172, set out as a note under section 170 of this title.
 
 #### Effective Date of 2006 Amendment
 
@@ -340,7 +340,7 @@ In general.—If on the date of the enactment of this Act \[July 18, 1984\] (or 
 
 &emsp;“(B)
 
-No interest where statute closed on date of enactment.—In any case where the making of the credit or refund of the overpayment described in subparagraph (A) is barred on the date of the enactment of this Act \[July 18, 1984\], no interest shall be allowed with respect to such overpayment (or any related adjustment) for the period before the date 180 days after the date on which the Secretary of the Treasury (or his delegate) is notified that the reformation has occurred.”
+No interest where statute closed on date of enactment.—In any case where the making of thecredit or refund of the overpayment described in subparagraph (A) is barred on the date of the enactment of this Act \[July 18, 1984\], no interest shall be allowed with respect to such overpayment (or any related adjustment) for the period before the date 180 days after the date on which the Secretary of the Treasury (or his delegate) is notified that the reformation has occurred.”
 
 Amendment by section 1032(b)(2) of Pub. L. 98–369 applicable to taxable years beginning after July 18, 1984, see section 1032(c) of Pub. L. 98–369, set out as a note under section 170 of this title.
 
@@ -428,7 +428,7 @@ Section 1422(d) of Pub. L. 99–514 provided that: “If the Secretary of the In
 
 #### Charitable Lead Trusts and Charitable Remainder Trusts in Case of Income and Gift Taxes
 
-Section 514(b) of Pub. L. 95–600, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Under regulations prescribed by the Secretary of the Treasury or his delegate, in the case of trusts created before December 31, 1977, provisions comparable to section 2055(e)(3) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by subsection (a)) shall be deemed to be included in sections 170 and 2522 of the Internal Revenue Code of 1986.”
+Section 514(b) of Pub. L. 95–600, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:“Under regulations prescribed by the Secretary of the Treasury or his delegate, in the case of trusts created before December 31, 1977, provisions comparable to section 2055(e)(3) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by subsection (a)) shall be deemed to be included in sections 170 and 2522 of the Internal Revenue Code of 1986.”
 
 #### Extension of Period for Filing Claim for Refund
 

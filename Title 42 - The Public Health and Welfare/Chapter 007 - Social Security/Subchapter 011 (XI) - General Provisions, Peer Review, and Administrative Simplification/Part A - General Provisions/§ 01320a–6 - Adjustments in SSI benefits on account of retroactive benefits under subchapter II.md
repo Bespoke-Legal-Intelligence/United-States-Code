@@ -12,7 +12,7 @@ Notwithstanding any other provision of this chapter, in any case where an indivi
 
 #### (b) “Supplemental security income benefits” defined
 
-For purposes of this section, the term “supplemental security income benefits” means benefits paid or payable by the Commissioner of Social Security under subchapter XVI of this chapter, including State supplementary payments under an agreement pursuant to section 1382e(a)of this title or an administration agreement under section 212(b) of Public Law 93–66.
+For purposes of this section, the term “supplemental security income benefits” means benefits paid or payable by the Commissioner of Social Security under subchapter XVI of this chapter, including State supplementary payments under an agreement pursuant to section 1382e(a) of this title or an administration agreement under section 212(b) of Public Law 93–66.
 
 #### (c) Reimbursement of the State
 
@@ -50,5 +50,5 @@ Section 2615(b) of Pub. L. 98–369 provided that: “The amendment made by this
 
 #### Effective Date
 
-Section 501(d) of Pub. L. 96–265 provided that: “The amendments made by this section \[enacting this section and amending sections 404 and 1383 of this title\] shall be applicable in the case of payments of monthly insurance benefits under title II of the Social Security Act \[subchapter II of this chapter\] entitlement for which is determined on or after the first day of the thirteenth month which begins after the date of the enactment of this Act \[June 9, 1980\].”
+Section 501(d) of Pub. L. 96–265 provided that: “The amendments made by this section \[enacting this section and amending sections 404 and 1383 of this title\] shall be applicable in the case of payments of monthly insurance benefits under title II of the Social Security Act \[subchapter II of this chapter\] entitlement for which is determined on or after the first day of thethirteenth month which begins after the date of the enactment of this Act \[June 9, 1980\].”
 

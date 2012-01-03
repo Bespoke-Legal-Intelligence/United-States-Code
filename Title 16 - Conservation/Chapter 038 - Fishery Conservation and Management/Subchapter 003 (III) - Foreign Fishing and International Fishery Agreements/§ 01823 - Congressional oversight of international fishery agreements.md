@@ -36,7 +36,7 @@ Any document described in subsection (a) of this section shall be immediately re
 
 &emsp;(B) Debate in the House of Representatives on any fishery agreement resolution shall be limited to not more than 10 hours, which shall be divided equally between those favoring and those opposing the resolution. A motion further to limit debate shall not be debatable. It shall not be in order to move to recommit any fishery agreement resolution or to move to reconsider the vote by which any fishery agreement resolution is agreed to or disagreed to.
 
-&emsp;(C) Motions to postpone, made in the House of Representatives with respect to the consideration of any fishery agreement resolution, and motions to proceed to the consideration ofother business, shall be decided without debate.
+&emsp;(C) Motions to postpone, made in the House of Representatives with respect to the consideration of any fishery agreement resolution, and motions to proceed to the consideration of other business, shall be decided without debate.
 
 &emsp;(D) All appeals from the decisions of the Chair relating to the application of the Rules of the House of Representatives to the procedure relating to any fishery agreement resolution shall be decided without debate.
 
@@ -48,7 +48,7 @@ Any document described in subsection (a) of this section shall be immediately re
 
 &emsp;(B) Debate in the Senate on any fishery agreement resolution and on all debatable motions and appeals in connection therewith shall be limited to not more than 10 hours. The time shall be equally divided between, and controlled by, the majority leader and the minority leader or their designees.
 
-&emsp;(C) Debate in the Senate on any debatable motion or appeal in connection with any fishery agreement resolution shall be limited to not more than 1 hour, to be equally divided between, and controlled by, the mover of the motion or appeal and the manager of the resolution, except that if the manager of the resolution is in favor of any such motion or appeal, the time in opposition thereto shall be controlled by the minority leader or his designee. The majority leader and the minority leader, or either of them, may allot additional time to any Senator during the consideration of any debatable motion or appeal, from time under their control with respect to the applicable fishery agreement resolution.
+&emsp;(C) Debate in the Senate on any debatable motion or appeal in connection with any fishery agreement resolution shall be limited to not more than 1 hour, to be equally divided between, and controlled by, the mover of the motion or appeal and the manager of the resolution, except that if the manager of the resolution is in favor of any such motion or appeal,the time in opposition thereto shall be controlled by the minority leader or his designee. The majority leader and the minority leader, or either of them, may allot additional time to any Senator during the consideration of any debatable motion or appeal, from time under their control with respect to the applicable fishery agreement resolution.
 
 &emsp;(D) A motion in the Senate to further limit debate is not debatable. A motion to recommit any fishery agreement resolution is not in order.
 
@@ -158,7 +158,7 @@ Pub. L. 98–498, title IV, §440, Oct. 19, 1984, 98 Stat. 2310, as amended by P
 
 #### Governing International Fishery Agreement With Japan
 
-Pub. L. 101–224, §7, Dec. 12, 1989, 103 Stat. 1907, provided that the governing international fishery agreement entered into between the Government of theUnited States and the Government of Japan was approved by Congress and was to enter into force and effect with respect to the United States on Dec. 12, 1989.
+Pub. L. 101–224, §7, Dec. 12, 1989, 103 Stat. 1907, provided that the governing international fishery agreement entered into between the Government of the United States and the Government of Japan was approved by Congress and was to enter into force and effect with respect to the United States on Dec. 12, 1989.
 
 Pub. L. 100–220, title I, §1001, Dec. 29, 1987, 101 Stat. 1459, provided that the governing international fishery agreement between the Government of the United States of America and the Government of Japan Concerning Fisheries Off the Coasts of the United States was approved by Congress as a governing international fishery agreement for the purposes of this chapter, and was to enter into force and effect with respect to the United States on Dec. 29, 1987.
 

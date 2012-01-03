@@ -168,7 +168,7 @@ The following Federal standards are hereby established:
 
 &emsp;&emsp;&emsp;(v) allowing timely recovery of energy efficiency-related costs; and
 
-&emsp;&emsp;&emsp;(vi) offering home energy audits, offering demand response programs, publicizing thefinancial and environmental benefits associated with making home energy efficiency improvements, and educating homeowners about all existing Federal and State incentives, including the availability of low-cost loans, that make energy efficiency improvements more affordable.
+&emsp;&emsp;&emsp;(vi) offering home energy audits, offering demand response programs, publicizing the financial and environmental benefits associated with making home energy efficiency improvements, and educating homeowners about all existing Federal and State incentives, including the availability of low-cost loans, that make energy efficiency improvements more affordable.
 
 #### (18) Consideration of smart grid investments
 

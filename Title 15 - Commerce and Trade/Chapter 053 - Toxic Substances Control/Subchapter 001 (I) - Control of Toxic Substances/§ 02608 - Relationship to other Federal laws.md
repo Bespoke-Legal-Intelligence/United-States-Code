@@ -2,7 +2,7 @@
 
 #### (a) Laws not administered by the Administrator
 
-(1) If the Administrator has reasonable basis to conclude that the manufacture, processing, distribution in commerce, use, or disposal of a chemical substance or mixture, or that any combination of such activities, presents or will present an unreasonable risk of injury to health or the environment and determines, in the Administrator's discretion, that such risk may be prevented or reduced to a sufficient extent by action taken under a Federal law not administered by the Administrator, the Administrator shall submit to the agency which administers such law a report which describes such risk and includes in such description a specification ofthe activity or combination of activities which the Administrator has reason to believe so presents such risk. Such report shall also request such agency—
+(1) If the Administrator has reasonable basis to conclude that the manufacture, processing, distribution in commerce, use, or disposal of a chemical substance or mixture, or that any combination of such activities, presents or will present an unreasonable risk of injury to health or the environment and determines, in the Administrator's discretion, that such risk may be prevented or reduced to a sufficient extent by action taken under a Federal law not administered by the Administrator, the Administrator shall submit to the agency which administers such law a report which describes such risk and includes in such description a specification of the activity or combination of activities which the Administrator has reason to believe so presents such risk. Such report shall also request such agency—
 
 &emsp;(A)(i) to determine if the risk described in such report may be prevented or reduced to a sufficient extent by action taken under such law, and
 
@@ -10,7 +10,7 @@
 
 &emsp;(B) to respond to the Administrator with respect to the matters described in subparagraph (A).
 
-> Any report of the Administrator shall include a detailed statement of the information on which it is based and shall be published in the Federal Register. The agency receiving a request under such a report shall make the requested determination, issue the requested order, and make the requested response within such time as the Administrator specifies in the request, but such time specified may not be less than 90 days from the date the request was made. The response of an agency shall be accompanied by a detailed statement of the findings and conclusions of the agency and shall be published in the Federal Register.
+> Any report of the Administrator shall include a detailed statement of the information on which it is based and shall be published in the FederalRegister. The agency receiving a request under such a report shall make the requested determination, issue the requested order, and make the requested response within such time as the Administrator specifies in the request, but such time specified may not be less than 90 days from the date the request was made. The response of an agency shall be accompanied by a detailed statement of the findings and conclusions of the agency and shall be published in the Federal Register.
 
 (2) If the Administrator makes a report under paragraph (1) with respect to a chemical substance or mixture and the agency to which such report was made either—
 

@@ -32,7 +32,7 @@
 
 &emsp;&emsp;&emsp;(iv) for establishing criteria for the credentialing of medical providers participating in the nationwide network under section 300mm–23 of this title;
 
-&emsp;&emsp;&emsp;(v) for coordinating and administering the activities of the WTC Health Program Steering Committees established under section 300mm–1(b) of this title; and
+&emsp;&emsp;&emsp;(v) for coordinating and administering the activities of the WTC Health Program Steering Committees established under section 300mm–1(b) <sup>1</sup> of this title; and
 
 &emsp;&emsp;&emsp;(vi) for meeting periodically with the corresponding Clinical Centers of Excellence to obtain input on the analysis and reporting of data collected under clause (i) and on the development of monitoring, initial health evaluation, and treatment protocols under clause (ii).
 
@@ -120,11 +120,17 @@
 
 #### (2) Fixed infrastructure costs
 
-&emsp;For purposes of paragraph (1), the term “fixed infrastructure costs” means, with respect to a Clinical Center of Excellence, the costs incurred by such Center that are not otherwise reimbursable by the WTC Program Administrator under section 300mm–22(c) of this title for patient evaluation, monitoring, or treatment but which are needed to operate the WTC program such as the costs involved in outreach to participants or recruiting participants, data collection and analysis, socialservices for counseling patients on other available assistance outside the WTC program, and the development of treatment protocols. Such term does not include costs for new construction or other capital costs.
+&emsp;For purposes of paragraph (1), the term “fixed infrastructure costs” means, with respect to a Clinical Center of Excellence, the costs incurred by such Center that are not otherwise reimbursable by the WTC Program Administrator under section 300mm–22(c) of this title for patient evaluation, monitoring, or treatment but which are needed to operate the WTC program such as the costs involved in outreach to participants or recruiting participants, data collection and analysis, social services for counseling patients on other available assistance outside the WTC program, and the development of treatment protocols. Such term does not include costs for new construction or other capital costs.
 
 #### (d) GAO analysis
 
 Not later than July 1, 2011, the Comptroller General shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate an analysis on whether Clinical Centers of Excellence with which the WTC Program Administrator enters into a contract under this section have financial systems that will allow for the timely submission of claims data for purposes of section 300mm–3 of this title and subsections (a)(1)(F) and (b)(1)(B)(iii).
 
 (July 1, 1944, ch. 373, title XXXIII, §3305, as added Pub. L. 111–347, title I, §101, Jan. 2, 2011, 124 Stat. 3630.)
+
+#### References in Text
+
+Section 300mm–1(b) of this title, referred to in subsec. (a)(2)(A)(v), was in the original “section 3002(b)” andwas translated as meaning section 3302(b) of act July 1, 1944, to reflect the probable intent of Congress.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -36,7 +36,7 @@ The Truth in Lending Act, referred to in subsec. (b)(1), is title I of Pub. L. 9
 
 #### Amendments
 
-1996—Subsec. (a)(2) to (4). Pub. L. 104–208 added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+<b>1996</b>—Subsec. (a)(2) to (4). Pub. L. 104–208 added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
 #### Update on Review of Regulations and Paperwork Reductions
 

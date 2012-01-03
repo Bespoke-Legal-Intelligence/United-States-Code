@@ -24,7 +24,7 @@ Except as provided in subsection (e) of this section, nothing in this chapter sh
 
 #### (1) In general
 
-&emsp;Regulations promulgated under section 6905(a) of this title shall apply within theboundaries of any State bordering on the Convention area if the Secretary has provided notice to such State, the State does not request an agency hearing, and the Secretary determines that the State—
+&emsp;Regulations promulgated under section 6905(a) of this title shall apply within the boundaries of any State bordering on the Convention area if the Secretary has provided notice to such State, the State does not request an agency hearing, and the Secretary determines that the State—
 
 &emsp;&emsp;(A) has not, within a reasonable period of time after the promulgation of regulations pursuant to this chapter, enacted laws or promulgated regulations that implement the recommendations of the Commission within the boundaries of such State; or
 
@@ -44,7 +44,7 @@ Except as provided in subsection (e) of this section, nothing in this chapter sh
 
 #### (f) Review of State laws and regulations
 
-To ensure that the purposes of subsection (e) are carried out, the Secretary shall undertake a continuing review of the laws and regulations of all States to which subsection (e) applies or may apply and the extent to which such laws and regulations are enforced.
+To ensure that the purposes of subsection (e) are carried out, the Secretary shall undertake a continuing review of the laws and regulations of all States to which subsection (e) applies or mayapply and the extent to which such laws and regulations are enforced.
 
 (Pub. L. 109–479, title V, §508, Jan. 12, 2007, 120 Stat. 3642.)
 

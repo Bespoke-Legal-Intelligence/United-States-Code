@@ -40,7 +40,7 @@ The instruments under which the loan is made and the security given shall—
 
 (1)(A) The Secretary may not accept an offer to prepay, or request refinancing in accordance with subsection (b)(3) of this section of, any loan made or insured under section 1484 or 1485 of this title pursuant to a contract entered into after December 21, 1979, but before December 15, 1989, unless the Secretary takes appropriate action which will obligate the borrower (and successors in interest thereof) to utilize the assisted housing and related facilities for the purposes specified in section 1484 or 1485 of this title, as the case may be, for a period of—
 
-&emsp;(i) fifteen years from the date on which the loan was made in the case of a loan made or insured pursuant to a contract entered into after December 21, 1979, but before December 15, 1989, and utilized for housing and related facilities which have not received assistance under section 1490a(a)(1)(B), (a)(2), or (5) of this title or section 1437f of this title; or
+&emsp;(i) fifteen years from the date on which the loan was made in the case of a loan made orinsured pursuant to a contract entered into after December 21, 1979, but before December 15, 1989, and utilized for housing and related facilities which have not received assistance under section 1490a(a)(1)(B), (a)(2), or (5) of this title or section 1437f of this title; or
 
 &emsp;(ii) twenty years from the date on which the loan was made in the case of any other such loan;
 
@@ -218,7 +218,7 @@ On and after November 30, 1983—
 
 &emsp;(A) reduce the operating costs for a borrower by maximizing the energy savings and be cost-effective over the life of the manufactured home or the term of the loan, whichever is shorter, taking into account variations in climate, types of energy used, the cost to modify the home to meet such requirements, and the estimated value of the energy saved over the term of the mortgage; and
 
-&emsp;(B) be established so that the increase in the annual loan payment resulting from the added energy conserving requirements in excess of those required by the standards prescribed under title VI of the Housing and Community Development Act of 1974 \[42 U.S.C. 5401 et seq.\] shall not exceed the projected savings in annual energy costs.
+&emsp;(B) be established so that the increase in the annual loan payment resulting from the added energy conserving requirements in excess of those required by the standards prescribed under title VI of the Housing and CommunityDevelopment Act of 1974 \[42 U.S.C. 5401 et seq.\] shall not exceed the projected savings in annual energy costs.
 
 (3) A loan that may be made or insured under this section with respect to a manufactured home on a permanent foundation, or a manufactured home on a permanent foundation and a lot, shall be repayable over the same period as would be applicable under section 203(b) of the National Housing Act \[12 U.S.C. 1709(b)\].
 
@@ -292,7 +292,7 @@ On and after November 30, 1983—
 
 &emsp;&emsp;&emsp;(i) for a first-time homebuyer, in any amount not in excess of 100 percent of the appraised value of the property as of the date the loan is accepted or the acquisition cost of the property, whichever is less, plus the guarantee fee as authorized by subsection (h)(7) <sup>2</sup> of this section; and
 
-&emsp;&emsp;&emsp;(ii) for any borrower other than a first-time homebuyer, in an amount not in excess of the percentage of the property or the acquisition cost of the property that the Secretary shall determine, such percentage or cost in any event not to exceed 100 percent of the appraised value of the property as of the date the loan is accepted or the acquisition cost of the property, whichever is less, plus the guarantee fee asauthorized by subsection (h)(7) <sup>2</sup> of this section.
+&emsp;&emsp;&emsp;(ii) for any borrower other than a first-time homebuyer, in an amount not in excess of the percentage of the property or the acquisition cost of the property that the Secretary shall determine, such percentage or cost in any event not to exceed 100 percent of the appraised value of the property as of the date the loan is accepted or the acquisition cost of the property, whichever is less, plus the guarantee fee as authorized by subsection (h)(7) <sup>2</sup> of this section.
 
 #### (8) Fees
 
@@ -360,7 +360,7 @@ On and after November 30, 1983—
 
 &emsp;&emsp;&emsp;&emsp;(I) the mortgage is in default or facing imminent default;
 
-&emsp;&emsp;&emsp;&emsp;(II) the mortgagee has modified the mortgage or qualified the mortgage formodification sufficient to cure the default and provide for mortgage payments the mortgagor is reasonably able to pay, at interest rates not exceeding current market interest rates; and
+&emsp;&emsp;&emsp;&emsp;(II) the mortgagee has modified the mortgage or qualified the mortgage for modification sufficient to cure the default and provide for mortgage payments the mortgagor is reasonably able to pay, at interest rates not exceeding current market interest rates; and
 
 &emsp;&emsp;&emsp;&emsp;(III) the Secretary arranges for servicing of the assigned mortgage by a mortgagee (which may include the assigning mortgagee) through procedures that the Secretary has determined to be in the best interests of the appropriate guaranty fund.
 
@@ -426,7 +426,7 @@ On and after November 30, 1983—
 
 #### (D) Amount
 
-&emsp;&emsp;To be eligible for a guarantee under this paragraph, the principal obligation underthe refinancing loan shall not exceed an amount equal to the sum of the balance of the loan being refinanced and such closing costs as may be authorized by the Secretary, which shall include a discount not exceeding 200 basis points and an origination fee not exceeding such amount as the Secretary shall prescribe.
+&emsp;&emsp;To be eligible for a guarantee under this paragraph, the principal obligation under the refinancing loan shall not exceed an amount equal to the sum of the balance of the loan being refinanced and such closing costs as may be authorized by the Secretary, which shall include a discount not exceeding 200 basis points and an origination fee not exceeding such amount as the Secretary shall prescribe.
 
 #### (E) Other requirements
 
@@ -650,7 +650,7 @@ Pub. L. 108–285, §3(a), Aug. 2, 2004, 118 Stat. 917, provided that: “The Co
 
 #### Maximum Level for Rural Single Family Housing Assistance
 
-Pub. L. 108–447, div. A, title VII, §765, Dec. 8, 2004, 118 Stat. 2847, provided that: “Notwithstanding any other provision of law, for any fiscal year and hereafter, in the case of a high cost isolated rural area in Alaska that is not connected to a road system, the maximum level for the single family housing assistance shall be 150 percent of the average income level in the metropolitan areas of the State and 115 percent of all other eligible areas of the State.”
+Pub. L. 108–447, div. A, title VII, §765, Dec. 8, 2004, 118 Stat. 2847, provided that: “Notwithstanding any otherprovision of law, for any fiscal year and hereafter, in the case of a high cost isolated rural area in Alaska that is not connected to a road system, the maximum level for the single family housing assistance shall be 150 percent of the average income level in the metropolitan areas of the State and 115 percent of all other eligible areas of the State.”
 
 Similar provisions were contained in the following appropriation acts:
 

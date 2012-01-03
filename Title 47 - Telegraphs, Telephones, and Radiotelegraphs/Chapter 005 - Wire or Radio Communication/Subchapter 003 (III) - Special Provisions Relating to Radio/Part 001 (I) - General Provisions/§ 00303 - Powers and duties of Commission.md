@@ -22,7 +22,7 @@ Except as otherwise provided in this chapter, the Commission from time to time, 
 
 (j) Have authority to make general rules and regulations requiring stations to keep such records of programs, transmissions of energy, communications, or signals as it may deem desirable;
 
-(k) Have authority to exclude from the requirements of any regulations in whole or inpart any radio station upon railroad rolling stock, or to modify such regulations in its discretion;
+(k) Have authority to exclude from the requirements of any regulations in whole or in part any radio station upon railroad rolling stock, or to modify such regulations in its discretion;
 
 (<i>l</i>)(1) Have authority to prescribe the qualifications of station operators, to classify them according to the duties to be performed, to fix the forms of such licenses, and to issue them to persons who are found to be qualified by the Commission and who otherwise are legally eligible for employment in the United States, except that such requirement relating to eligibility for employment in the United States shall not apply in the case of licenses issued by the Commission to (A) persons holding United States pilot certificates; or (B) persons holding foreign aircraft pilot certificates which are valid in the United States, if the foreign government involved has entered into a reciprocal agreement under which such foreign government does not impose any similar requirement relating to eligibility for employment upon citizens of the United States;
 
@@ -56,7 +56,7 @@ Except as otherwise provided in this chapter, the Commission from time to time, 
 
 (p) Have authority to cause to be published such call letters and such other announcements and data as in the judgment of the Commission may be required for the efficient operation of radio stations subject to the jurisdiction of the United States and for the proper enforcement of this chapter;
 
-(q) Have authority to require the painting and/or illumination of radio towers if and when in its judgment such towers constitute, or there is a reasonable possibility that they may constitute, a menace to air navigation. The permittee or licensee, and the tower owner in any case in which the owner is not the permittee or licensee, shall maintain the painting and/or illumination of the tower as prescribed by the Commission pursuant to this section. In the event that the tower ceases to be licensed by the Commission for the transmission of radio energy,the owner of the tower shall maintain the prescribed painting and/or illumination of such tower until it is dismantled, and the Commission may require the owner to dismantle and remove the tower when the Administrator of the Federal Aviation Agency determines that there is a reasonable possibility that it may constitute a menace to air navigation.
+(q) Have authority to require the painting and/or illumination of radio towers if and when in its judgment such towers constitute, or there is a reasonable possibility that they may constitute, a menace to air navigation. The permittee or licensee, and the tower owner in any case in which the owner is not the permittee or licensee, shall maintain the painting and/or illumination of the tower as prescribed by the Commission pursuant to this section. In the event that the tower ceases to be licensed by the Commission for the transmission of radio energy, the owner of the tower shall maintain the prescribed painting and/or illumination of such tower until it is dismantled, and the Commission may require the owner to dismantle and remove the tower when the Administrator of the Federal Aviation Agency determines that there is a reasonable possibility that it may constitute a menace to air navigation.
 
 (r) Make such rules and regulations and prescribe such restrictions and conditions, not inconsistent with law, as may be necessary to carry out the provisions of this chapter, or any international radio or wire communications treaty or convention, or regulations annexed thereto, including any treaty or convention insofar as it relates to the use of radio, to which the United States is or may hereafter become a party.
 
@@ -108,7 +108,7 @@ Except as otherwise provided in this chapter, the Commission from time to time, 
 
 &emsp;(1) if achievable (as defined in section 617 of this title), apparatus designed to record video programming transmitted simultaneously with sound, if such apparatus is manufactured in the United States or imported for use in the United States, enable the rendering or the pass through of closed captions, video description signals, and emergency information (as that term is defined in section 79.2 of title 47, Code of Federal Regulations) such that viewers are able to activate and de-activate the closed captions and video description as the video programming is played back on a picture screen of any size; and
 
-&emsp;(2) interconnection mechanisms and standards for digital video source devices are available to carry from the source device to the consumer equipment the information necessary to permit or render the display ofclosed captions and to make encoded video description and emergency information audible.
+&emsp;(2) interconnection mechanisms and standards for digital video source devices are available to carry from the source device to the consumer equipment the information necessary to permit or render the display of closed captions and to make encoded video description and emergency information audible.
 
 (aa) Require—
 
@@ -133,6 +133,10 @@ Except as otherwise provided in this chapter, the Commission from time to time, 
 &emsp;&emsp;(B) delivered in hardware, the requirements set forth in this subsection shall apply to the manufacturer of such hardware.
 
 (June 19, 1934, ch. 652, title III, §303, 48 Stat. 1082; May 20, 1937, ch. 229, §§5, 6, 50 Stat. 190, 191; Pub. L. 85–817, §1, Aug. 28, 1958, 72 Stat. 981; Pub. L. 87–445, Apr. 27, 1962, 76 Stat. 64; Pub. L. 87–529, §1, July 10, 1962, 76 Stat. 150; Pub. L. 88–313, §1, May 28, 1964, 78 Stat. 202; Pub. L. 88–487, §2, Aug. 22, 1964, 78 Stat. 602; Pub. L. 89–268, Oct. 19, 1965, 79 Stat. 990; Pub. L. 92–81, §1, Aug. 10, 1971, 85 Stat. 302; Pub. L. 93–505, §1, Nov. 30, 1974, 88 Stat. 1576; Pub. L. 97–259, title I, §§109–111(a), 113(b), Sept. 13, 1982, 96 Stat. 1092, 1093; Pub. L. 101–396, §8(a), Sept. 28, 1990, 104 Stat. 850; Pub. L. 101–431, §3, Oct. 15, 1990, 104 Stat. 960; Pub. L. 102–538, title II, §210(a), Oct. 27, 1992, 106 Stat. 3544; Pub. L. 104–104, title II, §205(b), title IV, §403(g), title V, §551(b)(1), (c), Feb. 8, 1996, 110 Stat. 114, 131, 140, 141; Pub. L. 105–33, title III, §3005, Aug. 5, 1997, 111 Stat. 268; Pub. L. 111–260, title II, §§203(a), (b), 204(a), 205(a), Oct. 8, 2010, 124 Stat. 2772–2774; Pub. L. 111–265, §2(12)–(15), Oct. 8, 2010, 124 Stat. 2796.)
+
+#### References in Text
+
+This chapter, referred to in text, was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
 #### Codification
 
@@ -336,7 +340,7 @@ Pub. L. 111–371, Jan. 4, 2011, 124 Stat. 4072, provided that:
 
 &emsp;“ ‘(2) prohibit any applicant from obtaining a low-power FM license if the applicant has engaged in any manner in the unlicensed operation of any station in violation of section 301 of the Communications Act of 1934 (47 U.S.C. 301).
 
-“ ‘(b) Any license that was issued by the Federal Communications Commission to a low-power FM station prior to April 2, 2001, and that does not comply with the modifications adopted by the Commission in MM Docket No. 99–25 on April 2, 2001, shall remain invalid.’
+“ ‘(b) Any license that was issued by the Federal Communications Commission to a low-power FM station prior to April 2, 2001, and that does not complywith the modifications adopted by the Commission in MM Docket No. 99–25 on April 2, 2001, shall remain invalid.’
 
 #### “SEC. 3. MINIMUM DISTANCE SEPARATION REQUIREMENTS.
 
@@ -354,7 +358,7 @@ Restriction.—
 
 &emsp;“(1)
 
-In general.—The Federal Communications Commission shall not amend its rules to reduce theminimum co-channel and first- and second-adjacent channel distance separation requirements in effect on the date of enactment of this Act \[Jan. 4, 2011\] between—
+In general.—The Federal Communications Commission shall not amend its rules to reduce the minimum co-channel and first- and second-adjacent channel distance separation requirements in effect on the date of enactment of this Act \[Jan. 4, 2011\] between—
 
 &emsp;&emsp;“(A) low-power FM stations; and
 
@@ -608,7 +612,7 @@ Section 2 of Pub. L. 101–431 provided that: “The Congress finds that—
 
 &emsp;“(5) closed-captioned television can assist both hearing and hearing-impaired children with reading and other learning skills, and improve literacy skills among adults;
 
-&emsp;“(6) closed-captioned television can assist those among our Nation's large immigrant population whoare learning English as a second language with language comprehension;
+&emsp;“(6) closed-captioned television can assist those among our Nation's large immigrant population who are learning English as a second language with language comprehension;
 
 &emsp;“(7) currently, a consumer must buy a TeleCaption decoder and connect the decoder to a television set in order to display the closed-captioned television transmissions;
 

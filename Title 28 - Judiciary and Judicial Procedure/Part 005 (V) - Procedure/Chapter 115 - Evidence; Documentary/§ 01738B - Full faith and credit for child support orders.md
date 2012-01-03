@@ -46,7 +46,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;(B) a State or political subdivision of a State to which the right to obtain child support has been assigned.
 
-&emsp;“court” means a court or administrative agency of a State that is authorized by Statelaw to establish the amount of child support payable by a contestant or make a modification of a child support order.
+&emsp;“court” means a court or administrative agency of a State that is authorized by State law to establish the amount of child support payable by a contestant or make a modification of a child support order.
 
 &emsp;“modification” means a change in a child support order that affects the amount, scope, or duration of the order and modifies, replaces, supersedes, or otherwise is made subsequent to the child support order.
 
@@ -106,7 +106,7 @@ In general.—In a proceeding to establish, modify, or enforce a child support o
 
 &emsp;(2)
 
-Law of state of issuance of order.—In interpreting a child support order including the duration of current payments and other obligations of support, a court shall apply the law of the State of the court that issued the order.
+Law of state of issuance of order.—In interpreting a child support order including the duration of current payments and other obligations of support, a court shall apply thelaw of the State of the court that issued the order.
 
 &emsp;(3)
 

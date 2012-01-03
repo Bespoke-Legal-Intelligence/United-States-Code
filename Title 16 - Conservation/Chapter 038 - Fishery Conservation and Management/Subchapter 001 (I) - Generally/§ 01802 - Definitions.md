@@ -112,7 +112,7 @@ Sponges
 
 &emsp;(13) The term “fishery” means—
 
-&emsp;&emsp;(A) one or more stocks of fish which can be treated as a unit for purposes of conservation and management and which are identified on the basis of geographical, scientific, technical, recreational, and economic characteristics; and
+&emsp;&emsp;(A) one or more stocks of fish which can be treated as a unit for purposes of conservation and management and which are identified on the basis of geographical, scientific,technical, recreational, and economic characteristics; and
 
 &emsp;&emsp;(B) any fishing for such stocks.
 
@@ -180,7 +180,7 @@ Sponges
 
 &emsp;(31) The term “observer” means any person required or authorized to be carried on a vessel for conservation and management purposes by regulations or permits under this chapter.
 
-&emsp;(32) The term “observer information” means any information collected, observed, retrieved, or created by an observer or electronic monitoring system pursuant to authorization by the Secretary, or collected as part of a cooperative research initiative, including fish harvest or processing observations, fish sampling or weighing data, vessel logbook data, vessel or processor-specific information (including any safety, location, or operating condition observations), and video, audio, photographic, or written documents.
+&emsp;(32) The term “observer information” means any information collected, observed, retrieved, or created by an observer or electronic monitoring system pursuant to authorization bythe Secretary, or collected as part of a cooperative research initiative, including fish harvest or processing observations, fish sampling or weighing data, vessel logbook data, vessel or processor-specific information (including any safety, location, or operating condition observations), and video, audio, photographic, or written documents.
 
 &emsp;(33) The term “optimum”, with respect to the yield from a fishery, means the amount of fish which—
 
@@ -224,7 +224,7 @@ Sponges
 
 &emsp;(45) The term “United States”, when used in a geographical context, means all the States thereof.
 
-&emsp;(46) The term “United States fish processors” means facilities located within the United States for, and vessels of the UnitedStates used or equipped for, the processing of fish for commercial use or consumption.
+&emsp;(46) The term “United States fish processors” means facilities located within the United States for, and vessels of the United States used or equipped for, the processing of fish for commercial use or consumption.
 
 &emsp;(47) The term “United States harvested fish” means fish caught, taken, or harvested by vessels of the United States within any fishery regulated under this chapter.
 
@@ -246,7 +246,7 @@ Sponges
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 Proclamation Numbered 5030, referred to in par. (11), is set out under section 1453 of this title.
 
@@ -490,7 +490,7 @@ Pars. (6) to (8). Pub. L. 99–659, §101(a), added par. (6), redesignated forme
 
 #### Change of Name
 
-“Pacific States Marine Fisheries Commission” substituted for “Pacific Marine Fisheries Commission” in par. (24) pursuant to section 1001(c) of Pub. L. 101–627, set out below.
+“Pacific States Marine Fisheries Commission” substituted for “Pacific Marine Fisheries Commission” in par. (28) pursuant to section 1001(c) of Pub. L. 101–627, set out below.
 
 #### Effective Date of 1992 Amendment
 

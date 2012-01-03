@@ -102,7 +102,7 @@ No person shall be subject to the penalties of subsection (a)(1) of this section
 
 (D) The Secretary may compromise, modify, or terminate, with or without conditions, any no-tobacco-sale order.
 
-(6) Any person who requested, in accordance with paragraph (5)(A), a hearing respecting the assessment of a civil penalty and who is aggrieved by an order assessing a civil penalty may file a petition for judicial review of such order with the United States Court of Appeals for the District of Columbia Circuit or for any other circuit in which such person resides or transacts business. Such a petition may only be filed within the 60-day period beginning on the date the order making such assessment was issued.
+(6) Any person who requested, in accordance with paragraph (5)(A), a hearing respecting the assessment of a civil penalty or the imposition of a no-tobacco-sale order and who is aggrieved by an order assessing a civil penalty or the imposition of a no-tobacco-sale order may file a petition for judicial review of such order with the United States Court of Appeals for the District of Columbia Circuit or for any other circuit in which such person resides or transacts business. Such a petition may only be filed within the 60-day period beginning on the date the order making such assessment was issued, or on which the no-tobacco-sale order was imposed, as the case may be.
 
 (7) If any person fails to pay an assessment of a civil penalty—
 
@@ -111,6 +111,34 @@ No person shall be subject to the penalties of subsection (a)(1) of this section
 &emsp;(B) after a court in an action brought under paragraph (6) has entered a final judgment in favor of the Secretary,
 
 > the Attorney General shall recover the amount assessed (plus interest at currently prevailing rates from the date of the expiration of the 60-day period referred to in paragraph (6) or the date of such final judgment, as the case may be) in an action brought in any appropriate district court of the United States. In such an action, the validity, amount, and appropriateness of such penalty shall not be subject to review.
+
+(8) If the Secretary finds that a person has committed repeated violations of restrictions promulgated under section 387f(d) of this title at a particular retail outlet then the Secretary may impose a no-tobacco-sale order on that person prohibiting the sale of tobacco products in that outlet. A no-tobacco-sale order may be imposed with a civil penalty under paragraph (1). Prior to the entry of a no-sale order under this paragraph, a person shall be entitled to a hearing pursuant to the procedures established through regulations of the Food and Drug Administration for assessing civil money penalties, including at a retailer's request a hearing by telephone, or at the nearest regional or field office of the Food and Drug Administration, or at a Federal, State, or county facility within 100 miles from the location of the retail outlet, if such a facility is available.
+
+(9)
+
+Civil Monetary Penalties for Violation of Tobacco Product Requirements.—
+
+&emsp;(A)
+
+In general.—Subject to subparagraph (B), any person who violates a requirement of this chapter which relates to tobacco products shall be liable to the United States for a civil penalty in an amount not to exceed $15,000 for each such violation, and not to exceed $1,000,000 for all such violations adjudicated in a single proceeding.
+
+&emsp;(B)
+
+Enhanced penalties.—
+
+&emsp;&emsp;(i) Any person who intentionally violates a requirement of section 387b(5), 387b(6), 387d, 387h(c), or 387k(a) of this title, shall be subject to a civil monetary penalty of—
+
+&emsp;&emsp;&emsp;(I) not to exceed $250,000 per violation, and not to exceed $1,000,000 for all such violations adjudicated in a single proceeding; or
+
+&emsp;&emsp;&emsp;(II) in the case of a violation that continues after the Secretary provides written notice to such person, $250,000 for the first 30-day period (or any portion thereof) that the person continues to be in violation, and such amount shall double for every 30-day period thereafter that the violation continues, not to exceed $1,000,000 for any 30-day period, and not to exceed $10,000,000 for all such violations adjudicated in a single proceeding.
+
+&emsp;&emsp;(ii) Any person who violates a requirement of section 387k(g)(2)(C)(ii) or 387k(i)(1) of this title, shall be subject to a civil monetary penalty of—
+
+&emsp;&emsp;&emsp;(I) not to exceed $250,000 per violation, and not to exceed $1,000,000 for all such violations adjudicated in a single proceeding; or
+
+&emsp;&emsp;&emsp;(II) in the case of a violation that continues after the Secretary provides written notice to such person, $250,000 for the first 30-day period (or any portion thereof) that the person continues to be in violation, and such amount shall double for every 30-day period thereafter that the violation continues, not to exceed $1,000,000 for any 30-day period, and not to exceed $10,000,000 for all such violations adjudicated in a single proceeding.
+
+&emsp;&emsp;(iii) In determining the amount of a civil penalty under clause (i)(II) or (ii)(II), the Secretary shall take into consideration whether the person is making efforts toward correcting the violation of the requirements of the section for which such person is subject to such civil penalty.
 
 #### (g) Violations regarding direct-to-consumer advertising
 
@@ -136,7 +164,7 @@ No person shall be subject to the penalties of subsection (a)(1) of this section
 
 &emsp;(H) Whether the person who created the advertisement or caused the advertisement to be created acted in good faith.
 
-&emsp;(I) Whether the person who created the advertisement or caused the advertisement to becreated has been assessed a civil penalty under this provision within the previous 1-year period.
+&emsp;(I) Whether the person who created the advertisement or caused the advertisement to be created has been assessed a civil penalty under this provision within the previous 1-year period.
 
 &emsp;(J) The scope and extent of any voluntary, subsequent remedial action by the person.
 
@@ -160,40 +188,6 @@ No person shall be subject to the penalties of subsection (a)(1) of this section
 
 (June 25, 1938, ch. 675, §303, 52 Stat. 1043; Oct. 26, 1951, ch. 578, §2, 65 Stat. 649; Pub. L. 86–618, title I, §105(b), July 12, 1960, 74 Stat. 403; Pub. L. 89–74, §§7, 9(d), July 15, 1965, 79 Stat. 233, 235; Pub. L. 90–639, §3, Oct. 24, 1968, 82 Stat. 1361; Pub. L. 91–513, title II, §701(b), Oct. 27, 1970, 84 Stat. 1281; Pub. L. 94–278, title V, §502(a)(2)(B), Apr. 22, 1976, 90 Stat. 411; Pub. L. 100–293, §7(b), Apr. 22, 1988, 102 Stat. 99; Pub. L. 100–690, title II, §2403, Nov. 18, 1988, 102 Stat. 4230; Pub. L. 101–629, §17(a), Nov. 28, 1990, 104 Stat. 4526; Pub. L. 101–647, title XIX, §1904, Nov. 29, 1990, 104 Stat. 4853; Pub. L. 102–353, §3, Aug. 26, 1992, 106 Stat. 941; Pub. L. 103–80, §3(e), Aug. 13, 1993, 107 Stat. 775; Pub. L. 103–322, title XXXIII, §330015, Sept. 13, 1994, 108 Stat. 2146; Pub. L. 104–170, title IV, §407, Aug. 3, 1996, 110 Stat. 1535; Pub. L. 106–387, §1(a) \[title VII, §745(d)(2)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–40; Pub. L. 107–250, title II, §201(c), Oct. 26, 2002, 116 Stat. 1609; Pub. L. 108–173, title XI, §1121(b)(2), Dec. 8, 2003, 117 Stat. 2469; Pub. L. 110–85, title II, §226(b), title VIII, §801(b)(2), title IX, §§901(d)(4), 902(b), Sept. 27, 2007, 121 Stat. 854, 920, 940, 943; Pub. L. 111–31, div. A, title I, §103(c), June 22, 2009, 123 Stat. 1835; Pub. L. 111–353, title II, §206(c), Jan. 4, 2011, 124 Stat. 3943.)
 
-#### Amendment of Subsection (f)
-
-<i>Pub. L. 111–31, div. A, title I, §103(c)(2), (3), (q)(3), June 22, 2009, 123 Stat. 1835, 1840, provided that, effective upon the issuance of guidance described in section 103(q)(1) of Pub. L. 111–31, set out as a Guidance note below, subsection (f) of this section is amended:</i>
-
-<i>(1) in paragraph (6), by (A) inserting “or the imposition of a no-tobacco-sale order” after “penalty” wherever appearing, and (B) substituting “issued, or on which the no-tobacco-sale order was imposed, as the case may be.” for “issued.”; and</i>
-
-<i>(2) by adding paragraphs (8) and (9) at the end to read as follows:</i>
-
-<i>(8) If the Secretary finds that a person has committed repeated violations of restrictions promulgated under section 387f(d) of this title at a particular retail outlet then the Secretary may impose a no-tobacco-sale order on that person prohibiting the sale of tobacco products in that outlet. A no-tobacco-sale order may be imposed with a civil penalty under paragraph (1). Prior to the entry of a no-sale order under this paragraph, a person shall be entitled to a hearing pursuant to the procedures established through regulations of the Food and Drug Administration for assessing civil money penalties, including at a retailer's request a hearing by telephone, or at the nearest regional or field office of the Food and Drug Administration, or at a Federal, State, or county facility within 100 miles from the location of the retail outlet, if such a facility is available.</i>
-
-<i>(9)</i>
-
-<i>Civil Monetary Penalties for Violation of Tobacco Product Requirements.—</i>
-
-#### <i>(A) In general</i>
-
-&emsp;<i>Subject to subparagraph (B), any person who violates a requirement of this chapter which relates to tobacco products shall be liable to the United States for a civil penalty in an amount not to exceed $15,000 for each such violation, and not to exceed $1,000,000 for all such violations adjudicated in a single proceeding.</i>
-
-#### <i>(B) Enhanced penalties</i>
-
-&emsp;<i>(i) Any person who intentionally violates a requirement of section 387b(5), 387b(6), 387d, 387h(c), or 387k(a) of this title, shall be subject to a civil monetary penalty of—</i>
-
-&emsp;&emsp;<i>(I) not to exceed $250,000 per violation, and not to exceed $1,000,000 for all such violations adjudicated in a single proceeding; or</i>
-
-&emsp;&emsp;<i>(II) in the case of a violation that continues after the Secretary provides written notice to such person, $250,000 for the first 30-day period (or any portion thereof) that the person continues to be in violation, and such amount shall double for every 30-day period thereafter that the violation continues, not to exceed $1,000,000 for any 30-day period, and not to exceed $10,000,000 for all such violations adjudicated in a single proceeding.</i>
-
-&emsp;<i>(ii) Any person who violates a requirement of section 387k(g)(2)(C)(ii) or 387k(i)(1) of this title, shall be subject to a civil monetary penalty of—</i>
-
-&emsp;&emsp;<i>(I) not to exceed $250,000 per violation, and not to exceed $1,000,000 for all such violations adjudicated in a single proceeding; or</i>
-
-&emsp;&emsp;<i>(II) in the case of a violation that continues after the Secretary provides written notice to such person, $250,000 for the first 30-day period (or any portion thereof) that the person continues to be in violation, and such amount shall double for every 30-day period thereafter that the violation continues, not to exceed $1,000,000 for any 30-day period, and not to exceed $10,000,000 for all such violations adjudicated in a single proceeding.</i>
-
-&emsp;<i>(iii) In determining the amount of a civil penalty under clause (i)(II) or (ii)(II), the Secretary shall take into consideration whether the person is making efforts toward correcting the violation of the requirements of the section for which such person is subject to such civil penalty.</i>
-
 #### References in Text
 
 The Controlled Substances Act, referred to in subsec. (e)(3), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
@@ -211,6 +205,10 @@ Subsec. (f)(5)(B). Pub. L. 111–31, §103(c)(1)(C), inserted “or the period t
 Subsec. (f)(5)(C). Pub. L. 111–31, §103(c)(1)(A), substituted “paragraph (1), (2), (3), (4), or (9)” for “paragraph (1), (2), (3), or (4)”.
 
 Subsec. (f)(5)(D). Pub. L. 111–31, §103(c)(1)(D), added subpar. (D).
+
+Subsec. (f)(6). Pub. L. 111–31, §103(c)(2), inserted “or the imposition of a no-tobacco-sale order” after “penalty” in two places and substituted “issued, or on which the no-tobacco-sale order was imposed, as the case may be.” for “issued.”
+
+Subsec. (f)(8), (9). Pub. L. 111–31, §103(c)(3), added pars. (8) and (9).
 
 <b>2007</b>—Subsec. (f). Pub. L. 110–85, §226(b)(1), redesignated subsec. (g) as (f).
 
@@ -256,7 +254,7 @@ Subsec. (g)(5). Pub. L. 104–170, §407(1), (5), redesignated par. (4) as (5) a
 
 <b>1993</b>—Subsecs. (e) to (g). Pub. L. 103–80, which directed the amendment of this section by redesignating the second subsec. (e) and subsec. (f) as subsecs. (f) and (g), respectively, could only be executed by designating subsec. (f) as (g) because this section did not contain a second subsec. (e) subsequent to amendment of Pub. L. 101–647 by Pub. L. 103–322. See 1990 and 1994 amendment notes for subsec. (e) under this section.
 
-<b>1992</b>—Subsec. (b)(1). Pub. L. 102–353, §3(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Notwithstanding subsection (a) of this section, any person who violates section 331(t) of this title because of an importation of a drug in violation of section 381(d)(1) of this title, because of a sale, purchase, or trade of a drug or drug sample or the offer to sell, purchase, or trade a drug or drug sample in violation of section 353(c) of this title, because of the sale, purchase, or trade of a coupon, the offer to sell, purchase, or trade such a coupon, or the counterfeiting of such a coupon in violation of section 353(c)(2) of this title, or the distribution of drugs in violation of section353(e)(2)(A) of this title shall be imprisoned for not more than 10 years or fined not more than $250,000, or both.”
+<b>1992</b>—Subsec. (b)(1). Pub. L. 102–353, §3(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Notwithstanding subsection (a) of this section, any person who violates section 331(t) of this title because of an importation of a drug in violation of section 381(d)(1) of this title, because of a sale, purchase, or trade of a drug or drug sample or the offer to sell, purchase, or trade a drug or drug sample in violation of section 353(c) of this title, because of the sale, purchase, or trade of a coupon, the offer to sell, purchase, or trade such a coupon, or the counterfeiting of such acoupon in violation of section 353(c)(2) of this title, or the distribution of drugs in violation of section 353(e)(2)(A) of this title shall be imprisoned for not more than 10 years or fined not more than $250,000, or both.”
 
 Subsec. (b)(4)(A). Pub. L. 102–353, §3(b)(1), substituted “the institution of a criminal proceeding against, and conviction of,” for “the arrest and conviction of”.
 
@@ -376,7 +374,7 @@ Pub. L. 111–31, div. A, title I, §103(q)(1), (2), June 22, 2009, 123 Stat. 18
 
 “(1)
 
-In general.—The Secretary of Health and Human Services shall issue guidance—
+In general.—The Secretary of Health and Human Services shall issue guidance \[see 76 F.R. 22905, effective Apr. 15, 2011\]—
 
 &emsp;“(A) defining the term ‘repeated violation’, as used in section 303(f)(8) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 333(f)(8)) as amended by subsection (c), as including at least 5 violations of particular requirements over a 36-month period at a particular retail outlet that constitute a repeated violation and providing for civil penalties in accordance with paragraph (2);
 
@@ -442,7 +440,7 @@ Training program.—For purposes of subparagraph (A), the term ‘approved train
 
 &emsp;“(C)
 
-Consideration of state penalties.—The Secretary shall coordinate with the States in enforcingthe provisions of this Act \[probably means div. A of Pub. L. 111–31, see Short Title of 2009 Amendment note set out under section 301 of this title and Tables for classifications\] and, for purposes of mitigating a civil penalty to be applied for a violation by a retailer of any restriction promulgated under section 906(d) \[21 U.S.C. 387f(d)\], shall consider the amount of any penalties paid by the retailer to a State for the same violation.”
+Consideration of state penalties.—The Secretary shall coordinate with the States in enforcing the provisions of this Act \[probably means div. A of Pub. L. 111–31, see Short Title of 2009 Amendment note set out under section 301 of this title and Tables for classifications\] and, for purposes of mitigating a civil penalty to be applied for a violation by a retailer of any restriction promulgated under section 906(d) \[21 U.S.C. 387f(d)\], shall consider the amount of any penalties paid by the retailer to a State for the same violation.”
 
 #### Construction of 2011 Amendment
 

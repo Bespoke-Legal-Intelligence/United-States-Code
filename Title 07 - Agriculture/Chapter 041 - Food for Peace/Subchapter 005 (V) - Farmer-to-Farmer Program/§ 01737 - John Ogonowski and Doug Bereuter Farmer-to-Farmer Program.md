@@ -154,21 +154,21 @@ Notwithstanding any other provision of law, in addition to any funds that may be
 
 #### Amendments
 
-2008—Subsec. (d). Pub. L. 110–246, §3024(a), in introductory provisions, substituted “not less than the greater of $10,000,000 or” for “not less than” and “2008 through 2012” for “2002 through 2007”.
+<b>2008</b>—Subsec. (d). Pub. L. 110–246, §3024(a), in introductory provisions, substituted “not less than the greater of $10,000,000 or” for “not less than” and “2008 through 2012” for “2002 through 2007”.
 
 Subsec. (e)(1). Pub. L. 110–246, §3024(b), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “There is authorized to be appropriated to carry out programs under this section in sub-Saharan African and Caribbean Basin countries $10,000,000 for each of fiscal years 2002 through 2007.”
 
-2004—Pub. L. 108–447, §769(2), inserted “and Doug Bereuter” after “John Ogonowski” in section catchline.
+<b>2004</b>—Pub. L. 108–447, §769(2), inserted “and Doug Bereuter” after “John Ogonowski” in section catchline.
 
 Subsec. (b)(1). Pub. L. 108–447, §769(1), inserted “and Doug Bereuter” after “John Ogonowski” in introductory provisions.
 
-2002—Pub. L. 107–171 reenacted section catchline without change and amended text generally, substituting, in subsec. (a), provisions relating to definitions for general provisions, in subsec. (b), provisions authorizing the President to administer the program for provisions relating to definitions, in subsec. (c), provisions relating to special emphasis on sub-Saharan African and Caribbean Basin countries for provisions relating to minimum funding, in subsec. (d), provisions relating to minimum funding for provisions relating to designation of program, and adding subsec. (e) relating to authorization of appropriations.
+<b>2002</b>—Pub. L. 107–171 reenacted section catchline without change and amended text generally, substituting, in subsec. (a), provisions relating to definitions for general provisions, in subsec. (b), provisions authorizing the President to administer the program for provisions relating to definitions, in subsec. (c), provisions relating to special emphasis on sub-Saharan African and Caribbean Basin countries for provisions relating to minimum funding, in subsec. (d), provisions relating to minimum funding for provisions relating to designation of program, and adding subsec. (e) relating to authorization of appropriations.
 
-2001—Pub. L. 107–76, §777(1), inserted “John Ogonowski” before “Farmer-to-Farmer Program” in section catchline.
+<b>2001</b>—Pub. L. 107–76, §777(1), inserted “John Ogonowski” before “Farmer-to-Farmer Program” in section catchline.
 
 Subsec. (d). Pub. L. 107–76, §777(2), added subsec. (d).
 
-1996—Subsec. (a). Pub. L. 104–127, §277(c)(1)(A), substituted “emerging markets” for “emerging democracies” in introductory provisions.
+<b>1996</b>—Subsec. (a). Pub. L. 104–127, §277(c)(1)(A), substituted “emerging markets” for “emerging democracies” in introductory provisions.
 
 Subsec. (a)(6). Pub. L. 104–127, §224(1), added par. (6) and struck out former par. (6) which read as follows: “to the extent practicable, augment the funds available for programs established under this section through the use of foreign currencies that accrue from the sale of agricultural commodities under this chapter, and local currencies generated from other types of foreign assistance activities.”
 
@@ -184,7 +184,7 @@ Subsec. (b)(1). Pub. L. 104–127, §277(c)(1)(B), added par. (1) and struck out
 
 Subsec. (c). Pub. L. 104–127, §224(2), substituted “0.4 percent of the amounts” for “0.2 percent of the amounts”, “1996 through 2002” for “1991 through 1995”, and “0.2 percent to be used” for “0.1 percent to be used”.
 
-1991—Subsec. (a)(3). Pub. L. 102–237 struck out comma after “public”.
+<b>1991</b>—Subsec. (a)(3). Pub. L. 102–237 struck out comma after “public”.
 
 #### Effective Date of 2008 Amendment
 

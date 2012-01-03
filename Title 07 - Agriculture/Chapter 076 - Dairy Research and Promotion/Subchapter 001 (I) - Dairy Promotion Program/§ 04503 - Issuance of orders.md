@@ -20,5 +20,5 @@ The Secretary, in consultation with the United States Trade Representative, shal
 
 #### Amendments
 
-2002—Subsec. (d). Pub. L. 107–171, which directed the addition of subsec. (d) at the end of section 112 of the Dairy Promotion Stabilization Act of 1983, was executed by adding subsec. (d) at the end of this section to reflect the probable intent of Congress.
+<b>2002</b>—Subsec. (d). Pub. L. 107–171, which directed the addition of subsec. (d) at the end of section 112 of the Dairy Promotion Stabilization Act of 1983, was executed by adding subsec. (d) at the end of this section to reflect the probable intent of Congress.
 

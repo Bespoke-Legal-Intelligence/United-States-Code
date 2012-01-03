@@ -36,13 +36,13 @@
 
 (b) A vacancy in the Commission shall be filled in the manner in which the original appointment was made.
 
-(c) If any member of the Commission who was appointed to the Commission as a Member of the Congress leave such office, or if any member of the Commission who was appointed from persons who are not officers or employees of anygovernment becomes an officer or employee of a government, he may continue as a member of the Commission for no longer than the sixty-day period beginning on the date he leaves such office or becomes such an officer or employee, as the case may be.
+(c) If any member of the Commission who was appointed to the Commission as a Member of the Congress leave such office, or if any member of the Commission who was appointed from persons who are not officers or employees of any government becomes an officer or employee of a government, he may continue as a member of the Commission for no longer than the sixty-day period beginning on the date he leaves such office or becomes such an officer or employee, as the case may be.
 
 (d) Members shall be appointed for the life of the Commission.
 
 (e)(1) Members of the Commission shall serve without pay.
 
-(2) While away from their homes or regular places of business in the performance of services for the Commission, members of the Commission shall be allowed travel expenses in the same manner as persons employed intermittently in the service of the Federal Government are allowed expenses under section 5703 of title 5, United States Code, except that per diem in lieu of subsistence shall be paid only to those members of the Commission who are not full-time officers or employees of the United States or Members of the Congress.
+(2) While away from their homes or regular places of business in the performance of services for the Commission, members of the Commission shall be allowed travel expenses in the samemanner as persons employed intermittently in the service of the Federal Government are allowed expenses under section 5703 of title 5, United States Code, except that per diem in lieu of subsistence shall be paid only to those members of the Commission who are not full-time officers or employees of the United States or Members of the Congress.
 
 (f) The Chairman of the Commission shall be designated by the President from among members appointed under subsection (a)(1)(G).
 

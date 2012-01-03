@@ -20,5 +20,5 @@ As used in subsection (a) of this section, the term “qualified telephone borro
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–354 substituted “Secretary” for “Administrator” in two places.
+<b>1994</b>—Subsec. (a). Pub. L. 103–354 substituted “Secretary” for “Administrator” in two places.
 

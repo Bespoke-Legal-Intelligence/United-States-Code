@@ -29,6 +29,7 @@
 | [2311\.](%C2%A7%2002311%20-%20Assignment%20and%20delegation%20of%20procurement%20functions%20and%20responsibilities.md) | Assignment and delegation of procurement functions and responsibilities. |
 | [2312\.](%C2%A7%2002312%20-%20Remission%20of%20liquidated%20damages.md) | Remission of liquidated damages. |
 | [2313\.](%C2%A7%2002313%20-%20Examination%20of%20records%20of%20contractor.md) | Examination of records of contractor. |
+| [2313a.](%C2%A7%2002313a%20-%20Defense%20Contract%20Audit%20Agency%20annual%20report.md) | Defense Contract Audit Agency: annual report. |
 | [2314\.](%C2%A7%2002314%20-%20Laws%20inapplicable%20to%20agencies%20named%20in%20section%202303%20of%20this%20title.md) | Laws inapplicable to agencies named in section 2303 of this title. |
 | [2315\.](%C2%A7%2002315%20-%20Law%20inapplicable%20to%20the%20procurement%20of%20automatic%20data%20processing%20equipment%20and%20services%20for%20certain%20defense%20purposes.md) | Law inapplicable to the procurement of automatic data processing equipment and services for certain defense purposes. |
 | [2316\.](%C2%A7%2002316%20-%20Disclosure%20of%20identity%20of%20contractor.md) | Disclosure of identity of contractor. |
@@ -52,10 +53,13 @@
 | [2332\.](%C2%A7%2002332%20-%20Share-in-savings%20contracts.md) | Share-in-savings contracts. |
 | [2333\.](%C2%A7%2002333%20-%20Joint%20policies%20on%20requirements%20definition%2C%20contingency%20program%20management%2C%20and%20contingency%20contracting.md) | Joint policies on requirements definition, contingency program management, and contingency contracting. |
 | [2334\.](%C2%A7%2002334%20-%20Independent%20cost%20estimation%20and%20cost%20analysis.md) | Independent cost estimation and cost analysis. |
+| [2335\.](%C2%A7%2002335%20-%20Prohibition%20on%20collection%20of%20political%20information.md) | Prohibition on collection of political information. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2011</b>—Pub. L. 112–81, div. A, title VIII, §805(b), 823(b), Dec. 31, 2011, 125 Stat. 1486, 1503, added items 2313a and 2335.
 
 <b>2009</b>—Pub. L. 111–23, title I, §101(b)(2), May 22, 2009, 123 Stat. 1709, added item 2334.
 
@@ -147,6 +151,7 @@ Pub. L. 98–369, div. B, title VII, §2727(a), July 18, 1984, 98 Stat. 1194, su
 - [&sect; 02311 - Assignment and delegation of procurement functions and responsibilities](%C2%A7%2002311%20-%20Assignment%20and%20delegation%20of%20procurement%20functions%20and%20responsibilities.md)
 - [&sect; 02312 - Remission of liquidated damages](%C2%A7%2002312%20-%20Remission%20of%20liquidated%20damages.md)
 - [&sect; 02313 - Examination of records of contractor](%C2%A7%2002313%20-%20Examination%20of%20records%20of%20contractor.md)
+- [&sect; 02313a - Defense Contract Audit Agency annual report](%C2%A7%2002313a%20-%20Defense%20Contract%20Audit%20Agency%20annual%20report.md)
 - [&sect; 02314 - Laws inapplicable to agencies named in section 2303 of this title](%C2%A7%2002314%20-%20Laws%20inapplicable%20to%20agencies%20named%20in%20section%202303%20of%20this%20title.md)
 - [&sect; 02315 - Law inapplicable to the procurement of automatic data processing equipment and services for certain defense purposes](%C2%A7%2002315%20-%20Law%20inapplicable%20to%20the%20procurement%20of%20automatic%20data%20processing%20equipment%20and%20services%20for%20certain%20defense%20purposes.md)
 - [&sect; 02316 - Disclosure of identity of contractor](%C2%A7%2002316%20-%20Disclosure%20of%20identity%20of%20contractor.md)
@@ -170,3 +175,4 @@ Pub. L. 98–369, div. B, title VII, §2727(a), July 18, 1984, 98 Stat. 1194, su
 - [&sect; 02332 - Share-in-savings contracts](%C2%A7%2002332%20-%20Share-in-savings%20contracts.md)
 - [&sect; 02333 - Joint policies on requirements definition, contingency program management, and contingency contracting](%C2%A7%2002333%20-%20Joint%20policies%20on%20requirements%20definition%2C%20contingency%20program%20management%2C%20and%20contingency%20contracting.md)
 - [&sect; 02334 - Independent cost estimation and cost analysis](%C2%A7%2002334%20-%20Independent%20cost%20estimation%20and%20cost%20analysis.md)
+- [&sect; 02335 - Prohibition on collection of political information](%C2%A7%2002335%20-%20Prohibition%20on%20collection%20of%20political%20information.md)

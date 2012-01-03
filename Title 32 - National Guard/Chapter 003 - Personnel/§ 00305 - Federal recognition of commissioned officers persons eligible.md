@@ -36,7 +36,7 @@ Act
 
 June 3, 1916, ch. 134, §74 (less 39th through 56th words); restated June 4, 1920, ch. 227, subch. I, §41 (less 39th through 56th words), 41 Stat. 781.
 
-The word “individual” is inserted for clarity to distinguish the individual Federal recognition that is necessary to membership as an officer from the generalFederal recognition that is necessary to all membership in the National Guard (see section 301 of this title).
+The word “individual” is inserted for clarity to distinguish the individual Federal recognition that is necessary to membership as an officer from the general Federal recognition that is necessary to all membership in the National Guard (see section 301 of this title).
 
 The words “June 4, 1920” are omitted as obsolete. The words “Only persons selected from the following categories are eligible for individual Federal recognition as commissioned officers” are substituted for the words “Persons commissioned \* \* \* shall not be recognized as such under any of the provisions of this title unless they shall have been selected from the following classes”.
 

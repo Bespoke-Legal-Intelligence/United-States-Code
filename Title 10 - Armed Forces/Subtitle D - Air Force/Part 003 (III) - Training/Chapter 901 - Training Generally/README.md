@@ -10,6 +10,7 @@
 | [9306\.](%C2%A7%2009306%20-%20Service%20schools%20leaves%20of%20absence%20for%20instructors.md) | Service schools: leaves of absence for instructors. |
 | [9314\.](%C2%A7%2009314%20-%20Degree%20granting%20authority%20for%20United%20States%20Air%20Force%20Institute%20of%20Technology.md) | Degree granting authority for United States Air Force Institute of Technology. |
 | [9314a.](%C2%A7%2009314a%20-%20United%20States%20Air%20Force%20Institute%20of%20Technology%20admission%20of%20defense%20industry%20civilians.md) | United States Air Force Institute of Technology: admission of defense industry civilians. |
+| [9314b.](%C2%A7%2009314b%20-%20United%20States%20Air%20Force%20Institute%20of%20Technology%20administration.md) | United States Air Force Institute of Technology: administration. |
 | [9315\.](%C2%A7%2009315%20-%20Community%20College%20of%20the%20Air%20Force%20associate%20degrees.md) | Community College of the Air Force: associate degrees. |
 | \[9316. | Repealed.\] |
 | [9317\.](%C2%A7%2009317%20-%20Degree%20granting%20authority%20for%20Air%20University.md) | Degree granting authority for Air University. |
@@ -20,7 +21,9 @@
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 111–383, div. A, title V, §593(b), Jan. 7, 2011, 124 Stat. 4234, added item 9314a.
+<b>2011</b>—Pub. L. 112–81, div. A, title V, §554(b), Dec. 31, 2011, 125 Stat. 1415, added item 9314b.
+
+Pub. L. 111–383, div. A, title V, §593(b), Jan. 7, 2011, 124 Stat. 4234, added item 9314a.
 
 <b>2008</b>—Pub. L. 110–417, \[div. A\], title III, §353(b), title V, §543(h)(2), (i)(2), Oct. 14, 2008, 122 Stat. 4425, 4464, 4465, added items 9314 and 9317 and struck out former items 9314 “United States Air Force Institute of Technology”, 9316 “Training and support for A–10 aircraft”, and 9317 “Air University: conferral of degrees”.
 
@@ -53,6 +56,7 @@
 - [&sect; 09306 - Service schools leaves of absence for instructors](%C2%A7%2009306%20-%20Service%20schools%20leaves%20of%20absence%20for%20instructors.md)
 - [&sect; 09314 - Degree granting authority for United States Air Force Institute of Technology](%C2%A7%2009314%20-%20Degree%20granting%20authority%20for%20United%20States%20Air%20Force%20Institute%20of%20Technology.md)
 - [&sect; 09314a - United States Air Force Institute of Technology admission of defense industry civilians](%C2%A7%2009314a%20-%20United%20States%20Air%20Force%20Institute%20of%20Technology%20admission%20of%20defense%20industry%20civilians.md)
+- [&sect; 09314b - United States Air Force Institute of Technology administration](%C2%A7%2009314b%20-%20United%20States%20Air%20Force%20Institute%20of%20Technology%20administration.md)
 - [&sect; 09315 - Community College of the Air Force associate degrees](%C2%A7%2009315%20-%20Community%20College%20of%20the%20Air%20Force%20associate%20degrees.md)
 - [&sect; 09316 - Repealed. Pub. L. 110&#8211;417, \[div. A\], title III, &sect;353(a), Oct. 14, 2008, 122 Stat. 4425](%C2%A7%2009316%20-%20Repealed.%20Pub.%20L.%20110%E2%80%93417%2C%20%5Bdiv.%20A%5D%2C%20title%20III%2C%20%C2%A7353%28a%29%2C%20Oct.%2014%2C%202008%2C%20122%20Stat.%204425.md)
 - [&sect; 09317 - Degree granting authority for Air University](%C2%A7%2009317%20-%20Degree%20granting%20authority%20for%20Air%20University.md)

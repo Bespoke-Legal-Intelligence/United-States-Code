@@ -28,7 +28,7 @@ Expenses of Committee Members.—Members of a negotiated rulemaking committee sh
 
 Status of Member as Federal Employee.—A member's receipt of funds under this section or section 569 shall not conclusively determine for purposes of sections 202 through 209 of title 18 whether that member is an employee of the United States Government.
 
-(Added Pub. L. 101–648, §3(a), Nov. 29, 1990, 104 Stat. 4974, §588; renumbered §568 and amended Pub. L. 102–354, §3(a)(2), (4), Aug. 26, 1992, 106 Stat. 944.)
+(Added Pub. L. 101–648, §3(a), Nov. 29, 1990, 104 Stat. 4974, §588; renumbered §568 and amendedPub. L. 102–354, §3(a)(2), (4), Aug. 26, 1992, 106 Stat. 944.)
 
 #### References in Text
 
@@ -36,7 +36,7 @@ Section 7(d) of the Federal Advisory Committee Act, referred to in subsec. (c), 
 
 #### Amendments
 
-1992—Pub. L. 102–354, §3(a)(2), renumbered section 588 of this title as this section.
+<b>1992</b>—Pub. L. 102–354, §3(a)(2), renumbered section 588 of this title as this section.
 
 Subsec. (d). Pub. L. 102–354, §3(a)(4), substituted “section 569” for “section 589”.
 

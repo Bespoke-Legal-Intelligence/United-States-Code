@@ -14,7 +14,7 @@
 
 &emsp;If—
 
-&emsp;&emsp;(A) the proceeds of 2 or more issues of bonds (whether or not the issuer of eachsuch issue is the same) are or will be used primarily with respect to facilities located in the same incorporated municipality or located in the same county (but not in any incorporated municipality),
+&emsp;&emsp;(A) the proceeds of 2 or more issues of bonds (whether or not the issuer of each such issue is the same) are or will be used primarily with respect to facilities located in the same incorporated municipality or located in the same county (but not in any incorporated municipality),
 
 &emsp;&emsp;(B) the principal user of such facilities is or will be the same person or 2 or more related persons, and
 
@@ -100,7 +100,7 @@
 
 &emsp;&emsp;&emsp;(i) guarantees, arranges, participates in, or assists with the issuance (or pays any portion of the cost of issuance) of any bond the proceeds of which are to be used to finance or refinance such facility, and
 
-&emsp;&emsp;&emsp;(ii) provides any property, or any franchise, trademark, or trade name (within the meaning of section 1253), which is to be used in connection with such facility.
+&emsp;&emsp;&emsp;(ii) provides any property, or any franchise, trademark, or trade name (withinthe meaning of section 1253), which is to be used in connection with such facility.
 
 #### (7) Subsection not to apply if bonds issued with certain other tax-exempt bonds
 
@@ -150,7 +150,7 @@
 
 #### (ii) Owners
 
-&emsp;&emsp;&emsp;Except as otherwise provided in regulations, the portion of the face amount of anissue allocated to any test-period beneficiary who is an owner of a facility financed by the proceeds of such issue is an amount which bears the same relationship to the entire face amount of such issue as the portion of such facility owned by such beneficiary bears to the entire facility.
+&emsp;&emsp;&emsp;Except as otherwise provided in regulations, the portion of the face amount of an issue allocated to any test-period beneficiary who is an owner of a facility financed by the proceeds of such issue is an amount which bears the same relationship to the entire face amount of such issue as the portion of such facility owned by such beneficiary bears to the entire facility.
 
 #### (D) Test-period beneficiary
 
@@ -256,7 +256,7 @@ For purposes of this part—
 
 &emsp;&emsp;(B) a program of general application approved by the State if no loan under such program exceeds the difference between the total cost of attendance and other forms of student assistance (not including loans pursuant to section 428B(a)(1) of the Higher Education Act of 1965 (relating to parent loans) or subpart I <sup>1</sup> of part C of title VII of the Public Health Service Act (relating to student assistance)) for which the student borrower may be eligible. A program shall not be treated as described in this subparagraph if such program is described in subparagraph (A).
 
-> &emsp;A bond shall not be treated as a qualified student loan bond if the issue of which such bond is a part meets the private business tests of paragraphs (1) and (2) of section 141(b) (determined by treating 501(c)(3) organizations as governmental units with respect to their activities which do not constitute unrelated trades or businesses, determined by applying section 513(a)).
+> &emsp;A bond shall not be treated as a qualified student loan bond if the issue of which such bond is a part meets the private business tests of paragraphs (1) and (2) of section 141(b) (determined by treating 501(c)(3) organizations asgovernmental units with respect to their activities which do not constitute unrelated trades or businesses, determined by applying section 513(a)).
 
 #### (2) Applicable percentage
 
@@ -330,7 +330,7 @@ For purposes of this part—
 
 #### (B) New construction not permitted
 
-&emsp;&emsp;The term “redevelopment purposes” does not include the construction (other than therehabilitation) of any property or the enlargement of an existing building.
+&emsp;&emsp;The term “redevelopment purposes” does not include the construction (other than the rehabilitation) of any property or the enlargement of an existing building.
 
 #### (4) Designated blighted area
 
@@ -352,7 +352,7 @@ For purposes of this part—
 
 #### (ii) Designation percentage
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “designation percentage” means, with respect to any area, the percentage (determined at the time such area is designated) which the assessed value of real property located in such area is of the total assessed value of all real property located within the jurisdiction of the governmental unit which designated such area.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “designation percentage” means, with respect to any area, the percentage (determined at the time such area is designated) which the assessed value of real property located in such area is of thetotal assessed value of all real property located within the jurisdiction of the governmental unit which designated such area.
 
 #### (iii) Exception where bonds not outstanding
 
@@ -394,7 +394,7 @@ For purposes of this part—
 
 &emsp;Section 147(c) (other than paragraphs (1)(B) and (2) thereof) shall not apply to any qualified redevelopment bond.
 
-(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2621; amended Pub. L. 100–647, title I, §1013(a)(4)(A), (B)(i), (ii), (C), (5), title VI, §6176(a), Nov. 10, 1988, 102 Stat. 3537, 3538, 3726; Pub. L. 101–239, title VII, §7105, Dec. 19, 1989, 103 Stat. 2306; Pub. L. 101–508, title XI, §11409(a), Nov. 5, 1990, 104 Stat. 1388–478; Pub. L. 102–227, title I, §109(a), Dec. 11, 1991, 105 Stat. 1688; Pub. L. 103–66, title XIII, §13122(a), Aug. 10, 1993, 107 Stat. 432; Pub. L. 108–357, title III, §340, Oct. 22, 2004, 118 Stat. 1485; Pub. L. 109–222, title II, §208,May 17, 2006, 120 Stat. 351; Pub. L. 111–5, div. B, title I, §1301(a), Feb. 17, 2009, 123 Stat. 344.)
+(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2621; amended Pub. L. 100–647, title I, §1013(a)(4)(A), (B)(i), (ii), (C), (5), title VI, §6176(a), Nov. 10, 1988, 102 Stat. 3537, 3538, 3726; Pub. L. 101–239, title VII, §7105, Dec. 19, 1989, 103 Stat. 2306; Pub. L. 101–508, title XI, §11409(a), Nov. 5, 1990, 104 Stat. 1388–478; Pub. L. 102–227, title I, §109(a), Dec. 11, 1991, 105 Stat. 1688; Pub. L. 103–66, title XIII, §13122(a), Aug. 10, 1993, 107 Stat. 432; Pub. L. 108–357, title III, §340, Oct. 22, 2004, 118 Stat. 1485; Pub. L. 109–222, title II, §208, May 17, 2006, 120 Stat. 351; Pub. L. 111–5, div. B, title I, §1301(a), Feb. 17, 2009, 123 Stat. 344.)
 
 #### References in Text
 
@@ -410,7 +410,7 @@ The Public Health Service Act, referred to in subsec. (b)(1)(B), is act July 1, 
 
 #### Prior Provisions
 
-A prior section 144, acts Aug. 16, 1954, ch. 736, 68A Stat. 41; Feb. 26, 1964, Pub. L. 88–272, title I, §112(c), title II, §232(c), 78 Stat. 24, 110; Dec. 10, 1971, Pub. L. 92–178, title II, §206, title III, §301(c), 85 Stat. 511, 520; Oct. 4, 1976, Pub. L. 94–455, title V, §501(b)(3)–(5), title XIX, §1906(b)(13)(A), 90 Stat. 1558, 1559, 1834, related to method for electing to take standard deduction, prior to repeal by Pub. L. 95–30, title I, §101(d)(1), May 23, 1977, 91 Stat. 133, applicable to taxable years beginning after Dec. 31, 1976.
+A prior section 144, acts Aug. 16, 1954, ch. 736, 68A Stat. 41; Feb. 26, 1964, Pub. L. 88–272, title I, §112(c), title II, §232(c), 78 Stat. 24, 110; Dec. 10, 1971, Pub. L. 92–178, title II, §206, title III, §301(c), 85 Stat. 511, 520; Oct. 4, 1976, Pub. L. 94–455, title V, §501(b)(3)–(5), title XIX, §1906(b)(13)(A), 90 Stat. 1558, 1559, 1834, related tomethod for electing to take standard deduction, prior to repeal by Pub. L. 95–30, title I, §101(d)(1), May 23, 1977, 91 Stat. 133, applicable to taxable years beginning after Dec. 31, 1976.
 
 #### Amendments
 

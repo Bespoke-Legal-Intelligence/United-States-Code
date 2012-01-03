@@ -116,7 +116,7 @@ For purposes of this section—
 
 #### (ii) Nonfunctional currency
 
-&emsp;&emsp;&emsp;For purposes of this section, the term “nonfunctional currency” includes coin orcurrency, and nonfunctional currency denominated demand or time deposits or similar instruments issued by a bank or other financial institution.
+&emsp;&emsp;&emsp;For purposes of this section, the term “nonfunctional currency” includes coin or currency, and nonfunctional currency denominated demand or time deposits or similar instruments issued by a bank or other financial institution.
 
 #### (D) Exception for certain instruments marked to market
 
@@ -166,7 +166,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(V) an election under this subclause applies to the taxable year.
 
-&emsp;&emsp;&nbsp;An election under subclause (V) for any taxable year shall be made on or before the 1st day of such taxable year (or, if later, on or before the 1st day during such year on which the partnership holds an instrument referred to in clause (i)). Any such election shall apply to the taxable year for which made and all succeeding taxable years unless revoked with the consent of the Secretary.
+&emsp;&emsp;&nbsp;An election under subclause (V) for any taxable year shall be made on or before the1st day of such taxable year (or, if later, on or before the 1st day during such year on which the partnership holds an instrument referred to in clause (i)). Any such election shall apply to the taxable year for which made and all succeeding taxable years unless revoked with the consent of the Secretary.
 
 #### (iv) Treatment of certain currency contracts
 
@@ -240,7 +240,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;To the extent provided in regulations, if any section 988 transaction is part of a 988 hedging transaction, all transactions which are part of such 988 hedging transaction shall be integrated and treated as a single transaction or otherwise treated consistently for purposes of this subtitle. For purposes of the preceding sentence, the determination of whether any transaction is a section 988 transaction shall be determined without regard to whether such transaction would otherwise be marked-to-market under section 475 or 1256 and such term shall not include any transaction with respect to which an election is made under subsection (a)(1)(B). Sections 475, 1092, and 1256 shall not apply to a transaction covered by this subsection.
+&emsp;To the extent provided in regulations, if any section 988 transaction is part of a 988 hedging transaction, all transactions which are part of such 988 hedging transaction shall be integrated and treated as a single transaction or otherwise treated consistently for purposes of this subtitle. For purposes of the preceding sentence, the determination of whether any transaction is a section 988 transaction shallbe determined without regard to whether such transaction would otherwise be marked-to-market under section 475 or 1256 and such term shall not include any transaction with respect to which an election is made under subsection (a)(1)(B). Sections 475, 1092, and 1256 shall not apply to a transaction covered by this subsection.
 
 #### (2) 988 hedging transaction
 
@@ -268,7 +268,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) such transaction is a personal transaction,
 
-> &emsp;no gain shall be recognized for purposes of this subtitle by reason of changes in exchange rates after such currency was acquired by such individual and before such disposition. Thepreceding sentence shall not apply if the gain which would otherwise be recognized on the transaction exceeds $200.
+> &emsp;no gain shall be recognized for purposes of this subtitle by reason of changes in exchange rates after such currency was acquired by such individual and before such disposition. The preceding sentence shall not apply if the gain which would otherwise be recognized on the transaction exceeds $200.
 
 #### (3) Personal transactions
 
@@ -326,7 +326,7 @@ Section 1104(b) of Pub. L. 105–34 provided that: “The amendments made by thi
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–66 applicable to all taxable years ending on or after Dec. 31, 1993, with special rules for taxpayers required to change accounting methods and for floor specialists and market makers, see section 13223(c) of Pub. L. 103–66, set out as an Effective Date note under section 475 of this title.
+Amendment by Pub. L. 103–66 applicable to all taxable years ending on or after Dec. 31, 1993, with specialrules for taxpayers required to change accounting methods and for floor specialists and market makers, see section 13223(c) of Pub. L. 103–66, set out as an Effective Date note under section 475 of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -354,7 +354,7 @@ Transitional rules.—
 
 &emsp;“(A) The requirements of subclause (IV) of section 988(c)(1)(E)(iii) of the 1986 Code (as added by subsection (b)) shall not apply to periods before the date of the enactment of this Act.
 
-&emsp;“(B) In the case of any partner in an existing partnership, the 20-percent ownership requirements of subclause (I) of such section 988(c)(1)(E)(iii) shall be treated as met during any period during which such partner does not own a percentage interest in the capital or profits of such partnership greater than331/3 percent (or, if lower, the lowest such percentage interest of such partner during any prior period after October 21, 1988, during which such partnership is in existence). For purposes of the preceding sentence, the term ‘existing partnership’ means any partnership if—
+&emsp;“(B) In the case of any partner in an existing partnership, the 20-percent ownership requirements of subclause (I) of such section 988(c)(1)(E)(iii) shall be treated as met during any period during which such partner does not own a percentage interest in the capital or profits of such partnership greater than 331/3 percent (or, if lower, the lowest such percentage interest of such partner during any prior period after October 21, 1988, during which such partnership is in existence). For purposes of the preceding sentence, the term ‘existing partnership’ means any partnership if—
 
 &emsp;&emsp;“(i) such partnership was in existence on October 21, 1988, and principally engaged on such date in buying and selling options, futures, or forwards with respect to commodities, or
 

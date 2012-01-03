@@ -108,7 +108,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 1129 of the House amendment relates to confirmation of a plan in a case under chapter 11. Section 1129(a)(3) of the House amendment adopts the position taken in the Senate amendment and section 1129(a)(5) takes the position adopted in the House bill. Section 1129(a)(7) adopts the position taken in the House bill in order to insure that the dissenting members of an accepting class will receive at least what they would otherwise receive under the best interest of creditors test; it also requires that even the members of a class that has rejected the plan be protected by the best interest of creditors test for those rare cramdown cases where a class of creditors would receive more on liquidation than under reorganization of the debtor. Section 1129(a)(7)(C) is discussed in connection with section 1129(b) and section 1111(b). Section 1129(a)(8) of the House amendment adopts the provision taken in the House bill which permits confirmation of a plan as to a particular class without resort to the fair and equitable test if the class has accepted a plan or is unimpaired under the plan.
 
@@ -302,9 +302,9 @@ Section 5 of the Securities Act of 1933, referred to in subsec. (d), is classifi
 
 #### Amendments
 
-2010—Subsec. (a)(16). Pub. L. 111–327 substituted “under the plan” for “of the plan”.
+<b>2010</b>—Subsec. (a)(16). Pub. L. 111–327 substituted “under the plan” for “of the plan”.
 
-2005—Subsec. (a)(9)(A). Pub. L. 109–8, §1502(a)(8)(A), substituted “507(a)(2) or 507(a)(3)” for “507(a)(1) or 507(a)(2)”.
+<b>2005</b>—Subsec. (a)(9)(A). Pub. L. 109–8, §1502(a)(8)(A), substituted “507(a)(2) or 507(a)(3)” for “507(a)(1) or 507(a)(2)”.
 
 Subsec. (a)(9)(B). Pub. L. 109–8, §1502(a)(8)(B), substituted “507(a)(1)” for “507(a)(3)”.
 
@@ -322,7 +322,7 @@ Subsec. (b)(2)(B)(ii). Pub. L. 109–8, §321(c)(2), inserted before period at e
 
 Subsec. (e). Pub. L. 109–8, §438, added subsec. (e).
 
-1994—Subsec. (a)(4). Pub. L. 103–394, §501(d)(32)(A)(i), substituted period for semicolon at end.
+<b>1994</b>—Subsec. (a)(4). Pub. L. 103–394, §501(d)(32)(A)(i), substituted period for semicolon at end.
 
 Subsec. (a)(9)(B). Pub. L. 103–394, §304(h)(7)(i), substituted “, 507(a)(6), or 507(a)(7)” for “or 507(a)(6)”.
 
@@ -332,9 +332,9 @@ Subsec. (a)(12). Pub. L. 103–394, §501(d)(32)(A)(ii), inserted “of title 28
 
 Subsec. (d). Pub. L. 103–394, §501(d)(32)(B), struck out “(15 U.S.C. 77e)” after “Act of 1933”.
 
-1988—Subsec. (a)(13). Pub. L. 100–334 added par. (13).
+<b>1988</b>—Subsec. (a)(13). Pub. L. 100–334 added par. (13).
 
-1986—Subsec. (a)(7). Pub. L. 99–554, §283(v)(1), struck out “of” after “to”.
+<b>1986</b>—Subsec. (a)(7). Pub. L. 99–554, §283(v)(1), struck out “of” after “to”.
 
 Subsec. (a)(9)(B). Pub. L. 99–554, §283(v)(2), inserted reference to section 507(a)(6).
 
@@ -342,7 +342,7 @@ Subsec. (a)(9)(C). Pub. L. 99–554, §283(v)(3), substituted “507(a)(7)” fo
 
 Subsec. (a)(12). Pub. L. 99–554, §225, added par. (12).
 
-1984—Subsec. (a)(1), (2). Pub. L. 98–353, §512(a)(1), (2), substituted “title” for “chapter”.
+<b>1984</b>—Subsec. (a)(1), (2). Pub. L. 98–353, §512(a)(1), (2), substituted “title” for “chapter”.
 
 Subsec. (a)(4). Pub. L. 98–353, §512(a)(3), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “(A) Any payment made or promised by the proponent, by the debtor, or by a person issuing securities or acquiring property under the plan, for services or for costs and expenses in, or in connection with, the case, or in connection with the plan and incident to the case, has been disclosed to the court; and (B)(i) any such payment made before confirmation of the plan is reasonable; or (ii) if such payment is to be fixed after confirmation of the plan, such payment is subject to the approval of the court as reasonable.”
 

@@ -44,7 +44,7 @@
 
 This section shall not be construed to prohibit the dismissal from employment of a Federal civilian employee who cannot properly function in his employment.
 
-(July 1, 1944, ch. 373, title V, §541, formerly Pub. L. 91–616, title III, §301, Dec. 31, 1970, 84 Stat. 1849, as amended Pub. L. 92–554, Oct. 25, 1972, 86 Stat. 1167; Pub. L. 93–282, title I, §105(a), May 14, 1974, 88 Stat. 127; Pub. L. 94–371, §3(a), July 26, 1976, 90 Stat. 1035; Pub. L. 96–180, §7, Jan. 2, 1980, 93 Stat. 1303; Pub. L. 97–35, title IX, §962(a), Aug. 13, 1981, 95 Stat. 592; renumbered §520 of act July 1, 1944, and amended Pub. L. 98–24, §2(b)(13), Apr. 26, 1983, 97 Stat. 181; Pub. L. 98–509, title III, §301(c)(2), Oct. 19, 1984, 98 Stat. 2364; renumbered §541, Pub. L. 100–77, title VI, §611(2), July 22, 1987, 101 Stat. 516; Pub. L. 100–607, title VIII, §813(2), Nov. 4, 1988, 102 Stat. 3170; Pub. L. 100–628, title VI, §613(2), Nov. 7, 1988, 102 Stat. 3243; Pub. L. 101–93, §5(t)(1), Aug. 16, 1989, 103 Stat. 615; Pub. L. 102–321, title I, §131, July 10, 1992, 106 Stat. 366.)
+(July 1, 1944, ch. 373, title V, §541, formerly Pub. L. 91–616, title III, §301, Dec. 31, 1970, 84 Stat. 1849, as amended Pub. L. 92–554, Oct. 25, 1972, 86 Stat. 1167; Pub. L. 93–282, title I, §105(a), May 14, 1974, 88 Stat. 127; Pub. L. 94–371, §3(a), July 26,1976, 90 Stat. 1035; Pub. L. 96–180, §7, Jan. 2, 1980, 93 Stat. 1303; Pub. L. 97–35, title IX, §962(a), Aug. 13, 1981, 95 Stat. 592; renumbered §520 of act July 1, 1944, and amended Pub. L. 98–24, §2(b)(13), Apr. 26, 1983, 97 Stat. 181; Pub. L. 98–509, title III, §301(c)(2), Oct. 19, 1984, 98 Stat. 2364; renumbered §541, Pub. L. 100–77, title VI, §611(2), July 22, 1987, 101 Stat. 516; Pub. L. 100–607, title VIII, §813(2), Nov. 4, 1988, 102 Stat. 3170; Pub. L. 100–628, title VI, §613(2), Nov. 7, 1988, 102 Stat. 3243; Pub. L. 101–93, §5(t)(1), Aug. 16, 1989, 103 Stat. 615; Pub. L. 102–321, title I, §131, July 10, 1992, 106 Stat. 366.)
 
 #### References in Text
 
@@ -56,7 +56,7 @@ Section was formerly classified to section 4571 of this title prior to renumberi
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–321 amended section generally, substituting provisions relating to substance abuse amonggovernment and other employees for provisions relating to technical assistance to States relative to alcohol abuse and alcoholism programs.
+<b>1992</b>—Pub. L. 102–321 amended section generally, substituting provisions relating to substance abuse among government and other employees for provisions relating to technical assistance to States relative to alcohol abuse and alcoholism programs.
 
 <b>1989</b>—Subsec. (a)(4). Pub. L. 101–93 directed that subsec. (a)(4) of this section as similarly amended by title VIII of Pub. L. 100–607 and title VI of Pub. L. 100–628 be amended to read as if the amendments made by title VI of Pub. L. 100–628 had not been enacted. See 1988 Amendment note below.
 

@@ -32,15 +32,15 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-2010—Subsec. (a). Pub. L. 111–145 substituted “, the Chief Administrative Officer of the House of Representatives, or the Chief of the Capitol Police” for “or the Chief Administrative Officer of the House of Representatives” in introductory provisions.
+<b>2010</b>—Subsec. (a). Pub. L. 111–145 substituted “, the Chief Administrative Officer of the House of Representatives, or the Chief of the Capitol Police” for “or the Chief Administrative Officer of the House of Representatives” in introductory provisions.
 
-1996—Subsec. (a). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk” in introductory provisions.
+<b>1996</b>—Subsec. (a). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk” in introductory provisions.
 
 Subsec. (c). Pub. L. 104–201 substituted “the District Court of Guam and the District Court of the Virgin Islands” for “the United States District Court for the District of the Canal Zone, the District Court of Guam, and the District Court of the Virgin Islands”.
 
-1970—Pub. L. 91–563 substituted “jury and witness service” for “jury service in courts of the United States” in section catchline, designated existing provisions as subsec. (a), inserted provisions prohibiting payment of fees for jury service in a court of the District of Columbia or for service as a witness on behalf of the United States or the District of Columbia and excepting employees whose pay is disbursed by the Secretary of the Senate or the Clerk of the House of Representatives, and added subsecs. (b) and (c).
+<b>1970</b>—Pub. L. 91–563 substituted “jury and witness service” for “jury service in courts of the United States” in section catchline, designated existing provisions as subsec. (a), inserted provisions prohibiting payment of fees for jury service in a court of the District of Columbia or for service as a witness on behalf of the United States or the District of Columbia and excepting employees whose pay is disbursed by the Secretary of the Senate or the Clerk of the House of Representatives, and added subsecs. (b) and (c).
 
-1968—Pub. L. 90–623 inserted “, who is entitled to leave under section 6322 of this title,” after “individual employed by the government of the District of Columbia”.
+<b>1968</b>—Pub. L. 90–623 inserted “, who is entitled to leave under section 6322 of this title,” after “individual employed by the government of the District of Columbia”.
 
 #### Change of Name
 

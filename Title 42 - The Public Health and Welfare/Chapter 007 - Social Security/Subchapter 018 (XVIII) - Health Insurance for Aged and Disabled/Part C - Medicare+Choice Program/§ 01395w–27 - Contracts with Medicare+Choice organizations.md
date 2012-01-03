@@ -26,7 +26,7 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 #### (1) Period
 
-&emsp;Each contract under this section shall be for a term of at least 1 year, as determined by theSecretary, and may be made automatically renewable from term to term in the absence of notice by either party of intention to terminate at the end of the current term.
+&emsp;Each contract under this section shall be for a term of at least 1 year, as determined by the Secretary, and may be made automatically renewable from term to term in the absence of notice by either party of intention to terminate at the end of the current term.
 
 #### (2) Termination authority
 
@@ -92,7 +92,7 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 &emsp;&emsp;&emsp;&emsp;(III) any lending of money or other extension of credit between an organization and a party in interest.
 
-> &emsp;&emsp;The Secretary may require that information reported respecting an organization whichcontrols, is controlled by, or is under common control with, another entity be in the form of a consolidated financial statement for the organization and such entity.
+> &emsp;&emsp;The Secretary may require that information reported respecting an organization which controls, is controlled by, or is under common control with, another entity be in the form of a consolidated financial statement for the organization and such entity.
 
 #### (B) “Party in interest” defined
 
@@ -122,7 +122,7 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 &emsp;The contract shall require the organization to notify the Secretary of loans and other special financial arrangements which are made between the organization and subcontractors, affiliates, and related parties.
 
-#### (6) Review to ensure compliance with care management requirements for specialized medicare advantage plans for special needs individuals
+#### (6) Review to ensure compliance with care management requirements for specialized Medicare Advantage plans for special needs individuals
 
 &emsp;In conjunction with the periodic audit of a specialized Medicare Advantage plan for special needs individuals under paragraph (1), the Secretary shall conduct a review to ensure that such organization offering the plan meets the requirements described in section 1395w–28(f)(5) of this title.
 
@@ -236,7 +236,7 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 &emsp;&emsp;(A) fails substantially to provide medically necessary items and services that are required (under law or under the contract) to be provided to an individual covered under the contract, if the failure has adversely affected (or has substantial likelihood of adversely affecting) the individual;
 
-&emsp;&emsp;(B) imposes premiums on individuals enrolled under this part in excess of theamount of the Medicare+Choice monthly basic and supplemental beneficiary premiums permitted under section 1395w–24 of this title;
+&emsp;&emsp;(B) imposes premiums on individuals enrolled under this part in excess of the amount of the Medicare+Choice monthly basic and supplemental beneficiary premiums permitted under section 1395w–24 of this title;
 
 &emsp;&emsp;(C) acts to expel or to refuse to re-enroll an individual in violation of the provisions of this part;
 
@@ -306,19 +306,13 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 #### (1) Contracts with MA organizations
 
-&emsp;To facilitate the offering of Medicare+Choice plans under contracts between Medicare+Choice organizations and employers, labor organizations, or the trustees of a fund established by one or more employers or labor organizations (or combination thereof) to furnish benefits to the entity's employees, former employees (or combination thereof) or members or former members (or combination thereof) of the labor organizations, the Secretary may waive or modify requirements that hinder the design of, the offering of, or the enrollment in such Medicare+Choice plans.
+&emsp;To facilitate the offering of Medicare+Choice plans under contracts between Medicare+Choice organizations and employers, labor organizations, or the trustees of a fund established by one or more employers or labor organizations (or combination thereof) to furnish benefits to the entity's employees, former employees (or combination thereof) or members or former members (or combination thereof) of the labor organizations, theSecretary may waive or modify requirements that hinder the design of, the offering of, or the enrollment in such Medicare+Choice plans.
 
 #### (2) Employer sponsored MA plans
 
 &emsp;To facilitate the offering of MA plans by employers, labor organizations, or the trustees of a fund established by one or more employers or labor organizations (or combination thereof) to furnish benefits to the entity's employees, former employees (or combination thereof) or members or former members (or combination thereof) of the labor organizations, the Secretary may waive or modify requirements that hinder the design of, the offering of, or the enrollment in such MA plans. Notwithstanding section 1395w–21(g) of this title, an MA plan described in the previous sentence may restrict the enrollment of individuals under this part to individuals who are beneficiaries and participants in such plan.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1857, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 319; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §§513(a), (b)(1), 522(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–383, 1501A–387; Pub. L. 106–554, §1(a)(6) \[title VI, §§617(a), 623(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–561, 2763A–566; Pub. L. 108–173, title II, §§222(j), (k), (<i>l</i>)(3)(C), 237(c), title IX, §900(e)(1)(I), Dec. 8, 2003, 117 Stat. 2205, 2207, 2213, 2372; Pub. L. 110–275, title I, §§164(d)(2), 171(b), 172(a)(2), 173(b), July 15, 2008, 122 Stat. 2574, 2580, 2581; Pub. L. 111–148, title VI, §6408(b), Mar. 23, 2010, 124 Stat. 771; Pub. L. 111–152, title I, §1103, Mar. 30, 2010, 124 Stat. 1047.)
-
-#### References in Text
-
-Part D of this subchapter, referred to in subsecs. (e)(2)(A), (B), (F) and (f)(3), is classified to section 1395w–101 et seq. of this title.
-
-Parts A and B of this subchapter, referred to in subsec. (e)(2)(E)(ii), are classified to section 1395c et seq. and section 1395j et seq., respectively, of this title.
 
 #### Amendments
 

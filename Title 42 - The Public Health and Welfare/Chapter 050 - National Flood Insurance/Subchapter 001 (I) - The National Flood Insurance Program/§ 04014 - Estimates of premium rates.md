@@ -16,7 +16,7 @@ The Director is authorized to undertake and carry out such studies and investiga
 
 &emsp;&emsp;&emsp;(iii) any remaining administrative expenses incurred in carrying out the flood insurance and floodplain management programs (including the costs of mapping activities under section 4101 of this title) not included under clause (ii), which shall be recovered by a fee charged to policyholders and such fee shall not be subject to any agents’ commissions, company expense allowances, or State or local premium taxes,
 
-> &emsp;would be required in order to make such insurance available on an actuarial basis for any types and classes of properties for which insurance coverage is available under section 4012(a) of this title (or is recommended to the Congress under section 4012(b) of this title);
+> &emsp;would be required in order to make such insurance available on an actuarial basis for anytypes and classes of properties for which insurance coverage is available under section 4012(a) of this title (or is recommended to the Congress under section 4012(b) of this title);
 
 &emsp;(2) the rates, if less than the rates estimated under paragraph (1), which would be reasonable, would encourage prospective insureds to purchase flood insurance, and would be consistent with the purposes of this chapter, and which, together with a fee charged to policyholders that shall not be not subject to any agents’ commission, company expenses allowances, or State or local premium taxes, shall include any administrative expenses incurred in carrying out the flood insurance and floodplain management programs (including the costs of mapping activities under section 4101 of this title); and
 

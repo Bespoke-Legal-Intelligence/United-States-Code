@@ -16,7 +16,7 @@ There is established the Council on Graduate Medical Education (in this section 
 
 &emsp;&emsp;(E) appropriate efforts to be carried out by hospitals, schools of medicine, schools of osteopathic medicine, and accrediting bodies with respect to the matters specified in subparagraphs (A), (B), and (C), including efforts for changes in undergraduate and graduate medical education programs; and
 
-&emsp;&emsp;(F) deficiencies in, and needs for improvements in, existing data bases concerning thesupply and distribution of, and postgraduate training programs for, physicians in the United States and steps that should be taken to eliminate those deficiencies;
+&emsp;&emsp;(F) deficiencies in, and needs for improvements in, existing data bases concerning the supply and distribution of, and postgraduate training programs for, physicians in the United States and steps that should be taken to eliminate those deficiencies;
 
 &emsp;(2) encourage entities providing graduate medical education to conduct activities to voluntarily achieve the recommendations of the Council under paragraph (1)(E);
 
@@ -98,7 +98,7 @@ The Council shall terminate September 30, 2003.
 
 Amounts otherwise appropriated under this subchapter may be utilized by the Secretary to support the activities of the Council.
 
-(July 1, 1944, ch. 373, title VII, §762, formerly Pub. L. 102–408, title III, §301, Oct. 13, 1992, 106 Stat. 2080, as amended Pub. L. 102–531, title III,§313(b), Oct. 27, 1992, 106 Stat. 3507; renumbered §762 of act July 1, 1944, and amended Pub. L. 105–392, title I, §104(b), Nov. 13, 1998, 112 Stat. 3552; Pub. L. 107–251, title V, §502, Oct. 26, 2002, 116 Stat. 1664; Pub. L. 111–148, title V, §5103(d)(3), Mar. 23, 2010, 124 Stat. 606.)
+(July 1, 1944, ch. 373, title VII, §762, formerly Pub. L. 102–408, title III, §301, Oct. 13, 1992, 106 Stat. 2080, as amended Pub. L. 102–531, title III, §313(b), Oct. 27, 1992, 106 Stat. 3507; renumbered §762 of act July 1, 1944, and amended Pub. L. 105–392, title I, §104(b), Nov. 13, 1998, 112 Stat. 3552; Pub. L. 107–251, title V, §502, Oct. 26, 2002, 116 Stat. 1664; Pub. L. 111–148, title V, §5103(d)(3), Mar. 23, 2010, 124 Stat. 606.)
 
 #### Codification
 
@@ -146,9 +146,11 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### Funding for Council on Graduate Medical Education
 
-Pub. L. 111–117, div. D, title II, §216, Dec. 16, 2009, 123 Stat. 3259, provided that: “Notwithstanding any other provisions of law, funds made available in this Act \[div. D of Pub. L. 111–117, see Tables for classification\] may be used to continue operating the Council on Graduate Medical Education established by section 301 of Public Law 102–408 \[now section 762 of act July 1, 1944, which is classified to this section\].”
+Pub. L. 112–74, div. F, title II, §215, Dec. 23, 2011, 125 Stat. 1085, provided that: “Notwithstanding any other provisions of law, discretionary funds made available in this Act \[div. F of Pub. L. 112–74, see Tables for classification\] may be used to continue operating the Council on Graduate Medical Education established by section 301 of Public Law 102–408 \[now section 762 of act July 1, 1944, which is classified to this section\].”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 111–117, div. D, title II, §216, Dec. 16, 2009, 123 Stat. 3259.
 
 Pub. L. 111–8, div. F, title II, §216, Mar. 11, 2009, 123 Stat. 782.
 

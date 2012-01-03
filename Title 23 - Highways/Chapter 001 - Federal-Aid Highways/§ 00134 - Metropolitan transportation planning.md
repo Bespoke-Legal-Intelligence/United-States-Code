@@ -140,7 +140,7 @@ In general.—The Secretary shall encourage each Governor with responsibility fo
 
 Interstate compacts.—The consent of Congress is granted to any two or more States—
 
-&emsp;&emsp;(A) to enter into agreements or compacts, not in conflict with any law of the United States, for cooperative efforts and mutual assistance in support of activities authorized under this section as the activities pertain to interstate areas and localities within the States; and
+&emsp;&emsp;(A) to enter into agreements or compacts, not in conflict with any law of the United States, for cooperative efforts and mutualassistance in support of activities authorized under this section as the activities pertain to interstate areas and localities within the States; and
 
 &emsp;&emsp;(B) to establish such agencies, joint or otherwise, as the States may determine desirable for making the agreements and compacts effective.
 
@@ -166,7 +166,7 @@ Interstate compact.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—Subject to clause (ii), and notwithstanding subsection (b), to carry out the transportation planning process required by this section, the consent of Congress is granted to the States of California and Nevada to designate a metropolitan planning organization for the Lake Tahoe region, by agreement between the Governors of the States of California and Nevada and units of general purposelocal government that together represent at least 75 percent of the affected population (including the central city or cities (as defined by the Bureau of the Census)), or in accordance with procedures established by applicable State or local law.
+In general.—Subject to clause (ii), and notwithstanding subsection (b), to carry out the transportation planning process required by this section, the consent of Congress is granted to the States of California and Nevada to designate a metropolitan planning organization for the Lake Tahoe region, by agreement between the Governors of the States of California and Nevada and units of general purpose local government that together represent at least 75 percent of the affected population (including the central city or cities (as defined by the Bureau of the Census)), or in accordance with procedures established by applicable State or local law.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -412,7 +412,7 @@ Regionally significant projects.—Regionally significant projects proposed for 
 
 &emsp;&emsp;&emsp;(ii)
 
-Other projects.—Projects proposed for funding under chapter 2 that are not determined to be regionally significant shall be grouped in one line item or identified individually in the transportation improvement program.
+Other projects.—Projects proposed for funding under chapter 2 that are not determined to be regionally significantshall be grouped in one line item or identified individually in the transportation improvement program.
 
 &emsp;&emsp;(C)
 
@@ -504,7 +504,7 @@ In general.—All federally funded projects carried out within the boundaries of
 
 &emsp;&emsp;(B)
 
-National highway system projects.—Projects carried out within the boundaries of a metropolitan planning area serving a transportation management area on the National Highway System and projects carried out within such boundaries under the bridge program or the Interstate maintenance program under this title shall be selected for implementation from the approved TIP by the State in cooperation with the metropolitan planning organization designated for the area.
+National highway system projects.—Projects carried out within the boundaries of a metropolitan planning area serving a transportation management area on the National Highway System and projects carried out within such boundaries under the bridge program or the Interstate maintenance program under this title shall be selected for implementation from the approved TIP bythe State in cooperation with the metropolitan planning organization designated for the area.
 
 &emsp;(5)
 
@@ -532,7 +532,7 @@ Effect of failure to certify.—
 
 &emsp;&emsp;&emsp;(i)
 
-Withholding of project funds.—If a metropolitan planning process of a metropolitan planning organization serving a transportation management area is not certified, the Secretary may withhold up to 20 percent of the funds attributable tothe metropolitan planning area of the metropolitan planning organization for projects funded under this title and chapter 53 of title 49.
+Withholding of project funds.—If a metropolitan planning process of a metropolitan planning organization serving a transportation management area is not certified, the Secretary may withhold up to 20 percent of the funds attributable to the metropolitan planning area of the metropolitan planning organization for projects funded under this title and chapter 53 of title 49.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -598,7 +598,7 @@ Subsec. (j)(3)(D). Pub. L. 110–244, §101(n)(2), inserted “or the identified
 
 Subsec. (k)(2). Pub. L. 110–244, §101(n)(3), struck out “a metropolitan planning area serving” before “a transportation management area,”.
 
-<b>2005</b>—Pub. L. 109–59 amended section catchline and text generally, substituting provisions relating to metropolitan transportation planning for provisions relating to, in subsec. (a), general requirements for development of transportation plans and programs for urbanized areas, in subsec. (b), designation of metropolitan planning organizations, in subsec. (c), determination of metropolitan planning area boundaries, in subsec. (d), coordination of transportation planning in multistate metropolitan areas, in subsec. (e), coordination of metropolitan planning organizations, in subsec. (f), scope of the planning process, in subsec. (g), development of a long-range transportation plan, in subsec. (h), development of a metropolitan area transportation improvement program, in subsec. (i), designation of transportation management areas, in subsec. (j), abbreviated plans and programs for areas not designated as transportation management areas, in subsec. (k), transfer of funds, in subsec. (<i>l</i>), additional requirements for nonattainment areas under the Clean Air Act,in subsec. (m), limitation on statutory construction, in subsec.\(n), funding, and in subsec. (<i>o</i>), review of plans and programs under the National Environmental Policy Act of 1969.
+<b>2005</b>—Pub. L. 109–59 amended section catchline and text generally, substituting provisions relating to metropolitan transportation planning for provisions relating to, in subsec. (a), general requirements for development of transportation plans and programs for urbanized areas, in subsec. (b), designation of metropolitan planning organizations, in subsec. (c), determination of metropolitan planning area boundaries, in subsec. (d), coordination of transportation planning in multistate metropolitan areas, in subsec. (e), coordination of metropolitan planning organizations, in subsec. (f), scope of the planning process, in subsec. (g), development of a long-range transportation plan, in subsec. (h), development of a metropolitan area transportation improvement program, in subsec. (i), designation of transportation management areas, in subsec. (j), abbreviated plans and programs for areas not designated as transportation management areas, in subsec. (k), transfer of funds, in subsec. (<i>l</i>), additional requirements for nonattainment areas under the Clean Air Act,in subsec. (m), limitation on statutory construction, in subsec. (n), funding, and in subsec. (<i>o</i>), review of plans and programs under the National Environmental Policy Act of 1969.
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–178, §1203(a), reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “It is in the national interest to encourage and promote the development of transportation systems embracing various modes of transportation in a manner which will efficiently maximize mobility of people and goods within and through urbanized areas and minimize transportation-related fuel consumption and air pollution. To accomplish this objective, metropolitan planning organizations, in cooperation with the State, shall develop transportation plans and programs for urbanized areas of the State. Such plans and programs shall provide for the development of transportation facilities (including pedestrian walkways and bicycle transportation facilities) which will function as an intermodal transportation system for the State, the metropolitan areas, and the Nation. The process for developing such plans and programs shall provide for consideration of all modes of transportation and shall be continuing, cooperative, and comprehensive to the degree appropriate, based on the complexity of the transportation problems.”
 
@@ -680,7 +680,7 @@ Subsec. (k). Pub. L. 103–429, §3(5)(C), (D), substituted “chapter 53 of tit
 
 Subsecs. (<i>l</i>), (m). Pub. L. 103–429, §3(5)(C), substituted “chapter 53 of title 49” for “the Federal Transit Act”.
 
-<b>1992</b>—Subsec. (k). Pub. L. 102–388 inserted at end “The provisions of title 23, United States Code, regarding the non-Federal share shall apply to title 23 funds used for transit projects and the provisions of the Federal Transit Act regarding non-Federal share shall apply to Federal Transit Act funds used for highway projects.”
+<b>1992</b>—Subsec. (k). Pub. L. 102–388 inserted at end “The provisions of title 23, United States Code, regarding thenon-Federal share shall apply to title 23 funds used for transit projects and the provisions of the Federal Transit Act regarding non-Federal share shall apply to Federal Transit Act funds used for highway projects.”
 
 <b>1991</b>—Pub. L. 102–240 substituted section catchline for one which read: “Transportation planning in certain urban areas” and amended text generally, substituting present provisions for provisions relating to transportation planning in certain urban areas, including provisions stating transportation objectives, requiring continuing comprehensive planning process by States and local communities, and relating to redesignation of metropolitan planning organizations, designation of contiguous interstate areas as critical transportation regions and corridors, establishment of planning bodies for such regions and corridors, and authorization of appropriations.
 
@@ -692,7 +692,7 @@ Subsecs. (b), (c). Pub. L. 95–599, §169(b), added subsec. (b) and redesignate
 
 #### Effective Date of 1998 Amendment
 
-Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 ofPub. L. 105–206, set out as a note under section 101 of this title.
+Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of this title.
 
 #### Effective Date of 1991 Amendment
 

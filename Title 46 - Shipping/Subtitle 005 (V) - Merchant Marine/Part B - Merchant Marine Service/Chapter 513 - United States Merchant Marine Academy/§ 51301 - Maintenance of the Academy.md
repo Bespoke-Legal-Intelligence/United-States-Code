@@ -1,8 +1,14 @@
 ### §51301. Maintenance of the Academy
 
-The Secretary of Transportation shall maintain the United States Merchant Marine Academy as an institution of higher education to provide instruction to individuals to prepare them for service in the merchant marine of the United States, to conduct research with respect to maritime-related matters, and to provide such other appropriate academic support, assistance, training, and activities in accordance with the provisions of this chapter as the Secretary may authorize.
+(a)
 
-(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1570; Pub. L. 111–383, div. C, title XXXV, §3504, Jan. 7, 2011, 124 Stat. 4518.)
+IN <sup>1</sup> General.—The Secretary of Transportation shall maintain the United States Merchant Marine Academy as an institution of higher education to provide instruction to individuals to prepare them for service in the merchant marine of the United States, to conduct research with respect to maritime-related matters, and to provide such other appropriate academic support, assistance, training, and activities in accordance with the provisions of this chapter as the Secretary may authorize.
+
+(b)
+
+Recruitment.—The Secretary of Transportation may, subject to the availability of appropriations, expend funds available for United States Merchant Marine Academy operating expenses for recruiting activities, including advertising, in order to obtain recruits for the Academy and cadet applicants.
+
+(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1570; Pub. L. 111–383, div. C, title XXXV, §3504, Jan. 7, 2011, 124 Stat. 4518; Pub. L. 112–81, div. C, title XXXV, §3503, Dec. 31, 2011, 125 Stat. 1716.)
 
 Historical and Revision Notes
 
@@ -22,7 +28,9 @@ June 29, 1936, ch. 858, title XIII, §1303(a), as added Pub. L. 96–453, §2, O
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 111–383 inserted “as an institution of higher education” after “Academy” and substituted “States, to conduct research with respect to maritime-related matters, and to provide such other appropriate academic support, assistance, training, and activities in accordance with the provisions of this chapter as the Secretary may authorize.” for “States.”
+<b>2011</b>—Pub. L. 112–81 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+
+Pub. L. 111–383 inserted “as an institution of higher education” after “Academy” and substituted “States, to conduct research with respect to maritime-related matters, and to provide such other appropriate academic support, assistance, training, and activities in accordance with the provisions of this chapter as the Secretary may authorize.” for “States.”
 
 #### Actions To Address Sexual Harassment and Violence at the United States Merchant Marine Academy
 
@@ -95,4 +103,8 @@ Annual Report.—
 &emsp;“(4)(A) The Superintendent shall transmit to the Secretary, and to the Board of Visitors of the Academy, each report received by the Superintendent under this subsection, together with the Superintendent's comments on the report.
 
 &emsp;“(B) The Secretary shall transmit each such report, together with the Secretary's comments on the report, to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be “</i>
+
+In”.
 

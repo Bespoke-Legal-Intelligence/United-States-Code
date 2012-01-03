@@ -4,6 +4,10 @@ Notwithstanding the provisions of section 154, the term of a patent which encomp
 
 (Added Pub. L. 97–414, §11(a), Jan. 4, 1983, 96 Stat. 2065; amended Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(6), (10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
 
+#### Repeal of Section
+
+<i>Pub. L. 112–29, §20(k), (l), Sept. 16, 2011, 125 Stat. 335, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, this section is repealed.</i>
+
 #### References in Text
 
 The Federal Food, Drug, and Cosmetic Act, referred to in text, is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. Section 409 of the Federal Food, Drug, and Cosmetic Act is classified to section 348 of Title 21. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
@@ -17,6 +21,10 @@ Date of enactment of this section, referred to in text, means date of enactment 
 <b>1999</b>—Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], as amended by Pub. L. 107–273, substituted “Director shall promptly” for “Commissioner shall promptly”.
 
 Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(6)\], substituted “notify the Director” for “notify the Commissioner of Patents and Trademarks”.
+
+#### Effective Date of Repeal
+
+Repeal effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(<i>l</i>) of Pub. L. 112–29, set out as an Effective Date of 2011 Amendment note under section 2 of this title.
 
 #### Effective Date of 1999 Amendment
 

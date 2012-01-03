@@ -14,7 +14,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;From amounts appropriated under subsection (h) for a fiscal year, the Secretary is authorized to award grants to four State educational agencies to enable the State educational agencies to pay the administrative expenses incurred in participating in the demonstration program under this section by carrying out a demonstration project under which eighth grade students described in subsection (b)(1)(B) receive a commitment early in the students’ academic careers to receive a Federal Pell Grant.
+&emsp;&emsp;From amounts appropriated under subsection (h) for a fiscal year, the Secretary is authorized to award grants to four Stateeducational agencies to enable the State educational agencies to pay the administrative expenses incurred in participating in the demonstration program under this section by carrying out a demonstration project under which eighth grade students described in subsection (b)(1)(B) receive a commitment early in the students’ academic careers to receive a Federal Pell Grant.
 
 #### (B) Equal amounts
 

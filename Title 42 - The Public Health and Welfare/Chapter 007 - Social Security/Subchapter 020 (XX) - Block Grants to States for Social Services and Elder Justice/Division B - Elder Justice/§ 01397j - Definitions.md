@@ -4,7 +4,7 @@ In this division:
 
 #### (1) Abuse
 
-&emsp;The term “abuse” means the knowing infliction of physical or psychological harm or theknowing deprivation of goods or services that are necessary to meet essential needs or to avoid physical or psychological harm.
+&emsp;The term “abuse” means the knowing infliction of physical or psychological harm or the knowing deprivation of goods or services that are necessary to meet essential needs or to avoid physical or psychological harm.
 
 #### (2) Adult protective services
 

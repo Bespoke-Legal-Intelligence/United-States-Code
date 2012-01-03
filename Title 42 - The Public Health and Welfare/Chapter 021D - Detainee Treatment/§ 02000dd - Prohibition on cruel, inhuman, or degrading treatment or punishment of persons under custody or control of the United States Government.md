@@ -54,7 +54,7 @@ Reporting to Congress.—
 
 &emsp;“(1)
 
-Briefings.—The Secretary of State shall keep the appropriate congressional committees fully andcurrently informed of the progress of any discussions between the United States and its allies regarding the development of the common coalition approach described in subsection (b).
+Briefings.—The Secretary of State shall keep the appropriate congressional committees fully and currently informed of the progress of any discussions between the United States and its allies regarding the development of the common coalition approach described in subsection (b).
 
 &emsp;“(2)
 
@@ -144,7 +144,7 @@ Sec. 5. <i>Special Interagency Task Force on Interrogation and Transfer Policies
 
 &emsp;(i) to study and evaluate whether the interrogation practices and techniques in Army Field Manual 2–22.3, when employed by departments or agencies outside the military, provide an appropriate means of acquiring the intelligence necessary to protect the Nation, and, if warranted, to recommend any additional or different guidance for other departments or agencies; and
 
-&emsp;(ii) to study and evaluate the practices of transferring individuals to other nations in order to ensure that such practices comply with the domestic laws, international obligations, and policies of the United States and do not result in the transfer of individuals to other nations to face torture or otherwise for the purpose, or with the effect, of undermining or circumventing the commitments or obligations of the United States to ensure the humane treatment of individuals in its custody or control.
+&emsp;(ii) to study and evaluate the practices of transferring individuals to other nations in order to ensurethat such practices comply with the domestic laws, international obligations, and policies of the United States and do not result in the transfer of individuals to other nations to face torture or otherwise for the purpose, or with the effect, of undermining or circumventing the commitments or obligations of the United States to ensure the humane treatment of individuals in its custody or control.
 
 (f) <i>Administration</i>. The Special Task Force shall be established for administrative purposes within the Department of Justice and the Department of Justice shall, to the extent permitted by law and subject to the availability of appropriations, provide administrative support and funding for the Special Task Force.
 

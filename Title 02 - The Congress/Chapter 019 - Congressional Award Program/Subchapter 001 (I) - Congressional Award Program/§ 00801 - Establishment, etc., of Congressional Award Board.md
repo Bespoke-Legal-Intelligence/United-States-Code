@@ -6,7 +6,7 @@ There is established a board to be known as the Congressional Award Board (herei
 
 #### Amendments
 
-2000—Pub. L. 106–533, §1(b)(3)(A), substituted “subchapter” for “chapter”.
+<b>2000</b>—Pub. L. 106–533, §1(b)(3)(A), substituted “subchapter” for “chapter”.
 
 Pub. L. 106–533, §1(b)(3)(B), made technical amendment to reference in original act which appears in text as reference to section 802 of this title.
 

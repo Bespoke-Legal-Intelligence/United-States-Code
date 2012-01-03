@@ -94,7 +94,7 @@ For purposes of this section—
 
 #### (B) Irrevocable election
 
-&emsp;&emsp;An election under this section shall be irrevocable and shall be binding for the liquidation year and for all determinations for prior and subsequent taxable years insofaras such determinations are affected by the adjustments under this section.
+&emsp;&emsp;An election under this section shall be irrevocable and shall be binding for the liquidation year and for all determinations for prior and subsequent taxable years insofar as such determinations are affected by the adjustments under this section.
 
 #### (e) Replacement; inventory basis
 
@@ -132,5 +132,5 @@ The Secretary shall prescribe such regulations as may be necessary to coordinate
 
 #### Effective Date
 
-Section 403(a)(3) of Pub. L. 96–223, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by paragraphs (1) and (2) \[enacting this section\] shall apply to qualified liquidations (within the meaning of section 473(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) in taxable years ending after October 31, 1979.”
+Section 403(a)(3) of Pub. L. 96–223, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by paragraphs (1) and (2) \[enacting this section\] shall apply to qualified liquidations (within the meaning of section 473(c) of the InternalRevenue Code of 1986 \[formerly I.R.C. 1954\]) in taxable years ending after October 31, 1979.”
 

@@ -6,7 +6,7 @@ Organization.—The Maritime Administration is an administration in the Departme
 
 (b)
 
-Maritime Administrator.—The head of the Maritime Administration is the Maritime Administrator, who is appointed by the Presidentby and with the advice and consent of the Senate. The Administrator shall report directly to the Secretary of Transportation and carry out the duties prescribed by the Secretary.
+Maritime Administrator.—The head of the Maritime Administration is the Maritime Administrator, who is appointed by the President by and with the advice and consent of the Senate. The Administrator shall report directly to the Secretary of Transportation and carry out the duties prescribed by the Secretary.
 
 (c)
 
@@ -100,7 +100,7 @@ Pub. L. 97–449
 
 (no source).
 
-The section is included to provide in chapter 1 of the revised title a complete list of the organizational unitsestablished by law that are in the Department of Transportation or are subject to the direction and supervision of the Secretary of Transportation.
+The section is included to provide in chapter 1 of the revised title a complete list of the organizational units established by law that are in the Department of Transportation or are subject to the direction and supervision of the Secretary of Transportation.
 
 Pub. L. 109–304
 
@@ -228,11 +228,11 @@ Subsecs. (i), (j). Pub. L. 111–84, §3508(6), added subsec. (i) and redesignat
 
 #### Effective Date of 2011 Amendment
 
-Pub. L. 111–383, div. A, title X, §1075(d), Jan. 7, 2011, 124 Stat. 4372, provided that the amendment by section 1075(d)(26) is effective as of Oct. 28, 2009, and as if included in Pub. L. 111–84 as enacted.
+Pub. L. 111–383, div. A, title X, §1075(d), Jan. 7, 2011, 124 Stat. 4372, provided that the amendment by section1075(d)(26) is effective as of Oct. 28, 2009, and as if included in Pub. L. 111–84 as enacted.
 
 #### References in Other Federal Laws to Functions or Offices Transferred
 
-Pub. L. 97–31, §10, Aug. 6, 1981, 95 Stat. 153, provided that: “With respect to any function or office transferred by this Act \[see Tables for classification\] and exercised on or after the effective date of this Act \[Aug.6, 1981\], reference in any other Federal law to the Maritime Administration or any of its predecessor agencies or any officer or office the functions of which are so transferred shall be deemed to refer to the Secretary of Transportation, other official, or component of the Department of Transportation to which this Act transfers such functions.”
+Pub. L. 97–31, §10, Aug. 6, 1981, 95 Stat. 153, provided that: “With respect to any function or office transferred by this Act \[see Tables for classification\] and exercised on or after the effective date of this Act \[Aug. 6, 1981\], reference in any other Federal law to the Maritime Administration or any of its predecessor agencies or any officer or office the functions of which are so transferred shall be deemed to refer to the Secretary of Transportation, other official, or component of the Department of Transportation to which this Act transfers such functions.”
 
 #### Expansion of the Marine View System
 

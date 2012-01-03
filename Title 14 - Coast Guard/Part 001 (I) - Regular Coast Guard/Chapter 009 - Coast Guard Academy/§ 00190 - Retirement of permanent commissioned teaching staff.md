@@ -16,11 +16,11 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### Amendments
 
-1970—Pub. L. 91–278 permitted permanent teachers to retire at sixty-four rather than at sixty-two unless earlier retired or separated.
+<b>1970</b>—Pub. L. 91–278 permitted permanent teachers to retire at sixty-four rather than at sixty-two unless earlier retired or separated.
 
-1966—Pub. L. 89–444 authorized the Secretary to retire any member of the permanent commissioned teaching staff who has completed thirty years’ active service.
+<b>1966</b>—Pub. L. 89–444 authorized the Secretary to retire any member of the permanent commissioned teaching staff who has completed thirty years’ active service.
 
-1963—Pub. L. 88–130 inserted “or discharge”, excepted staff members from retirement from active service under section 288 of this title, and from the provisions of section 289 of this title, and struck out “permanent” before “commissioned officers”.
+<b>1963</b>—Pub. L. 88–130 inserted “or discharge”, excepted staff members from retirement from active service under section 288 of this title, and from the provisions of section 289 of this title, and struck out “permanent” before “commissioned officers”.
 
-1960—Pub. L. 86–474 substituted “civilian member of the teaching staff” for “civilian instructor or civilian librarian”, and struck out “commissioned” in three places before “instructors” and “instructor”, respectively.
+<b>1960</b>—Pub. L. 86–474 substituted “civilian member of the teaching staff” for “civilian instructor or civilian librarian”, and struck out “commissioned” in three places before “instructors” and “instructor”, respectively.
 

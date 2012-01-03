@@ -1,6 +1,6 @@
 ### §10541. National Guard and reserve component equipment: annual report to Congress
 
-(a) The Secretary of Defense shall submit to the Congress each year, not later than February 15, a written report concerning the equipment ofthe National Guard and the reserve components of the armed forces for each of the three succeeding fiscal years.
+(a) The Secretary of Defense shall submit to the Congress each year, not later than March 15, a written report concerning the equipment of the National Guard and the reserve components of the armed forces for each of the three succeeding fiscal years.
 
 (b) Each report under this section shall include the following:
 
@@ -52,13 +52,15 @@
 
 &emsp;&emsp;(C) which has not been received by a National Guard unit as of the close of that fiscal year.
 
-(Added Pub. L. 101–510, div. A, title XIV, §1483(a), Nov. 5, 1990, 104 Stat. 1714, §115b; amended Pub. L. 102–484, div. A, title XI, §1134, Oct. 23, 1992, 106 Stat. 2541; renumbered §10541 and amended Pub. L. 103–337, div. A, title XVI, §1661(d)(2), Oct. 5, 1994, 108 Stat. 2982; Pub. L. 110–181, div. A, title III, §351(a), title XVIII, §1826, Jan. 28, 2008, 122 Stat. 70, 503.)
+(Added Pub. L. 101–510, div. A, title XIV, §1483(a), Nov. 5, 1990, 104 Stat. 1714, §115b; amended Pub. L. 102–484, div. A, title XI, §1134, Oct. 23, 1992, 106 Stat. 2541; renumbered §10541 and amended Pub. L. 103–337, div. A, title XVI, §1661(d)(2), Oct. 5, 1994, 108 Stat. 2982; Pub. L. 110–181, div. A, title III, §351(a), title XVIII, §1826, Jan. 28, 2008, 122 Stat. 70, 503; Pub. L. 112–81, div. A, title X, §1070, Dec. 31, 2011, 125 Stat. 1592.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 115(a)(2), (3) of this title, prior to repeal by Pub. L. 101–510, §1483(a).
 
 #### Amendments
+
+<b>2011</b>—Subsec. (a). Pub. L. 112–81 substituted “March 15” for “February 15”.
 
 <b>2008</b>—Subsec. (b)(9). Pub. L. 110–181, §351(a), added par. (9).
 

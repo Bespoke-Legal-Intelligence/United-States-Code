@@ -64,7 +64,7 @@
 
 &emsp;&emsp;(iii) any person who, immediately before the notice to the registrant under clause (i)—
 
-&emsp;&emsp;&emsp;(I) had not been notified in writing by the seller, as provided under subparagraph (A), that any quantity of the pesticide owned by such person is not subject to reimbursement by the seller in the event of suspension or cancellation of the pesticide; and
+&emsp;&emsp;&emsp;(I) had not been notified in writing by the seller, as provided under subparagraph\(A), that any quantity of the pesticide owned by such person is not subject to reimbursement by the seller in the event of suspension or cancellation of the pesticide; and
 
 &emsp;&emsp;&emsp;(II) owned any quantity of the pesticide for purposes of—
 
@@ -106,7 +106,7 @@
 
 #### Amendments
 
-1988—Pub. L. 100–532 amended section generally, in subsec. (a), substituting provisions relating to general indemnification for provisions relating to requirements for payment, adding subsec. (b), and redesignating provisions of former subsec. (b), with further amendment, as subsec. (c).
+<b>1988</b>—Pub. L. 100–532 amended section generally, in subsec. (a), substituting provisions relating to general indemnification for provisions relating to requirements for payment, adding subsec. (b), and redesignating provisions of former subsec. (b), with further amendment, as subsec. (c).
 
 #### Effective Date of 1988 Amendment
 

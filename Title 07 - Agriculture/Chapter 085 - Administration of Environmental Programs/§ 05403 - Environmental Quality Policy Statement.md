@@ -42,7 +42,7 @@ There are hereby authorized to be appropriated annually not to exceed $2,000,000
 
 #### Amendments
 
-1991—Subsec. (a)(1). Pub. L. 102–237, §201(d)(1), substituted “paragraph (2)” for “subparagraph (B)”.
+<b>1991</b>—Subsec. (a)(1). Pub. L. 102–237, §201(d)(1), substituted “paragraph (2)” for “subparagraph (B)”.
 
 Subsec. (a)(2). Pub. L. 102–237, §201(d)(2), substituted “paragraph (1)” for “subparagraph (A)” in introductory provisions.
 

@@ -2,7 +2,7 @@
 
 #### (a) Appropriated funds for similar programs of Department of Health and Human Services; appropriation in advance for payments
 
-In the establishment, operation, and funding of Indian child and family service programs, both on and off reservation, the Secretary may enter into agreements with the Secretary of Health and Human Services, and the latter Secretary is hereby authorized for such purposes to use funds appropriated for similar programs of the Department of Health and Human Services: <i>Provided</i>, That authority to make payments pursuant to such agreements shall be effective only to the extent and in such amounts as may be provided in advance by appropriation Acts.
+In the establishment, operation, and funding of Indian child and family service programs, both on and off reservation, the Secretary may enter into agreements with the Secretary of Health and Human Services, and the latter Secretary is hereby authorized for such purposes touse funds appropriated for similar programs of the Department of Health and Human Services: <i>Provided</i>, That authority to make payments pursuant to such agreements shall be effective only to the extent and in such amounts as may be provided in advance by appropriation Acts.
 
 #### (b) Appropriation authorization under section 13 of this title
 

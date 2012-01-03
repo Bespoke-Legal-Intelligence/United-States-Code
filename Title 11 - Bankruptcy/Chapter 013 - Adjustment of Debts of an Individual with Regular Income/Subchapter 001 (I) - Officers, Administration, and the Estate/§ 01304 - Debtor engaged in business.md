@@ -10,7 +10,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 1304(b) of the House amendment adopts the approach taken in the comparable section of the Senate amendment as preferable to the position taken in the House bill.
 
@@ -26,9 +26,9 @@ Subsection (c) requires a chapter 13 debtor engaged in business to file with the
 
 #### Amendments
 
-2010—Subsec. (c). Pub. L. 111–327 substituted “704(a)(8)” for “704(8)”.
+<b>2010</b>—Subsec. (c). Pub. L. 111–327 substituted “704(a)(8)” for “704(8)”.
 
-1984—Subsec. (b). Pub. L. 98–353, §526, struck out the comma after “of the debtor”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–353, §526, struck out the comma after “of the debtor”.
 
 Subsec. (c). Pub. L. 98–353, §311(b)(2), substituted “section 704(8)” for “section 704(7)”.
 

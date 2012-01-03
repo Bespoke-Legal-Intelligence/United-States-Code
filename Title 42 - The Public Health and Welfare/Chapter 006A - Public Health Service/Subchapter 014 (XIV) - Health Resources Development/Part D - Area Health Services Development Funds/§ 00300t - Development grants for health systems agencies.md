@@ -8,7 +8,7 @@ The Secretary shall make in each fiscal year a grant to each health system agenc
 
 &emsp;(2) which has in effect an HSP and AIP reviewed by the Statewide Health Coordinating Council, and
 
-&emsp;(3) which, as determined under the review made under section 300n–4(c) <sup>1</sup> of this title, is organized and operated in the manner prescribed by section 300<i>l–</i>1(b) <sup>1</sup> of this title and is performing its functions under section 300<i>l–</i>2 <sup>1</sup> of this title in a manner satisfactory to the Secretary,
+&emsp;(3) which, as determined under the review made under section 300n–4(c) <sup>1</sup> of this title, is organized and operated in the manner prescribed by section 300<i>l–</i>1(b) <sup>1</sup> of this title and isperforming its functions under section 300<i>l–</i>2 <sup>1</sup> of this title in a manner satisfactory to the Secretary,
 
 > to enable the agency to establish and maintain an Area Health Service Development Fund from which it may make grants and enter into contracts in accordance with section 300<i>l–</i>2(c)(3) <sup>1</sup> of this title.
 

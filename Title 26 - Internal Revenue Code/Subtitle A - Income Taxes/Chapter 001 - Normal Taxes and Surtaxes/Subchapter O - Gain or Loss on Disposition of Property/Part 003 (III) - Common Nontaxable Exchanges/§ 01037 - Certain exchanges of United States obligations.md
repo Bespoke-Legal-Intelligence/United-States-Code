@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-When so provided by regulations promulgated by the Secretary in connection with the issue of obligations of the United States, no gain or loss shall be recognized on the surrender to the United States of obligations of the United States issued under chapter 31 of title 31 in exchange solely for other obligations issued under such chapter.
+When so provided by regulations promulgated by the Secretary in connection with the issue ofobligations of the United States, no gain or loss shall be recognized on the surrender to the United States of obligations of the United States issued under chapter 31 of title 31 in exchange solely for other obligations issued under such chapter.
 
 #### (b) Application of original issue discount rules
 

@@ -58,7 +58,7 @@ The Federal write-in absentee ballot shall not be valid for use in a general, sp
 
 &emsp;(1) at the request of the State, is approved by the Presidential designee for use in place of the Federal write-in absentee ballot; and
 
-&emsp;(2) is made available to absent uniformed services voters and overseas voters at least 60days before the deadline for receipt of the State ballot under State law.
+&emsp;(2) is made available to absent uniformed services voters and overseas voters at least 60 days before the deadline for receipt of the State ballot under State law.
 
 #### (f) Prohibiting refusal to accept ballot for failure to meet certain requirements
 

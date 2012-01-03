@@ -10,7 +10,7 @@ R.S. §326 derived from act June 3, 1864, ch. 106, §1, 13 Stat. 99, which was t
 
 #### Amendments
 
-1972—Pub. L. 92–310 struck out provisions which required the Comptroller to give a bond in the sum of $250,000.
+<b>1972</b>—Pub. L. 92–310 struck out provisions which required the Comptroller to give a bond in the sum of $250,000.
 
-1959—Pub. L. 86–251 increased the surety bond requirement from $100,000 to $250,000.
+<b>1959</b>—Pub. L. 86–251 increased the surety bond requirement from $100,000 to $250,000.
 

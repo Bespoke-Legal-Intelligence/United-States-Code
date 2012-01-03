@@ -58,13 +58,13 @@ The Secretary of State shall transmit to the Speaker of the House of Representat
 
 &emsp;&emsp;(B) instances of propaganda in government and nongovernment media that attempt to justify or promote racial hatred or incite acts of violence against Jewish people;
 
-&emsp;&emsp;(C) the actions, if any, taken by the government of the country to respond to suchviolence and attacks or to eliminate such propaganda or incitement;
+&emsp;&emsp;(C) the actions, if any, taken by the government of the country to respond to such violence and attacks or to eliminate such propaganda or incitement;
 
 &emsp;&emsp;(D) the actions taken by such government to enact and enforce laws relating to the protection of the right to religious freedom of Jewish people; and
 
 &emsp;&emsp;(E) the efforts of such government to promote anti-bias and tolerance education;
 
-&emsp;(9) wherever applicable, consolidated information regarding the commission of war crimes, crimes against humanity, and evidence of acts that may constitute genocide (as defined in article 2 of the Convention on the Prevention and Punishment of the Crime of Genocide and modified by the United States instrument of ratification to that convention and section 2(a) of the Genocide Convention Implementation Act of 1987);
+&emsp;(9) wherever applicable, consolidated information regarding the commission of warcrimes, crimes against humanity, and evidence of acts that may constitute genocide (as defined in article 2 of the Convention on the Prevention and Punishment of the Crime of Genocide and modified by the United States instrument of ratification to that convention and section 2(a) of the Genocide Convention Implementation Act of 1987);
 
 &emsp;(10) for each country with respect to which the report indicates that extrajudicial killings, torture, or other serious violations of human rights have occurred in the country, the extent to which the United States has taken or will take action to encourage an end to such practices in the country;
 
@@ -112,9 +112,9 @@ The President is authorized and encouraged to use not less than $3,000,000 of th
 
 &emsp;&emsp;(v) What steps the government of that country has taken to assist victims of such trafficking, including efforts to prevent victims from being further victimized by traffickers, government officials, or others, grants of relief from deportation, and provision of humanitarian relief, including provision of mental and physical health care and shelter.
 
-&emsp;&emsp;(vi) Whether the government of that country is cooperating with governments of other countries to extradite traffickers when requested, or, to the extent that such cooperation would be inconsistent with the laws ofsuch country or with extradition treaties to which such country is a party, whether the government of that country is taking all appropriate measures to modify or replace such laws and treaties so as to permit such cooperation.
+&emsp;&emsp;(vi) Whether the government of that country is cooperating with governments of other countries to extradite traffickers when requested, or, to the extent that such cooperation would be inconsistent with the laws of such country or with extradition treaties to which such country is a party, whether the government of that country is taking all appropriate measures to modify or replace such laws and treaties so as to permit such cooperation.
 
-&emsp;&emsp;(vii) Whether the government of that country is assisting in international investigations of transnational trafficking networks and in other cooperative efforts to combat severe forms of trafficking in persons.
+&emsp;&emsp;(vii) Whether the government of that country is assisting in international investigations of transnational trafficking networks and in other cooperative efforts tocombat severe forms of trafficking in persons.
 
 &emsp;&emsp;(viii) Whether the government of that country refrains from prosecuting victims of severe forms of trafficking in persons due to such victims having been trafficked, and refrains from other discriminatory treatment of such victims.
 
@@ -178,7 +178,7 @@ Subsec. (c). Pub. L. 103–236 substituted “Assistant Secretary of State for D
 
 <b>1993</b>—Subsec. (e). Pub. L. 103–149 struck out “(1)” before “The President is authorized” and struck out par. (2) which authorized grants to nongovernmental organizations in South Africa promoting political, economic, social, juridical, and humanitarian efforts to foster a just society and to help victims of apartheid.
 
-Subsecs. (f), (g). Pub. L. 103–149 struck out subsec. (f) which authorized assistance to political detainees andprisoners and support for black-led community organizations in South Africa and subsec. (g) which authorized assistance to families of victims of violence in South Africa.
+Subsecs. (f), (g). Pub. L. 103–149 struck out subsec. (f) which authorized assistance to political detainees and prisoners and support for black-led community organizations in South Africa and subsec. (g) which authorized assistance to families of victims of violence in South Africa.
 
 <b>1990</b>—Subsec. (b). Pub. L. 101–513, §599D, added subsec. (b) prohibiting assistance to governments failing to protect children from exploitation, abuse or conscription.
 
@@ -252,7 +252,7 @@ Pub. L. 107–228, div. A, title VI, §702, Sept. 30, 2002, 116 Stat. 1420, prov
 
 &emsp;“(1) Improving the Government of Vietnam's commercial and criminal codes to bring them into conformity with international standards, including the repeal of the Government of Vietnam's administrative detention decree (Directive 31/CP).
 
-&emsp;“(2) Releasing political and religious activists who have been imprisoned or otherwise detained by theGovernment of Vietnam, and ceasing surveillance and harassment of those who have been released.
+&emsp;“(2) Releasing political and religious activists who have been imprisoned or otherwise detained by the Government of Vietnam, and ceasing surveillance and harassment of those who have been released.
 
 &emsp;“(3) Ending official restrictions on religious activity, including implementing the recommendations of the United Nations Special Rapporteur on Religious Intolerance.
 

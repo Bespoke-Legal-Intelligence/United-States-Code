@@ -6,7 +6,7 @@ Before establishing any regulatory requirements that might significantly or uniq
 
 &emsp;(1) provide notice of the requirements to potentially affected small governments, if any;
 
-&emsp;(2) enable officials of affected small governments to provide meaningful and timely input in the development of regulatory proposalscontaining significant Federal intergovernmental mandates; and
+&emsp;(2) enable officials of affected small governments to provide meaningful and timely input in the development of regulatory proposals containing significant Federal intergovernmental mandates; and
 
 &emsp;(3) inform, educate, and advise small governments on compliance with the requirements.
 

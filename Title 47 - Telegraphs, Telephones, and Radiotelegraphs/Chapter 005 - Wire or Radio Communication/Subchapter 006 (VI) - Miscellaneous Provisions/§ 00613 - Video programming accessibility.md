@@ -66,7 +66,7 @@ Notwithstanding subsection (b) of this section—
 
 #### (e) Undue burden
 
-The term “undue burden” means significant difficulty or expense. In determining whether the closed captions necessary to comply withthe requirements of this paragraph would result in an undue economic burden, the factors to be considered include—
+The term “undue burden” means significant difficulty or expense. In determining whether the closed captions necessary to comply with the requirements of this paragraph would result in an undue economic burden, the factors to be considered include—
 
 &emsp;(1) the nature and cost of the closed captions for the programming;
 
@@ -142,7 +142,7 @@ The term “undue burden” means significant difficulty or expense. In determin
 
 &emsp;&emsp;&emsp;&emsp;(III) the costs to program owners, providers, and distributors of creating such programming;
 
-&emsp;&emsp;&emsp;&emsp;(IV) the potential costs to program owners, providers, and distributors indesignated market areas outside of the top 60 of creating such programming;
+&emsp;&emsp;&emsp;&emsp;(IV) the potential costs to program owners, providers, and distributors in designated market areas outside of the top 60 of creating such programming;
 
 &emsp;&emsp;&emsp;&emsp;(V) the benefits to consumers of such programming;
 
@@ -172,7 +172,7 @@ For purposes of this section, section 303 of this title, and section 330 of this
 
 #### (1) Video description
 
-&emsp;The term “video description” means the insertion of audio narrated descriptions of a television program's key visual elements into natural pauses between the program's dialogue.
+&emsp;The term “video description” means the insertion of audio narrated descriptions of a television program's key visual elements intonatural pauses between the program's dialogue.
 
 #### (2) Video programming
 

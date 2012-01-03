@@ -26,7 +26,7 @@
 
 #### (4) Combined leave total
 
-&emsp;During the single 12-month period described in paragraph (3), an eligible employee shall be entitled to a combined total of 26 workweeks of leave under paragraphs (1) and (3). Nothing in this paragraph shall be construed to limit the availability of leave under paragraph (1) during any other 12-month period.
+&emsp;During the single 12-month period described in paragraph (3), an eligible employee shall beentitled to a combined total of 26 workweeks of leave under paragraphs (1) and (3). Nothing in this paragraph shall be construed to limit the availability of leave under paragraph (1) during any other 12-month period.
 
 #### (5) Calculation of leave for airline flight crews
 
@@ -128,7 +128,7 @@ Subsec. (b)(1). Pub. L. 110–181, §585(a)(3)(A)(i), (ii), in second sentence, 
 
 Subsec. (b)(2). Pub. L. 110–181, §585(a)(3)(A)(iii), inserted “or under subsection (a)(3)” after “subsection (a)(1)”.
 
-Subsec. (d)(1). Pub. L. 110–181, §585(a)(3)(B)(i), inserted “(or 26 workweeks in the case of leave provided undersubsection (a)(3))” after “fewer than 12 workweeks” and “(or 26 workweeks, as appropriate)” after “attain the 12 workweeks”.
+Subsec. (d)(1). Pub. L. 110–181, §585(a)(3)(B)(i), inserted “(or 26 workweeks in the case of leave provided under subsection (a)(3))” after “fewer than 12 workweeks” and “(or 26 workweeks, as appropriate)” after “attain the 12 workweeks”.
 
 Subsec. (d)(2)(A). Pub. L. 110–181, §585(a)(3)(B)(ii), substituted “(C), or (E)” for “or (C)”.
 

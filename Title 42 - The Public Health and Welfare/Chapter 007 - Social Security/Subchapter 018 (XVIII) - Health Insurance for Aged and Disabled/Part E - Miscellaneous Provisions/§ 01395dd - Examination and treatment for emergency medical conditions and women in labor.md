@@ -2,7 +2,7 @@
 
 #### (a) Medical screening requirement
 
-In the case of a hospital that has a hospital emergency department, if any individual (whether or not eligible for benefits under this subchapter) comes to the emergency department and a request is made on the individual's behalf for examination or treatment for a medical condition, the hospital must provide for an appropriate medical screening examination within the capability of the hospital's emergency department, including ancillary services routinely available to the emergency department, to determine whether or not an emergency medical condition (within the meaning of subsection (e)(1) of this section) exists.
+In the case of a hospital that has a hospital emergency department, if any individual\(whether or not eligible for benefits under this subchapter) comes to the emergency department and a request is made on the individual's behalf for examination or treatment for a medical condition, the hospital must provide for an appropriate medical screening examination within the capability of the hospital's emergency department, including ancillary services routinely available to the emergency department, to determine whether or not an emergency medical condition (within the meaning of subsection (e)(1) of this section) exists.
 
 #### (b) Necessary stabilizing treatment for emergency medical conditions and labor
 
@@ -16,7 +16,7 @@ In the case of a hospital that has a hospital emergency department, if any indiv
 
 #### (2) Refusal to consent to treatment
 
-&emsp;A hospital is deemed to meet the requirement of paragraph (1)(A) with respect to an individual if the hospital offers the individual the further medical examination and treatment described in that paragraph and informsthe individual (or a person acting on the individual's behalf) of the risks and benefits to the individual of such examination and treatment, but the individual (or a person acting on the individual's behalf) refuses to consent to the examination and treatment. The hospital shall take all reasonable steps to secure the individual's (or person's) written informed consent to refuse such examination and treatment.
+&emsp;A hospital is deemed to meet the requirement of paragraph (1)(A) with respect to an individual if the hospital offers the individual the further medical examination and treatment described in that paragraph and informs the individual (or a person acting on the individual's behalf) of the risks and benefits to the individual of such examination and treatment, but the individual (or a person acting on the individual's behalf) refuses to consent to the examination and treatment. The hospital shall take all reasonable steps to secure the individual's (or person's) written informed consent to refuse such examination and treatment.
 
 #### (3) Refusal to consent to transfer
 
@@ -86,9 +86,9 @@ In the case of a hospital that has a hospital emergency department, if any indiv
 
 &emsp;&emsp;No action may be brought under this paragraph more than two years after the date of the violation with respect to which the action is brought.
 
-#### (3) Consultation with peer review organizations
+#### (3) Consultation with quality improvement organizations
 
-&emsp;In considering allegations of violations of the requirements of this section in imposing sanctions under paragraph (1) or in terminating a hospital's participation under this subchapter, the Secretary shall request the appropriate utilization and quality control peer review organization (with a contract under part B of subchapter XI of this chapter) to assess whether the individual involved had an emergency medical condition which had not been stabilized, and provide a report on its findings. Except in the case in which a delay would jeopardize the health or safety of individuals, the Secretary shall request such a review before effecting a sanction under paragraph (1) and shall provide a period of at least 60 days for such review. Except in the case in which a delay would jeopardize the health or safety of individuals, the Secretary shall also request such a review before making a compliance determination as part of the process of terminating a hospital's participation under this subchapter for violations related to the appropriateness of a medical screening examination, stabilizing treatment, or an appropriate transfer as required by this section, and shall provide a period of 5 days for such review. The Secretary shall provide a copy of the organization's report to the hospital or physician consistent with confidentiality requirements imposed on the organization under such part B.
+&emsp;In considering allegations of violations of the requirements of this section in imposing sanctions under paragraph (1) or in terminating a hospital's participation under this subchapter, the Secretary shall request the appropriate quality improvement organization (with a contract under part B of subchapter XI of this chapter) to assess whether the individual involved had an emergency medical condition which had not been stabilized, and provide a report on its findings. Except in the case in which a delay would jeopardize the health or safety of individuals, the Secretary shall request such a review before effecting a sanction under paragraph (1) and shall provide a period of at least 60 days for such review. Except in the case in which a delay would jeopardize the health or safety of individuals, the Secretary shall also request such a review before making a compliance determination as part of the process of terminating a hospital's participation under this subchapter for violations related to the appropriateness of a medical screening examination, stabilizing treatment, or an appropriate transfer as required by this section, and shall provide a period of 5 days for such review. The Secretary shall provide a copy of the organization's report to the hospital or physician consistent with confidentiality requirements imposed on the organization under such part B.
 
 #### (4) Notice upon closing an investigation
 
@@ -102,7 +102,7 @@ In this section:
 
 &emsp;&emsp;(A) a medical condition manifesting itself by acute symptoms of sufficient severity (including severe pain) such that the absence of immediate medical attention could reasonably be expected to result in—
 
-&emsp;&emsp;&emsp;(i) placing the health of the individual (or, with respect to a pregnant woman, the health of the woman or her unborn child) in serious jeopardy,
+&emsp;&emsp;&emsp;(i) placing the health of the individual (or, with respect to a pregnant woman, thehealth of the woman or her unborn child) in serious jeopardy,
 
 &emsp;&emsp;&emsp;(ii) serious impairment to bodily functions, or
 
@@ -140,11 +140,7 @@ A participating hospital may not delay provision of an appropriate medical scree
 
 A participating hospital may not penalize or take adverse action against a qualified medical person described in subsection (c)(1)(A)(iii) of this section or a physician because the person or physician refuses to authorize the transfer of an individual with an emergency medical condition that has not been stabilized or against any hospital employee because the employee reports a violation of a requirement of this section.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1867, as added Pub. L. 99–272, title IX, §9121(b), Apr. 7, 1986, 100 Stat. 164; amended Pub. L. 99–509, title IX, §9307(c)(4), Oct. 21, 1986, 100 Stat. 1996; Pub. L. 99–514, title XVIII, §1895(b)(4), Oct. 22, 1986, 100 Stat. 2933; Pub. L. 100–203, title IV, §4009(a)(1), formerly §4009(a)(1), (2), Dec. 22, 1987, 101 Stat. 1330–56, 1330–57; Pub. L. 100–360, title IV, §411(b)(8)(A)(i), July 1, 1988, 102 Stat. 772; Pub. L. 100–485, title VI, §608(d)(18)(E), Oct. 13, 1988, 102 Stat. 2419; Pub. L. 101–239, title VI, §§6003(g)(3)(D)(xiv), 6211(a)–(h), Dec. 19, 1989, 103 Stat. 2154, 2245–2248; Pub. L. 101–508, title IV, §§4008(b)(1)–(3)(A), 4207(a)(1)(A), (2), (3), (k)(3), formerly 4027(a)(1)(A), (2), (3), (k)(3), Nov. 5, 1990, 104 Stat. 1388–44, 1388–117, 1388–124, renumbered and amended Pub. L. 103–432, title I, §160(d)(4), (5)(A), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 105–33, title IV, §4201(c)(1), Aug. 5, 1997, 111 Stat. 373; Pub. L. 108–173, title VII, §736(a)(14), title IX, §944(b), (c)(1), Dec. 8, 2003, 117 Stat. 2355, 2423.)
-
-#### References in Text
-
-Part B of subchapter XI of this chapter, referred to in subsec. (d)(3), is classified to section 1320c et seq. of this title.
+(Aug. 14, 1935, ch. 531, title XVIII, §1867, as added Pub. L. 99–272, title IX, §9121(b), Apr. 7, 1986, 100 Stat. 164; amended Pub. L. 99–509, title IX, §9307(c)(4), Oct. 21, 1986, 100 Stat. 1996; Pub. L. 99–514, title XVIII, §1895(b)(4), Oct. 22, 1986, 100 Stat. 2933; Pub. L. 100–203, title IV, §4009(a)(1), formerly §4009(a)(1), (2), Dec. 22, 1987, 101 Stat. 1330–56, 1330–57; Pub. L. 100–360, title IV, §411(b)(8)(A)(i), July 1, 1988, 102 Stat. 772; Pub. L. 100–485, title VI, §608(d)(18)(E), Oct. 13, 1988, 102 Stat. 2419; Pub. L. 101–239, title VI, §§6003(g)(3)(D)(xiv), 6211(a)–(h), Dec. 19, 1989, 103 Stat. 2154, 2245–2248; Pub. L. 101–508, title IV, §§4008(b)(1)–(3)(A), 4207(a)(1)(A), (2), (3), (k)(3), formerly 4027(a)(1)(A), (2), (3), (k)(3), Nov. 5, 1990, 104 Stat. 1388–44, 1388–117, 1388–124, renumbered and amended Pub. L. 103–432, title I, §160(d)(4), (5)(A), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 105–33, title IV, §4201(c)(1), Aug. 5, 1997, 111 Stat. 373; Pub. L. 108–173, title VII, §736(a)(14), title IX, §944(b), (c)(1), Dec. 8, 2003, 117 Stat. 2355, 2423; Pub. L. 112–40, title II, §261(a)(3)(A), (E), Oct. 21, 2011, 125 Stat. 423.)
 
 #### Prior Provisions
 
@@ -152,9 +148,11 @@ A prior section 1395dd, act Aug. 14, 1935, ch. 531, title XVIII, §1867, as adde
 
 #### Amendments
 
+<b>2011</b>—Subsec. (d)(3). Pub. L. 112–40 substituted “quality improvement” for “peer review” in heading and for “utilization and quality control peer review” in text.
+
 <b>2003</b>—Subsec. (d)(1)(B). Pub. L. 108–173, §736(a)(14)(A), substituted “if the violation is” for “if the violation is is” in concluding provisions.
 
-Subsec. (d)(3). Pub. L. 108–173, §944(c)(1), inserted “or in terminating a hospital's participation under this subchapter” after “in imposing sanctions under paragraph (1)” and inserted at end “Except in the case in which a delay would jeopardize the health or safety of individuals, the Secretary shall also request such a review before making a compliance determination as part of the process of terminating a hospital's participation under this subchapter for violations related to the appropriateness of a medical screening examination, stabilizing treatment, or an appropriate transfer as required by this section, and shall provide a period of 5 days for such review. The Secretary shall provide a copy of the organization's report to the hospital or physician consistent with confidentiality requirements imposed on the organization under such part B.”
+Subsec. (d)(3). Pub. L. 108–173, §944(c)(1), inserted “or in terminating a hospital's participation under this subchapter” after “in imposing sanctions under paragraph (1)” and inserted at end “Except in the case in which a delay would jeopardize the health or safety of individuals, the Secretary shall also request such a review before making a compliance determination as part of the process of terminating a hospital's participation under this subchapter for violations related to the appropriateness of a medical screening examination, stabilizing treatment, or an appropriate transfer as required by this section, and shall provide a period of 5 days for such review. The Secretary shall provide acopy of the organization's report to the hospital or physician consistent with confidentiality requirements imposed on the organization under such part B.”
 
 Subsec. (d)(4). Pub. L. 108–173, §944(b), added par. (4).
 
@@ -178,7 +176,7 @@ Subsec. (d)(1)(B). Pub. L. 101–508, §4207(a)(2), (3), formerly §4027(a)(2), 
 
 Subsec. (d)(2). Pub. L. 101–508, §4008(b)(3)(A)(ii), redesignated par. (3) as (2). Former par. (2) redesignated (1).
 
-Subsec. (d)(2)(A). Pub. L. 101–508, §4008(b)(1), (2), substituted “negligently” for “knowingly” and inserted“(or not more than $25,000 in the case of a hospital with less than 100 beds)” after “$50,000”.
+Subsec. (d)(2)(A). Pub. L. 101–508, §4008(b)(1), (2), substituted “negligently” for “knowingly” and inserted “(or not more than $25,000 in the case of a hospital with less than 100 beds)” after “$50,000”.
 
 Subsec. (d)(3). Pub. L. 101–508, §4207(a)(1)(A), formerly §4027(a)(1)(A), as renumbered and amended by Pub. L. 103–432, §160(d)(4), (5)(A), added par. (3). Former par. (3) redesignated (2).
 
@@ -220,7 +218,7 @@ Subsec. (c)(2)(D). Pub. L. 101–239, §6211(c)(5)(A), redesignated subpar. (C) 
 
 Subsec. (c)(2)(E). Pub. L. 101–239, §6211(c)(5)(A), (g)(1)(B), redesignated subpar. (D) as (E) and substituted “individuals” for “patients”.
 
-Subsec. (d)(2)(B). Pub. L. 101–239, §6211(e)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “The responsible physician in a participating hospital with respect to the hospital's violation of a requirement of this subsection is subject to the sanctions described in section 1395u(j)(2) of this title, except that, for purposes of this subparagraph, the civil money penalty with respect to each violation may not exceed $50,000, rather than $2,000.”
+Subsec. (d)(2)(B). Pub. L. 101–239, §6211(e)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “The responsible physician in a participating hospital with respect to the hospital's violation of a requirement of this subsection is subject to the sanctions described in section 1395u(j)(2) of this title, except that, for purposes of this subparagraph, the civilmoney penalty with respect to each violation may not exceed $50,000, rather than $2,000.”
 
 Subsec. (d)(2)(C). Pub. L. 101–239, §6211(e)(2), added subpar. (C) and struck out former subpar. (C) which read as follows: “As used in this paragraph, the term ‘responsible physician’ means, with respect to a hospital's violation of a requirement of this section, a physician who—
 
@@ -268,6 +266,10 @@ Subsec. (d)(2). Pub. L. 100–203, §4009(a)(1), as amended by Pub. L. 100–360
 
 Subsec. (e)(3). Pub. L. 99–514 struck out “and has, under the agreement, obligated itself to comply with the requirements of this section” after “section 1395cc of this title”.
 
+#### Effective Date of 2011 Amendment
+
+Amendment by Pub. L. 112–40 applicable to contracts entered into or renewed on or after Jan. 1, 2012, see section 261(e) of Pub. L. 112–40, set out as a note under section 1320c of this title.
+
 #### Effective Date of 2003 Amendment
 
 Pub. L. 108–173, title IX, §944(c)(2), Dec. 8, 2003, 117 Stat. 2423, provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply to terminations of participation initiated on or after the date of the enactment of this Act \[Dec. 8, 2003\].”
@@ -296,7 +298,7 @@ Except as specifically provided in section 411 of Pub. L. 100–360, amendment b
 
 #### Effective Date of 1987 Amendment
 
-Section 4009(a)(2), formerly §4009(a)(3), of Pub. L. 100–203, as redesignated by Pub. L. 100–360, title IV, §411(b)(8)(A)(ii), July 1, 1988, 102 Stat. 772, provided that: “The amendments made by this subsection \[amending this section\] shall apply to actions occurring on or after the date of the enactment of this Act \[Dec. 22, 1987\].”
+Section 4009(a)(2), formerly §4009(a)(3), of Pub. L. 100–203, as redesignated by Pub. L. 100–360, title IV, §411(b)(8)(A)(ii), July 1, 1988, 102 Stat. 772, provided that: “The amendments made by this subsection\[amending this section\] shall apply to actions occurring on or after the date of the enactment of this Act \[Dec. 22, 1987\].”
 
 #### Effective Date of 1986 Amendment
 
@@ -324,7 +326,7 @@ Membership.—The Advisory Group shall be composed of 19 members, including the 
 
 &emsp;“(1) 4 shall be representatives of hospitals, including at least one public hospital, that have experience with the application of EMTALA and at least 2 of which have not been cited for EMTALA violations;
 
-&emsp;“(2) 7 shall be practicing physicians drawn from the fields of emergency medicine, cardiology orcardiothoracic surgery, orthopedic surgery, neurosurgery, pediatrics or a pediatric subspecialty, obstetrics-gynecology, and psychiatry, with not more than one physician from any particular field;
+&emsp;“(2) 7 shall be practicing physicians drawn from the fields of emergency medicine, cardiology or cardiothoracic surgery, orthopedic surgery, neurosurgery, pediatrics or a pediatric subspecialty, obstetrics-gynecology, and psychiatry, with not more than one physician from any particular field;
 
 &emsp;“(3) 2 shall represent patients;
 
@@ -466,7 +468,7 @@ Methodology.—In establishing a methodology under paragraph (2)(A)(ii), the Sec
 
 &emsp;“(4)
 
-Limitation on use of funds.—Payments made to eligible providers in a State from allotments madeunder subsection (b) for a fiscal year may only be used for costs incurred in providing eligible services to aliens described in paragraph (5).
+Limitation on use of funds.—Payments made to eligible providers in a State from allotments made under subsection (b) for a fiscal year may only be used for costs incurred in providing eligible services to aliens described in paragraph (5).
 
 &emsp;“(5)
 

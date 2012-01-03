@@ -15,14 +15,16 @@
 | [2610\.](%C2%A7%2002610%20-%20Competitions%20for%20excellence%20acceptance%20of%20monetary%20awards.md) | Competitions for excellence: acceptance of monetary awards. |
 | [2611\.](%C2%A7%2002611%20-%20Regional%20centers%20for%20security%20studies%20acceptance%20of%20gifts%20and%20donations.md) | Regional centers for security studies: acceptance of gifts and donations. |
 | [2612\.](%C2%A7%2002612%20-%20National%20Defense%20University%20acceptance%20of%20gifts.md) | National Defense University: acceptance of gifts. |
-| [2613\.](%C2%A7%2002613%20-%20Acceptance%20of%20frequent%20traveler%20miles%2C%20credits%2C%20and%20tickets%3B%20use%20to%20facilitate%20rest%20and%20recuperation%20travel%20of%20deployed%20members%20and%20their%E2%80%A6.md) | Acceptance of frequent traveler miles, credits, and tickets; use to facilitate rest and recuperation travel of deployed members and their families. |
+| [2613](%C2%A7%2002613%20-%20Acceptance%20of%20frequent%20traveler%20miles%2C%20credits%2C%20points%2C%20and%20tickets%20use%20to%20facilitate%20rest%20and%20recuperation%20travel%20of%20deployed%20members%20and%E2%80%A6.md) | . Acceptance of frequent traveler miles, credits, points, and tickets: use to facilitate rest and recuperation travel of deployed members and their families. |
 | [2614\.](%C2%A7%2002614%20-%20Emergency%20communications%20equipment%20acceptance%20from%20local%20public%20safety%20agencies%20for%20temporary%20use%20related%20to%20disasters.md) | Emergency communications equipment: acceptance from local public safety agencies for temporary use related to disasters. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 111–383, div. A, title V, §591(b), Jan. 7, 2011, 124 Stat. 4232, added item 2601a.
+<b>2011</b>—Pub. L. 112–81, div. A, title V, §576(d)(2), Dec. 31, 2011, 125 Stat. 1429, substituted “Acceptance of frequent traveler miles, credits, points, and tickets: use to facilitate rest and recuperation travel of deployed members and their families” for “Acceptance of frequent traveler miles, credits, and tickets; use to facilitate rest and recuperation travel of deployed members and their families” in item 2613.
+
+Pub. L. 111–383, div. A, title V, §591(b), Jan. 7, 2011, 124 Stat. 4232, added item 2601a.
 
 <b>2006</b>—Pub. L. 109–364, div. A, title X, §1071(a)(19)(B), Oct. 17, 2006, 120 Stat. 2399, renumbered item 2613 “Emergency communications equipment: acceptance from local public safety agencies for temporary use related to disasters” as 2614.
 
@@ -104,5 +106,5 @@ Retroactive Applicability of Regulations.—Regulations under subsection (a) sha
 - [&sect; 02610 - Competitions for excellence acceptance of monetary awards](%C2%A7%2002610%20-%20Competitions%20for%20excellence%20acceptance%20of%20monetary%20awards.md)
 - [&sect; 02611 - Regional centers for security studies acceptance of gifts and donations](%C2%A7%2002611%20-%20Regional%20centers%20for%20security%20studies%20acceptance%20of%20gifts%20and%20donations.md)
 - [&sect; 02612 - National Defense University acceptance of gifts](%C2%A7%2002612%20-%20National%20Defense%20University%20acceptance%20of%20gifts.md)
-- [&sect; 02613 - Acceptance of frequent traveler miles, credits, and tickets; use to facilitate rest and recuperation travel of deployed members and their&#8230;](%C2%A7%2002613%20-%20Acceptance%20of%20frequent%20traveler%20miles%2C%20credits%2C%20and%20tickets%3B%20use%20to%20facilitate%20rest%20and%20recuperation%20travel%20of%20deployed%20members%20and%20their%E2%80%A6.md)
+- [&sect; 02613 - Acceptance of frequent traveler miles, credits, points, and tickets use to facilitate rest and recuperation travel of deployed members and&#8230;](%C2%A7%2002613%20-%20Acceptance%20of%20frequent%20traveler%20miles%2C%20credits%2C%20points%2C%20and%20tickets%20use%20to%20facilitate%20rest%20and%20recuperation%20travel%20of%20deployed%20members%20and%E2%80%A6.md)
 - [&sect; 02614 - Emergency communications equipment acceptance from local public safety agencies for temporary use related to disasters](%C2%A7%2002614%20-%20Emergency%20communications%20equipment%20acceptance%20from%20local%20public%20safety%20agencies%20for%20temporary%20use%20related%20to%20disasters.md)

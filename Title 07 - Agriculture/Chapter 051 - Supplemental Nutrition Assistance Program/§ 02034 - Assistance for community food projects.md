@@ -206,7 +206,7 @@ In selecting community food projects to receive assistance under subsection (b) 
 
 #### (1) In general
 
-&emsp;The Secretary shall offer to enter into a contract with, or make a grant to, 1 nongovernmental organization that meets the requirements of paragraph (2) to coordinate with Federal agencies, States, political subdivisions, and nongovernmental organizations (collectively referred to in this subsection as “targeted entities”) to gather information, andrecommend to the targeted entities, innovative programs for addressing common community problems, including—
+&emsp;The Secretary shall offer to enter into a contract with, or make a grant to, 1 nongovernmental organization that meets the requirements of paragraph (2) to coordinate with Federal agencies, States, political subdivisions, and nongovernmental organizations (collectively referred to in this subsection as “targeted entities”) to gather information, and recommend to the targeted entities, innovative programs for addressing common community problems, including—
 
 &emsp;&emsp;(A) loss of farms and ranches;
 
@@ -272,7 +272,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–246, §4402(1), added subsec. (a) and struck out former subsec. (a) which defined “community food project”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–246, §4402(1), added subsec. (a) and struck out former subsec. (a) which defined “community food project”.
 
 Subsec. (b)(2)(B). Pub. L. 110–246, §4406(a)(7)(A), as amended by Pub. L. 110–380, substituted “for fiscal year 2008 and each fiscal year thereafter” for “for each of fiscal years 1997 through 2007”. See Codification note above.
 
@@ -280,7 +280,7 @@ Subsecs. (h), (i). Pub. L. 110–246, §4402(2), (3), added subsec. (h) and rede
 
 Subsec. (i)(4). Pub. L. 110–246, §4406(a)(7)(B), as amended by Pub. L. 110–380, substituted “each fiscal year thereafter” for “each of fiscal years 2003 through 2007”. See Codification note above.
 
-2002—Subsec. (a). Pub. L. 107–171, §4125(a)(1), designated pars. (1) to (3) as subpars. (A) to (C) of par. (1), respectively, and added par. (2).
+<b>2002</b>—Subsec. (a). Pub. L. 107–171, §4125(a)(1), designated pars. (1) to (3) as subpars. (A) to (C) of par. (1), respectively, and added par. (2).
 
 Subsec. (b)(2)(B). Pub. L. 107–171, §4125(a)(2), substituted “$5,000,000” for “$2,500,000” and “2007” for “2002”.
 
@@ -304,5 +304,5 @@ Amendment by sections 4402 and 4406(a)(7) of Pub. L. 110–246 effective Oct. 1,
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–171, title IV, §4125(b), May 13, 2002, 116 Stat. 327, provided that: “The amendments made bythis section \[amending this section\] take effect on the date of enactment of this Act \[May 13, 2002\].”
+Pub. L. 107–171, title IV, §4125(b), May 13, 2002, 116 Stat. 327, provided that: “The amendments made by this section \[amending this section\] take effect on the date of enactment of this Act \[May 13, 2002\].”
 

@@ -14,7 +14,7 @@ Conduct of Review.—Each quadrennial defense review shall be conducted so as—
 
 &emsp;(3) to identify (A) the budget plan that would be required to provide sufficient resources to execute successfully the full range of missions called for in that national defense strategy at a low-to-moderate level of risk, and (B) any additional resources (beyond those programmed in the current future-years defense program) required to achieve such a level of risk; and
 
-&emsp;(4) to make recommendations that are not constrained to comply with the budget submitted to Congress by the President pursuant to section 1105 of title 31.
+&emsp;(4) to make recommendations that are not constrained to comply with and are fully independent of the budget submitted to Congress by the President pursuant to section 1105 of title 31.
 
 (c)
 
@@ -38,17 +38,19 @@ Submission of QDR to Congressional Committees.—The Secretary shall submit a re
 
 &emsp;&emsp;(C) warning times;
 
-&emsp;&emsp;(D) levels of engagement in operations other than war and smaller-scale contingencies and withdrawal from such operations and contingencies; and
+&emsp;&emsp;(D) levels of engagement in operations other than war and smaller-scale contingencies and withdrawal from such operations and contingencies;
 
-&emsp;&emsp;(E) the intensity, duration, and military and political end-states of conflicts and smaller-scale contingencies.
+&emsp;&emsp;(E) the intensity, duration, and military and political end-states of conflicts and smaller-scale contingencies; and
+
+&emsp;&emsp;(F) the roles and responsibilities that would be discharged by contractors.
 
 &emsp;(5) The effect on the force structure and on readiness for high-intensity combat of preparations for and participation in operations other than war and smaller-scale contingencies.
 
-&emsp;(6) The manpower and sustainment policies required under the national defense strategy to support engagement in conflicts lasting longer than 120 days.
+&emsp;(6) The manpower, sustainment, and contractor support policies required under the national defense strategy to support engagement in conflicts lasting longer than 120 days.
 
 &emsp;(7) The anticipated roles and missions of the reserve components in the national defense strategy and the strength, capabilities, and equipment necessary to assure that the reserve components can capably discharge those roles and missions.
 
-&emsp;(8) The appropriate ratio of combat forces to support forces (commonly referred to as the“tooth-to-tail” ratio) under the national defense strategy, including, in particular, the appropriate number and size of headquarters units and Defense Agencies for that purpose.
+&emsp;(8) The appropriate ratio of combat forces to support forces (commonly referred to as the “tooth-to-tail” ratio) under the national defense strategy, including, in particular, the appropriate number and size of headquarters units and Defense Agencies, and the scope of contractor support, for that purpose.
 
 &emsp;(9) The specific capabilities, including the general number and type of specific military platforms, needed to achieve the strategic and warfighting objectives identified in the review.
 
@@ -184,7 +186,7 @@ Interagency Overseas Basing Report.—(1) Not later than 90 days after submittin
 
 (2) A report under paragraph (1) shall include any recommendations for additional closures or realignments of military installations outside of the United States and any comments resulting from an interagency review of these plans that includes the Department of State and other relevant Federal departments and agencies.
 
-(Added Pub. L. 106–65, div. A, title IX, §901(a)(1), Oct. 5, 1999, 113 Stat. 715; amended Pub. L. 107–107, div. A, title IX, §921(a), Dec. 28, 2001, 115 Stat. 1198; Pub. L. 107–314, div. A, title IX, §§922, 923, Dec. 2, 2002, 116 Stat. 2623; Pub. L. 109–364, div. A, title X, §1031(c)–(f), Oct. 17, 2006, 120 Stat. 2385, 2386; Pub. L. 110–181, div. A, title IX, §§941(b), 951(a), Jan. 28, 2008, 122 Stat. 287, 290; Pub. L. 111–84, div. A, title X, §§1002, 1073(a)(2), div. B, title XXVIII, §2822(b), Oct. 28, 2009, 123 Stat. 2439, 2472, 2666; Pub. L. 111–383, div. A, title X, §1071, Jan. 7, 2011, 124 Stat. 4364.)
+(Added Pub. L. 106–65, div. A, title IX, §901(a)(1), Oct. 5, 1999, 113 Stat. 715; amended Pub. L. 107–107, div. A, title IX, §921(a), Dec. 28, 2001, 115 Stat. 1198; Pub. L. 107–314, div. A, title IX, §§922, 923, Dec. 2, 2002, 116 Stat. 2623; Pub. L. 109–364, div. A, title X, §1031(c)–(f), Oct. 17, 2006, 120 Stat. 2385, 2386; Pub. L. 110–181, div. A, title IX, §§941(b), 951(a), Jan. 28, 2008, 122 Stat. 287, 290; Pub. L. 111–84, div. A, title X, §§1002, 1073(a)(2), div. B, title XXVIII, §2822(b), Oct. 28, 2009, 123 Stat. 2439, 2472, 2666; Pub. L. 111–383, div. A, title X, §1071, Jan. 7, 2011, 124 Stat. 4364; Pub. L. 112–81, div. A, title VIII, §820(a), title IX, §942, Dec. 31, 2011, 125 Stat. 1501, 1548.)
 
 #### Prior Provisions
 
@@ -192,11 +194,19 @@ A prior section 118, added Pub. L. 97–295, §1(2)(A), Oct. 12, 1982, 96 Stat. 
 
 #### Amendments
 
-<b>2011</b>—Subsec. (f). Pub. L. 111–383 amended subsec. (f) generally. Prior to amendment, text read as follows:
+<b>2011</b>—Subsec. (b)(4). Pub. L. 112–81, §942, amended par. (4) generally. Prior to amendment, par. (4) read as follows: “to make recommendations that are not constrained to comply with the budget submitted to Congress by the President pursuant to section 1105 of title 31.”
+
+Subsec. (d)(4)(F). Pub. L. 112–81, §820(a)(1), added subpar. (F).
+
+Subsec. (d)(6). Pub. L. 112–81, §820(a)(2), substituted “manpower, sustainment, and contractor support” for “manpower and sustainment”.
+
+Subsec. (d)(8). Pub. L. 112–81, §820(a)(3), inserted “, and the scope of contractor support,” after “Defense Agencies”.
+
+Subsec. (f). Pub. L. 111–383 amended subsec. (f) generally. Prior to amendment, text read as follows:
 
 “(1) Not later than six months before the date on which the report on a Quadrennial Defense Review is to be submitted under subsection (d), the Secretary of Defense shall establish a panel to conduct an assessment of the quadrennial defense review.
 
-“(2) Not later than three months after the date on which the report on a quadrennial defense review is submitted under subsection (d) to the congressionalcommittees named in that subsection, the panel appointed under paragraph (1) shall submit to those committees an assessment of the review, including the recommendations of the review, the stated and implied assumptions incorporated in the review, and the vulnerabilities of the strategy and force structure underlying the review. The assessment of the panel shall include analyses of the trends, asymmetries, and concepts of operations that characterize the military balance with potential adversaries, focusing on the strategic approaches of possible opposing forces.”
+“(2) Not later than three months after the date on which the report on a quadrennial defense review is submitted under subsection (d) to the congressional committees named in that subsection, the panel appointed under paragraph (1) shall submit to those committees an assessment of the review, including the recommendations of the review, the stated and implied assumptions incorporated in the review, and the vulnerabilities of the strategy and force structure underlying the review. The assessment of the panel shall include analyses of the trends, asymmetries, and concepts of operations that characterize the military balance with potential adversaries, focusing on the strategic approaches of possible opposing forces.”
 
 <b>2009</b>—Subsec. (g)(1), (2). Pub. L. 111–84, §1073(a)(2), substituted “January 28, 2008,” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008”.
 
@@ -246,7 +256,7 @@ Pub. L. 109–364, div. A, title X, §1031(a), (b), Oct. 17, 2006, 120 Stat. 238
 
 “(a)
 
-Findings.—Congress finds that the comprehensive examination of the defense program and policies of the United States that is undertaken by the Security \[Secretary of\] Defense every four years pursuant to section 118 of title 10, United States Code, known as the Quadrennial Defense Review, is—
+Findings.—Congress finds that the comprehensive examination of the defense program and policies ofthe United States that is undertaken by the Security \[Secretary of\] Defense every four years pursuant to section 118 of title 10, United States Code, known as the Quadrennial Defense Review, is—
 
 &emsp;“(1) vital in laying out the strategic military planning and threat objectives of the Department of Defense; and
 

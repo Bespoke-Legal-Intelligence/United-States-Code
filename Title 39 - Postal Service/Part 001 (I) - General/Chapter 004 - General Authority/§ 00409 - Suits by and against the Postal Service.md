@@ -102,7 +102,7 @@ The Act of July 5, 1946, referred to in subsec. (d)(2)(A), is act July 5, 1946, 
 
 Section 5 of the Federal Trade Commission Act, referred to in subsecs. (d)(2)(B) and (e)(1)(B)(ii), is classified to section 45 of Title 15, Commerce and Trade.
 
-The first section of the Clayton Act, referred to in subsec. (e)(1)(B), is classified to section 12 of Title 15, Commerce and Trade.
+The first section of the Clayton Act, referred to in subsec. (e)(1)(B), is classified to section 12 of Title 15, Commerce and Trade, and section 53 of Title 29, Labor.
 
 The date of enactment of this subsection, referred to in subsec. (e)(3), is the date of enactment of Pub. L. 109–435, which was approved Dec. 20, 2006.
 

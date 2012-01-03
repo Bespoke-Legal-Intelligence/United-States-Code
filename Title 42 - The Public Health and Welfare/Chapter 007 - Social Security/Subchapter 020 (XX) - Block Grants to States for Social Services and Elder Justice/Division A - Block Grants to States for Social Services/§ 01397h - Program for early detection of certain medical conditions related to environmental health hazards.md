@@ -18,7 +18,7 @@ The Secretary shall establish a program in accordance with this section to make 
 
 #### (1) In general
 
-&emsp;For purposes of this section, an eligible entity is an entity described in paragraph (2) which submits an application to the Secretary in such form and manner, and containing such information and assurances, as the Secretary determines appropriate.
+&emsp;For purposes of this section, an eligible entity is an entity described in paragraph (2)which submits an application to the Secretary in such form and manner, and containing such information and assurances, as the Secretary determines appropriate.
 
 #### (2) Types of eligible entities
 

@@ -24,7 +24,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1990—Pub. L. 101–509 struck out “(a)” before “The Executive Schedule, which” and struck out subsec. (b) which read as follows:
+<b>1990</b>—Pub. L. 101–509 struck out “(a)” before “The Executive Schedule, which” and struck out subsec. (b) which read as follows:
 
 “(1) Not later than 180 days after the date of the enactment of the Civil Service Reform Act of 1978, the Director of the Office of Personnel Management shall determine the number and classification of executive level positions in existence in the executive branch on that date of enactment, and shall publish the determination in the Federal Register. Effective beginning on the date of the publication, the number of executive level positions within the executive branch may not exceed the number published under this subsection.
 
@@ -36,13 +36,13 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 > but does not include any Senior Executive Service position (as defined in section 3132(a) of this title) or any position in the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service.”
 
-1988—Subsec. (a). Pub. L. 100–325, §2(h)(1), inserted reference to positions in Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service.
+<b>1988</b>—Subsec. (a). Pub. L. 100–325, §2(h)(1), inserted reference to positions in Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service.
 
 Subsec. (b)(2). Pub. L. 100–325, §2(h)(2), substituted “(as defined in section 3132(a) of this title) or any position in the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service” for “, as defined in section 3132(a) of this title” in concluding provision.
 
-1979—Subsec. (b)(1). Pub. L. 96–54 inserted “of the Office of Personnel Management” after “Director”.
+<b>1979</b>—Subsec. (b)(1). Pub. L. 96–54 inserted “of the Office of Personnel Management” after “Director”.
 
-1978—Pub. L. 95–454, §408(b)(1), inserted reference to Senior Executive Service positions.
+<b>1978</b>—Pub. L. 95–454, §408(b)(1), inserted reference to Senior Executive Service positions.
 
 Pub. L. 95–454, §414(b)(1), designated existing provisions as subsec. (a) and added subsec. (b).
 
@@ -56,7 +56,7 @@ Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–454 effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section415 of Pub. L. 95–454, set out as an Effective Date note under section 3131 of this title.
+Amendment by Pub. L. 95–454 effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415 of Pub. L. 95–454, set out as an Effective Date note under section 3131 of this title.
 
 #### Plan for Authorizing Executive Level Positions in Executive Branch; Presidential Submission to Congress
 

@@ -54,7 +54,11 @@ Another prior section 806 of Pub. L. 88–452, title VIII, as added Pub. L. 89�
 
 Subsec. (a)(2). Pub. L. 102–375, §822(21), which directed the substitution of “Alaska Native” for “Alaskan Native”, could not be executed because the words “Alaskan Native” did not appear.
 
-<b>1987</b>—Subsec. (a)(2). Pub. L. 100–175, §504(b)(2), which directed that par. (2) be amended by inserting “other Native American Pacific Islanders (including AmericanSamoan Natives),” after “Hawaiian Natives,” was executed by making the insertion after “Native Hawaiians,” to reflect the probable intent of Congress.
+<b>1987</b>—Subsec. (a)(2). Pub. L. 100–175, §504(b)(2), which directed that par. (2) be amended by inserting “other Native American Pacific Islanders (including American Samoan Natives),” after “Hawaiian Natives,” was executed by making the insertion after “Native Hawaiians,” to reflect the probable intent of Congress.
+
+#### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Effective Date
 

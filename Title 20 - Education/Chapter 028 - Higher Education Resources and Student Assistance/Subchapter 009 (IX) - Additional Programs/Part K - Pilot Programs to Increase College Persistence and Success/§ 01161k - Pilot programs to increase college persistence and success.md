@@ -148,7 +148,7 @@ From the amounts appropriated under subsection (i), the Secretary is authorized 
 
 &emsp;An eligible institution that receives a grant under this subsection may use the grant funds to provide services and program innovations for students participating in the program, including the following:
 
-&emsp;&emsp;(A) College and career success courses provided at no charge to participating students. These courses may cover college success topics, including how to take notes, how to study, how to take tests, and how to budget time, and may also include a substantial career exploration component. Institutions may use such courses to help students develop a college and career success plan, so that by the end of the first semester the students have a clear sense of their career goals and what classes to take to achieve such goals.
+&emsp;&emsp;(A) College and career success courses provided at no charge to participating students. These courses may cover college success topics, including how to take notes, how tostudy, how to take tests, and how to budget time, and may also include a substantial career exploration component. Institutions may use such courses to help students develop a college and career success plan, so that by the end of the first semester the students have a clear sense of their career goals and what classes to take to achieve such goals.
 
 &emsp;&emsp;(B) Work-study jobs with private employers in the students’ fields of study.
 

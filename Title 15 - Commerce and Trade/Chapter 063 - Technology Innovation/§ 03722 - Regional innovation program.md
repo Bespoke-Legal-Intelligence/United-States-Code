@@ -232,7 +232,7 @@ The Secretary shall establish a regional innovation program to encourage and sup
 
 &emsp;As part of the program established under subsection (a), the Secretary shall establish a regional innovation research and information program—
 
-&emsp;&emsp;(A) to gather, analyze, and disseminate information on best practices for regional innovation strategies (including regional innovation clusters), including information relating to how innovation, productivity, and economic development can be maximized through such strategies;
+&emsp;&emsp;(A) to gather, analyze, and disseminate information on best practices for regional innovation strategies (including regional innovation clusters), including information relating to how innovation, productivity, andeconomic development can be maximized through such strategies;
 
 &emsp;&emsp;(B) to provide technical assistance, including through the development of technical assistance guides, for the development and implementation of regional innovation strategies (including regional innovation clusters);
 
@@ -318,7 +318,7 @@ In this section:
 
 &emsp;&emsp;(D) a role in facilitating the transfer of technology and business skills between researchers and industry teams; and
 
-&emsp;&emsp;(E) a role in promoting technology-led economic development for the community or region in which the science park is located. A science park may be owned by a governmental or not-for-profit entity, but it may enter into partnerships or joint ventures with for-profit entities for development ormanagement of specific components of the park.
+&emsp;&emsp;(E) a role in promoting technology-led economic development for the community or region in which the science park is located. A science park may be owned by a governmental or not-for-profit entity, but it may enter into partnerships or joint ventures with for-profit entities for development or management of specific components of the park.
 
 #### (3) State
 
@@ -329,6 +329,10 @@ In this section:
 Except as provided in subsection (d)(8), there are authorized to be appropriated $100,000,000 for each of fiscal years 2011 through 2013 to carry out this section (other than for loan guarantees under subsection (d)).
 
 (Pub. L. 96–480, §27, as added Pub. L. 111–358, title VI, §603, Jan. 4, 2011, 124 Stat. 4030.)
+
+#### Change of Name
+
+Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

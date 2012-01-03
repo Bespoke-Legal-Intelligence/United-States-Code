@@ -70,7 +70,7 @@ For purposes of this section—
 
 #### (C) Regulations to be consistent with allocation of deductions
 
-&emsp;&emsp;The regulations prescribed under subparagraphs (A) and (B) shall be consistent with the allocation of deductions under section 882(c)(1).
+&emsp;&emsp;The regulations prescribed under subparagraphs (A) and (B) shall be consistent withthe allocation of deductions under section 882(c)(1).
 
 #### (d) Effectively connected earnings and profits
 

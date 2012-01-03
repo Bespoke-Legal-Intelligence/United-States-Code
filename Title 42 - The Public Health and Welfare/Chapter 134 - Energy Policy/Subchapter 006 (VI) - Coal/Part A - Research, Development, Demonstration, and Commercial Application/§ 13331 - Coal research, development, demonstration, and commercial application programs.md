@@ -60,7 +60,7 @@ Within 240 days after October 24, 1992, the Secretary shall transmit to the Comm
 
 &emsp;(3) Recommendations regarding the manner in which any ongoing coal-based demonstration and commercial application program might be modified and extended in order to ensure the timely demonstrations of advanced coal-based technologies so as to ensure that the goals established under this section are achieved and that such demonstrated technologies are available for commercial use by the year 2010.
 
-&emsp;(4) Recommendations, if any, regarding the manner in which the cost sharing demonstrations conducted pursuant to the Clean Coal Program established by Public Law 98–473 might be modified and extended in order to ensure the timely demonstration of advanced coal-based technologies.
+&emsp;(4) Recommendations, if any, regarding the manner in which the cost sharing demonstrations conducted pursuant to the Clean CoalProgram established by Public Law 98–473 might be modified and extended in order to ensure the timely demonstration of advanced coal-based technologies.
 
 &emsp;(5) A detailed plan for conducting the research, development, demonstration, and commercial application programs to achieve the goals and objectives of subsection (a) of this section, which plan shall include a description of—
 
@@ -86,7 +86,7 @@ Public Law 98–473, referred to in subsec. (c)(4), is Pub. L. 98–473, Oct. 12
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives and Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001. Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “sections”.</i>
 

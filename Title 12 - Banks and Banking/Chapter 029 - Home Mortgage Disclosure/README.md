@@ -7,7 +7,7 @@
 | [2803\.](%C2%A7%2002803%20-%20Maintenance%20of%20records%20and%20public%20disclosure.md) | Maintenance of records and public disclosure. |
 | [2804\.](%C2%A7%2002804%20-%20Enforcement.md) | Enforcement. |
 | [2805\.](%C2%A7%2002805%20-%20Relation%20to%20State%20laws.md) | Relation to State laws. |
-| [2806\.](%C2%A7%2002806%20-%20Research%20and%20improved%20methods%3B%20authorization%20of%20appropriations%3B%20recommendations%20to%20Congressional%20committees.md) | Research and improved methods; authorization of appropriations; recommendations to Congressional committees. |
+| [2806\.](%C2%A7%2002806%20-%20Compliance%20improvement%20methods.md) | Compliance improvement methods. |
 | [2807\.](%C2%A7%2002807%20-%20Report.md) | Report. |
 | [2808\.](%C2%A7%2002808%20-%20Effective%20date.md) | Effective date. |
 | [2809\.](%C2%A7%2002809%20-%20Compilation%20of%20aggregate%20data.md) | Compilation of aggregate data. |
@@ -26,7 +26,7 @@
 - [&sect; 02803 - Maintenance of records and public disclosure](%C2%A7%2002803%20-%20Maintenance%20of%20records%20and%20public%20disclosure.md)
 - [&sect; 02804 - Enforcement](%C2%A7%2002804%20-%20Enforcement.md)
 - [&sect; 02805 - Relation to State laws](%C2%A7%2002805%20-%20Relation%20to%20State%20laws.md)
-- [&sect; 02806 - Research and improved methods; authorization of appropriations; recommendations to Congressional committees](%C2%A7%2002806%20-%20Research%20and%20improved%20methods%3B%20authorization%20of%20appropriations%3B%20recommendations%20to%20Congressional%20committees.md)
+- [&sect; 02806 - Compliance improvement methods](%C2%A7%2002806%20-%20Compliance%20improvement%20methods.md)
 - [&sect; 02807 - Report](%C2%A7%2002807%20-%20Report.md)
 - [&sect; 02808 - Effective date](%C2%A7%2002808%20-%20Effective%20date.md)
 - [&sect; 02809 - Compilation of aggregate data](%C2%A7%2002809%20-%20Compilation%20of%20aggregate%20data.md)

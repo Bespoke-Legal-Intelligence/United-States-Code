@@ -100,7 +100,7 @@
 
 &emsp;&emsp;(B) an individual or organization outside the service of the Government of the United States;
 
-&emsp;(16) student nurses, medical or dental interns, residents-in-training, student dietitians, student physical therapists, student occupational therapists, and other student employees, assigned or attached to a hospital, clinic, or laboratory primarily for training purposes, whose pay is fixed under subchapterV of chapter 53 of this title or sections 7405 and 7406 of title 38;
+&emsp;(16) student nurses, medical or dental interns, residents-in-training, student dietitians, student physical therapists, student occupational therapists, and other student employees, assigned or attached to a hospital, clinic, or laboratory primarily for training purposes, whose pay is fixed under subchapter V of chapter 53 of this title or sections 7405 and 7406 of title 38;
 
 &emsp;(17) inmates, patients, or beneficiaries receiving care or treatment or living in Government agencies or institutions;
 
@@ -110,7 +110,7 @@
 
 &emsp;(20) employees employed on a fee, contract, or piece work basis;
 
-&emsp;(21) employees who may lawfully perform their duties concurrently with their private profession, business, or other employment, and whose duties require only a portion of their time, when it is impracticable to ascertain or anticipate the proportion of time devoted to the service of the Government of the United States;
+&emsp;(21) employees who may lawfully perform their duties concurrently with their privateprofession, business, or other employment, and whose duties require only a portion of their time, when it is impracticable to ascertain or anticipate the proportion of time devoted to the service of the Government of the United States;
 
 &emsp;(22) “teachers” and “teaching positions” as defined by section 901 of title 20;
 
@@ -286,23 +286,23 @@ Level V of the Executive Schedule, referred to in subsec. (c)(25), is set out in
 
 #### Amendments
 
-2011—Subsec. (c)(30). Pub. L. 111–350 substituted “section 7105(a)(2), (c)(2), or (d)(2) of title 41” for “section 8 of the Contract Disputes Act of 1978”.
+<b>2011</b>—Subsec. (c)(30). Pub. L. 111–350 substituted “section 7105(a)(2), (c)(2), or (d)(2) of title 41” for “section 8 of the Contract Disputes Act of 1978”.
 
-2010—Subsec. (c)(5). Pub. L. 111–282 substituted “the United States Secret Service Uniformed Division” for “the Executive Protective Service”.
+<b>2010</b>—Subsec. (c)(5). Pub. L. 111–282 substituted “the United States Secret Service Uniformed Division” for “the Executive Protective Service”.
 
-2008—Subsec. (a)(1)(x). Pub. L. 110–417 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
+<b>2008</b>—Subsec. (a)(1)(x). Pub. L. 110–417 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
-2006—Subsec. (e). Pub. L. 109–356 added subsec. (e).
+<b>2006</b>—Subsec. (e). Pub. L. 109–356 added subsec. (e).
 
-2004—Subsec. (a)(1)(vii). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (a)(1)(vii). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
 Subsec. (b). Pub. L. 108–375, §557(b)(5)(B), which directed amendment of subsec. (b) by substituting “Provost and Academic Dean” for “Academic Dean”, could not be executed because the words “Academic Dean” did not appear.
 
 Subsec. (c)(10). Pub. L. 108–375, §557(b)(5)(A), substituted “Provost and Academic Dean of the Naval Postgraduate School” for “Academic Dean of the Postgraduate School of the Naval Academy”.
 
-1999—Subsec. (c)(23). Pub. L. 106–113 amended par. (23) generally. Prior to amendment, par. (23) read as follows: “examiners-in-chief and designated examiners-in-chief in the Patent and Trademark Office, Department of Commerce;”.
+<b>1999</b>—Subsec. (c)(23). Pub. L. 106–113 amended par. (23) generally. Prior to amendment, par. (23) read as follows: “examiners-in-chief and designated examiners-in-chief in the Patent and Trademark Office, Department of Commerce;”.
 
-1996—Subsec. (a)(1)(vi), (vii). Pub. L. 104–201, §3548(a)(2)(A), redesignated cls. (vii) and (viii) as (vi) and (vii), respectively, and struck out former cl. (vi) which read as follows: “the Panama Canal Commission;”.
+<b>1996</b>—Subsec. (a)(1)(vi), (vii). Pub. L. 104–201, §3548(a)(2)(A), redesignated cls. (vii) and (viii) as (vi) and (vii), respectively, and struck out former cl. (vi) which read as follows: “the Panama Canal Commission;”.
 
 Subsec. (a)(1)(viii). Pub. L. 104–201, §3548(a)(2)(A)(ii), which directed redesignation of cl. (ix) as (viii) could not be executed because subsec. (a)(1) did not contain a cl. (ix). See 1983 Amendment note below. Former cl. (viii) redesignated (vii).
 
@@ -314,15 +314,15 @@ Pub. L. 104–201, §1122(a)(1), substituted “National Imagery and Mapping Age
 
 Subsec. (c)(12). Pub. L. 104–201, §3548(a)(2)(B), struck out par. (12) which read as follows: “any Executive agency to the extent of any election under section 1212(b)(2) (relating to the Panama Canal Employment System) of the Panama Canal Act of 1979;”.
 
-1994—Subsec. (a)(1)(ix) to (xi). Pub. L. 103–359 directed the amendment of cl. (ix) by striking “or” at end which could not be executed because par. (1) does not contain a cl. (ix), directed the substitution of “; or” for period at end of cl. (x) which was executed by inserting “or” at end of cl. (x) to reflect the probable intent of Congress because a semicolon already exists at end of cl. (x), and added cl. (xi).
+<b>1994</b>—Subsec. (a)(1)(ix) to (xi). Pub. L. 103–359 directed the amendment of cl. (ix) by striking “or” at end whichcould not be executed because par. (1) does not contain a cl. (ix), directed the substitution of “; or” for period at end of cl. (x) which was executed by inserting “or” at end of cl. (x) to reflect the probable intent of Congress because a semicolon already exists at end of cl. (x), and added cl. (xi).
 
 Subsec. (c)(3). Pub. L. 103–446 struck out comma after “Department of Veterans Affairs”.
 
-1993—Subsec. (c)(10). Pub. L. 103–160, §923(b), inserted “(and, in the case of the George C. Marshall European Center for Security Studies, the Director and the Deputy Director)” after “professional military education school”.
+<b>1993</b>—Subsec. (c)(10). Pub. L. 103–160, §923(b), inserted “(and, in the case of the George C. Marshall European Center for Security Studies, the Director and the Deputy Director)” after “professional military education school”.
 
 Pub. L. 103–160, §533(c), substituted “at the Military Academy, the Naval Academy, and the Air Force Academy whose pay is fixed under sections 4338, 6952, and 9338, respectively, of title 10” for “at the Naval Academy whose pay is fixed under section 6952 of title 10”.
 
-1991—Subsec. (c)(3). Pub. L. 102–54, §13(b)(2), substituted “Veterans Health Administration of the Department of Veterans Affairs” for “Department of Medicine and Surgery, Veterans’ Administration”.
+<b>1991</b>—Subsec. (c)(3). Pub. L. 102–54, §13(b)(2), substituted “Veterans Health Administration of the Department of Veterans Affairs” for “Department of Medicine and Surgery, Veterans’ Administration”.
 
 Subsec. (c)(14). Pub. L. 102–54, §13(b)(1), substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
@@ -330,7 +330,7 @@ Pub. L. 102–40, §403(c)(1)(A), substituted “section 7802 of title 38” for
 
 Subsec. (c)(16). Pub. L. 102–40, §403(c)(1)(B), substituted “sections 7405 and 7406” for “section 4114”.
 
-1990—Subsec. (a)(1). Pub. L. 101–474 redesignated subpars. (C) to (G) as (B) to (F), respectively, and struck out former subpar. (B) which included Administrative Office of United States Courts within definition of “agency”.
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–474 redesignated subpars. (C) to (G) as (B) to (F), respectively, and struck out former subpar. (B) which included Administrative Office of United States Courts within definition of “agency”.
 
 Subsec. (c)(5). Pub. L. 101–509, §529 \[title I, §109(a)(2)\], substituted “members” for “and members” after “Protective Service;” and inserted at end “and members of the police forces of the Bureau of Engraving and Printing and the United States Mint whose pay is fixed under section 5378 of this title;”.
 
@@ -340,45 +340,45 @@ Subsec. (c)(25). Pub. L. 101–509, §529 \[title I, §101(b)(9)(F)\], substitut
 
 Subsec. (c)(29), (30). Pub. L. 101–509, §529 \[title I, §104(d)(1)\], added pars. (29) and (30).
 
-1989—Subsec. (c)(10). Pub. L. 101–189 inserted “civilian professors, instructors, and lecturers at a professional military education school whose pay is fixed under section 1595, 4021, 7478, or 9021 of title 10;”, struck out “the Naval War College and” after “instructors at”, and substituted “section 6952” for “sections 6952 and 7478”.
+<b>1989</b>—Subsec. (c)(10). Pub. L. 101–189 inserted “civilian professors, instructors, and lecturers at a professional military education school whose pay is fixed under section 1595, 4021, 7478, or 9021 of title 10;”, struck out “the Naval War College and” after “instructors at”, and substituted “section 6952” for “sections 6952 and 7478”.
 
-1987—Subsec. (c)(27). Pub. L. 100–135 substituted “police” for “special police force”.
+<b>1987</b>—Subsec. (c)(27). Pub. L. 100–135 substituted “police” for “special police force”.
 
-1986—Subsec. (c)(14). Pub. L. 99–335 inserted “(other than employees of the Federal Retirement Thrift Investment System appointed under section 8474(c)(2) of this title)”.
+<b>1986</b>—Subsec. (c)(14). Pub. L. 99–335 inserted “(other than employees of the Federal Retirement Thrift Investment System appointed under section 8474(c)(2) of this title)”.
 
-1985—Subsec. (c)(28). Pub. L. 99–145 added par. (28).
+<b>1985</b>—Subsec. (c)(28). Pub. L. 99–145 added par. (28).
 
-1984—Subsec. (a)(1)(viii) to (x). Pub. L. 98–618 struck out “or” at end of cl. (viii), inserted “or” at end of cl. (ix), and added cl. (x).
+<b>1984</b>—Subsec. (a)(1)(viii) to (x). Pub. L. 98–618 struck out “or” at end of cl. (viii), inserted “or” at end of cl. (ix), and added cl. (x).
 
-1983—Subsec. (a)(1)(iii) to (ix). Pub. L. 97–468, eff. Jan. 5, 1985, struck out cl. (iii) which excluded the Alaska Railroad and redesignated cls. (iv) to (ix) as (iii) to (viii), respectively. See Effective Date of 1983 Amendment note below.
+<b>1983</b>—Subsec. (a)(1)(iii) to (ix). Pub. L. 97–468, eff. Jan. 5, 1985, struck out cl. (iii) which excluded the Alaska Railroad and redesignated cls. (iv) to (ix) as (iii) to (viii), respectively. See Effective Date of 1983 Amendment note below.
 
-1980—Subsec. (a)(1)(ix). Pub. L. 96–191 added cl. (ix).
+<b>1980</b>—Subsec. (a)(1)(ix). Pub. L. 96–191 added cl. (ix).
 
 Subsec. (c)(2). Pub. L. 96–465 substituted “members of the Foreign Service whose pay is fixed under the Foreign Service Act of 1980” for “employees in the Foreign Service of the United States whose pay is fixed under chapter 14 of title 22”.
 
-1979—Subsec. (a)(1)(vii). Pub. L. 96–70, §3302(e)(1), substituted “Commission” for “Company”.
+<b>1979</b>—Subsec. (a)(1)(vii). Pub. L. 96–70, §3302(e)(1), substituted “Commission” for “Company”.
 
 Subsec. (c)(12). Pub. L. 96–70, §3302(e)(6), substituted provisions relating to any Executive agency to the extent of any election under section 1212(b)(2) of the Panama Canal Act of 1979 for provisions relating to employees of an agency who are stationed in the Canal Zone or in the Republic of Panama.
 
 Subsec. (c)(23). Pub. L. 96–54 inserted “and Trademark” after “Patent”.
 
-1978—Subsec. (c)(5). Pub. L. 95–454, §801(a)(3)(D), substituted “5375” for “5365”.
+<b>1978</b>—Subsec. (c)(5). Pub. L. 95–454, §801(a)(3)(D), substituted “5375” for “5365”.
 
 Subsec. (c)(12)(B). Pub. L. 95–454, §906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
 
-1975—Subsec. (c)(5). Pub. L. 94–183, §2(12), substituted “Executive Protective Service” for “White House Police”.
+<b>1975</b>—Subsec. (c)(5). Pub. L. 94–183, §2(12), substituted “Executive Protective Service” for “White House Police”.
 
 Subsec. (c)(9). Pub. L. 94–183, §2(13), substituted “305” for “40”.
 
-1973—Subsec. (b). Pub. L. 93–176 extended this chapter to include positions in local boards and appeal boards within the Selective Service System and employees occupying those positions.
+<b>1973</b>—Subsec. (b). Pub. L. 93–176 extended this chapter to include positions in local boards and appeal boards within the Selective Service System and employees occupying those positions.
 
-1970—Subsec. (c)(1). Pub. L. 91–375 repealed provision declaring this chapter inapplicable to employees in the postal field service whose pay is fixed under chapter 45 of title 39.
+<b>1970</b>—Subsec. (c)(1). Pub. L. 91–375 repealed provision declaring this chapter inapplicable to employees in the postal field service whose pay is fixed under chapter 45 of title 39.
 
 Subsec. (c)(4). Pub. L. 91–358 expanded reference to include chief judges, substituted reference to the Superior Court of the District of Columbia for references to the District of Columbia Court of General Sessions and the Juvenile Court of the District of Columbia, and provided that chapter not apply to nonjudicial employees of the District of Columbia court system whose pay is fixed under title 11 of the District of Columbia Code.
 
-1969—Subsec. (c)(5). Pub. L. 91–34 extended provisions to include members of the National Zoological Park police force whose pay is fixed under section 5365 of this title.
+<b>1969</b>—Subsec. (c)(5). Pub. L. 91–34 extended provisions to include members of the National Zoological Park police force whose pay is fixed under section 5365 of this title.
 
-1968—Subsec. (c). Pub. L. 90–610 inserted par. (27).
+<b>1968</b>—Subsec. (c). Pub. L. 90–610 inserted par. (27).
 
 #### Effective Date of 2010 Amendment
 
@@ -390,7 +390,7 @@ Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see secti
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 1122(a)(1) of Pub. L. 104–201 effective Oct. 1, 1996, see section 1124 of Pub. L. 104–201,set out as a note under section 193 of Title 10, Armed Forces.
+Amendment by section 1122(a)(1) of Pub. L. 104–201 effective Oct. 1, 1996, see section 1124 of Pub. L. 104–201, set out as a note under section 193 of Title 10, Armed Forces.
 
 #### Effective Date of 1990 Amendment
 
@@ -400,7 +400,7 @@ Amendment by section 529 \[title I, §109(a)(2)\] of Pub. L. 101–509 effective
 
 #### Effective Date of 1987 Amendment
 
-Pub. L. 100–135, §3, Oct. 16, 1987, 101 Stat. 812, provided that: “The amendments made by section 1 \[amending this section and sections 167 and 167h of Title 2, The Congress\] shall apply with respect to pay periods beginning after September 30, 1987, except that any pay increase for employees of the Library of Congress, pursuant to the amendments made by such section, shall be subject to appropriation and shall be implemented in four approximately equal annual increments, so that pay parity with the Capitol Police occurs beginning with the first pay period beginning after September 30, 1990.”
+Pub. L. 100–135, §3, Oct. 16, 1987, 101 Stat. 812, provided that: “The amendments made by section 1 \[amendingthis section and sections 167 and 167h of Title 2, The Congress\] shall apply with respect to pay periods beginning after September 30, 1987, except that any pay increase for employees of the Library of Congress, pursuant to the amendments made by such section, shall be subject to appropriation and shall be implemented in four approximately equal annual increments, so that pay parity with the Capitol Police occurs beginning with the first pay period beginning after September 30, 1990.”
 
 #### Effective Date of 1986 Amendment
 
@@ -466,7 +466,7 @@ Atomic Energy Commission abolished and functions transferred by sections 5814 an
 
 #### Dissolution of Virgin Islands Corporation
 
-Virgin Islands Corporation established to have succession until June 30, 1969, unless sooner dissolved by Act of Congress, by act June 30, 1949, ch. 285, 63 Stat. 350, as amended (48 U.S.C. 1407 et seq.). Corporation terminated its program June 30, 1965, and dissolved July 1,1966. Act June 30, 1949, was repealed by Pub. L. 97–357, title III, §308(e), Oct. 19, 1982, 96 Stat. 1710.
+Virgin Islands Corporation established to have succession until June 30, 1969, unless sooner dissolved by Act of Congress, by act June 30, 1949, ch. 285, 63 Stat. 350, as amended (48 U.S.C. 1407 et seq.). Corporation terminated its program June 30, 1965, and dissolved July 1, 1966. Act June 30, 1949, was repealed by Pub. L. 97–357, title III, §308(e), Oct. 19, 1982, 96 Stat. 1710.
 
 #### Civilian Members of Faculty of Air Force Institute of Technology on November 8, 1985
 

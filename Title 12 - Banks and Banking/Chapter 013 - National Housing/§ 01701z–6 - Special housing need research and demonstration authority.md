@@ -116,7 +116,7 @@ Pub. L. 96–399, title II, §209, Oct. 8, 1980, 94 Stat. 1635, provided that:
 
 &emsp;“(4) as authorized by the Public Housing Security Demonstration Act of 1978 \[set out below\], the Urban Initiatives Anti-Crime Program has performed in a promising manner; and
 
-&emsp;“(5) the First Annual Report to Congress of the Urban Initiatives Anti-Crime Program and the twoGeneral Accounting Office \[now Government Accountability Office\] reports to Congress on such Program have provided useful suggestions which can now be implemented.
+&emsp;“(5) the First Annual Report to Congress of the Urban Initiatives Anti-Crime Program and the two General Accounting Office \[now Government Accountability Office\] reports to Congress on such Program have provided useful suggestions which can now be implemented.
 
 “(c) It is, therefore, the purpose of this section to continue the efforts of the Urban Initiatives Anti-Crime Program so that more progress can be made in providing secure, decent, safe, and sanitary dwelling units for low-income and elderly tenants in public housing projects.
 

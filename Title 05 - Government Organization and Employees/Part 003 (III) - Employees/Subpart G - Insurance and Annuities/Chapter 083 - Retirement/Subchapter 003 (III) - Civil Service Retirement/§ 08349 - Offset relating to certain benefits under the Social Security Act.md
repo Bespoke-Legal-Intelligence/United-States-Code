@@ -76,9 +76,9 @@ Section 101 of the Social Security Amendments of 1983 \[Pub. L. 98–21\], refer
 
 #### Amendments
 
-1988—Subsec. (d). Pub. L. 100–238 added subsec. (d).
+<b>1988</b>—Subsec. (d). Pub. L. 100–238 added subsec. (d).
 
-1986—Subsec. (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Subsec. (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
 #### Effective Date of 1988 Amendment
 

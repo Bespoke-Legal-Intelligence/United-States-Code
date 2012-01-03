@@ -60,15 +60,11 @@ The corporation shall, on an annual basis, submit to the Committee on Health, Ed
 
 <b>2008</b>—Subsec. (d)(2)(B). Pub. L. 110–458 substituted “section 1083(d)(2)” for “section 1082(d)(2)”.
 
-<b>2006</b>—Subsec. (b)(1). Pub. L. 109–280, §505(a), added par. (1) and struck out former par. (1) which read as follows: “the aggregate unfunded vested benefits at the end of the preceding plan year (as determined under section 1306(a)(3)(E)(iii) of this title) of plans maintained by the contributing sponsor and the members of its controlled group exceed $50,000,000 (disregarding plans with no unfunded vested benefits);”.
+<b>2006</b>—Subsec. (b)(1). Pub. L. 109–280, §505(a), added par. (1) and struck out former par. (1) which read as follows: “the aggregate unfunded vested benefits at theend of the preceding plan year (as determined under section 1306(a)(3)(E)(iii) of this title) of plans maintained by the contributing sponsor and the members of its controlled group exceed $50,000,000 (disregarding plans with no unfunded vested benefits);”.
 
 Subsec. (b)(2). Pub. L. 109–280, §108(b)(3), formerly §107(b)(3), as renumbered by Pub. L. 111–192, substituted “1083(k)(1)(A) and (B)” for “1082(f)(1)(A) and (B)” and “430(k)(1)(A) and (B)” for “412(n)(1)(A) and (B)”.
 
 Subsecs. (d), (e). Pub. L. 109–280, §505(b), added subsecs. (d) and (e).
-
-#### Change of Name
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effective Date of 2008 Amendment
 

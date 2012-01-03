@@ -38,7 +38,7 @@ Order to pay.—On application of the parties in interest, the court may order t
 
 &emsp;(3)
 
-Deficiency judgment.—If the compensation finally awarded is more than the amount of money received by any person entitled to compensation, the court shall enter judgment against the Government for the amount of the deficiency.
+Deficiency judgment.—If the compensation finally awarded is more than the amountof money received by any person entitled to compensation, the court shall enter judgment against the Government for the amount of the deficiency.
 
 (d)
 

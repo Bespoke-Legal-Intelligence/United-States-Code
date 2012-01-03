@@ -13,6 +13,12 @@ Division B—Office of Federal Procurement Policy
 |  |  |  |
 | :--- | :---: | ---: |
 | [<b>11.</b>](Division%20B%20-%20Office%20of%20Federal%20Procurement%20Policy/Chapter%20011%20-%20Establishment%20of%20Office%20and%20Authority%20and%20Functions%20of%20Administrator/README.md) | <b>Establishment of Office and Authority and Functions of Administrator</b> | <b>1101</b> |
+| [<b>12.</b>](Division%20B%20-%20Office%20of%20Federal%20Procurement%20Policy/Chapter%20012%20-%20Federal%20Acquisition%20Institute/README.md) | <b>Federal Acquisition Institute</b> | <b>1201.</b><b><sup>1</sup></b> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |  |
+| :--- | :---: | ---: |
 | [<b>13.</b>](Division%20B%20-%20Office%20of%20Federal%20Procurement%20Policy/Chapter%20013%20-%20Acquisition%20Councils/README.md) | <b>Acquisition Councils</b> | <b>1301</b> |
 | [<b>15.</b>](Division%20B%20-%20Office%20of%20Federal%20Procurement%20Policy/Chapter%20015%20-%20Cost%20Accounting%20Standards/README.md) | <b>Cost Accounting Standards</b> | <b>1501</b> |
 | [<b>17.</b>](Division%20B%20-%20Office%20of%20Federal%20Procurement%20Policy/Chapter%20017%20-%20Agency%20Responsibilities%20and%20Procedures/README.md) | <b>Agency Responsibilities and Procedures</b> | <b>1701</b> |
@@ -37,6 +43,12 @@ Division C—Procurement
 | [<b>47.</b>](Division%20C%20-%20Procurement/Chapter%20047%20-%20Miscellaneous/README.md) | <b>Miscellaneous</b> | <b>4701</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+<b>2011</b>—Pub. L. 112–81, div. A, title VIII, §864(b)(2), Dec. 31, 2011, 125 Stat. 1524, added item for chapter 12.
+
+<i><sup>1</sup></i><i> So in original. The period probably should not appear.</i>
 
 
 ---

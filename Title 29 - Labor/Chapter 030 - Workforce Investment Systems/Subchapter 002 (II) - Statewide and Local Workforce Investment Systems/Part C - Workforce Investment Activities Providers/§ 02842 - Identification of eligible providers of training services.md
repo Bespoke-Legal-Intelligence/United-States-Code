@@ -50,7 +50,7 @@
 
 &emsp;&emsp;&emsp;(i) shall submit an application, to the local board for the local area in which the provider desires to provide training services, at such time and in such manner as may be required, and containing a description of the program;
 
-&emsp;&emsp;&emsp;(ii) if the provider provides training services through a program on the date of application, shall include in the application an appropriate portion of the performance information and program cost information described in subsection (d) of this section for the program, as specified in the procedure, and shall meet appropriate levels ofperformance for the program, as specified in the procedure; and
+&emsp;&emsp;&emsp;(ii) if the provider provides training services through a program on the date of application, shall include in the application an appropriate portion of the performance information and program cost information described in subsection (d) of this section for the program, as specified in the procedure, and shall meet appropriate levels of performance for the program, as specified in the procedure; and
 
 &emsp;&emsp;&emsp;(iii) if the provider does not provide training services on such date, shall meet appropriate requirements, as specified in the procedure.
 
@@ -66,7 +66,7 @@
 
 #### (3) Opportunity to submit comments
 
-&emsp;The Governor shall provide an opportunity, during the development of the procedure, for interested members of the public, including representatives of business and labor organizations, to submit comments on such procedure.
+&emsp;The Governor shall provide an opportunity, during the development of the procedure, forinterested members of the public, including representatives of business and labor organizations, to submit comments on such procedure.
 
 #### (4) Considerations
 
@@ -140,7 +140,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If the Governor or a local board requests additional information under paragraph (2) that imposes extraordinary costs on providers, or if providers experience extraordinary costs in the collection of information required under paragraph (1)(A)(ii), the Governor or the local board shall provide access to cost-effective methods for the collection of the information involved, or the Governor shall provide additional resources to assist providers in the collection of such information from funds made available as described in sections 2853(a) and 2863(a)(1) of this title, as appropriate.
+&emsp;&emsp;If the Governor or a local board requests additional information under paragraph (2)that imposes extraordinary costs on providers, or if providers experience extraordinary costs in the collection of information required under paragraph (1)(A)(ii), the Governor or the local board shall provide access to cost-effective methods for the collection of the information involved, or the Governor shall provide additional resources to assist providers in the collection of such information from funds made available as described in sections 2853(a) and 2863(a)(1) of this title, as appropriate.
 
 #### (B) Higher education eligibility requirements
 
@@ -194,7 +194,7 @@
 
 #### (g) Appeal
 
-The Governor shall establish procedures for providers of training services to appeal a denial of eligibility by the local board or the designated State agency under subsection (b), (c), or (e) of this section, a termination of eligibility or other action by the board or agency under subsection (f) of this section, or a denial of eligibility by a one-stop operator under subsection (h) of this section. Such procedures shall provide an opportunity for a hearing and prescribe appropriate time limits to ensure prompt resolution of the appeal.
+The Governor shall establish procedures for providers of training services to appeal a denialof eligibility by the local board or the designated State agency under subsection (b), (c), or (e) of this section, a termination of eligibility or other action by the board or agency under subsection (f) of this section, or a denial of eligibility by a one-stop operator under subsection (h) of this section. Such procedures shall provide an opportunity for a hearing and prescribe appropriate time limits to ensure prompt resolution of the appeal.
 
 #### (h) On-the-job training or customized training exception
 

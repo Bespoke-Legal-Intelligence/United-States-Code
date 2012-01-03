@@ -12,5 +12,5 @@ Section was formerly classified to sections 67 and 564 of Title 5 prior to the g
 
 #### Amendments
 
-1954—Act Sept. 3, 1954, substituted “section 1914 of title 18” for reference to proviso in Act of March 3, 1917 (5 U.S.C. 66).
+<b>1954</b>—Act Sept. 3, 1954, substituted “section 1914 of title 18” for reference to proviso in Act of March 3, 1917 (5 U.S.C. 66).
 

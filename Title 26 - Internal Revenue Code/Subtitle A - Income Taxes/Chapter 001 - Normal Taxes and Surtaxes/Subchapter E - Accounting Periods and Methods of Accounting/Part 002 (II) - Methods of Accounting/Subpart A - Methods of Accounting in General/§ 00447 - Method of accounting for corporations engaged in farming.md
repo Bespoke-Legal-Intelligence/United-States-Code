@@ -78,7 +78,7 @@ For purposes of subsection (d)—
 
 &emsp;(2) stock owned, directly or indirectly, by or for a partnership or trust shall be treated as owned proportionately by its partners or beneficiaries, and
 
-&emsp;(3) if 50 percent or more in value of the stock in a corporation (hereinafter in this paragraph referred to as “first corporation”) is owned, directly or through paragraph (2), by or for members of the same family, such membersshall be considered as owning each class of stock in a second corporation (or a wholly owned subsidiary of such second corporation) owned, directly or indirectly, by or for the first corporation, in that proportion which the value of the stock in the first corporation which such members so own bears to the value of all the stock in the first corporation.
+&emsp;(3) if 50 percent or more in value of the stock in a corporation (hereinafter in this paragraph referred to as “first corporation”) is owned, directly or through paragraph (2), by or for members of the same family, such members shall be considered as owning each class of stock in a second corporation (or a wholly owned subsidiary of such second corporation) owned, directly or indirectly, by or for the first corporation, in that proportion which the value of the stock in the first corporation which such members so own bears to the value of all the stock in the first corporation.
 
 > For purposes of paragraph (1), individuals related by the half blood or by legal adoption shall be treated as if they were related by the whole blood.
 
@@ -198,7 +198,7 @@ In the case of any taxpayer required by this section to change its method of acc
 
 &emsp;&emsp;(B) the amount of such net adjustments determined as of the beginning of the taxable year preceding the year of change.
 
-> &emsp;If the amount referred to in subparagraph (A) exceeds the amount referred to in subparagraph (B), notwithstanding paragraph (1), such excess shall be included in gross income in the year of the change.
+> &emsp;If the amount referred to in subparagraph (A) exceeds the amount referred to in subparagraph (B), notwithstanding paragraph (1), suchexcess shall be included in gross income in the year of the change.
 
 #### (3) Inclusion where corporation ceases to be a family corporation
 
@@ -238,7 +238,7 @@ In the case of any taxpayer required by this section to change its method of acc
 
 #### (ii) Coordination with other reductions
 
-&emsp;&emsp;&emsp;The amount of the applicable portion for any taxable year shall be reduced (but notbelow zero) by the amount of any reduction required for such taxable year under any other provision of this subsection.
+&emsp;&emsp;&emsp;The amount of the applicable portion for any taxable year shall be reduced (but not below zero) by the amount of any reduction required for such taxable year under any other provision of this subsection.
 
 #### (iv) <sup>2</sup> Inclusion in income
 
@@ -354,7 +354,7 @@ Section 351(b) of Pub. L. 95–600 provided that: “The amendment made by subse
 
 Section 353(b) of Pub. L. 95–600 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1976.”
 
-Section 701(<i>l</i>)(4) of Pub. L. 95–600, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by paragraphs (1) \[amending this section\] and (3) \[amending section 464 of this title\] shall take effect as if included in section 447 or 464 (as the case may be) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] at the time of the enactment of such sections \[Oct. 4, 1976\].”
+Section 701(<i>l</i>)(4) of Pub. L. 95–600, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by paragraphs (1) \[amending this section\] and (3) \[amending section 464 of this title\]shall take effect as if included in section 447 or 464 (as the case may be) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] at the time of the enactment of such sections \[Oct. 4, 1976\].”
 
 Amendment by section 703(d) of Pub. L. 95–600 effective on Oct. 4, 1976, see section 703(r) of Pub. L. 95–600, set out as a note under section 46 of this title.
 

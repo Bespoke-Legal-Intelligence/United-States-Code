@@ -24,9 +24,9 @@ The Congress further finds and declares that the future welfare of the Nation an
 
 #### (c) Decent housing, suitable living environment, and economic opportunities for persons of low and moderate income; community development activities which may be supported by Federal assistance
 
-The primary objective of this chapter and of the community development program of each grantee under this chapter is the development of viable urban communities, by providing decent housing and a suitable living environment and expanding economic opportunities, principally for persons of low and moderate income. Consistent with this primary objective, not less than 70 percent of the aggregate of the Federal assistance provided to States and units of general local government under section 5306 of this title and, if applicable, the funds received as a result of a guarantee or a grant under section 5308 of this title, shall be used for the support of activities that benefit persons of low and moderate income, and the Federal assistance provided in this chapter is for the support of community development activities which are directed toward the following specific objectives—
+The primary objective of this chapter and of the community development program of eachgrantee under this chapter is the development of viable urban communities, by providing decent housing and a suitable living environment and expanding economic opportunities, principally for persons of low and moderate income. Consistent with this primary objective, not less than 70 percent of the aggregate of the Federal assistance provided to States and units of general local government under section 5306 of this title and, if applicable, the funds received as a result of a guarantee or a grant under section 5308 of this title, shall be used for the support of activities that benefit persons of low and moderate income, and the Federal assistance provided in this chapter is for the support of community development activities which are directed toward the following specific objectives—
 
-&emsp;(1) the elimination of slums and blight and the prevention of blighting influences and thedeterioration of property and neighborhood and community facilities of importance to the welfare of the community, principally persons of low and moderate income;
+&emsp;(1) the elimination of slums and blight and the prevention of blighting influences and the deterioration of property and neighborhood and community facilities of importance to the welfare of the community, principally persons of low and moderate income;
 
 &emsp;(2) the elimination of conditions which are detrimental to health, safety, and public welfare, through code enforcement, demolition, interim rehabilitation assistance, and related activities;
 
@@ -96,7 +96,7 @@ Section 209 of title II of Pub. L. 103–233 provided that: “The amendments ma
 
 #### Effective Date of 1992 Amendment
 
-Pub. L. 102–550, §2, Oct. 28, 1992, 106 Stat. 3681, provided that: “The provisions of this Act \[see Tables forclassification\] and the amendments made by this Act shall take effect and shall apply upon the date of the enactment of this Act \[Oct. 28, 1992\], unless such provisions or amendments specifically provide for effectiveness or applicability upon another date certain.”
+Pub. L. 102–550, §2, Oct. 28, 1992, 106 Stat. 3681, provided that: “The provisions of this Act \[see Tables for classification\] and the amendments made by this Act shall take effect and shall apply upon the date of the enactment of this Act \[Oct. 28, 1992\], unless such provisions or amendments specifically provide for effectiveness or applicability upon another date certain.”
 
 #### Effective Date of 1990 Amendment
 
@@ -346,7 +346,7 @@ Low and moderate income requirement.—
 
 In general.—Notwithstanding the authority of the Secretary under paragraph (1)—
 
-&emsp;&emsp;&emsp;“(i) all of the funds appropriated or otherwise made available under this section shall be used with respect to individuals and families whose income does not exceed 120 percent of area median income; and
+&emsp;&emsp;&emsp;“(i) all of the funds appropriated or otherwise made available under this section shall be usedwith respect to individuals and families whose income does not exceed 120 percent of area median income; and
 
 &emsp;&emsp;&emsp;“(ii) not less than 25 percent of the funds appropriated or otherwise made available under this section shall be used to house individuals or families whose incomes do not exceed 50 percent of area median income.
 
@@ -360,7 +360,7 @@ Periodic Audits.—In consultation with the Secretary of Housing and Urban Devel
 
 #### “SEC. 2302. NATIONWIDE DISTRIBUTION OF RESOURCES.
 
-“Notwithstanding any other provision of this Act \[see Short Title of 2008 Amendment note set out undersection 1701 of Title 12\] or the amendments made by this Act, each State shall receive not less than 0.5 percent of funds made available under section 2301 (relating to emergency assistance for the redevelopment of abandoned and foreclosed homes).
+“Notwithstanding any other provision of this Act \[see Short Title of 2008 Amendment note set out under section 1701 of Title 12\] or the amendments made by this Act, each State shall receive not less than 0.5 percent of funds made available under section 2301 (relating to emergency assistance for the redevelopment of abandoned and foreclosed homes).
 
 #### “SEC. 2303. LIMITATION ON USE OF FUNDS WITH RESPECT TO EMINENT DOMAIN.
 

@@ -12,7 +12,7 @@ In connection with the offering of any health insurance coverage to a small empl
 
 #### (1) In general
 
-&emsp;Subject to paragraph (3), with respect to a health insurance issuer offering health insurance coverage to a <sup>2</sup> employer, or individual, as applicable,,<sup>1</sup> information described in this subsection is information concerning—
+&emsp;Subject to paragraph (3), with respect to a health insurance issuer offering health insurance coverage to a <sup>2</sup> employer, or individual, asapplicable,,<sup>1</sup> information described in this subsection is information concerning—
 
 &emsp;&emsp;(A) the provisions of such coverage concerning issuer's right to change premium rates and the factors that may affect changes in premium rates; and
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Except as otherwise provided in this section and notwithstanding any other provision of law,the following banks, associations, and institutions are eligible both to establish and invest in any rural business investment company or in any entity established to invest solely in rural business investment companies:
+Except as otherwise provided in this section and notwithstanding any other provision of law, the following banks, associations, and institutions are eligible both to establish and invest in any rural business investment company or in any entity established to invest solely in rural business investment companies:
 
 &emsp;(1) Any bank or savings association the deposits of which are insured under the Federal Deposit Insurance Act (12 U.S.C. 1811 et seq.), including an investment pool created entirely by such bank or savings association.
 
@@ -30,7 +30,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (a)(1). Pub. L. 110–246, §6027(d)(1), inserted “, including an investment pool created entirely by such bank or savings association” before period at end.
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–246, §6027(d)(1), inserted “, including an investment pool created entirely by such bank or savings association” before period at end.
 
 Subsec. (c). Pub. L. 110–246, §6027(d)(2), substituted “25” for “15”.
 

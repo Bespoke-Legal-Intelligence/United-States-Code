@@ -16,7 +16,7 @@ Such notice shall describe the lands covered by such application, offer, permit,
 
 &emsp;(2) The book and page of recordation of the notice or certificate of location;
 
-&emsp;(3) The section or sections of the public land surveys which embrace such mining claim; or if such lands are unsurveyed, either the section or sections which would probably embrace such mining claim when the public land surveys are extended to such lands or a tie by courses and distances to an approved United States mineral monument;
+&emsp;(3) The section or sections of the public land surveys which embrace such mining claim; orif such lands are unsurveyed, either the section or sections which would probably embrace such mining claim when the public land surveys are extended to such lands or a tie by courses and distances to an approved United States mineral monument;
 
 &emsp;(4) Whether such claimant is a locator or purchaser under such location; and
 
@@ -44,13 +44,13 @@ Any person claiming any right in Leasing Act minerals under or by virtue of any 
 
 &emsp;(2) the book and page of the recordation of the notice or certificate of location; and
 
-&emsp;(3) the section or sections of the public land surveys which embrace such mining claim; or if such lands are unsurveyed, either the section or sections which would probably embrace such mining claim when the public land surveys are extended to such lands or a tie by courses and distances to an approved United States mineral monument.
+&emsp;(3) the section or sections of the public land surveys which embrace such mining claim; or if such lands are unsurveyed, either the section or sections which would probably embrace such mining claim when the public landsurveys are extended to such lands or a tie by courses and distances to an approved United States mineral monument.
 
 > Other than in respect to the requirements of subsection (a) of this section as to personal delivery or mailing of copies of notices and in respect to the provisions of subsection (e) of this section, no such request for copies of published notices and no statement or allegation in such request and no recordation thereof shall affect title to any mining claim or to any land or be deemed to constitute constructive notice to any person that the person requesting copies has, or claims, any right, title, or interest in or under any mining claim referred to in such request.
 
 #### (e) Failure to deliver or mail copy of notice
 
-If any applicant, offeror, permittee, or lessee shall fail to comply with the requirements ofsubsection (a) of this section as to the personal delivery or mailing of a copy of notice to any person, the publication of such notice shall be deemed wholly ineffectual as to that person or as to the rights asserted by that person and the failure of that person to file a verified statement, as provided in such notice, shall in no manner affect, diminish, prejudice or bar any rights of that person.
+If any applicant, offeror, permittee, or lessee shall fail to comply with the requirements of subsection (a) of this section as to the personal delivery or mailing of a copy of notice to any person, the publication of such notice shall be deemed wholly ineffectual as to that person or as to the rights asserted by that person and the failure of that person to file a verified statement, as provided in such notice, shall in no manner affect, diminish, prejudice or bar any rights of that person.
 
 (Aug. 13, 1954, ch. 730, §7, 68 Stat. 711; Pub. L. 86–507, §1(25), June 11, 1960, 74 Stat. 201.)
 

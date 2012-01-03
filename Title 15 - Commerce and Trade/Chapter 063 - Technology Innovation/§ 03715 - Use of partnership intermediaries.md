@@ -6,7 +6,7 @@ Subject to the approval of the Secretary or head of the affected department or a
 
 &emsp;(1) enter into a contract or memorandum of understanding with a partnership intermediary that provides for the partnership intermediary to perform services for the Federal laboratory that increase the likelihood of success in the conduct of cooperative or joint activities of such Federal laboratory with small business firms, institutions of higher education as defined in section 1141(a) <sup>1</sup> of title 20, or educational institutions within the meaning of section 2194 of title 10; and
 
-&emsp;(2) pay the Federal costs of such contract or memorandum of understanding out of fundsavailable for the support of the technology transfer function pursuant to section 3710(b) of this title.
+&emsp;(2) pay the Federal costs of such contract or memorandum of understanding out of funds available for the support of the technology transfer function pursuant to section 3710(b) of this title.
 
 #### (b) Omitted
 

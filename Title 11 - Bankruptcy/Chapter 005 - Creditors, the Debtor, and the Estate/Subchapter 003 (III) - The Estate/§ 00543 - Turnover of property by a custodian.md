@@ -26,7 +26,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 543(a) is a modification of similar provisions contained in the House bill and the Senate amendment. The provision clarifies that a custodian may always act as is necessary to preserve property of the debtor. Section 543(c)(3) excepts from surcharge a custodian that is an assignee for the benefit of creditors, who was appointed or took possession before 120 days before the date of the filing of the petition, whichever is later. The provision also prevents a custodian from being surcharged in connection with payments made in accordance with applicable law.
 
@@ -36,9 +36,9 @@ This section requires a custodian appointed before the bankruptcy case to delive
 
 #### Amendments
 
-1994—Subsec. (d)(1). Pub. L. 103–394 struck out comma after “section”.
+<b>1994</b>—Subsec. (d)(1). Pub. L. 103–394 struck out comma after “section”.
 
-1984—Subsec. (a). Pub. L. 98–353, §458(a), inserted “, product, offspring, rents, or profits” after “proceeds”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–353, §458(a), inserted “, product, offspring, rents, or profits” after “proceeds”.
 
 Subsec. (b)(1). Pub. L. 98–353, §458(b)(1), inserted “held by or” after “debtor”, and “, product, offspring, rents, or profits” after “proceeds”.
 
@@ -56,5 +56,5 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
+Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 

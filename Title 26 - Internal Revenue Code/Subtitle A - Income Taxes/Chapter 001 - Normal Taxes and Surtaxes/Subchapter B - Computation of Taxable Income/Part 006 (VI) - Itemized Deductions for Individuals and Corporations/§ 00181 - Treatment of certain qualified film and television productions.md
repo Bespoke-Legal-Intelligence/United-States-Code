@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;A taxpayer may elect to treat the cost of any qualified film or television production asan expense which is not chargeable to capital account. Any cost so treated shall be allowed as a deduction.
+&emsp;A taxpayer may elect to treat the cost of any qualified film or television production as an expense which is not chargeable to capital account. Any cost so treated shall be allowed as a deduction.
 
 #### (2) Dollar limitation
 
@@ -110,7 +110,7 @@ Pub. L. 110–343, div. C, title V, §502(e), Oct. 3, 2008, 122 Stat. 3877, prov
 
 “(1)
 
-In general.—Except as otherwise provided in this subsection, the amendments made by this section\[amending this section and section 199 of this title\] shall apply to qualified film and television productions commencing after December 31, 2007.
+In general.—Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and section 199 of this title\] shall apply to qualified film and television productions commencing after December 31, 2007.
 
 “(2)
 

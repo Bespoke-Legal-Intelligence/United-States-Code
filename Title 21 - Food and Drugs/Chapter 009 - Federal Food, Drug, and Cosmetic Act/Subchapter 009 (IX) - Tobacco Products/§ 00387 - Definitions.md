@@ -152,7 +152,7 @@ Agricultural Activities.—The provisions of this division (or an amendment made
 
 “(c)
 
-Revenue Activities.—The provisions of this division (or an amendment made by this division) whichauthorize the Secretary to take certain actions with regard to tobacco products shall not be construed to affect any authority of the Secretary of the Treasury under chapter 52 of the Internal Revenue Code of 1986 \[26 U.S.C. 5701 et seq.\].”
+Revenue Activities.—The provisions of this division (or an amendment made by this division) which authorize the Secretary to take certain actions with regard to tobacco products shall not be construed to affect any authority of the Secretary of the Treasury under chapter 52 of the Internal Revenue Code of 1986 \[26 U.S.C. 5701 et seq.\].”
 
 #### Findings
 
@@ -230,7 +230,7 @@ Pub. L. 111–31, div. A, §2, June 22, 2009, 123 Stat. 1776, provided that: “
 
 &emsp;“(36) It is essential that the Food and Drug Administration review products sold or distributed for use to reduce risks or exposures associated with tobacco products and that it be empowered to review any advertising and labeling for such products. It is also essential that manufacturers, prior to marketing such products, be required to demonstrate that such products will meet a series of rigorous criteria, and will benefit the health of the population as a whole, taking into account both users of tobacco products and persons who do not currently use tobacco products.
 
-&emsp;“(37) Unless tobacco products that purport to reduce the risks to the public of tobacco use actually reduce such risks, those products can cause substantial harm to the public health to the extent that the individuals, who would otherwise not consume tobacco products or would consume such products less, use tobacco products purporting to reduce risk. Those who use products sold or distributed as modified risk products that do not in fact reduce risk, rather than quitting or reducing their use of tobacco products, have a substantially increased likelihood of suffering disability and premature death. The costs to society of the widespread use of products sold or distributed as modified risk products that do not in fact reduce risk or that increase risk include thousands of unnecessary deaths and injuries and huge costs to our health care system.
+&emsp;“(37) Unless tobacco products that purport to reduce the risks to the public of tobacco use actually reduce such risks, those products can cause substantial harm to the public health to the extent that the individuals, who would otherwise not consume tobacco products or would consume such products less, use tobacco products purporting to reduce risk. Those who use products sold or distributed as modified risk products that do not in fact reduce risk, rather than quitting or reducing their use of tobacco products, have a substantially increased likelihood of suffering disability and premature death. The costs to societyof the widespread use of products sold or distributed as modified risk products that do not in fact reduce risk or that increase risk include thousands of unnecessary deaths and injuries and huge costs to our health care system.
 
 &emsp;“(38) As the National Cancer Institute has found, many smokers mistakenly believe that ‘low tar’ and ‘light’ cigarettes cause fewer health problems than other cigarettes. As the National Cancer Institute has also found, mistaken beliefs about the health consequences of smoking ‘low tar’ and ‘light’ cigarettes can reduce the motivation to quit smoking entirely and thereby lead to disease and death.
 
@@ -254,7 +254,7 @@ Pub. L. 111–31, div. A, §2, June 22, 2009, 123 Stat. 1776, provided that: “
 
 &emsp;“(48) In August 2006 a United States district court judge found that the major United States cigarette companies dramatically increased their advertising and promotional spending in ways that encourage youth to start smoking subsequent to the signing of the Master Settlement Agreement in 1998. USA v. Philip Morris, USA, Inc., et al. (Civil Action No. 99–2496 (GK), August 17, 2006).
 
-&emsp;“(49) In August 2006 a United States district court judge found that the major United States cigarettecompanies have designed their cigarettes to precisely control nicotine delivery levels and provide doses of nicotine sufficient to create and sustain addiction while also concealing much of their nicotine-related research. USA v. Philip Morris, USA, Inc., et al. (Civil Action No. 99–2496 (GK), August 17, 2006).”
+&emsp;“(49) In August 2006 a United States district court judge found that the major United States cigarette companies have designed their cigarettes to precisely control nicotine delivery levels and provide doses of nicotine sufficient to create and sustain addiction while also concealing much of their nicotine-related research. USA v. Philip Morris, USA, Inc., et al. (Civil Action No. 99–2496 (GK), August 17, 2006).”
 
 #### Purpose
 

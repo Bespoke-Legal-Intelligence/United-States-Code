@@ -6,7 +6,7 @@ Before an account is opened at a depository institution, the depository institut
 
 #### (b) Preprinted deposit slips
 
-All preprinted deposit slips that a depository institution furnishes to its customers shall contain a summary notice, as prescribed by the Board in regulations, that deposited items may not be available for immediate withdrawal.
+All preprinted deposit slips that a depository institution furnishes to its customers shall contain a summary notice, as prescribed by the Board, jointly with the Director of the Bureau of Consumer Financial Protection, in regulations, that deposited items may not be available for immediate withdrawal.
 
 #### (c) Mailing of notice
 
@@ -30,7 +30,7 @@ All preprinted deposit slips that a depository institution furnishes to its cust
 
 #### (2) General notice at automated teller machines
 
-&emsp;In the case of any automated teller machine at which any funds are received for deposit in an account at any depository institution, the Board shall prescribe, by regulations, that the owner or operator of such automated teller machine shall post or provide a general notice that funds deposited in such machine may not be immediately available for withdrawal.
+&emsp;In the case of any automated teller machine at which any funds are received for deposit inan account at any depository institution, the Board, jointly with the Director of the Bureau of Consumer Financial Protection, shall prescribe, by regulations, that the owner or operator of such automated teller machine shall post or provide a general notice that funds deposited in such machine may not be immediately available for withdrawal.
 
 #### (e) Notice of interest payment policy
 
@@ -38,15 +38,15 @@ If a depository institution described in section 4005(b) of this title begins th
 
 #### (f) Model disclosure forms
 
-#### (1) Prepared by Board
+#### (1) Prepared by Board and Bureau
 
-&emsp;The Board shall publish model disclosure forms and clauses for common transactions to facilitate compliance with the disclosure requirements of this section and to aid customers by utilizing readily understandable language.
+&emsp;The Board, jointly with the Director of the Bureau of Consumer Financial Protection, shall publish model disclosure forms and clauses for common transactions to facilitate compliance with the disclosure requirements of this section and to aid customers by utilizing readily understandable language.
 
 #### (2) Use of forms to achieve compliance
 
 &emsp;A depository institution shall be deemed to be in compliance with the requirements of this section if such institution—
 
-&emsp;&emsp;(A) uses any appropriate model form or clause as published by the Board, or
+&emsp;&emsp;(A) uses any appropriate model form or clause as published by the Board, jointly with the Director of the Bureau of Consumer Financial Protection,,<sup>1</sup> or
 
 &emsp;&emsp;(B) uses any such model form or clause and changes such form or clause by—
 
@@ -56,19 +56,35 @@ If a depository institution described in section 4005(b) of this title begins th
 
 #### (3) Voluntary use
 
-&emsp;Nothing in this chapter requires the use of any such model form or clause prescribed by the Board under this subsection.
+&emsp;Nothing in this chapter requires the use of any such model form or clause prescribed by the Board, jointly with the Director of the Bureau of Consumer Financial Protection, under this subsection.
 
 #### (4) Notice and comment
 
-&emsp;Model disclosure forms and clauses shall be adopted by the Board only after notice duly given in the Federal Register and an opportunity for public comment in accordance with section 553 of title 5.
+&emsp;Model disclosure forms and clauses shall be adopted by the Board, jointly with the Director of the Bureau of Consumer Financial Protection, only after notice duly given in the Federal Register and an opportunity for public comment in accordance with section 553 of title 5.
 
-(Pub. L. 100–86, title VI, §605, Aug. 10, 1987, 101 Stat. 644.)
+(Pub. L. 100–86, title VI, §605, Aug. 10, 1987, 101 Stat. 644; Pub. L. 111–203, title X, §1086(c), July 21, 2010, 124 Stat. 2086.)
 
 #### References in Text
 
 After enactment, referred to in the heading of subsec. (c)(1), probably means after the effective date of this section, which is Sept. 1, 1988.
 
+#### Amendments
+
+<b>2010</b>—Subsecs. (b), (d)(2). Pub. L. 111–203, §1086(c)(1), inserted “, jointly with the Director of the Bureau of Consumer Financial Protection,” after “Board”.
+
+Subsec. (f)(1). Pub. L. 111–203, §1086(c)(2), inserted “and Bureau” after “Board” in heading.
+
+Pub. L. 111–203, §1086(c)(1), inserted “, jointly with the Director of the Bureau of Consumer Financial Protection,” after “Board”.
+
+Subsec. (f)(2)(A), (3), (4). Pub. L. 111–203, §1086(c)(1), inserted “, jointly with the Director of the Bureau of Consumer Financial Protection,” after “Board”.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
+
 #### Effective Date
 
 Section effective Sept. 1, 1988, see section 613(b) of Pub. L. 100–86, set out as a note under section 4001 of this title.
+
+<i><sup>1</sup></i><i> So in original.</i>
 

@@ -2,17 +2,15 @@
 
 #### (a) Health care of the aged and disabled
 
-The Secretary shall carry on studies and develop recommendations to be submitted from time to time to the Congress relating to health care of the aged and the disabled, including studies and recommendations concerning (1) the adequacy of existing personnel and facilities for health care for purposes of the programs under parts A and B of this subchapter; (2) methods for encouraging the further development of efficient and economical forms of health care which are a constructive alternative to inpatient hospital care; and (3) the effects of the deductibles and coinsurance provisions upon beneficiaries, persons who provide health services, and the financing of the program.
+The Secretary shall carry on studies and develop recommendations to be submitted from time to time to the Congress relating to health care of the aged and the disabled, including studies and recommendations concerning (1) the adequacy of existing personnel and facilities for health care for purposes of the programs under parts A and B of this subchapter; (2) methods for encouraging the further development of efficient and economical forms of health care which are aconstructive alternative to inpatient hospital care; and (3) the effects of the deductibles and coinsurance provisions upon beneficiaries, persons who provide health services, and the financing of the program.
 
 #### (b) Operation and administration of insurance programs
 
 The Secretary shall make a continuing study of the operation and administration of this subchapter (including a validation of the accreditation process of national accreditation bodies under section 1395bb(a) of this title <sup>1</sup> the operation and administration of health maintenance organizations authorized by section 226 of the Social Security Amendments of 1972 \[42 U.S.C. 1395mm\], the experiments and demonstration projects authorized by section 402 of the Social Security Amendments of 1967 \[42 U.S.C. 1395b–1\] and the experiments and demonstration projects authorized by section 222(a) of the Social Security Amendments of 1972 \[42 U.S.C. 1395b–1 note\]), and shall transmit to the Congress annually a report concerning the operation of such programs.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1875, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 332; amended Pub. L. 90–248, title IV, §402(c), Jan. 2, 1968, 81 Stat. 931; Pub. L. 92–603, title II, §§201(c)(7), 222(c), 226(d), 244(d), Oct. 30,1972, 86 Stat. 1373, 1393, 1404, 1423; Pub. L. 98–369, div. B, title III, §2354(b)(17), July 18, 1984, 98 Stat. 1101; Pub. L. 99–509, title IX, §9316(a), Oct. 21, 1986, 100 Stat. 2006; Pub. L. 100–203, title IV, §4085(i)(20), Dec. 22, 1987, 101 Stat. 1330–133; Pub. L. 100–647, title VIII, §8413, Nov. 10, 1988, 102 Stat. 3801; Pub. L. 101–234, title III, §301(b)(5), (d)(2), Dec. 13, 1989, 103 Stat. 1985, 1986; Pub. L. 101–239, title VI, §6103(b)(3)(A), Dec. 19, 1989, 103 Stat. 2199; Pub. L. 108–173, title I, §101(e)(7), Dec. 8, 2003, 117 Stat. 2152; Pub. L. 110–275, title I, §125(b)(4), July 15, 2008, 122 Stat. 2519.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1875, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 332; amended Pub. L. 90–248, title IV, §402(c), Jan. 2, 1968, 81 Stat. 931; Pub. L. 92–603, title II, §§201(c)(7), 222(c), 226(d), 244(d), Oct. 30, 1972, 86 Stat. 1373, 1393, 1404, 1423; Pub. L. 98–369, div. B, title III, §2354(b)(17), July 18, 1984, 98 Stat. 1101; Pub. L. 99–509, title IX, §9316(a), Oct. 21, 1986, 100 Stat. 2006; Pub. L. 100–203, title IV, §4085(i)(20), Dec. 22, 1987, 101 Stat. 1330–133; Pub. L. 100–647, title VIII, §8413, Nov. 10, 1988, 102 Stat. 3801; Pub. L. 101–234, title III, §301(b)(5), (d)(2), Dec. 13, 1989, 103 Stat. 1985, 1986; Pub. L. 101–239, title VI, §6103(b)(3)(A), Dec. 19, 1989, 103 Stat. 2199; Pub. L. 108–173, title I, §101(e)(7), Dec. 8, 2003, 117 Stat. 2152; Pub. L. 110–275, title I, §125(b)(4), July 15, 2008, 122 Stat. 2519.)
 
 #### References in Text
-
-Parts A and B of this subchapter, referred to in subsec. (a), are classified to sections 1395c et seq. and 1395j et seq., respectively, of this title.
 
 Section 226 of the Social Security Amendments of 1972, referred to in subsec. (b), is section 226 of Pub. L. 92–603, which enacted section 1395mm of this title and provisions set out as notes under that section and amended this section and sections 1395f, 1395<i>l</i>, and 1396b of this title.
 
@@ -74,7 +72,7 @@ Evaluation.—
 
 &emsp;“(1)
 
-In general.—Not later than the date that is 2 months after the date of the enactment of this Act \[Dec. 8, 2003\], the Secretary \[of Health and Human Services\] shall enter into an arrangement under which the Institute of Medicine of the National Academy of Sciences (in this section referred to as the ‘Institute’) shall conduct an evaluation of leading health care performance measures in the public and private sectors and options to implement policies that align performance with payment under the medicare program under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.).
+In general.—Not later than the date that is 2 months after the date of the enactment of this Act \[Dec. 8, 2003\], the Secretary \[of Health and Human Services\] shall enter into an arrangement under which the Institute of Medicine of the National Academy of Sciences (in this section referred to as the ‘Institute’) shall conduct an evaluation of leading health care performance measures in the public andprivate sectors and options to implement policies that align performance with payment under the medicare program under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.).
 
 &emsp;“(2)
 
@@ -212,7 +210,7 @@ Issues to be studied.—The issues specified in this paragraph are the following
 
 &emsp;“(B) The rate of usage of physicians’ services under the original medicare fee-for-service program under parts A and B of title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) among beneficiaries between ages 65 and 74, 75 and 84, 85 and over, and disabled beneficiaries under age 65.
 
-&emsp;“(C) Other factors that may be reliable predictors of beneficiary utilization of physicians’ services under the original medicare fee-for-service programunder parts A and B of title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.).
+&emsp;“(C) Other factors that may be reliable predictors of beneficiary utilization of physicians’ services under the original medicare fee-for-service program under parts A and B of title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.).
 
 “(3)
 
@@ -252,7 +250,7 @@ Pub. L. 96–499, title IX, §958, Dec. 5, 1980, 94 Stat. 2648, directed Secreta
 
 #### Demonstration Project Relating to the Terminally Ill
 
-Pub. L. 96–265, title V, §506, June 9, 1980, 94 Stat. 475, authorized Secretary of Health and Human Services to provide for participation, by Social Security Administration, in a demonstration project relating to the terminally ill then being conducted within the Department of Health and Human Services, the purpose of such participation to be to study impact on terminally ill of provisions of disability programs administered by Social Security Administration and to determine how best to provide services needed by persons who were terminally ill through programs over which the Social Security Administration had administrative responsibility, and authorized to be appropriated necessary sums not in excess of $2,000,000 for any fiscal year.
+Pub. L. 96–265, title V, §506, June 9, 1980, 94 Stat. 475, authorized Secretary of Health and Human Services toprovide for participation, by Social Security Administration, in a demonstration project relating to the terminally ill then being conducted within the Department of Health and Human Services, the purpose of such participation to be to study impact on terminally ill of provisions of disability programs administered by Social Security Administration and to determine how best to provide services needed by persons who were terminally ill through programs over which the Social Security Administration had administrative responsibility, and authorized to be appropriated necessary sums not in excess of $2,000,000 for any fiscal year.
 
 #### Report to Congress With Respect to Urban or Rural Comprehensive Mental Health Centers and Centers for Treatment of Alcoholism and Drug Abuse; Submission No Later Than June 13, 1978
 

@@ -48,7 +48,7 @@
 
 (1) There is authorized to be appropriated to the President for loans for Indus Basin Development to carry out the purposes of this section, in addition to funds available under this chapter or any other Act for such purposes, for use beginning in the fiscal year 1969, $61,220,000. Such amounts are authorized to remain available until expended.
 
-(2) There is authorized to be appropriated to the President for grants for Indus Basin Development, in addition to any other funds available for such purposes, for use in the fiscal year 1974, $14,500,000, and for use in the fiscal year 1975, $14,500,000, and for use beginning in the fiscal year 1976, $27,000,000, which amounts shall remain available until expended. The President shall not exercise any special authority granted to him under section 2360(a) or 2364(a) of this title to transfer any amount appropriated under this paragraph to, and to consolidate such amount with, any funds made available under any other provision of this chapter.
+(2) There is authorized to be appropriated to the President for grants for Indus Basin Development, in addition to any other funds available for such purposes, for use in the fiscal year 1974, $14,500,000, and for use in the fiscal year 1975, $14,500,000, and for use beginning in the fiscal year 1976, $27,000,000, which amounts shall remain available until expended. The President shall not exercise any special authority granted to him under section 2360(a) or 2364(a) of this title to transfer any amount appropriated under this paragraph to, and to consolidate suchamount with, any funds made available under any other provision of this chapter.
 
 #### (c) Prohibition against contributions for volunteer manpower programs
 
@@ -90,7 +90,7 @@ In addition to amounts otherwise available under this section, there are authori
 
 #### References in Text
 
-This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4,1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Amendments
 
@@ -132,7 +132,7 @@ Subsec. (d). Pub. L. 95–424, §604, struck out subsec. (d) which related to co
 
 Subsec. (e). Pub. L. 95–424, §604, struck out subsec. (e) which related to added contributions for expansion of technical and vocational training of Arab refugees.
 
-Subsec. (f). Pub. L. 95–424, §604, struck out subsec. (f) which related to appropriation of Egyptian pounds fortechnical and vocational training and other assistance to Arab refugees.
+Subsec. (f). Pub. L. 95–424, §604, struck out subsec. (f) which related to appropriation of Egyptian pounds for technical and vocational training and other assistance to Arab refugees.
 
 Subsec. (g). Pub. L. 95–424, §604, struck out subsec. (g) which related to availability of funds for the International Atomic Energy Agency.
 
@@ -218,5 +218,5 @@ Section 117(b)(2) of Pub. L. 95–424 which provided that, not later than Jan. 3
 
 #### Authorization of Appropriations for Contributions to the World Assembly on Aging
 
-Section 117(e) of Pub. L. 95–424 provided that: “In addition to amounts otherwise available for such purpose,there are authorized to be appropriated to the President not to exceed $1,000,000 for contributions to the World Assembly on Aging to be convened under the auspices of the United Nations, except that the amount so contributed may not exceed 25 percent of the expenditures of such Assembly. Amounts appropriated under this subsection \[this note\] are authorized to remain available until expended.”
+Section 117(e) of Pub. L. 95–424 provided that: “In addition to amounts otherwise available for such purpose, there are authorized to be appropriated to the President not to exceed $1,000,000 for contributions to the World Assembly on Aging to be convened under the auspices of the United Nations, except that the amount so contributed may not exceed 25 percent of the expenditures of such Assembly. Amounts appropriated under this subsection \[this note\] are authorized to remain available until expended.”
 

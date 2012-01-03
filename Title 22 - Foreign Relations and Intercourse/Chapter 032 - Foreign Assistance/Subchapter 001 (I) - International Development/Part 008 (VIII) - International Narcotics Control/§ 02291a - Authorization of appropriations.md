@@ -34,7 +34,7 @@
 
 #### (d) Administrative assistance
 
-(1) Except as provided in paragraph (2), personnel funded pursuant to this section are authorized to provide administrative assistance to personnel assigned to the bureau designated by theSecretary of State to replace the Bureau for International Narcotics Matters.
+(1) Except as provided in paragraph (2), personnel funded pursuant to this section are authorized to provide administrative assistance to personnel assigned to the bureau designated by the Secretary of State to replace the Bureau for International Narcotics Matters.
 
 (2) Paragraph (1) shall not apply to the extent that it would result in a reduction in funds available for antinarcotics assistance to foreign countries.
 
@@ -78,7 +78,7 @@ Subsec. (d). Pub. L. 101–231, §17(g), inserted “Contribution by recipient c
 
 Pub. L. 99–570, §2002(2), inserted provisions that if the President submits a detailed plan for use of the money, an additional $45,000,000 may be appropriated to carry out the purpose of section 2291 of this title, of which at least $10,000,000 shall be used primarily for helicopters or other aircraft based in Latin America for use for narcotics control, eradication, and interdiction efforts throughout the region.
 
-Pub. L. 99–529, which directed the substitution of “$65,445,000 for the fiscal year 1987” for “$57,529,000 for the fiscal year 1987”, was executed by substituting the new phrase for “$57,529,000 for fiscal year 1987” to reflect the probable intent of Congress.
+Pub. L. 99–529, which directed the substitution of “$65,445,000 for the fiscal year 1987” for “$57,529,000 forthe fiscal year 1987”, was executed by substituting the new phrase for “$57,529,000 for fiscal year 1987” to reflect the probable intent of Congress.
 
 <b>1985</b>—Subsec. (a)(1). Pub. L. 99–83, §602, amended par. (1) generally, substituting provisions authorizing appropriations of $57,529,000 for fiscal years 1986 and 1987, for provisions authorizing appropriations of $37,700,000 for fiscal years 1982 and 1983.
 
@@ -88,7 +88,7 @@ Subsec. (d). Pub. L. 99–83, §608, added subsec. (d).
 
 <b>1981</b>—Subsec. (a). Pub. L. 97–113, in par. (1), substituted appropriations authorization of $37,700,000 for fiscal years 1982 and 1983 for appropriation of $38,573,000 for fiscal year 1981, redesignated par. (3) as (2), and deleted former par. (2) which limited the contribution to the United Nations Fund for Drug Abuse Control from fiscal year 1981 appropriated funds to lesser of $3,000,000 or 50 percent of the total contributions by all countries to such Fund for the calendar year with respect to which the United States contribution is made.
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–533, §402(a), in par. (1), substituted appropriations authorization of $38,573,000for fiscal year 1981 for such authorization of $51,758,000 for fiscal year 1980, redesignated as par. (3) as (2), substituting therein “1981” and “50 percent” for “1980” and “25 percent”, and deleted former par. (2) authorization of $16,000,000 for interdiction of drug traffic by Republic of Colombia to be used only for helicopters, patrol vessels, fixed radar equipment, transport vehicles, fuel, and for training personnel, and redesignated par. (4) as (3).
+<b>1980</b>—Subsec. (a). Pub. L. 96–533, §402(a), in par. (1), substituted appropriations authorization of $38,573,000 for fiscal year 1981 for such authorization of $51,758,000 for fiscal year 1980, redesignated as par. (3) as (2), substituting therein “1981” and “50 percent” for “1980” and “25 percent”, and deleted former par. (2) authorization of $16,000,000 for interdiction of drug traffic by Republic of Colombia to be used only for helicopters, patrol vessels, fixed radar equipment, transport vehicles, fuel, and for training personnel, and redesignated par. (4) as (3).
 
 Subsec. (c). Pub. L. 96–533, §402(b), added subsec. (c).
 

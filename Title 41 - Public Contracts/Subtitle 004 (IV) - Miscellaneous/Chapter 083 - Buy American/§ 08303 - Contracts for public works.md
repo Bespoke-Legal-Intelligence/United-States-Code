@@ -84,7 +84,7 @@ Ex. Ord. No. 10582, Dec. 17, 1954, 19 F.R. 8723, as amended by Ex. Ord. No. 1105
 
 Section 1. As used in this order, (a) the term “materials” includes articles and supplies, (b) the term “executive agency” includes executive department, independent establishment, and other instrumentality of the executive branch of the Government, and (c) the term “bid or offered price of materials of foreign origin” means the bid or offered price of such materials delivered at the place specified in the invitation to bid including applicable duty and all costs incurred after arrival in the United States.
 
-Sec. 2. (a) For the purposes of this order materials shall be considered to be of foreign origin if the cost ofthe foreign products used in such materials constitutes fifty per centum or more of the cost of all the products used in such materials.
+Sec. 2. (a) For the purposes of this order materials shall be considered to be of foreign origin if the cost of the foreign products used in such materials constitutes fifty per centum or more of the cost of all the products used in such materials.
 
 (b) For the purposes of the said act of March 3, 1933 \[probably means act Mar. 3, 1933, ch. 212, title III, 47 Stat. 1520, see 41 U.S.C. 8301 et seq.\], and the other laws referred to in the first paragraph of the preamble of this order, the bid or offered price of materials of domestic origin shall be deemed to be unreasonable, or the purchase of such materials shall be deemed to be inconsistent with the public interest, if the bid or offered price thereof exceeds the sum of the bid or offered price of like materials of foreign origin and a differential computed as provided in subsection (c) of this section.
 

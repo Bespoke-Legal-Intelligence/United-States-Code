@@ -8,7 +8,7 @@ The Secretary, through the Director of the Prevention Center, shall make grants 
 
 (1) In making grants for drug abuse and alcohol abuse prevention projects under this section, the Secretary shall give priority to applications for projects directed at children of substance abusers, latchkey children, children at risk of abuse or neglect, preschool children eligible for services under the Head Start Act \[42 U.S.C. 9831 et seq.\], children at risk of dropping out of school, children at risk of becoming adolescent parents, and children who do not attend school and who are at risk of being unemployed.
 
-(2) In making grants for drug abuse and alcohol abuse treatment and rehabilitation projects under this section, the Secretary shall give priority to projects which address the relationship between drug abuse or alcohol abuse and physical child abuse, sexual child abuse, emotional child abuse, dropping out of school, unemployment, delinquency, pregnancy, violence, suicide, or mental health problems.
+(2) In making grants for drug abuse and alcohol abuse treatment and rehabilitation projects under this section, the Secretary shall give priority to projects which address the relationshipbetween drug abuse or alcohol abuse and physical child abuse, sexual child abuse, emotional child abuse, dropping out of school, unemployment, delinquency, pregnancy, violence, suicide, or mental health problems.
 
 (3) In making grants under this section, the Secretary shall give priority to applications from community based organizations for projects to develop innovative models with multiple, coordinated services for the prevention or for the treatment and rehabilitation of drug abuse or alcohol abuse by high risk youth.
 

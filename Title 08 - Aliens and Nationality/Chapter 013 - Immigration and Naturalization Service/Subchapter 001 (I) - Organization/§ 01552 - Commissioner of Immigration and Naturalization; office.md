@@ -10,7 +10,7 @@ Section was formerly classified to section 342b of Title 5 prior to the general 
 
 #### Amendments
 
-1952—Act June 27, 1952, struck out second and fourth sentences relating to duties of commissioner and appointment of an assistant commissioner.
+<b>1952</b>—Act June 27, 1952, struck out second and fourth sentences relating to duties of commissioner and appointment of an assistant commissioner.
 
 #### Transfer of Functions
 

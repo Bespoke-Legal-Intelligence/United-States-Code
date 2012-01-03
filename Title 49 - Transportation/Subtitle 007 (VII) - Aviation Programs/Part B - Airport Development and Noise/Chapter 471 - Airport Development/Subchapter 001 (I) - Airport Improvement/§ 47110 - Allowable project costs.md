@@ -8,7 +8,7 @@ General Authority.—Except as provided in section 47111 of this title, the Unit
 
 Allowable Cost Standards.—A project cost is allowable—
 
-&emsp;(1) if the cost necessarily is incurred in carrying out the project in compliance with the grant agreement made for the project under this subchapter, including any cost a sponsor incurs related to an audit the Secretary requires under section 47121(b) or (d) of this titleand any cost of moving a Federal facility impeding the project if the rebuilt facility is of an equivalent size and type;
+&emsp;(1) if the cost necessarily is incurred in carrying out the project in compliance with the grant agreement made for the project under this subchapter, including any cost a sponsor incurs related to an audit the Secretary requires under section 47121(b) or (d) of this title and any cost of moving a Federal facility impeding the project if the rebuilt facility is of an equivalent size and type;
 
 &emsp;(2)(A) if the cost is incurred after the grant agreement is executed and is for airport development or airport planning carried out after the grant agreement is executed;
 
@@ -30,7 +30,7 @@ Allowable Cost Standards.—A project cost is allowable—
 
 &emsp;(5) if the total costs allowed for the project are not more than the amount stated in the grant agreement as the maximum the Government will pay (except as provided in section 47108(b) of this title); and
 
-&emsp;(6) if the cost is for a project not described in section 47102(3) for acquiring for use at a commercial service airport vehicles and ground support equipment owned by an airport that include low-emission technology, but only to the extent of the incremental cost of equipping such vehicles or equipment with low-emission technology, as determined by the Secretary.
+&emsp;(6) if the cost is for a project not described in section 47102(3) for acquiring for use at a commercial service airport vehicles andground support equipment owned by an airport that include low-emission technology, but only to the extent of the incremental cost of equipping such vehicles or equipment with low-emission technology, as determined by the Secretary.
 
 (c)
 
@@ -100,7 +100,7 @@ Nonallowable Costs.—Except as provided in subsection (d) of this section and s
 
 (g)
 
-Use of Discretionary Funds.—A project for which cost reimbursement is provided under subsection (b)(2)(C) shall not receive priority consideration with respect to the use of discretionary funds made available under section 47115 of this title even if the amounts made available under paragraphs (1) and (2) of section 47114(c) or section 47114(d)(3)(A) are not sufficient to cover the Government's share of the cost of the project.
+Use of Discretionary Funds.—A project for which cost reimbursement is provided under subsection (b)(2)(C) shall not receive priority consideration with respect to the use of discretionary funds made available under section 47115 of this title even if the amounts made available under paragraphs (1) and (2) of section 47114(c) or section 47114(d)(3)(A) are not sufficient to coverthe Government's share of the cost of the project.
 
 (h)
 
@@ -247,7 +247,7 @@ Except as otherwise specifically provided, amendment by Pub. L. 104–264 applic
 
 Pub. L. 108–7, div. I, title III, §367, Feb. 20, 2003, 117 Stat. 423, provided that:
 
-“(a) The Under Secretary of Transportation for Security may issue a letter of intent to an airport committing to obligate from future budget authority an amount, not more than the Federal Government's share of the project's cost, for an airport security improvement project (including interest costs and costs of formulating the project) at the airport. The letter shall establish a schedule under which the Under Secretary will reimburse the airport for the Government's share of the project's costs, as amounts become available, if the airport, after the Under Secretary issues the letter,carries out the project without receiving amounts under Chapter 471 of title 49 \[United States Code\].
+“(a) The Under Secretary of Transportation for Security may issue a letter of intent to an airport committing to obligate from future budget authority an amount, not more than the Federal Government's share of the project's cost, for an airport security improvement project (including interest costs and costs of formulating the project) at the airport. The letter shall establish a schedule under which the Under Secretary will reimburse the airport for the Government's share of the project's costs, as amounts become available, if the airport, after the Under Secretary issues the letter, carries out the project without receiving amounts under Chapter 471 of title 49 \[United States Code\].
 
 “(b) The airport shall notify the Under Secretary of the airport's intent to carry out the airport security improvement project before the project begins.
 
@@ -269,7 +269,7 @@ Pub. L. 108–7, div. I, title III, §367, Feb. 20, 2003, 117 Stat. 423, provide
 
 #### Letters of Intent; Duration of Authority and Approval by Congress
 
-Pub. L. 102–388, title III, §320, Oct. 6, 1992, 106 Stat. 1546, provided that: “The authority conferred by section 513(d) of the Airport and Airway Improvement Act of 1982, as amended \[see subsec. (e) of this section\], to issue letters of intent shall remain in effect subsequent to September 30, 1992. Letters of intent may be issued under such subsection to applicants determined to be qualified under such Act \[substantially repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, and reenacted by first section thereof as this subchapter\]: <i>Provided</i>, That, notwithstanding any other provision of law, all such letters of intent in excess of $10,000,000 shall be submitted for approval to the Committees on Appropriations of the Senate and the House of Representatives; the Committee on Commerce, Science, and Transportation of the Senate; and the Committee on Public Works and Transportation \[now Committee on Transportation and Infrastructure\] of the House of Representatives.” Similar provisions were contained in the following prior appropriation acts:
+Pub. L. 102–388, title III, §320, Oct. 6, 1992, 106 Stat. 1546, provided that: “The authority conferred by section 513(d) of the Airport and Airway Improvement Act of 1982, as amended \[see subsec. (e) of this section\], to issue letters of intent shall remain in effect subsequent to September 30, 1992. Letters of intent may be issued under such subsection to applicants determined to be qualified under such Act \[substantially repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, and reenacted by first section thereof as this subchapter\]:<i>Provided</i>, That, notwithstanding any other provision of law, all such letters of intent in excess of $10,000,000 shall be submitted for approval to the Committees on Appropriations of the Senate and the House of Representatives; the Committee on Commerce, Science, and Transportation of the Senate; and the Committee on Public Works and Transportation \[now Committee on Transportation and Infrastructure\] of the House of Representatives.” Similar provisions were contained in the following prior appropriation acts:
 
 Pub. L. 102–143, title III, §320, Oct. 28, 1991, 105 Stat. 942.
 

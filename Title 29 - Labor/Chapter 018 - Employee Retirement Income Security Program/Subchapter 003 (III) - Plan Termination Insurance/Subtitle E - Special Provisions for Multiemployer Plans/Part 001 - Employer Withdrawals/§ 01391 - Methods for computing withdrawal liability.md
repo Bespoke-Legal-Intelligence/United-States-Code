@@ -182,7 +182,7 @@ The amount of the unfunded vested benefits allocable to an employer that withdra
 
 (5)(A) The corporation shall prescribe by regulation a procedure by which a plan may, by amendment, adopt any other alternative method for determining an employer's allocable share of unfunded vested benefits under this section, subject to the approval of the corporation based on its determination that adoption of the method by the plan would not significantly increase the risk of loss to plan participants and beneficiaries or to the corporation.
 
-(B) The corporation may prescribe by regulation standard approaches for alternative methods, other than those set forth in the preceding paragraphs of this subsection, which a plan may adopt under subparagraph (A), for which the corporation may waive or modify the approval requirements of subparagraph (A). Any alternativemethod shall provide for the allocation of substantially all of a plan's unfunded vested benefits among employers who have an obligation to contribute under the plan.
+(B) The corporation may prescribe by regulation standard approaches for alternative methods, other than those set forth in the preceding paragraphs of this subsection, which a plan may adopt under subparagraph (A), for which the corporation may waive or modify the approval requirements of subparagraph (A). Any alternative method shall provide for the allocation of substantially all of a plan's unfunded vested benefits among employers who have an obligation to contribute under the plan.
 
 (C) Unless the corporation by regulation provides otherwise, a plan may be amended to provide that a period of more than 5 but not more than 10 plan years may be used for determining the numerator and denominator of any fraction which is used under any method authorized under this section for determining an employer's allocable share of unfunded vested benefits under this section.
 
@@ -200,7 +200,7 @@ Fresh start option.—Notwithstanding paragraph (1), a plan may be amended to pr
 
 #### (e) Reduction of liability of withdrawn employer in case of transfer of liabilities to another plan incident to withdrawal or partial withdrawal of employer
 
-In the case of a transfer of liabilities to another plan incident to an employer's withdrawal or partial withdrawal, the withdrawn employer's liability under this part shall be reduced in an amount equal to the value, as of the end of the last plan year ending on or before the date of the withdrawal, of the transferred unfunded vested benefits.
+In the case of a transfer of liabilities to another plan incident to an employer's withdrawalor partial withdrawal, the withdrawn employer's liability under this part shall be reduced in an amount equal to the value, as of the end of the last plan year ending on or before the date of the withdrawal, of the transferred unfunded vested benefits.
 
 #### (f) Computations applicable in case of withdrawal following merger of multiemployer plans
 

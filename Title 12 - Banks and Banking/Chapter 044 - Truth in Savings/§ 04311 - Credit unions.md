@@ -2,17 +2,25 @@
 
 #### (a) In general
 
-No regulation prescribed by the Board under this chapter shall apply directly with respect to any depository institution described in clause (iv) of section 461(b)(1)(A) of this title.
+No regulation prescribed by the Bureau under this chapter shall apply directly with respect to any depository institution described in clause (iv) of section 461(b)(1)(A) of this title.
 
 #### (b) Regulations prescribed by NCUA
 
-Within 90 days of the effective date of any regulation prescribed by the Board under this chapter, the National Credit Union Administration Board shall prescribe a regulation substantially similar to the regulation prescribed by the Board taking into account the unique nature of credit unions and the limitations under which they may pay dividends on member accounts.
+Within 90 days of the effective date of any regulation prescribed by the Bureau under this chapter, the National Credit Union Administration Board shall prescribe a regulation substantially similar to the regulation prescribed by the Bureau taking into account the unique nature of credit unions and the limitations under which they may pay dividends on member accounts.
 
-(Pub. L. 102–242, title II, §272, Dec. 19, 1991, 105 Stat. 2342; Pub. L. 102–550, title XVI, §1604(e)(2)(P), (Q), Oct. 28, 1992, 106 Stat. 4084.)
+(Pub. L. 102–242, title II, §272, Dec. 19, 1991, 105 Stat. 2342; Pub. L. 102–550, title XVI, §1604(e)(2)(P), (Q), Oct. 28, 1992, 106 Stat. 4084; Pub. L. 111–203, title X, §1100B(1), (3), July 21, 2010, 124 Stat. 2109, 2110.)
 
 #### Amendments
 
-1992—Pub. L. 102–550 made technical amendment to references to “this chapter” wherever appearing to reflect correction of corresponding provision of original act.
+<b>2010</b>—Subsec. (a). Pub. L. 111–203, §1100B(1), substituted “Bureau” for “Board”.
+
+Subsec. (b). Pub. L. 111–203, §1100B(3), substituted “regulation prescribed by the Bureau” for “regulation prescribed by the Board” in two places.
+
+<b>1992</b>—Pub. L. 102–550 made technical amendment to references to “this chapter” wherever appearing to reflect correction of corresponding provision of original act.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1992 Amendment
 

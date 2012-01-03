@@ -12,15 +12,15 @@ This chapter, referred to in subsec. (a), was in the original, “this Act”, m
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–208 struck out comma after “United States nationality”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–208 struck out comma after “United States nationality”.
 
-1994—Pub. L. 103–416 in section catchline substituted “loss of nationality” for “expatriation”, in subsec. (a) substituted “lose United States nationality” for “expatriate himself, or be expatriated” and “loss of nationality” for “expatriation”, and in subsec. (b) substituted “lost United States nationality” for “expatriated himself”.
+<b>1994</b>—Pub. L. 103–416 in section catchline substituted “loss of nationality” for “expatriation”, in subsec. (a) substituted “lose United States nationality” for “expatriate himself, or be expatriated” and “loss of nationality” for “expatriation”, and in subsec. (b) substituted “lost United States nationality” for “expatriated himself”.
 
-1988—Subsec. (b). Pub. L. 100–525 amended Pub. L. 99–653. See 1986 Amendment note below.
+<b>1988</b>—Subsec. (b). Pub. L. 100–525 amended Pub. L. 99–653. See 1986 Amendment note below.
 
-1986—Subsec. (b). Pub. L. 99–653, as amended by Pub. L. 100–525, substituted “paragraphs (3)” for “paragraphs (2), (4),”.
+<b>1986</b>—Subsec. (b). Pub. L. 99–653, as amended by Pub. L. 100–525, substituted “paragraphs (3)” for “paragraphs (2), (4),”.
 
-1981—Subsec. (a). Pub. L. 97–116, §18(r)(1), substituted “paragraphs (6) and (7) of section 1481(a)” for “paragraphs (7), (8), and (9) of section 1481”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–116, §18(r)(1), substituted “paragraphs (6) and (7) of section 1481(a)” for “paragraphs (7), (8), and (9) of section 1481”.
 
 Subsec. (b). Pub. L. 97–116, §18(r)(2), substituted “and (5)” for “(5), and (6)”.
 

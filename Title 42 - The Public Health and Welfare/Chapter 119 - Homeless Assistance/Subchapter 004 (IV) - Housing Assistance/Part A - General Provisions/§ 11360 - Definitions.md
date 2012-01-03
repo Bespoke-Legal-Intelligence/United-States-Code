@@ -70,7 +70,7 @@ For purposes of this subchapter:
 
 #### (7) Families with children and youth defined as homeless under other Federal statutes
 
-&emsp;The term “families with children and youth defined as homeless under other Federal statutes” means any children or youth that are defined as “homeless” under any Federal statute other than this part, but are not defined as homeless under section 11302 of this title, and shall also include the parent, parents, or guardian of such children or youth under part B of subchapter VI this <sup>1</sup> chapter (42 U.S.C. 11431 et seq.).
+&emsp;The term “families with children and youth defined as homeless under other Federal statutes” means any children or youth that are defined as “homeless” under any Federal statute other than this part, but are not defined as homeless under section 11302 of this title, andshall also include the parent, parents, or guardian of such children or youth under part B of subchapter VI this <sup>1</sup> chapter (42 U.S.C. 11431 et seq.).
 
 #### (8) Geographic area
 

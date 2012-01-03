@@ -1,6 +1,6 @@
 ### §200102. Purposes
 
-The purposes of the corporation are to educate members of the florist industry and the public, and to promote scientific development, in floriculture and horticulture.
+The purposes of the corporation are to educate members of the florist industry and the public,and to promote scientific development, in floriculture and horticulture.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1451.)
 

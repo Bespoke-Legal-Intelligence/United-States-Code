@@ -62,7 +62,7 @@
 
 #### (C) Continuation of enrollment permitted where service changed
 
-&emsp;&emsp;Notwithstanding subparagraph (A) and in addition to subparagraph (B), if a Medicare+Choice organization eliminates from its service area a Medicare+Choice payment area that was previously within its service area, the organization may elect to offer individuals residing in all or portions of the affected area who would otherwise be ineligible to continue enrollment the option to continue enrollment in an MA local plan it offers so long as—
+&emsp;&emsp;Notwithstanding subparagraph (A) and in addition to subparagraph (B), if a Medicare+Choice organization eliminatesfrom its service area a Medicare+Choice payment area that was previously within its service area, the organization may elect to offer individuals residing in all or portions of the affected area who would otherwise be ineligible to continue enrollment the option to continue enrollment in an MA local plan it offers so long as—
 
 &emsp;&emsp;&emsp;(i) the enrollee agrees to receive the full range of basic benefits (excluding emergency and urgently needed care) exclusively at facilities designated by the organization within the plan service area; and
 
@@ -118,7 +118,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), an individual who fails to make an election during an initial election period under subsection (e)(1) of this section is deemed to have chosen theoriginal medicare fee-for-service program option.
+&emsp;&emsp;&emsp;Subject to clause (ii), an individual who fails to make an election during an initial election period under subsection (e)(1) of this section is deemed to have chosen the original medicare fee-for-service program option.
 
 #### (ii) Seamless continuation of coverage
 
@@ -296,7 +296,7 @@
 
 #### (C) Annual 45-day period for disenrollment from MA plans to elect to receive benefits under the original Medicare fee-for-service program
 
-&emsp;&emsp;Subject to subparagraph (D), at any time during the first 45 days of a year (beginning with 2011), an individual who is enrolled in a Medicare Advantage plan may change the election under subsection (a)(1), but only with respect to coverage under the original medicare fee-for-service program under parts A and B, and may elect qualified prescription drug coverage in accordance with section 1395w–101 of this title.
+&emsp;&emsp;Subject to subparagraph (D), at any time during the first 45 days of a year (beginningwith 2011), an individual who is enrolled in a Medicare Advantage plan may change the election under subsection (a)(1), but only with respect to coverage under the original medicare fee-for-service program under parts A and B, and may elect qualified prescription drug coverage in accordance with section 1395w–101 of this title.
 
 #### (D) Continuous open enrollment for institutionalized individuals
 
@@ -488,7 +488,7 @@
 
 #### (4) Prohibition of certain marketing practices
 
-&emsp;Each Medicare+Choice organization shall conform to fair marketing standards, in relation to Medicare+Choice plans offered underthis part, included in the standards established under section 1395w–26 of this title. Such standards—
+&emsp;Each Medicare+Choice organization shall conform to fair marketing standards, in relation to Medicare+Choice plans offered under this part, included in the standards established under section 1395w–26 of this title. Such standards—
 
 &emsp;&emsp;(A) shall not permit a Medicare+Choice organization to provide for, subject to subsection (j)(2)(C), cash, gifts, prizes, or other monetary rebates as an inducement for enrollment or otherwise;
 
@@ -504,7 +504,7 @@
 
 #### (6) Required inclusion of plan type in plan name
 
-&emsp;For plan years beginning on or after January 1, 2010, a Medicare Advantage organization must ensure that the name of each Medicare Advantage plan offered by the Medicare Advantage organization includes the plan type of the plan (using standard terminology developed by the Secretary).
+&emsp;For plan years beginning on or after January 1, 2010, a Medicare Advantage organizationmust ensure that the name of each Medicare Advantage plan offered by the Medicare Advantage organization includes the plan type of the plan (using standard terminology developed by the Secretary).
 
 #### (7) Strengthening the ability of States to act in collaboration with the Secretary to address fraudulent or inappropriate marketing practices
 
@@ -564,7 +564,7 @@
 
 #### (A) Scope of marketing appointments
 
-&emsp;&emsp;The scope of any appointment with respect to the marketing of a Medicare Advantage plan. Such limitation shall require advanceagreement with a prospective enrollee on the scope of the marketing appointment and documentation of such agreement by the Medicare Advantage organization. In the case where the marketing appointment is in person, such documentation shall be in writing.
+&emsp;&emsp;The scope of any appointment with respect to the marketing of a Medicare Advantage plan. Such limitation shall require advance agreement with a prospective enrollee on the scope of the marketing appointment and documentation of such agreement by the Medicare Advantage organization. In the case where the marketing appointment is in person, such documentation shall be in writing.
 
 #### (B) Co-branding
 
@@ -580,17 +580,13 @@
 
 #### (E) Required training, annual retraining, and testing of agents, brokers, and other third parties
 
-&emsp;&emsp;The use by a Medicare Advantage organization of any individual as an agent, broker, or other third party representing the organization that has not completed an initial training and testing program and does not complete an annual retraining and testing program.
+&emsp;&emsp;The use by a Medicare Advantage organization of any individual as an agent, broker, or other third party representing the organization that has not completed an initial training and testing program and does notcomplete an annual retraining and testing program.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1851, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 275; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(k)(6)(A), title V, §§501(a)(1), (b), (c), 502(a), 519(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–367, 1501A–378 to 1501A–380, 1501A–385; Pub. L. 106–554, §1(a)(6) \[title VI, §§606(a)(2)(C), 613(a), 619(a), 620(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–558, 2763A–560, 2763A–563; Pub. L. 107–188, title V, §532(a), (c)(1), June 12, 2002, 116 Stat. 696; Pub. L. 108–173, title I, §102(a), (c)(1), title II, §§221(a)(1), (d)(5), 222(<i>l</i>)(3)(A), (B), (D), (E), 231(a), 233(b), (d), 237(b)(2)(A), Dec. 8, 2003, 117 Stat. 2152, 2154, 2180, 2193, 2206, 2207, 2209, 2212; Pub. L. 109–432, div. B, title II, §206(a), Dec. 20, 2006, 120 Stat. 2990; Pub. L. 110–48, §2, July 18, 2007, 121 Stat. 244; Pub. L. 110–275, title I, §103(a)(1), (b)(1), (c)(1), (d)(1), July 15, 2008, 122 Stat. 2498–2501; Pub. L. 111–5, div. B, title IV, §4102(d)(2), Feb. 17, 2009, 123 Stat. 486; Pub. L. 111–148, title III, §§3201(e)(2)(A)(i), 3204(a)(1), (b), Mar. 23, 2010, 124 Stat. 446, 456; Pub. L. 111–152, title I, §1102(a), Mar. 30, 2010, 124 Stat. 1040.)
 
 #### References in Text
 
-Parts A and B, referred to in text, are classified to section 1395c et seq. and section 1395j et seq., respectively, of this title.
-
 Subsec. (e)(2)(C) of this section, referred to in subsec. (e)(2)(B)(i), was amended generally by section 3204(a)(1) of Pub. L. 111–148 and, as so amended, no longer contains a cl. (iii).
-
-Part D, referred to in subsec. (e)(2)(E)(iv)(I), is classified to section 1395w–101 et seq. of this title.
 
 #### Amendments
 
@@ -666,7 +662,7 @@ Subsec. (e)(2)(C)(i). Pub. L. 108–173, §102(a)(6)(B), substituted “clauses 
 
 Subsec. (e)(2)(C)(iii). Pub. L. 108–173, §102(a)(6)(C), added cl. (iii).
 
-Subsec. (e)(3)(B). Pub. L. 108–173, §102(a)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “For purposes of this section, the term ‘annual, coordinated election period’ means, with respect to a year before 2003 and after 2005, the month of November before such year and with respect to 2003, 2004, and 2005, the period beginning on November 15 and ending on December 31 of the year before such year.”
+Subsec. (e)(3)(B). Pub. L. 108–173, §102(a)(2), reenacted heading without change and amended text generally.Prior to amendment, text read as follows: “For purposes of this section, the term ‘annual, coordinated election period’ means, with respect to a year before 2003 and after 2005, the month of November before such year and with respect to 2003, 2004, and 2005, the period beginning on November 15 and ending on December 31 of the year before such year.”
 
 Subsec. (e)(3)(C). Pub. L. 108–173, §102(a)(3)(A), inserted “and during the period described in subparagraph (B)(iii)” after “(beginning with 1999)”.
 
@@ -750,7 +746,7 @@ Pub. L. 110–275, title I, §103(d)(3), July 15, 2008, 122 Stat. 2501, provided
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–173, title I, §102(c)(2), Dec. 8, 2003, 117 Stat. 2154, provided that: “The amendments made by this subsection \[amending this section\] shall apply on and after January 1, 2006.”
+Pub. L. 108–173, title I, §102(c)(2), Dec. 8, 2003, 117 Stat. 2154, provided that: “The amendments made by thissubsection \[amending this section\] shall apply on and after January 1, 2006.”
 
 Pub. L. 108–173, title II, §223(a), Dec. 8, 2003, 117 Stat. 2207, provided that: “The amendments made by this subtitle \[subtitle C (§§221–223) of title II of Pub. L. 108–173, enacting section 1395w–27a of this title and amending this section and sections 1395r, 1395s, 1395w, 1395w–22 to 1395w–24, 1395w–27, and 1395w–28 of this title\] shall apply with respect to plan years beginning on or after January 1, 2006.”
 
@@ -804,7 +800,7 @@ Pub. L. 108–173, title II, §221(b)(2), Dec. 8, 2003, 117 Stat. 2181, provided
 
 #### No Cuts in Guaranteed Benefits.
 
-Pub. L. 111–148, title III, §3602, Mar. 23, 2010, 124 Stat. 538, provided that: “Nothing in this Act \[see ShortTitle note set out under section 18001 of this title\] shall result in the reduction or elimination of any benefits guaranteed by law to participants in Medicare Advantage plans.”
+Pub. L. 111–148, title III, §3602, Mar. 23, 2010, 124 Stat. 538, provided that: “Nothing in this Act \[see Short Title note set out under section 18001 of this title\] shall result in the reduction or elimination of any benefits guaranteed by law to participants in Medicare Advantage plans.”
 
 #### Implementation of Medicare Advantage Program
 
@@ -862,7 +858,7 @@ Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §551\], Nov. 29, 1999, 113 S
 
 #### Report on Medicare MSA (Medical Savings Account) Plans
 
-Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §552(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–393, directed the Medicare Payment Assessment Commission to submit to Congress, no later than 1 year after Nov. 29, 1999, a report on specific legislative changes that should bemade to make MSA plans a viable option under the Medicare+Choice program.
+Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §552(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–393, directed the Medicare Payment Assessment Commission to submit to Congress, no later than 1 year after Nov. 29, 1999, a report on specific legislative changes that should be made to make MSA plans a viable option under the Medicare+Choice program.
 
 #### GAO Audit and Reports on Provision of Medicare+Choice Health Information to Beneficiaries
 
@@ -882,7 +878,7 @@ Section 4002(c) of Pub. L. 105–33 provided that: “An individual who is enrol
 
 #### Secretarial Submission of Legislative Proposal
 
-Pub. L. 105–33, title IV, §4002(f)(2), Aug. 5, 1997, 111 Stat. 330, directed the Secretary of Health and Human Services to submit to Congress, no later than 6 months after Aug. 5, 1997, proposed technical and conforming amendments in the law as required by the provisions of chapter 1 (§§4001–4006) of subtitle A of title IV of Pub. L. 105–33.
+Pub. L. 105–33, title IV, §4002(f)(2), Aug. 5, 1997, 111 Stat. 330, directed the Secretary of Health and Human Services to submit to Congress, no later than 6 monthsafter Aug. 5, 1997, proposed technical and conforming amendments in the law as required by the provisions of chapter 1 (§§4001–4006) of subtitle A of title IV of Pub. L. 105–33.
 
 #### Report on Integration and Transition
 

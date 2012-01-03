@@ -22,7 +22,7 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### Amendments
 
-1950—Subsec. (a). Act Aug. 3, 1950, struck out “to” before “examine” in second sentence.
+<b>1950</b>—Subsec. (a). Act Aug. 3, 1950, struck out “to” before “examine” in second sentence.
 
 #### Annual Report on Drug Interdiction
 

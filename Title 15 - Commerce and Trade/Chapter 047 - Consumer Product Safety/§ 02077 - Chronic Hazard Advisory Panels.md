@@ -54,7 +54,7 @@ A prior section 2077, Pub. L. 92–573, §28, Oct. 27, 1972, 86 Stat. 1230, prov
 
 #### Effective Date
 
-Section applicable with respect to regulations under this chapter and chapters 25 and 30 of this title forwhich notices of proposed rulemaking are issued after Aug. 14, 1981, see section 1215 of Pub. L. 97–35, set out as an Effective Date of 1981 Amendment note under section 2052 of this title.
+Section applicable with respect to regulations under this chapter and chapters 25 and 30 of this title for which notices of proposed rulemaking are issued after Aug. 14, 1981, see section 1215 of Pub. L. 97–35, set out as an Effective Date of 1981 Amendment note under section 2052 of this title.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

@@ -2,7 +2,7 @@
 
 #### (a) Uses of funds
 
-A local educational agency or consortium that receives a subgrant under this part shall provide the subgrant funds to schools that are eligible for assistance under part A of this subchapter and served by the agency, to enable the schools to implement a comprehensive school reform program that—
+A local educational agency or consortium that receives a subgrant under this part shall providethe subgrant funds to schools that are eligible for assistance under part A of this subchapter and served by the agency, to enable the schools to implement a comprehensive school reform program that—
 
 &emsp;(1) employs proven strategies and proven methods for student learning, teaching, and school management that are based on scientifically based research and effective practices and have been replicated successfully in schools;
 
@@ -18,7 +18,7 @@ A local educational agency or consortium that receives a subgrant under this par
 
 &emsp;(7) provides for the meaningful involvement of parents and the local community in planning, implementing, and evaluating school improvement activities consistent with section 6318 of this title;
 
-&emsp;(8) uses high quality external technical support and assistance from an entity that has experience and expertise in schoolwide reformand improvement, which may include an institution of higher education;
+&emsp;(8) uses high quality external technical support and assistance from an entity that has experience and expertise in schoolwide reform and improvement, which may include an institution of higher education;
 
 &emsp;(9) includes a plan for the annual evaluation of the implementation of school reforms and the student results achieved;
 

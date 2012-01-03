@@ -30,7 +30,7 @@
 
 &emsp;&emsp;&emsp;(i) an amount equal to not more than 25 percent of the allocation it received under this subpart for such fiscal year; or
 
-&emsp;&emsp;&emsp;(ii) upon a demonstration of good cause by such agency and approval by the State educational agency, an amount that exceeds 25 percent of such allocation.
+&emsp;&emsp;&emsp;(ii) upon a demonstration of good cause by such agency and approval by the Stateeducational agency, an amount that exceeds 25 percent of such allocation.
 
 #### (C) Reallocation
 
@@ -100,7 +100,7 @@ An application submitted by a local educational agency under this section shall 
 
 &emsp;&emsp;(D) a crisis management plan for responding to violent or traumatic incidents on school grounds; and
 
-&emsp;&emsp;(E) a code of conduct policy for all students that clearly states the responsibilities of students, teachers, and administrators in maintaining a classroom environment that—
+&emsp;&emsp;(E) a code of conduct policy for all students that clearly states the responsibilitiesof students, teachers, and administrators in maintaining a classroom environment that—
 
 &emsp;&emsp;&emsp;(i) allows a teacher to communicate effectively with all students in the class;
 

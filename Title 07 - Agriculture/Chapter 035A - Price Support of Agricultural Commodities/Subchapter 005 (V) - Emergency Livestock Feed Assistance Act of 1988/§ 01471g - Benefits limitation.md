@@ -16,7 +16,7 @@ The Secretary shall issue regulations—
 
 #### (c) Receipt of other disaster payments
 
-No person may receive benefits under this subchapter attributable to lost production of a feed commodity due to a natural disaster in 1988 to the extent that such person receives a disaster payment under the Disaster Assistance Act of 1988 on such lost production.
+No person may receive benefits under this subchapter attributable to lost production of a feed commodity due to a natural disaster in 1988 tothe extent that such person receives a disaster payment under the Disaster Assistance Act of 1988 on such lost production.
 
 #### (d) Total combined payment and benefits limitation
 
@@ -26,7 +26,7 @@ Each person otherwise eligible for a livestock emergency benefit under this subc
 
 #### References in Text
 
-Section 1703(a) of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (b)(1), probably meanssection 1603 of Pub. L. 110–246, because Pub. L. 110–246 does not contain a section 1703 and subsec. (b)(3) of section 1603 of Pub. L. 110–246 amended section 1308 of this title by striking out provisions relating to issuance of regulations defining “person”.
+Section 1703(a) of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (b)(1), probably means section 1603 of Pub. L. 110–246, because Pub. L. 110–246 does not contain a section 1703 and subsec. (b)(3) of section 1603 of Pub. L. 110–246 amended section 1308 of this title by striking out provisions relating to issuance of regulations defining “person”.
 
 The Disaster Assistance Act of 1988, referred to in subsecs. (c) and (d), is Pub. L. 100–387, Aug. 11, 1988, 102 Stat. 924. Section 211(c) of that act is set out as a note under section 1421 of this title. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under section 1421 of this title and Tables.
 
@@ -36,7 +36,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (b)(1). Pub. L. 110–246, §1603(g)(2), inserted “(before the amendment made by section 1703(a) of the Food, Conservation, and Energy Act of 2008)” after “section 1308 of this title”.
+<b>2008</b>—Subsec. (b)(1). Pub. L. 110–246, §1603(g)(2), inserted “(before the amendment made by section 1703(a) of the Food, Conservation, and Energy Act of 2008)” after “section 1308 of this title”.
 
 #### Effective Date of 2008 Amendment
 

@@ -36,7 +36,7 @@
 
 #### (A) Amount
 
-&emsp;&emsp;The amount of any reimbursement under this subsection shall be determined at the usual rate established by the United Nations.
+&emsp;&emsp;The amount of any reimbursement under this subsection shall be determined at theusual rate established by the United Nations.
 
 #### (B) Form
 

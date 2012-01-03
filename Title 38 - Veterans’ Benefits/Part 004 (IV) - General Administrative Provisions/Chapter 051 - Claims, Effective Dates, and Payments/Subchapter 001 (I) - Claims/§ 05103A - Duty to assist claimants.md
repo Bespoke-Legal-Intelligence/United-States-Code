@@ -4,7 +4,7 @@
 
 Duty To Assist.—(1) The Secretary shall make reasonable efforts to assist a claimant in obtaining evidence necessary to substantiate the claimant's claim for a benefit under a law administered by the Secretary.
 
-(2) The Secretary is not required to provide assistance to a claimant under this section if noreasonable possibility exists that such assistance would aid in substantiating the claim.
+(2) The Secretary is not required to provide assistance to a claimant under this section if no reasonable possibility exists that such assistance would aid in substantiating the claim.
 
 (3) The Secretary may defer providing assistance under this section pending the submission by the claimant of essential information missing from the claimant's application.
 
@@ -12,7 +12,7 @@ Duty To Assist.—(1) The Secretary shall make reasonable efforts to assist a cl
 
 Assistance in Obtaining Records.—(1) As part of the assistance provided under subsection (a), the Secretary shall make reasonable efforts to obtain relevant records (including private records) that the claimant adequately identifies to the Secretary and authorizes the Secretary to obtain.
 
-(2) Whenever the Secretary, after making such reasonable efforts, is unable to obtain all of the relevant records sought, the Secretary shall notify the claimant that the Secretary is unable to obtain records with respect to the claim. Such a notification shall—
+(2) Whenever the Secretary, after making such reasonable efforts, is unable to obtain all of therelevant records sought, the Secretary shall notify the claimant that the Secretary is unable to obtain records with respect to the claim. Such a notification shall—
 
 &emsp;(A) identify the records the Secretary is unable to obtain;
 

@@ -22,7 +22,7 @@ Only one payment of tax under section 4251 shall be required with respect to the
 
 #### (f) Common carriers and communications companies
 
-No tax shall be imposed under section 4251 on the amount paid for any toll telephone servicedescribed in section 4252(b)(2) to the extent that the amount so paid is for use by a common carrier, telephone or telegraph company, or radio broadcasting station or network in the conduct of its business as such.
+No tax shall be imposed under section 4251 on the amount paid for any toll telephone service described in section 4252(b)(2) to the extent that the amount so paid is for use by a common carrier, telephone or telegraph company, or radio broadcasting station or network in the conduct of its business as such.
 
 #### (g) Installation charges
 
@@ -110,7 +110,7 @@ Subsecs. (h) to (j). Pub. L. 89–44 struck out subsecs. (h) to (j), which relat
 
 <b>1958</b>—Subsec. (a). Pub. L. 85–859 substituted “general telephone service, or with respect to toll telephone service or telegraph service if the charge for such toll telephone service or telegraph service is less than 25 cents” for “local telephone service”.
 
-Subsec. (b). Pub. L. 85–859 substituted “general telephone service, on any payment received from any person for services used” for “local telephone service, upon any payment received from any person for services or facilities utilized”.
+Subsec. (b). Pub. L. 85–859 substituted “general telephone service, on any payment received from any person for services used” for “local telephone service,upon any payment received from any person for services or facilities utilized”.
 
 Subsec. (c). Pub. L. 85–859 substituted “on any payment received for services furnished to an international organization, or to the American National Red Cross” for “upon any payment received for services or facilities furnished to an international organization, or any organization created by act of Congress to act in matters of relief under the treaty of Geneva of August 22, 1864”.
 

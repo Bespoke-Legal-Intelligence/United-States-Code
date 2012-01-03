@@ -56,7 +56,7 @@
 
 &emsp;(B) shall, except as provided in subparagraph (C), remain in effect for not more than 180 days after the date of publication, and may be extended by publication in the Federal Register for one additional period of not more than 186 days, provided the public has had an opportunity to comment on the emergency regulation or interim measure, and, in the case of a Council recommendation for emergency regulations or interim measures, the Council is actively preparing a fishery management plan, plan amendment, or proposed regulations to address the emergency or overfishing on a permanent basis;
 
-&emsp;(C) that responds to a public health emergency or an oil spill may remain in effect until the circumstances that created the emergencyno longer exist, <i>Provided</i>, That the public has an opportunity to comment after the regulation is published, and, in the case of a public health emergency, the Secretary of Health and Human Services concurs with the Secretary's action; and
+&emsp;(C) that responds to a public health emergency or an oil spill may remain in effect until the circumstances that created the emergency no longer exist, <i>Provided</i>, That the public has an opportunity to comment after the regulation is published, and, in the case of a public health emergency, the Secretary of Health and Human Services concurs with the Secretary's action; and
 
 &emsp;(D) may be terminated by the Secretary at an earlier date by publication in the Federal Register of a notice of termination, except for emergency regulations or interim measures promulgated under paragraph (2) in which case such early termination may be made only upon the agreement of the Secretary and the Council concerned.
 
@@ -98,7 +98,7 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.),<sup>1</sup> the Re
 
 (1) Within 6 months after October 11, 1996, the Secretary shall establish an exclusive central registry system (which may be administered on a regional basis) for limited access system permits established under section 1853(b)(6) of this title or other Federal law, including limited access privileges, which shall provide for the registration of title to, and interests in, such permits, as well as for procedures for changes in the registration of title to such permits upon the occurrence of involuntary transfers, judicial or nonjudicial foreclosure of interests, enforcement of judgments thereon, and related matters deemed appropriate by the Secretary. Such registry system shall—
 
-&emsp;(A) provide a mechanism for filing notice of a nonjudicial foreclosure or enforcement of a judgment by which the holder of a senior security interest acquires or conveys ownership of a permit, and in the event of a nonjudicialforeclosure, by which the interests of the holders of junior security interests are released when the permit is transferred;
+&emsp;(A) provide a mechanism for filing notice of a nonjudicial foreclosure or enforcement of a judgment by which the holder of a senior security interest acquires or conveys ownership of a permit, and in the event of a nonjudicial foreclosure, by which the interests of the holders of junior security interests are released when the permit is transferred;
 
 &emsp;(B) provide for public access to the information filed under such system, notwithstanding section 1881a(b) of this title; and
 
@@ -110,7 +110,7 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.),<sup>1</sup> the Re
 
 (4) The priority of security interests shall be determined in order of filing, the first filed having the highest priority. A validly-filed security interest shall remain valid and perfected notwithstanding a change in residence or place of business of the owner of record. For the purposes of this subsection, “security interest” shall include security interests, assignments, liens and other encumbrances of whatever kind.
 
-(5)(A) Notwithstanding section 1854(d)(1) of this title, the Secretary shall collect a reasonable fee of not more than one-half of one percent of the value of a limited access system permit upon registration of the title to such permit with the central registry system and upon the transfer of such registered title. Any such fee collected shall be deposited in the Limited Access System Administration Fund established under subparagraph (B).
+(5)(A) Notwithstanding section 1854(d)(1) of this title, the Secretary shall collect a reasonable fee of not more than one-half of one percent of the value of a limited access system permitupon registration of the title to such permit with the central registry system and upon the transfer of such registered title. Any such fee collected shall be deposited in the Limited Access System Administration Fund established under subparagraph (B).
 
 (B) There is established in the Treasury a Limited Access System Administration Fund. The Fund shall be available, without appropriation or fiscal year limitation, only to the Secretary for the purposes of—
 
@@ -172,7 +172,7 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.),<sup>1</sup> the Re
 
 &emsp;&emsp;&emsp;(iii) The village of Saint Paul through the Central Bering Sea Fishermen's Association.
 
-&emsp;&emsp;&emsp;(iv) The villages of Chefornak, Chevak, Eek, Goodnews Bay, Hooper Bay, Kipnuk, Kongiganak, Kwigillingok, Mekoryuk, Napakiak, Napaskiak, Newtok, Nightmute, Oscarville, Platinum, Quinhagak, Scammon Bay, Toksook Bay, Tuntutuliak, and Tununak through the Coastal Villages Region Fund.
+&emsp;&emsp;&emsp;(iv) The villages of Chefornak, Chevak, Eek, Goodnews Bay, Hooper Bay, Kipnuk,Kongiganak, Kwigillingok, Mekoryuk, Napakiak, Napaskiak, Newtok, Nightmute, Oscarville, Platinum, Quinhagak, Scammon Bay, Toksook Bay, Tuntutuliak, and Tununak through the Coastal Villages Region Fund.
 
 &emsp;&emsp;&emsp;(v) The villages of Brevig Mission, Diomede, Elim, Gambell, Golovin, Koyuk, Nome, Saint Michael, Savoonga, Shaktoolik, Stebbins, Teller, Unalakleet, Wales, and White Mountain through the Norton Sound Economic Development Corporation.
 
@@ -250,7 +250,7 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.),<sup>1</sup> the Re
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;During calendar year 2012 and every 10 years thereafter, the State of Alaska shall evaluate the performance of each entity participating in the program based on the criteria described in clause (ii).
+&emsp;&emsp;&emsp;During calendar year 2012 and every 10 years thereafter, the State of Alaska shall evaluate the performance of each entityparticipating in the program based on the criteria described in clause (ii).
 
 #### (ii) Criteria
 
@@ -348,7 +348,7 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.),<sup>1</sup> the Re
 
 #### (2) Cure
 
-&emsp;If the Secretary makes a determination that such actions are not consistent with the plan,the Secretary shall, in consultation with the Council, and after notifying the affected State, develop and implement measures to cure the inconsistency pursuant to section 1856(b) of this title.
+&emsp;If the Secretary makes a determination that such actions are not consistent with the plan, the Secretary shall, in consultation with the Council, and after notifying the affected State, develop and implement measures to cure the inconsistency pursuant to section 1856(b) of this title.
 
 (Pub. L. 94–265, title III, §305, Apr. 13, 1976, 90 Stat. 354; Pub. L. 96–561, title II, §235, Dec. 22, 1980, 94 Stat. 3299; Pub. L. 97–453, §8, Jan. 12, 1983, 96 Stat. 2490; Pub. L. 101–627, title I, §§110(b)(2), 111(a)(1), (b), Nov. 28, 1990, 104 Stat. 4451, 4452; Pub. L. 104–297, title I, §§110(a)–(d), 111(a), Oct. 11, 1996, 110 Stat. 3587–3590, 3592; Pub. L. 109–241, title IV, §416(a), July 11, 2006, 120 Stat. 540; Pub. L. 109–479, §3(d)(3), title I, §§108–110, 116(b)(1), Jan. 12, 2007, 120 Stat. 3578, 3594–3596, 3606.)
 

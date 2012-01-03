@@ -34,7 +34,7 @@ As used in this section:
 
 #### (7) Gross negligence
 
-&emsp;The term “gross negligence” means voluntary and conscious conduct (including a failure to act) by a person who, at the time of the conduct, knew that the conduct was likelyto be harmful to the health or well-being of another person.
+&emsp;The term “gross negligence” means voluntary and conscious conduct (including a failure to act) by a person who, at the time of the conduct, knew that the conduct was likely to be harmful to the health or well-being of another person.
 
 #### (8) Intentional misconduct
 

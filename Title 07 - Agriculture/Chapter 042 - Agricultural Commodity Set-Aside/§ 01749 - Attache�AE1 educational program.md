@@ -6,5 +6,5 @@ The Administrator of the Foreign Agricultural Service shall establish a program 
 
 #### Amendments
 
-1991—Pub. L. 102–237, §316, made technical amendment to directory language of Pub. L. 101–624, §1532, which enacted this section, resulting in no change in text.
+<b>1991</b>—Pub. L. 102–237, §316, made technical amendment to directory language of Pub. L. 101–624, §1532, which enacted this section, resulting in no change in text.
 

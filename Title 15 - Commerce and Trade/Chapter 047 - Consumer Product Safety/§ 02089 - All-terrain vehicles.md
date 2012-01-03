@@ -108,3 +108,7 @@ August 14, 2008, referred to in subsec. (a)(2)(B), was in the original “the da
 
 Subsec. (c) of this section effective on the date that is 30 days after Aug. 14, 2008, see section 239(a) of Pub. L. 110–314, set out as an Effective Date of 2008 Amendment note under section 2051 of this title.
 
+#### Deadline for Rule by Consumer Product Safety Commission on Standards for All Terrain Vehicles
+
+Pub. L. 112–28, §9, Aug. 12, 2011, 125 Stat. 282, provided that: “The Commission shall issue the final rule described in section 42(d) of the Consumer Product Safety Act (15 U.S.C. 2089(d)) not later than 1 year after the date of enactment of this Act \[Aug. 12, 2011\].”
+

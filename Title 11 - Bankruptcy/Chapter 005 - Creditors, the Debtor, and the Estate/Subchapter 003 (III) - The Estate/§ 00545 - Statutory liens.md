@@ -26,7 +26,7 @@ The trustee may avoid the fixing of a statutory lien on property of the debtor t
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 545 of the House amendment modifies similar provisions contained in the House bill and Senate amendment to make clear that a statutory lien may be avoided under section 545 only to the extent the lien violates the perfection standards of section 545. Thus a Federal tax lien is invalid under section 545(2) with respect to property specified in sections 6323(b) and (c) of the Internal Revenue Code of 1954 \[title 26\]. As a result of this modification, section 545(b) of the Senate amendment is deleted as unnecessary.
 
@@ -44,9 +44,9 @@ Section 6323 of the Internal Revenue Code of 1986, referred to in par. (2), is c
 
 #### Amendments
 
-2005—Par. (2). Pub. L. 109–8 inserted before semicolon at end “, except in any case in which a purchaser is a purchaser described in section 6323 of the Internal Revenue Code of 1986, or in any other similar provision of State or local law”.
+<b>2005</b>—Par. (2). Pub. L. 109–8 inserted before semicolon at end “, except in any case in which a purchaser is a purchaser described in section 6323 of the Internal Revenue Code of 1986, or in any other similar provision of State or local law”.
 
-1984—Par. (1)(A). Pub. L. 98–353, §460(1), struck out “is” after “is”.
+<b>1984</b>—Par. (1)(A). Pub. L. 98–353, §460(1), struck out “is” after “is”.
 
 Par. (1)(C). Pub. L. 98–353, §460(2), substituted “appointed or authorized to take” for “apponted”.
 

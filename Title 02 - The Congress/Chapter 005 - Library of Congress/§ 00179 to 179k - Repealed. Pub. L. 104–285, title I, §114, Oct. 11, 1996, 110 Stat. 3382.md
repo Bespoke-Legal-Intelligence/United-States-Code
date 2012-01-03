@@ -6,7 +6,7 @@ Section 179a, Pub. L. 102–307, title II, §203, June 26, 1992, 106 Stat. 267, 
 
 Section 179b, Pub. L. 102–307, title II, §204, June 26, 1992, 106 Stat. 268, related to establishment of National Film Preservation Board and provided for number and appointment of members, chairperson, term of office, quorum, basic pay, meetings, and conflict of interest.
 
-Section 179c, Pub. L. 102–307, title II, §205, June 26, 1992, 106 Stat. 270, related to responsibilities and powers of Board, including consultation with Librarian with respect to inclusion of films in Registry, consideration of films nominated for inclusion in Registry, and general powers.
+Section 179c, Pub. L. 102–307, title II, §205, June 26, 1992, 106 Stat. 270, related to responsibilities and powers of Board, including consultation with Librarian with respect to inclusion of films in Registry, considerationof films nominated for inclusion in Registry, and general powers.
 
 Section 179d, Pub. L. 102–307, title II, §206, June 26, 1992, 106 Stat. 270, related to National Film Registry Collection of Library of Congress, including provisions relating to acquisition of archival quality copies and additional materials, ownership of copies and additional materials by United States, and maintenance of and access to Collection.
 
@@ -28,5 +28,5 @@ For similar provisions, see section 179<i>l</i> et seq. of this title.
 
 #### Short Title
 
-Pub. L. 102–307, title II, §201, June 26, 1992, 106 Stat. 267, which provided that title II of Pub. L. 102–307,which enacted sections 179 to 179k of this title and repealed sections 178 to 178<i>l</i> of this title and provisions set out as a note under section 178 of this title, was to be cited as the “National Film Preservation Act of 1992”, was repealed by Pub. L. 104–285, title I, §114, Oct. 11, 1996, 110 Stat. 3382.
+Pub. L. 102–307, title II, §201, June 26, 1992, 106 Stat. 267, which provided that title II of Pub. L. 102–307, which enacted sections 179 to 179k of this title and repealed sections 178 to 178<i>l</i> of this title and provisions set out as a note under section 178 of this title, was to be cited as the “National Film Preservation Act of 1992”, was repealed by Pub. L. 104–285, title I, §114, Oct. 11, 1996, 110 Stat. 3382.
 

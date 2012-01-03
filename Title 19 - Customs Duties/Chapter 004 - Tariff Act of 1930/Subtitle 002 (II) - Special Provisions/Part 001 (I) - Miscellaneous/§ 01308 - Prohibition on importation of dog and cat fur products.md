@@ -48,7 +48,7 @@ In this section:
 
 #### (2) Exception
 
-&emsp;This subsection shall not apply to the importation, exportation, or transportation, fornoncommercial purposes, of a personal pet that is deceased, including a pet preserved through taxidermy.
+&emsp;This subsection shall not apply to the importation, exportation, or transportation, for noncommercial purposes, of a personal pet that is deceased, including a pet preserved through taxidermy.
 
 #### (c) Penalties and enforcement
 
@@ -94,7 +94,7 @@ In this section:
 
 #### (6) Affirmative defense
 
-&emsp;Any person accused of a violation under this section has a defense to any proceeding brought under this section on account of such violation if that person establishes by a preponderance of the evidence that the person exercised reasonable care—
+&emsp;Any person accused of a violation under this section has a defense to any proceeding brought under this section on account of suchviolation if that person establishes by a preponderance of the evidence that the person exercised reasonable care—
 
 &emsp;&emsp;(A) in determining the nature of the products alleged to have resulted in such violation; and
 
@@ -154,7 +154,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;“(4) Forensic texts have documented that dog and cat fur products are being imported into the United States subject to deceptive labels or other practices designed to conceal the use of dog or cat fur in the production of wearing apparel, toys, and other products.
 
-&emsp;“(5) Publicly available evidence reflects ongoing significant use of dogs and cats bred expressly for their fur by foreign fur producers for manufacture into wearing apparel, toys, and other products that have been introduced into United States commerce. The evidence indicates that foreign fur producers also rely on the use of stray dogs and cats and stolen pets for the manufacture of fur products destined for the world and United States markets.
+&emsp;“(5) Publicly available evidence reflects ongoing significant use of dogs and cats bred expressly for their fur by foreign fur producers for manufacture into wearing apparel, toys, and other products that have been introduced into United States commerce.The evidence indicates that foreign fur producers also rely on the use of stray dogs and cats and stolen pets for the manufacture of fur products destined for the world and United States markets.
 
 &emsp;“(6) The methods of housing, transporting, and slaughtering dogs and cats for fur production are generally unregulated and inhumane.
 
@@ -170,7 +170,7 @@ Purposes.—The purposes of this chapter \[chapter 3 (§§1441–1443) of subtit
 
 &emsp;“(1) prohibit imports, exports, sale, manufacture, offer for sale, transportation, and distribution in the United States of dog and cat fur products, in order to ensure that United States market demand does not provide an incentive to slaughter dogs or cats for their fur;
 
-&emsp;“(2) require accurate labeling of fur species so that consumers in the United States can make informedchoices and ensure that they are not unwitting contributors to this gruesome trade; and
+&emsp;“(2) require accurate labeling of fur species so that consumers in the United States can make informed choices and ensure that they are not unwitting contributors to this gruesome trade; and
 
 &emsp;“(3) ensure that the customs laws of the United States are not undermined by illicit international traffic in dog and cat fur products.”
 

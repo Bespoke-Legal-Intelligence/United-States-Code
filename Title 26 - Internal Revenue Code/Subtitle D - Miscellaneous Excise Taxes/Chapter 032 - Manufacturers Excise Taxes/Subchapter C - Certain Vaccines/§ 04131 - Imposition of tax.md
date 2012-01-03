@@ -68,7 +68,7 @@ $4.56&nbsp;
 
 &emsp;“(2)
 
-Combinations of vaccines.—If any taxable vaccine is included in more than 1 category of vaccinesin the table contained in paragraph (1), the amount of the tax imposed by subsection (a) on such vaccine shall be the sum of the amounts determined under such table for each category in which such vaccine is so included.”
+Combinations of vaccines.—If any taxable vaccine is included in more than 1 category of vaccines in the table contained in paragraph (1), the amount of the tax imposed by subsection (a) on such vaccine shall be the sum of the amounts determined under such table for each category in which such vaccine is so included.”
 
 <b>1993</b>—Subsec. (c). Pub. L. 103–66 amended subsec. (c) generally. Prior to amendment, subsec. (c) related to termination of tax if amounts collected exceeded projected fund liability.
 

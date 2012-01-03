@@ -8,7 +8,7 @@ The following terms shall have the meanings, respectively, ascribed to them belo
 
 (c) “Estimated investment” shall mean the estimated cost of the development of the project, as stated in the application submitted to the Secretary for insurance under this subchapter.
 
-(d) “Established investment” shall mean the amount of the reasonable costs, as approved by the Secretary, incurred by the investor in, and necessary for, carrying out all works and undertakings for the development of a project and shall include the premium charge for the first operating year and the cost of all necessary surveys, plans and specifications, architectural, engineering, or other special services, land acquisition, site preparation, construction, and equipment; a reasonable return on the funds of the investor paid out in the course of the development of the project, up to and including the initial occupancy date; necessary expenses in connection with the initial occupancy of the project; and the cost of such other items as the Secretary shall determine to be necessary for the development of the project, (1) less the amount by which the rents and revenues derived from the project up to and including the initial occupancy date exceeded the reasonable and proper expenses, as approved by the Secretary, incurred by the investor in, and necessary for, operating and maintaining said project up to and including the initial occupancy date, or (2) plus the amount by which such expenses exceeded such rents and revenues, as the case may be.
+(d) “Established investment” shall mean the amount of the reasonable costs, as approved by the Secretary, incurred by the investor in, and necessary for, carrying out all works and undertakings for the development of a project and shall include the premium charge for the firstoperating year and the cost of all necessary surveys, plans and specifications, architectural, engineering, or other special services, land acquisition, site preparation, construction, and equipment; a reasonable return on the funds of the investor paid out in the course of the development of the project, up to and including the initial occupancy date; necessary expenses in connection with the initial occupancy of the project; and the cost of such other items as the Secretary shall determine to be necessary for the development of the project, (1) less the amount by which the rents and revenues derived from the project up to and including the initial occupancy date exceeded the reasonable and proper expenses, as approved by the Secretary, incurred by the investor in, and necessary for, operating and maintaining said project up to and including the initial occupancy date, or (2) plus the amount by which such expenses exceeded such rents and revenues, as the case may be.
 
 (e) “Physical completion date” shall mean the last day of the calendar month in which the Secretary determines that the construction of the project is substantially completed and substantially all of the dwellings therein are available for occupancy.
 
@@ -28,7 +28,7 @@ The following terms shall have the meanings, respectively, ascribed to them belo
 
 (m) “Insured annual return” shall have the meaning ascribed to it in section 1747 of this title.
 
-(n) “Minimum annual return” for any operating year shall mean an amount equal to 31/2 per centum of the outstanding investment for such operating year or such lesser amount as shall be agreed upon by the investor and the Secretary.
+(n) “Minimum annual return” for any operating year shall mean an amount equal to 3½ per centum of the outstanding investment for such operating year or such lesser amount as shall be agreed upon by the investor and the Secretary.
 
 (<i>o</i>) “Excess earnings” for any operating year shall mean the net income derived from a project in excess of the minimum annual amortization charge and the minimum annual return and income taxes.
 
@@ -40,17 +40,17 @@ The following terms shall have the meanings, respectively, ascribed to them belo
 
 #### Amendments
 
-1967—Pub. L. 90–19 substituted “Secretary” for “Commissioner” wherever appearing in subsecs. (a) to (e), (i), and (n).
+<b>1967</b>—Pub. L. 90–19 substituted “Secretary” for “Commissioner” wherever appearing in subsecs. (a) to (e), (i), and (n).
 
-1960—Subsec. (q). Pub. L. 86–624 struck out “Hawaii,” before “Puerto Rico”.
+<b>1960</b>—Subsec. (q). Pub. L. 86–624 struck out “Hawaii,” before “Puerto Rico”.
 
-1959—Subsec. (q). Pub. L. 86–70 struck out “Alaska,” before “Hawaii”.
+<b>1959</b>—Subsec. (q). Pub. L. 86–70 struck out “Alaska,” before “Hawaii”.
 
-1952—Subsec. (q). Act July 14, 1952, added subsec. (q).
+<b>1952</b>—Subsec. (q). Act July 14, 1952, added subsec. (q).
 
-1951—Subsec. (n). Act Sept. 1, 1951, §610, inserted “or such lesser amount as shall be agreed upon by the investor and the Commissioner”.
+<b>1951</b>—Subsec. (n). Act Sept. 1, 1951, §610, inserted “or such lesser amount as shall be agreed upon by the investor and the Commissioner”.
 
 Subsec. (<i>o</i>). Act Sept. 1, 1951, §612, inserted “and income taxes”.
 
-1950—Act Apr. 20, 1950, substituted “Commissioner” for “Administrator” wherever appearing.
+<b>1950</b>—Act Apr. 20, 1950, substituted “Commissioner” for “Administrator” wherever appearing.
 

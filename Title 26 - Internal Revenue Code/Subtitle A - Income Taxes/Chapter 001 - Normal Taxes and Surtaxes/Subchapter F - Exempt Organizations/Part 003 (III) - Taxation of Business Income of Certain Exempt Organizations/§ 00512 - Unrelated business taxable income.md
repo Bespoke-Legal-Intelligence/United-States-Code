@@ -20,7 +20,7 @@ For purposes of this title—
 
 #### (A) General rule
 
-&emsp;&emsp;In the case of an organization described in paragraph (7), (9), (17), or (20) of section 501(c), the term “unrelated business taxable income” means the gross income (excluding any exempt function income), less the deductions allowed by this chapter which are directly connected with the production of the gross income (excluding exempt function income), both computed with the modifications provided in paragraphs (6), (10), (11), and (12) of subsection (b). For purposes of the preceding sentence, the deductions provided by sections 243, 244, and 245 (relating to dividends received by corporations) shall be treated as not directly connected with the production of gross income.
+&emsp;&emsp;In the case of an organization described in paragraph (7), (9), (17), or (20) of section501(c), the term “unrelated business taxable income” means the gross income (excluding any exempt function income), less the deductions allowed by this chapter which are directly connected with the production of the gross income (excluding exempt function income), both computed with the modifications provided in paragraphs (6), (10), (11), and (12) of subsection (b). For purposes of the preceding sentence, the deductions provided by sections 243, 244, and 245 (relating to dividends received by corporations) shall be treated as not directly connected with the production of gross income.
 
 #### (B) Exempt function income
 
@@ -118,7 +118,7 @@ The modifications referred to in subsection (a) are the following:
 
 &emsp;(6) The net operating loss deduction provided in section 172 shall be allowed, except that—
 
-&emsp;&emsp;(A) the net operating loss for any taxable year, the amount of the net operating loss carryback or carryover to any taxable year, and the net operating loss deduction for any taxable year shall be determined under section 172 without taking into account any amount of income or deduction which is excluded under this part in computing the unrelated business taxable income; and
+&emsp;&emsp;(A) the net operating loss for any taxable year, the amount of the net operating losscarryback or carryover to any taxable year, and the net operating loss deduction for any taxable year shall be determined under section 172 without taking into account any amount of income or deduction which is excluded under this part in computing the unrelated business taxable income; and
 
 &emsp;&emsp;(B) the terms “preceding taxable year” and “preceding taxable years” as used in section 172 shall not include any taxable year for which the organization was not subject to the provisions of this part.
 
@@ -190,7 +190,7 @@ Paragraph to apply only to certain excess payments.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—Subparagraph (A) shall apply only to the portion of a qualifying specified payment received or accrued by the controlling organization that exceeds the amount which would have been paid or accrued if such payment met the requirements prescribed under section 482.
+In general.—Subparagraph (A) shall apply only to the portion of a qualifying specified payment received or accrued by the controlling organization that exceeds the amount which would have been paid oraccrued if such payment met the requirements prescribed under section 482.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -234,7 +234,7 @@ Related persons.—The Secretary shall prescribe such rules as may be necessary 
 
 &emsp;&emsp;&emsp;(I) a financial institution described in section 581 or 591(a) which is in conservatorship or receivership, or
 
-&emsp;&emsp;&emsp;(II) the conservator or receiver of such an institution (or any government agencyor corporation succeeding to the rights or interests of the conservator or receiver),
+&emsp;&emsp;&emsp;(II) the conservator or receiver of such an institution (or any government agency or corporation succeeding to the rights or interests of the conservator or receiver),
 
 &emsp;&emsp;(ii) such property is designated by the organization within the 9-month period beginning on the date of its acquisition as property held for sale, except that not more than one-half (by value determined as of such date) of property acquired in a single transaction may be so designated,
 
@@ -282,7 +282,7 @@ Affiliate.—For purposes of this subparagraph—
 
 &emsp;&emsp;&emsp;&emsp;(I)
 
-In general.—The determination as to whether an entity is an affiliate of an organization shall be made under rules similar to the rules of section 168(h)(4)(B).
+In general.—The determination as to whether an entity is an affiliate of anorganization shall be made under rules similar to the rules of section 168(h)(4)(B).
 
 &emsp;&emsp;&emsp;&emsp;(II)
 
@@ -368,7 +368,7 @@ Request for certification.—Any request by an eligible taxpayer for a certifica
 
 &emsp;&emsp;&emsp;(iii)
 
-Attachment to tax returns.—A copy of each of the requests for certification described in clause (ii) of subparagraph (C) and this subparagraph shall be included in the tax return of the eligibletaxpayer (and, where applicable, of the qualifying partnership) for the taxable year during which the transfer occurs.
+Attachment to tax returns.—A copy of each of the requests for certification described in clause (ii) of subparagraph (C) and this subparagraph shall be included in the tax return of the eligible taxpayer (and, where applicable, of the qualifying partnership) for the taxable year during which the transfer occurs.
 
 &emsp;&emsp;&emsp;(iv)
 
@@ -460,7 +460,7 @@ Revocation.—An eligible taxpayer or qualifying partnership may revoke an elect
 
 &emsp;&emsp;(I)
 
-Recapture.—If an eligible taxpayer excludes gain or loss from a sale, exchange, or other disposition of property to which an election under subparagraph (H) applies, and such property fails to satisfy the requirements of this paragraph, the unrelated business taxable income of the eligible taxpayer for the taxable year in which such failure occurs shall be determined by including any previously excluded gain or loss from such sale, exchange, or other disposition allocable to such taxpayer, and interest shall be determined at the overpayment rate established under section 6621 on any resulting tax for the period beginning with the due date of the return for the taxable year during which such sale, exchange, or other disposition occurred, and ending on the date of payment of the tax.
+Recapture.—If an eligible taxpayer excludes gain or loss from a sale, exchange, orother disposition of property to which an election under subparagraph (H) applies, and such property fails to satisfy the requirements of this paragraph, the unrelated business taxable income of the eligible taxpayer for the taxable year in which such failure occurs shall be determined by including any previously excluded gain or loss from such sale, exchange, or other disposition allocable to such taxpayer, and interest shall be determined at the overpayment rate established under section 6621 on any resulting tax for the period beginning with the due date of the return for the taxable year during which such sale, exchange, or other disposition occurred, and ending on the date of payment of the tax.
 
 &emsp;&emsp;(J)
 
@@ -532,7 +532,7 @@ Termination.—Except for purposes of determining the average eligible remediati
 
 &emsp;This subsection shall not apply to employer securities (within the meaning of section 409(<i>l</i>)) held by an employee stock ownership plan described in section 4975(e)(7).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 170; Pub. L. 85–367, §1(a), Apr. 7, 1958, 72 Stat. 80; Pub. L. 88–380, §1, July 17, 1964, 78 Stat. 333; Pub. L. 89–809, title I, §104(g), Nov. 13, 1966, 80 Stat. 1559; Pub. L. 91–172, title I, §121(b)(1), (2), Dec. 30, 1969, 83 Stat. 537, 538; Pub. L. 92–418, §1(b), Aug. 29, 1972, 86 Stat. 656; Pub. L. 94–396, §1(a), Sept. 3, 1976, 90 Stat. 1201; Pub. L. 94–455, title XIX, §§1901(b)(8)(F), 1906(b)(13)(A), 1951(b)(8)(A), Oct. 4, 1976, 90 Stat. 1794, 1834, 1839; Pub. L. 94–568, §1(b), Oct. 20, 1976, 90 Stat. 2697; Pub. L. 95–345, §2(a)(2), (b), Aug. 15, 1978, 92 Stat. 481; Pub. L. 97–448, title I, §102(m)(3), Jan. 12, 1983, 96 Stat. 2374; Pub. L. 98–369, div. A, title V, §511(b), July 18, 1984, 98 Stat. 860; Pub. L. 99–514, title XVIII, §1851(a)(10), Oct. 22, 1986, 100 Stat. 2861; Pub. L. 100–203, title X, §10213(a), Dec. 22, 1987, 101 Stat. 1330–406; Pub. L. 100–647, title I, §1018(t)(2)(B), Nov. 10, 1988, 102 Stat. 3587; Pub. L. 101–508, title XI, §11801(a)(23), Nov. 5, 1990, 104 Stat. 1388–521; Pub. L. 103–66, title XIII, §§13145(a), 13147(a), 13148(a), (b), Aug. 10, 1993, 107 Stat. 443, 444; Pub. L. 104–188, title I, §§1115(a), 1316(c), 1603(a), Aug. 20, 1996, 110 Stat. 1761, 1786, 1835; Pub. L. 105–34, title III, §312(d)(5), title X, §1041(a), title XV, §1523(a), title XVI, §1601(c)(4)(A), (D), Aug. 5, 1997, 111 Stat. 840, 938, 1070, 1087; Pub. L. 105–206, title VI, §§6010(j)(1), (2), 6023(8), July 22, 1998, 112 Stat. 815, 825; Pub. L. 108–357, title II, §233(d), title III, §319(c), title VII, §702(a), Oct. 22, 2004, 118 Stat. 1434, 1472, 1540; Pub. L. 109–135, title IV, §412(dd), (ee)(1), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 109–280, title XII, §1205(a), Aug. 17, 2006, 120 Stat. 1066; Pub. L. 110–343, div. C, title III, §306(a), Oct. 3, 2008, 122 Stat. 3868; Pub. L. 111–312, title VII, §747(a), Dec. 17, 2010, 124 Stat. 3320.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 170; Pub. L. 85–367, §1(a), Apr. 7, 1958, 72 Stat. 80; Pub. L. 88–380, §1, July 17, 1964, 78 Stat. 333; Pub. L. 89–809, title I, §104(g), Nov. 13, 1966, 80 Stat. 1559; Pub. L. 91–172, title I, §121(b)(1), (2), Dec. 30, 1969, 83 Stat. 537, 538; Pub. L. 92–418, §1(b), Aug. 29, 1972, 86 Stat. 656; Pub. L. 94–396, §1(a), Sept. 3, 1976, 90 Stat. 1201; Pub. L. 94–455, title XIX, §§1901(b)(8)(F), 1906(b)(13)(A), 1951(b)(8)(A), Oct. 4,1976, 90 Stat. 1794, 1834, 1839; Pub. L. 94–568, §1(b), Oct. 20, 1976, 90 Stat. 2697; Pub. L. 95–345, §2(a)(2), (b), Aug. 15, 1978, 92 Stat. 481; Pub. L. 97–448, title I, §102(m)(3), Jan. 12, 1983, 96 Stat. 2374; Pub. L. 98–369, div. A, title V, §511(b), July 18, 1984, 98 Stat. 860; Pub. L. 99–514, title XVIII, §1851(a)(10), Oct. 22, 1986, 100 Stat. 2861; Pub. L. 100–203, title X, §10213(a), Dec. 22, 1987, 101 Stat. 1330–406; Pub. L. 100–647, title I, §1018(t)(2)(B), Nov. 10, 1988, 102 Stat. 3587; Pub. L. 101–508, title XI, §11801(a)(23), Nov. 5, 1990, 104 Stat. 1388–521; Pub. L. 103–66, title XIII, §§13145(a), 13147(a), 13148(a), (b), Aug. 10, 1993, 107 Stat. 443, 444; Pub. L. 104–188, title I, §§1115(a), 1316(c), 1603(a), Aug. 20, 1996, 110 Stat. 1761, 1786, 1835; Pub. L. 105–34, title III, §312(d)(5), title X, §1041(a), title XV, §1523(a), title XVI, §1601(c)(4)(A), (D), Aug. 5, 1997, 111 Stat. 840, 938, 1070, 1087; Pub. L. 105–206, title VI, §§6010(j)(1), (2), 6023(8), July 22, 1998, 112 Stat. 815, 825; Pub. L. 108–357, title II, §233(d), title III, §319(c), title VII, §702(a), Oct. 22, 2004, 118 Stat. 1434, 1472, 1540; Pub. L. 109–135, title IV, §412(dd), (ee)(1), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 109–280, title XII, §1205(a), Aug. 17, 2006, 120 Stat. 1066; Pub. L. 110–343, div. C, title III, §306(a), Oct. 3, 2008, 122 Stat. 3868; Pub. L. 111–312, title VII, §747(a), Dec. 17, 2010, 124 Stat. 3320.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -680,7 +680,7 @@ Pub. L. 109–280, title XII, §1205(c)(1), Aug. 17, 2006, 120 Stat. 1067, provi
 
 Pub. L. 108–357, title II, §233(e), Oct. 22, 2004, 118 Stat. 1435, provided that: “The amendments made by this section \[amending this section and sections 1361 and 4975 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 22, 2004\].”
 
-Amendment by section 319(c) of Pub. L. 108–357 applicable to taxable years beginning after Oct. 22, 2004, see section 319(e) of Pub. L. 108–357, set out as a note under section 501 of this title.
+Amendment by section 319(c) of Pub. L. 108–357 applicable to taxable years beginning after Oct. 22, 2004, seesection 319(e) of Pub. L. 108–357, set out as a note under section 501 of this title.
 
 Pub. L. 108–357, title VII, §702(d), Oct. 22, 2004, 118 Stat. 1546, provided that: “The amendments made by this section \[amending this section and section 514 of this title\] shall apply to any gain or loss on the sale, exchange, or other disposition of any property acquired by the taxpayer after December 31, 2004.”
 
@@ -706,7 +706,7 @@ Binding contracts.—The amendments made by this section shall not apply to any 
 
 Section 1523(b) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1997.”
 
-Amendment by section 1601(c)(4)(A), (D) of Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 36C of this title.
+Amendment by section 1601(c)(4)(A), (D) of Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 23 of this title.
 
 #### Effective Date of 1996 Amendment
 

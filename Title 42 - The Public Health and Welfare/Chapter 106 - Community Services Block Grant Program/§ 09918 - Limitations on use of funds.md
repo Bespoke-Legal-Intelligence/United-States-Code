@@ -4,7 +4,7 @@
 
 #### (1) Limitations
 
-&emsp;Except as provided in paragraph (2), grants made under this chapter (other than amounts reserved under section 9903(b)(3) of this title) may not be used by the State, or by any other person with which the State makes arrangements to carry out the purposes of this chapter, for the purchase or improvement of land, or the purchase, construction, or permanent improvement (other than low-cost residential weatherization or other energy-related home repairs) of any building or other facility.
+&emsp;Except as provided in paragraph (2), grants made under this chapter (other than amountsreserved under section 9903(b)(3) of this title) may not be used by the State, or by any other person with which the State makes arrangements to carry out the purposes of this chapter, for the purchase or improvement of land, or the purchase, construction, or permanent improvement (other than low-cost residential weatherization or other energy-related home repairs) of any building or other facility.
 
 #### (2) Waiver
 
@@ -34,7 +34,7 @@
 
 #### (1) In general
 
-&emsp;No person shall, on the basis of race, color, national origin, or sex be excluded from participation in, be denied the benefits of, or besubjected to discrimination under, any program or activity funded in whole or in part with funds made available under this chapter. Any prohibition against discrimination on the basis of age under the Age Discrimination Act of 1975 (42 U.S.C. 6101 et seq.) or with respect to an otherwise qualified individual with a disability as provided in section 504 of the Rehabilitation Act of 1973 (29 U.S.C. 794), or title II of the Americans with Disabilities Act of 1990 (42 U.S.C. 12131 et seq.) shall also apply to any such program or activity.
+&emsp;No person shall, on the basis of race, color, national origin, or sex be excluded from participation in, be denied the benefits of, or be subjected to discrimination under, any program or activity funded in whole or in part with funds made available under this chapter. Any prohibition against discrimination on the basis of age under the Age Discrimination Act of 1975 (42 U.S.C. 6101 et seq.) or with respect to an otherwise qualified individual with a disability as provided in section 504 of the Rehabilitation Act of 1973 (29 U.S.C. 794), or title II of the Americans with Disabilities Act of 1990 (42 U.S.C. 12131 et seq.) shall also apply to any such program or activity.
 
 #### (2) Action of Secretary
 

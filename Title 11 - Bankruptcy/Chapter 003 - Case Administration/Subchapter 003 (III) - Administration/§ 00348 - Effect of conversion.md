@@ -28,7 +28,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 The House amendment adopts section 348(b) of the Senate amendment with slight modifications, as more accurately reflecting sections to which this particular effect of conversion should apply.
 
@@ -46,23 +46,23 @@ Subsection (e) provides that conversion of a case terminates the service of any 
 
 #### Amendments
 
-2010—Subsec. (b). Pub. L. 111–327, §2(a)(11)(A), struck out “728(a), 728(b),” after “727(b),” and “1146(a), 1146(b),” after “1141(d)(4),”.
+<b>2010</b>—Subsec. (b). Pub. L. 111–327, §2(a)(11)(A), struck out “728(a), 728(b),” after “727(b),” and “1146(a), 1146(b),” after “1141(d)(4),”.
 
 Subsec. (f)(1)(C)(i). Pub. L. 111–327, §2(a)(11)(B), which directed insertion of “of the filing” after “date”, was executed by making the insertion after “date” the first time appearing to reflect the probable intent of Congress.
 
-2005—Subsec. (f)(1)(B). Pub. L. 109–8, §309(a)(2)(A), substituted “only in a case converted to a case under chapter 11 or 12, but not in a case converted to a case under chapter 7, with allowed secured claims in cases under chapters 11 and 12” for “in the converted case, with allowed secured claims”.
+<b>2005</b>—Subsec. (f)(1)(B). Pub. L. 109–8, §309(a)(2)(A), substituted “only in a case converted to a case under chapter 11 or 12, but not in a case converted to a case under chapter 7, with allowed secured claims in cases under chapters 11 and 12” for “in the converted case, with allowed secured claims”.
 
 Subsec. (f)(1)(C). Pub. L. 109–8, §309(a)(1), (2)(B), (3), added subpar. (C).
 
 Subsec. (f)(2). Pub. L. 109–8, §1207, inserted “of the estate” after “bad faith, the property”.
 
-1994—Subsec. (b). Pub. L. 103–394, §501(d)(5), substituted “1201(a), 1221, 1228(a), 1301(a), and 1305(a)” for “1301(a), 1305(a), 1201(a), 1221, and 1228(a)” and “1208, or 1307” for “1307, or 1208”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–394, §501(d)(5), substituted “1201(a), 1221, 1228(a), 1301(a), and 1305(a)” for “1301(a), 1305(a), 1201(a), 1221, and 1228(a)” and “1208, or 1307” for “1307, or 1208”.
 
 Subsecs. (c) to (e). Pub. L. 103–394, §501(d)(5)(B), substituted “1208, or 1307” for “1307, or 1208”.
 
 Subsec. (f). Pub. L. 103–394, §311, added subsec. (f).
 
-1986—Subsec. (b). Pub. L. 99–554, §257(i)(1), substituted references to sections 1201(a), 1221, and 1228(a) of this title for reference to section 1328(a) of this title, and inserted reference to section 1208 of this title.
+<b>1986</b>—Subsec. (b). Pub. L. 99–554, §257(i)(1), substituted references to sections 1201(a), 1221, and 1228(a) of this title for reference to section 1328(a) of this title, and inserted reference to section 1208 of this title.
 
 Subsecs. (c) to (e). Pub. L. 99–554, §257(i)(2), (3), inserted reference to section 1208 of this title.
 

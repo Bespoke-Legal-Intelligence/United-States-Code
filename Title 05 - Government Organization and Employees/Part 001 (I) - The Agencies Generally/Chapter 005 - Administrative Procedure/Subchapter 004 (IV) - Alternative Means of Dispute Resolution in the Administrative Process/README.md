@@ -6,7 +6,7 @@ Another subchapter IV (§581 et seq.) relating to negotiated rulemaking procedur
 
 #### Amendments
 
-1992—Pub. L. 102–354, §3(b)(1), Aug. 26, 1992, 106 Stat. 944, transferred this subchapter so as to appear immediately after subchapter III of this chapter.
+<b>1992</b>—Pub. L. 102–354, §3(b)(1), Aug. 26, 1992, 106 Stat. 944, transferred this subchapter so as to appear immediately after subchapter III of this chapter.
 
 
 ---

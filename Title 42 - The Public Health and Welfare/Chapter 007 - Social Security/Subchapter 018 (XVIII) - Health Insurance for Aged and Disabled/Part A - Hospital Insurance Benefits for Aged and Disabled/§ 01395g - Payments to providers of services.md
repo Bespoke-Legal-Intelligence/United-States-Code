@@ -6,11 +6,11 @@ The Secretary shall periodically determine the amount which should be paid under
 
 #### (b) Conditions
 
-No payment shall be made to a provider of services which is a hospital for or with respect to services furnished by it for any period with respect to which it is deemed, under section 1395x(w)(2) of this title, to have in effect an arrangement with a quality control and peer review organization for the conduct of utilization review activities by such organization unless such hospital has paid to such organization the amount due (as determined pursuant to such section) to such organization for the review activities conducted by it pursuant to such arrangements or such hospital has provided assurances satisfactory to the Secretary that such organization will promptly be paid the amount so due to it from the proceeds of the payment claimed by the hospital. Payment under this subchapter for utilization review activities provided by a quality control and peer review organization pursuant to an arrangement or deemed arrangement with a hospital under section 1395x(w)(2) of this title shall be calculated without any requirement that the reasonable cost of such activities be apportioned among the patients of such hospital, if any, to whom such activities were not applicable.
+No payment shall be made to a provider of services which is a hospital for or with respect to services furnished by it for any period with respect to which it is deemed, under section 1395x(w)(2) of this title, to have in effect an arrangement with a quality improvement organization for the conduct of utilization review activities by such organization unless such hospital has paid to such organization the amount due (as determined pursuant to such section) to such organization for the review activities conducted by it pursuant to such arrangements or such hospital has provided assurances satisfactory to the Secretary that such organization will promptly be paid the amount so due to it from the proceeds of the payment claimed by the hospital. Payment under this subchapter for utilization review activities provided by a quality improvement organization pursuant to an arrangement or deemed arrangement with a hospital under section 1395x(w)(2) of this title shall be calculated without any requirement that the reasonable cost of such activities be apportioned among the patients of such hospital, if any, to whom such activities were not applicable.
 
 #### (c) Payments under assignment or power of attorney
 
-No payment which may be made to a provider of services under this subchapter for any servicefurnished to an individual shall be made to any other person under an assignment or power of attorney; but nothing in this subsection shall be construed (1) to prevent the making of such a payment in accordance with an assignment from the provider if such assignment is made to a governmental agency or entity or is established by or pursuant to the order of a court of competent jurisdiction, or (2) to preclude an agent of the provider of services from receiving any such payment if (but only if) such agent does so pursuant to an agency agreement under which the compensation to be paid to the agent for his services for or in connection with the billing or collection of payments due such provider under this subchapter is unrelated (directly or indirectly) to the amount of such payments or the billings therefor, and is not dependent upon the actual collection of any such payment.
+No payment which may be made to a provider of services under this subchapter for any service furnished to an individual shall be made to any other person under an assignment or power of attorney; but nothing in this subsection shall be construed (1) to prevent the making of such a payment in accordance with an assignment from the provider if such assignment is made to a governmental agency or entity or is established by or pursuant to the order of a court of competent jurisdiction, or (2) to preclude an agent of the provider of services from receiving any such payment if (but only if) such agent does so pursuant to an agency agreement under which the compensation to be paid to the agent for his services for or in connection with the billing or collection of payments due such provider under this subchapter is unrelated (directly or indirectly) to the amount of such payments or the billings therefor, and is not dependent upon the actual collection of any such payment.
 
 #### (d) Accrual of interest on balance of excess or deficit not paid
 
@@ -62,9 +62,11 @@ Whenever a final determination is made that the amount of payment made under thi
 
 &emsp;(B) the merging or consolidating hospitals or campuses would each meet the requirement of paragraph (1)(B)(i) if such hospitals or campuses were treated as independent hospitals for purposes of this subchapter.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1815, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 297; amended Pub. L. 94–182, title I, §112(a)(2), Dec. 31, 1975, 89 Stat. 1055; Pub. L. 95–142, §2(a)(2), Oct. 25, 1977, 91 Stat. 1175; Pub. L. 96–473, §6(i), Oct. 19, 1980, 94 Stat. 2266; Pub. L. 97–248, title I, §§117(a)(1), 148(b), Sept. 3, 1982, 96 Stat. 354, 394; Pub. L. 99–509, title IX, §9311(a)(1), Oct. 21, 1986, 100 Stat. 1996; Pub. L. 101–239, title VI, §6021(a), Dec. 19, 1989, 103 Stat. 2166; Pub. L. 105–33, title IV, §4603(b), Aug. 5, 1997, 111 Stat. 470; Pub. L. 108–173, title IV, §405(c)(1), title VII, §736(a)(3), Dec. 8, 2003, 117 Stat. 2266, 2354; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1815, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 297; amended Pub. L. 94–182, title I, §112(a)(2), Dec. 31, 1975, 89 Stat. 1055; Pub. L. 95–142, §2(a)(2), Oct. 25, 1977, 91 Stat. 1175; Pub. L. 96–473, §6(i), Oct. 19, 1980, 94 Stat. 2266; Pub. L. 97–248, title I, §§117(a)(1), 148(b), Sept. 3, 1982, 96 Stat. 354, 394; Pub. L. 99–509, title IX, §9311(a)(1), Oct. 21, 1986, 100 Stat. 1996; Pub. L. 101–239, title VI, §6021(a), Dec. 19, 1989, 103 Stat. 2166; Pub. L. 105–33, title IV, §4603(b), Aug. 5, 1997, 111 Stat. 470; Pub. L. 108–173, title IV, §405(c)(1), title VII, §736(a)(3), Dec. 8, 2003, 117 Stat. 2266, 2354; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 112–40, title II, §261(a)(3)(B), Oct. 21, 2011, 125 Stat. 423.)
 
 #### Amendments
+
+<b>2011</b>—Subsec. (b). Pub. L. 112–40 substituted “quality improvement” for “quality control and peer review” in two places.
 
 <b>2004</b>—Subsec. (a). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
@@ -89,6 +91,10 @@ Subsec. (d). Pub. L. 97–248, §117(a)(1), added subsec. (d).
 <b>1977</b>—Subsec. (c). Pub. L. 95–142 added subsec. (c).
 
 <b>1975</b>—Pub. L. 94–182 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### Effective Date of 2011 Amendment
+
+Amendment by Pub. L. 112–40 applicable to contracts entered into or renewed on or after Jan. 1, 2012, see section 261(e) of Pub. L. 112–40, set out as a note under section 1320c of this title.
 
 #### Effective Date of 2003 Amendment
 
@@ -118,7 +124,7 @@ Section 2(a)(4) of Pub. L. 95–142 provided that: “The amendments made by thi
 
 #### Effective Date of 1975 Amendment
 
-Amendment by Pub. L. 94–182 effective with respect to utilization review activities conducted on and after the first day of the first month which begins more than 30 days after Dec. 31, 1975, see section 112(d) of Pub. L. 94–182, set out as a note under section 1395x of this title.
+Amendment by Pub. L. 94–182 effective with respect to utilization review activities conducted on and after the first day of the first month which begins more than30 days after Dec. 31, 1975, see section 112(d) of Pub. L. 94–182, set out as a note under section 1395x of this title.
 
 #### Development of Alternative Timing Methods of Periodic Interim Payments
 

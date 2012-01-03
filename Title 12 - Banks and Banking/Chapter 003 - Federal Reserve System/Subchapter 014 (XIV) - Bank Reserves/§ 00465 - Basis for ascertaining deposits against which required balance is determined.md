@@ -14,5 +14,5 @@ Section is comprised of subsec. (g), formerly tenth par., of section 19 of act D
 
 #### Amendments
 
-1935—Act Aug. 23, 1935, changed method of estimating reserve balances.
+<b>1935</b>—Act Aug. 23, 1935, changed method of estimating reserve balances.
 

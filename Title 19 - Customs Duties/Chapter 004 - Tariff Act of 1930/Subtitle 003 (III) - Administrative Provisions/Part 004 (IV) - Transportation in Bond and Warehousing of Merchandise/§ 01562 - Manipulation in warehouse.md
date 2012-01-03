@@ -88,7 +88,7 @@ Par. (6). Pub. L. 108–77, §§107(c), 203(b)(4)(D), temporarily added par. (6)
 
 <b>1953</b>—Act Aug. 8, 1953, in third sentence struck out “the entered value or” after “consumption shall be”, “whichever is higher,” after “the adjusted final appraised value,”, and “; but for the purpose of the ascertainment and assessment of additional duties under section 1489 of this chapter adjustments of the final appraised value shall be disregarded” after “such adjusted final appraised value”.
 
-<b>1938</b>—Act June 25, 1938, inserted sentence providing for manipulation of imported merchandise entering and remaining in continuous customs custody in caseswhere neither the protection of the revenue nor proper conduct of business requires such manipulation be done in a bonded warehouse, and inserted “Wake Island, Midway Islands, Kingman Reef” before “or the island of Guam”.
+<b>1938</b>—Act June 25, 1938, inserted sentence providing for manipulation of imported merchandise entering and remaining in continuous customs custody in cases where neither the protection of the revenue nor proper conduct of business requires such manipulation be done in a bonded warehouse, and inserted “Wake Island, Midway Islands, Kingman Reef” before “or the island of Guam”.
 
 #### Effective Date of 2006 Amendment
 

@@ -38,7 +38,7 @@ In establishing service rules with respect to licenses granted pursuant to this 
 
 &emsp;(1) shall establish interference limits at the boundaries of the spectrum block and service area;
 
-&emsp;(2) shall establish any additional technical restrictions necessary to protect full-service analog television service and digital television service during a transition to digital television service;
+&emsp;(2) shall establish any additional technical restrictions necessary to protect full-serviceanalog television service and digital television service during a transition to digital television service;
 
 &emsp;(3) may permit public safety services licensees and commercial licensees—
 
@@ -88,6 +88,10 @@ For purposes of this section:
 
 (June 19, 1934, ch. 652, title III, §337, as added Pub. L. 105–33, title III, §3004, Aug. 5, 1997, 111 Stat. 266; amended Pub. L. 106–79, title VIII, §8124(a), Oct. 25, 1999, 113 Stat. 1262; Pub. L. 106–113, div. B, §1000(a)(5) \[title II, §213(a)(1), (d)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–295, 1501A–297; Pub. L. 109–171, title III, §3002(c)(1), Feb. 8, 2006, 120 Stat. 21; Pub. L. 111–4, §2(b)(3), Feb. 11, 2009, 123 Stat. 112.)
 
+#### References in Text
+
+This chapter, referred to in subsec. (c)(1), was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
+
 #### Amendments
 
 <b>2009</b>—Subsec. (e)(1). Pub. L. 111–4 substituted “June 12, 2009” for “February 17, 2009”.
@@ -122,7 +126,7 @@ Exception for Public Safety Channel Clearing.—The restrictions in subsection (
 
 #### Competitive Bidding Process for Commercial Licenses for Assigned Frequencies
 
-Pub. L. 106–113, div. B, §1000(a)(5) \[title II, §213\], Nov. 29, 1999, 113 Stat. 1536, 1501A–295, as amended by Pub. L. 107–195, §3(b)(3), June 19, 2002, 116 Stat. 717, provided that:
+Pub. L. 106–113, div. B, §1000(a)(5) \[title II, §213\], Nov. 29, 1999, 113 Stat. 1536, 1501A–295, as amended by Pub. L.107–195, §3(b)(3), June 19, 2002, 116 Stat. 717, provided that:
 
 “(a)
 
@@ -132,7 +136,7 @@ Revised Schedule for Competitive Bidding of Spectrum.—(1) \[Amended subsec. (b
 
 “(4)(A) To expedite the assignment by competitive bidding of the frequencies identified in section 337(a)(2) of the Communications Act of 1934 (47 U.S.C. 337(a)(2)), the rules governing such frequencies shall be effective immediately upon publication in the Federal Register without regard to sections 553(d), 801(a)(3), 804(2), and 806(a) of title 5, United States Code.
 
-“(B) Chapter 6 of title 5, United States Code, section 3 of the Small Business Act (15 U.S.C. 632), and sections 3507 and 3512 of title 44, United States Code, shall not apply to the rules and competitive bidding proceduresgoverning the frequencies described in subparagraph (A).
+“(B) Chapter 6 of title 5, United States Code, section 3 of the Small Business Act (15 U.S.C. 632), and sections 3507 and 3512 of title 44, United States Code, shall not apply to the rules and competitive bidding procedures governing the frequencies described in subparagraph (A).
 
 “(5) Notwithstanding section 309(b) of the Communications Act of 1934 (47 U.S.C. 309(b)), no application for an instrument of authorization for the frequencies described in paragraph (4) may be granted by the Federal Communications Commission earlier than 7 days following issuance of public notice by the Commission of the acceptance for filing of such application or of any substantial amendment thereto.
 

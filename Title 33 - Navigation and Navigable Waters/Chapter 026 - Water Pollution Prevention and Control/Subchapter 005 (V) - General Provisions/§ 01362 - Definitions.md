@@ -18,7 +18,7 @@ Except as otherwise specifically provided, when used in this chapter:
 
 (8) The term “territorial seas” means the belt of the seas measured from the line of ordinary low water along that portion of the coast which is in direct contact with the open sea and the line marking the seaward limit of inland waters, and extending seaward a distance of three miles.
 
-(9) The term “contiguous zone” means the entire zone established or to be established by theUnited States under article 24 of the Convention of the Territorial Sea and the Contiguous Zone.
+(9) The term “contiguous zone” means the entire zone established or to be established by the United States under article 24 of the Convention of the Territorial Sea and the Contiguous Zone.
 
 (10) The term “ocean” means any portion of the high seas beyond the contiguous zone.
 
@@ -112,7 +112,7 @@ Exclusion.—The term “recreational vessel” does not include a vessel that i
 
 &emsp;&emsp;(ii) carries paying passengers.
 
-(June 30, 1948, ch. 758, title V, §502, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 886; amended Pub. L. 95–217, §33(b), Dec. 27, 1977, 91 Stat. 1577; Pub. L. 100–4, title V, §§502(a), 503, Feb. 4, 1987, 101 Stat. 75; Pub. L. 100–688, title III, §3202(a), Nov. 18, 1988, 102 Stat. 4154; Pub. L. 104–106, div. A, title III, §325(c)(3), Feb. 10, 1996, 110 Stat. 259; Pub. L. 106–284, §5, Oct. 10, 2000, 114 Stat. 875;Pub. L. 109–58, title III, §323, Aug. 8, 2005, 119 Stat. 694; Pub. L. 110–288, §3, July 29, 2008, 122 Stat. 2650.)
+(June 30, 1948, ch. 758, title V, §502, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 886; amended Pub. L. 95–217, §33(b), Dec. 27, 1977, 91 Stat. 1577; Pub. L. 100–4, title V, §§502(a), 503, Feb. 4, 1987, 101 Stat. 75; Pub. L. 100–688, title III, §3202(a), Nov. 18, 1988, 102 Stat. 4154; Pub. L. 104–106, div. A, title III, §325(c)(3), Feb. 10, 1996, 110 Stat. 259; Pub. L. 106–284, §5, Oct. 10, 2000, 114 Stat. 875; Pub. L. 109–58, title III, §323, Aug. 8, 2005, 119 Stat. 694; Pub. L. 110–288, §3, July 29, 2008, 122 Stat. 2650.)
 
 #### Amendments
 

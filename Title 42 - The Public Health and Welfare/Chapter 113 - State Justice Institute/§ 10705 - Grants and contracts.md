@@ -40,7 +40,7 @@ The Institute is empowered to award grants and enter into cooperative agreements
 
 &emsp;&emsp;(D) private agencies with expertise in judicial administration.
 
-&emsp;(3) Upon application by an appropriate State or local agency or institution and if the arrangements to be made by such agency or institution will provide services which could not be provided adequately through nongovernmental arrangements, the Institute may award a grant or enter into a cooperative agreement or contract with a unit of State or local government other than a court.
+&emsp;(3) Upon application by an appropriate State or local agency or institution and if the arrangements to be made by such agency or institution will provide services which could not be provided adequately through nongovernmental arrangements, the Institute may award a grant or enter into a cooperativeagreement or contract with a unit of State or local government other than a court.
 
 &emsp;(4) The Institute may enter into contracts with Federal agencies to carry out the purposes of this chapter.
 

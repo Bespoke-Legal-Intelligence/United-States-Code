@@ -10,7 +10,7 @@
 
 (2) If, as of January 1, 1990, or 2 years after the Soil Conservation Service has completed a soil survey for the farm, whichever is later, a person is actively applying a conservation plan, such person shall have until January 1, 1995, to comply with the plan without being subject to program ineligibility. In carrying out this subsection, the Secretary, Soil Conservation Service, and local soil conservation districts shall minimize the quantity of documentation a person must submit to comply with this paragraph.
 
-(3) Any person who owns or operates highly erodible land that was the subject of a contract entered into under subpart B of part I of subchapter IV of this chapter shall only be required to apply a conservation plan established under this subchapter. The person shall not be required to meet a higher conservation standard than the standard applied to other highly erodible cropland located within the same area. If the person's conservation plan requires structures to be constructed, the person shall haveuntil 2 years after the expiration of such contract to comply with the conservation plan, or a longer period of time if the Secretary determines compliance is otherwise technically or economically not feasible, or such longer period is otherwise appropriate, before such person will be subject to program ineligibility with respect to such land under section 3811 of this title.
+(3) Any person who owns or operates highly erodible land that was the subject of a contract entered into under subpart B of part I of subchapter IV of this chapter shall only be required to apply a conservation plan established under this subchapter. The person shall not be required to meet a higher conservation standard than the standard applied to other highly erodible cropland located within the same area. If the person's conservation plan requires structures to be constructed, the person shall have until 2 years after the expiration of such contract to comply with the conservation plan, or a longer period of time if the Secretary determines compliance is otherwise technically or economically not feasible, or such longer period is otherwise appropriate, before such person will be subject to program ineligibility with respect to such land under section 3811 of this title.
 
 (4) On the expiration of a contract entered into under subpart B of part I of subchapter IV of this chapter, the provisions of this subchapter shall apply to the acreage that was the subject of such contract.
 
@@ -138,7 +138,7 @@ Subsec. (f)(1). Pub. L. 104–127, §313(a), substituted “No person” for “
 
 Pub. L. 104–127, §301(d)(4)(A), struck out “that documents the decisions of such person with respect to location, land use, tillage systems, and conservation treatment measures and schedules prepared under subsection (a) of this section” after “apply a conservation plan”.
 
-Subsec. (f)(2). Pub. L. 104–127, §313(b), substituted “with respect to highly erodible cropland that was notin production prior to December 23, 1985, and has acted in good faith and without an intent to violate the provisions” for “meets the requirements of paragraph (1)”.
+Subsec. (f)(2). Pub. L. 104–127, §313(b), substituted “with respect to highly erodible cropland that was not in production prior to December 23, 1985, and has acted in good faith and without an intent to violate the provisions” for “meets the requirements of paragraph (1)”.
 
 Subsec. (f)(3). Pub. L. 104–127, §301(d)(4)(B), struck out “prepared under subsection (a) of this section” after “a conservation plan”.
 

@@ -28,7 +28,7 @@
 
 &emsp;(B) at the rate stated in section 8415(a) of title 5 for all other service creditable under this System including service in excess of 20 years otherwise creditable under paragraph (A).
 
-(3) Any participant who is involuntarily retired or separated under section 4007, 4008, 4010, or 4010a of this title and who would if a participant under part I of this subchapter, become eligible for a refund of contributions or a deferred annuity under part I of this subchapter, shall, in lieu thereof, receive benefits for an involuntary separation under this part.
+(3) Any participant who is involuntarily retired or separated under section 4007, 4008, 4010,or 4010a of this title and who would if a participant under part I of this subchapter, become eligible for a refund of contributions or a deferred annuity under part I of this subchapter, shall, in lieu thereof, receive benefits for an involuntary separation under this part.
 
 (4) A disability annuity under this part required to be redetermined under section 8452(b) of title 5, or computed under section 8452(c) or (d) of such title 5, shall be recomputed or computed using the formula in subsection (b)(2)(A) of this section rather than section 8415 of such title 5 (as stated in section 8452(b)(2)(A) and 8452(c) and (d) of such title). Such annuity shall also be computed in accordance with the preceding sentence if, as of the day on which such annuity commences or is restored, the annuitant satisfies the age and service requirements for entitlement to an immediate annuity under section 4051 of this title.
 
@@ -90,7 +90,7 @@ Amendment by Pub. L. 107–228 applicable to service performed on or after the f
 
 Amendment by Pub. L. 105–382 effective Nov. 13, 1998, with provisions relating to applicability with respect to certain individuals, see section 4 of Pub. L. 105–382, as amended, set out as a note under section 4044 of this title.
 
-Amendment by Pub. L. 105–277 effective Oct. 21, 1998, except that amendment made by section 2312(b)(1)(A), (2) of Pub. L. 105–277 applicable with respect to any actions taken under section 4010a of this title on or after Jan. 1, 1996, see section 2312(c) of Pub. L. 105–277, set out as a note under section 4009 of this title.
+Amendment by Pub. L. 105–277 effective Oct. 21, 1998, except that amendment made by section 2312(b)(1)(A),\(2) of Pub. L. 105–277 applicable with respect to any actions taken under section 4010a of this title on or after Jan. 1, 1996, see section 2312(c) of Pub. L. 105–277, set out as a note under section 4009 of this title.
 
 #### Effective Date of 1986 Amendment
 

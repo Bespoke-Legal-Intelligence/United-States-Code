@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(D) retention being inconsistent with the interests of national security; or
 
-&emsp;(2) the person's former enlisted status and grade was based solely on the participation bythat person in a precommissioning program that resulted in the commission held by that person during the active duty from which the person was released or discharged.
+&emsp;(2) the person's former enlisted status and grade was based solely on the participation by that person in a precommissioning program that resulted in the commission held by that person during the active duty from which the person was released or discharged.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 505; Pub. L. 85–603, §1(3), Aug. 8, 1958, 72 Stat. 526; Pub. L. 102–484, div. A, title V, §520(b), Oct. 23, 1992, 106 Stat. 2409; Pub. L. 110–181, div. A, title V, §506(b), Jan. 28, 2008, 122 Stat. 96.)
 
@@ -44,7 +44,7 @@ Subsec. (b)(2). Pub. L. 110–181, §506(b)(2)(B), substituted “the commission
 
 <b>1992</b>—Pub. L. 102–484 designated existing provisions as subsec. (a), added subsec. (b), and struck out at end of subsec. (a) “However, if his service as an officer terminated by a general discharge, he may, under regulations to be prescribed by the Secretary of the Air Force, be so reenlisted.”
 
-<b>1958</b>—Pub. L. 85–603 limited entitlement to be reenlisted in enlisted grade to those officers whose service terminated by an honorable discharge and those relieved from active duty for a purpose other than to await appellate review of a sentence that includes dismissal or dishonorable discharge, and provided that persons whose service terminated by a general discharge, may, under regulations to be prescribed by the Secretary of the Air Force, be so reenlisted.
+<b>1958</b>—Pub. L. 85–603 limited entitlement to be reenlisted in enlisted grade to those officers whose serviceterminated by an honorable discharge and those relieved from active duty for a purpose other than to await appellate review of a sentence that includes dismissal or dishonorable discharge, and provided that persons whose service terminated by a general discharge, may, under regulations to be prescribed by the Secretary of the Air Force, be so reenlisted.
 
 #### Effective Date of 1992 Amendment
 

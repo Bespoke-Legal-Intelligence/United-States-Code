@@ -10,7 +10,7 @@ The Secretary, in consultation with the Secretary of State, shall provide to Con
 
 &emsp;(4) progress at the international level, consistent with section 1826i of this title, to strengthen the efforts of international fishery management organizations to end illegal, unreported, or unregulated fishing; and
 
-&emsp;(5) steps taken by the Secretary at the international level to adopt international measures comparable to those of the United States to reduce impacts of fishing and other practices on protected living marine resources, if no international agreement to achieve such goal exists, or if the relevant international fishery or conservation organization has failed to implement effective measures to end or reduce the adverse impacts of fishing practices on such species.
+&emsp;(5) steps taken by the Secretary at the international level to adopt international measurescomparable to those of the United States to reduce impacts of fishing and other practices on protected living marine resources, if no international agreement to achieve such goal exists, or if the relevant international fishery or conservation organization has failed to implement effective measures to end or reduce the adverse impacts of fishing practices on such species.
 
 (Pub. L. 104–43, title VI, §607, as added Pub. L. 109–479, title IV, §403(a), Jan. 12, 2007, 120 Stat. 3626.)
 

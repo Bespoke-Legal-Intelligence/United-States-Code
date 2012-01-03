@@ -38,7 +38,7 @@ For repeal of section effective Oct. 1, 1998, and subsequent reenactment of sect
 
 #### Amendments
 
-2005—Subsec. (c)(10). Pub. L. 109–8, §213(2), added par. (10).
+<b>2005</b>—Subsec. (c)(10). Pub. L. 109–8, §213(2), added par. (10).
 
 #### Effective Date of 2005 Amendment
 

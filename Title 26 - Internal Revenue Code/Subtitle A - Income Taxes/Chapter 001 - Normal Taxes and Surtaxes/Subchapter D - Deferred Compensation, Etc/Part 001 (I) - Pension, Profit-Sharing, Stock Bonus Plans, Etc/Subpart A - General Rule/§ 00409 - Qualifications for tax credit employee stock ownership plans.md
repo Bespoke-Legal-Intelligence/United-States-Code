@@ -56,7 +56,7 @@ A plan meets the requirements of this subsection only if it provides that no emp
 
 #### (2) Requirements where employer has a registration-type class of securities
 
-&emsp;If the employer has a registration-type class of securities, the plan meets the requirements of this paragraph only if each participant or beneficiary in the plan is entitled to direct the plan as to the manner in which securities of the employer which are entitled to vote and are allocated to the account of such participant or beneficiary are to be voted.
+&emsp;If the employer has a registration-type class of securities, the plan meets the requirements of this paragraph only if each participant or beneficiary in the plan is entitled to direct theplan as to the manner in which securities of the employer which are entitled to vote and are allocated to the account of such participant or beneficiary are to be voted.
 
 #### (3) Requirement for other employers
 
@@ -82,7 +82,7 @@ A plan meets the requirements of this subsection only if it provides that no emp
 
 #### (1) In general
 
-&emsp;A plan meets the requirements of this subsection only if it is established on or beforethe due date (including any extension of such date) for the filing of the employer's tax return for the first taxable year of the employer for which an employee plan credit is claimed by the employer with respect to the plan.
+&emsp;A plan meets the requirements of this subsection only if it is established on or before the due date (including any extension of such date) for the filing of the employer's tax return for the first taxable year of the employer for which an employee plan credit is claimed by the employer with respect to the plan.
 
 #### (2) Special rule for first year
 
@@ -124,7 +124,7 @@ A plan meets the requirement of this subsection only if it provides that amounts
 
 #### (3) Special rule for banks
 
-&emsp;In the case of a plan established and maintained by a bank (as defined in section 581) which is prohibited by law from redeeming or purchasing its own securities, the requirements of paragraph (1)(B) shall not apply if the plan provides that participants entitled to a distribution from the plan shall have a right to receive a distribution in cash.
+&emsp;In the case of a plan established and maintained by a bank (as defined in section 581) which is prohibited by law from redeeming or purchasing its own securities, the requirements of paragraph (1)(B) shall not apply ifthe plan provides that participants entitled to a distribution from the plan shall have a right to receive a distribution in cash.
 
 #### (4) Put option period
 
@@ -216,7 +216,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of this subsection, the term “controlled group of corporations” has themeaning given to such term by section 1563(a) (determined without regard to subsections (a)(4) and (e)(3)(C) of section 1563).
+&emsp;&emsp;For purposes of this subsection, the term “controlled group of corporations” has the meaning given to such term by section 1563(a) (determined without regard to subsections (a)(4) and (e)(3)(C) of section 1563).
 
 #### (B) Where common parent owns at least 50 percent of first tier subsidiary
 
@@ -382,7 +382,7 @@ A plan meets the requirements of this subsection if—
 
 &emsp;&emsp;&emsp;(i) the aggregate number of deemed-owned shares of such person and the members of such person's family is at least 20 percent of the number of deemed-owned shares of stock in the S corporation, or
 
-&emsp;&emsp;&emsp;(ii) in the case of a person not described in clause (i), the number of deemed-ownedshares of such person is at least 10 percent of the number of deemed-owned shares of stock in such corporation.
+&emsp;&emsp;&emsp;(ii) in the case of a person not described in clause (i), the number of deemed-owned shares of such person is at least 10 percent of the number of deemed-owned shares of stock in such corporation.
 
 #### (B) Treatment of family members
 
@@ -460,7 +460,7 @@ A plan meets the requirements of this subsection if—
 
 &emsp;&emsp;<b>(3) For requirements for allowance of an employee stock ownership credit, see section 41.</b><b><sup>6</sup></b>
 
-(Added Pub. L. 95–600, title I, §141(a), Nov. 6, 1978, 92 Stat. 2787, §409A; amended Pub. L. 96–222, title I, §101(a)(7)(D)–(F), (I), (J), (L)(i)(VI), (ii)(I), (II), (iii)(V), (v)(VI), (VII), Apr. 1, 1980, 94 Stat. 198–200; Pub. L. 96–605, title II, §224(a), Dec. 28, 1980, 94 Stat. 3528; Pub. L. 97–34, title III, §§331(c)(1), 334, 336, 337(a), Aug. 13, 1981, 95 Stat. 293, 297, 298; Pub. L. 97–448, title I, §103(h), (i), Jan. 12, 1983, 96 Stat. 2379; renumbered §409 and amended Pub. L. 98–369, div. A, title IV, §§474(r)(15), 491(e)(1), July 18, 1984, 98 Stat. 843, 852; Pub. L. 99–514, title XI, §§1172(b)(1),1174(a)(1), (b)(1), (2), (c)(1)(A), 1176(b), title XVIII, §§1852(a)(4)(B), 1854(a)(3)(A), (f)(1), (3)(C), 1899A(11), Oct. 22, 1986, 100 Stat. 2514, 2516, 2517, 2520, 2865, 2873, 2881, 2882, 2958; Pub. L. 100–647, title I, §§1011B(g)(1), (2), (i)(1), (3), (j)(3), (5), (k)(3), 1018(t)(4)(B), (C), (H), Nov. 10, 1988, 102 Stat. 3490, 3492, 3493, 3588, 3589; Pub. L. 101–239, title VII, §§7304(a)(2)(A), (B), 7811(h)(1), Dec. 19, 1989, 103 Stat. 2352, 2353, 2409; Pub. L. 105–34, title XV, §1506(a), Aug. 5, 1997, 111 Stat. 1064; Pub. L. 107–16, title VI, §656(a), June 7, 2001, 115 Stat. 131; Pub. L. 107–147, title IV, §411(j)(2), Mar. 9, 2002, 116 Stat. 47; Pub. L. 109–280, title IX, §901(a)(2)(B), Aug. 17, 2006, 120 Stat. 1029.)
+(Added Pub. L. 95–600, title I, §141(a), Nov. 6, 1978, 92 Stat. 2787, §409A; amended Pub. L. 96–222, title I, §101(a)(7)(D)–(F), (I), (J), (L)(i)(VI), (ii)(I), (II), (iii)(V), (v)(VI), (VII), Apr. 1, 1980, 94 Stat. 198–200; Pub. L. 96–605, title II, §224(a), Dec. 28, 1980, 94 Stat. 3528; Pub. L. 97–34, title III, §§331(c)(1), 334, 336, 337(a), Aug. 13, 1981, 95 Stat. 293, 297, 298; Pub. L. 97–448, title I, §103(h), (i), Jan. 12, 1983, 96 Stat. 2379; renumbered §409 and amended Pub. L. 98–369, div. A, title IV, §§474(r)(15), 491(e)(1), July 18, 1984, 98 Stat. 843, 852; Pub. L. 99–514, title XI, §§1172(b)(1), 1174(a)(1), (b)(1), (2), (c)(1)(A), 1176(b), title XVIII, §§1852(a)(4)(B), 1854(a)(3)(A), (f)(1), (3)(C), 1899A(11), Oct. 22, 1986, 100 Stat. 2514, 2516, 2517, 2520, 2865, 2873, 2881, 2882, 2958; Pub. L. 100–647, title I, §§1011B(g)(1), (2), (i)(1), (3), (j)(3), (5), (k)(3), 1018(t)(4)(B), (C), (H), Nov. 10, 1988, 102 Stat. 3490, 3492, 3493, 3588, 3589; Pub. L. 101–239, title VII, §§7304(a)(2)(A), (B), 7811(h)(1), Dec. 19, 1989, 103 Stat. 2352, 2353, 2409; Pub. L. 105–34, title XV, §1506(a), Aug. 5, 1997, 111 Stat. 1064; Pub. L. 107–16, title VI, §656(a), June 7, 2001, 115 Stat. 131; Pub. L. 107–147, title IV, §411(j)(2), Mar. 9, 2002, 116 Stat. 47; Pub. L. 109–280, title IX, §901(a)(2)(B), Aug. 17, 2006, 120 Stat. 1029.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -538,7 +538,7 @@ Subsec. (d)(1). Pub. L. 99–514, §1174(a)(1), substituted “separation from s
 
 Subsec. (e)(2). Pub. L. 99–514, §1854(f)(1)(C), (D), inserted “or beneficiary” after “participant” in two places and substituted “securities of the employer” for “employer securities”.
 
-Subsec. (e)(3). Pub. L. 99–514, §1854(f)(1)(B)–(D), inserted “or beneficiary” after “participant” in two places and substituted “securities of the employer” for“employer securities” and “any corporate matter which involves the voting of such shares with respect to the approval or disapproval of any corporate merger or consolidation, recapitalization, reclassification, liquidation, dissolution, sale of substantially all assets of a trade or business, or such similar transaction as the Secretary may prescribe in regulations” for “a corporate matter which (by law or charter) must be decided by more than a majority vote of outstanding common shares voted”.
+Subsec. (e)(3). Pub. L. 99–514, §1854(f)(1)(B)–(D), inserted “or beneficiary” after “participant” in two places and substituted “securities of the employer” for “employer securities” and “any corporate matter which involves the voting of such shares with respect to the approval or disapproval of any corporate merger or consolidation, recapitalization, reclassification, liquidation, dissolution, sale of substantially all assets of a trade or business, or such similar transaction as the Secretary may prescribe in regulations” for “a corporate matter which (by law or charter) must be decided by more than a majority vote of outstanding common shares voted”.
 
 Subsec. (e)(5). Pub. L. 99–514, §1854(f)(1)(A), added par. (5).
 
@@ -600,7 +600,7 @@ Subsec. (b)(4). Pub. L. 96–222, §101(a)(7)(L)(iii)(V), substituted “employe
 
 Subsec. (d). Pub. L. 96–222, §101(a)(7)(F), inserted “(or allocated to a participant's account in connection with matched employer and employee contributions)” after “under subsection (b)”.
 
-Subsec. (f)(1). Pub. L. 96–222, §101(a)(7)(I)(i), substituted “only if it is established on or before the due date (including any extension of such date) for the filing of the employer's tax return for the first taxable year of the employer for which an employee plan credit is claimed by the employer with respect to the plan” for “for a plan year only if it is established on or before the due date for the filing of the employer's tax return for the taxable year (including any extension of such date) in which or with which the plan year ends”.
+Subsec. (f)(1). Pub. L. 96–222, §101(a)(7)(I)(i), substituted “only if it is established on or before the due date (including any extension of such date) for the filing of the employer's tax return for the first taxable year of the employer for which an employee plan creditis claimed by the employer with respect to the plan” for “for a plan year only if it is established on or before the due date for the filing of the employer's tax return for the taxable year (including any extension of such date) in which or with which the plan year ends”.
 
 Subsec. (f)(2). Pub. L. 96–222, §101(a)(7)(I)(ii), (L)(v)(VII), substituted “employee plan” for “ESOP” and inserted “with respect to the plan” after “by the employer”.
 
@@ -622,7 +622,7 @@ Subsec. (n). Pub. L. 96–222, §101(a)(7)(L)(iii)(V), substituted “employee p
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–280 applicable to plan years beginning after Dec. 31, 2006, with special rules for collectively bargained agreements and certain employer securities held in an ESOP, see section 901(c) ofPub. L. 109–280, set out as a note under section 401 of this title.
+Amendment by Pub. L. 109–280 applicable to plan years beginning after Dec. 31, 2006, with special rules for collectively bargained agreements and certain employer securities held in an ESOP, see section 901(c) of Pub. L. 109–280, set out as a note under section 401 of this title.
 
 #### Effective Date of 2002 Amendment
 

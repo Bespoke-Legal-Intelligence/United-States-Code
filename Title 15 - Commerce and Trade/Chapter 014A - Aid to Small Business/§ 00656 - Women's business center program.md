@@ -182,7 +182,7 @@ The Administration shall evaluate and rank applicants in accordance with predete
 
 &emsp;&emsp;(B) may withhold such award or renewal, if the Administration determines that—
 
-&emsp;&emsp;&emsp;(i) the center has failed to provide any information required to be provided under clause (i) or (ii) of paragraph (1)(A), or the information provided by the center is inadequate; or
+&emsp;&emsp;&emsp;(i) the center has failed to provide any information required to be provided under clause (i) or (ii) of paragraph (1)(A), or theinformation provided by the center is inadequate; or
 
 &emsp;&emsp;&emsp;(ii) the center has failed to provide any information required to be provided by the center for purposes of the report of the Administration under subsection (j) of this section, or the information provided by the center is inadequate.
 
@@ -450,7 +450,7 @@ Pub. L. 110–28, title VIII, §8305(c), May 25, 2007, 121 Stat. 210, provided t
 
 #### Applicability
 
-Section 308(b) of Pub. L. 105–135 provided that:
+Pub. L. 105–135, title III, §308(b), Dec. 2, 1997, 111 Stat. 2615, provided that:
 
 “(1)
 

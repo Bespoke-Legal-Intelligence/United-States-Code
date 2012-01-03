@@ -22,7 +22,7 @@ Subject to valid, existing rights, lands within the special management areas are
 
 #### (f) Vehicular access
 
-The Secretary shall construct and maintain only those roads within the special management area and corridor which are indicated on the map: <i>Provided</i>, That the Secretary shall provide access to such roads, or to timber harvesting pursuant to subsection (c) of this section, in such a manner as to minimize environmental impact.
+The Secretary shall construct and maintain only those roads within the special management area and corridor which are indicated on themap: <i>Provided</i>, That the Secretary shall provide access to such roads, or to timber harvesting pursuant to subsection (c) of this section, in such a manner as to minimize environmental impact.
 
 (Pub. L. 102–220, §4, Dec. 11, 1991, 105 Stat. 1674.)
 

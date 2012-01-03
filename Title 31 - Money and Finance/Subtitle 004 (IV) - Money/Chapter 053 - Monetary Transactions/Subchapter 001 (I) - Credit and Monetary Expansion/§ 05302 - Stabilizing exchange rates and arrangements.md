@@ -116,7 +116,7 @@ Summary of Treasury Department Reports.—In addition to the information require
 
 “(a)
 
-Reporting Requirement.—Beginning on the last day of the first month which begins after the date of enactment of this Act \[Apr. 10, 1995\], and on the last day of every month thereafter, the Secretary of the Treasury shall submit to the appropriate congressional committees a report concerning all guarantees issued to, and short-term and long-term currency swaps with, the Government of Mexico by the United States Government, including the Board of Governors of the Federal Reserve System.
+Reporting Requirement.—Beginning on the last day of the first month which begins after the date of enactment of this Act \[Apr. 10, 1995\], and on the last day of every month thereafter, the Secretary of theTreasury shall submit to the appropriate congressional committees a report concerning all guarantees issued to, and short-term and long-term currency swaps with, the Government of Mexico by the United States Government, including the Board of Governors of the Federal Reserve System.
 
 “(b)
 
@@ -198,7 +198,7 @@ By virtue of the authority vested in me by the Constitution and the laws of the 
 
 (4) Mexico has in effect a significant economic reform effort.
 
-(5) The Executive Branch has provided the documents requested by House Resolution 80 adopted March 1, 1995, and described in paragraphs (1) through (28) of that Resolution. All documents identified as responsive to the Resolution have been provided to the entire House of Representatives. Pursuant to the terms of the Resolution, the Executive Branch has not provided those documents as to which the Executive Branch has informed the House that it would be inconsistent with the public interest to provide the documents to the House. Pursuant to arrangements for safekeeping of classified materials in House facilities, classified documents have been provided to the House by making them available either at designated, secure House facilities or at Executive Branch facilities. Each agency, including the Federal Reserve Board, has advised the House of the procedures employed by that agency to provide the documents requested by House Resolution 80.
+(5) The Executive Branch has provided the documents requested by House Resolution 80 adopted March 1, 1995, and described in paragraphs (1) through (28) of that Resolution. All documents identified as responsive to the Resolution have been provided to the entire House of Representatives. Pursuant to the terms of theResolution, the Executive Branch has not provided those documents as to which the Executive Branch has informed the House that it would be inconsistent with the public interest to provide the documents to the House. Pursuant to arrangements for safekeeping of classified materials in House facilities, classified documents have been provided to the House by making them available either at designated, secure House facilities or at Executive Branch facilities. Each agency, including the Federal Reserve Board, has advised the House of the procedures employed by that agency to provide the documents requested by House Resolution 80.
 
 I have been informed that the Board of Governors of the Federal Reserve System has provided the documents requested by House Resolution 80 and described in paragraphs (1) through (28) of that Resolution.
 

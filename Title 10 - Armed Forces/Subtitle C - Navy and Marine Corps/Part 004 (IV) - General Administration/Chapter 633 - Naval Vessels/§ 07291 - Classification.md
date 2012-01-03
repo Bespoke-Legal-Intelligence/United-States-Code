@@ -18,6 +18,18 @@ Historical and Revision Notes
 
 Mar. 3, 1901, ch. 852 (last par. as applicable to classification of vessels), 31 Stat. 1133.
 
+#### Metering of Navy Piers to Accurately Measure Energy Consumption
+
+Pub. L. 112–81, div. B, title XXVIII, §2828, Dec. 31, 2011, 125 Stat. 1694, provided that:
+
+“(a)
+
+Metering Required.—The Secretary of the Navy shall meter Navy piers so that the energy consumption of naval vessels while in port can be accurately measured and captured and steps taken to improve the efficient use of energy by naval vessels while in port.
+
+“(b)
+
+Progress Reports.—In each of the Department of Defense energy management reports submitted to Congress during fiscal years 2012 through 2017 under section 2925(a) of title 10, United States Code, the Secretary of the Navy shall include information on the progress being made to implement the metering of Navy piers, including information on any reductions in energy consumption achieved through the use of such metering.”
+
 #### Advance Procurement Funding
 
 Pub. L. 111–84, div. A, title I, §124(a), Oct. 28, 2009, 123 Stat. 2214, provided that:
@@ -216,7 +228,7 @@ Requirement.—The Secretary of the Navy shall include integrated power systems,
 
 #### Pilot Program for Flexible Funding of Cruiser Conversions and Overhauls
 
-Pub. L. 108–136, div. A, title I, §126, Nov. 24, 2003, 117 Stat. 1410, authorized the Secretary of the Navy tocarry out a pilot program for flexible funding of cruiser conversions and overhauls, prior to repeal by Pub. L. 108–287, title VIII, §8099 \[part\], Aug. 5, 2004, 118 Stat. 994, and Pub. L. 108–375, div. A, title I, §122, Oct. 28, 2004, 118 Stat. 1828.
+Pub. L. 108–136, div. A, title I, §126, Nov. 24, 2003, 117 Stat. 1410, authorized the Secretary of the Navy to carry out a pilot program for flexible funding of cruiser conversions and overhauls, prior to repeal by Pub. L. 108–287, title VIII, §8099 \[part\], Aug. 5, 2004, 118 Stat. 994, and Pub. L. 108–375, div. A, title I, §122, Oct. 28, 2004, 118 Stat. 1828.
 
 #### Vessel Scrapping Pilot Program
 
@@ -414,7 +426,7 @@ Pub. L. 101–189, div. A, title XVI, §1613, Nov. 29, 1989, 103 Stat. 1601, pro
 
 “(a)
 
-Category for Funding.—Any request submitted to Congress for appropriations for ship production engineering necessary to support the procurement of anyship included (at the time the request is submitted) in the five-year shipbuilding and conversion plan of the Navy shall be set forth in the Shipbuilding and Conversion account of the Navy (rather than in research and development accounts).
+Category for Funding.—Any request submitted to Congress for appropriations for ship production engineering necessary to support the procurement of any ship included (at the time the request is submitted) in the five-year shipbuilding and conversion plan of the Navy shall be set forth in the Shipbuilding and Conversion account of the Navy (rather than in research and development accounts).
 
 “(b)
 

@@ -50,7 +50,7 @@ Requirement for Competition.—The Secretary of the Navy shall use competitive p
 
 (f)
 
-Consideration.—(1) As consideration for the conveyance of real or personal property under subsection (b), or for the lease of real or personal property under subsection (c), the Secretary of the Navy shall accept cash, real property, personal property, or services, or any combination thereof, in an aggregate amount equal to not less than the fair market value of the real or personal property conveyed or leased.
+Consideration.—(1) As consideration for the conveyance of real or personal property under subsection (b), or for the lease of real orpersonal property under subsection (c), the Secretary of the Navy shall accept cash, real property, personal property, or services, or any combination thereof, in an aggregate amount equal to not less than the fair market value of the real or personal property conveyed or leased.
 
 (2) Subject to subsection (i), the services accepted by the Secretary under paragraph (1) may include the following:
 
@@ -114,7 +114,7 @@ Inapplicability of Certain Property Management Laws.—Except as otherwise provi
 
 (k)
 
-Scoring.—Nothing in this section shall be construed to waive the applicability to any leaseentered into under this section of the budget scorekeeping guidelines used to measure compliance with the Balanced Budget and Emergency Deficit Control Act of 1985.
+Scoring.—Nothing in this section shall be construed to waive the applicability to any lease entered into under this section of the budget scorekeeping guidelines used to measure compliance with the Balanced Budget and Emergency Deficit Control Act of 1985.
 
 (<i>l</i>)
 

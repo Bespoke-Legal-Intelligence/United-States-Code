@@ -6,7 +6,7 @@ The purposes of this chapter are to demonstrate how Indian tribal governments ca
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–568, title XI, §1101, Dec. 27, 2000, 114 Stat. 2930, provided that: “This title \[amending sections 3402,3404, and 3406 to 3408 of this title and enacting provisions set out as notes under this section\] may be cited as the ‘Indian Employment, Training, and Related Services Demonstration Act Amendments of 2000’.”
+Pub. L. 106–568, title XI, §1101, Dec. 27, 2000, 114 Stat. 2930, provided that: “This title \[amending sections 3402, 3404, and 3406 to 3408 of this title and enacting provisions set out as notes under this section\] may be cited as the ‘Indian Employment, Training, and Related Services Demonstration Act Amendments of 2000’.”
 
 #### Short Title
 

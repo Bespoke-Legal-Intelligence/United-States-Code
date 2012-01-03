@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Notwithstanding section 263, all expenditures (other than expenditures for the purchase of land or depreciable property or for the acquisition of circulation through the purchase of any part of the business of another publisher of a newspaper, magazine, or other periodical) to establish, maintain, or increase the circulation of a newspaper, magazine, or other periodical shall be allowed as a deduction; except that the deduction shall not be allowed with respect to the portion of such expenditures as, under regulations prescribed by the Secretary, is chargeable to capital account if the taxpayer elects, in accordance with such regulations, to treat such portion as so chargeable. Such election, if made, must be for the total amount of such portion of the expenditures which is so chargeable to capital account, and shall be binding for all subsequent taxable years unless, upon application by the taxpayer, the Secretary permits a revocation of such election subject to such conditions as he deems necessary.
+Notwithstanding section 263, all expenditures (other than expenditures for the purchase of land or depreciable property or for the acquisition of circulation through the purchase of any part of the business of another publisher of a newspaper, magazine, or other periodical) to establish, maintain, or increase the circulation of a newspaper, magazine, or other periodical shall be allowed as a deduction; except that the deduction shall not be allowed with respect to theportion of such expenditures as, under regulations prescribed by the Secretary, is chargeable to capital account if the taxpayer elects, in accordance with such regulations, to treat such portion as so chargeable. Such election, if made, must be for the total amount of such portion of the expenditures which is so chargeable to capital account, and shall be binding for all subsequent taxable years unless, upon application by the taxpayer, the Secretary permits a revocation of such election subject to such conditions as he deems necessary.
 
 #### (b) Cross reference
 
@@ -40,5 +40,5 @@ Amendment by Pub. L. 97–248 applicable to taxable years beginning after Dec. 3
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 
-For applicability of amendment by Pub. L. 99–514 notwithstanding any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that forsuch purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(2), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
+For applicability of amendment by Pub. L. 99–514 notwithstanding any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(2), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
 

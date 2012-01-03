@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 6 months after August 8, 2005, the Secretary of Energy, in consultation with the Secretary of the Interior, the Secretary of Agriculture, and the Secretary of Defense withrespect to lands under their respective jurisdictions, shall enter into a memorandum of understanding to coordinate all applicable Federal authorizations and environmental reviews relating to a proposed or existing utility facility. To the maximum extent practicable under applicable law, the Secretary of Energy shall, to ensure timely review and permit decisions, coordinate such authorizations and reviews with any Indian tribes, multi-State entities, and State agencies that are responsible for conducting any separate permitting and environmental reviews of the affected utility facility.
+&emsp;Not later than 6 months after August 8, 2005, the Secretary of Energy, in consultation with the Secretary of the Interior, the Secretary of Agriculture, and the Secretary of Defense with respect to lands under their respective jurisdictions, shall enter into a memorandum of understanding to coordinate all applicable Federal authorizations and environmental reviews relating to a proposed or existing utility facility. To the maximum extent practicable under applicable law, the Secretary of Energy shall, to ensure timely review and permit decisions, coordinate such authorizations and reviews with any Indian tribes, multi-State entities, and State agencies that are responsible for conducting any separate permitting and environmental reviews of the affected utility facility.
 
 #### (2) Contents
 

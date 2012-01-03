@@ -74,7 +74,7 @@ Each pension plan shall satisfy the requirements of subsection (b)(3) of this se
 
 (B) A plan shall not be treated as failing to meet the requirements of subparagraph (A) solely because the subsidized portion of any early retirement benefit is disregarded in determining benefit accruals.
 
-(C) Any regulations prescribed by the Secretary of the Treasury pursuant to subparagraphs (B) and (C) of section 411(b)(2) of title 26 shall apply with respect to the requirements ofthis paragraph in the same manner and to the same extent as such regulations apply with respect to the requirements of such section 411(b)(2).
+(C) Any regulations prescribed by the Secretary of the Treasury pursuant to subparagraphs (B) and (C) of section 411(b)(2) of title 26 shall apply with respect to the requirements of this paragraph in the same manner and to the same extent as such regulations apply with respect to the requirements of such section 411(b)(2).
 
 (3) A plan satisfies the requirements of this paragraph if—
 
@@ -106,7 +106,7 @@ In general.—A plan shall not be treated as failing to meet the requirements of
 
 &emsp;&emsp;(ii)
 
-Similarly situated.—For purposes of this subparagraph, a participant is similarly situated to any other individual if such participant is identical to such other individual in every respect (including period of service, compensation, position, date of hire, work history, and any other respect) except for age.
+Similarly situated.—For purposes of this subparagraph, a participant is similarlysituated to any other individual if such participant is identical to such other individual in every respect (including period of service, compensation, position, date of hire, work history, and any other respect) except for age.
 
 &emsp;&emsp;(iii)
 
@@ -178,7 +178,7 @@ Termination requirements.—An applicable defined benefit plan shall not be trea
 
 &emsp;&emsp;&emsp;(I) if the interest credit rate (or an equivalent amount) under the plan is a variable rate, the rate of interest used to determine accrued benefits under the plan shall be equal to the average of the rates of interest used under the plan during the 5-year period ending on the termination date, and
 
-&emsp;&emsp;&emsp;(II) the interest rate and mortality table used to determine the amount of any benefit under the plan payable in the form of an annuity payable at normal retirement age shall be the rate and table specified under the plan for such purpose as of the termination date, except that if such interest rate is a variable rate, the interest rate shall be determined under the rules of subclause (I).
+&emsp;&emsp;&emsp;(II) the interest rate and mortality table used to determine the amount of any benefit under the plan payable in the form of an annuity payable at normal retirement age shall be the rate and table specifiedunder the plan for such purpose as of the termination date, except that if such interest rate is a variable rate, the interest rate shall be determined under the rules of subclause (I).
 
 &emsp;(C)
 
@@ -220,7 +220,7 @@ Benefit accrued to date.—For purposes of this paragraph, any reference to the 
 
 &emsp;(i) except as provided in clause (ii), the balance of the employee's separate account consisting only of his contributions and the income, expenses, gains, and losses attributable thereto, or
 
-&emsp;(ii) if a separate account is not maintained with respect to an employee's contributionsunder such a plan, the amount which bears the same ratio to his total accrued benefit as the total amount of the employee's contributions (less withdrawals) bears to the sum of such contributions and the contributions made on his behalf by the employer (less withdrawals).
+&emsp;(ii) if a separate account is not maintained with respect to an employee's contributions under such a plan, the amount which bears the same ratio to his total accrued benefit as the total amount of the employee's contributions (less withdrawals) bears to the sum of such contributions and the contributions made on his behalf by the employer (less withdrawals).
 
 (B)
 
@@ -326,7 +326,7 @@ For the purposes of this part, an employer shall be treated as maintaining a pla
 
 (4) Any notice under paragraph (1) may be provided to a person designated, in writing, by the person to which it would otherwise be provided.
 
-(5) A plan shall not be treated as failing to meet the requirements of paragraph (1) merely because notice is provided before the adoption of the plan amendment if no material modificationof the amendment occurs before the amendment is adopted.
+(5) A plan shall not be treated as failing to meet the requirements of paragraph (1) merely because notice is provided before the adoption of the plan amendment if no material modification of the amendment occurs before the amendment is adopted.
 
 (6)(A) In the case of any egregious failure to meet any requirement of this subsection with respect to any plan amendment, the provisions of the applicable pension plan shall be applied as if such plan amendment entitled all applicable individuals to the greater of—
 
@@ -448,7 +448,7 @@ For the purposes of this part, an employer shall be treated as maintaining a pla
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in regulations or in clause (ii), a plan holding employer securities which are not publicly traded employer securities shall be treated as holding publicly traded employer securities if any employer corporation, or any member of a controlled group of corporations which includes such employer corporation, has issued a class of stock which is a publicly traded employer security.
+&emsp;&emsp;&emsp;Except as provided in regulations or in clause (ii), a plan holding employer securities which are not publicly traded employer securities shall be treated as holding publicly traded employer securities ifany employer corporation, or any member of a controlled group of corporations which includes such employer corporation, has issued a class of stock which is a publicly traded employer security.
 
 #### (ii) Exception for certain controlled groups with publicly traded securities
 
@@ -672,7 +672,7 @@ Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub
 
 Amendment by section 108(a)(5) to (8) of Pub. L. 109–280 applicable to plan years beginning after 2007, see section 108(e) of Pub. L. 109–280, set out as a note under section 1021 of this title.
 
-Amendment by section 502(c)(1) of Pub. L. 109–280 applicable to plan years beginning after Dec. 31, 2007, seesection 502(d) of Pub. L. 109–280, set out as a note under section 4980F of Title 26, Internal Revenue Code.
+Amendment by section 502(c)(1) of Pub. L. 109–280 applicable to plan years beginning after Dec. 31, 2007, see section 502(d) of Pub. L. 109–280, set out as a note under section 4980F of Title 26, Internal Revenue Code.
 
 Amendment by section 701(a)(1) of Pub. L. 109–280 applicable to periods beginning on or after June 29, 2005, with provisions relating to vesting and interest credit requirements for plans in existence on June 29, 2005, special rule for collectively bargained plans, and provisions relating to conversions of plan amendments adopted after, and taking effect after, June 29, 2005, see section 701(e) of Pub. L. 109–280, set out as a note under section 411 of Title 26, Internal Revenue Code.
 

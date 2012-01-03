@@ -42,7 +42,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In any case in which the total amount appropriated under section 15029 of this title for a fiscal year is more than $70,000,000, the allotment under this section for such fiscal year—
+&emsp;&emsp;In any case in which the total amount appropriated under section 15029 of this titlefor a fiscal year is more than $70,000,000, the allotment under this section for such fiscal year—
 
 &emsp;&emsp;&emsp;(i) to each of American Samoa, Guam, the United States Virgin Islands, or the Commonwealth of the Northern Mariana Islands may not be less than $220,000; and
 
@@ -108,5 +108,5 @@ If a State plan approved in accordance with section 15024 of this title provides
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–154, §3(b), Dec. 3, 2003, 117 Stat. 1934, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 2003 and apply to allotments beginning in fiscal year 2004.”
+Pub. L. 108–154, §3(b), Dec. 3, 2003, 117 Stat. 1934, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1,2003 and apply to allotments beginning in fiscal year 2004.”
 

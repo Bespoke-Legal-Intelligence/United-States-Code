@@ -12,7 +12,7 @@
 
 &emsp;(5) knowingly use any official grade designation or official mark on any container of grain by means of a tag, label, or otherwise, unless the grain in such container was officially inspected on the basis of an official sample taken while the grain was being loaded into or was in such container or officially weighed, respectively, and the grain was found to qualify for such designation or mark;
 
-&emsp;(6) knowingly make any false representation that any grain has been officially inspected, or officially inspected and found to be of a particular kind, class, quality, or condition, or that particular facts have been established with respect to grain by official inspection under this chapter, or that any weighing service under this chapter has been performed with respect to grain;
+&emsp;(6) knowingly make any false representation that any grain has been officially inspected, or officially inspected and found to be of a particular kind, class, quality, or condition, or that particular facts have been establishedwith respect to grain by official inspection under this chapter, or that any weighing service under this chapter has been performed with respect to grain;
 
 &emsp;(7) improperly influence, or attempt to improperly influence, any official inspection personnel or personnel of agencies delegated authority or of agencies or other persons designated under this chapter or any officer or employee of the Department of Agriculture with respect to the performance of the duties of the officer, employee, or other person under this chapter;
 
@@ -96,11 +96,11 @@
 
 #### Amendments
 
-2000—Subsec. (e)(1). Pub. L. 106–472 inserted “, or prohibit disguising the quality of grain,” after “sound and pure grain” in introductory provisions.
+<b>2000</b>—Subsec. (e)(1). Pub. L. 106–472 inserted “, or prohibit disguising the quality of grain,” after “sound and pure grain” in introductory provisions.
 
-1994—Subsecs. (a)(2), (13), (d)(2)(D), (E)(iii), (e)(1), (3) to (5). Pub. L. 103–354 substituted “Secretary” for “Administrator” wherever appearing.
+<b>1994</b>—Subsecs. (a)(2), (13), (d)(2)(D), (E)(iii), (e)(1), (3) to (5). Pub. L. 103–354 substituted “Secretary” for “Administrator” wherever appearing.
 
-1993—Pub. L. 103–156, §12(<i>l</i>), which directed amendment of “Section 13”, without specifying the name of the Act being amended, was executed to this section, which is section 13 of the United States Grain Standards Act, to reflect the probable intent of Congress.
+<b>1993</b>—Pub. L. 103–156, §12(<i>l</i>), which directed amendment of “Section 13”, without specifying the name of the Act being amended, was executed to this section, which is section 13 of the United States Grain Standards Act, to reflect the probable intent of Congress.
 
 Subsec. (a)(2). Pub. L. 103–156, §12(<i>l</i>)(1), substituted “the representative of the Administrator” for “his representative”.
 
@@ -110,11 +110,11 @@ Subsec. (a)(9). Pub. L. 103–156, §12(<i>l</i>)(3), substituted “the person�
 
 Subsec. (a)(11). Pub. L. 103–156, §7, amended par. (11) generally. Prior to amendment, par. (11) read as follows: “violate any provision of section 77; 78; 79(f)(2), (3), or (4); 79a; 79b(c); 84; 87; 87a; or 87f–1 of this title;”.
 
-1990—Subsec. (e). Pub. L. 101–624 added subsec. (e).
+<b>1990</b>—Subsec. (e). Pub. L. 101–624 added subsec. (e).
 
-1986—Subsec. (d). Pub. L. 99–641 added subsec. (d).
+<b>1986</b>—Subsec. (d). Pub. L. 99–641 added subsec. (d).
 
-1977—Subsec. (a)(6). Pub. L. 95–113, §§1604(j)(1), 1606(h), substituted “or condition” for “condition, or quantity” and inserted “, or that any weighing service under this chapter has been performed with respect to grain” after “official inspection under this chapter”.
+<b>1977</b>—Subsec. (a)(6). Pub. L. 95–113, §§1604(j)(1), 1606(h), substituted “or condition” for “condition, or quantity” and inserted “, or that any weighing service under this chapter has been performed with respect to grain” after “official inspection under this chapter”.
 
 Subsec. (a)(11). Pub. L. 95–113, §1604(j)(2), inserted references to sections 79(f)(3) and (4) and 87f–1 of this title.
 
@@ -122,7 +122,7 @@ Subsec. (a)(12). Pub. L. 95–113, §1604(j)(3), substituted “weighing equipme
 
 Subsec. (a)(13). Pub. L. 95–113, §1604(j)(4), substituted “financial interest in grain” for “financial interest in the grain” and “loading of the grain” for “loading of grain”.
 
-1976—Subsec. (a)(1). Pub. L. 94–582, §15(a)(1), substituted “official mark” for “official inspection mark”.
+<b>1976</b>—Subsec. (a)(1). Pub. L. 94–582, §15(a)(1), substituted “official mark” for “official inspection mark”.
 
 Subsec. (a)(2). Pub. L. 94–582, §15(a)(2), substituted “official mark” for “official inspection mark” in three places, “official certificate” for “official inspection certificate” and “Administrator” for “Secretary”.
 

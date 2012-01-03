@@ -64,7 +64,7 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b). Pub. L. 111–211, §103(1), added subsec. (b) and struck out former subsec. (b) which read asfollows: “Whoever knowingly violates subsection (a) shall—
+<b>2010</b>—Subsec. (b). Pub. L. 111–211, §103(1), added subsec. (b) and struck out former subsec. (b) which read as follows: “Whoever knowingly violates subsection (a) shall—
 
 &emsp;“(1) in the case of a first violation, if an individual, be fined not more than $250,000 or imprisoned not more than five years, or both, and, if a person other than an individual, be fined not more than $1,000,000; and
 

@@ -20,7 +20,7 @@ Foreign fishing described in subsection (a) of this section may be conducted pur
 
 #### (c) Governing international fishery agreements
 
-Foreign fishing described in subsection (a) of this section may be conducted pursuant to an international fishery agreement (other than a treaty) which meets the requirements of this subsection if such agreement becomes effective after application of section 1823 of this title. Any such international fishery agreement shall hereafter in this chapter be referred to as a “governing international fishery agreement”. Each governing international fishery agreement shall acknowledge the exclusive fishery management authority of the United States, as set forth in this chapter. It is the sense of the Congress that each such agreement shall include a binding commitment, on the part of such foreign nation and its fishing vessels, to comply with the following terms and conditions:
+Foreign fishing described in subsection (a) of this section may be conducted pursuant to aninternational fishery agreement (other than a treaty) which meets the requirements of this subsection if such agreement becomes effective after application of section 1823 of this title. Any such international fishery agreement shall hereafter in this chapter be referred to as a “governing international fishery agreement”. Each governing international fishery agreement shall acknowledge the exclusive fishery management authority of the United States, as set forth in this chapter. It is the sense of the Congress that each such agreement shall include a binding commitment, on the part of such foreign nation and its fishing vessels, to comply with the following terms and conditions:
 
 &emsp;(1) The foreign nation, and the owner or operator of any fishing vessel fishing pursuant to such agreement, will abide by all regulations promulgated by the Secretary pursuant to this chapter, including any regulations promulgated to implement any applicable fishery management plan or any preliminary fishery management plan.
 
@@ -124,7 +124,7 @@ The total allowable level of foreign fishing, if any, with respect to any fisher
 
 (D) If the certification of a foreign country is not terminated under section 1978(d) of title 22 before the close of the last day of the remedial period, the Secretary of State—
 
-&emsp;(i) with respect to any allocation made to that country and in effect (as reduced under subparagraph (B)) on such last day, shall rescind, effective on and after the day after such last day, any unharvested portion of such allocation; and
+&emsp;(i) with respect to any allocation made to that country and in effect (as reduced under subparagraph (B)) on such last day, shall rescind, effective on and after the day after suchlast day, any unharvested portion of such allocation; and
 
 &emsp;(ii) may not thereafter make any allocation to that country under paragraph (1) until the certification is terminated.
 
@@ -176,7 +176,7 @@ The Secretary, when notified by the Secretary of State that any foreign nation h
 
 (3) Observers, while stationed aboard foreign fishing vessels, shall carry out such scientific, compliance monitoring, and other functions as the Secretary deems necessary or appropriate to carry out the purposes of this chapter; and shall cooperate in carrying out such other scientific programs relating to the conservation and management of living resources as the Secretary deems appropriate.
 
-(4) In addition to any fee imposed under section 1824(b)(10) of this title and section 1980(e) of title 22 with respect to foreign fishing for any year after 1980, the Secretary shall impose, with respect to each foreign fishing vessel for which a permit is issued under such section 1824 of this title, a surcharge in an amount sufficient to cover all the costs of providing a United States observer aboard that vessel. The failure to pay any surcharge imposed under this paragraph shall be treated by the Secretary as a failure to pay the permit fee for such vessel under section 1824(b)(10) of this title. All surcharges collected by the Secretary under this paragraph shall be deposited in the Foreign Fishing Observer Fund established by paragraph (5).
+(4) In addition to any fee imposed under section 1824(b)(10) of this title and section 1980(e) of title 22 with respect to foreign fishing for any year after 1980, the Secretary shall impose, with respect to each foreign fishing vessel for which a permit is issued under such section 1824 of this title, a surcharge in an amount sufficient to cover all the costs of providing a United States observer aboard that vessel. The failure to pay any surcharge imposed under this paragraph shall be treated by the Secretary as a failure to pay the permit fee for such vessel under section1824(b)(10) of this title. All surcharges collected by the Secretary under this paragraph shall be deposited in the Foreign Fishing Observer Fund established by paragraph (5).
 
 (5) There is established in the Treasury of the United States the Foreign Fishing Observer Fund. The Fund shall be available to the Secretary as a revolving fund for the purpose of carrying out this subsection. The Fund shall consist of the surcharges deposited into it as required under paragraph (4). All payments made by the Secretary to carry out this subsection shall be paid from the Fund, only to the extent and in the amounts provided for in advance in appropriation Acts. Sums in the Fund which are not currently needed for the purposes of this subsection shall be kept on deposit or invested in obligations of, or guaranteed by, the United States.
 
@@ -204,7 +204,7 @@ Notwithstanding any other provision of this subchapter, foreign fishing vessels 
 
 <i>(2) in subsection (e)(1)(E)(IV)\[iv\], by inserting “or special areas” immediately after “exclusive economic zone”;</i>
 
-<i>(3) in subsection (i), (A) by inserting “or special areas” immediately before the period at the</i><i>end of paragraph (1)(A), (B) by inserting “or special areas” immediately after “exclusive economic zone” in paragraph (2)(A), and (C) by inserting “or special areas” immediately after “exclusive economic zone” in paragraph (2)(B); and</i>
+<i>(3) in subsection (i), (A) by inserting “or special areas” immediately before the period at the end of paragraph (1)(A), (B) by inserting “or special areas” immediately after “exclusive economic zone” in paragraph (2)(A), and (C) by inserting “or special areas” immediately after “exclusive economic zone” in paragraph (2)(B); and</i>
 
 <i>(4) in subsection (j), (A) by inserting “, special areas,” immediately after “exclusive economic zone”, and (B) by inserting “, areas,” immediately after “such zone”.</i>
 
@@ -286,7 +286,7 @@ Subsec. (j). Pub. L. 97–453, §2(a)(6), added subsec. (j).
 
 <b>1980</b>—Subsec. (d). Pub. L. 96–561, §230, designated existing provision as par. (2), substituted provision prescribing the total allowable level of foreign fishing with respect to any United States fishery for each harvesting season after the 1980 harvesting season as the level representing that portion of the optimum yield of such fishery that will not be harvested by vessels of the United States as determined in accordance with provisions of this chapter, other than those relating to the determination of annual fishing levels, or the annual fishing levels determined pursuant to par. (3) of this section for the harvesting season for provision prescribing the total allowable level of foreign fishing with respect to any fishery subject to the exclusive fishery management authority of the United States as that portion of the optimum yield of such fishery which will not be harvested by vessels of the United States, as determined in accordance with provisions of this chapter, and added pars. (1), (3), and (4).
 
-Subsec. (e). Pub. L. 96–561, §231(a), substituted “All such determinations shall be made by the Secretary of State and the Secretary on the basis of” for “In making any such determination, the Secretary of State and the Secretary shall consider”, added subpars. (A), (B), (D), and (E), redesignated former subpars. (A), (B), and (D) as (F), (G), and (H), respectively, and in subpar. (C) substituted determination where such nations and the fishing fleets of such nations have cooperated with the United States in enforcement of United States fishing regulations for determination where such nations have cooperated with the United States in enforcement and with respect to conservation and management of fishery resources.
+Subsec. (e). Pub. L. 96–561, §231(a), substituted “All such determinations shall be made by the Secretary of State and the Secretary on the basis of” for “In making any such determination, the Secretary of State and the Secretary shall consider”, added subpars. (A), (B), (D), and (E), redesignated former subpars. (A), (B), and\(D) as (F), (G), and (H), respectively, and in subpar. (C) substituted determination where such nations and the fishing fleets of such nations have cooperated with the United States in enforcement of United States fishing regulations for determination where such nations have cooperated with the United States in enforcement and with respect to conservation and management of fishery resources.
 
 Subsec. (i). Pub. L. 96–561, §236, added subsec. (i).
 
@@ -352,7 +352,7 @@ Regulations.—The regulations promulgated under subsection (b), shall be enforc
 
 #### Foreign Fishing for Atlantic Herring and Mackerel
 
-Pub. L. 104–43, title VIII, §802, Nov. 3, 1995, 109 Stat. 396, as amended by Pub. L. 104–208, div. A, title I,§101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: “Notwithstanding any other provision of law—
+Pub. L. 104–43, title VIII, §802, Nov. 3, 1995, 109 Stat. 396, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: “Notwithstanding any other provision of law—
 
 &emsp;“(1) no allocation may be made to any foreign nation or vessel under section 201 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.) \[16 U.S.C. 1821\] in any fishery for which there is not a fishery management plan implemented in accordance with that Act \[16 U.S.C. 1801 et seq.\]; and
 

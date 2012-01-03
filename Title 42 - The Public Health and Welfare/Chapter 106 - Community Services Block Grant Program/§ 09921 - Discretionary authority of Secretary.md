@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall, from funds reserved under section 9903(b)(3) of this title, make grants, loans, or guarantees to States and public agencies and private, nonprofit organizations, or enter into contracts or jointly financed cooperative arrangements with States and public agencies and private, nonprofit organizations (and for-profit organizations, to the extent specified in paragraph (2)(E)) for each of the objectives described in paragraphs (2) through (4).
+&emsp;The Secretary shall, from funds reserved under section 9903(b)(3) of this title, make grants, loans, or guarantees to States and public agencies and private, nonprofit organizations, or enter into contracts or jointly financed cooperative arrangements with Statesand public agencies and private, nonprofit organizations (and for-profit organizations, to the extent specified in paragraph (2)(E)) for each of the objectives described in paragraphs (2) through (4).
 
 #### (2) Community economic development
 
@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(A) grants to private, nonprofit corporations to enable the corporations to provide assistance concerning home repair to rural low-income families and concerning planning and developing low-income rural rental housing units; and
 
-&emsp;&emsp;(B) grants to multistate, regional, private, nonprofit organizations to enable the organizations to provide training and technicalassistance to small, rural communities concerning meeting their community facility needs.
+&emsp;&emsp;(B) grants to multistate, regional, private, nonprofit organizations to enable the organizations to provide training and technical assistance to small, rural communities concerning meeting their community facility needs.
 
 #### (4) Neighborhood innovation projects
 
@@ -56,15 +56,15 @@ A prior section 680 of Pub. L. 97–35 was classified to section 9909 of this ti
 
 #### Change of Name
 
-Committee on Education and the Workforce of the House of Representatives changed to Committee on Education and Labor of the House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
-
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 #### Procedures To Permit Grant Funds or Intangible Property Acquired by Grant Funds To Become Sole Property of Grantees
 
-Pub. L. 111–117, div. D, title II, Dec. 16, 2009, 123 Stat. 3251, provided in part: “That the Secretary of Health and Human Services shall establish procedures regarding the disposition of intangible assets and program income that permit such assets acquired with, and program income derived from, grant funds authorized under section 680 of the CSBG Act \[Community Services Block Grant Act, 42 U.S.C. 9921\] to become the sole property of such grantees after a period of not more than 12 years after the end of the grant period for any activity consistent with section 680(a)(2)(A) of the CSBG Act \[42 U.S.C. 9921(a)(2)(A)\]: <i>Provided further</i>, That intangible assets in the form of loans, equity investments and other debt instruments, and program income may be used by grantees for any eligible purpose consistent with section 680(a)(2)(A) of the CSBG Act: <i>Provided further</i>, That these procedures shall apply to such grant funds made available after November 29, 1999”.
+Pub. L. 112–74, div. F, title II, Dec. 23, 2011, 125 Stat. 1078, provided in part: “That the Secretary \[of Health and Human Services\] shall establish procedures regarding the disposition of intangible assets and program income that permit such assets acquired with, and program income derived from, grant funds authorized under section 680 of the CSBG Act \[Community Services Block Grant Act, 42 U.S.C. 9921\] to become the sole property of such grantees after a period of not more than 12 years after the end of the grant period for any activity consistent with section 680(a)(2)(A) of the CSBG Act \[42 U.S.C. 9921(a)(2)(A)\]: <i>Provided further</i>, That intangible assets in the form of loans, equity investments and other debt instruments, and program income may be used by grantees for any eligible purpose consistent with section 680(a)(2)(A) of the CSBG Act: <i>Provided further</i>, That these procedures shall apply to such grant funds made available after November 29, 1999”.
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 111–117, div. D, title II, Dec. 16, 2009, 123 Stat. 3251.
 
 Pub. L. 111–8, div. F, title II, Mar. 11, 2009, 123 Stat. 775.
 

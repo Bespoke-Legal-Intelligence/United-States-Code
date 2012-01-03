@@ -4,7 +4,7 @@ In this part:
 
 #### (1) Operational assistance
 
-&emsp;The term “operational assistance” means management, marketing, and other technical assistance that assists a small business concern with business development.
+&emsp;The term “operational assistance” means management, marketing, and other technicalassistance that assists a small business concern with business development.
 
 #### (2) Participation agreement
 

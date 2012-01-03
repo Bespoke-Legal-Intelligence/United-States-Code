@@ -20,7 +20,7 @@
 
 &emsp;&emsp;&emsp;(ii) total expenses in connection with lobbying activities (in the case of an organization whose employees engage in lobbying activities on its own behalf) do not exceed or are not expected to exceed $10,000,
 
-> &emsp;&emsp;(as estimated under section 1604 of this title) in the quarterly period described in section 1604(a) of this title during which the registration would be made is not required to register under this subsection with respect to such client.
+> &emsp;&emsp;(as estimated under section 1604 of this title) in the quarterly period described in section 1604(a) of this title during which the registration would be made is not required toregister under this subsection with respect to such client.
 
 #### (B) Adjustment
 
@@ -92,7 +92,7 @@ This chapter, referred to in subsec. (b), was in the original “this Act” mea
 
 #### Amendments
 
-2007—Subsec. (a)(1). Pub. L. 110–81, §201(b)(2)(A), inserted “or on the first business day after such 45th day if the 45th day is not a business day,” after “earlier,”.
+<b>2007</b>—Subsec. (a)(1). Pub. L. 110–81, §201(b)(2)(A), inserted “or on the first business day after such 45th day if the 45th day is not a business day,” after “earlier,”.
 
 Subsec. (a)(3)(A). Pub. L. 110–81, §201(b)(2)(B), substituted “quarterly period” for “semiannual period” in concluding provisions.
 

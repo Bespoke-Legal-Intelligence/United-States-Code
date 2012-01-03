@@ -2,7 +2,7 @@
 
 (a)(1) The following property is subject to forfeiture to the United States:
 
-&emsp;(A) Any property, real or personal, involved in a transaction or attempted transaction inviolation of section 1956, 1957 or 1960 of this title, or any property traceable to such property.
+&emsp;(A) Any property, real or personal, involved in a transaction or attempted transaction in violation of section 1956, 1957 or 1960 of this title, or any property traceable to such property.
 
 &emsp;(B) Any property, real or personal, within the jurisdiction of the United States, constituting, derived from, or traceable to, any proceeds obtained directly or indirectly from an offense against a foreign nation, or any property used to facilitate such an offense, if the offense—
 
@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(vi) section 1343 (relating to wire fraud),
 
-> &emsp;if such violation relates to the sale of assets acquired or held by the Resolution Trust Corporation, the Federal Deposit Insurance Corporation, as conservator or receiver for a financial institution, or any other conservator for a financial institution appointed by the Office of the Comptroller of the Currency or the Office of Thrift Supervision or the National Credit Union Administration, as conservator or liquidating agent for a financial institution.
+> &emsp;if such violation relates to the sale of assets acquired or held by the the <sup>1</sup> Federal Deposit Insurance Corporation, as conservator or receiver for a financial institution, or any other conservator for a financial institution appointed by the Office of the Comptroller of the Currency or the National Credit Union Administration, as conservator or liquidating agent for a financial institution.
 
 &emsp;(E) With respect to an offense listed in subsection (a)(1)(D) committed for the purpose of executing or attempting to execute any scheme or artifice to defraud, or for obtaining money or property by means of false or fraudulent statements, pretenses, representations or promises, the gross receipts of such an offense shall include all property, real or personal, tangible or intangible, which thereby is obtained, directly or indirectly.
 
@@ -58,7 +58,7 @@
 
 (2) For purposes of paragraph (1), the term “proceeds” is defined as follows:
 
-&emsp;(A) In cases involving illegal goods, illegal services, unlawful activities, and telemarketing and health care fraud schemes, the term “proceeds” means property of any kind obtained directly or indirectly, as the result ofthe commission of the offense giving rise to forfeiture, and any property traceable thereto, and is not limited to the net gain or profit realized from the offense.
+&emsp;(A) In cases involving illegal goods, illegal services, unlawful activities, and telemarketing and health care fraud schemes, the term “proceeds” means property of any kind obtained directly or indirectly, as the result of the commission of the offense giving rise to forfeiture, and any property traceable thereto, and is not limited to the net gain or profit realized from the offense.
 
 &emsp;(B) In cases involving lawful goods or lawful services that are sold or provided in an illegal manner, the term “proceeds” means the amount of money acquired through the illegal transactions resulting in the forfeiture, less the direct costs incurred in providing the goods or services. The claimant shall have the burden of proof with respect to the issue of direct costs. The direct costs shall not include any part of the overhead expenses of the entity providing the goods or services, or any part of the income taxes paid by the entity.
 
@@ -92,7 +92,7 @@
 
 &emsp;(3) require that the General Services Administration take custody of the property and remove it, if practicable, to an appropriate location for disposition in accordance with law.
 
-(d) For purposes of this section, the provisions of the customs laws relating to the seizure, summary and judicial forfeiture, condemnation of property for violation of the customs laws, the disposition of such property or the proceeds from the sale of such property under this section, the remission or mitigation of such forfeitures, and the compromise of claims (19 U.S.C. 1602 et seq.), insofar as they are applicable and not inconsistent with the provisions of this section, shall apply to seizures and forfeitures incurred, or alleged to have been incurred, under this section, except that such duties as are imposed upon the customs officer or any other person with respect to the seizure and forfeiture of property under the customs laws shall be performed with respect to seizures and forfeitures of property under this section by such officers, agents, or other persons as may be authorized or designated for that purpose by the Attorney General, the Secretary of the Treasury, or the Postal Service, as the case may be. The Attorney General shall have sole responsibility for disposing of petitions for remission or mitigation with respect to property involved in a judicial forfeiture proceeding.
+(d) For purposes of this section, the provisions of the customs laws relating to the seizure, summary and judicial forfeiture, condemnation of property for violation of the customs laws, the disposition of such property or the proceeds from the sale of such property under this section, the remission or mitigation of such forfeitures, and the compromise of claims (19 U.S.C.1602 et seq.), insofar as they are applicable and not inconsistent with the provisions of this section, shall apply to seizures and forfeitures incurred, or alleged to have been incurred, under this section, except that such duties as are imposed upon the customs officer or any other person with respect to the seizure and forfeiture of property under the customs laws shall be performed with respect to seizures and forfeitures of property under this section by such officers, agents, or other persons as may be authorized or designated for that purpose by the Attorney General, the Secretary of the Treasury, or the Postal Service, as the case may be. The Attorney General shall have sole responsibility for disposing of petitions for remission or mitigation with respect to property involved in a judicial forfeiture proceeding.
 
 (e) Notwithstanding any other provision of the law, except section 3 of the Anti Drug Abuse Act of 1986, the Attorney General, the Secretary of the Treasury, or the Postal Service, as the case may be, is authorized to retain property forfeited pursuant to this section, or to transfer such property on such terms and conditions as he may determine—
 
@@ -128,13 +128,13 @@
 
 &emsp;(C) continuation of the forfeiture proceeding will burden the right of the claimant against self-incrimination in the related investigation or case.
 
-(3) With respect to the impact of civil discovery described in paragraphs (1) and (2), the court may determine that a stay is unnecessary if a protective order limiting discovery would protect the interest of one party without unfairly limiting the ability of the opposing party to pursue the civil case. In no case, however, shall the court impose a protective order as an alternative to a stay if the effect of such protective order would be to allow one party to pursue discovery while the other party is substantially unable to do so.
+(3) With respect to the impact of civil discovery described in paragraphs (1) and (2), the court may determine that a stay is unnecessary if a protective order limiting discovery would protect the interest of one party without unfairly limiting the ability of the opposing party topursue the civil case. In no case, however, shall the court impose a protective order as an alternative to a stay if the effect of such protective order would be to allow one party to pursue discovery while the other party is substantially unable to do so.
 
 (4) In this subsection, the terms “related criminal case” and “related criminal investigation” mean an actual prosecution or investigation in progress at the time at which the request for the stay, or any subsequent motion to lift the stay is made. In determining whether a criminal case or investigation is “related” to a civil forfeiture proceeding, the court shall consider the degree of similarity between the parties, witnesses, facts, and circumstances involved in the two proceedings, without requiring an identity with respect to any one or more factors.
 
 (5) In requesting a stay under paragraph (1), the Government may, in appropriate cases, submit evidence ex parte in order to avoid disclosing any matter that may adversely affect an ongoing criminal investigation or pending criminal trial.
 
-(6) Whenever a civil forfeiture proceeding is stayed pursuant to this subsection, the courtshall enter any order necessary to preserve the value of the property or to protect the rights of lienholders or other persons with an interest in the property while the stay is in effect.
+(6) Whenever a civil forfeiture proceeding is stayed pursuant to this subsection, the court shall enter any order necessary to preserve the value of the property or to protect the rights of lienholders or other persons with an interest in the property while the stay is in effect.
 
 (7) A determination by the court that the claimant has standing to request a stay pursuant to paragraph (2) shall apply only to this subsection and shall not preclude the Government from objecting to the standing of the claimant by dispositive motion or at the time of trial.
 
@@ -174,11 +174,11 @@ In general.—
 
 &emsp;&emsp;(A)
 
-In general.—For the purpose of a forfeiture under this section or under the Controlled Substances Act (21 U.S.C. 801 et seq.), if funds are deposited into an account at a foreign financial institution (as defined in section 984(c)(2)(A) of this title), and that foreign financial institution (as defined in section 984(c)(2)(A) of this title) has an interbank account in the United States with a covered financial institution (as defined in section 5318(j)(1) of title 31), the funds shall be deemed to have been deposited into the interbank account in the United States, and any restraining order, seizure warrant, or arrest warrant in rem regarding the funds may be served on the covered financial institution, and funds in the interbank account, up to the value of the funds deposited into the account at the foreign financial institution (as defined in section 984(c)(2)(A) of this title), may be restrained, seized, or arrested.
+In general.—For the purpose of a forfeiture under this section or under the Controlled Substances Act (21 U.S.C. 801 et seq.), if funds are deposited into an account at a foreign financial institution (as defined in section 984(c)(2)(A) of this title), and that foreign financial institution (as defined insection 984(c)(2)(A) of this title) has an interbank account in the United States with a covered financial institution (as defined in section 5318(j)(1) of title 31), the funds shall be deemed to have been deposited into the interbank account in the United States, and any restraining order, seizure warrant, or arrest warrant in rem regarding the funds may be served on the covered financial institution, and funds in the interbank account, up to the value of the funds deposited into the account at the foreign financial institution (as defined in section 984(c)(2)(A) of this title), may be restrained, seized, or arrested.
 
 &emsp;&emsp;(B)
 
-Authority to suspend.—The Attorney General, in consultation with the Secretary of the Treasury, may suspend or terminate a forfeiture under this section if the Attorney General determines that a conflict of law exists between the laws of the jurisdiction in which the foreign financial institution (as defined in section 984(c)(2)(A) of this title) is located and the laws of the United States with respect to liabilities arising from the restraint, seizure, or arrest of such funds, and that such suspension or termination would be in the interest of justice and wouldnot harm the national interests of the United States.
+Authority to suspend.—The Attorney General, in consultation with the Secretary of the Treasury, may suspend or terminate a forfeiture under this section if the Attorney General determines that a conflict of law exists between the laws of the jurisdiction in which the foreign financial institution (as defined in section 984(c)(2)(A) of this title) is located and the laws of the United States with respect to liabilities arising from the restraint, seizure, or arrest of such funds, and that such suspension or termination would be in the interest of justice and would not harm the national interests of the United States.
 
 &emsp;(2)
 
@@ -218,10 +218,6 @@ Exception.—The foreign financial institution (as defined in section 984(c)(2)(
 
 (Added Pub. L. 99–570, title I, §1366(a), Oct. 27, 1986, 100 Stat. 3207–35; amended Pub. L. 100–690, title VI, §§6463(a), (b), 6469(b), 6470(b), (e), (f), 6471(c), Nov. 18, 1988, 102 Stat. 4374, 4377, 4378; Pub. L. 101–73, title IX, §963(a), (b), Aug. 9, 1989, 103 Stat. 504; Pub. L. 101–647, title I, §103, title XXV, §§2508, 2524, 2525(a), title XXXV, §3531, Nov. 29, 1990, 104 Stat. 4791, 4862, 4873, 4874, 4924; Pub. L. 102–393, title VI, §638(d), Oct. 6, 1992, 106 Stat. 1788; Pub. L. 102–519, title I, §104(a), Oct. 25, 1992, 106 Stat. 3385; Pub. L. 102–550, title XV, §§1525(c)(1), 1533, Oct. 28, 1992, 106 Stat. 4065, 4066; Pub. L. 103–322, title XXXIII, §330011(s)(2), Sept. 13, 1994, 108 Stat. 2146; Pub. L. 103–447, title I, §102(b), Nov. 2, 1994, 108 Stat. 4693; Pub. L. 106–185, §§2(c)(1), 5(a), 6, 8(a), 20, Apr. 25, 2000, 114 Stat. 210, 213–215, 224; Pub. L. 107–56, title III, §§319(a), 320, 372(b)(1), 373(b), title VIII, §806, Oct. 26, 2001, 115 Stat. 311, 315, 339, 340, 378; Pub. L. 107–197, title III, §301(d), June 25, 2002, 116 Stat. 728; Pub. L. 107–273, div. B, title IV, §4002(a)(2), Nov. 2, 2002, 116 Stat. 1806; Pub. L. 109–177, title I, §§111, 120, title IV, §§404, 406(a)(3), Mar. 9, 2006, 120 Stat. 209, 221, 244; Pub. L. 111–203, title III, §377(3), July 21, 2010, 124 Stat. 1569.)
 
-#### Amendment of Subsection (a)(1)(D)
-
-<i>Pub. L. 111–203, title III, §§351, 377(3), July 21, 2010, 124 Stat. 1546, 1569, provided that, effective on the transfer date, subsection (a)(1)(D) of this section is amended by striking “Resolution Trust Corporation,” and by striking “or the Office of Thrift Supervision”. See Effective Date of 2010 Amendment note below.</i>
-
 #### References in Text
 
 The Controlled Substances Act, referred to in subsecs. (a)(1)(B)(i), (b)(4)(A), and (k)(1)(A), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
@@ -239,6 +235,8 @@ Section 8(e)(7)(D) of the Federal Deposit Insurance Act, referred to in subsec. 
 Section 481(h) of the Foreign Assistance Act of 1961, referred to in subsec. (i)(1)(C), was classified to section 2291(h) of Title 22, Foreign Relations and Intercourse, prior to repeal of subsec. (h) by Pub. L. 102–583, §6(b)(2), Nov. 2, 1992, 106 Stat. 4932. Reference to section 481(h) of the Foreign Assistance Act of 1961 probably should be to section 490(a)(1) of the Act, which is classified to section 2291j(a)(1) of Title 22.
 
 #### Amendments
+
+<b>2010</b>—Subsec. (a)(1)(D). Pub. L. 111–203, in concluding provisions, struck out “Resolution Trust Corporation,” after “acquired or held by the” and “or the Office of Thrift Supervision” after “Office of the Comptroller of the Currency”.
 
 <b>2006</b>—Subsec. (a)(1)(B)(i). Pub. L. 109–177, §111, inserted “trafficking in nuclear, chemical, biological, or radiological weapons technology or material, or” after “involves”.
 
@@ -352,7 +350,7 @@ Subsec. (c). Pub. L. 100–690, §6469(b)(2), substituted “the Attorney Genera
 
 Subsec. (d). Pub. L. 100–690, §6469(b)(2), (3), substituted “the Attorney General, the Secretary of the Treasury, or the Postal Service” for “the Attorney General or the Secretary of the Treasury” and inserted provision that Attorney General have sole responsibility for disposing of petitions for remission or mitigation with respect to property involved in a judicial forfeiture proceeding.
 
-Subsec. (e). Pub. L. 100–690, §6469(b)(2), which directed the substitution of “the Attorney General, the Secretary of the Treasury, or the Postal Service” for “the Attorney General or the Secretary of the Treasury” was executed to reflect the probable intent of Congress by making the substitution in four places without regard as to whether or not the initial article “the” was capitalized.
+Subsec. (e). Pub. L. 100–690, §6469(b)(2), which directed the substitution of “the Attorney General, the Secretary of the Treasury, or the Postal Service” for “the Attorney General or the Secretary of the Treasury”was executed to reflect the probable intent of Congress by making the substitution in four places without regard as to whether or not the initial article “the” was capitalized.
 
 Pub. L. 100–690, §6469(b)(4), inserted provision that the authority granted to the Secretary of the Treasury and the Postal Service apply only to property that has been administratively forfeited.
 
@@ -366,7 +364,7 @@ Amendment by Pub. L. 111–203 effective on the transfer date, see section 351 o
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–185 applicable to any forfeiture proceeding commenced on or after the date that is 120 days after Apr. 25, 2000, see section 21 of Pub. L.106–185, set out as a note under section 1324 of Title 8, Aliens and Nationality.
+Amendment by Pub. L. 106–185 applicable to any forfeiture proceeding commenced on or after the date that is 120 days after Apr. 25, 2000, see section 21 of Pub. L. 106–185, set out as a note under section 1324 of Title 8, Aliens and Nationality.
 
 #### Effective Date of 1994 Amendment
 

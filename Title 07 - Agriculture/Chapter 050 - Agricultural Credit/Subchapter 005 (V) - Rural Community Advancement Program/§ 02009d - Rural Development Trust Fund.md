@@ -86,9 +86,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (d)(3)(B). Pub. L. 110–246, §6012(b)(4), substituted “1932(a)(2)(A)” for “1932(a)(1)”.
+<b>2008</b>—Subsec. (d)(3)(B). Pub. L. 110–246, §6012(b)(4), substituted “1932(a)(2)(A)” for “1932(a)(1)”.
 
-2002—Subsec. (b)(4), (5). Pub. L. 107–171, §6026(a)(1), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “The national reserve account.”
+<b>2002</b>—Subsec. (b)(4), (5). Pub. L. 107–171, §6026(a)(1), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “The national reserve account.”
 
 Subsec. (e). Pub. L. 107–171, §6026(a)(2), (3), redesignated subsec. (f) as (e) and struck out heading and text of former subsec. (e) which related to national reserve account.
 
@@ -96,13 +96,25 @@ Subsec. (f). Pub. L. 107–171, §6026(a)(3), redesignated subsec. (g) as (f). F
 
 Subsecs. (g), (h). Pub. L. 107–171, §6026(a)(3), (4), redesignated subsec. (h) as (g) and substituted “subsection (f) of this section” for “subsection (g) of this section”. Former subsec. (g) redesignated (f).
 
-2000—Subsec. (d)(1)(B). Pub. L. 106–472, §305(b), substituted “paragraph (19), (20), or (21)” for “paragraph (19) or (20)”.
+<b>2000</b>—Subsec. (d)(1)(B). Pub. L. 106–472, §305(b), substituted “paragraph (19), (20), or (21)” for “paragraph (19) or (20)”.
 
 Pub. L. 106–472, §304(b), substituted “paragraph (19) or (20) of section 1926(a)” for “section 1926(a)(19)”.
 
-1997—Subsec. (d)(3)(B). Pub. L. 105–86 inserted “direct and” after “business and industry”.
+<b>1997</b>—Subsec. (d)(3)(B). Pub. L. 105–86 inserted “direct and” after “business and industry”.
 
 #### Effective Date of 2008 Amendment
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+
+#### Transfer of Account Balances
+
+Pub. L. 112–55, div. A, title VII, §747, Nov. 18, 2011, 125 Stat. 590, provided that: “For 2012 and subsequent fiscal years—
+
+&emsp;“(1) Any balances to carry out a housing demonstration program to provide revolving loans for the preservation of low-income multi-family housing projects as authorized in Public Law 108–447 and Public Law 109–97 and a demonstration program for the preservation and revitalization of the section 515 multi-family rental housing properties as authorized by Public Law 109–97 and Public Law 110–5 shall be transferred to and merged with the ‘Rural Housing Service, Multi-family Housing Revitalization Program Account’;
+
+&emsp;“(2) Any prior balances in the Rural Development, Rural Community Advancement Program account for programs authorized by section 306 \[7 U.S.C. 1926\] and described in section 381E(d)(1) \[7 U.S.C. 2009d(d)(1)\] of such Act \[probably means title III of Pub. L. 87–128, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter\] be transferred and merged with the ‘Rural Community Facilities Program Account’ and any other prior balances from the Rural Development, Rural Community Advancement Program account that the Secretary determines are appropriate to transfer;
+
+&emsp;“(3) Any prior balances in the Rural Development, Rural Community Advancement Program account for programs authorized by sections 306 and 310B \[7 U.S.C. 1926, 1932\] and described in sections 310B(f) and 381E(d)(3) of such Act be transferred and merged with the ‘Rural Business Program Account’ and any other prior balances from the Rural Development, Rural Community Advancement Program account that the Secretary determines are appropriate to transfer; and
+
+&emsp;“(4) Any prior balances in the Rural Development, Rural Community Advancement Program account programs authorized by sections 306, 306A, 306C, 306D, 306E, and 310B \[7 U.S.C. 1926, 1926a, 1926c, 1926d, 1926e, 1932\] and described in sections 306C(a)(2), 306D, 306E, and 381E(d)(2) of such Act be transferred to and merged with the ‘Rural Water and Waste Disposal Program Account’ and any other prior balances from the Rural Development, Rural Community Advancement Program account that the Secretary determines are appropriate to transfer.”
 

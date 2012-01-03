@@ -44,7 +44,7 @@ In this section:
 
 #### (6) Crop of economic significance
 
-&emsp;The term “crop of economic significance” shall have the uniform meaning given the term by the Secretary for purposes of subsections (b)(1)(B) and (g)(6).
+&emsp;The term “crop of economic significance” shall have the uniform meaning given theterm by the Secretary for purposes of subsections (b)(1)(B) and (g)(6).
 
 #### (7) Disaster county
 
@@ -172,7 +172,7 @@ In this section:
 
 #### (B) Crop loss
 
-&emsp;&emsp;To be eligible for crop loss assistance under this subsection, the actual production on the farm for at least 1 crop of economic significance shall be reduced by at least 10 percent due to disaster, adverse weather, or disaster-related conditions.
+&emsp;&emsp;To be eligible for crop loss assistance under this subsection, the actual productionon the farm for at least 1 crop of economic significance shall be reduced by at least 10 percent due to disaster, adverse weather, or disaster-related conditions.
 
 #### (2) Amount
 
@@ -252,9 +252,9 @@ In this section:
 
 &emsp;&emsp;&emsp;(ii) 15 percent of amount of any direct payments made to the producer under sections 1103 and 1303 of the Food, Conservation, and Energy Act of 2008 \[7 U.S.C. 8713, 8753\] or successor sections;
 
-&emsp;&emsp;&emsp;(iii) the total amount of any counter-cyclical payments made to the producer under sections 1104 and 1304 of the Food, Conservation, and Energy Act of 2008 \[7 U.S.C. 8714, 8754\] or successor sections or of any average crop revenue election payments made to the producer under section 1105 of that Act \[7 U.S.C. 8715\];
+&emsp;&emsp;&emsp;(iii) the total amount of any counter-cyclical payments made to the producerunder sections 1104 and 1304 of the Food, Conservation, and Energy Act of 2008 \[7 U.S.C. 8714, 8754\] or successor sections or of any average crop revenue election payments made to the producer under section 1105 of that Act \[7 U.S.C. 8715\];
 
-&emsp;&emsp;&emsp;(iv) the total amount of any loan deficiency payments, marketing loan gains,and marketing certificate gains made to the producer under subtitles B and C of the Food, Conservation, and Energy Act of 2008 <sup>4</sup> or successor subtitles;
+&emsp;&emsp;&emsp;(iv) the total amount of any loan deficiency payments, marketing loan gains, and marketing certificate gains made to the producer under subtitles B and C of the Food, Conservation, and Energy Act of 2008 <sup>4</sup> or successor subtitles;
 
 &emsp;&emsp;&emsp;(v) the amount of payments for prevented planting on a farm;
 
@@ -344,7 +344,7 @@ In this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term “covered livestock” means livestock of an eligible livestock producerthat, during the 60 days prior to the beginning date of a qualifying drought or fire condition, as determined by the Secretary, the eligible livestock producer—
+&emsp;&emsp;&emsp;The term “covered livestock” means livestock of an eligible livestock producer that, during the 60 days prior to the beginning date of a qualifying drought or fire condition, as determined by the Secretary, the eligible livestock producer—
 
 &emsp;&emsp;&emsp;&emsp;(I) owned;
 
@@ -606,11 +606,11 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) under paragraph (3) to eligible orchardists and nursery tree growers that planted trees for commercial purposes but lost the trees as a result of a natural disaster, as determined by the Secretary; and
 
-&emsp;&emsp;&emsp;(ii) under paragraph (3)(B) to eligible orchardists and nursery tree growers that have a production history for commercial purposes on planted or existing trees but lost the trees as a result of a natural disaster, as determined by the Secretary.
+&emsp;&emsp;&emsp;(ii) under paragraph (3)(B) to eligible orchardists and nursery tree growers that have a production history for commercial purposes on planted or existing trees butlost the trees as a result of a natural disaster, as determined by the Secretary.
 
 #### (B) Limitation
 
-&emsp;&emsp;An eligible orchardist or nursery tree grower shall qualify for assistance undersubparagraph (A) only if the tree mortality of the eligible orchardist or nursery tree grower, as a result of damaging weather or related condition, exceeds 15 percent (adjusted for normal mortality).
+&emsp;&emsp;An eligible orchardist or nursery tree grower shall qualify for assistance under subparagraph (A) only if the tree mortality of the eligible orchardist or nursery tree grower, as a result of damaging weather or related condition, exceeds 15 percent (adjusted for normal mortality).
 
 #### (3) Assistance
 

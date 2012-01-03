@@ -20,7 +20,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), the amount of any contribution required by this section (including any required installments under paragraphs (3) and (4) of section 430(j)) shall be paid by the employer responsible for making contributions to or under the plan.
+&emsp;Except as provided in paragraph (2), the amount of any contribution required by this section (including any required installmentsunder paragraphs (3) and (4) of section 430(j)) shall be paid by the employer responsible for making contributions to or under the plan.
 
 #### (2) Joint and several liability where employer member of controlled group
 
@@ -98,7 +98,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) any comments of the Corporation under clause (i)(II), and
 
-&emsp;&emsp;&emsp;&emsp;(II) any views of any employee organization (within the meaning of section 3(4) of the Employee Retirement Income Security Act of 1974) representing participants in the plan which are submitted in writing to the Secretary in connection with such application.
+&emsp;&emsp;&emsp;&emsp;(II) any views of any employee organization (within the meaning of section3(4) of the Employee Retirement Income Security Act of 1974) representing participants in the plan which are submitted in writing to the Secretary in connection with such application.
 
 > &emsp;&emsp;Information provided to the Corporation under this subparagraph shall be considered tax return information and subject to the safeguarding and reporting requirements of section 6103(p).
 
@@ -120,13 +120,13 @@
 
 #### (5) Special rules for single-employer plans
 
-#### (A) Application must be submitted before date 21/2 months after close of year
+#### (A) Application must be submitted before date 2½ months after close of year
 
 &emsp;&emsp;In the case of a defined benefit plan which is not a multiemployer plan, no waiver may be granted under this subsection with respect to any plan for any plan year unless an application therefor is submitted to the Secretary not later than the 15th day of the 3rd month beginning after the close of such plan year.
 
 #### (B) Special rule if employer is member of controlled group
 
-&emsp;&emsp;In the case of a defined benefit plan which is not a multiemployer plan, if an employeris a member of a controlled group, the temporary substantial business hardship requirements of paragraph (1) shall be treated as met only if such requirements are met—
+&emsp;&emsp;In the case of a defined benefit plan which is not a multiemployer plan, if an employer is a member of a controlled group, the temporary substantial business hardship requirements of paragraph (1) shall be treated as met only if such requirements are met—
 
 &emsp;&emsp;&emsp;(i) with respect to such employer, and
 
@@ -170,11 +170,11 @@
 
 &emsp;For purposes of this section, any amendment applying to a plan year which—
 
-&emsp;&emsp;(A) is adopted after the close of such plan year but no later than 21/2 months after the close of the plan year (or, in the case of a multiemployer plan, no later than 2 years after the close of such plan year),
+&emsp;&emsp;(A) is adopted after the close of such plan year but no later than 2½ months after the close of the plan year (or, in the case of a multiemployer plan, no later than 2 years after the close of such plan year),
 
 &emsp;&emsp;(B) does not reduce the accrued benefit of any participant determined as of the beginning of the first plan year to which the amendment applies, and
 
-&emsp;&emsp;(C) does not reduce the accrued benefit of any participant determined as of the time of adoption except to the extent required by the circumstances,
+&emsp;&emsp;(C) does not reduce the accrued benefit of any participant determined as of the time ofadoption except to the extent required by the circumstances,
 
 > &emsp;shall, at the election of the plan administrator, be deemed to have been made on the first day of such plan year. No amendment described in this paragraph which reduces the accrued benefits of any participant shall take effect unless the plan administrator files a notice with the Secretary notifying him of such amendment and the Secretary has approved such amendment, or within 90 days after the date on which such notice was filed, failed to disapprove such amendment. No amendment described in this subsection shall be approved by the Secretary unless the Secretary determines that such amendment is necessary because of a temporary substantial business hardship (as determined under subsection (c)(2)) or a substantial business hardship (as so determined) in the case of a multiemployer plan and that a waiver under subsection (c) (or, in the case of a multiemployer plan, any extension of the amortization period under section 431(d)) is unavailable or inadequate.
 
@@ -232,7 +232,7 @@
 
 &emsp;This section applies with respect to a terminated multiemployer plan to which section 4021 of the Employee Retirement Income Security Act of 1974 applies until the last day of the plan year in which the plan terminates (within the meaning of section 4041A(a)(2) of such Act).
 
-(Added Pub. L. 93–406, title II, §1013(a), Sept. 2, 1974, 88 Stat. 914; amended Pub. L. 94–455, title XIX, §§1901(a)(63), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1775, 1834; Pub. L. 96–364, title II, §§203, 208(c), Sept. 26, 1980, 94 Stat. 1285, 1289; Pub. L. 98–369, div. A, title IV, §491(d)(25), July 18, 1984, 98 Stat. 850; Pub. L. 99–272, title XI, §§11015(a)(2), (b)(2), 11016(c)(4), Apr. 7, 1986, 100 Stat. 265, 267, 273; Pub. L. 100–203, title IX, §§9301(a), 9303(a), (d)(1), 9304(a)(1), (b)(1), (e)(1), 9305(b)(1), 9306(a)(1), (b)(1), (c)(1), (d)(1), (e)(1), 9307(a)(1), (b)(1), (e)(1), Dec. 22, 1987, 101 Stat. 1330–331, 1330–333, 1330–342 to 1330–344, 1330–348, 1330–351, 1330–352, 1330–354 to 1330–357; Pub. L. 100–647, title II, §2005(a)(2)(A), (d)(1), Nov. 10, 1988, 102 Stat. 3610, 3612; Pub. L. 101–239, title VII, §7881(a)(1)(A), (2)(A), (3)(A), (4)(A), (5)(A), (6)(A), (b)(1)(A), (2)(A), (3)(A), (4)(A), (6)(A), (c)(1), (d)(1)(A), Dec. 19, 1989, 103 Stat. 2435–2439; Pub. L. 103–465, title VII, §§751(a)(1)–(9)(A), (10), 752(a), 753(a), 754(a), 768(a), Dec. 8, 1994, 108 Stat. 5012–5019, 5021–5023, 5040; Pub. L. 105–34, title XV, §1521(a), (c)(1), (3)(A), title XVI, §1604(b)(2)(A), Aug. 5, 1997, 111 Stat. 1069, 1070, 1097; Pub. L. 107–16, title VI, §§651(a), 661(a), June 7, 2001, 115 Stat. 129, 141; Pub. L. 107–147, title IV, §§405(a), 411(v)(1), Mar. 9, 2002, 116 Stat. 42, 52; Pub. L. 108–218, title I, §§101(b)(1)–(3), 102(b), 104(b), Apr. 10, 2004, 118 Stat. 597, 598, 601, 606; Pub. L. 109–135, title IV, §412(x)(1), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 109–280, title I, §111(a), title II, §212(c), title III, §301(b), Aug. 17, 2006, 120 Stat. 820, 917, 919; Pub. L. 110–458, title I, §§101(a)(2), 102(b)(2)(H), Dec. 23, 2008, 122 Stat. 5093, 5103.)
+(Added Pub. L. 93–406, title II, §1013(a), Sept. 2, 1974, 88 Stat. 914; amended Pub. L. 94–455, title XIX, §§1901(a)(63), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1775, 1834; Pub. L. 96–364, title II, §§203, 208(c), Sept. 26, 1980, 94 Stat. 1285, 1289; Pub. L. 98–369, div. A, title IV, §491(d)(25), July 18, 1984, 98 Stat. 850; Pub. L. 99–272, title XI, §§11015(a)(2), (b)(2), 11016(c)(4), Apr. 7, 1986, 100 Stat. 265, 267, 273; Pub. L. 100–203, title IX, §§9301(a), 9303(a), (d)(1), 9304(a)(1), (b)(1), (e)(1), 9305(b)(1), 9306(a)(1), (b)(1), (c)(1), (d)(1), (e)(1), 9307(a)(1), (b)(1), (e)(1), Dec. 22, 1987, 101 Stat. 1330–331, 1330–333, 1330–342 to 1330–344, 1330–348, 1330–351, 1330–352, 1330–354 to 1330–357; Pub. L. 100–647, title II, §2005(a)(2)(A), (d)(1), Nov. 10, 1988, 102 Stat. 3610, 3612; Pub. L. 101–239, title VII, §7881(a)(1)(A), (2)(A), (3)(A), (4)(A), (5)(A), (6)(A), (b)(1)(A), (2)(A), (3)(A), (4)(A), (6)(A), (c)(1), (d)(1)(A), Dec. 19, 1989, 103 Stat. 2435–2439; Pub. L. 103–465, title VII, §§751(a)(1)–(9)(A), (10), 752(a), 753(a), 754(a), 768(a), Dec. 8, 1994, 108 Stat. 5012–5019, 5021–5023, 5040; Pub. L. 105–34, title XV, §1521(a), (c)(1), (3)(A), title XVI, §1604(b)(2)(A), Aug. 5, 1997, 111 Stat. 1069, 1070, 1097; Pub. L. 107–16, title VI, §§651(a), 661(a), June 7, 2001, 115 Stat. 129, 141; Pub. L. 107–147, title IV, §§405(a), 411(v)(1), Mar. 9, 2002, 116 Stat. 42, 52; Pub. L. 108–218, title I, §§101(b)(1)–(3), 102(b), 104(b), Apr. 10, 2004, 118 Stat. 597, 598, 601, 606; Pub. L. 109–135, title IV,§412(x)(1), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 109–280, title I, §111(a), title II, §212(c), title III, §301(b), Aug. 17, 2006, 120 Stat. 820, 917, 919; Pub. L. 110–458, title I, §§101(a)(2), 102(b)(2)(H), Dec. 23, 2008, 122 Stat. 5093, 5103.)
 
 #### Amendment of Section
 
@@ -254,7 +254,7 @@ Subsec. (c)(7)(A). Pub. L. 110–458, §101(a)(2)(B), inserted “which reduces 
 
 Subsec. (d)(1). Pub. L. 110–458, §101(a)(2)(C), struck out “, the valuation date,” after “If the funding method”.
 
-<b>2006</b>—Pub. L. 109–280, §111(a), reenacted heading without change and amended text generally, substituting provisions relating to minimum funding standard requirement, liability for contributions, variance from minimum funding standards, miscellaneous rules, and plans to which section applies, consisting of subsecs. (a) to (e), for provisions relating to general rule for satisfaction of minimum funding standard, funding standard account, special rules, variance from minimum funding standard, extension of amortization periods, requirements relating to waivers and extensions, alternative minimum funding standard, exceptions, certain insurance contract plans, certain terminated multiemployerplans, financial assistance, additional funding requirements for plans which are not multiemployer plans, quarterly contributions requirement, and imposition of lien where failure to make required contributions, consisting of subsecs. (a) to (n).
+<b>2006</b>—Pub. L. 109–280, §111(a), reenacted heading without change and amended text generally, substituting provisions relating to minimum funding standard requirement, liability for contributions, variance from minimum funding standards, miscellaneous rules, and plans to which section applies, consisting of subsecs. (a) to (e), for provisions relating to general rule for satisfaction of minimum funding standard, funding standard account, special rules, variance from minimum funding standard, extension of amortization periods, requirements relating to waivers and extensions, alternative minimum funding standard, exceptions, certain insurance contract plans, certain terminated multiemployer plans, financial assistance, additional funding requirements for plans which are not multiemployer plans, quarterly contributions requirement, and imposition of lien where failure to make required contributions, consisting of subsecs. (a) to (n).
 
 Subsec. (b)(3). Pub. L. 109–280, §§212(c), 221(c), temporarily added par. (3). See Effective and Termination Dates of 2006 Amendment note below.
 
@@ -414,7 +414,7 @@ Subsec. (b)(2)(C), (3)(B)(ii). Pub. L. 100–203, §9307(a)(1)(A), substituted �
 
 Subsec. (b)(3)(B)(iii). Pub. L. 100–203, §9307(a)(1)(B), substituted “10 plan years (30 plan years in the case of a multiemployer plan)” for “30 plan years”.
 
-Subsec. (b)(5). Pub. L. 100–203, §9307(e)(1), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The funding standard account (and items therein) shall be charged or credited (as determined under regulations prescribed by the Secretary) with interest at the appropriate rate consistent with the rate or rates of interest used under the plan to determine costs.”
+Subsec. (b)(5). Pub. L. 100–203, §9307(e)(1), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The funding standard account (and itemstherein) shall be charged or credited (as determined under regulations prescribed by the Secretary) with interest at the appropriate rate consistent with the rate or rates of interest used under the plan to determine costs.”
 
 Subsec. (c)(2)(B). Pub. L. 100–203, §9303(d)(1), inserted at end “In the case of a plan other than a multiemployer plan, this subparagraph shall not apply, but the Secretary may by regulations provide that the value of any dedicated bond portfolio of such plan shall be determined by using the interest rate under subsection (b)(5).”
 
@@ -516,7 +516,7 @@ Funding improvement and rehabilitation plans.—If a plan is operating under a f
 
 #### Effective Date of 2004 Amendment
 
-Amendment by section 101(b)(1)–(3) of Pub. L. 108–218 applicable, except as otherwise provided, to plan yearsbeginning after Dec. 31, 2003, see section 101(d) of Pub. L. 108–218, set out as a note under section 404 of this title.
+Amendment by section 101(b)(1)–(3) of Pub. L. 108–218 applicable, except as otherwise provided, to plan years beginning after Dec. 31, 2003, see section 101(d) of Pub. L. 108–218, set out as a note under section 404 of this title.
 
 #### Effective Date of 2002 Amendment
 
@@ -766,7 +766,7 @@ Pub. L. 108–218, title I, §102(c), Apr. 10, 2004, 118 Stat. 602, provided tha
 
 #### Special Rule for Unamortized Balances Under Existing Law
 
-Pub. L. 105–34, title XV, §1521(d)(2), Aug. 5, 1997, 111 Stat. 1070, provided that: “The unamortized balance (as of the close of the plan year preceding the plan's first year beginning in 1999) of any amortization base established under \[former\] section 412(c)(7)(D)(iii) of such Code \[26 U.S.C. 412(c)(7)(D)(iii)\] and section 302(c)(7)(D)(iii) of such Act \[29 U.S.C. 1082(c)(7)(D)(iii)\] (as repealed by subsection (c)(3)) for any plan year beginning before 1999 shall be amortized in equal annual installments (until fully amortized) over a period of years equal to the excess of—
+Pub. L. 105–34, title XV, §1521(d)(2), Aug. 5, 1997, 111 Stat. 1070, provided that: “The unamortized balance (as of the close of the plan year preceding the plan's first year beginning in 1999) of any amortization base established under \[former\] section 412(c)(7)(D)(iii) of such Code \[26 U.S.C. 412(c)(7)(D)(iii)\] and section 302(c)(7)(D)(iii) of such Act \[29 U.S.C. 1082(c)(7)(D)(iii)\]\(as repealed by subsection (c)(3)) for any plan year beginning before 1999 shall be amortized in equal annual installments (until fully amortized) over a period of years equal to the excess of—
 
 &emsp;“(A) 20 years, over
 

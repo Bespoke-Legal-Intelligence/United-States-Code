@@ -6,7 +6,7 @@ Except for the determination of population for purposes of apportionment of Repr
 
 #### Amendments
 
-1976—Pub. L. 94–521 substituted “for purposes of apportionment of Representatives in Congress among the several States, the Secretary shall, if he considers it feasible” for “for apportionment purposes, the Secretary may, where he deems it appropriate”.
+<b>1976</b>—Pub. L. 94–521 substituted “for purposes of apportionment of Representatives in Congress among the several States, the Secretary shall, if he considers it feasible” for “for apportionment purposes, the Secretary may, where he deems it appropriate”.
 
 #### Effective Date of 1976 Amendment
 

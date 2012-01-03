@@ -10,7 +10,7 @@
 
 &emsp;(3) has not paid a debt that is dischargeable in a case under this title or that was discharged under the Bankruptcy Act.
 
-(c)(1) A governmental unit that operates a student grant or loan program and a person engaged in a business that includes the making of loans guaranteed or insured under a student loan program may not deny a student grant, loan, loan guarantee, or loan insurance to a person that is or has been a debtor under this title or a bankrupt or debtor under the Bankruptcy Act, or another person with whom the debtor or bankrupt has been associated, because the debtor or bankrupt is or has been a debtor under this title or a bankrupt or debtor under the Bankruptcy Act, has been insolvent before the commencement of a case under this title or during the pendency of the case but before the debtor is granted or denied a discharge, or has not paid a debt that is dischargeable in the case under this title or that was discharged under the Bankruptcy Act.
+(c)(1) A governmental unit that operates a student grant or loan program and a person engaged in a business that includes the making of loans guaranteed or insured under a student loan program may not deny a student grant,loan, loan guarantee, or loan insurance to a person that is or has been a debtor under this title or a bankrupt or debtor under the Bankruptcy Act, or another person with whom the debtor or bankrupt has been associated, because the debtor or bankrupt is or has been a debtor under this title or a bankrupt or debtor under the Bankruptcy Act, has been insolvent before the commencement of a case under this title or during the pendency of the case but before the debtor is granted or denied a discharge, or has not paid a debt that is dischargeable in the case under this title or that was discharged under the Bankruptcy Act.
 
 (2) In this section, “student loan program” means any program operated under title IV of the Higher Education Act of 1965 or a similar program operated under State or local law.
 
@@ -18,7 +18,7 @@
 
 #### Historical and Revision Notes
 
-I74senate report no. 95–989
+#### senate report no. 95–989
 
 This section is additional debtor protection. It codifies the result of <i>Perez v. Campbell</i>, 402 U.S. 637 (1971), which held that a State would frustrate the Congressional policy of a fresh start for a debtor if it were permitted to refuse to renew a drivers license because a tort judgment resulting from an automobile accident had been unpaid as a result of a discharge in bankruptcy.
 
@@ -44,15 +44,15 @@ The Higher Education Act of 1965, referred to in subsec. (c)(2), is Pub. L. 89�
 
 #### Amendments
 
-2005—Subsec. (c)(1). Pub. L. 109–8, §1211(1), inserted “student” before “grant, loan,”.
+<b>2005</b>—Subsec. (c)(1). Pub. L. 109–8, §1211(1), inserted “student” before “grant, loan,”.
 
 Subsec. (c)(2). Pub. L. 109–8, §1211(2), substituted “any program operated under” for “the program operated under part B, D, or E of”.
 
-1994—Subsec. (a). Pub. L. 103–394, §501(d)(15), struck out “(7 U.S.C. 499a–499s)” after “Act, 1930”, “(7 U.S.C. 181–229)” after “Act, 1921”, and “(57 Stat. 422; 7 U.S.C. 204)” after “July 12, 1943”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–394, §501(d)(15), struck out “(7 U.S.C. 499a–499s)” after “Act, 1930”, “(7 U.S.C. 181–229)” after “Act, 1921”, and “(57 Stat. 422; 7 U.S.C. 204)” after “July 12, 1943”.
 
 Subsec. (c). Pub. L. 103–394, §313, added subsec. (c).
 
-1984—Pub. L. 98–353 designated existing provisions as subsec. (a), inserted “the” before “Perishable”, and added subsec. (b).
+<b>1984</b>—Pub. L. 98–353 designated existing provisions as subsec. (a), inserted “the” before “Perishable”, and added subsec. (b).
 
 #### Effective Date of 2005 Amendment
 

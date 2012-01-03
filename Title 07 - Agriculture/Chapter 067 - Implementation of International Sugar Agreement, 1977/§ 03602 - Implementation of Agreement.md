@@ -16,7 +16,7 @@ On and after the entering into force of the Agreement with respect to the United
 
 #### Amendments
 
-1983—Pub. L. 97–446 substituted “1985” for “1983”.
+<b>1983</b>—Pub. L. 97–446 substituted “1985” for “1983”.
 
 #### United States Membership in the International Sugar Organization
 

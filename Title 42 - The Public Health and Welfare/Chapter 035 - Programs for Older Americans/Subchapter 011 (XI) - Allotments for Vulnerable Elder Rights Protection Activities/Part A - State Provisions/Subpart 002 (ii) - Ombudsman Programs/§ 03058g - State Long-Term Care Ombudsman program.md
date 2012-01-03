@@ -84,7 +84,7 @@
 
 &emsp;&emsp;&emsp;(iii) identify, investigate, and resolve complaints made by or on behalf of residents that relate to action, inaction, or decisions, that may adversely affect the health, safety, welfare, or rights of the residents;
 
-&emsp;&emsp;&emsp;(iv) represent the interests of residents before government agencies and seek administrative, legal, and other remedies toprotect the health, safety, welfare, and rights of the residents;
+&emsp;&emsp;&emsp;(iv) represent the interests of residents before government agencies and seek administrative, legal, and other remedies to protect the health, safety, welfare, and rights of the residents;
 
 &emsp;&emsp;&emsp;(v)(I) review, and if necessary, comment on any existing and proposed laws, regulations, and other government policies and actions, that pertain to the rights and well-being of residents; and
 
@@ -114,7 +114,7 @@
 
 #### (ii) Policies
 
-&emsp;&emsp;&emsp;In a case in which the entities are grantees, or the representatives are employees, of area agencies on aging, the State agency shall develop the policies in consultation with the area agencies on aging. The policies shall provide for participation and comment by the agencies and for resolution of concerns with respect to case activity.
+&emsp;&emsp;&emsp;In a case in which the entities are grantees, or the representatives are employees, of area agencies on aging, the State agency shall develop the policies in consultation with the area agencies on aging. Thepolicies shall provide for participation and comment by the agencies and for resolution of concerns with respect to case activity.
 
 #### (iii) Confidentiality and disclosure
 
@@ -210,7 +210,7 @@ The State agency shall—
 
 &emsp;&emsp;(D) does not receive, or have the right to receive, directly or indirectly, remuneration (in cash or in kind) under a compensation arrangement with an owner or operator of a long-term care facility; and
 
-&emsp;(4) establish, and specify in writing, mechanisms to identify and remove conflicts of interest referred to in paragraphs (1) and (2), and to identify and eliminate the relationships described in subparagraphs (A) through (D) of paragraph (3), including such mechanisms as—
+&emsp;(4) establish, and specify in writing, mechanisms to identify and remove conflicts of interest referred to in paragraphs (1) and (2), andto identify and eliminate the relationships described in subparagraphs (A) through (D) of paragraph (3), including such mechanisms as—
 
 &emsp;&emsp;(A) the methods by which the State agency will examine individuals, and immediate family members, to identify the conflicts; and
 

@@ -76,7 +76,7 @@ Notice of Sex Offender Release.—(1) In the case of a person described in parag
 
 Application of Section.—This section shall not apply to military or naval penal or correctional institutions or the persons confined therein.
 
-(June 25, 1948, ch. 645, 62 Stat. 849; Pub. L. 90–371, July 1, 1968, 82 Stat. 280; Pub. L. 103–322, title II, §20417, Sept. 13, 1994, 108 Stat. 1834; Pub. L. 105–119, title I, §115(a)(8)(A), Nov. 26, 1997, 111 Stat. 2464; Pub. L. 109–248, title I, §141(f)–(h), July 27, 2006, 120 Stat. 603, 604; Pub. L. 110–199, title II, §231(d)(1), Apr. 9, 2008, 122 Stat. 685; Pub. L. 111–211, title II, §261(a), July 29, 2010, 124 Stat. 2299.)
+(June 25, 1948, ch. 645, 62 Stat. 849; Pub. L. 90–371, July 1, 1968, 82 Stat. 280; Pub. L. 103–322, title II, §20417, Sept. 13, 1994, 108 Stat. 1834; Pub. L. 105–119, title I, §115(a)(8)(A), Nov. 26, 1997, 111 Stat. 2464; Pub. L. 109–248, title I, §141(f)–(h),July 27, 2006, 120 Stat. 603, 604; Pub. L. 110–199, title II, §231(d)(1), Apr. 9, 2008, 122 Stat. 685; Pub. L. 111–211, title II, §261(a), July 29, 2010, 124 Stat. 2299.)
 
 #### Historical and Revision Notes
 
@@ -208,7 +208,7 @@ Pub. L. 101–647, title XXIX, §2907, Nov. 29, 1990, 104 Stat. 4915, provided t
 
 Pub. L. 100–690, title VII, §7302, Nov. 18, 1988, 102 Stat. 4463, provided that: “In conjunction with the Department of Defense and the Commission on Alternative Utilization of Military Facilities as established in the National Defense Authorization Act of Fiscal Year 1989 \[see section 2819 of Pub. L. 100–456, 104 Stat. 1820, formerly set out as a note under section 2391 of Title 10, Armed Forces\], the Bureau of Prisons shall be responsible for—
 
-&emsp;“(1) administering Bureau of Prisons confinement facilities for civilian nonviolent prisoners located on military installations in cooperation with the Secretary of Defense, with an emphasis on placing women inmates in such facilities, or in similar minimum security confinement facilities not located on military installations, so that the percentage of eligible women equals the percentage of eligible menhoused in such or similar minimum security confinement facilities (i.e., prison camps);
+&emsp;“(1) administering Bureau of Prisons confinement facilities for civilian nonviolent prisoners located on military installations in cooperation with the Secretary of Defense, with an emphasis on placing women inmates in such facilities, or in similar minimum security confinement facilities not located on military installations, so that the percentage of eligible women equals the percentage of eligible men housed in such or similar minimum security confinement facilities (i.e., prison camps);
 
 &emsp;“(2) establishing and regulating drug treatment programs for inmates held in such facilities in coordination and cooperation with the National Institute on Drug Abuse; and
 

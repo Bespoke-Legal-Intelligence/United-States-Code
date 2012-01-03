@@ -18,17 +18,17 @@
 
 > the Secretary shall approve such training for the worker. Upon such approval, the worker shall be entitled to have payment of the costs of such training (subject to the limitations imposed by this section) paid on the worker's behalf by the Secretary directly or through a voucher system.
 
-(2)(A) The total amount of payments that may be made under paragraph (1) shall not exceed—
+(2)(A) The total amount of funds available to carry out this section and sections 2295, 2297, and 2298 of this title shall not exceed—
 
-&emsp;(i) $575,000,000 for fiscal year 2010; and
+&emsp;(i) $575,000,000 for each of fiscal years 2012 and 2013; and
 
-&emsp;(ii) $66,500,000 for the 6-week period beginning January 1, 2011, and ending February 12, 2011.
+&emsp;(ii) $143,750,000 for the 3-month period beginning on October 1, 2013, and ending on December 31, 2013.
 
-(B)(i) The Secretary shall, as soon as practicable after the beginning of each fiscal year, make an initial distribution of the funds made available to carry out this section, in accordance with the requirements of subparagraph (C).
+(B)(i) The Secretary shall, as soon as practicable after the beginning of each fiscal year, make an initial distribution of the funds made available to carry out this section and sections 2295, 2297, and 2298 of this title, in accordance with the requirements of subparagraph (C).
 
-(ii) The Secretary shall ensure that not less than 90 percent of the funds made available to carry out this section for a fiscal year are distributed to the States by not later than July 15 of that fiscal year.
+(ii) The Secretary shall ensure that not less than 90 percent of the funds made available to carry out this section and sections 2295, 2297, and 2298 of this title for a fiscal year are distributed to the States by not later than July 15 of that fiscal year.
 
-(C)(i) In making the initial distribution of funds pursuant to subparagraph (B)(i) for a fiscal year, the Secretary shall hold in reserve 35 percent of the funds made available to carry out this section for that fiscal year for additional distributions during the remainder of the fiscal year.
+(C)(i) In making the initial distribution of funds pursuant to subparagraph (B)(i) for a fiscal year, the Secretary shall hold in reserve 35 percent of the funds made available to carry out this section and sections 2295, 2297, and 2298 of this title for that fiscal year for additional distributions during the remainder of the fiscal year.
 
 (ii) Subject to clause (iii), in determining how to apportion the initial distribution of funds pursuant to subparagraph (B)(i) in a fiscal year, the Secretary shall take into account, with respect to each State—
 
@@ -40,13 +40,13 @@
 
 &emsp;(IV) the amount of funding estimated to be necessary to provide training approved under this section to such workers during the fiscal year; and
 
-&emsp;(V) such other factors as the Secretary considers appropriate relating to the provision of training under this section.
+&emsp;(V) such other factors as the Secretary considers appropriate to carry out this section and sections 2295, 2297, and 2298 of this title.
 
 (iii) In no case may the amount of the initial distribution to a State pursuant to subparagraph (B)(i) in a fiscal year be less than 25 percent of the initial distribution to the State in the preceding fiscal year.
 
 (D) The Secretary shall establish procedures for the distribution of the funds that remain available for the fiscal year after the initial distribution required under subparagraph (B)(i). Such procedures may include the distribution of funds pursuant to requests submitted by States in need of such funds.
 
-(E) If, during a fiscal year, the Secretary estimates that the amount of funds necessary to pay the costs of training approved under this section will exceed the dollar amount limitation specified in subparagraph (A), the Secretary shall decide how the amount of funds made available to carry out this section that have not been distributed at the time of the estimate will be apportioned among the States for the remainder of the fiscal year.
+(E) If, during a fiscal year, the Secretary estimates that the amount of funds necessary to carry out this section and sections 2295, 2297, and 2298 of this title will exceed the dollar amount limitation specified in subparagraph (A), the Secretary shall decide how the amount of funds made available to carry out this section and sections 2295, 2297, and 2298 of this title that have not been distributed at the time of the estimate will be apportioned among the States for the remainder of the fiscal year.
 
 (3) For purposes of applying paragraph (1)(C), a reasonable expectation of employment does not require that employment opportunities for a worker be available, or offered, immediately upon the completion of training approved under paragraph (1).
 
@@ -106,7 +106,7 @@
 
 &emsp;(A) all or a portion of the costs of such training program are paid under any nongovernmental plan or program,
 
-&emsp;(B) the adversely affected worker or adversely affected incumbent worker has a right to obtain training or funds for training under such plan or program, and
+&emsp;(B) the adversely affected worker or adversely affected incumbent worker has a rightto obtain training or funds for training under such plan or program, and
 
 &emsp;(C) such plan or program requires the worker to reimburse the plan or program from funds provided under this part, or from wages paid under such training program, for any portion of the costs of such training program paid under the plan or program.
 
@@ -232,17 +232,7 @@ For purposes of this section, the term “customized training” means training 
 
 &emsp;(3) for which the employer pays for a significant portion (but in no case less than 50 percent) of the cost of such training, as determined by the Secretary.
 
-#### (g) Regulations with respect to apportionment of training funds to States
-
-#### (1) In general
-
-&emsp;Not later than 1 year after February 17, 2009, the Secretary shall issue such regulations as may be necessary to carry out the provisions of subsection (a)(2).
-
-#### (2) Consultations
-
-&emsp;The Secretary shall consult with the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives not less than 90 days before issuing any regulation pursuant to paragraph (1).
-
-#### (h) Part-time training
+#### (g) Part-time training
 
 #### (1) In general
 
@@ -252,21 +242,57 @@ For purposes of this section, the term “customized training” means training 
 
 &emsp;Notwithstanding paragraph (1), a worker participating in part-time training approved under subsection (a) may not receive a trade readjustment allowance under section 2291 of this title.
 
-(Pub. L. 93–618, title II, §236, Jan. 3, 1975, 88 Stat. 2023; Pub. L. 97–35, title XXV, §2506(2), Aug. 13, 1981, 95 Stat. 885; Pub. L. 99–272, title XIII, §13004(a), Apr. 7, 1986, 100 Stat. 301; Pub. L. 100–418, title I, §1424(a)–(c), Aug. 23, 1988, 102 Stat. 1248, 1249; Pub. L. 100–647, title IX, §9001(a)(20), Nov. 10, 1988, 102 Stat. 3808; Pub. L. 103–66, title XIII, §13803(b), Aug. 10, 1993, 107 Stat. 668; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(14)(A), (f)(11)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–421, 2681–431; Pub. L. 107–210, div. A, title I, §§117, 118, Aug. 6, 2002, 116 Stat. 941; Pub. L. 109–270, §2(b)(2), Aug. 12, 2006, 120 Stat. 746; Pub. L. 111–5, div. B, title I, §§1828(a)–(c), 1829(a), (c), 1830(a)(1), (b), 1831, 1832, Feb. 17, 2009, 123 Stat. 381–386; Pub. L. 111–344, title I, §101(c)(1), Dec. 29, 2010, 124 Stat. 3613.)
+(Pub. L. 93–618, title II, §236, Jan. 3, 1975, 88 Stat. 2023; Pub. L. 97–35, title XXV, §2506(2), Aug. 13, 1981, 95 Stat. 885; Pub. L. 99–272, title XIII, §13004(a), Apr. 7, 1986, 100 Stat. 301; Pub. L. 100–418, title I, §1424(a)–(c), Aug. 23, 1988, 102 Stat. 1248, 1249; Pub. L. 100–647, title IX, §9001(a)(20), Nov. 10, 1988, 102 Stat. 3808; Pub. L. 103–66, title XIII, §13803(b), Aug. 10, 1993, 107 Stat. 668; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(14)(A), (f)(11)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–421, 2681–431; Pub. L. 107–210, div. A, title I, §§117, 118, Aug. 6, 2002, 116 Stat. 941; Pub. L. 109–270, §2(b)(2), Aug. 12, 2006, 120 Stat. 746; Pub. L. 111–5, div. B, title I, §§1828(a)–(c), 1829(a), (c), 1830(a)(1), (b), 1831, 1832, Feb. 17, 2009, 123 Stat. 381–386; Pub. L. 111–344, title I, §101(c)(1), Dec. 29, 2010, 124 Stat. 3613; Pub. L. 112–40, title II, §§201(b), (c), 214(a), (f), Oct. 21, 2011, 125 Stat. 403, 405, 406.)
 
-#### Amendment of Section
+#### Reversion to Provisions in Effect on February 13, 2011
 
-<i>For termination of amendment by section 1893 of Pub. L. 111–5, see Effective and Termination Dates of 2009 Amendment note below.</i>
+<i>For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to section 233(b) of Pub. L. 112–40, see Codification and Effective and Termination Dates of 2011 Revival notes below.</i>
 
 #### References in Text
 
-The Workforce Investment Act of 1998, referred to in subsec. (a)(5), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+The Workforce Investment Act of 1998, referred to in subsec. (a)(5), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat.936. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
 The Act of August 16, 1937, referred to in subsec. (a)(5)(A)(iii), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, popularly known as the National Apprenticeship Act, which is classified generally to chapter 4C (§50 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 50 of Title 29 and Tables.
 
 Section 102 of such Act, referred to in subsec. (a)(5)(C), meaning section 102 of the Job Training Partnership Act, was classified to section 1512 of Title 29, Labor, and was repealed by Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Pursuant to section 2940(b) of Title 29, references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, are deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and effective July 1, 2000, are deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. For complete classification of the Workforce Investment Act of 1998 to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
+#### Codification
+
+Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination of amendment by Pub. L. 111–5, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, and the provisions of this section, as amended by Pub. L. 111–5 and Pub. L. 111–344 and as in effect on Feb. 12, 2011, were temporarily revived, effective Oct. 21, 2011, until Jan. 1, 2014, by Pub. L. 112–40, §§201(b), (c), 233. See 2009, 2010, and 2011 Amendment notes, Effective and Termination Dates of 2009 Amendment notes, Effective Date of 2010 Amendment note, and Effective and Termination Dates of 2011 Revival note below.
+
 #### Amendments
+
+<b>2011</b>—Pub. L. 112–40, §§201(b), (c), 233, temporarily revived the provisions of this section, as in effect on Feb. 12, 2011. See Codification note above and 2009 and 2010 Amendment and Effective and Termination Dates of 2011 Revival notes below.
+
+Subsec. (a)(2)(A). Pub. L. 112–40, §§214(a)(2), 233, temporarily substituted “of funds available to carry out this section and sections 2295, 2297, and 2298 of this title” for “of payments that may be made under paragraph (1)” in introductory provisions, added cls. (i) and (ii), and struck out former cls. (i) and (ii) which read as follows:
+
+“(i) $575,000,000 for fiscal year 2010; and
+
+“(ii) $66,500,000 for the 6-week period beginning January 1, 2011, and ending February 12, 2011.”
+
+> See Codification note above and Effective and Termination Dates of 2011 Revival note below.
+
+Subsec. (a)(2)(B)(i), (ii), (C)(i). Pub. L. 112–40, §§214(a)(1), 233, temporarily inserted “and sections 2295, 2297, and 2298 of this title” after “to carry out this section”. See Codification note above and Effective and Termination Dates of 2011 Revival note below.
+
+Subsec. (a)(2)(C)(ii)(V). Pub. L. 112–40, §§214(a)(3), 233, temporarily substituted “to carry out this section and sections 2295, 2297, and 2298 of this title” for “relating to the provision of training under this section”. See Codification note above and Effective and Termination Dates of 2011 Revival note below.
+
+Subsec. (a)(2)(E). Pub. L. 112–40, §§214(a)(4), 233, temporarily substituted “necessary to carry out this section and sections 2295, 2297, and 2298 of this title” for “necessary to pay the costs of training approved under this section”. See Codification note above and Effective and Termination Dates of 2011 Revival note below.
+
+Pub. L. 112–40, §§214(a)(1), 233, temporarily inserted “and sections 2295, 2297, and 2298 of this title” after “available to carry out this section”. See Codification note above and Effective and Termination Dates of 2011 Revival note below.
+
+Subsec. (b). Pub. L. 112–40, §§214(f)(1), 233, which directed temporary substitution of “appropriate” for “approppriate” in the first sentence, could not be executed because “approppriate” did not appear. See Codification note above and Effective and Termination Dates of 2011 Revival note below.
+
+Subsecs. (g), (h). Pub. L. 112–40, §§214(f)(2), 233, temporarily redesignated subsec. (h) as (g) and temporarily struck out former subsec. (g). Prior to amendment, text of subsec. (g) read as follows:
+
+“(1)
+
+In general.—Not later than 1 year after February 17, 2009, the Secretary shall issue such regulations as may be necessary to carry out the provisions of subsection (a)(2).
+
+“(2)
+
+Consultations.—The Secretary shall consult with the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives not less than 90 days before issuing any regulation pursuant to paragraph (1).”
+
+> See Codification note above and Effective and Termination Dates of 2011 Revival note below.
 
 <b>2010</b>—Subsec. (a)(2)(A). Pub. L. 111–344 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “The total amount of payments that may be made under paragraph (1) shall not exceed—
 
@@ -274,11 +300,13 @@ Section 102 of such Act, referred to in subsec. (a)(5)(C), meaning section 102 o
 
 &emsp;“(ii) for the period beginning October 1, 2010, and ending December 31, 2010, $143,750,000.”
 
-<b>2009</b>—Subsec. (a)(1). Pub. L. 111–5, §§1831(b), 1893, in concluding provisions, temporarily struck out last sentence which read as follows: “Insofar as possible, the Secretary shall provide or assure the provision of such training on the job, which shall include related education necessary for the acquisition of skills needed for a position within a particular occupation.” See Effective and Termination Dates of 2009 Amendment note below.
+> See Codification note above.
 
-Pub. L. 111–5, §§1830(a)(1)(A), 1893, temporarily inserted “, with respect to an adversely affected worker or an adversely affected incumbent worker,” after “determines” in introductory provisions. See Effective and Termination Dates of 2009 Amendment note below.
+<b>2009</b>—Subsec. (a)(1). Pub. L. 111–5, §§1831(b), 1893, in concluding provisions, temporarily struck out last sentence which read as follows: “Insofar as possible, the Secretary shall provide or assure the provision of such training on the job, which shall include related education necessary for the acquisition of skills needed for a position within a particular occupation.” See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Pub. L. 111–5, §§1829(c)(1)(A), 1893, temporarily substituted “the worker's behalf” for “his behalf” in concluding provisions. See Effective and Termination Dates of 2009 Amendment note below.
+Pub. L. 111–5, §§1830(a)(1)(A), 1893, temporarily inserted “, with respect to an adversely affected worker or an adversely affected incumbent worker,” after “determines” in introductory provisions. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+
+Pub. L. 111–5, §§1829(c)(1)(A), 1893, temporarily substituted “the worker's behalf” for “his behalf” in concluding provisions. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
 Subsec. (a)(2). Pub. L. 111–5, §§1828(a), 1893, temporarily amended par. (2) generally. Prior to amendment, par. (2) read as follows:
 
@@ -286,33 +314,33 @@ Subsec. (a)(2). Pub. L. 111–5, §§1828(a), 1893, temporarily amended par. (2)
 
 “(B) If, during any fiscal year, the Secretary estimates that the amount of funds necessary to pay the costs of training approved under this section will exceed the amount of the limitation imposed under subparagraph (A), the Secretary shall decide how the portion of such limitation that has not been expended at the time of such estimate is to be apportioned among the States for the remainder of such fiscal year.”
 
-> See Effective and Termination Dates of 2009 Amendment note below.
+> See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (a)(3). Pub. L. 111–5, §§1829(c)(1)(B), 1893, temporarily substituted “paragraph (1)” for “this paragraph (1)”. See Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (a)(3). Pub. L. 111–5, §§1829(c)(1)(B), 1893, temporarily substituted “paragraph (1)” for “this paragraph (1)”. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (a)(4)(A), (B). Pub. L. 111–5, §§1830(a)(1)(B)(i), 1893, temporarily inserted “or an adversely affected incumbent worker” after “an adversely affected worker”. See Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (a)(4)(A), (B). Pub. L. 111–5, §§1830(a)(1)(B)(i), 1893, temporarily inserted “or an adversely affected incumbent worker” after “an adversely affected worker”. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (a)(4)(C). Pub. L. 111–5, §§1830(a)(1)(B)(ii), 1893, temporarily inserted “or adversely affected incumbent worker” after “adversely affected worker” in two places. See Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (a)(4)(C). Pub. L. 111–5, §§1830(a)(1)(B)(ii), 1893, temporarily inserted “or adversely affected incumbentworker” after “adversely affected worker” in two places. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (a)(5). Pub. L. 111–5, §§1830(a)(1)(C), 1893, temporarily substituted “Except as provided in paragraph (10), the training programs” for “The training programs” in introductory provisions. See Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (a)(5). Pub. L. 111–5, §§1830(a)(1)(C), 1893, temporarily substituted “Except as provided in paragraph (10), the training programs” for “The training programs” in introductory provisions. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (a)(5)(A)(iii). Pub. L. 111–5, §§1829(a)(1), 1893, temporarily added cl. (iii). See Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (a)(5)(A)(iii). Pub. L. 111–5, §§1829(a)(1), 1893, temporarily added cl. (iii). See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (a)(5)(E) to (H). Pub. L. 111–5, §§1829(a)(2)–(6), 1893, temporarily added subpars. (E) and (H) and redesignated former subpars. (E) and (F) as (F) and (G), respectively. See Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (a)(5)(E) to (H). Pub. L. 111–5, §§1829(a)(2)–(6), 1893, temporarily added subpars. (E) and (H) and redesignated former subpars. (E) and (F) as (F) and (G), respectively. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (a)(6)(B), (7)(B). Pub. L. 111–5, §§1830(a)(1)(D), (E), 1893, temporarily inserted “or adversely affected incumbent worker” after “adversely affected worker”. See Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (a)(6)(B), (7)(B). Pub. L. 111–5, §§1830(a)(1)(D), (E), 1893, temporarily inserted “or adversely affected incumbent worker” after “adversely affected worker”. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (a)(9). Pub. L. 111–5, §§1828(b), 1893, temporarily designated existing provisions as subpar. (A), substituted “Subject to subparagraph (B), the Secretary” for “The Secretary”, and added subpar. (B). See Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (a)(9). Pub. L. 111–5, §§1828(b), 1893, temporarily designated existing provisions as subpar. (A), substituted “Subject to subparagraph (B), the Secretary” for “The Secretary”, and added subpar. (B). See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (a)(10), (11). Pub. L. 111–5, §§1830(a)(1)(F), 1893, temporarily added pars. (10) and (11). See Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (a)(10), (11). Pub. L. 111–5, §§1830(a)(1)(F), 1893, temporarily added pars. (10) and (11). See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (b)(2). Pub. L. 111–5, §§1829(c)(2), 1893, which directed the temporary substitution of a period for “, and”, could not be executed because “, and” did not appear. See Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (b)(2). Pub. L. 111–5, §§1829(c)(2), 1893, which directed the temporary substitution of a period for “, and”, could not be executed because “, and” did not appear. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (c). Pub. L. 111–5, §§1831(a), 1893, temporarily inserted subsec. heading, added pars. (1) to (4), redesignated existing provisions as par. (5), and in par. (5), temporarily inserted par. heading, substituted “The Secretary may pay the costs of on-the-job training,” for “The Secretary shall pay the costs of any on-the-job training of an adversely affected worker that is approved under subsection (a)(1) of this section in equal monthly installments, but the Secretary may pay such costs,”, redesignated former pars. (1) to (10) as subpars. (A) to (J), respectively, in subpar. (I) substituted “subparagraphs (A), (B), (C), (D), (E), and (F)” for “paragraphs (1), (2), (3), (4), (5), and (6)”, and in subpar. (J) substituted “subparagraph (H)” for “paragraph (8)”. See Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (c). Pub. L. 111–5, §§1831(a), 1893, temporarily inserted subsec. heading, added pars. (1) to (4), redesignated existing provisions as par. (5), and in par. (5), temporarily inserted par. heading, substituted “The Secretary may pay the costs of on-the-job training,” for “The Secretary shall pay the costs of any on-the-job training of an adversely affected worker that is approved under subsection (a)(1) of this section in equal monthly installments, but the Secretary may pay such costs,”, redesignated former pars. (1) to (10) as subpars. (A) to (J), respectively, in subpar. (I) substituted “subparagraphs (A), (B), (C), (D), (E), and (F)” for “paragraphs (1), (2), (3), (4), (5), and (6)”, and in subpar. (J) substituted “subparagraph (H)” for “paragraph (8)”. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (d). Pub. L. 111–5, §§1832, 1893, temporarily amended subsec. (d) generally. Prior to amendment, text read as follows: “A worker may not be determined to be ineligible or disqualified for unemployment insurance or program benefits under this subpart because the individual is in training approved under subsection (a) of this section, because of leaving work which is not suitable employment to enter such training, or because of the application to any such week in training of provisions of State law or Federal unemployment insurance law relating to availability for work, active search for work, or refusal to accept work. The Secretary shall submit to the Congress a quarterly report regarding the amount of funds expended during the quarter concerned to provide training under subsection (a) of this section and the anticipated demand for such funds for any remaining quarters in the fiscal year concerned.” See Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (d). Pub. L. 111–5, §§1832, 1893, temporarily amended subsec. (d) generally. Prior to amendment, text read as follows: “A worker may not be determined to be ineligible or disqualified for unemployment insurance or program benefits under this subpart because the individual is in training approved under subsection (a) of this section, because of leaving work which is not suitable employment to enter such training, or because of the application to any such week in training of provisions of State law or Federal unemployment insurance law relating to availability for work, active search for work, or refusal to accept work. The Secretary shall submit to the Congress a quarterly report regarding the amount of funds expended during the quarter concerned to provide training under subsection (a) of this section and the anticipated demand for such funds for any remaining quarters in the fiscal year concerned.” See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsecs. (g), (h). Pub. L. 111–5, §§1828(c), 1830(b), 1893, temporarily added subsecs. (g) and (h). See Effective and Termination Dates of 2009 Amendment note below.
+Subsecs. (g), (h). Pub. L. 111–5, §§1828(c), 1830(b), 1893, temporarily added subsecs. (g) and (h). See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
 <b>2006</b>—Subsec. (a)(1)(D). Pub. L. 109–270 substituted “area career and technical education schools, as defined in section 2302 of title 20” for “area vocational education schools, as defined in section 195(2) of the Vocational Education Act of 1963”.
 
@@ -360,17 +388,27 @@ Subsecs. (d) to (f). Pub. L. 100–418, §1424(c)(3), redesignated subsecs. (e) 
 
 Subsec. (a)(1)(A). Pub. L. 99–272, §13004(a)(1), substituted “for an adversely affected worker” for “for a worker”.
 
-Subsec. (a)(2) to (4). Pub. L. 99–272, §13004(a)(6), added pars. (2) to (4). Former pars. (2) and (3) redesignated subsecs. (e) and (f), respectively.
+Subsec. (a)(2). Pub. L. 99–272, §13004(a)(6), added par. (2). Former par. (2) redesignated subsec. (e).
+
+Pub. L. 99–272, §13004(a)(3), which directed substitution of “under subsection (a)” for “under paragraph (1)”, was executed by making the substitution for “under paragraph (1)” in both places it appeared, to reflect the probable intent of Congress.
+
+Subsec. (a)(3). Pub. L. 99–272, §13004(a)(6), added par. (3). Former par. (3) redesignated subsec. (f).
+
+Pub. L. 99–272, §13004(a)(4), substituted “this section” for “this subsection”.
+
+Subsec. (a)(4). Pub. L. 99–272, §13004(a)(6), added par. (4).
 
 Subsec. (d). Pub. L. 99–272, §13004(a)(7), added subsec. (d).
 
-Subsec. (e). Pub. L. 99–272, §13004(a)(3), (5), redesignated par. (2) of subsec. (a) as subsec. (e) and substituted “under subsection (a) of this section” for “under paragraph (1)” in two places.
-
-Subsec. (f). Pub. L. 99–272, §13004(a)(4), (5), redesignated par. (3) of subsec. (a) as subsec. (f) and substituted “this section” for “this subsection”.
+Subsecs. (e), (f). Pub. L. 99–272, §13004(a)(5), redesignated pars. (2) and (3) of subsec. (a) as subsecs. (e) and (f), respectively.
 
 <b>1981</b>—Subsec. (a). Pub. L. 97–35 redesignated existing provisions as par. (1), revised provisions, made changes in nomenclature, inserted provisions respecting availability, payment, and scope of training, and added pars. (2) and (3).
 
-Subsec. (b). Pub. L. 97–35 substituted provisions limiting the maximum amount of travel expenses on the basis of amounts paid under Federal travel regulationsfor provisions establishing specific maximum amounts for subsistence and transportation expenses.
+Subsec. (b). Pub. L. 97–35 substituted provisions limiting the maximum amount of travel expenses on the basis of amounts paid under Federal travel regulations for provisions establishing specific maximum amounts for subsistence and transportation expenses.
+
+#### Effective and Termination Dates of 2011 Revival
+
+For temporary revival and applicability of provisions as in effect on Feb. 12, 2011, see sections 201(b), (c) and 233 of Pub. L. 112–40, set out as notes preceding section 2271 of this title. For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to section 233(b) of Pub. L. 112–40, see section 233 of Pub. L. 112–40, set out as a note preceding section 2271 of this title.
 
 #### Effective Date of 2010 Amendment
 
@@ -386,7 +424,7 @@ Pub. L. 111–5, div. B, title I, §1828(d), Feb. 17, 2009, 123 Stat. 382, provi
 
 Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title.
 
-Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and this section to be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
+Section 1893 of Pub. L. 111–5, which provided that, except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and that this section be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403. See Codification note above.
 
 #### Effective Date of 2002 Amendment
 
@@ -408,7 +446,7 @@ Amendment by Pub. L. 97–35 effective for determinations made or filed after Se
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after Feb. 12, 2011, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after Dec. 31, 2013, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 
 #### Termination of Reporting Requirements
 

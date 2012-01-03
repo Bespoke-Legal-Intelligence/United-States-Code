@@ -10,7 +10,7 @@
 
 (3)(A) Prior to notifying the Secretary of the Treasury under paragraph (1) or (2) that an individual owes past-due support, the State shall send notice to such individual that a withholding will be made from any refund otherwise payable to such individual. The notice shall also (i) instruct the individual owing the past-due support of the steps which may be taken to contest the State's determination that past-due support is owed or the amount of the past-due support, and (ii) provide information, as may be prescribed by the Secretary of Health and Human Services by regulation in consultation with the Secretary of the Treasury, with respect to procedures to be followed, in the case of a joint return, to protect the share of the refund which may be payable to another person.
 
-(B) If the Secretary of the Treasury determines that an amount should be withheld underparagraph (1) or (2), and that the refund from which it should be withheld is based upon a joint return, the Secretary of the Treasury shall notify the State that the withholding is being made from a refund based upon a joint return, and shall furnish to the State the names and addresses of each taxpayer filing such joint return. In the case of a withholding under paragraph (2), the State may delay distribution of the amount withheld until the State has been notified by the Secretary of the Treasury that the other person filing the joint return has received his or her proper share of the refund, but such delay may not exceed six months.
+(B) If the Secretary of the Treasury determines that an amount should be withheld under paragraph (1) or (2), and that the refund from which it should be withheld is based upon a joint return, the Secretary of the Treasury shall notify the State that the withholding is being made from a refund based upon a joint return, and shall furnish to the State the names and addresses of each taxpayer filing such joint return. In the case of a withholding under paragraph (2), the State may delay distribution of the amount withheld until the State has been notified by the Secretary of the Treasury that the other person filing the joint return has received his or her proper share of the refund, but such delay may not exceed six months.
 
 (C) If the other person filing the joint return with the named individual owing the past-due support takes appropriate action to secure his or her proper share of a refund from which a withholding was made under paragraph (1) or (2), the Secretary of the Treasury shall pay such share to such other person. The Secretary of the Treasury shall deduct the amount of such payment from amounts subsequently payable to the State agency to which the amount originally withheld from such refund was paid.
 
@@ -22,7 +22,7 @@
 
 (2) In the case of withholdings made under subsection (a)(2) of this section, the regulations promulgated pursuant to this subsection shall include the following requirements:
 
-&emsp;(A) The withholding shall apply only in the case where the State determines that the amount of the past-due support which will be owed at the time the withholding is to be made, based upon the pattern of payment of support and other enforcement actions being pursued to collect the past-due support, is equal to or greater than $500. The State may limit the $500 threshold amount to amounts of past-due support accrued since the time that the State first began to enforce the child support order involved under the State plan, and may limit the application of the withholding to past-due support accrued since such time.
+&emsp;(A) The withholding shall apply only in the case where the State determines that the amount of the past-due support which will be owed at the time the withholding is to be made, based upon the pattern of payment of support and other enforcement actions being pursued to collect the past-due support, is equal to or greater than $500. The State may limit the $500 threshold amount to amounts of past-due support accrued since the time that the State first began to enforce the child support order involved under the State plan, andmay limit the application of the withholding to past-due support accrued since such time.
 
 &emsp;(B) The fee which the Secretary of the Treasury may impose to cover the costs of the withholding and notification may not exceed $25 per case submitted.
 
@@ -52,7 +52,7 @@ Pub. L. 105–33, §5532(i)(1), inserted “in accordance with section 657 of th
 
 Pub. L. 104–193 substituted “section 657” for “section 657(b)(4) or (d)(3)”.
 
-Subsec. (a)(2)(A). Pub. L. 104–134, §31001(v)(2)(2), inserted at end “This subsection may be executed by theSecretary of the Department of the Treasury or his designee.”
+Subsec. (a)(2)(A). Pub. L. 104–134, §31001(v)(2)(2), inserted at end “This subsection may be executed by the Secretary of the Department of the Treasury or his designee.”
 
 <b>1990</b>—Subsec. (a)(2)(B). Pub. L. 101–508, §5011(a), struck out “, and before January 1, 1991” after “1985”.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Bureau of the Census shall continue to collect data on the 1992 and 1993 panels of the Survey of Income and Program Participation as necessary to obtain such information as will enable interested persons to evaluate the impact of the amendments made by title I of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 on a random national sample of recipients of assistance under State programs funded under this part and (as appropriate) other low-income families, and in doing so, shall pay particular attention to the issues of out-of-wedlock birth, welfare dependency, the beginning and end of welfare spells, and the causes of repeat welfare spells, and shall obtaininformation about the status of children participating in such panels.
+The Bureau of the Census shall continue to collect data on the 1992 and 1993 panels of the Survey of Income and Program Participation as necessary to obtain such information as will enable interested persons to evaluate the impact of the amendments made by title I of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 on a random national sample of recipients of assistance under State programs funded under this part and (as appropriate) other low-income families, and in doing so, shall pay particular attention to the issues of out-of-wedlock birth, welfare dependency, the beginning and end of welfare spells, and the causes of repeat welfare spells, and shall obtain information about the status of children participating in such panels.
 
 #### (b) Appropriation
 

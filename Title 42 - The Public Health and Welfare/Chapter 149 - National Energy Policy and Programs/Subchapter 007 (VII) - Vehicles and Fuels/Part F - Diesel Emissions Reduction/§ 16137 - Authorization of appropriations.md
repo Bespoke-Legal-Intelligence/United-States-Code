@@ -16,5 +16,5 @@ The Administrator may use not more than 1 percent of the amounts made available 
 
 #### Effective Date of 2011 Amendment
 
-Amendment by Pub. L. 111–364 effective Oct. 1, 2011, except as otherwise provided, see section 4 of Pub. L.111–364, set out as a note under section 16131 of this title.
+Amendment by Pub. L. 111–364 effective Oct. 1, 2011, except as otherwise provided, see section 4 of Pub. L. 111–364, set out as a note under section 16131 of this title.
 

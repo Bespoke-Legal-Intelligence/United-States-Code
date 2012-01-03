@@ -30,11 +30,11 @@ A prior section 575 was renumbered section 595 of this title.
 
 #### Amendments
 
-1996—Subsec. (a)(2). Pub. L. 104–320, §8(c)(1), (2), substituted “The” for “Any” and inserted at end “Each such arbitration agreement shall specify a maximumaward that may be issued by the arbitrator and may specify other conditions limiting the range of possible outcomes.”
+<b>1996</b>—Subsec. (a)(2). Pub. L. 104–320, §8(c)(1), (2), substituted “The” for “Any” and inserted at end “Each such arbitration agreement shall specify a maximum award that may be issued by the arbitrator and may specify other conditions limiting the range of possible outcomes.”
 
 Subsec. (b). Pub. L. 104–320, §8(c)(3), in introductory provisions substituted “shall not offer to use arbitration for the resolution of issues in controversy unless” for “may offer to use arbitration for the resolution of issues in controversy, if”, and in par. (1) substituted “would otherwise have authority” for “has authority”.
 
 Subsec. (c). Pub. L. 104–320, §8(c)(4), added subsec. (c).
 
-1992—Pub. L. 102–354 renumbered section 585 of this title as this section.
+<b>1992</b>—Pub. L. 102–354 renumbered section 585 of this title as this section.
 

@@ -84,21 +84,21 @@ Section was classified to section 206a–9 of former Title 40, prior to the enac
 
 #### Amendments
 
-2010—Subsec. (a). Pub. L. 111–145, §2(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to the establishment of the Office of Administration and the appointment and compensation of the Chief Administrative Officer.
+<b>2010</b>—Subsec. (a). Pub. L. 111–145, §2(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to the establishment of the Office of Administration and the appointment and compensation of the Chief Administrative Officer.
 
 Subsec. (c). Pub. L. 111–145, §2(a)(2), struck out subsec. (c) which related to the Chief Administrative Officer's employment of personnel and access to resources of other agencies.
 
 Subsecs. (d) to (g). Pub. L. 111–145, §6(a), struck out subsecs. (d) to (g) which related to a plan for office policies, procedures, and actions, a report on progress made in such planning, submission of the plan and report to the appropriate congressional committees, and termination of the role of the Comptroller General.
 
-2005—Subsec. (b)(2)(D). Pub. L. 109–55 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “shall prepare annual financial statements for the Capitol Police and provide for an annual audit of the financial statements by an independent public accountant in accordance with generally accepted government auditing standards.”
+<b>2005</b>—Subsec. (b)(2)(D). Pub. L. 109–55 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “shall prepare annual financial statements for the Capitol Police and provide for an annual audit of the financial statements by an independent public accountant in accordance with generally accepted government auditing standards.”
 
-2004—Subsec. (a)(5). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (a)(5). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-2003—Subsec. (a)(4). Pub. L. 108–7 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The Chief Administrative Officer shall receive basic pay at a rate determined by the Chief of the Capitol Police, but not to exceed $1,000 less than the annual rate of pay for the Chief of the Capitol Police.”
+<b>2003</b>—Subsec. (a)(4). Pub. L. 108–7 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The Chief Administrative Officer shall receive basic pay at a rate determined by the Chief of the Capitol Police, but not to exceed $1,000 less than the annual rate of pay for the Chief of the Capitol Police.”
 
-2001—Subsec. (a)(4). Pub. L. 107–68 substituted “the Chief of the Capitol Police, but not to exceed $1,000 less than the annual rate of pay for the Chief of the Capitol Police” for “the Capitol Police Board, but not to exceed the annual rate of basic pay payable for ES–2 of the Senior Executive Service, as established under subchapter VIII of chapter 53 of title 5 (taking into account any comparability payments made under section 5304(h) of such title)”.
+<b>2001</b>—Subsec. (a)(4). Pub. L. 107–68 substituted “the Chief of the Capitol Police, but not to exceed $1,000 less than the annual rate of pay for the Chief of the Capitol Police” for “the Capitol Police Board, but not to exceed the annual rate of basic pay payable for ES–2 of the Senior Executive Service, as established under subchapter VIII of chapter 53 of title 5 (taking into account any comparability payments made under section 5304(h) of such title)”.
 
-2000—Pub. L. 106–346 amended section generally, substituting present provisions for similar provisions establishing within the Capitol Police an Office of Administration to be headed by a Chief Administrative Officer, providing that the Chief Administrative Officer would be appointed and his pay rate would be set by the Comptroller General, setting out the powers and duties of the Chief Administrative Officer, and providing that as of Oct. 1, 2002, the Chief Administrative Officer would cease to be an employee of the General Accounting Office, would become an employee of the Capitol Police, and the Capitol Police Board would assume all responsibilities of the Comptroller General under this section.
+<b>2000</b>—Pub. L. 106–346 amended section generally, substituting present provisions for similar provisions establishing within the Capitol Police an Office of Administration to be headed by a Chief Administrative Officer, providing that the Chief Administrative Officer would be appointed and his pay rate would be set by the Comptroller General, setting out the powers and dutiesof the Chief Administrative Officer, and providing that as of Oct. 1, 2002, the Chief Administrative Officer would cease to be an employee of the General Accounting Office, would become an employee of the Capitol Police, and the Capitol Police Board would assume all responsibilities of the Comptroller General under this section.
 
 #### Effective Date of 2005 Amendment
 

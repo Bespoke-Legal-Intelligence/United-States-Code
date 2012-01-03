@@ -26,7 +26,7 @@ A prior section 5150 was renumbered section 5021 of this title.
 
 #### Amendments
 
-<b>2002</b>—Subsec. (c). Pub. L. 107–314 substituted “for promotion to the grade of rear admiral, in the case of an officer in the Nurse Corps, or rear admiral (lower half), in the case of an officer in the Medical Service Corps” for “for promotion to the grade of rear admiral (lower half)” in first sentence.
+<b>2002</b>—Subsec. (c). Pub. L. 107–314 substituted “for promotion to the grade of rear admiral, in the case of an officer in the Nurse Corps, or rear admiral (lower half),in the case of an officer in the Medical Service Corps” for “for promotion to the grade of rear admiral (lower half)” in first sentence.
 
 <b>1991</b>—Subsec. (c). Pub. L. 102–190 substituted “section 526” for “section 5444”.
 

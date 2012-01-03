@@ -18,7 +18,7 @@ For remainder of sections 111, 123, 204, 216, and 251 of title 13, U.S.C., 1952 
 
 #### Amendments
 
-1976—Pub. L. 94–521 substituted “Questionnaires” for “Schedules” in section catchline and in text.
+<b>1976</b>—Pub. L. 94–521 substituted “Questionnaires” for “Schedules” in section catchline and in text.
 
 #### Effective Date of 1976 Amendment
 

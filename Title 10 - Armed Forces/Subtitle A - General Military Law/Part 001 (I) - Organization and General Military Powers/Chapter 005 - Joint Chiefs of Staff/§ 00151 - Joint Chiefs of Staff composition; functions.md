@@ -16,6 +16,8 @@ Composition.—There are in the Department of Defense the Joint Chiefs of Staff,
 
 &emsp;(6) The Commandant of the Marine Corps.
 
+&emsp;(7) The Chief of the National Guard Bureau.
+
 (b)
 
 Function as Military Advisers.—(1) The Chairman of the Joint Chiefs of Staff is the principal military adviser to the President, the National Security Council, the Homeland Security Council, and the Secretary of Defense.
@@ -44,7 +46,7 @@ Advice on Request.—The members of the Joint Chiefs of Staff, individually or c
 
 (f)
 
-Recommendations to Congress.—After first informing the Secretary of Defense, a member of the Joint Chiefs of Staff may make such recommendations to Congress relating to theDepartment of Defense as he considers appropriate.
+Recommendations to Congress.—After first informing the Secretary of Defense, a member of the Joint Chiefs of Staff may make such recommendations to Congress relating to the Department of Defense as he considers appropriate.
 
 (g)
 
@@ -60,9 +62,11 @@ Meetings of JCS.—(1) The Chairman shall convene regular meetings of the Joint 
 
 &emsp;(D) determine when issues under consideration by the Joint Chiefs of Staff shall be decided.
 
-(Added Pub. L. 99–433, title II, §201, Oct. 1, 1986, 100 Stat. 1005; amended Pub. L. 102–484, div. A, title IX, §911(a), Oct. 23, 1992, 106 Stat. 2473; Pub. L. 109–163, div. A, title IX, §908(a), Jan. 6, 2006, 119 Stat. 3403.)
+(Added Pub. L. 99–433, title II, §201, Oct. 1, 1986, 100 Stat. 1005; amended Pub. L. 102–484, div. A, title IX, §911(a), Oct. 23, 1992, 106 Stat. 2473; Pub. L. 109–163, div. A, title IX, §908(a), Jan. 6, 2006, 119 Stat. 3403; Pub. L. 112–81, div. A, title V, §512(a), Dec. 31, 2011, 125 Stat. 1393.)
 
 #### Amendments
+
+<b>2011</b>—Subsec. (a)(7). Pub. L. 112–81 added par. (7).
 
 <b>2006</b>—Subsecs. (b), (c)(2), (d), (e). Pub. L. 109–163 inserted “the Homeland Security Council,” after “the National Security Council,” wherever appearing.
 

@@ -106,7 +106,7 @@ A prior section 222, act June 19, 1934, ch. 652, title II, §222, as added Mar. 
 
 #### Amendments
 
-<b>2008</b>—Subsec. (d)(4). Pub. L. 110–283, §301(1), inserted “or the user of an IP-enabled voice service (as suchterm is defined in section 615b of this title)” after “section 332(d) of this title)” in introductory provisions.
+<b>2008</b>—Subsec. (d)(4). Pub. L. 110–283, §301(1), inserted “or the user of an IP-enabled voice service (as such term is defined in section 615b of this title)” after “section 332(d) of this title)” in introductory provisions.
 
 Subsec. (f). Pub. L. 110–283, §301(2), struck out “wireless” before “location” in heading.
 

@@ -10,7 +10,7 @@ Degree Granting Authority.—The School of Nursing may include a program that aw
 
 (c)
 
-Phased Development.—The Secretary of Defense may develop the School of Nursing inphases as determined appropriate by the Secretary.
+Phased Development.—The Secretary of Defense may develop the School of Nursing in phases as determined appropriate by the Secretary.
 
 (Added Pub. L. 111–84, div. A, title V, §525(a)(2), Oct. 28, 2009, 123 Stat. 2286.)
 

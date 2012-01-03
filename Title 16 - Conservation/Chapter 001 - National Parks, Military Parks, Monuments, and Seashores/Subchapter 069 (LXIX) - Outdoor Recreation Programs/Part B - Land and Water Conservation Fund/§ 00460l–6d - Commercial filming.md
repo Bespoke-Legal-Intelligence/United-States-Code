@@ -34,9 +34,9 @@ The Secretary shall not permit any filming, still photography or other related a
 
 #### (e) Use of proceeds
 
-(1) All fees collected under this section shall be available for expenditure by the Secretary,without further appropriation, in accordance with the formula and purposes established for the Recreational Fee Demonstration Program (Public Law 104–134). All fees collected shall remain available until expended.
+(1) All fees collected under this section shall be available for expenditure by the Secretary, without further appropriation, in accordance with the formula and purposes established for the Recreational Fee Demonstration Program (Public Law 104–134). All fees collected shall remain available until expended.
 
-(2) All costs recovered under this section shall be available for expenditure by the Secretary, without further appropriation, at the site where collected. All costs recovered shall remain available until expended.
+(2) All costs recovered under this section shall be available for expenditure by the Secretary,without further appropriation, at the site where collected. All costs recovered shall remain available until expended.
 
 #### (f) Processing of permit applications
 

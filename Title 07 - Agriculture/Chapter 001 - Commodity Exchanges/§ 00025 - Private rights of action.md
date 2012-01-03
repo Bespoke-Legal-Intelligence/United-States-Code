@@ -6,17 +6,23 @@
 
 &emsp;(A) who received trading advice from such person for a fee;
 
-&emsp;(B) who made through such person any contract of sale of any commodity for future delivery (or option on such contract or any commodity); or who deposited with or paid to such person money, securities, or property (or incurred debt in lieu thereof) in connection with any order to make such contract;
+&emsp;(B) who made through such person any contract of sale of any commodity for future delivery (or option on such contract or any commodity) or any swap; or who deposited with or paid to such person money, securities, or property (or incurred debt in lieu thereof) in connection with any order to make such contract or any swap;
 
 &emsp;(C) who purchased from or sold to such person or placed through such person an order for the purchase or sale of—
 
 &emsp;&emsp;(i) an option subject to section 6c of this title (other than an option purchased or sold on a registered entity or other board of trade);
 
-&emsp;&emsp;(ii) a contract subject to section 23 of this title; or
+&emsp;&emsp;(ii) a contract subject to section 23 of this title; or <sup>1</sup>
 
 &emsp;&emsp;(iii) an interest or participation in a commodity pool; or
 
-&emsp;(D) who purchased or sold a contract referred to in subparagraph (B) hereof if the violation constitutes a manipulation of the price of any such contract or the price of the commodity underlying such contract.
+&emsp;&emsp;(iv) a swap; or
+
+&emsp;(D) who purchased or sold a contract referred to in subparagraph (B) hereof or swap if the violation constitutes—
+
+&emsp;&emsp;(i) the use or employment of, or an attempt to use or employ, in connection with a swap, or a contract of sale of a commodity, in interstate commerce, or for future delivery on or subject to the rules of any registered entity, any manipulative device or contrivance in contravention of such rules and regulations as the Commission shall promulgate by not later than 1 year after July 21, 2010; or
+
+&emsp;&emsp;(ii) a manipulation of the price of any such contract or swap or the price of the commodity underlying such contract or swap.
 
 (2) Except as provided in subsection (b) of this section, the rights of action authorized by this subsection and by sections 7(d)(13), 7a–1(c)(2)(H), and 21(b)(10) of this title shall be the exclusive remedies under this chapter available to any person who sustains loss as a result of any alleged violation of this chapter. Nothing in this subsection shall limit or abridge the rights of the parties to agree in advance of a dispute upon any forum for resolving claims under this section, including arbitration.
 
@@ -28,17 +34,45 @@
 
 (4)
 
-Contract enforcement between eligible counterparties.—No agreement, contract, or transaction between eligible contract participants or persons reasonably believed to be eligible contract participants, and no hybrid instrument sold to any investor, shall be void, voidable, or unenforceable, and no such party shall be entitled to rescind, or recover any payment made with respect to, such an agreement, contract, transaction, or instrument under this section or any other provision of Federal or State law, based solely on the failure of the agreement, contract, transaction, or instrument tocomply with the terms or conditions of an exemption or exclusion from any provision of this chapter or regulations of the Commission.
+Contract enforcement between eligible counterparties.—
+
+&emsp;(A)
+
+In general.—No hybrid instrument sold to any investor shall be void, voidable, or unenforceable, and no party to a hybrid instrument shall be entitled to rescind, or recover any payment made with respect to, the hybrid instrument under this section or any other provision of Federal or State law, based solely on the failure of the hybrid instrument to comply with the terms or conditions of section 2(f) of this title or regulations of the Commission.
+
+&emsp;(B)
+
+Swaps.—No agreement, contract, or transaction between eligible contract participants or persons reasonably believed to be eligible contract participants shall be void, voidable, or unenforceable, and no party to such agreement, contract, or transaction shall be entitled to rescind, or recover any payment made with respect to, the agreement, contract, or transaction under this section or any other provision of Federal or State law, based solely on the failure of the agreement, contract, or transaction—
+
+&emsp;&emsp;(i) to meet the definition of a swap under section 1a of this title; or
+
+&emsp;&emsp;(ii) to be cleared in accordance with section 2(h)(1) of this title.
+
+(5)
+
+Legal certainty for long-term swaps entered into before July 21, 2010.—
+
+&emsp;(A)
+
+Effect on swaps.—Unless specifically reserved in the applicable swap, neither the enactment of the Wall Street Transparency and Accountability Act of 2010, nor any requirement under that Act or an amendment made by that Act, shall constitute a termination event, force majeure, illegality, increased costs, regulatory change, or similar event under a swap (including any related credit support arrangement) that would permit a party to terminate, renegotiate, modify, amend, or supplement 1 or more transactions under the swap.
+
+&emsp;(B)
+
+Position limits.—Any position limit established under the Wall Street Transparency and Accountability Act of 2010 shall not apply to a position acquired in good faith prior to the effective date of any rule, regulation, or order under the Act that establishes the position limit; provided, however, that such positions shall be attributed to the trader if the trader's position is increased after the effective date of such position limit rule, regulation, or order.
+
+(6)
+
+Contract enforcement for foreign futures contracts.—A contract of sale of a commodity for future delivery traded or executed on or through the facilities of a board of trade, exchange, or market located outside the United States for purposes of section 6(a) of this title shall not be void, voidable, or unenforceable, and a party to such a contract shall not be entitled to rescind or recover any payment made with respect to the contract, based on the failure of the foreign board of trade to comply with any provision of this chapter.
 
 #### (b) Liabilities of organizations and individuals; bad faith requirement; exclusive remedy
 
-(1)(A) A registered entity that fails to enforce any bylaw, rule, regulation, or resolution that it is required to enforce by section 2(h)(7) of this title or sections 7 through 7a–2 of this title, (B) a licensed board of trade that fails to enforce any bylaw, rule, regulation, or resolution that it is required to enforce by the Commission, or (C) any registered entity that in enforcing any such bylaw, rule, regulation, or resolution violates this chapter or any Commission rule, regulation, or order, shall be liable for actual damages sustained by a person who engaged in any transaction on or subject to the rules of such registered entity to the extent of such person's actual losses that resulted from such transaction and were caused by such failure to enforce or enforcement of such bylaws, rules, regulations, or resolutions.
+(1)(A) A registered entity that fails to enforce any bylaw, rule, regulation, or resolution that it is required to enforce by section 7, 7a–1, 7a–2, 7b–3, or 24a of this title, (B) a licensed board of trade that fails to enforce any bylaw, rule, regulation, or resolution that it is required to enforce by the Commission, or (C) any registered entity that in enforcing any such bylaw, rule, regulation, or resolution violates this chapter or any Commission rule, regulation, or order, shall be liable for actual damages sustained by a person who engaged in any transaction on or subject to the rules of such registered entity to the extent of such person's actual losses that resulted from such transaction and were caused by such failure to enforce or enforcement of such bylaws, rules, regulations, or resolutions.
 
 (2) A registered futures association that fails to enforce any bylaw or rule that is required under section 21 of this title or in enforcing any such bylaw or rule violates this chapter or any Commission rule, regulation, or order shall be liable for actual damages sustained by a person that engaged in any transaction specified in subsection (a) of this section to the extent of such person's actual losses that resulted from such transaction and were caused by such failure to enforce or enforcement of such bylaw or rule.
 
-(3) Any individual who, in the capacity as an officer, director, governor, committee member, or employee of registered <sup>1</sup> entity or a registered futures association willfully aids, abets, counsels, induces, or procures any failure by any such entity to enforce (or any violation of the chapter in enforcing) any bylaw, rule, regulation, or resolution referred to in paragraph (1) or (2) of this subsection, shall be liable for actual damages sustained by a person who engaged in any transaction specified in subsection (a) of this section on, or subject to the rules of, such registered entity or, in the case of an officer, director, governor, committee member, or employee of a registered futures association, any transaction specified in subsection (a) of this section, in either case to the extent of such person's actual losses that resulted from such transaction and were caused by such failure or violation.
+(3) Any individual who, in the capacity as an officer, director, governor, committee member, or employee of registered <sup>2</sup> entity or a registered futures association willfully aids, abets, counsels, induces, or procures any failure by any such entity to enforce (or any violation of the chapter in enforcing) any bylaw, rule, regulation, or resolution referred to in paragraph (1) or (2) of this subsection, shall be liable for actual damages sustained by a person who engaged in any transaction specified in subsection (a) of this section on, or subject to the rules of, such registered entity or, in the case of an officer, director, governor, committee member, or employee of a registered futures association, any transaction specified in subsection (a) of this section, in either case to the extent of such person's actual losses that resulted from such transaction and were caused by such failure or violation.
 
-(4) A person seeking to enforce liability under this section must establish that the registered entity <sup>2</sup> registered futures association, officer, director, governor, committee member, or employee acted in bad faith in failing to take action or in taking such action as was taken, and that such failure or action caused the loss.
+(4) A person seeking to enforce liability under this section must establish that the registered entity <sup>3</sup> registered futures association, officer, director, governor, committee member, or employee acted in bad faith in failing to take action or in taking such action as was taken, and that such failure or action caused the loss.
 
 (5) The rights of action authorized by this subsection shall be the exclusive remedy under this chapter available to any person who sustains a loss as a result of (A) the alleged failure by a registered entity or registered futures association or by any officer, director, governor, committee member, or employee to enforce any bylaw, rule, regulation, or resolution referred to in paragraph (1) or (2) of this subsection, or (B) the taking of action in enforcing any bylaw, rule, regulation, or resolution referred to in this subsection that is alleged to have violated this chapter, or any Commission rule, regulation, or order.
 
@@ -50,67 +84,11 @@ The United States district courts shall have exclusive jurisdiction of actions b
 
 The provisions of this section shall become effective with respect to causes of action accruing on or after the date of enactment of the Futures Trading Act of 1982 \[January 11, 1983\]: <i>Provided</i>, That the enactment of the Futures Trading Act of 1982 shall not affect any right of any parties which may exist with respect to causes of action accruing prior to such date.
 
-(Sept. 21, 1922, ch. 369, §22, as added Pub. L. 97–444, title II, §235, Jan. 11, 1983, 96 Stat. 2322; amended Pub. L. 102–546, title II, §§211, 222(d), title IV, §402(14), Oct. 28, 1992, 106 Stat. 3607, 3616, 3625; Pub. L. 106–554, §1(a)(5) \[title I, §§120, 123(a)(25)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–404, 2763A–410; Pub. L. 110–234, title XIII, §§13105(i), 13203(n), May 22, 2008, 122 Stat. 1435, 1441; Pub. L. 110–246, §4(a), title XIII, §§13105(i), 13203(n), June 18, 2008, 122 Stat. 1664, 2197, 2203; Pub. L. 111–203, title VII, §§738(c), 739, 749(h), 753(c), July 21, 2010, 124 Stat. 1728, 1729, 1748, 1754.)
-
-#### Amendment of Subsections (a) and (b)(1)(A)
-
-<i>Pub. L. 111–203, title VII, §753(c), (d), July 21, 2010, 124 Stat. 1754, provided that, effective on the date on which the final rule promulgated by the Commodity Futures Trading Commission pursuant to Pub. L. 111–203 takes effect, subsection (a)(1) of this section is amended by striking subparagraph (D) and inserting the following:</i>
-
-&emsp;<i>(D) who purchased or sold a contract referred to in subparagraph (B) hereof or swap if the violation constitutes—</i>
-
-&emsp;&emsp;<i>(i) the use or employment of, or an attempt to use or employ, in connection with a swap, or a contract of sale of a commodity, in interstate commerce, or for future delivery on or subject to the rules of any registered entity, any manipulative device or contrivance in contravention of such rules and regulations as the Commission shall promulgate by not later than 1 year after July 21, 2010; or</i>
-
-&emsp;&emsp;<i>(ii) a manipulation of the price of any such contract or swap or the price of the commodity underlying such contract or swap.</i>
-
-<i>Pub. L. 111–203, title VII, §§738(c), 739, 749(h), 754, July 21, 2010, 124 Stat. 1728, 1729, 1748, 1754, provided that, effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, this section is amended as follows:</i>
-
-<i>(1) in subsection (a)—</i>
-
-<i>(A) in paragraph (1)—</i>
-
-<i>(i) in subparagraph (B), by inserting “or any swap” after “commodity)” and by inserting “or any swap” after “such contract”; and</i>
-
-<i>(ii) in subparagraph (C) by adding at the end the following:</i>
-
-&emsp;&emsp;<i>“(iv) a swap; or”; and</i>
-
-<i>(B) by striking paragraph (4) and inserting the following new paragraphs:</i>
-
-<i>“(4)</i>
-
-<i>Contract enforcement between eligible counterparties.—</i>
-
-&emsp;<i>“(A)</i>
-
-<i>In general</i>.—<i>No hybrid instrument sold to any investor shall be void, voidable, or unenforceable, and no party to a hybrid instrument shall be entitled to rescind, or recover any payment made with respect to, the hybrid instrument under this section or any other provision of Federal or State law, based solely on the failure of the hybrid instrument to comply with the terms or conditions of section 2(f) of this title or regulations of the Commission.</i>
-
-&emsp;<i>“(B)</i>
-
-<i>Swaps</i>.—<i>No agreement, contract, or transaction between eligible contract participants or persons reasonably believed to be eligible contract participants shall be void, voidable, or unenforceable, and no party to such agreement, contract, or transaction shall be entitled to rescind, or recover any payment made with respect to, the agreement, contract, or transaction under this section or any other provision of Federal or State law, based solely on the failure of the agreement, contract, or transaction—</i>
-
-&emsp;&emsp;<i>“(i) to meet the definition of a swap under section 1a of this title; or</i>
-
-&emsp;&emsp;<i>“(ii) to be cleared in accordance with section 2(h)(1) of this title.</i>
-
-<i>“(5)</i>
-
-<i>Legal certainty for long-term swaps entered into before July 21, 2010.—</i>
-
-&emsp;<i>“(A)</i>
-
-<i>Effect on swaps</i>.—<i>Unless specifically reserved in the applicable swap, neither the enactment of the Wall Street Transparency and Accountability Act of 2010, nor any requirement under that Act or an amendment made by that Act, shall constitute a termination event, force majeure, illegality, increased costs, regulatory change, or similar event under a swap (including any related credit support arrangement) that would permit a party to terminate, renegotiate, modify, amend, or supplement 1 or more transactions under the swap.</i>
-
-&emsp;<i>“(B)</i>
-
-<i>Position limits</i>.—<i>Any position limit established under the Wall Street Transparency and Accountability Act of 2010 shall not apply to a position acquired in good faith prior to the effective date of any rule, regulation, or order under the Act that establishes the position limit; provided, however, that such positions shall be attributed to the trader if the trader's position is increased after the effective date of such position limit rule, regulation, or order.</i>
-
-<i>“(6)</i>
-
-<i>Contract enforcement for foreign futures contracts</i>.—<i>A contract of sale of a commodity for future delivery traded or executed on or through the facilities of a board of trade, exchange, or market located outside the United States for purposes of section 6(a) of this title shall not be void, voidable, or unenforceable, and a party to such a contract shall not be entitled to rescind or recover any payment made with respect to the contract, based on the failure of the foreign board of trade to comply with any provision of this chapter.”; and</i>
-
-<i>(2) in subsection (b)(1)(A), by striking “section 2(h)(7) of this title or sections 7 through 7a–2 of this title” and inserting “section 7, 7a–1, 7a–2, 7b–3, or 24a of this title”.</i>
+(Sept. 21, 1922, ch. 369, §22, as added Pub. L. 97–444, title II, §235, Jan. 11, 1983, 96 Stat. 2322; amended Pub. L. 102–546, title II, §§211, 222(d), title IV, §402(14), Oct. 28, 1992, 106 Stat. 3607, 3616, 3625; Pub. L. 106–554, §1(a)(5) \[title I, §§120,123(a)(25)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–404, 2763A–410; Pub. L. 110–234, title XIII, §§13105(i), 13203(n), May 22, 2008, 122 Stat. 1435, 1441; Pub. L. 110–246, §4(a), title XIII, §§13105(i), 13203(n), June 18, 2008, 122 Stat. 1664, 2197, 2203; Pub. L. 111–203, title VII, §§738(c), 739, 749(h), 753(c), July 21, 2010, 124 Stat. 1728, 1729, 1748, 1754.)
 
 #### References in Text
+
+The Wall Street Transparency and Accountability Act of 2010, referred to in subsec. (a)(5), is title VII of Pub. L. 111–203, July 21, 2010, 124 Stat. 1641, which enacted chapter 109 (§8301 et seq.) of Title 15, Commerce and Trade, and enacted and amended numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of Title 15 and Tables.
 
 The Futures Trading Act of 1982, referred to in subsec. (d), is Pub. L. 97–444, Jan. 11, 1983, 96 Stat. 2294, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title of 1983 Amendment note set out under section 1 of this title and Tables.
 
@@ -120,11 +98,25 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (a)(2). Pub. L. 110–246, §13105(i), substituted “7a–1(c)(2)(H)” for “7a–1(b)(1)(E)”.
+<b>2010</b>—Subsec. (a)(1)(B). Pub. L. 111–203, §749(h)(1)(B), which directed insertion of “or any swap” after “such contract”, was executed by making the insertion after “such contract” the second time appearing, to reflect the probable intent of Congress.
+
+Pub. L. 111–203, §749(h)(1)(A), inserted “or any swap” after “commodity)”.
+
+Subsec. (a)(1)(C)(iv). Pub. L. 111–203, §749(h)(2), added cl. (iv).
+
+Subsec. (a)(1)(D). Pub. L. 111–203, §753(c), added subpar. (D) and struck out former subpar. (D) which read as follows: “who purchased or sold a contract referred to in subparagraph (B) hereof if the violation constitutes a manipulation of the price of any such contract or the price of the commodity underlying such contract.”
+
+Subsec. (a)(4), (5). Pub. L. 111–203, §739, added pars. (4) and (5) and struck out former par. (4). Prior to amendment, text of par. (4) read as follows: “No agreement, contract, or transaction between eligible contract participants or persons reasonably believed to be eligible contract participants, and no hybrid instrument sold to any investor, shall be void, voidable, or unenforceable, and no such party shall be entitled to rescind, or recover any payment made with respect to, such an agreement, contract, transaction, or instrument under this section or any other provision of Federal or State law, based solely on the failure of the agreement, contract, transaction, or instrument to comply with the terms or conditions of an exemption or exclusion from any provision of this chapter or regulations of the Commission.”
+
+Subsec. (a)(6). Pub. L. 111–203, §738(c), added par. (6).
+
+Subsec. (b)(1)(A). Pub. L. 111–203, §749(h)(3), substituted “section 7, 7a–1, 7a–2, 7b–3, or 24a of this title” for “section 2(h)(7) of this title or sections 7 through 7a–2 of this title”.
+
+<b>2008</b>—Subsec. (a)(2). Pub. L. 110–246, §13105(i), substituted “7a–1(c)(2)(H)” for “7a–1(b)(1)(E)”.
 
 Subsec. (b)(1)(A). Pub. L. 110–246, §13203(n), inserted “section 2(h)(7) of this title or” before “sections 7 through 7a–2”.
 
-2000—Subsec. (a)(1). Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(25)(A)(i)(I)\], substituted “registered entity” for “contract market, clearing organization of a contract market, licensed board of trade,” in introductory provisions.
+<b>2000</b>—Subsec. (a)(1). Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(25)(A)(i)(I)\], substituted “registered entity” for “contract market, clearing organization of a contract market, licensed board of trade,” in introductory provisions.
 
 Subsec. (a)(1)(C)(i). Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(25)(A)(i)(II)\], substituted “registered entity” for “contract market”.
 
@@ -142,7 +134,7 @@ Subsec. (b)(4). Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(25)(B)(iii)\], 
 
 Subsec. (b)(5). Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(25)(B)(iv)\], substituted “registered entity” for “contract market, licensed board of trade, clearing organization,”.
 
-1992—Subsec. (a)(1). Pub. L. 102–546, §402(14)(A), substituted “subparagraphs” for “clauses” in introductoryprovisions and “subparagraph” for “clause” in subpar. (D).
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–546, §402(14)(A), substituted “subparagraphs” for “clauses” in introductory provisions and “subparagraph” for “clause” in subpar. (D).
 
 Subsec. (a)(2). Pub. L. 102–546, §402(14)(B), made technical amendment to reference to section 21(b)(10) of this title to correct reference to corresponding section of original act.
 
@@ -154,7 +146,7 @@ Subsec. (c). Pub. L. 102–546, §211, amended subsec. (c) generally. Prior to a
 
 Amendment by sections 738(c), 739, and 749(h) of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
 
-Amendment by section 753(c) of Pub. L. 111–203 effective on the date on which the final rule promulgated by the Commodity Futures Trading Commission pursuant to Pub. L. 111–203 takes effect, see section 753(d) of Pub. L. 111–203, set out as a note under section 9 of this title.
+Amendment by section 753(c) of Pub. L. 111–203 effective on the date on which the final rule promulgated by the Commodity Futures Trading Commission pursuant to Pub. L. 111–203 takes effect \[see 76 F.R. 41398, effective Aug. 15, 2011\], see section 753(d) of Pub. L. 111–203, set out as a note under section 9 of this title.
 
 #### Effective Date of 2008 Amendment
 
@@ -166,7 +158,9 @@ Amendment by section 13203(n) of Pub. L. 110–246 effective June 18, 2008, see 
 
 Section effective Jan. 11, 1983, see section 239 of Pub. L. 97–444, set out as an Effective Date of 1983 Amendment note under section 2 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by “a”.</i>
+<i><sup>1</sup></i><i> So in original. The word “or” probably should not appear.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be followed by a comma.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be preceded by “a”.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

@@ -10,7 +10,7 @@ The Secretary of Commerce shall encourage, promote, and develop travel within th
 
 #### Transfer of Functions
 
-Section 2 of Pub. L. 93–193, Dec. 19, 1973, 87 Stat. 765, provided that:
+Pub. L. 93–193, §2, Dec. 19, 1973, 87 Stat. 765, provided that:
 
 “(a) There are hereby transferred to and vested in the Secretary of Commerce all functions, powers, and duties of the Secretary of the Interior and other offices and officers of the Department of the Interior under the Act of July 19, 1940 (54 Stat. 773; 16 U.S.C. 18–18d).
 

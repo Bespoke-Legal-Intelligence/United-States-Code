@@ -28,7 +28,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) the plan has an accumulated funding deficiency for such plan year, or is projected to have such an accumulated funding deficiency for any of the 6 succeeding plan years, taking into account any extension of amortization periods under section 1084(d) of this title.
 
-> &emsp;For purposes of this section, a plan shall be treated as in seriously endangered status for a plan year if the plan is described in both subparagraphs (A) and (B).
+> &emsp;For purposes of this section, a plan shall be treated as in seriously endangered status for aplan year if the plan is described in both subparagraphs (A) and (B).
 
 #### (2) Critical status
 
@@ -268,7 +268,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(iii) any new direct or indirect exclusion of younger or newly hired employees from plan participation,
 
-&emsp;&emsp;(B) no amendment of the plan which increases the liabilities of the plan by reason of any increase in benefits, any change in the accrual of benefits, or any change in the rate at which benefits become nonforfeitable under the plan may be adopted unless theamendment is required as a condition of qualification under part I of subchapter D of chapter 1 of title 26 or to comply with other applicable law, and
+&emsp;&emsp;(B) no amendment of the plan which increases the liabilities of the plan by reason of any increase in benefits, any change in the accrual of benefits, or any change in the rate at which benefits become nonforfeitable under the plan may be adopted unless the amendment is required as a condition of qualification under part I of subchapter D of chapter 1 of title 26 or to comply with other applicable law, and
 
 &emsp;&emsp;(C) in the case of a plan in seriously endangered status, the plan sponsor shall take all reasonable actions which are consistent with the terms of the plan and applicable law and which are expected, based on reasonable assumptions, to achieve—
 
@@ -396,7 +396,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) if lower, the accrual rate under the plan on such first day.
 
-> &emsp;The equivalent standard accrual rate shall be determined by the plan sponsor based on the standard or average contribution base units which the plan sponsor determines to be representative for active participants and such other factors as the plan sponsor determines to be relevant. Nothing in this paragraph shallbe construed as limiting the ability of the plan sponsor to prepare and provide the bargaining parties with alternative schedules to the default schedule that establish lower or higher accrual and contribution rates than the rates otherwise described in this paragraph.
+> &emsp;The equivalent standard accrual rate shall be determined by the plan sponsor based on the standard or average contribution base units which the plan sponsor determines to be representative for active participants and such other factors as the plan sponsor determines to be relevant. Nothing in this paragraph shall be construed as limiting the ability of the plan sponsor to prepare and provide the bargaining parties with alternative schedules to the default schedule that establish lower or higher accrual and contribution rates than the rates otherwise described in this paragraph.
 
 #### (7) Automatic employer surcharge
 
@@ -506,7 +506,7 @@ For purposes of this section—
 
 #### (B) Special rules for benefit increases
 
-&emsp;&emsp;A plan may not be amended after the date of the adoption of a rehabilitation plan under subsection (e) so as to increase benefits, including future benefit accruals, unless the plan actuary certifies that such increase is paid for out of additional contributions not contemplated by the rehabilitation plan, and, after taking into account the benefit increase, the multiemployer plan still is reasonably expected to emerge from critical status by the end of the rehabilitation period on the schedule contemplated in the rehabilitation plan.
+&emsp;&emsp;A plan may not be amended after the date of the adoption of a rehabilitation planunder subsection (e) so as to increase benefits, including future benefit accruals, unless the plan actuary certifies that such increase is paid for out of additional contributions not contemplated by the rehabilitation plan, and, after taking into account the benefit increase, the multiemployer plan still is reasonably expected to emerge from critical status by the end of the rehabilitation period on the schedule contemplated in the rehabilitation plan.
 
 #### (2) Restriction on lump sums and similar benefits
 
@@ -540,7 +540,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(iii) any new direct or indirect exclusion of younger or newly hired employees from plan participation, and
 
-&emsp;&emsp;(B) no amendment of the plan which increases the liabilities of the plan by reason of any increase in benefits, any change in the accrual of benefits, or any change in the rate at which benefits become nonforfeitableunder the plan may be adopted unless the amendment is required as a condition of qualification under part I of subchapter D of chapter 1 of title 26 or to comply with other applicable law.
+&emsp;&emsp;(B) no amendment of the plan which increases the liabilities of the plan by reason of any increase in benefits, any change in the accrual of benefits, or any change in the rate at which benefits become nonforfeitable under the plan may be adopted unless the amendment is required as a condition of qualification under part I of subchapter D of chapter 1 of title 26 or to comply with other applicable law.
 
 #### (g) Expedited resolution of plan sponsor decisions
 

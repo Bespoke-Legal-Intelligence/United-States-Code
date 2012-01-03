@@ -28,7 +28,7 @@
 
 &emsp;(K) contain such additional information and assurances as the Secretary may find necessary to carry out the purposes of this subsection.
 
-(3)(A) From the sums appropriated for such purpose for each fiscal year, the several States shall be entitled to allotments determined, in accordance with regulations, on the basis of the population and the per capita income of the respective States; except that no such allotment to any State for any fiscal year shall be less than 1 per centum of the sum appropriated for such fiscal year pursuant to paragraph (1). Any such allotment to a State for a fiscal year shall remain available for obligation by the State, in accordance with the provisions of this subsection and the State's plan approved thereunder, until the close of the succeeding fiscal year.
+(3)(A) From the sums appropriated for such purpose for each fiscal year, the several Statesshall be entitled to allotments determined, in accordance with regulations, on the basis of the population and the per capita income of the respective States; except that no such allotment to any State for any fiscal year shall be less than 1 per centum of the sum appropriated for such fiscal year pursuant to paragraph (1). Any such allotment to a State for a fiscal year shall remain available for obligation by the State, in accordance with the provisions of this subsection and the State's plan approved thereunder, until the close of the succeeding fiscal year.
 
 (B) The amount of any allotment to a State under subparagraph (A) for any fiscal year which the Secretary determines will not be required by the State, during the period for which it is available, for the purposes for which allotted shall be available for reallotment by the Secretary from time to time, on such date or dates as he may fix, to other States with respect to which such a determination has not been made, in proportion to the original allotments to such States under subparagraph (A) for such fiscal year, but with such proportionate amount for any of such other States being reduced to the extent it exceeds the sum the Secretary estimates such State needs and will be able to use during such period; and the total of such reductions shall be similarly reallotted among the States whose proportionate amounts were not so reduced. Any amount so reallotted to a State from funds appropriated pursuant to this subsection for a fiscal year shall be deemed part of its allotment under subparagraph (A) for such fiscal year.
 
@@ -42,7 +42,7 @@
 
 (2)(A) In order to be approved under this subsection, an application for a grant under this subsection must contain or be supported by reasonable assurances that there has been or will be established, in or for the area with respect to which such grant is sought, an areawide health planning council. The membership of such council shall include representatives of public, voluntary, and nonprofit private agencies, institutions, and organizations concerned with health (including representatives of the interests of local government of the regional medical program for such area, and of consumers of health services). A majority of the members of such council shall consist of representatives of consumers of health services.
 
-(B) In addition, an application for a grant under this subsection must contain or be supported by reasonable assurances that the areawide health planning agency has made provision for assisting health care facilities in its area to develop a program for capital expenditures for replacement, modernization, and expansion which is consistent with an overall State plan which will meet the needs of the State and the area for health care facilities, equipment, and services without duplication and otherwise in the most efficient and economical manner.
+(B) In addition, an application for a grant under this subsection must contain or be supported by reasonable assurances that the areawide health planning agency has made provision for assisting health care facilities in its area to develop a program for capital expenditures for replacement, modernization, and expansionwhich is consistent with an overall State plan which will meet the needs of the State and the area for health care facilities, equipment, and services without duplication and otherwise in the most efficient and economical manner.
 
 #### (c) Project grants for training, studies, and demonstrations; authorization of appropriations
 
@@ -56,7 +56,7 @@ The Secretary is also authorized, during the period beginning July 1, 1966, and 
 
 <b>1985</b>—Subsec. (g). Pub. L. 99–117 directed that subsec. (g) be repealed. Previously, subsec. (g) was repealed by Pub. L. 96–398. See 1980 Amendment note below.
 
-<b>1981</b>—Subsec. (d). Pub. L. 97–35 struck out subsec. (d) which related to grants for services, form, manner, etc.,of application, review of activities undertaken, allotments, and authorization of appropriations.
+<b>1981</b>—Subsec. (d). Pub. L. 97–35 struck out subsec. (d) which related to grants for services, form, manner, etc., of application, review of activities undertaken, allotments, and authorization of appropriations.
 
 <b>1980</b>—Subsec. (g). Pub. L. 96–398 struck out subsec. (g) which related to application, procedures applicable, amount, etc., for State mental health program grants.
 
@@ -162,7 +162,7 @@ Subsec. (c). Pub. L. 89–749 substituted provisions for project grants for the 
 
 Subsec. (d). Pub. L. 89–749 substituted provisions authorizing grants by the Surgeon General to State health or mental health authorities to assist in establishing and maintaining adequate public health services, setting out the requirements for an acceptable State plan for the supplying of public health services, authorizing an appropriation of $62,500,000 for fiscal 1968, the allotment of appropriated funds, payments to States, and the determination of the Federal share for provisions covering the allotment of appropriated funds among the several States on the basis of population, incidence of venereal disease, tuberculosis, mental health problems, and the financial needs of the various States.
 
-Subsec. (e). Pub. L. 89–749 substituted provisions for project grants for health services development to public or private nonprofit agencies and for the authorization of an appropriation of $62,500,000 for fiscal 1968 forprovisions covering the establishment and maintenance of community programs of heart disease control and the allotments and appropriations therefor.
+Subsec. (e). Pub. L. 89–749 substituted provisions for project grants for health services development to public or private nonprofit agencies and for the authorization of an appropriation of $62,500,000 for fiscal 1968 for provisions covering the establishment and maintenance of community programs of heart disease control and the allotments and appropriations therefor.
 
 Subsec. (f). Pub. L. 89–749 substituted provisions covering the interchange of personnel with States, the application of statutes covering Federal employees to interchanged personnel, and the coverage of State officers and employees, for provisions for the determination and certification of amounts paid to each State from allotments thereto.
 
@@ -242,7 +242,7 @@ Section 3(b) of Pub. L. 90–174 provided that the amendment of this section, th
 
 #### Effective Date of 1966 Amendment
 
-Section 6 of Pub. L. 89–749 provided in part that: “The amendments made by section 3 \[amending this section\]shall become effective as of July 1, 1966, except that the provisions of section 314 of the Public Health Service Act \[this section\] as in effect prior to the enactment of this Act shall be effective until July 1, 1967, in lieu of the provisions of subsections (d) and (e), and the provisions of subsections (g) insofar as they relate to such subsections (d) and (e), of section 314 of the Public Health Service Act \[this section\] as amended by this Act.”
+Section 6 of Pub. L. 89–749 provided in part that: “The amendments made by section 3 \[amending this section\] shall become effective as of July 1, 1966, except that the provisions of section 314 of the Public Health Service Act \[this section\] as in effect prior to the enactment of this Act shall be effective until July 1, 1967, in lieu of the provisions of subsections (d) and (e), and the provisions of subsections (g) insofar as they relate to such subsections (d) and (e), of section 314 of the Public Health Service Act \[this section\] as amended by this Act.”
 
 #### Effective Date of 1962 Amendment
 
@@ -306,7 +306,7 @@ Section 2 of Pub. L. 85–544, which had limited the authority of the Surgeon Ge
 
 #### Grants to States To Provide for Vaccination Against Poliomyelitis
 
-The Poliomyelitis Vaccination Assistance Act of 1955, act Aug. 12, 1955, ch. 863, 69 Stat. 704, as amended Feb.15, 1956, ch. 39, 70 Stat. 18, authorized appropriations to remain available until close of June 30, 1957 and provided for allotments to States, State application for funds, payments to States, use of funds paid to States, furnishing of vaccine by Surgeon General, diversion of Federal funds, supervision over exercise of functions, and definitions.
+The Poliomyelitis Vaccination Assistance Act of 1955, act Aug. 12, 1955, ch. 863, 69 Stat. 704, as amended Feb. 15, 1956, ch. 39, 70 Stat. 18, authorized appropriations to remain available until close of June 30, 1957 and provided for allotments to States, State application for funds, payments to States, use of funds paid to States, furnishing of vaccine by Surgeon General, diversion of Federal funds, supervision over exercise of functions, and definitions.
 
 #### Applicability of Reorganization Plan No. 3 of 1966
 

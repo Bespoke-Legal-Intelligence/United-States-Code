@@ -42,7 +42,7 @@ A system established in a State under section 10803 of this title to protect and
 
 &emsp;&emsp;&emsp;(iii) such representative has failed or refused to act on behalf of the individual;
 
-&emsp;(5) have an arrangement with the Secretary and the agency of the State which administers the State plan under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] for the furnishing of the information required by subsection (b) of this section;
+&emsp;(5) have an arrangement with the Secretary and the agency of the State which administersthe State plan under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] for the furnishing of the information required by subsection (b) of this section;
 
 &emsp;(6) establish an advisory council—
 

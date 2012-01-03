@@ -66,7 +66,7 @@
 
 #### (A) Payments for coverage limited to block grant funded from State allotment
 
-&emsp;&emsp;Any State that provides child health assistance or health benefits coverage under an applicable existing waiver for a parent of a targeted low-income child may elect to continue to provide such assistance or coverage through fiscal year 2012 or 2013, subject to the same terms and conditions that applied under the applicable existing waiver, unless otherwise modified in subparagraph (B).
+&emsp;&emsp;Any State that provides child health assistance or health benefits coverage under an applicable existing waiver for a parent ofa targeted low-income child may elect to continue to provide such assistance or coverage through fiscal year 2012 or 2013, subject to the same terms and conditions that applied under the applicable existing waiver, unless otherwise modified in subparagraph (B).
 
 #### (B) Terms and conditions
 
@@ -132,7 +132,7 @@
 
 #### (4) Rules of construction
 
-&emsp;Nothing in this subsection shall be construed as prohibiting a State from submitting an application to the Secretary for a waiver under section 1315 of this title of the State plan under subchapter XIX to provide medical assistance to a parent of a targeted low-income child that was provided child health assistance or health benefits coverage under an applicable existing waiver.
+&emsp;Nothing in this subsection shall be construed as prohibiting a State from submitting an application to the Secretary for a waiverunder section 1315 of this title of the State plan under subchapter XIX to provide medical assistance to a parent of a targeted low-income child that was provided child health assistance or health benefits coverage under an applicable existing waiver.
 
 #### (c) Applicable existing waiver
 

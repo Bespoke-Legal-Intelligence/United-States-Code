@@ -10,7 +10,7 @@ A prior section 1205 was renumbered section 1204 of this title.
 
 #### Amendments
 
-1989—Pub. L. 101–12 renumbered section 1209(a) of this title as this section and inserted section catchline.
+<b>1989</b>—Pub. L. 101–12 renumbered section 1209(a) of this title as this section and inserted section catchline.
 
 #### Effective Date of 1989 Amendment
 

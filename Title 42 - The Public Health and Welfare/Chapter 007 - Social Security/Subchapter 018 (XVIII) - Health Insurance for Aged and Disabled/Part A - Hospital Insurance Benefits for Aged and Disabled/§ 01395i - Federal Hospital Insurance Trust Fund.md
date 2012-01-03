@@ -12,7 +12,7 @@ There is hereby created on the books of the Treasury of the United States a trus
 
 #### (b) Board of Trustees; composition; meetings; duties
 
-With respect to the Trust Fund, there is hereby created a body to be known as the Board of Trustees of the Trust Fund (hereinafter in this section referred to as the “Board of Trustees”) composed of the Commissioner of Social Security, the Secretary of the Treasury, the Secretary of Labor, and the Secretary of Health and Human Services, all ex officio, and of two members of the public (both of whom may not be from the same political party), who shall be nominated by the President for a term of four years and subject to confirmation by the Senate. A member of the Board of Trustees serving as a member of the public and nominated and confirmed to fill a vacancy occurring during a term shall be nominated and confirmed only for the remainder of such term. An individual nominated and confirmed as a member of the public may serve in such position after the expiration of such member's term until the earlier of the time at which the member's successor takes office or the time at which a report of the Board is first issued under paragraph (2) after the expiration of the member's term. The Secretary of the Treasury shall be the Managing Trustee of the Board of Trustees (hereinafter in this section referred to as the “Managing Trustee”). The Administrator of the Centers for Medicare \& Medicaid Services shall serve as the Secretary of the Board of Trustees. The Board of Trustees shall meet not less frequently than once each calendar year. It shall be the duty of the Board of Trustees to—
+With respect to the Trust Fund, there is hereby created a body to be known as the Board of Trustees of the Trust Fund (hereinafter in this section referred to as the “Board of Trustees”) composed of the Commissioner of Social Security, the Secretary of the Treasury, the Secretary of Labor, and the Secretary of Health and Human Services, all ex officio, and of two members of the public (both of whom may not befrom the same political party), who shall be nominated by the President for a term of four years and subject to confirmation by the Senate. A member of the Board of Trustees serving as a member of the public and nominated and confirmed to fill a vacancy occurring during a term shall be nominated and confirmed only for the remainder of such term. An individual nominated and confirmed as a member of the public may serve in such position after the expiration of such member's term until the earlier of the time at which the member's successor takes office or the time at which a report of the Board is first issued under paragraph (2) after the expiration of the member's term. The Secretary of the Treasury shall be the Managing Trustee of the Board of Trustees (hereinafter in this section referred to as the “Managing Trustee”). The Administrator of the Centers for Medicare \& Medicaid Services shall serve as the Secretary of the Board of Trustees. The Board of Trustees shall meet not less frequently than once each calendar year. It shall be the duty of the Board of Trustees to—
 
 &emsp;(1) Hold the Trust Fund;
 
@@ -38,7 +38,7 @@ The interest on, and the proceeds from the sale or redemption of, any obligation
 
 #### (f) Payment of estimated taxes
 
-(1) The Managing Trustee is directed to pay from time to time from the Trust Fund into the Treasury the amount estimated by him as taxes imposed under section 3101(b) which are subject to refund under section 6413(c) of the Internal Revenue Code of 1986 with respect to wages paid after December 31, 1965. Such taxes shall be determined on the basis of the records of wages established and maintained by the Commissioner of Social Security in accordance with the wages reported to the Secretary of the Treasury or his delegate pursuant to subtitle F of the Internal Revenue Code of 1986, and the Commissioner of Social Security shall furnish the Managing Trustee such information as may be required by the Managing Trustee for such purpose. The payments by the Managing Trustee shall be covered into the Treasury as repayments to the account for refunding internal revenue collections.
+(1) The Managing Trustee is directed to pay from time to time from the Trust Fund into the Treasury the amount estimated by him as taxes imposed under section 3101(b) which are subject to refund under section 6413(c) of the Internal Revenue Code of 1986 with respect to wages paid after December 31, 1965. Such taxes shall be determined on the basis of the records of wages established and maintained by the Commissioner of Social Security in accordance with the wages reported to the Secretary of the Treasury or his delegate pursuant to subtitle F of the Internal Revenue Code of 1986, and the Commissioner of Social Security shall furnish the ManagingTrustee such information as may be required by the Managing Trustee for such purpose. The payments by the Managing Trustee shall be covered into the Treasury as repayments to the account for refunding internal revenue collections.
 
 (2) Repayments made under paragraph (1) shall not be available for expenditures but shall be carried to the surplus fund of the Treasury. If it subsequently appears that the estimates under such paragraph in any particular period were too high or too low, appropriate adjustments shall be made by the Managing Trustee in future payments.
 
@@ -88,7 +88,7 @@ There are authorized to be made available for expenditure out of the Trust Fund 
 
 &emsp;(i) the combined balance in the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund, reduced by the outstanding amount of any loan (including interest thereon) theretofore made to either such Trust Fund from the Federal Hospital Insurance Trust Fund under section 401(<i>l</i>) of this title, as of the last day of the second month preceding such month, to
 
-&emsp;(ii) the amount obtained by multiplying by twelve the total amount which (as estimated by the Secretary) will be paid from the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund during the month for which such ratio is to be determined for all purposes authorized by section 401 of this title (other than payments of interest on, or repayments of, loans from the Federal Hospital Insurance Trust Fund under section 401(<i>l</i>) of this title),but excluding any transfer payments between such trust funds and reducing the amount of any transfers to the Railroad Retirement Account by the amount of any transfers into either such trust fund from that Account.
+&emsp;(ii) the amount obtained by multiplying by twelve the total amount which (as estimated by the Secretary) will be paid from the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund during the month for which such ratio is to be determined for all purposes authorized by section 401 of this title (other than payments of interest on, or repayments of, loans from the Federal Hospital Insurance Trust Fund under section 401(<i>l</i>) of this title), but excluding any transfer payments between such trust funds and reducing the amount of any transfers to the Railroad Retirement Account by the amount of any transfers into either such trust fund from that Account.
 
 #### (k) Health Care Fraud and Abuse Control Account
 
@@ -126,7 +126,7 @@ There are authorized to be made available for expenditure out of the Trust Fund 
 
 #### (D) Application
 
-&emsp;&emsp;Nothing in subparagraph (C)(iii) shall be construed to limit the availability of recoveries and forfeitures obtained under title I of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1001 et seq.\] for the purpose of providing equitable or remedial relief for employee welfare benefit plans, and for participants and beneficiaries under such plans, as authorized under such title.
+&emsp;&emsp;Nothing in subparagraph (C)(iii) shall be construed to limit the availability of recoveries and forfeitures obtained under title I of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1001 et seq.\] for the purpose of providing equitable or remedial relieffor employee welfare benefit plans, and for participants and beneficiaries under such plans, as authorized under such title.
 
 #### (3) Appropriated amounts to Account for fraud and abuse control program, etc.
 
@@ -164,7 +164,7 @@ There are authorized to be made available for expenditure out of the Trust Fund 
 
 &emsp;&emsp;&emsp;&emsp;(VIII) for fiscal year 2007, not less than $160,000,000, increased by the percentage increase in the consumer price index for all urban consumers (all items; United States city average) over the previous year; and
 
-&emsp;&emsp;&emsp;&emsp;(IX) for each fiscal year after fiscal year 2007, not less than the amount required under this clause for the preceding fiscal year, increased by the percentage increase in the consumer price index for all urban consumers (all items;United States city average) over the previous year.
+&emsp;&emsp;&emsp;&emsp;(IX) for each fiscal year after fiscal year 2007, not less than the amount required under this clause for the preceding fiscal year, increased by the percentage increase in the consumer price index for all urban consumers (all items; United States city average) over the previous year.
 
 #### (B) Federal Bureau of Investigation
 
@@ -268,7 +268,7 @@ There are authorized to be made available for expenditure out of the Trust Fund 
 
 &emsp;&emsp;(C) identifies any savings to the Trust Fund, and any other savings, resulting from expenditures from the Trust Fund; and
 
-&emsp;&emsp;(D) analyzes such other aspects of the operation of the Trust Fund as the ComptrollerGeneral of the United States considers appropriate.
+&emsp;&emsp;(D) analyzes such other aspects of the operation of the Trust Fund as the Comptroller General of the United States considers appropriate.
 
 #### (7) Additional funding
 
@@ -292,7 +292,7 @@ There are authorized to be made available for expenditure out of the Trust Fund 
 
 &emsp;&emsp;The funds appropriated under this paragraph shall be allocated in the same proportion as the total funding appropriated with respect to paragraphs (3)(A) and (4)(A) was allocated with respect to fiscal year 2010, and shall be available without further appropriation until expended.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1817, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 299; amended Pub. L. 90–248, title I, §169(a), Jan. 2, 1968, 81 Stat. 875; Pub. L. 92–603, title I, §132(d), Oct. 30, 1972, 86 Stat. 1361; Pub. L. 95–292, §5, June 13, 1978, 92 Stat. 315; Pub. L. 96–265, title III, §310(c), June 9, 1980, 94 Stat. 460; Pub. L. 97–123, §1(b), Dec. 29, 1981, 95 Stat. 1659; Pub. L. 98–21, title I, §§141(b), 142(b)(1), (2)(A), (3), (4), 154(b), title III, §341(b), Apr. 20, 1983, 97 Stat. 98, 100, 101, 107, 135; Pub. L. 98–369, div. B, title III, §§2337(a), 2354(b)(2), title VI, §2663(j)(2)(F)(i), July 18, 1984, 98 Stat. 1091, 1100, 1170; Pub. L. 99–272, title IX, §9213(b), Apr. 7, 1986, 100 Stat. 180; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–360, title II, §212(c)(3), July 1, 1988, 102 Stat. 741; Pub. L. 100–647, title VIII, §8005(a), Nov. 10, 1988, 102 Stat. 3781; Pub. L. 101–234, title II, §202(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–508, title V, §5106(c), Nov. 5, 1990, 104 Stat. 1388–268; Pub. L. 103–296, title I, §108(c)(1), Aug. 15, 1994, 108 Stat. 1485; Pub. L. 104–191, title II, §201(b), Aug. 21, 1996, 110 Stat. 1993; Pub. L. 105–33, title IV, §4318, Aug. 5, 1997, 111 Stat. 392; Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(j)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–366; Pub. L. 108–173, title VII, §736(a)(5), (6), title VIII, §801(d)(1), title IX, §900(e)(1)(D), Dec. 8, 2003, 117 Stat. 2355, 2359, 2371; Pub. L. 109–171, title V, §5204, title VI, §6034(d)(2), Feb. 8, 2006, 120 Stat. 48, 78; Pub. L. 109–432, div. B, title III, §303, Dec. 20, 2006, 120 Stat. 2992; Pub. L. 111–148, title VI, §6402(i), Mar. 23, 2010, 124 Stat. 760; Pub. L. 111–152, title I, §1303(a)(1), Mar. 30, 2010, 124 Stat. 1057.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1817, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 299; amended Pub. L. 90–248, title I, §169(a), Jan. 2, 1968, 81 Stat. 875; Pub. L. 92–603, title I, §132(d), Oct. 30, 1972, 86 Stat. 1361; Pub. L. 95–292, §5, June 13, 1978, 92 Stat. 315; Pub. L. 96–265, title III, §310(c), June 9, 1980, 94 Stat. 460; Pub. L. 97–123, §1(b), Dec. 29, 1981, 95 Stat. 1659; Pub. L. 98–21, title I, §§141(b), 142(b)(1), (2)(A), (3), (4), 154(b), title III, §341(b), Apr. 20, 1983, 97 Stat. 98, 100, 101, 107, 135; Pub. L. 98–369, div. B, title III, §§2337(a), 2354(b)(2), title VI, §2663(j)(2)(F)(i), July 18, 1984, 98 Stat. 1091, 1100, 1170; Pub. L. 99–272, title IX, §9213(b), Apr. 7, 1986, 100 Stat. 180; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–360, title II, §212(c)(3), July 1, 1988, 102 Stat. 741; Pub. L. 100–647, title VIII, §8005(a), Nov. 10, 1988, 102 Stat. 3781; Pub. L. 101–234, title II, §202(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–508, title V, §5106(c), Nov. 5, 1990, 104 Stat. 1388–268; Pub. L. 103–296, title I, §108(c)(1), Aug. 15, 1994, 108 Stat. 1485; Pub. L. 104–191, title II, §201(b), Aug. 21, 1996, 110 Stat. 1993; Pub. L. 105–33, title IV, §4318, Aug. 5, 1997, 111 Stat. 392; Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(j)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–366; Pub. L. 108–173, title VII, §736(a)(5), (6), title VIII, §801(d)(1), title IX, §900(e)(1)(D), Dec. 8,2003, 117 Stat. 2355, 2359, 2371; Pub. L. 109–171, title V, §5204, title VI, §6034(d)(2), Feb. 8, 2006, 120 Stat. 48, 78; Pub. L. 109–432, div. B, title III, §303, Dec. 20, 2006, 120 Stat. 2992; Pub. L. 111–148, title VI, §6402(i), Mar. 23, 2010, 124 Stat. 760; Pub. L. 111–152, title I, §1303(a)(1), Mar. 30, 2010, 124 Stat. 1057.)
 
 #### References in Text
 
@@ -334,7 +334,7 @@ Subsec. (k)(7). Pub. L. 111–148, §6402(i)(1)(A), added par. (7).
 
 Subsec. (k)(8). Pub. L. 111–152, §1303(a)(1)(A), added par. (8).
 
-<b>2006</b>—Subsec. (k)(3)(A)(i). Pub. L. 109–432, §303(a)(1), in introductory provisions inserted “until expended” after “without further appropriation”, in subcl. (II) struck out “and” at end, in subcl. (III) substituted “for each of fiscal years 2004, 2005, and 2006” for “for each fiscalyear after fiscal year 2003” and semicolon for period at end, and added subcls. (IV) and (V).
+<b>2006</b>—Subsec. (k)(3)(A)(i). Pub. L. 109–432, §303(a)(1), in introductory provisions inserted “until expended” after “without further appropriation”, in subcl. (II) struck out “and” at end, in subcl. (III) substituted “for each of fiscal years 2004, 2005, and 2006” for “for each fiscal year after fiscal year 2003” and semicolon for period at end, and added subcls. (IV) and (V).
 
 Subsec. (k)(3)(A)(ii)(VI) to (X). Pub. L. 109–432, §303(a)(2), in subcl. (VI) struck out “and” at end, in subcl. (VII) substituted “for each of fiscal years 2003, 2004, 2005, and 2006” for “for each fiscal year after fiscal year 2002” and semicolon for period at end, and added subcls. (VIII) to (X).
 
@@ -394,7 +394,7 @@ Subsecs. (f)(1), (g), (h). Pub. L. 98–369, §2663(j)(2)(F)(i), substituted “
 
 <b>1983</b>—Subsec. (a). Pub. L. 98–21, §141(b)(1)(A), in provisions following par. (2) substituted “monthly on the first day of each calendar month” for “from time to time”, substituted “to be paid to or deposited into the Treasury during such month” for “paid to or deposited into the Treasury”, and inserted provision that all amounts transferred to the Trust Fund under existing provisions shall be invested by the Managing Trustee in the same manner and to the same extent as the other assets of the Trust Fund; and the Trust Fund shall pay interest to the general fund on the amount so transferred on the first day of any month at a rate (calculated on a daily basis, and applied against the difference between the amount so transferred on such first day and the amount which would have been transferred to the Trust Fund up to that day under the procedures in effect on Jan. 1, 1983) equal to the rate earned by the investments of the Trust Fund in the same month under subsection (c).
 
-Subsec. (b). Pub. L. 98–21, §341(b)(1), substituted in provisions preceding par. (1) “Secretary of Health and Human Services, all ex officio, and of two members of the public (both of whom may not be from the same political party), who shall be nominated by the President for a term of four years and subject to confirmation bythe Senate” for “Secretary of Health, Education, and Welfare, all ex officio”.
+Subsec. (b). Pub. L. 98–21, §341(b)(1), substituted in provisions preceding par. (1) “Secretary of Health and Human Services, all ex officio, and of two members of the public (both of whom may not be from the same political party), who shall be nominated by the President for a term of four years and subject to confirmation by the Senate” for “Secretary of Health, Education, and Welfare, all ex officio”.
 
 Pub. L. 98–21, §154(b), inserted at end provision that the report referred to in par. (2) shall also include an actuarial opinion by the Chief Actuarial Officer of the Health Care Financing Administration certifying that the techniques and methodologies used are generally accepted within the actuarial profession and that the assumptions and cost estimates used are reasonable and provided further that the certification shall not refer to economic assumptions underlying the Trustee's report.
 
@@ -440,7 +440,7 @@ Amendment by Pub. L. 100–647 applicable to members of Board of Trustees of Fed
 
 #### Effective Date of 1984 Amendment
 
-Section 2337(b) of Pub. L. 98–369 provided that: “The amendments made by subsection (a) \[amending this section\] shall become effective on the first day of the month following the month in which this Act is enacted \[July 1984\].”
+Section 2337(b) of Pub. L. 98–369 provided that: “The amendments made by subsection (a) \[amending thissection\] shall become effective on the first day of the month following the month in which this Act is enacted \[July 1984\].”
 
 Amendment by section 2354(b)(2) of Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2354(e)(1) of Pub. L. 98–369, set out as a note under section 1320a–1 of this title.
 
@@ -488,7 +488,7 @@ Correction of Trust Fund Holdings.—
 
 &emsp;“(1)
 
-In general.—The Secretary of the Treasury shall take the actions described in paragraph (2) with respect to the Trust Fund with the goal being that, after such actions are taken, the holdings of the Trust Fund will replicate, to the extent practicable in the judgment of the Secretary of the Treasury, inconsultation with the Secretary \[of Health and Human Services\], the holdings that would have been held by the Trust Fund if the clerical error involved had not occurred.
+In general.—The Secretary of the Treasury shall take the actions described in paragraph (2) with respect to the Trust Fund with the goal being that, after such actions are taken, the holdings of the Trust Fund will replicate, to the extent practicable in the judgment of the Secretary of the Treasury, in consultation with the Secretary \[of Health and Human Services\], the holdings that would have been held by the Trust Fund if the clerical error involved had not occurred.
 
 &emsp;“(2)
 

@@ -10,7 +10,7 @@ This Act, referred to in text, is Pub. L. 89–750, Nov. 3, 1966, 80 Stat. 1191,
 
 The Elementary and Secondary Education Act of 1965, referred to in text, is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§6301 et seq.) of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
-Act of September 30, 1950, referred to in text, is act Sept. 30, 1950, ch. 1124, 64 Stat. 1100, as amended, popularly known as the Educational Agencies Financial Aid Act, which was classified generally to chapter 13 (§236et seq.) of Title 20 prior to repeal by Pub. L. 103–382, title III, §331(b), Oct. 20, 1994, 108 Stat. 3965. For complete classification of this Act to the Code, see Tables.
+Act of September 30, 1950, referred to in text, is act Sept. 30, 1950, ch. 1124, 64 Stat. 1100, as amended, popularly known as the Educational Agencies Financial Aid Act, which was classified generally to chapter 13 (§236 et seq.) of Title 20 prior to repeal by Pub. L. 103–382, title III, §331(b), Oct. 20, 1994, 108 Stat. 3965. For complete classification of this Act to the Code, see Tables.
 
 The Cooperative Research Act, referred to in text, is act July 26, 1954, ch. 576, 68 Stat. 533, which was classified generally to chapter 15 (§331 et seq.) of Title 20, and terminated on July 1, 1975, under provisions of section 402(c)(1) of Pub. L. 93–380, title IV, Aug. 21, 1974, 88 Stat. 544. See section 1851 et seq. of this title. For complete classification of this Act to the Code, see Tables.
 

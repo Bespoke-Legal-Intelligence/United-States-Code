@@ -6,13 +6,23 @@
 
 (c) If a license to file in a foreign country is refused or if an international application is ordered to be kept secret and a permit refused, the Patent and Trademark Office when acting as a Receiving Office, International Searching Authority, or International Preliminary Examining Authority, may not disclose the contents of such application to anyone not authorized to receive such disclosure.
 
-(Added Pub. L. 94–131, §1, Nov. 14, 1975, 89 Stat. 687; amended Pub. L. 98–622, title IV, §403(a), Nov. 8, 1984, 98 Stat. 3392; Pub. L. 99–616, §6, Nov. 6, 1986, 100 Stat. 3486.)
+(Added Pub. L. 94–131, §1, Nov. 14, 1975, 89 Stat. 687; amended Pub. L. 98–622, title IV, §403(a), Nov. 8, 1984, 98 Stat. 3392; Pub. L. 99–616, §6, Nov. 6, 1986, 100 Stat. 3486; Pub. L. 112–29, §20(j), Sept. 16, 2011, 125 Stat. 335.)
+
+#### Amendment of Section
+
+<i>Pub. L. 112–29, §20(j), (l), Sept. 16, 2011, 125 Stat. 335, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, this section is amended by striking “of this title” each place that term appears. See 2011 Amendment note below.</i>
 
 #### Amendments
+
+<b>2011</b>—Subsecs. (a), (b). Pub. L. 112–29 struck out “of this title” after “17”.
 
 <b>1986</b>—Subsec. (c). Pub. L. 99–616 substituted a comma for “or” after “Receiving Office” and “International Preliminary Examining Authority” for “both”.
 
 <b>1984</b>—Subsecs. (a), (c). Pub. L. 98–622 substituted “Patent and Trademark Office” for “Patent Office”.
+
+#### Effective Date of 2011 Amendment
+
+Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(<i>l</i>) of Pub. L. 112–29, set out as a note under section 2 of this title.
 
 #### Effective Date of 1986 Amendment
 

@@ -6,7 +6,7 @@ Effective August 1, 1979, the Sergeant at Arms and Doorkeeper may fix the compen
 
 #### Amendments
 
-1979—Pub. L. 96–38 raised the maximum annual rate of compensation of Deputy Sergeant at Arms and Doorkeeper of Senate to a rate the same as the maximum annual rate of compensation of Assistant Secretary of Senate.
+<b>1979</b>—Pub. L. 96–38 raised the maximum annual rate of compensation of Deputy Sergeant at Arms and Doorkeeper of Senate to a rate the same as the maximum annual rate of compensation of Assistant Secretary of Senate.
 
 #### Effective Date
 

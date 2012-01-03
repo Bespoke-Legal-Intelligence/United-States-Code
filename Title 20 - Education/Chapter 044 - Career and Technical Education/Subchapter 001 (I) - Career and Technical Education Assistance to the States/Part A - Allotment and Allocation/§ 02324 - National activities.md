@@ -138,7 +138,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) academic, secondary and postsecondary instruction;
 
-&emsp;&emsp;&emsp;&emsp;(II) education technology and distance learning approaches and strategies thatare effective with respect to career and technical education;
+&emsp;&emsp;&emsp;&emsp;(II) education technology and distance learning approaches and strategies that are effective with respect to career and technical education;
 
 &emsp;&emsp;&emsp;&emsp;(III) State adjusted levels of performance and State levels of performance that serve to improve career and technical education programs and student achievement;
 
@@ -156,7 +156,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) effective in-service and preservice teacher and faculty education that assists career and technical education programs in—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) integrating those programs with academic content standards and student academic achievement standards, as adopted by States under section 6311(b)(1) of this title; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) integrating those programs with academic content standards and student academic achievement standards,as adopted by States under section 6311(b)(1) of this title; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) coordinating technical education with industry-recognized certification requirements;
 

@@ -44,9 +44,9 @@ This chapter, referred to in subsec. (b), was in the original, “this Act”, m
 
 #### Amendments
 
-2008—Subsec. (d). Pub. L. 110–181 added subsec. (d).
+<b>2008</b>—Subsec. (d). Pub. L. 110–181 added subsec. (d).
 
-2002—Subsec. (a). Pub. L. 107–273, §11030B(1), in introductory provisions, inserted “(or, if the citizen parent has died during the preceding 5 years, a citizen grandparent or citizen legal guardian)” after “citizen of the United States” and substituted “such applicant” for “such parent”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–273, §11030B(1), in introductory provisions, inserted “(or, if the citizen parent has died during the preceding 5 years, a citizen grandparent or citizen legal guardian)” after “citizen of the United States” and substituted “such applicant” for “such parent”.
 
 Subsec. (a)(1). Pub. L. 107–273, §11030B(2), inserted “(or, at the time of his or her death, was)” after “parent”.
 
@@ -58,15 +58,15 @@ Subsec. (a)(4). Pub. L. 107–273, §11030B(4), amended par. (4) generally. Prio
 
 Subsec. (a)(5). Pub. L. 107–273, §11030B(5), added par. (5).
 
-2000—Pub. L. 106–395 amended section catchline and text generally, revising and restating provisions relating to acquisition of certificate of citizenship for certain children born outside the United States.
+<b>2000</b>—Pub. L. 106–395 amended section catchline and text generally, revising and restating provisions relating to acquisition of certificate of citizenship for certain children born outside the United States.
 
-1999—Subsec. (a)(4). Pub. L. 106–139 substituted “16 years (except to the extent that the child is described in clause (ii) of subparagraph (E) or (F) of section 1101(b)(1) of this title)” for “16 years” and “either of such subparagraphs” for “subparagraph (E) or (F) of section 1101(b)(1) of this title”.
+<b>1999</b>—Subsec. (a)(4). Pub. L. 106–139 substituted “16 years (except to the extent that the child is described in clause (ii) of subparagraph (E) or (F) of section 1101(b)(1) of this title)” for “16 years” and “either of such subparagraphs” for “subparagraph (E) or (F) of section 1101(b)(1) of this title”.
 
-1994—Pub. L. 103–416 amended section generally, substituting present provisions for former provisions which related to: in subsec. (a) naturalization on application of citizen parents; in subsec. (b) adopted children; and subsec. (c) specified period of residence for adopted children.
+<b>1994</b>—Pub. L. 103–416 amended section generally, substituting present provisions for former provisions which related to: in subsec. (a) naturalization on application of citizen parents; in subsec. (b) adopted children; and subsec. (c) specified period of residence for adopted children.
 
-1991—Pub. L. 102–232 amended section catchline.
+<b>1991</b>—Pub. L. 102–232 amended section catchline.
 
-1990—Subsec. (a). Pub. L. 101–649, §407(c)(6), substituted “applying” for “petitioning” and “application” for “petition”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–649, §407(c)(6), substituted “applying” for “petitioning” and “application” for “petition”.
 
 Subsec. (c). Pub. L. 101–649, §407(d)(5), substituted “Attorney General” for first reference to “naturalization court” in cl. (2)(C).
 
@@ -74,15 +74,15 @@ Pub. L. 101–649, §407(c)(6), substituted “applies” for “petitions”.
 
 Pub. L. 101–649, §407(b)(2), substituted “within a State or a district of the Service in the United States” for “within the jurisdiction of the naturalization court”.
 
-1988—Subsec. (a). Pub. L. 100–525 repealed Pub. L. 99–653, §16. See 1986 Amendment note below.
+<b>1988</b>—Subsec. (a). Pub. L. 100–525 repealed Pub. L. 99–653, §16. See 1986 Amendment note below.
 
-1986—Subsec. (a). Pub. L. 99–653, §16, which inserted “unmarried and” after “be naturalized if”, was repealed by Pub. L. 100–525.
+<b>1986</b>—Subsec. (a). Pub. L. 99–653, §16, which inserted “unmarried and” after “be naturalized if”, was repealed by Pub. L. 100–525.
 
-1981—Subsec. (b). Pub. L. 97–116, §18(m), substituted “an adopted child only if the child” for “a child adopted while under the age of sixteen years who”.
+<b>1981</b>—Subsec. (b). Pub. L. 97–116, §18(m), substituted “an adopted child only if the child” for “a child adopted while under the age of sixteen years who”.
 
 Subsec. (c). Pub. L. 97–116, §18(n), added subsec. (c).
 
-1978—Subsec. (b). Pub. L. 95–417 substituted provisions making subsec. (a) of this section applicable to adopted children for provisions making subsec. (a) of this section inapplicable to adopted children.
+<b>1978</b>—Subsec. (b). Pub. L. 95–417 substituted provisions making subsec. (a) of this section applicable to adopted children for provisions making subsec. (a) of this section inapplicable to adopted children.
 
 #### Effective Date of 2008 Amendment
 

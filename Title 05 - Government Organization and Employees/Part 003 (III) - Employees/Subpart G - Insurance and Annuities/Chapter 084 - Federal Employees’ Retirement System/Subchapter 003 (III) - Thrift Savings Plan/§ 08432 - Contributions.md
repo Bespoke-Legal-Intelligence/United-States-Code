@@ -182,11 +182,11 @@ Section 204 of the Federal Employees’ Retirement Contribution Temporary Adjust
 
 #### Amendments
 
-2009—Subsec. (b)(1)(B). Pub. L. 111–31, §102(b), which directed the amendment of par. (1) by “striking the parenthetical matter in subparagraph (B)” was executed by striking out “(or any election allowable by virtue of paragraph (4))” before “shall be the percentage”, but not striking out “(A)” after “subparagraph”, to reflect the probable intent of Congress.
+<b>2009</b>—Subsec. (b)(1)(B). Pub. L. 111–31, §102(b), which directed the amendment of par. (1) by “striking the parenthetical matter in subparagraph (B)” was executed by striking out “(or any election allowable by virtue of paragraph (4))” before “shall be the percentage”, but not striking out “(A)” after “subparagraph”, to reflect the probable intent of Congress.
 
 Subsec. (b)(2) to (4). Pub. L. 111–31, §102(a), added par. (2) and struck out former pars. (2) to (4) which related to eligibility to make an election regarding contributions.
 
-2004—Subsec. (b)(1)(A). Pub. L. 108–469, §1(b), designated existing provisions as cl. (i), substituted “may” for “shall be afforded a reasonable period every 6 months to elect to”, struck out second sentence which read “An election to make such contributions shall remain in effect until modified or terminated.”, and added cl. (ii).
+<b>2004</b>—Subsec. (b)(1)(A). Pub. L. 108–469, §1(b), designated existing provisions as cl. (i), substituted “may” for “shall be afforded a reasonable period every 6 months to elect to”, struck out second sentence which read “An election to make such contributions shall remain in effect until modified or terminated.”, and added cl. (ii).
 
 Subsec. (b)(2)(A), (C). Pub. L. 108–469, §1(d)(2)(A), (B), substituted “until the date” for “until the second period”.
 
@@ -194,11 +194,11 @@ Subsec. (b)(2)(D). Pub. L. 108–469, §1(d)(2)(C), substituted “as provided�
 
 Subsec. (b)(4)(C). Pub. L. 108–469, §1(c), designated existing provisions as cl. (i) and added cl. (ii).
 
-2003—Subsec. (k). Pub. L. 108–177 added subsec. (k).
+<b>2003</b>—Subsec. (k). Pub. L. 108–177 added subsec. (k).
 
-2002—Subsec. (a)(3). Pub. L. 107–304 added par. (3).
+<b>2002</b>—Subsec. (a)(3). Pub. L. 107–304 added par. (3).
 
-2000—Subsec. (a). Pub. L. 106–554 designated existing provisions as par. (1), substituted “the maximum percentage of such employee's or Member's basic pay for such pay period allowable under paragraph (2).” for “10 percent of such individual's basic pay for such period.”, and added par. (2).
+<b>2000</b>—Subsec. (a). Pub. L. 106–554 designated existing provisions as par. (1), substituted “the maximum percentage of such employee's or Member's basic pay for such pay period allowable under paragraph (2).” for “10 percent of such individual's basic pay for such period.”, and added par. (2).
 
 Pub. L. 106–361, §2(b)(1), substituted “(b)” for “(b)(1)” and “Contributions under this subsection pursuant to such an election shall, with respect to each pay period for which such election remains in effect, be made in accordance with a program of regular contributions provided in regulations prescribed by the Executive Director” for “Contributions made under this subsection during any 6-month period for which an election period is provided under subsection (b)(1) shall be made each pay period during such 6-month period pursuant to a program of regular contributions provided in regulations prescribed by the Executive Director”.
 
@@ -214,17 +214,17 @@ Subsec. (b)(4). Pub. L. 106–361, §2(a), amended par. (4) generally. Prior to 
 
 Subsec. (j). Pub. L. 106–361, §1(a), added subsec. (j).
 
-1996—Subsec. (e). Pub. L. 104–186 substituted “Chief Administrative Officer of the House of Representatives, the Chief Administrative Officer may pay from the applicable accounts” for “Clerk of the House of Representatives, the Clerk may pay from the contingent fund”.
+<b>1996</b>—Subsec. (e). Pub. L. 104–186 substituted “Chief Administrative Officer of the House of Representatives, the Chief Administrative Officer may pay from the applicable accounts” for “Clerk of the House of Representatives, the Clerk may pay from the contingent fund”.
 
 Subsec. (f). Pub. L. 104–316 substituted “Secretary of the Treasury” for “Comptroller General of the United States”.
 
 Subsec. (g)(5). Pub. L. 104–93 added par. (5).
 
-1994—Subsec. (d). Pub. L. 103–353, §5(e)(3), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1994</b>—Subsec. (d). Pub. L. 103–353, §5(e)(3), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
 Subsec. (i). Pub. L. 103–353, §4(c), added subsec. (i).
 
-1988—Subsec. (c)(1)(A). Pub. L. 100–238, §121(a), substituted “At the time prescribed by the Executive Director, but no later than 12 days after the end of” for “At the end of” and “within such time as the Executive Director may prescribe with respect to succeeding pay periods (but no later than 12 days after the end of each such pay period)” for “at the end of each succeeding pay period”.
+<b>1988</b>—Subsec. (c)(1)(A). Pub. L. 100–238, §121(a), substituted “At the time prescribed by the Executive Director, but no later than 12 days after the end of” for “At the end of” and “within such time as the Executive Director may prescribe with respect to succeeding pay periods (but no later than 12 days after the end of each such pay period)” for “at the end of each succeeding pay period”.
 
 Subsec. (c)(2)(A). Pub. L. 100–238, §121(b), substituted “within such time as the Executive Director may prescribe, but no later than 12 days after the end of each such pay period” for “at the end of such pay period”.
 
@@ -234,9 +234,9 @@ Subsec. (g)(1). Pub. L. 100–238, §115(1), substituted “Except as otherwise 
 
 Subsec. (g)(4). Pub. L. 100–238, §115(2), added par. (4).
 
-1987—Subsec. (b)(4)(A). Pub. L. 100–20 substituted “Notwithstanding paragraph (2)(A), an employee or Member who is an employee or Member on January 1, 1987, and continues as an employee or Member without a break in service through April 1, 1987, may make the first election for the purpose of subsection (a) during the election period prescribed for such purpose by the Executive Director” for “Notwithstanding paragraph (2)(A), an employee or Member who is an employee or Member on January 1, 1987, continues as an employee or Member without a break in service through April 1, 1987, and has creditable service described in section 8411(b)(2) of this title may make the first election for the purpose of subsection (a) during the election period prescribed for such purpose by the Executive Director”.
+<b>1987</b>—Subsec. (b)(4)(A). Pub. L. 100–20 substituted “Notwithstanding paragraph (2)(A), an employee or Member who is an employee or Member on January 1, 1987, and continues as an employee or Member without a break in service through April 1, 1987, may make the first election for the purpose of subsection (a) during the election period prescribed for such purpose by the Executive Director” for “Notwithstanding paragraph (2)(A), an employee or Member who is an employee or Member on January 1, 1987, continues as an employee or Member without a break in service through April 1, 1987, and has creditable service described in section 8411(b)(2) of this title may make the first election for the purpose of subsection (a) during the election period prescribed for such purpose by the Executive Director”.
 
-1986—Subsec. (b)(4). Pub. L. 99–509, §6001(a)(1), designated existing provisions as subpar. (A), inserted “continues as an employee or Member without a break in service through April 1, 1987,” substituted “April 1, 1987” for “January 1, 1987”, substituted “the date on which the employee or Member makes that election” for “the last day of that election period”, and added subpar. (B).
+<b>1986</b>—Subsec. (b)(4). Pub. L. 99–509, §6001(a)(1), designated existing provisions as subpar. (A), inserted “continues as an employee or Member without a break in service through April 1, 1987,” substituted “April 1, 1987” for “January 1, 1987”, substituted “the date on which the employee or Member makes that election” for “the last day of that election period”, and added subpar. (B).
 
 Subsec. (c)(1). Pub. L. 99–509, §6001(a)(2)(A), designated existing provisions as subpar. (A) and added subpars. (B) and (C).
 

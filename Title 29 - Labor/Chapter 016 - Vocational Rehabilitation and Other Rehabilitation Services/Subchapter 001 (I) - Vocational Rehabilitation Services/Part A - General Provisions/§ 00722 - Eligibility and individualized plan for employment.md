@@ -246,7 +246,7 @@
 
 #### (G) Confidentiality
 
-&emsp;&emsp;Discussions that occur during the mediation process shall be confidential and maynot be used as evidence in any subsequent due process hearing or civil proceeding. The parties to the mediation process may be required to sign a confidentiality pledge prior to the commencement of such process.
+&emsp;&emsp;Discussions that occur during the mediation process shall be confidential and may not be used as evidence in any subsequent due process hearing or civil proceeding. The parties to the mediation process may be required to sign a confidentiality pledge prior to the commencement of such process.
 
 #### (H) Construction
 
@@ -318,7 +318,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Any party aggrieved by a final decision described in subparagraph (I), may bring a civil action for review of such decision. The action may be brought in any Statecourt of competent jurisdiction or in a district court of the United States of competent jurisdiction without regard to the amount in controversy.
+&emsp;&emsp;&emsp;Any party aggrieved by a final decision described in subparagraph (I), may bring a civil action for review of such decision. The action may be brought in any State court of competent jurisdiction or in a district court of the United States of competent jurisdiction without regard to the amount in controversy.
 
 #### (ii) Procedure
 

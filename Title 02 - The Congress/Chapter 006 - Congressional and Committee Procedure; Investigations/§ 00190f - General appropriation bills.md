@@ -14,7 +14,7 @@ No general appropriation bill or amendment thereto shall be received or consider
 
 #### Partial Repeal
 
-<i>Section 2(a), S. Res. 274, Ninety-sixth Congress, Nov. 14, 1979, provided in part that this</i><i>section, insofar as it relates to the Senate, is repealed. See Standing Rules of the Senate.</i>
+<i>Section 2(a), S. Res. 274, Ninety-sixth Congress, Nov. 14, 1979, provided in part that this section, insofar as it relates to the Senate, is repealed. See Standing Rules of the Senate.</i>
 
 #### Codification
 
@@ -22,7 +22,7 @@ Section constitutes subsections (a) to (c) of section 139 of act Aug. 2, 1946. S
 
 #### Amendments
 
-1970—Subsec. (a). Pub. L. 91–510 repealed prohibition against consideration of any general appropriation bill in either House unless prior to such consideration printed committee hearings and reports on the bill have been available for at least three calendar days for the Members of the House considering the bill, which was incorporated in section 190a(f) of this title.
+<b>1970</b>—Subsec. (a). Pub. L. 91–510 repealed prohibition against consideration of any general appropriation bill in either House unless prior to such consideration printed committee hearings and reports on the bill have been available for at least three calendar days for the Members of the House considering the bill, which was incorporated in section 190a(f) of this title.
 
 #### Effective Date of 1970 Amendment
 

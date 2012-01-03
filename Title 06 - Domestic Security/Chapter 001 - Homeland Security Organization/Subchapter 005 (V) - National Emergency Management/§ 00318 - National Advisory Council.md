@@ -80,7 +80,7 @@ A prior section 508 of Pub. L. 107–296 was renumbered section 519 and is class
 
 #### Amendments
 
-2007—Subsec. (b). Pub. L. 110–53 designated existing provisions as par. (1), inserted heading, and added par. (2).
+<b>2007</b>—Subsec. (b). Pub. L. 110–53 designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 #### Effective Date
 

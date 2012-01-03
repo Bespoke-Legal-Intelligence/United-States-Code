@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title17",
- "package": "USCODE-2010-title17",
+ "package": "USCODE-2011-title17",
  "pieces": [
   {
    "id": "17_",
@@ -2810,10 +2810,14 @@
    "id": "17_1101",
    "marks": [
     [
-     "L",
+     "I",
      36,
-     "[Page 190]",
-     true
+     [
+      [
+       118,
+       "[Page 190]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 011 - Sound Recordings and Music Videos/§ 01101 - Unauthorized fixation and trafficking in sound recordings and music videos.md",
@@ -2836,7 +2840,7 @@
    "marks": [
     [
      "L",
-     52,
+     48,
      "[Page 191]",
      true
     ],
@@ -2845,17 +2849,17 @@
      110,
      [
       [
-       271,
+       97,
        "[Page 192]"
       ]
      ]
     ],
     [
      "I",
-     190,
+     182,
      [
       [
-       78,
+       169,
        "[Page 193]"
       ]
      ]
@@ -2865,7 +2869,7 @@
      240,
      [
       [
-       364,
+       99,
        "[Page 194]"
       ]
      ]
@@ -2882,13 +2886,13 @@
    "marks": [
     [
      "L",
-     20,
+     18,
      "[Page 195]",
      true
     ],
     [
      "L",
-     88,
+     84,
      "[Page 196]",
      true
     ]
@@ -2901,26 +2905,26 @@
   },
   {
    "id": "17_1203",
-   "marks": [],
-   "path": "Chapter 012 - Copyright Protection and Management Systems/§ 01203 - Civil remedies.md",
-   "printed_pages": [
-    196,
-    196
-   ]
-  },
-  {
-   "id": "17_1204",
    "marks": [
     [
      "L",
-     8,
+     76,
      "[Page 197]",
      true
     ]
    ],
-   "path": "Chapter 012 - Copyright Protection and Management Systems/§ 01204 - Criminal offenses and penalties.md",
+   "path": "Chapter 012 - Copyright Protection and Management Systems/§ 01203 - Civil remedies.md",
    "printed_pages": [
     196,
+    197
+   ]
+  },
+  {
+   "id": "17_1204",
+   "marks": [],
+   "path": "Chapter 012 - Copyright Protection and Management Systems/§ 01204 - Criminal offenses and penalties.md",
+   "printed_pages": [
+    197,
     197
    ]
   },
@@ -2946,10 +2950,14 @@
    "id": "17_1301",
    "marks": [
     [
-     "L",
-     40,
-     "[Page 198]",
-     true
+     "I",
+     36,
+     [
+      [
+       91,
+       "[Page 198]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 013 - Protection of Original Designs/§ 01301 - Designs protected.md",
@@ -2989,10 +2997,14 @@
    "id": "17_1305",
    "marks": [
     [
-     "L",
-     16,
-     "[Page 199]",
-     true
+     "I",
+     8,
+     [
+      [
+       88,
+       "[Page 199]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 013 - Protection of Original Designs/§ 01305 - Term of protection.md",
@@ -3033,10 +3045,10 @@
    "marks": [
     [
      "I",
-     28,
+     24,
      [
       [
-       328,
+       411,
        "[Page 200]"
       ]
      ]
@@ -3050,26 +3062,26 @@
   },
   {
    "id": "17_1310",
-   "marks": [],
-   "path": "Chapter 013 - Protection of Original Designs/§ 01310 - Application for registration.md",
-   "printed_pages": [
-    200,
-    200
-   ]
-  },
-  {
-   "id": "17_1311",
    "marks": [
     [
      "L",
-     4,
+     68,
      "[Page 201]",
      true
     ]
    ],
-   "path": "Chapter 013 - Protection of Original Designs/§ 01311 - Benefit of earlier filing date in foreign country.md",
+   "path": "Chapter 013 - Protection of Original Designs/§ 01310 - Application for registration.md",
    "printed_pages": [
     200,
+    201
+   ]
+  },
+  {
+   "id": "17_1311",
+   "marks": [],
+   "path": "Chapter 013 - Protection of Original Designs/§ 01311 - Benefit of earlier filing date in foreign country.md",
+   "printed_pages": [
+    201,
     201
    ]
   },
@@ -3093,30 +3105,30 @@
   },
   {
    "id": "17_1314",
-   "marks": [],
-   "path": "Chapter 013 - Protection of Original Designs/§ 01314 - Certification of registration.md",
-   "printed_pages": [
-    201,
-    201
-   ]
-  },
-  {
-   "id": "17_1315",
    "marks": [
     [
      "I",
-     4,
+     2,
      [
       [
-       135,
+       341,
        "[Page 202]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 013 - Protection of Original Designs/§ 01315 - Publication of announcements and indexes.md",
+   "path": "Chapter 013 - Protection of Original Designs/§ 01314 - Certification of registration.md",
    "printed_pages": [
     201,
+    202
+   ]
+  },
+  {
+   "id": "17_1315",
+   "marks": [],
+   "path": "Chapter 013 - Protection of Original Designs/§ 01315 - Publication of announcements and indexes.md",
+   "printed_pages": [
+    202,
     202
    ]
   },
@@ -3169,14 +3181,10 @@
    "id": "17_1321",
    "marks": [
     [
-     "I",
-     24,
-     [
-      [
-       268,
-       "[Page 203]"
-      ]
-     ]
+     "L",
+     18,
+     "[Page 203]",
+     true
     ]
    ],
    "path": "Chapter 013 - Protection of Original Designs/§ 01321 - Remedy for infringement.md",
@@ -3223,11 +3231,18 @@
   },
   {
    "id": "17_1326",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     12,
+     "[Page 204]",
+     true
+    ]
+   ],
    "path": "Chapter 013 - Protection of Original Designs/§ 01326 - Penalty for false marking.md",
    "printed_pages": [
     203,
-    203
+    204
    ]
   },
   {
@@ -3235,27 +3250,16 @@
    "marks": [],
    "path": "Chapter 013 - Protection of Original Designs/§ 01327 - Penalty for false representation.md",
    "printed_pages": [
-    203,
-    203
+    204,
+    204
    ]
   },
   {
    "id": "17_1328",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       85,
-       "[Page 204]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 013 - Protection of Original Designs/§ 01328 - Enforcement by Treasury and Postal Service.md",
    "printed_pages": [
-    203,
+    204,
     204
    ]
   },
@@ -3296,6 +3300,6 @@
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2010-title17 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2011-title17 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 17 - Copyrights"
 }

@@ -4,7 +4,7 @@
 
 Three-Phase Approach.—The Secretary of Defense shall implement a three-phase approach to joint professional military education, as follows:
 
-&emsp;(1) There shall be a course of instruction, designated and certified by the Secretary of Defense with the advice and assistance of the Chairman of the Joint Chiefs of Staff as Phase I instruction, consisting of all the elements of a joint professional military education (as specified in section 2151(a) of this title), in addition to the principal curriculum taught to all officers at an intermediate level service school.
+&emsp;(1) There shall be a course of instruction, designated and certified by the Secretary of Defense with the advice and assistance of the Chairman of the Joint Chiefs of Staff as Phase I instruction, consisting of all the elements of a joint professional military education (as specified in section 2151(a) of this title), in addition to the principal curriculum taught to all officers at an intermediate level service school or at a joint intermediate level school.
 
 &emsp;(2) There shall be a course of instruction, designated and certified by the Secretary of Defense with the advice and assistance of the Chairman of the Joint Chiefs of Staff as Phase II instruction, consisting of a joint professional military education curriculum taught in residence at—
 
@@ -18,5 +18,9 @@ Three-Phase Approach.—The Secretary of Defense shall implement a three-phase a
 
 Sequenced Approach.—The Secretary shall require the sequencing of joint professional military education so that the standard sequence of assignments for such education requires an officer to complete Phase I instruction before proceeding to Phase II instruction, as provided in section 2155(a) of this title.
 
-(Added Pub. L. 108–375, div. A, title V, §532(a)(2), Oct. 28, 2004, 118 Stat. 1898.)
+(Added Pub. L. 108–375, div. A, title V, §532(a)(2), Oct. 28, 2004, 118 Stat. 1898; amended Pub. L. 112–81, div. A, title V, §552(a)(1), Dec. 31, 2011, 125 Stat. 1412.)
+
+#### Amendments
+
+<b>2011</b>—Subsec. (a)(1). Pub. L. 112–81 inserted “or at a joint intermediate level school” before period at end.
 

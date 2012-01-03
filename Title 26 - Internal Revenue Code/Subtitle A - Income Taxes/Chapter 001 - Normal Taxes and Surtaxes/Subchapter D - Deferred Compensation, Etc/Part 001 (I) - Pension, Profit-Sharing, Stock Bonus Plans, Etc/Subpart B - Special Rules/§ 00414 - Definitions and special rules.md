@@ -164,7 +164,7 @@ For purposes of this part, the term “governmental plan” means a plan establi
 
 &emsp;(A) Within 1 year after the enactment of the Pension Protection Act of 2006—
 
-&emsp;&emsp;(i) An election under paragraph (5) may be revoked, pursuant to procedures prescribed by the Pension Benefit Guaranty Corporation, if, for each of the 3 plan years prior to the date of the enactment of that Act, the plan would have been a multiemployer plan but for the election under paragraph (5), and
+&emsp;&emsp;(i) An election under paragraph (5) may be revoked, pursuant to procedures prescribedby the Pension Benefit Guaranty Corporation, if, for each of the 3 plan years prior to the date of the enactment of that Act, the plan would have been a multiemployer plan but for the election under paragraph (5), and
 
 &emsp;&emsp;(ii) a plan that meets the criteria in subparagraph (A) and (B) of paragraph (1) of this subsection or that is described in subparagraph (E) may, pursuant to procedures prescribed by the Pension Benefit Guaranty Corporation, elect to be a multiemployer plan, if—
 
@@ -322,7 +322,7 @@ A defined benefit plan which provides a benefit derived from employer contributi
 
 #### (1) In general
 
-&emsp;For purposes of the employee benefit requirements listed in paragraph (4), except to the extent otherwise provided in regulations, all employees of the members of an affiliatedservice group shall be treated as employed by a single employer.
+&emsp;For purposes of the employee benefit requirements listed in paragraph (4), except to the extent otherwise provided in regulations, all employees of the members of an affiliated service group shall be treated as employed by a single employer.
 
 #### (2) Affiliated service group
 
@@ -388,7 +388,7 @@ A defined benefit plan which provides a benefit derived from employer contributi
 
 &emsp;For purposes of paragraph (1), the term “leased employee” means any person who is not an employee of the recipient and who provides services to the recipient if—
 
-&emsp;&emsp;(A) such services are provided pursuant to an agreement between the recipient and any other person (in this subsection referred to as the “leasing organization”),
+&emsp;&emsp;(A) such services are provided pursuant to an agreement between the recipient and anyother person (in this subsection referred to as the “leasing organization”),
 
 &emsp;&emsp;(B) such person has performed such services for the recipient (or for the recipient and related persons) on a substantially full-time basis for a period of at least 1 year, and
 
@@ -484,7 +484,7 @@ The Secretary shall prescribe such regulations (which may provide rules in addit
 
 &emsp;(3) other arrangements.
 
-> The regulations prescribed under subsection (n) shall include provisions to minimize the recordkeeping requirements of subsection (n) in the case of an employer which has no top-heavy plans (within the meaning of section 416(g)) and which uses the services of persons (other than employees) for an insignificant percentage of the employer's total workload.
+> The regulations prescribed under subsection (n) shall include provisions to minimize the recordkeeping requirements of subsection (n) in the case of an employer which has no top-heavy plans (within the meaning of section 416(g)) andwhich uses the services of persons (other than employees) for an insignificant percentage of the employer's total workload.
 
 #### (p) Qualified domestic relations order defined
 
@@ -596,7 +596,7 @@ For purposes of this subsection and section 401(a)(13)—
 
 &emsp;&emsp;&emsp;(ii) the issue as to whether such order is a qualified domestic relations order is not resolved,
 
-> &emsp;&emsp;then the plan administrator shall pay the segregated amounts (including any interestthereon) to the person or persons who would have been entitled to such amounts if there had been no order.
+> &emsp;&emsp;then the plan administrator shall pay the segregated amounts (including any interest thereon) to the person or persons who would have been entitled to such amounts if there had been no order.
 
 #### (D) Subsequent determination or order to be applied prospectively only
 
@@ -652,7 +652,7 @@ For purposes of this subsection and section 401(a)(13)—
 
 #### (3) Top-paid group
 
-&emsp;An employee is in the top-paid group of employees for any year if such employee is in the group consisting of the top 20 percent of the employees when ranked on the basis of compensation paid during such year.
+&emsp;An employee is in the top-paid group of employees for any year if such employee is in thegroup consisting of the top 20 percent of the employees when ranked on the basis of compensation paid during such year.
 
 #### (4) Compensation
 
@@ -664,7 +664,7 @@ For purposes of this subsection and section 401(a)(13)—
 
 &emsp;&emsp;(A) employees who have not completed 6 months of service,
 
-&emsp;&emsp;(B) employees who normally work less than 171/2 hours per week,
+&emsp;&emsp;(B) employees who normally work less than 17½ hours per week,
 
 &emsp;&emsp;(C) employees who normally work during not more than 6 months during any year,
 
@@ -768,7 +768,7 @@ For purposes of any applicable provision—
 
 #### (3) Alternative determination of compensation
 
-&emsp;The Secretary shall by regulation provide for alternative methods of determining compensation which may be used by an employer, except that such regulations shall provide thatan employer may not use an alternative method if the use of such method discriminates in favor of highly compensated employees (within the meaning of subsection (q)).
+&emsp;The Secretary shall by regulation provide for alternative methods of determining compensation which may be used by an employer, except that such regulations shall provide that an employer may not use an alternative method if the use of such method discriminates in favor of highly compensated employees (within the meaning of subsection (q)).
 
 #### (4) Applicable provision
 
@@ -834,7 +834,7 @@ For purposes of any applicable provision—
 
 #### (4) Loan repayment suspensions permitted
 
-&emsp;If any plan suspends the obligation to repay any loan made to an employee from such planfor any part of any period during which such employee is performing service in the uniformed services (as defined in chapter 43 of title 38, United States Code), whether or not qualified military service, such suspension shall not be taken into account for purposes of section 72(p), 401(a), or 4975(d)(1).
+&emsp;If any plan suspends the obligation to repay any loan made to an employee from such plan for any part of any period during which such employee is performing service in the uniformed services (as defined in chapter 43 of title 38, United States Code), whether or not qualified military service, such suspension shall not be taken into account for purposes of section 72(p), 401(a), or 4975(d)(1).
 
 #### (5) Qualified military service
 
@@ -866,7 +866,7 @@ For purposes of any applicable provision—
 
 #### (A) In general
 
-&emsp;&emsp;For benefit accrual purposes, an employer sponsoring a retirement plan may treat an individual who dies or becomes disabled (as defined under the terms of the plan) while performing qualified military service with respect to the employer maintaining the plan as if the individual has resumed employment in accordance with the individual's reemployment rights under chapter 43 of title 38, United States Code, on the day preceding death or disability (as the case may be) and terminated employment on the actual date of death or disability. In the case of any such treatment, and subject to subparagraphs (B) and (C), any full or partial compliance by such plan with respect to the benefit accrual requirements of paragraph (8) with respect to such individual shall be treated for purposes of paragraph (1) as if such compliance were required under such chapter 43.
+&emsp;&emsp;For benefit accrual purposes, an employer sponsoring a retirement plan may treat anindividual who dies or becomes disabled (as defined under the terms of the plan) while performing qualified military service with respect to the employer maintaining the plan as if the individual has resumed employment in accordance with the individual's reemployment rights under chapter 43 of title 38, United States Code, on the day preceding death or disability (as the case may be) and terminated employment on the actual date of death or disability. In the case of any such treatment, and subject to subparagraphs (B) and (C), any full or partial compliance by such plan with respect to the benefit accrual requirements of paragraph (8) with respect to such individual shall be treated for purposes of paragraph (1) as if such compliance were required under such chapter 43.
 
 #### (B) Nondiscrimination requirement
 
@@ -878,7 +878,7 @@ For purposes of any applicable provision—
 
 &emsp;&emsp;&emsp;(i) the 12-month period of service with the employer immediately prior to qualified military service, or
 
-&emsp;&emsp;&emsp;(ii) if service with the employer is less than such 12-month period, the actuallength of continuous service with the employer.
+&emsp;&emsp;&emsp;(ii) if service with the employer is less than such 12-month period, the actual length of continuous service with the employer.
 
 #### (10) Plans not subject to title 38
 
@@ -1108,7 +1108,7 @@ $2,500.
 
 #### (C) Amount of distribution
 
-&emsp;&emsp;Subparagraph (A) shall not apply to any election by an employee unless the amount of any distribution by reason of the electionis equal to the amount of elective contributions made with respect to the first payroll period to which the eligible automatic contribution arrangement applies to the employee and any succeeding payroll period beginning before the effective date of the election (and earnings attributable thereto).
+&emsp;&emsp;Subparagraph (A) shall not apply to any election by an employee unless the amount of any distribution by reason of the election is equal to the amount of elective contributions made with respect to the first payroll period to which the eligible automatic contribution arrangement applies to the employee and any succeeding payroll period beginning before the effective date of the election (and earnings attributable thereto).
 
 #### (3) Eligible automatic contribution arrangement
 
@@ -1250,7 +1250,7 @@ $2,500.
 
 &emsp;&emsp;The vesting requirements of this subparagraph are met if—
 
-&emsp;&emsp;&emsp;(i) in the case of a defined benefit plan forming part of an eligible combined plan an employee who has completed at least 3 years of service has a nonforfeitable right to 100 percent of the employee's accrued benefit under the plan derived from employer contributions, and
+&emsp;&emsp;&emsp;(i) in the case of a defined benefit plan forming part of an eligible combined plan an employee who has completed at least 3 years of service has a nonforfeitable rightto 100 percent of the employee's accrued benefit under the plan derived from employer contributions, and
 
 &emsp;&emsp;&emsp;(ii) in the case of an applicable defined contribution plan forming part of eligible combined plan—
 
@@ -1276,7 +1276,7 @@ $2,500.
 
 &emsp;&emsp;&emsp;&emsp;(I) the requirements of subparagraphs (B) and (C) are met without regard to section 401(<i>l</i>), and
 
-&emsp;&emsp;&emsp;&emsp;(II) the requirements of sections 401(a)(4) and 410(b) are met with respectto both the applicable defined contribution plan and defined benefit plan forming part of an eligible combined plan without regard to section 401(<i>l</i>).
+&emsp;&emsp;&emsp;&emsp;(II) the requirements of sections 401(a)(4) and 410(b) are met with respect to both the applicable defined contribution plan and defined benefit plan forming part of an eligible combined plan without regard to section 401(<i>l</i>).
 
 #### (iii) Other plans and arrangements
 
@@ -1350,7 +1350,7 @@ $2,500.
 
 &emsp;&emsp;The term “qualified cash or deferred arrangement” has the meaning given such term by section 401(k)(2).
 
-(Added Pub. L. 93–406, title II, §1015, Sept. 2, 1974, 88 Stat. 925; amended Pub. L. 94–455, title XIX, §§1901(a)(64), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1775, 1834; Pub. L. 95–600, title I, §152(d), Nov. 6, 1978, 92 Stat. 2799; Pub. L. 96–364, title II, §§207, 208(a), title IV, §407(b), Sept. 26, 1980, 94 Stat. 1288, 1289, 1305; Pub. L. 96–605, title II, §201(a), Dec. 28, 1980, 94 Stat. 3526; Pub. L. 96–613, §5(a), Dec. 28, 1980, 94 Stat. 3580; Pub. L. 97–248, title II, §§240(c), 246(a), 248(a), Sept. 3, 1982, 96 Stat. 520, 525, 526; Pub. L. 98–369, div. A, title IV, §491(d)(26), (27), title V, §526(a)(1), (b)(1), (d)(1), (2), title VII, §713(i), July 18, 1984, 98 Stat. 850, 874, 875, 960; Pub. L. 98–397, title II, §204(b), Aug. 23, 1984, 98 Stat. 1445; Pub. L. 99–514, title XI, §§1114(a), (b)(11), 1115(a), 1117(c), 1146(a), (b), 1151(e)(1), (i), title XIII, §1301(j)(4), title XVIII, §§1852(f), 1898(c)(2)(A), (4)(A), (6)(A), (7)(A)(ii)–(vii), 1899A(12), Oct. 22, 1986, 100 Stat. 2448, 2451, 2452, 2462, 2491, 2506, 2507, 2657, 2868, 2951, 2953, 2954, 2958; Pub. L. 100–203, title IX, §9305(c), Dec. 22, 1987, 101 Stat. 1330–352; Pub. L. 100–647, title I, §§1011(d)(8), (e)(4), (h)(5), (i)(1)–(4)(A), (j)(1), (2), 1011A(b)(3), 1011B(a)(16), (17), (19), (20), 1018(t)(8)(E)–(G), title II, §2005(c)(1), (2), title III, §§3011(b)(4), (5), 3021(b)(1), (2)(A), title VI, §6067(a), Nov. 10, 1988, 102 Stat. 3460, 3461, 3465, 3467, 3468, 3473, 3485, 3589, 3611, 3612, 3625, 3631, 3632, 3703; Pub. L. 101–140,title II, §§203(a)(6), 204(b)(2), Nov. 8, 1989, 103 Stat. 831, 833; Pub. L. 101–239, title VII, §§7811(m)(5), 7813(b), 7841(a)(2), Dec. 19, 1989, 103 Stat. 2412, 2413, 2427; Pub. L. 101–508, title XI, §11703(b)(1), Nov. 5, 1990, 104 Stat. 1388–517; Pub. L. 102–318, title V, §521(b)(20)–(22), July 3, 1992, 106 Stat. 311; Pub. L. 104–188, title I, §§1421(b)(9)(C), 1431(a), (b)(1), (c)(1)(A), (D), (E), 1434(b), 1454(a), 1461(a), 1462(a), 1704(n)(1), Aug. 20, 1996, 110 Stat. 1798, 1802, 1803, 1807, 1817, 1822, 1824, 1883; Pub. L. 105–34, title XV, §1522(a), title XVI, §1601(d)(6)(A), (7), (h)(2)(D)(i), (ii), Aug. 5, 1997, 111 Stat. 1070, 1089, 1090, 1092; Pub. L. 105–206, title VI, §6018(c), July 22, 1998, 112 Stat. 822; Pub. L. 106–554, §1(a)(7) \[title III, §314(e)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–643; Pub. L. 107–16, title VI, §§631(a), 635(a)–(c), June 7, 2001, 115 Stat. 111, 117; Pub. L. 107–147, title IV, §411(<i>o</i>)(3)–(8), Mar. 9, 2002, 116 Stat. 48, 49; Pub. L. 108–311, title IV, §408(a)(15), Oct. 4, 2004, 118 Stat. 1192; Pub. L. 109–280, title I, §114(c), title IX, §§902(d)(1), 903(a), 906(a)(1), (b)(1)(C), title XI, §1106(b), Aug. 17, 2006, 120 Stat. 853, 1036, 1040, 1051, 1052, 1062; Pub. L. 110–28, title VI, §6611(a)(2), (b)(2), May 25, 2007, 121 Stat. 180, 181; Pub. L. 110–245, title I, §§104(b), 105(b)(1), June 17, 2008, 122 Stat. 1626, 1628; Pub. L. 110–289, div. A, title VI, §1604(b)(4), July 30, 2008, 122 Stat. 2829; Pub. L. 110–458, title I, §§101(d)(2)(E), 109(b)(4)–(c)(1), Dec. 23, 2008, 122 Stat. 5099, 5111.)
+(Added Pub. L. 93–406, title II, §1015, Sept. 2, 1974, 88 Stat. 925; amended Pub. L. 94–455, title XIX, §§1901(a)(64), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1775, 1834; Pub. L. 95–600, title I, §152(d), Nov. 6, 1978, 92 Stat. 2799; Pub. L. 96–364, title II, §§207, 208(a), title IV, §407(b), Sept. 26, 1980, 94 Stat. 1288, 1289, 1305; Pub. L. 96–605, title II, §201(a), Dec. 28, 1980, 94 Stat. 3526; Pub. L. 96–613, §5(a), Dec. 28, 1980, 94 Stat. 3580; Pub. L. 97–248, title II, §§240(c), 246(a), 248(a), Sept. 3, 1982, 96 Stat. 520, 525, 526; Pub. L. 98–369, div. A, title IV, §491(d)(26), (27), title V, §526(a)(1), (b)(1), (d)(1), (2), title VII, §713(i), July 18, 1984, 98 Stat. 850, 874, 875, 960; Pub. L. 98–397, title II, §204(b), Aug. 23, 1984, 98 Stat. 1445; Pub. L. 99–514, title XI, §§1114(a), (b)(11), 1115(a), 1117(c), 1146(a), (b), 1151(e)(1), (i), title XIII, §1301(j)(4), title XVIII, §§1852(f), 1898(c)(2)(A), (4)(A), (6)(A), (7)(A)(ii)–(vii), 1899A(12), Oct. 22, 1986, 100 Stat. 2448, 2451, 2452, 2462, 2491, 2506, 2507, 2657, 2868, 2951, 2953, 2954, 2958; Pub. L. 100–203, title IX, §9305(c), Dec. 22, 1987, 101 Stat. 1330–352; Pub. L. 100–647, title I, §§1011(d)(8), (e)(4), (h)(5), (i)(1)–(4)(A), (j)(1), (2), 1011A(b)(3), 1011B(a)(16), (17), (19), (20), 1018(t)(8)(E)–(G), title II, §2005(c)(1), (2), title III, §§3011(b)(4), (5), 3021(b)(1), (2)(A), title VI, §6067(a), Nov. 10, 1988, 102 Stat. 3460, 3461, 3465, 3467, 3468, 3473, 3485, 3589, 3611, 3612, 3625, 3631, 3632, 3703; Pub. L. 101–140, title II, §§203(a)(6), 204(b)(2), Nov. 8, 1989, 103 Stat. 831, 833; Pub. L. 101–239, title VII, §§7811(m)(5), 7813(b), 7841(a)(2), Dec. 19, 1989, 103 Stat. 2412, 2413, 2427; Pub. L. 101–508, title XI, §11703(b)(1), Nov. 5, 1990, 104 Stat. 1388–517; Pub. L. 102–318, title V, §521(b)(20)–(22), July 3, 1992, 106 Stat. 311; Pub. L. 104–188, title I, §§1421(b)(9)(C), 1431(a), (b)(1), (c)(1)(A), (D), (E), 1434(b), 1454(a), 1461(a), 1462(a), 1704(n)(1), Aug. 20, 1996, 110 Stat. 1798, 1802, 1803, 1807, 1817, 1822, 1824, 1883; Pub. L. 105–34, title XV, §1522(a), title XVI, §1601(d)(6)(A), (7), (h)(2)(D)(i), (ii), Aug. 5, 1997, 111 Stat. 1070, 1089, 1090, 1092; Pub. L. 105–206, title VI, §6018(c), July 22, 1998, 112 Stat. 822; Pub. L. 106–554, §1(a)(7) \[title III, §314(e)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–643; Pub. L. 107–16, title VI, §§631(a), 635(a)–(c), June 7, 2001, 115 Stat. 111, 117; Pub. L. 107–147, title IV, §411(<i>o</i>)(3)–(8), Mar. 9, 2002, 116 Stat. 48, 49; Pub. L. 108–311, title IV, §408(a)(15), Oct. 4, 2004, 118 Stat. 1192; Pub. L. 109–280, title I, §114(c), title IX, §§902(d)(1), 903(a), 906(a)(1), (b)(1)(C), title XI, §1106(b), Aug. 17, 2006, 120 Stat. 853, 1036, 1040, 1051, 1052, 1062; Pub. L. 110–28, title VI, §6611(a)(2), (b)(2), May 25, 2007, 121 Stat. 180, 181; Pub. L. 110–245, title I, §§104(b), 105(b)(1), June 17, 2008, 122 Stat. 1626, 1628; Pub. L. 110–289, div. A, title VI, §1604(b)(4), July 30, 2008, 122 Stat. 2829; Pub. L. 110–458, title I, §§101(d)(2)(E), 109(b)(4)–(c)(1), Dec. 23, 2008, 122 Stat. 5099, 5111.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -1372,7 +1372,7 @@ Effective date of the Multiemployer Pension Plan Amendments Act of 1980, referre
 
 <b>2008</b>—Subsec. (<i>l</i>)(2)(B)(i)(I). Pub. L. 110–458, §101(d)(2)(E), amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: “the amount determined under section 431(c)(6)(A)(i) in the case of a multiemployer plan (and the sum of the funding shortfall and target normal cost determined under section 430 in the case of any other plan), over”.
 
-Subsec. (<i>l</i>)(2)(G). Pub. L. 110–289, §1604(b)(4), which directed substitution of “bridge depository institution” for “bridge bank”, was executed by making the substitution wherever appearing in text, to reflect the probable intent of Congress.
+Subsec. (<i>l</i>)(2)(G). Pub. L. 110–289, §1604(b)(4), which directed substitution of “bridge depository institution”for “bridge bank”, was executed by making the substitution wherever appearing in text, to reflect the probable intent of Congress.
 
 Subsec. (u). Pub. L. 110–245, §105(b)(1)(B), inserted “and to differential wage payments to members on active duty” after “USERRA” in heading.
 
@@ -1400,7 +1400,7 @@ Subsec. (f)(6)(E). Pub. L. 110–28, §6611(b)(2), substituted “if it is a pla
 
 Subsec. (f)(6)(F). Pub. L. 110–28, §6611(a)(2)(C), added subpar. (F).
 
-<b>2006</b>—Subsec. (d). Pub. L. 109–280, §906(a)(1), inserted at end “The term ‘governmental plan’ includes a plan which is established and maintained by an Indian tribalgovernment (as defined in section 7701(a)(40)), a subdivision of an Indian tribal government (determined in accordance with section 7871(d)), or an agency or instrumentality of either, and all of the participants of which are employees of such entity substantially all of whose services as such an employee are in the performance of essential governmental functions but not in the performance of commercial activities (whether or not an essential government function).”
+<b>2006</b>—Subsec. (d). Pub. L. 109–280, §906(a)(1), inserted at end “The term ‘governmental plan’ includes a plan which is established and maintained by an Indian tribal government (as defined in section 7701(a)(40)), a subdivision of an Indian tribal government (determined in accordance with section 7871(d)), or an agency or instrumentality of either, and all of the participants of which are employees of such entity substantially all of whose services as such an employee are in the performance of essential governmental functions but not in the performance of commercial activities (whether or not an essential government function).”
 
 Subsec. (f)(6). Pub. L. 109–280, §1106(b), added par. (6).
 
@@ -1626,7 +1626,7 @@ Subsec. (s). Pub. L. 100–647, §1011(j)(1), substituted “any applicable prov
 
 Subsec. (s)(1). Pub. L. 100–647, §1011(j)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘compensation’ means compensation for service performed for an employer which (taking into account the provisions of this chapter) is currently includible in gross income.”
 
-Subsec. (s)(2) to (4). Pub. L. 100–647, §1011(j)(2), added par. (4), redesignated former pars. (3) and (4) as (2) and\(3), respectively, and struck out former par. (2) which read as follows: “The Secretary shall prescribe regulations for the determination of the compensation of an employee who is a self-employed individual (within the meaning of section 401(c)(1)) which are based on the principles of paragraph (1).”
+Subsec. (s)(2) to (4). Pub. L. 100–647, §1011(j)(2), added par. (4), redesignated former pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: “The Secretary shall prescribe regulations for the determination of the compensation of an employee who is a self-employed individual (within the meaning of section 401(c)(1)) which are based on the principles of paragraph (1).”
 
 Subsec. (t)(1). Pub. L. 100–647, §1011B(a)(20), struck out “of section 414” before “shall be treated” and “shall apply with”.
 
@@ -1656,7 +1656,7 @@ Subsec. (n)(4). Pub. L. 99–514, §1146(a)(2), substituted “Time when first c
 
 Subsec. (n)(5). Pub. L. 99–514, §1146(a)(1), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “This subsection shall not apply to any leased employee if such employee is covered by a plan which is maintained by the leasing organization if, with respect to such employee, such plan—
 
-&emsp;“(A) is a money purchase pension plan with a nonintegrated employer contribution rate of at least 71/2 percent, and
+&emsp;“(A) is a money purchase pension plan with a nonintegrated employer contribution rate of at least 7½ percent, and
 
 &emsp;“(B) provides for immediate participation and for full and immediate vesting.”
 
@@ -1782,13 +1782,13 @@ Amendment by Pub. L. 106–554 effective as if included in the provisions of the
 
 #### Effective Date of 1998 Amendment
 
-Amendment by section 6018 of Pub. L. 105–206 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which such amendment relates, see section 6018(h) of Pub. L. 105–206, set out as a note under section 36C of this title.
+Amendment by section 6018 of Pub. L. 105–206 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which such amendment relates, see section 6018(h) of Pub. L. 105–206, set out as a note under section 23 of this title.
 
 #### Effective Date of 1997 Amendment
 
 Section 1522(b) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section\] shall apply to years beginning after December 31, 1997.”
 
-Amendment by section 1601(d)(6)(A), (7), (h)(2)(D)(i), (ii) of Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 36C of this title.
+Amendment by section 1601(d)(6)(A), (7), (h)(2)(D)(i), (ii) of Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 23 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -1854,7 +1854,7 @@ Amendment by Pub. L. 100–203 applicable with respect to plan years beginning a
 
 #### Effective Date of 1986 Amendment
 
-Section 1114(c) of Pub. L. 99–514, as amended by Pub. L. 104–188, title I, §1431(c)(2), Aug. 20, 1996, 110 Stat. 1803; Pub. L. 107–16, title VI, §663(a), June 7, 2001, 115 Stat. 142, provided that:
+Section 1114(c) of Pub. L. 99–514, as amended by Pub. L. 104–188, title I, §1431(c)(2), Aug. 20, 1996, 110 Stat. 1803;Pub. L. 107–16, title VI, §663(a), June 7, 2001, 115 Stat. 142, provided that:
 
 “(1)
 
@@ -1890,7 +1890,7 @@ Recordkeeping requirements.—In the case of years beginning before the date of 
 
 Amendment by section 1151(e)(1), (i) of Pub. L. 99–514 applicable, with certain qualifications and exceptions, to years beginning after Dec. 31, 1988, see section 1151(k) of Pub. L. 99–514, as amended, set out as a note under section 79 of this title.
 
-Amendment by section 1301(j)(4) of Pub. L. 99–514 applicable to bonds issued after Aug. 15, 1986, except asotherwise provided, see sections 1311 to 1318 of Pub. L. 99–514, set out as an Effective Date; Transitional Rules note under section 141 of this title.
+Amendment by section 1301(j)(4) of Pub. L. 99–514 applicable to bonds issued after Aug. 15, 1986, except as otherwise provided, see sections 1311 to 1318 of Pub. L. 99–514, set out as an Effective Date; Transitional Rules note under section 141 of this title.
 
 Amendment by section 1852(f) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
@@ -1948,7 +1948,7 @@ Section applicable, except as otherwise provided in section 1017(c) through (i) 
 
 #### Regulations
 
-Pub. L. 109–280, title X, §1001, Aug. 17, 2006, 120 Stat. 1052, provided that: “Not later than 1 year after the date of the enactment of this Act \[Aug. 17, 2006\], the Secretary of Labor shall issue regulations under section 206(d)(3) of the Employee Retirement Security Act of 1974 \[29 U.S.C. 1056(d)(3)\] and section 414(p) of the Internal Revenue Code of 1986 which clarify that—
+Pub. L. 109–280, title X, §1001, Aug. 17, 2006, 120 Stat. 1052, provided that: “Not later than 1 year after the date of the enactment of this Act \[Aug. 17, 2006\], theSecretary of Labor shall issue regulations under section 206(d)(3) of the Employee Retirement Security Act of 1974 \[29 U.S.C. 1056(d)(3)\] and section 414(p) of the Internal Revenue Code of 1986 which clarify that—
 
 &emsp;“(1) a domestic relations order otherwise meeting the requirements to be a qualified domestic relations order, including the requirements of section 206(d)(3)(D) of such Act and section 414(p)(3) of such Code, shall not fail to be treated as a qualified domestic relations order solely because—
 
@@ -2046,7 +2046,7 @@ For provisions directing that if any amendments made by subtitle D \[§§1401–
 
 #### Plan Amendments Not Required Until January 1, 1994
 
-For provisions directing that if any amendments made by subtitle B \[§§521–523\] of title V of Pub. L. 102–318 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 523 of Pub. L. 102–318, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle B \[§§521–523\] of title V of Pub. L. 102–318 require an amendment to any plan, such planamendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 523 of Pub. L. 102–318, set out as a note under section 401 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

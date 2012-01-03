@@ -14,7 +14,7 @@ The Secretary of State, in consultation with the Secretary of Commerce and actin
 
 #### Codification
 
-Section 7(c) of Pub. L. 105–42, which directed the addition of this section at the end of the Tuna Conventions Act, was executed by adding this section at the end of the Tuna Conventions Act of 1950, to reflect the probable intent of Congress.
+Section 7(c) of Pub. L. 105–42, which directed the addition of this section at the end of the Tuna ConventionsAct, was executed by adding this section at the end of the Tuna Conventions Act of 1950, to reflect the probable intent of Congress.
 
 #### Effective Date
 

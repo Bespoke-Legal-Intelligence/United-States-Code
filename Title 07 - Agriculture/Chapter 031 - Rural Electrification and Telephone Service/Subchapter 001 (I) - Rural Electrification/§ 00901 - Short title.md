@@ -6,9 +6,9 @@ This chapter may be cited as the “Rural Electrification Act of 1936”.
 
 #### Amendments
 
-1994—Pub. L. 103–354 added section catchline and text and struck out former text which read as follows: “There is hereby created and established an agency of the United States to be known as the ‘Rural Electrification Administration’, all of the powers of which shall be exercised by an Administrator, who shall be appointed by the President, by and with the advice and consent of the Senate, for a term of ten years, and who shall receive a salary of $10,000 per year. This chapter may be cited as the ‘Rural Electrification Act of 1936’.”
+<b>1994</b>—Pub. L. 103–354 added section catchline and text and struck out former text which read as follows: “There is hereby created and established an agency of the United States to be known as the ‘Rural Electrification Administration’, all of the powers of which shall be exercised by an Administrator, who shall be appointed by the President, by and with the advice and consent of the Senate, for a term of ten years, and who shall receive a salary of $10,000 per year. This chapter may be cited as the ‘Rural Electrification Act of 1936’.”
 
-1949—Act Oct. 28, 1949, inserted “title I,” in credit of act May 20, 1936.
+<b>1949</b>—Act Oct. 28, 1949, inserted “title I,” in credit of act May 20, 1936.
 
 #### Short Title of 1993 Amendment
 
@@ -20,7 +20,7 @@ Pub. L. 102–428, §1, Oct. 21, 1992, 106 Stat. 2183, provided that: “This Ac
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101–624, title XXIII, §2351(a), Nov. 28, 1990, 104 Stat. 4038, provided that: “This subtitle \[subtitle F (§§2351–2368) of title XXIII of Pub. L. 101–624, enacting sections 918 and 925 to 928 of this title, amending sections 924, 932, 935, 936, 939, 945, 946, 948, and 950 of this title, and enacting provisions set out as notes under this section and section 946 of this title\] may be cited as the ‘Rural Telecommunications Improvements Act of 1990’.”
+Pub. L. 101–624, title XXIII, §2351(a), Nov. 28, 1990, 104 Stat. 4038, provided that: “This subtitle \[subtitle F (§§2351–2368) of title XXIII of Pub. L. 101–624, enacting sections 918 and 925 to 928 of this title, amending sections 924, 932, 935, 936, 939, 945, 946, 948, and 950 of this title, and enacting provisions set out as notes under this section and section 946 of this title\] may be citedas the ‘Rural Telecommunications Improvements Act of 1990’.”
 
 #### Short Title of 1976 Amendment
 

@@ -4,7 +4,7 @@
 
 (b) Each State may use the funds apportioned to it under section 669c(c) <sup>1</sup> of this title to pay up to 75 per centum of the costs of a hunter safety program and the construction, operation, and maintenance of public target ranges, as a part of such program. The non-Federal share of such costs may be derived from license fees paid by hunters, but not from other Federal grant programs. The Secretary shall issue not later than the 120th day after the effective date of this subsection such regulations as he deems advisable relative to the criteria for the establishment of hunter safety programs and public target ranges under this subsection.
 
-(Sept. 2, 1937, ch. 899, §8, 50 Stat. 919; July 24, 1946, ch. 605, §2, 60 Stat. 656; Aug. 12, 1955, ch. 861, §2, 69 Stat. 698; Pub. L. 91–503, title I, §102, Oct.23, 1970, 84 Stat. 1100; Pub. L. 92–558, title I, §102(a), Oct. 25, 1972, 86 Stat. 1173; Pub. L. 106–408, title I, §111(c), Nov. 1, 2000, 114 Stat. 1766; Pub. L. 106–553, §1(a)(2) \[title IX, §902(g)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–124.)
+(Sept. 2, 1937, ch. 899, §8, 50 Stat. 919; July 24, 1946, ch. 605, §2, 60 Stat. 656; Aug. 12, 1955, ch. 861, §2, 69 Stat. 698; Pub. L. 91–503, title I, §102, Oct. 23, 1970, 84 Stat. 1100; Pub. L. 92–558, title I, §102(a), Oct. 25, 1972, 86 Stat. 1173; Pub. L. 106–408, title I, §111(c), Nov. 1, 2000, 114 Stat. 1766; Pub. L. 106–553, §1(a)(2) \[title IX, §902(g)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–124.)
 
 #### References in Text
 
@@ -12,7 +12,7 @@ The effective date of this subsection, referred to in subsec. (b), probably mean
 
 #### Amendments
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–553 inserted at end “Funds from the Wildlife Conservation and Restoration Account may be used for a wildlife conservation education program, except that no such funds may be used for education efforts, projects, or programs that promote or encourage opposition to the regulated taking of wildlife.”
+<b>2000</b>—Subsec. (a). Pub. L. 106–553 inserted at end “Funds from the Wildlife Conservation and RestorationAccount may be used for a wildlife conservation education program, except that no such funds may be used for education efforts, projects, or programs that promote or encourage opposition to the regulated taking of wildlife.”
 
 Subsec. (b). Pub. L. 106–408 substituted “section 669c(c) of this title” for “section 669c(b) of this title” in first sentence.
 

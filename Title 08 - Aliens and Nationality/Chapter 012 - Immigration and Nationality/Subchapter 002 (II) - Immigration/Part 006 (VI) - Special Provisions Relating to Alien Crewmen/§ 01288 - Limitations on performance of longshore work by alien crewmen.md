@@ -114,7 +114,7 @@ For purposes of section 1101(a)(15)(D)(i) of this title, the term “normal oper
 
 &emsp;&emsp;(IV) travel distance to the vessel from the point of embarkation does not exceed 5 miles.
 
-(B) In the cases of Wide Bay, Alaska, and Klawock/Craig, Alaska, the travel times and travel distances specified in subclauses (III) and (IV) of subparagraph (A)(iii) shall be extended to 45 minutes and 71/2 miles, respectively, unless the party responding to the request for longshore workers agrees to the lesser time and distance limitations specified in those subclauses.
+(B) In the cases of Wide Bay, Alaska, and Klawock/Craig, Alaska, the travel times and travel distances specified in subclauses (III) and (IV) of subparagraph (A)(iii) shall be extended to 45 minutes and 7½ miles, respectively, unless the party responding to the request for longshore workers agrees to the lesser time and distance limitations specified in those subclauses.
 
 (4) Subject to subparagraphs (A) through (D) of subsection (c)(4) of this section, attestations filed under paragraph (1) of this subsection shall—
 
@@ -162,9 +162,9 @@ The National Labor Relations Act, referred to in subsec. (d)(1)(D)(i), is act Ju
 
 #### Amendments
 
-1996—Subsec. (b)(2). Pub. L. 104–208 substituted “section 5103(b), 5104, 5106, 5107, or 5110 of title 49” for “section 105 or 106 of the Hazardous Materials Transportation Act (49 U.S.C. App. 1804, 1805)”.
+<b>1996</b>—Subsec. (b)(2). Pub. L. 104–208 substituted “section 5103(b), 5104, 5106, 5107, or 5110 of title 49” for “section 105 or 106 of the Hazardous Materials Transportation Act (49 U.S.C. App. 1804, 1805)”.
 
-1994—Subsecs. (a), (c)(4)(A), (5). Pub. L. 103–416, §219(gg), repealed Pub. L. 103–198, §8(b), which had made amendments identical to those made by Pub. L. 103–206, §323(b). See 1993 Amendment note below.
+<b>1994</b>—Subsecs. (a), (c)(4)(A), (5). Pub. L. 103–416, §219(gg), repealed Pub. L. 103–198, §8(b), which had made amendments identical to those made by Pub. L. 103–206, §323(b). See 1993 Amendment note below.
 
 Subsec. (d). Pub. L. 103–416, §219(gg), repealed Pub. L. 103–198, §8(a), which had made an amendment substantially identical to that made by Pub. L. 103–206, §323(a). See 1993 Amendment note below.
 
@@ -172,7 +172,7 @@ Subsec. (d)(3)(B). Pub. L. 103–416, §219(f), substituted “subparagraph (A)(
 
 Subsec. (e). Pub. L. 103–416, §219(gg), repealed Pub. L. 103–198, §8(a), which had made an amendment substantially identical to that made by Pub. L. 103–206, §323(a). See 1993 Amendment note below.
 
-1993—Subsec. (a). Pub. L. 103–206, §323(b)(1), substituted “subsection (c), (d), or (e) of this section” for “subsection (c) of this section or subsection (d) of this section”. Pub. L. 103–198, §8(b)(1), which amended subsec. (a) identically, was repealed by Pub. L. 103–416, §219(gg).
+<b>1993</b>—Subsec. (a). Pub. L. 103–206, §323(b)(1), substituted “subsection (c), (d), or (e) of this section” for “subsection (c) of this section or subsection (d) of this section”. Pub. L. 103–198, §8(b)(1), which amended subsec. (a) identically, was repealed by Pub. L. 103–416, §219(gg).
 
 Subsec. (c)(4)(A). Pub. L. 103–206, §323(b)(2), inserted “or subsection (d)(1) of this section” after “paragraph (1)” in two places. Pub. L. 103–198, §8(b)(2), which amended subpar. (A) identically, was repealed by Pub. L. 103–416, §219(gg).
 
@@ -180,7 +180,7 @@ Subsec. (c)(5). Pub. L. 103–206, §323(b)(3), added par. (5). Pub. L. 103–19
 
 Subsecs. (d), (e). Pub. L. 103–206, §323(a), added subsec. (d) and redesignated former subsec. (d) as (e). Pub. L. 103–198, §8(a), which made substantially identical amendments to this section, was repealed by Pub. L. 103–416, §219(gg).
 
-1991—Subsec. (c)(2)(B). Pub. L. 102–232 substituted “each list” for “each such list”.
+<b>1991</b>—Subsec. (c)(2)(B). Pub. L. 102–232 substituted “each list” for “each such list”.
 
 #### Effective Date of 1994 Amendment
 
@@ -211,4 +211,6 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 #### Inapplicability of Amendment by Pub. L. 101–649
 
 Section 203(a)(2) of Pub. L. 101–649 provided that: “This section \[enacting this section, amending section 1101 of this title, and enacting provisions set out as a note under section 1101 of this title\] does not affect the performance of longshore work in the United States by citizens or nationals of the United States.”
+
+<i><sup>1</sup></i><i> So in original. The word “at” probably should not appear.</i>
 

@@ -10,7 +10,7 @@ Subpart C—Refundable Credits
 | [36\.](%C2%A7%2000036%20-%20First-time%20homebuyer%20credit.md) | First-time homebuyer credit. |
 | [36A.](%C2%A7%2000036A%20-%20Making%20work%20pay%20credit.md) | Making work pay credit. |
 | [36B.](%C2%A7%2000036B%20-%20Refundable%20credit%20for%20coverage%20under%20a%20qualified%20health%20plan.md) | Refundable credit for coverage under a qualified health plan. |
-| [36C.](%C2%A7%2000036C%20-%20Adoption%20expenses.md) | Adoption expenses. |
+| \[36C. | Renumbered.\] |
 | [37\.](%C2%A7%2000037%20-%20Overpayments%20of%20tax.md) | Overpayments of tax. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -21,7 +21,7 @@ Subpart C—Refundable Credits
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–148, title X, §10909(b)(2)(Q), (c), Mar. 23, 2010, 124 Stat. 1023, as amended by Pub. L. 111–312,title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298, temporarily added item 36C.
+<b>2010</b>—Pub. L. 111–148, title X, §10909(b)(2)(Q), (c), Mar. 23, 2010, 124 Stat. 1023, as amended by Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298, temporarily added item 36C “Adoption expenses”.
 
 Pub. L. 111–148, title I, §1401(d)(2), Mar. 23, 2010, 124 Stat. 220, added item 36B.
 
@@ -46,5 +46,5 @@ Pub. L. 111–148, title I, §1401(d)(2), Mar. 23, 2010, 124 Stat. 220, added it
 - [&sect; 00036 - First-time homebuyer credit](%C2%A7%2000036%20-%20First-time%20homebuyer%20credit.md)
 - [&sect; 00036A - Making work pay credit](%C2%A7%2000036A%20-%20Making%20work%20pay%20credit.md)
 - [&sect; 00036B - Refundable credit for coverage under a qualified health plan](%C2%A7%2000036B%20-%20Refundable%20credit%20for%20coverage%20under%20a%20qualified%20health%20plan.md)
-- [&sect; 00036C - Adoption expenses](%C2%A7%2000036C%20-%20Adoption%20expenses.md)
+- [&sect; 00036C - Renumbered &sect;23](%C2%A7%2000036C%20-%20Renumbered%20%C2%A723.md)
 - [&sect; 00037 - Overpayments of tax](%C2%A7%2000037%20-%20Overpayments%20of%20tax.md)

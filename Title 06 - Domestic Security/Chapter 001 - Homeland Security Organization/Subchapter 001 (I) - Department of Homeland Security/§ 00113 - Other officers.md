@@ -62,11 +62,11 @@ This chapter, referred to in subsecs. (c) and (f), was in the original “this A
 
 #### Amendments
 
-2008—Subsec. (d)(3) to (5). Pub. L. 110–388 redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows: “A Chief Human Capital Officer.”
+<b>2008</b>—Subsec. (d)(3) to (5). Pub. L. 110–388 redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows: “A Chief Human Capital Officer.”
 
-2007—Subsec. (a)(8) to (10). Pub. L. 110–53 added par. (8) and redesignated former pars. (8) and (9) as (9) and (10), respectively.
+<b>2007</b>—Subsec. (a)(8) to (10). Pub. L. 110–53 added par. (8) and redesignated former pars. (8) and (9) as (9) and (10), respectively.
 
-2006—Subsec. (a)(2) to (4). Pub. L. 109–295, §612(b)(2), (3), redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: “An Under Secretary for Information Analysis and Infrastructure Protection.”
+<b>2006</b>—Subsec. (a)(2) to (4). Pub. L. 109–295, §612(b)(2), (3), redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: “An Under Secretary for Information Analysis and Infrastructure Protection.”
 
 Subsec. (a)(5). Pub. L. 109–295, §612(b)(3), redesignated par. (6) as (5). Former par. (5) redesignated (4).
 
@@ -76,13 +76,13 @@ Subsec. (a)(6) to (10). Pub. L. 109–295, §612(b)(3), redesignated pars. (7) t
 
 Subsec. (d)(5). Pub. L. 109–347 added par. (5).
 
-2004—Subsec. (a)(8) to (10). Pub. L. 108–458 added par. (8) and redesignated former pars. (8) and (9) as (9) and (10), respectively.
+<b>2004</b>—Subsec. (a)(8) to (10). Pub. L. 108–458 added par. (8) and redesignated former pars. (8) and (9) as (9) and (10), respectively.
 
 Subsec. (d)(4), (5). Pub. L. 108–330, §3(d)(1)(A)(i), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “A Chief Financial Officer.”
 
 Subsecs. (e), (f). Pub. L. 108–330, §3(d)(1)(A)(ii), (iii), added subsec. (e) and redesignated former subsec. (e) as (f).
 
-2003—Subsec. (b). Pub. L. 108–7 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “There is an Inspector General, who shall be appointed as provided in section 3(a) of the Inspector General Act of 1978.”
+<b>2003</b>—Subsec. (b). Pub. L. 108–7 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “There is an Inspector General, who shall be appointed as provided in section 3(a) of the Inspector General Act of 1978.”
 
 #### Change of Name
 

@@ -68,7 +68,7 @@
 
 &emsp;&emsp;&emsp;(i) computing the sum of the products (for each National Drug Code assigned to such drug products) of—
 
-&emsp;&emsp;&emsp;&emsp;(I) the manufacturer's average sales price (as defined in subsection (c)), determined by the Secretary without dividing such price by the total number of billing units for the National Drug Code for the billing and payment code; and
+&emsp;&emsp;&emsp;&emsp;(I) the manufacturer's average sales price (as defined in subsection (c)), determined by the Secretary without dividing such price by the total number of billingunits for the National Drug Code for the billing and payment code; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the total number of units specified under paragraph (2) sold; and
 
@@ -110,7 +110,7 @@
 
 #### (1) In general
 
-&emsp;For purposes of this section, subject to paragraphs (2) and (3), the manufacturer's “average sales price” means, of a drug or biological fora National Drug Code for a calendar quarter for a manufacturer for a unit—
+&emsp;For purposes of this section, subject to paragraphs (2) and (3), the manufacturer's “average sales price” means, of a drug or biological for a National Drug Code for a calendar quarter for a manufacturer for a unit—
 
 &emsp;&emsp;(A) the manufacturer's sales to all purchasers (excluding sales exempted in paragraph (2)) in the United States for such drug or biological in the calendar quarter; divided by
 
@@ -222,7 +222,7 @@
 
 #### (2) Comparison of prices
 
-&emsp;Based upon such studies and other data for drugs and biologicals, the Inspector General shall compare the average sales price under this section for drugs and biologicals with—
+&emsp;Based upon such studies and other data for drugs and biologicals, the Inspector Generalshall compare the average sales price under this section for drugs and biologicals with—
 
 &emsp;&emsp;(A) the widely available market price for such drugs and biologicals (if any); and
 
@@ -354,7 +354,7 @@ Pub. L. 108–173, title III, §303(c)(3), Dec. 8, 2003, 117 Stat. 2245, provide
 
 “(A)
 
-Study.—The Inspector General of the Department of Health and Human Services shall conduct a study on the ability of physician practices in the specialties of hematology, hematology/oncology, and medical oncology of different sizes, especially particularlylarge practices, to obtain drugs and biologicals for the treatment of cancer patients at 106 percent of the average sales price for the drugs and biologicals. In conducting the study, the Inspector General shall conduct an audit of a representative sample of such practices to determine the adequacy of reimbursement under section 1847A of the Social Security Act \[this section\], as added by paragraph (1).
+Study.—The Inspector General of the Department of Health and Human Services shall conduct a study on the ability of physician practices in the specialties of hematology, hematology/oncology, and medical oncology of different sizes, especially particularly large practices, to obtain drugs and biologicals for the treatment of cancer patients at 106 percent of the average sales price for the drugs and biologicals. In conducting the study, the Inspector General shall conduct an audit of a representative sample of such practices to determine the adequacy of reimbursement under section 1847A of the Social Security Act \[this section\], as added by paragraph (1).
 
 “(B)
 

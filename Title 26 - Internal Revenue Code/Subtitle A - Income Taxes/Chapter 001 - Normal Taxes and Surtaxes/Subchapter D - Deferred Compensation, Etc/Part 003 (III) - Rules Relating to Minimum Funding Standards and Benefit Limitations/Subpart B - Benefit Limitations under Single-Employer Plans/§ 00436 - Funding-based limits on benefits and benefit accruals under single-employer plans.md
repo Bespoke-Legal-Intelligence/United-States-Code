@@ -20,7 +20,7 @@ For purposes of section 401(a)(29), a defined benefit plan which is a single-emp
 
 &emsp;&emsp;(A) in the case of paragraph (1)(A), the amount of the increase in the funding target of the plan (under section 430) for the plan year attributable to the occurrence referred to in paragraph (1), and
 
-&emsp;&emsp;(B) in the case of paragraph (1)(B), the amount sufficient to result in an adjusted funding target attainment percentage of 60 percent.
+&emsp;&emsp;(B) in the case of paragraph (1)(B), the amount sufficient to result in an adjustedfunding target attainment percentage of 60 percent.
 
 #### (3) Unpredictable contingent event benefit
 
@@ -90,7 +90,7 @@ For purposes of section 401(a)(29), a defined benefit plan which is a single-emp
 
 &emsp;For purpose of this subsection, the term “prohibited payment” means—
 
-&emsp;&emsp;(A) any payment, in excess of the monthly amount paid under a single life annuity (plus any social security supplements described in the last sentence of section 411(a)(9)), to a participant or beneficiary whose annuity starting date (as defined in section 417(f)(2)) occurs during any period a limitation under paragraph (1) or (2) is in effect,
+&emsp;&emsp;(A) any payment, in excess of the monthly amount paid under a single life annuity\(plus any social security supplements described in the last sentence of section 411(a)(9)), to a participant or beneficiary whose annuity starting date (as defined in section 417(f)(2)) occurs during any period a limitation under paragraph (1) or (2) is in effect,
 
 &emsp;&emsp;(B) any payment for the purchase of an irrevocable commitment from an insurer to pay benefits, and
 
@@ -166,7 +166,7 @@ Subsections (b), (c), and (e) shall not apply to a plan for the first 5 plan yea
 
 #### (1) Presumption of continued underfunding
 
-&emsp;In any case in which a benefit limitation under subsection (b), (c), (d), or (e) has been applied to a plan with respect to the plan year preceding the current plan year, the adjusted funding target attainment percentage of the plan for the current plan year shall be presumed to be equal to the adjusted funding target attainment percentage of the plan for the preceding plan year until the enrolled actuary of the plan certifies the actual adjusted funding target attainment percentage of the plan for the current plan year.
+&emsp;In any case in which a benefit limitation under subsection (b), (c), (d), or (e) has beenapplied to a plan with respect to the plan year preceding the current plan year, the adjusted funding target attainment percentage of the plan for the current plan year shall be presumed to be equal to the adjusted funding target attainment percentage of the plan for the preceding plan year until the enrolled actuary of the plan certifies the actual adjusted funding target attainment percentage of the plan for the current plan year.
 
 #### (2) Presumption of underfunding after 10th month
 

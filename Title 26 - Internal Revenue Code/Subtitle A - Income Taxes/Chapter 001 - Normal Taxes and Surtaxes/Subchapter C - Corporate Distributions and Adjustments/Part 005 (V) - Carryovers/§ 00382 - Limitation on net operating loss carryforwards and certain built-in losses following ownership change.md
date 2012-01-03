@@ -64,7 +64,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) any net operating loss carryforward of the old loss corporation to the taxable year ending with the ownership change or in which the change date occurs, and
 
-&emsp;&emsp;(B) the net operating loss of the old loss corporation for the taxable year in whichthe ownership change occurs to the extent such loss is allocable to the period in such year on or before the change date.
+&emsp;&emsp;(B) the net operating loss of the old loss corporation for the taxable year in which the ownership change occurs to the extent such loss is allocable to the period in such year on or before the change date.
 
 > &emsp;Except as provided in subsection (h)(5) and in regulations, the net operating loss shall, for purposes of subparagraph (B), be allocated ratably to each day in the year.
 
@@ -338,7 +338,7 @@ For purposes of this section—
 
 #### (3) Shorter period where all losses arise after 3-year period begins
 
-&emsp;The testing period shall not begin before the earlier of the 1st day of the 1st taxable year from which there is a carryforward of a loss or of an excess credit to the 1st post-change year or the taxable year in which the transaction being tested occurs. Except as provided in regulations, this paragraph shall not apply to anyloss corporation which has a net unrealized built-in loss (determined after application of subsection (h)(3)(B)).
+&emsp;The testing period shall not begin before the earlier of the 1st day of the 1st taxable year from which there is a carryforward of a loss or of an excess credit to the 1st post-change year or the taxable year in which the transaction being tested occurs. Except as provided in regulations, this paragraph shall not apply to any loss corporation which has a net unrealized built-in loss (determined after application of subsection (h)(3)(B)).
 
 #### (j) Change date
 
@@ -518,7 +518,7 @@ For purposes of this section—
 
 #### (E) Treatment of subsidiaries
 
-&emsp;&emsp;For purposes of this paragraph, stock and securities in any subsidiary corporation shall be disregarded and the parent corporation shall be deemed to own its ratable share of the subsidiary's assets. For purposes of the preceding sentence, a corporation shall be treated as a subsidiary if the parent owns 50 percent or more of the combined voting power of all classes of stock entitled to vote, and 50 percent or more of the total value of shares of all classes of stock.
+&emsp;&emsp;For purposes of this paragraph, stock and securities in any subsidiary corporation shall be disregarded and the parent corporation shall be deemed to own its ratable share of the subsidiary's assets. For purposes of the preceding sentence, a corporation shallbe treated as a subsidiary if the parent owns 50 percent or more of the combined voting power of all classes of stock entitled to vote, and 50 percent or more of the total value of shares of all classes of stock.
 
 #### (5) Title 11 or similar case
 
@@ -528,7 +528,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) the old loss corporation is (immediately before such ownership change) under the jurisdiction of the court in a title 11 or similar case, and
 
-&emsp;&emsp;&emsp;(ii) the shareholders and creditors of the old loss corporation (determined immediately before such ownership change) own (after such ownership change and as a result of being shareholders or creditors immediately before such change) stock of thenew loss corporation (or stock of a controlling corporation if also in bankruptcy) which meets the requirements of section 1504(a)(2) (determined by substituting “50 percent” for “80 percent” each place it appears).
+&emsp;&emsp;&emsp;(ii) the shareholders and creditors of the old loss corporation (determined immediately before such ownership change) own (after such ownership change and as a result of being shareholders or creditors immediately before such change) stock of the new loss corporation (or stock of a controlling corporation if also in bankruptcy) which meets the requirements of section 1504(a)(2) (determined by substituting “50 percent” for “80 percent” each place it appears).
 
 #### (B) Reduction for interest payments to creditors becoming shareholders
 
@@ -594,7 +594,7 @@ For purposes of this section—
 
 #### (6) Special rule for insolvency transactions
 
-&emsp;If paragraph (5) does not apply to any reorganization described in subparagraph (G) of section 368(a)(1) or any exchange of debt for stock in a title 11 or similar case (as defined in section 368(a)(3)(A)), the value under subsection (e) shall reflect the increase (if any) in value of the old loss corporation resulting from any surrender or cancellation of creditors’ claims in the transaction.
+&emsp;If paragraph (5) does not apply to any reorganization described in subparagraph (G) of section 368(a)(1) or any exchange of debt for stock in a title 11 or similar case (as defined in section 368(a)(3)(A)), the value under subsection (e) shall reflect the increase (if any) invalue of the old loss corporation resulting from any surrender or cancellation of creditors’ claims in the transaction.
 
 #### (7) Coordination with alternative minimum tax
 
@@ -846,7 +846,7 @@ Subsection (a).—The amendment made by subsection (a) \[amending this section\]
 
 “(2)
 
-Subsection (b).—The amendment made by subsection (b) \[amending this section\] shall apply in thecase of ownership changes (as defined in section 382 of the Internal Revenue Code of 1986 as amended by subsection (a)) after December 15, 1987; except that such amendment shall not apply in the case of any ownership change pursuant to a binding written contract which was in effect on December 15, 1987, and at all times thereafter before such ownership change.”
+Subsection (b).—The amendment made by subsection (b) \[amending this section\] shall apply in the case of ownership changes (as defined in section 382 of the Internal Revenue Code of 1986 as amended by subsection (a)) after December 15, 1987; except that such amendment shall not apply in the case of any ownership change pursuant to a binding written contract which was in effect on December 15, 1987, and at all times thereafter before such ownership change.”
 
 #### Effective Date of 1986 Amendment; Savings Provisions
 

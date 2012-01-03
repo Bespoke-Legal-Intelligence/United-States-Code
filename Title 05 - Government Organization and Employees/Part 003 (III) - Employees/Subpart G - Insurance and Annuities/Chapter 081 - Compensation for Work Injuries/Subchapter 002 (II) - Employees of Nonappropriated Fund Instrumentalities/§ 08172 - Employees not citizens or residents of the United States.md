@@ -28,9 +28,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1996—Pub. L. 104–106 substituted “(33 U.S.C. 902(2))” for “(33 U.S.C. 2(2))” in introductory provisions.
+<b>1996</b>—Pub. L. 104–106 substituted “(33 U.S.C. 902(2))” for “(33 U.S.C. 2(2))” in introductory provisions.
 
-1994—Pub. L. 103–337 substituted “section 2(2) of the Longshore and Harbor Workers’ Compensation Act (33 U.S.C. 2(2))” for “section 902(2) of title 33” in introductory provisions.
+<b>1994</b>—Pub. L. 103–337 substituted “section 2(2) of the Longshore and Harbor Workers’ Compensation Act (33 U.S.C. 2(2))” for “section 902(2) of title 33” in introductory provisions.
 
 Pub. L. 103–272 substituted “Secretary of Transportation” for “Secretary of the Treasury” in concluding provisions.
 

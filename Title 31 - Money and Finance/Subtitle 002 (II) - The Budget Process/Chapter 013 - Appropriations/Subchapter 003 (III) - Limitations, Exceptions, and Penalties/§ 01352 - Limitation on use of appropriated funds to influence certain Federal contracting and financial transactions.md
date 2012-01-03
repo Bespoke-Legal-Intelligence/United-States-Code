@@ -34,7 +34,7 @@
 
 &emsp;(B) upon receipt by such person of a Federal contract, grant, loan, or cooperative agreement or of a commitment providing for the United States to insure or guarantee a loan, unless such person previously filed a declaration with respect to such contract, grant, loan, cooperative agreement or commitment pursuant to clause (A); and
 
-&emsp;(C) at the end of each calendar quarter in which there occurs any event that materially affects the accuracy of the information contained in any declaration previously filed by such person in connection with such Federalcontract, grant, loan, cooperative agreement, loan insurance commitment, or loan guaranty commitment.
+&emsp;(C) at the end of each calendar quarter in which there occurs any event that materially affects the accuracy of the information contained in any declaration previously filed by such person in connection with such Federal contract, grant, loan, cooperative agreement, loan insurance commitment, or loan guaranty commitment.
 
 (5) Any person who requests or receives from a person referred to in paragraph (1) of this subsection a subcontract under a Federal contract, a subgrant or contract under a Federal grant, a contract or subcontract to carry out any purpose for which a particular Federal loan is made, or a contract under a Federal cooperative agreement shall be required to file with the person referred to in such paragraph a written declaration referred to in clause (A) of such paragraph.
 
@@ -128,7 +128,7 @@
 
 &emsp;(11) The terms “Indian tribe” and “tribal organization” have the meaning provided in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).
 
-(Added Pub. L. 101–121, title III, §319(a)(1), Oct. 23, 1989, 103 Stat. 750; amended Pub. L. 101–512, title III, §320, Nov. 5, 1990, 104 Stat. 1977; Pub. L. 103–272, §4(f)(1)(F), July 5, 1994, 108 Stat. 1362; Pub. L. 104–65, §10, Dec. 19, 1995, 109 Stat. 700; Pub. L. 104–66, title III, §3001(b), Dec. 21, 1995, 109 Stat. 734; Pub. L. 104–106, div. A, title X, §1064(c), div. D, title XLIII, §4301(a)(2), Feb. 10, 1996, 110 Stat. 445, 656.)
+(Added Pub. L. 101–121, title III, §319(a)(1), Oct. 23, 1989, 103 Stat. 750; amended Pub. L. 101–512, title III, §320, Nov. 5, 1990, 104 Stat. 1977; Pub. L. 103–272, §4(f)(1)(F), July 5, 1994, 108 Stat. 1362; Pub. L. 104–65, §10, Dec. 19, 1995, 109 Stat. 700; Pub. L. 104–66, title III, §3001(b), Dec. 21, 1995, 109Stat. 734; Pub. L. 104–106, div. A, title X, §1064(c), div. D, title XLIII, §4301(a)(2), Feb. 10, 1996, 110 Stat. 445, 656.)
 
 #### References in Text
 

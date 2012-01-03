@@ -24,7 +24,7 @@ Commitments to guarantee under subsection (a) of this section are authorized onl
 
 #### (f) Credits to reserve fund
 
-To the extent that any of the funds made available pursuant to subsection (d) of this section are paid out for a claim arising out of liabilities guaranteed under subsection (a) of this section, amounts received after the date of such payment, with respect to such claim, shall becredited to the reserve fund referred to in subsection (b) of this section, shall be merged with the funds in such reserve, and shall be available for the purpose of payments by the Agency to the Bank for guarantees under subsection (a) of this section.
+To the extent that any of the funds made available pursuant to subsection (d) of this section are paid out for a claim arising out of liabilities guaranteed under subsection (a) of this section, amounts received after the date of such payment, with respect to such claim, shall be credited to the reserve fund referred to in subsection (b) of this section, shall be merged with the funds in such reserve, and shall be available for the purpose of payments by the Agency to the Bank for guarantees under subsection (a) of this section.
 
 #### (g) Omitted
 
@@ -44,7 +44,7 @@ References to subchapter I of this chapter are deemed to include parts IV (§234
 
 #### Codification
 
-Subsec. (g) of this section, which required, at intervals of six months, the administrator of the agency primarily responsible for administering subchapter I of this chapter and the President of the Export-Import Bank of the United States to prepare and transmit to the Speaker of the House of Representatives and the Chairman of the Committee on Foreign Relations of the Senate a report on the amount and extension of credits during the preceding six-month period, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 148 of House Document No. 103–7.
+Subsec. (g) of this section, which required, at intervals of six months, the administrator of the agency primarily responsible for administering subchapter I of this chapter and the President of the Export-Import Bank of the United States to prepare and transmit to the Speaker of the House of Representatives and the Chairman of the Committee on Foreign Relations of the Senate a report on the amount and extension ofcredits during the preceding six-month period, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 148 of House Document No. 103–7.
 
 Section 224 of Pub. L. 87–195 is based on section 1011 of title X of H.R. 5119, Ninety-eighth Congress, as passed by the House of Representatives May 10, 1984, and enacted into law by Pub. L. 98–473.
 

@@ -62,5 +62,5 @@ In this part:
 
 #### Amendments
 
-2007—Pars. (2) to (14). Pub. L. 110–53 added pars. (2) and (12) to (14) and redesignated former pars. (2) to (10) as (3) to (11), respectively.
+<b>2007</b>—Pars. (2) to (14). Pub. L. 110–53 added pars. (2) and (12) to (14) and redesignated former pars. (2) to (10) as (3) to (11), respectively.
 

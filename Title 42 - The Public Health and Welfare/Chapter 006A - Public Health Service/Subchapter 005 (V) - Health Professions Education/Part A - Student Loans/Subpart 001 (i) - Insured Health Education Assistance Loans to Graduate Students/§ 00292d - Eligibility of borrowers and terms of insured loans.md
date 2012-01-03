@@ -58,7 +58,7 @@ A loan by an eligible lender shall be insurable by the Secretary under the provi
 
 &emsp;&emsp;(F) entitles the borrower to accelerate without penalty repayment of the whole or any part of the loan;
 
-&emsp;&emsp;(G) provides that the check for the proceeds of the loan shall be made payable jointly to the borrower and the eligible institution in which the borrower is enrolled; and
+&emsp;&emsp;(G) provides that the check for the proceeds of the loan shall be made payablejointly to the borrower and the eligible institution in which the borrower is enrolled; and
 
 &emsp;&emsp;(H) contains such other terms and conditions consistent with the provisions of this subpart and with the regulations issued by the Secretary pursuant to this subpart, as may be agreed upon by the parties to such loan, including, if agreed upon, a provision requiring the borrower to pay to the lender, in addition to principal and interest, amounts equal to the insurance premiums payable by the lender to the Secretary with respect to such loan; and
 
@@ -118,7 +118,7 @@ A prior section 705 of act July 1, 1944, was classified to section 292e of this 
 
 Pub. L. 105–244 substituted “section 1002(a)” for “section 1088(a)” in cl. (i).
 
-<b>1993</b>—Subsec. (a)(2)(H), (I). Pub. L. 103–43 redesignated subpar. (I) as (H) and struck out former subpar. (H) which read as follows: “notwithstanding the provisions of the Fair Debt Collection Practices Act, authorizes an institution or postgraduate training program attended by the borrower to assist in the collection of any loan that becomes delinquent, including providing information concerning the borrower to the Secretary and to past and present lenders and holders of the borrower's loans; and”.
+<b>1993</b>—Subsec. (a)(2)(H), (I). Pub. L. 103–43 redesignated subpar. (I) as (H) and struck out former subpar. (H) which read as follows: “notwithstanding the provisions of the Fair Debt Collection Practices Act, authorizesan institution or postgraduate training program attended by the borrower to assist in the collection of any loan that becomes delinquent, including providing information concerning the borrower to the Secretary and to past and present lenders and holders of the borrower's loans; and”.
 
 #### Effective Date of 1998 Amendments
 

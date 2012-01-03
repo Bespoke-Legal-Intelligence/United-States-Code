@@ -110,7 +110,7 @@ Subsec. (d). Pub. L. 101–501, §303(b), redesignated pars. (2), (4), and (5) a
 
 “(3) subsidize the direct provision of dependent care services including child care services;”.
 
-Subsec. (d)(1). Pub. L. 101–501, §305(a)(4), which directed the substitution of “subsections (a) and (b) ofthis section” for “subsection (a) of this section”, could not be executed because of the intervening amendment by Pub. L. 101–501, §303(b), see above.
+Subsec. (d)(1). Pub. L. 101–501, §305(a)(4), which directed the substitution of “subsections (a) and (b) of this section” for “subsection (a) of this section”, could not be executed because of the intervening amendment by Pub. L. 101–501, §303(b), see above.
 
 Subsec. (f). Pub. L. 101–501, §§303(a)(4), 305(a)(5), inserted “operate,” after “expand,” and substituted “which are provided before October 30, 1984,” for “, which prior to October 30, 1984, are provided”.
 

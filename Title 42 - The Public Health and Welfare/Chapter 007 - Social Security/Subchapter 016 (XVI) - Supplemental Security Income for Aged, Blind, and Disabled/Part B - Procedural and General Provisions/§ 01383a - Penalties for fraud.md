@@ -10,7 +10,7 @@ Whoever—
 
 &emsp;(3) having knowledge of the occurrence of any event affecting (A) his initial or continued right to any such benefit, or (B) the initial or continued right to any such benefit of any other individual in whose behalf he has applied for or is receiving such benefit, conceals or fails to disclose such event with an intent fraudulently to secure such benefit either in a greater amount or quantity than is due or when no such benefit is authorized, or
 
-&emsp;(4) having made application to receive any such benefit for the use and benefit of another and having received it, knowingly and willfully converts such benefit or any part thereof to a use other than for the use and benefit of such other person,
+&emsp;(4) having made application to receive any such benefit for the use and benefit of another and having received it, knowingly and willfully converts such benefit or any part thereofto a use other than for the use and benefit of such other person,
 
 > shall be fined under title 18, imprisoned not more than 5 years, or both.
 
@@ -54,7 +54,7 @@ Subsec. (b). Pub. L. 103–296, §206(c)(2), amended subsec. (b) generally. Prio
 
 “(2) In any case in which the court determines that a violation described in paragraph (1) includes a willful misuse of funds by such person or entity, the court may also require that full or partial restitution of such funds be made to the individual for whom such person or entity was the certified payee.
 
-“(3) Any person or entity convicted of a felony under this section or under section 408 of this title may notbe certified as a payee under section 1383(a)(2) of this title.”
+“(3) Any person or entity convicted of a felony under this section or under section 408 of this title may not be certified as a payee under section 1383(a)(2) of this title.”
 
 <b>1984</b>—Pub. L. 98–460 designated existing provisions as subsec. (a) and added subsec. (b).
 

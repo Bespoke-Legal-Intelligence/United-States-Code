@@ -2,5 +2,5 @@
 
 #### Codification
 
-Section, Pub. L. 97–320, title VII, §701(b), Oct. 15, 1982, 96 Stat. 1538, which related to exemption from State disclosure requirements, was transferred to section 1098g of this title.
+Section, Pub. L. 97–320, title VII, §701(b), Oct. 15, 1982, 96 Stat. 1538, which related to exemption from Statedisclosure requirements, was transferred to section 1098g of this title.
 

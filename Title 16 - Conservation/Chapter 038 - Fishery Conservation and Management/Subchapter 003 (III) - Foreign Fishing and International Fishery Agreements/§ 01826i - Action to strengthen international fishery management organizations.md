@@ -26,7 +26,7 @@ The Secretary, in consultation with the Secretary of State, and in cooperation w
 
 &emsp;(3) seeking to enter into international agreements that require measures for the conservation of sharks, including measures to prohibit removal of any of the fins of a shark (including the tail) and discarding the carcass of the shark at sea, that are comparable to those of the United States, taking into account different conditions; and
 
-&emsp;(4) urging other nations at bilateral, regional, and international levels, including the Convention on International Trade in Endangered Species of Fauna and Flora and theWorld Trade Organization to take all steps necessary, consistent with international law, to adopt measures and policies that will prevent fish or other living marine resources harvested by vessels engaged in illegal, unreported, or unregulated fishing from being traded or imported into their nation or territories.
+&emsp;(4) urging other nations at bilateral, regional, and international levels, including the Convention on International Trade in Endangered Species of Fauna and Flora and the World Trade Organization to take all steps necessary, consistent with international law, to adopt measures and policies that will prevent fish or other living marine resources harvested by vessels engaged in illegal, unreported, or unregulated fishing from being traded or imported into their nation or territories.
 
 (Pub. L. 104–43, title VI, §608, as added Pub. L. 109–479, title IV, §403(a), Jan. 12, 2007, 120 Stat. 3627; amended Pub. L. 111–348, title I, §102(a), Jan. 4, 2011, 124 Stat. 3668.)
 

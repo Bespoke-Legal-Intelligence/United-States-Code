@@ -24,7 +24,7 @@
 
 #### (2) Additional statement
 
-&emsp;In research carried out under subsection (a) of this section, human fetal tissue may be used only if the attending physician with respect to obtaining the tissue from the woman involved makes a statement, made in writing and signed by the physician, declaring that—
+&emsp;In research carried out under subsection (a) of this section, human fetal tissue may beused only if the attending physician with respect to obtaining the tissue from the woman involved makes a statement, made in writing and signed by the physician, declaring that—
 
 &emsp;&emsp;(A) in the case of tissue obtained pursuant to an induced abortion—
 

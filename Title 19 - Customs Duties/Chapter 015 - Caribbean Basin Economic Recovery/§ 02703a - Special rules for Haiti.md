@@ -50,7 +50,7 @@ In this section:
 
 #### (6) Knit-to-shape
 
-&emsp;A good is “knit-to-shape” if 50 percent or more of the exterior surface area of the good is formed by major parts that have been knitted or crocheted directly to the shape used in the good, with no consideration being given to patch pockets, applique�AE1s, or the like. Minor cutting, trimming, or sewing of those major parts shall not affect the determination of whether a good is “knit-to-shape.” <sup>1</sup>
+&emsp;A good is “knit-to-shape” if 50 percent or more of the exterior surface area of the goodis formed by major parts that have been knitted or crocheted directly to the shape used in the good, with no consideration being given to patch pockets, applique�AE1s, or the like. Minor cutting, trimming, or sewing of those major parts shall not affect the determination of whether a good is “knit-to-shape.” <sup>1</sup>
 
 #### (7) TAICNAR Program
 
@@ -122,7 +122,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) the direct costs of processing operations under subclause (II) of clause (i),
 
-> &emsp;&emsp;&emsp;&emsp;of all apparel articles of that producer or entity controlling production that arewholly assembled, or are knit-to-shape, in Haiti and are entered during the preceding 1-year period.
+> &emsp;&emsp;&emsp;&emsp;of all apparel articles of that producer or entity controlling production that are wholly assembled, or are knit-to-shape, in Haiti and are entered during the preceding 1-year period.
 
 #### (III) Deductions
 
@@ -202,7 +202,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(CC) section 3203(b)(3)(B)(i)(III) or (ii) of this title, or
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(DD) any other provision, relating to determining whether a textile or apparel article is an originating good eligible for preferential treatment, of a law that implements a free trade agreement that enters into force with respect to the United States,
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(DD) any other provision, relating to determining whether a textile or apparel article is an originating goodeligible for preferential treatment, of a law that implements a free trade agreement that enters into force with respect to the United States,
 
 > &emsp;&emsp;&emsp;&emsp;without regard to the source of the fabrics or yarns.
 
@@ -277,7 +277,7 @@ In this section:
 
 #### (iii) Limitation
 
-&emsp;&emsp;&emsp;Except as provided in paragraph (2A), the preferential treatment described in clause (i) shall be extended, in the 1-year period beginning October 1, 2008, and in each of the 11 succeeding 1-year periods, to not more than 70,000,000 square meter equivalents of apparel articles described in such clause.
+&emsp;&emsp;&emsp;Except as provided in paragraph (2A), the preferential treatment described in clause\(i) shall be extended, in the 1-year period beginning October 1, 2008, and in each of the 11 succeeding 1-year periods, to not more than 70,000,000 square meter equivalents of apparel articles described in such clause.
 
 #### (iv) Other preferential treatment not affected by quantitative limitation
 
@@ -385,7 +385,7 @@ In this section:
 
 #### (iii) Authority to reduce quantitative limitation
 
-&emsp;&emsp;&emsp;If, in any 1-year period with respect to which the President extends preferential treatment as described in this paragraph, the Commissioner reports to the President pursuant to clause (ii) regarding unlawful transshipments, the President—
+&emsp;&emsp;&emsp;If, in any 1-year period with respect to which the President extends preferentialtreatment as described in this paragraph, the Commissioner reports to the President pursuant to clause (ii) regarding unlawful transshipments, the President—
 
 &emsp;&emsp;&emsp;&emsp;(I) may modify the quantitative limitation under this paragraph as the President considers appropriate to account for such transshipments; and
 
@@ -584,7 +584,7 @@ In this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Any of the made-up textile articles described in clauses (ii) and (iii) that is wholly assembled, or knit-to-shape, in Haiti from any combination of fabrics, fabric components, components knit-to-shape, or yarns and is imported directly from Haitior the Dominican Republic shall enter the United States free of duty, without regard to the source of the fabric, fabric components, components knit-to-shape, or yarns from which the article is made.
+&emsp;&emsp;&emsp;Any of the made-up textile articles described in clauses (ii) and (iii) that is wholly assembled, or knit-to-shape, in Haiti from any combination of fabrics, fabric components, components knit-to-shape, or yarns and is imported directly from Haiti or the Dominican Republic shall enter the United States free of duty, without regard to the source of the fabric, fabric components, components knit-to-shape, or yarns from which the article is made.
 
 #### (ii) Articles described
 
@@ -711,13 +711,13 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;Apparel articles wholly assembled, or knit-to-shape, in Haiti from any combination of fabrics, fabric components, components knit-to-shape, or yarns and imported directly from Haiti or the Dominican Republic shall enter the United States free of duty, without regard to the source of the fabric, fabric components, components knit-to-shape, or yarns from which the articles are made, if such apparel articles are accompanied by an earned import allowance certificate that reflects the amount of credits equal to the total square meter equivalents of such apparel articles, in accordance with the program established under subparagraph (B). For purposes of determining the quantity of square meter equivalents under thissubparagraph, the conversion factors listed in “Correlation: U.S. Textile and Apparel Industry Category System with the Harmonized Tariff Schedule of the United States of America, 2008”, or its successor publications, of the United States Department of Commerce, shall apply.
+&emsp;&emsp;Apparel articles wholly assembled, or knit-to-shape, in Haiti from any combination of fabrics, fabric components, components knit-to-shape, or yarns and imported directly from Haiti or the Dominican Republic shall enter the United States free of duty, without regard to the source of the fabric, fabric components, components knit-to-shape, or yarns from which the articles are made, if such apparel articles are accompanied by an earned import allowance certificate that reflects the amount of credits equal to the total square meter equivalents of such apparel articles, in accordance with the program established under subparagraph (B). For purposes of determining the quantity of square meter equivalents under this subparagraph, the conversion factors listed in “Correlation: U.S. Textile and Apparel Industry Category System with the Harmonized Tariff Schedule of the United States of America, 2008”, or its successor publications, of the United States Department of Commerce, shall apply.
 
 #### (B) Earned import allowance program
 
 #### (i) Establishment
 
-&emsp;&emsp;&emsp;The Secretary of Commerce shall establish a program to provide earned import allowance certificates to any producer or entity controlling production for purposes of subparagraph (A), based on the elements described in clause (ii).
+&emsp;&emsp;&emsp;The Secretary of Commerce shall establish a program to provide earned importallowance certificates to any producer or entity controlling production for purposes of subparagraph (A), based on the elements described in clause (ii).
 
 #### (ii) Elements
 
@@ -759,11 +759,11 @@ In this section:
 
 #### (iv) Qualifying knit fabric defined
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “qualifying knit fabric” means fabric or knit-to-shape components wholly formed or knit-to-shape in any country or any combination of countries described inparagraph (1)(B)(iii), from yarns wholly formed in the United States, except that—
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “qualifying knit fabric” means fabric or knit-to-shape components wholly formed or knit-to-shape in any country or any combination of countries described in paragraph (1)(B)(iii), from yarns wholly formed in the United States, except that—
 
 &emsp;&emsp;&emsp;&emsp;(I) fabric or knit-to-shape components otherwise eligible as qualifying knit fabric shall not be ineligible as qualifying knit fabric because the fabric or knit-to-shape components contain nylon filament yarn to which section 2703(b)(2)(A)(vii)(IV) of this title applies;
 
-&emsp;&emsp;&emsp;&emsp;(II) fabric or knit-to-shape components that would otherwise be ineligible as qualifying knit fabric because the fabric or knit-to-shape components contain yarns not wholly formed in the United States shall not be ineligible as qualifying knit fabric if the total weight of all such yarns is not more than 10 percent of the total weight of the fabric or knit-to-shape components; and
+&emsp;&emsp;&emsp;&emsp;(II) fabric or knit-to-shape components that would otherwise be ineligible asqualifying knit fabric because the fabric or knit-to-shape components contain yarns not wholly formed in the United States shall not be ineligible as qualifying knit fabric if the total weight of all such yarns is not more than 10 percent of the total weight of the fabric or knit-to-shape components; and
 
 &emsp;&emsp;&emsp;&emsp;(III) fabric or knit-to-shape components otherwise eligible as qualifying knit fabric shall not be ineligible as qualifying knit fabric because the fabric or knit-to-shape components contain yarns covered by clause (i) or (ii) of paragraph (5)(A).
 
@@ -837,7 +837,7 @@ In this section:
 
 &emsp;&emsp;(A) has established, or is making continual progress toward establishing—
 
-&emsp;&emsp;&emsp;(i) a market-based economy that protects private property rights, incorporates an open rules-based trading system, and minimizes government interference in the economy through measures such as price controls, subsidies, and government ownership of economic assets;
+&emsp;&emsp;&emsp;(i) a market-based economy that protects private property rights, incorporates an open rules-based trading system, andminimizes government interference in the economy through measures such as price controls, subsidies, and government ownership of economic assets;
 
 &emsp;&emsp;&emsp;(ii) the rule of law, political pluralism, and the right to due process, a fair trial, and equal protection under the law;
 
@@ -973,7 +973,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(v) conduct prompt follow-up site visits to the facilities of the producer to assess progress on remediation of any deficiencies identified under clause (iii); and
 
-&emsp;&emsp;&emsp;(vi) provide training to workers and management of the producer, and where appropriate, to other persons or entities, to promote compliance with subparagraph (B).
+&emsp;&emsp;&emsp;(vi) provide training to workers and management of the producer, and whereappropriate, to other persons or entities, to promote compliance with subparagraph (B).
 
 #### (D) Biannual report
 
@@ -1029,11 +1029,11 @@ In this section:
 
 #### (iii) Reinstating preferential treatment
 
-&emsp;&emsp;&emsp;If the President, after withdrawing, suspending, or limiting the application of preferential treatment under clause (ii) to articles of a producer, determines that such producer is complying with core laborstandards and with the labor laws of Haiti that directly relate to and are consistent with core labor standards, the President shall reinstate the application of preferential treatment under subsection (b) to the articles of the producer.
+&emsp;&emsp;&emsp;If the President, after withdrawing, suspending, or limiting the application of preferential treatment under clause (ii) to articles of a producer, determines that such producer is complying with core labor standards and with the labor laws of Haiti that directly relate to and are consistent with core labor standards, the President shall reinstate the application of preferential treatment under subsection (b) to the articles of the producer.
 
 #### (iv) Consideration of reports
 
-&emsp;&emsp;&emsp;In making the identification under clause (i) and the determination under clause (iii), the President shall consider the reports made available under paragraph (3)(D).
+&emsp;&emsp;&emsp;In making the identification under clause (i) and the determination underclause (iii), the President shall consider the reports made available under paragraph (3)(D).
 
 #### (5) Reports by the President
 
@@ -1095,7 +1095,7 @@ The President shall issue regulations to carry out this section not later than 1
 
 Except as provided in subsection (b)(1), the duty-free treatment provided under this section shall remain in effect until September 30, 2020.
 
-(Pub. L. 98–67, title II, §213A, as added Pub. L. 109–432, div. D, title V, §5002(a), Dec. 20, 2006, 120 Stat. 3181; amended Pub. L. 110–234, title XV, §§15402–15405, May 22, 2008, 122 Stat. 1527–1545; Pub. L. 110–246, §4(a), title XV, §§15402–15405, June 18, 2008, 122 Stat. 1664, 2289–2307; Pub. L. 110–436, §7, Oct. 16, 2008, 122 Stat. 4981; Pub. L. 111–171, §§3(2)–8, May 24, 2010, 124 Stat. 1195–1205.)
+(Pub. L. 98–67, title II, §213A, as added Pub. L. 109–432, div. D, title V, §5002(a), Dec. 20, 2006, 120 Stat. 3181; amended Pub. L. 110–234, title XV, §§15402–15405, May 22, 2008, 122 Stat. 1527–1545;Pub. L. 110–246, §4(a), title XV, §§15402–15405, June 18, 2008, 122 Stat. 1664, 2289–2307; Pub. L. 110–436, §7, Oct. 16, 2008, 122 Stat. 4981; Pub. L. 111–171, §§3(2)–8, May 24, 2010, 124 Stat. 1195–1205.)
 
 #### References in Text
 
@@ -1171,9 +1171,9 @@ Subsec. (b). Pub. L. 110–246, §15402(a)(5), (b), (c), as amended by Pub. L. 1
 
 Pub. L. 110–246, §15402(a)(4), as amended by Pub. L. 110–436, §7(1), redesignated par. (3) as subpar. (C) of par. (1), realigned margins, substituted “subparagraph (A)” for “paragraph (1)” in two places, in table substituted “1.25 percent” for “1.5 percent” during the third applicable 1-year period, “1.25 percent” for “1.75 percent” during the fourth applicable 1-year period, and “1.25 percent” for “2 percent” during the fifth applicable 1-year period.
 
-Pub. L. 110–246, §15402(a)(3), as amended by Pub. L. 110–436, §7(1), redesignated par. (2) as subpar. (B) of par. (1), redesignated former subpars. as cls., former cls. as subcls., former subcls. as items, and former items as subitems, realigned margins, made conforming changes to references in text, in par. (1)(B)(iii)(II) substituted “that enters into force thereafter” for “that enters into force under the Bipartisan Trade Promotion Authority Act of 2002 (19 U.S.C. 3801 et seq.)”, amended par. (1)(B)(iv)(IV) generally, in par. (1)(B)(vi) substituted “U.S. Customs and Border Protection” for “The Bureau of Customs and Border Protection” in subcl. (I) and for “the Bureau of Customs and Border Protection” in subcl. (II) and in two places in subcl.\(III), and in par. (1)(B)(vii)(I)(bb)(DD) substituted “with respect to the United States” for “under the Bipartisan Trade Promotion Authority Act of 2002”.
+Pub. L. 110–246, §15402(a)(3), as amended by Pub. L. 110–436, §7(1), redesignated par. (2) as subpar. (B) of par. (1), redesignated former subpars. as cls., former cls. as subcls., former subcls. as items, and former items as subitems, realigned margins, made conforming changes to references in text, in par. (1)(B)(iii)(II) substituted “that enters into force thereafter” for “that enters into force under the Bipartisan Trade Promotion Authority Act of 2002 (19 U.S.C. 3801 et seq.)”, amended par. (1)(B)(iv)(IV) generally, in par. (1)(B)(vi) substituted “U.S. Customs and Border Protection” for “The Bureau of Customs and Border Protection” in subcl. (I) and for “the Bureau of Customs and Border Protection” in subcl. (II) and in two places in subcl. (III), and in par. (1)(B)(vii)(I)(bb)(DD) substituted “with respect to the United States” for “under the Bipartisan Trade Promotion Authority Act of 2002”.
 
-Pub. L. 110–246, §15402(a)(2), as amended by Pub. L. 110–436, §7(1), amended par. (1) generally. Prior to amendment, text read as follows: “In addition to any other preferential treatment under this chapter, apparel articles described in paragraph (2) of a producer or entity controlling production that are imported directly from Haiti shall enter the United States free of duty during an applicable 1-year period, subject to the limitations set forth in paragraphs (2) and (3), if Haiti has met the requirements of subsections (d) and (e).”
+Pub. L. 110–246, §15402(a)(2), as amended by Pub. L. 110–436, §7(1), amended par. (1) generally. Prior to amendment, text read as follows: “In addition to any other preferential treatment under this chapter, apparel articles described in paragraph (2) of a producer or entity controlling production that are imported directly from Haiti shall enter the United States free of duty during an applicable 1-year period, subject to thelimitations set forth in paragraphs (2) and (3), if Haiti has met the requirements of subsections (d) and (e).”
 
 Pub. L. 110–246, §15402(a)(1), as amended by Pub. L. 110–436, §7(1), substituted “Apparel and other textile articles” for “Apparel articles” in heading.
 
@@ -1251,7 +1251,7 @@ Pub. L. 111–171, §2, May 24, 2010, 124 Stat. 1194, provided that: “Congress
 
 &emsp;“(7) The Port-au-Prince seaport that had served the apparel trade has been badly damaged. And extensive damage to roads has made it difficult to transport apparel to the Dominican Republic for shipment from ports in that country.
 
-&emsp;“(8) According to estimates by the Department of Commerce, imports of apparel articles from Haiti to the United States in 2010 have decreased by 43 percent as compared to the same period in 2009.
+&emsp;“(8) According to estimates by the Department of Commerce, imports of apparel articles from Haiti tothe United States in 2010 have decreased by 43 percent as compared to the same period in 2009.
 
 &emsp;“(9) The earthquake has increased significantly the costs and uncertainty of doing business in Haiti. A strong and unequivocal commitment from the United States is needed to help Haiti offset these costs and preserve the gains made under United States trade preference programs, and to encourage buyers and investors to stand with Haiti through this crisis.”
 

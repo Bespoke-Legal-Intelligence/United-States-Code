@@ -30,7 +30,7 @@ The amendment to 5 U.S.C. 5317 conforms to the style of title 5.
 
 #### Amendments
 
-1966—Pub. L. 89–670 increased from thirty to thirty-four the number of additional level IV and V positions authorized when necessary.
+<b>1966</b>—Pub. L. 89–670 increased from thirty to thirty-four the number of additional level IV and V positions authorized when necessary.
 
 #### Effective Date of 1966 Amendment
 
@@ -46,7 +46,7 @@ Ex. Ord. No. 11195, Jan. 30, 1965, 30 F.R. 1169, which placed certain positions 
 
 #### Executive Order No. 11861
 
-Ex. Ord. 11861, May 21, 1975, 40 F.R. 22531, as amended by Ex. Ord. No. 11864, June 13, 1975, 40 F.R. 25579; Ex.Ord. No. 11872, July 21, 1975, 40 F.R. 30619; Ex. Ord. No. 11877, Sept. 2, 1975, 40 F.R. 40797; Ex. Ord. No. 11885, Oct. 15, 1975, 40 F.R. 48491; Ex. Ord. No. 11893, Dec. 31, 1975, 41 F.R. 1040; Ex. Ord. No. 11898, Jan. 14, 1976, 41 F.R. 2365; Ex. Ord. No. 11908, Mar. 18, 1976, 41 F.R. 11805; Ex. Ord. No. 11927, July 22, 1976, 41 F.R. 30583; Ex. Ord. No. 11976, Mar. 11, 1977, 42 F.R. 14081; Ex. Ord. No. 11983, May 4, 1977, 42 F.R. 23127; Ex. Ord. No. 11986, May 20, 1977, 42 F.R. 26407; Ex. Ord. No. 11995, June 8, 1977, 42 F.R. 29841; Ex. Ord. No. 11999, June 27, 1977, 42 F.R. 33255; Ex. Ord. No. 12025, Dec. 1, 1977, 42 F.R. 61447; Ex. Ord. No. 12035, Jan. 20, 1978, 43 F.R. 3073; Ex. Ord. No. 12060, May 15, 1978, 43 F.R. 21315; Ex. Ord. No. 12069, June 30, 1978, 43 F.R. 28973, which related to the placement of certain positions in levels IV and V, was revoked by Ex. Ord. No. 12076, Aug. 18, 1978, 43 F.R. 37161, formerly set out below.
+Ex. Ord. 11861, May 21, 1975, 40 F.R. 22531, as amended by Ex. Ord. No. 11864, June 13, 1975, 40 F.R. 25579; Ex. Ord. No. 11872, July 21, 1975, 40 F.R. 30619; Ex. Ord. No. 11877, Sept. 2, 1975, 40 F.R. 40797; Ex. Ord. No. 11885, Oct. 15, 1975, 40 F.R. 48491; Ex. Ord. No. 11893, Dec. 31, 1975, 41 F.R. 1040; Ex. Ord. No. 11898, Jan. 14, 1976, 41 F.R. 2365; Ex. Ord. No. 11908, Mar. 18, 1976, 41 F.R. 11805; Ex. Ord. No. 11927, July 22, 1976, 41 F.R. 30583; Ex. Ord. No. 11976, Mar. 11, 1977, 42 F.R. 14081; Ex. Ord. No. 11983, May 4, 1977, 42 F.R. 23127; Ex. Ord. No. 11986, May 20, 1977, 42 F.R. 26407; Ex. Ord. No. 11995, June 8, 1977, 42 F.R. 29841; Ex. Ord. No. 11999, June 27, 1977, 42 F.R. 33255; Ex. Ord. No. 12025, Dec. 1, 1977, 42 F.R. 61447; Ex. Ord. No. 12035, Jan. 20, 1978, 43 F.R. 3073; Ex. Ord. No. 12060, May 15, 1978, 43 F.R. 21315; Ex. Ord. No. 12069, June 30, 1978, 43 F.R. 28973, which related to the placement of certain positions in levels IV and V, was revoked by Ex. Ord. No. 12076, Aug. 18, 1978, 43 F.R. 37161, formerly set out below.
 
 #### Executive Order No. 11864
 
@@ -54,7 +54,7 @@ Ex. Ord. No. 11864, June 13, 1975, 40 F.R. 25579, which placed the position of A
 
 #### Executive Order No. 11995
 
-Ex. Ord. No. 11995, June 8, 1977, 42 F.R. 29841, which placed the position of Executive Director, Federal Personnel Management Systems Study, United States Civil Service Commission, in level V of the Executive Schedule, was revoked by Ex. Ord. No. 12060, May 15, 1978, 43 F.R. 21315.
+Ex. Ord. No. 11995, June 8, 1977, 42 F.R. 29841, which placed the position of Executive Director, Federal Personnel Management Systems Study, United StatesCivil Service Commission, in level V of the Executive Schedule, was revoked by Ex. Ord. No. 12060, May 15, 1978, 43 F.R. 21315.
 
 #### Executive Order No. 12076
 

@@ -28,7 +28,7 @@
 
 (2) In reporting to Congress under this subsection, the Secretary shall prepare a complete assessment of public transportation facilities in the United States. The Secretary also shall assess future needs for those facilities and estimate future capital requirements and operation and maintenance requirements for one-year, 5-year, and 10-year periods at specified levels of service.
 
-(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2422; Pub. L. 98–216, §2(1)(A), Feb. 14, 1984, 98 Stat. 4;Pub. L. 104–66, title I, §1121(h), Dec. 21, 1995, 109 Stat. 724; Pub. L. 105–362, title XV, §1502(c), Nov. 10, 1998, 112 Stat. 3295.)
+(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2422; Pub. L. 98–216, §2(1)(A), Feb. 14, 1984, 98 Stat. 4; Pub. L. 104–66, title I, §1121(h), Dec. 21, 1995, 109 Stat. 724; Pub. L. 105–362, title XV, §1502(c), Nov. 10, 1998, 112 Stat. 3295.)
 
 Historical and Revision Notes
 

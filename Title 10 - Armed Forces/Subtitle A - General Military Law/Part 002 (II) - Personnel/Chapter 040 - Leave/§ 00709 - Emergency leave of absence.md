@@ -16,7 +16,7 @@ Limitations.—An emergency leave of absence under this section—
 
 (c)
 
-Qualifying Emergency.—In this section, the term “qualifying emergency”, with respect to a member of the armed forces, means a circumstance that—
+Qualifying Emergency.—In this section, the term “qualifying emergency”, with respectto a member of the armed forces, means a circumstance that—
 
 &emsp;(1) is due to—
 

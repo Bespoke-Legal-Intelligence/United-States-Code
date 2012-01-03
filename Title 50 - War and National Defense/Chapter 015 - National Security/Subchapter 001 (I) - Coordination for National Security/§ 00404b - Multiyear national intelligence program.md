@@ -34,7 +34,7 @@ Subsec. (a). Pub. L. 111–259, §805(a), (b)(1), struck out “foreign” after
 
 Subsec. (b). Pub. L. 111–259, §805(b)(2), inserted “of National Intelligence” after “Director”.
 
-Subsec. (c). Pub. L. 111–259, §805(b)(1), (c), substituted “Director of National Intelligence” for “Director ofCentral Intelligence” and “future-years defense program submitted pursuant to section 221 of title 10” for “multiyear defense program submitted pursuant to section 114a of title 10”.
+Subsec. (c). Pub. L. 111–259, §805(b)(1), (c), substituted “Director of National Intelligence” for “Director of Central Intelligence” and “future-years defense program submitted pursuant to section 221 of title 10” for “multiyear defense program submitted pursuant to section 114a of title 10”.
 
 <b>1999</b>—Subsec. (d)(2). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
 

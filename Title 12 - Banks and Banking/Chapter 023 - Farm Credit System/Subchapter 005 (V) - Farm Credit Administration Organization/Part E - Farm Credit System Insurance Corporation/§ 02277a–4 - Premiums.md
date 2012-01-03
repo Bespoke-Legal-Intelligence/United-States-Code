@@ -130,7 +130,7 @@ For the purpose of subsections (a) and (c), the principal outstanding on all loa
 
 &emsp;&emsp;&emsp;(i) subject to subparagraph (D), pay to each insured System bank, in a manner determined by the Corporation, an amount equal to the balance in the Allocated Insurance Reserves Account of the System bank; and
 
-&emsp;&emsp;&emsp;(ii) subject to subparagraphs (C) and (E), pay to each System bank and association holding Financial Assistance Corporation stock a proportionate share, determinedby dividing the number of shares of Financial Assistance Corporation stock held by the institution by the total number of shares of Financial Assistance Corporation stock outstanding at the time of the termination of the Financial Assistance Corporation, of the balance in the Allocated Insurance Reserves Account established under paragraph (1)(B).
+&emsp;&emsp;&emsp;(ii) subject to subparagraphs (C) and (E), pay to each System bank and association holding Financial Assistance Corporation stock a proportionate share, determined by dividing the number of shares of Financial Assistance Corporation stock held by the institution by the total number of shares of Financial Assistance Corporation stock outstanding at the time of the termination of the Financial Assistance Corporation, of the balance in the Allocated Insurance Reserves Account established under paragraph (1)(B).
 
 #### (B) Authority to eliminate or reduce payments
 
@@ -166,11 +166,11 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (a)(1). Pub. L. 110–246, §5404(a)(1)(A), in introductory provisions, substituted “paragraph (3)” for “paragraph (2)” and struck out “annual” before “premium”.
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–246, §5404(a)(1)(A), in introductory provisions, substituted “paragraph (3)” for “paragraph (2)” and struck out “annual” before “premium”.
 
 Subsec. (a)(1)(A) to (D). Pub. L. 110–246, §5404(a)(1)(B), added subpars. (A) and (B) and struck out former subpars. (A) to (D) which described how to calculate the annual premium due from an insured System bank.
 
-Subsec. (a)(2) to (4). Pub. L. 110–246, §5404(a)(2)–(6), added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, in par. (3), struck out “annual” before “premium”, in par. (4), inserted “or investments” after “loans” in heading and, in introductory provisions, substituted “In this section, the term ‘government-guaranteed’, when applied to a loan or an investment, means a loan, credit, or investment, or portion of a loan, credit, or investment, that is guaranteed—” for “As used in this section and section 2020(b) of this title, the term ‘government-guaranteed loans’ means loans or credits, or portions of loans or credits, that are guaranteed—”, and struck out former par. (4). Prior to amendment, text read as follows: “In this section and sections 2020(b) and 2277a–5(a) of this title, the term ‘Government Sponsored Enterprise-guaranteed loan’ means a loan or credit, or portion of a loan or credit, that is guaranteed by an entity that is chartered by Congress to serve a public purpose and the debt obligations of which are not explicitly guaranteed by the United States, including the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, the Federal Home Loan Bank System, and the Federal Agricultural Mortgage Corporation, but not including any other institution of the Farm Credit System.”
+Subsec. (a)(2) to (4). Pub. L. 110–246, §5404(a)(2)–(6), added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, in par. (3), struck out “annual” before “premium”, in par. (4), inserted “or investments” after “loans” in heading and, in introductory provisions, substituted “In this section, the term ‘government-guaranteed’, when applied to a loan or an investment, means a loan, credit, or investment, or portion of a loan, credit, or investment, that is guaranteed—” for “As used in this section and section 2020(b) of this title, the term ‘government-guaranteed loans’ means loans or credits, or portions of loans or credits, that are guaranteed—”, and struck out former par. (4).Prior to amendment, text read as follows: “In this section and sections 2020(b) and 2277a–5(a) of this title, the term ‘Government Sponsored Enterprise-guaranteed loan’ means a loan or credit, or portion of a loan or credit, that is guaranteed by an entity that is chartered by Congress to serve a public purpose and the debt obligations of which are not explicitly guaranteed by the United States, including the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, the Federal Home Loan Bank System, and the Federal Agricultural Mortgage Corporation, but not including any other institution of the Farm Credit System.”
 
 Subsec. (b). Pub. L. 110–246, §5404(b), struck out “annual” before “premium”.
 
@@ -178,7 +178,7 @@ Subsec. (c). Pub. L. 110–246, §5404(c), designated existing provisions as par
 
 Subsec. (d). Pub. L. 110–246, §5404(d)(1), (2), in heading, substituted “loan and investment amounts” for “principal outstanding” and, in introductory provisions, substituted “For the purpose of subsections (a) and (c), the principal outstanding on all loans made by an insured System bank, and the amount outstanding on all investments made by an insured System bank, shall be determined based on—” for “For the purpose of subsections (a), (c), and (e) of this section, the principal outstanding on all loans made by an insured System bank shall be determined based on all loans made—”.
 
-Subsec. (d)(1) to (3). Pub. L. 110–246, §5404(d)(3), (4), in pars. (1) to (3), inserted “all loans or investmentsmade” after par. designation and, in pars. (1) and (2), inserted “or investments” after “such loans”.
+Subsec. (d)(1) to (3). Pub. L. 110–246, §5404(d)(3), (4), in pars. (1) to (3), inserted “all loans or investments made” after par. designation and, in pars. (1) and (2), inserted “or investments” after “such loans”.
 
 Subsec. (e)(3). Pub. L. 110–246, §5404(e)(1), substituted “the secure base amount” for “the average secure base amount for the calendar year (as calculated on an average daily balance basis)”.
 
@@ -204,7 +204,7 @@ Subsec. (e)(6)(C)(ii). Pub. L. 110–246, §5404(e)(3)(B)(ii), added cl. (ii) an
 
 Subsec. (e)(6)(F). Pub. L. 110–246, §5404(e)(3)(C), struck out subpar. (F) which related to determination of amount of initial payment made to each payee under subsec. (e)(6)(A) of this section.
 
-2002—Subsec. (a)(1)(A). Pub. L. 107–171, §5403(a)(1)(A)(i)(I), substituted “loans provided for in subparagraphs (C) and (D)” for “government-guaranteed loans provided for in subparagraph (C)”.
+<b>2002</b>—Subsec. (a)(1)(A). Pub. L. 107–171, §5403(a)(1)(A)(i)(I), substituted “loans provided for in subparagraphs (C) and (D)” for “government-guaranteed loans provided for in subparagraph (C)”.
 
 Subsec. (a)(1)(D). Pub. L. 107–171, §5403(a)(1)(A)(i)(II)–(IV), added subpar. (D).
 
@@ -212,7 +212,7 @@ Subsec. (a)(4). Pub. L. 107–171, §5403(a)(1)(A)(ii), added par. (4).
 
 Subsec. (e)(4)(B). Pub. L. 107–171, §5403(a)(1)(B), substituted “loans described in subparagraph (C) or (D) of subsection (a)(1) of this section” for “government-guaranteed loans described in subsection (a)(1)(C) of this section”.
 
-1996—Subsec. (a). Pub. L. 104–105, §215(a)(1)(A), substituted “If at the end of any calendar year the aggregate of amounts in the Farm Credit Insurance Fund does not exceed the secure base amount, subject to paragraph (2), the annual premium due from any insured System bank for the calendar year” for “Until the aggregate of amounts in the Farm Credit Insurance Fund exceeds the secure base amount, the annual premium due from any insured System bank for any calendar year”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–105, §215(a)(1)(A), substituted “If at the end of any calendar year the aggregate of amounts in the Farm Credit Insurance Fund does not exceed the secure base amount, subject to paragraph (2), the annual premium due from any insured System bank for the calendar year” for “Until the aggregate of amounts in the Farm Credit Insurance Fund exceeds the secure base amount, the annual premium due from any insured System bank for any calendar year”.
 
 Subsec. (a)(2), (3). Pub. L. 104–105, §215(a)(1)(B), (C), added par. (2) and redesignated former par. (2) as (3).
 
@@ -222,7 +222,7 @@ Subsec. (d). Pub. L. 104–105, §215(c), in introductory provisions, substitute
 
 Subsec. (e). Pub. L. 104–105, §215(b), added subsec. (e).
 
-1989—Subsec. (a). Pub. L. 101–220, §6(a)(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “Until the aggregate of amounts in the Farm Credit Insurance Fund exceeds the secure base amount, the annual premium due from any insured System bank for any calendar year shall be equal to the sum of—
+<b>1989</b>—Subsec. (a). Pub. L. 101–220, §6(a)(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “Until the aggregate of amounts in the Farm Credit Insurance Fund exceeds the secure base amount, the annual premium due from any insured System bank for any calendar year shall be equal to the sum of—
 
 &emsp;“(1) the annual average principal outstanding for such year on loans made by the bank that are in accrual status, multiplied by 0.0015; and
 
@@ -230,11 +230,11 @@ Subsec. (e). Pub. L. 104–105, §215(b), added subsec. (e).
 
 Subsec. (b). Pub. L. 101–220, §6(a)(2), inserted “, as determined under subsection (a) of this section,” after “calendar year”.
 
-Subsec. (c). Pub. L. 101–220, §6(a)(3), inserted “(adjusted downward to exclude an amount equal to the sum of (1) 90 percent of the guaranteed portions of principal outstanding on Federal Government-guaranteed loans in accrual status made by such banks and (2) 80 percent of the guaranteed portions of principal outstanding on State government-guaranteed loans in accrual status made by such banks, as determined by the Corporation)” after “such time”.
+Subsec. (c). Pub. L. 101–220, §6(a)(3), inserted “(adjusted downward to exclude an amount equal to the sum of (1) 90 percent of the guaranteed portions of principal outstanding on Federal Government-guaranteedloans in accrual status made by such banks and (2) 80 percent of the guaranteed portions of principal outstanding on State government-guaranteed loans in accrual status made by such banks, as determined by the Corporation)” after “such time”.
 
 Subsec. (d). Pub. L. 101–220, §6(a)(4), in introductory provisions, substituted “subsections (a) and (c) of this section” for “subsection (a) of this section” and struck out “intermediate term” after “outstanding on all”, inserted par. (1), and struck out former par. (1) which read as follows: “by the production credit associations in the district in which such bank is located;”.
 
-1988—Subsec. (d). Pub. L. 100–399, §302(c), substituted in introductory provisions “intermediate term loans made by a Farm Credit Bank” for “loans made by a Federal intermediate credit bank”.
+<b>1988</b>—Subsec. (d). Pub. L. 100–399, §302(c), substituted in introductory provisions “intermediate term loans made by a Farm Credit Bank” for “loans made by a Federal intermediate credit bank”.
 
 Subsec. (d)(2). Pub. L. 100–399, §302(d), (e), substituted “section 2015(b)(1)(B) of this title” for “section 2074(a)(2) of this title” and “Farm Credit Bank” for “Federal intermediate credit bank”.
 

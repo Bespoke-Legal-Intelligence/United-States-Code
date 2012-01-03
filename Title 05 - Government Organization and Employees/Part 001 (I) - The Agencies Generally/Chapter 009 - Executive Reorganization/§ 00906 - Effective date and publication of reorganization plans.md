@@ -42,11 +42,11 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1984—Subsec. (a). Pub. L. 98–614, §3(a)(1), struck out “otherwise” before “provided under subsection (c)”, substituted “shall be” for “is” before “effective”, and substituted “upon approval by the President of a resolution (as defined in section 909) with respect to such plan, if such resolution is passed by the House of Representatives and the Senate, within the first period of 90 calendar days of continuous session of Congress after the date on which the plan is transmitted to Congress. Failure of either House to act upon such resolution by the end of such period shall be the same as disapproval of the resolution” for “at the end of the first period of sixty calendar days of continuous session of Congress after the date on which the plan is transmitted to it unless, between the date of transmittal and the end of the sixty-day period, either House passes a resolution stating in substance that the House does not favor the reorganization plan.”
+<b>1984</b>—Subsec. (a). Pub. L. 98–614, §3(a)(1), struck out “otherwise” before “provided under subsection (c)”, substituted “shall be” for “is” before “effective”, and substituted “upon approval by the President of a resolution (as defined in section 909) with respect to such plan, if such resolution is passed by the House of Representatives and the Senate, within the first period of 90 calendar days of continuous session of Congress after the date on which the plan is transmitted to Congress. Failure of either House to act upon such resolution by the end of such period shall be the same as disapproval of the resolution” for “at the end of the first period of sixty calendar days of continuous session of Congress after the date on which the plan is transmitted to it unless, between the date of transmittal and the end of the sixty-day period, either House passes a resolution stating in substance that the House does not favor the reorganization plan.”
 
 Subsec. (c). Pub. L. 98–614, §3(a)(2), struck out before period at end “or, if both Houses of Congress have defeated a resolution of disapproval, may be effective at a time earlier than the expiration of the sixty-day period required by subsection (a)”.
 
-1977—Subsec. (a). Pub. L. 95–17 substituted “sixty” for “60” in two places.
+<b>1977</b>—Subsec. (a). Pub. L. 95–17 substituted “sixty” for “60” in two places.
 
 Subsec. (b). Pub. L. 95–17 substituted in provisions preceding par. (1) “this chapter” for “subsection (a) of this section” and in par. (2) “any period of time in which Congress is in continuous session” for “the 60-day period”.
 

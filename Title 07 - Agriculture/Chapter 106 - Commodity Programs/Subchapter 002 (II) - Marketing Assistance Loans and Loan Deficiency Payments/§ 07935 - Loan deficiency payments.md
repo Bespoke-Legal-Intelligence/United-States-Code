@@ -12,7 +12,7 @@
 
 #### (b) Computation
 
-A loan deficiency payment for a loan commodity or commodity referred to in subsection (a)(2)of this section shall be computed by multiplying—
+A loan deficiency payment for a loan commodity or commodity referred to in subsection (a)(2) of this section shall be computed by multiplying—
 
 &emsp;(1) the payment rate determined under subsection (c) of this section for the commodity; by
 

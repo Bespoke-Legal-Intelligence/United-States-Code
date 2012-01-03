@@ -58,7 +58,7 @@ In the case of failure by an employee to report to his employer on the date and 
 
 #### (B) Managers
 
-&emsp;&emsp;The Secretary may make written demand on an organization or trust failing to file under subparagraph (A) specifying therein a reasonable future date by which such filing shall be made for purposes of this subparagraph. If such filing is not made on or before such date, there shall be paid by the person failing so to file $10 for each day after theexpiration of the time specified in the written demand during which such failure continues, but the total amount imposed under this subparagraph on all persons for failure to file any 1 return shall not exceed $5,000.
+&emsp;&emsp;The Secretary may make written demand on an organization or trust failing to file under subparagraph (A) specifying therein a reasonable future date by which such filing shall be made for purposes of this subparagraph. If such filing is not made on or before such date, there shall be paid by the person failing so to file $10 for each day after the expiration of the time specified in the written demand during which such failure continues, but the total amount imposed under this subparagraph on all persons for failure to file any 1 return shall not exceed $5,000.
 
 #### (C) Split-interest trusts
 
@@ -94,7 +94,7 @@ In the case of failure by an employee to report to his employer on the date and 
 
 #### (4) Reasonable cause exception
 
-&emsp;No penalty shall be imposed under this subsection with respect to any failure if it is shown that such failure is due to reasonable cause.
+&emsp;No penalty shall be imposed under this subsection with respect to any failure if it isshown that such failure is due to reasonable cause.
 
 #### (5) Other special rules
 
@@ -122,7 +122,7 @@ In the case of failure by an employee to report to his employer on the date and 
 
 #### (e) Information required in connection with certain plans of deferred compensation, etc.
 
-In the case of failure to file a return or statement required under section 6058 (relating to information required in connection with certain plans of deferred compensation), 6047 (relating to information relating to certain trusts and annuity and bond purchase plans), or 6039D (relating to returns and records with respect to certain fringe benefit plans) on the date and in the manner prescribed therefor (determined with regard to any extension of time for filing), unlessit is shown that such failure is due to reasonable cause, there shall be paid (on notice and demand by the Secretary and in the same manner as tax) by the person failing so to file, $25 for each day during which such failure continues, but the total amount imposed under this subsection on any person for failure to file any return shall not exceed $15,000. This subsection shall not apply to any return or statement which is an information return described in section 6724(d)(1)(C)(ii) or a payee statement described in section 6724(d)(2)(Y).
+In the case of failure to file a return or statement required under section 6058 (relating to information required in connection with certain plans of deferred compensation), 6047 (relating to information relating to certain trusts and annuity and bond purchase plans), or 6039D (relating to returns and records with respect to certain fringe benefit plans) on the date and in the manner prescribed therefor (determined with regard to any extension of time for filing), unless it is shown that such failure is due to reasonable cause, there shall be paid (on notice and demand by the Secretary and in the same manner as tax) by the person failing so to file, $25 for each day during which such failure continues, but the total amount imposed under this subsection on any person for failure to file any return shall not exceed $15,000. This subsection shall not apply to any return or statement which is an information return described in section 6724(d)(1)(C)(ii) or a payee statement described in section 6724(d)(2)(Y).
 
 #### (f) Returns required under section 6039C
 
@@ -150,7 +150,7 @@ In the case of failure to make a report required by section 219(f)(4) which cont
 
 #### (h) Failure to give notice to recipients of certain pension, etc., distributions
 
-In the case of each failure to provide notice as required by section 3405(e)(10)(B), at the time prescribed therefor, unless it is shown that such failure is due to reasonable cause and not to willful neglect, there shall be paid, on notice and demand of the Secretary and in the same manner as tax, by the person failing to provide such notice, an amount equal to $10 for each such failure, but the total amount imposed on such person for all such failures during any calendar year shall not exceed $5,000.
+In the case of each failure to provide notice as required by section 3405(e)(10)(B), at the timeprescribed therefor, unless it is shown that such failure is due to reasonable cause and not to willful neglect, there shall be paid, on notice and demand of the Secretary and in the same manner as tax, by the person failing to provide such notice, an amount equal to $10 for each such failure, but the total amount imposed on such person for all such failures during any calendar year shall not exceed $5,000.
 
 #### (i) Failure to give written explanation to recipients of certain qualifying rollover distributions
 
@@ -166,7 +166,7 @@ In the case of a failure to make a report required under section 1202(d)(1)(C) w
 
 #### (<i>l</i>) Failure to file return with respect to certain corporate transactions
 
-In the case of any failure to make a return required under section 6043(c) containing the information required by such section on the date prescribed therefor (determined with regard to any extension of time for filing), unless it is shown that such failure is due to reasonable cause, there shall be paid (on notice and demand by the Secretary and in the same manner as tax)by the person failing to file such return, an amount equal to $500 for each day during which such failure continues, but the total amount imposed under this subsection with respect to any return shall not exceed $100,000.
+In the case of any failure to make a return required under section 6043(c) containing the information required by such section on the date prescribed therefor (determined with regard to any extension of time for filing), unless it is shown that such failure is due to reasonable cause, there shall be paid (on notice and demand by the Secretary and in the same manner as tax) by the person failing to file such return, an amount equal to $500 for each day during which such failure continues, but the total amount imposed under this subsection with respect to any return shall not exceed $100,000.
 
 #### (m) Alcohol and tobacco taxes
 
@@ -176,7 +176,7 @@ In the case of any failure to make a return required under section 6043(c) conta
 
 #### Codification
 
-Sections 1201(b)(2) and 1223(d) of Pub. L. 109–280, which directed the amendment of section 6652 without specifying the act to be amended, were executed to this section, which is section 6652 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
+Sections 1201(b)(2) and 1223(d) of Pub. L. 109–280, which directed the amendment of section 6652 without specifying the act to be amended, were executed to thissection, which is section 6652 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 
 Pub. L. 101–140, §203(a)(1), amended this section to read as if the amendments made by section 1151(b) of Pub. L. 99–514 (enacting subsec. (<i>l</i>)) had not been enacted. Subsequent to enactment by Pub. L. 99–514, subsec. (<i>l</i>) was amended by Pub. L. 100–203, Pub. L. 100–647, and Pub. L. 101–239. See 1989, 1988, and 1987 Amendment notes below.
 
@@ -264,7 +264,7 @@ Pub. L. 99–514, §1810(f)(9)(C), struck out “etc.,” after “Returns” in
 
 Subsec. (g)(1). Pub. L. 99–514, §1810(f)(9)(A), in amending par. (1) generally, struck out “(A)” after “In the case of each failure”, and struck out “(B) to furnish a statement required by section 6039C(b)(3),” before “on the date required”.
 
-Subsec. (g)(3). Pub. L. 99–514, §1810(f)(9)(B), in amending par. (3) generally, designated former subpar. (B) of par. (3) as the entire paragraph, struck out former subpar. (A) setting a limitation of $25,000 with respect to each subsection for failure to meet the requirements of subsection (a) or (b) of section 6039C, struck out former subpar. (B) heading “For failure to meet requirements of section 6039C(c)” and in text substituted “requirements of section 6039C” for “requirements of subsection (c) of section 6039C” and inserted “(A)” before “$25,000” and “(B)” before “5 percent”.
+Subsec. (g)(3). Pub. L. 99–514, §1810(f)(9)(B), in amending par. (3) generally, designated former subpar. (B) of par. (3) as the entire paragraph, struck out former subpar. (A) setting a limitation of $25,000 with respect toeach subsection for failure to meet the requirements of subsection (a) or (b) of section 6039C, struck out former subpar. (B) heading “For failure to meet requirements of section 6039C(c)” and in text substituted “requirements of section 6039C” for “requirements of subsection (c) of section 6039C” and inserted “(A)” before “$25,000” and “(B)” before “5 percent”.
 
 Subsecs. (h), (i). Pub. L. 99–514, §1501(d)(1)(A)(i), redesignated subsecs. (i) and (j) as (h) and (i), respectively. Former subsec. (h) redesignated (g).
 
@@ -332,7 +332,7 @@ Subsecs. (h), (i). Pub. L. 97–34, §311(f), added subsec. (h) and redesignated
 
 <b>1980</b>—Subsec. (b). Pub. L. 96–223 inserted reference to statement required by section 6050C (relating to information regarding windfall profit tax on crude oil).
 
-Subsec. (d)(3). Pub. L. 96–603 substituted in heading “returns” for “reports” and in text “failure to comply” for “failure to file a report required under section 6056 (relating to annual reports by private foundations) or to comply”, “failing to meet such requirements” for “failing so to file or meet the publicity requirement”, and “failure with respect” for “failure to file or comply with the requirements of section 6104(d) with regard”.
+Subsec. (d)(3). Pub. L. 96–603 substituted in heading “returns” for “reports” and in text “failure to comply” for “failure to file a report required under section 6056\(relating to annual reports by private foundations) or to comply”, “failing to meet such requirements” for “failing so to file or meet the publicity requirement”, and “failure with respect” for “failure to file or comply with the requirements of section 6104(d) with regard”.
 
 Subsecs. (g), (h). Pub. L. 96–499 added subsec. (g) and redesignated former subsec. (g) as (h).
 
@@ -410,7 +410,7 @@ Amendment by Pub. L. 102–318 applicable, except as otherwise provided, to dist
 
 Amendment by section 7208(b)(2) of Pub. L. 101–239 applicable to transactions after Mar. 31, 1990, see section 7208(b)(4) of Pub. L. 101–239, set out as a note under section 6043 of this title.
 
-Amendment by Pub. L. 101–140 effective as if included in section 1151 of Pub. L. 99–514, see section 203(c) of Pub. L. 101–140, set out as a note under section 79 of this title.
+Amendment by Pub. L. 101–140 effective as if included in section 1151 of Pub. L. 99–514, see section 203(c) ofPub. L. 101–140, set out as a note under section 79 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -504,7 +504,7 @@ No withholding by reason of condensate provision.—No withholding of tax shall 
 
 #### Effective Date of 1982 Amendment
 
-Amendment by section 309(b)(2) of Pub. L. 97–248 applicable to amounts paid (or treated as paid) after Dec. 31, 1982, see section 309(c) of Pub. L. 97–248, set out as a note under section 6049 of this title.
+Amendment by section 309(b)(2) of Pub. L. 97–248 applicable to amounts paid (or treated as paid) after Dec.31, 1982, see section 309(c) of Pub. L. 97–248, set out as a note under section 6049 of this title.
 
 Section 315(d) of Pub. L. 97–248 provided that: “The amendments made by this section \[amending this section and section 6678 of this title\] shall apply with respect to returns or statements the due date for the filing of which (without regard to extensions) is after December 31, 1982.”
 

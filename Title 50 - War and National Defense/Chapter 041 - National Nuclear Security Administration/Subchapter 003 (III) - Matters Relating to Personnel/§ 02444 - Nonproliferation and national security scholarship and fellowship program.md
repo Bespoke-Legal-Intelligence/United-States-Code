@@ -50,7 +50,7 @@ An individual seeking a scholarship or fellowship under the program established 
 
 #### (2) Failure to repay
 
-&emsp;If an individual who received a scholarship or fellowship under the program established under this section is required to repay, pursuant to an agreement under paragraph (1), the total amount of educational assistance provided to such individual under such program, plus interest at the rate prescribed by paragraph (4), and fails to repay such amount, a sum equal to such amount (plus such interest) is recoverable by the United States Government from such individual or the estate of such individual by—
+&emsp;If an individual who received a scholarship or fellowship under the program established under this section is required to repay, pursuant to an agreement under paragraph (1), the total amount of educational assistance provided to such individual under such program, plus interest at the rate prescribed by paragraph (4), and fails to repay such amount, asum equal to such amount (plus such interest) is recoverable by the United States Government from such individual or the estate of such individual by—
 
 &emsp;&emsp;(A) in the case of an individual who is an employee of the United States Government, setoff against accrued pay, compensation, amount of retirement credit, or other amount due the employee from the Government; or
 
@@ -58,7 +58,7 @@ An individual seeking a scholarship or fellowship under the program established 
 
 #### (3) Waiver of repayment
 
-&emsp;The Administrator may waive, in whole or in part, repayment by an individual under this subsection if the Administrator determines that seeking recovery under paragraph (2)would be against equity and good conscience or would be contrary to the best interests of the United States.
+&emsp;The Administrator may waive, in whole or in part, repayment by an individual under this subsection if the Administrator determines that seeking recovery under paragraph (2) would be against equity and good conscience or would be contrary to the best interests of the United States.
 
 #### (4) Rate of interest
 

@@ -12,7 +12,7 @@ For purposes of this subtitle—
 
 #### (b) Change of accounting period without approval
 
-Notwithstanding section 442, an entity which has not engaged in any active trade or businessmay change its accounting period to a calendar year without the approval of the Secretary if such change is in connection with an election under section 856(c).
+Notwithstanding section 442, an entity which has not engaged in any active trade or business may change its accounting period to a calendar year without the approval of the Secretary if such change is in connection with an election under section 856(c).
 
 (Added Pub. L. 94–455, title XVI, §1604(i)(1), Oct. 4, 1976, 90 Stat. 1752, §860; renumbered §859 and amended Pub. L. 95–600, title III, §362(d)(6), title VII, §701(t)(1), Nov. 6, 1978, 92 Stat. 2852, 2911; Pub. L. 99–514, title VI, §661(c), Oct. 22, 1986, 100 Stat. 2300.)
 

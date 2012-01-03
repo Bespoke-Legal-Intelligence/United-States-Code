@@ -18,7 +18,7 @@ For purposes of this subtitle, if any person strips 1 or more coupons from a bon
 
 &emsp;&emsp;(A) the interest accrued on such bond while held by such person and before the time such coupon or bond was disposed of (to the extent such interest has not theretofore been included in such person's gross income), and
 
-&emsp;&emsp;(B) the accrued market discount on such bond determined as of the time such coupon or bond was disposed of (to the extent such discount has not theretofore been included in such person's gross income),
+&emsp;&emsp;(B) the accrued market discount on such bond determined as of the time such couponor bond was disposed of (to the extent such discount has not theretofore been included in such person's gross income),
 
 &emsp;(2) the basis of the bond and coupons shall be increased by the amount included in gross income under paragraph (1),
 
@@ -32,7 +32,7 @@ For purposes of this subtitle, if any person strips 1 or more coupons from a bon
 
 If a bond issued at any time with interest coupons—
 
-&emsp;(1) is purchased after August 16, 1954, and before January 1, 1958, and the purchaser doesnot receive all the coupons which first become payable more than 12 months after the date of the purchase, or
+&emsp;(1) is purchased after August 16, 1954, and before January 1, 1958, and the purchaser does not receive all the coupons which first become payable more than 12 months after the date of the purchase, or
 
 &emsp;(2) is purchased after December 31, 1957, and before July 2, 1982, and the purchaser does not receive all the coupons which first become payable after the date of the purchase,
 
@@ -102,7 +102,7 @@ For purposes of this section—
 
 #### (f) Treatment of stripped interests in bond and preferred stock funds, etc.
 
-In the case of an account or entity substantially all of the assets of which consist of bonds, preferred stock, or a combination thereof, the Secretary may by regulations provide that rules similar to the rules of this section and 305(e),<sup>1</sup> as appropriate, shall apply to interests in such account or entity to which (but for this subsection) this section or section 305(e), as the case may be, would not apply.
+In the case of an account or entity substantially all of the assets of which consist of bonds, preferred stock, or a combination thereof, the Secretary may by regulations provide that rules similar to the rules of this section and 305(e),<sup>1</sup> asappropriate, shall apply to interests in such account or entity to which (but for this subsection) this section or section 305(e), as the case may be, would not apply.
 
 #### (g) Regulation authority
 

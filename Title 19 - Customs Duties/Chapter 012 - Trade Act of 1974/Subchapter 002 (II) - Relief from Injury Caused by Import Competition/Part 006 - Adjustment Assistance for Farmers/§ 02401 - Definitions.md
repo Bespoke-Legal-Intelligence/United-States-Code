@@ -50,33 +50,41 @@ In this part:
 
 &emsp;&emsp;(B) in the case of an agricultural commodity with respect to which the Secretary does not designate a marketing year, a calendar year.
 
-(Pub. L. 93–618, title II, §291, as added Pub. L. 107–210, div. A, title I, §141(a), Aug. 6, 2002, 116 Stat. 946; amended Pub. L. 109–280, title XIV, §1635(f)(4), Aug. 17, 2006, 120 Stat. 1171; Pub. L. 110–234, title I, §1603(g)(6), May 22, 2008, 122 Stat. 1012; Pub. L. 110–246, §4(a), title I, §1603(g)(6), June 18, 2008, 122 Stat. 1664, 1740; Pub. L. 111–5, div. B, title I, §1881, Feb. 17, 2009, 123 Stat. 414.)
+(Pub. L. 93–618, title II, §291, as added Pub. L. 107–210, div. A, title I, §141(a), Aug. 6, 2002, 116 Stat. 946; amended Pub. L. 109–280, title XIV, §1635(f)(4), Aug. 17, 2006, 120 Stat. 1171; Pub. L. 110–234, title I, §1603(g)(6), May 22, 2008, 122 Stat. 1012; Pub. L. 110–246, §4(a), title I, §1603(g)(6), June 18, 2008, 122 Stat. 1664, 1740; Pub. L. 111–5, div. B, title I, §1881, Feb. 17, 2009, 123 Stat. 414; Pub. L. 112–40, title II, §201(b), (c), Oct. 21, 2011, 125 Stat. 403.)
 
-#### Amendment of Section
+#### Reversion to Provisions in Effect on February 13, 2011
 
-<i>For termination of amendment by section 1893 of Pub. L. 111–5, see Effective and Termination Dates of 2009 Amendment note below.</i>
+<i>For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to section 233(b) of Pub. L. 112–40, see Codification and Effective and Termination Dates of 2011 Revival notes below.</i>
 
 #### Codification
+
+Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination of amendment by Pub. L. 111–5, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, and the provisions of this section, as amended by Pub. L. 111–5 and as in effect on Feb. 12, 2011, were temporarily revived, effective Oct. 21, 2011,until Jan. 1, 2014, by Pub. L. 112–40, §§201(b), (c), 233. See 2009 and 2011 Amendment notes, Effective and Termination Dates of 2009 Amendment notes, and Effective and Termination Dates of 2011 Revival note below.
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 
-<b>2009</b>—Par. (1). Pub. L. 111–5, §§1881(1), 1893, temporarily amended par. (1) generally. Prior to amendment,text read as follows: “The term ‘agricultural commodity’ means any agricultural commodity (including livestock) in its raw or natural state.” See Effective and Termination Dates of 2009 Amendment note below.
+<b>2011</b>—Pub. L. 112–40, §§201(b), (c), 233, temporarily revived the provisions of this section, as in effect on Feb. 12, 2011. See Codification note above and 2009 Amendment and Effective and Termination Dates of 2011 Revival notes below.
 
-Par. (2). Pub. L. 111–5, §§1881(2), 1893, temporarily amended par. (2) generally. Prior to amendment, text read as follows: “The term ‘agricultural commodity producer’ has the same meaning as the term ‘person’ as prescribed by regulations promulgated under section 1308(e) of title 7 (before the amendment made by section 1703(a) of the Food, Conservation, and Energy Act of 2008).” See Effective and Termination Dates of 2009 Amendment note below.
+<b>2009</b>—Par. (1). Pub. L. 111–5, §§1881(1), 1893, temporarily amended par. (1) generally. Prior to amendment, text read as follows: “The term ‘agricultural commodity’ means any agricultural commodity (including livestock) in its raw or natural state.” See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Par. (7). Pub. L. 111–5, §§1881(3), 1893, temporarily added par. (7). See Effective and Termination Dates of 2009 Amendment note below.
+Par. (2). Pub. L. 111–5, §§1881(2), 1893, temporarily amended par. (2) generally. Prior to amendment, text read as follows: “The term ‘agricultural commodity producer’ has the same meaning as the term ‘person’ as prescribed by regulations promulgated under section 1308(e) of title 7 (before the amendment made by section 1703(a) of the Food, Conservation, and Energy Act of 2008).” See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+
+Par. (7). Pub. L. 111–5, §§1881(3), 1893, temporarily added par. (7). See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
 <b>2008</b>—Par. (2). Pub. L. 110–246, §1603(g)(6), inserted “(before the amendment made by section 1703(a) of the Food, Conservation, and Energy Act of 2008)” before period at end.
 
 <b>2006</b>—Par. (2). Pub. L. 109–280 substituted “1308(e)” for “1308(5)”.
 
+#### Effective and Termination Dates of 2011 Revival
+
+For temporary revival and applicability of provisions as in effect on Feb. 12, 2011, see sections 201(b), (c) and 233 of Pub. L. 112–40, set out as notes preceding section 2271 of this title. For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to section 233(b) of Pub. L. 112–40, see section 233 of Pub. L. 112–40, set out as a note preceding section 2271 of this title.
+
 #### Effective and Termination Dates of 2009 Amendment
 
 Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title.
 
-Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and this section to be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
+Section 1893 of Pub. L. 111–5, which provided that, except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and that this section be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403. See Codification note above.
 
 #### Effective Date of 2008 Amendment
 
@@ -92,5 +100,5 @@ Pub. L. 107–210, div. A, title I, §141(b), Aug. 6, 2002, 116 Stat. 953, as am
 
 #### Termination Date
 
-Except as otherwise provided, technical assistance and financial assistance may not be provided under this section after Feb. 12, 2011, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
+Except as otherwise provided, technical assistance and financial assistance may not be provided under this section after Dec. 31, 2013, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 

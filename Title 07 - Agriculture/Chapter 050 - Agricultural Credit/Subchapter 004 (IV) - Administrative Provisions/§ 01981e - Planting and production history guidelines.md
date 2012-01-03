@@ -28,11 +28,11 @@ For definition of “this chapter”, referred to in subsec. (b)(1), (3), see no
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–552, §516(g)(1)(A), substituted “Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.)” for “Disaster Relief Act of 1974”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–552, §516(g)(1)(A), substituted “Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.)” for “Disaster Relief Act of 1974”.
 
 Subsec. (b)(2). Pub. L. 102–552, §516(g)(1)(B), inserted “Robert T. Stafford” before “Disaster Relief”.
 
-1991—Pub. L. 102–237 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>1991</b>—Pub. L. 102–237 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 #### Effective Date of 1992 Amendment
 

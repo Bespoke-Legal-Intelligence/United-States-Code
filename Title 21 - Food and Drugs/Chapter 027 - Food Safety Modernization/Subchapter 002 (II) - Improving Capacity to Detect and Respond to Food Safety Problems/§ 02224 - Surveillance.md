@@ -26,7 +26,7 @@ In this Act, the term “foodborne illness outbreak” means the occurrence of 2
 
 &emsp;&emsp;(H) establishing a flexible mechanism for rapidly initiating scientific research by academic institutions;
 
-&emsp;&emsp;(I) integrating foodborne illness surveillance systems and data with other biosurveillance and public health situational awareness capabilities at the Federal, State, and local levels, including by sharing foodborne illness surveillance data with the National Biosurveillance Integration Center; and
+&emsp;&emsp;(I) integrating foodborne illness surveillance systems and data with other biosurveillance and public health situational awareness capabilities at the Federal, State, and local levels, including by sharingfoodborne illness surveillance data with the National Biosurveillance Integration Center; and
 
 &emsp;&emsp;(J) other activities as determined appropriate by the Secretary.
 
@@ -58,7 +58,7 @@ In this Act, the term “foodborne illness outbreak” means the occurrence of 2
 
 &emsp;&emsp;(A) Improve foodborne illness outbreak response and containment.
 
-&emsp;&emsp;(B) Accelerate foodborne illness surveillance and outbreak investigation, includingrapid shipment of clinical isolates from clinical laboratories to appropriate State laboratories, and conducting more standardized illness outbreak interviews.
+&emsp;&emsp;(B) Accelerate foodborne illness surveillance and outbreak investigation, including rapid shipment of clinical isolates from clinical laboratories to appropriate State laboratories, and conducting more standardized illness outbreak interviews.
 
 &emsp;&emsp;(C) Strengthen the capacity of State and local agencies to carry out inspections and enforce safety standards.
 

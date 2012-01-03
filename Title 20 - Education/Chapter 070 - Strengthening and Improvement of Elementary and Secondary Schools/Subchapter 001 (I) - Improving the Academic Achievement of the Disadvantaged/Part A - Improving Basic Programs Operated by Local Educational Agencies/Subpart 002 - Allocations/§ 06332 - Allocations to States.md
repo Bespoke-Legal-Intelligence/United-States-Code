@@ -42,7 +42,7 @@ Of the amount appropriated under section 6302(a) of this title to carry out this
 
 #### (4) Population data
 
-&emsp;For any fiscal year for which the Secretary calculates grants on the basis of population data for counties, the Secretary shall apply the hold-harmless percentages in paragraphs (1) and (2) to counties and, if the Secretary's allocation for a county is not sufficient to meet the hold-harmless requirements of this subsection for every local educational agency within that county, the State educational agency shall reallocate funds proportionately from all other local educational agencies in the State that are receiving funds in excess of the hold-harmless amounts specified in this subsection.
+&emsp;For any fiscal year for which the Secretary calculates grants on the basis of population data for counties, the Secretary shall apply the hold-harmless percentages in paragraphs (1) and (2) to counties and, if the Secretary's allocation for a county is not sufficient to meet the hold-harmless requirements of this subsection for every local educational agency within that county, the State educational agency shall reallocate funds proportionately from all other local educational agencies in the State that are receiving funds in excess ofthe hold-harmless amounts specified in this subsection.
 
 #### (d) Ratable reductions
 

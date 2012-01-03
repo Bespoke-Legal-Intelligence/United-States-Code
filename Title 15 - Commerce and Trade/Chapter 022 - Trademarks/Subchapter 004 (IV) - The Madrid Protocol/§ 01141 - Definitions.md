@@ -46,7 +46,7 @@ In this subchapter:
 
 #### (10) International Register
 
-&emsp;The term “International Register” means the official collection of data concerninginternational registrations maintained by the International Bureau that the Madrid Protocol or its implementing regulations require or permit to be recorded.
+&emsp;The term “International Register” means the official collection of data concerning international registrations maintained by the International Bureau that the Madrid Protocol or its implementing regulations require or permit to be recorded.
 
 #### (11) International registration
 
@@ -84,7 +84,7 @@ In this subchapter:
 
 #### Effective Date
 
-Pub. L. 107–273, div. C, title III, §13403, Nov. 2, 2002, 116 Stat. 1920, provided that: “This subtitle \[subtitle D (§§13401–13403) of title III of div. C of Pub. L. 107–273, enacting this subchapter and provisions set out as a note under section 1051 of this title\] and the amendments made by this subtitle shall take effect on the later of—
+Pub. L. 107–273, div. C, title III, §13403, Nov. 2, 2002, 116 Stat. 1920, provided that: “This subtitle \[subtitle D\(§§13401–13403) of title III of div. C of Pub. L. 107–273, enacting this subchapter and provisions set out as a note under section 1051 of this title\] and the amendments made by this subtitle shall take effect on the later of—
 
 &emsp;“(1) the date on which the Madrid Protocol (as defined in section 60 of the Trademark Act of 1946 \[this section\]) enters into force with respect to the United States \[Nov. 2, 2003\]; or
 

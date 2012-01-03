@@ -18,7 +18,7 @@ The Secretary is authorized to make and issue notes to the Secretary of the Trea
 
 #### (e) Notes and security as part of Insurance Fund; collection and sale of notes and other obligations; deposit of net proceeds in Insurance Fund
 
-Notes and security acquired by the Secretary in connection with rural development loans made, guaranteed, or insured under this chapter or transferred by subsection (b) of this section shall become a part of the Insurance Fund. Notes and other obligations may be held in the Insurance Fund and collected in accordance with their terms or may be sold by the Secretary with or without agreements for insurance thereof at the balance due thereon, or on such other basis as the Secretary may determine from time to time, including sale on a nonrecourse basis. The Secretary and any subsequent purchaser of such notes and other obligations sold by the Secretary on a nonrecourse basis shall be relieved of any responsibilities that might have been imposed had the borrower remained indebted to the Secretary. All net proceeds from such collections, including sales of notes or property, shall be deposited in and become a part of the Insurance Fund.
+Notes and security acquired by the Secretary in connection with rural development loans made, guaranteed, or insured under this chapter or transferred by subsection (b) of this section shall become a part of the Insurance Fund. Notes and other obligations may be held in the Insurance Fund and collected in accordance with their terms or may be sold by the Secretary with or without agreements for insurance thereof at the balance due thereon, or on such other basis as the Secretary may determine from time to time, including sale on a nonrecourse basis. The Secretary and any subsequent purchaser of such notes and other obligations sold by the Secretary on a nonrecourse basis shall be relieved of any responsibilitiesthat might have been imposed had the borrower remained indebted to the Secretary. All net proceeds from such collections, including sales of notes or property, shall be deposited in and become a part of the Insurance Fund.
 
 #### (f) Deposit of loan service charges in Insurance Fund
 
@@ -62,7 +62,7 @@ In subsec. (d), “chapter 31 of title 31” and “such chapter” substituted 
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–127, §741(b), struck out “, 1926(a)(14),” after “1926(a)(1)”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–127, §741(b), struck out “, 1926(a)(14),” after “1926(a)(1)”.
 
 Pub. L. 104–127, §661(c)(1), substituted “1926(a)(1), 1926(a)(14), and 1932 of this title” for “1924(b), 1926(a)(1), 1926(a)(14), 1932, and 1942(b) of this title”.
 
@@ -70,15 +70,15 @@ Subsec. (b). Pub. L. 104–127, §661(c)(2), which directed amendment of first s
 
 Subsec. (g). Pub. L. 104–127, §745, redesignated pars. (2) to (8) as (1) to (7), respectively, and struck out former par. (1) which read as follows: “to make rural development loans which could be insured under this chapter whenever he has a reasonable assurance that they can be sold without undue delay, and he may sell and insure such loans;”.
 
-1986—Subsec. (e). Pub. L. 99–500, Pub. L. 99–509, and Pub. L. 99–591 amended second sentence of subsec. (e) identically, substituting “Notes and other obligations” for “Notes” and substituting “, including sale on a nonrecourse basis. The Secretary and any subsequent purchaser of such notes or other obligations sold by the Secretary on a nonrecourse basis shall be relieved of any responsibilities that might have been imposed had the borrower remained indebted to the Secretary.” for period at end.
+<b>1986</b>—Subsec. (e). Pub. L. 99–500, Pub. L. 99–509, and Pub. L. 99–591 amended second sentence of subsec. (e) identically, substituting “Notes and other obligations” for “Notes” and substituting “, including sale on a nonrecourse basis. The Secretary and any subsequent purchaser of such notes or other obligations sold by the Secretary on a nonrecourse basis shall be relieved of any responsibilities that might have been imposed had the borrower remained indebted to the Secretary.” for period at end.
 
-Subsec. (h). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+Subsec. (h). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”,which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-1978—Subsec. (a). Pub. L. 95–334, §107(b), inserted reference to section 1926(a)(14) of this title.
+<b>1978</b>—Subsec. (a). Pub. L. 95–334, §107(b), inserted reference to section 1926(a)(14) of this title.
 
 Subsec. (g)(8). Pub. L. 95–334, §110, substituted provisions relating to payment of costs of administration necessary to insure loans under subsec. (a) of this section, make grants under sections 1926(a) and 1932 of this title, and otherwise carry out such programs for provisions relating to payment of costs of administration of the rural loan development program.
 
-1977—Subsec. (g)(3). Pub. L. 95–113 substituted “any deferred or defaulted installment” for “any defaulted installment”.
+<b>1977</b>—Subsec. (g)(3). Pub. L. 95–113 substituted “any deferred or defaulted installment” for “any defaulted installment”.
 
 #### Effective Date of 1977 Amendment
 
@@ -194,7 +194,7 @@ Purchase of obligation not tied to purchase of other obligations.—The Secretar
 
 &emsp;&emsp;“(B)
 
-Offer to be made without regard to financing.—The Secretary shall offer notes or other obligations for sale to the issuers thereof under this subsection without regard to the manner in which such issuers intend to finance the purchase of such notes or other obligations. However, the price of sale to any issuer using tax exempt financing shall be determined using a yield reflective of the Schedule of Certified Interest Rates as published monthly by the Secretary of the Treasury.
+Offer to be made without regard to financing.—The Secretary shall offer notes or other obligations for sale to the issuers thereof under this subsection without regard to the manner in which such issuers intend to finance the purchase of such notes or other obligations. However, the price ofsale to any issuer using tax exempt financing shall be determined using a yield reflective of the Schedule of Certified Interest Rates as published monthly by the Secretary of the Treasury.
 
 “(g)
 
@@ -208,7 +208,7 @@ Applicability of Prohibition on Curtailment or Limitation of Service.—Section 
 
 &emsp;“(B) otherwise meet all eligibility criteria, as such criteria existed immediately prior to May 9, 1989, at the time the purchase occurs under this subsection.
 
-“(3) The opportunity to purchase any such note or other obligation shall be held open, under the policies and procedures in effect under subsections (f)(2) and (f)(3) immediately prior to May 9, 1989, for 150 daysafter the date of enactment of this subsection \[Dec. 12, 1989\]. The Secretary shall not require any further good faith deposit from issuers who qualify under this subsection. The Secretary shall notify eligible issuers of the opportunity afforded under this subsection within 30 days after the date of enactment of this subsection and may require such issuers to express an intention to purchase their note or other obligation by a date certain.”
+“(3) The opportunity to purchase any such note or other obligation shall be held open, under the policies and procedures in effect under subsections (f)(2) and (f)(3) immediately prior to May 9, 1989, for 150 days after the date of enactment of this subsection \[Dec. 12, 1989\]. The Secretary shall not require any further good faith deposit from issuers who qualify under this subsection. The Secretary shall notify eligible issuers of the opportunity afforded under this subsection within 30 days after the date of enactment of this subsection and may require such issuers to express an intention to purchase their note or other obligation by a date certain.”
 
 Section 381 of Pub. L. 99–500 and Pub. L. 99–591 provided that:
 

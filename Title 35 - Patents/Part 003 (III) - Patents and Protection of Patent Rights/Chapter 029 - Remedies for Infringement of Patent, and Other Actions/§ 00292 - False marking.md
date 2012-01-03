@@ -6,11 +6,13 @@ Whoever marks upon, or affixes to, or uses in advertising in connection with any
 
 Whoever marks upon, or affixes to, or uses in advertising in connection with any article, the words “patent applied for,” “patent pending,” or any word importing that an application for patent has been made, when no application for patent has been made, or if made, is not pending, for the purpose of deceiving the public—
 
-Shall be fined not more than $500 for every such offense.
+Shall be fined not more than $500 for every such offense. Only the United States may sue for the penalty authorized by this subsection.
 
-(b) Any person may sue for the penalty, in which event one-half shall go to the person suing and the other to the use of the United States.
+(b) A person who has suffered a competitive injury as a result of a violation of this section may file a civil action in a district court of the United States for recovery of damages adequate to compensate for the injury.
 
-(July 19, 1952, ch. 950, 66 Stat. 814; Pub. L. 103–465, title V, §533(b)(6), Dec. 8, 1994, 108 Stat. 4990.)
+(c) The marking of a product, in a manner described in subsection (a), with matter relating to a patent that covered that product but has expired is not a violation of this section.
+
+(July 19, 1952, ch. 950, 66 Stat. 814; Pub. L. 103–465, title V, §533(b)(6), Dec. 8, 1994, 108 Stat.4990; Pub. L. 112–29, §16(b)(1)–(3), Sept. 16, 2011, 125 Stat. 329.)
 
 #### Historical and Revision Notes
 
@@ -20,7 +22,17 @@ This is a criminal provision. The first two paragraphs of the corresponding sect
 
 #### Amendments
 
+<b>2011</b>—Subsec. (a). Pub. L. 112–29, §16(b)(1), inserted at end “Only the United States may sue for the penalty authorized by this subsection.”
+
+Subsec. (b). Pub. L. 112–29, §16(b)(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Any person may sue for the penalty, in which event one-half shall go to the person suing and the other to the use of the United States.”
+
+Subsec. (c). Pub. L. 112–29, §16(b)(3), added subsec. (c).
+
 <b>1994</b>—Subsec. (a). Pub. L. 103–465, in first par., substituted “used, offered for sale, or sold by such person within the United States, or imported by the person into the United States” for “used, or sold by him” and “made, offered for sale, sold, or imported into the United States” for “made or sold”.
+
+#### Effective Date of 2011 Amendment
+
+Pub. L. 112–29, §16(b)(4), Sept. 16, 2011, 125 Stat. 329, provided that: “The amendments made by this subsection \[amending this section\] shall apply to all cases, without exception, that are pending on, or commenced on or after, the date of the enactment of this Act \[Sept. 16, 2011\].”
 
 #### Effective Date of 1994 Amendment
 

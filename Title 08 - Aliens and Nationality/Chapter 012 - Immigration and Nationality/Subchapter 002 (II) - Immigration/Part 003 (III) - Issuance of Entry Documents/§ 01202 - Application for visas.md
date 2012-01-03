@@ -2,7 +2,7 @@
 
 #### (a) Immigrant visas
 
-Every alien applying for an immigrant visa and for alien registration shall make application therefor in such form and manner and at such place as shall be by regulations prescribed. In the application the alien shall state his full and true name, and any other name which he has used or by which he has been known; age and sex; the date and place of his birth; and such additional information necessary to the identification of the applicant and the enforcement of the immigration and nationality laws as may be by regulations prescribed.
+Every alien applying for an immigrant visa and for alien registration shall make applicationtherefor in such form and manner and at such place as shall be by regulations prescribed. In the application the alien shall state his full and true name, and any other name which he has used or by which he has been known; age and sex; the date and place of his birth; and such additional information necessary to the identification of the applicant and the enforcement of the immigration and nationality laws as may be by regulations prescribed.
 
 #### (b) Other documentary evidence for immigrant visa
 
@@ -46,7 +46,7 @@ The records of the Department of State and of diplomatic and consular offices of
 
 Notwithstanding any other provision of this chapter, the Secretary of State shall require every alien applying for a nonimmigrant visa—
 
-&emsp;(1) who is at least 14 years of age and not more than 79 years of age to submit to an inperson interview with a consular officer unless the requirement for such interview is waived—
+&emsp;(1) who is at least 14 years of age and not more than 79 years of age to submit to an in person interview with a consular officer unless the requirement for such interview is waived—
 
 &emsp;&emsp;(A) by a consular official and such alien is—
 
@@ -110,7 +110,7 @@ This chapter, referred to in subsec. (h), was in the original, “this Act”, m
 
 #### Amendments
 
-2004—Subsec. (b). Pub. L. 108–458, §7203(b)(1), inserted at end “All immigrant visa applications shall be reviewed and adjudicated by a consular officer.”
+<b>2004</b>—Subsec. (b). Pub. L. 108–458, §7203(b)(1), inserted at end “All immigrant visa applications shall be reviewed and adjudicated by a consular officer.”
 
 Subsec. (c). Pub. L. 108–458, §5302, inserted after second sentence “The alien shall provide complete and accurate information in response to any request for information contained in the application.”
 
@@ -118,27 +118,27 @@ Subsec. (d). Pub. L. 108–458, §7203(b)(2), inserted at end “All nonimmigran
 
 Subsec. (h). Pub. L. 108–458, §5301(a), added subsec. (h).
 
-2001—Subsec. (f). Pub. L. 107–56 inserted “—” after “except that” and “(1)” before “in the discretion”, and added par. (2).
+<b>2001</b>—Subsec. (f). Pub. L. 107–56 inserted “—” after “except that” and “(1)” before “in the discretion”, and added par. (2).
 
-1996—Subsec. (c). Pub. L. 104–208, §634(a), struck out “personal description (including height, complexion, color of hair and eyes, and marks of identification);” after “United States;”, substituted “applicant, the determination of his eligibility for a nonimmigrant visa,” for “applicant”, and inserted at end “At the discretion of the Secretary of State, application forms for the various classes of nonimmigrant admissions described in section 1101(a)(15) of this title may vary according to the class of visa being requested.”
+<b>1996</b>—Subsec. (c). Pub. L. 104–208, §634(a), struck out “personal description (including height, complexion, color of hair and eyes, and marks of identification);” after “United States;”, substituted “applicant, the determination of his eligibility for a nonimmigrant visa,” for “applicant”, and inserted at end “At the discretion of the Secretary of State, application forms for the various classes of nonimmigrant admissions described in section 1101(a)(15) of this title may vary according to the class of visa being requested.”
 
 Subsec. (e). Pub. L. 104–208, §634(b), in first sentence, substituted “for an immigrant visa” for “required by this section”, and in fourth sentence, substituted “stamp, or other” for “stamp” and struck out “by the consular officer” before “in the alien's passport”.
 
 Subsec. (g). Pub. L. 104–208, §632(a), added subsec. (g).
 
-1994—Subsec. (a). Pub. L. 103–416, §205(a), in second sentence substituted “the alien” for “the immigrant” after “In the application” and struck out “present address and places of previous residence; whether married or single, and the names and places of residence of spouse and children, if any; calling or occupation; personal description (including height, complexion, color of hair and eyes, and marks of identification); languages he can speak, read, or write; names and addresses of parents, and if neither parent living then the name and address of his next of kin in the country from which he comes; port of entry into the United States; final destination, if any, beyond the port of entry; whether he has a ticket through to such final destination; whether going to join a relative or friend, and, if so, the name and complete address of such relative or friend; the purpose for which he is going to the United States; the length of time he intends to remain in the United States; whether or not he intends to remain in the United States permanently; whether he was ever arrested, convicted or was ever in prison or almshouse; whether he has ever been the beneficiary of a pardon or an amnesty; whether he has ever been treated in an institution or hospital or other place for insanity or other mental disease; if he claims to be an immediate relative within the meaning of section 1151(b) of this title or a preference or special immigrant, the facts on which he bases such claim; whether or not he is a member of any class of individuals excluded from admission into the United States, or whether he claims to be exempt from exclusion under the immigration laws;” before “and such additional information”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–416, §205(a), in second sentence substituted “the alien” for “the immigrant” after “In the application” and struck out “present address and places of previous residence; whether married or single, and the names and places of residence of spouse and children, if any; calling or occupation; personal description (including height, complexion, color of hair and eyes, and marks of identification); languages he can speak, read, or write; names and addresses of parents, and if neither parent living then the name and address of his next of kin in the country from which he comes; port of entry into the United States; final destination, if any, beyond the port of entry; whether he has a ticket through to such final destination; whether going to join a relative or friend, and, if so, the name and complete address of such relative or friend; the purpose for which he is going to the United States; the length of time he intends to remain in the United States; whether or not he intends to remain in the United States permanently; whether he was ever arrested, convicted or was ever in prison or almshouse; whether he has ever been the beneficiary of a pardon or an amnesty; whether he has ever been treated in an institution or hospital or other place for insanity or other mental disease; if he claims to be an immediate relative within the meaning of section 1151(b) of this title or a preference or special immigrant, the facts on which he bases such claim; whether or not he is a member of any class of individuals excluded from admission into the United States, or whether he claims to be exempt from exclusion under the immigration laws;” before “and such additional information”.
 
-1988—Subsec. (a). Pub. L. 100–525, §9(j), substituted “whether or not he intends” for “whether or not be intends”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–525, §9(j), substituted “whether or not he intends” for “whether or not be intends”.
 
 Subsecs. (b), (e). Pub. L. 100–525, §8(e), made technical correction to Pub. L. 99–653, §6. See 1986 Amendment note below.
 
-1986—Subsec. (b). Pub. L. 99–653, §6(a), as amended by Pub. L. 100–525, §8(e)(1), substituted “a copy of” for “two copies of”, “immigrant; a certified copy of” for “immigrant; two certified copies of”, “and a certified copy of” for “and two certified copies of”, “The copy of each” for “One copy of each”, and “attached to the” for “attached to each copy of the”.
+<b>1986</b>—Subsec. (b). Pub. L. 99–653, §6(a), as amended by Pub. L. 100–525, §8(e)(1), substituted “a copy of” for “two copies of”, “immigrant; a certified copy of” for “immigrant; two certified copies of”, “and a certified copy of” for “and two certified copies of”, “The copy of each” for “One copy of each”, and “attached to the” for “attached to each copy of the”.
 
 Subsec. (e). Pub. L. 99–653, §6(b), as amended by Pub. L. 100–525, §8(e)(2), substituted “each application” for “each copy of an application”, “The application for” for “One copy of the application for”, and “the immigrant visa” for “the immigrant visa, and the other copy shall be disposed of as may be by regulations prescribed”.
 
-1965—Subsec. (a). Pub L. 89–236 substituted “an immediate relative within the meaning of section 1151 (b) of this title or a preference or special immigrant”, for “preference quota or a nonquota immigrant”.
+<b>1965</b>—Subsec. (a). Pub L. 89–236 substituted “an immediate relative within the meaning of section 1151 (b) of this title or a preference or special immigrant”, for “preference quota or a nonquota immigrant”.
 
-1961—Subsecs. (a), (c). Pub. L. 87–301 struck out requirement to state applicant's race and ethnic classification.
+<b>1961</b>—Subsecs. (a), (c). Pub. L. 87–301 struck out requirement to state applicant's race and ethnic classification.
 
 #### Effective Date of 2004 Amendment
 

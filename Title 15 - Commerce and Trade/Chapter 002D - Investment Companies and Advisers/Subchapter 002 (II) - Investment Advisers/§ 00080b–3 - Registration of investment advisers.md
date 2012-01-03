@@ -8,11 +8,11 @@ Except as provided in subsection (b) of this section and section 80b–3a of thi
 
 The provisions of subsection (a) of this section shall not apply to—
 
-&emsp;(1) any investment adviser all of whose clients are residents of the State within which such investment adviser maintains his or its principal office and place of business, and who does not furnish advice or issue analyses or reports with respect to securities listed or admitted to unlisted trading privileges on any national securities exchange;
+&emsp;(1) any investment adviser, other than an investment adviser who acts as an investment adviser to any private fund, all of whose clients are residents of the State within which such investment adviser maintains his or its principal office and place of business, and who does not furnish advice or issue analyses or reports with respect to securities listed or admitted to unlisted trading privileges on any national securities exchange;
 
 &emsp;(2) any investment adviser whose only clients are insurance companies;
 
-&emsp;(3) any investment adviser who during the course of the preceding twelve months has had fewer than fifteen clients and who neither holds himself out generally to the public as an investment adviser nor acts as an investment adviser to any investment company registered under subchapter I of this chapter, or a company which has elected to be a business development company pursuant to section 80a–53 of this title and has not withdrawn its election. For purposes of determining the number of clients of an investment adviser under this paragraph, no shareholder, partner, or beneficial owner of a business development company, as defined in this subchapter, shall be deemed to be a client of such investment adviser unless such person is a client of such investment adviser separate and apart from his status as a shareholder, partner, or beneficial owner;
+&emsp;(3) any investment adviser that is a foreign private adviser;
 
 &emsp;(4) any investment adviser that is a charitable organization, as defined in section 3(c)(10)(D) of the Investment Company Act of 1940 \[15 U.S.C. 80a–3(c)(10)(D)\], or is a trustee, director, officer, employee, or volunteer of such a charitable organization acting within the scope of such person's employment or duties with such organization, whose advice, analyses, or reports are provided only to one or more of the following:
 
@@ -22,13 +22,23 @@ The provisions of subsection (a) of this section shall not apply to—
 
 &emsp;&emsp;(C) a trust or other donative instrument described in section 3(c)(10)(B) of the Investment Company Act of 1940 \[15 U.S.C. 80a–3(c)(10)(B)\], or the trustees, administrators, settlors (or potential settlors), or beneficiaries of any such trust or other instrument;
 
-&emsp;(5) any plan described in section 414(e) of title 26, any person or entity eligible to establish and maintain such a plan under title 26, or any trustee, director, officer, or employee of or volunteer for any such plan or person, if such person or entity, acting in such capacity, provides investment advice exclusively to, or with respect to, any plan, person, or entity or any company, account, or fund that is excluded from the definition of an investment company under section 3(c)(14) of the Investment Company Act of 1940 \[15 U.S.C. 80a–3(c)(14)\]; or
+&emsp;(5) any plan described in section 414(e) of title 26, any person or entity eligible to establish and maintain such a plan under title 26, or any trustee, director, officer, or employee of or volunteer for any such plan or person, if such person or entity, acting in such capacity, provides investment advice exclusively to, or with respect to, any plan, person, or entity or any company, account, or fund that is excluded from the definition of an investment company under section 3(c)(14) of the Investment Company Act of 1940 \[15 U.S.C. 80a–3(c)(14)\];
 
-&emsp;(6) any investment adviser that is registered with the Commodity Futures Trading Commission as a commodity trading advisor whose business does not consist primarily of acting as an investment adviser, as defined in section 80b–2(a)(11) of this title, and that does not act as an investment adviser to—
+&emsp;(6)(A) any investment adviser that is registered with the Commodity Futures Trading Commission as a commodity trading advisor whose business does not consist primarily of acting as an investment adviser, as defined in section 80b–2(a)(11) of this title, and that does not act as an investment adviser to—
 
-&emsp;&emsp;(A) an investment company registered under subchapter I of this chapter; or
+&emsp;&emsp;(i) an investment company registered under subchapter I of this chapter; or
 
-&emsp;&emsp;(B) a company which has elected to be a business development company pursuant to section 80a–53 of this title and has not withdrawn its election.
+&emsp;&emsp;(ii) a company which has elected to be a business development company pursuant to section 80a–53 of this title and has not withdrawn its election; or
+
+&emsp;(B) any investment adviser that is registered with the Commodity Futures Trading Commission as a commodity trading advisor and advises a private fund, provided that, if after July 21, 2010, the business of the advisor should become predominately the provision of securities-related advice, then such adviser shall register with the Commission.<sup>1</sup>
+
+&emsp;(7) any investment adviser, other than any entity that has elected to be regulated or is regulated as a business development company pursuant to section 54 of the Investment Company Act of 1940 \[15 U.S.C. 80a–53\], who solely advises—
+
+&emsp;&emsp;(A) small business investment companies that are licensees under the Small Business Investment Act of 1958 \[15 U.S.C. 661 et seq.\];
+
+&emsp;&emsp;(B) entities that have received from the Small Business Administration notice to proceed to qualify for a license as a smallbusiness investment company under the Small Business Investment Act of 1958, which notice or license has not been revoked; or
+
+&emsp;&emsp;(C) applicants that are affiliated with 1 or more licensed small business investment companies described in subparagraph (A) and that have applied for another license under the Small Business Investment Act of 1958, which application remains pending.
 
 #### (c) Procedure for registration; filing of application; effective date of registration; amendment of registration
 
@@ -68,15 +78,15 @@ The Commission, by order, shall censure, place limitations on the activities, fu
 
 &emsp;(1) has willfully made or caused to be made in any application for registration or report required to be filed with the Commission under this subchapter, or in any proceeding before the Commission with respect to registration, any statement which was at the time and in the light of the circumstances under which it was made false or misleading with respect to any material fact, or has omitted to state in any such application or report any material fact which is required to be stated therein.
 
-&emsp;(2) has been convicted within ten years preceding the filing of any application for registration or at any time thereafter of any felony or misdemeanor or of a substantially equivalent crime by a foreign court of competent jurisdiction which the Commission finds—
+&emsp;(2) has been convicted within ten years preceding the filing of any application for registration or at any time thereafter of any felony or misdemeanor or of a substantiallyequivalent crime by a foreign court of competent jurisdiction which the Commission finds—
 
 &emsp;&emsp;(A) involves the purchase or sale of any security, the taking of a false oath, the making of a false report, bribery, perjury, burglary, any substantially equivalent activity however denominated by the laws of the relevant foreign government, or conspiracy to commit any such offense;
 
 &emsp;&emsp;(B) arises out of the conduct of the business of a broker, dealer, municipal securities dealer, investment adviser, bank, insurance company, government securities broker, government securities dealer, fiduciary, transfer agent, credit rating agency, foreign person performing a function substantially equivalent to any of the above, or entity or person required to be registered under the Commodity Exchange Act \[7 U.S.C. 1 et seq.\] or any substantially equivalent statute or regulation;
 
-&emsp;&emsp;(C) involves the larceny, theft, robbery, extortion, forgery, counterfeiting, fraudulentconcealment, embezzlement, fraudulent conversion, or misappropriation of funds or securities or substantially equivalent activity however denominated by the laws of the relevant foreign government; or
+&emsp;&emsp;(C) involves the larceny, theft, robbery, extortion, forgery, counterfeiting, fraudulent concealment, embezzlement, fraudulent conversion, or misappropriation of funds or securities or substantially equivalent activity however denominated by the laws of the relevant foreign government; or
 
-&emsp;&emsp;(D) involves the violation of section 152, 1341, 1342, or 1343 or chapter 25 or 47 of title 18, or a violation of <sup>1</sup> substantially equivalent foreign statute.
+&emsp;&emsp;(D) involves the violation of section 152, 1341, 1342, or 1343 or chapter 25 or 47 of title 18, or a violation of <sup>2</sup> substantially equivalent foreign statute.
 
 &emsp;(3) has been convicted during the 10-year period preceding the date of filing of any application for registration, or at any time thereafter, of—
 
@@ -102,7 +112,7 @@ The Commission, by order, shall censure, place limitations on the activities, fu
 
 &emsp;&emsp;(B) violated any foreign statute or regulation regarding transactions in securities or contracts of sale of a commodity for future delivery traded on or subject to the rules of a contract market or any board of trade; or
 
-&emsp;&emsp;(C) aided, abetted, counseled, commanded, induced, or procured the violation by any other person of any foreign statute or regulation regarding transactions in securities or contracts of sale of a commodity for future delivery traded on or subject to the rules of a contract market or any board of trade, or has been found, by the foreign finanical <sup>2</sup> regulatory authority, to have failed reasonably to supervise, with a view to preventing violations of statutory provisions, and rules and regulations promulgated thereunder, another person who commits such a violation, if such other person is subject to his supervision; or
+&emsp;&emsp;(C) aided, abetted, counseled, commanded, induced, or procured the violation by any other person of any foreign statute or regulation regarding transactions in securities or contracts of sale of a commodity for future delivery traded on or subject to the rules of a contract market or any board of trade, or has been found, by the foreign finanical <sup>3</sup> regulatory authority, to have failed reasonably to supervise, with a viewto preventing violations of statutory provisions, and rules and regulations promulgated thereunder, another person who commits such a violation, if such other person is subject to his supervision; or
 
 &emsp;(9) is subject to any final order of a State securities commission (or any agency or officer performing like functions), State authority that supervises or examines banks, savings associations, or credit unions, State insurance commission (or any agency or office performing like functions), an appropriate Federal banking agency (as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813(q))), or the National Credit Union Administration, that—
 
@@ -136,7 +146,7 @@ Any person registered under this section may, upon such terms and conditions as 
 
 &emsp;&emsp;&emsp;(iii) has willfully made or caused to be made in any application for registration or report required to be filed with the Commission under this subchapter, or in any proceeding before the Commission with respect to registration, any statement which was, at the time and in the light of the circumstances under which it was made, false or misleading with respect to any material fact, or has omitted to state in any such application or report any material fact which was required to be stated therein; or
 
-&emsp;&emsp;&emsp;(iv) has failed reasonably to supervise, within the meaning of subsection (e)(6) of this section, with a view to preventing violations of the provisions of this subchapter and the rules and regulations thereunder, another person who commits such a violation, if such other person is subject to his supervision; <sup>3</sup>
+&emsp;&emsp;&emsp;(iv) has failed reasonably to supervise, within the meaning of subsection (e)(6) of this section, with a view to preventing violations of the provisions of this subchapter and the rules and regulations thereunder, another person who commits such a violation, if such other person is subject to his supervision; <sup>4</sup>
 
 #### (B) Cease-and-desist proceedings
 
@@ -154,7 +164,7 @@ Any person registered under this section may, upon such terms and conditions as 
 
 #### (B) Second tier
 
-&emsp;&emsp;Notwithstanding subparagraph (A), the maximum amount of penalty for each such act or omission shall be $50,000 for a natural person or $250,000 for any other person if the act or omission described in paragraph (1)involved fraud, deceit, manipulation, or deliberate or reckless disregard of a regulatory requirement.
+&emsp;&emsp;Notwithstanding subparagraph (A), the maximum amount of penalty for each such act or omission shall be $50,000 for a natural person or $250,000 for any other person if the act or omission described in paragraph (1) involved fraud, deceit, manipulation, or deliberate or reckless disregard of a regulatory requirement.
 
 #### (C) Third tier
 
@@ -202,7 +212,7 @@ In any proceeding in which the Commission may impose a penalty under this sectio
 
 #### (A) In general
 
-&emsp;&emsp;Whenever the Commission determines that the alleged violation or threatened violation specified in the notice instituting proceedings pursuant to paragraph (1), or the continuation thereof, is likely to result in significant dissipation or conversion of assets, significant harm to investors, or substantial harm to the public interest, including, but not limited to, losses to the Securities Investor Protection Corporation, prior to the completion of the proceedings, the Commission may enter a temporary order requiring the respondent to cease and desist from the violation or threatened violation and to take such action to prevent the violation or threatened violation and to prevent dissipation or conversion of assets, significant harm to investors, or substantial harm to the public interest as the Commission deems appropriate pending completion of such proceedings. Such an order shall be entered only after notice and opportunity for a hearing, unless the Commission, notwithstandingsection 80b–11(c) of this title, determines that notice and hearing prior to entry would be impracticable or contrary to the public interest. A temporary order shall become effective upon service upon the respondent and, unless set aside, limited, or suspended by the Commission or a court of competent jurisdiction, shall remain effective and enforceable pending the completion of the proceedings.
+&emsp;&emsp;Whenever the Commission determines that the alleged violation or threatened violation specified in the notice instituting proceedings pursuant to paragraph (1), or the continuation thereof, is likely to result in significant dissipation or conversion of assets, significant harm to investors, or substantial harm to the public interest, including, but not limited to, losses to the Securities Investor Protection Corporation, prior to the completion of the proceedings, the Commission may enter a temporary order requiring the respondent to cease and desist from the violation or threatened violation and to take such action to prevent the violation or threatened violation and to prevent dissipation or conversion of assets, significant harm to investors, or substantial harm to the public interest as the Commission deems appropriate pending completion of such proceedings. Such an order shall be entered only after notice and opportunity for a hearing, unless the Commission, notwithstanding section 80b–11(c) of this title, determines that notice and hearing prior to entry would be impracticable or contrary to the public interest. A temporary order shall become effective upon service upon the respondent and, unless set aside, limited, or suspended by the Commission or a court of competent jurisdiction, shall remain effective and enforceable pending the completion of the proceedings.
 
 #### (B) Applicability
 
@@ -236,67 +246,29 @@ In any proceeding in which the Commission may impose a penalty under this sectio
 
 &emsp;In any cease-and-desist proceeding under paragraph (1), the Commission may enter an order requiring accounting and disgorgement, including reasonable interest. The Commission is authorized to adopt rules, regulations, and orders concerning payments to investors, rates of interest, periods of accrual, and such other matters as it deems appropriate to implement this subsection.
 
+#### (<i>l</i>) Exemption of venture capital fund advisers
+
+No investment adviser that acts as an investment adviser solely to 1 or more venture capital funds shall be subject to the registration requirements of this subchapter with respect to the provision of investment advice relating to a venture capital fund. Not later than 1 year after July 21, 2010, the Commission shall issue final rules to define the term “venture capital fund” for purposes of this subsection. The Commission shall require such advisers to maintain such records and provide to the Commission such annual or other reports as the Commission determines necessary or appropriate in the public interest or for the protection of investors.
+
+#### (m) Exemption of and reporting by certain private fund advisers
+
+#### (1) In general
+
+&emsp;The Commission shall provide an exemption from the registration requirements under this section to any investment adviser of private funds, if each of <sup>5</sup> such investment adviser acts solely as an adviser to private funds and hasassets under management in the United States of less than $150,000,000.
+
+#### (2) Reporting
+
+&emsp;The Commission shall require investment advisers exempted by reason of this subsection to maintain such records and provide to the Commission such annual or other reports as the Commission determines necessary or appropriate in the public interest or for the protection of investors.
+
+#### (n) Registration and examination of mid-sized private fund advisers
+
+In prescribing regulations to carry out the requirements of this section with respect to investment advisers acting as investment advisers to mid-sized private funds, the Commission shall take into account the size, governance, and investment strategy of such funds to determine whether they pose systemic risk, and shall provide for registration and examination procedures with respect to the investment advisers of such funds which reflect the level of systemic risk posed by such funds.
+
 (Aug. 22, 1940, ch. 686, title II, §203, 54 Stat. 850; Pub. L. 86–750, §§2–5, Sept. 13, 1960, 74 Stat. 885, 886; Pub. L. 91–547, §24, Dec. 14, 1970, 84 Stat. 1430; Pub. L. 94–29, §29(1)–(4), June 4, 1975, 89 Stat. 166–169; Pub. L. 96–477, title II, §202, Oct. 21, 1980, 94 Stat. 2290; Pub. L. 99–571, title I, §102(m), Oct. 28, 1986, 100 Stat. 3220; Pub. L. 100–181, title VII, §702, Dec. 4, 1987, 101 Stat. 1263; Pub. L. 101–429, title IV, §401, Oct. 15, 1990, 104 Stat. 946; Pub. L. 101–550, title II, §205(b), (c), Nov. 15, 1990, 104 Stat. 2719, 2720; Pub. L. 104–62, §5, Dec. 8, 1995, 109 Stat. 685; Pub. L. 104–290, title III, §§303(b), (d), 305, title V, §508(d), Oct. 11, 1996, 110 Stat. 3438, 3439, 3448; Pub. L. 105–353, title III, §301(d)(1), Nov. 3, 1998, 112 Stat. 3237; Pub. L. 106–554, §1(a)(5) \[title II, §209(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–436; Pub. L. 107–204, title VI, §604(b), (c)(2), July 30, 2002, 116 Stat. 796; Pub. L. 109–291, §4(b)(3)(C), Sept. 29, 2006, 120 Stat. 1337; Pub. L. 111–203, title IV, §§403, 407, 408, title IX, §§925(b), 929P(a)(4), 985(e)(1), July 21, 2010, 124 Stat. 1571, 1574, 1575, 1851, 1864, 1935.)
 
-#### Amendment of Section
-
-<i>Pub. L. 111–203, title IV, §§403, 407, 408, 419, July 21, 2010, 124 Stat. 1571, 1574, 1575, 1580, provided that, effective 1 year after July 21, 2010, except that any investment adviser may, at the discretion of the investment adviser, register with the Commission under the Investment Advisers Act of 1940 during that 1-year period, subject to the rules of the Commission, and except as otherwise provided, this section is amended as follows:</i>
-
-<i>(1) in subsection (b)—</i>
-
-<i>(A) in paragraph (1), by inserting “, other than an investment adviser who acts as an investment adviser to any private fund,” before “all of whose”;</i>
-
-<i>(B) by striking paragraph (3) and inserting the following:</i>
-
-&emsp;<i>“(3) any investment adviser that is a foreign private adviser;”;</i>
-
-<i>(C) in paragraph (5), by striking “or” at the end;</i>
-
-<i>(D) in paragraph (6)—</i>
-
-<i>(i) by striking “any investment adviser” and inserting “(A) any investment adviser”;</i>
-
-<i>(ii) by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively; and</i>
-
-<i>(iii) in clause (ii) (as so redesignated), by striking the period at the end and inserting “; or”; and</i>
-
-<i>(iv) by adding at the end the following:</i>
-
-&emsp;<i>“(B) any investment adviser that is registered with the Commodity Futures Trading Commission as a commodity trading advisor and advises a private fund, provided that, if after July 21, 2010, the business of the advisor should become predominately the provision of securities-related advice, then such adviser shall register with the Commission.”; and</i>
-
-<i>(E) by adding at the end the following:</i>
-
-&emsp;<i>“(7) any investment adviser, other than any entity that has elected to be regulated or is regulated as a business development company pursuant to section 54 of the Investment Company Act of 1940, who solely advises—</i>
-
-&emsp;&emsp;<i>“(A) small business investment companies that are licensees under the Small Business Investment Act of 1958;</i>
-
-&emsp;&emsp;<i>“(B) entities that have received from the Small Business Administration notice to proceed to qualify for a license as a small business investment company under the Small Business Investment Act of 1958, which notice or license has not been revoked; or</i>
-
-&emsp;&emsp;<i>“(C) applicants that are affiliated with 1 or more licensed small business investment companies described in subparagraph (A) and that have applied for another license under the Small Business Investment Act of 1958, which application remains pending.”; and</i>
-
-<i>(2) by adding at the end the following:</i>
-
-#### <i>“(l) Exemption of venture capital fund advisers</i>
-
-<i>“No investment adviser that acts as an investment adviser solely to 1 or more venture capital funds shall be subject to the registration requirements of this subchapter with respect to the provision of investment advice relating to a venture capital fund. Not later than 1 year after July 21, 2010, the Commission shall issue final rules to define the term ‘venture capital fund’ for purposes of this subsection. The Commission shall require such advisers to maintain such records and provide to the Commission such annual or other reports as the Commission determines necessary or appropriate in the public interest or for the protection of investors.</i>
-
-#### <i>“(m) Exemption of and reporting by certain private fund advisers</i>
-
-#### <i>“(1) In general</i>
-
-&emsp;<i>“The Commission shall provide an exemption from the registration requirements under this section to any investment adviser of private funds, if each of \[sic\] such investment adviser acts solely as an adviser to private funds and has assets under management in the United States of less than $150,000,000.</i>
-
-#### <i>“(2) Reporting</i>
-
-&emsp;<i>“The Commission shall require investment advisers exempted by reason of this subsection to maintain such records and provide to the Commission such annual or other reports as the Commission determines necessary or appropriate in the public interest or for the protection of investors.</i>
-
-#### <i>“(n) Registration and examination of mid-sized private fund advisers</i>
-
-<i>“In prescribing regulations to carry out the requirements of this section with respect to investment advisers acting as investment advisers to mid-sized private funds, the Commission shall take into account the size, governance, and investment strategy of such funds to determine whether they pose systemic risk, and shall provide for registration and examination procedures with respect to the investment advisers of such funds which reflect the level of systemic risk posed by such funds.”</i>
-
-<i>See Effective Date of 2010 Amendment note below.</i>
-
 #### References in Text
+
+The Small Business Investment Act of 1958, referred to in subsec. (b)(7), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, which is classified principally to chapter 14B (§661 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 661 of this title and Tables.
 
 The Commodity Exchange Act, referred to in subsec. (e)(2)(B), (4)–(6), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
@@ -308,13 +280,27 @@ The Investment Company Act of 1940, referred to in subsec. (e)(5), (6), is title
 
 #### Amendments
 
-<b>2010</b>—Subsec. (c)(1)(A). Pub. L. 111–203, §985(e)(1)(A), substituted “principal office, principal place of business, and” for “principal business office and”.
+<b>2010</b>—Subsec. (b)(1). Pub. L. 111–203, §403(1), inserted “, other than an investment adviser who acts as an investment adviser to any private fund,” after “any investment adviser”.
+
+Subsec. (b)(3). Pub. L. 111–203, §403(2), added par. (3) and struck out former par. (3) which read as follows: “any investment adviser who during the course of the preceding twelve months has had fewer than fifteen clients and who neither holds himself out generally to the public as an investment adviser nor acts as an investment adviser to any investment company registered under subchapter I of this chapter, or a company which has elected to be a business development company pursuant to section 80a–53 of this title and has not withdrawn its election. For purposes of determining the number of clients of an investment adviser under this paragraph, no shareholder, partner, or beneficial owner of a business development company, as defined in this subchapter, shall be deemed to be a client of such investment adviser unless such person is a client of such investment adviser separate and apart from his status as a shareholder, partner, or beneficial owner;”.
+
+Subsec. (b)(5). Pub. L. 111–203, §403(3), struck out “or” at end.
+
+Subsec. (b)(6). Pub. L. 111–203, §403(4), designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, and added subpar. (B).
+
+Subsec. (b)(7). Pub. L. 111–203, §403(5), added par. (7).
+
+Subsec. (c)(1)(A). Pub. L. 111–203, §985(e)(1)(A), substituted “principal office, principal place of business, and” for “principal business office and”.
 
 Subsec. (f). Pub. L. 111–203, §925(b), substituted “12 months or bar any such person from being associated with an investment adviser, broker, dealer, municipal securities dealer, municipal advisor, transfer agent, or nationally recognized statistical rating organization,” for “twelve months or bar any such person from being associated with an investment adviser,”.
 
 Subsec. (i)(1). Pub. L. 111–203, §929P(a)(4), designated existing provisions as subpar. (A) and inserted heading, inserted “that such penalty is in the public interest and” before “that such person—” in introductory provisions, redesignated former subpars. (A) to (D) as cls. (i) to (iv), respectively, and realigned margins, struck out concluding provisions which read “and that such penalty is in the public interest.”, and added subpar. (B).
 
 Subsec. (k)(4)(B). Pub. L. 111–203, §985(e)(1)(B), substituted “principal office or place of business” for “principal place of business” in concluding provisions.
+
+Subsec. (<i>l</i>). Pub. L. 111–203, §407, added subsec. (<i>l</i>).
+
+Subsecs. (m), (n). Pub. L. 111–203, §408, added subsecs. (m) and (n).
 
 <b>2006</b>—Subsec. (e)(2)(B), (4). Pub. L. 109–291 inserted “credit rating agency,” after “transfer agent,”.
 
@@ -328,7 +314,7 @@ Subsec. (f). Pub. L. 107–204, §604(c)(2), substituted “(8), or (9)” for �
 
 <b>1998</b>—Subsec. (e)(8)(B). Pub. L. 105–353 inserted “or” after semicolon at end.
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–290, §303(d), which directed substitution of “subsection (b) of this section and section 80b–3a of this title” for “subsection (b) of this section”, was executed by making the substitutionfor “subsection (b)” to reflect the probable intent of Congress.
+<b>1996</b>—Subsec. (a). Pub. L. 104–290, §303(d), which directed substitution of “subsection (b) of this section and section 80b–3a of this title” for “subsection (b) ofthis section”, was executed by making the substitution for “subsection (b)” to reflect the probable intent of Congress.
 
 Subsec. (b)(5). Pub. L. 104–290, §508(d), added par. (5).
 
@@ -450,9 +436,13 @@ Amendment by Pub. L. 91–547 effective Dec. 14, 1970, except that amendment by 
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “of a”.</i>
+<i><sup>1</sup></i><i> So in original. The period probably should be “; or”.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “financial”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be “of a”.</i>
 
-<i><sup>3</sup></i><i> So in original. The semicolon probably should be a period.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be “financial”.</i>
+
+<i><sup>4</sup></i><i> So in original. The semicolon probably should be a period.</i>
+
+<i><sup>5</sup></i><i> So in original. The word “of” probably should not appear.</i>
 

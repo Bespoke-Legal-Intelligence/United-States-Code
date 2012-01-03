@@ -90,7 +90,7 @@ For purposes of this subchapter—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), the term “related person” means any person who is a member of the same controlled group (within the meaning of section5061(e)(3)) as the manufacturer, producer, or importer.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), the term “related person” means any person who is a member of the same controlled group (within the meaning of section 5061(e)(3)) as the manufacturer, producer, or importer.
 
 #### (ii) Exception for retail establishment
 

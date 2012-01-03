@@ -20,7 +20,7 @@ Each audit required pursuant to this chapter of the financial statements of an i
 
 &emsp;&emsp;(ii) if so, determine and consider the possible effect of the illegal act on the financial statements of the issuer, including any contingent monetary effects, such as fines, penalties, and damages; and
 
-&emsp;&emsp;(B) as soon as practicable, inform the appropriate level of the management of the issuer and assure that the audit committee of the issuer, or the board of directors of the issuer in the absence of such a committee, is adequately informed with respect to illegal acts that have been detected or have otherwise come to the attention of such firm in the course of the audit, unless the illegal act is clearly inconsequential.
+&emsp;&emsp;(B) as soon as practicable, inform the appropriate level of the management of the issuer and assure that the audit committee of the issuer, or the board of directors of the issuer in the absence of such a committee, is adequately informed with respect to illegal acts that have been detected or have otherwise come to the attention of such firm inthe course of the audit, unless the illegal act is clearly inconsequential.
 
 #### (2) Response to failure to take remedial action
 
@@ -238,7 +238,7 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
 #### Effective Date
 
-Section 301(b) of Pub. L. 104–67 provided that: “The amendment made by subsection (a) \[enacting this section\] shall apply to each annual report—
+Pub. L. 104–67, title III, §301(a), Dec. 22, 1995, 109 Stat. 764, provided that: “The amendment made by subsection (a) \[enacting this section\] shall apply to each annual report—
 
 &emsp;“(1) for any period beginning on or after January 1, 1996, with respect to any registrant that is required to file selected quarterly financial data pursuant to the rules or regulations of the Securities and Exchange Commission; and
 
@@ -246,5 +246,5 @@ Section 301(b) of Pub. L. 104–67 provided that: “The amendment made by subse
 
 #### Construction
 
-Section 203 of Pub. L. 104–67 provided that: “Nothing in this Act \[see Short Title of 1995 Amendment note set out under section 78a of this title\] or the amendments made by this Act shall be deemed to create or ratify any implied private right of action, or to prevent the Commission, by rule or regulation, from restricting or otherwise regulating private actions under the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\].”
+Pub. L. 104–67, title II, §203, Dec. 22, 1995, 109 Stat. 762, provided that: “Nothing in this Act \[see Short Title of 1995 Amendment note set out under section 78a of thistitle\] or the amendments made by this Act shall be deemed to create or ratify any implied private right of action, or to prevent the Commission, by rule or regulation, from restricting or otherwise regulating private actions under the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\].”
 

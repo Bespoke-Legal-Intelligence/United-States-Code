@@ -28,7 +28,7 @@ In general.—The amendments made by this section \[amending this section\] shal
 
 “(2)
 
-Application to prior actions.—Paragraph (2) of section 2780(b) of title 10, United States Code, as added by subsection (a), shall not be construed to apply to or invalidate any action taken under such section before March 1, 2007.”
+Application to prior actions.—Paragraph (2) of section 2780(b) of title 10, United States Code, as addedby subsection (a), shall not be construed to apply to or invalidate any action taken under such section before March 1, 2007.”
 
 #### Contracts for Recovery of Indebtedness
 

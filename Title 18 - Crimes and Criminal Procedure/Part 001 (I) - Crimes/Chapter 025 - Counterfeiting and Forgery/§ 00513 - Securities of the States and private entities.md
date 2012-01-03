@@ -1,12 +1,12 @@
 ### §513. Securities of the States and private entities
 
-(a) Whoever makes, utters or possesses a counterfeited security of a State or a political subdivision thereof or of an organization, or whoever makes, utters or possesses a forged security of a State or political subdivision thereof or of an organization, with intent to deceive another person, organization, or government shall be fined under this title <sup>1</sup> or imprisoned for not more than ten years, or both.
+(a) Whoever makes, utters or possesses a counterfeited security of a State or a political subdivision thereof or of an organization, or whoever makes, utters or possesses a forged security of a State or political subdivision thereof or of an organization, with intent to deceive another person, organization, or government shall befined under this title <sup>1</sup> or imprisoned for not more than ten years, or both.
 
 (b) Whoever makes, receives, possesses, sells or otherwise transfers an implement designed for or particularly suited for making a counterfeit or forged security with the intent that it be so used shall be punished by a fine under this title or by imprisonment for not more than ten years, or both.
 
 (c) For purposes of this section—
 
-&emsp;(1) the term “counterfeited” means a document that purports to be genuine but is not,because it has been falsely made or manufactured in its entirety;
+&emsp;(1) the term “counterfeited” means a document that purports to be genuine but is not, because it has been falsely made or manufactured in its entirety;
 
 &emsp;(2) the term “forged” means a document that purports to be genuine but is not because it has been falsely altered, completed, signed, or endorsed, or contains a false addition thereto or insertion therein, or is a combination of parts of two or more genuine documents;
 

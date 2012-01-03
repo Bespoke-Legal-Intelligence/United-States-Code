@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) the plan of such domestic parent corporation expressly provides for contributions or benefits for individuals who are citizens or residents of the United States and who are employees of its domestic subsidiaries; and
 
-&emsp;&emsp;(B) contributions under a funded plan of deferred compensation (whether or not aplan described in section 401(a) or 403(a)) are not provided by any other person with respect to the remuneration paid to such individual by the domestic subsidiary.
+&emsp;&emsp;(B) contributions under a funded plan of deferred compensation (whether or not a plan described in section 401(a) or 403(a)) are not provided by any other person with respect to the remuneration paid to such individual by the domestic subsidiary.
 
 #### (2) Definitions
 
@@ -66,7 +66,7 @@ An individual who is treated as an employee of a domestic parent corporation und
 
 &emsp;(2) Section 2039 (relating to annuities).
 
-(Added Pub. L. 88–272, title II, §220(b), Feb. 26, 1964, 78 Stat. 60; amended Pub. L. 91–172, title V, §515(c)(3), Dec. 30, 1969, 83 Stat. 646; Pub. L. 93–406, title II, §§1016(a)(5), 2005(c)(13), Sept. 2, 1974, 88 Stat. 929, 992; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–21, title III, §321(d), Apr. 20, 1983, 97 Stat. 119; Pub. L. 98–369, div. A, title IV, §491(d)(16)–(18), July 18, 1984, 98 Stat. 850; Pub. L. 99–514, title XI, §§1112(d)(3), 1114(b)(9)(B), (C), title XVIII, §1852(e)(2)(D), Oct. 22, 1986, 100 Stat. 2445, 2451, 2868; Pub. L. 100–647, title I, §1011A(b)(1)(C), (16), Nov. 10, 1988, 102 Stat. 3472, 3475; Pub. L. 101–239, title VII, §§7811(g)(3), 7831(f), Dec. 19, 1989, 103 Stat. 2409, 2427; Pub. L. 102–318, title V, §521(b)(15), July 3, 1992, 106 Stat. 311; Pub. L.104–188, title I, §§1401(b)(8), 1402(b)(2), Aug. 20, 1996, 110 Stat. 1789, 1790.)
+(Added Pub. L. 88–272, title II, §220(b), Feb. 26, 1964, 78 Stat. 60; amended Pub. L. 91–172, title V, §515(c)(3), Dec. 30, 1969, 83 Stat. 646; Pub. L. 93–406, title II, §§1016(a)(5), 2005(c)(13), Sept. 2, 1974, 88 Stat. 929, 992; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–21, title III, §321(d), Apr. 20, 1983, 97 Stat. 119; Pub. L. 98–369, div. A, title IV, §491(d)(16)–(18), July 18, 1984, 98 Stat. 850; Pub. L. 99–514, title XI, §§1112(d)(3), 1114(b)(9)(B), (C), title XVIII, §1852(e)(2)(D), Oct. 22, 1986, 100 Stat. 2445, 2451, 2868; Pub. L. 100–647, title I, §1011A(b)(1)(C), (16), Nov. 10, 1988, 102 Stat. 3472, 3475; Pub. L. 101–239, title VII, §§7811(g)(3), 7831(f), Dec. 19, 1989, 103 Stat. 2409, 2427; Pub. L. 102–318, title V, §521(b)(15), July 3, 1992, 106 Stat. 311; Pub. L. 104–188, title I, §§1401(b)(8), 1402(b)(2), Aug. 20, 1996, 110 Stat. 1789, 1790.)
 
 #### Amendments
 
@@ -140,7 +140,7 @@ Amendment by section 1852(e)(2)(D) of Pub. L. 99–514 applicable to transfers a
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 applicable to obligations issued after Dec. 31, 1983, see section 491(f)(1) of Pub. L. 98–369, set out as a note under section 62 of this title.
+Amendment by Pub. L. 98–369 applicable to obligations issued after Dec. 31, 1983, see section 491(f)(1) ofPub. L. 98–369, set out as a note under section 62 of this title.
 
 #### Effective Date of 1983 Amendment
 

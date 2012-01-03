@@ -6,7 +6,7 @@ The Comptroller General may conduct verification examinations with respect to th
 
 &emsp;(1) any person who is required to submit energy information to the Secretary, the Department of the Interior, or the Federal Energy Regulatory Commission pursuant to any rule, regulation, order, or other legal process of such Secretary, Department or Commission;
 
-&emsp;(2) any person who is engaged in the production, processing, refining, transportation bypipeline, or distribution (at other than the retail level) of energy resources—
+&emsp;(2) any person who is engaged in the production, processing, refining, transportation by pipeline, or distribution (at other than the retail level) of energy resources—
 
 &emsp;&emsp;(A) if such person has furnished, directly or indirectly, energy information (without regard to whether such information was furnished pursuant to legal requirements) to any Federal agency (other than the Internal Revenue Service), and
 

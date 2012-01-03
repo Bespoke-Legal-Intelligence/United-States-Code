@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(E) knowingly using a trick, scheme, or device with intent to mislead;
 
-&emsp;(4) the term “law enforcement officer” means an officer or employee of the FederalGovernment, or a person authorized to act for or on behalf of the Federal Government or serving the Federal Government as an adviser or consultant—
+&emsp;(4) the term “law enforcement officer” means an officer or employee of the Federal Government, or a person authorized to act for or on behalf of the Federal Government or serving the Federal Government as an adviser or consultant—
 
 &emsp;&emsp;(A) authorized under law to engage in or supervise the prevention, detection, investigation, or prosecution of an offense; or
 

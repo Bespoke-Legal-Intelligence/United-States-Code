@@ -12,7 +12,7 @@
 
 (f) Notwithstanding any other provision of law, chapter 51, subchapter III of chapter 53, and sections 5542–5546 of title 5 shall not apply to civilian keepers of lighthouses and to civilians employed on lightships and other vessels of the Coast Guard.
 
-(g)(1) The head of the department in which the Coast Guard is operating under regulations prescribed by him, may regulate the hours of duty and the pay of civilian keepers of lighthouses and civilians employed on lightships and other vessels of the Coast Guard, but such personnel may be called upon for duty in emergency circumstances or otherwise at any time or all times. The existing system governing the pay of such employees may be continued or changed except that overtime compensation, night differential, and extra pay for duty on holidays shall not be paid to such employees. In lieu thereof additional annual compensation may be authorized, which may be prescribed either as a fixed differential or as a percentage of the basic compensation otherwise applicable to such employees. In no case shall basic compensation exceed $15,000 per annum, except that nothing contained in this subsection shall operate to decrease the basic compensation of any person employed by the Coast Guard on the date of enactment of this subsection, and in no case shall additions thereto exceed 25 percent of such basiccompensation. Provision may be made for compensatory absence from duty when conditions of employment result in confinement because of isolation or in long periods of continuous duty; and provisions may likewise be made for extra allowance for service outside of the continental limits of the United States.
+(g)(1) The head of the department in which the Coast Guard is operating under regulations prescribed by him, may regulate the hours of duty and the pay of civilian keepers of lighthouses and civilians employed on lightships and other vessels of the Coast Guard, but such personnel may be called upon for duty in emergency circumstances or otherwise at any time or all times. The existing system governing the pay of such employees may be continued or changed except that overtime compensation, night differential, and extra pay for duty on holidays shall not be paid to such employees. In lieu thereof additional annual compensation may be authorized, which may be prescribed either as a fixed differential or as a percentage of the basic compensation otherwise applicable to such employees. In no case shall basic compensation exceed $15,000 per annum, except that nothing contained in this subsection shall operate to decrease the basic compensation of any person employed by the Coast Guard on the date of enactment of this subsection, and in no case shall additions thereto exceed 25 percent of such basic compensation. Provision may be made for compensatory absence from duty when conditions of employment result in confinement because of isolation or in long periods of continuous duty; and provisions may likewise be made for extra allowance for service outside of the continental limits of the United States.
 
 (2) The additional compensation authorized by this subsection shall be included in any computation of compensation under section 6 of the Act of June 20, 1918 (33 U.S.C. 763).
 
@@ -28,25 +28,25 @@ The date of enactment of this subsection, referred to in subsec. (g)(1), is Aug.
 
 #### Amendments
 
-1986—Subsec. (g). Pub. L. 99–640 designated existing provisions as par. (1), struck out last par. relating to inclusion of additional compensation in computations of compensation for purposes of the Lighthouse Service Retirement Act, and added par. (2).
+<b>1986</b>—Subsec. (g). Pub. L. 99–640 designated existing provisions as par. (1), struck out last par. relating to inclusion of additional compensation in computations of compensation for purposes of the Lighthouse Service Retirement Act, and added par. (2).
 
-1984—Subsec. (c). Pub. L. 98–557 substituted reference to enlisted members for reference to enlisted men.
+<b>1984</b>—Subsec. (c). Pub. L. 98–557 substituted reference to enlisted members for reference to enlisted men.
 
-1982—Subsec. (f). Pub. L. 97–295, §2(13), substituted “chapter 51, subchapter III of chapter 53, and sections 5542–5546 of title 5” for “the civil service classification laws and titles II and III of the Federal Employees Pay Act of 1945 as amended”.
+<b>1982</b>—Subsec. (f). Pub. L. 97–295, §2(13), substituted “chapter 51, subchapter III of chapter 53, and sections5542–5546 of title 5” for “the civil service classification laws and titles II and III of the Federal Employees Pay Act of 1945 as amended”.
 
 Subsec. (g). Pub. L. 97–295, §2(11), substituted “percent” for “per centum”.
 
-1979—Subsec. (g). Pub. L. 96–23 substituted “$15,000” for “$7,500”.
+<b>1979</b>—Subsec. (g). Pub. L. 96–23 substituted “$15,000” for “$7,500”.
 
-1970—Subsec. (g). Pub. L. 91–278 substituted “$7,500” for “$5,100”.
+<b>1970</b>—Subsec. (g). Pub. L. 91–278 substituted “$7,500” for “$5,100”.
 
-1959—Subsec. (g). Pub. L. 86–309 substituted “$5,100” for “$3,750”.
+<b>1959</b>—Subsec. (g). Pub. L. 86–309 substituted “$5,100” for “$3,750”.
 
-1955—Subsec. (f). Act Aug. 9, 1955, §1, inserted “as amended”.
+<b>1955</b>—Subsec. (f). Act Aug. 9, 1955, §1, inserted “as amended”.
 
 Subsec. (g). Act Aug. 9, 1955, §2, authorized head of department in which the Coast Guard is operating to regulate hours of duty and pay.
 
 #### Retroactive Pay
 
-Section 5(b) of Pub. L. 96–23 provided that: “The Coast Guard may issue retroactive pay to its remaining civilian lighthouse keepers in an amount equal to the difference between what the keeper actually received and what he would have received under the General Schedule salary rates had there not been a statutory limitation of $7,500 on his annual salary. This amount is to be calculated from the time at which his salary reached the statutory limitation to the date of enactment of this Act \[June 13, 1979\].”
+Pub. L. 96–23, §5(b), June 13, 1979, 93 Stat. 69, provided that: “The Coast Guard may issue retroactive pay to its remaining civilian lighthouse keepers in an amount equal to the difference between what the keeper actually received and what he would have received under the General Schedule salary rates had there not been a statutory limitation of $7,500 on his annual salary. This amount is to be calculated from the time at which his salary reached the statutory limitation to the date of enactment of this Act \[June 13, 1979\].”
 

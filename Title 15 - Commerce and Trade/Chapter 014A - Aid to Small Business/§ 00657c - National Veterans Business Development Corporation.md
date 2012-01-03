@@ -16,7 +16,7 @@ The purposes of the Corporation shall be—
 
 #### (1) In general
 
-&emsp;The management of the Corporation shall be vested in a Board of Directors composed ofnine voting members and three nonvoting ex officio members.
+&emsp;The management of the Corporation shall be vested in a Board of Directors composed of nine voting members and three nonvoting ex officio members.
 
 #### (2) Appointment of voting members
 
@@ -112,7 +112,7 @@ On October 1, 1999, the Corporation shall become a body corporate and as such sh
 
 #### (f) Network of information and assistance centers
 
-In carrying out the purpose described in subsection (b) of this section, the Corporation shallestablish and maintain a network of information and assistance centers for use by veterans and the public.
+In carrying out the purpose described in subsection (b) of this section, the Corporation shall establish and maintain a network of information and assistance centers for use by veterans and the public.
 
 #### (g) Annual report
 
@@ -168,7 +168,7 @@ The Corporation may use the United States mails in the same manner and under the
 
 #### (B) Subsequent fiscal years
 
-&emsp;&emsp;The amount made available to the Corporation for fiscal year 2003 or 2004 may not exceed the amount that the Corporation certifies that it will provide for that fiscal year from sources other than the Federal Government.
+&emsp;&emsp;The amount made available to the Corporation for fiscal year 2003 or 2004 may notexceed the amount that the Corporation certifies that it will provide for that fiscal year from sources other than the Federal Government.
 
 #### (3) Privatization
 

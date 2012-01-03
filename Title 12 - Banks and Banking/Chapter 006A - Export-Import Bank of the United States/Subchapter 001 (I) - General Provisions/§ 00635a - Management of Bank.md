@@ -192,7 +192,7 @@ Provisions of subsecs. (b) and (c)(3) of this section, which prescribed the annu
 
 #### Amendments
 
-2006—Subsec. (c)(9). Pub. L. 109–438, §15, added par. (9).
+<b>2006</b>—Subsec. (c)(9). Pub. L. 109–438, §15, added par. (9).
 
 Subsec. (d)(1)(A). Pub. L. 109–438, §18(a)(1)(A), substituted “17” for “15”.
 
@@ -204,29 +204,29 @@ Subsecs. (f) to (h). Pub. L. 109–438, §6(a), added subsecs. (f) to (h).
 
 Subsec. (i). Pub. L. 109–438, §14(a), added subsec. (i).
 
-2002—Subsec. (d)(2)(B). Pub. L. 107–189 realigned margins.
+<b>2002</b>—Subsec. (d)(2)(B). Pub. L. 107–189 realigned margins.
 
-1999—Subsec. (c)(6). Pub. L. 106–46 amended par. (6) generally. Prior to amendment, par. (6) read as follows: “A majority of the Board of Directors shall constitute a quorum.”
+<b>1999</b>—Subsec. (c)(6). Pub. L. 106–46 amended par. (6) generally. Prior to amendment, par. (6) read as follows: “A majority of the Board of Directors shall constitute a quorum.”
 
-1997—Subsec. (d)(2). Pub. L. 105–121, §8, designated existing provisions as subpar. (A) and added subpar. (B).
+<b>1997</b>—Subsec. (d)(2). Pub. L. 105–121, §8, designated existing provisions as subpar. (A) and added subpar. (B).
 
 Subsec. (e). Pub. L. 105–121, §6, designated existing provisions as par. (1) and added par. (2).
 
-1992—Subsec. (d)(1)(A). Pub. L. 102–429 substituted “15 members” for “twelve members”.
+<b>1992</b>—Subsec. (d)(1)(A). Pub. L. 102–429 substituted “15 members” for “twelve members”.
 
-1986—Subsec. (c)(8)(E). Pub. L. 99–472 added subpar. (E).
+<b>1986</b>—Subsec. (c)(8)(E). Pub. L. 99–472 added subpar. (E).
 
-1983—Subsec. (c). Pub. L. 98–81, §614(a), designated first through seventh sentences as pars. (1) through (7), respectively, substituted “The” for “Terms of the directors shall be at the pleasure of the President of the United States, and the” at beginning of par. (5) as so designated, and added par. (8).
+<b>1983</b>—Subsec. (c). Pub. L. 98–81, §614(a), designated first through seventh sentences as pars. (1) through (7), respectively, substituted “The” for “Terms of the directors shall be at the pleasure of the President of the United States, and the” at beginning of par. (5) as so designated, and added par. (8).
 
 Subsec. (d). Pub. L. 98–181, §613, amended subsec. (d) generally. Prior to amendment subsec. (d) read as follows: “There shall be an Advisory Committee of nine members, appointed by the Board of Directors on therecommendation of the President of the Bank, who shall be broadly representative of production, commerce, finance, agriculture and labor. The Advisory Committee shall meet one or more times per year, on the call of the President of the Bank, to advise with the Bank on its program. Members, not otherwise in the regular full-time employ of the United States, may be compensated at rates not exceeding the per diem equivalent of the rate for grade 18 of the General Schedule (5 U.S.C. 5332) for each day spent in travel or attendance at meetings of the Committee, and while so serving away from their homes or regular places of business, they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for individuals in the Government service employed intermittently.”
 
 Subsec. (e). Pub. L. 98–181, §620(b), substituted “such individual's” for “his” and “such individual” for “he”.
 
-1968—Subsecs. (a) to (c). Pub. L. 90–267, §1(a), changed name of “Export-Import Bank of Washington” to “Export-Import Bank of the United States”.
+<b>1968</b>—Subsecs. (a) to (c). Pub. L. 90–267, §1(a), changed name of “Export-Import Bank of Washington” to “Export-Import Bank of the United States”.
 
 Subsec. (d). Pub. L. 90–267, §1(d), substituted provisions for compensation of members, not otherwise in the regular full-time employ of the United States, at rates not exceeding the per diem equivalent of the rate for grade 18 of the General Schedule for each day spent in travel or attendance at meetings of the Committee, and for allowance of travel expenses, when serving away from home or regular place of business, as authorized by section 5703 of title 5 for individuals in the Government service employed intermittently for former provisions for allowance for attendance at meetings and travel expenses of $50 and $10, respectively.
 
-1954—Act Aug. 9, 1954, amended section generally to provide for the independent management of the Bank under a Board of Directors and for the appointment of a President and First Vice President of the Bank.
+<b>1954</b>—Act Aug. 9, 1954, amended section generally to provide for the independent management of the Bank under a Board of Directors and for the appointment of a President and First Vice President of the Bank.
 
 #### Effective Date of 1954 Amendment
 
@@ -250,7 +250,7 @@ Pub. L. 106–46, §1(b), Aug. 11, 1999, 113 Stat. 227, as amended by Pub. L. 10
 
 #### Compensation of Employees
 
-Section 117 of Pub. L. 102–429 provided that:
+Pub. L. 102–429, title I, §117, Oct. 21, 1996, 106 Stat. 2196, provided that:
 
 “(a)
 
@@ -276,9 +276,11 @@ Report.—Not later than 1 year after the date of enactment of this Act, the Exp
 
 &emsp;&emsp;“(B) whether or not the authority of subsection (a) should be extended.”
 
-\[Pub. L. 111–117, div. F, title VI, Dec. 16, 2009, 123 Stat. 3341, provided in part: “That notwithstanding subsection (b) of section 117 of the Export Enhancement Act of 1992 \[Pub. L. 102–429, set out above\], subsection (a) thereof shall remain in effect until October 1, 2010.”\]
+\[Pub. L. 112–74, div. I, title VI, Dec. 23, 2011, 125 Stat. 1191, provided in part: “That notwithstanding subsection (b) of section 117 of the Export Enhancement Act of 1992 \[Pub. L. 102–429, set out above\], subsection (a) thereof shall remain in effect until October 1, 2012”.\]
 
 \[Prior similar extensions of section 117(a) of Pub. L. 102–429 were contained in the following acts:
+
+\[Pub. L. 111–117, div. F, title VI, Dec. 16, 2009, 123 Stat. 3341.
 
 \[Pub. L. 111–8, div. H, title VI, Mar. 11, 2009, 123 Stat. 859.
 
@@ -314,7 +316,7 @@ Section 118 of Pub. L. 102–429 directed Export-Import Bank, not later than 1 y
 
 #### Appointment of Member of Board To Represent Interests of Small Business Community
 
-Section 614(b) of Pub. L. 98–181 provided that: “In order to carry out the amendment made by subsection (a) regarding section 3(c)(8)(B) of the Export-Import Bank Act of 1945 \[subsec. (c)(8)(B) of this section\], the first member, other than a member who will serve as Chairman or Vice Chairman of the Bank, appointed bythe President of the United States to the Board of Directors of the Export-Import Bank of the United States after the date of the enactment of this section \[Nov. 30, 1983\] shall be selected from among the small business community and shall represent the interests of small business.”
+Section 614(b) of Pub. L. 98–181 provided that: “In order to carry out the amendment made by subsection (a) regarding section 3(c)(8)(B) of the Export-ImportBank Act of 1945 \[subsec. (c)(8)(B) of this section\], the first member, other than a member who will serve as Chairman or Vice Chairman of the Bank, appointed by the President of the United States to the Board of Directors of the Export-Import Bank of the United States after the date of the enactment of this section \[Nov. 30, 1983\] shall be selected from among the small business community and shall represent the interests of small business.”
 
 #### Board of Directors; Advisory Committee
 

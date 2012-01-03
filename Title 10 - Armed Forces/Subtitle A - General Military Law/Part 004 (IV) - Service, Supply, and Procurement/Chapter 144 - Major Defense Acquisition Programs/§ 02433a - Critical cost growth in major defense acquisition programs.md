@@ -18,7 +18,7 @@ Reassessment of Program.—If the program acquisition unit cost or procurement u
 
 (b)
 
-Presumption of Termination.—(1) After conducting the reassessment required by subsection (a) with respect to a major defense acquisition program, the Secretary shall terminate the program unless the Secretary submits to Congress, before the end of the 60-day period beginning on the day the Selected Acquisition Report containing the information described in section 2433(g) of this title is required to be submitted under section 2432(f) of this title, a written certification in accordance with paragraph (2).
+Presumption of Termination.—(1) After conducting the reassessment required by subsection (a) with respect to a major defense acquisition program, the Secretary shall terminate the program unless the Secretary submits to Congress, before the end of the 60-day period beginning on the day the Selected AcquisitionReport containing the information described in section 2433(g) of this title is required to be submitted under section 2432(f) of this title, a written certification in accordance with paragraph (2).
 
 (2) A certification described by this paragraph with respect to a major defense acquisition program is a written certification that—
 
@@ -40,15 +40,45 @@ Actions if Program Not Terminated.—(1) If the Secretary elects not to terminat
 
 &emsp;(A) restructure the program in a manner that addresses the root cause or causes of the critical cost growth, as identified pursuant to subsection (a), and ensures that the program has an appropriate management structure as set forth in the certification submitted pursuant to subsection (b)(2)(E);
 
-&emsp;(B) rescind the most recent Milestone approval, or Key Decision Point approval in the case of a space program, for the program and withdraw any associated certification under section 2366a or 2366b of this title;
+&emsp;(B) rescind the most recent Milestone approval for the program and withdraw any associated certification under section 2366a or 2366b of this title;
 
-&emsp;(C) require a new Milestone approval, or Key Decision Point approval in the case of a space program, for the program before taking any contract action to enter a new contract, exercise an option under an existing contract, or otherwise extend the scope of an existing contract under the program, except to the extent determined necessary by the Milestone Decision Authority, on a non-delegable basis, to ensure that the program can be restructured as intended by the Secretary without unnecessarily wasting resources;
+&emsp;(C) require a new Milestone approval for the program before taking any contract action to enter a new contract, exercise an option under an existing contract, or otherwise extend the scope of an existing contract under the program, except to the extent determined necessary by the Milestone Decision Authority, on a non-delegable basis, to ensure that the program can be restructured as intended by the Secretary without unnecessarily wasting resources;
 
 &emsp;(D) include in the report specified in paragraph (2) a description of all funding changes made as a result of the growth in cost of the program, including reductions made in funding for other programs to accommodate such cost growth; and
 
 &emsp;(E) conduct regular reviews of the program in accordance with the requirements of section 205 of the Weapon Systems Acquisition Reform Act of 2009.
 
 (2) For purposes of paragraph (1)(D), the report specified in this paragraph is the first Selected Acquisition Report for the program submitted pursuant to section 2432 of this title after the President submits a budget pursuant to section 1105 of title 31, in the calendar year following the year in which the program was restructured.
+
+(3)(A) The requirements of subparagraphs (B) and (C) of paragraph (1) shall not apply to a program or subprogram if—
+
+&emsp;(i) the Milestone Decision Authority determines in writing, on the basis of a cost assessment and root cause analysis conducted pursuant to subsection (a), that—
+
+&emsp;&emsp;(I) but for a change in the quantity of items to be purchased under the program or subprogram, the program acquisition unit cost or procurement unit cost for the program or subprogram would not have increased by a percentage equal to or greater than the cost growth thresholds for the program or subprogram set forth in subparagraph (B); and
+
+&emsp;&emsp;(II) the change in quantity of items described in subclause (I) was not made as a result of an increase in program cost, a delay in the program, or a problem meeting program requirements;
+
+&emsp;(ii) the Secretary determines in writing that the cost to the Department of Defense of complying with such requirements is likely to exceed the benefits to the Department of complying with such requirements; and
+
+&emsp;(iii) the Secretary submits to Congress, before the end of the 60-day period beginning on the day the Selected Acquisition Report containing the information described in section 2433(g) of this title is required to be submitted under section 2432(f) of this title—
+
+&emsp;&emsp;(I) a copy of the written determination under clause (i) and an explanation of the basis for the determination; and
+
+&emsp;&emsp;(II) a copy of the written determination under clause (ii) and an explanation of the basis for the determination.
+
+(B) The cost growth thresholds specified in this subparagraph are as follows:
+
+&emsp;(i) In the case of a major defense acquisition program or designated major defense subprogram, a percentage increase in the program acquisition unit cost for the program or subprogram of—
+
+&emsp;&emsp;(I) 5 percent over the program acquisition unit cost for the program or subprogram as shown in the current Baseline Estimate for the program or subprogram; and
+
+&emsp;&emsp;(II) 10 percent over the program acquisition unit cost for the program or subprogram as shown in the original Baseline Estimate for the program or subprogram.
+
+&emsp;(ii) In the case of a major defense acquisition program or designated major defense subprogram that is a procurement program, a percentage increase in the procurement unit cost for the program or subprogram of—
+
+&emsp;&emsp;(I) 5 percent over the procurement unit cost for the program or subprogram as shown in the current Baseline Estimate for the program or subprogram; and
+
+&emsp;&emsp;(II) 10 percent over the procurement unit cost for the program or subprogram asshown in the original Baseline Estimate for the program or subprogram.
 
 (d)
 
@@ -60,7 +90,7 @@ Actions if Program Terminated.—If a major defense acquisition program is termi
 
 &emsp;(3) the course the Department plans to pursue to meet any continuing joint military requirements otherwise intended to be met by the program.
 
-(Added Pub. L. 111–23, title II, §206(a)(1), May 22, 2009, 123 Stat. 1726; amended Pub. L. 111–383, div. A, title X, §1075(b)(35), Jan. 7, 2011, 124 Stat. 4371.)
+(Added Pub. L. 111–23, title II, §206(a)(1), May 22, 2009, 123 Stat. 1726; amended Pub. L. 111–383, div. A, title X, §1075(b)(35), Jan. 7, 2011, 124 Stat. 4371; Pub. L. 112–81, div. A, title VIII, §§801(e)(4), 831, Dec. 31, 2011, 125 Stat. 1484, 1503.)
 
 #### References in Text
 
@@ -69,6 +99,10 @@ Section 205 of the Weapon Systems Acquisition Reform Act of 2009, referred to in
 #### Amendments
 
 <b>2011</b>—Subsec. (b)(2)(B). Pub. L. 111–383 substituted “section 181(g)(1)” for “section 181(g)((1)”.
+
+Subsec. (c)(1)(B), (C). Pub. L. 112–81, §801(e)(4), struck out “, or Key Decision Point approval in the case of a space program,” after “Milestone approval”.
+
+Subsec. (c)(3). Pub. L. 112–81, §831, added par. (3).
 
 #### Reviews of Programs Restructured After Experiencing Critical Cost Growth
 

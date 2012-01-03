@@ -16,7 +16,7 @@ The Secretary shall carry out the following functions:
 
 #### References in Text
 
-This chapter, referred to in pars. (3) and (4), was in the original “this Act” and was translated as reading “this title” meaning title II of act Aug. 1, 1956, ch. 841, as added Aug. 24, 1982, Pub. L. 97–241, title II, §202(b), 96 Stat. 283, known as the Foreign Missions Act, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 4301 of this title and Tables.
+This chapter, referred to in pars. (3) and (4), was in the original “this Act” and was translated as reading “this title” meaning title II of act Aug. 1, 1956, ch. 841, as added Aug. 24, 1982, Pub. L. 97–241, title II, §202(b), 96 Stat. 283, known as the Foreign Missions Act, which is classified principally to this chapter. For completeclassification of title II to the Code, see Short Title note set out under section 4301 of this title and Tables.
 
 #### Amendments
 

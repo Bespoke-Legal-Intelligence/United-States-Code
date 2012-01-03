@@ -12,7 +12,7 @@
 
 (2) The amount paid to a State pursuant to paragraph (1) shall be expended as the State legislature may prescribe for the benefit of the public schools and public roads of the county or counties in which the military installation or facility is situated.
 
-(3) In a case in which a military installation or facility is located in more than one State or county, the amount paid pursuant to paragraph (1) shall be distributed in a manner proportional to the area of such installation or facility in each State or county.
+(3) In a case in which a military installation or facility is located in more than one State or county, the amount paid pursuant to paragraph\(1) shall be distributed in a manner proportional to the area of such installation or facility in each State or county.
 
 (f)(1) There is in the Treasury a reserve account administered by the Secretary of Defense for the purposes of this section. Balances in the account may be used for costs of the military departments—
 
@@ -82,7 +82,7 @@ This corrects an error in an amendment to 10:2665 made by section 12(3)(B) of th
 
 Subsec. (e)(1). Pub. L. 99–561, §4(2), struck out “for all expenses of production of forest products” after “subsection (d)”.
 
-Subsec. (f)(1). Pub. L. 99–561, §4(3)(A), (B), substituted “costs” for “expenses” in provisions preceding subpar. (A) and amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “for expenses to enable operations of forest lands and the production of forest products to continue from the end of one fiscalyear through the beginning of the next fiscal year without disruption.”
+Subsec. (f)(1). Pub. L. 99–561, §4(3)(A), (B), substituted “costs” for “expenses” in provisions preceding subpar. (A) and amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “for expenses to enable operations of forest lands and the production of forest products to continue from the end of one fiscal year through the beginning of the next fiscal year without disruption.”
 
 Subsec. (f)(2), (3). Pub. L. 99–561, §4(3)(C), amended pars. (2) and (3) generally. Prior to amendment, pars. (2) and (3) read as follows:
 

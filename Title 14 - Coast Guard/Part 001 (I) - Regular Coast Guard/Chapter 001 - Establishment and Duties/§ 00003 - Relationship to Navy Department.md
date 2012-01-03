@@ -14,11 +14,11 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### Amendments
 
-2006—Pub. L. 109–241 inserted “if Congress so directs in the declaration” after “Upon the declaration of war”.
+<b>2006</b>—Pub. L. 109–241 inserted “if Congress so directs in the declaration” after “Upon the declaration of war”.
 
-2002—Pub. L. 107–296 substituted “Department of Homeland Security” for “Department of Transportation”.
+<b>2002</b>—Pub. L. 107–296 substituted “Department of Homeland Security” for “Department of Transportation”.
 
-1976—Pub. L. 94–546 substituted “Executive” for “executive” and “Department of Transportation” for “Treasury Department”.
+<b>1976</b>—Pub. L. 94–546 substituted “Executive” for “executive” and “Department of Transportation” for “Treasury Department”.
 
 #### Effective Date of 2002 Amendment
 

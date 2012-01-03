@@ -82,7 +82,7 @@ As used in this subchapter—
 
 #### (16) State agency
 
-&emsp;The term “State agency” means any department, agency, or other instrumentality of thegovernment of any State or of any political subdivision of any State.
+&emsp;The term “State agency” means any department, agency, or other instrumentality of the government of any State or of any political subdivision of any State.
 
 #### (17) Technical regulation
 
@@ -114,7 +114,7 @@ Par. (2). Pub. L. 103–465, §351(e)(2), amended heading and text of par. (2) g
 
 Par. (4). Pub. L. 103–465, §351(e)(3), substituted “conformity assessment procedure” for “certification system” in two places.
 
-Par. (6)(A). Pub. L. 103–465, §351(e)(4), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the membership of which is open to representatives, whether public or private, of the United States and—
+Par. (6)(A). Pub. L. 103–465, §351(e)(4), amended subpar. (A) generally. Prior to amendment, subpar. (A)read as follows: “the membership of which is open to representatives, whether public or private, of the United States and—
 
 &emsp;“(i) all Parties to the Agreement, or
 

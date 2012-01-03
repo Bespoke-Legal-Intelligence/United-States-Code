@@ -2,7 +2,7 @@
 
 (a)
 
-Additional General Officers.—(1) In addition to the Chief of the National Guard Bureau and the Director of the Joint Staff of the National Guard Bureau, there shall be assigned to the National Guard Bureau—
+Additional General Officers.—(1) In addition to the Chief and Vice Chief of the National Guard Bureau, there shall be assigned to the National Guard Bureau—
 
 &emsp;(A) two general officers selected by the Secretary of the Army from officers of the Army National Guard of the United States who have been nominated by their respective Governors or, in the case of the District of Columbia, the commanding general of the District of Columbia National Guard, the senior of whom shall be appointed in accordance with paragraph (3), shall hold the grade of lieutenant general while so serving, and shall serve as Director, Army National Guard, with the other serving as Deputy Director, Army National Guard; and
 
@@ -18,7 +18,7 @@ Additional General Officers.—(1) In addition to the Chief of the National Guar
 
 &emsp;(ii) is determined by the Chairman of the Joint Chiefs of Staff, in accordance with criteria and as a result of a process established by the Chairman, to have significant joint duty experience.
 
-(C) An officer on active duty for service as the Director, Army National Guard, or the Director,Air National Guard, shall be counted for purposes of the grade limitations under sections 525 and 526 of this title.
+(C) An officer on active duty for service as the Director, Army National Guard, or the Director, Air National Guard, shall be counted for purposes of the grade limitations under sections 525 and 526 of this title.
 
 (D) Until December 31, 2006, the Secretary of Defense may waive clause (ii) of subparagraph (B) with respect to the appointment of an officer as Director, Army National Guard, or as Director, Air National Guard, if the Secretary of the military department concerned requests the waiver and, in the judgment of the Secretary of Defense—
 
@@ -34,9 +34,11 @@ Additional General Officers.—(1) In addition to the Chief of the National Guar
 
 Other Officers.—There are in the National Guard Bureau a legal counsel, a comptroller, and an inspector general, each of whom shall be appointed by the Chief of the National Guard Bureau. They shall perform such duties as the Chief may prescribe.
 
-(Added Pub. L. 103–337, div. A, title IX, §904(a), Oct. 5, 1994, 108 Stat. 2827; amended Pub. L. 106–65, div. A, title V, §554(f), Oct. 5, 1999, 113 Stat. 617; Pub. L. 106–398, §1 \[\[div. A\], title V, §507(e)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–105; Pub. L. 107–314, div. A, title V, §501(a), Dec. 2, 2002, 116 Stat. 2529; Pub. L. 108–375, div. A, title V, §§508(b)(4), 536(a), Oct. 28, 2004, 118 Stat. 1877, 1901.)
+(Added Pub. L. 103–337, div. A, title IX, §904(a), Oct. 5, 1994, 108 Stat. 2827; amended Pub. L. 106–65, div. A, title V, §554(f), Oct. 5, 1999, 113 Stat. 617; Pub. L. 106–398, §1 \[\[div. A\], title V, §507(e)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–105; Pub. L. 107–314, div. A, title V, §501(a), Dec. 2, 2002, 116 Stat. 2529; Pub. L. 108–375, div. A, title V, §§508(b)(4), 536(a), Oct. 28, 2004, 118 Stat. 1877, 1901; Pub. L. 112–81, div. A, title V, §511(c)(2), Dec. 31, 2011, 125 Stat. 1393.)
 
 #### Amendments
+
+<b>2011</b>—Subsec. (a)(1). Pub. L. 112–81 substituted “Chief and Vice Chief” for “Chief of the National Guard Bureau and the Director of the Joint Staff”.
 
 <b>2004</b>—Subsec. (a)(1). Pub. L. 108–375, §508(b)(4), substituted “Chief of the National Guard Bureau and the Director of the Joint Staff of the National Guard Bureau” for “Chief and Vice Chief of the National Guard Bureau” in introductory provisions.
 

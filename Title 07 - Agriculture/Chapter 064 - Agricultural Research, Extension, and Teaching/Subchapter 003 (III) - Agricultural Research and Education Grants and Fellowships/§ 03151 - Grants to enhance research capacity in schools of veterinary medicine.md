@@ -28,7 +28,7 @@ Funds appropriated to carry out this section for any fiscal year shall be apport
 
 #### Amendments
 
-1990—Pub. L. 101–624, §1607(b)(1), amended section catchline generally.
+<b>1990</b>—Pub. L. 101–624, §1607(b)(1), amended section catchline generally.
 
 Subsec. (a). Pub. L. 101–624, §1607(b)(1), inserted heading.
 
@@ -38,15 +38,15 @@ Subsec. (b). Pub. L. 101–624, §1607(b)(2), inserted heading.
 
 Subsec. (b)(1). Pub. L. 101–624, §1607(a)(2), struck out “, or has made a reasonable effort to establish,” after “established”, and “and” after “States;”.
 
-Subsec. (b)(2). Pub. L. 101–624, §1607(a)(3), amended par. (2) generally. Prior to amendment, par. (2) read asfollows: “the clinical training of the school to be established or expanded shall emphasize care and preventive medical programs for food-producing animals.”
+Subsec. (b)(2). Pub. L. 101–624, §1607(a)(3), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the clinical training of the school to be established or expanded shall emphasize care and preventive medical programs for food-producing animals.”
 
 Subsec. (b)(3). Pub. L. 101–624, §1607(a)(3), added par. (3).
 
 Subsec. (c). Pub. L. 101–624, §1607(b)(3), inserted heading.
 
-1985—Subsec. (c)(1). Pub. L. 99–198 substituted “Five” for “Four”.
+<b>1985</b>—Subsec. (c)(1). Pub. L. 99–198 substituted “Five” for “Four”.
 
-1981—Subsec. (c)(2). Pub. L. 97–98 struck out proviso that not less than 50 per centum of such funds shall be made available to States which have accredited schools of veterinary medicine.
+<b>1981</b>—Subsec. (c)(2). Pub. L. 97–98 struck out proviso that not less than 50 per centum of such funds shall be made available to States which have accredited schools of veterinary medicine.
 
 #### Effective Date of 1981 Amendment
 

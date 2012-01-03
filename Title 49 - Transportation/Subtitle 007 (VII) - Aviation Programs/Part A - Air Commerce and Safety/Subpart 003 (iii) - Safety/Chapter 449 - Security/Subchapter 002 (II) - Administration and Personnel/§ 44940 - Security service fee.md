@@ -62,7 +62,7 @@ Special rule for fiscal year 2002.—The amount of fees collected under this par
 
 (b)
 
-Schedule of Fees.—In imposing fees under subsection (a), the Under Secretary shall ensurethat the fees are reasonably related to the Transportation Security Administration's costs of providing services rendered.
+Schedule of Fees.—In imposing fees under subsection (a), the Under Secretary shall ensure that the fees are reasonably related to the Transportation Security Administration's costs of providing services rendered.
 
 (c)
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Gross income of an employee does not include amounts paid or expenses incurred bythe employer for educational assistance to the employee if the assistance is furnished pursuant to a program which is described in subsection (b).
+&emsp;Gross income of an employee does not include amounts paid or expenses incurred by the employer for educational assistance to the employee if the assistance is furnished pursuant to a program which is described in subsection (b).
 
 #### (2) $5,250 maximum exclusion
 
@@ -82,7 +82,7 @@ For purposes of this section—
 
 #### (7) Disallowance of excluded amounts as credit or deduction
 
-&emsp;No deduction or credit shall be allowed to the employee under any other section of thischapter for any amount excluded from income by reason of this section.
+&emsp;No deduction or credit shall be allowed to the employee under any other section of this chapter for any amount excluded from income by reason of this section.
 
 #### (d) Cross reference
 
@@ -150,7 +150,7 @@ Pub. L. 99–514, §1114(b)(4), substituted “highly compensated employees (wit
 
 Subsec. (b)(6). Pub. L. 99–514, §1151(c)(4)(B), struck out par. (6) which read as follows: “
 
-Notification of employees.—Reasonable notification of the availabilityand terms of the program must be provided to eligible employees.”
+Notification of employees.—Reasonable notification of the availability and terms of the program must be provided to eligible employees.”
 
 Subsec. (d). Pub. L. 99–514, §1162(a)(1), substituted “December 31, 1987” for “December 31, 1985”.
 

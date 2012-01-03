@@ -12,7 +12,7 @@ Relief Required.—(1) Except as provided in paragraph (2), each member of the A
 
 (b)
 
-Advance Authorization and Consent.—The President and the Governor of a State or Territory, or of the Commonwealth of Puerto Rico, or the commanding general of the District of Columbia National Guard, as applicable, may give the authorization or consent required by subsection (a)(2) with respect to an officer in advance for the purpose of establishing the succession of command of a unit.
+Advance Authorization and Consent.—The President and the Governor of a State orTerritory, or of the Commonwealth of Puerto Rico, or the commanding general of the District of Columbia National Guard, as applicable, may give the authorization or consent required by subsection (a)(2) with respect to an officer in advance for the purpose of establishing the succession of command of a unit.
 
 (c)
 
@@ -58,15 +58,11 @@ Subsec. (b). Pub. L. 108–136, §516(b), inserted heading.
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–456 struck out “, the Canal Zone,” after “Puerto Rico”.
 
+#### Delegation of Functions
+
+Functions and authority of President under this section delegated to the Secretary of Defense, see Memorandum of President of the United States, Apr. 14, 2011, 76 F.R. 22003, set out as a note under section 315 of this title.
+
 #### National Guard Support for 2004 Democratic and Republican National Conventions and Other Appropriate Events
 
-Memorandum of President of the United States, July 23, 2004, 69 F.R. 46397, provided:
-
-Memorandum for the Secretary of Defense
-
-By the authority vested in me as President by the Constitution and the laws of the United States, including section 301 of title 3, United States Code, I hereby delegate to you the functions and authority of the President contained in section 325 of title 32, United States Code, with respect to activities related to the2004 Democratic and Republican National Conventions, and other appropriate events as you determine from time to time in consultation with the Assistant to the President for Homeland Security.
-
-You are further authorized and directed to make necessary arrangements to fund this activity from the proper appropriations and to publish this memorandum in the Federal Register.
-
-George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Memorandum of President of the United States, July 23, 2004, 69 F.R. 46397, which delegated to the Secretary of Defense the functions and authority of the President under this section, was superseded by Memorandum of President of the United States, Apr. 14, 2011, 69 F.R. 22003, set out as a note under section 315 of this title.
 

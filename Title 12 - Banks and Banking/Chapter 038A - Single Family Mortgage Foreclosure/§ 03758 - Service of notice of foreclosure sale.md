@@ -36,7 +36,7 @@ The foreclosure commissioner shall serve the notice of default and foreclosure s
 
 #### (ii) Notice under clause (iii)
 
-&emsp;&emsp;&emsp;Notice under clause (iii) of subparagraph (A) shall be mailed not less than 21 days before the date of the foreclosure sale. Ifthe names of the occupants of the security property are not known to the Secretary, or the security property has more than 1 dwelling, the notice shall be posted at the security property not less than 21 days before the foreclosure sale.
+&emsp;&emsp;&emsp;Notice under clause (iii) of subparagraph (A) shall be mailed not less than 21 days before the date of the foreclosure sale. If the names of the occupants of the security property are not known to the Secretary, or the security property has more than 1 dwelling, the notice shall be posted at the security property not less than 21 days before the foreclosure sale.
 
 #### (iii) Notice under clause (iv)
 
@@ -50,7 +50,7 @@ The foreclosure commissioner shall serve the notice of default and foreclosure s
 
 #### (A) In general
 
-&emsp;&emsp;A copy of the notice of default and foreclosure sale shall be published once a week during 3 successive calendar weeks before the date of the foreclosure sale. Such publication shall be in a newspaper or newspapers having general circulation in the county or counties in which the security property being sold is located. To the extent practicable, the newspaper or newspapers chosen shall be a newspaper or newspapers having circulation conducive to achieving notice of foreclosure by publication. A legal newspaper that is accepted as a newspaper of legal record in the county or counties in which the security property being sold is located shall be considered a newspaper having general circulation for the purposes of this paragraph.
+&emsp;&emsp;A copy of the notice of default and foreclosure sale shall be published once a week during 3 successive calendar weeks before the date of the foreclosure sale. Such publication shall be in a newspaper or newspapers having general circulation in the county or counties in which the security property being sold is located. To the extent practicable, the newspaper or newspapers chosen shall be a newspaper or newspapers havingcirculation conducive to achieving notice of foreclosure by publication. A legal newspaper that is accepted as a newspaper of legal record in the county or counties in which the security property being sold is located shall be considered a newspaper having general circulation for the purposes of this paragraph.
 
 #### (B) Exception
 

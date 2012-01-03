@@ -18,7 +18,7 @@ First 3 fiscal years.—In the first 3 fiscal years following the date of enactm
 
 &emsp;(2)
 
-Scope of program.—Under the pilot program, the Secretary may assign, and a State may assume, any of the Secretary's responsibilities (other than responsibilities relating to federally recognized Indian tribes) for environmental reviews, consultation, or decisionmaking or other actions required under any Federal law as such requirements apply to the following projects:
+Scope of program.—Under the pilot program, the Secretary may assign, and a State may assume, any of the Secretary's responsibilities (other than responsibilities relating to federally recognized Indian tribes) for environmental reviews, consultation, or decisionmaking or other actions required under anyFederal law as such requirements apply to the following projects:
 
 &emsp;&emsp;(A) Projects funded under section 104(h).
 
@@ -74,7 +74,7 @@ Application.—To be eligible to participate in the pilot program, a State shall
 
 &emsp;(2)
 
-Public notice.—Before entering into a memorandum of understanding allowing aState to participate in the pilot program, the Secretary shall—
+Public notice.—Before entering into a memorandum of understanding allowing a State to participate in the pilot program, the Secretary shall—
 
 &emsp;&emsp;(A) publish notice in the Federal Register of the Secretary's intent to allow the State to participate in the program, including a copy of the State's application to the Secretary and the terms of the proposed agreement with the State; and
 

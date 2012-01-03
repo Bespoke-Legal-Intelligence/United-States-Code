@@ -6,7 +6,7 @@ Authority To Use Funds.—Under regulations prescribed by the Secretary of Defen
 
 (b)
 
-Limitation.—The total amount of funds used under the authority in subsection (a) inany fiscal year may not exceed $35,000,000. Amounts available under the authority in subsection (a) for a fiscal year may be used for programs that begin in such fiscal year but end in the next fiscal year.
+Limitation.—The total amount of funds used under the authority in subsection (a) in any fiscal year may not exceed $35,000,000. Amounts available under the authority in subsection (a) for a fiscal year may be used for programs that begin in such fiscal year but end in the next fiscal year.
 
 (c)
 
@@ -24,7 +24,7 @@ Annual Report.—Not later than December 1 of each year, the Secretary of Defens
 
 &emsp;(4) A discussion of any actions being taken to improve the program.
 
-(Added Pub. L. 108–136, div. A, title XII, §1221(a)(1), Nov. 24, 2003, 117 Stat. 1651; amended Pub. L. 109–364, div. A, title XII, §1204(a)–(d)(2), Oct. 17, 2006, 120 Stat. 2415; Pub. L. 110–417, \[div. A\], title XII, §1209(a), Oct. 14, 2008, 122 Stat. 4627.)
+(Added Pub. L. 108–136, div. A, title XII, §1221(a)(1), Nov. 24, 2003, 117 Stat. 1651; amendedPub. L. 109–364, div. A, title XII, §1204(a)–(d)(2), Oct. 17, 2006, 120 Stat. 2415; Pub. L. 110–417, \[div. A\], title XII, §1209(a), Oct. 14, 2008, 122 Stat. 4627.)
 
 #### Amendments
 

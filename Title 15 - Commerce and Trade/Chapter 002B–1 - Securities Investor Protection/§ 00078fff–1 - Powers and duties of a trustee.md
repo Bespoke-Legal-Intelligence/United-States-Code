@@ -28,7 +28,7 @@ The trustee shall—
 
 &emsp;(1) as soon as practicable, investigate the acts, conduct, property, liabilities, and financial condition of the debtor, the operation of its business, and any other matter, to the extent relevant to the liquidation proceeding, and report thereon to the court;
 
-&emsp;(2) examine, by deposition or otherwise, the directors and officers of the debtor and anyother witnesses concerning any of the matters referred to in paragraph (1);
+&emsp;(2) examine, by deposition or otherwise, the directors and officers of the debtor and any other witnesses concerning any of the matters referred to in paragraph (1);
 
 &emsp;(3) report to the court any facts ascertained by the trustee with respect to fraud, misconduct, mismanagement, and irregularities, and to any causes of action available to the estate; and
 

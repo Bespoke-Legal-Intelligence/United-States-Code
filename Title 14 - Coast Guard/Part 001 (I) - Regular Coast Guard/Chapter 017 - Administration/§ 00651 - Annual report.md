@@ -12,7 +12,7 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### Amendments
 
-1986—Pub. L. 99–509 substituted “preceding fiscal year, including amounts collected as provided under section 664 of this title” for “preceding fiscal year”.
+<b>1986</b>—Pub. L. 99–509 substituted “preceding fiscal year, including amounts collected as provided under section 664 of this title” for “preceding fiscal year”.
 
-1976—Pub. L. 94–546 substituted “April” for “January”.
+<b>1976</b>—Pub. L. 94–546 substituted “April” for “January”.
 

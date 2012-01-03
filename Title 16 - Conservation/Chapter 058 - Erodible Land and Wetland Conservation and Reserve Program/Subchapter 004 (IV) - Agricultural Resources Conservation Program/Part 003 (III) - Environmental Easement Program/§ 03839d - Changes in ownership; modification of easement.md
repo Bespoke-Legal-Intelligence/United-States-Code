@@ -8,7 +8,7 @@ No easement shall be created under this part on land that has changed ownership 
 
 &emsp;(2) the new ownership was acquired before January 1, 1990; or
 
-&emsp;(3) the Secretary determines that the land was acquired under circumstances that giveadequate assurances that such land was not acquired for the purposes of placing it in the program established by this part.
+&emsp;(3) the Secretary determines that the land was acquired under circumstances that give adequate assurances that such land was not acquired for the purposes of placing it in the program established by this part.
 
 #### (b) Modification; termination
 

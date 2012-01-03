@@ -12,7 +12,7 @@ Section was not enacted as part of the Atomic Energy Act of 1954 which comprises
 
 Ex. Ord. No. 11918, eff. June 1, 1976, 41 F.R. 22329, provided:
 
-By virtue of the authority vested in me by the joint resolution approved December 6, 1974 (Public Law 93–513, 88 Stat. 1610, 42 U.S.C. 2211), and by section 301 of title 3 of the United States Code, and as President of the United States of America, in order that prompt, adequate and effective compensation will be provided in the unlikely event of injury or damage resultingfrom a nuclear incident involving the nuclear reactor of a United States warship, it is hereby ordered as follows:
+By virtue of the authority vested in me by the joint resolution approved December 6, 1974 (Public Law 93–513, 88 Stat. 1610, 42 U.S.C. 2211), and by section 301 of title 3 of the United States Code, and as President of the United States of America, in order that prompt, adequate and effective compensation will be provided in the unlikely event of injury or damage resulting from a nuclear incident involving the nuclear reactor of a United States warship, it is hereby ordered as follows:
 
 Section 1. (a) With respect to the administrative settlement of claims or judgments for bodily injury, death, or damage to or loss of real or personal property proven to have resulted from a nuclear incident involving the nuclear reactor of a United States warship, the Secretary of Defense is designated and empowered to authorize, in accord with Public Law 93–513 \[this section\], the payment, under such terms and conditions as he may direct, of such claims and judgments from contingency funds available to the Department of Defense.
 

@@ -6,7 +6,7 @@
 
 &emsp;After providing notice and opportunity for public comment, the Governor of each State may prepare and submit, or the Governors of the States and the governments of the Indian tribes involved in an interstate organization, may jointly prepare and submit—
 
-&emsp;&emsp;(A) a comprehensive management plan to the Task Force for approval which identifies those areas or activities within the State or within the interstate region involved, other than those related to public facilities, for which technical, enforcement, or financial assistance (or any combination thereof) isneeded to eliminate or reduce the environmental, public health, and safety risks associated with aquatic nuisance species, particularly the zebra mussel; and
+&emsp;&emsp;(A) a comprehensive management plan to the Task Force for approval which identifies those areas or activities within the State or within the interstate region involved, other than those related to public facilities, for which technical, enforcement, or financial assistance (or any combination thereof) is needed to eliminate or reduce the environmental, public health, and safety risks associated with aquatic nuisance species, particularly the zebra mussel; and
 
 &emsp;&emsp;(B) a public facility management plan to the Assistant Secretary for approval which is limited solely to identifying those public facilities within the State or within the interstate region involved for which technical and financial assistance is needed to reduce infestations of zebra mussels.
 

@@ -22,7 +22,7 @@ Conditions on Obligation of Funds.—A lease contract entered into for a militar
 
 &emsp;(2) A commitment to obligate the necessary amount for each fiscal year covered by the contract when and to the extent that funds are appropriated for that project for that fiscal year.
 
-&emsp;(3) A statement that such a commitment entered into under the authority of this sectiondoes not constitute an obligation of the United States.
+&emsp;(3) A statement that such a commitment entered into under the authority of this section does not constitute an obligation of the United States.
 
 &emsp;(4) A requirement that housing units constructed pursuant to the contract shall be constructed—
 
@@ -64,7 +64,7 @@ Provisions similar to those in this section were contained in subsec. (g) of sec
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department ofHomeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
 #### Effective Date
 

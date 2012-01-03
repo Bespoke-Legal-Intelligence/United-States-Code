@@ -14,7 +14,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 905 of the Senate amendment is incorporated as section 921(b) of the House amendment with the difference that the chief judge of the circuit embracing the district in which the case is commenced designates a bankruptcy judge to conduct the case in lieu of a district judge as under present law. It is intended that a municipality may commence a case in any district in which the municipality is located, as under present law. Section 906 of the Senate amendment has been adopted in substance in section 109(c) of the House amendment.
 
@@ -36,9 +36,9 @@ Subsection (e) contains the fifth and sixth sentences of section 85(a) \[section
 
 #### Amendments
 
-2005—Subsec. (d). Pub. L. 109–8 inserted “notwithstanding section 301(b)” before period at end.
+<b>2005</b>—Subsec. (d). Pub. L. 109–8 inserted “notwithstanding section 301(b)” before period at end.
 
-1984—Subsec. (a). Pub. L. 98–353, §494(c), substituted “109(d)” for “109(c)”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–353, §494(c), substituted “109(d)” for “109(c)”.
 
 Subsec. (c). Pub. L. 98–353, §494(a), substituted “any” for “an”, and “petition if the debtor did not file the petition in good faith” for “petition, if the debtor did not file the petition in good faith,”.
 

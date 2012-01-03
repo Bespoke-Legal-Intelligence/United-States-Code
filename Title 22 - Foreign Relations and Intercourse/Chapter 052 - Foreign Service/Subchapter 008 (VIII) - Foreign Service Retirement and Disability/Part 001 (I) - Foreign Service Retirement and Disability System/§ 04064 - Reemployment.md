@@ -122,5 +122,9 @@ Amendment by Pub. L. 99–556 effective Jan. 1, 1987, and applicable to any indi
 
 Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub. L. 99–335, set out as an Effective Date note under section 8401 of Title 5, Government Organization and Employees.
 
+#### Extension of Authority
+
+Pub. L. 112–74, div. I, title VII, §7034(m)(4), Dec. 23, 2011, 125 Stat. 1216, provided that: “Section 824(g) of the Foreign Service Act of 1980 (22 U.S.C. 4064(g)) shall be applied by substituting ‘September 30, 2012’ for ‘October 1, 2010’ in paragraph (2).”
+
 <i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
 

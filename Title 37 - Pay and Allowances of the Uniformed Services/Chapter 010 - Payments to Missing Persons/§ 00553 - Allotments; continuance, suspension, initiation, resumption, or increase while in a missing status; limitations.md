@@ -4,7 +4,7 @@
 
 (b) When there is no allotment in effect, or when it is insufficient for a purpose authorized by the Secretary concerned, he, or his designee, may authorize new allotments or increases in allotments that are warranted by the circumstances and payable for the period the member is entitled to pay and allowances under section 552 of this title.
 
-(c) The total of all allotments from the pay and allowances of a member in a missing status may not be more than the amount of pay and allowances he is permitted to allot under regulations prescribed by the Secretary concerned.
+(c) The total of all allotments from the pay and allowances of a member in a missing statusmay not be more than the amount of pay and allowances he is permitted to allot under regulations prescribed by the Secretary concerned.
 
 (d) A premium paid by the United States on insurance issued on the life of a member which is unearned because it covers a period after his death reverts to the appropriation of the department concerned.
 

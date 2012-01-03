@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary may use the authorities set forth in this section with respect to any procurement made during the period beginning onthe effective date of this chapter and ending September 30, 2007, if the Secretary determines in writing that the mission of the Department (as described in section 111 of this title) would be seriously impaired without the use of such authorities.
+&emsp;The Secretary may use the authorities set forth in this section with respect to any procurement made during the period beginning on the effective date of this chapter and ending September 30, 2007, if the Secretary determines in writing that the mission of the Department (as described in section 111 of this title) would be seriously impaired without the use of such authorities.
 
 #### (2) Delegation
 

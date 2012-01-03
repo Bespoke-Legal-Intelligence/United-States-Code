@@ -190,9 +190,9 @@ The USA PATRIOT Act of 2001, referred to in subsec. (<i>l</i>), is Pub. L. 107�
 
 #### Amendments
 
-2001—Subsec. (<i>l</i>). Pub. L. 107–108 added subsec. (<i>l</i>).
+<b>2001</b>—Subsec. (<i>l</i>). Pub. L. 107–108 added subsec. (<i>l</i>).
 
-1996—Subsec. (e)(1)(A). Pub. L. 104–208, §354(b)(1)(A)(ii), substituted “pursuant to such Act” for “pursuant to the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.)”.
+<b>1996</b>—Subsec. (e)(1)(A). Pub. L. 104–208, §354(b)(1)(A)(ii), substituted “pursuant to such Act” for “pursuant to the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.)”.
 
 Pub. L. 104–208, §354(b)(1)(A)(i), inserted “the Government is authorized to use in a removal proceedings the fruits of electronic surveillance and unconsented physical searches authorized under the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.) without regard to subsections (c), (e), (f), (g), and (h) of section 106 of that Act and” before “discovery of information”.
 

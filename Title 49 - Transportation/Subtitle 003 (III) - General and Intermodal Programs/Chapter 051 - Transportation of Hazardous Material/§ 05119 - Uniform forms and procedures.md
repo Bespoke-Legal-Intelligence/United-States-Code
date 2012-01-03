@@ -18,7 +18,7 @@ Procedure.—The Secretary shall develop a procedure for the working group to em
 
 (e)
 
-Report of Working Group.—Not later than 18 months after the date of enactment of this subsection, the working group shall transmit to the Secretary a report containing recommendations for establishing uniform forms and procedures described in subsection (b).
+Report of Working Group.—Not later than 18 months after the date of enactment ofthis subsection, the working group shall transmit to the Secretary a report containing recommendations for establishing uniform forms and procedures described in subsection (b).
 
 (f)
 
@@ -28,7 +28,7 @@ Regulations.—Not later than 18 months after the date the working group's repor
 
 Limitation on Statutory Construction.—Nothing in this section shall be construed as prohibiting a State from voluntarily participating in a program of uniform forms and procedures until such time as the Secretary issues regulations under subsection (f).
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 777; Pub. L. 104–287, §5(9), Oct. 11, 1996, 110 Stat. 3389;Pub. L. 109–59, title VII, §7116, Aug. 10, 2005, 119 Stat. 1901.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 777; Pub. L. 104–287, §5(9), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 109–59, title VII, §7116, Aug. 10, 2005, 119 Stat. 1901.)
 
 Historical and Revision Notes
 

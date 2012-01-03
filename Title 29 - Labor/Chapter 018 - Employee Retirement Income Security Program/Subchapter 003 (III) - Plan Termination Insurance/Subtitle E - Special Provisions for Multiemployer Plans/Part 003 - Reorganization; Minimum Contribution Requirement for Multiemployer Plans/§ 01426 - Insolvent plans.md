@@ -34,7 +34,7 @@ For purposes of this section, for a plan year—
 
 #### (d) Applicability and determinations respecting plan assets; time for determinations of resource benefit level and level of basic benefits
 
-(1) As of the end of the first plan year in which a plan is in reorganization, and at least every 3 plan years thereafter (unless the plan is no longer in reorganization), the plan sponsor shall compare the value of plan assets (determined in accordance with section 1423(b)(3)(B)(ii) of this title) for that plan year with the total amount of benefit payments made under the plan for that plan year. Unless the plan sponsor determines that the value of plan assets exceeds 3 times the total amount of benefit payments, the plan sponsor shall determine whether the plan will be insolvent in any of the next 5 plan years. If the plan sponsor makes such a determination that the plan will be insolvent in any of the next 5 plan years, the plan sponsor shall make the comparison under this paragraph at least annually until the plan sponsor makes a determination that the plan will not be insolvent in any of the next 5 plan years.
+(1) As of the end of the first plan year in which a plan is in reorganization, and at least every 3plan years thereafter (unless the plan is no longer in reorganization), the plan sponsor shall compare the value of plan assets (determined in accordance with section 1423(b)(3)(B)(ii) of this title) for that plan year with the total amount of benefit payments made under the plan for that plan year. Unless the plan sponsor determines that the value of plan assets exceeds 3 times the total amount of benefit payments, the plan sponsor shall determine whether the plan will be insolvent in any of the next 5 plan years. If the plan sponsor makes such a determination that the plan will be insolvent in any of the next 5 plan years, the plan sponsor shall make the comparison under this paragraph at least annually until the plan sponsor makes a determination that the plan will not be insolvent in any of the next 5 plan years.
 
 (2) If, at any time, the plan sponsor of a plan in reorganization reasonably determines, taking into account the plan's recent and anticipated financial experience, that the plan's available resources are not sufficient to pay benefits under the plan when due for the next plan year, the plan sponsor shall make such determination available to interested parties.
 
@@ -62,7 +62,7 @@ For purposes of this section, for a plan year—
 
 (2) A plan sponsor who has determined a resource benefit level for an insolvency year which is below the level of basic benefits shall apply for financial assistance from the corporation under section 1431 of this title.
 
-(Pub. L. 93–406, title IV, §4245, as added Pub. L. 96–364, title I, §104(2), Sept. 26, 1980, 94 Stat. 1259;amended Pub. L. 109–280, title II, §203(a), Aug. 17, 2006, 120 Stat. 886.)
+(Pub. L. 93–406, title IV, §4245, as added Pub. L. 96–364, title I, §104(2), Sept. 26, 1980, 94 Stat. 1259; amended Pub. L. 109–280, title II, §203(a), Aug. 17, 2006, 120 Stat. 886.)
 
 #### Amendments
 

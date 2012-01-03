@@ -78,11 +78,11 @@ In subsection (c), “Commission” is substituted for “Civil Service Commissi
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–205, §1(1), substituted “Except as provided in subsection (e), the” for “The”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–205, §1(1), substituted “Except as provided in subsection (e), the” for “The”.
 
 Subsec. (e). Pub. L. 105–205, §1(2), added subsec. (e).
 
-1978—Subsec. (a). Pub. L. 95–583 struck out “or (c)” after “section 8706(b)”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–583 struck out “or (c)” after “section 8706(b)”.
 
 Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
 

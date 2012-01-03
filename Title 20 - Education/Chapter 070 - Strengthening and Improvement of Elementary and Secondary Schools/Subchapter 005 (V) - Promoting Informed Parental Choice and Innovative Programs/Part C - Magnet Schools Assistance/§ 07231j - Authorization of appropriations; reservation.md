@@ -16,7 +16,7 @@ Prior sections 7232 to 7238 were omitted in the general amendment of this subcha
 
 Section 7232, Pub. L. 89–10, title V, §5202, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3696, set forth purposes of former part B of this subchapter relating to gender equity. See section 7283a of this title.
 
-Section 7233, Pub. L. 89–10, title V, §5203, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3696; amended Pub. L. 104–193, title I, §110(j)(3), Aug. 22, 1996, 110 Stat. 2172, authorized gender equity programs. See section 7283b of this title.
+Section 7233, Pub. L. 89–10, title V, §5203, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3696; amended Pub. L. 104–193, title I, §110(j)(3), Aug. 22, 1996,110 Stat. 2172, authorized gender equity programs. See section 7283b of this title.
 
 Section 7234, Pub. L. 89–10, title V, §5204, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3699, related to applications. See section 7283c of this title.
 

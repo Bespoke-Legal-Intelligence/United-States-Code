@@ -6,7 +6,7 @@ The objective of national housing policy shall be to reaffirm the long-establish
 
 &emsp;(2) to increase the Nation's supply of decent housing that is affordable to low-income and moderate-income families and accessible to job opportunities;
 
-&emsp;(3) to improve housing opportunities for all residents of the United States, particularlymembers of disadvantaged minorities, on a nondiscriminatory basis;
+&emsp;(3) to improve housing opportunities for all residents of the United States, particularly members of disadvantaged minorities, on a nondiscriminatory basis;
 
 &emsp;(4) to help make neighborhoods safe and livable;
 

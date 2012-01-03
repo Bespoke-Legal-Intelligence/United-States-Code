@@ -91,7 +91,7 @@ For purposes of this section—
 
 #### (E) Special rule for pediatric dental coverage
 
-&emsp;&emsp;For purposes of determining the amount of any monthly premium, if an individual enrolls in both a qualified health plan and a plan described in section 1311(d)(2)(B)(ii)(I) of the Patient Protection and Affordable Care Act for any plan year, the portion of the premium for the plan described in such section that (under regulations prescribed by the Secretary) is properly allocable to pediatric dental benefits which are included in the essential health benefits required to be provided by a qualified health plan under section 1302(b)(1)(J) of such Act shall be treated as a premium payable for a qualified health plan.
+&emsp;&emsp;For purposes of determining the amount of any monthly premium, if an individual enrolls in both a qualified health plan and a plan described in section 1311(d)(2)(B)(ii)(I) <sup>2</sup> of the Patient Protection and Affordable Care Act for any plan year, the portion of the premium for the plan described in such section that (under regulations prescribed by the Secretary) is properly allocable to pediatric dental benefits which are included in the essential health benefits required to be provided by a qualified health plan under section 1302(b)(1)(J) of such Act shall be treated as a premium payable for a qualified health plan.
 
 #### (c) Definition and rules relating to applicable taxpayers, coverage months, and qualified health plan
 
@@ -119,7 +119,7 @@ For purposes of this section—
 
 #### (D) Denial of credit to dependents
 
-&emsp;&emsp;No credit shall be allowed under this section to any individual with respect to whom a deduction under section 151 is allowable to another taxpayer for a taxable year beginning in the calendar year in which such individual's taxable year begins.
+&emsp;&emsp;No credit shall be allowed under this section to any individual with respect to whoma deduction under section 151 is allowable to another taxpayer for a taxable year beginning in the calendar year in which such individual's taxable year begins.
 
 #### (2) Coverage month
 
@@ -169,15 +169,11 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;In the case of plan years beginning in any calendar year after 2014, the Secretary shall adjust the 9.5 percent under clause (i)(II) in the same manner as the percentages are adjusted under subsection (b)(3)(A)(ii).
 
-#### (D) Exception for individual receiving free choice vouchers
-
-&emsp;&emsp;The term “coverage month” shall not include any month in which such individual has a free choice voucher provided under section 10108 of the Patient Protection and Affordable Care Act.
-
 #### (3) Definitions and other rules
 
 #### (A) Qualified health plan
 
-&emsp;&emsp;The term “qualified health plan” has the meaning given such term by section 1301(a) of the Patient Protection and AffordableCare Act, except that such term shall not include a qualified health plan which is a catastrophic plan described in section 1302(e) of such Act.
+&emsp;&emsp;The term “qualified health plan” has the meaning given such term by section 1301(a) of the Patient Protection and Affordable Care Act, except that such term shall not include a qualified health plan which is a catastrophic plan described in section 1302(e) of such Act.
 
 #### (B) Grandfathered health plan
 
@@ -209,9 +205,11 @@ For purposes of this section—
 
 &emsp;&emsp;The term “modified adjusted gross income” means adjusted gross income increased by—
 
-&emsp;&emsp;&emsp;(i) any amount excluded from gross income under section 911, and
+&emsp;&emsp;&emsp;(i) any amount excluded from gross income under section 911,
 
-&emsp;&emsp;&emsp;(ii) any amount of interest received or accrued by the taxpayer during the taxable year which is exempt from tax.
+&emsp;&emsp;&emsp;(ii) any amount of interest received or accrued by the taxpayer during the taxable year which is exempt from tax, and
+
+&emsp;&emsp;&emsp;(iii) an amount equal to the portion of the taxpayer's social security benefits (asdefined in section 86(d)) which is not included in gross income under section 86 for the taxable year.
 
 #### (3) Poverty line
 
@@ -269,17 +267,13 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In the case of a taxpayer whose household income is less than 500 percent of the poverty line for the size of the family involved for the taxable year, the amount of the increase under subparagraph (A) shall in no event exceed the applicable dollar amount determined in accordance with the following table (one-half of such amount in the case of a taxpayer whose tax is determined under section 1(c) for the taxable year):
+&emsp;&emsp;&emsp;In the case of a taxpayer whose household income is less than 400 percent of the poverty line for the size of the family involved for the taxable year, the amount of the increase under subparagraph (A) shall in no event exceed the applicable dollar amount determined in accordance with the following table (one-half of such amount in the case of a taxpayer whose tax is determined under section 1(c) for the taxable year):
 
 | If the household income (expressed as a percent of poverty line) is: | The applicable dollar amount is: |
 | :--- | ---: |
 | Less than 200% | $600 |
-| At least 200% but less than 250% | $1,000 |
-| At least 250% but less than 300% | $1,500 |
-| At least 300% but less than 350% | $2,000 |
-| At least 350% but less than 400% | $2,500 |
-| At least 400% but less than 450% | $3,000 |
-| At least 450% but less than 500% | $3,500. |
+| At least 200% but less than 300% | $1,500 |
+| At least 300% but less than 400% | $2,500. |
 
 #### (ii) Indexing of amount
 
@@ -315,19 +309,25 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 &emsp;(2) the application of subsection (f) where the filing status of the taxpayer for a taxable year is different from such status used for determining the advance payment of the credit.
 
-(Added and amended Pub. L. 111–148, title I, §1401(a), title X, §§10105(a)–(c), 10108(h)(1), Mar. 23, 2010, 124 Stat. 213, 906, 914; Pub. L. 111–152, title I, §§1001(a), 1004(a)(1)(A), (2)(A), (c), Mar. 30, 2010, 124 Stat. 1030, 1034, 1035; Pub. L. 111–309, title II, §208(a), (b), Dec. 15, 2010, 124 Stat. 3291, 3292.)
+(Added and amended Pub. L. 111–148, title I, §1401(a), title X, §§10105(a)–(c), 10108(h)(1), Mar. 23, 2010, 124 Stat. 213, 906, 914; Pub. L. 111–152, title I, §§1001(a), 1004(a)(1)(A), (2)(A), (c), Mar. 30, 2010, 124 Stat. 1030, 1034, 1035; Pub. L. 111–309, title II, §208(a), (b), Dec. 15, 2010, 124 Stat. 3291, 3292; Pub. L. 112–9, §4(a), Apr. 14, 2011, 125 Stat. 36; Pub. L. 112–10, div. B, title VIII, §1858(b)(1), Apr. 15, 2011, 125 Stat. 168; Pub. L. 112–56, title IV, §401(a), Nov. 21, 2011, 125 Stat. 734.)
 
 #### References in Text
 
 Sections 1251, 1301, 1302, 1311, 1321, 1402, and 1412 of the Patient Protection and Affordable Care Act, referred to in text, are classified to sections 18011, 18021, 18022, 18031, 18041, 18071, and 18082, respectively, of Title 42, The Public Health and Welfare.
 
-Sections 2701 and 2705(d) of the Public Health Service Act, referred to in subsec. (b)(3)(C), are classified to sections 300gg and 300gg–4(d), respectively, of Title 42, The Public Health and Welfare.
+Sections 2701 and 2705(d) of the Public Health Service Act, referred to in subsec. (b)(3)(C), are classified to sections 300gg and 300gg–4(d), respectively, of Title 42, The Public Health and Welfare. The reference to section 2705(d) probably should be a reference to section 2705(<i>l</i>), which relates to wellness program demonstration project and is classified to section 300gg–4(<i>l</i>) of Title 42.
+
+Section 1311(d)(2)(B)(ii)(I) of the Patient Protection and Affordable Care Act, referred to in subsec. (b)(3)(E), probably means section 1311(d)(2)(B)(ii) of Pub. L. 111–148, which is classified to section 18031(d)(2)(B)(ii) of Title 42, The Public Health and Welfare, and which does not contain subclauses.
 
 The Social Security Act, referred to in subsec. (c)(1)(B)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-Section 10108 of the Patient Protection and Affordable Care Act, referred to in subsec. (c)(2)(D), is section 10108 of Pub. L. 111–148, which enacted section 139D of this title and section 18101 of Title 42, The Public Health and Welfare, amended this section and sections 162, 4980H, 6056, and 6724 of this title and section 218b of Title 29, Labor, and enacted provisions set out as notes under this section and sections 139D, 162, 4980H, and 6056 of this title. For complete classification of section 10108 to the Code, see Tables.
-
 #### Amendments
+
+<b>2011</b>—Subsec. (c)(2)(D). Pub. L. 112–10 struck out subpar. (D). Prior to amendment, text read as follows: “The term ‘coverage month’ shall not include any month in which such individual has a free choice voucher provided under section 10108 of the Patient Protection and Affordable Care Act.”
+
+Subsec. (d)(2)(B)(iii). Pub. L. 112–56 added cl. (iii).
+
+Subsec. (f)(2)(B)(i). Pub. L. 112–9 amended cl. (i) generally. Prior to amendment, cl. (i) consisted of text and a table limiting increase in amount recovered on reconciliation of health insurance tax credit and advance of that credit for households with income below 500 percent of federal poverty line.
 
 <b>2010</b>—Subsec. (b)(3)(A)(i). Pub. L. 111–152, §1001(a)(1)(A), substituted “for any taxable year shall be the percentage such that the applicable percentage for any taxpayer whose household income is within an income tier specified in the following table shall increase, on a sliding scale in a linear manner, from the initial premium percentage to the final premium percentage specified in such table for such income tier:” for “with respect to any taxpayer for any taxable year is equal to 2.8 percent, increased by the number of percentage points (not greater than 7) which bears the same ratio to 7 percentage points as—” in introductory provisions, inserted table, and struck out subcls. (I) and (II) which read as follows:
 
@@ -335,7 +335,7 @@ Section 10108 of the Patient Protection and Affordable Care Act, referred to in 
 
 “(II) an amount equal to 200 percent of the poverty line for a family of the size involved.”
 
-Subsec. (b)(3)(A)(ii). Pub. L. 111–152, §1001(a)(1)(B), added cl. (ii) and struck out former cl. (ii). Text read asfollows: “If a taxpayer's household income for the taxable year equals or exceeds 100 percent, but not more than 133 percent, of the poverty line for a family of the size involved, the taxpayer's applicable percentage shall be 2 percent.”
+Subsec. (b)(3)(A)(ii). Pub. L. 111–152, §1001(a)(1)(B), added cl. (ii) and struck out former cl. (ii). Text read as follows: “If a taxpayer's household income for the taxable year equals or exceeds 100 percent, but not more than 133 percent, of the poverty line for a family of the size involved, the taxpayer's applicable percentage shall be 2 percent.”
 
 Pub. L. 111–148, §10105(a), substituted “equals or exceeds” for “is in excess of”.
 
@@ -367,6 +367,14 @@ Subsec. (f)(2)(B)(ii). Pub. L. 111–309, §208(b), inserted “in the table con
 
 Subsec. (f)(3). Pub. L. 111–152, §1004(c), added par. (3).
 
+#### Effective Date of 2011 Amendment
+
+Pub. L. 112–56, title IV, §401(b), Nov. 21, 2011, 125 Stat. 734, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 21, 2011\].”
+
+Pub. L. 112–10, div. B, title VIII, §1858(d), Apr. 15, 2011, 125 Stat. 169, provided that: “The amendments made by this section \[amending this section, sections 162, 4980H, and 6056 of this title, and section 218b of Title 29, Labor, and repealing section 139D of this title and section 18101 of Title 42, The Public Health and Welfare\] shall take effect as if included in the provisions of, and the amendments made by, the provisions of the Patient Protection and Affordable Care Act \[Pub. L. 111–148\] to which they relate.”
+
+Pub. L. 112–9, §4(b), Apr. 14, 2011, 125 Stat. 37, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years ending after December 31, 2013.”
+
 #### Effective Date of 2010 Amendment
 
 Pub. L. 111–309, title II, §208(c), Dec. 15, 2010, 124 Stat. 3292, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2013.”
@@ -377,5 +385,19 @@ Pub. L. 111–148, title X, §10108(h)(2), Mar. 23, 2010, 124 Stat. 914, provide
 
 Pub. L. 111–148, title I, §1401(e), Mar. 23, 2010, 124 Stat. 220, provided that: “The amendments made by this section \[enacting this section and amending sections 280C and 6211 of this title and section 1324 of Title 31, Money and Finance\] shall apply to taxable years ending after December 31, 2013.”
 
+#### No Impact on Social Security Trust Funds
+
+Pub. L. 112–56, title IV, §401(c), Nov. 21, 2011, 125 Stat. 734, provided that:
+
+“(1)
+
+Estimate of secretary.—The Secretary of the Treasury, or the Secretary's delegate, shall annually estimate the impact that the amendments made by subsection (a) \[amending this section\] have on the income and balances of the trust funds established under section 201 of the Social Security Act (42 U.S.C. 401).
+
+“(2)
+
+Transfer of funds.—If, under paragraph (1), the Secretary of the Treasury or the Secretary's delegate estimates that such amendments have a negative impact on the income and balances of such trust funds, the Secretary shall transfer, not less frequently than quarterly, from the general fund an amount sufficient so as to ensure that the income and balances of such trust funds are not reduced as a result of such amendments.”
+
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by “section”.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

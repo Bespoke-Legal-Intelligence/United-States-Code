@@ -2,7 +2,7 @@
 
 #### (a) Development of comprehensive plans
 
-In furtherance of the purposes of this subchapter, the Secretary is authorized to cooperate with the State of Missouri, its political subdivisions, and other Federal agencies and organizations in formulating comprehensive plans for the Ozark National Scenic Riverways and for the related watershed of the Current and Jacks Fork Rivers in Missouri, and to enter into agreements for the implementation of such plans. Such plans may provide for land use anddevelopment programs, for preservation and enhancement of the natural beauty of the landscape, and for conservation of outdoor resources in the watersheds of the Current and Jacks Fork Rivers.
+In furtherance of the purposes of this subchapter, the Secretary is authorized to cooperate with the State of Missouri, its political subdivisions, and other Federal agencies and organizations in formulating comprehensive plans for the Ozark National Scenic Riverways and forthe related watershed of the Current and Jacks Fork Rivers in Missouri, and to enter into agreements for the implementation of such plans. Such plans may provide for land use and development programs, for preservation and enhancement of the natural beauty of the landscape, and for conservation of outdoor resources in the watersheds of the Current and Jacks Fork Rivers.
 
 #### (b) Establishment of hunting and fishing zones and periods
 

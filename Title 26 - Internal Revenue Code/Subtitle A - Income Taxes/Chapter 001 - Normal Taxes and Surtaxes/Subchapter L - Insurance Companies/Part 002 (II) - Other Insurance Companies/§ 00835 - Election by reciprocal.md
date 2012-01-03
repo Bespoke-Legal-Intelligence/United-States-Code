@@ -48,7 +48,7 @@ Subsec. (f). Pub. L. 100–647, §1010(f)(3), substituted “subsection (d)” f
 
 Subsec. (d). Pub. L. 99–514, §1024(c)(9)(A), redesignated subsec. (e) as (d) and struck out former subsec. (d), special rule, which read as follows: “In applying section 824(d)(1)(D), any amount which was added to the protection against loss account by reason of an election under this section shall be treated as having been added by reason of section 824(a)(1)(A).”
 
-Subsec. (e). Pub. L. 99–514, §1024(c)(9), redesignated subsec. (f) as (e), substituted “Benefits of graduatedrates” for “Surtax exemption” in heading, and amended text generally. Prior to amendment, text read as follows: “Any increase in taxable income of a reciprocal attributable to the limitation provided in subsection (b) shall be taxed without regard to the surtax exemption provided in section 821(a)(2).” Former subsec. (e) redesignated (d).
+Subsec. (e). Pub. L. 99–514, §1024(c)(9), redesignated subsec. (f) as (e), substituted “Benefits of graduated rates” for “Surtax exemption” in heading, and amended text generally. Prior to amendment, text read as follows: “Any increase in taxable income of a reciprocal attributable to the limitation provided in subsection (b) shall be taxed without regard to the surtax exemption provided in section 821(a)(2).” Former subsec. (e) redesignated (d).
 
 Subsecs. (f) to (h). Pub. L. 99–514, §1024(c)(9)(A), redesignated subsecs. (f) to (h) as (e) to (g), respectively.
 
@@ -66,7 +66,7 @@ Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 301(c) of Pub. L. 95–600, set out as a note under section 11 of this title.
+Amendment by Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 301(c) ofPub. L. 95–600, set out as a note under section 11 of this title.
 
 #### Effective Date
 

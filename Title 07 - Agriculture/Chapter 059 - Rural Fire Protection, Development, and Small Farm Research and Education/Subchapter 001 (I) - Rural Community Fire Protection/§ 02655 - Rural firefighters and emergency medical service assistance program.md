@@ -112,9 +112,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Pub. L. 110–246, §6204, amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) relating to authority to make grants to pay the cost of training firefighters and emergency medical personnel in rural areas, use of funds, and appropriations for fiscal years 2003 through 2006.
+<b>2008</b>—Pub. L. 110–246, §6204, amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) relating to authority to make grants to pay the cost of training firefighters and emergency medical personnel in rural areas, use of funds, and appropriations for fiscal years 2003 through 2006.
 
-2006—Subsec. (c). Pub. L. 109–171 substituted “2006” for “2007”.
+<b>2006</b>—Subsec. (c). Pub. L. 109–171 substituted “2006” for “2007”.
 
 #### Effective Date of 2008 Amendment
 

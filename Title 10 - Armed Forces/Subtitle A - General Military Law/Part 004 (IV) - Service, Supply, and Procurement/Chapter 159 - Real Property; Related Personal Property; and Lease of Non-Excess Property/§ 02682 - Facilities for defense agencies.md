@@ -1,12 +1,52 @@
 ### §2682. Facilities for defense agencies
 
-The maintenance and repair of a real property facility for an activity or agency of the Department of Defense (other than a military department) financed from appropriations for military functions of the Department of Defense will be accomplished by or through a military department designated by the Secretary of Defense. A real property facility under the jurisdiction of the Department of Defense which is used by an activity or agency of the Department of Defense (other than a military department) shall be under the jurisdiction of a military department designated by the Secretary of Defense.
+(a)
 
-(Added Pub. L. 88–174, title VI, §609(a)(1), Nov. 7, 1963, 77 Stat. 329; amended Pub. L. 97–214, §10(a)(7), July 12, 1982, 96 Stat. 175.)
+Maintenance and Repair.—Subject to subsection (c), the maintenance and repair of a real property facility for an activity or agency of the Department of Defense (other than a military department) financed from appropriations for military functions of the Department of Defense will be accomplished by or through a military department designated by the Secretary of Defense.
+
+(b)
+
+Jurisdiction.—Subject to subsection (c), a real property facility under the jurisdiction of the Department of Defense which is used by an activity or agency of the Department of Defense (other than a military department) shall be under the jurisdiction of a military department designated by the Secretary of Defense.
+
+(c)
+
+Facilities for Intelligence Collection or for Special Operations Abroad.—The Secretary of Defense may waive the requirements of subsections (a) and (b) if necessary to provide security for authorized intelligence collection or special operations activities abroad undertaken by the Department of Defense.
+
+(Added Pub. L. 88–174, title VI, §609(a)(1), Nov. 7, 1963, 77 Stat. 329; amended Pub. L. 97–214, §10(a)(7), July 12, 1982, 96 Stat. 175; Pub. L. 112–81, div. A, title IX, §926, Dec. 31, 2011, 125 Stat. 1541.)
+
+#### Amendment of Section
+
+<i>Pub. L. 112–81, div. A, title IX, §926(b), Dec. 31, 2011, 125 Stat. 1541, provided that, effective on Sept. 30, 2015, or the date of the enactment of an Act authorizing funds for military construction for fiscal year 2016, whichever is later, this section is amended as follows:</i>
+
+<i>(1) in subsec. (a), by substituting “The maintenance and repair” for “Subject to subsection (c), the maintenance and repair”;</i>
+
+<i>(2) in subsec. (b), by substituting “A real property” for “Subject to subsection (c), a real property”; and</i>
+
+<i>(3) by striking out subsec. (c).</i>
+
+<i>See 2011 Amendment notes below.</i>
 
 #### Amendments
 
+<b>2011</b>—Pub. L. 112–81, §926(a)(1), (2), designated first and second sentences as subsecs. (a) and (b), respectively, inserted headings, and realigned margins of subsec. (b).
+
+Subsec. (a). Pub. L. 112–81, §926(b)(1), substituted “The maintenance and repair” for “Subject to subsection (c), the maintenance and repair”. See Effective Date of 2011 Amendment note below.
+
+Pub. L. 112–81, §926(a)(1), substituted “Subject to subsection (c), the maintenance and repair” for “The maintenance and repair”.
+
+Subsec. (b). Pub. L. 112–81, §926(b)(2), substituted “A real property” for “Subject to subsection (c), a real property”. See Effective Date of 2011 Amendment note below.
+
+Pub. L. 112–81, §926(a)(3), substituted “Subject to subsection (c), a real property” for “A real property”.
+
+Subsec. (c). Pub. L. 112–81, §926(b)(3), struck out subsec. (c). Text read as follows: “The Secretary of Defense may waive the requirements of subsections (a) and (b) if necessary to provide security for authorized intelligence collection or special operations activities abroad undertaken by the Department of Defense.” See Effective Date of 2011 Amendment note below.
+
+Pub. L. 112–81, §926(a)(4), added subsec. (c).
+
 <b>1982</b>—Pub. L. 97–214 substituted “maintenance and repair” for “construction, maintenance, rehabilitation, repair, alteration, addition, expansion, or extension”.
+
+#### Effective Date of 2011 Amendment
+
+Pub. L. 112–81, div. A, title IX, §926(b), Dec. 31, 2011, 125 Stat. 1541, provided that the amendments made by subsec. (b) of that section are effective on Sept. 30, 2015, or the date of the enactment of an Act authorizing funds for military construction for fiscal year 2016, whichever is later.
 
 #### Effective Date of 1982 Amendment
 

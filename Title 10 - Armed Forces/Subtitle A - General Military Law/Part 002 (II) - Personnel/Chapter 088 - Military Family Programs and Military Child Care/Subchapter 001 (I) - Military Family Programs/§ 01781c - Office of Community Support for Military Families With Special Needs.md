@@ -58,7 +58,7 @@ Policy.—(1) The Office shall develop, and update from time to time, a uniform 
 
 &emsp;(C) Procedures to facilitate the enrollment of such members of the armed forces and their families in programs of the military department for the support of military families with special needs.
 
-&emsp;(D) Procedures to ensure the coordination of Department of Defense health care programsand support programs for military families with special needs, and the coordination of such programs with other Federal, State, local, and non-governmental health care programs and support programs intended to serve such families.
+&emsp;(D) Procedures to ensure the coordination of Department of Defense health care programs and support programs for military families with special needs, and the coordination of such programs with other Federal, State, local, and non-governmental health care programs and support programs intended to serve such families.
 
 &emsp;(E) Requirements for resources (including staffing) to ensure the availability through the Department of Defense of appropriate numbers of case managers to provide individualized support for military families with special needs.
 
@@ -100,7 +100,7 @@ Reports.—(1) Not later than April 30 each year, the Secretary of Defense shall
 
 (i)
 
-Military Family With Special Needs.—For purposes of this section, a military family with special needs is any military family with one or more members who has a medical or educational special need (as defined by the Secretary in regulations for purposes of this section), including a condition covered by the Extended Health Care Option Program under section 1079f of this title.
+Military Family With Special Needs.—For purposes of this section, a military family with special needs is any military family withone or more members who has a medical or educational special need (as defined by the Secretary in regulations for purposes of this section), including a condition covered by the Extended Health Care Option Program under section 1079f of this title.
 
 (Added Pub. L. 111–84, div. A, title V, §563(a)(1), Oct. 28, 2009, 123 Stat. 2304; amended Pub. L. 111–383, div. A, title V, §582(a), (b), title X, §1075(b)(24), Jan. 7, 2011, 124 Stat. 4226, 4227, 4370.)
 

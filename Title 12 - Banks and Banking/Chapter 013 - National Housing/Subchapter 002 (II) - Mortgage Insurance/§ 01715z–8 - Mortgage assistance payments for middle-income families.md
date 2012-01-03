@@ -34,7 +34,7 @@ Procedures shall be adopted by the Secretary for recertifications of the mortgag
 
 #### (g) Regulations to assure that sales price or other consideration paid is not increased above appraised value
 
-The Secretary shall prescribe such regulations as he deems necessary to assure that the salesprice of, or other consideration paid in connection with, the purchase by a homeowner of the property with respect to which assistance payments are to be made is not increased above the appraised value on which the maximum mortgage which the Secretary will insure is computed.
+The Secretary shall prescribe such regulations as he deems necessary to assure that the sales price of, or other consideration paid in connection with, the purchase by a homeowner of the property with respect to which assistance payments are to be made is not increased above the appraised value on which the maximum mortgage which the Secretary will insure is computed.
 
 #### (h) Authorization of appropriations; aggregate amount of assistance payment contracts; termination date
 
@@ -50,7 +50,7 @@ In determining the income of any family for the purposes of this section, income
 
 (1) The Secretary is authorized, upon application by the mortgagee, to insure a mortgage executed by a mortgagor who meets the eligibility requirements for assistance payments prescribed by the Secretary under subsection (b) of this section. Commitments for the insurance of such mortgages may be issued by the Secretary prior to the date of their execution or disbursement thereon, upon such terms and conditions as the Secretary may prescribe.
 
-(2) To be eligible for insurance under this subsection, a mortgage shall meet the requirements of section 1715<i>l</i>(d)(2) or 1715y(c) of this title, except as such requirements are modified by this subsection: <i>Provided, however</i>, That in the discretion of the Secretary 25 per centum of the authority conferred by this section and subject to all the terms thereof may be used for mortgages on existing housing.
+(2) To be eligible for insurance under this subsection, a mortgage shall meet the requirementsof section 1715<i>l</i>(d)(2) or 1715y(c) of this title, except as such requirements are modified by this subsection: <i>Provided, however</i>, That in the discretion of the Secretary 25 per centum of the authority conferred by this section and subject to all the terms thereof may be used for mortgages on existing housing.
 
 (3) A mortgage to be insured under this section shall—
 
@@ -68,7 +68,7 @@ Section 501 of the Emergency Home Finance Act of 1970, referred to in subsec. (a
 
 #### Amendments
 
-1984—Subsec. (d)(2). Pub. L. 98–479, §204(a)(14), redesignated subpars. (1), (2), and (3) as subpars. (A), (B), and (C), respectively.
+<b>1984</b>—Subsec. (d)(2). Pub. L. 98–479, §204(a)(14), redesignated subpars. (1), (2), and (3) as subpars. (A), (B), and (C), respectively.
 
 Subsec. (j)(3)(ii). Pub. L. 98–479, §204(a)(15), substituted “; and” for period at end.
 

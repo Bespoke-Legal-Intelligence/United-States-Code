@@ -62,7 +62,7 @@ Subsec. (d). Pub. L. 100–458, §310(c), amended subsec. (d) generally. Prior t
 
 <b>1982</b>—Subsec. (d). Pub. L. 97–258 substituted “section 9104 of title 31” for “section 849 of title 31”.
 
-<b>1975</b>—Subsec. (c). Pub. L. 93–604 substituted provisions that the Comptroller General shall audit the activities of the Government Printing Office at least once in every three years and furnish reports of the audits to the Congress and the Public Printer for provisions thatthe General Accounting Office shall audit the activities of the Government Printing Office and furnish an audit report annually to the Congress and the Public Printer.
+<b>1975</b>—Subsec. (c). Pub. L. 93–604 substituted provisions that the Comptroller General shall audit the activities of the Government Printing Office at least once in every three years and furnish reports of the audits to the Congress and the Public Printer for provisions that the General Accounting Office shall audit the activities of the Government Printing Office and furnish an audit report annually to the Congress and the Public Printer.
 
 #### Effective Date of 1993 Amendment
 
@@ -70,7 +70,7 @@ Section 207(c) of Pub. L. 103–69 provided that: “The amendments made by subs
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 23rd item on page 4 identifies a reporting provision which, as subsequently amended, is contained in subsec. (d) of this section), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual,semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 23rd item on page 4 identifies a reporting provision which, as subsequently amended, is contained in subsec. (d) of this section), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
 #### Federal Register Program; Use of Revolving Fund; Reimbursement
 

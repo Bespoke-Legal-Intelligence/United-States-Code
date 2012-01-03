@@ -22,7 +22,7 @@ Except as otherwise provided in this section—
 
 &emsp;&emsp;&emsp;(i) in the case of section 1250 property with respect to which a mortgage is insured under section 221(d)(3) or 236 of the National Housing Act, or housing financed or assisted by direct loan or tax abatement under similar provisions of State or local laws and with respect to which the owner is subject to the restrictions described in section 1039(b)(1)(B) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990), 100 percent minus 1 percentage point for each full month the property was held after the date the property was held 100 full months;
 
-&emsp;&emsp;&emsp;(ii) in the case of dwelling units which, on the average, were held for occupancy by families or individuals eligible to receive subsidies under section 8 of the United States Housing Act of 1937, as amended, or under the provisions of State or local law authorizing similar levels of subsidy for lower-income families, 100 percent minus 1 percentage point for each full month the property was held after the date the property was held 100 full months;
+&emsp;&emsp;&emsp;(ii) in the case of dwelling units which, on the average, were held for occupancy by families or individuals eligible to receive subsidies under section 8 of the United States Housing Act of 1937, as amended, or under the provisions of State or local law authorizing similar levels of subsidy for lower-income families, 100 percent minus 1percentage point for each full month the property was held after the date the property was held 100 full months;
 
 &emsp;&emsp;&emsp;(iii) in the case of section 1250 property with respect to which a depreciation deduction for rehabilitation expenditures was allowed under section 167(k), 100 percent minus 1 percentage point for each full month in excess of 100 full months after the date on which such property was placed in service;
 
@@ -154,7 +154,7 @@ For purposes of this section, the term “section 1250 property” means any rea
 
 &emsp;&emsp;&emsp;(i) the amount of gain which would (but for this paragraph) be taken into account under subsection (a), over
 
-&emsp;&emsp;&emsp;(ii) the fair market value (or cost in the case of a transaction described in section1033(a)(2)) of the section 1250 property acquired in the transaction.
+&emsp;&emsp;&emsp;(ii) the fair market value (or cost in the case of a transaction described in section 1033(a)(2)) of the section 1250 property acquired in the transaction.
 
 #### (D) Basis of property acquired
 
@@ -222,7 +222,7 @@ For purposes of determining the applicable percentage under this section, the pr
 
 #### (2) Ordinary income attributable to an element
 
-&emsp;For purposes of paragraph (1), the amount taken into account for any element shall bethe sum of a series of amounts determined for the periods set forth in subsection (a), with the amount for any such period being determined by multiplying—
+&emsp;For purposes of paragraph (1), the amount taken into account for any element shall be the sum of a series of amounts determined for the periods set forth in subsection (a), with the amount for any such period being determined by multiplying—
 
 &emsp;&emsp;(A) the amount which bears the same ratio to the lower of the amounts specified in clause (i) or (ii) of subsection (a)(1)(A), in clause (i) or (ii) of subsection (a)(2)(A), or in clause (i) or (ii) of subsection (a)(3)(A), as the case may be, for the section 1250 property as the additional depreciation for such element attributable to such period bears to the sum of the additional depreciation for all elements attributable to such period, by
 
@@ -278,7 +278,7 @@ The Secretary shall prescribe such regulations as he may deem necessary to provi
 
 This section shall apply notwithstanding any other provision of this subtitle.
 
-(Added Pub. L. 88–272, title II, §231(a), Feb. 26, 1964, 78 Stat. 100; amended Pub. L. 91–172, title V, §521(b), (c), (e), title VII, §704(b)(5), title IX, §910(b), Dec. 30, 1969, 83 Stat. 652, 653, 670, 720; Pub. L. 92–178, title III, §303(c)(3), Dec. 10, 1971, 85 Stat. 522; Pub. L. 93–625, §5(c), Jan. 3, 1975, 88 Stat. 2112; Pub. L. 94–81, §2(b), Aug. 9, 1975, 89 Stat. 417; Pub. L. 94–455, title II, §202(a)–(c)(1), (2), title XIX, §§1901(b)(3)(K), (31)(A), (B), (E), 1906(b)(13)(A), 1951(c)(2)(C), title XXI, §§2122(b)(4), 2124(a)(3)(D), Oct. 4, 1976, 90 Stat. 1527, 1529, 1530, 1793, 1799, 1800, 1834, 1840, 1915, 1918; Pub. L. 95–600, title IV, §§404(c)(7), 405(c)(4), title VII, §701(f)(3)(C), (E), Nov. 6, 1978, 92 Stat. 2870, 2871, 2901; Pub. L. 96–222, title I, §107(a)(1)(D), Apr. 1, 1980, 94 Stat. 222; Pub. L. 96–223, title II, §251(a)(2)(D), Apr. 2, 1980, 94 Stat. 287; Pub. L. 97–34, title II, §§204(e), 212(d)(2)(F), Aug. 13, 1981, 95 Stat. 223, 239; Pub. L. 97–448, title I, §102(a)(7), Jan. 12, 1983, 96 Stat. 2368; Pub. L. 98–369, div. A, title VII, §712(a)(1)(B), July 18, 1984, 98 Stat. 946; Pub. L. 99–514, title II, §242(b)(2), Oct. 22, 1986, 100 Stat. 2181; Pub. L. 100–647, title I, §1002(a)(1), Nov. 10, 1988, 102 Stat. 3352; Pub. L. 101–239, title VII, §7831(b), Dec. 19, 1989, 103 Stat. 2426; Pub. L. 101–508, title XI, §§11801(c)(6)(F), (8)(I), (15), 11812(b)(11), (12), Nov. 5, 1990, 104 Stat. 1388–524, 1388–527, 1388–536; Pub. L. 104–7, §2(b), Apr. 11, 1995, 109 Stat. 93; Pub. L. 104–188, title I, §1702(h)(18), Aug. 20, 1996, 110 Stat. 1874; Pub. L. 105–34, title III, §312(d)(10), Aug. 5, 1997, 111 Stat. 840; Pub. L. 105–206, title VI, §6023(12), July 22, 1998, 112 Stat. 825; Pub. L. 109–58, title XIII, §1331(b)(3), Aug. 8, 2005, 119 Stat. 1024; Pub. L. 109–135, title IV, §402(a)(7), (h), Dec. 21, 2005, 119 Stat. 2610, 2611.)
+(Added Pub. L. 88–272, title II, §231(a), Feb. 26, 1964, 78 Stat. 100; amended Pub. L. 91–172, title V, §521(b), (c), (e), title VII, §704(b)(5), title IX, §910(b), Dec. 30, 1969, 83 Stat. 652, 653, 670, 720; Pub. L. 92–178, title III, §303(c)(3), Dec. 10, 1971, 85 Stat. 522; Pub. L. 93–625, §5(c), Jan. 3, 1975, 88 Stat. 2112; Pub. L. 94–81, §2(b), Aug. 9, 1975, 89 Stat. 417; Pub. L. 94–455, title II, §202(a)–(c)(1), (2), title XIX, §§1901(b)(3)(K), (31)(A), (B), (E), 1906(b)(13)(A), 1951(c)(2)(C), title XXI, §§2122(b)(4), 2124(a)(3)(D), Oct. 4, 1976, 90 Stat. 1527, 1529, 1530, 1793, 1799, 1800, 1834, 1840, 1915, 1918; Pub. L. 95–600, title IV, §§404(c)(7), 405(c)(4), title VII, §701(f)(3)(C), (E), Nov. 6, 1978, 92 Stat. 2870, 2871, 2901; Pub. L. 96–222, title I, §107(a)(1)(D), Apr. 1, 1980, 94 Stat. 222; Pub. L. 96–223, title II, §251(a)(2)(D), Apr. 2, 1980, 94 Stat. 287; Pub. L. 97–34, title II, §§204(e), 212(d)(2)(F), Aug. 13, 1981, 95 Stat. 223, 239; Pub. L. 97–448, title I, §102(a)(7), Jan. 12, 1983, 96 Stat. 2368; Pub. L. 98–369, div. A, title VII, §712(a)(1)(B), July 18, 1984, 98 Stat. 946; Pub. L. 99–514, title II, §242(b)(2), Oct. 22, 1986, 100 Stat. 2181; Pub. L. 100–647, title I, §1002(a)(1), Nov. 10, 1988, 102 Stat. 3352; Pub. L. 101–239, title VII, §7831(b), Dec. 19, 1989, 103 Stat. 2426; Pub. L.101–508, title XI, §§11801(c)(6)(F), (8)(I), (15), 11812(b)(11), (12), Nov. 5, 1990, 104 Stat. 1388–524, 1388–527, 1388–536; Pub. L. 104–7, §2(b), Apr. 11, 1995, 109 Stat. 93; Pub. L. 104–188, title I, §1702(h)(18), Aug. 20, 1996, 110 Stat. 1874; Pub. L. 105–34, title III, §312(d)(10), Aug. 5, 1997, 111 Stat. 840; Pub. L. 105–206, title VI, §6023(12), July 22, 1998, 112 Stat. 825; Pub. L. 109–58, title XIII, §1331(b)(3), Aug. 8, 2005, 119 Stat. 1024; Pub. L. 109–135, title IV, §402(a)(7), (h), Dec. 21, 2005, 119 Stat. 2610, 2611.)
 
 #### References in Text
 
@@ -376,7 +376,7 @@ Subsec. (d)(7)(B). Pub. L. 95–600, §404(c)(7), inserted provisions relating t
 
 (2) Redesignated as pars. (2) and (3) existing pars. (1) and (2).
 
-(3) Made the following changes in par. (2): inserted in heading “, and before January 1, 1976”; designated introductory text as subpar. “(A) In general”; inserted therein “and the amount determined under paragraph\(1)(A)(ii) exceeds the amount determined under paragraph (1)(A)(i), then”; redesignated as cl. (i) existing subpar. (A); substituted therein “attributable to periods after December 31, 1969, and before January 1, 1976” for “(as defined in subsection (b)(1) or (4) attributable to periods after December 31, 1969”; substituted cl. (ii) and concluding text for subpar. (B) and concluding text which read:
+(3) Made the following changes in par. (2): inserted in heading “, and before January 1, 1976”; designated introductory text as subpar. “(A) In general”; inserted therein “and the amount determined under paragraph (1)(A)(ii) exceeds the amount determined under paragraph (1)(A)(i), then”; redesignated as cl. (i) existing subpar. (A); substituted therein “attributable to periods after December 31, 1969, and before January 1, 1976” for “(as defined in subsection (b)(1) or (4) attributable to periods after December 31, 1969”; substituted cl. (ii) and concluding text for subpar. (B) and concluding text which read:
 
 “(B) the excess of—
 
@@ -444,7 +444,7 @@ Subsecs. (g) to (i). Pub. L. 91–172, §910(b)(3), added subsec. (g) and redesi
 
 #### Effective Date of 2005 Amendment
 
-Amendments by Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which they relate, but amendment by section 402(a)(7) of Pub. L. 109–135 not applicable with respect to any transaction ordered in compliance with the Public Utility Holding Company Act of1935 (15 U.S.C. 79 et seq.) before its repeal, see section 402(m) of Pub. L. 109–135, set out as an Effective and Termination Dates of 2005 Amendments note under section 36C of this title.
+Amendments by Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which they relate, but amendment by section 402(a)(7) of Pub. L. 109–135 not applicable with respect to any transaction ordered in compliance with the Public Utility Holding Company Act of 1935 (15 U.S.C. 79 et seq.) before its repeal, see section 402(m) of Pub. L. 109–135, set out as an Effective and Termination Dates of 2005 Amendments note under section 23 of this title.
 
 Amendment by Pub. L. 109–58 applicable to property placed in service after Dec. 31, 2005, see section 1331(d) of Pub. L. 109–58, set out as an Effective Date note under section 179D of this title.
 
@@ -506,7 +506,7 @@ Amendment by section 701(f)(3)(C), (E) of Pub. L. 95–600 effective as if inclu
 
 #### Effective Date of 1976 Amendment
 
-Section 202(d) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section (other than subsection (b)) \[amending this section and section 167 of this title\] shall apply for taxable years ending after December 31, 1975. The amendment made by subsection (b) \[amending this section\] shall apply with respect to proceedings (and to operations of law) referred to in section 1250(d)(10) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] which begin after December 31, 1975.”
+Section 202(d) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section (other than subsection (b)) \[amending this section and section 167 of this title\] shall apply for taxable years ending after December 31, 1975. The amendment made by subsection (b) \[amending this section\] shall apply with respect to proceedings (and to operations of law) referred to in section 1250(d)(10) of the Internal Revenue Code of 1986\[formerly I.R.C. 1954\] which begin after December 31, 1975.”
 
 Amendment by section 1901(b)(3)(K), (31)(A), (B), (E) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 

@@ -4,7 +4,7 @@
 
 Except as otherwise provided in this section, no law, rule, regulation, or order, or other administrative action of any State or any political subdivision thereof—
 
-&emsp;(1) requiring, or with respect to, registration or qualification of securities, or registrationor qualification of securities transactions, shall directly or indirectly apply to a security that—
+&emsp;(1) requiring, or with respect to, registration or qualification of securities, or registration or qualification of securities transactions, shall directly or indirectly apply to a security that—
 
 &emsp;&emsp;(A) is a covered security; or
 
@@ -152,5 +152,5 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 
 #### Study and Report on Uniformity of State Regulatory Requirements
 
-Section 102(b) of Pub. L. 104–290 provided that: “The Commission shall conduct a study, after consultation with States, issuers, brokers, and dealers, on the extent to which uniformity of State regulatory requirements for securities or securities transactions has been achieved for securities that are not covered securities (within the meaning of section 18 of the Securities Act of 1933 \[15 U.S.C. 77r\], as amended by paragraph (1) of this subsection). Not later than 1 year after the date of enactment of this Act \[Oct. 11, 1996\], the Commissionshall submit a report to the Congress on the results of such study.”
+Pub. L. 104–290, title I, §102(b), Oct. 11, 1996, 110 Stat. 3420, provided that: “The Commission shall conduct a study, after consultation with States, issuers, brokers, and dealers, on the extent to which uniformity of State regulatory requirements for securities or securities transactions has been achieved for securities that are not covered securities (within the meaning of section 18 of the Securities Act of 1933 \[15 U.S.C. 77r\], as amended by paragraph (1) of this subsection). Not later than 1 year after the date of enactment of this Act \[Oct. 11, 1996\], the Commission shall submit a report to the Congress on the results of such study.”
 

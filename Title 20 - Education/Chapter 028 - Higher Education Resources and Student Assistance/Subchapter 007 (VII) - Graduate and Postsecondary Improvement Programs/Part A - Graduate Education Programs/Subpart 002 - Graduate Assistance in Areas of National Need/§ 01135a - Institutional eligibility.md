@@ -30,7 +30,7 @@ Another prior section 1135a, Pub. L. 89–329, title X, §1002, as added Pub. L.
 
 A prior section 712 of Pub. L. 89–329 was classified to section 1132b–1 of this title, prior to the general amendment of this subchapter by Pub. L. 105–244.
 
-Another prior section 712 of Pub. L. 89–329 was classified to section 1132b–1 of this title, prior to the generalamendment of part A of this subchapter by Pub. L. 102–325.
+Another prior section 712 of Pub. L. 89–329 was classified to section 1132b–1 of this title, prior to the general amendment of part A of this subchapter by Pub. L. 102–325.
 
 Another prior section 712 of Pub. L. 89–329 was classified to section 1132b–1 of this title, prior to the general amendment of this subchapter by Pub. L. 99–498.
 

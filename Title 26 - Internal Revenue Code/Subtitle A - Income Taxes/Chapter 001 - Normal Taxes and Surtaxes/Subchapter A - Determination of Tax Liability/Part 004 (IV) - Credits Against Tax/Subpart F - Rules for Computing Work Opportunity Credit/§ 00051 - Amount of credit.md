@@ -18,7 +18,7 @@ For purposes of this subpart—
 
 #### (3) Limitation on wages per year taken into account
 
-&emsp;The amount of the qualified first-year wages which may be taken into account with respect to any individual shall not exceed $6,000 per year ($12,000 per year in the case of any individual who is a qualified veteran by reason of subsection (d)(3)(A)(ii)).
+&emsp;The amount of the qualified first-year wages which may be taken into account with respect to any individual shall not exceed $6,000 per year ($12,000 per year in the case of any individual who is a qualified veteran by reason of subsection (d)(3)(A)(ii)(I), $14,000 per year in the case of any individual who is a qualified veteran by reason of subsection (d)(3)(A)(iv), and $24,000 per year in the case of any individual who is a qualified veteran by reason of subsection (d)(3)(A)(ii)(II)).
 
 #### (c) Wages defined
 
@@ -54,7 +54,11 @@ For purposes of this subpart—
 
 &emsp;&emsp;(A) after December 31, 1994, and before October 1, 1996, or
 
-&emsp;&emsp;(B) after December 31, 2011.
+&emsp;&emsp;(B) after—
+
+&emsp;&emsp;&emsp;(i) December 31, 2012, in the case of a qualified veteran, and
+
+&emsp;&emsp;&emsp;(ii) December 31, 2011, in the case of any other individual.
 
 #### (5) Coordination with payroll tax forgiveness
 
@@ -90,7 +94,7 @@ For purposes of this subpart—
 
 #### (A) In general
 
-&emsp;&emsp;The term “qualified IV–A recipient” means any individual who is certified by thedesignated local agency as being a member of a family receiving assistance under a IV–A program for any 9 months during the 18-month period ending on the hiring date.
+&emsp;&emsp;The term “qualified IV–A recipient” means any individual who is certified by the designated local agency as being a member of a family receiving assistance under a IV–A program for any 9 months during the 18-month period ending on the hiring date.
 
 #### (B) IV–A program
 
@@ -102,13 +106,17 @@ For purposes of this subpart—
 
 &emsp;&emsp;The term “qualified veteran” means any veteran who is certified by the designated local agency as—
 
-&emsp;&emsp;&emsp;(i) being a member of a family receiving assistance under a supplemental nutrition assistance program under the Food and Nutrition Act of 2008 for at least a 3-month period ending during the 12-month period ending on the hiring date, or
+&emsp;&emsp;&emsp;(i) being a member of a family receiving assistance under a supplemental nutrition assistance program under the Food and Nutrition Act of 2008 for at least a 3-month period ending during the 12-month period ending on the hiring date,
 
 &emsp;&emsp;&emsp;(ii) entitled to compensation for a service-connected disability, and—
 
 &emsp;&emsp;&emsp;&emsp;(I) having a hiring date which is not more that 1 year after having been discharged or released from active duty in the Armed Forces of the United States, or
 
-&emsp;&emsp;&emsp;&emsp;(II) having aggregate periods of unemployment during the 1-year period ending on the hiring date which equal or exceed 6 months.
+&emsp;&emsp;&emsp;&emsp;(II) having aggregate periods of unemployment during the 1-year period ending on the hiring date which equal or exceed 6 months <sup>2</sup>
+
+&emsp;&emsp;&emsp;(iii) having aggregate periods of unemployment during the 1-year period ending on the hiring date which equal or exceed 4 weeks (but less than 6 months), or
+
+&emsp;&emsp;&emsp;(iv) having aggregate periods of unemployment during the 1-year period ending on the hiring date which equal or exceed 6 months.
 
 #### (B) Veteran
 
@@ -188,7 +196,7 @@ For purposes of this subpart—
 
 &emsp;&emsp;For purposes of applying this subpart to wages paid or incurred to any qualified summer youth employee—
 
-&emsp;&emsp;&emsp;(i) subsection (b)(2) shall be applied by substituting “any 90-day period between May 1 and September 15” for “the 1-year period beginning with the day the individual begins work for the employer”, and
+&emsp;&emsp;&emsp;(i) subsection (b)(2) shall be applied by substituting “any 90-day period betweenMay 1 and September 15” for “the 1-year period beginning with the day the individual begins work for the employer”, and
 
 &emsp;&emsp;&emsp;(ii) subsection (b)(3) shall be applied by substituting “$3,000” for “$6,000”.
 
@@ -198,7 +206,7 @@ For purposes of this subpart—
 
 &emsp;&emsp;Paragraph (5)(B) shall apply for purposes of subparagraph (A)(iv).
 
-#### (8) Qualified food stamp recipient <sup>2</sup>
+#### (8) Qualified food stamp recipient <sup>3</sup>
 
 #### (A) In general
 
@@ -269,6 +277,20 @@ For purposes of this subpart—
 #### (C) Explanation of denial of request
 
 &emsp;&emsp;If a designated local agency denies a request for certification of membership in a targeted group, such agency shall provide to the person making such request a written explanation of the reasons for such denial.
+
+#### (D) Credit for unemployed veterans
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Notwithstanding subparagraph (A), for purposes of paragraph (3)(A)—
+
+&emsp;&emsp;&emsp;&emsp;(I) a veteran will be treated as certified by the designated local agency as having aggregate periods of unemployment meeting the requirements of clause (ii)(II) or (iv) of such paragraph (whichever is applicable) if such veteran is certified by such agency as being in receipt of unemployment compensation under State or Federal law for not less than 6 months during the 1-year period ending on the hiring date, and
+
+&emsp;&emsp;&emsp;&emsp;(II) a veteran will be treated as certified by the designated local agency as having aggregate periods of unemployment meeting the requirements of clause (iii) of such paragraph if such veteran is certified by such agency as being in receipt of unemployment compensation under State or Federal law for not less than 4 weeks (but less than 6 months) during the 1-year period ending on the hiring date.
+
+#### (ii) Regulatory authority
+
+&emsp;&emsp;&emsp;The Secretary may provide alternative methods for certification of a veteran as a qualified veteran described in clause (ii)(II), (iii), or (iv) of paragraph (3)(A), at the Secretary's discretion.
 
 #### (14) Credit allowed for unemployed veterans and disconnected youth hired in 2009 or 2010
 
@@ -348,7 +370,7 @@ For purposes of this subpart—
 
 #### (A) Agricultural labor
 
-&emsp;&emsp;If the services performed by any employee for an employer during more than one-half of any pay period (within the meaning of section 3306(d)) taken into account with respect to any year constitute agricultural labor (within the meaning of section 3306(k)), the term “unemployment insurance wages” means, with respect to the remuneration paid by the employer to such employee for such year, an amount equal to so much of such remuneration as constitutes “wages” within the meaning of section 3121(a), except that the contribution andbenefit base for each calendar year shall be deemed to be $6,000.
+&emsp;&emsp;If the services performed by any employee for an employer during more than one-half of any pay period (within the meaning of section 3306(d)) taken into account with respect to any year constitute agricultural labor (within the meaning of section 3306(k)), the term “unemployment insurance wages” means, with respect to the remuneration paid by the employer to such employee for such year, an amount equal to so much of such remuneration as constitutes “wages” within the meaning of section 3121(a), except that the contribution and benefit base for each calendar year shall be deemed to be $6,000.
 
 #### (B) Railway labor
 
@@ -364,7 +386,7 @@ For purposes of this subpart—
 
 &emsp;No wages shall be taken into account under subsection (a) with respect to an individual who—
 
-&emsp;&emsp;(A) bears any of the relationships described in subparagraphs (A) through (G) of section 152(d)(2) to the taxpayer, or, if the taxpayer is a corporation, to an individual who owns, directly or indirectly, more than 50 percent in value of the outstanding stock of the corporation, or, if the taxpayer is an entity other than a corporation, to any individual who owns, directly or indirectly, more than 50 percent of the capital and profits interests in the entity,<sup>3</sup> (determined with the application of section 267(c)),
+&emsp;&emsp;(A) bears any of the relationships described in subparagraphs (A) through (G) of section 152(d)(2) to the taxpayer, or, if the taxpayer is a corporation, to an individual who owns, directly or indirectly, more than 50 percent in value of the outstanding stock of the corporation, or, if the taxpayer is an entity other than a corporation, to any individual who owns, directly or indirectly, more than 50 percent of the capital and profits interests in the entity,<sup>4</sup> (determined with the application of section 267(c)),
 
 &emsp;&emsp;(B) if the taxpayer is an estate or trust, is a grantor, beneficiary, or fiduciary of the estate or trust, or is an individual who bears any of the relationships described in subparagraphs (A) through (G) of section 152(d)(2) to a grantor, beneficiary, or fiduciary of the estate or trust, or
 
@@ -408,7 +430,7 @@ For purposes of this subpart—
 
 &emsp;No credit shall be determined under this section with respect to remuneration paid by an employer to an employee for services performed by such employee for another person unless the amount reasonably expected to be received by the employer for such services from such other person exceeds the remuneration paid by the employer to such employee for such services.
 
-(Added Pub. L. 95–30, title II, §202(b), May 23, 1977, 91 Stat. 141; amended Pub. L. 95–600, title III, §321(a), Nov. 6, 1978, 92 Stat. 2830; Pub. L. 96–222, title I, §103(a)(6)(A), (E), (F), (G)(iii)–(ix), Apr. 1, 1980, 94 Stat. 209, 210; Pub. L. 97–34, title II, §261(a)–(b)(2)(A), (B)(ii)–(f)(1), Aug. 13, 1981, 95 Stat. 260–262; Pub. L. 97–248, title II, §233(a)–(d), (f), Sept. 3, 1982, 96 Stat. 501, 502; Pub. L. 97–448, title I, §102(<i>l</i>)(1), (3), (4), Jan. 12, 1983, 96 Stat. 2374; Pub. L. 98–369, div. A, title IV, §474(p)(1)–(3), title VII, §712(n), title X, §1041(a), (c)(1)–(4), div. B, title VI, §§2638(b), 2663(j)(5)(A), July 18, 1984, 98 Stat. 837, 955, 1042, 1043, 1144, 1171; Pub. L. 99–514, title XVII, §1701(a)–(c), title XVIII, §1878(f)(1), Oct. 22, 1986, 100 Stat. 2772, 2904; Pub. L. 100–203, title X, §10601(a), Dec. 22, 1987, 101 Stat. 1330–451; Pub. L. 100–485, title II, §202(c)(6), Oct. 13, 1988, 102 Stat. 2378; Pub. L. 100–647, titleI, §1017(a), title IV, §4010(a), (c)(1), (d)(1), Nov. 10, 1988, 102 Stat. 3575, 3655; Pub. L. 101–239, title VII, §7103(a), (c)(1), Dec. 19, 1989, 103 Stat. 2305; Pub. L. 101–508, title XI, §11405(a), Nov. 5, 1990, 104 Stat. 1388–473; Pub. L. 102–227, title I, §105(a), Dec. 11, 1991, 105 Stat. 1687; Pub. L. 103–66, title XIII, §§13102(a), 13302(d), Aug. 10, 1993, 107 Stat. 420, 556; Pub. L. 104–188, title I, §1201(a)–(e)(1), (5), (f), Aug. 20, 1996, 110 Stat. 1768–1772; Pub. L. 104–193, title I, §110(<i>l</i>)(1), Aug. 22, 1996, 110 Stat. 2173; Pub. L. 105–33, title V, §5514(a)(1), Aug. 5, 1997, 111 Stat. 620; Pub. L. 105–34, title VI, §603(a)–(d), Aug. 5, 1997, 111 Stat. 862; Pub. L. 105–277, div. J, title I, §1002(a), title IV, §4006(c)(1), Oct. 21, 1998, 112 Stat. 2681–888, 2681–912; Pub. L. 106–170, title V, §505(a), (b), Dec. 17, 1999, 113 Stat. 1921; Pub. L. 106–554, §1(a)(7) \[title I, §102(a)–(c), title III, §316(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–600, 2763A–644; Pub. L. 107–147, title VI, §604(a), Mar. 9, 2002, 116 Stat. 59; Pub. L. 108–311, title II, §207(5), title III, §303(a)(1), Oct. 4, 2004, 118 Stat. 1177, 1179; Pub. L. 109–432, div. A, title I, §105(a)–(e)(3), Dec. 20, 2006, 120 Stat. 2936, 2937; Pub. L. 110–28, title VIII, §8211(a)–(d), May 25, 2007, 121 Stat. 191; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (D), (2)(O), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (D), (2)(O), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 111–5, div. B, title I, §1221(a), Feb. 17, 2009, 123 Stat. 337; Pub. L. 111–147, title I, §101(b), Mar. 18, 2010, 124 Stat. 74; Pub. L. 111–312, title VII, §757(a), Dec. 17, 2010, 124 Stat. 3322.)
+(Added Pub. L. 95–30, title II, §202(b), May 23, 1977, 91 Stat. 141; amended Pub. L. 95–600, title III, §321(a), Nov. 6, 1978, 92 Stat. 2830; Pub. L. 96–222, title I, §103(a)(6)(A), (E), (F), (G)(iii)–(ix),Apr. 1, 1980, 94 Stat. 209, 210; Pub. L. 97–34, title II, §261(a)–(b)(2)(A), (B)(ii)–(f)(1), Aug. 13, 1981, 95 Stat. 260–262; Pub. L. 97–248, title II, §233(a)–(d), (f), Sept. 3, 1982, 96 Stat. 501, 502; Pub. L. 97–448, title I, §102(<i>l</i>)(1), (3), (4), Jan. 12, 1983, 96 Stat. 2374; Pub. L. 98–369, div. A, title IV, §474(p)(1)–(3), title VII, §712(n), title X, §1041(a), (c)(1)–(4), div. B, title VI, §§2638(b), 2663(j)(5)(A), July 18, 1984, 98 Stat. 837, 955, 1042, 1043, 1144, 1171; Pub. L. 99–514, title XVII, §1701(a)–(c), title XVIII, §1878(f)(1), Oct. 22, 1986, 100 Stat. 2772, 2904; Pub. L. 100–203, title X, §10601(a), Dec. 22, 1987, 101 Stat. 1330–451; Pub. L. 100–485, title II, §202(c)(6), Oct. 13, 1988, 102 Stat. 2378; Pub. L. 100–647, title I, §1017(a), title IV, §4010(a), (c)(1), (d)(1), Nov. 10, 1988, 102 Stat. 3575, 3655; Pub. L. 101–239, title VII, §7103(a), (c)(1), Dec. 19, 1989, 103 Stat. 2305; Pub. L. 101–508, title XI, §11405(a), Nov. 5, 1990, 104 Stat. 1388–473; Pub. L. 102–227, title I, §105(a), Dec. 11, 1991, 105 Stat. 1687; Pub. L. 103–66, title XIII, §§13102(a), 13302(d), Aug. 10, 1993, 107 Stat. 420, 556; Pub. L. 104–188, title I, §1201(a)–(e)(1), (5), (f), Aug. 20, 1996, 110 Stat. 1768–1772; Pub. L. 104–193, title I, §110(<i>l</i>)(1), Aug. 22, 1996, 110 Stat. 2173; Pub. L. 105–33, title V, §5514(a)(1), Aug. 5, 1997, 111 Stat. 620; Pub. L. 105–34, title VI, §603(a)–(d), Aug. 5, 1997, 111 Stat. 862; Pub. L. 105–277, div. J, title I, §1002(a), title IV, §4006(c)(1), Oct. 21, 1998, 112 Stat. 2681–888, 2681–912; Pub. L. 106–170, title V, §505(a), (b), Dec. 17, 1999, 113 Stat. 1921; Pub. L. 106–554, §1(a)(7) \[title I, §102(a)–(c), title III, §316(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–600, 2763A–644; Pub. L. 107–147, title VI, §604(a), Mar. 9, 2002, 116 Stat. 59; Pub. L. 108–311, title II, §207(5), title III, §303(a)(1), Oct. 4, 2004, 118 Stat. 1177, 1179; Pub. L. 109–432, div. A, title I, §105(a)–(e)(3), Dec. 20, 2006, 120 Stat. 2936, 2937; Pub. L. 110–28, title VIII, §8211(a)–(d), May 25, 2007, 121 Stat. 191; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (D), (2)(O), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (D), (2)(O), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 111–5, div. B, title I, §1221(a), Feb. 17, 2009, 123 Stat. 337; Pub. L. 111–147, title I, §101(b), Mar. 18, 2010, 124 Stat. 74; Pub. L. 111–312, title VII, §757(a), Dec. 17, 2010, 124 Stat. 3322; Pub. L. 112–56, title II, §261(a)–(d), Nov. 21, 2011, 125 Stat. 729, 730.)
 
 #### References in Text
 
@@ -432,6 +454,14 @@ A prior section 51, added Pub. L. 90–364, title I, §102(a), June 28, 1968, 82
 
 #### Amendments
 
+<b>2011</b>—Subsec. (b)(3). Pub. L. 112–56, §261(a), substituted “($12,000 per year in the case of any individual who is a qualified veteran by reason of subsection (d)(3)(A)(ii)(I), $14,000 per year in the case of any individual who is a qualified veteran by reason of subsection (d)(3)(A)(iv), and $24,000 per year in the case of any individual who is a qualified veteran by reason of subsection (d)(3)(A)(ii)(II))” for “($12,000 per year in the case of any individual who is a qualified veteran by reason of subsection (d)(3)(A)(ii))”.
+
+Subsec. (c)(4)(B). Pub. L. 112–56, §261(d), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “after December 31, 2011.”
+
+Subsec. (d)(3)(A)(iii), (iv). Pub. L. 112–56, §261(b), added cls. (iii) and (iv).
+
+Subsec. (d)(13)(D). Pub. L. 112–56, §261(c), added subpar. (D).
+
 <b>2010</b>—Subsec. (c)(4)(B). Pub. L. 111–312 substituted “December 31, 2011” for “August 31, 2011”.
 
 Subsec. (c)(5). Pub. L. 111–147 added par. (5).
@@ -450,7 +480,7 @@ Subsec. (d)(8)(A)(ii)(II). Pub. L. 110–246, §4002(b)(1)(B), (2)(O), substitut
 
 Subsec. (d)(8)(B). Pub. L. 110–246, §4002(b)(1)(A), (2)(O), substituted “supplemental nutrition assistance program” for “food stamp program”.
 
-<b>2007</b>—Subsec. (b)(3). Pub. L. 110–28, §8211(d)(2), substituted “Limitation on” for “Only first $6,000 of” in heading and inserted “($12,000 per year in the case of any individual who is a qualified veteran by reason of subsection (d)(3)(A)(ii))” before period at end.
+<b>2007</b>—Subsec. (b)(3). Pub. L. 110–28, §8211(d)(2), substituted “Limitation on” for “Only first $6,000 of” in heading and inserted “($12,000 per year in the case ofany individual who is a qualified veteran by reason of subsection (d)(3)(A)(ii))” before period at end.
 
 Subsec. (c)(4)(B). Pub. L. 110–28, §8211(a), substituted “August 31, 2011” for “December 31, 2007”.
 
@@ -674,7 +704,7 @@ Subsec. (d)(11). Pub. L. 97–34, §261(b)(2)(A), (c)(2), redesignated former pa
 
 Subsec. (d)(12), (13). Pub. L. 97–34, §261(b)(2)(A), redesignated former pars. (10) and (11) as pars. (12) and (13), respectively. Former par. (12) redesignated (14).
 
-Subsec. (d)(14). Pub. L. 97–34, §261(f)(1)(A), substituted as definition for term “ ‘designated local agency’ means a State employment security agency established in accordance with the Act of June 6, 1933, as amended (29 U.S.C. 49–49n)” for “ ‘designated local agency’ means the agency for any locality designated jointly by theSecretary and the Secretary of Labor to perform certification of employees for employers in that locality”.
+Subsec. (d)(14). Pub. L. 97–34, §261(f)(1)(A), substituted as definition for term “ ‘designated local agency’ means a State employment security agency established in accordance with the Act of June 6, 1933, as amended (29 U.S.C. 49–49n)” for “ ‘designated local agency’ means the agency for any locality designated jointly by the Secretary and the Secretary of Labor to perform certification of employees for employers in that locality”.
 
 Pub. L. 97–34, §261(b)(2)(A), redesignated former par. (12) as (14).
 
@@ -711,6 +741,10 @@ Subsec. (d)(12). Pub. L. 96–222, §103(a)(6)(G)(viii), substituted “employer
 Subsec. (e). Pub. L. 96–222, §103(a)(6)(G)(ix), inserted “except as provided in subsection (h)(1)” after “the preceding sentence,”.
 
 <b>1978</b>—Pub. L. 95–600 amended section generally and limited allowance of credit to the hiring of seven target groups with high unemployment rates.
+
+#### Effective Date of 2011 Amendment
+
+Pub. L. 112–56, title II, §261(g), Nov. 21, 2011, 125 Stat. 732, provided that: “The amendments made by this section \[amending this section and sections 52 and 3111 of this title\] shall apply to individuals who begin work for the employer after the date of the enactment of this Act \[Nov. 21, 2011\].”
 
 #### Effective Date of 2010 Amendment
 
@@ -842,7 +876,7 @@ Section 1041(c)(5) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, tit
 
 “(A)
 
-In general.—Except as provided in subparagraph (B), the amendments made by this section \[amending this section\] shall apply to individuals who begin work for the employer after the date of the enactment of this Act \[July 18, 1984\].
+In general.—Except as provided in subparagraph (B), the amendments made by this section\[amending this section\] shall apply to individuals who begin work for the employer after the date of the enactment of this Act \[July 18, 1984\].
 
 “(B)
 
@@ -930,6 +964,42 @@ Section 321(d)(1) of Pub. L. 95–600 provided that: “Except as otherwise prov
 
 Section 202(e) of Pub. L. 95–30 provided that: “The amendments made by this section \[enacting this section and sections 44B, 52, 53, and 280C of this title and amending sections 56, 381, 383, 6096, 6411, 6501, 6511, 6601, and 6611 of this title\] shall apply to taxable years beginning after December 31, 1976, and to credit carrybacks from such years.”
 
+#### Returning Heroes and Wounded Warriors Work Opportunity Tax Credits; Treatment of Possessions of United States
+
+Pub. L. 112–56, title II, §261(f), Nov. 21, 2011, 125 Stat. 731, provided that:
+
+“(1)
+
+Payments to possessions.—
+
+&emsp;“(A)
+
+Mirror code possessions.—The Secretary of the Treasury shall pay to each possession of the United States with a mirror code tax system amounts equal to the loss to that possession by reason of the amendments made by this section \[amending this section and sections 52 and 3111 of this title\]. Such amounts shall be determined by the Secretary of the Treasury based on information provided by the government of the respective possession of the United States.
+
+&emsp;“(B)
+
+Other possessions.—The Secretary of the Treasury shall pay to each possession of the United States which does not have a mirror code tax system the amount estimated by the Secretary of the Treasury as being equal to the loss to that possession that would have occurred by reason of the amendments made by this section if a mirror code tax system had been in effect in such possession. The preceding sentence shall not apply with respect to any possession of the United States unless such possession establishes to the satisfaction of the Secretary that the possession has implemented (or, at the discretion of the Secretary, will implement) an income tax benefit which is substantially equivalent to the income tax credit in effect after the amendments made by this section.
+
+“(2)
+
+Coordination with credit allowed against united states income taxes.—The credit allowed against United States income taxes for any taxable year under the amendments made by this section to section 51 of the Internal Revenue Code of 1986 \[26 U.S.C. 51\] to any person with respect to any qualified veteran shall be reduced by the amount of any credit (or other tax benefit described in paragraph (1)(B)) allowed to such person against income taxes imposed by the possession of the United States by reason of this subsection with respect to such qualified veteran for such taxable year.
+
+“(3)
+
+Definitions and special rules.—
+
+&emsp;“(A)
+
+Possession of the united states.—For purposes of this subsection, the term ‘possession of the United States’ includes American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, the Commonwealth of Puerto Rico, and the United States Virgin Islands.
+
+&emsp;“(B)
+
+Mirror code tax system.—For purposes of this subsection, the term ‘mirror code tax system’ means, with respect to any possession of the United States, the income tax system of such possession if the income tax liability of the residents of such possession under such system is determined by reference to the income tax laws of the United States as if such possession were the United States.
+
+&emsp;“(C)
+
+Treatment of payments.—For purposes of section 1324(b)(2) of title 31, United States Code, the payments under this subsection shall be treated in the same manner as a refund due from credit provisions described in such section.”
+
 #### Reference to Plan for Employment
 
 Pub. L. 105–277, div. J, title IV, §4006(c)(1), Oct. 21, 1998, 112 Stat. 2681–912, provided that: “The reference to ‘plan for employment’ in such clause \[26 U.S.C. 51(d)(6)(B)(i)\] shall be treated as including a reference to the rehabilitation plan referred to in such clause as in effect before the amendment made by the preceding sentence.”
@@ -980,7 +1050,9 @@ Section 321(d)(3) of Pub. L. 95–600, as amended by Pub. L. 96–222, title I, 
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “Qualified supplemental nutrition assistance program benefits recipient”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be followed by a comma.</i>
 
-<i><sup>3</sup></i><i> So in original. The comma probably should not appear.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be “Qualified supplemental nutrition assistance program benefits recipient”.</i>
+
+<i><sup>4</sup></i><i> So in original. The comma probably should not appear.</i>
 

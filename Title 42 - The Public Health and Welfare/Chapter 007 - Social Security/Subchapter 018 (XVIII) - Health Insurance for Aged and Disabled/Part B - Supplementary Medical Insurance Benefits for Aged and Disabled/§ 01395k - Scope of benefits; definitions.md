@@ -36,7 +36,7 @@ The benefits provided to an individual by the insurance program established by t
 
 &emsp;&emsp;&emsp;(ii) pursuant to section 1395<i>l</i>(i)(1)(B) of this title and performed by a physician, described in paragraph (1), (2), or (3) of section 1395x(r) of this title, in his office, if the Secretary has determined that—
 
-&emsp;&emsp;&emsp;&emsp;(I) a quality control and peer review organization (having a contract with the Secretary under part B of subchapter XI of this chapter) is willing, able, and has agreed to carry out a review (on a sample or other reasonable basis) of the physician's performing such procedures in the physician's office,
+&emsp;&emsp;&emsp;&emsp;(I) a quality improvement organization (having a contract with the Secretary under part B of subchapter XI of this chapter) is willing, able, and has agreed to carry out a review (on a sample or other reasonable basis) of the physician's performing such procedures in the physician's office,
 
 &emsp;&emsp;&emsp;&emsp;(II) the particular physician involved has agreed to make available to such organization such records as the Secretary determines to be necessary to carry out the review, and
 
@@ -56,13 +56,11 @@ The benefits provided to an individual by the insurance program established by t
 
 For definitions of “spell of illness”, “medical and other health services”, and other terms used in this part, see section 1395x of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1832, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 302; amended Pub. L. 90–248, title I, §§129(c)(6)(B), 133(d), Jan. 2, 1968, 81 Stat. 848, 851; Pub. L. 92–603, title II, §§227(e)(1), 251(a)(4), Oct. 30, 1972, 86 Stat. 1406, 1445; Pub. L. 95–210, §1(a), Dec. 13, 1977, 91 Stat. 1485; Pub. L. 96–499, title IX, §§930(g), 933(a), 934(a), 948(a)(2), Dec. 5, 1980, 94 Stat. 2631, 2635, 2637, 2643; Pub. L. 97–248, title I, §148(c), Sept. 3, 1982, 96 Stat. 394; Pub. L. 98–369, div. B, title III, §§2341(b), 2354(b)(6), July 18, 1984, 98 Stat. 1094, 1100; Pub. L. 99–509, title IX, §§9320(d), 9337(a), 9343(e)(1), Oct. 21, 1986, 100 Stat. 2013, 2033, 2041; Pub. L. 100–203, title IV, §§4062(d)(2), 4063(e)(2), 4073(b)(1), 4077(b)(2), 4085(i)(22)(A), Dec. 22, 1987, 101 Stat. 1330–108, 1330–118, 1330–120, as amended Pub. L. 100–360, title IV, §411(g)(2)(E), (h)(4)(A), (7)(B), (i)(4)(C)(vi), July 1, 1988, 102 Stat. 783, 786, 787, 789; Pub. L. 100–360, title I, §104(d)(3), title II, §§203(a), 205(a), July 1, 1988, 102 Stat. 689, 721, 729, 783; Pub. L. 101–234, title I, §101(a), title II, §201(a), Dec. 13, 1989, 103 Stat. 1979, 1981; Pub. L. 101–239, title VI, §6116(a)(2), Dec. 19, 1989, 103 Stat. 2219; Pub. L. 101–508, title IV, §§4153(a)(2)(A), 4155(b)(1), 4157(b), 4161(a)(3)(A), 4162(b)(1), Nov. 5, 1990, 104 Stat. 1388–83, 1388–86, 1388–89, 1388–93, 1388–96; Pub. L. 105–33, title IV, §§4201(c)(1), 4432(b)(5)(B), 4511(c), 4603(c)(2)(B)(ii), Aug. 5, 1997, 111 Stat. 373, 421, 443, 471; Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §227(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–354; Pub. L. 106–554, §1(a)(6) \[title I, §113(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–473; Pub. L. 110–275, title I, §143(b)(1), July 15, 2008, 122 Stat. 2542.)
-
-#### References in Text
-
-Part B of subchapter XI of this chapter, referred to in subsec. (a)(2)(F)(ii)(I), is classified to section 1320c et seq. of this title.
+(Aug. 14, 1935, ch. 531, title XVIII, §1832, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 302; amended Pub. L. 90–248, title I, §§129(c)(6)(B), 133(d), Jan. 2, 1968, 81 Stat. 848, 851; Pub. L. 92–603, title II, §§227(e)(1), 251(a)(4), Oct. 30, 1972, 86 Stat. 1406, 1445; Pub. L. 95–210, §1(a), Dec. 13, 1977, 91 Stat. 1485; Pub. L. 96–499, title IX, §§930(g), 933(a), 934(a), 948(a)(2), Dec. 5, 1980, 94 Stat. 2631, 2635, 2637, 2643; Pub. L. 97–248, title I, §148(c), Sept. 3, 1982, 96 Stat. 394; Pub. L. 98–369, div. B, title III, §§2341(b), 2354(b)(6), July 18, 1984, 98 Stat. 1094, 1100; Pub. L. 99–509, title IX, §§9320(d), 9337(a), 9343(e)(1), Oct. 21, 1986, 100 Stat. 2013, 2033, 2041; Pub. L. 100–203, title IV, §§4062(d)(2), 4063(e)(2), 4073(b)(1), 4077(b)(2), 4085(i)(22)(A), Dec. 22, 1987, 101 Stat. 1330–108, 1330–118, 1330–120, as amended Pub. L. 100–360, title IV, §411(g)(2)(E), (h)(4)(A), (7)(B), (i)(4)(C)(vi), July 1, 1988, 102 Stat. 783, 786, 787, 789; Pub. L. 100–360, title I, §104(d)(3), title II, §§203(a), 205(a), July 1, 1988, 102 Stat. 689, 721, 729, 783; Pub. L. 101–234, title I, §101(a), title II, §201(a), Dec. 13, 1989, 103 Stat. 1979, 1981; Pub. L. 101–239, title VI, §6116(a)(2), Dec. 19, 1989, 103 Stat. 2219; Pub. L. 101–508, title IV, §§4153(a)(2)(A), 4155(b)(1), 4157(b), 4161(a)(3)(A), 4162(b)(1), Nov. 5, 1990, 104 Stat. 1388–83, 1388–86, 1388–89, 1388–93, 1388–96; Pub. L. 105–33, title IV, §§4201(c)(1), 4432(b)(5)(B), 4511(c), 4603(c)(2)(B)(ii), Aug. 5, 1997, 111 Stat. 373, 421, 443, 471; Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §227(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–354; Pub. L. 106–554, §1(a)(6) \[title I, §113(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–473; Pub. L. 110–275, title I, §143(b)(1), July 15, 2008, 122 Stat. 2542; Pub. L. 112–40, title II, §261(a)(3)(B), Oct. 21, 2011, 125 Stat. 423.)
 
 #### Amendments
+
+<b>2011</b>—Subsec. (a)(2)(F)(ii)(I). Pub. L. 112–40 substituted “quality improvement” for “quality control and peer review”.
 
 <b>2008</b>—Subsec. (a)(2)(C). Pub. L. 110–275 substituted “, outpatient” for “and outpatient” and inserted “, and outpatient speech-language pathology services (other than services to which the second sentence of section 1395x(p) of this title applies through the application of section 1395x(<i>ll</i>)(2) of this title)” before semicolon at end.
 
@@ -158,6 +156,10 @@ Subsec. (a)(2)(C). Pub. L. 92–603, §251(a)(4), inserted “, other than serv
 
 Subsec. (a)(2)(C). Pub. L. 90–248, §133(d), added subpar. (C).
 
+#### Effective Date of 2011 Amendment
+
+Amendment by Pub. L. 112–40 applicable to contracts entered into or renewed on or after Jan. 1, 2012, see section 261(e) of Pub. L. 112–40, set out as a note under section 1320c of this title.
+
 #### Effective Date of 2008 Amendment
 
 Pub. L. 110–275, title I, §143(c), July 15, 2008, 122 Stat. 2543, provided that: “The amendments made by this section \[amending this section and sections 1395<i>l</i>, 1395n, 1395x, 1395y, 1395cc, and 1395nn of this title\] shall apply to services furnished on or after July 1, 2009.”
@@ -198,7 +200,7 @@ Amendment by section 201(a) of Pub. L. 101–234 effective Jan. 1, 1990, see sec
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 104(d)(3) of Pub. L. 100–360 effective Jan. 1, 1989, except as otherwise provided, and applicable to inpatient hospital deductible for 1989 and succeeding years, to care and services furnished on or after Jan. 1, 1989, to premiums for January 1989 and succeeding months, and to blood or blood cells furnished on or after Jan. 1, 1989, see section 104(a) of Pub. L. 100–360, set out as a note under section 1395d of this title.
+Amendment by section 104(d)(3) of Pub. L. 100–360 effective Jan. 1, 1989, except as otherwise provided, andapplicable to inpatient hospital deductible for 1989 and succeeding years, to care and services furnished on or after Jan. 1, 1989, to premiums for January 1989 and succeeding months, and to blood or blood cells furnished on or after Jan. 1, 1989, see section 104(a) of Pub. L. 100–360, set out as a note under section 1395d of this title.
 
 Amendment by section 203(a) of Pub. L. 100–360 applicable to items and services furnished on or after Jan. 1, 1990, see section 203(g) of Pub. L. 100–360, set out as a note under section 1320c–3 of this title.
 
@@ -264,7 +266,7 @@ Section 9320(j) of Pub. L. 99–509 provided that: “Nothing in this section or
 
 #### Report on Immunosuppressive Drug Benefit
 
-Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §227(d)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–356, which required the Secretary of Health and Human Services to submit to Congress not later than Mar. 1, 2003, a report on the operation of section 1000(a)(6) \[title II, §227\] of Pub. L. 106–113, amending this section and section 1395x of this title, including an analysis of impact and recommendations regarding an appropriate cost-effective method for providing coverage of immunosuppressive drugs under the medicare program on a permanent basis, was repealed by Pub. L. 106–554, §1(a)(6) \[title I, §113(b)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–473.
+Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §227(d)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–356, which requiredthe Secretary of Health and Human Services to submit to Congress not later than Mar. 1, 2003, a report on the operation of section 1000(a)(6) \[title II, §227\] of Pub. L. 106–113, amending this section and section 1395x of this title, including an analysis of impact and recommendations regarding an appropriate cost-effective method for providing coverage of immunosuppressive drugs under the medicare program on a permanent basis, was repealed by Pub. L. 106–554, §1(a)(6) \[title I, §113(b)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–473.
 
 #### Quality and Utilization of In-Home Care for Chronically Dependent Individuals
 
@@ -288,7 +290,7 @@ Section 9320(k) of Pub. L. 99–509, as added by Pub. L. 100–485, title VI, §
 
 “(2) Paragraph (1) shall not apply in a year (after 1989) to a hospital unless the hospital establishes, before the beginning of the year, that the hospital has had a volume of surgical procedures (including inpatient and outpatient procedures) requiring anesthesia services in the previous year that did not exceed 500 (or such higher number as the Secretary determines to be appropriate).”
 
-\[Section 6132(b) of Pub. L. 101–239 provided that: “The amendments made by this section \[amending section9320(k) of Pub. L. 99–509, set out above\] shall apply to services furnished on or after January 1, 1990.”\]
+\[Section 6132(b) of Pub. L. 101–239 provided that: “The amendments made by this section \[amending section 9320(k) of Pub. L. 99–509, set out above\] shall apply to services furnished on or after January 1, 1990.”\]
 
 #### Payment for Services of Physicians Rendered in a Teaching Hospital for Accounting Periods Beginning After June 30, 1975, and Prior to October 1, 1978; Studies, Reports, etc.; Effective Dates
 

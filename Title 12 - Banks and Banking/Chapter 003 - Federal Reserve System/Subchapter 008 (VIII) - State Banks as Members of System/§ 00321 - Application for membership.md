@@ -6,7 +6,7 @@ Upon the conversion of a national bank into a State bank, or the merger or conso
 
 Any such State bank which on February 25, 1927, has established and is operating a branch or branches in conformity with the State law, may retain and operate the same while remaining or upon becoming a stockholder of such Federal Reserve bank; but no such State bank may retain or acquire stock in a Federal Reserve bank except upon relinquishment of any branch or branches established after February 25, 1927, beyond the limits of the city, town, or village in which the parent bank is situated: <i>Provided, however</i>, That nothing herein contained shall prevent any State member bank from establishing and operating branches in the United States or any dependency or insular possession thereof or in any foreign country, on the same terms and conditions and subject to the same limitations and restrictions as are applicable to the establishment of branches by national banks except that the approval of the Board of Governors of the Federal Reserve System, instead of the Comptroller of the Currency, shall be obtained before any State member bank may hereafter establish any branch and before any State bank hereafter admitted to membership may retain any branch established after February 25, 1927, beyond the limits of the city, town, or village in which the parent bank is situated. The approval of the Board shall likewise be obtained before any State member bank may establish any new branch within the limits of any such city, town, or village.
 
-(Dec. 23, 1913, ch. 6, §9 (pars.), 38 Stat. 259; June 21, 1917, ch. 32, §3, 40 Stat. 232; Feb. 25, 1927, ch. 191, §9, 44 Stat. 1229; June 16, 1933, ch. 89, §5(a), (b), 48 Stat. 164; June 16, 1934, ch. 546, §2, 48 Stat. 971; Aug. 23, 1935, ch. 614, title II, §203(a), titleIII, §338, 49 Stat. 704, 721; Aug. 17, 1950, ch. 729, §8, 64 Stat. 458; July 15, 1952, ch. 753, §2(a), 66 Stat. 633; Pub. L. 108–386, §8(h), Oct. 30, 2004, 118 Stat. 2232; Pub. L. 109–351, title VII, §725(a)(2), Oct. 13, 2006, 120 Stat. 2001; Pub. L. 109–356, title I, §123(a)(2), Oct. 16, 2006, 120 Stat. 2028.)
+(Dec. 23, 1913, ch. 6, §9 (pars.), 38 Stat. 259; June 21, 1917, ch. 32, §3, 40 Stat. 232; Feb. 25, 1927, ch. 191, §9, 44 Stat. 1229; June 16, 1933, ch. 89, §5(a), (b), 48 Stat. 164; June 16, 1934, ch. 546, §2, 48 Stat. 971; Aug. 23, 1935, ch. 614, title II, §203(a), title III, §338, 49 Stat. 704, 721; Aug. 17, 1950, ch. 729, §8, 64 Stat. 458; July 15, 1952, ch. 753, §2(a), 66 Stat. 633; Pub. L. 108–386, §8(h), Oct. 30, 2004, 118 Stat. 2232; Pub. L. 109–351, title VII, §725(a)(2), Oct. 13, 2006, 120 Stat. 2001; Pub. L. 109–356, title I, §123(a)(2), Oct. 16, 2006, 120 Stat. 2028.)
 
 #### References in Text
 
@@ -18,21 +18,21 @@ Section is comprised of the first three pars. of section 9 of act Dec. 23, 1913,
 
 #### Amendments
 
-2006—Pub. L. 109–351 and 109–356 amended section identically, substituting “incorporated by special law of any State, operating under the Code of Law for the District of Columbia, or” for “incorporated by special law of any State, or” in first sentence of first par.
+<b>2006</b>—Pub. L. 109–351 and 109–356 amended section identically, substituting “incorporated by special law of any State, operating under the Code of Law for the District of Columbia, or” for “incorporated by special law of any State, or” in first sentence of first par.
 
-2004—Pub. L. 108–386 struck out “(except within the District of Columbia)” before period at end of last sentence of third par.
+<b>2004</b>—Pub. L. 108–386 struck out “(except within the District of Columbia)” before period at end of last sentence of third par.
 
-1952—Act July 15, 1952, inserted last sentence to third par.
+<b>1952</b>—Act July 15, 1952, inserted last sentence to third par.
 
-1950—Act Aug. 17, 1950, inserted second par., permitting application for membership in the Federal Reserve System by the State bank resulting from a conversion, merger, or consolidation transaction involving a national bank, except where the national bank merges or consolidates with a State bank already a member of System in which case the membership continues.
+<b>1950</b>—Act Aug. 17, 1950, inserted second par., permitting application for membership in the Federal Reserve System by the State bank resulting from a conversion, merger, or consolidation transaction involving a national bank, except where the national bank merges or consolidates with a State bank already a member of System in which case the membership continues.
 
-1935—Act Aug. 23, 1935, §338, inserted phrase in third (formerly second) par. beginning “except that the approval of the Board of Governors”.
+<b>1935</b>—Act Aug. 23, 1935, §338, inserted phrase in third (formerly second) par. beginning “except that the approval of the Board of Governors”.
 
-1934—Act June 16, 1934, inserted third sentence in first par.
+<b>1934</b>—Act June 16, 1934, inserted third sentence in first par.
 
-1933—Act June 16, 1933, inserted “including Morris Plan banks and other incorporated banking institutions engaged in similar business” in first par. and inserted proviso to third (formerly second) par. through “branches of national banks”.
+<b>1933</b>—Act June 16, 1933, inserted “including Morris Plan banks and other incorporated banking institutions engaged in similar business” in first par. and inserted proviso to third (formerly second) par. through “branches of national banks”.
 
-1927—Act Feb. 25, 1927, inserted second par. which became third par. in 1950. See Codification note above.
+<b>1927</b>—Act Feb. 25, 1927, inserted second par. which became third par. in 1950. See Codification note above.
 
 #### Change of Name
 

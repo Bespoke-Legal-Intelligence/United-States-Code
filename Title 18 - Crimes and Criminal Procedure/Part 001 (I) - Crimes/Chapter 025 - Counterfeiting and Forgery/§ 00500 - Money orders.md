@@ -2,7 +2,7 @@
 
 Whoever, with intent to defraud, falsely makes, forges, counterfeits, engraves, or prints any order in imitation of or purporting to be a blank money order or a money order issued by or under the direction of the Post Office Department or Postal Service; or
 
-Whoever forges or counterfeits the signature or initials of any person authorized to issue money orders upon or to any money order, postal note, or blank therefor provided or issued by or under the direction of the Post Office Department or Postal Service, or post office department or corporation of any foreign country, and payable in the United States, or any material signature or indorsement thereon, or any material signature to any receipt or certificate of identification thereof; or
+Whoever forges or counterfeits the signature or initials of any person authorized to issue money orders upon or to any money order, postal note, or blank therefor provided or issued by or under the direction of the Post Office Department or Postal Service, or post office department or corporation of any foreign country, and payable in the United States, or any materialsignature or indorsement thereon, or any material signature to any receipt or certificate of identification thereof; or
 
 Whoever falsely alters, in any material respect, any such money order or postal note; or
 

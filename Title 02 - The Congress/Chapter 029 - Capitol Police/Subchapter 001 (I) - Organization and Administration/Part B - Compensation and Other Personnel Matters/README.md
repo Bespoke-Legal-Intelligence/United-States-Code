@@ -1,7 +1,5 @@
 Part B—Compensation and Other Personnel Matters
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
 
 ---
 
@@ -21,3 +19,4 @@ Part B—Compensation and Other Personnel Matters
 - [&sect; 01931 - Additional compensation for employees with specialty assignments and proficiencies](%C2%A7%2001931%20-%20Additional%20compensation%20for%20employees%20with%20specialty%20assignments%20and%20proficiencies.md)
 - [&sect; 01932 - Application of premium pay limits on annualized basis](%C2%A7%2001932%20-%20Application%20of%20premium%20pay%20limits%20on%20annualized%20basis.md)
 - [&sect; 01933 - Clarification of authorities regarding certain personnel benefits](%C2%A7%2001933%20-%20Clarification%20of%20authorities%20regarding%20certain%20personnel%20benefits.md)
+- [&sect; 01934 - Waiver by Chief of Capitol Police of claims arising out of erroneous payments to officers and employees](%C2%A7%2001934%20-%20Waiver%20by%20Chief%20of%20Capitol%20Police%20of%20claims%20arising%20out%20of%20erroneous%20payments%20to%20officers%20and%20employees.md)

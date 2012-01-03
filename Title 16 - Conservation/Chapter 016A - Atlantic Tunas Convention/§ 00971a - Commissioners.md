@@ -2,7 +2,7 @@
 
 #### (a) Appointment and number; selection of Chairman; rules of procedure; term
 
-(1) The United States shall be represented by not more than three Commissioners who shallserve as delegates of the United States on the Commission, and who may serve on the Council and Panels of the Commission as provided for in the Convention. Such Commissioners shall be appointed by and serve at the pleasure of the President. Not more than one such Commissioner shall be a salaried employee of any State or political subdivision thereof, or the Federal Government. Individuals serving as such Commissioners shall not be considered to be Federal employees while performing such service, except for purposes of injury compensation or tort claims liability as provided in chapter 81 of title 5 and chapter 171 of title 28. The Commissioners shall be entitled to select a Chairman and to adopt such rules of procedure as they find necessary.
+(1) The United States shall be represented by not more than three Commissioners who shall serve as delegates of the United States on the Commission, and who may serve on the Council and Panels of the Commission as provided for in the Convention. Such Commissioners shall be appointed by and serve at the pleasure of the President. Not more than one such Commissioner shall be a salaried employee of any State or political subdivision thereof, or the Federal Government. Individuals serving as such Commissioners shall not be considered to be Federal employees while performing such service, except for purposes of injury compensation or tort claims liability as provided in chapter 81 of title 5 and chapter 171 of title 28. The Commissioners shall be entitled to select a Chairman and to adopt such rules of procedure as they find necessary.
 
 (2) Of the Commissioners appointed under paragraph (1) who are not governmental employees—
 
@@ -54,5 +54,5 @@ Section 201(b) of title II of Pub. L. 101–627 provided that:
 
 #### Termination of Current Terms and Completion of Pending Appointments
 
-Section 202 of Pub. L. 101–627 provided that: “The term as Commissioner of each individual serving in that position on the date of enactment of this Act \[Nov. 28, 1990\] shall terminate March 1, 1991. Not later than that date, the President shall complete appointment (or reappointment) of individuals to serve as Commissioners on and after that date.”
+Section 202 of Pub. L. 101–627 provided that: “The term as Commissioner of each individual serving inthat position on the date of enactment of this Act \[Nov. 28, 1990\] shall terminate March 1, 1991. Not later than that date, the President shall complete appointment (or reappointment) of individuals to serve as Commissioners on and after that date.”
 

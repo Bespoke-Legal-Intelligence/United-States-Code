@@ -20,7 +20,7 @@
 
 #### (3) Prosecutorial coordination
 
-&emsp;Subject to subsection (c), if a United States Attorney declines to prosecute, or acts to terminate prosecution of, an alleged violation ofFederal criminal law in Indian country, the United States Attorney shall coordinate with the appropriate tribal justice officials regarding the status of the investigation and the use of evidence relevant to the case in a tribal court with authority over the crime alleged.
+&emsp;Subject to subsection (c), if a United States Attorney declines to prosecute, or acts to terminate prosecution of, an alleged violation of Federal criminal law in Indian country, the United States Attorney shall coordinate with the appropriate tribal justice officials regarding the status of the investigation and the use of evidence relevant to the case in a tribal court with authority over the crime alleged.
 
 #### (4) Prosecution data
 

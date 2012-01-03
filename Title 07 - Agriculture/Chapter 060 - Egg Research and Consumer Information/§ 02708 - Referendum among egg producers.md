@@ -34,7 +34,7 @@ The failure of egg producers to approve an amendment to any Egg Research and Pro
 
 #### Amendments
 
-1993—Pub. L. 103–188 designated first and second sentences of existing provisions as subsec. (a), added subsec. (b), and designated last sentence of existing provisions as subsec. (c).
+<b>1993</b>—Pub. L. 103–188 designated first and second sentences of existing provisions as subsec. (a), added subsec. (b), and designated last sentence of existing provisions as subsec. (c).
 
-1980—Pub. L. 96–276 provided that failure of egg producers to approve an amendment to any Egg Research and Promotion Order shall not be deemed to invalidate the order.
+<b>1980</b>—Pub. L. 96–276 provided that failure of egg producers to approve an amendment to any Egg Research and Promotion Order shall not be deemed to invalidate the order.
 

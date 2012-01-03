@@ -8,7 +8,7 @@ The Congress finds that—
 
 &emsp;(2) the contribution of these Civil Service employees has been overlooked in the management of the Department and greater equality of promotion, training, and career enhancement opportunities should be accorded to the Civil Service employees of the Department; and
 
-&emsp;(3) a goal of the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\] was to strengthen the contribution made by Civil Service employees of the Department of State by creating a cadre of experienced specialists and managers in the Department to provide essential continuity.
+&emsp;(3) a goal of the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\] was to strengthen the contribution made by Civil Service employeesof the Department of State by creating a cadre of experienced specialists and managers in the Department to provide essential continuity.
 
 #### (b) Equitable reduction of budget
 

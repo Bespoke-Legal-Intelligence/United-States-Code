@@ -10,7 +10,7 @@ For purposes of subsection (a)—
 
 #### (1) Adjusted issue price
 
-&emsp;The adjusted issue price is the issue price (as defined in sections 1273(b) and 1274) increasedby any amount of discount deducted before repurchase, or, in the case of bonds or other evidences of indebtedness issued after February 28, 1913, decreased by any amount of premium included in gross income before repurchase by the issuing corporation.
+&emsp;The adjusted issue price is the issue price (as defined in sections 1273(b) and 1274) increased by any amount of discount deducted before repurchase, or, in the case of bonds or other evidences of indebtedness issued after February 28, 1913, decreased by any amount of premium included in gross income before repurchase by the issuing corporation.
 
 #### (2) Control
 

@@ -12,7 +12,7 @@ Shipment.—The term “shipment”—
 
 &emsp;&emsp;(A) means the transportation, or the effecting of transportation, of valuables, without limitation as to the means or facilities used or by which the transportation is effected or the person to whom it is made; and
 
-&emsp;&emsp;(B) includes shipments made to any executive department, independent establishment,agency, wholly owned or mixed-ownership Government corporation, officer, or employee of the Federal Government, or any person acting on behalf of, or at the direction of, the executive department, independent establishment, agency, wholly or partly owned Government corporation, officer, or employee.
+&emsp;&emsp;(B) includes shipments made to any executive department, independent establishment, agency, wholly owned or mixed-ownership Government corporation, officer, or employee of the Federal Government, or any person acting on behalf of, or at the direction of, the executive department, independent establishment, agency, wholly or partly owned Government corporation, officer, or employee.
 
 &emsp;(3)
 

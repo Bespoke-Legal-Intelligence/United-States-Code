@@ -28,7 +28,7 @@
 
 #### (5) Authority to protect consumers
 
-&emsp;The Director may prohibit the offering of any multi-State health plan that does not meet the terms and conditions defined by the Director with respect to the elements described in subparagraphs (A) through (D) of paragraph (4).
+&emsp;The Director may prohibit the offering of any multi-State health plan that does not meet the terms and conditions defined by theDirector with respect to the elements described in subparagraphs (A) through (D) of paragraph (4).
 
 #### (6) Assured availability of varied coverage
 

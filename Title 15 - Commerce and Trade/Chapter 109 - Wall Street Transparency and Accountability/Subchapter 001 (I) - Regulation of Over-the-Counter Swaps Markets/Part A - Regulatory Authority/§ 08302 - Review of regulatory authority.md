@@ -8,7 +8,7 @@
 
 #### (2) Securities and Exchange Commission
 
-&emsp;Before commencing any rulemaking or issuing an order regarding security-based swaps, security-based swap dealers, major security-based swap participants, security-based swap data repositories, clearing agencies with regard to security-based swaps, persons associated with a security-based swap dealer or major security-based swap participant, eligible contract participants with regard to security-based swaps, or security-based swap execution facilities pursuant to subtitle B, theSecurities and Exchange Commission shall consult and coordinate to the extent possible with the Commodity Futures Trading Commission and the prudential regulators for the purposes of assuring regulatory consistency and comparability, to the extent possible.
+&emsp;Before commencing any rulemaking or issuing an order regarding security-based swaps, security-based swap dealers, major security-based swap participants, security-based swap data repositories, clearing agencies with regard to security-based swaps, persons associated with a security-based swap dealer or major security-based swap participant, eligible contract participants with regard to security-based swaps, or security-based swap execution facilities pursuant to subtitle B, the Securities and Exchange Commission shall consult and coordinate to the extent possible with the Commodity Futures Trading Commission and the prudential regulators for the purposes of assuring regulatory consistency and comparability, to the extent possible.
 
 #### (3) Procedures and deadline
 
@@ -96,7 +96,7 @@
 
 #### (B) National securities associations
 
-&emsp;&emsp;Notwithstanding any other provision of law (including regulations), unless otherwise authorized by this title,<sup>1</sup> no national securities association registered under section 78<i>o</i>–3 of this title may issue a rule, regulation, or order for the oversight or regulation of, or otherwise assert jurisdiction over, for any purpose, any swap, except that this subparagraph shall not limit the authority of a national securities association to examinefor compliance with, and enforce, its rules on capital adequacy.
+&emsp;&emsp;Notwithstanding any other provision of law (including regulations), unless otherwise authorized by this title,<sup>1</sup> no national securities association registered under section 78<i>o</i>–3 of this title may issue a rule, regulation, or order for the oversight or regulation of, or otherwise assert jurisdiction over, for any purpose, any swap, except that this subparagraph shall not limit the authority of a national securities association to examine for compliance with, and enforce, its rules on capital adequacy.
 
 #### (c) Objection to Commission regulation
 
@@ -104,7 +104,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If either Commission referred to in this section determines that a final rule, regulation, or order of the other Commission conflicts with subsection (a)(7) or (b), then the complaining Commission may obtain review of the final rule, regulation, or order in the United States Court of Appeals for the District of Columbia Circuit by filing in the court, not later than 60 days after the date of publication of the final rule, regulation, or order, a written petition requesting that the rule, regulation, or order be set aside.
+&emsp;&emsp;If either Commission referred to in this section determines that a final rule, regulation, or order of the other Commission conflicts with subsection (a)(7) or (b), then the complaining Commission may obtain review of the final rule, regulation, or order in the United States Court of Appeals for the District of Columbia Circuit by filing in the court, not later than 60 days after the dateof publication of the final rule, regulation, or order, a written petition requesting that the rule, regulation, or order be set aside.
 
 #### (B) Expedited proceeding
 
@@ -166,7 +166,7 @@
 
 #### (F) Sharing of information
 
-&emsp;&emsp;The Commodity Futures Trading Commission shall make available to the Securitiesand Exchange Commission information relating to security-based swap agreement transactions defined in subparagraph (A) that are not cleared.
+&emsp;&emsp;The Commodity Futures Trading Commission shall make available to the Securities and Exchange Commission information relating to security-based swap agreement transactions defined in subparagraph (A) that are not cleared.
 
 #### (3) Financial Stability Oversight Council
 

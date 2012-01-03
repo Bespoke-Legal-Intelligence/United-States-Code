@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The total amount contributed by the Secretary of Defense in any fiscal year for the common-funded budgets of NATO may be an amount in excess of the maximum amount that would otherwise be applicable to those contributions in such fiscal year under the fiscal year 1998 baseline limitation.
+In General.—The total amount contributed by the Secretary of Defense in any fiscal year for the common-funded budgets of NATO may be an amount in excess of the maximum amount that would otherwise be applicable tothose contributions in such fiscal year under the fiscal year 1998 baseline limitation.
 
 (b)
 
@@ -34,5 +34,5 @@ The resolution of ratification of the Protocols to the North Atlantic Treaty of 
 
 #### Effective Date
 
-Pub. L. 110–417, \[div. A\], title X, §1004(b), Oct. 14, 2008, 122 Stat. 4583, provided that: “The amendments madeby this section \[enacting this section\] shall take effect on October 1, 2008, and shall apply to fiscal years that begin on or after that date.”
+Pub. L. 110–417, \[div. A\], title X, §1004(b), Oct. 14, 2008, 122 Stat. 4583, provided that: “The amendments made by this section \[enacting this section\] shall take effect on October 1, 2008, and shall apply to fiscal years that begin on or after that date.”
 

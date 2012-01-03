@@ -20,6 +20,10 @@
 
 (Added Pub. L. 98–127, §4(a), Oct. 13, 1983, 97 Stat. 832; amended Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(7), (10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
 
+#### Repeal of Section
+
+<i>Pub. L. 112–29, §20(k), (l), Sept. 16, 2011, 125 Stat. 335, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, this section is repealed.</i>
+
 #### References in Text
 
 Section 505(b)(1) of the Federal Food, Drug and Cosmetic Act, referred to in subsec. (a)(1)(A), is classified to section 355(b)(1) of Title 21, Food and Drugs.
@@ -33,6 +37,10 @@ The date of enactment of this section, referred to in subsec. (c), is the date o
 <b>1999</b>—Subsec. (c). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], as amended by Pub. L. 107–273, substituted “Director shall confirm” for “Commissioner shall confirm”.
 
 Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(7)\], substituted “notify the Director” for “notify the Commissioner of Patents and Trademarks”.
+
+#### Effective Date of Repeal
+
+Repeal effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(<i>l</i>) of Pub. L. 112–29, set out as an Effective Date of 2011 Amendment note under section 2 of this title.
 
 #### Effective Date of 1999 Amendment
 

@@ -30,7 +30,7 @@ Agreement.—The Secretary may not provide space situational awareness services 
 
 (d)
 
-Charges.—(1) As a condition of an agreement under subsection (c), the Secretary may (except as provided in paragraph (2)) require the non-United States Government entity entering into the agreement to pay to the Department of Defense such amounts as the Secretary determines appropriate to reimburse the Department for the costs to the Department of providing space situational awareness services or information under the agreement.
+Charges.—(1) As a condition of an agreement under subsection (c), the Secretary may (except as provided in paragraph (2)) require the non-United States Government entity entering into the agreement to pay to the Department of Defense such amounts as the Secretary determines appropriate to reimburse the Department for the costs to the Department of providingspace situational awareness services or information under the agreement.
 
 (2) The Secretary may not require the government of a State, or of a political subdivision of a State, to pay any amount under paragraph (1).
 

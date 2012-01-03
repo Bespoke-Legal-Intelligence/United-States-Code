@@ -36,7 +36,7 @@
 
 \[(4) Repealed. Pub. L. 109–163, div. A, title V, §531(a)(1), Jan. 6, 2006, 119 Stat. 3247.\]
 
-(5)(A) The Secretary of the Army, under regulations and criteria established by the Secretary, may provide an individual who received a commission as a Reserve officer in the Army from a military junior college through a program under this chapter and who does not have a baccalaureate degree with financial assistance for pursuit of a baccalaureate degree.
+(5)(A) The Secretary of the Army, under regulations and criteria established by the Secretary, may provide an individual who receiveda commission as a Reserve officer in the Army from a military junior college through a program under this chapter and who does not have a baccalaureate degree with financial assistance for pursuit of a baccalaureate degree.
 
 (B) Such assistance is in addition to any financial assistance provided under paragraph (1) or (3).
 
@@ -208,7 +208,7 @@ Review.—The Secretary of the Navy should review the process and criteria used 
 
 Purpose of Review.—The review should seek to determine—
 
-&emsp;“(1) whether the method used by the Navy to allocate NROTC scholarships could be changed so as to increase the likelihood that scholarship awardees attend the school of their choice while maintaining theNavy's capability to attain the objectives of the Naval ROTC program to meet the annual requirement for newly commissioned Navy ensigns and Marine Corps second lieutenants, as well as the overall needs of the officer corps of the Department of the Navy; and
+&emsp;“(1) whether the method used by the Navy to allocate NROTC scholarships could be changed so as to increase the likelihood that scholarship awardees attend the school of their choice while maintaining the Navy's capability to attain the objectives of the Naval ROTC program to meet the annual requirement for newly commissioned Navy ensigns and Marine Corps second lieutenants, as well as the overall needs of the officer corps of the Department of the Navy; and
 
 &emsp;“(2) within the determination under paragraph (1), whether the likelihood of a scholarship awardee who wants to attend a school of choice in the student's State of residence can be increased.
 

@@ -4,7 +4,7 @@
 
 #### (1) Purpose; eligible recipients
 
-&emsp;From sums appropriated pursuant to paragraphs (3) and (4)(A) of section 1071(b) of this title, the Secretary is authorized to make advances to any State with which the Secretary has made an agreement pursuant to section1078(b) of this title for the purpose of helping to establish or strengthen the reserve fund of the student loan insurance program covered by that agreement. If for any fiscal year a State does not have a student loan insurance program covered by an agreement made pursuant to section 1078(b) of this title, and the Secretary determines after consultation with the chief executive officer of that State that there is no reasonable likelihood that the State will have such a student loan insurance program for such year, the Secretary may make advances for such year for the same purpose to one or more nonprofit private institutions or organizations with which the Secretary has made an agreement pursuant to section 1078(b) of this title in order to enable students in the State to participate in a program of student loan insurance covered by such an agreement. The Secretary may make advances under this subsection both to a State program (with which he has such an agreement) and to one or more nonprofit private institutions or organizations (with which he has such an agreement) in that State if he determines that such advances are necessary in order that students in each eligible institution have access through such institution to a student loan insurance program which meets the requirements of section 1078(b)(1) of this title.
+&emsp;From sums appropriated pursuant to paragraphs (3) and (4)(A) of section 1071(b) of this title, the Secretary is authorized to make advances to any State with which the Secretary has made an agreement pursuant to section 1078(b) of this title for the purpose of helping to establish or strengthen the reserve fund of the student loan insurance program covered by that agreement. If for any fiscal year a State does not have a student loan insurance program covered by an agreement made pursuant to section 1078(b) of this title, and the Secretary determines after consultation with the chief executive officer of that State that there is no reasonable likelihood that the State will have such a student loan insurance program for such year, the Secretary may make advances for such year for the same purpose to one or more nonprofit private institutions or organizations with which the Secretary has made an agreement pursuant to section 1078(b) of this title in order to enable students in the State to participate in a program of student loan insurance covered by such an agreement. The Secretary may make advances under this subsection both to a State program (with which he has such an agreement) and to one or more nonprofit private institutions or organizations (with which he has such an agreement) in that State if he determines that such advances are necessary in order that students in each eligible institution have access through such institution to a student loan insurance program which meets the requirements of section 1078(b)(1) of this title.
 
 #### (2) Matching requirement
 
@@ -24,7 +24,7 @@
 
 #### (3) Terms and conditions; repayment
 
-&emsp;Advances pursuant to this subsection shall be upon such terms and conditions (including conditions relating to the time or times of payment) consistent with the requirements of section 1078(b) of this title as the Secretary determines will best carry out the purpose of this section. Advances made by the Secretary under this subsection shall be repaid within such period as the Secretary may deem to be appropriate in each case in the light of the maturity and solvency of the reserve fund for which the advance was made.
+&emsp;Advances pursuant to this subsection shall be upon such terms and conditions (including conditions relating to the time or times of payment) consistent with the requirements of section 1078(b) of this title as the Secretary determines will best carry out the purpose of this section. Advances made by the Secretary under this subsection shall be repaid withinsuch period as the Secretary may deem to be appropriate in each case in the light of the maturity and solvency of the reserve fund for which the advance was made.
 
 #### (b) Limitations on total advances
 
@@ -52,7 +52,7 @@
 
 &emsp;&emsp;(ii) the amount of the unspent balance of the advances made to a State pursuant to subsection (a) of this section.
 
-> &emsp;Notwithstanding subparagraph (A) and the preceding sentence of this subparagraph, but subject to subparagraph (D) of this paragraph, the amount of any advance to a State described in paragraph (5)(A) for the first year of its eligibility under such paragraph, and theamount of any advance to any State described in paragraph (5)(B) for each year of its eligibility under such paragraph, shall not be less than $50,000.
+> &emsp;Notwithstanding subparagraph (A) and the preceding sentence of this subparagraph, but subject to subparagraph (D) of this paragraph, the amount of any advance to a State described in paragraph (5)(A) for the first year of its eligibility under such paragraph, and the amount of any advance to any State described in paragraph (5)(B) for each year of its eligibility under such paragraph, shall not be less than $50,000.
 
 &emsp;(C) For the purpose of subparagraph (B), the unspent balance of the advances made to a State pursuant to subsection (a) of this section shall be that portion of the balance of the State's reserve fund (remaining at the time of the State's first request for an advance pursuant to this subsection) which bears the same ratio to such balance as the Federal advances made and not returned by such State, pursuant to subsection (a) of this section, bears to the total of all past contributions to such reserve funds from all sources (other than interest on investment of any portion of the reserve fund) contributed since the date such State executed an agreement pursuant to section 1078(b) of this title.
 
@@ -204,7 +204,7 @@ The Secretary shall, within 30 days after July 23, 1992, pay the full amount of 
 
 #### (B) Requirement
 
-&emsp;&emsp;A guaranty agency shall not use the funds in such a restricted account for any purposewithout the express written permission of the Secretary, except that a guaranty agency may use the earnings from such restricted account for default reduction activities.
+&emsp;&emsp;A guaranty agency shall not use the funds in such a restricted account for any purpose without the express written permission of the Secretary, except that a guaranty agency may use the earnings from such restricted account for default reduction activities.
 
 #### (C) Installments
 
@@ -240,7 +240,7 @@ The Secretary shall, within 30 days after July 23, 1992, pay the full amount of 
 
 #### (B) Use of termination collections
 
-&emsp;&emsp;Any reserve funds directed by the Secretary to be returned to the Secretary under subsection (g)(1)(B) of this section during such period that do not exceed a guaranty agency's required share of recalled reserve funds under paragraph (3)—
+&emsp;&emsp;Any reserve funds directed by the Secretary to be returned to the Secretary undersubsection (g)(1)(B) of this section during such period that do not exceed a guaranty agency's required share of recalled reserve funds under paragraph (3)—
 
 &emsp;&emsp;&emsp;(i) shall be used to satisfy the agency's required share of recalled reserve funds; and
 
@@ -278,7 +278,7 @@ The Secretary shall, within 30 days after July 23, 1992, pay the full amount of 
 
 &emsp;&emsp;The term “reserve funds” when used with respect to a guaranty agency—
 
-&emsp;&emsp;&emsp;(i) includes any reserve funds in cash or liquid assets held by the guaranty agency,or held by, or under the control of, any other entity; and
+&emsp;&emsp;&emsp;(i) includes any reserve funds in cash or liquid assets held by the guaranty agency, or held by, or under the control of, any other entity; and
 
 &emsp;&emsp;&emsp;(ii) does not include buildings, equipment, or other nonliquid assets.
 

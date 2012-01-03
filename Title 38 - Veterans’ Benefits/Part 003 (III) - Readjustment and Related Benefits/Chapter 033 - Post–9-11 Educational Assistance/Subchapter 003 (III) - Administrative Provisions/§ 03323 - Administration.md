@@ -38,7 +38,7 @@ Description of information.—The information described in this paragraph is inf
 
 &emsp;(3)
 
-To whom provided.—The Secretary of Veterans Affairs shall furnish the information and forms described in paragraph (2), andother educational materials on educational assistance under this chapter, to educational institutions, training establishments, military education personnel, and such other persons and entities as the Secretary considers appropriate.
+To whom provided.—The Secretary of Veterans Affairs shall furnish the information and forms described in paragraph (2), and other educational materials on educational assistance under this chapter, to educational institutions, training establishments, military education personnel, and such other persons and entities as the Secretary considers appropriate.
 
 (c)
 

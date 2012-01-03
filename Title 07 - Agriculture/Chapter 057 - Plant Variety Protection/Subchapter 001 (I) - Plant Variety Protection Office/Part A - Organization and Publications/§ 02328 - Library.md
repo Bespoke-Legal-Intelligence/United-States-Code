@@ -6,5 +6,5 @@ The Secretary shall maintain a library of scientific and other works and periodi
 
 #### Amendments
 
-1980—Pub. L. 96–574 substituted “examiners” for “officers”.
+<b>1980</b>—Pub. L. 96–574 substituted “examiners” for “officers”.
 

@@ -12,7 +12,7 @@ The Federal Deposit Insurance Corporation Improvement Act of 1991, referred to i
 
 #### Amendments
 
-2005—Pub. L. 109–8, §907(<i>o</i>)(10), inserted “or financial participant” after “swap participant” in first sentence.
+<b>2005</b>—Pub. L. 109–8, §907(<i>o</i>)(10), inserted “or financial participant” after “swap participant” in first sentence.
 
 Pub. L. 109–8, §907(j)(1), in section catchline, substituted “Contractual right to liquidate, terminate, or accelerate a swap agreement” for “Contractual right to terminate a swap agreement”, in first sentence, substituted “liquidation, termination, or acceleration of one or more swap agreements” for “termination of a swap agreement” and “in connection with the termination, liquidation, or acceleration of one or more swap agreements” for “in connection with any swap agreement”, and in second sentence, substituted “As used in this section, the term ‘contractual right’ includes a right set forth in a rule or bylaw of a derivatives clearing organization (as defined in the Commodity Exchange Act), a multilateral clearing organization (as defined in the Federal Deposit Insurance Corporation Improvement Act of 1991), a national securities exchange, a national securities association, a securities clearing agency, a contract market designated under the Commodity Exchange Act, a derivatives transaction execution facility registered under the Commodity Exchange Act, or a board of trade (as defined in the Commodity Exchange Act) or in a resolution of the governing board thereof and a right,” for “As used in this section, the term ‘contractual right’ includes a right,”.
 

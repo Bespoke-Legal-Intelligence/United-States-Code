@@ -46,9 +46,5 @@ A sex offender shall keep the registration current for the full registration per
 
 This subchapter, referred to in subsec. (b)(2)(B), was in the original “this title”, meaning title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, known as the Sex Offender Registration and Notification Act. For complete classification of title I to the Code, see Short Title note set out under section 16901 of this title and Tables.
 
-#### Codification
-
-Subsec. (b)(2)(B) is set out in this supplement to show a translation not appearing in the main edition.
-
 <i><sup>1</sup></i><i> So in original. The word “of” probably should not appear.</i>
 

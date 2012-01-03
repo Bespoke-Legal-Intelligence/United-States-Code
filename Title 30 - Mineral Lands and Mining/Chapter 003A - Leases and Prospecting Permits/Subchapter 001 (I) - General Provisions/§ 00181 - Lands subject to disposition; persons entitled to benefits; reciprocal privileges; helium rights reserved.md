@@ -34,7 +34,7 @@ Pub. L. 106–393, title V, §501, Oct. 30, 2000, 114 Stat. 1624, provided that:
 
 #### Short Title of 1987 Amendment
 
-Pub. L. 100–203, title V, §5101(a), Dec. 22, 1987, 101 Stat. 1330–256, provided that: “This subtitle \[subtitle B (§§5101–5113) of Pub. L. 100–203, enacting sections 195 and 226–3 of this title, amending sections 187a, 187b, 188, 191, and 226 of this title and section 3148 of Title 16, Conservation, and enacting provisions set out as notes under this section and section 226 of this title\] may be cited as the ‘Federal Onshore Oil and Gas Leasing Reform Act of 1987’.”
+Pub. L. 100–203, title V, §5101(a), Dec. 22, 1987, 101 Stat. 1330–256, provided that: “This subtitle \[subtitle B (§§5101–5113) of Pub. L. 100–203, enacting sections 195 and 226–3 of this title, amending sections 187a, 187b, 188, 191, and 226 of this title and section 3148 of Title 16,Conservation, and enacting provisions set out as notes under this section and section 226 of this title\] may be cited as the ‘Federal Onshore Oil and Gas Leasing Reform Act of 1987’.”
 
 #### Short Title of 1981 Amendment
 
@@ -42,7 +42,7 @@ Pub. L. 97–78, Nov. 16, 1981, 95 Stat. 1070, which amended this section and se
 
 #### Short Title of 1976 Amendment
 
-Pub. L. 94–377, §1(a), Aug. 4, 1976, 90 Stat. 1083, as amended by Pub. L. 95–554, §8, Oct. 30, 1978, 92 Stat.2075, provided that: “This Act \[enacting sections 202a, 208–1, and 208–2 of this title, amending sections 184, 191, 201, 203, 207, 209, and 352 of this title, repealing sections 201–1 and 204 of this title, and enacting provisions set out as notes under sections 184, 201, 201–1, 203, and 204 of this title\] may be cited as the ‘Federal Coal Leasing Amendments Act of 1976’.”
+Pub. L. 94–377, §1(a), Aug. 4, 1976, 90 Stat. 1083, as amended by Pub. L. 95–554, §8, Oct. 30, 1978, 92 Stat. 2075, provided that: “This Act \[enacting sections 202a, 208–1, and 208–2 of this title, amending sections 184, 191, 201, 203, 207, 209, and 352 of this title, repealing sections 201–1 and 204 of this title, and enacting provisions set out as notes under sections 184, 201, 201–1, 203, and 204 of this title\] may be cited as the ‘Federal Coal Leasing Amendments Act of 1976’.”
 
 #### Short Title of 1960 Amendment
 

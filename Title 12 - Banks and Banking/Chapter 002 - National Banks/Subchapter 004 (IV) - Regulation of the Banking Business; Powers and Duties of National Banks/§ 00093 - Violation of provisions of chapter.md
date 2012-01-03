@@ -12,7 +12,7 @@ If the directors of any national banking association shall knowingly violate, or
 
 #### (2) Second tier
 
-&emsp;Notwithstanding paragraph (1), any national banking association which, and any institution-affiliated party (within the meaning ofsection 1813(u) of this title) with respect to such association who, commits any violation described in paragraph (1) which— <sup>1</sup>
+&emsp;Notwithstanding paragraph (1), any national banking association which, and any institution-affiliated party (within the meaning of section 1813(u) of this title) with respect to such association who, commits any violation described in paragraph (1) which— <sup>1</sup>
 
 &emsp;&emsp;(A)(i) commits any violation described in any <sup>2</sup> paragraph (1);
 
@@ -94,7 +94,7 @@ The resignation, termination of employment or participation, or separation of an
 
 #### (ii) Notice of termination; pretermination hearing
 
-&emsp;&emsp;&emsp;After receiving written notification from the Attorney General of such a conviction, the Comptroller of the Currency shall issue to the national bank, Federal branch, or Federal agency a notice of the Comptroller's intention to terminate all rights,privileges, and franchises of the bank, Federal branch, or Federal agency and schedule a pretermination hearing.
+&emsp;&emsp;&emsp;After receiving written notification from the Attorney General of such a conviction, the Comptroller of the Currency shall issue to the national bank, Federal branch, or Federal agency a notice of the Comptroller's intention to terminate all rights, privileges, and franchises of the bank, Federal branch, or Federal agency and schedule a pretermination hearing.
 
 #### (B) Conviction of title 31 offenses
 
@@ -130,11 +130,11 @@ The resignation, termination of employment or participation, or separation of an
 
 The Comptroller of the Currency may act in the Comptroller's own name and through the Comptroller's own attorneys in enforcing any provision of title 62 of the Revised Statutes, regulations thereunder, or any other law or regulation, or in any action, suit, or proceeding to which the Comptroller of the Currency is a party.
 
-(R.S. §5239; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167; Pub. L. 95–630, title I, §103, Nov. 10, 1978, 92 Stat. 3643; Pub. L. 97–320, title IV, §424(d)(3), (f), (g), Oct. 15, 1982, 96 Stat. 1523; Pub. L. 97–457, §24, Jan. 12, 1983, 96 Stat. 2510; Pub. L. 101–73, title IX, §§905(e), 907(e), Aug. 9, 1989, 103 Stat. 460, 469; Pub. L. 102–550, title XV, §1502(a), Oct. 28, 1992, 106 Stat. 4045; Pub. L. 103–322, title XXXIII, §330017(b)(2), Sept. 13, 1994, 108 Stat. 2149; Pub. L. 103–325, title III, §331(b)(3), title IV, §§411(c)(2)(C), 413(b)(2), Sept. 23, 1994, 108 Stat. 2232, 2253, 2254.)
+(R.S. §5239; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167; Pub. L. 95–630, title I, §103, Nov. 10, 1978, 92 Stat. 3643; Pub. L. 97–320, title IV, §424(d)(3), (f), (g), Oct. 15, 1982, 96 Stat. 1523; Pub. L. 97–457, §24, Jan. 12, 1983, 96 Stat. 2510; Pub. L. 101–73, title IX, §§905(e), 907(e), Aug. 9, 1989, 103 Stat. 460, 469;Pub. L. 102–550, title XV, §1502(a), Oct. 28, 1992, 106 Stat. 4045; Pub. L. 103–322, title XXXIII, §330017(b)(2), Sept. 13, 1994, 108 Stat. 2149; Pub. L. 103–325, title III, §331(b)(3), title IV, §§411(c)(2)(C), 413(b)(2), Sept. 23, 1994, 108 Stat. 2232, 2253, 2254.)
 
 #### References in Text
 
-Title 62 of the Revised Statutes, referred to in subsecs. (a), (b)(1), and (d), was in the original “this Title” meaning title LXII of the Revised Statutes, consisting of R.S. §§5133 to 5244, which are classified to sections 21, 22 to 24a, 25a, 26, 27, 29, 35 to 37, 39, 43, 52, 53, 55 to 57, 59 to 62, 66, 71, 72 to 76, 81, 83 to 86, 90, 91, 93, 93a, 94, 141 to 144, 161, 164, 181, 182, 192 to 194, 196, 215c, 481 to 485, 501, 541, 548, and 582 of this title. See, also, sections 8, 333, 334, 475, 656, 709, 1004, and 1005 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§5133 to 5244 to the Code, see Tables.
+Title 62 of the Revised Statutes, referred to in subsecs. (a), (b)(1), and (d), was in the original “this Title” meaning title LXII of the Revised Statutes, consisting of R.S. §§5133 to 5244, which are classified to this section and sections 16, 21, 22 to 24a, 25a, 25b, 26, 27, 29, 35 to 37, 39, 43, 52, 53, 55 to 57, 59 to 62, 66, 71, 72 to 76, 81, 83 to 86, 90, 91, 93a, 94, 141 to 144, 161, 164, 181, 182, 192 to 194, 196, 215c, 481 to 485, 501, 541, 548, and 582 of this title. See, also, sections 8, 333, 334, 475, 656, 709, 1004, and 1005 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§5133 to 5244 to the Code, see Tables.
 
 #### Codification
 
@@ -144,7 +144,7 @@ Act Mar. 3, 1911, conferred the powers and duties of the former circuit courts u
 
 #### Amendments
 
-1994—Subsec. (c). Pub. L. 103–322, §330017(b)(2), and Pub. L. 103–325, §413(b)(2), amended section identically, redesignating subsec. (c), relating to forfeiture of franchise for money laundering, as (d).
+<b>1994</b>—Subsec. (c). Pub. L. 103–322, §330017(b)(2), and Pub. L. 103–325, §413(b)(2), amended section identically, redesignating subsec. (c), relating to forfeiture of franchise for money laundering, as (d).
 
 Subsec. (d). Pub. L. 103–322, §330017(b)(2), and Pub. L. 103–325, §413(b)(2), amended section identically, redesignating subsec. (c), relating to forfeiture of franchise for money laundering, as (d).
 
@@ -152,15 +152,15 @@ Pub. L. 103–325, §331(b)(3), added subsec. (d) relating to authority.
 
 Subsec. (d)(1)(B). Pub. L. 103–325, §411(c)(2)(C), substituted “section 5322 or 5324 of title 31” for “section 5322 of title 31”.
 
-1992—Subsec. (c). Pub. L. 102–550 added subsec. (c) relating to forfeiture of franchise for money laundering.
+<b>1992</b>—Subsec. (c). Pub. L. 102–550 added subsec. (c) relating to forfeiture of franchise for money laundering.
 
-1989—Subsec. (b). Pub. L. 101–73, §907(e), amended subsec. (b) generally, revising and restating as pars. (1) to (8) and (12) provisions of former pars. (1) to (8).
+<b>1989</b>—Subsec. (b). Pub. L. 101–73, §907(e), amended subsec. (b) generally, revising and restating as pars. (1) to (8) and (12) provisions of former pars. (1) to (8).
 
 Subsec. (c). Pub. L. 101–73, §905(e), added subsec. (c) relating to notice after separation from service.
 
-1982—Subsec. (b)(1). Pub. L. 97–320, as amended by Pub. L. 97–457, inserted “or any of the provisions of section 92a of this title”, and substituted “may be assessed” for “shall be assessed” and “title” for “chapter”.
+<b>1982</b>—Subsec. (b)(1). Pub. L. 97–320, as amended by Pub. L. 97–457, inserted “or any of the provisions of section 92a of this title”, and substituted “may be assessed” for “shall be assessed” and “title” for “chapter”.
 
-1978—Pub. L. 95–630 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1978</b>—Pub. L. 95–630 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 1989 Amendment
 

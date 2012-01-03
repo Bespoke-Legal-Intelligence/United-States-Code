@@ -18,7 +18,7 @@ Employers to Which Section Applies.—An employer referred to in subsection (a) 
 
 &emsp;&emsp;(A) a contract with the Federal Government; or
 
-&emsp;&emsp;(B) any contract that the President, the Secretary of the Army, the Secretary of the Air Force, the Secretary of the Navy, or theSecretary of the Department in which the Coast Guard is operating certifies to the employer to be necessary to the national defense.
+&emsp;&emsp;(B) any contract that the President, the Secretary of the Army, the Secretary of the Air Force, the Secretary of the Navy, or the Secretary of the Department in which the Coast Guard is operating certifies to the employer to be necessary to the national defense.
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3806.)
 

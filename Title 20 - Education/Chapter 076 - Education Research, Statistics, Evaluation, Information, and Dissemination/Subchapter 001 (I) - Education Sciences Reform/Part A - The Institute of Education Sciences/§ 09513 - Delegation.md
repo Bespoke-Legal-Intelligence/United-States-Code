@@ -8,7 +8,7 @@ Notwithstanding section 3472 of this title, the Secretary shall delegate to the 
 
 &emsp;(2) members of the National Assessment Governing Board shall continue to be appointed by the Secretary;
 
-&emsp;(3) section 9621(f)(1) of this title shall apply to the National Assessment Governing Boardin the exercise of its responsibilities under this Act;
+&emsp;(3) section 9621(f)(1) of this title shall apply to the National Assessment Governing Board in the exercise of its responsibilities under this Act;
 
 &emsp;(4) sections 9515 and 9516 of this title shall not apply to the National Assessment of Educational Progress; and
 

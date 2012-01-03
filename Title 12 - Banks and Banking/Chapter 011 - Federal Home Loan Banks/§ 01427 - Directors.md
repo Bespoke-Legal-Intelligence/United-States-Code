@@ -64,7 +64,7 @@
 
 &emsp;&emsp;&emsp;(i) shall be elected by the members entitled to vote, from among eligible persons nominated, after consultation with the Advisory Council of the Bank, by the board of directors of the Bank; and
 
-&emsp;&emsp;&emsp;(ii) shall be elected by a plurality of the votes of the members of the Bank at large, with each member having the number of votes for each such directorship as it has under paragraph (1) in an election to fill member directorships.
+&emsp;&emsp;&emsp;(ii) shall be elected by a plurality of the votes of the members of the Bank at large,with each member having the number of votes for each such directorship as it has under paragraph (1) in an election to fill member directorships.
 
 #### (B) Criteria
 
@@ -80,7 +80,7 @@ The number of member directorships designated as representing the members locate
 
 #### (d) Terms; rules and regulations governing nominations and elections
 
-The term of each director shall be 4 years. The board of directors of each Federal home loan bank and the Director shall adjust the terms of members first elected after July 30, 2008, to ensure that the terms of the members of the board of directors are staggered with approximately 1/4 of the terms expiring each year. If any person, before or after, or partly before and partly after, September 8, 1961, has been elected to each of three consecutive full terms as a director of a Federal home loan bank and has served for all or part of each of said terms, such person shall not be eligible for election to a directorship of such bank for a term which begins earlier than two years after the expiration of the last expiring of said three terms. The Director is authorized to prescribe such rules and regulations as it may deem necessary or appropriate for the nomination and election of directors of Federal home loan banks, including, without limitation on the generality of the foregoing, rules and regulations with respect to the breaking of ties and with respect to the inclusion of more than one directorship on a single ballot and the methods of voting and of determining the results of voting in such cases.
+The term of each director shall be 4 years. The board of directors of each Federal home loan bank and the Director shall adjust the terms of members first elected after July 30, 2008, to ensure that the terms of the members of the board of directors are staggered with approximately ¼ of the terms expiring each year. If any person, before or after, or partly before and partly after, September 8, 1961, has been elected to each of three consecutive full terms as a director of a Federal home loan bank and has served for all or part of each of said terms, such person shall not be eligible for election to a directorship of such bank for a term which begins earlier than two years after the expiration of the last expiring of said three terms. The Director is authorized to prescribe such rules and regulations as it may deem necessary or appropriate for the nomination and election of directors of Federal home loan banks, including, without limitation on the generality of the foregoing, rules and regulations with respect to the breaking of ties and with respect to the inclusion of more than one directorship on a single ballot and the methods of voting and of determining the results of voting in such cases.
 
 #### (e) Continuation of existing terms; directorship for the Commonwealth of Puerto Rico
 
@@ -156,7 +156,7 @@ Section 1202(2) of Pub. L. 110–289, which directed amendment of this section b
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–289, §1202(1), added subsec. (a) and struck out former subsec. (a) which related to number, appointment and election, qualifications, and conflicts of interest of Federal Home Loan Bank directors.
+<b>2008</b>—Subsec. (a). Pub. L. 110–289, §1202(1), added subsec. (a) and struck out former subsec. (a) which related to number, appointment and election, qualifications, and conflicts of interest of Federal Home Loan Bank directors.
 
 Subsec. (b). Pub. L. 110–289, §1202(3), designated existing provisions as par. (1), inserted subsec. (b) and par. (1) headings, substituted “Each member directorship” for “Each elective directorship”, and added par. (2).
 
@@ -174,7 +174,7 @@ Pub. L. 110–289, §1202(2), which directed substitution of “member” for �
 
 Subsec. (d). Pub. L. 110–289, §1204(9), (10), substituted “the Director” for “the Finance Board” and “The Director” for “The Board’.
 
-Pub. L. 110–289, §1202(5), in first sentence, struck out “, whether elected or appointed,” after “each director” and substituted “4 years” for “3 years”, in second sentence, struck out “or appointed” after “first elected” and substituted “July 30, 2008” for “November 12, 1999” and “1/4” for “1/3”, and in third sentence, substituted “a” for “an elective” after “full terms as” and after “for election to” and struck out “in any elective directorship or elective directorships” after “Federal home loan bank”.
+Pub. L. 110–289, §1202(5), in first sentence, struck out “, whether elected or appointed,” after “each director” and substituted “4 years” for “3 years”, in second sentence, struck out “or appointed” after “first elected” and substituted “July 30, 2008” for “November 12, 1999” and “¼” for “1/3”, and in third sentence, substituted “a” for “an elective” after “full terms as” and after “for election to” and struck out “in any elective directorship or elective directorships” after “Federal home loan bank”.
 
 Subsec. (e). Pub. L. 110–289, §1204(8), (9), substituted “The Director” for “The Board” in two places and “the Director” for “the Board”.
 
@@ -192,7 +192,7 @@ Subsec. (<i>l</i>). Pub. L. 110–289, §1202(8), added subsec. (<i>l</i>) relat
 
 Pub. L. 110–289, §1113(b), added subsec. (<i>l</i>) relating to withholding of compensation.
 
-1999—Subsec. (a). Pub. L. 106–102, §606(a)(1), substituted “, and each of whom shall be either a bona fide resident of the district in which such bank is located or an officer or director of a member of such bank located in that district” for “and bona fide residents of the district in which such bank is located”.
+<b>1999</b>—Subsec. (a). Pub. L. 106–102, §606(a)(1), substituted “, and each of whom shall be either a bona fide resident of the district in which such bank is located or an officer or director of a member of such bank located in that district” for “and bona fide residents of the district in which such bank is located”.
 
 Subsec. (d). Pub. L. 106–102, §606(a)(2), substituted “The term of each director, whether elected or appointed, shall be 3 years. The board of directors of each Federal home loan bank and the Finance Board shall adjust the terms of members first elected or appointed after November 12, 1999, to ensure that the terms of the members of the board of directors are staggered with approximately 1/3 of the terms expiring each year.” for “The term of each elective directorship shall be two years and the term of each appointive directorship shall be four years.”
 
@@ -200,7 +200,7 @@ Subsec. (g). Pub. L. 106–102, §606(a)(3), added subsec. (g) and struck out fo
 
 Subsec. (i). Pub. L. 106–102, §606(b), inserted heading, designated existing provisions as par. (1), inserted heading, substituted “Subject to paragraph (2), each bank may pay its directors” for “Each bank may pay its directors”, and added par. (2).
 
-1989—Subsec. (a). Pub. L. 101–73, §707(1), inserted provisions relating to requirements for at least 2 of the directors and provisions respecting conflicts of interests, and substituted provisions relating to appointment under section 1422a of this title for provisions relating to appointment under section 1437(b) of this title.
+<b>1989</b>—Subsec. (a). Pub. L. 101–73, §707(1), inserted provisions relating to requirements for at least 2 of the directors and provisions respecting conflicts of interests, and substituted provisions relating to appointment under section 1422a of this title for provisions relating to appointment under section 1437(b) of this title.
 
 Subsec. (b). Pub. L. 101–73, §707(2), inserted after first sentence “No person who is an officer or director of a member that fails to meet any applicable capital requirement is eligible to hold the office of Federal Home Loan Bank director.”
 
@@ -210,11 +210,11 @@ Subsec. (j). Pub. L. 101–73, §710(b)(4), struck out “or nonmember borrower�
 
 Subsec. (k). Pub. L. 101–73, §707(4), added subsec. (k).
 
-1974—Subsec. (a). Pub. L. 93–541 increased number of directors from twelve to fourteen, increased number of appointive directors from four to six, and in proviso relating to districts including five or more States, substituted provisions authorizing increase of appointive directors to a number not exceeding three-fourths the number of elective directors for provisions authorizing increase of appointive directors to a number not exceeding one-half the number of elective directors.
+<b>1974</b>—Subsec. (a). Pub. L. 93–541 increased number of directors from twelve to fourteen, increased number of appointive directors from four to six, and in proviso relating to districts including five or more States, substituted provisions authorizing increase of appointive directors to a number not exceeding three-fourths the number of elective directors for provisions authorizing increase of appointive directors to a number not exceeding one-half the number of elective directors.
 
-1962—Subsec. (e). Pub. L. 87–676 included Commonwealth of Puerto Rico within term “States” or “State”, and authorized Board to add an additional elective directorship to board of bank of any district in which Commonwealth of Puerto Rico is included at time such directorship is added and which doesn't include five or more States, and to fill such initial term by appointment, provided, that any such added directorship shall be designated as representing members in Commonwealth of Puerto Rico, that such designation shall not be changed, and that such directorship shall cease to exist if and when Commonwealth of Puerto Rico ceases to be included in such district.
+<b>1962</b>—Subsec. (e). Pub. L. 87–676 included Commonwealth of Puerto Rico within term “States” or “State”, and authorized Board to add an additional elective directorship to board of bank of any district in which Commonwealth of Puerto Rico is included at time such directorship is added and which doesn't include five or more States, and to fill such initial term by appointment, provided, that any such added directorship shall be designated as representing members in Commonwealth of Puerto Rico, that such designation shall not be changed, and that such directorship shall cease to exist if and when Commonwealth of Puerto Rico ceases to be included in such district.
 
-1961—Subsec. (a). Pub. L. 87–211 authorized Board to increase appointive directors in any district which includes five or more States to a number not exceeding one-half number of elective directors, directed Board to exercise its authority to increase the elective directors to a number at least equal to number of States in a district whenever number of elective directors in district is not at least equal to number of States in district, and struck out provisions which related to apportionment of additional elective directors, required at least one but not more than three elective directors fromany of the States in any district in which number of elective directors is increased, limited number of elective directors in any one district to not more than eleven, and defined term “States”. See subsec. (c) of this section.
+<b>1961</b>—Subsec. (a). Pub. L. 87–211 authorized Board to increase appointive directors in any district which includes five or more States to a number not exceeding one-half number of elective directors, directed Board to exercise its authority to increase the elective directors to a number at least equal to number of States in a district whenever number of elective directors in district is not at least equal to number of States in district, and struck out provisions which related to apportionment of additional elective directors, required at least one but not more than three elective directors from any of the States in any district in which number of elective directors is increased, limited number of elective directors in any one district to not more than eleven, and defined term “States”. See subsec. (c) of this section.
 
 Subsec. (b). Pub. L. 87–211 amended subsection generally, substituting provisions relating to designation of elective directorships, nominations for such office, manner of election, and voting power of each member, for provisions which required four directors to be appointed by Board, limited their term of office to four years, and which authorized Board to increase total number of appointive directors to not more than one-half total number of elective directors in cases where number of elective directors has been increased. See subsec. (a) of this section.
 
@@ -230,13 +230,13 @@ Subsec. (g). Pub. L. 87–211 reenacted subsec. (g) without change.
 
 Subsec. (h). Pub. L. 87–211 authorized Board, prior to filing of the certificate mentioned in section 1432 of this title, to appoint directors and required Board to designate appointees as either appointive or elective directors, and struck out provisions which permitted directors appointed under this subsection to serve until expiration of the calendar year during which they took office.
 
-1959—Subsec. (a). Pub. L. 86–349, §1, authorized increase of up to 13 in number of elective directors of bank having district which includes five or more States.
+<b>1959</b>—Subsec. (a). Pub. L. 86–349, §1, authorized increase of up to 13 in number of elective directors of bank having district which includes five or more States.
 
 Subsec. (b). Pub. L. 86–349, §2, authorized increase in number of appointive directors of up to one-half number of elective directors in district in which number of elective directors were increased pursuant to subsec. (a), and provided for expiration of term of initial incumbent of any office so established.
 
-1955—Subsec. (a). Act Aug. 11, 1955, authorized an increase in number of elective directors of any Federal Home Loan Bank having a district which includes five or more States.
+<b>1955</b>—Subsec. (a). Act Aug. 11, 1955, authorized an increase in number of elective directors of any Federal Home Loan Bank having a district which includes five or more States.
 
-1935—Act May 28, 1935, amended subsecs. (a) to (c) generally, added subsec. (d), and redesignated former subsecs. (d) to (i) as (e) to (j).
+<b>1935</b>—Act May 28, 1935, amended subsecs. (a) to (c) generally, added subsec. (d), and redesignated former subsecs. (d) to (i) as (e) to (j).
 
 #### Effective Date of 1961 Amendment
 

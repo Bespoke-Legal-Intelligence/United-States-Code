@@ -156,7 +156,7 @@ Personnel To Be Assigned.—(1) The Secretary shall assign not less than 3,500 a
 
 “(d)
 
-Action on the Basis of Program Results.—Based on the experience under the pilot program, the Secretary of the Army shall by April 1, 1993, submit to the Committees on Armed Services of the Senate and House of Representatives a report containing the Secretary's evaluation of the program to that date. As part of the budget submission for fiscal year 1995, the Secretary shall submit any recommendations for expansion or modification of the program, together with a proposal for any statutory changes that the Secretary considers necessary to implement the program on a permanent basis. In no case may the number of active duty personnel assigned to the program decrease below the number specified for the pilot program.”
+Action on the Basis of Program Results.—Based on the experience under the pilot program, the Secretary of the Army shall by April 1, 1993, submit to the Committees on Armed Services of the Senate and House of Representatives a report containing the Secretary's evaluation of the program to that date. As partof the budget submission for fiscal year 1995, the Secretary shall submit any recommendations for expansion or modification of the program, together with a proposal for any statutory changes that the Secretary considers necessary to implement the program on a permanent basis. In no case may the number of active duty personnel assigned to the program decrease below the number specified for the pilot program.”
 
 #### Reserve Forces Readiness
 

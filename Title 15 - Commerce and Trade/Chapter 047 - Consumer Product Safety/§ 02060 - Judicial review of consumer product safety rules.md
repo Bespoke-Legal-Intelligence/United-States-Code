@@ -14,7 +14,7 @@ Upon the filing of the petition under subsection (a) of this section the court s
 
 #### (d) Supreme Court review
 
-The judgment of the court affirming or setting aside, in whole or in part, any consumer product safety rule shall be final, subject to review by the Supreme Court of the United States uponcertiorari or certification, as provided in section 1254 of title 28.
+The judgment of the court affirming or setting aside, in whole or in part, any consumer product safety rule shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification, as provided in section 1254 of title 28.
 
 #### (e) Other remedies
 
@@ -22,7 +22,7 @@ The remedies provided for in this section shall be in addition to and not in lie
 
 #### (f) Computation of reasonable fee for attorney
 
-For purposes of this section and sections 2072(a) and 2073 of this title, a reasonable attorney's fee is a fee (1) which is based upon (A) the actual time expended by an attorney in providing advice and other legal services in connection with representing a person in an action brought under this section, and (B) such reasonable expenses as may be incurred by the attorney in the provision of such services, and (2) which is computed at the rate prevailing for the provision of similar services with respect to actions brought in the court which is awarding such fee.
+For purposes of this section and sections 2072(a) and 2073 of this title, a reasonable attorney's fee is a fee (1) which is based upon (A) the actual time expended by an attorney in providing advice and other legal services in connection with representing a person in an action brought under this section, and (B) such reasonable expenses as may be incurred by the attorney in theprovision of such services, and (2) which is computed at the rate prevailing for the provision of similar services with respect to actions brought in the court which is awarding such fee.
 
 #### (g) Expedited judicial review
 

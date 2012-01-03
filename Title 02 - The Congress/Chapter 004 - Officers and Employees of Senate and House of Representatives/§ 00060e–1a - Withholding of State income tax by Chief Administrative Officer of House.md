@@ -38,7 +38,7 @@ Section is based on section 1 of House Resolution No. 732, Ninety-fourth Congres
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–186, §204(4)(B), substituted “provide that the Chief Administrative Officer shall withhold” for “provide that—
+<b>1996</b>—Subsec. (a). Pub. L. 104–186, §204(4)(B), substituted “provide that the Chief Administrative Officer shall withhold” for “provide that—
 
 &emsp;“(1) the Clerk, in the case of employees whose compensation is disbursed by the Clerk; and
 

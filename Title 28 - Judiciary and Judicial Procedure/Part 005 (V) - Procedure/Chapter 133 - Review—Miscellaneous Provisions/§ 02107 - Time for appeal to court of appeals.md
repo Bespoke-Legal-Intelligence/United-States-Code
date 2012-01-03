@@ -2,7 +2,15 @@
 
 (a) Except as otherwise provided in this section, no appeal shall bring any judgment, order or decree in an action, suit or proceeding of a civil nature before a court of appeals for review unless notice of appeal is filed, within thirty days after the entry of such judgment, order or decree.
 
-(b) In any such action, suit or proceeding in which the United States or an officer or agency thereof is a party, the time as to all parties shall be sixty days from such entry.
+(b) In any such action, suit, or proceeding, the time as to all parties shall be 60 days from such entry if one of the parties is—
+
+&emsp;(1) the United States;
+
+&emsp;(2) a United States agency;
+
+&emsp;(3) a United States officer or employee sued in an official capacity; or
+
+&emsp;(4) a current or former United States officer or employee sued in an individual capacity for an act or omission occurring in connection with duties performed on behalf of the United States, including all instances in which the United States represents that officer or employee when the judgment, order, or decree is entered or files the appeal for that officer or employee.
 
 (c) The district court may, upon motion filed not later than 30 days after the expiration of the time otherwise set for bringing appeal, extend the time for appeal upon a showing of excusable neglect or good cause. In addition, if the district court finds—
 
@@ -14,7 +22,7 @@
 
 (d) This section shall not apply to bankruptcy matters or other proceedings under Title 11.
 
-(June 25, 1948, ch. 646, 62 Stat. 963; May 24, 1949, ch. 139, §§107, 108, 63 Stat. 104; Pub. L. 95–598, title II, §248, Nov. 6, 1978, 92 Stat. 2672; Pub. L. 102–198, §12, Dec. 9, 1991, 105 Stat. 1627; Pub. L. 111–16, §6(3), May 7, 2009, 123 Stat. 1608.)
+(June 25, 1948, ch. 646, 62 Stat. 963; May 24, 1949, ch. 139, §§107, 108, 63 Stat. 104; Pub. L. 95–598, title II, §248, Nov. 6, 1978, 92 Stat. 2672; Pub. L. 102–198, §12, Dec. 9, 1991, 105 Stat. 1627; Pub. L. 111–16, §6(3), May 7, 2009, 123 Stat. 1608; Pub. L. 112–62, §3, Nov. 29, 2011, 125 Stat. 757.)
 
 #### Historical and Revision Notes
 
@@ -56,9 +64,11 @@ This amendment eliminates as surplusage the words “in any such action, suit or
 
 #### Amendments
 
+<b>2011</b>—Subsec. (b). Pub. L. 112–62 added subsec. (b) and struck out former subsec. (b) which read as follows: “In any such action, suit or proceeding in which the United States or an officer or agency thereof is a party, the time as to all parties shall be sixty days from such entry.”
+
 <b>2009</b>—Subsec. (c). Pub. L. 111–16 substituted “within 14 days” for “within 7 days” in concluding provisions.
 
-<b>1991</b>—Pub. L. 102–198 designated first and second pars. as subsecs. (a) and (b), respectively, added subsec. (c), designated fifth par. as subsec. (d), and struck out third and fourth pars. which read as follows:
+<b>1991</b>—Pub. L. 102–198 designated first and second pars. as subsecs. (a) and (b), respectively, added subsec. (c),designated fifth par. as subsec. (d), and struck out third and fourth pars. which read as follows:
 
 “In any action, suit or proceeding in admiralty, the notice of appeal shall be filed within ninety days after the entry of the order, judgment or decree appealed from, if it is a final decision, and within fifteen days after its entry if it is an interlocutory decree.
 
@@ -68,7 +78,37 @@ This amendment eliminates as surplusage the words “in any such action, suit or
 
 <b>1949</b>—Act May 24, 1949, restored, in third par., the 15-day limitation of time within which to appeal from an interlocutory order in admiralty, and in fourth par., substituted “The district court may” for “The district court, in any such action, suit, or proceeding, may” and corrected spelling of “excusable”.
 
+#### Effective Date of 2011 Amendment
+
+Pub. L. 112–62, §4, Nov. 29, 2011, 125 Stat. 757, provided that: “The amendment made by this Act \[amending this section\] shall take effect on December 1, 2011.”
+
 #### Effective Date of 2009 Amendment
 
 Amendment by Pub. L. 111–16 effective Dec. 1, 2009, see section 7 of Pub. L. 111–16, set out as a note under section 109 of Title 11, Bankruptcy.
+
+#### Findings
+
+Pub. L. 112–62, §2, Nov. 29, 2011, 125 Stat. 756, provided that: “Congress finds that—
+
+&emsp;“(1) section 2107 of title 28, United States Code, and rule 4 of the Federal Rules of Appellate Procedure provide that the time to appeal for most civil actions is 30 days, but that the appeal time for all parties is 60 days when the parties in the civil action include the United States, a United States officer, or a United States agency;
+
+&emsp;“(2) the 60-day period should apply if one of the parties is—
+
+&emsp;&emsp;“(A) the United States;
+
+&emsp;&emsp;“(B) a United States agency;
+
+&emsp;&emsp;“(C) a United States officer or employee sued in an official capacity; or
+
+&emsp;&emsp;“(D) a current or former United States officer or employee sued in an individual capacity for an act or omission occurring in connection with duties performed on behalf of the United States;
+
+&emsp;“(3) section 2107 of title 28, United States Code, and rule 4 of the Federal Rules of Appellate Procedure (as amended to take effect on December 1, 2011, in accordance with section 2074 of that title) should uniformly apply the 60-day period to those civil actions relating to a Federal officer or employee sued in an individual capacity for an act or omission occurring in connection with Federal duties;
+
+&emsp;“(4) the civil actions to which the 60-day periods should apply include all civil actions in which a legal officer of the United States represents the relevant officer or employee when the judgment or order is entered or in which the United States files the appeal for that officer or employee; and
+
+&emsp;“(5) the application of the 60-day period in section 2107 of title 28, United States Code, and rule 4 of the Federal Rules of Appellate Procedure—
+
+&emsp;&emsp;“(A) is not limited to civil actions in which representation of the United States is provided by the Department of Justice; and
+
+&emsp;&emsp;“(B) includes all civil actions in which the representation of the United States is provided by a Federal legal officer acting in an official capacity, such as civil actions in which a Member, officer, or employee of the Senate or the House of Representatives is represented by the Office of Senate Legal Counsel or the Office of General Counsel of the House of Representatives.”
 

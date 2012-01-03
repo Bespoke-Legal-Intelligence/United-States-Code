@@ -46,7 +46,7 @@ Competitive Rates of Pay.—For the purpose of providing military child developm
 
 Competitive Service Position Defined.—In this section, the term “competitive service position” means a position in the competitive service, as defined in section 2102(a)(1) of title 5.
 
-(Added Pub. L. 104–106, div. A, title V, §568(a)(1), Feb. 10, 1996, 110 Stat. 332; amended Pub. L. 105–85, div. A, title X, §1073(a)(34), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 105–261, div. A, title XI, §1106, Oct. 17, 1998, 112 Stat. 2142.)
+(Added Pub. L. 104–106, div. A, title V, §568(a)(1), Feb. 10, 1996, 110 Stat. 332; amended Pub. L.105–85, div. A, title X, §1073(a)(34), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 105–261, div. A, title XI, §1106, Oct. 17, 1998, 112 Stat. 2142.)
 
 #### Amendments
 

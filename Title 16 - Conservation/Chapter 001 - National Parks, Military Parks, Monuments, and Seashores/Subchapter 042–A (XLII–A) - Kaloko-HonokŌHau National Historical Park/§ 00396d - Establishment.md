@@ -20,7 +20,7 @@ The Secretary shall administer the park in accordance with this section and the 
 
 (1) In administering the park the Secretary may provide traditional native Hawaiian accommodations.
 
-(2) The Secretary shall consult with and may enter into a cooperative management agreement with the State of Hawaii for the management of the submerged lands within the authorized parkboundary, following the marine management policies of the State of Hawaii.
+(2) The Secretary shall consult with and may enter into a cooperative management agreement with the State of Hawaii for the management of the submerged lands within the authorized park boundary, following the marine management policies of the State of Hawaii.
 
 (3) Commercial, recreational, and subsistence fishing and shoreline food gathering activities as well as access to and from the Honokohau small boat harbor by motor boats and other water craft shall be permitted wherever such activities are not inconsistent with the purposes for which the park is established, subject to regulation by the Secretary.
 
@@ -60,7 +60,7 @@ Sections 1, 2, 3, and 4 of this title, referred to in subsec. (c), was in the or
 
 <b>2009</b>—Subsec. (f)(7). Pub. L. 111–11, which directed substitution of “on December 31, 2018” for “ten years after the date of enactment of the Na Hoa Pili O Kaloko-Honokohau Re-establishment Act of 1996”, was executed by making the substitution for “ten years after the date of enactment of the Na Hoa Pili Kaloko-Honokōhau Re-establishment Act of 1996”, to reflect the probable intent of Congress.
 
-<b>2003</b>—Subsec. (a). Pub. L. 108–142 designated existing provisions as par. (1), substituted “1978.” for “1978, which shall be on file and available for public inspection in the appropriate offices of the National Park Service, Department of the Interior.”, and added pars. (2) and (3).
+<b>2003</b>—Subsec. (a). Pub. L. 108–142 designated existing provisions as par. (1), substituted “1978.” for “1978, which shall be on file and available for public inspection in the appropriate offices of the National ParkService, Department of the Interior.”, and added pars. (2) and (3).
 
 <b>2000</b>—Pub. L. 106–510, §3(c)(1)(A), amended section catchline.
 
@@ -80,7 +80,7 @@ Pub. L. 108–142, §1, Dec. 2, 2003, 117 Stat. 1875, provided that: “This Act
 
 #### Extension of Kaloko-Honokōhau Advisory Commission
 
-Section 503(a) of title V of div. I of Pub. L. 104–333, as amended by Pub. L. 106–510, §3(c)(2), Nov. 13, 2000, 114Stat. 2364, provided that: “Notwithstanding section 505(f)(7) of Public Law 95–625 (16 U.S.C. 396d(f)(7)), the Na Hoa Pili O Kaloko-Honokōhau, the Advisory Commission for Kaloko-Honokōhau National Historical Park, is hereby re-established in accordance with section 505(f), as amended by paragraph (2) of this subsection \[probably should be ‘subsection (b) of this section’, amending this section\].”
+Section 503(a) of title V of div. I of Pub. L. 104–333, as amended by Pub. L. 106–510, §3(c)(2), Nov. 13, 2000, 114 Stat. 2364, provided that: “Notwithstanding section 505(f)(7) of Public Law 95–625 (16 U.S.C. 396d(f)(7)), the Na Hoa Pili O Kaloko-Honokōhau, the Advisory Commission for Kaloko-Honokōhau National Historical Park, is hereby re-established in accordance with section 505(f), as amended by paragraph (2) of this subsection \[probably should be ‘subsection (b) of this section’, amending this section\].”
 
 #### “Secretary” Defined
 

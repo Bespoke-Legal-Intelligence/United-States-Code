@@ -38,7 +38,7 @@ Approved retail food stores shall display a sign providing information on how pe
 
 In those areas in which the Secretary, in consultation with the Inspector General of the Department of Agriculture, finds evidence that the operation of house-to-house trade routes damages the program's integrity, the Secretary shall limit the participation of house-to-house trade routes to those routes that are reasonably necessary to provide adequate access to households.
 
-(Pub. L. 88–525, §9, Aug. 31, 1964, 78 Stat. 705; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 968; Pub. L. 97–98, title XIII, §§1313, 1314, Dec. 22, 1981, 95 Stat. 1285; Pub. L. 97–253, title I, §165, Sept. 8, 1982, 96 Stat. 779; Pub. L. 99–198, title XV, §§1521, 1532(b), Dec. 23, 1985, 99 Stat. 1579, 1583; Pub. L. 99–570, title XI, §11002(d), Oct. 27, 1986, 100 Stat. 3207–168; Pub. L. 101–624, title XVII, §§1733, 1734, Nov. 28, 1990, 104 Stat. 3791; Pub. L. 102–237, title IX, §941(4), Dec. 13, 1991, 105 Stat. 1892; Pub. L. 103–225, title II, §§202, 203, Mar. 25, 1994, 108 Stat. 108; Pub. L. 103–448, title II, §204(w)(2)(A), Nov. 2, 1994, 108 Stat. 4746; Pub. L. 104–193, title VIII, §§831–834, Aug. 22, 1996, 110 Stat. 2328; Pub. L. 110–234, title IV, §§4001(b), 4002(a)(5), 4115(b)(6), May 22, 2008, 122 Stat. 1092, 1093, 1106; Pub. L. 110–246, §4(a), title IV, §§4001(b), 4002(a)(5), 4115(b)(6), June 18, 2008, 122 Stat. 1664, 1853, 1854, 1868.)
+(Pub. L. 88–525, §9, Aug. 31, 1964, 78 Stat. 705; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 968; Pub. L. 97–98, title XIII, §§1313, 1314, Dec. 22, 1981, 95 Stat. 1285; Pub. L. 97–253, title I, §165, Sept. 8, 1982, 96 Stat. 779; Pub. L. 99–198, title XV, §§1521, 1532(b), Dec. 23, 1985, 99 Stat. 1579, 1583; Pub. L. 99–570, title XI, §11002(d), Oct. 27, 1986, 100 Stat. 3207–168; Pub. L. 101–624, title XVII, §§1733, 1734, Nov. 28, 1990, 104 Stat. 3791; Pub. L. 102–237, title IX, §941(4), Dec. 13, 1991, 105Stat. 1892; Pub. L. 103–225, title II, §§202, 203, Mar. 25, 1994, 108 Stat. 108; Pub. L. 103–448, title II, §204(w)(2)(A), Nov. 2, 1994, 108 Stat. 4746; Pub. L. 104–193, title VIII, §§831–834, Aug. 22, 1996, 110 Stat. 2328; Pub. L. 110–234, title IV, §§4001(b), 4002(a)(5), 4115(b)(6), May 22, 2008, 122 Stat. 1092, 1093, 1106; Pub. L. 110–246, §4(a), title IV, §§4001(b), 4002(a)(5), 4115(b)(6), June 18, 2008, 122 Stat. 1664, 1853, 1854, 1868.)
 
 #### References in Text
 
@@ -50,7 +50,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (a)(1). Pub. L. 110–246, §4115(b)(6)(A), (B)(i), substituted “benefit transactions” for “coupon business” and “benefits” for “coupons”.
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–246, §4115(b)(6)(A), (B)(i), substituted “benefit transactions” for “coupon business” and “benefits” for “coupons”.
 
 Pub. L. 110–246, §4001(b), substituted “supplemental nutrition assistance program” for “food stamp program” wherever appearing.
 
@@ -72,7 +72,7 @@ Subsec. (e). Pub. L. 110–246, §4001(b), substituted “supplemental nutrition
 
 Subsec. (g). Pub. L. 110–246, §4115(b)(6)(C), which directed substitution of “section 2012(k)(9)” for “section 2012(g)(9)” in subsec. (g), could not be executed because subsec. (g) did not appear in text subsequent to its termination. See 1986 Amendment note and Effective and Termination Dates of 1986 Amendment note below.
 
-1996—Subsec. (a)(1). Pub. L. 104–193, §831, inserted at end “No retail food store or wholesale food concern of a type determined by the Secretary, based on factors that include size, location, and type of items sold, shall be approved to be authorized or reauthorized for participation in the food stamp program unless an authorized employee of the Department of Agriculture, a designee of the Secretary, or, if practicable, an official of the State or local government designated by the Secretary has visited the store or concern for the purpose of determining whether the store or concern should be approved or reauthorized, as appropriate.”
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–193, §831, inserted at end “No retail food store or wholesale food concern of a type determined by the Secretary, based on factors that include size, location, and type of items sold, shall be approved to be authorized or reauthorized for participation in the food stamp program unless an authorized employee of the Department of Agriculture, a designee of the Secretary, or, if practicable, an official of the State or local government designated by the Secretary has visited the store or concern for the purpose of determining whether the store or concern should be approved or reauthorized, as appropriate.”
 
 Subsec. (a)(3). Pub. L. 104–193, §832, added par. (3).
 
@@ -80,31 +80,31 @@ Subsec. (c). Pub. L. 104–193, §833, in first sentence, inserted “, which m
 
 Subsec. (d). Pub. L. 104–193, §834, inserted at end “A retail food store or wholesale food concern that is denied approval to accept and redeem coupons because the store or concern does not meet criteria for approval established by the Secretary may not, for at least 6 months, submit a new application to participate in the program. The Secretary may establish a longer time period under the preceding sentence, including permanent disqualification, that reflects the severity of the basis of the denial.”
 
-1994—Subsec. (a)(2). Pub. L. 103–225, §202, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary is authorized to issue regulations providing for a periodic reauthorization of retail food stores and wholesale food concerns.”
+<b>1994</b>—Subsec. (a)(2). Pub. L. 103–225, §202, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary is authorized to issue regulations providing for a periodic reauthorization of retail food stores and wholesale food concerns.”
 
 Subsec. (c). Pub. L. 103–448 in second sentence substituted “special supplemental nutrition program” for “special supplemental food program”.
 
 Pub. L. 103–225, §203, in second sentence inserted “Federal law enforcement and investigative agencies and law enforcement and investigative agencies of a State government for the purposes of administering or enforcing this chapter or any other Federal or State law and the regulations issued under this chapter or such law, and” after “disclosed to and used by”, inserted after second sentence “Any person who publishes, divulges, discloses, or makes known in any manner or to any extent not authorized by Federal law (including a regulation) any information obtained under this subsection shall be fined not more than $1,000 or imprisoned not more than 1 year, or both.”, and in last sentence substituted “The regulations shall establish the criteria to be used by the Secretary to determine whether the information is needed. The regulations shall not prohibit” for “Such purposes shall not exclude”.
 
-1991—Subsec. (a)(1). Pub. L. 102–237 redesignated cls. (1) to (3) as (A) to (C), respectively.
+<b>1991</b>—Subsec. (a)(1). Pub. L. 102–237 redesignated cls. (1) to (3) as (A) to (C), respectively.
 
-1990—Subsec. (a). Pub. L. 101–624, §1733, designated existing provisions as par. (1) and added par. (2).
+<b>1990</b>—Subsec. (a). Pub. L. 101–624, §1733, designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (b)(1). Pub. L. 101–624, §1734, inserted after first sentence “No co-located wholesale-retail food concern may be authorized to accept and redeem coupons as a retail food store, unless (A) the concern does a substantial level of retail food business, or (B) the Secretary determines that failure to authorize such a food concern as a retail food store would cause hardship to food stamp households.”
 
-1986—Subsec. (g). Pub. L. 99–570, §1102(d), (f)(3), temporarily added subsec. (g) which read as follows: “In an area in which the Secretary, in consultation with the Inspector General of the Department of Agriculture, finds evidence that the participation of an establishment or shelter described in section 2012(g)(9) of this title damages the program's integrity, the Secretary shall limit the participation of such establishment or shelter in the food stamp program, unless the establishment or shelter is the only establishment or shelter serving the area.” See Effective and Termination Dates of 1986 Amendment note below.
+<b>1986</b>—Subsec. (g). Pub. L. 99–570, §1102(d), (f)(3), temporarily added subsec. (g) which read as follows: “In an area in which the Secretary, in consultation with the Inspector General of the Department of Agriculture, finds evidence that the participation of an establishment or shelter described in section 2012(g)(9) of this title damages the program's integrity, the Secretary shall limit the participation of such establishment or shelter in the food stamp program, unless the establishment or shelter is the only establishment or shelter serving the area.” See Effective and Termination Dates of 1986 Amendment note below.
 
-1985—Subsec. (b). Pub. L. 99–198, §1532(b), designated existing provisions as par. (1) and added par. (2).
+<b>1985</b>—Subsec. (b). Pub. L. 99–198, §1532(b), designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (c). Pub. L. 99–198, §1521, inserted provisions relating to disclosure of information to, and the use by, State agencies which administer the special supplemental food program for women, infants, and children, authorized under section 17 of the Child Nutrition Act of 1966.
 
-1982—Subsec. (f). Pub. L. 97–253 added subsec. (f).
+<b>1982</b>—Subsec. (f). Pub. L. 97–253 added subsec. (f).
 
-1981—Subsec. (c). Pub. L. 97–98, §1313, inserted provision that such purposes not exclude the audit and examination of such information by the Comptroller General of the United States authorized by any other provision of law.
+<b>1981</b>—Subsec. (c). Pub. L. 97–98, §1313, inserted provision that such purposes not exclude the audit and examination of such information by the Comptroller General of the United States authorized by any other provision of law.
 
 Subsec. (e). Pub. L. 97–98, §1314, added subsec. (e).
 
-1977—Pub. L. 95–113 substituted revised provisions covering approval of retail food stores and wholesale food concerns for provisions relating to redemption of coupons which are now covered by section 2019 of this title.
+<b>1977</b>—Pub. L. 95–113 substituted revised provisions covering approval of retail food stores and wholesale food concerns for provisions relating to redemption of coupons which are now covered by section 2019 of this title.
 
 #### Effective Date of 2008 Amendment
 
@@ -126,7 +126,7 @@ Amendment by Pub. L. 101–624 effective and implemented first day of month begi
 
 #### Effective and Termination Dates of 1986 Amendment
 
-Amendment by Pub. L. 99–570 effective, and to be implemented by issuance of final regulations, not laterthan Apr. 1, 1987, and cease to be effective after Sept. 30, 1990, see section 11002(f)(1), (2) of Pub. L. 99–570, set out as a note under section 2012 of this title.
+Amendment by Pub. L. 99–570 effective, and to be implemented by issuance of final regulations, not later than Apr. 1, 1987, and cease to be effective after Sept. 30, 1990, see section 11002(f)(1), (2) of Pub. L. 99–570, set out as a note under section 2012 of this title.
 
 #### Effective Date of 1982 Amendment
 

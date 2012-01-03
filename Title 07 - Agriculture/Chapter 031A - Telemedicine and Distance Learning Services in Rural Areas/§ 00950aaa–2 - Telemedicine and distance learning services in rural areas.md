@@ -148,7 +148,7 @@ A prior section 950aaa–2, Pub. L. 101–624, title XXIII, §2333, Nov. 28, 199
 
 #### Amendments
 
-2008—Subsec. (c)(1)(C). Pub. L. 110–246, §6201(a), added subpar. (C).
+<b>2008</b>—Subsec. (c)(1)(C). Pub. L. 110–246, §6201(a), added subpar. (C).
 
 #### Effective Date of 2008 Amendment
 

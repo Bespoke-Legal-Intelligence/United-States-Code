@@ -44,7 +44,7 @@ Pub. L. 106–553, §1(a)(2) \[title I, §114, formerly §115\], Dec. 21, 2000, 
 
 Pub. L. 102–395, title I, §111(a), Oct. 6, 1992, 106 Stat. 1842, provided that:
 
-“(1) For fiscal year 1993 and thereafter the Attorney General shall establish and collect a fee to cover the costs of confinement from any person convicted in a United States District Court and committed to the Attorney General's custody.
+“(1) For fiscal year 1993 and thereafter the Attorney General shall establish and collect a fee to cover thecosts of confinement from any person convicted in a United States District Court and committed to the Attorney General's custody.
 
 “(2) Such fee shall be equivalent to the average cost of one year of incarceration, and the Attorney General shall credit or rebate a prorated portion of the fee with respect to any such person incarcerated for 334 days or fewer in a given fiscal year.
 

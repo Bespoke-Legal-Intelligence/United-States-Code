@@ -22,7 +22,7 @@ As used in this chapter—
 
 &emsp;(5) the term “source reduction” means any practice which—
 
-&emsp;&emsp;(A) reduces the amount of any hazardous substance, pollutant, or contaminant entering any waste stream or otherwise releasedinto the environment, including fugitive emissions, prior to recycling, treatment, or disposal; and
+&emsp;&emsp;(A) reduces the amount of any hazardous substance, pollutant, or contaminant entering any waste stream or otherwise released into the environment, including fugitive emissions, prior to recycling, treatment, or disposal; and
 
 &emsp;&emsp;(B) reduces the hazards to the public health and the environment associated with the release of such substances, pollutants, or contaminants,
 

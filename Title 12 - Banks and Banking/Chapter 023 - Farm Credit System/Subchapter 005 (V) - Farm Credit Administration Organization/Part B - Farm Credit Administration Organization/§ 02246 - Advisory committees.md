@@ -12,9 +12,9 @@ The Farm Credit Amendments Act of 1985, referred to in text, is Pub. L. 99–205
 
 #### Amendments
 
-1988—Pub. L. 100–233 inserted “, subject to the approval of the Board,” after “Chairman of the Board”.
+<b>1988</b>—Pub. L. 100–233 inserted “, subject to the approval of the Board,” after “Chairman of the Board”.
 
-1985—Pub. L. 99–205 substituted provisions respecting advisory committees for provisions respecting compliance by the Governor with orders of the Federal Farm Credit Board.
+<b>1985</b>—Pub. L. 99–205 substituted provisions respecting advisory committees for provisions respecting compliance by the Governor with orders of the Federal Farm Credit Board.
 
 #### Effective Date of 1985 Amendment
 

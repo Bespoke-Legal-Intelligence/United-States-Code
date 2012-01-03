@@ -10,6 +10,7 @@
 - [&sect; 01723 - Public Lands Corps program](%C2%A7%2001723%20-%20Public%20Lands%20Corps%20program.md)
 - [&sect; 01724 - Conservation centers and program support](%C2%A7%2001724%20-%20Conservation%20centers%20and%20program%20support.md)
 - [&sect; 01725 - Resource assistants](%C2%A7%2001725%20-%20Resource%20assistants.md)
+- [&sect; 01725a - Direct hire authority](%C2%A7%2001725a%20-%20Direct%20hire%20authority.md)
 - [&sect; 01726 - Living allowances and terms of service](%C2%A7%2001726%20-%20Living%20allowances%20and%20terms%20of%20service.md)
 - [&sect; 01727 - National service educational awards](%C2%A7%2001727%20-%20National%20service%20educational%20awards.md)
 - [&sect; 01728 - Nondisplacement](%C2%A7%2001728%20-%20Nondisplacement.md)

@@ -22,7 +22,7 @@
 
 &emsp;(ii) in the case of a permit, an area of the deep seabed—
 
-&emsp;&emsp;(I) in which hard mineral resources can be recovered in sufficient quantities to satisfy the permittee's estimated production requirements over the initial 20-year term of the permit in an efficient, economical, and orderly manner with due regard for conservation and protection of the environment, taking into consideration the resource data, other relevant physical and environmental characteristics, and the state of the technology of the applicant set out in the recovery plan;
+&emsp;&emsp;(I) in which hard mineral resources can be recovered in sufficient quantities to satisfythe permittee's estimated production requirements over the initial 20-year term of the permit in an efficient, economical, and orderly manner with due regard for conservation and protection of the environment, taking into consideration the resource data, other relevant physical and environmental characteristics, and the state of the technology of the applicant set out in the recovery plan;
 
 &emsp;&emsp;(II) which is not larger than is necessary to satisfy the permittee's estimated production requirements over the initial 20-year term of the permit; and
 
@@ -42,7 +42,7 @@ Before the Administrator may certify any application for issuance or transfer of
 
 &emsp;(3) the applicant has satisfactorily fulfilled all obligations under any license or permit previously issued or transferred to the applicant under this chapter; and
 
-&emsp;(4) the proposed exploration plan or recovery plan of the applicant meets the requirementsof this chapter and the regulations issued under this chapter.
+&emsp;(4) the proposed exploration plan or recovery plan of the applicant meets the requirements of this chapter and the regulations issued under this chapter.
 
 #### (d) Antitrust review
 

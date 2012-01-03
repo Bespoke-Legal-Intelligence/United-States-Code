@@ -66,7 +66,7 @@ Notwithstanding subsection (b):
 
 &emsp;&emsp;(A) the amount reserved under subsection (b)(2)(B) of this section for the first such subsequent fiscal year of becoming an eligible area is deemed to be reduced by an amount equal to the amount of the grant that, pursuant to section 300ff–13(a) of this title, was made under section 300ff–19(d)(2)(A) of this title for the metropolitan area for the preceding fiscal year; and
 
-&emsp;&emsp;(B) the amount reserved under subsection (b)(2)(A) for such fiscal year is deemed to beincreased by an amount equal to the amount of the reduction under subparagraph (A) for such year.
+&emsp;&emsp;(B) the amount reserved under subsection (b)(2)(A) for such fiscal year is deemed to be increased by an amount equal to the amount of the reduction under subparagraph (A) for such year.
 
 #### (d) Certain transfers; allocations between programs under subpart I
 
@@ -96,7 +96,7 @@ Subsec. (c)(2)(B). Pub. L. 111–87, §4(b), designated existing provisions as c
 
 #### Effective Date of 2009 Amendment; Revival of Section
 
-For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effective Sept. 30, 2009, that the provisions of this section as in effect on Sept. 30, 2009, be revived, and that amendment by sections 2(b) and 4(b) of Pub. L. 111–87 be applicable to this section as so revived and effective as if enacted on Sept. 30, 2009, see section 2(a)(2), (3) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
+For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effective Sept. 30, 2009, that the provisions of this section as in effect on Sept. 30, 2009, be revived, and that amendment by sections 2(b) and 4(b) of Pub. L. 111–87 be applicable to this section as so revived and effective as if enactedon Sept. 30, 2009, see section 2(a)(2), (3) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by “section”.</i>
 

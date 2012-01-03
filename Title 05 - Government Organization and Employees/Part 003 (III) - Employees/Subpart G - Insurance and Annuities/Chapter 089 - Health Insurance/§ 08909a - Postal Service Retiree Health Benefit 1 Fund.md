@@ -28,7 +28,7 @@
 
 &emsp;(iv) $5,500,000,000, not later than September 30, 2010;
 
-&emsp;(v) $5,500,000,000, not later than September 30, 2011;
+&emsp;(v) $5,500,000,000, not later than August 1, 2012;
 
 &emsp;(vi) $5,600,000,000, not later than September 30, 2012;
 
@@ -56,11 +56,15 @@
 
 (6) After consultation with the United States Postal Service, the Office shall promulgate any regulations the Office determines necessary under this subsection.
 
-(Added Pub. L. 109–435, title VIII, §803(a)(1)(B), Dec. 20, 2006, 120 Stat. 3251; amended Pub. L. 111–68, div. B, §164(a), Oct. 1, 2009, 123 Stat. 2053.)
+(Added Pub. L. 109–435, title VIII, §803(a)(1)(B), Dec. 20, 2006, 120 Stat. 3251; amended Pub. L. 111–68, div. B, §164(a), Oct. 1, 2009, 123 Stat. 2053; Pub. L. 112–33, §124, Sept. 30, 2011, 125 Stat. 366; Pub. L. 112–74, div. C, title VI, §632, Dec. 23, 2011, 125 Stat. 928.)
 
 #### Amendments
 
-2009—Subsec. (d)(3)(A)(iii). Pub. L. 111–68 amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “$5,400,000,000, not later than September 30, 2009;”.
+<b>2011</b>—Subsec. (d)(3)(A)(v). Pub. L. 112–74 substituted “August 1, 2012” for “October 4, 2011”. See below.
+
+Pub. L. 112–33 substituted “October 4, 2011”, which is the date specified in section 106(3) of Pub. L. 112–33, for “September 30, 2011”.
+
+<b>2009</b>—Subsec. (d)(3)(A)(iii). Pub. L. 111–68 amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “$5,400,000,000, not later than September 30, 2009;”.
 
 #### Effective Date of 2009 Amendment
 
@@ -84,7 +88,7 @@ Request for review.—Any regulation established under section 8909a(d)(5) of ti
 
 &emsp;“(B)
 
-Report.—Upon receiving a request under subparagraph (A), the Commission shall promptly procure the services of an actuary, who shall hold membership in the American Academy of Actuaries and shall be qualified in the evaluation of healthcare insurance obligations, to conduct a review in accordance with generally accepted actuarial practices and principles and to provide a report to the Commission containing the results of the review. The Commission, upon determining that the report satisfies the requirements of this paragraph, shall approve the report, with any comments it may choose to make, and submit it with any such comments to the Postal Service, the Office of Personnel Management, and Congress.
+Report.—Upon receiving a request under subparagraph (A), the Commission shall promptly procure the services of an actuary, who shall hold membership in the American Academy of Actuaries and shall be qualified in the evaluation of healthcare insurance obligations, to conduct a review in accordance with generally accepted actuarial practices and principles and to provide a report to the Commissioncontaining the results of the review. The Commission, upon determining that the report satisfies the requirements of this paragraph, shall approve the report, with any comments it may choose to make, and submit it with any such comments to the Postal Service, the Office of Personnel Management, and Congress.
 
 “(2)
 

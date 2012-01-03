@@ -96,7 +96,7 @@ A prior section 202 of Pub. L. 95–501 enacted section 1707c of this title prio
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–246, §3101(a)(1), struck out par. (1) designation and heading before “The Commodity” and struck out pars. (2) and (3) which related to supplier credits and extended supplier credits, respectively.
+<b>2008</b>—Subsec. (a). Pub. L. 110–246, §3101(a)(1), struck out par. (1) designation and heading before “The Commodity” and struck out pars. (2) and (3) which related to supplier credits and extended supplier credits, respectively.
 
 Subsec. (b). Pub. L. 110–246, §3101(a)(2), (3), redesignated subsec. (d) as (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “Subject to the provisions of subsection (c) of this section, the Commodity Credit Corporation may guarantee the repayment of credit made available by financial institutions in the United States to finance commercial export sales of agricultural commodities, including processed agricultural products and high-value agricultural products, from privately owned stocks on credit terms that are for not less than a 3-year period nor for more than a 10-year period in a manner that will directly benefit United States agricultural producers.”
 
@@ -114,13 +114,13 @@ Subsec. (g)(2). Pub. L. 110–246, §3101(c)(3), substituted “subsection (a)�
 
 Subsecs. (h) to (<i>l</i>). Pub. L. 110–246, §3101(a)(3), (4), redesignated subsecs. (j) to (<i>l</i>) as (h) to (j), respectively, and added subsec. (k). Former subsecs. (h) and (i) redesignated (f) and (g), respectively.
 
-2002—Subsec. (a)(3). Pub. L. 107–171, §3102(a), added par. (3).
+<b>2002</b>—Subsec. (a)(3). Pub. L. 107–171, §3102(a), added par. (3).
 
 Subsec. (k)(1). Pub. L. 107–171, §3102(b), substituted “through 2007” for “, 2001, and 2002”.
 
 Subsec. (<i>l</i>). Pub. L. 107–171, §3102(c), added subsec. (<i>l</i>).
 
-1996—Subsec. (a). Pub. L. 104–127, §243(a)(1), designated existing provisions as par. (1), inserted heading, and added par. (2).
+<b>1996</b>—Subsec. (a). Pub. L. 104–127, §243(a)(1), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 Subsec. (d)(3)(B). Pub. L. 104–127, §277(c)(3), substituted “emerging markets” for “emerging democracies”.
 
@@ -140,7 +140,7 @@ In general.—In issuing export credit guarantees under this section in connecti
 
 Limitation.—The 35 percent requirement of paragraph (1) shall apply for a fiscal year only to the extent that the percentage of the total amount of credit guarantees issued for that fiscal year under this section to promote the export to all countries of processed and high-value agricultural products is less than 25 percent.”
 
-1992—Subsecs. (a), (b). Pub. L. 102–511, §709(a)(1), inserted “, including processed agricultural products and high-value agricultural products,” after “agricultural commodities”.
+<b>1992</b>—Subsecs. (a), (b). Pub. L. 102–511, §709(a)(1), inserted “, including processed agricultural products and high-value agricultural products,” after “agricultural commodities”.
 
 Subsec. (c). Pub. L. 102–511, §708(a), inserted sentence at end.
 
@@ -148,7 +148,7 @@ Subsec. (d)(3). Pub. L. 102–511, §708(b), amended par. (3) generally. Prior t
 
 Subsec. (k). Pub. L. 102–511, §709(a)(2), added subsec. (k).
 
-1991—Subsec. (i). Pub. L. 102–237 substituted “issued by the Commodity Credit Corporation under this section if it is determined by the Corporation, at the time of the assignment, that” for “or proceeds payable under a credit guarantee issued by the Commodity Credit Corporation under this section if it is determined by the Corporation that”.
+<b>1991</b>—Subsec. (i). Pub. L. 102–237 substituted “issued by the Commodity Credit Corporation under this section if it is determined by the Corporation, at the time of the assignment, that” for “or proceeds payable under a credit guarantee issued by the Commodity Credit Corporation under this section if it is determined by the Corporation that”.
 
 #### Change of Name
 

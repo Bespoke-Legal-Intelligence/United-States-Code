@@ -12,9 +12,9 @@ The State shall serve prior written notice of any civil action under subsection 
 
 For purposes of bringing any civil action under subsection (a) of this section, nothing in this chapter shall prevent an attorney general from exercising the powers conferred on the attorney general by the laws of such State to conduct investigations or to administer oaths or affirmations or to compel the attendance of witnesses or the production of documentary and other evidence.
 
-#### (d) Actions by Commission
+#### (d) Actions by Commission or the Bureau of Consumer Financial Protection
 
-Whenever a civil action has been instituted by or on behalf of the Commission for violation of any rule prescribed under section 6102 of this title, no State may, during the pendency of such action instituted by or on behalf of the Commission, institute a civil action under subsection (a) or (f)(2) of this section against any defendant named in the complaint in such action for violation of any rule as alleged in such complaint.
+Whenever a civil action has been instituted by or on behalf of the Commission or the Bureau of Consumer Financial Protection for violation of any rule prescribed under section 6102 of this title, no State may, during the pendency of such action instituted by or on behalf of the Commission or the Bureau of Consumer Financial Protection, institute a civil action under subsection (a) or (f)(2) of this section against any defendant named in the complaint in such action for violation of any rule as alleged in such complaint.
 
 #### (e) Venue; service of process
 
@@ -28,13 +28,13 @@ Any civil action brought under subsection (a) of this section in a district cour
 
 (Pub. L. 103–297, §4, Aug. 16, 1994, 108 Stat. 1548; Pub. L. 111–203, title X, §1100C(b), July 21, 2010, 124 Stat. 2111.)
 
-#### Amendment of Subsection (d)
-
-<i>Pub. L. 111–203, title X, §§1100C(b), 1100H, July 21, 2010, 124 Stat. 2111, 2113, provided that, effective on the designated transfer date, subsection (d) of this section is amended by inserting after “Commission” each place that term appears the following: “or the Bureau of Consumer Financial Protection”. See Effective Date of 2010 Amendment note below.</i>
-
 #### References in Text
 
 This chapter, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 103–297, Aug. 16, 1994, 108 Stat. 1545, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
+
+#### Amendments
+
+<b>2010</b>—Subsec. (d). Pub. L. 111–203 inserted “or the Bureau of Consumer Financial Protection” after “Commission” wherever appearing.
 
 #### Effective Date of 2010 Amendment
 

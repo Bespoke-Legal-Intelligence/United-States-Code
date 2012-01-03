@@ -16,7 +16,7 @@ For purposes of the tax imposed by subsection (a), the value of the gross estate
 
 &emsp;&emsp;(B) the total value of the stock of such corporation,
 
-> then that proportion of the fair market value of the stock of such foreign corporation owned (within the meaning of section 958(a)) by such decedent at the time of his death, which the fair market value of any assets owned by such foreign corporation and situated in the United States, at the time of his death, bears to the total fair market value of all assets owned by such foreign corporation at the time of hisdeath, shall be included in the gross estate of such decedent. For purposes of the preceding sentence, a decedent shall be treated as owning stock of a foreign corporation at the time of his death if, at the time of a transfer, by trust or otherwise, within the meaning of sections 2035 to 2038, inclusive, he owned such stock.
+> then that proportion of the fair market value of the stock of such foreign corporation owned (within the meaning of section 958(a)) by such decedent at the time of his death, which the fair market value of any assets owned by such foreign corporation and situated in the United States, at the time of his death, bears to the total fair market value of all assets owned by such foreign corporation at the time of his death, shall be included in the gross estate of such decedent. For purposes of the preceding sentence, a decedent shall be treated as owning stock of a foreign corporation at the time of his death if, at the time of a transfer, by trust or otherwise, within the meaning of sections 2035 to 2038, inclusive, he owned such stock.
 
 #### (c) Credits
 
@@ -58,7 +58,7 @@ For purposes of the tax imposed by subsection (a), the value of the gross estate
 
 #### (d) Burden of proof
 
-If the Secretary establishes that it is reasonable to believe that an individual's loss of United States citizenship would, but for this section, result in a substantial reduction in the estate, inheritance, legacy, and succession taxes in respect of the transfer of his estate, the burden of proving that such loss of citizenship did not have for one of its principal purposes the avoidance of taxes under this subtitle or subtitle A shall be on the executor of such individual's estate.
+If the Secretary establishes that it is reasonable to believe that an individual's loss of United States citizenship would, but for this section, result in a substantial reduction in the estate, inheritance, legacy, and succession taxesin respect of the transfer of his estate, the burden of proving that such loss of citizenship did not have for one of its principal purposes the avoidance of taxes under this subtitle or subtitle A shall be on the executor of such individual's estate.
 
 #### (e) Cross reference
 
@@ -82,7 +82,7 @@ Subsec. (c)(2)(C). Pub. L. 105–34, §1602(g)(6)(B), amended heading and text o
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–191, §511(e)(1)(A), substituted “Treatment of expatriates” for “Rate of tax” in heading and amended text generally. Prior to amendment, text read as follows: “A tax computed in accordance with the table contained in section 2001 is hereby imposed on the transfer of the taxable estate, determined as provided in section 2106, of every decedent nonresident not a citizen of the United States dying after November 13, 1966, if after March 8, 1965, and within the 10-year period ending with the date of death such decedent lost United States citizenship, unless such loss did not have for one of its principal purposes the avoidance of taxes under this subtitle or subtitle A.”
 
-Subsec. (b)(2). Pub. L. 104–191, §511(e)(1)(C), substituted “more than 50 percent of—” for “more than 50percent of the total combined voting power of all classes of stock entitled to vote of such foreign corporation,” and added subpars. (A) and (B).
+Subsec. (b)(2). Pub. L. 104–191, §511(e)(1)(C), substituted “more than 50 percent of—” for “more than 50 percent of the total combined voting power of all classes of stock entitled to vote of such foreign corporation,” and added subpars. (A) and (B).
 
 Subsec. (c)(2), (3). Pub. L. 104–191, §511(e)(1)(B), added par. (2) and redesignated former par. (2) as (3).
 
@@ -126,5 +126,5 @@ Amendment by section 2001(c)(1)(E)(ii) of Pub. L. 94–455 applicable to estates
 
 #### Effective Date
 
-Section applicable with respect to estates of decedents dying after Nov. 13, 1966, see section 108(i) of Pub. L. 89–809, set out as an Effective Date of 1966 Amendment note under section 2101 of this title.
+Section applicable with respect to estates of decedents dying after Nov. 13, 1966, see section 108(i) of Pub.L. 89–809, set out as an Effective Date of 1966 Amendment note under section 2101 of this title.
 

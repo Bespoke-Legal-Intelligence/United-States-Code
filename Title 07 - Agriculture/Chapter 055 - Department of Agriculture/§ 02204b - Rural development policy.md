@@ -32,7 +32,7 @@ Cooperators.—Each cooperator, including each Federal agency, to the extent tha
 
 &emsp;(A) maximize the effectiveness, increase the responsiveness, and improve the delivery of Federal programs to rural areas;
 
-&emsp;(B) increase the coordination of Federal programs with the development needs, objectives,and resources of local communities, substate areas, States, and multistate regions; and
+&emsp;(B) increase the coordination of Federal programs with the development needs, objectives, and resources of local communities, substate areas, States, and multistate regions; and
 
 &emsp;(C) achieve the most effective combinations of Federal, State, and local resources to meet the needs of rural areas for orderly growth and development.
 
@@ -82,15 +82,15 @@ The Federal Advisory Committee Act, referred to in subsec. (b)(3), is Pub. L. 92
 
 #### Amendments
 
-1996—Subsec. (b)(4). Pub. L. 104–127 added par. (4) and struck out former par. (4) which read as follows: “The Secretary may undertake cooperative efforts with other Federal departments and agencies to improve the coordination and effectiveness of Federal programs, services, and actions affecting rural areas. The Secretary may request the heads of other Federal departments and agencies to participate in any working groups that the Secretary deems necessary to carry out the purposes of this section.”
+<b>1996</b>—Subsec. (b)(4). Pub. L. 104–127 added par. (4) and struck out former par. (4) which read as follows: “The Secretary may undertake cooperative efforts with other Federal departments and agencies to improve the coordination and effectiveness of Federal programs, services, and actions affecting rural areas. The Secretary may request the heads of other Federal departments and agencies to participate in any working groups that the Secretary deems necessary to carry out the purposes of this section.”
 
 #### Effective Date
 
-Section 10 of Pub. L. 96–355 provided that: “The provisions of this Act \[enacting this section and section 2211b of this title, amending sections 1926, 2204, 2204a, 2204b–1, 2663, and 2667 of this title and section 5314 of Title 5, Government Organization and Employees, and enacting provisions set out as a note under section 2201 of this title\] shall become effective October 1, 1980.”
+Section 10 of Pub. L. 96–355 provided that: “The provisions of this Act \[enacting this section and section2211b of this title, amending sections 1926, 2204, 2204a, 2204b–1, 2663, and 2667 of this title and section 5314 of Title 5, Government Organization and Employees, and enacting provisions set out as a note under section 2201 of this title\] shall become effective October 1, 1980.”
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsec. (c)(5) of this section relating to transmittalof rural development strategy annual updates to certain committees of Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 44 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in subsec. (c)(5) of this section relating to transmittal of rural development strategy annual updates to certain committees of Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 44 of House Document No. 103–7.
 
 #### Transfer of Functions
 
@@ -115,4 +115,98 @@ Section 762 of Pub. L. 104–127 provided that: “Not later than 1 year after t
 #### Executive Order No. 12720
 
 Ex. Ord. No. 12720, July 16, 1990, 55 F.R. 29337, as amended by Ex. Ord. No. 12783, Dec. 17, 1991, 56 F.R. 65977, which established the President's Council on Rural America, was revoked by Ex. Ord. No. 12869, §4(c), Sept. 30, 1993, 58 F.R. 51751, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
+#### Ex. Ord. No. 13575. Establishment of the White House Rural Council
+
+Ex. Ord. No. 13575, June 9, 2011, 76 F.R. 34841, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America and in order to enhance Federal engagement with rural communities, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. Sixteen percent of the American population lives in rural counties. Strong, sustainable rural communities are essential to winning the future and ensuring American competitiveness in the years ahead. These communities supply our food, fiber, and energy, safeguard our natural resources, and are essential in the development of science and innovation. Though rural communities face numerous challenges, they also present enormous economic potential. The Federal Government has an important role to play in order to expand access to the capital necessary for economic growth, promote innovation, improve access to health care and education, and expand outdoor recreational activities on public lands.
+
+To enhance the Federal Government's efforts to address the needs of rural America, this order establishes a council to better coordinate Federal programs and maximize the impact of Federal investment to promote economic prosperity and quality of life in our rural communities.
+
+Sec. 2. <i>Establishment</i>. There is established a White House Rural Council (Council).
+
+Sec. 3. <i>Membership</i>. (a) The Secretary of Agriculture shall serve as the Chair of the Council, which shall also include the heads of the following executive branch departments, agencies, and offices:
+
+(1) the Department of the Treasury;
+
+(2) the Department of Defense;
+
+(3) the Department of Justice;
+
+(4) the Department of the Interior;
+
+(5) the Department of Commerce;
+
+(6) the Department of Labor;
+
+(7) the Department of Health and Human Services;
+
+(8) the Department of Housing and Urban Development;
+
+(9) the Department of Transportation;
+
+(10) the Department of Energy;
+
+(11) the Department of Education;
+
+(12) the Department of Veterans Affairs;
+
+(13) the Department of Homeland Security;
+
+(14) the Environmental Protection Agency;
+
+(15) the Federal Communications Commission;
+
+(16) the Office of Management and Budget;
+
+(17) the Office of Science and Technology Policy;
+
+(18) the Office of National Drug Control Policy;
+
+(19) the Council of Economic Advisers;
+
+(20) the Domestic Policy Council;
+
+(21) the National Economic Council;
+
+(22) the Small Business Administration;
+
+(23) the Council on Environmental Quality;
+
+(24) the White House Office of Public Engagement and Intergovernmental Affairs;
+
+(25) the White House Office of Cabinet Affairs; and such other executive branch departments, agencies, and offices as the President or the Secretary of Agriculture may, from time to time, designate.
+
+(b) A member of the Council may designate, to perform the Council functions of the member, a senior-level official who is part of the member's department, agency, or office, and who is a full-time officer or employee of the Federal Government.
+
+(c) The Department of Agriculture shall provide funding and administrative support for the Council to the extent permitted by law and within existing appropriations.
+
+(d) The Council shall coordinate its policy development through the Domestic Policy Council and the National Economic Council.
+
+Sec. 4. <i>Mission and Function of the Council</i>. The Council shall work across executive departments, agencies, and offices to coordinate development of policy recommendations to promote economic prosperity and quality of life in rural America, and shall coordinate my Administration's engagement with rural communities. The Council shall:
+
+(a) make recommendations to the President, through the Director of the Domestic Policy Council and the Director of the National Economic Council, on streamlining and leveraging Federal investments in rural areas, where appropriate, to increase the impact of Federal dollars and create economic opportunities to improve the quality of life in rural America;
+
+(b) coordinate and increase the effectiveness of Federal engagement with rural stakeholders, including agricultural organizations, small businesses, education and training institutions, health-care providers, telecommunications services providers, research and land grant institutions, law enforcement, State, local, and tribal governments, and nongovernmental organizations regarding the needs of rural America;
+
+(c) coordinate Federal efforts directed toward the growth and development of geographic regions that encompass both urban and rural areas; and
+
+(d) identify and facilitate rural economic opportunities associated with energy development, outdoor recreation, and other conservation related activities.
+
+Sec. 5. <i>General Provisions</i>. (a) The heads of executive departments and agencies shall assist and provide information to the Council, consistent with applicable law, as may be necessary to carry out the functions of the Council. Each executive department and agency shall bear its own expense for participating in the Council.
+
+(b) Nothing in this order shall be construed to impair or otherwise affect:
+
+&emsp;(i) authority granted by law to an executive department, agency, or the head thereof; or
+
+&emsp;(ii) functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(c) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(d) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

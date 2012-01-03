@@ -8,7 +8,7 @@ In this chapter:
 
 #### (2) Counterinsurgency
 
-&emsp;The term “counterinsurgency” means efforts to defeat organized movements that seekto overthrow the duly constituted Governments of Pakistan and Afghanistan through violent means.
+&emsp;The term “counterinsurgency” means efforts to defeat organized movements that seek to overthrow the duly constituted Governments of Pakistan and Afghanistan through violent means.
 
 #### (3) Counterterrorism
 

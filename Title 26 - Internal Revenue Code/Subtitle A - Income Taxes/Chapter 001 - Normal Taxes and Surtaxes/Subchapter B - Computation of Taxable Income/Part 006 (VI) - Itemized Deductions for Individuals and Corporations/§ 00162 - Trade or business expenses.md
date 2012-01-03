@@ -72,7 +72,7 @@ For purposes of this subtitle, whenever the amount of capital contributions evid
 
 #### (A) In general
 
-&emsp;&emsp;The term “influencing legislation” means any attempt to influence any legislationthrough communication with any member or employee of a legislative body, or with any government official or employee who may participate in the formulation of legislation.
+&emsp;&emsp;The term “influencing legislation” means any attempt to influence any legislation through communication with any member or employee of a legislative body, or with any government official or employee who may participate in the formulation of legislation.
 
 #### (B) Legislation
 
@@ -148,7 +148,7 @@ If in a criminal proceeding a taxpayer is convicted of a violation of the antitr
 
 &emsp;&emsp;&emsp;(i) the amount generally allowable with respect to such day to employees of the State of which he is a legislator for per diem while away from home, to the extent such amount does not exceed 110 percent of the amount described in clause (ii) with respect to such day, or
 
-&emsp;&emsp;&emsp;(ii) the amount generally allowable with respect to such day to employees of the executive branch of the Federal Governmentfor per diem while away from home but serving in the United States, and
+&emsp;&emsp;&emsp;(ii) the amount generally allowable with respect to such day to employees of the executive branch of the Federal Government for per diem while away from home but serving in the United States, and
 
 &emsp;&emsp;(C) he shall be deemed to be away from home in the pursuit of a trade or business on each legislative day.
 
@@ -174,7 +174,7 @@ If in a criminal proceeding a taxpayer is convicted of a violation of the antitr
 
 #### (1) In general
 
-&emsp;No deduction shall be allowed under subsection (a) for any expenses of an advertisement carried by a foreign broadcast undertaking and directed primarily to a market in the United States. This paragraph shall apply only to foreign broadcast undertakings located in a country which denies a similar deduction for the cost of advertising directed primarily to a market in the foreign country when placed with a United States broadcast undertaking.
+&emsp;No deduction shall be allowed under subsection (a) for any expenses of an advertisement carried by a foreign broadcast undertaking and directed primarily to a market inthe United States. This paragraph shall apply only to foreign broadcast undertakings located in a country which denies a similar deduction for the cost of advertising directed primarily to a market in the foreign country when placed with a United States broadcast undertaking.
 
 #### (2) Broadcast undertaking
 
@@ -238,7 +238,7 @@ If in a criminal proceeding a taxpayer is convicted of a violation of the antitr
 
 #### (3) Coordination with medical deduction
 
-&emsp;Any amount paid by a taxpayer for insurance to which paragraph (1) applies shall not be taken into account in computing theamount allowable to the taxpayer as a deduction under section 213(a).
+&emsp;Any amount paid by a taxpayer for insurance to which paragraph (1) applies shall not be taken into account in computing the amount allowable to the taxpayer as a deduction under section 213(a).
 
 #### (4) Deduction not allowed for self-employment tax purposes
 
@@ -334,7 +334,7 @@ If in a criminal proceeding a taxpayer is convicted of a violation of the antitr
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), the term “applicable employer” means any employer from whom 1 or more troubled assets are acquired under a program established by the Secretary under section 101(a) of the Emergency Economic Stabilization Act of 2008 if the aggregate amount of the assets so acquired for all taxable years exceeds $300,000,000.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), the term “applicable employer” means any employer from whom 1 or more troubledassets are acquired under a program established by the Secretary under section 101(a) of the Emergency Economic Stabilization Act of 2008 if the aggregate amount of the assets so acquired for all taxable years exceeds $300,000,000.
 
 #### (ii) Disregard of certain assets sold through direct purchase
 
@@ -402,7 +402,7 @@ If in a criminal proceeding a taxpayer is convicted of a violation of the antitr
 
 &emsp;&emsp;No deduction shall be allowed under this chapter—
 
-&emsp;&emsp;&emsp;(i) in the case of applicable individual remuneration which is for any disqualified taxable year beginning after December 31, 2012, and which is attributable to services performed by an applicable individual during such taxable year, to the extent that the amount of such remuneration exceeds $500,000, or
+&emsp;&emsp;&emsp;(i) in the case of applicable individual remuneration which is for any disqualified taxable year beginning after December 31,2012, and which is attributable to services performed by an applicable individual during such taxable year, to the extent that the amount of such remuneration exceeds $500,000, or
 
 &emsp;&emsp;&emsp;(ii) in the case of deferred deduction remuneration for any taxable year beginning after December 31, 2012, which is attributable to services performed by an applicable individual during any disqualified taxable year beginning after December 31, 2009, to the extent that the amount of such remuneration exceeds $500,000 reduced (but not below zero) by the sum of—
 
@@ -440,7 +440,7 @@ If in a criminal proceeding a taxpayer is convicted of a violation of the antitr
 
 #### (F) Applicable individual
 
-&emsp;&emsp;For purposes of this paragraph, the term “applicable individual” means, with respect to any covered health insurance provider forany disqualified taxable year, any individual—
+&emsp;&emsp;For purposes of this paragraph, the term “applicable individual” means, with respect to any covered health insurance provider for any disqualified taxable year, any individual—
 
 &emsp;&emsp;&emsp;(i) who is an officer, director, or employee in such taxable year, or
 
@@ -464,7 +464,7 @@ If in a criminal proceeding a taxpayer is convicted of a violation of the antitr
 
 &emsp;&emsp;(B) in the case of any reimbursement through a health maintenance organization, at the same rate as health maintenance organizations are required to reimburse hospitals for such services for individuals not covered by such a plan (determined without regard to any government-supported individuals exempt from such rate), or
 
-&emsp;&emsp;(C) in the case of any reimbursement through any corporation organized under Article 43 of the New York State Insurance Law, at the same rate as any such corporation is required to reimburse hospitals for such services for individuals not covered by such a plan.
+&emsp;&emsp;(C) in the case of any reimbursement through any corporation organized under Article 43 of the New York State Insurance Law, at the same rate as any such corporation is required to reimburse hospitals forsuch services for individuals not covered by such a plan.
 
 #### (2) State law exception
 
@@ -508,17 +508,13 @@ For purposes of subsection (a)(2), in the case of an individual who performs ser
 
 &emsp;&emsp;&emsp;<b>(B) deferred compensation and other deferred benefits, see section 404.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 45; Pub. L. 85–866, title I, §5(a), Sept. 2, 1958, 72 Stat. 1608; Pub. L.86–779, §§7(b), 8(a), Sept. 14, 1960, 74 Stat. 1002, 1003; Pub. L. 87–834, §§3(a), 4(b), Oct. 16, 1962, 76 Stat. 973, 976; Pub. L. 91–172, title V, §516(c)(2)(A), title IX, §902(a), (b), Dec. 30, 1969, 83 Stat. 648, 710; Pub. L. 92–178, title III, §310(a), Dec. 10, 1971, 85 Stat. 525; Pub. L. 94–455, title XIX, §§1901(c)(4), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1803, 1834; Pub. L. 97–34, title I, §127(a), Aug. 13, 1981, 95 Stat. 202; Pub. L. 97–35, title XXI, §2146(b), Aug. 13, 1981, 95 Stat. 801; Pub. L. 97–51, §139(b)(1), Oct. 1, 1981, 95 Stat. 967; Pub. L. 97–216, title II, §215(a), July 18, 1982, 96 Stat. 194; Pub. L. 97–248, title I, §128(b), title II, §288(a), Sept. 3, 1982, 96 Stat. 366, 571; Pub. L. 98–369, div. A, title V, §512(b), div. B, title III, §2354(d), July 18, 1984, 98 Stat. 863, 1102; Pub. L. 98–573, title II, §232(a), Oct. 30, 1984, 98 Stat. 2991; Pub. L. 99–272, title X, §10001(a), (c), (d), Apr. 7, 1986, 100 Stat. 222, 223, 227; Pub. L. 99–509, title IX, §§9307(c)(2)(B), 9501(a)(1), (b)(1)(A), (2)(A), (c)(1), (d)(1), Oct. 21, 1986, 100 Stat. 1995, 2075–2077; Pub. L. 99–514, title VI, §613(a), title XI, §1161(a), title XVIII, §1895(d)(1)(A), (2)(A), (3)(A), (4)(A), (5)(A), (6)(A), (7), Oct. 22, 1986, 100 Stat. 2251, 2509, 2936–2940; Pub. L. 100–647, title I, §§1011B(b)(1)–(3), 1018(t)(7)(B), title III, §3011(b)(2), (3), Nov. 10, 1988, 102 Stat. 3488, 3589, 3624, 3625; Pub. L. 101–140, title II, §203(a)(4), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title VI, §6202(b)(3)(A), title VII, §§7107(a)(1), (b), 7862(c)(3)(A), Dec. 19, 1989, 103 Stat. 2233, 2306, 2432; Pub. L. 101–508, title XI, §§11111(d)(2), 11410(a), Nov. 5, 1990, 104 Stat. 1388–413, 1388–479; Pub. L. 102–227, title I, §110(a)(1), Dec. 11, 1991, 105 Stat. 1688; Pub. L. 102–486, title XIX, §1938(a), Oct. 24, 1992, 106 Stat. 3033; Pub. L. 103–66, title XIII, §§13131(d)(2), 13174(a)(1), (b)(1), 13211(a), 13222(a), 13442(a), Aug. 10, 1993, 107 Stat. 435, 457, 469, 477, 568; Pub. L. 104–7, §1(a), (b), Apr. 11, 1995, 109 Stat. 93; Pub. L. 104–188, title I, §1704(p)(1)–(3), Aug. 20, 1996, 110 Stat. 1886; Pub. L. 104–191, title III, §§311(a), 322(b)(2)(B), Aug. 21, 1996, 110 Stat. 2053, 2060; Pub. L. 105–34, title IX, §934(a), title XII, §§1203(a), 1204(a), title XVI, §1602(c), Aug. 5, 1997, 111 Stat. 882, 994, 995, 1094; Pub. L. 105–206, title VI, §6012(a), July 22, 1998, 112 Stat. 818; Pub. L. 105–277, div. J, title II, §2002(a), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 108–121, title I, §109(a), Nov. 11, 2003, 117 Stat. 1341; Pub. L. 108–357, title III, §318(a), (b), title VIII, §802(b)(2), Oct. 22, 2004, 118 Stat. 1470, 1568; Pub. L. 110–343, div. A, title III, §302(a), Oct. 3, 2008, 122 Stat. 3803; Pub. L. 111–148, title IX, §9014(a), title X, §10108(g)(1), Mar. 23, 2010, 124 Stat. 868, 913; Pub. L. 111–152, title I, §1004(d)(2), (3), Mar. 30, 2010, 124 Stat. 1035; Pub. L. 111–240, title II, §2042(a), Sept. 27, 2010, 124 Stat. 2560.)
-
-#### Amendment of Subsection (a)
-
-<i>Pub. L. 111–148, title X, §10108(g), Mar. 23, 2010, 124 Stat. 913, provided that, applicable to vouchers provided after Dec. 31, 2013, subsection (a) of this section is amended by adding at the end “For purposes of paragraph (1), the amount of a free choice voucher provided under section 10108 of the Patient Protection and Affordable Care Act shall be treated as an amount for compensation for personal services actually rendered.”</i>
+(Aug. 16, 1954, ch. 736, 68A Stat. 45; Pub. L. 85–866, title I, §5(a), Sept. 2, 1958, 72 Stat. 1608; Pub. L. 86–779, §§7(b), 8(a), Sept. 14, 1960, 74 Stat. 1002, 1003; Pub. L. 87–834, §§3(a), 4(b), Oct. 16, 1962, 76 Stat. 973, 976; Pub. L. 91–172, title V, §516(c)(2)(A), title IX, §902(a), (b), Dec. 30, 1969, 83 Stat. 648, 710; Pub. L. 92–178, title III, §310(a), Dec. 10, 1971, 85 Stat. 525; Pub. L. 94–455, title XIX, §§1901(c)(4), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1803, 1834; Pub. L. 97–34, title I, §127(a), Aug. 13, 1981, 95 Stat. 202; Pub. L. 97–35, title XXI, §2146(b), Aug. 13, 1981, 95 Stat. 801; Pub. L. 97–51, §139(b)(1), Oct. 1, 1981, 95 Stat. 967; Pub. L. 97–216, title II, §215(a), July 18, 1982, 96 Stat. 194; Pub. L. 97–248, title I, §128(b), title II, §288(a), Sept. 3, 1982, 96 Stat. 366, 571; Pub. L. 98–369, div. A, title V, §512(b), div. B, title III, §2354(d), July 18, 1984, 98 Stat. 863, 1102; Pub. L. 98–573, title II, §232(a), Oct. 30, 1984, 98 Stat. 2991; Pub. L. 99–272, title X, §10001(a), (c), (d), Apr. 7, 1986, 100 Stat. 222, 223, 227; Pub. L. 99–509, title IX, §§9307(c)(2)(B), 9501(a)(1), (b)(1)(A), (2)(A), (c)(1), (d)(1), Oct. 21, 1986, 100 Stat. 1995, 2075–2077; Pub. L. 99–514, title VI, §613(a), title XI, §1161(a), title XVIII, §1895(d)(1)(A), (2)(A), (3)(A), (4)(A), (5)(A), (6)(A), (7), Oct. 22, 1986, 100 Stat. 2251, 2509, 2936–2940; Pub. L. 100–647, title I, §§1011B(b)(1)–(3), 1018(t)(7)(B), title III, §3011(b)(2), (3), Nov. 10, 1988, 102 Stat. 3488, 3589, 3624, 3625; Pub. L. 101–140, title II, §203(a)(4), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title VI, §6202(b)(3)(A), title VII, §§7107(a)(1), (b), 7862(c)(3)(A), Dec. 19, 1989, 103 Stat. 2233, 2306, 2432; Pub. L. 101–508, title XI, §§11111(d)(2), 11410(a), Nov. 5, 1990, 104 Stat. 1388–413, 1388–479; Pub. L. 102–227, title I, §110(a)(1), Dec. 11, 1991, 105 Stat. 1688; Pub. L. 102–486, title XIX, §1938(a), Oct. 24, 1992, 106 Stat. 3033; Pub. L. 103–66, title XIII, §§13131(d)(2), 13174(a)(1), (b)(1), 13211(a), 13222(a), 13442(a), Aug. 10, 1993, 107 Stat. 435, 457, 469, 477, 568; Pub. L. 104–7, §1(a), (b), Apr. 11, 1995, 109 Stat. 93; Pub. L. 104–188, title I, §1704(p)(1)–(3), Aug. 20, 1996, 110 Stat. 1886; Pub. L. 104–191, title III, §§311(a), 322(b)(2)(B), Aug. 21, 1996, 110 Stat. 2053, 2060; Pub. L. 105–34, title IX, §934(a), title XII, §§1203(a), 1204(a), title XVI, §1602(c), Aug. 5, 1997, 111 Stat. 882, 994, 995, 1094;Pub. L. 105–206, title VI, §6012(a), July 22, 1998, 112 Stat. 818; Pub. L. 105–277, div. J, title II, §2002(a), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 108–121, title I, §109(a), Nov. 11, 2003, 117 Stat. 1341; Pub. L. 108–357, title III, §318(a), (b), title VIII, §802(b)(2), Oct. 22, 2004, 118 Stat. 1470, 1568; Pub. L. 110–343, div. A, title III, §302(a), Oct. 3, 2008, 122 Stat. 3803; Pub. L. 111–148, title IX, §9014(a), title X, §10108(g)(1), Mar. 23, 2010, 124 Stat. 868, 913; Pub. L. 111–152, title I, §1004(d)(2), (3), Mar. 30, 2010, 124 Stat. 1035; Pub. L. 111–240, title II, §2042(a), Sept. 27, 2010, 124 Stat. 2560; Pub. L. 112–10, div. B, title VIII, §1858(b)(3), Apr. 15, 2011, 125 Stat. 169.)
 
 #### References in Text
 
-The Foreign Corrupt Practices Act of 1977, referred to in subsec. (c)(1), is title I of Pub. L. 95–213, Dec. 19, 1977, 91 Stat. 1494, as amended, which enacted sections 78dd–1 to 78dd–3 of Title 15, Commerce and Trade, and amended sections 78m and 78ff of Title 15. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 78a of Title 15 and Tables.
+The Foreign Corrupt Practices Act of 1977, referred to in subsec. (c)(1), is title I of Pub. L. 95–213, Dec. 19, 1977, 91 Stat. 1494, which enacted sections 78dd–1 to 78dd–3 of Title 15, Commerce and Trade, and amended sections 78m and 78ff of Title 15. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 78a of Title 15 and Tables.
 
-The Social Security Act, referred to in subsec. (c)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (c)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Section 4 of the Clayton Act, referred to in subsec. (g)(1), is classified to section 15 of Title 15, Commerce and Trade.
 
@@ -528,7 +524,11 @@ The Emergency Economic Stabilization Act of 2008, referred to in subsec. (m)(5),
 
 #### Amendments
 
-<b>2010</b>—Subsec. (<i>l</i>)(1). Pub. L. 111–152, §1004(d)(2), amended par. (1) generally. Prior to amendment, par. (1) authorized a deduction in an amount equal to the applicable percentage of the amount paid during the taxable year for insurance which constitutes medical care for the taxpayer, his spouse, and dependents.
+<b>2011</b>—Subsec. (a). Pub. L. 112–10 struck out last sentence in concluding provisions which read as follows: “For purposes of paragraph (1), the amount of a free choice voucher provided under section 10108 of the Patient Protection and Affordable Care Act shall be treated as an amount for compensation for personal services actually rendered.”
+
+<b>2010</b>—Subsec. (a). Pub. L. 111–148, §10108(g)(1), inserted at end of concluding provisions “For purposes of paragraph (1), the amount of a free choice voucher provided under section 10108 of the Patient Protection and Affordable Care Act shall be treated as an amount for compensation for personal services actually rendered.”
+
+Subsec. (<i>l</i>)(1). Pub. L. 111–152, §1004(d)(2), amended par. (1) generally. Prior to amendment, par. (1) authorized a deduction in an amount equal to the applicable percentage of the amount paid during the taxable year for insurance which constitutes medical care for the taxpayer, his spouse, and dependents.
 
 Subsec. (<i>l</i>)(2)(B). Pub. L. 111–152, §1004(d)(3), inserted “, or any dependent, or individual described in subparagraph (D) of paragraph (1) with respect to,” after “spouse of” in introductory provisions.
 
@@ -558,7 +558,7 @@ Subsec. (<i>l</i>)(1)(B). Pub. L. 105–277 amended table in subpar. (B) general
 | &nbsp;&nbsp;&nbsp;1998 and 1999 | 45&nbsp; |
 | &nbsp;&nbsp;&nbsp;2000 and 2001 | 50&nbsp; |
 | &nbsp;&nbsp;&nbsp;2002 | 60&nbsp; |
-| &nbsp;&nbsp;&nbsp;2003 through 2005 | 80  |
+| &nbsp;&nbsp;&nbsp;2003 through 2005 | 80&nbsp; |
 | &nbsp;&nbsp;&nbsp;2006 | 90&nbsp; |
 | &nbsp;&nbsp;&nbsp;2007 and thereafter | 100\.” |
 
@@ -657,7 +657,7 @@ Subsec. (<i>l</i>)(6). Pub. L. 101–239, §7107(b), redesignated former par. (5
 
 Subsec. (k). Pub. L. 100–647, §3011(b)(3), redesignated subsec. (<i>l</i>), relating to stock redemption expenses, as (k) and struck out former subsec. (k) which related to continuation coverage requirements of group health plans.
 
-Subsec. (k)(5)(B). Pub. L. 100–647, §1018(t)(7)(B), made amendment identical to Pub. L. 99–509, §9307(c)(2)(B),which amended directory language of Pub. L. 99–514, §1895(d)(5)(A), by substituting “section 162(k)(5)” for “section 162(k)(2)”. See 1986 Amendment note below.
+Subsec. (k)(5)(B). Pub. L. 100–647, §1018(t)(7)(B), made amendment identical to Pub. L. 99–509, §9307(c)(2)(B), which amended directory language of Pub. L. 99–514, §1895(d)(5)(A), by substituting “section 162(k)(5)” for “section 162(k)(2)”. See 1986 Amendment note below.
 
 Subsec . (<i>l</i>). Pub. L. 100–647, §3011(b)(3)(A), (B), redesignated subsec. (m), relating to special rules for health insurance costs of self-employed individuals, as (<i>l</i>). Former subsec. (<i>l</i>), relating to stock redemption expenses, redesignated (k).
 
@@ -777,6 +777,10 @@ Subsecs. (d), (e). Pub. L. 86–779, §8(a), added subsec. (d) and redesignated 
 
 <b>1958</b>—Subsecs. (c), (d). Pub. L. 85–866, §5(a), added subsec. (c) and redesignated former subsec. (c) as (d).
 
+#### Effective Date of 2011 Amendment
+
+Amendment by Pub. L. 112–10 effective as if included in the provisions of, and the amendments made by, the provisions of Pub. L. 111–148 to which it relates, see section 1858(d) of Pub. L. 112–10, set out as a note under section 36B of this title.
+
 #### Effective Date of 2010 Amendment
 
 Pub. L. 111–240, title II, §2042(b), Sept. 27, 2010, 124 Stat. 2560, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2009.”
@@ -867,7 +871,7 @@ Section 110(b) of Pub. L. 102–227 provided that: “The amendment made by this
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 11111(d)(2) of Pub. L. 101–508 applicable to taxable years beginning after Dec. 31, 1990, see section 11111(f) of Pub. L. 101–508, set out as a note under section 32 of this title.
+Amendment by section 11111(d)(2) of Pub. L. 101–508 applicable to taxable years beginning after Dec. 31,1990, see section 11111(f) of Pub. L. 101–508, set out as a note under section 32 of this title.
 
 Section 11410(c) of Pub. L. 101–508 provided that: “The amendments made by this section \[amending this section and repealing provisions set out below\] shall apply to taxable years beginning after December 31, 1989.”
 
@@ -923,7 +927,7 @@ In general.—The amendments made by this section \[amending this section and se
 
 “(2)
 
-Treatment of certain bankruptcy proceedings.—Notwithstanding paragraph (1), section 10001(e) of the Consolidated Omnibus Budget Reconciliation Act of 1985 \[set out as a note under section 106 of thistitle\], and section 10002(d) of such Act \[set out as a note under section 1161 of Title 29\], the amendments made by this section \[amending this section and sections 1162, 1163, 1166, and 1167 of Title 29\] and by sections 10001 and 10002 of such Act \[enacting sections 1161 to 1168 of Title 29, amending this section, section 106 of this title, and section 1132 of Title 29, and enacting provisions set out as notes under section 106 of this title and sections 1161 and 1166 of Title 29\] shall apply in the case of plan years ending during the 12-month period beginning July 1, 1986, but only with respect to—
+Treatment of certain bankruptcy proceedings.—Notwithstanding paragraph (1), section 10001(e) of the Consolidated Omnibus Budget Reconciliation Act of 1985 \[set out as a note under section 106 of this title\], and section 10002(d) of such Act \[set out as a note under section 1161 of Title 29\], the amendments made by this section \[amending this section and sections 1162, 1163, 1166, and 1167 of Title 29\] and by sections 10001 and 10002 of such Act \[enacting sections 1161 to 1168 of Title 29, amending this section, section 106 of this title, and section 1132 of Title 29, and enacting provisions set out as notes under section 106 of this title and sections 1161 and 1166 of Title 29\] shall apply in the case of plan years ending during the 12-month period beginning July 1, 1986, but only with respect to—
 
 &emsp;“(A) a qualifying event described in section 162(k)(3)(F) of the Internal Revenue Code of 1986 or section 603(6) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1163(6)\], and
 
@@ -1047,7 +1051,7 @@ No deductions to be allowed in computing taxable income for two-thirds of any am
 
 #### Deductibility of Accrued Vacation Pay
 
-Section 97 of Pub. L. 85–866, as amended by Pub. L. 86–496, §2, June 8, 1960, 74 Stat. 164; Pub. L. 88–153, Oct.17, 1963, 77 Stat. 272; Pub. L. 88–554, §1, Aug. 31, 1964, 78 Stat. 761; Pub. L. 89–692, Oct. 15, 1966, 80 Stat. 1025; Pub. L. 91–172, title IX, §903, Dec. 30, 1969, 83 Stat. 711; Pub. L. 92–580, §3, Oct. 27, 1972, 86 Stat. 1276, provided that deductions for accrued vacation pay under this section would not be denied for any taxable year ending before Jan. 1, 1973, so long as the employee at the time of accrual of pay has performed the necessary qualifying service under an appropriate plan.
+Section 97 of Pub. L. 85–866, as amended by Pub. L. 86–496, §2, June 8, 1960, 74 Stat. 164; Pub. L. 88–153, Oct. 17, 1963, 77 Stat. 272; Pub. L. 88–554, §1, Aug. 31, 1964, 78 Stat. 761; Pub. L. 89–692, Oct. 15, 1966, 80 Stat. 1025; Pub. L. 91–172, title IX, §903, Dec. 30, 1969, 83 Stat. 711; Pub. L. 92–580, §3, Oct. 27, 1972, 86 Stat. 1276, provided that deductions for accrued vacation pay under this section would not be denied for any taxable year ending before Jan. 1, 1973, so long as the employee at the time of accrual of pay has performed the necessary qualifying service under an appropriate plan.
 
 #### Investigation of, and Reports on, Treatment of Entertainment and Certain Other Expenses
 

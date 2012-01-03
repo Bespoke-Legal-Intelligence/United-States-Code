@@ -16,7 +16,7 @@ Upon the request of the Secretary of Agriculture, each Federal agency may make i
 
 #### Amendments
 
-1978—Subsecs. (a), (b). Pub. L. 95–501, §301(4), substituted “this subchapter” for “this chapter”.
+<b>1978</b>—Subsecs. (a), (b). Pub. L. 95–501, §301(4), substituted “this subchapter” for “this chapter”.
 
 Subsec. (c). Pub. L. 95–501, §301(6), added subsec. (c).
 

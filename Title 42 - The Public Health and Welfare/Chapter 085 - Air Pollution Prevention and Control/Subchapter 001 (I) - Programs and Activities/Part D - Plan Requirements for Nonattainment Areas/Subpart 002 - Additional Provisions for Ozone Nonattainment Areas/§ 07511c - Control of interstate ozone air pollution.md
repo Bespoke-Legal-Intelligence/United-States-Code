@@ -12,7 +12,7 @@ A single transport region for ozone (within the meaning of section 7506a(a) of t
 
 &emsp;(B) implementation of reasonably available control technology with respect to all sources of volatile organic compounds in the State covered by a control techniques guideline issued before or after November 15, 1990.
 
-(2) Within 3 years after November 15, 1990, the Administrator shall complete a study identifying control measures capable of achieving emission reductions comparable to those achievable through vehicle refueling controls contained in section 7511a(b)(3) of this title, and such measures or such vehicle refueling controls shall be implemented in accordance with the provisions of this section. Notwithstanding other deadlines in this section, the applicable implementation plan shall be revised to reflect such measures within 1 year of completion of the study. For purposes of this section any stationary source that emits or has the potential to emit at least 50 tons per year of volatile organic compounds shall be considered a major stationary source and subject to the requirements which would be applicable to major stationary sources if the area were classified as a Moderate nonattainment area.
+(2) Within 3 years after November 15, 1990, the Administrator shall complete a study identifying control measures capable of achieving emission reductions comparable to those achievable through vehicle refueling controls contained in section 7511a(b)(3) of this title, and such measures or such vehicle refueling controls shall be implemented in accordance with the provisions of this section. Notwithstanding other deadlines in this section, the applicable implementation plan shall be revised to reflect such measures within 1 year of completion of the study. For purposes of this section any stationary source that emits or has the potential to emit at least50 tons per year of volatile organic compounds shall be considered a major stationary source and subject to the requirements which would be applicable to major stationary sources if the area were classified as a Moderate nonattainment area.
 
 #### (c) Additional control measures
 
@@ -38,7 +38,7 @@ A single transport region for ozone (within the meaning of section 7506a(a) of t
 
 &emsp;&emsp;(i) why any disapproved additional control measures are not necessary to bring any area in such region into attainment by the dates provided by this subpart or are otherwise not consistent with the <sup>2</sup> chapter; and
 
-&emsp;&emsp;(ii) recommendations concerning equal or more effective actions that could be takenby the commission to conform the disapproved portion of the recommendations to the requirements of this section.
+&emsp;&emsp;(ii) recommendations concerning equal or more effective actions that could be taken by the commission to conform the disapproved portion of the recommendations to the requirements of this section.
 
 #### (5) Finding
 

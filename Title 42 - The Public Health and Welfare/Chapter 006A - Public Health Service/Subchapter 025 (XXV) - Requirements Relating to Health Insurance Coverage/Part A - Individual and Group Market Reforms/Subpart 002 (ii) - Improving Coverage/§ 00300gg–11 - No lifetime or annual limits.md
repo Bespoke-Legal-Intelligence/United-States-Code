@@ -22,7 +22,7 @@ Subsection (a) shall not be construed to prevent a group health plan or health i
 
 #### Prior Provisions
 
-A prior section 300gg–11, act July 1, 1944, ch. 373, title XXVII, §2711, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1962, was renumbered section 2731 of act July 1, 1944, amended, and transferred to subsecs. (c) and (d) of section 300gg–1 of this title, by Pub. L. 111–148, title I, §§1001(3), 1563(c)(8), formerly §1562(c)(8), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 266, 911. Prior to amendment and transfer by Pub. L. 111–148, text of section 300gg–11 read as follows:
+A prior section 300gg–11, act July 1, 1944, ch. 373, title XXVII, §2711, as added Pub. L. 104–191, title I, §102(a),Aug. 21, 1996, 110 Stat. 1962, was renumbered section 2731 of act July 1, 1944, amended, and transferred to subsecs. (c) and (d) of section 300gg–1 of this title, by Pub. L. 111–148, title I, §§1001(3), 1563(c)(8), formerly §1562(c)(8), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 266, 911. Prior to amendment and transfer by Pub. L. 111–148, text of section 300gg–11 read as follows:
 
 “(a)
 
@@ -96,7 +96,7 @@ In general.—A health insurance issuer may deny health insurance coverage in th
 
 &emsp;&emsp;“(A) it does not have the financial reserves necessary to underwrite additional coverage; and
 
-&emsp;&emsp;“(B) it is applying this paragraph uniformly to all employers in the small group market in the Stateconsistent with applicable State law and without regard to the claims experience of those employers and their employees (and their dependents) or any health status-related factor relating to such employees and dependents.
+&emsp;&emsp;“(B) it is applying this paragraph uniformly to all employers in the small group market in the State consistent with applicable State law and without regard to the claims experience of those employers and their employees (and their dependents) or any health status-related factor relating to such employees and dependents.
 
 &emsp;“(2) 180
 

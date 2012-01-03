@@ -10,9 +10,9 @@
 
 #### Amendments
 
-1994—Subsec. (c). Pub. L. 103–349 substituted “the Secretary” for “he”.
+<b>1994</b>—Subsec. (c). Pub. L. 103–349 substituted “the Secretary” for “he”.
 
-1980—Subsec. (b). Pub. L. 96–574 substituted “description” for “specification”.
+<b>1980</b>—Subsec. (b). Pub. L. 96–574 substituted “description” for “specification”.
 
 #### Effective Date of 1994 Amendment
 

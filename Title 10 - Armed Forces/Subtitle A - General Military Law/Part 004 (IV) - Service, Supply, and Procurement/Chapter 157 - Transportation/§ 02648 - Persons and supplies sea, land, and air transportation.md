@@ -42,7 +42,7 @@ June 30, 1921, ch. 33 (8th proviso under “Transportation of the Army and Its S
 
 Mar. 3, 1911, ch. 209 (3d proviso under “Transportation of the Army and Its Supplies”), 36 Stat. 1051.
 
-Reference to the Philippine government, contained in the source statute for 10:1371, is omitted, since the Philippine Republic now has the status of a foreign country and only possessions of the United States are intended to be covered by the source statute. The words “Armed Services Department” are substituted for the words “Army and Navy Department”, in 10:1370, to reflect the present name of that Department of the Young Men's Christian Association. (See also third sentence of revision note for section 4746 of this title, below.)
+Reference to the Philippine government, contained in the source statute for 10:1371, is omitted, since the Philippine Republic now has the status of a foreign country and only possessions of the United States areintended to be covered by the source statute. The words “Armed Services Department” are substituted for the words “Army and Navy Department”, in 10:1370, to reflect the present name of that Department of the Young Men's Christian Association. (See also third sentence of revision note for section 4746 of this title, below.)
 
 #### Amendments
 

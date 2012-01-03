@@ -1,6 +1,6 @@
 ### §732. Personnel management system
 
-(a) The Comptroller General shall maintain a personnel management system. The Comptroller General may prescribe a regulation about the system only after notice and opportunity for public comment. A reprisal or threat of reprisal may not be made against an officer or employee of the Government Accountability Office because of comments on a proposed regulation about the system.
+(a) The Comptroller General shall maintain a personnel management system. The ComptrollerGeneral may prescribe a regulation about the system only after notice and opportunity for public comment. A reprisal or threat of reprisal may not be made against an officer or employee of the Government Accountability Office because of comments on a proposed regulation about the system.
 
 (b) The personnel management system shall—
 
@@ -22,7 +22,7 @@
 
 &emsp;(2) except as provided in clause (4) of this subsection and section 733(a)(3)(A) of this title, the highest basic pay rate under the pay schedule may not be more than the rate for level III of the Executive Level, except that the total amount of cash compensation in any year shall be subject to the limitations provided under section 5307(a)(1) of title 5;
 
-&emsp;(3) except as provided under section 733(a)(3)(B) of this title, basic rates of officers and employees of the Office shall be adjustedannually to such extent as determined by the Comptroller General, and in making that determination the Comptroller General shall consider—
+&emsp;(3) except as provided under section 733(a)(3)(B) of this title, basic rates of officers and employees of the Office shall be adjusted annually to such extent as determined by the Comptroller General, and in making that determination the Comptroller General shall consider—
 
 &emsp;&emsp;(A) the principle that equal pay should be provided for work of equal value within each local pay area;
 
@@ -48,7 +48,7 @@
 
 (d) The personnel management system shall provide—
 
-&emsp;(1) for a system to appraise the performance of officers and employees of the General Accounting Office <sup>2</sup> that meets the requirements of section 4302 of title 5 and in addition includes—
+&emsp;(1) for a system to appraise the performance of officers and employees of the General Accounting Office <sup>2</sup> that meets the requirementsof section 4302 of title 5 and in addition includes—
 
 &emsp;&emsp;(A) a link between the performance management system and the agency's strategic plan;
 
@@ -136,7 +136,7 @@
 
 &emsp;(C) the term “covered officer or employee”, as used with respect to a pay increase, means any individual—
 
-&emsp;&emsp;(i) who is an officer or employee of the Government Accountability Office, otherthan an officer or employee described in subparagraph (A), (B), or (C) of section 4(c)(1) of the Government Accountability Office Act of 2008, determined as of the effective date of such pay increase; and
+&emsp;&emsp;(i) who is an officer or employee of the Government Accountability Office, other than an officer or employee described in subparagraph (A), (B), or (C) of section 4(c)(1) of the Government Accountability Office Act of 2008, determined as of the effective date of such pay increase; and
 
 &emsp;&emsp;(ii) whose performance is at least at a satisfactory level, as determined by the Comptroller General under the provisions of subsection (c)(3) for purposes of the adjustment taking effect under such provisions in such year; and
 
@@ -208,7 +208,7 @@ In the section, the words “officers and” are added for consistency in the re
 
 In subsection (a), the words “not later than October 1, 1980” and 31:52–5(b) are omitted as executed. The word “maintain” is substituted for “establish by regulation” to omit executed words. The words “for the General Accounting Office (hereinafter referred to as the ‘personnel system’) which shall meet the requirements of subsections (b) through (h)”, and “or any amendment” are omitted as surplus. The words “about the system” are substituted for “thereto” for clarity.
 
-In subsection (b)(1), the words “merit system” are omitted as surplus. In clause (5), the words “of the United States Government” are added for consistency. In clause (6), the words “the principles of” are omitted as surplus.
+In subsection (b)(1), the words “merit system” are omitted as surplus. In clause (5), the words “of theUnited States Government” are added for consistency. In clause (6), the words “the principles of” are omitted as surplus.
 
 In subsection (c)(2), the words “payable . . . under the General Schedule” are omitted as surplus. In clause (4), the words “not more than 100 positions” are substituted for “up to one hundred employees” for consistency. The words “payable . . . grade . . . of the General Schedule” are omitted as surplus. In clause (5), the words “the principles of” are omitted as surplus.
 
@@ -326,7 +326,7 @@ Pay Increase Defined.—For purposes of this section, the term ‘pay increase�
 
 “(c)
 
-Prospective Effect.—Effective with respect to pay for service performed in any pay period beginning after the end of the 6-month period beginning on the date of the enactment of this Act (or such earlier date as the Comptroller General may specify), the rate ofbasic pay for each individual to whom this section applies shall be determined as if such individual had received both a 2.6 percent pay increase for 2006 and a 2.4 percent pay increase for 2007, subject to subsection (e).
+Prospective Effect.—Effective with respect to pay for service performed in any pay period beginning after the end of the 6-month period beginning on the date of the enactment of this Act (or such earlier date as the Comptroller General may specify), the rate of basic pay for each individual to whom this section applies shall be determined as if such individual had received both a 2.6 percent pay increase for 2006 and a 2.4 percent pay increase for 2007, subject to subsection (e).
 
 “(d)
 
@@ -388,7 +388,7 @@ Agency contributions and payment to the fund.—Not later than 9 months after th
 
 “(g)
 
-Exclusive Remedy.—This section constitutes the exclusive remedy that any individuals to whom this section applies (as described in subsection (a)) have for any claim that they are owed any monies denied to them in the form of a pay increase for 2006 or 2007 under section 732(c)(3) of title 31, United States Code, or any other law. Notwithstanding any other provision of law, no court or administrative body, including the Government Accountability Office Personnel Appeals Board, shall have jurisdiction to entertain any civil action or other civil proceeding based on the claim of such individuals that they were due money in the form of a pay increase for 2006 or 2007 pursuant to such section 732(c)(3) or any other law.”
+Exclusive Remedy.—This section constitutes the exclusive remedy that any individuals to whom this section applies (as described in subsection (a)) have for any claim that they are owed any monies denied to them in the form of a pay increase for 2006 or 2007 undersection 732(c)(3) of title 31, United States Code, or any other law. Notwithstanding any other provision of law, no court or administrative body, including the Government Accountability Office Personnel Appeals Board, shall have jurisdiction to entertain any civil action or other civil proceeding based on the claim of such individuals that they were due money in the form of a pay increase for 2006 or 2007 pursuant to such section 732(c)(3) or any other law.”
 
 #### Lump-Sum Payment for Certain Performance-Based Compensation
 
@@ -418,7 +418,7 @@ Qualified Individual.—For purposes of this section, the term ‘qualified indi
 
 &emsp;&emsp;“(C) an individual participating in a development program under which such individual receives performance appraisals, and is eligible to receive permanent merit pay increases, more than once a year; and
 
-&emsp;“(2) as of January 22, 2006, was a Band I staff member with a salary above the Band I cap, a Band IIA staff member with a salary above the Band IIA cap, or an administrative professional or support staffmember with a salary above the cap for that individual's pay band (determined in accordance with the orders cited in subsection (b)(1)).
+&emsp;“(2) as of January 22, 2006, was a Band I staff member with a salary above the Band I cap, a Band IIA staff member with a salary above the Band IIA cap, or an administrative professional or support staff member with a salary above the cap for that individual's pay band (determined in accordance with the orders cited in subsection (b)(1)).
 
 “(d)
 

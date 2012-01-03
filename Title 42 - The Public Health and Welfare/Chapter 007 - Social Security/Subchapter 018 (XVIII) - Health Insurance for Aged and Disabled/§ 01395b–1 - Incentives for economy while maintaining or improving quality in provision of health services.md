@@ -6,7 +6,7 @@
 
 &emsp;(A) to determine whether, and if so which, changes in methods of payment or reimbursement (other than those dealt with in section 222(a) of the Social Security Amendments of 1972) for health care and services under health programs established by this chapter, including a change to methods based on negotiated rates, would have the effect of increasing the efficiency and economy of health services under such programs through the creation of additional incentives to these ends without adversely affecting the quality of such services;
 
-&emsp;(B) to determine whether payments for services other than those for which payment maybe made under such programs (and which are incidental to services for which payment may be made under such programs) would, in the judgment of the Secretary, result in more economical provision and more effective utilization of services for which payment may be made under such program, where such services are furnished by organizations and institutions which have the capability of providing—
+&emsp;(B) to determine whether payments for services other than those for which payment may be made under such programs (and which are incidental to services for which payment may be made under such programs) would, in the judgment of the Secretary, result in more economical provision and more effective utilization of services for which payment may be made under such program, where such services are furnished by organizations and institutions which have the capability of providing—
 
 &emsp;&emsp;(i) comprehensive health care services,
 
@@ -20,7 +20,7 @@
 
 &emsp;(D) to determine whether payments under such programs based on a single combined rate of reimbursement or charge for the teaching activities and patient care which residents, interns, and supervising physicians render in connection with a graduate medical education program in a patient facility would result in more equitable and economical patient care arrangements without adversely affecting the quality of such care;
 
-&emsp;(E) to determine whether coverage of intermediate care facility services and homemaker services would provide suitable alternatives to posthospital benefits presently provided under this subchapter; such experiment and demonstration projects may include:
+&emsp;(E) to determine whether coverage of intermediate care facility services and homemaker services would provide suitable alternatives toposthospital benefits presently provided under this subchapter; such experiment and demonstration projects may include:
 
 &emsp;&emsp;(i) counting each day of care in an intermediate care facility as one day of care in a skilled nursing facility, if such care was for a condition for which the individual was hospitalized,
 
@@ -48,23 +48,19 @@
 
 > For purposes of this subsection, “health programs established by this chapter” means the program established by this subchapter and a program established by a plan of a State approved under subchapter XIX of this chapter.
 
-(2) Grants, payments under contracts, and other expenditures made for experiments and demonstration projects under paragraph (1) shall be made in appropriate part from the Federal Hospital Insurance Trust Fund (established by section 1395i of this title) and the Federal Supplementary Medical Insurance Trust Fund (established by section 1395t of this title) and from funds appropriated under subchapter XIX of this chapter. Grants and payments under contracts may be made either in advance or by way of reimbursement, as may be determined by the Secretary, and shall be made in such installments and on such conditions as the Secretary finds necessary to carry out the purpose of this section. With respect to any such grant, payment, or other expenditure, the amount to be paid from each of such trust funds (and from funds appropriated under such subchapter XIXof this chapter) shall be determined by the Secretary, giving due regard to the purposes of the experiment or project involved.
+(2) Grants, payments under contracts, and other expenditures made for experiments and demonstration projects under paragraph (1) shall be made in appropriate part from the Federal Hospital Insurance Trust Fund (established by section 1395i of this title) and the Federal Supplementary Medical Insurance Trust Fund (established by section 1395t of this title) and from funds appropriated under subchapter XIX of this chapter. Grants and payments under contracts may be made either in advance or by way of reimbursement, as may be determined by the Secretary, and shall be made in such installments and on such conditions as the Secretary finds necessary to carry out the purpose of this section. With respect to any such grant, payment, or other expenditure, the amount to be paid from each of such trust funds (and from funds appropriated under such subchapter XIX of this chapter) shall be determined by the Secretary, giving due regard to the purposes of the experiment or project involved.
 
 #### (b) Waiver of certain payment or reimbursement requirements; advice and recommendations of specialists preceding experiments and demonstration projects
 
 In the case of any experiment or demonstration project under subsection (a) of this section, the Secretary may waive compliance with the requirements of this subchapter and subchapter XIX of this chapter insofar as such requirements relate to reimbursement or payment on the basis of reasonable cost, or (in the case of physicians) on the basis of reasonable charge, or to reimbursement or payment only for such services or items as may be specified in the experiment; and costs incurred in such experiment or demonstration project in excess of the costs which would otherwise be reimbursed or paid under such subchapters may be reimbursed or paid to the extent that such waiver applies to them (with such excess being borne by the Secretary). No experiment or demonstration project shall be engaged in or developed under subsection (a) of this section until the Secretary obtains the advice and recommendations of specialists who are competent to evaluate the proposed experiment or demonstration project as to the soundness of its objectives, the possibilities of securing productive results, the adequacy of resources to conduct the proposed experiment or demonstration project, and its relationship to other similar experiments and projects already completed or in process.
 
-(Pub. L. 90–248, title IV, §402(a), (b), Jan. 2, 1968, 81 Stat. 930, 931; Pub. L. 92–603, title II, §§222(b), 278(b)(2), Oct. 30, 1972, 86 Stat. 1391, 1453; Pub. L. 95–142, §17(d), Oct. 25, 1977, 91 Stat. 1202; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 97–35, title XXI, §2193(d), Aug. 13, 1981, 95 Stat. 828; Pub. L. 97–248, title I, §147, Sept. 3, 1982, 96 Stat. 394; Pub. L. 98–369, div. B, title III, §2331(b), July 18, 1984, 98 Stat. 1088.)
+(Pub. L. 90–248, title IV, §402(a), (b), Jan. 2, 1968, 81 Stat. 930, 931; Pub. L. 92–603, title II, §§222(b), 278(b)(2), Oct. 30, 1972, 86 Stat. 1391, 1453; Pub. L. 95–142, §17(d), Oct. 25, 1977, 91 Stat. 1202; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 97–35, title XXI, §2193(d), Aug. 13, 1981, 95Stat. 828; Pub. L. 97–248, title I, §147, Sept. 3, 1982, 96 Stat. 394; Pub. L. 98–369, div. B, title III, §2331(b), July 18, 1984, 98 Stat. 1088.)
 
 #### References in Text
 
 Section 222(a) of the Social Security Amendments of 1972, referred to in subsec. (a)(1)(A), is section 222(a) of Pub. L. 92–603, Oct. 30, 1972, 86 Stat. 1329, which is set out as a note below.
 
 Section 2691(c) of this title, referred to in subsec. (a)(1)(B)(ii), was repealed by Pub. L. 94–103, title III, §302(c), Oct. 4, 1975, 89 Stat. 507.
-
-Part B of this subchapter, referred to in subsec. (a)(1)(H), is classified to section 1395j et seq. of this title.
-
-Part B of subchapter XI of this chapter, referred to in subsec. (a)(1)(K), is classified to section 1320c et seq. of this title.
 
 #### Codification
 
@@ -252,7 +248,7 @@ Waiver Authority.—The Secretary may waive such requirements of titles XI and X
 
 “(d)
 
-No Additional Program Expenditures.—Payments under this section under the separate pilot program for value based purchasing (as described in subsection (a)) for each provider type described in paragraphs (1) through (5) of subsection (b) for applicable items and services under title XVIII of the Social Security Act for a year shall be established in a mannerthat does not result in spending more under each such value based purchasing program for such year than would otherwise be expended for such provider type for such year if the pilot program were not implemented, as estimated by the Secretary.
+No Additional Program Expenditures.—Payments under this section under the separate pilot program for value based purchasing (as described in subsection (a)) for each provider type described in paragraphs (1) through (5) of subsection (b) for applicable items and services under title XVIII of the Social Security Act for a year shall be established in a manner that does not result in spending more under each such value based purchasing program for such year than would otherwise be expended for such provider type for such year if the pilot program were not implemented, as estimated by the Secretary.
 
 “(e)
 
@@ -292,7 +288,7 @@ Duration; scope.—Subject to paragraph (3), the project shall operate during a 
 
 &emsp;“(2)
 
-Encouraging participation of small physician practices.—The project shall be designed to include the participation of physicians in practices with fewer than three full-time equivalent physicians, as well as physicians in larger practices particularly in rural and underserved areas.
+Encouraging participation of small physician practices.—The project shall be designed to include the participation of physicians in practiceswith fewer than three full-time equivalent physicians, as well as physicians in larger practices particularly in rural and underserved areas.
 
 &emsp;“(3)
 
@@ -666,7 +662,7 @@ Pub. L. 106–554, §1(a)(6) \[title I, §128\], Dec. 21, 2000, 114 Stat. 2763, 
 
 “(a)
 
-In General.—The Secretary of Health and Human Services shall carry out the demonstration project known as the Lifestyle Modification Program Demonstration, as described in the Health Care Financing Administration Memorandum of Understanding entered into on November 13, 2000, and as subsequently modified, (in this section referred to as the ‘project’) in accordance with the following requirements:
+In General.—The Secretary of Health and Human Services shall carry out the demonstrationproject known as the Lifestyle Modification Program Demonstration, as described in the Health Care Financing Administration Memorandum of Understanding entered into on November 13, 2000, and as subsequently modified, (in this section referred to as the ‘project’) in accordance with the following requirements:
 
 &emsp;“(1) The project shall include no fewer than 1,800 medicare beneficiaries who complete under the project the entire course of treatment under the Lifestyle Modification Program.
 
@@ -802,7 +798,7 @@ Limitation.—In conducting the demonstration project under this section, the Se
 
 &emsp;“(2)
 
-Evaluation and report.—There are authorized to be appropriated such sums as are necessary for the purpose of developing and submitting the report to Congress under subsection (c).”
+Evaluation and report.—There are authorized to be appropriated such sums as are necessary for thepurpose of developing and submitting the report to Congress under subsection (c).”
 
 #### Informatics, Telemedicine, and Education Demonstration Project
 
@@ -860,7 +856,7 @@ Eligible Health Care Provider Telemedicine Network Defined.—For purposes of th
 
 &emsp;“(2) The consortium submits to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require, including a description of the use to which the consortium would apply any amounts received under the project.
 
-&emsp;“(3) The consortium guarantees that it will be responsible for payment for all costs of the project thatare not paid under this section and that the maximum amount of payment that may be made to the consortium under this section shall not exceed the amount specified in subsection (d)(3).
+&emsp;“(3) The consortium guarantees that it will be responsible for payment for all costs of the project that are not paid under this section and that the maximum amount of payment that may be made to the consortium under this section shall not exceed the amount specified in subsection (d)(3).
 
 “(d)
 
@@ -1002,7 +998,7 @@ Joint Undergraduate Education Program.—In the case of a hospital which (1) was
 
 #### Research on Long-Term Care Services for Medicare Beneficiaries
 
-Pub. L. 100–360, title II, §207, July 1, 1988, 102 Stat. 732, which provided for research on issues relating to the delivery and financing of long-term care services for medicare beneficiaries, was repealed by Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981.
+Pub. L. 100–360, title II, §207, July 1, 1988, 102 Stat. 732, which provided for research on issues relating to thedelivery and financing of long-term care services for medicare beneficiaries, was repealed by Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981.
 
 #### Adjustment of Contracts With Prepaid Health Plans
 
@@ -1046,7 +1042,7 @@ Pub. L. 100–203, title IV, §4403, Dec. 22, 1987, 1330–226, as amended by Pu
 
 “(a)
 
-Set Asides for Issues of Health Care in Rural Areas and In Inner-City Areas.—(1) Not less than ten percent of the total amounts annually appropriated to, and expended by, the Health Care Financing Administration for the conduct of research and demonstration projects in fiscal years 1988, 1989, and 1990 shall be expended for research and demonstration projects relating exclusively or substantially to rural health issues, including (but not limited to) the impact of the payment methodology under section 1886(d) of the Social Security Act \[section 1395ww(d) of this title\] on the financial viability of small rural hospitals, the effect of medicare payment policies on the ability of rural areas (and rural hospitals in particular) to attract and retain physicians and other health professionals, the appropriateness of medicare conditions of participation andstaffing requirements for small rural hospitals, and the impact of medicare policies on access to (and the quality of) health care in rural areas.
+Set Asides for Issues of Health Care in Rural Areas and In Inner-City Areas.—(1) Not less than ten percent of the total amounts annually appropriated to, and expended by, the Health Care Financing Administration for the conduct of research and demonstration projects in fiscal years 1988, 1989, and 1990 shall be expended for research and demonstration projects relating exclusively or substantially to rural health issues, including (but not limited to) the impact of the payment methodology under section 1886(d) of the Social Security Act \[section 1395ww(d) of this title\] on the financial viability of small rural hospitals, the effect of medicare payment policies on the ability of rural areas (and rural hospitals in particular) to attract and retain physicians and other health professionals, the appropriateness of medicare conditions of participation and staffing requirements for small rural hospitals, and the impact of medicare policies on access to (and the quality of) health care in rural areas.
 
 “(2) Not less than ten percent of the total amounts annually appropriated to, and expended by, the Health Care Financing Administration for the conduct of research and demonstration projects in fiscal years 1988, 1989, and 1990 shall be expended for research and demonstration projects relating exclusively or substantially to issues of providing health care in inner-city areas, including (but not limited to) the impact of the payment methodology under section 1886(d) of the Social Security Act on the financial viability of inner-city hospitals and the impact of medicare policies on access to (and the quality of) health care in inner-city areas.
 
@@ -1066,7 +1062,7 @@ For treatment of hospitals in States which have had a waiver approved under this
 
 Pub. L. 99–272, title IX, §9215, Apr. 7, 1986, 100 Stat. 180, as amended by Pub. L. 101–239, title VI, §6135, Dec. 19, 1989, 103 Stat. 2222; Pub. L. 103–66, title XIII, §13557, Aug. 10, 1993, 107 Stat. 592; Pub. L. 105–33, title IV, §4017, Aug. 5, 1997, 111 Stat. 345; Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §534\], Nov. 29, 1999, 113 Stat. 1536, 1501A–390; Pub. L. 106–554, §1(a)(6) \[title VI, §633\], Dec. 21, 2000, 114 Stat. 2763, 2763A–568; Pub. L. 108–173, title II, §235, Dec. 8, 2003, 117 Stat. 2210, provided that:
 
-“(a) The Secretary of Health and Human Services shall extend through December 31, 1997, approval of four municipal health services demonstration projects (located in Baltimore, Cincinnati, Milwaukee, and San Jose) authorized under section 402(a) of the Social Security Amendments of 1967 \[subsec. (a) of this section\]. The Secretary shall submit a report to Congress on the waiver program with respect to the quality of health care, beneficiary costs, costs to the medicaid program and other payers, access to care, outcomes, beneficiary satisfaction, utilization differences among the different populations served by the projects, and such other factors as may be appropriate. Subject to subsection (c), the Secretary may further extend such demonstration projects through December 31, 2006, but only with respect to individuals who received at least one service during the period beginning on January 1, 1996, and ending on the date of the enactment of the Balanced Budget Act of 1997 \[Aug. 5, 1997\].
+“(a) The Secretary of Health and Human Services shall extend through December 31, 1997, approval offour municipal health services demonstration projects (located in Baltimore, Cincinnati, Milwaukee, and San Jose) authorized under section 402(a) of the Social Security Amendments of 1967 \[subsec. (a) of this section\]. The Secretary shall submit a report to Congress on the waiver program with respect to the quality of health care, beneficiary costs, costs to the medicaid program and other payers, access to care, outcomes, beneficiary satisfaction, utilization differences among the different populations served by the projects, and such other factors as may be appropriate. Subject to subsection (c), the Secretary may further extend such demonstration projects through December 31, 2006, but only with respect to individuals who received at least one service during the period beginning on January 1, 1996, and ending on the date of the enactment of the Balanced Budget Act of 1997 \[Aug. 5, 1997\].
 
 “(b) The Secretary shall work with each such demonstration project to develop a plan, to be submitted to the Committee on Ways and Means and the Committee on Commerce of the House of Representatives and the Committee on Finance of the Senate by March 31, 1998, for the orderly transition of demonstration projects and the project participants to a non-demonstration project health care delivery system, such as through integration with a private or public health plan, including a medicaid managed care or Medicare+Choice plan.
 
@@ -1088,7 +1084,7 @@ Section 2320 of Pub. L. 98–369 provided that:
 
 “(3) The period referred to in paragraph (1) begins on the date of the enactment of this section and continues so long as the Secretary continues the Statewide waiver referred to in subsection (b), but in no case ends earlier than 90 days after the date final regulations to implement section 1886(c) of the Social Security Act \[section 1395ww(c) of this title\] are published.
 
-“(b) The project referred to in subsection (a) is the statewide demonstration project established in the State of New Jersey under section 402 of the Social Security Amendments of 1967, as amended by section 222(b) of the Social Security Amendments of 1972 (Public Law 92–603) \[this section\], which project provides for payments to hospitals in the State on a prospectivebasis and related to a classification of patients by diagnosis-related groups.
+“(b) The project referred to in subsection (a) is the statewide demonstration project established in the State of New Jersey under section 402 of the Social Security Amendments of 1967, as amended by section 222(b) of the Social Security Amendments of 1972 (Public Law 92–603) \[this section\], which project provides for payments to hospitals in the State on a prospective basis and related to a classification of patients by diagnosis-related groups.
 
 “(c) Payment for services described in this section shall be considered to be payments for services under part A of title XVIII of the Social Security Act \[part A of this subchapter\].”
 
@@ -1130,7 +1126,7 @@ Pub. L. 95–210, §3, Dec. 13, 1977, 91 Stat. 1489, required the Secretary to p
 
 #### Scope of Grants for Experiments and Demonstration Projects To Determine Methods for Prospective Payments to Hospitals, Skilled Nursing Facilities, and Other Providers of Services
 
-Pub. L. 94–182, title I, §107, Dec. 31, 1975, 89 Stat. 1053, provided that: “Nothing contained in section 222(a) ofPublic Law 92–603 \[set out below\] shall be construed to preclude or prohibit the Secretary of Health, Education, and Welfare \[now Health and Human Services\] from including in any grant otherwise authorized to be made under such section moneys which are to be used for payments, to a participant in a demonstration or experiment with respect to which the grant is made, for or on account of costs incurred or services performed by such participant for a period prior to the date that the project of such participant is placed in operation, if—
+Pub. L. 94–182, title I, §107, Dec. 31, 1975, 89 Stat. 1053, provided that: “Nothing contained in section 222(a) of Public Law 92–603 \[set out below\] shall be construed to preclude or prohibit the Secretary of Health, Education, and Welfare \[now Health and Human Services\] from including in any grant otherwise authorized to be made under such section moneys which are to be used for payments, to a participant in a demonstration or experiment with respect to which the grant is made, for or on account of costs incurred or services performed by such participant for a period prior to the date that the project of such participant is placed in operation, if—
 
 &emsp;“(1) the applicant for such grant is a State or an agency thereof,
 

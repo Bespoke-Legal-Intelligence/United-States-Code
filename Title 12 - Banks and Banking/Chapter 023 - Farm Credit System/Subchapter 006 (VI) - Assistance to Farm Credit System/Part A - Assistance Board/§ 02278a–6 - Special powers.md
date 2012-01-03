@@ -6,7 +6,7 @@ In the case of a System institution that requests certification under section 22
 
 &emsp;(1) require the institution to obtain approval from the Assistance Board before implementing business, operating, and investment plans and policies;
 
-&emsp;(2) if one or more of the conditions described in section 2183(b) of this title are met, as determined by the Farm Credit Administration, direct the Farm Credit Administration Board to appoint a conservator for the institution, in accordance with such section, and to instruct the conservator to evaluate the operations of the institution and report to the Farm Credit Administration Board and the Assistance Board on the possibility of restoring the institution to sound financial condition;
+&emsp;(2) if one or more of the conditions described in section 2183(b) of this title are met, as determined by the Farm Credit Administration, direct the Farm Credit Administration Board to appoint a conservator for the institution, in accordance with such section, and to instruct the conservator to evaluate the operations of the institution and report to the Farm CreditAdministration Board and the Assistance Board on the possibility of restoring the institution to sound financial condition;
 
 &emsp;(3) request that the Farm Credit Administration Board or the Farm Credit Administration, as appropriate—
 
@@ -20,7 +20,7 @@ In the case of a System institution that requests certification under section 22
 
 &emsp;(5) require the institution to obtain approval from the Assistance Board before setting the policy on credit standards to be used, and the policy on rates of interest to be charged on loans, by the institution, including requiring that—
 
-&emsp;&emsp;(A) the institution set interest rates at levels necessary to ensure that the cost ofmoney to the institution reflects the marginal cost to the institution of borrowing an additional amount of money at the time a new loan is made; and
+&emsp;&emsp;(A) the institution set interest rates at levels necessary to ensure that the cost of money to the institution reflects the marginal cost to the institution of borrowing an additional amount of money at the time a new loan is made; and
 
 &emsp;&emsp;(B) loans primarily secured by real estate mortgages not exceed 85 percent of the appraised agricultural value of the real estate security, or 75 percent of the then current market value of the real estate security, whichever is greater;
 
@@ -64,9 +64,9 @@ During the 5-year period beginning on January 6, 1988, the Assistance Board, in 
 
 #### Amendments
 
-1990—Subsec. (a)(8)(B). Pub. L. 101–624 struck out before semicolon at end “notwithstanding the authority of the Farm Credit Administration to approve such matters”.
+<b>1990</b>—Subsec. (a)(8)(B). Pub. L. 101–624 struck out before semicolon at end “notwithstanding the authority of the Farm Credit Administration to approve such matters”.
 
-1988—Subsec. (a)(8)(B). Pub. L. 100–399, §201(f), struck out “under sections 2226 and 2252(a)(15) of this title” after “such matters”.
+<b>1988</b>—Subsec. (a)(8)(B). Pub. L. 100–399, §201(f), struck out “under sections 2226 and 2252(a)(15) of this title” after “such matters”.
 
 Subsec. (a)(9). Pub. L. 100–399, §201(g), struck out “may” before “suspend”.
 

@@ -36,7 +36,7 @@ As used in this chapter—
 
 &emsp;&emsp;&emsp;(B) any State savings association; and
 
-&emsp;&emsp;&emsp;(C) any corporation (other than a bank) that the Board of Directors and the Director of the Office of Thrift Supervision jointly determine to be operating in substantially the same manner as a savings association.
+&emsp;&emsp;&emsp;(C) any corporation (other than a bank) that the Board of Directors and the Comptroller of the Currency jointly determine to be operating in substantially the same manner as a savings association.
 
 #### (2) Federal savings association
 
@@ -140,7 +140,7 @@ As used in this chapter—
 
 &emsp;&emsp;(4) outstanding draft (including advice or authorization to charge a bank's or a savings association's balance in another bank or savings association), cashier's check, money order, or other officer's check issued in the usual course of business for any purpose, including without being limited to those issued in payment for services, dividends, or purchases, and
 
-&emsp;&emsp;(5) such other obligations of a bank or savings association as the Board of Directors, after consultation with the Comptroller of the Currency, Director of the Office of Thrift Supervision, and the Board of Governors of the Federal Reserve System, shall find and prescribe by regulation to be deposit liabilities by general usage, except that the following shall not be a deposit for any of the purposes of this chapter or be included as part of the total deposits or of an insured deposit:
+&emsp;&emsp;(5) such other obligations of a bank or savings association as the Board of Directors, after consultation with the Comptroller of the Currency, and the Board of Governors of the Federal Reserve System, shall find and prescribe by regulation to be deposit liabilities by general usage, except that the following shall not be a deposit for any of the purposes of this chapter or be included as part of the total deposits or of an insured deposit:
 
 &emsp;&emsp;&emsp;(A) any obligation of a depository institution which is carried on the books and records of an office of such bank or savings association located outside of any State, unless—
 
@@ -158,7 +158,7 @@ As used in this chapter—
 
 In general.—Subject to paragraph (2), the term “insured deposit” means the net amount due to any depositor for deposits in an insured depository institution as determined under sections 1817(i) and 1821(a) of this title.
 
-&emsp;(2) In the case of any deposit in a branch of a foreign bank, the term “insured deposit”means an insured deposit as defined in paragraph (1) of this subsection which—
+&emsp;(2) In the case of any deposit in a branch of a foreign bank, the term “insured deposit” means an insured deposit as defined in paragraph (1) of this subsection which—
 
 &emsp;&emsp;(A) is payable in the United States to—
 
@@ -196,25 +196,37 @@ Preferred deposits.—The term “preferred deposits” means deposits of any pu
 
 &emsp;The term “appropriate Federal banking agency” means—
 
-&emsp;&emsp;(1) the Comptroller of the Currency, in the case of any national banking association or any Federal branch or agency of a foreign bank;
+&emsp;&emsp;(1) the Office of the Comptroller of the Currency, in the case of—
 
-&emsp;&emsp;(2) the Board of Governors of the Federal Reserve System, in the case of—
+&emsp;&emsp;&emsp;(A) any national banking association;
 
-&emsp;&emsp;&emsp;(A) any State member insured bank,
+&emsp;&emsp;&emsp;(B) any Federal branch or agency of a foreign bank; and
 
-&emsp;&emsp;&emsp;(B) any branch or agency of a foreign bank with respect to any provision of the Federal Reserve Act \[12 U.S.C. 221 et seq.\] which is made applicable under the International Banking Act of 1978 \[12 U.S.C. 3101 et seq.\],
+&emsp;&emsp;&emsp;(C) any Federal savings association;
 
-&emsp;&emsp;&emsp;(C) any foreign bank which does not operate an insured branch,
+&emsp;&emsp;(2) the Federal Deposit Insurance Corporation, in the case of—
 
-&emsp;&emsp;&emsp;(D) any agency or commercial lending company other than a Federal agency,
+&emsp;&emsp;&emsp;(A) any State nonmember insured bank;
 
-&emsp;&emsp;&emsp;(E) supervisory or regulatory proceedings arising from the authority given to the Board of Governors under section 7(c)(1) of the International Banking Act of 1978 \[12 U.S.C. 3105(c)(1)\], including such proceedings under the Financial Institutions Supervisory Act of 1966, and
+&emsp;&emsp;&emsp;(B) any foreign bank having an insured branch; and
 
-&emsp;&emsp;&emsp;(F) any bank holding company and any subsidiary of a bank holding company (other than a bank);
+&emsp;&emsp;&emsp;(C) any State savings association; <sup>1</sup>
 
-&emsp;&emsp;(3) the Federal Deposit Insurance Corporation in the case of a State nonmember insured bank or a foreign bank having an insured branch; and
+&emsp;&emsp;(3) the Board of Governors of the Federal Reserve System, in the case of—
 
-&emsp;&emsp;(4) the Director of the Office of Thrift Supervision in the case of any savings association or any savings and loan holding company.
+&emsp;&emsp;&emsp;(A) any State member bank;
+
+&emsp;&emsp;&emsp;(B) any branch or agency of a foreign bank with respect to any provision of the Federal Reserve Act \[12 U.S.C. 221 et seq.\] which is made applicable under the International Banking Act of 1978 \[12 U.S.C. 3101 et seq.\];
+
+&emsp;&emsp;&emsp;(C) any foreign bank which does not operate an insured branch;
+
+&emsp;&emsp;&emsp;(D) any agency or commercial lending company other than a Federal agency;
+
+&emsp;&emsp;&emsp;(E) supervisory or regulatory proceedings arising from the authority given to the Board of Governors under section 7(c)(1) of the International Banking Act of 1978 \[12 U.S.C. 3105(c)(1)\], including such proceedings under the Financial Institutions Supervisory Act of 1966;
+
+&emsp;&emsp;&emsp;(F) any bank holding company and any subsidiary (other than a depository institution) of a bank holding company; and
+
+&emsp;&emsp;&emsp;(G) any savings and loan holding company and any subsidiary (other than a depository institution) of a savings and loan holding company.
 
 > &emsp;Under the rule set forth in this subsection, more than one agency may be an appropriate Federal banking agency with respect to any given institution.
 
@@ -236,7 +248,7 @@ Preferred deposits.—The term “preferred deposits” means deposits of any pu
 
 #### (2) Federal branch
 
-&emsp;&emsp;The term “Federal branch” has the meaning given to such term by section 1(b)(6) of the International Banking Act of 1978 \[12 U.S.C. 3101(b)(6)\].
+&emsp;&emsp;The term “Federal branch” has the meaning given to such term by section 1(b)(6) ofthe International Banking Act of 1978 \[12 U.S.C. 3101(b)(6)\].
 
 #### (3) Insured branch
 
@@ -256,11 +268,11 @@ Preferred deposits.—The term “preferred deposits” means deposits of any pu
 
 &emsp;The term “institution-affiliated party” means—
 
-&emsp;&emsp;(1) any director, officer, employee, or controlling stockholder (other than a bank holding company) of, or agent for, an insured depository institution;
+&emsp;&emsp;(1) any director, officer, employee, or controlling stockholder (other than a bank holding company or savings and loan holding company) of, or agent for, an insured depository institution;
 
 &emsp;&emsp;(2) any other person who has filed or is required to file a change-in-control notice with the appropriate Federal banking agency under section 1817(j) of this title;
 
-&emsp;&emsp;(3) any shareholder (other than a bank holding company), consultant, joint venture partner, and any other person as determined by the appropriate Federal banking agency (by regulation or case-by-case) who participates in the conduct of the affairs of an insured depository institution; and
+&emsp;&emsp;(3) any shareholder (other than a bank holding company or savings and loan holding company), consultant, joint venture partner, and any other person as determined by the appropriate Federal banking agency (by regulation or case-by-case) who participates in the conduct of the affairs of an insured depository institution; and
 
 &emsp;&emsp;(4) any independent contractor (including any attorney, appraiser, or accountant) who knowingly or recklessly participates in—
 
@@ -344,21 +356,23 @@ Preferred deposits.—The term “preferred deposits” means deposits of any pu
 
 #### (3) Reserve ratio
 
-&emsp;&emsp;The term “reserve ratio”, when used with regard to the Deposit Insurance Fund other than in connection with a reference to the designated reserve ratio, means the ratio of the net worth of the Deposit Insurance Fund to the value of the aggregate estimated insured deposits.
+&emsp;&emsp;The term “reserve ratio”, when used with regard to the Deposit Insurance Fund other than in connection with a reference to the designated reserve ratio, means the ratio of the net worth of the Deposit Insurance Fund to the value of the aggregate estimated insured deposits, or such comparable percentage of the assessment base set forth in section 1817(b)(2)(C) <sup>2</sup> of this title.
 
 #### (z) Federal banking agency
 
-&emsp;The term “Federal banking agency” means the Comptroller of the Currency, the Director of the Office of Thrift Supervision, the Board of Governors of the Federal Reserve System, or the Federal Deposit Insurance Corporation.
+&emsp;The term “Federal banking agency” means the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, or the Federal Deposit Insurance Corporation.
 
-(Sept. 21, 1950, ch. 967, §2\[3\], 64 Stat. 873; July 14, 1952, ch. 725, 66 Stat. 605; Aug. 1, 1956, ch. 852, §3, 70 Stat. 908; Pub. L. 86–671, §1, July 14, 1960, 74 Stat. 546; Pub. L. 89–695, title II, §201, title III, §§301(a), 303(a), Oct. 16, 1966, 80 Stat. 1046, 1055, 1056; Pub. L. 91–151, §7(a)(1), Dec. 23, 1969, 83 Stat. 375; Pub. L. 91–609, title IX, §910(a)–(f), Dec. 31, 1970, 84 Stat. 1811, 1812; Pub. L. 93–495, title I, §§101(a)(1), 102(a)(1), Oct. 28, 1974, 88 Stat. 1500, 1502; Pub. L. 95–369, §6(c)(2)–(6), Sept. 17, 1978, 92 Stat. 614, 615; Pub. L. 95–630, title III, §301(a), Nov. 10, 1978, 92 Stat. 3675; Pub. L. 96–221, title III, §308(a)(1)(A), Mar. 31, 1980, 94 Stat. 147; Pub. L. 97–110, title I, §§102, 103(a), Dec. 26, 1981, 95 Stat. 1513; Pub. L. 97–320, title I, §113(a), (b), title VII, §703(a), (b), Oct. 15, 1982, 96 Stat. 1473, 1538, 1539; Pub. L. 100–86, title I, §101(g)(1), title V, §503(b), Aug. 10, 1987, 101 Stat. 563, 632; Pub. L. 101–73, title II, §§201(a), 204, Aug. 9, 1989, 103 Stat. 187, 190; Pub. L. 102–242, title I, §§111(e), 112(b), 131(c)(3), 141(f), 161(c), title III, §§305(c), 311(b)(5)(A), Dec. 19, 1991, 105 Stat. 2242, 2266, 2278, 2286, 2355, 2366; Pub. L. 102–550, title XVI, §§1603(b)(2)(B), (d)(5), 1606(g)(2), Oct. 28, 1992, 106 Stat. 4079, 4080, 4089; Pub. L. 103–204, §19(b), Dec. 17, 1993, 107 Stat. 2404; Pub. L. 103–325, title III, §326(b)(2), title VI, §602(a)(1), Sept. 23, 1994, 108 Stat. 2229, 2288; Pub. L. 104–208, div. A, title II, §§2205(b), 2614(a), 2704(d)(6)(A), (14)(A), Sept. 30, 1996, 110 Stat. 3009–405, 3009–478, 3009–488, 3009–490; Pub. L. 108–386, §8(a)(1), Oct. 30, 2004, 118 Stat. 2231; Pub. L. 109–171, title II, §§2102(b), 2107(b), Feb. 8, 2006, 120 Stat. 9, 19; Pub. L. 109–173, §§4(a), 8(a)(1), Feb. 15, 2006, 119 Stat. 3606, 3610; Pub. L. 109–351, title VII, §725(d), Oct. 13, 2006, 120 Stat. 2002; Pub. L. 109–356, title I, §123(d), Oct. 16, 2006, 120 Stat. 2029; Pub. L. 110–289, div. A, title VI, §1604(b)(1)(A), July 30, 2008, 122 Stat. 2829.)
+(Sept. 21, 1950, ch. 967, §2\[3\], 64 Stat. 873; July 14, 1952, ch. 725, 66 Stat. 605; Aug. 1, 1956, ch. 852, §3, 70 Stat. 908; Pub. L. 86–671, §1, July 14, 1960, 74 Stat. 546; Pub. L. 89–695, title II, §201, title III, §§301(a), 303(a), Oct. 16, 1966, 80 Stat. 1046, 1055, 1056; Pub. L. 91–151, §7(a)(1), Dec. 23, 1969, 83 Stat. 375; Pub. L. 91–609, title IX, §910(a)–(f), Dec. 31, 1970, 84 Stat. 1811, 1812; Pub. L. 93–495, title I, §§101(a)(1), 102(a)(1), Oct. 28, 1974, 88 Stat. 1500, 1502; Pub. L. 95–369, §6(c)(2)–(6), Sept. 17, 1978, 92 Stat. 614, 615; Pub. L. 95–630, title III, §301(a), Nov. 10, 1978, 92 Stat. 3675; Pub. L. 96–221, title III, §308(a)(1)(A), Mar. 31, 1980, 94 Stat. 147; Pub. L. 97–110, title I, §§102, 103(a), Dec. 26, 1981, 95 Stat. 1513; Pub. L. 97–320, title I, §113(a), (b), title VII, §703(a), (b), Oct. 15, 1982, 96 Stat. 1473, 1538, 1539; Pub. L. 100–86, title I, §101(g)(1), title V, §503(b), Aug. 10, 1987, 101 Stat. 563, 632; Pub. L. 101–73, title II, §§201(a), 204, Aug. 9, 1989, 103 Stat. 187, 190; Pub. L. 102–242, title I, §§111(e), 112(b), 131(c)(3), 141(f), 161(c), title III, §§305(c), 311(b)(5)(A), Dec. 19, 1991, 105 Stat. 2242, 2266, 2278, 2286, 2355, 2366; Pub. L. 102–550, title XVI, §§1603(b)(2)(B), (d)(5), 1606(g)(2), Oct. 28, 1992, 106 Stat. 4079, 4080, 4089; Pub. L. 103–204, §19(b), Dec. 17, 1993, 107 Stat. 2404; Pub. L. 103–325, title III, §326(b)(2), title VI, §602(a)(1), Sept. 23, 1994, 108 Stat. 2229, 2288; Pub. L. 104–208, div. A, title II, §§2205(b), 2614(a), 2704(d)(6)(A), (14)(A), Sept. 30, 1996, 110 Stat. 3009–405, 3009–478, 3009–488, 3009–490; Pub. L. 108–386, §8(a)(1), Oct. 30, 2004, 118 Stat. 2231; Pub. L. 109–171, title II, §§2102(b), 2107(b), Feb. 8, 2006, 120 Stat. 9, 19; Pub. L. 109–173, §§4(a), 8(a)(1), Feb. 15, 2006, 119 Stat. 3606, 3610; Pub. L. 109–351, title VII, §725(d), Oct. 13, 2006, 120 Stat. 2002; Pub. L. 109–356, title I, §123(d), Oct. 16, 2006, 120 Stat. 2029; Pub. L. 110–289, div. A, title VI, §1604(b)(1)(A), July 30, 2008, 122 Stat. 2829; Pub. L. 111–203, title III, §§312(c), 334(b), 363(1), July 21, 2010, 124 Stat. 1522, 1539, 1550.)
 
 #### References in Text
 
-The Federal Reserve Act, referred to in subsec. (q)(2)(B), is act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, which is classified principally to chapter 3 (§221 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
+The Federal Reserve Act, referred to in subsec. (q)(3)(B), is act Dec. 23, 1913, ch. 6, 38 Stat. 251, which is classified principally to chapter 3 (§221 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
 
-The International Banking Act of 1978, referred to in subsec. (q)(2)(B), is Pub. L. 95–369, Sept. 17, 1978, 92 Stat. 607, which enacted sections 347d, 611a, and 3101 to 3111 of this title, amended sections 72, 378, 614, 615, 618, 619, 1813, 1815, 1817, 1818, 1820, 1821, 1822, 1823, 1828, 1829b, 1831b, and 1841 of this title, and enacted provisions set out as notes under sections 36, 247, 601, 611a, and 3101 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+The International Banking Act of 1978, referred to in subsec. (q)(3)(B), is Pub. L. 95–369, Sept. 17, 1978, 92 Stat. 607, which is classified principally to chapter 32 (§3101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-The Financial Institutions Supervisory Act of 1966, referred to in subsec. (q)(2)(E), is Pub. L. 89–695, Oct. 16, 1966, 80 Stat. 1028. For complete classification of this Act to the Code, see Short Title of 1966 Amendment note set out under section 1464 of this title and Tables.
+The Financial Institutions Supervisory Act of 1966, referred to in subsec. (q)(3)(E), is Pub. L. 89–695, Oct. 16, 1966, 80 Stat. 1028. For complete classification of this Act to the Code, see Short Title of 1966 Amendment note set out under section 1464 of this title and Tables.
+
+Section 1817(b)(2)(C) of this title, referred to in subsec. (y)(3), was redesignated section 1817(b)(2)(D) of this title by Pub. L. 111–203, title III, §331(a)(2), July 21, 2010, 124 Stat. 1538.
 
 #### Prior Provisions
 
@@ -366,7 +380,19 @@ Section is derived from subsec. (c) of former section 264 of this title. See Cod
 
 #### Amendments
 
-2008—Subsec. (i). Pub. L. 110–289 added subsec. (i) and struck out former subsec. (i). Prior to amendment, text read as follows:
+<b>2010</b>—Subsec. (b)(1)(C). Pub. L. 111–203, §363(1)(A), substituted “Comptroller of the Currency” for “Director of the Office of Thrift Supervision”.
+
+Subsec. (<i>l</i>)(5). Pub. L. 111–203, §363(1)(B), struck out “Director of the Office of Thrift Supervision,” before “and the Board” in introductory provisions.
+
+Subsec. (q)(1) to (4). Pub. L. 111–203, §312(c)(1), added pars. (1) to (3) and struck out former pars. (1) to (4) which listed the circumstances under which “appropriate Federal banking agency” meant, respectively, the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, and the Director of the Office of Thrift Supervision.
+
+Subsec. (u)(1), (3). Pub. L. 111–203, §312(c)(2), substituted “(other than a bank holding company or savings and loan holding company” for “(other than a bank holding company”.
+
+Subsec. (y)(3). Pub. L. 111–203, §334(b), inserted “, or such comparable percentage of the assessment base set forth in section 1817(b)(2)(C) of this title” before the period.
+
+Subsec. (z). Pub. L. 111–203, §363(1)(C), struck out “the Director of the Office of Thrift Supervision,” before “the Board”.
+
+<b>2008</b>—Subsec. (i). Pub. L. 110–289 added subsec. (i) and struck out former subsec. (i). Prior to amendment, text read as follows:
 
 “(1)
 
@@ -376,7 +402,7 @@ New bank.—The term ‘new bank’ means a new national bank, other than a brid
 
 Bridge bank.—The term ‘bridge bank’ means a new national bank organized by the Corporation in accordance with section 1821(n) of this title.”
 
-2006—Subsec. (a)(1)(B). Pub. L. 109–173, §8(a)(1)(A), added subpar. (B) and struck out former subpar. (B) which read as follows: “includes any former savings association that—
+<b>2006</b>—Subsec. (a)(1)(B). Pub. L. 109–173, §8(a)(1)(A), added subpar. (B) and struck out former subpar. (B) which read as follows: “includes any former savings association that—
 
 &emsp;“(i) has converted from a savings association charter; and
 
@@ -394,7 +420,7 @@ Subsec. (y)(1). Pub. L. 109–173, §8(a)(1)(B), added par. (1) and struck out h
 
 Subsec. (y)(3). Pub. L. 109–171, §2107(b), added par. (3).
 
-2004—Subsec. (a)(1)(A). Pub. L. 108–386, §8(a)(1)(A), substituted “and State bank” for “, State bank, and District bank”.
+<b>2004</b>—Subsec. (a)(1)(A). Pub. L. 108–386, §8(a)(1)(A), substituted “and State bank” for “, State bank, and District bank”.
 
 Subsec. (a)(4). Pub. L. 108–386, §8(a)(1)(B), struck out heading and text of par. (4). Text read as follows: “The term ‘District bank’ means any State bank operating under the Code of Law of the District of Columbia.”
 
@@ -404,7 +430,7 @@ Subsec. (q)(2)(A). Pub. L. 108–386, §8(a)(1)(D), struck out “(except a Dist
 
 Subsec. (q)(3). Pub. L. 108–386, §8(a)(1)(E), struck out “(except a District bank),” after “State nonmember insured bank”.
 
-1996—Subsec. (a)(1)(B). Pub. L. 104–208, §2704(d)(14)(A), which directed striking out subpar. (B) and adding a new subpar. (B), was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+<b>1996</b>—Subsec. (a)(1)(B). Pub. L. 104–208, §2704(d)(14)(A), which directed striking out subpar. (B) and adding a new subpar. (B), was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
 Subsec. (<i>l</i>)(5)(C). Pub. L. 104–208, §2614(a), added subpar. (C).
 
@@ -412,7 +438,7 @@ Subsec. (<i>o</i>). Pub. L. 104–208, §2205(b), substituted “lent. The term 
 
 Subsec. (y). Pub. L. 104–208, §2704(d)(6)(A), which directed the general amendment of subsec. (y), was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
-1994—Subsec. (i)(1). Pub. L. 103–325, §602(a)(1)(A), substituted “section 1821(m) of this title” for “section 1821(h) of this title”.
+<b>1994</b>—Subsec. (i)(1). Pub. L. 103–325, §602(a)(1)(A), substituted “section 1821(m) of this title” for “section 1821(h) of this title”.
 
 Subsec. (<i>l</i>)(4). Pub. L. 103–325, §602(a)(1)(B), substituted “a bank's or a” for “bank's or” before “savings association's balance”.
 
@@ -420,19 +446,19 @@ Subsec. (<i>l</i>)(5)(A). Pub. L. 103–325, §326(b)(2), amended subpar. (A) ge
 
 Subsec. (q)(2)(E). Pub. L. 103–325, §602(a)(1)(C), substituted “Financial Institutions Supervisory Act of 1966” for “Depository Institutions Supervisory Act”.
 
-1993—Subsec. (w)(7). Pub. L. 103–204, §19(b)(2), added par. (7).
+<b>1993</b>—Subsec. (w)(7). Pub. L. 103–204, §19(b)(2), added par. (7).
 
 Subsec. (z). Pub. L. 103–204, §19(b)(1), amended subsec. (z) generally. Prior to amendment, subsec. (z) read as follows: “
 
 Federal Banking Agencies.—The term ‘Federal banking agencies’ means the Office of the Comptroller of the Currency, the Office of Thrift Supervision, the Board of Governors of the Federal Reserve System, and the Federal Deposit Insurance Corporation.”
 
-1992—Subsec. (i)(2). Pub. L. 102–550, §1606(g)(2), substituted “1821(n)” for “1821(i)”.
+<b>1992</b>—Subsec. (i)(2). Pub. L. 102–550, §1606(g)(2), substituted “1821(n)” for “1821(i)”.
 
 Subsec. (r). Pub. L. 102–550, §1603(b)(2)(B), which directed the amendment of section 112 of the “Federal Deposit Insurance Corporation Improvement Act of 1992”, was executed by amending section 112 of Pub. L. 102–242, which is the Federal Deposit Insurance Corporation Improvement Act of 1991, to reflect the probable intent of Congress. See 1991 Amendment note below.
 
 Subsec. (y). Pub. L. 102–550, §1603(d)(5), amended directory language of Pub. L. 102–242, §131(c)(3). See 1991 Amendment note below.
 
-1991—Subsec. (m). Pub. L. 102–242, §311(b)(5)(A), inserted heading.
+<b>1991</b>—Subsec. (m). Pub. L. 102–242, §311(b)(5)(A), inserted heading.
 
 Subsec. (m)(1). Pub. L. 102–242, §311(b)(5)(A), added par. (1) and struck out former par. (1) which read as follows: “Subject to the provisions of paragraph (2) of this subsection, the term ‘insured deposit’ means the net amount due to any depositor (other than a depositor referred to in the third sentence of this subsection) for deposits in an insured depository institution (after deducting offsets) less any part thereof which is in excess of $100,000. Such net amount shall be determined according to such regulations as the Board of Directors may prescribe, and in determining the amount due to any depositor there shall be added together all deposits in the depository institution maintained in the same capacity and the same right for his benefit either in his own name or in the names of others except trust funds which shall be insured as provided in subsection (i) of section 1817 of this title. Each officer, employee, or agent of the United States, of any State of the United States, of the District of Columbia, of any Territory of the United States, of Puerto Rico, of Guam, of American Samoa, of the Trust Territory of the Pacific Islands, of the Virgin Islands, of the Northern Mariana Islands, of any county, of any municipality, or of any political subdivision thereof, herein called ‘public unit’, having official custody of public funds and lawfully depositing the same in an insured depository institution shall, for the purpose of determining the amount of the insured deposits, be deemed a depositor in such custodial capacity separate and distinct from any other officer, employee, or agent of the same or any public unit having official custody of public funds and lawfully depositing the same in the same insured depository institution in custodial capacity. For the purpose of clarifying and defining the insurance coverage under this subsection and subsection (i) of section 1817 of this title, the Corporation is authorized to define, with such classifications and exceptions as it may prescribe, terms used in those subsections, in subsection (p) of this section, and in subsections (a) and (i) of section 1821 of this title and the extent of the insurance coverage resulting therefrom.”
 
@@ -448,7 +474,7 @@ Subsec. (y). Pub. L. 102–242, §131(c)(3), as amended by Pub. L. 102–550, §
 
 Subsec. (z). Pub. L. 102–242, §305(c), added subsec. (z).
 
-1989—Subsec. (a). Pub. L. 101–73, §204(a), amended subsec. (a) generally, substituting provisions defining “bank”, “State bank”, “State”, and “District bank” for provisions defining “State bank” and “State”.
+<b>1989</b>—Subsec. (a). Pub. L. 101–73, §204(a), amended subsec. (a) generally, substituting provisions defining “bank”, “State bank”, “State”, and “District bank” for provisions defining “State bank” and “State”.
 
 Subsec. (b). Pub. L. 101–73, §204(b), amended subsec. (b) generally, substituting provisions defining “savings association”, “Federal savings association”, and “State savings association” for provisions defining “State member bank” and “State nonmember bank”.
 
@@ -504,11 +530,11 @@ Subsec. (t). Pub. L. 101–73, §204(f)(5), amended subsec. (t) generally, subst
 
 Subsecs. (u) to (x). Pub. L. 101–73, §204(f)(6), added subsecs. (u) to (x).
 
-1987—Subsec. (g). Pub. L. 100–86, §101(g)(1), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “The term ‘savings bank’ means a bank (other than a mutual savings bank) which transacts its ordinary banking business strictly as a savings bank under State laws imposing special requirements on such banks governing the manner of investing their funds and of conducting their business: <i>Provided</i>, That the bank maintains, until maturity date or until withdrawn, all deposits made with it (other than funds held by it in a fiduciary capacity) as time savings deposits of the specific term type or of the type where the right is reserved to the bank to require written notice before permitting withdrawal: <i>Provided further</i>, That such bank to be considered a savings bank must elect to become subject to regulations of the Corporation with respect to the redeposit of maturing deposits and prohibiting withdrawal of deposits by checking except in cases where such withdrawal was permitted by law on August 23, 1935, from specifically designated deposit accounts totaling not more than 15 per centum of the bank's total deposits.”
+<b>1987</b>—Subsec. (g). Pub. L. 100–86, §101(g)(1), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “The term ‘savings bank’ means a bank (other than a mutual savings bank) which transacts its ordinary banking business strictly as a savings bank under State laws imposing special requirements on such banks governing the manner of investing their funds and of conducting their business: <i>Provided</i>, That the bank maintains, until maturity date or until withdrawn, all deposits made with it (other than funds held by it in a fiduciary capacity) as time savings deposits of the specific term type or of the type where the right is reserved to the bank to require written notice before permitting withdrawal: <i>Provided further</i>, That such bank to be considered a savings bank must elect to become subject to regulations of the Corporation with respect to the redeposit of maturing deposits and prohibiting withdrawal of deposits by checking except in cases where such withdrawal was permitted by law on August 23, 1935, from specifically designated deposit accounts totaling not more than 15 per centum of the bank's total deposits.”
 
 Subsec. (i). Pub. L. 100–86, §503(b), amended subsec. (i) generally. Prior to amendment, subsec. (i) read as follows: “The term ‘new bank’ means a new national banking association organized by the Corporation to assume the insured deposits of an insured bank closed on account of inability to meet the demands of its depositors and otherwise to perform temporarily the functions prescribed in this chapter.”
 
-1982—Subsec. (a). Pub. L. 97–320, §703(a), inserted “industrial bank or similar financial institution which the Board of Directors finds to be operating substantially in the same manner as an industrial bank,” before “or other banking institution”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–320, §703(a), inserted “industrial bank or similar financial institution which the Board of Directors finds to be operating substantially in the same manner as an industrial bank,” before “or other banking institution”.
 
 Subsec. (<i>l</i>)(1). Pub. L. 97–320, §703(b), inserted “thrift certificate, investment certificate, certificate of indebtedness, or other similar name,” before “or a check or draft drawn against a deposit account”.
 
@@ -516,7 +542,7 @@ Subsec. (q)(4). Pub. L. 97–320, §113(a), added par. (4).
 
 Subsec. (t). Pub. L. 97–320, §113(b), added subsec. (t).
 
-1981—Subsec. (a). Pub. L. 97–110, §103(a)(1), inserted “the Trust Territory of the Pacific Islands,” after “American Samoa,” wherever appearing.
+<b>1981</b>—Subsec. (a). Pub. L. 97–110, §103(a)(1), inserted “the Trust Territory of the Pacific Islands,” after “American Samoa,” wherever appearing.
 
 Subsec. (<i>l</i>)(5). Pub. L. 97–110, §102, reenacted without change the provisions preceding subpar. (A), redesignated remaining existing provisions as subpar. (A), inserted reference to banks located outside of the Trust Territory of the Pacific Islands in subpar. (A) as thus redesignated, and added subpar. (B).
 
@@ -524,9 +550,9 @@ Subsec. (m)(1). Pub. L. 97–110, §103(a)(2), inserted “of the Trust Territor
 
 Subsec. (<i>o</i>). Pub. L. 97–110, §103(a)(3), inserted “the Trust Territory of the Pacific Islands,” after “American Samoa,” wherever appearing.
 
-1980—Subsec. (m)(1). Pub. L. 96–221 substituted “$100,000” for “$40,000”.
+<b>1980</b>—Subsec. (m)(1). Pub. L. 96–221 substituted “$100,000” for “$40,000”.
 
-1978—Subsec. (h). Pub. L. 95–369, §6(c)(2), inserted “(including a foreign bank having an insured branch)” after “The term ‘insured bank’ means any bank”.
+<b>1978</b>—Subsec. (h). Pub. L. 95–369, §6(c)(2), inserted “(including a foreign bank having an insured branch)” after “The term ‘insured bank’ means any bank”.
 
 Subsec. (j). Pub. L. 95–369, §6(c)(3), inserted “or of a branch of a foreign bank” after “affairs of a bank”.
 
@@ -538,19 +564,19 @@ Subsec. (q). Pub. L. 95–369, §6(c)(5), inserted reference to a Federal branch
 
 Subsecs. (r), (s). Pub. L. 95–369, §6(c)(6), added subsecs. (r) and (s).
 
-1974—Subsec. (m). Pub. L. 93–495 inserted “(other than a depositor referred to in the third sentence of this subsection)” after “net amount due to any depositor”, and substituted “$40,000” for “$20,000”.
+<b>1974</b>—Subsec. (m). Pub. L. 93–495 inserted “(other than a depositor referred to in the third sentence of this subsection)” after “net amount due to any depositor”, and substituted “$40,000” for “$20,000”.
 
-1970—Pub. L. 91–609 inserted reference to American Samoa in subsecs. (a), (d), (e), (<i>l</i>)(5), (m), and (<i>o</i>), respectively.
+<b>1970</b>—Pub. L. 91–609 inserted reference to American Samoa in subsecs. (a), (d), (e), (<i>l</i>)(5), (m), and (<i>o</i>), respectively.
 
-1969—Subsec. (m). Pub. L. 91–151 substituted $20,000 for $15,000 in first sentence.
+<b>1969</b>—Subsec. (m). Pub. L. 91–151 substituted $20,000 for $15,000 in first sentence.
 
-1966—Subsec. (m). Pub. L. 89–695, §§301(a), 303(a), substituted “$15,000” for “$10,000” in first sentence and inserted sentence which, for purpose of clarifying and defining the insurance coverage under subsec. (m) of this section and section 1817(i) of this title, authorized the Corporation to define terms used in those provisions, subsec. (p) of this section, and section 1821(a) and (i) of this title and the extent of insurance coverage resulting therefrom, respectively.
+<b>1966</b>—Subsec. (m). Pub. L. 89–695, §§301(a), 303(a), substituted “$15,000” for “$10,000” in first sentence and inserted sentence which, for purpose of clarifying and defining the insurance coverage under subsec. (m) of this section and section 1817(i) of this title, authorized the Corporation to define terms used in those provisions, subsec. (p) of this section, and section 1821(a) and (i) of this title and the extent of insurance coverage resulting therefrom, respectively.
 
 Subsec. (q). Pub. L. 89–695, §201, added subsec. (q).
 
-1960—Subsec. (<i>l</i>). Pub. L. 86–671 amended subsec. (<i>l</i>) generally, and among other changes, inserted in par. (1) “or held”, “either conditionally or unconditionally”, “or a check or draft drawn against a deposit account and certified by the bank, or a letter of credit or a traveler's check on which the bank is primarily liable”, and inserted the proviso, added pars. (3) and (4), inserted provisions in par. (5) requiring the Board of Directorsto consult with the Comptroller of the Currency and the Board of Governors of the Federal Reserve System, and struck out provisions which permitted mainland banks to exclude from deposit insurance the deposits of any of its branches in the Virgin Islands.
+<b>1960</b>—Subsec. (<i>l</i>). Pub. L. 86–671 amended subsec. (<i>l</i>) generally, and among other changes, inserted in par. (1) “or held”, “either conditionally or unconditionally”, “or a check or draft drawn against a deposit account and certified by the bank, or a letter of credit or a traveler's check on which the bank is primarily liable”, and inserted the proviso, added pars. (3) and (4), inserted provisions in par. (5) requiring the Board of Directors to consult with the Comptroller of the Currency and the Board of Governors of the Federal Reserve System, and struck out provisions which permitted mainland banks to exclude from deposit insurance the deposits of any of its branches in the Virgin Islands.
 
-1956—Subsec. (a). Act Aug. 1, 1956, §3(a), inserted “Guam,” after “Puerto Rico,” and substituted a comma for the period and inserted “and the word ‘State’ means any State of the United States, the District of Columbia, any Territory of the United States, Puerto Rico, Guam, or the Virgin Islands”.
+<b>1956</b>—Subsec. (a). Act Aug. 1, 1956, §3(a), inserted “Guam,” after “Puerto Rico,” and substituted a comma for the period and inserted “and the word ‘State’ means any State of the United States, the District of Columbia, any Territory of the United States, Puerto Rico, Guam, or the Virgin Islands”.
 
 Subsecs. (d), (e). Act Aug. 1, 1956, §3(b), inserted “Guam,” after “Puerto Rico,”.
 
@@ -560,7 +586,15 @@ Subsec. (m). Act Aug. 1, 1956, §3(d), inserted “of Guam,” after “of Puert
 
 Subsec. (<i>o</i>). Act Aug. 1, 1956, §3(b), inserted “Guam,” after “Puerto Rico,”.
 
-1952—Subsec. (<i>l</i>). Act July 14, 1952, made it compulsory for banks having branches in Puerto Rico to insure their deposits.
+<b>1952</b>—Subsec. (<i>l</i>). Act July 14, 1952, made it compulsory for banks having branches in Puerto Rico to insure their deposits.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by section 312(c) of Pub. L. 111–203 effective on the transfer date, see section 5412(a) of this title.
+
+Amendment by section 334(b) of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of this title.
+
+Amendment by section 363(1) of Pub. L. 111–203 effective on the transfer date, see section 351 of Pub. L. 111–203, set out as a note under section 906 of Title 2, The Congress.
 
 #### Effective Date of 2006 Amendment
 
@@ -604,7 +638,7 @@ Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10,
 
 #### Effective Date of 1974 Amendment
 
-Section 101(g) of Pub. L. 93–495 provided that: “This section and the amendments made by it \[amending this section and sections 1464, 1724, 1728, 1757, 1787, 1817, and 1821 of this title\] shall take effect on the thirtieth day beginning after the date of enactment of this Act \[Oct. 28, 1974\].”
+Section 101(g) of Pub. L. 93–495 provided that: “This section and the amendments made by it \[amending thissection and sections 1464, 1724, 1728, 1757, 1787, 1817, and 1821 of this title\] shall take effect on the thirtieth day beginning after the date of enactment of this Act \[Oct. 28, 1974\].”
 
 Section 102(b), (c) of Pub. L. 93–495 provided that:
 
@@ -622,7 +656,7 @@ Section 301(e) of Pub. L. 89–695 provided that: “The amendments made by this
 
 #### Expiration of 1966 Amendment
 
-Pub. L. 91–609, title IX, §908, Dec. 31, 1970, 84 Stat. 1811, repealed section 401 of Pub. L. 89–695 which had provided that: “The provisions of titles I and II of this Act \[amending this section and sections 1464, 1730, 1817 to 1820 of this title, repealing section 77 of this title, and enacting provisions set out as notes under this section and sections 1464 and 1730 of this title\] and any provisions of law enacted by said titles shall be effective only during the period ending at the close of June 30, 1972. Effective upon the expiration of such period,each provision of law amended by either of such titles is further amended to read as it did immediately prior to the enactment of this Act \[Oct. 16, 1966\] and each provision of law repealed by either of such titles is reenacted”.
+Pub. L. 91–609, title IX, §908, Dec. 31, 1970, 84 Stat. 1811, repealed section 401 of Pub. L. 89–695 which had provided that: “The provisions of titles I and II of this Act \[amending this section and sections 1464, 1730, 1817 to 1820 of this title, repealing section 77 of this title, and enacting provisions set out as notes under this section and sections 1464 and 1730 of this title\] and any provisions of law enacted by said titles shall be effective only during the period ending at the close of June 30, 1972. Effective upon the expiration of such period, each provision of law amended by either of such titles is further amended to read as it did immediately prior to the enactment of this Act \[Oct. 16, 1966\] and each provision of law repealed by either of such titles is reenacted”.
 
 #### Effective Date of 1960 Amendment
 
@@ -635,4 +669,8 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 #### Conditions Governing Employment of Personnel Not Repealed, Modified, or Affected
 
 Section 206 of title II of Pub. L. 89–695 provided that: “Nothing contained in this title \[amending this section and sections 1817 to 1820 of this title and repealing section 77 of this title\] shall be construed to repeal, modify, or affect the provisions of section 19 of the Federal Deposit Insurance Act (12 U.S.C. 1829).”
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by “and”.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

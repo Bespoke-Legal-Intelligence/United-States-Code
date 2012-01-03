@@ -200,7 +200,7 @@ In subsection (e)(1), the words “and is deemed” are substituted for “and b
 
 In subsection (e)(2), the words “insofar as may be appropriate” and “necessary or . . . for purposes of this paragraph” are omitted as surplus.
 
-In subsection (f), the words “any applicable” are omitted as surplus. The words “prescribe regulations establishing” are substituted for “not later than ninety days after January 6, 1983, publish in the Federal Register for public comment, proposed regulations and, not later than one hundred and eighty days after January6, 1983, promulgate final regulations, establishing” to eliminate unnecessary and executed words. Section 3021(1) of the Intermodal Surface Transportation Efficiency Act of 1991 (Public Law 102–240, 105 Stat. 2110) is applied to 49 App.:1612(e) to carry out the apparent intent of Congress.
+In subsection (f), the words “any applicable” are omitted as surplus. The words “prescribe regulations establishing” are substituted for “not later than ninety days after January 6, 1983, publish in the Federal Register for public comment, proposed regulations and, not later than one hundred and eighty days after January 6, 1983, promulgate final regulations, establishing” to eliminate unnecessary and executed words. Section 3021(1) of the Intermodal Surface Transportation Efficiency Act of 1991 (Public Law 102–240, 105 Stat. 2110) is applied to 49 App.:1612(e) to carry out the apparent intent of Congress.
 
 In subsection (g), the words “not later than 60 days following December 18, 1991” are omitted as obsolete. The words “and agencies” are omitted as surplus.
 
@@ -216,7 +216,7 @@ Subsec. (h). Pub. L. 109–59, §3002(b)(2), substituted “Public” for “Mas
 
 #### Elderly Individuals and Individuals With Disabilities Pilot Program
 
-Pub. L. 109–59, title III, §3012(b), Aug. 10, 2005, 119 Stat. 1591, as amended by Pub. L. 111–147, title IV, §437(c), Mar. 18, 2010, 124 Stat. 92; Pub. L. 111–322, title II, §2307(c), Dec. 22, 2010, 124 Stat. 3530, provided that:
+Pub. L. 109–59, title III, §3012(b), Aug. 10, 2005, 119 Stat. 1591, as amended by Pub. L. 111–147, title IV, §437(c), Mar. 18, 2010, 124 Stat. 92; Pub. L. 111–322, title II, §2307(c), Dec. 22, 2010, 124 Stat. 3530; Pub. L. 112–5, title III, §307(c), Mar. 4, 2011, 125 Stat. 21; Pub. L. 112–30, title I, §137(c), Sept. 16, 2011, 125 Stat. 354, provided that:
 
 “(1)
 
@@ -256,7 +256,7 @@ Report.—Not later than 2 years after the date of enactment of this Act \[Aug. 
 
 &emsp;“(A) the extent to which funds were used to subsidize existing paratransit service provided in compliance with the Americans with Disabilities Act of 1990 \[42 U.S.C. 12101 et seq.\];
 
-&emsp;“(B) whether States participating in the pilot program use the funds to provide services to persons with disabilities that exceed those services required by the Americans with Disabilities Act of 1990 differently than States not in the pilot program;
+&emsp;“(B) whether States participating in the pilot program use the funds to provide services to personswith disabilities that exceed those services required by the Americans with Disabilities Act of 1990 differently than States not in the pilot program;
 
 &emsp;“(C) whether States participating in this pilot program use the funds to provide services to individuals with disabilities that exceed those services required by the Americans with Disabilities Act of 1990 to the detriment of other eligible projects;
 
@@ -274,7 +274,7 @@ Report.—Not later than 2 years after the date of enactment of this Act \[Aug. 
 
 “(8)
 
-Sunset.—This subsection shall cease to be effective on March 4, 2011.”
+Sunset.—This subsection shall cease to be effective on March 31, 2012.”
 
 #### Over-the-Road Bus Accessibility Program
 

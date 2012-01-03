@@ -32,7 +32,7 @@ With respect to the programs authorized in subchapters II through VII of this ch
 
 &emsp;&emsp;(A) Making awards to minority entities and Indian tribes to carry out activities under the programs authorized under subchapters II, III, VI, and VII of this chapter.
 
-&emsp;&emsp;(B) Making awards to minority entities and Indian tribes to conduct research, training, technical assistance, or a related activity, to improve services provided under this chapter, especially services provided to individuals from minority backgrounds.
+&emsp;&emsp;(B) Making awards to minority entities and Indian tribes to conduct research, training, technical assistance, or a related activity, to improve services provided under thischapter, especially services provided to individuals from minority backgrounds.
 
 &emsp;&emsp;(C) Making awards to entities described in paragraph (3) to provide outreach and technical assistance to minority entities and Indian tribes to promote their participation in activities funded under this chapter, including assistance to enhance their capacity to carry out such activities.
 

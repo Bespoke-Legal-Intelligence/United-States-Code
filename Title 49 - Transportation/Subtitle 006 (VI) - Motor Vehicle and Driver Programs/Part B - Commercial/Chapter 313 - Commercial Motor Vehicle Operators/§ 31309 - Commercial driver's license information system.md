@@ -178,7 +178,7 @@ Pub. L. 105–178, §4011(d)(6), (7), substituted “The Secretary may establish
 
 #### Grants for Modernization of Commercial Driver's License Information Systems
 
-Pub. L. 109–59, title IV, §4123(c)–(e), Aug. 10, 2005, 119 Stat. 1735, 1736, as amended by Pub. L. 111–147, title IV, §422(f), Mar. 18, 2010, 124 Stat. 87; Pub. L. 111–322, title II, §2202(f), Dec. 22, 2010, 124 Stat. 3525, provided that:
+Pub. L. 109–59, title IV, §4123(c)–(e), Aug. 10, 2005, 119 Stat. 1735, 1736, as amended by Pub. L. 111–147, title IV, §422(f), Mar. 18, 2010, 124 Stat. 87; Pub. L. 111–322, title II, §2202(f), Dec. 22, 2010, 124 Stat. 3525; Pub. L. 112–5, title II, §202(f), Mar. 4, 2011, 125 Stat. 17, provided that:
 
 “(c)
 
@@ -214,7 +214,7 @@ Funding.—There are authorized to be appropriated from the Highway Trust Fund (
 
 &emsp;“(5) $8,000,000 for fiscal year 2010; and
 
-&emsp;“(6) and \[sic\] $3,397,260 for the period beginning October 1, 2010, and ending on March 4, 2011.
+&emsp;“(6) $8,000,000 for fiscal year 2011.
 
 “(e)
 
@@ -226,7 +226,7 @@ Period of availability.—The amounts made available under subsection (d) shall 
 
 &emsp;“(2)
 
-Initial date of availability.—Amounts authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) by subsection (d) shall be available for obligation on the date of their apportionment or allocation or on October 1 of the fiscal year for which they are authorized, whichever occurs first.
+Initial date of availability.—Amounts authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) by subsection (d) shall be available for obligation on thedate of their apportionment or allocation or on October 1 of the fiscal year for which they are authorized, whichever occurs first.
 
 &emsp;“(3)
 

@@ -28,7 +28,7 @@ Section 815 of Pub. L. 101–549 provided that:
 
 “(a)
 
-In General.—The Administrator of the Environmental Protection Agency (hereinafter referred to as the ‘Administrator’) is authorized, in cooperation with the Department of State and the affected States, to negotiate with representatives of Mexico to authorize a program to monitor and improve air quality in regionsalong the border between the United States and Mexico. The program established under this section shall not extend beyond July 1, 1995.
+In General.—The Administrator of the Environmental Protection Agency (hereinafter referred to as the ‘Administrator’) is authorized, in cooperation with the Department of State and the affected States, to negotiate with representatives of Mexico to authorize a program to monitor and improve air quality in regions along the border between the United States and Mexico. The program established under this section shall not extend beyond July 1, 1995.
 
 “(b)
 

@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(A) any production credit association, or
 
-&emsp;&emsp;(B) any national bank, State bank, trust company, agricultural credit corporation, incorporated livestock loan company, savings institution, credit union, or any association of agricultural producers engaged in the making of loans to farmers and ranchers,and any corporation engaged in the making of loans to producers or harvesters of aquatic products,
+&emsp;&emsp;(B) any national bank, State bank, trust company, agricultural credit corporation, incorporated livestock loan company, savings institution, credit union, or any association of agricultural producers engaged in the making of loans to farmers and ranchers, and any corporation engaged in the making of loans to producers or harvesters of aquatic products,
 
 > &emsp;any note, draft, or other obligation with the institution's endorsement or guarantee, the proceeds of which note, draft, or other obligation have been advanced to persons and for purposes eligible for financing by production credit associations as authorized by this chapter.
 
@@ -66,7 +66,7 @@
 
 &emsp;Nothing in this section shall require termination of discount relationships in existence on December 24, 1980.
 
-(Pub. L. 92–181, title I, §1.7, as added Pub. L. 100–233, title IV, §401, Jan. 6, 1988, 101 Stat. 1625; amended Pub. L. 100–399, title IV, §401(e), (f), Aug. 17, 1988, 102 Stat. 995, 996.)
+(Pub. L. 92–181, title I, §1.7, as added Pub. L. 100–233, title IV, §401, Jan. 6, 1988, 101 Stat. 1625;amended Pub. L. 100–399, title IV, §401(e), (f), Aug. 17, 1988, 102 Stat. 995, 996.)
 
 #### Codification
 
@@ -78,7 +78,7 @@ A prior section 2015, Pub. L. 92–181, title I, §1.7, Dec. 10, 1971, 85 Stat. 
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–399, §401(e), inserted in heading “and related assistance” and amended text generally. Prior to amendment, text read as follows: “The Farm Credit Banks are authorized to make or participate with other lenders in long-term real estate mortgage loans in rural areas, as defined by the Farm Credit Administration, or to producers or harvesters of aquatic products, and make continuing commitments to make such loans under specified circumstances, for a term of not less than 5 nor more than 40 years.”
+<b>1988</b>—Subsec. (a). Pub. L. 100–399, §401(e), inserted in heading “and related assistance” and amended text generally. Prior to amendment, text read as follows: “The Farm Credit Banks are authorized to make or participate with other lenders in long-term real estate mortgage loans in rural areas, as defined by the Farm Credit Administration, or to producers or harvesters of aquatic products, and make continuing commitments to make such loans under specified circumstances, for a term of not less than 5 nor more than 40 years.”
 
 Subsec. (b)(2). Pub. L. 100–399, §401(f)(1), struck out provision that banks may own and lease or lease with an option to purchase to persons eligible for assistance under this subchapter, equipment needed in the operations of such persons.
 
@@ -88,5 +88,5 @@ Subsec. (b)(4)(A). Pub. L. 100–399, §401(f)(3), substituted “subsection” 
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–399 effective immediately after amendment made by section 401 of Pub. L. 100–233,which was effective 6 months after Jan. 6, 1988, see section 1001(b) of Pub. L. 100–399, set out as a note under section 2002 of this title.
+Amendment by Pub. L. 100–399 effective immediately after amendment made by section 401 of Pub. L. 100–233, which was effective 6 months after Jan. 6, 1988, see section 1001(b) of Pub. L. 100–399, set out as a note under section 2002 of this title.
 

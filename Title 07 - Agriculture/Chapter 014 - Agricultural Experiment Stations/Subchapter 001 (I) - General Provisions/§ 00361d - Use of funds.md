@@ -10,5 +10,5 @@ Section was formerly classified to section 365 of this title.
 
 #### Amendments
 
-1955—Act Aug. 11, 1955, amended section generally to provide for printing and disseminating the results of research, retirement of employees, administrative planning and direction, purchase and rental of land, and the construction, acquisition, alteration, or repair of buildings necessary for conducting research. Former provisions which related to issuance and free mailing of publications are now contained in section 361f of this title.
+<b>1955</b>—Act Aug. 11, 1955, amended section generally to provide for printing and disseminating the results of research, retirement of employees, administrative planning and direction, purchase and rental of land, and the construction, acquisition, alteration, or repair of buildings necessary for conducting research. Former provisions which related to issuance and free mailing of publications are now contained in section 361f of this title.
 

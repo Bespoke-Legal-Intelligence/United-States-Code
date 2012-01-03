@@ -34,7 +34,7 @@ Guidance required.—The Secretary of Defense shall develop and issue guidance o
 
 &emsp;(2)
 
-Modification.—If the Secretary modifies the guidance issued under paragraph (1), the Secretary shall submit to the appropriate committees of Congress a report setting forththe modified guidance not later than 30 days after the date of such modification.
+Modification.—If the Secretary modifies the guidance issued under paragraph (1), the Secretary shall submit to the appropriate committees of Congress a report setting forth the modified guidance not later than 30 days after the date of such modification.
 
 (f)
 

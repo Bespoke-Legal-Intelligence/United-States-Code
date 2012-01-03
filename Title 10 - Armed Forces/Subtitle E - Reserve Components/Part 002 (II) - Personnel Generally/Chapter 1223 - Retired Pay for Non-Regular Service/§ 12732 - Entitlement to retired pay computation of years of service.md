@@ -154,7 +154,7 @@ In subsection (a)(1)(A), the words “the armed forces” are substituted for cl
 
 In subsection (a)(1)(B)–(C), the words “June 15” are inserted to reflect the exact date of the change in National Guard status made by section 5 of the Act of June 15, 1933, ch. 87, 48 Stat. 155, which established the National Guard of the United States as a reserve component of the Army.
 
-In subsection (a)(1)(D), 10:1036e(c)(8) (last 25 words), 10:1036e(c)(9) (last 22 words), 34:440m(c)(8) (last 25 words), and 34:440m(c)(9) (last 22 words) are omitted as covered by subsection (b)(5).
+In subsection (a)(1)(D), 10:1036e(c)(8) (last 25 words), 10:1036e(c)(9) (last 22 words), 34:440m(c)(8) (last 25words), and 34:440m(c)(9) (last 22 words) are omitted as covered by subsection (b)(5).
 
 In subsection (a)(2)(A), the words “service that conformed to required standards and qualifications” are substituted for 10:1036e(b) and 34:440m(b). In clause (a)(2)(A), 10:1036e(d) and 34:440m(d), which make it clear that “active Federal service”, in the sense in which that term is used in 10:1036a–e and 34:440i–m, includes annual training duty and attendance at service schools, are omitted as covered by sections 101(22) and 101(24) of this title.
 
@@ -174,7 +174,7 @@ The word “full-time” is inserted for clarity. The other change reflects the 
 
 #### References in Text
 
-Act of December 22, 1942, referred to in subsec. (a)(1)(I), is act Dec. 22, 1942, ch. 805, 56 Stat. 1072, which amended section 164 of former Title 10, Army and Air Force, and enacted provisions set out as notes under section 81 of former Title 10 and section 113 of formerTitle 37, Pay and Allowances, and was repealed as executed, by section 53 of act Aug. 10, 1956, ch. 1041 70A Stat. 641.
+Act of December 22, 1942, referred to in subsec. (a)(1)(I), is act Dec. 22, 1942, ch. 805, 56 Stat. 1072, which amended section 164 of former Title 10, Army and Air Force, and enacted provisions set out as notes under section 81 of former Title 10 and section 113 of former Title 37, Pay and Allowances, and was repealed as executed, by section 53 of act Aug. 10, 1956, ch. 1041 70A Stat. 641.
 
 Women's Medical Specialist Corps, referred to in subsec. (a)(1)(J)(ii), redesignated Army Medical Specialist Corps by Pub. L. 85–155, Aug. 21, 1957, 71 Stat. 375. See section 3070 of this title. See, also, act Aug. 9, 1955, ch. 654, 69 Stat. 579.
 
@@ -228,7 +228,7 @@ Section 531(b), (c) of Pub. L. 104–201 provided that:
 
 “(b)
 
-Tracking System for Award of Retirement Points.—To better enable the Secretary of Defense and Congress to assess the cost and the effect on readiness of the amendment made by subsection (a) \[amending section 12733 of this title\] and of other potential changes to the Reserve retirement system under chapter 1223 of title 10, United States Code, the Secretary of Defense shall require the Secretary of each military department to implement a system to monitor the award of retirement points for purposes of that chapter by categories in accordance with the recommendation set forth in the August 1988 report of the Sixth Quadrennial Review of Military Compensation.
+Tracking System for Award of Retirement Points.—To better enable the Secretary of Defense and Congress to assess the cost and the effect on readinessof the amendment made by subsection (a) \[amending section 12733 of this title\] and of other potential changes to the Reserve retirement system under chapter 1223 of title 10, United States Code, the Secretary of Defense shall require the Secretary of each military department to implement a system to monitor the award of retirement points for purposes of that chapter by categories in accordance with the recommendation set forth in the August 1988 report of the Sixth Quadrennial Review of Military Compensation.
 
 “(c)
 

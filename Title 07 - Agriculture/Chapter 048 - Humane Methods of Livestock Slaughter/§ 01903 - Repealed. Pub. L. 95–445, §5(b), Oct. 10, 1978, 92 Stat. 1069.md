@@ -8,5 +8,5 @@ Repeal effective one year after Oct. 10, 1978, and nonapplicability during not t
 
 #### Contracts For or Procurement of Livestock Products During the Period From June 30, 1960, to August 30, 1960
 
-Pub. L. 86–547, June 29, 1960, 74 Stat. 255, permitted any agency or instrumentality of the United States, during the period from June 30, 1960, to August 30, 1960, to contract for or procure livestock products produced or processed by a slaughterer or processor which slaughters or handles for slaughter livestock by methods other than those designated and approved by the Secretary of Agriculture if such slaughterer or processor has contracted for the purchase of the equipment necessary to enable him to adopt such methods but such equipment has not been delivered to him.
+Pub. L. 86–547, June 29, 1960, 74 Stat. 255, permitted any agency or instrumentality of the United States,during the period from June 30, 1960, to August 30, 1960, to contract for or procure livestock products produced or processed by a slaughterer or processor which slaughters or handles for slaughter livestock by methods other than those designated and approved by the Secretary of Agriculture if such slaughterer or processor has contracted for the purchase of the equipment necessary to enable him to adopt such methods but such equipment has not been delivered to him.
 

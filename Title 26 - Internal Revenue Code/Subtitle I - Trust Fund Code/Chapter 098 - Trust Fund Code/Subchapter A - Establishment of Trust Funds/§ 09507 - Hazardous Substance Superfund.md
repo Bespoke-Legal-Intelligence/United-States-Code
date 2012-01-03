@@ -66,7 +66,7 @@ There are hereby appropriated to the Superfund amounts equivalent to—
 
 #### (A) In general
 
-&emsp;&emsp;Advances made to the Superfund shall be repaid, and interest on such advances shall be paid, to the general fund of the Treasury when the Secretary determines that moneys are available for such purposes in the Superfund.
+&emsp;&emsp;Advances made to the Superfund shall be repaid, and interest on such advances shall be paid, to the general fund of the Treasurywhen the Secretary determines that moneys are available for such purposes in the Superfund.
 
 #### (B) Final repayment
 
@@ -150,7 +150,7 @@ Section 517(b) of Pub. L. 99–499, as amended by Pub. L. 101–508, title XI, �
 
 &emsp;“(9) 1995, $250,000,000,
 
-> plus for each fiscal year an amount equal to so much of the aggregate amount authorized to be appropriated under this subsection (and paragraph (2) of section 221(b) of the Hazardous Substance Response Act of 1980 \[probably means section 221(b)(2) of the Hazardous Substance Response Revenue Act of 1980, which was classified to 42 U.S.C. 9631(b)(2) before its repeal by section 517(c)(1) of Pub. L. 99–499\], as in effect before its repeal) as has not been appropriated before the beginning of the fiscal year involved.”
+> plus for each fiscal year an amount equal to so much of the aggregate amount authorized to be appropriated under this subsection (and paragraph (2) of section 221(b) of the Hazardous Substance Response Act of 1980 \[probably means section 221(b)(2) of the Hazardous Substance Response Revenue Act of 1980, which was classified to 42 U.S.C. 9631(b)(2) before its repeal by section 517(c)(1) of Pub. L. 99–499\], as in effect before its repeal)as has not been appropriated before the beginning of the fiscal year involved.”
 
 \[Section 11231(d) of Pub. L. 101–508 directed that section 517(b) of Pub. L. 99–499, set out above, be “amended by striking ‘and’ at the end of paragraph (4), by striking the period at the end of paragraph (5) and inserting ‘, and’, and by adding at the end thereof” new pars. (6) to (9), with par. (9) ending in a period. Pub. L. 104–188, title I, §1704(t)(44), Aug. 20, 1996, 110 Stat. 1889, provided that section 11231(d) of Pub. L. 101–508 “shall be applied as if ‘comma’ appeared instead of ‘period’ \[in the directory language amending section 517(b)(5) of Pub. L. 99–499\] and as if the paragraph (9) proposed to be added ended with a comma”.\]
 

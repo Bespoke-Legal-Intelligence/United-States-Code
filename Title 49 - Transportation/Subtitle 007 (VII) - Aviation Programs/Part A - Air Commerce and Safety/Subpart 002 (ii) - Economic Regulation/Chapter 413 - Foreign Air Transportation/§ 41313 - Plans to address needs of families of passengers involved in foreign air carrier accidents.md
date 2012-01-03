@@ -54,7 +54,7 @@ Return of possessions.—An assurance that, if requested by the family of a pass
 
 &emsp;(7)
 
-Unclaimed possessions retained.—An assurance that any unclaimed possession of a passenger within the control of the foreign air carrier will be retained by the foreign air carrier for not less than 18 months after the date of the accident.
+Unclaimed possessions retained.—An assurance that any unclaimed possession of a passenger within the control of the foreign aircarrier will be retained by the foreign air carrier for not less than 18 months after the date of the accident.
 
 &emsp;(8)
 
@@ -90,7 +90,7 @@ Training of employees and agents.—An assurance that the foreign air carrier wi
 
 &emsp;(16)
 
-Consultation on carrier response not covered by plan.—An assurance that the foreign air carrier, in the event that the foreign air carrier volunteers assistance to United States citizens within the United States with respect to an aircraft accident outside the United States involving major loss of life, theforeign air carrier <sup>1</sup> will consult with the Board and the Department of State on the provision of the assistance.
+Consultation on carrier response not covered by plan.—An assurance that the foreign air carrier, in the event that the foreign air carrier volunteers assistance to United States citizens within the United States with respect to an aircraft accident outside the United States involving major loss of life, the foreign air carrier <sup>1</sup> will consult with the Board and the Department of State on the provision of the assistance.
 
 &emsp;(17)
 

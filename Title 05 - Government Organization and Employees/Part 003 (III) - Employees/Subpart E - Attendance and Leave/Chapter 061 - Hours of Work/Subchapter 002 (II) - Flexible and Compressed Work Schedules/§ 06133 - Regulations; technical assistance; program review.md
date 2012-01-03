@@ -28,7 +28,7 @@
 
 #### Amendments
 
-2009—Subsec. (c)(3). Pub. L. 111–68 added par. (3).
+<b>2009</b>—Subsec. (c)(3). Pub. L. 111–68 added par. (3).
 
-1989—Subsec. (c). Pub. L. 101–163 designated existing provisions as par. (1) and added par. (2).
+<b>1989</b>—Subsec. (c). Pub. L. 101–163 designated existing provisions as par. (1) and added par. (2).
 

@@ -10,7 +10,7 @@
 
 &emsp;(C) to help create productive farm and off-farm employment in rural areas to provide a more viable economic base and enhance opportunities for improved incomes, living standards, and contributions by rural poor people to the economic and social development of their countries.
 
-(2) There are authorized to be appropriated to the President for purposes of this section, in addition to funds otherwise available for such purposes, $760,000,000 for fiscal year 1986 and $760,000,000 for fiscal year 1987. Of these amounts, the President may use such amounts as he deems appropriate to carry out the provisions of section 316 of the International Security and Development Cooperation Act of 1980. Amounts appropriated under this section are authorized to remain available until expended.
+(2) There are authorized to be appropriated to the President for purposes of this section, in addition to funds otherwise available for such purposes, $760,000,000 for fiscal year 1986 and $760,000,000 for fiscal year 1987. Of theseamounts, the President may use such amounts as he deems appropriate to carry out the provisions of section 316 of the International Security and Development Cooperation Act of 1980. Amounts appropriated under this section are authorized to remain available until expended.
 
 (3) Of the amounts authorized to be appropriated in paragraph (2) for the fiscal year 1987, not less than $2,000,000 shall be available only for the purpose of controlling and eradicating amblyomma variegatum (heartwater) in bovine animals in the Caribbean.
 
@@ -40,7 +40,7 @@ Local currency proceeds from sales of commodities provided under the Food for Pe
 
 #### (f) National food security policies and programs; bilateral and multilateral assistance
 
-The Congress finds that the efforts of developing countries to enhance their national food security deserves encouragement as a matter of United States development assistance policy.Measures complementary to assistance for expanding food production in developing countries are needed to help assure that food becomes increasingly available on a regular basis to the poor in such countries. Therefore, United States bilateral assistance under this chapter and the Food for Peace Act \[7 U.S.C. 1691 et seq.\], and United States participation in multilateral institutions, shall emphasize policies and programs which assist developing countries to increase their national food security by improving their food policies and management and by strengthening national food reserves, with particular concern for the needs of the poor, through measures encouraging domestic production, building national food reserves, expanding available storage facilities, reducing postharvest food losses, and improving food distribution.
+The Congress finds that the efforts of developing countries to enhance their national food security deserves encouragement as a matter of United States development assistance policy. Measures complementary to assistance for expanding food production in developing countries are needed to help assure that food becomes increasingly available on a regular basis to the poor in such countries. Therefore, United States bilateral assistance under this chapter and the Food for Peace Act \[7 U.S.C. 1691 et seq.\], and United States participation in multilateral institutions, shall emphasize policies and programs which assist developing countries to increase their national food security by improving their food policies and management and by strengthening national food reserves, with particular concern for the needs of the poor, through measures encouraging domestic production, building national food reserves, expanding available storage facilities, reducing postharvest food losses, and improving food distribution.
 
 #### (g) International Fund for Agricultural Development; participation and contributions; availability of appropriations
 
@@ -116,7 +116,7 @@ Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L.
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.
 
 #### International Fund for Agricultural Development; Sixth Replenishment
 

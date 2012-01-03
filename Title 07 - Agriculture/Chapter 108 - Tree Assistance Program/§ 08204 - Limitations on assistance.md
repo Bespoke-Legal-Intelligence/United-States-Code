@@ -28,7 +28,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (c)(1). Pub. L. 110–246, §1603(g)(4), inserted “(before the amendment made by section 1703(a) of the Food, Conservation, and Energy Act of 2008)” after “section 1308 of this title”.
+<b>2008</b>—Subsec. (c)(1). Pub. L. 110–246, §1603(g)(4), inserted “(before the amendment made by section 1703(a) of the Food, Conservation, and Energy Act of 2008)” after “section 1308 of this title”.
 
 #### Effective Date of 2008 Amendment
 

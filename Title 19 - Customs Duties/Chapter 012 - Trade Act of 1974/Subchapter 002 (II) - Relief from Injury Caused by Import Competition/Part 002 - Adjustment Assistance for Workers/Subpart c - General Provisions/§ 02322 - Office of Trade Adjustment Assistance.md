@@ -50,11 +50,15 @@ The principal functions of the administrator of the Office shall be—
 
 &emsp;&emsp;(D) carry out such other duties with respect to this part as the Secretary specifies for purposes of this section.
 
-(Pub. L. 93–618, title II, §249A, as added Pub. L. 111–5, div. B, title I, §1851(a), Feb. 17, 2009, 123 Stat. 389.)
+(Pub. L. 93–618, title II, §249A, as added Pub. L. 111–5, div. B, title I, §1851(a), Feb. 17, 2009, 123 Stat. 389, and Pub. L. 112–40, title II, §201(b), (c), Oct. 21, 2011, 125 Stat. 403.)
 
 #### Termination of Section
 
-<i>For termination of section by section 1893 of Pub. L. 111–5, see Effective and Termination Dates note below.</i>
+<i>For termination of section beginning on Jan. 1, 2014, with certain exceptions and subject to section 233(b) of Pub. L. 112–40, see Codification and Effective and Termination Dates notes below.</i>
+
+#### Codification
+
+Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination of section, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, and this section, as added by Pub. L. 111–5 and as in effect on Feb. 12, 2011, was temporarily revived, effective Oct. 21, 2011, until Jan. 1, 2014, by Pub. L. 112–40, §§201(b), (c), 233. See Effective and Termination Dates notes below.
 
 #### Prior Provisions
 
@@ -64,9 +68,11 @@ Another prior section 2322, Pub. L. 93–618, title II, §250, Jan. 3, 1975, 88 
 
 #### Effective and Termination Dates
 
+For temporary revival and applicability of section, as in effect on Feb. 12, 2011, see sections 201(b), (c) and 233 of Pub. L. 112–40, set out as Effective and Termination Dates of 2011 Revival notes preceding section 2271 of this title. For termination beginning on Jan. 1, 2014, with certain exceptions and subject to section 233(b) of Pub. L. 112–40, see section 233 of Pub. L. 112–40, set out as an Effective and Termination Dates of 2011 Revival note preceding section 2271 of this title.
+
 Except as otherwise provided and subject to certain applicability provisions, section effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 2271 of this title.
 
-Except as otherwise provided, section not applicable on or after Feb. 13, 2011, and this section to be applied and administered beginning Feb. 13, 2011, as if this section had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
+Section 1893 of Pub. L. 111–5, which provided that, except as otherwise provided, section not applicable on or after Feb. 13, 2011, and that this section be applied and administered beginning Feb. 13, 2011, as if this section had never been enacted, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403. See Codification note above.
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after Feb. 12, 2011, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a Termination Date note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after Dec. 31, 2013, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a Termination Date note preceding section 2271 of this title.
 

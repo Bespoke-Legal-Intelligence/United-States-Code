@@ -48,7 +48,7 @@ The President shall establish a comprehensive, integrated, 5-year strategy to ex
 
 &emsp;(7) expand the integration of timely and relevant research within the prevention, care, and treatment of HIV/AIDS;
 
-&emsp;(8) include a plan for program monitoring, operations research, and impact evaluationand for the dissemination of a best practices report to highlight findings;
+&emsp;(8) include a plan for program monitoring, operations research, and impact evaluation and for the dissemination of a best practices report to highlight findings;
 
 &emsp;(9) support the in-country or intra-regional training, preferably through public-private partnerships, of scientific investigators, managers, and other staff who are capable of promoting the systematic uptake of clinical research findings and other evidence-based interventions into routine practice, with the goal of improving the quality, effectiveness, and local leadership of HIV/AIDS health care;
 
@@ -68,7 +68,7 @@ The President shall establish a comprehensive, integrated, 5-year strategy to ex
 
 &emsp;&emsp;(E) promoting voluntary counseling and testing, addiction therapy, and other prevention and treatment tools for illicit injection drug users and other substance abusers;
 
-&emsp;&emsp;(F) educating men and boys about the risks of procuring sex commercially and about the need to end violent behavior toward women and girls;
+&emsp;&emsp;(F) educating men and boys about the risks of procuring sex commercially andabout the need to end violent behavior toward women and girls;
 
 &emsp;&emsp;(G) supporting partner country and community efforts to identify and address social, economic, or cultural factors, such as migration, urbanization, conflict, gender-based violence, lack of empowerment for women, and transportation patterns, which directly contribute to the transmission of HIV;
 
@@ -212,7 +212,7 @@ The President shall establish a comprehensive, integrated, 5-year strategy to ex
 
 &emsp;&emsp;&emsp;(vi) optimize delivery of services.
 
-&emsp;&emsp;(K) An analysis of United States-assisted strategies to prevent the transmission of HIV/AIDS, including methodologies to promote abstinence, monogamy, faithfulness, the correct and consistent use of male and female condoms, reductions in concurrent sexual partners, and delay of sexual debut, and of intended monitoring and evaluationapproaches to measure the effectiveness of prevention programs and ensure that they are targeted to appropriate audiences.
+&emsp;&emsp;(K) An analysis of United States-assisted strategies to prevent the transmission of HIV/AIDS, including methodologies to promote abstinence, monogamy, faithfulness, the correct and consistent use of male and female condoms, reductions in concurrent sexual partners, and delay of sexual debut, and of intended monitoring and evaluation approaches to measure the effectiveness of prevention programs and ensure that they are targeted to appropriate audiences.
 
 &emsp;&emsp;(L) Within the analysis required under subparagraph (K), an examination of additional planned means of preventing the transmission of HIV including medical male circumcision, maintenance of a safe blood supply, public education about risks to acquire HIV infection from blood exposures, promotion of universal precautions, investigation of suspected nosocomial infections and other tools.
 
@@ -320,7 +320,7 @@ The President shall establish a comprehensive, integrated, 5-year strategy to ex
 
 #### (C) Methodologies
 
-&emsp;&emsp;Assessments and impact evaluations conducted under the study shall utilize sound statistical methods and techniques for the behavioral sciences, including random assignment methodologies as feasible. Qualitative data on process variables should be used for assessments and impact evaluations, wherever possible.
+&emsp;&emsp;Assessments and impact evaluations conducted under the study shall utilize sound statistical methods and techniques for thebehavioral sciences, including random assignment methodologies as feasible. Qualitative data on process variables should be used for assessments and impact evaluations, wherever possible.
 
 #### (3) Contract authority
 

@@ -24,7 +24,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 927(b) of the House amendment is derived from section 927(b) of the Senate bill. The provision requires mandatory dismissal if confirmation of a plan is refused.
 
@@ -42,7 +42,7 @@ Section 926 \[enacted as section 927\] generally conforms to section 98(a) \[sec
 
 #### Amendments
 
-1984—Subsec. (b). Pub. L. 98–353 substituted “confirmation of a plan under this chapter” for “confirmation”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–353 substituted “confirmation of a plan under this chapter” for “confirmation”.
 
 #### Effective Date of 1984 Amendment
 

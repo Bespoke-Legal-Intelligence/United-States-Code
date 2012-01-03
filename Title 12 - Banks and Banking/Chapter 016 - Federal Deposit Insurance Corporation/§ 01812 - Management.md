@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) 1 of whom shall be the Comptroller of the Currency;
 
-&emsp;&emsp;(B) 1 of whom shall be the Director of the Office of Thrift Supervision; and
+&emsp;&emsp;(B) 1 of whom shall be the Director of the Consumer Financial Protection Bureau; and
 
 &emsp;&emsp;(C) 3 of whom shall be appointed by the President, by and with the advice and consent of the Senate, from among individuals who are citizens of the United States, 1 of whom shall have State bank supervisory experience.
 
@@ -52,7 +52,7 @@
 
 #### (2) Acting officials may serve
 
-&emsp;In the event of a vacancy in the office of the Comptroller of the Currency or the office of Director of the Office of Thrift Supervision and pending the appointment of a successor, or during the absence or disability of the Comptroller or such Director, the acting Comptroller of the Currency or the acting Director of the Office of Thrift Supervision, as the case may be, shall be a member of the Board of Directors in the place of the Comptroller or Director.
+&emsp;In the event of a vacancy in the office of the Comptroller of the Currency or the office of Director of the Consumer Financial Protection Bureau and pending the appointment of a successor, or during the absence or disability of the Comptroller of the Currency or the Director of the Consumer Financial Protection Bureau, the acting Comptroller of the Currency or the acting Director of the Consumer Financial Protection Bureau, as the case may be, shall be a member of the Board of Directors in the place of the Comptroller or Director.
 
 #### (e) Ineligibility for other offices
 
@@ -68,7 +68,7 @@
 
 #### (B) Exception for members who serve full term
 
-&emsp;&emsp;The limitation contained in subparagraph (A)(ii) shall not apply to any member who has ceased to serve on the Board of Directorsafter serving the full term for which such member was appointed.
+&emsp;&emsp;The limitation contained in subparagraph (A)(ii) shall not apply to any member who has ceased to serve on the Board of Directors after serving the full term for which such member was appointed.
 
 #### (2) Restriction during service
 
@@ -90,7 +90,7 @@
 
 #### (2) “Employee of the Corporation” defined
 
-&emsp;For purposes of this subsection, the term “employee of the Corporation” includes any employee of the Office of the Comptroller of the Currency or of the Office of Thrift Supervision who serves as a deputy or assistant to a member of the Board of Directors of the Corporation in connection with activities of the Corporation.
+&emsp;For purposes of this subsection, the term “employee of the Corporation” includes any employee of the Office of the Comptroller of the Currency or of the Consumer Financial Protection Bureau who serves as a deputy or assistant to a member of the Board of Directors of the Corporation in connection with activities of the Corporation.
 
 #### (3) Effect on other law
 
@@ -102,11 +102,11 @@
 
 > &emsp;This subsection shall not be construed to limit or alter in any way the immunities that are available under applicable law for Federal officials and employees not described in this subsection.
 
-(Sept. 21, 1950, ch. 967, §2\[2\], 64 Stat. 873; Pub. L. 86–230, §19, Sept. 8, 1959, 73 Stat. 460; Pub. L. 98–181, title VII, §702(a), Nov. 30, 1983, 97 Stat. 1267; Pub. L. 101–73, title II, §203(a), Aug. 9, 1989, 103 Stat. 188; Pub. L. 102–18, title I, §103(b), Mar. 23, 1991, 105 Stat. 60; Pub. L. 104–208, div. A, title II, §2243, Sept. 30, 1996, 110 Stat. 3009–419.)
+(Sept. 21, 1950, ch. 967, §2\[2\], 64 Stat. 873; Pub. L. 86–230, §19, Sept. 8, 1959, 73 Stat. 460; Pub. L. 98–181, title VII, §702(a), Nov. 30, 1983, 97 Stat. 1267; Pub. L. 101–73, title II, §203(a), Aug. 9, 1989, 103 Stat. 188; Pub. L. 102–18, title I, §103(b), Mar. 23, 1991, 105 Stat. 60; Pub. L. 104–208, div. A, title II, §2243, Sept. 30, 1996, 110 Stat. 3009–419; Pub. L. 111–203, title III, §336(a), July 21, 2010, 124 Stat. 1540.)
 
 #### References in Text
 
-The Securities Act of 1933, referred to in subsec. (f)(1), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
+The Securities Act of 1933, referred to in subsec. (f)(1), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
 
 #### Prior Provisions
 
@@ -114,37 +114,31 @@ Section is derived from subsec. (b) of former section 264 of this title. See Cod
 
 #### Amendments
 
-1996—Subsec. (a)(1)(C). Pub. L. 104–208 inserted “, 1 of whom shall have State bank supervisory experience” before period at end.
+<b>2010</b>—Subsec. (a)(1)(B). Pub. L. 111–203, §336(a)(1), substituted “Director of the Consumer Financial Protection Bureau” for “Director of the Office of Thrift Supervision”.
 
-1991—Subsec. (f). Pub. L. 102–18 added subsec. (f).
+Subsec. (d)(2). Pub. L. 111–203, §336(a)(2), amended par. (2) generally. Prior to amendment, text read as follows: “In the event of a vacancy in the office of the Comptroller of the Currency or the office of Director of the Office of Thrift Supervision and pending the appointment of a successor, or during the absence or disability of the Comptroller or such Director, the acting Comptroller of the Currency or the acting Director of the Office of Thrift Supervision, as the case may be, shall be a member of the Board of Directors in the place of the Comptroller or Director.”
 
-1989—Pub. L. 101–73 amended section generally, designating existing provisions as subsecs. (a) to (e), and making other changes relating to the make-up and operation of the Board.
+Subsec. (f)(2). Pub. L. 111–203, §336(a)(3), substituted “Consumer Financial Protection Bureau” for “Office of Thrift Supervision”.
 
-1983—Pub. L. 98–181 inserted provision that each such appointive member may continue to serve after the expiration of his term until a successor has been appointed and qualified.
+<b>1996</b>—Subsec. (a)(1)(C). Pub. L. 104–208 inserted “, 1 of whom shall have State bank supervisory experience” before period at end.
 
-1959—Pub. L. 86–230 provided for membership of Acting Comptroller of the Currency on Board of Directors during absence or disability of Comptroller instead of only during his absence from Washington.
+<b>1991</b>—Subsec. (f). Pub. L. 102–18 added subsec. (f).
+
+<b>1989</b>—Pub. L. 101–73 amended section generally, designating existing provisions as subsecs. (a) to (e), and making other changes relating to the make-up and operation of the Board.
+
+<b>1983</b>—Pub. L. 98–181 inserted provision that each such appointive member may continue to serve after the expiration of his term until a successor has been appointed and qualified.
+
+<b>1959</b>—Pub. L. 86–230 provided for membership of Acting Comptroller of the Currency on Board of Directors during absence or disability of Comptroller instead of only during his absence from Washington.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–203, title III, §336(b), July 21, 2010, 124 Stat. 1540, provided that: “This section \[amending this section\], and the amendments made by this section, shall take effect on the transfer date.”
+
+\[For definition of “transfer date” as used in section 336(b) of Pub. L. 111–203, set out above, see section 5301 of this title.\]
 
 #### Transition Provision
 
-Section 203(b) of Pub. L. 101–73 provided that:
-
-“(1)
-
-Chairperson.—Notwithstanding any provision of section 2 of the Federal Deposit Insurance Act \[12 U.S.C. 1812\], the Chairman of the Board of Directors of the Federal Deposit Insurance Corporation on the date of the enactment of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 \[Aug. 9, 1989\] may continue to serve as the Chairperson until the end of the term to which such Chairman was appointed.
-
-“(2)
-
-Members.—Notwithstanding any provision of section 2 of the Federal Deposit Insurance Act, the appointed member of the Board of Directors of the Federal Deposit Insurance Corporation on the date of the enactment of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 who is not the Chairman shall continue to serve in office until the earlier of—
-
-&emsp;“(A) the end of the term to which such member was appointed; or
-
-&emsp;“(B) February 28, 1993,
-
-> except that such member may continue to serve after the end of such term until a successor has been appointed and qualified.
-
-“(3)
-
-Appointments before march 1, 1993.—Notwithstanding any provision of section 2 of the Federal Deposit Insurance Act, the term of any member appointed to the Board of Directors of the Federal Deposit Insurance Corporation before February 28, 1993 (including the term of any Chairperson), shall end on such date.”
+Pub. L. 101–73, title II, §203(b), Aug. 9, 1989, 103 Stat. 189, which permitted the Chairman of the Board of Directors of the Federal Deposit Insurance Corporation on Aug. 9, 1989, to continue to serve as the Chairperson until the end of the term to which such Chairman was appointed (notwithstanding any provision of this section), provided that the appointed member of the Board on Aug. 9, 1989, who is not the Chairman continue to serve in office until the earlier of the end of the term to which such member was appointed or Feb. 28, 1993, with certain exceptions, and provided that the term of any member appointed to the Board before Feb. 28, 1993 (including the term of any Chairperson), end on such date, was repealed by Pub. L. 111–203, title III, §367(1), July 21, 2010, 124 Stat. 1556.
 
 #### Compensation of Board of Directors
 

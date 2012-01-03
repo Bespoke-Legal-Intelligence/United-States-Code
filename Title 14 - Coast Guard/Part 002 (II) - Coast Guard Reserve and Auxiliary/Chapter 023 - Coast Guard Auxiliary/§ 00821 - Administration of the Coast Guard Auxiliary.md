@@ -44,7 +44,7 @@ This section continues the Auxiliary, redefining it as a nonmilitary organizatio
 
 #### Amendments
 
-2006—Subsec. (b)(3) to (5). Pub. L. 109–304 added pars (3) to (5) and struck out former pars. (3) to (5) which read as follows:
+<b>2006</b>—Subsec. (b)(3) to (5). Pub. L. 109–304 added pars (3) to (5) and struck out former pars. (3) to (5) which read as follows:
 
 “(3) The Act of March 3, 1925 (46 App. U.S.C. 781–790; popularly known as the Public Vessels Act).
 
@@ -52,9 +52,9 @@ This section continues the Auxiliary, redefining it as a nonmilitary organizatio
 
 “(5) The Act of June 19, 1948 (46 App. U.S.C. 740; popularly known as the Admiralty Extension Act).”
 
-2004—Subsec. (d). Pub. L. 108–293 added subsec. (d).
+<b>2004</b>—Subsec. (d). Pub. L. 108–293 added subsec. (d).
 
-1996—Pub. L. 104–324 inserted “of the Coast Guard Auxiliary” after “Administration” in section catchline and amended text generally. Prior to amendment, text read as follows: “The Coast Guard Auxiliary established on February 19, 1941, is a nonmilitary organization administered by the Commandant under the direction of the Secretary.”
+<b>1996</b>—Pub. L. 104–324 inserted “of the Coast Guard Auxiliary” after “Administration” in section catchline and amended text generally. Prior to amendment, text read as follows: “The Coast Guard Auxiliary established on February 19, 1941, is a nonmilitary organization administered by the Commandant under the direction of the Secretary.”
 
 #### Use of Coast Guard Auxiliary
 

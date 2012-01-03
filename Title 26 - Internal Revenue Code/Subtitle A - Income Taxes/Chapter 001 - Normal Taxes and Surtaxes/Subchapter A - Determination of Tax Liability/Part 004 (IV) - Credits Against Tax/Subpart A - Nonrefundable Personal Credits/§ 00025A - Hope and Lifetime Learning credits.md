@@ -24,7 +24,7 @@ In the case of an individual, there shall be allowed as a credit against the tax
 
 &emsp;&emsp;An election to have this section apply with respect to any eligible student for purposes of the Hope Scholarship Credit under subsection (a)(1) may not be made for any taxable year if such an election (by the taxpayer or any other individual) is in effect with respect to such student for any 2 prior taxable years.
 
-#### (B) Credit allowed for year only if individual is at least 1/2 time student for portion of year
+#### (B) Credit allowed for year only if individual is at least ½ time student for portion of year
 
 &emsp;&emsp;The Hope Scholarship Credit under subsection (a)(1) shall not be allowed for a taxable year with respect to the qualified tuition and related expenses of an individual unless such individual is an eligible student for at least one academic period which begins during such year.
 
@@ -42,7 +42,7 @@ In the case of an individual, there shall be allowed as a credit against the tax
 
 &emsp;&emsp;(A) meets the requirements of section 484(a)(1) of the Higher Education Act of 1965 (20 U.S.C. 1091(a)(1)), as in effect on the date of the enactment of this section, and
 
-&emsp;&emsp;(B) is carrying at least 1/2 the normal full-time work load for the course of study the student is pursuing.
+&emsp;&emsp;(B) is carrying at least ½ the normal full-time work load for the course of study the student is pursuing.
 
 #### (4) Applicable limit
 
@@ -184,7 +184,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;In the case of a taxable year beginning after 2001, the $40,000 and $80,000 amounts in subsection (d)(2) shall each be increased by an amount equal to—
+&emsp;&emsp;In the case of a taxable year beginning after 2001, the $40,000 and $80,000 amounts insubsection (d)(2) shall each be increased by an amount equal to—
 
 &emsp;&emsp;&emsp;(i) such dollar amount, multiplied by
 
@@ -232,7 +232,7 @@ In the case of any taxable year beginning in 2009, 2010, 2011, or 2012—
 
 &emsp;&emsp;(A) the sum of the regular tax liability (as defined in section 26(b)) plus the tax imposed by section 55, over
 
-&emsp;&emsp;(B) the sum of the credits allowable under this subpart (other than this subsection and sections 25D and 30D) and section 27 for the taxable year.
+&emsp;&emsp;(B) the sum of the credits allowable under this subpart (other than this subsection and sections 23, 25D, and 30D) and section 27 for the taxable year.
 
 > &emsp;Any reference in this section or section 24, 25, 26, 25B, 904, or 1400C to a credit allowable under this subsection shall be treated as a reference to so much of the credit allowable under subsection (a) as is attributable to the Hope Scholarship Credit.
 
@@ -264,7 +264,7 @@ The Secretary may prescribe such regulations as may be necessary or appropriate 
 
 The date of the enactment of this section, referred to in subsecs. (b)(3)(A) and (f)(2)(A), is the date of enactment of Pub. L. 105–34 which was approved Aug. 5, 1997.
 
-The Higher Education Act of 1965, referred to in subsec. (f)(2)(B), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (f)(2)(B), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20,Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 Section 702(a)(1)(B) of the Heartland Disaster Tax Relief Act of 2008, referred to in subsec. (i)(7), is section 702(a)(1)(B) of Pub. L. 110–343, div. C, title VII, Oct. 3, 2008, 122 Stat. 3912, which is not classified to the Code.
 
@@ -332,7 +332,7 @@ Mirror code possession.—The Secretary of the Treasury shall pay to each posses
 
 &emsp;“(B)
 
-Other possessions.—The Secretary of the Treasury shall pay to each possession of the United States which does not have a mirror code tax system amounts estimated by the Secretary of the Treasuryas being equal to the aggregate benefits that would have been provided to residents of such possession by reason of the application of section 25A(i)(6) of such Code (as so added) for taxable years beginning in 2009, 2010, 2011, and 2012 if a mirror code tax system had been in effect in such possession. The preceding sentence shall not apply with respect to any possession of the United States unless such possession has a plan, which has been approved by the Secretary of the Treasury, under which such possession will promptly distribute such payments to the residents of such possession.
+Other possessions.—The Secretary of the Treasury shall pay to each possession of the United States which does not have a mirror code tax system amounts estimated by the Secretary of the Treasury as being equal to the aggregate benefits that would have been provided to residents of such possession by reason of the application of section 25A(i)(6) of such Code (as so added) for taxable years beginning in 2009, 2010, 2011, and 2012 if a mirror code tax system had been in effect in such possession. The preceding sentence shall not apply with respect to any possession of the United States unless such possession has a plan, which has been approved by the Secretary of the Treasury, under which such possession will promptly distribute such payments to the residents of such possession.
 
 “(2)
 

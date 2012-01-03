@@ -6,7 +6,7 @@ An individual shall be eligible under this part to receive supported employment 
 
 &emsp;(2) the individual is determined to be an individual with a most significant disability; and
 
-&emsp;(3) a comprehensive assessment of rehabilitation needs of the individual described in section 705(2)(B) of this title, including an evaluation of rehabilitation, career, and job needs,identifies supported employment as the appropriate employment outcome for the individual.
+&emsp;(3) a comprehensive assessment of rehabilitation needs of the individual described in section 705(2)(B) of this title, including an evaluation of rehabilitation, career, and job needs, identifies supported employment as the appropriate employment outcome for the individual.
 
 (Pub. L. 93–112, title VI, §624, as added Pub. L. 105–220, title IV, §409, Aug. 7, 1998, 112 Stat. 1215; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(b)(15)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–414.)
 

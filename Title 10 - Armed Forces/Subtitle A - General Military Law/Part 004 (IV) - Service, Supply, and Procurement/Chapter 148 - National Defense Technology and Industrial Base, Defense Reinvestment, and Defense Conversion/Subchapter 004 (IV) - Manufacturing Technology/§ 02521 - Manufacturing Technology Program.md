@@ -20,7 +20,7 @@ Purpose of Program.—The Secretary of Defense shall use the program—
 
 &emsp;(6) to sustain and enhance the skills and capabilities of the manufacturing work force;
 
-&emsp;(7) to promote high-performance work systems (with development and dissemination ofproduction technologies that build upon the skills and capabilities of the work force), high levels of worker education and training; and
+&emsp;(7) to promote high-performance work systems (with development and dissemination of production technologies that build upon the skills and capabilities of the work force), high levels of worker education and training; and
 
 &emsp;(8) to ensure appropriate coordination between the manufacturing technology programs and industrial preparedness programs of the Department of Defense and similar programs undertaken by other departments and agencies of the Federal Government or by the private sector.
 
@@ -152,7 +152,7 @@ Subsec. (b)(4). Pub. L. 106–65, §216(b), amended par. (4) generally. Prior to
 
 Subsec. (c)(2) to (6). Pub. L. 106–65, §216(c), added pars. (2) to (4), redesignated former par. (2) as (5), and added par. (6).
 
-Subsec. (d). Pub. L. 106–65, §216(d), struck out “(A)” before “In accordance with” in par. (1), redesignated par. (1)(B) as par. (2), substituted “Under the competitive procedures used, the factors to be considered in the evaluation of each proposed grant, contract, cooperative agreement, or other transaction for a project under the program shall include the extent to which that proposed transaction provides for the proposed recipient to share in the cost of the project.” for “For each grant awarded and each contract, cooperative agreement, or other transaction entered into on a cost-share basis under the program, the ratio of contract recipient cost to Government cost shall be determined by competitive procedures.”, and struck out former pars. (2) and (3) which required grants, contracts, cooperative agreements, and other transactions to be awarded or entered into on a cost-sharing basis unless the Secretary of Defense made certain determinations and specified as a goal that at least 25 percent of the funds available for the program for each fiscal year be used for grants, contracts, cooperative agreements, and other transactions on a cost-share basis under which the ratio of recipient cost to Government cost was two to one.
+Subsec. (d). Pub. L. 106–65, §216(d), struck out “(A)” before “In accordance with” in par. (1), redesignated par. (1)(B) as par. (2), substituted “Under the competitive procedures used, the factors to be considered in the evaluation of each proposed grant, contract, cooperative agreement, or other transaction for a project under the program shall include the extent to whichthat proposed transaction provides for the proposed recipient to share in the cost of the project.” for “For each grant awarded and each contract, cooperative agreement, or other transaction entered into on a cost-share basis under the program, the ratio of contract recipient cost to Government cost shall be determined by competitive procedures.”, and struck out former pars. (2) and (3) which required grants, contracts, cooperative agreements, and other transactions to be awarded or entered into on a cost-sharing basis unless the Secretary of Defense made certain determinations and specified as a goal that at least 25 percent of the funds available for the program for each fiscal year be used for grants, contracts, cooperative agreements, and other transactions on a cost-share basis under which the ratio of recipient cost to Government cost was two to one.
 
 Subsec. (e)(2)(A). Pub. L. 106–65, §216(e)(1), inserted “, including a description of all completed projects and status of implementation” before period at end.
 
@@ -228,7 +228,7 @@ Submission.—Not later than the date on which the budget of the President for f
 
 #### High-Performance Defense Manufacturing Technology Research and Development
 
-Pub. L. 109–163, div. A, title II, subtitle D, Jan. 6, 2006, 119 Stat. 3175, as amended by Pub. L. 111–383, div. A, title IX, §901(a)(2), Jan. 7, 2011, 124 Stat. 4317, provided that:
+Pub. L. 109–163, div. A, title II, subtitle D, Jan. 6, 2006, 119 Stat. 3175, as amended by Pub. L. 111–383, div. A,title IX, §901(a)(2), Jan. 7, 2011, 124 Stat. 4317, provided that:
 
 #### “SEC. 241. PILOT PROGRAM FOR IDENTIFICATION AND TRANSITION OF ADVANCED MANUFACTURING PROCESSES AND TECHNOLOGIES.
 

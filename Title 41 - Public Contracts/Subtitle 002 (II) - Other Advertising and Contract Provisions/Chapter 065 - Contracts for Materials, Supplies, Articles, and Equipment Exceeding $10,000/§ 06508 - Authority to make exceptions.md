@@ -14,7 +14,7 @@ Authority of the Secretary To Allow Limitations, Variations, Tolerances, and Exe
 
 (d)
 
-Rate of Pay for Overtime.—When the Secretary permits an increase in the maximumhours of labor stipulated in a contract, the Secretary shall set a rate of pay for overtime. The overtime rate must be at least one and one-half times the basic hourly rate.
+Rate of Pay for Overtime.—When the Secretary permits an increase in the maximum hours of labor stipulated in a contract, the Secretary shall set a rate of pay for overtime. The overtime rate must be at least one and one-half times the basic hourly rate.
 
 (e)
 

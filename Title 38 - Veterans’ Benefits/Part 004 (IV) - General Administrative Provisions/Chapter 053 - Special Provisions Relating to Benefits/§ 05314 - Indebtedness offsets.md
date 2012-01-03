@@ -1,6 +1,6 @@
 ### §5314. Indebtedness offsets
 
-(a) Subject to subsections (b) and (d) of this section and section 3485(e) of this title, the Secretary shall (unless the Secretary waives recovery under section 5302 of this title) deduct theamount of the indebtedness of any person who has been determined to be indebted to the United States by virtue of such person's participation in a benefits program administered by the Secretary from future payments made to such person under any law administered by the Secretary.
+(a) Subject to subsections (b) and (d) of this section and section 3485(e) of this title, the Secretary shall (unless the Secretary waives recovery under section 5302 of this title) deduct the amount of the indebtedness of any person who has been determined to be indebted to the United States by virtue of such person's participation in a benefits program administered by the Secretary from future payments made to such person under any law administered by the Secretary.
 
 (b) Deductions may not be made under subsection (a) of this section with respect to the indebtedness of a person described in such subsection unless the Secretary—
 
@@ -10,7 +10,7 @@
 
 &emsp;(3) has made reasonable efforts to notify such person about the proposed deductions from such payments.
 
-(c) Notwithstanding any other provision of this title or of any other law, the authority of the Secretary to make deductions under this section or to take other administrative action authorized by law for the purpose of collecting an indebtedness described in subsection (a) of this section, or for the purpose of determining the creditworthiness of a person who owes such an indebtedness, shall not be subject to any limitation with respect to the time for bringing civil actions or for commencing administrative proceedings.
+(c) Notwithstanding any other provision of this title or of any other law, the authority ofthe Secretary to make deductions under this section or to take other administrative action authorized by law for the purpose of collecting an indebtedness described in subsection (a) of this section, or for the purpose of determining the creditworthiness of a person who owes such an indebtedness, shall not be subject to any limitation with respect to the time for bringing civil actions or for commencing administrative proceedings.
 
 (d) The Secretary shall prescribe regulations for the administration of this section.
 

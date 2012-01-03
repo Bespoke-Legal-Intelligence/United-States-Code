@@ -138,7 +138,7 @@ Section 508 of Pub. L. 94–455 provided that: “Except as otherwise provided, 
 
 #### Effective and Termination Dates of 1975 Amendment
 
-Section 209(a) of Pub. L. 94–12, as amended by Pub. L. 94–164, §2(e), Dec. 23, 1975, 89 Stat. 972, provided that: “The amendments made by sections 201, 202(a), and 203 \[enacting section 42 of this title and amending this section and sections 56, 141, 6012, and 6096 of this title\] shall apply to taxable years ending after December 31, 1974. The amendments made by sections 201(a) and 202(a) \[amending section 141 of this title\] shall cease to apply to taxable years ending after December 31, 1975; those made by sections 201(b), 201(c), and 203 \[enacting section 42 of this title and amending this section and sections 56, 6012, and 6096 of this title\] shall cease to apply to taxable years ending after December 31, 1976.”
+Section 209(a) of Pub. L. 94–12, as amended by Pub. L. 94–164, §2(e), Dec. 23, 1975, 89 Stat. 972, provided that: “The amendments made by sections 201, 202(a), and 203 \[enacting section 42 of this title and amending this section and sections 56, 141, 6012, and 6096 of this title\] shall apply to taxable years ending after December 31,1974. The amendments made by sections 201(a) and 202(a) \[amending section 141 of this title\] shall cease to apply to taxable years ending after December 31, 1975; those made by sections 201(b), 201(c), and 203 \[enacting section 42 of this title and amending this section and sections 56, 6012, and 6096 of this title\] shall cease to apply to taxable years ending after December 31, 1976.”
 
 #### Effective Date of 1969 Amendment
 

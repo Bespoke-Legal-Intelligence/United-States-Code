@@ -20,11 +20,11 @@ Section is comprised of pars. 16 to 21 of section 4 of act Dec. 23, 1913. For cl
 
 #### Amendments
 
-1966—Pub. L. 89–485 substituted proviso restricting participation in nomination or election of directors by member banks to one member bank whenever any member banks within the same Federal reserve district are subsidiaries of the same bank holding company, such member bank to be designated for the purpose by the holding company for former proviso restricting the selection of directors by member banks to one member bank when two or more member banks within the same Federal reserve district are affiliated with the same holding company affiliate, such member bank to be designated for such purpose by the holding company affiliate.
+<b>1966</b>—Pub. L. 89–485 substituted proviso restricting participation in nomination or election of directors by member banks to one member bank whenever any member banks within the same Federal reserve district are subsidiaries of the same bank holding company, such member bank to be designated for the purpose by the holding company for former proviso restricting the selection of directors by member banks to one member bank when two or more member banks within the same Federal reserve district are affiliated with the same holding company affiliate, such member bank to be designated for such purpose by the holding company affiliate.
 
-1933—Act June 16, 1933, inserted proviso at end of second par.
+<b>1933</b>—Act June 16, 1933, inserted proviso at end of second par.
 
-1930—Act June 26, 1930, amended last par.
+<b>1930</b>—Act June 26, 1930, amended last par.
 
 #### Change of Name
 

@@ -104,7 +104,7 @@ Terms and Conditions for Private Sector Employees.—An employee of a private se
 
 &emsp;&emsp;“(C) sections 1343, 1344, and 1349(b) of title 31, United States Code;
 
-&emsp;&emsp;“(D) the Federal Tort Claims Act \[see Short Title note under section 2671 of Title 28, Judiciary and Judicial Procedure\] and any other Federal tort liability statute;
+&emsp;&emsp;“(D) the Federal Tort Claims Act \[see Short Title note under section 2671 of Title 28, Judiciary andJudicial Procedure\] and any other Federal tort liability statute;
 
 &emsp;&emsp;“(E) the Ethics in Government Act of 1978 \[5 U.S.C. App.\];
 

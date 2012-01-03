@@ -2,7 +2,7 @@
 
 #### (a) Relief of housing shortage; eligibility; limitations on time and amount
 
-In order to assist in relieving the acute shortage of housing which now exists and to increasethe supply of housing accommodations available to veterans of World War II at prices within their reasonable ability to pay, the Secretary is authorized, upon application by the mortgagee, to insure as hereinafter provided any mortgage which is eligible for insurance as hereinafter provided, and, upon such terms as the Secretary may prescribe, to make commitments for the insuring of such mortgages prior to the date of their execution or disbursement thereon: <i>Provided</i>, That the aggregate amount of principal obligations of all mortgages insured under this subchapter shall not exceed $6,150,000,000 except that with the approval of the President such aggregate amount may be increased to not to exceed $6,650,000,000: <i>Provided further</i>, That no mortgage shall be insured under this section after April 30, 1948, except (A) pursuant to a commitment to insure issued on or before April 30, 1948, or (B) a mortgage given to refinance an existing mortgage insured under this section and which does not exceed the original principal amount and unexpired term of such existing mortgage, and no mortgage shall be insured under section 1743 of this title after March 1, 1950, except (i) pursuant to a commitment to insure issued on or before March 1, 1950, or (ii) a mortgage given to refinance an existing mortgage insured under section 1743 of this title and which does not exceed the original principal amount and unexpired term of such existing mortgage: <i>Provided further</i>, That no mortgage shall be insured under section 1743 of this title unless the mortgagor certifies under oath that in selecting tenants for the property covered by the mortgage he will not discriminate against any family by reason of the fact that there are children in the family, and that he will not sell the property while the insurance is in effect unless the purchaser so certifies, such certifications to be filed with the Secretary; and violation of any such certification shall be a misdemeanor punishable by a fine of not to exceed $500: <i>And provided further</i>, That the Secretary shall, in his discretion, have power to require the availability for rental purposes of properties covered by mortgages insured under this subchapter, in such instances and for such periods of time as he may prescribe.
+In order to assist in relieving the acute shortage of housing which now exists and to increase the supply of housing accommodations available to veterans of World War II at prices within their reasonable ability to pay, the Secretary is authorized, upon application by the mortgagee, to insure as hereinafter provided any mortgage which is eligible for insurance as hereinafter provided, and, upon such terms as the Secretary may prescribe, to make commitments for the insuring of such mortgages prior to the date of their execution or disbursement thereon: <i>Provided</i>, That the aggregate amount of principal obligations of all mortgages insured under this subchapter shall not exceed $6,150,000,000 except that with the approval of the President such aggregate amount may be increased to not to exceed $6,650,000,000: <i>Provided further</i>, That no mortgage shall be insured under this section after April 30, 1948, except (A) pursuant to a commitment to insure issued on or before April 30, 1948, or (B) a mortgage given to refinance an existing mortgage insured under this section and which does not exceed the original principal amount and unexpired term of such existing mortgage, and no mortgage shall be insured under section 1743 of this title after March 1, 1950, except (i) pursuant to a commitment to insure issued on or before March 1, 1950, or (ii) a mortgage given to refinance an existing mortgage insured under section 1743 of this title and which does not exceed the original principal amount and unexpired term of such existing mortgage: <i>Provided further</i>, That no mortgage shall be insured under section 1743 of this title unless the mortgagor certifies under oath that in selecting tenants for the property covered by the mortgage he will not discriminate against any family by reason of the fact that there are children in the family, and that he will not sell the property while the insurance is in effect unless the purchaser so certifies, such certifications to be filed with the Secretary; and violation of any such certification shall be a misdemeanor punishable by a fine of not to exceed $500: <i>And provided further</i>, That the Secretary shall, in his discretion, have power to require the availability for rental purposes of properties covered by mortgages insured under this subchapter, in such instances and for such periods of time as he may prescribe.
 
 Notwithstanding the first proviso of this subsection, mortgages may be insured under sections 1744 and 1746 of this title if the aggregate amounts of principal obligations of mortgages insured under said sections plus the aggregate amount of principal obligations of mortgages insured under section 1745 of this title do not exceed the limitation contained in said section 1745 upon the aggregate amount of principal obligations of mortgages insured pursuant to said section.
 
@@ -46,7 +46,7 @@ To be eligible for insurance under this section a mortgage shall—
 
 #### (c) Premium charges; payments; acceptance for insurance; preferences; adjustments and refunds
 
-The Secretary is authorized to fix a premium charge for the insurance of mortgages under this subchapter but in the case of any mortgage such charge shall not be less than an amount equivalent to one-half of 1 per centum per annum nor more than an amount equivalent to 11/2 per centum per annum of the amount of the principal obligation of the mortgage outstanding at any time, without taking into account delinquent payments or prepayments. Such premium charges shall be payable by the mortgagee, either in cash, or in debentures issued by the Secretary under this subchapter at par plus accrued interest, in such manner as may be prescribed by the Secretary: <i>Provided</i>, That the Secretary may require the payment of one or more such premium charges at the time the mortgage is insured, at such discount rate as he may prescribe not in excess of the interest rate specified in the mortgage. If the Secretary finds, upon the presentation of a mortgage for insurance and the tender of the initial premium charge and such other charges as the Secretary may require, that the mortgage complies with the provisions of this subchapter, such mortgage may be accepted for insurance by endorsement or otherwise as the Secretary may prescribe; but no mortgage shall be accepted for insurance under this subchapter unless the Secretary finds that the project with respect to which the mortgage is executed is an acceptable risk in view of the shortage of housing referred to in this section. In the event that the principal obligation of any mortgage accepted for insurance under this subchapter is paid in full prior to the maturity date, the Secretary is further authorized in his discretion to require the payment by the mortgagee of an adjusted premium charge in such amount as the Secretary determines to be equitable, but not in excess of the aggregate amount of the premium charges that the mortgagee would otherwise have been required to pay if the mortgage had continued to be insured under this subchapter until such maturity date; and in the event that the principal obligation is paid in full as herein set forth, the Secretary is authorized to refund to the mortgagee for the account of the mortgagor all, or such portion as he shall determine to be equitable, of the current unearned premium charges theretofore paid. The Secretary shall prescribe such procedures as in his judgment are necessary to secure to veterans of World War II, and their immediate families, and to hardship cases as defined by the Secretary, preference or priority of opportunity to purchase or rent properties covered by mortgages insured under this subchapter.
+The Secretary is authorized to fix a premium charge for the insurance of mortgages under this subchapter but in the case of any mortgage such charge shall not be less than an amount equivalent to one-half of 1 per centum per annum nor more than an amount equivalent to 1½ per centum per annum of the amount of the principal obligation of the mortgage outstanding at any time, without taking into account delinquent payments or prepayments. Such premium charges shall be payable by the mortgagee, either in cash, or in debentures issued by the Secretary under this subchapter at par plus accrued interest, in such manner as may be prescribed by the Secretary: <i>Provided</i>, That the Secretary may require the payment of one or more such premium charges at the time the mortgage is insured, at such discount rate as he may prescribe not in excess of the interest rate specified in the mortgage. If the Secretary finds, upon the presentation of a mortgage for insurance and the tender of the initial premium charge and such other charges as the Secretary may require, that the mortgage complies with the provisions of this subchapter, such mortgage may be accepted for insurance by endorsement or otherwise as the Secretary may prescribe; but no mortgage shall be accepted for insurance under this subchapter unless the Secretary finds that the project with respect to which the mortgage is executed is an acceptable risk in view of the shortage of housing referred to in this section. In the event that the principal obligation of any mortgage accepted for insurance under this subchapter is paid in full prior to the maturity date, the Secretary is further authorized in his discretion to require the payment by the mortgagee of an adjusted premium charge in such amount as the Secretary determines to be equitable, but not in excess of the aggregate amount of the premium charges that the mortgagee would otherwise have been required to pay if the mortgage had continued to be insured under this subchapter until such maturity date; and in the event that the principal obligation is paid in full as herein set forth, the Secretary is authorized to refund to the mortgagee for the account of the mortgagor all, or such portion as he shall determine to be equitable, of the current unearned premium charges theretofore paid. The Secretary shall prescribe such procedures as in his judgment are necessary to secure to veterans of World War II, and their immediate families, and to hardship cases as defined by the Secretary, preference or priority of opportunity to purchase or rent properties covered by mortgages insured under this subchapter.
 
 #### (d) Conclusiveness of insurance contract as to eligibility
 
@@ -56,17 +56,17 @@ Any contract of insurance heretofore or hereafter executed by the Secretary unde
 
 #### Amendments
 
-1967—Pub. L. 90–19, §1(a)(3), substituted “Secretary” for “Commissioner” wherever appearing in subsecs. (a), (b)(1), (2), (b)(2)(D), (b)(3), (4), (6), (7), (c), and (d).
+<b>1967</b>—Pub. L. 90–19, §1(a)(3), substituted “Secretary” for “Commissioner” wherever appearing in subsecs. (a), (b)(1), (2), (b)(2)(D), (b)(3), (4), (6), (7), (c), and (d).
 
 Subsec. (a). Pub. L. 90–19, §1(a)(1), (n), substituted “Department of Housing and Urban Development” for “Federal Housing Administration” and “by” for “in any field office of” after “received”, in third par., respectively.
 
 Subsec. (b)(2). Pub. L. 90–19, §1(a)(4), substituted “Secretary's” for “Commissioner's” wherever appearing.
 
-1950—Act Apr. 20, 1950, §122, substituted “Commissioner” for “Administrator” wherever appearing.
+<b>1950</b>—Act Apr. 20, 1950, §122, substituted “Commissioner” for “Administrator” wherever appearing.
 
 Subsec. (a). Act Apr. 20, 1950, §119, added last two pars.
 
-1949—Subsec. (a). Joint Res. Oct. 25, 1949, substituted “$6,150,000,000” for “$5,750,000,000” and “$6,650,000,000” for “$6,150,000,000” in first proviso, and extended section to “March 1, 1950” by substituting the same for “October 31, 1949” in second proviso.
+<b>1949</b>—Subsec. (a). Joint Res. Oct. 25, 1949, substituted “$6,150,000,000” for “$5,750,000,000” and “$6,650,000,000” for “$6,150,000,000” in first proviso, and extended section to “March 1, 1950” by substituting the same for “October 31, 1949” in second proviso.
 
 Act Aug. 30, 1949, extended section from “August 31, 1949” to “October 31, 1949”.
 
@@ -74,7 +74,7 @@ Act July 15, 1949, extended section from “June 30, 1949” to “August 31, 19
 
 Act Mar. 30, 1949, extended section from “March 30, 1949” to “June 30, 1949”.
 
-1948—Subsec. (a). Act Aug. 10, 1948, struck out “$5,350,000,000” and inserted in lieu thereof “$5,750,000,000 except that with the approval of the President such aggregate amount may be increased to not to exceed $6,150,000,000”, and struck out the second proviso and inserted in lieu thereof the present second proviso.
+<b>1948</b>—Subsec. (a). Act Aug. 10, 1948, struck out “$5,350,000,000” and inserted in lieu thereof “$5,750,000,000 except that with the approval of the President such aggregate amount may be increased to not to exceed $6,150,000,000”, and struck out the second proviso and inserted in lieu thereof the present second proviso.
 
 Act Mar. 31, 1948, increased the insurance authorization from $4,950,000,000 to $5,350,000,000, and provided for an extension from Mar. 31, 1948, to Apr. 30, 1948.
 
@@ -82,13 +82,13 @@ Subsec. (b)(2). Act Mar. 31, 1948, changed the emergency necessary current-cost 
 
 Subsec. (c). Act Aug. 10, 1948, struck out of next to last sentence “and a mortgage on the same property is accepted for insurance at the time of such payment”.
 
-1947—Subsec. (a). Act Dec. 27, 1947, increased the mortgage obligation from $4,000,000,000 to $4,450,000,000, and increased the amount of obligation from $4,200,000,000 to $4,950,000,000 with the President's approval.
+<b>1947</b>—Subsec. (a). Act Dec. 27, 1947, increased the mortgage obligation from $4,000,000,000 to $4,450,000,000, and increased the amount of obligation from $4,200,000,000 to $4,950,000,000 with the President's approval.
 
 Act Aug. 5, 1947, increased mortgage obligation from $2,800,000,000 to $4,000,000,000 and the amount of obligation from $3,800,000,000 to $4,200,000,000 with the President's approval.
 
 Act June 30, 1947, extended limitation dates in second proviso from June 30, 1947, to Mar. 31, 1948.
 
-1946—Subsec. (a). Act May 22, 1946, amended provisions generally, and among other changes, increased the mortgage obligation from $1,800,000,000 to $2,800,000,000, and extended the limitation date from July 1, 1946, to June 30, 1947.
+<b>1946</b>—Subsec. (a). Act May 22, 1946, amended provisions generally, and among other changes, increased the mortgage obligation from $1,800,000,000 to $2,800,000,000, and extended the limitation date from July 1, 1946, to June 30, 1947.
 
 Subsec. (b)(2). Act May 22, 1946, amended provisions generally, and among other changes, inserted proviso.
 
@@ -96,15 +96,15 @@ Subsec. (b)(5). Act May 22, 1946, lowered interest rate from 5 to 4 per centum a
 
 Subsec. (c). Act May 22, 1946, substituted “shortage of housing” for “emergency” in third sentence and amended last sentence.
 
-1945—Subsec. (a). Act Mar. 31, 1945, increased the limit of obligations from $1,700,000,000 to $1,800,000,000 and extended the limitation date from 1945 to 1946.
+<b>1945</b>—Subsec. (a). Act Mar. 31, 1945, increased the limit of obligations from $1,700,000,000 to $1,800,000,000 and extended the limitation date from 1945 to 1946.
 
-1944—Subsec. (a). Act June 30, 1944, substituted “$1,700,000,000” for “$1,600,000,000” and inserted the provision contained in cl. (B).
+<b>1944</b>—Subsec. (a). Act June 30, 1944, substituted “$1,700,000,000” for “$1,600,000,000” and inserted the provision contained in cl. (B).
 
-1943—Subsec. (a). Act Oct. 15, 1943, substituted “$1,600,000,000” for “$1,200,000,000” and “July 1, 1945” for “July 1, 1944”.
+<b>1943</b>—Subsec. (a). Act Oct. 15, 1943, substituted “$1,600,000,000” for “$1,200,000,000” and “July 1, 1945” for “July 1, 1944”.
 
 Act Mar. 23, 1943, substituted “$1,200,000,000” for “$800,000,000” and “July 1, 1944” for “July 1, 1943”.
 
-1942—Act May 21, 1942, §14(b), substituted “War” and “war” for “Defense” and “defense” wherever occurring.
+<b>1942</b>—Act May 21, 1942, §14(b), substituted “War” and “war” for “Defense” and “defense” wherever occurring.
 
 Subsec. (a). Act May 26, 1942, §1, substituted “$800,000,000” for “$300,000,000”, among other changes.
 
@@ -114,7 +114,7 @@ Subsec. (b)(3). Act May 26, 1942, §3, substituted “twenty-five” for “twen
 
 Subsec. (c). Act May 26, 1942, §4, amended subsec. (c).
 
-1941—Subsec. (a). Act Sept. 2, 1941, substituted “$300,000,000” for “$100,000,000”.
+<b>1941</b>—Subsec. (a). Act Sept. 2, 1941, substituted “$300,000,000” for “$100,000,000”.
 
 #### Effective Date of 1949 Amendment
 

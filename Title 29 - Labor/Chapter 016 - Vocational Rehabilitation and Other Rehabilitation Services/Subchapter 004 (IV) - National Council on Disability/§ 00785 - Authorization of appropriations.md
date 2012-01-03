@@ -1,6 +1,6 @@
 ### §785. Authorization of appropriations
 
-There are authorized to be appropriated to carry out this subchapter such sums as may be necessary for each of the fiscal years 1999 through 2003.
+There are authorized to be appropriated to carry out this subchapter such sums as may benecessary for each of the fiscal years 1999 through 2003.
 
 (Pub. L. 93–112, title IV, §405, as added Pub. L. 105–220, title IV, §407, Aug. 7, 1998, 112 Stat. 1202.)
 

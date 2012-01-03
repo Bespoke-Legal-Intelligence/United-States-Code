@@ -6,7 +6,7 @@ Unsworn written statements made in public land matters within the jurisdiction o
 
 #### Codification
 
-“Section 1001 of title 18” substituted in text for “section 35(A) of the Criminal Code (35 Stat. 1095, 18 U.S.C. sec. 80), as amended” on authority of act June 25, 1948, ch. 645, 62 Stat. 683, the first section of which enacted Title 18, Crimes and Criminal Procedure.
+“Section 1001 of title 18” substituted in text for “section 35(A) of the Criminal Code (35 Stat. 1095, 18 U.S.C.sec. 80), as amended” on authority of act June 25, 1948, ch. 645, 62 Stat. 683, the first section of which enacted Title 18, Crimes and Criminal Procedure.
 
 #### Exemption of Department of the Interior From Restrictions on Notary Public
 

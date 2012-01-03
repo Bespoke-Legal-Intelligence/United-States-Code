@@ -6,7 +6,7 @@ Policy.—The Secretary of Defense shall require the Secretary of each military 
 
 (b)
 
-Limitation on Use of Acquisition Strategies Involving Consolidation.—(1) Subject to section 44(c)(4),<sup>1</sup> an official of a military department, Defense Agency, or Department of Defense Field Activity may not execute an acquisition strategy that includes a consolidation of contract requirements of the military department, agency, or activity with a total value in excess of $5,000,000, unless the senior procurement executive concerned first—
+Limitation on Use of Acquisition Strategies Involving Consolidation.—(1) Subject to section 44(c)(4),<sup>1</sup> an official of a military department, Defense Agency, or Department of Defense Field Activity may not execute an acquisition strategy that includes a consolidation ofcontract requirements of the military department, agency, or activity with a total value in excess of $5,000,000, unless the senior procurement executive concerned first—
 
 &emsp;(A) conducts market research;
 
@@ -38,7 +38,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;(B) a multiple award task order contract or delivery order contract that is entered into under the authority of sections 2304a through 2304d of this title or sections 303H through 303K <sup>1</sup> of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253h through 253k); and
 
-&emsp;&emsp;(C) any other indeterminate delivery, indeterminate quantity contract that is entered into by the head of a Federal agency withtwo or more sources pursuant to the same solicitation.
+&emsp;&emsp;(C) any other indeterminate delivery, indeterminate quantity contract that is entered into by the head of a Federal agency with two or more sources pursuant to the same solicitation.
 
 &emsp;(3) The term “senior procurement executive concerned” means—
 

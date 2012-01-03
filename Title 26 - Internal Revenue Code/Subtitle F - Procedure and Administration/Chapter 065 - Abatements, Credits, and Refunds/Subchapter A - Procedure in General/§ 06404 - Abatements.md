@@ -108,7 +108,7 @@ In the case of an assessment of any tax imposed by chapter 1 attributable in who
 
 #### (1) In general
 
-&emsp;The Tax Court shall have jurisdiction over any action brought by a taxpayer who meets the requirements referred to in section 7430(c)(4)(A)(ii) to determine whether the Secretary's failure to abate interest under thissection was an abuse of discretion, and may order an abatement, if such action is brought within 180 days after the date of the mailing of the Secretary's final determination not to abate such interest.
+&emsp;The Tax Court shall have jurisdiction over any action brought by a taxpayer who meets the requirements referred to in section 7430(c)(4)(A)(ii) to determine whether the Secretary's failure to abate interest under this section was an abuse of discretion, and may order an abatement, if such action is brought within 180 days after the date of the mailing of the Secretary's final determination not to abate such interest.
 
 #### (2) Special rules
 
@@ -266,7 +266,7 @@ Emergency Designation.—
 
 &emsp;“(1) For the purposes of section 252(e) of the Balanced Budget and Emergency Deficit Control Act \[2 U.S.C. 902(e)\], Congress designates the provisions of this section as an emergency requirement.
 
-&emsp;“(2) The amendments made by subsections (a) and (b) of this section \[amending this section\] shall only take effect upon the transmittal by the President to the Congress of a message designating the provisions of subsections (a) and (b) as an emergency requirement pursuant to section 252(e) of the Balanced Budget and Emergency Deficit Control Act.”
+&emsp;“(2) The amendments made by subsections (a) and (b) of this section \[amending this section\] shall onlytake effect upon the transmittal by the President to the Congress of a message designating the provisions of subsections (a) and (b) as an emergency requirement pursuant to section 252(e) of the Balanced Budget and Emergency Deficit Control Act.”
 
 \[For message of the President dated July 22, 1998, designating the provisions of section 3309(a), (b) of Pub. L. 105–206 as an emergency requirement pursuant to section 252(e) of the Balanced Budget and Emergency Deficit Control Act of 1985 on July 22, 1998, see Cong. Rec., vol. 144, p. H6160, Daily Issue.\]
 

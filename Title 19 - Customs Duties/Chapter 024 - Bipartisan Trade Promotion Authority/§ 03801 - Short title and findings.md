@@ -74,7 +74,7 @@ Sec. 3. <i>Guidance for Exercising Authority and Performing Duties</i>. (a) Noth
 
 &emsp;(i) Shall ensure that all actions taken by them are consistent with the President's constitutional authority to (A) conduct the foreign affairs of the United States, including the commencement, conduct, and termination of negotiations with foreign countries and international organizations, (B) withhold information the disclosure of which could impair the foreign relations, the national security, the deliberative processes of the Executive, or the performance of the Executive's constitutional duties, (C) recommend for congressional consideration such measures as the President may judge necessary or expedient, and (D) supervise the unitary executive branch;
 
-&emsp;(ii) May redelegate authority delegated by this order and may further assign functions assigned bythis order to officers of any other department or agency within the executive branch to the extent permitted by law and such redelegation or further assignment shall be published in the Federal Register; and
+&emsp;(ii) May redelegate authority delegated by this order and may further assign functions assigned by this order to officers of any other department or agency within the executive branch to the extent permitted by law and such redelegation or further assignment shall be published in the Federal Register; and
 
 &emsp;(iii) Shall consult the Attorney General as appropriate in implementing this subsection.
 

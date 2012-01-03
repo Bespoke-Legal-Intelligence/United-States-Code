@@ -36,7 +36,7 @@ Pub. L. 108–183, title VI, §601, Dec. 16, 2003, 117 Stat. 2667, provided that
 
 “(a)
 
-Review of Mission, Procedures, and Administration.—(1) The Secretary of Veterans Affairs and the Secretary of Defense shall jointly conduct a review of the mission, procedures, and administration of the Radiation Dose Reconstruction Program of the Department of Defense.
+Review of Mission, Procedures, and Administration.—(1) The Secretary of Veterans Affairs and theSecretary of Defense shall jointly conduct a review of the mission, procedures, and administration of the Radiation Dose Reconstruction Program of the Department of Defense.
 
 “(2) In conducting the review under paragraph (1), the Secretaries shall—
 
@@ -170,7 +170,7 @@ Department of Defense Information.—The Secretary of Defense shall furnish to t
 
 “(f)
 
-Definition.—For the purpose of this section, the term ‘veteran’ has the meaning given that term in section 101(2) of title 38, United States Code, and includesa person who died in the active military, naval, or air service.
+Definition.—For the purpose of this section, the term ‘veteran’ has the meaning given that term in section 101(2) of title 38, United States Code, and includes a person who died in the active military, naval, or air service.
 
 “(g)
 
@@ -234,7 +234,7 @@ Sections 5–7 of Pub. L. 98–542, as amended by Pub. L. 100–321, §2(c), May
 
 “
 
-Sec. 5. (a) In carrying out the responsibilities of the Administrator of Veterans’ Affairs \[now Secretary ofVeterans Affairs\] under section 1154(a)(2) \[formerly 354(a)(2)\] of title 38, United States Code, and in order to promote consistency in claims processing and decisions, the Administrator shall prescribe regulations to—
+Sec. 5. (a) In carrying out the responsibilities of the Administrator of Veterans’ Affairs \[now Secretary of Veterans Affairs\] under section 1154(a)(2) \[formerly 354(a)(2)\] of title 38, United States Code, and in order to promote consistency in claims processing and decisions, the Administrator shall prescribe regulations to—
 
 &emsp;“(1) establish guidelines and (where appropriate) standards and criteria for the resolution of claims for benefits under laws administered by the Veterans’ Administration \[now Department of Veterans Affairs\] where the criteria for eligibility for a benefit include a requirement that a death or disability be service connected and the claim of service connection is based on a veteran's exposure during service in connection with such veteran's participation in atmospheric nuclear tests or with the American occupation of Hiroshima or Nagasaki, Japan, prior to July 1, 1946, to ionizing radiation from the detonation of a nuclear device; and
 
@@ -318,7 +318,7 @@ Sec. 7. (a) In connection with the duties of the Director of the Defense Nuclear
 
 &emsp;&emsp;“(C) enter into an interagency agreement with the Administrator of Veterans’ Affairs \[now Secretary of Veterans Affairs\] for the purpose of assisting the Administrator in identifying agencies or other entities capable of furnishing services involving the use of such devices and techniques.
 
-“(b) The Administrator of Veterans’ Affairs \[now Secretary of Veterans Affairs\], in resolving material differences between a radiation dose estimate, from a credible source, submitted by a veteran or survivor and a radiation dose estimate prepared and transmitted by the Director of the Defense Nuclear Agency, shall provide for the preparation of a radiation dose estimate by an independent expert, who shall be selected by the Director of the National Institutes of Health and who shall not be affiliated with the Defense Nuclear Agency, and the Administrator shall provide for the consideration of such independent estimate in connection with the adjudication of the claim for Veterans’ Administration \[now Department of Veterans Affairs\] compensation.”
+“(b) The Administrator of Veterans’ Affairs \[now Secretary of Veterans Affairs\], in resolving material differences between a radiation dose estimate, from a credible source, submitted by a veteran or survivor and a radiation dose estimate prepared and transmitted by the Director of the Defense Nuclear Agency, shall provide for the preparation of a radiation dose estimate by an independent expert, who shall be selected by the Director of the National Institutes of Health and whoshall not be affiliated with the Defense Nuclear Agency, and the Administrator shall provide for the consideration of such independent estimate in connection with the adjudication of the claim for Veterans’ Administration \[now Department of Veterans Affairs\] compensation.”
 
 \[Pub. L. 102–4, §10(e), Feb. 6, 1991, 105 Stat. 20, as amended by Pub. L. 102–86, title V, §503(b)(2), Aug. 14, 1991, 105 Stat. 425, provided that:
 
@@ -336,7 +336,7 @@ Section 10 of Pub. L. 98–542, as added by Pub. L. 102–578, §3, Oct. 30, 199
 
 “(a)
 
-In General.—(1) In order to determine whether activities (other than the tests or occupation activitiesreferred to in section 5(a)(1)(B) \[probably means section 5(a)(1), set out above\]) resulted in the exposure of veterans to ionizing radiation during the service of such veterans that occurred before January 1, 1970, and whether adverse health effects have been observed or may have resulted from such exposure in a significant number of such veterans, the Advisory Committee established under section 6 \[set out above\] shall—
+In General.—(1) In order to determine whether activities (other than the tests or occupation activities referred to in section 5(a)(1)(B) \[probably means section 5(a)(1), set out above\]) resulted in the exposure of veterans to ionizing radiation during the service of such veterans that occurred before January 1, 1970, and whether adverse health effects have been observed or may have resulted from such exposure in a significant number of such veterans, the Advisory Committee established under section 6 \[set out above\] shall—
 
 &emsp;“(A) review all available scientific studies and other relevant information relating to the exposure of such veterans to ionizing radiation during such service;
 

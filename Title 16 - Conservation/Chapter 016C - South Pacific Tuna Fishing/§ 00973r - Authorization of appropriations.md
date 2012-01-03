@@ -1,6 +1,6 @@
 ### §973r. Authorization of appropriations
 
-(a) There are authorized to be appropriated for fiscal years 1992, 1993, 1994, 1995, 1996, 1997, 1998,1999, 2000, 2001, and 2002 such sums as may be necessary for carrying out the purposes and provisions of the Treaty and this chapter including—
+(a) There are authorized to be appropriated for fiscal years 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, and 2002 such sums as may be necessary for carrying out the purposes and provisions of the Treaty and this chapter including—
 
 &emsp;(1) for fiscal years 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, and 2002, an amount not to exceed $350,000 annually to the Department of Commerce for administrative expenses; and
 

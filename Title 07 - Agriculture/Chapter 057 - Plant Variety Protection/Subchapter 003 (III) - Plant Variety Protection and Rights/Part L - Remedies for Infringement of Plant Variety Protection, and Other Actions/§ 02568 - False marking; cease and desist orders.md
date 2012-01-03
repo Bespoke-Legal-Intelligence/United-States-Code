@@ -18,9 +18,9 @@
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–349 inserted “or tubers or parts of tubers” after “plant material” and substituted “if the Secretary determines” for “if he determines” in introductory provisions, and added par. (4).
+<b>1994</b>—Subsec. (a). Pub. L. 103–349 inserted “or tubers or parts of tubers” after “plant material” and substituted “if the Secretary determines” for “if he determines” in introductory provisions, and added par. (4).
 
-1980—Subsec. (a)(3). Pub. L. 96–574 substituted provisions respecting prohibitions for use of phrases “Unauthorized Propagation Prohibited” and “Unauthorized Seed Multiplication Prohibited” for provisions respecting prohibitions for use of phrase “propagation prohibited”.
+<b>1980</b>—Subsec. (a)(3). Pub. L. 96–574 substituted provisions respecting prohibitions for use of phrases “Unauthorized Propagation Prohibited” and “Unauthorized Seed Multiplication Prohibited” for provisions respecting prohibitions for use of phrase “propagation prohibited”.
 
 #### Effective Date of 1994 Amendment
 

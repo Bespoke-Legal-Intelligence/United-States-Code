@@ -12,7 +12,7 @@ The Administrator shall establish procedures to provide all Federal agencies wit
 
 #### (d) Exemptions
 
-The President may exempt any contract, loan, or grant from all or part of the provisions of this section where he determines such exemption is necessary in the paramount interest of the United States and he shall notify the Congress of such exemption.
+The President may exempt any contract, loan, or grant from all or part of the provisions of this section where he determines such exemption is necessary in the paramount interest of theUnited States and he shall notify the Congress of such exemption.
 
 #### (e) Annual report to Congress
 

@@ -42,7 +42,7 @@ In the case of a distribution to which subsection (a) applies—
 
 #### (B) Distributions out of increase in value accrued before March 1, 1913
 
-&emsp;&emsp;That portion of the distribution which is not a dividend, to the extent that it exceeds the adjusted basis of the stock and to the extent that it is out of increase in value accrued before March 1, 1913, shall be exempt from tax.
+&emsp;&emsp;That portion of the distribution which is not a dividend, to the extent that it exceedsthe adjusted basis of the stock and to the extent that it is out of increase in value accrued before March 1, 1913, shall be exempt from tax.
 
 #### (d) Basis
 

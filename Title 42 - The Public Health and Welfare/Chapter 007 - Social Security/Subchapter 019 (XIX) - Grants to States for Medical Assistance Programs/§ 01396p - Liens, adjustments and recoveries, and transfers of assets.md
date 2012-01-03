@@ -20,7 +20,7 @@
 
 &emsp;(B) such individual's child who is under age 21, or (with respect to States eligible to participate in the State program established under subchapter XVI of this chapter) is blind or permanently and totally disabled, or (with respect to States which are not eligible to participate in such program) is blind or disabled as defined in section 1382c of this title, or
 
-&emsp;(C) a sibling of such individual (who has an equity interest in such home and who was residing in such individual's home for a period of at least one year immediately before the date of the individual's admission to the medical institution),
+&emsp;(C) a sibling of such individual (who has an equity interest in such home and who was residing in such individual's home for a period ofat least one year immediately before the date of the individual's admission to the medical institution),
 
 > is lawfully residing in such home.
 
@@ -70,7 +70,7 @@
 
 > &emsp;In the case of a long-term care insurance policy which is exchanged for another such policy, subclause (I) shall be applied based on the coverage of the first such policy that was exchanged. For purposes of this clause and paragraph (5), the term “long-term care insurance policy” includes a certificate issued under a group insurance contract.
 
-&emsp;(iv) With respect to a State which had a State plan amendment approved as of May 14,1993, such a State satisfies this clause for purposes of clause (ii) if the Secretary determines that the State plan amendment provides for consumer protection standards which are no less stringent than the consumer protection standards which applied under such State plan amendment as of December 31, 2005.
+&emsp;(iv) With respect to a State which had a State plan amendment approved as of May 14, 1993, such a State satisfies this clause for purposes of clause (ii) if the Secretary determines that the State plan amendment provides for consumer protection standards which are noless stringent than the consumer protection standards which applied under such State plan amendment as of December 31, 2005.
 
 &emsp;(v) The regulations of the Secretary required under clause (iii)(VI) shall be promulgated after consultation with the National Association of Insurance Commissioners, issuers of long-term care insurance policies, States with experience with long-term care insurance partnership plans, other States, and representatives of consumers of long-term care insurance policies, and shall specify the type and format of the data and information to be reported and the frequency with which such reports are to be made. The Secretary, as appropriate, shall provide copies of the reports provided in accordance with that clause to the State involved.
 
@@ -368,7 +368,7 @@
 
 #### (e) Disclosure and treatment of annuities
 
-(1) In order to meet the requirements of this section for purposes of section 1396a(a)(18) of this title, a State shall require, as a condition for the provision of medical assistance for services described in subsection (c)(1)(C)(i) (relatingto long-term care services) for an individual, the application of the individual for such assistance (including any recertification of eligibility for such assistance) shall disclose a description of any interest the individual or community spouse has in an annuity (or similar financial instrument, as may be specified by the Secretary), regardless of whether the annuity is irrevocable or is treated as an asset. Such application or recertification form shall include a statement that under paragraph (2) the State becomes a remainder beneficiary under such an annuity or similar financial instrument by virtue of the provision of such medical assistance.
+(1) In order to meet the requirements of this section for purposes of section 1396a(a)(18) of this title, a State shall require, as a condition for the provision of medical assistance for services described in subsection (c)(1)(C)(i) (relating to long-term care services) for an individual, the application of the individual for such assistance (including any recertification of eligibility for such assistance) shall disclose a description of any interest the individual or community spouse has in an annuity (or similar financialinstrument, as may be specified by the Secretary), regardless of whether the annuity is irrevocable or is treated as an asset. Such application or recertification form shall include a statement that under paragraph (2) the State becomes a remainder beneficiary under such an annuity or similar financial instrument by virtue of the provision of such medical assistance.
 
 (2)(A) In the case of disclosure concerning an annuity under subsection (c)(1)(F), the State shall notify the issuer of the annuity of the right of the State under such subsection as a preferred remainder beneficiary in the annuity for medical assistance furnished to the individual. Nothing in this paragraph shall be construed as preventing such an issuer from notifying persons with any other remainder interest of the State's remainder interest under such subsection.
 
@@ -506,7 +506,7 @@ Subsec. (c)(2)(B). Pub. L. 103–66, §13611(a)(2)(B), amended subpar. (B) gener
 
 Subsec. (c)(2)(C). Pub. L. 103–66, §13611(a)(2)(C), in introductory provisions, substituted “with regulations” for “with any regulations”, in cl. (i), substituted “assets” for “resources” and struck out “or” at end, in cl. (ii), substituted “assets” for “resources” and “, or” for “; or”, and added cl. (iii).
 
-Subsec. (c)(2)(D). Pub. L. 103–66, §13611(a)(2)(D), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “the State determines that denial of eligibility would work an undue hardship.”
+Subsec. (c)(2)(D). Pub. L. 103–66, §13611(a)(2)(D), amended subpar. (D) generally. Prior to amendment,subpar. (D) read as follows: “the State determines that denial of eligibility would work an undue hardship.”
 
 Subsec. (c)(3). Pub. L. 103–66, §13611(a)(2)(E), added par. (3) and struck out former par. (3) which read as follows: “In this subsection, the term ‘institutionalized individual’ means an individual who is an inpatient in a nursing facility, who is an inpatient in a medical institution and with respect to whom payment is made based on a level of care provided in a nursing facility, or who is described in section 1396a(a)(10)(A)(ii)(VI) of this title.”
 
@@ -584,7 +584,7 @@ Exceptions.—The amendments made by this section shall not apply—
 
 “(3)
 
-Extension of effective date for state law amendment.—In the case of a State plan under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.) which the Secretary of Health and Human Services determines requires State legislation in order for the plan to meet the additional requirements imposed by the amendments made by a provision of this section, the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of the session is considered to be a separate regular session of the State legislature.”
+Extension of effective date for state law amendment.—In the case of a State plan under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.)which the Secretary of Health and Human Services determines requires State legislation in order for the plan to meet the additional requirements imposed by the amendments made by a provision of this section, the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of the session is considered to be a separate regular session of the State legislature.”
 
 #### Effective Date of 1993 Amendment
 

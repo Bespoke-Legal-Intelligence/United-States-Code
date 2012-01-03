@@ -16,7 +16,7 @@
 
 #### (4) Biennial reporting
 
-&emsp;In addition to the study required in paragraph (1), the Chairman of the Commodity Futures Trading Commission shall prepare and submit to the Congress biennial reports on the growth or decline of the derivatives marketsin the United States and abroad, which shall include assessments of the causes of any such growth or decline, the effectiveness of regulatory regimes in managing systemic risk, a comparison of the costs of compliance at the time of the report for market participants subject to regulation by the United States with the costs of compliance in December 2008 for the market participants, and the quality of the available data. In preparing the report, the Chairman shall solicit the views of, consult with, and address the concerns raised by, market participants, regulators, legislators, and other interested parties.
+&emsp;In addition to the study required in paragraph (1), the Chairman of the Commodity Futures Trading Commission shall prepare and submit to the Congress biennial reports on the growth or decline of the derivatives markets in the United States and abroad, which shall include assessments of the causes of any such growth or decline, the effectiveness of regulatory regimes in managing systemic risk, a comparison of the costs of compliance at the time of the report for market participants subject to regulation by the United States with the costs of compliance in December 2008 for the market participants, and the quality of the available data. In preparing the report, the Chairman shall solicit the views of, consult with, and address the concerns raised by, market participants, regulators, legislators, and other interested parties.
 
 #### (b) Study on feasibility of requiring use of standardized algorithmic descriptions for financial derivatives
 
@@ -78,11 +78,11 @@
 
 #### (A) Status
 
-&emsp;&emsp;Not later than 15 months after July 21, 2010, the Securities and Exchange Commission and the Commodity Futures Trading Commission shall, jointly, conduct a study to determine whether stable value contracts fall within the definition of a swap. In making the determination required under this subparagraph, the Commissions jointly shallconsult with the Department of Labor, the Department of the Treasury, and the State entities that regulate the issuers of stable value contracts.
+&emsp;&emsp;Not later than 15 months after July 21, 2010, the Securities and Exchange Commission and the Commodity Futures Trading Commission shall, jointly, conduct a study to determine whether stable value contracts fall within the definition of a swap. In making the determination required under this subparagraph, the Commissions jointly shall consult with the Department of Labor, the Department of the Treasury, and the State entities that regulate the issuers of stable value contracts.
 
 #### (B) Regulations
 
-&emsp;&emsp;If the Commissions determine that stable value contracts fall within the definition of a swap, the Commissions jointly shall determine if an exemption for stable value contracts from the definition of swap is appropriate and in the public interest. The Commissions shall issue regulations implementing the determinations required under this paragraph. Until the effective date of such regulations, and notwithstanding any other provision of this title,<sup>1</sup> the requirements of this title <sup>1</sup> shall not apply to stable value contracts.
+&emsp;&emsp;If the Commissions determine that stable value contracts fall within the definition of a swap, the Commissions jointly shall determine if an exemption for stable value contracts from the definition of swap is appropriate and in the public interest. The Commissions shall issue regulations implementing the determinations required under this paragraph. Until the effective date of such regulations, and notwithstanding any otherprovision of this title,<sup>1</sup> the requirements of this title <sup>1</sup> shall not apply to stable value contracts.
 
 #### (C) Legal certainty
 

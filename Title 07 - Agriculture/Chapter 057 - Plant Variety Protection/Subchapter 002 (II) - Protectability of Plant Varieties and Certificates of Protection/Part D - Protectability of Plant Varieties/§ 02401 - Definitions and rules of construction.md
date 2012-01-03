@@ -94,7 +94,7 @@ For the purposes of this chapter:
 
 #### Amendments
 
-1994—Pub. L. 103–349 amended section generally, substituting provisions consisting of subsecs. (a) and (b) for former provisions consisting of subsecs. (a) to (j).
+<b>1994</b>—Pub. L. 103–349 amended section generally, substituting provisions consisting of subsecs. (a) and (b) for former provisions consisting of subsecs. (a) to (j).
 
 #### Effective Date of 1994 Amendment
 

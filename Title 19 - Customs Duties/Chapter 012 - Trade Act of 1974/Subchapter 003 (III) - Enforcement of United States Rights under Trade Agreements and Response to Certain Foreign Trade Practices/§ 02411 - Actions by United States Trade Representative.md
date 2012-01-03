@@ -86,7 +86,7 @@ If the Trade Representative determines under section 2414(a)(1) of this title th
 
 &emsp;(ii) a determination to initiate an investigation is made by the Trade Representative under section 2412(b) of this title.
 
-(C) Before the Trade Representative takes any action under this section involving the imposition of fees or other restrictions on the services of a foreign country, the Trade Representative shall, if the services involved are subject to regulation by any agency of the Federal Government or of any State, consult, as appropriate, with the head of the agency concerned.
+(C) Before the Trade Representative takes any action under this section involving the imposition of fees or other restrictions on the services of a foreign country, the Trade Representativeshall, if the services involved are subject to regulation by any agency of the Federal Government or of any State, consult, as appropriate, with the head of the agency concerned.
 
 (3) The actions the Trade Representative is authorized to take under subsection (a) or (b) of this section may be taken against any goods or economic sector—
 
@@ -158,7 +158,7 @@ For purposes of this subchapter—
 
 &emsp;(D) For purposes of determining whether any act, policy, or practice is unreasonable, reciprocal opportunities in the United States for foreign nationals and firms shall be taken into account, to the extent appropriate.
 
-&emsp;(E) The term “export targeting” means any government plan or scheme consisting of a combination of coordinated actions (whether carried out severally or jointly) that are bestowed on a specific enterprise, industry, or group thereof, the effect of which is to assist the enterprise, industry, or group to become more competitive in the export of a class or kind of merchandise.
+&emsp;(E) The term “export targeting” means any government plan or scheme consisting of acombination of coordinated actions (whether carried out severally or jointly) that are bestowed on a specific enterprise, industry, or group thereof, the effect of which is to assist the enterprise, industry, or group to become more competitive in the export of a class or kind of merchandise.
 
 &emsp;(F)(i) For the purposes of subparagraph (B)(i)(II), adequate and effective protection of intellectual property rights includes adequate and effective means under the laws of the foreign country for persons who are not citizens or nationals of such country to secure, exercise, and enforce rights and enjoy commercial benefits relating to patents, trademarks, copyrights and related rights, mask works, trade secrets, and plant breeder's rights.
 
@@ -264,7 +264,7 @@ Sec. 2. <i>Rationale</i>: (a) This order finds that:
 
 (1) it is in the interest of the United States to take all reasonable steps to prevent further spread of infectious disease, particularly HIV/AIDS;
 
-(2) there is critical need for effective incentives to develop new pharmaceuticals, vaccines, and therapies tocombat the HIV/AIDS crisis, including effective global intellectual property standards designed to foster pharmaceutical and medical innovation;
+(2) there is critical need for effective incentives to develop new pharmaceuticals, vaccines, and therapies to combat the HIV/AIDS crisis, including effective global intellectual property standards designed to foster pharmaceutical and medical innovation;
 
 (3) the overriding priority for responding to the crisis of HIV/AIDS in sub-Saharan Africa should be to improve public education and to encourage practices that will prevent further transmission and infection, and to stimulate development of the infrastructure necessary to deliver adequate health care services;
 

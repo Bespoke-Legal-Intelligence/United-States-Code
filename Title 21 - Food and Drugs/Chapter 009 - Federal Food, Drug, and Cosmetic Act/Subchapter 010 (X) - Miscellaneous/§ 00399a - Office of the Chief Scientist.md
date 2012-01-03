@@ -22,7 +22,7 @@ The Office of the Chief Scientist shall—
 
 &emsp;&emsp;(B) experts on trial design, epidemiology, demographics, pharmacovigilance, basic science, and public health; and
 
-&emsp;(6) develop postmarket safety performance measures that are as measurable and rigorous as the ones already developed for premarket review.
+&emsp;(6) develop postmarket safety performance measures that are as measurable and rigorousas the ones already developed for premarket review.
 
 (June 25, 1938, ch. 675, §1010, formerly §910, as added Pub. L. 110–85, title VI, §602, Sept. 27, 2007, 121 Stat. 898; renumbered §1010, Pub. L. 111–31, div. A, title I, §101(b)(2), June 22, 2009, 123 Stat. 1784.)
 

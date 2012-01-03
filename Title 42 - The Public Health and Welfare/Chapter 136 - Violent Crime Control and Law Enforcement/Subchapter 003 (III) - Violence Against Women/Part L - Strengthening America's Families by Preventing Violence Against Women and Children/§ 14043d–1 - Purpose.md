@@ -12,7 +12,7 @@ The purpose of this part is to—
 
 &emsp;(5) promote programs to ensure that children and youth receive the assistance they need to end the cycle of violence and develop mutually respectful, nonviolent relationships; and
 
-&emsp;(6) encourage collaboration among community-based organizations and governmental agencies serving children and youth, providers of health and mental health services and providers of domestic violence, dating violence, sexual assault, and stalking victim services to prevent violence against women and children.
+&emsp;(6) encourage collaboration among community-based organizations and governmentalagencies serving children and youth, providers of health and mental health services and providers of domestic violence, dating violence, sexual assault, and stalking victim services to prevent violence against women and children.
 
 (Pub. L. 103–322, title IV, §41302, as added Pub. L. 109–162, title IV, §401, Jan. 5, 2006, 119 Stat. 3018.)
 

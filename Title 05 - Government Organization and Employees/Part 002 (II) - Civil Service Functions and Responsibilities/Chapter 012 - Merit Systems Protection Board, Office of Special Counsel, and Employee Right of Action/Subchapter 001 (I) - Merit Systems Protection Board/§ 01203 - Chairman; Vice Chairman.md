@@ -10,7 +10,7 @@
 
 #### Amendments
 
-1989—Subsec. (a). Pub. L. 101–12, §3(a)(4), struck out the comma after “time” in first sentence.
+<b>1989</b>—Subsec. (a). Pub. L. 101–12, §3(a)(4), struck out the comma after “time” in first sentence.
 
 Subsec. (c). Pub. L. 101–12, §3(a)(5), substituted “the Chairman and the Vice Chairman” for “the Chairman and Vice Chairman” after “both”.
 

@@ -12,9 +12,9 @@ Section is based on act July 11, 1888, popularly known as the “Legislative, Ex
 
 #### Amendments
 
-1946—Act Aug. 2, 1946, substituted “Committee on Rules and Administration” for “Committee on Rules”.
+<b>1946</b>—Act Aug. 2, 1946, substituted “Committee on Rules and Administration” for “Committee on Rules”.
 
 #### Effective Date of 1946 Amendment
 
-Section 142 of act Aug. 2, 1946, provided that section 102 of that act shall take effect on Jan. 2, 1947, and section 245 of that act provided that section 224 thereof shall “take effect on the day on which the Eightieth Congress convenes”. The Eightieth Congress convened on Jan. 3, 1947.
+Section 142 of act Aug. 2, 1946, provided that section 102 of that act shall take effect on Jan. 2, 1947, and section 245 of that act provided that section 224 thereofshall “take effect on the day on which the Eightieth Congress convenes”. The Eightieth Congress convened on Jan. 3, 1947.
 

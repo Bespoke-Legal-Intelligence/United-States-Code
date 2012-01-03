@@ -30,7 +30,7 @@ In conducting such study, the Secretary shall consider at least the following fa
 
 The Secretary shall incorporate into such study comments by the Secretary of Energy on the effects on the economy as a whole and on the Nation's security which may result from the requirement described in subsection (a) of this section as compared to the impact on the credit and housing markets likely to be caused by such a requirement. In addition, the Secretary shall incorporate into such study the following findings by the Secretary of Energy:
 
-&emsp;(1) the savings in energy costs resulting from the requirement described in subsection (a) ofthis section throughout the estimated remaining useful life of the existing residential buildings to which such requirement would apply; and
+&emsp;(1) the savings in energy costs resulting from the requirement described in subsection (a) of this section throughout the estimated remaining useful life of the existing residential buildings to which such requirement would apply; and
 
 &emsp;(2) the total cost per barrel of oil equivalent, in obtaining the energy savings likely to result from such requirement, computed for each class of existing residential buildings to which such requirement would apply.
 
@@ -44,7 +44,7 @@ The Secretary shall report, no later than one year after November 9, 1978, to bo
 
 The Real Estate Settlement Procedures Act of 1974, referred to in subsec. (b)(5), is Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, as amended, which is classified principally to chapter 27 (§2601 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 12 and Tables.
 
-The Federal Disaster Protection Act of 1973, referred to in subsec. (b)(5), probably means the Flood Disaster Protection Act of 1973, Pub. L. 93–234, Dec. 31, 1973, 87 Stat. 975, as amended, which enacted sections 4002, 4003, 4012a, 4104 to 4107, and 4128 of this title, amended sections 4001, 4013 to 4016, 4026, 4054, 4056, 4101, and 4121 of this title and sections 24 and 1709–1 of Title 12, repealed section 4021 of this title, and enacted a provision set out as a note under section 4001 of this title. For complete classification of this Act to the Code, see Short Title of 1973 Amendment note set out under section 4001 of this title and Tables.
+The Federal Disaster Protection Act of 1973, referred to in subsec. (b)(5), probably means the Flood Disaster Protection Act of 1973, Pub. L. 93–234, Dec. 31, 1973, 87 Stat. 975, as amended, which enacted sections 4002, 4003,4012a, 4104 to 4107, and 4128 of this title, amended sections 4001, 4013 to 4016, 4026, 4054, 4056, 4101, and 4121 of this title and sections 24 and 1709–1 of Title 12, repealed section 4021 of this title, and enacted a provision set out as a note under section 4001 of this title. For complete classification of this Act to the Code, see Short Title of 1973 Amendment note set out under section 4001 of this title and Tables.
 
 #### Amendments
 

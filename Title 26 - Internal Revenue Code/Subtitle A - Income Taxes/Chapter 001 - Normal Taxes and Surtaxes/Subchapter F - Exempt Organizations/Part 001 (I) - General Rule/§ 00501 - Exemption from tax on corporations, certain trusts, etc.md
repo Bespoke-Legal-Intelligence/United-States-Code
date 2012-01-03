@@ -130,7 +130,7 @@ The following organizations are referred to in subsection (a):
 
 &emsp;(vii) For purposes of this subparagraph, the start-up year is the first year that the mutual or cooperative electric company offers nondiscriminatory open access or the calendar year which includes the date of the enactment of this subparagraph, if later, at the election of such company.
 
-&emsp;(viii) A company shall not fail to be treated as a mutual or cooperative electric company for purposes of this paragraph or as a corporation operating on a cooperative basis for purposes of section 1381(a)(2)(C) by reason of the treatment under clause (i).
+&emsp;(viii) A company shall not fail to be treated as a mutual or cooperative electric companyfor purposes of this paragraph or as a corporation operating on a cooperative basis for purposes of section 1381(a)(2)(C) by reason of the treatment under clause (i).
 
 &emsp;(ix) For purposes of subparagraph (A), in the case of a mutual or cooperative electric company, income received, or accrued, indirectly from a member shall be treated as an amount collected from members for the sole purpose of meeting losses and expenses.
 
@@ -200,7 +200,7 @@ The following organizations are referred to in subsection (a):
 
 &emsp;&emsp;(A) under the plan, it is impossible, at any time prior to the satisfaction of all liabilities with respect to employees under the plan, for any part of the corpus or income to be (within the taxable year or thereafter) used for, or diverted to, any purpose other than the providing of benefits under the plan,
 
-&emsp;&emsp;(B) such benefits are payable to employees under a classification which is set forth inthe plan and which is found by the Secretary not to be discriminatory in favor of employees who are highly compensated employees (within the meaning of section 414(q)),
+&emsp;&emsp;(B) such benefits are payable to employees under a classification which is set forth in the plan and which is found by the Secretary not to be discriminatory in favor of employees who are highly compensated employees (within the meaning of section 414(q)),
 
 &emsp;&emsp;(C) such benefits do not discriminate in favor of employees who are highly compensated employees (within the meaning of section 414(q)). A plan shall not be considered discriminatory within the meaning of this subparagraph merely because the benefits received under the plan bear a uniform relationship to the total compensation, or the basic or regular rate of compensation, of the employees covered by the plan, and
 
@@ -226,7 +226,7 @@ The following organizations are referred to in subsection (a):
 
 &emsp;(20) an <sup>4</sup> organization or trust created or organized in the United States, the exclusive function of which is to form part of a qualified group legal services plan or plans, within the meaning of section 120. An organization or trust which receives contributions because of section 120(c)(5)(C) shall not be prevented from qualifying as an organization described in this paragraph merely because it provides legal services or indemnification against the cost of legal services unassociated with a qualified group legal services plan.
 
-&emsp;(21)(A) A trust or trusts established in writing, created or organized in the United States, and contributed to by any person (except an insurance company) if—
+&emsp;(21)(A) A trust or trusts established in writing, created or organized in the United States,and contributed to by any person (except an insurance company) if—
 
 &emsp;&emsp;(i) the purpose of such trust or trusts is exclusively—
 
@@ -438,11 +438,11 @@ For purposes of this title, an organization shall be treated as an organization 
 
 &emsp;&emsp;&emsp;(i) an organization described in subsection (c)(3) which is exempt from taxation under subsection (a),
 
-&emsp;&emsp;&emsp;(ii) a constituent part of an organization described in subsection (c)(3) which is exempt from taxation under subsection (a) and which, if organized and operated as a separate entity, would constitute an organization described in subsection (c)(3), or
+&emsp;&emsp;&emsp;(ii) a constituent part of an organization described in subsection (c)(3) which is exempt from taxation under subsection (a)and which, if organized and operated as a separate entity, would constitute an organization described in subsection (c)(3), or
 
 &emsp;&emsp;&emsp;(iii) owned and operated by the United States, a State, the District of Columbia, or a possession of the United States, or a political subdivision or an agency or instrumentality of any of the foregoing;
 
-&emsp;(2) such organization is organized and operated on a cooperative basis and allocates or pays, within 81/2 months after the close of its taxable year, all net earnings to patrons on the basis of services performed for them; and
+&emsp;(2) such organization is organized and operated on a cooperative basis and allocates or pays, within 8½ months after the close of its taxable year, all net earnings to patrons on the basis of services performed for them; and
 
 &emsp;(3) if such organization has capital stock, all of such stock outstanding is owned by its patrons.
 
@@ -574,7 +574,7 @@ Notwithstanding subsection (a), an organization which is described in subsection
 
 &emsp;&emsp;(A) the requirement of subsection (c)(3) that no part of its activities involve the provision of athletic facilities or equipment shall not apply, and
 
-&emsp;&emsp;(B) such organization shall not fail to meet the requirements of subsection (c)(3)merely because its membership is local or regional in nature.
+&emsp;&emsp;(B) such organization shall not fail to meet the requirements of subsection (c)(3) merely because its membership is local or regional in nature.
 
 #### (2) Qualified amateur sports organization defined
 
@@ -594,7 +594,7 @@ For purposes of subsection (c)(1), the following organizations are described in 
 
 &emsp;(1) The Central Liquidity Facility established under title III of the Federal Credit Union Act (12 U.S.C. 1795 et seq.).
 
-&emsp;(2) The Resolution Trust Corporation established under section 21A of the Federal Home Loan Bank Act.
+&emsp;(2) The Resolution Trust Corporation established under section 21A <sup>1</sup> of the Federal Home Loan Bank Act.
 
 &emsp;(3) The Resolution Funding Corporation established under section 21B of the Federal Home Loan Bank Act.
 
@@ -662,7 +662,7 @@ For purposes of subsection (c)(1), the following organizations are described in 
 
 #### (3) Organizational requirements
 
-&emsp;An organization (hereinafter in this subsection referred to as the “risk pool”) meetsthe organizational requirements of this paragraph if—
+&emsp;An organization (hereinafter in this subsection referred to as the “risk pool”) meets the organizational requirements of this paragraph if—
 
 &emsp;&emsp;(A) such risk pool is organized as a nonprofit organization under State law provisions authorizing risk pooling arrangements for charitable organizations,
 
@@ -944,7 +944,7 @@ An organization shall not fail to be treated as organized and operated exclusive
 
 &emsp;&emsp;<b>For nonexemption of Communist-controlled organizations, see section 11(b) of the Internal Security Act of 1950 (64 Stat. 997; 50 U.S.C. 790(b)).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 163; Mar. 13, 1956, ch. 83, §5(2), 70 Stat. 49; Pub. L. 86–428, §1, Apr. 22, 1960, 74 Stat. 54; Pub. L. 86–667, §1, July 14, 1960, 74 Stat. 534; Pub. L. 87–834, §8(d), Oct. 16, 1962, 76 Stat. 997; Pub. L. 89–352, §1, Feb. 2, 1966, 80 Stat. 4; Pub. L. 89–800, §6(a), Nov. 8, 1966, 80 Stat. 1515; Pub. L. 90–364, title I, §109(a), June 28, 1968, 82 Stat. 269; Pub. L. 91–172, title I, §§101(j)(3)–(6), 121(b)(5)(A), (6)(A), Dec. 30, 1969, 83 Stat. 526, 527, 541; Pub. L. 91–618, §1, Dec. 31, 1970, 84 Stat. 1855; Pub. L. 92–418, §1(a), Aug. 29, 1972, 86 Stat. 656; Pub. L. 93–310, §3(a), June 8, 1974, 88 Stat. 235; Pub. L. 93–625, §10(c), Jan. 3, 1975, 88 Stat. 2119; Pub. L. 94–455, title XIII, §§1307(a)(1), (d)(1)(A), 1312(a), 1313(a), title XIX, §1906(b)(13)(A), title XXI, §§2113(a), 2134(b), Oct. 4, 1976, 90 Stat. 1720, 1727, 1730, 1834, 1907, 1927; Pub. L. 94–568, §§1(a), 2(a), Oct. 20, 1976, 90 Stat. 2697; Pub. L. 95–227, §4(a), Feb. 10, 1978, 92 Stat. 15; Pub. L. 95–345, §1(a), Aug. 15, 1978, 92 Stat. 481; Pub. L. 95–600, title VII, §703(b)(2), (g)(2)(A), (B), Nov. 6, 1978, 92 Stat. 2939, 2940; Pub. L. 96–222, title I, §108(b)(2)(B), Apr. 1, 1980, 94 Stat. 226; Pub. L. 96–364, title II, §209(a), Sept. 26, 1980, 94 Stat. 1290; Pub. L. 96–601, §3(a), Dec. 24, 1980, 94 Stat. 3496; Pub. L. 96–605, title I, §106(a), Dec. 28, 1980, 94 Stat. 3523; Pub. L. 97–119, title I, §103(c)(1), Dec. 29, 1981, 95 Stat. 1638; Pub. L. 97–248, title II, §286(a), title III, §354(a), (b), Sept. 3, 1982, 96 Stat. 569, 640, 641; Pub. L. 97–448, title III, §306(b)(5), Jan. 12, 1983, 96 Stat. 2406; Pub. L. 98–369, div. A, title X, §§1032(a), 1079, div. B, title VIII, §2813(b), July 18, 1984, 98 Stat. 1033, 1056, 1206; Pub. L. 99–272, title XI, §11012(b), Apr. 7, 1986, 100 Stat. 260; Pub. L. 99–514, title X,§§1012(a), 1024(b), title XI, §§1109(a), 1114(b)(14), title XVI, §1603(a), title XVIII, §§1879(k)(1), 1899A(15), Oct. 22, 1986, 100 Stat. 2390, 2406, 2435, 2451, 2768, 2909, 2959; Pub. L. 100–203, title X, §10711(a)(2), Dec. 22, 1987, 101 Stat. 1330–464; Pub. L. 100–647, title I, §§1010(b)(4), 1011(c)(7)(D), 1016(a)(1)(A), (2)–(4), 1018(u)(14), (15), (34), title II, §2003(a)(1), (2), title VI, §6202(a), Nov. 10, 1988, 102 Stat. 3451, 3458, 3573, 3574, 3590, 3592, 3597, 3598, 3730; Pub. L. 101–73, title XIV, §1402(a), Aug. 9, 1989, 103 Stat. 550; Pub. L. 102–486, title XIX, §1940(a), Oct. 24, 1992, 106 Stat. 3034; Pub. L. 103–66, title XIII, §13146(a), (b), Aug. 10, 1993, 107 Stat. 443; Pub. L. 104–168, title XIII, §1311(b)(1), July 30, 1996, 110 Stat. 1477; Pub. L. 104–188, title I, §§1114(a), 1704(j)(5), Aug. 20, 1996, 110 Stat. 1759, 1882; Pub. L. 104–191, title III, §§341(a), 342(a), Aug. 21, 1996, 110 Stat. 2070; Pub. L. 105–33, title IV, §4041(a), Aug. 5, 1997, 111 Stat. 360; Pub. L. 105–34, title I, §101(c), title IX, §§963(a), (b), 974(a), Aug. 5, 1997, 111 Stat. 799, 892, 898; Pub. L. 105–206, title VI, §6023(6), (7), July 22, 1998, 112 Stat. 825; Pub. L. 107–16, title VI, §611(d)(3)(C), June 7, 2001, 115 Stat. 98; Pub. L. 107–90, title II, §202, Dec. 21, 2001, 115 Stat. 890; Pub. L. 108–121, title I, §§105(a), 108(a), Nov. 11, 2003, 117 Stat. 1338, 1339; Pub. L. 108–218, title II, §206(a), (b), Apr. 10, 2004, 118 Stat. 610, 611; Pub. L. 108–357, title III, §319(a), (b), Oct. 22, 2004, 118 Stat. 1470, 1471; Pub. L. 109–58, title XIII, §1304(a), (b), Aug. 8, 2005, 119 Stat. 997; Pub. L. 109–135, title IV, §412(bb), (cc), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 109–280, title VIII, §862(a), title XII, §1220(a), Aug. 17, 2006, 120 Stat. 1021, 1086; Pub. L. 111–148, title I, §1322(h)(1), title VI, §6301(f), title IX, §9007(a), title X, §10903(a), Mar. 23, 2010, 124 Stat. 191, 747, 855, 1016; Pub. L. 111–152, title I, §1004(d)(4), Mar. 30, 2010, 124 Stat. 1035.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 163; Mar. 13, 1956, ch. 83, §5(2), 70 Stat. 49; Pub. L. 86–428, §1, Apr. 22, 1960, 74 Stat. 54; Pub. L. 86–667, §1, July 14, 1960, 74 Stat. 534; Pub. L. 87–834, §8(d), Oct. 16, 1962, 76 Stat. 997; Pub. L. 89–352, §1, Feb. 2, 1966, 80 Stat. 4; Pub. L. 89–800, §6(a), Nov. 8, 1966, 80 Stat. 1515; Pub. L. 90–364, title I, §109(a), June 28, 1968, 82 Stat. 269; Pub. L. 91–172, title I, §§101(j)(3)–(6), 121(b)(5)(A), (6)(A), Dec. 30, 1969, 83 Stat. 526, 527, 541; Pub. L. 91–618, §1, Dec. 31, 1970, 84 Stat. 1855; Pub. L. 92–418, §1(a), Aug. 29, 1972, 86 Stat. 656; Pub. L. 93–310, §3(a), June 8, 1974, 88 Stat. 235; Pub. L. 93–625, §10(c), Jan. 3, 1975, 88 Stat. 2119; Pub. L. 94–455, title XIII, §§1307(a)(1), (d)(1)(A), 1312(a), 1313(a), title XIX, §1906(b)(13)(A), title XXI, §§2113(a), 2134(b), Oct. 4, 1976, 90 Stat. 1720, 1727, 1730, 1834, 1907, 1927; Pub. L. 94–568, §§1(a), 2(a), Oct. 20, 1976, 90 Stat. 2697; Pub. L. 95–227, §4(a), Feb. 10, 1978, 92 Stat. 15; Pub. L. 95–345, §1(a), Aug. 15, 1978, 92 Stat. 481; Pub. L. 95–600, title VII, §703(b)(2), (g)(2)(A), (B), Nov. 6, 1978, 92 Stat. 2939, 2940; Pub. L. 96–222, title I, §108(b)(2)(B), Apr. 1, 1980, 94 Stat. 226; Pub. L. 96–364, title II, §209(a), Sept. 26, 1980, 94 Stat. 1290; Pub. L. 96–601, §3(a), Dec. 24, 1980, 94 Stat. 3496; Pub. L. 96–605, title I, §106(a), Dec. 28, 1980, 94 Stat. 3523; Pub. L. 97–119, title I, §103(c)(1), Dec. 29, 1981, 95 Stat. 1638; Pub. L. 97–248, title II, §286(a), title III, §354(a), (b), Sept. 3, 1982, 96 Stat. 569, 640, 641; Pub. L. 97–448, title III, §306(b)(5), Jan. 12, 1983, 96 Stat. 2406; Pub. L. 98–369, div. A, title X, §§1032(a), 1079, div. B, title VIII, §2813(b), July 18, 1984, 98 Stat. 1033, 1056, 1206; Pub. L. 99–272, title XI, §11012(b), Apr. 7, 1986, 100 Stat. 260; Pub. L. 99–514, title X, §§1012(a), 1024(b), title XI, §§1109(a), 1114(b)(14), title XVI, §1603(a), title XVIII, §§1879(k)(1), 1899A(15), Oct. 22, 1986, 100 Stat. 2390, 2406, 2435, 2451, 2768, 2909, 2959; Pub. L. 100–203, title X, §10711(a)(2), Dec. 22, 1987, 101 Stat. 1330–464; Pub. L. 100–647, title I, §§1010(b)(4), 1011(c)(7)(D), 1016(a)(1)(A), (2)–(4), 1018(u)(14), (15), (34), title II, §2003(a)(1), (2), title VI, §6202(a), Nov. 10, 1988, 102 Stat. 3451, 3458, 3573, 3574, 3590, 3592, 3597, 3598, 3730; Pub. L. 101–73, title XIV, §1402(a), Aug. 9, 1989, 103 Stat. 550; Pub. L. 102–486, title XIX, §1940(a), Oct. 24, 1992, 106 Stat. 3034; Pub. L. 103–66, title XIII, §13146(a), (b), Aug. 10, 1993, 107 Stat. 443; Pub. L. 104–168, title XIII, §1311(b)(1), July 30, 1996, 110 Stat. 1477; Pub. L. 104–188, title I, §§1114(a), 1704(j)(5), Aug. 20, 1996, 110 Stat. 1759, 1882; Pub. L. 104–191, title III, §§341(a), 342(a), Aug. 21, 1996, 110 Stat. 2070; Pub. L. 105–33, title IV, §4041(a), Aug. 5, 1997, 111 Stat. 360; Pub. L. 105–34, title I, §101(c), title IX, §§963(a), (b), 974(a), Aug. 5, 1997, 111 Stat. 799, 892, 898; Pub. L. 105–206, title VI, §6023(6), (7), July 22, 1998, 112 Stat. 825; Pub. L. 107–16, title VI, §611(d)(3)(C), June 7, 2001, 115 Stat. 98; Pub. L. 107–90, title II, §202, Dec. 21, 2001, 115 Stat. 890; Pub. L. 108–121, title I, §§105(a), 108(a), Nov. 11, 2003, 117 Stat. 1338, 1339; Pub. L. 108–218, title II, §206(a), (b), Apr. 10, 2004, 118 Stat. 610, 611; Pub. L. 108–357, title III, §319(a), (b), Oct. 22, 2004, 118 Stat. 1470, 1471; Pub. L. 109–58, title XIII, §1304(a), (b), Aug. 8, 2005, 119 Stat. 997; Pub. L. 109–135, title IV, §412(bb), (cc), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 109–280, title VIII, §862(a), title XII, §1220(a), Aug. 17, 2006, 120 Stat. 1021, 1086; Pub. L. 111–148, title I, §1322(h)(1), title VI, §6301(f), title IX, §9007(a), title X, §10903(a), Mar. 23, 2010, 124 Stat. 191, 747, 855, 1016; Pub. L. 111–152, title I, §1004(d)(4), Mar. 30, 2010, 124 Stat. 1035.)
 
 #### References in Text
 
@@ -970,7 +970,7 @@ The provisions of subsec. (a) of section 115, referred to in subsec. (f)(3)(B), 
 
 The Federal Credit Union Act, referred to in subsec. (<i>l</i>)(1), is act June 26, 1934, ch. 750, 48 Stat. 1216, as amended. Title III of the Federal Credit Union Act is classified generally to subchapter III (§1795 et seq.) of chapter 14 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1751 of Title 12 and Tables.
 
-Sections 21A and 21B of the Federal Home Loan Bank Act, referred to in subsec. (<i>l</i>)(2), (3), are classified to sections 1441a and 1441b, respectively, of Title 12.
+Sections 21A and 21B of the Federal Home Loan Bank Act, referred to in subsec. (<i>l</i>)(2), (3), are classified to former section 1441a and section 1441b, respectively, of Title 12, Banks and Banking. Section 21A of the Act was repealed by Pub. L. 111–203, title III, §364(b), July 21, 2010, 124 Stat. 1555.
 
 Sections 1181(b) and 1855(d) of the Social Security Act, referred to in subsecs. (<i>l</i>)(4) and (<i>o</i>), are classified to sections 1320e(b) and 1395w–25(d), respectively, of Title 42, The Public Health and Welfare.
 
@@ -1200,7 +1200,7 @@ Subsec. (b). Pub. L. 91–172, §101(j)(4), inserted reference to certain other 
 
 Subsec. (c). Pub. L. 91–172, §§101(j)(5), 121(b)(6)(A), substituted “part IV” for “part III” after “Corporations organized by an association subject to” and added par. 18.
 
-Subsec. (c)(9). Pub. L. 91–172, §121(b)(5)(A), inserted reference to designated beneficiaries and struck outreference to 85 percent or more income of voluntary employees’ beneficiary associations.
+Subsec. (c)(9). Pub. L. 91–172, §121(b)(5)(A), inserted reference to designated beneficiaries and struck out reference to 85 percent or more income of voluntary employees’ beneficiary associations.
 
 Subsec. (c)(10). Pub. L. 91–172, §121(b)(5)(A), substituted provisions concerning domestic fraternal societies, orders, or associations, operating under the lodge system, for provisions covering voluntary employees’ beneficiary associations which would pay benefits to designated beneficiaries of members.
 
@@ -1250,7 +1250,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 “(2)
 
-Transition rule for existing organizations.—In the case of any organization described in paragraph (3) or (4) of section 501(c) of the Internal Revenue Code of 1986 and with respect to which the provision of credit counseling services is a substantial purpose on the date of the enactment of this Act, the amendments made by this section shall apply to taxable years beginning after the date which is 1 year after the date of the enactment of this Act.”
+Transition rule for existing organizations.—In the case of any organization described in paragraph (3) or (4) of section 501(c) of the Internal Revenue Code of 1986 and with respect to which the provision of credit counseling services is a substantial purpose on the date of the enactment of this Act, the amendments made by this section shall apply to taxable years beginningafter the date which is 1 year after the date of the enactment of this Act.”
 
 #### Effective Date of 2005 Amendment
 
@@ -1488,7 +1488,7 @@ Pub. L. 111–148, title IX, §9007(e), Mar. 23, 2010, 124 Stat. 858, provided t
 
 “(1)
 
-Report on levels of charity care.—The Secretary of the Treasury, in consultation with the Secretary of Health and Human Services, shall submit to the Committees on Ways and Means, Education and Labor, and Energy and Commerce of the House of Representatives and to the Committees on Finance and Health, Education, Labor, and Pensions of the Senate an annual report on the following:
+Report on levels of charity care.—The Secretary of the Treasury, in consultation with the Secretary of Health and Human Services, shall submit to the Committees on Ways and Means, Education and Labor \[now Education and the Workforce\], and Energy and Commerce of the House of Representatives and to the Committees on Finance and Health, Education, Labor, and Pensions of the Senate an annual report on the following:
 
 &emsp;“(A) Information with respect to private tax-exempt, taxable, and government-owned hospitals regarding—
 
@@ -1512,7 +1512,7 @@ Study.—The Secretary of the Treasury, in consultation with the Secretary of He
 
 &emsp;“(B)
 
-Report.—Not later than 5 years after the date of the enactment of this Act \[Mar. 23, 2010\], the Secretary of the Treasury, in consultation with the Secretary of Health and Human Services, shall submit a report on the study conducted under subparagraph (A) to the Committees on Ways and Means, Education and Labor, and Energy and Commerce of the House of Representatives and to the Committees on Finance and Health, Education, Labor, and Pensions of the Senate.”
+Report.—Not later than 5 years after the date of the enactment of this Act \[Mar. 23, 2010\], the Secretary of the Treasury, in consultation with the Secretary of Health and Human Services, shall submit a report on the study conducted under subparagraph (A) to the Committees on Ways and Means, Education and Labor \[now Education and the Workforce\], and Energy and Commerce of the House of Representatives and to the Committees on Finance and Health, Education, Labor, and Pensions of the Senate.”
 
 #### Payments by Charitable Organizations Treated as Exempt Payments
 
@@ -1532,7 +1532,7 @@ Effective Date.—This section shall apply to payments made on or after Septembe
 
 #### Special Rule for Certain Cooperatives
 
-Section 1311(b)(2) of Pub. L. 104–168 provided that: “In the case of an organization operating on a cooperative basis which, before the date of the enactment of this Act \[July 30, 1996\], was determined by the Secretary of the Treasury or his delegate, to be described in section 501(c)(4) of the Internal Revenue Code of 1986 and exempt from tax under section 501(a) of such Code, the allocation or return of net margins or capital to the members of such organization in accordance with its incorporating statute and bylaws shall not be treated for purposes of such Code as the inurement of the net earnings of such organization to the benefit of any private shareholder or individual. The preceding sentence shall apply only if such statute and bylaws are substantially as such statute and bylaws were in existence on the date of the enactment of this Act.”
+Section 1311(b)(2) of Pub. L. 104–168 provided that: “In the case of an organization operating on a cooperative basis which, before the date of the enactment of thisAct \[July 30, 1996\], was determined by the Secretary of the Treasury or his delegate, to be described in section 501(c)(4) of the Internal Revenue Code of 1986 and exempt from tax under section 501(a) of such Code, the allocation or return of net margins or capital to the members of such organization in accordance with its incorporating statute and bylaws shall not be treated for purposes of such Code as the inurement of the net earnings of such organization to the benefit of any private shareholder or individual. The preceding sentence shall apply only if such statute and bylaws are substantially as such statute and bylaws were in existence on the date of the enactment of this Act.”
 
 #### Application of Pub. L. 100–647 to Section 501(c)(3) Bonds
 
@@ -1628,7 +1628,7 @@ Technology transfer organization.—The term ‘technology transfer organization
 
 &emsp;&emsp;&emsp;“(ii) no part of the net earnings of which inures to the benefit of, or is distributable to, any private shareholder, individual, or entity, other than a private foundation or research organization,
 
-&emsp;&emsp;&emsp;“(iii) which does not participate in, or intervene in (including the publishing or distributing of statements) any political campaign on behalf of any candidate for public office,
+&emsp;&emsp;&emsp;“(iii) which does not participate in, or intervene in (including the publishing or distributing ofstatements) any political campaign on behalf of any candidate for public office,
 
 &emsp;&emsp;&emsp;“(iv) no substantial part of the activities of which is carrying on propaganda, or otherwise attempting, to influence legislation, and
 

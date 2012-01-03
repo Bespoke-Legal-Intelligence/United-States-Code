@@ -14,7 +14,7 @@
 
 (c) A director of a defense laboratory may—
 
-&emsp;(1) require a student, as a condition for receiving payments referred to in subsection (b)(4), to enter into a written agreement to continue employment in such defense laboratory for a period of service specified in the agreement; or
+&emsp;(1) require a student, as a condition for receiving payments referred to in subsection\(b)(4), to enter into a written agreement to continue employment in such defense laboratory for a period of service specified in the agreement; or
 
 &emsp;(2) make such payments without requiring such an agreement.
 

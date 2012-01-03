@@ -102,5 +102,5 @@ The date of enactment, referred to in subsec. (b)(2)(D), probably means the date
 
 #### Amendments
 
-2003—Subsecs. (a) to (c)(1). Pub. L. 108–7 added subsecs. (a) to (c)(1) and struck out former subsecs. (a) to (c)(1) which related to the responsibilities of the Secretary, acting through the Under Secretary for Science and Technology, to carry out the responsibilities under section 182(4) of this title through both extramural and intramural programs, to operate extramural research, development, demonstration, testing, and evaluation programs, to establish a coordinated, university-based system to enhance the Nation's homeland security, and to draw upon the expertise of any laboratory of the Federal Government.
+<b>2003</b>—Subsecs. (a) to (c)(1). Pub. L. 108–7 added subsecs. (a) to (c)(1) and struck out former subsecs. (a) to (c)(1) which related to the responsibilities of the Secretary, acting through the Under Secretary for Science and Technology, to carry out the responsibilities under section 182(4) of this title through both extramural and intramural programs, to operate extramural research, development, demonstration, testing, and evaluation programs, to establish a coordinated, university-based system to enhance the Nation's homeland security, and to draw upon the expertise of any laboratory of the Federal Government.
 

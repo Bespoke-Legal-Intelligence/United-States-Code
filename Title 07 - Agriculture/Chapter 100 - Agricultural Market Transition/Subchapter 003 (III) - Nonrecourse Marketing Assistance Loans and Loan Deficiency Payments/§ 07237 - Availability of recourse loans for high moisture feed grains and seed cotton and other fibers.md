@@ -66,7 +66,7 @@ Repayment of a recourse loan made under this section shall be at the loan rate e
 
 #### Amendments
 
-1998—Pub. L. 105–277, §101(a) \[title XI, §1126(1)\], inserted “and other fibers” after “seed cotton” in section catchline.
+<b>1998</b>—Pub. L. 105–277, §101(a) \[title XI, §1126(1)\], inserted “and other fibers” after “seed cotton” in section catchline.
 
 Subsecs. (c), (d). Pub. L. 105–277, §101(a) \[title XI, §1126(2), (3)\], added subsec. (c) and redesignated former subsec. (c) as (d).
 

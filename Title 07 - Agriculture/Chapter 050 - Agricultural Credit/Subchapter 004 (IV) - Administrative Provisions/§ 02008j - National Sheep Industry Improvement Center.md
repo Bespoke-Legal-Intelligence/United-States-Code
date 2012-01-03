@@ -46,7 +46,7 @@ The purposes of the Center shall be to—
 
 &emsp;(3) provide assistance to meet the needs of the sheep or goat industry for infrastructure development, business development, production, resource development, and market and environmental research;
 
-&emsp;(4) advance activities that empower and build the capacity of the United States sheepor goat industry to design unique responses to the special needs of the sheep or goat industries on both a regional and national basis; and
+&emsp;(4) advance activities that empower and build the capacity of the United States sheep or goat industry to design unique responses to the special needs of the sheep or goat industries on both a regional and national basis; and
 
 &emsp;(5) adopt flexible and innovative approaches to solving the long-term needs of the United States sheep or goat industry.
 
@@ -382,7 +382,7 @@ The purposes of the Center shall be to—
 
 #### (2) Other officers and employees
 
-&emsp;The Board may select and appoint officers, attorneys, employees, and agents who shall be vested with such powers and duties as the Board may determine.
+&emsp;The Board may select and appoint officers, attorneys, employees, and agents who shall bevested with such powers and duties as the Board may determine.
 
 #### (3) Delegation
 
@@ -440,21 +440,21 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (e)(6)(B), (C). Pub. L. 110–246, §11009(a), added subpars. (B) and (C) and struck out former subpar. (B) which provided for $27,998,000 out of moneys in the Treasury not otherwise appropriated to carry out this section and former subpar. (C) which authorized appropriation of an additional $30,000,000.
+<b>2008</b>—Subsec. (e)(6)(B), (C). Pub. L. 110–246, §11009(a), added subpars. (B) and (C) and struck out former subpar. (B) which provided for $27,998,000 out of moneys in the Treasury not otherwise appropriated to carry out this section and former subpar. (C) which authorized appropriation of an additional $30,000,000.
 
 Subsec. (j). Pub. L. 110–246, §11009(b)(1), struck out subsec. (j) which related to privatization of the National Sheep Industry Improvement Center and repeal of this section on the date that the Secretary published notice in the Federal Register that the transition plan for such privatization had been completed.
 
-2004—Subsec. (e)(6)(B). Pub. L. 108–447 substituted “$27,998,000” for “$26,998,000”.
+<b>2004</b>—Subsec. (e)(6)(B). Pub. L. 108–447 substituted “$27,998,000” for “$26,998,000”.
 
 Pub. L. 108–199 substituted “$26,998,000” for “$26,499,000”.
 
-2003—Subsec. (e)(6)(B). Pub. L. 108–7 substituted “$26,499,000” for “$26,000,000”.
+<b>2003</b>—Subsec. (e)(6)(B). Pub. L. 108–7 substituted “$26,499,000” for “$26,000,000”.
 
-2001—Subsec. (e)(6)(B). Pub. L. 107–76 substituted “$26,000,000” for “$25,000,000”.
+<b>2001</b>—Subsec. (e)(6)(B). Pub. L. 107–76 substituted “$26,000,000” for “$25,000,000”.
 
-2000—Subsec. (e)(6)(B). Pub. L. 106–387 substituted “$25,000,000” for “$20,000,000”.
+<b>2000</b>—Subsec. (e)(6)(B). Pub. L. 106–387 substituted “$25,000,000” for “$20,000,000”.
 
-1999—Subsec. (a)(5). Pub. L. 106–78, §816(a), added par. (5).
+<b>1999</b>—Subsec. (a)(5). Pub. L. 106–78, §816(a), added par. (5).
 
 Subsec. (e)(3)(A). Pub. L. 106–78, §816(b)(1)(A), added subpar. (A) and struck out heading and text of former subpar. (A). Text read as follows: “The Center may use amounts in the Fund to make grants and loans to eligible entities in accordance with a strategic plan submitted under subsection (d) of this section.”
 

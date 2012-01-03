@@ -24,7 +24,7 @@
 
 &emsp;&emsp;&emsp;(i) a disability benefit is paid with respect to such individual under the Public Safety Officers’ Benefits Program under subpart 1 of part L of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796 et seq.); or
 
-&emsp;&emsp;&emsp;(ii) a death benefit is paid or payable with respect to such individual under the Public Safety Officers’ Benefits Program under subpart 1 of part L of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796 et seq.).
+&emsp;&emsp;&emsp;(ii) a death benefit is paid or payable with respect to such individual under thePublic Safety Officers’ Benefits Program under subpart 1 of part L of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796 et seq.).
 
 #### (B) Exception in the case of a limitation on appropriations for disability benefits under PSOB
 
@@ -54,7 +54,7 @@
 
 #### (ii) Relation to other obligations
 
-&emsp;&emsp;&emsp;Payments under paragraph (1) shall not be made to with respect to <sup>1</sup> an eligible individual to the extent that the total of amounts paid with respect to the individual under such paragraph and under the other obligations referred to in clause (i) is an amount that exceeds the rate of payment that applies under paragraph (2). Ifunder any such other obligation a lump-sum payment is made, such payment shall, for purposes of this subparagraph, be deemed to be received over multiple years rather than received in a single year. The Secretary may, in the discretion of the Secretary, determine how to apportion such payment over multiple years.
+&emsp;&emsp;&emsp;Payments under paragraph (1) shall not be made to with respect to <sup>1</sup> an eligible individual to the extent that the total of amounts paid with respect to the individual under such paragraph and under the other obligations referred to in clause (i) is an amount that exceeds the rate of payment that applies under paragraph (2). If under any such other obligation a lump-sum payment is made, such payment shall, for purposes of this subparagraph, be deemed to be received over multiple years rather than received in a single year. The Secretary may, in the discretion of the Secretary, determine how to apportion such payment over multiple years.
 
 #### (c) Benefit in addition to medical benefits
 

@@ -18,7 +18,7 @@ Definition.—In this subsection, the term “unregulated hazardous substance”
 
 (b)
 
-Toxicological Profiles.—The Secretary of Health and Human Services shall take such steps as necessary to ensure the timely preparation of toxicological profiles of each of the substances of which the Secretary is notified under subsection (a). The profiles of such substances shall include each of the following:
+Toxicological Profiles.—The Secretary of Health and Human Services shall take suchsteps as necessary to ensure the timely preparation of toxicological profiles of each of the substances of which the Secretary is notified under subsection (a). The profiles of such substances shall include each of the following:
 
 &emsp;(1) The examination, summary, and interpretation of available toxicological information and epidemiologic evaluations on a hazardous substance in order to ascertain the levels of significant human exposure for the substance and the associated acute, subacute, and chronic health effects.
 
@@ -66,7 +66,7 @@ Functions of HHS To Be Carried Out Through ATSDR.—The functions of the Secreta
 
 The Toxic Substances Control Act, referred to in subsec. (a)(2)(A), is Pub. L. 94–469, Oct. 11, 1976, 90 Stat. 2003, as amended, which is classified generally to chapter 53 (§2601 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 15 and Tables.
 
-The Safe Drinking Water Act, referred to in subsec. (a)(2)(A), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1660, as amended,which is classified generally to subchapter XII (§300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Safe Drinking Water Act, referred to in subsec. (a)(2)(A), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1660, as amended, which is classified generally to subchapter XII (§300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 The Clean Air Act, referred to in subsec. (a)(2)(A), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 15B (§1857 et seq.) of Title 42. On enactment of Pub. L. 95–95, the Act was reclassified to chapter 85 (§7401 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 

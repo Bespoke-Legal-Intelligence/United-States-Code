@@ -28,7 +28,7 @@ Each person who makes a federally related mortgage loan shall disclose to each p
 
 #### (C) Exception for notice provided at closing
 
-&emsp;&emsp;The provisions of subparagraphs (A) and (B) shall not apply to any assignment, sale, or transfer of the servicing of any mortgage loan if the person who makes the loan provides to the borrower, at settlement (with respect to the property for which the mortgage loan is made), written notice under paragraph (3) of such transfer.
+&emsp;&emsp;The provisions of subparagraphs (A) and (B) shall not apply to any assignment, sale,or transfer of the servicing of any mortgage loan if the person who makes the loan provides to the borrower, at settlement (with respect to the property for which the mortgage loan is made), written notice under paragraph (3) of such transfer.
 
 #### (3) Contents of notice
 
@@ -172,7 +172,7 @@ For purposes of this section:
 
 &emsp;The term “servicer” means the person responsible for servicing of a loan (including the person who makes or holds a loan if such person also services the loan). The term does not include—
 
-&emsp;&emsp;(A) the Federal Deposit Insurance Corporation or the Resolution Trust Corporation, inconnection with assets acquired, assigned, sold, or transferred pursuant to section 1823(c) of this title or as receiver or conservator of an insured depository institution; and
+&emsp;&emsp;(A) the Federal Deposit Insurance Corporation or the Resolution Trust Corporation, in connection with assets acquired, assigned, sold, or transferred pursuant to section 1823(c) of this title or as receiver or conservator of an insured depository institution; and
 
 &emsp;&emsp;(B) the Government National Mortgage Association, the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, the Resolution Trust Corporation, or the Federal Deposit Insurance Corporation, in any case in which the assignment, sale, or transfer of the servicing of the mortgage loan is preceded by—
 
@@ -198,9 +198,99 @@ For purposes of this section:
 
 #### (3) Regulations and effective date
 
-&emsp;The Secretary shall, by regulations that shall take effect not later than April 20, 1991, establish any requirements necessary to carry out this section. Such regulations shall include the model disclosure statement required under subsection (a)(2) of this section.
+&emsp;The Bureau shall establish any requirements necessary to carry out this section. Such regulations shall include the model disclosure statement required under subsection (a)(2) of this section.
 
-(Pub. L. 93–533, §6, as added Pub. L. 101–625, title IX, §941, Nov. 28, 1990, 104 Stat. 4405; amended Pub. L. 102–27, title III, §312(a), Apr. 10, 1991, 105 Stat. 154; Pub. L. 103–325, title III, §345, Sept. 23, 1994, 108 Stat. 2239; Pub. L. 104–208, div. A, title II, §2103(a), Sept. 30, 1996, 110 Stat. 3009–399.)
+(Pub. L. 93–533, §6, as added Pub. L. 101–625, title IX, §941, Nov. 28, 1990, 104 Stat. 4405; amended Pub. L. 102–27, title III, §312(a), Apr. 10, 1991, 105 Stat. 154; Pub. L. 103–325, title III, §345, Sept. 23, 1994, 108 Stat. 2239; Pub. L. 104–208, div. A, title II, §2103(a), Sept. 30, 1996, 110 Stat. 3009–399; Pub. L. 111–203, title X, §1098(4), title XIV, §1463, July 21, 2010, 124 Stat. 2104, 2182.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title XIV, §§1400(c), 1463, July 21, 2010, 124 Stat. 2136, 2182, provided that this section is amended, effective on the date on which final regulations implementing such amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date:</i>
+
+<i>(1) in subsection (e)—</i>
+
+<i>(A) in paragraph (1)(A), by substituting “5 days” for “20 days”;</i>
+
+<i>(B) in paragraph (2), by substituting “30 days” for “60 days”; and</i>
+
+<i>(C) by adding at the end the following new paragraph:</i>
+
+#### <i>“(4) Limited extension of response time</i>
+
+&emsp;<i>“The 30-day period described in paragraph (2) may be extended for not more than 15 days if, before the end of such 30-day period, the servicer notifies the borrower of the extension and the reasons for the delay in responding.”;</i>
+
+<i>(2) in subsection (f)—</i>
+
+<i>(A) in paragraphs (1)(B) and (2)(B), by substituting “$2,000” for “$1,000” wherever appearing; and</i>
+
+<i>(B) in paragraph (2)(B)(i), by substituting “$1,000,000” for “$500,000”;</i>
+
+<i>(3) in subsection (g), by inserting at the end “Any balance in any such account that is within the servicer's control at the time the loan is paid off shall be promptly returned to the borrower within 20 business days or credited to a similar account for a new mortgage loan to the borrower with the same lender.”; and</i>
+
+<i>(4) by adding at the end the following:</i>
+
+#### <i>“(k) Servicer prohibitions</i>
+
+#### <i>“(1) In general</i>
+
+&emsp;<i>“A servicer of a federally related mortgage shall not—</i>
+
+&emsp;&emsp;<i>“(A) obtain force-placed hazard insurance unless there is a reasonable basis to believe the borrower has failed to comply with the loan contract's requirements to maintain property insurance;</i>
+
+&emsp;&emsp;<i>“(B) charge fees for responding to valid qualified written requests (as defined in regulations which the Bureau of Consumer Financial Protection shall prescribe) under this section;</i>
+
+&emsp;&emsp;<i>“(C) fail to take timely action to respond to a borrower's requests to correct errors relating to allocation of payments, final balances for purposes of paying off the loan, or avoiding foreclosure, or other standard servicer's duties;</i>
+
+&emsp;&emsp;<i>“(D) fail to respond within 10 business days to a request from a borrower to provide the identity, address, and other relevant contact information about the owner or assignee of the loan; or</i>
+
+&emsp;&emsp;<i>“(E) fail to comply with any other obligation found by the Bureau of Consumer Financial Protection, by regulation, to be appropriate to carry out the consumer protection purposes of this chapter.</i>
+
+#### <i>“(2) Force-placed insurance defined</i>
+
+&emsp;<i>“For purposes of this subsection and subsections (l) and (m), the term ‘force-placed insurance’ means hazard insurance coverage obtained by a servicer of a federally related mortgage when the borrower has failed to maintain or renew hazard insurance on such property as required of the borrower under the terms of the mortgage.</i>
+
+#### <i>“(l) Requirements for force-placed insurance</i>
+
+<i>“A servicer of a federally related mortgage shall not be construed as having a reasonable basis for obtaining force-placed insurance unless the requirements of this subsection have been met.</i>
+
+#### <i>“(1) Written notices to borrower</i>
+
+&emsp;<i>“A servicer may not impose any charge on any borrower for force-placed insurance with respect to any property securing a federally related mortgage unless—</i>
+
+&emsp;&emsp;<i>“(A) the servicer has sent, by first-class mail, a written notice to the borrower containing—</i>
+
+&emsp;&emsp;&emsp;<i>“(i) a reminder of the borrower's obligation to maintain hazard insurance on the property securing the federally related mortgage;</i>
+
+&emsp;&emsp;&emsp;<i>“(ii) a statement that the servicer does not have evidence of insurance coverage of such property;</i>
+
+&emsp;&emsp;&emsp;<i>“(iii) a clear and conspicuous statement of the procedures by which the borrower may demonstrate that the borrower already has insurance coverage; and</i>
+
+&emsp;&emsp;&emsp;<i>“(iv) a statement that the servicer may obtain such coverage at the borrower's expense if the borrower does not provide such demonstration of the borrower's existing coverage in a timely manner;</i>
+
+&emsp;&emsp;<i>“(B) the servicer has sent, by first-class mail, a second written notice, at least 30 days after the mailing of the notice under subparagraph (A) that contains all the information described in each clause of such subparagraph; and</i>
+
+&emsp;&emsp;<i>“(C) the servicer has not received from the borrower any demonstration of hazard insurance coverage for the property securing the mortgage by the end of the 15-day period beginning on the date the notice under subparagraph (B) was sent by the servicer.</i>
+
+#### <i>“(2) Sufficiency of demonstration</i>
+
+&emsp;<i>“A servicer of a federally related mortgage shall accept any reasonable form of written confirmation from a borrower of existing insurance coverage, which shall include the existing insurance policy number along with the identity of, and contact information for, the insurance company or agent, or as otherwise required by the Bureau of Consumer Financial Protection.</i>
+
+#### <i>“(3) Termination of force-placed insurance</i>
+
+&emsp;<i>“Within 15 days of the receipt by a servicer of confirmation of a borrower's existing insurance coverage, the servicer shall—</i>
+
+&emsp;&emsp;<i>“(A) terminate the force-placed insurance; and</i>
+
+&emsp;&emsp;<i>“(B) refund to the consumer all force-placed insurance premiums paid by the borrower during any period during which the borrower's insurance coverage and the force-placed insurance coverage were each in effect, and any related fees charged to the consumer's account with respect to the force-placed insurance during such period.</i>
+
+#### <i>“(4) Clarification with respect to Flood Disaster Protection Act</i>
+
+&emsp;<i>“No provision of this section shall be construed as prohibiting a servicer from providing simultaneous or concurrent notice of a lack of flood insurance pursuant to section 4012a(e) of title 42.</i>
+
+#### <i>“(m) Limitations on force-placed insurance charges</i>
+
+<i>“All charges, apart from charges subject to State regulation as the business of insurance, related to force-placed insurance imposed on the borrower by or through the servicer shall be bona fide and reasonable.”</i>
+
+<i>See Effective Date of 2010 Amendment note below.</i>
 
 #### Prior Provisions
 
@@ -208,13 +298,21 @@ A prior section 2605, Pub. L. 93–533, §6, Dec. 22, 1974, 88 Stat. 1726, relat
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–208 amended heading and text of subsec. (a) generally. Prior to amendment, text consisted of pars. (1) to (3) relating to requirements for lenders of federally related mortgage loans to disclose to applicants whether servicing of such loan may be assigned, sold, or transferred, directed Secretary to develop model disclosure statement, and required signature of applicant on all such disclosure statements.
+<b>2010</b>—Subsec. (j)(3). Pub. L. 111–203, §1098(4), substituted “Bureau” for “Secretary” and struck out “, by regulations that shall take effect not later than April 20, 1991,” before “establish”.
 
-1994—Subsec. (a)(1)(B). Pub. L. 103–325 substituted “(B) at the choice of the person making a federally related mortgage loan—
+<b>1996</b>—Subsec. (a). Pub. L. 104–208 amended heading and text of subsec. (a) generally. Prior to amendment, text consisted of pars. (1) to (3) relating to requirements for lenders of federally related mortgage loans to disclose to applicants whether servicing of such loan may be assigned, sold, or transferred, directed Secretary to develop model disclosure statement, and required signature of applicant on all such disclosure statements.
+
+<b>1994</b>—Subsec. (a)(1)(B). Pub. L. 103–325 substituted “(B) at the choice of the person making a federally related mortgage loan—
 
 &emsp;“(i) for each of the most recent”
 
 > for “(B) for each of the most recent”, redesignated cls. (i) and (ii) as subcls. (I) and (II), respectively, and realigned margins, substituted “or” for “and” at end of subcl. (II), and added cl. (ii).
 
-1991—Subsec. (j). Pub. L. 102–27 added subsec. (j).
+<b>1991</b>—Subsec. (j). Pub. L. 102–27 added subsec. (j).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by section 1098(4) of Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
+
+Amendment by section 1463 of Pub. L. 111–203 effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as a note under section 1601 of Title 15, Commerce and Trade.
 

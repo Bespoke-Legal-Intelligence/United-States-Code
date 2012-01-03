@@ -122,7 +122,7 @@ The Secretary of the Interior shall notify the Secretary of the Treasury as to w
 
 #### Amendments
 
-<b>2006</b>—Subsec. (c)(2) to (13). Pub. L. 109–432, §201(a)(1), redesignated pars. (3) to (5) and (7) to (13) as (2) to (4)and (5) to (11), respectively, and struck out former pars. (2) and (6) which read as follows:
+<b>2006</b>—Subsec. (c)(2) to (13). Pub. L. 109–432, §201(a)(1), redesignated pars. (3) to (5) and (7) to (13) as (2) to (4) and (5) to (11), respectively, and struck out former pars. (2) and (6) which read as follows:
 
 “(2) for transfer on an annual basis to the Secretary of Agriculture for use under section 1236 of this title;” and
 

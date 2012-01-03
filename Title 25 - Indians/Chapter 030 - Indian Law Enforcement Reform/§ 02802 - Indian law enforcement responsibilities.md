@@ -138,7 +138,7 @@ Not later than 1 year after July 29, 2010, the Secretary, acting through the Bur
 
 &emsp;(2) an assessment and consideration of the construction of Federal detention facilities in Indian country; and
 
-&emsp;(3) any other alternatives as the Secretary, in coordination with the Attorney General and in consultation with Indian tribes, determines to be necessary.
+&emsp;(3) any other alternatives as the Secretary, in coordination with the Attorney General andin consultation with Indian tribes, determines to be necessary.
 
 (Pub. L. 101–379, §3, Aug. 18, 1990, 104 Stat. 473; Pub. L. 111–211, title II, §§211(b), 231(a), 262, July 29, 2010, 124 Stat. 2264, 2272, 2299.)
 
@@ -148,7 +148,7 @@ Public Law 93–638 and the Indian Self-Determination and Education Assistance A
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b). Pub. L. 111–211, §211(b)(1), inserted heading and substituted “There is established in the Bureau an office, to be known as the ‘Office of Justice Services’, that” for “There is hereby established withinthe Bureau a Division of Law Enforcement Services which” in introductory provisions.
+<b>2010</b>—Subsec. (b). Pub. L. 111–211, §211(b)(1), inserted heading and substituted “There is established in the Bureau an office, to be known as the ‘Office of Justice Services’, that” for “There is hereby established within the Bureau a Division of Law Enforcement Services which” in introductory provisions.
 
 Subsec. (c). Pub. L. 111–211, §211(b)(2)(A), substituted “Office of Justice Services” for “Division of Law Enforcement Services” in introductory provisions.
 

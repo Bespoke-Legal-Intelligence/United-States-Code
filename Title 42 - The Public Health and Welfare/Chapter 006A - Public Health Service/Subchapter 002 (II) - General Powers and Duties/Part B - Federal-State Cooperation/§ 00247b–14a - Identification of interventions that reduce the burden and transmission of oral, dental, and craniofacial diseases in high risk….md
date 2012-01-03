@@ -12,7 +12,7 @@ The Secretary of Health and Human Services, through the Maternal and Child Healt
 
 #### (b) Compliance with State practice laws
 
-Treatment and other services shall be provided pursuant to this section by licensed dental health professionals in accordance with State practice and licensing laws.
+Treatment and other services shall be provided pursuant to this section by licensed dentalhealth professionals in accordance with State practice and licensing laws.
 
 #### (c) Authorization of appropriations
 

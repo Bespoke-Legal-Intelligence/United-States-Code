@@ -34,7 +34,7 @@ Certain persons, other than the person who has paid the special tax under this s
 
 &emsp;(4) the partner or partners remaining after death or withdrawal of a member of a partnership.
 
-> When any person moves to any place other than the place for which special tax was paid for the carrying on of any business, he may secure the right to carry on, without incurring additionalspecial tax, the same business at his new location for the remainder of the taxable period for which the special tax was paid. To secure the right to carry on the business without incurring additional special tax, the successor, or the person relocating his business, must register the succession or relocation with the Secretary in accordance with regulations prescribed by the Secretary.
+> When any person moves to any place other than the place for which special tax was paid for the carrying on of any business, he may secure the right to carry on, without incurring additional special tax, the same business at his new location for the remainder of the taxable period for which the special tax was paid. To secure the right to carry on the business without incurring additional special tax, the successor, or the person relocating his business, must register the succession or relocation with the Secretary in accordance with regulations prescribed by the Secretary.
 
 #### (e) Federal agencies or instrumentalities
 

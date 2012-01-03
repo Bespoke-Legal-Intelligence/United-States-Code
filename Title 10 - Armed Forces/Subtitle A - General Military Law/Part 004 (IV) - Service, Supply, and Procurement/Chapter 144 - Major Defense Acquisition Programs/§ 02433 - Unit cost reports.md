@@ -54,7 +54,7 @@
 
 (d)(1) When a unit cost report is submitted to the service acquisition executive designated by the Secretary concerned under this section with respect to a major defense acquisition program or any designated major subprogram under the program, the service acquisition executive shall determine whether the current program acquisition unit cost for the program or subprogram has increased by a percentage equal to or greater than the significant cost growth threshold, or the critical cost growth threshold, for the program or subprogram.
 
-(2) When a unit cost report is submitted to the service acquisition executive designated by the Secretary concerned under this section with respect to a major defense acquisition program or any designated major subprogram under the program that is a procurement program, the service acquisition executive, in addition to the determination under paragraph (1), shall determine whether the procurement unit cost for the program or subprogram has increased by a percentage equal to or greater than the significant cost growth threshold, or the critical cost growth threshold, for the program or subprogram.
+(2) When a unit cost report is submitted to the service acquisition executive designated by the Secretary concerned under this section with respect to a major defense acquisition program or any designated major subprogram under the program that is a procurement program, the serviceacquisition executive, in addition to the determination under paragraph (1), shall determine whether the procurement unit cost for the program or subprogram has increased by a percentage equal to or greater than the significant cost growth threshold, or the critical cost growth threshold, for the program or subprogram.
 
 (3) If, based upon the service acquisition executive's determination, the Secretary concerned determines that the current program acquisition unit cost has increased by a percentage equal to or greater than the significant cost growth threshold or critical cost growth threshold or that the procurement unit cost has increased by a percentage equal to or greater than the significant cost growth threshold or critical cost growth threshold, the Secretary shall notify Congress in writing of such determination and of the increase with respect to the program or subprogram concerned. In the case of a determination based on a quarterly report submitted in accordance with subsection (b), the Secretary shall submit the notification to Congress within 45 days after the end of the quarter. In the case of a determination based on a report submitted in accordance with subsection (c), the Secretary shall submit the notification to Congress within 45 days after the date of that report. The Secretary shall include in the notification the date on which the determination was made.
 
@@ -64,7 +64,7 @@
 
 (2) If the program acquisition unit cost or procurement unit cost of a major defense acquisition program or designated major subprogram (as determined by the Secretary under subsection (d)) increases by a percentage equal to or greater than the critical cost growth threshold for the program or subprogram, the Secretary of Defense shall take actions consistent with the requirements of section 2433a of this title.
 
-(3) If a determination of an increase by a percentage equal to or greater than the significant cost growth threshold is made by the Secretary under subsection (d) and a Selected Acquisition Report containing the information described in subsection (g) is not submitted to Congress under paragraph (1), or if a determination of an increase by a percentage equal to or greater than the critical cost growth threshold is made by the Secretary under subsection (d) and thecertification of the Secretary of Defense is not submitted to Congress under paragraph (2), funds appropriated for military construction, for research, development, test, and evaluation, and for procurement may not be obligated for a major contract under the program. The prohibition on the obligation of funds for a major defense acquisition program shall cease to apply at the end of a period of 30 days of continuous session of Congress (as determined under section 7307(b)(2) of this title) beginning on the date—
+(3) If a determination of an increase by a percentage equal to or greater than the significant cost growth threshold is made by the Secretary under subsection (d) and a Selected Acquisition Report containing the information described in subsection (g) is not submitted to Congress under paragraph (1), or if a determination of an increase by a percentage equal to or greater than the critical cost growth threshold is made by the Secretary under subsection (d) and the certification of the Secretary of Defense is not submitted to Congress under paragraph (2), funds appropriated for military construction, for research, development, test, and evaluation, and for procurement may not be obligated for a major contract under the program. The prohibition on the obligation of funds for a major defense acquisition program shall cease to apply at the end of a period of 30 days of continuous session of Congress (as determined under section 7307(b)(2) of this title) beginning on the date—
 
 &emsp;(A) on which Congress receives the Selected Acquisition Report under paragraph (1) or (2)(B) with respect to that program, in the case of a determination of an increase by a percentage equal to or greater than the significant cost growth threshold (as determined in subsection (d)); or
 
@@ -86,7 +86,7 @@
 
 &emsp;(F) A statement of the reasons for any increase in program acquisition unit cost or procurement unit cost for the program (or for any designated major subprogram under the program).
 
-&emsp;(G) The completion status of the program and each designated major subprogram under the program (i) expressed as the percentage that the number of years for which funds have been appropriated for the program or subprogram is of the number of years for which it is planned that funds will be appropriated for the program or subprogram, and (ii) expressed as the percentage that the amount of funds that have been appropriated for the program or subprogram is of the total amount of funds which it is planned will be appropriated for the program or subprogram.
+&emsp;(G) The completion status of the program and each designated major subprogram under the program (i) expressed as the percentage that the number of years for which funds have been appropriated for the program or subprogram is of the number of years for which it is planned that funds will be appropriated for the program or subprogram, and (ii) expressed asthe percentage that the amount of funds that have been appropriated for the program or subprogram is of the total amount of funds which it is planned will be appropriated for the program or subprogram.
 
 &emsp;(H) The fiscal year in which information on the program and each designated major subprogram under the program was first included in a Selected Acquisition Report (referred to in this paragraph as the “base year”) and the date of that Selected Acquisition Report in which information on the program or subprogram was first included.
 
@@ -178,7 +178,7 @@ Subsec. (g)(1)(H). Pub. L. 110–417, §811(c)(6)(A)(v), inserted “and each de
 
 Subsec. (g)(1)(J). Pub. L. 110–417, §811(c)(6)(A)(vi), inserted “for the program (or for each designated major subprogram under the program)” after “program acquisition unit cost”.
 
-Subsec. (g)(1)(K). Pub. L. 110–417, §811(c)(6)(A)(vii), inserted “for the program (or for each designated majorsubprogram under the program)” after “procurement unit cost” in two places.
+Subsec. (g)(1)(K). Pub. L. 110–417, §811(c)(6)(A)(vii), inserted “for the program (or for each designated major subprogram under the program)” after “procurement unit cost” in two places.
 
 Subsec. (g)(1)(O). Pub. L. 110–417, §811(c)(6)(A)(viii), inserted “for the program (or for any designated major subprogram under the program)” before period at end.
 
@@ -248,7 +248,7 @@ Subsec. (f). Pub. L. 103–355, §3003(d), substituted “be stated in terms of 
 
 Subsec. (g)(1)(I). Pub. L. 103–355, §3003(e), amended subpar. (I) generally. Prior to amendment, subpar. (I) read as follows: “The type of the Baseline Report (under subsection (a)(4)) and the date of the Baseline Report.”
 
-<b>1993</b>—Subsec. (e)(3). Pub. L. 103–35 substituted “an increase of at least 15 percent” for “a at least 15 percent increase” in introductory provisions and in subpar. (A), and substituted “an increase of at least 25 percent” for“a at least 25 percent increase” in introductory provisions and in subpar. (B).
+<b>1993</b>—Subsec. (e)(3). Pub. L. 103–35 substituted “an increase of at least 15 percent” for “a at least 15 percent increase” in introductory provisions and in subpar. (A), and substituted “an increase of at least 25 percent” for “a at least 25 percent increase” in introductory provisions and in subpar. (B).
 
 <b>1992</b>—Subsec. (a)(4)(C). Pub. L. 102–484, §817(d)(1), substituted “(e)(2)(B)” for “(e)(2)(B)(ii)”.
 
@@ -336,7 +336,7 @@ Subsec. (d)(3)(B)(i). Pub. L. 98–525, §1242(b)(4)(B)(ii), struck out “but l
 
 Subsec. (e)(1). Pub. L. 98–525, §1242(b)(5)(A), substituted “subsection (d)(3)(B)(i)” for “subsection (d)(3)(B)” and inserted “more than” before “15 percent”.
 
-Subsec. (e)(2). Pub. L. 98–525, §1242(b)(5)(B), substituted “subsection (d)(3)(B)(ii)” for “subsection (d)(3)(B)” and inserted “more than” before “25 percent”.
+Subsec. (e)(2). Pub. L. 98–525, §1242(b)(5)(B), substituted “subsection (d)(3)(B)(ii)” for “subsection\(d)(3)(B)” and inserted “more than” before “25 percent”.
 
 Subsec. (e)(2)(A). Pub. L. 98–525, §1242(b)(5)(B)(iii), inserted “and the Secretary concerned submits to Congress, before the end of the 30-day period referred to in subsection (d)(3)(B)(i), a report containing the information described in subsection (g)”.
 

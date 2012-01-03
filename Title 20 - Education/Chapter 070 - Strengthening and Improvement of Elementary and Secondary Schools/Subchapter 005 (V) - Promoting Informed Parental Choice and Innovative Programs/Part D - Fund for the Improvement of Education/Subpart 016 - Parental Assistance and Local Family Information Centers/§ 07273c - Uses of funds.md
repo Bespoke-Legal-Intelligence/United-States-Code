@@ -20,7 +20,7 @@ Grant funds received under this subpart shall be used for one or more of the fol
 
 &emsp;&emsp;(G) to train other parents (such as training related to Parents as Teachers activities).
 
-&emsp;(2) To obtain information about the range of options, programs, services, and resources available at the national, State, and local levels to assist parents and school personnel who work with parents.
+&emsp;(2) To obtain information about the range of options, programs, services, and resourcesavailable at the national, State, and local levels to assist parents and school personnel who work with parents.
 
 &emsp;(3) To help the parents learn and use the technology applied in their children's education.
 

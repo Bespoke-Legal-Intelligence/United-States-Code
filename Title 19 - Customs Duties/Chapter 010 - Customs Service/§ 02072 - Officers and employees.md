@@ -130,7 +130,7 @@ Bureau of Prohibition and Commissioner of Prohibition redesignated Bureau of Ind
 
 #### Repeals
 
-Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, §8, 80 Stat. 632, 655.
+Act Oct. 28, 1949, ch. 782, title XI, §1106(a), cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, §8, 80 Stat. 632, 655.
 
 #### Transfer of Functions
 

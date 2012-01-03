@@ -26,13 +26,13 @@
 
 &emsp;(2) if an individual debtor's schedule of assets and liabilities includes debts which are secured by property of the estate—
 
-&emsp;&emsp;(A) within thirty days after the date of the filing of a petition under chapter 7 of this title or on or before the date of the meeting of creditors, whichever is earlier, or within such additional time as the court, for cause, within such period fixes, file with the clerk a statement of his intention with respect to the retention or surrender of such property and, if applicable, specifying that such property is claimed as exempt, that the debtor intends to redeem such property, or that the debtor intends to reaffirm debts secured by such property; and
+&emsp;&emsp;(A) within thirty days after the date of the filing of a petition under chapter 7 of this title or on or before the date of the meeting of creditors, whichever is earlier, or within such additional time as the court, for cause, within such period fixes, file with the clerk a statement of his intention with respect to the retention or surrender of such propertyand, if applicable, specifying that such property is claimed as exempt, that the debtor intends to redeem such property, or that the debtor intends to reaffirm debts secured by such property; and
 
 &emsp;&emsp;(B) within 30 days after the first date set for the meeting of creditors under section 341(a), or within such additional time as the court, for cause, within such 30-day period fixes, perform his intention with respect to such property, as specified by subparagraph (A) of this paragraph;
 
 > &emsp;except that nothing in subparagraphs (A) and (B) of this paragraph shall alter the debtor's or the trustee's rights with regard to such property under this title, except as provided in section 362(h);
 
-&emsp;(3) if a trustee is serving in the case or an auditor is serving under section 586(f) of title28, cooperate with the trustee as necessary to enable the trustee to perform the trustee's duties under this title;
+&emsp;(3) if a trustee is serving in the case or an auditor is serving under section 586(f) of title 28, cooperate with the trustee as necessary to enable the trustee to perform the trustee's duties under this title;
 
 &emsp;(4) if a trustee is serving in the case or an auditor is serving under section 586(f) of title 28, surrender to the trustee all property of the estate and any recorded information, including books, documents, records, and papers, relating to property of the estate, whether or not immunity is granted under section 344 of this title;
 
@@ -68,7 +68,7 @@
 
 (B) If the debtor fails to comply with clause (i) or (ii) of subparagraph (A), the court shall dismiss the case unless the debtor demonstrates that the failure to so comply is due to circumstances beyond the control of the debtor.
 
-(C) If a creditor requests a copy of such tax return or such transcript and if the debtor fails to provide a copy of such tax return or such transcript to such creditor at the time the debtor provides such tax return or such transcript to the trustee, then the court shall dismiss the case unless the debtor demonstrates that the failure to provide a copy of such tax return or such transcript is due to circumstances beyond the control of the debtor.
+(C) If a creditor requests a copy of such tax return or such transcript and if the debtor fails to provide a copy of such tax return or such transcript to such creditor at the time the debtor provides such tax return or such transcript to the trustee, then the court shall dismiss the case unless the debtor demonstrates that thefailure to provide a copy of such tax return or such transcript is due to circumstances beyond the control of the debtor.
 
 (3) If a creditor in a case under chapter 13 files with the court at any time a request to receive a copy of the plan filed by the debtor, then the court shall make available to such creditor a copy of the plan—
 
@@ -78,7 +78,7 @@
 
 (f) At the request of the court, the United States trustee, or any party in interest in a case under chapter 7, 11, or 13, a debtor who is an individual shall file with the court—
 
-&emsp;(1) at the same time filed with the taxing authority, a copy of each Federal income tax return required under applicable law (or at the election of the debtor, a transcript of such tax return) with respect to each tax year of thedebtor ending while the case is pending under such chapter;
+&emsp;(1) at the same time filed with the taxing authority, a copy of each Federal income tax return required under applicable law (or at the election of the debtor, a transcript of such tax return) with respect to each tax year of the debtor ending while the case is pending under such chapter;
 
 &emsp;(2) at the same time filed with the taxing authority, each Federal income tax return required under applicable law (or at the election of the debtor, a transcript of such tax return) that had not been filed with such authority as of the date of the commencement of the case and that was subsequently filed for any tax year of the debtor ending in the 3-year period ending on the date of the commencement of the case;
 
@@ -124,13 +124,13 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 521 of the House amendment modifies a comparable provision contained in the House bill and Senate amendment. The Rules of Bankruptcy Procedure should provide where the list of creditors is to be filed. In addition, the debtor is required to attend the hearing on discharge under section 524(d).
 
 #### senate report no. 95–989
 
-This section lists three duties of the debtor in a bankruptcy case. The Rules of Bankruptcy Procedure will specify the means of carrying out these duties. The first duty is to file with the court a list of creditors and, unless the court orders otherwise, a schedule of assets and liabilities and a statement of his financial affairs. Second, the debtor is required to cooperate with the trustee as necessary to enable the trustee to perform the trustee's duties. Finally, the debtor must surrender to the trustee all property of the estate, and any recorded information, including books, documents, records, and papers, relating to property of the estate. This phrase “recorded information, including books, documents, records, and papers,” has been used hereand throughout the bill as a more general term, and includes such other forms of recorded information as  data  in  computer  storage  or  in  other  machine readable forms.
+This section lists three duties of the debtor in a bankruptcy case. The Rules of Bankruptcy Procedure will specify the means of carrying out these duties. The first duty is to file with the court a list of creditors and, unless the court orders otherwise, a schedule of assets and liabilities and a statement of his financial affairs. Second, the debtor is required to cooperate with the trustee as necessary to enable the trustee to perform the trustee's duties. Finally, the debtor must surrender to the trustee all property of the estate, and any recorded information, including books, documents, records, and papers, relating to property of the estate. This phrase “recorded information, including books, documents, records, and papers,” has been used here and throughout the bill as a more general term, and includes such other forms of recorded information as  data  in  computer  storage  or  in  other  machine readable forms.
 
 The list in this section is not exhaustive of the debtor's duties. Others are listed elsewhere in proposed title 11, such as in section 343, which requires the debtor to submit to examination, or in the Rules of Bankruptcy Procedure, as continued by §404(a) of S. 2266, such as the duty to attend any hearing on discharge, Rule 402(2).
 
@@ -144,7 +144,7 @@ Section 315(c) of the Bankruptcy Abuse Prevention and Consumer Protection Act of
 
 #### Amendments
 
-2010—Subsec. (a)(2). Pub. L. 111–327, §2(a)(16)(A)(iii), in subpar. (C) substituted “except that” for subpar. (C) designation.
+<b>2010</b>—Subsec. (a)(2). Pub. L. 111–327, §2(a)(16)(A)(iii), in subpar. (C) substituted “except that” for subpar. (C) designation.
 
 Subsec. (a)(2)(A). Pub. L. 111–327, §2(a)(16)(A)(i), struck out “the debtor shall” after “period fixes,” and inserted “and” after semicolon at end.
 
@@ -152,11 +152,11 @@ Subsec. (a)(2)(B). Pub. L. 111–327, §2(a)(16)(A)(ii), struck out “the debto
 
 Subsec. (a)(3), (4). Pub. L. 111–327, §2(a)(16)(B), inserted “is” after “auditor”.
 
-2009—Subsec. (e)(3)(B). Pub. L. 111–16, §2(5), substituted “7 days” for “5 days”.
+<b>2009</b>—Subsec. (e)(3)(B). Pub. L. 111–16, §2(5), substituted “7 days” for “5 days”.
 
 Subsec. (i)(2). Pub. L. 111–16, §2(6), substituted “7 days” for “5 days”.
 
-2005—Pub. L. 109–8, §106(d)(1), designated existing provisions as subsec. (a).
+<b>2005</b>—Pub. L. 109–8, §106(d)(1), designated existing provisions as subsec. (a).
 
 Subsec. (a). Pub. L. 109–8, §304(1), added concluding provisions.
 
@@ -186,9 +186,9 @@ Subsec. (i). Pub. L. 109–8, §316, added subsec. (i).
 
 Subsec. (j). Pub. L. 109–8, §720, added subsec. (j).
 
-1986—Par. (4). Pub. L. 99–554 inserted “, whether or not immunity is granted under section 344 of this title” after second reference to “estate”.
+<b>1986</b>—Par. (4). Pub. L. 99–554 inserted “, whether or not immunity is granted under section 344 of this title” after second reference to “estate”.
 
-1984—Par. (1). Pub. L. 98–353, §305(2), inserted “a schedule of current income and current expenditures,” after “liabilities,”.
+<b>1984</b>—Par. (1). Pub. L. 98–353, §305(2), inserted “a schedule of current income and current expenditures,” after “liabilities,”.
 
 Pars. (2) to (5). Pub. L. 98–353, §305(1), (3), added par. (2), redesignated former pars. (2) to (4) as (3) to (5), respectively.
 

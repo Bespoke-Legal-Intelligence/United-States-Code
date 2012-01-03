@@ -26,7 +26,7 @@ The Secretary shall identify and publish a recommended core set of adult health 
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 12 months after the release of the recommended core set of adult health quality measures under paragraph (1)) <sup>1</sup>, the Secretary shall establish a Medicaid Quality Measurement Program in the same manner as the Secretary establishes the pediatric quality measures program under section 1320b–9a(b) of this title. The aggregate amount awarded by the Secretary for grants and contracts for the development, testing, and validation of emerging and innovative evidence-based measures under such program shall equal the aggregate amount awarded by the Secretary for grants under section 1320b–9a(b)(4)(A) of this title <sup>2</sup>
+&emsp;&emsp;Not later than 12 months after the release of the recommended core set of adult health quality measures under paragraph (1)) <sup>1</sup>, theSecretary shall establish a Medicaid Quality Measurement Program in the same manner as the Secretary establishes the pediatric quality measures program under section 1320b–9a(b) of this title. The aggregate amount awarded by the Secretary for grants and contracts for the development, testing, and validation of emerging and innovative evidence-based measures under such program shall equal the aggregate amount awarded by the Secretary for grants under section 1320b–9a(b)(4)(A) of this title <sup>2</sup>
 
 #### (B) Revising, strengthening, and improving initial core measures
 
@@ -34,7 +34,7 @@ The Secretary shall identify and publish a recommended core set of adult health 
 
 #### (c) Construction
 
-Nothing in this section shall be construed as supporting the restriction of coverage, undersubchapter XIX or XXI or otherwise, to only those services that are evidence-based, or in anyway limiting available services.
+Nothing in this section shall be construed as supporting the restriction of coverage, under subchapter XIX or XXI or otherwise, to only those services that are evidence-based, or in anyway limiting available services.
 
 #### (d) Annual State reports regarding State-specific quality of care measures applied under Medicaid
 

@@ -28,23 +28,23 @@ A prior section 31, acts Feb. 26, 1907, ch. 1635, §4, 34 Stat. 993; Mar. 4, 192
 
 #### Amendments
 
-1994—Par. (2). Pub. L. 103–356 designated existing provisions as subpar. (A), substituted “Subject to subparagraph (B), effective” for “Effective”, and added subpar. (B).
+<b>1994</b>—Par. (2). Pub. L. 103–356 designated existing provisions as subpar. (A), substituted “Subject to subparagraph (B), effective” for “Effective”, and added subpar. (B).
 
-1990—Par. (2). Pub. L. 101–509 substituted “5303” for “5305”.
+<b>1990</b>—Par. (2). Pub. L. 101–509 substituted “5303” for “5305”.
 
-1989—Par. (2). Pub. L. 101–194 substituted “the most recent percentage change in the ECI (relative to the date described in the next sentence), as determined under section 704(a)(1) of the Ethics Reform Act of 1989. The appropriate date under this sentence is the first day of the fiscal year in which such adjustment in the rates of pay under the General Schedule takes effect” for “the overall average percentage (as set forth in the report transmitted to the Congress under such section 5305) of the adjustment in the rates of pay under the General Schedule”.
+<b>1989</b>—Par. (2). Pub. L. 101–194 substituted “the most recent percentage change in the ECI (relative to the date described in the next sentence), as determined under section 704(a)(1) of the Ethics Reform Act of 1989. The appropriate date under this sentence is the first day of the fiscal year in which such adjustment in the rates of pay under the General Schedule takes effect” for “the overall average percentage (as set forth in the report transmitted to the Congress under such section 5305) of the adjustment in the rates of pay under the General Schedule”.
 
-1975—Pub. L. 94–82 designated existing provisions as par. (1), substituted provisions that rate of pay of the specified parties shall be determined under section 351 et seq. of this title, as adjusted by par. (2) for provisions setting rate of compensation at $42,500 for Senators, Representatives, Delegates, and Resident Commissioner, $62,500 for Speaker, and $49,500 for President pro tempore of Senate and Majority and Minority Leaders of House and Senate, and added par. (2).
+<b>1975</b>—Pub. L. 94–82 designated existing provisions as par. (1), substituted provisions that rate of pay of thespecified parties shall be determined under section 351 et seq. of this title, as adjusted by par. (2) for provisions setting rate of compensation at $42,500 for Senators, Representatives, Delegates, and Resident Commissioner, $62,500 for Speaker, and $49,500 for President pro tempore of Senate and Majority and Minority Leaders of House and Senate, and added par. (2).
 
-1969—Pub. L. 91–67 increased compensation of Speaker from $43,000 to $62,500 per annum and compensation of Majority and Minority Leaders of both Houses of Congress from $35,000 to $49,500 per annum, and fixed compensation of President pro tempore of Senate at $49,500 per annum.
+<b>1969</b>—Pub. L. 91–67 increased compensation of Speaker from $43,000 to $62,500 per annum and compensation of Majority and Minority Leaders of both Houses of Congress from $35,000 to $49,500 per annum, and fixed compensation of President pro tempore of Senate at $49,500 per annum.
 
-1965—Pub. L. 89–301 inserted provisions setting rate of compensation of Majority and Minority Leaders of Senate and House of Representatives at $35,000 per annum each.
+<b>1965</b>—Pub. L. 89–301 inserted provisions setting rate of compensation of Majority and Minority Leaders of Senate and House of Representatives at $35,000 per annum each.
 
-1964—Pub. L. 88–426 increased compensation of Senators, Representatives and Resident Commissioner from $22,500 to $30,000 per annum and that of Speaker from $35,000 to $43,000 per annum, and eliminated provisions which related to Delegates from the Territories.
+<b>1964</b>—Pub. L. 88–426 increased compensation of Senators, Representatives and Resident Commissioner from $22,500 to $30,000 per annum and that of Speaker from $35,000 to $43,000 per annum, and eliminated provisions which related to Delegates from the Territories.
 
-1955—Act Mar. 2, 1955, increased salaries of Senators, Representatives, Delegates, and Resident Commissioner from $12,500 a year to $22,500 and compensation of Speaker from $30,000 to $35,000 a year.
+<b>1955</b>—Act Mar. 2, 1955, increased salaries of Senators, Representatives, Delegates, and Resident Commissioner from $12,500 a year to $22,500 and compensation of Speaker from $30,000 to $35,000 a year.
 
-1949—Act Jan. 19, 1949, increased Speaker's salary from $20,000 per year to $30,000.
+<b>1949</b>—Act Jan. 19, 1949, increased Speaker's salary from $20,000 per year to $30,000.
 
 #### Effective Date of 1994 Amendment
 
@@ -110,7 +110,7 @@ Severability.—If any provision of this Act \[enacting provisions set out as no
 
 #### Annual Rate of Pay Increase for Certain Members of Congress Serving On or After July 1, 1983
 
-Pub. L. 98–63, title I, §908(d), (f), July 30, 1983, 97 Stat. 338, which provided that, effective with respect to service as a Member performed on or after July 1, 1983, and notwithstanding any other provision of law, in the case of a Member serving in office or position of Senator, President pro tempore of Senate, Majority Leader of Senate, or Minority Leader of Senate during a calendar year, the annual rate of pay paid to such Member for such service would not be less than the annual rate of pay payable for such position on Dec. 17, 1982, increased by 15 percent and rounded in accordance with section 5318 of Title 5, was repealed by Pub. L. 102–90, title I, §6(c), Aug. 14, 1991, 105 Stat. 451.
+Pub. L. 98–63, title I, §908(d), (f), July 30, 1983, 97 Stat. 338, which provided that, effective with respect to service as a Member performed on or after July 1, 1983, and notwithstanding any other provision of law, in the case of a Member serving in office or position of Senator, President pro tempore of Senate, Majority Leader of Senate, or Minority Leader of Senate during a calendar year, the annual rate of pay paid to such Member for such service would not be less than the annual rate of pay payable for such position on Dec. 17, 1982, increased by 15 percent and rounded in accordance with section5318 of Title 5, was repealed by Pub. L. 102–90, title I, §6(c), Aug. 14, 1991, 105 Stat. 451.
 
 #### Appropriation of Funds for Compensation of Members of Congress and for Administrative Expenses at Levels Authorized by Law and Recommended by the President for Federal Employees
 
@@ -118,7 +118,7 @@ Pub. L. 97–51, §130(c), Oct. 1, 1981, 95 Stat. 966, provided that: “Effecti
 
 #### Commission on Judicial and Congressional Salaries
 
-Act Aug. 7, 1953, ch. 353, 67 Stat. 485, which established a Commission to determine appropriate rates of salaries for justices and judges of courts of UnitedStates and for Vice President, Speaker of House of Representatives, and Members of Congress, was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 657.
+Act Aug. 7, 1953, ch. 353, 67 Stat. 485, which established a Commission to determine appropriate rates of salaries for justices and judges of courts of United States and for Vice President, Speaker of House of Representatives, and Members of Congress, was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 657.
 
 #### Salary Increases
 

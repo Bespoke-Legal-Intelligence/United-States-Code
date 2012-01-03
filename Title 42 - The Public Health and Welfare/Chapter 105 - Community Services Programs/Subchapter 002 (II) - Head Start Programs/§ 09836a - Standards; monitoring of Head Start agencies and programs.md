@@ -82,7 +82,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary, in consultation with representatives of Head Start agencies and with experts in the fields of early childhood education and development, family services, and program management, shall use the study on Developmental Outcomes and Assessments for Young Children by the National Academy of Sciences and other relevant research to inform, revise, and provide guidance to HeadStart agencies for utilizing, scientifically based measures that support, as appropriate—
+&emsp;The Secretary, in consultation with representatives of Head Start agencies and with experts in the fields of early childhood education and development, family services, and program management, shall use the study on Developmental Outcomes and Assessments for Young Children by the National Academy of Sciences and other relevant research to inform, revise, and provide guidance to Head Start agencies for utilizing, scientifically based measures that support, as appropriate—
 
 &emsp;&emsp;(A) classroom instructional practices;
 
@@ -206,7 +206,7 @@
 
 &emsp;&emsp;&emsp;(i) using Federal funds appropriately;
 
-&emsp;&emsp;&emsp;(ii) using Federal funds specifically to purchase property (consistent with section 9839(f) of this title) and to compensate personnel;
+&emsp;&emsp;&emsp;(ii) using Federal funds specifically to purchase property (consistent with section9839(f) of this title) and to compensate personnel;
 
 &emsp;&emsp;&emsp;(iii) securing and using qualified financial officer support; and
 
@@ -400,7 +400,7 @@
 
 &emsp;&emsp;(A) on a semiannual basis, determine which Head Start agencies are operating with an actual enrollment that is less than the funded enrollment based on not less than 4 consecutive months of data;
 
-&emsp;&emsp;(B) for each such Head Start agency operating a program with an actual enrollment that is less than its funded enrollment, as determined under subparagraph (A), develop, in collaboration with such agency, a planand timetable for reducing or eliminating underenrollment taking into consideration—
+&emsp;&emsp;(B) for each such Head Start agency operating a program with an actual enrollment that is less than its funded enrollment, as determined under subparagraph (A), develop, in collaboration with such agency, a plan and timetable for reducing or eliminating underenrollment taking into consideration—
 
 &emsp;&emsp;&emsp;(i) the quality and extent of the outreach, recruitment, and communitywide strategic planning and needs assessment conducted by such agency;
 
@@ -444,7 +444,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Funds held by the Secretary as a result of recapturing, withholding, or reducing a base grant in a fiscal year shall be redistributed by the end of the following fiscal year as follows:
+&emsp;&emsp;Funds held by the Secretary as a result of recapturing, withholding, or reducing a basegrant in a fiscal year shall be redistributed by the end of the following fiscal year as follows:
 
 #### (i) Indian Head Start programs
 
@@ -470,7 +470,7 @@
 
 #### References in Text
 
-The Individuals with Disabilities Education Act, referred to in subsec. (c)(2)(K), is title VI of Pub. L.91–230, Apr. 13, 1970, 84 Stat. 175. Part C of the Act is classified generally to subchapter III (§1431 et seq.) of chapter 33 of Title 20, Education. Section 619 of the Act is classified to section 1419 of Title 20. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (c)(2)(K), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part C of the Act is classified generally to subchapter III (§1431 et seq.) of chapter 33 of Title 20, Education. Section 619 of the Act is classified to section 1419 of Title 20. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
 #### Amendments
 
@@ -522,7 +522,7 @@ Subsec. (c)(2)(D), (E). Pub. L. 105–285, §108(c)(2)(C), added subpars. (D) an
 
 Subsec. (d)(1). Pub. L. 105–285, §108(d)(1)(A), inserted “or results-based performance measures developed by the Secretary under subsection (b) of this section” after “subsection (a) of this section” in introductory provisions.
 
-Subsec. (d)(1)(B). Pub. L. 105–285, §108(d)(1)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “with respect to each identified deficiency, require the agency—
+Subsec. (d)(1)(B). Pub. L. 105–285, §108(d)(1)(B), amended subpar. (B) generally. Prior to amendment, subpar.\(B) read as follows: “with respect to each identified deficiency, require the agency—
 
 &emsp;“(i) to correct the deficiency immediately; or
 

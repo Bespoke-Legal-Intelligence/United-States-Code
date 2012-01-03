@@ -12,7 +12,7 @@ For purposes of this section, the terms “catastrophic injury”, “public age
 
 #### References in Text
 
-The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (a), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197, as amended. The reference to subpart 1 of part L of the Act probably means subpart 1 of part L of title I of the Act which is classified generally tothis part. For complete classification of this Act to the Code, see Short Title note set out under section 3711 of this title and Tables.
+The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (a), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197, as amended. The reference to subpart 1 of part L of the Act probably means subpart 1 of part L of title I of the Act which is classified generally to this part. For complete classification of this Act to the Code, see Short Title note set out under section 3711 of this title and Tables.
 
 #### Codification
 

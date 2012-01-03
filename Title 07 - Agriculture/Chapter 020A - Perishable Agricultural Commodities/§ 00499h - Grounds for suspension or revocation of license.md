@@ -36,21 +36,21 @@ Section was formerly classified to section 558 of this title.
 
 #### Amendments
 
-1995—Subsec. (b). Pub. L. 104–48, §12(b), inserted at end “The Secretary may extend the period of employment sanction as to a responsibly connected person for an additional one-year period upon the determination that the person has been unlawfully employed as provided in this subsection.”
+<b>1995</b>—Subsec. (b). Pub. L. 104–48, §12(b), inserted at end “The Secretary may extend the period of employment sanction as to a responsibly connected person for an additional one-year period upon the determination that the person has been unlawfully employed as provided in this subsection.”
 
 Subsec. (e). Pub. L. 104–48, §11, added subsec. (e).
 
-1991—Subsec. (a). Pub. L. 102–237 redesignated cls. (a) and (b) as (1) and (2), respectively, and substituted a period for semicolon at end.
+<b>1991</b>—Subsec. (a). Pub. L. 102–237 redesignated cls. (a) and (b) as (1) and (2), respectively, and substituted a period for semicolon at end.
 
-1962—Subsec. (b). Pub. L. 87–725 amended subsec. (b) generally, and among other changes, provided that any licensee hiring any person without the Secretary's approval in violation of this section, after notice and opportunity for hearing, may have his license suspended or revoked, that the restrictions shall apply to persons found, after notice and opportunity for hearing, to have committed any flagrant or repeated violation of section 499b of this title, but not where such violator's license was suspended and the suspension has expired or is not in effect, and shall also apply to persons against whom there is a unpaid reparation award issued within two years, subject to appeal under section 499g(c) of this title, permitted the Secretary to approve employment at any time following nonpayment of a reparation award, or after one year following the revocation or finding of flagrant and repeated violation of section 499b of this title, if the licensee furnishes a bond as assurance that his business will be conducted in accordance with this chapter and he will pay all reparation awards issued within four years following approval, subject to appeal under section 499g(c) of this title, or without bond after two years from the effective date of the disciplinary order, authorized the Secretary to increase or decrease the amount of bond, and required licensees notified of an increased bond to provide such in a reasonable time or the approval of employment will terminate.
+<b>1962</b>—Subsec. (b). Pub. L. 87–725 amended subsec. (b) generally, and among other changes, provided that any licensee hiring any person without the Secretary's approval in violation of this section, after notice and opportunity for hearing, may have his license suspended or revoked, that the restrictions shall apply to persons found, after notice and opportunity for hearing, to have committed any flagrant or repeated violation of section 499b of this title, but not where such violator's license was suspended and the suspension has expired or is not in effect, and shall also apply to persons against whom there is a unpaid reparation award issued within two years, subject to appeal under section 499g(c) of this title, permitted the Secretary to approve employment at any time following nonpayment of a reparation award, or after one year following the revocation or finding of flagrant and repeated violation of section 499b of this title, if the licensee furnishes a bond as assurance that his business will be conducted in accordance with this chapter and he will pay all reparation awards issued within four years following approval, subject to appeal under section 499g(c) of this title, or without bond after two years from the effective date of the disciplinary order, authorized the Secretary to increase or decrease the amount of bond, and required licensees notified of an increased bond to provide such in a reasonable time or the approval of employment will terminate.
 
-1956—Subsec. (b). Act July 30, 1956, provided for suspension of licenses, and restricted authority to permit employment to those cases where licenses have been revoked or suspended for failure to pay a reparation award.
+<b>1956</b>—Subsec. (b). Act July 30, 1956, provided for suspension of licenses, and restricted authority to permit employment to those cases where licenses have been revoked or suspended for failure to pay a reparation award.
 
-1937—Subsec. (a). Act Aug. 20, 1937, among other changes, inserted cl. (a) designation and inserted “or (b) any commission merchant, dealer, or broker has been found guilty in a Federal court of having violated section 499n(b) of this title” after “section 499b of this title”.
+<b>1937</b>—Subsec. (a). Act Aug. 20, 1937, among other changes, inserted cl. (a) designation and inserted “or (b) any commission merchant, dealer, or broker has been found guilty in a Federal court of having violated section 499n(b) of this title” after “section 499b of this title”.
 
 Subsec. (b). Act Aug. 20, 1937, amended subsec. (b) generally.
 
 Subsecs. (c), (d). Act Aug. 20, 1937, added subsecs. (c) and (d).
 
-1934—Subsec. (b). Act Apr. 13, 1934, added subsec. (b).
+<b>1934</b>—Subsec. (b). Act Apr. 13, 1934, added subsec. (b).
 

@@ -2,7 +2,7 @@
 
 #### (a) Information clearly and conspicuously disclosed; “annual percentage rate” and “finance charge”; order of disclosures and use of different terminology
 
-Information required by this subchapter shall be disclosed clearly and conspicuously, in accordance with regulations of the Board. The terms “annual percentage rate” and “finance charge” shall be disclosed more conspicuously than other terms, data, or information provided in connection with a transaction, except information relating to the identify of the creditor. Except as provided in subsection (c) of this section, regulations of the Board need not require that disclosures pursuant to this subchapter be made in the order set forth in this subchapter and, except as otherwise provided, may permit the use of terminology different from that employed in this subchapter if it conveys substantially the same meaning.
+Information required by this subchapter shall be disclosed clearly and conspicuously, in accordance with regulations of the Bureau. The terms “annual percentage rate” and “finance charge” shall be disclosed more conspicuously than other terms, data, or information provided in connection with a transaction, except information relating to the identify of the creditor. Except as provided in subsection (c) of this section, regulations of the Bureau need not require that disclosures pursuant to this subchapter be made in the order set forth in this subchapter and, except as otherwise provided, may permit the use of terminology different from that employed in this subchapter if it conveys substantially the same meaning.
 
 #### (b) Optional information by creditor or lessor
 
@@ -14,7 +14,7 @@ Any creditor or lessor may supply additional information or explanation with any
 
 &emsp;The information described in paragraphs (1)(A), (3)(B)(i)(I), (4)(A), and (4)(C)(i)(I) of section 1637(c) of this title shall be—
 
-&emsp;&emsp;(A) disclosed in the form and manner which the Board shall prescribe by regulations; and
+&emsp;&emsp;(A) disclosed in the form and manner which the Bureau shall prescribe by regulations; and
 
 &emsp;&emsp;(B) placed in a conspicuous and prominent location on or with any written application, solicitation, or other document or paper with respect to which such disclosure is required.
 
@@ -22,15 +22,15 @@ Any creditor or lessor may supply additional information or explanation with any
 
 #### (A) Form of table to be prescribed
 
-&emsp;&emsp;In the regulations prescribed under paragraph (1)(A) of this subsection, the Board shall require that the disclosure of such information shall, to the extent the Board determines to be practicable and appropriate, be in the form of a table which—
+&emsp;&emsp;In the regulations prescribed under paragraph (1)(A) of this subsection, the Bureau shall require that the disclosure of such information shall, to the extent the Bureau determines to be practicable and appropriate, be in the form of a table which—
 
 &emsp;&emsp;&emsp;(i) contains clear and concise headings for each item of such information; and
 
 &emsp;&emsp;&emsp;(ii) provides a clear and concise form for stating each item of information required to be disclosed under each such heading.
 
-#### (B) Board discretion in prescribing order and wording of table
+#### (B) Bureau discretion in prescribing order and wording of table
 
-&emsp;&emsp;In prescribing the form of the table under subparagraph (A), the Board may—
+&emsp;&emsp;In prescribing the form of the table under subparagraph (A), the Bureau may—
 
 &emsp;&emsp;&emsp;(i) list the items required to be included in the table in a different order than the order in which such items are set forth in paragraph (1)(A) or (4)(A) of section 1637(c) of this title; and
 
@@ -46,13 +46,13 @@ Any creditor or lessor may supply additional information or explanation with any
 
 &emsp;Each creditor shall establish and maintain an Internet site on which the creditor shall post the written agreement between the creditor and the consumer for each credit card account under an open-end consumer credit plan.
 
-#### (2) Creditor to provide contracts to the Board
+#### (2) Creditor to provide contracts to the Bureau
 
-&emsp;Each creditor shall provide to the Board, in electronic format, the consumer credit card agreements that it publishes on its Internet site.
+&emsp;Each creditor shall provide to the Bureau, in electronic format, the consumer credit card agreements that it publishes on its Internet site.
 
 #### (3) Record repository
 
-&emsp;The Board shall establish and maintain on its publicly available Internet site a central repository of the consumer credit card agreements received from creditors pursuant to this subsection, and such agreements shall be easily accessible and retrievable by the public.
+&emsp;The Bureau shall establish and maintain on its publicly available Internet site a central repository of the consumer credit card agreements received from creditors pursuant to this subsection, and such agreements shall be easily accessible and retrievable by the public.
 
 #### (4) Exception
 
@@ -60,15 +60,17 @@ Any creditor or lessor may supply additional information or explanation with any
 
 #### (5) Regulations
 
-&emsp;The Board, in consultation with the other Federal banking agencies (as that term is defined in section 1681a of this title) and the Federal Trade Commission, may promulgate regulations to implement this subsection, including specifying the format for posting the agreements on the Internet sites of creditors and establishing exceptions to paragraphs (1) and (2), in any case in which the administrative burden outweighs the benefit of increased transparency, such as where a credit card plan has a de minimis number of consumer account holders.
+&emsp;The Bureau, in consultation with the other Federal banking agencies (as that term is defined in section 1681a of this title) and the Bureau,<sup>1</sup> may promulgate regulations to implement this subsection, including specifying the format for posting the agreements on the Internet sites of creditors and establishing exceptions to paragraphs (1) and (2), in any case in which the administrative burden outweighs the benefit of increased transparency, such as where a credit card plan has a de minimis number of consumer account holders.
 
 (Pub. L. 90–321, title I, §122, May 29, 1968, 82 Stat. 152; Pub. L. 93–495, title III, §307(e), (f), Oct. 28, 1974, 88 Stat. 1516, 1517; Pub. L. 96–221, title VI, §611, Mar. 31, 1980, 94 Stat. 175; Pub. L. 100–583, §2(b), Nov. 3, 1988, 102 Stat. 2966; Pub. L. 100–709, §2(d), Nov. 23, 1988, 102 Stat. 4731; Pub. L. 111–24, title II, §204, May 22, 2009, 123 Stat. 1746; Pub. L. 111–203, title X, §1100A(2), (3), July 21, 2010, 124 Stat. 2107.)
 
-#### Amendment of Section
-
-<i>Pub. L. 111–203, title X, §§1100A(2), (3), 1100H, July 21, 2010, 124 Stat. 2107, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Board” each place that term appears and inserting “Bureau” and by striking “Federal Trade Commission” each place that term appears and inserting “Bureau”. See Effective Date of 2010 Amendment note below.</i>
-
 #### Amendments
+
+<b>2010</b>—Subsecs. (a), (c). Pub. L. 111–203, §1100A(2), substituted “Bureau” for “Board” wherever appearing.
+
+Subsec. (d)(2), (3). Pub. L. 111–203, §1100A(2), substituted “Bureau” for “Board” wherever appearing.
+
+Subsec. (d)(5). Pub. L. 111–203 substituted “The Bureau, in” for “The Board, in” and “and the Bureau, may” for “and the Federal Trade Commission, may”.
 
 <b>2009</b>—Subsec. (d). Pub. L. 111–24 added subsec. (d).
 
@@ -106,7 +108,9 @@ For effective date of amendment by Pub. L. 93–495, see section 308 of Pub. L. 
 
 #### Regulations; Effective Date
 
-For provisions relating to promulgation of regulations to implement amendment by Pub. L. 100–709, and effective date of such amendment in connection withthose regulations, see section 7 of Pub. L. 100–709, set out as a note under section 1637a of this title.
+For provisions relating to promulgation of regulations to implement amendment by Pub. L. 100–709, and effective date of such amendment in connection with those regulations, see section 7 of Pub. L. 100–709, set out as a note under section 1637a of this title.
 
-For provisions relating to promulgation of regulations to implement amendment by Pub. L. 100–583, and effective date of such amendment in connection with those regulations, see section 7 of Pub. L. 100–583, set out as a note under section 1637 of this title.
+For provisions relating to promulgation of regulations to implement amendment by Pub. L. 100–583, and effective date of such amendment in connection withthose regulations, see section 7 of Pub. L. 100–583, set out as a note under section 1637 of this title.
+
+<i><sup>1</sup></i><i> So in original.</i>
 

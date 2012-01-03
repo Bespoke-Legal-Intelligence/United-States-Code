@@ -88,7 +88,7 @@
 
 #### (II) Adjustment rate
 
-&emsp;&emsp;&emsp;&emsp;The adjustment rate under subclause (I) for a State shall be a reduction of 5 percent for fiscal years before fiscal year 2012 (and 6 percent for fiscal year 2012) in the number of living non-AIDS cases of HIV reported for the State.
+&emsp;&emsp;&emsp;&emsp;The adjustment rate under subclause (I) for a State shall be a reduction of 5percent for fiscal years before fiscal year 2012 (and 6 percent for fiscal year 2012) in the number of living non-AIDS cases of HIV reported for the State.
 
 #### (III) Increased adjustment for certain States previously using code-based reporting
 
@@ -118,7 +118,7 @@
 
 #### (II) Applicability of exemption requirements
 
-&emsp;&emsp;&emsp;&emsp;The provisions of clauses (ii) through (vii) may not be construed as having anylegal effect for fiscal year 2013 or any subsequent fiscal year, and accordingly, the status of a State for purposes of such clauses may not be considered after fiscal year 2012.
+&emsp;&emsp;&emsp;&emsp;The provisions of clauses (ii) through (vii) may not be construed as having any legal effect for fiscal year 2013 or any subsequent fiscal year, and accordingly, the status of a State for purposes of such clauses may not be considered after fiscal year 2012.
 
 #### (ix) Program for detecting inaccurate or fraudulent counting
 
@@ -206,7 +206,7 @@
 
 #### (II) Pro rata reduction
 
-&emsp;&emsp;&emsp;&emsp;If the amounts referred to in subclause (I) for a fiscal year are insufficient to fully comply with clause (i) for the year, the Secretary, in order to provide the additional funds necessary for such compliance, shall reduce on a pro rata basis the amount of each grant pursuant to paragraph (1) for the fiscal year, other than grants for States for which increases under clause (i) apply and other than States described in paragraph (1)(A)(i)(I). A reduction under the preceding sentence may not be made in an amount that would result in the State involved becoming eligible for such an increase.
+&emsp;&emsp;&emsp;&emsp;If the amounts referred to in subclause (I) for a fiscal year are insufficient to fully comply with clause (i) for the year, the Secretary, in order to provide the additional funds necessary for such compliance, shall reduce on a pro rata basis the amount of each grant pursuant to paragraph (1) for the fiscal year, other than grants for States for which increases under clause (i) apply and other than States described in paragraph (1)(A)(i)(I). A reduction under the preceding sentence may not be made in an amountthat would result in the State involved becoming eligible for such an increase.
 
 #### (v) Applicability
 
@@ -250,7 +250,7 @@
 
 #### (i) Requirement
 
-&emsp;&emsp;&emsp;Each State that receives a grant under section 300ff–21 of this title shall provide for the establishment of a clinical quality management program to assess the extent to which HIV health services provided topatients under the grant are consistent with the most recent Public Health Service guidelines for the treatment of HIV/AIDS and related opportunistic infection, and as applicable, to develop strategies for ensuring that such services are consistent with the guidelines for improvement in the access to and quality of HIV health services.
+&emsp;&emsp;&emsp;Each State that receives a grant under section 300ff–21 of this title shall provide for the establishment of a clinical quality management program to assess the extent to which HIV health services provided to patients under the grant are consistent with the most recent Public Health Service guidelines for the treatment of HIV/AIDS and related opportunistic infection, and as applicable, to develop strategies for ensuring that such services are consistent with the guidelines for improvement in the access to and quality of HIV health services.
 
 #### (ii) Use of funds
 
@@ -374,7 +374,7 @@ Subsec. (a)(2)(D). Pub. L. 109–415, §203(a)(1)(B), amended subpar. (D) genera
 
 Subsec. (a)(2)(E). Pub. L. 109–415, §203(b)(3), added subpar (E).
 
-Pub. L. 109–415, §203(b)(2), struck out heading and text of subpar. (E). Text read as follows: “If under section 300ff–13(a)(3)(D)(i) of this title the Secretary determines that data on cases of HIV disease are not sufficiently accurate and reliable, then notwithstanding subparagraph (D) of this paragraph, for any fiscal year prior to fiscal year 2007 the references in such subparagraph to cases of HIV disease do not have any legal effect.”
+Pub. L. 109–415, §203(b)(2), struck out heading and text of subpar. (E). Text read as follows: “If under section 300ff–13(a)(3)(D)(i) of this title the Secretary determines that data on cases of HIV disease are not sufficientlyaccurate and reliable, then notwithstanding subparagraph (D) of this paragraph, for any fiscal year prior to fiscal year 2007 the references in such subparagraph to cases of HIV disease do not have any legal effect.”
 
 Subsec. (a)(2)(F). Pub. L. 109–415, §203(b)(4), redesignated subpar. (I) as (F).
 
@@ -496,7 +496,7 @@ Subsec. (c)(5) to (7). Pub. L. 104–146, §3(c)(5)(C), (D), added pars. (5) and
 
 #### Effective Date of 2009 Amendment; Revival of Section
 
-For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effective Sept. 30, 2009, that the provisions of this section as ineffect on Sept. 30, 2009, be revived, and that amendment by sections 3(b), 5(b), (c)(1), 7(b), and 10(b) of Pub. L. 111–87 be applicable to this section as so revived and effective as if enacted on Sept. 30, 2009, see section 2(a)(2), (3) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
+For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effective Sept. 30, 2009, that the provisions of this section as in effect on Sept. 30, 2009, be revived, and that amendment by sections 3(b), 5(b), (c)(1), 7(b), and 10(b) of Pub. L. 111–87 be applicable to this section as so revived and effective as if enacted on Sept. 30, 2009, see section 2(a)(2), (3) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
 
 #### Effective Date of 1996 Amendment
 

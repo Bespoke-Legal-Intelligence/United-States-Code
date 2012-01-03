@@ -92,11 +92,11 @@ Section 12(d) of the National Technology Transfer Advancement Act of 1995, refer
 
 #### Amendments
 
-2007—Subsec. (f)(4)(C). Pub. L. 110–53, §902(b), added subpar. (C).
+<b>2007</b>—Subsec. (f)(4)(C). Pub. L. 110–53, §902(b), added subpar. (C).
 
 Subsec. (f)(8) to (11). Pub. L. 110–53, §902(a), added par. (8) and redesignated former pars. (8) to (10) as (9) to (11), respectively.
 
-2004—Subsec. (f)(8) to (10). Pub. L. 108–458 added pars. (8) to (10).
+<b>2004</b>—Subsec. (f)(8) to (10). Pub. L. 108–458 added pars. (8) to (10).
 
 #### Required Coordination
 

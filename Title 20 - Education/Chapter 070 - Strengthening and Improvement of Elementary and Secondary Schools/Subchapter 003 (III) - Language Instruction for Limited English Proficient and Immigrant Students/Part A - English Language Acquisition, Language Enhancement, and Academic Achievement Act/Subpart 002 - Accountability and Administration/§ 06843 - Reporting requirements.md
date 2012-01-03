@@ -2,7 +2,7 @@
 
 #### (a) States
 
-Based upon the evaluations provided to a State educational agency under section 6841 of this title, each such agency that receives a grant under this part shall prepare and submit every second year to the Secretary a report on programs and activities carried out by the State educational agency under this part and the effectiveness of such programs and activities in improving the education provided to children who are limited English proficient.
+Based upon the evaluations provided to a State educational agency under section 6841 ofthis title, each such agency that receives a grant under this part shall prepare and submit every second year to the Secretary a report on programs and activities carried out by the State educational agency under this part and the effectiveness of such programs and activities in improving the education provided to children who are limited English proficient.
 
 #### (b) Secretary
 
@@ -24,7 +24,7 @@ Every second year, the Secretary shall prepare and submit to the Committee on Ed
 
 &emsp;(8) containing the number of limited English proficient children served by eligible entities receiving funding under this part who were transitioned out of language instruction educational programs funded under this part into classrooms where instruction is not tailored for limited English proficient children; and
 
-&emsp;(9) containing other information gathered from the evaluations from specially qualifiedagencies and other reports submitted to the Secretary under this subchapter when applicable.
+&emsp;(9) containing other information gathered from the evaluations from specially qualified agencies and other reports submitted to the Secretary under this subchapter when applicable.
 
 (Pub. L. 89–10, title III, §3123, as added Pub. L. 107–110, title III, §301, Jan. 8, 2002, 115 Stat. 1704.)
 
@@ -33,8 +33,4 @@ Every second year, the Secretary shall prepare and submit to the Committee on Ed
 A prior section 6843, Pub. L. 89–10, title III, §3133, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3646, related to State applications for technology education assistance, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 6763 of this title.
 
 A prior section 3123 of Pub. L. 89–10 was classified to section 6833 of this title, prior to the general amendment of this subchapter by Pub. L. 107–110.
-
-#### Change of Name
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

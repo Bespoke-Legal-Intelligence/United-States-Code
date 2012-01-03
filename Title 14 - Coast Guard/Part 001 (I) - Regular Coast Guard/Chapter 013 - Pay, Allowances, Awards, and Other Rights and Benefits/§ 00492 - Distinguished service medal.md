@@ -12,11 +12,11 @@ The language is parallel to that found in title 34, U.S.C., 1946 ed., §355, pro
 
 #### Ex. Ord. No. 12824. Establishing the Homeland Security Distinguished Service Medal
 
-Ex. Ord. No. 12824, Dec. 7, 1992, 57 F.R. 58121, as amended by Ex. Ord. No. 13286, §29, Feb. 28, 2003, 68 F.R. 10625, provided:
+Ex. Ord. No. 12824, Dec. 7, 1992, 57 F.R. 58121, as amended by Ex. Ord. No. 13286, §29, Feb. 28, 2003, 68 F.R. 10625; Ex. Ord. No. 13569, §1, Apr. 5, 2011, 76 F.R. 19891, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America and as Commander in Chief of the Armed Forces of the United States, it is ordered as follows:
 
-Section 1. There is hereby established a Homeland Security Distinguished Service Medal, with accompanying ribbons and appurtenances, for award by the Secretary of Homeland Security to a member of the Coast Guard who has provided exceptionally meritorious service in a duty of great responsibility while assigned in the Department of Homeland Security, or in other activities under the responsibility of the Secretary of Homeland Security, either national or international, as may be assigned by the Secretary.
+Section 1. There is hereby established a Homeland Security Distinguished Service Medal, with accompanying ribbons and appurtenances, for award by the Secretary of Homeland Security to any member of the Armed Forces of the United States who has provided exceptionally meritorious service in a duty of great responsibility while assigned in the Department of Homeland Security, or in other activities under the responsibility of the Secretary of Homeland Security, either national or international, as may be assigned by the Secretary.
 
 Sec. 2. The Homeland Security Distinguished Service Medal and appurtenances thereto shall be of appropriate design approved by the Secretary of Homeland Security and shall be awarded under such regulations as the Secretary shall prescribe. These regulations shall place the Homeland Security Distinguished Service Medal in an order of precedence immediately before the Coast Guard Distinguished Service Medal.
 

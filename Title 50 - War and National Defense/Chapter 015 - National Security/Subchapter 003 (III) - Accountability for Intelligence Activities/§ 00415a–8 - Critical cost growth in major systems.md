@@ -24,7 +24,7 @@ If the Director of National Intelligence determines under section 415a–7(d) of
 
 &emsp;(A) the continuation of the major system is essential to the national security;
 
-&emsp;(B) there are no alternatives to the major system that will provide acceptable capability to meet the intelligence requirement at less cost;
+&emsp;(B) there are no alternatives to the major system that will provide acceptable capabilityto meet the intelligence requirement at less cost;
 
 &emsp;(C) the new estimates of the total acquisition cost have been determined by the Director to be reasonable;
 

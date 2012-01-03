@@ -1,7 +1,5 @@
 Part A—Purpose; Definitions
 
-<i><sup>1</sup></i><i> So in original. Probably should be “paragraph (1)”.</i>
-
 
 ---
 

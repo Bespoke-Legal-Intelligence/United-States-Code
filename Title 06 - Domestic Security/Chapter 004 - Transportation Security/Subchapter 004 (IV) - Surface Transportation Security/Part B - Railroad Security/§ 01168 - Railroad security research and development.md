@@ -38,7 +38,7 @@ The research and development program may include projects—
 
 The Secretary—
 
-&emsp;(1) shall ensure that the research and development program is consistent with the National Strategy for Railroad Transportation Security developed under section 1161 of this title and any other transportation security research and development programs required by this Act;
+&emsp;(1) shall ensure that the research and development program is consistent with the National Strategy for Railroad TransportationSecurity developed under section 1161 of this title and any other transportation security research and development programs required by this Act;
 
 &emsp;(2) shall, to the extent practicable, coordinate the research and development activities of the Department with other ongoing research and development security-related initiatives, including research being conducted by—
 

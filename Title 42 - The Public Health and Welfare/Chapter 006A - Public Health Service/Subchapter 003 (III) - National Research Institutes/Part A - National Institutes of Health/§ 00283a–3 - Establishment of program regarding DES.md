@@ -10,7 +10,7 @@ In carrying out subsection (a), the Director of NIH, after consultation with non
 
 #### (c) Longitudinal studies
 
-After consultation with the Office of Research on Women's Health, the Director of NIH, acting through the appropriate national research institutes, shall in carrying out subsection (a) conduct or support one or more longitudinal studies to determine the incidence of the following diseases or disorders in the indicated populations and the relationship of DES to the diseases or disorders:
+After consultation with the Office of Research on Women's Health, the Director of NIH, acting through the appropriate national research institutes, shall in carrying out subsection (a) conduct or support one or more longitudinal studiesto determine the incidence of the following diseases or disorders in the indicated populations and the relationship of DES to the diseases or disorders:
 
 &emsp;(1) In the case of women to whom (on or after January 1, 1938) DES was administered while the women were pregnant, the incidence of all diseases and disorders (including breast cancer, gynecological cancers, and impairments of the immune system, including autoimmune disease).
 

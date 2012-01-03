@@ -72,5 +72,5 @@ In par. (13)(C), “section 70502(b) of title 46” substituted for “section 3
 
 #### Change of Name
 
-Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives and Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives and Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 

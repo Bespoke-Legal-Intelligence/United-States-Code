@@ -42,25 +42,25 @@
 
 #### Amendments
 
-2011—Subsec. (a). Pub. L. 111–350 substituted “section 6101(b) to (d) of title 41” for “section 5 of title 41”.
+<b>2011</b>—Subsec. (a). Pub. L. 111–350 substituted “section 6101(b) to (d) of title 41” for “section 5 of title 41”.
 
-2008—Subsec. (b). Pub. L. 110–417 designated existing provisions as par. (2) and added par. (1).
+<b>2008</b>—Subsec. (b). Pub. L. 110–417 designated existing provisions as par. (2) and added par. (1).
 
-1998—Subsec. (d)(3). Pub. L. 105–311 added par. (3).
+<b>1998</b>—Subsec. (d)(3). Pub. L. 105–311 added par. (3).
 
-1986—Subsec. (c)(1). Pub. L. 99–336 amended Pub. L. 98–353, §206, generally. See 1984 Amendment note below.
+<b>1986</b>—Subsec. (c)(1). Pub. L. 99–336 amended Pub. L. 98–353, §206, generally. See 1984 Amendment note below.
 
 Pub. L. 99–335 amended par. (1) generally, effective Jan. 1, 1987. Prior to such effective date, par. (1) read as follows: “The optional insurance on an employee stops on his separation from service, 12 months after discontinuance of his pay, or on his entry on active duty or active duty for training, as provided in sections 8706(a) and 8706(c) of this title. Justices and judges of the United States described in section 8701(a)(5)(ii) and (iii) of this chapter are deemed to continue in active employment for purposes of this chapter.”
 
-1984—Subsec. (c)(1). Pub. L. 98–353, §206, as amended generally by Pub. L. 99–336, inserted sentence which deemed justices and judges described in section 8701(a)(5)(ii) and (iii) of this chapter to continue in active employment for purposes of this chapter.
+<b>1984</b>—Subsec. (c)(1). Pub. L. 98–353, §206, as amended generally by Pub. L. 99–336, inserted sentence which deemed justices and judges described in section 8701(a)(5)(ii) and (iii) of this chapter to continue in active employment for purposes of this chapter.
 
 Subsec. (c)(3). Pub. L. 98–353, §206, added par. (3).
 
-1980—Subsec. (c)(2)(C). Pub. L. 96–427, §6(a), substituted provisions that the amount of optional life insurance shall be reduced by 2% at the end of each calendar month after the date the employee becomes 65 years of age and is retired or is receiving compensation for disease or injury and that the Office shall prescribe minimum amount of life insurance in force before the first reduction to which the insurance may be reduced for provisions that such optional insurance be subject to the same monthly reductions as required for regular life insurance under section 8706(b)(3) of this title.
+<b>1980</b>—Subsec. (c)(2)(C). Pub. L. 96–427, §6(a), substituted provisions that the amount of optional life insurance shall be reduced by 2% at the end of each calendar month after the date the employee becomes 65 years of age and is retired or is receiving compensation for disease or injury and that the Office shall prescribe minimum amount of life insurance in force before the first reduction to which the insurance may be reduced for provisions that such optional insurance be subject to the same monthly reductions as required for regular life insurance under section 8706(b)(3) of this title.
 
 Subsec. (d). Pub. L. 96–427, §6(b), designated existing provisions as par. (1) and added par. (2).
 
-1978—Subsecs. (a), (b). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission” wherever appearing.
+<b>1978</b>—Subsecs. (a), (b). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission” wherever appearing.
 
 Subsec. (c)(1). Pub. L. 95–583, §1(c)(1), substituted reference to section “8706(c)” for “8706(d)”.
 

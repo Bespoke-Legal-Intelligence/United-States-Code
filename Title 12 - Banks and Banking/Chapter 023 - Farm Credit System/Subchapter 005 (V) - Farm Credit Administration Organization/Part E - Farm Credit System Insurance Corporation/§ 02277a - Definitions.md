@@ -30,9 +30,9 @@ As used in this part:
 
 #### Amendments
 
-1996—Pars. (5), (6). Pub. L. 104–105 redesignated par. (6) as (5) and struck out heading and text of former par. (5). Text read as follows: “The term ‘receiver’ means a receiver or conservator appointed by the Farm Credit Administration for a System institution.”
+<b>1996</b>—Pars. (5), (6). Pub. L. 104–105 redesignated par. (6) as (5) and struck out heading and text of former par. (5). Text read as follows: “The term ‘receiver’ means a receiver or conservator appointed by the Farm Credit Administration for a System institution.”
 
-1988—Par. (3)(A), (B). Pub. L. 100–399, §302(a), amended subpars. (A) and (B) generally. Prior to amendment, subpars. (A) and (B) read as follows:
+<b>1988</b>—Par. (3)(A), (B). Pub. L. 100–399, §302(a), amended subpars. (A) and (B) generally. Prior to amendment, subpars. (A) and (B) read as follows:
 
 “(A) on or before January 6, 1988, on behalf of any System bank; and
 

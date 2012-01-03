@@ -100,7 +100,7 @@ In this section:
 
 #### (iii) Cost sharing
 
-&emsp;&emsp;&emsp;Subject to clause (iv), the Administrator shall require at least 50 percent of the costs directly and specifically related to any project under this section to be provided from non-Federal sources.
+&emsp;&emsp;&emsp;Subject to clause (iv), the Administrator shall require at least 50 percent of thecosts directly and specifically related to any project under this section to be provided from non-Federal sources.
 
 #### (iv) Necessary and appropriate reductions
 
@@ -146,7 +146,7 @@ Not later than 60 days after the date on which funds are initially awarded under
 
 #### References in Text
 
-The Clean Air Act, referred to in subsec. (b)(1)(A)(i), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended,which is classified generally to chapter 85 (§7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
+The Clean Air Act, referred to in subsec. (b)(1)(A)(i), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
 
 #### Codification
 

@@ -34,7 +34,7 @@ The Secretary shall analyze and make recommendations regarding the jurisdictiona
 
 #### (i) Grants
 
-The Secretary shall make grants to the Navajo, Hopi, Northern Cheyenne, and Crow tribes to assist such tribes in developing regulations and programs for regulating surface coal mining and reclamation operations on Indian lands. Grants made under this subsection shall be used to establish an office of surface mining regulation for each such tribe. Each such office shall—
+The Secretary shall make grants to the Navajo, Hopi, Northern Cheyenne, and Crow tribes to assist such tribes in developing regulations and programs for regulating surface coal mining and reclamation operations on Indian lands. Grants made under this subsection shall be usedto establish an office of surface mining regulation for each such tribe. Each such office shall—
 
 &emsp;(1) develop tribal regulations and program policies with respect to surface mining;
 
@@ -74,7 +74,7 @@ The Secretary shall make grants to the Navajo, Hopi, Northern Cheyenne, and Crow
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;After exhausting all tribal remedies with respect to a civil action arising under atribal program approved under section 1254(e) of this title, an interested party may file a petition for judicial review of the civil action in the United States circuit court for the circuit in which the surface coal mining operation named in the petition is located.
+&emsp;&emsp;&emsp;After exhausting all tribal remedies with respect to a civil action arising under a tribal program approved under section 1254(e) of this title, an interested party may file a petition for judicial review of the civil action in the United States circuit court for the circuit in which the surface coal mining operation named in the petition is located.
 
 #### (ii) Scope of review
 

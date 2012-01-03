@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Every person who is a manufacturer or importer of a device intended for human use shall establish and maintain such records, make such reports, and provide such information, as theSecretary may by regulation reasonably require to assure that such device is not adulterated or misbranded and to otherwise assure its safety and effectiveness. Regulations prescribed under the preceding sentence—
+Every person who is a manufacturer or importer of a device intended for human use shall establish and maintain such records, make such reports, and provide such information, as the Secretary may by regulation reasonably require to assure that such device is not adulterated or misbranded and to otherwise assure its safety and effectiveness. Regulations prescribed under the preceding sentence—
 
 &emsp;(1) shall require a device manufacturer or importer to report to the Secretary whenever the manufacturer or importer receives or otherwise becomes aware of information that reasonably suggests that one of its marketed devices—
 
@@ -18,7 +18,7 @@ Every person who is a manufacturer or importer of a device intended for human us
 
 &emsp;&emsp;&emsp;&emsp;(III) a type of device which the Secretary has, by notice published in the Federal Register or letter to the person who is the manufacturer or importer of the device, indicated should be subject to such part 803 in order to protect the public health;
 
-&emsp;&emsp;&emsp;(ii) shall, if the device is not subject to clause (i), be submitted in accordance with criteria established by the Secretary for reports made pursuant to this clause, which criteria shall require the reports to be in summary form and made on a quarterly basis; or
+&emsp;&emsp;&emsp;(ii) shall, if the device is not subject to clause (i), be submitted in accordance withcriteria established by the Secretary for reports made pursuant to this clause, which criteria shall require the reports to be in summary form and made on a quarterly basis; or
 
 &emsp;&emsp;&emsp;(iii) shall, if the device is imported into the United States and for which part 803 of title 21, Code of Federal Regulations (or successor regulations) requires an importer to submit a report to the manufacturer, be submitted by the importer to the manufacturer in accordance with part 803 of title 21, Code of Federal Regulations (or successor regulations) <sup>1</sup>
 
@@ -56,7 +56,7 @@ Every person who is a manufacturer or importer of a device intended for human us
 
 #### (b) User reports
 
-(1)(A) Whenever a device user facility receives or otherwise becomes aware of information that reasonably suggests that a device has or may have caused or contributed to the death of a patient of the facility, the facility shall, as soon as practicable but not later than 10 working days after becoming aware of the information, report the information to the Secretary and, if the identity of the manufacturer is known, to the manufacturer of the device. In the case ofdeaths, the Secretary may by regulation prescribe a shorter period for the reporting of such information.
+(1)(A) Whenever a device user facility receives or otherwise becomes aware of information that reasonably suggests that a device has or may have caused or contributed to the death of a patient of the facility, the facility shall, as soon as practicable but not later than 10 working days after becoming aware of the information, report the information to the Secretary and, if the identity of the manufacturer is known, to the manufacturer of the device. In the case of deaths, the Secretary may by regulation prescribe a shorter period for the reporting of such information.
 
 (B) Whenever a device user facility receives or otherwise becomes aware of—
 
@@ -240,7 +240,7 @@ Amendment by section 213(a), (c) of Pub. L. 105–115 effective 90 days after No
 
 #### Effective Date of 1992 Amendment
 
-Section 2(b) of Pub. L. 102–300 provided that: “The amendments made by subsection (a) \[amending sections 3(b)(3) and 3(c) of Pub. L. 101–629, set out as notes below\] shall take effect as of May 27, 1992 and any rule to implement section 519(e) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360i(e)\] proposed under section 3(c)(2) of the Safe Medical Devices Act of 1990 \[Pub. L. 101–629, set out as a note below\] shall revert to its proposed status as of such date.”
+Section 2(b) of Pub. L. 102–300 provided that: “The amendments made by subsection (a) \[amending sections 3(b)(3) and 3(c) of Pub. L. 101–629, set out as notes below\] shall take effect as of May 27, 1992 and any rule to implement section 519(e) of the Federal Food, Drug,and Cosmetic Act \[21 U.S.C. 360i(e)\] proposed under section 3(c)(2) of the Safe Medical Devices Act of 1990 \[Pub. L. 101–629, set out as a note below\] shall revert to its proposed status as of such date.”
 
 Section 5(b) of Pub. L. 102–300 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect—
 

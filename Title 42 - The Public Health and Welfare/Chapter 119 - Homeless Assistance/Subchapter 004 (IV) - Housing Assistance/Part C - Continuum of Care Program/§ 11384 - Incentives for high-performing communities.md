@@ -20,7 +20,7 @@
 
 #### (5) Time limit on designation
 
-&emsp;The designation of any collaborative applicant as a high-performing community underthis subsection shall be effective only for the year in which such designation is made. The Secretary, on an annual basis, may renew any such designation.
+&emsp;The designation of any collaborative applicant as a high-performing community under this subsection shall be effective only for the year in which such designation is made. The Secretary, on an annual basis, may renew any such designation.
 
 #### (b) Application
 
@@ -106,7 +106,7 @@ Another prior section 11384, Pub. L. 100–77, title IV, §424, July 22, 1987, 1
 
 #### Effective Date
 
-Section effective on the earlier of 18 months after May 20, 2009, or 3 months after publication of certainfinal regulations by Secretary of Housing and Urban Development, see section 1503 of Pub. L. 111–22, set out as an Effective Date of 2009 Amendment note under section 11302 of this title.
+Section effective on the earlier of 18 months after May 20, 2009, or 3 months after publication of certain final regulations by Secretary of Housing and Urban Development, see section 1503 of Pub. L. 111–22, set out as an Effective Date of 2009 Amendment note under section 11302 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

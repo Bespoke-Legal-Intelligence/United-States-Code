@@ -78,7 +78,7 @@ The amount of the credit determined under subsection (a) for any taxable year sh
 
 For purposes of this title—
 
-&emsp;(1) the provisions of section 936 (including any applicable election thereunder) shall apply in the same manner as if the credit under this section were a credit under section 936(a)(1)(A) for a domestic corporation to which section 936(a)(4)(A) applies,
+&emsp;(1) the provisions of section 936 (including any applicable election thereunder) shallapply in the same manner as if the credit under this section were a credit under section 936(a)(1)(A) for a domestic corporation to which section 936(a)(4)(A) applies,
 
 &emsp;(2) the credit under this section shall be treated in the same manner as the credit under section 936, and
 
@@ -110,7 +110,7 @@ Pub. L. 106–554, §1(a)(7) \[title III, §311(d)\], Dec. 21, 2000, 114 Stat. 2
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 36C of this title.
+Amendment by Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 23 of this title.
 
 #### Effective Date
 
@@ -126,11 +126,11 @@ Special rule for qualified possession source investment income.—The amendments
 
 “(3)
 
-Special transition rule for payment of estimated tax installment.—In determining the amount of any installment due under section 6655 of the Internal Revenue Code of 1986 after the date of the enactment of this Act \[Aug. 20, 1996\] and before October 1, 1996, only 1/2 of any increase in tax (for the taxable year for which such installment is made) by reason of the amendments made by subsections (a) and (b) \[enacting this section and amending sections 55, 56, 59, and 936 of this title\] shall be taken into account. Any reduction in such installment by reason of the preceding sentence shall be recaptured by increasing the next required installment for such year by the amount of such reduction.”
+Special transition rule for payment of estimated tax installment.—In determining the amount of any installment due under section 6655 of the Internal Revenue Code of 1986 after the date of the enactment of this Act \[Aug. 20, 1996\] and before October 1, 1996, only ½ of any increase in tax (for the taxable year for which such installment is made) by reason of the amendments made by subsections (a) and (b) \[enacting this section and amending sections 55, 56, 59, and 936 of this title\] shall be taken into account. Any reduction in such installment by reason of the preceding sentence shall be recaptured by increasing the next required installment for such year by the amount of such reduction.”
 
 #### American Samoa Economic Development Credit
 
-Pub. L. 109–432, div. A, title I, §119, Dec. 20, 2006, 120 Stat. 2942, as amended by Pub. L. 110–343, div. C, titleIII, §309(a), Oct. 3, 2008, 122 Stat. 3869; Pub. L. 111–312, title VII, §756(a), Dec. 17, 2010, 124 Stat. 3322, provided that:
+Pub. L. 109–432, div. A, title I, §119, Dec. 20, 2006, 120 Stat. 2942, as amended by Pub. L. 110–343, div. C, title III, §309(a), Oct. 3, 2008, 122 Stat. 3869; Pub. L. 111–312, title VII, §756(a), Dec. 17, 2010, 124 Stat. 3322, provided that:
 
 “(a)
 

@@ -48,7 +48,7 @@ The tax imposed by this subsection shall be paid by—
 
 &emsp;&emsp;(A) the death of the employee,
 
-&emsp;&emsp;(B) the retirement of the employee after the employee has attained 591/2 years of age,
+&emsp;&emsp;(B) the retirement of the employee after the employee has attained 59½ years of age,
 
 &emsp;&emsp;(C) the disability of the employee (within the meaning of section 72(m)(7)), or
 

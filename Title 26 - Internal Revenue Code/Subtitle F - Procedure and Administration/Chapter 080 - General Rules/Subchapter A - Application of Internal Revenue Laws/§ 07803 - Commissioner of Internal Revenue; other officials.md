@@ -36,7 +36,7 @@
 
 #### (3) Consultation with Board
 
-&emsp;The Commissioner shall consult with the Oversight Board on all matters set forth in paragraphs (2) and (3) (other than paragraph (3)(A)) of section 7802(d).
+&emsp;The Commissioner shall consult with the Oversight Board on all matters set forth inparagraphs (2) and (3) (other than paragraph (3)(A)) of section 7802(d).
 
 #### (b) Chief Counsel for the Internal Revenue Service
 
@@ -130,7 +130,7 @@
 
 #### (ii) Activities
 
-&emsp;&emsp;&emsp;Not later than December 31 of each calendar year, the National Taxpayer Advocate shall report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on the activities of the Office of the Taxpayer Advocate during the fiscal year ending during such calendar year. Any such report shall containfull and substantive analysis, in addition to statistical information, and shall—
+&emsp;&emsp;&emsp;Not later than December 31 of each calendar year, the National Taxpayer Advocate shall report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on the activities of the Office of the Taxpayer Advocate during the fiscal year ending during such calendar year. Any such report shall contain full and substantive analysis, in addition to statistical information, and shall—
 
 &emsp;&emsp;&emsp;&emsp;(I) identify the initiatives the Office of the Taxpayer Advocate has taken on improving taxpayer services and Internal Revenue Service responsiveness;
 

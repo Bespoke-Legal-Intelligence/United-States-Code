@@ -36,7 +36,7 @@ In carrying out the cooperative education exchange programs assisted under this 
 
 &emsp;&emsp;(D) independent research and evaluation assistance—
 
-&emsp;&emsp;&emsp;(i) to determine the effects of the cooperative education exchange programs on students’ development of the knowledge, skills, and traits of character essential for the preservation and improvement of constitutional democracy; and
+&emsp;&emsp;&emsp;(i) to determine the effects of the cooperative education exchange programs on students’ development of the knowledge,skills, and traits of character essential for the preservation and improvement of constitutional democracy; and
 
 &emsp;&emsp;&emsp;(ii) to identify effective participation in, and the preservation and improvement of, an efficient market economy;
 
@@ -60,7 +60,7 @@ In carrying out the cooperative education exchange programs assisted under this 
 
 #### (d) Participants
 
-The primary participants in the cooperative education exchange programs assisted underthis section shall be educational leaders in the areas of civics and government education, and economic education, including teachers, curriculum and teacher training specialists, scholars in relevant disciplines, and educational policymakers, and government and private sector leaders from the United States and eligible countries.
+The primary participants in the cooperative education exchange programs assisted under this section shall be educational leaders in the areas of civics and government education, and economic education, including teachers, curriculum and teacher training specialists, scholars in relevant disciplines, and educational policymakers, and government and private sector leaders from the United States and eligible countries.
 
 #### (e) Consultation
 

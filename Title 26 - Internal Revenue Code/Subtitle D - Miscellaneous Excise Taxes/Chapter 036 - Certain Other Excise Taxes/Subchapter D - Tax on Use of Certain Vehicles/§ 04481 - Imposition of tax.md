@@ -47,15 +47,17 @@ Any taxpayer who files a return under this section with respect to 25 or more ve
 
 #### (f) Period tax in effect
 
-The tax imposed by this section shall apply only to use before October 1, 2011.
+The tax imposed by this section shall apply only to use before October 1, 2012.
 
-(Added June 29, 1956, ch. 462, title II, §206(a), 70 Stat. 390; amended Pub. L. 87–61, title II, §203(a), (b)(1), (2)(A), (B), June 29, 1961, 75 Stat. 124; Pub. L. 91–605, title III, §303(a)(7), (8), Dec. 31, 1970, 84 Stat. 1744; Pub. L. 94–280, title III, §303(a)(7), (8), May 5, 1976, 90 Stat. 456; Pub. L. 95–599, title V, §502(a)(6), (7), Nov. 6, 1978, 92 Stat. 2756; Pub. L.97–424, title V, §§513(a), (d), 516(a)(4), Jan. 6, 1983, 96 Stat. 2177, 2179, 2182; Pub. L. 98–369, div. A, title VII, §734(f), title IX, §901(a), July 18, 1984, 98 Stat. 980, 1003; Pub. L. 100–17, title V, §§502(a)(5), 507(a), Apr. 2, 1987, 101 Stat. 256, 260; Pub. L. 101–508, title XI, §11211(c)(5), Nov. 5, 1990, 104 Stat. 1388–426; Pub. L. 102–240, title VIII, §8002(a)(5), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 104–188, title I, §1704(t)(57), Aug. 20, 1996, 110 Stat. 1890; Pub. L. 105–178, title IX, §9002(a)(1)(G), June 9, 1998, 112 Stat. 499; Pub. L. 108–357, title VIII, §867(a), (c), Oct. 22, 2004, 118 Stat. 1622; Pub. L. 109–14, §9(c)(1), May 31, 2005, 119 Stat. 336; Pub. L. 109–59, title XI, §11101(a)(2)(A), Aug. 10, 2005, 119 Stat. 1944.)
+(Added June 29, 1956, ch. 462, title II, §206(a), 70 Stat. 390; amended Pub. L. 87–61, title II, §203(a), (b)(1), (2)(A), (B), June 29, 1961, 75 Stat. 124; Pub. L. 91–605, title III, §303(a)(7), (8), Dec. 31, 1970, 84 Stat. 1744; Pub. L. 94–280, title III, §303(a)(7), (8), May 5, 1976, 90 Stat. 456; Pub. L. 95–599, title V, §502(a)(6), (7), Nov. 6, 1978, 92 Stat. 2756; Pub. L.97–424, title V, §§513(a), (d), 516(a)(4), Jan. 6, 1983, 96 Stat. 2177, 2179, 2182; Pub. L. 98–369, div. A, title VII, §734(f), title IX, §901(a), July 18, 1984, 98 Stat. 980, 1003; Pub. L. 100–17, title V, §§502(a)(5), 507(a), Apr. 2, 1987, 101 Stat. 256, 260; Pub. L. 101–508, title XI, §11211(c)(5), Nov. 5, 1990, 104 Stat. 1388–426; Pub. L. 102–240, title VIII, §8002(a)(5), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 104–188, title I, §1704(t)(57), Aug. 20, 1996, 110 Stat. 1890; Pub. L. 105–178, title IX, §9002(a)(1)(G), June 9, 1998, 112 Stat. 499; Pub. L. 108–357, title VIII, §867(a), (c), Oct. 22, 2004, 118 Stat. 1622; Pub. L. 109–14, §9(c)(1), May 31, 2005, 119 Stat. 336; Pub. L. 109–59, title XI, §11101(a)(2)(A), Aug. 10, 2005, 119 Stat. 1944; Pub. L. 112–30, title I, §142(b)(1), Sept. 16, 2011, 125 Stat. 356.)
 
 #### References in Text
 
 Section 6156, referred to in subsec. (d)(2), was repealed by Pub. L. 108–357, title VIII, §867(b)(1), Oct. 22, 2004, 118 Stat. 1622.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (f). Pub. L. 112–30 substituted “2012” for “2011”.
 
 <b>2005</b>—Subsec. (f). Pub. L. 109–59 substituted “2011” for “2006”.
 
@@ -119,6 +121,10 @@ Subsec. (c). Pub. L. 87–61, §203(b)(2)(B), substituted “any taxable period�
 Subsec. (d). Pub. L. 87–61, §203(b)(2)(B), made conforming changes to refer to payment of tax for a taxable period instead of payment for a year, and inserted cross reference to section 6156.
 
 Subsec. (e). Pub. L. 87–61, §203(b)(1), substituted “before October 1, 1972” for “after June 30, 1956, and before July 1, 1972”.
+
+#### Effective Date of 2011 Amendment
+
+Amendment by Pub. L. 112–30 effective Oct. 1, 2011, see section 142(f) of Pub. L. 112–30, set out as a note under section 460<i>l</i>–11 of Title 16, Conservation.
 
 #### Effective Date of 2005 Amendment
 

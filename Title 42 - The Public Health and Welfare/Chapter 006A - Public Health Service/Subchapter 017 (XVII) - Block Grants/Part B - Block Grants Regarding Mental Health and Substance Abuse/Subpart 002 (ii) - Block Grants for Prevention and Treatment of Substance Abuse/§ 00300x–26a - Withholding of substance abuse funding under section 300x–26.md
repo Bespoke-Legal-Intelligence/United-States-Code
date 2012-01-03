@@ -2,7 +2,7 @@
 
 #### (a) No withholding from States committing additional funds for tobacco sale compliance
 
-Except as provided by subsection (e) none of the funds appropriated for fiscal year 2010 or any subsequent fiscal year by this or any subsequent appropriations Act may be used to withhold substance abuse funding from a State pursuant to section 300x–26 of this title if such State certifies to the Secretary of Health and HumanServices by May 1 of the fiscal year for which the funds are appropriated, that the State will commit additional State funds, in accordance with subsection (b), to ensure compliance with State laws prohibiting the sale of tobacco products to individuals under 18 years of age.
+Except as provided by subsection (e) none of the funds appropriated for fiscal year 2010 or any subsequent fiscal year by this or any subsequent appropriations Act may be used to withhold substance abuse funding from a State pursuant to section 300x–26 of this title if such State certifies to the Secretary of Health and Human Services by May 1 of the fiscal year for which the funds are appropriated, that the State will commit additional State funds, in accordance with subsection (b), to ensure compliance with State laws prohibiting the sale of tobacco products to individuals under 18 years of age.
 
 #### (b) Amount to be committed
 

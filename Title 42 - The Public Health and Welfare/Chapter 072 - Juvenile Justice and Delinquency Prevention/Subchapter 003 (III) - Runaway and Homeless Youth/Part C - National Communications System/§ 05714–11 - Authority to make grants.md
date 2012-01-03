@@ -2,7 +2,7 @@
 
 The Secretary shall make grants for a national communication system to assist runaway and homeless youth in communicating with their families and with service providers. The Secretary shall give priority to grant applicants that have experience in providing telephone services to runaway and homeless youth.
 
-(Pub. L. 93–415, title III, §331, as added Pub. L. 102–586, §3(g)(1)(C), Nov. 4, 1992, 106 Stat. 5022; amended Pub. L. 106–71, §3(r)(1), Oct. 12, 1999, 113 Stat. 1043.)
+(Pub. L. 93–415, title III, §331, as added Pub. L. 102–586, §3(g)(1)(C), Nov. 4, 1992, 106 Stat. 5022;amended Pub. L. 106–71, §3(r)(1), Oct. 12, 1999, 113 Stat. 1043.)
 
 #### Amendments
 

@@ -24,7 +24,7 @@
 
 &emsp;A local educational agency is eligible for assistance under this subsection for a fiscal year if—
 
-&emsp;&emsp;(A) the local educational agency is eligible for assistance under subsection (a) of this section for the same fiscal year, or would have been eligible for such assistance if not for the reduction in military dependent students in schools of the local educational agency; and
+&emsp;&emsp;(A) the local educational agency is eligible for assistance under subsection (a) of thissection for the same fiscal year, or would have been eligible for such assistance if not for the reduction in military dependent students in schools of the local educational agency; and
 
 &emsp;&emsp;(B) the overall increase or reduction in military dependent students in schools of the local educational agency is the result of one or more of the following:
 
@@ -48,7 +48,7 @@
 
 #### (B) Per-student rate
 
-&emsp;&emsp;For purposes of subparagraph (A)(i), the per-student rate for a fiscal year shall beequal to the dollar amount obtained by dividing—
+&emsp;&emsp;For purposes of subparagraph (A)(i), the per-student rate for a fiscal year shall be equal to the dollar amount obtained by dividing—
 
 &emsp;&emsp;&emsp;(i) the total amount of funds made available for that fiscal year to provide assistance under this subsection; by
 
@@ -118,7 +118,7 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 #### Plan and Authority To Assist Local Educational Agencies Experiencing Growth in Enrollment Due to Force Structure Changes, Relocation of Military Units, or Base Closures and Realignments
 
-Pub. L. 109–364, div. A, title V, §574, Oct. 17, 2006, 120 Stat. 2226, as amended by Pub. L. 110–181, div. A, title V, §573, Jan. 28, 2008, 122 Stat. 120; Pub. L. 110–417, \[div. A\], title V, §553, Oct. 14, 2008, 122 Stat. 4469, provided that:
+Pub. L. 109–364, div. A, title V, §574, Oct. 17, 2006, 120 Stat. 2226, as amended by Pub. L. 110–181, div. A, title V, §573, Jan. 28, 2008, 122 Stat. 120; Pub. L. 110–417, \[div. A\], title V, §553, Oct. 14, 2008, 122 Stat. 4469; Pub. L. 112–81, div. A, title V, §573, Dec. 31, 2011, 125 Stat. 1427, provided that:
 
 “(a)
 
@@ -158,13 +158,21 @@ Transition of Military Dependents Among Local Educational Agencies.—(1) The Se
 
 &emsp;“(A) To share expertise and experience of the Activity with local educational agencies as military dependent students make the transitions described in paragraph (1), including transitions resulting from the closure or realignment of military installations under a base closure law, global rebasing, and force restructuring.
 
-&emsp;“(B) To provide programs for local educational agencies with military dependent students undergoing the transitions described in paragraph (1), including—
+&emsp;“(B) To provide grant assistance programs for local educational agencies with military dependent students undergoing the transitions described in paragraph (1), including programs on the following:
 
-&emsp;&emsp;“(i) distance learning programs; and
+&emsp;&emsp;“(i) Access to virtual and distance learning capabilities and related applications.
 
-&emsp;&emsp;“(ii) training programs to improve the ability of military dependent students who attend public schools in the United States and their teachers to meet the educational needs of such students.
+&emsp;&emsp;“(ii) Training for teachers.
 
-“(3) The authority provided by this subsection expires September 30, 2013.
+&emsp;&emsp;“(iii) Academic strategies to increase academic achievement.
+
+&emsp;&emsp;“(iv) Curriculum development.
+
+&emsp;&emsp;“(v) Support for practices that minimize the impact of transition and deployment.
+
+&emsp;&emsp;“(vi) Other appropriate services to improve the academic achievement of such students.
+
+“(3) The authority provided by this subsection expires September 30, 2016.
 
 “(e)
 

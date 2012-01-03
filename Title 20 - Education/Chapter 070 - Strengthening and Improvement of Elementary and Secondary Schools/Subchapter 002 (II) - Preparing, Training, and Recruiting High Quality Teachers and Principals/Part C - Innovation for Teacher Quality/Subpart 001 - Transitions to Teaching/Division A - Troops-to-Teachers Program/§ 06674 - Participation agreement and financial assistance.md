@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) within such time as the Secretary may require, to obtain certification or licensing as an elementary school teacher, secondary school teacher, or vocational or technical teacher, and to become a highly qualified teacher; and
 
-&emsp;&emsp;(B) to accept an offer of full-time employment as an elementary school teacher, secondary school teacher, or vocational or technical teacher for not less than 3 school years with a high-need local educational agency or public charter school, as such terms are defined in section 6601 <sup>1</sup> of this title, to beginthe school year after obtaining that certification or licensing.
+&emsp;&emsp;(B) to accept an offer of full-time employment as an elementary school teacher, secondary school teacher, or vocational or technical teacher for not less than 3 school years with a high-need local educational agency or public charter school, as such terms are defined in section 6601 <sup>1</sup> of this title, to begin the school year after obtaining that certification or licensing.
 
 #### (2) Waiver
 
@@ -60,7 +60,7 @@ A participant in the Program shall not be considered to be in violation of the p
 
 #### (B) Children with disabilities
 
-&emsp;&emsp;The school has a large percentage of students who qualify for assistance under part B of the Individuals with Disabilities Education Act \[20 U.S.C. 1411 et seq.\].
+&emsp;&emsp;The school has a large percentage of students who qualify for assistance under partB of the Individuals with Disabilities Education Act \[20 U.S.C. 1411 et seq.\].
 
 #### (e) Treatment of stipend and bonus
 
@@ -86,7 +86,7 @@ A stipend or bonus paid under this section to a participant in the Program shall
 
 #### (2) Amount of reimbursement
 
-&emsp;A participant required to reimburse the Secretary for a stipend or bonus paid to the participant under this section shall pay an amount that bears the same ratio to the amount of the stipend or bonus as the unserved portion of required service bears to the 3 years of required service. Any amount owedby the participant shall bear interest at the rate equal to the highest rate being paid by the United States on the day on which the reimbursement is determined to be due for securities having maturities of 90 days or less and shall accrue from the day on which the participant is first notified of the amount due.
+&emsp;A participant required to reimburse the Secretary for a stipend or bonus paid to the participant under this section shall pay an amount that bears the same ratio to the amount of the stipend or bonus as the unserved portion of required service bears to the 3 years of required service. Any amount owed by the participant shall bear interest at the rate equal to the highest rate being paid by the United States on the day on which the reimbursement is determined to be due for securities having maturities of 90 days or less and shall accrue from the day on which the participant is first notified of the amount due.
 
 #### (3) Treatment of obligation
 

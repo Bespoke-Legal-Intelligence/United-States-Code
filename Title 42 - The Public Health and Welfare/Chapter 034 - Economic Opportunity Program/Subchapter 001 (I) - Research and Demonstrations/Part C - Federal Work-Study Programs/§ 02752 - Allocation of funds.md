@@ -14,7 +14,7 @@
 
 &emsp;(i) $5,000;
 
-&emsp;(ii) an amount equal to (I) 90 percent of the amount received and used under this part in the second preceding fiscal year by eligible institutions offering comparable programs of instruction, divided by (II) the number of students enrolled at such comparable institutionsin such fiscal year, multiplied by (III) the number of students enrolled at the applicant institution in such fiscal year; or
+&emsp;(ii) an amount equal to (I) 90 percent of the amount received and used under this part in the second preceding fiscal year by eligible institutions offering comparable programs of instruction, divided by (II) the number of students enrolled at such comparable institutions in such fiscal year, multiplied by (III) the number of students enrolled at the applicant institution in such fiscal year; or
 
 &emsp;(iii) 90 percent of the institution's allocation under this part for the preceding fiscal year.
 
@@ -142,7 +142,7 @@ Subsec. (b)(2)(A)(i). Pub. L. 105–244, §442(b)(4), substituted “subsection 
 
 Subsec. (c). Pub. L. 105–244, §442(b)(2), redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
 
-Subsec. (c)(3). Pub. L. 105–244, §442(b)(5), struck out “the Secretary, for academic year 1988–1989 shall use the procedures employed for academic year 1986–1987, and, for any subsequent academic years,” after “professional students,” in introductory provisions.
+Subsec. (c)(3). Pub. L. 105–244, §442(b)(5), struck out “the Secretary, for academic year 1988–1989 shall usethe procedures employed for academic year 1986–1987, and, for any subsequent academic years,” after “professional students,” in introductory provisions.
 
 Subsec. (d). Pub. L. 105–244, §442(b)(2), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 
@@ -214,5 +214,5 @@ Amendment by Pub. L. 96–374 effective Oct. 1, 1980, see section 1393(a) of Pub
 
 Pub. L. 98–8, title I, §100, Mar. 24, 1983, 97 Stat. 27, provided that notwithstanding subsecs. (a), (b), (c), and (e) of this section and section 11 of Public Law 97–301, set out as a note below, the Secretary should allot the sums appropriated pursuant to section 2751(b) of this title for fiscal year 1983 among the States so that each State's allotment bore the same ratio to the total amount appropriated as that State's allotment in fiscal year 1981 bore to the total amount appropriated pursuant to that section for fiscal year 1981.
 
-Pub. L. 97–301, §11, Oct. 13, 1982, 96 Stat. 1403, which provided that notwithstanding subsecs. (a), (b), (c), and\(e) of this section, if in fiscal year 1983, fiscal year 1984, or fiscal year 1985 the sums appropriated pursuant to section 2751(b) of this title were less than the sums appropriated pursuant to such section for the fiscal year 1981, the Secretary should allot the sums appropriated pursuant to that section for such fiscal year among the States so that each State's allotment bore the same ratio to the total amount appropriated as that State's allotment in fiscal year 1981 bore to the total amount appropriated pursuant to that section for fiscal year 1981 was repealed by Pub. L. 99–498, title IV, §408(b), Oct. 17, 1986, 100 Stat. 1495, eff. with respect to any academic year beginning on or after July 1, 1988.
+Pub. L. 97–301, §11, Oct. 13, 1982, 96 Stat. 1403, which provided that notwithstanding subsecs. (a), (b), (c), and (e) of this section, if in fiscal year 1983, fiscal year 1984, or fiscal year 1985 the sums appropriated pursuant to section 2751(b) of this title were less than the sums appropriated pursuant to such section for the fiscal year 1981, the Secretary should allot the sums appropriated pursuant to that section for such fiscal year among the States so that each State's allotment bore the same ratio to the total amount appropriated as that State's allotment in fiscal year 1981 bore to the total amount appropriated pursuant to that section for fiscal year 1981 was repealed by Pub. L. 99–498, title IV, §408(b), Oct. 17, 1986, 100 Stat. 1495, eff. with respect to any academic year beginning on or after July 1, 1988.
 

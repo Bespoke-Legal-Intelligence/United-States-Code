@@ -2,13 +2,13 @@
 
 #### (a) Authority to accept services
 
-Subject to subsection (b) of this section and notwithstanding section 1342 of title 31, the Chief Operating Officer or the Director of a facility of the Retirement Home may accept from any person voluntary personal services or gratuitous services.
+Subject to subsection (b) of this section and notwithstanding section 1342 of title 31, the Chief Operating Officer or the Administrator of a facility of the Retirement Home may accept from any person voluntary personal services or gratuitous services.
 
 #### (b) Requirements and limitations
 
-(1) The Chief Operating Officer or the Director of a facility accepting the services shall notify the person offering the services of the scope of the services accepted.
+(1) The Chief Operating Officer or the Administrator of a facility accepting the services shallnotify the person offering the services of the scope of the services accepted.
 
-(2) The Chief Operating Officer or Director shall—
+(2) The Chief Operating Officer or Administrator shall—
 
 &emsp;(A) supervise the person providing the services to the same extent as that official would supervise a compensated employee providing similar services; and
 
@@ -22,7 +22,7 @@ Subject to subsection (b) of this section and notwithstanding section 1342 of ti
 
 #### (c) Authority to recruit and train persons providing services
 
-The Chief Operating Officer or the Director of a facility of the Retirement Home may recruit and train persons to provide services authorized to be accepted under subsection (a) of this section.
+The Chief Operating Officer or the Administrator of a facility of the Retirement Home may recruit and train persons to provide services authorized to be accepted under subsection (a) of this section.
 
 #### (d) Status of persons providing services
 
@@ -42,11 +42,13 @@ The Chief Operating Officer or the Director of a facility of the Retirement Home
 
 #### (e) Reimbursement of incidental expenses
 
-The Chief Operating Officer or the Director of a facility accepting services under subsection (a) of this section may provide for reimbursement of a person for incidental expenses incurred by the person in providing the services accepted under subsection (a) of this section. The Chief Operating Officer or Director shall determine which expenses qualify for reimbursement under this subsection.
+The Chief Operating Officer or the Administrator of a facility accepting services under subsection (a) of this section may provide for reimbursement of a person for incidental expenses incurred by the person in providing the services accepted under subsection (a) of this section. The Chief Operating Officer or Administrator shall determine which expenses qualify for reimbursement under this subsection.
 
-(Pub. L. 101–510, div. A, title XV, §1522, as added Pub. L. 104–201, div. A, title X, §1052(a), Sept. 23, 1996, 110 Stat. 2649; amended Pub. L. 107–107, div. A, title XIV, §1404(b)(4), Dec. 28, 2001, 115 Stat. 1260.)
+(Pub. L. 101–510, div. A, title XV, §1522, as added Pub. L. 104–201, div. A, title X, §1052(a), Sept. 23, 1996, 110 Stat. 2649; amended Pub. L. 107–107, div. A, title XIV, §1404(b)(4), Dec. 28, 2001, 115 Stat. 1260; Pub. L. 112–81, div. A, title V, §564(b)(1), Dec. 31, 2011, 125 Stat. 1424.)
 
 #### Amendments
+
+<b>2011</b>—Pub. L. 112–81 substituted “Administrator” for “Director” wherever appearing.
 
 <b>2001</b>—Subsec. (a). Pub. L. 107–107, §1404(b)(4)(A), substituted “Chief Operating Officer or the Director of a facility” for “Chairman of the Retirement Home Board or the Director of each establishment” and struck out “unless the acceptance of the voluntary services is disapproved by the Retirement Home Board” before period at end.
 

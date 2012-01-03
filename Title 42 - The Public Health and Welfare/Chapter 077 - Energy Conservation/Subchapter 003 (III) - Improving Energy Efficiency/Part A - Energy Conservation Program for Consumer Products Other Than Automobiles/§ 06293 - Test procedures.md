@@ -46,7 +46,7 @@ Amendment.—At least once every 7 years, the Secretary shall review test proced
 
 (B) The Secretary may review and revise the test procedures established under subparagraph (A).
 
-(C) For purposes of section 6317(a) of this title, the test procedures established under subparagraph (A) shall be considered to be the testing requirements prescribed by the Secretary under section 6317(a)(1) of this title for distribution transformers for which the Secretary makes a determination that energy conservation standards would—
+(C) For purposes of section 6317(a) of this title, the test procedures established under subparagraph (A) shall be considered to be the testingrequirements prescribed by the Secretary under section 6317(a)(1) of this title for distribution transformers for which the Secretary makes a determination that energy conservation standards would—
 
 &emsp;(i) be technologically feasible and economically justified; and
 
@@ -66,7 +66,7 @@ Amendment.—At least once every 7 years, the Secretary shall review test proced
 
 (15) The test procedure for refrigerated bottled or canned beverage vending machines shall be based on American National Standards Institute/American Society of Heating, Refrigerating and Air-Conditioning Engineers Standard 32.1–2004, entitled “Methods of Testing for Rating Vending Machines for Bottled, Canned or Other Sealed Beverages”.
 
-(16)(A)(i) Test procedures for ceiling fans shall be based on the “Energy Star Testing FacilityGuidance Manual: Building a Testing Facility and Performing the Solid State Test Method for ENERGY STAR Qualified Ceiling Fans, Version 1.1” published by the Environmental Protection Agency.
+(16)(A)(i) Test procedures for ceiling fans shall be based on the “Energy Star Testing Facility Guidance Manual: Building a Testing Facility and Performing the Solid State Test Method for ENERGY STAR Qualified Ceiling Fans, Version 1.1” published by the Environmental Protection Agency.
 
 (ii) Test procedures for ceiling fan light kits shall be based on the test procedures referenced in the Energy Star specifications for Residential Light Fixtures and Compact Fluorescent Light Bulbs, as in effect on August 8, 2005.
 
@@ -108,7 +108,7 @@ Metal halide lamp ballasts.—Test procedures for metal halide lamp ballasts sha
 
 #### (e) Amendment of standard
 
-(1) In the case of any amended test procedure which is prescribed pursuant to this section, the Secretary shall determine, in the rulemaking carried out with respect to prescribing such procedure, to what extent, if any, the proposed test procedure would alter the measured energy efficiency, measured energy use, or measured water use of any covered product as determined under the existing test procedure.
+(1) In the case of any amended test procedure which is prescribed pursuant to this section, theSecretary shall determine, in the rulemaking carried out with respect to prescribing such procedure, to what extent, if any, the proposed test procedure would alter the measured energy efficiency, measured energy use, or measured water use of any covered product as determined under the existing test procedure.
 
 (2) If the Secretary determines that the amended test procedure will alter the measured efficiency or measured use, the Secretary shall amend the applicable energy conservation standard during the rulemaking carried out with respect to such test procedure. In determining the amended energy conservation standard, the Secretary shall measure, pursuant to the amended test procedure, the energy efficiency, energy use, or water use of a representative sample of covered products that minimally comply with the existing standard. The average of such energy efficiency, energy use, or water use levels determined under the amended test procedure shall constitute the amended energy conservation standard for the applicable covered products.
 
@@ -122,7 +122,7 @@ Metal halide lamp ballasts.—Test procedures for metal halide lamp ballasts sha
 
 (2) To the maximum extent practicable, the testing requirements prescribed under paragraph (1) shall be based on existing test procedures used in industry.
 
-(Pub. L. 94–163, title III, §323, Dec. 22, 1975, 89 Stat. 919; Pub. L. 95–619, title IV, §§421, 425(a), title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3257,3265, 3288; Pub. L. 100–12, §4, Mar. 17, 1987, 101 Stat. 105; Pub. L. 100–357, §2(c), June 28, 1988, 102 Stat. 672; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 102–486, title I, §123(d), Oct. 24, 1992, 106 Stat. 2821; Pub. L. 109–58, title I, §135(b), Aug. 8, 2005, 119 Stat. 627; Pub. L. 110–140, title III, §§301(b), 302(a), 324(c), Dec. 19, 2007, 121 Stat. 1550, 1551, 1593.)
+(Pub. L. 94–163, title III, §323, Dec. 22, 1975, 89 Stat. 919; Pub. L. 95–619, title IV, §§421, 425(a), title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3257, 3265, 3288; Pub. L. 100–12, §4, Mar. 17, 1987, 101 Stat. 105; Pub. L. 100–357, §2(c), June 28, 1988, 102 Stat. 672; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 102–486, title I, §123(d), Oct. 24, 1992, 106 Stat. 2821; Pub. L. 109–58, title I, §135(b), Aug. 8, 2005, 119 Stat. 627; Pub. L. 110–140, title III, §§301(b), 302(a), 324(c), Dec. 19, 2007, 121 Stat. 1550, 1551, 1593.)
 
 #### Amendments
 

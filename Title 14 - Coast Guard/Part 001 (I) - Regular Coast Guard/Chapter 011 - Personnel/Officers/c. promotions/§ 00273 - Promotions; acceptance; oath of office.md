@@ -8,5 +8,5 @@
 
 #### Amendments
 
-1976—Subsec. (b). Pub. L. 94–546 substituted reference to section 3331 of title 5 for reference to section 16 of title 5.
+<b>1976</b>—Subsec. (b). Pub. L. 94–546 substituted reference to section 3331 of title 5 for reference to section 16 of title 5.
 

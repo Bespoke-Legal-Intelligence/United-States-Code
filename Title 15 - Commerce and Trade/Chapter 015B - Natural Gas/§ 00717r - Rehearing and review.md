@@ -2,7 +2,7 @@
 
 #### (a) Application for rehearing; time
 
-Any person, State, municipality, or State commission aggrieved by an order issued by theCommission in a proceeding under this chapter to which such person, State, municipality, or State commission is a party may apply for a rehearing within thirty days after the issuance of such order. The application for rehearing shall set forth specifically the ground or grounds upon which such application is based. Upon such application the Commission shall have power to grant or deny rehearing or to abrogate or modify its order without further hearing. Unless the Commission acts upon the application for rehearing within thirty days after it is filed, such application may be deemed to have been denied. No proceeding to review any order of the Commission shall be brought by any person unless such person shall have made application to the Commission for a rehearing thereon. Until the record in a proceeding shall have been filed in a court of appeals, as provided in subsection (b) of this section, the Commission may at any time, upon reasonable notice and in such manner as it shall deem proper, modify or set aside, in whole or in part, any finding or order made or issued by it under the provisions of this chapter.
+Any person, State, municipality, or State commission aggrieved by an order issued by the Commission in a proceeding under this chapter to which such person, State, municipality, or State commission is a party may apply for a rehearing within thirty days after the issuance of such order. The application for rehearing shall set forth specifically the ground or grounds upon which such application is based. Upon such application the Commission shall have power to grant or deny rehearing or to abrogate or modify its order without further hearing. Unless the Commission acts upon the application for rehearing within thirty days after it is filed, such application may be deemed to have been denied. No proceeding to review any order of the Commission shall be brought by any person unless such person shall have made application to the Commission for a rehearing thereon. Until the record in a proceeding shall have been filed in a court of appeals, as provided in subsection (b) of this section, the Commission may at any time, upon reasonable notice and in such manner as it shall deem proper, modify or set aside, in whole or in part, any finding or order made or issued by it under the provisions of this chapter.
 
 #### (b) Review of Commission order
 
@@ -16,7 +16,7 @@ The filing of an application for rehearing under subsection (a) of this section 
 
 #### (1) In general
 
-&emsp;The United States Court of Appeals for the circuit in which a facility subject to section 717b of this title or section 717f of this title is proposed to be constructed, expanded, or operated shall have original and exclusive jurisdiction over any civil action for the review of an order or action of a Federal agency (other than the Commission) or State administrative agency acting pursuant to Federal law to issue, condition, or deny any permit, license, concurrence, or approval (hereinafter collectively referred to as “permit”) required under Federal law, other than the Coastal Zone Management Act of 1972 (16 U.S.C. 1451 et seq.).
+&emsp;The United States Court of Appeals for the circuit in which a facility subject to section 717b of this title or section 717f of this title is proposed to be constructed, expanded, or operated shall have original and exclusive jurisdiction over any civil action for the review of an order or action of a Federal agency (other than the Commission) or State administrative agency acting pursuant to Federal law toissue, condition, or deny any permit, license, concurrence, or approval (hereinafter collectively referred to as “permit”) required under Federal law, other than the Coastal Zone Management Act of 1972 (16 U.S.C. 1451 et seq.).
 
 #### (2) Agency delay
 
@@ -28,7 +28,7 @@ The filing of an application for rehearing under subsection (a) of this section 
 
 #### (4) Commission action
 
-&emsp;For any action described in this subsection, the Commission shall file with the Court theconsolidated record of such order or action to which the appeal hereunder relates.
+&emsp;For any action described in this subsection, the Commission shall file with the Court the consolidated record of such order or action to which the appeal hereunder relates.
 
 #### (5) Expedited review
 

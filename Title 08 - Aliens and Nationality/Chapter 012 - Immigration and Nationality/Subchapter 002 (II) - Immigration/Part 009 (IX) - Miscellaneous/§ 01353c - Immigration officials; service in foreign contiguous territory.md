@@ -16,7 +16,7 @@ Section was formerly classified to section 68 of Title 5 prior to the general re
 
 #### Amendments
 
-1954—Act Sept. 3, 1954, amended section generally, substituting “section 1914 of title 18” for reference to the proviso in the Act of March 3, 1917 (5 U.S.C. 66), and substituting “Immigration and Naturalization Service—Salaries and Expenses” for “Expenses of regulating immigration”.
+<b>1954</b>—Act Sept. 3, 1954, amended section generally, substituting “section 1914 of title 18” for reference to the proviso in the Act of March 3, 1917 (5 U.S.C. 66), and substituting “Immigration and Naturalization Service—Salaries and Expenses” for “Expenses of regulating immigration”.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

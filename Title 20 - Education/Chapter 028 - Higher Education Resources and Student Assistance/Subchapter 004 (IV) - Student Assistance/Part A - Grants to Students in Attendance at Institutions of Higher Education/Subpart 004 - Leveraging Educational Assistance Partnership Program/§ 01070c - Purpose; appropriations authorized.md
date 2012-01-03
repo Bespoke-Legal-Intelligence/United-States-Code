@@ -30,7 +30,7 @@ It is the purpose of this subpart to make incentive grants available to States t
 
 #### Prior Provisions
 
-A prior section 1070c, Pub. L. 89–329, title IV, §415A, as added Pub. L. 92–318, title I §131(b)(1), June 23, 1972,86 Stat. 255; amended Pub. L. 94–482, title I, §123(a), (c)(1), Oct. 12, 1976, 90 Stat. 2094; Pub. L. 95–43, §1(b)(3), June 15, 1977, 91 Stat. 218; Pub. L. 96–49, §5(a)(4), Aug. 13, 1979, 93 Stat. 352; Pub. L. 96–374, title IV, §404(a), Oct. 3, 1980, 94 Stat. 1406, related to purpose and authorization of appropriations for grants to States for State student incentives, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1070c, Pub. L. 89–329, title IV, §415A, as added Pub. L. 92–318, title I §131(b)(1), June 23, 1972, 86 Stat. 255; amended Pub. L. 94–482, title I, §123(a), (c)(1), Oct. 12, 1976, 90 Stat. 2094; Pub. L. 95–43, §1(b)(3), June 15, 1977, 91 Stat. 218; Pub. L. 96–49, §5(a)(4), Aug. 13, 1979, 93 Stat. 352; Pub. L. 96–374, title IV, §404(a), Oct. 3, 1980, 94 Stat. 1406, related to purpose and authorization of appropriations for grants to States for State student incentives, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 

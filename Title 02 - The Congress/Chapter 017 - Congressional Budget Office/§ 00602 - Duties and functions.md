@@ -56,7 +56,7 @@ The Director may equip the Office with up-to-date computer capability (upon appr
 
 &emsp;&emsp;(iii) if, and to the extent that the Director determines that accurate estimates are reasonably feasible, include estimates of—
 
-&emsp;&emsp;&emsp;(I) the future direct cost of the Federal mandate to the extent that such costs significantly differ from or extend beyond the 5-year period after the mandate is first effective; and
+&emsp;&emsp;&emsp;(I) the future direct cost of the Federal mandate to the extent that such costs significantly differ from or extend beyond the5-year period after the mandate is first effective; and
 
 &emsp;&emsp;&emsp;(II) any disproportionate budgetary effects of Federal mandates upon particular industries or sectors of the economy, States, regions, and urban or rural or other types of communities, as appropriate.
 
@@ -72,7 +72,7 @@ The Director may equip the Office with up-to-date computer capability (upon appr
 
 #### Amendments
 
-1997—Subsec. (a). Pub. L. 105–33, §10103(a), inserted “primary” before “duty” in first sentence.
+<b>1997</b>—Subsec. (a). Pub. L. 105–33, §10103(a), inserted “primary” before “duty” in first sentence.
 
 Subsec. (e). Pub. L. 105–33, §10103(b), redesignated subsec. (f) as (e) and struck out heading and text of former subsec. (e). Text of par. (1) of subsec. (e) read as follows: “The duties, functions, and personnel of the Joint Committee on Reduction of Federal Expenditures are transferred to the Office, and the Joint Committee is abolished.” Par. (2) of subsec. (e) repealed section 571 of former Title 31, Money and Finance.
 
@@ -80,15 +80,15 @@ Subsec. (e)(1)(C). Pub. L. 105–33, §10103(c), added subpar. (C).
 
 Subsecs. (f) to (h). Pub. L. 105–33, §10103(b), redesignated subsecs. (g) and (h) as (f) and (g), respectively.
 
-1996—Subsec. (g). Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
+<b>1996</b>—Subsec. (g). Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
 
-1995—Subsec. (c)(2), (3). Pub. L. 104–4, §102(1)(A), added par. (2) and redesignated former par. (2) as (3).
+<b>1995</b>—Subsec. (c)(2), (3). Pub. L. 104–4, §102(1)(A), added par. (2) and redesignated former par. (2) as (3).
 
 Subsec. (h). Pub. L. 104–4, §102(1)(B), amended heading and text of subsec. (h) generally. Prior to amendment, text read as follows: “The Director shall conduct continuing studies to enhance comparisons of budget outlays, credit authority, and tax expenditures.”
 
-1990—Subsecs. (a)(1), (f)(1). Pub. L. 101–508 substituted “new budget authority” for “budget authority” in subsec. (a)(1) and second sentence of subsec. (f)(1).
+<b>1990</b>—Subsecs. (a)(1), (f)(1). Pub. L. 101–508 substituted “new budget authority” for “budget authority” in subsec. (a)(1) and second sentence of subsec. (f)(1).
 
-1985—Subsec. (f)(1). Pub. L. 99–177, §221(a), substituted “February 15” for “April 1”.
+<b>1985</b>—Subsec. (f)(1). Pub. L. 99–177, §221(a), substituted “February 15” for “April 1”.
 
 Subsec. (f)(3). Pub. L. 99–177, §221(b), added par. (3).
 
@@ -104,7 +104,7 @@ Amendment by Pub. L. 104–4 effective Jan. 1, 1996, or on the date 90 days afte
 
 #### Effective Date of 1985 Amendment
 
-Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, set out as an Effective and Termination Dates note under section 900 of this title.
+Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of this title prior to repeal by Pub. L. 112–25, title I, §104(a), Aug. 2, 2011, 125 Stat. 246.
 
 #### Effective Date
 

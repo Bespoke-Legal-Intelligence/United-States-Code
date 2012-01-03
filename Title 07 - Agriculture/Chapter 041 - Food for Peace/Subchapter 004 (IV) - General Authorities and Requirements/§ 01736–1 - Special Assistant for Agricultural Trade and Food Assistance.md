@@ -52,9 +52,9 @@ Another section 1113(d) of Pub. L. 99–198 amended section 5312 of Title 5, Gov
 
 #### Amendments
 
-1990—Subsec. (c)(9)(B), (C). Pub. L. 101–624 redesignated subpar. (C) as (B) and struck out former subpar. (B) which required that report contain identification of at least 15 target countries most likely to emerge as growth markets for commodities in next 5 to 10 years.
+<b>1990</b>—Subsec. (c)(9)(B), (C). Pub. L. 101–624 redesignated subpar. (C) as (B) and struck out former subpar. (B) which required that report contain identification of at least 15 target countries most likely to emerge as growth markets for commodities in next 5 to 10 years.
 
-1986—Pub. L. 99–260, §4(a)(1)(A), substituted “Food Assistance” for “Food Aid” in section catchline.
+<b>1986</b>—Pub. L. 99–260, §4(a)(1)(A), substituted “Food Assistance” for “Food Aid” in section catchline.
 
 Subsec. (a). Pub. L. 99–260, §4(a)(1)(B), (b), substituted “Food Assistance” for “Food Aid” and inserted provision that the President appoint the initial Special Assistant not later than May 1, 1986.
 

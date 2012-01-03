@@ -58,7 +58,7 @@ Definitions.—For purposes of this subsection—
 
 &emsp;&emsp;(F) the term “serious violent felony” means—
 
-&emsp;&emsp;&emsp;(i) a Federal or State offense, by whatever designation and wherever committed, consisting of murder (as described in section 1111); manslaughter other than involuntary manslaughter (as described in section 1112); assault with intent to commit murder (as described in section 113(a)); assault with intent to commit rape; aggravated sexual abuse and sexual abuse (as described in sections 2241 and 2242); abusive sexual contact (as described in sections 2244(a)(1) and (a)(2)); kidnapping; aircraft piracy (as described in section 46502 of Title 49); robbery (as described in section 2111, 2113, or 2118); carjacking (as described in section 2119); extortion; arson; firearms use; firearms possession (as described in section 924(c)); or attempt, conspiracy, or solicitation to commit any of the above offenses; and
+&emsp;&emsp;&emsp;(i) a Federal or State offense, by whatever designation and wherever committed, consisting of murder (as described in section 1111); manslaughter other than involuntary manslaughter (as described in section 1112); assault with intent to commit murder (as described in section 113(a)); assault with intent to commit rape; aggravated sexual abuse and sexual abuse (as described in sections 2241 and 2242); abusive sexual contact (as described in sections 2244(a)(1) and (a)(2)); kidnapping; aircraft piracy (as described in section 46502 ofTitle 49); robbery (as described in section 2111, 2113, or 2118); carjacking (as described in section 2119); extortion; arson; firearms use; firearms possession (as described in section 924(c)); or attempt, conspiracy, or solicitation to commit any of the above offenses; and
 
 &emsp;&emsp;&emsp;(ii) any other offense punishable by a maximum term of imprisonment of 10 years or more that has as an element the use, attempted use, or threatened use of physical force against the person of another or that, by its nature, involves a substantial risk that physical force against the person of another may be used in the course of committing the offense;
 
@@ -100,7 +100,7 @@ Rule of construction.—This subsection shall not be construed to preclude impos
 
 &emsp;(6)
 
-Special provision for indian country.—No person subject to the criminal jurisdiction of an Indian tribal government shall be subject to this subsection for any offense for which Federal jurisdiction is solely predicated on Indian country (as defined in section 1151) and which occurs within the boundaries of such Indian country unless the governing body of the tribe has elected that this subsectionhave effect over land and persons subject to the criminal jurisdiction of the tribe.
+Special provision for indian country.—No person subject to the criminal jurisdiction of an Indian tribal government shall be subject to this subsection for any offense for which Federal jurisdiction is solely predicated on Indian country (as defined in section 1151) and which occurs within the boundaries of such Indian country unless the governing body of the tribe has elected that this subsection have effect over land and persons subject to the criminal jurisdiction of the tribe.
 
 &emsp;(7)
 
@@ -170,7 +170,7 @@ Mandatory Minimum Terms of Imprisonment for Violent Crimes Against Children.—A
 
 &emsp;(3) if the crime of violence results in serious bodily injury (as defined in section 1365), or if a dangerous weapon was used during and in relation to the crime of violence, be imprisoned for life or for any term of years not less than 10.
 
-(g)(1) If a defendant who is convicted of a felony offense (other than offense of which an element is the false registration of a domain name) knowingly falsely registered a domain name and knowingly used that domain name in the courseof that offense, the maximum imprisonment otherwise provided by law for that offense shall be doubled or increased by 7 years, whichever is less.
+(g)(1) If a defendant who is convicted of a felony offense (other than offense of which an element is the false registration of a domain name) knowingly falsely registered a domain name and knowingly used that domain name in the course of that offense, the maximum imprisonment otherwise provided by law for that offense shall be doubled or increased by 7 years, whichever is less.
 
 (2) As used in this section—
 

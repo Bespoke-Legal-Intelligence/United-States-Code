@@ -30,29 +30,17 @@
 
 (g)(1) In this subsection, “registration-required obligation” means an obligation except an obligation—
 
-&emsp;(A) not of a type offered to the public;
+&emsp;(A) not of a type offered to the public; or
 
-&emsp;(B) having a maturity (at issue) of not more than one year; or
+&emsp;(B) having a maturity (at issue) of not more than one year.
 
-&emsp;(C) described in paragraph (2) of this subsection.
+(2) Every registration-required obligation of the Government shall be in registered form. A book entry obligation is deemed to be in registered form if the right to principal and stated interest on the obligation may be transferred only through a book entry consistent with regulations of the Secretary.
 
-(2) An obligation is not a registration-required obligation if—
-
-&emsp;(A) there are arrangements reasonably designed to ensure that the obligation will be sold (or resold in connection with the original issue) only to a person that is not a United States person; and
-
-&emsp;(B) for an obligation not in registered form—
-
-&emsp;&emsp;(i) interest on the obligation is payable only outside the United States and its territories and possessions; and
-
-&emsp;&emsp;(ii) a statement is on the face of the obligation that a United States person holding the obligation is subject to limitations under the United States income tax laws.
-
-(3) Every registration-required obligation of the Government shall be in registered form. A book entry obligation is deemed to be in registered form if the right to principal and stated interest on the obligation may be transferred only through a book entry consistent with regulations of the Secretary.
-
-(4) The Secretary shall prescribe regulations necessary to carry out this subsection when there is a nominee.
+(3) The Secretary shall prescribe regulations necessary to carry out this subsection when there is a nominee.
 
 (h)(1) The Secretary shall prescribe by regulation standards for the safeguarding and use of obligations issued under this chapter, and obligations otherwise issued or guaranteed as to principal or interest by the United States. Such regulations shall apply only to a depository institution that is not a government securities broker or a government securities dealer and that holds such obligations as fiduciary, custodian, or otherwise for the account of a customer and not for its own account. Such regulations shall provide for the adequate segregation of obligations so held, including obligations which are purchased or sold subject to resale or repurchase.
 
-(2) Violation of a regulation prescribed under paragraph (1) shall constitute adequate basis for the issuance of an order under section 5239(a) or (b) of the Revised Statutes (12 U.S.C. 93(a) or (b)), section 8(b) or 8(c) of the Federal Deposit Insurance Act, section 5(d)(2) or 5(d)(3) <sup>1</sup> of theHome Owners’ Loan Act of 1933, section 407(e) or 407(f) <sup>1</sup> of the National Housing Act, or section 206(e) or 206(f) of the Federal Credit Union Act. Such an order may be issued with respect to a depository institution by its appropriate regulatory agency and with respect to a federally insured credit union by the National Credit Union Administration Board.
+(2) Violation of a regulation prescribed under paragraph (1) shall constitute adequate basis for the issuance of an order under section 5239(a) or (b) of the Revised Statutes (12 U.S.C. 93(a) or (b)), section 8(b) or 8(c) of the Federal Deposit Insurance Act, section 5(d)(2) or 5(d)(3) <sup>1</sup> of the Home Owners’ Loan Act of 1933, section 407(e) or 407(f) <sup>1</sup> of the National Housing Act, or section 206(e) or 206(f) of the Federal Credit Union Act. Such an order may be issued with respect to a depository institution by its appropriate regulatory agency and with respect to a federally insured credit union by the National Credit Union Administration Board.
 
 (3) Nothing in this subsection shall be construed to affect in any way the powers of such agencies under any other provision of law.
 
@@ -69,14 +57,6 @@
 &emsp;(D) “appropriate regulatory agency” has the meaning prescribed in section 3(a)(34)(G) of the Securities Exchange Act of 1934.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 944; Pub. L. 97–452, §1(9), Jan. 12, 1983, 96 Stat. 2468; Pub. L. 99–571, title II, §201(a), Oct. 28, 1986, 100 Stat. 3222; Pub. L. 111–147, title V, §502(d), Mar. 18, 2010, 124 Stat. 108.)
-
-#### Amendment of Subsection (g)
-
-<i>Pub. L. 111–147, title V, §502(d), (f), Mar. 18, 2010, 124 Stat. 108, provided that, applicable to obligations issued after the date which is 2 years after Mar. 18, 2010, subsection (g) of this section is amended as follows:</i>
-
-<i>(1) in paragraph (1), by adding “or” at the end of subparagraph (A), by striking “; or” at the end of subparagraph (B) and inserting a period, and by striking subparagraph (C); and</i>
-
-<i>(2) by striking paragraph (2) and by redesignating paragraphs (3) and (4) as paragraphs (2) and (3), respectively.</i>
 
 Historical and Revision Notes<br>1982
 
@@ -209,6 +189,18 @@ The International Banking Act of 1978, referred to in subsec. (h)(5)(A), is Pub.
 Section 3(a)(43), (44), (34)(G), of the Securities Exchange Act of 1934, referred to in subsec. (h)(5)(B) to (D), is classified to section 78c(a)(43), (44), (34)(G) of Title 15, Commerce and Trade.
 
 #### Amendments
+
+<b>2010</b>—Subsec. (g)(1). Pub. L. 111–147, §502(d)(2), inserted “or” at end of subpar. (A), substituted period for “; or” in subpar. (B), and struck out subpar. (C) which read as follows: “described in paragraph (2) of this subsection.”
+
+Subsec. (g)(2) to (4). Pub. L. 111–147, §502(d)(1), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: “An obligation is not a registration-required obligation if—
+
+&emsp;“(A) there are arrangements reasonably designed to ensure that the obligation will be sold (or resold inconnection with the original issue) only to a person that is not a United States person; and
+
+&emsp;“(B) for an obligation not in registered form—
+
+&emsp;&emsp;“(i) interest on the obligation is payable only outside the United States and its territories and possessions; and
+
+&emsp;&emsp;“(ii) a statement is on the face of the obligation that a United States person holding the obligation is subject to limitations under the United States income tax laws.”
 
 <b>1986</b>—Subsec. (h). Pub. L. 99–571 added subsec. (h).
 

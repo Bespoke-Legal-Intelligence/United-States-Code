@@ -156,7 +156,7 @@
 
 &emsp;&emsp;(A) At least 30 percent of the residents residing in the area have incomes which are less than the national poverty level.
 
-&emsp;&emsp;(B) The unemployment rate for the area is 11/2 times greater than the national average (as determined by the Bureau of Labor Statistics’ most recent figures).
+&emsp;&emsp;(B) The unemployment rate for the area is 1½ times greater than the national average (as determined by the Bureau of Labor Statistics’ most recent figures).
 
 &emsp;&emsp;(C) Such additional eligibility requirements as the Board may, in its discretion, deem necessary to carry out the provisions of this subtitle.
 
@@ -262,7 +262,7 @@ No community development financial institution may receive a community enterpris
 
 #### (iv) Leverage
 
-&emsp;&emsp;&emsp;The leverage ratio between the dollar amount of the activities that form thebasis for the institution's application and the amount of the assessment credit calculated in accordance with this section for such activities.
+&emsp;&emsp;&emsp;The leverage ratio between the dollar amount of the activities that form the basis for the institution's application and the amount of the assessment credit calculated in accordance with this section for such activities.
 
 #### (v) Size
 
@@ -334,7 +334,7 @@ Section is comprised of section 233 of Pub. L. 102–242. Subsec. (c) of section
 
 #### Amendments
 
-1994—Subsec. (a)(2). Pub. L. 103–325, §114(c)(1)(A), substituted “may apply for” for “shall be eligible” in introductory provisions.
+<b>1994</b>—Subsec. (a)(2). Pub. L. 103–325, §114(c)(1)(A), substituted “may apply for” for “shall be eligible” in introductory provisions.
 
 Subsec. (a)(2)(A). Pub. L. 103–325, §114(c)(1)(B), substituted “assistance” for “financial assistance”.
 
@@ -358,7 +358,7 @@ Subsec. (j). Pub. L. 103–325, §114(c)(6)(A), redesignated subsec. (g) as (j).
 
 Subsec. (j)(4), (5). Pub. L. 103–325, §114(a)(8), added pars. (4) and (5).
 
-1992—Subsec. (a)(1)(A). Pub. L. 102–558, §303(b)(9)(A), substituted “section 1817(b)(7)” for “section 1817(d)(4)”. Pub. L. 102–550, §1605(a)(7)(A), which contained an identical amendment, was repealed, effective Oct. 28, 1992, by Pub. L. 102–558, §305, set out as a Repeal of Duplicative Provisions note under section 1815 of this title.
+<b>1992</b>—Subsec. (a)(1)(A). Pub. L. 102–558, §303(b)(9)(A), substituted “section 1817(b)(7)” for “section 1817(d)(4)”. Pub. L. 102–550, §1605(a)(7)(A), which contained an identical amendment, was repealed, effective Oct. 28, 1992, by Pub. L. 102–558, §305, set out as a Repeal of Duplicative Provisions note under section 1815 of this title.
 
 Subsec. (a)(2). Pub. L. 102–550, §931(c), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “An insured depository institution shall be eligible for any community enterprise assessment credit for any semiannual period for—
 

@@ -4,7 +4,7 @@
 
 A program for which a grant is made under section 3797s(1) of this title shall comply with the following requirements:
 
-&emsp;(1) The program shall ensure that all providers of substance abuse treatment are approvedby the State or Indian Tribe and are licensed, if necessary, to provide medical and other health services.
+&emsp;(1) The program shall ensure that all providers of substance abuse treatment are approved by the State or Indian Tribe and are licensed, if necessary, to provide medical and other health services.
 
 &emsp;(2) The program shall ensure appropriate coordination and consultation with the Single State Authority for Substance Abuse of the State (as that term is defined in section 17521(e) of this title).
 

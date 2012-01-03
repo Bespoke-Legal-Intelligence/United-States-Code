@@ -10,7 +10,7 @@ In addition, the Secretary shall study a proper physical hydraulic model of the 
 
 #### (c) Agency coordination; findings and recommendations
 
-The Secretary shall coordinate fully with the Administrator of the Environmental Protection Agency in carrying out the study described in this section and shall report any findings and recommendations to Congress. The Secretary and the Administrator shall also consider the views of other appropriate Federal, State, and local agencies, academic institutions, and members of the public who are concerned about water quality in the New York Bight.
+The Secretary shall coordinate fully with the Administrator of the Environmental ProtectionAgency in carrying out the study described in this section and shall report any findings and recommendations to Congress. The Secretary and the Administrator shall also consider the views of other appropriate Federal, State, and local agencies, academic institutions, and members of the public who are concerned about water quality in the New York Bight.
 
 #### (d) Authorization of appropriations
 

@@ -30,13 +30,13 @@ Any depository institution lacking Federal deposit insurance shall, within the U
 
 #### (1) Periodic statements; account records
 
-&emsp;Include conspicuously in all periodic statements of account, on each signature card, and on each passbook, certificate of deposit, or share certificate.<sup>1</sup> a notice that the institution is not federally insured, and that if the institution fails, the Federal Government does not guarantee that depositors will get back their money.
+&emsp;Include conspicuously in all periodic statements of account, on each signature card, and on each passbook, certificate of deposit, or share certificate.<sup>1</sup> a notice that the institutionis not federally insured, and that if the institution fails, the Federal Government does not guarantee that depositors will get back their money.
 
 #### (2) Advertising; premises
 
 #### (A) In general
 
-&emsp;&emsp;Include clearly and conspicuously in all advertising, except as provided in subparagraph (B); and at each station or window where deposits are normally received, its principal place of business and all its branches where it accepts deposits or opens accounts (excluding automated teller machines or point of sale terminals), and on itsmain Internet page, a notice that the institution is not federally insured.
+&emsp;&emsp;Include clearly and conspicuously in all advertising, except as provided in subparagraph (B); and at each station or window where deposits are normally received, its principal place of business and all its branches where it accepts deposits or opens accounts (excluding automated teller machines or point of sale terminals), and on its main Internet page, a notice that the institution is not federally insured.
 
 #### (B) Exceptions
 
@@ -104,11 +104,11 @@ Any depository institution lacking Federal deposit insurance shall, within the U
 
 #### (c) Manner and content of disclosure
 
-To ensure that current and prospective customers understand the risks involved in foregoing Federal deposit insurance, the Federal Trade Commission, by regulation or order, shall prescribe the manner and content of disclosure required under this section, which shall be presented in such format and in such type size and manner as to be simple and easy to understand.
+To ensure that current and prospective customers understand the risks involved in foregoing Federal deposit insurance, the Bureau, by regulation or order, shall prescribe the manner and content of disclosure required under this section, which shall be presented in such format and in such type size and manner as to be simple and easy to understand.
 
 #### (d) Exceptions for institutions not receiving retail deposits
 
-The Federal Trade Commission may, by regulation or order, make exceptions to subsection (b) of this section for any depository institution that, within the United States, does not receive initial deposits of less than an amount equal to the standard maximum deposit insurance amount from individuals who are citizens or residents of the United States, other than money received in connection with any draft or similar instrument issued to transmit money.
+The Bureau may, by regulation or order, make exceptions to subsection (b) of this section for any depository institution that, within the United States, does not receive initial depositsof less than an amount equal to the standard maximum deposit insurance amount from individuals who are citizens or residents of the United States, other than money received in connection with any draft or similar instrument issued to transmit money.
 
 #### (e) Definitions
 
@@ -124,7 +124,7 @@ For purposes of this section:
 
 &emsp;&emsp;(A) any entity described in section 461(b)(1)(A)(iv) of this title; and
 
-&emsp;&emsp;(B) any entity that, as determined by the Federal Trade Commission—
+&emsp;&emsp;(B) any entity that, as determined by the Bureau—
 
 &emsp;&emsp;&emsp;(i) is engaged in the business of receiving deposits; and
 
@@ -142,11 +142,15 @@ For purposes of this section:
 
 &emsp;The term “private deposit insurer” means any entity insuring the deposits of any depository institution lacking Federal deposit insurance.
 
+#### (5) Bureau
+
+&emsp;The term “Bureau” means the Bureau of Consumer Financial Protection.
+
 #### (f) Enforcement
 
-#### (1) Limited FTC enforcement authority
+#### (1) Limited enforcement authority
 
-&emsp;Compliance with the requirements of subsections (b), (c) and (e), and any regulation prescribed or order issued under any such subsection, shall be enforced under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\] by the Federal Trade Commission.
+&emsp;Compliance with the requirements of subsections (b), (c), and (e), and any regulation prescribed or order issued under such subsection, shall be enforced under the Consumer Financial Protection Act of 2010, by the Bureau, subject to subtitle B of the Consumer Financial Protection Act of 2010 \[12 U.S.C. 5511 et seq.\], and under the Federal Trade Commission Act (15 U.S.C. 41 et seq.) by the Federal Trade Commission.
 
 #### (2) Broad State enforcement authority
 
@@ -160,21 +164,31 @@ For purposes of this section:
 
 #### (C) Limitation on State action while Federal action pending
 
-&emsp;&emsp;If the Federal Trade Commission has instituted an enforcement action for a violation of this section, no appropriate State supervisor may, during the pendency of such action, bring an action under this section against any defendant named in the complaint of the Commission for any violation of this section that is alleged in that complaint.
+&emsp;&emsp;If the Bureau or Federal Trade Commission has instituted an enforcement action for a violation of this section, no appropriate State supervisory agency may, during the pendency of such action, bring an action under this section against any defendant named in the complaint of the Bureau or Federal Trade Commission for any violation of this section that is alleged in that complaint.
 
-(Sept. 21, 1950, ch. 967, §2\[43\], formerly §2\[40\], as added Pub. L. 102–242, title I, §151(a)(1), Dec. 19, 1991, 105 Stat. 2282; renumbered §2\[43\], Pub. L. 102–550, title XVI §1602(b), Oct. 28, 1992, 106 Stat. 4078; amended Pub. L. 103–325, title III, §340(a), Sept. 23, 1994, 108 Stat. 2237; Pub. L. 109–173, §2(c)(3), Feb. 15, 2006, 119 Stat. 3602; Pub. L. 109–351, title V, §505, Oct. 13, 2006, 120 Stat. 1975.)
+(Sept. 21, 1950, ch. 967, §2\[43\], formerly §2\[40\], as added Pub. L. 102–242, title I, §151(a)(1), Dec. 19, 1991, 105 Stat. 2282; renumbered §2\[43\], Pub. L. 102–550, title XVI §1602(b), Oct. 28, 1992, 106 Stat. 4078; amended Pub. L. 103–325, title III, §340(a), Sept. 23, 1994, 108 Stat. 2237; Pub. L. 109–173, §2(c)(3), Feb. 15, 2006, 119 Stat. 3602; Pub. L. 109–351, title V, §505, Oct. 13, 2006, 120 Stat. 1975; Pub. L. 111–203, title X, §1090(2), July 21, 2010, 124 Stat. 2094.)
 
 #### References in Text
 
-The Federal Trade Commission Act, referred to in subsec. (f)(1), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
+The Consumer Financial Protection Act of 2010, referred to in subsec. (f)(1), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, which enacted subchapter V (§5481 et seq.) of chapter 53 of this title and enacted, amended, and repealed numerous other sections and notes in the Code. Subtitle B of the Act is classified generally to part B (§5511 et seq.) of subchapter V of chapter 53 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+
+The Federal Trade Commission Act, referred to in subsec. (f)(1), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
 
 #### Amendments
 
-2006—Subsec. (a)(3). Pub. L. 109–351, §505(a), added par. (3).
+<b>2010</b>—Subsecs. (c), (d), (e)(2)(B). Pub. L. 111–203, §1090(2)(A)–(C)(i), substituted “Bureau” for “Federal Trade Commission”.
+
+Subsec. (e)(5). Pub. L. 111–203, §1090(2)(C)(ii), added par. (5).
+
+Subsec. (f)(1). Pub. L. 111–203, §1090(2)(D)(i), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “Compliance with the requirements of subsections (b), (c) and (e), and any regulation prescribed or order issued under any such subsection, shall be enforced under the Federal Trade Commission Act by the Federal Trade Commission.”
+
+Subsec. (f)(2)(C). Pub. L. 111–203, §1090(2)(D)(ii), added subpar. (C) and struck out former subpar. (C). Prior to amendment, text read as follows: “If the Federal Trade Commission has instituted an enforcement action for a violation of this section, no appropriate State supervisor may, during the pendency of such action, bring an action under this section against any defendant named in the complaint of the Commission for any violation of this section that is alleged in that complaint.”
+
+<b>2006</b>—Subsec. (a)(3). Pub. L. 109–351, §505(a), added par. (3).
 
 Subsec. (b)(1). Pub. L. 109–351, §505(b), substituted “or share certificate.” for “or similar instrument evidencing a deposit”.
 
-Subsec. (b)(2). Pub. L. 109–351, §505(c), amended heading and text generally. Prior to amendment, text read as follows: “Include conspicuously in all advertising and at each place where deposits are normally received a notice that the institution is not federally insured.”
+Subsec. (b)(2). Pub. L. 109–351, §505(c), amended heading and text generally. Prior to amendment, text readas follows: “Include conspicuously in all advertising and at each place where deposits are normally received a notice that the institution is not federally insured.”
 
 Subsec. (b)(3). Pub. L. 109–351, §505(d), amended par. (3) generally. Prior to amendment, par. (3) related to acknowledgement of disclosure and consisted of subpars. (A) to (C).
 
@@ -190,7 +204,11 @@ Pub. L. 109–351, §505(f)(2), redesignated subsec. (g) as (f). Former subsec. 
 
 Subsec. (g). Pub. L. 109–351, §505(f)(2), redesignated subsec. (g) as (f).
 
-1994—Subsec. (b)(3). Pub. L. 103–325 amended heading and text of subsec. (b)(3) generally. Prior to amendment, text read as follows: “Receive deposits only for the account of persons who have signed a written acknowledgment that the institution is not federally insured, and that if the institution fails, the Federal Government does not guarantee that they will get back their money.”
+<b>1994</b>—Subsec. (b)(3). Pub. L. 103–325 amended heading and text of subsec. (b)(3) generally. Prior to amendment, text read as follows: “Receive deposits only for the account of persons who have signed a written acknowledgment that the institution is not federally insured, and that if the institution fails, the Federal Government does not guarantee that they will get back their money.”
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2006 Amendment
 

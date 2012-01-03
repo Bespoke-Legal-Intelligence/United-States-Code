@@ -1,6 +1,6 @@
 ### §703. Allotments: members of Coast Guard
 
-Members of the Coast Guard may, under regulations prescribed by the Secretary of Homeland Security, make allotments from their pay and allowances.
+Members of the Coast Guard may, under regulations prescribed by the Secretary of HomelandSecurity, make allotments from their pay and allowances.
 
 (Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 484; Pub. L. 90–623, §3(1), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314.)
 

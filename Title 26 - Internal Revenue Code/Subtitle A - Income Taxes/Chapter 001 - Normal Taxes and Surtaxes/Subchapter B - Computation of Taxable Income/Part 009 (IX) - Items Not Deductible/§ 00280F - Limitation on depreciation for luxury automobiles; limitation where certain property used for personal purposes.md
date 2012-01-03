@@ -118,7 +118,7 @@ For purposes of this section—
 
 #### (2) Subsequent depreciation deductions reduced for deductions allocable to personal use
 
-&emsp;Solely for purposes of determining the amount of the depreciation deduction for subsequent taxable years, if less than 100 percent of the use of any listed property during any taxable year is use in a trade or business (including the holding for the production of income), all of the use of such property during such taxable year shall be treated as use so described.
+&emsp;Solely for purposes of determining the amount of the depreciation deduction for subsequent taxable years, if less than 100 percent of the use of any listed property during anytaxable year is use in a trade or business (including the holding for the production of income), all of the use of such property during such taxable year shall be treated as use so described.
 
 #### (3) Deductions of employee
 
@@ -218,7 +218,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any passenger automobile placed in service after 1988, subsection (a) shall be applied by increasing each dollar amount contained in such subsection by the automobile price inflation adjustment for the calendar year in which such automobile is placed in service. Any increase under the preceding sentence shall be rounded to the nearest multiple of $100 (or if the increase is a multiple of $50, such increase shall be increased to the next higher multiple of $100).
+&emsp;&emsp;In the case of any passenger automobile placed in service after 1988, subsection (a)shall be applied by increasing each dollar amount contained in such subsection by the automobile price inflation adjustment for the calendar year in which such automobile is placed in service. Any increase under the preceding sentence shall be rounded to the nearest multiple of $100 (or if the increase is a multiple of $50, such increase shall be increased to the next higher multiple of $100).
 
 #### (B) Automobile price inflation adjustment
 
@@ -386,7 +386,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Amendment by section 201(d)(4) of Pub. L. 99–514 applicable to property placed in service after Dec. 31, 1986, in taxable years ending after such date, with exceptions, see sections 203 and 204 of Pub. L. 99–514, set out as a note under section 168 of this title.
 
-Amendment by section 201(d)(4) of Pub. L. 99–514 not applicable to any property placed in service before Jan. 1, 1994, if such property placed in service as part of specified rehabilitations, and not applicable to certain additional rehabilitations, see section 251(d)(2), (3) of Pub. L. 99–514, set out as a note under section 46 of this title.
+Amendment by section 201(d)(4) of Pub. L. 99–514 not applicable to any property placed in service before Jan.1, 1994, if such property placed in service as part of specified rehabilitations, and not applicable to certain additional rehabilitations, see section 251(d)(2), (3) of Pub. L. 99–514, set out as a note under section 46 of this title.
 
 Amendment by section 1812(e)(1)(A), (C), (2)–(5) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
@@ -443,6 +443,8 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 #### Inflation Adjusted Items for Certain Calendar Years
 
 Provisions relating to inflation adjustment of items in this section for certain calendar years were contained in the following:
+
+<b>2011</b>—Revenue Procedure 2011–21.
 
 <b>2010</b>—Revenue Procedure 2010–18.
 

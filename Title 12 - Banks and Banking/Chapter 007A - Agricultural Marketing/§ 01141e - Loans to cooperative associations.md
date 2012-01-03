@@ -24,9 +24,9 @@ Section was formerly classified to section 527 of Title 7, Agriculture.
 
 #### Amendments
 
-1935—Subsecs. (a)(2), (c)(1). Act June 3, 1935, amended subsecs. (a)(2) and (c)(1).
+<b>1935</b>—Subsecs. (a)(2), (c)(1). Act June 3, 1935, amended subsecs. (a)(2) and (c)(1).
 
-1933—Act June 16, 1933, repealed provisions authorizing loans to form clearing house associations; for education of producers in advantages of cooperative marketing; and to enable cooperatives to advance a greater share of the market price of commodities than was practicable under other credit facilities.
+<b>1933</b>—Act June 16, 1933, repealed provisions authorizing loans to form clearing house associations; for education of producers in advantages of cooperative marketing; and to enable cooperatives to advance a greater share of the market price of commodities than was practicable under other credit facilities.
 
 #### Change of Name
 

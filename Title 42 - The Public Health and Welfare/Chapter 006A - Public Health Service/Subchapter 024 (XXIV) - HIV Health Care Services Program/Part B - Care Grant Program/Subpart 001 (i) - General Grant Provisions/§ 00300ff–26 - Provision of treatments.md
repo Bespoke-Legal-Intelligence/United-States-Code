@@ -46,7 +46,7 @@ For purposes of subsection (c)(1), the Secretary shall develop and maintain a li
 
 #### (2) Limitation
 
-&emsp;The authority established in paragraph (1) applies only to the extent that, for the fiscal year involved, the costs of the health insurance or plans to be purchased or maintained under such paragraph do not exceed the costsof otherwise providing therapeutics described in subsection (a) of this section.
+&emsp;The authority established in paragraph (1) applies only to the extent that, for the fiscal year involved, the costs of the health insurance or plans to be purchased or maintained under such paragraph do not exceed the costs of otherwise providing therapeutics described in subsection (a) of this section.
 
 #### (g) Drug rebate program
 
@@ -98,7 +98,7 @@ Subsec. (d). Pub. L. 104–146, §3(c)(3)(C), added subsec. (d).
 
 #### Effective Date of 2009 Amendment; Revival of Section
 
-For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effective Sept. 30, 2009, and that the provisions of this section as in effect on Sept. 30, 2009, be revived, see section 2(a)(2), (3)(A) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
+For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effectiveSept. 30, 2009, and that the provisions of this section as in effect on Sept. 30, 2009, be revived, see section 2(a)(2), (3)(A) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
 
 #### Effective Date of 1996 Amendment
 

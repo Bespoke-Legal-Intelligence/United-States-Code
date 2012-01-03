@@ -16,23 +16,23 @@ Upon application by an aggrieved applicant, the appropriate United States distri
 
 In the case of any successful action under subsection (a), (b), or (c) of this section, the costs of the action, together with a reasonable attorney's fee as determined by the court, shall be added to any damages awarded by the court under such subsection.
 
-#### (e) Good faith compliance with rule, regulation, or interpretation of Board or interpretation or approval by an official or employee of Federal Reserve System duly authorized by Board
+#### (e) Good faith compliance with rule, regulation, or interpretation of Bureau or interpretation or approval by an official or employee of Bureau of Consumer Financial Protection duly authorized by Bureau
 
-No provision of this subchapter imposing liability shall apply to any act done or omitted in good faith in conformity with any official rule, regulation, or interpretation thereof by the Board or in conformity with any interpretation or approval by an official or employee of the Federal Reserve System duly authorized by the Board to issue such interpretations or approvals under such procedures as the Board may prescribe therefor, notwithstanding that after such act or omission has occurred, such rule, regulation, interpretation, or approval is amended, rescinded, or determined by judicial or other authority to be invalid for any reason.
+No provision of this subchapter imposing liability shall apply to any act done or omitted in good faith in conformity with any official rule, regulation, or interpretation thereof by the Bureau or in conformity with any interpretation or approval by an official or employee of the Bureau of Consumer Financial Protection duly authorized by the Bureau to issue such interpretations or approvals under such procedures as the Bureau may prescribe therefor, notwithstanding that after such act or omission has occurred, such rule, regulation, interpretation, or approval is amended, rescinded, or determined by judicial or other authority to be invalid for any reason.
 
 #### (f) Jurisdiction of courts; time for maintenance of action; exceptions
 
-Any action under this section may be brought in the appropriate United States district court without regard to the amount in controversy, or in any other court of competent jurisdiction. No such action shall be brought later than two years from the date of the occurrence of the violation, except that—
+Any action under this section may be brought in the appropriate United States district court without regard to the amount in controversy, or in any other court of competent jurisdiction. No such action shall be brought later than 5 years after the date of the occurrence of the violation, except that—
 
-&emsp;(1) whenever any agency having responsibility for administrative enforcement under section 1691c of this title commences an enforcement proceeding within two years from the date of the occurrence of the violation,
+&emsp;(1) whenever any agency having responsibility for administrative enforcement under section 1691c of this title commences an enforcement proceeding within 5 years after the date of the occurrence of the violation,
 
-&emsp;(2) whenever the Attorney General commences a civil action under this section within two years from the date of the occurrence of the violation,
+&emsp;(2) whenever the Attorney General commences a civil action under this section within 5 years after the date of the occurrence of the violation,
 
 > then any applicant who has been a victim of the discrimination which is the subject of such proceeding or civil action may bring an action under this section not later than one year after the commencement of that proceeding or action.
 
 #### (g) Request by responsible enforcement agency to Attorney General for civil action
 
-The agencies having responsibility for administrative enforcement under section 1691c of this title, if unable to obtain compliance with section 1691 of this title, are authorized to refer the matter to the Attorney General with a recommendation that an appropriate civil action be instituted. Each agency referred to in paragraphs (1), (2), and (3) of section 1691c(a) of this title shall refer the matter to the Attorney General whenever the agency has reason to believe that 1 or more creditors has engaged in a pattern or practice of discouraging or denying applications for credit in violation of section 1691(a) of this title. Each such agency may refer the matter to the Attorney General whenever the agency has reason to believe that 1 or more creditors has violated section 1691(a) of this title.
+The agencies having responsibility for administrative enforcement under section 1691c of this title, if unable to obtain compliance with section 1691 of this title, are authorized to refer the matter to the Attorney General with a recommendation that an appropriate civil action be instituted. Each agency referred to in paragraphs (1), (2), and (9) of section 1691c(a) of this title shall refer the matter to the Attorney General whenever the agency has reason to believe that 1 or more creditors has engaged in a pattern or practice of discouraging or denying applications for credit in violation of section 1691(a) of this title. Each such agency may refer the matter to the Attorney General whenever the agency has reason to believe that 1 or more creditors has violated section 1691(a) of this title.
 
 #### (h) Authority for Attorney General to bring civil action; jurisdiction
 
@@ -48,7 +48,7 @@ Nothing in this subchapter shall be construed to prohibit the discovery of a cre
 
 #### (k) Notice to HUD of violations
 
-Whenever an agency referred to in paragraph (1), (2), or (3) of section 1691c(a) of this title—
+Whenever an agency referred to in paragraph (1), (2), or (3) <sup>1</sup> of section 1691c(a) of this title—
 
 &emsp;(1) has reason to believe, as a result of receiving a consumer complaint, conducting a consumer compliance examination, or otherwise, that a violation of this subchapter has occurred;
 
@@ -60,35 +60,25 @@ Whenever an agency referred to in paragraph (1), (2), or (3) of section 1691c(a)
 
 (Pub. L. 90–321, title VII, §706, as added Pub. L. 93–495, title V, §503, Oct. 28, 1974, 88 Stat. 1524; amended Pub. L. 94–239, §6, Mar. 23, 1976, 90 Stat. 253; Pub. L. 102–242, title II, §223(a)–(c), Dec. 19, 1991, 105 Stat. 2306; Pub. L. 111–203, title X, §1085(1), (5)–(7), July 21, 2010, 124 Stat. 2083, 2085.)
 
-#### Amendment of Section
-
-<i>Pub. L. 111–203, title X, §§1085(1), (5)–(7), 1100H, July 21, 2010, 124 Stat. 2083, 2085, 2113, provided that, effective on the designated transfer date, this section is amended as follows:</i>
-
-<i>(1) by striking “Board” each place that term appears and inserting “Bureau”;</i>
-
-<i>(2) in subsection (e)—</i>
-
-<i>(A) in the subsection heading—</i>
-
-<i>(i) by striking “Board” each place that term appears and inserting “Bureau”; and</i>
-
-<i>(ii) by striking “Federal Reserve System” and inserting “Bureau of Consumer Financial Protection”; and</i>
-
-<i>(B) by striking “Federal Reserve System” and inserting “Bureau of Consumer Financial Protection”;</i>
-
-<i>(3) in subsection (f), by striking “two years from” each place that term appears and inserting “5 years after”; and</i>
-
-<i>(4) in subsection (g), by striking “(3)” and inserting “(9)”.</i>
-
-<i>See Effective Date of 2010 Amendment note below.</i>
-
 #### References in Text
 
 Section 3612 of title 42, referred to in subsec. (i), which related to enforcement of the Fair Housing Act (42 U.S.C. 3601 et seq.) by private persons, was repealed by Pub. L. 100–430, §8(2), Sept. 13, 1988, 102 Stat. 1625. See section 3613 of Title 42, The Public Health and Welfare.
 
+Paragraph (1), (2), or (3) of section 1691c(a) of this title, referred to in subsec. (k), probably means par. (1), (2), or (3) of section 1691c(a) of this title prior to repeal of pars. (1) and (2), enactment of new pars. (1) and (9), and redesignation of par. (3) as (2) by Pub. L. 111–203, title X, §1085(4)(A)(ii)–(vi), July 21, 2010, 124 Stat. 2084.
+
 The Fair Housing Act, referred to in subsec. (k), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2010</b>—Subsec. (e). Pub. L. 111–203, §1085(5)(B), substituted “Bureau of Consumer Financial Protection” for “Federal Reserve System” in text.
+
+Pub. L. 111–203, §1085(5)(A), which directed amendment of “subsection heading” by substituting “Bureau” for “Board” wherever appearing and “Bureau of Consumer Financial Protection” for “Federal Reserve System”, was executed by making the substitutions in heading that had been supplied editorially, to reflect the probable intent of Congress.
+
+Pub. L. 111–203, §1085(1), substituted “Bureau” for “Board” wherever appearing.
+
+Subsec. (f). Pub. L. 111–203, §1085(7), substituted “5 years after” for “two years from” wherever appearing.
+
+Subsec. (g). Pub. L. 111–203, §1085(6), substituted “(9)” for “(3)”.
 
 <b>1991</b>—Subsec. (g). Pub. L. 102–242, §223(a), inserted at end “Each agency referred to in paragraphs (1), (2), and (3) of section 1691c(a) of this title shall refer the matter to the Attorney General whenever the agency has reason to believe that 1 or more creditors has engaged in a pattern or practice of discouraging or denying applications for credit in violation of section 1691(a) of this title. Each such agency may refer the matter to the Attorney General whenever the agency has reason to believe that 1 or more creditors has violated section 1691(a) of this title.”
 

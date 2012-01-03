@@ -20,7 +20,7 @@ Unless otherwise specified, in this chapter:
 
 &emsp;&emsp;(C) a public or nonprofit technical institution or career and technical education school used exclusively or principally for the provision of career and technical education to individuals who have completed or left secondary school and who are available for study in preparation for entering the labor market, if the institution or school admits, as regular students, individuals who have completed secondary school and individuals who have left secondary school; or
 
-&emsp;&emsp;(D) the department or division of an institution of higher education, that operates under the policies of the eligible agency and that provides career and technical education in not fewer than 5 different occupational fields leading to immediate employment but not necessarily leading to a baccalaureate degree, if the department or division admits, as regular students, both individuals who have completed secondary school and individuals who have left secondary school.
+&emsp;&emsp;(D) the department or division of an institution of higher education, that operates under the policies of the eligible agency and that provides career and technical education in not fewer than 5 different occupational fields leading to immediate employment but not necessarily leading to a baccalaureate degree, if the department or division admits,as regular students, both individuals who have completed secondary school and individuals who have left secondary school.
 
 #### (4) Articulation agreement
 
@@ -106,7 +106,7 @@ Unless otherwise specified, in this chapter:
 
 &emsp;The term “eligible institution” means—
 
-&emsp;&emsp;(A) a public or nonprofit private institution of higher education that offers career and technical education courses that lead to technical skill proficiency, an industry-recognized credential, a certificate, or a degree;
+&emsp;&emsp;(A) a public or nonprofit private institution of higher education that offers careerand technical education courses that lead to technical skill proficiency, an industry-recognized credential, a certificate, or a degree;
 
 &emsp;&emsp;(B) a local educational agency providing education at the postsecondary level;
 
@@ -168,7 +168,7 @@ Unless otherwise specified, in this chapter:
 
 &emsp;The term “postsecondary educational institution” means—
 
-&emsp;&emsp;(A) an institution of higher education that provides not less than a 2-year program ofinstruction that is acceptable for credit toward a bachelor's degree;
+&emsp;&emsp;(A) an institution of higher education that provides not less than a 2-year program of instruction that is acceptable for credit toward a bachelor's degree;
 
 &emsp;&emsp;(B) a tribally controlled college or university; or
 
@@ -264,7 +264,7 @@ Act of April 16, 1934, referred to in par. (13)(D), is act Apr. 16, 1934, ch. 14
 
 #### Prior Provisions
 
-A prior section 2302, Pub. L. 88–210, §3, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3077; amendedPub. L. 107–110, title X, §1076(k), Jan. 8, 2002, 115 Stat. 2091, related to definitions, prior to the general amendment of this chapter by Pub. L. 109–270.
+A prior section 2302, Pub. L. 88–210, §3, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3077; amended Pub. L. 107–110, title X, §1076(k), Jan. 8, 2002, 115 Stat. 2091, related to definitions, prior to the general amendment of this chapter by Pub. L. 109–270.
 
 Another prior section 2302, Pub. L. 88–210, §3, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2437; amended Pub. L. 100–418, title VI, §§6131(b), 6134(b), Aug. 23, 1988, 102 Stat. 1511, 1512; Pub. L. 101–392, §3, Sept. 25, 1990, 104 Stat. 756, authorized appropriations for fiscal years 1991 to 1995 to carry out former subchapters I to IV of this chapter, prior to the general amendment of this chapter by Pub. L. 105–332.
 

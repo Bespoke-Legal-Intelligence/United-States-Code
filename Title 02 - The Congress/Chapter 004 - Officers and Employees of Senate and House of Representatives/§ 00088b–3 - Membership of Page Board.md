@@ -20,7 +20,7 @@ In the case of the members of the Page Board who are described in paragraphs (2)
 
 &emsp;(2) Each such member shall serve for a term of one year and may be reappointed for additional terms if the member continues to meet the requirements for appointment.
 
-&emsp;(3) A vacancy in the position held by any such member shall be filled in the same manner as the original appointment. An individual appointed to fill a vacancy shall serve for the remainder of the original term and may be reappointed in accordance with paragraph (2).
+&emsp;(3) A vacancy in the position held by any such member shall be filled in the same manner as the original appointment. An individual appointed to fill a vacancy shall serve for theremainder of the original term and may be reappointed in accordance with paragraph (2).
 
 &emsp;(4) Each such member may be paid travel or transportation expenses, including per diem in lieu of subsistence, for attending meetings of the Page Board while away from the member's home or place of business. There are authorized to be appropriated from the applicable accounts of the House of Representatives such sums as may be necessary for payments under this paragraph.
 
@@ -36,15 +36,15 @@ Section is based on section 2 of House Resolution No. 611, Ninety-seventh Congre
 
 #### Amendments
 
-2007—Subsec. (a)(1). Pub. L. 110–2, §2(a)(1), substituted “and two Members” for “and one Member”.
+<b>2007</b>—Subsec. (a)(1). Pub. L. 110–2, §2(a)(1), substituted “and two Members” for “and one Member”.
 
 Subsec. (a)(2) to (4). Pub. L. 110–2, §2(a)(2)–(4), added pars. (2) and (3) and redesignated former par. (2) as (4).
 
 Subsecs. (b), (c). Pub. L. 110–2, §2(b), added subsec. (b) and redesignated former subsec. (b) as (c).
 
-1998—Subsec. (a)(3). Pub. L. 105–275 inserted “and” at end of par. (1), substituted a period for “; and” at end of par. (2), and struck out par. (3) which read as follows: “the Architect of the Capitol.”
+<b>1998</b>—Subsec. (a)(3). Pub. L. 105–275 inserted “and” at end of par. (1), substituted a period for “; and” at end of par. (2), and struck out par. (3) which read as follows: “the Architect of the Capitol.”
 
-1996—Subsec. (a)(2). Pub. L. 104–186 substituted “Clerk and the Sergeant” for “Clerk, Doorkeeper, and Sergeant”.
+<b>1996</b>—Subsec. (a)(2). Pub. L. 104–186 substituted “Clerk and the Sergeant” for “Clerk, Doorkeeper, and Sergeant”.
 
 #### Effective Date of 2007 Amendment
 

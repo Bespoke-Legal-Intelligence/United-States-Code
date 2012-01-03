@@ -24,7 +24,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (5) Financial institution
 
-&emsp;The term “financial institution” means any institution, including, but not limited to, any bank, savings association, credit union, security broker or dealer, or insurance company, established and regulated under the laws of the United States or any State, territory, or possession of the United States, the District of Columbia, Commonwealth of Puerto Rico, Commonwealth of Northern Mariana Islands, Guam, American Samoa, or the United States Virgin Islands, and having significant operations in the United States, but excluding any central bank of, or institution owned by, a foreign government.
+&emsp;The term “financial institution” means any institution, including, but not limited to, anybank, savings association, credit union, security broker or dealer, or insurance company, established and regulated under the laws of the United States or any State, territory, or possession of the United States, the District of Columbia, Commonwealth of Puerto Rico, Commonwealth of Northern Mariana Islands, Guam, American Samoa, or the United States Virgin Islands, and having significant operations in the United States, but excluding any central bank of, or institution owned by, a foreign government.
 
 #### (6) Fund
 

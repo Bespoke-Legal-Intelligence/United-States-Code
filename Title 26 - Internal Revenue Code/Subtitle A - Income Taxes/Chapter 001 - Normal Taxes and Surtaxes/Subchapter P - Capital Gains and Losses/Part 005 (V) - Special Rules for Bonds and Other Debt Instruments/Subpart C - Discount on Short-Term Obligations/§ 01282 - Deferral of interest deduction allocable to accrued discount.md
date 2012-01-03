@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Except as otherwise provided in this section, the net direct interest expense with respect toany short-term obligation shall be allowed as a deduction for the taxable year only to the extent such expense exceeds the sum of—
+Except as otherwise provided in this section, the net direct interest expense with respect to any short-term obligation shall be allowed as a deduction for the taxable year only to the extent such expense exceeds the sum of—
 
 &emsp;(1) the daily portions of the acquisition discount for each day during the taxable year on which the taxpayer held such obligation, and
 

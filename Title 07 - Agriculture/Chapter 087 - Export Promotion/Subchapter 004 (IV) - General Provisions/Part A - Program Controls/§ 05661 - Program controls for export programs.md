@@ -20,11 +20,11 @@ A prior section 401 of Pub. L. 95–501 enacted sections 1765a to 1765h and 1769
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–246, §3103(b)(4)(A), substituted “section 5621 or 5622” for “section 5621, 5622, or 5651”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–246, §3103(b)(4)(A), substituted “section 5621 or 5622” for “section 5621, 5622, or 5651”.
 
 Subsec. (b). Pub. L. 110–246, §3103(b)(4)(B), substituted “sections 5621 and 5622” for “sections 5621, 5622, and 5651”.
 
-1996—Subsec. (a). Pub. L. 104–127 added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “With respect to commodities or other assistance provided, or for which financing or credit guarantees are made available, under the programs authorized in sections 5621, 5622, and 5651 of this title, the Commodity Credit Corporation shall—
+<b>1996</b>—Subsec. (a). Pub. L. 104–127 added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “With respect to commodities or other assistance provided, or for which financing or credit guarantees are made available, under the programs authorized in sections 5621, 5622, and 5651 of this title, the Commodity Credit Corporation shall—
 
 &emsp;“(1) require the exporter to maintain records of an official or customary commercial nature or other documents as the Secretary may require, and have access to such documents or records as needed to verify the arrival of agricultural commodities exported in connection with such programs in the countries that were the intended destination of such commodities; and
 

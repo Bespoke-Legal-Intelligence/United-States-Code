@@ -10,9 +10,9 @@ Sections 2 and 30 of the Farm Credit Act of 1933, as amended, referred to in tex
 
 #### Amendments
 
-1988—Pub. L. 100–399, §901(c), substituted “merged with another bank” for “merged with one or more other such banks under section 2181 of this title”.
+<b>1988</b>—Pub. L. 100–399, §901(c), substituted “merged with another bank” for “merged with one or more other such banks under section 2181 of this title”.
 
-Pub. L. 100–233, §802(m), substituted “The Farm Credit Administration shall approve amendments consistent with this chapter to charters and organizational certificates of banks for cooperatives” for “Their charters or organization certificates may be modified from time to time by the Farm Credit Administration, not inconsistent with the provisions of this subchapter, as may be necessary or expedient to implement this chapter”.
+Pub. L. 100–233, §802(m), substituted “The Farm Credit Administration shall approve amendments consistent with this chapter to charters and organizational certificates of banks for cooperatives” for “Their charters or organization certificates may be modified from time to time by the Farm Credit Administration, not inconsistent with the provisions of this subchapter, asmay be necessary or expedient to implement this chapter”.
 
 Pub. L. 100–233, §414(b), which designated existing provisions as subsec. (a), and added subsec. (b) reading “Each bank for cooperatives shall elect from its voting stockholders a board of directors of such number, for such term, in such manner, and with such qualifications as may be required in its bylaws, except that, at least one member shall be elected by the other directors, which member shall not be a director, officer, employee, or stockholder of a System institution.”, was repealed by section 406(b) of Pub. L. 100–399. See Construction of 1988 Amendment note below.
 
@@ -138,7 +138,7 @@ United bank for cooperatives.—Any of the district banks whose stockholders did
 
 &emsp;&emsp;“(B)
 
-Nondiscrimination.—Any district bank whose stockholders did not approve the plan of merger shall be entitled to the availability, from the National Bank for Cooperatives or the United Bank for Cooperatives, as the case may be, of the same credit and related services now provided by the Central Bank for Cooperatives as of the date of the enactment of this section \[Jan. 6, 1988\], regardless of the decision not to merge.
+Nondiscrimination.—Any district bank whose stockholders did not approve the plan of merger shall be entitled to the availability, from the National Bank for Cooperatives or the United Bank for Cooperatives, as the case may be, of thesame credit and related services now provided by the Central Bank for Cooperatives as of the date of the enactment of this section \[Jan. 6, 1988\], regardless of the decision not to merge.
 
 &emsp;&emsp;“(C)
 

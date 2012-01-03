@@ -24,7 +24,7 @@
 
 &emsp;(F) section 1343 (relating to wire fraud),
 
-> involving the sale of assets acquired or held by the Resolution Trust Corporation, the Federal Deposit Insurance Corporation, as conservator or receiver for a financial institution or any other conservator for a financial institution appointed by the Office of the Comptroller of the Currency or the Office of Thrift Supervision, or the National Credit Union Administration, as conservator or liquidating agent for a financial institution, shall order that the person forfeit to the United States any property, real or personal, which represents or is traceable to the gross receipts obtained, directly or indirectly, as a result of such violation.
+> involving the sale of assets acquired or held by the the <sup>1</sup> Federal Deposit Insurance Corporation, as conservator or receiver for a financial institution or any other conservator for a financial institution appointed by the Office of the Comptroller of the Currency, or the National Credit Union Administration, as conservator or liquidating agent for a financial institution, shall order that the person forfeit to the United States any property, real or personal, which represents or is traceable to the gross receipts obtained, directly or indirectly, as a result of such violation.
 
 (4) With respect to an offense listed in subsection (a)(3) committed for the purpose of executing or attempting to execute any scheme or artifice to defraud, or for obtaining money or property by means of false or fraudulent statements, pretenses, representations, or promises, the gross receipts of such an offense shall include any property, real or personal, tangible or intangible, which is obtained, directly or indirectly, as a result of such offense.
 
@@ -68,15 +68,13 @@
 
 (Added Pub. L. 99–570, title I, §1366(a), Oct. 27, 1986, 100 Stat. 3207–39; amended Pub. L. 100–690, title VI, §§6463(c), 6464, Nov. 18, 1988, 102 Stat. 4374, 4375; Pub. L. 101–73, title IX, §963(c), Aug. 9, 1989, 103 Stat. 504; Pub. L. 101–647, title XIV, §§1401, 1403, title XXV, §2525(b), Nov. 29, 1990, 104 Stat. 4835, 4874; Pub. L. 102–393, title VI, §638(e), Oct. 6, 1992, 106 Stat. 1788; Pub. L. 102–519, title I, §104(b), Oct. 25, 1992, 106 Stat. 3385; Pub. L. 102–550, title XV, §1512(c), Oct. 28, 1992, 106 Stat. 4058; Pub. L. 103–322, title XXXIII, §330011(s)(1), Sept. 13, 1994, 108 Stat. 2145; Pub. L. 104–191, title II, §249(a), (b), Aug. 21, 1996, 110 Stat. 2020; Pub. L. 104–208, div. C, title II, §217, Sept. 30, 1996, 110 Stat. 3009–573; Pub. L. 105–184, §2, June 23, 1998, 112 Stat. 520; Pub. L. 105–318, §6(a), Oct. 30, 1998, 112 Stat. 3010; Pub. L. 106–185, §18(b), Apr. 25, 2000, 114 Stat. 223; Pub. L. 107–56, title III, §372(b)(2), Oct. 26, 2001, 115 Stat. 339; Pub. L. 107–273, div. B, title IV, §4002(b)(10), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 109–295, title V, §551(c), Oct. 4, 2006, 120 Stat. 1390; Pub. L. 110–161, div. E, title V, §553(b), Dec. 26, 2007, 121 Stat. 2082; Pub. L. 111–203, title III, §377(4), July 21, 2010, 124 Stat. 1569.)
 
-#### Amendment of Subsection (a)(3)
-
-<i>Pub. L. 111–203, title III, §§351, 377(4), July 21, 2010, 124 Stat. 1546, 1569, provided that, effective on the transfer date, subsection (a)(3) of this section is amended by striking “Resolution Trust Corporation,” and by striking “or the Office of Thrift Supervision”. See Effective Date of 2010 Amendment note below.</i>
-
 #### References in Text
 
 Sections 274 and 274A of the Immigration and Nationality Act, referred to in subsec. (a)(6)(A), are classified to sections 1324 and 1324a, respectively, of Title 8, Aliens and Nationality.
 
 #### Amendments
+
+<b>2010</b>—Subsec. (a)(3). Pub. L. 111–203, in concluding provisions, struck out “Resolution Trust Corporation,” after “acquired or held by the” and “or the Office of Thrift Supervision” after “Office of the Comptroller of the Currency”.
 
 <b>2007</b>—Subsec. (a)(6)(A). Pub. L. 110–161 substituted “555” for “554” in introductory provisions.
 
@@ -94,7 +92,7 @@ Subsec. (a)(6)(A)(i). Pub. L. 106–185, §18(b)(1)(B), substituted “the offen
 
 Subsec. (a)(6)(A)(ii)(I), (II). Pub. L. 106–185, §18(b)(1)(C), substituted “the offense of which the person is convicted” for “a violation of, or a conspiracy to violate, subsection (a), section 274A(a)(1) or 274A(a)(2) of the Immigration and Nationality Act, or section 1028, 1425, 1426, 1427, 1541, 1542, 1543, 1544, or 1546 of this title”.
 
-<b>1998</b>—Subsec. (a)(6), (7). Pub. L. 105–184, §2(1)(A), which directed the amendment of subsec. (a) “by redesignating the second paragraph designated as paragraph (6) as paragraph (7)”, was executed by redesignatingpar. (6), relating to forfeitures for Federal health care offenses, as (7), to reflect the probable intent of Congress.
+<b>1998</b>—Subsec. (a)(6), (7). Pub. L. 105–184, §2(1)(A), which directed the amendment of subsec. (a) “by redesignating the second paragraph designated as paragraph (6) as paragraph (7)”, was executed by redesignating par. (6), relating to forfeitures for Federal health care offenses, as (7), to reflect the probable intent of Congress.
 
 Subsec. (a)(8). Pub. L. 105–184, §2(1)(B), added par. (8).
 
@@ -145,4 +143,6 @@ Amendment by Pub. L. 106–185 applicable to any forfeiture proceeding commenced
 #### Effective Date of 1994 Amendment
 
 Section 330011(s)(1) of Pub. L. 103–322 provided that the amendment made by that section is effective as of the date on which section 1401 of Pub. L. 101–647 took effect.
+
+<i><sup>1</sup></i><i> So in original.</i>
 

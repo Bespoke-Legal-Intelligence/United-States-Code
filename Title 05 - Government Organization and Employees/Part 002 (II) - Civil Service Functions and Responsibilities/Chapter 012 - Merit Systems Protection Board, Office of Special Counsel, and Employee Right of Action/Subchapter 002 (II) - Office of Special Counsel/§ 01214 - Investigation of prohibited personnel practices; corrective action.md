@@ -112,7 +112,7 @@
 
 #### Amendments
 
-1994—Subsec. (a)(1)(D). Pub. L. 103–424, §3(c)(1), added subpar. (D).
+<b>1994</b>—Subsec. (a)(1)(D). Pub. L. 103–424, §3(c)(1), added subpar. (D).
 
 Subsec. (a)(2)(A)(iv). Pub. L. 103–424, §3(c)(2), added cl. (iv).
 

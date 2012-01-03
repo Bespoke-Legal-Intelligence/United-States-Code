@@ -24,6 +24,9 @@
 | [3350\.](%C2%A7%2003350%20-%20Definitions.md) | Definitions. |
 | [3351\.](%C2%A7%2003351%20-%20Miscellaneous%20provisions.md) | Miscellaneous provisions. |
 | [3352\.](%C2%A7%2003352%20-%20Emergency%20exceptions%20for%20disaster%20areas.md) | Emergency exceptions for disaster areas. |
+| [3353\.](%C2%A7%2003353%20-%20Appraisal%20management%20company%20minimum%20requirements.md) | Appraisal management company minimum requirements. |
+| [3354\.](%C2%A7%2003354%20-%20Automated%20valuation%20models%20used%20to%20estimate%20collateral%20value%20for%20mortgage%20lending%20purposes.md) | Automated valuation models used to estimate collateral value for mortgage lending purposes. |
+| [3355\.](%C2%A7%2003355%20-%20Broker%20price%20opinions.md) | Broker price opinions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -54,3 +57,6 @@
 - [&sect; 03350 - Definitions](%C2%A7%2003350%20-%20Definitions.md)
 - [&sect; 03351 - Miscellaneous provisions](%C2%A7%2003351%20-%20Miscellaneous%20provisions.md)
 - [&sect; 03352 - Emergency exceptions for disaster areas](%C2%A7%2003352%20-%20Emergency%20exceptions%20for%20disaster%20areas.md)
+- [&sect; 03353 - Appraisal management company minimum requirements](%C2%A7%2003353%20-%20Appraisal%20management%20company%20minimum%20requirements.md)
+- [&sect; 03354 - Automated valuation models used to estimate collateral value for mortgage lending purposes](%C2%A7%2003354%20-%20Automated%20valuation%20models%20used%20to%20estimate%20collateral%20value%20for%20mortgage%20lending%20purposes.md)
+- [&sect; 03355 - Broker price opinions](%C2%A7%2003355%20-%20Broker%20price%20opinions.md)

@@ -6,7 +6,7 @@ The court may authorize the trustee to operate the business of the debtor for a 
 
 #### Historical and Revision Notes
 
-I74senate report no. 95–989
+#### senate report no. 95–989
 
 This section is derived from section 2a(5) of the Bankruptcy Act \[section 11(a)(5) of former title 11\]. It permits the court to authorize the operation of any business of the debtor for a limited period, if the operation is in the best interest of the estate and consistent with orderly liquidation of the estate. An example is the operation of a watch company to convert watch movements and cases into completed watches which will bring much higher prices than the component parts would have brought.
 

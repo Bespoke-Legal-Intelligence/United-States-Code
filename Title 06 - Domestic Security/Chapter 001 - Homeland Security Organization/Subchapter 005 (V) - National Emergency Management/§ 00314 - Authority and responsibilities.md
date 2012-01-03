@@ -38,7 +38,7 @@ The Administrator shall provide Federal leadership necessary to prepare for, pro
 
 &emsp;&emsp;(A) mitigation, by taking sustained actions to reduce or eliminate long-term risks to people and property from hazards and their effects;
 
-&emsp;&emsp;(B) preparedness, by planning, training, and building the emergency managementprofession to prepare effectively for, mitigate against, respond to, and recover from any hazard;
+&emsp;&emsp;(B) preparedness, by planning, training, and building the emergency management profession to prepare effectively for, mitigate against, respond to, and recover from any hazard;
 
 &emsp;&emsp;(C) response, by conducting emergency operations to save lives and property through positioning emergency equipment, personnel, and supplies, through evacuating potential victims, through providing food, water, shelter, and medical care to those in need, and through restoring critical public services; and
 
@@ -66,7 +66,7 @@ The Administrator shall provide Federal leadership necessary to prepare for, pro
 
 &emsp;(17) maintaining and operating within the Agency the National Response Coordination Center or its successor;
 
-&emsp;(18) developing a national emergency management system that is capable of preparing for, protecting against, responding to, recovering from, and mitigating against catastrophic incidents;
+&emsp;(18) developing a national emergency management system that is capable of preparingfor, protecting against, responding to, recovering from, and mitigating against catastrophic incidents;
 
 &emsp;(19) assisting the President in carrying out the functions under the national preparedness goal and the national preparedness system and carrying out all functions and authorities of the Administrator under the national preparedness System;
 
@@ -94,7 +94,7 @@ A prior section 504 of Pub. L. 107–296 was renumbered section 517 and is class
 
 #### Amendments
 
-2006—Pub. L. 109–295, §611(12)(A), (B), inserted “Authority and” before “responsibilities” in section catchline, designated existing provisions as subsec. (a), inserted subsec. heading, and substituted “The Administrator shall provide Federal leadership necessary to prepare for, protect against, respond to, recover from, or mitigate against a natural disaster, act of terrorism, or other man-made disaster, including—” for “The Secretary, acting through the Under Secretary for Emergency Preparedness and Response, shall include—” in introductory provisions.
+<b>2006</b>—Pub. L. 109–295, §611(12)(A), (B), inserted “Authority and” before “responsibilities” in section catchline, designated existing provisions as subsec. (a), inserted subsec. heading, and substituted “The Administrator shall provide Federal leadership necessary to prepare for, protect against, respond to, recover from, or mitigate against a natural disaster, act of terrorism, or other man-made disaster, including—” for “The Secretary, acting through the Under Secretary for Emergency Preparedness and Response, shall include—” in introductory provisions.
 
 Subsec. (a)(3)(B). Pub. L. 109–417, which directed that section 502(3)(B) of Pub. L. 107–296 be amended by striking “, the National Disaster Medical System,”, was executed by striking those words after “Domestic Emergency Support Team” in subsec. (a)(3)(B) of this section, to reflect the probable intent of Congress and the redesignation of section 502(3)(B) as 504(a)(3)(B) by Pub. L. 109–295, §611(8), (12)(B). See credits and Amendment note above.
 
@@ -102,7 +102,7 @@ Subsec. (a)(7) to (21). Pub. L. 109–295, §611(12)(C), (D), added pars. (7) to
 
 Subsec. (b). Pub. L. 109–295, §611(12)(D), added subsec. (b).
 
-2004—Par. (3)(B). Pub. L. 108–276, §3(b)(1)(A), struck out “the Strategic National Stockpile,” after “Domestic Emergency Support Team,”.
+<b>2004</b>—Par. (3)(B). Pub. L. 108–276, §3(b)(1)(A), struck out “the Strategic National Stockpile,” after “Domestic Emergency Support Team,”.
 
 Par. (3)(D). Pub. L. 108–276, §3(b)(1)(B), inserted “, including requiring deployment of the Strategic National Stockpile,” after “resources”.
 

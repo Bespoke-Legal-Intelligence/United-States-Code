@@ -60,7 +60,7 @@ Funds collected by the Board from assessments collected under this section shall
 
 &emsp;(2)(A) The National Pork Producers Council, a nonprofit corporation of the type described in section 501(c)(3) of title 26 and incorporated in the State of Iowa, shall receive an amount of funds equal to—
 
-&emsp;&emsp;(i) 371/2 percent of the aggregate amount of assessments collected under this section throughout the United States from the date assessment commences pursuant to subsection (a)(1) of this section until the first day of the month following the month in which the Board is appointed pursuant to section 4808 of this title.<sup>2</sup>
+&emsp;&emsp;(i) 37½ percent of the aggregate amount of assessments collected under this section throughout the United States from the date assessment commences pursuant to subsection (a)(1) of this section until the first day of the month following the month in which the Board is appointed pursuant to section 4808 of this title.<sup>2</sup>
 
 &emsp;&emsp;(ii) 35 percent thereafter until the referendum is conducted pursuant to section 4811 of this title,
 
@@ -132,7 +132,7 @@ This chapter, referred to in subsec. (c)(3)(B)(i), (iv), was in the original “
 
 #### Amendments
 
-1986—Subsecs. (c)(2)(A), (e). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsecs. (c)(2)(A), (e). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

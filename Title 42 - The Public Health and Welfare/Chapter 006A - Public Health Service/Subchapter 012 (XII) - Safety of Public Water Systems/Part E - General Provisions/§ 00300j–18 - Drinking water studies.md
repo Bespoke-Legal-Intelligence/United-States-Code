@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Administrator shall conduct a continuing program of studies to identify groups within the general population that may be at greater risk than the general population of adverse health effects from exposure to contaminants in drinking water. The study shall examine whether and to what degree infants, children, pregnant women, the elderly, individuals with a history of serious illness, orother subpopulations that can be identified and characterized are likely to experience elevated health risks, including risks of cancer, from contaminants in drinking water.
+&emsp;The Administrator shall conduct a continuing program of studies to identify groups within the general population that may be at greater risk than the general population of adverse health effects from exposure to contaminants in drinking water. The study shall examine whether and to what degree infants, children, pregnant women, the elderly, individuals with a history of serious illness, or other subpopulations that can be identified and characterized are likely to experience elevated health risks, including risks of cancer, from contaminants in drinking water.
 
 #### (2) Report
 
@@ -78,7 +78,7 @@ Epidemiological Study of Exposure to Perchlorate.—The Secretary of Defense sha
 
 &emsp;“(2) ensure that the study is of sufficient scope and scale to permit the making of meaningful conclusions of the measurable public health threat associated with exposure to perchlorate, especially the threat to sensitive subpopulations; and
 
-&emsp;“(3) examine thyroid function, including measurements of urinary iodine and thyroid hormone levels,in a sufficient number of pregnant women, neonates, and infants exposed to perchlorate in drinking water and match measurements of perchlorate levels in the drinking water of each study participant in order to permit the development of meaningful conclusions on the public health threat to individuals exposed to perchlorate.
+&emsp;“(3) examine thyroid function, including measurements of urinary iodine and thyroid hormone levels, in a sufficient number of pregnant women, neonates, and infants exposed to perchlorate in drinking water and match measurements of perchlorate levels in the drinking water of each study participant in order to permit the development of meaningful conclusions on the public health threat to individuals exposed to perchlorate.
 
 “(b)
 

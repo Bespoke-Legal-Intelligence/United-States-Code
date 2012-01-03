@@ -1,6 +1,6 @@
 # Printed pages - Title 48 - Territories and Insular Possessions
 
-GPO's 2010 edition (laws in effect as of 2011-01-07), from its printed page marks. The exact position of
+GPO's 2011 edition (laws in effect as of 2012-01-03), from its printed page marks. The exact position of
 every mark is in `_page-maps/USCODE-title48.json`. Page numbers belong to the printed edition and change
 from edition to edition; the section files hold the text only.
 
@@ -635,18 +635,18 @@ from edition to edition; the section files hold the text only.
 | [&sect; 01954 - Public auditor and special prosecutor](Chapter%20018%20-%20Micronesia%2C%20Marshall%20Islands%2C%20and%20Palau/Subchapter%20002%20%28II%29%20-%20Palau/Part%20B%20-%20Implementation%20of%20Compact/%C2%A7%2001954%20-%20Public%20auditor%20and%20special%20prosecutor.md) | 305 |
 | [&sect; 01955 - Audit certification](Chapter%20018%20-%20Micronesia%2C%20Marshall%20Islands%2C%20and%20Palau/Subchapter%20002%20%28II%29%20-%20Palau/Part%20B%20-%20Implementation%20of%20Compact/%C2%A7%2001955%20-%20Audit%20certification.md) | 305 |
 | [&sect; 01956 - Acquisition of defense sites](Chapter%20018%20-%20Micronesia%2C%20Marshall%20Islands%2C%20and%20Palau/Subchapter%20002%20%28II%29%20-%20Palau/Part%20B%20-%20Implementation%20of%20Compact/%C2%A7%2001956%20-%20Acquisition%20of%20defense%20sites.md) | 305 |
-| [&sect; 01957 - Federal programs coordination personnel](Chapter%20018%20-%20Micronesia%2C%20Marshall%20Islands%2C%20and%20Palau/Subchapter%20002%20%28II%29%20-%20Palau/Part%20B%20-%20Implementation%20of%20Compact/%C2%A7%2001957%20-%20Federal%20programs%20coordination%20personnel.md) | 305 |
-| [&sect; 01958 - Referendum costs](Chapter%20018%20-%20Micronesia%2C%20Marshall%20Islands%2C%20and%20Palau/Subchapter%20002%20%28II%29%20-%20Palau/Part%20B%20-%20Implementation%20of%20Compact/%C2%A7%2001958%20-%20Referendum%20costs.md) | 305–306 |
+| [&sect; 01957 - Federal programs coordination personnel](Chapter%20018%20-%20Micronesia%2C%20Marshall%20Islands%2C%20and%20Palau/Subchapter%20002%20%28II%29%20-%20Palau/Part%20B%20-%20Implementation%20of%20Compact/%C2%A7%2001957%20-%20Federal%20programs%20coordination%20personnel.md) | 305–306 |
+| [&sect; 01958 - Referendum costs](Chapter%20018%20-%20Micronesia%2C%20Marshall%20Islands%2C%20and%20Palau/Subchapter%20002%20%28II%29%20-%20Palau/Part%20B%20-%20Implementation%20of%20Compact/%C2%A7%2001958%20-%20Referendum%20costs.md) | 306 |
 | [&sect; 01959 - Agreements](Chapter%20018%20-%20Micronesia%2C%20Marshall%20Islands%2C%20and%20Palau/Subchapter%20002%20%28II%29%20-%20Palau/Part%20B%20-%20Implementation%20of%20Compact/%C2%A7%2001959%20-%20Agreements.md) | 306 |
 | [&sect; 01960 - Modification of energy assistance funding](Chapter%20018%20-%20Micronesia%2C%20Marshall%20Islands%2C%20and%20Palau/Subchapter%20002%20%28II%29%20-%20Palau/Part%20B%20-%20Implementation%20of%20Compact/%C2%A7%2001960%20-%20Modification%20of%20energy%20assistance%20funding.md) | 306–307 |
 | [&sect; 01961 - Submission of agreements](Chapter%20018%20-%20Micronesia%2C%20Marshall%20Islands%2C%20and%20Palau/Subchapter%20002%20%28II%29%20-%20Palau/Part%20B%20-%20Implementation%20of%20Compact/%C2%A7%2001961%20-%20Submission%20of%20agreements.md) | 307 |
-| [&sect; 01962 - Transition funding](Chapter%20018%20-%20Micronesia%2C%20Marshall%20Islands%2C%20and%20Palau/Subchapter%20002%20%28II%29%20-%20Palau/Part%20B%20-%20Implementation%20of%20Compact/%C2%A7%2001962%20-%20Transition%20funding.md) | 307 |
-| [Subchapter 003 (III) - Miscellaneous Provisions](Chapter%20018%20-%20Micronesia%2C%20Marshall%20Islands%2C%20and%20Palau/Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/README.md) | 307 |
-| [&sect; 01971 - Transfer of surplus personal property owned by United States](Chapter%20018%20-%20Micronesia%2C%20Marshall%20Islands%2C%20and%20Palau/Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/%C2%A7%2001971%20-%20Transfer%20of%20surplus%20personal%20property%20owned%20by%20United%20States.md) | 307–308 |
+| [&sect; 01962 - Transition funding](Chapter%20018%20-%20Micronesia%2C%20Marshall%20Islands%2C%20and%20Palau/Subchapter%20002%20%28II%29%20-%20Palau/Part%20B%20-%20Implementation%20of%20Compact/%C2%A7%2001962%20-%20Transition%20funding.md) | 307–308 |
+| [Subchapter 003 (III) - Miscellaneous Provisions](Chapter%20018%20-%20Micronesia%2C%20Marshall%20Islands%2C%20and%20Palau/Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/README.md) | 308 |
+| [&sect; 01971 - Transfer of surplus personal property owned by United States](Chapter%20018%20-%20Micronesia%2C%20Marshall%20Islands%2C%20and%20Palau/Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/%C2%A7%2001971%20-%20Transfer%20of%20surplus%20personal%20property%20owned%20by%20United%20States.md) | 308 |
 | [&sect; 01972 - Controlled substances in freely associated states](Chapter%20018%20-%20Micronesia%2C%20Marshall%20Islands%2C%20and%20Palau/Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/%C2%A7%2001972%20-%20Controlled%20substances%20in%20freely%20associated%20states.md) | 308 |
-| [&sect; 01973 - Freely Associated State Air Carrier](Chapter%20018%20-%20Micronesia%2C%20Marshall%20Islands%2C%20and%20Palau/Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/%C2%A7%2001973%20-%20Freely%20Associated%20State%20Air%20Carrier.md) | 308 |
-| [Chapter 019 - Pacific Policy Reports](Chapter%20019%20-%20Pacific%20Policy%20Reports/README.md) | 308–309 |
+| [&sect; 01973 - Freely Associated State Air Carrier](Chapter%20018%20-%20Micronesia%2C%20Marshall%20Islands%2C%20and%20Palau/Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/%C2%A7%2001973%20-%20Freely%20Associated%20State%20Air%20Carrier.md) | 308–309 |
+| [Chapter 019 - Pacific Policy Reports](Chapter%20019%20-%20Pacific%20Policy%20Reports/README.md) | 309 |
 | [&sect; 02001 - Findings](Chapter%20019%20-%20Pacific%20Policy%20Reports/%C2%A7%2002001%20-%20Findings.md) | 309 |
-| [&sect; 02002 - Reports](Chapter%20019%20-%20Pacific%20Policy%20Reports/%C2%A7%2002002%20-%20Reports.md) | 309 |
-| [&sect; 02003 - Conference](Chapter%20019%20-%20Pacific%20Policy%20Reports/%C2%A7%2002003%20-%20Conference.md) | 309 |
-| [&sect; 02004 - Administrative matters](Chapter%20019%20-%20Pacific%20Policy%20Reports/%C2%A7%2002004%20-%20Administrative%20matters.md) | 309–310 |
+| [&sect; 02002 - Reports](Chapter%20019%20-%20Pacific%20Policy%20Reports/%C2%A7%2002002%20-%20Reports.md) | 309–310 |
+| [&sect; 02003 - Conference](Chapter%20019%20-%20Pacific%20Policy%20Reports/%C2%A7%2002003%20-%20Conference.md) | 310 |
+| [&sect; 02004 - Administrative matters](Chapter%20019%20-%20Pacific%20Policy%20Reports/%C2%A7%2002004%20-%20Administrative%20matters.md) | 310 |

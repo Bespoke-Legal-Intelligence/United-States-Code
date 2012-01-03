@@ -90,7 +90,7 @@ Notwithstanding any other provision of law, in order to reduce or eliminate the 
 
 (iii) The appropriate annual quantity to be withdrawn from inventories shall be—
 
-&emsp;(I) 121/2 percent of the inventories of Flue-cured tobacco from the 1976 through 1984 crops on hand on April 7, 1986;
+&emsp;(I) 12½ percent of the inventories of Flue-cured tobacco from the 1976 through 1984 crops on hand on April 7, 1986;
 
 &emsp;(II) 20 percent of the inventories of Burley tobacco from the 1982 and 1984 crops on hand on April 7, 1986; and
 
@@ -136,7 +136,7 @@ Section was enacted as part of the Consolidated Omnibus Budget Reconciliation Ac
 
 #### Amendments
 
-2002—Subsec. (c)(2)(A)(i). Pub. L. 107–296 substituted “by manufacturers of tobacco products to the Tax and Trade Bureau” for “(on ATF Form 3068) by manufacturers of tobacco products to the Bureau of Alcohol, Tobacco and Firearms”.
+<b>2002</b>—Subsec. (c)(2)(A)(i). Pub. L. 107–296 substituted “by manufacturers of tobacco products to the Tax and Trade Bureau” for “(on ATF Form 3068) by manufacturers of tobacco products to the Bureau of Alcohol, Tobacco and Firearms”.
 
 #### Effective Date of 2002 Amendment
 

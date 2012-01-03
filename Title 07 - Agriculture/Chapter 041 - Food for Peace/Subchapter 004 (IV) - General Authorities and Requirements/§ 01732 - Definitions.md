@@ -4,7 +4,7 @@ As used in this chapter:
 
 #### (1) Administrator
 
-&emsp;The term “Administrator” means the Administrator of the Agency for InternationalDevelopment, unless otherwise specified in this chapter.
+&emsp;The term “Administrator” means the Administrator of the Agency for International Development, unless otherwise specified in this chapter.
 
 #### (2) Agricultural commodity
 
@@ -48,25 +48,25 @@ As used in this chapter:
 
 #### Amendments
 
-2008—Pars. (3) to (9). Pub. L. 110–246 added par. (3) and redesignated former pars. (3) to (8) as (4) to (9), respectively.
+<b>2008</b>—Pars. (3) to (9). Pub. L. 110–246 added par. (3) and redesignated former pars. (3) to (8) as (4) to (9), respectively.
 
-1996—Par. (6). Pub. L. 104–127 added par. (6) and struck out heading and text of former par. (6). Prior to amendment, text read as follows: “The term ‘indigenous nongovernmental organization’ means an organization that operates under the laws of the recipient country, or that has its principal place of activity in such country, and that works at the local level to solve development problems in the foreign country in which it is located, except that the term does not include an organization that is primarily an agent or instrumentality of the foreign government.”
+<b>1996</b>—Par. (6). Pub. L. 104–127 added par. (6) and struck out heading and text of former par. (6). Prior to amendment, text read as follows: “The term ‘indigenous nongovernmental organization’ means an organization that operates under the laws of the recipient country, or that has its principal place of activity in such country, and that works at the local level to solve development problems in the foreign country in which it is located, except that the term does not include an organization that is primarily an agent or instrumentality of the foreign government.”
 
-1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions defining agricultural commodity.
+<b>1990</b>—Pub. L. 101–624 amended section generally, substituting present provisions for provisions defining agricultural commodity.
 
-1984—Pub. L. 98–623 inserted “(including fish, without regard to whether such fish are harvested in aquacultural operations)” and struck out provision that subject to the availability of appropriations therefor, any domestically produced fishery product could be made available under this chapter.
+<b>1984</b>—Pub. L. 98–623 inserted “(including fish, without regard to whether such fish are harvested in aquacultural operations)” and struck out provision that subject to the availability of appropriations therefor, any domestically produced fishery product could be made available under this chapter.
 
-1981—Pub. L. 97–98 substituted “wine, beer, distilled spirits, or other alcoholic beverage” for “wine or beer”.
+<b>1981</b>—Pub. L. 97–98 substituted “wine, beer, distilled spirits, or other alcoholic beverage” for “wine or beer”.
 
-1979—Pub. L. 96–72 inserted reference to beer.
+<b>1979</b>—Pub. L. 96–72 inserted reference to beer.
 
-1977—Pub. L. 95–113 required that in allocation of funds made available under subchapter II of this chapter priority be given to financing the sale of food and fiber commodities.
+<b>1977</b>—Pub. L. 95–113 required that in allocation of funds made available under subchapter II of this chapter priority be given to financing the sale of food and fiber commodities.
 
-1971—Pub. L. 92–42 inserted sentence that proviso excluding alcoholic beverages from term “agricultural commodity” shall not be construed as prohibiting domestic wine industry from participating in market development activities for expansion of export sales of domestic agricultural commodities.
+<b>1971</b>—Pub. L. 92–42 inserted sentence that proviso excluding alcoholic beverages from term “agricultural commodity” shall not be construed as prohibiting domestic wine industry from participating in market development activities for expansion of export sales of domestic agricultural commodities.
 
-1966—Pub. L. 89–808 substituted definition of agricultural commodity and provisions as to availability of fishery products for former provisions respecting agreements for delivery of surplus agricultural commodities, period, and security for payments in relation to long-term supply contracts, now covered by subchapter II of this chapter. See section 1707 of this title.
+<b>1966</b>—Pub. L. 89–808 substituted definition of agricultural commodity and provisions as to availability of fishery products for former provisions respecting agreements for delivery of surplus agricultural commodities, period, and security for payments in relation to long-term supply contracts, now covered by subchapter II of this chapter. See section 1707 of this title.
 
-1962—Pub. L. 87–703 authorized executive agreements with financial institutions acting in behalf of friendly nations and administrative sales agreements with foreign and United States private trade with provision for security for payments.
+<b>1962</b>—Pub. L. 87–703 authorized executive agreements with financial institutions acting in behalf of friendly nations and administrative sales agreements with foreign and United States private trade with provision for security for payments.
 
 #### Effective Date of 2008 Amendment
 

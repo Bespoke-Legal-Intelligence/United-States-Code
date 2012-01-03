@@ -9,7 +9,7 @@
 
 #### Amendments
 
-<b>2004</b>—Pub. L. 108–375, div. A, title X, §1072(d)(2), Oct. 28, 2004, 118 Stat. 2058, struck out items 4741 “Controland supervision”, 4743 “Officers: use of transportation”, 4744 “Persons and supplies: sea transportation”, 4745 “Civilian passengers and commercial cargoes: transports in trans-Atlantic service”, 4746 “Civilian personnel in Alaska”, and 4747 “Passengers and merchandise to Guam: sea transport”.
+<b>2004</b>—Pub. L. 108–375, div. A, title X, §1072(d)(2), Oct. 28, 2004, 118 Stat. 2058, struck out items 4741 “Control and supervision”, 4743 “Officers: use of transportation”, 4744 “Persons and supplies: sea transportation”, 4745 “Civilian passengers and commercial cargoes: transports in trans-Atlantic service”, 4746 “Civilian personnel in Alaska”, and 4747 “Passengers and merchandise to Guam: sea transport”.
 
 <b>1996</b>—Pub. L. 104–201, div. A, title IX, §906(d)(2), Sept. 23, 1996, 110 Stat. 2620, struck out item 4742 “Control of transportation systems in time of war”.
 

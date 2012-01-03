@@ -44,7 +44,7 @@ Separate Calculations for Passenger Automobiles Manufactured Domestically and No
 
 &emsp;(ii) For a manufacturer that began assembling automobiles in Mexico after model year 1991, subparagraph (A) of this paragraph applies to all automobiles manufactured by that manufacturer beginning with the model year that begins after January 1, 1994, or the model year beginning after the date the manufacturer begins assembling automobiles in Mexico, whichever is later.
 
-&emsp;(iii) A manufacturer not described in clause (i) or (ii) of this subparagraph that assemblesautomobiles in the United States or Canada, but not in Mexico, may elect, during the period from January 1, 1997, through January 1, 2004, to have subparagraph (A) of this paragraph apply to all automobiles manufactured by that manufacturer beginning with the model year that begins after the date of the election. However, if the manufacturer begins assembling automobiles in Mexico before making an election under this subparagraph, this clause does not apply, and the manufacturer is subject to clause (ii) of this subparagraph.
+&emsp;(iii) A manufacturer not described in clause (i) or (ii) of this subparagraph that assembles automobiles in the United States or Canada, but not in Mexico, may elect, during the period from January 1, 1997, through January 1, 2004, to have subparagraph (A) of this paragraph apply to all automobiles manufactured by that manufacturer beginning with the model year that begins after the date of the election. However, if the manufacturer begins assembling automobiles in Mexico before making an election under this subparagraph, this clause does not apply, and the manufacturer is subject to clause (ii) of this subparagraph.
 
 &emsp;(iv) For a manufacturer that does not assemble automobiles in the United States, Canada, or Mexico, subparagraph (A) of this paragraph applies to all automobiles manufactured by that manufacturer beginning with the model year that begins after January 1, 1994.
 
@@ -142,7 +142,7 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, §503(b)(3); added Oct. 10, 1980,
 
 15:2003(d)(1) (last sentence), (f).
 
-In subsection (a)(1), before clause (A), the words “of a manufacturer subject to” are substituted for “for the purposes of” for clarity. In clause (B)(ii), the words“the sum of the fractions obtained by” are substituted for “a sum of terms, each term of which is a fraction created by” to eliminate unnecessary words.
+In subsection (a)(1), before clause (A), the words “of a manufacturer subject to” are substituted for “for the purposes of” for clarity. In clause (B)(ii), the words “the sum of the fractions obtained by” are substituted for “a sum of terms, each term of which is a fraction created by” to eliminate unnecessary words.
 
 Subsection (a)(2)(A) is substituted for “as defined in section 2012(b)(2) of this title” for clarity.
 

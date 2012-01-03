@@ -104,7 +104,7 @@ Subsec. (d)(1). Pub. L. 106–501, §309(5), substituted “In any case in which
 
 Subsec. (d)(4). Pub. L. 106–501, §309(6), added par. (4).
 
-Subsec. (e). Pub. L. 106–501, §309(7), added subsec. (e) and struck out former subsec. (e) which authorized appropriations for fiscal years 1992 to 1995 to carry out this section, set a deadline for final reimbursement claims for meals, provided for a reduction of the cents-per-meal level in any fiscal year in which costs exceed amounts authorized, and required adjustment of final reimbursement claims to use the full amount appropriated for a fiscal year.
+Subsec. (e). Pub. L. 106–501, §309(7), added subsec. (e) and struck out former subsec. (e) which authorized appropriations for fiscal years 1992 to 1995 to carry out this section, set a deadline for final reimbursement claims for meals, provided for a reduction of the cents-per-meal level in any fiscal year in which costs exceed amounts authorized, and required adjustment of finalreimbursement claims to use the full amount appropriated for a fiscal year.
 
 Pub. L. 106–501, §309(2), redesignated subsec. (c) as (e).
 

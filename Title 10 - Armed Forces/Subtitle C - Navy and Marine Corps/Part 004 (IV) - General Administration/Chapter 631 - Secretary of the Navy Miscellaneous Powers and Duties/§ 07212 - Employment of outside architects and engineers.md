@@ -24,7 +24,7 @@ In subsection (a) the word “outside” is omitted as surplusage and the words 
 
 #### Amendments
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–513 substituted “and 7204, chapter 51, and subchapters III, IV, and VI of chapter 53of” for “5101–5115, 5331–5338, 5341, 5342, and 7204 of title 5 and subchapter VI of chapter 53 of such”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–513 substituted “and 7204, chapter 51, and subchapters III, IV, and VI of chapter 53 of” for “5101–5115, 5331–5338, 5341, 5342, and 7204 of title 5 and subchapter VI of chapter 53 of such”.
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–454, §801(a)(3)(I), inserted reference to subchapter VI of chapter 53 of title 5.
 

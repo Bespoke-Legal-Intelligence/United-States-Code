@@ -6,7 +6,7 @@ Each regulated entity shall establish an Office of Minority and Women Inclusion,
 
 #### (b) Inclusion in all levels of business activities
 
-Each regulated entity shall develop and implement standards and procedures to ensure, to the maximum extent possible, the inclusion and utilization of minorities (as such term is defined in section 1204(c) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 1811 note)) and women, and minority- and women-owned businesses (as such terms are defined in section 1441a(r)(4) of this title) (including financial institutions, investment banking firms, mortgage banking firms, asset management firms, broker-dealers, financial services firms, underwriters, accountants, brokers, investment consultants, and providers of legal services) in all business and activities of the regulated entity at all levels, including in procurement, insurance, and all types of contracts (including contracts for the issuance or guarantee of any debt, equity, or mortgage-related securities, the management of its mortgage and securities portfolios, the making of its equity investments, the purchase, sale and servicing of single- and multi-family mortgage loans, and the implementation of its affordable housing program and initiatives). The processes established by each regulated entity for review and evaluation for contract proposals and to hire service providers shall include a component that gives consideration to the diversity of the applicant.
+Each regulated entity shall develop and implement standards and procedures to ensure, to the maximum extent possible, the inclusion and utilization of minorities (as such term is defined in section 1204(c) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 1811 note)) and women, and minority- and women-owned businesses (as such terms are defined in section 1441a(r)(4) <sup>1</sup> of this title) (including financial institutions, investment banking firms, mortgage banking firms, asset management firms, broker-dealers, financial services firms, underwriters, accountants, brokers, investment consultants, and providers of legal services) in all business and activities of the regulated entity at all levels, including in procurement, insurance, and all types of contracts (including contracts for the issuance or guarantee of any debt, equity, or mortgage-related securities, the management of its mortgage and securities portfolios, the making of its equity investments, the purchase, sale and servicing of single- and multi-family mortgage loans, and the implementation of its affordable housing program and initiatives). The processes established by each regulated entity for review and evaluation for contract proposals and to hire service providers shall include a component that gives consideration to the diversity of the applicant.
 
 #### (c) Applicability
 
@@ -38,9 +38,11 @@ The Agency shall take affirmative steps to seek diversity in its workforce at al
 
 Section 1204(c) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, referred to in subsec. (b), is section 1204(c) of Pub. L. 101–73, which is set out as a note under section 1811 of this title.
 
+Section 1441a(r)(4) of this title, referred to in subsec. (b), was repealed by Pub. L. 111–203, title III, §364(b), July 21, 2010, 124 Stat. 1555.
+
 #### Amendments
 
-2008—Pub. L. 110–289, §1116(1), substituted “Minority and women inclusion; diversity requirements” for “Equal opportunity in solicitation of contracts” in section catchline.
+<b>2008</b>—Pub. L. 110–289, §1116(1), substituted “Minority and women inclusion; diversity requirements” for “Equal opportunity in solicitation of contracts” in section catchline.
 
 Subsec. (a). Pub. L. 110–289, §1161(a)(2)(A), which directed amendment of this section by striking out subsec. (a) designation and “In general” in subsec. (a) heading, could not be executed because of the prior amendment by Pub. L. 110–289, §1116(2), (4). See below.
 
@@ -48,11 +50,13 @@ Pub. L. 110–289, §1116(2), (4), added subsec. (a) and redesignated former sub
 
 Subsec. (b). Pub. L. 110–289, §1161(a)(2)(B), which directed the striking out of subsec. (b), was not executed to reflect the probable intent of Congress. The amendment was probably intended to strike out subsec. (b) as it existed prior to being struck out by Pub. L. 110–289, §1116(3). See below.
 
-Pub. L. 110–289, §1116(3), (4), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “Not later than the expiration of the 180-day period beginning on October 28, 1992, each enterprise shall submit to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report describing the actions taken by the enterprise pursuant to subsection (a) of this section.”
+Pub. L. 110–289, §1116(3), (4), added subsec. (b) and struck out former subsec. (b). Prior to amendment, textread as follows: “Not later than the expiration of the 180-day period beginning on October 28, 1992, each enterprise shall submit to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report describing the actions taken by the enterprise pursuant to subsection (a) of this section.”
 
 Subsecs. (c), (d). Pub. L. 110–289, §1116(4), added subsecs. (c) and (d).
 
 Subsec. (e). Pub. L. 110–289, §1116(2), redesignated subsec. (a) as (e) and substituted “Outreach” for “In general” in heading and “Each regulated entity” for “Each enterprise” in text.
 
 Subsec. (f). Pub. L. 110–289, §1116(5), added subsec. (f).
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

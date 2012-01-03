@@ -26,7 +26,7 @@
 
 #### (3) Requirement that property be identified and that exchange be completed not more than 180 days after transfer of exchanged property
 
-&emsp;For purposes of this subsection, any property received by the taxpayer shall be treatedas property which is not like-kind property if—
+&emsp;For purposes of this subsection, any property received by the taxpayer shall be treated as property which is not like-kind property if—
 
 &emsp;&emsp;(A) such property is not identified as property to be received in the exchange on or before the day which is 45 days after the date on which the taxpayer transfers the property relinquished in the exchange, or
 

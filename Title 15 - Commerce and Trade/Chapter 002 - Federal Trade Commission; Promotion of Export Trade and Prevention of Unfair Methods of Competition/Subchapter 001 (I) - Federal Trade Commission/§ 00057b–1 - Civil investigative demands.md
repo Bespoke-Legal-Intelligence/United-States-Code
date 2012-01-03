@@ -86,7 +86,7 @@ For the purpose of investigations performed pursuant to this section with respec
 
 &emsp;(A) delivering a duly executed copy of such demand or petition to the person to be served; or
 
-&emsp;(B) depositing a duly executed copy in the United States mails by registered or certified mail, return receipt requested, duly addressed to such person at his residence or principal office or place of business.
+&emsp;(B) depositing a duly executed copy in the United States mails by registered or certifiedmail, return receipt requested, duly addressed to such person at his residence or principal office or place of business.
 
 (10) A verified return by the individual serving any civil investigative demand or any enforcement petition filed under this section setting forth the manner of such service shall be proof of such service. In the case of service by registered or certified mail, such return shall be accompanied by the return post office receipt of delivery of such demand or enforcement petition.
 
@@ -114,7 +114,7 @@ For the purpose of investigations performed pursuant to this section with respec
 
 (F) The Commission investigator shall certify on the transcript that the witness was duly sworn by him and that the transcript is a true record of the testimony given by the witness, and the Commission investigator shall promptly deliver the transcript or send it by registered or certified mail to the custodian.
 
-(G) The Commission investigator shall furnish a copy of the transcript (upon payment of reasonable charges for the transcription) to the witness only, except that the Commission may for good cause limit such witness to inspection of the official transcript of his testimony.
+(G) The Commission investigator shall furnish a copy of the transcript (upon payment of reasonable charges for the transcription) to thewitness only, except that the Commission may for good cause limit such witness to inspection of the official transcript of his testimony.
 
 (H) Any witness appearing for the taking of oral testimony pursuant to a civil investigative demand shall be entitled to the same fees and mileage which are paid to witnesses in the district courts of the United States.
 

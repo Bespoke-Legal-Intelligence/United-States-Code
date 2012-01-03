@@ -36,7 +36,7 @@ Pars. (4) to (6). Pub. L. 105–26, §2(2)(D), (E), added par. (4) and redesigna
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–26 applicable with respect to all conduct occurring before, on, or after July 3, 1997, and applicable in all administrative and judicial actions pending on or commenced after July 3, 1997, seesection 3 of Pub. L. 105–26, set out as a note under section 37 of this title.
+Amendment by Pub. L. 105–26 applicable with respect to all conduct occurring before, on, or after July 3, 1997,and applicable in all administrative and judicial actions pending on or commenced after July 3, 1997, see section 3 of Pub. L. 105–26, set out as a note under section 37 of this title.
 
 #### Effective Date
 

@@ -28,7 +28,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;(C) an unresolved area of noncompliance.
 
-&emsp;(3) The term “delegate agency” means a public, private nonprofit (including a community-based organization, as defined in section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801)), or for-profit organization or agency to which a grantee has delegated all or part of the responsibility of the grantee for operating a Head Start program.
+&emsp;(3) The term “delegate agency” means a public, private nonprofit (including a community-based organization, as defined in section9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801)), or for-profit organization or agency to which a grantee has delegated all or part of the responsibility of the grantee for operating a Head Start program.
 
 &emsp;(4) The term “family literacy services” means services that are of sufficient intensity in terms of hours, and of sufficient duration, to make sustainable changes in a family, and that integrate all of the following activities:
 
@@ -54,7 +54,7 @@ For purposes of this subchapter:
 
 &emsp;(11) The term “homeless children” has the meaning given the term “homeless children and youths” in section 11434a(2) of this title.
 
-&emsp;(12) The term “Indian tribe” means any tribe, band, nation, pueblo, or other organizedgroup or community of Indians, including any Native village described in section 3(c) of the Alaska Native Claims Settlement Act (43 U.S.C. 1602(c)) or established pursuant to such Act (43 U.S.C. 1601 et seq.), that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
+&emsp;(12) The term “Indian tribe” means any tribe, band, nation, pueblo, or other organized group or community of Indians, including any Native village described in section 3(c) of the Alaska Native Claims Settlement Act (43 U.S.C. 1602(c)) or established pursuant to such Act (43 U.S.C. 1601 et seq.), that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
 
 &emsp;(13) The term “institution of higher education” has the meaning given the term in section 1001(a) of title 20.
 
@@ -168,7 +168,7 @@ For purposes of this subchapter:
 
 &emsp;(24) The term “Secretary” means the Secretary of Health and Human Services.
 
-&emsp;(25) The term “State” means a State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, American Samoa, the Virgin Islands of the United States, and the Commonwealth of the Northern Mariana Islands. The term includes the Republic of Palau for fiscal years 2008 and 2009, and (if the legislation described in section 9835(a)(2)(B)(v) of this title has not been enacted by September 30, 2009) for fiscal years 2010 through 2012.
+&emsp;(25) The term “State” means a State, the Commonwealth of Puerto Rico, the District ofColumbia, Guam, American Samoa, the Virgin Islands of the United States, and the Commonwealth of the Northern Mariana Islands. The term includes the Republic of Palau for fiscal years 2008 and 2009, and (if the legislation described in section 9835(a)(2)(B)(v) of this title has not been enacted by September 30, 2009) for fiscal years 2010 through 2012.
 
 &emsp;(26) The term “unresolved area of noncompliance” means failure to correct a noncompliance item within 120 days, or within such additional time (if any) as is authorized by the Secretary, after receiving from the Secretary notice of such noncompliance item, pursuant to section 9836a(c) of this title.
 
@@ -192,7 +192,7 @@ Par. (3)(C). Pub. L. 110–134, §3(a)(2), inserted “, and financial literacy
 
 Par. (12). Pub. L. 110–134, §3(a)(3), substituted “migrant or seasonal Head Start program” for “migrant and seasonal Head Start program”.
 
-Par. (17). Pub. L. 110–134, §3(a)(4), added par. (17) and struck out former par. (17) which read as follows: “The term ‘State’ means a State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, American Samoa, the Virgin Islands of the United States, and the Commonwealth of the Northern Mariana Islands, butfor fiscal years ending before October 1, 2001 (and fiscal year 2002, if the legislation described in section 9835(a)(2)(B)(iii) of this title has not been enacted before September 30, 2001), also means the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau.”
+Par. (17). Pub. L. 110–134, §3(a)(4), added par. (17) and struck out former par. (17) which read as follows: “The term ‘State’ means a State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, American Samoa, the Virgin Islands of the United States, and the Commonwealth of the Northern Mariana Islands, but for fiscal years ending before October 1, 2001 (and fiscal year 2002, if the legislation described in section 9835(a)(2)(B)(iii) of this title has not been enacted before September 30, 2001), also means the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau.”
 
 Pars. (18) to (26). Pub. L. 110–134, §3(a)(5), added pars. (18) to (26).
 

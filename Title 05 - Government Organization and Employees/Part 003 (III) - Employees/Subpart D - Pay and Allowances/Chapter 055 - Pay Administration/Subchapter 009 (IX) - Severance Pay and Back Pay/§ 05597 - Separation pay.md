@@ -54,7 +54,7 @@
 
 (h)(1)(A) In addition to any other payment that it is required to make under subchapter III of chapter 83 or chapter 84, the Department of Defense shall remit to the Office of Personnel Management an amount equal to 15 percent of the final basic pay of each covered employee.
 
-(B) If the employee is one with respect to whom a remittance would otherwise be requiredunder section 4(a) of the Federal Workforce Restructuring Act of 1994 based on the separation involved, the remittance under this subsection shall be instead of the remittance otherwise required under such section 4(a).
+(B) If the employee is one with respect to whom a remittance would otherwise be required under section 4(a) of the Federal Workforce Restructuring Act of 1994 based on the separation involved, the remittance under this subsection shall be instead of the remittance otherwise required under such section 4(a).
 
 (2) Amounts remitted under paragraph (1) shall be deposited in the Treasury of the United States to the credit of the Civil Service Retirement and Disability Fund.
 
@@ -80,7 +80,7 @@ Section 4(a) of the Federal Workforce Restructuring Act of 1994, referred to in 
 
 #### Amendments
 
-2000—Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1151(a)\], inserted “workforce restructuring (to meet mission needs, achieve one or more strength reductions, correct skill imbalances, or reduce the number of high-grade, managerial, or supervisory positions),” after “transfer of function,”.
+<b>2000</b>—Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1151(a)\], inserted “workforce restructuring (to meet mission needs, achieve one or more strength reductions, correct skill imbalances, or reduce the number of high-grade, managerial, or supervisory positions),” after “transfer of function,”.
 
 Subsec. (c). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1151(b)(2)\], inserted concluding provisions.
 
@@ -94,15 +94,15 @@ Subsec. (g)(1). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1151(d)\], inse
 
 Subsec. (i). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1153(a)\], added subsec. (i).
 
-1999—Subsec. (e). Pub. L. 106–65 substituted “September 30, 2003” for “September 30, 2001”.
+<b>1999</b>—Subsec. (e). Pub. L. 106–65 substituted “September 30, 2003” for “September 30, 2001”.
 
-1997—Subsec. (e). Pub. L. 105–85, §1106(b)(1), substituted “September 30, 2001” for “September 30, 1999”.
+<b>1997</b>—Subsec. (e). Pub. L. 105–85, §1106(b)(1), substituted “September 30, 2001” for “September 30, 1999”.
 
 Subsec. (h). Pub. L. 105–85, §1106(a), added subsec. (h).
 
-1996—Subsec. (g)(5). Pub. L. 104–201 added par. (5).
+<b>1996</b>—Subsec. (g)(5). Pub. L. 104–201 added par. (5).
 
-1994—Subsec. (e). Pub. L. 103–337 substituted “September 30, 1999” for “September 30, 1997”.
+<b>1994</b>—Subsec. (e). Pub. L. 103–337 substituted “September 30, 1999” for “September 30, 1997”.
 
 Subsec. (g). Pub. L. 103–226 added subsec. (g).
 
@@ -146,7 +146,7 @@ Terms and Conditions.—The authority to provide voluntary separation incentive 
 
 &emsp;“(4) (A) subsection (b)(2)(A) of such section shall be applied by substituting ‘eliminated (if any)’ for ‘eliminated’;
 
-&emsp;“(B) subsection (b)(2)(C) of such section shall be applied by substituting ‘such positions or functions as are to be eliminated and such employees as are to be separated’ for ‘the eliminated positions and functions’; and
+&emsp;“(B) subsection (b)(2)(C) of such section shall be applied by substituting ‘such positions or functions asare to be eliminated and such employees as are to be separated’ for ‘the eliminated positions and functions’; and
 
 &emsp;“(C) the agency strategic plan referred to in subsection (b) of such section shall, in addition to the information described in paragraph (2) thereof, contain the following: the steps to be taken to realign the Government Accountability Office's workforce in order to meet budgetary constraints or mission needs, correct skill imbalances, or reduce high-grade, managerial, or supervisory positions;
 
@@ -238,7 +238,7 @@ Sense of Congress.—It is the sense of Congress that the implementation of this
 
 Pub. L. 106–117, title XI, Nov. 30, 1999, 113 Stat. 1595, as amended by Pub. L. 106–419, title II, §207, Nov. 1, 2000, 114 Stat. 1842, known as the “Department of Veterans Affairs Employment Reduction Assistance Act of 1999”, authorized the Secretary of Veterans Affairs to submit a plan to the Director of the Office of Management and Budget for the payment of voluntary separation incentive payments, and upon approval thereof to pay voluntary separation incentive payments to eligible employees of the Department of Veterans Affairs only to the extent necessary to reduce or restructure the positions and functions identified by the plan, provided that the employees separate from service with the Department through Dec. 31, 2002, whether by retirement or resignation, defined “employee” for separation incentive purposes, and provided for additional contributions to the Retirement Fund, effect of subsequent employment with the Federal Government, and effect on agency employment levels.
 
-Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §579\], Nov. 29, 1999, 113 Stat. 1535, 1501A–113, as amended by Pub. L. 106–429, §101(a) \[title V, §584\], Nov. 6, 2000, 114 Stat. 1900, 1900A–56; Pub. L. 107–115, title V, §575, Jan. 10, 2002, 115 Stat. 2168; Pub. L. 108–7, div. E, title V, §571, Feb. 20, 2003, 117 Stat. 208, authorized voluntary separation incentives for employees of the United States Agency for International Development who voluntarily separated (whether by retirement or resignation) on or before Jan. 1, 2003, and defined pertinent terms, provided for the development of an agency strategic plan and the approval of such plan by the Director of the Office of Management and Budget, required additional agency contributions to the Retirement Fund, specified the effect of subsequent employment with the Federal Government, mandated a reduction of agency employment levels, and authorized the Office of Personnel Management to prescribe regulations to implement these provisions.
+Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §579\], Nov. 29, 1999, 113 Stat. 1535, 1501A–113, as amended by Pub. L. 106–429, §101(a) \[title V, §584\], Nov. 6, 2000, 114 Stat. 1900, 1900A–56; Pub. L. 107–115, title V, §575, Jan. 10, 2002, 115 Stat. 2168; Pub. L. 108–7, div. E, title V, §571, Feb. 20, 2003, 117 Stat. 208, authorized voluntary separation incentives for employees of the United States Agency for International Development who voluntarily separated (whether by retirement or resignation) on or before Jan. 1, 2003, and defined pertinent terms, provided forthe development of an agency strategic plan and the approval of such plan by the Director of the Office of Management and Budget, required additional agency contributions to the Retirement Fund, specified the effect of subsequent employment with the Federal Government, mandated a reduction of agency employment levels, and authorized the Office of Personnel Management to prescribe regulations to implement these provisions.
 
 Pub. L. 106–58, title I, §116, Sept. 29, 1999, 113 Stat. 439, authorized the Treasury Inspector General for Tax Administration, during the period from Oct. 1, 1999 through Jan. 1, 2003, to offer voluntary separation incentives in order to provide the necessary flexibility to carry out the plan to establish and reorganize the Office of the Treasury Inspector General for Tax Administration, defined “employee” for separation incentive purposes, and provided for authority to provide separation incentive payments, additional contributions to the Retirement Fund, effect of subsequent employment with the Federal Government, and effect on agency employment levels.
 
@@ -268,7 +268,7 @@ Definitions.—For the purposes of this section—
 
 &emsp;&emsp;“(A) a reemployed annuitant under subchapter III of chapter 83 or chapter 84 of title 5, United States Code, or another retirement system for employees of the agency;
 
-&emsp;&emsp;“(B) an employee having a disability on the basis of which such employee is or would be eligible for disability retirement under subchapter III of chapter 83 or chapter 84 of title 5, United States Code,or another retirement system for employees of the agency;
+&emsp;&emsp;“(B) an employee having a disability on the basis of which such employee is or would be eligible for disability retirement under subchapter III of chapter 83 or chapter 84 of title 5, United States Code, or another retirement system for employees of the agency;
 
 &emsp;&emsp;“(C) an employee who is in receipt of a specific notice of involuntary separation for misconduct or unacceptable performance;
 
@@ -364,7 +364,7 @@ Pub. L. 104–204, title IV, §432, Sept. 26, 1996, 110 Stat. 2931, as amended b
 
 Pub. L. 104–190, §1, Aug. 20, 1996, 110 Stat. 1932, authorized Agency for International Development to provide voluntary separation incentive payments to not more than 100 qualified employees of such agency who voluntarily separated (whether by retirement or resignation) before Feb. 1, 1997, and only to extent necessary to eliminate positions and functions identified by strategic plan to be submitted to Congress outlining intended use of such incentive payments and proposed organizational chart for agency once such incentive payments have been completed, and further provided for definitions, amount and treatment of payments, additional agency contributions to the Retirement Fund, effect of subsequent employment with the Government, and reduction of agency employment levels.
 
-Pub. L. 104–180, title VII, §735, Aug. 6, 1996, 110 Stat. 1604, authorized Department of Agriculture to provide voluntary separation incentive payments to qualified employees to extent necessary to eliminate positions and functions identified by strategic plan to be submitted to Congress outlining intended use of such incentive payments and proposed organizational chart for agency once such incentive payments have been completed, provided that no amount would be payable based on any separation occurring before Aug. 6, 1996, or after Sept. 30, 2000, and further provided for definitions, amount and treatment of payments, additional agency contributions to the Retirement Fund, effect of subsequent employment with the Government, reduction of agency employment levels, and that program would take effect Oct. 1, 1996.
+Pub. L. 104–180, title VII, §735, Aug. 6, 1996, 110 Stat. 1604, authorized Department of Agriculture to providevoluntary separation incentive payments to qualified employees to extent necessary to eliminate positions and functions identified by strategic plan to be submitted to Congress outlining intended use of such incentive payments and proposed organizational chart for agency once such incentive payments have been completed, provided that no amount would be payable based on any separation occurring before Aug. 6, 1996, or after Sept. 30, 2000, and further provided for definitions, amount and treatment of payments, additional agency contributions to the Retirement Fund, effect of subsequent employment with the Government, reduction of agency employment levels, and that program would take effect Oct. 1, 1996.
 
 Pub. L. 104–134, title I, §101(c) \[title III, §339\], Apr. 26, 1996, 110 Stat. 1321–156, 1321–210; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided that, in order to avoid or minimize need for involuntary separations due to reduction in force, reorganization, transfer of function, or other similar action, Secretary of the Smithsonian Institution could pay, or authorize payment of, voluntary separation incentive payments to Smithsonian Institution employees who separated from Federal service voluntarily through Oct. 1, 1996 (whether by retirement or resignation).
 

@@ -62,7 +62,7 @@ Rights of third-party creditors.—
 
 &emsp;&emsp;(A)
 
-Against federal government.—A third-party creditor of the obligor shall nothave any right against the Federal Government with respect to any draw on the line of credit.
+Against federal government.—A third-party creditor of the obligor shall not have any right against the Federal Government with respect to any draw on the line of credit.
 
 &emsp;&emsp;(B)
 
@@ -90,7 +90,7 @@ Terms and conditions.—The Secretary shall establish repayment terms and condit
 
 &emsp;(2)
 
-Timing.—All repayments of principal or interest on a direct loan under this section shall be scheduled to commence not later than 5 years after the end of the period of availability specified in subsection (b)(6) and to conclude, with full repayment of principal and interest, by the date that is 25 years after the end of the period of availability specified in subsection (b)(6).
+Timing.—All repayments of principal or interest on a direct loan under this section shall be scheduled to commence not later than 5 years after the end of the period of availability specified in subsection (b)(6) and to conclude, with full repayment of principal and interest, by the date that is 25 years after theend of the period of availability specified in subsection (b)(6).
 
 (Added Pub. L. 105–178, title I, §1503(a), June 9, 1998, 112 Stat. 247, §184; renumbered §604 and amended Pub. L. 109–59, title I, §§1601(e), 1602(b)(4), (d), Aug. 10, 2005, 119 Stat. 1241, 1247.)
 

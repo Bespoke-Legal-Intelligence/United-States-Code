@@ -40,7 +40,7 @@ Period for Submission of Comments and Applications.—The agency shall provide f
 
 #### Amendments
 
-1992—Pub. L. 102–354 renumbered section 584 of this title as this section.
+<b>1992</b>—Pub. L. 102–354 renumbered section 584 of this title as this section.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “on”.</i>
 

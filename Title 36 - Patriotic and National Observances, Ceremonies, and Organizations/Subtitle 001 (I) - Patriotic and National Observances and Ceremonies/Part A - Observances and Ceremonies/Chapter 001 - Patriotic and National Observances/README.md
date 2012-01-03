@@ -57,7 +57,7 @@
 
 #### Ronald Reagan Centennial Commission
 
-Pub. L. 111–25, June 2, 2009, 123 Stat. 1767, provided that:
+Pub. L. 111–25, June 2, 2009, 123 Stat. 1767, as amended by Pub. L. 112–13, §1, May 12, 2011, 125 Stat. 215, provided that:
 
 #### “SECTION 1. SHORT TITLE.
 
@@ -149,7 +149,7 @@ Detail of Federal Employees.—Upon request of the Commission, the Secretary of 
 
 “(d)
 
-Experts and Consultants.—The Commission may procure such temporary and intermittent servicesas are necessary to enable the Commission to perform its duties.
+Experts and Consultants.—The Commission may procure such temporary and intermittent services as are necessary to enable the Commission to perform its duties.
 
 “(e)
 
@@ -193,7 +193,7 @@ Interim Reports.—The Commission may submit to the President and Congress inter
 
 “(c)
 
-Final Report.—Not later than April 30, 2011, the Commission shall submit a final report to the President and the Congress containing—
+Final Report.—Not later than November 30, 2011, the Commission shall submit a final report to the President and the Congress containing—
 
 &emsp;“(1) a summary of the activities of the Commission;
 
@@ -203,7 +203,7 @@ Final Report.—Not later than April 30, 2011, the Commission shall submit a fin
 
 #### “SEC. 8. TERMINATION.
 
-“The Commission may terminate on such date as the Commission may determine after it submits its final report pursuant to section 7(c), but not later than May 30, 2011.
+“The Commission may terminate on such date as the Commission may determine after it submits its final report pursuant to section 7(c), but not later than December 31, 2011.
 
 #### “SEC. 9. ANNUAL AUDIT.
 
@@ -301,33 +301,9 @@ Pub. L. 106–550, Dec. 19, 2000, 114 Stat. 2745, known as the James Madison Com
 
 Pub. L. 106–173, Feb. 25, 2000, 114 Stat. 14, as amended by Pub. L. 107–20, title II, §2804, July 24, 2001, 115 Stat. 185; Pub. L. 107–68, title II, §209, Nov. 12, 2001, 115 Stat. 588; Pub. L. 107–117, div. B, §917(a), Jan. 10, 2002, 115 Stat. 2324; Pub. L. 108–7, div. H, title I, §1304, Feb. 20, 2003, 117 Stat. 379; Pub. L. 108–59, §1, July 14, 2003, 117 Stat. 860; Pub. L. 111–8, div. G, title I, §1204, Mar. 11, 2009, 123 Stat. 826, known as the Abraham Lincoln Bicentennial Commission Act, established the Abraham Lincoln Bicentennial Commission to plan and carry out various activities to honor the bicentennial anniversary of Lincoln's birth and provided for a final report by the Commission not later than Apr. 30, 2010, and termination of the Commission 120 days after submission of the report.
 
-#### Proc. No. 8522. Armed Forces Day
+#### Proclamation No. 8522
 
-Proc. No. 8522, May 14, 2010, 75 F.R. 28185, provided:
-
-America's Armed Forces represent the very best of our national character. They have answered the call to defend our Nation, and their service and sacrifice humble us all. On Armed Forces Day, we pay tribute to these patriots who risk their lives, sometimes giving their last full measure of devotion, to preserve the vision of our forebears and the freedoms we enjoy.
-
-Our service members carry on the proud traditions of duty and valor that have sustained us from our earliest days of independence. Today, we have the greatest military force in the history of the world because we have the finest personnel in the world. Wherever they are needed, from Iraq and Afghanistan to right here at home, they are serving and protecting our Nation.
-
-We owe our Soldiers, Sailors, Airmen, Marines, and Coast Guardsmen more than our gratitude; we owe them our support. That is why my Administration is committed to ensuring they have the strategy, clear mission, and equipment they need to get the job done, and the resources they deserve when they come home. We are also increasing support for military spouses and families who must deal with the stress and separation of war.
-
-Today, let us raise our flags high to honor the service members who keep us safe, as we reaffirm our commitment to fulfill our duty to them.
-
-NOW, THEREFORE, I, BARACK OBAMA, President of the United States of America, and Commander in Chief of the Armed Forces of the United States, continuing the precedent of my predecessors in office, do hereby proclaim the third Saturday of each May as Armed Forces Day.
-
-I direct the Secretary of Defense on behalf of the Army, Navy, Air Force, Marine Corps, and the Secretary of Homeland Security on behalf of the Coast Guard, to plan for appropriate observances each year, with the Secretary of Defense responsible for soliciting the participation and cooperation of civil authorities and private citizens.
-
-I invite the Governors of the States, the Commonwealth of Puerto Rico, and other areas subject to the jurisdiction of the United States, to provide for the observance of Armed Forces Day within their jurisdiction each year in an appropriate manner designed to increase public understanding and appreciation of the Armed Forces of the United States.
-
-I also invite veterans, civic, and other organizations to join in the observance of Armed Forces Day each year.
-
-Finally, I call upon all Americans to display the flag of the United States at their homes on Armed Forces Day, and I urge citizens to learn more about military service by attending and participating in the local observances of the day. I also encourage Americans to volunteer at organizations that provide support to our troops.
-
-Proclamation 8380 of May 14, 2009, is hereby superseded.
-
-IN WITNESS WHEREOF, I have hereunto set my hand this fourteenth day of May, in the year of our Lord two thousand ten, and of the Independence of the United States of America the two hundred and thirty-fourth.
-
-Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Proc. No. 8522, May 14, 2010, 75 F.R. 28185, which proclaimed the third Saturday of each May as Armed Forces Day, was superseded by Proc. No. 8681, May 20, 2011, 76 F.R. 30497.
 
 Prior similar proclamations were contained in the following:
 
@@ -365,9 +341,45 @@ Pioneered by Native Americans, agriculture was our Nation's first industry. For 
 
 This Thanksgiving season, we celebrate farms of every size that produce fruits, vegetables, dairy, and livestock indispensable to the health of our families. We also recognize the vital ties between our urban and suburban communities and their local farmers through regional food systems, farmers markets, and community gardens. During National Farm-City Week, we celebrate the bounty of America, and we honor the commitment of those who grow, harvest, and deliver agricultural goods to feed our country and grow our economy.
 
-NOW, THEREFORE, I, BARACK OBAMA, President of the United States of America, by virtue of the authority vested in me by the Constitution and the laws of the United States, do hereby proclaim the week ending on Thanksgiving Day of each year as National Farm-City Week. I call on Americans as they gather with their families and friends to reflect on the accomplishments of all who dedicate their lives to promoting our Nation's agricultural abundance and environmental stewardship.
+NOW, THEREFORE, I, BARACK OBAMA, President of the United States of America, by virtue of the authority vested in me by the Constitution and the laws of the United States, do hereby proclaim the week ending on Thanksgiving Day of each year as National Farm-City Week. I call on Americans as they gatherwith their families and friends to reflect on the accomplishments of all who dedicate their lives to promoting our Nation's agricultural abundance and environmental stewardship.
 
 IN WITNESS WHEREOF, I have hereunto set my hand this twentieth day of November, in the year of our Lord two thousand nine, and of the Independence of the United States of America the two hundred and thirty-fourth.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Proc. No. 8641. Cesar Chavez Day
+
+Proc. No. 8641, Mar. 30, 2011, 76 F.R. 18629, provided:
+
+Our Nation's story of progress is rich with profound struggle and great sacrifice, marked by the selfless acts and fearless leadership of remarkable Americans. A true champion for justice, Cesar Chavez advocated for and won many of the rights and benefits we now enjoy, and his spirit lives on in the hands and hearts of working women and men today. As we celebrate the anniversary of his birth, we honor Cesar Chavez's lasting victories for American workers and his noble methods in achieving them.
+
+Raised in the fields of Arizona and California, Cesar Chavez faced hardship and injustice from a young age. At the time, farm workers toiled in the shadows of society, vulnerable to abuse and exploitation. Families like Chavez's were impoverished; exposed to hazardous working conditions and dangerous pesticides; and often denied clean drinking water, toilets, and other basic necessities.
+
+Cesar Chavez saw the need for change and made a courageous choice to work to improve the lives of his fellow farm workers. Through boycotts and fasts, he led others on a path of nonviolence conceived in careful study of the teachings of St. Francis of Assisi and Mahatma Gandhi, and in the powerful example of Martin Luther King, Jr. He became a community organizer and began his lifelong advocacy to protect and empower people. With quiet leadership and a powerful voice, Cesar founded the United Farm Workers (UFW) with Dolores Huerta, launching one of our Nation's most inspiring social movements.
+
+Cesar Chavez's legacy provides lessons from which all Americans can learn. One person can change the course of a nation and improve the lives of countless individuals. Cesar once said, “Non-violence is not inaction. . . . Non-violence is hard work. It is the willingness to sacrifice. It is the patience to win.” From his inspiring accomplishments, we have learned that social justice takes action, selflessness, and commitment. As we face the challenges of our day, let us do so with the hope and determination of Cesar Chavez, echoing the words that were his rallying cry and that continue to inspire so many today, “Si�AE1, se puede”—“Yes, we can.”
+
+NOW, THEREFORE, I, BARACK OBAMA, President of the United States of America, by virtue of the authority vested in me by the Constitution and the laws of the United States, do hereby proclaim March 31 of each year as Cesar Chavez Day. I call upon all Americans to observe this day with appropriate service, community, and educational programs to honor Cesar Chavez's enduring legacy.
+
+IN WITNESS WHEREOF, I have hereunto set my hand this thirtieth day of March, in the year of our Lord two thousand eleven, and of the Independence of the United States of America the two hundred and thirty-fifth.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Proc. No. 8647. World Autism Awareness Day
+
+Proc. No. 8647, Apr. 1, 2011, 76 F.R. 19265, provided:
+
+With autism spectrum disorders (ASDs) affecting nearly one percent of children in the United States, autism is an urgent public health issue with a profound impact on millions of Americans. World Autism Awareness Day is an opportunity to recognize the contributions of individuals with ASDs and rededicate ourselves to the cause of understanding and responding to autism.
+
+Men and women on the autism spectrum have thrived and excelled in communities across America and around the world. Yet, despite great progress in understanding ASDs, challenges remain for these individuals and their loved ones. For too long, the needs of people living with autism and their families have gone without adequate support and understanding. While we continue to encourage the development of resources for children on the autism spectrum and provide necessary resources for their families, we must also remember that young people with ASDs become adults with ASDs who deserve our support, our respect, and the opportunity to realize their highest aspirations.
+
+As our understanding of the autism spectrum grows, my Administration remains dedicated to supporting children and adults impacted by autism. Led by the Department of Health and Human Services, we have expanded investments in autism research, public health tracking, early detection, and services—from early intervention for children to improved long-term services and support programs for adults. My Administration maintains a firm commitment to advance autism research and treatment, as well as promote education, employment, and equality for all individuals with autism, from early childhood through employment and community life. We will continue to work with the Congress, experts, and families to improve Federal and State programs that assist individuals with ASDs and their families and to bolster the impact and reach of community support and services. I encourage all Americans to visit www.HHS.gov/autism for more information and resources on ASDs.
+
+With each breakthrough in research and each innovative treatment, we open endless possibilities for the many American families who have been touched by autism. As we mark World Autism Awareness Day, let us recommit to improving the lives of individuals and families impacted by ASDs and creating a world free from discrimination where all can achieve their fullest potential.
+
+NOW, THEREFORE, I, BARACK OBAMA, President of the United States of America, by virtue of the authority vested in me by the Constitution and the laws of the United States, do hereby proclaim April 2 of each year as World Autism Awareness Day. I call upon the people of the United States to learn more about autism and what they can do to support individuals on the autism spectrum and their families.
+
+IN WITNESS WHEREOF, I have hereunto set my hand this first day of April, in the year of our Lord two thousand eleven, and of the Independence of the United States of America the two hundred and thirty-fifth.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

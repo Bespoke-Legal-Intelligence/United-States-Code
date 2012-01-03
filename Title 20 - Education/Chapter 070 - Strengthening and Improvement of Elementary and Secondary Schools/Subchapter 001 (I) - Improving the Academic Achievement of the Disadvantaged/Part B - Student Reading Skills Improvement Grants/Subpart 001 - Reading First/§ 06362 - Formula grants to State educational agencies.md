@@ -32,7 +32,7 @@
 
 #### (2) State allotments
 
-&emsp;In accordance with paragraph (3), the Secretary shall allot among each of the Statesthe total amount made available to carry out this subpart for any fiscal year and not reserved under paragraph (1).
+&emsp;In accordance with paragraph (3), the Secretary shall allot among each of the States the total amount made available to carry out this subpart for any fiscal year and not reserved under paragraph (1).
 
 #### (3) Determination of State allotment amounts
 
@@ -72,7 +72,7 @@
 
 #### (A) Minimum subgrant amount
 
-&emsp;&emsp;In making subgrants under paragraph (1), a State educational agency shall allocate to each eligible local educational agency that receives such a subgrant, at a minimum, an amount that bears the same relation to the funds made available under subsection (b)(4) of this section as the amount the eligible local educational agency received under part A of this subchapter for the preceding fiscal year bears to the amount all the local educational agencies in the State received under part A of this subchapter for the preceding fiscal year.
+&emsp;&emsp;In making subgrants under paragraph (1), a State educational agency shall allocate toeach eligible local educational agency that receives such a subgrant, at a minimum, an amount that bears the same relation to the funds made available under subsection (b)(4) of this section as the amount the eligible local educational agency received under part A of this subchapter for the preceding fiscal year bears to the amount all the local educational agencies in the State received under part A of this subchapter for the preceding fiscal year.
 
 #### (B) Priority
 
@@ -112,7 +112,7 @@
 
 #### (A) Required uses
 
-&emsp;&emsp;Subject to paragraph (8), an eligible local educational agency that receives a subgrantunder this subsection shall use the funds provided under the subgrant to carry out the following activities:
+&emsp;&emsp;Subject to paragraph (8), an eligible local educational agency that receives a subgrant under this subsection shall use the funds provided under the subgrant to carry out the following activities:
 
 &emsp;&emsp;&emsp;(i) Selecting and administering screening, diagnostic, and classroom-based instructional reading assessments.
 
@@ -256,7 +256,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) Specific identification of those schools and local educational agencies that report the largest gains in reading achievement.
 
-&emsp;&emsp;&emsp;&emsp;(III) The progress the State educational agency and local educational agencies within the State are making in reducing the number of students served under this subpart in grades 1, 2, and 3 who are reading below grade level, asdemonstrated by such information as teacher reports and school evaluations of mastery of the essential components of reading instruction.
+&emsp;&emsp;&emsp;&emsp;(III) The progress the State educational agency and local educational agencies within the State are making in reducing the number of students served under this subpart in grades 1, 2, and 3 who are reading below grade level, as demonstrated by such information as teacher reports and school evaluations of mastery of the essential components of reading instruction.
 
 &emsp;&emsp;&emsp;&emsp;(IV) Evidence on whether the State educational agency and local educational agencies within the State have significantly increased the number of students reading at grade level or above, significantly increased the percentages of students described in section 6311(b)(2)(C)(v)(II) of this title who are reading at grade level or above, and successfully implemented this subpart.
 
@@ -286,7 +286,7 @@
 
 #### (3) Consequences of insufficient progress
 
-&emsp;After submission of the progress report described in paragraph (1), if the Secretary determines that the State educational agency is not making significant progress in meeting the purposes of this subpart, the Secretary may withhold from the State educational agency, in whole or in part, further payments under this section in accordance with section 1234d of this title or take such other action authorized by law as the Secretary determines necessary, including providing technical assistance upon request of the State educational agency.
+&emsp;After submission of the progress report described in paragraph (1), if the Secretary determines that the State educational agency is not making significant progress in meetingthe purposes of this subpart, the Secretary may withhold from the State educational agency, in whole or in part, further payments under this section in accordance with section 1234d of this title or take such other action authorized by law as the Secretary determines necessary, including providing technical assistance upon request of the State educational agency.
 
 #### (f) Funds not used for State level activities
 

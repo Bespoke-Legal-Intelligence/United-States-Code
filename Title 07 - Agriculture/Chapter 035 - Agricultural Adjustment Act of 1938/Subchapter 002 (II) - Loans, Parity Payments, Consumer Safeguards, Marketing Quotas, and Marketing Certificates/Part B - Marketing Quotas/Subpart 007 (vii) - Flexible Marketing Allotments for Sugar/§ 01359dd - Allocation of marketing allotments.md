@@ -62,7 +62,7 @@ Whenever marketing allotments are established for a crop year under section 1359
 
 #### (II) Effect on other allotments
 
-&emsp;&emsp;&emsp;&emsp;The allotment to any new entrant mainland State shall be subtracted, on apro rata basis, from the allotments otherwise allotted to each mainland State under section 1359cc(e)(3) of this title.
+&emsp;&emsp;&emsp;&emsp;The allotment to any new entrant mainland State shall be subtracted, on a pro rata basis, from the allotments otherwise allotted to each mainland State under section 1359cc(e)(3) of this title.
 
 #### (v) Adverse effects
 
@@ -122,7 +122,7 @@ Whenever marketing allotments are established for a crop year under section 1359
 
 &emsp;&emsp;&emsp;&emsp;(II) in the case of a processor that closed a sugar beet processing factory, decreased by 1.25 percent of the total of the adjusted weighted average quantities of beet sugar produced by all processors during the 1998 through 2000 crop years (without consideration of any adjustment under this subparagraph) for each sugar beet processing factory that is closed by the processor;
 
-&emsp;&emsp;&emsp;&emsp;(III) in the case of a processor that constructed a molasses desugarization facility, increased by 0.25 percent of the total of the adjusted weighted averagequantities of beet sugar produced by all processors during the 1998 through 2000 crop years (without consideration of any adjustment under this subparagraph) for each molasses desugarization facility that is constructed by the processor; and
+&emsp;&emsp;&emsp;&emsp;(III) in the case of a processor that constructed a molasses desugarization facility, increased by 0.25 percent of the total of the adjusted weighted average quantities of beet sugar produced by all processors during the 1998 through 2000 crop years (without consideration of any adjustment under this subparagraph) for each molasses desugarization facility that is constructed by the processor; and
 
 &emsp;&emsp;&emsp;&emsp;(IV) in the case of a processor that suffered substantial quality losses on stored sugar beets, increased by 1.25 percent of the total of the adjusted weighted average quantities of beet sugar produced by all processors during the 1998 through 2000 crop years (without consideration of any adjustment under this subparagraph).
 
@@ -190,7 +190,7 @@ Whenever marketing allotments are established for a crop year under section 1359
 
 &emsp;&emsp;&emsp;&emsp;(I) assign an allocation for beet sugar to the new entrant that provides a fair and equitable distribution of the allocations for beet sugar so as to enable the new entrant to achieve a factory utilization rate comparable to the factory utilization rates of other similarly-situated processors; and
 
-&emsp;&emsp;&emsp;&emsp;(II) reduce the allocations for beet sugar of all other processors on a prorata basis to reflect the allocation to the new entrant.
+&emsp;&emsp;&emsp;&emsp;(II) reduce the allocations for beet sugar of all other processors on a pro rata basis to reflect the allocation to the new entrant.
 
 #### (iii) Allocation for a new entrant that has acquired an existing factory with a production history
 
@@ -218,7 +218,7 @@ A prior section 1359dd, act Feb. 16, 1938, ch. 30, title III, §359d, as added P
 
 #### Amendments
 
-2008—Subsec. (b)(1)(F). Pub. L. 110–246, §1403(d)(1), substituted “If” for “Except as otherwise provided in section 1359ff(c)(8) of this title, if”.
+<b>2008</b>—Subsec. (b)(1)(F). Pub. L. 110–246, §1403(d)(1), substituted “If” for “Except as otherwise provided in section 1359ff(c)(8) of this title, if”.
 
 Subsec. (b)(2)(G) to (I). Pub. L. 110–246, §1403(d)(2), added subpars. (G) and (H) and struck out former subpars. (G) to (I) which related to sale of factories of a processor to another processor, new entrants starting production or reopening factories after May 13, 2002, and new entrants acquiring ongoing factories with production history during the period of the 1998 through 2000 crop years.
 

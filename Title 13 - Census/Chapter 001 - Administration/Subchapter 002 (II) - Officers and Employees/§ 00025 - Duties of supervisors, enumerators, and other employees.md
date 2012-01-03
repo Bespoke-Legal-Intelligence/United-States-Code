@@ -18,5 +18,5 @@ Changes were made in phraseology and arrangement.
 
 #### Amendments
 
-1964—Subsec. (c). Pub. L. 88–530 repealed subsec. (c) which related to duties of enumerators in Bureau of the Census.
+<b>1964</b>—Subsec. (c). Pub. L. 88–530 repealed subsec. (c) which related to duties of enumerators in Bureau of the Census.
 

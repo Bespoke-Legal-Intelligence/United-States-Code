@@ -6,9 +6,11 @@ Effective January 1, 2015, it shall be unlawful for any person to introduce into
 
 &emsp;(1) has been used, recovered, and recycled;
 
-&emsp;(2) is used and entirely consumed (except for trace quantities) in the production of other chemicals; or
+&emsp;(2) is used and entirely consumed (except for trace quantities) in the production of other chemicals;
 
-&emsp;(3) is used as a refrigerant in appliances manufactured prior to January 1, 2020.
+&emsp;(3) is used as a refrigerant in appliances manufactured prior to January 1, 2020; or
+
+&emsp;(4) is listed as acceptable for use as a fire suppression agent for nonresidential applications in accordance with section 7671k(c) of this title.
 
 > As used in this subsection, the term “refrigerant” means any class II substance used for heat transfer in a refrigerating system.
 
@@ -32,7 +34,7 @@ By December 31, 1999, the Administrator shall promulgate regulations phasing out
 
 #### (B) Cap on exception
 
-&emsp;&emsp;Under no circumstances may the authority set forth in subparagraph (A) be applied to authorize any person to produce a class IIsubstance in annual quantities greater than 10 percent of that produced by such person during the baseline year.
+&emsp;&emsp;Under no circumstances may the authority set forth in subparagraph (A) be applied to authorize any person to produce a class II substance in annual quantities greater than 10 percent of that produced by such person during the baseline year.
 
 #### (2) Developing countries
 
@@ -48,5 +50,9 @@ By December 31, 1999, the Administrator shall promulgate regulations phasing out
 
 &emsp;&emsp;(iii) Each exception authorized under this paragraph shall terminate no later than January 1, 2040.
 
-(July 14, 1955, ch. 360, title VI, §605, as added Pub. L. 101–549, title VI, §602(a), Nov. 15, 1990, 104 Stat. 2658.)
+(July 14, 1955, ch. 360, title VI, §605, as added Pub. L. 101–549, title VI, §602(a), Nov. 15, 1990, 104 Stat. 2658; amended Pub. L. 112–81, div. A, title III, §320, Dec. 31, 2011, 125 Stat. 1361.)
+
+#### Amendments
+
+<b>2011</b>—Subsec. (a)(4). Pub. L. 112–81 added par. (4).
 

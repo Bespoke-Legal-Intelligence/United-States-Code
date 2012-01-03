@@ -228,7 +228,7 @@
 | [1680s.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous/%C2%A7%2001680s%20-%20Disease%20and%20injury%20prevention%20report.md) | Disease and injury prevention report. |
 | [1680t.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous/%C2%A7%2001680t%20-%20Other%20GAO%20reports.md) | Other GAO reports. |
 | [1680u.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous/%C2%A7%2001680u%20-%20Traditional%20health%20care%20practices.md) | Traditional health care practices. |
-| [1680v.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous/%C2%A7%2001680v%20-%20Director%20of%20HIV-AIDS%20prevention%20and%20treatment.md) | Director of HIV/AIDS prevention and treatment. |
+| [1680v.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous/%C2%A7%2001680v%20-%20Director%20of%20HIV-AIDS%20Prevention%20and%20Treatment.md) | Director of HIV/AIDS Prevention and Treatment. |
 | [1681\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous/%C2%A7%2001681%20-%20Omitted.md) | Omitted. |
 | [1682\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous/%C2%A7%2001682%20-%20Subrogation%20of%20claims%20by%20Indian%20Health%20Service.md) | Subrogation of claims by Indian Health Service. |
 | [1683\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous/%C2%A7%2001683%20-%20Indian%20Catastrophic%20Health%20Emergency%20Fund.md) | Indian Catastrophic Health Emergency Fund. |

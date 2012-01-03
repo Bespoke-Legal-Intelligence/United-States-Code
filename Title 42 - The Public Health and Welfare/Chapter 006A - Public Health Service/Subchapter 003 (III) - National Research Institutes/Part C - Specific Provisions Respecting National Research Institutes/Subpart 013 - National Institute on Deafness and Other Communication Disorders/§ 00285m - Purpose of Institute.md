@@ -40,7 +40,7 @@ Section 3 of Pub. L. 100–553 provided that:
 
 “(a)
 
-Transfer of Personnel, Assets, and Liabilities.—Personnel employed by the National Institutes of Health in connection with the functions vested under section 2 \[enacting this subpart and amending sections 281 and 285j of this title\] in the Director of the National Institute on Deafness and Other Communication Disorders, and assets, property, contracts, liabilities, records, unexpended balances of appropriations, authorizations, allocations, and other funds of the National Institutes of Health, arising from or employed, held, used, available to, or to be made available, in connection with such functions shall be transferred to the Director for appropriate allocation. Unexpended funds transferred under this subsection shall be used only for the purposes for which the funds were originally authorized and appropriated.
+Transfer of Personnel, Assets, and Liabilities.—Personnel employed by the National Institutes of Health in connection with the functions vested under section 2 \[enacting this subpart and amending sections 281 and 285j of this title\] in the Director of the National Institute on Deafness and Other Communication Disorders, and assets, property, contracts, liabilities, records, unexpended balances of appropriations, authorizations, allocations, and other funds of the National Institutes of Health, arising from or employed,held, used, available to, or to be made available, in connection with such functions shall be transferred to the Director for appropriate allocation. Unexpended funds transferred under this subsection shall be used only for the purposes for which the funds were originally authorized and appropriated.
 
 “(b)
 

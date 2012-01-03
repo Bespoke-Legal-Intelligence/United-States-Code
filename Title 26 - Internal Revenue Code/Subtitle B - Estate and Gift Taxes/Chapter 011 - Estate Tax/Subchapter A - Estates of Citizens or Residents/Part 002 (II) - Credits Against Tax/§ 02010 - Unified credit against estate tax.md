@@ -70,6 +70,10 @@ The amount of the credit allowed by subsection (a) shall not exceed the amount o
 
 (Added Pub. L. 94–455, title XX, §2001(a)(2), Oct. 4, 1976, 90 Stat. 1848; amended Pub. L. 97–34, title IV, §401(a)(1), (2)(A), Aug. 13, 1981, 95 Stat. 299; Pub. L. 101–508, title XI, §11801(a)(39), (c)(19)(A), Nov. 5, 1990, 104 Stat. 1388–521, 1388–528; Pub. L. 105–34, title V, §501(a)(1)(A), (B), Aug. 5, 1997, 111 Stat. 845; Pub. L. 107–16, title V, §521(a), June 7, 2001, 115 Stat. 71; Pub. L. 111–312, title III, §§302(a)(1), 303(a), Dec. 17, 2010, 124 Stat. 3301, 3302.)
 
+#### Inflation Adjusted Items for Certain Years
+
+<i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
+
 #### Amendment of Section
 
 <i>For termination of amendment by section 304 of Pub. L. 111–312, see Effective and Termination Dates of 2010 Amendment note below.</i>
@@ -84,7 +88,7 @@ Section 2521 of this title, referred to in subsec. (b), was repealed by section 
 
 #### Amendments
 
-<b>2010</b>—Subsec. (c). Pub. L. 111–312, §§302(a)(1), 304, temporarily amended subsec. (c) generally, substituting pars. (1) and (2) for text which provided that the applicable credit amount for purposes of this section was the amount of the tentative tax which would be determined under the rate schedule set forth in section 2001(c) if the amount with respect to which such tentative tax was to be computed were the applicable exclusion amount determined in accordance with the table, covering years 2002 to 2009, included in that text. See Effective and Termination Dates of 2010 Amendment note below.
+<b>2010</b>—Subsec. (c). Pub. L. 111–312, §§302(a)(1), 304, temporarily amended subsec. (c) generally, substituting pars. (1) and (2) for text which provided that the applicable credit amount for purposes of this section was the amount of the tentative tax which would be determined under the rate schedule set forth in section 2001(c) if the amount with respect to which such tentative tax was to be computed were the applicable exclusionamount determined in accordance with the table, covering years 2002 to 2009, included in that text. See Effective and Termination Dates of 2010 Amendment note below.
 
 Subsec. (c)(2) to (6). Pub. L. 111–312, §§303(a), 304, temporarily added pars. (2) to (6) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows:
 

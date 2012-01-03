@@ -34,7 +34,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Par. (12). Pub. L. 110–246, §1507(c), added par. (12) and struck out former par. (12) which read as follows: “the term ‘United States’ means the several States and the territories and possessions of the United States, except that for purposes of sections 4532, 4534(a), and 4537 of this title, and paragraph (7) of this section, such term means the forty-eight contiguous States in the continental United States.”
+<b>2008</b>—Par. (12). Pub. L. 110–246, §1507(c), added par. (12) and struck out former par. (12) which read as follows: “the term ‘United States’ means the several States and the territories and possessions of the United States, except that for purposes of sections 4532, 4534(a), and 4537 of this title, and paragraph (7) of this section, such term means the forty-eight contiguous States in the continental United States.”
 
 #### Effective Date of 2008 Amendment
 

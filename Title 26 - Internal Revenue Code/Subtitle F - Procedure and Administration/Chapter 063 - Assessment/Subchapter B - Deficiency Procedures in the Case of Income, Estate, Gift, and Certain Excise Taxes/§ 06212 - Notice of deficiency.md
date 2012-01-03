@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-If the Secretary determines that there is a deficiency in respect of any tax imposed by subtitles A or B or chapter 41, 42, 43, or 44 he is authorized to send notice of such deficiency to the taxpayer by certified mail or registered mail. Such notice shall include a notice to the taxpayer of the taxpayer's right to contact a localoffice of the taxpayer advocate and the location and phone number of the appropriate office.
+If the Secretary determines that there is a deficiency in respect of any tax imposed by subtitles A or B or chapter 41, 42, 43, or 44 he is authorized to send notice of such deficiency to the taxpayer by certified mail or registered mail. Such notice shall include a notice to the taxpayer of the taxpayer's right to contact a local office of the taxpayer advocate and the location and phone number of the appropriate office.
 
 #### (b) Address for notice of deficiency
 
@@ -38,7 +38,7 @@ If the Secretary determines that there is a deficiency in respect of any tax imp
 
 #### (d) Authority to rescind notice of deficiency with taxpayer's consent
 
-The Secretary may, with the consent of the taxpayer, rescind any notice of deficiency mailed to the taxpayer. Any notice so rescinded shall not be treated as a notice of deficiency for purposes of subsection (c)(1) (relating to further deficiency letters restricted), section 6213(a) (relating to restrictions applicable to deficiencies; petition to Tax Court), and section 6512(a) (relating to limitations in case of petition to Tax Court), and the taxpayer shall have no right to file a petition with the Tax Court based on such notice. Nothing in this subsection shall affect any suspension of the running of any period of limitations during any period during which the rescinded notice was outstanding.
+The Secretary may, with the consent of the taxpayer, rescind any notice of deficiency mailed to the taxpayer. Any notice so rescinded shall not be treated as a notice of deficiency forpurposes of subsection (c)(1) (relating to further deficiency letters restricted), section 6213(a) (relating to restrictions applicable to deficiencies; petition to Tax Court), and section 6512(a) (relating to limitations in case of petition to Tax Court), and the taxpayer shall have no right to file a petition with the Tax Court based on such notice. Nothing in this subsection shall affect any suspension of the running of any period of limitations during any period during which the rescinded notice was outstanding.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 770; Pub. L. 85–866, title I, §§76, 89(b), Sept. 2, 1958, 72 Stat. 1661, 1665; Pub. L. 88–272, title I, §112(d)(1), Feb. 26, 1964, 78 Stat. 24; Pub. L. 91–172, title I, §101(f)(2), (j)(40), (41), Dec. 30, 1969, 83 Stat. 524, 530; Pub. L. 91–614, title I, §102(d)(5), Dec. 31, 1970, 84 Stat. 1842; Pub. L. 93–406, title II, §1016(a)(10), Sept. 2, 1974, 88 Stat. 930; Pub. L. 94–455, title II, §214(b), title XII, §§1204(c)(5), 1206(c)(3), title XIII, §1307(d)(2)(F)(ii), (G), title XVI, §1605(b)(5), title XIX, §§1901(b)(31)(C), (37)(C), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1549, 1698, 1704, 1728, 1754, 1800, 1803, 1834; Pub. L. 95–30, title I, §101(d)(15), May 23, 1977, 91 Stat. 134; Pub. L. 95–600, title IV, §405(c)(5), title VII, §701(t)(3)(C), Nov. 6, 1978, 92 Stat. 2871, 2912; Pub. L. 96–223, title I, §101(f)(1)(C), (4), (5), Apr. 2, 1980, 94 Stat. 252, 253; Pub. L. 96–589, §6(d)(2), Dec. 24, 1980, 94 Stat. 3408; Pub. L. 97–34, title IV, §442(d)(4), Aug. 13, 1981, 95 Stat. 323; Pub. L. 99–514, title I, §104(b)(17), title XV, §1562(a), Oct. 22, 1986, 100 Stat. 2106, 2761; Pub. L. 100–203, title X, §10713(b)(2)(C), Dec. 22, 1987, 101 Stat. 1330–470; Pub. L. 100–418, title I, §1941(b)(2)(B)(iii), (E), (F), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 100–647, title I, §1015(m), Nov. 10, 1988, 102 Stat. 3572; Pub. L. 105–34, title III, §312(d)(12), Aug. 5, 1997, 111 Stat. 840; Pub. L. 105–206, title I, §1102(b), July 22, 1998, 112 Stat. 703.)
 
@@ -50,7 +50,7 @@ The Secretary may, with the consent of the taxpayer, rescind any notice of defic
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–418, §1941(b)(2)(B)(iii), substituted “or 44” for “44, or 45”.
 
-Subsec. (b)(1). Pub. L. 100–418, §1941(b)(2)(E), substituted “or chapter 44” for “chapter 44, or chapter 45”and “chapter 44, and this chapter” for “chapter 44, chapter 45, and this chapter”.
+Subsec. (b)(1). Pub. L. 100–418, §1941(b)(2)(E), substituted “or chapter 44” for “chapter 44, or chapter 45” and “chapter 44, and this chapter” for “chapter 44, chapter 45, and this chapter”.
 
 Subsec. (c)(1). Pub. L. 100–418, §1941(b)(2)(F), substituted “or of chapter 42 tax” for “of chapter 42 tax” and struck out “, or of chapter 45 tax for the same taxable period” after “such petition relates”.
 
@@ -146,7 +146,7 @@ Amendment by section 701(t)(3)(C) of Pub. L. 95–600 effective Oct. 4, 1976, se
 
 #### Effective Date of 1977 Amendment
 
-Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31, 1976, see section 106(a) ofPub. L. 95–30, set out as a note under section 1 of this title.
+Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31, 1976, see section 106(a) of Pub. L. 95–30, set out as a note under section 1 of this title.
 
 #### Effective Date of 1976 Amendment
 
@@ -192,5 +192,5 @@ Pub. L. 105–206, title III, §3463(a), July 22, 1998, 112 Stat. 767, provided 
 
 #### Explanations of Appeals and Collection Process
 
-Pub. L. 105–206, title III, §3504, July 22, 1998, 112 Stat. 771, provided that: “The Secretary of the Treasury or the Secretary's delegate shall, as soon as practicable, but not later than 180 days after the date of the enactment of this Act \[July 22, 1998\], include with any first letter of proposed deficiency which allows the taxpayer an opportunity for administrative review in the Internal Revenue Service Office of Appeals an explanation of the entire process from examination through collection with respect to such proposed deficiency, including the assistance available to the taxpayer from the National Taxpayer Advocate at various points in the process.”
+Pub. L. 105–206, title III, §3504, July 22, 1998, 112 Stat. 771, provided that: “The Secretary of the Treasury or the Secretary's delegate shall, as soon as practicable, but not later than 180 days after the date of the enactment of this Act \[July 22, 1998\], include with any firstletter of proposed deficiency which allows the taxpayer an opportunity for administrative review in the Internal Revenue Service Office of Appeals an explanation of the entire process from examination through collection with respect to such proposed deficiency, including the assistance available to the taxpayer from the National Taxpayer Advocate at various points in the process.”
 

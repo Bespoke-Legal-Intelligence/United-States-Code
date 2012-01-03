@@ -10,7 +10,7 @@ The provisions of subsections (a) and (b) of section 60j of this title (as amend
 
 #### Amendments
 
-1996—Pub. L. 104–186 struck out “(a)” before “The provisions” and substituted “Chief Administrative Officer” for “Clerk” in two places.
+<b>1996</b>—Pub. L. 104–186 struck out “(a)” before “The provisions” and substituted “Chief Administrative Officer” for “Clerk” in two places.
 
 #### Transfer of Functions
 

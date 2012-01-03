@@ -54,7 +54,7 @@ Section 1371, Pub. L. 88–210, title I, §181, as added Pub. L. 90–576, title
 
 Section 1372, Pub. L. 88–210, title I, §182, as added Pub. L. 90–576, title I, §101(b), Oct. 16, 1968, 82 Stat. 1088, set forth requirements of State plan for participation in student work-study program funding.
 
-Section 1373, Pub. L. 88–210, title I, §183, as added Pub. L. 90–576, title I, §101(b), Oct. 16, 1968, 82 Stat. 1089; amended Pub. L. 91–230, title VII, §706(b), Apr. 13, 1970, 84 Stat. 189, authorized manner of payments for State work-study programs for vocational education students.
+Section 1373, Pub. L. 88–210, title I, §183, as added Pub. L. 90–576, title I, §101(b), Oct. 16, 1968, 82 Stat. 1089; amended Pub. L. 91–230, title VII, §706(b), Apr. 13, 1970, 84 Stat. 189, authorized manner of payments for Statework-study programs for vocational education students.
 
 Section 1374, Pub. L. 88–210, title I, §184, as added Pub. L. 90–576, title I, §101(b), Oct. 16, 1968, 82 Stat. 1090, set forth status of participants in work-study programs.
 

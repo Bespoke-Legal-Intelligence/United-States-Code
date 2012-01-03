@@ -44,7 +44,7 @@ For purposes of this part—
 
 &emsp;&emsp;(C) any regular interest in another REMIC transferred to the REMIC on the startup day in exchange for regular or residual interests in the REMIC.
 
-> &emsp;For purposes of subparagraph (A), any obligation secured by stock held by a person as atenant-stockholder (as defined in section 216) in a cooperative housing corporation (as so defined) shall be treated as secured by an interest in real property. For purposes of subparagraph (A), any obligation originated by the United States or any State (or any political subdivision, agency, or instrumentality of the United States or any State) shall be treated as principally secured by an interest in real property if more than 50 percent of such obligations which are transferred to, or purchased by, the REMIC are principally secured by an interest in real property (determined without regard to this sentence).
+> &emsp;For purposes of subparagraph (A), any obligation secured by stock held by a person as a tenant-stockholder (as defined in section 216) in a cooperative housing corporation (as so defined) shall be treated as secured by an interest in real property. For purposes of subparagraph (A), any obligation originated by the United States or any State (or any political subdivision, agency, or instrumentality of the United States or any State) shall be treated as principally secured by an interest in real property if more than 50 percent of such obligations which are transferred to, or purchased by, the REMIC are principally secured by an interest in real property (determined without regard to this sentence).
 
 #### (4) Qualified replacement mortgage
 
@@ -182,7 +182,7 @@ Subsec. (a)(3)(A)(iii). Pub. L. 108–357, §835(b)(8)(A), added cl. (iii).
 
 Subsec. (a)(3)(B) to (D). Pub. L. 108–357, §835(b)(6), inserted “and” at end of subpar. (B), substituted period for “, and” at end of subpar. (C), and struck out subpar. (D) which read as follows: “any regular interest in a FASIT which is transferred to, or purchased by, the REMIC as described in clauses (i) and (ii) of subparagraph (A) but only if 95 percent or more of the value of the assets of such FASIT is at all times attributable to obligations described in subparagraph (A) (without regard to such clauses).”
 
-Subsec. (a)(7)(B). Pub. L. 108–357, §835(b)(8)(B), reenacted heading without change and amended text of subpar. (B) generally. Prior to amendment, text read as follows: “For purposes of subparagraph (A), the term ‘qualified reserve fund’ means any reasonably required reserve to provide for full payment of expenses of the REMIC or amounts due on regular interests in theevent of defaults on qualified mortgages or lower than expected returns on cash flow investments. The amount of any such reserve shall be promptly and appropriately reduced as payments of qualified mortgages are received.”
+Subsec. (a)(7)(B). Pub. L. 108–357, §835(b)(8)(B), reenacted heading without change and amended text of subpar. (B) generally. Prior to amendment, text read as follows: “For purposes of subparagraph (A), the term ‘qualified reserve fund’ means any reasonably required reserve to provide for full payment of expenses of the REMIC or amounts due on regular interests in the event of defaults on qualified mortgages or lower than expected returns on cash flow investments. The amount of any such reserve shall be promptly and appropriately reduced as payments of qualified mortgages are received.”
 
 <b>1996</b>—Subsec. (a)(3)(D). Pub. L. 104–188 added subpar. (D).
 

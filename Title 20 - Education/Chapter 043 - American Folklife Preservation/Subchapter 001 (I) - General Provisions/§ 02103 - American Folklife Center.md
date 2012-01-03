@@ -32,7 +32,7 @@ There is hereby established in the Library of Congress an American Folklife Cent
 
 (2) In making appointments from private life under paragraph (1)(B) and (C), the President pro tempore of the Senate, the Speaker of the House of Representatives, and the Librarian of Congress shall give due consideration to the appointment of individuals who collectively will provide appropriate diversity and regional balance on the Board. Not more than three of the members appointed by the President pro tempore of the Senate or by the Speaker of the House of Representatives may be affiliated with the same political party.
 
-(3) In making appointments under paragraph (1)(C), the Librarian of Congress shall include atleast two members who direct or are members of the boards of major American folklife organizations other than the American Folklore Society and the Society for Ethnomusicology.
+(3) In making appointments under paragraph (1)(C), the Librarian of Congress shall include at least two members who direct or are members of the boards of major American folklife organizations other than the American Folklore Society and the Society for Ethnomusicology.
 
 #### (c) Term of office
 

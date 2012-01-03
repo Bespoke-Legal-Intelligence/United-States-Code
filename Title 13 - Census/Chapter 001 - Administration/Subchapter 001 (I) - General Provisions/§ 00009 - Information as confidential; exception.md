@@ -38,13 +38,13 @@ Section 2(f) of the Census of Agriculture Act of 1997, referred to in subsec. (a
 
 #### Amendments
 
-1997—Subsec. (a). Pub. L. 105–119, which directed the substitution, in introductory provisions, of “of this title or section 210 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1998—” for “of this title—”, was executed by substituting “of this title or section 210 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1998” for “of this title” to reflect the probable intent of Congress and the amendment by Pub. L. 105–113. See below.
+<b>1997</b>—Subsec. (a). Pub. L. 105–119, which directed the substitution, in introductory provisions, of “of this title or section 210 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1998—” for “of this title—”, was executed by substituting “of this title or section 210 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1998” for “of this title” to reflect the probable intent of Congress and the amendment by Pub. L. 105–113. See below.
 
 Pub. L. 105–113 inserted “or section 2(f) of the Census of Agriculture Act of 1997” after “chapter 10 of this title”.
 
-1994—Subsec. (a). Pub. L. 103–430 inserted “or local government census liaison,” after “thereof,” and “or 16” after “section 8”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–430 inserted “or local government census liaison,” after “thereof,” and “or 16” after “section 8”.
 
-1990—Subsec. (a). Pub. L. 101–533 inserted “or chapter 10” after “section 8”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–533 inserted “or chapter 10” after “section 8”.
 
-1962—Subsec. (a). Pub. L. 87–813 inserted sentences stating that no department, bureau, agency, officer, or employee of the Government, except the Secretary in carrying out the purposes of this title, shall require, for any reason, copies of census reports which have been retained by any such establishment or individual, and providing that copies of census reports which have been so retained shall be immune from legal process, and shall not, without the consent of the individual or establishment, be admitted as evidence or used for any purpose in any action, suit or other judicial or administrative proceeding.
+<b>1962</b>—Subsec. (a). Pub. L. 87–813 inserted sentences stating that no department, bureau, agency, officer, or employee of the Government, except the Secretary in carrying out the purposes of this title, shall require, for any reason, copies of census reports which have been retained by any such establishment or individual, and providing that copies of census reports which have been so retained shall be immune from legal process, and shall not, without the consent of the individual or establishment, be admitted as evidence or used for any purpose in any action, suit or other judicial or administrative proceeding.
 

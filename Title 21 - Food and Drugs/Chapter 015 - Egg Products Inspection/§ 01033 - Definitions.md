@@ -48,7 +48,7 @@ For purposes of this chapter—
 
 (3) The term “dirty egg” means an egg that has a shell that is unbroken and has adhering dirt or foreign material.
 
-(4) The term “incubator reject” means an egg that has been subjected to incubation and hasbeen removed from incubation during the hatching operations as infertile or otherwise unhatchable.
+(4) The term “incubator reject” means an egg that has been subjected to incubation and has been removed from incubation during the hatching operations as infertile or otherwise unhatchable.
 
 (5) The term “inedible” means eggs of the following descriptions: black rots, yellow rots, white rots, mixed rots (addled eggs), sour eggs, eggs with green whites, eggs with stuck yolks, moldy eggs, musty eggs, eggs showing blood rings, and eggs containing embryo chicks (at or beyond the blood ring stage).
 
@@ -112,7 +112,7 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (i) and (u), i
 
 The effective date of this chapter, referred to in subsec. (r), means the effective date of Pub. L. 91–597. For such effective date, see Effective Date note set out under section 1031 of this title.
 
-The Agricultural Marketing Act of 1946, referred to in subsec. (r), is title II of act Aug. 14, 1946, ch. 966, 60 Stat. 1087, which is classified generally to chapter 38 (§1621 et seq.) of Title 7, Agriculture. For completeclassification of this Act to the Code, see Short Title note set out under section 1621 of Title 7 and Tables.
+The Agricultural Marketing Act of 1946, referred to in subsec. (r), is title II of act Aug. 14, 1946, ch. 966, 60 Stat. 1087, which is classified generally to chapter 38 (§1621 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1621 of Title 7 and Tables.
 
 #### Amendments
 

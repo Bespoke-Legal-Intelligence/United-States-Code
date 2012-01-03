@@ -9,7 +9,7 @@
 | [4103\.](%C2%A7%2004103%20-%20Directors%20and%20Assistant%20Directors%20for%20Veterans%E2%80%99%20Employment%20and%20Training%3B%20additional%20Federal%20personnel.md) | Directors and Assistant Directors for Veterans’ Employment and Training; additional Federal personnel. |
 | [4103A.](%C2%A7%2004103A%20-%20Disabled%20veterans%E2%80%99%20outreach%20program.md) | Disabled veterans’ outreach program. |
 | [4104\.](%C2%A7%2004104%20-%20Local%20veterans%E2%80%99%20employment%20representatives.md) | Local veterans’ employment representatives. |
-| \[4104A. | Repealed.\] |
+| [4104A.](%C2%A7%2004104A%20-%20Collaborative%20veterans%E2%80%99%20training%2C%20mentoring%2C%20and%20placement%20program.md) | Collaborative veterans’ training, mentoring, and placement program. |
 | [4105\.](%C2%A7%2004105%20-%20Cooperation%20of%20Federal%20agencies.md) | Cooperation of Federal agencies. |
 | [4106\.](%C2%A7%2004106%20-%20Estimate%20of%20funds%20for%20administration%3B%20authorization%20of%20appropriations.md) | Estimate of funds for administration; authorization of appropriations. |
 | [4107\.](%C2%A7%2004107%20-%20Administrative%20controls%3B%20annual%20report.md) | Administrative controls; annual report. |
@@ -20,12 +20,14 @@
 | [4110B.](%C2%A7%2004110B%20-%20Coordination%20and%20nonduplication.md) | Coordination and nonduplication. |
 | \[4111. | Repealed.\] |
 | [4112\.](%C2%A7%2004112%20-%20Performance%20incentive%20awards%20for%20quality%20employment%2C%20training%2C%20and%20placement%20services.md) | Performance incentive awards for quality employment, training, and placement services. |
-| [4113\.](%C2%A7%2004113%20-%20Outstationing%20of%20Transition%20Assistance%20Program%20personnel.md) | Outstationing of Transition Assistance Program personnel. |
+| [4113\.](%C2%A7%2004113%20-%20Transition%20Assistance%20Program%20personnel.md) | Transition Assistance Program personnel. |
 | [4114\.](%C2%A7%2004114%20-%20Credentialing%20and%20licensure%20of%20veterans%20demonstration%20project.md) | Credentialing and licensure of veterans: demonstration project. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2011</b>—Pub. L. 112–56, title II, §§223(a)(2), 234(c), Nov. 21, 2011, 125 Stat. 718, 722, added item 4104A and substituted “Transition Assistance Program personnel” for “Outstationing of Transition Assistance Program personnel” in item 4113.
 
 <b>2006</b>—Pub. L. 109–461, title VI, §604(a)(2), Dec. 22, 2006, 120 Stat. 3439, added item 4114.
 
@@ -71,7 +73,7 @@ Pub. L. 102–16, §8(b), Mar. 22, 1991, 105 Stat. 53, substituted “Advisory C
 - [&sect; 04103 - Directors and Assistant Directors for Veterans&#8217; Employment and Training; additional Federal personnel](%C2%A7%2004103%20-%20Directors%20and%20Assistant%20Directors%20for%20Veterans%E2%80%99%20Employment%20and%20Training%3B%20additional%20Federal%20personnel.md)
 - [&sect; 04103A - Disabled veterans&#8217; outreach program](%C2%A7%2004103A%20-%20Disabled%20veterans%E2%80%99%20outreach%20program.md)
 - [&sect; 04104 - Local veterans&#8217; employment representatives](%C2%A7%2004104%20-%20Local%20veterans%E2%80%99%20employment%20representatives.md)
-- [&sect; 04104A - Repealed. Pub. L. 107&#8211;288, &sect;4(a)(3)(A)(i), Nov. 7, 2002, 116 Stat. 2042](%C2%A7%2004104A%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93288%2C%20%C2%A74%28a%29%283%29%28A%29%28i%29%2C%20Nov.%207%2C%202002%2C%20116%20Stat.%202042.md)
+- [&sect; 04104A - Collaborative veterans&#8217; training, mentoring, and placement program](%C2%A7%2004104A%20-%20Collaborative%20veterans%E2%80%99%20training%2C%20mentoring%2C%20and%20placement%20program.md)
 - [&sect; 04105 - Cooperation of Federal agencies](%C2%A7%2004105%20-%20Cooperation%20of%20Federal%20agencies.md)
 - [&sect; 04106 - Estimate of funds for administration; authorization of appropriations](%C2%A7%2004106%20-%20Estimate%20of%20funds%20for%20administration%3B%20authorization%20of%20appropriations.md)
 - [&sect; 04107 - Administrative controls; annual report](%C2%A7%2004107%20-%20Administrative%20controls%3B%20annual%20report.md)
@@ -82,5 +84,5 @@ Pub. L. 102–16, §8(b), Mar. 22, 1991, 105 Stat. 53, substituted “Advisory C
 - [&sect; 04110B - Coordination and nonduplication](%C2%A7%2004110B%20-%20Coordination%20and%20nonduplication.md)
 - [&sect; 04111 - Repealed. Pub. L. 107&#8211;95, &sect;5(e)(3), Dec. 21, 2001, 115 Stat. 918](%C2%A7%2004111%20-%20Repealed.%20Pub.%20L.%20107%E2%80%9395%2C%20%C2%A75%28e%29%283%29%2C%20Dec.%2021%2C%202001%2C%20115%20Stat.%20918.md)
 - [&sect; 04112 - Performance incentive awards for quality employment, training, and placement services](%C2%A7%2004112%20-%20Performance%20incentive%20awards%20for%20quality%20employment%2C%20training%2C%20and%20placement%20services.md)
-- [&sect; 04113 - Outstationing of Transition Assistance Program personnel](%C2%A7%2004113%20-%20Outstationing%20of%20Transition%20Assistance%20Program%20personnel.md)
+- [&sect; 04113 - Transition Assistance Program personnel](%C2%A7%2004113%20-%20Transition%20Assistance%20Program%20personnel.md)
 - [&sect; 04114 - Credentialing and licensure of veterans demonstration project](%C2%A7%2004114%20-%20Credentialing%20and%20licensure%20of%20veterans%20demonstration%20project.md)

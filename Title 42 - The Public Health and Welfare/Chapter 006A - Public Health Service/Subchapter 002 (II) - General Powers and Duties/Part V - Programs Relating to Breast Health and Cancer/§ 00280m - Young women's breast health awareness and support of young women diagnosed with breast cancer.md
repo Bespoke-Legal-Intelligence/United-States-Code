@@ -32,7 +32,7 @@
 
 #### (B) Membership
 
-&emsp;&emsp;The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall appoint to the advisory committee under subparagraph (A) such members as deemed necessary to properly advise the Secretary, and shall include organizations and individuals with expertise in breast cancer, disease prevention, early detection, diagnosis, public health, social marketing, genetic screening and counseling,treatment, rehabilitation, palliative care, and survivorship in young women.
+&emsp;&emsp;The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall appoint to the advisory committee under subparagraph (A) such members as deemed necessary to properly advise the Secretary, and shall include organizations and individuals with expertise in breast cancer, disease prevention, early detection, diagnosis, public health, social marketing, genetic screening and counseling, treatment, rehabilitation, palliative care, and survivorship in young women.
 
 #### (b) Health care professional education campaign
 
@@ -62,7 +62,7 @@ The Secretary, acting through—
 
 &emsp;&emsp;(C) testing and evaluating existing and new social marketing strategies targeted at young women; and
 
-&emsp;&emsp;(D) surveys of health care providers and the public regarding knowledge, attitudes, and practices related to breast health and breast cancer prevention and control in high-risk populations; and
+&emsp;&emsp;(D) surveys of health care providers and the public regarding knowledge, attitudes, and practices related to breast health andbreast cancer prevention and control in high-risk populations; and
 
 &emsp;(2) the Director of the National Institutes of Health, shall conduct research to develop and validate new screening tests and methods for prevention and early detection of breast cancer in young women.
 

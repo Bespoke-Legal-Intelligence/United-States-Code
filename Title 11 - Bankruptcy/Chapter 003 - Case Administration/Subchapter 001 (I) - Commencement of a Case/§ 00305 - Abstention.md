@@ -16,7 +16,7 @@
 
 #### Historical and Revision Notes
 
-I74senate report no. 95–989
+#### senate report no. 95–989
 
 A principle of the common law requires a court with jurisdiction over a particular matter to take jurisdiction. This section recognizes that there are cases in which it would be appropriate for the court to decline jurisdiction. Abstention under this section, however, is of jurisdiction over the entire case. Abstention from jurisdiction over a particular proceeding in a case is governed by proposed 28 U.S.C. 1471(c). Thus, the court is permitted, if the interests of creditors and the debtor would be better served by dismissal of the case or suspension of all proceedings in the case, to so order. The court may dismiss or suspend under the first paragraph, for example, if an arrangement is being worked out by creditors and the debtor out of court, there is no prejudice to the results of creditors in that arrangement, and an involuntary case has been commenced by a few recalcitrant creditors to provide a basis for future threats to extract full payment. The less expensive out-of-court workout may better serve the interests in the case. Likewise, if there is pending a foreign proceeding concerning the debtor and the factors specified in proposed 11 U.S.C. 304(c) warrant dismissal or suspension, the court may so act.
 
@@ -24,17 +24,17 @@ Subsection (b) gives a foreign representative authority to appear in the bankrup
 
 #### Amendments
 
-2005—Subsec. (a)(2). Pub. L. 109–8 added par. (2) and struck out former par. (2) which read as follows:
+<b>2005</b>—Subsec. (a)(2). Pub. L. 109–8 added par. (2) and struck out former par. (2) which read as follows:
 
 “(2)(A) there is pending a foreign proceeding; and
 
 “(B) the factors specified in section 304(c) of this title warrant such dismissal or suspension.”
 
-1991—Subsec. (c). Pub. L. 102–198 substituted “title 28” for “this title” in two places.
+<b>1991</b>—Subsec. (c). Pub. L. 102–198 substituted “title 28” for “this title” in two places.
 
-1990—Subsec. (c). Pub. L. 101–650 inserted before period at end “by the court of appeals under section 158(d), 1291, or 1292 of this title or by the Supreme Court of the United States under section 1254 of this title”.
+<b>1990</b>—Subsec. (c). Pub. L. 101–650 inserted before period at end “by the court of appeals under section 158(d), 1291, or 1292 of this title or by the Supreme Court of the United States under section 1254 of this title”.
 
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to casescommenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 

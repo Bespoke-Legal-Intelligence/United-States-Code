@@ -32,6 +32,10 @@ No construction permit or station license, or any rights thereunder, shall be tr
 
 (June 19, 1934, ch. 652, title III, §310, 48 Stat. 1086; July 16, 1952, ch. 879, §8, 66 Stat. 716; Pub. L. 85–817, §2, Aug. 28, 1958, 72 Stat. 981; Pub. L. 88–313, §2, May 28, 1964, 78 Stat. 202; Pub. L. 92–81, §2, Aug. 10, 1971, 85 Stat. 302; Pub. L. 93–505, §2, Nov. 30, 1974, 88 Stat. 1576; Pub. L. 98–214, §7, Dec. 8, 1983, 97 Stat. 1469; Pub. L. 101–396, §8(b), Sept. 28, 1990, 104 Stat. 850; Pub. L. 104–104, title IV, §403(k), Feb. 8, 1996, 110 Stat. 131.)
 
+#### References in Text
+
+This chapter, referred to in subsecs. (a) and (c), was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
+
 #### Codification
 
 In subsec. (c), “subchapter II of chapter 5, and chapter 7, of title 5” substituted for “the Administrative Procedure Act” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
@@ -52,7 +56,7 @@ Subsecs. (b) to (d). Pub. L. 93–505 added subsecs. (b) and (c) and redesignate
 
 <b>1971</b>—Subsec. (a). Pub. L. 92–81 inserted provisions empowering the Commission to issue licenses to certain aliens admitted to the United States for permanent residence, provided that the Commission notify the appropriate agencies of the Government of applications received for license, and that such agencies furnish to the Commission information bearing on the request's compatibility with national security.
 
-<b>1964</b>—Subsec. (a). Pub. L. 88–313 empowered the Commission to issue authorizations to permit an alien licensed by his government as an amateur radio operator to operate his station, licensed by his government, in the United States, its possessions, and Puerto Rico,provided there is a bilateral agreement between the United States and the alien's government giving similar rights to United States amateur radio operators, and provided that the Commission notify appropriate agencies of our Government of any applications for authorization, and that such agencies furnish to the Commission information bearing on the request's compatibility with our national security.
+<b>1964</b>—Subsec. (a). Pub. L. 88–313 empowered the Commission to issue authorizations to permit an alien licensed by his government as an amateur radio operator to operate his station, licensed by his government, in the United States, its possessions, and Puerto Rico, provided there is a bilateral agreement between the United States and the alien's government giving similar rights to United States amateur radio operators, and provided that the Commission notify appropriate agencies of our Government of any applications for authorization, and that such agencies furnish to the Commission information bearing on the request's compatibility with our national security.
 
 <b>1958</b>—Subsec. (a). Pub. L. 85–817 inserted paragraph authorizing the grant of licenses for radio stations on aircraft to aliens or representatives of aliens holding pilot certificates.
 

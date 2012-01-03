@@ -22,7 +22,7 @@
 
 #### (B) Denials of discretionary relief
 
-&emsp;&emsp;Notwithstanding any other provision of law (statutory or nonstatutory), including section 2241 of title 28, or any other habeas corpus provision, and sections 1361 and 1651 of such title, and except as provided in subparagraph (D), and regardless of whether the judgment, decision, or action is made in removal proceedings, no court shall have jurisdiction to review—
+&emsp;&emsp;Notwithstanding any other provision of law (statutory or nonstatutory), including section 2241 of title 28, or any other habeascorpus provision, and sections 1361 and 1651 of such title, and except as provided in subparagraph (D), and regardless of whether the judgment, decision, or action is made in removal proceedings, no court shall have jurisdiction to review—
 
 &emsp;&emsp;&emsp;(i) any judgment regarding the granting of relief under section 1182(h), 1182(i), 1229b, 1229c, or 1255 of this title, or
 
@@ -30,7 +30,7 @@
 
 #### (C) Orders against criminal aliens
 
-&emsp;&emsp;Notwithstanding any other provision of law (statutory or nonstatutory), includingsection 2241 of title 28, or any other habeas corpus provision, and sections 1361 and 1651 of such title, and except as provided in subparagraph (D), no court shall have jurisdiction to review any final order of removal against an alien who is removable by reason of having committed a criminal offense covered in section 1182(a)(2) or 1227(a)(2)(A)(iii), (B), (C), or (D) of this title, or any offense covered by section 1227(a)(2)(A)(ii) of this title for which both predicate offenses are, without regard to their date of commission, otherwise covered by section 1227(a)(2)(A)(i) of this title.
+&emsp;&emsp;Notwithstanding any other provision of law (statutory or nonstatutory), including section 2241 of title 28, or any other habeas corpus provision, and sections 1361 and 1651 of such title, and except as provided in subparagraph (D), no court shall have jurisdiction to review any final order of removal against an alien who is removable by reason of having committed a criminal offense covered in section 1182(a)(2) or 1227(a)(2)(A)(iii), (B), (C), or (D) of this title, or any offense covered by section 1227(a)(2)(A)(ii) of this title for which both predicate offenses are, without regard to their date of commission, otherwise covered by section 1227(a)(2)(A)(i) of this title.
 
 #### (D) Judicial review of certain legal claims
 
@@ -92,7 +92,7 @@ With respect to review of an order of removal under subsection (a)(1) of this se
 
 #### (A) Court determination if no issue of fact
 
-&emsp;&emsp;If the petitioner claims to be a national of the United States and the court of appealsfinds from the pleadings and affidavits that no genuine issue of material fact about the petitioner's nationality is presented, the court shall decide the nationality claim.
+&emsp;&emsp;If the petitioner claims to be a national of the United States and the court of appeals finds from the pleadings and affidavits that no genuine issue of material fact about the petitioner's nationality is presented, the court shall decide the nationality claim.
 
 #### (B) Transfer if issue of fact
 
@@ -166,7 +166,7 @@ A court may review a final order of removal only if—
 
 &emsp;Without regard to the nature of the action or claim and without regard to the identity of the party or parties bringing the action, no court may—
 
-&emsp;&emsp;(A) enter declaratory, injunctive, or other equitable relief in any action pertaining to an order to exclude an alien in accordancewith section 1225(b)(1) of this title except as specifically authorized in a subsequent paragraph of this subsection, or
+&emsp;&emsp;(A) enter declaratory, injunctive, or other equitable relief in any action pertaining to an order to exclude an alien in accordance with section 1225(b)(1) of this title except as specifically authorized in a subsequent paragraph of this subsection, or
 
 &emsp;&emsp;(B) certify a class under Rule 23 of the Federal Rules of Civil Procedure in any action for which judicial review is authorized under a subsequent paragraph of this subsection.
 
@@ -228,7 +228,7 @@ A court may review a final order of removal only if—
 
 Except as provided in this section and notwithstanding any other provision of law (statutory or nonstatutory), including section 2241 of title 28, or any other habeas corpus provision, and sections 1361 and 1651 of such title, no court shall have jurisdiction to hear any cause or claim by or on behalf of any alien arising from the decision or action by the Attorney General to commence proceedings, adjudicate cases, or execute removal orders against any alien under this chapter.
 
-(June 27, 1952, ch. 477, title II, ch. 5, §242, 66 Stat. 208; Sept. 3, 1954, ch. 1263, §17, 68 Stat. 1232; Pub. L. 97–116, §18(h)(1), Dec. 29, 1981, 95 Stat. 1620; Pub. L. 98–473, title II, §220(b), Oct. 12, 1984, 98 Stat. 2028; Pub. L. 99–603, title VII, §701, Nov. 6, 1986, 100 Stat. 3445; Pub. L. 100–525, §9(n), Oct. 24, 1988, 102 Stat. 2620; Pub. L. 100–690, title VII, §7343(a), Nov. 18, 1988, 102 Stat. 4470; Pub. L.101–649, title V, §§504(a), 545(e), title VI, §603(b)(2), Nov. 29, 1990, 104 Stat. 5049, 5066, 5085; Pub. L. 102–232, title III, §§306(a)(4), (c)(7), 307(m)(2), 309(b)(9), Dec. 12, 1991, 105 Stat. 1751, 1753, 1757, 1759; Pub. L. 103–322, title II, §20301(a), title XIII, §130001(a), Sept. 13, 1994, 108 Stat. 1823, 2023; Pub. L. 103–416, title II, §§219(h), 224(b), Oct. 25, 1994, 108 Stat. 4317, 4324; Pub. L. 104–132, title IV, §§436(a), (b)(1), 438(a), 440(c), (h), Apr. 24, 1996, 110 Stat. 1275, 1277, 1279; Pub. L. 104–208, div. C, title III, §§306(a), (d), 308(g)(10)(H), 371(b)(6), Sept. 30, 1996, 110 Stat. 3009–607, 3009–612, 3009–625, 3009–645; Pub. L. 109–13, div. B, title I, §§101(e), (f), 106(a), May 11, 2005, 119 Stat. 305, 310.)
+(June 27, 1952, ch. 477, title II, ch. 5, §242, 66 Stat. 208; Sept. 3, 1954, ch. 1263, §17, 68 Stat. 1232; Pub. L. 97–116, §18(h)(1), Dec. 29, 1981, 95 Stat. 1620; Pub. L. 98–473, title II, §220(b), Oct. 12, 1984, 98 Stat. 2028; Pub. L. 99–603, title VII, §701, Nov. 6, 1986, 100 Stat. 3445; Pub. L. 100–525, §9(n), Oct. 24, 1988, 102 Stat. 2620; Pub. L. 100–690, title VII, §7343(a), Nov. 18, 1988, 102 Stat. 4470; Pub. L. 101–649, title V, §§504(a), 545(e), title VI, §603(b)(2), Nov. 29, 1990, 104 Stat. 5049, 5066, 5085; Pub. L. 102–232, title III, §§306(a)(4), (c)(7), 307(m)(2), 309(b)(9), Dec. 12, 1991, 105 Stat. 1751, 1753, 1757, 1759; Pub. L. 103–322, title II, §20301(a), title XIII, §130001(a), Sept. 13, 1994, 108 Stat. 1823, 2023; Pub. L. 103–416, title II, §§219(h), 224(b), Oct. 25, 1994, 108 Stat. 4317, 4324; Pub. L. 104–132, title IV, §§436(a), (b)(1), 438(a), 440(c), (h), Apr. 24, 1996, 110 Stat. 1275, 1277, 1279; Pub. L. 104–208, div. C, title III, §§306(a), (d), 308(g)(10)(H), 371(b)(6), Sept. 30, 1996, 110 Stat. 3009–607, 3009–612, 3009–625, 3009–645; Pub. L. 109–13, div. B, title I, §§101(e), (f), 106(a), May 11, 2005, 119 Stat. 305, 310.)
 
 #### References in Text
 
@@ -242,7 +242,7 @@ The Illegal Immigration Reform and Immigrant Responsibility Act of 1996, referre
 
 #### Amendments
 
-2005—Subsec. (a)(2)(A). Pub. L. 109–13, §106(a)(1)(A)(i), inserted “(statutory or nonstatutory), including section 2241 of title 28, or any other habeas corpus provision, and sections 1361 and 1651 of such title” after “Notwithstanding any other provision of law” in introductory provisions.
+<b>2005</b>—Subsec. (a)(2)(A). Pub. L. 109–13, §106(a)(1)(A)(i), inserted “(statutory or nonstatutory), including section 2241 of title 28, or any other habeas corpus provision, and sections 1361 and 1651 of such title” after “Notwithstanding any other provision of law” in introductory provisions.
 
 Subsec. (a)(2)(B). Pub. L. 109–13, §106(a)(1)(A)(ii), inserted “(statutory or nonstatutory), including section 2241 of title 28, or any other habeas corpus provision, and sections 1361 and 1651 of such title, and except as provided in subparagraph (D)” after “Notwithstanding any other provision of law” in introductory provisions.
 
@@ -262,7 +262,7 @@ Subsec. (b)(9). Pub. L. 109–13, §106(a)(2), inserted at end “Except as othe
 
 Subsec. (g). Pub. L. 109–13, §106(a)(3), inserted “(statutory or nonstatutory), including section 2241 of title 28, or any other habeas corpus provision, and sections 1361 and 1651 of such title” after “notwithstanding any other provision of law”.
 
-1996—Pub. L. 104–208, §306(a)(2), amended section generally, substituting subsecs. (a) to (g) relating to judicial review of orders of removal for former subsecs. (a) to (i) relating to apprehension and deportation of aliens.
+<b>1996</b>—Pub. L. 104–208, §306(a)(2), amended section generally, substituting subsecs. (a) to (g) relating to judicial review of orders of removal for former subsecs. (a) to (i) relating to apprehension and deportation of aliens.
 
 Subsec. (a)(2). Pub. L. 104–132, §440(c)(2), struck out subpar. (B) which read as follows: “The Attorney General may not release from custody any lawfully admitted alien who has been convicted of an aggravated felony, either before or after a determination of deportability, unless the alien demonstrates to the satisfaction of the Attorney General that such alien is not a threat to the community and that the alien is likely to appear before any scheduled hearings.”
 
@@ -280,13 +280,13 @@ Subsec. (c)(1). Pub. L. 104–132, §440(h)(1), designated existing provisions o
 
 Subsec. (c)(2). Pub. L. 104–132, §440(h)(2), as amended by Pub. L. 104–208, §§306(d), 308(g)(10)(H), added par. (2).
 
-Subsec. (h). Pub. L. 104–132, §438(a), amended subsec. (h) generally, restating prior single par. as par. (1) and adding pars. (2) and (3) authorizing the Attorney General to deport an alien prior to the completion of a sentence of imprisonment and requiring notice to deported aliens of penalties for reentry.
+Subsec. (h). Pub. L. 104–132, §438(a), amended subsec. (h) generally, restating prior single par. as par. (1) andadding pars. (2) and (3) authorizing the Attorney General to deport an alien prior to the completion of a sentence of imprisonment and requiring notice to deported aliens of penalties for reentry.
 
 Subsec. (i). Pub. L. 104–132, §436(b)(1), inserted at end “Nothing in this subsection shall be construed to create any substantive or procedural right or benefit that is legally enforceable by any party against the United States or its agencies or officers or any other person.”
 
 Subsec. (j). Pub. L. 104–208, §306(a)(1), redesignated subsec. (j) as subsec. (i) of section 1231 of this title.
 
-1994—Subsec. (b). Pub. L. 103–416, §224(b), substituted “Except as provided in section 1252a(d) of this title, the” for “The” in ninth sentence.
+<b>1994</b>—Subsec. (b). Pub. L. 103–416, §224(b), substituted “Except as provided in section 1252a(d) of this title, the” for “The” in ninth sentence.
 
 Subsec. (e). Pub. L. 103–322, §130001(a), struck out “paragraph (2), (3), or (4) of” before “section 1251(a) of this title” and substituted “shall be imprisoned not more than four years, or shall be imprisoned not more than ten years if the alien is a member of any of the classes described in paragraph (1)(E), (2), (3), or (4) of section 1251(a) of this title.” for “shall be imprisoned not more than ten years”.
 
@@ -294,7 +294,7 @@ Subsec. (h). Pub. L. 103–416, §219(h), substituted “Parole,” for “Parol
 
 Subsec. (j). Pub. L. 103–322, §20301(a), added subsec. (j).
 
-1991—Subsec. (a)(2)(B). Pub. L. 102–232, §306(a)(4), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “The Attorney General shall release from custody an alien who is lawfully admitted for permanent residence on bond or such other conditions as the Attorney General may prescribe if the Attorney General determines that the alien is not a threat to the community and that the alien is likely to appear before any scheduled hearings.”
+<b>1991</b>—Subsec. (a)(2)(B). Pub. L. 102–232, §306(a)(4), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “The Attorney General shall release from custody an alien who is lawfully admitted for permanent residence on bond or such other conditions as the Attorney General may prescribe if the Attorney General determines that the alien is not a threat to the community and that the alien is likely to appear before any scheduled hearings.”
 
 Subsec. (b). Pub. L. 102–232, §306(c)(7), amended eighth sentence generally, substituting “Such regulations shall include requirements that are consistent with section 1252b of this title and that provide that—” and pars. (1) to (4) for “Such regulations shall include requirements consistent with section 1252b of this title.”
 
@@ -302,7 +302,7 @@ Subsec. (e). Pub. L. 102–232, §307(m)(2), substituted “paragraph (2), (3), 
 
 Subsec. (h). Pub. L. 102–232, §309(b)(9), inserted a comma after “Parole”.
 
-1990—Subsec. (a)(2). Pub. L. 101–649, §504(a), designated existing text as subpar. (A), substituted “upon release of the alien (regardless of whether or not such release is on parole, supervised release, or probation, and regardless of the possibility of rearrest or further confinement in respect of the same offense)” for “upon completion of the alien's sentence for such conviction” and “Notwithstanding paragraph (1) or subsections (c) and (d) of this section but subject to subparagraph (B)” for “Notwithstanding subsection (a) of this section”, and added subpar. (B).
+<b>1990</b>—Subsec. (a)(2). Pub. L. 101–649, §504(a), designated existing text as subpar. (A), substituted “upon release of the alien (regardless of whether or not such release is on parole, supervised release, or probation, and regardless of the possibility of rearrest or further confinement in respect of the same offense)” for “upon completion of the alien's sentence for such conviction” and “Notwithstanding paragraph (1) or subsections (c) and (d) of this section but subject to subparagraph (B)” for “Notwithstanding subsection (a) of this section”, and added subpar. (B).
 
 Subsec. (b). Pub. L. 101–649, §603(b)(2)(A), substituted “(2), (3), or (4)” for “(4), (5), (6), (7), (11), (12), (14), (15), (16), (17), (18), or (19)”.
 
@@ -318,19 +318,19 @@ Pub. L. 101–649, §545(e), amended eighth sentence generally. Prior to amendme
 
 Subsec. (e). Pub. L. 101–649, §603(b)(2)(B), which directed the substitution of “paragraph (2), (3) or (4)” for “paragraph (4), (5), (6), (7), (11), (12), (14), (15), (16), (17), (18), or (19)”, could not be executed because the quoted language differed from the text. See 1991 Amendment note above.
 
-1988—Subsec. (a). Pub. L. 100–690 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), any” for “Any”, redesignated cls. (1) to (3) as (A) to (C), respectively, and added pars. (2) and (3).
+<b>1988</b>—Subsec. (a). Pub. L. 100–690 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), any” for “Any”, redesignated cls. (1) to (3) as (A) to (C), respectively, and added pars. (2) and (3).
 
 Subsec. (e). Pub. L. 100–525 struck out “or from September 23, 1950, whichever is the later,” after “from the date of the final order of the court,”.
 
-1986—Subsec. (i). Pub. L. 99–603 added subsec. (i).
+<b>1986</b>—Subsec. (i). Pub. L. 99–603 added subsec. (i).
 
-1984—Subsec. (h). Pub. L. 98–473, which directed that “supervised release,” be inserted after “parole,”, was executed by inserting “supervised release,” after “Parole,” to reflect the probable intent of Congress.
+<b>1984</b>—Subsec. (h). Pub. L. 98–473, which directed that “supervised release,” be inserted after “parole,”, was executed by inserting “supervised release,” after “Parole,” to reflect the probable intent of Congress.
 
-1981—Subsec. (b). Pub. L. 97–116, §18(h)(1)(A), substituted “(18), or (19)” for “or (18)” in provision following par. (4).
+<b>1981</b>—Subsec. (b). Pub. L. 97–116, §18(h)(1)(A), substituted “(18), or (19)” for “or (18)” in provision following par. (4).
 
 Subsec. (e). Pub. L. 97–116, §18(h)(1)(B), substituted “(18), or (19)” for “or (18)”.
 
-1954—Subsec. (d). Act Sept. 3, 1954, struck out “shall upon conviction be guilty of a felony.”
+<b>1954</b>—Subsec. (d). Act Sept. 3, 1954, struck out “shall upon conviction be guilty of a felony.”
 
 #### Effective Date of 2005 Amendment
 
@@ -440,7 +440,7 @@ Pub. L. 109–13, div. B, title I, §106(c), May 11, 2005, 119 Stat. 311, provid
 
 #### Transitional Rule Cases
 
-Pub. L. 109–13, div. B, title I, §106(d), May 11, 2005, 119 Stat. 311, provided that: “A petition for review filed under former section 106(a) of the Immigration and Nationality Act \[8 U.S.C. 1105a(a)\] (as in effect before its repeal by section 306(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[Pub. L. 104–208, div. C\] (8 U.S.C. 1252 note)) shall be treated as if it had been filed as a petition for review under section 242 of the Immigration and Nationality Act (8 U.S.C. 1252), as amended by this section. Notwithstanding any other provision of law (statutory or nonstatutory), including section 2241 of title 28, United States Code, or any other habeas corpus provision, and sections 1361 and 1651 of such title, such petition for review shall be the sole and exclusive means for judicial review of an order of deportation or exclusion.”
+Pub. L. 109–13, div. B, title I, §106(d), May 11, 2005, 119 Stat. 311, provided that: “A petition for review filedunder former section 106(a) of the Immigration and Nationality Act \[8 U.S.C. 1105a(a)\] (as in effect before its repeal by section 306(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[Pub. L. 104–208, div. C\] (8 U.S.C. 1252 note)) shall be treated as if it had been filed as a petition for review under section 242 of the Immigration and Nationality Act (8 U.S.C. 1252), as amended by this section. Notwithstanding any other provision of law (statutory or nonstatutory), including section 2241 of title 28, United States Code, or any other habeas corpus provision, and sections 1361 and 1651 of such title, such petition for review shall be the sole and exclusive means for judicial review of an order of deportation or exclusion.”
 
 #### References to Order of Removal Deemed To Include Order of Exclusion and Deportation
 

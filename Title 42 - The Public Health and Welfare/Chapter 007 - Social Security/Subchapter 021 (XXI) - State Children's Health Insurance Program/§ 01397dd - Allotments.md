@@ -232,7 +232,7 @@ For the purpose of providing allotments to States under this section, subject to
 
 #### (2) Availability of amounts redistributed
 
-&emsp;Amounts redistributed to a State under subsection (f) shall be available for expenditure by the State through the end of the fiscal year in which they are redistributed.
+&emsp;Amounts redistributed to a State under subsection (f) shall be available for expenditureby the State through the end of the fiscal year in which they are redistributed.
 
 #### (f) Procedure for redistribution of unused allotments
 
@@ -364,7 +364,7 @@ For the purpose of providing allotments to States under this section, subject to
 
 #### (B) Shortfall State described
 
-&emsp;&emsp;For purposes of this paragraph, a shortfall State described in this subparagraph is aState with a State child health plan approved under this subchapter for which the Secretary estimates, on a monthly basis using the most recent data available to the Secretary as of such month, that the projected expenditures under such plan for such State for fiscal year 2007 will exceed the sum of—
+&emsp;&emsp;For purposes of this paragraph, a shortfall State described in this subparagraph is a State with a State child health plan approved under this subchapter for which the Secretary estimates, on a monthly basis using the most recent data available to the Secretary as of such month, that the projected expenditures under such plan for such State for fiscal year 2007 will exceed the sum of—
 
 &emsp;&emsp;&emsp;(i) the amount of the State's allotments for each of fiscal years 2005 and 2006 that was not expended by the end of fiscal year 2006; and
 
@@ -486,13 +486,13 @@ For the purpose of providing allotments to States under this section, subject to
 
 &emsp;A fiscal year 2008 shortfall State described in this paragraph is a State with a State child health plan approved under this subchapter for which the Secretary estimates, on a monthly basis using the most recent data available to the Secretary as of such month, that the projected expenditures under such plan for such State for fiscal year 2008 will exceed the sum of—
 
-&emsp;&emsp;(A) the amount of the State's allotments for each of fiscal years 2006 and 2007 that was not expended by the end of fiscal year 2007; and
+&emsp;&emsp;(A) the amount of the State's allotments for each of fiscal years 2006 and 2007 that wasnot expended by the end of fiscal year 2007; and
 
 &emsp;&emsp;(B) the amount of the State's allotment for fiscal year 2008.
 
 #### (3) Funds redistributed in the order in which States realize funding shortfalls
 
-&emsp;The Secretary shall redistribute the amounts available for redistribution underparagraph (1) to fiscal year 2008 shortfall States described in paragraph (2) in the order in which such States realize monthly funding shortfalls under this subchapter for fiscal year 2008. The Secretary shall only make redistributions under this subsection to the extent that there are unexpended fiscal year 2005 allotments under subsection (b) available for such redistributions.
+&emsp;The Secretary shall redistribute the amounts available for redistribution under paragraph (1) to fiscal year 2008 shortfall States described in paragraph (2) in the order in which such States realize monthly funding shortfalls under this subchapter for fiscal year 2008. The Secretary shall only make redistributions under this subsection to the extent that there are unexpended fiscal year 2005 allotments under subsection (b) available for such redistributions.
 
 #### (4) Proration rule
 
@@ -550,7 +550,7 @@ For the purpose of providing allotments to States under this section, subject to
 
 #### (2) Fiscal year 2009 shortfall State described
 
-&emsp;A fiscal year 2009 shortfall State described in this paragraph is a State with a State child health plan approved under this subchapter for which the Secretary estimates, on a monthly basis using the most recent data available to the Secretary as of such month, that the Federal share amount of the projected expenditures under such plan for such State for the first 2 quarters of fiscal year 2009 will exceed the sum of—
+&emsp;A fiscal year 2009 shortfall State described in this paragraph is a State with a State childhealth plan approved under this subchapter for which the Secretary estimates, on a monthly basis using the most recent data available to the Secretary as of such month, that the Federal share amount of the projected expenditures under such plan for such State for the first 2 quarters of fiscal year 2009 will exceed the sum of—
 
 &emsp;&emsp;(A) the amount of the State's allotments for each of fiscal years 2007 and 2008 that was not expended by the end of fiscal year 2008; and
 
@@ -616,7 +616,7 @@ For the purpose of providing allotments to States under this section, subject to
 
 &emsp;&emsp;Subject to the succeeding provisions of this paragraph and paragraph (4), the Secretary shall allot for fiscal year 2009 from the amount made available under subsection (a)(12), to each of the 50 States and the District of Columbia 110 percent of the highest of the following amounts for such State or District:
 
-&emsp;&emsp;&emsp;(i) The total Federal payments to the State under this subchapter for fiscal year 2008, multiplied by the allotment increasefactor determined under paragraph (5) for fiscal year 2009.
+&emsp;&emsp;&emsp;(i) The total Federal payments to the State under this subchapter for fiscal year 2008, multiplied by the allotment increase factor determined under paragraph (5) for fiscal year 2009.
 
 &emsp;&emsp;&emsp;(ii) The amount allotted to the State for fiscal year 2008 under subsection (b), multiplied by the allotment increase factor determined under paragraph (5) for fiscal year 2009.
 
@@ -682,7 +682,7 @@ For the purpose of providing allotments to States under this section, subject to
 
 #### (A) First half
 
-&emsp;&emsp;Subject to paragraphs (4) and (6), from the amount made available under subparagraph (A) of paragraph (18) of subsection (a) for the semi-annual period described in such paragraph, increased by the amount of the appropriation for such period under section 108 of the Children's Health Insurance Program Reauthorization Act of 2009, the Secretary shall compute a State allotment for each State (including the District of Columbia and each commonwealth and territory) for such semi-annual period in an amount equalto the first half ratio (described in subparagraph (D)) of the amount described in subparagraph (C).
+&emsp;&emsp;Subject to paragraphs (4) and (6), from the amount made available under subparagraph (A) of paragraph (18) of subsection (a) for the semi-annual period described in such paragraph, increased by the amount of the appropriation for such period under section 108 of the Children's Health Insurance Program Reauthorization Act of 2009, the Secretary shall compute a State allotment for each State (including the District of Columbia and each commonwealth and territory) for such semi-annual period in an amount equal to the first half ratio (described in subparagraph (D)) of the amount described in subparagraph (C).
 
 #### (B) Second half
 
@@ -744,7 +744,7 @@ For the purpose of providing allotments to States under this section, subject to
 
 #### (7) Adjustment of fiscal year 2010 allotments to account for changes in projected spending for certain previously approved expansion programs
 
-&emsp;For purposes of recalculating the fiscal year 2010 allotment, in the case of one of the 50 States or the District of Columbia that has an approved State plan amendment effective January 1, 2006, to provide child health assistance through the provision of benefits under the State plan under subchapter XIX for children from birth through age 5 whose family income does not exceed 200 percent of the poverty line, the Secretary shall increase the allotment by an amount that would be equal to the Federal share of expenditures that would have been claimed at the enhanced FMAP rate rather than the Federal medical assistance percentage matching rate for such population.
+&emsp;For purposes of recalculating the fiscal year 2010 allotment, in the case of one of the 50 States or the District of Columbia that has an approved State plan amendment effective January 1, 2006, to provide child health assistance through the provision of benefits under theState plan under subchapter XIX for children from birth through age 5 whose family income does not exceed 200 percent of the poverty line, the Secretary shall increase the allotment by an amount that would be equal to the Federal share of expenditures that would have been claimed at the enhanced FMAP rate rather than the Federal medical assistance percentage matching rate for such population.
 
 #### (8) Availability of amounts for semi-annual periods in fiscal year 2015
 
@@ -872,7 +872,7 @@ Subsec. (b)(1). Pub. L. 111–3, §102(1), substituted “subsections (d) and (m
 
 Subsec. (c)(1). Pub. L. 111–3, §102(2), substituted “subsections (d) and (m)(4)” for “subsection (d)”.
 
-Subsec. (e). Pub. L. 111–3, §105, amended subsec. (e) generally. Prior to amendment, text read as follows: “Amounts allotted to a State pursuant to this section for a fiscal year shall remain available for expenditure by the State through the end of the second succeedingfiscal year; except that amounts reallotted to a State under subsection (f) of this section shall be available for expenditure by the State through the end of the fiscal year in which they are reallotted.”
+Subsec. (e). Pub. L. 111–3, §105, amended subsec. (e) generally. Prior to amendment, text read as follows: “Amounts allotted to a State pursuant to this section for a fiscal year shall remain available for expenditure by the State through the end of the second succeeding fiscal year; except that amounts reallotted to a State under subsection (f) of this section shall be available for expenditure by the State through the end of the fiscal year in which they are reallotted.”
 
 Subsec. (f). Pub. L. 111–3, §106(a)(1), designated existing provisions as par. (1), inserted heading, substituted “States that the Secretary determines with respect to the fiscal year for which unused allotments are available for redistribution under this subsection, are shortfall States described in paragraph (2) for such fiscal year, but not to exceed the amount of the shortfall described in paragraph (2)(A) for each such State (as may be adjusted under paragraph (2)(C)).” for “States that have fully expended the amount of their allotments under this section.”, and added par. (2).
 
@@ -964,7 +964,7 @@ Subsec. (c)(1). Pub. L. 106–554, §1(a)(6) \[title VIII, §802(d)(3)(B)\], str
 
 Subsec. (d). Pub. L. 106–554, §1(a)(6) \[title VIII, §802(b)\], struck out heading and text of subsec. (d). Text read as follows: “The amount of the allotment otherwise provided to a State under subsection (b) or (c) of this section for a fiscal year shall be reduced by the sum of—
 
-&emsp;“(1) the amount (if any) of the payments made to that State under section 1396b(a) of this title for expenditures claimed by the State during such fiscal year that is attributable to the provision of medical assistance to a child during a presumptive eligibility period under section 1396r–1a of this title, and
+&emsp;“(1) the amount (if any) of the payments made to that State under section 1396b(a) of this title for expenditures claimed by the State during such fiscal year that is attributable to the provision of medicalassistance to a child during a presumptive eligibility period under section 1396r–1a of this title, and
 
 &emsp;“(2) the amount (if any) of the payments made to that State under section 1396b(a) of this title for expenditures claimed by the State during such fiscal year that is attributable to the provision of medical assistance to a child for which payment is made under section 1396b(a)(1) of this title on the basis of an enhanced FMAP under the fourth sentence of section 1396d(b) of this title.”
 

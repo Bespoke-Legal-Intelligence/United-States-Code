@@ -18,11 +18,11 @@ Except as provided in subsections (b) and (c) of this section, each advertisemen
 
 #### (b) Broadcast and electronic media and outdoor advertising exception
 
-The Board may, by regulation, exempt advertisements, announcements, or solicitations made by any broadcast or electronic medium or outdoor advertising display not on the premises of the depository institution from any disclosure requirements described in paragraph (4) or (5) of subsection (a) of this section if the Board finds that any such disclosure would be unnecessarily burdensome.
+The Bureau may, by regulation, exempt advertisements, announcements, or solicitations made by any broadcast or electronic medium or outdoor advertising display not on the premises of the depository institution from any disclosure requirements described in paragraph (4) or (5) of subsection (a) of this section if the Bureau finds that any such disclosure would be unnecessarily burdensome.
 
 #### (c) Disclosure required for on-premises displays
 
-The disclosure requirements contained in this section shall not apply to any sign (including a rate board) disclosing a rate or rates of interest which is displayed on the premises of the depository institution if such sign contains—
+The disclosure requirements contained in this section shall not apply to any sign (including arate board) disclosing a rate or rates of interest which is displayed on the premises of the depository institution if such sign contains—
 
 &emsp;(1) the accompanying annual percentage yield; and
 
@@ -44,13 +44,19 @@ No advertisement, announcement, or solicitation made by any depository instituti
 
 No depository institution or deposit broker shall make any advertisement, announcement, or solicitation relating to a deposit account that is inaccurate or misleading or that misrepresents its deposit contracts.
 
-(Pub. L. 102–242, title II, §263, Dec. 19, 1991, 105 Stat. 2334; Pub. L. 102–550, title IX, §957(a), Oct. 28, 1992, 106 Stat. 3896; Pub. L. 104–208, div. A, title II, §2604(b), Sept. 30, 1996, 110 Stat. 3009–471.)
+(Pub. L. 102–242, title II, §263, Dec. 19, 1991, 105 Stat. 2334; Pub. L. 102–550, title IX, §957(a), Oct. 28, 1992, 106 Stat. 3896; Pub. L. 104–208, div. A, title II, §2604(b), Sept. 30, 1996, 110 Stat. 3009–471; Pub. L. 111–203, title X, §1100B(1), July 21, 2010, 124 Stat. 2109.)
 
 #### Amendments
 
-1996—Subsec. (c). Pub. L. 104–208 redesignated par. (1) as entire subsec. (c) and subpars. (A) and (B) of former par. (1) as pars. (1) and (2), respectively, and struck out former par. (1) heading and heading and text of former par. (2). Text of former par. (2) read as follows: “For purposes of paragraph (1), a sign shall only be considered to be displayed on the premises of a depository institution if the sign is designed to be viewed only from the interior of the premises of the depository institution.”
+<b>2010</b>—Subsec. (b). Pub. L. 111–203 substituted “Bureau” for “Board” in two places.
 
-1992—Subsec. (a). Pub. L. 102–550, §957(a)(1), substituted “subsections (b) and (c)” for “subsection (b)”.
+<b>1996</b>—Subsec. (c). Pub. L. 104–208 redesignated par. (1) as entire subsec. (c) and subpars. (A) and (B) of former par. (1) as pars. (1) and (2), respectively, and struck out former par. (1) heading and heading and text of former par. (2). Text of former par. (2) read as follows: “For purposes of paragraph (1), a sign shall only be considered to be displayed on the premises of a depository institution if the sign is designed to be viewed only from the interior of the premises of the depository institution.”
+
+<b>1992</b>—Subsec. (a). Pub. L. 102–550, §957(a)(1), substituted “subsections (b) and (c)” for “subsection (b)”.
 
 Subsecs. (c) to (e). Pub. L. 102–550, §957(a)(2), (3), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 

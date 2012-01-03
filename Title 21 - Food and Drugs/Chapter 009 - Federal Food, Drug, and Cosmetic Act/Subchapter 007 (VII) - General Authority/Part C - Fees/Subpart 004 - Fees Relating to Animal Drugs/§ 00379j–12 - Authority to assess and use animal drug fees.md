@@ -92,7 +92,7 @@ Except as provided in subsection (a)(1) of this section and subsections (c), (d)
 
 &emsp;The fee revenues shall be adjusted each fiscal year after fiscal year 2009 to reflect changes in review workload. With respect to such adjustment:
 
-&emsp;&emsp;(A) This adjustment shall be determined by the Secretary based on a weighted average of the change in the total number of animal drug applications, supplemental animaldrug applications for which data with respect to safety or effectiveness are required, manufacturing supplemental animal drug applications, investigational animal drug study submissions, and investigational animal drug protocol submissions submitted to the Secretary. The Secretary shall publish in the Federal Register the fees resulting from this adjustment and the supporting methodologies.
+&emsp;&emsp;(A) This adjustment shall be determined by the Secretary based on a weighted average of the change in the total number of animal drug applications, supplemental animal drug applications for which data with respect to safety or effectiveness are required, manufacturing supplemental animal drug applications, investigational animal drug study submissions, and investigational animal drug protocol submissions submitted to the Secretary. The Secretary shall publish in the Federal Register the fees resulting from this adjustment and the supporting methodologies.
 
 &emsp;&emsp;(B) Under no circumstances shall this workload adjustment result in fee revenues for a fiscal year that are less than the fee revenues for that fiscal year established in subsection (b) of this section.
 
@@ -154,7 +154,7 @@ An animal drug application or supplemental animal drug application submitted by 
 
 #### (1) Limitation
 
-&emsp;Fees may not be assessed under subsection (a) of this section for a fiscal year beginningafter fiscal year 2003 unless appropriations for salaries and expenses of the Food and Drug Administration for such fiscal year (excluding the amount of fees appropriated for such fiscal year) are equal to or greater than the amount of appropriations for the salaries and expenses of the Food and Drug Administration for the fiscal year 2003 (excluding the amount of fees appropriated for such fiscal year) multiplied by the adjustment factor applicable to the fiscal year involved.
+&emsp;Fees may not be assessed under subsection (a) of this section for a fiscal year beginning after fiscal year 2003 unless appropriations for salaries and expenses of the Food and Drug Administration for such fiscal year (excluding the amount of fees appropriated for such fiscal year) are equal to or greater than the amount of appropriations for the salaries and expenses of the Food and Drug Administration for the fiscal year 2003 (excluding the amount of fees appropriated for such fiscal year) multiplied by the adjustment factor applicable to the fiscal year involved.
 
 #### (2) Authority
 
@@ -244,7 +244,7 @@ The Secretary shall—
 
 Subsec. (a)(1)(A)(ii). Pub. L. 110–316, §§103(a)(2), 108(a), temporarily amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “A fee established in subsection (b) of this section for a supplemental animal drug application for which safety or effectiveness data are required, in an amount that is equal to 50 percent of the amount of the fee under clause (i).” See Effective and Termination Dates of 2008 Amendment note below.
 
-Subsec. (b)(1). Pub. L. 110–316, §§103(b)(1), 108(a), temporarily substituted “and supplemental and other animal drug application fees” for “and supplemental animal drug application fees” and “$3,815,000 for fiscal year 2009, $4,320,000 for fiscal year 2010, $4,862,000 for fiscal year 2011, $5,442,000 for fiscal year 2012, and $6,061,000 for fiscal year 2013.” for “$1,250,000 in fiscal year 2004, $2,000,000 in fiscal year 2005, and $2,500,000 in fiscal years 2006, 2007, and 2008.” See Effective and Termination Dates of 2008 Amendment note below.
+Subsec. (b)(1). Pub. L. 110–316, §§103(b)(1), 108(a), temporarily substituted “and supplemental and other animal drug application fees” for “and supplemental animal drug application fees” and “$3,815,000 for fiscal year 2009, $4,320,000 for fiscal year 2010, $4,862,000 for fiscal year 2011, $5,442,000 for fiscal year 2012, and $6,061,000 for fiscal year 2013.” for “$1,250,000 in fiscal year 2004, $2,000,000 in fiscal year 2005, and $2,500,000 in fiscal years2006, 2007, and 2008.” See Effective and Termination Dates of 2008 Amendment note below.
 
 Subsec. (b)(2). Pub. L. 110–316, §§103(b)(2), 108(a), temporarily substituted “$3,815,000 for fiscal year 2009, $4,320,000 for fiscal year 2010, $4,862,000 for fiscal year 2011, $5,442,000 for fiscal year 2012, and $6,061,000 for fiscal year 2013.” for “$1,250,000 in fiscal year 2004, $2,000,000 in fiscal year 2005, and $2,500,000 in fiscal years 2006, 2007, and 2008.” See Effective and Termination Dates of 2008 Amendment note below.
 

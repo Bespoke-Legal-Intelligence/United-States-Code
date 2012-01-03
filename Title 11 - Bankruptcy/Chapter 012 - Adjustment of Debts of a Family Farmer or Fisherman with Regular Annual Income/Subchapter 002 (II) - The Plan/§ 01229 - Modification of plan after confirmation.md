@@ -30,7 +30,7 @@ For repeal of section effective Oct. 1, 1998, and subsequent reenactment of sect
 
 #### Amendments
 
-2005—Subsec. (d). Pub. L. 109–8, §1006(b), added subsec. (d).
+<b>2005</b>—Subsec. (d). Pub. L. 109–8, §1006(b), added subsec. (d).
 
 #### Effective Date of 2005 Amendment
 

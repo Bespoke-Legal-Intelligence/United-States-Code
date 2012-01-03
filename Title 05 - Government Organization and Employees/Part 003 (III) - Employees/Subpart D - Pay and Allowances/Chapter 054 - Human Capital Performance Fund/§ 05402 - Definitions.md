@@ -36,5 +36,5 @@ A prior section 5402, added Pub. L. 95–454, title V, §501, Oct. 13, 1978, 92 
 
 #### Amendments
 
-2004—Par. (1). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Par. (1). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 

@@ -20,7 +20,7 @@ The Federal Advisory Committee Act, referred to in par. (2), is Pub. L. 92–463
 
 #### Amendments
 
-1981—Pub. L. 97–98 substituted provision relating to termination of advisory committees for provision relating to advisory committee charter requirements.
+<b>1981</b>—Pub. L. 97–98 substituted provision relating to termination of advisory committees for provision relating to advisory committee charter requirements.
 
 #### Effective Date of 1981 Amendment
 

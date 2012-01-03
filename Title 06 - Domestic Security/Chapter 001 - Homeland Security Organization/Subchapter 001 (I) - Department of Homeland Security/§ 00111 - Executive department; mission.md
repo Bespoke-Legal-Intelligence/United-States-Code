@@ -38,7 +38,7 @@ This chapter, referred to in subsec. (b)(2), was in the original “this Act”,
 
 #### Amendments
 
-2004—Subsec. (b)(1)(G), (H). Pub. L. 108–458 added subpar. (G) and redesignated former subpar. (G) as (H).
+<b>2004</b>—Subsec. (b)(1)(G), (H). Pub. L. 108–458 added subpar. (G) and redesignated former subpar. (G) as (H).
 
 #### Transfer of Certain OPM Authority to Department of Homeland Security
 

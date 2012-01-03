@@ -38,7 +38,7 @@ Findings.—The Congress finds and declares the following:
 
 &emsp;“(2) Weather modification technology has significant potential for preventing, diverting, moderating, or ameliorating the adverse effects of such disasters and hazards and enhancing crop production and the availability of water;
 
-&emsp;“(3) The interstate nature of climatic and related phenomena, the severe economic hardships experienced as the result of occasional drought and other adverse meteorological conditions, and the existing role and responsibilities of the Federal Governmentwith respect to disaster relief, require appropriate Federal action to prevent or alleviate such disasters and hazards; and
+&emsp;“(3) The interstate nature of climatic and related phenomena, the severe economic hardships experienced as the result of occasional drought and other adverse meteorological conditions, and the existing role and responsibilities of the Federal Government with respect to disaster relief, require appropriate Federal action to prevent or alleviate such disasters and hazards; and
 
 &emsp;“(4) Weather modification programs may have long-range and unexpected effects on existing climatic patterns which are not confined by national boundaries.
 
@@ -126,7 +126,7 @@ In General.—The Secretary shall prepare and submit to the President and the Co
 
 &emsp;“(6) recommendations for any regulatory and other legislation which may be required to implement such policy and program or for any international agreement which may be appropriate concerning the peaceful uses of weather modification, including recommendations concerning the dissemination, refinement, and possible implementation of the model domestic code and international agreement developed under the specifications of section 4.
 
-> Each department, agency, and other instrumentality of the Federal Government is authorized and directed to furnish the Secretary any information which the Secretary deems necessary to carry out his functions under this Act.
+> Each department, agency, and other instrumentality of the Federal Government is authorized and directed tofurnish the Secretary any information which the Secretary deems necessary to carry out his functions under this Act.
 
 “(b)
 

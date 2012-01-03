@@ -18,7 +18,7 @@
 
 #### (3) Priority in grants
 
-&emsp;In determining whether to make grants under this section, the Secretary shall give apriority to eligible entities that, as determined by the Secretary—
+&emsp;In determining whether to make grants under this section, the Secretary shall give a priority to eligible entities that, as determined by the Secretary—
 
 &emsp;&emsp;(A) possess the most substantial capability to increase their capacity to train realtime writers;
 

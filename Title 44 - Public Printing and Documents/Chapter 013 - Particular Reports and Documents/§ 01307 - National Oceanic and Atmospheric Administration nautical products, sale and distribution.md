@@ -1,8 +1,8 @@
 ### §1307. National Oceanic and Atmospheric Administration: nautical products, sale and distribution
 
-(a)(1) All nautical products created or published by the National Oceanic and AtmosphericAdministration shall be sold at such prices as the Secretary of Commerce shall establish annually, in accordance with the provisions of this subsection. The Secretary shall publish annually the prices at which nautical products are sold to the public.
+(a)(1) All nautical products created or published by the National Oceanic and Atmospheric Administration shall be sold at such prices as the Secretary of Commerce shall establish annually, in accordance with the provisions of this subsection. The Secretary shall publish annually the prices at which nautical products are sold to the public.
 
-(2)(A) Subject to subparagraph (B) of this paragraph, the prices of nautical products may be increased over a period of not less than three years after the date of enactment of this section so as to recover all costs attributable to data base management, compilation, printing, and distribution of such products. The prices of such products may be maintained to recover all such costs thereafter.
+(2)(A) Subject to subparagraph (B) of this paragraph, the prices of nautical products may be increased over a period of not less than three years after the date of enactment of this sectionso as to recover all costs attributable to data base management, compilation, printing, and distribution of such products. The prices of such products may be maintained to recover all such costs thereafter.
 
 (B) The Secretary, after consultation with the Secretary of Transportation, shall adjust the prices of nautical products in such manner as is necessary to avoid any adverse impact on marine safety attributable to the prices specified in subparagraph (A) of this paragraph.
 
@@ -66,7 +66,7 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 #### Transfer of Functions
 
-Functions of Secretary and other officers of Department of Commerce under this section that relate to the Office of Aeronautical Charting and Cartography to provide aeronautical charts and related products and services for safe and efficient navigation of air commerce transferred to Administrator of Federal Aviation Administration effective Oct. 1, 2000, see section 44721(c)(3) of Title 49, Transportation.
+Functions of Secretary and other officers of Department of Commerce under this section that relate to theOffice of Aeronautical Charting and Cartography to provide aeronautical charts and related products and services for safe and efficient navigation of air commerce transferred to Administrator of Federal Aviation Administration effective Oct. 1, 2000, see section 44721(c)(3) of Title 49, Transportation.
 
 #### Sale of Aeronautical Charts: Disposition of Receipts Resulting From Price Increase
 

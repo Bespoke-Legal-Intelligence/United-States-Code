@@ -33,7 +33,7 @@ Limitations.—Of the total number of members of a reserve component who are ser
 | 32,000 | 2,500 | 760&nbsp;&nbsp; |
 | 34,000 | 2,600 | 780&nbsp;&nbsp; |
 | 36,000 | 2,700 | 800&nbsp;&nbsp; |
-| 38,000 | 2,800 | 820&nbsp;&nbsp; |
+| 38,000 | 2,800 | 820   |
 | 40,000 | 2,900 | 830&nbsp;&nbsp; |
 | 42,000 | 3,000 | 840&nbsp;&nbsp; |
 | &nbsp; |  |  |
@@ -67,7 +67,7 @@ Limitations.—Of the total number of members of a reserve component who are ser
 | 2,000 | 93 | 20&nbsp;&nbsp; |
 | 2,100 | 96 | 21&nbsp;&nbsp; |
 | 2,200 | 99 | 22&nbsp;&nbsp; |
-| 2,300 | 101 | 23   |
+| 2,300 | 101 | 23&nbsp;&nbsp; |
 | 2,400 | 103 | 24&nbsp;&nbsp; |
 | 2,500 | 105 | 25&nbsp;&nbsp; |
 | 2,600 | 107 | 26&nbsp;&nbsp; |

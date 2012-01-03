@@ -100,7 +100,7 @@ When awarding grants or cooperative agreements under this section, the Secretary
 
 &emsp;&emsp;Each eligible State agency awarded a grant or cooperative agreement under this section may use part of the funds for—
 
-&emsp;&emsp;&emsp;(i) training programs for family caregivers to assist such family caregivers in making informed decisions about respite care services;
+&emsp;&emsp;&emsp;(i) training programs for family caregivers to assist such family caregivers inmaking informed decisions about respite care services;
 
 &emsp;&emsp;&emsp;(ii) other services essential to the provision of respite care as the Secretary may specify; or
 

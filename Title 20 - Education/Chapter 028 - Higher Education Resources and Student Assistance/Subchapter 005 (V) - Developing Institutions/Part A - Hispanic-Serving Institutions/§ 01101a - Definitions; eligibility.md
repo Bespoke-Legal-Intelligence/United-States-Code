@@ -78,7 +78,7 @@ For the purpose of this subchapter, the term “enrollment of needy students” 
 
 &emsp;(2) a substantial percentage of the students so enrolled are receiving Federal Pell Grants in the second fiscal year preceding the fiscal year for which the determination is made, compared to the percentage of students receiving Federal Pell Grants at all such institutions in the second fiscal year preceding the fiscal year for which the determination is made, unless the requirement of this paragraph is waived under section 1103a(a) of this title.
 
-(Pub. L. 89–329, title V, §502, as added Pub. L. 105–244, title V, §501, Oct. 7, 1998, 112 Stat. 1766;amended Pub. L. 108–375, div. A, title X, §1087, Oct. 28, 2004, 118 Stat. 2066; Pub. L. 109–292, §4(a), Sept. 30, 2006, 120 Stat. 1341; Pub. L. 110–315, title V, §502(b)(1), Aug. 14, 2008, 122 Stat. 3333; Pub. L. 111–39, title V, §501, July 1, 2009, 123 Stat. 1953.)
+(Pub. L. 89–329, title V, §502, as added Pub. L. 105–244, title V, §501, Oct. 7, 1998, 112 Stat. 1766; amended Pub. L. 108–375, div. A, title X, §1087, Oct. 28, 2004, 118 Stat. 2066; Pub. L. 109–292, §4(a), Sept. 30, 2006, 120 Stat. 1341; Pub. L. 110–315, title V, §502(b)(1), Aug. 14, 2008, 122 Stat. 3333; Pub. L. 111–39, title V, §501, July 1, 2009, 123 Stat. 1953.)
 
 #### Prior Provisions
 

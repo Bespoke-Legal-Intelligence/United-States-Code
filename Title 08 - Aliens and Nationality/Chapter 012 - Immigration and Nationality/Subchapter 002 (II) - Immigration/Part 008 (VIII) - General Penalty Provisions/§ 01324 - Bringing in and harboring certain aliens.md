@@ -102,15 +102,15 @@ The Federal Rules of Evidence, referred to in subsec. (d), are set out in the Ap
 
 #### Amendments
 
-2005—Subsec. (a)(1)(C). Pub. L. 109–97 added subpar. (C).
+<b>2005</b>—Subsec. (a)(1)(C). Pub. L. 109–97 added subpar. (C).
 
-2004—Subsec. (a)(4). Pub. L. 108–458, §5401(a), added par. (4).
+<b>2004</b>—Subsec. (a)(4). Pub. L. 108–458, §5401(a), added par. (4).
 
 Subsec. (e). Pub. L. 108–458, §5401(b), added subsec. (e).
 
-2000—Subsec. (b). Pub. L. 106–185 inserted heading and amended text of subsec. (b) generally, substituting present provisions for provisions relating to conveyances subject to seizure and forfeiture, exceptions, officers and authorized persons, disposition of forfeited conveyances, and suits and actions.
+<b>2000</b>—Subsec. (b). Pub. L. 106–185 inserted heading and amended text of subsec. (b) generally, substituting present provisions for provisions relating to conveyances subject to seizure and forfeiture, exceptions, officers and authorized persons, disposition of forfeited conveyances, and suits and actions.
 
-1996—Subsec. (a)(1). Pub. L. 104–208, §671(a)(1), made technical amendment to directory language of Pub. L. 103–322, §60024(1)(F). See 1994 Amendment note below.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–208, §671(a)(1), made technical amendment to directory language of Pub. L. 103–322, §60024(1)(F). See 1994 Amendment note below.
 
 Subsec. (a)(1)(A)(v). Pub. L. 104–208, §203(b)(1), which directed the amendment of subsec. (a)(1)(A) by adding cl. (v) at end, was executed by adding cl. (v) after cl. (iv), to reflect the probable intent of Congress.
 
@@ -130,17 +130,17 @@ Subsec. (a)(3). Pub. L. 104–208, §203(b)(4), added par. (3).
 
 Subsec. (d). Pub. L. 104–208, §219, added subsec. (d).
 
-1994—Subsec. (a)(1). Pub. L. 103–322, §60024(1)(F), as amended by Pub. L. 104–208, §671(a)(1), substituted “shall be punished as provided in subparagraph (B)” for “shall be fined in accordance with title 18, United States Code, or imprisoned not more than five years, or both, for each alien in respect to whom any violation of this paragraph occurs” in concluding provisions.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–322, §60024(1)(F), as amended by Pub. L. 104–208, §671(a)(1), substituted “shall be punished as provided in subparagraph (B)” for “shall be fined in accordance with title 18, United States Code, or imprisoned not more than five years, or both, for each alien in respect to whom any violation of this paragraph occurs” in concluding provisions.
 
 Pub. L. 103–322, §60024(1)(A)–(E), (G), designated existing provisions of par. (1) as subpar. (A) of par. (1), redesignated subpars. (A) to (D) of former par. (1) as cls. (i) to (iv), respectively, of subpar. (A), and added subpar. (B).
 
 Subsec. (a)(2)(B). Pub. L. 103–322, §60024(2), in concluding provisions, substituted “or in the case of a violation of subparagraph (B)(ii), imprisoned not more than 10 years, or both; or in the case of a violation of subparagraph (B)(i) or (B)(iii), imprisoned not more than 5 years, or both.” for “or imprisoned not more than five years, or both”.
 
-1988—Subsec. (a)(1). Pub. L. 100–525, §2(d)(1), in closing provisions substituted “or imprisoned” for “imprisoned” and “this paragraph” for “this subsection”.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–525, §2(d)(1), in closing provisions substituted “or imprisoned” for “imprisoned” and “this paragraph” for “this subsection”.
 
 Subsec. (b)(4)(C), (5). Pub. L. 100–525, §2(d)(2), amended Pub. L. 99–603, §112(b)(5), (8). See 1986 Amendment note below.
 
-1986—Subsec. (a). Pub. L. 99–603, §112(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any person, including the owner, operator,pilot, master, commanding officer, agent, or consignee of any means of transportation who—
+<b>1986</b>—Subsec. (a). Pub. L. 99–603, §112(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any person, including the owner, operator,pilot, master, commanding officer, agent, or consignee of any means of transportation who—
 
 &emsp;“(1) brings into or lands in the United States, by any means of transportation or otherwise, or attempts, by himself or through another, to bring into or land in the United States, by any means of transportation or otherwise;
 
@@ -164,9 +164,9 @@ Subsec. (b)(4)(D). Pub. L. 99–603, §112(b)(6), added subpar. (D).
 
 Subsec. (b)(5). Pub. L. 99–603, §112(b)(7)–(9), as amended by Pub. L. 100–525, §2(d)(2)(B), substituted “, except that” for “: <i>Provided</i>, That” in provisions preceding subpar. (A), substituted “had not received prior official authorization to come to, enter, or reside in the United States or that such alien had come to, entered, or remained in the United States in violation of law” for “was not lawfully entitled to enter, or reside within, the United States” wherever appearing, inserted “or of the Department of State” in subpar. (B), and substituted “had not received prior official authorization to come to, enter, or reside in the United States or that such alien had come to, entered, or remained in the United States in violation of law” for “was not entitled to enter, or reside within, the United States” in subpar. (C).
 
-1981—Subsec. (b). Pub. L. 97–116 strengthened the seizure and forfeiture authority by striking out the “innocent owner” exemption and merely requiring the Government to show probable cause that the conveyance seized has been used to illegally transport aliens, which when demonstrated, shifts the burden of proof to the owner or claimant to show by a preponderance of the evidence that the conveyance was not illegally used, by relieving the Government of the obligation to pay any administrative and incidental costs incurred by a successful claimant provided probable cause for the original seizure was demonstrated, and by striking out the requirement that the Government satisfy any valid lien or third party interest in the conveyance without expense to the interest holder by providing the lienholders interest be satisfied only after costs associated with the seizure have been deducted.
+<b>1981</b>—Subsec. (b). Pub. L. 97–116 strengthened the seizure and forfeiture authority by striking out the “innocent owner” exemption and merely requiring the Government to show probable cause that the conveyance seized has been used to illegally transport aliens, which when demonstrated, shifts the burden of proof to the owner or claimant to show by a preponderance of the evidence that the conveyance was not illegally used, by relieving the Government of the obligation to pay any administrative and incidental costs incurred by a successful claimant provided probable cause for the original seizure was demonstrated, and by striking out the requirement that the Government satisfy any valid lien or third party interest in the conveyance without expense to the interest holder by providing the lienholders interest be satisfied only after costs associated with the seizure have been deducted.
 
-1978—Subsecs. (b), (c). Pub. L. 95–582 added subsec. (b) and redesignated former subsec. (b) as (c).
+<b>1978</b>—Subsecs. (b), (c). Pub. L. 95–582 added subsec. (b) and redesignated former subsec. (b) as (c).
 
 #### Effective Date of 2000 Amendment
 

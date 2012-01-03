@@ -16,51 +16,51 @@ As used in section 1709 of this title—
 
 (g) The term “real estate” means land and all natural resources and structures permanently affixed to the land, including residential buildings and stationary manufactured housing. The Secretary may not require, for treatment of any land or other property as real estate for purposes of this subchapter, that such land or property be treated as real estate for purposes of State taxation.
 
-(June 27, 1934, ch. 847, title II, §201, 48 Stat. 1247; Feb. 3, 1938, ch. 13, §3, 52 Stat. 9; Mar. 28, 1941, ch. 31, §4(a), 55 Stat. 61; Apr. 20, 1950, ch. 94, title I, §122, 64 Stat. 59; July 14, 1952, ch. 723, §10(a)(2), 66 Stat. 603; Pub. L. 86–70, §10(a), June 25, 1959, 73 Stat. 142; Pub. L. 86–624, §6, July 12, 1960, 74 Stat. 411; Pub. L. 90–19, §1(a)(3), May 25, 1967, 81 Stat. 17; Pub. L. 91–152, title IV, §403(c)(1), Dec. 24, 1969, 83 Stat. 395; Pub. L. 96–399, title III, §306, Oct. 8, 1980, 94 Stat. 1640; Pub. L. 98–181, title IV, §407(b), Nov. 30, 1983, 97 Stat. 1211; Pub. L. 104–204, title IV, §425(b), Sept. 26, 1996, 110 Stat. 2928; Pub. L. 110–289, div. B, title I, §§2117(b), (c), 2120(c), July 30, 2008, 122 Stat. 2833, 2835.)
+(June 27, 1934, ch. 847, title II, §201, 48 Stat. 1247; Feb. 3, 1938, ch. 13, §3, 52 Stat. 9; Mar. 28, 1941, ch. 31, §4(a), 55 Stat. 61; Apr. 20, 1950, ch. 94, title I, §122, 64 Stat. 59; July 14, 1952, ch. 723, §10(a)(2), 66 Stat. 603; Pub. L. 86–70, §10(a), June 25, 1959,73 Stat. 142; Pub. L. 86–624, §6, July 12, 1960, 74 Stat. 411; Pub. L. 90–19, §1(a)(3), May 25, 1967, 81 Stat. 17; Pub. L. 91–152, title IV, §403(c)(1), Dec. 24, 1969, 83 Stat. 395; Pub. L. 96–399, title III, §306, Oct. 8, 1980, 94 Stat. 1640; Pub. L. 98–181, title IV, §407(b), Nov. 30, 1983, 97 Stat. 1211; Pub. L. 104–204, title IV, §425(b), Sept. 26, 1996, 110 Stat. 2928; Pub. L. 110–289, div. B, title I, §§2117(b), (c), 2120(c), July 30, 2008, 122 Stat. 2833, 2835.)
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–289, §2117(b), inserted “(A)” before “a first mortgage”, substituted “(B) a first mortgage on a leasehold on real estate (i)” for “or on a leasehold (1)” and “, or (ii)” for “or (2)”, and inserted “, or (C) a first mortgage given to secure the unpaid purchase price of a fee interest in, or long-term leasehold interest in, real estate consisting of a one-family unit in a multifamily project, including a project in which the dwelling units are attached, or are manufactured housing units, semi-detached, or detached, and an undivided interest in the common areas and facilities which serve the project” before semicolon.
+<b>2008</b>—Subsec. (a). Pub. L. 110–289, §2117(b), inserted “(A)” before “a first mortgage”, substituted “(B) a first mortgage on a leasehold on real estate (i)” for “or on a leasehold (1)” and “, or (ii)” for “or (2)”, and inserted “, or (C) a first mortgage given to secure the unpaid purchase price of a fee interest in, or long-term leasehold interest in, real estate consisting of a one-family unit in a multifamily project, including a project in which the dwelling units are attached, or are manufactured housing units, semi-detached, or detached, and an undivided interest in the common areas and facilities which serve the project” before semicolon.
 
 Subsec. (d). Pub. L. 110–289, §2120(c), substituted “the Commonwealth of the Northern Mariana Islands” for “the Trust Territory of the Pacific Islands”.
 
 Subsec. (g). Pub. L. 110–289, §2117(c), added subsec. (g).
 
-1996—Subsecs. (e), (f). Pub. L. 104–204 added subsecs. (e) and (f).
+<b>1996</b>—Subsecs. (e), (f). Pub. L. 104–204 added subsecs. (e) and (f).
 
-1983—Subsec. (d). Pub. L. 98–181 inserted “American Samoa,” after “Pacific Islands,”.
+<b>1983</b>—Subsec. (d). Pub. L. 98–181 inserted “American Samoa,” after “Pacific Islands,”.
 
-1980—Subsec. (a). Pub. L. 96–399 substituted “ten years to run beyond the maturity date of the mortgage” for “fifty years to run from the date the mortgage was executed”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–399 substituted “ten years to run beyond the maturity date of the mortgage” for “fifty years to run from the date the mortgage was executed”.
 
-1969—Subsec. (d). Pub. L. 91–152 inserted “the Trust Territory of the Pacific Islands” after “Guam”.
+<b>1969</b>—Subsec. (d). Pub. L. 91–152 inserted “the Trust Territory of the Pacific Islands” after “Guam”.
 
-1967—Subsec. (b). Pub. L. 90–19 substituted “Secretary” for “Commissioner”.
+<b>1967</b>—Subsec. (b). Pub. L. 90–19 substituted “Secretary” for “Commissioner”.
 
-1960—Subsec. (d). Pub. L. 86–624 struck out “Hawaii,” before “Puerto Rico”.
+<b>1960</b>—Subsec. (d). Pub. L. 86–624 struck out “Hawaii,” before “Puerto Rico”.
 
-1959—Subsec. (d). Pub. L. 86–70 struck out “Alaska,” before “Hawaii”.
+<b>1959</b>—Subsec. (d). Pub. L. 86–70 struck out “Alaska,” before “Hawaii”.
 
-1952—Subsec. (d). Act July 14, 1952, inserted “Guam,” after “District of Columbia”.
+<b>1952</b>—Subsec. (d). Act July 14, 1952, inserted “Guam,” after “District of Columbia”.
 
-1950—Act Apr. 20, 1950, substituted “Commissioner” for “Administrator”.
+<b>1950</b>—Act Apr. 20, 1950, substituted “Commissioner” for “Administrator”.
 
-1941—Subsec. (a). Act Mar. 28, 1941, §4(a)(1), struck out “district, or Territory”.
+<b>1941</b>—Subsec. (a). Act Mar. 28, 1941, §4(a)(1), struck out “district, or Territory”.
 
 Subsec. (d). Act Mar. 28, 1941, §4(a)(2), added subsec. (d).
 
-1938—Subsec. (a)(2). Act Feb. 3, 1938, struck out “upon which there is located a dwelling for not more than four families which is used in whole or in part for residential purposes, irrespective of whether such dwelling has a party wall or is otherwise physically connected with another dwelling” after “executed”.
+<b>1938</b>—Subsec. (a)(2). Act Feb. 3, 1938, struck out “upon which there is located a dwelling for not more than four families which is used in whole or in part for residential purposes, irrespective of whether such dwelling has a party wall or is otherwise physically connected with another dwelling” after “executed”.
 
 Subsec. (c). Act Feb. 3, 1938, added subsec. (c).
 
 #### Improvement of Financing for Multifamily Housing
 
-Pub. L. 102–550, title V, subtitle C, Oct. 28, 1992, 106 Stat. 3794, as amended, which related to improvement of financing for multifamily housing and was formerly set out as a note under this section, was transferred or omitted as follows:
+Pub. L. 102–550, title V, subtitle C, Oct. 28, 1992, 106 Stat. 3794, which related to improvement of financing for multifamily housing and was formerly set out as a note under this section, was transferred or omitted as follows:
 
 Section 541 of Pub. L. 102–550 was transferred and is set out as a note under section 1701 of this title;
 
 Section 542 of Pub. L. 102–550 was transferred to section 1715z–22 of this title;
 
-Section 543 of Pub. L. 102–550 was omitted from the Code;
+Section 543 of Pub. L. 102–550, as amended by Pub. L. 111–203, title III, §371, July 21, 2010, 124 Stat. 1565, was omitted from the Code;
 
 Section 544 of Pub. L. 102–550 was transferred to section 1715z–22a of this title.
 

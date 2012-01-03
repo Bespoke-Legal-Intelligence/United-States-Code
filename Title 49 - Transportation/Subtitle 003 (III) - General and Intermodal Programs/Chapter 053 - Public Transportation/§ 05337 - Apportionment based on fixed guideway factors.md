@@ -2,7 +2,7 @@
 
 (a)
 
-Distribution.—The Secretary shall apportion amounts made available for fixed guideway modernization under section 5309 for each of fiscal years 2005 through 2010 as follows:
+Distribution.—The Secretary shall apportion amounts made available for fixed guideway modernization under section 5309 for each of fiscal years 2005 through 2012 as follows:
 
 &emsp;(1) The first $497,700,000 shall be apportioned in the following urbanized areas as follows:
 
@@ -98,11 +98,11 @@ Adjustment.—For purposes of this section, an urbanized area with a population 
 
 (g)
 
-Special Rule for October 1, 2010,
+Special Rule for October 1, 2011,
 
-Through March 4, 2011.—The Secretary shall apportion amounts made available for fixed guideway modernization under section 5309 for the period beginning October 1, 2010, and ending March 4, 2011, in accordance with subsection (a), except that the Secretary shall apportion 155/365ths of each dollar amount specified in subsection (a).
+Through March 31, 2012.—The Secretary shall apportion amounts made available for fixed guideway modernization under section 5309 for the period beginning on October 1, 2011, and ending on March 31, 2012, in accordance with subsection (a), except that the Secretary shall apportion 50 percent of each dollar amount specified in subsection (a).
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 844; Pub. L. 103–429, §6(14), Oct. 31, 1994, 108 Stat.4379; Pub. L. 102–240, title III, §3049(b), as added Pub. L. 105–130, §8, Dec. 1, 1997, 111 Stat. 2559; Pub. L. 105–178, title III, §§3028, 3029(b)(12), June 9, 1998, 112 Stat. 366, 373; Pub. L. 105–206, title IX, §9009(p), July 22, 1998, 112 Stat. 858; Pub. L. 108–88, §8(b)(2), Sept. 30, 2003, 117 Stat. 1121; Pub. L. 109–59, title III, §3035(a), Aug. 10, 2005, 119 Stat. 1629; Pub. L. 110–244, title II, §201(m), June 6, 2008, 122 Stat. 1611; Pub. L. 111–147, title IV, §435, Mar. 18, 2010, 124 Stat. 89; Pub. L. 111–322, title II, §2305, Dec. 22, 2010, 124 Stat. 3528.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 844; Pub. L. 103–429, §6(14), Oct. 31, 1994, 108 Stat. 4379; Pub. L. 102–240, title III, §3049(b), as added Pub. L. 105–130, §8, Dec. 1, 1997, 111 Stat. 2559; Pub. L. 105–178, title III, §§3028, 3029(b)(12), June 9, 1998, 112 Stat. 366, 373; Pub. L. 105–206, title IX, §9009(p), July 22, 1998, 112 Stat. 858; Pub. L. 108–88, §8(b)(2), Sept. 30, 2003, 117 Stat. 1121; Pub. L. 109–59, title III, §3035(a), Aug. 10, 2005, 119 Stat. 1629; Pub. L. 110–244, title II, §201(m), June 6, 2008, 122 Stat. 1611; Pub. L. 111–147, title IV, §435, Mar. 18, 2010, 124 Stat. 89; Pub. L. 111–322, title II, §2305, Dec. 22, 2010, 124 Stat. 3528; Pub. L. 112–5, title III, §305, Mar. 4, 2011, 125 Stat. 19; Pub. L. 112–30, title I, §135, Sept. 16, 2011, 125 Stat. 352.)
 
 Historical and Revision Notes
 
@@ -151,6 +151,14 @@ This amends 49:5337(a)(4) to correct an erroneous cross-reference.
 The date of enactment of the Federal Public Transportation Act of 2005, referred to in subsec. (f), is the date of enactment of title III of Pub. L. 109–59, which was approved Aug. 10, 2005.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (a). Pub. L. 112–30, §135(1), substituted “2012” for “2011” in introductory provisions.
+
+Pub. L. 112–5, §305(1), substituted “2011” for “2010” in introductory provisions.
+
+Subsec. (g). Pub. L. 112–30, §135(2), added subsec. (g).
+
+Pub. L. 112–5, §305(2), struck out subsec. (g). Text read as follows: “The Secretary shall apportion amounts made available for fixed guideway modernization under section 5309 for the period beginning October 1, 2010, and ending March 4, 2011, in accordance with subsection (a), except that the Secretary shall apportion 155/365ths of each dollar amount specified in subsection (a).”
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–147, §435(1), substituted “2010” for “2009” in introductory provisions.
 

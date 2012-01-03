@@ -104,7 +104,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (b)(1). Pub. L. 110–246, §6106(a)(1)(A), substituted “for eligible electrification or telephone purposes consistent with this chapter” for “for electrification or telephone purposes that have been made concurrently with loans approved for such purposes under this chapter”.
+<b>2008</b>—Subsec. (b)(1). Pub. L. 110–246, §6106(a)(1)(A), substituted “for eligible electrification or telephone purposes consistent with this chapter” for “for electrification or telephone purposes that have been made concurrently with loans approved for such purposes under this chapter”.
 
 Subsec. (b)(4). Pub. L. 110–246, §6106(a)(1)(B), added par. (4) and struck out former par. (4) which related to prohibition on use of amounts from reduced funding costs for interest rate reduction except for certain concurrent loans.
 

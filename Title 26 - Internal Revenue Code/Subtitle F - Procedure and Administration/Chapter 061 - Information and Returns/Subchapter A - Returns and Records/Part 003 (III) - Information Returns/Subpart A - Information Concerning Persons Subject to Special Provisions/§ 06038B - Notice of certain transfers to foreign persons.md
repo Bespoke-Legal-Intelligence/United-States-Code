@@ -34,7 +34,7 @@ Each United States person who—
 
 #### (1) In general
 
-&emsp;If any United States person fails to furnish the information described in subsection (a) at the time and in the manner required by regulations, such person shall pay a penalty equal to 10 percent of the fair market value of the property at the time of the exchange (and, in the case of a contribution described in subsection (a)(1)(B), such person shall recognizegain as if the contributed property had been sold for such value at the time of such contribution).
+&emsp;If any United States person fails to furnish the information described in subsection (a) at the time and in the manner required by regulations, such person shall pay a penalty equal to 10 percent of the fair market value of the property at the time of the exchange (and, in the case of a contribution described in subsection (a)(1)(B), such person shall recognize gain as if the contributed property had been sold for such value at the time of such contribution).
 
 #### (2) Reasonable cause exception
 

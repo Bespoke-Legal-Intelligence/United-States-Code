@@ -14,7 +14,7 @@ Compliance at Phased Rate.—The Secretary shall require each air carrier and fo
 
 (c)
 
-Nondiscrimination.—The requirement for air carriers providing foreign air transportation may not be more stringent than the requirement for foreign air carriers.
+Nondiscrimination.—The requirement for air carriers providing foreign air transportationmay not be more stringent than the requirement for foreign air carriers.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1287.)
 

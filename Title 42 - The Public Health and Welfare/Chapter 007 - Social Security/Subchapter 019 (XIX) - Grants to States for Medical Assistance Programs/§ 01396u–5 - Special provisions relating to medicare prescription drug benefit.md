@@ -2,7 +2,7 @@
 
 #### (a) Requirements relating to medicare prescription drug low-income subsidies, medicare transitional prescription drug assistance, and medicare cost-sharing
 
-As a condition of its State plan under this subchapter under section 1396a(a)(66) of this title and receipt of any Federal financial assistance under section 1396b(a) of this title subject tosubsection (e) of this section, a State shall do the following:
+As a condition of its State plan under this subchapter under section 1396a(a)(66) of this title and receipt of any Federal financial assistance under section 1396b(a) of this title subject to subsection (e) of this section, a State shall do the following:
 
 #### (1) Information for transitional prescription drug assistance verification
 
@@ -168,7 +168,7 @@ The amounts expended by a State in carrying out subsection (a) of this section a
 
 #### (1) Medicare as primary payor
 
-&emsp;In the case of a part D eligible individual (as defined in section 1395w–101(a)(3)(A) of thistitle) who is described in subsection (c)(6)(A)(ii) of this section, notwithstanding any other provision of this subchapter, medical assistance is not available under this subchapter for such drugs (or for any cost-sharing respecting such drugs), and the rules under this subchapter relating to the provision of medical assistance for such drugs shall not apply. The provision of benefits with respect to such drugs shall not be considered as the provision of care or services under the plan under this subchapter. No payment may be made under section 1396b(a) of this title for prescribed drugs for which medical assistance is not available pursuant to this paragraph.
+&emsp;In the case of a part D eligible individual (as defined in section 1395w–101(a)(3)(A) of this title) who is described in subsection (c)(6)(A)(ii) of this section, notwithstanding any other provision of this subchapter, medical assistance is not available under this subchapter for such drugs (or for any cost-sharing respecting such drugs), and the rules under this subchapter relating to the provision of medical assistance for such drugs shall not apply. The provision of benefits with respect to such drugs shall not be considered as the provision of care or services under the plan under this subchapter. No payment may be made under section 1396b(a) of this title for prescribed drugs for which medical assistance is not available pursuant to this paragraph.
 
 #### (2) Coverage of certain excludable drugs
 
@@ -220,19 +220,13 @@ The amounts expended by a State in carrying out subsection (a) of this section a
 
 #### (4) Report
 
-&emsp;The Secretary shall submit to Congress a report on the application of this subsection and may include in the report such recommendations as the Secretary deems appropriate.
+&emsp;The Secretary shall submit to Congress a report on the application of this subsection andmay include in the report such recommendations as the Secretary deems appropriate.
 
 (Aug. 14, 1935, ch. 531, title XIX, §1935, as added and amended Pub. L. 108–173, title I, §103(a)(2)(B), (b)–(d)(1), Dec. 8, 2003, 117 Stat. 2154–2158; Pub. L. 109–91, title I, §104(c), Oct. 20, 2005, 119 Stat. 2093; Pub. L. 110–275, title I, §113(b), July 15, 2008, 122 Stat. 2506.)
 
 #### References in Text
 
-Part D of subchapter XVIII of this chapter, referred to in subsecs. (a)(2)(C), (c)(6)(A)(i), and (d)(2), is classified to section 1395w–101 et seq. of this title.
-
 No act with the title Federal Claims Collection Act of 1996, referred to in subsec. (c)(1)(C), has been enacted. However, Pub. L. 89–508, July 19, 1966, 80 Stat. 308, was known as the Federal Claims Collection Act of 1966. Sections 2, 3, and 5 of Pub. L. 89–508, which enacted sections 951, 952, and 954, respectively, of former Title 31, Money and Finance, were repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 877, the first section of which enacted Title 31, Money and Finance. For disposition of sections of former Title 31 into revised Title 31, see Table preceding section 101 of Title 31. For complete classification of Pub. L. 89–508 to the Code, see Tables.
-
-Part C of subchapter XVIII of this chapter, referred to in subsecs. (c)(6)(A)(i) and (d)(2), is classified to section 1395w–21 et seq. of this title.
-
-Parts A and B, referred to in subsec. (e)(3)(A)(ii)(I), probably means parts A and B of subchapter XVIII of this chapter. This subchapter does not contain parts.
 
 #### Prior Provisions
 

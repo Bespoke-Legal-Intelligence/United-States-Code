@@ -22,7 +22,7 @@ Section was enacted as part of the Farm Security and Rural Investment Act of 200
 
 #### Amendments
 
-2008—Subsec. (b). Pub. L. 110–246, §4404(c), added subsec. (b) and struck out former subsec. (b) which related to authority of the Secretary of Agriculture to purchase fresh fruits and vegetables for distribution to schools and service institutions and to provide for the Secretary of Defense to serve as the servicing agency for their procurement.
+<b>2008</b>—Subsec. (b). Pub. L. 110–246, §4404(c), added subsec. (b) and struck out former subsec. (b) which related to authority of the Secretary of Agriculture to purchase fresh fruits and vegetables for distribution to schools and service institutions and to provide for the Secretary of Defense to serve as the servicing agency for their procurement.
 
 #### Effective Date of 2008 Amendment
 

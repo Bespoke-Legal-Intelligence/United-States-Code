@@ -116,7 +116,7 @@ Report.—(1) Not later than March 1 of each of 1998, 1999, and 2000, the Secret
 
 “(2) The report for a fiscal year shall contain, at a minimum, the following:
 
-&emsp;“(A) The aggregate value of all contracts, grants, cooperative agreements, or other transactions entered into during the fiscal year for which funding is counted toward meeting an objective under this section, expressed in relationship to the total amount appropriated for the applied research programs in the Department of Defense for that fiscal year.
+&emsp;“(A) The aggregate value of all contracts, grants, cooperative agreements, or other transactions entered into during the fiscal year for which funding is counted toward meeting an objective under this section, expressed in relationship to the total amountappropriated for the applied research programs in the Department of Defense for that fiscal year.
 
 &emsp;“(B) For each military department, the value of all contracts, grants, cooperative agreements, or other transactions entered into during the fiscal year for which funding is counted toward meeting an objective under this section, expressed in relationship to the total amount appropriated for the applied research program of the military department for that fiscal year.
 

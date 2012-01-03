@@ -18,7 +18,7 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### Amendments
 
-2006—Pub. L. 109–241 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>2006</b>—Pub. L. 109–241 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-1950—Act Aug. 3, 1950, struck out comma after “Secretary” and substituted “any” for “and” after “Secretary”.
+<b>1950</b>—Act Aug. 3, 1950, struck out comma after “Secretary” and substituted “any” for “and” after “Secretary”.
 

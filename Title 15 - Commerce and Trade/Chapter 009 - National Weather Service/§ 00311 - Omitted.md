@@ -40,7 +40,7 @@ All functions vested by law in the Weather Bureau, the Chief of the Weather Bure
 
 #### Sec. 3. Environmental Science Services Administration
 
-(a) The Coast and Geodetic Survey and the Weather Bureau are hereby consolidated to form a new agency in the Department of Commerce which shall be known as the Environmental Science Services Administration, hereinafter referred to as the Administration.
+(a) The Coast and Geodetic Survey and the Weather Bureau are hereby consolidated to form a new agencyin the Department of Commerce which shall be known as the Environmental Science Services Administration, hereinafter referred to as the Administration.
 
 (b) The Secretary shall from time to time establish such constituent organizational entities of the Administration, with such names, as he shall determine.
 
@@ -50,7 +50,7 @@ All functions vested by law in the Weather Bureau, the Chief of the Weather Bure
 
 (b)(1) There shall be in the Administration a Deputy Administrator of the Environmental Science Services Administration, hereinafter referred to as the Deputy Administrator, who shall be appointed by the President by and with the advice and consent of the Senate, shall perform such functions as the Secretary may from time to time direct, and, unless he is compensated in pursuance of the provisions of paragraph (2), below, shall receive compensation in accordance with the Classification Act of 1949, as amended \[chapter 51 and subchapter III of chapter 53 of Title 5\].
 
-(2) The office of Deputy Administrator may be filled at the discretion of the President by appointment (byand with the advice and consent of the Senate) from the active list of commissioned officers of the Administration in which case the appointment shall create a vacancy on the active list and while holding the office of Deputy Administrator the officer shall have rank, pay and allowances not exceeding those of a Vice Admiral.
+(2) The office of Deputy Administrator may be filled at the discretion of the President by appointment (by and with the advice and consent of the Senate) from the active list of commissioned officers of the Administration in which case the appointment shall create a vacancy on the active list and while holding the office of Deputy Administrator the officer shall have rank, pay and allowances not exceeding those of a Vice Admiral.
 
 (c) The Deputy Administrator or such other official of the Department of Commerce as the Secretary shall from time to time designate shall act as Administrator during the absence or disability of the Administrator or in the event of a vacancy in the office of Administrator.
 
@@ -92,7 +92,7 @@ The new Administration will bring together a number of allied scientific discipl
 
 The reorganization plan provides for an Administrator at the head of the Administration, and for a Deputy Administrator, each of whom will be appointed by the President by and with the advice and consent of the Senate. As authorized by the civil service and other laws and regulations, subordinate officers of the Administration will be appointed by the Secretary of Commerce or be assigned by him from among a corps of commissioned officers. The Administration will perform such functions as the Secretary of Commerce may delegate or otherwise assign to it and will be under his direction and control.
 
-Commissioned officers of the Coast and Geodetic Survey will become commissioned officers of the Administration and may serve at the discretion of the Secretary of Commerce throughout the Administration. The reorganization plan authorizes the President at hisdiscretion to fill the Office of Deputy Administrator by appointment, by and with the advice and consent of the Senate, from the active list of commissioned officers of the Administration.
+Commissioned officers of the Coast and Geodetic Survey will become commissioned officers of the Administration and may serve at the discretion of the Secretary of Commerce throughout the Administration. The reorganization plan authorizes the President at his discretion to fill the Office of Deputy Administrator by appointment, by and with the advice and consent of the Senate, from the active list of commissioned officers of the Administration.
 
 The reorganization plan transmitted herewith abolishes—and thus excludes from the consolidation mentioned above—the offices of (1) Chief of the Weather Bureau, provided for in the act of October 1, 1890 (15 U.S.C. 312); (2) Director of the Coast and Geodetic Survey, provided for in the acts of June 4, 1920, and February 16, 1929, as amended (33 U.S.C. 852, 852a); and (3) Deputy Director of the Coast and Geodetic Survey, provided for in the act of January 19, 1942, as amended (33 U.S.C. 852b).
 

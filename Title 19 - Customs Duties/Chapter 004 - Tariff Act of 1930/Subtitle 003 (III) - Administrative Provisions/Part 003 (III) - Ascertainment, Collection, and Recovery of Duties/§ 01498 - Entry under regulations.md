@@ -52,7 +52,7 @@ Section 1201 of this title, referred to in subsec. (a)(12), which comprised the 
 
 Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §498, 42 Stat. 964. That section was superseded by section 498 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
-Provision for an entry, separate from that of other merchandise, of wearing apparel, personal baggage, andtools and implements of a mechanical trade, was made by R.S. §2799, which also prescribed the contents of such entry, and of the accompanying oath. R.S. §2800 provided for a bond when the person making entry was not the owner. R.S. §2801 provided for a landing permit, and for an examination of baggage when deemed proper by the collector and naval officer, and for entry of articles not exempt from duty. All of these sections were repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
+Provision for an entry, separate from that of other merchandise, of wearing apparel, personal baggage, and tools and implements of a mechanical trade, was made by R.S. §2799, which also prescribed the contents of such entry, and of the accompanying oath. R.S. §2800 provided for a bond when the person making entry was not the owner. R.S. §2801 provided for a landing permit, and for an examination of baggage when deemed proper by the collector and naval officer, and for entry of articles not exempt from duty. All of these sections were repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 
 #### Amendments
 

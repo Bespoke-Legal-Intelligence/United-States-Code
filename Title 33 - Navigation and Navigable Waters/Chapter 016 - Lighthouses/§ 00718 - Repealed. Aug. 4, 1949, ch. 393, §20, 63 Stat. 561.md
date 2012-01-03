@@ -1,6 +1,6 @@
 ### §718. Repealed. Aug. 4, 1949, ch. 393, §20, 63 Stat. 561
 
-Section, act Feb. 26, 1907, ch. 1638, §6, 34 Stat. 997, related to traveling expenses of Army and Navy officers. See section 404 et seq. of Title 37, Pay and Allowances of the Uniformed Services.
+Section, act Feb. 26, 1907, ch. 1638, §6, 34 Stat. 997, related to traveling expenses of Army and Navy officers.
 
 #### Effective Date of Repeal
 

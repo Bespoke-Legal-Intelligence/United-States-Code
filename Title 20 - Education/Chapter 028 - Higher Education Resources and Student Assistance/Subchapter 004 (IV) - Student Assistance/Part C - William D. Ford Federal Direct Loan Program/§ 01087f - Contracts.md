@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall, to the extent practicable, award contracts for origination, servicing, and collection described in subsection (b) of this section. In awarding such contracts, the Secretary shall ensure that such services and supplies are provided at competitive prices.
+&emsp;The Secretary shall, to the extent practicable, award contracts for origination, servicing, and collection described in subsection (b) of this section. In awarding such contracts, the Secretary shall ensure that such servicesand supplies are provided at competitive prices.
 
 #### (2) Entities
 
@@ -84,7 +84,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(ii) notwithstanding clause (i), as of July 1, 2009—
 
-&emsp;&emsp;&emsp;&emsp;(I) is the sole beneficial owner of a loan for which the special allowance rate is calculated under section 1087–1(b)(2)(I)(vi)(II) of this title because the loan is held by an eligible lender trustee that is an eligible not-for-profit holder as defined under section 1085(p)(1)(D) of this title; and
+&emsp;&emsp;&emsp;&emsp;(I) is the sole beneficial owner of a loan for which the special allowance rate is calculated under section 1087–1(b)(2)(I)(vi)(II) of this title because the loan is held by an eligible lendertrustee that is an eligible not-for-profit holder as defined under section 1085(p)(1)(D) of this title; and
 
 &emsp;&emsp;&emsp;&emsp;(II) was performing, or had entered into a contract with a third party servicer (as such term is defined in section 1088(c) of this title) who was performing, student loan servicing functions for loans made under part B of this subchapter; or
 

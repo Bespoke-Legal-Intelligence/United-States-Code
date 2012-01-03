@@ -188,7 +188,7 @@ For purposes of this section—
 
 #### (6) Special rule for certain accident and health insurance lines of business
 
-&emsp;Any determination under subsection (a) with respect to unpaid losses relating to accidentand health insurance lines of businesses (other than credit disability insurance) shall be made—
+&emsp;Any determination under subsection (a) with respect to unpaid losses relating to accident and health insurance lines of businesses (other than credit disability insurance) shall be made—
 
 &emsp;&emsp;(A) in the case of unpaid losses relating to disability income, by using the general rules prescribed under section 807(d) applicable to noncancellable accident and health insurance contracts and using a mortality or morbidity table reflecting the taxpayer's experience; except that—
 

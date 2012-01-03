@@ -54,7 +54,7 @@
 
 Housing that is for homeownership shall qualify as affordable housing under this subchapter only if the housing—
 
-&emsp;(1) has an initial purchase price that does not exceed 95 percent of the median purchase price for the area, as determined by the Secretary with such adjustments for differences in structure, including whether the housing is single-family or multifamily, and for new and old housing as the Secretary determines to be appropriate;
+&emsp;(1) has an initial purchase price that does not exceed 95 percent of the median purchase price for the area, as determined by the Secretary with such adjustments for differences in structure, including whether the housing issingle-family or multifamily, and for new and old housing as the Secretary determines to be appropriate;
 
 &emsp;(2) is the principal residence of an owner whose family qualifies as a low-income family—
 
@@ -80,7 +80,7 @@ Housing that is for homeownership shall qualify as affordable housing under this
 
 #### References in Text
 
-This Act, referred to in subsec. (a)(1)(E), (3), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079, known as theCranston-Gonzalez National Affordable Housing Act. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
+This Act, referred to in subsec. (a)(1)(E), (3), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079, known as the Cranston-Gonzalez National Affordable Housing Act. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
 
 #### Amendments
 

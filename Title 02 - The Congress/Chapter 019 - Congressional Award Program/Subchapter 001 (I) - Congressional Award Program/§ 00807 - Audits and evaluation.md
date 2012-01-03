@@ -16,15 +16,15 @@ Section 806(i) of this title, referred to in subsec. (a), was in the original a 
 
 #### Amendments
 
-1990—Subsec. (a). Pub. L. 101–525, §8(1), substituted “section 806(i) of this title” for “section 806(h) of this title” and “annually” for “at least biennially”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–525, §8(1), substituted “section 806(i) of this title” for “section 806(h) of this title” and “annually” for “at least biennially”.
 
 Subsec. (b). Pub. L. 101–525, §8(2), added subsec. (b) and struck out former subsec. (b) which required audit to assess adequacy of fiscal control and funds accountability procedures and propriety of expenses.
 
 Subsecs. (c), (d). Pub. L. 101–525, §8(2), struck out subsec. (c) which required the Comptroller General to include in report on first audit performed after Nov. 25, 1985, an evaluation of programs and activities under this chapter and specified contents of such evaluation, and subsec. (d) which directed that report on first audit performed after Nov. 25, 1985, was to be submitted on or before May 15, 1988.
 
-1988—Subsec. (a). Pub. L. 100–674 substituted “section 806(h)” for “section 806(g)”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–674 substituted “section 806(h)” for “section 806(g)”.
 
-1985—Pub. L. 99–161, §4(g)(1), inserted “and evaluation” after “Audits” in section catchline.
+<b>1985</b>—Pub. L. 99–161, §4(g)(1), inserted “and evaluation” after “Audits” in section catchline.
 
 Subsec. (a). Pub. L. 99–161, §4(g)(2)–(4), designated existing provisions as subsec. (a), substituted “shall be audited at least biennially” for “may be audited”, and struck out “at such times as the Comptroller General may determine to be appropriate” after “referred to as the ‘Comptroller General’)”.
 

@@ -22,7 +22,7 @@ Vacancy Promotion Boards.—Consideration for promotion under this section shall
 
 (d)
 
-Effect of Nonselection.—An officer who is considered for promotion under this sectionand is not selected shall not be considered to have failed of selection for promotion.
+Effect of Nonselection.—An officer who is considered for promotion under this section and is not selected shall not be considered to have failed of selection for promotion.
 
 (e)
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Director of National Intelligence shall biennially submit to the congressional defense committees, the Select Committee on Intelligence of the Senate, and the Permanent Select Committee on Intelligence of the House of Representatives a report—
+The Director of National Intelligence shall biennially submit to the congressional defense committees, the Select Committee on Intelligence of the Senate, the Permanent Select Committee on Intelligence of the House of Representatives, the Committee on Foreign Relations of the Senate, and the Committee on Foreign Affairs of the House of Representatives a report—
 
 &emsp;(1) on the nuclear weapons programs and any related programs of countries that are non-nuclear-weapons state parties to the Treaty on Non-Proliferation of Nuclear Weapons, done at Washington, London, and Moscow July 1, 1968, and entered into force March 5, 1970 (commonly known as the “Nuclear Non-Proliferation Treaty”) and countries that are not parties to the Treaty;
 
@@ -96,7 +96,7 @@ In this section:
 
 &emsp;&emsp;(B) in any successor report on the acquisition by foreign countries of dual-use and other technology useful for the development or production of weapons of mass destruction.
 
-(Pub. L. 111–84, div. A, title X, §1055, Oct. 28, 2009, 123 Stat. 2461; Pub. L. 111–383, div. A, title X, §1075(d)(13), Jan. 7, 2011, 124 Stat. 4373.)
+(Pub. L. 111–84, div. A, title X, §1055, Oct. 28, 2009, 123 Stat. 2461; Pub. L. 111–383, div. A, title X, §1075(d)(13), Jan. 7, 2011, 124 Stat. 4373; Pub. L. 112–81, div. A, title X, §1071, Dec. 31, 2011, 125 Stat. 1592.)
 
 #### Codification
 
@@ -106,7 +106,9 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 #### Amendments
 
-<b>2011</b>—Subsec. (f). Pub. L. 111–383 made technical amendment to directory language of Pub. L. 111–84, §1055(f). See Codification note above.
+<b>2011</b>—Subsec. (a). Pub. L. 112–81 substituted “the Permanent” for “and the Permanent” and inserted “, the Committee on Foreign Relations of the Senate, and the Committee on Foreign Affairs of the House of Representatives” before “a report” in introductory provisions.
+
+Subsec. (f). Pub. L. 111–383 made technical amendment to directory language of Pub. L. 111–84, §1055(f). See Codification note above.
 
 #### Effective Date of 2011 Amendment
 

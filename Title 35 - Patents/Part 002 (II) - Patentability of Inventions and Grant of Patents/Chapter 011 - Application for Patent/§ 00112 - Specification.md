@@ -12,7 +12,33 @@ A claim in multiple dependent form shall contain a reference, in the alternative
 
 An element in a claim for a combination may be expressed as a means or step for performing a specified function without the recital of structure, material, or acts in support thereof, and such claim shall be construed to cover the corresponding structure, material, or acts described in the specification and equivalents thereof.
 
-(July 19, 1952, ch. 950, 66 Stat. 798; Pub. L. 89–83, §9, July 24, 1965, 79 Stat. 261; Pub. L. 94–131, §7, Nov. 14, 1975, 89 Stat. 691.)
+(July 19, 1952, ch. 950, 66 Stat. 798; Pub. L. 89–83, §9, July 24, 1965, 79 Stat. 261; Pub. L. 94–131, §7, Nov. 14, 1975, 89 Stat. 691; Pub. L. 112–29, §4(c), Sept. 16, 2011, 125 Stat. 296.)
+
+#### Amendment of Section
+
+<i>Pub. L. 112–29, §4(c), (e), Sept. 16, 2011, 125 Stat. 296, 297, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to any patent application that is filed on or after that effective date, this section is amended:</i>
+
+<i>(1) in the first undesignated paragraph—</i>
+
+<i>(A) by striking “The specification” and inserting “(a) IN GENERAL.—The specification”; and</i>
+
+<i>(B) by striking “of carrying out his invention” and inserting “or joint inventor of carrying out the invention”;</i>
+
+<i>(2) in the second undesignated paragraph—</i>
+
+<i>(A) by striking “The specification” and inserting “(b) CONCLUSION.—The specification”; and</i>
+
+<i>(B) by striking “applicant regards as his invention” and inserting “inventor or a joint inventor regards as the invention”;</i>
+
+<i>(3) in the third undesignated paragraph, by striking “A claim” and inserting “(c) FORM.—A claim”;</i>
+
+<i>(4) in the fourth undesignated paragraph, by striking “Subject to the following paragraph,” and inserting “(d) REFERENCE IN DEPENDENT FORMS.—Subject to subsection (e),”;</i>
+
+<i>(5) in the fifth undesignated paragraph, by striking “A claim” and inserting “(e) REFERENCE IN MULTIPLE DEPENDENT FORM.—A claim”; and</i>
+
+<i>(6) in the last undesignated paragraph, by striking “An element” and inserting “(f) ELEMENT IN CLAIM FOR A COMBINATION.—An element”.</i>
+
+<i>See 2011 Amendment note below.</i>
 
 #### Historical and Revision Notes
 
@@ -30,9 +56,15 @@ A new paragraph relating to functional claims is added.
 
 #### Amendments
 
+<b>2011</b>—Pub. L. 112–29 designated first to sixth pars. as subsecs. (a) to (f), respectively, inserted headings, in subsec. (a), substituted “or joint inventor of carryingout the invention” for “of carrying out his invention”, in subsec. (b), substituted “inventor or a joint inventor regards as the invention” for “applicant regards as his invention”, and in subsec. (d), substituted “Subject to subsection (e),” for “Subject to the following paragraph,”.
+
 <b>1975</b>—Pub. L. 94–131 substituted provision authorizing the writing of claims, if the nature of the case admits, in dependent or multiple dependent form for prior provision for writing claims in dependent form, required claims in dependent form to contain a reference to a claim previously set forth and then specify a further limitation of the subject matter claimed, substituted text respecting construction of a claim in dependent form so as to incorporate by reference all the limitations of the claim to which it refers for prior text for construction of a dependent claim to include all the limitations of the claim incorporated by reference into the dependent claim, and inserted paragraph respecting certain requirements for claims in multiple dependent form.
 
 <b>1965</b>—Pub. L. 89–83 permitted a claim to be written in independent or dependent form, and if in dependent form, required it to be construed to include all the limitations of the claim incorporated by reference into the dependent claim.
+
+#### Effective Date of 2011 Amendment
+
+Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to any patent application that is filed on or after that effective date, see section 4(e) of Pub. L. 112–29, set out as a note under section 111 of this title.
 
 #### Effective Date of 1975 Amendment
 

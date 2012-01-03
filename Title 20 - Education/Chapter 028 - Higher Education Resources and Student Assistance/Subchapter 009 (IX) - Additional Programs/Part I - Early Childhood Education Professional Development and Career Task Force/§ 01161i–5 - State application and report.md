@@ -22,7 +22,7 @@ Not later than two years after receiving a grant under this part, a State shall 
 
 &emsp;(2) the ways in which the State Advisory Council (or similar State entity) will coordinate the various State and local activities that support the early childhood education professional development and career system; and
 
-&emsp;(3) the ways in which the State Task Force will use funds provided under this part and carry out the activities described in section 1161i–4 of this title.
+&emsp;(3) the ways in which the State Task Force will use funds provided under this part andcarry out the activities described in section 1161i–4 of this title.
 
 (Pub. L. 89–329, title VIII, §816, as added Pub. L. 110–315, title VIII, §801, Aug. 14, 2008, 122 Stat. 3401.)
 

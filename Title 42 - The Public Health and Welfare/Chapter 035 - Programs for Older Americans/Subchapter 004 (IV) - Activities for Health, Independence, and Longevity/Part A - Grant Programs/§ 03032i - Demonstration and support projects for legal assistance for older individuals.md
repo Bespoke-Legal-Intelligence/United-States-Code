@@ -4,7 +4,7 @@
 
 The Assistant Secretary shall make grants and enter into contracts, in order to—
 
-&emsp;(1) provide a national legal assistance support system (operated by one or more grantees or contractors) of activities to State and areaagencies on aging for providing, developing, or supporting legal assistance for older individuals, including—
+&emsp;(1) provide a national legal assistance support system (operated by one or more grantees or contractors) of activities to State and area agencies on aging for providing, developing, or supporting legal assistance for older individuals, including—
 
 &emsp;&emsp;(A) case consultations;
 

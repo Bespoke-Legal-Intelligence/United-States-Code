@@ -28,7 +28,7 @@ Each State educational agency that receives a grant under section 6381a(d)(1) of
 
 #### (C) Exception for single subgrant
 
-&emsp;&emsp;A State educational agency may award one subgrant in each fiscal year of sufficient size, scope, and quality to be effective in an amount less than $75,000 if, after awarding subgrants under paragraph (1) for that fiscal year in accordance with subparagraphs (A) and (B), less than $75,000 is available to the State educational agency to award those subgrants.
+&emsp;&emsp;A State educational agency may award one subgrant in each fiscal year of sufficientsize, scope, and quality to be effective in an amount less than $75,000 if, after awarding subgrants under paragraph (1) for that fiscal year in accordance with subparagraphs (A) and (B), less than $75,000 is available to the State educational agency to award those subgrants.
 
 (Pub. L. 89–10, title I, §1233, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1558.)
 

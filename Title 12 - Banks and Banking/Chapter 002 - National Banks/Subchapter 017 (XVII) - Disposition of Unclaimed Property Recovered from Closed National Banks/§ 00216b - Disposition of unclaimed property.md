@@ -20,7 +20,7 @@
 
 #### (c) Vesting of rights, title and interest in unclaimed property in United States; sale, use, destruction or disposition of property; proceeds of sale as miscellaneous receipts
 
-(1) If, after twelve months from the date formal notice is published in the Federal Register, any such property remains in the possession, custody, or control of the Comptroller for which no valid claim has been filed, all rights, title, and interest in such property shall immediately be vested in the United States.
+(1) If, after twelve months from the date formal notice is published in the Federal Register, any such property remains in the possession,custody, or control of the Comptroller for which no valid claim has been filed, all rights, title, and interest in such property shall immediately be vested in the United States.
 
 (2) The Comptroller shall thereupon, in his discretion, sell, use, destroy, or otherwise dispose of any such unclaimed property. Such disposition may include donations to the Smithsonian Institution for addition to the national collection.
 
@@ -44,7 +44,7 @@ The United States, the Comptroller, or any officer, employee, or agent thereof s
 
 (2) The United States Court of Federal Claims may set aside actions of the Comptroller only if such actions are found to be arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law.
 
-(3) All claims for which the United States Court of Federal Claims has jurisdiction underthis subsection shall be barred unless suit is filed within two years from the date of expiration of the twelve-month notice period provided by this subchapter.
+(3) All claims for which the United States Court of Federal Claims has jurisdiction under this subsection shall be barred unless suit is filed within two years from the date of expiration of the twelve-month notice period provided by this subchapter.
 
 (4) For purposes of section 1491 of title 28, any Claim <sup>1</sup> against the Comptroller, the United States, or any officer, employee, or agent thereof shall be considered a claim against the United States.
 
@@ -52,7 +52,7 @@ The United States, the Comptroller, or any officer, employee, or agent thereof s
 
 #### Amendments
 
-1992—Subsec. (f)(1) to (3). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Subsec. (f)(1) to (3). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
 #### Effective Date of 1992 Amendment
 

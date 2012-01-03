@@ -52,7 +52,7 @@ Upon default or imminent default, as defined by the Secretary <sup>1</sup> of a
 
 #### (C) Payment of insurance benefits
 
-&emsp;&emsp;Upon accepting assignment of a mortgage under this paragraph, the Secretary may pay insurance benefits to the mortgagee from the appropriate insurance fund, in an amount that the Secretary determines to be appropriate, not to exceed the amount necessary to compensate the mortgagee for the assignment and any losses and expenses resulting from the mortgage modification.
+&emsp;&emsp;Upon accepting assignment of a mortgage under this paragraph, the Secretary may payinsurance benefits to the mortgagee from the appropriate insurance fund, in an amount that the Secretary determines to be appropriate, not to exceed the amount necessary to compensate the mortgagee for the assignment and any losses and expenses resulting from the mortgage modification.
 
 #### (2) Assignment and loan modification
 
@@ -76,7 +76,7 @@ Upon default or imminent default, as defined by the Secretary <sup>1</sup> of a
 
 #### (D) Loan servicing
 
-&emsp;&emsp;In carrying out this paragraph, the Secretary may require the existing servicer of a mortgage assigned to the Secretary to continue servicing the mortgage as an agent of the Secretary during the period that the Secretary acquires and holds the mortgage for the purpose of modifying the terms of the mortgage, provided that the Secretary compensates the existing servicer appropriately, as such compensation is determined by the Secretary consistent, to themaximum extent possible, with section 1709(b) of this title. If the mortgage is resold pursuant to subparagraph (C)(iii), the Secretary may provide for the existing servicer to continue to service the mortgage or may engage another entity to service the mortgage.
+&emsp;&emsp;In carrying out this paragraph, the Secretary may require the existing servicer of a mortgage assigned to the Secretary to continue servicing the mortgage as an agent of the Secretary during the period that the Secretary acquires and holds the mortgage for the purpose of modifying the terms of the mortgage, provided that the Secretary compensates the existing servicer appropriately, as such compensation is determined by the Secretary consistent, to the maximum extent possible, with section 1709(b) of this title. If the mortgage is resold pursuant to subparagraph (C)(iii), the Secretary may provide for the existing servicer to continue to service the mortgage or may engage another entity to service the mortgage.
 
 #### (d) Prohibition of judicial review
 
@@ -90,9 +90,13 @@ No provision of this chapter, or any other law, shall be construed to require th
 
 (June 27, 1934, ch. 847, title II, §230, as added Pub. L. 86–372, title I, §114(a), Sept. 23, 1959, 73 Stat. 662; amended Pub. L. 88–560, title I, §104(b), Sept. 2, 1964, 78 Stat. 770; Pub. L. 90–19, §1(a)(3), May 25, 1967, 81 Stat. 17; Pub. L. 96–399, title III, §341, Oct. 8, 1980, 94 Stat. 1659; Pub. L. 98–181, title IV, §418, Nov. 30, 1983, 97 Stat. 1212; Pub. L. 100–242, title IV, §428, Feb. 5, 1988, 101 Stat. 1918; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–99, title IV, §407(b), Jan. 26, 1996, 110 Stat. 45; Pub. L. 104–134, title I, §101(e) \[title II, §221(b)(2)\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–291; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–276, title VI, §601(f), Oct. 21, 1998, 112 Stat. 2674; Pub. L. 111–22, div. A, title II, §203(d)(1)–(3), May 20, 2009, 123 Stat. 1645, 1646.)
 
+#### References in Text
+
+This chapter, referred to in subsecs. (c)(1)(A) and (f), was in the original “this Act”, meaning act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to this chapter (§1701 et seq.). For complete classification of this Act to the Code, see Tables.
+
 #### Amendments
 
-2009—Subsec. (a). Pub. L. 111–22, §203(d)(1)(C)–(E), inserted “preforeclosure sale, support for borrower housing counseling, subordinate lien resolution, borrower incentives,” after “loan modification,”, “as required,” after “deeds in lieu of foreclosure,”, and “or subsection (c),” before “as provided”.
+<b>2009</b>—Subsec. (a). Pub. L. 111–22, §203(d)(1)(C)–(E), inserted “preforeclosure sale, support for borrower housing counseling, subordinate lien resolution, borrower incentives,” after “loan modification,”, “as required,” after “deeds in lieu of foreclosure,”, and “or subsection (c),” before “as provided”.
 
 Pub. L. 111–22, §203(d)(1)(B), which directed substitution of “loan” for “loss”, was executed by making the substitution before “modification” to reflect the probable intent of Congress.
 
@@ -116,27 +120,27 @@ Subsec. (c)(1)(C). Pub. L. 111–22, §203(d)(3)(D), which directed substitution
 
 Subsec. (c)(2). Pub. L. 111–22, §203(d)(3)(E), added par. (2). Former par. (2) redesignated subpar. (B) of par. (1).
 
-1998—Pub. L. 105–276 added subsec. (a) and redesignated former subsecs. (a) to (e) as (b) to (f), respectively.
+<b>1998</b>—Pub. L. 105–276 added subsec. (a) and redesignated former subsecs. (a) to (e) as (b) to (f), respectively.
 
-1996—Pub. L. 104–99 amended section generally, substituting subsecs. (a) to (e) relating to authority to assist mortgagors in default for former subsecs. (a) to (d) relating to temporary mortgage assistance payments and acquisition of mortgages to avoid foreclosures.
+<b>1996</b>—Pub. L. 104–99 amended section generally, substituting subsecs. (a) to (e) relating to authority to assist mortgagors in default for former subsecs. (a) to (d) relating to temporary mortgage assistance payments and acquisition of mortgages to avoid foreclosures.
 
 Subsec. (d). Pub. L. 104–134 struck out heading and text of subsec. (d). Text read as follows: “Any mortgage for which the mortgagor has applied to the Secretary, before the date of enactment of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1996, for assignment pursuant to subsection (b) of this section as in effect before such date of enactment shall continue to be governed by the provisions of this section, as in effect immediately before such date of enactment.”
 
-1991—Subsec. (a)(5). Pub. L. 102–83 substituted “section 3703(c) of title 38” for “section 1803(c) of title 38”.
+<b>1991</b>—Subsec. (a)(5). Pub. L. 102–83 substituted “section 3703(c) of title 38” for “section 1803(c) of title 38”.
 
-1988—Subsec. (a)(5). Pub. L. 100–242 substituted “The interest rate on payments made under this subsection shall be the rate established under section 1803(c) of title 38. The interest rate to be charged shall be determined when the Secretary approves assistance under this subsection” for “The Secretary may establish interest charges on payments made under this subsection; except that such charges shall not exceed a rate which is more than the maximum interest rate applicable with respect to level payment mortgages insured pursuant to section 1709(b) of this title at the time assistance under this section is approved by the Secretary.”
+<b>1988</b>—Subsec. (a)(5). Pub. L. 100–242 substituted “The interest rate on payments made under this subsection shall be the rate established under section 1803(c) of title 38. The interest rate to be charged shall be determined when the Secretary approves assistance under this subsection” for “The Secretary may establish interest charges on payments made under this subsection; except that such charges shall not exceed a rate which is more than the maximum interest rate applicable with respect to level payment mortgages insured pursuant to section 1709(b) of this title at the time assistance under this section is approved by the Secretary.”
 
-1983—Subsec. (d). Pub. L. 98–181 struck out “, to the extent practicable,” after “Secretary shall”.
+<b>1983</b>—Subsec. (d). Pub. L. 98–181 struck out “, to the extent practicable,” after “Secretary shall”.
 
-1980—Subsec. (a). Pub. L. 96–399 added subsec. (a). Existing undesignated provisions were designated as subsec. (b)(1).
+<b>1980</b>—Subsec. (a). Pub. L. 96–399 added subsec. (a). Existing undesignated provisions were designated as subsec. (b)(1).
 
 Subsec. (b). Pub. L. 96–399 designated existing undesignated provision as par. (1), made changes in phraseology which included applicability of remedy provided by subsection (a) of this section and determinations made pursuant to such subsection, and added pars. (2) and (3).
 
 Subsecs. (c), (d). Pub. L. 96–399 added subsecs. (c) and (d).
 
-1967—Pub. L. 90–19 substituted “Secretary” for “Commissioner” wherever appearing.
+<b>1967</b>—Pub. L. 90–19 substituted “Secretary” for “Commissioner” wherever appearing.
 
-1964—Pub. L. 88–560 authorized the Commissioner to acquire the loan and security notwithstanding the fact that he has previously approved a request of the mortgagee for an extension of the time for curing the default and of the time for commencing foreclosure proceedings or for otherwise acquiring title to the mortgaged property or has approved a modification of the mortgage for the purpose of changing the amortization provisions by recasting the unpaid balance and substituted provisions for acquisition of the loan and security upon payment of the insurance benefits in an amount equal to the unpaid principal balance of the loan plus any unpaid mortgage interest plus reimbursement for such costs and attorney's fees as the Commissioner finds were properly incurred in connection with the defaulted mortgage and its assignment to the Commissioner for former provision for such acquisition upon issuance to the mortgagee of debentures having a total face value equal to the unpaid principal balance of the loan plus any accrued interest.
+<b>1964</b>—Pub. L. 88–560 authorized the Commissioner to acquire the loan and security notwithstanding the fact that he has previously approved a request of the mortgagee for an extension of the time for curing the default and of the time for commencing foreclosure proceedings or for otherwise acquiring title to the mortgaged property or has approved a modification of the mortgage for the purpose of changing the amortization provisions by recasting the unpaid balance and substituted provisions for acquisition of the loan and security upon payment of the insurance benefits in an amount equal to the unpaid principal balance of the loan plus any unpaid mortgage interest plus reimbursement for such costs and attorney's fees as the Commissioner finds were properly incurred in connection with the defaulted mortgage and its assignment to the Commissioner for former provision for such acquisition upon issuance to the mortgagee of debentures having a total face value equal to the unpaid principal balance of the loan plus any accrued interest.
 
 #### Effective Date of 1996 Amendment
 

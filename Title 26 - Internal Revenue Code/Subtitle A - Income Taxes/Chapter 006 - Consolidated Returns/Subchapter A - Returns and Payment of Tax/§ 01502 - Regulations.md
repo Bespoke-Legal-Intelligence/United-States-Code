@@ -12,7 +12,7 @@ The Secretary shall prescribe such regulations as he may deem necessary in order
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–357, title VIII, §844(c), Oct. 22, 2004, 118 Stat. 1600, provided that: “This section \[amending thissection\], and the amendment made by this section, shall apply to taxable years beginning before, on, or after the date of the enactment of this Act \[Oct. 22, 2004\].”
+Pub. L. 108–357, title VIII, §844(c), Oct. 22, 2004, 118 Stat. 1600, provided that: “This section \[amending this section\], and the amendment made by this section, shall apply to taxable years beginning before, on, or after the date of the enactment of this Act \[Oct. 22, 2004\].”
 
 #### Dual Resident Companies
 

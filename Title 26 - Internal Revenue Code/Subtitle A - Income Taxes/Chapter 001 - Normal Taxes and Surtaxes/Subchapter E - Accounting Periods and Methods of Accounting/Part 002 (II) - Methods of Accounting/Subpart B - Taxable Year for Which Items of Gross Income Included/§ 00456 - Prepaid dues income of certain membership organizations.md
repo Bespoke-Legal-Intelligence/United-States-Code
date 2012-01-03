@@ -30,7 +30,7 @@ In the case of any prepaid dues income to which this section applies—
 
 #### (B) Without consent
 
-&emsp;&emsp;A taxpayer may, without the consent of the Secretary, make an election under thissection for its first taxable year in which it receives prepaid dues income in the trade or business. Such election shall be made not later than the time prescribed by law for filing the return for the taxable year (including extensions thereof) with respect to which such election is made.
+&emsp;&emsp;A taxpayer may, without the consent of the Secretary, make an election under this section for its first taxable year in which it receives prepaid dues income in the trade or business. Such election shall be made not later than the time prescribed by law for filing the return for the taxable year (including extensions thereof) with respect to which such election is made.
 
 #### (4) Period to which election applies
 
@@ -56,7 +56,7 @@ For purposes of this section—
 
 #### (2) Liability
 
-&emsp;The term “liability” means a liability to render services or make available membership privileges over a period of time which does not exceed 36 months, which liability shall be deemed to exist ratably over the period of time that such services are required to be rendered, or that such membership privileges are required to be made available.
+&emsp;The term “liability” means a liability to render services or make available membership privileges over a period of time which does not exceed 36 months, which liability shall be deemed to exist ratably over the period oftime that such services are required to be rendered, or that such membership privileges are required to be made available.
 
 #### (3) Membership organization
 

@@ -126,7 +126,7 @@ The items referred to in subsections (a) and (b) are as follows:
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;In computing the amount of the reserve with respect to any contract to which an election under this clause applies for periods during any recomputation period, the applicable Federal interest rate shall be the annual rate determined by the Secretary under section 846(c)(2) for the 1st year of such period. No change in the applicable Federal interest rate shall be made under the preceding sentence unless such change would equal or exceed 1/2 of 1 percentage point.
+&emsp;&emsp;&emsp;&emsp;In computing the amount of the reserve with respect to any contract to which an election under this clause applies for periods during any recomputation period, the applicable Federal interest rate shall be the annual rate determined by the Secretary under section 846(c)(2) for the 1st year of such period. No change in the applicable Federal interest rate shall be made under the preceding sentence unless such change would equal or exceed ½ of 1 percentage point.
 
 #### (II) Recomputation period
 
@@ -148,7 +148,7 @@ The items referred to in subsections (a) and (b) are as follows:
 
 #### (ii) When rate determined
 
-&emsp;&emsp;&emsp;The prevailing State assumed interest rate with respect to any contract shall bedetermined as of the beginning of the calendar year in which the contract was issued.
+&emsp;&emsp;&emsp;The prevailing State assumed interest rate with respect to any contract shall be determined as of the beginning of the calendar year in which the contract was issued.
 
 #### (5) Prevailing commissioners’ standard tables
 

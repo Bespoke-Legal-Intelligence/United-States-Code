@@ -10,7 +10,7 @@ The Secretary shall conduct his review, and the President shall advise the Unite
 
 #### (c) Administration of units unaffected pending Congressional action
 
-Nothing in this section shall be construed as affecting the administration of any unit of the National Park System or unit of National Wildlife Refuge System in accordance with this Act or other applicable provisions of law unless anduntil Congress provides otherwise by taking action on any Presidential recommendation made pursuant to subsection (b) of this section.
+Nothing in this section shall be construed as affecting the administration of any unit of the National Park System or unit of National Wildlife Refuge System in accordance with this Act or other applicable provisions of law unless and until Congress provides otherwise by taking action on any Presidential recommendation made pursuant to subsection (b) of this section.
 
 (Pub. L. 96–487, title XIII, §1317, Dec. 2, 1980, 94 Stat. 2485.)
 

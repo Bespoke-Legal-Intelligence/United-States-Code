@@ -74,7 +74,7 @@ Remedies available to enforce an affidavit of support under this section include
 
 #### (1) General requirement
 
-&emsp;The sponsor shall notify the Attorney General and the State in which the sponsored alien is currently a resident within 30 days of any change of address of the sponsor during the period in which an affidavit of support is enforceable.
+&emsp;The sponsor shall notify the Attorney General and the State in which the sponsored alien is currently a resident within 30 days of any change of address of the sponsor duringthe period in which an affidavit of support is enforceable.
 
 #### (2) Penalty
 
@@ -186,17 +186,17 @@ The Social Security Act, referred to in subsec. (a)(3)(A), (B), is act Aug. 14, 
 
 #### Amendments
 
-2009—Subsec. (f)(5)(B)(i), (ii). Pub. L. 111–83, added cls. (i) and (ii) and struck out former cls. (i) and (ii), which read as follows:
+<b>2009</b>—Subsec. (f)(5)(B)(i), (ii). Pub. L. 111–83, added cls. (i) and (ii) and struck out former cls. (i) and (ii), which read as follows:
 
 “(i) the individual petitioning under section 1154 of this title for the classification of such alien died after the approval of such petition; and
 
 “(ii) the Attorney General has determined for humanitarian reasons that revocation of such petition under section 1155 of this title would be inappropriate.”
 
-2002—Subsec. (f)(2), (4)(B)(ii). Pub. L. 107–150, §2(a)(3), substituted “paragraph (5)(A)” for “paragraph (5)”.
+<b>2002</b>—Subsec. (f)(2), (4)(B)(ii). Pub. L. 107–150, §2(a)(3), substituted “paragraph (5)(A)” for “paragraph (5)”.
 
 Subsec. (f)(5). Pub. L. 107–150, §2(a)(1), amended heading and text of par. (5) generally. Prior to amendment, text read as follows: “Such term also includes an individual who does not meet the requirement of paragraph (1)(D) but who accepts joint and several liability with a petitioning sponsor under paragraph (2) or relative of an employment-based immigrant under paragraph (4) and who demonstrates (as provided under paragraph (6)) the means to maintain an annual income equal to at least 125 percent of the Federal poverty line.”
 
-1996—Pub. L. 104–208 amended section generally, substituting subsecs. (a) to (i) for former subsecs. (a) to (f) relating to requirements for sponsor's affidavits of support.
+<b>1996</b>—Pub. L. 104–208 amended section generally, substituting subsecs. (a) to (i) for former subsecs. (a) to (f) relating to requirements for sponsor's affidavits of support.
 
 #### Effective Date of 2002 Amendment
 
@@ -244,7 +244,7 @@ Section 564 of div. C of Pub. L. 104–208 provided that:
 
 In General.—
 
-&emsp;“(1) The Attorney General of the United States shall establish a pilot program in 5 district offices of the Immigration and Naturalization Service to require aliens to post a bond in addition to the affidavit requirements under section 213A of the Immigrationand Nationality Act \[8 U.S.C. 1183a\] and the deeming requirements under section 421 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (8 U.S.C. 1631). Any pilot program established pursuant to this subsection shall require an alien to post a bond in an amount sufficient to cover the cost of benefits described in section 213A(d)(2)(B) of the Immigration and Nationality Act (as amended by section 551(a) of this division) for the alien and the alien's dependents and shall remain in effect until the departure, naturalization, or death of the alien.
+&emsp;“(1) The Attorney General of the United States shall establish a pilot program in 5 district offices of the Immigration and Naturalization Service to require aliens to post a bond in addition to the affidavit requirements under section 213A of the Immigration and Nationality Act \[8 U.S.C. 1183a\] and the deeming requirements under section 421 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (8 U.S.C. 1631). Any pilot program established pursuant to this subsection shall require an alien to post a bond in an amount sufficient to cover the cost of benefits described in section 213A(d)(2)(B) of the Immigration and Nationality Act (as amended by section 551(a) of this division) for the alien and the alien's dependents and shall remain in effect until the departure, naturalization, or death of the alien.
 
 &emsp;“(2) Suit on any such bonds may be brought under the terms and conditions set forth in section 213A of the Immigration and Nationality Act \[8 U.S.C. 1183a\].
 

@@ -74,7 +74,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;To the extent that less than 100 percent of the available project proceeds of the issue are expended by the close of the expenditure period for 1 or more qualified purposes, the issuer shall redeem all of the nonqualified bonds within 90 days after the end of such period. For purposes of this paragraph, the amount of the nonqualified bonds required to be redeemed shall be determined in the same manner as under section 142.
+&emsp;&emsp;&emsp;To the extent that less than 100 percent of the available project proceeds of the issue are expended by the close of the expenditure period for 1 or more qualifiedpurposes, the issuer shall redeem all of the nonqualified bonds within 90 days after the end of such period. For purposes of this paragraph, the amount of the nonqualified bonds required to be redeemed shall be determined in the same manner as under section 142.
 
 #### (ii) Expenditure period
 
@@ -140,7 +140,7 @@ For purposes of this section—
 
 #### (B) Maximum term
 
-&emsp;&emsp;During each calendar month, the Secretary shall determine the maximum termpermitted under this paragraph for bonds issued during the following calendar month. Such maximum term shall be the term which the Secretary estimates will result in the present value of the obligation to repay the principal on the bond being equal to 50 percent of the face amount of such bond. Such present value shall be determined using as a discount rate the average annual interest rate of tax-exempt obligations having a term of 10 years or more which are issued during the month. If the term as so determined is not a multiple of a whole year, such term shall be rounded to the next highest whole year.
+&emsp;&emsp;During each calendar month, the Secretary shall determine the maximum term permitted under this paragraph for bonds issued during the following calendar month. Such maximum term shall be the term which the Secretary estimates will result in the present value of the obligation to repay the principal on the bond being equal to 50 percent of the face amount of such bond. Such present value shall be determined using as a discount rate the average annual interest rate of tax-exempt obligations having a term of 10 years or more which are issued during the month. If the term as so determined is not a multiple of a whole year, such term shall be rounded to the next highest whole year.
 
 #### (6) Prohibition on financial conflicts of interest
 
@@ -148,7 +148,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) applicable State and local law requirements governing conflicts of interest are satisfied with respect to such issue, and
 
-&emsp;&emsp;(B) if the Secretary prescribes additional conflicts of interest rules governing the appropriate Members of Congress, Federal, State, and local officials, and their spouses, such additional rules are satisfied with respect to such issue.
+&emsp;&emsp;(B) if the Secretary prescribes additional conflicts of interest rules governing the appropriate Members of Congress, Federal, State, and local officials, and their spouses,such additional rules are satisfied with respect to such issue.
 
 #### (e) Other definitions
 
@@ -236,7 +236,7 @@ Subsec. (h). Pub. L. 111–5, §1541(b)(2), amended subsec. (h) generally. Prior
 
 > which is part of an issue that meets requirements of paragraphs (2), (3), (4), (5), and (6).”
 
-Pub. L. 110–343, §107(b)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘qualified tax credit bond’ means a qualified forestry conservationbond which is part of an issue that meets the requirements of paragraphs (2), (3), (4), (5), and (6).”
+Pub. L. 110–343, §107(b)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘qualified tax credit bond’ means a qualified forestry conservation bond which is part of an issue that meets the requirements of paragraphs (2), (3), (4), (5), and (6).”
 
 Subsec. (d)(1)(D). Pub. L. 110–343, §313(b)(1), added subpar. (D).
 

@@ -158,7 +158,7 @@ Subregion.—The term ‘subregion’ means an area within the region and includ
 
 “(a)
 
-In General.—The President is authorized to establish a Clean Water Technical Support Committee (in this section referred to as the ‘Committee’) to provide technical support and training services for individual water projects.
+In General.—The President is authorized to establish a Clean Water Technical Support Committee (inthis section referred to as the ‘Committee’) to provide technical support and training services for individual water projects.
 
 “(b)
 

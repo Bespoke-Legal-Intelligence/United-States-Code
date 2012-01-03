@@ -156,9 +156,9 @@ Section 3506 of the Panama Canal Commission Authorization Act for Fiscal Year 19
 
 #### Amendments
 
-2006—Subsec. (h). Pub. L. 109–435 amended subsec. (h) generally. Prior to amendment, subsec. (h) related to postal supplemental liability.
+<b>2006</b>—Subsec. (h). Pub. L. 109–435 amended subsec. (h) generally. Prior to amendment, subsec. (h) related to postal supplemental liability.
 
-2003—Subsec. (h). Pub. L. 108–18, §2(c), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows:
+<b>2003</b>—Subsec. (h). Pub. L. 108–18, §2(c), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows:
 
 “(h)(1) Notwithstanding any other statute, the United States Postal Service shall be liable for that portion of any estimated increase in the unfunded liability of the Fund which is attributable to any benefits payable from the Fund to active and retired Postal Service officers and employees, and to their survivors, when the increase results from an employee-management agreement under title 39, or any administrative action by the Postal Service taken pursuant to law, which authorizes increases in pay on which benefits are computed.
 
@@ -172,45 +172,45 @@ Subsec. (m). Pub. L. 108–18, §2(d)(1)(A), struck out subsec. (m) which read a
 
 “(3) In determining any amount for which the Postal Service is liable under this subsection, the amount of the liability shall be prorated to reflect only that portion of total service (used in computing the benefits involved) which is attributable to civilian service performed after June 30, 1971, as estimated by the Office.”
 
-1998—Subsec. (g). Pub. L. 105–362 struck out at end “The Office shall report to the President and to the Congress the sums credited to the Fund under this subsection.”
+<b>1998</b>—Subsec. (g). Pub. L. 105–362 struck out at end “The Office shall report to the President and to the Congress the sums credited to the Fund under this subsection.”
 
-1996—Subsec. (<i>l</i>)(1). Pub. L. 104–316 struck out at end “The Secretary shall concurrently transmit a copy of such report to the Comptroller General of the United States.”
+<b>1996</b>—Subsec. (<i>l</i>)(1). Pub. L. 104–316 struck out at end “The Secretary shall concurrently transmit a copy of such report to the Comptroller General of the United States.”
 
-1995—Subsec. (a)(1)(B). Pub. L. 104–52 inserted “in making an allotment or assignment made by an individual under section 8345(h) or 8465(b) of this title,” after “of law),” and “or section 8345(k) or 8469 of this title” before semicolon at end.
+<b>1995</b>—Subsec. (a)(1)(B). Pub. L. 104–52 inserted “in making an allotment or assignment made by an individual under section 8345(h) or 8465(b) of this title,” after “of law),” and “or section 8345(k) or 8469 of this title” before semicolon at end.
 
-1994—Subsec. (a)(3). Pub. L. 103–424 added par. (3).
+<b>1994</b>—Subsec. (a)(3). Pub. L. 103–424 added par. (3).
 
-1990—Subsec. (a)(1)(B). Pub. L. 101–508, §7001(a)(3), inserted “in administering alternative forms of annuities under sections 8343a and 8420a (and related provisions of law),” before “and in withholding”.
+<b>1990</b>—Subsec. (a)(1)(B). Pub. L. 101–508, §7001(a)(3), inserted “in administering alternative forms of annuities under sections 8343a and 8420a (and related provisions of law),” before “and in withholding”.
 
 Subsec. (i)(1). Pub. L. 101–510 substituted “1979, and the amendments made by section 3506 of the Panama Canal Commission Authorization Act for Fiscal Year 1991” for “1979”.
 
 Subsec. (m)(1). Pub. L. 101–508, §7101(a), substituted “July 1, 1971” for “October 1, 1986” in two places.
 
-1989—Subsec. (m). Pub. L. 101–239 added subsec. (m).
+<b>1989</b>—Subsec. (m). Pub. L. 101–239 added subsec. (m).
 
-1987—Subsec. (i)(2). Pub. L. 100–203 substituted “The Panama Canal Commission shall pay to the Fund from funds available to it” for “The Secretary of the Treasury shall pay to the Fund from appropriations”.
+<b>1987</b>—Subsec. (i)(2). Pub. L. 100–203 substituted “The Panama Canal Commission shall pay to the Fund from funds available to it” for “The Secretary of the Treasury shall pay to the Fund from appropriations”.
 
-1986—Subsec. (a). Pub. L. 99–335 inserted reference to provisions of chapter 84 of this title which relate to benefits payable out of the Fund in par. (1)(A), inserted “or 8462” and reference to subchapters II and IV of chapter 84 of this title in par. (1)(B), and inserted reference to chapter 84 of this title in par. (2).
+<b>1986</b>—Subsec. (a). Pub. L. 99–335 inserted reference to provisions of chapter 84 of this title which relate to benefits payable out of the Fund in par. (1)(A), inserted “or 8462” and reference to subchapters II and IV of chapter 84 of this title in par. (1)(B), and inserted reference to chapter 84 of this title in par. (2).
 
 Subsecs. (j) to (<i>l</i>). Pub. L. 99–509 added subsecs. (j) to (<i>l</i>).
 
-1984—Subsec. (a)(1)(B). Pub. L. 98–615 inserted “, in administering survivor annuities and elections providing therefor under sections 8339 and 8341 of this title,”.
+<b>1984</b>—Subsec. (a)(1)(B). Pub. L. 98–615 inserted “, in administering survivor annuities and elections providing therefor under sections 8339 and 8341 of this title,”.
 
 Subsec. (d). Pub. L. 98–216 substituted “chapter 31 of title 31” for “the Second Liberty Bond Act, as amended,”.
 
-1982—Subsec. (a)(1)(B). Pub. L. 97–346 inserted “and in withholding taxes pursuant to section 3405 of title 26”.
+<b>1982</b>—Subsec. (a)(1)(B). Pub. L. 97–346 inserted “and in withholding taxes pursuant to section 3405 of title 26”.
 
 Subsec. (g). Pub. L. 97–253, §306(f), inserted “, less an amount determined by the Office to be appropriate to reflect the value of the deposits made to the credit of the Fund under section 8334(j) of this title” after “allowed for military service”.
 
-1979—Subsec. (i). Pub. L. 96–70 added subsec. (i).
+<b>1979</b>—Subsec. (i). Pub. L. 96–70 added subsec. (i).
 
-1978—Subsecs. (a), (g), (h)(2). Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively, wherever appearing.
+<b>1978</b>—Subsecs. (a), (g), (h)(2). Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively, wherever appearing.
 
-1975—Subsec. (h)(2). Pub. L. 94–183 substituted “30” for “thirty”.
+<b>1975</b>—Subsec. (h)(2). Pub. L. 94–183 substituted “30” for “thirty”.
 
-1974—Subsec. (h). Pub. L. 93–349 added subsec. (h).
+<b>1974</b>—Subsec. (h). Pub. L. 93–349 added subsec. (h).
 
-1969—Subsec. (a). Pub. L. 91–93, §103(a)(1), designated existing provisions as par. (1)(A) and (B) and added par. (2).
+<b>1969</b>—Subsec. (a). Pub. L. 91–93, §103(a)(1), designated existing provisions as par. (1)(A) and (B) and added par. (2).
 
 Subsec. (f). Pub. L. 91–93, §103(a)(2), added subsec. (f) and struck out former subsec. (f) which required the Commission to submit estimates of appropriations necessary to finance the Fund on a normal cost plus interest basis and to carry out this subchapter.
 

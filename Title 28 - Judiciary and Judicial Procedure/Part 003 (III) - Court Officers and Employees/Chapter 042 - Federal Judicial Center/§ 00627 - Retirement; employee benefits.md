@@ -12,7 +12,7 @@ Upon the retirement of a Director who has elected coverage under this section an
 
 (e) Each annuity payable under this section shall be increased by the same percentage amount and effective on the same date as annuities payable under chapter 83 of title 5, are increased as provided by section 8340 of title 5.
 
-(Added Pub. L. 90–219, title I, §101, Dec. 20, 1967, 81 Stat. 666; amended Pub. L. 100–702, title X, §§1004(a), 1006(a)(2), Nov. 19, 1988, 102 Stat. 4665, 4666; Pub. L. 104–317, title VI, §604, Oct. 19, 1996, 110 Stat. 3857; Pub. L. 106–518, title III, §§301(b), 312(a), Nov. 13, 2000, 114 Stat. 2416, 2421.)
+(Added Pub. L. 90–219, title I, §101, Dec. 20, 1967, 81 Stat. 666; amended Pub. L. 100–702, title X, §§1004(a), 1006(a)(2), Nov. 19, 1988, 102 Stat. 4665, 4666; Pub. L. 104–317, title VI, §604, Oct. 19, 1996,110 Stat. 3857; Pub. L. 106–518, title III, §§301(b), 312(a), Nov. 13, 2000, 114 Stat. 2416, 2421.)
 
 #### Amendments
 
@@ -42,7 +42,7 @@ Subsec. (f). Pub. L. 100–702, §1004(a), added subsec. (f).
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 1004(a) of Pub. L. 100–702 applicable to cost-of-living increases that go into effect on or after Nov. 19, 1988, with respect to any annuity being paid or becoming payable on or after such date,see section 1004(b) of Pub. L. 100–702, set out as a note under section 611 of this title.
+Amendment by section 1004(a) of Pub. L. 100–702 applicable to cost-of-living increases that go into effect on or after Nov. 19, 1988, with respect to any annuity being paid or becoming payable on or after such date, see section 1004(b) of Pub. L. 100–702, set out as a note under section 611 of this title.
 
 Amendment by section 1006(a)(2) of Pub. L. 100–702 applicable to persons holding offices of Director of the Administrative Office of the United States Courts, Director of the Federal Judicial Center, and Administrative Assistant to the Chief Justice on Nov. 19, 1988, see section 1006(b) of Pub. L. 100–702, set out as a note under section 611 of this title.
 

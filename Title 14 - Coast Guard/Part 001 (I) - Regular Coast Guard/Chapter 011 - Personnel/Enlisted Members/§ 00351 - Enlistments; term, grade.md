@@ -46,11 +46,11 @@ The words “notwithstanding any other provision of law” and “or reenlisted�
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–293 substituted “a period of at least two years but not more than six years.” for “terms of full years not exceeding six years.”
+<b>2004</b>—Subsec. (a). Pub. L. 108–293 substituted “a period of at least two years but not more than six years.” for “terms of full years not exceeding six years.”
 
-1984—Subsec. (a). Pub. L. 98–557 substituted reference to persons for reference to men.
+<b>1984</b>—Subsec. (a). Pub. L. 98–557 substituted reference to persons for reference to men.
 
-1956—Act Aug. 10, 1956, repealed and reenacted section by general amendment thereby designating existing provisions as subsec. (a) and adding subsec. (b), relating to grades or ratings of enlistees.
+<b>1956</b>—Act Aug. 10, 1956, repealed and reenacted section by general amendment thereby designating existing provisions as subsec. (a) and adding subsec. (b), relating to grades or ratings of enlistees.
 
-1950—Act Aug. 3, 1950, struck out references to two types of enlistments that were deemed necessary prior to the enactment of the Career Compensation Act.
+<b>1950</b>—Act Aug. 3, 1950, struck out references to two types of enlistments that were deemed necessary prior to the enactment of the Career Compensation Act.
 

@@ -46,7 +46,7 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1976—Pub. L. 94–521 substituted “Population and other census information” for “Population, unemployment, and housing” in section catchline, without reference to amendment of catchline by Pub. L. 94–171.
+<b>1976</b>—Pub. L. 94–521 substituted “Population and other census information” for “Population, unemployment, and housing” in section catchline, without reference to amendment of catchline by Pub. L. 94–171.
 
 Subsec. (a). Pub. L. 94–521 substituted “1980” for “1960” and “decennial census of population” for “census of population, unemployment, and housing (including utilities and equipment)”, inserted “of such year” after “April”, substituted “which date shall be known as the decennial census date” for “which shall be known as the census date”, and inserted provisions authorizing the Secretary to take the decennial census in whatever form and content he determines, using sampling procedures and special surveys, and authorizing him to obtain other such census information as is necessary, in connection with the decennial census.
 
@@ -56,11 +56,11 @@ Subsec. (c). Pub. L. 94–521 substituted “the decennial census date” for �
 
 Subsecs. (d) to (g). Pub. L. 94–521 added subsecs. (d) to (g).
 
-1975—Pub. L. 94–171, §2(a), inserted “; tabulation for legislative apportionment” in section catchline.
+<b>1975</b>—Pub. L. 94–171, §2(a), inserted “; tabulation for legislative apportionment” in section catchline.
 
 Subsec. (c). Pub. L. 94–171, §1, added subsec. (c).
 
-1957—Pub. L. 85–207 substituted “Population, unemployment, and housing” for “Population, agriculture, irrigation, drainage, and unemployment; territory excluded” in section catchline; inserted in text housing census provisions, struck out census coverage of agriculture, irrigation, and drainage and geographical provisions, and designated existing provisions as so amended as subsec. (a); and added subsec. (b). Census of agriculture, irrigation, and drainage and the geographical provisions are covered by sections 142 and 191 of this title.
+<b>1957</b>—Pub. L. 85–207 substituted “Population, unemployment, and housing” for “Population, agriculture, irrigation, drainage, and unemployment; territory excluded” in section catchline; inserted in text housing census provisions, struck out census coverage of agriculture, irrigation, and drainage and geographical provisions, and designated existing provisions as so amended as subsec. (a); and added subsec. (b). Census of agriculture, irrigation, and drainage and the geographical provisions are covered by sections 142 and 191 of this title.
 
 #### Effective Date of 1976 Amendment
 
@@ -128,9 +128,9 @@ Pub. L. 105–119, title II, §209, Nov. 26, 1997, 111 Stat. 2480, provided that
 
 &emsp;“(2) the term ‘census’ or ‘decennial census’ means a decennial enumeration of the population.
 
-“(i) Nothing in this Act shall be construed to authorize the use of any statistical method, in connectionwith a decennial census, for the apportionment or redistricting of Members in Congress.
+“(i) Nothing in this Act shall be construed to authorize the use of any statistical method, in connection with a decennial census, for the apportionment or redistricting of Members in Congress.
 
-“(j) Sufficient funds appropriated under this Act or under any other Act for purposes of the 2000 decennial census shall be used by the Bureau of the Census to plan, test, and become prepared to implement a 2000 decennial census, without using statistical methods, which shall result in the percentage of the total population actually enumerated being as close to 100 percent as possible. In both the 2000 decennial census, and any dress rehearsal or other simulation made in preparation for the 2000 decennial census, the number of persons enumerated without using statistical methods must be publicly available for all levels of census geography which are being released by the Bureau of the Census for: (1) all data releases before January 1, 2001; (2) the data contained in the 2000 decennial census Public Law 94–171 \[amending this section\] data file released for use in redistricting; (3) the Summary Tabulation File One (STF–1) for the 2000 decennial census; and (4) the official populations of the States transmitted from the Secretary of Commerce through the President to the Clerk of the House used to reapportion the districts of the House among the States as a result of the 2000 decennial census. Simultaneously with any other release or reporting of any of the information described in the preceding sentence through other means, such information shall be made available to the public on the Internet. These files of the Bureau of the Census shall be available concurrently to the release of the original files to the same recipients, on identical media, and at a comparable price. They shall contain the number of persons enumerated without using statistical methods and any additions or subtractions thereto. These files shall be based on data gathered and generated by the Bureau of the Census in its official capacity.
+“(j) Sufficient funds appropriated under this Act or under any other Act for purposes of the 2000 decennialcensus shall be used by the Bureau of the Census to plan, test, and become prepared to implement a 2000 decennial census, without using statistical methods, which shall result in the percentage of the total population actually enumerated being as close to 100 percent as possible. In both the 2000 decennial census, and any dress rehearsal or other simulation made in preparation for the 2000 decennial census, the number of persons enumerated without using statistical methods must be publicly available for all levels of census geography which are being released by the Bureau of the Census for: (1) all data releases before January 1, 2001; (2) the data contained in the 2000 decennial census Public Law 94–171 \[amending this section\] data file released for use in redistricting; (3) the Summary Tabulation File One (STF–1) for the 2000 decennial census; and (4) the official populations of the States transmitted from the Secretary of Commerce through the President to the Clerk of the House used to reapportion the districts of the House among the States as a result of the 2000 decennial census. Simultaneously with any other release or reporting of any of the information described in the preceding sentence through other means, such information shall be made available to the public on the Internet. These files of the Bureau of the Census shall be available concurrently to the release of the original files to the same recipients, on identical media, and at a comparable price. They shall contain the number of persons enumerated without using statistical methods and any additions or subtractions thereto. These files shall be based on data gathered and generated by the Bureau of the Census in its official capacity.
 
 “(k) This section shall apply in fiscal year 1998 and succeeding fiscal years.”
 
@@ -296,7 +296,7 @@ Pub. L. 101–645, title IV, §402, Nov. 29, 1990, 104 Stat. 4723, provided that
 
 #### Monitoring Economic Progress of Rural America
 
-Pub. L. 101–624, title XXIII, §2382, Nov. 28, 1990, 104 Stat. 4050, provided that Director of Bureau of the Census was to expand data collection efforts of Bureau to enable it to collect statistically significant data concerning changing economic condition of rural countiesand communities in United States, including data on rural employment, poverty, income, and other information concerning rural labor force, and authorized to be appropriated $1,000,000 for each fiscal year for such efforts, prior to repeal by Pub. L. 104–127, title VII, §707, Apr. 4, 1996, 110 Stat. 1112.
+Pub. L. 101–624, title XXIII, §2382, Nov. 28, 1990, 104 Stat. 4050, provided that Director of Bureau of the Census was to expand data collection efforts of Bureau to enable it to collect statistically significant data concerning changing economic condition of rural counties and communities in United States, including data on rural employment, poverty, income, and other information concerning rural labor force, and authorized to be appropriated $1,000,000 for each fiscal year for such efforts, prior to repeal by Pub. L. 104–127, title VII, §707, Apr. 4, 1996, 110 Stat. 1112.
 
 #### Americans of Spanish Origin or Descent; Study for Development of Creditable Estimates in Future Censuses
 

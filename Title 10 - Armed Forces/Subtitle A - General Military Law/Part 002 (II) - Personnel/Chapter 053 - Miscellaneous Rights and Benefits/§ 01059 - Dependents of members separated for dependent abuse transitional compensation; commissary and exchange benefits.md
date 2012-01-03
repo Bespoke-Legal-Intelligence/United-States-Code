@@ -48,7 +48,7 @@ Commencement and Duration of Payment.—(1) Payment of transitional compensation
 
 &emsp;(B) in the case of a member being considered under applicable regulations for administrative separation from active duty in accordance with such regulations (if the basis for the separation includes a dependent-abuse offense), shall commence as of the date on which the separation action is initiated by a commander of the member pursuant to such regulations, as determined by the Secretary concerned.
 
-(2) Transitional compensation with respect to a member shall be paid for a period of not lessthan 12 months and not more than 36 months, as established in policies prescribed by the Secretary concerned.
+(2) Transitional compensation with respect to a member shall be paid for a period of not less than 12 months and not more than 36 months, as established in policies prescribed by the Secretary concerned.
 
 (3)(A) If a member is sentenced by a court-martial to receive punishment that includes a dismissal, dishonorable discharge, bad conduct discharge, or forfeiture of all pay and allowances as a result of a conviction by a court-martial for a dependent-abuse offense and each such conviction is disapproved by the person acting under section 860(c) of this title (article 60(c) of the Uniform Code of Military Justice) or set aside, or each such punishment applicable to the member under the sentence is disapproved by the person acting under section 860(c) of this title, remitted, set aside, suspended, or mitigated to a lesser punishment that does not include any such punishment, any payment of transitional compensation that has commenced under this section on the basis of such sentence in that case shall cease.
 
@@ -88,11 +88,11 @@ Coordination of Benefits.—The Secretary concerned may not make payments to a s
 
 Commissary and Exchange Benefits.—(1) A dependent or former dependent entitled to payment of monthly transitional compensation under this section shall, while receiving payments in accordance with this section, be entitled to use commissary and exchange stores to the same extent and in the same manner as a dependent of a member of the armed forces on active duty for a period of more than 30 days.
 
-(2) If a dependent or former dependent eligible or entitled to use commissary and exchange stores under paragraph (1) is eligible or entitled to use commissary and exchange stores under another provision of law, the eligibility or entitlement of that dependent or former dependent to use commissary and exchange stores shall be determined under such other provision of law rather than under paragraph (1).
+(2) If a dependent or former dependent eligible or entitled to use commissary and exchangestores under paragraph (1) is eligible or entitled to use commissary and exchange stores under another provision of law, the eligibility or entitlement of that dependent or former dependent to use commissary and exchange stores shall be determined under such other provision of law rather than under paragraph (1).
 
 (k)
 
-Regulations.—(1) The Secretary of Defense shall prescribe regulations to carry out this section with respect to the armed forces\(other than the Coast Guard when it is not operating as a service in the Navy). The Secretary of Homeland Security shall prescribe regulations to carry out this section with respect to the Coast Guard when it is not operating as a service in the Navy.
+Regulations.—(1) The Secretary of Defense shall prescribe regulations to carry out this section with respect to the armed forces (other than the Coast Guard when it is not operating as a service in the Navy). The Secretary of Homeland Security shall prescribe regulations to carry out this section with respect to the Coast Guard when it is not operating as a service in the Navy.
 
 (2) Regulations prescribed under paragraph (1) shall include the criminal offenses, or categories of offenses, under the Uniform Code of Military Justice (chapter 47 of this title), Federal criminal law, the criminal laws of the States and other jurisdictions of the United States, and the laws of other nations that are to be considered to be dependent-abuse offenses for the purposes of this section.
 

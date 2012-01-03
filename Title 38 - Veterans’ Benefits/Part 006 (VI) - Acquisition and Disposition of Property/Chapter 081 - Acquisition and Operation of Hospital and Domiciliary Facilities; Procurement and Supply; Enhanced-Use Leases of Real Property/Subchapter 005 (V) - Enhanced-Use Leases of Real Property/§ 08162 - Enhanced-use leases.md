@@ -24,7 +24,7 @@
 
 (2) The term of an enhanced-use lease may not exceed 75 years.
 
-(3)(A) Each enhanced-use lease shall be for fair consideration, as determined by the Secretary.Consideration under such a lease may be provided in whole or in part through consideration in-kind.
+(3)(A) Each enhanced-use lease shall be for fair consideration, as determined by the Secretary. Consideration under such a lease may be provided in whole or in part through consideration in-kind.
 
 (B) Consideration in-kind may include provision of goods or services of benefit to the Department, including construction, repair, remodeling, or other physical improvements of Department facilities, maintenance of Department facilities, or the provision of office, storage, or other usable space.
 
@@ -62,7 +62,7 @@ Section 224(a) of the Military Construction and Veterans Affairs and Related Age
 
 #### Amendments
 
-<b>2007</b>—Subsec. (c)(1). Pub. L. 110–161 inserted “or section 224(a) of the Military Construction and Veterans Affairs and Related Agencies Appropriations Act, 2008” after “section 421(b)(2) of the Veterans’ Benefits and Services Act of 1988 (Public Law 100–322; 102 Stat. 553)” and substituted “such sections” for “that section”.
+<b>2007</b>—Subsec. (c)(1). Pub. L. 110–161 inserted “or section 224(a) of the Military Construction and Veterans Affairs and Related Agencies Appropriations Act, 2008”after “section 421(b)(2) of the Veterans’ Benefits and Services Act of 1988 (Public Law 100–322; 102 Stat. 553)” and substituted “such sections” for “that section”.
 
 <b>2003</b>—Subsec. (a)(3). Pub. L. 108–178 struck out comma after “of title 40”.
 

@@ -94,7 +94,7 @@ In subsection (b), the words “United States” and “or the United States Mar
 
 In subsection (e), the words “from the United States . . . as provided by law” are omitted as surplusage.
 
-In subsection (f), the words “a member who holds, or has held” are substituted for the words “Directors and assistant directors of the Marine Band and former directors and assistant directors who have held”.
+In subsection (f), the words “a member who holds, or has held” are substituted for the words “Directors andassistant directors of the Marine Band and former directors and assistant directors who have held”.
 
 #### Amendments
 

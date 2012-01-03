@@ -42,7 +42,7 @@ The Secretary may prescribe rules for simplified reporting of all trusts having 
 
 #### Amendments
 
-<b>2008</b>—Subsecs. (c) to (f). Pub. L. 110–317 redesignated subsecs. (d) to (f) as (c) to (e), respectively, and struckout former subsec. (c), which related to dollar limitation on contributions to qualified funeral trusts.
+<b>2008</b>—Subsecs. (c) to (f). Pub. L. 110–317 redesignated subsecs. (d) to (f) as (c) to (e), respectively, and struck out former subsec. (c), which related to dollar limitation on contributions to qualified funeral trusts.
 
 <b>1998</b>—Subsec. (b). Pub. L. 105–206, §6013(b)(1), inserted concluding provisions.
 

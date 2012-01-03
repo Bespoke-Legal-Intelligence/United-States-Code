@@ -22,5 +22,5 @@ If a foreign proceeding and a case under another chapter of this title are pendi
 
 #### Amendments
 
-2010—Par. (1). Pub. L. 111–327, which directed amendment of par. (1) by inserting “is” after “States”, was executed by making the insertion only in introductory provisions to reflect the probable intent of Congress.
+<b>2010</b>—Par. (1). Pub. L. 111–327, which directed amendment of par. (1) by inserting “is” after “States”, was executed by making the insertion only in introductory provisions to reflect the probable intent of Congress.
 

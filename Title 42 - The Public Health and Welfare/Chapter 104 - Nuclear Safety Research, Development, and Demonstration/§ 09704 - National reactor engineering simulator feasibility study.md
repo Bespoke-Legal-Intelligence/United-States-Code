@@ -28,6 +28,10 @@ The Secretary shall, by January 1, 1982, submit to the Committee on Science and 
 
 (Pub. L. 96–567, §5, Dec. 22, 1980, 94 Stat. 3331.)
 
+#### Change of Name
+
+Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+
 #### Transfer of Functions
 
 For transfer of certain functions from Nuclear Regulatory Commission to Chairman thereof, see Reorg. Plan No. 1 of 1980, 45 F.R. 40561, 94 Stat. 3585, set out as a note under section 5841 of this title.

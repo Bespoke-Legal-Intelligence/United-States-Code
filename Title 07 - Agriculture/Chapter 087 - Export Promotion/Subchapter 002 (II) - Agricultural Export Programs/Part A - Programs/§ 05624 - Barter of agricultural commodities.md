@@ -52,5 +52,5 @@ The Secretary or the Commodity Credit Corporation shall take reasonable precauti
 
 #### Amendments
 
-1991—Subsec. (d). Pub. L. 102–237 amended heading and substituted “Government” for “government” in text.
+<b>1991</b>—Subsec. (d). Pub. L. 102–237 amended heading and substituted “Government” for “government” in text.
 

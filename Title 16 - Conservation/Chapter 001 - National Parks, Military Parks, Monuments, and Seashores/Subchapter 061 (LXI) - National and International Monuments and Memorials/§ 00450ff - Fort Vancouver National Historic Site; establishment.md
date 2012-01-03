@@ -46,7 +46,7 @@ Acquisition.—The Secretary is authorized to acquire the McLoughlin House, from
 
 “(b)
 
-Map Availability.—The map identifying the McLoughlin House referred to in section 1(b)(2) shall be on file and available for inspection in the appropriate offices of the National Park Service, Department of the Interior.
+Map Availability.—The map identifying the McLoughlin House referred to in section 1(b)(2) shall be on file and available for inspection in the appropriateoffices of the National Park Service, Department of the Interior.
 
 “(c)
 

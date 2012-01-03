@@ -8,7 +8,7 @@
 
 #### Amendments
 
-1985—Pub. L. 99–198 amended section generally, substituting administrative provisions for provisions relating to applicability of provisions to amendments to orders.
+<b>1985</b>—Pub. L. 99–198 amended section generally, substituting administrative provisions for provisions relating to applicability of provisions to amendments to orders.
 
 #### Effective Date of 1985 Amendment
 

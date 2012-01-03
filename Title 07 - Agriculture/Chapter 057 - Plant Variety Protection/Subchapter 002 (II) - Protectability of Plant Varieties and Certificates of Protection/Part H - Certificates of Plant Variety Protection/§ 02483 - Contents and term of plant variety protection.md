@@ -36,11 +36,11 @@ The term of plant variety protection shall also expire if the owner fails to com
 
 #### Amendments
 
-1996—Subsec. (b). Pub. L. 104–127, §913(b)(1), (2), inserted heading, designated first sentence as par. (1), inserted par. heading, substituted “Except as provided in paragraph (2), the term” for “The term”, designated second sentence as par. (2), and inserted par. heading.
+<b>1996</b>—Subsec. (b). Pub. L. 104–127, §913(b)(1), (2), inserted heading, designated first sentence as par. (1), inserted par. heading, substituted “Except as provided in paragraph (2), the term” for “The term”, designated second sentence as par. (2), and inserted par. heading.
 
 Subsec. (b)(1). Pub. L. 104–127, §913(b)(3), which directed the amendment of par. (2) by striking out “except that, in the case” and inserting “except that—”, subpar. (A), and “(B) in the case”, was executed to par. (1) to reflect the probable intent of Congress.
 
-1994—Subsec. (a). Pub. L. 103–349, §7(1)(A), designated first through fourth sentences as pars. (1) to (4), respectively.
+<b>1994</b>—Subsec. (a). Pub. L. 103–349, §7(1)(A), designated first through fourth sentences as pars. (1) to (4), respectively.
 
 Subsec. (a)(1). Pub. L. 103–349, §13(m)(1)(A), which directed the substitution of “(or the successor in interest of the breeder)” for “(or his successor in interest) his heirs and assignees”, was executed by making the substitution for “(or his successor in interest) his heirs or assignees”, to reflect the probable intent of Congress.
 
@@ -56,7 +56,7 @@ Subsec. (b). Pub. L. 103–349, §7(2), in first sentence substituted “20 year
 
 Subsec. (c). Pub. L. 103–349, §§7(3), 13(m)(2), substituted “repository, or requiring the submission of a different name for the variety, except that” for “repository: <i>Provided, however</i>, That” and “the last owner” for “he” before “fails”.
 
-1980—Subsec. (b). Pub. L. 96–574 substituted “eighteen” for “seventeen”.
+<b>1980</b>—Subsec. (b). Pub. L. 96–574 substituted “eighteen” for “seventeen”.
 
 #### Effective Date of 1994 Amendment
 

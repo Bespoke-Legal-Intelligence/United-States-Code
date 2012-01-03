@@ -110,7 +110,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) the cost to the reporting corporation of any property acquired in such transaction from the related party (or transferred by such corporation in such transaction to the related party),
 
-> &emsp;shall be the amount determined by the Secretary in the Secretary's sole discretion from the Secretary's own knowledge or from such information as the Secretary may obtain through testimony or otherwise.
+> &emsp;shall be the amount determined by the Secretary in the Secretary's sole discretion from the Secretary's own knowledge or from suchinformation as the Secretary may obtain through testimony or otherwise.
 
 #### (4) Judicial proceedings
 

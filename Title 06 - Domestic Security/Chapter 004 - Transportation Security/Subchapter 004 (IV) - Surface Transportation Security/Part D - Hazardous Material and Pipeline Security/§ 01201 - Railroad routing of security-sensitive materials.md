@@ -36,7 +36,7 @@ The Secretary of Transportation shall ensure that the final rule requires each r
 
 #### (e) Alternative route selection for security-sensitive materials
 
-The Secretary of Transportation shall ensure that the final rule requires each railroad carrier transporting security-sensitive materials in commerce to use the analysis required by subsections (c) and (d) to select the safest and most secure route to be used in transporting security-sensitive materials.
+The Secretary of Transportation shall ensure that the final rule requires each railroad carrier transporting security-sensitive materials in commerce to use the analysis required by subsections (c) and (d) to select the safest and mostsecure route to be used in transporting security-sensitive materials.
 
 #### (f) Review
 

@@ -16,7 +16,7 @@ With respect to any eligible low-income housing for which an owner has submitted
 
 #### (3) Information
 
-&emsp;Within 30 days of receipt of an expression of interest by a priority purchaser, the Secretary shall provide such purchaser with information on the assistance available from the Federal Government to facilitate a transfer and the owner shall provide appropriate information on the housing, as determined by the Secretary.
+&emsp;Within 30 days of receipt of an expression of interest by a priority purchaser, the Secretary shall provide such purchaser with information on the assistance available from the FederalGovernment to facilitate a transfer and the owner shall provide appropriate information on the housing, as determined by the Secretary.
 
 #### (c) Right of refusal for other qualified purchasers
 
@@ -66,7 +66,7 @@ Section 1715z–6(f) of this title, referred to in subsec. (d)(3)(A), was repeal
 
 #### Amendments
 
-1992—Subsec. (d)(2). Pub. L. 102–550, §307(a), inserted “(including all priority purchasers other than resident councils acquiring under the homeownership program authorized by section 4116 of this title)” after “purchasers”.
+<b>1992</b>—Subsec. (d)(2). Pub. L. 102–550, §307(a), inserted “(including all priority purchasers other than resident councils acquiring under the homeownership program authorized by section 4116 of this title)” after “purchasers”.
 
 Subsec. (d)(2)(D). Pub. L. 102–550, §307(b), inserted before semicolon at end “, and in the case of a priority purchaser, meet project oversight costs”.
 
@@ -76,7 +76,7 @@ Subsec. (d)(2)(E), (F). Pub. L. 102–550, §307(c), (d), amended subpars. (E) a
 
 “(F) in the case of a priority purchaser, receive an adequate reimbursement for transaction expenses relating to acquisition of the housing, subject to approval by the Secretary; and”.
 
-Subsec. (d)(3)(A). Pub. L. 102–550, §307(e), struck out “any residual receipts for the housing transfered \[sic\] to the selling owner shall be deducted from the sale price of the housing under subsection (b) or (c) of this section and” after “except that”.
+Subsec. (d)(3)(A). Pub. L. 102–550, §307(e), struck out “any residual receipts for the housing transfered \[sic\]to the selling owner shall be deducted from the sale price of the housing under subsection (b) or (c) of this section and” after “except that”.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection.”</i>
 

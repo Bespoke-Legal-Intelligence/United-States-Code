@@ -8,27 +8,25 @@ In General.—There is in the Department of Defense the Department of Defense Mi
 
 Members.—(1) The Council shall consist of the following members:
 
-&emsp;(A) The Under Secretary of Defense for Personnel and Readiness, who shall serve as chair of the Council.
+&emsp;(A) The Under Secretary of Defense for Personnel and Readiness, who shall serve as chair of the Council and who may designate a representative to chair the council in the Under Secretary's absence.
 
-&emsp;(B) One representative of each of the Army, Navy, Marine Corps, and Air Force.
+&emsp;(B) The following persons, who shall be appointed or designated by the Secretary of Defense:
 
-&emsp;(C) In addition to the representatives appointed under subparagraph (B)—
+&emsp;&emsp;(i) One representative of each of the Army, Navy, Marine Corps, and Air Force, each of whom shall be a member of the armed force to be represented.
 
-&emsp;&emsp;(i) one representative from the Army National Guard or Air National Guard; and
+&emsp;&emsp;(ii) One representative of the Army National Guard or the Air National Guard, who may be a member of the National Guard.
 
-&emsp;&emsp;(ii) one representative from the Army Reserve, Navy Reserve, Marine Corps Reserve, or Air Force Reserve.
+&emsp;&emsp;(iii) One spouse or parent of a member of each of the Army, Navy, Marine Corps, and Air Force, two of whom shall be the spouse or parent of an active component member and two of whom shall be the spouse or parent of a reserve component member.
 
-&emsp;(D) Three individuals appointed from among representatives of military family organizations, including military family organizations of families of members of the regular components and of families of members of the reserve components.
+&emsp;(C) Three individuals appointed by the Secretary of Defense from among representatives of military family organizations, including military family organizations of families of members of the regular components and of families of members of the reserve components.
 
-&emsp;(E) The spouse of a general or flag officer.
+&emsp;(D) The senior enlisted advisor from each of the Army, Navy, Marine Corps, and Air Force, except that two of these members may instead be selected from among the spouses of the senior enlisted advisors.
 
-&emsp;(F) In addition to the representatives appointed under subparagraphs (B) and (C), the senior enlisted advisor, or the spouse of a senior enlisted member, from each of the Army, Navy, Marine Corps, and Air Force.
+&emsp;(E) The Director of the Office of Community Support for Military Families with Special Needs.
 
-&emsp;(G) The Director of the Office of Community Support for Military Families With Special Needs.
+(2)(A) The term on the Council of the members appointed or designated under clauses (i) and (iii) of subparagraph (B) of paragraph (1) shall be two years and may be renewed by the Secretary of Defense. Representation on the Council under clause (ii) of that subparagraph shall rotate between the Army National Guard and Air National Guard every two years on a calendar year basis.
 
-(2) The term on the Council of the members appointed under subparagraphs (C), (D), and (E) of paragraph (1) shall be three years. Representation on the Council required by clause (i) of paragraph (1)(C) shall rotate between the Army National Guard and Air National Guard. Representation required by clause (ii) of such paragraph shall rotate among the reserve components specified in such clause.
-
-(3) The Secretary of Defense shall appoint the members of the Council required by subparagraphs (B) through (F) of paragraph (1).
+(B) The term on the Council of the members appointed under subparagraph (C) of paragraph (1) shall be three years.
 
 (c)
 
@@ -54,11 +52,13 @@ Annual Reports.—(1) Not later than February 1 each year, the Council shall sub
 
 &emsp;(B) Recommendations on actions to be taken to improve the capability of the military family readiness programs and activities of the Department of Defense to meet the needs and requirements of military families, including actions relating to the allocation of funding and other resources to and among such programs and activities.
 
-(Added Pub. L. 110–181, div. A, title V, §581(a), Jan. 28, 2008, 122 Stat. 120; amended Pub. L. 111–84, div. A, title V, §562, Oct. 28, 2009, 123 Stat. 2303; Pub. L. 111–383, div. A, title V, §581, Jan. 7, 2011, 124 Stat. 4226.)
+(Added Pub. L. 110–181, div. A, title V, §581(a), Jan. 28, 2008, 122 Stat. 120; amended Pub. L. 111–84, div. A, title V, §562, Oct. 28, 2009, 123 Stat. 2303; Pub. L. 111–383, div. A, title V, §581, Jan. 7, 2011, 124 Stat. 4226; Pub. L. 112–81, div. A, title V, §574, Dec. 31, 2011, 125 Stat. 1427.)
 
 #### Amendments
 
-<b>2011</b>—Subsec. (b)(1)(B). Pub. L. 111–383, §581(d)(1)(A), struck out “, who shall be appointed by the Secretary of Defense” after “Air Force”.
+<b>2011</b>—Subsec. (b). Pub. L. 112–81 amended subsec. (b) generally. Prior to amendment, subsec. (b) related to members.
+
+Subsec. (b)(1)(B). Pub. L. 111–383, §581(d)(1)(A), struck out “, who shall be appointed by the Secretary of Defense” after “Air Force”.
 
 Subsec. (b)(1)(C). Pub. L. 111–383, §581(d)(1)(B), struck out “, who shall be appointed by the Secretary of Defense” after “Air National Guard” in cl. (i) and after “Air Force Reserve” in cl. (ii).
 

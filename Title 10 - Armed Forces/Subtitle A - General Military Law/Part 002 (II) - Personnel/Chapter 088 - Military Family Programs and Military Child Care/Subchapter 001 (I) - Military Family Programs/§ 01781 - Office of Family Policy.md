@@ -24,7 +24,7 @@ Provisions similar to those in this subchapter were contained in Pub. L. 99–14
 
 #### Amendments
 
-Subsec. (a). Pub. L. 111–383 substituted “the Director” for “the Office” before “of the Secretary” and “The office shall be headed by the Director of Family Policy, who shall serve within the office of the Under Secretary of Defense for Personnel and Readiness.” for “The Office shall be under the Assistant Secretary of Defense for Force Management and Personnel.”
+<b>2011</b>—Subsec. (a). Pub. L. 111–383 substituted “the Director” for “the Office” before “of the Secretary” and “The office shall be headed by the Director of Family Policy, who shall serve within the office of the Under Secretary of Defense for Personnel and Readiness.” for “The Office shall be under the Assistant Secretary of Defense for Force Management and Personnel.”
 
 #### Effective Date of 2011 Amendment
 

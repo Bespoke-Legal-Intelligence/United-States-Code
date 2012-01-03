@@ -50,9 +50,9 @@ This chapter, referred to in subsecs. (c) and (d)(2), (3), was in the original �
 
 #### Amendments
 
-2007—Subsecs. (a)(1), (b)(1). Pub. L. 110–81 substituted “quarterly period” for “semiannual period”.
+<b>2007</b>—Subsecs. (a)(1), (b)(1). Pub. L. 110–81 substituted “quarterly period” for “semiannual period”.
 
-1998—Subsec. (a). Pub. L. 105–166, §4(a)(1), in introductory provisions, substituted “A person, other than a lobbying firm,” for “A registrant”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–166, §4(a)(1), in introductory provisions, substituted “A person, other than a lobbying firm,” for “A registrant”.
 
 Subsec. (a)(2). Pub. L. 105–166, §4(a)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “in lieu of using the definition of ‘lobbying activities’ in section 1602(7) of this title, consider as lobbying activities only those activities that are influencing legislation as defined in section 4911(d) of title 26.”
 

@@ -16,7 +16,7 @@ For repeal of section effective Oct. 1, 1998, and subsequent reenactment of sect
 
 #### Amendments
 
-2005—Subsec. (a). Pub. L. 109–8, §719(b)(4), redesignated subsec. (c) as (a) and struck out former subsec. (a) which read as follows: “For the purpose of any State or local law imposing a tax on or measured by income, the taxable period of a debtor that is an individual shall terminate on the date of the order for relief under this chapter, unless the case was converted under section 706 of this title.”
+<b>2005</b>—Subsec. (a). Pub. L. 109–8, §719(b)(4), redesignated subsec. (c) as (a) and struck out former subsec. (a) which read as follows: “For the purpose of any State or local law imposing a tax on or measured by income, the taxable period of a debtor that is an individual shall terminate on the date of the order for relief under this chapter, unless the case was converted under section 706 of this title.”
 
 Subsec. (b). Pub. L. 109–8, §1003(b), substituted “any governmental unit” for “a State or local governmental unit”.
 

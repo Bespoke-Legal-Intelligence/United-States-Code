@@ -20,7 +20,13 @@ For purposes of this subpart, under regulations prescribed by the Secretary—
 
 #### (c) Tax-exempt organizations
 
-No credit shall be allowed under section 38 for any work opportunity credit determined under this subpart to any organization (other than a cooperative described in section 521) which is exempt from income tax under this chapter.
+#### (1) In general
+
+&emsp;No credit shall be allowed under section 38 for any work opportunity credit determined under this subpart to any organization (other than a cooperative described in section 521) which is exempt from income tax under this chapter.
+
+#### (2) Credit made available to qualified tax-exempt organizations employing qualified veterans
+
+&emsp;&emsp;<b>For credit against payroll taxes for employment of qualified veterans by qualified tax-exempt organizations, see section 3111(e).</b>
 
 #### (d) Estates and trusts
 
@@ -40,13 +46,15 @@ Under regulations prescribed by the Secretary, in the case of—
 
 > rules similar to the rules provided in subsections (e) and (h) of section 46 (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) shall apply in determining the amount of the credit under this subpart.
 
-(Added Pub. L. 95–30, title II, §202(b), May 23, 1977, 91 Stat. 143; amended Pub. L. 95–600, titleIII, §321(c)(1), Nov. 6, 1978, 92 Stat. 2835; Pub. L. 96–222, title I, §103(a)(5), Apr. 1, 1980, 94 Stat. 209; Pub. L. 97–354, §5(a)(11), Oct. 19, 1982, 96 Stat. 1693; Pub. L. 98–369, div. A, title IV, §474(p)(4)–(7), July 18, 1984, 98 Stat. 838; Pub. L. 101–508, title XI, §11813(b)(4), Nov. 5, 1990, 104 Stat. 1388–551; Pub. L. 104–188, title I, §1616(b)(2), Aug. 20, 1996, 110 Stat. 1856; Pub. L. 105–34, title XVI, §1601(b), Aug. 5, 1997, 111 Stat. 1087.)
+(Added Pub. L. 95–30, title II, §202(b), May 23, 1977, 91 Stat. 143; amended Pub. L. 95–600, title III, §321(c)(1), Nov. 6, 1978, 92 Stat. 2835; Pub. L. 96–222, title I, §103(a)(5), Apr. 1, 1980, 94 Stat. 209; Pub. L. 97–354, §5(a)(11), Oct. 19, 1982, 96 Stat. 1693; Pub. L. 98–369, div. A, title IV, §474(p)(4)–(7), July 18, 1984, 98 Stat. 838; Pub. L. 101–508, title XI, §11813(b)(4), Nov. 5, 1990, 104 Stat. 1388–551; Pub. L. 104–188, title I, §1616(b)(2), Aug. 20, 1996, 110 Stat. 1856; Pub. L. 105–34, title XVI, §1601(b), Aug. 5, 1997, 111 Stat. 1087; Pub. L. 112–56, title II, §261(e)(1), Nov. 21, 2011, 125 Stat. 730.)
 
 #### References in Text
 
 The date of the enactment of the Revenue Reconciliation Act of 1990, referred to in subsec. (e), is the date of enactment of Pub. L. 101–508, which was approved Nov. 5, 1990.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (c). Pub. L. 112–56 designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 <b>1997</b>—Subsec. (c). Pub. L. 105–34 substituted “work opportunity credit” for “targeted jobs credit”.
 
@@ -78,9 +86,13 @@ Subsec. (i). Pub. L. 95–600, §321(c)(1)(A)(i), struck out subsec. (i) which r
 
 Subsec. (j). Pub. L. 95–600, §321(c)(1)(A)(i), struck out subsec. (j) which related to certain short taxable years.
 
+#### Effective Date of 2011 Amendment
+
+Amendment by Pub. L. 112–56 applicable to individuals who begin work for the employer after Nov. 21, 2011, see section 261(g) of Pub. L. 112–56, set out as a note under section 51 of this title.
+
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 36C of this title.
+Amendment by Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 23 of this title.
 
 #### Effective Date of 1996 Amendment
 

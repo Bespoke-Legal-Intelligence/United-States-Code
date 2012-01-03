@@ -30,7 +30,7 @@ Subject to subsections (b) through (e),<sup>1</sup> each health insurance issuer
 
 &emsp;&emsp;&emsp;(i) it will not have the capacity to deliver services adequately to enrollees of any additional groups or any additional individuals because of its obligations to existing group contract holders and enrollees, and
 
-&emsp;&emsp;&emsp;(ii) it is applying this paragraph uniformly to all employers and individualswithout regard to the claims experience of those individuals, employers and their employees (and their dependents) or any health status-related factor relating to such individuals <sup>1</sup> employees and dependents.
+&emsp;&emsp;&emsp;(ii) it is applying this paragraph uniformly to all employers and individuals without regard to the claims experience of those individuals, employers and their employees (and their dependents) or any health status-related factor relating to such individuals <sup>1</sup> employees and dependents.
 
 #### (2) 180-day suspension upon denial of coverage
 
@@ -62,7 +62,7 @@ The text of section 300gg–11 of this title, which was amended and transferred 
 
 #### Prior Provisions
 
-A prior section 300gg–1, act July 1, 1944, ch. 373, title XXVII, §2702, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1961; Pub. L. 110–233, title I, §102(a)(1)–(3), May 21, 2008, 122 Stat. 888, 890, was amended by Pub. L. 111–148, title I, §1201(3), Mar. 23, 2010, 124 Stat. 154, effective for plan years beginning on or after Jan. 1, 2014, and was transferred to subsecs. (d) to (f) of section 300gg–4 of this title. Prior to amendment and transfer by Pub. L. 111–148, text of section 300gg–1 read as follows:
+A prior section 300gg–1, act July 1, 1944, ch. 373, title XXVII, §2702, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1961; Pub. L. 110–233, title I, §102(a)(1)–(3), May 21, 2008, 122 Stat. 888, 890, was amended by Pub. L. 111–148, title I, §1201(3), Mar. 23, 2010, 124 Stat. 154, effective for plan years beginning on or after Jan. 1, 2014, and was transferred to subsecs. (b) to (f) of section 300gg–4 of this title. Prior to amendment and transfer by Pub. L. 111–148, text of section 300gg–1 read as follows:
 
 “(a)
 

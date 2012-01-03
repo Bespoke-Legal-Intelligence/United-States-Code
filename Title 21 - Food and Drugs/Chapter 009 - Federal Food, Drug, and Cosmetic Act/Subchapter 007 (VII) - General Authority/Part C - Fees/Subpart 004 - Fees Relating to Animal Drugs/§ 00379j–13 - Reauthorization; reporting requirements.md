@@ -2,7 +2,7 @@
 
 #### (a) Performance report
 
-Beginning with fiscal year 2009, not later than 60 days after the end of each fiscal year during which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report concerning the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 101(b) of the Animal Drug User Fee Amendments of 2008 toward expediting the animal drug development process and the review of the new andsupplemental animal drug applications and investigational animal drug submissions during such fiscal year, the future plans of the Food and Drug Administration for meeting the goals, the review times for abbreviated new animal drug applications, and the administrative procedures adopted by the Food and Drug Administration to ensure that review times for abbreviated new animal drug applications are not increased from their current level due to activities under the user fee program.
+Beginning with fiscal year 2009, not later than 60 days after the end of each fiscal year during which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report concerning the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 101(b) of the Animal Drug User Fee Amendments of 2008 toward expediting the animal drug development process and the review of the new and supplemental animal drug applications and investigational animal drug submissions during such fiscal year, the future plans of the Food and Drug Administration for meeting the goals, the review times for abbreviated new animal drug applications, and the administrative procedures adopted by the Food and Drug Administration to ensure that review times for abbreviated new animal drug applications are not increased from their current level due to activities under the user fee program.
 
 #### (b) Fiscal report
 
@@ -86,5 +86,5 @@ Section 101(b) of the Animal Drug User Fee Amendments of 2008, referred to in su
 
 #### Effective and Termination Dates
 
-Section effective Oct. 1, 2008, with fees under this subpart to be assessed for all animal drug applications and supplemental animal drug applications received on orafter Oct. 1, 2008, and ceases to be effective Jan. 31, 2014, see sections 107 and 108(b) of Pub. L. 110–316, set out as Effective and Termination Dates of 2008 Amendment notes under section 379j–11 of this title.
+Section effective Oct. 1, 2008, with fees under this subpart to be assessed for all animal drug applications and supplemental animal drug applications received on or after Oct. 1, 2008, and ceases to be effective Jan. 31, 2014, see sections 107 and 108(b) of Pub. L. 110–316, set out as Effective and Termination Dates of 2008 Amendment notes under section 379j–11 of this title.
 

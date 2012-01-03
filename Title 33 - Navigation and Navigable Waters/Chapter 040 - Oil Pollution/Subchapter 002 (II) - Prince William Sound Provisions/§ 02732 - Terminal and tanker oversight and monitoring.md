@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(C) one way to combat this complacency is to involve local citizens in the process of preparing, adopting, and revising oil spill contingency plans;
 
-&emsp;&emsp;(D) a mechanism should be established which fosters the long-term partnership of industry, government, and local communities in overseeing compliance with environmental concerns in the operation of crude oil terminals;
+&emsp;&emsp;(D) a mechanism should be established which fosters the long-term partnership ofindustry, government, and local communities in overseeing compliance with environmental concerns in the operation of crude oil terminals;
 
 &emsp;&emsp;(E) such a mechanism presently exists at the Sullom Voe terminal in the Shetland Islands and this terminal should serve as a model for others;
 
@@ -92,7 +92,7 @@
 
 &emsp;&emsp;&emsp;(ii) Aquaculture associations in the vicinity of the terminal facilities.
 
-&emsp;&emsp;&emsp;(iii) Alaska Native Corporations and other Alaska Native organizations themembers of which reside in the vicinity of the terminal facilities.
+&emsp;&emsp;&emsp;(iii) Alaska Native Corporations and other Alaska Native organizations the members of which reside in the vicinity of the terminal facilities.
 
 &emsp;&emsp;&emsp;(iv) Environmental organizations the members of which reside in the vicinity of the terminal facilities.
 
@@ -176,7 +176,7 @@
 
 &emsp;&emsp;&emsp;(iii) modifications of crude oil tanker operations and maintenance in Prince William Sound and Cook Inlet intended to minimize the risk and mitigate the impact of oil spills; and
 
-&emsp;&emsp;&emsp;(iv) modifications to the oil spill prevention and contingency plans for terminal facilities and for crude oil tankers in Prince William Sound and Cook Inlet intended to enhance the ability to prevent and respond to an oil spill; and
+&emsp;&emsp;&emsp;(iv) modifications to the oil spill prevention and contingency plans for terminalfacilities and for crude oil tankers in Prince William Sound and Cook Inlet intended to enhance the ability to prevent and respond to an oil spill; and
 
 &emsp;&emsp;(G) create additional committees of the Council as necessary to carry out the above functions, including a scientific and technical advisory committee to the Prince William Sound Council.
 
@@ -238,7 +238,7 @@
 
 #### (g) Agency cooperation
 
-On and after the expiration of the 180-day period following August 18, 1990, each Federal department, agency, or other instrumentality shall, with respect to all permits, site-specific regulations, and other matters governing the activities and actions of the terminal facilities which affect or may affect the vicinity of the terminal facilities, consult with the appropriate Council prior to taking substantive action with respect to the permit, site-specific regulation, or other matter. This consultation shall be carried out with a view to enabling the appropriate Association and Council to review the permit, site-specific regulation, or other matters and make appropriate recommendations regarding operations, policy or agency actions. Prior consultation shall not be required if an authorized Federal agency representative reasonably believes that an emergency exists requiring action without delay.
+On and after the expiration of the 180-day period following August 18, 1990, each Federal department, agency, or other instrumentality shall, with respect to all permits, site-specific regulations, and other matters governing the activities and actions of the terminal facilities which affect or may affect the vicinity of the terminal facilities, consult with the appropriate Council prior to taking substantive action with respect to the permit, site-specific regulation, or other matter. This consultation shall be carriedout with a view to enabling the appropriate Association and Council to review the permit, site-specific regulation, or other matters and make appropriate recommendations regarding operations, policy or agency actions. Prior consultation shall not be required if an authorized Federal agency representative reasonably believes that an emergency exists requiring action without delay.
 
 #### (h) Recommendations of Council
 
@@ -302,7 +302,7 @@ As used in this section, the term—
 
 &emsp;&emsp;(A) in the case of the Prince William Sound Program, the entire oil terminal complex located in Valdez, Alaska, consisting of approximately 1,000 acres including all buildings, docks (except docks owned by the City of Valdez if those docks are not used for loading of crude oil), pipes, piping, roads, ponds, tanks, crude oil tankers only while at the terminal dock, tanker escorts owned or operated by the operator of the terminal, vehicles, and other facilities associated with, and necessary for, assisting tanker movement of crude oil into and out of the oil terminal complex; and
 
-&emsp;&emsp;(B) in the case of the Cook Inlet Program, the entire oil terminal complex including all buildings, docks, pipes, piping, roads, ponds, tanks, vessels, vehicles, crude oil tankers only while at the terminal dock, tanker escorts owned or operated by the operator of the terminal, emergency spill response vessels owned or operated by the operator of theterminal, and other facilities associated with, and necessary for, assisting tanker movement of crude oil into and out of the oil terminal complex;
+&emsp;&emsp;(B) in the case of the Cook Inlet Program, the entire oil terminal complex including all buildings, docks, pipes, piping, roads, ponds, tanks, vessels, vehicles, crude oil tankersonly while at the terminal dock, tanker escorts owned or operated by the operator of the terminal, emergency spill response vessels owned or operated by the operator of the terminal, and other facilities associated with, and necessary for, assisting tanker movement of crude oil into and out of the oil terminal complex;
 
 &emsp;(2) “crude oil tanker” means a tanker (as that term is defined under section 2101 of title 46)—
 

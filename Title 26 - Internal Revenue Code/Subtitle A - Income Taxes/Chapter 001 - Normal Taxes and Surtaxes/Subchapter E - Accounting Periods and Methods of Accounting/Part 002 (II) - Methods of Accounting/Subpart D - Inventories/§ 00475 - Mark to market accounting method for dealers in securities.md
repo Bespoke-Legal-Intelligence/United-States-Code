@@ -34,7 +34,7 @@ Notwithstanding any other provision of this subpart, the following rules shall a
 
 #### (2) Identification required
 
-&emsp;A security shall not be treated as described in subparagraph (A), (B), or (C) of paragraph\(1), as the case may be, unless such security is clearly identified in the dealer's records as being described in such subparagraph before the close of the day on which it was acquired, originated, or entered into (or such other time as the Secretary may by regulations prescribe).
+&emsp;A security shall not be treated as described in subparagraph (A), (B), or (C) of paragraph (1), as the case may be, unless such security is clearly identified in the dealer's records as being described in such subparagraph before the close of the day on which it was acquired, originated, or entered into (or such other time as the Secretary may by regulations prescribe).
 
 #### (3) Securities subsequently not exempt
 
@@ -82,7 +82,7 @@ For purposes of this section—
 
 #### (3) Hedge
 
-&emsp;The term “hedge” means any position which manages the dealer's risk of interest rate or price changes or currency fluctuations, including any position which is reasonably expected to become a hedge within 60 days after the acquisition of the position.
+&emsp;The term “hedge” means any position which manages the dealer's risk of interest rate or price changes or currency fluctuations, including any position which is reasonably expectedto become a hedge within 60 days after the acquisition of the position.
 
 #### (4) Special rules for certain receivables
 

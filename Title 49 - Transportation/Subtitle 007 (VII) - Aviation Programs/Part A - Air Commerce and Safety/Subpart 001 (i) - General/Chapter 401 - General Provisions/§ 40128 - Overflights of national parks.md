@@ -20,7 +20,7 @@ Application for operating authority.—
 
 &emsp;&emsp;(A)
 
-Application required.—Before commencing commercial air tour operations over a national park or tribal lands, a commercial air tour operator shall apply to theAdministrator for authority to conduct the operations over the park or tribal lands.
+Application required.—Before commencing commercial air tour operations over a national park or tribal lands, a commercial air tour operator shall apply to the Administrator for authority to conduct the operations over the park or tribal lands.
 
 &emsp;&emsp;(B)
 
@@ -168,7 +168,7 @@ In general.—The Administrator, in cooperation with the Director, may grant int
 
 &emsp;&emsp;(B)
 
-Safety limitation.—The Administrator may not grant interim operating authority under subparagraph (A) if the Administrator determines that it would create a safety problem at the park or on the tribal lands, or the Director determines that itwould create a noise problem at the park or on the tribal lands.
+Safety limitation.—The Administrator may not grant interim operating authority under subparagraph (A) if the Administrator determines that it would create a safety problem at the park or on the tribal lands, or the Director determines that it would create a noise problem at the park or on the tribal lands.
 
 &emsp;&emsp;(C)
 

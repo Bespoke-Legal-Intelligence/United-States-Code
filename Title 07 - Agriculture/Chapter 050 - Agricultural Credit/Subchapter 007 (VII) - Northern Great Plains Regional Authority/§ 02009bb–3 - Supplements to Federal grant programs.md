@@ -56,7 +56,7 @@ A prior section 383E of Pub. L. 87–128, title III, was renumbered section 383F
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–246, §6026(e), struck out “, including local development districts,” after “region” in introductory provisions.
+<b>2008</b>—Subsec. (a). Pub. L. 110–246, §6026(e), struck out “, including local development districts,” after “region” in introductory provisions.
 
 Subsec. (b)(1). Pub. L. 110–246, §6026(c)(2)(C)(i), made technical amendment to reference in original act which appears in text as reference to section 2009bb–5(b) of this title.
 

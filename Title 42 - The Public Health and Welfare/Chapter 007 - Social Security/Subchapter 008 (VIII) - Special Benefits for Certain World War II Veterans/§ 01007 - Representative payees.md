@@ -16,7 +16,7 @@ If the Commissioner of Social Security determines that the interest of any quali
 
 &emsp;(A) require the person being investigated to submit documented proof of the identity of the person;
 
-&emsp;(B) in the case of a person who has a social security account number issued for purposes of the program under subchapter II of thischapter or an employer identification number issued for purposes of the Internal Revenue Code of 1986, verify the number;
+&emsp;(B) in the case of a person who has a social security account number issued for purposes of the program under subchapter II of this chapter or an employer identification number issued for purposes of the Internal Revenue Code of 1986, verify the number;
 
 &emsp;(C) determine whether the person has been convicted of a violation of section 408, 1011, or 1383a of this title;
 
@@ -74,7 +74,7 @@ The Commissioner of Social Security shall establish and maintain lists which sha
 
 &emsp;&emsp;(v) a person who is determined by the Commissioner of Social Security, on the basis of written findings and pursuant to procedures prescribed by the Commissioner of Social Security, to be acceptable to serve as a representative payee.
 
-&emsp;(C) The procedures referred to in subparagraph (B)(v) shall require the person who willserve as representative payee to establish, to the satisfaction of the Commissioner of Social Security, that—
+&emsp;(C) The procedures referred to in subparagraph (B)(v) shall require the person who will serve as representative payee to establish, to the satisfaction of the Commissioner of Social Security, that—
 
 &emsp;&emsp;(i) the person poses no risk to the qualified individual;
 
@@ -234,7 +234,7 @@ Subsec. (<i>l</i>). Pub. L. 108–203, §105(b), added subsec. (<i>l</i>).
 
 #### Effective Date of 2004 Amendment
 
-Amendment by section 101(b) of Pub. L. 108–203 applicable to any case of benefit misuse by a representative payee with respect to which the Commissioner of Social Security makes the determination of misuse on or after Jan. 1, 1995, see section 101(d) of Pub. L. 108–203, set out as a note under section 405 of this title.
+Amendment by section 101(b) of Pub. L. 108–203 applicable to any case of benefit misuse by a representativepayee with respect to which the Commissioner of Social Security makes the determination of misuse on or after Jan. 1, 1995, see section 101(d) of Pub. L. 108–203, set out as a note under section 405 of this title.
 
 Amendment by section 103(b) of Pub. L. 108–203 effective on the first day of the thirteenth month beginning after Mar. 2, 2004, see section 103(d) of Pub. L. 108–203, set out as a note under section 405 of this title.
 

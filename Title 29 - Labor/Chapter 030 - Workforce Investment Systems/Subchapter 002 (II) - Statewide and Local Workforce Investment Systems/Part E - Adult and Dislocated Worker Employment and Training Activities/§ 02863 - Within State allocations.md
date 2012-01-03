@@ -40,7 +40,7 @@
 
 #### (iii) Definition
 
-&emsp;&emsp;&emsp;The term “allocation percentage”, used with respect to fiscal year 2000 or a subsequent fiscal year, means a percentage of the funds referred to in clause (i), received through an allocation made under this subparagraph, for the fiscal year.
+&emsp;&emsp;&emsp;The term “allocation percentage”, used with respect to fiscal year 2000 or a subsequent fiscal year, means a percentage ofthe funds referred to in clause (i), received through an allocation made under this subparagraph, for the fiscal year.
 
 #### (B) Dislocated worker employment and training activities
 
@@ -114,7 +114,7 @@
 
 #### (3) Reallocation
 
-&emsp;In making reallocations to eligible local areas of amounts available pursuant to paragraph (2) for a program year, the Governor shall allocate to each eligible local area within the State an amount based on the relative amount allocated to such local area under subsection (b)(3) of this section for such activities for the prior program year, as compared to the total amount allocated to all eligible local areas in the State under subsection (b)(3) of this section for such activities for such prior program year. For purposes of this paragraph, local areas that received allocations under subsection (b)(2)(A) of this section for theprior program year shall be treated as if the local areas received allocations under subsection (b)(3) of this section for such year.
+&emsp;In making reallocations to eligible local areas of amounts available pursuant to paragraph (2) for a program year, the Governor shall allocate to each eligible local area within the State an amount based on the relative amount allocated to such local area under subsection (b)(3) of this section for such activitiesfor the prior program year, as compared to the total amount allocated to all eligible local areas in the State under subsection (b)(3) of this section for such activities for such prior program year. For purposes of this paragraph, local areas that received allocations under subsection (b)(2)(A) of this section for the prior program year shall be treated as if the local areas received allocations under subsection (b)(3) of this section for such year.
 
 #### (4) Eligibility
 

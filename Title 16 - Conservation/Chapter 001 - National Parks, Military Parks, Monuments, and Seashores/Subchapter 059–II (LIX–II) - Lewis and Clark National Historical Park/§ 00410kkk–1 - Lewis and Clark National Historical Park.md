@@ -6,7 +6,7 @@ In order to preserve for the benefit of the people of the United States the hist
 
 #### (b) Boundaries
 
-The boundaries of the park are those generally depicted on the map entitled “Lewis and Clark National Historical Park, Boundary Map”, numbered 405/80027, and dated December 2003, and which includes—
+The boundaries of the park are those generally depicted on the map entitled “Lewis and ClarkNational Historical Park, Boundary Map”, numbered 405/80027, and dated December 2003, and which includes—
 
 &emsp;(1) lands located in Clatsop County, Oregon, which are associated with the winter encampment of the Lewis and Clark Expedition, known as Fort Clatsop and designated as the Fort Clatsop National Memorial by Public Law 85–435, including the site of the salt cairn (specifically, lot number 18, block 1, Cartwright Park Addition of Seaside, Oregon) used by that expedition and adjacent portions of the old trail which led overland from the fort to the coast;
 

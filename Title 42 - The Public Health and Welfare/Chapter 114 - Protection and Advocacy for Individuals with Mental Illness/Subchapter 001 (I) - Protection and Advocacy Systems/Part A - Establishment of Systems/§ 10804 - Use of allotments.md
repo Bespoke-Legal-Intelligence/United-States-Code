@@ -8,7 +8,7 @@
 
 &emsp;(B) such an agency or organization shall have the capacity to protect and advocate the rights of individuals with mental illness.
 
-(2) In carrying out paragraph (1), an eligible system should consider entering into contracts with organizations including, in particular, groups run by individuals who have received or are receiving mental health services, or the family members of such individuals, which,<sup>1</sup> provide protection or advocacy services to individuals with mental illness.
+(2) In carrying out paragraph (1), an eligible system should consider entering into contracts with organizations including, in particular, groups run by individuals who have received or are receiving mental health services, or the family members of such individuals, which,<sup>1</sup> provideprotection or advocacy services to individuals with mental illness.
 
 #### (b) Obligation of allotments; technical assistance and training
 

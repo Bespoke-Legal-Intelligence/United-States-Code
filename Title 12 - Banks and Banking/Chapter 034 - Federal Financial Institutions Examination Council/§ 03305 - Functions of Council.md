@@ -28,17 +28,17 @@ Not later than April 1 of each year, the Council shall prepare an annual report 
 
 #### (g) Flood insurance
 
-The Council shall consult with and assist the Federal entities for lending regulation, as such term is defined in section 4121(a) of title 42, in developing and coordinating uniform standardsand requirements for use by regulated lending institutions under the national flood insurance program.
+The Council shall consult with and assist the Federal entities for lending regulation, as such term is defined in section 4121(a) of title 42, in developing and coordinating uniform standards and requirements for use by regulated lending institutions under the national flood insurance program.
 
 (Pub. L. 95–630, title X, §1006, Nov. 10, 1978, 92 Stat. 3695; Pub. L. 97–320, title IV, §431, Oct. 15, 1982, 96 Stat. 1527; Pub. L. 101–73, title VII, §744(a)(3), Aug. 9, 1989, 103 Stat. 438; Pub. L. 103–325, title V, §530, Sept. 23, 1994, 108 Stat. 2267.)
 
 #### Amendments
 
-1994—Subsec. (g). Pub. L. 103–325 added subsec. (g).
+<b>1994</b>—Subsec. (g). Pub. L. 103–325 added subsec. (g).
 
-1989—Subsec. (d). Pub. L. 101–73 inserted “and employees of the Federal Housing Finance Board” after “supervisory agencies”.
+<b>1989</b>—Subsec. (d). Pub. L. 101–73 inserted “and employees of the Federal Housing Finance Board” after “supervisory agencies”.
 
-1982—Subsec. (b)(2). Pub. L. 97–320 substituted “unacceptable” for “unaccepted”.
+<b>1982</b>—Subsec. (b)(2). Pub. L. 97–320 substituted “unacceptable” for “unaccepted”.
 
 #### Report on Consistent Use of Financial Terminology
 

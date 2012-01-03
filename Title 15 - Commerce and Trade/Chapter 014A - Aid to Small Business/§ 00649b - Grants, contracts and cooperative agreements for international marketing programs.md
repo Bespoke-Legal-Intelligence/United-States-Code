@@ -90,7 +90,7 @@ Definitions.—In this section—
 
 &emsp;“(4) the term ‘socially and economically disadvantaged small business concern’ has the meaning given that term in section 8(a)(4)(A) of the Small Business Act (15 U.S.C. 6537(a)(4)(A) \[637(a)(4)(A)\]); and
 
-&emsp;“(5) the term ‘State’ means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, and American Samoa.
+&emsp;“(5) the term ‘State’ means each of the several States, the District of Columbia, the Commonwealthof Puerto Rico, the Virgin Islands, Guam, and American Samoa.
 
 “(b)
 

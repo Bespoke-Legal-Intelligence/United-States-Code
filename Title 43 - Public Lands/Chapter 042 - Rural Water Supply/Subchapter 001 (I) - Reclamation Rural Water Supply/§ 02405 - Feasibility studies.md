@@ -40,7 +40,7 @@ Feasibility studies authorized or reviewed under this subchapter shall include a
 
 &emsp;(1) near- and long-term water demand in the area to be served by the rural water supply project;
 
-&emsp;(2) advancement of public health and safety of any existing rural water supply project andother benefits of the proposed rural water supply project;
+&emsp;(2) advancement of public health and safety of any existing rural water supply project and other benefits of the proposed rural water supply project;
 
 &emsp;(3) alternative new water supplies in the study area, including any opportunities to treat and use low-quality water, nonpotable water, water reuse-based supplies, and brackish and saline waters through innovative and economically viable treatment technologies;
 
@@ -130,7 +130,7 @@ Feasibility studies authorized or reviewed under this subchapter shall include a
 
 #### (2) Factors
 
-&emsp;In determining the financial capability of non-Federal project entities to pay for a rural water supply project under paragraph (1), the Secretary shall evaluate factors for the project area, relative to the State average, including—
+&emsp;In determining the financial capability of non-Federal project entities to pay for a ruralwater supply project under paragraph (1), the Secretary shall evaluate factors for the project area, relative to the State average, including—
 
 &emsp;&emsp;(A) per capita income;
 

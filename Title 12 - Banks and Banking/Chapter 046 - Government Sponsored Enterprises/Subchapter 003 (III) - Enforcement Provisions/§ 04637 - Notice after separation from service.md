@@ -10,7 +10,7 @@ A prior section 1379 of Pub. L. 102–550 was renumbered section 1379B and is cl
 
 #### Amendments
 
-2008—Pub. L. 110–289, §1157(4), which directed the substitution of “regulated entity.” for “enterprise.” could not be executed because of the prior amendment by Pub. L. 110–289, §1156(b)(1). See below.
+<b>2008</b>—Pub. L. 110–289, §1157(4), which directed the substitution of “regulated entity.” for “enterprise.” could not be executed because of the prior amendment by Pub. L. 110–289, §1156(b)(1). See below.
 
 Pub. L. 110–289, §1157(3), which directed the substitution of “entity-affiliated party” for “director or officer” wherever appearing, was executed by making the substitution for “director or executive officer” in two places, to reflect the probable intent of Congress.
 

@@ -4,7 +4,7 @@
 
 #### (1) Verification requirement
 
-&emsp;Except as provided under subsections (e) and (f), each importer shall perform risk-based foreign supplier verification activities for the purpose of verifying that the food imported by the importer or agent of an importer is—
+&emsp;Except as provided under subsections (e) and (f), each importer shall perform risk-based foreign supplier verification activities for thepurpose of verifying that the food imported by the importer or agent of an importer is—
 
 &emsp;&emsp;(A) produced in compliance with the requirements of section 350g of this title or section 350h of this title, as appropriate; and
 
@@ -80,7 +80,7 @@ Section effective 2 years after Jan. 4, 2011, see section 301(d) of Pub. L. 111�
 
 #### Construction
 
-Nothing in this section to be construed to apply to certain alcohol-related facilities, to alter jurisdiction and authorities established under certain other Acts, or in a manner inconsistent with international agreements to which the United States is a party, see sections 2206, 2251, and 2252 of this title.
+Nothing in this section to be construed to apply to certain alcohol-related facilities, to alter jurisdictionand authorities established under certain other Acts, or in a manner inconsistent with international agreements to which the United States is a party, see sections 2206, 2251, and 2252 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

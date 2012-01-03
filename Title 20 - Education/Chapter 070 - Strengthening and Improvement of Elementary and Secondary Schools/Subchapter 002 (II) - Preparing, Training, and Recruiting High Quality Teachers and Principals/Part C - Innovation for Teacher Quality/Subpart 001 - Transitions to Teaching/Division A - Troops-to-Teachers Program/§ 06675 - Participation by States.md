@@ -18,5 +18,5 @@ The Secretary may permit States participating in the Program to carry out activi
 
 #### Prior Provisions
 
-A prior section 6675, Pub. L. 89–10, title II, §2305, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3635, related to technical assistance, prior to the general amendment of this subchapter by Pub. L. 107–110.
+A prior section 6675, Pub. L. 89–10, title II, §2305, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat.3635, related to technical assistance, prior to the general amendment of this subchapter by Pub. L. 107–110.
 

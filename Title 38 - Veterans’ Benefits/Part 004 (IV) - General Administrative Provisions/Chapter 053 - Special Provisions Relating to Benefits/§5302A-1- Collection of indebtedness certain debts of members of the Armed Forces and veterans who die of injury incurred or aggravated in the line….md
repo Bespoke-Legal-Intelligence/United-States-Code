@@ -10,7 +10,7 @@ Covered Individuals.—A member of the Armed Forces or veteran described in this
 
 (c)
 
-Inapplicability to Housing and Small Business Benefit Programs.—The limitation on authority in subsection (a) shall not apply to any amounts owed the United States under anyprogram carried out under chapter 37 of this title.
+Inapplicability to Housing and Small Business Benefit Programs.—The limitation on authority in subsection (a) shall not apply to any amounts owed the United States under any program carried out under chapter 37 of this title.
 
 (Added Pub. L. 110–252, title I, §1303(a)(1), June 30, 2008, 122 Stat. 2327.)
 
@@ -20,7 +20,7 @@ Pub. L. 110–252, title I, §1303(c), June 30, 2008, 122 Stat. 2328, provided t
 
 #### Equitable Refund
 
-Pub. L. 110–389, title VIII, §801(b), Oct. 10, 2008, 122 Stat. 4185, provided that: “The Secretary of Veterans Affairs may refund to the estate of such person any amount collected by the Secretary (whether before, on, or after the date of the enactment of this Act \[Oct. 10, 2008\]) from a person who died while serving on active duty as a member of the Armed Forces if the Secretary determines that, under the circumstances applicable with respect to the deceased person, it is appropriate to do so.”
+Pub. L. 110–389, title VIII, §801(b), Oct. 10, 2008, 122 Stat. 4185, provided that: “The Secretary of Veterans Affairs may refund to the estate of such person any amount collected by the Secretary (whether before, on, or after the date of the enactment of this Act \[Oct. 10,2008\]) from a person who died while serving on active duty as a member of the Armed Forces if the Secretary determines that, under the circumstances applicable with respect to the deceased person, it is appropriate to do so.”
 
 Pub. L. 110–252, title I, §1303(b), June 30, 2008, 122 Stat. 2327, provided that: “In any case where all or any part of an indebtedness of a covered individual, as described in section 5302A(a) of title 38, United States Code, as added by subsection (a)(1), was collected after September 11, 2001, and before the date of the enactment of this Act \[June 30, 2008\], and the Secretary of Veterans Affairs determines that such indebtedness would have been terminated had such section been in effect at such time, the Secretary may refund the amount so collected if the Secretary determines that the individual is equitably entitled to such refund.”
 

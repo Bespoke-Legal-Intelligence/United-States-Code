@@ -18,9 +18,9 @@
 
 #### Amendments
 
-2004—Subsec. (a)(2). Pub. L. 108–411 struck out subpar. (A) designation before “A cash award under” and struck out subpar. (B) which read as follows: “For purposes of computing a percentage of a rate of basic pay under subparagraph (A), the rate of basic pay used shall be determined without taking into account any comparability payment under section 5304.”
+<b>2004</b>—Subsec. (a)(2). Pub. L. 108–411 struck out subpar. (A) designation before “A cash award under” and struck out subpar. (B) which read as follows: “For purposes of computing a percentage of a rate of basic pay under subparagraph (A), the rate of basic pay used shall be determined without taking into account any comparability payment under section 5304.”
 
-1992—Subsec. (b)(2). Pub. L. 102–378, §2(19)(A), inserted reference to chapter 71.
+<b>1992</b>—Subsec. (b)(2). Pub. L. 102–378, §2(19)(A), inserted reference to chapter 71.
 
 Subsec. (c). Pub. L. 102–378, §2(19)(B), inserted “of Personnel Management” after “Office”.
 

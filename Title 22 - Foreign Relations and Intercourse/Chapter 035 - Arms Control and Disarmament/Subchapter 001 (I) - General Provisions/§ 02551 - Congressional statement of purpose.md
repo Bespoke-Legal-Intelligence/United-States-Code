@@ -12,7 +12,7 @@ The Secretary of State must have the capacity to provide the essential scientifi
 
 &emsp;(4) The dissemination and coordination of public information concerning arms control, nonproliferation, and disarmament.
 
-(Pub. L. 87–297, title I, §102, formerly §2, Sept. 26, 1961, 75 Stat. 631; Pub. L. 94–141, title I, §144, Nov. 29, 1975, 89 Stat. 758; Pub. L. 103–236, title VII, §§703, 719(a), Apr. 30, 1994, 108 Stat. 491, 501; renumbered §102 and amended Pub. L. 105–277, div. G, subdiv. A, title XII, §1223(1), (21), Oct. 21, 1998, 112 Stat. 2681–768, 2681–772.)
+(Pub. L. 87–297, title I, §102, formerly §2, Sept. 26, 1961, 75 Stat. 631; Pub. L. 94–141, title I, §144, Nov. 29, 1975, 89 Stat. 758; Pub. L. 103–236, title VII, §§703, 719(a), Apr. 30, 1994, 108 Stat. 491, 501;renumbered §102 and amended Pub. L. 105–277, div. G, subdiv. A, title XII, §1223(1), (21), Oct. 21, 1998, 112 Stat. 2681–768, 2681–772.)
 
 #### Amendments
 
@@ -80,7 +80,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XII, subtitle F\], Nov. 
 
 “(a)
 
-Negotiations.—The President shall attempt to achieve the foreign policy goal of an internationalarms sales code of conduct. The President shall take the necessary steps to begin negotiations within appropriate international fora not later than 120 days after the date of the enactment of this Act \[Nov. 29, 1999\]. The purpose of these negotiations shall be to establish an international regime to promote global transparency with respect to arms transfers, including participation by countries in the United Nations Register of Conventional Arms, and to limit, restrict, or prohibit arms transfers to countries that do not observe certain fundamental values of human liberty, peace, and international stability.
+Negotiations.—The President shall attempt to achieve the foreign policy goal of an international arms sales code of conduct. The President shall take the necessary steps to begin negotiations within appropriate international fora not later than 120 days after the date of the enactment of this Act \[Nov. 29, 1999\]. The purpose of these negotiations shall be to establish an international regime to promote global transparency with respect to arms transfers, including participation by countries in the United Nations Register of Conventional Arms, and to limit, restrict, or prohibit arms transfers to countries that do not observe certain fundamental values of human liberty, peace, and international stability.
 
 “(b)
 

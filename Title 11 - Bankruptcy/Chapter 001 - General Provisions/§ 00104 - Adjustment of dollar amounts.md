@@ -10,11 +10,11 @@
 
 (c) Adjustments made in accordance with subsection (a) shall not apply with respect to cases commenced before the date of such adjustments.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2555; Pub. L. 103–394, title I, §108(e), Oct. 22, 1994, 108 Stat. 4112; Pub. L. 109–8, title I, §102(j), title II, §§224(e)(2), 226(b), title III, §322(b), title IV, §432(c), title X, §1002, title XII, §1202, Apr. 20, 2005, 119 Stat. 35, 65, 67, 97, 110, 186, 193; Pub. L. 110–406, §7, Oct. 13, 2008, 122 Stat. 4293.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2555; Pub. L. 103–394, title I, §108(e), Oct. 22, 1994, 108 Stat.4112; Pub. L. 109–8, title I, §102(j), title II, §§224(e)(2), 226(b), title III, §322(b), title IV, §432(c), title X, §1002, title XII, §1202, Apr. 20, 2005, 119 Stat. 35, 65, 67, 97, 110, 186, 193; Pub. L. 110–406, §7, Oct. 13, 2008, 122 Stat. 4293.)
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 104 represents a compromise between the House bill and the Senate amendment with respect to the adjustment of dollar amounts in title 11. The House amendment authorizes the Judicial Conference of the United States to transmit a recommendation for the uniform percentage of adjustment for each dollar amount in title 11 and in 28 U.S.C. 1930 to the Congress and to the President before May 1, 1985, and before May 1 of every sixth year thereafter. The requirement in the House bill that each such recommendation be based only on any change in the cost-of-living increase during the period immediately preceding the recommendation is deleted.
 
@@ -30,9 +30,9 @@ If the Judicial Conference has policy recommendations concerning the appropriate
 
 #### Amendments
 
-2008—Pub. L. 110–406 redesignated subsec. (b)(1) as (a), subpars. (A) and (B) of subsec. (b)(1) as pars. (1) and (2), respectively, of subsec. (a), and pars. (2) and (3) of subsec. (b) as subsecs. (b) and (c), respectively, substituted “subsection (a)” for “paragraph (1)” in subsec. (c), and struck out former subsec. (a) which read as follows: “The Judicial Conference of the United States shall transmit to the Congress and to the President before May 1, 1985, and before May 1 of every sixth year after May 1, 1985, a recommendation for the uniform percentage adjustment of each dollar amount in this title and in section 1930 of title 28.”
+<b>2008</b>—Pub. L. 110–406 redesignated subsec. (b)(1) as (a), subpars. (A) and (B) of subsec. (b)(1) as pars. (1) and (2), respectively, of subsec. (a), and pars. (2) and (3) of subsec. (b) as subsecs. (b) and (c), respectively, substituted “subsection (a)” for “paragraph (1)” in subsec. (c), and struck out former subsec. (a) which read as follows: “The Judicial Conference of the United States shall transmit to the Congress and to the President before May 1, 1985, and before May 1 of every sixth year after May 1, 1985, a recommendation for the uniform percentage adjustment of each dollar amount in this title and in section 1930 of title 28.”
 
-2005—Subsec. (b)(1). Pub. L. 109–8, §1202(1)–(4), in introductory provisions, inserted “101(19A),” after “101(18),”, “522(f)(3) and 522(f)(4),” after “522(d),”, and “541(b), 547(c)(9),” after “523(a)(2)(C),” and substituted “1322(d), 1325(b), and 1326(b)(3) of this title and section 1409(b) of title 28” for “and 1325(b)(3)”.
+<b>2005</b>—Subsec. (b)(1). Pub. L. 109–8, §1202(1)–(4), in introductory provisions, inserted “101(19A),” after “101(18),”, “522(f)(3) and 522(f)(4),” after “522(d),”, and “541(b), 547(c)(9),” after “523(a)(2)(C),” and substituted “1322(d), 1325(b), and 1326(b)(3) of this title and section 1409(b) of title 28” for “and 1325(b)(3)”.
 
 Pub. L. 109–8, §1002, inserted “101(18),” after “101(3),” in introductory provisions.
 
@@ -60,7 +60,7 @@ Pub. L. 109–8, §224(e)(2), inserted “522(n),” after “522(d),”.
 
 Pub. L. 109–8, §102(j), substituted “523(a)(2)(C), 707(b), and 1325(b)(3)” for “and 523(a)(2)(C)”.
 
-1994—Pub. L. 103–394 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1994</b>—Pub. L. 103–394 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 2005 Amendment
 

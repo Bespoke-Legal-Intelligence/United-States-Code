@@ -2,7 +2,7 @@
 
 #### (a) Form; assurances; public hearings
 
-(1) Each State desiring to receive an allotment for any fiscal year under this subchapter shall submit an application to the Secretary. Each such application shall be in such form as the Secretary shall require. Each such application shall contain assurances by the chief executive officer of the State that the State will meet theconditions enumerated in subsection (b) of this section.
+(1) Each State desiring to receive an allotment for any fiscal year under this subchapter shall submit an application to the Secretary. Each such application shall be in such form as the Secretary shall require. Each such application shall contain assurances by the chief executive officer of the State that the State will meet the conditions enumerated in subsection (b) of this section.
 
 (2) After the expiration of the first fiscal year for which a State receives funds under this subchapter, no funds shall be allotted to such State for any fiscal year under this subchapter unless such State conducts public hearings with respect to the proposed use and distribution of funds to be provided under this subchapter for such fiscal year.
 
@@ -170,7 +170,7 @@ In verifying income eligibility for purposes of subsection (b)(2)(B) of this sec
 
 &emsp;(B) the funds available to such State under this subchapter for such fiscal year;
 
-> may be used by the State for low-cost residential weatherization or other energy-related home repair for low-income households, particularly those low-income households with the lowest incomes that pay a high proportion of household income for home energy.
+> may be used by the State for low-cost residential weatherization or other energy-relatedhome repair for low-income households, particularly those low-income households with the lowest incomes that pay a high proportion of household income for home energy.
 
 (2)(A) If a State receives a waiver granted under subparagraph (B) for a fiscal year, the State may use not more than the greater of 25 percent of—
 
@@ -208,7 +208,7 @@ The Food and Nutrition Act of 2008, referred to in subsec. (b)(2)(A)(iii), is Pu
 
 Section 306 of the Veterans’ and Survivors’ Pension Improvement Act of 1978, referred to in subsec. (b)(2)(A)(iv), is section 306 of Pub. L. 95–588, title III, Nov. 4, 1978, 92 Stat. 2508, which is set out as a note under section 521 of Title 38, Veterans’ Benefits.
 
-Subtitle B of title VI, referred to in subsecs. (b)(3), (4), and (j), is subtitle B of title VI of Pub. L. 97–35, §671 et seq., Aug. 13, 1981, 95 Stat. 511, as amended, known asthe Community Services Block Grant Act, which is classified generally to chapter 106 (§9901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9901 of this title and Tables.
+Subtitle B of title VI, referred to in subsecs. (b)(3), (4), and (j), is subtitle B of title VI of Pub. L. 97–35, §671 et seq., Aug. 13, 1981, 95 Stat. 511, as amended, known as the Community Services Block Grant Act, which is classified generally to chapter 106 (§9901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9901 of this title and Tables.
 
 The Economic Opportunity Act of 1964, referred to in subsecs. (b)(3), (4), (6), and (j), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, as amended, which was classified generally to chapter 34 (§2701 et seq.) of this title prior to repeal, except for titles VIII and X, by Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519. Titles VIII and X of the Act are classified generally to subchapters VIII (§2991 et seq.) and X (§2996 et seq.) of chapter 34 of this title. For complete classification of this Act to the Code, see Tables.
 
@@ -292,7 +292,7 @@ Subsec. (k). Pub. L. 101–501, §705, designated existing provisions as par. (1
 
 Subsec. (b)(14) to (17). Pub. L. 99–425, §504(b), redesignated cl. (17) as (14), and struck out former cls. (14) to (16) which read as follows:
 
-“(14) describe the procedures by which households in the State are identified as eligible to participate under this subchapter and the manner in which the State determines benefit levels;
+“(14) describe the procedures by which households in the State are identified as eligible to participate underthis subchapter and the manner in which the State determines benefit levels;
 
 “(15) describe the amount that the State will reserve in accordance with section 8623(c) of this title in each fiscal year for energy crisis intervention activities together with the administrative procedures (A) for designating an emergency, (B) for determining the assistance to be provided in any such emergency, and (C) for the use of funds reserved under such section for the purposes under this subchapter in the event any portion of the amount so reserved is not expended for emergencies.
 
@@ -358,7 +358,7 @@ Amendment by section 504(a)–(d) of Pub. L. 99–425 not applicable with respec
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–558 effective on first day of first fiscal year beginning after Oct. 30, 1984, see section609(b) of Pub. L. 98–558, set out as a note under section 8621 of this title.
+Amendment by Pub. L. 98–558 effective on first day of first fiscal year beginning after Oct. 30, 1984, see section 609(b) of Pub. L. 98–558, set out as a note under section 8621 of this title.
 
 #### Clarification on Utility Allowances
 
@@ -384,7 +384,7 @@ Applicability.—This section applies to programs under the United States Housin
 
 “(d)
 
-Special Rule for Low-Income Home Energy Assistance Program.—For purposes of the Low-Income Home Energy Assistance Program, tenants described in subsection (a)(2) who are responsible for paying some or all heating or cooling costs shall not have their eligibility automatically denied. A State may consider the amount of the heating or cooling component of utility allowances received by tenants described in subsection (a)(2) when setting benefit levels under the Low-Income Home Energy Assistance Program. The size of any reduction in Low-Income Home Energy Assistance Program benefits must be reasonably related to the amount of the heating or cooling component of the utility allowance received and must ensure that the highest level of assistance will be furnished to those households with the lowest incomes and the highest energy costs in relation to income, taking into account family size, in compliance with section 2605(b)(5) of the Low-Income Home Energy Assistance Act of 1981 (42 U.S.C. 8624(b)(5)).”
+Special Rule for Low-Income Home Energy Assistance Program.—For purposes of the Low-Income Home Energy Assistance Program, tenants described insubsection (a)(2) who are responsible for paying some or all heating or cooling costs shall not have their eligibility automatically denied. A State may consider the amount of the heating or cooling component of utility allowances received by tenants described in subsection (a)(2) when setting benefit levels under the Low-Income Home Energy Assistance Program. The size of any reduction in Low-Income Home Energy Assistance Program benefits must be reasonably related to the amount of the heating or cooling component of the utility allowance received and must ensure that the highest level of assistance will be furnished to those households with the lowest incomes and the highest energy costs in relation to income, taking into account family size, in compliance with section 2605(b)(5) of the Low-Income Home Energy Assistance Act of 1981 (42 U.S.C. 8624(b)(5)).”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

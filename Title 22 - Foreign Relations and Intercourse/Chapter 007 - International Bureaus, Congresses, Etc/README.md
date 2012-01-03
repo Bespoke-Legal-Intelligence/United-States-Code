@@ -346,6 +346,7 @@
 | 282<i>l.</i> | Capital stock increase. |
 | [282m.](Subchapter%20011%20%28XI%29%20-%20International%20Finance%20Corporation/%C2%A7%2000282m%20-%20Authority%20to%20vote%20for%20capital%20increases%20necessary%20to%20support%20economic%20restructuring%20in%20independent%20states%20of%20former%20Soviet%20Union.md) | Authority to vote for capital increases necessary to support economic restructuring in independent states of former Soviet Union. |
 | [282n.](Subchapter%20011%20%28XI%29%20-%20International%20Finance%20Corporation/%C2%A7%2000282n%20-%20Authority%20to%20agree%20to%20amendments%20to%20Articles%20of%20Agreement.md) | Authority to agree to amendments to Articles of Agreement. |
+| 282<i>o.</i> | Selective capital increase and amendment of the Articles of Agreement. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -393,6 +394,7 @@
 | 283z–10. | Focus on low-income areas of Latin America and Caribbean. |
 | 283z–11. | First replenishment of the resources of the Enterprise for the Americas Multilateral Investment Fund. |
 | 283z–12. | Authority to vote for and contribute to an increase in resources of the Fund for Special Operations; providing debt relief to Haiti. |
+| 283z–13. | Ninth Capital Increase. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -440,6 +442,8 @@
 | [284u.](Subchapter%20013%20%28XIII%29%20-%20International%20Development%20Association/%C2%A7%2000284u%20-%20Fourteenth%20replenishment.md) | Fourteenth replenishment. |
 | [284v.](Subchapter%20013%20%28XIII%29%20-%20International%20Development%20Association/%C2%A7%2000284v%20-%20Fifteenth%20replenishment.md) | Fifteenth replenishment. |
 | [284w.](Subchapter%20013%20%28XIII%29%20-%20International%20Development%20Association/%C2%A7%2000284w%20-%20Multilateral%20debt%20relief.md) | Multilateral debt relief. |
+| [284x.](Subchapter%20013%20%28XIII%29%20-%20International%20Development%20Association/%C2%A7%2000284x%20-%20Sixteenth%20replenishment.md) | Sixteenth replenishment. |
+| [284y.](Subchapter%20013%20%28XIII%29%20-%20International%20Development%20Association/%C2%A7%2000284y%20-%20Multilateral%20debt%20relief.md) | Multilateral debt relief. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -477,6 +481,8 @@
 | [285aa.](Subchapter%20014%20%28XIV%29%20-%20Asian%20Development%20Bank/%C2%A7%2000285aa%20-%20Capital%20increase.md) | Capital increase. |
 | [285bb.](Subchapter%20014%20%28XIV%29%20-%20Asian%20Development%20Bank/%C2%A7%2000285bb%20-%20Additional%20contribution%20to%20special%20funds.md) | Additional contribution to special funds. |
 | [285cc.](Subchapter%20014%20%28XIV%29%20-%20Asian%20Development%20Bank/%C2%A7%2000285cc%20-%20Eighth%20replenishment.md) | Eighth replenishment. |
+| [285dd.](Subchapter%20014%20%28XIV%29%20-%20Asian%20Development%20Bank/%C2%A7%2000285dd%20-%20Ninth%20replenishment.md) | Ninth replenishment. |
+| [285ee.](Subchapter%20014%20%28XIV%29%20-%20Asian%20Development%20Bank/%C2%A7%2000285ee%20-%20Fifth%20capital%20increase.md) | Fifth capital increase. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -562,6 +568,8 @@
 | [286rr.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286rr%20-%20Approval%20to%20sell%20a%20limited%20amount%20of%20the%20Fund%27s%20gold.md) | Approval to sell a limited amount of the Fund's gold. |
 | [286ss.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286ss%20-%20Acceptance%20of%20amendment%20to%20Articles%20of%20Agreement%20of%20Fund%20approved%20on%20October%2022%2C%201997.md) | Acceptance of amendment to Articles of Agreement of Fund approved on October 22, 1997. |
 | [286tt.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286tt%20-%20Restrictions%20on%20use%20of%20United%20States%20funds%20for%20foreign%20governments%3B%20protection%20of%20American%20taxpayers.md) | Restrictions on use of United States funds for foreign governments; protection of American taxpayers. |
+| [286uu.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286uu%20-%20Acceptance%20of%20an%20amendment%20to%20the%20Articles%20of%20Agreement%20of%20the%20Bank%20to%20increase%20basic%20votes.md) | Acceptance of an amendment to the Articles of Agreement of the Bank to increase basic votes. |
+| [286vv.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286vv%20-%20Capital%20stock%20increases.md) | Capital stock increases. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -689,6 +697,8 @@
 | 290g–17. | Tenth replenishment. |
 | 290g–18. | Eleventh replenishment. |
 | 290g–19. | Multilateral Debt Relief Initiative. |
+| 290g–20. | Twelfth replenishment. |
+| 290g–21. | Multilateral debt relief. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -724,6 +734,7 @@
 | 290i–8. | Force and effect of agreement. |
 | 290i–9. | Securities issued by Bank; Securities and Exchange Commission oversight. |
 | 290i–10. | Authorization of United States subscription to stock; authorization of appropriations. |
+| 290i–11. | Sixth capital increase. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -768,6 +779,7 @@
 | 290<i>l</i>–6. | Effectiveness of Agreement. |
 | 290<i>l</i>–7. | Exemption from securities laws for certain securities issued by Bank; reports required. |
 | 290<i>l</i>–8. | Congressional consultations. |
+| 290<i>l</i>–9. | Capital increase. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

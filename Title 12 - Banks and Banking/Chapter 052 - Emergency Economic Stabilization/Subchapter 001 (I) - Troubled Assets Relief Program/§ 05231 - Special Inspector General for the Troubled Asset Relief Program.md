@@ -106,7 +106,7 @@ In carrying out the duties, responsibilities, and authorities of the Special Ins
 
 &emsp;(6) The Inspector General of any other entity as appropriate.
 
-#### (h) Council of the Inspectors General on integrity and efficiency
+#### (h) Council of the Inspectors General on Integrity and Efficiency
 
 The Special Inspector General shall be a member of the Council of the Inspectors General on Integrity and Efficiency established under section 11 of the Inspector General Act of 1978 (5 U.S.C. App.) until the date of termination of the Office of the Special Inspector General for the Troubled Asset Relief Program.
 
@@ -152,7 +152,7 @@ Chapter 83 or 84, referred to in subsec. (e)(5)(A), probably means chapter 83 or
 
 #### Amendments
 
-2009—Subsec. (c)(4). Pub. L. 111–15, §2(1), added par. (4).
+<b>2009</b>—Subsec. (c)(4). Pub. L. 111–15, §2(1), added par. (4).
 
 Subsec. (d)(2). Pub. L. 111–15, §2(2)(A), substituted “subsection (c)(1) and (4)” for “subsection (c)(1)”.
 

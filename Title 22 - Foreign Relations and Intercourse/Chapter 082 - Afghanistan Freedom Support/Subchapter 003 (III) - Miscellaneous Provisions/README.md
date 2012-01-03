@@ -10,3 +10,4 @@
 - [&sect; 07553 - Donor contributions to Afghanistan and reports](%C2%A7%2007553%20-%20Donor%20contributions%20to%20Afghanistan%20and%20reports.md)
 - [&sect; 07554 - Reports](%C2%A7%2007554%20-%20Reports.md)
 - [&sect; 07555 - Formulation of long-term strategy for Afghanistan](%C2%A7%2007555%20-%20Formulation%20of%20long-term%20strategy%20for%20Afghanistan.md)
+- [&sect; 07556 - Benchmarks to evaluate the progress being made toward the transition of security responsibilities for Afghanistan to the Government of&#8230;](%C2%A7%2007556%20-%20Benchmarks%20to%20evaluate%20the%20progress%20being%20made%20toward%20the%20transition%20of%20security%20responsibilities%20for%20Afghanistan%20to%20the%20Government%20of%E2%80%A6.md)

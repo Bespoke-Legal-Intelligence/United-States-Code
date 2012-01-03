@@ -6,7 +6,7 @@ For the purpose of enforcing the provisions of this chapter, carriers engaged in
 
 #### (b) Food transportation records
 
-A shipper, carrier by motor vehicle or rail vehicle, receiver, or other person subject to section 350e of this title shall, on request of an officer or employee designated by the Secretary, permit the officer or employee, at reasonable times, to have access to and to copy all recordsthat the Secretary requires to be kept under section 350e(c)(1)(E) of this title.
+A shipper, carrier by motor vehicle or rail vehicle, receiver, or other person subject to section 350e of this title shall, on request of an officer or employee designated by the Secretary, permit the officer or employee, at reasonable times, to have access to and to copy all records that the Secretary requires to be kept under section 350e(c)(1)(E) of this title.
 
 (June 25, 1938, ch. 675, §703, 52 Stat. 1057; Pub. L. 91–452, title II, §230, Oct. 15, 1970, 84 Stat. 930; Pub. L. 103–80, §3(z), Aug. 13, 1993, 107 Stat. 778; Pub. L. 109–59, title VII, §7202(c), Aug. 10, 2005, 119 Stat. 1913; Pub. L. 111–31, div. A, title I, §103(h), June 22, 2009, 123 Stat. 1837.)
 

@@ -8,7 +8,7 @@ From the allotment of each State for a fiscal year under section 796e of this ti
 
 #### (1) In general
 
-&emsp;The Federal share with respect to any State for any fiscal year shall be 90 percent of theexpenditures incurred by the State during such year under its State plan approved under section 796d–1 of this title.
+&emsp;The Federal share with respect to any State for any fiscal year shall be 90 percent of the expenditures incurred by the State during such year under its State plan approved under section 796d–1 of this title.
 
 #### (2) Non-Federal share
 

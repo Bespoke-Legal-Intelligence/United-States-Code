@@ -14,7 +14,7 @@ No lease of lands owned in whole or part by the United States between Hoover Dam
 
 #### (d) Lease operations on Indian lands
 
-The provisions of subsections (a) and (b) of this section shall not apply to lease operations on Indian lands pursuant to a lease providing for activities which are exempted under section 1600e of this title.
+The provisions of subsections (a) and (b) of this section shall not apply to lease operationson Indian lands pursuant to a lease providing for activities which are exempted under section 1600e of this title.
 
 #### (e) Lands held in trust by United States for benefit of Indian tribes or individuals
 

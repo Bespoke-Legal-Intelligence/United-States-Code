@@ -10,7 +10,7 @@
 
 (e) The Secretary shall prescribe by regulation the detailed procedures whereby officers in a continuation zone will be selected for continuation on active duty.
 
-(f) A board convened under this section shall submit its report to the Secretary. If the board has acted contrary to law or regulation, the Secretary may return the report for proceedings inrevision and resubmission to the Secretary. After his final review the Secretary shall submit the report of the board to the President for his approval. Except as required by the procedures of this section, the proceedings of the board shall not be disclosed to any person not a member of the board.
+(f) A board convened under this section shall submit its report to the Secretary. If the board has acted contrary to law or regulation, the Secretary may return the report for proceedings in revision and resubmission to the Secretary. After his final review the Secretary shall submit the report of the board to the President for his approval. Except as required by the procedures of this section, the proceedings of the board shall not be disclosed to any person not a member of the board.
 
 (g) Each officer who is considered but not recommended for continuation on active duty under the provisions of this section shall, unless retired under some other provision of law, be retired on June 30 of the promotion year in which the report of the continuation board convened under this section is approved, or the last day of the month in which he completes twenty years of active service, whichever is later.
 
@@ -20,25 +20,25 @@
 
 #### Amendments
 
-2002—Subsec. (h). Pub. L. 107–295 added subsec. (h).
+<b>2002</b>—Subsec. (h). Pub. L. 107–295 added subsec. (h).
 
-1996—Subsec. (f). Pub. L. 104–324 struck out “Upon approval by the President, the names of the officers selected for continuation on active duty by the board shall be promptly disseminated to the service at large.” after “for his approval.”
+<b>1996</b>—Subsec. (f). Pub. L. 104–324 struck out “Upon approval by the President, the names of the officers selected for continuation on active duty by the board shall be promptly disseminated to the service at large.” after “for his approval.”
 
-1989—Subsec. (c). Pub. L. 101–225 substituted “50 percent” for “75 percent”.
+<b>1989</b>—Subsec. (c). Pub. L. 101–225 substituted “50 percent” for “75 percent”.
 
-1985—Subsec. (a). Pub. L. 99–145 substituted “rear admiral (lower half)” for “commodore” in two places.
+<b>1985</b>—Subsec. (a). Pub. L. 99–145 substituted “rear admiral (lower half)” for “commodore” in two places.
 
-1983—Subsec. (a). Pub. L. 97–417 substituted “commodore or rear admiral” for “rear admiral” after “six officers of the grade of”, and “commodore” for “rear admiral” after “promotion to the grade of”.
+<b>1983</b>—Subsec. (a). Pub. L. 97–417 substituted “commodore or rear admiral” for “rear admiral” after “six officers of the grade of”, and “commodore” for “rear admiral” after “promotion to the grade of”.
 
-1976—Subsecs. (a), (g). Pub. L. 94–546 substituted “promotion year” for “fiscal year” wherever appearing.
+<b>1976</b>—Subsecs. (a), (g). Pub. L. 94–546 substituted “promotion year” for “fiscal year” wherever appearing.
 
 #### Effective Date
 
-Section 6 of Pub. L. 88–130 provided that: “Section 289 of title 14, United States Code, as enacted by section 1(10)(C) of this Act \[see section 5(a) of Pub. L. 88–130, set out as a note under section 211 of this title\], becomes effective three years after the effective date of this Act \[Sept. 24, 1963\], or on July 1, 1966, whichever is later.”
+Pub. L. 88–130, §6, Sept. 24, 1963, 77 Stat. 193, provided that: “Section 289 of title 14, United States Code, as enacted by section 1(10)(C) of this Act \[see section 5(a) of Pub. L. 88–130, set out as a note under section 211 of this title\], becomes effective three years after the effective date of this Act \[Sept. 24, 1963\], or on July 1, 1966, whichever is later.”
 
 #### Consideration for Retention on Active Duty Under Former Section 248 of This Title
 
-Section 2(c) of Pub. L. 88–130 provided that: “Officers who, prior to the effective date of this Act \[Sept. 24, 1963\], were considered but not selected for retention on active duty under the provisions of section 248, title 14, United States Code, shall remain subject to the provisions of subsections (b) and (c) of that section.”
+Pub. L. 88–130, §2(c), Sept. 24, 1963, 77 Stat. 191, provided that: “Officers who, prior to the effective date of this Act \[Sept. 24, 1963\], were considered but not selected for retention on active duty under the provisions of section 248, title 14, United States Code, shall remain subject to the provisions of subsections (b) and (c) of that section.”
 
 #### Retired Pay on or Prior to September 24, 1963
 

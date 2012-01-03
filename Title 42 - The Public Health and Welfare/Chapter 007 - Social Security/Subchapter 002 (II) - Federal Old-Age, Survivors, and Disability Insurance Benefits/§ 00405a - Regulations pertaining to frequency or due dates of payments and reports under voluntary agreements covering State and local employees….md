@@ -1,6 +1,6 @@
 ### §405a. Regulations pertaining to frequency or due dates of payments and reports under voluntary agreements covering State and local employees; effective date
 
-Notwithstanding any other provision of law, no regulation and no modification of any regulation, promulgated by the Secretary of Health and Human Services, after January 2, 1976, shall become effective prior to the end of the eighteen-month period which begins with the first day of the first calendar month which begins after the date on which such regulation or modification of a regulation is published in the Federal Register, if and insofar as such regulation or modification of a regulation pertains, directly or indirectly, to the frequency or due dates for payments and reports required under section 418(e) <sup>1</sup> of this title.
+Notwithstanding any other provision of law, no regulation and no modification of any regulation, promulgated by the Secretary of Healthand Human Services, after January 2, 1976, shall become effective prior to the end of the eighteen-month period which begins with the first day of the first calendar month which begins after the date on which such regulation or modification of a regulation is published in the Federal Register, if and insofar as such regulation or modification of a regulation pertains, directly or indirectly, to the frequency or due dates for payments and reports required under section 418(e) <sup>1</sup> of this title.
 
 (Pub. L. 94–202, §7, Jan. 2, 1976, 89 Stat. 1137; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
 

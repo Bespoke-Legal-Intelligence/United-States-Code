@@ -20,29 +20,29 @@ The Older Americans Act of 1965, referred to in text, is Pub. L. 89–73, July 1
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
-Section was enacted as part of the Agriculture and Food Act of 1981, and not as part of the Agricultural Act of 1949 which is classified principally to this chapter. For complete classification of the 1949 Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+Section was enacted as part of the Agriculture and Food Act of 1981, and not as part of the AgriculturalAct of 1949 which is classified principally to this chapter. For complete classification of the 1949 Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
 #### Amendments
 
-2008—Par. (2)(A). Pub. L. 110–246, §4406(b)(4), substituted “For each of fiscal years 2008 through 2012” for “Effective through September 30, 2007”.
+<b>2008</b>—Par. (2)(A). Pub. L. 110–246, §4406(b)(4), substituted “For each of fiscal years 2008 through 2012” for “Effective through September 30, 2007”.
 
-2002—Par. (2)(A). Pub. L. 107–171 substituted “2007” for “2002”.
+<b>2002</b>—Par. (2)(A). Pub. L. 107–171 substituted “2007” for “2002”.
 
-1996—Par. (2)(A). Pub. L. 104–127 substituted “2002” for “1995”.
+<b>1996</b>—Par. (2)(A). Pub. L. 104–127 substituted “2002” for “1995”.
 
-1991—Par. (2)(D). Pub. L. 102–237 substituted “1992, 1993, and 1994” for “1992 and 1993”.
+<b>1991</b>—Par. (2)(D). Pub. L. 102–237 substituted “1992, 1993, and 1994” for “1992 and 1993”.
 
-1990—Par. (2)(A). Pub. L. 101–624, §1775(a), substituted “1995” for “1990”.
+<b>1990</b>—Par. (2)(A). Pub. L. 101–624, §1775(a), substituted “1995” for “1990”.
 
 Par. (2)(C), (D). Pub. L. 101–624, §1775(b), added subpars. (C) and (D).
 
-1988—Par. (2)(A). Pub. L. 100–237 substituted “September 30, 1990” for “June 30, 1987”.
+<b>1988</b>—Par. (2)(A). Pub. L. 100–237 substituted “September 30, 1990” for “June 30, 1987”.
 
-1985—Pub. L. 99–198 designated existing provisions as par. (1), inserted provision directing that commodities made available under this section include, but not be limited to, dairy products, wheat or the products thereof, rice, honey, and cornmeal, and added par. (2).
+<b>1985</b>—Pub. L. 99–198 designated existing provisions as par. (1), inserted provision directing that commodities made available under this section include, but not be limited to, dairy products, wheat or the products thereof, rice, honey, and cornmeal, and added par. (2).
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 Amendment by section 4406(b)(4) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 

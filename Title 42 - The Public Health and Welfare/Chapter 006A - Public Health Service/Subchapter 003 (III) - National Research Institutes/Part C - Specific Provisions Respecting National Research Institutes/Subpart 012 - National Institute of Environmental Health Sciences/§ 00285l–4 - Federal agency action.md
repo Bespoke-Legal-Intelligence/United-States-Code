@@ -2,7 +2,7 @@
 
 #### (a) Identification of tests
 
-With respect to each Federal agency carrying out a program that requires or recommends acute or chronic toxicological testing, such agency shall, not later than 180 days after receiving an ICCVAM test recommendation, identify and forward to the ICCVAM any relevanttest method specified in a regulation or industry-wide guideline which specifically, or in practice requires, recommends, or encourages the use of an animal acute or chronic toxicological test method for which the ICCVAM test recommendation may be added or substituted.
+With respect to each Federal agency carrying out a program that requires or recommends acute or chronic toxicological testing, such agency shall, not later than 180 days after receiving an ICCVAM test recommendation, identify and forward to the ICCVAM any relevant test method specified in a regulation or industry-wide guideline which specifically, or in practice requires, recommends, or encourages the use of an animal acute or chronic toxicological test method for which the ICCVAM test recommendation may be added or substituted.
 
 #### (b) Alternatives
 
@@ -20,7 +20,7 @@ Not later than 180 days after receipt of an ICCVAM test recommendation, a Federa
 
 Each Federal agency carrying out a program described in subsection (a) of this section, or its specific regulatory unit or units, shall adopt the ICCVAM test recommendation unless such Federal agency determines that—
 
-&emsp;(1) the ICCVAM test recommendation is not adequate in terms of biological relevance for the regulatory goal authorized by that agency, or mandated by Congress;
+&emsp;(1) the ICCVAM test recommendation is not adequate in terms of biological relevance forthe regulatory goal authorized by that agency, or mandated by Congress;
 
 &emsp;(2) the ICCVAM test recommendation does not generate data, in an amount and of a scientific value that is at least equivalent to the data generated prior to such recommendation, for the appropriate hazard identification, dose-response assessment, or risk assessment purposes as the current test method recommended or required by that agency;
 

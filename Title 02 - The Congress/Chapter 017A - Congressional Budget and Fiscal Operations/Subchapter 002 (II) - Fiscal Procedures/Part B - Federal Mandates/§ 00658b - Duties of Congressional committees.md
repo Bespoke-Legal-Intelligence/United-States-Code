@@ -24,7 +24,7 @@ If any of the Federal mandates in the bill or joint resolution are Federal inter
 
 &emsp;(1)(A) a statement of the amount, if any, of increase or decrease in authorization of appropriations under existing Federal financial assistance programs, or of authorization of appropriations for new Federal financial assistance, provided by the bill or joint resolution and usable for activities of State, local, or tribal governments subject to the Federal intergovernmental mandates;
 
-&emsp;(B) a statement of whether the committee intends that the Federal intergovernmentalmandates be partly or entirely unfunded, and if so, the reasons for that intention; and
+&emsp;(B) a statement of whether the committee intends that the Federal intergovernmental mandates be partly or entirely unfunded, and if so, the reasons for that intention; and
 
 &emsp;(C) if funded in whole or in part, a statement of whether and how the committee has created a mechanism to allocate the funding in a manner that is reasonably consistent with the expected direct costs among and between the respective levels of State, local, and tribal government;
 
@@ -50,5 +50,5 @@ When a committee of authorization of the Senate or the House of Representatives 
 
 #### Amendments
 
-1999—Subsec. (d)(3). Pub. L. 106–141 added par. (3).
+<b>1999</b>—Subsec. (d)(3). Pub. L. 106–141 added par. (3).
 

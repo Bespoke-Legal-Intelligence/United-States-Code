@@ -24,7 +24,7 @@ Section 4(a)(2) of the Department of State Special Agents Retirement Act of 1998
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a)(2). Pub. L. 105–382 amended first sentence generally. Prior to amendment, first sentence read as follows: “Notwithstanding paragraph (1), a Foreign Service criminal investigator/inspector of the Office of Inspector General of the Agency for International Development who would have been eligible forretirement pursuant to either section 8336(c) or 8412(d) of title 5, as applicable, had the employee remained in civil service, shall be separated from the Service on the last day of the month in which that Foreign Service criminal investigator/inspector attains 57 years of age or completes 20 years of service if then over that age.”
+<b>1998</b>—Subsec. (a)(2). Pub. L. 105–382 amended first sentence generally. Prior to amendment, first sentence read as follows: “Notwithstanding paragraph (1), a Foreign Service criminal investigator/inspector of the Office of Inspector General of the Agency for International Development who would have been eligible for retirement pursuant to either section 8336(c) or 8412(d) of title 5, as applicable, had the employee remained in civil service, shall be separated from the Service on the last day of the month in which that Foreign Service criminal investigator/inspector attains 57 years of age or completes 20 years of service if then over that age.”
 
 <b>1992</b>—Subsec. (a)(2). Pub. L. 102–499 substituted “57” for “55”.
 

@@ -34,5 +34,5 @@ There are authorized to be appropriated such sums as are necessary for fiscal ye
 
 #### Amendments
 
-1996—Pub. L. 104–127 substituted “Red meat safety research center” for “Turkey Research Center” in section catchline and amended text generally. Prior to amendment, text read as follows: “There are authorized to be appropriated $500,000 for fiscal year 1992 to be used by the Agricultural Research Service for planning purposes in the establishment of a facility to be known as the Agricultural Turkey Research Center to be located in Pelican Rapids, Minnesota, and operated in cooperation with the North Dakota State University.”
+<b>1996</b>—Pub. L. 104–127 substituted “Red meat safety research center” for “Turkey Research Center” in section catchline and amended text generally. Prior to amendment, text read as follows: “There are authorized to be appropriated $500,000 for fiscal year 1992 to be used by the Agricultural Research Service for planning purposes in the establishment of a facility to be known as the Agricultural Turkey Research Center to be located in Pelican Rapids, Minnesota, and operated in cooperation with the North Dakota State University.”
 

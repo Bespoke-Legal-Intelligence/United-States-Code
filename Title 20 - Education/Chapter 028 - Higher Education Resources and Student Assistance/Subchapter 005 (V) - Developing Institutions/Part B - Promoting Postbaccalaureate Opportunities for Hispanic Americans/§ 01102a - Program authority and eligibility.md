@@ -2,7 +2,7 @@
 
 #### (a) Program authorized
 
-Subject to the availability of funds appropriated to carry out this part, the Secretary shall award grants, on a competitive basis, to eligible institutions to enable the eligible institutions to carry out the authorized activities described in section 1102b of this title.
+Subject to the availability of funds appropriated to carry out this part, the Secretaryshall award grants, on a competitive basis, to eligible institutions to enable the eligible institutions to carry out the authorized activities described in section 1102b of this title.
 
 #### (b) Eligibility
 

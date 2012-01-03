@@ -79,7 +79,7 @@ The credit allowed by this section shall include only such taxes as were actuall
 
 &emsp;(3) If a claim for refund or credit of an overpayment of tax imposed by this chapter has been filed within the time prescribed in section 6511, then within such 4-year period or before the expiration of 60 days from the date of mailing by certified mail or registered mail by the Secretary to the taxpayer of a notice of the disallowance of any part of such claim, or before the expiration of 60 days after a decision by any court of competent jurisdiction becomes final with respect to a timely suit instituted upon such claim, whichever is later.
 
-> Refund based on the credit may (despite the provisions of sections 6511 and 6512) be made ifclaim therefor is filed within the period above provided. Any such refund shall be made without interest.
+> Refund based on the credit may (despite the provisions of sections 6511 and 6512) be made if claim therefor is filed within the period above provided. Any such refund shall be made without interest.
 
 #### (d) Limitation in cases involving deduction under section 2053(d)
 
@@ -103,7 +103,7 @@ The credit provided by this section shall not exceed the amount of the tax impos
 
 This section shall not apply to the estates of decedents dying after December 31, 2004.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 374; Feb. 20, 1956, ch. 63, §3, 70 Stat. 24; Pub. L. 85–866, title I, §§65(a), 102(c)(1), Sept. 2, 1958, 72 Stat. 1657, 1674; Pub. L. 86–175, §3, Aug. 21, 1959, 73 Stat. 397; Pub. L. 94–455, title XIX, §§1902(a)(12)(B), 1906(b)(13)(A), title XX, §§2001(c)(1)(A), 2004(f)(3), Oct. 4, 1976, 90 Stat. 1806, 1834, 1849, 1872; Pub. L. 97–34, title IV, §422(e)(2), Aug. 13, 1981, 95 Stat. 316; Pub. L. 107–16, title V, §§531(a), 532(a), June 7, 2001, 115 Stat. 72, 73; Pub. L. 107–134, title I, §103(b)(1), Jan. 23, 2002, 115 Stat. 2431.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 374; Feb. 20, 1956, ch. 63, §3, 70 Stat. 24; Pub. L. 85–866, title I, §§65(a), 102(c)(1), Sept. 2, 1958, 72 Stat. 1657, 1674; Pub. L. 86–175, §3, Aug. 21, 1959, 73 Stat. 397; Pub. L. 94–455, title XIX, §§1902(a)(12)(B), 1906(b)(13)(A), title XX, §§2001(c)(1)(A), 2004(f)(3), Oct. 4, 1976, 90 Stat. 1806, 1834, 1849, 1872; Pub. L.97–34, title IV, §422(e)(2), Aug. 13, 1981, 95 Stat. 316; Pub. L. 107–16, title V, §§531(a), 532(a), June 7, 2001, 115 Stat. 72, 73; Pub. L. 107–134, title I, §103(b)(1), Jan. 23, 2002, 115 Stat. 2431.)
 
 #### Amendment of Section
 
@@ -159,7 +159,7 @@ Waiver of limitations.—If refund or credit of any overpayment of tax resulting
 
 Pub. L. 107–16, title V, §531(b), June 7, 2001, 115 Stat. 73, as amended by Pub. L. 108–311, title IV, §408(b)(6), Oct. 4, 2004, 118 Stat. 1192, provided that: “The amendments made by this section \[amending this section\] shall apply to estates of decedents dying after December 31, 2001.”
 
-Pub. L. 107–16, title V, §532(d), June 7, 2001, 115 Stat. 75, provided that: “The amendments made by this section \[enacting section 2058 of this title and amending this section and sections 2012 to 2016, 2053, 2056A, 2102, 2106, 2107, 2201, 2604, 6511, and 6612 of this title\] shallapply to estates of decedents dying, and generation-skipping transfers, after December 31, 2004.”
+Pub. L. 107–16, title V, §532(d), June 7, 2001, 115 Stat. 75, provided that: “The amendments made by this section \[enacting section 2058 of this title and amending this section and sections 2012 to 2016, 2053, 2056A, 2102, 2106, 2107, 2201, 2604, 6511, and 6612 of this title\] shall apply to estates of decedents dying, and generation-skipping transfers, after December 31, 2004.”
 
 Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
@@ -185,7 +185,7 @@ Amendment by Pub. L. 86–175 applicable with respect to estates of decedents dy
 
 Section 65(c) of Pub. L. 85–866 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to estates of decedents dying after August 16, 1954. The amendment made by subsection (b) \[amending this section\] shall apply with respect to estates of decedents dying after February 10, 1939, and on or before August 16, 1954.”
 
-Section 102(d) of Pub. L. 85–866 provided that: “The amendments made by this section (other than by subsection (b)) \[enacting section 2208 of this title and amending this section and sections 2104 and 2053 of this title\] shall apply to the estates of decedents dying after the date of the enactment of this Act \[Sept. 2, 1958\]. The amendment made by subsection (b) \[amending section 2501 of this title\] shall apply to gifts made after the date of the enactment of this Act.”
+Section 102(d) of Pub. L. 85–866 provided that: “The amendments made by this section (other than by subsection (b)) \[enacting section 2208 of this title and amending this section and sections 2104 and 2053 of thistitle\] shall apply to the estates of decedents dying after the date of the enactment of this Act \[Sept. 2, 1958\]. The amendment made by subsection (b) \[amending section 2501 of this title\] shall apply to gifts made after the date of the enactment of this Act.”
 
 #### Effective Date of 1956 Amendment
 

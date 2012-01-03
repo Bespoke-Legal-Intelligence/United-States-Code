@@ -56,7 +56,7 @@ Section 24102 of this title, referred to in subsec. (f), was subsequently amende
 
 #### Prior Provisions
 
-A prior section 11123, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1422; Pub. L. 96–448, title II, §226, Oct. 14, 1980, 94 Stat. 1930, related to situations requiring immediate action, prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
+A prior section 11123, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1422; Pub. L. 96–448, title II, §226, Oct. 14, 1980, 94Stat. 1930, related to situations requiring immediate action, prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
 
 #### Amendments
 

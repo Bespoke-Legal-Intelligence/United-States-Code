@@ -12,13 +12,13 @@ No Federal funds may be used to sponsor or fund in whole or in part a meeting, c
 
 #### (2) Delegation of authority
 
-&emsp;The head of an agency of the Federal Government may delegate the authority provided under paragraph (1) to waive the prohibition described in subsection (a) of this section and to determine whether such a waiver is necessary in the public interest to an officer or employee of the agency if such officer or employee is given such authority with respect toall meetings, conventions, conferences, and training seminars sponsored or funded by the agency.
+&emsp;The head of an agency of the Federal Government may delegate the authority provided under paragraph (1) to waive the prohibition described in subsection (a) of this section and to determine whether such a waiver is necessary in the public interest to an officer or employee of the agency if such officer or employee is given such authority with respect to all meetings, conventions, conferences, and training seminars sponsored or funded by the agency.
 
 #### (c) Notice requirements
 
 #### (1) Advertisements and applications
 
-&emsp;(A) Any advertisement for or application for attendance at a meeting, convention, conference, or training seminar sponsored or funded in whole or in part by the Federal Government shall include a notice regarding the prohibition described in subsection (a) of this section.
+&emsp;(A) Any advertisement for or application for attendance at a meeting, convention, conference, or training seminar sponsored orfunded in whole or in part by the Federal Government shall include a notice regarding the prohibition described in subsection (a) of this section.
 
 &emsp;(B) The requirement described in subparagraph (A) shall not apply in the case of an event for which a head of an agency of the Federal Government, pursuant to subsection (b) of this section, waives the prohibition described in subsection (a) of this section.
 

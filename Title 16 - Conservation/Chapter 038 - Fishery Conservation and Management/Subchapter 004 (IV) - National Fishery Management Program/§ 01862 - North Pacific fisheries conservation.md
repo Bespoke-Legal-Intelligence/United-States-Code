@@ -26,7 +26,7 @@ The North Pacific Council may prepare, in consultation with the Secretary, a fis
 
 &emsp;(B) be fair and equitable to all participants in the fisheries under the jurisdiction of the Council, including the Northern Pacific halibut fishery;
 
-&emsp;(C) provide that fees collected not be used to pay any costs of administrative overhead orother costs not directly incurred in carrying out the plan;
+&emsp;(C) provide that fees collected not be used to pay any costs of administrative overhead or other costs not directly incurred in carrying out the plan;
 
 &emsp;(D) not be used to offset amounts authorized under other provisions of law;
 

@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(B) To routinely determine, in examining patients, whether the medical conditions or statements of the patients so indicate.
 
-&emsp;&emsp;(C) To refer individuals so identified to entities that provide services regarding such violence, including referrals for counseling, housing, legal services, and services of community organizations.
+&emsp;&emsp;(C) To refer individuals so identified to entities that provide services regarding suchviolence, including referrals for counseling, housing, legal services, and services of community organizations.
 
 &emsp;(6) Making grants to public and nonprofit private entities for demonstration projects with respect to such violence, including with respect to prevention.
 

@@ -26,7 +26,7 @@
 
 #### (4) Offers and permitted transfer
 
-&emsp;If a notice of serious interest in a covered property is timely submitted pursuant toparagraph (2), the corporation concerned may not sell or otherwise transfer such covered property during the 90-day period beginning upon the expiration of the period under paragraph (2) except to a governmental agency or qualified organization for use primarily for wildlife refuge, sanctuary, open space, recreational, historical, cultural, or natural resource conservation purposes, unless all notices of serious interest under paragraph (2) have been withdrawn.
+&emsp;If a notice of serious interest in a covered property is timely submitted pursuant to paragraph (2), the corporation concerned may not sell or otherwise transfer such covered property during the 90-day period beginning upon the expiration of the period under paragraph (2) except to a governmental agency or qualified organization for use primarily for wildlife refuge, sanctuary, open space, recreational, historical, cultural, or natural resource conservation purposes, unless all notices of serious interest under paragraph (2) have been withdrawn.
 
 #### (c) Definitions
 
@@ -76,7 +76,7 @@ Section was enacted as part of the Coastal Barrier Improvement Act of 1990, and 
 
 #### Amendments
 
-1999—Subsec. (c)(2)(B)(i). Pub. L. 106–167 substituted “John H. Chafee Coastal Barrier Resources System” for “Coastal Barrier Resources System”.
+<b>1999</b>—Subsec. (c)(2)(B)(i). Pub. L. 106–167 substituted “John H. Chafee Coastal Barrier Resources System” for “Coastal Barrier Resources System”.
 
 #### Termination of Reporting Requirements
 

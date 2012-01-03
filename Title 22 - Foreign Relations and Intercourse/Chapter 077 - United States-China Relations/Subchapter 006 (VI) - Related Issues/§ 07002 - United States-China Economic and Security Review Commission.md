@@ -142,7 +142,7 @@ The purposes of this section are as follows:
 
 #### (3) Staff
 
-&emsp;An executive director and other additional personnel for the Commission shall be appointed, compensated, and terminated in the same manner provided for the appointment, compensation, and termination of the executive director and other personnel of the Trade Deficit Review Commission under section 127(g)(3) and section 127(g)(6) of the Trade Deficit Review Commission Act. The executive director and any personnel who are employees of the United States-China Economic and Security Review Commission shall be employees under section 2105 of title 5 for purposes of chapters 63, 81, 83, 84, 85, 87, 89, and 90 of that title.
+&emsp;An executive director and other additional personnel for the Commission shall be appointed, compensated, and terminated in the same manner provided for the appointment, compensation, and termination of the executive director and other personnel of the Trade Deficit Review Commission under section 127(g)(3) and section 127(g)(6) of the Trade Deficit Review Commission Act. The executive director and any personnel who are employees ofthe United States-China Economic and Security Review Commission shall be employees under section 2105 of title 5 for purposes of chapters 63, 81, 83, 84, 85, 87, 89, and 90 of that title.
 
 #### (4) Detail of government employees
 
@@ -210,7 +210,7 @@ Subsec. (b)(3)(H), (4), (e)(1), (2). Pub. L. 108–7, §2(b)(1)(C)(iii)(II), (iv
 
 Subsec. (e)(3). Pub. L. 108–7, §2(b)(1)(D)(iii)(II), inserted “Economic and” before “Security” in second sentence.
 
-Pub. L. 108–7, §2(b)(1)(D)(iii)(I), which directed the amendment of first sentence by inserting “Economicand” before “Security”, could not be executed because “Security” does not appear.
+Pub. L. 108–7, §2(b)(1)(D)(iii)(I), which directed the amendment of first sentence by inserting “Economic and” before “Security”, could not be executed because “Security” does not appear.
 
 Subsec. (e)(4), (6). Pub. L. 108–7, §2(b)(1)(D)(iv), (v), which directed the amendment of pars. (4) and (6) by inserting “Economic and” before “Security”, could not be executed because “Security” does not appear.
 

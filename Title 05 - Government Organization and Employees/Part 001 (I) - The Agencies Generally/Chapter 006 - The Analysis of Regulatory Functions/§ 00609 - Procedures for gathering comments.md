@@ -24,11 +24,17 @@
 
 &emsp;(5) not later than 60 days after the date a covered agency convenes a review panel pursuant to paragraph (3), the review panel shall report on the comments of the small entity representatives and its findings as to issues related to subsections 603(b), paragraphs (3), (4) and (5) and 603(c), provided that such report shall be made public as part of the rulemaking record; and
 
-&emsp;(6) where appropriate, the agency shall modify the proposed rule, the initial regulatory flexibility analysis or the decision on whether an initial regulatory flexibility analysis is required.
+&emsp;(6) where appropriate, the agency shall modify the proposed rule, the initial regulatoryflexibility analysis or the decision on whether an initial regulatory flexibility analysis is required.
 
 (c) An agency may in its discretion apply subsection (b) to rules that the agency intends to certify under subsection 605(b), but the agency believes may have a greater than de minimis impact on a substantial number of small entities.
 
-(d) For purposes of this section, the term “covered agency” means the EnvironmentalProtection Agency and the Occupational Safety and Health Administration of the Department of Labor.
+(d) For purposes of this section, the term “covered agency” means—
+
+&emsp;(1) the Environmental Protection Agency;
+
+&emsp;(2) the Consumer Financial Protection Bureau of the Federal Reserve System; and
+
+&emsp;(3) the Occupational Safety and Health Administration of the Department of Labor.
 
 (e) The Chief Counsel for Advocacy, in consultation with the individuals identified in subsection (b)(2), and with the Administrator of the Office of Information and Regulatory Affairs within the Office of Management and Budget, may waive the requirements of subsections (b)(3), (b)(4), and (b)(5) by including in the rulemaking record a written finding, with reasons therefor, that those requirements would not advance the effective participation of small entities in the rulemaking process. For purposes of this subsection, the factors to be considered in making such a finding are as follows:
 
@@ -40,21 +46,11 @@
 
 (Added Pub. L. 96–354, §3(a), Sept. 19, 1980, 94 Stat. 1168; amended Pub. L. 104–121, title II, §244(a), Mar. 29, 1996, 110 Stat. 867; Pub. L. 111–203, title X, §1100G(a), July 21, 2010, 124 Stat. 2112.)
 
-#### Amendment of Subsection (d)
-
-<i>Pub. L. 111–203, title X, §§1100G(a), 1100H, July 21, 2010, 124 Stat. 2112, 2113, provided that, effective on the designated transfer date, subsection (d) of this section is amended by striking “means the” and all that follows and inserting the following: “means—</i>
-
-&emsp;<i>“(1) the Environmental Protection Agency;</i>
-
-&emsp;<i>“(2) the Consumer Financial Protection Bureau of the Federal Reserve System; and</i>
-
-&emsp;<i>“(3) the Occupational Safety and Health Administration of the Department of Labor.”.</i>
-
-<i>See Effective Date of 2010 Amendment note below.</i>
-
 #### Amendments
 
-1996—Pub. L. 104–121, §244(a)(2), (3), designated existing provisions as subsec. (a) and inserted “including soliciting and receiving comments over computer networks” after “entities” in par. (4).
+<b>2010</b>—Subsec. (d). Pub. L. 111–203 substituted “means—” for “means the Environmental Protection Agency and the Occupational Safety and Health Administration of the Department of Labor.” and added pars. (1) to (3).
+
+<b>1996</b>—Pub. L. 104–121, §244(a)(2), (3), designated existing provisions as subsec. (a) and inserted “including soliciting and receiving comments over computer networks” after “entities” in par. (4).
 
 Pub. L. 104–121, §244(a)(1), which directed insertion of “the reasonable use of” before “techniques,” in introductory provisions, was executed by making the insertion in text which did not contain a comma after the word “techniques” to reflect the probable intent of Congress.
 

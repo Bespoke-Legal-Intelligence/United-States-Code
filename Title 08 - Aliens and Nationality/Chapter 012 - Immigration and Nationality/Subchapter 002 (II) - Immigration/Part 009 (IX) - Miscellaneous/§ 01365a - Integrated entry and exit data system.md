@@ -102,7 +102,7 @@ Section was enacted as part of the Illegal Immigration Reform and Immigrant Resp
 
 #### Amendments
 
-2000—Pub. L. 106–215 amended section catchline and text generally. Prior to amendment, text read as follows:
+<b>2000</b>—Pub. L. 106–215 amended section catchline and text generally. Prior to amendment, text read as follows:
 
 “(a)
 
@@ -136,7 +136,7 @@ Information.—The report shall include the following information:
 
 Use of Information on Overstays.—Information regarding aliens who have remained in the United Staty beyond their authorized period of stay identified through the system shall be integrated into appropriate data bases of the Immigration and Naturalization Service and the Department of State, including those used at ports of entry and at consular offices.”
 
-1998—Subsec. (a). Pub. L. 105–277, §116(1), in introductory provisions, substituted “later than October 15, 1998 (and not later than March 30, 2001, in the case of land border ports of entry and sea ports), the Attorney” for “later than October 15, 1998, the Attorney”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–277, §116(1), in introductory provisions, substituted “later than October 15, 1998 (and not later than March 30, 2001, in the case of land border ports of entry and sea ports), the Attorney” for “later than October 15, 1998, the Attorney”.
 
 Pub. L. 105–259 in introductory provisions, substituted “October 15, 1998” for “2 years after September 30, 1996”.
 

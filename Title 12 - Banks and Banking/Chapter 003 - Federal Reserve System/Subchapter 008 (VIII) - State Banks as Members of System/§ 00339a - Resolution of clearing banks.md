@@ -4,7 +4,7 @@
 
 #### (1) Appointment
 
-&emsp;The Board may appoint a conservator or receiver to take possession and control of any uninsured State member bank which operates, or operates as, a multilateral clearing organization pursuant to section 4422 of this title to the same extent and in the same manner as the Comptroller of the Currency may appoint a conservator or receiver for a national bank.
+&emsp;The Board may appoint a conservator or receiver to take possession and control of any uninsured State member bank which operates, or operates as, a multilateral clearing organization pursuant to section 4422 <sup>1</sup> of this title to the same extent and in the same manner as the Comptroller of the Currency may appoint a conservator or receiver for a national bank.
 
 #### (2) Powers
 
@@ -20,7 +20,13 @@ The Board (in the case of an uninsured State member bank which operates, or oper
 
 (Dec. 13, 1913, ch. 6, §9B, as added Pub. L. 106–554, §1(a)(5) \[title I, §112(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–392.)
 
+#### References in Text
+
+Section 4422 of this title, referred to in subsec. (a)(1), was repealed by Pub. L. 111–203, title VII, §740, July 21, 2010, 124 Stat. 1729.
+
 #### Codification
 
 Section was enacted as section 9B of act Dec. 13, 1913, and not as part of section 9 of such act which comprises this subchapter.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

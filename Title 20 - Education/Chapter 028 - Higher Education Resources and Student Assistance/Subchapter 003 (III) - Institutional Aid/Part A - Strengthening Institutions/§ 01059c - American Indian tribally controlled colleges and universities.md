@@ -60,7 +60,7 @@ In this section:
 
 &emsp;&emsp;(K) establishing or enhancing a program of teacher education designed to qualify students to teach in elementary schools or secondary schools, with a particular emphasis on teaching Indian children and youth, that shall include, as part of such program, preparation for teacher certification;
 
-&emsp;&emsp;(L) establishing community outreach programs that encourage Indian elementary school and secondary school students to develop the academic skills and the interest to pursue postsecondary education;
+&emsp;&emsp;(L) establishing community outreach programs that encourage Indian elementaryschool and secondary school students to develop the academic skills and the interest to pursue postsecondary education;
 
 &emsp;&emsp;(M) developing or improving facilities for Internet use or other distance education technologies; and
 
@@ -82,7 +82,7 @@ In this section:
 
 #### (C) Comparability
 
-&emsp;&emsp;The provisions of part C of this subchapter regarding the establishment or increase ofan endowment fund, that the Secretary determines are not inconsistent with this paragraph, shall apply to funds used under subparagraph (A).
+&emsp;&emsp;The provisions of part C of this subchapter regarding the establishment or increase of an endowment fund, that the Secretary determines are not inconsistent with this paragraph, shall apply to funds used under subparagraph (A).
 
 #### (d) Application, plan, and allocation
 

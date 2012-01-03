@@ -6,7 +6,7 @@ The Farm Credit Administration shall be an independent agency in the executive b
 
 #### Amendments
 
-1985—Pub. L. 99–205 amended section generally, substituting “Farm Credit Administration Board and such other personnel” for “Federal Farm Credit Board, the Governor of the Farm Credit Administration, and such other personnel”.
+<b>1985</b>—Pub. L. 99–205 amended section generally, substituting “Farm Credit Administration Board and such other personnel” for “Federal Farm Credit Board, the Governor of the Farm Credit Administration, and such other personnel”.
 
 #### Effective Date of 1985 Amendment
 

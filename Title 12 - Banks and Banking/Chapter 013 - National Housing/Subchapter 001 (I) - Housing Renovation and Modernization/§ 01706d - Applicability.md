@@ -6,15 +6,15 @@ The provisions of sections 1703 and 1706c of this title shall be applicable in t
 
 #### Amendments
 
-1988—Pub. L. 100–242 inserted “Applicability” as section catchline.
+<b>1988</b>—Pub. L. 100–242 inserted “Applicability” as section catchline.
 
-1983—Pub. L. 98–181 inserted “American Samoa,” after “Pacific Islands,”.
+<b>1983</b>—Pub. L. 98–181 inserted “American Samoa,” after “Pacific Islands,”.
 
-1969—Pub. L. 91–152 inserted “the Trust Territory of the Pacific Islands,” after “Guam,”.
+<b>1969</b>—Pub. L. 91–152 inserted “the Trust Territory of the Pacific Islands,” after “Guam,”.
 
-1960—Pub. L. 86–624 struck out “Hawaii,” before “Puerto Rico”.
+<b>1960</b>—Pub. L. 86–624 struck out “Hawaii,” before “Puerto Rico”.
 
-1959—Pub. L. 86–70 struck out “Alaska,” before “Hawaii”.
+<b>1959</b>—Pub. L. 86–70 struck out “Alaska,” before “Hawaii”.
 
 #### Termination of Trust Territory of the Pacific Islands
 

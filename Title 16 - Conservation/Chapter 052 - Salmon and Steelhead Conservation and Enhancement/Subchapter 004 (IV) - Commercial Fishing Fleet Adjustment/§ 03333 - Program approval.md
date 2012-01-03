@@ -12,7 +12,7 @@ Prior to approving such program or any revision, modification, or amendment, and
 
 &emsp;(2) the State program provides that a fishing or charter vessel may not be purchased by the State from other than the person who owned the vessel on December 22, 1980;
 
-&emsp;(3) the State program prevents the expenditure of a disproportionate amount of fundsavailable for vessel acquisition on vessels owned by any one person;
+&emsp;(3) the State program prevents the expenditure of a disproportionate amount of funds available for vessel acquisition on vessels owned by any one person;
 
 &emsp;(4) the State program prohibits the purchase of any fishing or charter vessel unless all State commercial and charter salmon fishing licenses attached to the vessel are also sold to the State;
 

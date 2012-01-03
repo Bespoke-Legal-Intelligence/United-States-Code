@@ -50,8 +50,10 @@
 | [918\.](%C2%A7%2000918%20-%20Art.%20118.%20Murder.md) | 118\. | Murder. |
 | [919\.](%C2%A7%2000919%20-%20Art.%20119.%20Manslaughter.md) | 119\. | Manslaughter. |
 | [919a.](%C2%A7%2000919a%20-%20Art.%20119a.%20Death%20or%20injury%20of%20an%20unborn%20child.md) | 119a. | Death or injury of an unborn child. |
-| [920\.](%C2%A7%2000920%20-%20Art.%20120.%20Rape%2C%20sexual%20assault%2C%20and%20other%20sexual%20misconduct.md) | 120\. | Rape, sexual assault, and other sexual misconduct. |
+| [920\.](%C2%A7%2000920%20-%20Art.%20120.%20Rape%20and%20sexual%20assault%20generally.md) | 120\. | Rape and sexual assault generally. |
 | [920a.](%C2%A7%2000920a%20-%20Art.%20120a.%20Stalking.md) | 120a. | Stalking. |
+| [920b.](%C2%A7%2000920b%20-%20Art.%20120b.%20Rape%20and%20sexual%20assault%20of%20a%20child.md) | 120b. | Rape and sexual assault of a child. |
+| [920c.](%C2%A7%2000920c%20-%20Art.%20120c.%20Other%20sexual%20misconduct.md) | 120c. | Other sexual misconduct. |
 | [921\.](%C2%A7%2000921%20-%20Art.%20121.%20Larceny%20and%20wrongful%20appropriation.md) | 121\. | Larceny and wrongful appropriation. |
 | [922\.](%C2%A7%2000922%20-%20Art.%20122.%20Robbery.md) | 122\. | Robbery. |
 | [923\.](%C2%A7%2000923%20-%20Art.%20123.%20Forgery.md) | 123\. | Forgery. |
@@ -69,6 +71,8 @@
 | [934\.](%C2%A7%2000934%20-%20Art.%20134.%20General%20article.md) | 134\. | General article. |
 
 #### Amendments
+
+<b>2011</b>—Pub. L. 112–81, div. A, title V, §541(e), Dec. 31, 2011, 125 Stat. 1410, substituted “Rape and sexual assault generally” for “Rape, sexual assault, and other sexual misconduct” in item 920 and added items 920b and 920c.
 
 <b>2006</b>—Pub. L. 109–163, div. A, title V, §552(a)(2), Jan. 6, 2006, 119 Stat. 3262, substituted “Rape, sexual assault, and other sexual misconduct” for “Rape and carnal knowledge” in item 920.
 
@@ -139,8 +143,10 @@ Pub. L. 109–163, div. A, title V, §551(a)(2), Jan. 6, 2006, 119 Stat. 3256, a
 - [&sect; 00918 - Art. 118. Murder](%C2%A7%2000918%20-%20Art.%20118.%20Murder.md)
 - [&sect; 00919 - Art. 119. Manslaughter](%C2%A7%2000919%20-%20Art.%20119.%20Manslaughter.md)
 - [&sect; 00919a - Art. 119a. Death or injury of an unborn child](%C2%A7%2000919a%20-%20Art.%20119a.%20Death%20or%20injury%20of%20an%20unborn%20child.md)
-- [&sect; 00920 - Art. 120. Rape, sexual assault, and other sexual misconduct](%C2%A7%2000920%20-%20Art.%20120.%20Rape%2C%20sexual%20assault%2C%20and%20other%20sexual%20misconduct.md)
+- [&sect; 00920 - Art. 120. Rape and sexual assault generally](%C2%A7%2000920%20-%20Art.%20120.%20Rape%20and%20sexual%20assault%20generally.md)
 - [&sect; 00920a - Art. 120a. Stalking](%C2%A7%2000920a%20-%20Art.%20120a.%20Stalking.md)
+- [&sect; 00920b - Art. 120b. Rape and sexual assault of a child](%C2%A7%2000920b%20-%20Art.%20120b.%20Rape%20and%20sexual%20assault%20of%20a%20child.md)
+- [&sect; 00920c - Art. 120c. Other sexual misconduct](%C2%A7%2000920c%20-%20Art.%20120c.%20Other%20sexual%20misconduct.md)
 - [&sect; 00921 - Art. 121. Larceny and wrongful appropriation](%C2%A7%2000921%20-%20Art.%20121.%20Larceny%20and%20wrongful%20appropriation.md)
 - [&sect; 00922 - Art. 122. Robbery](%C2%A7%2000922%20-%20Art.%20122.%20Robbery.md)
 - [&sect; 00923 - Art. 123. Forgery](%C2%A7%2000923%20-%20Art.%20123.%20Forgery.md)

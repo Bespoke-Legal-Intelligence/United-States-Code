@@ -34,7 +34,7 @@ In this section, the term “Indian tribe” has the meaning given the term in s
 
 &emsp;The Secretary shall—
 
-&emsp;&emsp;(A) integrate civil works activities of the Department of the Army with activities of the Department of the Interior to avoid conflicts, duplications of effort, or unanticipated adverse effects on Indian tribes; and
+&emsp;&emsp;(A) integrate civil works activities of the Department of the Army with activities ofthe Department of the Interior to avoid conflicts, duplications of effort, or unanticipated adverse effects on Indian tribes; and
 
 &emsp;&emsp;(B) consider the authorities and programs of the Department of the Interior and other Federal agencies in any recommendations concerning carrying out projects studied under subsection (b) of this section.
 
@@ -44,7 +44,7 @@ In this section, the term “Indian tribe” has the meaning given the term in s
 
 #### (A) In general
 
-&emsp;&emsp;Any cost-sharing agreement for a study under subsection (b) of this section shall besubject to the ability of the non-Federal interest to pay.
+&emsp;&emsp;Any cost-sharing agreement for a study under subsection (b) of this section shall be subject to the ability of the non-Federal interest to pay.
 
 #### (B) Use of procedures
 

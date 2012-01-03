@@ -2,9 +2,7 @@
 
 #### Amendments
 
-1967—Pub. L. 90–83, §1(34)(A), Sept. 11, 1967, 81 Stat. 201, inserted “SEVERANCE PAY AND” before “BACK PAY” in subchapter heading.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “(h)”.</i>
+<b>1967</b>—Pub. L. 90–83, §1(34)(A), Sept. 11, 1967, 81 Stat. 201, inserted “SEVERANCE PAY AND” before “BACK PAY” in subchapter heading.
 
 
 ---

@@ -40,7 +40,7 @@ Section was classified to section 212a–3 of former Title 40, prior to the enac
 
 #### Amendments
 
-2003—Subsec. (a)(3). Pub. L. 108–83, §1003(a)(1)(A), struck out “and” after the semicolon.
+<b>2003</b>—Subsec. (a)(3). Pub. L. 108–83, §1003(a)(1)(A), struck out “and” after the semicolon.
 
 Subsec. (a)(4). Pub. L. 108–83, §1003(a)(1)(B), which directed the substitution of “under subsection (b)(1); and” for “in subsection (b) of this section.” was executed by making the substitution for language which read in the original “in subsection (b).”, to reflect the probable intent of Congress.
 
@@ -48,7 +48,7 @@ Subsec. (a)(5). Pub. L. 108–83, §1003(a)(1)(C), added par. (5).
 
 Subsec. (b). Pub. L. 108–83, §1003(a)(2), designated existing provisions as par. (1) and added par. (2).
 
-1996—Subsec. (a). Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
 
 #### Change of Name
 
@@ -56,7 +56,7 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–83, title I, §1003(c), Sept. 30, 2003, 117 Stat. 1022, provided that: “This section \[amending this section and enacting provisions set out as a note under this section\] shall take effect on the date on which the Committee on Rules and Administration of the Senateand the Committee on House Administration of the House of Representatives approve regulations prescribed by the Capitol Police Board for the sole implementation, execution and maintenance of the truck interdiction program.” \[Regulations approved by Committee on Rules and Administration of the Senate on Jan. 5, 2004, and by Committee on House Administration of the House of Representatives on Dec. 18, 2003.\]
+Pub. L. 108–83, title I, §1003(c), Sept. 30, 2003, 117 Stat. 1022, provided that: “This section \[amending this section and enacting provisions set out as a note under this section\] shall take effect on the date on which the Committee on Rules and Administration of the Senate and the Committee on House Administration of the House of Representatives approve regulations prescribed by the Capitol Police Board for the sole implementation, execution and maintenance of the truck interdiction program.” \[Regulations approved by Committee on Rules and Administration of the Senate on Jan. 5, 2004, and by Committee on House Administration of the House of Representatives on Dec. 18, 2003.\]
 
 #### Rule of Construction
 

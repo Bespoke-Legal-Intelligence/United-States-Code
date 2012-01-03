@@ -12,7 +12,7 @@
 
 #### (b) Registration; photographs; waiver of requirement
 
-Each alien who applies for a visa shall be registered in connection with his application, and shall furnish copies of his photograph signed by him for such use as may be by regulations required. The requirements of this subsection may be waived in the discretion of the Secretary of State in the case of any alien who is within thatclass of nonimmigrants enumerated in sections 1101(a)(15)(A), and 1101(a)(15)(G) of this title, or in the case of any alien who is granted a diplomatic visa on a diplomatic passport or on the equivalent thereof.
+Each alien who applies for a visa shall be registered in connection with his application, and shall furnish copies of his photograph signed by him for such use as may be by regulations required. The requirements of this subsection may be waived in the discretion of the Secretary of State in the case of any alien who is within that class of nonimmigrants enumerated in sections 1101(a)(15)(A), and 1101(a)(15)(G) of this title, or in the case of any alien who is granted a diplomatic visa on a diplomatic passport or on the equivalent thereof.
 
 #### (c) Period of validity; requirement of visa
 
@@ -50,37 +50,37 @@ This chapter, referred to in subsecs. (a)(1), (g), and (h), was in the original,
 
 #### Amendments
 
-2004—Subsec. (i). Pub. L. 108–458 inserted at end “There shall be no means of judicial review (including review pursuant to section 2241 of title 28 or any other habeas corpus provision, and sections 1361 and 1651 of such title) of a revocation under this subsection, except in the context of a removal proceeding if such revocation provides the sole ground for removal under section 1227(a)(1)(B) of this title.”
+<b>2004</b>—Subsec. (i). Pub. L. 108–458 inserted at end “There shall be no means of judicial review (including review pursuant to section 2241 of title 28 or any other habeas corpus provision, and sections 1361 and 1651 of such title) of a revocation under this subsection, except in the context of a removal proceeding if such revocation provides the sole ground for removal under section 1227(a)(1)(B) of this title.”
 
-2002—Subsec. (a). Pub. L. 107–173 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
+<b>2002</b>—Subsec. (a). Pub. L. 107–173 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
 
-1996—Subsec. (c). Pub. L. 104–208, §631, substituted “six months” for “four months” and inserted “; except that in the case of aliens who are nationals of a foreign country and who either are granted refugee status and firmly resettled in another foreign country or are granted permanent residence and residing in another foreign country, the Secretary of State may prescribe the period of validity of such a visa based upon the treatment granted by that other foreign country to alien refugees and permanent residents, respectively, in the United States” after “within a similar class”.
+<b>1996</b>—Subsec. (c). Pub. L. 104–208, §631, substituted “six months” for “four months” and inserted “; except that in the case of aliens who are nationals of a foreign country and who either are granted refugee status and firmly resettled in another foreign country or are granted permanent residence and residing in another foreign country, the Secretary of State may prescribe the period of validity of such a visa based upon the treatment granted by that other foreign country to alien refugees and permanent residents, respectively, in the United States” after “within a similar class”.
 
 Subsec. (f). Pub. L. 104–208, §308(d)(4)(G), substituted “deny admission to” for “exclude”.
 
 Subsec. (h). Pub. L. 104–208, §308(f)(2)(B), substituted “be admitted” for “enter”.
 
-1991—Subsec. (a). Pub. L. 102–232 struck out “nonpreference,” before “immediate relative”.
+<b>1991</b>—Subsec. (a). Pub. L. 102–232 struck out “nonpreference,” before “immediate relative”.
 
-1990—Subsec. (g). Pub. L. 101–649 substituted “1182(a)(4) of this title” for “1182(a)(7), or section 1182(a)(15) of this title”.
+<b>1990</b>—Subsec. (g). Pub. L. 101–649 substituted “1182(a)(4) of this title” for “1182(a)(7), or section 1182(a)(15) of this title”.
 
-1988—Subsecs. (a) to (c). Pub. L. 100–525 made technical correction to Pub. L. 99–653, §5. See 1986 Amendment note below.
+<b>1988</b>—Subsecs. (a) to (c). Pub. L. 100–525 made technical correction to Pub. L. 99–653, §5. See 1986 Amendment note below.
 
-1986—Subsec. (a). Pub. L. 99–653, §5(a)(1), formerly §5(a)(a), as redesignated by Pub. L. 100–525, in cl. (1) substituted “specify the foreign state” for “specify the quota”, “under such foreign state” for “under such quota”, “special immigrant classification” for “special immigration classification”, and struck out “one copy of” after “shall consist of”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–653, §5(a)(1), formerly §5(a)(a), as redesignated by Pub. L. 100–525, in cl. (1) substituted “specify the foreign state” for “specify the quota”, “under such foreign state” for “under such quota”, “special immigrant classification” for “special immigration classification”, and struck out “one copy of” after “shall consist of”.
 
 Subsec. (b). Pub. L. 99–653, §5(a)(2), formerly §5(a)(b), as redesignated by Pub. L. 100–525, amended subsec. (b) generally, striking out “and fingerprinted” after “shall be registered” and substituting “sections 1101(a)(15)(A) and 1101(a)(15)(G) of this title” for “section 1101(a)(15)(A) and (G) of this title”.
 
 Subsec. (c). Pub. L. 99–653, §5(a)(3), formerly §5(a)(c), as redesignated by Pub. L. 100–525, amended subsec. (c) generally, substituting “during the fiscal year” for “during the year”, “<i>Provided</i>, That the immigrant” for “<i>Provided</i>, the consular officer is in possession of the duplicate signed copy of the original visa, the immigrant”, and “statutory fees” for “statutory fee”.
 
-1981—Subsec. (a). Pub. L. 97–116 substituted a comma for the period after “alien is charged”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–116 substituted a comma for the period after “alien is charged”.
 
-1965—Subsec. (a). Pub. L. 89–236, §11(a), substituted a reference to preference, nonpreference, immediate relative, and special immigration classification, for a reference to nonquota categories to which immigrants are classified.
+<b>1965</b>—Subsec. (a). Pub. L. 89–236, §11(a), substituted a reference to preference, nonpreference, immediate relative, and special immigration classification, for a reference to nonquota categories to which immigrants are classified.
 
 Subsec. (c). Pub. L. 89–236, §11(b), struck out references to “quota” wherever appearing.
 
 Subsec. (g). Pub. L. 89–236, §17, inserted proviso permitting issuance of student or visitors visas in cases where the alien gives a bond so as to allow resolution of doubts in borderline cases in which the consular officer is uncertain as to the bona fides of the nonimmigrant's intention to remain in the United States temporarily.
 
-1961—Subsec. (c). Pub. L. 87–301 provided that an immigrant visa issued to a child adopted by a United States citizen and spouse while such citizen is serving abroad in the United States Armed Forces or employed abroad by our Government, or temporarily abroad on business, shall remain valid to such time, but not exceeding three years, as the adoptive parent returns to the United States in due course of service, employment or business.
+<b>1961</b>—Subsec. (c). Pub. L. 87–301 provided that an immigrant visa issued to a child adopted by a United States citizen and spouse while such citizen is serving abroad in the United States Armed Forces or employed abroad by our Government, or temporarily abroad on business, shall remain valid to such time, but not exceeding three years, as the adoptive parent returns to the United States in due course of service, employment or business.
 
 #### Effective Date of 2004 Amendment
 
@@ -88,7 +88,7 @@ Amendment by Pub. L. 108–458 effective Dec. 17, 2004, and applicable to revoca
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 308(d)(4)(G), (f)(2)(B) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
+Amendment by section 308(d)(4)(G), (f)(2)(B) of Pub. L. 104–208 effective, with certain transitional provisions,on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
 #### Effective Date of 1991 Amendment
 
@@ -100,7 +100,7 @@ Amendment by Pub. L. 101–649 applicable to individuals entering United States 
 
 #### Effective Date of 1986 Amendment
 
-Section 23(b) of Pub. L. 99–653, as added by Pub. L. 100–525, §8(r), Oct. 24, 1988, 102 Stat. 2619, provided that: “The amendments made by sections 5, 6, 8, 9, and 10\[amending this section and sections 1202, 1301, 1302, and 1304 of this title and repealing section 1201a of this title\] apply to applications for immigrant visas made, and visas issued, on or after November 14, 1986.”
+Section 23(b) of Pub. L. 99–653, as added by Pub. L. 100–525, §8(r), Oct. 24, 1988, 102 Stat. 2619, provided that: “The amendments made by sections 5, 6, 8, 9, and 10 \[amending this section and sections 1202, 1301, 1302, and 1304 of this title and repealing section 1201a of this title\] apply to applications for immigrant visas made, and visas issued, on or after November 14, 1986.”
 
 #### Effective Date of 1981 Amendment
 

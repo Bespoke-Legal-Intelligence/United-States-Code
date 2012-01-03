@@ -88,27 +88,27 @@ Another section 1 of title IV of Pub. L. 101–509, 104 Stat. 1416, enacted sect
 
 #### Amendments
 
-2011—Subsec. (a). Pub. L. 111–350 substituted “section 6101(b) to (d) of title 41” for “section 5 of title 41”.
+<b>2011</b>—Subsec. (a). Pub. L. 111–350 substituted “section 6101(b) to (d) of title 41” for “section 5 of title 41”.
 
-1998—Subsec. (k)(2), (3). Pub. L. 105–266, §8, added par. (2) and redesignated former par. (2) as (3).
+<b>1998</b>—Subsec. (k)(2), (3). Pub. L. 105–266, §8, added par. (2) and redesignated former par. (2) as (3).
 
 Subsec. (m)(1). Pub. L. 105–266, §3(c), added par. (1) and struck out former par. (1) which read as follows: “The provisions of any contract under this chapter which relate to the nature or extent of coverage or benefits (including payments with respect to benefits) shall supersede and preempt any State or local law, or any regulation issued thereunder, which relates to health insurance or plans to the extent that such law or regulation is inconsistent with such contractual provisions.”
 
-1997—Subsec. (<i>o</i>). Pub. L. 105–12 added subsec. (<i>o</i>).
+<b>1997</b>—Subsec. (<i>o</i>). Pub. L. 105–12 added subsec. (<i>o</i>).
 
-1992—Pub. L. 102–393 amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows:
+<b>1992</b>—Pub. L. 102–393 amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows:
 
 “(1) When a contract under this chapter requires payment or reimbursement for services which may be performed by a clinical psychologist, optometrist, nurse midwife, or nurse practitioner/clinical specialist, licensed or certified as such under Federal or State law, as applicable, or by a qualified clinical social worker as defined in section 8901(11), an employee, annuitant, family member, former spouse, or person having continued coverage under section 8905a of this title covered by the contract shall be free to select, and shall have direct access to, such a clinical psychologist, qualified clinical social worker, optometrist, nurse midwife, or nurse practitioner/nurse clinical specialist without supervision or referral by another health practitioner and shall be entitled under the contract to have payment or reimbursement made to him or on his behalf for the services performed.
 
 “(2) The provisions of this subsection shall not apply to group practice prepayment plans.”
 
-1990—Subsec. (k)(1). Pub. L. 101–509 substituted “performed by a clinical psychologist, optometrist, nurse midwife, or nurse practitioner/clinical specialist” for “performed by a clinical psychologist or optometrist” and “qualified clinical social worker, optometrist, nurse midwife, or nurse practitioner/nurse clinical specialist” for “qualified clinical social worker or optometrist”.
+<b>1990</b>—Subsec. (k)(1). Pub. L. 101–509 substituted “performed by a clinical psychologist, optometrist, nurse midwife, or nurse practitioner/clinical specialist” for “performed by a clinical psychologist or optometrist” and “qualified clinical social worker, optometrist, nurse midwife, or nurse practitioner/nurse clinical specialist” for “qualified clinical social worker or optometrist”.
 
 Subsec. (n). Pub. L. 101–508 added subsec. (n).
 
-1988—Subsecs. (g), (j), (k)(1). Pub. L. 100–654 substituted “former spouse, or person having continued coverage under section 8905a of this title” for “or former spouse” wherever appearing.
+<b>1988</b>—Subsecs. (g), (j), (k)(1). Pub. L. 100–654 substituted “former spouse, or person having continued coverage under section 8905a of this title” for “or former spouse” wherever appearing.
 
-1987—Subsec. (k)(1). Pub. L. 100–202, §101(m) \[title VI, §626(1), (2)\], inserted “or by a qualified clinical social worker as defined in section 8901(11),” after “as applicable,”, and “, qualified clinical social worker” after “such a clinical psychologist”.
+<b>1987</b>—Subsec. (k)(1). Pub. L. 100–202, §101(m) \[title VI, §626(1), (2)\], inserted “or by a qualified clinical social worker as defined in section 8901(11),” after “as applicable,”, and “, qualified clinical social worker” after “such a clinical psychologist”.
 
 Subsec. (k)(2), (3). Pub. L. 100–202, §101(m) \[title VI, §626(3)\], redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “When a contract under this chapter requires payment or reimbursement for services which may be performed by a qualified clinical social worker, an employee, annuitant, family member, or former spouse covered by the contract shall be entitled under the contract to have payment or reimbursement made to him or on his behalf for the services performed. As a condition for the payment or reimbursement, the contract—
 
@@ -118,27 +118,27 @@ Subsec. (k)(2), (3). Pub. L. 100–202, §101(m) \[title VI, §626(3)\], redesig
 
 Subsec. (m)(2)(A). Pub. L. 100–202, §101(m) \[title VI, §626(4)\], struck out “This paragraph shall apply with respect to a qualified clinical social worker covered by subsection (k)(2) of this section without regard to whether such contract contains the requirement authorized by clause (i) of the second sentence of subparagraph (A) of such subsection (k)(2).”
 
-1986—Subsec. (k). Pub. L. 99–251, §105(b), designated existing provisions as par. (1), struck out last sentence providing that the provisions of this subsection shall not apply to group practice prepayment plans, and added pars. (2) and (3).
+<b>1986</b>—Subsec. (k). Pub. L. 99–251, §105(b), designated existing provisions as par. (1), struck out last sentence providing that the provisions of this subsection shall not apply to group practice prepayment plans, and added pars. (2) and (3).
 
 Subsec. (m)(2)(A). Pub. L. 99–251, §106(a)(3), inserted last sentence relating to applicability of this paragraph with respect to a qualified clinical social worker covered by subsection (k)(2) of this section.
 
-1985—Subsecs. (a), (e), (i). Pub. L. 99–53 inserted reference to section 8903a of this title.
+<b>1985</b>—Subsecs. (a), (e), (i). Pub. L. 99–53 inserted reference to section 8903a of this title.
 
-1984—Subsec. (g). Pub. L. 98–615, §3(2)(A), substituted “employee, annuitant, family member, or former spouse” for “employee or annuitant” in two places.
+<b>1984</b>—Subsec. (g). Pub. L. 98–615, §3(2)(A), substituted “employee, annuitant, family member, or former spouse” for “employee or annuitant” in two places.
 
 Subsecs. (j), (k). Pub. L. 98–615, §3(2)(B), substituted “family member, or former spouse” for “or family member”.
 
-1980—Subsec. (m)(2)(A). Pub. L. 96–179 substituted “in a State where 25 percent or more of the population is located in primary medical care manpower shortage areas designated pursuant to section 332 of the Public Health Service Act (42 U.S.C. 254e)” for “who is a member of a medically underserved population (within the meaning of section 1302(7) of the Public Health Service Act (42 U.S.C. 300e–17))”.
+<b>1980</b>—Subsec. (m)(2)(A). Pub. L. 96–179 substituted “in a State where 25 percent or more of the population is located in primary medical care manpower shortage areas designated pursuant to section 332 of the Public Health Service Act (42 U.S.C. 254e)” for “who is a member of a medically underserved population (within the meaning of section 1302(7) of the Public Health Service Act (42 U.S.C. 300e–17))”.
 
-1978—Subsecs. (a), (c) to (e), (i), (j), (<i>l</i>). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission” wherever appearing.
+<b>1978</b>—Subsecs. (a), (c) to (e), (i), (j), (<i>l</i>). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission” wherever appearing.
 
 Subsec. (m). Pub. L. 95–368 added subsec. (m).
 
-1976—Subsec. (<i>l</i>). Pub. L. 94–460 added subsec. (<i>l</i>).
+<b>1976</b>—Subsec. (<i>l</i>). Pub. L. 94–460 added subsec. (<i>l</i>).
 
-1975—Subsecs. (j), (k). Pub. L. 94–183 redesignated subsec. (j), added by Pub. L. 93–363 and relating to services performed by a clinical psychologist or optometrist, as (k).
+<b>1975</b>—Subsecs. (j), (k). Pub. L. 94–183 redesignated subsec. (j), added by Pub. L. 93–363 and relating to services performed by a clinical psychologist or optometrist, as (k).
 
-1974—Subsec. (j). Pub. L. 93–363 added subsec. (j) covering services performed by a clinical psychologist or optometrist.
+<b>1974</b>—Subsec. (j). Pub. L. 93–363 added subsec. (j) covering services performed by a clinical psychologist or optometrist.
 
 Pub. L. 93–246 added subsec. (j) requiring the carrier to pay for or provide a health service or supply in specified cases.
 

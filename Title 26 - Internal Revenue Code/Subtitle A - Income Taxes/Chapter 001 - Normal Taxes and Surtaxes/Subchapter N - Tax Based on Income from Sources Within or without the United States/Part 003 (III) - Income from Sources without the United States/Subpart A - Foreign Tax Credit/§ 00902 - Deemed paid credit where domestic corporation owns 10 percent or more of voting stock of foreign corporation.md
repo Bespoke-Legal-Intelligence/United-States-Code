@@ -138,7 +138,7 @@ Subsec. (c)(3)(B). Pub. L. 105–34, §1113(a)(2)(A), inserted “or” at end o
 
 “(ii) the requirements of subsection (b)(3)(A) are met with respect to such foreign corporation and 10 percent or more of the voting stock of such foreign corporation is owned by another foreign corporation described in clause (i), or
 
-“(iii) the requirements of subsection (b)(3)(B) are met with respect to such foreign corporation and 10 percent or more of the voting stock of such foreign corporation is owned by another foreign corporation described in clause (ii).”
+“(iii) the requirements of subsection (b)(3)(B) are met with respect to such foreign corporation and 10 percentor more of the voting stock of such foreign corporation is owned by another foreign corporation described in clause (ii).”
 
 Subsec. (c)(4)(B). Pub. L. 105–34, §1113(a)(2)(B), substituted “sixth tier foreign corporation” for “3rd foreign corporation”.
 

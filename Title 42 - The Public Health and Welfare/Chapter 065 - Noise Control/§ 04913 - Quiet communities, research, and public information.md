@@ -24,7 +24,7 @@ To promote the development of effective State and local noise control programs, 
 
 &emsp;&emsp;&emsp;(B) planning, developing, and establishing a noise control capacity in such jurisdiction, including purchasing initial equipment;
 
-&emsp;&emsp;&emsp;(C) developing abatement plans for areas around major transportation facilities (including airports, highways, and rail yards) and other major stationary sources of noise, and, where appropriate, for the facility or source itself; and,
+&emsp;&emsp;&emsp;(C) developing abatement plans for areas around major transportation facilities (including airports, highways, and rail yards)and other major stationary sources of noise, and, where appropriate, for the facility or source itself; and,
 
 &emsp;&emsp;&emsp;(D) evaluating techniques for controlling noise (including institutional arrangements) and demonstrating the best available techniques in such jurisdiction;
 

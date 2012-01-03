@@ -24,7 +24,7 @@ In this section:
 
 #### (2) Intelligence assessment
 
-&emsp;The term “intelligence assessment” means an intelligence-related analytical study of asubject of policy significance and does not include building-block papers, research projects, and reference aids.
+&emsp;The term “intelligence assessment” means an intelligence-related analytical study of a subject of policy significance and does not include building-block papers, research projects, and reference aids.
 
 #### (3) Intelligence estimate
 

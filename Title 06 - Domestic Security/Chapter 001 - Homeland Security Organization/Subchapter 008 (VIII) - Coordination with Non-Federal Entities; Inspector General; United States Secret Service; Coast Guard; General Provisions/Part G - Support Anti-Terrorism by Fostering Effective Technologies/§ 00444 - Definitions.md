@@ -16,7 +16,7 @@ Requirements.—An act meets the requirements of this subparagraph if the act—
 
 &emsp;&emsp;(i) is unlawful;
 
-&emsp;&emsp;(ii) causes harm to a person, property, or entity, in the United States, or in the case of a domestic United States air carrier or a United States-flag vessel (or a vessel based principally in the United States on which United States income tax is paid and whose insurance coverage is subject to regulationin the United States), in or outside the United States; and
+&emsp;&emsp;(ii) causes harm to a person, property, or entity, in the United States, or in the case of a domestic United States air carrier or a United States-flag vessel (or a vessel based principally in the United States on which United States income tax is paid and whose insurance coverage is subject to regulation in the United States), in or outside the United States; and
 
 &emsp;&emsp;(iii) uses or attempts to use instrumentalities, weapons or other methods designed or intended to cause mass destruction, injury or other loss to citizens or institutions of the United States.
 
@@ -44,11 +44,13 @@ Requirements.—An act meets the requirements of this subparagraph if the act—
 
 #### (6) Non-Federal Government customers
 
-&emsp;The term “non-Federal Government customers” means any customer of a Seller that is not an agency or instrumentality of the United States Government with authority under Public Law 85–804 \[50 U.S.C. 1431 et seq.\] to provide for indemnification under certain circumstances for third-party claims against its contractors, including but not limited to State and local authorities and commercial entities.
+&emsp;The term “non-Federal Government customers” means any customer of a Seller thatis not an agency or instrumentality of the United States Government with authority under Public Law 85–804 \[50 U.S.C. 1431 et seq.\] to provide for indemnification under certain circumstances for third-party claims against its contractors, including but not limited to State and local authorities and commercial entities.
 
 (Pub. L. 107–296, title VIII, §865, Nov. 25, 2002, 116 Stat. 2241.)
 
 #### References in Text
 
 Public Law 85–804, referred to in par. (6), is Pub. L. 85–804, Aug. 28, 1958, 72 Stat. 972, as amended, which is classified generally to chapter 29 (§1431 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
+
+<i><sup>1</sup></i><i> So in original. No subpar. (B) has been enacted.</i>
 

@@ -8,7 +8,7 @@ The Secretary of Defense, in consultation with the Chairman of the Joint Chiefs 
 
 &emsp;(3) Prescribing the training discipline and training requirements for the Army National Guard and the Air National Guard and the allocation of Federal funds for the training of the Army National Guard and the Air National Guard.
 
-&emsp;(4) Ensuring that units and members of the Army National Guard and the Air National Guard are trained by the States in accordance with approved programs and policies of, and guidance from, the Chief, the Secretary of the Army, and the Secretary of the Air Force.
+&emsp;(4) Ensuring that units and members of the Army National Guard and the Air National Guard are trained by the States in accordance with approved programs and policies of, andguidance from, the Chief, the Secretary of the Army, and the Secretary of the Air Force.
 
 &emsp;(5) Monitoring and assisting the States in the organization, maintenance, and operation of National Guard units so as to provide well-trained and well-equipped units capable of augmenting the active forces in time of war or national emergency.
 

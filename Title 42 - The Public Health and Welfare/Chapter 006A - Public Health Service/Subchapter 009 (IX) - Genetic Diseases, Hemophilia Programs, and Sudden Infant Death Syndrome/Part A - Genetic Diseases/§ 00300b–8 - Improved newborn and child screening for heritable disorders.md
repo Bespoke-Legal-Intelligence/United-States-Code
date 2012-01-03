@@ -28,7 +28,7 @@ In this section, the term “eligible entity” means—
 
 #### (c) Approval factors
 
-An application submitted for a grant under subsection (a)(1) shall not be approved by the Secretary unless the application contains assurances that the eligible entity has adopted andimplemented, is in the process of adopting and implementing, or will use amounts received under such grant to adopt and implement the guidelines and recommendations of the Advisory Committee that are adopted by the Secretary and in effect at the time the grant is awarded or renewed under this section, which shall include the screening of each newborn for the heritable disorders recommended by the Advisory Committee and adopted by the Secretary.
+An application submitted for a grant under subsection (a)(1) shall not be approved by the Secretary unless the application contains assurances that the eligible entity has adopted and implemented, is in the process of adopting and implementing, or will use amounts received under such grant to adopt and implement the guidelines and recommendations of the Advisory Committee that are adopted by the Secretary and in effect at the time the grant is awarded or renewed under this section, which shall include the screening of each newborn for the heritable disorders recommended by the Advisory Committee and adopted by the Secretary.
 
 #### (d) Coordination
 

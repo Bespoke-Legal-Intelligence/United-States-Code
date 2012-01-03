@@ -42,5 +42,5 @@ Terms and conditions incidental to and not inconsistent with the terms and condi
 
 #### Amendments
 
-1990—Subsecs. (g) to (i). Pub. L. 101–624 added subsecs. (g) and (h) and redesignated former subsec. (g) as (i).
+<b>1990</b>—Subsecs. (g) to (i). Pub. L. 101–624 added subsecs. (g) and (h) and redesignated former subsec. (g) as (i).
 

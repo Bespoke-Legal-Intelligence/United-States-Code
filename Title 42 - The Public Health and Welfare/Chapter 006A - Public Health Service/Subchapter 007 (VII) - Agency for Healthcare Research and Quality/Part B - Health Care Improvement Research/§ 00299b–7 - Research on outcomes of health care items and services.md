@@ -92,7 +92,7 @@
 
 #### (5) Evaluations
 
-&emsp;The Secretary shall conduct and support evaluations of the activities carried out under this section to determine the extent to which such activities have had an effect on outcomesand utilization of health care items and services.
+&emsp;The Secretary shall conduct and support evaluations of the activities carried out under this section to determine the extent to which such activities have had an effect on outcomes and utilization of health care items and services.
 
 #### (6) Improving information available to health care providers, patients, and policymakers
 

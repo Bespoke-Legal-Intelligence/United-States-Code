@@ -18,11 +18,11 @@ There is hereby established in the Treasury of the United States a trust fund to
 
 &emsp;Amounts in the Sport Fish Restoration and Boating Trust Fund shall be available, as provided by appropriation Acts, for making expenditures—
 
-&emsp;&emsp;(A) to carry out the purposes of the Dingell-Johnson Sport Fish Restoration Act (as in effect on the date of the enactment of the Surface Transportation Extension Act of 2010, Part II),
+&emsp;&emsp;(A) to carry out the purposes of the Dingell-Johnson Sport Fish Restoration Act (as in effect on the date of the enactment of the Surface Transportation Extension Act of 2011, Part II),
 
-&emsp;&emsp;(B) to carry out the purposes of section 7404(d) of the Transportation Equity Act for the 21st Century (as in effect on the date of the enactment of the Surface Transportation Extension Act of 2010, Part II), and
+&emsp;&emsp;(B) to carry out the purposes of section 7404(d) of the Transportation Equity Act for the 21st Century (as in effect on the date of the enactment of the Surface Transportation Extension Act of 2011, Part II), and
 
-&emsp;&emsp;(C) to carry out the purposes of the Coastal Wetlands Planning, Protection and Restoration Act (as in effect on the date of the enactment of the Surface Transportation Extension Act of 2010, Part II).
+&emsp;&emsp;(C) to carry out the purposes of the Coastal Wetlands Planning, Protection and Restoration Act (as in effect on the date of the enactment of the Surface Transportation Extension Act of 2011, Part II).
 
 > &emsp;Amounts transferred to such account under section 9503(c)(4) may be used only for making expenditures described in subparagraph (C) of this paragraph.
 
@@ -42,21 +42,21 @@ Amounts remaining in the Boat Safety Account on October 1, 2005, and amounts the
 
 #### (2) Exception for prior obligations
 
-&emsp;Paragraph (1) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before March 5, 2011, in accordance with the provisions of this section.
+&emsp;Paragraph (1) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before April 1, 2012, in accordance with the provisions of this section.
 
 #### (e) Cross reference
 
 &emsp;&emsp;<b>For provision transferring motorboat fuels taxes to Sport Fish Restoration and Boating Trust Fund, see section 9503(c)(3).</b>
 
-(Added Pub. L. 98–369, div. A, title X, §1016(a), July 18, 1984, 98 Stat. 1019; amended Pub. L. 100–418, title I, §1214(p)(2), Aug. 23, 1988, 102 Stat. 1159; Pub. L. 100–448, §6(a)(2), (c)(3), Sept. 28, 1988, 102 Stat. 1839, 1841; Pub. L. 101–508, title XI, §11211(i)(2), (3), Nov. 5, 1990, 104 Stat. 1388–428; Pub. L. 102–240, title VIII, §8002(d)(2)(C), (i), Dec. 18, 1991, 105 Stat. 2204, 2205; Pub. L. 105–130, §9(b), Dec. 1, 1997, 111 Stat. 2561; Pub. L. 105–178, title IX, §9005(b)–(d), (f), June 9, 1998, 112 Stat. 505; Pub. L. 105–206, title IX, §9015(b), July 22, 1998, 112 Stat. 867; Pub. L. 106–408, title I, §126, Nov. 1, 2000, 114 Stat. 1775; Pub. L. 108–88, §12(b), Sept. 30, 2003, 117 Stat. 1129; Pub. L. 108–202, §12(b), Feb. 29, 2004, 118 Stat. 491; Pub. L. 108–224, §10(b), Apr. 30, 2004, 118 Stat. 639; Pub. L. 108–263, §10(b), June 30, 2004, 118 Stat. 710; Pub. L. 108–280, §10(b), July 30, 2004, 118 Stat. 888; Pub. L. 108–310, §13(b), Sept. 30, 2004, 118 Stat. 1163; Pub. L. 109–14, §9(b), May 31, 2005, 119 Stat. 335; Pub. L. 109–20, §9(b), July 1, 2005, 119 Stat. 357; Pub. L. 109–35, §9(b), July 20, 2005, 119 Stat. 391; Pub. L. 109–37, §9(b), July 22, 2005, 119 Stat. 406; Pub. L. 109–40, §9(b), July 28, 2005, 119 Stat. 422; Pub. L. 109–42, §7(b), (d)(2), (3), July 30, 2005, 119 Stat. 437, 438; Pub. L. 109–59, title XI, §§11101(d)(2), 11115(b)(1)–(2)(D), (c), 11151(c), (e)(1), Aug. 10, 2005, 119 Stat. 1945, 1949, 1950, 1968, 1969; Pub. L. 109–74, title III, §301(a), Sept. 29, 2005, 119 Stat. 2032; Pub. L. 109–304, §16(c)(2), Oct. 6, 2006, 120 Stat. 1706; Pub. L. 110–181, div. C, title XXXV, §3529(c)(1), Jan. 28, 2008, 122 Stat. 603; Pub. L. 111–68, div. B, §161(a), Oct. 1, 2009, 123 Stat. 2052; Pub. L. 111–88, div. B, §103, Oct. 30, 2009, 123 Stat. 2972; Pub. L. 111–147, title IV, §§444(b)(5)–(7), 445(b), Mar. 18, 2010, 124 Stat. 94, 95; Pub. L. 111–322, title II, §2401(b), Dec. 22, 2010, 124 Stat. 3531.)
+(Added Pub. L. 98–369, div. A, title X, §1016(a), July 18, 1984, 98 Stat. 1019; amended Pub. L. 100–418, title I, §1214(p)(2), Aug. 23, 1988, 102 Stat. 1159; Pub. L. 100–448, §6(a)(2), (c)(3), Sept. 28, 1988, 102 Stat. 1839, 1841; Pub. L. 101–508, title XI, §11211(i)(2), (3), Nov. 5, 1990, 104 Stat. 1388–428; Pub. L. 102–240, title VIII, §8002(d)(2)(C), (i), Dec. 18, 1991, 105 Stat. 2204, 2205; Pub. L. 105–130, §9(b), Dec. 1, 1997, 111 Stat. 2561; Pub. L. 105–178, title IX, §9005(b)–(d), (f), June 9, 1998, 112 Stat. 505; Pub. L. 105–206, title IX, §9015(b), July 22, 1998, 112 Stat. 867; Pub. L. 106–408, title I, §126, Nov. 1, 2000, 114 Stat. 1775; Pub. L. 108–88, §12(b), Sept. 30, 2003, 117 Stat. 1129; Pub. L. 108–202, §12(b), Feb. 29, 2004, 118 Stat. 491; Pub. L. 108–224, §10(b), Apr. 30, 2004, 118 Stat. 639; Pub. L. 108–263, §10(b), June 30, 2004, 118 Stat. 710; Pub. L. 108–280, §10(b), July 30, 2004, 118 Stat. 888; Pub. L. 108–310, §13(b), Sept. 30, 2004, 118 Stat. 1163; Pub. L. 109–14, §9(b), May 31, 2005, 119 Stat. 335; Pub. L. 109–20, §9(b), July 1, 2005, 119 Stat. 357; Pub. L. 109–35, §9(b), July 20, 2005, 119 Stat. 391; Pub. L. 109–37, §9(b), July 22, 2005, 119 Stat. 406; Pub. L. 109–40, §9(b), July 28, 2005, 119 Stat. 422; Pub. L. 109–42, §7(b), (d)(2), (3), July 30, 2005, 119 Stat. 437, 438; Pub. L. 109–59, title XI, §§11101(d)(2), 11115(b)(1)–(2)(D), (c), 11151(c), (e)(1), Aug. 10, 2005, 119 Stat. 1945, 1949, 1950, 1968, 1969; Pub. L. 109–74, title III, §301(a), Sept. 29, 2005, 119 Stat. 2032; Pub. L. 109–304, §16(c)(2), Oct. 6, 2006, 120 Stat. 1706; Pub. L. 110–181, div. C, title XXXV, §3529(c)(1), Jan. 28, 2008, 122 Stat. 603; Pub. L.111–68, div. B, §161(a), Oct. 1, 2009, 123 Stat. 2052; Pub. L. 111–88, div. B, §103, Oct. 30, 2009, 123 Stat. 2972; Pub. L. 111–147, title IV, §§444(b)(5)–(7), 445(b), Mar. 18, 2010, 124 Stat. 94, 95; Pub. L. 111–322, title II, §2401(b), Dec. 22, 2010, 124 Stat. 3531; Pub. L. 112–5, title IV, §401(b), Mar. 4, 2011, 125 Stat. 22; Pub. L. 112–30, title I, §141(b), Sept. 16, 2011, 125 Stat. 355.)
 
 #### References in Text
 
-The Harmonized Tariff Schedule of the United States, referred to in subsec. (b)(1)(B), is not set out in theCode. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
+The Harmonized Tariff Schedule of the United States, referred to in subsec. (b)(1)(B), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
 
-The Dingell-Johnson Sport Fish Restoration Act, referred to in subsecs. (b)(2)(A) and (c), is act Aug. 9, 1950, ch. 658, 64 Stat. 430, as amended, also known as the Federal Aid in Fish Restoration Act and the Fish Restoration and Management Projects Act, which is classified generally to chapter 10B (§777 et seq.) of Title 16, Conservation. Section 15 of the Act is classified to section 777n of Title 16. For complete classification of this Act to the Code, see Short Title note set out under section 777 of Title 16 and Tables.
+The Dingell-Johnson Sport Fish Restoration Act, referred to in subsecs. (b)(2)(A) and (c), is act Aug. 9, 1950, ch. 658, 64 Stat. 430, also known as the Federal Aid in Fish Restoration Act and the Fish Restoration and Management Projects Act, which is classified generally to chapter 10B (§777 et seq.) of Title 16, Conservation. Section 15 of the Act is classified to section 777n of Title 16. For complete classification of this Act to the Code, see Short Title note set out under section 777 of Title 16 and Tables.
 
-The date of the enactment of the Surface Transportation Extension Act of 2010, Part II, referred to in subsec. (b)(2)(A) to (C), is the date of enactment of Pub. L. 111–322, which was approved Dec. 22, 2010.
+The date of the enactment of the Surface Transportation Extension Act of 2011, Part II, referred to in subsec. (b)(2)(A) to (C), is the date of enactment of title I of Pub. L. 112–30, which was approved Sept. 16, 2011.
 
 Section 7404(d) of the Transportation Equity Act for the 21st Century, referred to in subsec. (b)(2)(B), is classified to section 777g–1(d) of Title 16, Conservation.
 
@@ -65,6 +65,14 @@ The Coastal Wetlands Planning, Protection and Restoration Act, referred to in su
 The date of the enactment of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users, referred to in subsec. (c), is the date of enactment of Pub. L. 109–59, which was approved Aug. 10, 2005.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (b)(2)(A) to (C). Pub. L. 112–30, §141(b)(1), substituted “Surface Transportation Extension Act of 2011, Part II” for “Surface Transportation Extension Act of 2011”.
+
+Pub. L. 112–5, §401(b)(1), substituted “Surface Transportation Extension Act of 2011” for “Surface Transportation Extension Act of 2010, Part II”.
+
+Subsec. (d)(2). Pub. L. 112–30, §141(b)(2), substituted “April 1, 2012” for “October 1, 2011”.
+
+Pub. L. 112–5, §401(b)(1), substituted “October 1, 2011” for “March 5, 2011”.
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–147, §444(b)(5), substituted “section 9503(c)(3), section 9503(c)(4)” for “section 9503(c)(4), section 9503(c)(5)”.
 
@@ -240,7 +248,13 @@ Subsec. (b)(2). Pub. L. 101–508, §11211(i)(3), amended par. (2) generally. Pr
 
 Subsec. (b)(2). Pub. L. 100–448, §6(c)(3), substituted “(as in effect on October 1, 1988)” for “(as in effect on June 1, 1984)”.
 
-Subsec. (c). Pub. L. 100–448, §6(a)(2), substituted provisions authorizing expenditures before Apr. 1, 1994, to carry out the purposes of section 13106 of title 46 as ineffect on Oct. 1, 1988, for provisions which had authorized expenditures before Apr. 1, 1989, to carry out the purposes of that section as in effect on June 1, 1984.
+Subsec. (c). Pub. L. 100–448, §6(a)(2), substituted provisions authorizing expenditures before Apr. 1, 1994, to carry out the purposes of section 13106 of title 46 as in effect on Oct. 1, 1988, for provisions which had authorized expenditures before Apr. 1, 1989, to carry out the purposes of that section as in effect on June 1, 1984.
+
+#### Effective Date of 2011 Amendment
+
+Amendment by Pub. L. 112–30 effective Oct. 1, 2011, see section 141(d) of Pub. L. 112–30, set out as a note under section 9503 of this title.
+
+Amendment by Pub. L. 112–5 effective Mar. 4, 2011, see section 401(c) of Pub. L. 112–5, set out as a note under section 9503 of this title.
 
 #### Effective Date of 2010 Amendment
 

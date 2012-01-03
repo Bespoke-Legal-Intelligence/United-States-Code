@@ -52,7 +52,7 @@ Subsec. (c). Pub. L. 111–383, §901(b)(6)(B), redesignated subsec. (c) as (b).
 
 <b>2002</b>—Pub. L. 107–314 renumbered section 137 of this title as this section.
 
-<b>1999</b>—Subsec. (b). Pub. L. 106–65 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
+<b>1999</b>—Subsec. (b). Pub. L. 106–65 substituted “Under Secretary of Defense for Acquisition, Technology, andLogistics” for “Under Secretary of Defense for Acquisition and Technology”.
 
 <b>1996</b>—Pub. L. 104–106, §903(a), (c)(3), which directed repeal of this section eff. Jan. 31, 1997, was repealed by Pub. L. 104–201.
 

@@ -12,7 +12,7 @@ For purposes of this part, the term “issuing or assuming a stock option in a t
 
 #### (b) Acquisition of new stock
 
-For purposes of this part, if stock is received by an individual in a distribution to which section 305, 354, 355, 356, or 1036 (or so much of section 1031 as relates to section 1036) applies, and such distribution was made with respect to stock transferred to him upon his exercise of the option, such stock shall be considered as having been transferred to him on his exercise of such option. A similar rule shall be applied in the case of a series of such distributions.
+For purposes of this part, if stock is received by an individual in a distribution to which section 305, 354, 355, 356, or 1036 (or so much of section 1031 as relates to section 1036) applies, and such distribution was made with respect tostock transferred to him upon his exercise of the option, such stock shall be considered as having been transferred to him on his exercise of such option. A similar rule shall be applied in the case of a series of such distributions.
 
 #### (c) Disposition
 
@@ -44,7 +44,7 @@ For purposes of this part, if stock is received by an individual in a distributi
 
 #### (B) Statutory option stock
 
-&emsp;&emsp;For purpose of subparagraph (A), the term “statutory option stock” means any stockacquired through the exercise of an incentive stock option or an option granted under an employee stock purchase plan.
+&emsp;&emsp;For purpose of subparagraph (A), the term “statutory option stock” means any stock acquired through the exercise of an incentive stock option or an option granted under an employee stock purchase plan.
 
 #### (4) Transfers between spouses or incident to divorce
 
@@ -116,7 +116,7 @@ A prior section 424, added Pub. L. 88–272, title II, §221(a), Feb. 26, 1964, 
 
 #### Amendments
 
-<b>1996</b>—Subsec. (c)(3)(B). Pub. L. 104–188 substituted “an incentive stock option or an option granted under anemployee stock purchase plan” for “a qualified stock option, an incentive stock option, an option granted under an employee stock purchase plan, or a restricted stock option”.
+<b>1996</b>—Subsec. (c)(3)(B). Pub. L. 104–188 substituted “an incentive stock option or an option granted under an employee stock purchase plan” for “a qualified stock option, an incentive stock option, an option granted under an employee stock purchase plan, or a restricted stock option”.
 
 <b>1990</b>—Pub. L. 101–508, §11801(c)(9)(A)(i), renumbered section 425 of this title as this section.
 
@@ -178,7 +178,7 @@ Amendment by section 102(j)(5) of title I of Pub. L. 97–448 effective, except 
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–34 applicable with respect to options granted on or after Jan. 1, 1976, and exercised on or after Jan. 1, 1981, or outstanding on Jan. 1, 1981, or granted on or after Jan. 1, 1976, and outstanding Aug. 13, 1981, see section 251(c) of Pub. L. 97–34, set out as an Effective Date note under section 422 of this title.
+Amendment by Pub. L. 97–34 applicable with respect to options granted on or after Jan. 1, 1976, and exercisedon or after Jan. 1, 1981, or outstanding on Jan. 1, 1981, or granted on or after Jan. 1, 1976, and outstanding Aug. 13, 1981, see section 251(c) of Pub. L. 97–34, set out as an Effective Date note under section 422 of this title.
 
 #### Effective Date
 

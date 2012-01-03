@@ -8,5 +8,5 @@
 
 #### Amendments
 
-1968—Pub. L. 90–446 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1968</b>—Pub. L. 90–446 designated existing provisions as subsec. (a) and added subsec. (b).
 

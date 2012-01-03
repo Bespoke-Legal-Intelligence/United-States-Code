@@ -188,7 +188,7 @@ A State or community may take action under subsection (c)(2) of this section to 
 
 #### (B) Procedure
 
-&emsp;&emsp;An appeal under this paragraph of a determination of the Director shall be made by filing, with the Director, a request for an appeal within 90 days after receiving notice of such determination. Upon receiving the request, the Director shall select, from a list of independent third parties compiled by theDirector for such purpose, a party to hear such appeal. Within 90 days after filing of the request for the appeal, such third party shall review the determination of the Director and shall set aside such determination if the third party determines that the grounds under subparagraph (A) exist. During the pendency of an appeal under this paragraph, the Director shall stay the applicability of the rates established pursuant to paragraph (1)(B) or (2), as applicable.
+&emsp;&emsp;An appeal under this paragraph of a determination of the Director shall be made by filing, with the Director, a request for an appeal within 90 days after receiving notice of such determination. Upon receiving the request, the Director shall select, from a list of independent third parties compiled by the Director for such purpose, a party to hear such appeal. Within 90 days after filing of the request for the appeal, such third party shall review the determination of the Director and shall set aside such determination if the third party determines that the grounds under subparagraph (A) exist. During the pendency of an appeal under this paragraph, the Director shall stay the applicability of the rates established pursuant to paragraph (1)(B) or (2), as applicable.
 
 #### (C) Effect of final determination
 

@@ -26,7 +26,7 @@ As used in this chapter:
 
 #### Amendments
 
-1993—Pub. L. 103–189, §8(k)(3)(A), substituted “chapter:” for “chapter—” in introductory provisions.
+<b>1993</b>—Pub. L. 103–189, §8(k)(3)(A), substituted “chapter:” for “chapter—” in introductory provisions.
 
 Pars. (1), (2). Pub. L. 103–189, §8(k)(3)(B), (C), substituted “The term” for “the term” and a period for semicolon at end.
 

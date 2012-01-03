@@ -90,7 +90,7 @@ Numismatic items.—For purposes of section 5132(a)(1) of this title, all coins 
 
 (4)(A) Notwithstanding any other provision of law and subject to subparagraph (B), the Secretary of the Treasury may change the diameter, weight, or design of any coin minted under this subsection or the fineness of the gold in the alloy of any such coin if the Secretary determines that the specific diameter, weight, design, or fineness of gold which differs from that otherwise required by law is appropriate for such coin.
 
-(B) The Secretary may not mint any coin with respect to which a determination has been made by the Secretary under subparagraph (A) before the end of the 30-day period beginning on the date a notice of such determination is published in the Federal Register.
+(B) The Secretary may not mint any coin with respect to which a determination has been made by the Secretary under subparagraph (A) beforethe end of the 30-day period beginning on the date a notice of such determination is published in the Federal Register.
 
 (C) The Secretary may continue to mint and issue coins in accordance with the specifications contained in paragraphs (7), (8), (9), and (10) of subsection (a) and paragraph (1)(A) of this subsection at the same time the Secretary in minting and issuing other bullion and proof gold coins under this subsection in accordance with such program procedures and coin specifications, designs, varieties, quantities, denominations, and inscriptions as the Secretary, in the Secretary's discretion, may prescribe from time to time.
 
@@ -192,7 +192,7 @@ Issuance.—
 
 &emsp;&emsp;(A)
 
-Quality of coins.—The Secretary may mint and issue such number of quarter dollars of each design selected under paragraph (4) in uncirculated and proof qualities as the Secretary determines to be appropriate.
+Quality of coins.—The Secretary may mint and issue such number of quarter dollars of each design selected under paragraph\(4) in uncirculated and proof qualities as the Secretary determines to be appropriate.
 
 &emsp;&emsp;(B)
 
@@ -258,7 +258,7 @@ Design requirements.—The $1 coins issued in accordance with paragraph (1)(A) s
 
 Coin reverse.—The design on the reverse shall bear—
 
-&emsp;&emsp;&emsp;(i) a likeness of the Statue of Liberty extending to the rim of the coin and largeenough to provide a dramatic representation of Liberty while not being large enough to create the impression of a “2-headed” coin;
+&emsp;&emsp;&emsp;(i) a likeness of the Statue of Liberty extending to the rim of the coin and large enough to provide a dramatic representation of Liberty while not being large enough to create the impression of a “2-headed” coin;
 
 &emsp;&emsp;&emsp;(ii) the inscription “$1”; and
 
@@ -632,7 +632,7 @@ Redesign beginning in 2008.—
 
 &emsp;&emsp;(A)
 
-In general.—Effective beginning January 1, 2008, notwithstanding subsection (d), in addition to the coins to be issued pursuant to subsection (n), and in accordance with this subsection, the Secretary shall mint and issue $1 coins that—
+In general.—Effective beginning January 1, 2008, notwithstanding subsection (d),in addition to the coins to be issued pursuant to subsection (n), and in accordance with this subsection, the Secretary shall mint and issue $1 coins that—
 
 &emsp;&emsp;&emsp;(i) have as the designs on the obverse the so-called “Sacagawea design”; and
 
@@ -808,7 +808,7 @@ Silver coins.—Notwithstanding subsection (b), the Secretary may mint and issue
 
 &emsp;&emsp;(C)
 
-Timing and order of issuance.—Coins minted under this subsection honoring the District of Columbia and each of the territories shall be issued in equal sequential intervals during 2009 in the following order: the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the United States Virgin Islands,and the Commonwealth of the Northern Mariana Islands.
+Timing and order of issuance.—Coins minted under this subsection honoring the District of Columbia and each of the territories shall be issued in equal sequential intervals during 2009 in the following order: the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands.
 
 &emsp;(6)
 
@@ -912,7 +912,7 @@ Rate of issuance.—The quarter dollar coins bearing designs of national sites u
 
 &emsp;&emsp;(C)
 
-Number of each of 5 coin designs in each year.—Of the quarter dollar coins issued during each year of the period of issuance, the Secretary of the Treasury shall prescribe, on the basis of such factors as the Secretary determines to be appropriate, thenumber of quarter dollars which shall be issued with each of the designs selected for such year.
+Number of each of 5 coin designs in each year.—Of the quarter dollar coins issued during each year of the period of issuance, the Secretary of the Treasury shall prescribe, on the basis of such factors as the Secretary determines to be appropriate, the number of quarter dollars which shall be issued with each of the designs selected for such year.
 
 &emsp;(5)
 
@@ -952,7 +952,7 @@ Notice and report.—Within 30 days after making a determination under clause (i
 
 &emsp;&emsp;&emsp;(iii)
 
-Applicability of provisions.—If the Secretary makes a determination under clause (i), the provisions of this subsection applicable to site and design selection and approval, the order, timing, and conditions of issuance shall apply in like manner as the initial issuance of quarter dollars under this subsection, except that the issuance of quarter dollars pursuant to such determination bearing the first design shall commence in order immediately following the last issuance of quarter dollars under the first round.
+Applicability of provisions.—If the Secretary makes a determination under clause (i), the provisions of this subsection applicable to site and design selection and approval, the order, timing, and conditions of issuance shall apply in like manner as the initial issuance of quarter dollars under this subsection, except that the issuance of quarter dollars pursuant to suchdetermination bearing the first design shall commence in order immediately following the last issuance of quarter dollars under the first round.
 
 &emsp;&emsp;&emsp;(iv)
 
@@ -1192,7 +1192,7 @@ This amends 31:5112(f)(1) to make technical and conforming changes.
 
 The date of enactment of the United States $1 Coin Act of 1997, referred to in subsec. (b), is the date of enactment of Pub. L. 105–124, which was approved Dec. 1, 1997.
 
-The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (<i>l</i>)(6)(C), is act June 7, 1939, ch. 190, as revised generally by Pub. L. 96–41, §2, July 30, 1979, 93 Stat. 319, which is classified generally to subchapter III (§98 et seq.) of chapter 5 of Title 50, War and National Defense. For complete classification ofthis Act to the Code, see section 98 of Title 50 and Tables.
+The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (<i>l</i>)(6)(C), is act June 7, 1939, ch. 190, as revised generally by Pub. L. 96–41, §2, July 30, 1979, 93 Stat. 319, which is classified generally to subchapter III (§98 et seq.) of chapter 5 of Title 50, War and National Defense. For complete classification of this Act to the Code, see section 98 of Title 50 and Tables.
 
 This Act, referred to in subsec. (<i>o</i>)(6), probably means Pub. L. 109–145, Dec. 22, 2005, 119 Stat. 2664, known as the Presidential $1 Coin Act of 2005, which amended this section and enacted provisions set out as notes under this section. For complete classification of this Act to the Code, see Short Title of 2005 Amendment note set out under section 5101 of this title and Tables.
 
@@ -1226,7 +1226,7 @@ Subsec. (v). Pub. L. 111–303, §2(2), added subsec. (v).
 
 Subsec. (u). Pub. L. 110–456, §201, added subsec. (u).
 
-<b>2007</b>—Subsec. (n)(1). Pub. L. 110–82, §3, redesignated cls. (i) and (ii) of subpar. (A) as subpars. (A) and (B), respectively, struck out heading and designation of former subpar. (A), and struck out former subpar. (B), which related to continuity provisions concerning the “ ‘Sacagawea-design’ $1 coins”.
+<b>2007</b>—Subsec. (n)(1). Pub. L. 110–82, §3, redesignated cls. (i) and (ii) of subpar. (A) as subpars. (A) and (B), respectively, struck out heading and designation of former subpar. (A), and struck out former subpar. (B),which related to continuity provisions concerning the “ ‘Sacagawea-design’ $1 coins”.
 
 Subsec. (n)(2)(C)(i). Pub. L. 110–161, §623(a)(1)(A), substituted “and the inscription” for “and the inscriptions” and struck out “and ‘In God We Trust’ ” before “shall be edge-incused”.
 
@@ -1362,7 +1362,7 @@ Report Required.—Before the end of the 2-year period beginning on the date of 
 
 “(b)
 
-Detailed Recommendations.—In preparing and submitting the reports required under subsection (a), the Secretary of the Treasury shall include detailedrecommendations for any appropriate changes to the metallic content of circulating coins in such a form that the recommendations could be enacted into law as appropriate.
+Detailed Recommendations.—In preparing and submitting the reports required under subsection (a), the Secretary of the Treasury shall include detailed recommendations for any appropriate changes to the metallic content of circulating coins in such a form that the recommendations could be enacted into law as appropriate.
 
 “(c)
 
@@ -1450,7 +1450,7 @@ Pub. L. 109–145, title I, §101, Dec. 22, 2005, 119 Stat. 2664, provided that:
 
 &emsp;“(5) A national survey and study by the Government Accountability Office has indicated that many Americans who do not seek, or who reject, the new $1 coin for use in commerce would actively seek the coin if an attractive, educational rotating design were to be struck on the coin.
 
-&emsp;“(6) The President is the leader of our tripartite government and the President's spouse has often setthe social tone for the White House while spearheading and highlighting important issues for the country.
+&emsp;“(6) The President is the leader of our tripartite government and the President's spouse has often set the social tone for the White House while spearheading and highlighting important issues for the country.
 
 &emsp;“(7) Sacagawea, as currently represented on the new $1 coin, is an important symbol of American history.
 
@@ -1558,7 +1558,7 @@ Pub. L. 108–15, title I, §101, Apr. 23, 2003, 117 Stat. 615, provided that:
 
 “(a)
 
-In General.—Subject to subsection (b) and after consulting with the Citizens Coinage Advisory Committee and the Commission of Fine Arts, the Secretary of the Treasury may change the design on the obverse and the reverse of the 5-cent coin for coins issued in 2003,2004, and 2005 in recognition of the bicentennial of the Louisiana Purchase and the expedition of Meriwether Lewis and William Clark.
+In General.—Subject to subsection (b) and after consulting with the Citizens Coinage Advisory Committee and the Commission of Fine Arts, the Secretary of the Treasury may change the design on the obverse and the reverse of the 5-cent coin for coins issued in 2003, 2004, and 2005 in recognition of the bicentennial of the Louisiana Purchase and the expedition of Meriwether Lewis and William Clark.
 
 “(b)
 
@@ -1604,7 +1604,7 @@ Pub. L. 105–124, §2, Dec. 1, 1997, 111 Stat. 2534, provided that: “The Cong
 
 &emsp;“(2) the circulating coinage of the United States has not been modernized during the 25-year period preceding the date of enactment of this Act \[Dec. 1, 1997\];
 
-&emsp;“(3) a circulating commemorative 25-cent coin program could produce earnings of $110,000,000 from the sale of silver proof coins and sets over the 10-year period of issuance, and would produce indirect earnings of an estimated $2,600,000,000 to $5,100,000,000 to the United States Treasury, money that will replace borrowing to fund the national debt to at least that extent; and
+&emsp;“(3) a circulating commemorative 25-cent coin program could produce earnings of $110,000,000 from thesale of silver proof coins and sets over the 10-year period of issuance, and would produce indirect earnings of an estimated $2,600,000,000 to $5,100,000,000 to the United States Treasury, money that will replace borrowing to fund the national debt to at least that extent; and
 
 &emsp;“(4) it is appropriate to launch a commemorative circulating coin program that encourages young people and their families to collect memorable tokens of all of the States for the face value of the coins.”
 
@@ -1758,7 +1758,7 @@ Final Report.—Each person who receives, after the date of the enactment of thi
 
 #### Amount Equal to Profit From Sale of Gold Coins Deposited in General Fund of Treasury To Reduce National Debt
 
-Section 2(f) of Pub. L. 99–185 provided that an amount equal to the amount by which the proceeds from the sale of the coins issued under 31 U.S.C. 5112(i) exceeded the sum of the cost of minting, marketing, and distributing such coins, and the value of gold certificates (not exceeding forty-two and two-ninths dollars a fine troy ounce) retired from the use of gold contained in such coins, was to be deposited in the general fund of the Treasury and used for the sole purpose of reducing thenational debt, prior to repeal by Pub. L. 102–390, title II, §221(c)(2)(A), Oct. 6, 1992, 106 Stat. 1628, effective Oct. 1, 1992.
+Section 2(f) of Pub. L. 99–185 provided that an amount equal to the amount by which the proceeds from the sale of the coins issued under 31 U.S.C. 5112(i) exceeded the sum of the cost of minting, marketing, and distributing such coins, and the value of gold certificates (not exceeding forty-two and two-ninths dollars a fine troy ounce) retired from the use of gold contained in such coins, was to be deposited in the general fund of the Treasury and used for the sole purpose of reducing the national debt, prior to repeal by Pub. L. 102–390, title II, §221(c)(2)(A), Oct. 6, 1992, 106 Stat. 1628, effective Oct. 1, 1992.
 
 #### Issuance of Gold Coins To Result in No Net Cost to United States
 
@@ -1786,7 +1786,7 @@ Pub. L. 110–357, Oct. 8, 2008, 122 Stat. 3998.—National Infantry Museum and 
 
 Pub. L. 110–277, July 17, 2008, 122 Stat. 2599.—American veterans disabled for life.
 
-Pub. L. 109–285, Sept. 27, 2006, 120 Stat. 1215.—Abraham Lincoln.
+Pub. L. 109–285, Sept. 27, 2006, 120 Stat. 1215; Pub. L. 112–74, div. C, title VI, §621, Dec. 23, 2011, 125 Stat. 926.—Abraham Lincoln.
 
 Pub. L. 109–247, July 27, 2006, 120 Stat. 582.—Louis Braille bicentennial—braille literacy.
 

@@ -4,7 +4,7 @@
 
 In carrying out inspections under this chapter, in developing standards and regulations pursuant to section 5403 of this title, and in facilitating the acceptance of the affordability and availability of manufactured housing within the Department, the Secretary may—
 
-&emsp;(1) establish and collect from manufactured home manufacturers a reasonable fee, as may be necessary to offset the expenses incurred by the Secretary in connection with carrying out the responsibilities of the Secretary under this chapter, including—
+&emsp;(1) establish and collect from manufactured home manufacturers a reasonable fee, as may be necessary to offset the expenses incurred by the Secretary in connection with carrying outthe responsibilities of the Secretary under this chapter, including—
 
 &emsp;&emsp;(A) conducting inspections and monitoring;
 
@@ -18,7 +18,7 @@ In carrying out inspections under this chapter, in developing standards and regu
 
 &emsp;&emsp;(F) facilitating the acceptance of the quality, durability, safety, and affordability of manufactured housing within the Department; and
 
-&emsp;&emsp;(G) the administration and enforcement of the installation standards authorized by section 5404 of this title in States in which the Secretary is required to implement an installation program after the expiration of the 5-year period set forth in section 5404(c)(2)(B) of this title, and the administration and enforcement of a dispute resolution program described in section 5422(c)(12) of this title in States in which the Secretary isrequired to implement such a program after the expiration of the 5-year period set forth in section 5422(g)(2) of this title; and
+&emsp;&emsp;(G) the administration and enforcement of the installation standards authorized by section 5404 of this title in States in which the Secretary is required to implement an installation program after the expiration of the 5-year period set forth in section 5404(c)(2)(B) of this title, and the administration and enforcement of a dispute resolution program described in section 5422(c)(12) of this title in States in which the Secretary is required to implement such a program after the expiration of the 5-year period set forth in section 5422(g)(2) of this title; and
 
 &emsp;(2) subject to subsection (e) of this section, use amounts from any fee collected under paragraph (1) of this subsection to pay expenses referred to in that paragraph, which shall be exempt and separate from any limitations on the Department regarding full-time equivalent positions and travel.
 

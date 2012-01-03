@@ -84,7 +84,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (a)(1)(C). Pub. L. 110–246, §7130(1), added subpar. (C).
+<b>2008</b>—Subsec. (a)(1)(C). Pub. L. 110–246, §7130(1), added subpar. (C).
 
 Subsec. (a)(3). Pub. L. 110–246, §7130(2), added par. (3) and struck out former par. (3) which read as follows: “enter into agreements with land-grant colleges and universities, the Agency for International Development, and international organizations (such as the United Nations, World Bank, regional development banks, the International Agricultural Research Center), or other organizations, institutions or individuals with comparable goals, to promote and support the development of a viable and sustainable global agricultural system;”.
 
@@ -96,9 +96,9 @@ Subsec. (a)(10). Pub. L. 110–246, §7511(c)(10)(B), substituted “National In
 
 Subsec. (a)(11). Pub. L. 110–246, §7130(4)(B)–(6), added par. (11).
 
-2002—Subsec. (a)(10). Pub. L. 107–171 added par. (10).
+<b>2002</b>—Subsec. (a)(10). Pub. L. 107–171 added par. (10).
 
-1998—Pub. L. 105–185, §227(a)(1), substituted “research, extension, and teaching” for “research and extension” in section catchline.
+<b>1998</b>—Pub. L. 105–185, §227(a)(1), substituted “research, extension, and teaching” for “research and extension” in section catchline.
 
 Subsec. (a)(1). Pub. L. 105–185, §227(a)(2)(A)(i), substituted “related research, extension, and teaching” for “related research and extension” in introductory provisions.
 
@@ -124,11 +124,11 @@ Subsec. (d). Pub. L. 105–185, §227(c), added subsec. (d).
 
 Subsec. (e). Pub. L. 105–185, §227(d), added subsec. (e).
 
-1996—Subsec. (a)(8). Pub. L. 104–127 substituted “continue” for “establish” after “(8)” and struck out “to be” before “coordinated”.
+<b>1996</b>—Subsec. (a)(8). Pub. L. 104–127 substituted “continue” for “establish” after “(8)” and struck out “to be” before “coordinated”.
 
-1991—Subsec. (a)(3). Pub. L. 102–237 substituted a semicolon for period at end.
+<b>1991</b>—Subsec. (a)(3). Pub. L. 102–237 substituted a semicolon for period at end.
 
-1990—Pub. L. 101–624, §1613(d)(1)(A), inserted section catchline.
+<b>1990</b>—Pub. L. 101–624, §1613(d)(1)(A), inserted section catchline.
 
 Subsec. (a). Pub. L. 101–624, §1613(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary, subject to such coordination with other Federal officials, departments, and agencies as the President may direct, is authorized to—
 
@@ -146,11 +146,11 @@ Subsec. (b). Pub. L. 101–624, §1613(d)(1)(B), inserted heading.
 
 Subsec. (c). Pub. L. 101–624, §1613(b), (d)(1)(C), inserted heading and “and other nongovernmental organizations” after “universities”.
 
-1985—Subsec. (a)(3). Pub. L. 99–198 substituted “providing technical assistance, training, and advice to” for “the training of”.
+<b>1985</b>—Subsec. (a)(3). Pub. L. 99–198 substituted “providing technical assistance, training, and advice to” for “the training of”.
 
 Subsec. (a)(4). Pub. L. 99–198 inserted “through the development of highly qualified scientists with specialization in international development” after “countries”.
 
-1981—Pub. L. 97–98 designated existing provisions as subsec. (a), inserted provisions authorizing Secretary to work with transitional countries as well as developed countries on agricultural research and extension and establishing that agricultural research includes food, agricultural, and related research, and added subsecs. (b) and (c).
+<b>1981</b>—Pub. L. 97–98 designated existing provisions as subsec. (a), inserted provisions authorizing Secretary to work with transitional countries as well as developed countries on agricultural research and extension and establishing that agricultural research includes food, agricultural, and related research, and added subsecs. (b) and (c).
 
 #### Effective Date of 2008 Amendment
 

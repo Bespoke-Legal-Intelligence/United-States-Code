@@ -4,9 +4,9 @@
 
 &emsp;(1) “bankruptcy petition preparer” means a person, other than an attorney for the debtor or an employee of such attorney under the direct supervision of such attorney, who prepares for compensation a document for filing; and
 
-&emsp;(2) “document for filing” means a petition or any other document prepared for filing by a debtor in a United States bankruptcy court or a United States district court in connection with a case under this title.
+&emsp;(2) “document for filing” means a petition or any other document prepared for filing by adebtor in a United States bankruptcy court or a United States district court in connection with a case under this title.
 
-(b)(1) A bankruptcy petition preparer who prepares a document for filing shall sign the document and print on the document the preparer'sname and address. If a bankruptcy petition preparer is not an individual, then an officer, principal, responsible person, or partner of the bankruptcy petition preparer shall be required to—
+(b)(1) A bankruptcy petition preparer who prepares a document for filing shall sign the document and print on the document the preparer's name and address. If a bankruptcy petition preparer is not an individual, then an officer, principal, responsible person, or partner of the bankruptcy petition preparer shall be required to—
 
 &emsp;(A) sign the document for filing; and
 
@@ -148,19 +148,19 @@ The Federal Rules of Bankruptcy Procedure, referred to in subsec. (b)(2)(A), are
 
 #### Amendments
 
-2010—Subsec. (b)(2)(A). Pub. L. 111–327, §2(a)(7)(A), inserted “or on behalf of” after “from”.
+<b>2010</b>—Subsec. (b)(2)(A). Pub. L. 111–327, §2(a)(7)(A), inserted “or on behalf of” after “from”.
 
 Subsec. (h)(1). Pub. L. 111–327, §2(a)(7)(B)(i), in last sentence, substituted “filing for the debtor” for “filing for a debtor” and inserted “or on behalf of” after “from”.
 
-Subsec. (h)(3)(A). Pub. L. 111–327, §2(a)(7)(B)(ii)(I), struck out “found to be in excess of the value of any services” after “paragraph (2)” in introductory provisions.
+Subsec. (h)(3)(A). Pub. L. 111–327, §2(a)(7)(B)(ii)(I), struck out “found to be in excess of the value of anyservices” after “paragraph (2)” in introductory provisions.
 
 Subsec. (h)(3)(A)(i). Pub. L. 111–327, §2(a)(7)(B)(ii)(II), inserted “found to be in excess of the value of any services” after “(i)”.
 
 Subsec. (h)(4). Pub. L. 111–327, §2(a)(7)(B)(iii), substituted “paragraph (3)” for “paragraph (2)”.
 
-2007—Subsec. (<i>l</i>)(4)(A). Pub. L. 110–161 amended subpar. (A) generally. Prior to amendment, subpar. (A)read as follows: “Fines imposed under this subsection in judicial districts served by United States trustees shall be paid to the United States trustee, who shall deposit an amount equal to such fines in a special account of the United States Trustee System Fund referred to in section 586(e)(2) of title 28. Amounts deposited under this subparagraph shall be available to fund the enforcement of this section on a national basis.”
+<b>2007</b>—Subsec. (<i>l</i>)(4)(A). Pub. L. 110–161 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Fines imposed under this subsection in judicial districts served by United States trustees shall be paid to the United States trustee, who shall deposit an amount equal to such fines in a special account of the United States Trustee System Fund referred to in section 586(e)(2) of title 28. Amounts deposited under this subparagraph shall be available to fund the enforcement of this section on a national basis.”
 
-2005—Subsec. (a)(1). Pub. L. 109–8, §221(1), substituted “for the debtor or an employee of such attorney under the direct supervision of such attorney” for “or an employee of an attorney”.
+<b>2005</b>—Subsec. (a)(1). Pub. L. 109–8, §221(1), substituted “for the debtor or an employee of such attorney under the direct supervision of such attorney” for “or an employee of an attorney”.
 
 Subsec. (b)(1). Pub. L. 109–8, §221(2)(A), inserted at end “If a bankruptcy petition preparer is not an individual, then an officer, principal, responsible person, or partner of the bankruptcy petition preparer shall be required to—” and added subpars. (A) and (B).
 

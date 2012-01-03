@@ -6,7 +6,7 @@ The Secretary of Commerce is authorized to pay extra compensation to members of 
 
 #### Codification
 
-“Section 5533 of title 5” substituted in text for “section 301 of the Dual Compensation Act \[5 U.S.C. 3105\]” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+“Section 5533 of title 5” substituted in text for “section 301 of the Dual Compensation Act \[5 U.S.C. 3105\]” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 #### Amendments
 

@@ -38,7 +38,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the nursing school has an agreement with an accredited school of nursing located in the United States providing that the students graduating from the nursing school located outside of the United States also receive a degree from the accredited school of nursing located in the United States;
 
-&emsp;&emsp;&emsp;&emsp;(III) the nursing school certifies only Federal Direct Stafford Loans under section 1087e(a)(2)(A) of this title, Federal Direct Unsubsidized Stafford Loans under section 1087e(a)(2)(D) of this title, or Federal Direct PLUS Loans under section 1087e(a)(2)(B) of this title for students attending the institution;
+&emsp;&emsp;&emsp;&emsp;(III) the nursing school certifies only Federal Direct Stafford Loans under section 1087e(a)(2)(A) of this title, FederalDirect Unsubsidized Stafford Loans under section 1087e(a)(2)(D) of this title, or Federal Direct PLUS Loans under section 1087e(a)(2)(B) of this title for students attending the institution;
 
 &emsp;&emsp;&emsp;&emsp;(IV) the nursing school reimburses the Secretary for the cost of any loan defaults for current and former students included in the calculation of the institution's cohort default rate during the previous fiscal year; and
 
@@ -108,7 +108,7 @@
 
 #### (D) Special rule
 
-&emsp;&emsp;If, pursuant to this paragraph, an institution loses eligibility to participate in the programs under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, then a student enrolled at such institution may, notwithstanding such loss of eligibility, continue to be eligible to receive a loan under part C of subchapter IV while attending such institution for the academic year succeeding the academic year in which such loss of eligibility occurred.
+&emsp;&emsp;If, pursuant to this paragraph, an institution loses eligibility to participate in the programs under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, then a student enrolled at such institution may, notwithstanding such loss of eligibility, continue to be eligible to receive a loan under part C of subchapter IVwhile attending such institution for the academic year succeeding the academic year in which such loss of eligibility occurred.
 
 #### (3) Limitations based on course of study or enrollment
 
@@ -186,7 +186,7 @@
 
 &emsp;&emsp;(B) who will be dually or concurrently enrolled in the institution and a secondary school.
 
-(Pub. L. 89–329, title I, §102, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1586;amended Pub. L. 108–98, §1(a), Oct. 10, 2003, 117 Stat. 1174; Pub. L. 109–171, title VIII, §8002, Feb. 8, 2006, 120 Stat. 155; Pub. L. 109–270, §2(c)(1), Aug. 12, 2006, 120 Stat. 746; Pub. L. 110–315, title I, §102(a)–(d)(1), Aug. 14, 2008, 122 Stat. 3083–3085; Pub. L. 111–39, title I, §101(b)(1), July 1, 2009, 123 Stat. 1935; Pub. L. 111–152, title II, §2209(b)(1), Mar. 30, 2010, 124 Stat. 1077.)
+(Pub. L. 89–329, title I, §102, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1586; amended Pub. L. 108–98, §1(a), Oct. 10, 2003, 117 Stat. 1174; Pub. L. 109–171, title VIII, §8002, Feb. 8, 2006, 120 Stat. 155; Pub. L. 109–270, §2(c)(1), Aug. 12, 2006, 120 Stat. 746; Pub. L. 110–315, title I, §102(a)–(d)(1), Aug. 14, 2008, 122 Stat. 3083–3085; Pub. L. 111–39, title I, §101(b)(1), July 1, 2009, 123 Stat. 1935; Pub. L. 111–152, title II, §2209(b)(1), Mar. 30, 2010, 124 Stat. 1077.)
 
 #### References in Text
 

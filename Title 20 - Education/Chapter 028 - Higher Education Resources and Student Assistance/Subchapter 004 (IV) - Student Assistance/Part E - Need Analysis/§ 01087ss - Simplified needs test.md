@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall develop and use an easily identifiable simplified application section as part of the common financial reporting form prescribed under section 1090(a) of this title for families described in subsections (b) and (c) of this section.
+&emsp;The Secretary shall develop and use an easily identifiable simplified application sectionas part of the common financial reporting form prescribed under section 1090(a) of this title for families described in subsections (b) and (c) of this section.
 
 #### (2) Reduced data requirements
 
@@ -90,7 +90,7 @@ The Secretary shall consider an applicant to have an expected family contributio
 
 &emsp;&emsp;&emsp;(iv) received, or the student received, benefits at some time during the previous 24-month period under a means-tested Federal benefit program as defined under subsection (d); and
 
-&emsp;&emsp;(B) the sum of the adjusted gross income of the parents is less than or equal to $30,000; or
+&emsp;&emsp;(B) the sum of the adjusted gross income of the parents is less than or equal to $23,000; or
 
 &emsp;(2) in the case of an independent student with dependents other than a spouse—
 
@@ -104,7 +104,7 @@ The Secretary shall consider an applicant to have an expected family contributio
 
 &emsp;&emsp;&emsp;(iv) received benefits at some time during the previous 24-month period under a means-tested Federal benefit program as defined under subsection (d); and
 
-&emsp;&emsp;(B) the sum of the adjusted gross income of the student and spouse (if appropriate) is less than or equal to $30,000.
+&emsp;&emsp;(B) the sum of the adjusted gross income of the student and spouse (if appropriate) is less than or equal to $23,000.
 
 > An individual is not required to qualify or file for the earned income credit in order to be eligible under this subsection. The Secretary shall annually adjust the income level necessary to qualify an applicant for the zero expected family contribution. The income level shall be adjusted according to increases in the Consumer Price Index, as defined in section 1087rr(f) of this title.
 
@@ -132,7 +132,7 @@ In this section:
 
 &emsp;&emsp;(F) other programs identified by the Secretary.
 
-(Pub. L. 89–329, title IV, §479, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1472; amended Pub. L. 100–50, §14(23)–(25), June 3, 1987, 101 Stat. 352; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 102–26, §11, Apr. 9, 1991, 105 Stat. 129; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 604; Pub. L. 103–208, §2(g)(10)–(15), Dec. 20, 1993, 107 Stat. 2472; Pub. L. 105–244, title IV, §477, Oct. 7, 1998, 112 Stat. 1731; Pub. L. 109–171, title VIII, §8018(a), Feb. 8, 2006, 120 Stat. 174; Pub. L. 110–84, title VI, §602(a), Sept. 27, 2007, 121 Stat. 804; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(N), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(N), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 111–39, title IV, §406(a)(4), July 1, 2009, 123 Stat. 1948.)
+(Pub. L. 89–329, title IV, §479, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1472; amended Pub. L. 100–50, §14(23)–(25), June 3, 1987, 101 Stat. 352; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 102–26, §11, Apr. 9, 1991, 105 Stat. 129; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 604; Pub. L. 103–208, §2(g)(10)–(15), Dec. 20, 1993, 107 Stat. 2472; Pub. L. 105–244, title IV, §477, Oct. 7, 1998, 112 Stat. 1731; Pub. L. 109–171, title VIII, §8018(a), Feb. 8, 2006, 120 Stat. 174; Pub. L. 110–84, title VI, §602(a), Sept. 27, 2007, 121 Stat. 804; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(N), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(N), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 111–39, title IV, §406(a)(4), July 1, 2009, 123 Stat. 1948; Pub. L. 112–74, div. F, title III, §309(b), Dec. 23, 2011, 125 Stat. 1100.)
 
 #### References in Text
 
@@ -147,6 +147,10 @@ The Richard B. Russell National School Lunch Act, referred to in subsec. (d)(2)(
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (c)(1)(B). Pub. L. 112–74, §309(b)(1), substituted “$23,000” for “$30,000”.
+
+Subsec. (c)(2)(B). Pub. L. 112–74, §309(b)(2), substituted “$23,000” for “$30,000”.
 
 <b>2009</b>—Subsec. (b)(1)(A)(i)(III). Pub. L. 111–39, §406(a)(4)(A)(i), amended subcl. (III) generally. Prior to amendment, subcl. (III) read as follows: “1 of whom is a dislocated worker; or”.
 
@@ -170,7 +174,7 @@ Subsec. (c)(2)(A). Pub. L. 110–84, §602(a)(2)(B)(i), added cl. (iii), redesig
 
 Subsec. (c)(2)(B). Pub. L. 110–84, §602(a)(2)(B)(ii), substituted “$30,000” for “$20,000”.
 
-Subsec. (d). Pub. L. 110–84, §602(a)(3), substituted “Definitions” for “Definition of means-tested Federal benefit program” in heading, added par. (1), designated existing provisions as par. (2) and substituted “The term” for “In this section, the term” in introductory provisions, redesignated former pars. (1) to (6) as subpars. (A) to (F), respectively, of par. (2), and realigned margins.
+Subsec. (d). Pub. L. 110–84, §602(a)(3), substituted “Definitions” for “Definition of means-tested Federal benefit program” in heading, added par. (1), designatedexisting provisions as par. (2) and substituted “The term” for “In this section, the term” in introductory provisions, redesignated former pars. (1) to (6) as subpars. (A) to (F), respectively, of par. (2), and realigned margins.
 
 <b>2006</b>—Subsec. (b)(1)(A)(i). Pub. L. 109–171, §8018(a)(1)(A)(i), added cl. (i) and struck out former cl. (i) which read as follows: “the student's parents file or are eligible to file a form described in paragraph (3) or certify that they are not required to file an income tax return and the student files or is eligible to file such a form or certifies that the student is not required to file an income tax return; and”.
 
@@ -230,9 +234,13 @@ Subsec. (b)(6). Pub. L. 100–50, §14(24)(B)–(D), added par. (6).
 
 Subsec. (c). Pub. L. 100–50, §14(25), added subsec. (c).
 
+#### Effective Date of 2011 Amendment
+
+Amendment by of Pub. L. 112–74 effective July 1, 2012, see section 309(g) of Pub. L. 112–74, set out as a note under section 1001 of this title.
+
 #### Effective Date of 2009 Amendment
 
-Amendment by Pub. L. 111–39 effective as if enacted as part of amendments made by section 602(a) of Pub.L. 110–84 and effective July 1, 2009, see section 406(b)(2) of Pub. L. 111–39, set out as a note under section 1087mm of this title.
+Amendment by Pub. L. 111–39 effective as if enacted as part of amendments made by section 602(a) of Pub. L. 110–84 and effective July 1, 2009, see section 406(b)(2) of Pub. L. 111–39, set out as a note under section 1087mm of this title.
 
 #### Effective Date of 2008 Amendment
 

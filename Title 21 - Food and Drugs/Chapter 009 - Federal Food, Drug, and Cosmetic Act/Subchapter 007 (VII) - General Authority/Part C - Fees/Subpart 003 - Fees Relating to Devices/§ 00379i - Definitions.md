@@ -128,7 +128,7 @@ Par. (8). Pub. L. 108–214, §2(a)(1)(D), substituted “The term ‘affiliate�
 
 #### Effective and Termination Dates of 2007 Amendment
 
-Pub. L. 110–85, title II, §216, Sept. 27, 2007, 121 Stat. 852, provided that: “The amendments made by this subtitle \[subtitle A (§§211–217) of title II of Pub. L. 110–85, enacting section 379j–1 of this title and amending this section and section 379j of this title\] shall take effect on October 1, 2007, or the date of the enactment of this Act \[Sept. 27, 2007\], whichever is later, except that fees under part 3 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[this subpart\] shall be assessed for all premarket applications, premarket reports, supplements, 30-day notices, and premarket notification submissions received on or after October 1,2007, regardless of the date of the enactment of this Act.”
+Pub. L. 110–85, title II, §216, Sept. 27, 2007, 121 Stat. 852, provided that: “The amendments made by this subtitle \[subtitle A (§§211–217) of title II of Pub. L. 110–85, enacting section 379j–1 of this title and amending this section and section 379j of this title\] shall take effect on October 1, 2007, or the date of the enactment of this Act \[Sept. 27, 2007\], whichever is later, except that fees under part 3 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[this subpart\] shall be assessed for all premarket applications, premarket reports, supplements, 30-day notices, and premarket notification submissions received on or after October 1, 2007, regardless of the date of the enactment of this Act.”
 
 Pub. L. 110–85, title II, §217, Sept. 27, 2007, 121 Stat. 852, provided that: “The amendments made by this subtitle \[subtitle A (§§211–217) of title II of Pub. L. 110–85, enacting section 379j–1 of this title and amending this section and section 379j of this title\] cease to be effective October 1, 2012, except that section 738A of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 379j–1\] (regarding annual performance and financial reports) ceases to be effective January 31, 2013.”
 
@@ -148,7 +148,7 @@ Pub. L. 110–85, title II, §201(c), Sept. 27, 2007, 121 Stat. 842, provided th
 
 Pub. L. 107–250, title I, §101, Oct. 26, 2002, 116 Stat. 1589, provided that: “The Congress finds that—
 
-&emsp;“(1) prompt approval and clearance of safe and effective devices is critical to the improvement of the public health so that patients may enjoy the benefits of devices to diagnose, treat, and prevent disease;
+&emsp;“(1) prompt approval and clearance of safe and effective devices is critical to the improvement of thepublic health so that patients may enjoy the benefits of devices to diagnose, treat, and prevent disease;
 
 &emsp;“(2) the public health will be served by making additional funds available for the purpose of augmenting the resources of the Food and Drug Administration that are devoted to the process for the review of devices and the assurance of device safety and effectiveness so that statutorily mandated deadlines may be met; and
 

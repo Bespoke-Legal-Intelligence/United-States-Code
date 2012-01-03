@@ -48,7 +48,7 @@ In carrying out the provisions of this chapter, the Secretary, or any Government
 
 &emsp;(23) provide allowances as authorized by sections 5921 through 5928 of title 5.
 
-(Jan. 27, 1948, ch. 36, title VIII, §804, as added Pub. L. 92–352, title II, §202, July 13, 1972, 86 Stat. 493; amended Pub. L. 94–350, title II, §203, July 12, 1976, 90 Stat. 830; Pub. L. 96–60, title II, §§203(b)(2), 204(b), Aug. 15, 1979, 93 Stat. 398, 400; Pub. L. 97–241, title III, §§303(b), 304(c), (d), Aug.24, 1982, 96 Stat. 291, 293; Pub. L. 101–246, title II, §207, Feb. 16, 1990, 104 Stat. 53; Pub. L. 102–138, title II, §§204, 205, Oct. 28, 1991, 105 Stat. 692.)
+(Jan. 27, 1948, ch. 36, title VIII, §804, as added Pub. L. 92–352, title II, §202, July 13, 1972, 86 Stat. 493; amended Pub. L. 94–350, title II, §203, July 12, 1976, 90 Stat. 830; Pub. L. 96–60, title II, §§203(b)(2), 204(b), Aug. 15, 1979, 93 Stat. 398, 400; Pub. L. 97–241, title III, §§303(b), 304(c), (d), Aug. 24, 1982, 96 Stat. 291, 293; Pub. L. 101–246, title II, §207, Feb. 16, 1990, 104 Stat. 53; Pub. L. 102–138, title II, §§204, 205, Oct. 28, 1991, 105 Stat. 692.)
 
 #### References in Text
 

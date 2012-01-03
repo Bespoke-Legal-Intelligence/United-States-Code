@@ -20,7 +20,7 @@ Subsection (a) of this section shall not be construed to prohibit the voluntary 
 
 #### Codification
 
-Section was enacted as part of the Intelligence Authorization Act for Fiscal Year 1997, and not as part of the National Security Act of 1947 which comprises this chapter.
+Section was enacted as part of the Intelligence Authorization Act for Fiscal Year 1997, and not as part ofthe National Security Act of 1947 which comprises this chapter.
 
 #### Change of Name
 

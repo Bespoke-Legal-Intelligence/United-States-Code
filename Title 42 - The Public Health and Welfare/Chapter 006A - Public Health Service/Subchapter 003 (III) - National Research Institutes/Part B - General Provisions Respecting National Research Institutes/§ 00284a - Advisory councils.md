@@ -10,11 +10,11 @@
 
 &emsp;(A)(i) may on the basis of the materials provided under section 289a(b)(2) of this title respecting research conducted at the institute, make recommendations to the Director of the institute respecting such research,
 
-&emsp;(ii) may review applications for grants and cooperative agreements for research or training and for which advisory council approval is required under section 284(b)(2) of this title and recommend for approval applications for projects which show promise of making valuable contributions to human knowledge, and
+&emsp;(ii) may review applications for grants and cooperative agreements for research or training and for which advisory council approval isrequired under section 284(b)(2) of this title and recommend for approval applications for projects which show promise of making valuable contributions to human knowledge, and
 
 &emsp;(iii) may review any grant, contract, or cooperative agreement proposed to be made or entered into by the institute;
 
-&emsp;(B) may collect, by correspondence or by personal investigation, information as to studies which are being carried on in the United States or any other country as to the diseases, disorders, or other aspect of human health with respect to which the institute was established and with the approval of the Director of the institute make available such informationthrough appropriate publications for the benefit of public and private health entities and health professions personnel and scientists and for the information of the general public; and
+&emsp;(B) may collect, by correspondence or by personal investigation, information as to studies which are being carried on in the United States or any other country as to the diseases, disorders, or other aspect of human health with respect to which the institute was established and with the approval of the Director of the institute make available such information through appropriate publications for the benefit of public and private health entities and health professions personnel and scientists and for the information of the general public; and
 
 &emsp;(C) may appoint subcommittees and convene workshops and conferences.
 

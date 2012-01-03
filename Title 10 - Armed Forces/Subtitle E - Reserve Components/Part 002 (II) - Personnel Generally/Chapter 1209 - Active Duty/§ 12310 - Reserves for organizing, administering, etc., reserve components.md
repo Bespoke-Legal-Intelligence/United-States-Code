@@ -106,7 +106,7 @@ Subsec. (c)(1)(A) to (D). Pub. L. 109–364, §527(a)(1)(B), added subpars. (A) 
 
 “(B) a terrorist attack or threatened terrorist attack in the United States that results, or could result, in catastrophic loss of life or property.”
 
-Subsec. (c)(3). Pub. L. 109–364, §527(a)(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “A Reserve may perform duties described in paragraph (1) only while assigned to a reserve component rapid assessment element team and performing those duties within the geographical limits of the UnitedStates, its territories and possessions, the District of Columbia, and the Commonwealth of Puerto Rico.”
+Subsec. (c)(3). Pub. L. 109–364, §527(a)(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “A Reserve may perform duties described in paragraph (1) only while assigned to a reserve component rapid assessment element team and performing those duties within the geographical limits of the United States, its territories and possessions, the District of Columbia, and the Commonwealth of Puerto Rico.”
 
 Subsec. (c)(5). Pub. L. 109–364, §527(b)(2), substituted “weapons of mass destruction civil support team” for “rapid assessment element team”.
 

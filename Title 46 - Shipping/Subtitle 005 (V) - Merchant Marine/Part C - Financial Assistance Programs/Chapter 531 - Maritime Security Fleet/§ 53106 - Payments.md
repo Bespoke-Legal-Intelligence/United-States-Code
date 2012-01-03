@@ -46,7 +46,7 @@ Reductions in Payments.—With respect to payments under this chapter for a vess
 
 &emsp;(2) shall not make any payment for any day that the vessel is engaged in transporting more than 7,500 tons of civilian bulk preference cargoes pursuant to section 55302(a), 55305, or 55314 of this title that is bulk cargo; and
 
-&emsp;(3) shall make a pro rata reduction in payment for each day less than 320 in a fiscal year that the vessel is not operated in accordance with section 53105(a)(1), with days during which the vessel is drydocked or undergoing survey, inspection, or repair considered to be days on which the vessel is operated.
+&emsp;(3) shall make a pro rata reduction in payment for each day less than 320 in a fiscal year that the vessel is not operated in accordance with section 53105(a)(1), with days duringwhich the vessel is drydocked or undergoing survey, inspection, or repair considered to be days on which the vessel is operated.
 
 (e)
 

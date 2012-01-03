@@ -42,7 +42,7 @@ In making grants under this section, the Secretary shall give priority to any ap
 
 &emsp;&emsp;&emsp;(ii) the termination by the Bureau of such functions and office at the time of such assumption; and
 
-&emsp;&emsp;(B) provides that the assumption shall occur over the term of the grant made under this section, except that, when mutually agreeable to the tribal governing body and the Assistant Secretary, the period in whichsuch assumption is to occur may be modified, reduced, or extended after the initial year of the grant.
+&emsp;&emsp;(B) provides that the assumption shall occur over the term of the grant made under this section, except that, when mutually agreeable to the tribal governing body and the Assistant Secretary, the period in which such assumption is to occur may be modified, reduced, or extended after the initial year of the grant.
 
 #### (f) Time period of grant
 

@@ -6,7 +6,7 @@ The Corporation may approve of any of the following service positions as an appr
 
 &emsp;(2) A position for a participant in a program that—
 
-&emsp;&emsp;(A) is carried out by a State, a subdivision of a State, a territory, an Indian tribe, a public or private nonprofit organization, an institution of higher education, or a Federal agency (under an interagency agreement described in section 12571(b) of this title); and
+&emsp;&emsp;(A) is carried out by a State, a subdivision of a State, a territory, an Indian tribe, apublic or private nonprofit organization, an institution of higher education, or a Federal agency (under an interagency agreement described in section 12571(b) of this title); and
 
 &emsp;&emsp;(B) would be eligible to receive assistance under section 12571(a) of this title, based on criteria established by the Corporation, but has not applied for such assistance.
 
@@ -30,7 +30,7 @@ The Domestic Volunteer Service Act of 1973, referred to in par. (3), is Pub. L. 
 
 #### Prior Provisions
 
-A prior section 12573, Pub. L. 101–610, title I, §143, Nov. 16, 1990, 104 Stat. 3152, related to types of nationalservice, prior to the general amendment of subtitle D of title I of Pub. L. 101–610 \[former part D of this subchapter\] by Pub. L. 103–82, §102(a).
+A prior section 12573, Pub. L. 101–610, title I, §143, Nov. 16, 1990, 104 Stat. 3152, related to types of national service, prior to the general amendment of subtitle D of title I of Pub. L. 101–610 \[former part D of this subchapter\] by Pub. L. 103–82, §102(a).
 
 A prior section 123 of Pub. L. 101–610 was renumbered section 199C, and is classified to section 12655b of this title.
 

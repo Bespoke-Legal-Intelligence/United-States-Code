@@ -52,7 +52,7 @@
 
 #### (ii) Second tier above baseline Medicaid enrollees
 
-&emsp;&emsp;&emsp;An amount equal to the number of second tier above baseline child enrollees (as determined under subparagraph (C)(ii)) under subchapter XIX for the State and fiscal year, multiplied by 62.5 percent of the projected per capita State Medicaid expenditures (as determined under subparagraph (D)) for the State and fiscal year under subchapter XIX.
+&emsp;&emsp;&emsp;An amount equal to the number of second tier above baseline child enrollees (as determined under subparagraph (C)(ii)) under subchapter XIX for the State andfiscal year, multiplied by 62.5 percent of the projected per capita State Medicaid expenditures (as determined under subparagraph (D)) for the State and fiscal year under subchapter XIX.
 
 #### (C) Number of first and second tier above baseline child enrollees; baseline number of child enrollees
 
@@ -60,7 +60,7 @@
 
 #### (i) First tier above baseline child enrollees
 
-&emsp;&emsp;&emsp;The number of first tier above baseline child enrollees for a State for a fiscal yearunder subchapter XIX is equal to the number (if any, as determined by the Secretary) by which—
+&emsp;&emsp;&emsp;The number of first tier above baseline child enrollees for a State for a fiscal year under subchapter XIX is equal to the number (if any, as determined by the Secretary) by which—
 
 &emsp;&emsp;&emsp;&emsp;(I) the monthly average unduplicated number of qualifying children (as defined in subparagraph (F)) enrolled during the fiscal year under the State plan under subchapter XIX; exceeds
 
@@ -110,7 +110,7 @@
 
 #### (bb) First half of fiscal year 2013
 
-&emsp;&emsp;&emsp;&emsp;&emsp;As of December 31 of fiscal year 2013, the portion, if any, of the sum of theamounts appropriated under subsection (a)(16)(A) <sup>2</sup> and under section 108 of the Children's Health Insurance Reauthorization Act of 2009 for the period beginning on October 1, 2012, and ending on March 31, 2013, that is unobligated for allotment to a State under subsection (m) <sup>1</sup> for such fiscal year or set aside under subsection (b)(2) of section 1397kk of this title for such fiscal year.
+&emsp;&emsp;&emsp;&emsp;&emsp;As of December 31 of fiscal year 2013, the portion, if any, of the sum of the amounts appropriated under subsection (a)(16)(A) <sup>2</sup> and under section 108 of the Children's Health Insurance Reauthorization Act of 2009 for the period beginning on October 1, 2012, and ending on March 31, 2013, that is unobligated for allotment to a State under subsection (m) <sup>1</sup> for such fiscal year or set aside under subsection (b)(2) of section 1397kk of this title for such fiscal year.
 
 #### (cc) Second half of fiscal year 2013
 
@@ -216,7 +216,7 @@ For purposes of subsection (a) of this section, the “enhanced FMAP”, for a S
 
 #### (1) General limitations
 
-&emsp;Funds provided to a State under this subchapter shall only be used to carry out the purposes of this subchapter (as described in section 1397aa of this title) and may not include coverage of a nonpregnant childless adult, and any health insurance coverage provided with such funds may include coverage of abortion only if necessary to save the life of the mother or if the pregnancy is the result of an act of rape or incest. For purposes of the preceding sentence, a caretaker relative (as such term is defined for purposes of carrying out section 1396u–1 of this title) shall not be considered a childless adult.
+&emsp;Funds provided to a State under this subchapter shall only be used to carry out the purposes of this subchapter (as described insection 1397aa of this title) and may not include coverage of a nonpregnant childless adult, and any health insurance coverage provided with such funds may include coverage of abortion only if necessary to save the life of the mother or if the pregnancy is the result of an act of rape or incest. For purposes of the preceding sentence, a caretaker relative (as such term is defined for purposes of carrying out section 1396u–1 of this title) shall not be considered a childless adult.
 
 #### (2) Limitation on expenditures not used for medicaid or health insurance assistance
 
@@ -268,7 +268,7 @@ For purposes of subsection (a) of this section, the “enhanced FMAP”, for a S
 
 #### (4) Use of non-Federal funds for State matching requirement
 
-&emsp;Amounts provided by the Federal Government, or services assisted or subsidized to any significant extent by the Federal Government, may not be included in determining the amount of non-Federal contributions required under subsection (a) of this section.
+&emsp;Amounts provided by the Federal Government, or services assisted or subsidized to anysignificant extent by the Federal Government, may not be included in determining the amount of non-Federal contributions required under subsection (a) of this section.
 
 #### (5) Offset of receipts attributable to premiums and other cost-sharing
 
@@ -278,7 +278,7 @@ For purposes of subsection (a) of this section, the “enhanced FMAP”, for a S
 
 #### (A) Other health plans
 
-&emsp;&emsp;No payment shall be made to a State under this section for expenditures for child health assistance provided for a targeted low-income child under its plan to the extent that a private insurer (as defined by the Secretary by regulation and including agroup health plan (as defined in section 1167(1) of title 29), a service benefit plan, and a health maintenance organization) would have been obligated to provide such assistance but for a provision of its insurance contract which has the effect of limiting or excluding such obligation because the individual is eligible for or is provided child health assistance under the plan.
+&emsp;&emsp;No payment shall be made to a State under this section for expenditures for child health assistance provided for a targeted low-income child under its plan to the extent that a private insurer (as defined by the Secretary by regulation and including a group health plan (as defined in section 1167(1) of title 29), a service benefit plan, and a health maintenance organization) would have been obligated to provide such assistance but for a provision of its insurance contract which has the effect of limiting or excluding such obligation because the individual is eligible for or is provided child health assistance under the plan.
 
 #### (B) Other Federal governmental programs
 
@@ -334,7 +334,7 @@ For purposes of subsection (a) of this section, the “enhanced FMAP”, for a S
 
 &emsp;&emsp;&emsp;&emsp;(II) for which the employer contribution toward any premium for such coverage is at least 40 percent; and
 
-&emsp;&emsp;&emsp;&emsp;(III) that is offered to all individuals in a manner that would be considered a nondiscriminatory eligibility classification for purposes of paragraph (3)(A)(ii) of section 105(h) of the Internal RevenueCode of 1986 (but determined without regard to clause (i) of subparagraph (B) of such paragraph).
+&emsp;&emsp;&emsp;&emsp;(III) that is offered to all individuals in a manner that would be considered a nondiscriminatory eligibility classification for purposes of paragraph (3)(A)(ii) of section 105(h) of the Internal Revenue Code of 1986 (but determined without regard to clause (i) of subparagraph (B) of such paragraph).
 
 #### (ii) Exception
 
@@ -484,7 +484,7 @@ For purposes of subsection (a) of this section, the “enhanced FMAP”, for a S
 
 #### (e) Advance payment; retrospective adjustment
 
-The Secretary may make payments under this section for each quarter on the basis of advance estimates of expenditures submitted by the State and such other investigation as the Secretary may find necessary, and may reduce or increase the payments as necessary to adjust for any overpayment or underpayment for prior quarters.
+The Secretary may make payments under this section for each quarter on the basis of advance estimates of expenditures submitted by the State and such other investigation as the Secretary may find necessary, and may reduce or increase the payments as necessary to adjust forany overpayment or underpayment for prior quarters.
 
 #### (f) Flexibility in submittal of claims
 
@@ -496,7 +496,7 @@ Nothing in this section or subsections (e) and (f) of section 1397dd of this tit
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding any other provision of law, subject to paragraph (4), a qualifying State (as defined in paragraph (2)) may elect to use not more than 20 percent of any allotment under section 1397dd of this title for fiscal year 1998, 1999, 2000, 2001, 2004, 2005, 2006, 2007, or 2008 (insofar as it is available under subsections (e) and (g) of such section)for payments under subchapter XIX of this chapter in accordance with subparagraph (B), instead of for expenditures under this subchapter.
+&emsp;&emsp;Notwithstanding any other provision of law, subject to paragraph (4), a qualifying State (as defined in paragraph (2)) may elect to use not more than 20 percent of any allotment under section 1397dd of this title for fiscal year 1998, 1999, 2000, 2001, 2004, 2005, 2006, 2007, or 2008 (insofar as it is available under subsections (e) and (g) of such section) for payments under subchapter XIX of this chapter in accordance with subparagraph (B), instead of for expenditures under this subchapter.
 
 #### (B) Payments to States
 
@@ -528,9 +528,9 @@ Nothing in this section or subsections (e) and (f) of section 1397dd of this tit
 
 #### (B) Expenditures described
 
-&emsp;&emsp;For purposes of subparagraph (A), the expenditures described in this subparagraph are expenditures made after February 4, 2009, and during the period in which funds are available to the qualifying State for use under subparagraph (A), for the provision of medical assistance to individuals residing in the State who are eligible for medical assistance under the State plan under subchapter XIX or under a waiver of such plan and who have not attained age 19 (or, if a State has so elected under the State plan under subchapter XIX, age 20 or 21), and whose family income equals or exceeds 133 percent of the poverty line but does not exceed the Medicaid applicable income level.
+&emsp;&emsp;For purposes of subparagraph (A), the expenditures described in this subparagraph are expenditures made after February 4, 2009, and during the period in which funds are available to the qualifying State for use under subparagraph (A), for the provision of medical assistance to individuals residing in the State who are eligible for medical assistance under the State plan under subchapter XIX or under a waiver of such plan and who have not attained age 19 (or, if a State hasso elected under the State plan under subchapter XIX, age 20 or 21), and whose family income equals or exceeds 133 percent of the poverty line but does not exceed the Medicaid applicable income level.
 
-(Aug. 14, 1935, ch. 531, title XXI, §2105, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 560; amended Pub. L. 105–100, title I, §162(5), (7), Nov. 19, 1997, 111 Stat. 2189, 2190; Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §705(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–402; Pub. L. 106–554, §1(a)(6) \[title VIII, §802(a), (d)(4), (e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–580 to 2763A–582; Pub. L. 108–74, §1(b), Aug. 15, 2003, 117 Stat. 895; Pub. L. 108–127, §1, Nov. 17, 2003, 117 Stat. 1354; Pub. L. 109–171, title VI, §§6102(b), 6103(a), Feb. 8, 2006, 120 Stat. 131, 132; Pub. L. 109–482, title II, §201(b), Jan. 15, 2007, 120 Stat. 3701; Pub. L. 110–92, §136(d), Sept. 29, 2007, 121 Stat. 995; Pub. L. 110–173, title II, §201(b)(1), Dec. 29, 2007, 121 Stat. 2509; Pub. L. 111–3, title I, §§104,107(a), 113(a), 114(a), title II, §§201(b)(1), 202(b), 211(c), title III, §§301(a)(1), (2)(A), 302(b), title VI, §601(a), Feb. 4, 2009, 123 Stat. 17, 24, 34, 39, 40, 54, 57, 61, 63, 96; Pub. L. 111–148, title II, §§2101(a)–(c), 2102(a)(3)–(5), title X, §§10201(g), 10203(b)(3), (4), (c), (d)(2)(C), Mar. 23, 2010, 124 Stat. 286–288, 922, 927, 928, 930.)
+(Aug. 14, 1935, ch. 531, title XXI, §2105, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 560; amended Pub. L. 105–100, title I, §162(5), (7), Nov. 19, 1997, 111 Stat. 2189, 2190; Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §705(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–402; Pub. L. 106–554, §1(a)(6) \[title VIII, §802(a), (d)(4), (e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–580 to 2763A–582; Pub. L. 108–74, §1(b), Aug. 15, 2003, 117 Stat. 895; Pub. L. 108–127, §1, Nov. 17, 2003, 117 Stat. 1354; Pub. L. 109–171, title VI, §§6102(b), 6103(a), Feb. 8, 2006, 120 Stat. 131, 132; Pub. L. 109–482, title II, §201(b), Jan. 15, 2007, 120 Stat. 3701; Pub. L. 110–92, §136(d), Sept. 29, 2007, 121 Stat. 995; Pub. L. 110–173, title II, §201(b)(1), Dec. 29, 2007, 121 Stat. 2509; Pub. L. 111–3, title I, §§104, 107(a), 113(a), 114(a), title II, §§201(b)(1), 202(b), 211(c), title III, §§301(a)(1), (2)(A), 302(b), title VI, §601(a), Feb. 4, 2009, 123 Stat. 17, 24, 34, 39, 40, 54, 57, 61, 63, 96; Pub. L. 111–148, title II, §§2101(a)–(c), 2102(a)(3)–(5), title X, §§10201(g), 10203(b)(3), (4), (c), (d)(2)(C), Mar. 23, 2010, 124 Stat. 286–288, 922, 927, 928, 930.)
 
 #### References in Text
 
@@ -742,7 +742,7 @@ State option to apply meqc data.—For purposes of satisfying the requirements o
 
 “(f)
 
-Identification of Improved State-Specific Sample Sizes.—The Secretary shall establish State-specific sample sizes for application of the PERM requirements with respect to State child health plans for fiscal years beginning with the first fiscal year that begins on or after the date on which the new final rule is in effect for all States, on the basis of such information as the Secretary determines appropriate. In establishing such sample sizes, the Secretary shall, to the greatest extent practicable—
+Identification of Improved State-Specific Sample Sizes.—The Secretary shall establish State-specific sample sizes for application of the PERM requirements with respect to State child health plans for fiscal yearsbeginning with the first fiscal year that begins on or after the date on which the new final rule is in effect for all States, on the basis of such information as the Secretary determines appropriate. In establishing such sample sizes, the Secretary shall, to the greatest extent practicable—
 
 &emsp;“(1) minimize the administrative cost burden on States under Medicaid and CHIP; and
 

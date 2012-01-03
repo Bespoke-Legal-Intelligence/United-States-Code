@@ -22,11 +22,13 @@ Regulations.—Assistance under this section shall be provided in accordance wit
 
 (e)
 
-Termination.—No assistance may be provided under this section after December 31, 2011.
+Termination.—No assistance may be provided under this section after December 31, 2012.
 
-(Added Pub. L. 109–233, title I, §101(a), June 15, 2006, 120 Stat. 398; amended Pub. L. 110–289, div. B, title VI, §§2602(b)(3), (7)(B), 2604, July 30, 2008, 122 Stat. 2859–2861.)
+(Added Pub. L. 109–233, title I, §101(a), June 15, 2006, 120 Stat. 398; amended Pub. L. 110–289, div.B, title VI, §§2602(b)(3), (7)(B), 2604, July 30, 2008, 122 Stat. 2859–2861; Pub. L. 112–37, §14, Oct. 5, 2011, 125 Stat. 397.)
 
 #### Amendments
+
+<b>2011</b>—Subsec. (e). Pub. L. 112–37 substituted “2012” for “2011”.
 
 <b>2008</b>—Pub. L. 110–289, §2602(b)(7)(B), amended section catchline generally. Prior to amendment, catchline read as follows: “Assistance for veterans residing temporarily in housing owned by a family member”.
 

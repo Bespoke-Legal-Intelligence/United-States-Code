@@ -34,7 +34,7 @@ For purposes of this chapter, the term “threshold amount” means—
 
 &emsp;(1) in the case of a taxpayer making a joint return under section 6013 or a surviving spouse (as defined in section 2(a)), $250,000,
 
-&emsp;(2) in the case of a married taxpayer (as defined in section 7703) filing a separate return, 1/2 of the dollar amount determined under paragraph (1), and
+&emsp;(2) in the case of a married taxpayer (as defined in section 7703) filing a separate return, ½ of the dollar amount determined under paragraph (1), and
 
 &emsp;(3) in any other case, $200,000.
 

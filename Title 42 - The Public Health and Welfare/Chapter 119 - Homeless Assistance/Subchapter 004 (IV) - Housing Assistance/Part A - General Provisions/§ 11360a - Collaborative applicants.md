@@ -18,7 +18,7 @@ If the Secretary finds that a collaborative applicant for a geographic area does
 
 #### (d) Construction
 
-Nothing in this section shall be construed to displace conflict of interest or government fairpractices laws, or their equivalent, that govern applicants for grant amounts under parts B and C.
+Nothing in this section shall be construed to displace conflict of interest or government fair practices laws, or their equivalent, that govern applicants for grant amounts under parts B and C.
 
 #### (e) Appointment of agent
 

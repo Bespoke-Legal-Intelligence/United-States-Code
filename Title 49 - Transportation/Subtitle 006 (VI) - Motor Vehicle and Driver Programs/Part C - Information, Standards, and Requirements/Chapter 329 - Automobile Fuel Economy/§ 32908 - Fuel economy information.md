@@ -54,7 +54,7 @@ Fuel Economy Information Booklet.—(1) The Administrator shall prepare the book
 
 &emsp;(i) the energy efficiency and cost of operation of those automobiles when operated on gasoline or diesel fuel as compared to those automobiles when operated on alternative fuel; and
 
-&emsp;(ii) the driving range of those automobiles when operated on gasoline or diesel fuel as compared to those automobiles when operated on alternative fuel.
+&emsp;(ii) the driving range of those automobiles when operated on gasoline or diesel fuel ascompared to those automobiles when operated on alternative fuel.
 
 (B) For dual fueled automobiles, the booklet published under paragraph (1) also shall contain—
 
@@ -100,7 +100,7 @@ Program.—The Secretary of Transportation, in consultation with the Secretary o
 
 &emsp;&emsp;&emsp;(iii) a permanent and prominent display that an automobile is capable of operating on an alternative fuel; and
 
-&emsp;&emsp;(B) to include in the owner's manual for vehicles capable of operating on alternative fuels information that describes that capability and the benefits of using alternativefuels, including the renewable nature and environmental benefits of using alternative fuels.
+&emsp;&emsp;(B) to include in the owner's manual for vehicles capable of operating on alternative fuels information that describes that capability and the benefits of using alternative fuels, including the renewable nature and environmental benefits of using alternative fuels.
 
 &emsp;(2)
 
@@ -204,7 +204,7 @@ In subsection (b)(3)(D), the words “Secretary of Energy” are substituted for
 
 In subsection (c)(1), before clause (A), the words “compile and” are omitted as surplus.
 
-In subsection (c)(3), the words “not later than July 31, 1976” are omitted as executed. The words “make thebooklet available to prospective buyers” are substituted for “make available to prospective purchasers information compiled by the EPA Administrator under paragraph (1)” to eliminate unnecessary words.
+In subsection (c)(3), the words “not later than July 31, 1976” are omitted as executed. The words “make the booklet available to prospective buyers” are substituted for “make available to prospective purchasers information compiled by the EPA Administrator under paragraph (1)” to eliminate unnecessary words.
 
 In subsection (d), the words “which is required to be made”, “an express or implied”, and “that such fuel economy will be achieved, or that such cost will not be exceeded, under conditions of actual use” are omitted as surplus.
 

@@ -52,7 +52,7 @@ To the extent necessary to accomplish the purpose specified in subsection (a) of
 
 &emsp;&emsp;&emsp;(ii) the patient's right to request confidential communications.
 
-> Insofar as the Secretary exercises authority under paragraph (6) with respect to individualsenrolled in a Medicare+Choice plan, to the extent possible given the circumstances, the Secretary shall reconcile payments made on behalf of such enrollees to ensure that the enrollees do not pay more than would be required had they received services from providers within the network of the plan and may reconcile payments to the organization offering the plan to ensure that such organization pays for services for which payment is included in the capitation payment it receives under part C of subchapter XVIII of this chapter. A waiver or modification provided for under paragraph (3) or (7) shall only be in effect if such actions are taken in a manner that does not discriminate among individuals on the basis of their source of payment or of their ability to pay, and, except in the case of a waiver or modification to which the fifth sentence of this subsection applies, shall be limited to a 72-hour period beginning upon implementation of a hospital disaster protocol. A waiver or modification under such paragraph (7) shall be withdrawn after such period and the provider shall comply with the requirements under such paragraph for any patient still under the care of the provider. If a public health emergency described in subsection (g)(1)(B) involves a pandemic infectious disease (such as pandemic influenza), the duration of a waiver or modification under paragraph (3) shall be determined in accordance with subsection (e) as such subsection applies to public health emergencies.
+> Insofar as the Secretary exercises authority under paragraph (6) with respect to individuals enrolled in a Medicare+Choice plan, to the extent possible given the circumstances, the Secretary shall reconcile payments made on behalf of such enrollees to ensure that the enrollees do not pay more than would be required had they received services from providers within the network of the plan and may reconcile payments to the organization offering the plan to ensure that such organization pays for services for which payment is included in the capitation payment it receives under part C of subchapter XVIII of this chapter. A waiver or modification provided for under paragraph (3) or (7) shall only be in effect if such actions are taken in a manner that does not discriminate among individuals on the basis of their source of payment or of their ability to pay, and, except in the case of a waiver or modification to which the fifth sentence of this subsection applies, shall be limited to a 72-hour period beginning upon implementation of a hospital disaster protocol. A waiver or modification under such paragraph (7) shall be withdrawn after such period and the provider shall comply with the requirements under such paragraph for any patient still under the care of the provider. If a public health emergency described in subsection (g)(1)(B) involves a pandemic infectious disease (such as pandemic influenza), the duration of a waiver or modification under paragraph (3) shall be determined in accordance with subsection (e) as such subsection applies to public health emergencies.
 
 #### (c) Authority for retroactive waiver
 
@@ -102,7 +102,7 @@ For purposes of this section:
 
 &emsp;An “emergency area” is a geographical area in which, and an “emergency period” is the period during which, there exists—
 
-&emsp;&emsp;(A) an emergency or disaster declared by the President pursuant to the National Emergencies Act \[50 U.S.C. 1601 et seq.\] or the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5121 et seq.\]; and
+&emsp;&emsp;(A) an emergency or disaster declared by the President pursuant to the NationalEmergencies Act \[50 U.S.C. 1601 et seq.\] or the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5121 et seq.\]; and
 
 &emsp;&emsp;(B) a public health emergency declared by the Secretary pursuant to section 247d of this title.
 
@@ -113,8 +113,6 @@ For purposes of this section:
 (Aug. 14, 1935, ch. 531, title XI, §1135, as added Pub. L. 107–188, title I, §143(a), June 12, 2002, 116 Stat. 627; amended Pub. L. 108–276, §9, July 21, 2004, 118 Stat. 863; Pub. L. 109–417, title III, §302(b)(1), Dec. 19, 2006, 120 Stat. 2855.)
 
 #### References in Text
-
-Part C of subchapter XVIII of this chapter, referred to in subsec. (b), is classified to section 1395w–21 et seq. of this title.
 
 Section 264(c) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (b)(7), is section 264(c) of Pub. L. 104–191, which is set out as a note under section 1320d–2 of this title.
 

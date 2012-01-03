@@ -4,7 +4,7 @@
 
 #### (1) Payments during construction
 
-&emsp;The non-Federal interests for a navigation project for a harbor or inland harbor, or anyseparable element thereof, on which a contract for physical construction has not been awarded before November 17, 1986, shall pay, during the period of construction of the project, the following costs associated with general navigation features:
+&emsp;The non-Federal interests for a navigation project for a harbor or inland harbor, or any separable element thereof, on which a contract for physical construction has not been awarded before November 17, 1986, shall pay, during the period of construction of the project, the following costs associated with general navigation features:
 
 &emsp;&emsp;(A) 10 percent of the cost of construction of the portion of the project which has a depth not in excess of 20 feet; plus
 
@@ -52,7 +52,7 @@ Before initiation of construction of a project to which this section applies, th
 
 &emsp;(1) provide to the Federal Government lands, easements, and rights-of-way, including those necessary for dredged material disposal facilities, and perform the necessary relocations required for construction, operation, and maintenance of such project;
 
-&emsp;(2) hold and save the United States free from damages due to the construction or operation and maintenance of the project, except for damages due to the fault or negligence of the United States or its contractors;
+&emsp;(2) hold and save the United States free from damages due to the construction or operationand maintenance of the project, except for damages due to the fault or negligence of the United States or its contractors;
 
 &emsp;(3) provide to the Federal Government the non-Federal share of all other costs of construction of such project; and
 

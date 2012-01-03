@@ -20,7 +20,7 @@ The National Capital Transportation Act of 1965, referred to in par. (4), is Pub
 
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–541 inserted in parenthetical text “not leased by the Government for subsidized housing programs” after “structure” and struck out from par. (2) “, after construction or alteration in accordance with plans and specifications of the United States” after “August 12, 1968”.
+<b>1976</b>—Pub. L. 94–541 inserted in parenthetical text “not leased by the Government for subsidized housingprograms” after “structure” and struck out from par. (2) “, after construction or alteration in accordance with plans and specifications of the United States” after “August 12, 1968”.
 
 <b>1970</b>—Par. (4). Pub. L. 91–205 added par. (4).
 

@@ -60,7 +60,7 @@ Providing Education and Training.—Education and training of Government, State,
 
 (d)
 
-Availability of Amounts.—Not more than .5 percent of the amounts made available for a fiscal year beginning after September 30, 1991, to a State or public transportation authority in the State to carry out sections 5307 and 5309 of this title is available for expenditure by the State and public transportation authorities in the State, with the approval of the Secretary, to pay not more than 80 percent of the cost of tuition and direct educational expenses related to educating and training State and local transportation employees under this section.
+Availability of Amounts.—Not more than .5 percent of the amounts made available for a fiscal year beginning after September 30, 1991, to a State or public transportation authority inthe State to carry out sections 5307 and 5309 of this title is available for expenditure by the State and public transportation authorities in the State, with the approval of the Secretary, to pay not more than 80 percent of the cost of tuition and direct educational expenses related to educating and training State and local transportation employees under this section.
 
 (Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 813; Pub. L. 104–287, §5(13), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 105–178, title III, §3017(a), June 9, 1998, 112 Stat. 361; Pub. L. 105–206, title IX, §9009(<i>l</i>), July 22, 1998, 112 Stat. 857; Pub. L. 109–59, title III, §3017, Aug. 10, 2005, 119 Stat. 1600.)
 

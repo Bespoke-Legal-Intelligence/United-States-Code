@@ -2,7 +2,7 @@
 
 #### (a) Agreements to exchange information
 
-For the purpose of promoting responsible repayment of loans covered by Federal loan insurance pursuant to this part or covered by a guaranty agreement pursuant to section 1078 of this title, the Secretary and each guaranty agency, eligible lender, and subsequent holder shall enter into an agreement with each consumer reporting agency to exchange information concerning student borrowers, in accordance with the requirements of this section. For the purpose of assisting such consumer reporting agencies in complying with the Fair Credit Reporting Act \[15 U.S.C. 1681 et seq.\], such agreements may provide for timely response by the Secretary (concerning loans covered by Federal loan insurance) or by a guaranty agency, eligible lender, or subsequent holder (concerning loans covered by a guaranty agreement), or to requests from such consumer reporting agencies for responses to objections raised by borrowers. Subject to the requirements of subsection (c) of this section, such agreements shall require the Secretary or the guaranty agency, eligible lender, or subsequent holder, as appropriate, to disclose to such consumer reporting agencies, with respect to any loan under this part that has not been repaid by the borrower—
+For the purpose of promoting responsible repayment of loans covered by Federal loan insurance pursuant to this part or covered by a guaranty agreement pursuant to section 1078 of this title, the Secretary and each guaranty agency, eligible lender, and subsequent holder shall enter into an agreement with each consumer reporting agency to exchange information concerning student borrowers, in accordance with the requirements of this section. For the purpose of assisting such consumer reporting agencies in complying with the Fair Credit Reporting Act \[15 U.S.C. 1681 et seq.\], such agreements may provide for timely response by the Secretary (concerning loans covered by Federal loan insurance) or by a guaranty agency, eligible lender, or subsequent holder (concerning loans covered by a guaranty agreement), or torequests from such consumer reporting agencies for responses to objections raised by borrowers. Subject to the requirements of subsection (c) of this section, such agreements shall require the Secretary or the guaranty agency, eligible lender, or subsequent holder, as appropriate, to disclose to such consumer reporting agencies, with respect to any loan under this part that has not been repaid by the borrower—
 
 &emsp;(1) that the loan is an education loan (as such term is defined in section 1019 of this title);
 
@@ -32,7 +32,7 @@ Agreements entered into pursuant to this section shall contain such provisions a
 
 #### (d) Contractor status of participants
 
-A guaranty agency, eligible lender, or subsequent holder or consumer reporting agencywhich discloses or receives information under this section shall not be considered a Government contractor within the meaning of section 552a of title 5.
+A guaranty agency, eligible lender, or subsequent holder or consumer reporting agency which discloses or receives information under this section shall not be considered a Government contractor within the meaning of section 552a of title 5.
 
 #### (e) Disclosure to institutions
 
@@ -48,7 +48,7 @@ Notwithstanding paragraphs (4) and (5) of subsection (a) of section 605 of the F
 
 &emsp;(3) in the case of a borrower who reenters repayment after defaulting on a loan and subsequently goes into default on such loan, 7 years from the date the loan entered default such subsequent time.
 
-(Pub. L. 89–329, title IV, §430A, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1398; amended Pub. L. 100–50, §10(v), June 3, 1987, 101 Stat. 346; Pub. L. 102–325, title IV, §424, July 23, 1992, 106 Stat. 543; Pub. L. 103–208, §2(c)(52), Dec. 20, 1993, 107 Stat. 2467; Pub. L. 110–315, title IV, §432(a), Aug. 14, 2008, 122 Stat. 3245; Pub. L. 111–39, title IV, §402(f)(8), July 1, 2009, 123 Stat. 1944.)
+(Pub. L. 89–329, title IV, §430A, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1398; amended Pub. L. 100–50, §10(v), June 3, 1987, 101 Stat. 346; Pub. L. 102–325, title IV, §424, July 23, 1992, 106 Stat. 543; Pub. L. 103–208, §2(c)(52),Dec. 20, 1993, 107 Stat. 2467; Pub. L. 110–315, title IV, §432(a), Aug. 14, 2008, 122 Stat. 3245; Pub. L. 111–39, title IV, §402(f)(8), July 1, 2009, 123 Stat. 1944.)
 
 #### References in Text
 

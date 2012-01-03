@@ -2,29 +2,29 @@
 
 #### (a) Federal Trade Commission
 
-Compliance with this subchapter shall be enforced by the Commission, except to the extent that enforcement of the requirements imposed under this subchapter is specifically committed to another agency under subsection (b) of this section. For purpose of the exercise by the Commission of its functions and powers under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\], a violation of this subchapter shall be deemed an unfair or deceptive act or practice in violation of that Act. All of the functions and powers of the Commission under the Federal Trade Commission Act are available to the Commission to enforce compliance by any person with this subchapter, irrespective of whether that person is engaged in commerce or meets any other jurisdictional tests in the Federal Trade Commission Act, including the power to enforce the provisions of this subchapter in the same manner as if the violation had been a violation of a Federal Trade Commission trade regulation rule.
+The Federal Trade Commission shall be authorized to enforce compliance with this subchapter, except to the extent that enforcement of the requirements imposed under this subchapter is specifically committed to another Government agency under any of paragraphs (1) through (5) of subsection (b), subject to subtitle B of the Consumer Financial Protection Act of 2010 \[12 U.S.C. 5511 et seq.\]. For purpose of the exercise by the Federal Trade Commission of its functions and powers under the Federal Trade Commission Act (15 U.S.C. 41 et seq.), a violation of this subchapter shall be deemed an unfair or deceptive act or practice in violation of that Act. All of the functions and powers of the Federal Trade Commission under the Federal Trade Commission Act are available to the Federal Trade Commission to enforce compliance by any person with this subchapter, irrespective of whether that person is engaged in commerce or meets any other jurisdictional tests under the Federal Trade Commission Act, including the power to enforce the provisions of this subchapter, in the same manner as if the violation had been a violation of a Federal Trade Commission trade regulation rule.
 
 #### (b) Applicable provisions of law
 
-Compliance with any requirements imposed under this subchapter shall be enforced under—
+Subject to subtitle B of the Consumer Financial Protection Act of 2010, compliance with any requirements imposed under this subchapter shall be enforced under—
 
-&emsp;(1) section 8 of the Federal Deposit Insurance Act \[12 U.S.C. 1818\], in the case of—
+&emsp;(1) section 8 of the Federal Deposit Insurance Act \[12 U.S.C. 1818\], by the appropriate Federal banking agency, as defined in section 3(q) of the Federal Deposit Insurance Act (12 U.S.C. 1813(q)), with respect to—
 
-&emsp;&emsp;(A) national banks, and Federal branches and Federal agencies of foreign banks, by the Office of the Comptroller of the Currency;
+&emsp;&emsp;(A) national banks, Federal savings associations, and Federal branches and Federal agencies of foreign banks;
 
-&emsp;&emsp;(B) member banks of the Federal Reserve System (other than national banks), branches and agencies of foreign banks (other than Federal branches, Federal agencies, and insured State branches of foreign banks), commercial lending companies owned or controlled by foreign banks, and organizations operating under section 25 or 25(a) <sup>1</sup> of the Federal Reserve Act \[12 U.S.C. 601 et seq., 611 et seq.\], by the Board of Governors of the Federal Reserve System; and
+&emsp;&emsp;(B) member banks of the Federal Reserve System (other than national banks), branches and agencies of foreign banks (other than Federal branches, Federal agencies, and insured State branches of foreign banks), commercial lending companies owned or controlled by foreign banks, and organizations operating under section 25 or 25A of the Federal Reserve Act \[12 U.S.C. 601 et seq., 611 et seq.\]; and
 
-&emsp;&emsp;(C) banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System) and insured State branches of foreign banks, by the Board of Directors of the Federal Deposit Insurance Corporation;
+&emsp;&emsp;(C) banks and State savings associations insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System), and insured State branches of foreign banks;
 
-&emsp;(2) section 8 of the Federal Deposit Insurance Act \[12 U.S.C. 1818\], by the Director of the Office of Thrift Supervision, in the case of a savings association the deposits of which are insured by the Federal Deposit Insurance Corporation;
+&emsp;(2) the Federal Credit Union Act \[12 U.S.C. 1751 et seq.\], by the Administrator of the National Credit Union Administration with respect to any Federal credit union;
 
-&emsp;(3) the Federal Credit Union Act \[12 U.S.C. 1751 et seq.\], by the Administrator of the National Credit Union Administration with respect to any Federal credit union;
+&emsp;(3) subtitle IV of title 49, by the Secretary of Transportation, with respect to all carriers subject to the jurisdiction of the Surface Transportation Board;
 
-&emsp;(4) subtitle IV of title 49, by the Secretary of Transportation, with respect to all carriers subject to the jurisdiction of the Surface Transportation Board;
+&emsp;(4) part A of subtitle VII of title 49, by the Secretary of Transportation with respect to any air carrier or any foreign air carrier subject to that part;
 
-&emsp;(5) part A of subtitle VII of title 49, by the Secretary of Transportation with respect to any air carrier or any foreign air carrier subject to that part; and
+&emsp;(5) the Packers and Stockyards Act, 1921 \[7 U.S.C. 181 et seq.\] (except as provided in section 406 of that Act \[7 U.S.C. 226, 227\]), by the Secretary of Agriculture with respect to any activities subject to that Act; and
 
-&emsp;(6) the Packers and Stockyards Act, 1921 \[7 U.S.C. 181 et seq.\] (except as provided in section 406 of that Act \[7 U.S.C. 226, 227\]), by the Secretary of Agriculture with respect to any activities subject to that Act.
+&emsp;(6) subtitle E of the Consumer Financial Protection Act of 2010 \[12 U.S.C. 5561 et seq.\], by the Bureau, with respect to any person subject to this subchapter.
 
 > The terms used in paragraph (1) that are not defined in this subchapter or otherwise defined in section 3(s) of the Federal Deposit Insurance Act (12 U.S.C. 1813(s)) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101).
 
@@ -34,61 +34,47 @@ For the purpose of the exercise by any agency referred to in subsection (b) of t
 
 #### (d) Rules and regulations
 
-Neither the Commission nor any other agency referred to in subsection (b) of this section may promulgate trade regulation rules or other regulations with respect to the collection of debts by debt collectors as defined in this subchapter.
+Except as provided in section 1029(a) of the Consumer Financial Protection Act of 2010 \[12 U.S.C. 5519(a)\], the Bureau may prescribe rules with respect to the collection of debts by debt collectors, as defined in this subchapter.
 
 (Pub. L. 90–321, title VIII, §814, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 881; amended Pub. L. 98–443, §9(n), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 101–73, title VII, §744(n), Aug. 9, 1989, 103 Stat. 440; Pub. L. 102–242, title II, §212(e), Dec. 19, 1991, 105 Stat. 2301; Pub. L. 102–550, title XVI, §1604(a)(8), Oct. 28, 1992, 106 Stat. 4082; Pub. L. 104–88, title III, §316, Dec. 29, 1995, 109 Stat. 949; Pub. L. 111–203, title X, §1089(3), (4), July 21, 2010, 124 Stat. 2092, 2093.)
 
-#### Amendment of Section
-
-<i>Pub. L. 111–203, title X, §§1089(3), (4), 1100H, July 21, 2010, 124 Stat. 2092, 2093, 2113, provided that, effective on the designated transfer date, this section is amended as follows:</i>
-
-<i>(1) by striking subsection (a) and inserting the following:</i>
-
-#### <i>“(a) Federal Trade Commission</i>
-
-<i>“The Federal Trade Commission shall be authorized to enforce compliance with this subchapter, except to the extent that enforcement of the requirements imposed under this subchapter is specifically committed to another Government agency under any of paragraphs (1) through (5) of subsection (b), subject to subtitle B of the Consumer Financial Pro</i><i>tection Act of 2010. For purpose of the exercise by the Federal Trade Commission of its functions and powers under the Federal Trade Commission Act (15 U.S.C. 41 et seq.), a violation of this subchapter shall be deemed an unfair or deceptive act or practice in violation of that Act. All of the functions and powers of the Federal Trade Commission under the Federal Trade Commission Act are available to the Federal Trade Commission to enforce compliance by any person with this subchapter, irrespective of whether that person is engaged in commerce or meets any other jurisdictional tests under the Federal Trade Commission Act, including the power to enforce the provisions of this subchapter, in the same manner as if the violation had been a violation of a Federal Trade Commission trade regulation rule.”;</i>
-
-<i>(2) in subsection (b)—</i>
-
-<i>(A) by striking “Compliance” and inserting “Subject to subtitle B of the Consumer Financial Protection Act of 2010, compliance”;</i>
-
-<i>(B) by striking paragraphs (1) and (2) and inserting the following:</i>
-
-&emsp;<i>“(1) section 8 of the Federal Deposit Insurance Act, by the appropriate Federal banking agency, as defined in section 3(q) of the Federal Deposit Insurance Act (12 U.S.C. 1813(q)), with respect to—</i>
-
-&emsp;&emsp;<i>“(A) national banks, Federal savings associations, and Federal branches and Federal agencies of foreign banks;</i>
-
-&emsp;&emsp;<i>“(B) member banks of the Federal Reserve System (other than national banks), branches and agencies of foreign banks (other than Federal branches, Federal agencies, and insured State branches of foreign banks), commercial lending companies owned or controlled by foreign banks, and organizations operating under section 25 or 25A of the Federal Reserve Act; and</i>
-
-&emsp;&emsp;<i>“(C) banks and State savings associations insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System), and insured State branches of foreign banks;”;</i>
-
-<i>(C) by redesignating paragraphs (3) through (6) as paragraphs (2) through (5), respectively, and, in paragraph (4) (as so redesignated), by striking “and” at the end and, in paragraph (5) (as so redesignated), by striking the period at the end and inserting “; and”; and</i>
-
-<i>(D) by inserting before the undesignated matter at the end the following:</i>
-
-&emsp;<i>“(6) subtitle E of the Consumer Financial Protection Act of 2010, by the Bureau, with respect to any person subject to this subchapter.”; and</i>
-
-<i>(3) in subsection (d), by striking “Neither the Commission” and all that follows through the end of the subsection and inserting the following: “Except as provided in section 1029(a) of the Consumer Financial Protection Act of 2010, the Bureau may prescribe rules with respect to the collection of debts by debt collectors, as defined in this subchapter.”</i>
-
-<i>See Effective Date of 2010 Amendment note below.</i>
-
 #### References in Text
+
+The Consumer Financial Protection Act of 2010, referred to in subsecs. (a) and (b), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955. Subtitles B (§§1021–1029A) and E (§§1051–1058) of the Act are classified generally to parts B (§5511 et seq.) and E (§5561 et seq.), respectively, of subchapter V of chapter 53 of Title 12, Banks and Banking. For complete classification of subtitles B and E to the Code, see Tables.
 
 The Federal Trade Commission Act, referred to in subsec. (a), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
-Section 25(a) of the Federal Reserve Act, referred to in subsec. (b)(1)(B), which is classified to subchapter II (§611 et seq.) of chapter 6 of Title 12, Banks and Banking, was renumbered section 25A of that act by Pub. L. 102–242, title I, §142(e)(2), Dec. 19, 1991, 105 Stat. 2281. Section 25 of the Federal Reserve Act is classified to subchapter I (§601 et seq.) of chapter 6 of Title 12.
+Sections 25 and 25A of the Federal Reserve Act, referred to in subsec. (b)(1)(B), are classified to subchapters I (§601 et seq.) and II (§611 et seq.), respectively, of chapter 6 of Title 12, Banks and Banking.
 
-The Federal Credit Union Act, referred to in subsec. (b)(3), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified generally to chapter 14 (§1751 et seq.) of Title 12. For complete classification of this Act to the Code, see section 1751 of Title 12 and Tables.
+The Federal Credit Union Act, referred to in subsec. (b)(2), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified generally to chapter 14 (§1751 et seq.) of Title 12. For complete classification of this Act to the Code, see section 1751 of Title 12 and Tables.
 
-The Packers and Stockyards Act, 1921, referred to in subsec. (b)(6), is act Aug. 15, 1921, ch. 64, 42 Stat. 159, which is classified generally to chapter 9 (§181 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 181 of Title 7 and Tables.
+The Packers and Stockyards Act, 1921, referred to in subsec. (b)(5), is act Aug. 15, 1921, ch. 64, 42 Stat. 159, which is classified generally to chapter 9 (§181 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 181 of Title 7 and Tables.
 
 #### Codification
 
-In subsec. (b)(4), “subtitle IV of title 49” substituted for “the Acts to regulate commerce” on authority of Pub. L. 95–473, §3(b), Oct. 17, 1978, 92 Stat. 1466, the first section of which enacted subtitle IV of Title 49, Transportation.
+In subsec. (b)(3), “subtitle IV of title 49” substituted for “the Acts to regulate commerce” on authority of Pub. L. 95–473, §3(b), Oct. 17, 1978, 92 Stat. 1466, the first section of which enacted subtitle IV of Title 49, Transportation.
 
-In subsec. (b)(5), “part A of subtitle VII of title 49” substituted for “the Federal Aviation Act of 1958 \[49 App. U.S.C. 1301 et seq.\]” and “that part” substituted for “that Act” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49.
+In subsec. (b)(4), “part A of subtitle VII of title 49” substituted for “the Federal Aviation Act of 1958 \[49 App. U.S.C. 1301 et seq.\]” and “that part” substituted for “that Act” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49.
+
+Section 1089(4) of Pub. L. 111–203, which directed amendment “in subsection (d)” of the Fair Debt Collection Practices Act, was executed in subsec. (d) of this section, which is section 814 of the Act, to reflect the probable intent of Congress. See 2010 Amendment note below.
 
 #### Amendments
+
+<b>2010</b>—Subsec. (a). Pub. L. 111–203, §1089(3)(A), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “Compliance with this subchapter shall be enforced by the Commission, except to the extent that enforcement of the requirements imposed under this subchapter is specifically committed to another agency under subsection (b) of this section. For purpose of the exercise by the Commission of its functions and powers under the Federal Trade Commission Act, a violation of this subchapter shall be deemed an unfair or deceptive act or practice in violation of that Act. All of the functions and powers of the Commission under the Federal Trade Commission Act are available to the Commission to enforce compliance by any person with this subchapter, irrespective of whether that person is engaged in commerce or meets any other jurisdictional tests in the Federal Trade Commission Act, including the power to enforce the provisions of this subchapter in the same manner as if the violation had been a violation of a Federal Trade Commission trade regulation rule.”
+
+Subsec. (b). Pub. L. 111–203, §1089(3)(B)(i), substituted “Subject to subtitle B of the Consumer Financial Protection Act of 2010, compliance” for “Compliance” in introductory provisions.
+
+Subsec. (b)(1). Pub. L. 111–203, §1089(3)(B)(ii), added par. (1) and struck out former par. (1) which read as follows: “section 8 of the Federal Deposit Insurance Act, in the case of—
+
+&emsp;“(A) national banks, and Federal branches and Federal agencies of foreign banks, by the Office of the Comptroller of the Currency;
+
+&emsp;“(B) member banks of the Federal Reserve System (other than national banks), branches and agencies of foreign banks (other than Federal branches, Federal agencies, and insured State branches of foreign banks), commercial lending companies owned or controlled by foreign banks, and organizations operating under section 25 or 25(a) of the Federal Reserve Act,by the Board of Governors of the Federal Reserve System; and
+
+&emsp;“(C) banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System) and insured State branches of foreign banks, by the Board of Directors of the Federal Deposit Insurance Corporation;”.
+
+Subsec. (b)(2) to (6). Pub. L. 111–203, §1089(3)(B)(ii)–(vi), added par. (6), redesignated former pars. (3) to (6) as (2) to (5), respectively, and struck out former par. (2) which read as follows: “section 8 of the Federal Deposit Insurance Act, by the Director of the Office of Thrift Supervision, in the case of a savings association the deposits of which are insured by the Federal Deposit Insurance Corporation;”.
+
+Subsec. (d). Pub. L. 111–203, §1089(4), substituted “Except as provided in section 1029(a) of the Consumer Financial Protection Act of 2010, the Bureau may prescribe rules with respect to the collection of debts by debt collectors, as defined in this subchapter” for “Neither the Commission nor any other agency referred to in subsection (b) of this section may promulgate trade regulation rules or other regulations with respect to the collection of debts by debt collectors as defined in this subchapter”. See Codification note above.
 
 <b>1995</b>—Subsec. (b)(4). Pub. L. 104–88 substituted “Secretary of Transportation, with respect to all carriers subject to the jurisdiction of the Surface Transportation Board” for “Interstate Commerce Commission with respect to any common carrier subject to those Acts”.
 
@@ -110,7 +96,7 @@ Pub. L. 102–242, §212(e)(1), added par. (1) and struck out former par. (1) wh
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L.111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1995 Amendment
 
@@ -127,6 +113,4 @@ Amendment by Pub. L. 98–443 effective Jan. 1, 1985, see section 9(v) of Pub. L
 #### Transfer of Functions
 
 Functions vested in Administrator of National Credit Union Administration transferred and vested in National Credit Union Administration Board pursuant to section 1752a of Title 12, Banks and Banking.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -10,3 +10,5 @@ This chapter, referred to in text, was in the original “this Act” and was tr
 
 S. Con. Res. 21 (110th Congress), referred to in text, is S. Con. Res. 21, May 17, 2007, 121 Stat. 2590, which is not classified to the Code.
 
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
+

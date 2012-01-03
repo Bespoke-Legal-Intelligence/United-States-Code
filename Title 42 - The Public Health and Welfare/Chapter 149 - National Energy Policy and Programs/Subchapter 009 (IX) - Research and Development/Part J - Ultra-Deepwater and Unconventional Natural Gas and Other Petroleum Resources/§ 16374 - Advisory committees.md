@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) individuals with extensive research experience or operational knowledge of offshore natural gas and other petroleum exploration and production;
 
-&emsp;&emsp;(B) individuals broadly representative of the affected interests in ultra-deepwater natural gas and other petroleum production, including interests in environmental protection and safe operations;
+&emsp;&emsp;(B) individuals broadly representative of the affected interests in ultra-deepwaternatural gas and other petroleum production, including interests in environmental protection and safe operations;
 
 &emsp;&emsp;(C) no individuals who are Federal employees; and
 

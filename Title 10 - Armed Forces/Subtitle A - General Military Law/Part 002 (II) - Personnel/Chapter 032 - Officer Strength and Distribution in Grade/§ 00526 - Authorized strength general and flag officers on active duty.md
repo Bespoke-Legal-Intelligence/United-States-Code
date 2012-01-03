@@ -14,7 +14,7 @@ Limitations.—The number of general officers on active duty in the Army, Air Fo
 
 (b)
 
-Limited Exclusion for Joint Duty Requirements.—(1) The Secretary of Defense may designate up to 324 general officer and flag officer positions that are joint duty assignments for purposes of chapter 38 of this title for exclusion from the limitations in subsection (a). The Secretary of Defense shall allocate those exclusions to the armed forces based on the number of general or flag officers required from each armed force for assignment to these designated positions.
+Limited Exclusion for Joint Duty Requirements.—(1) The Secretary of Defense may designate up to 310 general officer and flag officer positions that are joint duty assignments for purposes of chapter 38 of this title for exclusion from the limitations in subsection (a). The Secretary of Defense shall allocate those exclusions to the armed forces based on the number of general or flag officers required from each armed force for assignment to these designated positions.
 
 (2) Unless the Secretary of Defense determines that a lower number is in the best interest of the Department, the minimum number of officers serving in positions designated under paragraph (1) for each armed force shall be as follows:
 
@@ -78,19 +78,43 @@ Temporary Exclusion for Assignment to Certain Temporary Billets.—(1) The limit
 
 Exclusion of Officers Departing From Joint Duty Assignments.—The limitations in subsection (a) do not apply to an officer released from a joint duty assignment, but only during the 60-day period beginning on the date the officer departs the joint duty assignment. The Secretary of Defense may authorize the Secretary of a military department to extend the 60-day period by an additional 120 days, except that not more than three officers on active duty from each armed force may be covered by an extension under this sentence at the same time.
 
-(Added Pub. L. 100–370, §1(b)(1)(B), July 19, 1988, 102 Stat. 840; amended Pub. L. 101–510, div. A, title IV, §403(a), Nov. 5, 1990, 104 Stat. 1545; Pub. L. 102–484, div. A, title IV, §403, Oct. 23, 1992, 106 Stat. 2398; Pub. L. 103–337, div. A, title IV, §404, title V, §512, Oct. 5, 1994, 108 Stat. 2744, 2752; Pub. L. 104–106, div. A, title XV, §§1502(a)(1), 1503(a)(3), Feb. 10, 1996, 110 Stat. 502, 510; Pub. L. 104–201, div. A, title IV, §405, Sept. 23, 1996, 110 Stat. 2506; Pub. L. 105–261, div. A, title IV, §405, Oct. 17, 1998, 112 Stat. 1996; Pub. L. 106–65, div. A, title V, §553, title X, §1067(1), Oct. 5, 1999, 113 Stat. 615, 774; Pub. L. 107–314, div. A, title IV, §405(c), title X, §1041(a)(3), Dec. 2, 2002, 116 Stat. 2526, 2645; Pub. L. 108–136, div. A, title V, §504(c), Nov. 24, 2003, 117 Stat. 1457; Pub. L. 109–163, div. A, title V, §§503(b), 510, 515(b)(1)(C), Jan. 6, 2006, 119 Stat. 3226, 3231, 3233; Pub. L. 109–364, div. A, title V, §507(c), Oct. 17, 2006, 120 Stat. 2180; Pub. L. 110–181, div. A, title V, §502, title XVIII, §1824(c), Jan. 28, 2008, 122 Stat. 95, 501; Pub. L. 110–417, \[div. A\], title V, §§503(a)–(c), 525, Oct. 14, 2008, 122 Stat. 4433, 4448; Pub. L. 111–84, div. A, title V, §502(e)–(g), Oct. 28, 2009, 123 Stat. 2275, 2276.)
+(Added Pub. L. 100–370, §1(b)(1)(B), July 19, 1988, 102 Stat. 840; amended Pub. L. 101–510, div. A, title IV, §403(a), Nov. 5, 1990, 104 Stat. 1545; Pub. L. 102–484, div. A, title IV, §403, Oct. 23, 1992, 106 Stat. 2398; Pub. L. 103–337, div. A, title IV, §404, title V, §512, Oct. 5, 1994, 108 Stat. 2744, 2752; Pub. L. 104–106, div. A, title XV, §§1502(a)(1), 1503(a)(3), Feb. 10, 1996, 110 Stat. 502, 510; Pub. L. 104–201, div. A, title IV, §405, Sept. 23, 1996, 110 Stat. 2506; Pub. L. 105–261, div. A, title IV, §405, Oct. 17, 1998, 112 Stat. 1996; Pub. L. 106–65, div. A, title V, §553, title X, §1067(1), Oct. 5, 1999, 113 Stat. 615, 774; Pub. L. 107–314, div. A, title IV, §405(c), title X, §1041(a)(3), Dec. 2, 2002, 116 Stat. 2526, 2645; Pub. L. 108–136, div. A, title V, §504(c), Nov. 24, 2003, 117 Stat. 1457; Pub. L. 109–163, div. A, title V, §§503(b), 510, 515(b)(1)(C), Jan. 6, 2006, 119 Stat. 3226, 3231, 3233; Pub. L. 109–364, div. A, title V, §507(c), Oct. 17, 2006, 120 Stat. 2180; Pub. L. 110–181, div. A, title V, §502, title XVIII, §1824(c), Jan. 28, 2008, 122 Stat. 95, 501; Pub. L. 110–417, \[div. A\], title V, §§503(a)–(c), 525, Oct. 14, 2008, 122 Stat. 4433, 4448; Pub. L. 111–84, div. A, title V, §502(e)–(g), Oct. 28, 2009, 123 Stat. 2275, 2276; Pub. L. 112–81, div. A, title V, §502(b)(1), (c)(1), Dec. 31, 2011, 125 Stat. 1387.)
+
+#### Amendment of Subsections (a) and (b)(2)(C)
+
+<i>Pub. L. 112–81, div. A, title V, §502(b)(1), (3), Dec. 31, 2011, 125 Stat. 1387, provided that effective Oct. 1, 2013, this section is amended:</i>
+
+<i>(1) in subsection (a)—</i>
+
+<i>(A) in paragraph (1), by striking “230” and inserting “231”;</i>
+
+<i>(B) in paragraph (2), by striking “160” and inserting “161”;</i>
+
+<i>(C) in paragraph (3), by striking “208” and inserting “198”;</i>
+
+<i>(D) in paragraph (4), by striking “60” and inserting “61”; and</i>
+
+<i>(2) in subsection (b)(2)(C), by striking “76” and inserting “73”.</i>
+
+<i>See 2011 Amendment notes below.</i>
 
 #### Historical and Revision Notes
 
 Section is based on Pub. L. 95–79, title VIII, §811(a), July 30, 1977, 91 Stat. 335, as amended by Pub. L. 96–107, title VIII, §817, Nov. 9, 1979, 93 Stat. 818; Pub. L. 96–342, title X, §1003, Sept. 8, 1980, 94 Stat. 1120; Pub. L. 97–86, title VI, §602, Dec. 1, 1981, 95 Stat. 1110.
 
-Present law (section 811(a) of Public Law 95–79, as amended) provides that the authority to suspend the limitation on the number of general and flag officers who may be serving on active duty applies during war or national emergency. In codifying the limitation (in section 526 of title 10 as proposed to be added by section 1(b) of the bill), the committee determined that the same war and emergency waiver authority as applies toother limitations on the number of officers on active duty under the existing 10 U.S.C. 526 (redesignated as 10 U.S.C. 527 by the bill) should apply with respect to this limitation and accordingly amended the suspension authority in present law to include the codified general and flag officer limitation. This authority is slightly different from the waiver authority in the source law in that the suspension would expire 2 years after it takes effect or 1 year after the end of the war or national emergency, whichever occurs first, rather than upon termination of the war or emergency.
+Present law (section 811(a) of Public Law 95–79, as amended) provides that the authority to suspend the limitation on the number of general and flag officers who may be serving on active duty applies during war or national emergency. In codifying the limitation (in section 526 of title 10 as proposed to be added by section 1(b) of the bill), the committee determined that thesame war and emergency waiver authority as applies to other limitations on the number of officers on active duty under the existing 10 U.S.C. 526 (redesignated as 10 U.S.C. 527 by the bill) should apply with respect to this limitation and accordingly amended the suspension authority in present law to include the codified general and flag officer limitation. This authority is slightly different from the waiver authority in the source law in that the suspension would expire 2 years after it takes effect or 1 year after the end of the war or national emergency, whichever occurs first, rather than upon termination of the war or emergency.
 
 #### Prior Provisions
 
 A prior section 526 was renumbered section 527 of this title.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (a). Pub. L. 112–81, §502(b)(1)(A), substituted “231” for “230” in par. (1), “161” for “160” in par. (2), “198” for “208” in par. (3), and “61” for “60” in par. (4).
+
+Subsec. (b)(1). Pub. L. 112–81, §502(c)(1), substituted “310” for “324”.
+
+Subsec. (b)(2)(C). Pub. L. 112–81, §502(b)(1)(B), substituted “73” for “76”.
 
 <b>2009</b>—Subsec. (a). Pub. L. 111–84, §502(e), substituted “230” for “307” in par. (1), “160” for “216” in par. (2), “208” for “279” in par. (3), and “60” for “81” in par. (4).
 
@@ -176,7 +200,13 @@ Subsecs. (d), (e). Pub. L. 103–337, §512, added subsecs. (d) and (e).
 
 Subsec. (c). Pub. L. 102–484, §403(a), added subsec. (c).
 
-<b>1990</b>—Pub. L. 101–510 amended section generally. Prior to amendment, text read as follows: “The total number of general officers on active duty in the Army, Air Force, and Marine Corps and flag officers on active duty in the Navy may not exceed 1,073.”
+<b>1990</b>—Pub. L. 101–510 amended section generally. Prior to amendment, text read as follows: “The total numberof general officers on active duty in the Army, Air Force, and Marine Corps and flag officers on active duty in the Navy may not exceed 1,073.”
+
+#### Effective Date of 2011 Amendment
+
+Amendment by section 502(b)(1) of Pub. L. 112–81 effective Oct. 1, 2013, see section 502(b)(3) of Pub. L. 112–81, set out as a note under section 525 of this title.
+
+Pub. L. 112–81, div. A, title V, §502(c)(2), Dec. 31, 2011, 125 Stat. 1387, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on January 1, 2012.”
 
 #### Effective Date of 1990 Amendment
 

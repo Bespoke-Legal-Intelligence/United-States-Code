@@ -146,7 +146,7 @@ In the case of stock of a passive foreign investment company which is acquired b
 
 &emsp;&emsp;&emsp;(i) section 1291 shall not apply to such stock with respect to any distribution or disposition during, or amount included in gross income under this section for, such first taxable year, but
 
-&emsp;&emsp;&emsp;(ii) such regulated investment company's tax under this chapter for such firsttaxable year shall be increased by the aggregate amount of interest which would have been determined under section 1291(c)(3) if section 1291 were applied without regard to this subparagraph.
+&emsp;&emsp;&emsp;(ii) such regulated investment company's tax under this chapter for such first taxable year shall be increased by the aggregate amount of interest which would have been determined under section 1291(c)(3) if section 1291 were applied without regard to this subparagraph.
 
 > &emsp;&emsp;Clause (ii) shall not apply if for the preceding taxable year the company elected to mark to market the stock held by such company as of the last day of such preceding taxable year.
 
@@ -210,5 +210,5 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 #### Effective Date
 
-Section applicable to taxable years of United States persons beginning after Dec. 31, 1997, and to taxable years of foreign corporations ending with or within such taxable years of United States persons, see section 1124 of Pub. L. 105–34, set out as an Effective Date of 1997 Amendment note under section 532 of this title.
+Section applicable to taxable years of United States persons beginning after Dec. 31, 1997, and to taxableyears of foreign corporations ending with or within such taxable years of United States persons, see section 1124 of Pub. L. 105–34, set out as an Effective Date of 1997 Amendment note under section 532 of this title.
 

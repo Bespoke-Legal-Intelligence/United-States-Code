@@ -20,5 +20,25 @@ The Secretary is authorized and empowered to waive compliance with any rule or r
 
 The aggregate amount of loans and advances insured under this section shall not exceed $1,500,000,000 at any one time.
 
-(Pub. L. 94–50, title I, §105, July 2, 1975, 89 Stat. 251.)
+(Pub. L. 94–50, title I, §105, July 2, 1975, 89 Stat. 251; Pub. L. 111–203, title XIV, §1496(b)(3), July 21, 2010, 124 Stat. 2208.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title XIV, §§1400(c), 1496(b)(3), July 21, 2010, 124 Stat. 2136, 2208, provided that this section is amended, effective on the date on which final regulations implementing such amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date:</i>
+
+<i>(1) by striking out subsection (b);</i>
+
+<i>(2) in subsection (e), by inserting “and emergency mortgage relief payments made under section 2705 of this title” after “insured under this section” and substituting “$3,000,000,000” for “$1,500,000,000 at any one time”;</i>
+
+<i>(3) by redesignating subsections (c), (d), and (e) as (b), (c), and (d), respectively; and</i>
+
+<i>(4) by adding at the end the following:</i>
+
+<i>“(e) The Secretary shall establish underwriting guidelines or procedures to allocate amounts made available for loans and advances insured under this section and for emergency relief payments made under section 2705 of this title based on the likelihood that a mortgagor will be able to resume mortgage payments, pursuant to the requirement under section 2702(5) of this title.”</i>
+
+<i>See Effective Date of 2010 Amendment note below.</i>
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as a note under section 1601 of Title 15, Commerce and Trade.
 

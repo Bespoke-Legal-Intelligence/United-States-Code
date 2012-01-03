@@ -80,7 +80,7 @@ For purposes of this part, the term “qualified veterans’ mortgage bond” me
 
 #### (2) For an issue
 
-&emsp;An issue meets the requirements of this subsection only if all of the residences for whichowner-financing is provided under the issue meet the requirements of paragraph (1).
+&emsp;An issue meets the requirements of this subsection only if all of the residences for which owner-financing is provided under the issue meet the requirements of paragraph (1).
 
 #### (d) 3-year requirement
 
@@ -170,7 +170,7 @@ For purposes of this part, the term “qualified veterans’ mortgage bond” me
 
 #### (B) Income requirements for residences in high housing cost area
 
-&emsp;&emsp;The percentage determined under this subparagraph for a residence located in a highhousing cost area is the percentage (not greater than 140 percent) equal to the product of—
+&emsp;&emsp;The percentage determined under this subparagraph for a residence located in a high housing cost area is the percentage (not greater than 140 percent) equal to the product of—
 
 &emsp;&emsp;&emsp;(I) 115 percent, and
 
@@ -462,7 +462,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the value of services performed by the mortgagor or members of his family in completing the residence, and
 
-&emsp;&emsp;&emsp;(iii) the cost of land (other than land described in subsection (i)(1)(C)(i)) which has been owned by the mortgagor for at least2 years before the date on which construction of the residence begins.
+&emsp;&emsp;&emsp;(iii) the cost of land (other than land described in subsection (i)(1)(C)(i)) which has been owned by the mortgagor for at least 2 years before the date on which construction of the residence begins.
 
 #### (C) Special rule for qualified rehabilitation loans
 
@@ -554,7 +554,7 @@ For purposes of this section—
 
 #### (C) Limited equity cooperative housing
 
-&emsp;&emsp;For purposes of this paragraph, the term “limited equity cooperative housing” meansany dwelling unit which a person is entitled to occupy by reason of his ownership of stock in a qualified cooperative housing corporation.
+&emsp;&emsp;For purposes of this paragraph, the term “limited equity cooperative housing” means any dwelling unit which a person is entitled to occupy by reason of his ownership of stock in a qualified cooperative housing corporation.
 
 #### (D) Qualified cooperative housing corporation
 
@@ -624,7 +624,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) subsection (d) (relating to 3-year requirement) shall not apply, and
 
-&emsp;&emsp;&emsp;(iii) subsection (e) (relating to purchase price requirement) shall be applied byusing the market value of the residence at the time of refinancing in lieu of the acquisition cost.
+&emsp;&emsp;&emsp;(iii) subsection (e) (relating to purchase price requirement) shall be applied by using the market value of the residence at the time of refinancing in lieu of the acquisition cost.
 
 #### (C) Qualified subprime loan
 
@@ -650,7 +650,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;At the election of the taxpayer, if the principal residence (within the meaning of section 121) of such taxpayer was damaged as the result of a federally declared disaster occurring before January 1, 2010, any owner-financing provided in connection with the repair or reconstruction of such residence shall be treated as a qualified rehabilitation loan.
+&emsp;&emsp;&emsp;At the election of the taxpayer, if the principal residence (within the meaning ofsection 121) of such taxpayer was damaged as the result of a federally declared disaster occurring before January 1, 2010, any owner-financing provided in connection with the repair or reconstruction of such residence shall be treated as a qualified rehabilitation loan.
 
 #### (ii) Limitation
 
@@ -871,7 +871,7 @@ An issue meets the requirements of this subsection only if it meets the requirem
 
 #### (ii) Retirements of indebtedness
 
-&emsp;&emsp;&emsp;If the federally-subsidized indebtedness is completely repaid during any year of the 4-year period beginning on the testing date, the holding period percentage for succeeding years shall be determined by reducing ratably to zero over the succeeding 5 years the holding period percentagewhich would have been determined under this subparagraph had the taxpayer disposed of his interest in the residence on the date of the repayment.
+&emsp;&emsp;&emsp;If the federally-subsidized indebtedness is completely repaid during any year of the 4-year period beginning on the testing date, the holding period percentage for succeeding years shall be determined by reducing ratably to zero over the succeeding 5 years the holding period percentage which would have been determined under this subparagraph had the taxpayer disposed of his interest in the residence on the date of the repayment.
 
 #### (D) Testing date
 
@@ -1055,7 +1055,7 @@ Subsec. (m)(5). Pub. L. 101–508, §11408(c)(2)(C)(i), added heading and struck
 
 Subsec. (m)(5)(A). Pub. L. 101–508, §11408(c)(2)(C)(i), added subpar. (A) and struck out former subpar. (A) “In general” which read as follows: “The recapture amount which would (but for this paragraph) apply with respect to any disposition during a taxable year shall be reduced (but not below zero) by 2 percent of such amount for each $100 by which adjusted qualifying income exceeds the modified adjusted gross income of the taxpayer for such year.”
 
-Subsec. (m)(5)(B), (C). Pub. L. 101–508, §11408(c)(2)(C), redesignated subpar. (C) as (B), substituted “paragraph (4)” for “this paragraph” in introductory provisions, and struck out former subpar. (B) “Adjusted qualifying income” which read as follows: “For purposes of this paragraph, the term ‘adjusted qualifying income’ means the amount equal to the sum of—
+Subsec. (m)(5)(B), (C). Pub. L. 101–508, §11408(c)(2)(C), redesignated subpar. (C) as (B), substituted “paragraph (4)” for “this paragraph” in introductory provisions, and struck out former subpar. (B) “Adjusted qualifyingincome” which read as follows: “For purposes of this paragraph, the term ‘adjusted qualifying income’ means the amount equal to the sum of—
 
 &emsp;“(i) $5,000, plus
 

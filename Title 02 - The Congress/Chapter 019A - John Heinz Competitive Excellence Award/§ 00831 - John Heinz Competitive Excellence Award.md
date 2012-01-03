@@ -54,7 +54,7 @@ There is hereby established the John Heinz Competitive Excellence Award, which s
 
 #### (1) In general
 
-&emsp;The Majority and Minority Leaders of the Senate and the Speaker and the Minority Leader of the House of Representatives shallmake the award to an individual and an organization, institution, or business that has demonstrated excellence in promoting United States industrial competitiveness in the international marketplace through technological innovation, productivity improvement, or improved competitive strategies.
+&emsp;The Majority and Minority Leaders of the Senate and the Speaker and the Minority Leader of the House of Representatives shall make the award to an individual and an organization, institution, or business that has demonstrated excellence in promoting United States industrial competitiveness in the international marketplace through technological innovation, productivity improvement, or improved competitive strategies.
 
 #### (2) Ceremonies
 

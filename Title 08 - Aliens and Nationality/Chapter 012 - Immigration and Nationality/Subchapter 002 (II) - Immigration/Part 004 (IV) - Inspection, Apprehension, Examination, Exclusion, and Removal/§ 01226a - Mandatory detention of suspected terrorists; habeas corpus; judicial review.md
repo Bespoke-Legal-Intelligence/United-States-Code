@@ -8,7 +8,7 @@
 
 #### (2) Release
 
-&emsp;Except as provided in paragraphs (5) and (6), the Attorney General shall maintain custody of such an alien until the alien is removed from the United States. Except as provided in paragraph (6), such custody shall be maintained irrespective of any relief from removal for which the alien may be eligible, or any relief from removal granted the alien, until the Attorney General determines that the alien is no longer an alien who may be certified under paragraph (3). If the alien is finally determined not to be removable, detention pursuant to this subsection shall terminate.
+&emsp;Except as provided in paragraphs (5) and (6), the Attorney General shall maintain custody of such an alien until the alien is removed from the United States. Except as provided inparagraph (6), such custody shall be maintained irrespective of any relief from removal for which the alien may be eligible, or any relief from removal granted the alien, until the Attorney General determines that the alien is no longer an alien who may be certified under paragraph (3). If the alien is finally determined not to be removable, detention pursuant to this subsection shall terminate.
 
 #### (3) Certification
 

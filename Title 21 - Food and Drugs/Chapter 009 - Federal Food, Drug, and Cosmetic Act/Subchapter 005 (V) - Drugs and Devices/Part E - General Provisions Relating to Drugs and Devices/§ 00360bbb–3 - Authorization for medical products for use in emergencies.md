@@ -150,7 +150,7 @@ An authorization of a product under this section shall state—
 
 &emsp;&emsp;(A) For a manufacturer of the product who carries out any activity for which the authorization is issued, the Secretary shall, to the extent practicable given the circumstances of the emergency, establish conditions described in clauses (i) and (ii) of paragraph (1)(A), and may establish conditions described in clauses (iii) and (iv) of such paragraph.
 
-&emsp;&emsp;(B)(i) If the authorization under this section regarding the emergency use authorizes a change in the labeling of the product, but the manufacturer of the product chooses not to make such change, such authorization may not authorize distributors of the product or any other person to alter or obscure the labeling provided by the manufacturer.
+&emsp;&emsp;(B)(i) If the authorization under this section regarding the emergency use authorizes a change in the labeling of the product, but the manufacturer of the product chooses notto make such change, such authorization may not authorize distributors of the product or any other person to alter or obscure the labeling provided by the manufacturer.
 
 &emsp;&emsp;(ii) In the circumstances described in clause (i), for a person who does not manufacture the product and who chooses to act under this clause, an authorization under this section regarding the emergency use shall, to the extent practicable given the circumstances of the emergency, authorize such person to provide appropriate information with respect to such product in addition to the labeling provided by the manufacturer, subject to compliance with clause (i). While the authorization under this section is effective, such additional information shall not be considered labeling for purposes of section 352 of this title.
 
@@ -214,7 +214,7 @@ The following applies with respect to this section:
 
 #### (k) Relation to other provisions
 
-If a product is the subject of an authorization under this section, the use of such product within the scope of the authorization shall not be considered to constitute a clinical investigation for purposes of section 355(i) of this title, section 360j(g) of this title, or any other provision of this chapter or section 262 of title 42.
+If a product is the subject of an authorization under this section, the use of such product within the scope of the authorization shall not beconsidered to constitute a clinical investigation for purposes of section 355(i) of this title, section 360j(g) of this title, or any other provision of this chapter or section 262 of title 42.
 
 #### (<i>l</i>) Option to carry out authorized activities
 

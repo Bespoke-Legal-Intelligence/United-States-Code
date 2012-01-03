@@ -36,7 +36,7 @@ Action by military judge.—The military judge shall grant the request of the tr
 
 (c)
 
-Reconsideration.—An order of a military judge authorizing a request of the trial counsel to substitute, summarize, withhold, or prevent access to classified information under this section is not subject to a motion for reconsideration by the accused, if such order was enteredpursuant to an ex parte showing under this section.
+Reconsideration.—An order of a military judge authorizing a request of the trial counsel to substitute, summarize, withhold, or prevent access to classified information under this section is not subject to a motion for reconsideration by the accused, if such order was entered pursuant to an ex parte showing under this section.
 
 (Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2592.)
 

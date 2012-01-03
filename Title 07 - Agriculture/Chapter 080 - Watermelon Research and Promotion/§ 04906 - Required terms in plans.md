@@ -90,7 +90,7 @@ The plan shall provide that the Board shall have the authority to establish rule
 
 #### Amendments
 
-1993—Subsec. (c). Pub. L. 103–189, §§4, 8(d), designated existing provisions as par. (1), substituted “other members of the Board” for “producer and handler members of the Board” in second sentence, and added pars. (2) and (3).
+<b>1993</b>—Subsec. (c). Pub. L. 103–189, §§4, 8(d), designated existing provisions as par. (1), substituted “other members of the Board” for “producer and handler members of the Board” in second sentence, and added pars. (2) and (3).
 
 Subsec. (f). Pub. L. 103–189, §§5(1), 6, substituted “payment of the assessments to the Board.” for “collection of the assessments by the Board” and inserted at end “In fixing or changing the rate of assessment pursuant to the plan, the Secretary shall comply with the notice and comment procedures established under section 553 of title 5. Sections 556 and 557 of such title shall not apply with respect to fixing or changing the rate of assessment.”
 

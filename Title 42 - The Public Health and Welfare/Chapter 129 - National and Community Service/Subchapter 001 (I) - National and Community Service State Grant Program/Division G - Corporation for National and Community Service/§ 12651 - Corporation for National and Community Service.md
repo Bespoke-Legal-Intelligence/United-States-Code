@@ -72,7 +72,7 @@ Definitions.—For purposes of this subsection, unless otherwise provided or ind
 
 &emsp;“(A) the term ‘Chief Executive Officer’ means the Chief Executive Officer of the Corporation;
 
-&emsp;“(B) the term ‘Corporation’ means the Corporation for National and Community Service, established under section 191 of the National and Community Service Act of 1990 \[42 U.S.C. 12651\];
+&emsp;“(B) the term ‘Corporation’ means the Corporation for National and Community Service, establishedunder section 191 of the National and Community Service Act of 1990 \[42 U.S.C. 12651\];
 
 &emsp;“(C) the term ‘Federal agency’ has the meaning given to the term ‘agency’ by section 551(1) of title 5, United States Code;
 
@@ -334,7 +334,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>The President's Council on Service and Civic Participation</i>. (a) There is hereby established within the Corporation for National and Community Services \[Service\] (CNCS) the President's Council on Service and Civic Participation (Council).
 
-(b) The Council shall be composed of up to 25 members, including representatives of America's youth, appointed by the President. Each member shall serve for a term of 2 years and may continue to serve after the expiration of their term until a successor is appointed. The President shall designate one member to serve as Chair and one member to serve as Vice Chair. Subject to the direction of the Chief Executive Officer of the CNCS, the Chair, and in the Chair's absence the Vice Chair, shall convene and preside at the meetings of the Council, determine its agenda, and direct its work.
+(b) The Council shall be composed of up to 25 members, including representatives of America's youth, appointed by the President. Each member shall serve for a term of 2 years and may continue to serve after the expiration of their term until a successor is appointed. The President shall designate one member to serve as Chair and one member to serve as Vice Chair. Subjectto the direction of the Chief Executive Officer of the CNCS, the Chair, and in the Chair's absence the Vice Chair, shall convene and preside at the meetings of the Council, determine its agenda, and direct its work.
 
 (c) To conduct and vote on official business during meetings, the Council must convene a quorum of at least 10 Council members.
 

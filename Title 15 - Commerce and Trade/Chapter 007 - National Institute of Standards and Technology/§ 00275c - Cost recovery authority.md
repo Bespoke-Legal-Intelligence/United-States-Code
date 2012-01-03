@@ -18,7 +18,7 @@ Section was not enacted as part of the National Institute and Technology Act whi
 
 #### Effective Date
 
-Section 5(c) of Pub. L. 99–73 provided that: “The amendments made by subsection (a) \[amending section 278b of this title\] (and the provisions of subsection (b) \[enacting this section\]) shall be effective October 1, 1984.”
+Pub. L. 99–73, §5(c), July 29, 1985, 99 Stat. 172, provided that: “The amendments made by subsection (a) \[amending section 278b of this title\] (and the provisions of subsection (b) \[enacting this section\]) shall be effective October 1, 1984.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

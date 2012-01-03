@@ -12,5 +12,5 @@ For purposes of this subchapter—
 
 #### Amendments
 
-2006—Par. (2). Pub. L. 109–351 and 109–356 amended par. (2) identically, striking out “or closed banks in the District of Columbia” after “closed national banks”.
+<b>2006</b>—Par. (2). Pub. L. 109–351 and 109–356 amended par. (2) identically, striking out “or closed banks in the District of Columbia” after “closed national banks”.
 

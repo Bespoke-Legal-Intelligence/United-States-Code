@@ -80,7 +80,7 @@
 
 &emsp;(B) in the case of any subsequent such election if the effect of such election is to reduce the amount of insurance coverage of the member from that in effect immediately before such election.
 
-(3) In the case of a member who is married and who is insured under this section, if the member makes a designation under section 1970(a) of this title of any person other than the spouse or a child of the member as the beneficiary of the member for any amount of insurance under this subchapter, the Secretary concerned shall notify the member's spouse, in writing, that such a beneficiary designation has been made by the member, except that such a notification is not required if the spouse has previously received such a notification under this paragraph and if immediately before the new designation by the member under section 1970(a) of this title the spouse is not a designated beneficiary of the member for any amount of insurance under this subchapter.
+(3) In the case of a member who is married and who is insured under this section, if the membermakes a designation under section 1970(a) of this title of any person other than the spouse or a child of the member as the beneficiary of the member for any amount of insurance under this subchapter, the Secretary concerned shall notify the member's spouse, in writing, that such a beneficiary designation has been made by the member, except that such a notification is not required if the spouse has previously received such a notification under this paragraph and if immediately before the new designation by the member under section 1970(a) of this title the spouse is not a designated beneficiary of the member for any amount of insurance under this subchapter.
 
 (4) A notification required by this subsection is satisfied by a good faith effort to provide the required information to the spouse at the last address of the spouse in the records of the Secretary concerned. Failure to provide a notification required under this subsection in a timely manner does not affect the validity of any election specified in paragraph (1) or (2) or beneficiary designation specified in paragraph (3).
 
@@ -154,7 +154,7 @@ Pub. L. 109–13, §1012(c)(1)(A), which directed redesignation of subsec. (e) a
 
 Subsec. (c). Pub. L. 107–14, §4(b)(2), inserted first sentence and struck out former first sentence which read as follows: “If any member elects not to be insured under this subchapter or to be insured in any amount less than $250,000, such member may thereafter be insured under this subchapter in the amount of $250,000 or any lesser amount evenly divisible by $10,000 upon written application, proof of good health, and compliance with such other terms and conditions as may be prescribed by the Secretary.”
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–419, §313(b), substituted “subparagraph (B) or (C) of section 1965(5) of this title”for “section 1965(5)(B) of this title” in par. (2) and concluding provisions.
+<b>2000</b>—Subsec. (a). Pub. L. 106–419, §313(b), substituted “subparagraph (B) or (C) of section 1965(5) of this title” for “section 1965(5)(B) of this title” in par. (2) and concluding provisions.
 
 Pub. L. 106–419, §312(a), substituted “$250,000” for “$200,000” in two places in concluding provisions.
 
@@ -242,7 +242,7 @@ Subsec. (d). Pub. L. 97–66, §401(a)(3), added subsec. (d).
 
 Subsec. (b). Pub. L. 93–289, §4(2), substituted “one hundred and twenty days” for “ninety days” in three places.
 
-Subsec. (c). Pub. L. 93–289, §4(3), inserted provisions authorizing members who elected to be insured in amounts of $15,000, $10,000, or $5,000 to increase the amount of insurance to $20,000, and inserted sentence providing for automatic insurance for former membersinsured under Veterans’ Group Life Insurance who decline coverage under Servicemen's Group Life Insurance.
+Subsec. (c). Pub. L. 93–289, §4(3), inserted provisions authorizing members who elected to be insured in amounts of $15,000, $10,000, or $5,000 to increase the amount of insurance to $20,000, and inserted sentence providing for automatic insurance for former members insured under Veterans’ Group Life Insurance who decline coverage under Servicemen's Group Life Insurance.
 
 <b>1970</b>—Subsec. (a). Pub. L. 91–291 increased from $10,000 to $15,000 maximum amount of insurance authorized for members of uniformed services and inserted references to active duty for training and inactive duty training scheduled in advance by competent authority.
 

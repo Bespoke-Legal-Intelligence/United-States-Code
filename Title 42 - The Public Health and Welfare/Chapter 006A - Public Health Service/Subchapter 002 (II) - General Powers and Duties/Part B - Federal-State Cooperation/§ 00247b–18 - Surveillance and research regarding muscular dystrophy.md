@@ -20,7 +20,7 @@ In carrying out this section, the Secretary may ensure that any data on patients
 
 #### (1) Annual report
 
-&emsp;Not later than 18 months after October 8, 2008, and annually thereafter, the Director of the Centers for Disease Control and Prevention shall submit to the appropriate committees of the Congress a report—
+&emsp;Not later than 18 months after October 8, 2008, and annually thereafter, the Director ofthe Centers for Disease Control and Prevention shall submit to the appropriate committees of the Congress a report—
 
 &emsp;&emsp;(A) concerning the activities carried out by MD STARnet site <sup>1</sup> funded under this section during the year for which the report is prepared;
 
@@ -60,7 +60,7 @@ Pub. L. 107–84, §2, Dec. 18, 2001, 115 Stat. 823, provided that: “Congress 
 
 &emsp;“(7) Myotonic muscular dystrophy (also known as Steinert's disease and dystrophia myotonica) is the second most prominent form of muscular dystrophy and the type most commonly found in adults. Unlike any of the other muscular dystrophies, the muscle weakness is accompanied by myotonia (delayed relaxation of muscles after contraction) and by a variety of abnormalities in addition to those of muscle.
 
-&emsp;“(8) Facioscapulohumeral muscular dystrophy (referred to in this section as ‘FSHD’) is a neuromuscular disorder that is inherited genetically andhas an estimated frequency of 1 in 20,000. FSHD, affecting between 15,000 to 40,000 persons, causes a progressive and sever \[sic\] loss of skeletal muscle gradually bringing weakness and reduced mobility. Many persons with FSHD become severely physically disabled and spend many decades in a wheelchair.
+&emsp;“(8) Facioscapulohumeral muscular dystrophy (referred to in this section as ‘FSHD’) is a neuromuscular disorder that is inherited genetically and has an estimated frequency of 1 in 20,000. FSHD, affecting between 15,000 to 40,000 persons, causes a progressive and sever \[sic\] loss of skeletal muscle gradually bringing weakness and reduced mobility. Many persons with FSHD become severely physically disabled and spend many decades in a wheelchair.
 
 &emsp;“(9) FSHD is regarded as a novel genetic phenomenon resulting from a crossover of subtelomeric DNA and may be the only human disease caused by a deletion-mutation.
 

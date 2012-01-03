@@ -10,7 +10,7 @@ The Securities Exchange Act of 1934, referred to in text, is act June 6, 1934, c
 
 #### Amendments
 
-1980—Pub. L. 96–433 substituted provision making this chapter applicable with respect to the Commission, except as provided in the Securities Exchange Act of 1934, for provision exempting the Commission from this chapter for a period of two years from November 10, 1978.
+<b>1980</b>—Pub. L. 96–433 substituted provision making this chapter applicable with respect to the Commission, except as provided in the Securities Exchange Act of 1934, for provision exempting the Commission from this chapter for a period of two years from November 10, 1978.
 
 #### Effective Date of 1980 Amendment
 

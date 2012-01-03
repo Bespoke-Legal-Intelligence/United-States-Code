@@ -6,7 +6,7 @@
 | :--- | ---: |
 | [900\.](Subchapter%20001%20%28I%29%20-%20Elimination%20of%20Deficits%20in%20Excess%20of%20Maximum%20Deficit%20Amount/%C2%A7%2000900%20-%20Statement%20of%20budget%20enforcement%20through%20sequestration%3B%20definitions.md) | Statement of budget enforcement through sequestration; definitions. |
 | [901\.](Subchapter%20001%20%28I%29%20-%20Elimination%20of%20Deficits%20in%20Excess%20of%20Maximum%20Deficit%20Amount/%C2%A7%2000901%20-%20Enforcing%20discretionary%20spending%20limits.md) | Enforcing discretionary spending limits. |
-| [901a.](Subchapter%20001%20%28I%29%20-%20Elimination%20of%20Deficits%20in%20Excess%20of%20Maximum%20Deficit%20Amount/%C2%A7%2000901a%20-%20Repealed.%20Pub.%20L.%20105%E2%80%9333%2C%20title%20X%2C%20%C2%A710204%28a%29%281%29%2C%20Aug.%205%2C%201997%2C%20111%20Stat.%20702.md) | Repealed. |
+| [901a.](Subchapter%20001%20%28I%29%20-%20Elimination%20of%20Deficits%20in%20Excess%20of%20Maximum%20Deficit%20Amount/%C2%A7%2000901a%20-%20Enforcement%20of%20budget%20goal.md) | Enforcement of budget goal. |
 | [902\.](Subchapter%20001%20%28I%29%20-%20Elimination%20of%20Deficits%20in%20Excess%20of%20Maximum%20Deficit%20Amount/%C2%A7%2000902%20-%20Enforcing%20pay-as-you-go.md) | Enforcing pay-as-you-go. |
 | [903\.](Subchapter%20001%20%28I%29%20-%20Elimination%20of%20Deficits%20in%20Excess%20of%20Maximum%20Deficit%20Amount/%C2%A7%2000903%20-%20Enforcing%20deficit%20targets.md) | Enforcing deficit targets. |
 | [904\.](Subchapter%20001%20%28I%29%20-%20Elimination%20of%20Deficits%20in%20Excess%20of%20Maximum%20Deficit%20Amount/%C2%A7%2000904%20-%20Reports%20and%20orders.md) | Reports and orders. |

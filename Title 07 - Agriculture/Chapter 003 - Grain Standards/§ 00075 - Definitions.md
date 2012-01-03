@@ -42,7 +42,7 @@ When used in this chapter, except where the context requires otherwise—
 
 &emsp;(t) the terms “false”, “incorrect”, and “misleading” mean, respectively, false, incorrect, and misleading in any particular;
 
-&emsp;(u) the term “deceptive loading, handling, weighing, or sampling” means any manner of loading, handling, weighing, or sampling thatdeceives or tends to deceive official inspection personnel, as specified by regulations of the Secretary under this chapter;
+&emsp;(u) the term “deceptive loading, handling, weighing, or sampling” means any manner of loading, handling, weighing, or sampling that deceives or tends to deceive official inspection personnel, as specified by regulations of the Secretary under this chapter;
 
 &emsp;(v) the term “export elevator” means any grain elevator, warehouse, or other storage or handling facility in the United States as determined by the Secretary, from which grain is shipped from the United States to an area outside thereof;
 
@@ -50,7 +50,7 @@ When used in this chapter, except where the context requires otherwise—
 
 &emsp;(x) the term “official weighing” means the determination and certification by official inspection personnel of the quantity of a lot of grain under standards provided for in this chapter, based on the actual performance of weighing or the physical supervision thereof, including the physical inspection and testing for accuracy of the weights and scales and the physical inspection of the premises at which the weighing is performed and the monitoring of the discharge of grain into the elevator or conveyance (the terms “officially weigh” and “officially weighed” shall be construed accordingly);
 
-&emsp;(y) the term “supervision of weighing” means such supervision by official inspection personnel of the grain-weighing process as is determined by the Secretary to be adequate to reasonably assure the integrity and accuracy of the weighing and of certificates which set forth the weight of the grain and such physical inspection by such personnel of the premises at which the grain weighing is performed as will reasonably assure that all the grain intended to be weighed has been weighed and discharged into the elevator or conveyance; and
+&emsp;(y) the term “supervision of weighing” means such supervision by official inspection personnel of the grain-weighing process as is determined by the Secretary to be adequate to reasonably assure the integrity and accuracyof the weighing and of certificates which set forth the weight of the grain and such physical inspection by such personnel of the premises at which the grain weighing is performed as will reasonably assure that all the grain intended to be weighed has been weighed and discharged into the elevator or conveyance; and
 
 &emsp;(z) the term “intracompany shipment” means the shipment, within the United States, of grain lots between facilities owned or controlled by the person owning the grain. The shipment of grain owned by a cooperative, from a facility owned by that cooperative, to an export facility which it jointly owns with other cooperatives, qualifies as an intracompany shipment.
 
@@ -58,23 +58,23 @@ When used in this chapter, except where the context requires otherwise—
 
 #### Amendments
 
-1994—Pub. L. 103–354 substituted “Secretary” for “Administrator” wherever appearing in subsecs. (i) to (k), (m), (n), (u) to (w), and (y), redesignated subsec. (bb) as (z), and struck out former subsecs. (z) and (aa) which read as follows:
+<b>1994</b>—Pub. L. 103–354 substituted “Secretary” for “Administrator” wherever appearing in subsecs. (i) to (k), (m), (n), (u) to (w), and (y), redesignated subsec. (bb) as (z), and struck out former subsecs. (z) and (aa) which read as follows:
 
 “(z) the term ‘Administrator’ means the Administrator of the Federal Grain Inspection Service or delegates of the Administrator;
 
 “(aa) the term ‘Service’ means the Federal Grain Inspection Service; and”.
 
-1993—Pub. L. 103–156, §12(a), which directed amendment of “Section 3”, without specifying the name of the Act being amended, was executed to this section, which is section 3 of the United States Grain Standards Act, to reflect the probable intent of Congress.
+<b>1993</b>—Pub. L. 103–156, §12(a), which directed amendment of “Section 3”, without specifying the name of the Act being amended, was executed to this section, which is section 3 of the United States Grain Standards Act, to reflect the probable intent of Congress.
 
 Subsec. (a). Pub. L. 103–156, §12(a)(1), substituted “delegates of the Secretary” for “his delegates”.
 
 Subsec. (z). Pub. L. 103–156, §12(a)(2), substituted “delegates of the Administrator” for “his delegates”.
 
-1991—Subsecs. (i) to (k), (u) to (x), (z), (aa). Pub. L. 102–237 substituted “the” for “The” before “term”.
+<b>1991</b>—Subsecs. (i) to (k), (u) to (x), (z), (aa). Pub. L. 102–237 substituted “the” for “The” before “term”.
 
-1980—Subsec. (bb). Pub. L. 96–437 added subsec. (bb).
+<b>1980</b>—Subsec. (bb). Pub. L. 96–437 added subsec. (bb).
 
-1977—Subsec. (g). Pub. L. 95–113, §1604(a)(1), substituted “sorghum” for “grain sorghum”.
+<b>1977</b>—Subsec. (g). Pub. L. 95–113, §1604(a)(1), substituted “sorghum” for “grain sorghum”.
 
 Subsec. (i). Pub. L. 95–113, §1606(a), struck out reference to the determination of the quantity of sacks of grain upon the request of the interested party applying for inspection.
 
@@ -84,7 +84,7 @@ Subsec. (x). Pub. L. 95–113, §1604(a)(3), substituted “under standards prov
 
 Subsec. (y). Pub. L. 95–113, §1604(a)(4), substituted “such supervision by official inspection personnel of the grain-weighing process as is determined by the Administrator to be adequate to reasonably assure the integrity and accuracy of the weighing and of certificates which set forth the weight of the grain and such physical inspection by such personnel of the premises at which the grain weighing is performed as will reasonably assure that all the grain intended to be weighed has been weighed and discharged into the elevator or conveyance” for “the supervision of the weighing process and of the certification of the weight of grain, and the physical inspection of the premises at which the weighing is performed to assure that all the grain intended to be weighed has been weighed and discharged into the elevator or conveyance represented on the weight certificate or other document”.
 
-1976—Subsec. (i). Pub. L. 94–582, §3(a), substituted “Administrator” for “Secretary”, and expanded definition of “official inspection” to include determination “(by original inspection, and when requested, reinspection and appeal inspection)” and determination and certification of the condition of vessels and other carriers or receptacles for the transportation of grain insofar as it may affect the quality or condition of the grain.
+<b>1976</b>—Subsec. (i). Pub. L. 94–582, §3(a), substituted “Administrator” for “Secretary”, and expanded definition of “official inspection” to include determination “(by original inspection, and when requested, reinspection and appeal inspection)” and determination and certification of the condition of vessels and other carriers or receptacles for the transportation of grain insofar as it may affect the quality or condition of the grain.
 
 Subsec. (j). Pub. L. 94–582, §3(b), in redefining “official inspection personnel”, substituted provision declaring term to mean “persons licensed or otherwise authorized by the Administrator pursuant to section 84 of this title to perform all or specified functions involved in official inspection, official weighing, or supervision of weighing, or in the supervision of official inspection, official weighing or supervision of weighing” for “employees of State or other governmental agencies or commercial agencies or other persons who are licensed to perform all or specified functions involved in official inspection under this chapter; employees of the Department of Agriculture who are authorized to supervise official inspection and to conduct appeal inspection or initial inspection of United States grain in Canadian ports”.
 
@@ -92,7 +92,7 @@ Subsec. (k). Pub. L. 94–582, §3(c), substituted “Administrator” for “Se
 
 Subsec. (<i>l</i>). Pub. L. 94–582, §3(d), substituted “standards relating to kind, class, quality, and condition of grain,” for “standards”.
 
-Subsec. (m). Pub. L. 94–582, §3(e), substituted definition of “official agency” meaning “any State or local governmental agency, or any person, designated by theAdministrator pursuant to subsection (f) of section 79 of this title for the conduct of official inspection (other than appeal inspection), or subsection (b) of section 79a of this title for the conduct of supervision of weighing” for definition of “official inspection agency” meaning “the agency or person located at an inspection point designated by the Secretary for the conduct of official inspection under this chapter”.
+Subsec. (m). Pub. L. 94–582, §3(e), substituted definition of “official agency” meaning “any State or local governmental agency, or any person, designated by the Administrator pursuant to subsection (f) of section 79 of this title for the conduct of official inspection (other than appeal inspection), or subsection (b) of section 79a of this title for the conduct of supervision of weighing” for definition of “official inspection agency” meaning “the agency or person located at an inspection point designated by the Secretary for the conduct of official inspection under this chapter”.
 
 Subsec. (n). Pub. L. 94–582, §3(f), substituted “Administrator” for “Secretary”.
 
@@ -100,7 +100,7 @@ Subsec. (u). Pub. L. 94–582, §3(g), included within term defined and its defi
 
 Subsecs. (v) to (aa). Pub. L. 94–582, §3(h), added subsecs. (v) to (aa).
 
-1968—Pub. L. 90–487 substituted provisions defining terms used in the chapter for provisions that the standards fixed and established by the Secretary of Agriculture be known as the official grain standards of the United States.
+<b>1968</b>—Pub. L. 90–487 substituted provisions defining terms used in the chapter for provisions that the standards fixed and established by the Secretary of Agriculture be known as the official grain standards of the United States.
 
 #### Effective Date of 1993 Amendment
 

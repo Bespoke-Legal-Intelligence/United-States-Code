@@ -96,7 +96,7 @@ No resale.—A public body or cooperative to which a joint operating entity sell
 
 (C)(i) Where a new contract is offered in accordance with subsection (g) of this section to any existing direct service industrial customer which has not received electric power prior to December 5, 1980, from the Administrator pursuant to a contract with the Administrator existing on December 5, 1980, electric power delivered under such new contract shall be conditioned on the Administrator reasonably acquiring, in accordance with this chapter and within such estimated period of time (as specified in the contract) as he deems reasonable, sufficient resources to meet, on a planning basis, the load requirement of such customer. Such contract shall also provide that the obligation of the Administrator to acquire such resources to meet such load requirement shall, except as provided in clause (ii) of this subparagraph, apply only to such customer and shall not be sold or exchanged by such customer to any other person.
 
-(ii) Rights under a contract described in clause (i) of this subparagraph may be transferred by an existing direct service industrial customer referred to in clause (i) to a successor in interest in connection with a reorganization or othertransfer of all major assets of such customer. Following such a transfer, such successor in interest (or any other subsequent successor in interest) may also transfer rights under such a contract only in connection with a reorganization or other transfer of all assets of such successor in interest.
+(ii) Rights under a contract described in clause (i) of this subparagraph may be transferred by an existing direct service industrial customer referred to in clause (i) to a successor in interest in connection with a reorganization or other transfer of all major assets of such customer. Following such a transfer, such successor in interest (or any other subsequent successor in interest) may also transfer rights under such a contract only in connection with a reorganization or other transfer of all assets of such successor in interest.
 
 (iii) The limitations of clause (i) of this subparagraph shall not apply to any customer referred to in clause (i) whenever the Administrator determines that such customer is receiving electric power pursuant to a contract referred to in such clause (ii).
 
@@ -148,7 +148,7 @@ The Administrator is authorized to sell, or otherwise dispose of, electric power
 
 #### References in Text
 
-The Bonneville Project Act of 1937, referred to in subsecs. (a), (b)(1), and (f), is act Aug. 20, 1937, ch. 720, 50 Stat. 731, which is classified generally to chapter 12B (§832 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 832 of this title and Tables.
+The Bonneville Project Act of 1937, referred to in subsecs. (a), (b)(1), and (f), is act Aug. 20, 1937, ch. 720, 50 Stat. 731, which is classified generally to chapter 12B (§832 et seq.) of this title. For complete classification ofthis Act to the Code, see Short Title note set out under section 832 of this title and Tables.
 
 The Federal Columbia River Transmission System Act, referred to in subsec. (f), is Pub. L. 93–454, Oct. 18, 1974, 88 Stat. 1376, which is classified generally to chapter 12G (§838 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 838 of this title and Tables.
 

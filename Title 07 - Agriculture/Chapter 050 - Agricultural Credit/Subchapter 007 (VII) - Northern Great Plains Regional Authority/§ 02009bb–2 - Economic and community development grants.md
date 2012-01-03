@@ -50,7 +50,7 @@ A prior section 383D of Pub. L. 87–128, title III, was renumbered section 383E
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–246, §6026(c)(2)(B), made technical amendment to reference in original act which appears in introductory provisions as reference to section 2009bb–8 of this title.
+<b>2008</b>—Subsec. (a). Pub. L. 110–246, §6026(c)(2)(B), made technical amendment to reference in original act which appears in introductory provisions as reference to section 2009bb–8 of this title.
 
 Subsec. (a)(1), (2). Pub. L. 110–246, §6026(d)(1), redesignated pars. (2) and (1) as (1) and (2), respectively, and, in par. (2), substituted “transportation, renewable energy transmission, and telecommunication” for “transportation and telecommunication”.
 

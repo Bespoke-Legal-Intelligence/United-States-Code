@@ -88,3 +88,5 @@ The Federal Advisory Committee Act, referred to in subsec. (d)(3)(B), is Pub. L.
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

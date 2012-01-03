@@ -94,7 +94,7 @@ In connection with any self-determination contract or grant made pursuant to sec
 
 #### (g) Performance of personal services
 
-The contracts authorized under section 450f of this title and grants pursuant to section 450h of this title may include provisions for the performance of personal services which would otherwise be performed by Federal employees including, but in no way limited to, functions such as determination of eligibility of applicants for assistance, benefits, or services, and the extent or amount of such assistance, benefits, or services to be provided and the provisions of such assistance, benefits, or services, all in accordance with the terms of the contract or grant and applicable rules and regulations of the appropriate Secretary: <i>Provided</i>, That the Secretary shall not make any contract which would impair his ability to discharge his trust responsibilities to any Indian tribe or individuals.
+The contracts authorized under section 450f of this title and grants pursuant to section 450h ofthis title may include provisions for the performance of personal services which would otherwise be performed by Federal employees including, but in no way limited to, functions such as determination of eligibility of applicants for assistance, benefits, or services, and the extent or amount of such assistance, benefits, or services to be provided and the provisions of such assistance, benefits, or services, all in accordance with the terms of the contract or grant and applicable rules and regulations of the appropriate Secretary: <i>Provided</i>, That the Secretary shall not make any contract which would impair his ability to discharge his trust responsibilities to any Indian tribe or individuals.
 
 #### (h) Fair and uniform provision by tribal organization of services and assistance to covered Indians
 
@@ -130,11 +130,11 @@ For purposes of section 501 of title 40 (relating to Federal sources of supply, 
 
 (2) In providing technical assistance to tribes and tribal organizations in the development of construction contract proposals, the Secretary shall provide, not later than 30 days after receiving a request from a tribe or tribal organization, all information available to the Secretary regarding the construction project, including construction drawings, maps, engineering reports, design reports, plans of requirements, cost estimates, environmental assessments or environmental impact reports, and archaeological reports.
 
-(3) Prior to finalizing a construction contract proposal pursuant to section 450f(a) of this title, and upon request of the tribe or tribal organization that submits the proposal, the Secretary shall provide for a precontract negotiation phase in the development of a contract proposal. Such phase shall include, at a minimum, the following elements:
+(3) Prior to finalizing a construction contract proposal pursuant to section 450f(a) of this title,and upon request of the tribe or tribal organization that submits the proposal, the Secretary shall provide for a precontract negotiation phase in the development of a contract proposal. Such phase shall include, at a minimum, the following elements:
 
 &emsp;(A) The provision of technical assistance pursuant to section 450h of this title and paragraph (2).
 
-&emsp;(B) A joint scoping session between the Secretary and the tribe or tribal organization to review all plans, specifications, engineeringreports, cost estimates, and other information available to the parties, for the purpose of identifying all areas of agreement and disagreement.
+&emsp;(B) A joint scoping session between the Secretary and the tribe or tribal organization to review all plans, specifications, engineering reports, cost estimates, and other information available to the parties, for the purpose of identifying all areas of agreement and disagreement.
 
 &emsp;(C) An opportunity for the Secretary to revise the plans, designs, or cost estimates of the Secretary in response to concerns raised, or information provided by, the tribe or tribal organization.
 
@@ -188,11 +188,11 @@ Notwithstanding any other provision of law, the rental rates for housing provide
 
 #### References in Text
 
-Section 9(c) of the Act of Aug. 2, 1946, referred to in subsec. (a)(3)(C)(ii)(III), was section 9(c) of act Aug. 2, 1946, ch. 744, 60 Stat. 809, which amended section 5 of former Title 41, Public Contracts, and was repealed by Pub. L. 111–350, §7(b), Jan. 4, 2011, 124 Stat. 3855, which Act enacted Title 41, Public Contracts.
+Section 9(c) of the Act of Aug. 2, 1946, referred to in subsec. (a)(3)(C)(ii)(III), was section 9(c) of act Aug. 2, 1946, ch. 744, 60 Stat. 809, which amended section 5 offormer Title 41, Public Contracts, and was repealed by Pub. L. 111–350, §7(b), Jan. 4, 2011, 124 Stat. 3855, which Act enacted Title 41, Public Contracts.
 
 The Small Business Act, referred to in subsec. (a)(3)(C)(ii)(X), is Pub. L. 85–536, §2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
 
-Executive Order Nos. 12138, 11246, 11701 and 11758, referred to in subsec. (a)(3)(C)(ii)(XI), are Ex. Ord. No. 12138, May 18, 1979, 44 F.R. 29637, which is set out as a note under section 631 of Title 15, Commerce and Trade,Ex. Ord. No. 11246, Sept. 24, 1965, 30 F.R. 12319, which is set out as a note under section 2000e of Title 42, The Public Health and Welfare, Ex. Ord. No. 11701, Jan. 24, 1973, 38 F.R. 2675, which is set out as a note under section 4212 of Title 38, Veterans’ Benefits, and Ex. Ord. No. 11758, Jan. 15, 1974, 39 F.R. 2075, which is set out as a note under section 701 of Title 29, Labor.
+Executive Order Nos. 12138, 11246, 11701 and 11758, referred to in subsec. (a)(3)(C)(ii)(XI), are Ex. Ord. No. 12138, May 18, 1979, 44 F.R. 29637, which is set out as a note under section 631 of Title 15, Commerce and Trade, Ex. Ord. No. 11246, Sept. 24, 1965, 30 F.R. 12319, which is set out as a note under section 2000e of Title 42, The Public Health and Welfare, Ex. Ord. No. 11701, Jan. 24, 1973, 38 F.R. 2675, which is set out as a note under section 4212 of Title 38, Veterans’ Benefits, and Ex. Ord. No. 11758, Jan. 15, 1974, 39 F.R. 2075, which is set out as a note under section 701 of Title 29, Labor.
 
 This part, referred to in subsecs. (b) and (i)(2), was in the original “this title”, meaning title I of Pub. L. 93–638, known as the Indian Self-Determination Act, which is classified principally to this part (450f et seq.). For complete classification of title I to the Code, see Short Title note set out under section 450 of this title and Tables.
 
@@ -236,7 +236,7 @@ Subsec. (<i>o</i>). Pub. L. 106–260, §8, added subsec. (<i>o</i>).
 
 Subsec. (e). Pub. L. 103–413, §102(11), as amended by Pub. L. 104–109, added subsec. (e) and struck out former subsec. (e) which read as follows: “Whenever an Indian tribe requests retrocession of the appropriate Secretary for any contract entered into pursuant to this Act, such retrocession shall become effective one year from the date of the request by the Indian tribe or at such date as may be mutually agreed by the Secretary and the Indian tribe.”
 
-Subsec. (f)(2). Pub. L. 103–413, §102(12), added par. (2) and struck out former par. (2) which read as follows: “donate to an Indian tribe or tribal organization the title to any personal or real property found to be excess to the needs of the Bureau of Indian Affairs, the Indian Health Service, or the General Services Administration, including property and equipment purchased with funds under any self-determination contract or grant agreement; and”.
+Subsec. (f)(2). Pub. L. 103–413, §102(12), added par. (2) and struck out former par. (2) which read as follows: “donate to an Indian tribe or tribal organization the title to any personal or real property found to be excessto the needs of the Bureau of Indian Affairs, the Indian Health Service, or the General Services Administration, including property and equipment purchased with funds under any self-determination contract or grant agreement; and”.
 
 Subsec. (h). Pub. L. 103–413, §106, struck out “and the rules and regulations adopted by the Secretaries of the Interior and Health and Human Services pursuant to section 450k of this title” after “sections 450f and 450h of this title”.
 

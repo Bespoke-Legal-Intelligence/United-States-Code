@@ -6,7 +6,7 @@ Except as otherwise specially provided for, the rate or rates of duty imposed by
 
 &emsp;(1) any article released under an informal mail entry shall be subject to duty at the rate or rates in effect when the preparation of the entry is completed;
 
-&emsp;(2) any article which is not subject to a quantitative or tariff-rate quota and which iscovered by an entry for immediate transportation made at the port of original importation under section 1552 of this title, if entered for consumption at the port designated by the consignee, or his agent, in such transportation entry without having been taken into the custody of the appropriate customs officer under section 1490 of this title, shall be subject to the rate or rates in effect when the transportation entry was accepted at the port of original importation; and
+&emsp;(2) any article which is not subject to a quantitative or tariff-rate quota and which is covered by an entry for immediate transportation made at the port of original importation under section 1552 of this title, if entered for consumption at the port designated by the consignee, or his agent, in such transportation entry without having been taken into the custody of the appropriate customs officer under section 1490 of this title, shall be subject to the rate or rates in effect when the transportation entry was accepted at the port of original importation; and
 
 &emsp;(3) any article for which duties may, under section 1505 of this title, be paid at a time later than the time of making entry shall be subject to the rate or rates in effect at the time of entry.
 
@@ -34,7 +34,7 @@ For the effective date of title II of the Uruguay Round Agreements Act \[Pub. L.
 
 <b>1994</b>—Subsec. (d). Pub. L. 103–465 inserted “(as in effect on the day before the effective date of title II of the Uruguay Round Agreements Act) or section 1671 of this title” after “section 1303 of this title”.
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–182, §633(1), substituted “Customs Service by written, electronic or such other means as the Secretary by regulation shall prescribe,” for “appropriate customs officer in the form and manner prescribed by regulations of the Secretary of the Treasury,” in introductory provisions.
+<b>1993</b>—Subsec. (a). Pub. L. 103–182, §633(1), substituted “Customs Service by written, electronic or such othermeans as the Secretary by regulation shall prescribe,” for “appropriate customs officer in the form and manner prescribed by regulations of the Secretary of the Treasury,” in introductory provisions.
 
 Subsec. (b). Pub. L. 103–182, §633(2), substituted “custody of the Customs Service” for “customs custody”.
 
@@ -62,7 +62,7 @@ Section 261(d)(2) of title II of Pub. L. 103–465 provided that: “The amendme
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on orafter such date, see section 1217(b)(1) of Pub. L. 100–418, set out as an Effective Date note under section 3001 of this title.
+Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100–418, set out as an Effective Date note under section 3001 of this title.
 
 #### Effective Date of 1975 Amendment
 

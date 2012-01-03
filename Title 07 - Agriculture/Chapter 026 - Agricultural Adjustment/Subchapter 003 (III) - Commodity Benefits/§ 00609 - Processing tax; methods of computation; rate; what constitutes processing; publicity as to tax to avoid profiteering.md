@@ -102,11 +102,11 @@ Phrase “this amendment” in subsec. (c) refers to amendments by act Aug. 24, 
 
 #### Amendments
 
-2004—Subsec. (b)(2). Pub. L. 108–357, §611(d)(1), struck out “tobacco,” after “peanuts,”.
+<b>2004</b>—Subsec. (b)(2). Pub. L. 108–357, §611(d)(1), struck out “tobacco,” after “peanuts,”.
 
 Subsec. (b)(6)(B)(i). Pub. L. 108–357, §611(d)(2), struck out “, or, in the case of tobacco, is less than the fair exchange value by not more than 10 per centum,” before “the rate of such tax”.
 
-1935—Subsec. (a). Act Aug. 24, 1935, §11, struck out second sentence preceding semicolon and inserted in lieu thereof “When the Secretary of Agriculture determines that any one or more payments authorized to be made under section 608 of this title are to be made with respect to any basic agricultural commodity, he shall proclaim such determination, and a processing tax shall be in effect with respect to such commodity from the beginning of the marketing year therefor next following the date of such proclamation.”
+<b>1935</b>—Subsec. (a). Act Aug. 24, 1935, §11, struck out second sentence preceding semicolon and inserted in lieu thereof “When the Secretary of Agriculture determines that any one or more payments authorized to be made under section 608 of this title are to be made with respect to any basic agricultural commodity, he shall proclaim such determination, and a processing tax shall be in effect with respect to such commodity from the beginning of the marketing year therefor next following the date of such proclamation.”
 
 Act Mar. 18, 1935, §§1, 2, struck out comma after “except that” in second sentence and inserted in lieu thereof “(i)”, and inserted “and (2) in the case of rice, the Secretary of Agriculture shall, before April 1, 1935, proclaim that rental or benefit payments are to be made with respect thereto, and the processing tax shall be in effect on and after April 1, 1935”.
 
@@ -122,7 +122,7 @@ Act Mar. 18, 1935, §§5, 6, struck out “, rice,” in two places in par. (1)
 
 Subsec. (g). Act Aug. 24, 1935, §15, added subsec. (g).
 
-1934—Subsec. (a). Act May 9, 1934, §9, struck out the period after “proclamation” and inserted in lieu thereof “; except that, in the case of sugar beets and sugarcane, the Secretary of Agriculture shall, on or before the thirtieth day after May 9, 1934, proclaim that rental or benefit payments with respect to said commodities are to be made, and the processing tax shall be in effect on and after the thirtieth day after May 9, 1934. In the case of sugar beets and sugarcane, the calendar year shall be considered to be the marketing year and for the year 1934 the marketing year shall begin January 1, 1934.”
+<b>1934</b>—Subsec. (a). Act May 9, 1934, §9, struck out the period after “proclamation” and inserted in lieu thereof “; except that, in the case of sugar beets and sugarcane, the Secretary of Agriculture shall, on or before the thirtieth day after May 9, 1934, proclaim that rental or benefit payments with respect to said commodities are to be made, and the processing tax shall be in effect on and after the thirtieth day after May 9, 1934. In the case of sugar beets and sugarcane, the calendar year shall be considered to be the marketing year and for the year 1934 the marketing year shall begin January 1, 1934.”
 
 Subsec. (b). Act May 9, 1934, §3, among other changes amended first two sentences and inserted “In the case of sugar beets or sugarcane the rate of tax shall be applied to the direct-consumption sugar, resulting from the first domestic processing, translated into terms of pounds of raw value according to regulations to be issued by the Secretary of Agriculture, and the rate of tax to be so applied shall be the higher of the two following quotients: The difference between the current average farm price and the fair exchange value (1) of a ton of sugar beets and (2) of a ton of sugarcane, divided in the case of each commodity by the average extraction therefrom of sugar in terms of pounds of raw value (which average extraction shall be determined from available statistics of the Department of Agriculture); except that such rate shall not exceed the amount of the reduction by the President on a pound of sugar raw value of the rate of duty in effect on January 1, 1934, under paragraph 501 of section 1001 of Title 19, as adjusted to the treaty of commercial reciprocity concluded between the United States and the Republic of Cuba on December 11, 1902, and/or the provisions of sections 124 and 125 of Title 19.”
 

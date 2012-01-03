@@ -24,9 +24,9 @@ One such photograph shall be affixed to each such certificate issued by the Atto
 
 #### Amendments
 
-1994—Subsec. (b)(1). Pub. L. 103–416 substituted “1259” for “1259(a)”.
+<b>1994</b>—Subsec. (b)(1). Pub. L. 103–416 substituted “1259” for “1259(a)”.
 
-1990—Subsec. (a). Pub. L. 101–649 substituted “applicant” for “petitioner” after “by each”, and “Attorney General” for “clerk of the court”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–649 substituted “applicant” for “petitioner” after “by each”, and “Attorney General” for “clerk of the court”.
 
 #### Effective Date of 1994 Amendment
 

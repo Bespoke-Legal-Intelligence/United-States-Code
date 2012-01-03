@@ -34,5 +34,5 @@ The Commission shall not be required to obtain the clearance of any Federal agen
 
 #### Amendments
 
-1975—Subsec. (b). Pub. L. 94–200 changed the time for submission of interim and final reports from one year of the Commission's findings and recommendations and two years after Oct. 28, 1974, to one year and two years respectively after the confirmation by the Senate of the Chairperson or the appointment by the President of an acting Chairperson.
+<b>1975</b>—Subsec. (b). Pub. L. 94–200 changed the time for submission of interim and final reports from one year of the Commission's findings and recommendations and two years after Oct. 28, 1974, to one year and two years respectively after the confirmation by the Senate of the Chairperson or the appointment by the President of an acting Chairperson.
 

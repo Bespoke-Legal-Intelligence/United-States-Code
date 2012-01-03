@@ -662,7 +662,7 @@
 | [282a.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000282a%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [282b.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000282b%20-%20Electronic%20coding%20of%20grants%20and%20activities.md) | Electronic coding of grants and activities. |
 | [282c.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000282c%20-%20Public%20access%20to%20funded%20investigators%E2%80%99%20final%20manuscripts.md) | Public access to funded investigators’ final manuscripts. |
-| [282d.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000282d%20-%20Cures%20Acceleration%20Network.md) | Cures Acceleration Network. |
+| [282d.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000282d%20-%20Transferred.md) | Transferred. |
 | [283\.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000283%20-%20Biennial%20reports%20of%20Director%20of%20NIH.md) | Biennial reports of Director of NIH. |
 | [283a.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000283a%20-%20Annual%20reporting%20to%20increase%20interagency%20collaboration%20and%20coordination.md) | Annual reporting to increase interagency collaboration and coordination. |
 | 283a–1. | Annual reporting to prevent fraud and abuse. |
@@ -674,9 +674,12 @@
 | [283e.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000283e%20-%20Plan%20for%20use%20of%20animals%20in%20research.md) | Plan for use of animals in research. |
 | [283f.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000283f%20-%20Requirements%20regarding%20surveys%20of%20sexual%20behavior.md) | Requirements regarding surveys of sexual behavior. |
 | [283g.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000283g%20-%20Muscular%20dystrophy%3B%20initiative%20through%20Director%20of%20National%20Institutes%20of%20Health.md) | Muscular dystrophy; initiative through Director of National Institutes of Health. |
-| [283h.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000283h%20-%20Office%20of%20Rare%20Diseases.md) | Office of Rare Diseases. |
-| [283i.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000283i%20-%20Rare%20disease%20regional%20centers%20of%20excellence.md) | Rare disease regional centers of excellence. |
+| 283h, 283i. | Transferred. |
 | [283j.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000283j%20-%20Review%20of%20centers%20of%20excellence.md) | Review of centers of excellence. |
+| [283k.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000283k%20-%20Biomedical%20and%20behavioral%20research%20facilities.md) | Biomedical and behavioral research facilities. |
+| 283<i>l</i>. | Construction of regional centers for research on primates. |
+| [283m.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000283m%20-%20Sanctuary%20system%20for%20surplus%20chimpanzees.md) | Sanctuary system for surplus chimpanzees. |
+| [283n.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000283n%20-%20Shared%20Instrumentation%20Grant%20Program.md) | Shared Instrumentation Grant Program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -863,7 +866,7 @@
 
 |  |  |
 | :--- | ---: |
-| [285k.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20C%20-%20Specific%20Provisions%20Respecting%20National%20Research%20Institutes/Subpart%20011%20-%20National%20Institute%20of%20General%20Medical%20Sciences/%C2%A7%2000285k%20-%20Purpose%20of%20Institute.md) | Purpose of Institute. |
+| [285k.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20C%20-%20Specific%20Provisions%20Respecting%20National%20Research%20Institutes/Subpart%20011%20-%20National%20Institute%20of%20General%20Medical%20Sciences/%C2%A7%2000285k%20-%20National%20Institute%20of%20General%20Medical%20Sciences.md) | National Institute of General Medical Sciences. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1013,16 +1016,15 @@
 
 #### Part E—Other Agencies of NIH
 
-#### subpart 1—national center for research resources
+#### subpart 1—national center for advancing translational sciences
 
 |  |  |
 | :--- | ---: |
-| [287\.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20E%20-%20Other%20Agencies%20of%20NIH/Subpart%20001%20-%20National%20Center%20for%20Research%20Resources/%C2%A7%2000287%20-%20General%20purpose.md) | General purpose. |
-| [287a.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20E%20-%20Other%20Agencies%20of%20NIH/Subpart%20001%20-%20National%20Center%20for%20Research%20Resources/%C2%A7%2000287a%20-%20Advisory%20council.md) | Advisory council. |
-| 287a–1. | Biennial report. |
-| 287a–2. | Biomedical and behavioral research facilities. |
-| 287a–3. | Construction of regional centers for research on primates. |
-| 287a–3a. | Sanctuary system for surplus chimpanzees. |
+| [287\.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20E%20-%20Other%20Agencies%20of%20NIH/Subpart%20001%20-%20National%20Center%20for%20Advancing%20Translational%20Sciences/%C2%A7%2000287%20-%20National%20Center%20for%20Advancing%20Translational%20Sciences.md) | National Center for Advancing Translational Sciences. |
+| [287a.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20E%20-%20Other%20Agencies%20of%20NIH/Subpart%20001%20-%20National%20Center%20for%20Advancing%20Translational%20Sciences/%C2%A7%2000287a%20-%20Cures%20Acceleration%20Network.md) | Cures Acceleration Network. |
+| 287a–1. | Office of Rare Diseases. |
+| 287a–2. | Rare disease regional centers of excellence. |
+| 287a–3, 287a–3a. | Transferred. |
 | 287a–4. | General clinical research centers. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

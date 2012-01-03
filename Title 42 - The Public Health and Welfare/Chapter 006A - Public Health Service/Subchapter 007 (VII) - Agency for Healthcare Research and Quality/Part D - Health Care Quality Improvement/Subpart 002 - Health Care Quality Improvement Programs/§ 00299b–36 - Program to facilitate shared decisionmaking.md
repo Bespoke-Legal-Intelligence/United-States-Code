@@ -42,7 +42,7 @@ In this section:
 
 #### (B) Endorse patient decision aids
 
-&emsp;&emsp;The entity shall review patient decision aids and develop a certification process whether <sup>5</sup> patient decision aids meet the standards developed and identified under subparagraph (A). The entity shall give priority to the review and certification of patient decision aids for preference sensitive care.
+&emsp;&emsp;The entity shall review patient decision aids and develop a certification process whether <sup>5</sup> patient decision aids meet thestandards developed and identified under subparagraph (A). The entity shall give priority to the review and certification of patient decision aids for preference sensitive care.
 
 #### (d) Program to develop, update and produce patient decision aids to assist health care providers and patients
 

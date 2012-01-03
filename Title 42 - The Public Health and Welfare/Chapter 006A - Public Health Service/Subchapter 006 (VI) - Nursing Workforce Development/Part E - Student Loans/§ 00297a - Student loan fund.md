@@ -48,7 +48,7 @@ Each agreement entered into under this section shall—
 
 &emsp;&emsp;(ii) in their grace period.
 
-(July 1, 1944, ch. 373, title VIII, §835, formerly §822, as added Pub. L. 88–581, §2, Sept. 4, 1964, 78 Stat. 913; amended Pub. L. 90–490, title II, §222(a), (c)(2), Aug. 16, 1968, 82 Stat. 783, 784; Pub. L. 92–158, §6(d)(3), (e), Nov. 18, 1971, 85 Stat. 478; Pub. L. 93–385, §3(b), Aug. 23, 1974, 88 Stat. 741; renumbered §835 and amended Pub. L. 94–63, title IX, §§936(a), 941(h)(1)–(3), (i)(1), (2), July 29, 1975, 89 Stat. 362, 365, 366; Pub. L. 96–76, title I, §109(a), Sept. 29, 1979, 93 Stat. 579; Pub. L. 97–35, title XXVII, §2757(a), Aug. 13, 1981, 95 Stat. 931; Pub. L. 99–92, §8(a), Aug. 16, 1985, 99 Stat. 397; Pub. L. 99–129, title II, §209(j)(2), Oct. 22, 1985, 99Stat. 536; Pub. L. 100–607, title VII, §713(a), Nov. 4, 1988, 102 Stat. 3160; Pub. L. 111–148, title V, §5310(b)(2), (6), Mar. 23, 2010, 124 Stat. 631.)
+(July 1, 1944, ch. 373, title VIII, §835, formerly §822, as added Pub. L. 88–581, §2, Sept. 4, 1964, 78 Stat. 913; amended Pub. L. 90–490, title II, §222(a), (c)(2), Aug. 16, 1968, 82 Stat. 783, 784; Pub. L. 92–158, §6(d)(3), (e), Nov. 18, 1971, 85 Stat. 478; Pub. L. 93–385, §3(b), Aug. 23, 1974, 88 Stat. 741; renumbered §835 and amended Pub. L. 94–63, title IX, §§936(a), 941(h)(1)–(3), (i)(1), (2), July 29, 1975, 89 Stat. 362, 365, 366; Pub. L. 96–76, title I, §109(a), Sept. 29, 1979, 93 Stat. 579; Pub. L. 97–35, title XXVII, §2757(a), Aug. 13, 1981, 95 Stat. 931; Pub. L. 99–92, §8(a), Aug. 16, 1985, 99 Stat. 397; Pub. L. 99–129, title II, §209(j)(2), Oct. 22, 1985, 99 Stat. 536; Pub. L. 100–607, title VII, §713(a), Nov. 4, 1988, 102 Stat. 3160; Pub. L. 111–148, title V, §5310(b)(2), (6), Mar. 23, 2010, 124 Stat. 631.)
 
 #### Amendments
 
@@ -104,5 +104,5 @@ Pub. L. 94–63, title IX, §942, July 29, 1975, 89 Stat. 367, provided that: �
 
 #### Effective Date of 1968 Amendment
 
-Amendment by section 222(c)(2) of Pub. L. 90–490 applicable with respect to loans made after June 30, 1969, see section 222(i) of Pub. L. 90–490, set out as a note under section 297b of this title.
+Amendment by section 222(c)(2) of Pub. L. 90–490 applicable with respect to loans made after June 30, 1969,see section 222(i) of Pub. L. 90–490, set out as a note under section 297b of this title.
 

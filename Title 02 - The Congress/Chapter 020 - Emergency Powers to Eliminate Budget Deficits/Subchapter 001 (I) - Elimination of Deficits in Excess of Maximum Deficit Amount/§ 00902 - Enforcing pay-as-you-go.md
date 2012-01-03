@@ -8,7 +8,7 @@ The purpose of this section is to assure that any legislation enacted before Oct
 
 #### (1) Timing
 
-&emsp;Not later than 15 calendar days after the date Congress adjourns to end a session and onthe same day as a sequestration (if any) under section 901 or 903 of this title, there shall be a sequestration to offset the amount of any net deficit increase caused by all direct spending and receipts legislation enacted before October 1, 2002, as calculated under paragraph (2).
+&emsp;Not later than 15 calendar days after the date Congress adjourns to end a session and on the same day as a sequestration (if any) under section 901 or 903 of this title, there shall be a sequestration to offset the amount of any net deficit increase caused by all direct spending and receipts legislation enacted before October 1, 2002, as calculated under paragraph (2).
 
 #### (2) Calculation of deficit increase
 
@@ -48,7 +48,7 @@ The purpose of this section is to assure that any legislation enacted before Oct
 
 #### (2) OMB estimates
 
-&emsp;Not later than 7 calendar days (excluding Saturdays, Sundays, and legal holidays) after the date of enactment of any direct spending or receipts legislation, OMB shall transmit a report to the House of Representatives and to the Senate containing—
+&emsp;Not later than 7 calendar days (excluding Saturdays, Sundays, and legal holidays) afterthe date of enactment of any direct spending or receipts legislation, OMB shall transmit a report to the House of Representatives and to the Senate containing—
 
 &emsp;&emsp;(A) the CBO estimate of that legislation;
 
@@ -80,11 +80,7 @@ The purpose of this section is to assure that any legislation enacted before Oct
 
 If a provision of direct spending or receipts legislation is enacted that the President designates as an emergency requirement and that the Congress so designates in statute, the amounts of new budget authority, outlays, and receipts in all fiscal years resulting from that provision shall be designated as an emergency requirement in the reports required under subsection (d) of this section. This subsection shall not apply to direct spending provisions to cover agricultural crop disaster assistance.
 
-(Pub. L. 99–177, title II, §252, Dec. 12, 1985, 99 Stat. 1072; Pub. L. 100–119, title I, §102(a), Sept.29, 1987, 101 Stat. 764; Pub. L. 100–203, title VIII, §8003(e), Dec. 22, 1987, 101 Stat. 1330–282; Pub. L. 101–508, title XIII, §13101(a), Nov. 5, 1990, 104 Stat. 1388–581; Pub. L. 103–66, title XIV, §14003(a), Aug. 10, 1993, 107 Stat. 684; Pub. L. 103–354, title I, §119(d)(2), Oct. 13, 1994, 108 Stat. 3208; Pub. L. 105–33, title X, §10205, Aug. 5, 1997, 111 Stat. 702.)
-
-#### Termination of Section
-
-<i>Section expired Sept. 30, 2006. See section 275(b) of Pub. L. 99–177, as amended, set out as an Effective and Termination Dates note under section 900 of this title.</i>
+(Pub. L. 99–177, title II, §252, Dec. 12, 1985, 99 Stat. 1072; Pub. L. 100–119, title I, §102(a), Sept. 29, 1987, 101 Stat. 764; Pub. L. 100–203, title VIII, §8003(e), Dec. 22, 1987, 101 Stat. 1330–282; Pub. L. 101–508, title XIII, §13101(a), Nov. 5, 1990, 104 Stat. 1388–581; Pub. L. 103–66, title XIV, §14003(a), Aug. 10, 1993, 107 Stat. 684; Pub. L. 103–354, title I, §119(d)(2), Oct. 13, 1994, 108 Stat. 3208; Pub. L. 105–33, title X, §10205, Aug. 5, 1997, 111 Stat. 702.)
 
 #### References in Text
 
@@ -94,7 +90,7 @@ Section 906(c) of this title, referred to in subsec. (c)(1)(B), was repealed by 
 
 #### Amendments
 
-1997—Subsec. (a). Pub. L. 105–33, §10205(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The purpose of this section is to assure that any legislation (enacted after November 5, 1990) affecting direct spending or receipts that increases the deficit in any fiscal year covered by this Act will trigger an offsetting sequestration.”
+<b>1997</b>—Subsec. (a). Pub. L. 105–33, §10205(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The purpose of this section is to assure that any legislation (enacted after November 5, 1990) affecting direct spending or receipts that increases the deficit in any fiscal year covered by this Act will trigger an offsetting sequestration.”
 
 Subsec. (b). Pub. L. 105–33, §10205(1), added subsec. (b) and struck out heading and text of former subsec. (b) which required sequestrations at the end of a session of Congress to offset amount of any net deficit increase in that fiscal year and prior fiscal year caused by all direct spending and receipts legislation enacted after Nov. 5, 1990.
 
@@ -104,23 +100,27 @@ Subsec. (d). Pub. L. 105–33, §10205(3), amended heading and text of subsec. (
 
 Subsec. (e). Pub. L. 105–33, §10205(4), struck out “, for any fiscal year from 1991 through 1998,” after “If” and “through 1995” after “receipts in all fiscal years”.
 
-1994—Subsec. (e). Pub. L. 103–354 inserted at end “This subsection shall not apply to direct spending provisions to cover agricultural crop disaster assistance.”
+<b>1994</b>—Subsec. (e). Pub. L. 103–354 inserted at end “This subsection shall not apply to direct spending provisions to cover agricultural crop disaster assistance.”
 
-1993—Subsec. (a). Pub. L. 103–66, §14003(a)(1), which directed the substitution of “Fiscal year 1992–1998 enforcement” for “Fiscal year 1992–1995 enforcement” in heading, was executed by substituting “Fiscal years 1992–1998 enforcement” for “Fiscal years 1992–1995 enforcement”, to reflect the probable intent of Congress.
+<b>1993</b>—Subsec. (a). Pub. L. 103–66, §14003(a)(1), which directed the substitution of “Fiscal year 1992–1998 enforcement” for “Fiscal year 1992–1995 enforcement” in heading, was executed by substituting “Fiscal years 1992–1998 enforcement” for “Fiscal years 1992–1995 enforcement”, to reflect the probable intent of Congress.
 
 Subsec. (d). Pub. L. 103–66, §14003(a)(2), substituted “through fiscal year 1998” for “through fiscal year 1995” in two places.
 
 Subsec. (e). Pub. L. 103–66, §14003(a)(3), substituted “for any fiscal year from 1991 through 1998” for “for fiscal year 1991, 1992, 1993, 1994, or 1995”.
 
-1990—Pub. L. 101–508 amended section generally, substituting subsecs. (a) to (e) relating to enforcement of pay-as-you-go for former subsecs. (a) to (g) relating to Presidential order.
+<b>1990</b>—Pub. L. 101–508 amended section generally, substituting subsecs. (a) to (e) relating to enforcement of pay-as-you-go for former subsecs. (a) to (g) relating to Presidential order.
 
-1987—Pub. L. 100–119 amended section generally to reflect substitution of Director of OMB for Comptroller General as official submitting reports under section 901 of this title and to revise provisions relating to content of Presidential orders issued in accordance with those reports.
+<b>1987</b>—Pub. L. 100–119 amended section generally to reflect substitution of Director of OMB for Comptroller General as official submitting reports under section 901 of this title and to revise provisions relating to content of Presidential orders issued in accordance with those reports.
 
 Subsec. (c)(2)(F)(ii). Pub. L. 100–203, §8003(e), substituted “proposed” for “made”.
 
 #### Effective Date of 1994 Amendment
 
 Section 119(d)(2) of Pub. L. 103–354 provided that the amendment made by that section is effective Jan. 1, 1995.
+
+#### Congressional Budget Office Excepted From Certain Requirements
+
+Pub. L. 112–25, title I, §104(b), Aug. 2, 2011, 125 Stat. 246, provided that: “Sections 252(d)(1), 254(c), 254(f)(3), and 254(i) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 902(d)(1), 904(c), (f)(3), (i)\] shall not apply to the Congressional Budget Office.”
 
 #### Reduction of Preexisting Paygo Balances
 

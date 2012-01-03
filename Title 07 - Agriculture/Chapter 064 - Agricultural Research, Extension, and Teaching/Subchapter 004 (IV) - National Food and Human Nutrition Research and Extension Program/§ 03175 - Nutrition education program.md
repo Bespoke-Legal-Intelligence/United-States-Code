@@ -10,7 +10,7 @@ The Secretary shall establish a national education program which shall include, 
 
 #### (c) Employment and training
 
-To enable low-income individuals and families to engage in nutritionally sound food purchasing and preparation practices, the expanded food and nutrition education program presently conducted under section 343(d) of this title, shall provide for the employment and training of professional and paraprofessional aides to engage in direct nutrition education of low-income families and in other appropriate nutrition education programs. To the maximum extent practicable, program aides shall be hired from the indigenous target population.
+To enable low-income individuals and families to engage in nutritionally sound food purchasing and preparation practices, the expanded food and nutrition education program presently conducted under section 343(d) of this title, shall provide for the employment and training of professional and paraprofessional aides to engage indirect nutrition education of low-income families and in other appropriate nutrition education programs. To the maximum extent practicable, program aides shall be hired from the indigenous target population.
 
 #### (d) Allocation of funding
 
@@ -74,7 +74,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Pub. L. 110–246, §7116(a)(2), reenacted section catchline without change.
+<b>2008</b>—Pub. L. 110–246, §7116(a)(2), reenacted section catchline without change.
 
 Subsecs. (a) to (d). Pub. L. 110–246, §7116(a)(1)–(5)(A), added subsec. (a), redesignated former subsecs. (a) to (c) as (b) to (d), respectively, inserted headings, and in subsec. (c) substituted “To enable” for “In order to enable”.
 
@@ -84,15 +84,15 @@ Subsec. (d)(3). Pub. L. 110–246, §7116(a)(5)(C), struck out par. (3) which re
 
 Subsecs. (e), (f). Pub. L. 110–246, §7116(a)(6), added subsecs. (e) and (f).
 
-2002—Subsec. (c)(3). Pub. L. 107–171 substituted “2007” for “2002”.
+<b>2002</b>—Subsec. (c)(3). Pub. L. 107–171 substituted “2007” for “2002”.
 
-1998—Subsec. (c)(3). Pub. L. 105–185 substituted “through 2002” for “and 1997”.
+<b>1998</b>—Subsec. (c)(3). Pub. L. 105–185 substituted “through 2002” for “and 1997”.
 
-1996—Subsec. (c)(3). Pub. L. 104–127 substituted “, $83,000,000 for each of fiscal years 1996 and 1997” for “$63,000,000 for fiscal year 1991, $68,000,000 for fiscal year 1992, $73,000,000 for fiscal year 1993, $78,000,000 for fiscal year 1994, and $83,000,000 for fiscal year 1995”.
+<b>1996</b>—Subsec. (c)(3). Pub. L. 104–127 substituted “, $83,000,000 for each of fiscal years 1996 and 1997” for “$63,000,000 for fiscal year 1991, $68,000,000 for fiscal year 1992, $73,000,000 for fiscal year 1993, $78,000,000 for fiscal year 1994, and $83,000,000 for fiscal year 1995”.
 
-1990—Subsec. (c)(3). Pub. L. 101–624 added par. (3).
+<b>1990</b>—Subsec. (c)(3). Pub. L. 101–624 added par. (3).
 
-1981—Subsec. (b). Pub. L. 97–98 substantially retained existing provisions of the subsection relating to expanded food and nutrition education programs and transferred remaining provisions relating to allocation of funds to States and the authority of the Secretary to develop educational materials and programs for persons in certain income ranges to a new subsec. (c).
+<b>1981</b>—Subsec. (b). Pub. L. 97–98 substantially retained existing provisions of the subsection relating to expanded food and nutrition education programs and transferred remaining provisions relating to allocation of funds to States and the authority of the Secretary to develop educational materials and programs for persons in certain income ranges to a new subsec. (c).
 
 Subsec. (c). Pub. L. 97–98 added subsec. (c), and included therein provisions relating to allocation of funds to States and the authority of the Secretary to develop educational materials and programs for persons in certain income ranges formerly contained in subsec. (b).
 

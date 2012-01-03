@@ -10,7 +10,7 @@ To encourage large-scale experimentation in the use of new technologies, methods
 
 #### (c) Acquisition, use, and disposal of property; transfer of excess property
 
-Notwithstanding any other provision of law, the Secretary is authorized, in connection with projects under this title \[12 U.S.C. 1701z–1 et seq.\], to acquire, use and dispose of any land and other property required for the project as he deems necessary. Notwithstanding the provisions of the Federal Property and Administrative Services Act of 1949, any land which is excess property within the meaning of such Act and which is determined by the Secretary to be suitable in furtherance of the purposes of subsection (b) of this section may be transferred to the Secretary upon his request.
+Notwithstanding any other provision of law, the Secretary is authorized, in connection with projects under this title \[12 U.S.C. 1701z–1 et seq.\], to acquire, use and dispose of any land and other property required for the project as he deems necessary. Notwithstanding the provisions of chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, any land which is excess property within the meaning of chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41 and which is determined by the Secretary to be suitable in furtherance of the purposes of subsection (b) of this section may be transferred to the Secretary upon his request.
 
 #### (d) Technical assistance; reports; general dissemination and form of reports, data, and information
 
@@ -18,7 +18,7 @@ In order to effectively carry out his activities under section 1701z–1 of this
 
 #### (e) Contracts or grants; authority; advance and progress payments; work limitation
 
-The Secretary is authorized to carry out the functions authorized in section 1701z–1 of this title either directly or, without regard to section 5 of title 41, by contract or by grant. Advance and progress payment may be made under such contracts or grants without regard to the provisions of subsections (a) and (b) of section 3324 of title 31 and such contracts or grants may be made for work to continue for not more than four years from the date thereof.
+The Secretary is authorized to carry out the functions authorized in section 1701z–1 of this title either directly or, without regard to section 6101 of title 41, by contract or by grant. Advance and progress payments may be made under such contracts or grants without regard to the provisions of subsections (a) and (b) of section 3324 of title 31 and such contracts or grants may be made for work to continue for not more than four years from the date thereof.
 
 #### (f) Utilization of facilities of other agencies; working agreements, cooperative agreements, contract authority, receipt of funds, and exercise of section 1701c(c) powers
 
@@ -32,19 +32,21 @@ The Secretary is authorized to request and receive such information or data as h
 
 #### References in Text
 
-This title, referred to in subsecs. (c), (d), and (f), is title V of the Housing and Urban Development Act of 1970, Pub. L. 91–609, Dec. 31, 1970, 84 Stat. 1784, as amended, which is classified generally to section 1701z–1 et seq., of this title. For complete classification of this Act to the Code, see Short Title of 1970 Amendments note set out under section 1701 of this title and Tables.
-
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (c), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for titleIII of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
+This title, referred to in subsecs. (c), (d), and (f) following “under”, is title V of the Housing and Urban Development Act of 1970, Pub. L. 91–609, Dec. 31, 1970, 84 Stat. 1784, as amended, which is classified generally to section 1701z–1 et seq., of this title. For complete classification of this Act to the Code, see Short Title of 1970Amendments note set out under section 1701 of this title and Tables.
 
 For effective date of section 3204 of title 39 as provided in section 15(a) of the Postal Reorganization Act, referred to in subsec. (d), see notes preceding section 101 and under section 3204 of Title 39, Postal Service.
 
 #### Codification
 
+In subsec. (c), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, any land which is excess property within the meaning of chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949, any land which is excess property within the meaning of such Act” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+In subsec. (e), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
 Section was enacted as part of the Housing and Urban Development Act of 1970, and not as part of the National Housing Act which comprises this chapter.
 
 #### Amendments
 
-1984—Subsec. (e). Pub. L. 98–479 substituted “subsections (a) and (b) of section 3324 of title 31” for “section 3648 of the Revised Statutes \[31 U.S.C. 529\]”.
+<b>1984</b>—Subsec. (e). Pub. L. 98–479 substituted “subsections (a) and (b) of section 3324 of title 31” for “section 3648 of the Revised Statutes \[31 U.S.C. 529\]”.
 
-1976—Subsec. (f). Pub. L. 94–375 inserted “and such departments and agencies are hereby authorized to execute such contracts and grants.” after “make grants on his behalf”.
+<b>1976</b>—Subsec. (f). Pub. L. 94–375 inserted “and such departments and agencies are hereby authorized to execute such contracts and grants.” after “make grants on his behalf”.
 

@@ -16,7 +16,7 @@ The Secretary shall provide assistance directly to a jurisdiction only if—
 
 A housing strategy submitted under this section shall be in a form that the Secretary determines to be appropriate for the assistance the jurisdiction may be provided and shall—
 
-&emsp;(1) describe the jurisdiction's estimated housing needs projected for the ensuing 5-year period, and the jurisdiction's need for assistance for very low-income, low-income, and moderate-income families, specifying such needs for different types of tenure and for different categories of residents, such as very low-income, low-income, and moderate-income families, the elderly, persons with disabilities, single persons, large families, residents of nonmetropolitan areas, families who are participating in an organized program to achieve economic independence and self-sufficiency, persons with acquired immunodeficiency syndrome, victims of domestic violence, datingviolence, sexual assault, and stalking and other categories of persons residing in or expected to reside in the jurisdiction that the Secretary determines to be appropriate;
+&emsp;(1) describe the jurisdiction's estimated housing needs projected for the ensuing 5-year period, and the jurisdiction's need for assistance for very low-income, low-income, and moderate-income families, specifying such needs for different types of tenure and for different categories of residents, such as very low-income, low-income, and moderate-income families, the elderly, persons with disabilities, single persons, large families, residents of nonmetropolitan areas, families who are participating in an organized program to achieve economic independence and self-sufficiency, persons with acquired immunodeficiency syndrome, victims of domestic violence, dating violence, sexual assault, and stalking and other categories of persons residing in or expected to reside in the jurisdiction that the Secretary determines to be appropriate;
 
 &emsp;(2) describe the nature and extent of homelessness, including rural homelessness, within the jurisdiction, providing an estimate of the special needs of various categories of persons who are homeless or threatened with homelessness, including tabular representation of such information, and a description of the jurisdiction's strategy for (A) helping low-income families avoid becoming homeless; (B) addressing the emergency shelter and transitional housing needs of homeless persons (including a brief inventory of facilities and services that meet such needs within that jurisdiction); and (C) helping homeless persons make the transition to permanent housing and independent living;
 
@@ -74,7 +74,7 @@ A housing strategy submitted under this section shall be in a form that the Secr
 
 #### (d) Coordination of State and local housing strategies
 
-The Secretary may establish such requirements as the Secretary deems appropriate to encourage coordination between and among the housing strategies of a State and any participating jurisdictions within the State, except that a unit of general local government shall not be required to have elements of its housing strategy approved by the State.
+The Secretary may establish such requirements as the Secretary deems appropriate to encourage coordination between and among the housing strategies of a State and any participating jurisdictions within the State, except that aunit of general local government shall not be required to have elements of its housing strategy approved by the State.
 
 #### (e) Consultation with social service agencies
 

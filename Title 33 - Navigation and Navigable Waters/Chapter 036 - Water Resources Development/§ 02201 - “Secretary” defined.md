@@ -66,7 +66,7 @@ Impartial decisionmaking.—In carrying out this section, the Secretary shall en
 
 &emsp;&emsp;&emsp;“(i) the District Commander, or the Commander's designee, of the Corps District in which the project or activity is located; or
 
-&emsp;&emsp;&emsp;“(ii) the Commander of the Corps Division in which the District is located if the evaluation ofthe permit is initially conducted by the District Commander; and
+&emsp;&emsp;&emsp;“(ii) the Commander of the Corps Division in which the District is located if the evaluation of the permit is initially conducted by the District Commander; and
 
 &emsp;&emsp;“(B) utilize the same procedures for decisions that would otherwise be required for the evaluation of permits for similar projects or activities not carried out using funds authorized under this section.
 

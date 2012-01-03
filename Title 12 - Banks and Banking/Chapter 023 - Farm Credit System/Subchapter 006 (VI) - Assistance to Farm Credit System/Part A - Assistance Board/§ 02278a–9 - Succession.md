@@ -22,7 +22,7 @@ To the extent that, on the extinguishing of liabilities assumed by the Assistanc
 
 &emsp;Notwithstanding any other provision of this chapter or the terms and conditions of the Thirty-Seven Banks Capital Preservation Agreement, the Federal Land Banks Capital Preservation Agreement, the Federal Intermediate Credit Banks Capital Preservation Agreement, and the Banks for Cooperatives Loss Sharing Agreement—
 
-&emsp;&emsp;(A) at the time the receiving bank receives funds from the Financial Assistance Corporation in an equal and equivalent amount in accordance with this subsection, any amounts received by, or that remain accrued to, any System bank in accordance with the activation of any such agreement for the calendar quarter ending on September 30, 1986, shall be—
+&emsp;&emsp;(A) at the time the receiving bank receives funds from the Financial Assistance Corporation in an equal and equivalent amount in accordance with this subsection, any amounts received by, or that remain accrued to, any System bank in accordance with the activation of any such agreement for thecalendar quarter ending on September 30, 1986, shall be—
 
 &emsp;&emsp;&emsp;(i) repaid to the contributing bank by the bank that received such payments; or
 
@@ -30,7 +30,7 @@ To the extent that, on the extinguishing of liabilities assumed by the Assistanc
 
 &emsp;&emsp;(B) on the date the Financial Assistance Corporation is chartered, the accounts payable of each contributing bank under such agreements for the calendar quarter ending on September 30, 1986, shall, by operation of law and without any further action by such contributing bank, any other bank, or any court, become and be converted into accounts payable of the Financial Assistance Corporation to each receiving bank under such agreement for such calendar quarter in the same amounts as previously carried on the books of each such receiving bank; and
 
-&emsp;&emsp;(C) on the date the Financial Assistance Corporation is chartered, the accounts receivable of each receiving bank under such agreements for the calendar quarter ending September 30, 1986, shall, by operation of law and without any further action by such receiving bank or any other bank, or any court, become and be converted into accounts receivable to such receiving bankfrom the Financial Assistance Corporation, in the same amount as previously carried on the books of such receiving bank and such receivables shall, for all financial reporting purposes, be accounted for as an asset on the books of such receiving bank in accordance with generally accepted accounting practices.
+&emsp;&emsp;(C) on the date the Financial Assistance Corporation is chartered, the accounts receivable of each receiving bank under such agreements for the calendar quarter ending September 30, 1986, shall, by operation of law and without any further action by such receiving bank or any other bank, or any court, become and be converted into accounts receivable to such receiving bank from the Financial Assistance Corporation, in the same amount as previously carried on the books of such receiving bank and such receivables shall, for all financial reporting purposes, be accounted for as an asset on the books of such receiving bank in accordance with generally accepted accounting practices.
 
 #### (2) Payments to receiving banks
 
@@ -78,7 +78,7 @@ To the extent that, on the extinguishing of liabilities assumed by the Assistanc
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In order to provide for the orderly funding and discharge over time of the obligation of each System bank to the Financial Assistance Corporation under subparagraph (C), each System bank shall enter into or continue in effect an agreement with the Financial Assistance Corporation under which the bank will make annual annuity-type payments to the Financial Assistance Corporation, beginning no later than December 31, 1992 (except for any bank that did not meet its interim capital requirement on December 31, 1990, in which case the bank shall begin making the payments no later than December 31, 1993) in amounts designed to accumulate, in total, including earnings on the amounts, to 90 percent of the bank's ultimate obligation. The Financial Assistance Corporation shall partially discharge the bank from its obligation under subparagraph (C) to the extent of each such payment and the earnings on the payment as earned.
+&emsp;&emsp;&emsp;In order to provide for the orderly funding and discharge over time of the obligation of each System bank to the Financial Assistance Corporation under subparagraph (C), each System bank shall enter into or continue in effect an agreement with the Financial Assistance Corporationunder which the bank will make annual annuity-type payments to the Financial Assistance Corporation, beginning no later than December 31, 1992 (except for any bank that did not meet its interim capital requirement on December 31, 1990, in which case the bank shall begin making the payments no later than December 31, 1993) in amounts designed to accumulate, in total, including earnings on the amounts, to 90 percent of the bank's ultimate obligation. The Financial Assistance Corporation shall partially discharge the bank from its obligation under subparagraph (C) to the extent of each such payment and the earnings on the payment as earned.
 
 #### (ii) Capital requirements
 
@@ -86,7 +86,7 @@ To the extent that, on the extinguishing of liabilities assumed by the Assistanc
 
 #### (iii) Investment; availability
 
-&emsp;&emsp;&emsp;The funds received by the Financial Assistance Corporation pursuant to theagreements shall be invested in eligible investments as defined in section 2278b–5(a)(1) of this title. The funds and the earnings on the funds shall be available only for the payment of the principal of the bonds issued by the Financial Assistance Corporation under this subsection.
+&emsp;&emsp;&emsp;The funds received by the Financial Assistance Corporation pursuant to the agreements shall be invested in eligible investments as defined in section 2278b–5(a)(1) of this title. The funds and the earnings on the funds shall be available only for the payment of the principal of the bonds issued by the Financial Assistance Corporation under this subsection.
 
 #### (E) Financial reporting
 
@@ -110,7 +110,7 @@ The Agricultural Credit Act of 1987, referred to in subsec. (e)(5), is Pub. L. 1
 
 #### Amendments
 
-1992—Subsec. (e)(3)(C). Pub. L. 102–552, §301(1), added subpar. (C) and struck out former subpar. (C) which read as follows:
+<b>1992</b>—Subsec. (e)(3)(C). Pub. L. 102–552, §301(1), added subpar. (C) and struck out former subpar. (C) which read as follows:
 
 “(C)
 
@@ -124,7 +124,7 @@ Subsec. (e)(3)(D). Pub. L. 102–552, §301(2), (3), added subpar. (D) and redes
 
 Subsec. (e)(3)(E). Pub. L. 102–552, §301(2), (4), redesignated subpar. (D) as (E) and inserted before period at end “, nor shall the obligation to make future annuity payments to the Financial Assistance Corporation under subparagraph (D) be considered a liability of any System bank”.
 
-1988—Subsec. (a). Pub. L. 100–399, §201(k), inserted in heading “Assets and”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–399, §201(k), inserted in heading “Assets and”.
 
 Subsec. (e)(5). Pub. L. 100–399, §201(<i>l</i>), inserted “activation of” after “instruments,” and struck out closing quotation mark and following period, which for purposes of codification had been previously struck out requiring no change in text.
 

@@ -4,7 +4,7 @@
 
 Each Federal agency may permit the director of any of its Government-operated Federal laboratories, and, to the extent provided in an agency-approved joint work statement or, if permitted by the agency, in an agency-approved annual strategic plan, the director of any of its Government-owned, contractor-operated laboratories—
 
-&emsp;(1) to enter into cooperative research and development agreements on behalf of such agency (subject to subsection (c) of this section) with other Federal agencies; units of State or local government; industrial organizations (including corporations, partnerships, and limited partnerships, and industrial development organizations); public and private foundations; nonprofit organizations (including universities); or other persons (including licensees of inventions owned by the Federal agency); and
+&emsp;(1) to enter into cooperative research and development agreements on behalf of such agency (subject to subsection (c) of this section) with other Federal agencies; units of State or local government; industrial organizations (including corporations, partnerships, and limited partnerships, and industrial developmentorganizations); public and private foundations; nonprofit organizations (including universities); or other persons (including licensees of inventions owned by the Federal agency); and
 
 &emsp;(2) to negotiate licensing agreements under section 207 of title 35, or under other authorities (in the case of a Government-owned, contractor-operated laboratory, subject to subsection (c) of this section) for inventions made or other intellectual property developed at the laboratory and other inventions or other intellectual property that may be voluntarily assigned to the Government.
 
@@ -84,7 +84,7 @@ Each Federal agency may permit the director of any of its Government-operated Fe
 
 (iii) In any case in which an agency which has contracted with an entity referred to in clause (i) disapproves or requests the modification of a cooperative research and development agreement or joint work statement submitted under that clause, the agency shall transmit a written explanation of such disapproval or modification to the head of the laboratory concerned.
 
-(iv) Any agency that has contracted with a non-Federal entity to operate a laboratory may develop and provide to such laboratory one ormore model cooperative research and development agreements for purposes of standardizing practices and procedures, resolving common legal issues, and enabling review of cooperative research and development agreements to be carried out in a routine and prompt manner.
+(iv) Any agency that has contracted with a non-Federal entity to operate a laboratory may develop and provide to such laboratory one or more model cooperative research and development agreements for purposes of standardizing practices and procedures, resolving common legal issues, and enabling review of cooperative research and development agreements to be carried out in a routine and prompt manner.
 
 (v) A Federal agency may waive the requirements of clause (i) or (ii) under such circumstances as the agency considers appropriate.
 
@@ -134,7 +134,7 @@ In implementing this section, each agency which has contracted with a non-Federa
 
 #### References in Text
 
-Section 203(2) of title 35, referred to in subsec. (b)(1)(C), was redesignated section 203(b) of title 35 byPub. L. 107–273, div. C, title III, §13206(a)(14)(A)(i), Nov. 2, 2002, 116 Stat. 1905.
+Section 203(2) of title 35, referred to in subsec. (b)(1)(C), was redesignated section 203(b) of title 35 by Pub. L. 107–273, div. C, title III, §13206(a)(14)(A)(i), Nov. 2, 2002, 116 Stat. 1905.
 
 Executive Order No. 12344, referred to in subsec. (d)(2), is set out as a note under section 2511 of Title 50, War and National Defense.
 

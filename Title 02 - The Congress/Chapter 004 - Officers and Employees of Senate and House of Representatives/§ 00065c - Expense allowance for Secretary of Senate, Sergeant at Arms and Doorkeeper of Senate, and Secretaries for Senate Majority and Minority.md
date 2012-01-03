@@ -8,11 +8,11 @@
 
 #### Amendments
 
-2003—Subsec. (a). Pub. L. 108–83 substituted “$6,000” for “$3,000”.
+<b>2003</b>—Subsec. (a). Pub. L. 108–83 substituted “$6,000” for “$3,000”.
 
-1986—Subsec. (a). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsec. (a). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-1983—Subsec. (a). Pub. L. 98–63, which directed that “$3,000” be substituted for “$2,000” in first sentence of subsec. (a), was executed by making the substitution in second sentence as the probable intent of Congress.
+<b>1983</b>—Subsec. (a). Pub. L. 98–63, which directed that “$3,000” be substituted for “$2,000” in first sentence of subsec. (a), was executed by making the substitution in second sentence as the probable intent of Congress.
 
 #### Effective Date of 2003 Amendment
 

@@ -1,7 +1,5 @@
 ### SUBCHAPTER I—GENERAL PROVISIONS
 
-<i><sup>1</sup></i><i> Section catchline amended by Pub. L. 97–365 without corresponding amendment of chapter analysis.</i>
-
 
 ---
 

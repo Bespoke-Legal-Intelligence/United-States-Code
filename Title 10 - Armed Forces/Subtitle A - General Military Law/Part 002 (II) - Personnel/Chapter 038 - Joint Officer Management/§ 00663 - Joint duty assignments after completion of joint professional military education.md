@@ -6,9 +6,9 @@ Joint Qualified Officers.—The Secretary of Defense shall ensure that each offi
 
 (b)
 
-Other Officers.—(1) The Secretary of Defense shall ensure that a high proportion (which shall be greater than 50 percent) of the officers graduating from a school within the National Defense University specified in subsection (c) who are not designated as a joint qualified officer shall receive assignments to a joint duty assignment as their next duty assignment after such graduation or, to the extent authorized in paragraph (2), as their second duty assignment after such graduation.
+Other Officers.—(1) The Secretary of Defense shall ensure that a high proportion (which shall be greater than 50 percent) of the officers graduating from a school within the National Defense University specified in subsection (c) who are not designated as a joint qualified officer shall receive assignments to a joint duty assignment (or, as authorized by the Secretary in an individual case, to a joint assignment other than a joint duty assignment) as their next duty assignment after such graduation or, to the extent authorized in paragraph (2), as their second duty assignment after such graduation.
 
-(2) The Secretary may, if the Secretary determines that it is necessary to do so for the efficient management of officer personnel, establish procedures to allow up to one-half of the officers subject to the joint duty assignment requirement in paragraph (1) to be assigned to a joint duty assignment as their second (rather than first) assignment after such graduation from a school referred to in paragraph (1).
+(2) The Secretary may, if the Secretary determines that it is necessary to do so for the efficient management of officer personnel, establish procedures to allow up to one-half of the officers subject to the assignment requirement in paragraph (1) to be assigned to such an assignment as their second (rather than first) assignment after such graduation from a school referred to in paragraph (1).
 
 (c)
 
@@ -16,13 +16,27 @@ Covered Schools Within the National Defense University.—For purposes of this s
 
 &emsp;(1) The National War College.
 
-&emsp;(2) The Industrial College of the Armed Forces.
+&emsp;(2) The Dwight D. Eisenhower School for National Security and Resource Strategy.
 
 &emsp;(3) The Joint Forces Staff College.
 
-(Added Pub. L. 99–433, title IV, §401(a), Oct. 1, 1986, 100 Stat. 1027; amended Pub. L. 101–189, div. A, title XI, §1123(c)(1), Nov. 29, 1989, 103 Stat. 1557; Pub. L. 102–190, div. A, title IX, §912(a), Dec. 5, 1991, 105 Stat. 1452; Pub. L. 103–160, div. A, title IX, §933(a), Nov. 30, 1993, 107 Stat. 1735; Pub. L. 107–107, div. A, title X, §1048(a)(6), Dec. 28, 2001, 115 Stat. 1223; Pub. L. 107–314, div. A, title X, §1062(a)(5), Dec. 2, 2002, 116 Stat. 2650; Pub. L. 108–375, div. A, title V, §532(b)–(c)(2)(A), Oct. 28, 2004, 118 Stat. 1900; Pub. L. 109–364, div. A, title V, §518, Oct. 17, 2006, 120 Stat. 2190; Pub. L. 110–417, \[div. A\], title V, §522(b), Oct. 14, 2008, 122 Stat. 4445.)
+(d)
+
+Exception for Officers Graduating From Other-than-in-residence Programs.—(1) Subsection (a) does not apply to an officer graduating from a school within the National Defense University specified in subsection (c) following pursuit of a program on an other-than-in-residence basis.
+
+(2) Subsection (b) does not apply with respect to any group of officers graduating from a school within the National Defense University specified in subsection (c) following pursuit of a program on an other-than-in-residence basis.
+
+(Added Pub. L. 99–433, title IV, §401(a), Oct. 1, 1986, 100 Stat. 1027; amended Pub. L. 101–189, div. A, title XI, §1123(c)(1), Nov. 29, 1989, 103 Stat. 1557; Pub. L. 102–190, div. A, title IX, §912(a), Dec. 5, 1991, 105 Stat. 1452; Pub. L. 103–160, div. A, title IX, §933(a), Nov. 30, 1993, 107 Stat. 1735; Pub. L. 107–107, div. A, title X, §1048(a)(6), Dec. 28, 2001, 115 Stat. 1223; Pub. L. 107–314, div. A, title X, §1062(a)(5), Dec. 2, 2002, 116 Stat. 2650; Pub. L. 108–375, div. A, title V, §532(b)–(c)(2)(A), Oct. 28, 2004, 118 Stat. 1900; Pub. L. 109–364, div. A, title V, §518, Oct. 17, 2006, 120 Stat. 2190; Pub. L. 110–417, \[div. A\], title V, §522(b), Oct. 14, 2008, 122 Stat. 4445; Pub. L. 112–81, div. A, title V, §503, div. B, title XXVIII, §2861(c), Dec. 31, 2011, 125 Stat. 1388, 1701.)
 
 #### Amendments
+
+<b>2011</b>—Subsec. (b)(1). Pub. L. 112–81, §503(a)(1), inserted “(or, as authorized by the Secretary in an individual case, to a joint assignment other than a joint duty assignment)” after “to a joint duty assignment”.
+
+Subsec. (b)(2). Pub. L. 112–81, §503(a)(2), substituted “the assignment” for “the joint duty assignment” and “such an assignment” for “a joint duty assignment”.
+
+Subsec. (c)(2). Pub. L. 112–81, §2861(c), substituted “Dwight D. Eisenhower School for National Security and Resource Strategy” for “Industrial College of the Armed Forces”.
+
+Subsec. (d). Pub. L. 112–81, §503(b), added subsec. (d).
 
 <b>2008</b>—Subsecs. (a), (b)(1). Pub. L. 110–417, in subsec. (a), substituted “Qualified” for “Specialty” in heading and “designated as a joint qualified officer” for “with the joint specialty” in text, and, in subsec. (b)(1), substituted “are not designated as a joint qualified officer” for “do not have the joint specialty”.
 
@@ -64,7 +78,7 @@ Post-Education Duty Assignments.—The Secretary of Defense shall ensure that—
 
 #### Effective Date of 1993 Amendment
 
-Section 933(b) of Pub. L. 103–160 provided that: “The amendments made by subsection (a) \[amending thissection\] shall apply with respect to officers graduating from joint professional military education schools after the date of the enactment of this Act \[Nov. 30, 1993\].”
+Section 933(b) of Pub. L. 103–160 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to officers graduating from joint professional military education schools after the date of the enactment of this Act \[Nov. 30, 1993\].”
 
 #### Effective Date of 1991 Amendment
 
@@ -84,7 +98,7 @@ Capstone course.—Subsection (a) of section 663 of such title \[10 U.S.C. 663(a
 
 “(2)
 
-Review of military education schools.—(A) The first review under subsections (b) and (c) of such section shall be completed not later than 120 days after the date of the enactment of this Act. The Secretary of Defense shall submit to Congress a report on the results of the review at each Department of Defense school not later than 60 days thereafter.
+Review of military education schools.—(A) The first review under subsections (b) and (c) of such section shall be completed not later than 120 days after the date of the enactment of this Act. The Secretary ofDefense shall submit to Congress a report on the results of the review at each Department of Defense school not later than 60 days thereafter.
 
 “(B) Such subsections shall be implemented so that the revised curricula take effect with respect to courses beginning after July 1987.
 

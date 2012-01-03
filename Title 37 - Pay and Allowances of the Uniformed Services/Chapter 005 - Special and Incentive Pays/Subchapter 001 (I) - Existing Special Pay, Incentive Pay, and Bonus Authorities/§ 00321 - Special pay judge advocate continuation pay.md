@@ -26,7 +26,7 @@ Payment Methods.—Upon acceptance of an agreement under subsection (b) by the S
 
 (e)
 
-Additional Pay.—Any amount paid to an officer under this section is in addition to any other pay and allowances to which the officer is entitled.
+Additional Pay.—Any amount paid to an officer under this section is in addition to anyother pay and allowances to which the officer is entitled.
 
 (f)
 

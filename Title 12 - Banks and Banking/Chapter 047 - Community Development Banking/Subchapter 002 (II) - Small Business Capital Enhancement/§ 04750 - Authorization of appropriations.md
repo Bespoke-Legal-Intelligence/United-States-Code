@@ -14,3 +14,5 @@ The amount authorized to be appropriated under subsection (a) of this section sh
 
 Section 665 of title 2, referred to in subsec. (b), was repealed by Pub. L. 105–33, title X, §10118(a), Aug. 5, 1997, 111 Stat. 695.
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

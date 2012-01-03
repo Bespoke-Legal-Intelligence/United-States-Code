@@ -114,7 +114,7 @@ The corporation shall not guarantee benefits under a multiemployer plan which, u
 
 (1) The corporation may guarantee the payment of such other classes of benefits under multiemployer plans, and establish the terms and conditions under which those other classes of benefits are guaranteed, as it determines to be appropriate.
 
-(2)(A) The corporation shall prescribe regulations to establish a supplemental program to guarantee benefits under multiemployer plans which would be guaranteed under this section but for the limitations in subsection (c) of this section. Such regulations shall be proposed by the corporation no later than the end of the 18th calendar month following September 26, 1980. The regulations shall make coverage under the supplemental program available no later than January 1, 1983. Any election to participate in the supplemental program shall be on a voluntary basis, and a plan electing such coverage shall continue to pay the premiums required under section 1306(a)(2)(B) of this title to the revolving fund used pursuant to section 1305 of this title in connection with benefits otherwise guaranteed under this section. Any such election shall be irrevocable, except to the extent otherwise provided by regulations prescribed by the corporation.
+(2)(A) The corporation shall prescribe regulations to establish a supplemental program to guarantee benefits under multiemployer plans which would be guaranteed under this section but for the limitations in subsection (c) of this section. Such regulations shall be proposed by the corporation no later than the end of the 18th calendar month following September 26, 1980. The regulations shall make coverage under the supplemental program available no later than January 1, 1983. Any election to participate inthe supplemental program shall be on a voluntary basis, and a plan electing such coverage shall continue to pay the premiums required under section 1306(a)(2)(B) of this title to the revolving fund used pursuant to section 1305 of this title in connection with benefits otherwise guaranteed under this section. Any such election shall be irrevocable, except to the extent otherwise provided by regulations prescribed by the corporation.
 
 (B) The regulations prescribed under this paragraph shall provide—
 
@@ -156,7 +156,7 @@ The corporation shall not guarantee benefits under a multiemployer plan which, u
 
 &emsp;(B) in which it is determined by the corporation that substantially all the employers have withdrawn from the plan pursuant to an agreement or arrangement to withdraw.
 
-(Pub. L. 93–406, title IV, §4022A, as added Pub. L. 96–364, title I, §102, Sept. 26, 1980, 94 Stat. 1210; amended Pub. L. 99–272, title XI, §11005(c)(4)–(12), Apr. 7, 1986, 100 Stat. 242; Pub. L. 101–239, title VII, §§7891(a)(1), 7893(b), 7894(g)(3)(C)(i), Dec. 19, 1989, 103 Stat. 2445, 2447, 2451; Pub. L. 106–554,§1(a)(6) \[title IX, §951(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–586.)
+(Pub. L. 93–406, title IV, §4022A, as added Pub. L. 96–364, title I, §102, Sept. 26, 1980, 94 Stat. 1210; amended Pub. L. 99–272, title XI, §11005(c)(4)–(12), Apr. 7, 1986, 100 Stat. 242; Pub. L. 101–239, title VII, §§7891(a)(1), 7893(b), 7894(g)(3)(C)(i), Dec. 19, 1989, 103 Stat. 2445, 2447, 2451; Pub. L. 106–554, §1(a)(6) \[title IX, §951(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–586.)
 
 #### References in Text
 
@@ -199,6 +199,8 @@ Subsec. (g)(4)(D). Pub. L. 99–272, §11005(c)(12), substituted “joint” for
 #### Change of Name
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Effective Date of 2000 Amendment
 

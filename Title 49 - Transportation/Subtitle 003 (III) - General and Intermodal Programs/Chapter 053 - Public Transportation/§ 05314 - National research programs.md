@@ -182,7 +182,7 @@ Pub. L. 109–59, §3002(b)(4), substituted “public transportation-related” 
 
 Subsec. (a)(4)(A). Pub. L. 109–59, §3002(b)(4), substituted “public transportation” for “mass transportation”.
 
-Subsec. (a)(4)(B), (C). Pub. L. 109–59, §3016(a)(4), (5), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “The Secretary shallestablish an Industry Technical Panel composed of representatives of transportation suppliers and operators and others involved in technology development. A majority of the Panel members shall represent the supply industry. The Panel shall assist the Secretary in identifying priority technology development areas and in establishing guidelines for project development, project cost sharing, and project execution.”
+Subsec. (a)(4)(B), (C). Pub. L. 109–59, §3016(a)(4), (5), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “The Secretary shall establish an Industry Technical Panel composed of representatives of transportation suppliers and operators and others involved in technology development. A majority of the Panel members shall represent the supply industry. The Panel shall assist the Secretary in identifying priority technology development areas and in establishing guidelines for project development, project cost sharing, and project execution.”
 
 Subsec. (a)(6). Pub. L. 109–59, §3016(a)(6), added par. (6).
 

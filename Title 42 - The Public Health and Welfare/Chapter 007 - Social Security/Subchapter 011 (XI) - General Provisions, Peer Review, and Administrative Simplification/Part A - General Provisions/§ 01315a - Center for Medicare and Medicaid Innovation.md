@@ -40,7 +40,7 @@
 
 #### (1) In general
 
-&emsp;The CMI shall test payment and service delivery models in accordance with selection criteria under paragraph (2) to determine the effect of applying such models under the applicable subchapter (as defined in subsection\(a)(4)(B)) on program expenditures under such subchapters and the quality of care received by individuals receiving benefits under such subchapter.
+&emsp;The CMI shall test payment and service delivery models in accordance with selection criteria under paragraph (2) to determine the effect of applying such models under the applicable subchapter (as defined in subsection (a)(4)(B)) on program expenditures under such subchapters and the quality of care received by individuals receiving benefits under such subchapter.
 
 #### (2) Selection of models to be tested
 
@@ -66,7 +66,7 @@
 
 &emsp;&emsp;&emsp;(v) Supporting care coordination for chronically-ill applicable individuals at high risk of hospitalization through a health information technology-enabled provider network that includes care coordinators, a chronic disease registry, and home tele-health technology.
 
-&emsp;&emsp;&emsp;(vi) Varying payment to physicians who order advanced diagnostic imaging services (as defined in section 1395m(e)(1)(B) of this title) according to the physician's adherence to appropriateness criteria for the ordering of such services, as determined in consultation with physician specialty groups and other relevant stakeholders.
+&emsp;&emsp;&emsp;(vi) Varying payment to physicians who order advanced diagnostic imaging services (as defined in section 1395m(e)(1)(B) of this title) according to the physician's adherence to appropriateness criteria for the ordering of such services, as determined inconsultation with physician specialty groups and other relevant stakeholders.
 
 &emsp;&emsp;&emsp;(vii) Utilizing medication therapy management services, such as those described in section 299b–35 of this title.
 
@@ -92,7 +92,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) providing assistance to other health care institutions on how best to employ such best practices and proven care methods to improve health care quality and lower costs.
 
-&emsp;&emsp;&emsp;(xvi) Facilitate inpatient care, including intensive care, of hospitalized applicable individuals at their local hospital through the use of electronic monitoring by specialists, including intensivists and criticalcare specialists, based at integrated health systems.
+&emsp;&emsp;&emsp;(xvi) Facilitate inpatient care, including intensive care, of hospitalized applicable individuals at their local hospital through the use of electronic monitoring by specialists, including intensivists and critical care specialists, based at integrated health systems.
 
 &emsp;&emsp;&emsp;(xvii) Promoting greater efficiencies and timely access to outpatient services (such as outpatient physical therapy services) through models that do not require a physician or other health professional to refer the service or be involved in establishing the plan of care for the service, when such service is furnished by a health professional who has the authority to furnish the service under existing State law.
 
@@ -156,7 +156,7 @@
 
 #### (B) Information
 
-&emsp;&emsp;The Secretary shall make the results of each evaluation under this paragraph available to the public in a timely fashion and may establish requirements for States andother entities participating in the testing of models under this section to collect and report information that the Secretary determines is necessary to monitor and evaluate such models.
+&emsp;&emsp;The Secretary shall make the results of each evaluation under this paragraph available to the public in a timely fashion and may establish requirements for States and other entities participating in the testing of models under this section to collect and report information that the Secretary determines is necessary to monitor and evaluate such models.
 
 #### (C) Measure selection
 
@@ -234,7 +234,7 @@ Beginning in 2012, and not less than once every other year thereafter, the Secre
 
 #### References in Text
 
-Section 4016 of the Balanced Budget Act of 1997, referred to in subsec. (b)(2)(B)(xx), is section 4016 of Pub.L. 105–33, which is set out as a note under section 1395b–1 of this title.
+Section 4016 of the Balanced Budget Act of 1997, referred to in subsec. (b)(2)(B)(xx), is section 4016 of Pub. L. 105–33, which is set out as a note under section 1395b–1 of this title.
 
 #### Amendments
 

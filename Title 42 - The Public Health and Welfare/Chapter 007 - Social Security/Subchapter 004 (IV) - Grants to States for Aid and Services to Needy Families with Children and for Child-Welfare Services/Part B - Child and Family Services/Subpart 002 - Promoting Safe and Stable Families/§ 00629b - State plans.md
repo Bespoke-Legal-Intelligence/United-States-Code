@@ -16,7 +16,7 @@ A State plan meets the requirements of this subsection if the plan—
 
 &emsp;&emsp;(ii) after the end of the last fiscal year covered by a set of goals, will perform a final review of progress toward accomplishment of the goals, and on the basis of the final review (I) will prepare, transmit to the Secretary, and make available to the public a final report on progress toward accomplishment of the goals, and (II) will develop (in consultation with the entities required to be consulted pursuant to subsection (b) of this section) and add to the plan a statement of the goals intended to be accomplished by the end of the 5th succeeding fiscal year;
 
-&emsp;(3) provides for coordination, to the extent feasible and appropriate, of the provision of services under the plan and the provision of services or benefits under other Federal or federally assisted programs serving the same populations;
+&emsp;(3) provides for coordination, to the extent feasible and appropriate, of the provision of services under the plan and the provision ofservices or benefits under other Federal or federally assisted programs serving the same populations;
 
 &emsp;(4) contains assurances that not more than 10 percent of expenditures under the plan for any fiscal year with respect to which the State is eligible for payment under section 629d of this title for the fiscal year shall be for administrative costs, and that the remaining expenditures shall be for programs of family preservation services, community-based family support services, time-limited family reunification services, and adoption promotion and support services, with significant portions of such expenditures for each such program;
 
@@ -46,9 +46,9 @@ A State plan meets the requirements of this subsection if the plan—
 
 &emsp;(B) provides that, not later than June 30 of each year, the State will submit to the Secretary—
 
-&emsp;&emsp;(i) copies of forms CFS 101–Part I and CFS 101–Part II (or any successor forms) that report on planned child and family services expenditures by the agency for the immediately succeeding fiscal year; and
+&emsp;&emsp;(i) copies of form CFS–101 (including all parts and any successor forms) that report on planned child and family services expenditures by the agency for the immediately succeeding fiscal year; and
 
-&emsp;&emsp;(ii) copies of forms CFS 101–Part I and CFS 101–Part II (or any successor forms) that provide, with respect to the programs authorized under this subpart and subpart 1 and, at State option, other programs included on such forms, for the most recent preceding fiscal year for which reporting of actual expenditures is complete—
+&emsp;&emsp;(ii) copies of form CFS–101 (including all parts and any successor forms) that provide, with respect to the programs authorized under this subpart and subpart 1 and, at State option, other programs included on such forms, for the most recent preceding fiscal year for which reporting of actual expenditures is complete—
 
 &emsp;&emsp;&emsp;(I) the numbers of families and of children served by the State agency;
 
@@ -56,9 +56,11 @@ A State plan meets the requirements of this subsection if the plan—
 
 &emsp;&emsp;&emsp;(III) the geographic areas served by the State agency; and
 
-&emsp;&emsp;&emsp;(IV) the actual expenditures of funds provided to the State agency; and
+&emsp;&emsp;&emsp;(IV) the actual expenditures of funds provided to the State agency;
 
-&emsp;(9) contains assurances that in administering and conducting service programs under the plan, the safety of the children to be served shall be of paramount concern.
+&emsp;(9) contains assurances that in administering and conducting service programs under the plan, the safety of the children to be served shall be of paramount concern; and
+
+&emsp;(10) describes how the State identifies which populations are at the greatest risk of maltreatment and how services are targeted to the populations.
 
 #### (b) Approval of plans
 
@@ -78,15 +80,31 @@ A State plan meets the requirements of this subsection if the plan—
 
 #### (c) Annual submission of State reports to Congress
 
-The Secretary shall compile the reports required under subsection (a)(8)(B) and, not later than September 30 of each year, submit such compilation to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.
+#### (1) In general
 
-(Aug. 14, 1935, ch. 531, title IV, §432, as added Pub. L. 103–66, title XIII, §13711(a)(2), Aug. 10, 1993, 107 Stat. 651; amended Pub. L. 105–89, title III, §305(b)(1), (c)(1), Nov. 19, 1997, 111 Stat. 2130, 2131; Pub. L. 105–200, title IV, §410(c), July 16, 1998, 112 Stat. 673; Pub. L. 109–288, §§3(e)(1), (2), 5(b)(3)(A), (c), Sept. 28, 2006, 120 Stat. 1235, 1243, 1244.)
+&emsp;The Secretary shall compile the reports required under subsection (a)(8)(B) and, not later than September 30 of each year, submit such compilation to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.
+
+#### (2) Information to be included
+
+&emsp;The compilation shall include the individual State reports and tables that synthesize State information into national totals for each element required to be included in the reports, including planned and actual spending by service category for the program authorized under this subpart and planned spending by service category for the program authorized under subpart 1.
+
+#### (3) Public accessibility
+
+&emsp;Not later than September 30 of each year, the Secretary shall publish the compilation on the website of the Department of Health and Human Services in a location easily accessible by the public.
+
+(Aug. 14, 1935, ch. 531, title IV, §432, as added Pub. L. 103–66, title XIII, §13711(a)(2), Aug. 10, 1993, 107 Stat. 651; amended Pub. L. 105–89, title III, §305(b)(1), (c)(1), Nov. 19, 1997, 111 Stat. 2130, 2131; Pub. L. 105–200, title IV, §410(c), July 16, 1998, 112 Stat. 673; Pub. L. 109–288, §§3(e)(1), (2), 5(b)(3)(A), (c), Sept. 28, 2006, 120 Stat. 1235, 1243, 1244; Pub. L. 112–34, title I, §102(b), (e), (g)(1), Sept. 30, 2011, 125 Stat. 371, 372.)
 
 #### Prior Provisions
 
 A prior section 432 of act Aug. 14, 1935, was classified to section 632 of this title prior to repeal by Pub. L. 100–485.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (a)(8)(B)(i), (ii). Pub. L. 112–34, §102(g)(1), substituted “form CFS–101 (including all parts and any successor forms)” for “forms CFS 101–Part I and CFS 101–Part II (or any successor forms)”.
+
+Subsec. (a)(10). Pub. L. 112–34, §102(b), added par. (10).
+
+Subsec. (c). Pub. L. 112–34, §102(e), designated existing provisions as par. (1), inserted heading, and added pars. (2) and (3).
 
 <b>2006</b>—Subsec. (a)(8). Pub. L. 109–288, §3(e)(1), designated existing provisions as subpar. (A) and added subpar. (B).
 
@@ -110,11 +128,15 @@ Subsec. (a)(9). Pub. L. 105–89, §305(c)(1), added par. (9).
 
 Subsec. (b)(1). Pub. L. 105–89, §305(b)(1)(B), substituted “, family support, time-limited family reunification, and adoption promotion and support” for “and family support”.
 
+#### Effective Date of 2011 Amendment
+
+Amendment by Pub. L. 112–34 effective Oct. 1, 2011, and applicable to payments under this part and part E of this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 107 of Pub. L. 112–34, set out as a note under section 622 of this title.
+
 #### Effective Date of 2006 Amendment
 
 Pub. L. 109–288, §3(e)(3), Sept. 28, 2006, 120 Stat. 1236, provided that: “The amendments made by this subsection \[amending this section\] take effect on the date of enactment of this Act \[Sept. 28, 2006\]. Each State with an approved plan under subpart 1 or 2 of part B of title IV of the Social Security Act \[subpart 1 or 2 of this part\] shall make its initial submission of the forms required under section 432(a)(8)(B) of the Social Security Act \[subsec. (a)(8)(B) of this section\] to the Secretary of Health and Human Services by June 30, 2007, and the Secretary of Health and Human Services shall submit the first compilation required under section 432(c) of the Social Security Act \[subsec. (c) of this section\] by September 30, 2007.”
 
-Amendment by Pub. L. 109–288 effective Oct. 1, 2006, except as otherwise provided, and applicable to payments under this part and part E of this subchapter for calendar quarters beginning on or after such date,without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 12(a), (b) of Pub. L. 109–288, set out as a note under section 621 of this title.
+Amendment by Pub. L. 109–288 effective Oct. 1, 2006, except as otherwise provided, and applicable to payments under this part and part E of this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 12(a), (b) of Pub. L. 109–288, set out as a note under section 621 of this title.
 
 #### Effective Date of 1997 Amendment
 

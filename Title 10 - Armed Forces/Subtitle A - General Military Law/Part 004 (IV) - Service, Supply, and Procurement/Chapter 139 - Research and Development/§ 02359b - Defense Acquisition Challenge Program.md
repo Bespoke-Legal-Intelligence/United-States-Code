@@ -62,7 +62,7 @@ Action Upon Favorable Full Review and Evaluation.—(1) Under procedures prescri
 
 (f)
 
-Action Upon Unfavorable Full Review and Evaluation.—Under procedures prescribed by the Under Secretary, if a challenge proposal is determined by a Panel to satisfy each of the criteria specified in subsection (c)(5), but is not determined under a full review and evaluation to satisfy such criteria, the following provisions apply:
+Action Upon Unfavorable Full Review and Evaluation.—Under procedures prescribedby the Under Secretary, if a challenge proposal is determined by a Panel to satisfy each of the criteria specified in subsection (c)(5), but is not determined under a full review and evaluation to satisfy such criteria, the following provisions apply:
 
 &emsp;(1) The office carrying out the full review and evaluation shall provide to the Panel that conducted the preliminary evaluation a statement containing a summary of the rationale for the unfavorable evaluation.
 
@@ -120,7 +120,7 @@ Definitions.—In this subsection:
 
 &emsp;&emsp;(A)
 
-Nondevelopmental item.—The term “nondevelopmental item” has the meaninggiven that term in section 4 <sup>1</sup> of the Office of Federal Procurement Policy Act (41 U.S.C. 403).
+Nondevelopmental item.—The term “nondevelopmental item” has the meaning given that term in section 4 <sup>1</sup> of the Office of Federal Procurement Policy Act (41 U.S.C. 403).
 
 &emsp;&emsp;(B)
 
@@ -138,7 +138,7 @@ Sunset.—The authority to carry out the pilot program under this subsection sha
 
 #### References in Text
 
-Section 4 of the Office of Federal Procurement Policy Act, referred to in subsec. (k)(4)(A), is section 4 of Pub. L. 93–400, which was classified to section 403 of former Title 41, Public Contracts, and was repealed and the provisions thereof restated in sections 102, 103, 105, 107 to 116, 131 to 134, and 1301 of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
+Section 4 of the Office of Federal Procurement Policy Act, referred to in subsec. (k)(4)(A), is section 4 of Pub.L. 93–400, which was classified to section 403 of former Title 41, Public Contracts, and was repealed and the provisions thereof restated in sections 102, 103, 105, 107 to 116, 131 to 134, and 1301 of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
 
 The Small Business Act, referred to in subsec. (k)(4)(B), is Pub. L. 85–536, §2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
 

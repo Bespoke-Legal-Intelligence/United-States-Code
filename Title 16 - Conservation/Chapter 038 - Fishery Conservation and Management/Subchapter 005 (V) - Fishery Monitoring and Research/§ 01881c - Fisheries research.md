@@ -32,7 +32,7 @@ Areas of research are as follows:
 
 #### (d) Public notice
 
-In developing the plan required under subsection (a) of this section, the Secretary shallconsult with relevant Federal, State, and international agencies, scientific and technical experts, and other interested persons, public and private, and shall publish a proposed plan in the Federal Register for the purpose of receiving public comment on the plan. The Secretary shall ensure that affected commercial fishermen are actively involved in the development of the portion of the plan pertaining to conservation engineering research. Upon final publication in the Federal Register, the plan shall be submitted by the Secretary to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Resources of the House of Representatives.
+In developing the plan required under subsection (a) of this section, the Secretary shall consult with relevant Federal, State, and international agencies, scientific and technical experts, and other interested persons, public and private, and shall publish a proposed plan in the Federal Register for the purpose of receiving public comment on the plan. The Secretary shall ensure that affected commercial fishermen are actively involved in the development of the portion of the plan pertaining to conservation engineering research. Upon final publication in the Federal Register, the plan shall be submitted by the Secretary to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Resources of the House of Representatives.
 
 (Pub. L. 94–265, title IV, §404, as added Pub. L. 104–297, title II, §205, Oct. 11, 1996, 110 Stat. 3609; amended Pub. L. 109–479, title II, §203(b), Jan. 12, 2007, 120 Stat. 3614.)
 

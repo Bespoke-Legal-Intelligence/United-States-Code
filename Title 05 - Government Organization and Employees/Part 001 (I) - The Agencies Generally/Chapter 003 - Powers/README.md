@@ -13,9 +13,9 @@
 
 #### Amendments
 
-2011—Pub. L. 111–352, §13(a), Jan. 4, 2011, 124 Stat. 3882, added item 306 and struck out former item 306 “Strategic plans”.
+<b>2011</b>—Pub. L. 111–352, §13(a), Jan. 4, 2011, 124 Stat. 3882, added item 306 and struck out former item 306 “Strategic plans”.
 
-1993—Pub. L. 103–62, §11(a), Aug. 3, 1993, 107 Stat. 295, added item 306.
+<b>1993</b>—Pub. L. 103–62, §11(a), Aug. 3, 1993, 107 Stat. 295, added item 306.
 
 
 ---

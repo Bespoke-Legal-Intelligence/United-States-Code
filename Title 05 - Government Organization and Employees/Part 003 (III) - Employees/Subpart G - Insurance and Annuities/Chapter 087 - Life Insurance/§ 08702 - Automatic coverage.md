@@ -28,11 +28,11 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-2008—Subsec. (c). Pub. L. 110–417 inserted “an employee who is deployed in support of a contingency operation (as that term is defined in section 101(a)(13) of title 10) or” after “subsection (b),” and substituted “the date of notification of deployment or” for “the date of the”.
+<b>2008</b>—Subsec. (c). Pub. L. 110–417 inserted “an employee who is deployed in support of a contingency operation (as that term is defined in section 101(a)(13) of title 10) or” after “subsection (b),” and substituted “the date of notification of deployment or” for “the date of the”.
 
-2000—Subsec. (c). Pub. L. 106–398 added subsec. (c).
+<b>2000</b>—Subsec. (c). Pub. L. 106–398 added subsec. (c).
 
-1978—Subsecs. (a), (b). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission”.
+<b>1978</b>—Subsecs. (a), (b). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission”.
 
 #### Effective Date of 1978 Amendment
 

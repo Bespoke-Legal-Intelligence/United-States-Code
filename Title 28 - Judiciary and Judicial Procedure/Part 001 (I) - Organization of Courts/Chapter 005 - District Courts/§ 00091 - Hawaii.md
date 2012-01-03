@@ -4,7 +4,7 @@ Hawaii constitutes one judicial district which includes the Midway Islands, Wake
 
 &emsp;&emsp;Court shall be held at Honolulu.
 
-(June 25, 1948, ch. 646, 62 Stat. 877; May 24, 1949, ch. 139, §64a, 63 Stat. 99; Pub. L. 86–3, §14(i), Mar.18, 1959, 73 Stat. 11; Pub. L. 86–624, §19, July 12, 1960, 74 Stat. 416.)
+(June 25, 1948, ch. 646, 62 Stat. 877; May 24, 1949, ch. 139, §64a, 63 Stat. 99; Pub. L. 86–3, §14(i), Mar. 18, 1959, 73 Stat. 11; Pub. L. 86–624, §19, July 12, 1960, 74 Stat. 416.)
 
 #### Historical and Revision Notes
 

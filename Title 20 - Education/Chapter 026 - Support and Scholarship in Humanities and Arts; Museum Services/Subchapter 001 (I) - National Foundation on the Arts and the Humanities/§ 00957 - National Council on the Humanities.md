@@ -42,7 +42,7 @@ Subsec. (f). Pub. L. 99–194, §108(3), (4), substituted “Chairperson” for 
 
 <b>1976</b>—Subsec. (b). Pub. L. 94–462 inserted “, by and with the advice and consent of the Senate,” after “by the President”.
 
-<b>1973</b>—Subsec. (f). Pub. L. 93–133 substituted “$17,500” for “$10,000” and inserted proviso that the terms of delegation of authority shall not permit obligations for expenditure of funds under such delegation for any fiscal year which exceeds an amount equal to 10 per centum of the sums appropriated for that fiscal year.
+<b>1973</b>—Subsec. (f). Pub. L. 93–133 substituted “$17,500” for “$10,000” and inserted proviso that the terms of delegation of authority shall not permit obligations forexpenditure of funds under such delegation for any fiscal year which exceeds an amount equal to 10 per centum of the sums appropriated for that fiscal year.
 
 <b>1970</b>—Subsec. (e). Pub. L. 91–346 set forth provisions governing compensation of persons employed for the Government service on an intermittent basis.
 

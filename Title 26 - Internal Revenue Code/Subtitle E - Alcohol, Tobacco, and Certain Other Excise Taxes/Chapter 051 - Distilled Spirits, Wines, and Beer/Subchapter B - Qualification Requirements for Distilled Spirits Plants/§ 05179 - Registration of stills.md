@@ -32,5 +32,5 @@ Amendment by Pub. L. 98–369 effective on first day of first calendar month whi
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1905(b)(6)(C) of Pub. L. 94–455 effective on first day of first month which begins morethan 90 days after Oct. 4, 1976, see section 1905(d) of Pub. L. 94–455, set out as a note under section 5005 of this title.
+Amendment by section 1905(b)(6)(C) of Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1905(d) of Pub. L. 94–455, set out as a note under section 5005 of this title.
 

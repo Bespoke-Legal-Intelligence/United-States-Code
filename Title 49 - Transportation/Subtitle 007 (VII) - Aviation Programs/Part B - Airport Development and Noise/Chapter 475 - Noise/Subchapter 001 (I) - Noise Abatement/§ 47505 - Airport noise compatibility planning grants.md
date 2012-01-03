@@ -10,7 +10,7 @@ General Authority.—The Secretary of Transportation may make a grant to a spons
 
 (b)
 
-Availability of Amounts and Government's Share of Costs.—A grant under subsection (a) of this section may be made from amounts available under section 48103 of thistitle. The United States Government's share of the grant is the percent for which a project for airport development at an airport would be eligible under section 47109(a) and (b) of this title.
+Availability of Amounts and Government's Share of Costs.—A grant under subsection (a) of this section may be made from amounts available under section 48103 of this title. The United States Government's share of the grant is the percent for which a project for airport development at an airport would be eligible under section 47109(a) and (b) of this title.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1286.)
 

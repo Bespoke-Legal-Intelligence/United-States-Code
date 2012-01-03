@@ -20,7 +20,7 @@ As used in this section—
 
 &emsp;(4) The term “telephone solicitation” means the initiation of a telephone call or message for the purpose of encouraging the purchase or rental of, or investment in, property, goods, or services, which is transmitted to any person, but such term does not include a call or message (A) to any person with that person's prior express invitation or permission, (B) to any person with whom the caller has an established business relationship, or (C) by a tax exempt nonprofit organization.
 
-&emsp;(5) The term “unsolicited advertisement” means any material advertising the commercial availability or quality of any property, goods, or services which is transmitted to any person without that person's prior express invitation or permission, in writing or otherwise.
+&emsp;(5) The term “unsolicited advertisement” means any material advertising the commercial availability or quality of any property,goods, or services which is transmitted to any person without that person's prior express invitation or permission, in writing or otherwise.
 
 #### (b) Restrictions on use of automated telephone equipment
 
@@ -196,7 +196,7 @@ As used in this section—
 
 #### (5) Private right of action
 
-&emsp;A person who has received more than one telephone call within any 12-month period by or on behalf of the same entity in violation of the regulations prescribed under this subsection may, if otherwise permitted by the laws or rules of court of a State bring in an appropriate court of that State—
+&emsp;A person who has received more than one telephone call within any 12-month period by or on behalf of the same entity in violation ofthe regulations prescribed under this subsection may, if otherwise permitted by the laws or rules of court of a State bring in an appropriate court of that State—
 
 &emsp;&emsp;(A) an action based on a violation of the regulations prescribed under this subsection to enjoin such violation,
 
@@ -264,7 +264,7 @@ As used in this section—
 
 #### (4) Report
 
-&emsp;Not later than 6 months after December 22, 2010, the Commission shall report to Congress whether additional legislation is necessary to prohibit the provision of inaccurate caller identification information in technologies that are successor or replacement technologies to telecommunications service or IP-enabled voice service.
+&emsp;Not later than 6 months after December 22, 2010, the Commission shall report to Congress whether additional legislation is necessary to prohibit the provision of inaccurate caller identification information in technologiesthat are successor or replacement technologies to telecommunications service or IP-enabled voice service.
 
 #### (5) Penalties
 
@@ -338,7 +338,7 @@ As used in this section—
 
 #### (A) Caller identification information
 
-&emsp;&emsp;The term “caller identification information” means information provided by a caller identification service regarding the telephone number of, or other information regarding the origination of, a call made using a telecommunications service or IP-enabled voice service.
+&emsp;&emsp;The term “caller identification information” means information provided by a caller identification service regarding the telephone number of, or other information regarding the origination of, a call made usinga telecommunications service or IP-enabled voice service.
 
 #### (B) Caller identification service
 
@@ -378,7 +378,7 @@ As used in this section—
 
 #### (2) Exclusive jurisdiction of Federal courts
 
-&emsp;The district courts of the United States, the United States courts of any territory, and the District Court of the United States for the District of Columbia shall have exclusive jurisdiction over all civil actions brought under this subsection. Upon proper application, such courts shall also have jurisdiction to issue writs of mandamus, or orders affording like relief, commanding the defendant to comply with the provisions of this section or regulations prescribed under this section, including the requirement that the defendant take suchaction as is necessary to remove the danger of such violation. Upon a proper showing, a permanent or temporary injunction or restraining order shall be granted without bond.
+&emsp;The district courts of the United States, the United States courts of any territory, and the District Court of the United States for the District of Columbia shall have exclusive jurisdiction over all civil actions brought under this subsection. Upon proper application, such courts shall also have jurisdiction to issue writs of mandamus, or orders affording like relief, commanding the defendant to comply with the provisions of this section or regulations prescribed under this section, including the requirement that the defendant take such action as is necessary to remove the danger of such violation. Upon a proper showing, a permanent or temporary injunction or restraining order shall be granted without bond.
 
 #### (3) Rights of Commission
 
@@ -398,7 +398,7 @@ As used in this section—
 
 #### (7) Limitation
 
-&emsp;Whenever the Commission has instituted a civil action for violation of regulations prescribed under this section, no State may, during the pendency of such action instituted by the Commission, subsequently institute a civil action against any defendant named in the Commission's complaint for any violation as alleged in the Commission's complaint.
+&emsp;Whenever the Commission has instituted a civil action for violation of regulations prescribed under this section, no State may, during the pendency of such action instituted by the Commission, subsequently institute a civilaction against any defendant named in the Commission's complaint for any violation as alleged in the Commission's complaint.
 
 #### (8) “Attorney general” defined
 

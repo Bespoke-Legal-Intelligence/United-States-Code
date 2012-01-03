@@ -126,7 +126,7 @@ Acquisition of property.—The Contractor is granted the authority to acquire su
 
 &emsp;&emsp;“(E)
 
-Confiscated or excess property.—The Secretary shall assist the Contractor in obtaining such confiscated or excess property as may become available to tribes, tribal organizations, or local governments.
+Confiscated or excess property.—The Secretary shall assist the Contractor inobtaining such confiscated or excess property as may become available to tribes, tribal organizations, or local governments.
 
 &emsp;&emsp;“(F)
 
@@ -134,7 +134,7 @@ Screener identification card.—A screener identification card (General Services
 
 &emsp;&emsp;“(G)
 
-Capital equipment.—The Contractor shall determine the capital equipment, leases, rentals, property, or services the Contractor requires to perform the obligations of the Contractor under this subsection, and shall acquire and maintainrecords of such capital equipment, property rentals, leases, property, or services through applicable procurement procedures of the Contractor.
+Capital equipment.—The Contractor shall determine the capital equipment, leases, rentals, property, or services the Contractor requires to perform the obligations of the Contractor under this subsection, and shall acquire and maintain records of such capital equipment, property rentals, leases, property, or services through applicable procurement procedures of the Contractor.
 
 &emsp;“(9)
 
@@ -232,7 +232,7 @@ Amount of funds.—The total amount of funds to be paid under this Contract purs
 
 &emsp;“(3)
 
-Contracted programs.—Subject to the availability of appropriated funds, the Contractor shall administer the programs, services, functions, and activities identified in thisContract and funded through the annual funding agreement under subsection (f)(2).
+Contracted programs.—Subject to the availability of appropriated funds, the Contractor shall administer the programs, services, functions, and activities identified in this Contract and funded through the annual funding agreement under subsection (f)(2).
 
 &emsp;“(4)
 
@@ -330,7 +330,7 @@ Incorporation by reference.—The annual funding agreement is hereby incorporate
 
 #### References in Text
 
-The Indian Self-Determination and Education Assistance Act, referred to in section 1(a), (b)(6)(B)(i), (11) of the provisions of subsec. (c) setting out the model agreement, is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203,which is classified principally to this subchapter (§450 et seq.). Title I of the Act is classified principally to this part (§450f et seq.). Section 102(a) of the Act is classified to section 450f(a) of this title. Section 108(b) of the Act is classified to subsec. (b) of this section. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in section 1(a), (b)(6)(B)(i), (11) of the provisions of subsec. (c) setting out the model agreement, is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to this subchapter (§450 et seq.). Title I of the Act is classified principally to this part (§450f et seq.). Section 102(a) of the Act is classified to section 450f(a) of this title. Section 108(b) of the Act is classified to subsec. (b) of this section. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
 The Indian Civil Rights Act of 1968, referred to in section 1(b)(13) of the provisions of subsec. (c) setting out the model agreement, is title II of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 77, which is classified generally to subchapter I (§1301 et seq.) of chapter 15 of this title. For complete classification of this Act to the Code, see Tables.
 

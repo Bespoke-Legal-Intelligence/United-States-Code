@@ -6,7 +6,7 @@ The President of the United States is authorized to designate and empower the he
 
 #### Transfer of Functions
 
-Functions vested by law (including reorganization plan) in Bureau of the Budget or Director of Bureau of the Budget transferred to President by section 101 of 1970 Reorg. Plan No. 2, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085. Section 102 of 1970 Reorg. Plan No. 2, redesignated Bureau of the Budget as Office of Management and Budget and Director of Bureau of the Budget as Director of Office of Management and Budget. See Reorganization Plan No. 2 of 1970, set out in the Appendix to Title 5, Government Organization and Employees.
+Functions vested by law (including reorganization plan) in Bureau of the Budget or Director of Bureau of the Budget transferred to President by section 101 of1970 Reorg. Plan No. 2, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085. Section 102 of 1970 Reorg. Plan No. 2, redesignated Bureau of the Budget as Office of Management and Budget and Director of Bureau of the Budget as Director of Office of Management and Budget. See Reorganization Plan No. 2 of 1970, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Similar Provisions; Repeal; Saving Clause
 
@@ -58,7 +58,7 @@ Ex. Ord. No. 10250, June 5, 1951, 16 F.R. 5385, as amended by Ex. Ord. No. 10732
 
 (a) The authority vested in the Secretary of the Interior by section 1 of the act of June 6, 1942, ch. 380, 56 Stat. 326 \[16 U.S.C. 459r\], to convey or lease to the States or to the political subdivisions thereof any or all of certain recreational demonstration projects and lands and equipment comprised within such projects or any parts of such projects; and to transfer to other Federal agencies any of the said recreational demonstration areas that may be of use to such agencies.
 
-(b) The authority vested in the Secretary of the Interior by section 3 of the act of July 3, 1918, ch. 128, 40 Stat. 755, as amended, and as affected by section 4(f) of Reorganization Plan No. II, effective July 1, 1939, 53 Stat. 1433 \[16 U.S.C. 704\], to promulgate regulations permitting and governing the hunting, taking, capture, killing, possession, sale, purchase, shipment, transportation, carriage, or export of any migratory bird included in the terms of certain conventions, or any part, nest, or egg thereof.
+(b) The authority vested in the Secretary of the Interior by section 3 of the act of July 3, 1918, ch. 128, 40Stat. 755, as amended, and as affected by section 4(f) of Reorganization Plan No. II, effective July 1, 1939, 53 Stat. 1433 \[16 U.S.C. 704\], to promulgate regulations permitting and governing the hunting, taking, capture, killing, possession, sale, purchase, shipment, transportation, carriage, or export of any migratory bird included in the terms of certain conventions, or any part, nest, or egg thereof.
 
 3\. As used in this order, the term “functions” embraces duties, powers, responsibilities, authority, or discretion, and the term “perform” may be construed to mean “exercise”.
 
@@ -74,7 +74,7 @@ Ex. Ord. No. 10289, Sept. 17, 1951, 16 F.R. 9499, as amended by Ex. Ord. No. 105
 
 (a) The authority vested in the President by section 1 of the act of August 1, 1914, ch. 223, 38 Stat. 609, 623, as amended \[19 U.S.C. 2\], (1) to rearrange, by consolidation or otherwise, the several customs-collection districts, (2) to discontinue ports of entry by abolishing the same and establishing others in their stead, and (3) to change from time to time the location of the headquarters in any customs-collection district as the needs of the service may require.
 
-(b) The authority vested in the President by section 1 of the Anti-Smuggling Act of August 5, 1935, c. 438, 49 Stat. 517 \[19 U.S.C. 1701\], (1) to find and declare that at any place or within any area on the high seas adjacent to but outside customs waters any vessel or vessels hover or are being kept off the coast of the United States and that, by virtue of the presence of any such vessel or vessels at such place or within such area, the unlawful introduction or removal into or from the United States of any merchandise or person is being, or may be, occasioned, promoted, or threatened, (2) to find and declare that certain waters on the high seas are in such proximity to such vessel or vessels that such unlawful introduction or removal of merchandise or persons may be carried on by or to or from such vessel or vessels, and (3) to find and declare that, within any customs-enforcement area, the circumstances no longerexist which gave rise to the declaration of such area as a customs-enforcement area.
+(b) The authority vested in the President by section 1 of the Anti-Smuggling Act of August 5, 1935, c. 438, 49 Stat. 517 \[19 U.S.C. 1701\], (1) to find and declare that at any place or within any area on the high seas adjacent to but outside customs waters any vessel or vessels hover or are being kept off the coast of the United States and that, by virtue of the presence of any such vessel or vessels at such place or within such area, the unlawful introduction or removal into or from the United States of any merchandise or person is being, or may be, occasioned, promoted, or threatened, (2) to find and declare that certain waters on the high seas are in such proximity to such vessel or vessels that such unlawful introduction or removal of merchandise or persons may be carried on by or to or from such vessel or vessels, and (3) to find and declare that, within any customs-enforcement area, the circumstances no longer exist which gave rise to the declaration of such area as a customs-enforcement area.
 
 (c) The authority vested in the President by section 1 of the Act of August 26, 1985 \[1983\], Public Law 98–89, 97 Stat. 510 (46 U.S.C. 3101); to suspend the provisions of law requiring the inspection of foreign-built vessels admitted to American registry.
 
@@ -92,7 +92,7 @@ Ex. Ord. No. 10289, Sept. 17, 1951, 16 F.R. 9499, as amended by Ex. Ord. No. 105
 
 2\. The Secretary of the Treasury is hereby designated and empowered to perform without the approval, ratification, or other action of the President the following functions which have heretofore, under the respective provisions of law cited, required the approval of the President in connection with their performance by the Secretary of the Treasury:
 
-(a) The authority vested in the Secretary of the Treasury by section 6 of the act of July 8, 1937, ch. 444, 50 Stat. 480 \[now 40 U.S.C. 17309\], to make rules and regulations necessary for the execution of the functions vested in the Secretary of the Treasury by the said act, as amended.
+(a) The authority vested in the Secretary of the Treasury by section 6 of the act of July 8, 1937, ch. 444, 50 Stat. 480 \[now 40 U.S.C. 17309\], to make rules and regulations necessary for the execution of the functionsvested in the Secretary of the Treasury by the said act, as amended.
 
 (b), (c) \[Revoked by Ex. Ord. No. 11110, June 4, 1963, 28 F.R. 5605.\]
 
@@ -110,7 +110,7 @@ Ex. Ord. No. 10289, Sept. 17, 1951, 16 F.R. 9499, as amended by Ex. Ord. No. 105
 
 #### Ex. Ord. No. 10530. Delegation of Miscellaneous Functions
 
-Ex. Ord. No. 10530, May 10, 1954, 19 F.R. 2709, as amended by Ex. Ord. No. 10573, Oct. 26, 1954, 19 F.R. 6899; Ex. Ord. No. 10682, Oct. 22, 1956, 21 F.R. 8129; Ex. Ord. No. 10759, Mar. 17, 1958, 23 F.R. 1803; Ex. Ord. No. 10790, Nov. 20, 1958, 23 F.R. 9051; Ex. Ord. No. 10836, Sept. 8, 1959, 24 F.R. 7269; Ex. Ord. No. 10852, Nov. 27, 1959, 24 F.R. 9565; Ex. Ord. No. 10889, Oct. 5, 1960, 25 F.R. 9633; Ex. Ord. No. 10903, Jan. 9, 1961, 26 F.R. 217; Ex. Ord. No. 10960, Aug. 21, 1961, 26 F.R. 7823; Ex. Ord. No. 10970, Oct. 27, 1961, 26 F.R. 10149; Ex. Ord. No. 11012, Mar. 27, 1962, 27 F.R. 2983; Ex. Ord. No. 11116, Aug. 5, 1963, 28 F.R. 8075; Ex. Ord. No. 11164, Aug. 1, 1964, 29 F.R. 11257; Ex. Ord. No. 11184, Oct. 13, 1964, 29 F.R. 14155; Ex. Ord. No. 11196, Feb. 2, 1965, 30 F.R. 1171; Ex. Ord. No. 11222, May 8, 1965,30 F.R. 6469; Ex. Ord. No. 11228, June 14, 1965, 30 F.R. 7739; Ex. Ord. No. 11230, §2(1), (3), (5) to (14), June 28, 1965, 30 F.R. 8447; Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055; Pub. L. 98–497, title I, §103(b)(1), Oct. 19, 1984, 98 Stat. 2283; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617, provided:
+Ex. Ord. No. 10530, May 10, 1954, 19 F.R. 2709, as amended by Ex. Ord. No. 10573, Oct. 26, 1954, 19 F.R. 6899; Ex. Ord. No. 10682, Oct. 22, 1956, 21 F.R. 8129; Ex. Ord. No. 10759, Mar. 17, 1958, 23 F.R. 1803; Ex. Ord. No. 10790, Nov. 20, 1958, 23 F.R. 9051; Ex. Ord. No. 10836, Sept. 8, 1959, 24 F.R. 7269; Ex. Ord. No. 10852, Nov. 27, 1959, 24 F.R. 9565; Ex. Ord. No. 10889, Oct. 5, 1960, 25 F.R. 9633; Ex. Ord. No. 10903, Jan. 9, 1961, 26 F.R. 217; Ex. Ord. No. 10960, Aug. 21, 1961, 26 F.R. 7823; Ex. Ord. No. 10970, Oct. 27, 1961, 26 F.R. 10149; Ex. Ord. No. 11012, Mar. 27, 1962, 27 F.R. 2983; Ex. Ord. No. 11116, Aug. 5, 1963, 28 F.R. 8075; Ex. Ord. No. 11164, Aug. 1, 1964, 29 F.R. 11257; Ex. Ord. No. 11184, Oct. 13, 1964, 29 F.R. 14155; Ex. Ord. No. 11196, Feb. 2, 1965, 30 F.R. 1171; Ex. Ord. No. 11222, May 8, 1965, 30 F.R. 6469; Ex. Ord. No. 11228, June 14, 1965, 30 F.R. 7739; Ex. Ord. No. 11230, §2(1), (3), (5) to (14), June 28, 1965, 30 F.R. 8447; Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055; Pub. L. 98–497, title I, §103(b)(1), Oct. 19, 1984, 98 Stat. 2283; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617, provided:
 
 #### Part I—Director of the Bureau of the Budget
 
@@ -152,7 +152,7 @@ Sec. 8. As used in this order, the term “functions” embraces duties, powers,
 
 #### Ex. Ord. No. 10621. Delegation of Functions to Secretary of Defense
 
-Ex. Ord. No. 10621, July 1, 1955, 20 F.R. 4759, as amended by Ex. Ord. No. 11294, Aug. 4, 1966, 31 F.R. 10601; Ex. Ord. No. 12396, Dec. 9, 1982, 47 F.R. 55897; Ex. Ord. No. 12561, July 1, 1986, 51 F.R. 24299, provided:
+Ex. Ord. No. 10621, July 1, 1955, 20 F.R. 4759, as amended by Ex. Ord. No. 11294, Aug. 4, 1966, 31 F.R. 10601; Ex.Ord. No. 12396, Dec. 9, 1982, 47 F.R. 55897; Ex. Ord. No. 12561, July 1, 1986, 51 F.R. 24299, provided:
 
 Section 1. The Secretary of Defense, and, as designated by the said Secretary for this purpose, any of the Secretaries, Under Secretaries, and Assistant Secretaries of the military departments, are hereby designated and empowered to perform the following-described functions of the President without the approval, ratification, or other action of the President:
 
@@ -168,7 +168,7 @@ Section 1. The Secretary of Defense, and, as designated by the said Secretary fo
 
 (f) The authority vested in the President by the act of June 24, 1941, ch. 231, 55 Stat. 260 \[10 U.S.C. 7306\], to approve the use for experimental purposes of vessels of the United States Navy stricken from the Navy Register pursuant to the act of August 5, 1882, 22 Stat. 296, as amended \[10 U.S.C. 7304\].
 
-(g) The authority vested in the President by section 302 of the act of June 22, 1944, ch. 268, 58 Stat. 287 \[see 10 U.S.C. 1554\], to approve or disapprove the proceedings and decisions of boards of review established underthat section by the Secretary of the Army, the Secretary of the Air Force, or the Secretary of the Navy, and to issue orders in such cases.
+(g) The authority vested in the President by section 302 of the act of June 22, 1944, ch. 268, 58 Stat. 287 \[see 10 U.S.C. 1554\], to approve or disapprove the proceedings and decisions of boards of review established under that section by the Secretary of the Army, the Secretary of the Air Force, or the Secretary of the Navy, and to issue orders in such cases.
 
 (h) The authority vested in the President by Section 102(a) of the Federal Civilian Employee and Contractor Travel Expenses Act of 1985, 5 U.S.C. 5702(a), to establish maximum rates of per diem allowances and reimbursements for the actual and necessary expenses of official travel for employees of the Government to the extent that such authority pertains to travel status in localities in Alaska, Hawaii, the Commonwealth of Puerto Rico, and possessions of the United States.
 
@@ -262,7 +262,7 @@ Sec. 3. The Secretary of Defense, and, when designated by the Secretary of Defen
 
 Sec. 4. The Secretary of Commerce is hereby designated and empowered to exercise, without the approval, ratification, or other action of the President, the authority vested in the President by the act of August 9, 1946, ch. 928, 60 Stat. 961 \[former 46 U.S.C. 1126b\], to designate persons from the American Republics (other than the United States) who may be permitted to receive instruction in the United States Merchant Marine Cadet Corps and at the United States Merchant Marine Academy at Kings Point, New York.
 
-Sec. 5. No person shall be designated under the authority of this order to receive instruction except afterconsultation by the designating officer with the Secretary of State.
+Sec. 5. No person shall be designated under the authority of this order to receive instruction except after consultation by the designating officer with the Secretary of State.
 
 Dwight D. Eisenhower.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -346,7 +346,7 @@ Sec. 2. Upon receipt by the Secretary of Commerce from the President or from the
 
 Sec. 3. In connection with making appointments or promotions under authority delegated to him by subsections (b), (c), (d), (h), (i), and (j) of section 1 of this order, the Secretary of Commerce shall issue to each person appointed or promoted by him thereunder a certificate evidencing the appointment or promotion of such person. Such certificate may be issued in the name of the President.
 
-Sec. 4. Any requirement of any provision of law that commissions of officers under the direction and control of the Secretary of Commerce be signed by the President before the seal of the Department of Commerce may be affixed thereto shall, in the case of officers appointed under the procedure set forth in section 2 of this order and in the case of officers appointed or promoted under authority delegated by subsections (b), (c), (d), (h), (i), and (j) of section 1 of this order, be deemed to be satisfied by signature of the commission or certificate by the Secretary of Commerce, before the departmental seal is affixed thereto.
+Sec. 4. Any requirement of any provision of law that commissions of officers under the direction and control of the Secretary of Commerce be signed by the President before the seal of the Department of Commerce may be affixed thereto shall, in the case of officers appointed under the procedure set forth in section 2 of this order and in the case of officers appointed or promoted under authority delegated by subsections (b), (c), (d), (h), (i), and (j) of section 1 of this order, bedeemed to be satisfied by signature of the commission or certificate by the Secretary of Commerce, before the departmental seal is affixed thereto.
 
 Sec. 5. The Secretary of Commerce is hereby authorized to accept, in the name of the President, the resignation of a commissioned officer, either permanent or temporary, of the National Oceanic and Atmospheric Administration.
 
@@ -376,7 +376,7 @@ John F. Kennedy.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Ex. Ord. No. 11228. Delegation of Functions to Office of Personnel Management
 
-Ex. Ord. No. 11228, June 14, 1965, 30 F.R. 7739, as amended by Ex. Ord. No. 11257, Nov. 13, 1965, 30 F.R.14353; Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, provided:
+Ex. Ord. No. 11228, June 14, 1965, 30 F.R. 7739, as amended by Ex. Ord. No. 11257, Nov. 13, 1965, 30 F.R. 14353; Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, provided:
 
 By virtue of the authority vested in me by Section 301 of Title 3 of the United States Code, and as President of the United States, it is hereby ordered as follows—
 
@@ -414,7 +414,7 @@ Sec. 5. All actions heretofore taken by the President or by his delegates in res
 
 #### Executive Order No. 11230
 
-Ex. Ord. No. 11230, June 28, 1965, 30 F.R. 8847, as amended by Ex. Ord. No. 11275, Mar. 31, 1966, 31 F.R. 5283; Ex. Ord. No. 11290, July 21, 1966, 31 F.R. 10067; Ex. Ord. No. 11294, Aug. 4, 1966, 31 F.R. 10601, delegating certain functions of the President to the Director of the Bureau of the Budget, was superseded by Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under this section.
+Ex. Ord. No. 11230, June 28, 1965, 30 F.R. 8847, as amended by Ex. Ord. No. 11275, Mar. 31, 1966, 31 F.R.5283; Ex. Ord. No. 11290, July 21, 1966, 31 F.R. 10067; Ex. Ord. No. 11294, Aug. 4, 1966, 31 F.R. 10601, delegating certain functions of the President to the Director of the Bureau of the Budget, was superseded by Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under this section.
 
 #### Executive Order No. 11294
 
@@ -486,7 +486,7 @@ Section 1. (a) Except with respect to facilities covered by Executive Order Nos.
 
 &emsp;(v) similar facilities above or below ground; and
 
-&emsp;(vi) border crossings for land transportation, including motor and rail vehicles, to or from a foreign country, whether or not in conjunction with the facilities identified in (iii) above.
+&emsp;(vi) border crossings for land transportation, including motor and rail vehicles, to or from a foreigncountry, whether or not in conjunction with the facilities identified in (iii) above.
 
 (b) With respect to applications received pursuant to subsection (a)(i) above, the Secretary of State shall request the views of the Secretary of the Treasury, the Secretary of Defense, the Attorney General, the Secretary of the Interior, the Secretary of Commerce, the Secretary of Transportation, the Secretary of Homeland Security, the Interstate Commerce Commission, and the Director of the Office of Emergency Planning. With respect to applications received pursuant to subsection (a)(ii) above, the Secretary of State shall request the views of the Secretary of Defense and the Secretary of the Interior. With respect to applications received pursuant to subsection (a)(iii), (iv), (v), or (vi) above, the Secretary of State shall request the views of the Secretary of the Treasury, the Secretary of Defense, the Attorney General, and the Secretary of Transportation.
 
@@ -502,7 +502,7 @@ Sec. 2. (a) The Secretary of State may provide for the publication in the Federa
 
 (b) The Secretary of State is authorized to issue such further rules and regulations, and to prescribe such further procedures, as he may from time to time deem necessary or desirable for the exercise of the authority conferred upon him by this order.
 
-Sec. 3. The authority of the Secretary of State hereunder is supplemental to, and does not supersede, existing authorities or delegations relating to importation, exportation, transmission, or transportation to or froma foreign country. All permits heretofore issued with respect to matters described in section 1 of this order, and in force at the time of issuance of this order, and all permits issued hereunder, shall remain in effect in accordance with their terms unless and until modified, amended, suspended, or revoked by the President or, upon compliance with the procedures provided for in this order, by the Secretary of State.
+Sec. 3. The authority of the Secretary of State hereunder is supplemental to, and does not supersede, existing authorities or delegations relating to importation, exportation, transmission, or transportation to or from a foreign country. All permits heretofore issued with respect to matters described in section 1 of this order, and in force at the time of issuance of this order, and all permits issued hereunder, shall remain in effect in accordance with their terms unless and until modified, amended, suspended, or revoked by the President or, upon compliance with the procedures provided for in this order, by the Secretary of State.
 
 \[Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.\]
 
@@ -534,7 +534,7 @@ Section 1. <i>General Services Administration</i>. The Administrator of General 
 
 (6) The authority of the President under 5 U.S.C. 5724 to prescribe the regulations provided for therein (relating to travel and transportation expenses and other matters).
 
-(7)(a) The authority of the President under 5 U.S.C. 5724(a) to prescribe the regulations provided for therein, relating to (i) the availability of appropriations or other funds of agencies for the reimbursement of described expenses of employees for whom the Government pays expenses of travel and transportation under 5 U.S.C. 5724(a), (ii) the entitlement of employees to amounts related to their basic pay, and (iii) the allowance, payment, and receipt of expenses and benefits to former employees who are reemployed by nontemporary appointments.
+(7)(a) The authority of the President under 5 U.S.C. 5724(a) to prescribe the regulations provided for therein, relating to (i) the availability of appropriations or other funds of agencies for the reimbursement of described expenses of employees for whom the Government pays expenses of travel and transportation under5 U.S.C. 5724(a), (ii) the entitlement of employees to amounts related to their basic pay, and (iii) the allowance, payment, and receipt of expenses and benefits to former employees who are reemployed by nontemporary appointments.
 
 (b) In consultation with the Secretary of the Treasury, the authority of the President under 5 U.S.C. 5724b to prescribe the regulations provided for therein relating to reimbursement of Federal, State, and city income taxes for travel, transportation, and relocation expenses of employees, transferred at Government expense, furnished in kind or for which reimbursement or an allowance is provided.
 
@@ -802,7 +802,7 @@ Sec. 3. <i>Authority, Requirements, and Regulations Concerning a Uniform Militar
 
 (b) <i>Requirements</i>. (1) <i>Components and Quantities</i>. The components and the quantities of the uniform military ration shall reflect military member preferences and satisfy nutritional requirements. (2) <i>Monetary Value</i>. The monetary value of the uniform military ration shall be equal to the monetary value of the ration in effect on the day before the effective date of this order. (3) <i>Index</i>. The Secretary of Defense shall establish, as of the effective date of this order, an index composed of a representative market basket of items equal in value to the ration value. Subsequent to the effective date of this order, and based upon the changing prices of food components in the index, the Secretaries of the military departments shall periodically redetermine the monetary value of the ration. The Secretary of Defense shall review the index periodically, but not less than once a year, to ensure that it reflects changes in food service technology, scientific advances in nutrition, the requirements of the Armed Forces of the United States, and the food preferences of the enlisted members. Increases or decreases in the monetary value of the ration that result from changes in the composition of the food items making up the index shall not exceed 2 percent of the ration value annually.
 
-(c) <i>Regulations</i>. Under regulations of the Secretary of Defense, the Secretary of the Army, the Secretary ofthe Navy, and the Secretary of the Air Force are authorized, for their respective military departments, to prescribe the issue of special allowances and such special or supplemental rations, defined by component, quantity, or monetary value, as they may consider appropriate. Executive Order No. 11339 of March 28, 1967, is hereby revoked.
+(c) <i>Regulations</i>. Under regulations of the Secretary of Defense, the Secretary of the Army, the Secretary of the Navy, and the Secretary of the Air Force are authorized, for their respective military departments, to prescribe the issue of special allowances and such special or supplemental rations, defined by component, quantity, or monetary value, as they may consider appropriate. Executive Order No. 11339 of March 28, 1967, is hereby revoked.
 
 Sec. 4. <i>Correction of Title of the Nez Perce National Forest</i>. Executive Order No. 854 of June 26, 1908, is hereby amended by retitling the “Nezperce National Forest” the “Nez Perce National Forest.”
 
@@ -824,7 +824,7 @@ Section 1. The functions of the President of submitting certain recurring report
 
 2\. Report on Bosnia and U.S. Forces in NATO-Led Stabilization Force (SFOR), consistent with section 7(b) of Public Law 105–174 \[112 Stat. 64\] and section 1203(a) of Public Law 105–261 \[112 Stat. 2148\];
 
-3\. Report on Partnership for Peace Developments, consistent with section 514 of Public Law 103–236 (22 U.S.C. 1928 note);
+3\. Report on Partnership for Peace Developments, consistent with \[former\] section 514 of Public Law 103–236 (22 U.S.C. 1928 note);
 
 4\. Report on U.S. Military Personnel and U.S. Civilian Contractors in Colombia, consistent with section 3204(f) of Public Law 106–246 \[114 Stat. 577\];
 
@@ -878,7 +878,7 @@ Section 1. The functions of the President of submitting certain recurring report
 
 10\. Report on the National Emergency With Respect to Sierra Leone and Liberia, Executive Order 13194 \[listed in a table under section 1701 of Title 50\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c);
 
-11\. Report on the National Emergency With Respect to Sudan, Executive Order 13067 \[listed in a table undersection 1701 of Title 50\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c);
+11\. Report on the National Emergency With Respect to Sudan, Executive Order 13067 \[listed in a table under section 1701 of Title 50\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c);
 
 12\. Report on the National Emergency With Respect to Iraq, Executive Order 12722 \[listed in a table under section 1701 of Title 50\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c);
 
@@ -964,7 +964,7 @@ Section 1. (a) Except with respect to facilities covered by Executive Order 1048
 
 Sec. 2. \[Amended Ex. Ord. No. 11423, set out above.\]
 
-Sec. 3. (a) The Secretary of State may provide for the publication in the Federal Register of notice of receipt of applications, for the receipt of public comments on applications, and for notices related to the issuance or denial of applications.
+Sec. 3. (a) The Secretary of State may provide for the publication in the Federal Register of notice of receiptof applications, for the receipt of public comments on applications, and for notices related to the issuance or denial of applications.
 
 (b) The Secretary of State is authorized to issue such further rules and regulations, and to prescribe such further procedures, including, but not limited to, those relating to the International Boundary and Water Commission, as may from time to time be deemed necessary or desirable for the exercise of the authority conferred by this order.
 

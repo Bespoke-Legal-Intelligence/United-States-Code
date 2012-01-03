@@ -18,9 +18,9 @@ An applicant association shall not be registered as a futures association unless
 
 &emsp;(3) the rules of the association provide that, except with the approval or at the direction of the Commission in cases in which the Commission finds it appropriate in the public interest so to approve or direct, no person shall be admitted to or continued in membership in such association, if such person—
 
-&emsp;&emsp;(A) has been and is suspended or expelled from a registered futures association or from a registered entity or has been and is barred or suspended from being associated with all members of such association or from being associated with all members of such registered entity, for violation of any rule of such association or registered entity which prohibits any act or transaction constituting conduct inconsistent with just and equitable principles of trade, or requires any act the omission of which constitutes conductinconsistent with just and equitable principles of trade;
+&emsp;&emsp;(A) has been and is suspended or expelled from a registered futures association or from a registered entity or has been and is barred or suspended from being associated with all members of such association or from being associated with all members of such registered entity, for violation of any rule of such association or registered entity which prohibits any act or transaction constituting conduct inconsistent with just and equitable principles of trade, or requires any act the omission of which constitutes conduct inconsistent with just and equitable principles of trade;
 
-&emsp;&emsp;(B) is subject to an order of the Commission denying, suspending, or revoking his registration pursuant to sections 9 and 15 of this title, or expelling or suspending him from membership in a registered futures association or a registered entity, or barring or suspending him from being associated with a futures commission merchant;
+&emsp;&emsp;(B) is subject to an order of the Commission denying, suspending, or revoking his registration pursuant to section 9 of this title, or expelling or suspending him from membership in a registered futures association or a registered entity, or barring or suspending him from being associated with a futures commission merchant;
 
 &emsp;&emsp;(C) whether prior or subsequent to becoming a member, by his conduct while associated with a member, was a cause of any suspension, expulsion, or order of the character described in clause (A) or (B) which is in effect with respect to such member, and in entering such a suspension, expulsion, or order, the Commission or any such registered entity or association shall have jurisdiction to determine whether or not any person was a cause thereof; or
 
@@ -38,7 +38,7 @@ An applicant association shall not be registered as a futures association unless
 
 &emsp;&emsp;(E) provide that applications to become a member or a person associated with a member shall set forth such facts as the association may prescribe as to the training, experience, and other qualifications (including, in the case of an applicant for membership, financial responsibility) of the applicant and that the association shall adopt procedures for verification of qualifications of the applicant, which may require the applicant to be fingerprinted and to submit, or cause to be submitted, such fingerprints to the Attorney General for identification and appropriate processing. Notwithstanding any other provision of law, such an association may receive from the Attorney General all the results of such identification and processing; and
 
-&emsp;&emsp;(F) require any class of persons associated with a member to be registered with the association in accordance with procedures specified by such rules (and any application or document supplemental thereto required by such rules of a person seeking to be registered with such association shall, for the purposes of sections 9 and 15 of this title, be deemed an application required to be filed under this section);
+&emsp;&emsp;(F) require any class of persons associated with a member to be registered with the association in accordance with procedures specified by such rules (and any application or document supplemental thereto required by such rules of a person seeking to be registered with such association shall, for the purposes of section 9 of this title, be deemed an application required to be filed under this section);
 
 &emsp;(5) the rules of the association assure a fair representation of its members in the adoption of any rule of the association or amendment thereto, the selection of its officers and directors, and in all other phases of the administration of its affairs;
 
@@ -54,7 +54,7 @@ An applicant association shall not be registered as a futures association unless
 
 &emsp;&emsp;(B) a statement setting forth the specific rule or rules of the association of which any such act or practice, or omission to act, is deemed to be in violation;
 
-&emsp;&emsp;(C) a statement whether the acts or practices prohibited by such rule or rules, or theomission of any act required thereby, are deemed to constitute conduct inconsistent with just and equitable principles of trade; and
+&emsp;&emsp;(C) a statement whether the acts or practices prohibited by such rule or rules, or the omission of any act required thereby, are deemed to constitute conduct inconsistent with just and equitable principles of trade; and
 
 &emsp;&emsp;(D) a statement setting forth the penalty imposed; <sup>1</sup>
 
@@ -138,11 +138,11 @@ A registered futures association may, upon such reasonable notice as the Commiss
 
 &emsp;(B) if the Commission does not make any such finding, the Commission, by order, shall set aside the action of the association and require the association to admit the applicant to membership or permit the person to be associated with a member, or, as appropriate, remand the case to the association for further proceedings.
 
-(4) Any person aggrieved by a final order of the Commission entered under this subsection may file a petition for review with a United States court of appeals in the same manner as provided in sections 9 and 15 of this title.
+(4) Any person aggrieved by a final order of the Commission entered under this subsection may file a petition for review with a United States court of appeals in the same manner as provided in section 9 of this title.
 
 #### (j) Changes or additions to association rules
 
-Every registered futures association shall file with the Commission in accordance with such rules and regulations as the Commission may prescribe as necessary or appropriate in the public interest, copies of any changes in or additions to the rules of the association, and such other information and documents as the Commission may require to keep current or to supplement the registration statement and documents filed pursuant to subsection (a) of this section. A registered futures association shall submit to the Commission any change in or addition to its rules and may make such rules effective ten days after receipt of such submission by the Commission unless, within the ten-day period, the registered futures association requests review and approval thereof by the Commission or the Commission notifies such registered futures association in writing of its determination to review such rules for approval. The Commission shall approve such rules if such rules are determined by the Commission to be consistent with the requirements of this section and not otherwise in violation of this chapter or the regulations issued pursuant to this chapter, and the Commission shall disapprove, after appropriate notice and opportunity for hearing, any such rule which the Commission determines at any time to be inconsistent with the requirements of this section or in violation of this chapter or the regulations issued pursuant to this chapter. If the Commission does not approve or institute disapproval proceedings with respect to any rule within one hundred and eighty days after receipt or within such longer period of time as the registered futures association may agree to, or if the Commission does not conclude a disapproval proceeding with respect to any rule within one year after receipt or within such longer period as the registered futures association may agree to, such rule may be made effective by the registered futures association until such time as the Commission disapproves such rule in accordance with this subsection.
+Every registered futures association shall file with the Commission in accordance with such rules and regulations as the Commission may prescribe as necessary or appropriate in the public interest, copies of any changes in or additions to the rules of the association, and such other information and documents as the Commission may require to keep current or to supplement the registration statement and documents filed pursuant to subsection (a) of this section. A registered futures association shall submit to the Commission any change in or addition to its rules and may make such rules effective ten days after receipt of such submission by the Commission unless, within the ten-day period, the registered futures association requests review and approval thereof by the Commission or the Commission notifies such registered futures association in writing of its determination to review such rules for approval. The Commission shall approve such rules if such rules are determined by the Commission to be consistent with the requirements of this sectionand not otherwise in violation of this chapter or the regulations issued pursuant to this chapter, and the Commission shall disapprove, after appropriate notice and opportunity for hearing, any such rule which the Commission determines at any time to be inconsistent with the requirements of this section or in violation of this chapter or the regulations issued pursuant to this chapter. If the Commission does not approve or institute disapproval proceedings with respect to any rule within one hundred and eighty days after receipt or within such longer period of time as the registered futures association may agree to, or if the Commission does not conclude a disapproval proceeding with respect to any rule within one year after receipt or within such longer period as the registered futures association may agree to, such rule may be made effective by the registered futures association until such time as the Commission disapproves such rule in accordance with this subsection.
 
 #### (k) Abrogation of association rules; requests to associations by Commission to alter or supplement rules
 
@@ -186,7 +186,7 @@ The Commission shall include in its annual reports to Congress information conce
 
 (3) Nothing in this section shall affect the Commission's authority to review the granting of a registration application by a registered futures association that is performing any Commission registration function authorized by the Commission under section 12a(10) of this title, this section, or any other applicable provision of this chapter.
 
-(4) If a person against whom a futures association has issued a registration order under this subsection petitions the Commission to review that order and the Commission declines to take review, such person may file a petition for review with a United States court of appeals, in accordance with sections 9 and 15 of this title.
+(4) If a person against whom a futures association has issued a registration order under this subsection petitions the Commission to review that order and the Commission declines to take review, such person may file a petition for review with a United States court of appeals, in accordance with section 9 of this title.
 
 #### (p) Establishment of rules for futures associations; approval by Commission
 
@@ -212,17 +212,13 @@ Each futures association registered under this section shall develop a comprehen
 
 #### (r) Rules to avoid duplicative regulation of dual registrants
 
-Consistent with this chapter, each futures association registered under this section shall issue such rules as are necessary to avoid duplicative or conflicting rules applicable to any futures commission merchant registered with the Commission pursuant to section 6f(a) of thistitle (except paragraph (2) thereof), that is also registered with the Securities and Exchange Commission pursuant to section 78<i>o</i>(b) of title 15 (except paragraph (11) thereof), with respect to the application of—
+Consistent with this chapter, each futures association registered under this section shall issue such rules as are necessary to avoid duplicative or conflicting rules applicable to any futures commission merchant registered with the Commission pursuant to section 6f(a) of this title (except paragraph (2) thereof), that is also registered with the Securities and Exchange Commission pursuant to section 78<i>o</i>(b) of title 15 (except paragraph (11) thereof), with respect to the application of—
 
-&emsp;(1) rules of such futures association of the type specified in section 6d(c) of this title involving security futures products; and
+&emsp;(1) rules of such futures association of the type specified in section 6d(e) of this title involving security futures products; and
 
 &emsp;(2) similar rules of national securities associations registered pursuant to section 78<i>o</i>–3(a) of title 15 involving security futures products.
 
-(Sept. 21, 1922, ch. 369, §17, as added Pub. L. 93–463, title III, §301, Oct. 23, 1974, 88 Stat. 1406; amended Pub. L. 95–405, §22, Sept. 30, 1978, 92 Stat. 876; Pub. L. 97–444, title II, §§217(b), 233, Jan. 11, 1983, 96 Stat. 2307, 2320; Pub. L. 99–641, title I, §§107, 108, 110(6), (7), Nov. 10, 1986, 100 Stat. 3558, 3559, 3561; Pub. L. 102–546, title II, §§204(a), 206(b), 209(b)(8), 222(c), 228, title IV, §402(12), Oct. 28, 1992, 106 Stat. 3600, 3602, 3607, 3616, 3619, 3625; Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(24), title II, §251(g)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–410, 2763A–444; Pub. L. 110–234, title XIII, §13105(f), May 22, 2008, 122 Stat. 1434; Pub. L. 110–246, §4(a), title XIII, §13105(f), June 18, 2008, 122 Stat. 1664, 2196; Pub. L. 111–203, title VII, §749(g), July 21, 2010, 124 Stat. 1748.)
-
-#### Amendment of Subsection (r)(1)
-
-<i>Pub. L. 111–203, title VII, §§749(g), 754, July 21, 2010, 124 Stat. 1748, 1754, provided that, effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, subsection (r)(1) of this section is amended by striking “section 6d(c) of this title” and inserting “section 6d(e) of this title”.</i>
+(Sept. 21, 1922, ch. 369, §17, as added Pub. L. 93–463, title III, §301, Oct. 23, 1974, 88 Stat. 1406;amended Pub. L. 95–405, §22, Sept. 30, 1978, 92 Stat. 876; Pub. L. 97–444, title II, §§217(b), 233, Jan. 11, 1983, 96 Stat. 2307, 2320; Pub. L. 99–641, title I, §§107, 108, 110(6), (7), Nov. 10, 1986, 100 Stat. 3558, 3559, 3561; Pub. L. 102–546, title II, §§204(a), 206(b), 209(b)(8), 222(c), 228, title IV, §402(12), Oct. 28, 1992, 106 Stat. 3600, 3602, 3607, 3616, 3619, 3625; Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(24), title II, §251(g)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–410, 2763A–444; Pub. L. 110–234, title XIII, §13105(f), May 22, 2008, 122 Stat. 1434; Pub. L. 110–246, §4(a), title XIII, §13105(f), June 18, 2008, 122 Stat. 1664, 2196; Pub. L. 111–203, title VII, §749(g), July 21, 2010, 124 Stat. 1748.)
 
 #### Codification
 
@@ -230,13 +226,15 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (r)(1). Pub. L. 110–246, §13105(f), substituted “6d(c)” for “6d(3)”.
+<b>2010</b>—Subsec. (r)(1). Pub. L. 111–203 substituted “section 6d(e) of this title” for “section 6d(c) of this title”.
 
-2000—Subsecs. (b)(2), (3), (10), (<i>o</i>)(1), (q)(2). Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(24)\], substituted “registered entity” for “contract market” wherever appearing.
+<b>2008</b>—Subsec. (r)(1). Pub. L. 110–246, §13105(f), substituted “6d(c)” for “6d(3)”.
+
+<b>2000</b>—Subsecs. (b)(2), (3), (10), (<i>o</i>)(1), (q)(2). Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(24)\], substituted “registered entity” for “contract market” wherever appearing.
 
 Subsec. (r). Pub. L. 106–554, §1(a)(5) \[title II, §251(g)\], added subsec. (r).
 
-1992—Subsec. (a)(1), (2). Pub. L. 102–546, §402(12)(A), realigned margins.
+<b>1992</b>—Subsec. (a)(1), (2). Pub. L. 102–546, §402(12)(A), realigned margins.
 
 Subsec. (b)(3). Pub. L. 102–546, §§206(b)(1)(A), (B), 209(b)(8)(A)(i), struck out “or” at end of subpar. (A), in subpar. (B) made technical amendment to reference to sections 9 and 15 of this title to reflect change in reference to corresponding section of original act and struck out “or” at end, and in subpar. (D) substituted a semicolon for period at end.
 
@@ -260,7 +258,7 @@ Subsec. (p)(4). Pub. L. 102–546, §204(a), added par. (4).
 
 Subsec. (q). Pub. L. 102–546, §206(b)(2), added subsec. (q) relating to major disciplinary rules violations.
 
-1986—Subsec. (b)(2). Pub. L. 99–641, §110(6), substituted “within” for “with in” before “the meaning”.
+<b>1986</b>—Subsec. (b)(2). Pub. L. 99–641, §110(6), substituted “within” for “with in” before “the meaning”.
 
 Subsec. (h). Pub. L. 99–641, §107, amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “If any registered futures association takes any disciplinary action against any member thereof or any person associated with such a member or denies admission to any person seeking membership therein, or bars any person from being associated with a member, such action shall be subject to review by the Commission, on its own motion, or upon application by any person aggrieved thereby filed within thirty days after such action has been taken or within such longer period as the Commission may determine. Application to the Commission for review, or the institution of review by the Commission on its own motion, shall operate as a stay of such action until an order is issued upon such review pursuant to subsection (i) of this section unless the Commission otherwise orders, after notice and opportunity for hearing on the question of a stay (which hearing may consist solely of affidavits and oral arguments).”
 
@@ -270,17 +268,17 @@ Subsec. (i). Pub. L. 99–641, §107, amended subsec. (i) generally. Prior to am
 
 &emsp;“(A) finds that such member or person has engaged in such acts or practices, or has omitted such act, as the association has found him to have engaged in or omitted, and
 
-&emsp;“(B) determines that such acts or practices, or omission to act, are in violation of such rules of the association as have been designated in the determination of the association, the Commission shall by order dismiss the proceeding, unless it appears to the Commission that such action should be modified in accordance with paragraph (2) of this subsection. The Commission shall likewise determine whether the acts or practices prohibited, or the omission of any act required, by any such rule constitute conduct inconsistent with just and equitable principles of trade, and shall so declare. If it appears to the Commission that the evidence does not warrant the finding required in clause (A), or if the Commission determinesthat such acts or practices as are found to have been engaged in are not prohibited by the designated rule or rules of the association, or that such act as is found to have been omitted is not required by such designated rule or rules, the Commission shall by order set aside the action of the association.
+&emsp;“(B) determines that such acts or practices, or omission to act, are in violation of such rules of the association as have been designated in the determination of the association, the Commission shall by order dismiss the proceeding, unless it appears to the Commission that such action should be modified in accordance with paragraph (2) of this subsection. The Commission shall likewise determine whether the acts or practices prohibited, or the omission of any act required, by any such rule constitute conduct inconsistent with just and equitable principles of trade, and shall so declare. If it appears to the Commission that the evidence does not warrant the finding required in clause (A), or if the Commission determines that such acts or practices as are found to have been engaged in are not prohibited by the designated rule or rules of the association, or that such act as is found to have been omitted is not required by such designated rule or rules, the Commission shall by order set aside the action of the association.
 
 “(2) If, after appropriate notice and opportunity for hearing, the Commission finds that any penalty imposed upon a member or person associated with a member is excessive or oppressive, having due regard to the public interest, the Commission shall by order cancel, reduce, or require the remission of such penalty.
 
 “(3) In any proceeding to review the denial of membership in a registered futures association or the barring of any person from being associated with a member, if the Commission, after appropriate notice and hearing, and upon consideration of the record before the association and such other evidence as it may deem relevant, determines that the specific grounds on which such denial or bar is based exist in fact and are valid under this section, the Commission shall by order dismiss the proceeding; otherwise, the Commission shall by order set aside the action of the association and require it to admit the applicant to membership therein, or to permit such person to be associated with a member.”
 
-Subsec. (j). Pub. L. 99–641, §108, struck out sentence which read as follows: “The Commission shall approve such rules within thirty days of their receipt if Commission approval is requested under this subsection or within thirty days after the Commission determines to review for approval any other rules unless the Commission notifies the registered futures association of its inability to complete such approval or review within such period of time.”
+Subsec. (j). Pub. L. 99–641, §108, struck out sentence which read as follows: “The Commission shall approvesuch rules within thirty days of their receipt if Commission approval is requested under this subsection or within thirty days after the Commission determines to review for approval any other rules unless the Commission notifies the registered futures association of its inability to complete such approval or review within such period of time.”
 
 Subsec. (k)(1). Pub. L. 99–641, §110(7), substituted “section” for “title”.
 
-1983—Subsec. (b)(4)(E). Pub. L. 97–444, §233(1), inserted “, which may require the applicant to be fingerprinted and to submit, or cause to be submitted, such fingerprints to the Attorney General for identification and appropriate processing. Notwithstanding any other provision of law, such an association may receive from the Attorney General all the results of such identification and processing” after “adopt procedures for verification of qualifications of the applicant”.
+<b>1983</b>—Subsec. (b)(4)(E). Pub. L. 97–444, §233(1), inserted “, which may require the applicant to be fingerprinted and to submit, or cause to be submitted, such fingerprints to the Attorney General for identification and appropriate processing. Notwithstanding any other provision of law, such an association may receive from the Attorney General all the results of such identification and processing” after “adopt procedures for verification of qualifications of the applicant”.
 
 Subsec. (b)(10). Pub. L. 97–444, §217(b), required association rules to provide for “expeditious” procedure, redesignated cl. (iv) as (ii) and substituted “ ‘customer’ as used in this paragraph shall not include another member of the association” for “ ‘customer’ as used in this subsection shall not include a futures commission merchant or a floor broker”, and struck out clauses “(ii) the procedure shall not be applicable to any claim in excess of $15,000, (iii) the procedure shall not result in any compulsory payment except as agreed upon between the parties,”.
 
@@ -292,7 +290,7 @@ Subsec. (j). Pub. L. 97–444, §233(4), substituted “A registered futures ass
 
 Subsecs. (<i>o</i>) to (q). Pub. L. 97–444, §233(5), added subsecs. (<i>o</i>), (p), and (q).
 
-1978—Subsec. (b)(3)(B). Pub. L. 95–405, §22(1), struck out “(7 U.S.C. 9)” after “sections 9 and 15 of this title”.
+<b>1978</b>—Subsec. (b)(3)(B). Pub. L. 95–405, §22(1), struck out “(7 U.S.C. 9)” after “sections 9 and 15 of this title”.
 
 Subsec. (b)(10). Pub. L. 95–405, §22(2), substituted “$15,000” for “$5,000”.
 
@@ -322,7 +320,7 @@ For effective date of section, see section 418 of Pub. L. 93–463, set out as a
 
 #### Implementation
 
-Section 204(b) of Pub. L. 102–546 provided that: “The guidelines required under section 17(p)(4) of the Commodity Exchange Act \[7 U.S.C. 21(p)(4)\] (as added bysubsection (a) of this section) shall be submitted by a futures association registered with the Commodity Futures Trading Commission on the date of enactment of this Act \[Oct. 28, 1992\] to the Commission for the approval of the Commission not later than one hundred and eighty days after the date of enactment of this Act.”
+Section 204(b) of Pub. L. 102–546 provided that: “The guidelines required under section 17(p)(4) of the Commodity Exchange Act \[7 U.S.C. 21(p)(4)\] (as added by subsection (a) of this section) shall be submitted by a futures association registered with the Commodity Futures Trading Commission on the date of enactment of this Act \[Oct. 28, 1992\] to the Commission for the approval of the Commission not later than one hundred and eighty days after the date of enactment of this Act.”
 
 #### Study on Computerized Futures Trading
 
@@ -338,7 +336,7 @@ Study.—The Commodity Futures Trading Commission shall conduct a study to asses
 
 “(c)
 
-Report.—Not later than two years after the date of enactment of this Act \[Oct. 28, 1992\], the Commission shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report containing the results of the study conducted under subsection (a), together with any appropriate recommendations.”
+Report.—Not later than two years after the date of enactment of this Act \[Oct. 28, 1992\], the Commissionshall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report containing the results of the study conducted under subsection (a), together with any appropriate recommendations.”
 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a period.</i>
 

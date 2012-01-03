@@ -68,7 +68,7 @@ Subsec. (c). Pub. L. 104–132, §205(d)(3), (4), added subsec. (c) and struck o
 
 Affidavit.—Within 60 days after conviction and, in any event, not later than 10 days before sentencing, the United States Attorney (or such Attorney's delegate), after consulting with the victim, shall prepare and file an affidavit with the court listing the amounts subject to restitution under this section. The affidavit shall be signed by the United States Attorney (or the delegate) and the victim. Should the victim object to any of the information included in the affidavit, the United States Attorney (or the delegate) shall advise the victim that the victim may file a separate affidavit and assist the victim in the preparation of the affidavit.”
 
-Subsecs. (d) to (g). Pub. L. 104–132, §205(d)(3), struck out subsecs. (d) to (g), which related, respectively, to objection, additional documentation and testimony, final determination of losses, and restitution in addition to punishment.
+Subsecs. (d) to (g). Pub. L. 104–132, §205(d)(3), struck out subsecs. (d) to (g), which related, respectively, toobjection, additional documentation and testimony, final determination of losses, and restitution in addition to punishment.
 
 #### Effective Date of 1996 Amendment
 

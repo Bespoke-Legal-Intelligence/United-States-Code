@@ -14,7 +14,7 @@
 
 (4) For the purposes of this section, the terms “hospital care”, “nursing home care”, and “medical services” have the meanings given such terms by sections 1701(5), 101(28), and 1701(6) of this title, respectively, and the term “medical services” includes services under sections 1782 and 1783 of this title.
 
-(b)(1) During a period in which the Secretary is authorized to furnish care and services to members of the Armed Forces under subsection (a) of this section, the Secretary, to the extent authorized by the President and subject to theavailability of appropriations or reimbursements under subsection (c) of this section, may enter into contracts with private facilities for the provision during such period by such facilities of hospital care and medical services described in paragraph (2) of this subsection.
+(b)(1) During a period in which the Secretary is authorized to furnish care and services to members of the Armed Forces under subsection (a) of this section, the Secretary, to the extent authorized by the President and subject to the availability of appropriations or reimbursements under subsection (c) of this section, may enter into contracts with private facilities for the provision during such period by such facilities of hospital care and medical services described in paragraph (2) of this subsection.
 
 (2) Hospital care and medical services referred to in paragraph (1) of this subsection are—
 
@@ -36,7 +36,7 @@
 
 (2) Whenever a modification to such plans is agreed to, the Secretaries shall jointly submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on such modification. Any such report shall be submitted within 30 days after the modification is agreed to.
 
-(e) The Secretary shall prescribe regulations to govern any exercise of the authority of the Secretary under subsections (a) and (b) of this section and of the Under Secretary for Health under subsection (b)(2)(A) of this section.
+(e) The Secretary shall prescribe regulations to govern any exercise of the authority of theSecretary under subsections (a) and (b) of this section and of the Under Secretary for Health under subsection (b)(2)(A) of this section.
 
 (Added Pub. L. 97–174, §4(a), May 4, 1982, 96 Stat. 74, §5011A; renumbered §8111A, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–54, §14(f)(4), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–262, title I, §101(e)(5), Oct. 9, 1996, 110 Stat. 3181; Pub. L. 106–419, title IV, §403(b), Nov. 1, 2000, 114 Stat. 1864; Pub. L. 107–135, title II, §208(e)(7), Jan. 23, 2002, 115 Stat. 2464; Pub. L. 107–287, §4(b), Nov. 7, 2002, 116 Stat. 2029; Pub. L. 109–444, §8(a)(8), Dec. 21, 2006, 120 Stat. 3313; Pub. L. 109–461, title X, §§1004(a)(8), 1006(b), Dec. 22, 2006, 120 Stat. 3466, 3468; Pub. L. 111–275, title X, §1001(p)(1), Oct. 13, 2010, 124 Stat. 2897.)
 

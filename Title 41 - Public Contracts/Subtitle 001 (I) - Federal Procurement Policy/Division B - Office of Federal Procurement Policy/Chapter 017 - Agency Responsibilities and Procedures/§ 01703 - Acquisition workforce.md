@@ -34,7 +34,27 @@ Ensure uniform implementation.—The head of each executive agency shall ensure 
 
 &emsp;(2)
 
-Duties of administrator.—The Administrator shall issue policies to promote uniform implementation of this section by executive agencies, with due regard for differences in program requirements among agencies that may be appropriate and warranted in view of the agency mission. The Administrator shall coordinate with the Deputy Director for Management of the Office of Management and Budget to ensure that the policies are consistent with the policies and procedures established, and enhanced system of incentives provided, pursuant to section 5051(c) of the Federal Acquisition Streamlining Act of 1994 (Public Law 103–355, 108 Stat. 3351). The Administrator shall evaluate the implementation of this section by executive agencies.
+Duties of administrator.—
+
+&emsp;&emsp;(A)
+
+In general.—The Administrator shall issue policies to promote uniform implementation of this section by executive agencies, with due regard for differences in program requirements among agencies that may be appropriate and warranted in view of the agency mission. The Administrator shall coordinate with the Deputy Director for Management of the Office of Management and Budget to ensure that the policies are consistent with the policies and procedures established, and enhanced system of incentives provided, pursuant to section 5051(c) of the Federal Acquisition Streamlining Act of 1994 (Public Law 103–355, 108 Stat. 3351). The Administrator shall evaluate the implementation of this section by executive agencies.
+
+&emsp;&emsp;(B)
+
+Government-wide training standards and certification.—The Administrator, acting through the Federal Acquisition Institute, shall provide and update government-wide training standards and certification requirements, including—
+
+&emsp;&emsp;&emsp;(i) developing and modifying acquisition certification programs;
+
+&emsp;&emsp;&emsp;(ii) ensuring quality assurance for agency implementation of government-wide training and certification standards;
+
+&emsp;&emsp;&emsp;(iii) analyzing the acquisition training curriculum to ascertain if all certification competencies are covered or if adjustments are necessary;
+
+&emsp;&emsp;&emsp;(iv) developing career path information for certified professionals to encourage retention in government positions;
+
+&emsp;&emsp;&emsp;(v) coordinating with the Office of Personnel Management for human capital efforts; and
+
+&emsp;&emsp;&emsp;(vi) managing rotation assignments to support opportunities to apply skills included in certification.
 
 (d)
 
@@ -58,7 +78,7 @@ Identification.—The head of each executive agency shall ensure that appropriat
 
 &emsp;&emsp;(B)
 
-Critical duties and tasks.—For each career path, the head of each executive agency shall identify the critical acquisition-related duties and tasks in which, at minimum, employees of the agency in the careerpath shall be competent to perform at full performance grade levels. For this purpose, the head of the executive agency shall provide appropriate coverage of the critical duties and tasks identified by the Director of the Federal Acquisition Institute.
+Critical duties and tasks.—For each career path, the head of each executive agency shall identify the critical acquisition-related duties and tasks in which, at minimum, employees of the agency in the career path shall be competent to perform at full performance grade levels. For this purpose, the head of the executive agency shall provide appropriate coverage of the critical duties and tasks identified by the Director of the Federal Acquisition Institute.
 
 &emsp;&emsp;(C)
 
@@ -130,7 +150,7 @@ Purposes.—The purposes of this subsection are to ensure that the Federal acqui
 
 &emsp;(2)
 
-Establishment and management of fund.—There is an acquisition workforce training fund. The Administrator of General Services shall manage the fund through the Federal Acquisition Institute to support the training of the acquisition workforce of the executive agencies, except as provided in paragraph (5). The Administrator of General Services shall consult with the Administrator in managing the fund.
+Establishment and management of fund.—There is an acquisition workforce training fund. The Administrator of General Services shall manage the fund through the Federal Acquisition Institute to support the activities set forth in section 1201(a) of this title, except as provided in paragraph (5). The Administrator of General Services shall consult with the Administrator in managing the fund.
 
 &emsp;(3)
 
@@ -144,7 +164,7 @@ Credits to fund.—Five percent of the fees collected by executive agencies (oth
 
 &emsp;(4)
 
-Remittance by head of executive agency.—The head of an executive agency that administers a contract described in paragraph (3) shall remit to the General Services Administration the amount required to be credited tothe fund with respect to the contract at the end of each quarter of the fiscal year.
+Remittance by head of executive agency.—The head of an executive agency that administers a contract described in paragraph (3) shall remit to the General Services Administration the amount required to be credited to the fund with respect to the contract at the end of each quarter of the fiscal year.
 
 &emsp;(5)
 
@@ -152,7 +172,7 @@ Transfer and use of fees collected from department of defense.—The Administrat
 
 &emsp;(6)
 
-Amounts not to be used for other purposes.—The Administrator of General Services, through the Office of Federal Procurememt Policy, shall ensure that amounts collected for training under this subsection are not used for a purpose other than the purpose specified in paragraph (2).
+Amounts not to be used for other purposes.—The Administrator of General Services, through the Office of Federal Procurememt <sup>1</sup> Policy, shall ensure that amounts collected under this section are not used for a purpose other than the activities set forth in section 1201(a) of this title.
 
 &emsp;(7)
 
@@ -204,7 +224,11 @@ Reporting requirement.—The Administrator shall submit annually to the Committe
 
 Sunset provision.—The authority under this subsection expires on December 31, 2011.
 
-(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3702.)
+(<i>l</i>)
+
+Acquisition Internship and Training Programs.—All Federal civilian agency acquisition internship or acquisition training programs shall follow guidelines provided by the Office of Federal Procurement Policy to ensure consistent training standards necessary to develop uniform core competencies throughout the Federal Government.
+
+(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3702; Pub. L. 112–74, div. C, title V, §526, Dec. 23, 2011, 125 Stat. 914; Pub. L. 112–81, div. A, title VIII, §864(c), (d), Dec. 31, 2011, 125 Stat. 1525.)
 
 Historical and Revision Notes
 
@@ -298,7 +322,19 @@ In subsection (k)(4), the words “Committee on Oversight and Government Reform�
 
 #### References in Text
 
-Section 5051(c) of the Federal Acquisition Streamlining Act of 1994, referred to in subsec. (c)(2), is section 5051(c) of Pub. L. 103–305, which is set out as a note under this section.
+Section 5051(c) of the Federal Acquisition Streamlining Act of 1994, referred to in subsec. (c)(2)(A), is section 5051(c) of Pub. L. 103–305, which is set out as a note under this section.
+
+#### Amendments
+
+<b>2011</b>—Subsec. (c)(2). Pub. L. 112–81, §864(c)(1), designated existing provisions as subpar. (A), inserted subpar. heading, and added subpar. (B).
+
+Subsec. (i)(2). Pub. L. 112–81, §864(d)(1), substituted “to support the activities set forth in section 1201(a) of this title” for “to support the training of the acquisition workforce of the executive agencies”.
+
+Subsec. (i)(6). Pub. L. 112–81, §864(d)(2), substituted “ensure that amounts collected under this section are not used for a purpose other than the activities set forth in section 1201(a) of this title” for “ensure that amounts collected for training under this subsection are not used for a purpose other than the purpose specified in paragraph (2)”.
+
+Pub. L. 112–74, which directed amendment of par. (6) by striking out “for training” after “amounts collected” and substituting “subparagraphs (A) and (C) to (J) of section 1122(a)(5) of this title” for “paragraph (2)”, was not executed to reflect the probable intent of Congress and the subsequent amendment by Pub. L. 112–81, §864(d)(2). See above.
+
+Subsec. (<i>l</i>). Pub. L. 112–81, §864(c)(2), added subsec. (<i>l</i>).
 
 #### Training for Contracting and Enforcement Personnel
 
@@ -319,4 +355,6 @@ Pub. L. 103–355, title V, §5051(c), Oct. 13, 1994, 108 Stat. 3351, provided t
 &emsp;&emsp;“(A) relates pay to performance (including the extent to which the performance of personnel in such workforce contributes to achieving the cost goals, schedule goals, and performance goals established for acquisition programs pursuant to section 313(b) of the Federal Property and Administrative Services Act of 1949, as added by subsection (a) \[now 41 U.S.C. 3103(b)\]); and
 
 &emsp;&emsp;“(B) provides for consideration, in personnel evaluations and promotion decisions, of the extent to which the performance of personnel in such workforce contributes to achieving such cost goals, schedule goals, and performance goals.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be “Procurement”.</i>
 

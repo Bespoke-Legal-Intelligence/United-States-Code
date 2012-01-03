@@ -6,7 +6,7 @@
 
 &emsp;Not later than July 1, 2013, the Secretary shall, in consultation with the National Association of Insurance Commissioners, issue regulations for the creation of health care choice compacts under which 2 or more States may enter into an agreement under which—
 
-&emsp;&emsp;(A) 1 or more qualified health plans could be offered in the individual markets in all such States but, except as provided in subparagraph (B), only be subject to the laws and regulations of the State in which the plan was written or issued;
+&emsp;&emsp;(A) 1 or more qualified health plans could be offered in the individual markets in allsuch States but, except as provided in subparagraph (B), only be subject to the laws and regulations of the State in which the plan was written or issued;
 
 &emsp;&emsp;(B) the issuer of any qualified health plan to which the compact applies—
 
@@ -44,7 +44,7 @@
 
 #### References in Text
 
-This title, where footnoted in subsec. (a)(3)(A) to (C), is title I of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 130, which enacted this chapter and enacted, amended, andtransferred numerous other sections and notes in the Code. For complete classification of title I to the Code, see Tables.
+This title, where footnoted in subsec. (a)(3)(A) to (C), is title I of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 130, which enacted this chapter and enacted, amended, and transferred numerous other sections and notes in the Code. For complete classification of title I to the Code, see Tables.
 
 #### Amendments
 

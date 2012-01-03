@@ -28,7 +28,7 @@ Public-Private Competition.—(1) No function of the Department of Defense perfo
 
 &emsp;(G) requires that the contractor shall not receive an advantage for a proposal that would reduce costs for the Department of Defense by—
 
-&emsp;&emsp;(i) not making an employer-sponsored health insurance plan (or payment that could be used in lieu of such a plan), healthsavings account, or medical savings account available to the workers who are to be employed to perform the function under the contract;
+&emsp;&emsp;(i) not making an employer-sponsored health insurance plan (or payment that could be used in lieu of such a plan), health savings account, or medical savings account available to the workers who are to be employed to perform the function under the contract;
 
 &emsp;&emsp;(ii) offering to such workers an employer-sponsored health benefits plan that requires the employer to contribute less towards the premium or subscription share than the amount that is paid by the Department of Defense for health benefits for civilian employees of the Department under chapter 89 of title 5; or
 
@@ -64,13 +64,13 @@ Public-Private Competition.—(1) No function of the Department of Defense perfo
 
 (iii) If the Secretary specifies an alternative time period under this subparagraph, the alternative time period shall be binding on the Department in the same manner and to the same extent as the limitation provided in subparagraph (A).
 
-(C) The time period specified in subparagraph (A) for a public-private competition does not include any day during which the public-private competition is delayed by reason of the filing of a protest before the Government Accountability Office or a complaint in the United States Court of Federal Claims up until the day the decision or recommendation of either authority becomes final. In the case of a protest before the Government Accountability Office, the recommendation becomes final after the period of time for filing a request for reconsideration, or if a request for reconsideration is filed, on the day the Government Accountability Office issues a decision on the reconsideration.
+(C) The time period specified in subparagraph (A) for a public-private competition does not include any day during which the public-private competition is delayed by reason of the filing of a protest before the Government Accountability Office or a complaint in the United States Court of Federal Claims up until the day the decision or recommendation of either authority becomes final. In the case of a protest before the Government Accountability Office, the recommendation becomes final after the period of time forfiling a request for reconsideration, or if a request for reconsideration is filed, on the day the Government Accountability Office issues a decision on the reconsideration.
 
 (D) If a protest with respect to a public-private competition before the Government Accountability Office or the United States Court of Federal Claims is sustained, and the recommendation is final as described in subparagraph (C), and if such protest and recommendation result in an unforeseen delay in implementing a final performance decision, the Secretary of Defense may terminate the public-private competition or extend the period of time specified for the public-private competition under subparagraph (A) or subparagraph (B). If the Secretary decides not to terminate a competition, the Secretary shall submit to Congress written notice of such decision. Any such notification shall include a justification for the Secretary's decision and a new time limitation for the competition, which shall not exceed 12 months from the final decision and shall be binding on the Department.
 
-(E) For the purposes of this paragraph, preliminary planning with respect to a public-private competition, begins on the date on which the Department of Defense obligates funds for the acquisition of contract support, or formally assigns Department of Defense personnel, to carry out any of the following activities:
+(E) For the purposes of this paragraph, preliminary planning with respect to a public-private competition shall be conducted in accordance with guidance and procedures that shall be issued and maintained by the Under Secretary of Defense for Personnel and Readiness and shall begin on the date on which a component of the Department of Defense first obligates funds specifically for the acquisition of contract support for the preliminary planning effort, or formally assigns Department of Defense personnel, to carry out any of the following activities:
 
-&emsp;(i) Determining the scope of the competition.
+&emsp;(i) Determining the scope of the a <sup>1</sup> public-private competition.
 
 &emsp;(ii) Conducting research to determine the appropriate grouping of functions for the competition.
 
@@ -78,7 +78,7 @@ Public-Private Competition.—(1) No function of the Department of Defense perfo
 
 &emsp;(iv) Determining the baseline cost of any function for which the competition is conducted.
 
-(F) To effectively establish the date that is the first day of preliminary planning for a public-private competition, the head of a military department shall submit to Congress written notice of such date and shall provide public notice by announcing such date on an appropriate Internet website. Such date is the first day of preliminary planning for a public-private competition for the purpose of computing the duration of the public private competition for purposes of this section.
+(F) To effectively establish the date that is the first day of preliminary planning for a public-private competition, the head of a military department or Defense Agency shall submit to Congress written notice of the actions intended to be taken during the preliminary planning process and shall provide public notice of such actions by announcing such date on an appropriate Internet website and through other means as determined necessary. The date of such announcement shall be used for the purpose of computing the duration of the public private competition for purposes of this section.
 
 (G) The Secretary of Defense shall submit to the congressional defense committees an annual report on the use, during the year covered by the report, of alternative time periods for public-private competitions under this section, and the explanations of the Secretary for such alternative time periods.
 
@@ -130,13 +130,13 @@ Exemption for the Purchase of Products and Services of the Blind and Other Sever
 
 &emsp;(1) is included on the procurement list established pursuant to section 8503 of title 41; or
 
-&emsp;(2) is planned to be changed to performance by a qualified nonprofit agency for the blind or by a qualified nonprofit agency for other severely handicapped persons in accordance with that Act.<sup>1</sup>
+&emsp;(2) is planned to be changed to performance by a qualified nonprofit agency for the blind or by a qualified nonprofit agency for other severely handicapped persons in accordance with that Act.<sup>2</sup>
 
 (e)
 
 Inapplicability During War or Emergency.—The provisions of this section shall not apply during war or during a period of national emergency declared by the President or Congress.
 
-(Added Pub. L. 100–370, §2(a)(1), July 19, 1988, 102 Stat. 851; amended Pub. L. 101–189, div. A, titleXI, §1132, Nov. 29, 1989, 103 Stat. 1561; Pub. L. 104–106, div. D, title XLIII, §4321(b)(19), Feb. 10, 1996, 110 Stat. 673; Pub. L. 105–85, div. A, title III, §384, Nov. 18, 1997, 111 Stat. 1711; Pub. L. 105–261, div. A, title III, §342(a)–(c), Oct. 17, 1998, 112 Stat. 1974–1976; Pub. L. 106–65, div. A, title III, §341, Oct. 5, 1999, 113 Stat. 568; Pub. L. 106–398, §1 \[\[div. A\], title III, §§351, 352\], Oct. 30, 2000, 114 Stat. 1654, 1654A–71, 1654A–72; Pub. L. 107–107, div. A, title III, §344, Dec. 28, 2001, 115 Stat. 1061; Pub. L. 107–314, div. A, title III, §331, Dec. 2, 2002, 116 Stat. 2512; Pub. L. 109–163, div. A, title III, §341(a), (b), (c)(2), (3), (g)(1)–(2)(B), Jan. 6, 2006, 119 Stat. 3195, 3196, 3199, 3200; Pub. L. 110–181, div. A, title III, §§322(a), (b)(2), (c), 323, Jan. 28, 2008, 122 Stat. 58–60; Pub. L. 111–84, div. A, title III, §§321(a), 322(a), title X, §1073(a)(25), Oct. 28, 2009, 123 Stat. 2250, 2251, 2474; Pub. L. 111–350, §5(b)(34), Jan. 4, 2011, 124 Stat. 3845.)
+(Added Pub. L. 100–370, §2(a)(1), July 19, 1988, 102 Stat. 851; amended Pub. L. 101–189, div. A, title XI, §1132, Nov. 29, 1989, 103 Stat. 1561; Pub. L. 104–106, div. D, title XLIII, §4321(b)(19), Feb. 10, 1996, 110 Stat. 673; Pub. L. 105–85, div. A, title III, §384, Nov. 18, 1997, 111 Stat. 1711; Pub. L. 105–261, div. A, title III, §342(a)–(c), Oct. 17, 1998, 112 Stat. 1974–1976; Pub. L. 106–65, div. A, title III, §341, Oct. 5, 1999, 113 Stat. 568; Pub. L. 106–398, §1 \[\[div. A\], title III, §§351, 352\], Oct. 30, 2000, 114 Stat. 1654, 1654A–71, 1654A–72; Pub. L. 107–107, div. A, title III, §344, Dec. 28, 2001, 115 Stat. 1061; Pub. L. 107–314, div. A, title III, §331, Dec. 2, 2002, 116 Stat. 2512; Pub. L. 109–163, div. A, title III, §341(a), (b), (c)(2), (3), (g)(1)–(2)(B), Jan. 6, 2006, 119 Stat. 3195, 3196, 3199, 3200; Pub. L. 110–181, div. A, title III, §§322(a), (b)(2), (c), 323, Jan. 28, 2008, 122 Stat. 58–60; Pub. L. 111–84, div. A, title III, §§321(a), 322(a), title X, §1073(a)(25), Oct. 28, 2009, 123 Stat. 2250, 2251, 2474; Pub. L. 111–350, §5(b)(34), Jan. 4, 2011, 124 Stat. 3845; Pub. L. 112–81, div. A, title IX, §937, Dec. 31, 2011, 125 Stat. 1546.)
 
 #### Historical and Revision Notes
 
@@ -148,7 +148,13 @@ That Act, referred to in subsec. (d)(2), is a reference to the Javits-Wagner-O'D
 
 #### Amendments
 
-<b>2011</b>—Subsec. (d)(1). Pub. L. 111–350, which directed substitution of “section 8503 of title 41” for “section 2 of the Javits-Wagner-O'Day Act (41 U.S.C. 47)” in subsec. (c)(1), was executed by making the substitution in subsec. (d)(1) to reflect the probable intent of Congress and the amendment by Pub. L. 110–181, §322(b)(2). See 2008 Amendment note below.
+<b>2011</b>—Subsec. (a)(5)(E). Pub. L. 112–81, §937(1)(A)–(E), in introductory provisions, substituted “competition shall be conducted in accordance with guidance and procedures that shall be issued and maintained by the Under Secretary of Defense for Personnel and Readiness and shall begin on the date on which a component of the Department of Defense first obligates funds specifically for the acquisition of contract support for the preliminary planning effort” for “competition, begins on the date on which the Department of Defense obligates funds for the acquisition of contract support”.
+
+Subsec. (a)(5)(E)(i). Pub. L. 112–81, §937(1)(F), inserted “a public-private” before “competition”.
+
+Subsec. (a)(5)(F). Pub. L. 112–82, §937(2), substituted “military department or Defense Agency shall submit to Congress written notice of the actions intended to be taken during the preliminary planning process and shall provide public notice of such actions by announcing such date on an appropriate Internet website and through other means as determined necessary. The date of such announcement shall be used for the purpose” for “military department shall submit to Congress written notice of such date and shall provide public notice by announcing such date on an appropriate Internet website. Such date is the first day of preliminary planning for a public-private competition for the purpose”.
+
+Subsec. (d)(1). Pub. L. 111–350, which directed substitution of “section 8503 of title 41” for “section 2 of the Javits-Wagner-O'Day Act (41 U.S.C. 47)” in subsec. (c)(1), was executed by making the substitution in subsec. (d)(1) to reflect the probable intent of Congress and the amendment by Pub. L. 110–181, §322(b)(2). See 2008 Amendment note below.
 
 <b>2009</b>—Subsec. (a)(1). Pub. L. 111–84, §321(a), in introductory provisions, substituted “No function” for “A function” and “may be converted” for “may not be converted” and struck out “10 or more” before “Department of Defense civilian employees”.
 
@@ -242,7 +248,7 @@ Subsec. (d). Pub. L. 105–85, §384(c), substituted “20 or fewer” for “45
 
 #### Effective Date of 2009 Amendment
 
-Pub. L. 111–84, div. A, title III, §321(b), Oct. 28, 2009, 123 Stat. 2250, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to a function for which a public-private competition is commenced on or after the date of the enactment of this Act \[Oct. 28, 2009\].”
+Pub. L. 111–84, div. A, title III, §321(b), Oct. 28, 2009, 123 Stat. 2250, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to a function for which a public-privatecompetition is commenced on or after the date of the enactment of this Act \[Oct. 28, 2009\].”
 
 Pub. L. 111–84, div. A, title III, §322(b), Oct. 28, 2009, 123 Stat. 2252, provided that: “Paragraph (5) of section 2461(a) of title 10, United States Code, as added by subsection (a), shall apply with respect to a public-private competition covered by such section that is initiated on or after the date of the enactment of this Act \[Oct. 28, 2009\].”
 
@@ -288,7 +294,7 @@ Pub. L. 111–84, div. A, title X, §1082, Oct. 28, 2009, 123 Stat. 2481, provid
 
 “(a)
 
-Multiyear Contracts Authorized.—The Secretary of the Air Force may enter into one or more multiyear contracts, beginning with the fiscal year 2011 program year, for purposes of conducting the pilot program on utilizing commercial fee-for-service air refueling tanker aircraft for Air Force operations required bysection 1081 of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 335) \[set out below\].
+Multiyear Contracts Authorized.—The Secretary of the Air Force may enter into one or more multiyear contracts, beginning with the fiscal year 2011 program year, for purposes of conducting the pilot program on utilizing commercial fee-for-service air refueling tanker aircraft for Air Force operations required by section 1081 of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 335) \[set out below\].
 
 “(b)
 
@@ -332,7 +338,7 @@ In general.—The pilot program required by subsection (a) shall evaluate the fe
 
 Elements.—In order to achieve the purpose of the pilot program, the Secretary of the Air Force shall—
 
-&emsp;&emsp;“(A) demonstrate and validate a comprehensive strategy for air refueling on a fee-for-service basis by evaluating all mission areas, including testing support, training support to receiving aircraft, homeland defense support, deployment support, air bridge support, aeromedical evacuation, and emergency air refueling; and
+&emsp;&emsp;“(A) demonstrate and validate a comprehensive strategy for air refueling on a fee-for-service basis by evaluating all mission areas, including testing support, training support to receiving aircraft,homeland defense support, deployment support, air bridge support, aeromedical evacuation, and emergency air refueling; and
 
 &emsp;&emsp;“(B) integrate fee-for-service air refueling described in paragraph (1) into Air Mobility Command operations during the evaluation and execution phases of the pilot program.
 
@@ -474,7 +480,7 @@ Review.—Not later than February 1, 2008, the Comptroller General shall submit 
 
 “(f)
 
-Information Technology Service Defined.—In this section, the term ‘information technology service’ means any service performed in the operation or maintenance of information technology (as defined in section 11101 of title 40, United States Code) that is necessary for or beneficial to the accomplishment of the authorized functions of the Department of Defense (other than functions which the Secretary of Defensedetermines must be performed by military or Government personnel).”
+Information Technology Service Defined.—In this section, the term ‘information technology service’ means any service performed in the operation or maintenance of information technology (as defined in section 11101 of title 40, United States Code) that is necessary for or beneficial to the accomplishment of the authorized functions of the Department of Defense (other than functions which the Secretary of Defense determines must be performed by military or Government personnel).”
 
 #### Pilot Manpower Reporting System in Department of the Army
 
@@ -552,7 +558,7 @@ Section 353(b) of Pub. L. 104–106 provided that:
 
 “(1) The Secretary shall carry out a pilot program to test the performance by private-sector sources of payroll and other accounting and finance functions of nonappropriated fund instrumentalities and to evaluate the extent to which cost savings and efficiencies would result from the performance of such functions by those sources.
 
-“(2) The payroll and other accounting and finance functions designated by the Secretary for performanceby private-sector sources under the pilot program shall include at least one major payroll, accounting, or finance function.
+“(2) The payroll and other accounting and finance functions designated by the Secretary for performance by private-sector sources under the pilot program shall include at least one major payroll, accounting, or finance function.
 
 “(3) To carry out the pilot program, the Secretary shall enter into discussions with private-sector sources for the purpose of developing a request for proposals to be issued for performance by those sources of functions designated by the Secretary under paragraph (2). The discussions shall be conducted on a schedule that accommodates issuance of a request for proposals within 60 days after the date of the enactment of this Act \[Feb. 10, 1996\].
 
@@ -586,7 +592,7 @@ In General.—The Secretary of Defense shall conduct a demonstration program to 
 
 Program Requirements.—(1) Under the demonstration program, the Secretary shall, by contract, provide for one or more persons to audit the accounting and procurement records relating to fiscal years after fiscal year 1993 of the working-capital funds and industrial, commercial, and support type activities managed through the Defense Business Operations Fund, except the Defense Logistics Agency to the extent such records have already been audited. The Secretary may enter into more than one contract under the program.
 
-“(2) A contract under the demonstration program shall require the contractor to use data processing techniques that are generally used in audits of private-sector records similar to the records audited under the contract.
+“(2) A contract under the demonstration program shall require the contractor to use data processingtechniques that are generally used in audits of private-sector records similar to the records audited under the contract.
 
 “(c)
 
@@ -672,7 +678,7 @@ Plan for Program.—Before conducting the program, the Secretary shall develop a
 
 “(e)
 
-Report.—After the first full year of the conduct of the tests required by subsection (b), the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a report on the implementation of the program. The report shall include an analysis of the evaluation criteria established pursuant to subsection (c).”
+Report.—After the first full year of the conduct of the tests required by subsection (b), the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on National Security ofthe House of Representatives a report on the implementation of the program. The report shall include an analysis of the evaluation criteria established pursuant to subsection (c).”
 
 #### Increased Reliance on Private-Sector Sources for Commercial Products and Services
 
@@ -714,5 +720,7 @@ Report.—(1) The Secretary shall identify activities of the Department (other t
 
 “(4) The Secretary shall carry out paragraph (1) in consultation with the Director of the Office of Management and Budget and the Comptroller General of the United States. In carrying out that paragraph, the Secretary shall consult with, and seek the views of, representatives of the private sector, including organizations representing small businesses.”
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

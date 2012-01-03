@@ -92,7 +92,7 @@ Enforcement.—If, on October 1, 2001, and October 1 of each fiscal year thereaf
 
 &emsp;“(2)
 
-Allocation.—If the Secretary makes a designation of an amount under paragraph (1), such amount shall be allocated by the Secretary to State agencies, local governments, and other persons that use and train qualified officers and employees in coordination with State motor vehicle safety agencies.
+Allocation.—If the Secretary makes a designation of an amount under paragraph (1), such amount shall be allocated by the Secretary to State agencies, local governments, and other persons thatuse and train qualified officers and employees in coordination with State motor vehicle safety agencies.
 
 &emsp;“(3)
 

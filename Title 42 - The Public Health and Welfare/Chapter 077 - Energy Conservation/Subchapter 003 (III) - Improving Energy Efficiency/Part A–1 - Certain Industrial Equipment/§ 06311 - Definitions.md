@@ -66,7 +66,7 @@ For purposes of this part—
 
 &emsp;(3) The term “energy efficiency” means the ratio of the useful output of services from an article of industrial equipment to the energy use by such article, determined in accordance with test procedures under section 6314 of this title.
 
-&emsp;(4) The term “energy use” means the quantity of energy directly consumed by an article of industrial equipment at the point of use, determined in accordance with test procedures established under section 6314 of this title.
+&emsp;(4) The term “energy use” means the quantity of energy directly consumed by an articleof industrial equipment at the point of use, determined in accordance with test procedures established under section 6314 of this title.
 
 &emsp;(5) The term “manufacturer” means any person who manufactures industrial equipment.
 
@@ -232,7 +232,7 @@ Single package vertical air conditioner.—The term “single package vertical a
 
 &emsp;&emsp;(B) is powered by a single- or 3-phase current;
 
-&emsp;&emsp;(C) may contain 1 or more separate indoor grilles, outdoor louvers, various ventilation options, indoor free air discharges, ductwork, well plenum, or sleeves; and
+&emsp;&emsp;(C) may contain 1 or more separate indoor grilles, outdoor louvers, various ventilationoptions, indoor free air discharges, ductwork, well plenum, or sleeves; and
 
 &emsp;&emsp;(D) has heating components that may include electrical resistance, steam, hot water, or gas, but may not include reverse cycle refrigeration as a heating means.
 

@@ -6,7 +6,7 @@ The Secretary shall regulate the sale and transfer of ammonium nitrate by an amm
 
 #### (b) Ammonium nitrate mixtures
 
-Not later than 90 days after December 26, 2007, the Secretary, in consultation with the heads ofappropriate Federal departments and agencies (including the Secretary of Agriculture), shall, after notice and an opportunity for comment, establish a threshold percentage for ammonium nitrate in a substance.
+Not later than 90 days after December 26, 2007, the Secretary, in consultation with the heads of appropriate Federal departments and agencies (including the Secretary of Agriculture), shall, after notice and an opportunity for comment, establish a threshold percentage for ammonium nitrate in a substance.
 
 #### (c) Registration of owners of ammonium nitrate facilities
 
@@ -120,7 +120,7 @@ In carrying out this section, the Secretary shall consult with the Secretary of 
 
 #### (A) In general
 
-&emsp;&emsp;Following the six-month period described in section 488e(e) of this title, the Secretary shall, to the extent practicable, issue or deny registration numbers under this part not later than 72 hours after the time the Secretary receives a complete registration application, unless the Secretary determines, in the interest of national security, that additional time is necessary to review an application.
+&emsp;&emsp;Following the six-month period described in section 488e(e) of this title, the Secretary shall, to the extent practicable, issue ordeny registration numbers under this part not later than 72 hours after the time the Secretary receives a complete registration application, unless the Secretary determines, in the interest of national security, that additional time is necessary to review an application.
 
 #### (B) Notice of application status
 

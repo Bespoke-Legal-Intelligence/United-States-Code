@@ -6,7 +6,9 @@
 
 &emsp;(2) the term “head of an excepted agency” has the same meaning as such term is defined under section 6339(a)(2) of this title.
 
-(b) Notwithstanding any other provision of this subchapter, neither an excepted agency nor any individual employed in or under an excepted agency may be included in a leave bank program established under any of the preceding provisions of this subchapter.
+(b)(1) Except as provided in paragraph (2) and notwithstanding any other provision of this subchapter, neither an excepted agency nor any individual employed in or under an excepted agency may be included in a leave bank program established under any of the preceding provisions of this subchapter.
+
+(2) Notwithstanding any other provision of law, the Director of the Federal Bureau of Investigation may authorize an individual employed by the Bureau to participate in a leave bank program administered by the Department of Justice under this subchapter if in the Director's judgment such participation will not adversely affect the protection of intelligence sources and methods.
 
 (c)(1) The head of an excepted agency may, by regulation, establish a voluntary leave bank program under which annual leave accrued or accumulated by an employee of such agency may be contributed to a leave bank, and any other employee of such agency may receive additional leave from such leave bank because of a medical emergency.
 
@@ -14,5 +16,9 @@
 
 (d) The Office of Personnel Management shall provide the head of an excepted agency with such advice and assistance as the head of such agency may request in order to carry out the purposes of this section.
 
-(Added Pub. L. 100–566, §2(a), Oct. 31, 1988, 102 Stat. 2843.)
+(Added Pub. L. 100–566, §2(a), Oct. 31, 1988, 102 Stat. 2843; amended Pub. L. 112–87, title IV, §432, Jan. 3, 2012, 125 Stat. 1894.)
+
+#### Amendments
+
+<b>2012</b>—Subsec. (b). Pub. L. 112–87 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Notwithstanding any other provision of this subchapter, neither an excepted agency nor any individual employed in or under an excepted agency may be included in a leave bank program established under any of the preceding provisions of this subchapter.”
 

@@ -52,7 +52,7 @@ Prior section 3104 was renumbered section 5304 of this title.
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a)(1). Pub. L. 104–275, §101(d)(1)(A), substituted “the veteran has an employment handicap or” for “such veteran's disability or disabilities cause” and inserted “reasonably” after “goal is”.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–275, §101(d)(1)(A), substituted “the veteran has an employment handicap or”for “such veteran's disability or disabilities cause” and inserted “reasonably” after “goal is”.
 
 Subsec. (a)(7)(A). Pub. L. 104–275, §101(d)(1)(B), struck out “(i)” after “assistance, including” and “, and (ii) job-readiness skills development and counseling under section 14(a)(2) of the Veterans’ Job Training Act (29 U.S.C. 1721 note) for a participant in a program of training under such Act” after “individual case”.
 
@@ -158,5 +158,5 @@ Authorization of Appropriations.—There are authorized to be appropriated for t
 
 #### Veterans Pursuing Program of Vocational Rehabilitation Under Former Section 1504 of This Title
 
-During the period beginning on Oct. 1, 1980, and ending on Mar. 31, 1981, the provisions of section 3108 \[formerly 1508\] of this title, as added by Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2178, shall apply to veterans pursuing a program of vocational rehabilitation training under this chapter in the same manner as former section 1504 of this title applied to veterans pursuing such a program under this chapter on Sept. 30, 1980. See section 802(a)(4) of Pub. L. 96–466, set out as an Effective Date note under section 3100 of this title.
+During the period beginning on Oct. 1, 1980, and ending on Mar. 31, 1981, the provisions of section 3108 \[formerly 1508\] of this title, as added by Pub. L. 96–466, titleI, §101(a), Oct. 17, 1980, 94 Stat. 2178, shall apply to veterans pursuing a program of vocational rehabilitation training under this chapter in the same manner as former section 1504 of this title applied to veterans pursuing such a program under this chapter on Sept. 30, 1980. See section 802(a)(4) of Pub. L. 96–466, set out as an Effective Date note under section 3100 of this title.
 

@@ -122,7 +122,7 @@ For purposes of this section:
 
 #### (C) Sales price
 
-&emsp;&emsp;The initial sales price shall be reasonably related to the intended use of the project after sale, any rehabilitation requirements for the project, the rents for units in the project that can be supported by the market, the amount of rental assistance available for the project under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\], the occupancy profile of the project (including family size and income levels for tenant families), and any other factors that the Secretary considers appropriate.
+&emsp;&emsp;The initial sales price shall be reasonably related to the intended use of the projectafter sale, any rehabilitation requirements for the project, the rents for units in the project that can be supported by the market, the amount of rental assistance available for the project under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\], the occupancy profile of the project (including family size and income levels for tenant families), and any other factors that the Secretary considers appropriate.
 
 #### (D) Community and tenant input
 
@@ -178,11 +178,11 @@ For purposes of this section:
 
 #### (e) Required assistance
 
-In disposing of multifamily housing property under this section, consistent with the goal of subsection (a)(3)(A) of this section, the Secretary shall take, separately or in combination with other actions under this subsection or subsection (f) of this section, one or more of the following actions:
+In disposing of multifamily housing property under this section, consistent with the goal ofsubsection (a)(3)(A) of this section, the Secretary shall take, separately or in combination with other actions under this subsection or subsection (f) of this section, one or more of the following actions:
 
 #### (1) Contract with owner for project-based assistance
 
-&emsp;In the case of multifamily housing projects that are acquired by a purchaser other than the Secretary at foreclosure or after sale by the Secretary, the Secretary may enter into contracts under section 8 of the United StatesHousing Act of 1937 \[42 U.S.C. 1437f\] (to the extent budget authority is available) with owners of the projects, subject to the following requirements:
+&emsp;In the case of multifamily housing projects that are acquired by a purchaser other than the Secretary at foreclosure or after sale by the Secretary, the Secretary may enter into contracts under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\] (to the extent budget authority is available) with owners of the projects, subject to the following requirements:
 
 #### (A) Subsidized or formerly subsidized projects receiving mortgage-related assistance
 
@@ -296,7 +296,7 @@ In addition to the actions required under subsection (e) of this section for a s
 
 #### (4) Up-front grants
 
-&emsp;If the Secretary determines that action under this paragraph is more cost-effective than establishing rents pursuant to subsection (h)(2) of this section, the Secretary may utilize the budget authority provided for contracts issued under this section for project-based assistance under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\] to (in addition to providing project-based section 8 rental assistance) provide up-front grants forthe necessary cost of rehabilitation and other related development costs. This paragraph shall be effective during fiscal years 2006 through 2010 only to the extent that such budget authority is made available for use under this paragraph in advance in appropriation Acts.
+&emsp;If the Secretary determines that action under this paragraph is more cost-effective than establishing rents pursuant to subsection (h)(2) of this section, the Secretary may utilize the budget authority provided for contracts issued under this section for project-based assistance under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\] to (in addition to providing project-based section 8 rental assistance) provide up-front grants for the necessary cost of rehabilitation and other related development costs. This paragraph shall be effective during fiscal years 2006 through 2010 only to the extent that such budget authority is made available for use under this paragraph in advance in appropriation Acts.
 
 #### (5) Tenant-based assistance
 
@@ -490,7 +490,7 @@ Not later than June 1 of each year, the Secretary shall submit to the Congress a
 
 &emsp;(14) a description of the activities carried out under subsection (i) of this section during the preceding year.
 
-(Pub. L. 95–557, title II, §203, Oct. 31, 1978, 92 Stat. 2088; Pub. L. 96–153, title II, §208, Dec. 21,1979, 93 Stat. 1109; Pub. L. 96–399, title II, §213, Oct. 8, 1980, 94 Stat. 1636; Pub. L. 100–242, title I, §181, Feb. 5, 1988, 101 Stat. 1868; Pub. L. 100–628, title X, §1010, Nov. 7, 1988, 102 Stat. 3266; Pub. L. 101–235, title II, §204(a), Dec. 15, 1989, 103 Stat. 2039; Pub. L. 101–625, title V, §579, Nov. 28, 1990, 104 Stat. 4245; Pub. L. 103–120, §6(c)(2), Oct. 27, 1993, 107 Stat. 1149; Pub. L. 103–233, title I, §101(b), Apr. 11, 1994, 108 Stat. 343; Pub. L. 105–276, title V, §514(b)(2)(C), Oct. 21, 1998, 112 Stat. 2548; Pub. L. 109–171, title II, §2003(b), Feb. 8, 2006, 120 Stat. 9.)
+(Pub. L. 95–557, title II, §203, Oct. 31, 1978, 92 Stat. 2088; Pub. L. 96–153, title II, §208, Dec. 21, 1979, 93 Stat. 1109; Pub. L. 96–399, title II, §213, Oct. 8, 1980, 94 Stat. 1636; Pub. L. 100–242, title I, §181, Feb. 5, 1988, 101 Stat. 1868; Pub. L. 100–628, title X, §1010, Nov. 7, 1988, 102 Stat. 3266; Pub. L. 101–235, title II, §204(a), Dec. 15, 1989, 103 Stat. 2039; Pub. L. 101–625, title V, §579, Nov. 28, 1990, 104 Stat. 4245; Pub. L. 103–120, §6(c)(2), Oct. 27, 1993, 107 Stat. 1149; Pub. L. 103–233, title I, §101(b), Apr. 11, 1994, 108 Stat. 343; Pub. L. 105–276, title V, §514(b)(2)(C), Oct. 21, 1998, 112 Stat. 2548; Pub. L. 109–171, title II, §2003(b), Feb. 8, 2006, 120 Stat. 9.)
 
 #### References in Text
 
@@ -520,23 +520,23 @@ Section was enacted as part of the Housing and Community Development Amendments 
 
 #### Amendments
 
-2006—Subsec. (f)(4). Pub. L. 109–171 inserted at end “This paragraph shall be effective during fiscal years 2006 through 2010 only to the extent that such budget authority is made available for use under this paragraph in advance in appropriation Acts.”
+<b>2006</b>—Subsec. (f)(4). Pub. L. 109–171 inserted at end “This paragraph shall be effective during fiscal years 2006 through 2010 only to the extent that such budget authority is made available for use under this paragraph in advance in appropriation Acts.”
 
-1998—Subsec. (g)(2). Pub. L. 105–276 substituted “any system of preferences established pursuant to section 6(c)(4)(A), 8(d)(1)(A), or 8(<i>o</i>)(6)(A)” for “the preferences for assistance under sections 6(c)(4)(A)(i), 8(d)(1)(A)(i), and 8(<i>o</i>)(3)(B)”.
+<b>1998</b>—Subsec. (g)(2). Pub. L. 105–276 substituted “any system of preferences established pursuant to section 6(c)(4)(A), 8(d)(1)(A), or 8(<i>o</i>)(6)(A)” for “the preferences for assistance under sections 6(c)(4)(A)(i), 8(d)(1)(A)(i), and 8(<i>o</i>)(3)(B)”.
 
-1994—Pub. L. 103–233 amended section generally, substituting present provisions for former provisions which related, in subsec. (a) to goals, in subsec. (b) to management or disposal of property by negotiated competitive bids, in subsec. (c) to maintenance of housing projects, in subsec. (d) to financial assistance to owner, in subsec. (e) to right of first refusal, in subsec. (f) to displacement of tenants and relocation assistance, in subsec. (g) to assignment or partial payment of mortgages, in subsec. (h) to limitations on certain project, loan, and mortgage sales, in subsec. (i) to definition of multifamily housing project, in subsec. (j) to rules and regulations, in subsec. (k) to annual report describing status of projects, and in subsec. (<i>l</i>) to project-based assistance.
+<b>1994</b>—Pub. L. 103–233 amended section generally, substituting present provisions for former provisions which related, in subsec. (a) to goals, in subsec. (b) to management or disposal of property by negotiated competitive bids, in subsec. (c) to maintenance of housing projects, in subsec. (d) to financial assistance to owner, in subsec. (e) to right of first refusal, in subsec. (f) to displacement of tenants and relocation assistance, in subsec. (g) to assignment or partial payment of mortgages, in subsec. (h) to limitations on certain project, loan, and mortgage sales, in subsec. (i) to definition of multifamily housing project, in subsec. (j) to rules and regulations, in subsec. (k) to annual report describing status of projects, and in subsec. (<i>l</i>) to project-based assistance.
 
-1993—Subsec. (<i>l</i>). Pub. L. 103–120 added subsec. (<i>l</i>).
+<b>1993</b>—Subsec. (<i>l</i>). Pub. L. 103–120 added subsec. (<i>l</i>).
 
-1990—Subsec. (a)(1)(B). Pub. L. 101–625, §579(a), struck out “or vacant” after “moderate-income persons”.
+<b>1990</b>—Subsec. (a)(1)(B). Pub. L. 101–625, §579(a), struck out “or vacant” after “moderate-income persons”.
 
 Subsec. (d)(1). Pub. L. 101–625, §579(b)(1), struck out “or are vacant (which units shall be made available for such families as soon as possible)” before semicolon at end of cl. (B).
 
 Subsec. (d)(2), (3). Pub. L. 101–625, §579(b)(2), (3), added par. (2) and redesignated former par. (2) as (3).
 
-1989—Subsec. (k). Pub. L. 101–235 amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows: “The Secretary shall annually submit to the Congress a report describing the activities carried out under subsection (e) of this section during the preceding year.”
+<b>1989</b>—Subsec. (k). Pub. L. 101–235 amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows: “The Secretary shall annually submit to the Congress a report describing the activities carried out under subsection (e) of this section during the preceding year.”
 
-1988—Subsec. (a). Pub. L. 100–628, §1010(a), substituted “occupied by low- and moderate-income persons on the date of assignment or foreclosure (whichever is greater)” for “, on the date of assignment, occupied by low- and moderate-income persons” in par. (1)(C).
+<b>1988</b>—Subsec. (a). Pub. L. 100–628, §1010(a), substituted “occupied by low- and moderate-income persons on the date of assignment or foreclosure (whichever is greater)” for “, on the date of assignment, occupied by low- and moderate-income persons” in par. (1)(C).
 
 Pub. L. 100–242, §181(a), substituted introductory provisions and par. (1) for former introductory provisions and par. (1) which read as follows: “It is the policy of the United States that the Secretary of Housing and Urban Development (hereinafter referred to as the ‘Secretary’) shall manage and dispose of multifamily housing projects which are owned by the Secretary in a manner consistent with the National Housing Act and this section. The purpose of the property management and disposition program of the Department of Housing and Urban Development shall be to manage and dispose of projects in a manner which will protect the financial interests of the Federal Government and be less costly to the Federal Government than other reasonable alternatives by which the Secretary can further the goals of—
 
@@ -576,7 +576,7 @@ Subsec. (j). Pub. L. 100–242, §181(g)(1), redesignated former subsec. (g) as 
 
 Subsec. (k). Pub. L. 100–628, §1010(f), added subsec. (k).
 
-1980—Subsec. (a). Pub. L. 96–399, §213(a), in par. (1) inserted provisions respecting occupation of units by low- and moderate-income persons or units vacant at the time of acquisition, and added par. (6).
+<b>1980</b>—Subsec. (a). Pub. L. 96–399, §213(a), in par. (1) inserted provisions respecting occupation of units by low- and moderate-income persons or units vacant at the time of acquisition, and added par. (6).
 
 Subsec. (b)(1). Pub. L. 96–399, §213(b), inserted provisions relating to the number of project units occupied by low- and moderate-income persons.
 
@@ -586,7 +586,7 @@ Subsec. (d)(2)(B), (C). Pub. L. 96–399, §213(d), inserted exception for tenan
 
 Subsec. (f). Pub. L. 96–399, §213(e), substituted provisions respecting applicability to projects assisted or insured under this chapter, or subject to loans under section 1701q of this title or section 1452b of title 42, or projects acquired by the Secretary pursuant to any other provision of law, for provisions respecting applicability to assistance under section 1715z-1 of this title, the proviso of section 1715<i>l</i>(d)(5) of this title, or section 101 of the Housing and Urban Development Act of 1965, and projects insured under this chapter.
 
-1979—Subsec. (d)(2). Pub. L. 96–153 substituted “assure for any such tenant (who continues to meet applicable qualification standards) the right” for “seek to assure the maximum opportunity for any such tenant”.
+<b>1979</b>—Subsec. (d)(2). Pub. L. 96–153 substituted “assure for any such tenant (who continues to meet applicable qualification standards) the right” for “seek to assure the maximum opportunity for any such tenant”.
 
 #### Effective Date of 2006 Amendment
 

@@ -18,7 +18,7 @@ The duties of the Task Force shall include—
 
 &emsp;(5) the provision of technical assistance to those health care professionals, agencies, and organizations that request help in implementing the Guide recommendations; and
 
-&emsp;(6) providing yearly reports to Congress and related agencies identifying gaps in research and recommending priority areas that deserve further examination, including areas relatedto populations and age groups not adequately addressed by current recommendations.
+&emsp;(6) providing yearly reports to Congress and related agencies identifying gaps in research and recommending priority areas that deserve further examination, including areas related to populations and age groups not adequately addressed by current recommendations.
 
 #### (c) Role of agency
 

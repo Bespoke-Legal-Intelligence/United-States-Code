@@ -46,7 +46,7 @@ The Assistant Secretary shall carry out a program for making grants to States un
 
 &emsp;(13) crime prevention services and victim assistance programs for older individuals;
 
-&emsp;(14) a program, to be known as “Senior Opportunities and Services”, designed to identify and meet the needs of low-income older individuals in one or more of the following areas: (A) development and provision of new volunteer services; (B) effective referral to existing health (including mental health), employment, housing, legal, consumer, transportation, and other services; (C) stimulation and creation of additional services and programs to remedy gaps and deficiencies in presently existing services and programs; and (D) such other services as the Assistant Secretary may determine are necessary or especially appropriate to meet the needs of low-income older individuals and to assure them greater self-sufficiency;
+&emsp;(14) a program, to be known as “Senior Opportunities and Services”, designed to identify and meet the needs of low-income older individuals in one or more of the following areas: (A) development and provision of new volunteer services; (B) effective referral to existing health (including mental health), employment, housing, legal, consumer, transportation, and other services; (C) stimulation and creation of additional services and programs to remedy gaps and deficiencies in presently existing services and programs; and (D) suchother services as the Assistant Secretary may determine are necessary or especially appropriate to meet the needs of low-income older individuals and to assure them greater self-sufficiency;
 
 &emsp;(15) services for the prevention of abuse of older individuals in accordance with subpart III of part A of subchapter XI of this chapter and section 3027(a)(12) of this title;
 
@@ -84,7 +84,7 @@ In carrying out the provisions of this part, to more efficiently and effectively
 
 #### (d) Relationship to other funding sources
 
-Funds made available under this part shall supplement, and not supplant, any Federal, State, or local funds expended by a State or unitof general purpose local government (including an area agency on aging) to provide services described in subsection (a) of this section.
+Funds made available under this part shall supplement, and not supplant, any Federal, State, or local funds expended by a State or unit of general purpose local government (including an area agency on aging) to provide services described in subsection (a) of this section.
 
 (Pub. L. 89–73, title III, §321, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1535; amended Pub. L. 97–115, §§3(d), 10(a)–(c), Dec. 29, 1981, 95 Stat. 1597, 1600; Pub. L. 98–459, title III, §312, Oct. 9, 1984, 98 Stat. 1779; Pub. L. 100–175, title I, §§136(d), 146(b), 182(m), Nov. 29, 1987, 101 Stat. 943, 950, 967; Pub. L. 102–375, title III, §312, title VII, §708(b), title IX, §904(a)(15), Sept. 30, 1992, 106 Stat. 1237, 1292, 1308; Pub. L. 103–171, §§2(12), 3(a)(13), Dec. 2, 1993, 107 Stat. 1989, 1990; Pub. L. 106–501, title III, §311, title VIII, §801(c)(5), Nov. 13, 2000, 114 Stat. 2251, 2292; Pub. L. 109–365, title III, §311, Oct. 17, 2006, 120 Stat. 2547.)
 

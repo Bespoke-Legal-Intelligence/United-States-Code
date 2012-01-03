@@ -36,7 +36,7 @@ To be eligible to receive a grant under this section, an entity shall be an enti
 
 &emsp;&emsp;(C) describes the activities that the applicant and the consortium propose to perform under the grant to further the objectives of this section;
 
-&emsp;&emsp;(D) demonstrates the consortium's ability to build on the current system (as of the date of submission of the application) for serving a community or geographic area of uninsured and underinsured individuals by involving providers who have traditionally provided a significant volume of care for that community;
+&emsp;&emsp;(D) demonstrates the consortium's ability to build on the current system (as of the date of submission of the application) forserving a community or geographic area of uninsured and underinsured individuals by involving providers who have traditionally provided a significant volume of care for that community;
 
 &emsp;&emsp;(E) demonstrates the consortium's ability to develop coordinated systems of care that either directly provide or ensure the prompt provision of a broad range of high-quality, accessible services, including, as appropriate, primary, secondary, and tertiary services, as well as substance abuse treatment and mental health services in a manner that assures continuity of care in the community or geographic area;
 
@@ -156,7 +156,7 @@ In awarding grants under this section, the Secretary—
 
 #### (3) Reservation of funds for national program purposes
 
-&emsp;The Secretary may use not more than 3 percent of funds appropriated to carry out this section for providing technical assistance tograntees, obtaining assistance of experts and consultants, holding meetings, developing of tools, disseminating of information, evaluation, and carrying out activities that will extend the benefits of programs funded under this section to communities other than the community served by the program funded.
+&emsp;The Secretary may use not more than 3 percent of funds appropriated to carry out this section for providing technical assistance to grantees, obtaining assistance of experts and consultants, holding meetings, developing of tools, disseminating of information, evaluation, and carrying out activities that will extend the benefits of programs funded under this section to communities other than the community served by the program funded.
 
 #### (f) Grantee requirements
 
@@ -192,7 +192,7 @@ The Secretary may, either directly or by grant or contract, provide any entity t
 
 #### (i) Evaluation of program
 
-Not later than September 30, 2005, the Secretary shall prepare and submit to the appropriate committees of Congress a report that describes the extent to which projects funded under this section have been successful in improving the effectiveness, efficiency, and coordination of services for uninsured and underinsured individuals in the communities or geographic areas served by such projects, including whether the projects resulted in the provision of better quality health care for such individuals, and whether such care was provided at lower costs, than would have been provided in the absence of such projects.
+Not later than September 30, 2005, the Secretary shall prepare and submit to the appropriate committees of Congress a report that describes the extent to which projects fundedunder this section have been successful in improving the effectiveness, efficiency, and coordination of services for uninsured and underinsured individuals in the communities or geographic areas served by such projects, including whether the projects resulted in the provision of better quality health care for such individuals, and whether such care was provided at lower costs, than would have been provided in the absence of such projects.
 
 #### (j) Demonstration authority
 

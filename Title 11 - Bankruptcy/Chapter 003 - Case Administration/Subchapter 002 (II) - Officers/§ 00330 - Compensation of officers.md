@@ -54,11 +54,11 @@
 
 (d) In a case in which the United States trustee serves as trustee, the compensation of the trustee under this section shall be paid to the clerk of the bankruptcy court and deposited by the clerk into the United States Trustee System Fund established by section 589a of title 28.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2564; Pub. L. 98–353, title III, §§433, 434, July 10, 1984, 98 Stat.370; Pub. L. 99–554, title II, §§211, 257(f), Oct. 27, 1986, 100 Stat. 3099, 3114; Pub. L. 103–394, title I, §117, title II, §224(b), Oct. 22, 1994, 108 Stat. 4119, 4130; Pub. L. 109–8, title II, §232(b), title IV, §§407, 415, title XI, §1104(b), Apr. 20, 2005, 119 Stat. 74, 106, 107, 192.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2564; Pub. L. 98–353, title III, §§433, 434, July 10, 1984, 98 Stat. 370; Pub. L. 99–554, title II, §§211, 257(f), Oct. 27, 1986, 100 Stat. 3099, 3114; Pub. L. 103–394, title I, §117, title II, §224(b), Oct. 22, 1994, 108 Stat. 4119, 4130; Pub. L. 109–8, title II, §232(b), title IV, §§407, 415, title XI, §1104(b), Apr. 20, 2005, 119 Stat. 74, 106, 107, 192.)
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 330(a) contains the standard of compensation adopted in H.R. 8200 as passed by the House rather than the contrary standard contained in the Senate amendment. Attorneys’ fees in bankruptcy cases can be quite large and should be closely examined by the court. However bankruptcy legal services are entitled to command the same competency of counsel as other cases. In that light, the policy of this section is to compensate attorneys and other professionals serving in a case under title 11 at the same rate as the attorney or other professional would be compensated for performing comparable services other than in a case under title 11. Contrary language in the Senate report accompanying S. 2266 is rejected, and <i>Massachusetts Mutual Life Insurance Company v. Brock</i>, 405 F.2d 429, 432 (5th Cir. 1968) is overruled. Notions of economy of the estate in fixing fees are outdated and have no place in a bankruptcy code.
 
@@ -88,7 +88,7 @@ Subsection (c) \[enacted as (b)\] is intended for no asset liquidation cases whe
 
 #### house report no. 95–595
 
-Section 330 authorizes compensation for services and reimbursement of expenses of officers of the estate. It also prescribes the standards on which the amount of compensation is to be determined. As noted above, the compensation allowable under this section is subject to the maxima set out in sections 326, 328, and 329. The compensation is to be reasonable, for actual necessary services rendered, based on the time, the nature, the extent, and the value of the services rendered, and onthe cost of comparable services other than in a case under the bankruptcy code. The effect of the last provision is to overrule <i>In re Beverly Crest Convalescent Hospital, Inc</i>., 548 F.2d 817 (9th Cir. 1976, as amended 1977), which set an arbitrary limit on fees payable based on the amount of a district judge's salary, and other, similar cases that require fees to be determined based on notions of conservation of the estate and economy of administration. If that case were allowed to stand, attorneys that could earn much higher incomes in other fields would leave the bankruptcy arena. Bankruptcy specialists, who enable the system to operate smoothly, efficiently, and expeditiously, would be driven elsewhere, and the bankruptcy field would be occupied by those who could not find other work and those who practice bankruptcy law only occasionally almost as a public service. Bankruptcy fees that are lower than fees in other areas of the legal profession may operate properly when the attorneys appearing in bankruptcy cases do so intermittently, because a low fee in a small segment of a practice can be absorbed by other work. Bankruptcy specialists, however, if required to accept fees in all of their cases that are consistently lower than fees they could receive elsewhere, will not remain in the bankruptcy field.
+Section 330 authorizes compensation for services and reimbursement of expenses of officers of the estate. It also prescribes the standards on which the amount of compensation is to be determined. As noted above, the compensation allowable under this section is subject to the maxima set out in sections 326, 328, and 329. The compensation is to be reasonable, for actual necessary services rendered, based on the time, the nature, the extent, and the value of the services rendered, and on the cost of comparable services other than in a case under the bankruptcy code. The effect of the last provision is to overrule <i>In re Beverly Crest Convalescent Hospital, Inc</i>., 548 F.2d 817 (9th Cir. 1976, as amended 1977), which set an arbitrary limit on fees payable based on the amount of a district judge's salary, and other, similar cases that require fees to be determined based on notions of conservation of the estate and economy of administration. If that case were allowed to stand, attorneys that could earn much higher incomes in other fields would leave the bankruptcy arena. Bankruptcy specialists, who enable the system to operate smoothly, efficiently, and expeditiously, would be driven elsewhere, and the bankruptcy field would be occupied by those who could not find other work and those who practice bankruptcy law only occasionally almost as a public service. Bankruptcy fees that are lower than fees in other areas of the legal profession may operate properly when the attorneys appearing in bankruptcy cases do so intermittently, because a low fee in a small segment of a practice can be absorbed by other work. Bankruptcy specialists, however, if required to accept fees in all of their cases that are consistently lower than fees they could receive elsewhere, will not remain in the bankruptcy field.
 
 This subsection provides for reimbursement of actual, necessary expenses. It further provides for compensation of paraprofessionals employed by professional persons employed by the estate of the debtor. The provision is included to reduce the cost of administering bankruptcy cases. In nonbankruptcy areas, attorneys are able to charge for a paraprofessional's time on an hourly basis, and not include it in overhead. If a similar practice does not pertain in bankruptcy cases then the attorney will be less inclined to use paraprofessionals even where the work involved could easily be handled by an attorney's assistant, at much lower cost to the estate. This provision is designed to encourage attorneys to use paraprofessional assistance where possible, and to insure that the estate, not the attorney, will bear the cost, to the benefit of both the estate and the attorneys involved.
 
@@ -98,7 +98,7 @@ The date of the enactment of the Bankruptcy Reform Act of 1994, referred to in s
 
 #### Amendments
 
-2005—Subsec. (a)(1). Pub. L. 109–8, §1104(b)(1), inserted “an ombudsman appointed under section 333, or” before “a professional person” in introductory provisions.
+<b>2005</b>—Subsec. (a)(1). Pub. L. 109–8, §1104(b)(1), inserted “an ombudsman appointed under section 333, or” before “a professional person” in introductory provisions.
 
 Pub. L. 109–8, §232(b), inserted “a consumer privacy ombudsman appointed under section 332,” before “an examiner” in introductory provisions.
 
@@ -110,7 +110,7 @@ Subsec. (a)(3)(E), (F). Pub. L. 109–8, §415, added subpar. (E) and redesignat
 
 Subsec. (a)(7). Pub. L. 109–8, §407(2), added par. (7).
 
-1994—Subsec. (a). Pub. L. 103–394, §224(b), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “After notice to any parties in interest and to the United States trustee and a hearing, and subject to sections 326, 328, and 329 of this title, the court may award to a trustee, to an examiner, to a professional person employed under section 327 or 1103 of this title, or to the debtor's attorney—
+<b>1994</b>—Subsec. (a). Pub. L. 103–394, §224(b), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “After notice to any parties in interest and to the United States trustee and a hearing, and subject to sections 326, 328, and 329 of this title, the court may award to a trustee, to an examiner, to a professional person employed under section 327 or 1103 of this title, or to the debtor's attorney—
 
 &emsp;“(1) reasonable compensation for actual, necessary services rendered by such trustee, examiner, professional person, or attorney, as the case may be, and by any paraprofessional persons employed by such trustee, professional person, or attorney, as the case may be, based on the nature, the extent, and the value of such services, the time spent on such services, and the cost of comparable services other than in a case under this title; and
 
@@ -118,13 +118,13 @@ Subsec. (a)(7). Pub. L. 109–8, §407(2), added par. (7).
 
 Subsec. (b). Pub. L. 103–394, §117, designated existing provisions as par. (1) and added par. (2).
 
-1986—Subsec. (a). Pub. L. 99–554, §211(1), inserted “to any parties in interest and to the United States trustee” after “notice”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–554, §211(1), inserted “to any parties in interest and to the United States trustee” after “notice”.
 
 Subsec. (c). Pub. L. 99–554, §257(f), inserted reference to chapter 12.
 
 Subsec. (d). Pub. L. 99–554, §211(2), added subsec. (d).
 
-1984—Subsec. (a). Pub. L. 98–353, §433(1), struck out “to any parties in interest and to the United States trustee” after “After notice”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–353, §433(1), struck out “to any parties in interest and to the United States trustee” after “After notice”.
 
 Subsec. (a)(1). Pub. L. 98–353, §433(2), substituted “nature, the extent, and the value of such services, the time spent on such services” for “time, the nature, the extent, and the value of such services”.
 

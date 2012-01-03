@@ -312,7 +312,7 @@ Sec. 13. <i>Grievance and arbitration procedures</i>. (a) An agreement between a
 
 Sec. 14. \[Revoked by Ex. Ord. No. 11616, Aug. 26, 1971, 36 F.R. 17319.\]
 
-Sec. 15. <i>Approval of agreements</i>. An agreement with a labor organization as the exclusive representative of employees in a unit is subject to the approval of the head of the agency or an official designated by him. An agreement shall be approved within forty-five daysfrom the date of its execution if it conforms to applicable laws, the order, existing published agency policies and regulations (unless the agency has granted an exception to a policy or regulation) and regulations of other appropriate authorities. An agreement which has not been approved or disapproved within forty-five days from the date of its execution shall go into effect without the required approval of the agency head and shall be binding on the parties subject to the provisions of law, the order and the regulations of appropriate authorities outside the agency. A local agreement subject to a national or other controlling agreement at a higher level shall be approved under the procedures of the controlling agreement, or, if none, under agency regulations.
+Sec. 15. <i>Approval of agreements</i>. An agreement with a labor organization as the exclusive representative of employees in a unit is subject to the approval of the head of the agency or an official designated by him. An agreement shall be approved within forty-five days from the date of its execution if it conforms to applicable laws, the order, existing published agency policies and regulations (unless the agency has granted an exception to a policy or regulation) and regulations of other appropriate authorities. An agreement which has not been approved or disapproved within forty-five days from the date of its execution shall go into effect without the required approval of the agency head and shall be binding on the parties subject to the provisions of law, the order and the regulations of appropriate authorities outside the agency. A local agreement subject to a national or other controlling agreement at a higher level shall be approved under the procedures of the controlling agreement, or, if none, under agency regulations.
 
 #### Negotiation Disputes and Impasses
 
@@ -342,7 +342,7 @@ Sec. 18. <i>Standards of conduct for labor organizations.</i>
 
 (c) A labor organization which has or seeks recognition as a representative of employees under this Order shall file financial and other reports, provide for bonding of officials and employees of the organization, and comply with trusteeship and election standards.
 
-(d) The Assistant Secretary shall prescribe the regulations needed to effectuate this section. These regulations shall conform generally to the principles applied to unions in the private sector. Complaints of violations of this section shall be filed with the Assistant Secretary.
+(d) The Assistant Secretary shall prescribe the regulations needed to effectuate this section. These regulations shall conform generally to the principles appliedto unions in the private sector. Complaints of violations of this section shall be filed with the Assistant Secretary.
 
 Sec. 19. <i>Unfair labor practices</i>. (a) Agency management shall not—
 
@@ -422,7 +422,7 @@ Ex. Ord. No. 13522, Dec. 9, 2009, 74 F.R. 66203, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to establish a cooperative and productive form of labor-management relations throughout the executive branch, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. Federal employees and their union representatives are an essential source of front-line ideas and information about the realities of delivering Government services to the American people. A nonadversarial forum for managers, employees, and employees’ union representatives to discuss Government operations will promote satisfactory labor relationsand improve the productivity and effectiveness of the Federal Government. Labor-management forums, as complements to the existing collective bargaining process, will allow managers and employees to collaborate in continuing to deliver the highest quality services to the American people. Management should discuss workplace challenges and problems with labor and endeavor to develop solutions jointly, rather than advise union representatives of predetermined solutions to problems and then engage in bargaining over the impact and implementation of the predetermined solutions.
+Section 1. <i>Policy</i>. Federal employees and their union representatives are an essential source of front-line ideas and information about the realities of delivering Government services to the American people. A nonadversarial forum for managers, employees, and employees’ union representatives to discuss Government operations will promote satisfactory labor relations and improve the productivity and effectiveness of the Federal Government. Labor-management forums, as complements to the existing collective bargaining process, will allow managers and employees to collaborate in continuing to deliver the highest quality services to the American people. Management should discuss workplace challenges and problems with labor and endeavor to develop solutions jointly, rather than advise union representatives of predetermined solutions to problems and then engage in bargaining over the impact and implementation of the predetermined solutions.
 
 The purpose of this order is to establish a cooperative and productive form of labor-management relations throughout the executive branch.
 
@@ -472,7 +472,7 @@ Sec. 2. <i>The National Council on Federal Labor-Management Relations</i>. There
 
 &emsp;(ii) The Council shall seek input from nonmember executive departments and agencies, particularly smaller agencies. It also may, from time to time, invite persons from the private and public sectors to submit information. The Council shall also seek input from Federal manager and professional associations, companies, nonprofit organizations, State and local governments, Federal employees, and customers of Federal services, as needed.
 
-&emsp;(iii) To the extent permitted by law and subject to the availability of appropriations, OPM shall provide such facilities, support, and administrative services to the Council as the Director of OPM deems appropriate.
+&emsp;(iii) To the extent permitted by law and subject to the availability of appropriations, OPM shall providesuch facilities, support, and administrative services to the Council as the Director of OPM deems appropriate.
 
 &emsp;(iv) Members of the Council shall serve without compensation for their work on the Council, but may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in Government service (5 U.S.C. 5701–5707), consistent with the availability of funds.
 
@@ -492,7 +492,7 @@ Sec. 3. <i>Implementation of Labor-Management Forums Throughout the Executive Br
 
 &emsp;(iii) evaluate and document, in consultation with union representatives and consistent with the purposes of this order and any further guidance provided by the Council, changes in employee satisfaction, manager satisfaction, and organizational performance resulting from the labor-management forums.
 
-(b) Each head of an executive department or agency in which there exists one or more exclusive representatives shall, in consultation with union representatives, prepare and submit for approval, within 90 days of thedate of this order, a written implementation plan to the Council. The plan shall:
+(b) Each head of an executive department or agency in which there exists one or more exclusive representatives shall, in consultation with union representatives, prepare and submit for approval, within 90 days of the date of this order, a written implementation plan to the Council. The plan shall:
 
 &emsp;(i) describe how the department or agency will conduct a baseline assessment of the current state of labor relations within the department or agency;
 
@@ -529,4 +529,8 @@ Sec. 5. <i>General Provisions</i>.
 (e) This order is intended only to improve the internal management of the executive branch and is not intended to, and does not, create any right to administrative or judicial review, or any other right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Extension of Term of National Council on Federal Labor-Management Relations
+
+Term of National Council on Federal Labor-Management Relations extended until Sept. 30, 2013, by Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
 

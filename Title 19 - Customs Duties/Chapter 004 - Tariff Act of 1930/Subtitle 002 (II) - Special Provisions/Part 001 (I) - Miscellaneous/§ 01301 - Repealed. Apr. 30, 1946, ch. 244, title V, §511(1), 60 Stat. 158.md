@@ -4,5 +4,5 @@ Section, act June 17, 1930, ch. 497, title III, §301, 46 Stat. 685, related to 
 
 #### Effective Date of Repeal
 
-Repeal effective May 1, 1946, see section 512 of act Apr. 30, 1946, set out as an Effective Date note undersection 1354 of Title 22, Foreign Relations and Intercourse.
+Repeal effective May 1, 1946, see section 512 of act Apr. 30, 1946, set out as an Effective Date note under section 1354 of Title 22, Foreign Relations and Intercourse.
 

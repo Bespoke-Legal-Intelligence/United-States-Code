@@ -8,7 +8,7 @@ The Institute shall not—
 
 &emsp;(2) interfere with the independent nature of any State judicial system or allow financial assistance to be used for the funding of regular judicial and administrative activities of any State judicial system other than pursuant to the terms of any grant, cooperative agreement, or contract with the Institute, consistent with the requirements of this chapter; or
 
-&emsp;(3) undertake to influence the passage or defeat of any legislation by the Congress of theUnited States or by any State or local legislative body, except that personnel of the Institute may testify or make other appropriate communication—
+&emsp;(3) undertake to influence the passage or defeat of any legislation by the Congress of the United States or by any State or local legislative body, except that personnel of the Institute may testify or make other appropriate communication—
 
 &emsp;&emsp;(A) when formally requested to do so by a legislative body, committee, or a member thereof;
 

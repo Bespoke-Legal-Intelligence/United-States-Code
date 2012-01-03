@@ -24,7 +24,7 @@ In this part:
 
 &emsp;&emsp;&emsp;(ii) institution of higher education that is in full compliance with the reporting requirements of section 1027(f) <sup>1</sup> of this title and that has not been identified by its State as low-performing under section 1028 <sup>1</sup> of this title;
 
-&emsp;&emsp;&emsp;(iii) for-profit business or organization that develops, designs, manufactures, orproduces technology products or services, or has substantial expertise in the application of technology in instruction; or
+&emsp;&emsp;&emsp;(iii) for-profit business or organization that develops, designs, manufactures, or produces technology products or services, or has substantial expertise in the application of technology in instruction; or
 
 &emsp;&emsp;&emsp;(iv) public or private nonprofit organization with demonstrated experience in the application of educational technology to instruction; and
 

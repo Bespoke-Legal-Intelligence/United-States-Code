@@ -14,7 +14,7 @@ If the State determines, on the basis of a final decision in a review pursuant t
 
 &emsp;(4)(A) at the discretion of the State (taking into account the seriousness of the deficiency and the time reasonably required to correct the deficiency), allow the entity to develop and implement, within 60 days after being informed of the deficiency, a quality improvement plan to correct such deficiency within a reasonable period of time, as determined by the State; and
 
-&emsp;(B) not later than 30 days after receiving from an eligible entity a proposed quality improvement plan pursuant to subparagraph (A), either approve such proposed plan or specify the reasons why the proposed plan cannot be approved; and
+&emsp;(B) not later than 30 days after receiving from an eligible entity a proposed quality improvement plan pursuant to subparagraph (A),either approve such proposed plan or specify the reasons why the proposed plan cannot be approved; and
 
 &emsp;(5) after providing adequate notice and an opportunity for a hearing, initiate proceedings to terminate the designation of or reduce the funding under this chapter of the eligible entity unless the entity corrects the deficiency.
 

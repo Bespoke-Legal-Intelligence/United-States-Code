@@ -14,13 +14,13 @@ Section was enacted as part of the Housing Act of 1949, and not as part of the N
 
 #### Amendments
 
-1984—Pub. L. 98–479 substituted “section 5703 of title 5” for “section 5 of the Act of August 2, 1946 (5 U.S.C. 73b–2)”.
+<b>1984</b>—Pub. L. 98–479 substituted “section 5703 of title 5” for “section 5 of the Act of August 2, 1946 (5 U.S.C. 73b–2)”.
 
-1967—Pub. L. 90–19 substituted “The Secretary of Housing and Urban Development” and “he” for “The Housing and Home Finance Administrator and the head of each constituent agency of the Housing and Home Finance Agency” and “each”, respectively.
+<b>1967</b>—Pub. L. 90–19 substituted “The Secretary of Housing and Urban Development” and “he” for “The Housing and Home Finance Administrator and the head of each constituent agency of the Housing and Home Finance Agency” and “each”, respectively.
 
-1965—Pub. L. 89–117 struck out provision that declared inapplicable the conflict-of-interest statutes in the case of members of advisory committees.
+<b>1965</b>—Pub. L. 89–117 struck out provision that declared inapplicable the conflict-of-interest statutes in the case of members of advisory committees.
 
-1954—Act Aug. 2, 1954, permitted heads of constituent agencies of the Housing and Home Finance Agency to establish advisory committees, inserted provisions relating to inapplicability of the conflict-of-interest statutes with respect to committee members serving without compensation, and inserted provisions relating to payment of expenses.
+<b>1954</b>—Act Aug. 2, 1954, permitted heads of constituent agencies of the Housing and Home Finance Agency to establish advisory committees, inserted provisions relating to inapplicability of the conflict-of-interest statutes with respect to committee members serving without compensation, and inserted provisions relating to payment of expenses.
 
 #### Termination of Advisory Committees
 
@@ -32,7 +32,7 @@ Ex. Ord. No. 10486, Sept. 12, 1953, 18 F.R. 5561, provided:
 
 1\. There shall be established the Advisory Committee on Government Housing Policies and Programs.
 
-2\. The Committee shall make, or cause to be made, studies and surveys of the housing policies and programs of the Government and the organization within the Executive Branch for the administration of such policies and programs, and shall advise the Housing and Home Finance Administrator and the President with respect thereto.
+2\. The Committee shall make, or cause to be made, studies and surveys of the housing policies and programs of the Government and the organization withinthe Executive Branch for the administration of such policies and programs, and shall advise the Housing and Home Finance Administrator and the President with respect thereto.
 
 3\. The Housing and Home Finance Administrator shall serve as the Chairman of the Committee, and the other members of the Committee shall be appointed pursuant to the provisions of this Executive Order and Section 601 of the Housing Act of 1949 (63 Stat. 439) \[this section\].
 

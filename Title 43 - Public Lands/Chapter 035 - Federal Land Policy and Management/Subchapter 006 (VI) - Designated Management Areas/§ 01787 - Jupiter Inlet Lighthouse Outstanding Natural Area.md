@@ -132,7 +132,7 @@ In this section:
 
 &emsp;&emsp;(E) natural and cultural resource management strategies for the Outstanding Natural Area, to be developed in consultation with appropriate departments of the State, the Local Partners, and the Commandant, with an emphasis on resource conservation in the Outstanding Natural Area and the interpretive, educational, and long-term scientific uses of the resources; and
 
-&emsp;&emsp;(F) recreational use strategies for the Outstanding Natural Area, to be prepared in consultation with the Local Partners, appropriate departments of the State, and the Coast Guard, with an emphasis on passive recreation.
+&emsp;&emsp;(F) recreational use strategies for the Outstanding Natural Area, to be prepared inconsultation with the Local Partners, appropriate departments of the State, and the Coast Guard, with an emphasis on passive recreation.
 
 #### (5) Interim plan
 
@@ -198,7 +198,7 @@ In this section:
 
 #### (7) Future disposition of Coast Guard facilities
 
-&emsp;If the Commandant determines, after May 8, 2008, that Coast Guard facilities within theOutstanding Natural Area exceed the needs of the Coast Guard, the Commandant may relinquish the facilities to the Secretary without removal, subject only to any environmental remediation that may be required by law.
+&emsp;If the Commandant determines, after May 8, 2008, that Coast Guard facilities within the Outstanding Natural Area exceed the needs of the Coast Guard, the Commandant may relinquish the facilities to the Secretary without removal, subject only to any environmental remediation that may be required by law.
 
 #### (e) Effect on ongoing and future Coast Guard operations
 

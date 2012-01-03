@@ -10,7 +10,7 @@
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–349, §13(d)(1), substituted “the witness” for “him” in first sentence.
+<b>1994</b>—Subsec. (a). Pub. L. 103–349, §13(d)(1), substituted “the witness” for “him” in first sentence.
 
 Subsec. (c). Pub. L. 103–349, §13(d)(2)(B), substituted “the witness” for “him” after “paid or tendered” in second sentence.
 

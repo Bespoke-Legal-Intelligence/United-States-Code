@@ -52,7 +52,7 @@
 
 #### (8) Interim, final effect
 
-&emsp;The Secretary shall publish a rule under this subsection in the Federal Register by not laterthan the target date of publication. Such rule shall be effective and final immediately on an interim basis, but is subject to change and revision after public notice and opportunity for a period (of not less than 60 days) for public comment. In connection with such rule, the Secretary shall specify the process for the timely review and approval of applications of entities to be certified as provider-sponsored organizations pursuant to such rules and consistent with this subsection.
+&emsp;The Secretary shall publish a rule under this subsection in the Federal Register by not later than the target date of publication. Such rule shall be effective and final immediately on an interim basis, but is subject to change and revision after public notice and opportunity for a period (of not less than 60 days) for public comment. In connection with such rule, the Secretary shall specify the process for the timely review and approval of applications of entities to be certified as provider-sponsored organizations pursuant to such rules and consistent with this subsection.
 
 #### (9) Publication of rule after public comment
 
@@ -76,7 +76,7 @@
 
 &emsp;The Secretary may not implement, other than at the beginning of a calendar year, regulations under this section that impose new, significant regulatory requirements on a Medicare+Choice organization or plan.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1856, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 317; amended Pub. L. 106–554, §1(a)(6) \[title VI, §§612(a), 614(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–560; Pub. L. 108–173, title II, §232(a), Dec. 8, 2003, 117 Stat. 2208.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1856, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111Stat. 317; amended Pub. L. 106–554, §1(a)(6) \[title VI, §§612(a), 614(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–560; Pub. L. 108–173, title II, §232(a), Dec. 8, 2003, 117 Stat. 2208.)
 
 #### Amendments
 

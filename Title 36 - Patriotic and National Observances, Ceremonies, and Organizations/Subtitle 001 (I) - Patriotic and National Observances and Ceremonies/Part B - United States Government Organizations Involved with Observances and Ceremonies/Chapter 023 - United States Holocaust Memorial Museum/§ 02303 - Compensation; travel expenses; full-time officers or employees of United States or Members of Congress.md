@@ -6,7 +6,7 @@ In General.—Except as provided in subsection (b) of this section, members of t
 
 (b)
 
-Exception.—Members of the Council who are full-time officers or employees of the United States or Members of Congress shall receive no additional pay by reason of their service on the Council.
+Exception.—Members of the Council who are full-time officers or employees of the United States or Members of Congress shall receive noadditional pay by reason of their service on the Council.
 
 (Added Pub. L. 106–292, §1, Oct. 12, 2000, 114 Stat. 1032.)
 

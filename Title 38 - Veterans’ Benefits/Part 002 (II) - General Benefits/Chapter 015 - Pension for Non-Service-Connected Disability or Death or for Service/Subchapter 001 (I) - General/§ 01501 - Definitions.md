@@ -16,7 +16,7 @@ For the purposes of this chapter—
 
 Prior sections 1500 and 1501 were renumbered sections 3100 and 3101 of this title, respectively.
 
-Another prior section 1501, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1171; Pub. L. 93–508, title I, §101(1), Dec. 3,1974, 88 Stat. 1578, defined “World War II” and “vocational rehabilitation” for purposes of chapter 31 of this title, prior to the general revision of chapter 31 of this title by Pub. L. 96–466. Section 802(a)(3) of Pub. L. 96–466, set out as an Effective Date note under section 3100 of this title, provided that this prior section 1501 continue in effect until Mar. 31, 1981.
+Another prior section 1501, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1171; Pub. L. 93–508, title I, §101(1), Dec. 3, 1974, 88 Stat. 1578, defined “World War II” and “vocational rehabilitation” for purposes of chapter 31 of this title, prior to the general revision of chapter 31 of this title by Pub. L. 96–466. Section 802(a)(3) of Pub. L. 96–466, set out as an Effective Date note under section 3100 of this title, provided that this prior section 1501 continue in effect until Mar. 31, 1981.
 
 #### Amendments
 

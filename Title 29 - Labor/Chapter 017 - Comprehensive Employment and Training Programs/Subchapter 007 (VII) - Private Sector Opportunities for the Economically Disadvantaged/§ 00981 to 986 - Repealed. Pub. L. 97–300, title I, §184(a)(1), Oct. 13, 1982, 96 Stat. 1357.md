@@ -1,6 +1,6 @@
 ### §§981 to 986. Repealed. Pub. L. 97–300, title I, §184(a)(1), Oct. 13, 1982, 96 Stat. 1357
 
-Section 981, Pub. L. 93–203, title VII, §701, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 2010; amended Pub. L. 96–583, §2(1), Dec. 23, 1980, 94 Stat. 3375, set out Congressional statement of purpose for increase of private sector opportunities for the economically disadvantaged.
+Section 981, Pub. L. 93–203, title VII, §701, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 2010; amendedPub. L. 96–583, §2(1), Dec. 23, 1980, 94 Stat. 3375, set out Congressional statement of purpose for increase of private sector opportunities for the economically disadvantaged.
 
 A prior section 981, Pub. L. 93–203, title VII, §701, formerly title VI, §601, Dec. 28, 1973, 87 Stat. 876; renumbered title VII, §701, and amended Pub. L. 93–567, title I, §§101, 107(a)–(c), Dec. 31, 1974, 88 Stat. 1845, 1849; Pub. L. 94–444, §5(b)(1), Oct. 1, 1976, 90 Stat. 1479; Pub. L. 95–93, title III, §303(e), Aug. 5, 1977, 91 Stat. 650, defined terms for use in this chapter, prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 

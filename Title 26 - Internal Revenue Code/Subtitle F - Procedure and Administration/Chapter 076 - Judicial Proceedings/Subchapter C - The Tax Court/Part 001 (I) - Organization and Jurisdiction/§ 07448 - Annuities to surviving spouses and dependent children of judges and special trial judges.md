@@ -104,7 +104,7 @@ In case any judge or special trial judge electing under subsection (b) shall die
 
 &emsp;&emsp;(B) 40 percent of such average annual salary, divided by the number of such children.
 
-> The annuity payable to a surviving spouse under this subsection shall be terminable upon such surviving spouse's death or such surviving spouse's remarriage before attaining age 55. The annuity payable to a child under this subsection shall be terminable upon (A) his attaining the age of 18 years, (B) his marriage, or (C) his death, whichever first occurs, except that if such child is incapable of self-support by reason of mental or physical disability his annuity shall be terminable only upon death, marriage, or recovery from such disability. In case of the death of a surviving spouse of a judge or special trial judge leaving a dependent child or children of the judge or special trial judge surviving such spouse, the annuity of such child or children shall be recomputed and paid as provided in paragraph (3) of this subsection. In any case in which the annuity of a dependent child is terminated under this subsection, the annuities of any remaining dependent child or children, based upon the service of the same judge or special trial judge, shall be recomputed and paid as though the child whose annuity was so terminated had not survived such judge or special trial judge.
+> The annuity payable to a surviving spouse under this subsection shall be terminable upon suchsurviving spouse's death or such surviving spouse's remarriage before attaining age 55. The annuity payable to a child under this subsection shall be terminable upon (A) his attaining the age of 18 years, (B) his marriage, or (C) his death, whichever first occurs, except that if such child is incapable of self-support by reason of mental or physical disability his annuity shall be terminable only upon death, marriage, or recovery from such disability. In case of the death of a surviving spouse of a judge or special trial judge leaving a dependent child or children of the judge or special trial judge surviving such spouse, the annuity of such child or children shall be recomputed and paid as provided in paragraph (3) of this subsection. In any case in which the annuity of a dependent child is terminated under this subsection, the annuities of any remaining dependent child or children, based upon the service of the same judge or special trial judge, shall be recomputed and paid as though the child whose annuity was so terminated had not survived such judge or special trial judge.
 
 #### (i) Determination of dependency and disability
 
@@ -242,15 +242,15 @@ Subsec. (h)(2). Pub. L. 99–514, §1559(b)(2)(A), substituted “the lesser of�
 
 &emsp;“(A) 10 percent of the average annual salary of such judge (determined in accordance with subsection (m)), or
 
-&emsp;“(B) 20 percent of such average annual salary, divided by the number of such children; or” for “one-half the amount of the annuity of such survivingspouse, but not to exceed $4,644 per year divided by the number of such children or $1,548 per year, whichever is lesser; or”.
+&emsp;“(B) 20 percent of such average annual salary, divided by the number of such children; or” for “one-half the amount of the annuity of such surviving spouse, but not to exceed $4,644 per year divided by the number of such children or $1,548 per year, whichever is lesser; or”.
 
 Subsec. (h)(3). Pub. L. 99–514, §1559(b)(2)(B), substituted “the lesser of—
 
 &emsp;“(A) 20 percent of the average annual salary of such judge (determined in accordance with subsection (m)), or
 
-&emsp;“(B) 40 percent of such average annual salary, divided by the number of such children” for “the amount of the annuity to which such surviving spouse would have been entitled under paragraph (2) of this subsection had such spouse survived, but not to exceed $5,580 per year divided by the number of such children or $1,860 per year, whichever is lesser”.
+&emsp;“(B) 40 percent of such average annual salary, divided by the number of such children” for “the amount of the annuity to which such survivingspouse would have been entitled under paragraph (2) of this subsection had such spouse survived, but not to exceed $5,580 per year divided by the number of such children or $1,860 per year, whichever is lesser”.
 
-Subsec. (m). Pub. L. 99–514, §1559(b)(1)(A), substituted “1.5 percent” for “11/4 percent” and “except that such annuity shall not exceed an amount equal to 50 percent of such average annual salary, nor be less than an amount equal to 25 percent of such average annual salary, and shall be further reduced in accordance with subsection (d) (if applicable)” for “but such annuity shall not exceed 40 percent of such average annual salary and shall be further reduced in accordance with subsection (d), if applicable”.
+Subsec. (m). Pub. L. 99–514, §1559(b)(1)(A), substituted “1.5 percent” for “1¼ percent” and “except that such annuity shall not exceed an amount equal to 50 percent of such average annual salary, nor be less than an amount equal to 25 percent of such average annual salary, and shall be further reduced in accordance with subsection (d) (if applicable)” for “but such annuity shall not exceed 40 percent of such average annual salary and shall be further reduced in accordance with subsection (d), if applicable”.
 
 Pub. L. 99–514, §1557(c), inserted last sentence.
 
@@ -260,7 +260,7 @@ Subsec. (h)(3). Pub. L. 98–369, §462(a)(2), substituted “$5,580 per year di
 
 Subsec. (p). Pub. L. 98–216 substituted “President” for “Bureau of the Budget”.
 
-<b>1982</b>—Subsec. (m). Pub. L. 97–362, §105(a), substituted “3 consecutive years” for “5 consecutive years”, and “40 percent” for “371/2 percent”.
+<b>1982</b>—Subsec. (m). Pub. L. 97–362, §105(a), substituted “3 consecutive years” for “5 consecutive years”, and “40 percent” for “37½ percent”.
 
 Subsecs. (s), (t). Pub. L. 97–362, §105(b), added subsec. (s) and redesignated former subsec. (s) as (t).
 
@@ -338,7 +338,7 @@ Period revocation permitted.—Any revocation under subparagraph (A) may be made
 
 “(5)
 
-Opportunity to elect survivor annuity where prior revocation.—Any individual who under paragraph (4) revoked an election under subsection (b) of section 7448 of such Code may thereafter make such an election only if such individual deposits to the credit of the survivors annuity fund under subsection (c) of such section the entire amount paid to such individual under paragraph (4), together with interest computed as provided in subsection (d) of such section.”
+Opportunity to elect survivor annuity where prior revocation.—Any individual who under paragraph (4) revoked an election under subsection (b) of section 7448 of such Code may thereafter make such an election only if such individual deposits to the credit of the survivors annuity fund under subsection (c) of suchsection the entire amount paid to such individual under paragraph (4), together with interest computed as provided in subsection (d) of such section.”
 
 #### Effective Date of 1984 Amendment
 

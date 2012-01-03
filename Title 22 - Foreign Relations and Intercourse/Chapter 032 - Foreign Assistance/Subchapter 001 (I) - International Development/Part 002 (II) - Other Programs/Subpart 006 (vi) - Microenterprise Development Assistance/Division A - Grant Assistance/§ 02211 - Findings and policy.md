@@ -12,7 +12,7 @@ Congress finds and declares the following:
 
 &emsp;(5) Microenterprise programs have been successful and should continue to empower vulnerable women in the developing world. The Agency should work to ensure that recipients of microenterprise and microfinance development assistance under this subpart communicate and work with nongovernmental organizations and government organizations to identify and assist victims of trafficking as provided for in section 7104(a)(1) of this title and women who are victims of or susceptible to other forms of exploitation and violence.
 
-&emsp;(6) Given that microenterprise programs have been successful in empowering disenfranchised groups such as women, microenterprise programs should also target populations disenfranchised due to race or ethnicity in countries where a strong relationship between poverty and race or ethnicity has been demonstrated, such as countries in Latin America.
+&emsp;(6) Given that microenterprise programs have been successful in empowering disenfranchised groups such as women, microenterprise programs should also target populations disenfranchised due to race or ethnicity in countries where a strong relationship between poverty and race or ethnicity hasbeen demonstrated, such as countries in Latin America.
 
 (Pub. L. 87–195, pt. I, §251, as added Pub. L. 108–484, §3, Dec. 23, 2004, 118 Stat. 3923.)
 
@@ -50,7 +50,7 @@ Pub. L. 108–484, §7, Dec. 23, 2004, 118 Stat. 3930, provided that: “It is t
 
 &emsp;“(1) where applicable, should ensure that microenterprise development assistance provided under such title is matched by recipients with an equal amount of assistance from non-United States Government sources, including private donations, multilateral funding, commercial and concessional borrowing, savings, and program income;
 
-&emsp;“(2) should include in the report required by section 258 of the Foreign Assistance Act of 1961 \[22 U.S.C. 2214\] (as added by section 6 of this Act) a descriptionof all matching assistance (as described in paragraph (1)) provided for the prior year by recipients of microenterprise development assistance under such title;
+&emsp;“(2) should include in the report required by section 258 of the Foreign Assistance Act of 1961 \[22 U.S.C. 2214\] (as added by section 6 of this Act) a description of all matching assistance (as described in paragraph (1)) provided for the prior year by recipients of microenterprise development assistance under such title;
 
 &emsp;“(3) should ensure that recipients of microenterprise development assistance under such title do not expend an unreasonably large percentage of such assistance on administrative costs;
 

@@ -6,13 +6,13 @@ There are authorized to be appropriated to carry out this chapter $7,500,000 for
 
 #### Amendments
 
-2010—Pub. L. 111–233 substituted “2015” for “2010”.
+<b>2010</b>—Pub. L. 111–233 substituted “2015” for “2010”.
 
-2005—Pub. L. 109–17 substituted “2010” for “2005”.
+<b>2005</b>—Pub. L. 109–17 substituted “2010” for “2005”.
 
-2000—Pub. L. 106–472 substituted “2005” for “2000”.
+<b>2000</b>—Pub. L. 106–472 substituted “2005” for “2000”.
 
-1994—Pub. L. 103–354 substituted “2000” for “1995”.
+<b>1994</b>—Pub. L. 103–354 substituted “2000” for “1995”.
 
-1990—Pub. L. 101–624 substituted “1995” for “1991”.
+<b>1990</b>—Pub. L. 101–624 substituted “1995” for “1991”.
 

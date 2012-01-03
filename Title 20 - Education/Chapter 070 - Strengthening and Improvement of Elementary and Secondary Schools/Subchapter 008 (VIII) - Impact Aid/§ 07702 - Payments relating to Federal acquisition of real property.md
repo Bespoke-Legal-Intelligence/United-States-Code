@@ -120,7 +120,7 @@ For any fiscal year for which the amount appropriated under section 7714(a) of t
 
 #### (B) Amount
 
-&emsp;&emsp;The amount of a payment under subparagraph (A) for a local educational agency shall be equal to 38 percent of the local educational agency's maximum entitlement amount under section 2 of the Act of September 30, 1950, for fiscal year 1994 (or if the local educational agency did not meet, or has not been determined pursuant to statute to meet, the eligibility requirements of section 2(a)(1)(C) of the Act of September 30, 1950 for fiscal year 1994, the local educational agency's maximum entitlementamount under such section 2 for the most recent fiscal year preceding 1994).
+&emsp;&emsp;The amount of a payment under subparagraph (A) for a local educational agency shall be equal to 38 percent of the local educational agency's maximum entitlement amount under section 2 of the Act of September 30, 1950, for fiscal year 1994 (or if the local educational agency did not meet, or has not been determined pursuant to statute to meet, the eligibility requirements of section 2(a)(1)(C) of the Act of September 30, 1950 for fiscal year 1994, the local educational agency's maximum entitlement amount under such section 2 for the most recent fiscal year preceding 1994).
 
 #### (C) Insufficient appropriations
 
@@ -242,7 +242,7 @@ Subsec. (h)(1)(B). Pub. L. 107–110, §801(a)(2), substituted “(or if the loc
 
 Subsec. (h)(2)(A). Pub. L. 107–110, §801(b)(1), inserted before period at end “, or whose application under this section for fiscal year 1995 was determined pursuant to statute to be timely filed for purposes of payments for subsequent fiscal years”.
 
-Subsec. (h)(2)(B)(ii). Pub. L. 107–110, §801(b)(2), substituted “for each local educational agency described in subparagraph (A)” for “for each local educationalagency that received a payment under this section for fiscal year 1995”.
+Subsec. (h)(2)(B)(ii). Pub. L. 107–110, §801(b)(2), substituted “for each local educational agency described in subparagraph (A)” for “for each local educational agency that received a payment under this section for fiscal year 1995”.
 
 Subsec. (h)(4)(B). Pub. L. 107–110, §801(c), substituted “(by dividing the maximum amount that the agency is eligible to receive under subsection (b) of this section by the total of the maximum amounts for all such agencies)” for “(in the same manner as percentage shares are determined for local educational agencies under paragraph (2)(B)(ii))” and “, except that, for the purpose of calculating a local educational agency's maximum amount under subsection (b) of this section” for “, except that for the purpose of calculating a local educational agency's assessed value of the Federal property”.
 

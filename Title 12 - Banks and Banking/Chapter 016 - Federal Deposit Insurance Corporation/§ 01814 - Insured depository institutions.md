@@ -36,15 +36,15 @@ Section is derived from subsec. (e) of former section 264 of this title. See Cod
 
 #### Amendments
 
-2006—Subsec. (c). Pub. L. 109–351, §608(b)(1), inserted “and section 1464(i)(5) of this title” after “section 1815(d) of this title” in introductory provisions.
+<b>2006</b>—Subsec. (c). Pub. L. 109–351, §608(b)(1), inserted “and section 1464(i)(5) of this title” after “section 1815(d) of this title” in introductory provisions.
 
 Subsec. (c)(2). Pub. L. 109–351, §608(b)(2), which directed insertion of “or Federal” after “insured State,”, was executed by making the insertion after “insured State”, to reflect the probable intent of Congress.
 
-1992—Subsec. (b). Pub. L. 102–550 amended directory language of Pub. L. 102–242, §115(b). See 1991 Amendment note below.
+<b>1992</b>—Subsec. (b). Pub. L. 102–550 amended directory language of Pub. L. 102–242, §115(b). See 1991 Amendment note below.
 
-1991—Subsec. (b). Pub. L. 102–242, §115(b), as amended by Pub. L. 102–550, §1603(b)(6), amended subsec. (b) generally, substituting present provisions for provisions which related to certification by other banking agencies.
+<b>1991</b>—Subsec. (b). Pub. L. 102–242, §115(b), as amended by Pub. L. 102–550, §1603(b)(6), amended subsec. (b) generally, substituting present provisions for provisions which related to certification by other banking agencies.
 
-1989—Pub. L. 101–73, §201(a), substituted references to insured depository institutions for references to insured banks wherever appearing.
+<b>1989</b>—Pub. L. 101–73, §201(a), substituted references to insured depository institutions for references to insured banks wherever appearing.
 
 Subsec. (a). Pub. L. 101–73, §205(1), inserted heading, designated existing provisions as par. (1), inserted par. (1) heading, and substituted “Each bank” for “Every bank”, and added par. (2).
 
@@ -58,7 +58,7 @@ Subsec. (c). Pub. L. 101–73, §205(3), amended subsec. (c) generally. Prior to
 
 Subsec. (d). Pub. L. 101–73, §205(3), added subsec. (d).
 
-1982—Subsec. (c). Pub. L. 97–320 added subsec. (c).
+<b>1982</b>—Subsec. (c). Pub. L. 97–320 added subsec. (c).
 
 #### Effective Date of 1992 Amendment
 

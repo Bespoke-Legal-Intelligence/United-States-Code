@@ -26,7 +26,7 @@
 
 #### (4) Additional restrictions authorized
 
-&emsp;The Director may impose such additional restrictions on any transaction between any savings association and any affiliate of such savings association as the Director determines to be necessary to protect the safety and soundness of the savings association.
+&emsp;The appropriate Federal banking agency may impose such additional restrictions on any transaction between any savings association and any affiliate of such savings association as the appropriate Federal banking agency determines to be necessary to protect the safety and soundness of the savings association.
 
 #### (b) Extensions of credit to executive officers, directors, and principal shareholders
 
@@ -36,21 +36,43 @@
 
 #### (2) Additional restrictions authorized
 
-&emsp;The Director may impose such additional restrictions on loans or extensions of credit to any director or executive officer of any savings association, or any person who directly or indirectly owns, controls, or has the power to vote more than 10 percent of any class of voting securities of a savings association, as the Director determines to be necessary to protect the safety and soundness of the savings association.
+&emsp;The appropriate Federal banking agency may impose such additional restrictions on loans or extensions of credit to any appropriate Federal banking agency or executive officer of any savings association, or any person who directly or indirectly owns, controls, or has the power to vote more than 10 percent of any class of voting securities of a savings association, as the appropriate Federal banking agency determines to be necessary to protect the safety and soundness of the savings association.
 
 #### (c) Administrative enforcement
 
-The Director may take enforcement action with respect to violations of this section pursuant to section 8 or 18(j) of the Federal Deposit Insurance Act \[12 U.S.C. 1818 or 1828(j)\], as appropriate.
+The appropriate Federal banking agency may take enforcement action with respect to violations of this section pursuant to section 8 or 18(j) of the Federal Deposit Insurance Act \[12 U.S.C. 1818 or 1828(j)\], as appropriate.
 
-(June 13, 1933, ch. 64, §11, formerly §9, 48 Stat. 135; Apr. 27, 1934, ch. 168, §15, 48 Stat. 647; renumbered §11, Pub. L. 100–86, title IV, §402(a), Aug. 10, 1987, 101 Stat. 605; Pub. L. 101–73, title III, §301, Aug. 9, 1989, 103 Stat. 342; Pub. L. 102–242, title III, §306(i), Dec. 19, 1991, 105 Stat. 2359; Pub. L. 103–325, title III, §316, Sept. 23, 1994, 108 Stat. 2223.)
+#### (d) Exemptions
+
+#### (1) Federal savings associations
+
+&emsp;The Comptroller of the Currency may, by order, exempt a transaction of a Federal savings association from the requirements of this section if—
+
+&emsp;&emsp;(A) the Board and the Office of the Comptroller of the Currency jointly find the exemption to be in the public interest and consistent with the purposes of this section and notify the Federal Deposit Insurance Corporation of such finding; and
+
+&emsp;&emsp;(B) before the end of the 60-day period beginning on the date on which the Federal Deposit Insurance Corporation receives notice of the finding under subparagraph (A), the Federal Deposit Insurance Corporation does not object, in writing, to the finding, based on a determination that the exemption presents an unacceptable risk to the Deposit Insurance Fund.
+
+#### (2) State savings association
+
+&emsp;The Federal Deposit Insurance Corporation may, by order, exempt a transaction of a State savings association from the requirements of this section if the Board and the Federal Deposit Insurance Corporation jointly find that—
+
+&emsp;&emsp;(A) the exemption is in the public interest and consistent with the purposes of this section; and
+
+&emsp;&emsp;(B) the exemption does not present an unacceptable risk to the Deposit Insurance Fund.
+
+(June 13, 1933, ch. 64, §11, formerly §9, 48 Stat. 135; Apr. 27, 1934, ch. 168, §15, 48 Stat. 647; renumbered §11, Pub. L. 100–86, title IV, §402(a), Aug. 10, 1987, 101 Stat. 605; Pub. L. 101–73, title III, §301, Aug. 9, 1989, 103 Stat. 342; Pub. L. 102–242, title III, §306(i), Dec. 19, 1991, 105 Stat. 2359; Pub. L. 103–325, title III, §316, Sept. 23, 1994, 108 Stat. 2223; Pub. L. 111–203, title III, §369(9), title VI, §608(c), July 21, 2010, 124 Stat. 1565, 1610.)
 
 #### References in Text
 
-The Federal Reserve Act, referred to in subsecs. (a)(1), (3) and (b)(1), is act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, which is classified principally to chapter 3 (§221 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
+The Federal Reserve Act, referred to in subsecs. (a)(1), (3) and (b)(1), is act Dec. 23, 1913, ch. 6, 38 Stat. 251, which is classified principally to chapter 3 (§221 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
 
 #### Amendments
 
-1994—Subsec. (a)(2)(C). Pub. L. 103–325, §316(b), struck out heading and text of subpar. (C) which read as follows:
+<b>2010</b>—Pub. L. 111–203, §369(9), substituted “appropriate Federal banking agency” for “Director” wherever appearing.
+
+Subsec. (d). Pub. L. 111–203, §608(c), added subsec. (d).
+
+<b>1994</b>—Subsec. (a)(2)(C). Pub. L. 103–325, §316(b), struck out heading and text of subpar. (C) which read as follows:
 
 “(C)
 
@@ -66,11 +88,17 @@ Liability of commonly controlled depository institutions.—Any savings associat
 
 Pub. L. 103–325, §316(a), added subpar. (C).
 
-1991—Subsec. (b)(1). Pub. L. 102–242 substituted “Subsections (g) and (h) of section 22” for “Section 22(h)”.
+<b>1991</b>—Subsec. (b)(1). Pub. L. 102–242 substituted “Subsections (g) and (h) of section 22” for “Section 22(h)”.
 
-1989—Pub. L. 101–73 amended section generally, substituting subsecs. (a) to (c) relating to affiliate transactions, extensions of credit, and administrative enforcement, for former undesignated paragraph relating to separability of provisions.
+<b>1989</b>—Pub. L. 101–73 amended section generally, substituting subsecs. (a) to (c) relating to affiliate transactions, extensions of credit, and administrative enforcement, for former undesignated paragraph relating to separability of provisions.
 
-1934—Act Apr. 27, 1934, reenacted section without change.
+<b>1934</b>—Act Apr. 27, 1934, reenacted section without change.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by section 369(9) of Pub. L. 111–203 effective on the transfer date, see section 351 of Pub. L. 111–203, set out as a note under section 906 of Title 2, The Congress.
+
+Amendment by section 608(c) of Pub. L. 111–203 effective 1 year after the transfer date, see section 608(d) of Pub. L. 111–203, set out as a note under section 371c of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -92,7 +120,7 @@ of the Federal Reserve Act \[12 U.S.C. 371c\].—Not later than 6 months after t
 
 “(b)
 
-Transitional Period.—Notwithstanding section 11(a) of the Home Owners’ Loan Act \[12 U.S.C. 1468(a)\]\(as added by section 301 of this Act), a thrift institution that, before May 1, 1989, had received approval from the Federal Savings and Loan Insurance Corporation pursuant to section 408(d)(6) of the National Housing Act \[former 12 U.S.C. 1730a(d)(6)\] as then in effect to purchase mortgages from a mortgage-banking affiliate may, during the 6-month period following the date on which final regulations are prescribed pursuant to subsection (a), continue to engage in transactions for which it had received such approval. Any savings association that engages in such transactions pursuant to this subsection shall comply with the standards that were applicable under section 408(d)(6) as in effect on May 1, 1989.
+Transitional Period.—Notwithstanding section 11(a) of the Home Owners’ Loan Act \[12 U.S.C. 1468(a)\] (as added by section 301 of this Act), a thrift institution that, before May 1, 1989, had received approval from the Federal Savings and Loan Insurance Corporation pursuant to section 408(d)(6) of the National Housing Act \[former 12 U.S.C. 1730a(d)(6)\] as then in effect to purchase mortgages from a mortgage-banking affiliate may, during the 6-month period following the date on which final regulations are prescribed pursuant to subsection (a), continue to engage in transactions for which it had received such approval. Any savings association that engages in such transactions pursuant to this subsection shall comply with the standards that were applicable under section 408(d)(6) as in effect on May 1, 1989.
 
 “(c)
 

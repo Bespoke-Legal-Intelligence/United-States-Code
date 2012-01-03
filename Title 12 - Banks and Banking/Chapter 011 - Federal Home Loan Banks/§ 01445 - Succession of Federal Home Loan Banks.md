@@ -6,7 +6,7 @@ Each Federal Home Loan Bank shall have succession until dissolved by the Directo
 
 #### Amendments
 
-2008—Pub. L. 110–289 substituted “the Director” for “the Board”.
+<b>2008</b>—Pub. L. 110–289 substituted “the Director” for “the Board”.
 
-1989—Pub. L. 101–73 substituted “Board” for “board”.
+<b>1989</b>—Pub. L. 101–73 substituted “Board” for “board”.
 

@@ -28,7 +28,7 @@ For purposes of this part:
 
 &emsp;(2) The term “organ” means the human kidney, liver, heart, lung, pancreas, and any other human organ (other than corneas and eyes) specified by the Secretary by regulation and for purposes of section 274a of this title, such term includes bone marrow.
 
-(July 1, 1944, ch. 373, title III, §374, as added Pub. L. 98–507, title II, §201, Oct. 19, 1984, 98 Stat. 2345;amended Pub. L. 100–607, title IV, §402(b), Nov. 4, 1988, 102 Stat. 3114; Pub. L. 101–616, title II, §203, Nov. 16, 1990, 104 Stat. 3284.)
+(July 1, 1944, ch. 373, title III, §374, as added Pub. L. 98–507, title II, §201, Oct. 19, 1984, 98 Stat. 2345; amended Pub. L. 100–607, title IV, §402(b), Nov. 4, 1988, 102 Stat. 3114; Pub. L. 101–616, title II, §203, Nov. 16, 1990, 104 Stat. 3284.)
 
 #### Prior Provisions
 

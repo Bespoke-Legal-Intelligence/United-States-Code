@@ -16,13 +16,11 @@ In General.—(1) The Secretary of Defense shall use the procedures prescribed b
 
 > Any operation the incremental cost of which is expected not to exceed $10,000,000 shall be disregarded for the purposes of subparagraph (B).
 
-(3) Whenever an operation to which this section applies is commenced or subsequently becomes covered by this section, the Secretary of Defense shall designate and identify that operation for the purposes of this section and shall promptly notify Congress of that designation (and of the identification of the operation).
-
-(4) This section does not provide authority for the President or the Secretary of Defense to carry out any operation, but establishes mechanisms for the Department of Defense by which funds are provided for operations that the armed forces are required to carry out under some other authority.
+(3) This section does not provide authority for the President or the Secretary of Defense to carry out any operation, but establishes mechanisms for the Department of Defense by which funds are provided for operations that the armed forces are required to carry out under some other authority.
 
 (b)
 
-Waiver of Requirement To Reimburse Support Units.—(1) The Secretary of Defense shall direct that, when a unit of the armed forces participating in an operation described in subsection (a) receives services from an element of the Department of Defense that operates through the Defense Business Operations Fund (or a successor fund), such unit of the armed forces may not be required to reimburse that element for the incremental costs incurred by that element in providing such services, notwithstanding any other provision of law or any Government accounting practice.
+Waiver of Requirement To Reimburse Support Units.—(1) The Secretary of Defense shall direct that, when a unit of the armed forces participating in an operation described insubsection (a) receives services from an element of the Department of Defense that operates through the Defense Business Operations Fund (or a successor fund), such unit of the armed forces may not be required to reimburse that element for the incremental costs incurred by that element in providing such services, notwithstanding any other provision of law or any Government accounting practice.
 
 (2) The amounts which but for paragraph (1) would be required to be reimbursed to an element of the Department of Defense (or a fund) shall be recorded as an expense attributable to the operation and shall be accounted for separately.
 
@@ -64,7 +62,7 @@ Relationship to War Powers Resolution.—This section may not be construed as al
 
 GAO Compliance Reviews.—The Comptroller General of the United States shall from time to time, and when requested by a committee of Congress, conduct a review of the defense funding structure under this section to determine whether the Department of Defense is complying with the requirements and limitations of this section.
 
-(Added Pub. L. 103–160, div. A, title XI, §1108(a)(1), Nov. 30, 1993, 107 Stat. 1751; amended Pub. L. 104–106, div. A, title X, §1003(a)(1), Feb. 10, 1996, 110 Stat. 415; Pub. L. 108–136, div. A, title X, §1031(a)(3), Nov. 24, 2003, 117 Stat. 1596; Pub. L. 111–383, div. A, title X, §1075(b)(2), Jan. 7, 2011, 124 Stat. 4369.)
+(Added Pub. L. 103–160, div. A, title XI, §1108(a)(1), Nov. 30, 1993, 107 Stat. 1751; amended Pub. L. 104–106, div. A, title X, §1003(a)(1), Feb. 10, 1996, 110 Stat. 415; Pub. L. 108–136, div. A, title X, §1031(a)(3), Nov. 24, 2003, 117 Stat. 1596; Pub. L. 111–383, div. A, title X, §1075(b)(2), Jan. 7, 2011, 124 Stat. 4369; Pub. L. 112–81, div. A, title X, §1061(1), Dec. 31, 2011, 125 Stat. 1583.)
 
 #### References in Text
 
@@ -72,7 +70,11 @@ The War Powers Resolution, referred to in subsec. (h), is Pub. L. 93–148, Nov.
 
 #### Amendments
 
-<b>2011</b>—Subsecs. (a)(1)(A), (b)(1). Pub. L. 111–383 substituted “armed forces” for “Armed Forces” wherever appearing.
+<b>2011</b>—Subsec. (a)(1)(A). Pub. L. 111–383, §1075(b)(2)(A), substituted “armed forces” for “Armed Forces”.
+
+Subsec. (a)(3), (4). Pub. L. 112–81 redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “Whenever an operation to which this section applies is commenced or subsequently becomes covered by this section, the Secretary of Defense shall designate and identify that operation for the purposes of this section and shall promptly notify Congress of that designation (and of the identification of the operation).”
+
+Subsec. (b)(1). Pub. L. 111–383, §1075(b)(2)(B), substituted “armed forces” for “Armed Forces” in two places.
 
 <b>2003</b>—Subsec. (d). Pub. L. 108–136 struck out subsec. (d) which required Secretary of Defense, within 45 days after identifying an operation pursuant to subsec. (a)(2), to submit a report to Congress relating to the funding, objectives, duration, cost, and exit criteria of the operation.
 

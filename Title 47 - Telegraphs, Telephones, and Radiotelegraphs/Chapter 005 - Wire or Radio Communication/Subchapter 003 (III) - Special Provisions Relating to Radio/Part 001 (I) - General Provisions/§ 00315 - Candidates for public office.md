@@ -106,6 +106,10 @@ The Commission shall prescribe appropriate rules and regulations to carry out th
 
 (June 19, 1934, ch. 652, title III, §315, 48 Stat. 1088; July 16, 1952, ch. 879, §11, 66 Stat. 717; Pub. L. 86–274, §1, Sept. 14, 1959, 73 Stat. 557; Pub. L. 92–225, title I, §§103(a)(1), (2)(B), 104(c), Feb. 7, 1972, 86 Stat. 4, 7; Pub. L. 93–443, title IV, §402, Oct. 15, 1974, 88 Stat. 1291; Pub. L. 107–155, title III, §305(a), (b), title V, §504, Mar. 27, 2002, 116 Stat. 100, 101, 115.)
 
+#### References in Text
+
+This chapter, referred to in subsecs. (a) and (b)(2)(A), was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
+
 #### Amendments
 
 <b>2002</b>—Subsec. (b). Pub. L. 107–155, §305(a), (b), inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), inserted “subject to paragraph (2),” before “during the forty-five days” in par. (1)(A), and added par. (2).
@@ -148,7 +152,7 @@ Section 2 of Pub. L. 86–274 provided that:
 
 “(a) The Congress declares its intention to reexamine from time to time the amendment to section 315(a) of the Communications Act of 1934 \[subsec. (a) of this section\] made by the first section of this Act, to ascertain whether such amendment has proved to be effective and practicable.
 
-“(b) To assist the Congress in making its reexaminations of such amendment, the Federal Communications Commission shall include in each annual report it makes to Congress a statement setting forth (1) the information and data used by it in determining questions arising from or connected with such amendment, and (2) such recommendations as it deems necessary in the public interest.”
+“(b) To assist the Congress in making its reexaminations of such amendment, the Federal CommunicationsCommission shall include in each annual report it makes to Congress a statement setting forth (1) the information and data used by it in determining questions arising from or connected with such amendment, and (2) such recommendations as it deems necessary in the public interest.”
 
 #### Suspension of Equal Time Provisions for 1960 Campaign
 

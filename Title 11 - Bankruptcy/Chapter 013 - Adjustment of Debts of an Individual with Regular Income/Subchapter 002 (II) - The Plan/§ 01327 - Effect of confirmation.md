@@ -10,7 +10,7 @@
 
 #### Historical and Revision Notes
 
-I74senate report no. 95–989
+#### senate report no. 95–989
 
 Subsection (a) binds the debtor and each creditor to the provisions of a confirmed plan, whether or not the claim of the creditor is provided for by the plan and whether or not the creditor has accepted, rejected, or objected to the plan. Unless the plan itself or the order confirming the plan otherwise provides, confirmation is deemed to vest all property of the estate in the debtor, free and clear of any claim or interest of any creditor provided for by the plan.
 

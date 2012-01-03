@@ -6,5 +6,5 @@ In order to insure coordination of electric generation and transmission financin
 
 #### Amendments
 
-1994—Pub. L. 103–354 substituted “Secretary” for “Administrator” before “in making”.
+<b>1994</b>—Pub. L. 103–354 substituted “Secretary” for “Administrator” before “in making”.
 

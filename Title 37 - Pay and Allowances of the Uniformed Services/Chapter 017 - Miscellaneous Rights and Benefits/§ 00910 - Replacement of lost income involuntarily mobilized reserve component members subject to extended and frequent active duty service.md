@@ -58,15 +58,17 @@ Regulations.—This section shall be administered under regulations to be prescr
 
 (g)
 
-Termination.—No payment shall be made to a member under this section for months beginning after December 31, 2011, unless the entitlement of the member to payments under this section commenced on or before that date.
+Termination.—No payment shall be made to a member under this section for months beginning after December 31, 2012, unless the entitlement of the member to payments under this section commenced on or before that date.
 
-(Added Pub. L. 109–163, div. A, title VI, §614(a), Jan. 6, 2006, 119 Stat. 3292; amended Pub. L. 110–181, div. A, title VI, §604, Jan. 28, 2008, 122 Stat. 145; Pub. L. 110–417, \[div. A\], title VI, §605, Oct. 14, 2008, 122 Stat. 4483; Pub. L. 111–84, div. A, title VI, §611(7), Oct. 28, 2009, 123 Stat. 2352; Pub. L. 111–383, div. A, title VI, §§601(a), 611(7), Jan. 7, 2011, 124 Stat. 4235, 4236.)
+(Added Pub. L. 109–163, div. A, title VI, §614(a), Jan. 6, 2006, 119 Stat. 3292; amended Pub. L. 110–181, div. A, title VI, §604, Jan. 28, 2008, 122 Stat. 145; Pub. L. 110–417, \[div. A\], title VI, §605, Oct. 14, 2008, 122 Stat. 4483; Pub. L. 111–84, div. A, title VI, §611(7), Oct. 28, 2009, 123 Stat. 2352; Pub. L. 111–383, div. A, title VI, §§601(a), 611(7), Jan. 7, 2011, 124 Stat. 4235, 4236; Pub. L. 112–81, div. A, title VI, §611(7), Dec. 31, 2011, 125 Stat. 1449.)
 
 #### Amendments
 
 <b>2011</b>—Subsec. (b)(3). Pub. L. 111–383, §601(a), added par. (3).
 
-Subsec. (g). Pub. L. 111–383, §611(7), substituted “December 31, 2011” for “December 31, 2010”.
+Subsec. (g). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
+
+Pub. L. 111–383, §611(7), substituted “December 31, 2011” for “December 31, 2010”.
 
 <b>2009</b>—Subsec. (g). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
 

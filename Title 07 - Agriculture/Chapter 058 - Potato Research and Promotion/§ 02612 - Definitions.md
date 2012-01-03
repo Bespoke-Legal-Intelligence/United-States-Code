@@ -20,7 +20,7 @@ As used in this chapter:
 
 #### Amendments
 
-1990—Subsec. (c). Pub. L. 101–624, §1937(1), substituted “50” for “forty-eight contiguous” and inserted before the period at the end “, and grown in foreign countries and imported into the United States”.
+<b>1990</b>—Subsec. (c). Pub. L. 101–624, §1937(1), substituted “50” for “forty-eight contiguous” and inserted before the period at the end “, and grown in foreign countries and imported into the United States”.
 
 Subsec. (g). Pub. L. 101–624, §1937(2), added subsec. (g).
 

@@ -2,7 +2,7 @@
 
 #### (a) Transfer of funds
 
-In addition to any other transfer authority provided by law, during fiscal year 2001 and fiscal years thereafter, the Librarian of Congress may transfer to and among available accounts of the Library of Congress amounts appropriated to the Librarian from funds for the purchase, installation, maintenance, and repair of furniture, furnishings, and office and library equipment.
+In addition to any other transfer authority provided by law, during fiscal year 2001 and fiscal years thereafter, the Librarian of Congress may transfer to and among available accounts of the Library of Congress amounts appropriatedto the Librarian from funds for the purchase, installation, maintenance, and repair of furniture, furnishings, and office and library equipment.
 
 #### (b) Availability of funds
 

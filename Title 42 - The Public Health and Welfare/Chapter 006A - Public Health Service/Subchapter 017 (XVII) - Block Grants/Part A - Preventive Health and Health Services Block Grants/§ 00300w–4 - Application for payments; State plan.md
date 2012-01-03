@@ -120,7 +120,7 @@ The certification referred to in subsection (a)(3) of this section for a fiscal 
 
 <b>1992</b>—Pub. L. 102–531 amended section generally, substituting present provisions for provisions relating to submission and form of application for assistance under this part as well as required assurances, public hearings on proposed use and distribution of funds, certifications by chief executive officer of State, and a description of intended use of funds as well as public access to and revision of such description.
 
-<b>1990</b>—Subsec. (c). Pub. L. 101–590, which directed amendment of subsec. (c) by adding at the end thereof a new par. (7), was executed by adding par. (7) after par.\(6) and before the last sentence to reflect the probable intent of Congress.
+<b>1990</b>—Subsec. (c). Pub. L. 101–590, which directed amendment of subsec. (c) by adding at the end thereof a new par. (7), was executed by adding par. (7) after par. (6) and before the last sentence to reflect the probable intent of Congress.
 
 <b>1988</b>—Subsec. (d). Pub. L. 100–607 inserted at end “The description shall include a statement of the public health objectives expected to be achieved by the State through the use of the payments the State will receive under section 300w–2 of this title.”
 

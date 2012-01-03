@@ -42,7 +42,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1977—Subsecs. (a), (b). Pub. L. 95–17 reenacted subsecs. (a) and (b) without change.
+<b>1977</b>—Subsecs. (a), (b). Pub. L. 95–17 reenacted subsecs. (a) and (b) without change.
 
 Subsec. (c). Pub. L. 95–17 substituted “twelve months” for “12 months”.
 

@@ -40,9 +40,9 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### Amendments
 
-1966—Pub. L. 89–444 made technical changes in subsecs. (d) and (e) by inserting “and” at end of subsec. (d) and substituting a period for “; and” at end of subsec. (e).
+<b>1966</b>—Pub. L. 89–444 made technical changes in subsecs. (d) and (e) by inserting “and” at end of subsec. (d) and substituting a period for “; and” at end of subsec. (e).
 
-1950—Act May 5, 1950, repealed subsec. (f) which provided that personnel of the Coast Guard should be subject to the laws for the government of the Navy.
+<b>1950</b>—Act May 5, 1950, repealed subsec. (f) which provided that personnel of the Coast Guard should be subject to the laws for the government of the Navy.
 
 #### Effective Date of 1950 Amendment
 

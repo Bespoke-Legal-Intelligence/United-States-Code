@@ -30,7 +30,7 @@ Charges or premiums for insurance, written in connection with any consumer credi
 
 #### (d) Items exempted from computation of finance charge in all credit transactions
 
-If any of the following items is itemized and disclosed in accordance with the regulations of the Board in connection with any transaction, then the creditor need not include that item in the computation of the finance charge with respect to that transaction:
+If any of the following items is itemized and disclosed in accordance with the regulations of the Bureau in connection with any transaction, then the creditor need not include that item in the computation of the finance charge with respect to that transaction:
 
 &emsp;(1) Fees and charges prescribed by law which actually are or will be paid to public officials for determining the existence of or for perfecting or releasing or satisfying any security related to the credit transaction.
 
@@ -66,11 +66,11 @@ In connection with credit transactions not under an open end credit plan that ar
 
 &emsp;(2) shall be treated as being accurate for purposes of section 1635 of this title if—
 
-&emsp;&emsp;(A) except as provided in subparagraph (B), the amount disclosed as the finance charge does not vary from the actual finance charge by more than an amount equal to one-half of one percent of the total amount of credit extended; or
+&emsp;&emsp;(A) except as provided in subparagraph (B), the amount disclosed as the finance charge does not vary from the actual finance chargeby more than an amount equal to one-half of one percent of the total amount of credit extended; or
 
-&emsp;&emsp;(B) in the case of a transaction, other than a mortgage referred to in section 1602(aa) of this title, which—
+&emsp;&emsp;(B) in the case of a transaction, other than a mortgage referred to in section 1602(aa) <sup>1</sup> of this title, which—
 
-&emsp;&emsp;&emsp;(i) is a refinancing of the principal balance then due and any accrued and unpaid finance charges of a residential mortgage transaction as defined in section 1602(w) of this title, or is any subsequent refinancing of such a transaction; and
+&emsp;&emsp;&emsp;(i) is a refinancing of the principal balance then due and any accrued and unpaid finance charges of a residential mortgage transaction as defined in section 1602(w) <sup>1</sup> of this title, or is any subsequent refinancing of such a transaction; and
 
 &emsp;&emsp;&emsp;(ii) does not provide any new consolidation or new advance;
 
@@ -78,11 +78,13 @@ In connection with credit transactions not under an open end credit plan that ar
 
 (Pub. L. 90–321, title I, §106, May 29, 1968, 82 Stat. 148; Pub. L. 96–221, title VI §606, Mar. 31, 1980, 94 Stat. 170; Pub. L. 104–29, §§2(a), (b)(1), (c)–(e), 3(a), Sept. 30, 1995, 109 Stat. 271, 272; Pub. L. 111–203, title X, §1100A(2), July 21, 2010, 124 Stat. 2107.)
 
-#### Amendment of Section
+#### References in Text
 
-<i>Pub. L. 111–203, title X, §§1100A(2), 1100H, July 21, 2010, 124 Stat. 2107, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Board” each place that term appears and inserting “Bureau”. See Effective Date of 2010 Amendment note below.</i>
+Subsecs. (aa) and (w) of section 1602 of this title, referred to in subsec. (f)(2)(B), were redesignated subsecs. (bb) and (x), respectively, of section 1602 of this title by Pub. L. 111–203, title X, §1100A(1)(A), July 21, 2010, 124 Stat. 2107.
 
 #### Amendments
+
+<b>2010</b>—Subsec. (d). Pub. L. 111–203 substituted “Bureau” for “Board” in introductory provisions.
 
 <b>1995</b>—Subsec. (a). Pub. L. 104–29, §2(a), in introductory provisions inserted after second sentence “The finance charge shall not include fees and amounts imposed by third party closing agents (including settlement agents, attorneys, and escrow and title companies) if the creditor does not require the imposition of the charges or the services provided and does not retain the charges.”
 
@@ -147,4 +149,6 @@ Report requirements.—In preparing the report under this paragraph, the Board s
 “(2)
 
 Regulations.—The Board of Governors of the Federal Reserve System shall prescribe any appropriate regulation in order to effect any change included in the report under paragraph (1), and shall publish the regulation in the Federal Register before the end of the 1-year period beginning on the date of enactment of this Act.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

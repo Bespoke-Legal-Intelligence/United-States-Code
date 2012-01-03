@@ -86,7 +86,7 @@ The location of the Office in the Executive Office of the President shall not be
 
 #### References in Text
 
-This chapter, referred to in subsec. (b)(1), (2), was in the original “this Act” and was translated as reading “this title”, meaning title VII of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681–670, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title VII to the Code, see Short Title note set out under section 1701 of this title and Tables.
+This chapter, referred to in subsec. (b)(1), (2), was in the original “this Act” and was translated as reading“this title”, meaning title VII of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681–670, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title VII to the Code, see Short Title note set out under section 1701 of this title and Tables.
 
 Section 1701(1) of this title, referred to in subsec. (b)(3)(C), was in the original “section 702(l)”, and was translated as reading “section 702(1)”, meaning section 702(1) of Pub. L. 105–277, to reflect the probable intent of Congress, because section 702 of Pub. L. 105–277 does not contain a subsec. (l).
 
@@ -100,9 +100,11 @@ Subsec. (b). Pub. L. 109–469, §102(b), amended subsec. (b) generally. Prior t
 
 #### Gifts to Office of National Drug Control Policy
 
-Pub. L. 111–117, div. C, title II, Dec. 16, 2009, 123 Stat. 3170, provided in part: “That the Office \[of National Drug Control Policy\] is authorized to accept, hold, administer, and utilize gifts, both real and personal, public and private, without fiscal year limitation, for the purpose of aiding or facilitating the work of the Office.”
+Pub. L. 112–74, div. C, title II, Dec. 23, 2011, 125 Stat. 895, provided in part: “That the Office \[of National Drug Control Policy\] is authorized to accept, hold, administer, and utilize gifts, both real and personal, public and private, without fiscal year limitation, for the purpose of aiding or facilitating the work of the Office.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 111–117, div. C, title II, Dec. 16, 2009, 123 Stat. 3170.
 
 Pub. L. 111–8, div. D, title II, Mar. 11, 2009, 123 Stat. 641.
 

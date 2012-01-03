@@ -38,7 +38,7 @@
 
 (2) Based on the most recent such valuation, the Secretary of Defense shall estimate the normal cost for the next fiscal year.
 
-(3) If at the time of any such valuation there has been a change in benefits under an education program described in subsection (b)(1) that has been made since the last such valuation and that increases or decreases the present value of benefits payable from the Fund, the Secretary of Defense shall determine an amortization methodology and schedule for the liquidation of the unfunded liability (or negativeunfunded liability) thus created such that the present value of the sum of the amortization payments equals the increase or decrease in the present value of such benefits.
+(3) If at the time of any such valuation there has been a change in benefits under an education program described in subsection (b)(1) that has been made since the last such valuation and that increases or decreases the present value of benefits payable from the Fund, the Secretary of Defense shall determine an amortization methodology and schedule for the liquidation of the unfunded liability (or negative unfunded liability) thus created such that the present value of the sum of the amortization payments equals the increase or decrease in the present value of such benefits.
 
 (4) If at the time of any such valuation the Secretary of Defense determines that, based upon changes in actuarial assumptions since the last valuation, there has been an actuarial gain or loss to the Fund, the Secretary shall determine an amortization methodology and schedule for the liquidation of such gain or loss through an increase or decrease in the payments that would otherwise be made to the Fund.
 
@@ -56,7 +56,7 @@
 
 (3) Amounts paid into the Fund under this subsection shall be paid from appropriations available for the pay of members of the armed forces under the jurisdiction of the Secretary concerned.
 
-(g) The Secretary of the Treasury shall invest such portion of the Fund as is not in the judgment of the Secretary required to meet current withdrawals. Such investments shall be in public debt securities with maturities suitable to the needs of the Fund, as determined by the Secretary, and bearing interest at rates determined by the Secretary, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities. The income on such investments shall be credited to and form a part of the Fund.
+(g) The Secretary of the Treasury shall invest such portion of the Fund as is not in the judgment of the Secretary required to meet current withdrawals. Such investments shall be in public debt securities with maturities suitable to the needs of the Fund, as determined by the Secretary, and bearing interest at rates determined by the Secretary, taking into consideration current market yields on outstanding marketable obligations of the United States of comparablematurities. The income on such investments shall be credited to and form a part of the Fund.
 
 (Added Pub. L. 98–525, title VII, §706(a)(1), Oct. 19, 1984, 98 Stat. 2568; amended Pub. L. 100–26, §7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 101–189, div. A, title XVI, §1621(a)(2), (6), Nov. 29, 1989, 103 Stat. 1603; Pub. L. 101–510, div. A, title XIII, §1322(a)(2), title XIV, §1484(j)(2), Nov. 5, 1990, 104 Stat. 1671, 1718; Pub. L. 103–337, div. A, title X, §1070(e)(6), Oct. 5, 1994, 108 Stat. 2859; Pub. L. 104–106, div. A, title XV, §§1501(c)(21), 1503(a)(17), Feb. 10, 1996, 110 Stat. 499, 512; Pub. L. 106–65, div. A, title V, §550, Oct. 5, 1999, 113 Stat. 611; Pub. L. 107–107, div. A, title VI, §654(b), Dec. 28, 2001, 115 Stat. 1157; Pub. L. 108–136, div. A, title V, §535(b), Nov. 24, 2003, 117 Stat. 1474; Pub. L. 108–375, div. A, title V, §527(b)(1), Oct. 28, 2004, 118 Stat. 1894; Pub. L. 109–364, div. A, title X, §1071(a)(9), Oct. 17, 2006, 120 Stat. 2398; Pub. L. 110–181, div. A, title IX, §906(b)(2), Jan. 28, 2008, 122 Stat. 277; Pub. L. 111–377, title I, §109(b)(2), Jan. 4, 2011, 124 Stat. 4120.)
 
@@ -94,7 +94,7 @@ Subsec. (b)(2)(E). Pub. L. 108–136, §535(b)(2), added subpar. (E).
 
 <b>1999</b>—Subsec. (a). Pub. L. 106–65, §550(1), substituted “armed forces education liabilities” for “Department of Defense education liabilities”.
 
-Subsec. (b)(1). Pub. L. 106–65, §550(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘Department of Defense education liabilities’ means liabilities of the Department of Defense forbenefits under chapter 30 of title 38 and for benefits under chapter 1606 of this title.”
+Subsec. (b)(1). Pub. L. 106–65, §550(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘Department of Defense education liabilities’ means liabilities of the Department of Defense for benefits under chapter 30 of title 38 and for benefits under chapter 1606 of this title.”
 
 Subsec. (b)(2)(C). Pub. L. 106–65, §550(3), inserted “Department of Defense” after “future” and substituted “chapter 1606” for “chapter 106”.
 
@@ -134,7 +134,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\]of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 #### First Payment Into Fund
 

@@ -22,7 +22,7 @@ The Bank shall have the power to make and service loans, commitments for credit,
 
 &emsp;(10) utilize and act through any Federal, State, or local public agency or instrumentality, or private agency or organization, with the consent of the agency or organization concerned, and contract with such agency, instrumentality, or organization for furnishing or receiving technical services and benefits of research, services, funds or facilities; and make advance, progress, or other payments with respect to such contracts without regard to section 3324(a) and (b) of title 31;
 
-&emsp;(11) within the limitations of section 3017 of this title, borrow money and issue notes,bonds and debentures or other obligations individually or in concert with other financial institutions, agencies or instrumentalities, of such character and such terms and conditions and at rates of interest as may be determined;
+&emsp;(11) within the limitations of section 3017 of this title, borrow money and issue notes, bonds and debentures or other obligations individually or in concert with other financial institutions, agencies or instrumentalities, of such character and such terms and conditions and at rates of interest as may be determined;
 
 &emsp;(12) issue certificates of indebtedness to its stockholders or members and pay interest on funds left with the Bank, and accept grants or interest free temporary use of funds made available to it;
 
@@ -52,7 +52,7 @@ In pars. (5) and (10), “section 3324(a) and (b) of title 31” substituted for
 
 #### Amendments
 
-1981—Pub. L. 97–35 substituted provisions relating to a public offering for purposes of the Securities Act of 1933, for provisions setting forth criteria for the term “exempt securities”.
+<b>1981</b>—Pub. L. 97–35 substituted provisions relating to a public offering for purposes of the Securities Act of 1933, for provisions setting forth criteria for the term “exempt securities”.
 
 #### Effective Date of 1981 Amendment
 

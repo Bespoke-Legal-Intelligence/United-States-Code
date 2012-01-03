@@ -30,7 +30,7 @@ Historical and Revision Notes
 
 Feb. 4, 1919, ch. 14, §7, 40 Stat. 1056; renumbered §9 and amended Aug. 7, 1942, ch. 551, §1, 56 Stat. 744.
 
-The words “Except as provided in section 6246 of this title” are substituted for the words “That except as otherwise prescribed herein” to identify the only exception. The words “may be awarded to a person” are substituted for the words “shall be issued to any person” for uniformity. The words “specific”, “or report distinctly”, and “at the time of” are omitted as surplusage. The words “bar, emblem, or insignia” are substituted for the words “or bar or other suitable emblem or insignia” for uniformity. The words “from the dateof that act or service” are substituted for the word “thereafter”.
+The words “Except as provided in section 6246 of this title” are substituted for the words “That except as otherwise prescribed herein” to identify the only exception. The words “may be awarded to a person” are substituted for the words “shall be issued to any person” for uniformity. The words “specific”, “or report distinctly”, and “at the time of” are omitted as surplusage. The words “bar, emblem, or insignia” are substituted for the words “or bar or other suitable emblem or insignia” for uniformity. The words “from the date of that act or service” are substituted for the word “thereafter”.
 
 #### Amendments
 

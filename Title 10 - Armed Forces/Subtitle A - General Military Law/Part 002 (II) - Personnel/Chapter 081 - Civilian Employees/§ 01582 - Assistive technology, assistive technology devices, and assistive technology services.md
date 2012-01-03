@@ -8,7 +8,7 @@ Authority.—The Secretary of Defense may provide assistive technology, assistiv
 
 &emsp;(2) Organizations within the Department that have requirements to make programs or facilities accessible to, and usable by, persons with disabilities.
 
-&emsp;(3) Any other department or agency of the Federal Government, upon the request of the head of that department or agency, for its employees with disabilities or for satisfying a requirement to make its programs or facilities accessible to, and usable by, persons with disabilities.
+&emsp;(3) Any other department or agency of the Federal Government, upon the request of thehead of that department or agency, for its employees with disabilities or for satisfying a requirement to make its programs or facilities accessible to, and usable by, persons with disabilities.
 
 (b)
 

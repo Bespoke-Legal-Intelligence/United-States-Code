@@ -12,7 +12,7 @@
 
 &emsp;(4)(A) for purposes of leave under section 6382(a)(1)(C), a statement that the employee is needed to care for the son, daughter, spouse, or parent, and an estimate of the amount of time that such employee is needed to care for such son, daughter, spouse, or parent; and
 
-&emsp;(B) for purposes of leave under section 6382(a)(1)(D), a statement that the employee is unable to perform the functions of the position of the employee; and
+&emsp;(B) for purposes of leave under section 6382(a)(1)(D), a statement that the employee isunable to perform the functions of the position of the employee; and
 
 &emsp;(5) in the case of certification for intermittent leave, or leave on a reduced leave schedule, for planned medical treatment, the dates on which such treatment is expected to be given and the duration of such treatment.
 
@@ -32,7 +32,7 @@
 
 #### Amendments
 
-2009—Subsec. (f). Pub. L. 111–84 substituted “paragraph (1)(E) or (3) of section 6382(a)” for “section 6382(a)(3)”.
+<b>2009</b>—Subsec. (f). Pub. L. 111–84 substituted “paragraph (1)(E) or (3) of section 6382(a)” for “section 6382(a)(3)”.
 
-2008—Subsec. (f). Pub. L. 110–181 added subsec. (f).
+<b>2008</b>—Subsec. (f). Pub. L. 110–181 added subsec. (f).
 

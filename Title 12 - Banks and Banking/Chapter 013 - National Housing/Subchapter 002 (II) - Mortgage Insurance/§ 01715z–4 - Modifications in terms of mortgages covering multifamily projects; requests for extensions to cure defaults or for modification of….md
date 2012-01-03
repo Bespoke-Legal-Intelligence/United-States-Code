@@ -6,5 +6,5 @@ The Secretary shall not consent to any request for an extension of the time for 
 
 #### Amendments
 
-1988—Pub. L. 100–242 struck out “insured” before “mortgages” in section catchline, and struck out subsec. (a) designation and subsec. (b) which related to violations and penalties imposed for violations of the provisions of former subsec. (a).
+<b>1988</b>—Pub. L. 100–242 struck out “insured” before “mortgages” in section catchline, and struck out subsec. (a) designation and subsec. (b) which related to violations and penalties imposed for violations of the provisions of former subsec. (a).
 

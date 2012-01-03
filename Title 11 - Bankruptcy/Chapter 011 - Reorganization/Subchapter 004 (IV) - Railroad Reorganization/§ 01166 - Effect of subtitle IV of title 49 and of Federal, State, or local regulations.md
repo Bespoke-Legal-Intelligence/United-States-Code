@@ -10,7 +10,7 @@ Except with respect to abandonment under section 1170 of this title, or merger, 
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 1166 of the House amendment is derived from sections 1164 and 1165 of the House bill. An alternative proposal contained in section 1168(1) of the Senate bill is rejected as violative of the principle of equal treatment of all creditors under title 11.
 
@@ -34,11 +34,11 @@ Section 601(b) of the Regional Rail Reorganization Act of 1973, referred to in p
 
 #### Amendments
 
-1994—Par. (2). Pub. L. 103–394 struck out “(45 U.S.C. 791(b))” after “Act of 1973”.
+<b>1994</b>—Par. (2). Pub. L. 103–394 struck out “(45 U.S.C. 791(b))” after “Act of 1973”.
 
-1984—Pub. L. 98–353 directed substitution of “subtitle IV of title 49” for “the Interstate Commerce Act (49 U.S.C. 1 et seq.)”, which substitution had previously been made by Pub. L. 97–449.
+<b>1984</b>—Pub. L. 98–353 directed substitution of “subtitle IV of title 49” for “the Interstate Commerce Act (49 U.S.C. 1 et seq.)”, which substitution had previously been made by Pub. L. 97–449.
 
-1983—Pub. L. 97–449 substituted “subtitle IV of title 49” for “Interstate Commerce Act” in section catchline, and “subtitle IV of title 49” for “the Interstate Commerce Act (49 U.S.C. 1 et seq.)” in text.
+<b>1983</b>—Pub. L. 97–449 substituted “subtitle IV of title 49” for “Interstate Commerce Act” in section catchline, and “subtitle IV of title 49” for “the Interstate Commerce Act (49 U.S.C. 1 et seq.)” in text.
 
 #### Effective Date of 1994 Amendment
 

@@ -364,7 +364,7 @@ Establishment of Commission.—The Secretary, in consultation with the Administr
 
 Issues.—The Commission shall address the following issues:
 
-&emsp;“(1) To what extent, if any, should Federal Government technology purchase strategies be used to give domestic suppliers a competitive advantage in new generations of existing technologies and in initial market penetration for new technologies?
+&emsp;“(1) To what extent, if any, should Federal Government technology purchase strategies be used to givedomestic suppliers a competitive advantage in new generations of existing technologies and in initial market penetration for new technologies?
 
 &emsp;“(2) Under what conditions can Federal Government purchases of advanced technology-based products be based on performance specifications rather than on product specifications? Should Federal Government procurement first look to the commercial markets for products that will meet performance specifications before purchasing a unique product that has to be developed?
 
@@ -430,7 +430,7 @@ Contract With National Research Council.—Within 90 days after the date of enac
 
 &emsp;“(2) Ways for United States manufacturers to gain acceptance of their products in the European Community and in other foreign countries and regions.
 
-&emsp;“(3) The feasibility and consequences of having mutual recognition agreements between testing and certification organizations in the United States andthose of major trading partners on the accreditation of testing and certification laboratories and on quality control requirements.
+&emsp;“(3) The feasibility and consequences of having mutual recognition agreements between testing and certification organizations in the United States and those of major trading partners on the accreditation of testing and certification laboratories and on quality control requirements.
 
 &emsp;“(4) Information coordination regarding product acceptance and conformity assessment mechanisms between the United States and foreign governments.
 

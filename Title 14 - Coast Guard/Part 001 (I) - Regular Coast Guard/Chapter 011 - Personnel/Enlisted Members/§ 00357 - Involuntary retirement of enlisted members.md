@@ -40,7 +40,7 @@
 
 &emsp;(4) allowed full access to and be furnished with copies of records relevant to the consideration for involuntary retirement prior to submission of the rebuttal submitted under paragraph (2).
 
-(g) If the Commandant approves the Board's recommendation, the enlisted member shall be notified of the Commandant's decision and shall be retired from the service within ninety days of the notification.
+(g) If the Commandant approves the Board's recommendation, the enlisted member shall be notified of the Commandant's decision and shallbe retired from the service within ninety days of the notification.
 
 (h) An enlisted member, who has completed twenty years of service and who the Commandant has involuntarily retired under this section, shall receive retired pay.
 
@@ -66,19 +66,19 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### Amendments
 
-1991—Pub. L. 102–241 substituted “Involuntary retirement of enlisted members” for “Enlisted Personnel Board” in section catchline and amended text generally. Prior to amendment, text provided that the Commandant assemble annually a Coast Guard Enlisted Personnel Board to recommend enlisted members for retirement, that the recommendations be transmitted to the Commandant for approval, in which event the enlisted members concerned would be notified and given opportunity to file a written protest, which would require a subsequent annual Board determination and approval by the Commandant to effect the involuntary retirement of that member, and further provided that an enlisted member with twenty years’ service retired from active duty by the Commandant pursuant to this section was to receive retired pay, and that an enlisted member voluntarily or involuntarily retired by reason of twenty years’ service who had been cited for extraordinary heroism was entitled to an increase in retired pay.
+<b>1991</b>—Pub. L. 102–241 substituted “Involuntary retirement of enlisted members” for “Enlisted Personnel Board” in section catchline and amended text generally. Prior to amendment, text provided that the Commandant assemble annually a Coast Guard Enlisted Personnel Board to recommend enlisted members for retirement, that the recommendations be transmitted to the Commandant for approval, in which event the enlisted members concerned would be notified and given opportunity to file a written protest, which would require a subsequent annual Board determination and approval by the Commandant to effect the involuntary retirement of that member, and further provided that an enlisted member with twenty years’ service retired from active duty by the Commandant pursuant to this section was to receive retired pay, and that an enlisted member voluntarily or involuntarily retired by reason of twenty years’ service who had been cited for extraordinary heroism was entitled to an increase in retired pay.
 
-1986—Subsec. (b). Pub. L. 99–348, §205(b)(9)(A), substituted “retired pay” for “the retired pay of the grade or rating with which retired”.
+<b>1986</b>—Subsec. (b). Pub. L. 99–348, §205(b)(9)(A), substituted “retired pay” for “the retired pay of the grade or rating with which retired”.
 
-Subsec. (c). Pub. L. 99–348, §205(b)(9)(B), substituted provision that retired pay be increased by an amount equal to 10 percent of the active-duty pay and permanent additions thereto of the grade or rating with which retired, in the case of a member whose retired pay is computed under 423(a) of this title, or the member's retired pay base under section 1407 of title 10, in the case of a member whose retired pay is computed under section 423(b) of this title for provision that theretired pay be increased by an amount equal to 10 per cent of the active-duty pay and permanent additions thereto of the grade or rating with which retired.
+Subsec. (c). Pub. L. 99–348, §205(b)(9)(B), substituted provision that retired pay be increased by an amount equal to 10 percent of the active-duty pay and permanent additions thereto of the grade or rating with which retired, in the case of a member whose retired pay is computed under 423(a) of this title, or the member's retired pay base under section 1407 of title 10, in the case of a member whose retired pay is computed under section 423(b) of this title for provision that the retired pay be increased by an amount equal to 10 per cent of the active-duty pay and permanent additions thereto of the grade or rating with which retired.
 
-1984—Pub. L. 98–557, §15(a)(3)(A), substituted reference to enlisted member for reference to enlisted man wherever appearing in subsecs. (a) to (c).
+<b>1984</b>—Pub. L. 98–557, §15(a)(3)(A), substituted reference to enlisted member for reference to enlisted man wherever appearing in subsecs. (a) to (c).
 
 Subsec. (a). Pub. L. 98–557, §15(a)(3)(B), substituted reference to enlisted members for reference to enlisted men in two places.
 
-1963—Subsec. (c). Pub. L. 88–114 struck out provisions which entitled enlisted men whose average marks in conduct were not less than 971/2 percent of the maximum to a 10-percent increase of their retired pay.
+<b>1963</b>—Subsec. (c). Pub. L. 88–114 struck out provisions which entitled enlisted men whose average marks in conduct were not less than 97½ percent of the maximum to a 10-percent increase of their retired pay.
 
-1950—Subsec. (c). Act Aug. 3, 1950, substituted “years’ ” for “years”.
+<b>1950</b>—Subsec. (c). Act Aug. 3, 1950, substituted “years’ ” for “years”.
 
 #### Service Credit for Certain Enlisted Personnel
 
@@ -86,5 +86,5 @@ Act June 3, 1948, ch. 394, 62 Stat. 302, provided: “That those enlisted men of
 
 #### Enlisted Men in Service on September 6, 1963
 
-Section 2 of Pub. L. 88–114 provided that: “The amendment made by subsection (1) of section 1 of this Act \[amending this section\] does not apply to any enlisted man in service on the effective date of this Act \[Sept. 6, 1963\].”
+Pub. L. 88–114, §2, Sept. 6, 1963, 77 Stat. 144, provided that: “The amendment made by subsection (1) of section 1 of this Act \[amending this section\] does not apply to any enlisted man in service on the effective date of this Act \[Sept. 6, 1963\].”
 

@@ -24,7 +24,7 @@
 
 #### (5) Post-1986 undistributed U.S. earnings
 
-&emsp;For purposes of this subsection, the term “post-1986 undistributed U.S. earnings” meansthe portion of the post-1986 undistributed earnings which is attributable to—
+&emsp;For purposes of this subsection, the term “post-1986 undistributed U.S. earnings” means the portion of the post-1986 undistributed earnings which is attributable to—
 
 &emsp;&emsp;(A) income of the qualified 10-percent owned foreign corporation which is effectively connected with the conduct of a trade or business within the United States and subject to tax under this chapter, or
 
@@ -158,7 +158,7 @@ Property distributions.—For purposes of this section, the amount of any distri
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–514, §1226(a), in amending subsec. (a) generally, substituted “Dividends from 10-percent owned foreign corporations” for “General rule” as heading, and in text substituted provisions set out in nine numbered paragraphs allowing for deduction for dividends received from certain foreign corporations qualifying as “10-percent owned foreign corporations” for former provisions which directed that, in the case of dividends received from a foreign corporation (other than a foreign personal holding company) which was subject to taxation under this chapter, if, for an uninterrupted period of not less than 36 months ending with the close of such foreign corporation's taxable year in which such dividends were paid (or, if the corporation had not been in existence for 36 months at the close of such taxable year, for the period the foreign corporation had been in existence as of the close of such taxable year) such foreign corporation had been engaged in trade or business within the United States and if 50 percent or more of the gross income of such corporation from all sources for such period was effectively connected with the conduct of a trade or business within the United States, there was allowed as a deduction in the case of a corporation a percentage of dividends received.
 
-Subsec. (c)(1). Pub. L. 99–514, §1876(d)(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “In the case of a domestic corporation, there shall be allowed as a deduction an amount equal to 100 percent of any dividend received by such corporation from another corporation which is distributed out of earnings and profits attributable to foreign trade income for a period during which such other corporation was a FSC. The deduction allowable under the preceding sentence with respect to any dividend shall be in lieu of any deduction allowable under subsection (a) or (b) with respect to such dividend.”
+Subsec. (c)(1). Pub. L. 99–514, §1876(d)(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “In the case of a domestic corporation, there shall be allowed as a deduction an amount equal to 100 percent of any dividend received by such corporation from another corporation which is distributed out ofearnings and profits attributable to foreign trade income for a period during which such other corporation was a FSC. The deduction allowable under the preceding sentence with respect to any dividend shall be in lieu of any deduction allowable under subsection (a) or (b) with respect to such dividend.”
 
 Subsec. (c)(3). Pub. L. 99–514, §1876(j), added par. (3). Former par. (3) redesignated (4).
 
@@ -168,7 +168,7 @@ Subsec. (c)(4). Pub. L. 99–514, §1876(j), redesignated former par. (3) as (4)
 
 <b>1984</b>—Subsec. (c). Pub. L. 98–369 added subsec. (c), redesignated former subsec. (c) as (d), and substituted therein “this section” for “subsections (a) and (b)”.
 
-<b>1966</b>—Subsec. (a). Pub. L. 89–809, §104(d), (e)(2), substituted “and if 50 percent or more of the gross income of such corporation from all sources for such period is effectively connected with the conduct of a trade or business within the United States” for “and has derived 50 percent or more of its gross income from sources within the United States” in provisions preceding par. (1), “which is effectively connected with the conduct of a trade or business within the UnitedStates” for “from sources within the United States” in par. (1), “, which is effectively connected with the conduct of a trade or business within the United States,” for “from sources within the United States” in par. (2), and inserted provisions following par. (2).
+<b>1966</b>—Subsec. (a). Pub. L. 89–809, §104(d), (e)(2), substituted “and if 50 percent or more of the gross income of such corporation from all sources for such period is effectively connected with the conduct of a trade or business within the United States” for “and has derived 50 percent or more of its gross income from sources within the United States” in provisions preceding par. (1), “which is effectively connected with the conduct of a trade or business within the United States” for “from sources within the United States” in par. (1), “, which is effectively connected with the conduct of a trade or business within the United States,” for “from sources within the United States” in par. (2), and inserted provisions following par. (2).
 
 Subsecs. (b), (c). Pub. L. 89–809, §104(e)(1), (3), added subsec. (b), redesignated former subsec. (b) as (c), and substituted therein “subsections (a) and (b)” for “subsection (a)”.
 
@@ -242,5 +242,5 @@ Section 1006(b)(1) of Pub. L. 100–647 provided that: “In the case of dividen
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

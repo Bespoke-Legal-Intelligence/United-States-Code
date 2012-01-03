@@ -10,7 +10,7 @@ The President may appoint a Deputy United States Commissioner, on the concurrent
 
 #### (c) Compensation
 
-The United States Commissioner and Deputy Commissioner, although officers of the UnitedStates Government, shall receive no compensation for their services.
+The United States Commissioner and Deputy Commissioner, although officers of the United States Government, shall receive no compensation for their services.
 
 (Aug. 9, 1950, ch. 653, §3, 64 Stat. 421; 1970 Reorg. Plan. No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
 

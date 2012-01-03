@@ -10,7 +10,7 @@ The Secretary may readjust the rentals and royalties of any geothermal lease iss
 
 #### (c) Surface use, protection, or restoration of lands withdrawn or acquired for Federal agency; notice; approval of agency
 
-Any readjustment of the terms and conditions as to use, protection, or restoration of the surface of any lease of lands withdrawn or acquired in aid of a function of a Federal department or agency other than the Department of the Interior may be made only upon notice to, and with the approval of, such department or agency.
+Any readjustment of the terms and conditions as to use, protection, or restoration of the surface of any lease of lands withdrawn or acquiredin aid of a function of a Federal department or agency other than the Department of the Interior may be made only upon notice to, and with the approval of, such department or agency.
 
 (Pub. L. 91–581, §8, Dec. 24, 1970, 84 Stat. 1569; Pub. L. 109–58, title II, §§229, 236(8), Aug. 8, 2005, 119 Stat. 668, 672.)
 

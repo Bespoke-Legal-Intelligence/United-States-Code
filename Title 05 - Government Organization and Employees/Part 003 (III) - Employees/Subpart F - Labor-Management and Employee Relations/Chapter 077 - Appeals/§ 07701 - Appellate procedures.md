@@ -22,7 +22,7 @@
 
 (C) Nothing in the provisions of this paragraph may be construed to require any award of back pay or attorney fees be paid before the decision is final.
 
-(3) With respect to an appeal from an adverse action covered by subchapter V of chapter 75, authority to mitigate the personnel action involved shall be available, subject to the same standards as would apply in an appeal involving an action covered by subchapter II of chapter 75 with respect to which mitigation authority under this section exists.
+(3) With respect to an appeal from an adverse action covered by subchapter V of chapter 75, authority to mitigate the personnel action involved shall be available, subject to the samestandards as would apply in an appeal involving an action covered by subchapter II of chapter 75 with respect to which mitigation authority under this section exists.
 
 (c)(1) Subject to paragraph (2) of this subsection, the decision of the agency shall be sustained under subsection (b) only if the agency's decision—
 
@@ -74,7 +74,7 @@
 
 (i)(1) Upon the submission of any appeal to the Board under this section, the Board, through reference to such categories of cases, or other means, as it determines appropriate, shall establish and announce publicly the date by which it intends to complete action on the matter. Such date shall assure expeditious consideration of the appeal, consistent with the interests of fairness and other priorities of the Board. If the Board fails to complete action on the appeal by the announced date, and the expected delay will exceed 30 days, the Board shall publicly announce the new date by which it intends to complete action on the appeal.
 
-(2) Not later than March 1 of each year, the Board shall submit to the Congress a report describing the number of appeals submitted to it during the preceding fiscal year, the number of appeals on which it completed action during that year, and the number of instances during that year in which it failed to conclude a proceeding by the date originally announced, together with an explanation of the reasons therefor.
+(2) Not later than March 1 of each year, the Board shall submit to the Congress a report describing the number of appeals submitted to it during the preceding fiscal year, the number of appeals on which it completed action duringthat year, and the number of instances during that year in which it failed to conclude a proceeding by the date originally announced, together with an explanation of the reasons therefor.
 
 (3) The Board shall by rule indicate any other category of significant Board action which the Board determines should be subject to the provisions of this subsection.
 
@@ -106,35 +106,35 @@ Aug. 4, 1947, ch. 447, 61 Stat. 723.
 
 June 22, 1948, ch. 604, 62 Stat. 575.
 
-The application of the section is established by the words “A preference eligible employee as defined by section 7511 of this title”. Specific mention of the actions appealable are covered by the reference to “an adverse decision under section 7512 of this title”. The words “administrative authority” are substituted for “administrative officer” to avoid conflict with the definitions of “employee” and “officer” in chapter 21 of this title and to include an individual who is employed by the government of the District of Columbia or who is a member of a uniformed service as such an individual could have been an “administrative officer” under former section 863. The words “the date of” in thephrase “after the date of receipt of notice” are omitted as unnecessary. The words “reasonable rules and” in the phrase “reasonable rules and regulations” are omitted as unnecessary. The word “proper” in the phrase “proper administrative officer” is omitted as unnecessary. The word “designated” in the phrase “designated representative” is omitted as unnecessary.
+The application of the section is established by the words “A preference eligible employee as defined by section 7511 of this title”. Specific mention of the actions appealable are covered by the reference to “an adverse decision under section 7512 of this title”. The words “administrative authority” are substituted for “administrative officer” to avoid conflict with the definitions of “employee” and “officer” in chapter 21 of this title and to include an individual who is employed by the government of the District of Columbia or who is a member of a uniformed service as such an individual could have been an “administrative officer” under former section 863. The words “the date of” in the phrase “after the date of receipt of notice” are omitted as unnecessary. The words “reasonable rules and” in the phrase “reasonable rules and regulations” are omitted as unnecessary. The word “proper” in the phrase “proper administrative officer” is omitted as unnecessary. The word “designated” in the phrase “designated representative” is omitted as unnecessary.
 
 Standard changes are made to conform with the definitions applicable and the style of this title outlined in preface to the report.
 
 #### Amendments
 
-2002—Subsec. (c)(1)(A). Pub. L. 107–296, which directed the amendment of subpar. (A) by striking “or removal from the Senior Executive Service for failure to be recertified under section 3393a”, was executed by striking out “or a removal from the Senior Executive Service for failure to be recertified under section 3393a” after “section 4303” to reflect the probable intent of Congress.
+<b>2002</b>—Subsec. (c)(1)(A). Pub. L. 107–296, which directed the amendment of subpar. (A) by striking “or removal from the Senior Executive Service for failure to be recertified under section 3393a”, was executed by striking out “or a removal from the Senior Executive Service for failure to be recertified under section 3393a” after “section 4303” to reflect the probable intent of Congress.
 
-1992—Subsec. (c)(1)(A). Pub. L. 102–378 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “in the case of an action based on unacceptable performance described in section 4303 or a removal from the Senior Executive Service for failure to be recertified under section 3393a of this title, is supported by substantial evidence, or”.
+<b>1992</b>—Subsec. (c)(1)(A). Pub. L. 102–378 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “in the case of an action based on unacceptable performance described in section 4303 or a removal from the Senior Executive Service for failure to be recertified under section 3393a of this title, is supported by substantial evidence, or”.
 
-1991—Subsec. (b)(3). Pub. L. 102–175 added par. (3).
+<b>1991</b>—Subsec. (b)(3). Pub. L. 102–175 added par. (3).
 
-1990—Subsec. (c)(1)(A). Pub. L. 101–280 amended Pub. L. 101–194, see 1989 Amendment note below.
+<b>1990</b>—Subsec. (c)(1)(A). Pub. L. 101–280 amended Pub. L. 101–194, see 1989 Amendment note below.
 
 Subsecs. (j), (k). Pub. L. 101–376 added subsec. (j) and redesignated former subsec. (j) as (k).
 
-1989—Subsec. (b). Pub. L. 101–12 designated existing provisions as par. (1) and added par. (2).
+<b>1989</b>—Subsec. (b). Pub. L. 101–12 designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (c)(1)(A). Pub. L. 101–194, as amended by Pub. L. 101–280, which directed the substitution of “or a removal from the Senior Executive Service for failure to be recertified under section 3393a of” for “of”, was executed by making the substitution for the second reference to “of” as the probable intent of Congress.
 
-1986—Subsec. (i)(2). Pub. L. 99–386 substituted “fiscal” for “calendar”.
+<b>1986</b>—Subsec. (i)(2). Pub. L. 99–386 substituted “fiscal” for “calendar”.
 
-1979—Subsec. (e)(1). Pub. L. 96–54, §2(a)(45)(A), substituted “administrative” for “administration”.
+<b>1979</b>—Subsec. (e)(1). Pub. L. 96–54, §2(a)(45)(A), substituted “administrative” for “administration”.
 
 Subsec. (g)(1). Pub. L. 96–54, §2(a)(45)(B), substituted “(as the case may be)” for “, as the case may be,”.
 
 Subsec. (h). Pub. L. 96–54, §2(a)(45)(C), substituted “subsection (e)” for “subsection (d)”.
 
-1978—Pub. L. 95–454 substituted “Appellate procedures” for “Appeals of preference eligibles” in section catchline, and in text substituted provisions relating to procedures applicable with respect to the Merit Systems Protection Board for an employee or applicant for employment, for provisions relating to appeals of preference eligible employees.
+<b>1978</b>—Pub. L. 95–454 substituted “Appellate procedures” for “Appeals of preference eligibles” in section catchline, and in text substituted provisions relating to procedures applicable with respect to the Merit Systems Protection Board for an employee or applicant for employment, for provisions relating to appeals of preference eligible employees.
 
 #### Effective Date of 2002 Amendment
 

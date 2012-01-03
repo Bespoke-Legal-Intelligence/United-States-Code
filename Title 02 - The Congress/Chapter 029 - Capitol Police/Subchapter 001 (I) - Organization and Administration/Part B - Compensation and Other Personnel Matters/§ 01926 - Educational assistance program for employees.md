@@ -38,11 +38,11 @@ This section shall apply with respect to fiscal year 2003 and each succeeding fi
 
 #### Codification
 
-Section was classified to section 207b–1 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 207b–1 of former Title 40, prior to the enactment of Title 40, PublicBuildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
 
 #### Amendments
 
-2003—Pub. L. 108–7 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (f) relating to student loan repayment program.
+<b>2003</b>—Pub. L. 108–7 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (f) relating to student loan repayment program.
 
 #### Deadline for Regulations
 

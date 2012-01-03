@@ -12,7 +12,7 @@ In division C, the term “competitive procedures” means procedures under whic
 
 &emsp;&emsp;(B) orders and contracts under those procedures result in the lowest overall cost alternative to meet the needs of the Federal Government;
 
-&emsp;(4) procurements conducted in furtherance of section 15 of the Small Business Act (15 U.S.C. 644) as long as all responsible business concerns that are entitled to submit offers for those procurements are permitted to compete; and
+&emsp;(4) procurements conducted in furtherance of section 15 of the Small Business Act (15 U.S.C.644) as long as all responsible business concerns that are entitled to submit offers for those procurements are permitted to compete; and
 
 &emsp;(5) a competitive selection of research proposals resulting from a general solicitation and peer review or scientific review (as appropriate) solicited pursuant to section 9 of that Act (15 U.S.C. 638).
 

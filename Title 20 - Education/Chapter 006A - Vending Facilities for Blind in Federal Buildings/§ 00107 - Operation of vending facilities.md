@@ -12,9 +12,9 @@ In authorizing the operation of vending facilities on Federal property, priority
 
 &emsp;(2) wherever feasible, one or more vending facilities are established on all Federal property to the extent that any such facility or facilities would not adversely affect the interests of the United States.
 
-> Any limitation on the placement or operation of a vending facility based on a finding that such placement or operation would adversely affect the interests of the United States shall be fully justified in writing to the Secretary, who shall determine whether such limitation is justified. A determination made by the Secretary pursuant to this provision shall be binding on any department, agency, or instrumentality of the United States affected by such determination. The Secretary shall publish such determination, along with supporting documentation, in the Federal Register.
+> Any limitation on the placement or operation of a vending facility based on a finding that suchplacement or operation would adversely affect the interests of the United States shall be fully justified in writing to the Secretary, who shall determine whether such limitation is justified. A determination made by the Secretary pursuant to this provision shall be binding on any department, agency, or instrumentality of the United States affected by such determination. The Secretary shall publish such determination, along with supporting documentation, in the Federal Register.
 
-(June 20, 1936, ch. 638, §1, 49 Stat. 1559; Aug. 3, 1954, ch. 655, §4(a), 68 Stat. 663; Pub. L. 93–516,title II, §202, Dec. 7, 1974, 88 Stat. 1623; Pub. L. 93–651, title II, §202, Nov. 21, 1974, 89 Stat. 2–8.)
+(June 20, 1936, ch. 638, §1, 49 Stat. 1559; Aug. 3, 1954, ch. 655, §4(a), 68 Stat. 663; Pub. L. 93–516, title II, §202, Dec. 7, 1974, 88 Stat. 1623; Pub. L. 93–651, title II, §202, Nov. 21, 1974, 89 Stat. 2–8.)
 
 #### Codification
 

@@ -46,13 +46,15 @@ Status Not Affected by Temporary Duty or Leave.—The service of a member in an 
 
 (g)
 
-Termination of Authority.—No agreement under this section may be entered into after December 31, 2011.
+Termination of Authority.—No agreement under this section may be entered into after December 31, 2012.
 
-(Added Pub. L. 107–314, div. A, title VI, §616(a)(1), Dec. 2, 2002, 116 Stat. 2569; amended Pub. L. 108–375, div. A, title VI, §§614(b), 617(a), (b), Oct. 28, 2004, 118 Stat. 1947, 1948; Pub. L. 109–163, div. A, title VI, §§624(b), 628, 687(b)(13), Jan. 6, 2006, 119 Stat. 3295, 3296, 3329; Pub. L. 109–364, div. A, title VI, §614(b), Oct. 17, 2006, 120 Stat. 2248; Pub. L. 110–417, \[div. A\], title VI, §614(b), Oct. 14, 2008, 122 Stat. 4485; Pub. L. 111–84, div. A, title VI, §615(2), Oct. 28, 2009, 123 Stat. 2354; Pub. L. 111–383, div. A, title VI, §615(2), Jan. 7, 2011, 124 Stat. 4237.)
+(Added Pub. L. 107–314, div. A, title VI, §616(a)(1), Dec. 2, 2002, 116 Stat. 2569; amended Pub. L. 108–375, div. A, title VI, §§614(b), 617(a), (b), Oct. 28, 2004, 118 Stat. 1947, 1948; Pub. L. 109–163, div. A, title VI, §§624(b), 628, 687(b)(13), Jan. 6, 2006, 119 Stat. 3295, 3296, 3329; Pub. L. 109–364, div. A, title VI, §614(b), Oct. 17, 2006, 120 Stat. 2248; Pub. L. 110–417, \[div. A\], title VI, §614(b), Oct. 14, 2008, 122 Stat. 4485; Pub. L. 111–84, div. A, title VI, §615(2), Oct. 28, 2009, 123 Stat. 2354; Pub. L. 111–383, div. A, title VI, §615(2), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §615(2), Dec. 31, 2011, 125 Stat. 1450.)
 
 #### Amendments
 
-<b>2011</b>—Subsec. (g). Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
+<b>2011</b>—Subsec. (g). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
+
+Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
 
 <b>2009</b>—Subsec. (g). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
 
@@ -92,7 +94,7 @@ Subsec. (f). Pub. L. 108–375, §614(b), substituted “December 31, 2006” fo
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–375, div. A, title VI, §617(c), Oct. 28, 2004, 118 Stat. 1949, provided that: “Paragraph (2) of section 307a(e) of title 37, United States Code, as added by subsection (b), shall apply with respect to authorized leave occurring on or after the date of the enactment of this Act \[Oct. 28, 2004\].”
+Pub. L. 108–375, div. A, title VI, §617(c), Oct. 28, 2004, 118 Stat. 1949, provided that: “Paragraph (2) of section307a(e) of title 37, United States Code, as added by subsection (b), shall apply with respect to authorized leave occurring on or after the date of the enactment of this Act \[Oct. 28, 2004\].”
 
 #### Savings Provision
 

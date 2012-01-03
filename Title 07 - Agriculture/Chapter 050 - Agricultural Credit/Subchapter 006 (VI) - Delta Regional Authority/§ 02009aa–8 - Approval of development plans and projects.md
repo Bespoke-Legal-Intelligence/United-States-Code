@@ -28,7 +28,7 @@ On certification by a State member of the Authority of an application for a gran
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–171, §6027(f)(1), inserted “and approved” after “reviewed”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–171, §6027(f)(1), inserted “and approved” after “reviewed”.
 
 Subsec. (d). Pub. L. 107–171, §6027(f)(2), substituted “Approval of grant applications” for “Votes for decisions” in heading.
 

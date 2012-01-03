@@ -58,7 +58,7 @@ Tenth. To prescribe by its Board of Directors such rules and regulations as it m
 
 #### (E) Rule of construction
 
-&emsp;&emsp;Subparagraph (D) shall not be construed as limiting the right of the Corporation to invoke the jurisdiction of any United States district court in any action described in such subparagraph if the institution of which the Corporation has been appointedreceiver could have invoked the jurisdiction of such court.
+&emsp;&emsp;Subparagraph (D) shall not be construed as limiting the right of the Corporation to invoke the jurisdiction of any United States district court in any action described in such subparagraph if the institution of which the Corporation has been appointed receiver could have invoked the jurisdiction of such court.
 
 #### (3) Service of process
 
@@ -68,7 +68,7 @@ Tenth. To prescribe by its Board of Directors such rules and regulations as it m
 
 &emsp;The Corporation shall not be required to post any bond to pursue any appeal and shall not be subject to payments of any filing fees in United States district courts or courts of appeal.
 
-(Sept. 21, 1950, ch. 967, §2\[9\], 64 Stat. 881; Pub. L. 89–695, title II, §205, Oct. 16, 1966, 80 Stat. 1055; Pub. L. 95–630, title III, §309, Nov. 10, 1978, 92 Stat. 3677; Pub. L. 101–73, title II, §209, Aug. 9, 1989, 103 Stat. 216; Pub. L. 102–242, title I, §161(d), Dec. 19, 1991, 105 Stat. 2286; Pub. L. 103–325, title III, §331(e), Sept. 23, 1994, 108 Stat. 2232.)
+(Sept. 21, 1950, ch. 967, §2\[9\], 64 Stat. 881; Pub. L. 89–695, title II, §205, Oct. 16, 1966, 80 Stat. 1055; Pub. L. 95–630, title III, §309, Nov. 10, 1978, 92Stat. 3677; Pub. L. 101–73, title II, §209, Aug. 9, 1989, 103 Stat. 216; Pub. L. 102–242, title I, §161(d), Dec. 19, 1991, 105 Stat. 2286; Pub. L. 103–325, title III, §331(e), Sept. 23, 1994, 108 Stat. 2232.)
 
 #### Prior Provisions
 
@@ -76,11 +76,11 @@ Section is derived from subsec. (j) of former section 264 of this title. See Cod
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–325 in par. Fourth inserted “by and through its own attorneys,” after “complain and defend,”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–325 in par. Fourth inserted “by and through its own attorneys,” after “complain and defend,”.
 
-1991—Subsec. (b)(2)(B). Pub. L. 102–242 inserted before period at end “before the end of the 90-day period beginning on the date the action, suit, or proceeding is filed against the Corporation or the Corporation is substituted as a party”.
+<b>1991</b>—Subsec. (b)(2)(B). Pub. L. 102–242 inserted before period at end “before the end of the 90-day period beginning on the date the action, suit, or proceeding is filed against the Corporation or the Corporation is substituted as a party”.
 
-1989—Subsec. (a). Pub. L. 101–73, §209(2), designated existing provisions as subsec. (a) and inserted heading.
+<b>1989</b>—Subsec. (a). Pub. L. 101–73, §209(2), designated existing provisions as subsec. (a) and inserted heading.
 
 Pub. L. 101–73, §209(3), amended par. Fourth generally. Prior to amendment, par. Fourth read as follows: “Fourth. To sue and be sued, complain and defend, in any court of law or equity, State or Federal. All suits of a civil nature at common law or in equity to which the Corporation shall be a party shall be deemed to arise under the laws of the United States, and the United States district courts shall have original jurisdiction thereof, without regard to the amount in controversy; and the Corporation may, without bond or security, remove any such action, suit, or proceeding from a State court to the United States district court for the district or division embracing the place where the same is pending by following any procedure for removal now or hereafter in effect, except that any such suit to which the Corporation is a party in its capacity as receiver of a State bank and which involves only the rights or obligations of depositors, creditors, stockholders, and such State bank under State law shall not be deemed to arise under the laws of the United States. No attachment or execution shall be issued against the Corporation or its property before final judgment in any suit, action, or proceeding in any State, county, municipal, or United States court. The Board of Directors shall designate an agent upon whom service of process may be made in any State, Territory, or jurisdiction in which any insured bank is located.”
 
@@ -88,9 +88,9 @@ Pub. L. 101–73, §209(1), in par. Eighth, substituted reference to depository 
 
 Subsec. (b). Pub. L. 101–73, §209(4), added subsec. (b).
 
-1978—Pub. L. 95–630 in par. Tenth inserted “or of any other law which it has the responsibility of administering or enforcing (except to the extent that authority to issue such rules and regulations has been expressly and exclusively granted to any other regulatory agency)” after “provisions of this chapter”.
+<b>1978</b>—Pub. L. 95–630 in par. Tenth inserted “or of any other law which it has the responsibility of administering or enforcing (except to the extent that authority to issue such rules and regulations has been expressly and exclusively granted to any other regulatory agency)” after “provisions of this chapter”.
 
-1966—Pub. L. 89–695 in par. Fourth vested United States district courts, without regard to the amount in controversy, with original jurisdiction over any action to which the Corporation is a party and authorized the removal of such actions to the Federal courts.
+<b>1966</b>—Pub. L. 89–695 in par. Fourth vested United States district courts, without regard to the amount in controversy, with original jurisdiction over any action to which the Corporation is a party and authorized the removal of such actions to the Federal courts.
 
 #### Effective Date of 1978 Amendment
 

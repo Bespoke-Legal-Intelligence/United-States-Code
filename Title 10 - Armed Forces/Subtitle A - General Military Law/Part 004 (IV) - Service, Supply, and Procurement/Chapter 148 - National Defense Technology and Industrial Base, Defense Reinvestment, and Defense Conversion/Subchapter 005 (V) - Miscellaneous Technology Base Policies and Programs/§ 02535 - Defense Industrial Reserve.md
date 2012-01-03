@@ -20,7 +20,7 @@ Powers and Duties of the Secretary of Defense.—(1) To execute the policy set f
 
 &emsp;(B) designate what excess industrial property shall be disposed of;
 
-&emsp;(C) establish general policies and provide for the transportation, handling, care, storage, protection, maintenance, repair, rebuilding, utilization, recording, leasing and security of such property;
+&emsp;(C) establish general policies and provide for the transportation, handling, care, storage,protection, maintenance, repair, rebuilding, utilization, recording, leasing and security of such property;
 
 &emsp;(D) direct the transfer without reimbursement of such property to other Government agencies with the consent of such agencies;
 

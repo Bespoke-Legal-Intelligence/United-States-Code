@@ -28,7 +28,7 @@ On the date that is 6 years after May 21, 2008, there shall be established a com
 
 &emsp;&emsp;(G) 1 member shall be appointed by the Chairman of the Committee on Education and Labor of the House of Representatives; and
 
-&emsp;&emsp;(H) 1 member shall be appointed by the ranking minority member of the Committeeon Education and Labor of the House of Representatives.
+&emsp;&emsp;(H) 1 member shall be appointed by the ranking minority member of the Committee on Education and Labor of the House of Representatives.
 
 #### (2) Compensation and expenses
 
@@ -50,7 +50,7 @@ On the date that is 6 years after May 21, 2008, there shall be established a com
 
 #### (4) Hearings
 
-&emsp;The Commission may hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence as the Commission considers advisable to carry out the objectives of this section, except that, to the extent possible, the Commission shall use existing data and research.
+&emsp;The Commission may hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence as the Commission considers advisable to carry out the objectives of this section, except that, tothe extent possible, the Commission shall use existing data and research.
 
 #### (5) Postal services
 
@@ -69,4 +69,8 @@ There are authorized to be appropriated to the Equal Employment Opportunity Comm
 #### References in Text
 
 This Act, referred to in subsecs. (a), (b), and (e), is Pub. L. 110–233, May 21, 2008, 122 Stat. 881, known as the Genetic Information Nondiscrimination Act of 2008. For complete classification of this Act to the Code, see Short Title note set out under section 2000ff of this title and Tables.
+
+#### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 

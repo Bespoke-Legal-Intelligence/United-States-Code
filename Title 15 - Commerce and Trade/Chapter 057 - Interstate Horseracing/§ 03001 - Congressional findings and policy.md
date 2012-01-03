@@ -2,7 +2,7 @@
 
 (a) The Congress finds that—
 
-&emsp;(1) the States should have the primary responsibility for determining what forms ofgambling may legally take place within their borders;
+&emsp;(1) the States should have the primary responsibility for determining what forms of gambling may legally take place within their borders;
 
 &emsp;(2) the Federal Government should prevent interference by one State with the gambling policies of another, and should act to protect identifiable national interests; and
 
@@ -16,7 +16,7 @@
 
 Section 9 of Pub. L. 95–515 provided that:
 
-“(a) The provisions of this Act \[this chapter\] shall take effect on the date of enactment of this Act \[Oct. 25, 1978\], and, except as provided in subsection (b) of this section, shall apply to any interstate off-track wager accepted on or after such date of enactment.
+“(a) The provisions of this Act \[this chapter\] shall take effect on the date of enactment of this Act \[Oct.25, 1978\], and, except as provided in subsection (b) of this section, shall apply to any interstate off-track wager accepted on or after such date of enactment.
 
 “(b)(1) The provisions of this Act \[this chapter\] shall not apply to any interstate off-track wager which is accepted pursuant to a contract existing on May 1, 1978.
 

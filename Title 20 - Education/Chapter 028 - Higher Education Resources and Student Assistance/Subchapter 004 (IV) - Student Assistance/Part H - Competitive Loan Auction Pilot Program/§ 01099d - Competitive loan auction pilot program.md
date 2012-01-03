@@ -34,7 +34,7 @@ The Secretary shall carry out a pilot program under which the Secretary establis
 
 #### (B) Prequalification process
 
-&emsp;&emsp;The Secretary establishes a prequalification process for eligible lenders desiring to participate in an auction under this paragraph that contains, at a minimum—
+&emsp;&emsp;The Secretary establishes a prequalification process for eligible lendersdesiring to participate in an auction under this paragraph that contains, at a minimum—
 
 &emsp;&emsp;&emsp;(i) a set of borrower benefits and servicing requirements each eligible lender shall meet in order to participate in such an auction;
 
@@ -102,7 +102,7 @@ The Secretary shall carry out a pilot program under which the Secretary establis
 
 #### (ii) Determination of eligible lender of last resort
 
-&emsp;&emsp;&emsp;Prior to the start of any auction under this paragraph, eligible lenders that desire to serve as an eligible lender of last resort shall submit an application to the Secretary at such time and in such manner as the Secretary may determine. Such application shall include an assurance that the eligible lender will meet the prequalification requirements described in subparagraph (B).
+&emsp;&emsp;&emsp;Prior to the start of any auction under this paragraph, eligible lenders that desireto serve as an eligible lender of last resort shall submit an application to the Secretary at such time and in such manner as the Secretary may determine. Such application shall include an assurance that the eligible lender will meet the prequalification requirements described in subparagraph (B).
 
 #### (iii) Geographic location
 

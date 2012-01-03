@@ -20,7 +20,7 @@ The Department of State may award an overseas public diplomacy grant under proce
 
 (1) After October 1, 1991, overseas public diplomacy grants awarded by the Department of State shall substantially comply with Department of State grant guidelines and applicable circulars of the Office of Management and Budget.
 
-(2) If the Agency <sup>1</sup> determines that a grantee has not satisfied the requirement of paragraph (1), the Department of State shall notify the grantee of the suspension of payments under a grant unless compliance is achieved within 90 days of such notice.
+(2) If the Agency <sup>1</sup> determines that a grantee has not satisfied the requirement of paragraph (1), the Department of State shall notify thegrantee of the suspension of payments under a grant unless compliance is achieved within 90 days of such notice.
 
 (3) The Agency <sup>1</sup> shall suspend payments under any such grant which remains in noncompliance 90 days after notification under paragraph (2).
 

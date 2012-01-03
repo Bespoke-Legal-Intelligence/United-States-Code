@@ -22,7 +22,7 @@ Review.—(1) Upon the request of a covered individual, or a surviving spouse, n
 
 (3) If the Physical Disability Board of Review proposes to review, upon its own motion, the findings and decisions of the Physical Evaluation Board with respect to a covered individual, the Physical Disability Board of Review shall notify the covered individual, or a surviving spouse, next of kin, or legal representative of the covered individual, of the proposed review and obtain the consent of the covered individual or a surviving spouse, next of kin, or legal representative of the covered individual before proceeding with the review.
 
-(4) With respect to any review by the Physical Disability Board of Review of the findings and decisions of the Physical Evaluation Board with respect to a covered individual, whether initiated at the request of the covered individual or a surviving spouse, next of kin, or legal representative of the covered individual or initiated by the Physical Disability Board of Review, the Physical Disability Board of Review shall notify the covered individual or a surviving spouse, next of kin, or legal representative of the covered individual that, as a result of the request orconsent, the covered individual or a surviving spouse, next of kin, or legal representative of the covered individual may not seek relief from the Board for Correction of Military Records operated by the Secretary concerned.
+(4) With respect to any review by the Physical Disability Board of Review of the findings and decisions of the Physical Evaluation Board with respect to a covered individual, whether initiated at the request of the covered individual or a surviving spouse, next of kin, or legal representative of the covered individual or initiated by the Physical Disability Board of Review, the Physical Disability Board of Review shall notify the covered individual or a surviving spouse, next of kin, or legal representative of the covered individual that, as a result of the request or consent, the covered individual or a surviving spouse, next of kin, or legal representative of the covered individual may not seek relief from the Board for Correction of Military Records operated by the Secretary concerned.
 
 (d)
 
@@ -48,7 +48,7 @@ Correction of Military Records.—(1) The Secretary concerned may correct the mi
 
 (2) The regulations under paragraph (1) shall specify reasonable deadlines for the performance of reviews required by this section.
 
-(3) The regulations under paragraph (1) shall specify the effect of a determination or pending determination of a Physical Evaluation Board on considerations by boards for correction of military records under section 1552 of this title.
+(3) The regulations under paragraph (1) shall specify the effect of a determination or pendingdetermination of a Physical Evaluation Board on considerations by boards for correction of military records under section 1552 of this title.
 
 (Added Pub. L. 110–181, div. A, title XVI, §1643(a)(1), Jan. 28, 2008, 122 Stat. 465.)
 

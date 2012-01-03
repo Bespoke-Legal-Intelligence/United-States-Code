@@ -20,7 +20,7 @@ For purposes of this section, the following definitions apply:
 
 &emsp;&emsp;(A) means assistance provided by the Federal Government to be used in connection with the provision of housing,<sup>1</sup> that is provided in the form of a grant, contract, loan, loan guarantee, cooperative agreement, interest subsidy, insurance, or direct appropriation; and
 
-&emsp;&emsp;(B) does not include assistance provided by the Secretary of Veterans Affairs; the Federal Emergency Management Agency; the Secretary of Housing and Urban Development under the single family mortgage insurance programs under the National Housing Act \[12 U.S.C. 1701 et seq.\] or the homeownership assistance program under section 235 of such Act \[12 U.S.C. 1715z\]; the National Homeownership Trust; the Federal Deposit Insurance Corporation under the affordable housing program under section 1831q of title 12; or the Resolution Trust Corporation under the affordable housing program under section 1441a(c) of title 12.
+&emsp;&emsp;(B) does not include assistance provided by the Secretary of Veterans Affairs; the Federal Emergency Management Agency; the Secretary of Housing and Urban Development under the single family mortgage insurance programs under the National Housing Act \[12 U.S.C. 1701 et seq.\] or the homeownership assistance program under section 235 of such Act \[12 U.S.C. 1715z\]; the National Homeownership Trust; the Federal Deposit Insurance Corporation under the affordable housing program under section 1831q of title 12; or the Resolution Trust Corporation under the affordable housing program under section 1441a(c) <sup>2</sup> of title 12.
 
 &emsp;(6) The term “hazardous areas” means those areas in a building referred to as hazardous areas in National Fire Protection Association Standard 101, known as the Life Safety Code, or any successor standard thereto.
 
@@ -64,7 +64,7 @@ For purposes of this section, the following definitions apply:
 
 (3) No Federal funds may be used for the renovation of a Federal employee office building of 6 or more stories that is owned by the Federal Government unless after that renovation the Federal employee office building is protected by an automatic sprinkler system or equivalent level of safety. No Federal funds may be used for the renovation of any other Federal employee office building that is owned by the Federal Government unless after that renovation the hazardous areas of the Federal employee office building are protected by automatic sprinkler systems or an equivalent level of safety.
 
-(4) No Federal funds may be used for entering into or renewing a lease of a Federal employee office building of 6 or more stories that is renovated after October 26, 1992, where at least some portion of the federally leased space is on the sixth floor or above and at least 35,000 square feet of space is federally occupied, unless after that renovation the Federal employee office building is protected by an automatic sprinkler system or equivalent level of safety. No Federal funds may be used for entering into or renewing a lease of any other Federal employeeoffice building that is renovated after October 26, 1992, unless after that renovation the hazardous areas of the Federal employee office building are protected by automatic sprinkler systems or an equivalent level of safety.
+(4) No Federal funds may be used for entering into or renewing a lease of a Federal employee office building of 6 or more stories that is renovated after October 26, 1992, where at least some portion of the federally leased space is on the sixth floor or above and at least 35,000 square feet of space is federally occupied, unless after that renovation the Federal employee office building is protected by an automatic sprinkler system or equivalent level of safety. No Federal funds may be used for entering into or renewing a lease of any other Federal employee office building that is renovated after October 26, 1992, unless after that renovation the hazardous areas of the Federal employee office building are protected by automatic sprinkler systems or an equivalent level of safety.
 
 #### (c) Housing
 
@@ -118,7 +118,7 @@ Nothing in this section shall be construed to limit the power of any State or po
 
 #### (f) Prefire plan
 
-The head of any Federal agency that owns, leases, or operates a building or housing unit with Federal funds shall invite the local agencyor voluntary organization having responsibility for fire protection in the jurisdiction where the building or housing unit is located to prepare, and biennially review, a prefire plan for the building or housing unit.
+The head of any Federal agency that owns, leases, or operates a building or housing unit with Federal funds shall invite the local agency or voluntary organization having responsibility for fire protection in the jurisdiction where the building or housing unit is located to prepare, and biennially review, a prefire plan for the building or housing unit.
 
 #### (g) Reports to Congress
 
@@ -144,6 +144,8 @@ In the implementation of this section, the process for meeting space needs in ur
 
 The National Housing Act, referred to in subsec. (a)(5)(B), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to chapter 13 (§1701 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see References in Text note set out under section 1701 of Title 12 and Tables.
 
+Section 1441a(c) of title 12, referred to in subsec. (a)(5)(B), was repealed by Pub. L. 111–203, title III, §364(b), July 21, 2010, 124 Stat. 1555.
+
 #### Amendments
 
 <b>1997</b>—Subsec. (c)(2)(B)(i). Pub. L. 105–108, §3(4), inserted “or any successor standard to that standard” after “(known as the Life Safety Code)”.
@@ -167,4 +169,6 @@ For transfer of all functions, personnel, assets, components, authorities, grant
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

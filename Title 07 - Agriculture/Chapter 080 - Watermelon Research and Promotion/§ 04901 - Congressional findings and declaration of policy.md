@@ -20,7 +20,7 @@
 
 #### Amendments
 
-1993—Subsec. (a)(5). Pub. L. 103–189, §8(k)(1), substituted “handling, and importing” for “and handling”.
+<b>1993</b>—Subsec. (a)(5). Pub. L. 103–189, §8(k)(1), substituted “handling, and importing” for “and handling”.
 
 Subsec. (b). Pub. L. 103–189, §8(k)(2), inserted “, or imported into the United States,” after “harvested in the United States” and struck out “produced in the United States” after “foreign markets for watermelons”.
 

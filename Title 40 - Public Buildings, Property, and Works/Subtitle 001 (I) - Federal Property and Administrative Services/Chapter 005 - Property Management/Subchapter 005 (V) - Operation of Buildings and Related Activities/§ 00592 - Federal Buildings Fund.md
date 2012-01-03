@@ -70,7 +70,7 @@ Assignment of energy rebates.—In the administration of real property that the 
 
 &emsp;(4)
 
-Obligating amounts for energy management improvement programs.—In addition to amounts appropriated for energy management improvement programs and without regard to subsection (c)(1), the Administrator may obligate for those programs—
+Obligating amounts for energy management improvement programs.—In addition to amounts appropriated for energy management improvement programs and withoutregard to subsection (c)(1), the Administrator may obligate for those programs—
 
 &emsp;&emsp;(A) amounts received and deposited in the Fund under paragraph (1);
 

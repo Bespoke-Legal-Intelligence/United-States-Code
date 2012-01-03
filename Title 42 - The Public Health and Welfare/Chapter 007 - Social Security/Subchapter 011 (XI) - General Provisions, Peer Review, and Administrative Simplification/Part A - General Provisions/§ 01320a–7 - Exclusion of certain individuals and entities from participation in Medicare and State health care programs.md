@@ -18,7 +18,7 @@ The Secretary shall exclude the following individuals and entities from particip
 
 #### (4) Felony conviction relating to controlled substance
 
-&emsp;Any individual or entity that has been convicted for an offense which occurred after August 21, 1996, under Federal or State law, of a criminal offense consisting of a felony relating to the unlawful manufacture, distribution,prescription, or dispensing of a controlled substance.
+&emsp;Any individual or entity that has been convicted for an offense which occurred after August 21, 1996, under Federal or State law, of a criminal offense consisting of a felony relating to the unlawful manufacture, distribution, prescription, or dispensing of a controlled substance.
 
 #### (b) Permissive exclusion
 
@@ -70,7 +70,7 @@ The Secretary may exclude the following individuals and entities from participat
 
 &emsp;Any individual or entity that the Secretary determines—
 
-&emsp;&emsp;(A) has submitted or caused to be submitted bills or requests for payment (where such bills or requests are based on charges or cost) under subchapter XVIII of this chapter or a State health care program containing charges (or, in applicable cases, requests for payment of costs) for items or services furnished substantially in excess of such individual's or entity's usual charges (or, in applicable cases, substantially in excess of such individual's or entity's costs) for such items or services, unless the Secretary finds there is good cause for such bills or requests containing such charges or costs;
+&emsp;&emsp;(A) has submitted or caused to be submitted bills or requests for payment (where such bills or requests are based on charges or cost) under subchapter XVIII of this chapteror a State health care program containing charges (or, in applicable cases, requests for payment of costs) for items or services furnished substantially in excess of such individual's or entity's usual charges (or, in applicable cases, substantially in excess of such individual's or entity's costs) for such items or services, unless the Secretary finds there is good cause for such bills or requests containing such charges or costs;
 
 &emsp;&emsp;(B) has furnished or caused to be furnished items or services to patients (whether or not eligible for benefits under subchapter XVIII of this chapter or under a State health care program) substantially in excess of the needs of such patients or of a quality which fails to meet professionally recognized standards of health care;
 
@@ -230,7 +230,7 @@ The Secretary shall—
 
 (3) The provisions of section 405(h) of this title shall apply with respect to this section and sections 1320a–7a, 1320a–8, and 1320c–5 of this title to the same extent as it is applicable with respect to subchapter II of this chapter, except that, in so applying such section and section 405(<i>l</i>) of this title, any reference therein to the Commissioner of Social Security shall be considered a reference to the Secretary.
 
-(4) The provisions of subsections (d) and (e) of section 405 of this title shall apply with respect to this section to the same extent as they are applicable with respect to subchapter II. The Secretary may delegate the authority granted by section 405(d) of this title (as made applicable to this section) to the Inspector General of the Department of Health and Human Services for purposes of any investigation under this section.
+(4) The provisions of subsections (d) and (e) of section 405 of this title shall apply with respect to this section to the same extent as they areapplicable with respect to subchapter II. The Secretary may delegate the authority granted by section 405(d) of this title (as made applicable to this section) to the Inspector General of the Department of Health and Human Services for purposes of any investigation under this section.
 
 #### (g) Application for termination of exclusion
 
@@ -416,7 +416,7 @@ Section 206(b)(3) of Pub. L. 103–296 provided that: “The amendments made by 
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 applicable with respect to items or services furnished on or after Jan. 1,1993, in the case of items or services furnished by a provider who, on or before Nov. 5, 1990, has furnished items or services for which payment may be made under part B of subchapter XVIII of this chapter, or Jan. 1, 1992, in the case of items or services furnished by any other provider, see section 4164(b)(4) of Pub. L. 101–508, set out as an Effective Date note under section 1320a–3a of this title.
+Amendment by Pub. L. 101–508 applicable with respect to items or services furnished on or after Jan. 1, 1993, in the case of items or services furnished by a provider who, on or before Nov. 5, 1990, has furnished items or services for which payment may be made under part B of subchapter XVIII of this chapter, or Jan. 1, 1992, in the case of items or services furnished by any other provider, see section 4164(b)(4) of Pub. L. 101–508, set out as an Effective Date note under section 1320a–3a of this title.
 
 #### Effective Date of 1989 Amendment
 

@@ -76,7 +76,7 @@ Definitions.—In this subsection:
 
 &emsp;&emsp;(B) The term “nonprofit conservation organization” means any non-governmental nonprofit organization whose primary purpose is conservation of open space or natural resources.
 
-&emsp;&emsp;(C) The term “owner of covenant property” means an owner of property subject toa covenant provided by the United States in accordance with the requirements of paragraphs (3) and (4) of section 120(h) of CERCLA (42 U.S.C. 9620(h)), so long as the covenant property is the site at which the services procured under paragraph (1) are to be performed.
+&emsp;&emsp;(C) The term “owner of covenant property” means an owner of property subject to a covenant provided by the United States in accordance with the requirements of paragraphs (3) and (4) of section 120(h) of CERCLA (42 U.S.C. 9620(h)), so long as the covenant property is the site at which the services procured under paragraph (1) are to be performed.
 
 &emsp;(5)
 
@@ -158,7 +158,7 @@ A prior section 2701 was renumbered section 2721 of this title.
 
 <b>2006</b>—Subsec. (d)(1). Pub. L. 109–163, §312(a)(1), inserted “any owner of covenant property,” after “any Indian tribe,” and “owner,” after “, Indian tribe,”.
 
-Subsec. (d)(2). Pub. L. 109–364, §312, inserted at end “This two-year limitation does not apply to an agreement funded using amounts in the Department of Defense Base Closure Account 1990 or the Department of Defense Base Closure Account 2005 established under sections 2906 and 2906A of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note).”
+Subsec. (d)(2). Pub. L. 109–364, §312, inserted at end “This two-year limitation does not apply to an agreement funded using amounts in the Department of Defense Base Closure Account 1990 or the Department ofDefense Base Closure Account 2005 established under sections 2906 and 2906A of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note).”
 
 Subsec. (d)(3). Pub. L. 109–163, §312(a)(2), inserted “An agreement under such paragraph with respect to a site also may not change the cleanup standards selected for the site pursuant to law.” at end.
 
@@ -242,7 +242,7 @@ For effective date and applicability of amendment by section 4321(b)(22) of Pub.
 
 #### Prohibition on Disposing of Waste in Open-Air Burn Pits
 
-Pub. L. 111–84, div. A, title III, §317, Oct. 28, 2009, 123 Stat. 2249, provided that:
+Pub. L. 111–84, div. A, title III, §317, Oct. 28, 2009, 123 Stat. 2249, as amended by Pub. L. 112–81, div. A, title III, §316, Dec. 31, 2011, 125 Stat. 1358, provided that:
 
 “(a)
 
@@ -256,7 +256,7 @@ In general.—Not later than 120 days after the date of the enactment of this Ac
 
 Notification.—In determining that no alternative disposal method is feasible for an open-air burn pit pursuant to regulations prescribed under paragraph (1), the Secretary shall—
 
-&emsp;&emsp;“(A) not later than 30 days after such determination is made, submit to the Committees on Armed Services of the Senate and House of Representatives notice of such determination, including the circumstances, reasoning, and methodology that led to such determination; and
+&emsp;&emsp;“(A) not later than 30 days after such determination is made, submit to the Committees on ArmedServices of the Senate and House of Representatives notice of such determination, including the circumstances, reasoning, and methodology that led to such determination; and
 
 &emsp;&emsp;“(B) after notice is given under subparagraph (A), for each subsequent 180-day-period during which covered waste is disposed of in the open-air burn pit covered by such notice, submit to the Committees on Armed Services of the Senate and House of Representatives the justifications of the Secretary for continuing to operate such open-air burn pit.
 
@@ -279,6 +279,16 @@ Report.—Not later than 180 days after the date of the enactment of this Act \[
 &emsp;“(7) an assessment of the ability of existing medical surveillance programs to identify and track exposures to toxic substances that result from open-air burn pits, including recommendations for such changes to such programs as would be required to more accurately identify and track such exposures.
 
 “(c)
+
+Health Assessment Reports.—Not later than 180 days after notice is due under subsection (a)(2), the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a health assessment report on each open-air burn pit at a location where at least 100 personnel have been employed for 90 consecutive days or more. Each such report shall include each of the following:
+
+&emsp;“(1) An epidemiological description of the short-term and long-term health risks posed to personnel in the area where the burn pit is located because of exposure to the open-air burn pit.
+
+&emsp;“(2) A copy of the methodology used to determine the health risks described in paragraph (1).
+
+&emsp;“(3) A copy of the assessment of the operational risks and health risks when making the determination pursuant to subsection (a) that no alternative disposal method is feasible for the open-air burn pit.
+
+“(d)
 
 Definitions.—In this section:
 
@@ -338,7 +348,7 @@ Pub. L. 106–60, title VI, §611, Sept. 29, 1999, 113 Stat. 502, provided that:
 
 &emsp;“(6) Any other functions and activities determined by the Secretary of the Army, acting through the Chief of Engineers, as necessary for carrying out that program, including the acquisition of real estate interests where necessary, which may be transferred upon completion of remediation to the administrative jurisdiction of the Secretary of Energy.
 
-“(b) Any response action under that program by the Secretary of the Army, acting through the Chief of Engineers, shall be subject to the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601 et seq.) (in this section referred to as ‘CERCLA’), and the National Oil and Hazardous Substances Pollution Contingency Plan (40 CFR 300).
+“(b) Any response action under that program by the Secretary of the Army, acting through the Chief of Engineers, shall be subject to the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601 et seq.) (in this section referred toas ‘CERCLA’), and the National Oil and Hazardous Substances Pollution Contingency Plan (40 CFR 300).
 
 “(c) Any sums recovered under CERCLA or other authority from a liable party, contractor, insurer, surety, or other person for any expenditures by the Army Corps of Engineers or the Department of Energy for response actions under that program shall be credited to the amounts made available to carry out that program and shall be available until expended for costs of response actions for any eligible site.
 
@@ -430,7 +440,7 @@ Definition of Defense Site.—For purposes of this section, the term ‘defense 
 
 “(h)
 
-Report.—In the annual report required under section 2706(a) of title 10, United States Code, the Secretary shall include information on the land use plans developed under this section and the effect such plans have had on environmental restoration activities at the defense sites where they have been implemented. The annual report submitted in 1999 shall include recommendations on whether such land use plans should be developed and implemented throughout the Department of Defense.
+Report.—In the annual report required under \[former\] section 2706(a) of title 10, United States Code, the Secretary shall include information on the land use plans developed under this section and the effect such plans have had on environmental restoration activities at the defense sites where they have been implemented.The annual report submitted in 1999 shall include recommendations on whether such land use plans should be developed and implemented throughout the Department of Defense.
 
 “(i)
 
@@ -724,7 +734,7 @@ Definitions.—For purposes of this section:
 
 &emsp;&emsp;“(B) The Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note).
 
-&emsp;“(2) The term ‘hazardous substance research centers’ means the hazardous substance research centers described in section 311(d) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9660(d)). Such term includes the Great Plains and Rocky Mountain Hazardous Substance Research Center, the Northeast Hazardous Substance Research Center, the Great Lakes and Mid-Atlantic Hazardous Substance Research Center, the South and Southwest Hazardous Substance Research Center, and the Western Region Hazardous Substance Research Center.
+&emsp;“(2) The term ‘hazardous substance research centers’ means the hazardous substance research centers described in section 311(d) of the Comprehensive Environmental Response, Compensation, and LiabilityAct of 1980 (42 U.S.C. 9660(d)). Such term includes the Great Plains and Rocky Mountain Hazardous Substance Research Center, the Northeast Hazardous Substance Research Center, the Great Lakes and Mid-Atlantic Hazardous Substance Research Center, the South and Southwest Hazardous Substance Research Center, and the Western Region Hazardous Substance Research Center.
 
 &emsp;“(3) The term ‘institution of higher education’ has the same meaning given such term in section 101 of the Higher Education Act of 1965 \[20 U.S.C. 1001\].”
 
@@ -788,7 +798,7 @@ Selection of Installations and Facilities.—(1) For participation in the pilot 
 
 &emsp;“(C) not less than 4 facilities referred to in subsection (a)(3) with respect to each military department.
 
-“(2)(A) Except as provided in subparagraph (B), the selections under paragraph (1) shall be made not laterthan 60 days after the date of the enactment of this Act.
+“(2)(A) Except as provided in subparagraph (B), the selections under paragraph (1) shall be made not later than 60 days after the date of the enactment of this Act.
 
 “(B) The selections under paragraph (1) of military installations described in subparagraph (B)(ii) of such paragraph shall be made not later than 60 days after the date on which the deadline (set forth in section 2904(b) of such Act) for enacting a joint resolution of disapproval with respect to the report transmitted by the President has passed.
 
@@ -882,7 +892,7 @@ Selection for Service.—The Secretary shall annually review the number and perf
 
 Repayment.—(1) Any individual participating in a scholarship or fellowship program under this section shall agree to pay to the United States the total amount of educational assistance provided to the individual under the program, plus interest at the rate prescribed in paragraph (4), if—
 
-&emsp;“(A) the individual does not complete the educational program as agreed to pursuant to subsection\(c)(2)(B), or is selected by the Secretary under subsection (e) but declines to serve, or fails to complete the service, in a position in the Department of Defense as agreed to pursuant to subsection (c)(2)(D); or
+&emsp;“(A) the individual does not complete the educational program as agreed to pursuant to subsection (c)(2)(B), or is selected by the Secretary under subsection (e) but declines to serve, or fails to complete the service, in a position in the Department of Defense as agreed to pursuant to subsection (c)(2)(D); or
 
 &emsp;“(B) the individual is involuntarily separated for cause from the Department of Defense before the end of the period for which the individual has agreed to continue in the service of the Department of Defense.
 
@@ -980,7 +990,7 @@ Pub. L. 101–189, div. A, title III, §352, Nov. 29, 1989, 103 Stat. 1423, prov
 
 “(a)
 
-Environmental Data Base.—The Secretary of Defense shall develop and maintain a comprehensive data base on environmental activities carried out by the Department of Defense pursuant to, and environmental compliance obligations to which the Department is subject under, chapter 160 of title 10, United States Code, and all other applicable Federal and State environmental laws. At a minimum, the information in the data base shall include all the fines and penalties assessed against the Department of Defense pursuant to environmental laws and paid by the Department, all notices of violations of environmental laws received by the Department, and all obligations of the Department for compliance with environmental laws. The Secretary may include any other information he considers appropriate.
+Environmental Data Base.—The Secretary of Defense shall develop and maintain a comprehensive data base on environmental activities carried out bythe Department of Defense pursuant to, and environmental compliance obligations to which the Department is subject under, chapter 160 of title 10, United States Code, and all other applicable Federal and State environmental laws. At a minimum, the information in the data base shall include all the fines and penalties assessed against the Department of Defense pursuant to environmental laws and paid by the Department, all notices of violations of environmental laws received by the Department, and all obligations of the Department for compliance with environmental laws. The Secretary may include any other information he considers appropriate.
 
 “(b)
 
@@ -1038,7 +1048,7 @@ Pub. L. 101–189, div. A, title III, §358, Nov. 29, 1989, 103 Stat. 1427, dire
 
 #### Study of Waste Recycling
 
-Pub. L. 101–189, div. A, title III, §361, Nov. 29, 1989, 103 Stat. 1429, as amended by Pub. L. 101–510, div. A, title III, §343, Nov. 5, 1990, 104 Stat. 1538, required the Secretary of Defense to conduct a study of current practices and future plans for managing postconsumer waste at facilities of the Department of Defense at which such waste was generated and the feasibility of such Department of Defense facilities participating in programs at military installations or in local communities to recycle the postconsumer waste generated at the facilities, and to submit to Congress a report describing the findings and conclusions of the Secretary resulting from the study not later than Mar. 1, 1991.
+Pub. L. 101–189, div. A, title III, §361, Nov. 29, 1989, 103 Stat. 1429, as amended by Pub. L. 101–510, div. A, title III, §343, Nov. 5, 1990, 104 Stat. 1538, required the Secretary of Defense to conduct a study of current practices and future plans for managing postconsumer waste at facilities of the Department of Defense at which such waste was generated and the feasibility ofsuch Department of Defense facilities participating in programs at military installations or in local communities to recycle the postconsumer waste generated at the facilities, and to submit to Congress a report describing the findings and conclusions of the Secretary resulting from the study not later than Mar. 1, 1991.
 
 #### Use of Department of Defense Appropriations for Removal of Unsafe Buildings or Debris
 

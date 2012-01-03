@@ -36,7 +36,7 @@
 
 #### Amendments
 
-1993—Subsecs. (c), (d). Pub. L. 103–103 amended subsec. (c) generally and added subsec. (d). Prior to amendment, subsec. (c) read as follows:
+<b>1993</b>—Subsecs. (c), (d). Pub. L. 103–103 amended subsec. (c) generally and added subsec. (d). Prior to amendment, subsec. (c) read as follows:
 
 “(1) Any annual or sick leave accrued by an employee under this section shall be transferred to the appropriate leave account of such employee under subchapter I, effective as of the beginning of the first applicable pay period beginning after the date on which the employee's medical emergency terminates as described in paragraph (1) or (2) of section 6335(a).
 

@@ -6,7 +6,7 @@ A small business investment company shall be an incorporated body, a limited lia
 
 #### (b) Articles of incorporation; approval
 
-The articles of any small business investment company shall specify in general terms the objects for which the company is formed, the name assumed by such company, the area or areas in which its operations are to be carried on, the place where its principal office is to be located,and the amount and classes of its shares of capital stock. Such articles may contain any other provisions not inconsistent with this chapter that the company may see fit to adopt for the regulation of its business and the conduct of its affairs. Such articles and any amendments thereto adopted from time to time shall be subject to the approval of the Administration.
+The articles of any small business investment company shall specify in general terms the objects for which the company is formed, the name assumed by such company, the area or areas in which its operations are to be carried on, the place where its principal office is to be located, and the amount and classes of its shares of capital stock. Such articles may contain any other provisions not inconsistent with this chapter that the company may see fit to adopt for the regulation of its business and the conduct of its affairs. Such articles and any amendments thereto adopted from time to time shall be subject to the approval of the Administration.
 
 #### (c) Issuance of license
 
@@ -92,7 +92,7 @@ For definition of “this chapter”, referred to in subsecs. (b), (c), and (e),
 
 #### Amendments
 
-<b>1997</b>—Subsec. (c)(4)(B). Pub. L. 105–135, §212, amended heading and text of subpar. (B) generally. Prior toamendment, text read as follows: “An applicant licensed pursuant to the exception provided in this paragraph shall not be eligible to receive leverage as a licensee until the applicant satisfies the requirements of section 682(a) of this title.”
+<b>1997</b>—Subsec. (c)(4)(B). Pub. L. 105–135, §212, amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “An applicant licensed pursuant to the exception provided in this paragraph shall not be eligible to receive leverage as a licensee until the applicant satisfies the requirements of section 682(a) of this title.”
 
 Subsec. (e). Pub. L. 105–135, §214, added subsec. (e).
 
@@ -132,11 +132,11 @@ Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 
 
 #### Effective Date of 1967 Amendment
 
-Section 211 of title II of Pub. L. 90–104 provided that: “The effective date of this title \[amending this section and sections 682 to 684, 686, 687, 687b, and 692 of this title\] shall be ninety days after enactment \[Oct. 11, 1967\], except that, with respect to section 207 \[amending section 686 of this title\], it shall be January 1, 1968.”
+Pub. L. 90–104, title II, §211, Oct. 11, 1967, 81 Stat. 272, provided that: “The effective date of this title \[amending this section and sections 682 to 684, 686, 687, 687b, and 692 of this title\] shall be ninety days after enactment \[Oct. 11, 1967\], except that, with respect to section 207 \[amending section 686 of this title\], it shall be January 1, 1968.”
 
 #### Savings Provision
 
-Section 208(b)(3)(B) of div. D of Pub. L. 104–208 provided that: “The repeal under subparagraph (A) \[repealing subsec. (d) of this section\] shall not be construed to require the Administrator to cancel, revoke, withdraw, or modify any license issued under section 301(d) of the Small Business Investment Act of 1958 \[subsec. (d) of this section\] before the date of enactment of this Act \[Sept. 30, 1996\].”
+Pub. L. 104–208, div. D, title II, §208(b)(3)(B), Sept. 30, 1996, 110 Stat. 3009–742, provided that: “The repeal under subparagraph (A) \[repealing subsec. (d) of this section\] shall not be construed to require the Administrator to cancel, revoke, withdraw, or modify any license issued under section 301(d) of the Small Business Investment Act of 1958 \[subsec. (d) of this section\] before the date of enactment of this Act \[Sept. 30, 1996\].”
 
 #### Regulatory Review
 

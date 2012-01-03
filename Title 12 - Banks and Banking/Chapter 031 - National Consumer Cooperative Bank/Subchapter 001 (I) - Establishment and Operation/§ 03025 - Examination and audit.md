@@ -6,9 +6,9 @@ The Farm Credit Administration and the Government Accountability Office are here
 
 #### Amendments
 
-2004—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-1981—Pub. L. 97–35 substituted provisions relating to examination and audit by the Farm Credit Administration and the General Accounting Office, for provisions relating to annual examinations and audits by an agency or instrumentality of the Federal Government designated by the President.
+<b>1981</b>—Pub. L. 97–35 substituted provisions relating to examination and audit by the Farm Credit Administration and the General Accounting Office, for provisions relating to annual examinations and audits by an agency or instrumentality of the Federal Government designated by the President.
 
 #### Effective Date of 1981 Amendment
 

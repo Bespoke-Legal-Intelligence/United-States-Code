@@ -20,7 +20,7 @@ The Secretary of Health and Human Services (in this section referred to as the �
 
 &emsp;&emsp;(iv) information regarding other types of health insurance benefits that the Secretary determines to be appropriate;
 
-&emsp;(B) in conjunction with the health insurance information, counseling, and assistance program described in subparagraph (A), establish a system of referral to appropriate Federal orState departments or agencies for assistance with problems related to health insurance coverage (including legal problems), as determined by the Secretary;
+&emsp;(B) in conjunction with the health insurance information, counseling, and assistance program described in subparagraph (A), establish a system of referral to appropriate Federal or State departments or agencies for assistance with problems related to health insurance coverage (including legal problems), as determined by the Secretary;
 
 &emsp;(C) provide for a sufficient number of staff positions (including volunteer positions) necessary to provide the services of the health insurance information, counseling, and assistance program;
 
@@ -84,7 +84,7 @@ Beginning with 1992, and annually thereafter, the Secretary shall issue a report
 
 &emsp;(3) makes recommendations that the Secretary determines to be appropriate to address the problems described in paragraph (3); <sup>2</sup> and
 
-&emsp;(4) in the case of the report issued 2 years after November 5, 1990, evaluates the effectiveness of counseling programs established underthis program, and makes recommendations regarding continued authorization of funds for these purposes.
+&emsp;(4) in the case of the report issued 2 years after November 5, 1990, evaluates the effectiveness of counseling programs established under this program, and makes recommendations regarding continued authorization of funds for these purposes.
 
 #### (g) Authorization of appropriations for grants
 
@@ -120,7 +120,7 @@ Subsec. (e)(1). Pub. L. 103–432, §171(i)(6)(C), struck out “State-wide” b
 
 Subsec. (f). Pub. L. 103–437, §15(b)(1), in introductory provisions, substituted “and the Committee on Energy and Commerce” for “the Committee on Energy and Commerce of the House of Representatives, and the Select Committee on Aging”.
 
-Pub. L. 103–432, §171(i)(8)(B), and Pub. L. 103–437, §15(b)(2), made identical amendments, redesignating subsec. (f), relating to authorization of appropriations for grants, as (g).
+Pub. L. 103–432, §171(i)(8)(B), and Pub. L. 103–437, §15(b)(2), made identical amendments, redesignatingsubsec. (f), relating to authorization of appropriations for grants, as (g).
 
 Pub. L. 103–432, §171(i)(8)(A), in subsec. (f), relating to authorization of appropriations for grants, substituted “1993, 1994, 1995, and 1996” for “and 1993”.
 

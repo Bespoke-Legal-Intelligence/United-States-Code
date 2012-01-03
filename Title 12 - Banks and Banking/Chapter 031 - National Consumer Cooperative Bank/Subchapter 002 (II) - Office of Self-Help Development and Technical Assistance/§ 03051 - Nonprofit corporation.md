@@ -4,13 +4,13 @@
 
 (1) Upon the incorporation of the nonprofit corporation described in subsection (b) of this section, the Office of Self-Help Development and Technical Assistance is hereby abolished.
 
-(2)(A) If the nonprofit corporation described in subsection (b) of this section agrees to accept the liabilities of the Office, the Bank, notwithstanding any other provision of law, shall transfer all assets, liabilities, and property of the Office to such nonprofit corporation on the day on which such nonprofit corporation is incorporated.
+(2)(A) If the nonprofit corporation described in subsection (b) of this section agrees to accept the liabilities of the Office, the Bank, notwithstanding any other provision of law, shall transfer all assets, liabilities, and property of the Office to such nonprofit corporation on the day onwhich such nonprofit corporation is incorporated.
 
 (B) Such assets shall include all sums which are appropriated to the Office by the Congress and all sums which are contained in the Account established pursuant to section 3042 of this title. If any such sums are appropriated after the date on which the transfer described in subparagraph (A) occurs, the Bank shall promptly transfer such sums to such nonprofit corporation.
 
 #### (b) Establishment; Board of Directors; functions, etc.
 
-(1) As soon as possible after August 13, 1981, the Board shall establish a nonprofit corporation under the laws of the District of Columbiaand, notwithstanding the laws of the District of Columbia, name the directors of such nonprofit corporation.
+(1) As soon as possible after August 13, 1981, the Board shall establish a nonprofit corporation under the laws of the District of Columbia and, notwithstanding the laws of the District of Columbia, name the directors of such nonprofit corporation.
 
 (2) Notwithstanding the laws of the District of Columbia, the Board of Directors of such nonprofit corporation shall—
 
@@ -62,5 +62,5 @@ Notwithstanding the laws of the District of Columbia, the Board of Directors of 
 
 #### Amendments
 
-1986—Subsecs. (b)(3)(C), (c), (d)(2), (3). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954” wherever appearing, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsecs. (b)(3)(C), (c), (d)(2), (3). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954” wherever appearing, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 

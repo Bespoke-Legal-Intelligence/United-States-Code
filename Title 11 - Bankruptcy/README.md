@@ -1,5 +1,5 @@
 
-11 U.S.C.<br>United States Code, 2010 Edition<br>Title 11 - BANKRUPTCY<br>From the U.S. Government Publishing Office, www.gpo.gov
+11 U.S.C.<br>United States Code, 2011 Edition<br>Title 11 - BANKRUPTCY<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 11—BANKRUPTCY
 
@@ -26,11 +26,11 @@
 
 #### Amendments
 
-2005—Pub. L. 109–8, title VIII, §801(b), title X, §1007(d), Apr. 20, 2005, 119 Stat. 145, 188, substituted “Adjustments of Debts of a Family Farmer or Family Fisherman with Regular Annual Income” for “Adjustment of Debts of Family Farmers with Regular Annual Income” in item for chapter 12 and added item for chapter 15.
+<b>2005</b>—Pub. L. 109–8, title VIII, §801(b), title X, §1007(d), Apr. 20, 2005, 119 Stat. 145, 188, substituted “Adjustments of Debts of a Family Farmer or Family Fisherman with Regular Annual Income” for “Adjustment of Debts of Family Farmers with Regular Annual Income” in item for chapter 12 and added item for chapter 15.
 
-1994—Pub. L. 103–394, title V, §501(d)(39), Oct. 22, 1994, 108 Stat. 4147, struck out item for chapter 15, “United States Trustees”.
+<b>1994</b>—Pub. L. 103–394, title V, §501(d)(39), Oct. 22, 1994, 108 Stat. 4147, struck out item for chapter 15, “United States Trustees”.
 
-1986—Pub. L. 99–554, title II, §257(a), Oct. 27, 1986, 100 Stat. 3114, added item for chapter 12.
+<b>1986</b>—Pub. L. 99–554, title II, §257(a), Oct. 27, 1986, 100 Stat. 3114, added item for chapter 12.
 
 Table I<br>This Table lists the sections of former Title 11,<br>Bankruptcy, and indicates the sections of Title 11,<br>as revised by Pub. L. 95–598 which cover similar<br>and related subject matter.
 
@@ -4199,6 +4199,8 @@ Pub. L. 103–394, title VI, Oct. 22, 1994, 108 Stat. 4147, established the Nati
 #### Commission on the Bankruptcy Laws of the United States
 
 Pub. L. 91–354, §§1–6, July 24, 1970, 84 Stat. 468, as amended by Pub. L. 92–251, Mar. 17, 1972, 86 Stat. 63; Pub. L. 93–56, §1, July 1, 1973, 87 Stat. 140, established the Commission on the Bankruptcy Laws of the United States, to study and recommend changes to this title, which ceased to exist 30 days after the date of submission of its final report which was required prior to July 31, 1973.
+
+<i><sup>1</sup></i><i> So in original. Does not conform to chapter heading.</i>
 
 
 ---

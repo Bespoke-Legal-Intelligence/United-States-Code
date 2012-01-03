@@ -50,7 +50,7 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, §512(c); added Oct. 10, 1980, Pu
 
 15:2012(c)(2).
 
-In subsection (a), the words “a report on the review by the Secretary” are substituted for “a review” for clarity. The words “beginning in 1977” and the text of 15:2002(a) (2d, last sentences) are omitted as executed.
+In subsection (a), the words “a report on the review by the Secretary” are substituted for “a review” forclarity. The words “beginning in 1977” and the text of 15:2002(a) (2d, last sentences) are omitted as executed.
 
 In subsection (b)(1), before clause (A), reference to section 32904(b)(4) the 2d time it appears is substituted for “the amendment made to section 2003(b) of this title by section 4(a)(1) of the Automobile Fuel Efficiency Act of 1980” for clarity and to eliminate unnecessary words. Clause (B) is substituted for “achieves the purposes of that Act” for clarity.
 

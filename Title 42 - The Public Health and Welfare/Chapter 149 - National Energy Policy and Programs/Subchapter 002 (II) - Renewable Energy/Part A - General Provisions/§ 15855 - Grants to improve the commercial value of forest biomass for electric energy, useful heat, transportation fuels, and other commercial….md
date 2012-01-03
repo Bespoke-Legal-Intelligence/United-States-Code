@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Biomass
 
-&emsp;The term “biomass” means nonmerchantable materials or precommercial thinnings that are byproducts of preventive treatments, such as trees, wood, brush, thinnings, chips, and slash, that are removed—
+&emsp;The term “biomass” means nonmerchantable materials or precommercial thinningsthat are byproducts of preventive treatments, such as trees, wood, brush, thinnings, chips, and slash, that are removed—
 
 &emsp;&emsp;(A) to reduce hazardous fuels;
 

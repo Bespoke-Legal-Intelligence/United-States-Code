@@ -2,7 +2,7 @@
 
 #### (a) Joint and several liability; good faith defense
 
-Every person who, directly or indirectly, controls any person liable under any provision of this chapter or of any rule or regulation thereunder shall also be liable jointly and severally with and to the same extent as such controlled person to any person to whom such controlled person is liable (including to the Commission in any action brought under paragraph (1) or (3) ofsection 78u(d) of this title), unless the controlling person acted in good faith and did not directly or indirectly induce the act or acts constituting the violation or cause of action.
+Every person who, directly or indirectly, controls any person liable under any provision of this chapter or of any rule or regulation thereunder shall also be liable jointly and severally with and to the same extent as such controlled person to any person to whom such controlled person is liable (including to the Commission in any action brought under paragraph (1) or (3) of section 78u(d) of this title), unless the controlling person acted in good faith and did not directly or indirectly induce the act or acts constituting the violation or cause of action.
 
 #### (b) Unlawful activity through or by means of any other person
 
@@ -14,33 +14,35 @@ It shall be unlawful for any director or officer of, or any owner of any securit
 
 #### (d) Liability for trading in securities while in possession of material nonpublic information
 
-Wherever communicating, or purchasing or selling a security while in possession of, material nonpublic information would violate, or result in liability to any purchaser or seller of the security under any provisions of this chapter, or any rule or regulation thereunder, such conduct in connection with a purchase or sale of a put, call, straddle, option, privilege or security-based swap agreement (as defined in section 206B of the Gramm-Leach-Bliley Act) with respect to such security or with respect to a group or index of securities including such security, shall also violate and result in comparable liability to any purchaser or seller of that security under such provision, rule, or regulation.
+Wherever communicating, or purchasing or selling a security while in possession of, material nonpublic information would violate, or result in liability to any purchaser or seller of the security under any provisions of this chapter, or any rule or regulation thereunder, such conduct in connection with a purchase or sale of a put, call, straddle, option, privilege or security-based swap agreement with respect to such security or with respect to a group or index of securities including such security, shall also violate and result in comparable liability to any purchaser or seller of that security under such provision, rule, or regulation.
 
 #### (e) Prosecution of persons who aid and abet violations
 
-For purposes of any action brought by the Commission under paragraph (1) or (3) of section 78u(d) of this title, any person that knowingly or recklessly provides substantial assistance to another person in violation of a provision of this chapter, or of any rule or regulation issued under this chapter, shall be deemed to be in violation of such provision to the same extent as the person to whom such assistance is provided.
+For purposes of any action brought by the Commission under paragraph (1) or (3) of section78u(d) of this title, any person that knowingly or recklessly provides substantial assistance to another person in violation of a provision of this chapter, or of any rule or regulation issued under this chapter, shall be deemed to be in violation of such provision to the same extent as the person to whom such assistance is provided.
 
 #### (f) Limitation on Commission authority
 
-The authority of the Commission under this section with respect to security-based swap agreements (as defined in section 206B of the Gramm-Leach-Bliley Act) shall be subject to the restrictions and limitations of section 78c–1(b) of this title.
+The authority of the Commission under this section with respect to security-based swap agreements shall be subject to the restrictions and limitations of section 78c–1(b) of this title.
 
 (June 6, 1934, ch. 404, title I, §20, 48 Stat. 899; May 27, 1936, ch. 462, §6, 49 Stat. 1379; Pub. L. 88–467, §9, Aug. 20, 1964, 78 Stat. 579; Pub. L. 98–376, §5, Aug. 10, 1984, 98 Stat. 1265; Pub. L. 104–67, title I, §104, Dec. 22, 1995, 109 Stat. 757; Pub. L. 105–353, title III, §301(b)(12), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 106–554, §1(a)(5) \[title II, §205(a)(3), title III, §303(i), (j)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–426, 2763A–456; Pub. L. 111–203, title VII, §762(d)(6), title IX, §§929O, 929P(c), July 21, 2010, 124 Stat. 1761, 1862, 1865.)
 
-#### Amendment of Subsections (d) and (f)
+#### Amendment of Section
 
-<i>Pub. L. 111–203, title VII, §§762(d)(6), 774, July 21, 2010, 124 Stat. 1761, 1802, provided that, effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B (§§761–774) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, subsections (d) and (f) of this section are amended by striking “(as defined in section 206B of the Gramm-Leach-Bliley Act)”.</i>
+<i>Unless otherwise provided, amendment by subtitle B (§§761–774) of title VII of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see 2010 Amendment notes and Effective Date of 2010 Amendment note below.</i>
 
 #### References in Text
 
 This chapter, referred to in text, was in the original “this title”. See References in Text note set out under section 78a of this title.
 
-Section 206B of the Gramm-Leach-Bliley Act, referred to in subsecs. (d) and (f), is section 206B of Pub. L. 106–102, which is set out in a note under section 78c of this title.
-
 #### Amendments
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–203, §929P(c), inserted “(including to the Commission in any action brought under paragraph (1) or (3) of section 78u(d) of this title)” after “controlled person is liable”.
 
+Subsec. (d). Pub. L. 111–203, §762(d)(6)(A), struck out “(as defined in section 206B of the Gramm-Leach-Bliley Act)” after “security-based swap agreement”.
+
 Subsec. (e). Pub. L. 111–203, §929O, inserted “or recklessly” after “knowingly”.
+
+Subsec. (f). Pub. L. 111–203, §762(d)(6)(B), struck out “(as defined in section 206B of the Gramm-Leach-Bliley Act)” after “security-based swap agreements”.
 
 <b>2000</b>—Subsec. (d). Pub. L. 106–554, §1(a)(5) \[title III, §303(i)\], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Wherever communicating, or purchasing or selling a security while in possession of, material nonpublic information would violate, or result in liability to any purchaser or seller of the security under any provision of this chapter, or any rule or regulation thereunder, such conduct in connection with a purchase or sale of a put, call, straddle, option,, privilege, or security futures product with respect to such security or with respect to a group or index of securities including such security, shall also violate and result in comparable liability to any purchaser or seller of that security under such provision, rule, or regulation.”
 

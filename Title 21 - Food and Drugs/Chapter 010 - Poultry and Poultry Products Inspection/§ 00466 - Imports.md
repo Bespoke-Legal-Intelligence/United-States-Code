@@ -20,7 +20,7 @@ All charges for storage, cartage, and labor with respect to any product which is
 
 &emsp;(B) have been processed in facilities and under conditions that achieve a level of sanitary protection equivalent to that achieved under United States standards.
 
-(2)(A) The Secretary may treat as equivalent to a United States standard a standard of an exporting country described in paragraph (1) if the exporting country provides the Secretary with scientific evidence or other information, in accordance with risk assessment methodologiesdetermined appropriate by the Secretary, to demonstrate that the standard of the exporting country achieves the level of sanitary protection achieved under the United States standard. For the purposes of this subsection, the term “sanitary protection” means protection to safeguard public health.
+(2)(A) The Secretary may treat as equivalent to a United States standard a standard of an exporting country described in paragraph (1) if the exporting country provides the Secretary with scientific evidence or other information, in accordance with risk assessment methodologies determined appropriate by the Secretary, to demonstrate that the standard of the exporting country achieves the level of sanitary protection achieved under the United States standard. For the purposes of this subsection, the term “sanitary protection” means protection to safeguard public health.
 
 (B) The Secretary may—
 
@@ -46,7 +46,7 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a), is act Jun
 
 <b>1994</b>—Subsec. (d)(1). Pub. L. 103–465, §431(k)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Notwithstanding any other provision of law, except as provided in paragraph (2), all poultry, or parts or products thereof, capable of use as human food offered for importation into the United States shall—
 
-&emsp;“(A) be subject to the same inspection, sanitary, quality, species verification, and residue standards applied to products produced in the United States; and
+&emsp;“(A) be subject to the same inspection, sanitary, quality, species verification, and residue standardsapplied to products produced in the United States; and
 
 &emsp;“(B) have been processed in facilities and under conditions that are the same as those under which similar products are processed in the United States.”
 

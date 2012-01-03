@@ -98,7 +98,7 @@ Subsection (a) of this section does not apply to a distributor or a retailer of 
 
 #### <i>(3) Does not apply to foreign distribution</i>
 
-&emsp;<i>The provisions of this subsection do not apply to a tobacco product manufacturer or distributor of cigarettes which does not manufacture, package, or import cigarettes for sale or distribution within the United States.</i>
+&emsp;<i>The provisions of this subsection do not apply to a tobacco product manufacturer or distributor</i><i>of cigarettes which does not manufacture, package, or import cigarettes for sale or distribution within the United States.</i>
 
 #### <i>(4) Applicability to retailers</i>
 
@@ -156,7 +156,7 @@ Subsection (a) of this section does not apply to a distributor or a retailer of 
 
 #### <i>(d) Graphic label statements</i>
 
-<i>Not later than 24 months after June 22, 2009, the Secretary shall issue regulations that require color graphics depicting the negative health consequences of smoking to accompany the label statements specified in subsection (a)(1). The Secretary may adjust the type size, text and format of the label statements specified in subsections (a)(2) and (b)(2) as the Sec</i><i>retary determines appropriate so that both the graphics and the accompanying label statements are clear, conspicuous, legible and appear within the specified area.</i>
+<i>Not later than 24 months after June 22, 2009, the Secretary shall issue regulations that require color</i><i>graphics depicting the negative health consequences of smoking to accompany the label statements specified in subsection (a)(1). The Secretary may adjust the type size, text and format of the label statements specified in subsections (a)(2) and (b)(2) as the Secretary determines appropriate so that both the graphics and the accompanying label statements are clear, conspicuous, legible and appear within the specified area.</i>
 
 <i>Pub. L. 111–31, div. A, title II, §202(b), June 22, 2009, 123 Stat. 1845, provided that this section, as amended by section 201 of Pub. L. 111–31, is further amended by adding at the end the following:</i>
 

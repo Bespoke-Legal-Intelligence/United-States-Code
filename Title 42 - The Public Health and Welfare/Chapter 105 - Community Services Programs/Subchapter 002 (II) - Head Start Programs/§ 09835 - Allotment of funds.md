@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(bb) not less than 25 percent shall be available to the Secretary to support a State-based training and technical assistance system, or a national system, described in section 9843(e) of this title for supporting program quality; and
 
-&emsp;&emsp;(cc) the remainder of the portion set aside under this subclause shall be available to the Secretary to assist Head Start agencies in meeting and exceeding the standards described in section 9836a(a)(1) of this title by carrying out activities described in subsections (a), (b), (c), (f), and (g) of section 9843 of this title, including helping Head Start programs address weaknesses identified by monitoring activities conducted by the Secretary under section 9836a(c) of this title, except that not less than $3,000,000 of the remainder shall be made available to carry out activities described in section 9843(a)(3)(B)(ii) of this title.
+&emsp;&emsp;(cc) the remainder of the portion set aside under this subclause shall be available to the Secretary to assist Head Start agencies in meeting and exceeding the standards described in section 9836a(a)(1) of this title bycarrying out activities described in subsections (a), (b), (c), (f), and (g) of section 9843 of this title, including helping Head Start programs address weaknesses identified by monitoring activities conducted by the Secretary under section 9836a(c) of this title, except that not less than $3,000,000 of the remainder shall be made available to carry out activities described in section 9843(a)(3)(B)(ii) of this title.
 
 (ii) In determining the portion set aside under clause (i)(I) and the amount reserved under this subparagraph, the Secretary shall consider the number of Early Head Start programs newly funded for that fiscal year.
 
@@ -54,7 +54,7 @@
 
 &emsp;&emsp;(I) for each of fiscal years 2008, 2009, and 2010—
 
-&emsp;&emsp;&emsp;(aa) subject to subparagraph (B), provide 5 percent of that amount for Indian HeadStart programs (including Early Head Start programs), and 5 percent of that amount for migrant and seasonal Head Start programs, to increase enrollment in the programs involved; and
+&emsp;&emsp;&emsp;(aa) subject to subparagraph (B), provide 5 percent of that amount for Indian Head Start programs (including Early Head Start programs), and 5 percent of that amount for migrant and seasonal Head Start programs, to increase enrollment in the programs involved; and
 
 &emsp;&emsp;&emsp;(bb) use 90 percent of that amount to provide, for each Head Start agency (including each Early Head Start agency) funded as described in clause (i)(I), the same percentage (but not less than 50 percent) of the cost of living increase described in clause (i); and
 
@@ -220,7 +220,7 @@ The Secretary shall adopt appropriate administrative measures to assure that the
 
 #### (f) Guidelines for local service delivery models
 
-(1) Not later than 1 year after December 12, 2007, the Secretary shall establish procedures to enable Head Start agencies to develop locally designed or specialized service delivery models to address local community needs, including models that leverage the capacity and capabilities of the delivery system of early childhoodeducation and development services or programs.
+(1) Not later than 1 year after December 12, 2007, the Secretary shall establish procedures to enable Head Start agencies to develop locally designed or specialized service delivery models to address local community needs, including models that leverage the capacity and capabilities of the delivery system of early childhood education and development services or programs.
 
 (2) In establishing the procedures the Secretary shall establish procedures to provide for—
 
@@ -276,7 +276,7 @@ Financial assistance provided under this subchapter may be used by each Head Sta
 
 #### (i) Vehicle safety regulations
 
-The Secretary shall issue regulations establishing requirements for the safety features, and the safe operation, of vehicles used by HeadStart agencies to transport children participating in Head Start programs. The regulations shall also establish requirements to ensure the appropriate supervision of, and appropriate background checks for, individuals with whom the agencies contract to transport those children.
+The Secretary shall issue regulations establishing requirements for the safety features, and the safe operation, of vehicles used by Head Start agencies to transport children participating in Head Start programs. The regulations shall also establish requirements to ensure the appropriate supervision of, and appropriate background checks for, individuals with whom the agencies contract to transport those children.
 
 #### (j) Compensation of staff
 
@@ -414,7 +414,7 @@ Subsec. (a)(3)(B)(vi). Pub. L. 105–285, §106(a)(2)(B)(iv), inserted before pe
 
 Subsec. (a)(3)(B)(vii), (viii). Pub. L. 105–285, §106(a)(2)(B)(v), (vi), added cl. (vii) and redesignated former cl. (vii) as (viii).
 
-Subsec. (a)(3)(C)(i)(I). Pub. L. 105–285, §106(a)(2)(C)(i)(I), substituted “this paragraph” for “this subparagraph”, “of classroom teachers and other staff” for “of staff”, and “qualified staff, including recruitment and retention pursuant to achieving the requirements set forth in section 9843a(a) of this title” for “such staff”, and inserted at end “Preferences in awarding salary increases, in excess of cost-of-living allowances, with such funds shall be granted to classroom teachers and staff who obtain additional training or education related to their responsibilities as employees of a Head Start program.”
+Subsec. (a)(3)(C)(i)(I). Pub. L. 105–285, §106(a)(2)(C)(i)(I), substituted “this paragraph” for “this subparagraph”, “of classroom teachers and otherstaff” for “of staff”, and “qualified staff, including recruitment and retention pursuant to achieving the requirements set forth in section 9843a(a) of this title” for “such staff”, and inserted at end “Preferences in awarding salary increases, in excess of cost-of-living allowances, with such funds shall be granted to classroom teachers and staff who obtain additional training or education related to their responsibilities as employees of a Head Start program.”
 
 Subsec. (a)(3)(C)(i)(II). Pub. L. 105–285, §106(a)(2)(C)(i)(II), substituted “this subparagraph” for “the subparagraph”.
 
@@ -480,7 +480,7 @@ Subsec. (a)(2)(D). Pub. L. 103–252, §105(b)(2)(B), inserted “(including pay
 
 Subsec. (a)(3)(A), (B). Pub. L. 103–252, §105(a)(2), added subpars. (A) and (B). Former subpars. (A) and (B) redesignated subpars. (C) and (D), respectively.
 
-Subsec. (a)(3)(C). Pub. L. 103–252, §105(a)(1)–(3), redesignated subpar. (A) as (C), substituted in introductory provisions “Quality improvement funds shall be used to carry out any or all of the following activities:” for “For any fiscal year for which the amount appropriated under section 9834(a) of this title exceeds the adjusted appropriation, the Secretary shall reserve the quality improvement funds for such fiscal year, for one or more of the following quality improvement activities:”, and added cl. (vii).
+Subsec. (a)(3)(C). Pub. L. 103–252, §105(a)(1)–(3), redesignated subpar. (A) as (C), substituted in introductory provisions “Quality improvement funds shall be used to carry out any or all of the following activities:” for “For any fiscal year for which the amount appropriated under section 9834(a) of this title exceeds the adjusted appropriation, the Secretary shall reserve the qualityimprovement funds for such fiscal year, for one or more of the following quality improvement activities:”, and added cl. (vii).
 
 Subsec. (a)(3)(D). Pub. L. 103–252, §105(a)(1), redesignated subpar. (B) as (D).
 
@@ -578,7 +578,7 @@ Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules rel
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–252 effective May 18, 1994, but not applicable to Head Start agencies and other recipients of financial assistance under the Head Start Act (42 U.S.C. 9831 et seq.) until Oct. 1, 1994, see section127 of Pub. L. 103–252, set out as a note under section 9832 of this title.
+Amendment by Pub. L. 103–252 effective May 18, 1994, but not applicable to Head Start agencies and other recipients of financial assistance under the Head Start Act (42 U.S.C. 9831 et seq.) until Oct. 1, 1994, see section 127 of Pub. L. 103–252, set out as a note under section 9832 of this title.
 
 #### Effective Date of 1992 Amendment
 

@@ -6,9 +6,9 @@ Under regulations prescribed under section 5738 of this title, each agency may e
 
 #### Amendments
 
-1996—Pub. L. 104–201 amended section generally. Prior to amendment, section read as follows: “Under such regulations as the President may prescribe, each agency is authorized to enter into contracts to provide relocation services to agencies and employees for the purpose of carrying out the provisions of this subchapter. Such services include but need not be limited to arranging for the purchase of a transferred employee's residence.”
+<b>1996</b>—Pub. L. 104–201 amended section generally. Prior to amendment, section read as follows: “Under such regulations as the President may prescribe, each agency is authorized to enter into contracts to provide relocation services to agencies and employees for the purpose of carrying out the provisions of this subchapter. Such services include but need not be limited to arranging for the purchase of a transferred employee's residence.”
 
-1984—Pub. L. 98–473 amended section generally, adding authority of the President to prescribe regulations.
+<b>1984</b>—Pub. L. 98–473 amended section generally, adding authority of the President to prescribe regulations.
 
 #### Effective Date of 1996 Amendment
 

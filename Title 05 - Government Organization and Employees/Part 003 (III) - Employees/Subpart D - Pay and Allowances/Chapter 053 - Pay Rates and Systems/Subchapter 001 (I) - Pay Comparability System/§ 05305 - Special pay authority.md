@@ -32,7 +32,7 @@
 
 (h) An employee shall not for any purpose be considered to be entitled to a rate of pay established under this section with respect to any period for which such employee is entitled to a higher rate of basic pay under any other provision of law. For purposes of this subsection, the term “basic pay” includes any applicable locality-based comparability payment under section 5304 or similar provision of law.
 
-(i) If an employee who is receiving a rate of pay under this section becomes subject, by virtue of moving to a new official duty station, to a different pay schedule, such employee's new rate of pay shall be initially established under conversion rules prescribed by the Office of Personnel Management (or such other agency as the President may under the last sentence of subsection (a)(1) designate) in conformance with the following:
+(i) If an employee who is receiving a rate of pay under this section becomes subject, by virtue of moving to a new official duty station, to a different pay schedule, such employee's new rate of pay shall be initially established under conversion rules prescribed by the Office of Personnel Management (or such other agency as thePresident may under the last sentence of subsection (a)(1) designate) in conformance with the following:
 
 &emsp;(1) First, determine the rate of pay to which such employee would be entitled at the new official duty station based on such employee's position, grade, and step (or relative position in the rate range) before the move.
 
@@ -50,7 +50,7 @@ The provisions of this title governing appointment in the competitive service, r
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–411, §301(a)(2)(A), added subsec. (a) and struck out former subsec. (a) relating to the President's authority to establish higher minimum rates of basic pay for specified individuals where the Government's recruitment or retention efforts are, or are likely to become, significantly handicapped.
+<b>2004</b>—Subsec. (a). Pub. L. 108–411, §301(a)(2)(A), added subsec. (a) and struck out former subsec. (a) relating to the President's authority to establish higher minimum rates of basic pay for specified individuals where the Government's recruitment or retention efforts are, or are likely to become, significantly handicapped.
 
 Subsec. (b)(4). Pub. L. 108–411, §301(a)(2)(B), added par. (4) and struck out former par. (4) which read as follows: “any other circumstances which the President (or an agency duly authorized or designated by the President in accordance with the last sentence of subsection (a)) considers appropriate.”
 
@@ -66,9 +66,9 @@ Subsec. (h). Pub. L. 108–411, §301(a)(2)(G), added subsec. (h) and struck out
 
 Subsecs. (i), (j). Pub. L. 108–411, §301(a)(2)(H), added subsecs. (i) and (j).
 
-1990—Pub. L. 101–509 amended section generally, substituting provisions authorizing President to make special pay increases whenever recruitment or retention efforts are handicapped for provisions requiring annual pay reports and adjustments, authorizing alternative plan in years of emergency or when economic conditions affect the general welfare, and setting forth procedure where Congressional committee disapproves such alternative plan.
+<b>1990</b>—Pub. L. 101–509 amended section generally, substituting provisions authorizing President to make special pay increases whenever recruitment or retention efforts are handicapped for provisions requiring annual pay reports and adjustments, authorizing alternative plan in years of emergency or when economic conditions affect the general welfare, and setting forth procedure where Congressional committee disapproves such alternative plan.
 
-1975—Subsec. (a)(3). Pub. L. 94–82, §202(c)(1), inserted provision relating to specification in the report to the Congress of the overall percentage of the adjustment in the rates of pay under the General Schedule and under other statutory pay systems.
+<b>1975</b>—Subsec. (a)(3). Pub. L. 94–82, §202(c)(1), inserted provision relating to specification in the report to the Congress of the overall percentage of the adjustment in the rates of pay under the General Schedule and under other statutory pay systems.
 
 Subsec. (c)(1). Pub. L. 94–82, §202(c)(2), inserted provision relating to specification in the report to the Congress of the overall percentage of the adjustment in the rates of pay under the General Schedule and under other statutory pay systems.
 
@@ -104,7 +104,7 @@ Manner of Payment; Reduction or Elimination.—A staffing differential under thi
 
 &emsp;“(1) shall be paid in the same manner and at the same time as the employee's basic pay is paid, but may not be considered to be part of basic pay for any purpose; and
 
-&emsp;“(2) may be reduced or eliminated by the Office of Personnel Management in its sole discretion as the amendments made by this Act take effect \[see Effective Date of 1990 Amendment and Short Title of 1990 Amendment notes set out under section 5301 of this title\], except that no such reduction or elimination shall have the effect of reducing the total amount of pay (determined by adding basic pay and staffing differential) which any employee is receiving.”
+&emsp;“(2) may be reduced or eliminated by the Office of Personnel Management in its sole discretion as the amendments made by this Act take effect \[see Effective Date of 1990 Amendment and Short Title of 1990 Amendment notes set out under section 5301 of thistitle\], except that no such reduction or elimination shall have the effect of reducing the total amount of pay (determined by adding basic pay and staffing differential) which any employee is receiving.”
 
 \[Authority of President under section 529 \[title II, §209\] of Pub. L. 101–509, set out above, delegated to Office of Personnel Management by Ex. Ord. No. 12748, Feb. 1, 1991, 56 F.R. 4521, eff. May 4, 1991, set out as a note under section 5301 of this title.\]
 
@@ -217,7 +217,7 @@ Step 2
 | “Area | Differential |
 | :--- | ---: |
 | Boston-Lawrence-Salem, MA–NH Consolidated Metropolitan Statistical Area | 16%&nbsp;&nbsp; |
-| Chicago-Gary-Lake County, IL–IN–WI Consolidated Metropolitan Statistical Area | 4%   |
+| Chicago-Gary-Lake County, IL–IN–WI Consolidated Metropolitan Statistical Area | 4%&nbsp;&nbsp; |
 | Los Angeles-Anaheim-Riverside, CA Consolidated Metropolitan Statistical Area | 16%&nbsp;&nbsp; |
 | New York-Northern New Jersey-Long Island, NY–NJ–CT Consolidated Metropolitan Statistical Area | 16%&nbsp;&nbsp; |
 | Philadelphia-Wilmington-Trenton, PA–NJ–DE–MD Consolidated Metropolitan Statistical Area | 4%&nbsp;&nbsp; |
@@ -227,7 +227,7 @@ Step 2
 
 “(2) In the case of any area specified in paragraph (1) that includes a portion, but not all, of a county, the Office of Personnel Management may, at the request of the head of 1 or more law enforcement agencies, extend the area specified in paragraph (1) to include, for the purposes of this section, the entire county, if the Office determines that such extension would be in the interests of good personnel administration. Any such extension shall be applicable to each law enforcement officer whose post of duty is in the area of the extension.
 
-“(c)(1) A special pay adjustment under this section shall be administered, to the extent practicable, in the same manner as a locality-based comparability payment under section 5304 of title 5, United States Code, as amended by section 101 of this Act, and shall be considered part of basic pay to the same degree as such a locality-based comparability payment.
+“(c)(1) A special pay adjustment under this section shall be administered, to the extent practicable, in thesame manner as a locality-based comparability payment under section 5304 of title 5, United States Code, as amended by section 101 of this Act, and shall be considered part of basic pay to the same degree as such a locality-based comparability payment.
 
 “(2) The Office of Personnel Management may prescribe such regulations as it considers necessary concerning the payment of special pay adjustments to law enforcement officers under this section.
 

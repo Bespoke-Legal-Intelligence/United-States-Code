@@ -46,7 +46,7 @@ Section 11403c, Pub. L. 100–77, title IV, §454, as added Pub. L. 101–625, t
 
 Section 11403d, Pub. L. 100–77, title IV, §455, as added Pub. L. 101–625, title VIII, §837(a), Nov. 28, 1990, 104 Stat. 4369; amended Pub. L. 102–550, title XIV, §1406(b), Oct. 28, 1992, 106 Stat. 4030, related to selection criteria for a national competition for assistance.
 
-Section 11403e, Pub. L. 100–77, title IV, §456, as added Pub. L. 101–625, title VIII, §837(a), Nov. 28, 1990, 104 Stat. 4369; amended Pub. L. 102–550, title XIV, §1406(c), Oct. 28, 1992, 106 Stat. 4030, related to agreements required for assistance to be approved.
+Section 11403e, Pub. L. 100–77, title IV, §456, as added Pub. L. 101–625, title VIII, §837(a), Nov. 28, 1990, 104 Stat. 4369; amended Pub. L. 102–550, title XIV, §1406(c), Oct.28, 1992, 106 Stat. 4030, related to agreements required for assistance to be approved.
 
 Section 11403e–1, Pub. L. 100–77, title IV, §457, formerly §464, as added Pub. L. 101–625, title VIII, §837(a), Nov. 28, 1990, 104 Stat. 4371; renumbered §457 and amended Pub. L. 102–550, title XIV, §1406(e)(4), Oct. 28, 1992, 106 Stat. 4031, related to housing standards and rent reasonableness. Section was formerly classified to section 11404c of this title.
 
@@ -78,7 +78,7 @@ Another prior section 464 of Pub. L. 100–77 was renumbered section 457 and was
 
 Section 11404, Pub. L. 100–77, title IV, §471, as added Pub. L. 102–550, title XIV, §1406(d)(3), Oct. 28, 1992, 106 Stat. 4030; amended Pub. L. 110–289, div. B, title VIII, §2835(c)(1)(B), July 30, 2008, 122 Stat. 2874, authorized Secretary to use amounts made available under former section 11403h of this title to provide tenant-based rental housing assistance.
 
-Another prior section 11404, Pub. L. 100–77, title IV, §461, as added Pub. L. 101–625, title VIII, §837(a), Nov. 28, 1990, 104 Stat. 4371, which authorized use of appropriations for provision of rental housing assistance to homeless in accordance with shelter plus care program,was repealed by Pub. L. 102–550, title XIV, §1406(d)(3), Oct. 28, 1992, 106 Stat. 4030.
+Another prior section 11404, Pub. L. 100–77, title IV, §461, as added Pub. L. 101–625, title VIII, §837(a), Nov. 28, 1990, 104 Stat. 4371, which authorized use of appropriations for provision of rental housing assistance to homeless in accordance with shelter plus care program, was repealed by Pub. L. 102–550, title XIV, §1406(d)(3), Oct. 28, 1992, 106 Stat. 4030.
 
 Another prior section 471 of Pub. L. 100–77 was classified to section 11405 of this title prior to repeal by Pub. L. 102–550, title XIV, §1406(d)(2), Oct. 28, 1992, 106 Stat. 4030.
 
@@ -108,7 +108,7 @@ Section 11406, Pub. L. 100–77, title IV, §481, as added Pub. L. 102–550, ti
 
 Another prior section 11406, Pub. L. 100–77, title IV, §481, as added Pub. L. 101–625, title VIII, §837(a), Nov. 28, 1990, 104 Stat. 4373, which authorized use of appropriations in connection with provision of rental housing assistance under section 1701q of Title 12, Banks and Banking, was repealed by Pub. L. 102–550, §1406(d)(2).
 
-Section 11406a, Pub. L. 100–77, title IV, §482, as added Pub. L. 102–550, title XIV, §1406(f), Oct. 28, 1992, 106 Stat. 4032, related to provision of assistance pursuant to a contract between the recipient and a private nonprofit sponsor that owns or leases dwelling units.
+Section 11406a, Pub. L. 100–77, title IV, §482, as added Pub. L. 102–550, title XIV, §1406(f), Oct. 28, 1992, 106 Stat.4032, related to provision of assistance pursuant to a contract between the recipient and a private nonprofit sponsor that owns or leases dwelling units.
 
 Another prior section 11406a, Pub. L. 100–77, title IV, §482, as added Pub. L. 101–625, title VIII, §837(a), Nov. 28, 1990, 104 Stat. 4373, which related to amount of rental housing assistance to be provided under shelter plus care program in connection with section 1701q of Title 12, Banks and Banking, was repealed by Pub. L. 102–550, §1406(d)(2).
 

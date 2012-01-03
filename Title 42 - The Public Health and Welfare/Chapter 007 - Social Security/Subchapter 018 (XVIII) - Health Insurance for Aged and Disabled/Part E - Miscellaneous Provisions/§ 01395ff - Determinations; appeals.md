@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) The initial determination of the amount of benefits available to the individual under such parts.
 
-&emsp;&emsp;(C) Any other initial determination with respect to a claim for benefits under such parts, including an initial determination by the Secretary that payment may not be made, or may no longer be made, for an item or service under such parts, an initial determination made by a utilization and quality control peer review organization under section 1320c–3(a)(2) of this title, and an initial determination made by an entity pursuant to a contract (other than a contract under section 1395w–22 of this title) with the Secretary to administer provisions of this subchapter or subchapter XI of this chapter.
+&emsp;&emsp;(C) Any other initial determination with respect to a claim for benefits under such parts, including an initial determination by the Secretary that payment may not be made, or may no longer be made, for an item or service under such parts, an initial determination made by a quality improvement organization under section 1320c–3(a)(2) of this title, and an initial determination made by an entity pursuant to a contract (other than a contract under section 1395w–22 of this title) with the Secretary to administer provisions of this subchapter or subchapter XI of this chapter.
 
 #### (2) Deadlines for making initial determinations
 
@@ -42,7 +42,7 @@
 
 #### (i) Filing for redetermination
 
-&emsp;&emsp;&emsp;A redetermination under subparagraph (A) shall be available only if notice is filed with the Secretary to request the redetermination by not later than the end of the 120-day period beginning on the date the individual receives notice of the initial determination under paragraph (2).
+&emsp;&emsp;&emsp;A redetermination under subparagraph (A) shall be available only if notice is filed with the Secretary to request the redetermination by not later than the end of the120-day period beginning on the date the individual receives notice of the initial determination under paragraph (2).
 
 #### (ii) Concluding redeterminations
 
@@ -64,7 +64,7 @@
 
 &emsp;&emsp;&emsp;(iii) notification of the right to seek a redetermination or otherwise appeal the determination and instructions on how to initiate such a redetermination under this section;
 
-&emsp;&emsp;(B) such written notice shall be provided in printed form and written in a manner calculated to be understood by the individualentitled to benefits under part A of this subchapter or enrolled under part B of this subchapter, or both; and
+&emsp;&emsp;(B) such written notice shall be provided in printed form and written in a manner calculated to be understood by the individual entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter, or both; and
 
 &emsp;&emsp;(C) the individual provided such written notice may obtain, upon request, information on the specific provision of the policy, manual, or regulation used in making the redetermination.
 
@@ -134,7 +134,7 @@
 
 #### (ii) Aggregation of claims
 
-&emsp;&emsp;&emsp;In determining the amount in controversy, the Secretary, under regulations,shall allow two or more appeals to be aggregated if the appeals involve—
+&emsp;&emsp;&emsp;In determining the amount in controversy, the Secretary, under regulations, shall allow two or more appeals to be aggregated if the appeals involve—
 
 &emsp;&emsp;&emsp;&emsp;(I) the delivery of similar or related services to the same individual by one or more providers of services or suppliers, or
 
@@ -200,7 +200,7 @@
 
 #### (iv) Interest on any amounts in controversy
 
-&emsp;&emsp;&emsp;Where a provider of services or supplier is granted judicial review pursuant to this paragraph, the amount in controversy (if any) shall be subject to annual interest beginning on the first day of the first monthbeginning after the 60-day period as determined pursuant to clause (ii) and equal to the rate of interest on obligations issued for purchase by the Federal Supplementary Medical Insurance Trust Fund for the month in which the civil action authorized under this paragraph is commenced, to be awarded by the reviewing court in favor of the prevailing party. No interest awarded pursuant to the preceding sentence shall be deemed income or cost for the purposes of determining reimbursement due providers of services or suppliers under this subchapter.
+&emsp;&emsp;&emsp;Where a provider of services or supplier is granted judicial review pursuant to this paragraph, the amount in controversy (if any) shall be subject to annual interest beginning on the first day of the first month beginning after the 60-day period as determined pursuant to clause (ii) and equal to the rate of interest on obligations issued for purchase by the Federal Supplementary Medical Insurance Trust Fund for the month in which the civil action authorized under this paragraph is commenced, to be awarded by the reviewing court in favor of the prevailing party. No interest awarded pursuant to the preceding sentence shall be deemed income or cost for the purposes of determining reimbursement due providers of services or suppliers under this subchapter.
 
 #### (D) Review entity defined
 
@@ -238,7 +238,7 @@
 
 #### (I) National coverage determinations
 
-&emsp;&emsp;&emsp;&emsp;If the Secretary has made a national coverage determination pursuant to the requirements established under the third sentence of section 1395y(a) of this title, such determination shall be binding on the qualified independent contractor in making a decision with respect to a reconsideration under this section.
+&emsp;&emsp;&emsp;&emsp;If the Secretary has made a national coverage determination pursuant to the requirements established under the third sentence of section 1395y(a) of this title, such determination shall be binding on the qualified independent contractor inmaking a decision with respect to a reconsideration under this section.
 
 #### (II) Local coverage determinations
 
@@ -256,7 +256,7 @@
 
 #### (ii) Consequences of failure to meet deadline
 
-&emsp;&emsp;&emsp;In the case of a failure by the qualified independent contractor to mail the noticeof the decision by the end of the period described in clause (i) or to provide notice by the end of the period described in clause (iii), as the case may be, the party requesting the reconsideration or appeal may request a hearing before the Secretary, notwithstanding any requirements for a reconsidered determination for purposes of the party's right to such hearing.
+&emsp;&emsp;&emsp;In the case of a failure by the qualified independent contractor to mail the notice of the decision by the end of the period described in clause (i) or to provide notice by the end of the period described in clause (iii), as the case may be, the party requesting the reconsideration or appeal may request a hearing before the Secretary, notwithstanding any requirements for a reconsidered determination for purposes of the party's right to such hearing.
 
 #### (iii) Expedited reconsiderations
 
@@ -292,7 +292,7 @@
 
 #### (G) Dissemination of decisions on reconsiderations
 
-&emsp;&emsp;Each qualified independent contractor shall make available all decisions with respect to reconsiderations of such qualified independent contractors to fiscal intermediaries (under section 1395h of this title), carriers (under section 1395u of this title), peer review organizations (under part B of subchapter XI of this chapter), Medicare+Choice organizations offering Medicare+Choice plans under part C of this subchapter, other entities under contract with the Secretary to make initial determinations under part A of this subchapter or part B of this subchapter or subchapter XI of this chapter, and to the public. The Secretary shall establish a methodology under which qualified independent contractors shall carry out this subparagraph.
+&emsp;&emsp;Each qualified independent contractor shall make available all decisions with respect to reconsiderations of such qualified independent contractors to fiscal intermediaries (under section 1395h of this title), carriers (under section 1395u of this title), quality improvement organizations (under part B of subchapter XI of this chapter), Medicare+Choice organizations offering Medicare+Choice plans under part C of this subchapter, other entities under contract with the Secretary to make initial determinations under part A of this subchapter or part B of this subchapter or subchapter XI of this chapter, and to the public. The Secretary shall establish a methodology under which qualified independent contractors shall carry out this subparagraph.
 
 #### (H) Ensuring consistency in decisions
 
@@ -428,7 +428,7 @@
 
 &emsp;&emsp;&emsp;(i) Such a determination shall not be reviewed by any administrative law judge.
 
-&emsp;&emsp;&emsp;(ii) Such a determination shall not be held unlawful or set aside on the ground that a requirement of section 553 of title 5 or section 1395hh(b) of this title, relating to publication in the Federal Register or opportunity for public comment, was not satisfied.
+&emsp;&emsp;&emsp;(ii) Such a determination shall not be held unlawful or set aside on the ground that a requirement of section 553 of title 5or section 1395hh(b) of this title, relating to publication in the Federal Register or opportunity for public comment, was not satisfied.
 
 &emsp;&emsp;&emsp;(iii) Upon the filing of a complaint by an aggrieved party, such a determination shall be reviewed by the Departmental Appeals Board of the Department of Health and Human Services. In conducting such a review, the Departmental Appeals Board—
 
@@ -508,7 +508,7 @@
 
 #### (6) Publication on the Internet of decisions of hearings of the Secretary
 
-&emsp;Each decision of a hearing by the Secretary with respect to a national coverage determination shall be made public, and the Secretary shall publish each decision on the Medicare <sup>4</sup> Internet site of the Department of Health and Human Services. The Secretary shall remove from such decision any information thatwould identify any individual, provider of services, or supplier.
+&emsp;Each decision of a hearing by the Secretary with respect to a national coverage determination shall be made public, and the Secretary shall publish each decision on the Medicare <sup>4</sup> Internet site of the Department of Health and Human Services. The Secretary shall remove from such decision any information that would identify any individual, provider of services, or supplier.
 
 #### (7) Annual report on national coverage determinations
 
@@ -580,7 +580,7 @@
 
 #### (5) Related party defined
 
-&emsp;For purposes of this section, the term “related party” means, with respect to a caseunder this subchapter involving a specific individual entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter, or both, any of the following:
+&emsp;For purposes of this section, the term “related party” means, with respect to a case under this subchapter involving a specific individual entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter, or both, any of the following:
 
 &emsp;&emsp;(A) The Secretary, the medicare administrative contractor involved, or any fiduciary, officer, director, or employee of the Department of Health and Human Services, or of such contractor.
 
@@ -688,15 +688,13 @@
 
 &emsp;Under the process established in paragraph (1), such a mediator shall mediate in disputes between groups representing providers of services, suppliers (as defined in section 1395x(d) of this title), and the medical director for a medicare administrative contractor whenever the regional administrator (as defined by the Secretary) involved determines that there was a systematic pattern and a large volume of complaints from such groups regarding decisions of such director or there is a complaint from the co-chair of the advisory committee for that contractor to such regional administrator regarding such dispute.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1869, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 330; amended Pub. L. 92–603, title II, §299O(a), Oct. 30, 1972, 86 Stat. 1464; Pub. L. 98–369, div. B, title III, §2354(b)(35), July 18, 1984, 98 Stat. 1102; Pub. L. 99–509, title IX, §§9313(a)(1), (b)(1), 9341(a)(1), Oct. 21, 1986, 100 Stat. 2002, 2037; Pub. L. 100–93, §8(e), Aug. 18, 1987, 101 Stat. 694; Pub. L. 100–203, title IV, §§4082(a), (b), 4085(i)(18), (19), Dec. 22, 1987, 101 Stat. 1330–128, 1330–133; Pub. L. 103–296, title I, §108(c)(5), Aug. 15, 1994, 108 Stat. 1485; Pub. L. 105–33, title IV, §4611(c), Aug. 5, 1997, 111 Stat. 473; Pub. L. 106–554, §1(a)(6) \[title V, §§521(a), 522(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–534, 2763A–543; Pub. L. 108–173, title IX, §§931(d), 932(a), 933(a)(1), (b)–(d)(3), 938(a), 940(a), (b)(1), 940A(a), 948(b)(1), (c), Dec. 8, 2003, 117 Stat. 2399, 2402–2406, 2413, 2416, 2417, 2426.)
-
-#### References in Text
-
-Parts A, B, and C of this subchapter, referred to in text, are classified to sections 1395c et seq., 1395j et seq., and 1395w–21 et seq., respectively, of this title.
-
-Part B of subchapter XI of this chapter, referred to in subsecs. (c)(3)(G) and (e)(3), is classified to section 1320c et seq. of this title.
+(Aug. 14, 1935, ch. 531, title XVIII, §1869, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 330; amended Pub. L. 92–603, title II, §299O(a), Oct. 30, 1972, 86 Stat. 1464; Pub. L. 98–369, div. B, title III, §2354(b)(35), July 18, 1984, 98 Stat. 1102; Pub. L. 99–509, title IX, §§9313(a)(1), (b)(1), 9341(a)(1), Oct. 21, 1986, 100 Stat. 2002, 2037; Pub. L. 100–93, §8(e), Aug. 18, 1987, 101 Stat. 694; Pub. L. 100–203, title IV, §§4082(a), (b), 4085(i)(18), (19), Dec. 22, 1987, 101 Stat. 1330–128, 1330–133; Pub. L. 103–296, title I, §108(c)(5), Aug. 15, 1994, 108 Stat. 1485; Pub. L. 105–33, title IV, §4611(c), Aug. 5, 1997, 111 Stat. 473; Pub. L. 106–554, §1(a)(6) \[title V, §§521(a), 522(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–534, 2763A–543; Pub. L. 108–173, title IX, §§931(d), 932(a), 933(a)(1), (b)–(d)(3), 938(a), 940(a), (b)(1), 940A(a), 948(b)(1), (c), Dec. 8, 2003, 117 Stat. 2399, 2402–2406, 2413, 2416, 2417, 2426; Pub. L. 112–40, title II, §261(a)(3)(A), (F), Oct. 21, 2011, 125 Stat. 423.)
 
 #### Amendments
+
+<b>2011</b>—Subsec. (a)(1)(C). Pub. L. 112–40, §261(a)(3)(A), substituted “quality improvement” for “utilization and quality control peer review”.
+
+Subsec. (c)(3)(G). Pub. L. 112–40, §261(a)(3)(F), substituted “quality improvement organizations” for “peer review organizations”.
 
 <b>2003</b>—Subsec. (a)(3)(C)(ii). Pub. L. 108–173, §940(a)(1), substituted “60-day period” for “30-day period” in two places.
 
@@ -778,7 +776,7 @@ Subsec. (b)(1)(C). Pub. L. 99–509, §9341(a)(1)(B), inserted “or part B”.
 
 Subsec. (b)(1)(D). Pub. L. 99–509, §9313(b)(1)(B), added subpar. (D).
 
-Subsec. (b)(2). Pub. L. 99–509, §9341(a)(1)(C), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Notwithstanding the provisions of subparagraph (C) of paragraph (1) of this subsection, a hearing shall not be available to an individual by reason of such subparagraph (C) if the amount in controversy is less than $100; nor shall judicial review be available to an individual by reason of such subparagraph (C) if the amount in controversy is less than $1,000.”
+Subsec. (b)(2). Pub. L. 99–509, §9341(a)(1)(C), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Notwithstanding the provisions of subparagraph (C) of paragraph (1) of this subsection, a hearing shall not be available to an individual by reason of such subparagraph (C) if the amount in controversy is less than $100; nor shall judicial review be available to anindividual by reason of such subparagraph (C) if the amount in controversy is less than $1,000.”
 
 Subsec. (b)(3), (4). Pub. L. 99–509, §9341(a)(1)(D), added pars. (3) and (4).
 
@@ -789,6 +787,10 @@ Subsec. (b)(3), (4). Pub. L. 99–509, §9341(a)(1)(D), added pars. (3) and (4).
 #### Change of Name
 
 References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriate transition provided by the Secretary of Health and Human Services in the use of those terms, see section 201 of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
+
+#### Effective Date of 2011 Amendment
+
+Amendment by Pub. L. 112–40 applicable to contracts entered into or renewed on or after Jan. 1, 2012, see section 261(e) of Pub. L. 112–40, set out as a note under section 1320c of this title.
 
 #### Effective Date of 2003 Amendment
 
@@ -802,7 +804,7 @@ Pub. L. 108–173, title IX, §938(b), Dec. 8, 2003, 117 Stat. 2415, provided th
 
 “(1)
 
-Effective date.—The Secretary \[of Health and Human Services\] shall establish the prior determination process under the amendment made by subsection (a) \[amending this section\] in such a manner as to provide for the acceptance of requests for determinationsunder such process filed not later than 18 months after the date of the enactment of this Act \[Dec. 8, 2003\].
+Effective date.—The Secretary \[of Health and Human Services\] shall establish the prior determination process under the amendment made by subsection (a) \[amending this section\] in such a manner as to provide for the acceptance of requests for determinations under such process filed not later than 18 months after the date of the enactment of this Act \[Dec. 8, 2003\].
 
 “(2)
 
@@ -858,7 +860,7 @@ Section 299O(b) of Pub. L. 92–603 provided that:
 
 “(1) The provisions of subparagraphs (A) and (B) of section 1869(b)(1) of the Social Security Act \[subsec. (b)(1)(A), (B) of this section\], as amended by subsection (a) of this section, shall be effective on the date of enactment of this Act \[Oct. 30, 1972\].
 
-“(2) The provisions of paragraph (2) and subparagraph (C) of paragraph (1) of section 1869(b) of the Social Security Act \[subsec. (b)(1)(C) and (b)(2) of this section\], as amended by subsection (a) of this section, shall be effective with respect to any claims under part A of title XVIII of such Act \[part A of this subchapter\], filed—
+“(2) The provisions of paragraph (2) and subparagraph (C) of paragraph (1) of section 1869(b) of the Social Security Act \[subsec. (b)(1)(C) and (b)(2) of this section\], as amended by subsection (a) of this section, shall be effective with respect to any claims under part A oftitle XVIII of such Act \[part A of this subchapter\], filed—
 
 &emsp;“(A) in or after the month in which this Act is enacted \[Oct. 1972\], or
 

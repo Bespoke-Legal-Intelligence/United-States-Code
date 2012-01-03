@@ -78,7 +78,7 @@ Pub. L. 108–358, §5, Oct. 22, 2004, 118 Stat. 1664, provided that:
 
 “(a)
 
-In General.—The Secretary of Health and Human Services shall ensure that the National Survey on Drug Use and Health includes questions concerning the use of anabolic steroids.
+In General.—The Secretary of Health and Human Services shall ensure that the National Surveyon Drug Use and Health includes questions concerning the use of anabolic steroids.
 
 “(b)
 

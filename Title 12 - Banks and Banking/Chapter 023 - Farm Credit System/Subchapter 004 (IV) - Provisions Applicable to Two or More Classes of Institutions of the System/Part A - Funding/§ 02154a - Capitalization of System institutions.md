@@ -24,7 +24,7 @@ As used in this section:
 
 #### (2) Stock
 
-&emsp;The term “stock” means voting and nonvoting stock (including preferred stock),equivalent contributions to a guaranty fund, participation certificates, allocated equities, and other forms and types of equities.
+&emsp;The term “stock” means voting and nonvoting stock (including preferred stock), equivalent contributions to a guaranty fund, participation certificates, allocated equities, and other forms and types of equities.
 
 #### (b) Adoption of bylaws
 
@@ -126,17 +126,17 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (c)(1)(D)(ii) to (iv). Pub. L. 110–246, §5403(b), added cl. (ii) and redesignated former cls. (ii) and (iii) as (iii) and (iv), respectively.
+<b>2008</b>—Subsec. (c)(1)(D)(ii) to (iv). Pub. L. 110–246, §5403(b), added cl. (ii) and redesignated former cls. (ii) and (iii) as (iii) and (iv), respectively.
 
-1996—Subsecs. (f) to (h). Pub. L. 104–105 added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
+<b>1996</b>—Subsecs. (f) to (h). Pub. L. 104–105 added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
-1992—Subsec. (a)(1). Pub. L. 102–552 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘permanent capital’ means current year retained earnings, allocated and unallocated earnings, all surplus (less allowances for losses), and stock issued by a System institution, except stock that—
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–552 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘permanent capital’ means current year retained earnings, allocated and unallocated earnings, all surplus (less allowances for losses), and stock issued by a System institution, except stock that—
 
 &emsp;“(A) may be retired by the holder thereof on repayment of the holder's loan, or otherwise at the option or request of the holder; or
 
 &emsp;“(B) is protected under section 2162 of this title or is otherwise not at risk.”
 
-1988—Subsec. (a)(1)(B). Pub. L. 100–399, §301(b), substituted “section 2162 of this title” for “section 4.9B”.
+<b>1988</b>—Subsec. (a)(1)(B). Pub. L. 100–399, §301(b), substituted “section 2162 of this title” for “section 4.9B”.
 
 Subsec. (c)(1)(D)(i). Pub. L. 100–399, §301(c)(1), substituted “producers or” for “producers, or”.
 

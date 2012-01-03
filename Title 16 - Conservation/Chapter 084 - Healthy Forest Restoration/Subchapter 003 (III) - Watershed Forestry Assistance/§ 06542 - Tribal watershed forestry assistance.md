@@ -40,7 +40,7 @@ The Secretary of Agriculture (referred to in this section as the “Secretary”
 
 #### (4) Project elements and objectives
 
-&emsp;A watershed forestry project shall accomplish critical forest stewardship, watershed protection, and restoration needs within landunder the jurisdiction of or administered by an Indian tribe by demonstrating the value of trees and forests to watershed health and condition through—
+&emsp;A watershed forestry project shall accomplish critical forest stewardship, watershed protection, and restoration needs within land under the jurisdiction of or administered by an Indian tribe by demonstrating the value of trees and forests to watershed health and condition through—
 
 &emsp;&emsp;(A) the use of trees as solutions to water quality problems;
 

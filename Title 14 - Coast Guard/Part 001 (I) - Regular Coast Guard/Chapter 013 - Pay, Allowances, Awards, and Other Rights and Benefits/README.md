@@ -28,8 +28,10 @@
 | [488\.](%C2%A7%2000488%20-%20Advancement%20of%20public%20funds%20to%20personnel.md) | Advancement of public funds to personnel. |
 | \[489, 490. | Repealed.\] |
 | [491\.](%C2%A7%2000491%20-%20Medal%20of%20honor.md) | Medal of honor. |
+| [491a.](%C2%A7%2000491a%20-%20Coast%20Guard%20cross.md) | Coast Guard cross. |
 | [492\.](%C2%A7%2000492%20-%20Distinguished%20service%20medal.md) | Distinguished service medal. |
-| [492a.](%C2%A7%2000492a%20-%20Distinguished%20flying%20cross.md) | Distinguished flying cross. |
+| [492a.](%C2%A7%2000492a%20-%20Silver%20star%20medal.md) | Silver star medal. |
+| [492b.](%C2%A7%2000492b%20-%20Distinguished%20flying%20cross.md) | Distinguished flying cross. |
 | [493\.](%C2%A7%2000493%20-%20Coast%20Guard%20medal.md) | Coast Guard medal. |
 | [494\.](%C2%A7%2000494%20-%20Insignia%20for%20additional%20awards.md) | Insignia for additional awards. |
 | \[495. | Repealed.\] |
@@ -55,6 +57,7 @@
 | [515\.](%C2%A7%2000515%20-%20Child%20development%20services.md) | Child development services. |
 | [516\.](%C2%A7%2000516%20-%20Presentation%20of%20United%20States%20flag%20upon%20retirement.md) | Presentation of United States flag upon retirement. |
 | [517\.](%C2%A7%2000517%20-%20Travel%20card%20management.md) | Travel card management. |
+| [518\.](%C2%A7%2000518%20-%20Reimbursement%20for%20medical-related%20travel%20expenses%20for%20certain%20persons%20residing%20on%20islands%20in%20the%20continental%20United%20States.md) | Reimbursement for medical-related travel expenses for certain persons residing on islands in the continental United States. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -64,55 +67,57 @@ Chapter 13 of this title deals with pay, allowances, awards, and other rights an
 
 #### Amendments
 
-2004—Pub. L. 108–293, title II, §§210(b), 218(b), Aug. 9, 2004, 118 Stat. 1036, 1039, added items 472 and 517.
+<b>2010</b>—Pub. L. 111–281, title II, §§203(b), 224(d), Oct. 15, 2010, 124 Stat. 2910, 2922, added items 491a, 492a, 492b, and 518 and struck out former item 492a “Distinguished flying cross”.
 
-2002—Pub. L. 107–295, title III, §312(b), Nov. 25, 2002, 116 Stat. 2102, added item 511 and struck out former item 511 “Compensatory absence of military personnel at isolated aids to navigation.”
+<b>2004</b>—Pub. L. 108–293, title II, §§210(b), 218(b), Aug. 9, 2004, 118 Stat. 1036, 1039, added items 472 and 517.
+
+<b>2002</b>—Pub. L. 107–295, title III, §312(b), Nov. 25, 2002, 116 Stat. 2102, added item 511 and struck out former item 511 “Compensatory absence of military personnel at isolated aids to navigation.”
 
 Pub. L. 107–248, title VIII, §8143(c)(4)(B), Oct. 23, 2002, 116 Stat. 1571, added item 505.
 
-2001—Pub. L. 107–107, div. A, title V, §553(d)(1)(B), Dec. 28, 2001, 115 Stat. 1117, added item 504.
+<b>2001</b>—Pub. L. 107–107, div. A, title V, §553(d)(1)(B), Dec. 28, 2001, 115 Stat. 1117, added item 504.
 
-1998—Pub. L. 105–261, div. A, title VI, §644(d)(2), Oct. 17, 1998, 112 Stat. 2049, added item 516.
+<b>1998</b>—Pub. L. 105–261, div. A, title VI, §644(d)(2), Oct. 17, 1998, 112 Stat. 2049, added item 516.
 
-1996—Pub. L. 104–324, title II, §201(b), Oct. 19, 1996, 110 Stat. 3907, added item 515.
+<b>1996</b>—Pub. L. 104–324, title II, §201(b), Oct. 19, 1996, 110 Stat. 3907, added item 515.
 
-1991—Pub. L. 102–190, div. A, title VI, §651(b)(2), Dec. 5, 1991, 105 Stat. 1387, added item 514.
+<b>1991</b>—Pub. L. 102–190, div. A, title VI, §651(b)(2), Dec. 5, 1991, 105 Stat. 1387, added item 514.
 
-1988—Pub. L. 100–448, §13(b), Sept. 28, 1988, 102 Stat. 1844, added item 513.
+<b>1988</b>—Pub. L. 100–448, §13(b), Sept. 28, 1988, 102 Stat. 1844, added item 513.
 
-1984—Pub. L. 98–557, §§15(a)(4)(D)(ii), 25(a)(3), Oct. 30, 1984, 98 Stat. 2866, 2872, struck out item 462a and substituted “members” for “officers, enlisted men,” in item 487.
+<b>1984</b>—Pub. L. 98–557, §§15(a)(4)(D)(ii), 25(a)(3), Oct. 30, 1984, 98 Stat. 2866, 2872, struck out item 462a and substituted “members” for “officers, enlisted men,” in item 487.
 
-1982—Pub. L. 97–295, §2(15)(B), Oct. 12, 1982, 96 Stat. 1302, struck out item 473.
+<b>1982</b>—Pub. L. 97–295, §2(15)(B), Oct. 12, 1982, 96 Stat. 1302, struck out item 473.
 
-1980—Pub. L. 96–376, §7(b), Oct. 3, 1980, 94 Stat. 1510, added item 512.
+<b>1980</b>—Pub. L. 96–376, §7(b), Oct. 3, 1980, 94 Stat. 1510, added item 512.
 
-1970—Pub. L. 91–278, §1(12), June 12, 1970, 84 Stat. 306, substituted “Leasing and hiring of quarters; rental of inadequate housing” for “Hiring of quarters for personnel” as item 475.
+<b>1970</b>—Pub. L. 91–278, §1(12), June 12, 1970, 84 Stat. 306, substituted “Leasing and hiring of quarters; rental of inadequate housing” for “Hiring of quarters for personnel” as item 475.
 
-1968—Pub. L. 90–377, §7, July 5, 1968, 82 Stat. 288, substituted “Persons discharged as result of court-martial; allowances to” for “Prisoners; allowances to; transportation” in item 509.
+<b>1968</b>—Pub. L. 90–377, §7, July 5, 1968, 82 Stat. 288, substituted “Persons discharged as result of court-martial; allowances to” for “Prisoners; allowances to; transportation” in item 509.
 
-1966—Pub. L. 89–718, §73(c)(2), Nov. 2, 1966, 80 Stat. 1124, struck out reference to pay and allowances and to pay of officers indebted to the United States and inserted reference to discharge in item 461.
+<b>1966</b>—Pub. L. 89–718, §73(c)(2), Nov. 2, 1966, 80 Stat. 1124, struck out reference to pay and allowances and to pay of officers indebted to the United States and inserted reference to discharge in item 461.
 
 Pub. L. 89–444, §1(26), June 9, 1966, 80 Stat. 197, struck out items 462, 464, 465, 466, 474, 504, 505, and 506.
 
-1964—Pub. L. 88–558, §7(1), Aug. 31, 1964, 78 Stat. 768, struck out item 490 effective two years after Aug. 31, 1964. Pub. L. 88–558 was subsequently repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068.
+<b>1964</b>—Pub. L. 88–558, §7(1), Aug. 31, 1964, 78 Stat. 768, struck out item 490 effective two years after Aug. 31, 1964. Pub. L. 88–558 was subsequently repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068.
 
-1962—Pub. L. 87–651, title III, §308, Sept. 7, 1962, 76 Stat. 527, struck out item 471a.
+<b>1962</b>—Pub. L. 87–651, title III, §308, Sept. 7, 1962, 76 Stat. 527, struck out item 471a.
 
 Pub. L. 87–649, §7(c), Sept. 7, 1962, 76 Stat. 495, struck out “active duty pay and” before “retired pay” in item 462a.
 
 Pub. L. 87–526, §1(2), (4), July 10, 1962, 76 Stat. 141, provided for remission of indebtedness of enlisted members in item 461 and struck out item 495 providing for additional pay for holders of medals.
 
-1956—Act Aug. 10, 1956, ch. 1041, §§10(b), 11(b), 12(b), 14(b), 70A Stat. 624, added items 462a, 471a, 492a, and 510.
+<b>1956</b>—Act Aug. 10, 1956, ch. 1041, §§10(b), 11(b), 12(b), 14(b), 70A Stat. 624, added items 462a, 471a, 492a, and 510.
 
 Act Aug. 1, 1956, ch. 837, title V, §502(8)(B), 70 Stat. 886, struck out item 489 “Death gratuity”.
 
-1955—Act Aug. 9, 1955, ch. 650, §3, 69 Stat. 577, added item 511.
+<b>1955</b>—Act Aug. 9, 1955, ch. 650, §3, 69 Stat. 577, added item 511.
 
-1954—Act Sept. 3, 1954, ch. 1263, §33(a), 68 Stat. 1238, inserted “; pay of officers indebted to United States” in item 461.
+<b>1954</b>—Act Sept. 3, 1954, ch. 1263, §33(a), 68 Stat. 1238, inserted “; pay of officers indebted to United States” in item 461.
 
-1952—Act July 10, 1952, ch. 631, §1, 66 Stat. 539, substituted “payment of expenses incident to apprehension and delivery” for “arrest by civil authority” in item 508.
+<b>1952</b>—Act July 10, 1952, ch. 631, §1, 66 Stat. 539, substituted “payment of expenses incident to apprehension and delivery” for “arrest by civil authority” in item 508.
 
-1950—Act Aug. 3, 1950, ch. 536, §25, 64 Stat. 407, struck out items 463 and 472.
+<b>1950</b>—Act Aug. 3, 1950, ch. 536, §25, 64 Stat. 407, struck out items 463 and 472.
 
 Act May 5, 1950, ch. 169, §16(b), 64 Stat. 149, added items 508 and 509.
 
@@ -153,8 +158,10 @@ Act May 5, 1950, ch. 169, §16(b), 64 Stat. 149, added items 508 and 509.
 - [&sect; 00489 - Repealed. Aug. 1, 1956, ch. 837, title V, &sect;502(8)(A), 70 Stat. 886](%C2%A7%2000489%20-%20Repealed.%20Aug.%201%2C%201956%2C%20ch.%20837%2C%20title%20V%2C%20%C2%A7502%288%29%28A%29%2C%2070%20Stat.%20886.md)
 - [&sect; 00490 - Repealed. Pub. L. 88&#8211;558, &sect;7(2), Aug. 31, 1964, 78 Stat. 768](%C2%A7%2000490%20-%20Repealed.%20Pub.%20L.%2088%E2%80%93558%2C%20%C2%A77%282%29%2C%20Aug.%2031%2C%201964%2C%2078%20Stat.%20768.md)
 - [&sect; 00491 - Medal of honor](%C2%A7%2000491%20-%20Medal%20of%20honor.md)
+- [&sect; 00491a - Coast Guard cross](%C2%A7%2000491a%20-%20Coast%20Guard%20cross.md)
 - [&sect; 00492 - Distinguished service medal](%C2%A7%2000492%20-%20Distinguished%20service%20medal.md)
-- [&sect; 00492a - Distinguished flying cross](%C2%A7%2000492a%20-%20Distinguished%20flying%20cross.md)
+- [&sect; 00492a - Silver star medal](%C2%A7%2000492a%20-%20Silver%20star%20medal.md)
+- [&sect; 00492b - Distinguished flying cross](%C2%A7%2000492b%20-%20Distinguished%20flying%20cross.md)
 - [&sect; 00493 - Coast Guard medal](%C2%A7%2000493%20-%20Coast%20Guard%20medal.md)
 - [&sect; 00494 - Insignia for additional awards](%C2%A7%2000494%20-%20Insignia%20for%20additional%20awards.md)
 - [&sect; 00495 - Repealed. Pub. L. 87&#8211;526, &sect;1(3), July 10, 1962, 76 Stat. 141](%C2%A7%2000495%20-%20Repealed.%20Pub.%20L.%2087%E2%80%93526%2C%20%C2%A71%283%29%2C%20July%2010%2C%201962%2C%2076%20Stat.%20141.md)
@@ -180,3 +187,4 @@ Act May 5, 1950, ch. 169, §16(b), 64 Stat. 149, added items 508 and 509.
 - [&sect; 00515 - Child development services](%C2%A7%2000515%20-%20Child%20development%20services.md)
 - [&sect; 00516 - Presentation of United States flag upon retirement](%C2%A7%2000516%20-%20Presentation%20of%20United%20States%20flag%20upon%20retirement.md)
 - [&sect; 00517 - Travel card management](%C2%A7%2000517%20-%20Travel%20card%20management.md)
+- [&sect; 00518 - Reimbursement for medical-related travel expenses for certain persons residing on islands in the continental United States](%C2%A7%2000518%20-%20Reimbursement%20for%20medical-related%20travel%20expenses%20for%20certain%20persons%20residing%20on%20islands%20in%20the%20continental%20United%20States.md)

@@ -40,7 +40,7 @@
 
 Not later than 5 years after the first date on which Exchanges are required to be operational under this title,<sup>1</sup> the Comptroller General shall conduct an ongoing study of Exchange activities and the enrollees in qualified health plans offered through Exchanges. Such study shall review—
 
-&emsp;(1) the operations and administration of Exchanges, including surveys and reports of qualified health plans offered through Exchanges and on the experience of such plans (including data on enrollees in Exchanges and individuals purchasing health insurance coverage outside of Exchanges), the expenses of Exchanges, claims statistics relating to qualified health plans, complaints data relating tosuch plans, and the manner in which Exchanges meet their goals;
+&emsp;(1) the operations and administration of Exchanges, including surveys and reports of qualified health plans offered through Exchanges and on the experience of such plans (including data on enrollees in Exchanges and individuals purchasing health insurance coverage outside of Exchanges), the expenses of Exchanges, claims statistics relating to qualified health plans, complaints data relating to such plans, and the manner in which Exchanges meet their goals;
 
 &emsp;(2) any significant observations regarding the utilization and adoption of Exchanges;
 

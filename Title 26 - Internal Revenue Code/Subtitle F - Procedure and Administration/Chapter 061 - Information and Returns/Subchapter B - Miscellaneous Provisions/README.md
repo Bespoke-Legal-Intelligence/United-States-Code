@@ -27,11 +27,14 @@
 | [6113\.](%C2%A7%2006113%20-%20Disclosure%20of%20nondeductibility%20of%20contributions.md) | Disclosure of nondeductibility of contributions. |
 | [6114\.](%C2%A7%2006114%20-%20Treaty-based%20return%20positions.md) | Treaty-based return positions. |
 | [6115\.](%C2%A7%2006115%20-%20Disclosure%20related%20to%20quid%20pro%20quo%20contributions.md) | Disclosure related to quid pro quo contributions. |
-| [6116\.](%C2%A7%2006116%20-%20Cross%20reference.md) | Cross reference. |
+| [6116\.](%C2%A7%2006116%20-%20Requirement%20for%20prisons%20located%20in%20United%20States%20to%20provide%20information%20for%20tax%20administration.md) | Requirement for prisons located in United States to provide information for tax administration. |
+| [6117\.](%C2%A7%2006117%20-%20Cross%20reference.md) | Cross reference. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2011</b>—Pub. L. 112–41, title V, §502(b), Oct. 21, 2011, 125 Stat. 460, added items 6116 and 6117 and struck out former item 6116 “Cross reference”.
 
 <b>2007</b>—Pub. L. 110–28, title VIII, §8246(a)(2)(C)(ii), May 25, 2007, 121 Stat. 201, substituted “Tax return preparer” for “Income tax return preparer” in item 6107.
 
@@ -79,4 +82,5 @@
 - [&sect; 06113 - Disclosure of nondeductibility of contributions](%C2%A7%2006113%20-%20Disclosure%20of%20nondeductibility%20of%20contributions.md)
 - [&sect; 06114 - Treaty-based return positions](%C2%A7%2006114%20-%20Treaty-based%20return%20positions.md)
 - [&sect; 06115 - Disclosure related to quid pro quo contributions](%C2%A7%2006115%20-%20Disclosure%20related%20to%20quid%20pro%20quo%20contributions.md)
-- [&sect; 06116 - Cross reference](%C2%A7%2006116%20-%20Cross%20reference.md)
+- [&sect; 06116 - Requirement for prisons located in United States to provide information for tax administration](%C2%A7%2006116%20-%20Requirement%20for%20prisons%20located%20in%20United%20States%20to%20provide%20information%20for%20tax%20administration.md)
+- [&sect; 06117 - Cross reference](%C2%A7%2006117%20-%20Cross%20reference.md)

@@ -4,7 +4,7 @@
 
 To the extent consistent with due regard for the protection from unauthorized disclosure of classified information relating to sensitive intelligence sources and methods or other exceptionally sensitive matters, the Director of National Intelligence and the heads of all departments, agencies, and other entities of the United States Government involved in intelligence activities shall—
 
-&emsp;(1) keep the congressional intelligence committees fully and currently informed of all intelligence activities, other than a covert action (as defined in section 413b(e) of this title), which are the responsibility of, are engaged in by, or are carried out for or on behalf of, any department, agency, or entity of the UnitedStates Government, including any significant anticipated intelligence activity and any significant intelligence failure; and
+&emsp;(1) keep the congressional intelligence committees fully and currently informed of all intelligence activities, other than a covert action (as defined in section 413b(e) of this title), which are the responsibility of, are engaged in by, or are carried out for or on behalf of, any department, agency, or entity of the United States Government, including any significant anticipated intelligence activity and any significant intelligence failure; and
 
 &emsp;(2) furnish the congressional intelligence committees any information or material concerning intelligence activities (including the legal basis under which the intelligence activity is being or was conducted), other than covert actions, which is within their custody or control, and which is requested by either of the congressional intelligence committees in order to carry out its authorized responsibilities.
 
@@ -42,7 +42,7 @@ Subsec. (c). Pub. L. 108–458, §1071(a)(1)(X), substituted “Director of Nati
 
 For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of this title.
 
-Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
+Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwiseexpressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 
 #### Furnishing of Intelligence Information to Senate and House Select Committees on Intelligence
 

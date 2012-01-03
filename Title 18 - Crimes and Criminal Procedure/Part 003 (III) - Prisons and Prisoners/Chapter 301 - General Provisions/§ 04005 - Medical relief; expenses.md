@@ -26,7 +26,7 @@ The Assisted Suicide Funding Restriction Act of 1997, referred to in subsec. (a)
 
 #### Amendments
 
-<b>1997</b>—Subsec. (a). Pub. L. 105–12 inserted “and to the extent consistent with the Assisted Suicide FundingRestriction Act of 1997” after “Upon request of the Attorney General”.
+<b>1997</b>—Subsec. (a). Pub. L. 105–12 inserted “and to the extent consistent with the Assisted Suicide Funding Restriction Act of 1997” after “Upon request of the Attorney General”.
 
 #### Effective Date of 1997 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) References to subchapter IV–A are references to pre-welfare-reform provisions
 
-Subject to the succeeding provisions of this section, with respect to a State any reference in this subchapter (or any other provision of law in relation to the operation of this subchapter) to a provision of part A of subchapter IV of this chapter, or a State plan under such part (or a provision of such a plan), including income and resource standards and income and resource methodologies under such part or plan, shall be considered a reference to such a provision or plan as in effect as of July 16, 1996, with respect to the State.
+Subject to the succeeding provisions of this section, with respect to a State any reference in this subchapter (or any other provision of law in relation to the operation of this subchapter) to a provision of part A of subchapter IV of this chapter, or a State plan under such part (or a provision of such a plan), including income and resource standards and income and resource methodologies under such part or plan, shall beconsidered a reference to such a provision or plan as in effect as of July 16, 1996, with respect to the State.
 
 #### (b) Application of pre-welfare-reform eligibility criteria
 
@@ -86,7 +86,7 @@ The provisions of this section shall apply notwithstanding any other provision o
 
 #### (2) Administrative expenditures described
 
-&emsp;The administrative expenditures described in this paragraph are expenditures described in section 1396b(a)(7) of this title that a State demonstrates to the satisfaction of the Secretary are attributable to administrative costs of eligibility determinations that (but for theenactment of this section) would not be incurred.
+&emsp;The administrative expenditures described in this paragraph are expenditures described in section 1396b(a)(7) of this title that a State demonstrates to the satisfaction of the Secretary are attributable to administrative costs of eligibility determinations that (but for the enactment of this section) would not be incurred.
 
 #### (3) Limitation
 
@@ -99,8 +99,6 @@ In this section, the term “welfare reform effective date” means the effectiv
 (Aug. 14, 1935, ch. 531, title XIX, §1931, as added Pub. L. 104–193, title I, §114(a)(2), Aug. 22, 1996, 110 Stat. 2177; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §602(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–394.)
 
 #### References in Text
-
-Parts A and D of subchapter IV of this chapter, referred to in text, are classified to sections 601 et seq. and 651 et seq., respectively, of this title.
 
 For effective date, with respect to a State, of title I of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (as specified in section 116 of such Act), referred to in subsec. (i), see section 116 of Pub. L. 104–193, set out as an Effective Date note under section 601 of this title.
 

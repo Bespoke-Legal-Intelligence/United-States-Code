@@ -12,7 +12,7 @@
 
 (b) An assignee not domiciled in the United States may designate by a document filed in the United States Patent and Trademark Office the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark. Such notices or process may be served upon the person so designated by leaving with that person or mailing to that person a copy thereof at the address specified in the last designation so filed. If the person so designated cannot be found at the address given in the last designation, or if the assignee does not designate by a document filed in the United States Patent and Trademark Office the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark, such notices or process may be served upon the Director.
 
-(July 5, 1946, ch. 540, title I, §10, 60 Stat. 431; Pub. L. 87–772, §6, Oct. 9, 1962, 76 Stat. 770; Pub.L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 100–667, title I, §112, Nov. 16, 1988, 102 Stat. 3939; Pub. L. 105–330, title I, §107, Oct. 30, 1998, 112 Stat. 3068; Pub. L. 106–43, §6(a), Aug. 5, 1999, 113 Stat. 220; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 107–273, div. C, title III, §13207(b)(5), Nov. 2, 2002, 116 Stat. 1907.)
+(July 5, 1946, ch. 540, title I, §10, 60 Stat. 431; Pub. L. 87–772, §6, Oct. 9, 1962, 76 Stat. 770; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 100–667, title I, §112, Nov. 16, 1988, 102 Stat. 3939; Pub. L. 105–330, title I, §107, Oct. 30, 1998, 112 Stat. 3068; Pub. L. 106–43, §6(a), Aug. 5, 1999, 113 Stat. 220; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 107–273, div. C, title III, §13207(b)(5), Nov. 2, 2002, 116 Stat. 1907.)
 
 #### Prior Provisions
 
@@ -36,7 +36,7 @@ Subsec. (b). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], subs
 
 “An assignee not domiciled in the United States shall be subject to and comply with the provisions of section 1051(e) of this title.”
 
-<b>1988</b>—Pub. L. 100–667 substituted “. However, no application to register a mark under section 1051(b) of this title shall be assignable prior to the filing of the verified statement of use under section 1051(d) of this title, except to a successor to the business of the applicant, or portion thereof, to which the mark pertains, if that business is ongoing and existing. In any assignment authorized by this section” for “and in any such assignment” in first par., and “1051(e)” for “1051(d)” in last par.
+<b>1988</b>—Pub. L. 100–667 substituted “. However, no application to register a mark under section 1051(b) of this title shall be assignable prior to the filing of the verified statement of use under section 1051(d) of thistitle, except to a successor to the business of the applicant, or portion thereof, to which the mark pertains, if that business is ongoing and existing. In any assignment authorized by this section” for “and in any such assignment” in first par., and “1051(e)” for “1051(d)” in last par.
 
 <b>1975</b>—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
 

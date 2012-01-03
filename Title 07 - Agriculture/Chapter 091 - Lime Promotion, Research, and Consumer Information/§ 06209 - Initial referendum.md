@@ -54,5 +54,5 @@ The ballots and other information or reports that reveal, or tend to reveal, the
 
 #### Amendments
 
-1993—Subsec. (a). Pub. L. 103–194 substituted “Not later than 30 months after the date on which the collection of assessments begins under the order pursuant to section 6204(d) of this title,” for “Not later than 2 years after the date on which the Secretary first issues an order under section 6203(a),”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–194 substituted “Not later than 30 months after the date on which the collection of assessments begins under the order pursuant to section 6204(d) of this title,” for “Not later than 2 years after the date on which the Secretary first issues an order under section 6203(a),”.
 

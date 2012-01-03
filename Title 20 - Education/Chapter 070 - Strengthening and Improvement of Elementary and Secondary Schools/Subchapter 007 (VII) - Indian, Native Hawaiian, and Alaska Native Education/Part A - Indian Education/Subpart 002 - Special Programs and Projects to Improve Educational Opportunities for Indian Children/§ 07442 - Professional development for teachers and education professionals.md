@@ -78,7 +78,7 @@ Each grant under this section shall be awarded for a period of not more than 5 y
 
 #### (2) Reporting
 
-&emsp;The Secretary shall establish, by regulation, a reporting procedure under which a grant recipient under this section shall, not later than 12 months after the date of completion of the training, and periodically thereafter, provideinformation concerning compliance with the work requirement under paragraph (1).
+&emsp;The Secretary shall establish, by regulation, a reporting procedure under which a grant recipient under this section shall, not later than 12 months after the date of completion of the training, and periodically thereafter, provide information concerning compliance with the work requirement under paragraph (1).
 
 (Pub. L. 89–10, title VII, §7122, as added Pub. L. 107–110, title VII, §701, Jan. 8, 2002, 115 Stat. 1922.)
 

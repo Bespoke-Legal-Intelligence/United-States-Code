@@ -18,7 +18,7 @@ The rules of section 7216(b) shall apply for purposes of this section.
 
 Subchapter B of chapter 63 (relating to deficiency procedures for income, estate, gift, and certain excise taxes) shall not apply in respect of the assessment or collection of any penalty imposed by this section.
 
-(Added Pub. L. 100–647, title VI, §6242(a), Nov. 10, 1988, 102 Stat. 3749, §6712; renumbered §6713, Pub. L. 101–239, title VII, §7816(v)(1), Dec. 19, 1989, 103 Stat. 2423.)
+(Added Pub. L. 100–647, title VI, §6242(a), Nov. 10, 1988, 102 Stat. 3749, §6712; renumbered §6713, Pub.L. 101–239, title VII, §7816(v)(1), Dec. 19, 1989, 103 Stat. 2423.)
 
 #### Effective Date
 

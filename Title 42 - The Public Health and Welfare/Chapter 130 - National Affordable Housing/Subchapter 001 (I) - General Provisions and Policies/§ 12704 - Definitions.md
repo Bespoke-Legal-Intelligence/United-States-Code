@@ -140,7 +140,7 @@ Section 222 of title II of Pub. L. 102–550 provided that: “The Secretary of 
 
 #### Transition Rule
 
-Section 217(b) of Pub. L. 102–550 provided that: “For the purposes of determining compliance with the requirements of section 104(6) of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12704(6)\], the Secretary of Housing and Urban Development may provide an exception for organizations that meet the definition of community housing development organization, except for significant representation of low-income community residents on the board, if such organization fulfills such requirement within 6 months of receiving funds under title II of such Act \[42 U.S.C. 12721 et seq.\] or September 30, 1993, whichever is sooner.”
+Section 217(b) of Pub. L. 102–550 provided that: “For the purposes of determining compliance with the requirements of section 104(6) of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12704(6)\], the Secretary of Housing and Urban Development may provide an exception for organizations that meet thedefinition of community housing development organization, except for significant representation of low-income community residents on the board, if such organization fulfills such requirement within 6 months of receiving funds under title II of such Act \[42 U.S.C. 12721 et seq.\] or September 30, 1993, whichever is sooner.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “(22)”.</i>
 

@@ -10,5 +10,5 @@ Section is comprised of first par. of section 15 of act Dec. 23, 1913. Par. 2 of
 
 #### Amendments
 
-1968—Pub. L. 90–269 struck out provision which excepted funds provided in this chapter for the redemption of Federal Reserve notes from deposit in Federal reserve banks.
+<b>1968</b>—Pub. L. 90–269 struck out provision which excepted funds provided in this chapter for the redemption of Federal Reserve notes from deposit in Federal reserve banks.
 

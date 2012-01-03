@@ -6,11 +6,11 @@ Any person adversely affected by any pattern or practice of telemarketing which 
 
 #### (b) Notice
 
-The plaintiff shall serve prior written notice of the action upon the Commission and provide the Commission with a copy of its complaint, except in any case where such prior notice is not feasible, in which case the person shall serve such notice immediately upon instituting such action. The Commission shall have the right (A)to intervene in the action, (B) upon so intervening, to be heard on all matters arising therein, and (C) to file petitions for appeal.
+The plaintiff shall serve prior written notice of the action upon the Commission and provide the Commission with a copy of its complaint, except in any case where such prior notice is not feasible, in which case the person shall serve such notice immediately upon instituting such action. The Commission shall have the right (A) to intervene in the action, (B) upon so intervening, to be heard on all matters arising therein, and (C) to file petitions for appeal.
 
-#### (c) Action by Commission
+#### (c) Action by Commission or the Bureau of Consumer Financial Protection
 
-Whenever a civil action has been instituted by or on behalf of the Commission for violation of any rule prescribed under section 6102 of this title, no person may, during the pendency of such action instituted by or on behalf of the Commission, institute a civil action against any defendant named in the complaint in such action for violation of any rule as alleged in such complaint.
+Whenever a civil action has been instituted by or on behalf of the Commission or the Bureau of Consumer Financial Protection for violation of any rule prescribed under section 6102 of this title, no person may, during the pendency of such action instituted by or on behalf of the Commission or the Bureau of Consumer Financial Protection, institute a civil action against any defendant named in the complaint in such action for violation of any rule as alleged in such complaint.
 
 #### (d) Cost and fees
 
@@ -26,9 +26,9 @@ Any civil action brought under subsection (a) of this section in a district cour
 
 (Pub. L. 103–297, §5, Aug. 16, 1994, 108 Stat. 1549; Pub. L. 111–203, title X, §1100C(c), July 21, 2010, 124 Stat. 2111.)
 
-#### Amendment of Subsection (c)
+#### Amendments
 
-<i>Pub. L. 111–203, title X, §§1100C(c), 1100H, July 21, 2010, 124 Stat. 2111, 2113, provided that, effective on the designated transfer date, subsection (c) of this section is amended by inserting after “Commission” each place that term appears the following: “or the Bureau of Consumer Financial Protection”. See Effective Date of 2010 Amendment note below.</i>
+<b>2010</b>—Subsec. (c). Pub. L. 111–203 inserted “or the Bureau of Consumer Financial Protection” after “Commission” wherever appearing.
 
 #### Effective Date of 2010 Amendment
 

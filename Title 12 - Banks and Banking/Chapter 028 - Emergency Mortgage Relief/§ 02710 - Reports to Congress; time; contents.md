@@ -4,11 +4,19 @@ Within sixty days after July 2, 1975, and within each sixty-day period thereafte
 
 (Pub. L. 94–50, title I, §111, July 2, 1975, 89 Stat. 253; Pub. L. 94–375, §13(c), Aug. 3, 1976, 90 Stat. 1075.)
 
+#### Repeal of Section
+
+<i>Pub. L. 111–203, title XIV, §§1400(c), 1496(b)(7), July 21, 2010, 124 Stat. 2136, 2209, provided that this section is repealed, effective on the date on which final regulations implementing such repeal take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date. See Effective Date of Repeal note below.</i>
+
 #### References in Text
 
 The National Housing Act, referred to in text, is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to chapter 13 (§1701 et seq.) of this title. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
 
 #### Amendments
 
-1976—Pub. L. 94–375 substituted “October 1, 1977” for “July 1, 1976”.
+<b>1976</b>—Pub. L. 94–375 substituted “October 1, 1977” for “July 1, 1976”.
+
+#### Effective Date of Repeal
+
+Repeal of section effective on the date on which final regulations implementing such repeal take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as a note under section 1601 of Title 15, Commerce and Trade.
 

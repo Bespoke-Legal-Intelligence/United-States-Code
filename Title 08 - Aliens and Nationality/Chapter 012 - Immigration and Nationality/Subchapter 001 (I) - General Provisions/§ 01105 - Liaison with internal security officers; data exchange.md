@@ -42,11 +42,11 @@ This chapter, referred to in subsec. (a), was in the original, “this Act”, m
 
 #### Amendments
 
-2001—Pub. L. 107–56 inserted “; data exchange” after “security officers” in section catchline, designated existing provisions as subsec. (a), inserted “and border” before “security of the United States”, and added subsecs. (b) to (d).
+<b>2001</b>—Pub. L. 107–56 inserted “; data exchange” after “security officers” in section catchline, designated existing provisions as subsec. (a), inserted “and border” before “security of the United States”, and added subsecs. (b) to (d).
 
-1994—Pub. L. 103–236 substituted “Administrator” for “Assistant Secretary of State for Consular Affairs” in two places.
+<b>1994</b>—Pub. L. 103–236 substituted “Administrator” for “Assistant Secretary of State for Consular Affairs” in two places.
 
-1977—Pub. L. 95–105 substituted “Assistant Secretary of State for Consular Affairs” for “administrator” in two places.
+<b>1977</b>—Pub. L. 95–105 substituted “Assistant Secretary of State for Consular Affairs” for “administrator” in two places.
 
 #### Effective Date of 1994 Amendment
 

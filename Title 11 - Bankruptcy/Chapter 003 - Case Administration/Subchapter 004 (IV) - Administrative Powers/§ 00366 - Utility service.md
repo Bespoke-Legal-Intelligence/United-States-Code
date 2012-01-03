@@ -38,7 +38,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 366 of the House amendment represents a compromise between comparable provisions contained in H.R. 8200 as passed by the House and the Senate amendment. Subsection (a) is modified so that the applicable date is the date of the order for relief rather than the date of the filing of the petition. Subsection (b) contains a similar change but is otherwise derived from section 366(b) of the Senate amendment, with the exception that a time period for continued service of 20 days rather than 10 days is adopted.
 
@@ -48,11 +48,11 @@ This section gives debtors protection from a cut-off of service by a utility bec
 
 #### Amendments
 
-2005—Subsec. (a). Pub. L. 109–8, §417(1), substituted “subsections (b) and (c)” for “subsection (b)”.
+<b>2005</b>—Subsec. (a). Pub. L. 109–8, §417(1), substituted “subsections (b) and (c)” for “subsection (b)”.
 
 Subsec. (c). Pub. L. 109–8, §417(2), added subsec. (c).
 
-1984—Subsec. (a). Pub. L. 98–353 inserted “of the commencement of a case under this title or” after “basis”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–353 inserted “of the commencement of a case under this title or” after “basis”.
 
 #### Effective Date of 2005 Amendment
 

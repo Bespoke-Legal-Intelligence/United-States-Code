@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Beginning 180 days after August 14, 2008, the provisions of ASTM International Standard F963–07 Consumer Safety Specifications for Toy Safety (ASTM F963), as it exists on August 14, 2008 (except for section 4.2 and Annex 4 or any provision that restates or incorporates an existing mandatory standard or ban promulgated by the Commission or by statute) shall be considered to be consumer product safety standards issued by the Commission under section 2058 of this title.
+Beginning 180 days after August 14, 2008, the provisions of ASTM International Standard F963–07 Consumer Safety Specifications for Toy Safety (ASTM F963), as it exists on August 14, 2008 (except for section 4.2 and Annex 4 or any provision that restates or incorporates an existing mandatory standard or ban promulgated by the Commission or by statute or any provision that restates or incorporates a regulation promulgated by the Food and Drug Administration or any statute administered by the Food and Drug Administration) shall be considered to be consumer product safety standards issued by the Commission under section 2058 of this title.
 
 #### (b) Rulemaking for specific toys, components and risks
 
@@ -76,9 +76,9 @@ If ASTM International (or its successor entity) proposes to revise ASTM F963–0
 
 #### (i) Judicial review
 
-The issuance of any rule under this section is subject to judicial review as provided in section2060(g) of this title, as added by section 236 of this Act.
+The issuance of any rule under this section is subject to judicial review as provided in section 2060(g) of this title, as added by section 236 of this Act.
 
-(Pub. L. 110–314, title I, §106, Aug. 14, 2008, 122 Stat. 3033.)
+(Pub. L. 110–314, title I, §106, Aug. 14, 2008, 122 Stat. 3033; Pub. L. 112–28, §4, Aug. 12, 2011, 125 Stat. 280.)
 
 #### References in Text
 
@@ -89,6 +89,10 @@ Section 2060(g) of this title, as added by section 236 of this Act, referred to 
 #### Codification
 
 Section was enacted as part of the Consumer Product Safety Improvement Act of 2008, and not as part of the Consumer Product Safety Act which comprises this chapter.
+
+#### Amendments
+
+<b>2011</b>—Subsec. (a). Pub. L. 112–28 inserted “or any provision that restates or incorporates a regulation promulgated by the Food and Drug Administration or any statute administered by the Food and Drug Administration” after “or by statute”.
 
 #### Definition
 

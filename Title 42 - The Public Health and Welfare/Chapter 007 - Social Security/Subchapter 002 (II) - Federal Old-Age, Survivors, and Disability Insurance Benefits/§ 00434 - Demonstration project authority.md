@@ -26,7 +26,7 @@
 
 #### (b) Requirements
 
-The experiments and demonstration projects developed under subsection (a) of this sectionshall be of sufficient scope and shall be carried out on a wide enough scale to permit a thorough evaluation of the alternative methods under consideration while giving assurance that the results derived from the experiments and projects will obtain generally in the operation of the disability insurance program under this subchapter without committing such program to the adoption of any particular system either locally or nationally.
+The experiments and demonstration projects developed under subsection (a) of this section shall be of sufficient scope and shall be carried out on a wide enough scale to permit a thorough evaluation of the alternative methods under consideration while giving assurance that the results derived from the experiments and projects will obtain generally in the operation of the disability insurance program under this subchapter without committing such program to the adoption of any particular system either locally or nationally.
 
 #### (c) Authority to waive compliance with benefits requirements
 
@@ -36,7 +36,7 @@ In the case of any experiment or demonstration project initiated under subsectio
 
 #### (1) Interim reports
 
-&emsp;On or before June 9 of each year, the Commissioner shall submit to the Committee on Ways and Means of the House of Representatives and to the Committee on Finance of the Senate an annual interim report on the progress of the experiments and demonstration projects carried out under this subsection <sup>1</sup> together with any related data and materials that the Commissioner may consider appropriate.
+&emsp;On or before June 9 of each year, the Commissioner shall submit to the Committee onWays and Means of the House of Representatives and to the Committee on Finance of the Senate an annual interim report on the progress of the experiments and demonstration projects carried out under this subsection <sup>1</sup> together with any related data and materials that the Commissioner may consider appropriate.
 
 #### (2) Termination and final report
 
@@ -100,7 +100,7 @@ Final Report.—The Commissioner of Social Security shall submit to the Congress
 
 “(f)
 
-Expenditures.—Administrative expenses for demonstration projects under this section shall be paid from funds available for the administration of title II or XVIII of the Social Security Act \[subchapters II and XVIII of this chapter\], as appropriate. Benefits payable to or on behalf of individuals by reason of participation in projects under this section shall be made from the Federal Disability Insurance Trust Fund and the Federal Old-Age and Survivors Insurance Trust Fund, as determined appropriate by the Commissioner of Social Security, and from the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund, as determined appropriate by the Secretary of Health and Human Services, from funds available for benefits under such title II or XVIII.”
+Expenditures.—Administrative expenses for demonstration projects under this section shall be paid from funds available for the administration of title II or XVIII of the Social Security Act \[subchapters II and XVIII of this chapter\], as appropriate. Benefits payable to or on behalf of individuals by reason of participation in projects under this section shall be made from the Federal Disability Insurance Trust Fund and the Federal Old-Age and Survivors Insurance Trust Fund, as determined appropriate by the Commissioner of Social Security, and from the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund, as determined appropriate by theSecretary of Health and Human Services, from funds available for benefits under such title II or XVIII.”
 
 #### Study by General Accounting Office of the Impact of the Substantial Gainful Activity Limit on Return to Work
 

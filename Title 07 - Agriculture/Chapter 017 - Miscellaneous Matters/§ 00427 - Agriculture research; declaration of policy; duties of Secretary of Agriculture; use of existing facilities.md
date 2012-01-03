@@ -16,11 +16,11 @@ Another section 1446 of Pub. L. 95–113 is classified to section 3222a of this 
 
 #### Amendments
 
-1980—Pub. L. 96–294 inserted provisions relating to applied research to develop agricultural, forestry, and rural energy conservation and biomass energy production and use.
+<b>1980</b>—Pub. L. 96–294 inserted provisions relating to applied research to develop agricultural, forestry, and rural energy conservation and biomass energy production and use.
 
-1977—Pub. L. 95–113 inserted reference to research and development relating to uses of solar energy with respect to farm buildings, farm homes, and farm machinery (including equipment used to dry and cure crops and provide irrigation) and inserted definition of “solar energy”.
+<b>1977</b>—Pub. L. 95–113 inserted reference to research and development relating to uses of solar energy with respect to farm buildings, farm homes, and farm machinery (including equipment used to dry and cure crops and provide irrigation) and inserted definition of “solar energy”.
 
-1946—Act Aug. 14, 1946, amended section generally to provide for a greatly augmented research program in order to enable agriculture to attain a position in research comparable to that of other industries.
+<b>1946</b>—Act Aug. 14, 1946, amended section generally to provide for a greatly augmented research program in order to enable agriculture to attain a position in research comparable to that of other industries.
 
 #### Effective Date of 1977 Amendment
 

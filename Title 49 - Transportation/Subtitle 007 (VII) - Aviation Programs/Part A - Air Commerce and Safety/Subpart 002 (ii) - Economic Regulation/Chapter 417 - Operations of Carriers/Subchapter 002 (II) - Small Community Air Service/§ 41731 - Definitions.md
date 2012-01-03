@@ -6,21 +6,33 @@ General.—In this subchapter—
 
 &emsp;(1) “eligible place” means a place in the United States that—
 
-&emsp;&emsp;(A)(i) was an eligible point under section 419 of the Federal Aviation Act of 1958 before October 1, 1988;
+&emsp;&emsp;(A)(i)(I) was an eligible point under section 419 of the Federal Aviation Act of 1958 before October 1, 1988;
 
-&emsp;&emsp;(ii) received scheduled air transportation at any time after January 1, 1990; and
+&emsp;&emsp;(II) received scheduled air transportation at any time after January 1, 1990; and
 
-&emsp;&emsp;(iii) is not listed in Department of Transportation Orders 89–9–37 and 89–12–52 as a place ineligible for compensation under this subchapter; or
+&emsp;&emsp;(III) is not listed in Department of Transportation Orders 89–9–37 and 89–12–52 as a place ineligible for compensation under this subchapter; or
 
-&emsp;&emsp;(B) determined,<sup>1</sup> on or after October 1, 1988, and before the date of the enactment of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century, under this subchapter by the Secretary to be eligible to receive subsidized small community air service under section 41736(a).
+&emsp;&emsp;(ii) was determined, on or after October 1, 1988, and before the date of the enactment of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century, under this subchapter by the Secretary of Transportation to be eligible to receive subsidized small community air service under section 41736(a);
 
-&emsp;(2) “enhanced essential air service” means scheduled air transportation to an eligible place of a higher level or quality than basic essential air service described in section 41732 of this title.
+&emsp;&emsp;(B) is located not less than 90 miles from the nearest medium or large hub airport; and
+
+&emsp;&emsp;(C) had an average subsidy per passenger of less than $1,000 during the most recent fiscal year, as determined by the Secretary.
+
+&emsp;(2) “enhanced essential air service” means scheduled air transportation to an eligibleplace of a higher level or quality than basic essential air service described in section 41732 of this title.
 
 (b)
 
-Limitation on Authority To Decide a Place Not an Eligible Place.—The Secretary of Transportation may not decide that a place described in subsection (a)(1) of this section is not an eligible place on the basis of a passenger subsidy at that place or on another basis that is not specifically stated in this subchapter.
+Limitation on Authority To Decide a Place Not an Eligible Place.—The Secretary may not decide that a place described in subsection (a)(1) of this section is not an eligible place on any basis that is not specifically stated in this subchapter.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1143; Pub. L. 106–181, title II, §208, Apr. 5, 2000, 114 Stat. 95; Pub. L. 108–176, title II, §225(b)(2), Dec. 12, 2003, 117 Stat. 2529.)
+(c)
+
+Exceptions for Locations in Alaska.—Subsections (a)(1)(B) and (a)(1)(C) shall not apply with respect to a location in the State of Alaska.
+
+(d)
+
+Waivers.—The Secretary may waive subsection (a)(1)(B) with respect to a location if the Secretary determines that the geographic characteristics of the location result in undue difficulty in accessing the nearest medium or large hub airport.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1143; Pub. L. 106–181, title II, §208, Apr. 5, 2000, 114 Stat. 95; Pub. L. 108–176, title II, §225(b)(2), Dec. 12, 2003, 117 Stat. 2529; Pub. L. 112–27, §6, Aug. 5, 2011, 125 Stat. 271.)
 
 Historical and Revision Notes
 
@@ -76,6 +88,12 @@ The date of the enactment of the Wendell H. Ford Aviation Investment and Reform 
 
 #### Amendments
 
+<b>2011</b>—Subsec. (a)(1). Pub. L. 112–27, §6(a), redesignated cls. (i) to (iii) of subpar. (A) as subcls. (I) to (III), respectively, redesignated subpars. (A) and (B) as cls. (i) and (ii), respectively, inserted “(A)” before “(i)(I)” in subcl. (I) of cl. (i), substituted “was determined” for “determined”, “Secretary of Transportation” for “Secretary”, and semicolon for period at end in cl. (ii) of subpar. (A), and added subpars. (B) and (C).
+
+Subsec. (b). Pub. L. 112–27, §6(b), substituted “Secretary” for “Secretary of Transportation” and “on any basis” for “on the basis of a passenger subsidy at that place or on another basis”.
+
+Subsecs. (c), (d). Pub. L. 112–27, §6(c), added subsecs. (c) and (d).
+
 <b>2003</b>—Subsec. (a)(3) to (5). Pub. L. 108–176 struck out pars. (3) to (5) which defined “hub airport”, “nonhub airport”, and “small hub airport”, respectively.
 
 <b>2000</b>—Subsec. (a)(1). Pub. L. 106–181 redesignated subpars. (A), (B), and (C) as cls. (i), (ii), and (iii), respectively, of subpar (A) and added subpar. (B).
@@ -102,11 +120,11 @@ Limitation.—The Secretary may not require air carriers to participate in the p
 
 #### Measurement of Highway Miles for Purposes of Determining Eligibility of Essential Air Service Subsidies
 
-Pub. L. 108–176, title IV, §409, Dec. 12, 2003, 117 Stat. 2547, as amended by Pub. L. 110–190, §4(d)(1), Feb. 28, 2008, 122 Stat. 644; Pub. L. 110–330, §5(k), Sept. 30, 2008, 122 Stat. 3719; Pub. L. 111–69, §5(k), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–249, §5(k), Sept. 30, 2010, 124 Stat. 2628, provided that:
+Pub. L. 108–176, title IV, §409, Dec. 12, 2003, 117 Stat. 2547, as amended by Pub. L. 110–190, §4(d)(1), Feb. 28, 2008, 122 Stat. 644; Pub. L. 110–330, §5(k), Sept. 30, 2008, 122 Stat. 3719; Pub. L. 111–69, §5(k), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–249, §5(k), Sept. 30, 2010, 124 Stat. 2628; Pub. L. 112–30, title II, §205(k), Sept. 16, 2011, 125 Stat. 358, provided that:
 
 “(a)
 
-Request for Secretarial Review.—An eligible place (as defined in section 41731 of title 49, United States Code) with respect to which the Secretary has, in the 2-year period ending on the date of enactment of this Act \[Dec. 12, 2003\], eliminated (or tentatively eliminated) compensation for essential air service to such place, or terminated (or tentatively terminated) the compensation eligibility of such place for essential air service, under section 332 of the Department of Transportation and Related Agencies Appropriations Act, 2000 \[Pub. L. 106–69\] (49 U.S.C. 41731 note), section 205 of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century \[Pub. L. 106–181\] (49 U.S.C. 41731 note), or any prior law of similar effect based on the highway mileage of such place from the nearest hub airport (as defined in section 40102 of such title), may request the Secretary to review such action.
+Request for Secretarial Review.—An eligible place (as defined in section 41731 of title 49, United States Code) with respect to which the Secretary has, in the 2-year period ending on the date of enactment of this Act \[Dec. 12, 2003\], eliminated (or tentatively eliminated) compensation for essential air service to such place, or terminated (or tentatively terminated) the compensation eligibility of such place for essential air service, under section 332 of the Department of Transportation and Related Agencies Appropriations Act, 2000 \[Pub. L. 106–69\] (49 U.S.C. 41731 note), section205 of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century \[Pub. L. 106–181\] (49 U.S.C. 41731 note), or any prior law of similar effect based on the highway mileage of such place from the nearest hub airport (as defined in section 40102 of such title), may request the Secretary to review such action.
 
 “(b)
 
@@ -126,7 +144,7 @@ Eligibility Determination.—Not later than 60 days after receiving a request un
 
 “(d)
 
-Limitation on Period of Final Order.—A final order issued under subsection (c) shall terminate on September 30, 2011.”
+Limitation on Period of Final Order.—A final order issued under subsection (c) shall terminate on January 31, 2012.”
 
 \[Pub. L. 110–190, §4(d)(2), Feb. 28, 2008, 122 Stat. 644, provided that: “The amendment made by paragraph (1) \[amending section 409(d) of Pub. L. 108–176, set out above\] shall take effect on September 29, 2007, and shall apply with respect to any final order issued under section 409(c) of such Act \[section 409(c) of Pub. L. 108–176, set out above\] that was in effect on such date.”\]
 
@@ -169,6 +187,4 @@ Similar provisions were contained in the following prior appropriation act:
 Pub. L. 105–277, div. A, §101(g) \[title III, §334\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–471.
 
 Pub. L. 105–66, title III, §336, Oct. 27, 1997, 111 Stat. 1447.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “was determined,”.</i>
 

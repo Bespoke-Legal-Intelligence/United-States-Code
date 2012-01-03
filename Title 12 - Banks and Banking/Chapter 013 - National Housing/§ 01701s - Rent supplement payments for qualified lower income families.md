@@ -6,7 +6,7 @@ The Secretary of Housing and Urban Development (hereinafter referred to as the �
 
 #### (b) “Housing owner” defined; limitation on payments to housing owner
 
-As used in this section, the term “housing owner” means a private nonprofit corporation or other private nonprofit legal entity, a limited dividend corporation or other limited dividend legal entity, or a cooperative housing corporation, which is a mortgagor under section 221(d)(3) of the National Housing Act \[12 U.S.C. 1715<i>l</i>(d)(3)\] and which, after August 10, 1965, has been approved for mortgage insurance thereunder and has been approved for receiving the benefits of this section: <i>Provided</i>, That, except as provided in subsection (j) of this section, no payments under this section may be made with respect to any property financed with a mortgage receiving the benefits of the interest rate provided for in the proviso in section 221(d)(5) of that Act \[12 U.S.C. 1715<i>l</i>(d)(5)\]. Such term also includes a private nonprofit corporation or other private nonprofit legal entity, a limited dividend corporation or other limited dividend legal entity, or a cooperative housing corporation, which is the owner of a rental or cooperative housing project financed under a State or local program providing assistance through loans, loan insurance, or tax abatement and which may involve either new or existing construction and which is approved for receiving the benefits of this section. Subject to the limitations provided in subsection (j) of this section, the term “housing owner” also has the meaning prescribed in such subsection. Nothing in this section shall be construed as preventing payments to a housing owner with respect to projects in which all or part of the dwelling units do not contain kitchen facilities; but of the total amount of contracts to make annual payments approved in appropriation Acts pursuant to subsection (a) of this section after December 31, 1970, not more than 10 per centum in the aggregate shall be made with respect to such projects.
+As used in this section, the term “housing owner” means a private nonprofit corporationor other private nonprofit legal entity, a limited dividend corporation or other limited dividend legal entity, or a cooperative housing corporation, which is a mortgagor under section 221(d)(3) of the National Housing Act \[12 U.S.C. 1715<i>l</i>(d)(3)\] and which, after August 10, 1965, has been approved for mortgage insurance thereunder and has been approved for receiving the benefits of this section: <i>Provided</i>, That, except as provided in subsection (j) of this section, no payments under this section may be made with respect to any property financed with a mortgage receiving the benefits of the interest rate provided for in the proviso in section 221(d)(5) of that Act \[12 U.S.C. 1715<i>l</i>(d)(5)\]. Such term also includes a private nonprofit corporation or other private nonprofit legal entity, a limited dividend corporation or other limited dividend legal entity, or a cooperative housing corporation, which is the owner of a rental or cooperative housing project financed under a State or local program providing assistance through loans, loan insurance, or tax abatement and which may involve either new or existing construction and which is approved for receiving the benefits of this section. Subject to the limitations provided in subsection (j) of this section, the term “housing owner” also has the meaning prescribed in such subsection. Nothing in this section shall be construed as preventing payments to a housing owner with respect to projects in which all or part of the dwelling units do not contain kitchen facilities; but of the total amount of contracts to make annual payments approved in appropriation Acts pursuant to subsection (a) of this section after December 31, 1970, not more than 10 per centum in the aggregate shall be made with respect to such projects.
 
 #### (c) Definitions
 
@@ -36,7 +36,7 @@ The amount of the annual payment with respect to any dwelling unit shall be the 
 
 #### (g) Authority of Secretary
 
-The Secretary is authorized to make such rules and regulations, to enter into such agreements, and to adopt such procedures as he may deem necessary or desirable to carry out the provisions of this section. Nothing contained in this section shall affect the authority of the Secretary of Housing and Urban Development with respect to any housing assisted under this section, section 221(d)(3), section 231(c)(3), or section 236 of the National Housing Act \[12 U.S.C. 1715<i>l</i>(d)(3), 1715v(c)(3), 1715z–1\], or section 1701q of this title, including the authority to prescribe occupancy requirements under other provisions of law or to determine the portion of such housing which may be occupied by qualified tenants. To ensure that qualified tenants occupying that number of units with respect to which assistance was being provided under this section immediately prior to November 30, 1983, receive the benefit of assistance contracted for under this section, the Secretary shall offer annually to amend contracts entered into with owners of projects assisted under this section but not subject to mortgages insured under title II of the National Housing Act \[12 U.S.C. 1707 et seq.\] to provide sufficient payments to cover 100 percent of the necessary rent increases and changes in the incomes of qualified tenants, subject to the availability of authority for such purpose under section 1437c(c) of title 42. The Secretary shall take such actions as may be necessary to ensure that payments, including payments that reflect necessary rent increases and changes in the incomes of tenants, are made on a timely basis for all units covered by contracts entered into under this section.
+The Secretary is authorized to make such rules and regulations, to enter into such agreements, and to adopt such procedures as he may deem necessary or desirable to carry out the provisions of this section. Nothing contained in this section shall affect the authority of the Secretary of Housing and Urban Development with respect to any housing assisted under this section, section 221(d)(3), section 231(c)(3), or section 236 of the National Housing Act \[12 U.S.C. 1715<i>l</i>(d)(3), 1715v(c)(3), 1715z–1\], or section 1701q of this title, including the authority to prescribe occupancy requirements under other provisions of law or to determine the portion of such housing which may be occupied by qualified tenants. To ensure that qualified tenants occupying thatnumber of units with respect to which assistance was being provided under this section immediately prior to November 30, 1983, receive the benefit of assistance contracted for under this section, the Secretary shall offer annually to amend contracts entered into with owners of projects assisted under this section but not subject to mortgages insured under title II of the National Housing Act \[12 U.S.C. 1707 et seq.\] to provide sufficient payments to cover 100 percent of the necessary rent increases and changes in the incomes of qualified tenants, subject to the availability of authority for such purpose under section 1437c(c) of title 42. The Secretary shall take such actions as may be necessary to ensure that payments, including payments that reflect necessary rent increases and changes in the incomes of tenants, are made on a timely basis for all units covered by contracts entered into under this section.
 
 #### (h) Authorization of appropriations
 
@@ -48,7 +48,7 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 (1) For the purpose of assisting housing under this section on an experimental basis, subject to the limitations of this subsection, the term “housing owner” (in addition to the meaning prescribed in subsection (b) of this section) includes—
 
-&emsp;(A) a private nonprofit corporation or other private nonprofit legal entity, a limited dividend corporation or other limited dividend legal entity, or a cooperative housing corporation, which is a mortgagor under a mortgage which receives the benefits of the interest rate provided for in the proviso in section 221(d)(5) of the National Housing Act \[12 U.S.C. 1715<i>l</i>(d)(5)\] and which, after August 10, 1965, has been approved for mortgage insurance under section 221(d)(3) of the National HousingAct and has been approved for receiving the benefits of this section;
+&emsp;(A) a private nonprofit corporation or other private nonprofit legal entity, a limited dividend corporation or other limited dividend legal entity, or a cooperative housing corporation, which is a mortgagor under a mortgage which receives the benefits of the interest rate provided for in the proviso in section 221(d)(5) of the National Housing Act \[12 U.S.C. 1715<i>l</i>(d)(5)\] and which, after August 10, 1965, has been approved for mortgage insurance under section 221(d)(3) of the National Housing Act and has been approved for receiving the benefits of this section;
 
 &emsp;(B) a private nonprofit corporation or other private nonprofit legal entity which is a mortgagor under a mortgage insured under section 231(c)(3) of the National Housing Act \[12 U.S.C. 1715v(c)(3)\] and which, after August 10, 1965, has obtained final endorsement of such mortgage for mortgage insurance and has been approved for receiving the benefits of this section;
 
@@ -66,7 +66,7 @@ Notwithstanding the provisions of subsection (a) of this section and any other p
 
 #### (m) Payments for benefit of certain projects having mortgages made by State or local housing finance or government agencies
 
-The Secretary shall, not later than 45 days after receipt of an application by the mortgagee, provide interest reduction and rental assistance payments for the benefit of projects assisted under this section whose mortgages were made by State or local housing finance agencies or State or local government agencies for a term equal to the remaining mortgage term to maturity on projects assisted under this section to the extent of—
+The Secretary shall, not later than 45 days after receipt of an application by the mortgagee, provide interest reduction and rental assistance payments for the benefit of projects assisted under this section whose mortgages were made by State or local housing finance agencies orState or local government agencies for a term equal to the remaining mortgage term to maturity on projects assisted under this section to the extent of—
 
 &emsp;(1) unexpended balances of amounts of authority as set forth in certain letter agreements between the Department of Housing and Urban Development and such State or local housing finance agencies or State or local government agencies, and
 
@@ -90,11 +90,11 @@ Section was enacted as part of the Housing and Urban Development Act of 1965, an
 
 #### Amendments
 
-1998—Subsec. (k). Pub. L. 105–276, which directed the repeal of subsec. (k) of section 1010 of Pub. L. 89–117, was executed by striking out subsec. (k) of this section, to reflect the probable intent of Congress. For text, see 1996 Amendment note below.
+<b>1998</b>—Subsec. (k). Pub. L. 105–276, which directed the repeal of subsec. (k) of section 1010 of Pub. L. 89–117, was executed by striking out subsec. (k) of this section, to reflect the probable intent of Congress. For text, see 1996 Amendment note below.
 
-1996—Subsec. (k). Pub. L. 104–99 temporarily substituted “\[Reserved.\]” for the text of subsec. (k), which read as follows: “In selecting individuals or families to be assisted under this section in accordance with the eligibility criteria and procedures established under subsection (e)(1) of this section, the project owner shall give preference to individuals or families who are occupying substandard housing, are paying more than 50 percent of family income for rent, or are involuntarily displaced at the time they are seeking housing assistance under this section.” See Effective and Termination Dates of 1996 Amendment note below.
+<b>1996</b>—Subsec. (k). Pub. L. 104–99 temporarily substituted “\[Reserved.\]” for the text of subsec. (k), which read as follows: “In selecting individuals or families to be assisted under this section in accordance with the eligibility criteria and procedures established under subsection (e)(1) of this section, the project owner shall give preference to individuals or families who are occupying substandard housing, are paying more than 50 percent of family income for rent, or are involuntarily displaced at the time they are seeking housing assistance under this section.” See Effective and Termination Dates of 1996 Amendment note below.
 
-1988—Subsec. (e)(1). Pub. L. 100–242, §168(1), struck out provisions authorizing the Secretary to issue, upon the request of a housing owner, certificates of facts concerning individuals and families applying for admission to, or residing in, dwellings of such owner.
+<b>1988</b>—Subsec. (e)(1). Pub. L. 100–242, §168(1), struck out provisions authorizing the Secretary to issue, upon the request of a housing owner, certificates of facts concerning individuals and families applying for admission to, or residing in, dwellings of such owner.
 
 Subsec. (g). Pub. L. 100–242, §167(a)(2), substituted “100 percent” for “90 per centum”.
 
@@ -104,17 +104,17 @@ Subsec. (k). Pub. L. 100–242, §168(2), amended subsec. (k) generally. Prior t
 
 Subsec. (m). Pub. L. 100–242, §430(b), added subsec. (m).
 
-1984—Subsec. (g). Pub. L. 98–479, §102(d), struck out “up to” before “90 per centum” in next to last sentence.
+<b>1984</b>—Subsec. (g). Pub. L. 98–479, §102(d), struck out “up to” before “90 per centum” in next to last sentence.
 
 Subsec. (j)(1)(D). Pub. L. 98–479, §204(e), substituted “dividend” for “divided” before “legal entity”.
 
-1983—Subsec. (e)(1)(B). Pub. L. 98–181, §203(b)(3), inserted “, was paying more than 50 per centum of family income for rent,”.
+<b>1983</b>—Subsec. (e)(1)(B). Pub. L. 98–181, §203(b)(3), inserted “, was paying more than 50 per centum of family income for rent,”.
 
 Subsec. (g). Pub. L. 98–181, §219(a), inserted provision relating to the offer annually to amend contracts to ensure that qualified tenants receive the benefit of assistance contracted for under this section.
 
 Subsec. (<i>l</i>). Pub. L. 98–181, §219(b), inserted provision relating to the utilization by the Secretary of any authority under this section that is recaptured.
 
-1981—Subsec. (c)(2). Pub. L. 97–35, §322(g)(1), substituted provisions defining “income” as income from all sources of each member and criteria for exclusions, for provisions defining “income” as determined under section 1437f of title 42.
+<b>1981</b>—Subsec. (c)(2). Pub. L. 97–35, §322(g)(1), substituted provisions defining “income” as income from all sources of each member and criteria for exclusions, for provisions defining “income” as determined under section 1437f of title 42.
 
 Subsec. (d). Pub. L. 97–35, §§322(g)(2), 327(b), substituted provisions relating to determination of annual payment amount, for provisions relating to determination of maximum amount of annual payment.
 
@@ -122,17 +122,17 @@ Subsec. (e)(2). Pub. L. 97–35, §322(g)(3), substituted provisions relating to
 
 Subsec. (<i>l</i>). Pub. L. 97–35, §327(a), substituted provisions relating to additional available assistance authority, for provisions relating to amendment of contracts.
 
-1980—Subsec. (<i>l</i>). Pub. L. 96–399 substituted “shall, not later than 4 years after October 8, 1980,” for “may” in first sentence; inserted second sentence relating to amending of contracts; and substituted “the first sentence of this paragraph” for “preceding” in last sentence.
+<b>1980</b>—Subsec. (<i>l</i>). Pub. L. 96–399 substituted “shall, not later than 4 years after October 8, 1980,” for “may” in first sentence; inserted second sentence relating to amending of contracts; and substituted “the first sentence of this paragraph” for “preceding” in last sentence.
 
-1979—Subsec. (c). Pub. L. 96–153, §203(a)(l), revised definition of “qualified tenant” and inserted definition of “income”.
+<b>1979</b>—Subsec. (c). Pub. L. 96–153, §203(a)(l), revised definition of “qualified tenant” and inserted definition of “income”.
 
-Subsec. (d). Pub. L. 96–153, §203(a)(2), struck out provisions that in determining the income of tenants, an amount equal to $300 for each minor person shall be deducted and that the earnings of minor persons shall not be included in the income of the tenant, and inserted provisions relating to the determination of amount of payments under contracts amended pursuant to subsec. (j) of this section by reference to section 1437f of title 42.
+Subsec. (d). Pub. L. 96–153, §203(a)(2), struck out provisions that in determining the income of tenants, anamount equal to $300 for each minor person shall be deducted and that the earnings of minor persons shall not be included in the income of the tenant, and inserted provisions relating to the determination of amount of payments under contracts amended pursuant to subsec. (j) of this section by reference to section 1437f of title 42.
 
 Subsec. (e)(1)(B). Pub. L. 96–153, §203(a)(3), substituted “occupying substandard housing or was involuntarily displaced at the time it was seeking assistance under this section” for “displaced by governmental action, is elderly, is physically handicapped, or is (or was) occupying substandard housing or housing extensively damaged or destroyed as the result of a natural disaster”.
 
 Subsecs. (k), (<i>l</i>). Pub. L. 96–153, §203(a)(4), added subsecs. (k) and (<i>l</i>).
 
-1970—Subsec. (a). Pub. L. 91–609, §103, increased maximum amount of payments by $40,000,000 on July 1, 1971.
+<b>1970</b>—Subsec. (a). Pub. L. 91–609, §103, increased maximum amount of payments by $40,000,000 on July 1, 1971.
 
 Subsec. (b). Pub. L. 91–609, §§114\[115\](c), 118(b), authorized payments to housing owners with respect to projects with dwelling units without kitchen facilities and provided for percentage limitation on payments to housing owner, and substituted “which may involve either new or existing construction and which” for “which prior to completion of construction or rehabilitation” before “is approved”, respectively.
 
@@ -140,9 +140,9 @@ Subsec. (c)(2)(F). Pub. L. 91–609, §120(a), added par. (F).
 
 Subsec. (e)(1)(B). Pub. L. 91–609, §120(b), provided for issuance of certificates with respect to whether the individual or family is a member of the Armed Forces of the United States serving on active duty.
 
-1969—Subsec. (j)(1)(D). Pub. L. 91–152 inserted exception which authorized the Secretary to increase payments to 40 per centum of the dwelling units under the specified conditions.
+<b>1969</b>—Subsec. (j)(1)(D). Pub. L. 91–152 inserted exception which authorized the Secretary to increase payments to 40 per centum of the dwelling units under the specified conditions.
 
-1968—Subsec. (a). Pub. L. 90–448, §202(a), increased maximum amount of payments by $40,000,000 on July 1, 1969, and by $100,000,000 on July 1, 1970.
+<b>1968</b>—Subsec. (a). Pub. L. 90–448, §202(a), increased maximum amount of payments by $40,000,000 on July 1, 1969, and by $100,000,000 on July 1, 1970.
 
 Subsec. (b). Pub. L. 90–448, §202(b), included within definition of “housing owner” a private nonprofit corporation or other private nonprofit legal entity, a limited dividend corporation or other limited dividended legal entity, or a cooperative housing corporation, which is the owner of a rental or cooperative housing project financed under a State or local program.
 
@@ -154,7 +154,7 @@ Subsec. (g). Pub. L. 90–448, §201(e)(2), inserted reference to section 1715z�
 
 Subsec. (j)(1)(D). Pub. L. 90–448, §201(e)(3), inserted subpar. (D).
 
-1967—Pub. L. 90–19, §22(a), substituted “Secretary” for “Administrator” wherever appearing in subsecs. (c), (d), (e), and (g).
+<b>1967</b>—Pub. L. 90–19, §22(a), substituted “Secretary” for “Administrator” wherever appearing in subsecs. (c), (d), (e), and (g).
 
 Subsec. (a). Pub. L. 90–19, §22(c)(1), substituted “Secretary of Housing and Urban Development (hereinafter referred to as the ‘Secretary’)” for “Housing and Home Finance Administrator (hereinafter referred to as the ‘Administrator’)”.
 

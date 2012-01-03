@@ -146,7 +146,7 @@ Amendment by section 1051(h)(4) of Pub. L. 94–455 applicable with respect to t
 
 Amendment by section 1052(c)(6) of Pub. L. 94–455, applicable with respect to taxable years beginning after Dec. 31, 1979, see section 1052(d) of Pub. L. 94–455, set out as a note under section 170 of this title.
 
-Amendment by section 1053(d)(4) of Pub. L. 94–455 applicable with respect to taxable years beginning after Dec. 31, 1977, see section 1053(e) of Pub. L. 94–455, set out as a note under section 1504 of this title.
+Amendment by section 1053(d)(4) of Pub. L. 94–455 applicable with respect to taxable years beginning afterDec. 31, 1977, see section 1053(e) of Pub. L. 94–455, set out as a note under section 1504 of this title.
 
 Amendment by section 1204(c)(3) of Pub. L. 94–455 applicable with respect to action taken under section 6851, 6861, or 6862 of this title where notice and demand takes place after Feb. 28, 1977, see section 1204(d) of Pub. L. 94–455, as amended, set out as a note under section 6851 of this title.
 

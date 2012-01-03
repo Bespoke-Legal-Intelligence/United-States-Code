@@ -56,9 +56,9 @@ Section 141 of the applicable compact of free association approved in Public Law
 
 #### Amendments
 
-1998—Subsec. (c)(2)(C). Pub. L. 105–306 added subpar. (C).
+<b>1998</b>—Subsec. (c)(2)(C). Pub. L. 105–306 added subpar. (C).
 
-1997—Subsec. (c)(2)(A). Pub. L. 105–33, §5565, inserted before semicolon “, or to a citizen of a freely associated state, if section 141 of the applicable compact of free association approved in Public Law 99–239 or 99–658 (or a successor provision) is in effect”.
+<b>1997</b>—Subsec. (c)(2)(A). Pub. L. 105–33, §5565, inserted before semicolon “, or to a citizen of a freely associated state, if section 141 of the applicable compact of free association approved in Public Law 99–239 or 99–658 (or a successor provision) is in effect”.
 
 Subsec. (c)(3). Pub. L. 105–33, §5581(b)(1), made technical amendment to reference in original act which appears in text as reference to section 1611(c) of this title.
 

@@ -48,7 +48,7 @@
 
 &emsp;Each member of the Committee appointed under paragraph (1)(B) shall serve for a term of 4 years.
 
-#### (3) Members not commission employees
+#### (3) Members not Commission employees
 
 &emsp;Members appointed under paragraph (1)(B) shall not be deemed to be employees or agents of the Commission solely because of membership on the Committee.
 
@@ -124,7 +124,7 @@ There is authorized to be appropriated to the Commission such sums as are necess
 
 #### References in Text
 
-The Federal Advisory Committee Act, referred to in subsec. (i), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (i), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770,which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Effective Date
 

@@ -20,7 +20,7 @@ For a State or unit of local government to be eligible to receive a grant under 
 
 &emsp;(1) provide assurances that the State or unit of local government has implemented, or will implement not later than 120 days after the date of such application, a comprehensive plan for the expeditious DNA analysis of samples in accordance with this section;
 
-&emsp;(2) include a certification that each DNA analysis carried out under the plan shall bemaintained pursuant to the privacy requirements described in section 14132(b)(3) of this title;
+&emsp;(2) include a certification that each DNA analysis carried out under the plan shall be maintained pursuant to the privacy requirements described in section 14132(b)(3) of this title;
 
 &emsp;(3) include a certification that the State or unit of local government has determined, by statute, rule, or regulation, those offenses under State law that shall be treated for purposes of this section as qualifying State offenses;
 

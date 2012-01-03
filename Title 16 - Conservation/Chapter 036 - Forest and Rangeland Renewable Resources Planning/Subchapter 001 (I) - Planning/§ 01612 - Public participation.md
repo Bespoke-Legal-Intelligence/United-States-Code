@@ -84,5 +84,5 @@ Stay.—Unless the Chief of the Forest Service determines that an emergency situ
 
 &emsp;“(1) for 45 days, if an appeal is not filed, or
 
-&emsp;“(2) for an additional 15 days after the date of the disposition of an appeal under this section, if theagency action is deemed final under subsection (d)(4).”
+&emsp;“(2) for an additional 15 days after the date of the disposition of an appeal under this section, if the agency action is deemed final under subsection (d)(4).”
 

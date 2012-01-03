@@ -4,7 +4,7 @@
 
 The Congress finds—
 
-&emsp;(1) that the predominant part of the Nation's population is located in its rapidly expanding metropolitan and other urban areas, which generally cross the boundary lines of local jurisdictions and often extend into two or more States;
+&emsp;(1) that the predominant part of the Nation's population is located in its rapidly expanding metropolitan and other urban areas, whichgenerally cross the boundary lines of local jurisdictions and often extend into two or more States;
 
 &emsp;(2) that the growth in the amount and complexity of air pollution brought about by urbanization, industrial development, and the increasing use of motor vehicles, has resulted in mounting dangers to the public health and welfare, including injury to agricultural crops and livestock, damage to and the deterioration of property, and hazards to air and ground transportation;
 
@@ -70,7 +70,7 @@ Section 406 of Pub. L. 95–95, as amended by Pub. L. 95–190, §14(b)(6), Nov.
 
 “(b) All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to the Clean Air Act \[this chapter\], as in effect immediately prior to the date of enactment of this Act \[Aug. 7, 1977\], and pertaining to any functions, powers, requirements, and duties under the Clean Air Act, as in effect immediately prior to the date of enactment of this Act, and not suspended by the Administrator or the courts, shall continue in full force and effect after the date of enactment of this Act until modified or rescinded in accordance with the Clean Air Act as amended by this Act \[see Short Title of 1977 Amendment note below\].
 
-“(c) Nothing in this Act \[see Short Title of 1977 Amendment note below\] nor any action taken pursuant to this Act shall in any way affect any requirement of an approved implementation plan in effect under section 110 of the Clean Air Act \[section 7410 of this title\] or any other provision of the Act in effect under the Clean Air Act before the date of enactment of this section \[Aug. 7, 1977\] until modified or rescinded in accordance with the Clean Air Act \[this chapter\] as amended by this Act \[see Short Title of 1977 Amendment note below\].
+“(c) Nothing in this Act \[see Short Title of 1977 Amendment note below\] nor any action taken pursuant to this Act shall in any way affect any requirement of an approved implementation plan in effect under section 110 of the Clean Air Act \[section 7410 of this title\]or any other provision of the Act in effect under the Clean Air Act before the date of enactment of this section \[Aug. 7, 1977\] until modified or rescinded in accordance with the Clean Air Act \[this chapter\] as amended by this Act \[see Short Title of 1977 Amendment note below\].
 
 “(d)(1) Except as otherwise expressly provided, the amendments made by this Act \[see Short Title of 1977 Amendment note below\] shall be effective on date of enactment \[Aug. 7, 1977\].
 
@@ -130,7 +130,7 @@ Reorg. Plan No. 3 of 1970, §2(a)(3), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat.
 
 #### Impact on Small Communities
 
-Section 810 of Pub. L. 101–549 provided that: “Before implementing a provision of this Act \[see Tables forclassification\], the Administrator of the Environmental Protection Agency shall consult with the Small Communities Coordinator of the Environmental Protection Agency to determine the impact of such provision on small communities, including the estimated cost of compliance with such provision.”
+Section 810 of Pub. L. 101–549 provided that: “Before implementing a provision of this Act \[see Tables for classification\], the Administrator of the Environmental Protection Agency shall consult with the Small Communities Coordinator of the Environmental Protection Agency to determine the impact of such provision on small communities, including the estimated cost of compliance with such provision.”
 
 #### Radon Assessment and Mitigation
 
@@ -308,7 +308,7 @@ For provisions relating to responsibility of head of each Executive agency for c
 
 #### Executive Order No. 10779
 
-Ex. Ord. No. 10779, Aug. 21, 1958, 23 F.R. 6487, which related to cooperation of Federal agencies with State andlocal authorities, was superseded by Ex. Ord. No. 11282, May 26, 1966, 31 F.R. 7663, formerly set out under section 7418 of this title.
+Ex. Ord. No. 10779, Aug. 21, 1958, 23 F.R. 6487, which related to cooperation of Federal agencies with State and local authorities, was superseded by Ex. Ord. No. 11282, May 26, 1966, 31 F.R. 7663, formerly set out under section 7418 of this title.
 
 #### Executive Order No. 11507
 

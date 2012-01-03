@@ -12,7 +12,7 @@
 
 #### Historical and Revision Notes
 
-I74senate report no. 95–989
+#### senate report no. 95–989
 
 Section 746(a) protects entities who deal in good faith with the debtor after the filing of the petition and before a trustee is appointed by deeming such entities to be customers. The principal application of this section will be in an involuntary case before the order for relief, because §701(b) requires prompt appointment of an interim trustee after the order for relief.
 
@@ -20,7 +20,7 @@ Subsection (b) indicates that an entity who holds securities that are either par
 
 #### Amendments
 
-1982—Pub. L. 97–222, §12(c), substituted “claims” for “claim” in section catchline.
+<b>1982</b>—Pub. L. 97–222, §12(c), substituted “claims” for “claim” in section catchline.
 
 Subsec. (a). Pub. L. 97–222, §12(a), substituted “enters into” for “effects, with respect to cash or a security,”, struck out “with respect to such cash or security” wherever appearing, and substituted “the date of the filing of the petition” for “such date”, and “entered into” for “effected”.
 

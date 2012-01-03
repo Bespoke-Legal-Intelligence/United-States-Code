@@ -6,7 +6,7 @@ Within one year of October 21, 1976, and from time to time thereafter, the Admin
 
 &emsp;(1) provide a technical and economic description of the level of performance that can be attained by various available solid waste management practices (including operating practices) which provide for the protection of public health and the environment;
 
-&emsp;(2) not later than two years after October 21, 1976, describe levels of performance, including appropriate methods and degrees of control, that provide at a minimum for (A) protection of public health and welfare; (B) protection of the quality of ground waters and surface waters from leachates; (C) protection of the quality of surface waters from runoff through compliance with effluent limitations under the Federal Water Pollution Control Act, as amended \[33 U.S.C. 1251 et seq.\]; (D) protection of ambient air quality through compliance with new source performance standards or requirements of air quality implementation plans under the Clean Air Act, as amended \[42 U.S.C. 7401 et seq.\]; (E) disease and vector control; (F) safety; and (G) esthetics; and
+&emsp;(2) not later than two years after October 21, 1976, describe levels of performance, including appropriate methods and degrees of control, that provide at a minimum for (A) protection of public health and welfare; (B) protection of the quality of ground waters and surface waters from leachates; (C) protection of the quality of surface waters from runoff through compliance with effluent limitations under the Federal Water Pollution Control Act, asamended \[33 U.S.C. 1251 et seq.\]; (D) protection of ambient air quality through compliance with new source performance standards or requirements of air quality implementation plans under the Clean Air Act, as amended \[42 U.S.C. 7401 et seq.\]; (E) disease and vector control; (F) safety; and (G) esthetics; and
 
 &emsp;(3) provide minimum criteria to be used by the States to define those solid waste management practices which constitute the open dumping of solid waste or hazardous waste and are to be prohibited under subchapter IV of this chapter.
 
@@ -16,7 +16,7 @@ Within one year of October 21, 1976, and from time to time thereafter, the Admin
 
 The Administrator shall notify the Committee on Environment and Public Works of the Senate and the Committee on Energy and Commerce of the House of Representatives a reasonable time before publishing any suggested guidelines or proposed regulations under this chapter of the content of such proposed suggested guidelines or proposed regulations under this chapter.
 
-(Pub. L. 89–272, title II, §1008, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2803; amendedPub. L. 95–609, §7(c), (d), Nov. 8, 1978, 92 Stat. 3081; Pub. L. 103–437, §15(r), Nov. 2, 1994, 108 Stat. 4594.)
+(Pub. L. 89–272, title II, §1008, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2803; amended Pub. L. 95–609, §7(c), (d), Nov. 8, 1978, 92 Stat. 3081; Pub. L. 103–437, §15(r), Nov. 2, 1994, 108 Stat. 4594.)
 
 #### References in Text
 

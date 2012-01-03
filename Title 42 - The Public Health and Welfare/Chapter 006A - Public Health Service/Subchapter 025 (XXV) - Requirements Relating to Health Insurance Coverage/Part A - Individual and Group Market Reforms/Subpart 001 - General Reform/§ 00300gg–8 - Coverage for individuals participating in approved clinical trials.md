@@ -16,7 +16,7 @@
 
 #### (A) Inclusion
 
-&emsp;&emsp;For purposes of paragraph (1)(B), subject to subparagraph (B), routine patient costs include all items and services consistentwith the coverage provided in the plan (or coverage) that is typically covered for a qualified individual who is not enrolled in a clinical trial.
+&emsp;&emsp;For purposes of paragraph (1)(B), subject to subparagraph (B), routine patient costs include all items and services consistent with the coverage provided in the plan (or coverage) that is typically covered for a qualified individual who is not enrolled in a clinical trial.
 
 #### (B) Exclusion
 
@@ -40,7 +40,7 @@
 
 For purposes of subsection (a), the term “qualified individual” means an individual who is a participant or beneficiary in a health plan or with coverage described in subsection (a)(1) and who meets the following conditions:
 
-&emsp;(1) The individual is eligible to participate in an approved clinical trial according to the trial protocol with respect to treatment of cancer or other life-threatening disease or condition.
+&emsp;(1) The individual is eligible to participate in an approved clinical trial according to the trial protocol with respect to treatment ofcancer or other life-threatening disease or condition.
 
 &emsp;(2) Either—
 

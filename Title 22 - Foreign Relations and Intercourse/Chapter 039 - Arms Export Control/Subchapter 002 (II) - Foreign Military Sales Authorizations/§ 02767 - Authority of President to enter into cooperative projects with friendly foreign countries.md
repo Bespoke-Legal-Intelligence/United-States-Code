@@ -124,6 +124,42 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 
 Functions of President under this section delegated to Secretary of Defense, with Secretary of Defense required to consult with Secretary of State in implementing delegated functions, by section 1(f) of Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended, set out as a note under section 2751 of this title.
 
+#### Assessment of Risk Associated With Development of Major Weapon Systems To Be Procured Under Cooperative Projects With Friendly Foreign Countries
+
+Pub. L. 112–81, div. A, title VIII, §836, Dec. 31, 2011, 125 Stat. 1508, provided that:
+
+“(a)
+
+Assessment of Risk Required.—
+
+&emsp;“(1)
+
+In general.—Not later than two days after the President transmits a certification to Congress pursuant to section 27(f) of the Arms Export Control Act (22 U.S.C. 2767(f)) regarding a proposed cooperative project agreement that is expected to result in the award of a Department of Defense contract for the engineering and manufacturing development of a major weapon system, the Secretary of Defense shall submit to the Chairmen of the Committees on Armed Services of the Senate and the House of Representatives a report setting forth a risk assessment of the proposed cooperative project.
+
+&emsp;“(2)
+
+Preparation.—The Secretary shall prepare each report required by paragraph (1) in consultation with the Under Secretary of Defense for Acquisition, Technology, and Logistics, the Assistant Secretary of Defense for Research and Engineering, and the Director of Cost Assessment and Program Evaluation of the Department of Defense.
+
+“(b)
+
+Elements.—The risk assessment on a cooperative project under subsection (a) shall include the following:
+
+&emsp;“(1) An assessment of the design, technical, manufacturing, and integration risks associated with developing and procuring the weapon system to be procured under the cooperative project.
+
+&emsp;“(2) A statement identifying any termination liability that would be incurred under the development contract to be entered into under subsection (a)(1), and a statement of the extent to which such termination liability would not be fully funded by appropriations available or sought in the fiscal year in which the agreement for the cooperative project is signed on behalf of the United States.
+
+&emsp;“(3) An assessment of the advisability of incurring any unfunded termination liability identified under paragraph (2) given the risks identified in the assessment under paragraph (1).
+
+&emsp;“(4) A listing of which, if any, requirements associated with the oversight and management of a major defense acquisition program (as prescribed under Department of Defense Instruction 5000.02 or related authorities) will be waived, or in any way modified, in carrying out the development contract to be entered into under \[subsection\] (a)(1), and a full explanation why such requirements need to be waived or modified.
+
+“(c)
+
+Definitions.—In this section:
+
+&emsp;“(1) The term ‘engineering and manufacturing development’ has the meaning given that term in Department of Defense Instruction 5000.02.
+
+&emsp;“(2) The term ‘major weapon system’ has the meaning given that term in section 2379(f) of title 10, United States Code.”
+
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be “sections”.</i>

@@ -30,7 +30,7 @@ The amounts in the Fund from auctions of eligible frequencies are authorized to 
 
 #### (3) Reversion of unused funds
 
-&emsp;Any auction proceeds in the Fund that are remaining after the payment of the relocationcosts that are payable from the Fund shall revert to and be deposited in the general fund of the Treasury not later than 8 years after the date of the deposit of such proceeds to the Fund.
+&emsp;Any auction proceeds in the Fund that are remaining after the payment of the relocation costs that are payable from the Fund shall revert to and be deposited in the general fund of the Treasury not later than 8 years after the date of the deposit of such proceeds to the Fund.
 
 #### (e) Transfer to eligible Federal entities
 

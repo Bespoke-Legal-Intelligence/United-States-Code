@@ -20,7 +20,7 @@ Each study shall particularly examine the effects of such privatization on—
 
 &emsp;(6) the secondary market for residential loans and the liquidity of such loans; and
 
-&emsp;(7) any other factors that the Comptroller General, the Secretary of Housing and Urban Development, the Secretary of the Treasury, or the Director of the Congressional BudgetOffice deems appropriate to enable the Congress to evaluate the desirability and feasibility of privatization of the enterprises.
+&emsp;(7) any other factors that the Comptroller General, the Secretary of Housing and Urban Development, the Secretary of the Treasury, or the Director of the Congressional Budget Office deems appropriate to enable the Congress to evaluate the desirability and feasibility of privatization of the enterprises.
 
 #### (c) Information
 

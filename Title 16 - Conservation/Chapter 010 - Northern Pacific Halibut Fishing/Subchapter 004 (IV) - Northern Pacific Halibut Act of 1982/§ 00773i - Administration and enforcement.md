@@ -2,7 +2,7 @@
 
 #### (a) Secretary of Commerce and Secretary of department in which Coast Guard is operating
 
-The Convention, this subchapter, and any regulation adopted under this subchapter, shall be enforced by the Secretary and the Secretary of the department in which the Coast Guard is operating. Such Secretaries may, by agreement, on a reimbursable basis or otherwise, utilize the personnel, services, equipment (including aircraft and vessels), and facilities of any other Federal agency, and of any State agency, in the performance of such duties.
+The Convention, this subchapter, and any regulation adopted under this subchapter, shall be enforced by the Secretary and the Secretary of the department in which the Coast Guard is operating. Such Secretaries may, by agreement, on a reimbursable basis or otherwise, utilize the personnel, services, equipment (including aircraft and vessels), and facilities of any otherFederal agency, and of any State agency, in the performance of such duties.
 
 #### (b) Arrest, search and inspection, seizure; execution of warrants or other process
 

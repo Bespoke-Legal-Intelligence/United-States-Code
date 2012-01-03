@@ -26,7 +26,7 @@ No person shall engage in the business of insurance in a State as principal or a
 
 > &emsp;&emsp;during the 60-day period preceding the effective date of the acquisition or change or continuation of control, so long as the collecting, reviewing, taking actions, or exercising authority by the State does not have the effect of discriminating, intentionally or unintentionally, against a depository institution or an affiliate thereof, or against any other person based upon an association of such person with a depository institution;
 
-&emsp;&emsp;(B) any State from requiring any person that is acquiring control of an insurer domiciled in that State to maintain or restore the capital requirements of that insurer to the level required under the capital regulations of general applicability in that State to avoid the requirement of preparing and filing with the insurance regulatory authority of that State a plan to increase the capital of the insurer, except that any determination by the State insurance regulatory authority with respect to such requirement shall be made not later than 60 days after the date of notification under subparagraph (A); or
+&emsp;&emsp;(B) any State from requiring any person that is acquiring control of an insurer domiciled in that State to maintain or restore the capital requirements of that insurer to the level required under the capital regulations of general applicability in that State to avoid the requirement of preparing and filing with the insurance regulatory authority of that State a plan to increase the capital of the insurer, except that any determination by the State insurance regulatory authority with respect to such requirement shall be made not later than 60 days afterthe date of notification under subparagraph (A); or
 
 &emsp;&emsp;(C) any State from restricting a change in the ownership of stock in an insurer, or a company formed for the purpose of controlling such insurer, after the conversion of the insurer from mutual to stock form so long as such restriction does not have the effect of discriminating, intentionally or unintentionally, against a depository institution or an affiliate thereof, or against any other person based upon an association of such person with a depository institution.
 
@@ -630,7 +630,7 @@ Recoupment of federal share.—
 
 &emsp;&emsp;“(A)
 
-Mandatory recoupment amount.—For purposes of this paragraph, the mandatory recoupmentamount for each of the periods referred to in subparagraphs (A) through (E) of paragraph (6) shall be the difference between—
+Mandatory recoupment amount.—For purposes of this paragraph, the mandatory recoupment amount for each of the periods referred to in subparagraphs (A) through (E) of paragraph (6) shall be the difference between—
 
 &emsp;&emsp;&emsp;“(i) the insurance marketplace aggregate retention amount under paragraph (6) for such period; and
 
@@ -734,7 +734,7 @@ Reinsurance to Cover Exposure.—
 
 &emsp;“(1)
 
-Obtaining coverage.—This title may not be construed to limit or prevent insurers from obtainingreinsurance coverage for insurer deductibles or insured losses retained by insurers pursuant to this section, nor shall the obtaining of such coverage affect the calculation of such deductibles or retentions.
+Obtaining coverage.—This title may not be construed to limit or prevent insurers from obtaining reinsurance coverage for insurer deductibles or insured losses retained by insurers pursuant to this section, nor shall the obtaining of such coverage affect the calculation of such deductibles or retentions.
 
 &emsp;“(2)
 
@@ -1006,7 +1006,7 @@ Study.—The Comptroller General of the United States shall examine—
 
 &emsp;“(2)
 
-Report.—Not later than 1 year after the date of enactment of the Terrorism Risk Insurance Program Reauthorization Act of 2007 \[Dec. 26, 2007\], the Comptroller General shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report containing a detailed statement of the findings under paragraph (1), and recommendations for any legislative, regulatory, administrative, or other actions at the Federal, State, or local levels that the Comptroller General considers appropriate to expand the availability and affordability of insurance for nuclear, biological, chemical, or radiological terrorist events.
+Report.—Not later than 1 year after the date of enactment of the Terrorism Risk Insurance Program Reauthorization Act of 2007 \[Dec. 26, 2007\], the Comptroller General shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report containing a detailed statement of the findings under paragraph (1), and recommendations for any legislative, regulatory, administrative, or other actions at the Federal, State, or local levels that the Comptroller General considers appropriate to expand the availability andaffordability of insurance for nuclear, biological, chemical, or radiological terrorist events.
 
 “(g)
 

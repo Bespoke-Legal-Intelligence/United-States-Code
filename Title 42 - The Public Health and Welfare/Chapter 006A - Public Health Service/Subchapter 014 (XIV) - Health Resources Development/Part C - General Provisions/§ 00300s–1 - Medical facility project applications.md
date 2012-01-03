@@ -10,7 +10,7 @@ No loan, loan guarantee, or grant may be made under part A or B for a medical fa
 
 &emsp;(A) in the case of a modernization project for a medical facility for continuation of existing health services, a finding by the State Agency of a continued need for such services, and, in the case of any other project for a medical facility, a finding by the State Agency of the need for the new health services to be provided through the medical facility upon completion of the project;
 
-&emsp;(B) in the case of an application for a grant, assurances satisfactory to the Secretary that (i) the applicant making the application would not be able to complete the project for which the application is submitted without the grant applied for, and (ii) in the case of a project to construct a new medical facility, it would be inappropriate to convert an existing medical facility to provide the services to be provided through the new medical facility;
+&emsp;(B) in the case of an application for a grant, assurances satisfactory to the Secretary that (i) the applicant making the application wouldnot be able to complete the project for which the application is submitted without the grant applied for, and (ii) in the case of a project to construct a new medical facility, it would be inappropriate to convert an existing medical facility to provide the services to be provided through the new medical facility;
 
 &emsp;(C) in the case of a project for the discontinuance of a service or facility or the conversion of a service or a facility, an evaluation of the impact of such discontinuance or conversion on the provision of health care in the health service area in which such service was provided or facility located;
 

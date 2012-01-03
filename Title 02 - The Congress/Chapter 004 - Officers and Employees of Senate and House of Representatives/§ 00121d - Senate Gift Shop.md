@@ -26,7 +26,7 @@ The provisions of section 5104(c) of title 40 shall not be applicable to any act
 
 #### (e) Transfer of moneys from Stationery Revolving Fund
 
-To provide capital for the fund, the Secretary of the Senate is authorized to transfer, from moneys in the Stationery Revolving Fund in the contingent fund of the Senate, to the fund such sum as he may determine necessary, not to exceed $300,000.
+To provide capital for the fund, the Secretary of the Senate is authorized to transfer, from moneys in the Stationery Revolving Fund in the contingent fund of the Senate, to the fund suchsum as he may determine necessary, not to exceed $300,000.
 
 #### (f) Authorization to expend from appropriations account for initial expenses
 
@@ -40,7 +40,7 @@ Disbursements from the fund shall be made upon vouchers approved by the Secretar
 
 The Secretary of the Senate is authorized to prescribe such regulations as may be necessary to carry out the provisions of this section.
 
-(Pub. L. 102–392, title I, §2, Oct. 6, 1992, 106 Stat. 1706; Pub. L. 107–68, title I, §107(a), Nov. 12, 2001,115 Stat. 568; Pub. L. 110–39, §1, June 21, 2007, 121 Stat. 231.)
+(Pub. L. 102–392, title I, §2, Oct. 6, 1992, 106 Stat. 1706; Pub. L. 107–68, title I, §107(a), Nov. 12, 2001, 115 Stat. 568; Pub. L. 110–39, §1, June 21, 2007, 121 Stat. 231.)
 
 #### References in Text
 
@@ -54,9 +54,9 @@ In subsec. (d), “section 5104(c) of title 40” substituted for “section 4 o
 
 #### Amendments
 
-2007—Subsec. (c)(3). Pub. L. 110–39 added par. (3).
+<b>2007</b>—Subsec. (c)(3). Pub. L. 110–39 added par. (3).
 
-2001—Subsec. (c). Pub. L. 107–68 designated existing provisions as par. (1) and added par. (2).
+<b>2001</b>—Subsec. (c). Pub. L. 107–68 designated existing provisions as par. (1) and added par. (2).
 
 #### Effective Date of 2001 Amendment
 

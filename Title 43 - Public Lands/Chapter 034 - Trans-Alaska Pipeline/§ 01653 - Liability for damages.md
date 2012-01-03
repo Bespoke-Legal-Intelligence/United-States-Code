@@ -6,7 +6,7 @@
 
 (2) Liability under paragraph (1) of this subsection shall be limited to $350,000,000 for any one incident, and the holders of the right-of-way or permit shall be liable for any claim allowed in proportion to their ownership interest in the right-of-way or permit. Liability of such holders for damages in excess of $350,000,000 shall be in accord with ordinary rules of negligence.
 
-(3) In any case where liability without fault is imposed pursuant to this subsection and the damages involved were caused by the negligence of a third party, the rules of subrogation shall apply in accordance with the law of the jurisdiction where the damage occurred.
+(3) In any case where liability without fault is imposed pursuant to this subsection and thedamages involved were caused by the negligence of a third party, the rules of subrogation shall apply in accordance with the law of the jurisdiction where the damage occurred.
 
 (4) Upon order of the Secretary, the holder of a right-of-way or permit shall provide emergency subsistence and other aid to an affected Alaska Native, Native organization, or other person pending expeditious filing of, and determination of, a claim under this subsection.
 
@@ -66,7 +66,7 @@ Transfer of Funds.—Notwithstanding any other provision of law, the remainder o
 
 Use of Interest Only.—The interest produced from the investment of the Trans-Alaska Pipeline Liability Fund balance that is transferred and deposited into the Oil Spill Liability Trust Fund under section 8102(a)(2)(B)(ii) of the Oil Pollution Act of 1990 \[Pub. L. 101–380\] (43 U.S.C. 1653 note) after June 16, 1998 shall be transferred annually by the National Pollution Funds Center to the Denali Commission for a program, to be developed in consultation with the Coast Guard, to repair or replace bulk fuel storage tanks in Alaska which are not in compliance with federal law, including the Oil Pollution Act of 1990 \[33 U.S.C. 2701 et seq.\], or State law.”
 
-\[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
+\[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
 #### Disposition of Fund Balance
 
@@ -90,7 +90,7 @@ Disposition of the balance.—After the Comptroller General of the United States
 
 “(C)
 
-Disposition of the reserved amounts.—After payment of all claims arising from an incident forwhich funds are reserved under subparagraph (A) and certification by the Comptroller General of the United States that the claims arising from that incident have been paid, the excess amounts, if any, for that incident shall be disposed of as set forth under subparagraphs (A) and (B).
+Disposition of the reserved amounts.—After payment of all claims arising from an incident for which funds are reserved under subparagraph (A) and certification by the Comptroller General of the United States that the claims arising from that incident have been paid, the excess amounts, if any, for that incident shall be disposed of as set forth under subparagraphs (A) and (B).
 
 “(D)
 

@@ -108,7 +108,7 @@
 
 #### (7) Description of reinvestigation procedure
 
-&emsp;A consumer reporting agency shall provide to a consumer a description referred to inparagraph (6)(B)(iii) by not later than 15 days after receiving a request from the consumer for that description.
+&emsp;A consumer reporting agency shall provide to a consumer a description referred to in paragraph (6)(B)(iii) by not later than 15 days after receiving a request from the consumer for that description.
 
 #### (8) Expedited dispute resolution
 
@@ -118,7 +118,7 @@
 
 &emsp;&emsp;(B) includes in that notice, or in a written notice that accompanies a confirmation and consumer report provided in accordance with subparagraph (C), a statement of the consumer's right to request under subsection (d) of this section that the agency furnish notifications under that subsection; and
 
-&emsp;&emsp;(C) provides written confirmation of the deletion and a copy of a consumer report on the consumer that is based on the consumer's file after the deletion, not later than 5 business days after making the deletion.
+&emsp;&emsp;(C) provides written confirmation of the deletion and a copy of a consumer report onthe consumer that is based on the consumer's file after the deletion, not later than 5 business days after making the deletion.
 
 #### (b) Statement of dispute
 
@@ -136,7 +136,7 @@ Following any deletion of information which is found to be inaccurate or whose a
 
 #### (1) In general
 
-&emsp;The Commission shall—
+&emsp;The Commission <sup>1</sup> shall—
 
 &emsp;&emsp;(A) compile all complaints that it receives that a file of a consumer that is maintained by a consumer reporting agency described in section 1681a(p) of this title contains incomplete or inaccurate information, with respect to which, the consumer appears to have disputed the completeness or accuracy with the consumer reporting agency or otherwise utilized the procedures provided by subsection (a) of this section; and
 
@@ -144,25 +144,25 @@ Following any deletion of information which is found to be inaccurate or whose a
 
 #### (2) Exclusion
 
-&emsp;Complaints received or obtained by the Commission pursuant to its investigative authority under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\] shall not be subject to paragraph (1).
+&emsp;Complaints received or obtained by the Bureau pursuant to its investigative authority under the Consumer Financial Protection Act of 2010 shall not be subject to paragraph (1).
 
 #### (3) Agency responsibilities
 
-&emsp;Each consumer reporting agency described in section 1681a(p) of this title that receives a complaint transmitted by the Commission pursuant to paragraph (1) shall—
+&emsp;Each consumer reporting agency described in section 1681a(p) of this title that receives a complaint transmitted by the Bureau pursuant to paragraph (1) shall—
 
 &emsp;&emsp;(A) review each such complaint to determine whether all legal obligations imposed on the consumer reporting agency under this subchapter (including any obligation imposed by an applicable court or administrative order) have been met with respect to the subject matter of the complaint;
 
-&emsp;&emsp;(B) provide reports on a regular basis to the Commission regarding the determinations of and actions taken by the consumer reporting agency, if any, in connection with its review of such complaints; and
+&emsp;&emsp;(B) provide reports on a regular basis to the Bureau regarding the determinations of and actions taken by the consumer reporting agency, if any, in connection with its review of such complaints; and
 
 &emsp;&emsp;(C) maintain, for a reasonable time period, records regarding the disposition of each such complaint that is sufficient to demonstrate compliance with this subsection.
 
 #### (4) Rulemaking authority
 
-&emsp;The Commission may prescribe regulations, as appropriate to implement this subsection.
+&emsp;The Commission <sup>1</sup> may prescribe regulations, as appropriate to implement this subsection.
 
 #### (5) Annual report
 
-&emsp;The Commission shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives an annual report regarding information gathered by the Commission under this subsection.
+&emsp;The Commission <sup>1</sup> shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives an annual report regarding information gathered by the Bureau under this subsection.
 
 #### (f) Reinvestigation requirement applicable to resellers
 
@@ -184,7 +184,7 @@ Following any deletion of information which is found to be inaccurate or whose a
 
 #### (3) Responsibility of consumer reporting agency to notify consumer through reseller
 
-&emsp;Upon the completion of a reinvestigation under this section of a dispute concerning the completeness or accuracy of any information in the file of a consumer by a consumer reporting agency that received notice of the dispute from a reseller under paragraph (2)—
+&emsp;Upon the completion of a reinvestigation under this section of a dispute concerning thecompleteness or accuracy of any information in the file of a consumer by a consumer reporting agency that received notice of the dispute from a reseller under paragraph (2)—
 
 &emsp;&emsp;(A) the notice by the consumer reporting agency under paragraph (6), (7), or (8) of subsection (a) of this section shall be provided to the reseller in lieu of the consumer; and
 
@@ -196,25 +196,15 @@ Following any deletion of information which is found to be inaccurate or whose a
 
 (Pub. L. 90–321, title VI, §611, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1132; amended Pub. L. 104–208, div. A, title II, §2409, Sept. 30, 1996, 110 Stat. 3009–439; Pub. L. 105–347, §6(5), Nov. 2, 1998, 112 Stat. 3211; Pub. L. 108–159, title III, §§313(a), 314(a), 316, 317, Dec. 4, 2003, 117 Stat. 1994–1996, 1998; Pub. L. 111–203, title X, §1088(a)(2)(C), (6), July 21, 2010, 124 Stat. 2087.)
 
-#### Amendment of Section
-
-<i>Pub. L. 111–203, title X, §§1088(a)(2)(C), (6), 1100H, July 21, 2010, 124 Stat. 2087, 2113, provided that, effective on the designated transfer date, this section is amended as follows:</i>
-
-<i>(1) by striking “the Commission” each place that term appears and inserting “the Bureau”; and</i>
-
-<i>(2) in subsection (e), by striking paragraph (2) and inserting the following:</i>
-
-#### <i>“(2) Exclusion</i>
-
-&emsp;<i>“Complaints received or obtained by the Bureau pursuant to its investigative authority under the Consumer Financial Protection Act of 2010 shall not be subject to paragraph (1).”</i>
-
-<i>See Effective Date of 2010 Amendment note below.</i>
-
 #### References in Text
 
-The Federal Trade Commission Act, referred to in subsec. (e)(2), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Consumer Financial Protection Act of 2010, referred to in subsec. (e)(2), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, which enacted subchapter V (§5481 et seq.) of chapter 53 of Title 12, Banks and Banking, and enacted and amended numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 12 and Tables.
 
 #### Amendments
+
+<b>2010</b>—Subsec. (e)(2). Pub. L. 111–203, §1088(a)(6), added par. (2) and struck out former par. (2) which read as follows: “Complaints received or obtained by the Commission pursuant to its investigative authority under the Federal Trade Commission Act shall not be subject to paragraph (1).”
+
+Subsec. (e)(3), (5). Pub. L. 111–203, §1088(a)(2)(C), substituted “the Bureau” for “the Commission” wherever appearing.
 
 <b>2003</b>—Subsec. (a)(1)(A). Pub. L. 108–159, §317, substituted “shall, free of charge, conduct a reasonable reinvestigation to determine whether the disputed information is inaccurate” for “shall reinvestigate free of charge”.
 
@@ -252,7 +242,7 @@ Amendment by Pub. L. 105–347 deemed to have same effective date as amendments 
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with special rule for early compliance,see section 2420 of Pub. L. 104–208, set out as a note under section 1681a of this title.
+Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with special rule for early compliance, see section 2420 of Pub. L. 104–208, set out as a note under section 1681a of this title.
 
 #### Prompt Investigation of Disputed Consumer Information
 
@@ -272,7 +262,7 @@ Considerations.—In preparing the report required under paragraph (2), the Boar
 
 “(4)
 
-Recommendations.—The report required under paragraph (2) shall include such recommendations as the Board and the Commission jointly determine to be appropriate for legislative or administrative action, to ensure that—
+Recommendations.—The report required under paragraph (2) shall include such recommendations asthe Board and the Commission jointly determine to be appropriate for legislative or administrative action, to ensure that—
 
 &emsp;“(A) consumer disputes with consumer reporting agencies over the accuracy or completeness of information in a consumer's file are promptly and fully investigated and any incorrect, incomplete, or unverifiable information is corrected or deleted immediately thereafter;
 
@@ -281,4 +271,6 @@ Recommendations.—The report required under paragraph (2) shall include such re
 &emsp;“(C) consumer reporting agencies establish and maintain appropriate internal controls and management review procedures for maintaining full and continuous compliance with the procedures, time lines, and requirements under the Fair Credit Reporting Act \[this subchapter\] for the prompt investigation of the disputed accuracy of any consumer information and the prompt correction or deletion, in accordance with such Act, of any inaccurate or incomplete information or information that cannot be verified.”
 
 \[For definitions of terms used in section 313(b) of Pub. L. 108–159, set out above, see section 2 of Pub. L. 108–159, set out as a Definitions note under section 1681 of this title.\]
+
+<i><sup>1</sup></i><i> So in original. Probably should be “Bureau”.</i>
 

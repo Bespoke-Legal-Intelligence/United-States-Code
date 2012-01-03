@@ -76,7 +76,7 @@ Except as otherwise specifically provided in this chapter, as used in this chapt
 
 &emsp;The term “Office” means the Office of Compliance.
 
-(Pub. L. 104–1, title I, §101, Jan. 23, 1995, 109 Stat. 4; Pub. L. 110–279, §1(g)(1), July 17, 2008, 122 Stat. 2609; Pub. L. 110–437, title IV, §422(b)(1), (2), Oct. 20, 2008, 122 Stat. 4996; Pub. L. 111–145, §2(a)(5)(A), Mar. 4, 2010, 124 Stat. 50.)
+(Pub. L. 104–1, title I, §101, Jan. 23, 1995, 109 Stat. 4; Pub. L. 110–279, §1(g)(1), July 17, 2008, 122 Stat.2609; Pub. L. 110–437, title IV, §422(b)(1), (2), Oct. 20, 2008, 122 Stat. 4996; Pub. L. 111–145, §2(a)(5)(A), Mar. 4, 2010, 124 Stat. 50.)
 
 #### References in Text
 
@@ -84,9 +84,9 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### Amendments
 
-2010—Par. (9)(D). Pub. L. 111–145 substituted “the United States Capitol Police,” for “the Capitol Police Board,”.
+<b>2010</b>—Par. (9)(D). Pub. L. 111–145 substituted “the United States Capitol Police,” for “the Capitol Police Board,”.
 
-2008—Par. (3)(C). Pub. L. 110–437, §422(b)(1), substituted “the Office of Congressional Accessibility Services;” for “the Capitol Guide Service;”.
+<b>2008</b>—Par. (3)(C). Pub. L. 110–437, §422(b)(1), substituted “the Office of Congressional Accessibility Services;” for “the Capitol Guide Service;”.
 
 Par. (5). Pub. L. 110–279, which directed substitution of “or the Botanic Garden” for “, the Botanic Garden, or the Senate Restaurant”, was executed by making the substitution for “, the Botanic Garden, or the Senate Restaurants” to reflect the probable intent of Congress.
 

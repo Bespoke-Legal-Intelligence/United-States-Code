@@ -12,7 +12,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 706(a) of the House amendment adopts a provision contained in the Senate amendment indicating that a waiver of the right to convert a case under section 706(a) is unenforceable. The explicit reference in title 11 forbidding the waiver of certain rights is not intended to imply that other rights, such as the right to file a voluntary bankruptcy case under section 301, may be waived.
 
@@ -30,17 +30,17 @@ Subsection (d) reinforces section 109 by prohibiting conversion to a chapter unl
 
 #### Amendments
 
-2005—Subsec. (c). Pub. L. 109–8 inserted “or consents to” after “requests”.
+<b>2005</b>—Subsec. (c). Pub. L. 109–8 inserted “or consents to” after “requests”.
 
-1994—Subsec. (a). Pub. L. 103–394 substituted “1208, or 1307” for “1307, or 1208”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–394 substituted “1208, or 1307” for “1307, or 1208”.
 
-1986—Subsec. (a). Pub. L. 99–554, §257(q)(1), inserted references to chapter 12 and section 1208 of this title.
+<b>1986</b>—Subsec. (a). Pub. L. 99–554, §257(q)(1), inserted references to chapter 12 and section 1208 of this title.
 
 Subsec. (c). Pub. L. 99–554, §257(q)(2), inserted reference to chapter 12.
 
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date,except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1994 Amendment
 

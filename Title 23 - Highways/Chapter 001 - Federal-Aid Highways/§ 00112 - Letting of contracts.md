@@ -70,7 +70,7 @@ Regulatory process.—Not later than 90 days after the date of enactment of the 
 
 &emsp;&emsp;(E)
 
-Design-build contract defined.—In this paragraph, the term “design-build contract” means an agreement that provides for design and construction of a project by a contractor, regardless of whether the agreement is in the form of a design-build contract, a franchise agreement, or any other form of contract approved by the Secretary.
+Design-build contract defined.—In this paragraph, the term “design-build contract” means an agreement that provides for design and construction of a project by acontractor, regardless of whether the agreement is in the form of a design-build contract, a franchise agreement, or any other form of contract approved by the Secretary.
 
 (c) The Secretary shall require as a condition precedent to his approval of each contract awarded by competitive bidding pursuant to subsection (b) of this section, and subject to the provisions of this section, a sworn statement, executed by, or on behalf of, the person, firm, association, or corporation to whom such contract is to be awarded, certifying that such person, firm, association, or corporation has not, either directly or indirectly, entered into any agreement, participated in any collusion, or otherwise taken any action in restraint of free competitive bidding in connection with such contract.
 
@@ -82,7 +82,7 @@ Standardized Contract Clause Concerning Site Conditions.—
 
 &emsp;(1)
 
-General rule.—The Secretary shall issue regulations establishing and requiring, for inclusion in each contract entered into with respect to any project approved undersection 106 of this title a contract clause, developed in accordance with guidelines established by the Secretary, which equitably addresses each of the following:
+General rule.—The Secretary shall issue regulations establishing and requiring, for inclusion in each contract entered into with respect to any project approved under section 106 of this title a contract clause, developed in accordance with guidelines established by the Secretary, which equitably addresses each of the following:
 
 &emsp;&emsp;(A) Site conditions.
 
@@ -152,7 +152,7 @@ In a complying state.—If, on the date of the enactment of this paragraph, the 
 
 “(ii)
 
-In a noncomplying state.—In the case of any other State, subparagraph (A) shall apply in such State beginning on the earlier of (I) August 1, 1989, or (II) the 10th day following the close of the 1st regular session of the legislature of a State which begins after the date of the enactment of this paragraph.”
+In a noncomplying state.—In the case of any other State, subparagraph (A) shall apply in such Statebeginning on the earlier of (I) August 1, 1989, or (II) the 10th day following the close of the 1st regular session of the legislature of a State which begins after the date of the enactment of this paragraph.”
 
 Subsec. (b)(2)(E). Pub. L. 109–115, §174(3), (4), redesignated subpar. (F) as (E) and substituted “subparagraph (D)” for “subparagraph (E)”. Former subpar. (E) redesignated (D).
 
@@ -164,7 +164,7 @@ Pub. L. 109–115, §174(3), redesignated subpar. (G) as (F). Former subpar. (F)
 
 Subsec. (b)(2)(G). Pub. L. 109–115, §174(3), redesignated subpar. (G) as (F).
 
-Subsec. (b)(3)(C) to (E). Pub. L. 109–59, §1503, added subpars. (C) and (D), redesignated former subpar. (D) as (E), and struck out former subpar. (C), which describeda qualified project as one for which the Secretary had approved the use of design-build contracting under criteria specified in regulations and for which total costs had been estimated to exceed specified amounts.
+Subsec. (b)(3)(C) to (E). Pub. L. 109–59, §1503, added subpars. (C) and (D), redesignated former subpar. (D) as (E), and struck out former subpar. (C), which described a qualified project as one for which the Secretary had approved the use of design-build contracting under criteria specified in regulations and for which total costs had been estimated to exceed specified amounts.
 
 Subsecs. (f), (g). Pub. L. 109–59, §1110(b), added subsec. (g), redesignated former subsec. (g) as (f), and struck out former subsec. (f) which read as follows: “The provisions of this section shall not be applicable to contracts for projects on the Federal-aid secondary system in those States where the Secretary has discharged his responsibility pursuant to section 117 of this title, except where employees of a political subdivision of a State are working on a project outside of such political subdivision.”
 

@@ -6,7 +6,7 @@
 
 &emsp;(2) intentionally accesses a computer without authorization or exceeds authorized access, and thereby obtains—
 
-&emsp;&emsp;(A) information contained in a financial record of a financial institution, or of a card issuer as defined in section 1602(n) of title 15, or contained in a file of a consumer reporting agency on a consumer, as such terms are defined in the Fair Credit Reporting Act (15 U.S.C. 1681 et seq.);
+&emsp;&emsp;(A) information contained in a financial record of a financial institution, or of a card issuer as defined in section 1602(n) <sup>1</sup> of title 15, or contained in a file of a consumer reporting agency on a consumer, as such terms are defined in the Fair Credit Reporting Act (15 U.S.C. 1681 et seq.);
 
 &emsp;&emsp;(B) information from any department or agency of the United States; or
 
@@ -20,13 +20,13 @@
 
 &emsp;(B) intentionally accesses a protected computer without authorization, and as a result of such conduct, recklessly causes damage; or
 
-&emsp;(C) intentionally accesses a protected computer without authorization, and as a result of such conduct, causes damage and loss.<sup>1</sup>
+&emsp;(C) intentionally accesses a protected computer without authorization, and as a result of such conduct, causes damage and loss.<sup>2</sup>
 
 &emsp;(6) knowingly and with intent to defraud traffics (as defined in section 1029) in any password or similar information through which a computer may be accessed without authorization, if—
 
 &emsp;&emsp;(A) such trafficking affects interstate or foreign commerce; or
 
-&emsp;&emsp;(B) such computer is used by or for the Government of the United States; <sup>2</sup>
+&emsp;&emsp;(B) such computer is used by or for the Government of the United States; <sup>3</sup>
 
 &emsp;(7) with intent to extort from any person any money or other thing of value, transmits in interstate or foreign commerce any communication containing any—
 
@@ -60,7 +60,7 @@
 
 &emsp;(3)(A) a fine under this title or imprisonment for not more than five years, or both, in the case of an offense under subsection (a)(4) or (a)(7) of this section which does not occur after a conviction for another offense under this section, or an attempt to commit an offense punishable under this subparagraph; and
 
-&emsp;(B) a fine under this title or imprisonment for not more than ten years, or both, in the case of an offense under subsection (a)(4),<sup>3</sup> or (a)(7) of this section which occurs after a conviction for another offense under this section, or an attempt to commit an offense punishable under this subparagraph;
+&emsp;(B) a fine under this title or imprisonment for not more than ten years, or both, in the case of an offense under subsection (a)(4),<sup>4</sup> or (a)(7) of this section which occurs after a conviction for another offense under this section, or an attempt to commit an offense punishable under this subparagraph;
 
 &emsp;(4)(A) except as provided in subparagraphs (E) and (F), a fine under this title, imprisonment for not more than 5 years, or both, in the case of—
 
@@ -88,7 +88,7 @@
 
 &emsp;(C) except as provided in subparagraphs (E) and (F), a fine under this title, imprisonment for not more than 20 years, or both, in the case of—
 
-&emsp;&emsp;(i) an offense or an attempt to commit an offense under subparagraphs (A) or (B) ofsubsection (a)(5) that occurs after a conviction for another offense under this section; or
+&emsp;&emsp;(i) an offense or an attempt to commit an offense under subparagraphs (A) or (B) of subsection (a)(5) that occurs after a conviction for another offense under this section; or
 
 &emsp;&emsp;(ii) an attempt to commit an offense punishable under this subparagraph;
 
@@ -144,7 +144,7 @@
 
 &emsp;&emsp;(H) a branch or agency of a foreign bank (as such terms are defined in paragraphs (1) and (3) of section 1(b) of the International Banking Act of 1978); and
 
-&emsp;&emsp;(I) an organization operating under section 25 or section 25(a) <sup>4</sup> of the Federal Reserve Act;
+&emsp;&emsp;(I) an organization operating under section 25 or section 25(a) <sup>1</sup> of the Federal Reserve Act;
 
 &emsp;(5) the term “financial record” means information derived from any record held by a financial institution pertaining to a customer's relationship with the financial institution;
 
@@ -156,9 +156,9 @@
 
 &emsp;(9) the term “government entity” includes the Government of the United States, any State or political subdivision of the United States, any foreign country, and any state, province, municipality, or other political subdivision of a foreign country;
 
-&emsp;(10) the term “conviction” shall include a conviction under the law of any State for a crime punishable by imprisonment for more than 1 year, an element of which is unauthorized access, or exceeding authorized access, to a computer;
+&emsp;(10) the term “conviction” shall include a conviction under the law of any State for a crime punishable by imprisonment for morethan 1 year, an element of which is unauthorized access, or exceeding authorized access, to a computer;
 
-&emsp;(11) the term “loss” means any reasonable cost to any victim, including the cost of responding to an offense, conducting a damageassessment, and restoring the data, program, system, or information to its condition prior to the offense, and any revenue lost, cost incurred, or other consequential damages incurred because of interruption of service; and
+&emsp;(11) the term “loss” means any reasonable cost to any victim, including the cost of responding to an offense, conducting a damage assessment, and restoring the data, program, system, or information to its condition prior to the offense, and any revenue lost, cost incurred, or other consequential damages incurred because of interruption of service; and
 
 &emsp;(12) the term “person” means any individual, firm, corporation, educational institution, financial institution, governmental entity, or legal or other entity.
 
@@ -188,6 +188,8 @@
 
 Section 11 of the Atomic Energy Act of 1954, referred to in subsec. (a)(1), is classified to section 2014 of Title 42, The Public Health and Welfare.
 
+Section 1602(n) of title 15, referred to in subsec. (a)(2)(A), was redesignated section 1602(<i>o</i>) of title 15 by Pub. L. 111–203, title X, §1100A(1)(A), July 21, 2010, 124 Stat. 2107.
+
 The Fair Credit Reporting Act, referred to in subsec. (a)(2)(A), is title VI of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1127, as amended, which is classified generally to subchapter III (§1681 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
 The Farm Credit Act of 1971, referred to in subsec. (e)(4)(E), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, as amended, which is classified generally to chapter 23 (§2001 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 12 and Tables.
@@ -208,7 +210,7 @@ Subsec. (a)(5). Pub. L. 110–326, §204(a)(1), redesignated cls. (i) to (iii) o
 
 “(B) by conduct described in clause (i), (ii), or (iii) of subparagraph (A), caused (or, in the case of an attempted offense, would, if completed, have caused)—
 
-&emsp;“(i) loss to 1 or more persons during any 1-year period (and, for purposes of an investigation, prosecution, or other proceeding brought by the UnitedStates only, loss resulting from a related course of conduct affecting 1 or more other protected computers) aggregating at least $5,000 in value;
+&emsp;“(i) loss to 1 or more persons during any 1-year period (and, for purposes of an investigation, prosecution, or other proceeding brought by the United States only, loss resulting from a related course of conduct affecting 1 or more other protected computers) aggregating at least $5,000 in value;
 
 &emsp;“(ii) the modification or impairment, or potential modification or impairment, of the medical examination, diagnosis, treatment, or care of 1 or more individuals;
 
@@ -296,7 +298,7 @@ Subsec. (a)(2). Pub. L. 104–294, §201(1)(B), inserted dash after “thereby o
 
 Subsec. (a)(3). Pub. L. 104–294, §201(1)(C), inserted “nonpublic” before “computer of a department or agency”, struck out “adversely” after “and such conduct”, and substituted “that use by or for the Government of the United States” for “the use of the Government's operation of such computer”.
 
-Subsec. (a)(4). Pub. L. 104–294, §201(1)(D), substituted “protected computer” for “Federal interest computer”and inserted “and the value of such use is not more than $5,000 in any 1-year period” before semicolon at end.
+Subsec. (a)(4). Pub. L. 104–294, §201(1)(D), substituted “protected computer” for “Federal interest computer” and inserted “and the value of such use is not more than $5,000 in any 1-year period” before semicolon at end.
 
 Subsec. (a)(5). Pub. L. 104–294, §201(1)(E), inserted par. (5) and struck out former par. (5) which related to fraud in connection with computers in causing transmission of program, information, code, or command to a computer or computer system in interstate or foreign commerce which damages such system, program, information, or code, or causes a withholding or denial of use of hardware or software, or transmits viruses which causes damage in excess of $1,000 or more during any one-year period, or modifies or impairs medical examination, diagnosis, treatment or care of individuals.
 
@@ -408,13 +410,13 @@ For transfer of the functions, personnel, assets, and obligations of the United 
 
 Section 2103 of Pub. L. 98–473 directed Attorney General to report to Congress annually, during first three years following Oct. 12, 1984, concerning prosecutions under this section.
 
-<i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be followed by “or”.</i>
+<i><sup>2</sup></i><i> So in original. The period probably should be a semicolon.</i>
 
-<i><sup>3</sup></i><i> So in original. The comma probably should not appear.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be followed by “or”.</i>
 
-<i><sup>4</sup></i><i> See References in Text note below.</i>
+<i><sup>4</sup></i><i> So in original. The comma probably should not appear.</i>
 
 <i><sup>5</sup></i><i> So in original. Probably should be “subclause”.</i>
 

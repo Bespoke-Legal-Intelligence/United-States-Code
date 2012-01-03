@@ -2,7 +2,7 @@
 
 (a) The Secretary is authorized to appoint such employees, including citizens of other countries, as may be necessary for carrying out the provisions of sections 171 to 173 of this title. Such appointments may be made without regard to the provisions of the civil-service laws. (Sections 321, 322, 324, and 325a of title 40 <sup>1</sup> shall not apply to any nursery, planting, cultivating or harvesting operations conducted pursuant to sections 171 to 173 of this title.) All appointments so made by the Secretary shall be made only on the basis of merit and efficiency.
 
-(b) The Secretary may delegate any of the powers and duties conferred on him by sections171 to 173 of this title to any agency or bureau of the Department of Agriculture.
+(b) The Secretary may delegate any of the powers and duties conferred on him by sections 171 to 173 of this title to any agency or bureau of the Department of Agriculture.
 
 (c) The Secretary, with the consent of any board, commission, independent establishment, corporation, or executive department of the Government, including any field service thereof, may avail himself of the use of information, services, facilities, officers and employees thereof, in carrying out the provisions of sections 171 to 173 of this title.
 
@@ -10,7 +10,7 @@
 
 (e) In carrying out the provisions of sections 171 to 173 of this title the Secretary shall have all of the authority conferred upon him by section 502 of title 16.
 
-(f) The Secretary may lease at reasonable rentals structures erected by the Government with essential facilities for such periods as such structures and facilities are not required for the purposes of sections 171 to 173 of this title; and any part of land or structures with essential facilities acquired by lease, deed, or other agreement pursuant to said sections, which are not required or suitable for the purposes of said sections during the period the United States is entitled to possession thereof may be leased or subleased at a reasonable rental; and any surplus water controlled by the United States on land owned or leased by the United States for the purposes of said sections may be disposed of at reasonable rates.
+(f) The Secretary may lease at reasonable rentals structures erected by the Government with essential facilities for such periods as such structures and facilities are not required for the purposes of sections 171 to 173 of this title; and any part of land or structures with essential facilities acquired by lease, deed, or other agreement pursuant to said sections, which are notrequired or suitable for the purposes of said sections during the period the United States is entitled to possession thereof may be leased or subleased at a reasonable rental; and any surplus water controlled by the United States on land owned or leased by the United States for the purposes of said sections may be disposed of at reasonable rates.
 
 (Mar. 5, 1942, ch. 140, §2, 56 Stat. 127; Oct. 20, 1942, ch. 617, §§5–7, 56 Stat. 797.)
 
@@ -24,7 +24,7 @@ In the second sentence of subsec. (a), the words “and the compensation of the 
 
 #### Amendments
 
-1942—Subsec. (a). Act Oct. 20, 1942, §§5, 7, substituted “other countries” for “countries in the Western Hemisphere” and inserted sentence relating to inapplicability of certain sections of title 40.
+<b>1942</b>—Subsec. (a). Act Oct. 20, 1942, §§5, 7, substituted “other countries” for “countries in the Western Hemisphere” and inserted sentence relating to inapplicability of certain sections of title 40.
 
 Subsecs. (e), (f). Act Oct. 20, 1942, §6, added subsecs. (e) and (f).
 

@@ -102,7 +102,7 @@ Consolidation loans.—This subparagraph shall not apply in the case of any cons
 
 &emsp;&emsp;(v)
 
-Limitation on special allowances for PLUS loans.—In the case of PLUS loans made under section 1078–2 of this title and disbursed on or after July 1, 1998, and before October 1, 1998, for which the interest rate is determined under 1077a(j)(3) of this title, a special allowance shall not be paid for suchloan for such <sup>2</sup> unless the rate determined under subparagraph (A) of such section (without regard to subparagraph (B) of such section) exceeds 9.0 percent.
+Limitation on special allowances for PLUS loans.—In the case of PLUS loans made under section 1078–2 of this title and disbursed on or after July 1, 1998, and before October 1, 1998, for which the interest rate is determined under 1077a(j)(3) of this title, a special allowance shall not be paid for such loan for such <sup>2</sup> unless the rate determined under subparagraph (A) of such section (without regard to subparagraph (B) of such section) exceeds 9.0 percent.
 
 &emsp;(H)
 
@@ -134,7 +134,7 @@ Consolidation loans.—In the case of any consolidation loan for which the appli
 
 &emsp;&emsp;(v)
 
-Limitation on special allowances for plus loans.—In the case of PLUS loans made under section 1078–2 of this title and first disbursed on or after October 1, 1998, and before January 1, 2000, for which the interest rate is determined under section 1077a(k)(3) of this title, a special allowance shall not be paid for such loan during any 12-month period beginning on July 1 and ending on June 30 unless, on the June 1 preceding such July 1—
+Limitation on special allowances for plus loans.—In the case of PLUS loans made under section 1078–2 of this title andfirst disbursed on or after October 1, 1998, and before January 1, 2000, for which the interest rate is determined under section 1077a(k)(3) of this title, a special allowance shall not be paid for such loan during any 12-month period beginning on July 1 and ending on June 30 unless, on the June 1 preceding such July 1—
 
 &emsp;&emsp;&emsp;(I) the bond equivalent rate of 91-day Treasury bills auctioned at the final auction held prior to such June 1 (as determined by the Secretary for purposes of such section); plus
 
@@ -162,7 +162,7 @@ In general.—Notwithstanding subparagraphs (G) and (H), but subject to paragrap
 
 &emsp;&emsp;&emsp;(I) by determining the average of the bond equivalent rates of the quotes of the 3-month commercial paper (financial) rates in effect for each of the days in such quarter as reported by the Federal Reserve in Publication H–15 (or its successor) for such 3-month period;
 
-&emsp;&emsp;&emsp;(II) by subtracting the applicable interest rates on such loans from such average bond equivalent rate;
+&emsp;&emsp;&emsp;(II) by subtracting the applicable interest rates on such loans from the rate determined under subclause (I) (in accordance with clause (vii));
 
 &emsp;&emsp;&emsp;(III) by adding 2.34 percent to the resultant percent; and
 
@@ -206,11 +206,11 @@ Calculation of excess.—The amount of any adjustment of interest on a loan to b
 
 &emsp;&emsp;&emsp;(III)
 
-Special allowance support level.—For purposes of this clause, the term “special allowance support level” means, for any loan, a number expressed as a percentage equal to the sum of the rates determined under subclauses (I) and (III) of clause (i), and applying any substitution rules applicable to such loan under clauses (ii), (iii), (iv), and (vi) in determining such sum.
+Special allowance support level.—For purposes of this clause, the term “special allowance support level” means, for any loan, a number expressed as a percentage equal to the sum of the rates determined under subclauses (I) and (III) of clause (i), and applying any substitution rules applicable to such loan under clauses (ii), (iii), (iv), (vi), and (vii) in determining such sum.
 
 &emsp;&emsp;(vi)
 
-Reduction for loans disbursed on or after october 1, 2007, and before july 1, 2010.—With respect to a loan on which the applicable interest rate is determined under section 1077a(<i>l</i>) of this title and for which the first disbursement of principal is made on or after October 1, 2007, and before July 1, 2010, the special allowance payment computed pursuant to this subparagraph shall be computed—
+Reduction for loans disbursed on or after october 1, 2007, and before july 1,2010.—With respect to a loan on which the applicable interest rate is determined under section 1077a(<i>l</i>) of this title and for which the first disbursement of principal is made on or after October 1, 2007, and before July 1, 2010, the special allowance payment computed pursuant to this subparagraph shall be computed—
 
 &emsp;&emsp;&emsp;(I) for loans held by an eligible lender not described in subclause (II)—
 
@@ -231,6 +231,40 @@ Reduction for loans disbursed on or after october 1, 2007, and before july 1, 20
 &emsp;&emsp;&emsp;&emsp;(cc) by substituting “1.94 percent” for “2.64 percent” in clause (iii); and
 
 &emsp;&emsp;&emsp;&emsp;(dd) by substituting “2.24 percent” for “2.64 percent” in clause (iv).
+
+&emsp;&emsp;(vii)
+
+Revised calculation rule to reflect financial market conditions.—
+
+&emsp;&emsp;&emsp;(I)
+
+Calculation based on LIBOR.—For the calendar quarter beginning on April 1, 2012 <sup>3</sup> and each subsequent calendar quarter, in computing the special allowance paid pursuant to this subsection with respect to loans described in subclause (II), clause (i)(I) of this subparagraph shall be applied by substituting “of the 1-month London Inter Bank Offered Rate (LIBOR) for United States dollars in effect for each of the days in such quarter as compiled and released by the British Bankers Association” for “of the quotes of the 3-month commercial paper (financial) rates in effect for each of the days in such quarter as reported by the Federal Reserve in Publication H–15 (or its successor) for such 3-month period”.
+
+&emsp;&emsp;&emsp;(II)
+
+Loans eligible for LIBOR-based calculation.—The special allowance paid pursuant to this subsection shall be calculated as described in subclause (I) with respect to special allowance payments for the 3-month period ending June 30, 2012, and each succeeding 3-month period, on loans for which the first disbursement is made on or after January 1, 2000, and before July 1, 2010, if, not later than April 1, 2012, the holder of the loan (or, if the holder acts as eligible lender trustee for the beneficial owner of the loan, the beneficial owner of the loan), affirmatively and permanently waives all contractual, statutory, or other legal rights to a special allowance paid pursuant to this subsection that is calculated using the formula in effect at the time the loans were first disbursed.
+
+&emsp;&emsp;&emsp;(III)
+
+Terms of waiver.—
+
+&emsp;&emsp;&emsp;&emsp;(aa)
+
+In general.—A waiver pursuant to subclause (II) shall be in a form (printed or electronic) prescribed by the Secretary, and shall be applicable to—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(AA) all loans described in such subclause that the lender holds solely in its own right under any lender identification number associated with the holder (pursuant to section 1094b of this title);
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(BB) all loans described in such subclause for which the beneficial owner has the authority to make an election of a waiver under such subclause, regardless of the lender identification number associated with the loan or the lender that holds the loan as eligible lender trustee on behalf of such beneficial owner; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(CC) all future calculations of the special allowance on loans that, on the date of such waiver, are loans described in subitem (AA) or (BB), or that, after such date, become loans described in subitem (AA) or (BB).
+
+&emsp;&emsp;&emsp;&emsp;(bb)
+
+Exceptions.—Any waiver pursuant to subclause (II) that is elected for loans described in subitem (AA) or (BB) of item (aa) shall not apply to any loan described in such subitem for which the lender or beneficial owner of the loan demonstrates to the satisfaction of the Secretary that—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(AA) in accordance with an agreement entered into before the date of enactment of this section by which such lender or owner is governed and that applies to such loans, such lender or owner is not legally permitted to make an election of such waiver with respect to such loans without the approval of one or more third parties with an interest in the loans, and that the lender or owner followed all available options under such agreement to obtain such approval, and was unable to do so; or
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(BB) such lender or beneficial owner presented the proposal of electing such a waiver applicable to such loans associated with an obligation rated by a nationally recognized statistical rating organization (as defined in section 78c(a)(62) of title 15), and such rating organization provided a written opinion that the agency would downgrade the rating applicable to such obligation if the lender or owner elected such a waiver.
 
 #### (3) Contractual right of holders to special allowance
 
@@ -290,7 +324,7 @@ Reduction for loans disbursed on or after october 1, 2007, and before july 1, 20
 
 &emsp;&emsp;&emsp;(ii) by substituting “1.5 percent” for “3.0 percent” with respect to loans for which the first disbursement of principal is made on or after July 1, 2007, and before July 1, 2008;
 
-&emsp;&emsp;&emsp;(iii) by substituting “1.0 percent” for “3.0 percent” with respect to loans for which the first disbursement of principal is made on or after July 1, 2008, and before July 1, 2009; and
+&emsp;&emsp;&emsp;(iii) by substituting “1.0 percent” for “3.0 percent” with respect to loans forwhich the first disbursement of principal is made on or after July 1, 2008, and before July 1, 2009; and
 
 &emsp;&emsp;&emsp;(iv) by substituting “0.5 percent” for “3.0 percent” with respect to loans for which the first disbursement of principal is made on or after July 1, 2009, and before July 1, 2010.
 
@@ -312,7 +346,7 @@ Reduction for loans disbursed on or after october 1, 2007, and before july 1, 20
 
 #### (7) Distribution of origination fees
 
-&emsp;All origination fees collected pursuant to this section on loans authorized under section 1078–1 <sup>1</sup> or 1078–2 of this title shall be paid tothe Secretary by the lender and deposited in the fund authorized under section 1081 of this title.
+&emsp;All origination fees collected pursuant to this section on loans authorized under section 1078–1 <sup>1</sup> or 1078–2 of this title shall be paid to the Secretary by the lender and deposited in the fund authorized under section 1081 of this title.
 
 #### (8) Exception
 
@@ -360,13 +394,15 @@ The Secretary shall adopt or amend appropriate regulations pertaining to program
 
 #### (g) Special Rule
 
-With respect to any loan made under this part for which the interest rate is determined under the Servicemembers Civil Relief Act (50 U.S.C. App. 527), the applicable interest rate to be subtracted in calculating the special allowance for such loan under this section shall be the interest rate determined under that Act for such loan.
+With respect to any loan made under this part for which the interest rate is determined underthe Servicemembers Civil Relief Act (50 U.S.C. App. 527), the applicable interest rate to be subtracted in calculating the special allowance for such loan under this section shall be the interest rate determined under that Act for such loan.
 
-(Pub. L. 89–329, title IV, §438, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1414; amended Pub. L. 100–50, §10(d)(2), (bb), (cc), June 3, 1987, 101 Stat. 342, 347; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 102–325, title IV, §430, July 23, 1992, 106 Stat. 553; Pub. L. 103–66, title IV, §§4102(a), 4103, 4105, 4111, Aug. 10, 1993, 107 Stat. 366, 367, 368, 370; Pub. L. 105–178, title VIII, §8301(b), June 9, 1998, 112 Stat. 497; Pub. L. 105–244, title IV, §§416(b)(1), (3), 433(a)–(d)(1), Oct. 7, 1998, 112 Stat. 1680, 1682, 1710, 1711; Pub. L. 106–170, title IV, §409(a), Dec. 17, 1999, 113 Stat. 1914; Pub. L. 107–139, §2, Feb. 8, 2002, 116 Stat. 10; Pub. L. 108–409, §2, Oct. 30, 2004, 118 Stat. 2299; Pub. L. 109–150, §2(b), (c)(2), Dec. 30, 2005, 119 Stat. 2884; Pub. L. 109–171, title VIII, §§8006(b)(1), 8008(c)(1), 8013(a)–(c)(1), (d)(1), Feb. 8, 2006, 120 Stat. 159, 162, 166, 167; Pub. L. 110–84, title II, §201(a)(2), title III, §§302(b)(2), 305, Sept. 27, 2007, 121 Stat. 791, 796, 799; Pub. L. 110–315, title IV, §422(g)(2), Aug. 14, 2008, 122 Stat. 3230; Pub. L. 111–39, title IV, §402(f)(11), July 1, 2009, 123 Stat. 1945; Pub. L. 111–152, title II, §2208, Mar. 30, 2010, 124 Stat. 1077.)
+(Pub. L. 89–329, title IV, §438, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1414; amended Pub. L. 100–50, §10(d)(2), (bb), (cc), June 3, 1987, 101 Stat. 342, 347; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 102–325, title IV, §430, July 23, 1992, 106 Stat. 553; Pub. L. 103–66, title IV, §§4102(a), 4103, 4105, 4111, Aug. 10, 1993, 107 Stat. 366, 367, 368, 370; Pub. L. 105–178, title VIII, §8301(b), June 9, 1998, 112 Stat. 497; Pub. L. 105–244, title IV, §§416(b)(1), (3), 433(a)–(d)(1), Oct. 7, 1998, 112 Stat. 1680, 1682, 1710, 1711; Pub. L. 106–170, title IV, §409(a), Dec. 17, 1999, 113 Stat. 1914; Pub. L. 107–139, §2, Feb. 8, 2002, 116 Stat. 10; Pub. L. 108–409, §2, Oct. 30, 2004, 118 Stat. 2299; Pub. L. 109–150, §2(b), (c)(2), Dec. 30, 2005, 119 Stat. 2884; Pub. L. 109–171, title VIII, §§8006(b)(1), 8008(c)(1), 8013(a)–(c)(1), (d)(1), Feb. 8, 2006, 120 Stat. 159, 162, 166, 167; Pub. L. 110–84, title II, §201(a)(2), title III, §§302(b)(2), 305, Sept. 27, 2007, 121 Stat. 791, 796, 799; Pub. L. 110–315, title IV, §422(g)(2), Aug. 14, 2008, 122 Stat. 3230; Pub. L. 111–39, title IV, §402(f)(11), July 1, 2009, 123 Stat. 1945; Pub. L. 111–152, title II, §2208, Mar. 30, 2010, 124 Stat. 1077; Pub. L. 112–74, div. F, title III, §309(e), Dec. 23, 2011, 125 Stat. 1101.)
 
 #### References in Text
 
 Section 1078–1 of this title, referred to in subsecs. (b)(2)(C), (5)(A)(ii) and (c)(6), (7), was repealed by Pub. L. 103–66, title IV, §4047(b)–(d), Aug. 10, 1993, 107 Stat. 364, eff. July 1, 1994, except with respect to loans provided under that section as it existed prior to Aug. 10, 1993. Subsequently, a new section 1078–1, relating to voluntary flexible agreements with guaranty agencies, was enacted by Pub. L. 105–244, title IV, §418, Oct. 7, 1998, 112 Stat. 1691.
+
+The date of enactment of this section, referred to in subsec. (b)(2)(I)(vii)(III)(bb)(AA), probably means the date of enactment of Pub. L. 112–74, which enacted subsec. (b)(2)(I)(vii) and was approved Dec. 23, 2011.
 
 The Servicemembers Civil Relief Act, referred to in subsec. (g), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, which is classified to section 501 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see section 501 of Title 50, Appendix, and Tables.
 
@@ -377,6 +413,12 @@ A prior section 1087–1, Pub. L. 89–329, title IV, §438, as added Pub. L. 92
 A prior section 1087–1a, Pub. L. 96–374, title IV, §420(b), Oct. 3, 1980, 94 Stat. 1427, related to eligibility for special allowances covering loans made or purchased with funds obtained from Authorities issuing tax exempt obligations, and established requirement relating to plans for doing business, prior to repeal by Pub. L. 98–79, §7(b), Aug. 15, 1983, 97 Stat. 483.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (b)(2)(I)(i)(II). Pub. L. 112–74, §309(e)(2)(A), substituted “the rate determined under subclause (I) (in accordance with clause (vii))” for “such average bond equivalent rate”.
+
+Subsec. (b)(2)(I)(v)(III). Pub. L. 112–74, §309(e)(2)(B), substituted “(iv), (vi), and (vii)” for “(iv), and (vi)”.
+
+Subsec. (b)(2)(I)(vii). Pub. L. 112–74, §309(e)(1), added cl. (vii).
 
 <b>2010</b>—Subsec. (b)(2)(I). Pub. L. 111–152, §2208(1)(A), which directed amendment of subpar. (I) “in the subclause heading” by inserting “, and before july 1, 2010” after “2000”, was executed in subpar. (I) heading to reflect the probable intent of Congress.
 
@@ -554,7 +596,7 @@ Subsec. (d)(4)(C). Pub. L. 100–50, §10(cc), struck out “, as evidenced by 
 
 #### Effective Date of 2009 Amendment
 
-Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14,2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 
 #### Effective Date of 2008 Amendment
 
@@ -619,4 +661,6 @@ Section effective Oct. 17, 1986, with subsec. (b) of this section effective with
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>2</sup></i><i> So in original.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

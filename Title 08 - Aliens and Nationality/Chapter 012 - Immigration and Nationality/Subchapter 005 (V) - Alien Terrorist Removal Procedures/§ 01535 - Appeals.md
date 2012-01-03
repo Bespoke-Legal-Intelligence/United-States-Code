@@ -90,7 +90,7 @@ Following a decision by the Court of Appeals pursuant to subsection (c) of this 
 
 #### Amendments
 
-1996—Subsec. (c)(1). Pub. L. 104–208, §354(a)(3)(A), substituted “Subject to paragraph (2), the decision” for “The decision”.
+<b>1996</b>—Subsec. (c)(1). Pub. L. 104–208, §354(a)(3)(A), substituted “Subject to paragraph (2), the decision” for “The decision”.
 
 Subsec. (c)(2). Pub. L. 104–208, §354(a)(3)(D), added par. (2). Former par. (2) redesignated (3).
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary shall establish, within the National Agricultural Library, in coordination with the National Institute of Food and Agriculture, a National Rural Information CenterClearinghouse (in this section referred to as the “Clearinghouse”) to perform the functions specified in subsection (b) of this section.
+The Secretary shall establish, within the National Agricultural Library, in coordination with the National Institute of Food and Agriculture, a National Rural Information Center Clearinghouse (in this section referred to as the “Clearinghouse”) to perform the functions specified in subsection (b) of this section.
 
 #### (b) Functions
 
@@ -30,15 +30,15 @@ Section was enacted as part of the Rural Economic Development Act of 1990, and a
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–246, §7511(c)(9), substituted “National Institute of Food and Agriculture” for “Extension Service”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–246, §7511(c)(9), substituted “National Institute of Food and Agriculture” for “Extension Service”.
 
 Subsec. (e). Pub. L. 110–246, §7212, substituted “2012” for “2007”.
 
-2002—Subsec. (e). Pub. L. 107–171 substituted “2007” for “2002”.
+<b>2002</b>—Subsec. (e). Pub. L. 107–171 substituted “2007” for “2002”.
 
-1998—Subsec. (e). Pub. L. 105–185 substituted “2002” for “1997”.
+<b>1998</b>—Subsec. (e). Pub. L. 105–185 substituted “2002” for “1997”.
 
-1996—Subsec. (e). Pub. L. 104–127 substituted “1997” for “1995”.
+<b>1996</b>—Subsec. (e). Pub. L. 104–127 substituted “1997” for “1995”.
 
 #### Effective Date of 2008 Amendment
 

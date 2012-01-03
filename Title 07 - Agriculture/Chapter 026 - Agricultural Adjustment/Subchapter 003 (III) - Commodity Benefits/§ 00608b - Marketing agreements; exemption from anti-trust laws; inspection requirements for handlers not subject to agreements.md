@@ -28,17 +28,17 @@ The provisions appearing in subsec. (a) of this section except the first sentenc
 
 #### Amendments
 
-1993—Subsec. (b)(1)(C). Pub. L. 103–66 added subpar. (C).
+<b>1993</b>—Subsec. (b)(1)(C). Pub. L. 103–66 added subpar. (C).
 
-1991—Subsec. (b)(2). Pub. L. 102–237 made technical amendment to reference to section 1445c–3 of this title involving corresponding provisions of original Act.
+<b>1991</b>—Subsec. (b)(2). Pub. L. 102–237 made technical amendment to reference to section 1445c–3 of this title involving corresponding provisions of original Act.
 
-1989—Pub. L. 101–220 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1989</b>—Pub. L. 101–220 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1947—Act June 30, 1947, repealed provisions providing for loans from Reconstruction Finance Corporation.
+<b>1947</b>—Act June 30, 1947, repealed provisions providing for loans from Reconstruction Finance Corporation.
 
-1935—Act Aug. 24, 1935, designated subsection 2 of section 8 of act May 12, 1933, as section 8b and amended first sentence generally.
+<b>1935</b>—Act Aug. 24, 1935, designated subsection 2 of section 8 of act May 12, 1933, as section 8b and amended first sentence generally.
 
-1934—Act Apr. 7, 1934, empowered Secretary of Agriculture to enter into marketing agreements with individual producers.
+<b>1934</b>—Act Apr. 7, 1934, empowered Secretary of Agriculture to enter into marketing agreements with individual producers.
 
 #### Effective Date of 1989 Amendment
 

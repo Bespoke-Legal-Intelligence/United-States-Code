@@ -2,7 +2,7 @@
 
 #### Amendments
 
-1946—Act Aug. 14, 1946, ch. 964, §5, 60 Stat. 1072, amended subchapter heading to read as now set out.
+<b>1946</b>—Act Aug. 14, 1946, ch. 964, §5, 60 Stat. 1072, amended subchapter heading to read as now set out.
 
 
 ---

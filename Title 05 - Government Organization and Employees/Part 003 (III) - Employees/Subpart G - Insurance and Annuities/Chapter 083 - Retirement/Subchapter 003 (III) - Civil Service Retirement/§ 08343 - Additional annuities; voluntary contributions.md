@@ -46,9 +46,9 @@ This section amends 5 U.S.C. 8343(a)(1) for consistency within the subchapter an
 
 #### Amendments
 
-1982—Subsec. (a). Pub. L. 97–253 inserted “through December 31, 1984, and thereafter at the rate computed under section 8334(e) of this title,”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–253 inserted “through December 31, 1984, and thereafter at the rate computed under section 8334(e) of this title,”.
 
-1978—Subsecs. (a), (d). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission”.
+<b>1978</b>—Subsecs. (a), (d). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission”.
 
 #### Effective Date of 1982 Amendment
 

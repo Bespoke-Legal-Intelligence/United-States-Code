@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary of Housing and Urban Development shall establish a plan for activities to be undertaken and policies to be adopted by the Secretary within the 5-year period beginning upon the submission of the plan to the Congress under subsection (d) of this section to provide for, encourage, and improve energy efficiency in newly constructed, rehabilitated, and existinghousing. In developing the plan, the Secretary shall consider, as appropriate, any energy assessments under section 944.
+The Secretary of Housing and Urban Development shall establish a plan for activities to be undertaken and policies to be adopted by the Secretary within the 5-year period beginning upon the submission of the plan to the Congress under subsection (d) of this section to provide for, encourage, and improve energy efficiency in newly constructed, rehabilitated, and existing housing. In developing the plan, the Secretary shall consider, as appropriate, any energy assessments under section 944.
 
 #### (b) Initial plan
 
@@ -40,7 +40,7 @@ Uniform Plan.—The Secretary of Housing and Urban Development, in consultation 
 
 “(b)
 
-Task Force.—To develop the plan, the Secretary shall form a task force to make recommendation\[s\] on financing energy efficiency in private mortgages, through the policies of Federal agencies and federally chartered financial institutions, mortgage bankers, homebuilders, real estate brokers, private mortgage insurers, energy suppliers, and nonprofit housing and energy organizations. The task force shall include, but not be limited to, individuals representing the Federal Housing Administration mortgage programs of the Department of Housing and Urban Development, the Farmers Home Administration mortgage loan and insurance programs of Department of Agriculture, the Federal Home Loan Mortgage Corporation, and the Federal National Mortgage Association. The Task Force shall determine whether notifying potential home purchasers of the availability of energy efficient mortgages would promote energy efficiency in residential buildings, and if so, the Task Force shall recommend appropriate notification guidelines, and agencies and organizations referred to in the preceding sentence are authorized to implement such guidelines.”
+Task Force.—To develop the plan, the Secretary shall form a task force to make recommendation\[s\] on financing energy efficiency in private mortgages, through the policies of Federal agencies and federally chartered financial institutions, mortgage bankers, homebuilders, real estate brokers, private mortgage insurers, energy suppliers, and nonprofit housing and energy organizations. The task force shall include, but not be limited to, individuals representing the Federal Housing Administration mortgage programs of the Department of Housing and Urban Development, the Farmers Home Administration mortgage loan and insurance programs of Department of Agriculture, the Federal Home Loan Mortgage Corporation, and the Federal National Mortgage Association. The Task Force shall determine whether notifying potentialhome purchasers of the availability of energy efficient mortgages would promote energy efficiency in residential buildings, and if so, the Task Force shall recommend appropriate notification guidelines, and agencies and organizations referred to in the preceding sentence are authorized to implement such guidelines.”
 
 #### Energy Efficiency Demonstration
 

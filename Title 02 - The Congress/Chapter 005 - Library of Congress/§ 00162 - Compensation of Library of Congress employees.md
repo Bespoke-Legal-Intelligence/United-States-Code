@@ -14,9 +14,9 @@ Section was formerly classified to sections 60 and 65 of Title 5 prior to the ge
 
 #### Amendments
 
-1964—Pub. L. 88–448 substituted “and section 301 of the Dual Compensation Act \[5 U.S.C. 3105\] shall not apply to any additional compensation so paid to such employees” for “nor shall any additional compensation so paid to such employees be construed as a double salary under the provisions of section 6 of the Act making appropriations for the legislative, executive, and judicial expenses of the Government for the fiscal year ending June 30, 1917, as amended (Thirty-ninth Statutes at Large, page 582) \[5 U.S.C. 58\]”.
+<b>1964</b>—Pub. L. 88–448 substituted “and section 301 of the Dual Compensation Act \[5 U.S.C. 3105\] shall not apply to any additional compensation so paid to such employees” for “nor shall any additional compensation so paid to such employees be construed as a double salary under the provisions of section 6 of the Act making appropriations for the legislative, executive, and judicial expenses of the Government for the fiscal year ending June 30, 1917, as amended (Thirty-ninth Statutes at Large, page 582) \[5 U.S.C. 58\]”.
 
-1926—Act Jan. 27, 1926, struck out the comma after “undertakings”.
+<b>1926</b>—Act Jan. 27, 1926, struck out the comma after “undertakings”.
 
 #### Effective Date of 1964 Amendment
 

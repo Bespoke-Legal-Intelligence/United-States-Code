@@ -8,7 +8,7 @@
 
 (b)(1) A person receiving instruction under this section is entitled to the pay, allowances, and emoluments of a midshipman appointed from the United States, and from the same appropriations.
 
-(2) Each foreign country from which a midshipman is permitted to receive instruction at the Academy under this section shall reimburse the United States for the cost of providing such instruction, including the cost of pay, allowances, and emoluments provided under paragraph (1). The Secretary of the Navy shall prescribe the rates for reimbursement under this paragraph, except that the reimbursement rates may not be less than the cost to the United States of providing such instruction, including pay, allowances, and emoluments, to a midshipman appointed from the United States.
+(2) Each foreign country from which a midshipman is permitted to receive instruction at the Academy under this section shall reimburse the United States for the cost of providing such instruction, including the cost of pay, allowances, and emoluments provided under paragraph (1). The Secretary of the Navy shall prescribe the rates for reimbursement under this paragraph, except that the reimbursement ratesmay not be less than the cost to the United States of providing such instruction, including pay, allowances, and emoluments, to a midshipman appointed from the United States.
 
 (3) The Secretary of Defense may waive, in whole or in part, the requirement for reimbursement of the cost of instruction for a midshipman under paragraph (2). In the case of a partial waiver, the Secretary shall establish the amount waived.
 
@@ -94,7 +94,7 @@ Amendment by Pub. L. 106–398 applicable with respect to academic years that be
 
 #### Effective Date of 1999 Amendment
 
-Amendment by Pub. L. 106–65 applicable with respect to students from a foreign country entering the United States Military Academy, Naval Academy, or Air Force Academy on or after May 1, 1999, see section 534(d) of Pub. L. 106–65, set out as a note under section 4344 of this title.
+Amendment by Pub. L. 106–65 applicable with respect to students from a foreign country entering the United States Military Academy, Naval Academy, or Air Force Academy on or after May 1, 1999, see section 534(d) ofPub. L. 106–65, set out as a note under section 4344 of this title.
 
 #### Effective Date of 1997 Amendment
 

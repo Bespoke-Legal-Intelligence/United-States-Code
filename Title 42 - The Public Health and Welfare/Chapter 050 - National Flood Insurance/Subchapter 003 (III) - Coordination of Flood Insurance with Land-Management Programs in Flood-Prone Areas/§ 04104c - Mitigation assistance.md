@@ -72,7 +72,7 @@ To be eligible to receive financial assistance under this section for mitigation
 
 &emsp;&emsp;(B) elevation, relocation, demolition, or floodproofing of structures (including public structures) located in areas having special flood hazards or other areas of flood risk;
 
-&emsp;&emsp;(C) acquisition by States and communities of properties (including public properties) located in areas having special flood hazards or other areas of flood risk and properties substantially damaged by flood, for publicuse, as the Director determines is consistent with sound land management and use in such area;
+&emsp;&emsp;(C) acquisition by States and communities of properties (including public properties) located in areas having special flood hazards or other areas of flood risk and properties substantially damaged by flood, for public use, as the Director determines is consistent with sound land management and use in such area;
 
 &emsp;&emsp;(D) minor physical mitigation efforts that do not duplicate the flood prevention activities of other Federal agencies and that lessen the frequency or severity of flooding and decrease predicted flood damages, which shall not include major flood control projects such as dikes, levees, seawalls, groins, and jetties unless the Director specifically determines in approving a mitigation plan that such activities are the most cost-effective mitigation activities for the National Flood Mitigation Fund;
 
@@ -176,7 +176,7 @@ Pub. L. 103–325, title V, §553(b), Sept. 23, 1994, 108 Stat. 2273, required t
 
 #### Transfer of Functions
 
-For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities ofthe Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

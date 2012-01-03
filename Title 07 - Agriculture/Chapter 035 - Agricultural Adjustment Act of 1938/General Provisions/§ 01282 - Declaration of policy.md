@@ -10,7 +10,7 @@ The Soil Conservation and Domestic Allotment Act, as amended, referred to in tex
 
 #### Amendments
 
-2004—Pub. L. 108–357 struck out “tobacco,” after “corn,”.
+<b>2004</b>—Pub. L. 108–357 struck out “tobacco,” after “corn,”.
 
 #### Effective Date of 2004 Amendment
 

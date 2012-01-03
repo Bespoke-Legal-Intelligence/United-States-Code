@@ -82,7 +82,7 @@ Amendment by Pub. L. 87–87 effective as to injuries sustained on or after July
 
 #### Effective Date of 1956 Amendment
 
-Amendment by act July 26, 1956, applicable only with respect to injuries and death occurring on or after July 26, 1956, see section 9 of act July 26, 1956, set out as a note under section 906 of this title.
+Amendment by act July 26, 1956, applicable only with respect to injuries and death occurring on or after July26, 1956, see section 9 of act July 26, 1956, set out as a note under section 906 of this title.
 
 #### Effective Date of 1948 Amendment
 

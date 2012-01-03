@@ -10,7 +10,7 @@ The Secretary of Agriculture may—
 
 #### (b) Availability
 
-Sums received by the Secretary under this section shall remain available until expendedwithout further appropriation and without fiscal year limitation, to carry out subsection (a) of this section.
+Sums received by the Secretary under this section shall remain available until expended without further appropriation and without fiscal year limitation, to carry out subsection (a) of this section.
 
 (Pub. L. 107–171, title X, §10703(a), (b), May 13, 2002, 116 Stat. 517.)
 
@@ -18,5 +18,5 @@ Sums received by the Secretary under this section shall remain available until e
 
 The Federal Meat Inspection Act, referred to in subsec. (a)(1), is titles I to IV of act Mar. 4, 1907, ch. 2907, as added Pub. L. 90–201, Dec. 15, 1967, 81 Stat. 584, and amended, which are classified generally to subchapters I to IV (§601 et seq.) of chapter 12 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 21 and Tables.
 
-The Poultry Products Inspection Act, referred to in subsec. (a)(1), is Pub. L. 85–172, Aug. 28, 1957, 71 Stat. 441, as amended, which is classified generally to chapter 10 (§451 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 451 of Title 21 and Tables.
+The Poultry Products Inspection Act, referred to in subsec. (a)(1), is Pub. L. 85–172, Aug. 28, 1957, 71 Stat.441, as amended, which is classified generally to chapter 10 (§451 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 451 of Title 21 and Tables.
 

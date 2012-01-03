@@ -10,13 +10,9 @@
 
 (Aug. 14, 1935, ch. 531, title XI, §1117, as added Pub. L. 98–369, div. B, title III, §2332(a), July 18, 1984, 98 Stat. 1088; amended Pub. L. 105–33, title IV, §4643, Aug. 5, 1997, 111 Stat. 487; Pub. L. 108–173, title IX, §900(c), (e)(1)(A), Dec. 8, 2003, 117 Stat. 2370.)
 
-#### References in Text
-
-Parts C and D of subchapter XVIII of this chapter, referred to in subsec. (b)(3), are classified to sections 1395w–21 et seq. and 1395w–101 et seq., respectively, of this title.
-
 #### Prior Provisions
 
-A prior section 1317, act Aug. 14, 1935, ch. 531, title XI, §1117, as added July 30, 1965, Pub. L. 89–97, title IV, §405, 79 Stat. 420; amended Jan. 2, 1968, Pub. L. 90–248, titleII, §§221(a)–(c), 241(c)(6), 81 Stat. 899, 917, related to maintenance of State public assistance expenditures, prior to repeal by Pub. L. 90–248, title II, §221(d), Jan. 2, 1968, 81 Stat. 900, eff. July 1, 1968.
+A prior section 1317, act Aug. 14, 1935, ch. 531, title XI, §1117, as added July 30, 1965, Pub. L. 89–97, title IV, §405, 79 Stat. 420; amended Jan. 2, 1968, Pub. L. 90–248, title II, §§221(a)–(c), 241(c)(6), 81 Stat. 899, 917, related to maintenance of State public assistance expenditures, prior to repeal by Pub. L. 90–248, title II, §221(d), Jan. 2, 1968, 81 Stat. 900, eff. July 1, 1968.
 
 #### Amendments
 

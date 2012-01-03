@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 12 months after September 30, 1996, and once every 60 months thereafter, theBoard, in consultation with the Director of the Office of Thrift Supervision, the Comptroller of the Currency, the Board of Directors of the Corporation, the Administrator of the National Credit Union Administration, the Administrator of the Small Business Administration, and the Secretary of Commerce, shall conduct a study and submit a report to the Congress detailing the extent of small business lending by all creditors.
+&emsp;Not later than 12 months after September 30, 1996, and once every 60 months thereafter, the Board, in consultation with the Director of the Office of Thrift Supervision, the Comptroller of the Currency, the Board of Directors of the Corporation, the Administrator of the National Credit Union Administration, the Administrator of the Small Business Administration, and the Secretary of Commerce, shall conduct a study and submit a report to the Congress detailing the extent of small business lending by all creditors.
 
 #### (2) Contents of study
 
@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(C) the range of credit options available to small businesses, such as those available from insured depository institutions and other providers of credit;
 
-&emsp;&emsp;(D) the types of credit products used to finance small business operations, including the use of traditional loans, leases, lines of credit, home equity loans, credit cards, and other sources of financing;
+&emsp;&emsp;(D) the types of credit products used to finance small business operations, including the use of traditional loans, leases, lines ofcredit, home equity loans, credit cards, and other sources of financing;
 
 &emsp;&emsp;(E) the credit needs of small businesses, including, if appropriate, the extent to which such needs differ, based upon product type, size of business, cash flow requirements, characteristics of ownership or investors, or other aspects of such business;
 

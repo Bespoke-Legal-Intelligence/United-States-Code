@@ -20,11 +20,11 @@
 
 #### Codification
 
-Section was enacted as part of the Food Security Act of 1985, and not as part of the Agricultural Act of 1949 which is classified principally to this chapter. For complete classification of the 1949 Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+Section was enacted as part of the Food Security Act of 1985, and not as part of the Agricultural Act of 1949which is classified principally to this chapter. For complete classification of the 1949 Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
 #### Amendments
 
-1990—Subsec. (a). Pub. L. 101–624 substituted “1996” for “1990” in introductory provisions.
+<b>1990</b>—Subsec. (a). Pub. L. 101–624 substituted “1996” for “1990” in introductory provisions.
 
 #### Effective Date of 1990 Amendment
 

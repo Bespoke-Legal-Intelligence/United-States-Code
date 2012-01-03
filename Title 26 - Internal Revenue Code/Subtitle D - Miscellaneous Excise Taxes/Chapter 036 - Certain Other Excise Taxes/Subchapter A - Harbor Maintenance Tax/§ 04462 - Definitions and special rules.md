@@ -84,7 +84,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;(A) cargo loaded on a vessel in a port in the United States mainland for transportation to Alaska, Hawaii, or any possession of the United States for ultimate use or consumption in Alaska, Hawaii, or any possession of the United States,
 
-&emsp;&emsp;(B) cargo loaded on a vessel in Alaska, Hawaii, or any possession of the United States for transportation to the United States mainland, Alaska, Hawaii, or such a possession for ultimate use or consumption in the United States mainland, Alaska, Hawaii, or such a possession,
+&emsp;&emsp;(B) cargo loaded on a vessel in Alaska, Hawaii, or any possession of the United Statesfor transportation to the United States mainland, Alaska, Hawaii, or such a possession for ultimate use or consumption in the United States mainland, Alaska, Hawaii, or such a possession,
 
 &emsp;&emsp;(C) the unloading of cargo described in subparagraph (A) or (B) in Alaska, Hawaii, or any possession of the United States, or in the United States mainland, respectively, or
 

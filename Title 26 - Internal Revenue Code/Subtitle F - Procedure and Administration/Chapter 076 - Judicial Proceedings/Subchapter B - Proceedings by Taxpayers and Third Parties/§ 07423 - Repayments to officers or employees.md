@@ -4,7 +4,7 @@ The Secretary, subject to regulations prescribed by the Secretary, is authorized
 
 #### (1) Collections recovered
 
-&emsp;To any officer or employee of the United States the full amount of such sums of money as may be recovered against him in any court, for any internal revenue taxes collected by him, with the cost and expense of suit; also
+&emsp;To any officer or employee of the United States the full amount of such sums of money as may be recovered against him in any court,for any internal revenue taxes collected by him, with the cost and expense of suit; also
 
 #### (2) Damages and costs
 

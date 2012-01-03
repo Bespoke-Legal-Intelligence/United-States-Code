@@ -26,11 +26,11 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1979—Subsec. (a). Pub. L. 96–54 substituted “Mayor” for “Commissioner” wherever appearing.
+<b>1979</b>—Subsec. (a). Pub. L. 96–54 substituted “Mayor” for “Commissioner” wherever appearing.
 
-1976—Pub. L. 94–455 struck out “pay for service as a member of the armed forces, or to” after “The agreement may not apply to” and inserted provision that in the case of service as a member of the armed forces, the second sentence shall be applied by substituting “who are residents of the District of Columbia” for “whose regular place of employment is within the District of Columbia”.
+<b>1976</b>—Pub. L. 94–455 struck out “pay for service as a member of the armed forces, or to” after “The agreement may not apply to” and inserted provision that in the case of service as a member of the armed forces, the second sentence shall be applied by substituting “who are residents of the District of Columbia” for “whose regular place of employment is within the District of Columbia”.
 
-1968—Subsec. (a). Pub. L. 90–623 substituted “Commissioner” for “Commissioners” in two places.
+<b>1968</b>—Subsec. (a). Pub. L. 90–623 substituted “Commissioner” for “Commissioners” in two places.
 
 #### Effective Date of 1979 Amendment
 

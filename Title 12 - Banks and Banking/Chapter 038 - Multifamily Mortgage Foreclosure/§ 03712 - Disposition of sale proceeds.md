@@ -12,7 +12,7 @@ Money realized from a foreclosure sale shall be made available for obligation an
 
 &emsp;(5) then to the interest;
 
-&emsp;(6) then to the principal balance secured by the mortgage (including expenditures for the necessary protection, preservation, and repair of the security property as authorized under the mortgage agreement and interest thereon if provided for in the mortgage agreement); and
+&emsp;(6) then to the principal balance secured by the mortgage (including expenditures for the necessary protection, preservation, and repairof the security property as authorized under the mortgage agreement and interest thereon if provided for in the mortgage agreement); and
 
 &emsp;(7) then to late charges.
 

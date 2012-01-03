@@ -24,7 +24,7 @@ Pub. L. 109–288, §12, Sept. 28, 2006, 120 Stat. 1255, provided that:
 
 “(a)
 
-In General.—Except as otherwise provided in this Act \[see Short Title of 2006 Amendment note set out under section 1305 of this title\], the amendments made by this Act shall take effect on October 1, 2006, and shall apply to payments under parts B and E of title IV of the Social Security Act \[this part and part E of this subchapter\] for calendar quarters beginning on or after such date, without regard to whether regulations to implement the amendments are promulgated by such date.
+In General.—Except as otherwise provided in this Act \[see Short Title of 2006 Amendment note set out under section 1305 of this title\], the amendmentsmade by this Act shall take effect on October 1, 2006, and shall apply to payments under parts B and E of title IV of the Social Security Act \[this part and part E of this subchapter\] for calendar quarters beginning on or after such date, without regard to whether regulations to implement the amendments are promulgated by such date.
 
 “(b)
 
@@ -50,7 +50,7 @@ Pub. L. 109–288, §2, Sept. 28, 2006, 120 Stat. 1233, provided that: “The Co
 
 &emsp;“(4) Further, the Department of Health and Human Services recently completed initial Child and Family Service Reviews (CFSRs) in each State. No State was in full compliance with all measures of the CFSRs. The CFSRs also revealed that States need to work to prevent repeat abuse and neglect of children, improve services provided to families to reduce the risk of future harm (including by better monitoring the participation of families in services), and strengthen upfront services provided to families to prevent unnecessary family break-up and protect children who remain at home.
 
-&emsp;“(5) Federal policy should encourage States to invest their CWS and PSSF funds in services that promote and protect the welfare of children, support strong, healthy families, and reduce the reliance onout-of-home care, which will help ensure all children are raised in safe, loving families.
+&emsp;“(5) Federal policy should encourage States to invest their CWS and PSSF funds in services that promote and protect the welfare of children, support strong, healthy families, and reduce the reliance on out-of-home care, which will help ensure all children are raised in safe, loving families.
 
 &emsp;“(6) CFSRs also found a strong correlation between frequent caseworker visits with children and positive outcomes for these children, such as timely achievement of permanency and other indicators of child well-being.
 

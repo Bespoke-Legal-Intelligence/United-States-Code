@@ -54,7 +54,7 @@ In the case of any qualified forestry conservation bond issued as part of an iss
 
 &emsp;If—
 
-&emsp;&emsp;(A) a qualified issuer receives an allocation of any portion of the national qualifiedforestry conservation bond limitation described in subsection (c), and
+&emsp;&emsp;(A) a qualified issuer receives an allocation of any portion of the national qualified forestry conservation bond limitation described in subsection (c), and
 
 &emsp;&emsp;(B) the qualified issuer elects the application of this subsection with respect to such allocation,
 

@@ -36,7 +36,7 @@ Section 3 of the Small Business Act, referred to in par. (3), is classified to s
 
 #### Amendments
 
-1996—Pars. (7), (8). Pub. L. 104–121 added pars. (7) and (8).
+<b>1996</b>—Pars. (7), (8). Pub. L. 104–121 added pars. (7) and (8).
 
 #### Effective Date of 1996 Amendment
 
@@ -402,7 +402,7 @@ Section 2 of Pub. L. 96–354 provided that:
 
 “(a) The Congress finds and declares that—
 
-&emsp;“(1) when adopting regulations to protect the health, safety and economic welfare of the Nation, Federal agencies should seek to achieve statutory goals as effectively and efficiently as possible without imposing unnecessary burdens on the public;
+&emsp;“(1) when adopting regulations to protect the health, safety and economic welfare of the Nation,Federal agencies should seek to achieve statutory goals as effectively and efficiently as possible without imposing unnecessary burdens on the public;
 
 &emsp;“(2) laws and regulations designed for application to large scale entities have been applied uniformly to small businesses, small organizations, and small governmental jurisdictions even though the problems that gave rise to government action may not have been caused by those smaller entities;
 
@@ -448,7 +448,7 @@ Section 1. <i>Purpose</i>. (a) The Fifth Amendment of the United States Constitu
 
 (c) The purpose of this Order is to assist Federal departments and agencies in undertaking such reviews and in proposing, planning, and implementing actions with due regard for the constitutional protections provided by the Fifth Amendment and to reduce the risk of undue or inadvertent burdens on the public fisc resulting from lawful governmental action. In furtherance of the purpose of this Order, the Attorney General shall, consistent with the principles stated herein and in consultation with the Executive departments and agencies, promulgate Guidelines for the Evaluation of Risk and Avoidance of Unanticipated Takings to which each Executive department or agency shall refer in making the evaluations required by this Order or in otherwise taking any action that is the subject of this Order. The Guidelines shall be promulgated no later than May 1, 1988, and shall be disseminated to all units of each Executive department and agency no later than July 1, 1988. The Attorney General shall, as necessary, update these guidelines to reflect fundamental changes in takings law occurring as a result of Supreme Court decisions.
 
-Sec. 2. <i>Definitions</i>. For the purpose of this Order: (a) “Policies that have takings implications” refers to Federal regulations, proposed Federal regulations, proposed Federal legislation, comments on proposed Federal legislation, or other Federal policy statements that, if implemented or enacted, could effect a taking, such as rules and regulations that propose or implement licensing, permitting, or other condition requirements or limitations on private property use, or that require dedications or exactions from owners of private property. “Policies that have takings implications” does not include:
+Sec. 2. <i>Definitions</i>. For the purpose of this Order: (a) “Policies that have takings implications” refers to Federal regulations, proposed Federal regulations, proposed Federal legislation, comments on proposed Federal legislation, or other Federal policy statements that, if implemented or enacted, could effect a taking, such as rules and regulations that propose or implement licensing, permitting, or other condition requirements or limitations on private property use, or thatrequire dedications or exactions from owners of private property. “Policies that have takings implications” does not include:
 
 (1) Actions abolishing regulations, discontinuing governmental programs, or modifying regulations in a manner that lessens interference with the use of private property;
 
@@ -518,7 +518,7 @@ Sec. 4. <i>Department and Agency Action</i>. In addition to the fundamental prin
 
 In instances in which there is an immediate threat to health and safety that constitutes an emergency requiring immediate response, this analysis may be done upon completion of the emergency action.
 
-Sec. 5. <i>Executive Department and Agency Implementation</i>. (a) The head of each Executive department and agency shall designate an official to be responsible for ensuring compliance with this Order with respect to the actions of the department or agency.
+Sec. 5. <i>Executive Department and Agency Implementation</i>. (a) The head of each Executive department andagency shall designate an official to be responsible for ensuring compliance with this Order with respect to the actions of the department or agency.
 
 (b) Executive departments and agencies shall, to the extent permitted by law, identify the takings implications of proposed regulatory actions and address the merits of those actions in light of the identified takings implications, if any, in all required submissions made to the Office of Management and Budget. Significant takings implications should also be identified and discussed in notices of proposed rule-making and messages transmitting legislative proposals to the Congress stating the departments’ and agencies’ conclusions on the takings issues.
 
@@ -566,7 +566,7 @@ Section 1. <i>Statement of Regulatory Philosophy and Principles</i>.
 
 (b) <i>The Principles of Regulation</i>. To ensure that the agencies’ regulatory programs are consistent with the philosophy set forth above, agencies should adhere to the following principles, to the extent permitted by law and where applicable:
 
-&emsp;(1) Each agency shall identify the problem that it intends to address (including, where applicable, the failures of private markets or public institutions that warrant new agency action) as well as assess the significance of that problem.
+&emsp;(1) Each agency shall identify the problem that it intends to address (including, where applicable, thefailures of private markets or public institutions that warrant new agency action) as well as assess the significance of that problem.
 
 &emsp;(2) Each agency shall examine whether existing regulations (or other law) have created, or contributed to, the problem that a new regulation is intended to correct and whether those regulations (or other law) should be modified to achieve the intended goal of regulation more effectively.
 
@@ -574,7 +574,7 @@ Section 1. <i>Statement of Regulatory Philosophy and Principles</i>.
 
 &emsp;(4) In setting regulatory priorities, each agency shall consider, to the extent reasonable, the degree and nature of the risks posed by various substances or activities within its jurisdiction.
 
-&emsp;(5) When an agency determines that a regulation is the best available method of achieving the regulatory objective, it shall design its regulations in the mostcost-effective manner to achieve the regulatory objective. In doing so, each agency shall consider incentives for innovation, consistency, predictability, the costs of enforcement and compliance (to the government, regulated entities, and the public), flexibility, distributive impacts, and equity.
+&emsp;(5) When an agency determines that a regulation is the best available method of achieving the regulatory objective, it shall design its regulations in the most cost-effective manner to achieve the regulatory objective. In doing so, each agency shall consider incentives for innovation, consistency, predictability, the costs of enforcement and compliance (to the government, regulated entities, and the public), flexibility, distributive impacts, and equity.
 
 &emsp;(6) Each agency shall assess both the costs and the benefits of the intended regulation and, recognizing that some costs and benefits are difficult to quantify, propose or adopt a regulation only upon a reasoned determination that the benefits of the intended regulation justify its costs.
 
@@ -614,7 +614,7 @@ Sec. 3. <i>Definitions</i>. For purposes of this Executive order: (a) “Advisor
 
 &emsp;(4) Any other category of regulations exempted by the Administrator of OIRA.
 
-(e) “Regulatory action” means any substantive action by an agency (normally published in the Federal Register) that promulgates or is expected to lead to the promulgation of a final rule or regulation, including notices of inquiry, advance notices of proposed rulemaking, and notices of proposed rulemaking.
+(e) “Regulatory action” means any substantive action by an agency (normally published in the Federal Register) that promulgates or is expected to lead to thepromulgation of a final rule or regulation, including notices of inquiry, advance notices of proposed rulemaking, and notices of proposed rulemaking.
 
 (f) “Significant regulatory action” means any regulatory action that is likely to result in a rule that may:
 
@@ -662,7 +662,7 @@ Sec. 4. <i>Planning Mechanism</i>. In order to have an effective regulatory prog
 
 Sec. 5. <i>Existing Regulations</i>. In order to reduce the regulatory burden on the American people, their families, their communities, their State, local, and tribal governments, and their industries; to determine whether regulations promulgated by the executive branch of the Federal Government have become unjustified or unnecessary as a result of changed circumstances; to confirm that regulations are both compatible with each other and not duplicative or inappropriately burdensome in the aggregate; to ensure that all regulations are consistent with the President's priorities and the principles set forth in this Executive order, within applicable law; and to otherwise improve the effectiveness of existing regulations: (a) Within 90 days of the date of this Executive order, each agency shall submit to OIRA a program, consistent with its resources and regulatory priorities, under which the agency will periodically review its existing significant regulations to determine whether any such regulations should be modified or eliminated so as to make the agency's regulatory program more effective in achieving the regulatory objectives, less burdensome, or in greater alignment with the President's priorities and the principles set forth in this Executive order. Any significant regulations selected for review shall be included in the agency's annual Plan. The agency shall also identify any legislative mandates that require the agency to promulgate or continue to impose regulations that the agency believes are unnecessary or outdated by reason of changed circumstances.
 
-(b) The Administrator of OIRA shall work with the Regulatory Working Group and other interested entities to pursue the objectives of this section. State,local, and tribal governments are specifically encouraged to assist in the identification of regulations that impose significant or unique burdens on those governmental entities and that appear to have outlived their justification or be otherwise inconsistent with the public interest.
+(b) The Administrator of OIRA shall work with the Regulatory Working Group and other interested entities to pursue the objectives of this section. State, local, and tribal governments are specifically encouraged to assist in the identification of regulations that impose significant or unique burdens on those governmental entities and that appear to have outlived their justification or be otherwise inconsistent with the public interest.
 
 (c) The Vice President, in consultation with the Advisors, may identify for review by the appropriate agency or agencies other existing regulations of an agency or groups of regulations of more than one agency that affect a particular group, industry, or sector of the economy, or may identify legislative mandates that may be appropriate for reconsideration by the Congress.
 
@@ -746,7 +746,7 @@ During the Vice Presidential and Presidential review period, communications with
 
 At the end of this review process, the President, or the Vice President acting at the request of the President, shall notify the affected agency and the Administrator of OIRA of the President's decision with respect to the matter.
 
-Sec. 8. <i>Publication</i>. Except to the extent required by law, an agency shall not publish in the Federal Register or otherwise issue to the public any regulatory action that is subject to review under section 6 of this Executive order until (1) the Administrator of OIRA notifies the agency that OIRA has waived its review of the action or has completed its review without any requests for further consideration, or (2) the applicable time period in section 6(b)(2) expires without OIRA having notified the agency that it is returning the regulatory action for further consideration under section 6(b)(3), whichever occurs first. If the terms of the preceding sentence have not been satisfied and an agency wants to publish or otherwise issue a regulatory action, the head of that agency may request Presidential consideration through the Vice President, as provided under section 7 of this order. Upon receipt of this request, the Vice President shall notify OIRA and the Advisors. The guidelines and time period set forth in section 7 shall apply to the publication of regulatory actions for which Presidential consideration has been sought.
+Sec. 8. <i>Publication</i>. Except to the extent required by law, an agency shall not publish in the Federal Register or otherwise issue to the public any regulatory action that is subject to review under section 6 of this Executive order until (1) the Administrator of OIRA notifies the agency that OIRA has waived its review of the action or has completed its review without any requests for further consideration, or (2) the applicable time period in section 6(b)(2) expires without OIRA having notified the agency that it is returning the regulatory action for further consideration under section 6(b)(3), whichever occurs first. If the terms of the preceding sentence have not been satisfied and an agency wants to publish or otherwise issue a regulatory action, the head of that agency may request Presidential consideration through the Vice President, as providedunder section 7 of this order. Upon receipt of this request, the Vice President shall notify OIRA and the Advisors. The guidelines and time period set forth in section 7 shall apply to the publication of regulatory actions for which Presidential consideration has been sought.
 
 Sec. 9. <i>Agency Authority</i>. Nothing in this order shall be construed as displacing the agencies’ authority or responsibilities, as authorized by law.
 
@@ -798,7 +798,7 @@ Sec. 4. <i>Interagency Working Group on Human Rights Treaties</i>. (a) There is 
 
 (iv) developing effective mechanisms to ensure that legislation proposed by the Administration is reviewed for conformity with international human rights obligations and that these obligations are taken into account in reviewing legislation under consideration by the Congress as well;
 
-(v) developing recommended proposals and mechanisms for improving the monitoring of the actions by the various States, Commonwealths, and territories of the United States and, where appropriate, of Native Americans and Federally recognized Indian tribes, including the review of State, Commonwealth, and territorial laws for their conformity with relevant treaties, the provision of relevant information for reports and other monitoring purposes, and the promotion of effective remedial mechanisms;
+(v) developing recommended proposals and mechanisms for improving the monitoring of the actions by the various States, Commonwealths, and territories of the United States and, where appropriate, of NativeAmericans and Federally recognized Indian tribes, including the review of State, Commonwealth, and territorial laws for their conformity with relevant treaties, the provision of relevant information for reports and other monitoring purposes, and the promotion of effective remedial mechanisms;
 
 (vi) developing plans for public outreach and education concerning the provisions of the ICCPR, CAT, CERD, and other relevant treaties, and human rights-related provisions of domestic law;
 
@@ -924,7 +924,7 @@ Sec. 7. <i>Increasing Flexibility for State and Local Waivers.</i>
 
 (a) Agencies shall review the processes under which State and local governments apply for waivers of statutory and regulatory requirements and take appropriate steps to streamline those processes.
 
-(b) Each agency shall, to the extent practicable and permitted by law, consider any application by a State for a waiver of statutory or regulatory requirements in connection with any program administered by that agency with a general view toward increasing opportunities for utilizing flexible policy approaches at the State or local level in cases in which the proposed waiver is consistent with applicable Federal policy objectives and is otherwise appropriate.
+(b) Each agency shall, to the extent practicable and permitted by law, consider any application by a State for a waiver of statutory or regulatory requirements inconnection with any program administered by that agency with a general view toward increasing opportunities for utilizing flexible policy approaches at the State or local level in cases in which the proposed waiver is consistent with applicable Federal policy objectives and is otherwise appropriate.
 
 (c) Each agency shall, to the extent practicable and permitted by law, render a decision upon a complete application for a waiver within 120 days of receipt of such application by the agency. If the application for a waiver is not granted, the agency shall provide the applicant with timely written notice of the decision and the reasons therefor.
 
@@ -986,7 +986,7 @@ Sec. 5. <i>Reporting Requirements</i>. (a) Report. Not later than 180 days after
 
 &emsp;(1) a comprehensive analysis of the barriers to the full participation of faith-based and other community organizations in the delivery of social services identified pursuant to section 3(a) of this order and the proposed strategies to eliminate those barriers; and
 
-&emsp;(2) a summary of the technical assistance and other information that will be available to faith-based and other community organizations regarding the program activities of the department and the preparation of applications or proposals for grants, cooperative agreements, contracts, and procurement.
+&emsp;(2) a summary of the technical assistance and other information that will be available to faith-based andother community organizations regarding the program activities of the department and the preparation of applications or proposals for grants, cooperative agreements, contracts, and procurement.
 
 (c) Performance Indicators. The first report, filed 180 days after the date of this order, shall include annual performance indicators and measurable objectives for department action. Each report filed thereafter shall measure the department's performance against the objectives set forth in the initial report.
 
@@ -996,7 +996,7 @@ Sec. 6. <i>Responsibilities of All Executive Departments and Agencies</i>. All e
 
 Sec. 7. <i>Administration and Judicial Review</i>. (a) The agencies’ actions directed by this Executive Order shall be carried out subject to the availability of appropriations and to the extent permitted by law.
 
-(b) This order does not create any right or benefit, substantive or procedural, enforceable at law or equityagainst the United States, its agencies or instrumentalities, its officers or employees, or any other person.
+(b) This order does not create any right or benefit, substantive or procedural, enforceable at law or equity against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1122,7 +1122,7 @@ Sec. 2. <i>Fundamental Principles</i>. In formulating and implementing policies 
 
 (i) To promote transparency and accountability, agencies that provide Federal financial assistance for social service programs shall post online, in an easily accessible manner, regulations, guidance documents, and policies that reflect or elaborate upon the fundamental principles described in this section. Agencies shall also post online a list of entities that receive Federal financial assistance for provision of social service programs, consistent with law and pursuant to guidance set forth in paragraph (c) of section 3 of this order.
 
-(j) Decisions about awards of Federal financial assistance must be free from political interference or eventhe appearance of such interference and must be made on the basis of merit, not on the basis of the religious affiliation of a recipient organization or lack thereof.
+(j) Decisions about awards of Federal financial assistance must be free from political interference or even the appearance of such interference and must be made on the basis of merit, not on the basis of the religious affiliation of a recipient organization or lack thereof.
 
 Sec. 3. <i>Ensuring Uniform Implementation Across the Federal Government</i>. In order to promote uniformity in agencies’ policies that have implications for faith-based and other neighborhood organizations and in related guidance, and to ensure that those policies and guidance are consistent with the fundamental principles set forth in section 2 of this order, there is established an Interagency Working Group on Faith-Based and Other Neighborhood Partnerships (Working Group).
 
@@ -1180,7 +1180,7 @@ Pursuant to section 121(a) of title 40, United States Code, and section 301 of t
 
 (c) Section 202 of this Order shall not apply to a Government contractor or subcontractor that is a religious corporation, association, educational institution, or society, with respect to the employment of individuals of a particular religion to perform work connected with the carrying on by such corporation, association, educational institution, or society of its activities. Such contractors and subcontractors are not exempted or excused from complying with the other requirements contained in this Order.
 
-(d) The Secretary of Labor may also provide, by rule, regulation, or order, for the exemption of facilities of a contractor that are in all respects separate and distinct from activities of the contractor related to the performance of the contract: provided, that such an exemption will not interfere with or impede the effectuation of the purposes of this Order: and provided further, that in the absence of such an exemption all facilities shall be covered by the provisions of this Order.”
+(d) The Secretary of Labor may also provide, by rule, regulation, or order, for the exemption of facilities ofa contractor that are in all respects separate and distinct from activities of the contractor related to the performance of the contract: provided, that such an exemption will not interfere with or impede the effectuation of the purposes of this Order: and provided further, that in the absence of such an exemption all facilities shall be covered by the provisions of this Order.”
 
 Sec. 5. <i>General Provisions.</i>
 
@@ -1256,7 +1256,7 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 13342, June 1, 2004, 69 F.R. 31509, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to help the Federal Government coordinate a national effort to expand opportunities for faith-based and other community organizations and to strengthen their capacity to better meet America's social and community needs, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica, and in order to help the Federal Government coordinate a national effort to expand opportunities for faith-based and other community organizations and to strengthen their capacity to better meet America's social and community needs, it is hereby ordered as follows:
 
 Section 1. <i>Establishment of Centers for Faith-Based and Community Initiatives at the Departments of Commerce and Veterans Affairs and the Small Business Administration.</i>
 
@@ -1268,7 +1268,7 @@ Section 1. <i>Establishment of Centers for Faith-Based and Community Initiatives
 
 (d) Each Center shall begin operations no later than 45 days from the date of this order.
 
-Sec. 2. <i>Purpose of Executive Branch Centers for Faith-Based and Community Initiatives</i>. The purpose of theagency Centers will be to coordinate agency efforts to eliminate regulatory, contracting, and other programmatic obstacles to the participation of faith-based and other community organizations in the provision of social and community services.
+Sec. 2. <i>Purpose of Executive Branch Centers for Faith-Based and Community Initiatives</i>. The purpose of the agency Centers will be to coordinate agency efforts to eliminate regulatory, contracting, and other programmatic obstacles to the participation of faith-based and other community organizations in the provision of social and community services.
 
 Sec. 3. <i>Responsibilities of the Centers for Faith-Based and Community Initiatives</i>. Each Center shall, to the extent permitted by law:
 
@@ -1324,7 +1324,7 @@ Sec. 2. <i>Purpose of Center</i>. The purpose of the Center shall be to coordina
 
 Sec. 3. <i>Responsibilities of the Center for Faith-Based and Community Initiatives</i>. In carrying out the purpose set forth in section 2 of this order, the Center shall:
 
-(a) conduct, in coordination with the WHOFBCI Director, a department-wide audit to identify all existing barriers to the participation of faith-based and other community organizations in the delivery of social and community services by the Department, including but not limited to regulations, rules, orders, procurement, and other internal policies and practices, and outreach activities that unlawfully discriminate against, or otherwise discourage or disadvantage the participation of faith-based and other community organizations in Federal programs;
+(a) conduct, in coordination with the WHOFBCI Director, a department-wide audit to identify all existing barriers to the participation of faith-based and other community organizations in the delivery of social and community services by the Department, including but not limited to regulations, rules, orders, procurement, and other internal policies and practices, and outreach activities that unlawfully discriminate against, or otherwise discourage or disadvantage the participationof faith-based and other community organizations in Federal programs;
 
 (b) coordinate a comprehensive departmental effort to incorporate faith-based and other community organizations in Department programs and initiatives to the greatest extent possible;
 
@@ -1426,6 +1426,78 @@ Sec. 3. This order is not intended to, and does not, create any right or benefit
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Ex. Ord. No. 13563. Improving Regulation and Regulatory Review
+
+Ex. Ord. No. 13563, Jan. 18, 2011, 76 F.R. 3821, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to improve regulation and regulatory review, it is hereby ordered as follows:
+
+Section 1. <i>General Principles of Regulation</i>. (a) Our regulatory system must protect public health, welfare, safety, and our environment while promoting economic growth, innovation, competitiveness, and job creation. It must be based on the best available science. It must allow for public participation and an open exchange of ideas. It must promote predictability and reduce uncertainty. It must identify and use the best, most innovative, and least burdensome tools for achieving regulatory ends. It must take into account benefits and costs, both quantitative and qualitative. It must ensure that regulations are accessible, consistent, written in plain language, and easy to understand. It must measure, and seek to improve, the actual results of regulatory requirements.
+
+(b) This order is supplemental to and reaffirms the principles, structures, and definitions governing contemporary regulatory review that were established in Executive Order 12866 of September 30, 1993. As stated in that Executive Order and to the extent permitted by law, each agency must, among other things: (1) propose or adopt a regulation only upon a reasoned determination that its benefits justify its costs (recognizing that some benefits and costs are difficult to quantify); (2) tailor its regulations to impose the least burden on society, consistent with obtaining regulatory objectives, taking into account, among other things, and to the extent practicable, the costs of cumulative regulations; (3) select, in choosing among alternative regulatory approaches, those approaches that maximize net benefits (including potential economic, environmental, public health and safety, and other advantages; distributive impacts; and equity); (4) to the extent feasible, specify performance objectives, rather than specifying the behavior or manner of compliance that regulated entities must adopt; and (5) identify and assess available alternatives to direct regulation, including providing economic incentives to encourage the desired behavior, such as user fees or marketable permits, or providing information upon which choices can be made by the public.
+
+(c) In applying these principles, each agency is directed to use the best available techniques to quantify anticipated present and future benefits and costs as accurately as possible. Where appropriate and permitted by law, each agency may consider (and discuss qualitatively) values that are difficult or impossible to quantify, including equity, human dignity, fairness, and distributive impacts.
+
+Sec. 2. <i>Public Participation</i>. (a) Regulations shall be adopted through a process that involves public participation. To that end, regulations shall be based, to the extent feasible and consistent with law, on the open exchange of information and perspectives among State, local, and tribal officials, experts in relevant disciplines, affected stakeholders in the private sector, and the public as a whole.
+
+(b) To promote that open exchange, each agency, consistent with Executive Order 12866 and other applicable legal requirements, shall endeavor to provide the public with an opportunity to participate in the regulatory process. To the extent feasible and permitted by law, each agency shall afford the public a meaningful opportunity to comment through the Internet on any proposed regulation, with a comment period that should generally be at least 60 days. To the extent feasible and permitted by law, each agency shall also provide, for both proposed and final rules, timely online access to the rulemaking docket on regulations.gov, including relevant scientific and technical findings, in an open format that can be easily searched and downloaded. For proposed rules, such access shall include, to the extent feasible and permitted by law, an opportunity for public comment on all pertinent parts of the rulemaking docket, including relevant scientific and technical findings.
+
+(c) Before issuing a notice of proposed rulemaking, each agency, where feasible and appropriate, shall seek the views of those who are likely to be affected, including those who are likely to benefit from and those who are potentially subject to such rulemaking.
+
+Sec. 3. <i>Integration and Innovation</i>. Some sectors and industries face a significant number of regulatory requirements, some of which may be redundant, inconsistent, or overlapping. Greater coordination across agencies could reduce these requirements, thus reducing costs and simplifying and harmonizing rules. In developing regulatory actions and identifying appropriate approaches, each agency shall attempt to promote such coordination, simplification, and harmonization. Each agency shall also seek to identify, as appropriate, means to achieve regulatory goals that are designed to promote innovation.
+
+Sec. 4. <i>Flexible Approaches</i>. Where relevant, feasible, and consistent with regulatory objectives, and to the extent permitted by law, each agency shall identify and consider regulatory approaches that reduce burdens and maintain flexibility and freedom of choice for the public. These approaches include warnings, appropriate default rules, and disclosure requirements as well as provision of information to the public in a form that is clear and intelligible.
+
+Sec. 5. <i>Science</i>. Consistent with the President's Memorandum for the Heads of Executive Departments and Agencies, “Scientific Integrity” (March 9, 2009), and its implementing guidance, each agency shall ensure the objectivity of any scientific and technological information and processes used to support the agency's regulatory actions.
+
+Sec. 6. <i>Retrospective Analyses of Existing Rules</i>. (a) To facilitate the periodic review of existing significant regulations, agencies shall consider how best to promote retrospective analysis of rules that may be outmoded, ineffective, insufficient, or excessively burdensome, and to modify, streamline, expand, or repeal them in accordance with what has been learned. Such retrospective analyses, including supporting data, should be released online whenever possible.
+
+(b) Within 120 days of the date of this order, each agency shall develop and submit to the Office of Information and Regulatory Affairs a preliminary plan, consistent with law and its resources and regulatory priorities, under which the agency will periodically review its existing significant regulations to determine whether any such regulations should be modified, streamlined, expanded, or repealed so as to make the agency's regulatory program more effective or less burdensome in achieving the regulatory objectives.
+
+Sec. 7. <i>General Provisions</i>. (a) For purposes of this order, “agency” shall have the meaning set forth in section 3(b) of Executive Order 12866.
+
+(b) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) authority granted by law to a department or agency, or the head thereof; or
+
+(ii) functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(c) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(d) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against theUnited States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13579. Regulation and Independent Regulatory Agencies
+
+Ex. Ord. No. 13579, July 11, 2011, 76 F.R. 41587, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to improve regulation and regulatory review, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. (a) Wise regulatory decisions depend on public participation and on careful analysis of the likely consequences of regulation. Such decisions are informed and improved by allowing interested members of the public to have a meaningful opportunity to participate in rulemaking. To the extent permitted by law, such decisions should be made only after consideration of their costs and benefits (both quantitative and qualitative).
+
+(b) Executive Order 13563 of January 18, 2011, “Improving Regulation and Regulatory Review,” directed to executive agencies, was meant to produce a regulatory system that protects “public health, welfare, safety, and our environment while promoting economic growth, innovation, competitiveness, and job creation.” Independent regulatory agencies, no less than executive agencies, should promote that goal.
+
+(c) Executive Order 13563 set out general requirements directed to executive agencies concerning public participation, integration and innovation, flexible approaches, and science. To the extent permitted by law, independent regulatory agencies should comply with these provisions as well.
+
+Sec. 2. <i>Retrospective Analyses of Existing Rules</i>. (a) To facilitate the periodic review of existing significant regulations, independent regulatory agencies should consider how best to promote retrospective analysis of rules that may be outmoded, ineffective, insufficient, or excessively burdensome, and to modify, streamline, expand, or repeal them in accordance with what has been learned. Such retrospective analyses, including supporting data and evaluations, should be released online whenever possible.
+
+(b) Within 120 days of the date of this order, each independent regulatory agency should develop and release to the public a plan, consistent with law and reflecting its resources and regulatory priorities and processes, under which the agency will periodically review its existing significant regulations to determine whether any such regulations should be modified, streamlined, expanded, or repealed so as to make the agency's regulatory program more effective or less burdensome in achieving the regulatory objectives.
+
+Sec. 3. <i>General Provisions</i>. (a) For purposes of this order, “executive agency” shall have the meaning set forth for the term “agency” in section 3(b) of Executive Order 12866 of September 30, 1993, and “independent regulatory agency” shall have the meaning set forth in 44 U.S.C. 3502(5).
+
+(b) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) authority granted by law to a department or agency, or the head thereof; or
+
+(ii) functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(c) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(d) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Regulatory Reform—Waiver of Penalties and Reduction of Reports
 
 Memorandum of President of the United States, Apr. 21, 1995, 60 F.R. 20621, provided:
@@ -1494,7 +1566,7 @@ A. <i>Actions</i>: This memorandum directs the designated department and agency 
 
 (b) Each agency shall, by June 15, 1995, submit a plan to the Director of the Office of Management and Budget (“Director”) describing the actions it will take to implement the policies in paragraph 1(a) of this memorandum. The plan shall provide that the agency will implement the policies described in paragraph 1(a) of this memorandum on or before July 14, 1995. Plans should include information on how notification will be given to frontline workers and small businesses.
 
-2\. <i>Cutting Frequency of Reports</i>. (a) Each agency shall reduce by one-half the frequency of the regularly scheduled reports that the public is required, by rule or by policy, to provide to the Government (from quarterly to semiannually, from semiannually to annually, etc.), unless the department or agency head determines that such action is not legally permissible; would not adequately protect health, safety, or the environment; would be inconsistent with achieving regulatory flexibility or reducing regulatory burdens; or would impede the effective administration of the agency's program. The duty to make such determinations shall be nondelegable.
+2\. <i>Cutting Frequency of Reports</i>. (a) Each agency shall reduce by one-half the frequency of the regularly scheduled reports that the public is required, by rule orby policy, to provide to the Government (from quarterly to semiannually, from semiannually to annually, etc.), unless the department or agency head determines that such action is not legally permissible; would not adequately protect health, safety, or the environment; would be inconsistent with achieving regulatory flexibility or reducing regulatory burdens; or would impede the effective administration of the agency's program. The duty to make such determinations shall be nondelegable.
 
 (b) Each agency shall, by June 15, 1995, submit a plan to the Director describing the actions it will take to implement the policies in paragraph 2(a), including a copy of any determination that certain reports are excluded.
 
@@ -1562,11 +1634,79 @@ To ensure that executive departments and agencies include statements of preempti
 
 2\. Heads of departments and agencies should not include preemption provisions in codified regulations except where such provisions would be justified under legal principles governing preemption, including the principles outlined in Executive Order 13132.
 
-3\. Heads of departments and agencies should review regulations issued within the past 10 years that contain statements in regulatory preambles or codified provisions intended by the department or agency to preempt State law, in order to decide whether such statements or provisions are justified under applicable legal principles governing preemption. Where the head of a department or agency determines that a regulatory statement of preemption or codified regulatory provision cannot be so justified, the head of that department or agency should initiate appropriate action, which may include amendment of the relevant regulation.
+3\. Heads of departments and agencies should review regulations issued within the past 10 years that contain statements in regulatory preambles or codified provisions intended by the department or agency to preemptState law, in order to decide whether such statements or provisions are justified under applicable legal principles governing preemption. Where the head of a department or agency determines that a regulatory statement of preemption or codified regulatory provision cannot be so justified, the head of that department or agency should initiate appropriate action, which may include amendment of the relevant regulation.
 
 Executive departments and agencies shall carry out the provisions of this memorandum to the extent permitted by law and consistent with their statutory authorities. Heads of departments and agencies should consult as necessary with the Attorney General and the Office of Management and Budget's Office of Information and Regulatory Affairs to determine how the requirements of this memorandum apply to particular situations.
 
 This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+The Director of the Office of Management and Budget is authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Regulatory Compliance
+
+Memorandum of President of the United States, Jan. 18, 2011, 76 F.R. 3825, provided:
+
+Memorandum for the Heads of Executive Departments and Agencies
+
+My Administration is committed to enhancing effectiveness and efficiency in Government. Pursuant to the Memorandum on Transparency and Open Government, issued on January 21, 2009, executive departments and agencies (agencies) have been working steadily to promote accountability, encourage collaboration, and provide information to Americans about their Government's activities.
+
+To that end, much progress has been made toward strengthening our democracy and improving how Government operates. In the regulatory area, several agencies, such as the Department of Labor and the Environmental Protection Agency, have begun to post online (at ogesdw.dol.gov and www.epa-echo.gov), and to make readily accessible to the public, information concerning their regulatory compliance and enforcement activities, such as information with respect to administrative inspections, examinations, reviews, warnings, citations, and revocations (but excluding law enforcement or otherwise sensitive information about ongoing enforcement actions).
+
+Greater disclosure of regulatory compliance information fosters fair and consistent enforcement of important regulatory obligations. Such disclosure is a critical step in encouraging the public to hold the Government and regulated entities accountable. Sound regulatory enforcement promotes the welfare of Americans in many ways, by increasing public safety, improving working conditions, and protecting the air we breathe and the water we drink. Consistent regulatory enforcement also levels the playing field among regulated entities, ensuring that those that fail to comply with the law do not have an unfair advantage over their law-abiding competitors. Greater agency disclosure of compliance and enforcement data will provide Americans with information they need to make informed decisions. Such disclosure can lead the Government to hold itself more accountable, encouraging agencies to identify and address enforcement gaps.
+
+Accordingly, I direct the following:
+
+<i>First</i>, agencies with broad regulatory compliance and administrative enforcement responsibilities, within 120 days of this memorandum, to the extent feasible and permitted by law, shall develop plans to make public information concerning their regulatory compliance and enforcement activities accessible, downloadable, and searchable online. In so doing, agencies should prioritize making accessible information that is most useful to the general public and should consider the use of new technologies to allow the public to have access to real-time data. The independent agencies are encouraged to comply with this directive.
+
+<i>Second</i>, the Federal Chief Information Officer and the Chief Technology Officer shall work with appropriate counterparts in each agency to make such data available online in searchable form, including on centralized platforms such as data.gov, in a manner that facilitates easy access, encourages cross-agency comparisons, and engages the public in new and creative ways of using the information.
+
+<i>Third</i>, the Federal Chief Information Officer and the Chief Technology Officer, in coordination with the Director of the Office of Management and Budget (OMB) and their counterparts in each agency, shall work to explore how best to generate and share enforcement and compliance information across the Government, consistent with law. Such data sharing can assist with agencies’ risk-based approaches to enforcement: A lack of compliance in one area by a regulated entity may indicate a need for examination and closer attention by another agency. Efforts to share data across agencies, where appropriate and permitted by law, may help to promote flexible and coordinated enforcement regimes.
+
+This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person. Nothing in this memorandum shall be construed to impair or otherwise affect the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+The Director of OMB is authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Regulatory Flexibility, Small Business, and Job Creation
+
+Memorandum of President of the United States, Jan. 18, 2011, 76 F.R. 3827, provided:
+
+Memorandum for the Heads of Executive Departments and Agencies
+
+Small businesses play an essential role in the American economy; they help to fuel productivity, economic growth, and job creation. More than half of all Americans working in the private sector either are employed by a small business or own one. During a recent 15-year period, small businesses created more than 60 percent of all new jobs in the Nation.
+
+Although small businesses and new companies provide the foundations for economic growth and job creation, they have faced severe challenges as a result of the recession. One consequence has been the loss of significant numbers of jobs.
+
+The Regulatory Flexibility Act (RFA), 5 U.S.C. 601–612, establishes a deep national commitment to achieving statutory goals without imposing unnecessary burdens on the public. The RFA emphasizes the importance of recognizing “differences in the scale and resources of regulated entities” and of considering “alternative regulatory approaches . . . which minimize the significant economic impact of rules on small businesses, small organizations, and small governmental jurisdictions.” 5 U.S.C. 601 note.
+
+To promote its central goals, the RFA imposes a series of requirements designed to ensure that agencies produce regulatory flexibility analyses that give careful consideration to the effects of their regulations on small businesses and explore significant alternatives in order to minimize any significant economic impact on small businesses. Among other things, the RFA requires that when an agency proposing a rule with such impact is required to provide notice of the proposed rule, it must also produce an initial regulatory flexibility analysis that includes discussion of significant alternatives. Significant alternatives include the use of performance rather than design standards; simplification of compliance and reporting requirements for small businesses; establishment of different timetables that take into account the resources of small businesses; and exemption from coverage for small businesses.
+
+Consistent with the goal of open government, the RFA also encourages public participation in and transparency about the rulemaking process. Among other things, the statute requires agencies proposing rules with a significant economic impact on small businesses to provide an opportunity for public comment on any required initial regulatory flexibility analysis, and generally requires agencies promulgating final rules with such significant economic impact to respond, in a final regulatory flexibility analysis, to comments filed by the Chief Counsel for Advocacy of the Small Business Administration.
+
+My Administration is firmly committed to eliminating excessive and unjustified burdens on small businesses, and to ensuring that regulations are designed with careful consideration of their effects, including their cumulative effects, on small businesses. Executive Order 12866 of September 30, 1993, as amended, states, “Each agency shall tailor its regulations to impose the least burden on society, including individuals, businesses of differing sizes, and other entities (including small communities and governmental entities), consistent with obtaining the regulatory objectives, taking into account, among other things, and to the extent practicable, the costs of cumulative regulations.”
+
+In the current economic environment, it is especially important for agencies to design regulations in a cost-effective manner consistent with the goals of promoting economic growth, innovation, competitiveness, and job creation.
+
+Accordingly, I hereby direct executive departments and agencies and request independent agencies, when initiating rulemaking that will have a significant economic impact on a substantial number of small entities, to give serious consideration to whether and how it is appropriate, consistent with law and regulatory objectives, to reduce regulatory burdens on small businesses, through increased flexibility. As the RFA recognizes, such flexibility may take many forms, including:
+
+• extended compliance dates that take into account the resources available to small entities;
+
+• performance standards rather than design standards;
+
+• simplification of reporting and compliance requirements (as, for example, through streamlined forms and electronic filing options);
+
+• different requirements for large and small firms; and
+
+• partial or total exemptions.
+
+I further direct that whenever an executive agency chooses, for reasons other than legal limitations, not to provide such flexibility in a proposed or final rule that is likely to have a significant economic impact on a substantial number of small entities, it should explicitly justify its decision not to do so in the explanation that accompanies that proposed or final rule.
+
+Adherence to these requirements is designed to ensure that regulatory actions do not place unjustified economic burdens on small business owners and other small entities. If regulations are preceded by careful analysis, and subjected to public comment, they are less likely to be based on intuition and guesswork and more likely to be justified in light of a clear understanding of the likely consequences of alternative courses of action. With that understanding, agencies will be in a better position to protect the public while avoiding excessive costs and paperwork.
+
+This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person. Nothing in this memorandum shall be construed to impair or otherwise affect the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
 
 The Director of the Office of Management and Budget is authorized and directed to publish this memorandum in the Federal Register.
 

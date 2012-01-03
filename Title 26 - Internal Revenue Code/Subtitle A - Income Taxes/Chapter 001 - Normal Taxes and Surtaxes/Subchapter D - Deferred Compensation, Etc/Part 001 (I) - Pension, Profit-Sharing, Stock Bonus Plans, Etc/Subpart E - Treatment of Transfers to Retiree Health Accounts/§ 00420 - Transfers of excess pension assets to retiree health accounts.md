@@ -142,7 +142,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary shall prescribe such regulations as may be necessary to prevent anemployer who significantly reduces retiree health coverage during the cost maintenance period from being treated as satisfying the minimum cost requirement of this subsection.
+&emsp;&emsp;&emsp;The Secretary shall prescribe such regulations as may be necessary to prevent an employer who significantly reduces retiree health coverage during the cost maintenance period from being treated as satisfying the minimum cost requirement of this subsection.
 
 #### (ii) Insignificant cost reductions permitted
 
@@ -198,7 +198,7 @@ For purposes of this section—
 
 &emsp;&emsp;The amount determined under subparagraph (A) shall be reduced by the amount which bears the same ratio to such amount as—
 
-&emsp;&emsp;&emsp;(i) the value (as of the close of the plan year preceding the year of the qualified transfer) of the assets in all health benefits accounts or welfare benefit funds (as defined in section 419(e)(1)) set aside to pay for the qualified current retiree health liability, bears to
+&emsp;&emsp;&emsp;(i) the value (as of the close of the plan year preceding the year of the qualifiedtransfer) of the assets in all health benefits accounts or welfare benefit funds (as defined in section 419(e)(1)) set aside to pay for the qualified current retiree health liability, bears to
 
 &emsp;&emsp;&emsp;(ii) the present value of the qualified current retiree health liabilities for all plan years (determined without regard to this subparagraph).
 
@@ -474,7 +474,7 @@ Amendment by section 114(d) of Pub. L. 109–280 applicable to plan years beginn
 
 Pub. L. 109–280, title VIII, §841(b), Aug. 17, 2006, 120 Stat. 1009, provided that: “The amendments made by this section \[amending this section\] shall apply to transfers after the date of the enactment of this Act \[Aug. 17, 2006\].”
 
-Pub. L. 109–280, title VIII, §842(b), Aug. 17, 2006, 120 Stat. 1009, provided that: “The amendment made by this section \[amending this section\] shall apply to transfers made in taxable years beginning after December 31, 2006.”
+Pub. L. 109–280, title VIII, §842(b), Aug. 17, 2006, 120 Stat. 1009, provided that: “The amendment made bythis section \[amending this section\] shall apply to transfers made in taxable years beginning after December 31, 2006.”
 
 #### Effective Date of 2004 Amendment
 

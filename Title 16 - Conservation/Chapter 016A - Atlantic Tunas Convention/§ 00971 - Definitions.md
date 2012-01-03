@@ -52,7 +52,7 @@ Section 405(b) of Pub. L. 94–265 provided that the amendment made by section 4
 
 #### Short Title of 1995 Amendment
 
-Section 301 of title III of Pub. L. 104–43 provided that: “This title \[enacting sections 971j and 971k of this title, amending this section and sections 971b, 971c to 971e, 971h, and 971i of this title, and enacting provisions set out as a note under section 971c of this title\] may be cited as the ‘Atlantic Tunas Convention Authorization Act of 1995’.”
+Section 301 of title III of Pub. L. 104–43 provided that: “This title \[enacting sections 971j and 971k of this title, amending this section and sections 971b, 971c to 971e, 971h, and 971i of this title, and enacting provisions setout as a note under section 971c of this title\] may be cited as the ‘Atlantic Tunas Convention Authorization Act of 1995’.”
 
 #### Short Title
 

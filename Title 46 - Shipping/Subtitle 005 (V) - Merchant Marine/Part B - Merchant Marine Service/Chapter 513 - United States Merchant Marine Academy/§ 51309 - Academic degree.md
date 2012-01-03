@@ -14,7 +14,7 @@ In general.—The Superintendent of the United States Merchant Marine Academy ma
 
 &emsp;(2)
 
-Effect of physical disqualification.—An individual not allowed to take the examination for a merchant marine officer's licenseonly because of physical disqualification may not be denied a degree for not taking the examination.
+Effect of physical disqualification.—An individual not allowed to take the examination for a merchant marine officer's license only because of physical disqualification may not be denied a degree for not taking the examination.
 
 (b)
 

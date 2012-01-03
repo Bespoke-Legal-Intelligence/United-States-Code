@@ -46,11 +46,19 @@ The Office of the Director of National Intelligence is composed of the following
 
 (2) The staff of the Office of the Director of National Intelligence under paragraph (1) shall include the staff of the Office of the Deputy Director of Central Intelligence for Community Management that is transferred to the Office of the Director of National Intelligence under section 1091 of the National Security Intelligence Reform Act of 2004.
 
-#### (e) Location of the Office of the Director of National Intelligence
+#### (e) Temporary filling of vacancies
+
+With respect to filling temporarily a vacancy in an office within the Office of the Director of National Intelligence (other than that of the Director of National Intelligence), section 3345(a)(3) of title 5 may be applied—
+
+&emsp;(1) in the matter preceding subparagraph (A), by substituting “an element of the intelligence community, as that term is defined in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4)),” for “such Executive agency”; and
+
+&emsp;(2) in subparagraph (A), by substituting “the intelligence community” for “such agency”.
+
+#### (f) Location of the Office of the Director of National Intelligence
 
 The headquarters of the Office of the Director of National Intelligence may be located in the Washington metropolitan region, as that term is defined in section 8301 of title 40.
 
-(July 26, 1947, ch. 343, title I, §103, as added Pub. L. 108–458, title I, §1011(a), Dec. 17, 2004, 118 Stat. 3655; amended Pub. L. 111–259, title IV, §§403, 407(b), title VIII, §804(3), Oct. 7, 2010, 124 Stat. 2709, 2721, 2747.)
+(July 26, 1947, ch. 343, title I, §103, as added Pub. L. 108–458, title I, §1011(a), Dec. 17, 2004, 118 Stat.3655; amended Pub. L. 111–259, title IV, §§403, 407(b), title VIII, §804(3), Oct. 7, 2010, 124 Stat. 2709, 2721, 2747; Pub. L. 112–87, title IV, §405, Jan. 3, 2012, 125 Stat. 1888.)
 
 #### References in Text
 
@@ -65,6 +73,8 @@ A prior section 403–3, act July 26, 1947, ch. 343, title I, §103, as added Pu
 Another prior section 103 of act July 26, 1947, was renumbered section 107 and is classified to section 404 of this title.
 
 #### Amendments
+
+<b>2012</b>—Subsecs. (e), (f). Pub. L. 112–87 added subsec. (e) and redesignated former subsec. (e) as (f).
 
 <b>2010</b>—Subsec. (b). Pub. L. 111–259, §804(3), struck out “, the National Security Act of 1947 (50 U.S.C. 401 et seq.),” after “this Act”.
 

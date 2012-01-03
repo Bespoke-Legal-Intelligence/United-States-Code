@@ -32,7 +32,7 @@ For purposes of this section, the term “qualified assignment” means any assi
 
 #### (d) Qualified funding asset
 
-For purposes of this section, the term “qualified funding asset” means any annuity contractissued by a company licensed to do business as an insurance company under the laws of any State, or any obligation of the United States, if—
+For purposes of this section, the term “qualified funding asset” means any annuity contract issued by a company licensed to do business as an insurance company under the laws of any State, or any obligation of the United States, if—
 
 &emsp;(1) such annuity contract or obligation is used by the assignee to fund periodic payments under any qualified assignment,
 

@@ -70,7 +70,7 @@ Findings.—The Congress finds as follows:
 
 “(b)
 
-Purpose.—The purpose of this Act \[amending this section and enacting provisions set out as notesunder this section and section 1601 of this title\] is to ensure that consumers suffering from any actual harm to their credit or identity are protected while simultaneously limiting abusive lawsuits that do not protect consumers but only result in increased cost to business and potentially increased prices to consumers.”
+Purpose.—The purpose of this Act \[amending this section and enacting provisions set out as notes under this section and section 1601 of this title\] is to ensure that consumers suffering from any actual harm to their credit or identity are protected while simultaneously limiting abusive lawsuits that do not protect consumers but only result in increased cost to business and potentially increased prices to consumers.”
 
 #### Retroactive Effect of 2008 Amendment
 

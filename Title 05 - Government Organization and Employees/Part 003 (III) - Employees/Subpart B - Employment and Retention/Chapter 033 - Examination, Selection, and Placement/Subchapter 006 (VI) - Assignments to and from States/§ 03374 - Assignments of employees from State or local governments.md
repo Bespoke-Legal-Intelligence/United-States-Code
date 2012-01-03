@@ -40,13 +40,13 @@ The Federal Tort Claims Act, referred to in subsec. (c)(2), is title IV of act A
 
 #### Amendments
 
-2011—Subsec. (c)(2). Pub. L. 111–350 substituted “chapter 21 of title 41” for “section 27 of the Office of Federal Procurement Policy Act”.
+<b>2011</b>—Subsec. (c)(2). Pub. L. 111–350 substituted “chapter 21 of title 41” for “section 27 of the Office of Federal Procurement Policy Act”.
 
-2001—Subsec. (c)(2). Pub. L. 107–107 inserted “the Ethics in Government Act of 1978, section 27 of the Office of Federal Procurement Policy Act,” after “chapter 73 of this title,”.
+<b>2001</b>—Subsec. (c)(2). Pub. L. 107–107 inserted “the Ethics in Government Act of 1978, section 27 of the Office of Federal Procurement Policy Act,” after “chapter 73 of this title,”.
 
-1982—Subsec. (c)(2). Pub. L. 97–258 substituted “sections 1343, 1344, and 1349(b)” for “section 638a”.
+<b>1982</b>—Subsec. (c)(2). Pub. L. 97–258 substituted “sections 1343, 1344, and 1349(b)” for “section 638a”.
 
-1978—Subsec. (a). Pub. L. 95–454, §603(b), substituted “a Federal” for “an executive”, and “Federal agency” for “executive agency” in two places.
+<b>1978</b>—Subsec. (a). Pub. L. 95–454, §603(b), substituted “a Federal” for “an executive”, and “Federal agency” for “executive agency” in two places.
 
 Subsec. (b). Pub. L. 95–454, §603(b), (d)(1), inserted provisions relating to nonapplicability of exceptions to non-Federal employees, and substituted “Federal” for “executive”.
 

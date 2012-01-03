@@ -6,7 +6,7 @@ The Librarian shall provide a seal to indicate that a sound recording has been i
 
 #### (b) Use of seal
 
-The Librarian shall establish guidelines for approval of the use of the seal provided undersubsection (a) of this section, and shall include in the guidelines the following:
+The Librarian shall establish guidelines for approval of the use of the seal provided under subsection (a) of this section, and shall include in the guidelines the following:
 
 &emsp;(1) The seal may only be used on recording copies of the Registry version of a sound recording.
 

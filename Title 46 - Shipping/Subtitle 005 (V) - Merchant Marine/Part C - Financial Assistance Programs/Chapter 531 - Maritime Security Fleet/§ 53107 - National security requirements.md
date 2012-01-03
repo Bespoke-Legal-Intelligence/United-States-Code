@@ -30,7 +30,7 @@ Participation After Expiration of Operating Agreement.—Except as provided by s
 
 (d)
 
-Resources Made Available.—The commercial transportation resources to be made available under an Emergency Preparedness Agreement shall include vessels or capacity in vessels, intermodal systems and equipment, terminal facilities, intermodal and management services, and other related services, or any agreed portion of such nonvessel resources for activation as the Secretary of Defense may determine to be necessary, seeking to minimize disruption of the contractor's service to commercial shippers.
+Resources Made Available.—The commercial transportation resources to be made available under an Emergency Preparedness Agreement shall include vessels or capacity invessels, intermodal systems and equipment, terminal facilities, intermodal and management services, and other related services, or any agreed portion of such nonvessel resources for activation as the Secretary of Defense may determine to be necessary, seeking to minimize disruption of the contractor's service to commercial shippers.
 
 (e)
 

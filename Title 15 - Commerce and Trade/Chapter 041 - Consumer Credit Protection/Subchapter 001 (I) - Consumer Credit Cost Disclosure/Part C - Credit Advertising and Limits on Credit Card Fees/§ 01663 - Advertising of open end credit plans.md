@@ -6,15 +6,13 @@ No advertisement to aid, promote, or assist directly or indirectly the extension
 
 &emsp;(2) In any case in which periodic rates may be used to compute the finance charge, the periodic rates expressed as annual percentage rates.
 
-&emsp;(3) Any other term that the Board may by regulation require to be disclosed.
+&emsp;(3) Any other term that the Bureau may by regulation require to be disclosed.
 
 (Pub. L. 90–321, title I, §143, May 29, 1968, 82 Stat. 158; Pub. L. 96–221, title VI, §§613(f), 619(a), Mar. 31, 1980, 94 Stat. 177, 183; Pub. L. 111–203, title X, §1100A(2), July 21, 2010, 124 Stat. 2107.)
 
-#### Amendment of Section
-
-<i>Pub. L. 111–203, title X, §§1100A(2), 1100H, July 21, 2010, 124 Stat. 2107, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Board” each place that term appears and inserting “Bureau”. See Effective Date of 2010 Amendment note below.</i>
-
 #### Amendments
+
+<b>2010</b>—Par. (3). Pub. L. 111–203 substituted “Bureau” for “Board”.
 
 <b>1980</b>—Pub. L. 96–221 in existing introductory text struck out applicability of rate determined under section 1637(a)(5) of this title, and amended section generally substituting items setting forth minimum or fixed amount, etc., set out in pars. (1) to (3), for items time period, etc., set out in pars. (1) to (5).
 

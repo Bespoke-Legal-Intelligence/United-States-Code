@@ -20,5 +20,5 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 “Commandant of the Coast Guard” substituted for “Secretary of Commerce” and a reference to Department of Commerce changed to Coast Guard on authority of Reorg. Plan No. 3 of 1946, §§101–104, set out in the Appendix to Title 5.
 
-Upon incorporation into the Code, the words “Secretary of Commerce” were substituted for “Secretary of Commerce and Labor” to conform to act Mar. 4, 1913, which provided that the Secretary of Commerce and Labor should be called the Secretary of Commerce.
+Upon incorporation into the Code, the words “Secretary of Commerce” were substituted for “Secretary of Commerce and Labor” to conform to act Mar. 4, 1913,which provided that the Secretary of Commerce and Labor should be called the Secretary of Commerce.
 

@@ -108,7 +108,7 @@ If a corporation redeems its stock (within the meaning of section 317(b)), and i
 
 #### (d) Redemptions treated as distributions of property
 
-Except as otherwise provided in this subchapter, if a corporation redeems its stock (within the meaning of section 317(b)), and if subsection (a) of this section does not apply, such redemption shall be treated as a distribution of property to which section 301 applies.
+Except as otherwise provided in this subchapter, if a corporation redeems its stock\(within the meaning of section 317(b)), and if subsection (a) of this section does not apply, such redemption shall be treated as a distribution of property to which section 301 applies.
 
 #### (e) Partial liquidation defined
 
@@ -118,7 +118,7 @@ Except as otherwise provided in this subchapter, if a corporation redeems its st
 
 &emsp;&emsp;(A) the distribution is not essentially equivalent to a dividend (determined at the corporate level rather than at the shareholder level), and
 
-&emsp;&emsp;(B) the distribution is pursuant to a plan and occurs within the taxable year in whichthe plan is adopted or within the succeeding taxable year.
+&emsp;&emsp;(B) the distribution is pursuant to a plan and occurs within the taxable year in which the plan is adopted or within the succeeding taxable year.
 
 #### (2) Termination of business
 
@@ -208,7 +208,7 @@ Ruling requests.—The amendments made by this section shall not apply to distri
 
 &emsp;&emsp;“(II) within the period beginning on July 12, 1981, and ending on July 22, 1982, the Internal Revenue Service granted a ruling to such corporation that the distributions would qualify as a partial liquidation, and
 
-&emsp;&emsp;“(ii) such distributions are pursuant to a plan of partial liquidation adopted before October 1, 1982 (or, if later, 90 days after the date on which the Internal Revenue Service granted a ruling pursuant to the request described in clause (i)(I)).
+&emsp;&emsp;“(ii) such distributions are pursuant to a plan of partial liquidation adopted before October 1, 1982\(or, if later, 90 days after the date on which the Internal Revenue Service granted a ruling pursuant to the request described in clause (i)(I)).
 
 &emsp;“(B)
 

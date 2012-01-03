@@ -32,7 +32,7 @@ In this subchapter (unless the context otherwise requires):
 
 #### (5) First handler
 
-&emsp;The term “first handler” means the first person who buys or takes possession of an agricultural commodity from a producer for marketing. If a producer markets the agricultural commodity directly to consumers, the producer shall be considered to be the first handler with respect to the agricultural commodity produced by the producer.
+&emsp;The term “first handler” means the first person who buys or takes possession of an agricultural commodity from a producer formarketing. If a producer markets the agricultural commodity directly to consumers, the producer shall be considered to be the first handler with respect to the agricultural commodity produced by the producer.
 
 #### (6) Importer
 

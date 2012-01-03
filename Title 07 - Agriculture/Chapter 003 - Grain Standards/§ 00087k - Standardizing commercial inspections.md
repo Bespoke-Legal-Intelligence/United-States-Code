@@ -38,9 +38,9 @@ This chapter, referred to in subsec. (c), was in the original “this Act” and
 
 #### Amendments
 
-1994—Pub. L. 103–354 substituted “Secretary” for “Administrator” wherever appearing and “Secretary” for “Service” in subsec. (c).
+<b>1994</b>—Pub. L. 103–354 substituted “Secretary” for “Administrator” wherever appearing and “Secretary” for “Service” in subsec. (c).
 
-1993—Subsec. (a). Pub. L. 103–156, §11, substituted “, the National Conference on Weights and Measures, or other appropriate governmental, scientific, or technical organizations” for “and the National Conference on Weights and Measures” in introductory provisions.
+<b>1993</b>—Subsec. (a). Pub. L. 103–156, §11, substituted “, the National Conference on Weights and Measures, or other appropriate governmental, scientific, or technical organizations” for “and the National Conference on Weights and Measures” in introductory provisions.
 
 Subsec. (c). Pub. L. 103–156, §13(b)(2), substituted “subsections (a) and (b)” for “subsection (a) and (b)”.
 

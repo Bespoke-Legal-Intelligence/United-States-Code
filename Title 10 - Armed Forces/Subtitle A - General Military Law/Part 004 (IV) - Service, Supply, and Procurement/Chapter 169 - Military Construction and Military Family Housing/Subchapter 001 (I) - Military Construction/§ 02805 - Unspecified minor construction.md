@@ -14,13 +14,7 @@ Approval and Congressional Notification.—(1) An unspecified minor military con
 
 (c)
 
-Use of Operation and Maintenance Funds.—(1) Except as provided in paragraph (2), the Secretary concerned may spend from appropriations available for operation and maintenance amounts necessary to carry out an unspecified minor military construction project costing not more than—
-
-&emsp;(A) $1,500,000, in the case of an unspecified minor military construction project intended solely to correct a deficiency that is life-threatening, health-threatening, or safety-threatening; or
-
-&emsp;(B) $750,000, in the case of any other unspecified minor military construction project.
-
-(2) The limitations specified in paragraph (1) shall not apply to an unspecified minor military construction project if the project is to be carried out using funds made available to enhance the deployment and mobility of military forces and supplies.
+Use of Operation and Maintenance Funds.—The Secretary concerned may spend from appropriations available for operation and maintenance amounts necessary to carry out an unspecified minor military construction project costing not more than $750,000.
 
 (d)
 
@@ -32,7 +26,7 @@ Laboratory Revitalization.—(1) For the revitalization and recapitalization of 
 
 (2) For an unspecified minor military construction project conducted pursuant to this subsection, $2,000,000 shall be deemed to be the amount specified in subsection (b)(1) regarding when advance approval of the project by the Secretary concerned and congressional notification is required. The Secretary of Defense shall establish procedures for the review and approval of requests from the Secretary of a military department to carry out a construction project under this subsection.
 
-(3) Not later than February 1, 2010, the Secretary of Defense shall submit to the congressional defense committees a report on the use of the authority provided by this subsection. The report shall include a list and description of the construction projects carried out under this subsection, including the location and cost of each project.
+(3) Not later than February 1, 2014, the Secretary of Defense shall submit to the congressional defense committees a report on the use of the authority provided by this subsection. The report shall include a list and description of the construction projects carried out under this subsection, including the location and cost of each project.
 
 (4) In this subsection, the term “laboratory” includes—
 
@@ -40,17 +34,29 @@ Laboratory Revitalization.—(1) For the revitalization and recapitalization of 
 
 &emsp;(B) a test and evaluation activity.
 
-(5) The authority to carry out a project under this subsection expires on September 30, 2012.
+(5) The authority to carry out a project under this subsection expires on September 30, 2016.
 
 (e)
 
 Prohibition on Use for New Housing Units.—Military family housing projects for construction of new housing units may not be carried out under the authority of this section.
 
-(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 155; amended Pub. L. 99–167, title VIII, §809, Dec. 3, 1985, 99 Stat. 989; Pub. L. 99–661, div. B, title VII, §2702(a), Nov. 14, 1986, 100 Stat. 4040; Pub. L. 100–180, div. B, subdiv. 3, title I, §2310, Dec. 4, 1987, 101 Stat. 1217; Pub. L. 101–510, div. A, title XIII, §1301(16), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 102–190, div. B, title XXVIII, §§2807, 2870(4), Dec. 5, 1991, 105 Stat. 1540, 1563; Pub. L. 104–106, div. B, title XXVIII, §§2811(a), 2812, Feb. 10, 1996, 110 Stat. 552; Pub. L. 104–201, div. B, title XXVIII, §2801(a), Sept. 23, 1996, 110 Stat. 2787; Pub. L. 105–85, div. B, title XXVIII, §2801, Nov. 18, 1997, 111 Stat. 1989; Pub. L. 107–107, div. B, title XXVIII, §2801, Dec. 28, 2001, 115 Stat. 1305; Pub. L. 108–136, div. A, title X, §1031(a)(36), Nov. 24, 2003, 117 Stat. 1600; Pub. L. 110–181, div. B, title XXVIII, §§2803, 2804, Jan. 28, 2008, 122 Stat. 539; Pub. L. 111–84, div. B, title XXVIII, §2801(a)(1), (2), (b), Oct. 28, 2009, 123 Stat. 2660.)
+(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 155; amended Pub. L. 99–167, title VIII, §809, Dec. 3, 1985, 99 Stat. 989; Pub. L. 99–661, div. B, title VII, §2702(a), Nov. 14, 1986, 100 Stat. 4040; Pub. L. 100–180, div. B, subdiv. 3, title I, §2310, Dec. 4, 1987, 101 Stat. 1217; Pub. L. 101–510, div. A, title XIII, §1301(16), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 102–190, div. B, title XXVIII, §§2807, 2870(4), Dec. 5, 1991, 105 Stat. 1540, 1563; Pub. L. 104–106, div. B, title XXVIII, §§2811(a), 2812, Feb. 10, 1996, 110 Stat. 552; Pub. L. 104–201, div. B, title XXVIII, §2801(a), Sept. 23, 1996, 110 Stat. 2787; Pub. L. 105–85, div. B, title XXVIII, §2801, Nov. 18, 1997, 111 Stat. 1989; Pub. L. 107–107, div. B, title XXVIII, §2801, Dec. 28, 2001, 115 Stat. 1305; Pub. L. 108–136, div. A, title X, §1031(a)(36), Nov. 24, 2003, 117 Stat. 1600; Pub. L. 110–181, div. B, title XXVIII, §§2803, 2804, Jan. 28, 2008, 122 Stat. 539; Pub. L. 111–84, div. B, title XXVIII, §2801(a)(1), (2), (b), Oct. 28, 2009, 123 Stat. 2660; Pub. L. 112–81, div. B, title XXVIII, §2802(a), (b), Dec. 31, 2011, 125 Stat. 1684.)
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a). Pub. L. 111–84, §2801(a)(1), substituted “Within” for “Except as provided in paragraph (2), within” in par. (1), redesignated the second and third sentences of par. (1) as par. (2), and struck out former par. (2) which read as follows: “A Secretary may not use more than $5,000,000 for exercise-related unspecified minor military construction projects coordinated or directed by the Joint Chiefs of Staff outside the United States during any fiscal year.”
+<b>2011</b>—Subsec. (c). Pub. L. 112–81, §2802(a), substituted “The” for “(1) Except as provided in paragraph (2), the” and “not more than $750,000.” for “not more than—
+
+&emsp;“(A) $1,500,000, in the case of an unspecified minor military construction project intended solely to correct a deficiency that is life-threatening, health-threatening, or safety-threatening; or
+
+&emsp;“(B) $750,000, in the case of any other unspecified minor military construction project.
+
+&emsp;“(2) The limitations specified in paragraph (1) shall not apply to an unspecified minor military construction project if the project is to be carried out using funds made available to enhance the deployment and mobility of military forces and supplies.”
+
+Subsec. (d)(3). Pub. L. 112–81, §2802(b)(1), substituted “February 1, 2014” for “February 1, 2010”.
+
+Subsec. (d)(5). Pub. L. 112–81, §2802(b)(2), substituted “September 30, 2016” for “September 30, 2012”.
+
+<b>2009</b>—Subsec. (a). Pub. L. 111–84, §2801(a)(1), substituted “Within” for “Except as provided in paragraph (2), within” in par. (1), redesignated the second and third sentences of par. (1) as par. (2), and struck out former par. (2) which read as follows: “A Secretary maynot use more than $5,000,000 for exercise-related unspecified minor military construction projects coordinated or directed by the Joint Chiefs of Staff outside the United States during any fiscal year.”
 
 Subsec. (c). Pub. L. 111–84, §2801(a)(2), substituted “paragraph (2)” for “paragraphs (2) and (3)” in par. (1), redesignated par. (3) as (2), and struck out former par. (2) which read as follows: “The authority provided in paragraph (1) may not be used with respect to any exercise-related unspecified minor military construction project coordinated or directed by the Joint Chiefs of Staff outside the United States.”
 
@@ -134,7 +140,7 @@ Pub. L. 104–106, div. B, title XXVIII, §2892, Feb. 10, 1996, 110 Stat. 590, a
 
 “(a)
 
-Program Authorized.—The Secretary of Defense may carry out a program (to be known as the ‘Department of Defense Laboratory Revitalization Demonstration Program’) for the revitalization of Department of Defense laboratories. Under the program, the Secretary may carry out minor military construction projects in accordance with subsection (b) and other applicable law to improve Department of Defense laboratories covered by the program.
+Program Authorized.—The Secretary of Defense may carry out a program (to be known as the ‘Department of Defense Laboratory Revitalization Demonstration Program’) for the revitalization of Department of Defense laboratories. Under the program, the Secretary may carry out minor military construction projects inaccordance with subsection (b) and other applicable law to improve Department of Defense laboratories covered by the program.
 
 “(b)
 

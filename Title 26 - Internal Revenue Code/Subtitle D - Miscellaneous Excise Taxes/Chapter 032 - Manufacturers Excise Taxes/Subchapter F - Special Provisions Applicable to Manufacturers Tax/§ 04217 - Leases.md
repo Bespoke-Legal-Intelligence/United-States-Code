@@ -12,7 +12,7 @@ In the case of any lease described in subsection (a) of an article taxable under
 
 For purposes of this section, the term “total tax” means—
 
-&emsp;(1) except as provided in paragraph (2), the tax computed on the constructive sale pricefor such article which would be determined under section 4216(b) if such article were sold at retail on the date of the first lease to which subsection (b) applies; or
+&emsp;(1) except as provided in paragraph (2), the tax computed on the constructive sale price for such article which would be determined under section 4216(b) if such article were sold at retail on the date of the first lease to which subsection (b) applies; or
 
 &emsp;(2) if the first lease to which subsection (b) applies is not the first lease of the article, the tax computed on the fair market value of such article on the date of the first lease to which subsection (b) applies.
 
@@ -104,5 +104,5 @@ Section effective on first day of first month which begins more than ten days af
 
 #### Application of Leases of Utility Trailers
 
-Section 117(c) of Pub. L. 85–859, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:“The amendments made by subsections (a) and (b) \[amending this section and section 4216 of this title\] shall not apply to any lease of an article if section 4216(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954, prior subsec. (d) of section 4216 of this title\] applied to any lease of such article before the effective date specified in section 1(c) of this Act.”
+Section 117(c) of Pub. L. 85–859, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 4216 of this title\] shall not apply to any lease of an article if section 4216(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954, prior subsec. (d) of section 4216 of this title\] applied to any lease of such article before the effective date specified in section 1(c) of this Act.”
 

@@ -78,17 +78,17 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (d). Pub. L. 110–246, §7406(d)(2), substituted “Paragraphs (4), (7), (8), and (11)(B)” for “Paragraphs (1), (6), (7), and (11)”.
+<b>2008</b>—Subsec. (d). Pub. L. 110–246, §7406(d)(2), substituted “Paragraphs (4), (7), (8), and (11)(B)” for “Paragraphs (1), (6), (7), and (11)”.
 
-2002—Subsec. (b)(3). Pub. L. 107–171, §7208(a)(1), inserted “pathogens and” before “diseases causing economic hardship”.
+<b>2002</b>—Subsec. (b)(3). Pub. L. 107–171, §7208(a)(1), inserted “pathogens and” before “diseases causing economic hardship”.
 
 Subsec. (b)(7), (8). Pub. L. 107–171, §7208(a)(2)–(4), added par. (7) and redesignated former par. (7) as (8).
 
-1998—Pub. L. 105–185 amended section catchline and text generally, substituting present provisions for provisions which in subsec. (a) required plant genome mapping program, in subsec. (b) authorized competitive grants for research projects, in subsec. (c) described research areas for projects, in subsec. (d) set forth deadline for submission of plan for awarding grants, in subsec. (e) directed coordination of section activities with certain related activities, in subsec. (f) required protection of proprietary interests when considered to be appropriate, and in subsec. (g) authorized appropriations for fiscal years 1996 and 1997 to carry out this section.
+<b>1998</b>—Pub. L. 105–185 amended section catchline and text generally, substituting present provisions for provisions which in subsec. (a) required plant genome mapping program, in subsec. (b) authorized competitive grants for research projects, in subsec. (c) described research areas for projects, in subsec. (d) set forth deadline for submission of plan for awarding grants, in subsec. (e) directed coordination of section activities with certain related activities, in subsec. (f) required protection of proprietary interests when considered to be appropriate, and in subsec. (g) authorized appropriations for fiscal years 1996 and 1997 to carry out this section.
 
-1996—Subsec. (g). Pub. L. 104–127 inserted “for fiscal years 1996 and 1997” after “appropriated”.
+<b>1996</b>—Subsec. (g). Pub. L. 104–127 inserted “for fiscal years 1996 and 1997” after “appropriated”.
 
-1995—Subsecs. (g), (h). Pub. L. 104–66 redesignated subsec. (h) as (g) and struck out former subsec. (g) which required Secretary to submit annual reports to Congress describing operations of grant program for plant genome mapping.
+<b>1995</b>—Subsecs. (g), (h). Pub. L. 104–66 redesignated subsec. (h) as (g) and struck out former subsec. (g) which required Secretary to submit annual reports to Congress describing operations of grant program for plant genome mapping.
 
 #### Effective Date of 2008 Amendment
 

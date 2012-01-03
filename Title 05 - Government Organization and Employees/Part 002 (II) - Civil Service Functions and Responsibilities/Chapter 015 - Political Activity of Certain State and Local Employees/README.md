@@ -15,9 +15,7 @@
 
 #### Amendments
 
-1974—Pub. L. 93–443, title IV, §401(b)(2), Oct. 15, 1974, 88 Stat. 1290, substituted “candidacies” for “political activity” in item 1503.
-
-<i><sup>1</sup></i><i> So in original. The comma probably should be a semicolon.</i>
+<b>1974</b>—Pub. L. 93–443, title IV, §401(b)(2), Oct. 15, 1974, 88 Stat. 1290, substituted “candidacies” for “political activity” in item 1503.
 
 
 ---

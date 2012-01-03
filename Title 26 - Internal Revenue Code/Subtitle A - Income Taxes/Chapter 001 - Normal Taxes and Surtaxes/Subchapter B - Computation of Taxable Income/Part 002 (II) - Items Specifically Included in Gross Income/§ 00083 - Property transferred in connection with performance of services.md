@@ -22,7 +22,7 @@ If, in connection with the performance of services, property is transferred to a
 
 #### (2) Election
 
-&emsp;An election under paragraph (1) with respect to any transfer of property shall be made insuch manner as the Secretary prescribes and shall be made not later than 30 days after the date of such transfer. Such election may not be revoked except with the consent of the Secretary.
+&emsp;An election under paragraph (1) with respect to any transfer of property shall be made in such manner as the Secretary prescribes and shall be made not later than 30 days after the date of such transfer. Such election may not be revoked except with the consent of the Secretary.
 
 #### (c) Special rules
 

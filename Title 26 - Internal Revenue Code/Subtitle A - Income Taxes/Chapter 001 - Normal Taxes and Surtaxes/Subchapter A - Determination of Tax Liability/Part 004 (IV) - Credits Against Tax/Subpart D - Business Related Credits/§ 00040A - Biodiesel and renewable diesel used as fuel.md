@@ -186,7 +186,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In the case of a cooperative organization described in section 1381(a), any portion of the credit determined under subsection (a)(3) for the taxable year may, at the election of the organization, be apportioned pro rata among patrons of the organization on the basis of the quantity or value of business done with or for such patrons for the taxable year.
+&emsp;&emsp;&emsp;In the case of a cooperative organization described in section 1381(a), any portion of the credit determined under subsection\(a)(3) for the taxable year may, at the election of the organization, be apportioned pro rata among patrons of the organization on the basis of the quantity or value of business done with or for such patrons for the taxable year.
 
 #### (ii) Form and effect of election
 

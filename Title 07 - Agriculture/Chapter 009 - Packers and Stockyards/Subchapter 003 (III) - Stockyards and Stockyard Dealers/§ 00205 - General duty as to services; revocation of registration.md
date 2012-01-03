@@ -6,7 +6,7 @@ All stockyard services furnished pursuant to reasonable request made to a stocky
 
 #### Amendments
 
-1968—Pub. L. 90–446 inserted provision requiring that stockyard services which are furnished not be refused on any basis that is unreasonable or unjustly discriminatory.
+<b>1968</b>—Pub. L. 90–446 inserted provision requiring that stockyard services which are furnished not be refusedon any basis that is unreasonable or unjustly discriminatory.
 
-1926—Act May 5, 1926, inserted proviso.
+<b>1926</b>—Act May 5, 1926, inserted proviso.
 

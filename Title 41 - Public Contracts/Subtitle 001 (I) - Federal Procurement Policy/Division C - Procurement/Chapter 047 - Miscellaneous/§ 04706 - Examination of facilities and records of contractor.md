@@ -10,7 +10,7 @@ Agency Authority.—
 
 &emsp;(1)
 
-Inspection of plant and audit of records.—The head of an executive agency,acting through an authorized representative, may inspect the plant and audit the records of—
+Inspection of plant and audit of records.—The head of an executive agency, acting through an authorized representative, may inspect the plant and audit the records of—
 
 &emsp;&emsp;(A) a contractor performing a cost-reimbursement, incentive, time-and-materials, labor-hour, or price-redeterminable contract, or any combination of those contracts, the executive agency makes under this division; and
 
@@ -94,7 +94,7 @@ Electronic Form Allowed.—This section does not preclude a contractor from dupl
 
 (i)
 
-Original Records Not Required.—An executive agency shall not require a contractor or subcontractor to provide original records in an audit carried out pursuant to this section if thecontractor or subcontractor provides photographic or electronic images of the original records and meets the following requirements:
+Original Records Not Required.—An executive agency shall not require a contractor or subcontractor to provide original records in an audit carried out pursuant to this section if the contractor or subcontractor provides photographic or electronic images of the original records and meets the following requirements:
 
 &emsp;(1)
 

@@ -76,7 +76,7 @@ Restitution of specific victims.—Amounts collected by the Director under this 
 
 &emsp;(2)
 
-Allocation of other amounts.—Of amounts collected by the Director under this section from prisoners not subject to an orderof restitution issued pursuant to section 3663 or 3663A—
+Allocation of other amounts.—Of amounts collected by the Director under this section from prisoners not subject to an order of restitution issued pursuant to section 3663 or 3663A—
 
 &emsp;&emsp;(A) 75 percent shall be deposited in the Crime Victims Fund established under section 1402 of the Victims of Crime Act of 1984 (42 U.S.C. 10601); and
 
@@ -114,7 +114,7 @@ Reports to Congress.—Not later than 1 year after the date of the enactment of 
 
 (<i>l</i>)
 
-Comprehensive HIV/AIDS Services Required.—The Bureau of Prisons shall provide comprehensive coverage for services relating to human immunodeficiency virus (HIV) and acquired immune deficiency syndrome (AIDS) to each Federal prisoner in the custody of the Bureau of Prisons when medically appropriate. The Bureau of Prisons may not assess or collect a fee under this section for providing such coverage.
+Comprehensive HIV/AIDS Services Required.—The Bureau of Prisons shall providecomprehensive coverage for services relating to human immunodeficiency virus (HIV) and acquired immune deficiency syndrome (AIDS) to each Federal prisoner in the custody of the Bureau of Prisons when medically appropriate. The Bureau of Prisons may not assess or collect a fee under this section for providing such coverage.
 
 (Added Pub. L. 106–294, §2(a), Oct. 12, 2000, 114 Stat. 1038.)
 

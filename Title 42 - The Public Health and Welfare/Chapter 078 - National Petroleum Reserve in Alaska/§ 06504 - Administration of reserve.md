@@ -6,7 +6,7 @@ Any exploration within the Utukok River, the Teshekpuk Lake areas, and other are
 
 #### (b) Continuation of ongoing petroleum exploration program by Secretary of Navy prior to date of transfer of jurisdiction; duties of Secretary of Navy prior to transfer date
 
-The Secretary of the Navy shall continue the ongoing petroleum exploration program withinthe reserve until the date of the transfer of jurisdiction specified in section 6503(a) of this title. Prior to the date of such transfer of jurisdiction the Secretary of the Navy shall—
+The Secretary of the Navy shall continue the ongoing petroleum exploration program within the reserve until the date of the transfer of jurisdiction specified in section 6503(a) of this title. Prior to the date of such transfer of jurisdiction the Secretary of the Navy shall—
 
 &emsp;(1) cooperate fully with the Secretary of the Interior providing him access to such facilities and such information as he may request to facilitate the transfer of jurisdiction;
 

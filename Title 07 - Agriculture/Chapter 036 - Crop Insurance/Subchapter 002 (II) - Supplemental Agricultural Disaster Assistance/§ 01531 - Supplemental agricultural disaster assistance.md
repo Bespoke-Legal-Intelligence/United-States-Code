@@ -128,7 +128,7 @@ In this section:
 
 #### (15) Normal production on the farm
 
-&emsp;The term “normal production on the farm” means the sum of the expected revenue for allcrops on the farm, as determined under subsection (b)(6)(A).
+&emsp;The term “normal production on the farm” means the sum of the expected revenue for all crops on the farm, as determined under subsection (b)(6)(A).
 
 #### (16) Qualifying natural disaster declaration
 
@@ -390,7 +390,7 @@ In this section:
 
 #### (D) Normal carrying capacity
 
-&emsp;&emsp;The term “normal carrying capacity”, with respect to each type of grazing land or pastureland in a county, means the normal carrying capacity, as determined under paragraph (3)(D)(i), that would be expected from the grazing land or pastureland for livestock during the normal grazing period, in the absence of a drought or fire that diminishes the production of the grazing land or pastureland.
+&emsp;&emsp;The term “normal carrying capacity”, with respect to each type of grazing land or pastureland in a county, means the normal carrying capacity, as determined under paragraph (3)(D)(i), that would be expectedfrom the grazing land or pastureland for livestock during the normal grazing period, in the absence of a drought or fire that diminishes the production of the grazing land or pastureland.
 
 #### (E) Normal grazing period
 
@@ -410,7 +410,7 @@ In this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;An eligible livestock producer may receive assistance under this subsection onlyfor grazing losses for covered livestock that occur on land that—
+&emsp;&emsp;&emsp;An eligible livestock producer may receive assistance under this subsection only for grazing losses for covered livestock that occur on land that—
 
 &emsp;&emsp;&emsp;&emsp;(I) is native or improved pastureland with permanent vegetative cover; or
 
@@ -570,7 +570,7 @@ In this section:
 
 #### (2) Use of funds
 
-&emsp;Funds made available under this subsection shall be used to reduce losses caused by feed orwater shortages, disease, or other factors as determined by the Secretary.
+&emsp;Funds made available under this subsection shall be used to reduce losses caused by feed or water shortages, disease, or other factors as determined by the Secretary.
 
 #### (3) Availability of funds
 
@@ -644,7 +644,7 @@ In this section:
 
 &emsp;&emsp;(A) in the case of each insurable commodity of the eligible producers on the farm, excluding grazing land, did not obtain a policy or plan of insurance under subchapter I (excluding a crop insurance pilot program under that subchapter); or
 
-&emsp;&emsp;(B) in the case of each noninsurable commodity of the eligible producers on the farm, did not file the required paperwork, and pay the administrative fee by the applicable State filing deadline, for the noninsured crop assistance program.
+&emsp;&emsp;(B) in the case of each noninsurable commodity of the eligible producers on the farm, did not file the required paperwork, and paythe administrative fee by the applicable State filing deadline, for the noninsured crop assistance program.
 
 #### (2) Minimum
 
@@ -708,7 +708,7 @@ In this section:
 
 &emsp;&emsp;Eligible producers on a farm that meet the requirements of subparagraph (A) shall be eligible to receive assistance under this section as if the eligible producers on the farm—
 
-&emsp;&emsp;&emsp;(i) in the case of each insurable commodity of the eligible producers on the farm, had obtained a policy or plan of insurance for the 2008 crop year at a level of coverage not to exceed 70 percent or more of the recorded or appraised average yield indemnified at 100 percent of the expected market price, or an equivalent coverage; and
+&emsp;&emsp;&emsp;(i) in the case of each insurable commodity of the eligible producers on the farm,had obtained a policy or plan of insurance for the 2008 crop year at a level of coverage not to exceed 70 percent or more of the recorded or appraised average yield indemnified at 100 percent of the expected market price, or an equivalent coverage; and
 
 &emsp;&emsp;&emsp;(ii) in the case of each noninsurable commodity of the eligible producers on the farm, had filed the required paperwork, and paid the administrative fee by the applicable State filing deadline, for the noninsured crop assistance program for the 2008 crop year, except that in determining the level of coverage, the Secretary shall use 70 percent of the applicable yield.
 
@@ -792,7 +792,7 @@ In implementing any other program which makes disaster assistance payments (exce
 
 The Food, Conservation, and Energy Act of 2008, referred to in subsec. (b)(4)(A)(iv), is Pub. L. 110–246, June 18, 2008, 122 Stat. 1651. Subtitles B and C of the Act probably mean subtitles B and C of title I of the Act, which are classified generally to subchapters II (§8731 et seq.) and III (§8751 et seq.) of chapter 113 of this title. Section 1603 of the Act amended section 1308 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8701 of this title and Tables.
 
-The Food Security Act of 1985, referred to in subsec. (d)(3)(A)(ii), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354.Subchapter B of chapter 1 of subtitle D of title XII of the Act is classified generally to subpart B (§3831 et seq.) of part I of subchapter IV of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
+The Food Security Act of 1985, referred to in subsec. (d)(3)(A)(ii), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subchapter B of chapter 1 of subtitle D of title XII of the Act is classified generally to subpart B (§3831 et seq.) of part I of subchapter IV of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 
 The date of enactment of this subchapter, referred to in subsecs. (d)(5)(C), (D)(ii) and (g)(4)(A), (5)(B), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
@@ -804,13 +804,13 @@ Section 2(a) of Pub. L. 110–398, which directed amendment of section 531 of th
 
 #### Amendments
 
-2009—Subsec. (g)(7). Pub. L. 111–5, which directed amendment of section 531(g) of the Federal Crop Insurance Act by adding par. (7), was executed to this section, which is section 531 of subtitle B of title V of act of Feb. 16, 1938, ch. 30, to reflect the probable intent of Congress. The Federal Crop Insurance Act is subtitle A of title V of act of Feb. 16, 1938, ch. 30.
+<b>2009</b>—Subsec. (g)(7). Pub. L. 111–5, which directed amendment of section 531(g) of the Federal Crop Insurance Act by adding par. (7), was executed to this section, which is section 531 of subtitle B of title V of act of Feb. 16, 1938, ch. 30, to reflect the probable intent of Congress. The Federal Crop Insurance Act is subtitle A of title V of act of Feb. 16, 1938, ch. 30.
 
 Subsec. (g)(7)(F). Pub. L. 111–80, §745(a)(1), which directed amendment of section 531(g)(7)(F) of the Federal Crop Insurance Act by inserting “(including multiyear assistance)” after “assistance”, was executed to introductory provisions of subsec. (g)(7)(F) of this section, which is section 531 of subtitle B of title V of act of Feb. 16, 1938, ch. 30, to reflect the probable intent of Congress. The Federal Crop Insurance Act is subtitle A of title V of act of Feb. 16, 1938, ch. 30.
 
 Subsec. (g)(7)(F)(i). Pub. L. 111–80, §745(a)(2), which directed amendment of cl. (i) of section 531(g)(7)(F) of the Federal Crop Insurance Act by inserting “or multiyear production losses” after “a production loss”, was executed to subsec. (g)(7)(F)(i) of this section, which is section 531 of subtitle B of title V of act of Feb. 16, 1938, ch. 30, to reflect the probable intent of Congress. The Federal Crop Insurance Act is subtitle A of title V of act of Feb. 16, 1938, ch. 30.
 
-2008—Subsec. (a)(2). Pub. L. 110–398, §2(a)(1)(F), added par. (2). Former par. (2) redesignated (3).
+<b>2008</b>—Subsec. (a)(2). Pub. L. 110–398, §2(a)(1)(F), added par. (2). Former par. (2) redesignated (3).
 
 Subsec. (a)(3). Pub. L. 110–398, §2(a)(1)(E), redesignated par. (2) as (3). Former par. (3) redesignated (4).
 
@@ -872,7 +872,7 @@ Subsec. (d)(5)(B)(ii). Pub. L. 110–398, §2(a)(3), substituted “subsection�
 
 Subsec. (f)(2)(A). Pub. L. 110–398, §2(a)(4), substituted “the Secretary shall use such sums as are necessary from the Trust Fund to provide” for “the Secretary shall provide”.
 
-Subsec. (g)(1). Pub. L. 110–398, §2(a)(6)(A)(i), substituted “(other than subsections (c) and (d))” for “(other than subsection (c))” in introductory provisions.
+Subsec. (g)(1). Pub. L. 110–398, §2(a)(6)(A)(i), substituted “(other than subsections (c) and (d))” for“(other than subsection (c))” in introductory provisions.
 
 Subsec. (g)(1)(A). Pub. L. 110–398, §2(a)(6)(A)(ii), inserted “, excluding grazing land” after “producers on the farm”.
 
@@ -890,11 +890,19 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 #### Rulemaking Procedures
 
-Pub. L. 110–329, div. B, title I, §10102, Sept. 30, 2008, 122 Stat. 3588, provided that: “Section 1601(c)(2) of theFood, Conservation and Energy Act of 2008 (Public Law 110–246) \[7 U.S.C. 8781(c)(2)\] shall apply in implementing section 12033 of such Act \[enacting this subchapter and amending sections 1501 to 1503, 1505 to 1510, 1514, 1515, 1517, 1518, and 1520 to 1523 of this title\].”
+Pub. L. 110–329, div. B, title I, §10102, Sept. 30, 2008, 122 Stat. 3588, provided that: “Section 1601(c)(2) of the Food, Conservation and Energy Act of 2008 (Public Law 110–246) \[7 U.S.C. 8781(c)(2)\] shall apply in implementing section 12033 of such Act \[enacting this subchapter and amending sections 1501 to 1503, 1505 to 1510, 1514, 1515, 1517, 1518, and 1520 to 1523 of this title\].”
 
 #### Transition
 
 Pub. L. 110–234, title XII, §12033(b), May 22, 2008, 122 Stat. 1405, and Pub. L. 110–246, §4(a), title XII, §12033(b), June 18, 2008, 122 Stat. 1664, 2167, provided that: “For purposes of the 2008 crop year, the Secretary \[of Agriculture\] shall carry out subsections (f)(4) and (h) of section 531 of the Federal Crop Insurance Act \[7 U.S.C. 1531(f)(4), (h)\] (as added by subsection (a)) in accordance with the terms and conditions of sections 1001 through 1001D of the Food Security Act of 1985 (16 U.S.C. 1308 et seq.), as in effect on September 30, 2007.”
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
+
+<i><sup>1</sup></i><i> So in original.</i>
+
+<i><sup>2</sup></i><i> So in original. The comma probably should not appear.</i>
+
+<i><sup>3</sup></i><i> See References in Text note below.</i>
+
+<i><sup>4</sup></i><i> So in original. Probably should be followed by a second closing parenthesis.</i>
 

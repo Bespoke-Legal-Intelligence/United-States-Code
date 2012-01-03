@@ -18,7 +18,7 @@ In this section:
 
 #### (2) Natural disaster
 
-&emsp;The term “natural disaster” includes wildfires, hurricanes or excessive winds,drought, ice storms or blizzards, floods, or other resource-impacting events, as determined by the Secretary.
+&emsp;The term “natural disaster” includes wildfires, hurricanes or excessive winds, drought, ice storms or blizzards, floods, or other resource-impacting events, as determined by the Secretary.
 
 #### (3) Nonindustrial private forest land
 

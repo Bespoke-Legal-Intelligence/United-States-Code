@@ -7,13 +7,18 @@
 | [223\.](%C2%A7%2000223%20-%20Ballistic%20missile%20defense%20programs%20program%20elements.md) | Ballistic missile defense programs: program elements. |
 | [223a.](%C2%A7%2000223a%20-%20Ballistic%20missile%20defense%20programs%20procurement.md) | Ballistic missile defense programs: procurement. |
 | [224\.](%C2%A7%2000224%20-%20Ballistic%20missile%20defense%20programs%20display%20of%20amounts%20for%20research%2C%20development%2C%20test%2C%20and%20evaluation.md) | Ballistic missile defense programs: display of amounts for research, development, test, and evaluation. |
-| [226\.](%C2%A7%2000226%20-%20Scoring%20of%20outlays.md) | Scoring of outlays. |
-| \[227. | Repealed.\] |
-| [228\.](%C2%A7%2000228%20-%20Quarterly%20reports%20on%20allocation%20of%20funds%20within%20operation%20and%20maintenance%20budget%20subactivities.md) | Quarterly reports on allocation of funds within operation and maintenance budget subactivities. |
+| [225\.](%C2%A7%2000225%20-%20Acquisition%20accountability%20reports%20on%20the%20ballistic%20missile%20defense%20system.md) | Acquisition accountability reports on the ballistic missile defense system. |
+| \[226, 227. | Repealed.\] |
+| [228\.](%C2%A7%2000228%20-%20Biannual%20reports%20on%20allocation%20of%20funds%20within%20operation%20and%20maintenance%20budget%20subactivities.md) | Biannual reports on allocation of funds within operation and maintenance budget subactivities. |
 | [229\.](%C2%A7%2000229%20-%20Programs%20for%20combating%20terrorism%20display%20of%20budget%20information.md) | Programs for combating terrorism: display of budget information. |
 | \[230. | Repealed.\] |
-| [231\.](%C2%A7%2000231%20-%20Long-range%20plan%20for%20construction%20of%20naval%20vessels.md) | Long-range plan for construction of naval vessels. |
-| [231a.](%C2%A7%2000231a%20-%20Budgeting%20for%20procurement%20of%20aircraft%20for%20the%20Navy%20and%20Air%20Force%20annual%20plan%20and%20certification.md) | Budgeting for procurement of aircraft for the Navy and Air Force: annual plan and certification. |
+| [231\.](%C2%A7%2000231%20-%20Budgeting%20for%20construction%20of%20naval%20vessels%20annual%20plan%20and%20certification.md) | Budgeting for construction of naval vessels: annual plan and certification <sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
+| [231a.](%C2%A7%2000231a%20-%20Budgeting%20for%20life-cycle%20cost%20of%20aircraft%20for%20the%20Navy%2C%20Army%2C%20and%20Air%20Force%20annual%20plan%20and%20certification.md) | Budgeting for life-cycle cost of aircraft for the Navy, Army, and Air Force: annual plan and certification. |
 | [232\.](%C2%A7%2000232%20-%20United%20States%20Joint%20Forces%20Command%20amounts%20for%20research%2C%20development%2C%20test%2C%20and%20evaluation%20to%20be%20derived%20only%20from%20Defense-wide%20amounts.md) | United States Joint Forces Command: amounts for research, development, test, and evaluation to be derived only from Defense-wide amounts. |
 | [233\.](%C2%A7%2000233%20-%20Operation%20and%20maintenance%20budget%20presentation.md) | Operation and maintenance budget presentation. |
 | [234\.](%C2%A7%2000234%20-%20POW-MIA%20activities%20display%20of%20budget%20information.md) | POW/MIA activities: display of budget information. |
@@ -23,7 +28,11 @@
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 111–383, div. A, title X, §1023(b), Jan. 7, 2011, 124 Stat. 4350, added item 231 and struck out former item 231 “Budgeting for construction of naval vessels: annual plan and certification”.
+<b>2011</b>—Pub. L. 112–81, div. A, title X, §§1011(b), 1061(3)(B), 1064(4)(B)(ii), 1069(c), Dec. 31, 2011, 125 Stat. 1560, 1583, 1587, 1592, struck out item 226 “Scoring of outlays”, added item 228 and struck out former item 228 “Quarterly reports on allocation of funds within operation and maintenance budget subactivities”, added item 231 and struck out former item 231 “Long-range plan for construction of naval vessels”, and amended item 231a generally. Prior to amendment, item 231a read as follows: “Budgeting for procurement of aircraft for the Navy and Air Force: annual plan and certification”.
+
+Pub. L. 112–81, div. A, title II, §231(a)(2), Dec. 31, 2011, 125 Stat. 1339, which directed the addition of item 225 at the end of this analysis, was executed by adding item 225 after item 224 to reflect the probable intent of Congress.
+
+Pub. L. 111–383, div. A, title X, §1023(b), Jan. 7, 2011, 124 Stat. 4350, added item 231 and struck out former item 231 “Budgeting for construction of naval vessels: annual plan and certification”.
 
 <b>2009</b>—Pub. L. 111–84, div. A, title VIII, §803(a)(2), Oct. 28, 2009, 123 Stat. 2402, added item 235.
 
@@ -53,6 +62,8 @@
 
 <b>1991</b>—Pub. L. 102–190, div. A, title X, §1002(a)(1), Dec. 5, 1991, 105 Stat. 1455, substituted “DEFENSE BUDGET MATTERS” for “REGULAR COMPONENTS” in chapter heading and added item 221.
 
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
+
 
 ---
 
@@ -63,13 +74,14 @@
 - [&sect; 00223 - Ballistic missile defense programs program elements](%C2%A7%2000223%20-%20Ballistic%20missile%20defense%20programs%20program%20elements.md)
 - [&sect; 00223a - Ballistic missile defense programs procurement](%C2%A7%2000223a%20-%20Ballistic%20missile%20defense%20programs%20procurement.md)
 - [&sect; 00224 - Ballistic missile defense programs display of amounts for research, development, test, and evaluation](%C2%A7%2000224%20-%20Ballistic%20missile%20defense%20programs%20display%20of%20amounts%20for%20research%2C%20development%2C%20test%2C%20and%20evaluation.md)
-- [&sect; 00226 - Scoring of outlays](%C2%A7%2000226%20-%20Scoring%20of%20outlays.md)
+- [&sect; 00225 - Acquisition accountability reports on the ballistic missile defense system](%C2%A7%2000225%20-%20Acquisition%20accountability%20reports%20on%20the%20ballistic%20missile%20defense%20system.md)
+- [&sect; 00226 - Repealed. Pub. L. 112&#8211;81, div. A, title X, &sect;1061(3)(A), Dec. 31, 2011, 125 Stat. 1583](%C2%A7%2000226%20-%20Repealed.%20Pub.%20L.%20112%E2%80%9381%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71061%283%29%28A%29%2C%20Dec.%2031%2C%202011%2C%20125%20Stat.%201583.md)
 - [&sect; 00227 - Repealed. Pub. L. 104&#8211;106, div. A, title X, &sect;1061(f)(1), Feb. 10, 1996, 110 Stat. 443](%C2%A7%2000227%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71061%28f%29%281%29%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20443.md)
-- [&sect; 00228 - Quarterly reports on allocation of funds within operation and maintenance budget subactivities](%C2%A7%2000228%20-%20Quarterly%20reports%20on%20allocation%20of%20funds%20within%20operation%20and%20maintenance%20budget%20subactivities.md)
+- [&sect; 00228 - Biannual reports on allocation of funds within operation and maintenance budget subactivities](%C2%A7%2000228%20-%20Biannual%20reports%20on%20allocation%20of%20funds%20within%20operation%20and%20maintenance%20budget%20subactivities.md)
 - [&sect; 00229 - Programs for combating terrorism display of budget information](%C2%A7%2000229%20-%20Programs%20for%20combating%20terrorism%20display%20of%20budget%20information.md)
 - [&sect; 00230 - Repealed. Pub. L. 107&#8211;314, div. A, title X, &sect;1041(a)(2)(A), Dec. 2, 2002, 116 Stat. 2645](%C2%A7%2000230%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93314%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71041%28a%29%282%29%28A%29%2C%20Dec.%202%2C%202002%2C%20116%20Stat.%202645.md)
-- [&sect; 00231 - Long-range plan for construction of naval vessels](%C2%A7%2000231%20-%20Long-range%20plan%20for%20construction%20of%20naval%20vessels.md)
-- [&sect; 00231a - Budgeting for procurement of aircraft for the Navy and Air Force annual plan and certification](%C2%A7%2000231a%20-%20Budgeting%20for%20procurement%20of%20aircraft%20for%20the%20Navy%20and%20Air%20Force%20annual%20plan%20and%20certification.md)
+- [&sect; 00231 - Budgeting for construction of naval vessels annual plan and certification](%C2%A7%2000231%20-%20Budgeting%20for%20construction%20of%20naval%20vessels%20annual%20plan%20and%20certification.md)
+- [&sect; 00231a - Budgeting for life-cycle cost of aircraft for the Navy, Army, and Air Force annual plan and certification](%C2%A7%2000231a%20-%20Budgeting%20for%20life-cycle%20cost%20of%20aircraft%20for%20the%20Navy%2C%20Army%2C%20and%20Air%20Force%20annual%20plan%20and%20certification.md)
 - [&sect; 00232 - United States Joint Forces Command amounts for research, development, test, and evaluation to be derived only from Defense-wide amounts](%C2%A7%2000232%20-%20United%20States%20Joint%20Forces%20Command%20amounts%20for%20research%2C%20development%2C%20test%2C%20and%20evaluation%20to%20be%20derived%20only%20from%20Defense-wide%20amounts.md)
 - [&sect; 00233 - Operation and maintenance budget presentation](%C2%A7%2000233%20-%20Operation%20and%20maintenance%20budget%20presentation.md)
 - [&sect; 00234 - POW-MIA activities display of budget information](%C2%A7%2000234%20-%20POW-MIA%20activities%20display%20of%20budget%20information.md)

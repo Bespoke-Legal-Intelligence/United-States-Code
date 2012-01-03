@@ -48,7 +48,7 @@ Additional Requirements.—
 
 &emsp;(1)
 
-When questioned costs may be resolved.—The Federal Acquisition Regulationshall require that a contracting officer not resolve any questioned costs until the contracting officer has obtained—
+When questioned costs may be resolved.—The Federal Acquisition Regulation shall require that a contracting officer not resolve any questioned costs until the contracting officer has obtained—
 
 &emsp;&emsp;(A) adequate documentation of those costs; and
 

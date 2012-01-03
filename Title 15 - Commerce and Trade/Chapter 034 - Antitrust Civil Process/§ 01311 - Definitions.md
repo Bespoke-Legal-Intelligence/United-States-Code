@@ -68,7 +68,7 @@ Section 1 of Pub. L. 96–349 provided: “That this Act \[amending sections 15,
 
 #### Short Title
 
-Section 1 of Pub. L. 87–664 provided: “That this Act \[enacting this chapter and amending section 1505 ofTitle 18, Crimes and Criminal Procedure\] may be cited as the ‘Antitrust Civil Process Act’.”
+Section 1 of Pub. L. 87–664 provided: “That this Act \[enacting this chapter and amending section 1505 of Title 18, Crimes and Criminal Procedure\] may be cited as the ‘Antitrust Civil Process Act’.”
 
 #### Savings Provision
 

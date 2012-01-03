@@ -58,7 +58,7 @@ In subsections (a) and (c)(2), the word “American” is omitted as unnecessary
 
 In subsection (a), the words “or shall hereafter serve” are omitted as obsolete.
 
-In subsection (b), the words “Secretatry \[sic\] of Veterans Affairs” are substituted for “Department of Defense”, and the words “the National Cemetery System, as described in section 2400(b) of title 38” are substituted for “cemeteries within the United States, its Territories and possessions”, because of section 6 of the National Cemeteries Act of 1973 (Public Law 93-43, 38 U.S.C. 2404 note), which transferred jurisdiction over and responsibility for the national cemeteries (with certain exceptions) from the Secretary of the Army to the Administrator of Veterans’ Affairs.
+In subsection (b), the words “Secretatry \[sic\] of Veterans Affairs” are substituted for “Department of Defense”, and the words “the National Cemetery System, as described in section 2400(b) of title 38” are substituted for “cemeteries within the United States, its Territories and possessions”, because of section 6 of the National Cemeteries Act of 1973 (Public Law 93-43, 38 U.S.C. 2404 note), which transferred jurisdiction over and responsibility for the national cemeteries (withcertain exceptions) from the Secretary of the Army to the Administrator of Veterans’ Affairs.
 
 In subsection (c)(2), the words “duties and powers” are substituted for “functions” for consistency in the revised title and with other titles of the United States Code.
 

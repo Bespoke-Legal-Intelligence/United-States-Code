@@ -6,7 +6,7 @@
 
 (c) Applications for entry on such roll shall be made in the form and under regulations prescribed by the Secretary concerned, and shall indicate whether or not the applicant desires to receive the special pension provided by section 1562 of this title. Proper blanks and instructions shall be furnished by the Secretary concerned, without charge upon the request of any person claiming the benefits of this subchapter.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1139, §560; Pub. L. 87–138, §1, Aug. 14, 1961, 75 Stat. 338; Pub.L. 88–77, §5(1), July 25, 1963, 77 Stat. 95; Pub. L. 88–651, Oct. 13, 1964, 78 Stat. 1078; Pub. L. 89–311, §4, Oct. 31, 1965, 79 Stat. 1156; Pub. L. 91–24, §5, June 11, 1969, 83 Stat. 33; Pub. L. 94–169, title I, §106(41), Dec. 23, 1975, 89 Stat. 1019; renumbered §1560 and amended Pub. L. 102–83, §§4(b)(4)(A), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 405, 406; Pub. L. 107–296, title XVII, §1704(d), Nov. 25, 2002, 116 Stat. 2315.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1139, §560; Pub. L. 87–138, §1, Aug. 14, 1961, 75 Stat. 338; Pub. L. 88–77, §5(1), July 25, 1963, 77 Stat. 95; Pub. L. 88–651, Oct. 13, 1964, 78 Stat. 1078; Pub. L. 89–311, §4, Oct. 31, 1965, 79 Stat. 1156; Pub. L. 91–24, §5, June 11, 1969, 83 Stat. 33; Pub. L. 94–169, title I, §106(41), Dec. 23, 1975, 89 Stat. 1019; renumbered §1560 and amended Pub. L. 102–83, §§4(b)(4)(A), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 405, 406; Pub. L. 107–296, title XVII, §1704(d), Nov. 25, 2002, 116 Stat. 2315.)
 
 #### Amendments
 

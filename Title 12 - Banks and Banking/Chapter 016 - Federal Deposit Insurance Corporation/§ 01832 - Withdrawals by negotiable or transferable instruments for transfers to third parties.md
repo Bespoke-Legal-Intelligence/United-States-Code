@@ -38,21 +38,21 @@ Section was not enacted as part of the Federal Deposit Insurance Act which compr
 
 #### Amendments
 
-1987—Subsec. (a)(2). Pub. L. 100–86 inserted “political,” after “educational,”.
+<b>1987</b>—Subsec. (a)(2). Pub. L. 100–86 inserted “political,” after “educational,”.
 
-1982—Subsec. (a)(2). Pub. L. 97–320 inserted provisions relating to deposits of public funds.
+<b>1982</b>—Subsec. (a)(2). Pub. L. 97–320 inserted provisions relating to deposits of public funds.
 
-1980—Subsec. (a). Pub. L. 96–221 designated existing provisions as par. (1) inserted provisions expanding authorization for withdrawals from selected States to the entire United States, and added par. (2).
+<b>1980</b>—Subsec. (a). Pub. L. 96–221 designated existing provisions as par. (1) inserted provisions expanding authorization for withdrawals from selected States to the entire United States, and added par. (2).
 
-1979—Subsec. (a). Pub. L. 96–161 inserted “New Jersey,” after “New York,”.
+<b>1979</b>—Subsec. (a). Pub. L. 96–161 inserted “New Jersey,” after “New York,”.
 
-1978—Subsec. (a). Pub. L. 95–630 inserted “New York,” after “Vermont,”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–630 inserted “New York,” after “Vermont,”.
 
-1976—Subsec. (a). Pub. L. 94–222 authorized withdrawals by negotiable or transferable instruments in the States of Connecticut, Rhode Island, Maine, and Vermont.
+<b>1976</b>—Subsec. (a). Pub. L. 94–222 authorized withdrawals by negotiable or transferable instruments in the States of Connecticut, Rhode Island, Maine, and Vermont.
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–221 effective Dec. 31, 1980, see section 306 of Pub. L. 96–221, set out as a note under section 371a of this title.
+Amendment by Pub. L. 96–221 effective Dec. 31, 1980, see section 306 of Pub. L. 96–221, set out as a note under section 1464 of this title.
 
 #### Effective Date of 1978
 

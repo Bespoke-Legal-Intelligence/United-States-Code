@@ -36,7 +36,7 @@ In making available the assistance authorized by section 1483 of this title and 
 
 #### (3) Information
 
-&emsp;In administering this subsection, the Secretary shall use information from the most recent decennial census of the United States, relevant comprehensive affordable housing strategies under section 12705 of this title, and other reliable sources obtained by the Secretary which demonstrate the need for affordable housing in rural areas.
+&emsp;In administering this subsection, the Secretary shall use information from the most recent decennial census of the United States, relevant comprehensive affordable housing strategies under section 12705 of this title, andother reliable sources obtained by the Secretary which demonstrate the need for affordable housing in rural areas.
 
 #### (4) Designation
 

@@ -34,7 +34,7 @@
 
 &emsp;(3) chapter 171 of title 28.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 491; Pub. L. 90–83, §1(33), Sept. 11, 1967, 81 Stat. 201; Pub. L. 102–190, div. A, title X, §1063(a), Dec. 5, 1991, 105Stat. 1476; Pub. L. 104–316, title II, §202(a), Oct. 19, 1996, 110 Stat. 3842.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 491; Pub. L. 90–83, §1(33), Sept. 11, 1967, 81 Stat. 201; Pub. L. 102–190, div. A, title X, §1063(a), Dec. 5, 1991, 105 Stat. 1476; Pub. L. 104–316, title II, §202(a), Oct. 19, 1996, 110 Stat. 3842.)
 
 Historical and Revision Notes<br>1966
 
@@ -152,7 +152,7 @@ Only that portion of the source law applicable to civilian officers and employee
 
 #### Amendments
 
-1996—Subsec. (h). Pub. L. 104–316 substituted “Administrator of General Services” for “General Accounting Office” wherever appearing.
+<b>1996</b>—Subsec. (h). Pub. L. 104–316 substituted “Administrator of General Services” for “General Accounting Office” wherever appearing.
 
-1991—Subsec. (i)(1). Pub. L. 102–190 substituted “6522, or 9712” for “4713, 6522, 9712, or 9713”.
+<b>1991</b>—Subsec. (i)(1). Pub. L. 102–190 substituted “6522, or 9712” for “4713, 6522, 9712, or 9713”.
 

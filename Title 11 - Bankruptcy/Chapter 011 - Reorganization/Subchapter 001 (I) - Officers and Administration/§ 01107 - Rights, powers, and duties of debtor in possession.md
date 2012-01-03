@@ -8,7 +8,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 The House amendment adopts section 1107(b) of the Senate amendment which clarifies a point not covered by the House bill.
 
@@ -18,7 +18,7 @@ This section places a debtor in possession in the shoes of a trustee in every wa
 
 #### Amendments
 
-1984—Subsec. (a). Pub. L. 98–353 substituted “on a trustee serving in a case” for “on a trustee”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–353 substituted “on a trustee serving in a case” for “on a trustee”.
 
 #### Effective Date of 1984 Amendment
 

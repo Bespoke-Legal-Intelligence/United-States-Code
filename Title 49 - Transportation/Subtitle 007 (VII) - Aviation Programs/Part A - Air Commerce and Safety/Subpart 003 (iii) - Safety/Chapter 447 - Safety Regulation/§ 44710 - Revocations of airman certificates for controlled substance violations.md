@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—In this section, “controlled substance” has the same meaning given that term in section 102 of the Comprehensive DrugAbuse Prevention and Control Act of 1970 (21 U.S.C. 802).
+Definition.—In this section, “controlled substance” has the same meaning given that term in section 102 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 802).
 
 (b)
 

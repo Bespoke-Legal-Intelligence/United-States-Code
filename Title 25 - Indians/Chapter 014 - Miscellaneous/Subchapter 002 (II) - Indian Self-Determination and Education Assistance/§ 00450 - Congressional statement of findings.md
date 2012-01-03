@@ -2,7 +2,7 @@
 
 #### (a) Findings respecting historical and special legal relationship, and resultant responsibilities
 
-The Congress, after careful review of the Federal Government's historical and special legalrelationship with, and resulting responsibilities to, American Indian people, finds that—
+The Congress, after careful review of the Federal Government's historical and special legal relationship with, and resulting responsibilities to, American Indian people, finds that—
 
 &emsp;(1) the prolonged Federal domination of Indian service programs has served to retard rather than enhance the progress of Indian people and their communities by depriving Indians of the full opportunity to develop leadership skills crucial to the realization of self-government, and has denied to the Indian people an effective voice in the planning and implementation of programs for the benefit of Indians which are responsive to the true needs of Indian communities; and
 
@@ -66,7 +66,7 @@ Pub. L. 100–472, title II, §211, Oct. 5, 1988, 102 Stat. 2298, provided that:
 
 #### Consultation With Alaska Native Corporations
 
-Pub. L. 108–199, div. H, §161, Jan. 23, 2004, 118 Stat. 452, as amended by Pub. L. 108–447, div. H, title V, §518, Dec. 8, 2004, 118 Stat. 3267, provided that: “The Director ofthe Office of Management and Budget and all Federal agencies shall hereafter consult with Alaska Native corporations on the same basis as Indian tribes under Executive Order No. 13175 \[set out below\].”
+Pub. L. 108–199, div. H, §161, Jan. 23, 2004, 118 Stat. 452, as amended by Pub. L. 108–447, div. H, title V, §518, Dec. 8, 2004, 118 Stat. 3267, provided that: “The Director of the Office of Management and Budget and all Federal agencies shall hereafter consult with Alaska Native corporations on the same basis as Indian tribes under Executive Order No. 13175 \[set out below\].”
 
 #### Executive Order No. 13084
 
@@ -130,7 +130,7 @@ Sec. 5. <i>Consultation</i>. (a) Each agency shall have an accountable process t
 
 (1) consulted with tribal officials early in the process of developing the proposed regulation;
 
-(2) in a separately identified portion of the preamble to the regulation as it is to be issued in the Federal Register, provides to the Director of OMB a tribal summary impact statement, which consists of a description of the extent of the agency's prior consultation with tribal officials, a summary of the nature of their concerns and the agency's position supporting the need toissue the regulation, and a statement of the extent to which the concerns of tribal officials have been met; and
+(2) in a separately identified portion of the preamble to the regulation as it is to be issued in the Federal Register, provides to the Director of OMB a tribal summary impact statement, which consists of a description of the extent of the agency's prior consultation with tribal officials, a summary of the nature of their concerns and the agency's position supporting the need to issue the regulation, and a statement of the extent to which the concerns of tribal officials have been met; and
 
 (3) makes available to the Director of OMB any written communications submitted to the agency by tribal officials.
 

@@ -50,13 +50,13 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1996—Subsec. (b). Pub. L. 104–186 substituted “Chief Administrative Officer of the House of Representatives, the Chief Administrative Officer may contribute the sum required by subsection (a) of this section from the applicable accounts of the House of Representatives.” for “Clerk of the House of Representatives, the Clerk may contribute the sum required by subsection (a) of this section from the contingent fund of the House.”
+<b>1996</b>—Subsec. (b). Pub. L. 104–186 substituted “Chief Administrative Officer of the House of Representatives, the Chief Administrative Officer may contribute the sum required by subsection (a) of this section from the applicable accounts of the House of Representatives.” for “Clerk of the House of Representatives, the Clerk may contribute the sum required by subsection (a) of this section from the contingent fund of the House.”
 
-1990—Subsec. (d). Pub. L. 101–303 added subsec. (d).
+<b>1990</b>—Subsec. (d). Pub. L. 101–303 added subsec. (d).
 
-1978—Subsec. (a). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
 
-1967—Subsec. (a). Pub. L. 90–206 substituted provisions setting the sum to be withheld at one-half the amount withheld from the pay of the employee under section 8707 of this title for provisions setting the sum to be withheld at a rate to be determined by the Commission not to exceed one-half of the amount withheld under section 8707 of this title.
+<b>1967</b>—Subsec. (a). Pub. L. 90–206 substituted provisions setting the sum to be withheld at one-half the amount withheld from the pay of the employee under section 8707 of this title for provisions setting the sum to be withheld at a rate to be determined by the Commission not to exceed one-half of the amount withheld under section 8707 of this title.
 
 #### Effective Date of 1978 Amendment
 

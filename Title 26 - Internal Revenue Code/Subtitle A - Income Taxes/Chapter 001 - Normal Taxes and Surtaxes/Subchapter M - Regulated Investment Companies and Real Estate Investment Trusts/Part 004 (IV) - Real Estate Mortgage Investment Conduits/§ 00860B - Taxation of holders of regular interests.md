@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-In determining the tax under this chapter of any holder of a regular interest in a REMIC, such interest (if not otherwise a debt instrument) shall be treated as a debt instrument.
+In determining the tax under this chapter of any holder of a regular interest in a REMIC,such interest (if not otherwise a debt instrument) shall be treated as a debt instrument.
 
 #### (b) Holders must use accrual method
 

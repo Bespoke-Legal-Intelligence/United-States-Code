@@ -4,7 +4,7 @@
 
 The Congress finds that—
 
-&emsp;(1) the protection of public health and welfare, the preservation of national security, andthe regulation of interstate commerce require the establishment of a program for the expended <sup>1</sup> use, consistent with applicable environmental requirements, of coal and other alternate fuels as primary energy sources for existing and new electric powerplants; and
+&emsp;(1) the protection of public health and welfare, the preservation of national security, and the regulation of interstate commerce require the establishment of a program for the expended <sup>1</sup> use, consistent with applicable environmental requirements, of coal and other alternate fuels as primary energy sources for existing and new electric powerplants; and
 
 &emsp;(2) the purposes of this chapter are furthered in cases in which coal or other alternate fuels are used by electric powerplants, consistent with applicable environmental requirements, as primary energy sources in lieu of natural gas or petroleum.
 
@@ -12,7 +12,7 @@ The Congress finds that—
 
 The purpose <sup>2</sup> of this chapter, which shall be carried out in a manner consistent with applicable environmental requirements, are—
 
-&emsp;(1) to reduce the importation of petroleum and increase the Nation's capability to use indigenous energy resources of the United States to the extent such reduction and use further the goal of national energy self-sufficiency and otherwise are in the best interests of the United States;
+&emsp;(1) to reduce the importation of petroleum and increase the Nation's capability to use indigenous energy resources of the UnitedStates to the extent such reduction and use further the goal of national energy self-sufficiency and otherwise are in the best interests of the United States;
 
 &emsp;(2) to encourage and foster the greater use of coal and other alternate fuels, in lieu of natural gas and petroleum, as a primary energy source;
 
@@ -72,7 +72,7 @@ Exemptions in the Case of Certain Powerplants.—In the case of—
 
 &emsp;“(2) any electric powerplant (A) consisting of one or more combined cycle units owned or operated by an electric utility which serves at least 2,000,000 customers and (B) for which an application has been filed for at least one year before the date of the enactment of this Act \[Nov. 9, 1978\] with the appropriate State agency for authorization to construct such powerplant,
 
-> the Secretary may receive, consider, and grant (or deny) any petition for an exemption under title II or III \[subchapters II and III of this chapter\] notwithstanding section 901 \[section 901 of Pub. L. 95–620, set out as anote above\] or the fact that all rules related to such petition have not been prescribed at the time.
+> the Secretary may receive, consider, and grant (or deny) any petition for an exemption under title II or III \[subchapters II and III of this chapter\] notwithstanding section 901 \[section 901 of Pub. L. 95–620, set out as a note above\] or the fact that all rules related to such petition have not been prescribed at the time.
 
 “(b)
 

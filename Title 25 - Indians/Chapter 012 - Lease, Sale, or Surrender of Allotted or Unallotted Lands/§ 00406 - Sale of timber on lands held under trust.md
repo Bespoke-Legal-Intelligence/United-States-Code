@@ -32,5 +32,5 @@ This Act, referred to in subsec. (d), is act June 25, 1910, ch. 431, 36 Stat. 85
 
 #### Amendments
 
-<b>1964</b>—Pub. L. 88–301 designated existing provisions as subsec. (a), substituted “land” for “allotment”, “owner or owners” for “allottee” in two places, and “their benefit” for “his benefit”, and provided for deductions for administrative expenses from proceeds of sales without violation of treaty obligations or Constitutional compensation provision, for consideration of needs and best interests of owners and heirs, and for standards guiding sales, and added subsecs. (b) to (f).
+<b>1964</b>—Pub. L. 88–301 designated existing provisions as subsec. (a), substituted “land” for “allotment”, “owner or owners” for “allottee” in two places, and “their benefit” for “his benefit”, and provided for deductions foradministrative expenses from proceeds of sales without violation of treaty obligations or Constitutional compensation provision, for consideration of needs and best interests of owners and heirs, and for standards guiding sales, and added subsecs. (b) to (f).
 

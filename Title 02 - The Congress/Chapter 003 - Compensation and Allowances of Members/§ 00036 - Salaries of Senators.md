@@ -16,11 +16,11 @@ R.S. §51.
 
 #### Amendments
 
-1935—Act Feb. 13, 1935, inserted proviso as to commencement of salaries of Senators elected during a sine die adjournment on day following their election and provision as to commencement of salaries of Senators elected during a session to succeed appointees on day they qualify but that upon failure to qualify their salaries are to commence on day following sine die adjournment of Senate and struck out provision that salaries of Senators elected to fill vacancies are to commence on day they qualify.
+<b>1935</b>—Act Feb. 13, 1935, inserted proviso as to commencement of salaries of Senators elected during a sine die adjournment on day following their election and provision as to commencement of salaries of Senators elected during a session to succeed appointees on day they qualify but that upon failure to qualify their salaries are to commence on day following sine die adjournment of Senate and struck out provision that salaries of Senators elected to fill vacancies are to commence on day they qualify.
 
-1934—Act June 19, 1934, made nonsubstantive changes in grammar and punctuation.
+<b>1934</b>—Act June 19, 1934, made nonsubstantive changes in grammar and punctuation.
 
-1931—Act Feb. 6, 1931, made nonsubstantive changes in grammar and punctuation and struck out “to fill such vacancies” after “When no appointments have been made”.
+<b>1931</b>—Act Feb. 6, 1931, made nonsubstantive changes in grammar and punctuation and struck out “to fill such vacancies” after “When no appointments have been made”.
 
 #### Constitutional Provisions
 

@@ -6,7 +6,7 @@ Subject to subsection (b)(2), the Director—
 
 &emsp;(1) shall encourage the development and, subject to the availability of appropriations, the implementation of fish and wildlife restoration proposals and regional projects based on the results of the Report; and
 
-&emsp;(2) in cooperation with the State Directors and Indian Tribes, shall identify, develop, and, subject to the availability of appropriations, implement regional projects in the Great Lakes Basin to be administered by Director in accordance with this section.
+&emsp;(2) in cooperation with the State Directors and Indian Tribes, shall identify, develop, and,subject to the availability of appropriations, implement regional projects in the Great Lakes Basin to be administered by Director in accordance with this section.
 
 #### (b) Identification of proposals and regional projects
 
@@ -114,7 +114,7 @@ Subject to subsection (b)(2), the Director—
 
 The Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990, referred to in subsec. (b)(2)(B)(iv), is title I of Pub. L. 101–646, Nov. 29, 1990, 104 Stat. 4761, which is classified principally to chapter 67 (§4701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4701 of this title and Tables.
 
-Executive Order 13340, referred to in subsec. (b)(2)(B)(vi), is Ex. Ord. No. 13340, May 18, 2004, 69 F.R.29043, which is set out as a note under section 1268 of Title 33, Navigation and Navigable Waters.
+Executive Order 13340, referred to in subsec. (b)(2)(B)(vi), is Ex. Ord. No. 13340, May 18, 2004, 69 F.R. 29043, which is set out as a note under section 1268 of Title 33, Navigation and Navigable Waters.
 
 The Indian Self-Determination and Education Assistance Act, referred to in subsec. (e)(4), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
 

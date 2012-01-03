@@ -6,7 +6,7 @@ Agreements.—
 
 &emsp;(1)
 
-Authority to enter.—A motor carrier providing transportation or service subject tojurisdiction under chapter 135 may enter into an agreement with one or more such carriers to establish—
+Authority to enter.—A motor carrier providing transportation or service subject to jurisdiction under chapter 135 may enter into an agreement with one or more such carriers to establish—
 
 &emsp;&emsp;(A) through routes and joint rates;
 
@@ -124,7 +124,7 @@ In general.—A motor carrier of property whose routes, rates, classifications, 
 
 &emsp;&emsp;&emsp;(ii)
 
-Power of attorney.—The motor carrier of property shall issue a power of attorney to the publishing agent and, upon its acceptance, the agent shall issue a written certification to the motor carrieraffirming its participation in the governing publication, and the certification shall be made available for public inspection.
+Power of attorney.—The motor carrier of property shall issue a power of attorney to the publishing agent and, upon its acceptance, the agent shall issue a written certification to the motor carrier affirming its participation in the governing publication, and the certification shall be made available for public inspection.
 
 &emsp;(2)
 

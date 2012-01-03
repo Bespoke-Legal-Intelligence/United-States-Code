@@ -26,9 +26,9 @@ Similar provisions relating to authority to transfer funds for emergency arrest 
 
 #### Amendments
 
-2008—Subsec. (c). Pub. L. 110–246, §10203(b), struck out “of longer than 60 days” after “review”.
+<b>2008</b>—Subsec. (c). Pub. L. 110–246, §10203(b), struck out “of longer than 60 days” after “review”.
 
-2002—Subsec. (c). Pub. L. 107–171 added subsec. (c).
+<b>2002</b>—Subsec. (c). Pub. L. 107–171 added subsec. (c).
 
 #### Effective Date of 2008 Amendment
 

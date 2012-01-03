@@ -138,7 +138,7 @@
 
 &emsp;&emsp;(ii) The date on which such dependent attains 23 years of age.
 
-(3) For the purposes of paragraph (2)(C), a dependent shall be treated as being enrolled in a full-time course of study in an institution of higher education during any reasonable periodof transition between the dependent's completion of a full-time course of study in a secondary school and the commencement of an enrollment in a full-time course of study in an institution of higher education, as determined by the administering Secretary.
+(3) For the purposes of paragraph (2)(C), a dependent shall be treated as being enrolled in a full-time course of study in an institution of higher education during any reasonable period of transition between the dependent's completion of a full-time course of study in a secondary school and the commencement of an enrollment in a full-time course of study in an institution of higher education, as determined by the administering Secretary.
 
 (4) The terms and conditions under which health benefits are provided under this chapter to a dependent of a deceased member under paragraph (2) shall be the same as those that would apply to the dependent under this chapter if the member were living and serving on active duty for a period of more than 30 days.
 
@@ -172,7 +172,7 @@
 
 &emsp;(C) provided pursuant to a waiver authorized by the Secretary of Defense because of medical or psychological circumstances of the patient that are confirmed by a health professional who is not a Federal employee after a review, pursuant to rules prescribed by the Secretary, which takes into account the appropriate level of care for the patient, the intensity of services required by the patient, and the availability of that care.
 
-(2) Notwithstanding subsection (b) or section 1086(b) of this title, the Secretary of Defense (after consulting with the other administeringSecretaries) may prescribe separate payment requirements (including deductibles, copayments, and catastrophic limits) for the provision of mental health services to persons covered by this section or section 1086 of this title. The payment requirements may vary for different categories of covered beneficiaries, by type of mental health service provided, and based on the location of the covered beneficiaries.
+(2) Notwithstanding subsection (b) or section 1086(b) of this title, the Secretary of Defense (after consulting with the other administering Secretaries) may prescribe separate payment requirements (including deductibles, copayments, and catastrophic limits) for the provision of mental health services to persons covered by this section or section 1086 of this title. The payment requirements may vary for different categories of covered beneficiaries, by type of mental health service provided, and based on the location of the covered beneficiaries.
 
 (3)(A) Except as provided in subparagraph (B), the Secretary of Defense shall require preadmission authorization before inpatient mental health services may be provided to persons covered by this section or section 1086 of this title. In the case of the provision of emergency inpatient mental health services, approval for the continuation of such services shall be required within 72 hours after admission.
 
@@ -214,7 +214,7 @@
 
 (n) The Secretary of Defense may enter into contracts (or amend existing contracts) with fiscal intermediaries under which the intermediaries agree to organize and operate, directly or through subcontractors, managed health care networks for the provision of health care under this chapter. The managed health care networks shall include cost containment methods, such as utilization review and contracting for care on a discounted basis.
 
-(<i>o</i>)(1) Health care services provided pursuant to this section or section 1086 of this title (or pursuant to any other contract or project underthe Civilian Health and Medical Program of the Uniformed Services) may not include services determined under the CHAMPUS Peer Review Organization program to be not medically or psychologically necessary.
+(<i>o</i>)(1) Health care services provided pursuant to this section or section 1086 of this title (or pursuant to any other contract or project under the Civilian Health and Medical Program of the Uniformed Services) may not include services determined under the CHAMPUS Peer Review Organization program to be not medically or psychologically necessary.
 
 (2) The Secretary of Defense, after consulting with the other administering Secretaries, may adopt or adapt for use under the CHAMPUS Peer Review Organization program, as the Secretary considers appropriate, any of the quality and utilization review requirements and procedures that are used by the Peer Review Organization program under part B of title XI of the Social Security Act (42 U.S.C. 1320c et seq.).
 
@@ -264,7 +264,7 @@ Historical and Revision Notes
 
 June 7, 1956, ch. 374, §§102(a)(2) (as applicable to §201(a)), 201(a), (b), 204, 70 Stat. 250, 252, 253.
 
-In subsection (a), the words “appointed, enlisted, inducted or called, ordered or conscripted in a uniformed service”, in 37:402(a)(2) are omitted as surplusage, sinceit does not matter how a member became a member. The words “active duty for a period of more than 30 days” are substituted for the words “active duty or active duty for training pursuant to a call or order that does not specify a period of thirty days or less”, in 37:402(a)(2), to reflect section 101(22) and (23) of this title. The words “, under the authority of this section,” are substituted for the words “pursuant to the provisions of this title” to make clear that the section provides independent procurement authority. The words “all”, “by the hospital”, and “a period of”, in 37:411(a), are omitted as surplusage.
+In subsection (a), the words “appointed, enlisted, inducted or called, ordered or conscripted in a uniformed service”, in 37:402(a)(2) are omitted as surplusage, since it does not matter how a member became a member. The words “active duty for a period of more than 30 days” are substituted for the words “active duty or active duty for training pursuant to a call or order that does not specify a period of thirty days or less”, in 37:402(a)(2), to reflect section 101(22) and (23) of this title. The words “, under the authority of this section,” are substituted for the words “pursuant to the provisions of this title” to make clear that the section provides independent procurement authority. The words “all”, “by the hospital”, and “a period of”, in 37:411(a), are omitted as surplusage.
 
 In subsection (a)(1), the word “rooms”, in 37:411(a), is substituted for the word “accommodations”.
 
@@ -616,7 +616,7 @@ Section 701(b) of Pub. L. 101–510 provided that: “The amendment made by subs
 
 Section 702(b) of Pub. L. 101–510 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to the services of certified marriage and family therapists provided under section 1079 or 1086 of title 10, United States Code, on or after the date of the enactment of this Act \[Nov. 5, 1990\].”
 
-Section 703(d) of Pub. L. 101–510, as amended by Pub. L. 102–25, title III, §316(a)(1), Apr. 6, 1991, 105 Stat. 87, provided that: “This section and the amendments madeby this section \[amending this section\] shall take effect on October 1, 1991, and shall apply with respect to mental health services provided under section 1079 or 1086 of title 10, United States Code, on or after that date.”
+Section 703(d) of Pub. L. 101–510, as amended by Pub. L. 102–25, title III, §316(a)(1), Apr. 6, 1991, 105 Stat. 87, provided that: “This section and the amendments made by this section \[amending this section\] shall take effect on October 1, 1991, and shall apply with respect to mental health services provided under section 1079 or 1086 of title 10, United States Code, on or after that date.”
 
 Section 712(c) of Pub. L. 101–510 provided that: “The amendments made by this section \[amending this section and section 1086 of this title\] shall apply with respect to health care provided under sections 1079 and 1086 of title 10, United States Code, on or after April 1, 1991.”
 
@@ -626,7 +626,7 @@ Section 730(b) of Pub. L. 101–189 provided that: “The amendment made by subs
 
 #### Effective Date of 1988 Amendment
 
-Section 646(c) of Pub. L. 100–456 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1086 of this title\] shall apply with respect to medical care received after September 30, 1988.”
+Section 646(c) of Pub. L. 100–456 provided that: “The amendments made by subsections (a) and (b) \[amendingthis section and section 1086 of this title\] shall apply with respect to medical care received after September 30, 1988.”
 
 #### Effective Date of 1987 Amendment
 
@@ -804,5 +804,5 @@ Pub. L. 102–25, title III, §312, Apr. 6, 1991, 105 Stat. 85, provided that th
 
 #### Transitional Health Care for Members, or Dependents of Members, Upon Release of Member From Active Duty in Connection With Operation Desert Storm
 
-For provision authorizing transitional health care, including health benefits contracted for under subsec.\(a) of this section, for members, or dependents of members, upon release of member from active duty in connection with Operation Desert Storm, see section 313 of Pub. L. 102–25, set out as a note under section 1076 of this title.
+For provision authorizing transitional health care, including health benefits contracted for under subsec. (a) of this section, for members, or dependents of members, upon release of member from active duty in connection with Operation Desert Storm, see section 313 of Pub. L. 102–25, set out as a note under section 1076 of this title.
 

@@ -44,7 +44,7 @@ Six of the members of the Committee shall constitute a quorum. All decisions of 
 
 #### (f) Reports by Committee
 
-(1) The Commitee <sup>1</sup> shall, with respect to each request of a State Party referred to in section 2602(a) of this title, undertake an investigation and review with respect to matters referred to in section 2602(a)(1) of this title as they relate to the State Party or the request and shall prepare a report setting forth—
+(1) The Commitee <sup>1</sup> shall, with respect to each request of a State Party referred to in section2602(a) of this title, undertake an investigation and review with respect to matters referred to in section 2602(a)(1) of this title as they relate to the State Party or the request and shall prepare a report setting forth—
 
 &emsp;(A) the results of such investigation and review;
 
@@ -102,7 +102,7 @@ The provisions of the Federal Advisory Committee Act (Public Law 92–463; 5 U.S
 
 #### (2) Governmental information
 
-&emsp;Information submitted in confidence by officers or employees of the United States to the Committee shall not be disclosed other than in accordance with rules issued by the Director of the United States Information Agency, after consultation with the Committee. Such rules shall define the categories of information which require restricted or confidential handling by such Committee considering the extent to which public disclosure of such information can reasonably be expected to prejudice the interests of the United States. Such rules shall, to the maximum extent feasible, permit meaningful consultations by Committee members with persons affected by proposed agreements authorized by this chapter.
+&emsp;Information submitted in confidence by officers or employees of the United States to the Committee shall not be disclosed other than in accordance with rules issued by the Director of the United States Information Agency, after consultation with the Committee. Such rules shall define the categories of information which require restricted or confidential handling by such Committee considering the extent to which public disclosure of such information can reasonably be expected to prejudice the interests of the United States. Suchrules shall, to the maximum extent feasible, permit meaningful consultations by Committee members with persons affected by proposed agreements authorized by this chapter.
 
 #### (j) No authority to negotiate
 

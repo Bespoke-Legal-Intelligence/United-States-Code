@@ -28,7 +28,7 @@ The Director shall make grants under subsection (a) of this section to support o
 
 &emsp;(4) Programs that establish and support mentoring programs for low-income youth, including mentoring programs that match such youth with mentors and match such youth with employment and training programs, including apprenticeship programs.
 
-&emsp;(5) Programs that provide adult and school-based literacy assistance, including literacyprograms that serve youth, and adults, with limited English proficiency.
+&emsp;(5) Programs that provide adult and school-based literacy assistance, including literacy programs that serve youth, and adults, with limited English proficiency.
 
 &emsp;(6) Programs that provide respite care, including care for elderly individuals and for children and individuals with disabilities or chronic illnesses who are living at home.
 
@@ -60,7 +60,7 @@ The Director shall make grants under subsection (a) of this section to support o
 
 #### (d) Amount of funds available for grants
 
-(1) Except as provided in paragraph (2), from the amounts appropriated under subsection (a), (b), (c), or (d) of section 5082 of this title, for each fiscal year there shall be available to the Director such sums as may be necessary to make grants under subsection (a) of this section.
+(1) Except as provided in paragraph (2), from the amounts appropriated under subsection (a), (b), (c), or (d) of section 5082 of this title, for each fiscal year there shall be available to theDirector such sums as may be necessary to make grants under subsection (a) of this section.
 
 (2) No funds shall be available to the Director to make grants under subsection (a) of this section for a fiscal year unless the amounts appropriated under subsections (a), (b), and (c) of section 5082 of this title and available for such fiscal year to carry out parts A, B, and C (without regard to this section) are sufficient to maintain the number of projects and volunteers funded under parts A, B, and C, respectively, in the preceding fiscal year.
 

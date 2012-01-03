@@ -12,7 +12,7 @@ Section 1695, Pub. L. 97–300, title IV, §425, Oct. 13, 1982, 96 Stat. 1372; P
 
 Section 1696, Pub. L. 97–300, title IV, §426, Oct. 13, 1982, 96 Stat. 1372; Pub. L. 102–367, title IV, §402(b), Sept. 7, 1992, 106 Stat. 1076, related to enrollment and assignment. See section 2886 of this title.
 
-Section 1697, Pub. L. 97–300, title IV, §427, Oct. 13, 1982, 96 Stat. 1372; Pub. L. 98–524, §4(a)(4), Oct. 19, 1984,98 Stat. 2487; Pub. L. 102–367, title IV, §402(c), (d), Sept. 7, 1992, 106 Stat. 1076, 1077, related to Job Corps centers. See section 2887 of this title.
+Section 1697, Pub. L. 97–300, title IV, §427, Oct. 13, 1982, 96 Stat. 1372; Pub. L. 98–524, §4(a)(4), Oct. 19, 1984, 98 Stat. 2487; Pub. L. 102–367, title IV, §402(c), (d), Sept. 7, 1992, 106 Stat. 1076, 1077, related to Job Corps centers. See section 2887 of this title.
 
 Section 1698, Pub. L. 97–300, title IV, §428, Oct. 13, 1982, 96 Stat. 1373; Pub. L. 102–367, title IV, §402(e), Sept. 7, 1992, 106 Stat. 1077, related to program activities. See section 2888 of this title.
 

@@ -22,7 +22,7 @@ Notwithstanding the preceding provisions of this section, any State, county, or 
 
 #### References in Text
 
-The effective date of this subchapter, referred to in subsec. (d), is 15 days after Aug. 11, 1988, the effective date of section 101(a) of Pub. L. 100–387. See section 101(c) of Pub. L. 100–387, set out as a note under section 1427 of this title.
+The effective date of this subchapter, referred to in subsec. (d), is 15 days after Aug. 11, 1988, the effectivedate of section 101(a) of Pub. L. 100–387. See section 101(c) of Pub. L. 100–387, set out as a note under section 1427 of this title.
 
 #### Effective Date
 

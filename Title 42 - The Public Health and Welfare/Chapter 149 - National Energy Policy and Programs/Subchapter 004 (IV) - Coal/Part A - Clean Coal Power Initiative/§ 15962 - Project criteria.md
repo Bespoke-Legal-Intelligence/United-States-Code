@@ -170,7 +170,7 @@ In carrying out this part, the Secretary shall require cost sharing in accordanc
 
 #### (1) In general
 
-&emsp;In selecting a project for financial assistance under this section, the Secretary shall establish a reasonable period of time during which the owner or operator of the project shall complete the construction or demonstration phase of the project, as the Secretary determines to be appropriate.
+&emsp;In selecting a project for financial assistance under this section, the Secretary shall establish a reasonable period of time during whichthe owner or operator of the project shall complete the construction or demonstration phase of the project, as the Secretary determines to be appropriate.
 
 #### (2) Condition of financial assistance
 
@@ -200,7 +200,7 @@ For a period not exceeding 5 years after completion of the operations phase of a
 
 #### (i) Applicability
 
-No technology, or level of emission reduction, solely by reason of the use of the technology, orthe achievement of the emission reduction, by 1 or more facilities receiving assistance under this Act, shall be considered to be—
+No technology, or level of emission reduction, solely by reason of the use of the technology, or the achievement of the emission reduction, by 1 or more facilities receiving assistance under this Act, shall be considered to be—
 
 &emsp;(1) adequately demonstrated for purposes of section 7411 of this title;
 

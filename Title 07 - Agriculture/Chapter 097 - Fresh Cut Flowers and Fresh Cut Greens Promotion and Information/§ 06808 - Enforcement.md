@@ -30,11 +30,11 @@ A civil action brought under subsection (a) of this section shall be referred to
 
 #### (3) Notice and hearing
 
-&emsp;No penalty shall be assessed or cease and desist order issued by the Secretary under this subsection unless the Secretary gives the person against whom the penalty is assessed or the order is issued notice and opportunity for a hearing before the Secretary with respect tothe violation. Any such hearing shall be conducted in accordance with section 6809(b)(2) of this title and shall be held within the United States judicial district in which the residence or principal place of business of the person is located.
+&emsp;No penalty shall be assessed or cease and desist order issued by the Secretary under this subsection unless the Secretary gives the person against whom the penalty is assessed or the order is issued notice and opportunity for a hearing before the Secretary with respect to the violation. Any such hearing shall be conducted in accordance with section 6809(b)(2) of this title and shall be held within the United States judicial district in which the residence or principal place of business of the person is located.
 
 #### (4) Finality
 
-&emsp;The penalty assessed or cease and desist order issued under this subsection shall be final and conclusive unless the person against whom the penalty is assessed or the order is issued files an appeal with the appropriate district court of the United States in accordance with subsection (d) of this section.
+&emsp;The penalty assessed or cease and desist order issued under this subsection shall be final and conclusive unless the person against whom the penalty is assessed or the order isissued files an appeal with the appropriate district court of the United States in accordance with subsection (d) of this section.
 
 #### (d) Review by district court
 

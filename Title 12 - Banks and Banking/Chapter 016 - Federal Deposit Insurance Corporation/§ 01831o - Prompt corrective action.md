@@ -22,7 +22,7 @@ For purposes of this section:
 
 #### (B) Adequately capitalized
 
-&emsp;&emsp;An insured depository institution is “adequately capitalized” if it meets the requiredminimum level for each relevant capital measure.
+&emsp;&emsp;An insured depository institution is “adequately capitalized” if it meets the required minimum level for each relevant capital measure.
 
 #### (C) Undercapitalized
 
@@ -112,7 +112,7 @@ For purposes of this section:
 
 #### (2) Capital categories generally
 
-&emsp;Each appropriate Federal banking agency shall, by regulation, specify for each relevant capital measure the levels at which an insured depository institution is well capitalized, adequately capitalized, undercapitalized, and significantly undercapitalized.
+&emsp;Each appropriate Federal banking agency shall, by regulation, specify for each relevantcapital measure the levels at which an insured depository institution is well capitalized, adequately capitalized, undercapitalized, and significantly undercapitalized.
 
 #### (3) Critical capital
 
@@ -120,7 +120,7 @@ For purposes of this section:
 
 #### (i) Leverage limit
 
-&emsp;&emsp;&emsp;Each appropriate Federal banking agency shall, by regulation, in consultationwith the Corporation, specify the ratio of tangible equity to total assets at which an insured depository institution is critically undercapitalized.
+&emsp;&emsp;&emsp;Each appropriate Federal banking agency shall, by regulation, in consultation with the Corporation, specify the ratio of tangible equity to total assets at which an insured depository institution is critically undercapitalized.
 
 #### (ii) Other relevant capital measures
 
@@ -304,7 +304,7 @@ For purposes of this section:
 
 #### (ii) Retroactive restrictions prohibited
 
-&emsp;&emsp;&emsp;This subparagraph does not authorize the agency to restrict interest rates paidon time deposits made before (and not renewed or renegotiated after) the agency acted under this subparagraph.
+&emsp;&emsp;&emsp;This subparagraph does not authorize the agency to restrict interest rates paid on time deposits made before (and not renewed or renegotiated after) the agency acted under this subparagraph.
 
 #### (D) Restricting asset growth
 
@@ -492,7 +492,7 @@ Subsections (e) through (i) of this section (other than paragraph (3) of subsect
 
 &emsp;(2) to a bridge depository institution, none of the voting securities of which are owned by a person or agency other than the Corporation or the Resolution Trust Corporation.
 
-#### (k) Review required when Deposit Insurance Fund incurs material loss
+#### (k) Reviews required when Deposit Insurance Fund incurs losses
 
 #### (1) In general
 
@@ -530,13 +530,15 @@ Subsections (e) through (i) of this section (other than paragraph (3) of subsect
 
 &emsp;&emsp;&emsp;(ii) if the Corporation is appointed receiver of the institution, and it is or becomes apparent that the present value of the outlays of the Deposit Insurance Fund with respect to that institution will exceed the present value of receivership dividends or other payments on the claims held by the Corporation.
 
-#### (B) Material loss
+#### (B) Material loss defined
 
-&emsp;&emsp;A loss is material if it exceeds the greater of—
+&emsp;&emsp;The term “material loss” means any estimated loss in excess of—
 
-&emsp;&emsp;&emsp;(i) $25,000,000; or
+&emsp;&emsp;&emsp;(i) $200,000,000, if the loss occurs during the period beginning on January 1, 2010, and ending on December 31, 2011;
 
-&emsp;&emsp;&emsp;(ii) 2 percent of the institution's total assets at the time the Corporation initiated assistance under section 1823(c) of this title or was appointed receiver.
+&emsp;&emsp;&emsp;(ii) $150,000,000, if the loss occurs during the period beginning on January 1, 2012, and ending on December 31, 2013; and
+
+&emsp;&emsp;&emsp;(iii) $50,000,000, if the loss occurs on or after January 1, 2014, provided that if the inspector general of a Federal banking agency certifies to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives that the number of projected failures of depository institutions that would require material loss reviews for the following 12 months will be greater than 30 and would hinder the effectiveness of its oversight functions, then the definition of “material loss” shall be $75,000,000 for a duration of 1 year from the date of the certification.
 
 #### (3) Deadline for report
 
@@ -554,7 +556,7 @@ Subsections (e) through (i) of this section (other than paragraph (3) of subsect
 
 #### (A) In general
 
-&emsp;&emsp;The appropriate Federal banking agency shall disclose the report upon request under section 552 of title 5 without excising—
+&emsp;&emsp;The appropriate Federal banking agency shall disclose any report on losses required under this subsection, upon request under section 552 of title 5 without excising—
 
 &emsp;&emsp;&emsp;(i) any portion under section 552(b)(5) of that title; or
 
@@ -564,45 +566,37 @@ Subsections (e) through (i) of this section (other than paragraph (3) of subsect
 
 &emsp;&emsp;Subparagraph (A) does not require the agency to disclose the name of any customer of the insured depository institution (other than an institution-affiliated party), or information from which such a person's identity could reasonably be ascertained.
 
-#### (5) GAO review
+#### (5) Losses that are not material
+
+#### (A) Semiannual report
+
+&emsp;&emsp;For the 6-month period ending on March 31, 2010, and each 6-month period thereafter, the Inspector General of each Federal banking agency shall—
+
+&emsp;&emsp;&emsp;(i) identify losses that the Inspector General estimates have been incurred by the Deposit Insurance Fund during that 6-month period, with respect to the insured depository institutions supervised by the Federal banking agency;
+
+&emsp;&emsp;&emsp;(ii) for each loss incurred by the Deposit Insurance Fund that is not a material loss, determine—
+
+&emsp;&emsp;&emsp;&emsp;(I) the grounds identified by the Federal banking agency or State bank supervisor for appointing the Corporation as receiver under section 1821(c)(5) of this title; and
+
+&emsp;&emsp;&emsp;&emsp;(II) whether any unusual circumstances exist that might warrant an in-depth review of the loss; and
+
+&emsp;&emsp;&emsp;(iii) prepare and submit a written report to the appropriate Federal banking agency and to Congress on the results of any determination by the Inspector General, including—
+
+&emsp;&emsp;&emsp;&emsp;(I) an identification of any loss that warrants an in-depth review, together with the reasons why such review is warranted, or, if the Inspector General determines that no review is warranted, an explanation of such determination; and
+
+&emsp;&emsp;&emsp;&emsp;(II) for each loss identified under subclause (I) that warrants an in-depth review, the date by which such review, and a report on such review prepared in a manner consistent with reports under paragraph (1)(A), will be completed and submitted to the Federal banking agency and Congress.
+
+#### (B) Deadline for semiannual report
+
+&emsp;&emsp;The Inspector General of each Federal banking agency shall—
+
+&emsp;&emsp;&emsp;(i) submit each report required under paragraph (A) expeditiously, and not later than 90 days after the end of the 6-month period covered by the report; and
+
+&emsp;&emsp;&emsp;(ii) provide a copy of the report required under paragraph (A) to any Member of Congress, upon request.
+
+#### (6) GAO review
 
 &emsp;The Comptroller General of the United States shall, under such conditions as the Comptroller General determines to be appropriate, review reports made under paragraph (1) and recommend improvements in the supervision of insured depository institutions (including the implementation of this section).
-
-#### (6) Transition rule
-
-&emsp;During the period beginning on July 1, 1993, and ending on June 30, 1997, a loss incurred by the Corporation with respect to an insured depository institution—
-
-&emsp;&emsp;(A) with respect to which the Corporation initiates assistance under section 1823(c) of this title during the period in question, or
-
-&emsp;&emsp;(B) for which the Corporation was appointed receiver during the period in question,
-
-> &emsp;is material for purposes of this subsection only if that loss exceeds the greater of $25,000,000 or the applicable percentage of the institution's total assets at that time, set forth in the following table:
-
-<b> </b>
-
-<b>The applicable</b>
-
-<b> For the following period:</b>
-
-<b>percentage is:</b>
-
-&nbsp;July 1, 1993–June 30, 1994
-
-7 percent&nbsp;&nbsp;
-
-&nbsp;July 1, 1994–June 30, 1995
-
-5 percent&nbsp;&nbsp;
-
-&nbsp;July 1, 1995–June 30, 1996
-
-4 percent&nbsp;&nbsp;
-
-&nbsp;July 1, 1996–June 30, 1997
-
-3 percent.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### (<i>l</i>) Implementation
 
@@ -674,7 +668,7 @@ Subsections (e)(2), (f), and (h) of this section shall not apply before July 1, 
 
 &emsp;(3) the savings association remains in compliance with the plan or is operating under a written agreement with the appropriate Federal banking agency.
 
-(Sept. 21, 1950, ch. 967, §2\[38\], as added Pub. L. 102–242, title I, §131(a), Dec. 19, 1991, 105 Stat. 2253; amended Pub. L. 102–550, title XVI, §1603(d)(1), Oct. 28, 1992, 106 Stat. 4079; Pub. L. 103–325, title VI, §602(a)(64), Sept. 23, 1994, 108 Stat. 2291; Pub. L. 104–208, div. A, title II, §2704(d)(14)(AA)–(CC), Sept. 30, 1996, 110 Stat. 3009–494; Pub. L. 104–316, title I, §106(d), Oct. 19, 1996, 110 Stat. 3831; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §8(a)(36)–(39), Feb. 15, 2006, 119 Stat. 3615; Pub. L. 110–289, div. A, title VI, §1604(b)(1)(D), July 30, 2008, 122 Stat. 2829.)
+(Sept. 21, 1950, ch. 967, §2\[38\], as added Pub. L. 102–242, title I, §131(a), Dec. 19, 1991, 105 Stat. 2253; amended Pub. L. 102–550, title XVI, §1603(d)(1), Oct. 28, 1992, 106 Stat. 4079; Pub. L. 103–325, title VI, §602(a)(64), Sept. 23, 1994, 108 Stat. 2291; Pub. L. 104–208, div. A, title II, §2704(d)(14)(AA)–(CC), Sept. 30, 1996, 110 Stat. 3009–494; Pub. L. 104–316, title I, §106(d), Oct. 19, 1996, 110 Stat. 3831; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §8(a)(36)–(39), Feb. 15, 2006, 119 Stat. 3615; Pub. L. 110–289, div. A, title VI, §1604(b)(1)(D), July 30, 2008, 122 Stat. 2829; Pub. L. 111–203, title IX, §987, July 21, 2010, 124 Stat. 1936.)
 
 #### References in Text
 
@@ -682,9 +676,23 @@ The Securities Exchange Act of 1934, referred to in subsec. (e)(2)(E)(ii)(III), 
 
 #### Amendments
 
-2008—Subsec. (j)(2). Pub. L. 110–289 substituted “bridge depository institution” for “bridge bank”.
+<b>2010</b>—Subsec. (k). Pub. L. 111–203, §987(b), substituted “Reviews” for “Review” and “losses” for “material loss” in heading.
 
-2006—Subsec. (a). Pub. L. 109–173, §8(a)(37), substituted “Fund” for “funds” in heading.
+Subsec. (k)(2)(B). Pub. L. 111–203, §987(a)(1), added subpar. (B) and struck out former subpar. (B). Prior to amendment, text read as follows: “A loss is material if it exceeds the greater of—
+
+&emsp;“(i) $25,000,000; or
+
+&emsp;“(ii) 2 percent of the institution's total assets at the time the Corporation initiated assistance under section 1823(c) of this title or was appointed receiver.”
+
+Subsec. (k)(4)(A). Pub. L. 111–203, §987(a)(2), substituted “any report on losses required under this subsection,” for “the report” in introductory provisions.
+
+Subsec. (k)(5). Pub. L. 111–203, §987(a)(5), added par. (5). Former par. (5) redesignated (6).
+
+Subsec. (k)(6). Pub. L. 111–203, §987(a)(3), (4), redesignated par. (5) as (6) and struck out former par. (6). Prior to amendment, par. (6) related to transition rule during the period beginning on July 1, 1993, and ending on June 30, 1997.
+
+<b>2008</b>—Subsec. (j)(2). Pub. L. 110–289 substituted “bridge depository institution” for “bridge bank”.
+
+<b>2006</b>—Subsec. (a). Pub. L. 109–173, §8(a)(37), substituted “Fund” for “funds” in heading.
 
 Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(14)(AA). See 1996 Amendment note below.
 
@@ -716,7 +724,7 @@ Reports.—Subparagraph (A) does not require reports under subsection (k) of thi
 
 Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(14)(CC). See 1996 Amendment note below.
 
-1996—Subsec. (a). Pub. L. 104–208, §2704(d)(14)(AA), which directed substitution of “fund” for “funds” in heading, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+<b>1996</b>—Subsec. (a). Pub. L. 104–208, §2704(d)(14)(AA), which directed substitution of “fund” for “funds” in heading, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
 Subsec. (k)(1). Pub. L. 104–208, §2704(d)(14)(BB)(i), which directed substitution of “the Deposit Insurance Fund” for “a deposit insurance fund”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
@@ -730,13 +738,17 @@ Subsec. (k)(5). Pub. L. 104–316 amended heading and text of par. (5) generally
 
 Subsec. (<i>o</i>). Pub. L. 104–208, §2704(d)(14)(CC), which directed the amendment of subsec. (<i>o</i>) by striking par. (1) and the par. designation and heading of par. (2), redesignating subpars. (A) to (C) as pars. (1) to (3), respectively, and cls. (i) and (ii) as subpars. (A) and (B), respectively, and realigning margins, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
-1994—Subsec. (f)(6). Pub. L. 103–325 substituted “Commission” for “Commisssion”.
+<b>1994</b>—Subsec. (f)(6). Pub. L. 103–325 substituted “Commission” for “Commisssion”.
 
-1992—Subsec. (e)(2)(D)(i). Pub. L. 102–550, §1603(d)(1)(A), struck out “and” after semicolon at end.
+<b>1992</b>—Subsec. (e)(2)(D)(i). Pub. L. 102–550, §1603(d)(1)(A), struck out “and” after semicolon at end.
 
 Subsec. (f)(6). Pub. L. 102–550, §1603(d)(1)(B), (D), in heading substituted “other regulators” for “functional regulators” and in text substituted “appropriate regulator” for “functional regulator (as defined in section 1841(s) of this title)”.
 
 Subsec. (g)(1)(B). Pub. L. 102–550, §1603(d)(1)(C), substituted “capitalized (but not well capitalized)” for “capitalized”.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of this title.
 
 #### Effective Date of 2006 Amendment
 

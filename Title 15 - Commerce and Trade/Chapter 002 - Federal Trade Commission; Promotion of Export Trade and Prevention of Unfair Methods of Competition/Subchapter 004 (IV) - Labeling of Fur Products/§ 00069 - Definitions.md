@@ -20,7 +20,7 @@ As used in this subchapter—
 
 (i) The term “Fur Products Name Guide” means the register issued by the Commission pursuant to section 69e of this title.
 
-(j) The term “commerce” means commerce between any State, Territory, or possession of theUnited States, or the District of Columbia, and any place outside thereof; or between points within the same State, Territory, or possession, or the District of Columbia, but through any place outside thereof; or within any Territory or possession or the District of Columbia.
+(j) The term “commerce” means commerce between any State, Territory, or possession of the United States, or the District of Columbia, and any place outside thereof; or between points within the same State, Territory, or possession, or the District of Columbia, but through any place outside thereof; or within any Territory or possession or the District of Columbia.
 
 (k) The term “United States” means the several States, the District of Columbia, and the Territories and possessions of the United States.
 
@@ -42,7 +42,7 @@ Pub. L. 111–313, §2(b), Dec. 18, 2010, 124 Stat. 3326, provided that: “The 
 
 #### Effective Date
 
-Section 14 of act Aug. 8, 1951, provided that: “This Act \[this subchapter\], except section 7 \[section 69e of this title\], shall take effect one year after the date of its enactment \[Aug. 8, 1951\].”
+Act Aug. 8, 1951, ch. 298, §14, 65 Stat. 181, provided that: “This Act \[this subchapter\], except section 7 \[section 69e of this title\], shall take effect one year after the date of its enactment \[Aug. 8, 1951\].”
 
 #### Short Title of 2010 Amendment
 
@@ -50,11 +50,11 @@ Pub. L. 111–313, §1, Dec. 18, 2010, 124 Stat. 3326, provided that: “This Ac
 
 #### Short Title
 
-Section 1 of act Aug. 8, 1951, provided: “That this Act \[this subchapter\] may be cited as the ‘Fur Products Labeling Act’ ”.
+Act Aug. 8, 1951, ch. 298, §1, 65 Stat. 175, provided: “That this Act \[this subchapter\] may be cited as the ‘Fur Products Labeling Act’ ”.
 
 #### Separability
 
-Section 13 of act Aug. 8, 1951, provided that: “If any provision of this Act \[this subchapter\] or the application thereof to any person or circumstance is held invalid, the remainder of the Act \[this subchapter\] and the application of such provision to any other person or circumstance shall not be affected thereby.”
+Act Aug. 8, 1951, ch. 298, §13, 65 Stat. 181, provided that: “If any provision of this Act \[this subchapter\] or the application thereof to any person or circumstance is held invalid, the remainder of the Act \[this subchapter\] and the application of such provision to any other person or circumstance shall not be affected thereby.”
 
 #### Transfer of Functions
 

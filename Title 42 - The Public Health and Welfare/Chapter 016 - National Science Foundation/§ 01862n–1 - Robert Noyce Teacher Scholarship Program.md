@@ -18,7 +18,7 @@
 
 &emsp;&emsp;&emsp;(i) administering scholarships in accordance with subsection (c);
 
-&emsp;&emsp;&emsp;(ii) offering academic courses and early clinical teaching experiences designed to prepare students participating in the program to teach in elementary schools and secondary schools, including such preparation as is necessary to meet requirements for teacher certification or licensing;
+&emsp;&emsp;&emsp;(ii) offering academic courses and early clinical teaching experiences designed toprepare students participating in the program to teach in elementary schools and secondary schools, including such preparation as is necessary to meet requirements for teacher certification or licensing;
 
 &emsp;&emsp;&emsp;(iii) offering programs to students participating in the program, both before and after the students receive their baccalaureate degree, to enable the students to become better mathematics and science teachers, to fulfill the service requirements of this section, and to exchange ideas with others in the students’ fields; and
 
@@ -90,7 +90,7 @@
 
 &emsp;&emsp;(A) the ability of the applicant (and the participating institutions of higher education of the consortium, if applicable) to effectively carry out the program;
 
-&emsp;&emsp;(B) the extent to which the applicant's science, technology, engineering, and mathematics faculty and its education faculty (and such faculty of participating institutions of higher education of the consortium, if applicable) have worked or will work collaboratively to design new or revised curricula that recognize the specialized pedagogyrequired to teach science, technology, engineering, and mathematics effectively in elementary schools and secondary schools;
+&emsp;&emsp;(B) the extent to which the applicant's science, technology, engineering, and mathematics faculty and its education faculty (and such faculty of participating institutions of higher education of the consortium, if applicable) have worked or will work collaboratively to design new or revised curricula that recognize the specialized pedagogy required to teach science, technology, engineering, and mathematics effectively in elementary schools and secondary schools;
 
 &emsp;&emsp;(C) the extent to which the applicant (and the participating institutions of higher education of the consortium, if applicable) is committed to making the program a central organizational focus;
 
@@ -216,7 +216,7 @@ As a condition of acceptance of a scholarship or stipend under this section, a r
 
 #### (h) Data collection
 
-An eligible entity receiving a grant under this section shall supply to the Director any relevant statistical and demographic data on scholarship and stipend recipients the Director may request, including information on employment required under this section.
+An eligible entity receiving a grant under this section shall supply to the Director any relevant statistical and demographic data on scholarshipand stipend recipients the Director may request, including information on employment required under this section.
 
 #### (i) Definitions
 
@@ -248,7 +248,7 @@ In accordance with section 1870(f) of this title, the Director is authorized to 
 
 #### (k) Assessment of teacher service and retention
 
-Not later than 4 years after August 9, 2007, the Director shall transmit to the Committee onHealth, Education, Labor, and Pensions of the Senate and the Committee on Science and Technology of the House of Representatives a report on the effectiveness of the programs carried out under this section and section 1862n–1a of this title. The report shall include the proportion of individuals receiving scholarships, stipends, or fellowships under the program who—
+Not later than 4 years after August 9, 2007, the Director shall transmit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Science and Technology of the House of Representatives a report on the effectiveness of the programs carried out under this section and section 1862n–1a of this title. The report shall include the proportion of individuals receiving scholarships, stipends, or fellowships under the program who—
 
 &emsp;(1) fulfill the individuals’ service obligation required under this section or section 1862n–1a of this title;
 
@@ -275,6 +275,10 @@ Section was enacted as part of the National Science Foundation Authorization Act
 #### Amendments
 
 <b>2007</b>—Pub. L. 110–69 amended section generally, substituting provisions relating to the Robert Noyce Teacher Scholarship Program, consisting of subsecs. (a) to (<i>l</i>), for former provisions relating to the Robert Noyce Scholarship Program, consisting of subsecs. (a) to (i). See Codification note above.
+
+#### Change of Name
+
+Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Definitions
 

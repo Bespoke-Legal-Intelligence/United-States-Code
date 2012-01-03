@@ -32,7 +32,7 @@ There is hereby imposed on any person who acquires directly or indirectly struct
 
 &emsp;&emsp;(A) the State in which the payee of the structured settlement is domiciled, or
 
-&emsp;&emsp;(B) if there is no statute described in subparagraph (A), the State in which either the party to the structured settlement (including an assignee under a qualified assignment under section 130) or the person issuing the funding asset for the structured settlement is domiciled or has its principal place of business.
+&emsp;&emsp;(B) if there is no statute described in subparagraph (A), the State in which either the party to the structured settlement (including an assignee under a qualified assignmentunder section 130) or the person issuing the funding asset for the structured settlement is domiciled or has its principal place of business.
 
 #### (4) Applicable State court
 
@@ -60,7 +60,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) which is established by—
 
-&emsp;&emsp;&emsp;(i) suit or agreement for the periodic payment of damages excludable from thegross income of the recipient under section 104(a)(2), or
+&emsp;&emsp;&emsp;(i) suit or agreement for the periodic payment of damages excludable from the gross income of the recipient under section 104(a)(2), or
 
 &emsp;&emsp;&emsp;(ii) agreement for the periodic payment of compensation under any workers’ compensation law excludable from the gross income of the recipient under section 104(a)(1), and
 
@@ -126,7 +126,7 @@ In general.—The amendments made by this section \[enacting this chapter\] (oth
 
 “(2)
 
-Clarification of existing law.—Section 5891(d) of such Code (as so added) shall apply to structured settlement factoring transactions (as defined in section 5891(c) of such Code (as so added)) entered into before, on, or after such 30th day.
+Clarification of existing law.—Section 5891(d) of such Code (as so added) shall apply to structured settlement factoring transactions (as defined in section5891(c) of such Code (as so added)) entered into before, on, or after such 30th day.
 
 “(3)
 

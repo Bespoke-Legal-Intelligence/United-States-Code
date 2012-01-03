@@ -14,11 +14,11 @@ This subchapter, referred to in text, was in the original “this section”, me
 
 #### Codification
 
-Section is comprised of the seventeenth to nineteenth pars. of act Dec. 23, 1913, as amended. These pars. constituted pars. fifteen to seventeen of section 9 in 1933\(48 Stat. 165), became pars. sixteen to eighteen in 1935 (49 Stat. 704), and became pars. seventeen to nineteen in 1950 (64 Stat. 458). For further details, see Codification notes set out under sections 321 and 329a of this title.
+Section is comprised of the seventeenth to nineteenth pars. of act Dec. 23, 1913, as amended. These pars. constituted pars. fifteen to seventeen of section 9 in 1933 (48 Stat. 165), became pars. sixteen to eighteen in 1935 (49 Stat. 704), and became pars. seventeen to nineteen in 1950 (64 Stat. 458). For further details, see Codification notes set out under sections 321 and 329a of this title.
 
 #### Amendments
 
-1966—Pub. L. 89–485 struck out last sentence of third par. stating that term “affiliate” shall include holding company affiliates as well as other affiliates for the purposes of such par. and preceding two pars.
+<b>1966</b>—Pub. L. 89–485 struck out last sentence of third par. stating that term “affiliate” shall include holding company affiliates as well as other affiliates for the purposes of such par. and preceding two pars.
 
 #### Change of Name
 

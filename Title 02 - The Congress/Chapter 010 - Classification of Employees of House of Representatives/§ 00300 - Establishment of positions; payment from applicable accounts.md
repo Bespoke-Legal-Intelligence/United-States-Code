@@ -10,5 +10,5 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### Amendments
 
-1996—Pub. L. 104–186 substituted “applicable accounts” for “contingent fund”.
+<b>1996</b>—Pub. L. 104–186 substituted “applicable accounts” for “contingent fund”.
 

@@ -78,7 +78,7 @@ An order issued under section 2903(b) of this title shall contain the following 
 
 #### Amendments
 
-1985—Pub. L. 99–198 amended section generally, substituting provisions relating to required terms in orders for provisions relating to notice and hearing upon proposed orders.
+<b>1985</b>—Pub. L. 99–198 amended section generally, substituting provisions relating to required terms in orders for provisions relating to notice and hearing upon proposed orders.
 
 #### Effective Date of 1985 Amendment
 

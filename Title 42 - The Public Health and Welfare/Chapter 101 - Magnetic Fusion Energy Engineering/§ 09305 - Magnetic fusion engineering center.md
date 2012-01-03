@@ -2,7 +2,7 @@
 
 #### (a) Development plan
 
-The Secretary shall develop a plan for the creation of a national magnetic fusion engineering center for the purpose of accelerating fusion technology development via the concentration and coordination of major magnetic fusion engineering devices and associated activities at such a national center.
+The Secretary shall develop a plan for the creation of a national magnetic fusion engineeringcenter for the purpose of accelerating fusion technology development via the concentration and coordination of major magnetic fusion engineering devices and associated activities at such a national center.
 
 #### (b) Factors considered in formulation of development plan
 
@@ -29,4 +29,8 @@ In developing the plan, the Secretary shall include relevant factors including, 
 The Secretary shall submit not later than July 1, 1981, a report to the House Committee on Science and Technology and the Senate Committee on Energy and Natural Resources characterizing the plan and setting forth the steps necessary for implementation of the plan, including any steps already implemented.
 
 (Pub. L. 96–386, §6, Oct. 7, 1980, 94 Stat. 1541.)
+
+#### Change of Name
+
+Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 

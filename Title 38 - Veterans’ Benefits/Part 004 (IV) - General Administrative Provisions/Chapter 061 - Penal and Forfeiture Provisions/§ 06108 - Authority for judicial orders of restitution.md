@@ -1,6 +1,6 @@
 ### §6108. Authority for judicial orders of restitution
 
-(a) Any Federal court, when sentencing a defendant convicted of an offense arising from themisuse of benefits under this title, may order, in addition to or in lieu of any other penalty authorized by law, that the defendant make restitution to the Department.
+(a) Any Federal court, when sentencing a defendant convicted of an offense arising from the misuse of benefits under this title, may order, in addition to or in lieu of any other penalty authorized by law, that the defendant make restitution to the Department.
 
 (b) Sections 3612, 3663, and 3664 of title 18 shall apply with respect to the issuance and enforcement of orders of restitution under subsection (a). In so applying those sections, the Department shall be considered the victim.
 

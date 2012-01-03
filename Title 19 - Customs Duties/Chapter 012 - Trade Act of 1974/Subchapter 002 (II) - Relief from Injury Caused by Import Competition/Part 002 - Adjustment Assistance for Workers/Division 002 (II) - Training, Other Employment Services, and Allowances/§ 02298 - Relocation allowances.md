@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Any adversely affected worker covered by a certification issued under subpart A of this part may file an application for a relocation allowance with the Secretary, and the Secretary may grant the relocation allowance, subject to the terms and conditions of this section.
+&emsp;Each State may use funds made available to the State to carry out sections 2295 through 2298 of this title to allow an adversely affected worker covered by a certification issued under subpart A of this part to file an application for a relocation allowance with the Secretary, and the Secretary may grant the relocation allowance, subject to the terms and conditions of this section.
 
 #### (2) Conditions for granting allowance
 
@@ -44,11 +44,11 @@
 
 #### (b) Amount of allowance
 
-The relocation allowance granted to a worker under subsection (a) of this section includes—
+Any relocation allowance granted to a worker under subsection (a) of this section shall include—
 
-&emsp;(1) all reasonable and necessary expenses (including, but not limited to, subsistence and transportation expenses at levels not exceeding those allowable under section 2296(b)(1) and (2) of this title specified in regulations prescribed by the Secretary) incurred in transporting the worker, the worker's family, and household effects; and
+&emsp;(1) not more than 90 percent of the reasonable and necessary expenses (including, but not limited to, subsistence and transportation expenses at levels not exceeding those allowable under section 2296(b)(1) and (2) of this title specified in regulations prescribed by the Secretary) incurred in transporting the worker, the worker's family, and household effects; and
 
-&emsp;(2) a lump sum equivalent to 3 times the worker's average weekly wage, up to a maximum payment of $1,500.
+&emsp;(2) a lump sum equivalent to 3 times the worker's average weekly wage, up to a maximum payment of $1,250.
 
 #### (c) Limitations
 
@@ -58,19 +58,33 @@ A relocation allowance may not be granted to a worker unless—
 
 &emsp;(2) the relocation occurs within 182 days after the conclusion of training, if the worker entered a training program approved by the Secretary under section 2296(b)(1) and (2) of this title.
 
-(Pub. L. 93–618, title II, §238, Jan. 3, 1975, 88 Stat. 2024; Pub. L. 97–35, title XXV, §2508, Aug. 13, 1981, 95 Stat. 886; Pub. L. 98–369, div. B, title VI, §2672(b), July 18, 1984, 98 Stat. 1172; Pub. L. 107–210, div. A, title I, §122, Aug. 6, 2002, 116 Stat. 943; Pub. L. 108–429, title II, §2004(a)(6), Dec. 3, 2004, 118 Stat. 2590; Pub. L. 111–5, div. B, title I, §1833(b), Feb. 17, 2009, 123 Stat. 386.)
+(Pub. L. 93–618, title II, §238, Jan. 3, 1975, 88 Stat. 2024; Pub. L. 97–35, title XXV, §2508, Aug. 13, 1981, 95 Stat. 886; Pub. L. 98–369, div. B, title VI, §2672(b), July 18, 1984, 98 Stat. 1172; Pub. L. 107–210, div. A, title I, §122, Aug. 6, 2002, 116 Stat. 943; Pub. L. 108–429, title II, §2004(a)(6), Dec. 3, 2004, 118 Stat. 2590; Pub. L. 111–5, div. B, title I, §1833(b), Feb. 17, 2009, 123 Stat. 386; Pub. L. 112–40, title II, §§201(b), (c), 214(e), Oct. 21, 2011, 125 Stat. 403, 406.)
 
-#### Amendment of Section
+#### Reversion to Provisions in Effect on February 13, 2011
 
-<i>For termination of amendment by section 1893 of Pub. L. 111–5, see Effective and Termination Dates of 2009 Amendment note below.</i>
+<i>For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to section 233(b) of Pub. L. 112–40, see Codification and Effective and Termination Dates of 2011 Revival notes below.</i>
+
+#### Codification
+
+Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination of amendment by Pub. L. 111–5, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, and the provisions of this section, as amended by Pub. L. 111–5 and as in effect on Feb. 12, 2011, were temporarily revived, effective Oct. 21, 2011, until Jan. 1, 2014, by Pub. L. 112–40, §§201(b), (c), 233. See 2009 and 2011 Amendment notes, Effective and Termination Dates of 2009 Amendment notes, and Effective and Termination Dates of 2011 Revival note below.
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a)(2)(E)(ii). Pub. L. 111–5, §§1833(b)(1), 1893, temporarily struck out “, unless the worker received a waiver under section 2291(c) of this title” before period. See Effective and Termination Dates of 2009 Amendment note below.
+<b>2011</b>—Pub. L. 112–40, §§201(b), (c), 233, temporarily revived the provisions of this section, as in effect on Feb. 12, 2011. See Codification note above and 2009 Amendment and Effective and Termination Dates of 2011 Revival notes below.
 
-Subsec. (b)(1). Pub. L. 111–5, §§1833(b)(2)(A), 1893, temporarily substituted “all” for “90 percent of the”. See Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (a)(1). Pub. L. 112–40, §§214(e)(1), 233, temporarily substituted “Each State may use funds made available to the State to carry out sections 2295 through 2298 of this title to allow an adversely affected worker” for “Any adversely affected worker” and “to file” for “may file”. See Codification note above and Effective and Termination Dates of 2011 Revival note below.
 
-Subsec. (b)(2). Pub. L. 111–5, §§1833(b)(2)(B), 1893, temporarily substituted “$1,500” for “$1,250”. See Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (b). Pub. L. 112–40, §§214(e)(2)(A), 233, in introductory provisions, temporarily substituted “Any” for “The” and “shall include” for “includes”. See Codification note above and Effective and Termination Dates of 2011 Revival note below.
+
+Subsec. (b)(1). Pub. L. 112–40, §§214(e)(2)(B), 233, temporarily substituted “not more than 90 percent of the” for “all”. See Codification note above and Effective and Termination Dates of 2011 Revival note below.
+
+Subsec. (b)(2). Pub. L. 112–40, §§214(e)(2)(C), 233, temporarily substituted “$1,250” for “$1,500”. See Codification note above and Effective and Termination Dates of 2011 Revival note below.
+
+<b>2009</b>—Subsec. (a)(2)(E)(ii). Pub. L. 111–5, §§1833(b)(1), 1893, temporarily struck out “, unless the worker received a waiver under section 2291(c) of this title” before period. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+
+Subsec. (b)(1). Pub. L. 111–5, §§1833(b)(2)(A), 1893, temporarily substituted “all” for “90 percent of the”. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+
+Subsec. (b)(2). Pub. L. 111–5, §§1833(b)(2)(B), 1893, temporarily substituted “$1,500” for “$1,250”. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
 <b>2004</b>—Subsec. (b)(1). Pub. L. 108–429 substituted “Secretary)” for “Secretary,”.
 
@@ -88,11 +102,15 @@ Subsec. (d)(1). Pub. L. 97–35, §2508(4)(A), increased percentage from 80 to 9
 
 Subsec. (d)(2). Pub. L. 97–35, §2508(4)(B), increased maximum payment from $500 to $600.
 
+#### Effective and Termination Dates of 2011 Revival
+
+For temporary revival and applicability of provisions as in effect on Feb. 12, 2011, see sections 201(b), (c) and 233 of Pub. L. 112–40, set out as notes preceding section 2271 of this title. For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to section 233(b) of Pub. L. 112–40, see section 233 of Pub. L. 112–40, set out as a note preceding section 2271 of this title.
+
 #### Effective and Termination Dates of 2009 Amendment
 
 Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title.
 
-Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and this section to be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
+Section 1893 of Pub. L. 111–5, which provided that, except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and that this section be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403. See Codification note above.
 
 #### Effective Date of 2002 Amendment
 
@@ -104,5 +122,5 @@ Amendment by Pub. L. 97–35 effective for determinations made or filed after Se
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after Feb. 12, 2011, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after Dec. 31, 2013, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 

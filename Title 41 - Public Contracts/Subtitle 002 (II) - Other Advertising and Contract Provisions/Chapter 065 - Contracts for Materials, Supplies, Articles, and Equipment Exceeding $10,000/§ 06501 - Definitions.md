@@ -4,7 +4,7 @@ In this chapter—
 
 &emsp;(1)
 
-Agency of the united states.—The term “agency of the United States” means an executive department, independent establishment, or other agency or instrumentality of the United States, the District of Columbia, or a corporation in which all stock is beneficially owned by the Federal Government.
+Agency of the united states.—The term “agency of the United States” means an executive department, independent establishment, or other agency or instrumentality of the United States, the District of Columbia, or acorporation in which all stock is beneficially owned by the Federal Government.
 
 &emsp;(2)
 

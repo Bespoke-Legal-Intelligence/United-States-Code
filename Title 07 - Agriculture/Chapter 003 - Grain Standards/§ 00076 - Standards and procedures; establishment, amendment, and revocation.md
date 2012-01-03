@@ -38,7 +38,7 @@ The Secretary is authorized to investigate the handling, weighing, grading, and 
 
 (1) In establishing standards under subsection (a) of this section for each grain for which official grades are established, the Secretary shall establish for each such grain official grade-determining factors and factor limits that reflect the levels of soundness and purity that are consistent with end-use performance goals of the major foreign and domestic users of each such grain. Such factors and factor limits for grades number 3 and better shall provide users of such standards the best possible information from which to determine end-use product quality. The Secretary shall establish factors and factor limits that will provide that grain meeting the requirements for grades number 3 and better will perform in accordance with general trade expectations for the predominant uses of such grain.
 
-(2) In establishing factors and factor limits under paragraph (1), the Secretary shall provide for notice and an opportunity for public comment prior to making changes in the grade-determining factors and factor limits that shall be applicable under this section to grain that is officially graded.
+(2) In establishing factors and factor limits under paragraph (1), the Secretary shall providefor notice and an opportunity for public comment prior to making changes in the grade-determining factors and factor limits that shall be applicable under this section to grain that is officially graded.
 
 #### (d) Moisture content criterion
 
@@ -48,23 +48,23 @@ If the Government of any country requests that moisture content remain a criteri
 
 #### Amendments
 
-1994—Subsecs. (a) to (c). Pub. L. 103–354 substituted “Secretary” for “Administrator” wherever appearing.
+<b>1994</b>—Subsecs. (a) to (c). Pub. L. 103–354 substituted “Secretary” for “Administrator” wherever appearing.
 
-1993—Subsec. (a)(1). Pub. L. 103–156, which directed amendment of “Section 4(a)(1)” by substituting “the judgment of the Administrator” for “his judgment”, without specifying the name of the Act being amended, was executed to this section, which is section 4 of the United States Grain Standards Act, to reflect the probable intent of Congress.
+<b>1993</b>—Subsec. (a)(1). Pub. L. 103–156, which directed amendment of “Section 4(a)(1)” by substituting “the judgment of the Administrator” for “his judgment”, without specifying the name of the Act being amended, was executed to this section, which is section 4 of the United States Grain Standards Act, to reflect the probable intent of Congress.
 
-1990—Subsec. (b). Pub. L. 101–624, §2005, designated existing provisions as par. (1) and added par. (2).
+<b>1990</b>—Subsec. (b). Pub. L. 101–624, §2005, designated existing provisions as par. (1) and added par. (2).
 
 Subsecs. (c), (d). Pub. L. 101–624, §2006, added subsec. (c) and redesignated former subsec. (c) as (d).
 
-1985—Subsec. (c). Pub. L. 99–198 added subsec. (c).
+<b>1985</b>—Subsec. (c). Pub. L. 99–198 added subsec. (c).
 
-1977—Subsec. (a). Pub. L. 95–113 substituted “sorghum” for “grain sorghum”, “standards or procedures” for “standards”, “weight certification and controls” for “weight certification procedures and controls”, and “calibration and maintenance, for grain” for “calibration and maintenance for grain”.
+<b>1977</b>—Subsec. (a). Pub. L. 95–113 substituted “sorghum” for “grain sorghum”, “standards or procedures” for “standards”, “weight certification and controls” for “weight certification procedures and controls”, and “calibration and maintenance, for grain” for “calibration and maintenance for grain”.
 
-1976—Subsec. (a). Pub. L. 94–582, §5(a), authorized weighing of grain, designated existing provisions as cl. (1), inserted cl. (2), and reenacted provision for amendment or revocation of standards.
+<b>1976</b>—Subsec. (a). Pub. L. 94–582, §5(a), authorized weighing of grain, designated existing provisions as cl. (1), inserted cl. (2), and reenacted provision for amendment or revocation of standards.
 
 Subsec. (b). Pub. L. 94–582, §5(b), substituted “Administrator” for “Secretary” in two places.
 
-1968—Pub. L. 90–487 substituted provisions authorizing Secretary to establish, amend, and revoke standards for provisions making the use of official standards compulsory, setting out exceptions, and providing for the right of appeal.
+<b>1968</b>—Pub. L. 90–487 substituted provisions authorizing Secretary to establish, amend, and revoke standards for provisions making the use of official standards compulsory, setting out exceptions, and providing for the right of appeal.
 
 #### Effective Date of 1977 Amendment
 

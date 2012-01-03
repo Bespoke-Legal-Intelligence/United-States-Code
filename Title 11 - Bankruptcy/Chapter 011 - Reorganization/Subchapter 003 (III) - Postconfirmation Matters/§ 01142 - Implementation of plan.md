@@ -8,7 +8,7 @@
 
 #### Amendments
 
-1984—Pub. L. 98–353, §514(a), substituted “Implementation” for “Execution” in section catchline.
+<b>1984</b>—Pub. L. 98–353, §514(a), substituted “Implementation” for “Execution” in section catchline.
 
 Subsec. (a). Pub. L. 98–353, §514(c), struck out the comma after “shall carry out the plan”.
 

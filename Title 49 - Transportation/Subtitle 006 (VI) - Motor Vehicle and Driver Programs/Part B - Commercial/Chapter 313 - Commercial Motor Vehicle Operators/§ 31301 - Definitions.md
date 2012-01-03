@@ -22,7 +22,7 @@ In this chapter—
 
 &emsp;&emsp;&emsp;(i) the vehicle does not satisfy the weight requirements of subclause (A) of this clause;
 
-&emsp;&emsp;&emsp;(ii) the vehicle is transporting material listed as hazardous under section 306(a) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9656(a)) and is not otherwise regulated by the Secretary or is transporting a consumer commodity or limited quantity of hazardous material as defined in section 171.8 of title 49, Code of Federal Regulations; and
+&emsp;&emsp;&emsp;(ii) the vehicle is transporting material listed as hazardous under section 306(a) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9656(a)) and is not otherwise regulated by the Secretary or is transporting a consumer commodity or limited quantity of hazardous material as definedin section 171.8 of title 49, Code of Federal Regulations; and
 
 &emsp;&emsp;&emsp;(iii) the Secretary does not deny the application of this exception to the vehicle (individually or as part of a class of motor vehicles) in the interest of safety.
 
@@ -160,7 +160,7 @@ Par. (4)(C)(ii). Pub. L. 105–178, §4011(a)(2), inserted “is” before “tr
 
 #### Grant Program for Commercial Motor Vehicle Operators
 
-Pub. L. 109–59, title IV, §4134, Aug. 10, 2005, 119 Stat. 1744, as amended by Pub. L. 111–147, title IV, §422(h), Mar. 18, 2010, 124 Stat. 87; Pub. L. 111–322, title II, §2202(h), Dec. 22, 2010, 124 Stat. 3525, provided that:
+Pub. L. 109–59, title IV, §4134, Aug. 10, 2005, 119 Stat. 1744, as amended by Pub. L. 111–147, title IV, §422(h),Mar. 18, 2010, 124 Stat. 87; Pub. L. 111–322, title II, §2202(h), Dec. 22, 2010, 124 Stat. 3525; Pub. L. 112–5, title II, §202(h), Mar. 4, 2011, 125 Stat. 17; Pub. L. 112–30, title I, §122(g), Sept. 16, 2011, 125 Stat. 349, provided that:
 
 “(a)
 
@@ -172,7 +172,7 @@ Federal Share.—The Federal share of the cost for which a grant is made under t
 
 “(c)
 
-Funding.—From amounts made available under section 31104(i) of title 49, United States Code, the Secretary shall make available $1,000,000 for each of fiscal years 2005 through 2009, 2010, and $425,545 for the period beginning on October 1, 2010, and ending on March 4, 2011, to carry out this section.”
+Funding.—From amounts made available under section 31104(i) of title 49, United States Code, the Secretary shall make available $1,000,000 for each of fiscal years 2005 through 2011 and $500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012, to carry out this section.”
 
 #### CDL Task Force
 

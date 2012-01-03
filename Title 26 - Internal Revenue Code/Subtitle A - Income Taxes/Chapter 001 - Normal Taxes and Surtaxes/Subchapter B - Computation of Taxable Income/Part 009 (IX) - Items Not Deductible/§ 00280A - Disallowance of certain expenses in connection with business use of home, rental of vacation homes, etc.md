@@ -198,7 +198,7 @@ The date of enactment of the Tax Reduction and Simplification Act of 1977, refer
 
 #### Amendments
 
-<b>1997</b>—Subsec. (c)(1). Pub. L. 105–34, §932(a), inserted at end “For purposes of subparagraph (A), the term ‘principal place of business’ includes a place of business which is used by the taxpayer for the administrative or management activities of any trade or business of the taxpayer if there is no other fixed location of such trade or business where the taxpayer conducts substantial administrative or management activities of such trade or business.”
+<b>1997</b>—Subsec. (c)(1). Pub. L. 105–34, §932(a), inserted at end “For purposes of subparagraph (A), the term ‘principal place of business’ includes a place of business which is used by the taxpayer for the administrative ormanagement activities of any trade or business of the taxpayer if there is no other fixed location of such trade or business where the taxpayer conducts substantial administrative or management activities of such trade or business.”
 
 Subsec. (d)(4)(A). Pub. L. 105–34, §312(d)(1), substituted “section 121” for “section 1034”.
 

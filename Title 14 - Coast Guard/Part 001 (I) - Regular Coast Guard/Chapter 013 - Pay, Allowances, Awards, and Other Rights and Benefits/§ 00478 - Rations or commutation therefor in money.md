@@ -22,5 +22,5 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### Amendments
 
-1984—Subsecs. (a), (d). Pub. L. 98–557 substituted reference to enlisted members for reference to enlisted men.
+<b>1984</b>—Subsecs. (a), (d). Pub. L. 98–557 substituted reference to enlisted members for reference to enlisted men.
 

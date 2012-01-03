@@ -32,7 +32,7 @@ Pub. L. 107–288, §5(b)(1), substituted “and veterans who served on active d
 
 <b>1972</b>—Pub. L. 92–540 substituted provisions stating the Congressional declaration of purpose, for provisions relating to the assignment of veterans’ employment representatives. See section 2003 of this title.
 
-<b>1966</b>—Pub. L. 89–358 inserted “or of service after January 31, 1955” after “veterans of any war” in cls. (3) and (5); “or of service after January 31, 1955” after “veteranof any war” in first sentence; and “or of service after January 31, 1955,” after “veterans of any war” in cls. (1) and (4), wherever appearing, respectively.
+<b>1966</b>—Pub. L. 89–358 inserted “or of service after January 31, 1955” after “veterans of any war” in cls. (3) and (5); “or of service after January 31, 1955” after “veteran of any war” in first sentence; and “or of service after January 31, 1955,” after “veterans of any war” in cls. (1) and (4), wherever appearing, respectively.
 
 #### Effective Date of 2002 Amendment
 

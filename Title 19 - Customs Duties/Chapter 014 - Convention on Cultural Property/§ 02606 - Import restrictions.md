@@ -16,7 +16,7 @@ If the consignee of any designated archaeological or ethnological material is un
 
 &emsp;&emsp;(B) on or before the date on which such material was designated under section 2604 of this title,
 
-> the customs officer concerned shall refuse to release the material from customs custody and send it to a bonded warehouse or store to be held at the risk and expense of the consignee, notwithstanding any other provision of law, until such documentation or evidence is filed withsuch officer. If such documentation or evidence is not presented within ninety days after the date on which such material is refused release from customs custody, or such longer period as may be allowed by the Secretary for good cause shown, the material shall be subject to seizure and forfeiture. The presentation of such documentation or evidence shall not bar subsequent action under section 2609 of this title.
+> the customs officer concerned shall refuse to release the material from customs custody and send it to a bonded warehouse or store to be held at the risk and expense of the consignee, notwithstanding any other provision of law, until such documentation or evidence is filed with such officer. If such documentation or evidence is not presented within ninety days after the date on which such material is refused release from customs custody, or such longer period as may be allowed by the Secretary for good cause shown, the material shall be subject to seizure and forfeiture. The presentation of such documentation or evidence shall not bar subsequent action under section 2609 of this title.
 
 #### (c) “Satisfactory evidence” defined
 
@@ -40,7 +40,7 @@ The term “satisfactory evidence” means—
 
 #### (d) Related persons
 
-For purposes of subsections (b) and (c) of this section, a person shall be treated as a related person to an importer, or to a person for whose account material is imported, if such person—
+For purposes of subsections (b) and (c) of this section, a person shall be treated as a relatedperson to an importer, or to a person for whose account material is imported, if such person—
 
 &emsp;(1) is a member of the same family as the importer or person of account, including, but not limited to, membership as a brother or sister (whether by whole or half blood), spouse, ancestor, or lineal descendant;
 

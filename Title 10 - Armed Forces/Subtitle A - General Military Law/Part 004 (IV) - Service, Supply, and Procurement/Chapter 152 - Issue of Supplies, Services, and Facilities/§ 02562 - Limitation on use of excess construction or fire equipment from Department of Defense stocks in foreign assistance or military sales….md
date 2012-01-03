@@ -24,7 +24,7 @@ The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a)(1). Pub. L. 111–350 substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)”.
+<b>2011</b>—Subsec. (a)(1). Pub. L. 111–350 substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)”.
 
 <b>2002</b>—Subsec. (a)(1). Pub. L. 107–217, §3(b)(8)(A), as amended by Pub. L. 107–314, inserted “subtitle I of title 40 and title III of” before “the Federal” the second place it appeared.
 

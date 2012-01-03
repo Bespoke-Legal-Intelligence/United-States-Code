@@ -16,7 +16,7 @@ The laws relating to medical child support, which a State is required to have in
 
 &emsp;&emsp;(A) to permit such parent to enroll under such family coverage any such child who is otherwise eligible for such coverage (without regard to any enrollment season restrictions);
 
-&emsp;&emsp;(B) if such a parent is enrolled but fails to make application to obtain coverage of such child, to enroll such child under such family coverage upon application by the child's other parent or by the State agency administering the program under this subchapter or part D of subchapter IV of this chapter; and
+&emsp;&emsp;(B) if such a parent is enrolled but fails to make application to obtain coverage of suchchild, to enroll such child under such family coverage upon application by the child's other parent or by the State agency administering the program under this subchapter or part D of subchapter IV of this chapter; and
 
 &emsp;&emsp;(C) not to disenroll (or eliminate coverage of) such a child unless the insurer is provided satisfactory written evidence that—
 
@@ -67,10 +67,6 @@ The laws relating to medical child support, which a State is required to have in
 For purposes of this section, the term “insurer” includes a group health plan, as defined in section 1167(1) of title 29, a health maintenance organization, and an entity offering a service benefit plan.
 
 (Aug. 14, 1935, ch. 531, title XIX, §1908A, formerly §1908, as added Pub. L. 103–66, title XIII, §13623(b), Aug. 10, 1993, 107 Stat. 633, renumbered §1908A, Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(y)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398.)
-
-#### References in Text
-
-Part D of subchapter IV of this chapter, referred to in subsec. (a)(2)(B), (3)(B), is classified to section 651 et seq. of this title.
 
 #### Effective Date
 

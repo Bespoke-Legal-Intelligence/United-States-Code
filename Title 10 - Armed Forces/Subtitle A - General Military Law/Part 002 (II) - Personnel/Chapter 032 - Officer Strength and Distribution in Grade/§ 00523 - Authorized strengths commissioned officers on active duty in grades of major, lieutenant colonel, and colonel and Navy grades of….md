@@ -50,15 +50,15 @@
 | 120,000 | 22,979 | 13,692 | 5,200 |
 | 125,000 | 23,789 | 14,081 | 5,381 |
 | Marine Corps: |  |  |  |
-| 10,000 | 2,525 | 1,480 | 571 |
-| 12,500 | 2,900 | 1,600 | 632 |
-| 15,000 | 3,275 | 1,720 | 653 |
-| 17,500 | 3,650 | 1,840 | 673 |
-| 20,000 | 4,025 | 1,960 | 694 |
-| 22,500 | 4,400 | 2,080 | 715 |
-| 25,000 | 4,775 | 2,200 | 735\. |
+| 10,000 | 2,802 | 1,615 | 633 |
+| 12,500 | 3,247 | 1,768 | 658 |
+| 15,000 | 3,691 | 1,922 | 684 |
+| 17,500 | 4,135 | 2,076 | 710 |
+| 20,000 | 4,579 | 2,230 | 736 |
+| 22,500 | 5,024 | 2,383 | 762 |
+| 25,000 | 5,468 | 2,537 | 787\. |
 
-(2) Except as provided in subsection (c), of the total number of commissioned officers serving on active duty in the Navy at the end of any fiscal year (excluding officers in categories specified in subsection (b)), the number of officers who may be serving on active duty in each of the grades of lieutenant commander, commander, and captain may not, as of the end of such fiscal year, exceed a number determined in accordance with the following table:
+(2) Except as provided in subsection (c), of the total number of commissioned officers servingon active duty in the Navy at the end of any fiscal year (excluding officers in categories specified in subsection (b)), the number of officers who may be serving on active duty in each of the grades of lieutenant commander, commander, and captain may not, as of the end of such fiscal year, exceed a number determined in accordance with the following table:
 
 &nbsp;
 
@@ -112,11 +112,13 @@
 
 (d) An officer may not be reduced in grade, or have his pay or allowances reduced, because of a reduction in the number of commissioned officers authorized for his grade under this section.
 
-(Added Pub. L. 96–513, title I, §103, Dec. 12, 1980, 94 Stat. 2842; amended Pub. L. 98–525, title IV, §414(a)(3), Oct. 19, 1984, 98 Stat. 2518; Pub. L. 99–145, title V, §511(a), Nov. 8, 1985, 99 Stat. 623; Pub. L. 99–433, title V, §531(a)(1), Oct. 1, 1986, 100 Stat. 1063; Pub. L. 102–190, div. A, title IV, §431, Dec. 5, 1991, 105 Stat. 1354; Pub. L. 103–337, div. A, title XVI, §1673(c)(3), Oct. 5, 1994, 108 Stat. 3014; Pub. L. 104–201, div. A, title IV, §403(a), (b), Sept. 23, 1996, 110 Stat. 2504, 2505; Pub. L. 107–314, div. A, title IV, §406, Dec. 2, 2002, 116 Stat. 2526; Pub. L. 108–375, div. A, title IV, §§404, 416(g), Oct. 28, 2004, 118 Stat. 1864, 1868; Pub. L. 109–364, div. A, title X, §1071(g)(1)(B), Oct. 17, 2006, 120 Stat. 2402; Pub. L. 110–181, div. A, title IV, §§404, 405, Jan. 28, 2008, 122 Stat. 88.)
+(Added Pub. L. 96–513, title I, §103, Dec. 12, 1980, 94 Stat. 2842; amended Pub. L. 98–525, title IV, §414(a)(3), Oct. 19, 1984, 98 Stat. 2518; Pub. L. 99–145, title V, §511(a), Nov. 8, 1985, 99 Stat. 623; Pub. L. 99–433, title V, §531(a)(1), Oct. 1, 1986, 100 Stat. 1063; Pub. L. 102–190, div. A, title IV, §431, Dec. 5, 1991, 105 Stat. 1354; Pub. L. 103–337, div. A, title XVI, §1673(c)(3), Oct. 5, 1994, 108 Stat. 3014; Pub. L. 104–201, div. A, title IV, §403(a), (b), Sept. 23, 1996, 110 Stat. 2504, 2505; Pub. L. 107–314, div. A, title IV, §406, Dec. 2, 2002, 116 Stat. 2526; Pub. L. 108–375, div. A, title IV, §§404, 416(g), Oct. 28, 2004, 118 Stat. 1864, 1868; Pub. L. 109–364, div. A, title X, §1071(g)(1)(B), Oct. 17, 2006, 120 Stat. 2402; Pub. L. 110–181, div. A, title IV, §§404, 405, Jan. 28, 2008, 122 Stat. 88; Pub. L. 112–81, div. A, title V, §501, Dec. 31, 2011, 125 Stat. 1386.)
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(1). Pub. L. 110–181, §404, in table, increased number of officers authorized to serve on active duty in the Army in the grade of Major to 7,768, 8,689,9,611, 10,532, 11,454, 12,375, 13,297, 14,218, 15,140, 16,061, 16,983, 17,903, 18,825, 19,746, 20,668, 21,589, 22,511, 24,354, 26,197, 28,040, and 35,412 from 6,948, 7,539, 8,231, 8,922, 9,614, 10,305, 10,997, 11,688, 12,380, 13,071, 13,763, 14,454, 15,146, 15,837, 16,529, 17,220, 17,912, 19,295, 20,678, 22,061, and 27,593, respectively.
+<b>2011</b>—Subsec. (a)(1). Pub. L. 112–81, in table, increased number of officers authorized to serve on active duty in the Marine Corps in each grade covered as follows: Major to 2,802, 3,247, 3,691, 4,135, 4,579, 5,024, and 5,468 from 2,525, 2,900, 3,275, 3,650, 4,025, 4,400, and 4,775, respectively; Lieutenant Colonel to 1,615, 1,768, 1,922, 2,076, 2,230, 2,383, and 2,537 from 1,480, 1,600, 1,720, 1,840, 1,960, 2,080, and 2,200, respectively; and Colonel to 633, 658, 684, 710, 736, 762, and 787 from 571, 632, 653, 673, 694, 715, and 735, respectively.
+
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–181, §404, in table, increased number of officers authorized to serve on active duty in the Army in the grade of Major to 7,768, 8,689, 9,611, 10,532, 11,454, 12,375, 13,297, 14,218, 15,140, 16,061, 16,983, 17,903, 18,825, 19,746, 20,668, 21,589, 22,511, 24,354, 26,197, 28,040, and 35,412 from 6,948, 7,539, 8,231, 8,922, 9,614, 10,305, 10,997, 11,688, 12,380, 13,071, 13,763, 14,454, 15,146, 15,837, 16,529, 17,220, 17,912, 19,295, 20,678, 22,061, and 27,593, respectively.
 
 Subsec. (a)(2). Pub. L. 110–181, §405, amended table generally, extensively revising the numbers in each grade covered.
 
@@ -200,7 +202,7 @@ Pub. L. 101–189, div. A, title IV, §403, Nov. 29, 1989, 103 Stat. 1431, autho
 
 Pub. L. 101–189, div. A, title IV, §402, Nov. 29, 1989, 103 Stat. 1431, as amended by Pub. L. 101–510, div. A, title IV, §404, Nov. 5, 1990, 104 Stat. 1545, provided that the number of officers authorized under subsec. (a) of this section to be serving on active duty in the Air Force in the grade of colonel during fiscal year 1992 was reduced by 250.
 
-Pub. L. 100–456, div. A, title IV, §403, Sept. 29, 1988, 102 Stat. 1963, provided that the number of officers authorized under this section to be serving on active duty in the Air Force in the grade of colonel during fiscal year 1989 was reduced by 125, and the number of such officersauthorized to be serving on active duty during fiscal year 1990 was reduced by 250.
+Pub. L. 100–456, div. A, title IV, §403, Sept. 29, 1988, 102 Stat. 1963, provided that the number of officers authorized under this section to be serving on active duty in the Air Force in the grade of colonel during fiscal year 1989 was reduced by 125, and the number of such officers authorized to be serving on active duty during fiscal year 1990 was reduced by 250.
 
 #### Ceilings on Commissioned Officers on Active Duty
 
@@ -208,5 +210,5 @@ Pub. L. 95–79, title VIII, §811(a), July 30, 1977, 91 Stat. 335, as amended b
 
 #### Transition Provisions Under Defense Officer Personnel Management Act
 
-For provisions increasing for the fiscal year ending on Sept. 30, 1981, the maximum number of officers authorized by this section to be serving on active duty, see section 627 of Pub. L. 96–513, set out as a note under section 611 of this title.
+For provisions increasing for the fiscal year ending on Sept. 30, 1981, the maximum number of officers authorized by this section to be serving on active duty,see section 627 of Pub. L. 96–513, set out as a note under section 611 of this title.
 

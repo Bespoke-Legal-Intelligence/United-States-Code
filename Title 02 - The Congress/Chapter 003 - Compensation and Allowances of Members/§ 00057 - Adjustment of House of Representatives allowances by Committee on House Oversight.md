@@ -24,9 +24,9 @@ Section is based on House Resolution No. 457, Ninety-second Congress, July 21, 1
 
 #### Amendments
 
-1999—Subsec. (a)(1), (2). Pub. L. 106–57 substituted “all aspects of official mail” for “all aspects of the Official Mail Allowance”.
+<b>1999</b>—Subsec. (a)(1), (2). Pub. L. 106–57 substituted “all aspects of official mail” for “all aspects of the Official Mail Allowance”.
 
-1996—Pub. L. 104–186 amended section generally. Prior to amendment, section consisted of subsecs. (a) and (b) authorizing Committee on House Administration to adjust certain allowances for Members, committees, and officers of House of Representatives.
+<b>1996</b>—Pub. L. 104–186 amended section generally. Prior to amendment, section consisted of subsecs. (a) and (b) authorizing Committee on House Administration to adjust certain allowances for Members, committees, and officers of House of Representatives.
 
 #### Change of Name
 

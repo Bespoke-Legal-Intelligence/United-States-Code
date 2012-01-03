@@ -1,6 +1,6 @@
 ### §3711. Establishment of Office of Justice Programs
 
-There is hereby established an Office of Justice Programs within the Department of Justice under the general authority of the Attorney General. The Office of Justice Programs (hereinafter referred to in this chapter as the “Office”) shall be headed by an Assistant Attorney General (hereinafter in this chapter referred to as the “Assistant Attorney General”) appointed by the President, by and with the advice and consent of the Senate.
+There is hereby established an Office of Justice Programs within the Department of Justice under the general authority of the AttorneyGeneral. The Office of Justice Programs (hereinafter referred to in this chapter as the “Office”) shall be headed by an Assistant Attorney General (hereinafter in this chapter referred to as the “Assistant Attorney General”) appointed by the President, by and with the advice and consent of the Senate.
 
 (Pub. L. 90–351, title I, §101, as added Pub. L. 98–473, title II, §603(a), Oct. 12, 1984, 98 Stat. 2077.)
 
@@ -68,7 +68,7 @@ Pub. L. 106–177, title I, §101, Mar. 10, 2000, 114 Stat. 35, provided that: �
 
 #### Short Title of 1998 Amendments
 
-Pub. L. 105–390, §1, Nov. 13, 1998, 112 Stat. 3495, provided that: “This Act \[amending sections 3796d, 3796d–1, 3796d–3, 3796d–5, and 3796d–6 of this title\] may be cited as the ‘Police, Fire, and Emergency Officers Educational Assistance Act of 1998’.”
+Pub. L. 105–390, §1, Nov. 13, 1998, 112 Stat. 3495, provided that: “This Act \[amending sections 3796d, 3796d–1,3796d–3, 3796d–5, and 3796d–6 of this title\] may be cited as the ‘Police, Fire, and Emergency Officers Educational Assistance Act of 1998’.”
 
 Pub. L. 105–181, §1, June 16, 1998, 112 Stat. 512, provided that: “This Act \[enacting subchapter XII–M of this chapter, amending sections 3793 and 3797 of this title, and enacting provisions set out as a note under section 3796<i>ll</i> of this title\] may be cited as the ‘Bulletproof Vest Partnership Grant Act of 1998’.”
 
@@ -122,7 +122,7 @@ Section 1601 of Pub. L. 90–351, title XI, June 19, 1968, 82 Stat. 239, provide
 
 Section 609I of Pub. L. 98–473 provided that:
 
-“(a) Any reference to the Law Enforcement Assistance Administration, or to the Administrator of the Law Enforcement Assistance Administration, in any law other than this Act \[see Short Title of 1984 Amendment note set out above\] and the Omnibus Crime Control and Safe Streets Act of 1968 \[see Short Title note set out above\], applicable to activities, functions, powers, and duties that after the date of the enactment of this Act \[Oct. 12, 1984\] are carried out by the Bureau of Justice Assistance shall be deemed to be a reference to the Bureau of Justice Assistance, or to the Director of the Bureau of Justice Assistance, as the case may be.
+“(a) Any reference to the Law Enforcement Assistance Administration, or to the Administrator of theLaw Enforcement Assistance Administration, in any law other than this Act \[see Short Title of 1984 Amendment note set out above\] and the Omnibus Crime Control and Safe Streets Act of 1968 \[see Short Title note set out above\], applicable to activities, functions, powers, and duties that after the date of the enactment of this Act \[Oct. 12, 1984\] are carried out by the Bureau of Justice Assistance shall be deemed to be a reference to the Bureau of Justice Assistance, or to the Director of the Bureau of Justice Assistance, as the case may be.
 
 “(b) Any reference to the Office of Justice Assistance, Research, and Statistics, or to the Director of the Office of Justice Assistance, Research, and Statistics, in any law other than this Act and the Omnibus Crime Control and Safe Streets Act of 1968, applicable to activities, functions, powers, and duties that after the date of the enactment of this Act are carried out by the Office of Justice Programs, the Bureau of Justice Assistance, the Bureau of Justice Statistics, the National Institute of Justice, or the Office of Juvenile Justice \[and\] Delinquency Prevention shall be deemed to be a reference to the Office of Justice Programs, the Bureau of Justice Assistance, the Bureau of Justice Statistics, National Institute of Justice, or Office of Juvenile Justice \[and\] Delinquency Prevention, or to the Director of the Office of Justice Programs, the Director of the Bureau of Justice Assistance, the Director of the Bureau of Justice Statistics, the Director of the National Institute of Justice, or the Administrator of the Office of Juvenile Justice and Delinquency Prevention, as the case may be.”
 

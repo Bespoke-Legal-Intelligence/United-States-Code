@@ -198,11 +198,11 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Pub. L. 110–246, §1401(a), amended section generally, substituting provisions relating to loan program for the 2008 through 2012 crops of sugar beets and sugarcane, consisting of subsecs. (a) to (i), for provisions relating to loan program for the 1996 through 2007 crops of sugar beets and sugarcane, including provisions relating to loan rate adjustments, consisting of subsecs. (a) to (j).
+<b>2008</b>—Pub. L. 110–246, §1401(a), amended section generally, substituting provisions relating to loan program for the 2008 through 2012 crops of sugar beets and sugarcane, consisting of subsecs. (a) to (i), for provisions relating to loan program for the 1996 through 2007 crops of sugar beets and sugarcane, including provisions relating to loan rate adjustments, consisting of subsecs. (a) to (j).
 
-2002—Pub. L. 107–171 reenacted section catchline and amended text generally, substituting substantially similar provisions in subsecs. (a), (b), (d), (e), and (h), and substituting in subsec. (c) provisions relating to loan rate adjustments for provisions relating to reduction in loan rates, in subsec. (f) provisions relating to loans for in-process sugar for provisions for marketing assessment, in subsec. (g) provisions relating to avoiding forfeitures and corporate inventory disposition for provisions relating to forfeiture penalty, in subsec. (i) provisions relating to substitution of refined sugar for provisions relating to crops, and adding subsec. (j).
+<b>2002</b>—Pub. L. 107–171 reenacted section catchline and amended text generally, substituting substantially similar provisions in subsecs. (a), (b), (d), (e), and (h), and substituting in subsec. (c) provisions relating to loan rate adjustments for provisions relating to reduction in loan rates, in subsec. (f) provisions relating to loans for in-process sugar for provisions for marketing assessment, in subsec. (g) provisions relating to avoiding forfeitures and corporate inventory disposition for provisions relating to forfeiture penalty, in subsec. (i) provisions relating to substitution of refined sugar for provisions relating to crops, and adding subsec. (j).
 
-2000—Subsec. (e)(1). Pub. L. 106–387, §1(a) \[title VIII, §836(1)(B)\], substituted “The” for “Subject to paragraph (2), the”.
+<b>2000</b>—Subsec. (e)(1). Pub. L. 106–387, §1(a) \[title VIII, §836(1)(B)\], substituted “The” for “Subject to paragraph (2), the”.
 
 Pub. L. 106–387, §1(a) \[title VIII, §836(1)(A)\], substituted “nonrecourse” for “recourse”.
 

@@ -50,7 +50,7 @@ A prior section 4360, Pub. L. 99–371, title II, §211, formerly title IV, §41
 
 Subsec. (b). Pub. L. 110–315, §913(b), substituted “commission” for “Secretary” wherever appearing.
 
-Subsec. (c). Pub. L. 110–315, §913(c)(1), in introductory provisions, substituted “commission shall report to the Secretary and Congress not later than 18 months after August 14, 2008” for “Secretary shall report to Congress not later than 18 months after October 7, 1998”.
+Subsec. (c). Pub. L. 110–315, §913(c)(1), in introductory provisions, substituted “commission shall report to theSecretary and Congress not later than 18 months after August 14, 2008” for “Secretary shall report to Congress not later than 18 months after October 7, 1998”.
 
 Subsec. (c)(1). Pub. L. 110–315, §913(c)(2), substituted “recommendations relating to educated-related factors that contribute to successful postsecondary education experiences and employment for individuals who are deaf, including” for “recommendations, including” and “commission” for “Secretary”.
 

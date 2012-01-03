@@ -2,7 +2,7 @@
 
 This chapter does not prohibit—
 
-&emsp;(1) any otherwise lawful activity conducted by a governmental entity of the United States,a State, or a political subdivision of a State; or
+&emsp;(1) any otherwise lawful activity conducted by a governmental entity of the United States, a State, or a political subdivision of a State; or
 
 &emsp;(2) the reporting of a suspected violation of law to any governmental entity of the United States, a State, or a political subdivision of a State, if such entity has lawful authority with respect to that violation.
 

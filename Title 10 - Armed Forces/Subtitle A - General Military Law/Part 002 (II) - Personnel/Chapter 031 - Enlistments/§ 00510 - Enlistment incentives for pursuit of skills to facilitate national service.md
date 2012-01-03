@@ -2,7 +2,7 @@
 
 (a)
 
-Enlistment Incentive Program.—The Secretary of Defense shall carry out an enlistment incentive program in accordance with this section under which a person who is a National Callto Service participant shall be entitled to one of the incentives specified in subsection (e). The program shall be carried out during the period ending on December 31, 2007, and may be carried out after that date.
+Enlistment Incentive Program.—The Secretary of Defense shall carry out an enlistment incentive program in accordance with this section under which a person who is a National Call to Service participant shall be entitled to one of the incentives specified in subsection (e). The program shall be carried out during the period ending on December 31, 2007, and may be carried out after that date.
 
 (b)
 
@@ -14,7 +14,7 @@ National Service.—The total period of national service to which a National Cal
 
 &emsp;(1) upon completion of initial entry training (as prescribed by the Secretary of Defense), serve on active duty in a military occupational specialty designated by the Secretary of Defense under subsection (d) for a period of 15 months;
 
-&emsp;(2) upon completion of the period of active duty specified in paragraph (1) and without a break in service, serve either (A) an additional period of active duty as determined by the Secretary of Defense, or (B) a period of 24 months in an active status in the Selected Reserve; and
+&emsp;(2) upon completion of the period of active duty specified in paragraph (1) and without abreak in service, serve either (A) an additional period of active duty as determined by the Secretary of Defense, or (B) a period of 24 months in an active status in the Selected Reserve; and
 
 &emsp;(3) upon completion of the period of service specified in paragraph (2), and without a break in service, serve the remaining period of obligated service specified in the agreement—
 
@@ -66,11 +66,11 @@ Coordination With Montgomery GI Bill Benefits.—(1)(A) Subject to subparagraph 
 
 (2)(A) Educational assistance under paragraphs (3) or (4) of subsection (e) shall be provided through the Department of Veterans Affairs under an agreement to be entered into by the Secretary of Defense and the Secretary of Veterans Affairs. The agreements shall include administrative procedures to ensure the prompt and timely transfer of funds from the Secretary concerned to the Secretary of Veterans Affairs for the making of payments under this section.
 
-(B) Except as otherwise provided in this section, the provisions of sections 503, 511, 3470,3471, 3474, 3476, 3482(g), 3483, and 3485 of title 38 and the provisions of subchapters I and II of chapter 36 of such title (with the exception of sections 3686(a), 3687, and 3692) shall be applicable to the provision of educational assistance under this chapter. The term “eligible veteran” and the term “person”, as used in those provisions, shall be deemed for the purpose of the application of those provisions to this section to refer to a person eligible for educational assistance under paragraph (3) or (4) of subsection (e).
+(B) Except as otherwise provided in this section, the provisions of sections 503, 511, 3470, 3471, 3474, 3476, 3482(g), 3483, and 3485 of title 38 and the provisions of subchapters I and II of chapter 36 of such title (with the exception of sections 3686(a), 3687, and 3692) shall be applicable to the provision of educational assistance under this chapter. The term “eligible veteran” and the term “person”, as used in those provisions, shall be deemed for the purpose of the application of those provisions to this section to refer to a person eligible for educational assistance under paragraph (3) or (4) of subsection (e).
 
 (3)(A) Except as provided in paragraph (1), nothing in this section shall prohibit a National Call to Service participant who satisfies through service under subsection (c) the eligibility requirements for educational assistance under chapter 1606 of this title or basic educational assistance under chapter 30 of title 38 from an entitlement to such educational assistance under chapter 1606 of this title or basic educational assistance under chapter 30 of title 38, as the case may be.
 
-(B)(i) A participant who made an election not to receive educational assistance under either such chapter at the applicable time specified under law or who was denied the opportunity to make an election may revoke that election or make an initial election, as the case may be, at such time and in such manner as the Secretary concerned may specify. A revocation or initial election under the preceding sentence is irrevocable.
+(B)(i) A participant who made an election not to receive educational assistance under either such chapter at the applicable time specified under law or who was denied the opportunity to make an election may revoke that election or make an initial election, as the case may be, atsuch time and in such manner as the Secretary concerned may specify. A revocation or initial election under the preceding sentence is irrevocable.
 
 (ii) The participant making a revocation or initial election under clause (i) shall be eligible for educational assistance under either such chapter at such time as the participant satisfies through service the applicable eligibility requirements under either such chapter.
 
@@ -134,7 +134,7 @@ Pub. L. 109–163, div. A, title VI, §687(f), Jan. 6, 2006, 119 Stat. 3336, pro
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Commencement of Program
 

@@ -10,5 +10,5 @@ R.S. §5140 derived from act June 3, 1864, ch. 106, §14, 13 Stat. 103, which wa
 
 #### Amendments
 
-1959—Pub. L. 86–230 substituted requirement that all the capital stock of a national bank must be paid in before it commences business for permissive authority to be open for business upon payment of 50 per centum of the capital stock and installment payment of the remaining 50 per centum.
+<b>1959</b>—Pub. L. 86–230 substituted requirement that all the capital stock of a national bank must be paid in before it commences business for permissive authority to be open for business upon payment of 50 per centum of the capital stock and installment payment of the remaining 50 per centum.
 

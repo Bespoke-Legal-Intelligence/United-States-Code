@@ -48,7 +48,7 @@ Loans from any student loan fund established by a school pursuant to an agreemen
 
 &emsp;&emsp;(A) beginning on the date that is 3 months after the individual ceases to pursue a course of study at a school of nursing, bear interest on the unpaid balance of the loan at the rate of 3 percent per annum; or
 
-&emsp;&emsp;(B) subject to subsection (e) of this section, if the school of nursing determines that the individual will not complete such course of study or serve as a faculty member as required under the loan agreement under this subsection, bear interest on the unpaid balance of the loan at the prevailing market rate.
+&emsp;&emsp;(B) subject to subsection (e) of this section, if the school of nursing determines thatthe individual will not complete such course of study or serve as a faculty member as required under the loan agreement under this subsection, bear interest on the unpaid balance of the loan at the prevailing market rate.
 
 #### (d) Payment of proportionate share
 
@@ -62,7 +62,7 @@ At the request of the individual involved, the Secretary may review any determin
 
 There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 2010 through 2014.
 
-(July 1, 1944, ch. 373, title VIII, §846A, as added Pub. L. 107–205, title II, §203, Aug. 1, 2002, 116Stat. 817; amended Pub. L. 111–148, title V, §5311(a), Mar. 23, 2010, 124 Stat. 631.)
+(July 1, 1944, ch. 373, title VIII, §846A, as added Pub. L. 107–205, title II, §203, Aug. 1, 2002, 116 Stat. 817; amended Pub. L. 111–148, title V, §5311(a), Mar. 23, 2010, 124 Stat. 631.)
 
 #### Amendments
 

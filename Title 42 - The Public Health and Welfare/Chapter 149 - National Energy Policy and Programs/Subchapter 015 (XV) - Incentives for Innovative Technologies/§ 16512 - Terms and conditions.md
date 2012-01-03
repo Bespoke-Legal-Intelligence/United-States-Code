@@ -6,11 +6,15 @@ Except for division C of Public Law 108–324 \[15 U.S.C. 720 et seq.\], the Sec
 
 #### (b) Specific appropriation or contribution
 
-No guarantee shall be made unless—
+#### (1) <sup>1</sup> In general
 
-&emsp;(1) an appropriation for the cost has been made; or
+&emsp;No guarantee shall be made unless—
 
-&emsp;(2) the Secretary has received from the borrower a payment in full for the cost of the obligation and deposited the payment into the Treasury.
+&emsp;&emsp;(A) an appropriation for the cost of the guarantee has been made;
+
+&emsp;&emsp;(B) the Secretary has received from the borrower a payment in full for the cost of the guarantee and deposited the payment into the Treasury; or
+
+&emsp;&emsp;(C) a combination of one or more appropriations under subparagraph (A) and one or more payments from the borrower undersubparagraph (B) has been made that is sufficient to cover the cost of the guarantee.
 
 #### (c) Amount
 
@@ -140,7 +144,7 @@ The full faith and credit of the United States is pledged to the payment of all 
 
 All laborers and mechanics employed by contractors and subcontractors in the performance of construction work financed in whole or in part by a loan guaranteed under this subchapter shall be paid wages at rates not less than those prevailing on projects of a character similar in the locality as determined by the Secretary of Labor in accordance with subchapter IV of chapter 31 of title 40. With respect to the labor standards in this subsection, the Secretary of Labor shall have the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (64 Stat. 1267; 5 U.S.C. App.) and section 3145 of title 40.
 
-(Pub. L. 109–58, title XVII, §1702, Aug. 8, 2005, 119 Stat. 1117; Pub. L. 111–85, title III, §310, Oct. 28, 2009, 123 Stat. 2873.)
+(Pub. L. 109–58, title XVII, §1702, Aug. 8, 2005, 119 Stat. 1117; Pub. L. 111–85, title III, §310, Oct. 28, 2009, 123 Stat. 2873; Pub. L. 112–74, div. B, title III, §305(1), Dec. 23, 2011, 125 Stat. 877.)
 
 #### References in Text
 
@@ -150,5 +154,13 @@ Reorganization Plan Numbered 14 of 1950, referred to in subsec. (k), is set out 
 
 #### Amendments
 
+<b>2011</b>—Subsec. (b). Pub. L. 112–74 added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “No guarantee shall be made unless—
+
+&emsp;“(1) an appropriation for the cost has been made; or
+
+&emsp;“(2) the Secretary has received from the borrower a payment in full for the cost of the obligation and deposited the payment into the Treasury.”
+
 <b>2009</b>—Subsec. (k). Pub. L. 111–85 added subsec. (k).
+
+<i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
 

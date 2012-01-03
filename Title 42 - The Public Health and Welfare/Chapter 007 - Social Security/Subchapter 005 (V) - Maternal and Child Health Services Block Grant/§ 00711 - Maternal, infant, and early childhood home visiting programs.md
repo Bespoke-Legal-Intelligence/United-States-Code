@@ -64,7 +64,7 @@ The purposes of this section are—
 
 #### (2) Authority to use initial grant funds for planning or implementation
 
-&emsp;An eligible entity that receives a grant under paragraph (1) may use a portion of the funds made available to the entity during the first 6 months of the period for which the grant is made for planning or implementation activities to assist with the establishment ofearly childhood home visitation programs that satisfy the requirements of subsection (d).
+&emsp;An eligible entity that receives a grant under paragraph (1) may use a portion of the funds made available to the entity during the first 6 months of the period for which the grant is made for planning or implementation activities to assist with the establishment of early childhood home visitation programs that satisfy the requirements of subsection (d).
 
 #### (3) Grant duration
 
@@ -100,7 +100,7 @@ The requirements of this subsection for an early childhood home visitation progr
 
 #### (i) Report to the Secretary
 
-&emsp;&emsp;&emsp;Not later than 30 days after the end of the 3rd year in which the eligible entity conducts the program, the entity submits to the Secretary a report demonstrating improvement in at least 4 of the areas specified in subparagraph (A).
+&emsp;&emsp;&emsp;Not later than 30 days after the end of the 3rd year in which the eligible entity conducts the program, the entity submitsto the Secretary a report demonstrating improvement in at least 4 of the areas specified in subparagraph (A).
 
 #### (ii) Corrective action plan
 
@@ -216,7 +216,7 @@ An eligible entity desiring a grant under this section shall submit an applicati
 
 &emsp;(1) A description of the populations to be served by the entity, including specific information regarding how the entity will serve high risk populations described in subsection (d)(4).
 
-&emsp;(2) An assurance that the entity will give priority to serving low-income eligible families and eligible families who reside in at risk communities identified in the statewide needsassessment required under subsection (b)(1)(A).
+&emsp;(2) An assurance that the entity will give priority to serving low-income eligible families and eligible families who reside in at risk communities identified in the statewide needs assessment required under subsection (b)(1)(A).
 
 &emsp;(3) The service delivery model or models described in subsection (d)(3)(A) that the entity will use under the program and the basis for the selection of the model or models.
 

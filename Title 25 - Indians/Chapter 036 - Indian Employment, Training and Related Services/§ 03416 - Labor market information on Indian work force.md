@@ -28,3 +28,7 @@ Public Law 101–301, referred to in subsec. (b), is Pub. L. 101–301, May 24, 
 
 <b>1994</b>—Subsec. (b). Pub. L. 103–437 substituted “Committee on Indian” for “Select Committee on Indian” and “Natural Resources” for “Interior and Insular Affairs”.
 
+#### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+

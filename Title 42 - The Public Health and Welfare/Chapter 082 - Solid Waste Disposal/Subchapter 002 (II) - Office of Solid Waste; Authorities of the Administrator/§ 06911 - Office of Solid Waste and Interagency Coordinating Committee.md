@@ -12,7 +12,7 @@ The Administrator shall establish within the Environmental Protection Agency an 
 
 &emsp;(A) the May 1979 Memorandum of Understanding on Energy Recovery from Municipal Solid Waste between the Environmental Protection Agency and the Department of Energy;
 
-&emsp;(B) the May 30, 1978, Interagency Agreement between the Department of Commerce and the Environmental Protection Agency on the Implementation of the Resource Conservation and Recovery Act \[42 U.S.C. 6901 et seq.\]; and
+&emsp;(B) the May 30, 1978, Interagency Agreement between the Department of Commerce and theEnvironmental Protection Agency on the Implementation of the Resource Conservation and Recovery Act \[42 U.S.C. 6901 et seq.\]; and
 
 &emsp;(C) any subsequent agreements between these agencies or other Federal agencies which address Federal resource recovery or conservation activities.
 

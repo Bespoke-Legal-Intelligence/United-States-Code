@@ -42,7 +42,7 @@
 
 &emsp;&emsp;(ii) to validate the accuracy of the observer information collected.
 
-(3) The Secretary shall, by regulation, prescribe such procedures as may be necessary to preserve the confidentiality of information submitted in compliance with any requirement orregulation under this chapter, except that the Secretary may release or make public any such information in any aggregate or summary form which does not directly or indirectly disclose the identity or business of any person who submits such information. Nothing in this subsection shall be interpreted or construed to prevent the use for conservation and management purposes by the Secretary, or with the approval of the Secretary, the Council, of any information submitted in compliance with any requirement or regulation under this chapter or the use, release, or publication of bycatch information pursuant to paragraph (2)(A).
+(3) The Secretary shall, by regulation, prescribe such procedures as may be necessary to preserve the confidentiality of information submitted in compliance with any requirement or regulation under this chapter, except that the Secretary may release or make public any such information in any aggregate or summary form which does not directly or indirectly disclose the identity or business of any person who submits such information. Nothing in this subsection shall be interpreted or construed to prevent the use for conservation and management purposes by the Secretary, or with the approval of the Secretary, the Council, of any information submitted in compliance with any requirement or regulation under this chapter or the use, release, or publication of bycatch information pursuant to paragraph (2)(A).
 
 #### (c) Restriction on use of certain information
 

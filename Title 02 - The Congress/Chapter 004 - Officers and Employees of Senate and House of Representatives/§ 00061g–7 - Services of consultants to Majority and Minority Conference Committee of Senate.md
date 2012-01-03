@@ -22,5 +22,5 @@ Section is from the Supplemental Appropriations Act, 1985.
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–197 inserted “or with respect to the administration of the affairs of the committee” before period at end.
+<b>1996</b>—Subsec. (a). Pub. L. 104–197 inserted “or with respect to the administration of the affairs of the committee” before period at end.
 

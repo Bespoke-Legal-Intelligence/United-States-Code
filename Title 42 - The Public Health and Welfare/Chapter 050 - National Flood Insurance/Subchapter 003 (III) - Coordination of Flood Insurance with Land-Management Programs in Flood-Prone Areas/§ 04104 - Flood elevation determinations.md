@@ -26,7 +26,7 @@ When, incident to any appeal under subsection (b) or (c) of this section, the ow
 
 #### (g) Judicial review of final administrative determinations; venue; time for appeal; scope of review; good cause for stay of final determinations
 
-Any appellant aggrieved by any final determination of the Director upon administrative appeal, as provided by this section, may appeal such determination to the United States district court for the district within which the community is located not more than sixty days after receipt of notice of such determination. The scope of review by the court shall be as provided by chapter 7 of title 5. During the pendency of any such litigation, all final determinations of the Director shall be effective for the purposes of this chapter unless stayed by the court for good cause shown.
+Any appellant aggrieved by any final determination of the Director upon administrative appeal, as provided by this section, may appeal such determination to the United States districtcourt for the district within which the community is located not more than sixty days after receipt of notice of such determination. The scope of review by the court shall be as provided by chapter 7 of title 5. During the pendency of any such litigation, all final determinations of the Director shall be effective for the purposes of this chapter unless stayed by the court for good cause shown.
 
 (Pub. L. 90–448, title XIII, §1363, as added Pub. L. 93–234, title I, §110, Dec. 31, 1973, 87 Stat. 980; amended Pub. L. 95–128, title VII, §704(c), Oct. 12, 1977, 91 Stat. 1146; Pub. L. 98–181, title IV, §451(d)(1), Nov. 30, 1983, 97 Stat. 1229.)
 

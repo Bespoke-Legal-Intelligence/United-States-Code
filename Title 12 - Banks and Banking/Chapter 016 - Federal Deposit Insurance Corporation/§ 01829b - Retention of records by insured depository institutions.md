@@ -62,7 +62,7 @@ Each insured depository institution shall make, to the extent that the regulatio
 
 #### (e) Identity of persons making reportable currency and foreign transactions
 
-Subject to the requirements of any regulations prescribed jointly by the Secretary and the Board under paragraph (2) or (3) of subsection (b) of this section, whenever any individual engages (whether as principal, agent, or bailee) in any transaction with an insured depository institution which is required to be reported or recorded under subchapter II of chapter 53 of title 31, the insured depository institution shall require and retain such evidence of the identityof that individual as the Secretary may prescribe as appropriate under the circumstances.
+Subject to the requirements of any regulations prescribed jointly by the Secretary and the Board under paragraph (2) or (3) of subsection (b) of this section, whenever any individual engages (whether as principal, agent, or bailee) in any transaction with an insured depository institution which is required to be reported or recorded under subchapter II of chapter 53 of title 31, the insured depository institution shall require and retain such evidence of the identity of that individual as the Secretary may prescribe as appropriate under the circumstances.
 
 #### (f) Additions to or substitutes for required records
 
@@ -92,7 +92,7 @@ The provisions of this section shall not apply to any foreign bank except with r
 
 #### (3) Assessment
 
-&emsp;Any penalty imposed under paragraph (1) shall be assessed, mitigated, and collected in the manner provided in subsections (b) and (c) of section 5321 of title 31.
+&emsp;Any penalty imposed under paragraph (1) shall be assessed, mitigated, and collected inthe manner provided in subsections (b) and (c) of section 5321 of title 31.
 
 (Sept. 21, 1950, ch. 967, §2\[21\], as added Pub. L. 91–508, title I, §101, Oct. 26, 1970, 84 Stat. 1114; amended Pub. L. 95–369, §6(c)(29), Sept. 17, 1978, 92 Stat. 620; Pub. L. 100–690, title VI, §6185(d)(1), Nov. 18, 1988, 102 Stat. 4356; Pub. L. 101–73, title II, §201(a), Aug. 9, 1989, 103 Stat. 187; Pub. L. 102–550, title XV, §§1515(a), (b), 1535(b), Oct. 28, 1992, 106 Stat. 4058, 4059, 4066; Pub. L. 103–325, title VI, §602(a)(52)–(54), Sept. 23, 1994, 108 Stat. 2290; Pub. L. 107–56, title III, §358(d), Oct. 26, 2001, 115 Stat. 326; Pub. L. 108–458, title VI, §6203(k), Dec. 17, 2004, 118 Stat. 3747.)
 
@@ -102,17 +102,17 @@ In subsec. (e), “subchapter II of chapter 53 of title 31” was substituted fo
 
 #### Amendments
 
-2004—Subsec. (a)(2). Pub. L. 108–458 substituted “recognizing that” for “recognizes that”.
+<b>2004</b>—Subsec. (a)(2). Pub. L. 108–458 substituted “recognizing that” for “recognizes that”.
 
-2001—Subsec. (a). Pub. L. 107–56 reenacted heading without change and amended text generally. Prior to amendment, text read as follows:
+<b>2001</b>—Subsec. (a). Pub. L. 107–56 reenacted heading without change and amended text generally. Prior to amendment, text read as follows:
 
 “(1) The Congress finds that adequate records maintained by insured depository institutions have a high degree of usefulness in criminal, tax, and regulatory investigations and proceedings. The Congress further finds that microfilm or other reproductions and other records made by banks of checks, as well as records kept by banks of the identity of persons maintaining or authorized to act with respect to accounts therein, have been of particular value in this respect.
 
 “(2) It is the purpose of this section to require the maintenance of appropriate types of records by insured depository institutions in the United States where such records have a high degree of usefulness in criminal, tax, or regulatory investigations or proceedings.”
 
-1994—Subsecs. (c), (d)(2), (e). Pub. L. 103–325 substituted “the insured depository institution” for “the bank”.
+<b>1994</b>—Subsecs. (c), (d)(2), (e). Pub. L. 103–325 substituted “the insured depository institution” for “the bank”.
 
-1992—Subsec. (b). Pub. L. 102–550, §1515(a), inserted heading, designated existing provisions as par. (1) and inserted heading, and added pars. (2) and (3).
+<b>1992</b>—Subsec. (b). Pub. L. 102–550, §1515(a), inserted heading, designated existing provisions as par. (1) and inserted heading, and added pars. (2) and (3).
 
 Subsec. (c). Pub. L. 102–550, §1515(b)(1), substituted “Subject to the requirements of any regulations prescribed jointly by the Secretary and the Board under paragraph (2) or (3) of subsection (b) of this section, each insured” for “Each insured”.
 
@@ -122,11 +122,11 @@ Subsec. (f). Pub. L. 102–550, §1515(b)(3), substituted “Subject to the requ
 
 Subsec. (j)(1). Pub. L. 102–550, §1535(b), inserted “, or any person who willfully causes such a violation,” after “gross negligence violates”.
 
-1989—Pub. L. 101–73 substituted references to insured depository institutions for references to insured banks wherever appearing in this section.
+<b>1989</b>—Pub. L. 101–73 substituted references to insured depository institutions for references to insured banks wherever appearing in this section.
 
-1988—Subsec. (j). Pub. L. 100–690 added subsec. (j).
+<b>1988</b>—Subsec. (j). Pub. L. 100–690 added subsec. (j).
 
-1978—Subsec. (i). Pub. L. 95–369 added subsec. (i).
+<b>1978</b>—Subsec. (i). Pub. L. 95–369 added subsec. (i).
 
 #### Effective Date of 2004 Amendment
 

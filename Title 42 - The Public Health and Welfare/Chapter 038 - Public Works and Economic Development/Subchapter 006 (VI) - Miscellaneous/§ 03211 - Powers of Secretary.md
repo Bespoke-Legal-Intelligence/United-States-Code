@@ -52,7 +52,7 @@ The authority under subsection (a)(7) of this section to pursue claims shall inc
 
 #### (c) Inapplicability of certain other requirements
 
-Section 6101 of title 41 shall not apply to any contract of hazard insurance or to any purchase or contract for services or supplies on account of property obtained by the Secretary as a result ofassistance provided under this chapter if the premium for the insurance or the amount of the services or supplies does not exceed $1,000.
+Section 6101 of title 41 shall not apply to any contract of hazard insurance or to any purchase or contract for services or supplies on account of property obtained by the Secretary as a result of assistance provided under this chapter if the premium for the insurance or the amount of the services or supplies does not exceed $1,000.
 
 #### (d) Property interests
 

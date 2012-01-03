@@ -20,7 +20,7 @@ Historical and Revision Notes
 
 Jan. 4, 1889, ch. 20, (4th, 5th sentences), 25 Stat. 640.
 
-The word “activities” is substituted for “proceedings” for consistency in the revised title. The words“any part of the report the Secretary decides is appropriate” are substituted for “whole of such reports, or such portion thereof as he shall see fit” to eliminate unnecessary words.
+The word “activities” is substituted for “proceedings” for consistency in the revised title. The words “any part of the report the Secretary decides is appropriate” are substituted for “whole of such reports, or such portion thereof as he shall see fit” to eliminate unnecessary words.
 
 #### Termination of Reporting Requirements
 

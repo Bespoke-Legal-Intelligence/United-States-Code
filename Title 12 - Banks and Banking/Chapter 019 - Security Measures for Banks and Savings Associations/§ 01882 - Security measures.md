@@ -2,17 +2,23 @@
 
 #### (a) Rules for installation, maintenance, and operation of security devices and procedures
 
-Within six months from July 7, 1968, each Federal supervisory agency shall promulgate rules establishing minimum standards with which each bank or savings and loan association must comply with respect to the installation, maintenance, and operation of security devices and procedures, reasonable in cost, to discourage robberies, burglaries, and larcenies and to assist in the identification and apprehension of persons who commit such acts.
+Within six months from July 7, 1968, each Federal supervisory agency shall promulgate rules establishing minimum standards with which each bank or savings association must comply with respect to the installation, maintenance, and operation of security devices and procedures, reasonable in cost, to discourage robberies, burglaries, and larcenies and to assist in the identification and apprehension of persons who commit such acts.
 
 #### (b) Time for compliance with standards
 
-The rules shall establish the time limits within which banks and savings and loan associations shall comply with the standards.
+The rules shall establish the time limits within which banks and savings associations shall comply with the standards.
 
-(Pub. L. 90–389, §3, July 7, 1968, 82 Stat. 295; Pub. L. 101–73, title IX, §911(a), Aug. 9, 1989, 103 Stat. 478.)
+(Pub. L. 90–389, §3, July 7, 1968, 82 Stat. 295; Pub. L. 101–73, title IX, §911(a), Aug. 9, 1989, 103 Stat. 478; Pub. L. 111–203, title III, §356(2), July 21, 2010, 124 Stat. 1547.)
 
 #### Amendments
 
-1989—Subsec. (b). Pub. L. 101–73 struck out “and shall require the submission of periodic reports with respect to the installation, maintenance, and operation of security devices and procedures” before period at end.
+<b>2010</b>—Pub. L. 111–203 struck out “and loan” after “savings” in subsecs. (a) and (b).
+
+<b>1989</b>—Subsec. (b). Pub. L. 101–73 struck out “and shall require the submission of periodic reports with respect to the installation, maintenance, and operation of security devices and procedures” before period at end.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the transfer date, see section 351 of Pub. L. 111–203, set out as a note under section 906 of Title 2, The Congress.
 
 #### Effective Date of 1989 Amendment
 

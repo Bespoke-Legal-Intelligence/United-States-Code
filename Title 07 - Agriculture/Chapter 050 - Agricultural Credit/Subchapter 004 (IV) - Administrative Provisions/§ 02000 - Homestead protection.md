@@ -36,7 +36,7 @@ As used in this section:
 
 (1) To be eligible to occupy homestead property, a borrower-owner of a loan made or insured by the Secretary or the Administrator shall—
 
-&emsp;(A) apply for such occupancy not later than 30 days after the property is acquired by the Secretary or Administrator, or for property ininventory on January 6, 1988, the borrower-owner shall apply for occupancy not later than 30 days after January 6, 1988;
+&emsp;(A) apply for such occupancy not later than 30 days after the property is acquired by the Secretary or Administrator, or for property in inventory on January 6, 1988, the borrower-owner shall apply for occupancy not later than 30 days after January 6, 1988;
 
 &emsp;(B) have received from farming or ranching operations gross farm income reasonably commensurate with—
 
@@ -82,7 +82,7 @@ The Secretary may enter into contracts authorized by this section before the Sec
 
 In the event of any conflict between this section and any provision of the law of any State relating to the right of a borrower-owner to designate for separate sale or redeem part or all of the real property securing a loan foreclosed on by the lender thereof, such provision of State law shall prevail.
 
-(Pub. L. 87–128, title III, §352, as added Pub. L. 99–198, title XIII, §1321, Dec. 23, 1985, 99 Stat. 1532; amended Pub. L. 100–233, title VI, §614, Jan. 6, 1988, 101 Stat. 1675; Pub. L. 102–237, title V,§501(g), title VII, §701(h)(2), Dec. 13, 1991, 105 Stat. 1867, 1880; Pub. L. 102–552, title V, §516(i), (j)(1), Oct. 28, 1992, 106 Stat. 4138; Pub. L. 104–127, title VI, §644, Apr. 4, 1996, 110 Stat. 1103; Pub. L. 110–234, title V, §5305, May 22, 2008, 122 Stat. 1153; Pub. L. 110–246, §4(a), title V, §5305, June 18, 2008, 122 Stat. 1664, 1915.)
+(Pub. L. 87–128, title III, §352, as added Pub. L. 99–198, title XIII, §1321, Dec. 23, 1985, 99 Stat. 1532; amended Pub. L. 100–233, title VI, §614, Jan. 6, 1988, 101 Stat. 1675; Pub. L. 102–237, title V, §501(g), title VII, §701(h)(2), Dec. 13, 1991, 105 Stat. 1867, 1880; Pub. L. 102–552, title V, §516(i), (j)(1), Oct. 28, 1992, 106 Stat. 4138; Pub. L. 104–127, title VI, §644, Apr. 4, 1996, 110 Stat. 1103; Pub. L. 110–234, title V, §5305, May 22, 2008, 122 Stat. 1153; Pub. L. 110–246, §4(a), title V, §5305, June 18, 2008, 122 Stat. 1664, 1915.)
 
 #### References in Text
 
@@ -98,17 +98,17 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (c)(4)(B). Pub. L. 110–246, §5305, substituted “period of occupancy of a borrower-owner who is a socially disadvantaged farmer or rancher (as defined in section 2003(e)(2) of this title), the borrower-owner or a member of the immediate family of the borrower-owner” for “period of occupancy, the borrower-owner” and inserted “or immediate family member, as the case may be,” after “selected by the borrower-owner”.
+<b>2008</b>—Subsec. (c)(4)(B). Pub. L. 110–246, §5305, substituted “period of occupancy of a borrower-owner who is a socially disadvantaged farmer or rancher (as defined in section 2003(e)(2) of this title), the borrower-owner or a member of the immediate family of the borrower-owner” for “period of occupancy, the borrower-owner” and inserted “or immediate family member, as the case may be,” after “selected by the borrower-owner”.
 
-1996—Subsec. (c)(1)(A). Pub. L. 104–127, §644(1), substituted “30” for “90” in two places.
+<b>1996</b>—Subsec. (c)(1)(A). Pub. L. 104–127, §644(1), substituted “30” for “90” in two places.
 
 Subsec. (c)(6). Pub. L. 104–127, §644(2), substituted “Not later than the date of acquisition of the property securing a loan made under this chapter (or, in the case of real property in inventory on April 4, 1996, not later than 5 days after April 4, 1996),” for “Within 30 days of the acquisition of the homestead property securing a loan made or insured under this chapter,” and struck out at end “For property in inventory on January 6, 1988, the Secretary shall make a good faith effort to notify the borrower-owner of the availability of homestead protection rights under this section within 60 days after January 6, 1988.”
 
-1992—Subsec. (a)(4), (5). Pub. L. 102–552, §516(i), redesignated par. (4), defining “Secretary”, as (5).
+<b>1992</b>—Subsec. (a)(4), (5). Pub. L. 102–552, §516(i), redesignated par. (4), defining “Secretary”, as (5).
 
 Subsec. (b)(2). Pub. L. 102–552, §516(j)(1), substituted “borrower-owner's” for “borrower's”.
 
-1991—Subsec. (a)(2) to (4). Pub. L. 102–237, §501(g), added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, and substituted “borrower-owner” for “borrower” in redesignated par. (4).
+<b>1991</b>—Subsec. (a)(2) to (4). Pub. L. 102–237, §501(g), added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, and substituted “borrower-owner” for “borrower” in redesignated par. (4).
 
 Subsec. (b)(1). Pub. L. 102–237, §501(g)(2), substituted “borrower-owner” for “borrower” wherever appearing.
 
@@ -116,7 +116,7 @@ Subsec. (b)(3). Pub. L. 102–237, §701(h)(2), struck out “be” after “sha
 
 Subsecs. (c), (d), (g). Pub. L. 102–237, §501(g)(2), substituted “borrower-owner” for “borrower” wherever appearing.
 
-1988—Subsec. (a)(3). Pub. L. 100–233, §614(1), inserted “, including a reasonable number of farm outbuildings located on the adjoining land that are useful to the occupants of the homestead, and no more than 10 acres of adjoining land that is used to maintain the family of the individual”.
+<b>1988</b>—Subsec. (a)(3). Pub. L. 100–233, §614(1), inserted “, including a reasonable number of farm outbuildings located on the adjoining land that are useful to the occupants of the homestead, and no more than 10 acres of adjoining land that is used to maintain the family of the individual”.
 
 Subsec. (b)(1). Pub. L. 100–233, §614(2), added par. (1) and struck out former par. (1) which read as follows: “If the Secretary forecloses a loan made or insured under this chapter, the Administrator forecloses a farm program loan made under the Small Business Act (15 U.S.C. 631 et seq.), or a borrower of a loan made or insured by either agency declares bankruptcy or goes into voluntary liquidation to avoid foreclosure or bankruptcy, the Secretary or Administrator may upon application by the borrower, permit the borrower to retain possession and occupancy of any principal residence of the borrower, and a reasonable amount of adjoining land for the purpose of family maintenance.”
 

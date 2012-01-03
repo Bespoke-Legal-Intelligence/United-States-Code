@@ -34,7 +34,7 @@ Continuation of Increased Educational Assistance.—
 
 &emsp;(1)
 
-In general.—An individual who made an election to receive educational assistance under this chapter pursuant to section 5003(c)(1)(A) of the Post-9/11 Veterans Educational Assistance Act of 2008 (38 U.S.C. 3301 note) and who, at the time of the election, was entitled to increased educational assistance under section 3015(d) or section 16131(i) of title 10 shall remain entitled to increased educational assistance in the utilization of the individual's entitlement to educational assistance under this chapter.
+In general.—An individual who made an election to receive educational assistance under this chapter pursuant to section 5003(c)(1)(A) of the Post-9/11 Veterans Educational Assistance Act of 2008 (38 U.S.C. 3301note) and who, at the time of the election, was entitled to increased educational assistance under section 3015(d) or section 16131(i) of title 10 shall remain entitled to increased educational assistance in the utilization of the individual's entitlement to educational assistance under this chapter.
 
 &emsp;(2)
 

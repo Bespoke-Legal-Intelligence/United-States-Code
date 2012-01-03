@@ -28,7 +28,7 @@ Operational Test and Evaluation.—(1) Operational testing of a major defense ac
 
 (4) A final decision within the Department of Defense to proceed with a major defense acquisition program beyond low-rate initial production may not be made until the Director has submitted to the Secretary of Defense the report with respect to that program under paragraph (2) and the congressional defense committees have received that report.
 
-(5) If, before a final decision described in paragraph (4) is made for a major defense acquisition program, a decision is made within the Department of Defense to proceed to operational use of that program or to make procurement funds available for that program, the Director shall submit to the Secretary of Defense and the congressional defense committees the report with respect to that program under paragraph (2) assoon as practicable after the decision described in this paragraph is made.
+(5) If, before a final decision described in paragraph (4) is made for a major defense acquisition program, a decision is made within the Department of Defense to proceed to operational use of that program or to make procurement funds available for that program, the Director shall submit to the Secretary of Defense and the congressional defense committees the report with respect to that program under paragraph (2) as soon as practicable after the decision described in this paragraph is made.
 
 (6) In this subsection, the term “major defense acquisition program” has the meaning given that term in section 139(a)(2)(B) of this title.
 
@@ -60,7 +60,7 @@ Source of Funds for Testing.—The costs for all tests required under subsection
 
 (g)
 
-Director's Annual Report.—As part of the annual report of the Director under section 139 of this title, the Director shall describe for each program covered in the report the status of test and evaluation activities in comparison with the test and evaluation master plan for that program, as approved by the Director. The Director shall include in such annual report a description of each waiver granted under subsection (e)(2) since the last such report.
+Director's Annual Report.—As part of the annual report of the Director under section139 of this title, the Director shall describe for each program covered in the report the status of test and evaluation activities in comparison with the test and evaluation master plan for that program, as approved by the Director. The Director shall include in such annual report a description of each waiver granted under subsection (e)(2) since the last such report.
 
 (h)
 

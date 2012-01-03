@@ -1,6 +1,6 @@
 ### §3061. Investigative powers of Postal Service personnel
 
-(a) Subject to subsection (b) of this section, Postal Inspectors and other agents of the United States Postal Service designated by the Board of Governors to investigate criminal matters related to the Postal Service and the mails may—
+(a) Subject to subsection (b) of this section, Postal Inspectors and other agents of the UnitedStates Postal Service designated by the Board of Governors to investigate criminal matters related to the Postal Service and the mails may—
 
 &emsp;(1) serve warrants and subpoenas issued under the authority of the United States;
 

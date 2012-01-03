@@ -24,5 +24,5 @@ The Federal Water Pollution Control Act, referred to in subsec. (a), which was f
 
 #### Effective Date of 1984 Amendment
 
-Section 6 of Pub. L. 98–569 provided that: “The amendments made by this Act \[amending this section and sections 620d, 1543, 1592, 1593, 1595, and 1598 of this title\] shall take effect upon enactment of this Act \[Oct. 30, 1984\].”
+Section 6 of Pub. L. 98–569 provided that: “The amendments made by this Act \[amending this sectionand sections 620d, 1543, 1592, 1593, 1595, and 1598 of this title\] shall take effect upon enactment of this Act \[Oct. 30, 1984\].”
 

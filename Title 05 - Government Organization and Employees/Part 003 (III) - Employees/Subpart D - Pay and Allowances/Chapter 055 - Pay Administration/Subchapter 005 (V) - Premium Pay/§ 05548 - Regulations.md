@@ -54,11 +54,11 @@ This section consolidates into 5 U.S.C. 5548(b) general regulatory authority gra
 
 #### Amendments
 
-1992—Subsec. (b). Pub. L. 102–378 substituted “section 5545(d)” for “sections 5545(d) and 5550 of this title”.
+<b>1992</b>—Subsec. (b). Pub. L. 102–378 substituted “section 5545(d)” for “sections 5545(d) and 5550 of this title”.
 
-1978—Subsecs. (a), (b). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission”.
+<b>1978</b>—Subsecs. (a), (b). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission”.
 
-1972—Subsec. (a). Pub. L. 92–392, §12(a), struck out reference to section 5544 of this title.
+<b>1972</b>—Subsec. (a). Pub. L. 92–392, §12(a), struck out reference to section 5544 of this title.
 
 Subsec. (b). Pub. L. 92–392, §12(b), inserted reference to section 5550 of this title.
 

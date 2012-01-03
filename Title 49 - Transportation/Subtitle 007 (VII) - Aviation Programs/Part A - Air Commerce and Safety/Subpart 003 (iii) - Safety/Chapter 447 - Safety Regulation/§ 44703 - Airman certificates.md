@@ -140,7 +140,7 @@ year reporting period.—A person shall not furnish a record in response to a re
 
 &emsp;(4)
 
-Requirement to maintain records.—The Administrator and air carriers shall maintain pilot records described in paragraphs (1)(A) and (1)(B) for a period of at least 5 years.
+Requirement to maintain records.—The Administrator and air carriers shall maintainpilot records described in paragraphs (1)(A) and (1)(B) for a period of at least 5 years.
 
 &emsp;(5)
 
@@ -218,7 +218,7 @@ Pilots of certain small aircraft.—Notwithstanding paragraph (1), an air carrie
 
 &emsp;&emsp;(B)
 
-Good faith exception.—Notwithstanding paragraph (1), an air carrier, without obtaining information about an individual under paragraph (1)(B) from an air carrier or other person that no longer exists or from a foreign government or entity that employed the individual, may allow the individual to begin service as a pilot if the air carrier required to request the information has made a documented good faith attempt to obtain such information.
+Good faith exception.—Notwithstanding paragraph (1), an air carrier, without obtaining information about an individual under paragraph (1)(B) from an air carrier or other person that no longer exists or from a foreign government or entity that employedthe individual, may allow the individual to begin service as a pilot if the air carrier required to request the information has made a documented good faith attempt to obtain such information.
 
 &emsp;(15)
 
@@ -416,7 +416,7 @@ Access by individuals designated by air carriers.—For the purpose of increasin
 
 &emsp;&emsp;(B)
 
-Terms.—The terms established by the Administrator under subparagraph (A) for allowing a designated individual to have electronic access to the database shall limit such access to instances in which information in the database is required by the designated individual in making a hiring decision concerning a pilot applicant and shall require that the designated individual provide assurances satisfactory to the Administrator that—
+Terms.—The terms established by the Administrator under subparagraph (A) forallowing a designated individual to have electronic access to the database shall limit such access to instances in which information in the database is required by the designated individual in making a hiring decision concerning a pilot applicant and shall require that the designated individual provide assurances satisfactory to the Administrator that—
 
 &emsp;&emsp;&emsp;(i) the designated individual has received the written consent of the pilot applicant to access the information; and
 
@@ -680,7 +680,7 @@ Use of Designees.—The Administrator may use designees to carry out subsection 
 
 #### Crediting of Law Enforcement Flight Time
 
-Pub. L. 106–424, §14, Nov. 1, 2000, 114 Stat. 1888, provided that: “In determining whether an individualmeets the aeronautical experience requirements imposed under section 44703 of title 49, United States Code, for an airman certificate or rating, the Secretary of Transportation shall take into account any time spent by that individual operating a public aircraft as defined in section 40102 of title 49, United States Code, if that aircraft is—
+Pub. L. 106–424, §14, Nov. 1, 2000, 114 Stat. 1888, provided that: “In determining whether an individual meets the aeronautical experience requirements imposed under section 44703 of title 49, United States Code, for an airman certificate or rating, the Secretary of Transportation shall take into account any time spent by that individual operating a public aircraft as defined in section 40102 of title 49, United States Code, if that aircraft is—
 
 &emsp;“(1) identifiable by category and class; and
 

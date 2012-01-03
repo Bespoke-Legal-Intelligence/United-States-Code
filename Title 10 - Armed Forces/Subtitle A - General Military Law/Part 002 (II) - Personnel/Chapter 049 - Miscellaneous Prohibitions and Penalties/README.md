@@ -23,7 +23,7 @@
 
 #### Amendments
 
-<b>2009</b>—Pub. L. 111–84, div. A, title V, §591(b), Oct. 28, 2009, 123 Stat. 2337, substituted “Military musical unitsand musicians: performance policies; restriction on performance in competition with local civilian musicians” for “Uniform performance policies for military bands and other musical units” in item 974.
+<b>2009</b>—Pub. L. 111–84, div. A, title V, §591(b), Oct. 28, 2009, 123 Stat. 2337, substituted “Military musical units and musicians: performance policies; restriction on performance in competition with local civilian musicians” for “Uniform performance policies for military bands and other musical units” in item 974.
 
 <b>2008</b>—Pub. L. 110–181, div. A, title V, §590(a)(2), title X, §1072(b)(2), Jan. 28, 2008, 122 Stat. 138, 330, added item 974 and struck out item 986 “Security clearances: limitations”.
 

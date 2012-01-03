@@ -6,7 +6,7 @@ There is established the Dru Sjodin National Sex Offender Public Website (herein
 
 #### (b) Information to be provided
 
-The Website shall include relevant information for each sex offender and other person listed on a jurisdiction's Internet site. The Website shall allow the public to obtain relevant information for each sex offender by a single query for any given zip code or geographical radius set by the user in a form and with such limitations as may be established by the Attorney General and shall have such other field search capabilities as the Attorney General may provide.
+The Website shall include relevant information for each sex offender and other person listed on a jurisdiction's Internet site. The Website shall allow the public to obtain relevant information for each sex offender by a single query for any given zip code or geographical radius set by the user in a form and with such limitations as may be established by the Attorney Generaland shall have such other field search capabilities as the Attorney General may provide.
 
 (Pub. L. 109–248, title I, §120, July 27, 2006, 120 Stat. 597.)
 

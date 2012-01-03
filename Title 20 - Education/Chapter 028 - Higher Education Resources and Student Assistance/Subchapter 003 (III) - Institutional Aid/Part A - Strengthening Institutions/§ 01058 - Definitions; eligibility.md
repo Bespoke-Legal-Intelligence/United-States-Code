@@ -48,7 +48,7 @@ Except as provided in section 1059e(b) of this title, for the purpose of this pa
 
 &emsp;(1) at least 50 percent of the degree students so enrolled who are receiving need-based assistance under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42 in the second fiscal year preceding the fiscal year for which the determination is being made (other than loans for which an interest subsidy is paid pursuant to section 1078 of this title), or
 
-&emsp;(2) a substantial percentage of students receiving Pell Grants in the second fiscal year preceding the fiscal year for which determination is being made, in comparison with the percentage of students receiving Pell Grants at all such institutions in the second fiscal year preceding the fiscal year for which thedetermination is made, unless the requirement of this paragraph is waived under section 1068a(a) of this title.
+&emsp;(2) a substantial percentage of students receiving Pell Grants in the second fiscal year preceding the fiscal year for which determination is being made, in comparison with the percentage of students receiving Pell Grants at all such institutions in the second fiscal year preceding the fiscal year for which the determination is made, unless the requirement of this paragraph is waived under section 1068a(a) of this title.
 
 #### (e) Full-time equivalent students
 
@@ -106,7 +106,7 @@ Subsec. (b)(1)(F). Pub. L. 103–382, §353(2), (3), added subpar. (F).
 
 <b>1993</b>—Subsec. (c)(2). Pub. L. 103–208 inserted “the” after “such institutions in”.
 
-<b>1992</b>—Subsec. (b)(1), (2). Pub. L. 102–325, §302(a)(1), (2), inserted “and” at end of subpar. (D), struck out subpar. (E), redesignated subpar. (F) as (E) and inserted “and” at end, and substituted period for semicolon at end of par. (2). Prior to amendment, subpar. (E) of par. (1) read as follows: “except as provided in section 1067(b) of this title which has, during the 5 academic years preceding the academic year for which it seeks assistance under this part—
+<b>1992</b>—Subsec. (b)(1), (2). Pub. L. 102–325, §302(a)(1), (2), inserted “and” at end of subpar. (D), struck out subpar. (E), redesignated subpar. (F) as (E) and inserted “and” at end, and substituted period for semicolon at end of par. (2). Prior to amendment, subpar. (E) of par. (1) read as follows: “except as provided in section 1067(b) of this title which has, during the 5 academic years precedingthe academic year for which it seeks assistance under this part—
 
 &emsp;“(i) met the requirement of either subparagraph (C)(i) or (C)(ii), or of both such subparagraphs (simultaneously or consecutively); and
 

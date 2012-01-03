@@ -62,11 +62,11 @@ If any broker—
 
 #### (1) In general
 
-&emsp;In the case of a real estate transaction, the real estate reporting person shall file a return under subsection (a) and a statement under subsection (b) with respect to such transaction.
+&emsp;In the case of a real estate transaction, the real estate reporting person shall file a return under subsection (a) and a statement undersubsection (b) with respect to such transaction.
 
 #### (2) Real estate reporting person
 
-&emsp;For purposes of this subsection, the term “real estate reporting person” means any ofthe following persons involved in a real estate transaction in the following order:
+&emsp;For purposes of this subsection, the term “real estate reporting person” means any of the following persons involved in a real estate transaction in the following order:
 
 &emsp;&emsp;(A) the person (including any attorney or title company) responsible for closing the transaction,
 
@@ -148,11 +148,11 @@ If any broker—
 
 &emsp;&emsp;&emsp;&emsp;(I) in the case of any security (other than any stock for which an average basis method is permissible under section 1012), in accordance with the first-in first-out method unless the customer notifies the broker by means of making an adequate identification of the stock sold or transferred, and
 
-&emsp;&emsp;&emsp;&emsp;(II) in the case of any stock for which an average basis method is permissible under section 1012, in accordance with the broker's default method unless the customer notifies the broker that he elects another acceptable method under section 1012 with respect to the account in which such stock is held.
+&emsp;&emsp;&emsp;&emsp;(II) in the case of any stock for which an average basis method is permissibleunder section 1012, in accordance with the broker's default method unless the customer notifies the broker that he elects another acceptable method under section 1012 with respect to the account in which such stock is held.
 
 #### (ii) Exception for wash sales
 
-&emsp;&emsp;&emsp;Except as otherwise provided by the Secretary, the customer's adjusted basis shallbe determined without regard to section 1091 (relating to loss from wash sales of stock or securities) unless the transactions occur in the same account with respect to identical securities.
+&emsp;&emsp;&emsp;Except as otherwise provided by the Secretary, the customer's adjusted basis shall be determined without regard to section 1091 (relating to loss from wash sales of stock or securities) unless the transactions occur in the same account with respect to identical securities.
 
 #### (3) Covered security
 
@@ -232,7 +232,7 @@ Subsec. (f). Pub. L. 105–34, §1021(a), added subsec. (f).
 
 <b>1996</b>—Subsec. (b)(1). Pub. L. 104–168 substituted “name, address, and phone number of the information contact” for “name and address”.
 
-Subsec. (e)(3). Pub. L. 104–188 inserted at end “Nothing in this paragraph shall be construed to prohibit thereal estate reporting person from taking into account its cost of complying with such requirement in establishing its charge (other than a separate charge for complying with such requirement) to any customer for performing services in the case of a real estate transaction.”
+Subsec. (e)(3). Pub. L. 104–188 inserted at end “Nothing in this paragraph shall be construed to prohibit the real estate reporting person from taking into account its cost of complying with such requirement in establishing its charge (other than a separate charge for complying with such requirement) to any customer for performing services in the case of a real estate transaction.”
 
 <b>1992</b>—Subsec. (e)(4). Pub. L. 102–486 substituted heading for one which read: “Whether seller's financing was federally-subsidized” and amended text generally. Prior to amendment, text read as follows: “In the case of a real estate transaction involving a residence, the real estate reporting person shall specify on the return under subsection (a) and the statement under subsection (b) whether or not the financing (if any) of the seller was federally-subsidized indebtedness (as defined in section 143(m)(3)).”
 
@@ -310,7 +310,7 @@ Amendment by section 714(e)(1) of Pub. L. 98–369 effective as if included in t
 
 #### Effective Date of 1982 Amendment
 
-Section 311(c)(1) of Pub. L. 97–248, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsection (a) \[amending this section and section 6678 of this title\] shall take effect on the date of the enactment of this Act \[Sept. 3, 1982\], except that—
+Section 311(c)(1) of Pub. L. 97–248, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:“The amendments made by subsection (a) \[amending this section and section 6678 of this title\] shall take effect on the date of the enactment of this Act \[Sept. 3, 1982\], except that—
 
 &emsp;“(A) regulations relating to reporting by commodities and securities brokers shall be issued under section 6045 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by this Act) within 6 months after the date of the enactment of this Act \[Sept. 3, 1982\], and
 

@@ -34,7 +34,7 @@
 
 &emsp;(B) the loan has been repaid in full, or the Secretary has been released from liability as to the loan, or if the Secretary has suffered a loss on such loan, the loss has been paid in full.
 
-&emsp;(2) A veteran-transferee has agreed to assume the outstanding balance on the loan and consented to the use of the veteran-transferee's entitlement, to the extent that the entitlement of the veteran-transferor had beenused originally, in place of the veteran-transferor's for the guaranteed, insured, or direct loan, and the veteran-transferee otherwise meets the requirements of this chapter.
+&emsp;(2) A veteran-transferee has agreed to assume the outstanding balance on the loan and consented to the use of the veteran-transferee's entitlement, to the extent that the entitlement of the veteran-transferor had been used originally, in place of the veteran-transferor's for the guaranteed, insured, or direct loan, and the veteran-transferee otherwise meets the requirements of this chapter.
 
 &emsp;(3)(A) The loan has been repaid in full; and
 
@@ -54,7 +54,7 @@
 
 (e) The Secretary may at any time upon thirty days’ notice require housing loans to be made by any lender or class of lenders to be submitted to the Secretary for prior approval. No guaranty or insurance liability shall exist with respect to any such loan unless evidence of guaranty or insurance is issued by the Secretary.
 
-(f) Any housing loan at least 20 percent of which is guaranteed under this chapter may be made by any national bank or Federal savings and loan association, or by any bank, trust company, building and loan association, or insurance company, organized or authorized to do business in the District of Columbia. Any such loan may be so made without regard to the limitations and restrictions of any other law relating to—
+(f) Any housing loan at least 20 percent of which is guaranteed under this chapter may bemade by any national bank or Federal savings and loan association, or by any bank, trust company, building and loan association, or insurance company, organized or authorized to do business in the District of Columbia. Any such loan may be so made without regard to the limitations and restrictions of any other law relating to—
 
 &emsp;(1) ratio of amount of loan to the value of the property;
 
@@ -134,7 +134,7 @@ Subsec. (f). Pub. L. 97–72, §303(b)(7), substituted “Any housing loan at le
 
 Subsec. (b). Pub. L. 95–476, §102(b), redesignated cl. (1) as (1)(A), cl. (2) as (B), cl. (3) as (2), and struck out reference to cl. (2) in provision authorizing the Administrator to waive certain conditions prescribed in this subsection.
 
-<b>1976</b>—Subsec. (b). Pub. L. 94–324, §7(3), substituted “the Administrator deems” for “he deems” and “the veteran-transferee's entitlement” for “his entitlement”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–324, §7(3), substituted “the Administrator deems” for “he deems” and “theveteran-transferee's entitlement” for “his entitlement”.
 
 Subsec. (c). Pub. L. 94–324, §7(4), substituted “The Administrator” for “He”.
 

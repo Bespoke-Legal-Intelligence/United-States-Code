@@ -12,7 +12,7 @@ Section 1417 of the Alaska National Interest Lands Conservation Act, referred to
 
 <b>2000</b>—Pub. L. 106–554 and Pub. L. 106–562 amended text identically, substituting “on such property” for “on such Islands”.
 
-<b>1983</b>—Pub. L. 98–129 substituted provisions enumerating the steps to be followed by the Secretary of Commerce in administering the fur seal rookeries and the Federal real and personal property on the Pribilof Islands for provisions which had provided that: “The Pribilof Islands shall continue to be administered as a special reservation by the Secretary of Commerce for the purposes of conserving, managing, and protecting the North Pacific fur seals and other wildlife, and for other purposes.”
+<b>1983</b>—Pub. L. 98–129 substituted provisions enumerating the steps to be followed by the Secretary of Commerce in administering the fur seal rookeries and the Federal real and personal property on the Pribilof Islands for provisions which had provided that: “The Pribilof Islands shall continue to be administered as a special reservation by the Secretary of Commerce for the purposes of conserving, managing, and protectingthe North Pacific fur seals and other wildlife, and for other purposes.”
 
 #### Purpose
 

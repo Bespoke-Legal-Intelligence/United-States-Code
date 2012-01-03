@@ -66,7 +66,7 @@ Subsecs. (h) to (<i>o</i>). Pub. L. 100–430, §5(b), added subsecs. (h) to (<i
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–430 effective on 180th day beginning after Sept. 13, 1988, see section 13(a) of Pub.L. 100–430, set out as a note under section 3601 of this title.
+Amendment by Pub. L. 100–430 effective on 180th day beginning after Sept. 13, 1988, see section 13(a) of Pub. L. 100–430, set out as a note under section 3601 of this title.
 
 #### Effective Date of 1978 Amendment
 

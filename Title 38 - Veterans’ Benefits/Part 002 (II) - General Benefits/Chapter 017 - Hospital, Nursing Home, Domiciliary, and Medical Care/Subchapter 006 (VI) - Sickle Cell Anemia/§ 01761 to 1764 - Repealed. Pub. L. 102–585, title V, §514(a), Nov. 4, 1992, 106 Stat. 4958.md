@@ -28,7 +28,7 @@ Another prior section 1766, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1202, rela
 
 Prior section 1767, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1202, related to examination of records, prior to repeal by Pub. L. 89–358, §3(a)(3), Mar. 3, 1966, 80 Stat. 20.
 
-Prior section 1768, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1202, related to false or misleading statements, prior to repeal by Pub. L. 89–358, §3(a)(3), Mar. 3, 1966, 80 Stat. 20.
+Prior section 1768, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1202, related to false or misleading statements,prior to repeal by Pub. L. 89–358, §3(a)(3), Mar. 3, 1966, 80 Stat. 20.
 
 A prior section 1770 was renumbered section 3670 of this title.
 

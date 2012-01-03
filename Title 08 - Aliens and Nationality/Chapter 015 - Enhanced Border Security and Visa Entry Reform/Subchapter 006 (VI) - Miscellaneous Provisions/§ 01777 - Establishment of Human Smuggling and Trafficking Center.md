@@ -158,7 +158,7 @@ Section was enacted as part of the Intelligence Reform and Terrorism Prevention 
 
 #### Amendments
 
-2007—Subsec. (c)(1). Pub. L. 110–53, §721(a)(1), substituted “integrate and disseminate intelligence and information related to” for “address”.
+<b>2007</b>—Subsec. (c)(1). Pub. L. 110–53, §721(a)(1), substituted “integrate and disseminate intelligence and information related to” for “address”.
 
 Subsecs. (d) to (f). Pub. L. 110–53, §721(a)(3), added subsecs. (d) to (f). Former subsecs. (d) and (e) redesignated (g) and (h), respectively.
 

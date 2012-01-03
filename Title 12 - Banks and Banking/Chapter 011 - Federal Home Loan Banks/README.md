@@ -25,14 +25,14 @@
 | [1435\.](%C2%A7%2001435%20-%20Obligations%20as%20lawful%20investments%3B%20liability%20of%20United%20States%20for%20debentures%2C%20etc.%2C%20issued%20by%20banks.md) | Obligations as lawful investments; liability of United States for debentures, etc., issued by banks. |
 | [1436\.](%C2%A7%2001436%20-%20Reserves%20and%20dividends%3B%20emergency%20suspensions%20of%20requirements.md) | Reserves and dividends; emergency suspensions of requirements. |
 | [1437\.](%C2%A7%2001437%20-%20Repealed.%20Pub.%20L.%20101%E2%80%9373%2C%20title%20VII%2C%20%C2%A7703%28a%29%2C%20Aug.%209%2C%201989%2C%20103%20Stat.%20415.md) | Repealed. |
-| [1438\.](%C2%A7%2001438%20-%20Administrative%20expenses.md) | Administrative expenses. |
+| [1438\.](%C2%A7%2001438%20-%20Omitted.md) | Omitted. |
 | [1438a.](%C2%A7%2001438a%20-%20Nonadministrative%20expenses%3B%20expenses%20of%20studies%20and%20investigations.md) | Nonadministrative expenses; expenses of studies and investigations. |
 | 1439, 1439–1. Repealed. |  |
 | [1439a.](%C2%A7%2001439a%20-%20Deposits%20in%20special%20fund%3B%20availability%20for%20all%20purposes%20of%20Federal%20Home%20Loan%20Bank%20Board%20and%20Federal%20Home%20Loan%20Bank%20Administration.md) | Deposits in special fund; availability for all purposes of Federal Home Loan Bank Board and Federal Home Loan Bank Administration. |
 | [1440\.](%C2%A7%2001440%20-%20Examinations%20and%20audits.md) | Examinations and audits. |
 | [1440a.](%C2%A7%2001440a%20-%20Sharing%20of%20information%20among%20Federal%20Home%20Loan%20Banks.md) | Sharing of information among Federal Home Loan Banks. |
 | [1441\.](%C2%A7%2001441%20-%20Financing%20Corporation.md) | Financing Corporation. |
-| [1441a.](%C2%A7%2001441a%20-%20Thrift%20Depositor%20Protection%20Oversight%20Board%20and%20Resolution%20Trust%20Corporation.md) | Thrift Depositor Protection Oversight Board and Resolution Trust Corporation. |
+| [1441a.](%C2%A7%2001441a%20-%20Repealed.%20Pub.%20L.%20111%E2%80%93203%2C%20title%20III%2C%20%C2%A7364%28b%29%2C%20July%2021%2C%202010%2C%20124%20Stat.%201555.md) | Repealed. |
 | 1441a–1. | Definitions. |
 | 1441a–2. | Authorization for State housing finance agencies and nonprofit entities to purchase mortgage-related assets. |
 | 1441a–3. | RTC and FDIC properties. |
@@ -77,14 +77,14 @@
 - [&sect; 01435 - Obligations as lawful investments; liability of United States for debentures, etc., issued by banks](%C2%A7%2001435%20-%20Obligations%20as%20lawful%20investments%3B%20liability%20of%20United%20States%20for%20debentures%2C%20etc.%2C%20issued%20by%20banks.md)
 - [&sect; 01436 - Reserves and dividends; emergency suspensions of requirements](%C2%A7%2001436%20-%20Reserves%20and%20dividends%3B%20emergency%20suspensions%20of%20requirements.md)
 - [&sect; 01437 - Repealed. Pub. L. 101&#8211;73, title VII, &sect;703(a), Aug. 9, 1989, 103 Stat. 415](%C2%A7%2001437%20-%20Repealed.%20Pub.%20L.%20101%E2%80%9373%2C%20title%20VII%2C%20%C2%A7703%28a%29%2C%20Aug.%209%2C%201989%2C%20103%20Stat.%20415.md)
-- [&sect; 01438 - Administrative expenses](%C2%A7%2001438%20-%20Administrative%20expenses.md)
+- [&sect; 01438 - Omitted](%C2%A7%2001438%20-%20Omitted.md)
 - [&sect; 01438a - Nonadministrative expenses; expenses of studies and investigations](%C2%A7%2001438a%20-%20Nonadministrative%20expenses%3B%20expenses%20of%20studies%20and%20investigations.md)
 - [&sect; 01439, 1439&#8211;1 - Repealed. Pub. L. 101&#8211;73, title VII, &sect;&sect;708, 712, Aug. 9, 1989, 103 Stat. 418, 419](%C2%A7%2001439%2C%201439%E2%80%931%20-%20Repealed.%20Pub.%20L.%20101%E2%80%9373%2C%20title%20VII%2C%20%C2%A7%C2%A7708%2C%20712%2C%20Aug.%209%2C%201989%2C%20103%20Stat.%20418%2C%20419.md)
 - [&sect; 01439a - Deposits in special fund; availability for all purposes of Federal Home Loan Bank Board and Federal Home Loan Bank Administration](%C2%A7%2001439a%20-%20Deposits%20in%20special%20fund%3B%20availability%20for%20all%20purposes%20of%20Federal%20Home%20Loan%20Bank%20Board%20and%20Federal%20Home%20Loan%20Bank%20Administration.md)
 - [&sect; 01440 - Examinations and audits](%C2%A7%2001440%20-%20Examinations%20and%20audits.md)
 - [&sect; 01440a - Sharing of information among Federal Home Loan Banks](%C2%A7%2001440a%20-%20Sharing%20of%20information%20among%20Federal%20Home%20Loan%20Banks.md)
 - [&sect; 01441 - Financing Corporation](%C2%A7%2001441%20-%20Financing%20Corporation.md)
-- [&sect; 01441a - Thrift Depositor Protection Oversight Board and Resolution Trust Corporation](%C2%A7%2001441a%20-%20Thrift%20Depositor%20Protection%20Oversight%20Board%20and%20Resolution%20Trust%20Corporation.md)
+- [&sect; 01441a - Repealed. Pub. L. 111&#8211;203, title III, &sect;364(b), July 21, 2010, 124 Stat. 1555](%C2%A7%2001441a%20-%20Repealed.%20Pub.%20L.%20111%E2%80%93203%2C%20title%20III%2C%20%C2%A7364%28b%29%2C%20July%2021%2C%202010%2C%20124%20Stat.%201555.md)
 - [&sect; 01441a&#8211;1 - Definitions](%C2%A7%2001441a%E2%80%931%20-%20Definitions.md)
 - [&sect; 01441a&#8211;2 - Authorization for State housing finance agencies and nonprofit entities to purchase mortgage-related assets](%C2%A7%2001441a%E2%80%932%20-%20Authorization%20for%20State%20housing%20finance%20agencies%20and%20nonprofit%20entities%20to%20purchase%20mortgage-related%20assets.md)
 - [&sect; 01441a&#8211;3 - RTC and FDIC properties](%C2%A7%2001441a%E2%80%933%20-%20RTC%20and%20FDIC%20properties.md)

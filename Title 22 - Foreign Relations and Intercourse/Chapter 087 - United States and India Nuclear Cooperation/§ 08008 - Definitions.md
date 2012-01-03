@@ -40,7 +40,7 @@ In this chapter:
 
 &emsp;(16) The term “unsafeguarded nuclear fuel-cycle activity” means research on, or development, design, manufacture, construction, operation, or maintenance of—
 
-&emsp;&emsp;(A) any existing or future reactor, critical facility, conversion plant, fabrication plant, reprocessing plant, plant for the separationof isotopes of source or special fissionable material, or separate storage installation with respect to which there is no obligation to accept IAEA safeguards at the relevant reactor, facility, plant, or installation that contains source or special fissionable material; or
+&emsp;&emsp;(A) any existing or future reactor, critical facility, conversion plant, fabrication plant, reprocessing plant, plant for the separation of isotopes of source or special fissionable material, or separate storage installation with respect to which there is no obligation to accept IAEA safeguards at the relevant reactor, facility, plant, or installation that contains source or special fissionable material; or
 
 &emsp;&emsp;(B) any existing or future heavy water production plant with respect to which there is no obligation to accept IAEA safeguards on any nuclear material produced by or used in connection with any heavy water produced therefrom.
 

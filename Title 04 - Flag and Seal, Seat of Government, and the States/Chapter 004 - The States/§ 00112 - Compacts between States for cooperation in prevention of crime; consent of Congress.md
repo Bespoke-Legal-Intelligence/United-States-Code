@@ -12,9 +12,9 @@ This section \[section 129(b) of Act May 24, 1949\] incorporates in title 4, U.S
 
 #### Amendments
 
-1962—Subsec. (b). Pub. L. 87–406 inserted “Guam” after “the Virgin Islands,”.
+<b>1962</b>—Subsec. (b). Pub. L. 87–406 inserted “Guam” after “the Virgin Islands,”.
 
-1956—Act Aug. 3, 1956, designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1956</b>—Act Aug. 3, 1956, designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Admission of Alaska and Hawaii to Statehood
 

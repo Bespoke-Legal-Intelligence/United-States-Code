@@ -8,7 +8,7 @@
 
 &emsp;(2) the sentence shall be carried out according to the laws of the country to which he is to be transferred and that those laws are subject to change;
 
-&emsp;(3) if a court in the country to which he is transferred should determine upon a proceeding initiated by him or on his behalf that his transfer was not accomplished in accordance with the treaty or laws of that country, he may be returned to the United States for the purpose of completing the sentence if the United States requests his return; and
+&emsp;(3) if a court in the country to which he is transferred should determine upon a proceeding initiated by him or on his behalf that his transfer was not accomplished in accordancewith the treaty or laws of that country, he may be returned to the United States for the purpose of completing the sentence if the United States requests his return; and
 
 &emsp;(4) his consent to transfer, once verified by the verifying officer, is irrevocable.
 

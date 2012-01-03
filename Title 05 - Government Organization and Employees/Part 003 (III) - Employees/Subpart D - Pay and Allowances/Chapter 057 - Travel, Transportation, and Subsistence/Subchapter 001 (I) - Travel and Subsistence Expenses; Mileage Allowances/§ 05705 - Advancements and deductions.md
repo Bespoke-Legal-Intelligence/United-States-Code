@@ -30,5 +30,5 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1975—Pub. L. 94–22 struck out “or individual” after “employee” wherever appearing.
+<b>1975</b>—Pub. L. 94–22 struck out “or individual” after “employee” wherever appearing.
 

@@ -16,7 +16,7 @@ The Secretary may award grants under subsection (a) for a period not to exceed 5
 
 &emsp;&emsp;(A) allows for the resolution of disputes over injuries allegedly caused by health care providers or health care organizations; and
 
-&emsp;&emsp;(B) promotes a reduction of health care errors by encouraging the collection and analysis of patient safety data related to disputes resolved under subparagraph (A) by organizations that engage in efforts to improve patient safety and the quality of health care.
+&emsp;&emsp;(B) promotes a reduction of health care errors by encouraging the collection andanalysis of patient safety data related to disputes resolved under subparagraph (A) by organizations that engage in efforts to improve patient safety and the quality of health care.
 
 #### (2) Alternative to current tort litigation
 
@@ -104,7 +104,7 @@ The Secretary may award grants under subsection (a) for a period not to exceed 5
 
 #### (D) Availability of information
 
-&emsp;&emsp;The Comptroller General shall make available to the review panel such information, personnel, and administrative services and assistance as the review panel may reasonably require to carry out its duties.
+&emsp;&emsp;The Comptroller General shall make available to the review panel such information,personnel, and administrative services and assistance as the review panel may reasonably require to carry out its duties.
 
 #### (E) Information from agencies
 
@@ -142,7 +142,7 @@ The Secretary may award grants under subsection (a) for a period not to exceed 5
 
 #### (1) In general
 
-&emsp;The Secretary, in consultation with the review panel established under subsection (d)(2),shall enter into a contract with an appropriate research organization to conduct an overall evaluation of the effectiveness of grants awarded under subsection (a) and to annually prepare and submit a report to Congress. Such an evaluation shall begin not later than 18 months following the date of implementation of the first program funded by a grant under subsection (a).
+&emsp;The Secretary, in consultation with the review panel established under subsection (d)(2), shall enter into a contract with an appropriate research organization to conduct an overall evaluation of the effectiveness of grants awarded under subsection (a) and to annually prepare and submit a report to Congress. Such an evaluation shall begin not later than 18 months following the date of implementation of the first program funded by a grant under subsection (a).
 
 #### (2) Contents
 

@@ -38,6 +38,14 @@ Report.—The Secretary shall submit a report on the quadrennial roles and missi
 
 (Added Pub. L. 110–181, div. A, title IX, §941(a), Jan. 28, 2008, 122 Stat. 286.)
 
+#### Inclusion of Assessment of Joint Military Training and Force Allocations in Quadrennial Defense Review and National Military Strategy
+
+Pub. L. 112–81, div. A, title III, §348, Dec. 31, 2011, 125 Stat. 1375, provided that: “The assessments of the National Military Strategy conducted by the Chairman of the Joint Chiefs of Staff under section 153(b) of this title \[sic; probably means Title 10, Armed Forces\], and the quadrennial roles and missions review pursuant to section 118b of this title \[sic\], shall include an assessment of joint military training and force allocations to determine—
+
+&emsp;“(1) the compliance of the military departments with the joint training, doctrine, and resource allocation recommendations promulgated by the Joint Chiefs of Staff; and
+
+&emsp;“(2) the effectiveness of the Joint Staff in carrying out the missions of planning and experimentation formerly accomplished by Joint Forces Command.”
+
 #### Timing of Quadrennial Roles and Missions Review
 
 Pub. L. 110–181, div. A, title IX, §941(c), Jan. 28, 2008, 122 Stat. 287, provided that:

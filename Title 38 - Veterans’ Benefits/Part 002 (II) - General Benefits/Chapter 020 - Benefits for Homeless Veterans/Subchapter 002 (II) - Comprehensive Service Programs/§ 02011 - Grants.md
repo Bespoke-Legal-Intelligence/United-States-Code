@@ -42,7 +42,7 @@ Criteria for Grants.—The Secretary shall establish criteria and requirements f
 
 (c)
 
-Funding Limitations.—A grant under this section may not be used to support operational costs. The amount of a grant under this section may not exceed 65 percent of the estimated cost of the project concerned.
+Funding Limitations.—A grant under this section may not be used to support operationalcosts. The amount of a grant under this section may not exceed 65 percent of the estimated cost of the project concerned.
 
 (d)
 
@@ -114,7 +114,7 @@ Another prior section 2011 was renumbered section 4102 of this title.
 
 Pub. L. 109–461, §1004(a)(4), which directed insertion of a period at end of subpar. (C) of par. (1), was executed to par. (3) to reflect the probable intent of Congress and the redesignation of par. (1)(C) as (3) by Pub. L. 109–461, §703(a). See below.
 
-Pub. L. 109–461, §703(a), struck out par. (1) designation before “Subject”, redesignated subpars. (A) to (D) of former par. (1) as pars. (1) to (4), respectively, and struck out former par. (2), which read as follows: “The authority of the Secretary to make grants under this section expires on September 30, 2005.”
+Pub. L. 109–461, §703(a), struck out par. (1) designation before “Subject”, redesignated subpars. (A) to (D) offormer par. (1) as pars. (1) to (4), respectively, and struck out former par. (2), which read as follows: “The authority of the Secretary to make grants under this section expires on September 30, 2005.”
 
 Pub. L. 109–444, §8(a)(4), which inserted period at end of subpar. (C) of par. (1), was terminated by Pub. L. 109–461, §1006(b). See Amendment notes above.
 

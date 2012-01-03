@@ -50,7 +50,7 @@ Authority To Expand Placement To Include Firefighters.—(1) The Secretary may e
 
 <b>1997</b>—Subsec. (g). Pub. L. 105–85 inserted “(1)” before “The Secretary may”.
 
-<b>1996</b>—Subsec. (g). Pub. L. 104–201, in heading, substituted “Authority To Expand Placement To Include Firefighters” for “Conditional Expansion of Placement to Include Firefighters”, in par. (1), substituted “The Secretary may” for “(1) Subject to paragraph (2), the Secretary may”, and in par. (2), struck out “The Secretary may implement the expansion authorized by this subsection only if the Secretary certifies to Congress not later than April 3, 1994, that such expansion will facilitate personnel transition programs of the Department of Defense.” after “(2)” and inserted “authorized by this subsection” after “The expansion”.
+<b>1996</b>—Subsec. (g). Pub. L. 104–201, in heading, substituted “Authority To Expand Placement To Include Firefighters” for “Conditional Expansion of Placement to Include Firefighters”, in par. (1), substituted “The Secretary may” for “(1) Subject to paragraph (2), the Secretary may”, and in par. (2), struck out “The Secretary may implement the expansion authorized bythis subsection only if the Secretary certifies to Congress not later than April 3, 1994, that such expansion will facilitate personnel transition programs of the Department of Defense.” after “(2)” and inserted “authorized by this subsection” after “The expansion”.
 
 Subsec. (g)(2). Pub. L. 104–106 substituted “not later than April 3, 1994,” for “not later than 180 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 1995”.
 

@@ -44,7 +44,7 @@ Pub. L. 111–275, title I, §107, Oct. 13, 2010, 124 Stat. 2872, provided that:
 
 “(a)
 
-Availability of Scholarship Information.—By not later than June 1, 2011, the Secretary of Veterans Affairs shall include on the Internet website of the Department of Veterans Affairs a list of organizations that provide scholarships to veterans and their survivors and, for each such organization, a link to the Internet website of the organization.
+Availability of Scholarship Information.—By not later than June 1, 2011, the Secretary of VeteransAffairs shall include on the Internet website of the Department of Veterans Affairs a list of organizations that provide scholarships to veterans and their survivors and, for each such organization, a link to the Internet website of the organization.
 
 “(b)
 

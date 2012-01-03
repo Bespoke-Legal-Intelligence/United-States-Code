@@ -20,7 +20,7 @@
 
 &emsp;(B) $100,000 for the Virgin Islands, American Samoa, the Trust Territory of the Pacific Islands, or Guam and $200,000 for any other State in the case of an allotment for grants for the construction of public or other nonprofit outpatient facilities,
 
-&emsp;(C) $200,000 for the Virgin Islands, American Samoa, the Trust Territory of the Pacific Islands, or Guam and $300,000 for any otherState in the case of an allotment for grants for the construction of public or other nonprofit facilities for long-term care or for the construction of public or other nonprofit hospitals and public health centers, or for the modernization of facilities referred to in paragraph (a) or (b) of section 291a of this title, or
+&emsp;(C) $200,000 for the Virgin Islands, American Samoa, the Trust Territory of the Pacific Islands, or Guam and $300,000 for any other State in the case of an allotment for grants for the construction of public or other nonprofit facilities for long-term care or for the construction of public or other nonprofit hospitals and public health centers, or for the modernization of facilities referred to in paragraph (a) or (b) of section 291a of this title, or
 
 &emsp;(D) $200,000 for the Virgin Islands, American Samoa, the Trust Territory of the Pacific Islands, or Guam and $300,000 for any other State in the case of an allotment for grants for the modernization of facilities referred to in paragraphs (a) and (b) of section 291a of this title,
 
@@ -54,11 +54,11 @@ For the purposes of this part—
 
 &emsp;(A) it has afforded a reasonable opportunity to make applications for the portion so specified and there have been no approvable applications for such portion, or
 
-&emsp;(B) in the case of a request to transfer a portion of an allotment for grants for the construction of public or other nonprofit hospitals and public health centers, use of such portion as requested by such State agency will better carry out the purposes of this subchapter,
+&emsp;(B) in the case of a request to transfer a portion of an allotment for grants for the construction of public or other nonprofit hospitals and public health centers, use of suchportion as requested by such State agency will better carry out the purposes of this subchapter,
 
 > the Secretary shall promptly (but after application of subsection (b) of this section) adjust the allotments of such State in accordance with such request and shall notify the State agency.
 
-(3) In addition to the transfer of portions of allotments under paragraph (1) or (2), upon the request of any State that a specified portion of an allotment of such State under paragraph (2) of subsection (a) of this section be added to an allotment of such State under paragraph (1) of such subsection for grants for the construction of public or other nonprofit hospitals and publichealth centers, and upon simultaneous certification by the State agency in such State to the effect that the need for new public or other nonprofit hospitals and public health centers is substantially greater than the need for modernization of facilities referred to in paragraph (a) or (b) of section 291a of this title, the Secretary shall promptly (but after application of subsection (b) of this section) adjust the allotments of such State in accordance with such request and shall notify the State agency.
+(3) In addition to the transfer of portions of allotments under paragraph (1) or (2), upon the request of any State that a specified portion of an allotment of such State under paragraph (2) of subsection (a) of this section be added to an allotment of such State under paragraph (1) of such subsection for grants for the construction of public or other nonprofit hospitals and public health centers, and upon simultaneous certification by the State agency in such State to the effect that the need for new public or other nonprofit hospitals and public health centers is substantially greater than the need for modernization of facilities referred to in paragraph (a) or (b) of section 291a of this title, the Secretary shall promptly (but after application of subsection (b) of this section) adjust the allotments of such State in accordance with such request and shall notify the State agency.
 
 (4) After adjustment of allotments of any State, as provided in paragraph (1), (2), or (3) of this subsection, the allotments as so adjusted shall be deemed to be the State's allotments under this section.
 
@@ -102,11 +102,11 @@ Subsec. (b)(1)(D). Pub. L. 91–296, §103(b)(4), added subpar. (D).
 
 Subsecs. (b)(2), (c)(1). Pub. L. 91–296, §119(a)(2), (b), inserted reference to Trust Territory of the Pacific Islands.
 
-Subsec. (d)(1). Pub. L. 91–296, §§119(c), 122, inserted reference to Trust Territory of the Pacific Islands and substituted two years for one year as the time span following a year in which allotted sums remaining unobligated at the end thereof during which such unobligated funds remain available.
+Subsec. (d)(1). Pub. L. 91–296, §§119(c), 122, inserted reference to Trust Territory of the Pacific Islands andsubstituted two years for one year as the time span following a year in which allotted sums remaining unobligated at the end thereof during which such unobligated funds remain available.
 
 Subsec. (d)(2). Pub. L. 91–296, §119(c), inserted references to Trust Territory of the Pacific Islands.
 
-Subsec. (e). Pub. L. 91–296, §104, authorized any State to make transfers of any amount up to the minimum amount allotted to any state for a particular category and authorized all amounts above such minimums to be transferred from one category of assistance to another without restriction on the amounts with the exception that no funds could be transferred from rehabilitation facilities category or to new hospital construction category and that all transfers be justified on the basis that either there are no approvable applications in thecategory from which funds are transferred or, in case of transfers from new hospital construction category, the purposes of the program would be better served by the transfer, and authorized transfers to new hospital construction from modernization category if need is greater.
+Subsec. (e). Pub. L. 91–296, §104, authorized any State to make transfers of any amount up to the minimum amount allotted to any state for a particular category and authorized all amounts above such minimums to be transferred from one category of assistance to another without restriction on the amounts with the exception that no funds could be transferred from rehabilitation facilities category or to new hospital construction category and that all transfers be justified on the basis that either there are no approvable applications in the category from which funds are transferred or, in case of transfers from new hospital construction category, the purposes of the program would be better served by the transfer, and authorized transfers to new hospital construction from modernization category if need is greater.
 
 <b>1968</b>—Subsec. (a)(1). Pub. L. 90–574, §402(b)(1), inserted provision for two-thirds of the sums appropriated in the case of the fifth fiscal year thereafter.
 

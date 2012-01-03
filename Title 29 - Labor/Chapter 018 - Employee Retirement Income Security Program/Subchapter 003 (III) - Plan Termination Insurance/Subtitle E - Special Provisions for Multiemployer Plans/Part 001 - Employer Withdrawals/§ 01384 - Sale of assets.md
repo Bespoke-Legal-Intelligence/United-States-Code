@@ -38,7 +38,7 @@
 
 #### (c) Variances or exemptions from continuation of liability of seller; procedures applicable
 
-The corporation may by regulation vary the standards in subparagraphs (B) and (C) of subsection (a)(1) of this section if the variance would more effectively or equitably carry out the purposes of this subchapter. Before it promulgates such regulations, the corporation may grant individual or class variances or exemptions from the requirements of such subparagraphs if the particular case warrants it. Beforegranting such an individual or class variance or exemption, the corporation—
+The corporation may by regulation vary the standards in subparagraphs (B) and (C) of subsection (a)(1) of this section if the variance would more effectively or equitably carry out the purposes of this subchapter. Before it promulgates such regulations, the corporation may grant individual or class variances or exemptions from the requirements of such subparagraphs if the particular case warrants it. Before granting such an individual or class variance or exemption, the corporation—
 
 &emsp;(1) shall publish notice in the Federal Register of the pendency of the variance or exemption,
 

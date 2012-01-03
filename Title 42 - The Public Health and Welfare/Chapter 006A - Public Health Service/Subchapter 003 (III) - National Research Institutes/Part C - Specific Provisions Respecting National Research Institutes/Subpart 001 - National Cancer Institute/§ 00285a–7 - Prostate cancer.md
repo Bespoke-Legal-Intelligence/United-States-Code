@@ -18,7 +18,7 @@ The Director of the Institute shall coordinate the activities of the Director un
 
 &emsp;&emsp;(B) clinical research and related activities concerning the causes, prevention, detection and treatment of prostate cancer;
 
-&emsp;&emsp;(C) prevention and control and early detection programs with respect to prostate cancer in accordance with section 285a–1 of thistitle, particularly as it relates to intensifying research on the role of prostate specific antigen for the screening and early detection of prostate cancer;
+&emsp;&emsp;(C) prevention and control and early detection programs with respect to prostate cancer in accordance with section 285a–1 of this title, particularly as it relates to intensifying research on the role of prostate specific antigen for the screening and early detection of prostate cancer;
 
 &emsp;&emsp;(D) an Inter-Institute Task Force, under the direction of the Director of the Institute, to provide coordination between relevant National Institutes of Health components of research efforts on prostate cancer;
 

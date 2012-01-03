@@ -1,6 +1,6 @@
 ### §7215a. Administrative authority
 
-In order to conduct the programs authorized by this part, each State educational agency orlocal educational agency may use funds made available under this part to make grants to, and to enter into contracts with, local educational agencies, institutions of higher education, libraries, museums, and other public and private nonprofit agencies, organizations, and institutions.
+In order to conduct the programs authorized by this part, each State educational agency or local educational agency may use funds made available under this part to make grants to, and to enter into contracts with, local educational agencies, institutions of higher education, libraries, museums, and other public and private nonprofit agencies, organizations, and institutions.
 
 (Pub. L. 89–10, title V, §5132, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1783.)
 

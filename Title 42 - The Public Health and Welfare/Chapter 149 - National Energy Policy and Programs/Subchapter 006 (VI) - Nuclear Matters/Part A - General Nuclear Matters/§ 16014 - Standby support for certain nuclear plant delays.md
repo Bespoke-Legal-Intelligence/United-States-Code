@@ -102,7 +102,7 @@ In this section:
 
 #### (5) Types of covered costs
 
-&emsp;Subject to paragraphs (2), (3), and (4), the contract entered into under this section for anadvanced nuclear facility shall include as covered costs those costs that result from a delay during construction and in gaining approval for fuel loading and full-power operation, including—
+&emsp;Subject to paragraphs (2), (3), and (4), the contract entered into under this section for an advanced nuclear facility shall include as covered costs those costs that result from a delay during construction and in gaining approval for fuel loading and full-power operation, including—
 
 &emsp;&emsp;(A) principal or interest on any debt obligation of an advanced nuclear facility owned by a non-Federal entity; and
 

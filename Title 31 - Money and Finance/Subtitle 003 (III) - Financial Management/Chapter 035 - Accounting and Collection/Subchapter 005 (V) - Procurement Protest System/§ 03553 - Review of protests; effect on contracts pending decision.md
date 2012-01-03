@@ -58,7 +58,7 @@
 
 (e) The authority of the head of the procuring activity to make findings and to authorize the award and performance of contracts under subsections (c) and (d) of this section may not be delegated.
 
-(f)(1) Within such deadlines as the Comptroller General prescribes, upon request each Federalagency shall provide to an interested party any document relevant to a protested procurement action (including the report required by subsection (b)(2) of this section) that would not give that party a competitive advantage and that the party is otherwise authorized by law to receive.
+(f)(1) Within such deadlines as the Comptroller General prescribes, upon request each Federal agency shall provide to an interested party any document relevant to a protested procurement action (including the report required by subsection (b)(2) of this section) that would not give that party a competitive advantage and that the party is otherwise authorized by law to receive.
 
 (2)(A) The Comptroller General may issue protective orders which establish terms, conditions, and restrictions for the provision of any document to a party under paragraph (1), that prohibit or restrict the disclosure by the party of information described in subparagraph (B) that is contained in such a document.
 

@@ -32,7 +32,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1978—Subsec. (b). Pub. L. 95–519 substituted “6301(2)(x)–(xiii)” for “6301(2)(x)–(xii)”.
+<b>1978</b>—Subsec. (b). Pub. L. 95–519 substituted “6301(2)(x)–(xiii)” for “6301(2)(x)–(xii)”.
 
 Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
 

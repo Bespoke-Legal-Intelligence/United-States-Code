@@ -8,17 +8,17 @@
 
 #### Amendments
 
-1986—Subsec. (a). Pub. L. 99–661 substituted “rear admiral (lower half)” for “commodore”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–661 substituted “rear admiral (lower half)” for “commodore”.
 
 Subsec. (b). Pub. L. 99–348 substituted “Retired pay computed under section 423(a) of this title” for “Except as provided in section 423(b) of this title, the retired pay”.
 
-1983—Subsec. (a). Pub. L. 97–417 substituted “commodore” for “rear admiral”.
+<b>1983</b>—Subsec. (a). Pub. L. 97–417 substituted “commodore” for “rear admiral”.
 
-1980—Subsec. (b). Pub. L. 96–342 substituted “Except as provided in section 423(b)” for “Notwithstanding section 423”.
+<b>1980</b>—Subsec. (b). Pub. L. 96–342 substituted “Except as provided in section 423(b)” for “Notwithstanding section 423”.
 
-1976—Subsec. (a). Pub. L. 94–546 substituted “promotion year” for “fiscal year”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–546 substituted “promotion year” for “fiscal year”.
 
-1974—Subsec. (a). Pub. L. 93–283 prohibited an involuntary retirement under this section of an officer advanced in precedence on the active duty promotion list because of his promotion resulting from selection for promotion from below the zone earlier than if he had not been selected from below the zone.
+<b>1974</b>—Subsec. (a). Pub. L. 93–283 prohibited an involuntary retirement under this section of an officer advanced in precedence on the active duty promotion list because of his promotion resulting from selection for promotion from below the zone earlier than if he had not been selected from below the zone.
 
 #### Effective Date of 1974 Amendment
 

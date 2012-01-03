@@ -18,7 +18,7 @@ Definition of Forest Botanical Product.—For purposes of this section, the term
 
 “(b)
 
-Recovery of Fair Market Value for Products.—The Secretary of Agriculture shall develop and implement a pilot program to charge and collect fees under subsection (c) for forest botanical products harvested on National Forest System lands. The Secretaryshall establish appraisal methods and bidding procedures to determine the fair market value of forest botanical products harvested under the pilot program.
+Recovery of Fair Market Value for Products.—The Secretary of Agriculture shall develop and implement a pilot program to charge and collect fees under subsection (c) for forest botanical products harvested on National Forest System lands. The Secretary shall establish appraisal methods and bidding procedures to determine the fair market value of forest botanical products harvested under the pilot program.
 
 “(c)
 

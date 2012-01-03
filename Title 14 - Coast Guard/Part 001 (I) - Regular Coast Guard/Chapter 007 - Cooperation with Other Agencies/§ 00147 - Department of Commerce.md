@@ -12,7 +12,7 @@ Although the Coast Guard has always cooperated closely with the Weather Bureau, 
 
 #### Amendments
 
-1982—Pub. L. 97–295 substituted “Administration” for “Admministration” after “Atmospheric”.
+<b>1982</b>—Pub. L. 97–295 substituted “Administration” for “Admministration” after “Atmospheric”.
 
-1976—Pub. L. 94–546 substituted references to the National Oceanic and Atmospheric Administration and to the Administrator, National Oceanic and Atmospheric Administration for references to the Weather Bureau and to the Chief of the Weather Bureau.
+<b>1976</b>—Pub. L. 94–546 substituted references to the National Oceanic and Atmospheric Administration and to the Administrator, National Oceanic and Atmospheric Administration for references to the Weather Bureau and to the Chief of the Weather Bureau.
 

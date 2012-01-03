@@ -30,7 +30,7 @@ The Corporation shall ensure that each individual selected during a fiscal year 
 
 &emsp;In making grants under this subsection for a fiscal year, the Corporation—
 
-&emsp;&emsp;(A) shall select 2 or more of the national service corps described in section 12572(a) of this title to receive grants under this subsection; and
+&emsp;&emsp;(A) shall select 2 or more of the national service corps described in section 12572(a) ofthis title to receive grants under this subsection; and
 
 &emsp;&emsp;(B) may select national service programs described in section 12572(b) of this title to receive such grants.
 

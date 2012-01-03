@@ -6,7 +6,7 @@ The Congress hereby finds and declares that—
 
 &emsp;(1) it is in the public interest to encourage the growth and development of public radio and television broadcasting, including the use of such media for instructional, educational, and cultural purposes;
 
-&emsp;(2) it is in the public interest to encourage the growth and development of nonbroadcasttelecommunications technologies for the delivery of public telecommunications services;
+&emsp;(2) it is in the public interest to encourage the growth and development of nonbroadcast telecommunications technologies for the delivery of public telecommunications services;
 
 &emsp;(3) expansion and development of public telecommunications and of diversity of its programming depend on freedom, imagination, and initiative on both local and national levels;
 
@@ -208,7 +208,7 @@ The right to repeal, alter, or amend this section at any time is expressly reser
 
 (5) Funds may not be distributed pursuant to this subsection to any public telecommunications entity that does not maintain for public examination copies of the annual financial and audit reports, or other information regarding finances, submitted to the Corporation pursuant to subsection (<i>l</i>)(3)(B) of this section.
 
-(6)(A) The Corporation shall conduct a study and prepare a plan, in consultation with public television licensees (or designated representatives of those licensees) and the Public Broadcasting Service, on how funds available to the Corporation under paragraph (3)(A)(ii)(II) can be best allocated to meet the objectives of this chapter with regard to national public television programming. The plan, which shall be based onthe conclusions resulting from the study, shall be submitted by the Corporation to the Congress not later than January 31, 1990. Unless directed otherwise by an Act of Congress, the Corporation shall implement the plan during the first fiscal year beginning after the fiscal year in which the plan is submitted to Congress.
+(6)(A) The Corporation shall conduct a study and prepare a plan, in consultation with public television licensees (or designated representatives of those licensees) and the Public Broadcasting Service, on how funds available to the Corporation under paragraph (3)(A)(ii)(II) can be best allocated to meet the objectives of this chapter with regard to national public television programming. The plan, which shall be based on the conclusions resulting from the study, shall be submitted by the Corporation to the Congress not later than January 31, 1990. Unless directed otherwise by an Act of Congress, the Corporation shall implement the plan during the first fiscal year beginning after the fiscal year in which the plan is submitted to Congress.
 
 (B) The Corporation shall make a basic grant from the portion reserved for television stations under paragraph (3)(A)(ii)(I) to each licensee and permittee of a public television station that is on the air. The Corporation shall assist radio stations to maintain and improve their service where public radio is the only broadcast service available. The balance of the portion reserved for television stations and the total portion reserved for radio stations under paragraph (3)(A)(iii)(I) shall be distributed to licensees and permittees of such stations in accordance with eligibility criteria (which the Corporation shall review periodically in consultation with public radio and television licensees or permittees, or their designated representatives) that promote the public interest in public broadcasting, and on the basis of a formula designed to—
 
@@ -228,7 +228,7 @@ The right to repeal, alter, or amend this section at any time is expressly reser
 
 (D) In the case of any public broadcast station (other than any station which is owned and operated by a State, a political or special purpose subdivision of a State, or a public agency) in existence on November 2, 1978, such station shall comply with the requirements of this paragraph with respect to the establishment of a community advisory board not later than 180 days after November 2, 1978.
 
-(E) The provision of subparagraph (A) prohibiting the distribution of funds to any public broadcast station (other than any station which is owned and operated by a State, a political or special purpose subdivision of a State, or a public agency) unless such station establishes a community advisory board shall be the exclusive remedy for the enforcement of the provisions of this paragraph.
+(E) The provision of subparagraph (A) prohibiting the distribution of funds to any public broadcast station (other than any station which is owned and operated by a State, a political or special purpose subdivision of a State, or a public agency) unless such station establishes acommunity advisory board shall be the exclusive remedy for the enforcement of the provisions of this paragraph.
 
 (9) Funds may not be distributed pursuant to this subsection to the Public Broadcasting Service or National Public Radio (or any successor organization) unless assurances are provided to the Corporation that no officer or employee of the Public Broadcasting Service or National Public Radio (or any successor organization), as the case may be, will be compensated in excess of reasonable compensation as determined pursuant to Section <sup>3</sup> 4958 of title 26 for services that the officer or employee renders to organization,<sup>4</sup> and unless further assurances are provided to the Corporation that no officer or employee of such an entity will be loaned money by that entity on an interest-free basis.
 
@@ -284,7 +284,7 @@ The right to repeal, alter, or amend this section at any time is expressly reser
 
 #### (<i>l</i>) Financial management and records
 
-(1)(A) The accounts of the Corporation shall be audited annually in accordance with generally accepted auditing standards by independent certified public accountants or independent licensed public accountants certified or licensed by a regulatory authority of a State or other political subdivision of the United States, except that such requirement shall not preclude shared auditing arrangements between any public telecommunications entity and its licensee where such licensee is a public or private institution. The audits shall be conducted at the place or places where the accounts of the Corporation are normally kept. All books, accounts, financial records, reports, files, and all other papers, things, or property belonging to or in use by the Corporation and necessary to facilitate the audits shall be made available to the person or persons conducting the audits; and full facilities for verifying transactions with the balances or securities held by depositories, fiscal agents and custodians shall be afforded to such person or persons.
+(1)(A) The accounts of the Corporation shall be audited annually in accordance with generally accepted auditing standards by independent certified public accountants or independent licensed public accountants certified or licensed by a regulatory authority of a State or other political subdivision of the United States, except that such requirement shall not preclude sharedauditing arrangements between any public telecommunications entity and its licensee where such licensee is a public or private institution. The audits shall be conducted at the place or places where the accounts of the Corporation are normally kept. All books, accounts, financial records, reports, files, and all other papers, things, or property belonging to or in use by the Corporation and necessary to facilitate the audits shall be made available to the person or persons conducting the audits; and full facilities for verifying transactions with the balances or securities held by depositories, fiscal agents and custodians shall be afforded to such person or persons.
 
 (B) The report of each such independent audit shall be included in the annual report required by subsection (i) of this section. The audit report shall set forth the scope of the audit and include such statements as are necessary to present fairly the Corporation's assets and liabilities, surplus or deficit, with an analysis of the changes therein during the year, supplemented in reasonable detail by a statement of the Corporation's income and expenses during the year, and a statement of the sources and application of funds, together with the independent auditor's opinion of those statements.
 
@@ -342,6 +342,8 @@ The District of Columbia Nonprofit Corporation Act, referred to in subsecs. (b),
 
 Section 5(c) of the Public Telecommunications Act of 1992, referred to in subsec. (c)(5), is section 5(c) of Pub. L. 102–356, which is set out below.
 
+This chapter, referred to in subsecs. (c)(6), (h)(1), and (k)(6)(A), was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
+
 #### Prior Provisions
 
 A prior section 396, act June 19, 1934, ch. 652, title III, §396, as added May 1, 1962, Pub. L. 87–447, 76 Stat. 67, was renumbered section 394 by Pub. L. 90–129, and subsequently renumbered section 393A by Pub. L. 101–437, and is classified to section 393a of this title.
@@ -382,7 +384,7 @@ Subsec. (k)(6)(B). Pub. L. 102–356, §11, inserted “(which the Corporation s
 
 Subsec. (k)(11). Pub. L. 102–356, §12(a), added par. (11).
 
-Subsec. (<i>l</i>)(3)(B)(ii). Pub. L. 102–356, §13(a), (b)(1), designated existing provisions as subcl. (I), substituted“biennial” for “biannual”, substituted “or” for “and” after semicolon, and added subcl. (II).
+Subsec. (<i>l</i>)(3)(B)(ii). Pub. L. 102–356, §13(a), (b)(1), designated existing provisions as subcl. (I), substituted “biennial” for “biannual”, substituted “or” for “and” after semicolon, and added subcl. (II).
 
 Subsec. (<i>l</i>)(3)(B)(iii). Pub. L. 102–356, §13(b)(2), substituted “biennially” for “biannually”.
 
@@ -482,7 +484,7 @@ Subsec. (k)(3)(B)(i). Pub. L. 97–35, §1227(c)(2), amended cl. (i) generally, 
 
 Subsec. (k)(3)(B)(ii). Pub. L. 97–35, §1227(c)(3)(A), amended cl. (ii) generally, substituting “available for distribution under clause (i)” for “contained in the annual budget established by the Corporation under clause (i)”.
 
-Subsec. (k)(3)(B)(iii), (iv). Pub. L. 97–35, §1227(c)(3)(B), struck out cls. (iii) and (iv) which had provided, respectively, that “During each of the fiscal years 1981, 1982, and 1983, the annual budget established by the Corporation under clause (i) shall consist of not less than 95 percent of the funds made available by the Secretary of the Treasury to the Corporation pursuant to paragraph (2)(A)” and that “In determining the amount of funds which shall be made available for radio programming and operations under this subparagraph, the Corporation shall take into account the increased financial needs relating to radio programming and operations resulting from the expansion and development of noncommercial radio broadcast station facilities through the use of funds made available pursuant to section 393(d) of this title”.
+Subsec. (k)(3)(B)(iii), (iv). Pub. L. 97–35, §1227(c)(3)(B), struck out cls. (iii) and (iv) which had provided, respectively, that “During each of the fiscal years 1981, 1982, and 1983, the annual budget established by the Corporation under clause (i) shall consist of not less than 95percent of the funds made available by the Secretary of the Treasury to the Corporation pursuant to paragraph (2)(A)” and that “In determining the amount of funds which shall be made available for radio programming and operations under this subparagraph, the Corporation shall take into account the increased financial needs relating to radio programming and operations resulting from the expansion and development of noncommercial radio broadcast station facilities through the use of funds made available pursuant to section 393(d) of this title”.
 
 Subsec. (k)(6)(A). Pub. L. 97–35, §1227(d)(1), amended subpar. (A) generally, substituting “The Corporation, in consultation with public radio stations and with National Public Radio (or any successor organization), shall determine the percentage of funds allocated under subclause (I) and subclause (II) of paragraph (3)(A)(iii) for each fiscal year. The Corporation, in consultation with such organizations, also shall conduct an annual review of the criteria and conditions applicable to such allocations” for “The Corporation, in consultation with public television and radio licensees, shall review annually the percentage of funds reserved pursuant to paragraph (3)(A), and the criteria and conditions regarding the division and distribution of such funds among public television and radio stations”.
 
@@ -496,7 +498,7 @@ Subsec. (k)(9). Pub. L. 97–35, §1227(g), in subpar. (A) substituted “to ass
 
 Subsec. (<i>l</i>). Pub. L. 97–35, §1228, inserted provisions in par. (1)(A) respecting shared auditing arrangements, and substituted in par. (3)(B)(ii) and (iii) provisions relating to biannual audits and accompanying report, for provisions relating to annual audits and accompanying report.
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–567, §301, substituted “public” for “noncommercial educational” and “telecommunications” for “radio and television” wherever appearing and inserted provisions relating to thegrowth and development of nonbroadcast telecommunications technologies for the delivery of public telecommunications services.
+<b>1978</b>—Subsec. (a). Pub. L. 95–567, §301, substituted “public” for “noncommercial educational” and “telecommunications” for “radio and television” wherever appearing and inserted provisions relating to the growth and development of nonbroadcast telecommunications technologies for the delivery of public telecommunications services.
 
 Subsec. (d)(1). Pub. L. 95–567, §302, struck out provision authorizing the President to designate one of the members first appointed to the Board as Chairman.
 
@@ -580,7 +582,7 @@ Section 5(c) of Pub. L. 102–356 provided that:
 
 #### Objectivity and Balance Policy, Procedures, and Report
 
-Section 19 of Pub. L. 102–356 provided that: “Pursuant to the existing responsibility of the Corporation forPublic Broadcasting under section 396(g)(1)(A) of the Communications Act of 1934 (47 U.S.C. 396(g)(1)(A)) to facilitate the full development of public telecommunications in which programs of high quality, diversity, creativity, excellence, and innovation, which are obtained from diverse sources, will be made available to public telecommunications entities, with strict adherence to objectivity and balance in all programs or series of programs of a controversial nature, the Board of Directors of the Corporation shall—
+Section 19 of Pub. L. 102–356 provided that: “Pursuant to the existing responsibility of the Corporation for Public Broadcasting under section 396(g)(1)(A) of the Communications Act of 1934 (47 U.S.C. 396(g)(1)(A)) to facilitate the full development of public telecommunications in which programs of high quality, diversity, creativity, excellence, and innovation, which are obtained from diverse sources, will be made available to public telecommunications entities, with strict adherence to objectivity and balance in all programs or series of programs of a controversial nature, the Board of Directors of the Corporation shall—
 
 &emsp;“(1) review the Corporation's existing efforts to meet its responsibility under section 396(g)(1)(A);
 

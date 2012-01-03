@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) the term “employer” as used in the Family and Medical Leave Act of 1993 means any employing office, and
 
-&emsp;&emsp;(B) the term “eligible employee” as used in the Family and Medical Leave Act of 1993means a covered employee who has been employed in any employing office for 12 months and for at least 1,250 hours of employment during the previous 12 months.
+&emsp;&emsp;(B) the term “eligible employee” as used in the Family and Medical Leave Act of 1993 means a covered employee who has been employed in any employing office for 12 months and for at least 1,250 hours of employment during the previous 12 months.
 
 #### (b) Remedy
 
@@ -54,5 +54,5 @@ Section is comprised of section 202 of Pub. L. 104–1. Subsec. (c) of section 2
 
 #### Amendments
 
-2004—Subsec. (e)(2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in heading.
+<b>2004</b>—Subsec. (e)(2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in heading.
 

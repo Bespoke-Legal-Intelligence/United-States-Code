@@ -10,7 +10,7 @@ To contribute to the achievement of the goals under the Full Employment and Bala
 
 &emsp;&emsp;(i) production levels adequate to meet the nutritional needs of all Americans and respond to rising food requirements throughout the world;
 
-&emsp;&emsp;(ii) farm and ranch income at full parity levels that will improve opportunities for farm families, encourage production, provide for essential capital investment in farming, and provide for farm prices at full parity in the market place;
+&emsp;&emsp;(ii) farm and ranch income at full parity levels that will improve opportunities forfarm families, encourage production, provide for essential capital investment in farming, and provide for farm prices at full parity in the market place;
 
 &emsp;&emsp;(iii) renewed commitment to the protection and conservation of rural land and water through support for improved conservation practices and research, and attention to agricultural land use in the formulation of plans for energy, water and mineral resources, transportation, and commercial, industrial, and residential development; and
 

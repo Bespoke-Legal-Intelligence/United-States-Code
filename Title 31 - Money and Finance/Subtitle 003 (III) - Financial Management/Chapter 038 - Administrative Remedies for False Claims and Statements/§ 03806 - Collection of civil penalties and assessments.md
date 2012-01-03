@@ -10,7 +10,7 @@
 
 (e) The United States Court of Federal Claims shall have jurisdiction of any action under subsection (b) of this section to recover any penalty or assessment if the cause of action is asserted by the United States as a counterclaim in a matter pending in such court.
 
-(f) The Attorney General shall have exclusive authority to compromise or settle any penalty or assessment the determination of which is the subject of a pending petition pursuant to section 3805 of this title or a pending action to recover such penalty or assessment pursuant to this section.
+(f) The Attorney General shall have exclusive authority to compromise or settle any penaltyor assessment the determination of which is the subject of a pending petition pursuant to section 3805 of this title or a pending action to recover such penalty or assessment pursuant to this section.
 
 (g)(1) Except as provided in paragraph (2) of this subsection, any amount of penalty or assessment collected under this chapter shall be deposited as miscellaneous receipts in the Treasury of the United States.
 

@@ -1,6 +1,6 @@
 ### §3531. Educational assistance allowance
 
-(a) The Secretary shall, in accordance with the provisions of chapter 36 of this title, pay to the parent or guardian of each eligible person who is pursuing a program of education under this chapter, and who applies therefor on behalf of such eligible person, an educational assistance allowance to meet, in part, the expenses of the eligible person's subsistence, tuition, fees, supplies, books, equipment, and other educational costs.
+(a) The Secretary shall, in accordance with the provisions of chapter 36 of this title, pay tothe parent or guardian of each eligible person who is pursuing a program of education under this chapter, and who applies therefor on behalf of such eligible person, an educational assistance allowance to meet, in part, the expenses of the eligible person's subsistence, tuition, fees, supplies, books, equipment, and other educational costs.
 
 (b) The educational assistance allowance of an eligible person pursuing a program of education at an educational institution shall be paid as provided in chapter 36 of this title.
 
@@ -28,7 +28,7 @@ Subsec. (d). Pub. L. 92–540, §312(3), redesignated subsec. (d) as (b).
 
 Subsec. (e). Pub. L. 92–540, §312(2), struck out subsec. (e) which related to the prompt payment by the Administrator of the allowance to the eligible person.
 
-<b>1966</b>—Subsec. (c). Pub. L. 89–358 added subsec. (c) and struck out former subsec. (c) which conditioned payment of allowance to eligible person taking college degree course on receipt from such person of certification of enrollment and pursuit of such course and from educational institution certification or indorsement on student's certification of enrollment and pursuit of such course, prescribed such conditions for eligible person taking a course not leading to college degree as are now incorporated in subsec. (d) of this section, and required payments to be made within twenty days afterreceipt of requisite certifications, now incorporated in subsec. (e) of this section.
+<b>1966</b>—Subsec. (c). Pub. L. 89–358 added subsec. (c) and struck out former subsec. (c) which conditioned payment of allowance to eligible person taking college degree course on receipt from such person of certification of enrollment and pursuit of such course and from educational institution certification or indorsement on student's certification of enrollment and pursuit of such course, prescribed such conditions for eligible person taking a course not leading to college degree as are now incorporated in subsec. (d) of this section, and required payments to be made within twenty days after receipt of requisite certifications, now incorporated in subsec. (e) of this section.
 
 Subsec. (d). Pub. L. 89–358 redesignated provisions of former subsec. (c)(1)(B), (2) as subsec. (d).
 

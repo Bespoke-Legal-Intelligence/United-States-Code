@@ -20,7 +20,7 @@
 
 #### (3) Reports to Congress
 
-&emsp;Not later than 3 years after December 19, 2002, and once every 3 years thereafter, the Director shall transmit to the Committee on Science of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee onHealth, Education, Labor, and Pensions of the Senate a report containing the results of evaluations under paragraph (1).
+&emsp;Not later than 3 years after December 19, 2002, and once every 3 years thereafter, the Director shall transmit to the Committee on Science of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Health, Education, Labor, and Pensions of the Senate a report containing the results of evaluations under paragraph (1).
 
 #### (b) Awards
 
@@ -46,7 +46,7 @@ Section was enacted as part of the National Science Foundation Authorization Act
 
 #### Change of Name
 
-Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Definitions
 

@@ -30,19 +30,19 @@ This chapter, referred to in subsecs. (a) and (b)(2), was in the original, “th
 
 #### Amendments
 
-1994—Subsec. (c). Pub. L. 103–416 struck out subsec. (c) which related to application to Attorney General for certificate of citizenship for adopted child.
+<b>1994</b>—Subsec. (c). Pub. L. 103–416 struck out subsec. (c) which related to application to Attorney General for certificate of citizenship for adopted child.
 
-1991—Subsec. (a). Pub. L. 102–232 substituted “an applicant” for “a petitioner”.
+<b>1991</b>—Subsec. (a). Pub. L. 102–232 substituted “an applicant” for “a petitioner”.
 
-1988—Subsec. (c). Pub. L. 100–525 amended Pub. L. 99–653. See 1986 Amendment note below.
+<b>1988</b>—Subsec. (c). Pub. L. 100–525 amended Pub. L. 99–653. See 1986 Amendment note below.
 
-1986—Pub. L. 99–396, §16(a)(1), inserted reference to certificates of non-citizen national status in section catchline.
+<b>1986</b>—Pub. L. 99–396, §16(a)(1), inserted reference to certificates of non-citizen national status in section catchline.
 
 Subsecs. (a), (b). Pub. L. 99–396, §16(a)(2), (3), designated existing provisions as subsec. (a) and added subsec. (b).
 
 Subsec. (c). Pub. L. 99–653, as amended by Pub. L. 100–525, added subsec. (c).
 
-1981—Pub. L. 97–116 substituted “(c), (d), (e), or (g) of section 1401” for “(3), (4), (5), or (7) of section 1401(a)”.
+<b>1981</b>—Pub. L. 97–116 substituted “(c), (d), (e), or (g) of section 1401” for “(3), (4), (5), or (7) of section 1401(a)”.
 
 #### Effective Date of 1994 Amendment
 

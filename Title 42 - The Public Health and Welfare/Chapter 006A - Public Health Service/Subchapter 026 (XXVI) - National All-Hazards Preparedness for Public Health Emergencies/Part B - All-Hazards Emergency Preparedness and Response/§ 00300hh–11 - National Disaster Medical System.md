@@ -80,7 +80,7 @@
 
 #### (B) Notice of absence from position of employment
 
-&emsp;&emsp;Preclusion of giving notice of service by necessity of Service as an intermittent disaster-response appointee when the Secretary activates the National Disaster Medical System shall be deemed preclusion by “military necessity” for purposes of section 4312(b) oftitle 38 pertaining to giving notice of absence from a position of employment. A determination of such necessity shall be made by the Secretary, in consultation with the Secretary of Defense, and shall not be subject to judicial review.
+&emsp;&emsp;Preclusion of giving notice of service by necessity of Service as an intermittent disaster-response appointee when the Secretary activates the National Disaster Medical System shall be deemed preclusion by “military necessity” for purposes of section 4312(b) of title 38 pertaining to giving notice of absence from a position of employment. A determination of such necessity shall be made by the Secretary, in consultation with the Secretary of Defense, and shall not be subject to judicial review.
 
 #### (4) Limitation
 

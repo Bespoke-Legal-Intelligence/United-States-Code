@@ -8,7 +8,7 @@
 
 &emsp;(B) the institution's default penalty, as determined under subsection (e) of this section,
 
-> except that if the institution has a cohort default rate in excess of the applicable maximum cohort default rate under subsection (f) of this section, the institution may not receive an allocation under this paragraph.
+> except that if the institution has a cohort default rate in excess of the applicable maximumcohort default rate under subsection (f) of this section, the institution may not receive an allocation under this paragraph.
 
 (2)(A) From the amount so appropriated, the Secretary shall next allocate to each eligible institution that began participation in the program under this part after fiscal year 1999 but is not a first or second time participant, an amount equal to the greater of—
 
@@ -80,7 +80,7 @@
 
 &emsp;(A) establish various income categories for dependent and independent undergraduate students;
 
-&emsp;(B) establish an expected family contribution for each income category of dependent and independent undergraduate students, determined on the basis of the average expected family contribution (computed in accordance with part E of this subchapter) of a representative sample within each income category for the second preceding fiscal year;
+&emsp;(B) establish an expected family contribution for each income category of dependent and independent undergraduate students, determined on the basis of the average expectedfamily contribution (computed in accordance with part E of this subchapter) of a representative sample within each income category for the second preceding fiscal year;
 
 &emsp;(C) compute 25 percent of the average cost of attendance for all undergraduate students;
 
@@ -304,7 +304,7 @@ Subsec. (c)(1). Pub. L. 105–244, §462(a)(2)(C), substituted “the remainder�
 
 Subsec. (c)(2). Pub. L. 105–244, §462(a)(2)(D), substituted “subsection (f)” for “subsection (g)” in concluding provisions.
 
-Subsec. (c)(3). Pub. L. 105–244, §462(b), in introductory provisions, struck out “the Secretary, for academic year 1988–1989, shall use the procedures employed for academic year 1986–1987, and, for any subsequent academic years,” after “professional students,”.
+Subsec. (c)(3). Pub. L. 105–244, §462(b), in introductory provisions, struck out “the Secretary, for academicyear 1988–1989, shall use the procedures employed for academic year 1986–1987, and, for any subsequent academic years,” after “professional students,”.
 
 Pub. L. 105–244, §462(a)(2)(E)(iii), substituted “subsection (f)” for “subsection (g)” in concluding provisions.
 
@@ -402,7 +402,7 @@ Subsecs. (e)(2), (h)(4)(B). Pub. L. 103–208, §2(f)(3), (4), realigned margins
 
 Subsec. (e). Pub. L. 102–325, §462(b), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (f). Pub. L. 102–325, §462(c), substituted “default reduction and default penalties” for “Default penalty” in heading and amended text generally. Prior to amendment, text read as follows: “For any institution which has a default rate which equals or exceeds 7.5 percent but does not exceed the maximum default rate applicable to the award year under subsection (g) of this section, the institution's default penalty is a percentage equal to the complement of such default rate. For any institution which has a default rate that does not exceed 7.5 percent, the institution's default penalty is equal to one.”
+Subsec. (f). Pub. L. 102–325, §462(c), substituted “default reduction and default penalties” for “Default penalty” in heading and amended text generally. Prior to amendment, text read as follows: “For any institution which has a default rate which equals or exceeds 7.5 percent but does not exceed the maximum default rate applicable to the award year under subsection (g) of this section, the institution's default penalty is a percentage equal to the complement of such default rate. For any institution which has a default rate that doesnot exceed 7.5 percent, the institution's default penalty is equal to one.”
 
 Subsec. (g). Pub. L. 102–325, §462(d), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows:
 

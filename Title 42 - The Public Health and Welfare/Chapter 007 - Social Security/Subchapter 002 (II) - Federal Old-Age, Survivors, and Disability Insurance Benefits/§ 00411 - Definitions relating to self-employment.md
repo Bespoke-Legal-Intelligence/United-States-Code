@@ -4,7 +4,7 @@ For the purposes of this subchapter—
 
 #### (a) Net earnings from self-employment
 
-The term “net earnings from self-employment” means the gross income, as computed under subtitle A of the Internal Revenue Code of 1986, derived by an individual from any trade or business carried on by such individual, less the deductions allowed under such subtitle which are attributable to such trade or business, plus his distributive share (whether or not distributed) of the ordinary net income or loss, as computed under section 702(a)(8) of such Code, from any trade or business carried on by a partnership of which he is a member; except that in computing such gross income and deductions and such distributive share of partnership ordinary net income or loss—
+The term “net earnings from self-employment” means the gross income, as computed under subtitle A of the Internal Revenue Code of 1986, derived by an individual from any trade orbusiness carried on by such individual, less the deductions allowed under such subtitle which are attributable to such trade or business, plus his distributive share (whether or not distributed) of the ordinary net income or loss, as computed under section 702(a)(8) of such Code, from any trade or business carried on by a partnership of which he is a member; except that in computing such gross income and deductions and such distributive share of partnership ordinary net income or loss—
 
 &emsp;(1) There shall be excluded rentals from real estate and from personal property leased with the real estate (including such rentals paid in crop shares, and including payments under section 3833(2) of title 16 to individuals receiving benefits under section 402 or 423 of this title), together with the deductions attributable thereto, unless such rentals are received in the course of a trade or business as a real estate dealer; except that the preceding provisions of this paragraph shall not apply to any income derived by the owner or tenant of land if (A) such income is derived under an arrangement, between the owner or tenant and another individual, which provides that such other individual shall produce agricultural or horticultural commodities (including livestock, bees, poultry, and fur-bearing animals and wildlife) on such land, and that there shall be material participation by the owner or tenant (as determined without regard to any activities of an agent of such owner or tenant) in the production or the management of the production of such agricultural or horticultural commodities, and (B) there is material participation by the owner or tenant (as determined without regard to any activities of an agent of such owner or tenant) with respect to any such agricultural or horticultural commodity;
 
@@ -16,7 +16,7 @@ The term “net earnings from self-employment” means the gross income, as comp
 
 &emsp;(5)(A) If any of the income derived from a trade or business (other than a trade or business carried on by a partnership) is community income under community property laws applicable to such income, the gross income and deductions attributable to such trade or business shall be treated as the gross income and deductions of the spouse carrying on such trade or business or, if such trade or business is jointly operated, treated as the gross income and deductions of each spouse on the basis of their respective distributive share of the gross income and deductions;
 
-&emsp;(B) If any portion of a partner's distributive share of the ordinary net income or loss from a trade or business carried on by a partnership is community income or loss under the community property laws applicable to such share, all of such distributive share shall beincluded in computing the net earnings from self-employment of such partner, and no part of such share shall be taken into account in computing the net earnings from self-employment of the spouse of such partner;
+&emsp;(B) If any portion of a partner's distributive share of the ordinary net income or loss from a trade or business carried on by a partnership is community income or loss under the community property laws applicable to such share, all of such distributive share shall be included in computing the net earnings from self-employment of such partner, and no part of such share shall be taken into account in computing the net earnings from self-employment of the spouse of such partner;
 
 &emsp;(6) A resident of the Commonwealth of Puerto Rico shall compute his net earnings from self-employment in the same manner as a citizen of the United States but without regard to the provisions of section 933 of the Internal Revenue Code of 1986;
 
@@ -56,7 +56,7 @@ The term “net earnings from self-employment” means the gross income, as comp
 
 &emsp;(ii) in the case of an individual, if the gross income derived by him from such trade or business is more than the upper limit and the net earnings from self-employment derived by him from such trade or business (computed under this subsection without regard to this sentence) are less than the lower limit, the net earnings from self-employment derived by him from such trade or business may, at his option, be deemed to be the lower limit; and
 
-&emsp;(iii) in the case of a member of a partnership, if his distributive share of the gross income of the partnership derived from such trade or business (after such gross income has been reduced by the sum of all payments to which section 707(c) of the Internal RevenueCode of 1986 applies) is not more than the upper limit, his distributive share of income described in section 702(a)(8) of such Code derived from such trade or business may, at his option, be deemed to be an amount equal to 662/3 percent of his distributive share of such gross income (after such gross income has been so reduced); or
+&emsp;(iii) in the case of a member of a partnership, if his distributive share of the gross income of the partnership derived from such trade or business (after such gross income has been reduced by the sum of all payments to which section 707(c) of the Internal Revenue Code of 1986 applies) is not more than the upper limit, his distributive share of income described in section 702(a)(8) of such Code derived from such trade or business may, at his option, be deemed to be an amount equal to 662/3 percent of his distributive share of such gross income (after such gross income has been so reduced); or
 
 &emsp;(iv) in the case of a member of a partnership, if his distributive share of the gross income of the partnership derived from such trade or business (after such gross income has been reduced by the sum of all payments to which section 707(c) of the Internal Revenue Code of 1986 applies) is more than the upper limit and his distributive share (whether or not distributed) of income described in section 702(a)(8) of such Code derived from such trade or business (computed under this subsection without regard to this sentence) is less than the lower limit, his distributive share of income described in such section 702(a)(8) derived from such trade or business may, at his option, be deemed to be the lower limit.
 
@@ -68,7 +68,7 @@ The term “net earnings from self-employment” means the gross income, as comp
 
 > and, for purposes of such sentence, if an individual (including a member of a partnership) derives gross income from more than one such trade or business, such gross income (including his distributive share of the gross income of any partnership derived from any such trade or business) shall be deemed to have been derived from one trade or business.
 
-The preceding sentence and clauses (i) through (iv) of the second preceding sentence shall also apply in the case of any trade or business (other than a trade or business specified in such second preceding sentence) which is carried on by an individual who is self-employed on a regular basis as defined in subsection (g) of this section, or by a partnership of which an individual is a member on a regular basis as defined in subsection (g) of this section, but only if such individual's net earnings from self-employment in the taxable year as determined without regard to this sentence are less than the lower limit and less than 662/3 percent of the sum (in such taxable year) of such individual's gross income derived from all trades or businesses carried on by him and his distributive share of the income or loss from all trades or businesses carried on by all the partnerships of which he is a member; except that this sentence shall not apply to more than 5 taxable years in the case of any individual, and in no case in which an individual elects to determine the amount of his net earnings from self-employment for a taxable year under the provisions of the two preceding sentences with respect to a trade or business to which the second preceding sentence applies and with respect to a trade or business to which this sentence applies shall such net earnings for such year exceed the lower limit.
+The preceding sentence and clauses (i) through (iv) of the second preceding sentence shall alsoapply in the case of any trade or business (other than a trade or business specified in such second preceding sentence) which is carried on by an individual who is self-employed on a regular basis as defined in subsection (g) of this section, or by a partnership of which an individual is a member on a regular basis as defined in subsection (g) of this section, but only if such individual's net earnings from self-employment in the taxable year as determined without regard to this sentence are less than the lower limit and less than 662/3 percent of the sum (in such taxable year) of such individual's gross income derived from all trades or businesses carried on by him and his distributive share of the income or loss from all trades or businesses carried on by all the partnerships of which he is a member; except that this sentence shall not apply to more than 5 taxable years in the case of any individual, and in no case in which an individual elects to determine the amount of his net earnings from self-employment for a taxable year under the provisions of the two preceding sentences with respect to a trade or business to which the second preceding sentence applies and with respect to a trade or business to which this sentence applies shall such net earnings for such year exceed the lower limit.
 
 #### (b) Self-employment income
 
@@ -96,7 +96,7 @@ The term “self-employment income” means the net earnings from self-employmen
 
 &emsp;(2) The net earnings from self-employment, if such net earnings for the taxable year are less than $400.
 
-> An individual who is not a citizen of the United States but who is a resident of the Commonwealth of Puerto Rico, the Virgin Islands, Guam, or American Samoa shall not, for the purpose of this subsection, be considered to be a nonresident alien individual. In the case of church employee income, the special rules ofsubsection (i)(2) of this section shall apply for purposes of paragraph (2).
+> An individual who is not a citizen of the United States but who is a resident of the Commonwealth of Puerto Rico, the Virgin Islands, Guam, or American Samoa shall not, for the purpose of this subsection, be considered to be a nonresident alien individual. In the case of church employee income, the special rules of subsection (i)(2) of this section shall apply for purposes of paragraph (2).
 
 #### (c) Trade or business
 
@@ -122,7 +122,7 @@ The term “trade or business”, when used with reference to self-employment in
 
 &emsp;(3) The performance of service by an individual as an employee or employee representative as defined in section 3231 of the Internal Revenue Code of 1986;
 
-&emsp;(4) The performance of service by a duly ordained, commissioned, or licensed minister of a church in the exercise of his ministry or by a member of a religious order in the exercise of duties required by such order;
+&emsp;(4) The performance of service by a duly ordained, commissioned, or licensed minister ofa church in the exercise of his ministry or by a member of a religious order in the exercise of duties required by such order;
 
 &emsp;(5) The performance of service by an individual in the exercise of his profession as a Christian Science practitioner; or
 
@@ -218,7 +218,7 @@ The Internal Revenue Code of 1986, referred to in text, is classified to Title 2
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 
@@ -328,7 +328,7 @@ Subsec. (c)(6). Pub. L. 95–600, §703(j)(14)(E), substituted “section 1402(g
 
 <b>1976</b>—Subsec. (c)(2)(F). Pub. L. 94–455 added subpar. (F).
 
-<b>1974</b>—Subsec. (a)(1). Pub. L. 93–368 inserted “(as determined without regard to any activities of an agent of such owner or tenant)” after “material participation by the owner or tenant” wherever appearing.
+<b>1974</b>—Subsec. (a)(1). Pub. L. 93–368 inserted “(as determined without regard to any activities of an agent ofsuch owner or tenant)” after “material participation by the owner or tenant” wherever appearing.
 
 <b>1973</b>—Subsec. (b)(1)(H). Pub. L. 93–233 substituted “$13,200” for “$12,600”.
 
@@ -382,7 +382,7 @@ Subsec. (f). Pub. L. 85–840, §313(a), added subsec. (f).
 
 <b>1957</b>—Subsec. (a)(7). Pub. L. 85–239 permitted computation of net earnings without regard to sections 107 and 119 of the Internal Revenue Code of 1954.
 
-<b>1956</b>—Subsec. (a). Act Aug. 1, 1956, §106(a), amended last two sentences generally, to include those businesses in which the income is computed under an accrual method, and partnerships, to change the method of computation of net earnings for individuals by permitting those whose gross income is not more than $1,800 to deem their net earnings to be 662/3 percent of such gross income, and those whose gross income ismore than $1,800 and the net earnings are less than $1,200, to deem the net earnings to be $1,200, and to provide for the computation of net earnings for members of partnerships.
+<b>1956</b>—Subsec. (a). Act Aug. 1, 1956, §106(a), amended last two sentences generally, to include those businesses in which the income is computed under an accrual method, and partnerships, to change the method of computation of net earnings for individuals by permitting those whose gross income is not more than $1,800 to deem their net earnings to be 662/3 percent of such gross income, and those whose gross income is more than $1,800 and the net earnings are less than $1,200, to deem the net earnings to be $1,200, and to provide for the computation of net earnings for members of partnerships.
 
 Subsec. (a)(1). Act Aug. 1, 1956, §104(c)(2), struck out from exclusion, income derived by an owner or tenant to land if such income is derived under an arrangement with another individual for the production by such other individual of agricultural or horticultural commodities if such arrangement provides for material participation by the owner or tenant in the production or the management of the production of such commodities, and there is material participation by the owner or tenant with respect to any such commodity.
 
@@ -410,7 +410,7 @@ Subsec. (c). Act Sept. 1, 1954, §101(d)(2), inserted two sentences at end makin
 
 Subsec. (c)(2). Act Sept. 1, 1954, §101(d)(1), inserted “and other than service described in paragraph (4) of this subsection” after “eighteen”.
 
-Subsec. (c)(5). Act Sept. 1, 1954, §101(g)(4), struck out exclusion from coverage in case of architects, certified public accountants, accountants registered or licensed as accountants under State or municipal law, full-time practicing public accountants, funeral directors, or professional engineers.
+Subsec. (c)(5). Act Sept. 1, 1954, §101(g)(4), struck out exclusion from coverage in case of architects, certified public accountants, accountants registered or licensed as accountants under State or municipal law, full-timepracticing public accountants, funeral directors, or professional engineers.
 
 <b>1950</b>—Subsec. (a)(7). Act Sept. 23, 1950, made provisions applicable to Puerto Rico and provided the basis for computation of net earnings.
 
@@ -458,7 +458,7 @@ Amendment by section 8016(a)(2) of Pub. L. 100–647 effective Nov. 10, 1988, ex
 
 #### Effective Date of 1987 Amendment
 
-Amendment by section 9022(a) of Pub. L. 100–203 applicable with respect to services performed in taxable years beginning on or after Jan. 1, 1988, see section9022(c) of Pub. L. 100–203, set out as a note under section 1402 of Title 26, Internal Revenue Code.
+Amendment by section 9022(a) of Pub. L. 100–203 applicable with respect to services performed in taxable years beginning on or after Jan. 1, 1988, see section 9022(c) of Pub. L. 100–203, set out as a note under section 1402 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1986 Amendment
 
@@ -542,7 +542,7 @@ Amendment by Pub. L. 88–272 applicable with respect to amounts received or acc
 
 #### Effective Date of 1960 Amendment
 
-Amendment by section 103(g) of Pub. L. 86–778 applicable only in the case of taxable years beginning after1960, except that, insofar as involves the nonapplication of section 932 of Title 26, Internal Revenue Code, to the Virgin Islands for purposes of sections 1401 et seq. of Title 26 and this section, such amendment shall be effective in the case of all taxable years with respect to which such sections 1401 et seq. (and corresponding provisions of prior law) and this section are applicable, see section 103(v)(1) of Pub. L. 86–778, set out as a note under section 402 of this title.
+Amendment by section 103(g) of Pub. L. 86–778 applicable only in the case of taxable years beginning after 1960, except that, insofar as involves the nonapplication of section 932 of Title 26, Internal Revenue Code, to the Virgin Islands for purposes of sections 1401 et seq. of Title 26 and this section, such amendment shall be effective in the case of all taxable years with respect to which such sections 1401 et seq. (and corresponding provisions of prior law) and this section are applicable, see section 103(v)(1) of Pub. L. 86–778, set out as a note under section 402 of this title.
 
 Amendment by section 103(h) of Pub. L. 86–778 applicable only in the case of taxable years beginning after 1960, see section 103(v)(1), (3) of Pub. L. 86–778, set out as a note under section 402 of this title.
 

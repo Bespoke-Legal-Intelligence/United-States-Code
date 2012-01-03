@@ -62,7 +62,7 @@ Periodic Report and Information Requirements.—(1) The director of the facility
 
 &emsp;(A) section 4241 shall prepare semiannual reports; or
 
-&emsp;(B) section 4243, 4244, 4245, 4246, or 4248 shall prepare annual reports concerning the mental condition of the person and containing recommendations concerning the need for his continued commitment. The reports shall be submitted to the court that ordered the person's commitment to the facility and copies of the reports shall be submitted to such other persons as the court may direct. A copy of each such report concerning a person committed after the beginning of a prosecution of that person for violation of section 871, 879, or 1751 of this title shall be submitted to the Director of the United States Secret Service. Except with the prior approval of the court, the Secret Service shall not use or disclose the information in these copies for any purpose other than carrying out protective duties under section 3056(a) of this title.
+&emsp;(B) section 4243, 4244, 4245, 4246, or 4248 shall prepare annual reports concerning the mental condition of the person and containing recommendations concerning the need for his continued commitment. The reports shall be submitted to the court that ordered the person's commitment to the facility and copies of the reports shall be submitted to such other persons as the court may direct. A copy of eachsuch report concerning a person committed after the beginning of a prosecution of that person for violation of section 871, 879, or 1751 of this title shall be submitted to the Director of the United States Secret Service. Except with the prior approval of the court, the Secret Service shall not use or disclose the information in these copies for any purpose other than carrying out protective duties under section 3056(a) of this title.
 
 (2) The director of the facility in which a person is committed pursuant to section 4241, 4243, 4244, 4245, 4246, or 4248 shall inform such person of any rehabilitation programs that are available for persons committed in that facility.
 
@@ -134,7 +134,7 @@ Subsec. (e)(1)(B). Pub. L. 100–690, §7044, inserted at end “A copy of each 
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–33 effective Oct. 1, 1997, except as otherwise provided in title XI of Pub. L. 105–33, see section 11721 of Pub. L. 105–33, set out as a note under section 4246 of this title.
+Amendment by Pub. L. 105–33 effective Oct. 1, 1997, except as otherwise provided in title XI of Pub. L.105–33, see section 11721 of Pub. L. 105–33, set out as a note under section 4246 of this title.
 
 #### Transfer of Functions
 

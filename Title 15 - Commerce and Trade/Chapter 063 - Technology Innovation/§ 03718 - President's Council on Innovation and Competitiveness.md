@@ -104,7 +104,7 @@ The duties of the Council shall include—
 
 &emsp;&emsp;&emsp;(v) Academic organizations and other nongovernmental organizations working in the area of science or technology.
 
-&emsp;&emsp;&emsp;(vi) Nongovernmental organizations, such as professional organizations, that represent individuals identified in section1885a or 1885b of title 42 in the areas of science, engineering, technology, and mathematics.
+&emsp;&emsp;&emsp;(vi) Nongovernmental organizations, such as professional organizations, that represent individuals identified in section 1885a or 1885b of title 42 in the areas of science, engineering, technology, and mathematics.
 
 #### (B) Designation
 

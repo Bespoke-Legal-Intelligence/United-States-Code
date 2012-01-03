@@ -50,7 +50,7 @@ Screening and Conveyance of Property for Correctional Facilities Purposes.—(1)
 
 &emsp;(B) during any portion of a fiscal year after four conveyances have been made under paragraph (1) in such fiscal year.
 
-(Added Pub. L. 105–85, div. B, title XXVIII, §2814(a)(1), Nov. 18, 1997, 111 Stat. 1994; amended Pub. L. 106–65, div. A, title X, §1066(a)(26), Oct. 5, 1999, 113 Stat. 772; Pub. L. 107–217, §3(b)(16), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 108–136, div. A, title X, §§1031(a)(33), 1043(c)(4), Nov. 24, 2003, 117 Stat. 1600, 1612; Pub. L. 109–364, div. B, title XXVIII, §2825(a), (b)(5), (c)(3), (d)(2)(A), Oct. 17, 2006, 120 Stat. 2476, 2477; Pub. L. 111–350, §5(b)(47), Jan. 4, 2011, 124 Stat. 3846.)
+(Added Pub. L. 105–85, div. B, title XXVIII, §2814(a)(1), Nov. 18, 1997, 111 Stat. 1994; amended Pub. L. 106–65, div. A, title X, §1066(a)(26), Oct. 5, 1999, 113 Stat. 772; Pub. L. 107–217, §3(b)(16), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 108–136, div. A, title X, §§1031(a)(33), 1043(c)(4), Nov. 24, 2003, 117 Stat. 1600, 1612; Pub. L. 109–364, div. B, titleXXVIII, §2825(a), (b)(5), (c)(3), (d)(2)(A), Oct. 17, 2006, 120 Stat. 2476, 2477; Pub. L. 111–350, §5(b)(47), Jan. 4, 2011, 124 Stat. 3846.)
 
 #### References in Text
 

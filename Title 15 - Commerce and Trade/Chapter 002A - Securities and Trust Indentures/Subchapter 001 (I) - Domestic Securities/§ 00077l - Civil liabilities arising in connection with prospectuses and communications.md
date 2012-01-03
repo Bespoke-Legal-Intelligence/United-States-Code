@@ -26,7 +26,7 @@ In an action described in subsection (a)(2) of this section, if the person who o
 
 #### Effective Date of 1995 Amendment
 
-Section 108 of title I of Pub. L. 104–67 provided that: “The amendments made by this title \[enacting sections 77z–1, 77z–2, 78u–4, and 78u–5 of this title and amending this section and sections 77t, 78<i>o</i>, 78t, and 78u of this title and section 1964 of Title 18, Crimes and Criminal Procedure\] shall not affect or apply to any private action arising under title I of the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\] or title I of the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], commenced before and pending on the date of enactment of this Act \[Dec. 22, 1995\].”
+Pub. L. 104–67, title I, §108, Dec. 22, 1995, 109 Stat. 758, provided that: “The amendments made by this title \[enacting sections 77z–1, 77z–2, 78u–4, and 78u–5 of this title and amending this section and sections 77t, 78<i>o</i>, 78t, and 78u of this title and section 1964 of Title 18, Crimes and Criminal Procedure\] shall not affect or apply to any private action arising under title I of the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\] or title I of the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], commenced before and pending on the date of enactment of this Act \[Dec. 22, 1995\].”
 
 #### Effective Date of 1954 Amendment
 

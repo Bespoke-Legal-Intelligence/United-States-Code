@@ -82,7 +82,7 @@ For purposes of this section—
 
 #### (E) Ruling requests
 
-&emsp;&emsp;The Secretary may increase the average under subparagraph (B)(i) for any period ifthe utility owned by the governmental unit establishes to the satisfaction of the Secretary that, based on objective evidence of growth in natural gas consumption or population, such average would otherwise be insufficient for such period.
+&emsp;&emsp;The Secretary may increase the average under subparagraph (B)(i) for any period if the utility owned by the governmental unit establishes to the satisfaction of the Secretary that, based on objective evidence of growth in natural gas consumption or population, such average would otherwise be insufficient for such period.
 
 #### (F) Adjustment for natural gas otherwise on hand
 
@@ -160,7 +160,7 @@ For purposes of this section—
 
 #### (2) Limitation on amount in reserve or replacement fund which may be financed by issue
 
-&emsp;A bond issued as part of an issue shall be treated as an arbitrage bond if the amount of the proceeds from the sale of such issue which is part of any reserve or replacement fund exceeds 10 percent of the proceeds of the issue\(or such higher amount which the issuer establishes is necessary to the satisfaction of the Secretary).
+&emsp;A bond issued as part of an issue shall be treated as an arbitrage bond if the amount of the proceeds from the sale of such issue which is part of any reserve or replacement fund exceeds 10 percent of the proceeds of the issue (or such higher amount which the issuer establishes is necessary to the satisfaction of the Secretary).
 
 #### (e) Minor portion may be invested in higher yielding investments
 
@@ -192,7 +192,7 @@ Notwithstanding subsections (a), (c), and (d), a bond issued as part of an issue
 
 #### (3) Due date of payments under paragraph (2)
 
-&emsp;Except to the extent provided by the Secretary, the amount which is required to be paid to the United States by the issuer shall be paid in installments which are made at least once every 5 years. Each installment shall be in an amount which ensures that 90 percent of the amount described in paragraph (2) with respect to the issue at the time payment of such installment is required will have been paid to the United States. The last installment shall be made no later than 60 days after the day on which the last bond of the issue is redeemed and shall be in an amount sufficient to pay the remaining balance of the amount described in paragraph (2) with respect to such issue. A series of issues which are redeemed during a 6-month period (or such longer period as the Secretary may prescribe) shall be treated (at the election of the issuer) as 1 issue for purposes of the preceding sentence if no bond which is part of any issue in such series has a maturity of more than 270 days or is a private activity bond. In the case of a tax and revenue anticipation bond, the last installment shall not be required to be made before the date 8 months after the date of issuance of the issue of which the bond is a part.
+&emsp;Except to the extent provided by the Secretary, the amount which is required to be paid to the United States by the issuer shall be paid in installments which are made at least once every 5 years. Each installment shall be in an amount which ensures that 90 percent of the amount described in paragraph\(2) with respect to the issue at the time payment of such installment is required will have been paid to the United States. The last installment shall be made no later than 60 days after the day on which the last bond of the issue is redeemed and shall be in an amount sufficient to pay the remaining balance of the amount described in paragraph (2) with respect to such issue. A series of issues which are redeemed during a 6-month period (or such longer period as the Secretary may prescribe) shall be treated (at the election of the issuer) as 1 issue for purposes of the preceding sentence if no bond which is part of any issue in such series has a maturity of more than 270 days or is a private activity bond. In the case of a tax and revenue anticipation bond, the last installment shall not be required to be made before the date 8 months after the date of issuance of the issue of which the bond is a part.
 
 #### (4) Special rules for applying paragraph (2)
 
@@ -304,7 +304,7 @@ Notwithstanding subsections (a), (c), and (d), a bond issued as part of an issue
 
 #### (II) Earnings on reserve included only for certain periods
 
-&emsp;&emsp;&emsp;&emsp;The term “available construction proceeds” shall not include amounts earnedon any reasonably required reserve or replacement fund after the earlier of the close of the 2-year period described in clause (ii) or the date the construction is substantially completed.
+&emsp;&emsp;&emsp;&emsp;The term “available construction proceeds” shall not include amounts earned on any reasonably required reserve or replacement fund after the earlier of the close of the 2-year period described in clause (ii) or the date the construction is substantially completed.
 
 #### (III) Payments on acquired purpose obligations excluded
 
@@ -318,15 +318,15 @@ Notwithstanding subsections (a), (c), and (d), a bond issued as part of an issue
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;At the election of the issuer, paragraph (2) shall not apply to available construction proceeds which do not meet the spending requirements of clause (ii) if the issuer pays a penalty, with respect to each 6-month period after the date the bonds were issued, equal to 11/2 percent of the amount of the available construction proceeds of the issue which, as of the close of such 6-month period, is not spent as required by clause (ii).
+&emsp;&emsp;&emsp;&emsp;At the election of the issuer, paragraph (2) shall not apply to available construction proceeds which do not meet the spending requirements of clause (ii) if the issuer pays a penalty, with respect to each 6-month period after the date the bonds were issued, equal to 1½ percent of the amount of the available construction proceeds of the issue which, as of the close of such 6-month period, is not spent as required by clause (ii).
 
 #### (II) Termination
 
 &emsp;&emsp;&emsp;&emsp;The penalty imposed by this clause shall cease to apply only as provided in clause (viii) or after the latest maturity date of any bond in the issue (including any refunding bond with respect thereto).
 
-#### (viii) Election to terminate 11/2 percent penalty
+#### (viii) Election to terminate 1½ percent penalty
 
-&emsp;&emsp;&emsp;At the election of the issuer (made not later than 90 days after the earlier of the end of the initial temporary period or the date the construction is substantially completed), the penalty under clause (vii) shall not apply to any 6-month period after the initial temporary period under subsection (c) if the requirements of subclauses (I), (II), and (III) are met.
+&emsp;&emsp;&emsp;At the election of the issuer (made not later than 90 days after the earlier of the end of the initial temporary period or the date the construction is substantially completed), the penalty under clause (vii) shall not apply to any 6-month period afterthe initial temporary period under subsection (c) if the requirements of subclauses (I), (II), and (III) are met.
 
 #### (I) 3 percent penalty
 
@@ -340,7 +340,7 @@ Notwithstanding subsections (a), (c), and (d), a bond issued as part of an issue
 
 &emsp;&emsp;&emsp;&emsp;The requirement of this subclause is met if the amount of the available construction proceeds of the issue which is not spent for the governmental purposes of the issue as of the earliest date on which bonds may be redeemed is used to redeem bonds on such date.
 
-#### (ix) Election to terminate 11/2 percent penalty before end of temporary period
+#### (ix) Election to terminate 1½ percent penalty before end of temporary period
 
 &emsp;&emsp;&emsp;If—
 
@@ -394,7 +394,7 @@ Notwithstanding subsections (a), (c), and (d), a bond issued as part of an issue
 
 #### (xiv) Determination of initial temporary period
 
-&emsp;&emsp;&emsp;For purposes of this subpargraph,<sup>1</sup> the end of the initial temporary period shall be determined without regard to section 149(d)(3)(A)(iv).
+&emsp;&emsp;&emsp;For purposes of this subpargraph,<sup>1</sup> the end of the initial temporary period shallbe determined without regard to section 149(d)(3)(A)(iv).
 
 #### (xv) Elections
 
@@ -462,7 +462,7 @@ Notwithstanding subsections (a), (c), and (d), a bond issued as part of an issue
 
 #### (vi) Refundings of bonds issued under law prior to Tax Reform Act of 1986
 
-&emsp;&emsp;&emsp;If section 141(a) did not apply to any refunded bond, the issue of which such refunded bond was a part shall be treated as meeting the requirements of subclause (II) of clause (v) if—
+&emsp;&emsp;&emsp;If section 141(a) did not apply to any refunded bond, the issue of which such refunded bond was a part shall be treated asmeeting the requirements of subclause (II) of clause (v) if—
 
 &emsp;&emsp;&emsp;&emsp;(I) such issue was issued by a governmental unit with general taxing powers,
 
@@ -512,7 +512,7 @@ Notwithstanding subsections (a), (c), and (d), a bond issued as part of an issue
 
 &emsp;&emsp;&emsp;(i) 50 percent of the amount which was not paid in accordance with paragraphs (2) and (3), plus
 
-&emsp;&emsp;&emsp;(ii) interest (at the underpayment rate established under section 6621) on the portion of the amount which was not paid onthe date required under paragraph (3) for the period beginning on such date.
+&emsp;&emsp;&emsp;(ii) interest (at the underpayment rate established under section 6621) on the portion of the amount which was not paid on the date required under paragraph (3) for the period beginning on such date.
 
 > &emsp;The Secretary may waive all or any portion of the penalty under this paragraph.
 
@@ -662,7 +662,7 @@ Section 1013(a)(43)(C) of Pub. L. 100–647 provided that: “The amendments mad
 
 Amendment by section 1013(a)(14), (15), (18), (19) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Amendment by section 4005(d)(2) of Pub. L. 100–647 applicable to bonds issued, and nonissued bond amountselected, after Dec. 31, 1988, see section 4005(h)(1) of Pub. L. 100–647, set out as a note under section 143 of this title.
+Amendment by section 4005(d)(2) of Pub. L. 100–647 applicable to bonds issued, and nonissued bond amounts elected, after Dec. 31, 1988, see section 4005(h)(1) of Pub. L. 100–647, set out as a note under section 143 of this title.
 
 Amendment by section 5053(b) of Pub. L. 100–647 applicable, with certain exceptions, to obligations issued after Oct. 21, 1988, see section 5053(c) of Pub. L. 100–647, set out as a note under section 145 of this title.
 

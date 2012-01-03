@@ -28,7 +28,7 @@ In any emergency, the President may—
 
 &emsp;(7) assist State and local governments in the distribution of medicine, food, and other consumable supplies, and emergency assistance; and
 
-&emsp;(8) provide accelerated Federal assistance and Federal support where necessary to savelives, prevent human suffering, or mitigate severe damage, which may be provided in the absence of a specific request and in which case the President—
+&emsp;(8) provide accelerated Federal assistance and Federal support where necessary to save lives, prevent human suffering, or mitigate severe damage, which may be provided in the absence of a specific request and in which case the President—
 
 &emsp;&emsp;(A) shall, to the fullest extent practicable, promptly notify and coordinate with a State in which such assistance or support is provided; and
 

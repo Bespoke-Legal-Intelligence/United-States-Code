@@ -36,7 +36,7 @@ There shall be allowed as a credit against the tax imposed by this chapter for t
 
 &emsp;&emsp;&emsp;(i) the sum of the regular tax liability (as defined in section 26(b)) plus the tax imposed by section 55, over
 
-&emsp;&emsp;&emsp;(ii) the sum of the credits allowable under subpart A (other than this section and section 25D) and section 27 for the taxable year.
+&emsp;&emsp;&emsp;(ii) the sum of the credits allowable under subpart A (other than this section and sections 23 and 25D) and section 27 for the taxable year.
 
 #### (d) New qualified plug-in electric drive motor vehicle
 
@@ -128,7 +128,7 @@ For purposes of this section—
 
 &emsp;A motor vehicle shall not be considered eligible for a credit under this section unless such vehicle is in compliance with—
 
-&emsp;&emsp;(A) the applicable provisions of the Clean Air Act for the applicable make and model year of the vehicle (or applicable air quality provisions of State law in the case of a State which has adopted such provision under a waiver under section 209(b) of the Clean Air Act), and
+&emsp;&emsp;(A) the applicable provisions of the Clean Air Act for the applicable make and modelyear of the vehicle (or applicable air quality provisions of State law in the case of a State which has adopted such provision under a waiver under section 209(b) of the Clean Air Act), and
 
 &emsp;&emsp;(B) the motor vehicle safety provisions of sections 30101 through 30169 of title 49, United States Code.
 

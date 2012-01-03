@@ -12,7 +12,7 @@
 
 #### (3) Reasonable accommodation and good faith effort
 
-&emsp;In cases where a discriminatory practice involves the provision of a reasonable accommodation pursuant to section 102(b)(5) of the Americans with Disabilities Act of 1990 \[42 U.S.C. 12112(b)(5)\] or regulations implementing section 791 of title 29, damages may not be awarded under this section where the covered entity demonstrates good faith efforts, in consultation with the person with the disability who has informed the covered entity that accommodation is needed, to identify and make a reasonable accommodation that would provide such individual with an equally effective opportunity and would not cause an undue hardship on the operation of the business.
+&emsp;In cases where a discriminatory practice involves the provision of a reasonable accommodation pursuant to section 102(b)(5) of the Americans with Disabilities Act of 1990 \[42 U.S.C. 12112(b)(5)\] or regulations implementing section 791 of title 29, damages may not be awarded under this section where the covered entity demonstrates good faith efforts, in consultation with the person with the disability who has informed the covered entity that accommodation is needed, to identify and makea reasonable accommodation that would provide such individual with an equally effective opportunity and would not cause an undue hardship on the operation of the business.
 
 #### (b) Compensatory and punitive damages
 

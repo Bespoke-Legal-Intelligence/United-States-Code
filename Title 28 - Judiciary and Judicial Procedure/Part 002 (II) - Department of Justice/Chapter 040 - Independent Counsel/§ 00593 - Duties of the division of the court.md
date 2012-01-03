@@ -18,7 +18,7 @@ Qualifications of independent counsel.—The division of the court shall appoint
 
 &emsp;(3)
 
-Scope of prosecutorial jurisdiction.—In defining the independent counsel's prosecutorial jurisdiction, the division of the court shall assure that the independent counsel has adequate authority to fully investigate and prosecute the subject matter with respect to which the Attorney General has requested the appointment of the independent counsel, and all matters related to that subject matter. Such jurisdiction shall also include the authority to investigate and prosecute Federal crimes, other than those classified as Class B or C misdemeanors or infractions, that may arise out of the investigation or prosecution of the matter with respect to which the Attorney General's request was made, including perjury, obstruction of justice, destruction of evidence, and intimidation of witnesses.
+Scope of prosecutorial jurisdiction.—In defining the independent counsel's prosecutorial jurisdiction, the division of the courtshall assure that the independent counsel has adequate authority to fully investigate and prosecute the subject matter with respect to which the Attorney General has requested the appointment of the independent counsel, and all matters related to that subject matter. Such jurisdiction shall also include the authority to investigate and prosecute Federal crimes, other than those classified as Class B or C misdemeanors or infractions, that may arise out of the investigation or prosecution of the matter with respect to which the Attorney General's request was made, including perjury, obstruction of justice, destruction of evidence, and intimidation of witnesses.
 
 &emsp;(4)
 
@@ -36,7 +36,7 @@ In general.—The division of the court, upon the request of the Attorney Genera
 
 Procedure for request by independent counsel.—(A) If the independent counsel discovers or receives information about possible violations of criminal law by persons as provided in section 591, which are not covered by the prosecutorial jurisdiction of the independent counsel, the independent counsel may submit such information to the Attorney General. The Attorney General shall then conduct a preliminary investigation of the information in accordance with the provisions of section 592, except that such preliminary investigation shall not exceed 30 days from the date such information is received. In making the determinations required by section 592, the Attorney General shall give great weight to any recommendations of the independent counsel.
 
-&emsp;(B) If the Attorney General determines, after according great weight to the recommendations of the independent counsel, that there are no reasonable grounds to believe that further investigation is warranted, the Attorney General shall promptly so notify thedivision of the court and the division of the court shall have no power to expand the jurisdiction of the independent counsel or to appoint another independent counsel with respect to the matters involved.
+&emsp;(B) If the Attorney General determines, after according great weight to the recommendations of the independent counsel, that there are no reasonable grounds to believe that further investigation is warranted, the Attorney General shall promptly so notify the division of the court and the division of the court shall have no power to expand the jurisdiction of the independent counsel or to appoint another independent counsel with respect to the matters involved.
 
 &emsp;(C) If—
 
@@ -80,7 +80,7 @@ Disclosure of Information.—The division of the court may, subject to section 5
 
 (h)
 
-Amicus Curiae Briefs.—When presented with significant legal issues, the division of the court may disclose sufficient information about the issues to permit the filing of timely amicus curiae briefs.
+Amicus Curiae Briefs.—When presented with significant legal issues, the division of the court may disclose sufficient information aboutthe issues to permit the filing of timely amicus curiae briefs.
 
 (Added Pub. L. 95–521, title VI, §601(a), Oct. 26, 1978, 92 Stat. 1869; amended Pub. L. 97–409, §§2(a)(1), 5, Jan. 3, 1983, 96 Stat. 2039, 2041; Pub. L. 100–191, §2, Dec. 15, 1987, 101 Stat. 1297; Pub. L. 103–270, §3(n), June 30, 1994, 108 Stat. 736.)
 

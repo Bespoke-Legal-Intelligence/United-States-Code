@@ -18,27 +18,13 @@ Exchange Authority.—The Secretary of Defense may acquire a defined fuel source
 
 (d)
 
-Authority To Sell.—The Secretary of Defense may sell a defined fuel source of the Department of Defense if the Secretary determines that the sale would be in the public interest. The proceeds of such a sale shall be credited to appropriations of the Department of Defense for the acquisition of a defined fuel source or services related to a defined fuel source. Amounts socredited shall be available for obligation for the same period as the appropriations to which the amounts are credited.
+Authority To Sell.—The Secretary of Defense may sell a defined fuel source of the Department of Defense if the Secretary determines that the sale would be in the public interest. The proceeds of such a sale shall be credited to appropriations of the Department of Defense for the acquisition of a defined fuel source or services related to a defined fuel source. Amounts so credited shall be available for obligation for the same period as the appropriations to which the amounts are credited.
 
-(e)
-
-Petroleum Defined.—In this section, the term “petroleum” means natural or synthetic crude, blends of natural or synthetic crude, and products refined or derived from natural or synthetic crude or from such blends.
-
-(f)
-
-Defined Fuel Sources.—In this section, the term “defined fuel source” means any of the following:
-
-&emsp;(1) Petroleum.
-
-&emsp;(2) Natural gas.
-
-&emsp;(3) Coal.
-
-&emsp;(4) Coke.
-
-(Added Pub. L. 98–525, title XII, §1234(a), Oct. 19, 1984, 98 Stat. 2604, §2404; amended Pub. L. 100–26, §7(k)(3), Apr. 21, 1987, 101 Stat. 284; Pub. L. 101–510, div. A, title XIII, §1322(a)(8), Nov. 5, 1990, 104 Stat. 1671; Pub. L. 103–160, div. A, title VIII, §826, Nov. 30, 1993, 107 Stat. 1711; Pub. L. 106–65, div. A, title VIII, §803(a), (b)(1), Oct. 5, 1999, 113 Stat. 703; renumbered §2922e, Pub. L. 109–364, div. B, title XXVIII, §2851(b)(2), Oct. 17, 2006, 120 Stat. 2494.)
+(Added Pub. L. 98–525, title XII, §1234(a), Oct. 19, 1984, 98 Stat. 2604, §2404; amended Pub. L. 100–26, §7(k)(3), Apr. 21, 1987, 101 Stat. 284; Pub. L. 101–510, div. A, title XIII, §1322(a)(8), Nov. 5, 1990, 104 Stat. 1671; Pub. L. 103–160, div. A, title VIII, §826, Nov. 30, 1993, 107 Stat. 1711; Pub. L. 106–65, div. A, title VIII, §803(a), (b)(1), Oct. 5, 1999, 113 Stat. 703; renumbered §2922e, Pub. L. 109–364, div. B, title XXVIII, §2851(b)(2), Oct. 17, 2006, 120 Stat. 2494; Pub. L. 112–81, div. B, title XXVIII, §2821(b)(2), Dec. 31, 2011, 125 Stat. 1691.)
 
 #### Amendments
+
+<b>2011</b>—Subsecs. (e), (f). Pub. L. 112–81 struck out subsecs. (e) and (f), which, respectively, defined “petroleum” and “defined fuel source”.
 
 <b>2006</b>—Pub. L. 109–364 renumbered section 2404 of this title as this section.
 

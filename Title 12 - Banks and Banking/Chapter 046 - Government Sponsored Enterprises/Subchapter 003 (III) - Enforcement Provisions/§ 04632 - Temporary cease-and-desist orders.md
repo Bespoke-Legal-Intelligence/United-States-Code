@@ -52,7 +52,7 @@ In the case of violation or threatened violation of, or failure to obey, a tempo
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–289, §1152(1), added subsec. (a) and struck out former subsec. (a) which related to grounds for issuance and scope of temporary cease-and-desist orders.
+<b>2008</b>—Subsec. (a). Pub. L. 110–289, §1152(1), added subsec. (a) and struck out former subsec. (a) which related to grounds for issuance and scope of temporary cease-and-desist orders.
 
 Subsec. (b). Pub. L. 110–289, §1152(2), substituted “director, or entity-affiliated party” for “or director” and “regulated entity” for “enterprise”.
 

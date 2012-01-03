@@ -48,9 +48,9 @@ Section 1985(e)(1)(D)(ii) of this title, referred to in par. (5), was redesignat
 
 #### Amendments
 
-2005—Par. (2). Pub. L. 109–97, in introductory provisions, inserted “horses, deer,” after “bison,” and struck out “equine animals used for food or in the production of food,” before “fish”.
+<b>2005</b>—Par. (2). Pub. L. 109–97, in introductory provisions, inserted “horses, deer,” after “bison,” and struck out “equine animals used for food or in the production of food,” before “fish”.
 
-2004—Par. (2). Pub. L. 108–447 inserted “elk, reindeer, bison,” after “means cattle,” in introductory provisions.
+<b>2004</b>—Par. (2). Pub. L. 108–447 inserted “elk, reindeer, bison,” after “means cattle,” in introductory provisions.
 
 #### Effective Date of 2005 Amendment
 
@@ -66,7 +66,7 @@ Prior losses.—This section and the amendments made by this section do not appl
 
 #### Effective Date
 
-Section effective 15 days after Aug. 11, 1988, see section 101(c)(1) of Pub. L. 100–387, set out as an Effective and Termination Dates of 1988 Amendment note under section 1427 of this title.
+Section effective 15 days after Aug. 11, 1988, see section 101(c)(1) of Pub. L. 100–387, set out as an Effectiveand Termination Dates of 1988 Amendment note under section 1427 of this title.
 
 #### Short Title
 
@@ -78,7 +78,7 @@ Pub. L. 109–97, title VII, §784(a), Nov. 10, 2005, 119 Stat. 2162, provided t
 
 #### Inapplicability of Section
 
-Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts, and sugar and inapplicableto milk during period beginning May 13, 2002, through Dec. 31, 2007, see section 7992(b)(12) of this title.
+Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning May 13, 2002, through Dec. 31, 2007, see section 7992(b)(12) of this title.
 
 Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(L) of this title.
 

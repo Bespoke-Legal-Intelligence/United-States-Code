@@ -54,7 +54,7 @@ Pub. L. 109–162, §1177(a)(4), (b)(1), inserted “or in any prison, instituti
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–314 struck out “crosses a State line with intent to engage in a sexual act with a person who has not attained the age of 12 years, or” after “Whoever” in introductory provisions.
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–208 inserted “crosses a State line with intent to engage in a sexual act with a person who has not attained the age of 12 years, or” after “Whoever” in introductory provisions.
+<b>1996</b>—Subsec. (a). Pub. L. 104–208 inserted “crosses a State line with intent to engage in a sexual act with aperson who has not attained the age of 12 years, or” after “Whoever” in introductory provisions.
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–647 substituted “15 years” for “five years” in concluding provisions.
 

@@ -44,7 +44,7 @@ Notwithstanding any other provision of law, the authorization of any appropriati
 
 (C) The identities of individuals, organizations, and institutions supplying information described in subparagraph (A) may not be disclosed to the public.
 
-(2) In support of functions authorized by section 1862(a)(5) or (6) of this title, the Foundation may designate, at its discretion, authorized persons, including employees of Federal, State, or local agencies or instrumentalities (including local educational agencies) and employees of private organizations, to have access, for statistical or research purposes only, to informationcollected pursuant to section 1862(a)(5) or (6) of this title that allows for the identification of the supplier. No such person may—
+(2) In support of functions authorized by section 1862(a)(5) or (6) of this title, the Foundation may designate, at its discretion, authorized persons, including employees of Federal, State, or local agencies or instrumentalities (including local educational agencies) and employees of private organizations, to have access, for statistical or research purposes only, to information collected pursuant to section 1862(a)(5) or (6) of this title that allows for the identification of the supplier. No such person may—
 
 &emsp;(A) publish information collected pursuant to section 1862(a)(5) or (6) of this title in such a manner that either an individual, an industrial or commercial organization, or an educational, academic, or other nonprofit institution that has received a pledge of confidentiality from the Foundation can be specifically identified;
 
@@ -118,7 +118,7 @@ Authority of Director of National Science Foundation, from time to time, to make
 
 #### References to Maximum Rate Under 5 U.S.C. 5376
 
-Except as otherwise provided, reference to maximum rate under section 5376 of Title 5, Government Organization and Employees, before first day of first pay period beginning on or after 180th day after Oct. 8, 2008, considered reference to basic pay rate for level IV of Executive Schedule (5 U.S.C. 5315) and reference to maximum rate on or after first day of first pay period beginning on or after 180th day after Oct. 8, 2008, considered reference to basic pay rate for level III of Executive Schedule (5 U.S.C. 5314), or for level II of the Executive Schedule (5 U.S.C. 5313) for certain employees, see section 2(d)(3) of Pub. L. 110–372, set out as an Effective Date of 2008 Amendment note under section 5376 of Title 5.
+For reference to maximum rate under section 5376 of Title 5, Government Organization and Employees, see section 2(d)(3) of Pub. L. 110–372, set out as an Effective Date of 2008 Amendment note under section 5376 of Title 5.
 
 #### Employment of Minorities, Women, and Handicapped Individuals in Executive Level Positions
 
@@ -146,7 +146,7 @@ Pub. L. 94–471, §7, Oct. 11, 1976, 90 Stat. 2056, provided that:
 
 &emsp;“(G) will develop joint educational programs with nearby undergraduate institutions of higher education which have a substantial minority student enrollment.
 
-“(3) The Director, in consultation with groups which have been active in seeking greater recognition of the scientific and technical capabilities of minorities, shall establish criteria for the award of the grants, and shall report to the Committee on Science and Technology of the House of Representatives and the Committee on Labor and Public Welfare \[now Committee on Health, Education, Labor, and Pensions\] of the Senate on the results of activities including an evaluation and assessment of the entire program carried out under this subsection, not later than March 1, 1977.”
+“(3) The Director, in consultation with groups which have been active in seeking greater recognition of the scientific and technical capabilities of minorities, shall establish criteria for the award of the grants, and shall report to the Committee on Science and Technology of the House of Representatives \[now Committee on Science, Space, and Technology\] and the Committee on Labor and Public Welfare \[now Committee on Health, Education, Labor, and Pensions\] of the Senate on the results of activities including an evaluation and assessment of the entire program carried out under this subsection, not later than March 1, 1977.”
 
 #### Continuation of Existing Offices, Procedures, and Organization of the National Science Foundation
 

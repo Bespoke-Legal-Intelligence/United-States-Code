@@ -20,28 +20,39 @@
 | [96\.](%C2%A7%2000096%20-%20Prohibition%20on%20overhaul%2C%20repair%2C%20and%20maintenance%20of%20Coast%20Guard%20vessels%20in%20foreign%20shipyards.md) | Prohibition on overhaul, repair, and maintenance of Coast Guard vessels in foreign shipyards. |
 | [97\.](%C2%A7%2000097%20-%20Procurement%20of%20buoy%20chain.md) | Procurement of buoy chain. |
 | [98\.](%C2%A7%2000098%20-%20National%20Coast%20Guard%20Museum.md) | National Coast Guard Museum. |
+| [99\.](%C2%A7%2000099%20-%20Enforcement%20authority.md) | Enforcement authority. |
+| [100\.](%C2%A7%2000100%20-%20Enforcement%20of%20coastwise%20trade%20laws.md) | Enforcement of coastwise trade laws. |
+| [101\.](%C2%A7%2000101%20-%20Appeals%20and%20waivers.md) | Appeals and waivers. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-2004—Pub. L. 108–293, title II, §213(b), Aug. 9, 2004, 118 Stat. 1037, added item 98.
+<b>2010</b>—Pub. L. 111–330, §1(6)(B), Dec. 22, 2010, 124 Stat. 3569, which directed amendment of “section 524(a)” of Pub. L. 111–281 by substituting “101. Appeals and waivers.” for “102. Appeals and waivers.” in subsec. (b), was executed by making the substitution in section 524(b) of Pub. L. 111–281 to reflect the probable intent of Congress. See below.
 
-1998—Pub. L. 105–383, title II, §205(b), Nov. 13, 1998, 112 Stat. 3416, added item 95 and struck out former item 95 “Civilian agents authorized to carry firearms”.
+Pub. L. 111–281, title V, §524(b), Oct. 15, 2010, 124 Stat. 2959, as amended by Pub. L. 111–330, §1(6)(B), Dec. 22, 2010, 124 Stat. 3569, added item 102.
 
-1996—Pub. L. 104–324, title III, §311(b), title XI, §1128(b), Oct. 19, 1996, 110 Stat. 3920, 3984, added items 96 and 97.
+Pub. L. 111–281, title II, §216(b), Oct. 15, 2010, 124 Stat. 2917, added item 100.
 
-1988—Pub. L. 100–448, §10(b), Sept. 28, 1988, 102 Stat. 1842, added item 95.
+Pub. L. 111–281, title II, §208(c), Oct. 15, 2010, 124 Stat. 2912, as amended by Pub. L. 111–330, §1(1), Dec. 22, 2010, 124 Stat. 3569, added item 99.
 
-1976—Pub. L. 94–546, §1(5), (7), Oct. 18, 1976, 90 Stat. 2519, substituted “Federal Aviation Administration” for “Federal Aviation Agency” in item 82, and struck out item 87.
+<b>2004</b>—Pub. L. 108–293, title II, §213(b), Aug. 9, 2004, 118 Stat. 1037, added item 98.
 
-1974—Pub. L. 93–283, §1(4), May 14, 1974, 88 Stat. 140, struck out “on fixed structures” after “maritime navigation” in item 85.
+<b>1998</b>—Pub. L. 105–383, title II, §205(b), Nov. 13, 1998, 112 Stat. 3416, added item 95 and struck out former item 95 “Civilian agents authorized to carry firearms”.
 
-1961—Pub. L. 87–396, §2, Oct. 5, 1961, 75 Stat. 827, added item 94.
+<b>1996</b>—Pub. L. 104–324, title III, §311(b), title XI, §1128(b), Oct. 19, 1996, 110 Stat. 3920, 3984, added items 96 and 97.
 
-1958—Pub. L. 85–726, title XIV, §1404, Aug. 23, 1958, 72 Stat. 808, substituted “Administrator of the Federal Aviation Agency” for “Administrator of Civil Aeronautics” in item 82.
+<b>1988</b>—Pub. L. 100–448, §10(b), Sept. 28, 1988, 102 Stat. 1842, added item 95.
 
-1956—Act June 4, 1956, ch. 351, §3, 70 Stat. 227, substituted “Aids to maritime navigation on fixed structures” for “Failure to maintain lights” in item 85.
+<b>1976</b>—Pub. L. 94–546, §1(5), (7), Oct. 18, 1976, 90 Stat. 2519, substituted “Federal Aviation Administration” for “Federal Aviation Agency” in item 82, and struck out item 87.
+
+<b>1974</b>—Pub. L. 93–283, §1(4), May 14, 1974, 88 Stat. 140, struck out “on fixed structures” after “maritime navigation” in item 85.
+
+<b>1961</b>—Pub. L. 87–396, §2, Oct. 5, 1961, 75 Stat. 827, added item 94.
+
+<b>1958</b>—Pub. L. 85–726, title XIV, §1404, Aug. 23, 1958, 72 Stat. 808, substituted “Administrator of the Federal Aviation Agency” for “Administrator of Civil Aeronautics” in item 82.
+
+<b>1956</b>—Act June 4, 1956, ch. 351, §3, 70 Stat. 227, substituted “Aids to maritime navigation on fixed structures” for “Failure to maintain lights” in item 85.
 
 
 ---
@@ -66,3 +77,6 @@
 - [&sect; 00096 - Prohibition on overhaul, repair, and maintenance of Coast Guard vessels in foreign shipyards](%C2%A7%2000096%20-%20Prohibition%20on%20overhaul%2C%20repair%2C%20and%20maintenance%20of%20Coast%20Guard%20vessels%20in%20foreign%20shipyards.md)
 - [&sect; 00097 - Procurement of buoy chain](%C2%A7%2000097%20-%20Procurement%20of%20buoy%20chain.md)
 - [&sect; 00098 - National Coast Guard Museum](%C2%A7%2000098%20-%20National%20Coast%20Guard%20Museum.md)
+- [&sect; 00099 - Enforcement authority](%C2%A7%2000099%20-%20Enforcement%20authority.md)
+- [&sect; 00100 - Enforcement of coastwise trade laws](%C2%A7%2000100%20-%20Enforcement%20of%20coastwise%20trade%20laws.md)
+- [&sect; 00101 - Appeals and waivers](%C2%A7%2000101%20-%20Appeals%20and%20waivers.md)

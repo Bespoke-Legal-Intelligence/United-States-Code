@@ -12,7 +12,7 @@ The purposes of the corporation are—
 
 &emsp;&emsp;(B) the organization of the Olympic Games, the Paralympic Games, and the Pan-American Games when held in the United States;
 
-&emsp;(4) to obtain for the United States, directly or by delegation to the appropriate nationalgoverning body, the most competent amateur representation possible in each event of the Olympic Games, the Paralympic Games, and Pan-American Games;
+&emsp;(4) to obtain for the United States, directly or by delegation to the appropriate national governing body, the most competent amateur representation possible in each event of the Olympic Games, the Paralympic Games, and Pan-American Games;
 
 &emsp;(5) to promote and support amateur athletic activities involving the United States and foreign nations;
 

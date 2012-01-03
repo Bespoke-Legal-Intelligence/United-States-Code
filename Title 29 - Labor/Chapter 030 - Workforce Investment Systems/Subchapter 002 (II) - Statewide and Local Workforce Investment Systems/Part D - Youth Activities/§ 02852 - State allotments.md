@@ -16,7 +16,7 @@ The Secretary shall—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For each fiscal year in which the amount appropriated under section 2872(a) of this title exceeds $1,000,000,000, the Secretary shall reserve a portion of the amount to provide youth opportunity grants and other activities under section 2914 of this title (relating to youth opportunity grants) and provide youth activities under section 2912 of this title (relating to migrant and seasonal farmworker programs).
+&emsp;&emsp;&emsp;For each fiscal year in which the amount appropriated under section 2872(a) of thistitle exceeds $1,000,000,000, the Secretary shall reserve a portion of the amount to provide youth opportunity grants and other activities under section 2914 of this title (relating to youth opportunity grants) and provide youth activities under section 2912 of this title (relating to migrant and seasonal farmworker programs).
 
 #### (ii) Portion
 
@@ -90,7 +90,7 @@ The Secretary shall—
 
 &emsp;&emsp;&emsp;Subject to clauses (iii) and (iv), of the remainder—
 
-&emsp;&emsp;&emsp;&emsp;(I) 331/3 percent shall be allotted on the basis of the relative number of unemployed individuals in areas of substantial unemployment in each State, compared to the total number of unemployed individuals in areas of substantial unemployment in all States;
+&emsp;&emsp;&emsp;&emsp;(I) 331/3 percent shall be allotted on the basis of the relative number of unemployed individuals in areas of substantial unemployment in each State, comparedto the total number of unemployed individuals in areas of substantial unemployment in all States;
 
 &emsp;&emsp;&emsp;&emsp;(II) 331/3 percent shall be allotted on the basis of the relative excess number of unemployed individuals in each State, compared to the total excess number of unemployed individuals in all States; and
 
@@ -146,7 +146,7 @@ The Secretary shall—
 
 #### (C) Disadvantaged youth
 
-&emsp;&emsp;Subject to paragraph (3), the term “disadvantaged youth” means an individual whois age 16 through 21 who received an income, or is a member of a family that received a total family income, that, in relation to family size, does not exceed the higher of—
+&emsp;&emsp;Subject to paragraph (3), the term “disadvantaged youth” means an individual who is age 16 through 21 who received an income, or is a member of a family that received a total family income, that, in relation to family size, does not exceed the higher of—
 
 &emsp;&emsp;&emsp;(i) the poverty line; or
 
@@ -162,7 +162,7 @@ The Secretary shall—
 
 #### (E) Low-income level
 
-&emsp;&emsp;The term “low-income level” means $7,000 with respect to income in 1969, and for any later year means that amount that bears the same relationship to $7,000 as the Consumer Price Index for that year bears to the Consumer Price Index for 1969, rounded to the nearest $1,000.
+&emsp;&emsp;The term “low-income level” means $7,000 with respect to income in 1969, and for anylater year means that amount that bears the same relationship to $7,000 as the Consumer Price Index for that year bears to the Consumer Price Index for 1969, rounded to the nearest $1,000.
 
 #### (3) Special rule
 
@@ -198,7 +198,9 @@ The Secretary shall—
 
 #### References in Text
 
-Public Law 95–134, referred to in subsec. (b)(1)(B)(iii), is Pub. L. 95–134, Oct. 15, 1977, 91 Stat. 1159, as amended. Provisions relating to consolidation of grants are contained in section 501 of Pub. L. 95–134 which is classified to section 1469a of Title 48, Territories and Insular Possessions.
+The Job Training Partnership Act, referred to in subsec. (b)(1)(B)(i)(II), (C)(iv)(I)(bb), (IV), (2)(A), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, which was repealed by Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Parts B and C of title II of the Act were classified generally to parts B (§1630 et seq.) and C (§1641 et seq.) of subchapter II of chapter 19 of this title, respectively, prior to repeal by Pub. L. 105–220. Sections 252 and 262 of the Act were classified to sections 1631 and 1642 of this title, respectively, prior to repeal by Pub. L. 105–220. For complete classification of this Act to the Code, see Tables.
 
-The Job Training Partnership Act, referred to in subsec. (b)(1)(B)(i)(II), (C)(iv)(I)(bb), (IV), (2)(A), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which was repealed by Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Parts B and C of title II of the Act were classified generally to parts B (§1630 et seq.) and C (§1641 et seq.) of subchapter II of chapter 19 of this title, respectively, prior to repeal by Pub. L. 105–220. Sections 252 and 262 of the Act were classified to sections 1631 and 1642 of this title, respectively, prior to repeal by Pub. L. 105–220. For complete classification of this Act to the Code, see Tables.
+This chapter, referred to in subsec. (b)(1)(B)(ii)(III)(aa), (bb), was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
+
+Public Law 95–134, referred to in subsec. (b)(1)(B)(iii), is Pub. L. 95–134, Oct. 15, 1977, 91 Stat. 1159. Provisions relating to consolidation of grants are contained in section 501 of Pub. L. 95–134 which is classified to section 1469a of Title 48, Territories and Insular Possessions.
 

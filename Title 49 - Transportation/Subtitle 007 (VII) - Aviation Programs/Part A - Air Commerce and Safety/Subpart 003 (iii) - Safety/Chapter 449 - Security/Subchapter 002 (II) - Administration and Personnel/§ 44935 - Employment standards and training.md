@@ -88,7 +88,7 @@ Screener requirements.—Notwithstanding any provision of law, an individual may
 
 &emsp;&emsp;(A) The individual shall possess a high school diploma, a general equivalency diploma, or experience that the Under Secretary has determined to be sufficient for the individual to perform the duties of the position.
 
-&emsp;&emsp;(B) The individual shall possess basic aptitudes and physical abilities, including colorperception, visual and aural acuity, physical coordination, and motor skills, to the following standards:
+&emsp;&emsp;(B) The individual shall possess basic aptitudes and physical abilities, including color perception, visual and aural acuity, physical coordination, and motor skills, to the following standards:
 
 &emsp;&emsp;&emsp;(i) Screeners operating screening equipment shall be able to distinguish on the screening equipment monitor the appropriate imaging standard specified by the Under Secretary.
 
@@ -298,7 +298,7 @@ Required Action.—The Assistant Secretary of Homeland Security (Transportation 
 
 Human Factors Study.—In carrying out this section, the Assistant Secretary shall provide, not later than 180 days after the date of the enactment of this Act \[Dec. 17, 2004\], to the appropriate congressional committees a report on the results of any human factors study conducted by the Department of Homeland Security to better understand problems in screener performance and to improve screener performance.”
 
-\[For definitions of “airport” and “appropriate congressional committees” used in section 4015 of Pub. L. 108–458, set out above, see section 4081 of Pub. L. 108–458, set out as a note under section 44901 of this title.\]
+\[For definitions of “airport” and “appropriate congressional committees” used in section 4015 of Pub. L. 108–458, set out above, see section 4081 of Pub. L.108–458, set out as a note under section 44901 of this title.\]
 
 #### Screener Personnel
 

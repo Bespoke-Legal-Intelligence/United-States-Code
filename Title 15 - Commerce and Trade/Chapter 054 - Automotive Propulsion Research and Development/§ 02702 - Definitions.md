@@ -14,7 +14,7 @@ As used in this chapter, the term—
 
 &emsp;(6) “reliability” refers to (A) the average time and distance over which normal automobile operation can be expected without significant repair or replacement of parts, and (B) the ease of diagnosis and repair of an automobile, its systems, and parts in the event of failure during use or damage from an accident;
 
-&emsp;(7) “safety” refers to the performance of an automobile propulsion system or equipment in such a manner that the public is protected against unreasonable risk of accident and against unreasonable risk of death or bodily injury in case of accident;
+&emsp;(7) “safety” refers to the performance of an automobile propulsion system or equipment insuch a manner that the public is protected against unreasonable risk of accident and against unreasonable risk of death or bodily injury in case of accident;
 
 &emsp;(8) “State” means any State, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, or any other territory or possession of the United States.
 

@@ -28,7 +28,7 @@
 
 #### (1) In general
 
-&emsp;If any individual makes an indirect skip during such individual's lifetime, any unused portion of such individual's GST exemption shall be allocated to the property transferred to theextent necessary to make the inclusion ratio for such property zero. If the amount of the indirect skip exceeds such unused portion, the entire unused portion shall be allocated to the property transferred.
+&emsp;If any individual makes an indirect skip during such individual's lifetime, any unused portion of such individual's GST exemption shall be allocated to the property transferred to the extent necessary to make the inclusion ratio for such property zero. If the amount of the indirect skip exceeds such unused portion, the entire unused portion shall be allocated to the property transferred.
 
 #### (2) Unused portion
 
@@ -148,7 +148,7 @@
 
 #### (B) Nonexempt portion
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “nonexempt portion” means the value (at the time of allocation) of the property or trust, multiplied by the inclusion ratio with respect to such property or trust.
+&emsp;&emsp;For purposes of subparagraph (A), the term “nonexempt portion” means the value (atthe time of allocation) of the property or trust, multiplied by the inclusion ratio with respect to such property or trust.
 
 (Added Pub. L. 99–514, title XIV, §1431(a), Oct. 22, 1986, 100 Stat. 2721; amended Pub. L. 100–647, title I, §1014(g)(16), Nov. 10, 1988, 102 Stat. 3566; Pub. L. 107–16, title V, §561(a), (b), June 7, 2001, 115 Stat. 86, 89.)
 

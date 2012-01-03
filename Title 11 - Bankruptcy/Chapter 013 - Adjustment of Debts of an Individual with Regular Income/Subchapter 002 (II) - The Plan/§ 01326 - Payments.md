@@ -46,7 +46,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 1326(a)(2) of the House amendment adopts a comparable provision contained in the House bill providing for standing trustees.
 
@@ -60,7 +60,7 @@ Subsection (a) requires that before or at the time of each payment any outstandi
 
 #### Amendments
 
-2005—Subsec. (a). Pub. L. 109–8, §309(c)(2), amended subsec. (a) generally. Prior to amendment subsec. (a) read as follows:
+<b>2005</b>—Subsec. (a). Pub. L. 109–8, §309(c)(2), amended subsec. (a) generally. Prior to amendment subsec. (a) read as follows:
 
 “(a)(1) Unless the court orders otherwise, the debtor shall commence making the payments proposed by a plan within 30 days after the plan is filed.
 
@@ -72,13 +72,13 @@ Subsec. (b)(3). Pub. L. 109–8, §1224(1), added par. (3).
 
 Subsec. (d). Pub. L. 109–8, §1224(2), added subsec. (d).
 
-1994—Subsec. (a)(2). Pub. L. 103–394 inserted “as soon as practicable” before period at end of second sentence.
+<b>1994</b>—Subsec. (a)(2). Pub. L. 103–394 inserted “as soon as practicable” before period at end of second sentence.
 
-1986—Subsec. (a)(2). Pub. L. 99–554, §283(z), substituted “payment” for “payments” in last sentence.
+<b>1986</b>—Subsec. (a)(2). Pub. L. 99–554, §283(z), substituted “payment” for “payments” in last sentence.
 
 Subsec. (b). Pub. L. 99–554, §230, amended subsec. (b) generally, substituting “586(b) of title 28” for “1302(d) of this title” and “586(e)(1)(B) of title 28” for “1302(e) of this title” in par. (2).
 
-1984—Subsec. (a). Pub. L. 98–353, §318(a)(2), added subsec. (a). Former subsec. (a) redesignated (b).
+<b>1984</b>—Subsec. (a). Pub. L. 98–353, §318(a)(2), added subsec. (a). Former subsec. (a) redesignated (b).
 
 Subsec. (b). Pub. L. 98–353, §318(a)(1), redesignated subsec. (a) as (b). Former subsec. (b) redesignated (c).
 

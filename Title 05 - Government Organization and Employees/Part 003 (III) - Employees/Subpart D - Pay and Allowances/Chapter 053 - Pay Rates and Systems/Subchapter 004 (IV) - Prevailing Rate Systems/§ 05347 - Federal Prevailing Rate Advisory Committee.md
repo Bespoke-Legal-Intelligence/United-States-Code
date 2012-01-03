@@ -14,7 +14,7 @@
 
 &emsp;(6) five members, designated by the Director of the Office of Personnel Management, from among the employee organizations representing, under exclusive recognition of the Government of the United States, the largest numbers of prevailing rate employees.
 
-(b) In designating members from among employee organizations under subsection (a)(6) of this section, the Director of the Office of Personnel Management shall designate, as nearly as practicable, a number of members from a particular employee organization in the same proportion to the total number of employee representatives appointed to the Committee under subsection (a)(6) of this section as the number of prevailing rate employees represented by such organization is to the total number of prevailing rate employees. However, there shall not be more than two members from any one employee organization nor more than four members from a single council, federation, alliance, association, or affiliation of employee organizations.
+(b) In designating members from among employee organizations under subsection (a)(6) of this section, the Director of the Office of Personnel Management shall designate, as nearly as practicable, a number of members from a particular employee organization in the same proportion to the total number of employee representatives appointed to the Committee under subsection (a)(6) of this section as the number of prevailing rate employees represented by such organization is to the total number of prevailingrate employees. However, there shall not be more than two members from any one employee organization nor more than four members from a single council, federation, alliance, association, or affiliation of employee organizations.
 
 (c) Every 2 years the Director of the Office of Personnel Management shall review employee organization representation to determine adequate or proportional representation under the guidelines of subsection (b) of this section.
 
@@ -34,13 +34,13 @@
 
 #### Amendments
 
-1995—Subsec. (e). Pub. L. 104–66 struck out at end “The Committee shall make an annual report to the Office and the President for transmittal to Congress, including recommendations and other matters considered appropriate. Any member of the Committee may include in the annual report recommendations and other matters he considers appropriate.”
+<b>1995</b>—Subsec. (e). Pub. L. 104–66 struck out at end “The Committee shall make an annual report to the Office and the President for transmittal to Congress, including recommendations and other matters considered appropriate. Any member of the Committee may include in the annual report recommendations and other matters he considers appropriate.”
 
-1992—Subsec. (g). Pub. L. 102–378 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), members” for “Members”, struck out second sentence which read as follows: “The Chairman is entitled to a rate of pay equal to the maximum rate currently paid, from time to time, under the General Schedule.”, and added par. (2).
+<b>1992</b>—Subsec. (g). Pub. L. 102–378 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), members” for “Members”, struck out second sentence which read as follows: “The Chairman is entitled to a rate of pay equal to the maximum rate currently paid, from time to time, under the General Schedule.”, and added par. (2).
 
-1979—Subsec. (e). Pub. L. 96–54 substituted “Office” for “Commission”.
+<b>1979</b>—Subsec. (e). Pub. L. 96–54 substituted “Office” for “Commission”.
 
-1978—Subsecs. (a) to (e), (h). Pub. L. 95–454 substituted “Director of the Office of Personnel Management” for “Chairman of the Civil Service Commission” and “Office of Personnel Management” for “Civil Service Commission”, wherever appearing.
+<b>1978</b>—Subsecs. (a) to (e), (h). Pub. L. 95–454 substituted “Director of the Office of Personnel Management” for “Chairman of the Civil Service Commission” and “Office of Personnel Management” for “Civil Service Commission”, wherever appearing.
 
 #### Effective Date of 1979 Amendment
 

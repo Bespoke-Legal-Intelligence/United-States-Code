@@ -2,7 +2,7 @@
 
 The return of articles from space shall not be considered an importation, and an entry of such articles shall not be required, if:
 
-&emsp;(1) such articles were previously launched into space from the customs territory of the United States aboard a spacecraft operated by, or under the control of, United States persons and owned—
+&emsp;(1) such articles were previously launched into space from the customs territory of the United States aboard a spacecraft operated by,or under the control of, United States persons and owned—
 
 &emsp;&emsp;(A) wholly by United States persons, or
 

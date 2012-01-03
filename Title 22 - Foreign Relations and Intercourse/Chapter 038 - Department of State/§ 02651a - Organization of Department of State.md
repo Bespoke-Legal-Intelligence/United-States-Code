@@ -284,6 +284,8 @@ Amendment by Pub. L. 97–241, effective Oct. 1, 1982, see section 204 of Pub. L
 
 #### Coordinator of United States Government Activities Providing Basic Education Assistance in Developing Countries
 
+Pub. L. 112–74, div. I, title VII, §7034(q)(2), Dec. 23, 2011, 125 Stat. 1217, provided that: “The position of Coordinator established pursuant to section 664 of division J of Public Law 110–161 \[set out below\] shall, within 45 days of enactment of this Act \[Dec. 23, 2011\] and notwithstanding the requirements of such section, be moved to the United States Agency for International Development (USAID): <i>Provided</i>, That the Coordinator shall hereafter be appointed by the USAID Administrator and shall report directly to the Administrator: <i>Provided further</i>, That the responsibilities of the Coordinator enumerated in the first sentence of section 664(c) shall remain in full force and effect: <i>Provided further</i>, That the limitation in the second sentence of such section shall hereafter no longer apply to the Coordinator.”
+
 Pub. L. 110–161, div. J, title VI, §664(b), (c), Dec. 26, 2007, 121 Stat. 2349, provided that:
 
 “(b)
@@ -299,6 +301,8 @@ Responsibilities.—That \[sic\] the Coordinator shall have primary responsibili
 \[Pub. L. 111–8, div. H, title VII, §7064(a)(2), Mar. 11, 2009, 123 Stat. 899, provided that: “There shall continue to be a Coordinator of United States government actions to provide basic education assistance in developing countries as established in section 664 of division J of Public Law 110–161 \[set out above\].”\]
 
 #### Advisor for Activities Relating to Indigenous Peoples Internationally
+
+Pub. L. 112–74, div. I, title VII, §7034(q)(1), Dec. 23, 2011, 125 Stat. 1217, provided that: “The position of Advisor established pursuant to section 699B of division J of Public Law 110–161 \[set out below\] shall, within 45 days of enactment of this Act \[Dec. 23, 2011\] and notwithstanding the requirements of such section, be moved to the United States Agency for International Development (USAID): <i>Provided</i>, That the Advisor shall hereafter be appointed by the USAID Administrator and shall report directly to the Administrator: <i>Provided further</i>, That the responsibilities of the Advisor enumerated in section 699B(b) shall remain in full force and effect.”
 
 Pub. L. 110–161, div. J, title VI, §699B, Dec. 26, 2007, 121 Stat. 2369, provided that:
 
@@ -342,7 +346,7 @@ Pub. L. 108–447, div. B, title IV, §408, Dec. 8, 2004, 118 Stat. 2904, provid
 
 &emsp;“(5) coordinating with relevant Executive agencies the development of interagency contingency plans for such response efforts; and
 
-&emsp;“(6) coordinating the training of civilian personnel to perform stabilization and reconstruction activities in response to crises in such countries or regions described in paragraph (1).”
+&emsp;“(6) coordinating the training of civilian personnel to perform stabilization and reconstruction activitiesin response to crises in such countries or regions described in paragraph (1).”
 
 #### Comprehensive Workforce Plan
 
@@ -450,7 +454,7 @@ Duties.—The Adviser shall—
 
 Section 161(c) of Pub. L. 103–236 provided that: “Any officer of the Department of State holding office on the date of the enactment of this Act \[Apr. 30, 1994\] shall not be required to be reappointed to any other office, at the Department of State at the same level performing similar functions, as determined by the President, by reason of the enactment of the amendments made by this section and section 162 \[see Effective Date of 1994 Amendment note above for classification\].”
 
-\[Functions of President under section 161(c) of Pub. L. 103–236, set out above, delegated to Secretary of State by Memorandum of President of the United States, July 26, 1994, 59 F.R. 40205, set out as a note under section 2370a of this title.\]
+\[Functions of President under section 161(c) of Pub. L. 103–236, set out above, delegated to Secretary ofState by Memorandum of President of the United States, July 26, 1994, 59 F.R. 40205, set out as a note under section 2370a of this title.\]
 
 #### References to Officials and Offices of Department of State Whose Authority Is vested in Secretary of State Deemed References to Secretary of State or Department of State
 

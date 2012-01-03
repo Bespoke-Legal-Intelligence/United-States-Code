@@ -90,7 +90,7 @@ Purpose.—The purpose of this section is to strengthen coordination among Depar
 
 “(b)
 
-Findings.—The Congress finds that centralized coordination of the collection and dissemination oftechnological data among research facilities and other organizations within the Department of Defense is necessary—
+Findings.—The Congress finds that centralized coordination of the collection and dissemination of technological data among research facilities and other organizations within the Department of Defense is necessary—
 
 &emsp;“(1) to ensure that personnel of the Department are currently informed about emerging technology for defense systems; and
 

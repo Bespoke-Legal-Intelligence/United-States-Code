@@ -62,7 +62,7 @@ Subsec. (a). Pub. L. 109–364, §706(a), designated introductory provisions as 
 
 “(1) served continuously on active duty for 90 or more days pursuant to such call or order; and
 
-“(2) not later than 90 days after release from such active-duty service, entered into an agreement with the Secretary concerned to serve continuously in the Selected Reserve for a period of one or more whole years following such date.”
+“(2) not later than 90 days after release from such active-duty service, entered into an agreement with theSecretary concerned to serve continuously in the Selected Reserve for a period of one or more whole years following such date.”
 
 Subsec. (a)(2). Pub. L. 109–163, §701(d), substituted “not later than 90 days after release” for “on or before the date of the release”.
 

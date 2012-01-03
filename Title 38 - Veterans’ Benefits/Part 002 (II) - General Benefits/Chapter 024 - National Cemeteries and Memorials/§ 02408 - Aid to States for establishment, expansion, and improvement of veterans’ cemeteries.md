@@ -18,7 +18,7 @@
 
 &emsp;(2) If the amount of such a grant is less than the amount of costs referred to in subparagraph (A) or (B) of paragraph (1), the State receiving the grant shall contribute the excess of such costs over the grant.
 
-&emsp;(3) If a State that has received such a grant to establish, expand, or improve a veterans’ cemetery ceases to own such cemetery, ceases to operate such cemetery as a veterans’ cemetery, or uses any part of the funds providedthrough such grant for a purpose other than that for which the grant was made, the United States shall be entitled to recover from such State the total of all grants made under this section to such State in connection with such cemetery.
+&emsp;(3) If a State that has received such a grant to establish, expand, or improve a veterans’ cemetery ceases to own such cemetery, ceases to operate such cemetery as a veterans’ cemetery, or uses any part of the funds provided through such grant for a purpose other than that for which the grant was made, the United States shall be entitled to recover from such State the total of all grants made under this section to such State in connection with such cemetery.
 
 (c)(1) In addition to the conditions specified in subsection (b) of this section, any grant to a State under this section to assist such State in establishing a veterans’ cemetery shall be made on the condition that such cemetery shall conform to such standards and guidelines relating to site selection, planning, and construction as the Secretary may by regulation prescribe. In prescribing regulations for the purposes of the preceding sentence, the Secretary shall take into account the standards and guidelines for site selection, planning, and construction that are applicable to cemeteries under the control of the National Cemetery Administration, including those provided in subsections (b), (c), and (d) of section 2404 of this title.
 
@@ -112,5 +112,5 @@ Section effective Oct. 18, 1978, see section 205(a) of Pub. L. 95–476, set out
 
 #### Regulations
 
-Pub. L. 110–157, title II, §202(b)(4), Dec. 26, 2007, 121 Stat. 1833, provided that: “Not later than 180 days after the date of the enactment of this Act \[Dec. 26, 2007\], the Secretary of Veterans Affairs shall prescribe regulations to carry out the amendments made by this subsection \[amending this section\].”
+Pub. L. 110–157, title II, §202(b)(4), Dec. 26, 2007, 121 Stat. 1833, provided that: “Not later than 180 days afterthe date of the enactment of this Act \[Dec. 26, 2007\], the Secretary of Veterans Affairs shall prescribe regulations to carry out the amendments made by this subsection \[amending this section\].”
 

@@ -6,7 +6,7 @@ General.—The appropriate court of appeals of the United States or the United S
 
 (b)
 
-Persons Seeking Judicial Review of Aviation Matters.—(1) A person disclosing a substantial interest in an order related to an aviation matter issued by the Board under this chapter may apply for review of the order by filing a petition for review in the United States Court of Appeals for the District of Columbia Circuit or in the court of appeals of the United States for the circuit in which the person resides or has its principal place of business. The petition must be filed not later than 60 days after the order is issued. The court may allow the petition to be filed after the 60 days only if there was a reasonable ground for not filing within that 60-day period.
+Persons Seeking Judicial Review of Aviation Matters.—(1) A person disclosing a substantial interest in an order related to an aviation matter issued by the Board under this chapter may apply for review of the order by filing a petition for review in the United States Court of Appeals for the District of Columbia Circuit or in the court of appeals of the United States for the circuit in which the person resides or has its principal place of business. The petition must be filed not later than 60 daysafter the order is issued. The court may allow the petition to be filed after the 60 days only if there was a reasonable ground for not filing within that 60-day period.
 
 (2) When a petition is filed under paragraph (1) of this subsection, the clerk of the court immediately shall send a copy of the petition to the Board. The Board shall file with the court a record of the proceeding in which the order was issued.
 
@@ -18,7 +18,7 @@ Persons Seeking Judicial Review of Aviation Matters.—(1) A person disclosing a
 
 (c)
 
-Administrator Seeking Judicial Review of Aviation Matters.—When the Administrator of the Federal Aviation Administration decides that an order of the Board under section 44709 or46301(d)(5) of this title will have a significant adverse impact on carrying out this chapter related to an aviation matter, the Administrator may obtain judicial review of the order under section 46110 of this title. The Administrator shall be made a party to the judicial review proceedings. Findings of fact of the Board are conclusive if supported by substantial evidence.
+Administrator Seeking Judicial Review of Aviation Matters.—When the Administrator of the Federal Aviation Administration decides that an order of the Board under section 44709 or 46301(d)(5) of this title will have a significant adverse impact on carrying out this chapter related to an aviation matter, the Administrator may obtain judicial review of the order under section 46110 of this title. The Administrator shall be made a party to the judicial review proceedings. Findings of fact of the Board are conclusive if supported by substantial evidence.
 
 (d)
 

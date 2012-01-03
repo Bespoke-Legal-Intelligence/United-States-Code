@@ -1,6 +1,6 @@
 ### §1701d–4. Exchange and assembly of housing and urban planning and development data; payment of expenses; acceptance of funds, services, facilities, materials, and other donations; approval of Secretary of State for international programs and activities
 
-(a) The Secretary of Housing and Urban Development may exchange data relating to housing and urban planning and development with other nations and assemble such data from other nations, through participation in international conference and other means, where such exchange or assembly is deemed by him to be beneficial in carrying out his responsibilities under the Department of Housing and Urban Development Act \[42 U.S.C. 3531 et seq.\] or other legislation. In carrying out his responsibilities under this subsection the Secretary may—
+(a) The Secretary of Housing and Urban Development may exchange data relating to housing and urban planning and development with other nations and assemble such data from other nations, through participation in international conferences and other means, where such exchange or assembly is deemed by him to be beneficial in carrying out his responsibilities under the Department of Housing and Urban Development Act \[42 U.S.C. 3531 et seq.\] or other legislation. In carrying out his responsibilities under this subsection the Secretary may—
 
 &emsp;(1) pay the expenses of participation in activities conducted under authority of this section including, but not limited to, the compensation, travel expenses, and per diem in lieu of subsistence of persons serving in an advisory capacity while away from their homes or regular places of business in connection with attendance at international meetings and conferences, or other travel for the purpose of exchange or assembly of data relating to housing and urban planning and development; but such travel expenses shall not exceed those authorized for regular officers and employees traveling in connection with said activities; and
 
@@ -12,7 +12,7 @@
 
 #### References in Text
 
-The Department of Housing and Urban Development Act, referred to in subsec. (a), is Pub. L. 89–174, Sept. 9, 1965, 79 Stat. 667, as amended, which is classified generally to chapter 44 (§3531 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3531 of Title 42 and Tables.
+The Department of Housing and Urban Development Act, referred to in subsec. (a), is Pub. L. 89–174, Sept. 9, 1965, 79 Stat. 667, which is classified principally to chapter 44 (§3531 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3531 of Title 42 and Tables.
 
 #### Codification
 
@@ -20,7 +20,7 @@ Section was enacted as part of the Housing Act of 1957, and not as part of the N
 
 #### Amendments
 
-1968—Pub. L. 90–448 designated existing provisions as subsec. (a), inserted reference to assembly of data from other nations, and authorized payment of expenses of participation in activities conducted under authority of this section, and acceptance from international organizations, foreign countries, and private nonprofit foundations of funds, services, facilities, materials and other donations to be utilized jointly, and added subsec. (b).
+<b>1968</b>—Pub. L. 90–448 designated existing provisions as subsec. (a), inserted reference to assembly of data from other nations, and authorized payment of expenses of participation in activities conducted under authority of this section, and acceptance from international organizations, foreign countries, and private nonprofit foundations of funds, services, facilities, materials and other donations to be utilized jointly, and added subsec. (b).
 
-1967—Pub. L. 90–19 substituted “Secretary of Housing and Urban Development” and “Department of Housing and Urban Development” for “Housing and Home Finance Administrator” and “Housing and Home Finance Agency”, respectively.
+<b>1967</b>—Pub. L. 90–19 substituted “Secretary of Housing and Urban Development” and “Department of Housing and Urban Development” for “Housing and Home Finance Administrator” and “Housing and Home Finance Agency”, respectively.
 

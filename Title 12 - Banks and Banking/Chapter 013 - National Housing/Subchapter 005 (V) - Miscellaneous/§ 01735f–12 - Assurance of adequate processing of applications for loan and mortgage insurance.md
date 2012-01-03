@@ -12,7 +12,7 @@ To assist the Resolution Trust Corporation in disposing of the property to which
 
 #### Amendments
 
-1992—Pub. L. 102–550 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>1992</b>—Pub. L. 102–550 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 #### Regulations
 

@@ -34,7 +34,7 @@ Pub. L. 99–592, §6(c), Oct. 31, 1986, 100 Stat. 3344, provided that:
 
 &emsp;“(A) 4 members who shall be administrators at institutions of higher education selected by the National Academy of Sciences after consultation with the American Council of Education, the Association of American Universities, and the National Association of State Universities and Land Grant Colleges;
 
-&emsp;“(B) 4 members who shall be teachers or retired teachers at institutions of higher education (who donot serve in an administrative capacity at such institutions), selected by the National Academy of Sciences after consultation with the American Federation of Teachers, the National Education Association, the American Association of University Professors, and the American Association of Retired Persons; and
+&emsp;“(B) 4 members who shall be teachers or retired teachers at institutions of higher education (who do not serve in an administrative capacity at such institutions), selected by the National Academy of Sciences after consultation with the American Federation of Teachers, the National Education Association, the American Association of University Professors, and the American Association of Retired Persons; and
 
 &emsp;“(C) one member selected by the National Academy of Sciences.
 

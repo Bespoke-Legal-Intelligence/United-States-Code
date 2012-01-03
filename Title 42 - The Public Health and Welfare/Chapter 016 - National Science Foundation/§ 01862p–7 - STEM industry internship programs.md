@@ -8,7 +8,7 @@ The Director may award grants, on a competitive, merit-reviewed basis, to instit
 
 The grants awarded under subsection (a) may include internship programs in the manufacturing sector.
 
-#### (c) Use of grant funds
+#### (c) <sup>1</sup> Use of grant funds
 
 Grants under this section may be used—
 
@@ -22,15 +22,15 @@ Grants under this section may be used—
 
 &emsp;(5) to conduct activities to support awareness of career opportunities and skill requirements.
 
-#### (d) Priority
+#### (d) <sup>2</sup> Priority
 
 In awarding grants under this section, the Director shall give priority to institutions of higher education or consortia thereof that demonstrate significant outreach to and coordination with local or regional private sector entities and Regional Centers for the Transfer of Manufacturing Technology established by section 278k(a) of title 15 in developing academic courses designed to provide students with the skills or certifications necessary for employment in local or regional companies.
 
-#### (c) Outreach to rural communities
+#### (c) <sup>1</sup> Outreach to rural communities
 
 The Foundation shall conduct outreach to institutions of higher education and private sector entities in rural areas to encourage those entities to participate in partnerships under this section.
 
-#### (d) Cost-share
+#### (d) <sup>2</sup> Cost-share
 
 The Director shall require a 50 percent non-Federal cost-share from partnerships established or expanded under this section.
 
@@ -55,4 +55,8 @@ Section was enacted as part of the America COMPETES Reauthorization Act of 2010,
 #### Definitions
 
 For definitions of terms used in this section, see section 2 of Pub. L. 111–358, set out as a note under section 6621 of this title, and section 502 of Pub. L. 111–358, set out as a note under section 1862p of this title.
+
+<i><sup>1</sup></i><i> So in original. Two subsecs. (c) have been enacted.</i>
+
+<i><sup>2</sup></i><i> So in original. Two subsecs. (d) have been enacted.</i>
 

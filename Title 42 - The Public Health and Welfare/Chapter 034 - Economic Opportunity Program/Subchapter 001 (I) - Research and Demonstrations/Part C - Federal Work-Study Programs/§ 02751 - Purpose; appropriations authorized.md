@@ -44,7 +44,7 @@ A prior section 441 of Pub. L. 89–329 amended this section and sections 2752 t
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b). Pub. L. 110–315, §441(1), substituted “such sums as may be necessary for fiscal year 2009 andeach of the five succeeding fiscal years” for “$1,000,000,000 for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years”.
+<b>2008</b>—Subsec. (b). Pub. L. 110–315, §441(1), substituted “such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years” for “$1,000,000,000 for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years”.
 
 Subsec. (c)(1). Pub. L. 110–315, §441(2), inserted “emergency preparedness and response,” after “public safety,”.
 

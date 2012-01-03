@@ -100,7 +100,7 @@ On the violation of the terms or conditions of the easement or related agreement
 
 #### (1) Program authorized
 
-&emsp;The Secretary may enter into 1 or more agreements with a State (including a political subdivision or agency of a State), nongovernmental organization, or Indian tribe to carry out a special wetlands reserve enhancement program that the Secretary determines would advance the purposes of this subpart.
+&emsp;The Secretary may enter into 1 or more agreements with a State (including a political subdivision or agency of a State), nongovernmental organization, or Indian tribe to carryout a special wetlands reserve enhancement program that the Secretary determines would advance the purposes of this subpart.
 
 #### (2) Reserved rights pilot program
 

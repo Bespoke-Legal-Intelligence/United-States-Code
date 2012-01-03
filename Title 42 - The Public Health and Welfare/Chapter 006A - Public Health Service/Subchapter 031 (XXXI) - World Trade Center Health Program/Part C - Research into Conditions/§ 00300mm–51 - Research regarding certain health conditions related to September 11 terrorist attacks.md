@@ -14,7 +14,7 @@ With respect to individuals, including enrolled WTC responders and certified-eli
 
 #### (b) Types of research
 
-The research under subsection (a)(1) shall include epidemiologic and other research studies on WTC-related health conditions or emerging conditions—
+The research under subsection (a)(1) shall include epidemiologic and other research studieson WTC-related health conditions or emerging conditions—
 
 &emsp;(1) among enrolled WTC responders and certified-eligible WTC survivors under treatment; and
 

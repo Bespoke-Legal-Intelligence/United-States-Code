@@ -80,7 +80,7 @@ Richard Nixon.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Display in Federal Buildings of Code of Ethics for Government Service
 
-Pub. L. 96–303, July 3, 1980, 94 Stat. 855, which provided that each agency, under regulations prescribed byAdministrator of General Services Administration, display in appropriate areas of Federal buildings copies of the Code of Ethics for Government Service, authorized publication and distribution of such Code, and set forth text of the Code of Ethics for Government Service, was repealed by Pub. L. 104–179, §4(a), Aug. 6, 1996, 110 Stat. 1566.
+Pub. L. 96–303, July 3, 1980, 94 Stat. 855, which provided that each agency, under regulations prescribed by Administrator of General Services Administration, display in appropriate areas of Federal buildings copies of the Code of Ethics for Government Service, authorized publication and distribution of such Code, and set forth text of the Code of Ethics for Government Service, was repealed by Pub. L. 104–179, §4(a), Aug. 6, 1996, 110 Stat. 1566.
 
 #### Agency Acceptance of Donations for Federal Employees
 
@@ -216,7 +216,7 @@ Drug use is having serious adverse effects upon a significant proportion of the 
 
 The Federal government, as an employer, is concerned with the well-being of its employees, the successful accomplishment of agency missions, and the need to maintain employee productivity;
 
-The Federal government, as the largest employer in the Nation, can and should show the way towards achieving drug-free workplaces through a program designed to offer drug users a helping hand and, at the same time, demonstrating to drug users and potential drug users that drugs will not be tolerated in the Federal workplace;
+The Federal government, as the largest employer in the Nation, can and should show the way towardsachieving drug-free workplaces through a program designed to offer drug users a helping hand and, at the same time, demonstrating to drug users and potential drug users that drugs will not be tolerated in the Federal workplace;
 
 The profits from illegal drugs provide the single greatest source of income for organized crime, fuel violent street crime, and otherwise contribute to the breakdown of our society;
 
@@ -314,7 +314,7 @@ Sec. 6. <i>Coordination of Agency Programs</i>. (a) The Director of the Office o
 
 (b) The Attorney General shall render legal advice regarding the implementation of this Order and shall be consulted with regard to all guidelines, regulations, and policies proposed to be adopted pursuant to this Order.
 
-(c) Nothing in this Order shall be deemed to limit the authorities of the Director of Central Intelligenceunder the National Security Act of 1947, as amended \[50 U.S.C. 401 et seq.\], or the statutory authorities of the National Security Agency or the Defense Intelligence Agency. Implementation of this Order within the Intelligence Community, as defined in Executive Order No. 12333 \[50 U.S.C. 401 note\], shall be subject to the approval of the head of the affected agency.
+(c) Nothing in this Order shall be deemed to limit the authorities of the Director of Central Intelligence under the National Security Act of 1947, as amended \[50 U.S.C. 401 et seq.\], or the statutory authorities of the National Security Agency or the Defense Intelligence Agency. Implementation of this Order within the Intelligence Community, as defined in Executive Order No. 12333 \[50 U.S.C. 401 note\], shall be subject to the approval of the head of the affected agency.
 
 Sec. 7. <i>Definitions</i>. (a) This Order applies to all agencies of the Executive Branch.
 
@@ -352,7 +352,7 @@ By virtue of the authority vested in me as President by the Constitution and the
 
 #### Part I—Principles of Ethical Conduct
 
-Section 101. <i>Principles of Ethical Conduct</i>. To ensure that every citizen can have complete confidence in the integrity of the Federal Government, each Federal employee shall respect and adhere to the fundamental principles of ethical service as implemented in regulations promulgated under sections 201 and 301 of this order:
+Section 101. <i>Principles of Ethical Conduct</i>. To ensure that every citizen can have complete confidence in the integrity of the Federal Government, each Federal employee shall respect and adhere to the fundamentalprinciples of ethical service as implemented in regulations promulgated under sections 201 and 301 of this order:
 
 (a) Public service is a public trust, requiring employees to place loyalty to the Constitution, the laws, and ethical principles above private gain.
 
@@ -386,7 +386,7 @@ Sec. 102. <i>Limitations on Outside Earned Income.</i>
 
 (a) No employee who is appointed by the President to a full-time noncareer position in the executive branch (including full-time noncareer employees in the White House Office, the Office of Policy Development, and the Office of Cabinet Affairs), shall receive any earned income for any outside employment or activity performed during that Presidential appointment.
 
-(b) The prohibition set forth in subsection (a) shall not apply to any full-time noncareer employees employed pursuant to 3 U.S.C. 105 and 3 U.S.C. 107(a) at salaries below the minimum rate of basic pay then paidfor GS–9 of the General Schedule. Any outside employment must comply with relevant agency standards of conduct, including any requirements for approval of outside employment.
+(b) The prohibition set forth in subsection (a) shall not apply to any full-time noncareer employees employed pursuant to 3 U.S.C. 105 and 3 U.S.C. 107(a) at salaries below the minimum rate of basic pay then paid for GS–9 of the General Schedule. Any outside employment must comply with relevant agency standards of conduct, including any requirements for approval of outside employment.
 
 #### Part II—Office of Government Ethics Authority
 
@@ -456,7 +456,7 @@ Sec. 503. <i>Definitions</i>. For purposes of this order, the term:
 
 (e) “Special Government employee” means a special Government employee as defined in 18 U.S.C. 202(a).
 
-Sec. 504. <i>Judicial Review</i>. This order is intended only to improve the internal management of the executivebranch and is not intended to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
+Sec. 504. <i>Judicial Review</i>. This order is intended only to improve the internal management of the executive branch and is not intended to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
 
 #### Executive Order No. 12820
 
@@ -564,7 +564,7 @@ Sec. 2. <i>Definitions</i>. For the purposes of this order:
 
 (a) “Agency” means an executive agency as defined in section 105 of title 5, United States Code, but does not include the Government Accountability Office.
 
-(b) “Contractor employee” means an individual who performs work for or on behalf of any agency under a contract and who, in order to perform the work specified under the contract, will require access to space, information, information technology systems, staff, or other assets of the Federal Government. Such contracts, include, but are not limited to:
+(b) “Contractor employee” means an individual who performs work for or on behalf of any agency under acontract and who, in order to perform the work specified under the contract, will require access to space, information, information technology systems, staff, or other assets of the Federal Government. Such contracts, include, but are not limited to:
 
 &emsp;(i) personal services contracts;
 

@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(C) the minimum measures which the Attorney General believes may remedy the alleged conditions and the alleged pattern or practice of resistance;
 
-&emsp;(2) that the Attorney General has notified in writing the Governor or chief executive officer and attorney general or chief legal officer of the appropriate State or political subdivision and the director of the institution of the Attorney General's intention to commence an investigation of such institution, that such notice was delivered at least seven days prior to the commencement of such investigation andthat between the time of such notice and the commencement of an action under section 1997a of this title—
+&emsp;(2) that the Attorney General has notified in writing the Governor or chief executive officer and attorney general or chief legal officer of the appropriate State or political subdivision and the director of the institution of the Attorney General's intention to commence an investigation of such institution, that such notice was delivered at least seven days prior to the commencement of such investigation and that between the time of such notice and the commencement of an action under section 1997a of this title—
 
 &emsp;&emsp;(A) the Attorney General has made a reasonable good faith effort to consult with the Governor or chief executive officer and attorney general or chief legal officer of the appropriate State or political subdivision and the director of the institution, or their designees, regarding financial, technical, or other assistance which may be available from the United States and which the Attorney General believes may assist in the correction of such conditions and pattern or practice of resistance;
 

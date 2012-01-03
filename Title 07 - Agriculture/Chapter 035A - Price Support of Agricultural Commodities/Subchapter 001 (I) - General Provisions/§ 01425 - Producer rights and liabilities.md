@@ -16,9 +16,9 @@ This Act, referred to in subsec. (a), is act Oct. 31, 1949, ch. 792, 63 Stat. 10
 
 #### Amendments
 
-1991—Subsec. (b). Pub. L. 102–237 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
+<b>1991</b>—Subsec. (b). Pub. L. 102–237 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
 
-“(1) Notwithstanding any other provision of law, the Secretary may provide a negotiable certificate to any producer who repays, together with interest, a price support loan made available to such producer under any of the annual programs, for wheat, feed grains, upland cotton, or rice established under this Act.
+“(1) Notwithstanding any other provision of law, the Secretary may provide a negotiable certificate to any producer who repays, together with interest, a price support loan made available to such producer underany of the annual programs, for wheat, feed grains, upland cotton, or rice established under this Act.
 
 “(2) The amount of such certificates shall be equal to the amount of the interest paid by the producer on such loan.
 
@@ -26,11 +26,11 @@ This Act, referred to in subsec. (a), is act Oct. 31, 1949, ch. 792, 63 Stat. 10
 
 “(4) The issuance of such certificate shall be subject to the availability of commodities owned by the Corporation.”
 
-1988—Subsec. (a). Pub. L. 100–460 substituted “Except as otherwise provided in section 1425a of this title, no producer” for “No producer”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–460 substituted “Except as otherwise provided in section 1425a of this title, no producer” for “No producer”.
 
-1985—Pub. L. 99–198 temporarily designated existing provisions as subsec. (a) and added subsec. (b). See Effective and Termination Dates of 1985 Amendment note below.
+<b>1985</b>—Pub. L. 99–198 temporarily designated existing provisions as subsec. (a) and added subsec. (b). See Effective and Termination Dates of 1985 Amendment note below.
 
-1958—Pub. L. 85–835 authorized the Commodity Credit Corporation to acquire title to agricultural commodities on which nonrecourse price-support loans have been made without the necessity of computing and making payments to the farmer.
+<b>1958</b>—Pub. L. 85–835 authorized the Commodity Credit Corporation to acquire title to agricultural commodities on which nonrecourse price-support loans have been made without the necessity of computing and making payments to the farmer.
 
 #### Effective Date of 1988 Amendment
 

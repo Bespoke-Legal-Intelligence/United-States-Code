@@ -40,7 +40,7 @@ Any miner who willfully violates the mandatory safety standards relating to smok
 
 #### (h) Equipment falsely represented as complying with statute, specification, or regulations
 
-Whoever knowingly distributes, sells, offers for sale, introduces, or delivers in commerce anyequipment for use in a coal or other mine, including, but not limited to, components and accessories of such equipment, which is represented as complying with the provisions of this chapter, or with any specification or regulation of the Secretary applicable to such equipment, and which does not so comply, shall, upon conviction, be subject to the same fine and imprisonment that may be imposed upon a person under subsection (f) of this section.
+Whoever knowingly distributes, sells, offers for sale, introduces, or delivers in commerce any equipment for use in a coal or other mine, including, but not limited to, components and accessories of such equipment, which is represented as complying with the provisions of this chapter, or with any specification or regulation of the Secretary applicable to such equipment, and which does not so comply, shall, upon conviction, be subject to the same fine and imprisonment that may be imposed upon a person under subsection (f) of this section.
 
 #### (i) Authority to assess civil penalties
 
@@ -84,7 +84,7 @@ Pub. L. 109–280, §1301(1), struck out subsec. (d) which read as follows: “A
 
 Subsec. (b). Pub. L. 101–508, §3102(2), substituted “$5,000” for “1,000”.
 
-<b>1977</b>—Pub. L. 95–164 substituted provisions setting the civil and criminal penalties with regard to violations of this chapter for provisions relating to claims of idled miners, which provisions, as revised, were transferred to section 821 of this title.
+<b>1977</b>—Pub. L. 95–164 substituted provisions setting the civil and criminal penalties with regard to violations ofthis chapter for provisions relating to claims of idled miners, which provisions, as revised, were transferred to section 821 of this title.
 
 #### Effective Date of 1977 Amendment
 

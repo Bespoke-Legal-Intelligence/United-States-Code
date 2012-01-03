@@ -4,7 +4,7 @@
 
 #### (1) Performance report
 
-&emsp;For fiscal years 2008 through 2012, not later than 120 days after the end of each fiscal year during which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, a report concerning the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 201(c) of the Food and Drug Administration Amendments Act of 2007 during such fiscal year and the future plans of the Food and Drug Administration for meeting the goals. The report for a fiscal year shall include information on all previous cohorts for which the Secretary has not given a complete response on all device premarket applications and reports, supplements, and premarket notifications in the cohort.
+&emsp;For fiscal years 2008 through 2012, not later than 120 days after the end of each fiscal yearduring which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, a report concerning the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 201(c) of the Food and Drug Administration Amendments Act of 2007 during such fiscal year and the future plans of the Food and Drug Administration for meeting the goals. The report for a fiscal year shall include information on all previous cohorts for which the Secretary has not given a complete response on all device premarket applications and reports, supplements, and premarket notifications in the cohort.
 
 #### (2) Fiscal report
 
@@ -84,7 +84,7 @@
 
 #### References in Text
 
-Section 201(c) of the Food and Drug Administration Amendments Act of 2007, referred to in subsec. (a)(1), is section 201(c) of Pub. L. 110–85, which is set out as a note under section 379i of this title.
+Section 201(c) of the Food and Drug Administration Amendments Act of 2007, referred to in subsec. (a)(1), issection 201(c) of Pub. L. 110–85, which is set out as a note under section 379i of this title.
 
 #### Effective and Termination Dates
 

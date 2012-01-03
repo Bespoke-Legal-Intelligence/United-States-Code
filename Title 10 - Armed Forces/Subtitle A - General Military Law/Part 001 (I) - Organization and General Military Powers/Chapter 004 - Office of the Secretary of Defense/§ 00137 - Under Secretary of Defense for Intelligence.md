@@ -16,6 +16,66 @@ Another prior section 137 was renumbered section 135 of this title.
 
 Another prior section 137 was renumbered section 140 of this title.
 
+#### Plan for Incorporation of Enterprise Query and Correlation Capability Into the Defense Intelligence Information Enterprise
+
+Pub. L. 112–81, div. A, title IX, §925, Dec. 31, 2011, 125 Stat. 1540, provided that:
+
+“(a)
+
+Plan Required.—
+
+&emsp;“(1)
+
+In general.—The Under Secretary of Defense for Intelligence shall develop a plan for the incorporation of an enterprise query and correlation capability into the Defense Intelligence Information Enterprise (DI2E).
+
+&emsp;“(2)
+
+Elements.—The plan required by paragraph (1) shall—
+
+&emsp;&emsp;“(A) include an assessment of all the current and planned advanced query and correlation systems which operate on large centralized databases that are deployed or to be deployed in elements of the Defense Intelligence Information Enterprise; and
+
+&emsp;&emsp;“(B) determine where duplication can be eliminated, how use of these systems can be expanded,whether these systems can be operated collaboratively, and whether they can and should be integrated with the enterprise-wide query and correlation capability required pursuant to paragraph (1).
+
+“(b)
+
+Pilot Program.—
+
+&emsp;“(1)
+
+In general.—The Under Secretary shall conduct a pilot program to demonstrate an enterprisewide query and correlation capability through the Defense Intelligence Information Enterprise program.
+
+&emsp;“(2)
+
+Purpose.—The purpose of the pilot program shall be to demonstrate the capability of an enterprisewide query and correlation system to achieve the following:
+
+&emsp;&emsp;“(A) To conduct complex, simultaneous queries by a large number of users and analysts across numerous, large distributed data stores with response times measured in seconds.
+
+&emsp;&emsp;“(B) To be scaled up to operate effectively on all the data holdings of the Defense Intelligence Information Enterprise.
+
+&emsp;&emsp;“(C) To operate across multiple levels of security with data guards.
+
+&emsp;&emsp;“(D) To operate effectively on both unstructured data and structured data.
+
+&emsp;&emsp;“(E) To extract entities, resolve them, and (as appropriate) mask them to protect sources and methods, privacy, or both.
+
+&emsp;&emsp;“(F) To control access to data by means of on-line electronic user credentials, profiles, and authentication.
+
+&emsp;“(3)
+
+Termination.—The pilot program conducted under this subsection shall terminate on September 30, 2014.
+
+“(c)
+
+Report.—Not later than November 1, 2012, the Under Secretary shall submit to the appropriate committees of Congress a report on the actions undertaken by the Under Secretary to carry out this section. The report shall set forth the plan developed under subsection (a) and a description and assessment of the pilot program conducted under subsection (b).
+
+“(d)
+
+Appropriate Committees of Congress Defined.—In this section, the term ‘appropriate committees of Congress’ means—
+
+&emsp;“(1) the Committee on Armed Services, the Committee on Appropriations, and the Select Committee on Intelligence of the Senate; and
+
+&emsp;“(2) the Committee on Armed Services, the Committee on Appropriations, and the Permanent Select Committee on Intelligence of the House of Representatives.”
+
 #### Relationship to Authorities Under National Security Act of 1947
 
 Pub. L. 107–314, div. A, title IX, §901(d), Dec. 2, 2002, 116 Stat. 2620, provided that: “Nothing in section 137 of title 10, United States Code, as added by subsection (a), shall supersede or modify the authorities of the Secretary of Defense and the Director of Central Intelligence as established by the National Security Act of 1947 (50 U.S.C. 401 et seq.).”

@@ -48,7 +48,7 @@ In awarding grants under this section, the Secretary shall give priority to elig
 
 &emsp;To be eligible for acceptance to a program funded through a grant awarded under this section, an individual shall—
 
-&emsp;&emsp;(A) be licensed or eligible for licensure in the State in which the program is located as an advanced practice registered nurse or advanced practice nurse and be eligible or board-certified as a family nurse practitioner; and
+&emsp;&emsp;(A) be licensed or eligible for licensure in the State in which the program is located asan advanced practice registered nurse or advanced practice nurse and be eligible or board-certified as a family nurse practitioner; and
 
 &emsp;&emsp;(B) demonstrate commitment to a career as a primary care provider in a FQHC or in a NMHC.
 
@@ -66,7 +66,7 @@ Each grant awarded under this section shall be in an amount not to exceed $600,0
 
 #### (h) Technical assistance grants
 
-The Secretary may award technical assistance grants to 1 or more FQHCs or NMHCs that havedemonstrated expertise in establishing a nurse practitioner residency training program. Such technical assistance grants shall be for the purpose of providing technical assistance to other recipients of grants under subsection (c).
+The Secretary may award technical assistance grants to 1 or more FQHCs or NMHCs that have demonstrated expertise in establishing a nurse practitioner residency training program. Such technical assistance grants shall be for the purpose of providing technical assistance to other recipients of grants under subsection (c).
 
 #### (i) Authorization of appropriations
 

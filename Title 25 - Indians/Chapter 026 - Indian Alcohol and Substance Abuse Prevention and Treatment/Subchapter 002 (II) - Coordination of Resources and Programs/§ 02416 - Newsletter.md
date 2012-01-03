@@ -24,7 +24,7 @@ The Secretary of the Interior shall publish an alcohol and substance abuse newsl
 
 #### (b) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section $500,000 for fiscal year 1993 and such sums as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000.
+There are authorized to be appropriated to carry out this section $500,000 for fiscal year 1993and such sums as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000.
 
 (Pub. L. 99–570, title IV, §4210, Oct. 27, 1986, 100 Stat. 3207–143; Pub. L. 100–690, title II, §2218, Nov. 18, 1988, 102 Stat. 4222; Pub. L. 102–573, title VII, §703(3), Oct. 29, 1992, 106 Stat. 4583.)
 

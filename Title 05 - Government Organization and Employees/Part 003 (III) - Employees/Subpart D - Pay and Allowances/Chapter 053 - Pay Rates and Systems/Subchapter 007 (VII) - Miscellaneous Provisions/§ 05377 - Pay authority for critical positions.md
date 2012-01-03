@@ -64,7 +64,7 @@ Level I of the Executive Schedule, referred to in subsec. (d)(2), is set out in 
 
 #### Amendments
 
-2004—Subsec. (a)(2)(G). Pub. L. 108–447 added subpar. (G).
+<b>2004</b>—Subsec. (a)(2)(G). Pub. L. 108–447 added subpar. (G).
 
 Subsec. (c). Pub. L. 108–411, §102(1), (2), substituted “Office of Management and Budget” for “Office of Personnel Management” and “Office of Personnel Management” for “Office of Management and Budget”.
 
@@ -74,7 +74,7 @@ Subsec. (g). Pub. L. 108–411, §102(1)–(3), substituted “Office of Personn
 
 Subsec. (h). Pub. L. 108–411, §102(2), (4), in introductory provisions, substituted “Office of Personnel Management” for “Office of Management and Budget” and “Committee on Government Reform” for “Committee on Post Office and Civil Service”.
 
-1992—Subsec. (a)(2)(E), (F). Pub. L. 102–378, §2(34)(A), added subpars. (E) and (F).
+<b>1992</b>—Subsec. (a)(2)(E), (F). Pub. L. 102–378, §2(34)(A), added subpars. (E) and (F).
 
 Subsec. (i). Pub. L. 102–378, §2(34)(B), added subsec. (i).
 

@@ -114,7 +114,7 @@ Pub. L. 94–12, §303(b), substituted “$50,000” for “$25,000”.
 
 Subsec. (f). Pub. L. 89–809, §104(b)(2)(B), added subsec. (f).
 
-<b>1964</b>—Subsec. (b). Pub. L. 88–272 applied the 30 percent tax to years beginning before Jan. 1, 1964 instead of July 1, 1964 in par. (1), and in par. (2), reduced the rate from 25 percent to 22 percent, and applied it to years beginning after Dec. 31, 1963, instead of June 30, 1964.
+<b>1964</b>—Subsec. (b). Pub. L. 88–272 applied the 30 percent tax to years beginning before Jan. 1, 1964 instead ofJuly 1, 1964 in par. (1), and in par. (2), reduced the rate from 25 percent to 22 percent, and applied it to years beginning after Dec. 31, 1963, instead of June 30, 1964.
 
 Subsec. (c). Pub. L. 88–272 increased the percentage from 22 to 28 for taxable years beginning after Dec. 31, 1963, and before Jan. 1, 1965, and to 26 percent for taxable years beginning after Dec. 31, 1964. The surtax exemption previously carried in subsec. (c), is now stated in subsec. (d).
 

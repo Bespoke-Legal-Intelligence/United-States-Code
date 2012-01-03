@@ -80,7 +80,7 @@ Section was enacted as part of the Thrift Institutions Restructuring Act and als
 
 #### Amendments
 
-1983—Subsec. (d). Pub. L. 98–181 substituted “With respect to a real property loan secured by a lien on residential real property containing less than five dwelling units, including a lien on the stock allocated to a dwelling unit in a cooperative housing corporation, or on a residential manufactured home, a lender” for “A lender”.
+<b>1983</b>—Subsec. (d). Pub. L. 98–181 substituted “With respect to a real property loan secured by a lien on residential real property containing less than five dwelling units, including a lien on the stock allocated to a dwelling unit in a cooperative housing corporation, or on a residential manufactured home, a lender” for “A lender”.
 
 #### Termination of Trust Territory of the Pacific Islands
 

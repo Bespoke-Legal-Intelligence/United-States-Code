@@ -6,7 +6,7 @@ Except as provided in subsection (b)(2) of section 948 of this title, notwithsta
 
 #### Amendments
 
-1994—Pub. L. 103–354 substituted “Secretary” for “Administrator”.
+<b>1994</b>—Pub. L. 103–354 substituted “Secretary” for “Administrator”.
 
 #### Effective Date
 

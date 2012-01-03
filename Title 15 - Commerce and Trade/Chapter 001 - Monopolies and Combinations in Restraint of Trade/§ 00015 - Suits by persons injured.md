@@ -50,5 +50,5 @@ Section supersedes two former similar sections enacted by act July 2, 1890, ch. 
 
 #### Effective Date of 1980 Amendment
 
-Section 4(b) of Pub. L. 96–349 provided that: “The amendments made by this section \[amending this section and sections 15a and 15c of this title\] shall apply only with respect to actions commenced after the date of the enactment of this Act \[Sept 12, 1980\].”
+Pub. L. 96–349, §4(b), Sept. 12, 1980, 94 Stat. 1157, provided that: “The amendments made by this section \[amending this section and sections 15a and 15c of this title\] shall apply only with respect to actions commenced after the date of the enactment of this Act \[Sept 12, 1980\].”
 

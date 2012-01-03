@@ -34,23 +34,23 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Pub. L. 110–246, §6102(a), designated first, second, and third sentences as subsecs. (a), (b), and (d), respectively, and added subsec. (c).
+<b>2008</b>—Pub. L. 110–246, §6102(a), designated first, second, and third sentences as subsecs. (a), (b), and (d), respectively, and added subsec. (c).
 
 Pub. L. 110–246, §6101, inserted “efficiency and” before “conservation” in first sentence.
 
-1996—Pub. L. 104–127, in first sentence, struck out “for the furnishing of electric energy to persons in rural areas who are not receiving central station service and” after “transmission and distribution lines or systems” and substituted “section 903 of this title,” for “the provisions of sections 903(d) and 903(e) of this title but without regard to the 25 per centum limitation therein contained,”, in second sentence, substituted “, except that” for “: <i>Provided, further</i>, That all such loans shall be self-liquidating within a period of not to exceed thirty-five years, and shall bear interest at the rate of 2 per centum per annum; interest rates on the unmatured and unpaid balance of any loans made pursuant to this section prior to September 21, 1944, shall be adjusted to 2 per centum per annum, and the maturity date of any such loans may be readjusted to occur at a date not beyond thirty-five years from the date of such loan: <i>And provided further</i>, That”, and in third sentence, struck out “and section 905 of this title” before “shall not be made”.
+<b>1996</b>—Pub. L. 104–127, in first sentence, struck out “for the furnishing of electric energy to persons in rural areas who are not receiving central station service and” after “transmission and distribution lines or systems” and substituted “section 903 of this title,” for “the provisions of sections 903(d) and 903(e) of this title but without regard to the 25 per centum limitation therein contained,”, in second sentence, substituted “, except that” for “: <i>Provided, further</i>, That all such loans shall be self-liquidating within a period of not to exceed thirty-five years, and shall bear interest at the rate of 2 per centum per annum; interest rates on the unmatured and unpaid balance of any loans made pursuant to this section prior to September 21, 1944, shall be adjusted to 2 per centum per annum, and the maturity date of any such loans may be readjusted to occur at a date not beyond thirty-five years from the date of such loan: <i>And provided further</i>, That”, and in third sentence, struck out “and section 905 of this title” before “shall not be made”.
 
-1994—Pub. L. 103–354 substituted “Secretary” for “Administrator”.
+<b>1994</b>—Pub. L. 103–354 substituted “Secretary” for “Administrator”.
 
-1993—Pub. L. 103–129 inserted “and for the furnishing and improving of electric service to persons in rural areas, including by assisting electric borrowers to implement demand side management, energy conservation programs, and on-grid and off-grid renewable energy systems” after “central station service”.
+<b>1993</b>—Pub. L. 103–129 inserted “and for the furnishing and improving of electric service to persons in rural areas, including by assisting electric borrowers to implement demand side management, energy conservation programs, and on-grid and off-grid renewable energy systems” after “central station service”.
 
-1955—Act June 15, 1955, substituted “25 per centum” for “10 per centum”.
+<b>1955</b>—Act June 15, 1955, substituted “25 per centum” for “10 per centum”.
 
-1949—Act Oct. 28, 1949, inserted “for rural electrification” after “to make loans” in first sentence, and inserted “title I,” in credit of act May 20, 1936.
+<b>1949</b>—Act Oct. 28, 1949, inserted “for rural electrification” after “to make loans” in first sentence, and inserted “title I,” in credit of act May 20, 1936.
 
-1948—Act June 29, 1948, permitted certain municipalities to refinance with R.E.A. their indebtedness with T.V.A.
+<b>1948</b>—Act June 29, 1948, permitted certain municipalities to refinance with R.E.A. their indebtedness with T.V.A.
 
-1944—Act Dec. 23, 1944, inserted provision authorizing loans to cooperative associations to enable them to discharge or refinance debts owed to the Tennessee Valley Authority.
+<b>1944</b>—Act Dec. 23, 1944, inserted provision authorizing loans to cooperative associations to enable them to discharge or refinance debts owed to the Tennessee Valley Authority.
 
 Act Sept. 21, 1944, extended limit of self-liquidating period from 25 to 35 years and changing the rate of interest.
 

@@ -6,7 +6,7 @@ The debtor shall file a list of creditors.
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 924 of the House amendment is derived from section 924 of the House bill with the location of the filing of the list of creditors to be determined by the rules of bankruptcy procedure. The detailed requirements of section 724 \[probably should be “924”\] of the Senate bill are anticipated to be incorporated in the rules of bankruptcy procedure.
 

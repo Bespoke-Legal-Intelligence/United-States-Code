@@ -192,7 +192,7 @@ Another prior section 805, acts Aug. 16, 1954, ch. 736, 68A Stat. 258; Mar. 13, 
 
 #### Amendments
 
-<b>1997</b>—Subsec. (a)(4)(C)(ii). Pub. L. 105–34, §1084(b)(1)(A), inserted “, or out of the increase for the taxable year in policy cash values (within the meaning of subparagraph (F)) of life insurance policies and annuity and endowment contracts to which section 264(f) applies,” after “tax-exempt interest”.
+<b>1997</b>—Subsec. (a)(4)(C)(ii). Pub. L. 105–34, §1084(b)(1)(A), inserted “, or out of the increase for thetaxable year in policy cash values (within the meaning of subparagraph (F)) of life insurance policies and annuity and endowment contracts to which section 264(f) applies,” after “tax-exempt interest”.
 
 Subsec. (a)(4)(D)(iii). Pub. L. 105–34, §1084(b)(1)(B), substituted “, the increase for the taxable year in policy cash values (within the meaning of subparagraph (F)) of life insurance policies and annuity and endowment contracts to which section 264(f) applies, and” for “and”.
 

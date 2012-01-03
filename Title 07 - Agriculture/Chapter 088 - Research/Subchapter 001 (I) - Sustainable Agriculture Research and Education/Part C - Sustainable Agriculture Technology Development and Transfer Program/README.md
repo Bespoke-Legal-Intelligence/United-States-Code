@@ -1,7 +1,5 @@
 Part C—Sustainable Agriculture Technology Development and Transfer Program
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
 
 ---
 

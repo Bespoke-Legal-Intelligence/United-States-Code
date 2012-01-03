@@ -4,7 +4,7 @@
 
 #### (1) Specific disclosures
 
-&emsp;In addition to other disclosures required under this subchapter, for each mortgage referred to in section 1602(aa) of this title, the creditor shall provide the following disclosures in conspicuous type size:
+&emsp;In addition to other disclosures required under this subchapter, for each mortgage referred to in section 1602(aa) <sup>1</sup> of this title, the creditor shall provide the following disclosures in conspicuous type size:
 
 &emsp;&emsp;(A) “You are not required to complete this agreement merely because you have received these disclosures or have signed a loan application.”.
 
@@ -44,7 +44,7 @@
 
 #### (3) Modifications
 
-&emsp;The Board may, if it finds that such action is necessary to permit homeowners to meetbona fide personal financial emergencies, prescribe regulations authorizing the modification or waiver of rights created under this subsection, to the extent and under the circumstances set forth in those regulations.
+&emsp;The Bureau may, if it finds that such action is necessary to permit homeowners to meet bona fide personal financial emergencies, prescribe regulations authorizing the modification or waiver of rights created under this subsection, to the extent and under the circumstances set forth in those regulations.
 
 #### (c) No Prepayment penalty
 
@@ -52,7 +52,7 @@
 
 #### (A) Limitation on terms
 
-&emsp;&emsp;A mortgage referred to in section 1602(aa) of this title may not contain terms under which a consumer must pay a prepayment penalty for paying all or part of the principal before the date on which the principal is due.
+&emsp;&emsp;A mortgage referred to in section 1602(aa) <sup>1</sup> of this title may not contain terms under which a consumer must pay a prepayment penalty for paying all or part of the principal before the date on which the principal is due.
 
 #### (B) Construction
 
@@ -60,7 +60,7 @@
 
 #### (2) Exception
 
-&emsp;Notwithstanding paragraph (1), a mortgage referred to in section 1602(aa) of this title may contain a prepayment penalty (including terms calculating a refund by a method that is not prohibited under section 1615(b) of this title for the transaction in question) if—
+&emsp;Notwithstanding paragraph (1), a mortgage referred to in section 1602(aa) <sup>1</sup> of this title may contain a prepayment penalty (including terms calculating a refund by a method that is not prohibited under section 1615(b) of this title for the transaction in question) if—
 
 &emsp;&emsp;(A) at the time the mortgage is consummated—
 
@@ -76,27 +76,27 @@
 
 #### (d) Limitations after default
 
-A mortgage referred to in section 1602(aa) of this title may not provide for an interest rate applicable after default that is higher than the interest rate that applies before default. If the date of maturity of a mortgage referred to in subsection <sup>1</sup> 1602(aa) of this title is accelerated due to default and the consumer is entitled to a rebate of interest, that rebate shall be computed by any method that is not less favorable than the actuarial method (as that term is defined in section 1615(d) of this title).
+A mortgage referred to in section 1602(aa) <sup>1</sup> of this title may not provide for an interest rate applicable after default that is higher than the interest rate that applies before default. If the date of maturity of a mortgage referred to in subsection <sup>2</sup> 1602(aa) <sup>1</sup> of this title is accelerated due to default and the consumer is entitled to a rebate of interest, that rebate shall be computed by any method that is not less favorable than the actuarial method (as that term is defined in section 1615(d) of this title).
 
 #### (e) No balloon payments
 
-A mortgage referred to in section 1602(aa) of this title having a term of less than 5 years may not include terms under which the aggregate amount of the regular periodic payments would not fully amortize the outstanding principal balance.
+A mortgage referred to in section 1602(aa) <sup>1</sup> of this title having a term of less than 5 years may not include terms under which the aggregate amount of the regular periodic payments would not fully amortize the outstanding principal balance.
 
 #### (f) No negative amortization
 
-A mortgage referred to in section 1602(aa) of this title may not include terms under which the outstanding principal balance will increase at any time over the course of the loan because the regular periodic payments do not cover the full amount of interest due.
+A mortgage referred to in section 1602(aa) <sup>1</sup> of this title may not include terms under which the outstanding principal balance will increase at any time over the course of the loan because the regular periodic payments do not cover the full amount of interest due.
 
 #### (g) No prepaid payments
 
-A mortgage referred to in section 1602(aa) of this title may not include terms under which more than 2 periodic payments required under the loan are consolidated and paid in advance from the loan proceeds provided to the consumer.
+A mortgage referred to in section 1602(aa) <sup>1</sup> of this title may not include terms under which more than 2 periodic payments required under the loan are consolidated and paid in advance from the loan proceeds provided to the consumer.
 
 #### (h) Prohibition on extending credit without regard to payment ability of consumer
 
-A creditor shall not engage in a pattern or practice of extending credit to consumers under mortgages referred to in section 1602(aa) of this title based on the consumers’ collateral without regard to the consumers’ repayment ability, including the consumers’ current and expected income, current obligations, and employment.
+A creditor shall not engage in a pattern or practice of extending credit to consumers under mortgages referred to in section 1602(aa) <sup>1</sup> of this title based on the consumers’ collateral without regard to the consumers’ repayment ability, including the consumers’ current and expected income, current obligations, and employment.
 
 #### (i) Requirements for payments under home improvement contracts
 
-A creditor shall not make a payment to a contractor under a home improvement contract from amounts extended as credit under a mortgage referred to in section 1602(aa) of this title, other than—
+A creditor shall not make a payment to a contractor under a home improvement contract from amounts extended as credit under a mortgage referred to in section 1602(aa) <sup>1</sup> of this title, other than—
 
 &emsp;(1) in the form of an instrument that is payable to the consumer or jointly to the consumer and the contractor; or
 
@@ -110,11 +110,11 @@ Any mortgage that contains a provision prohibited by this section shall be deeme
 
 For purposes of this section, the term “affiliate” has the same meaning as in section 1841(k) of title 12.
 
-#### (<i>l</i>) Discretionary regulatory authority of Board
+#### (<i>l</i>) Discretionary regulatory authority of Bureau
 
 #### (1) Exemptions
 
-&emsp;The Board may, by regulation or order, exempt specific mortgage products or categories of mortgages from any or all of the prohibitions specified in subsections (c) through (i) ofthis section, if the Board finds that the exemption—
+&emsp;The Bureau may, by regulation or order, exempt specific mortgage products or categories of mortgages from any or all of the prohibitions specified in subsections (c) through (i) of this section, if the Bureau finds that the exemption—
 
 &emsp;&emsp;(A) is in the interest of the borrowing public; and
 
@@ -122,29 +122,19 @@ For purposes of this section, the term “affiliate” has the same meaning as i
 
 #### (2) Prohibitions
 
-&emsp;The Board, by regulation or order, shall prohibit acts or practices in connection with—
+&emsp;The Bureau, by regulation or order, shall prohibit acts or practices in connection with—
 
-&emsp;&emsp;(A) mortgage loans that the Board finds to be unfair, deceptive, or designed to evade the provisions of this section; and
+&emsp;&emsp;(A) mortgage loans that the Bureau finds to be unfair, deceptive, or designed to evade the provisions of this section; and
 
-&emsp;&emsp;(B) refinancing of mortgage loans that the Board finds to be associated with abusive lending practices, or that are otherwise not in the interest of the borrower.
+&emsp;&emsp;(B) refinancing of mortgage loans that the Bureau finds to be associated with abusive lending practices, or that are otherwise not in the interest of the borrower.
 
 #### (m) Civil penalties in Federal Trade Commission enforcement actions
 
-For purposes of enforcement by the Federal Trade Commission, any violation of a regulation issued by the Federal Reserve Board pursuant to subsection (<i>l</i>)(2) of this section shall be treated as a violation of a rule promulgated under section 57a of this title regarding unfair or deceptive acts or practices.
+For purposes of enforcement by the Federal Trade Commission, any violation of a regulation issued by the Bureau pursuant to subsection\(<i>l</i>)(2) shall be treated as a violation of a rule promulgated under section 57a of this title regarding unfair or deceptive acts or practices.
 
 (Pub. L. 90–321, title I, §129, as added Pub. L. 103–325, title I, §152(d), Sept. 23, 1994, 108 Stat. 2191; amended Pub. L. 111–8, div. D, title VI, §626(c), Mar. 11, 2009, 123 Stat. 679; Pub. L. 111–203, title X, §1100A(2), (9), title XIV, §§1432, 1433, July 21, 2010, 124 Stat. 2107, 2109, 2160.)
 
 #### Amendment of Section
-
-<i>Pub. L. 111–203, title X, §§1100A(2), (9), 1100H, July 21, 2010, 124 Stat. 2107, 2109, 2113, provided that, effective on the designated transfer date, this section is amended as follows:</i>
-
-<i>(1) by striking “Board” each place that term appears and inserting “Bureau”; and</i>
-
-<i>(2) by striking subsection (m) and inserting the following:</i>
-
-#### <i>“(m) Civil penalties in Federal Trade Commission enforcement actions</i>
-
-<i>“For purposes of enforcement by the Federal Trade Commission, any violation of a regulation issued by the Bureau pursuant to subsection (l)(2) shall be treated as a violation of a rule promulgated under section 57a of this title regarding unfair or deceptive acts or practices.”</i>
 
 <i>Pub. L. 111–203, title XIV, §§1400(c), 1432, 1433, July 21, 2010, 124 Stat. 2136, 2160, provided that, effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, this section is amended as follows:</i>
 
@@ -226,7 +216,7 @@ For purposes of enforcement by the Federal Trade Commission, any violation of a 
 
 #### <i>“(C) Fee disclosure</i>
 
-&emsp;&emsp;<i>“Prior to charging a transaction fee as provided in subparagraph (B), a creditor or servicer shall disclose that payoff balances are available for free pursuant to subparagraph (A).</i>
+&emsp;&emsp;<i>“Prior to charging a transaction fee as provided in subparagraph (B), a creditor or serv</i><i>icer shall disclose that payoff balances are available for free pursuant to subparagraph (A).</i>
 
 #### <i>“(D) Multiple requests</i>
 
@@ -268,6 +258,10 @@ For purposes of enforcement by the Federal Trade Commission, any violation of a 
 
 <i>See Effective Date of 2010 Amendment notes below.</i>
 
+#### References in Text
+
+Section 1602(aa) of this title, referred to in text, was redesignated section 1602(bb) of this title by Pub. L. 111–203, title X, §1100A(1)(A), July 21, 2010, 124 Stat. 2107.
+
 #### Codification
 
 Another section 129 of Pub. L. 90–321 is classified to section 1639a of this title.
@@ -278,6 +272,10 @@ A prior section 1639, Pub. L. 90–321, title I, §129, May 29, 1968, 82 Stat. 1
 
 #### Amendments
 
+<b>2010</b>—Pub. L. 111–203, §1100A(2), substituted “Bureau” for “Board” wherever appearing.
+
+Subsec. (m). Pub. L. 111–203, §1100A(9), added subsec. (m) and struck out former subsec. (m). Prior to amendment, text read as follows: “For purposes of enforcement by the Federal Trade Commission, any violation of a regulation issued by the Federal Reserve Board pursuant to subsection (<i>l</i>)(2) of this section shall be treated as a violation of a rule promulgated under section 57a of this title regarding unfair or deceptive acts or practices.”
+
 <b>2009</b>—Subsec. (m). Pub. L. 111–8 added subsec. (m).
 
 #### Effective Date of 2010 Amendment
@@ -286,5 +284,7 @@ Amendment by section 1100A(2), (9) of Pub. L. 111–203 effective on the designa
 
 Amendment by sections 1432 and 1433 of Pub. L. 111–203 effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as a note under section 1601 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “section”.</i>
 

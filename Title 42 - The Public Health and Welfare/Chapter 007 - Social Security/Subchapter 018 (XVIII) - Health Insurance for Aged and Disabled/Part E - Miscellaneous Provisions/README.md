@@ -36,7 +36,7 @@ Part E—Miscellaneous Provisions
 - [&sect; 01395nn - Limitation on certain physician referrals](%C2%A7%2001395nn%20-%20Limitation%20on%20certain%20physician%20referrals.md)
 - [&sect; 01395oo - Provider Reimbursement Review Board](%C2%A7%2001395oo%20-%20Provider%20Reimbursement%20Review%20Board.md)
 - [&sect; 01395pp - Limitation on liability where claims are disallowed](%C2%A7%2001395pp%20-%20Limitation%20on%20liability%20where%20claims%20are%20disallowed.md)
-- [&sect; 01395qq - Indian Health Service Facilities](%C2%A7%2001395qq%20-%20Indian%20Health%20Service%20Facilities.md)
+- [&sect; 01395qq - Indian Health Service facilities](%C2%A7%2001395qq%20-%20Indian%20Health%20Service%20facilities.md)
 - [&sect; 01395rr - End stage renal disease program](%C2%A7%2001395rr%20-%20End%20stage%20renal%20disease%20program.md)
 - [&sect; 01395rr&#8211;1 - Medicare coverage for individuals exposed to environmental health hazards](%C2%A7%2001395rr%E2%80%931%20-%20Medicare%20coverage%20for%20individuals%20exposed%20to%20environmental%20health%20hazards.md)
 - [&sect; 01395ss - Certification of medicare supplemental health insurance policies](%C2%A7%2001395ss%20-%20Certification%20of%20medicare%20supplemental%20health%20insurance%20policies.md)

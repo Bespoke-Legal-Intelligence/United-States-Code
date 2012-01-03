@@ -18,5 +18,5 @@ Subsec. (c) of section 1004 of act Jan. 27, 1948, provided that: “Any referenc
 
 #### Effectiveness of Executive Orders and Regulations Under Act May 25, 1938, Ch. 277, 52 Stat. 442
 
-Subsec. (b) of section 1004 of act Jan. 27, 1948, provided that: “Existing Executive orders and regulations pertaining to the administration of such Act of May 25, 1938, as amended \[former section 118e of former Title 5, Executive Departments and Government Officers and Employees\], shall remain in effect until superseded by regulations prescribed under the provisions of this Act \[this chapter\].”
+Subsec. (b) of section 1004 of act Jan. 27, 1948, provided that: “Existing Executive orders and regulationspertaining to the administration of such Act of May 25, 1938, as amended \[former section 118e of former Title 5, Executive Departments and Government Officers and Employees\], shall remain in effect until superseded by regulations prescribed under the provisions of this Act \[this chapter\].”
 

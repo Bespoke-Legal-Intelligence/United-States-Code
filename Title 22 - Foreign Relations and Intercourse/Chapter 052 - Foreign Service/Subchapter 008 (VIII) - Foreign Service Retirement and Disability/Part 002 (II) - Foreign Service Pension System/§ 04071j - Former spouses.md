@@ -24,7 +24,7 @@
 
 (5) Notwithstanding subsection (a)(1) of this section, in the case of any former spouse of a disability annuitant—
 
-&emsp;(A) the annuity of the former spouse shall commence on the date the participant would qualify, on the basis of his or her creditable service, for an annuity under this subchapter (other than a disability annuity) or the date the disability annuity begins, whichever is later, and
+&emsp;(A) the annuity of the former spouse shall commence on the date the participant would qualify, on the basis of his or her creditableservice, for an annuity under this subchapter (other than a disability annuity) or the date the disability annuity begins, whichever is later, and
 
 &emsp;(B) the amount of the annuity of the former spouse shall be calculated on the basis of the annuity for which the participant would otherwise so qualify.
 

@@ -114,7 +114,7 @@
 
 #### (5) Overpayments refunded without requirement that partner file claim
 
-&emsp;In the case of any overpayment by a partner which is attributable to a partnership item (or an affected item) and which may be refunded under this subchapter, to the extent practicable credit or refund of such overpayment shall be allowed or made without any requirement that the partner file a claim therefor.
+&emsp;In the case of any overpayment by a partner which is attributable to a partnership item (or an affected item) and which may be refundedunder this subchapter, to the extent practicable credit or refund of such overpayment shall be allowed or made without any requirement that the partner file a claim therefor.
 
 #### (6) Subchapter B of chapter 66 not applicable
 
@@ -156,7 +156,7 @@ For purposes of sections 6226 and 6228, a principal place of business located ou
 
 #### (k) Regulations
 
-The Secretary shall prescribe such regulations as may be necessary to carry out the purposes ofthis subchapter. Any reference in this subchapter to regulations is a reference to regulations prescribed by the Secretary.
+The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this subchapter. Any reference in this subchapter to regulations is a reference to regulations prescribed by the Secretary.
 
 #### (<i>l</i>) Court rules
 

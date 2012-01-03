@@ -50,7 +50,7 @@ Act
 
 June 15, 1955, ch. 142, 69 Stat. 134.
 
-In subsection (a), the first 12 words are substituted for 14:640 (last 20 words). The words “may be transferred” are substituted for the words “The interchange. . . is authorized”, since the words “without compensation” authorize a simple one-way transfer, while the word “interchange” normally means a mutual exchange. The words “military stores . . . and equipment of every character” are omitted as covered by the word “supplies” as defined in section 101(26) of this title. The words “armed force” are substituted for the enumeration of the armed forces.
+In subsection (a), the first 12 words are substituted for 14:640 (last 20 words). The words “may be transferred” are substituted for the words “The interchange . . . is authorized”, since the words “without compensation” authorize a simple one-way transfer, while the word “interchange” normally means a mutual exchange. The words “military stores . . . and equipment of every character” are omitted as covered by the word “supplies” as defined in section 101(26) of this title. The words “armed force” are substituted for the enumeration of the armed forces.
 
 #### Amendments
 

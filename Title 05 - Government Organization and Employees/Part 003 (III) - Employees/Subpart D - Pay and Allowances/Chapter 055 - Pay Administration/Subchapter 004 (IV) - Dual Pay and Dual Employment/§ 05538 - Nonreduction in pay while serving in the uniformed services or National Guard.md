@@ -42,7 +42,7 @@
 
 #### Amendments
 
-2009—Subsec. (b). Pub. L. 111–117 added subsec. (b) and struck out former subsec. (b), which read as follows:
+<b>2009</b>—Subsec. (b). Pub. L. 111–117 added subsec. (b) and struck out former subsec. (b), which read as follows:
 
 “(b)(1) Amounts under this section shall be payable with respect to each pay period (which would otherwise apply if the employee's civilian employment had not been interrupted)—
 

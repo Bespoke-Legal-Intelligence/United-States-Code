@@ -23,11 +23,11 @@
 
 #### Amendments
 
-1990—Pub. L. 101–650, title III, §325(a)(2), Dec. 1, 1990, 104 Stat. 5120, added item 15 “Inapplicability of the Act of State doctrine” and redesignated former item 15 “Appeals” as 16.
+<b>1990</b>—Pub. L. 101–650, title III, §325(a)(2), Dec. 1, 1990, 104 Stat. 5120, added item 15 “Inapplicability of the Act of State doctrine” and redesignated former item 15 “Appeals” as 16.
 
-1988—Pub. L. 100–702, title X, §1019(b), Nov. 19, 1988, 102 Stat. 4671, added item 15 relating to appeals.
+<b>1988</b>—Pub. L. 100–702, title X, §1019(b), Nov. 19, 1988, 102 Stat. 4671, added item 15 relating to appeals.
 
-1970—Pub. L. 91–368, §3, July 31, 1970, 84 Stat. 693, designated existing sections 1 through 14 as “Chapter 1” and added heading for Chapter 1.
+<b>1970</b>—Pub. L. 91–368, §3, July 31, 1970, 84 Stat. 693, designated existing sections 1 through 14 as “Chapter 1” and added heading for Chapter 1.
 
 
 ---

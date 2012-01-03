@@ -72,7 +72,7 @@ The holder of the certificate of public convenience and necessity issued, modifi
 
 #### (2) Exception
 
-&emsp;The rates of shippers of subscribed capacity on an Alaska natural gas transportationproject described in paragraph (1), as in effect as of the date on which access under that paragraph is granted, shall not be increased as a result of such access.
+&emsp;The rates of shippers of subscribed capacity on an Alaska natural gas transportation project described in paragraph (1), as in effect as of the date on which access under that paragraph is granted, shall not be increased as a result of such access.
 
 #### (i) Regulations
 

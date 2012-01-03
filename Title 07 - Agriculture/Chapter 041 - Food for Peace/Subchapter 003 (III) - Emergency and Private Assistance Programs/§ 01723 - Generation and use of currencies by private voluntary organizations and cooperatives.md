@@ -26,9 +26,9 @@ Proceeds generated from any partial or full sale or barter of commodities by a p
 
 #### Amendments
 
-2008—Subsec. (b). Pub. L. 110–246 inserted “in” before “1 or more recipient countries”.
+<b>2008</b>—Subsec. (b). Pub. L. 110–246 inserted “in” before “1 or more recipient countries”.
 
-2002—Pub. L. 107–171, §3003(1), struck out “foreign” before “currencies” in section catchline.
+<b>2002</b>—Pub. L. 107–171, §3003(1), struck out “foreign” before “currencies” in section catchline.
 
 Subsec. (a). Pub. L. 107–171, §3003(2), substituted “1 or more recipient countries, or 1 or more countries” for “the recipient country, or in a country”.
 
@@ -42,7 +42,7 @@ Subsec. (d)(2). Pub. L. 107–171, §3003(5)(B), substituted “income-generatin
 
 Subsec. (d)(3). Pub. L. 107–171, §3003(5)(C), inserted comma after “invested” and after “investment may be used”.
 
-1996—Subsec. (a). Pub. L. 104–127, §208(1), inserted “, or in a country in the same region,” after “in the recipient country”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–127, §208(1), inserted “, or in a country in the same region,” after “in the recipient country”.
 
 Subsec. (b). Pub. L. 104–127, §208(2), inserted “or in countries in the same region,” after “in recipient countries,” and substituted “15 percent” for “10 percent”.
 
@@ -50,25 +50,25 @@ Subsec. (c). Pub. L. 104–127, §208(3), inserted “or in a country in the sam
 
 Subsec. (d)(2). Pub. L. 104–127, §208(4), inserted “or within a country in the same region” after “recipient country”.
 
-1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions relating to the payment of costs and charges by the Commodity Credit Corporation for packaging, enrichment, preservation, processing, transportation, handling, and other incidental charges relating to commodities.
+<b>1990</b>—Pub. L. 101–624 amended section generally, substituting present provisions for provisions relating to the payment of costs and charges by the Commodity Credit Corporation for packaging, enrichment, preservation, processing, transportation, handling, and other incidental charges relating to commodities.
 
-1984—Pub. L. 98–473 inserted following cl. (4): “in the case of commodities for urgent and extraordinary relief requirements, including pre-positioned commodities, transportation costs from designated points of entry or ports of entry abroad to storage and distribution sites and associated storage and distribution costs;”.
+<b>1984</b>—Pub. L. 98–473 inserted following cl. (4): “in the case of commodities for urgent and extraordinary relief requirements, including pre-positioned commodities, transportation costs from designated points of entry or ports of entry abroad to storage and distribution sites and associated storage and distribution costs;”.
 
-1977—Pub. L. 95–88 substituted “transportation from United States ports to designated points of entry abroad in the case (1) of landlocked countries, (2) where ports cannot be used effectively because of natural or other disturbances, (3) where carriers to a specific country are unavailable, or (4) where a substantial savings in costs or time can be effected by the utilization of points of entry other than ports” for “, or, in the case of landlocked countries, transportation from United States ports to designated points of entry abroad”.
+<b>1977</b>—Pub. L. 95–88 substituted “transportation from United States ports to designated points of entry abroad in the case (1) of landlocked countries, (2) where ports cannot be used effectively because of natural or other disturbances, (3) where carriers to a specific country are unavailable, or (4) where a substantial savings in costs or time can be effected by the utilization of points of entry other than ports” for “, or, in the case of landlocked countries, transportation from United States ports to designated points of entry abroad”.
 
-1966—Pub. L. 89–808 reenacted, with linguistic changes, existing provisions for payment of costs and charges, included costs of acquisition, packaging, enrichment, preservation, fortification, processing, handling, other incidents, struck out provisions for authorization of appropriations for reimbursement of CCC, limitation on amount, and use of funds for purchase of foreign currencies, now covered by section 1724 of this title, and deleted other provisions for use of agencies, organizations, and facilities in making transfers, now covered by section 1722 of this title, and provision for transfer of funds from the CCC to such other Federal agency designated by the President for payment of ocean freight costs or for purchase of foreign currencies under this subchapter.
+<b>1966</b>—Pub. L. 89–808 reenacted, with linguistic changes, existing provisions for payment of costs and charges, included costs of acquisition, packaging, enrichment, preservation, fortification, processing, handling, other incidents, struck out provisions for authorization of appropriations for reimbursement of CCC, limitation on amount, and use of funds for purchase of foreign currencies, now covered by section 1724 of this title, and deleted other provisions for use of agencies, organizations, and facilities in making transfers, now covered by section 1722 of this title, and provision for transfer of funds from the CCC to such other Federal agency designated by the President for payment of ocean freight costs or for purchase of foreign currencies under this subchapter.
 
-1964—Pub. L. 88–638 substituted “1965”; for “1961”, “1966” for “1964”, and “$400,000,000” for “$300,000,000”, inserted “or donated under said section 1431, or section 1431b or 1697 of this title”, provisions authorizing use of funds available under subchapter III, not exceeding $7,500,000 annually, to purchase foreign currencies accruing under subchapter II in order to meet costs designed to assure that commodities available under subchapters I or III are used to carry out more effectively the purposes for which such commodities are made available or to promote activities to alleviate the causes of the need for such assistance, provided that such funds are used to supplement, not substitute for, funds normally available for such purposes from other non-United States Government sources, and “or for the purchase of foreign currencies” after “ocean freight costs”.
+<b>1964</b>—Pub. L. 88–638 substituted “1965”; for “1961”, “1966” for “1964”, and “$400,000,000” for “$300,000,000”, inserted “or donated under said section 1431, or section 1431b or 1697 of this title”, provisions authorizing use of funds available under subchapter III, not exceeding $7,500,000 annually, to purchase foreign currencies accruing under subchapter II in order to meet costs designed to assure that commodities available under subchapters I or III are used to carry out more effectively the purposes for which such commodities are made available or to promote activities to alleviate the causes of the need for such assistance, provided that such funds are used to supplement, not substitute for, funds normally available for such purposes from other non-United States Government sources, and “or for the purchase of foreign currencies” after “ocean freight costs”.
 
-1961—Pub. L. 87–128 substituted authorization provision for period beginning January 1, 1961, and ending December 31, 1964, for authorization provision beginning January 1, 1960, and ending December 31, 1961, and made the annual limitation applicable to the amount programed rather than to the amount spent.
+<b>1961</b>—Pub. L. 87–128 substituted authorization provision for period beginning January 1, 1961, and ending December 31, 1964, for authorization provision beginning January 1, 1960, and ending December 31, 1961, and made the annual limitation applicable to the amount programed rather than to the amount spent.
 
-1960—Pub. L. 86–472 authorized payment for transportation from United States ports to designated points of entry abroad in the case of landlocked countries, and permitted the payment of charges for general average contributions arising out of the ocean transport of transferred commodities.
+<b>1960</b>—Pub. L. 86–472 authorized payment for transportation from United States ports to designated points of entry abroad in the case of landlocked countries, and permitted the payment of charges for general average contributions arising out of the ocean transport of transferred commodities.
 
-1959—Pub. L. 86–341 amended first sentence generally. Prior to amendment, first sentence read as follows: “Not more than $800,000,000 (including the Corporation's investment in such commodities) shall be expended for all such transfers and for other costs authorized by this subchapter.”
+<b>1959</b>—Pub. L. 86–341 amended first sentence generally. Prior to amendment, first sentence read as follows: “Not more than $800,000,000 (including the Corporation's investment in such commodities) shall be expended for all such transfers and for other costs authorized by this subchapter.”
 
-1957—Pub. L. 85–128 increased limitation on expenditures from $500,000,000 to $800,000,000.
+<b>1957</b>—Pub. L. 85–128 increased limitation on expenditures from $500,000,000 to $800,000,000.
 
-1956—Act May 28, 1956, increased limitation on expenditures from $300,000,000 to $500,000,000, and authorized payment of ocean freight charges.
+<b>1956</b>—Act May 28, 1956, increased limitation on expenditures from $300,000,000 to $500,000,000, and authorized payment of ocean freight charges.
 
 #### Effective Date of 2008 Amendment
 

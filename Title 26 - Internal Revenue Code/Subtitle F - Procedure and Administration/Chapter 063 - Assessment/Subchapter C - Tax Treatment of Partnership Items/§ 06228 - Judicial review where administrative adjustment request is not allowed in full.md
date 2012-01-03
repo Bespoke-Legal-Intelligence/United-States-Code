@@ -44,7 +44,7 @@
 
 #### (A) Administrative adjustment before filing of petition
 
-&emsp;&emsp;No petition may be filed under this subsection after the Secretary mails to the tax matters partner a notice of final partnership administrative adjustment for the partnership taxable year to which the request under section 6227 relates.
+&emsp;&emsp;No petition may be filed under this subsection after the Secretary mails to the taxmatters partner a notice of final partnership administrative adjustment for the partnership taxable year to which the request under section 6227 relates.
 
 #### (B) Administrative adjustment after filing but before hearing of petition
 

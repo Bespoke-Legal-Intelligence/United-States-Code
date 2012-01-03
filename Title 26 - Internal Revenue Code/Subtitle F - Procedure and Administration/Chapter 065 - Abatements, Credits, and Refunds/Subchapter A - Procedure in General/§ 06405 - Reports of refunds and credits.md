@@ -22,7 +22,7 @@ If any refund or credit of income taxes is attributable to the taxpayer's electi
 
 Subsec. (d). Pub. L. 101–508, §11801(c)(21)(A), struck out subsec. (d) which read as follows: “For purposes of this section, a refund or credit made under subchapter E of chapter 64 (relating to Federal collection of qualified State individual income taxes) for a taxable year shall be treated as a portion of a refund or credit of the income tax for that taxable year.”
 
-<b>1986</b>—Subsecs. (b) to (e). Pub. L. 99–514 redesignated subsecs. (c) to (e) as (b) to (d), respectively, and struck out former subsec. (b) which read as follows: “A report to Congress shall be made annually by such committee of such refunds and credits, including the names of all persons and corporations to whom amounts are credited or payments are made, together with the amounts credited or paid to each.”
+<b>1986</b>—Subsecs. (b) to (e). Pub. L. 99–514 redesignated subsecs. (c) to (e) as (b) to (d), respectively, and struckout former subsec. (b) which read as follows: “A report to Congress shall be made annually by such committee of such refunds and credits, including the names of all persons and corporations to whom amounts are credited or payments are made, together with the amounts credited or paid to each.”
 
 <b>1984</b>—Subsec. (d). Pub. L. 98–369 substituted “section 165(i)” for “section 165(h)”.
 

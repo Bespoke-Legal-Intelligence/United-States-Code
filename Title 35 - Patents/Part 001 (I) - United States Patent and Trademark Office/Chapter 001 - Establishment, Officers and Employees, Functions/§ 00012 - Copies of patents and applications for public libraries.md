@@ -2,7 +2,11 @@
 
 The Director may supply copies of specifications and drawings of patents and published applications for patents in printed or electronic form to public libraries in the United States which shall maintain such copies for the use of the public, at the rate for each year's issue established for this purpose in section 41(d) of this title.
 
-(July 19, 1952, ch. 950, 66 Stat. 794, §13; Pub. L. 97–247, §15, Aug. 27, 1982, 96 Stat. 321; renumbered §12 and amended Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4507(3), 4717(1), 4732(a)(10)(A), 4804(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–565, 1501A–580, 1501A–582, 1501A–589; Pub. L. 107–273, div. C, title III, §§13205(2)(C), 13206(b)(1)(B), (3)(B), Nov. 2, 2002, 116 Stat. 1903, 1906.)
+(July 19, 1952, ch. 950, 66 Stat. 794, §13; Pub. L. 97–247, §15, Aug. 27, 1982, 96 Stat. 321; renumbered §12 and amended Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4507(3), 4717(1), 4732(a)(10)(A), 4804(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–565, 1501A–580, 1501A–582, 1501A–589; Pub. L. 107–273, div. C, title III, §§13205(2)(C), 13206(b)(1)(B), (3)(B), Nov. 2, 2002, 116 Stat. 1903, 1906; Pub. L. 112–29, §20(j), Sept. 16, 2011, 125 Stat. 335.)
+
+#### Amendment of Section
+
+<i>Pub. L. 112–29, §20(j), (l), Sept. 16, 2011, 125 Stat. 335, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, this section is amended by striking “of this title” each place that term appears. See 2011 Amendment note below.</i>
 
 #### Historical and Revision Notes
 
@@ -15,6 +19,8 @@ The proviso in the schedule of fees of the existing statute is made a separate s
 A prior section 12 was renumbered section 11 of this title.
 
 #### Amendments
+
+<b>2011</b>—Pub. L. 112–29 struck out “of this title” after “41(d)”.
 
 <b>2002</b>—Pub. L. 107–273, §13206(b)(3)(B), amended directory language of Pub. L. 106–113, §1000(a)(9) \[title IV, §4804(c)\]. See 1999 Amendment note below.
 
@@ -31,6 +37,10 @@ Pub. L. 106–113, §1000(a)(9) \[title IV, §4717(1)\], renumbered section 13 o
 Pub. L. 106–113, §1000(a)(9) \[title IV, §4507(3)\], as amended by Pub. L. 107–273, §13205(2)(C), inserted “and applications” after “patents” in section catchline and “and published applications for patents” after “patents” in text.
 
 <b>1982</b>—Pub. L. 97–247 substituted “section 41(d)” for “section 41(a)9”.
+
+#### Effective Date of 2011 Amendment
+
+Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(<i>l</i>) of Pub. L. 112–29, set out as a note under section 2 of this title.
 
 #### Effective Date of 1999 Amendment
 

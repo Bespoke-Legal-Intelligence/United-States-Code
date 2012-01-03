@@ -4,7 +4,7 @@
 
 &emsp;(1) make contracts;
 
-&emsp;(2) sue and be sued, complain and defend, in any court of law or equity, State or Federal. All suits of a civil nature at common law or in equity to which the Board shall be a party shall be deemed to arise under the laws of the United States, and the United States district courts shall have original jurisdiction thereof, without regard to the amount in controversy. The Board may, without bond or security, remove any such action, suit, or proceeding from a State court to the United States district court for the district or division embracing the place where the same is pending by following any procedure for removal now or hereafter in effect, except that any such suit to which the Board is a party in its capacity as liquidating agent of a State-chartered credit union and which involves only the rights or obligations of members, creditors, and such State credit union under State law shall not be deemed to rise under the laws of the United States. No attachment or execution shall be issued against the Board or its property before final judgment in any suit, action, or proceeding in any State, county, municipal, or United States court. The Board shall designate an agent upon whom service of process may be made in any State, territory, or jurisdiction in which any insured credit union is located;
+&emsp;(2) sue and be sued, complain and defend, in any court of law or equity, State or Federal. All suits of a civil nature at common law or in equity to which the Board shall be a party shall be deemed to arise under the laws of the United States, and the United States district courts shall have original jurisdiction thereof, without regard to the amount in controversy. The Board may, without bond or security, remove any such action, suit, or proceeding from a State court to the United States district court for the district or division embracing the place where the same is pending by following any procedure for removal now or hereafter in effect, except that any such suit to which the Board is a party in its capacity as liquidating agent of a State-chartered credit union and which involves only the rights or obligations of members, creditors, and such State credit union under State law shall not be deemed to arise under the laws of the United States. No attachment or execution shall be issued against the Board or its property before final judgment in any suit, action, or proceeding in any State, county, municipal, or United States court. The Board shall designate an agent upon whom service of process may be made in any State, territory, or jurisdiction in which any insured credit union is located;
 
 &emsp;(3) pursue to final disposition by way of compromise or otherwise claims both for and against the United States (other than tort claims, claims involving administrative expenses, and claims in excess of $5,000 arising out of contracts for construction, repairs, and the purchase of supplies and materials) which are not in litigation and have not been referred to the Department of Justice;
 
@@ -44,13 +44,13 @@ In subsec. (b), “chapter 91 of title 31” and “section 9105 of title 31” 
 
 #### Amendments
 
-2006—Subsec. (a)(8). Pub. L. 109–351 substituted a semicolon for period at end.
+<b>2006</b>—Subsec. (a)(8). Pub. L. 109–351 substituted a semicolon for period at end.
 
-2004—Subsec. (b)(2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (b)(2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-1978—Pub. L. 95–630 substituted “Board” for “Administrator” wherever appearing, “its” for “his”, and “it” for “he” and “him”, where appropriate.
+<b>1978</b>—Pub. L. 95–630 substituted “Board” for “Administrator” wherever appearing, “its” for “his”, and “it” for “he” and “him”, where appropriate.
 
-1975—Subsec. (b)(2). Pub. L. 93–604 substituted “audited by the General Accounting Office” for “audited annually by the General Accounting Office”.
+<b>1975</b>—Subsec. (b)(2). Pub. L. 93–604 substituted “audited by the General Accounting Office” for “audited annually by the General Accounting Office”.
 
 #### Effective Date of 1978 Amendment
 

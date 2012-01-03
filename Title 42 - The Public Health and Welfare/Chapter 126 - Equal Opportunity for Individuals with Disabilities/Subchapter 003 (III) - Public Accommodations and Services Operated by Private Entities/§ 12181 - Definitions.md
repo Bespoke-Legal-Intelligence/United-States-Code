@@ -76,7 +76,7 @@ As used in this subchapter:
 
 &emsp;&emsp;(A) the nature and cost of the action needed under this chapter;
 
-&emsp;&emsp;(B) the overall financial resources of the facility or facilities involved in the action;the number of persons employed at such facility; the effect on expenses and resources, or the impact otherwise of such action upon the operation of the facility;
+&emsp;&emsp;(B) the overall financial resources of the facility or facilities involved in the action; the number of persons employed at such facility; the effect on expenses and resources, or the impact otherwise of such action upon the operation of the facility;
 
 &emsp;&emsp;(C) the overall financial resources of the covered entity; the overall size of the business of a covered entity with respect to the number of its employees; the number, type, and location of its facilities; and
 

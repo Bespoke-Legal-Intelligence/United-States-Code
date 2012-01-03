@@ -18,7 +18,7 @@ Except as otherwise provided by law, the Secretary shall interpret all Federal l
 
 #### (2) Approval
 
-&emsp;Not later than 90 days after receipt by the Secretary of a written request by an Indian tribe to waive application of a regulation for a compact or funding agreement entered into under this part, the Secretary shall either approve or deny the requested waiver in writing. A denial may be made only upon a specific finding by the Secretary that identified language in the regulation may not be waived because such waiver is prohibited by Federal law. A failure to approve or deny a waiver request not later than 90 days after receipt shall be deemed an approval of such request. The Secretary's decision shall be final for the Department.
+&emsp;Not later than 90 days after receipt by the Secretary of a written request by an Indiantribe to waive application of a regulation for a compact or funding agreement entered into under this part, the Secretary shall either approve or deny the requested waiver in writing. A denial may be made only upon a specific finding by the Secretary that identified language in the regulation may not be waived because such waiver is prohibited by Federal law. A failure to approve or deny a waiver request not later than 90 days after receipt shall be deemed an approval of such request. The Secretary's decision shall be final for the Department.
 
 #### (c) Access to Federal property
 

@@ -6,7 +6,7 @@
 
 &emsp;(A) the nature of personally identifiable information collected or to be collected with respect to the subscriber and the nature of the use of such information;
 
-&emsp;(B) the nature, frequency, and purpose of any disclosure which may be made of such information, including an identification of the types of persons to whom the disclosure may be made;
+&emsp;(B) the nature, frequency, and purpose of any disclosure which may be made of such information, including an identification of thetypes of persons to whom the disclosure may be made;
 
 &emsp;(C) the period during which such information will be maintained by the cable operator;
 
@@ -84,7 +84,7 @@ Nothing in this subchapter shall be construed to prohibit any State or any franc
 
 #### (h) Disclosure of information to governmental entity pursuant to court order
 
-Except as provided in subsection (c)(2)(D) of this section, a governmental entity may obtain personally identifiable information concerning a cable subscriber pursuant to a court order only if, in the court proceeding relevant to such court order—
+Except as provided in subsection (c)(2)(D) of this section, a governmental entity may obtainpersonally identifiable information concerning a cable subscriber pursuant to a court order only if, in the court proceeding relevant to such court order—
 
 &emsp;(1) such entity offers clear and convincing evidence that the subject of the information is reasonably suspected of engaging in criminal activity and that the information sought would be material evidence in the case; and
 

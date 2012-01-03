@@ -94,7 +94,7 @@ Subsec. (b)(7). Pub. L. 100–647, §1011B(a)(32), added par. (7).
 
 <b>1986</b>—Subsec. (a)(1). Pub. L. 99–514, §1851(c)(1), struck out “of an employer” before “shall”.
 
-Subsec. (a)(2). Pub. L. 99–514, §1851(c)(4), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Paragraph (1) shall not apply to any organization which is part of a plan maintained pursuant to 1 or more collective bargaining agreements between 1 or more employee organizations and 1 or more employers.”
+Subsec. (a)(2). Pub. L. 99–514, §1851(c)(4), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Paragraph (1) shall not apply to any organization which is part of a plan maintained pursuant to 1 or more collective bargaining agreements between 1 ormore employee organizations and 1 or more employers.”
 
 Subsec. (b)(1). Pub. L. 99–514, §1851(c)(2), (3), substituted “as otherwise provided in this subsection” for “as provided in paragraph (2)” in introductory provision, and in subpar. (B) substituted “highly compensated individuals” for “highly compensated employees”.
 
@@ -142,7 +142,7 @@ Section 204(d)(4) of Pub. L. 101–140 provided that: “The amendment made by s
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 

@@ -1204,7 +1204,7 @@ Amendment by section 101(c) \[title X, §921(b)(2), (c)(1)\] of Pub. L. 99–500
 
 #### Effective and Termination Dates of 1984 Amendments
 
-Section 401(a) of Pub. L. 103–403, as amended by Pub. L. 105–135, title V, §504, Dec. 2, 1997, 111 Stat. 2624; Pub. L. 106–554, §1(a)(9) \[title V, §504(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–696, provided that:
+Pub. L. 103–403, title IV, §401(a), Oct. 22, 1994, 108 Stat. 4190, as amended by Pub. L. 105–135, title V, §504, Dec. 2, 1997, 111 Stat. 2624; Pub. L. 106–554, §1(a)(9) \[title V, §504(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–696, provided that:
 
 “(1)
 
@@ -1218,17 +1218,17 @@ Effective date.—Paragraph (1) shall take effect on September 30, 2003.”
 
 Amendment by section 5(a)(1), (2) of Pub. L. 98–362 effective Oct. 1, 1984, and amendment by section 5(a)(2) of Pub. L. 98–362 repealed Oct. 1, 1994, see section 7 of Pub. L. 98–362, as amended, set out as a note under section 633 of this title.
 
-Section 404(b) of Pub. L. 98–577 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect with respect to any solicitation for bids or proposals issued after March 31, 1985.”
+Pub. L. 98–577, title IV, §404(b), Oct. 30, 1984, 98 Stat. 3084, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect with respect to any solicitation for bids or proposals issued after March 31, 1985.”
 
 #### Effective Date of 1983 Amendments
 
-Section 1(b)(1), (2) of Pub. L. 98–72 provided that:
+Pub. L. 98–72, §1(b)(1), (2), Aug. 11, 1983, 97 Stat. 403, provided that:
 
 “(1) Except as to the amendments made to section 8(e)(4) of the Small Business Act as added by section (a) of this Act \[subsec. (e)(4) of this section\], the amendments made by this Act \[amending this section\] shall apply to procurement actions initiated ninety days after the date of enactment of this Act \[Aug. 11, 1983\].
 
 “(2) The amendments made to section 8(e)(4) of the Small Business Act as added by section (a) of this Act shall apply to procurement actions initiated on or after October 1, 1983.”
 
-Section 1(b) of Pub. L. 98–47 provided that: “The designation of an agency pursuant to the amendment made by subsection (a) \[amending this section\] shall be made not later than sixty days after the date of enactment of this Act \[July 13, 1983\].”
+Pub. L. 98–47, §1(b), July 13, 1983, 97 Stat. 243, provided that: “The designation of an agency pursuant to the amendment made by subsection (a) \[amending this section\] shall be made not later than sixty days after the date of enactment of this Act \[July 13, 1983\].”
 
 #### Effective Date of 1980 Amendment
 
@@ -1268,7 +1268,7 @@ Definitions.—In this section—
 
 &emsp;“(1) the terms ‘Administration’ and ‘Administrator’ mean the Small Business Administration and the Administrator thereof, respectively; and
 
-&emsp;“(2) the terms ‘HUBZone small business concern’, ‘small business concern’, ‘small business concern owned and controlled by service-disabled veterans’, and ‘small business concern owned and controlled by women’ have the same meanings as in section 3 of the Small Business Act (15 U.S.C. 632).
+&emsp;“(2) the terms ‘HUBZone small business concern’, ‘small business concern’, ‘small business concern owned and controlled by service-disabled veterans’, and ‘small business concern owned and controlled bywomen’ have the same meanings as in section 3 of the Small Business Act (15 U.S.C. 632).
 
 “(b)
 
@@ -1308,15 +1308,15 @@ Pub. L. 106–50, §303(b), Aug. 17, 1999, 113 Stat. 243, provided that: “For 
 
 #### Federal Acquisition Regulation
 
-Section 416(b) of Pub. L. 105–135 provided that: “The Federal Acquisition Regulation shall be amended to provide uniform implementation of the amendments made by this section \[amending this section\].”
+Pub. L. 105–135, title IV, §416(b), Dec. 2, 1997, 111 Stat. 2620, provided that: “The Federal Acquisition Regulation shall be amended to provide uniform implementation of the amendments made by this section \[amending this section\].”
 
 #### Implementation of Amendment by Pub. L. 105–85
 
-Section 850(e)(3) of Pub. L. 105–85 provided that: “The amendments made by paragraphs (1) and (2) \[amending this section and section 416 of Title 41, Public Contracts\] shall be implemented in a manner consistent with any applicable international agreements.”
+Pub. L. 105–85, div. A, title VIII, §850(e)(3), Nov. 18, 1997, 111 Stat. 1849, provided that: “The amendments made by paragraphs (1) and (2) \[amending this section and section 416 of Title 41, Public Contracts\] shall be implemented in a manner consistent with any applicable international agreements.”
 
 #### Mobile Resource Center Pilot Program
 
-Section 406 of Pub. L. 103–403 provided that:
+Pub. L. 103–403, title IV, §406, Oct. 22, 1994, 108 Stat. 4192, provided that:
 
 “(a)
 
@@ -1340,11 +1340,11 @@ Authorization of Appropriations.—There are authorized to be appropriated to ca
 
 #### Projects Funded Pursuant to Former Provisions
 
-Section 3 of Pub. L. 102–191 provided that: “Projects funded pursuant to the provisions of former subsection (c) \[15 U.S.C. 637(c)\] shall be deemed to be funded under and shall be treated as if funded under section 28 of the Small Business Act \[15 U.S.C. 656\], as added by section 2.”
+Pub. L. 102–191, §3, Dec. 5, 1991, 105 Stat. 1591, provided that: “Projects funded pursuant to the provisions of former subsection (c) \[15 U.S.C. 637(c)\] shall be deemed to be funded under and shall be treated as if funded under section 28 of the Small Business Act \[15 U.S.C. 656\], as added by section 2.”
 
 #### Two-Year Rule for Eligibility in Minority Small Business and Capital Ownership Development Program
 
-Section 203 of Pub. L. 101–574 provided that:
+Pub. L. 101–574, title II, §203, Nov. 15, 1990, 104 Stat. 2818, provided that:
 
 “(a)
 
@@ -1368,17 +1368,17 @@ Waiver of Minimum Period of Operation.—(1) The Administration shall provide th
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 #### Credit for Indian Contracting in Meeting Certain Minority Subcontracting Goals
 
-For provisions that credit toward meeting a subcontracting goal specified in a Department of Defensecontract in implementing subsec. (d) of this section may be given for work performed on Indian land or by certain Indian joint ventures, see section 2323a of Title 10, Armed Forces.
+For provisions that credit toward meeting a subcontracting goal specified in a Department of Defense contract in implementing subsec. (d) of this section may be given for work performed on Indian land or by certain Indian joint ventures, see section 2323a of Title 10, Armed Forces.
 
 #### Test Program for Negotiation of Comprehensive Small Business Subcontracting Plans
 
-Section 402 of Pub. L. 101–574 provided that: “To facilitate participation in the test program for the negotiation of comprehensive small business subcontracting plans pursuant to section 834 of the National Defense Authorization Act for Fiscal Years 1990 and 1991 (Public Law 101–189; 103 Stat. 1510) \[set out below\], subsection (d) of such section is hereby suspended for the period of the test program as specified in subsection (e) of such section.”
+Pub. L. 101–574, title IV, §402, Nov. 15, 1990, 104 Stat. 2832, provided that: “To facilitate participation in the test program for the negotiation of comprehensive small business subcontracting plans pursuant to section 834 of the National Defense Authorization Act for Fiscal Years 1990 and 1991 (Public Law 101–189; 103 Stat. 1510) \[set out below\], subsection (d) of such section is hereby suspended for the period of the test program as specified in subsection (e) of such section.”
 
-Pub. L. 101–189, div. A, title VIII, §834, Nov. 29, 1989, 103 Stat. 1509, as amended by Pub. L. 102–484, div. A, title VIII, §805, Oct. 23, 1992, 106 Stat. 2447; Pub. L. 103–355, title VII, §7103, Oct. 13, 1994, 108 Stat. 3368; Pub. L. 104–106, div. A, title VIII, §811, Feb. 10, 1996, 110 Stat. 394; Pub. L. 105–85, div. A, title VIII, §822, Nov. 18, 1997, 111 Stat. 1840; Pub. L. 106–65, div. A, title VIII, §817, Oct. 5, 1999, 113 Stat. 712; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(g)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–293; Pub. L. 108–375, div. A, title VIII, §843, Oct. 28, 2004, 118 Stat. 2019; Pub. L. 111–383, div. A, title VIII, §863(i), Jan. 7, 2011, 124 Stat. 4295, provided that:
+Pub. L. 101–189, div. A, title VIII, §834, Nov. 29, 1989, 103 Stat. 1509, as amended by Pub. L. 102–484, div. A, title VIII, §805, Oct. 23, 1992, 106 Stat. 2447; Pub. L. 103–355, title VII, §7103, Oct. 13, 1994, 108 Stat. 3368; Pub. L. 104–106, div. A, title VIII, §811, Feb. 10, 1996, 110 Stat. 394; Pub. L. 105–85, div. A, title VIII, §822, Nov. 18, 1997, 111 Stat. 1840; Pub. L. 106–65, div. A, title VIII, §817, Oct. 5, 1999, 113 Stat. 712; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(g)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–293; Pub. L. 108–375, div. A, title VIII, §843, Oct. 28, 2004, 118 Stat. 2019; Pub. L. 111–383, div. A, title VIII, §863(i), Jan. 7, 2011, 124 Stat. 4295; Pub. L. 112–81, div. A, title VIII, §866, Dec. 31, 2011, 125 Stat. 1526, provided that:
 
 “(a)
 
@@ -1418,11 +1418,11 @@ Failure To Make a Good Faith Effort To Comply With a Company-wide Subcontracting
 
 “(e)
 
-Test Program Period.—The test program authorized by subsection (a) shall begin on October 1, 1990, unless Congress adopts a resolution disapproving the test program. The test program shall terminate on December 31, 2011.
+Test Program Period.—The test program authorized by subsection (a) shall begin on October 1, 1990, unless Congress adopts a resolution disapproving the test program. The test program shall terminate on December 31, 2014.
 
 “(f)
 
-Report.—(1) Not later than March 1, 1994, the Secretary of Defense shall submit a report on the results of the test program to the Committees on Armed Services and on Small Business of the Senate and the House of Representatives \[Committee on Small Business of Senate now Committee on Small Business and Entrepreneurship of Senate\].
+Report.—(1) Not later than March 1, 1994, and March 1, 2012, the Secretary of Defense shall submit a report on the results of the test program to the Committees on Armed Services and on Small Business of the Senate and the House of Representatives \[Committee on Small Business of Senate now Committee on Small Business and Entrepreneurship of Senate\].
 
 “(2) Before submitting such report to the committees referred to in paragraph (1), the Secretary shall transmit the proposed report to the Administrator of the Small Business Administration. The report submitted to the committees shall include any comments and recommendations relating to the report that are transmitted to the Secretary by the Administrator before the date specified in such paragraph.
 
@@ -1434,9 +1434,11 @@ Definitions.—As used in this section:
 
 &emsp;“(2) The term ‘small business concern owned and controlled by socially and economically disadvantaged individuals’ shall have the same meaning as is provided in section 8(d)(3)(C) of the Small Business Act (15 U.S.C. 637(d)(3)(C)).”
 
+\[Pub. L. 112–81, div. A, title VIII, §866(a), Dec. 31, 2011, 125 Stat. 1526, which directed amendment of section 834 of Pub. L. 101–189, set out above, by substituting “December 31, 2014” for “September 30, 2011” in subsec. (e), was executed by making the substitution for “December 31, 2011” to reflect the probable intent of Congress.\]
+
 #### Contract Options and Modifications
 
-Section 303(f) of Pub. L. 100–656, as amended by Pub. L. 101–37, §10(d), June 15, 1989, 103 Stat. 73, provided that:
+Pub. L. 100–656, title III, §303(f), Nov. 15, 1988, 102 Stat. 3871, as amended by Pub. L. 101–37, §10(d), June 15, 1989, 103 Stat. 73, provided that:
 
 “(1) The Small Business Administration shall make substantial and sustained efforts to achieve a maximum ten-day period as the average processing time for approving options and modifications to contracts awarded pursuant to section 8(a) of the Small Business Act (15 U.S.C. 637(a)) and submitted to such Administration for approval.
 
@@ -1450,7 +1452,7 @@ Section 303(f) of Pub. L. 100–656, as amended by Pub. L. 101–37, §10(d), Ju
 
 #### Liquidated Damages Clauses
 
-Section 304(b) of Pub. L. 100–656 provided that: “The contract clause required by section 8(d)(4)(F) of the Small Business Act \[15 U.S.C. 637(d)(4)(F)\] (as added by subsection (a)) shall be made part of the Federal Acquisition Regulation and promulgated pursuant to section 22 of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 418b) \[now 41 U.S.C. 1707\].”
+Pub. L. 100–656, title III, §304(b), Nov. 15, 1988, 102 Stat. 3873, provided that: “The contract clause required by section 8(d)(4)(F) of the Small Business Act \[15 U.S.C. 637(d)(4)(F)\] (as added by subsection (a)) shall be made part of the Federal Acquisition Regulation and promulgated pursuant to section 22 of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 418b) \[now 41 U.S.C. 1707\].”
 
 \[Section 304(b) of Pub. L. 100–656 effective Aug. 15, 1989, see section 803(b)(1)(B) of Pub. L. 100–656, as amended, set out as an Effective Date of 1988 Amendment note under section 631 of this title.\]
 
@@ -1466,7 +1468,7 @@ Pub. L. 108–287, title VIII, §8021, Aug. 5, 2004, 118 Stat 975.
 
 Pub. L. 108–87, title VIII, §8021, Sept. 30, 2003, 117 Stat 1076.
 
-Section 602 of Pub. L. 100–656, as amended by Pub. L. 101–37, §22, June 15, 1989, 103 Stat. 75; Pub. L. 101–515, title V, §2, Nov. 5, 1990, 104 Stat. 2140; Pub. L. 101–574, title II, §205, Nov. 15, 1990, 104 Stat. 2819; Pub. L. 103–403, title VI, §608, Oct. 22, 1994, 108 Stat. 4204, provided that:
+Pub. L. 100–656, title VI, §602, Nov. 15, 1988, 102 Stat. 3887, as amended by Pub. L. 101–37, §22, June 15, 1989, 103 Stat. 75; Pub. L. 101–515, title V, §2, Nov. 5, 1990, 104 Stat. 2140; Pub. L. 101–574, title II, §205, Nov. 15, 1990, 104 Stat. 2819; Pub. L. 103–403, title VI, §608, Oct. 22, 1994, 108 Stat. 4204, provided that:
 
 “(a)
 
@@ -1500,43 +1502,43 @@ Sunset.—Subsection (b) shall cease to be effective after September 30, 1997.�
 
 #### GAO Evaluation of Service Corps of Retired Executives; Report
 
-Section 107 of Pub. L. 100–590 directed Comptroller General, not later than Dec. 1, 1989, to transmit a report to Small Business Committees of Senate and House of Representatives on functions being performed by volunteers in Service Corps of Retired Executives and Active Corps of Executives, including his evaluation of programs and including conclusions and recommendations concerning efficiency and cost effectiveness of such volunteers.
+Pub. L. 100–590, title I, §107, Nov. 3, 1988, 102 Stat. 2993, directed Comptroller General, not later than Dec. 1, 1989, to transmit a report to Small Business Committees of Senate and House of Representatives on functions being performed by volunteers in Service Corps of Retired Executives and Active Corps of Executives, including his evaluation of programs and including conclusions and recommendations concerning efficiency and cost effectiveness of such volunteers.
 
 #### Authorization of Appropriations for Women-Owned Small Business Demonstration Projects
 
-Section 127(c) of Pub. L. 100–590 provided that: “There is authorized to be appropriated $10,000,000 to carry out the demonstration projects required pursuant to subsection (a) \[amending this section\]. The initial projects authorized to be financed by this section \[amending this section and enacting provisions set out as notes under this section\] shall be funded by January 31, 1989. Notwithstanding any other provision of law, the Small Business Administration may use such expedited acquisition methods as it deems appropriate to achieve the purposes of this subsection, except that it shall insure that all eligible sources are provided a reasonable opportunity to submit proposals.”
+Pub. L. 100–590, title I, §127(c), Nov. 3, 1988, 102 Stat. 3003, provided that: “There is authorized to be appropriated $10,000,000 to carry out the demonstration projects required pursuant to subsection (a) \[amending this section\]. The initial projects authorized to be financed by this section \[amending this section and enacting provisions set out as notes under this section\] shall be funded by January 31, 1989. Notwithstanding any other provision of law, the Small Business Administration may use such expedited acquisition methods as it deems appropriate to achieve the purposes of this subsection, except that it shall insure that all eligible sources are provided a reasonable opportunity to submit proposals.”
 
 Similar provisions were contained in Pub. L. 100–533, title II, §203, Oct. 25, 1988, 102 Stat. 2692.
 
 #### Spending Authority for Contracts Authorized for Women-Owned Small Business Demonstration Projects
 
-Section 127(e) of Pub. L. 100–590 provided that: “New spending authority or authority to enter into contracts as authorized in this section \[amending this section and enacting provisions set out as notes under this section\] shall be effective only to such extent and in such amounts as are provided in advance in appropriation Acts.”
+Pub. L. 100–590, title I, §127(e), Nov. 3, 1988, 102 Stat. 3003, provided that: “New spending authority or authority to enter into contracts as authorized in this section \[amending this section and enacting provisions set out as notes under this section\] shall be effective only to such extent and in such amounts as are provided in advance in appropriation Acts.”
 
 #### Rural Area Business Development Plans
 
-Section 129 of Pub. L. 100–590 provided that: “Within six months of the effective date of this Act \[see Effective Date of 1988 Amendment note set out under section 631 of this title\], the Administrator shall identify each Federal agency having substantial procurement or grantmaking authority and shall notify each agency so identified. Within six months of notification, each agency shall develop rural area business enterprise development plans. Such plans shall establish rural area enterprise development objectives for the agency and methods for encouraging prime contractors, subcontractors and grant recipients to use small business concerns located in rural areas as subcontractors, suppliers, and otherwise. Such plans shall, to the extent the agency deems appropriate and feasible, include incentive techniques as encouragement.”
+Pub. L. 100–590, title I, §129, Nov. 3, 1988, 102 Stat. 3004, provided that: “Within six months of the effective date of this Act \[see Effective Date of 1988 Amendment note set out under section 631 of this title\], the Administrator shall identify each Federal agency having substantial procurement or grantmaking authority andshall notify each agency so identified. Within six months of notification, each agency shall develop rural area business enterprise development plans. Such plans shall establish rural area enterprise development objectives for the agency and methods for encouraging prime contractors, subcontractors and grant recipients to use small business concerns located in rural areas as subcontractors, suppliers, and otherwise. Such plans shall, to the extent the agency deems appropriate and feasible, include incentive techniques as encouragement.”
 
 #### Background Check Policy; Fingerprinting
 
-Section 132 of Pub. L. 100–590 provided that: “The Small Business Administration shall not require fingerprints to be obtained for background check purposes from any participant in any Administration program who is serving on a voluntary basis and without compensation unless the Administration has reasonable grounds to believe that the participant's record or background is such as to make the participant ineligible to participate in the relevant program.”
+Pub. L. 100–590, title I, §132, Nov. 3, 1988, 102 Stat. 3005, provided that: “The Small Business Administration shall not require fingerprints to be obtained for background check purposes from any participant in any Administration program who is serving on a voluntary basis and without compensation unless the Administration has reasonable grounds to believe that the participant's record or background is such as to make the participant ineligible to participate in the relevant program.”
 
 #### Time for Designation of Agency
 
-Section 1(b) of Pub. L. 99–567 provided that: “The designation of an agency pursuant to the amendment made by subsection (a) \[amending this section\] shall be made not later than sixty days after the date of enactment of this Act \[Oct. 27, 1986\].”
+Pub. L. 99–567, §1(b), Oct. 27, 1986, 100 Stat. 3188, provided that: “The designation of an agency pursuant to the amendment made by subsection (a) \[amending this section\] shall be made not later than sixty days after the date of enactment of this Act \[Oct. 27, 1986\].”
 
 #### Report to Congress Respecting Assistance Furnished by Profitmaking Concerns to Small Business Concerns; Contents
 
-Section 5(b) of Pub. L. 98–362 directed Small Business Administration, not later than Dec. 1, 1987, to report to Committees on Small Business of Senate and House of Representatives on impact of assistance provided in cooperation with profitmaking concerns pursuant to amendment made by section 5(a)(2) of the Small Business Computer Security and Education Act of 1984 \[amending this section\], including information on benefits provided to small business concerns assisted by Administration's cooperation with profitmaking concerns and any negative impact upon small businesses resulting from such cooperation with profitmaking concerns.
+Pub. L. 98–362, §5(b), July 16, 1984, 98 Stat. 434, directed Small Business Administration, not later than Dec. 1, 1987, to report to Committees on Small Business of Senate and House of Representatives on impact of assistance provided in cooperation with profitmaking concerns pursuant to amendment made by section 5(a)(2) of the Small Business Computer Security and Education Act of 1984 \[amending this section\], including information on benefits provided to small business concerns assisted by Administration's cooperation with profitmaking concerns and any negative impact upon small businesses resulting from such cooperation with profitmaking concerns.
 
 #### Tennessee Valley Authority; Procurement Procedures Under 1983 and 1984 Amendments Applicable Only to Procurements Paid From Appropriated Funds
 
-Section 404(c) of Pub. L. 98–577 provided that: “The provisions of the amendment made by subsection (a) of this section \[enacting subsecs. (e) to (j) of this section and striking out former subsec. (e) of this section\] shall apply to the Tennessee Valley Authority only with respect to procurements to be paid from appropriated funds.”
+Pub. L. 98–577, title IV, §404(c), Oct. 30, 1984, 98 Stat. 3084, provided that: “The provisions of the amendment made by subsection (a) of this section \[enacting subsecs. (e) to (j) of this section and striking out former subsec. (e) of this section\] shall apply to the Tennessee Valley Authority only with respect to procurements to be paid from appropriated funds.”
 
-Section 1(b)(3) of Pub. L. 98–72 provided that: “The provisions of this Act \[amending this section\] shall apply to the Tennessee Valley Authority only with respect to procurements to be paid from appropriated funds.”
+Pub. L. 98–72, §1(b)(3), Aug. 11, 1983, 97 Stat. 405, provided that: “The provisions of this Act \[amending this section\] shall apply to the Tennessee Valley Authority only with respect to procurements to be paid from appropriated funds.”
 
 #### Asian Pacific Americans as Disadvantaged Minority in 1978
 
-Section 118(c)(2) of Pub. L. 96–302 provided that the amendment of subsec. (d)(3)(C) by Pub. L. 96–302, including Asian Pacific Americans among the disadvantaged minorities, shall apply as if included in the amendment made by section 211 of Pub. L. 95–507, to subsec. (d) of this section.
+Pub. L. 96–302, title I, §118(c)(2), July 2, 1980, 94 Stat. 840, provided that the amendment of subsec. (d)(3)(C) by Pub. L. 96–302, including Asian Pacific Americans among the disadvantaged minorities, shall apply as if included in the amendment made by section 211 of Pub. L. 95–507, to subsec. (d) of this section.
 
 #### Business Plans; Submittal by Concerns Eligible To Receive Contracts
 
@@ -1544,7 +1546,7 @@ Concerns eligible to receive contracts pursuant to subsec. (a) of this section r
 
 #### Reports to Congress; General Accounting Office Report on Business Development; Quarterly Reports by Small Business Administration to Congressional Committees
 
-Section 202(b) of Pub. L. 95–507, as amended by Pub. L. 96–481, title I, §102, Oct. 21, 1980, 94 Stat. 2321, provided not later than Jan. 31, 1981, the General Accounting Office submit to Congress a report which, with respect to provisions of subsec. (a)(1)(B) and (2) of this section, evaluated the implementation of such provisions and whether such implementation furthered the purposes under section 631(e) of this title, and required the Small Business Administration and the agency designated pursuant to subsec. (a)(1)(B) of this section to submit separate quarterly reports to specific congressional committees, which reports were to contain a review and evaluation of all activities conducted pursuant to subsec. (a)(1)(B) during the previous three-month period, with the first such report submitted commencing on Jan. 2, 1981, for the preceding three-month period, and to continue quarterly through, and include, the quarter ending Sept. 30, 1981.
+Pub. L. 95–507, title II, §202(b), Oct. 24, 1978, 92 Stat. 1763, as amended by Pub. L. 96–481, title I, §102, Oct. 21, 1980, 94 Stat. 2321, provided not later than Jan. 31, 1981, the General Accounting Office submit to Congress a report which, with respect to provisions of subsec. (a)(1)(B) and (2) of this section, evaluated the implementation of such provisions and whether such implementation furthered the purposes under section 631(e) of this title, and required the Small Business Administration and the agency designated pursuant to subsec. (a)(1)(B) of this section to submit separate quarterly reports to specific congressional committees, which reports were to contain a review and evaluation of all activities conducted pursuant to subsec. (a)(1)(B) during the previous three-month period, with the first such report submitted commencing on Jan. 2, 1981, for the preceding three-month period, and to continue quarterly through, and include, the quarter ending Sept. 30, 1981.
 
 #### Termination of Advisory Boards and Committees
 
@@ -1552,7 +1554,7 @@ Advisory boards and committees in existence on Jan. 5, 1973, to terminate not la
 
 #### Definition
 
-Section 127(d) of Pub. L. 100–590 provided that: “For the purposes of this section \[amending this section and enacting provisions set out as notes under this section\], the term ‘small business concern owned and controlled by women’ means any small business concern—
+Pub. L. 100–590, title I, §127(d), Nov. 3, 1988, 102 Stat. 3003, provided that: “For the purposes of this section \[amending this section and enacting provisions set out as notes under this section\], the term ‘small business concern owned and controlled by women’ means any small business concern—
 
 &emsp;“(1) that is at least 51 per centum owned by one or more women; and
 

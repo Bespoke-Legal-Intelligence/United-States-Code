@@ -76,7 +76,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–246, §10103, designated existing provisions as par. (1), inserted heading, and added par. (2).
+<b>2008</b>—Subsec. (a). Pub. L. 110–246, §10103, designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 #### Effective Date of 2008 Amendment
 

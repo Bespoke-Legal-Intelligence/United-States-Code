@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Each State educational agency or specially qualified agency receiving a grant under subpart 1 of this part shall develop annual measurable achievement objectives for limited English proficient children served under this part that relate to such children's development and attainment of English proficiency while meeting challenging State academic content and student academic achievement standards as required by section 6311(b)(1) of this title.
+&emsp;Each State educational agency or specially qualified agency receiving a grant under subpart 1 of this part shall develop annual measurable achievement objectives for limited English proficient children served under this part that relate to such children's development and attainment of English proficiency while meeting challenging State academic content and student academic achievementstandards as required by section 6311(b)(1) of this title.
 
 #### (2) Development of objectives
 
@@ -38,7 +38,7 @@
 
 #### (1) For States
 
-&emsp;Each State educational agency receiving a grant under subpart 1 of this part shall holdeligible entities receiving a subgrant under such subpart accountable for meeting the annual measurable achievement objectives under subsection (a) of this section, including making adequate yearly progress for limited English proficient children.
+&emsp;Each State educational agency receiving a grant under subpart 1 of this part shall hold eligible entities receiving a subgrant under such subpart accountable for meeting the annual measurable achievement objectives under subsection (a) of this section, including making adequate yearly progress for limited English proficient children.
 
 #### (2) Improvement plan
 

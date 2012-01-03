@@ -6,15 +6,15 @@ The clerk shall give the notice required by section 342 of this title to SIPC an
 
 #### Historical and Revision Notes
 
-I74senate report no. 95–989
+#### senate report no. 95–989
 
 Section 743 requires that notice of the order for relief be given to SIPC and to the SEC in every stockbroker case.
 
 #### Amendments
 
-1994—Pub. L. 103–394 substituted “342” for “342(a)”.
+<b>1994</b>—Pub. L. 103–394 substituted “342” for “342(a)”.
 
-1986—Pub. L. 99–554, which directed the amendment of this section by striking “(d)”, rather than “(a)”, could not be executed because “(d)” did not appear in text. See 1994 Amendment note above.
+<b>1986</b>—Pub. L. 99–554, which directed the amendment of this section by striking “(d)”, rather than “(a)”, could not be executed because “(d)” did not appear in text. See 1994 Amendment note above.
 
 #### Effective Date of 1994 Amendment
 

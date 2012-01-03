@@ -14,7 +14,7 @@ To ensure the effectiveness of economic adjustment programs supported by Fund re
 
 &emsp;&emsp;(B) provide that in approving any economic adjustment program the Fund shall take into account the effect such program will have on jobs, investment, real per capita income, the gap in wealth between the rich and poor, and social programs such as health, housing, and education, in order to seek to minimize the adverse impact of those adjustment programs on basic human needs; and
 
-&emsp;&emsp;(C) provide that letters of intent submitted to the Fund in support of an economicadjustment program reflect that the member country has taken into account the effect such program will have on the factors listed in subparagraph (B);
+&emsp;&emsp;(C) provide that letters of intent submitted to the Fund in support of an economic adjustment program reflect that the member country has taken into account the effect such program will have on the factors listed in subparagraph (B);
 
 &emsp;(2)(A) before voting on the approval of any standby arrangement with respect to any economic adjustment program, the United States Executive Director shall review—
 

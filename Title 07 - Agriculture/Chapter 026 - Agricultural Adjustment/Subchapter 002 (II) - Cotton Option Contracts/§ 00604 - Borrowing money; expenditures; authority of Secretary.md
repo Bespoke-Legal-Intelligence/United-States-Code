@@ -18,11 +18,11 @@ The word “obligation” when used in this section shall include (without being
 
 #### Amendments
 
-1935—Subsec. (b). Act Aug. 24, 1935, §35, struck out “to be available until March 1, 1936” after “$100,000,000” and inserted last sentence relating to availability of the sum of $100,000,000.
+<b>1935</b>—Subsec. (b). Act Aug. 24, 1935, §35, struck out “to be available until March 1, 1936” after “$100,000,000” and inserted last sentence relating to availability of the sum of $100,000,000.
 
 Subsec. (f). Act Aug. 24, 1935, §36, inserted last par. defining “obligation”.
 
-1934—Subsec. (a). Act June 19, 1934, inserted “may in his discretion” after “or control and”.
+<b>1934</b>—Subsec. (a). Act June 19, 1934, inserted “may in his discretion” after “or control and”.
 
 Subsecs. (b) to (f). Act June 19, 1934, added subsecs. (b) to (f).
 

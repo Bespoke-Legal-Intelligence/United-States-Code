@@ -6,7 +6,7 @@ In General.—Subject to subsection (b), the protection provided under this chap
 
 (b)
 
-Expiration.—All terms of protection provided in this section shall run to the end of the calendar year in which they would otherwise expire.
+Expiration.—All terms of protection provided in this section shall run to the end of thecalendar year in which they would otherwise expire.
 
 (c)
 

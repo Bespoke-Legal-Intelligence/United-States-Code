@@ -26,13 +26,13 @@ The general application submitted by a local educational agency under subsection
 
 &emsp;&emsp;(B) in developing plans for construction, due consideration will be given to excellence of architecture and design and to compliance with standards prescribed by the Secretary under section 794 of title 29 in order to ensure that facilities constructed with the use of Federal funds are accessible to and usable by individuals with disabilities;
 
-&emsp;(8) that the local educational agency has adopted effective procedures for acquiring anddisseminating to teachers and administrators participating in each program significant information from educational research, demonstrations, and similar projects, and for adopting, where appropriate, promising educational practices developed through such projects; and
+&emsp;(8) that the local educational agency has adopted effective procedures for acquiring and disseminating to teachers and administrators participating in each program significant information from educational research, demonstrations, and similar projects, and for adopting, where appropriate, promising educational practices developed through such projects; and
 
 &emsp;(9) that none of the funds expended under any applicable program will be used to acquire equipment (including computer software) in any instance in which such acquisition results in a direct financial benefit to any organization representing the interests of the purchasing entity or its employees or any affiliate of such an organization.
 
 #### (c) Effective term of general application
 
-A general application submitted under this section shall remain in effect for the duration of the programs it covers. The State agencies or boards administering the programs covered by the application shall not require the submission or amendment of such application unless required by changes in Federal or State law or by other significant change in the circumstances affecting an assurance in such application.
+A general application submitted under this section shall remain in effect for the duration ofthe programs it covers. The State agencies or boards administering the programs covered by the application shall not require the submission or amendment of such application unless required by changes in Federal or State law or by other significant change in the circumstances affecting an assurance in such application.
 
 (Pub. L. 90–247, title IV, §442, formerly §436, as added Pub. L. 95–561, title XII, §1231(a)(3), Nov. 1, 1978, 92 Stat. 2345; amended Pub. L. 98–511, title VII, §706(b), Oct. 19, 1984, 98 Stat. 2407; renumbered §442 and amended Pub. L. 103–382, title II, §§212(b)(1), (3)(B), 261(g), Oct. 20, 1994, 108 Stat. 3913, 3928.)
 

@@ -60,7 +60,7 @@ An exchange shall not be registered as a national securities exchange unless the
 
 (3)(A) A national securities exchange may deny membership to, or condition the membership of, a registered broker or dealer if (i) such broker or dealer does not meet such standards of financial responsibility or operational capability or such broker or dealer or any natural person associated with such broker or dealer does not meet such standards of training, experience, and competence as are prescribed by the rules of the exchange or (ii) such broker or dealer or person associated with such broker or dealer has engaged and there is a reasonable likelihood he may again engage in acts or practices inconsistent with just and equitable principles of trade. A national securities exchange may examine and verify the qualifications of an applicant to become a member and the natural persons associated with such an applicant in accordance with procedures established by the rules of the exchange.
 
-(B) A national securities exchange may bar a natural person from becoming a member or associated with a member, or condition the membership of a natural person or association of a natural person with a member, if such natural person (i) does not meet such standards of training, experience, and competence as are prescribed by the rules of the exchange or (ii) has engaged and there is a reasonable likelihood hemay again engage in acts or practices inconsistent with just and equitable principles of trade. A national securities exchange may examine and verify the qualifications of an applicant to become a person associated with a member in accordance with procedures established by the rules of the exchange and require any person associated with a member, or any class of such persons, to be registered with the exchange in accordance with procedures so established.
+(B) A national securities exchange may bar a natural person from becoming a member or associated with a member, or condition the membership of a natural person or association of a natural person with a member, if such natural person (i) does not meet such standards of training, experience, and competence as are prescribed by the rules of the exchange or (ii) has engaged and there is a reasonable likelihood he may again engage in acts or practices inconsistent with just and equitable principles of trade. A national securities exchange may examine and verify the qualifications of an applicant to become a person associated with a member in accordance with procedures established by the rules of the exchange and require any person associated with a member, or any class of such persons, to be registered with the exchange in accordance with procedures so established.
 
 (C) A national securities exchange may bar any person from becoming associated with a member if such person does not agree (i) to supply the exchange with such information with respect to its relationship and dealings with the member as may be specified in the rules of the exchange and (ii) to permit the examination of its books and records to verify the accuracy of any information so supplied.
 
@@ -82,7 +82,7 @@ An exchange shall not be registered as a national securities exchange unless the
 
 #### (e) Commissions, allowances, discounts, and other fees
 
-(1) On and after June 4, 1975, no national securities exchange may impose any schedule or fix rates of commissions, allowances, discounts, or other fees to be charged by its members: <i>Provided, however</i>, That until May 1, 1976, the preceding provisions of this paragraph shall not prohibit any such exchange from imposing or fixing any schedule of commissions, allowances, discounts, or other fees to be charged by itsmembers for acting as broker on the floor of the exchange or as odd-lot dealer: <i>And provided further</i>, That the Commission, in accordance with the provisions of section 78s(b) of this title as modified by the provisions of paragraph (3) of this subsection, may—
+(1) On and after June 4, 1975, no national securities exchange may impose any schedule or fix rates of commissions, allowances, discounts, or other fees to be charged by its members: <i>Provided, however</i>, That until May 1, 1976, the preceding provisions of this paragraph shall not prohibit any such exchange from imposing or fixing any schedule of commissions, allowances, discounts, or other fees to be charged by its members for acting as broker on the floor of the exchange or as odd-lot dealer: <i>And provided further</i>, That the Commission, in accordance with the provisions of section 78s(b) of this title asmodified by the provisions of paragraph (3) of this subsection, may—
 
 &emsp;(A) permit a national securities exchange, by rule, to impose a reasonable schedule or fix reasonable rates of commissions, allowances, discounts, or other fees to be charged by its members for effecting transactions on such exchange prior to November 1, 1976, if the Commission finds that such schedule or fixed rates of commissions, allowances, discounts, or other fees are in the public interest; and
 
@@ -124,11 +124,7 @@ The Commission, by rule or order, as it deems necessary or appropriate in the pu
 
 &emsp;An exchange that lists or trades security futures products may register as a national securities exchange solely for the purposes of trading security futures products if—
 
-&emsp;&emsp;(A) the exchange is a board of trade, as that term is defined by the Commodity Exchange Act (7 U.S.C. 1a(2)) \[7 U.S.C. 1 et seq.\], that—
-
-&emsp;&emsp;&emsp;(i) has been designated a contract market by the Commodity Futures Trading Commission and such designation is not suspended by order of the Commodity Futures Trading Commission; or
-
-&emsp;&emsp;&emsp;(ii) is registered as a derivative transaction execution facility under section 5a of the Commodity Exchange Act \[7 U.S.C. 7a\] and such registration is not suspended by the Commodity Futures Trading Commission; and
+&emsp;&emsp;(A) the exchange is a board of trade, as that term is defined by the Commodity Exchange Act (7 U.S.C. 1a(2)) \[7 U.S.C. 1 et seq.\], that has been designated a contract market by the Commodity Futures Trading Commission and such designation is not suspended by order of the Commodity Futures Trading Commission; and
 
 &emsp;&emsp;(B) such exchange does not serve as a market place for transactions in securities other than—
 
@@ -166,7 +162,7 @@ The Commission, by rule or order, as it deems necessary or appropriate in the pu
 
 &emsp;&emsp;&emsp;(iii) Section 78k of this title.
 
-&emsp;&emsp;&emsp;(iv) Subsections (d), (f), and (k) of section 78q of this title.
+&emsp;&emsp;&emsp;(iv) Subsections (d), (f), and (k) <sup>1</sup> of section 78q of this title.
 
 &emsp;&emsp;&emsp;(v) Subsections (a), (f), and (h) of section 78s of this title.
 
@@ -196,9 +192,9 @@ The Commission, by rule or order, as it deems necessary or appropriate in the pu
 
 &emsp;&emsp;&emsp;(i) the transaction is entered into—
 
-&emsp;&emsp;&emsp;&emsp;(I) on a principal-to-principal basis between parties trading for their own accounts or as described in section 1a(12)(B)(ii) of the Commodity Exchange Act \[7 U.S.C. 1a(12)(B)(ii)\]; and
+&emsp;&emsp;&emsp;&emsp;(I) on a principal-to-principal basis between parties trading for their own accounts or as described in section 1a(18)(B)(ii) of the Commodity Exchange Act \[7 U.S.C. 1a(18)(B)(ii)\]; and
 
-&emsp;&emsp;&emsp;&emsp;(II) only between eligible contract participants (as defined in subparagraphs (A), (B)(ii), and (C) of such section 1a(12) \[7 U.S.C. 1a(12)(A), (B)(ii), (C)\]) at the time at which the persons enter into the agreement, contract, or transaction; and
+&emsp;&emsp;&emsp;&emsp;(II) only between eligible contract participants (as defined in subparagraphs (A), (B)(ii), and (C) of such section 1a(18) \[7 U.S.C. 1a(18)(A), (B)(ii), (C)\]) at the time at which the persons enter into the agreement, contract, or transaction; and
 
 &emsp;&emsp;&emsp;(ii) the transaction is entered into on or after the later of—
 
@@ -252,7 +248,7 @@ The Commission, by rule or order, as it deems necessary or appropriate in the pu
 
 #### (B) Authority to grant exemptions
 
-&emsp;&emsp;The Commission and the Commodity Futures Trading Commission, by order, may jointly exempt any person from compliance with the listing standard requirement specified in subparagraph (E) of paragraph (3) to the extent such exemption fosters the development of fair and orderly markets in security futures products, is necessary or appropriate in the public interest, and is consistent with the protection of investors.
+&emsp;&emsp;The Commission and the Commodity Futures Trading Commission, by order, may jointly exempt any person from compliance with the listing standard requirement specified in subparagraph (E) of paragraph (3) tothe extent such exemption fosters the development of fair and orderly markets in security futures products, is necessary or appropriate in the public interest, and is consistent with the protection of investors.
 
 #### (5) Requirements for other persons trading security future products
 
@@ -300,33 +296,17 @@ A national securities exchange registered pursuant to subsection (a) of this sec
 
 (1) To the extent necessary or appropriate in the public interest, to promote fair competition, and consistent with the promotion of market efficiency, innovation, and expansion of investment opportunities, the protection of investors, and the maintenance of fair and orderly markets, the Commission and the Commodity Futures Trading Commission shall jointly issue such rules, regulations, or orders as are necessary and appropriate to permit the offer and sale of a security futures product traded on or subject to the rules of a foreign board of trade to United States persons.
 
-(2) The rules, regulations, or orders adopted under paragraph (1) shall take into account, as appropriate, the nature and size of the markets that the securities underlying the security futures product reflect.
+(2) The rules, regulations, or orders adopted under paragraph (1) shall take into account, as appropriate, the nature and size of the marketsthat the securities underlying the security futures product reflect.
+
+#### (<i>l</i>) Security-based swaps
+
+It shall be unlawful for any person to effect a transaction in a security-based swap with or for a person that is not an eligible contract participant, unless such transaction is effected on a national securities exchange registered pursuant to subsection (b).
 
 (June 6, 1934, ch. 404, title I, §6, 48 Stat. 885; Pub. L. 94–29, §4, June 4, 1975, 89 Stat. 104; Pub. L. 100–181, title III, §§309–312, Dec. 4, 1987, 101 Stat. 1255; Pub. L. 103–202, title III, §303(b), Dec. 17, 1993, 107 Stat. 2365; Pub. L. 106–554, §1(a)(5) \[title II, §§202(a), 206(a), (i), (k)(2), (<i>l</i>)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–416, 2763A–426, 2763A–433, 2763A–434; Pub. L. 111–203, title VII, §§721(e)(8), 734(b)(2), 763(e), title IX, §957, July 21, 2010, 124 Stat. 1671, 1718, 1777, 1906.)
 
 #### Amendment of Section
 
-<i>Pub. L. 111–203, title VII, §§721(e)(8), 734(b)(2), 754, July 21, 2010, 124 Stat. 1671, 1718, 1754, provided that, effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, subsection (g) of this section is amended—</i>
-
-<i>(1) in paragraph (1)(A)—</i>
-
-<i>(A) by striking “that—” and all that follows through “(i) has been designated” and inserting “that has been designated”;</i>
-
-<i>(B) by striking “; or” and inserting “; and” and</i>
-
-<i>(C) by striking clause (ii); and</i>
-
-<i>(2) in paragraph (5)(B)(i)—</i>
-
-<i>(A) in subclause (I), by striking “section 1a(12)(B)(ii)” and inserting “section 1a(18)(B)(ii)”; and</i>
-
-<i>(B) in subclause (II), by striking “section 1a(12)” and inserting “section 1a(18)”.</i>
-
-<i>Pub. L. 111–203, title VII, §§763(e), 774, July 21, 2010, 124 Stat. 1777, 1802, provided that, effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B (§§761–774) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, this section is amended by adding at the end the following:</i>
-
-#### <i>(l) Security-based swaps</i>
-
-<i>It shall be unlawful for any person to effect a transaction in a security-based swap with or for a person that is not an eligible contract participant, unless such transaction is effected on a national securities exchange registered pursuant to subsection (b).</i>
+<i>Unless otherwise provided, amendments by subtitle A (§§711–754) and subtitle B (§§761–774) of title VII of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of either subtitle A or B requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A or B, see 2010 Amendment notes and Effective Date of 2010 Amendment note below.</i>
 
 #### References in Text
 
@@ -334,13 +314,23 @@ This chapter, referred to in subsecs. (b) to (e), (g)(4)(A), (h)(3)(G), (7)(C)(i
 
 The Investment Company Act of 1940, referred to in subsec. (b)(10)(B), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
 
-The Commodity Exchange Act, referred to in subsecs. (g)(1)(A) and (h)(6), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
+The Commodity Exchange Act, referred to in subsecs. (g)(1)(A) and (h)(6), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. Section 1a(2) of Title 7 was redesignated section 1a(6) by Pub. L. 111–203, title VII, §721(a)(1), July 21, 2010, 124 Stat. 1658. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
+
+Subsection (k) of section 78q of this title, referred to in subsec. (g)(4)(A)(iv), was redesignated subsec. (j) by Pub. L. 111–203, title VI, §617(a)(2), July 21, 2010, 124 Stat. 1616.
 
 #### Amendments
 
 <b>2010</b>—Subsec. (b)(9). Pub. L. 111–203, §957(1), designated introductory provisions and subpars. (A) to (D) as subpar. (A), redesignated former subpars. (A) to (D) as cls. (i) to (iv), respectively, of subpar. (A) and realigned margins, redesignated former cls. (i) to (v) of subpar. (A) as subcls. (I) to (V), respectively, of cl. (i) and realigned margins, and designated concluding provisions as subpar. (B).
 
 Subsec. (b)(10). Pub. L. 111–203, §957(2), added par. (10).
+
+Subsec. (g)(1)(A). Pub. L. 111–203, §734(b)(2), substituted “that has been designated” for “that—(i) has been designated” and “and” for “or” at end and struck out cl. (ii) which read as follows: “is registered as a derivative transaction execution facility under section 5a of the Commodity Exchange Act and such registration is not suspended by the Commodity Futures Trading Commission; and”.
+
+Subsec. (g)(5)(B)(i)(I). Pub. L. 111–203, §721(e)(8)(A), substituted “section 1a(18)(B)(ii)” for “section 1a(12)(B)(ii)”.
+
+Subsec. (g)(5)(B)(i)(II). Pub. L. 111–203, §721(e)(8)(B), substituted “section 1a(18)” for “section 1a(12)”.
+
+Subsec. (<i>l</i>). Pub. L. 111–203, §763(e), added subsec. (<i>l</i>).
 
 <b>2000</b>—Subsec. (g). Pub. L. 106–554, §1(a)(5) \[title II, §202(a)\], added subsec. (g).
 
@@ -376,7 +366,7 @@ Amendment by section 763(e) of Pub. L. 111–203 effective on the later of 360 d
 
 #### Effective Date of 1993 Amendment
 
-Section 304 of title III of Pub. L. 103–202 provided that:
+Pub. L. 103–202, title III, §304, Dec. 17, 1993, 107 Stat. 2367, provided that:
 
 “(a)
 
@@ -408,5 +398,7 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 
 #### Changes in Organization and Rules of National Securities Exchanges and Registered Securities Associations
 
-Section 31(b) of Pub. L. 94–29 provided that: “If it appears to the Commission at any time within one year of the effective date of any amendment made by this Act \[see Short Title of 1975 Amendment note under section 78a of this title\] to the Securities Exchange Act of 1934 that the organization or rules of any national securities exchange or registered securities association registered with the Commission on the date of enactment of this Act \[June 4, 1975\] do not comply with such Act as amended, the Commission shall so notify such exchange or association in writing, specifying the respects in which the exchange or association is not in compliance with such Act. On and after the one hundred eightieth day following the date of receipt of such notice by a national securities exchange or registered securities association, the Commission, without regard to the provisions of section 19(h) of the Securities Exchange Act of 1934 \[section 78s(h) of this title\], as amended by this Act, is authorized by order, to suspend the registration of any such exchange or association or impose limitations on the activities, functions, and operations of any such exchange or association, if the Commission finds, after notice and opportunity for hearing, that the organization or rules of such exchange or association do not comply with such Act. Any such suspension or limitation shall continue in effect until the Commission, by order, declares that such exchange or association is in compliance with such requirements.”
+Pub. L. 94–29, §31(b), June 4, 1975, 89 Stat. 170, provided that: “If it appears to the Commission at any time within one year of the effective date of any amendment made by this Act \[see Short Title of 1975 Amendment note under section 78a of this title\] to the Securities Exchange Act of 1934 that the organization or rules of any national securities exchange or registered securities association registered with the Commission on the date of enactment of this Act \[June 4, 1975\] do not comply with such Act as amended, the Commission shall so notify such exchange or association in writing, specifying the respects in which the exchange or association is not in compliance with such Act. On and after the one hundred eightieth day following the date of receipt of such notice by a national securities exchange or registered securities association, the Commission, without regard to the provisions of section 19(h) of the Securities Exchange Act of 1934 \[section 78s(h) of this title\], as amended by this Act, is authorized by order, to suspend the registration of any such exchange or association or impose limitations on the activities, functions, and operations of any such exchange or association, if the Commission finds, after notice and opportunity for hearing, that the organization or rules of such exchange or association do not comply with such Act. Any such suspension or limitation shall continue in effect until the Commission, by order, declares that such exchange or association is in compliance with such requirements.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

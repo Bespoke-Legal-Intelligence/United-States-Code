@@ -40,17 +40,17 @@ As used in this subchapter—
 
 #### References in Text
 
-The Wool Products Labeling Act of 1939, referred to in subsec. (h)(3), is act Oct. 14, 1940, ch. 871, 54 Stat.1128, as amended, which is classified generally to subchapter III (§68 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 68 of this title and Tables.
+The Wool Products Labeling Act of 1939, referred to in subsec. (h)(3), is act Oct. 14, 1940, ch. 871, 54 Stat. 1128, as amended, which is classified generally to subchapter III (§68 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 68 of this title and Tables.
 
 #### Effective Date
 
-Section 15 of Pub. L. 85–897 provided that: “This Act \[this subchapter\] shall take effect eighteen months after enactment \[Sept. 2, 1958\], except for the promulgation of rules and regulations by the Commission, which shall be promulgated within nine months after the enactment of this Act. The Commission shall provide for the exception of any textile fiber product acquired prior to the effective date of this Act.”
+Pub. L. 85–897, §15, Sept. 2, 1958, 72 Stat. 1724, provided that: “This Act \[this subchapter\] shall take effect eighteen months after enactment \[Sept. 2, 1958\], except for the promulgation of rules and regulations by the Commission, which shall be promulgated within nine months after the enactment of this Act. The Commission shall provide for the exception of any textile fiber product acquired prior to the effective date of this Act.”
 
 #### Short Title
 
-Section 1 of Pub. L. 85–897 provided: “That this Act \[this subchapter\] may be cited as the ‘Textile Fiber Products Identification Act’.”
+Pub. L. 85–897, §1, Sept. 2, 1958, 72 Stat. 1717, provided: “That this Act \[this subchapter\] may be cited as the ‘Textile Fiber Products Identification Act’.”
 
 #### Separability
 
-Section 13 of Pub. L. 85–897 provided that: “If any provision of this Act \[this subchapter\], or the application thereof to any person, as that term is herein defined, is held invalid, the remainder of the Act and the application of the remaining provisions to any person shall not be affected thereby.”
+Pub. L. 85–897, §13, Sept. 2, 1958, 72 Stat. 1723, provided that: “If any provision of this Act \[this subchapter\], or the application thereof to any person, as that term is herein defined, is held invalid, the remainder of the Act and the application of the remaining provisions to any person shall not be affected thereby.”
 

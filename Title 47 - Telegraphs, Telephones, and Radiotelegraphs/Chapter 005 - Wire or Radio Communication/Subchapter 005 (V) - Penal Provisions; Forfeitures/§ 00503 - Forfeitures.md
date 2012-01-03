@@ -70,6 +70,8 @@ Any person who shall deliver messages for interstate or foreign transmission to 
 
 #### References in Text
 
+This chapter, referred to in text, was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
+
 Parts II and III of subchapter III of this chapter, referred to in subsec. (b)(1), are classified to sections 351 et seq. and 381 et seq., respectively, of this title.
 
 #### Amendments
@@ -92,7 +94,7 @@ Subsec. (b)(6)(A). Pub. L. 102–538, §206(1), struck out “so long as such vi
 
 <b>1990</b>—Subsec. (b)(5). Pub. L. 101–396 inserted “and if such person is not an applicant for a license, permit, certificate, or other authorization issued by the Commission,” before “unless, prior”.
 
-<b>1989</b>—Subsec. (b)(1), (2). Pub. L. 101–239 inserted “(1)” before “Any person who” in first par., added par. (2), and struck out former par. (2) thereby resulting in increasing penalty if violator is a common carrier from $20,000 to $100,000 per day to a maximum of $1,000,000 per act and penalty if violator is a broadcast station licensee or cable television operator from $20,000 to$25,000 per day to a maximum of $250,000 per act, making such penalty also applicable to television operator applicants, and increasing penalty in all other cases from $5,000 to $10,000 per day to a maximum of $75,000.
+<b>1989</b>—Subsec. (b)(1), (2). Pub. L. 101–239 inserted “(1)” before “Any person who” in first par., added par. (2),and struck out former par. (2) thereby resulting in increasing penalty if violator is a common carrier from $20,000 to $100,000 per day to a maximum of $1,000,000 per act and penalty if violator is a broadcast station licensee or cable television operator from $20,000 to $25,000 per day to a maximum of $250,000 per act, making such penalty also applicable to television operator applicants, and increasing penalty in all other cases from $5,000 to $10,000 per day to a maximum of $75,000.
 
 <b>1983</b>—Subsec. (b)(5). Pub. L. 98–214 inserted “or if the person involved is transmitting on frequencies assigned for use in a service in which individual station operation is authorized by rule pursuant to section 307(e) of this title”.
 

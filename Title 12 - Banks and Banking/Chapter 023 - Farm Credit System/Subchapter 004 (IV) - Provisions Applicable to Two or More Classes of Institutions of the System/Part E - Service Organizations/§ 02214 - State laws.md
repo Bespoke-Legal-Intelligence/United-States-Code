@@ -6,9 +6,9 @@ State and other laws shall apply to corporations organized pursuant to this part
 
 #### Amendments
 
-1991—Pub. L. 102–237 made technical amendment to reference to section 2098 of this title to reflect change in reference to corresponding section of original act.
+<b>1991</b>—Pub. L. 102–237 made technical amendment to reference to section 2098 of this title to reflect change in reference to corresponding section of original act.
 
-1988—Pub. L. 100–399 inserted “or associations” and substituted “2023, 2098,” for “2055, 2079,”.
+<b>1988</b>—Pub. L. 100–399 inserted “or associations” and substituted “2023, 2098,” for “2055, 2079,”.
 
 #### Effective Date of 1991 Amendment
 

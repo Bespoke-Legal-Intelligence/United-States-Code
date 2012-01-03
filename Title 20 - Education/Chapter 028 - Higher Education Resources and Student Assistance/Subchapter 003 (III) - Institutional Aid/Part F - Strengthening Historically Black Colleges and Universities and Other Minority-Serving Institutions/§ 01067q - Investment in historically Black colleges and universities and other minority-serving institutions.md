@@ -24,7 +24,7 @@ An institution of higher education is eligible to receive funds from the amounts
 
 #### (A) Provision of funds
 
-&emsp;&emsp;There shall be available to the Secretary to carry out this section, from funds in the Treasury not otherwise appropriated, $255,000,000 for each of the fiscal years 2008 through 2019. The authority to award grants under this section shall expire at the end of fiscal year 2019.
+&emsp;&emsp;There shall be available to the Secretary to carry out this section, from funds in theTreasury not otherwise appropriated, $255,000,000 for each of the fiscal years 2008 through 2019. The authority to award grants under this section shall expire at the end of fiscal year 2019.
 
 #### (B) Availability
 
@@ -44,7 +44,7 @@ An institution of higher education is eligible to receive funds from the amounts
 
 #### (B) HSI STEM and articulation programs
 
-&emsp;&emsp;The amount made available for allocation under this subparagraph by subparagraph\(A)(i) for any fiscal year shall be available for Hispanic-serving Institutions <sup>1</sup> for activities described in section 1101b of this title, with a priority given to applications that propose—
+&emsp;&emsp;The amount made available for allocation under this subparagraph by subparagraph (A)(i) for any fiscal year shall be available for Hispanic-serving Institutions <sup>1</sup> for activities described in section 1101b of this title, with a priority given to applications that propose—
 
 &emsp;&emsp;&emsp;(i) to increase the number of Hispanic and other low income students attaining degrees in the fields of science, technology, engineering, or mathematics; and
 
@@ -168,7 +168,7 @@ An institution of higher education is eligible to receive funds from the amounts
 
 &emsp;&emsp;(A) has an enrollment of needy students as defined by paragraph (3);
 
-&emsp;&emsp;(B) has an average educational and general expenditure which is low, per full-time equivalent undergraduate student in comparison with the average educational and general expenditure per full-time equivalent undergraduate student of institutions of higher education that offer similar instruction, except that the Secretary may apply the waiver requirements described in section 1068a(b) of this title to this subparagraph in the same manner as the Secretary applies the waiver requirements to section 1058(b)(1)(B) of this title;
+&emsp;&emsp;(B) has an average educational and general expenditure which is low, per full-time equivalent undergraduate student in comparison with the average educational and general expenditure per full-time equivalent undergraduate student of institutions of higher education that offer similar instruction, except that the Secretary may apply the waiver requirements described in section 1068a(b) of this title to this subparagraph in the same manner as the Secretary appliesthe waiver requirements to section 1058(b)(1)(B) of this title;
 
 &emsp;&emsp;(C) has an enrollment of undergraduate students—
 

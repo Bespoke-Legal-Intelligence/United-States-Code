@@ -28,7 +28,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1978—Pub. L. 95–454, renumbered section 7152 of this title as this section.
+<b>1978</b>—Pub. L. 95–454, renumbered section 7152 of this title as this section.
 
-1971—Pub. L. 92–187 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
+<b>1971</b>—Pub. L. 92–187 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 

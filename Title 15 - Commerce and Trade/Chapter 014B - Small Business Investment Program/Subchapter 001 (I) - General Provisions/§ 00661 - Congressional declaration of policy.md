@@ -12,7 +12,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–366 inserted at end “It is the intention of the Congress that in the award of financial assistance under this chapter, when practicable, priority be accorded to small business concerns which lease or purchase equipment and supplies which are produced in the United States and that small business concerns receiving such assistance be encouraged to continue to lease or purchase such equipment and supplies.”
+<b>1992</b>—Pub. L. 102–366 inserted at end “It is the intention of the Congress that in the award of financial assistance under this chapter, when practicable, priority be accorded to small business concerns which lease orpurchase equipment and supplies which are produced in the United States and that small business concerns receiving such assistance be encouraged to continue to lease or purchase such equipment and supplies.”
 
 #### Short Title of 2004 Amendment
 
@@ -40,43 +40,43 @@ Pub. L. 103–403, title V, §501, Oct. 22, 1994, 108 Stat. 4198, provided that:
 
 #### Short Title of 1992 Amendment
 
-Section 401 of title IV of Pub. L. 102–366 provided that: “This Act \[probably means “This title”, amending this section and sections 662, 682, 683, 685 to 687, 687b, and 687<i>l</i> of this title, enacting provisions set out as notes under this section and sections 681 and 687b of this title, and amending provisions set out as a note under section 631 of this title\] may be cited as the ‘Small Business Equity Enhancement Act of 1992’.”
+Pub. L. 102–366, title IV, §401, Sept. 4, 1992, 106 Stat. 1007, provided that: “This Act \[probably means “This title”, amending this section and sections 662, 682, 683, 685 to 687, 687b, and 687<i>l</i> of this title, enacting provisions set out as notes under this section and sections 681 and 687b of this title, and amending provisions set out as a note under section 631 of this title\] may be cited as the ‘Small Business Equity Enhancement Act of 1992’.”
 
 #### Short Title of 1988 Amendment
 
-Pub. L. 100–590, title II, §201, Nov. 3, 1988, 102 Stat. 3007, provided that: “This title \[amending sections 694band 694c of this title and enacting provisions set out as notes under section 694b of this title\] may be cited as the ‘Preferred Surety Bond Guarantee Program Act of 1988’.”
+Pub. L. 100–590, title II, §201, Nov. 3, 1988, 102 Stat. 3007, provided that: “This title \[amending sections 694b and 694c of this title and enacting provisions set out as notes under section 694b of this title\] may be cited as the ‘Preferred Surety Bond Guarantee Program Act of 1988’.”
 
 #### Short Title of 1972 Amendment
 
-Section 1 of Pub. L. 92–595, Oct. 27, 1972, 86 Stat. 1314, provided: “That this Act \[enacting sections 687i and 687j of this title and amending sections 80a–18, 633, 636, 662, 681, 683, 684, and 686 of this title\] may be cited as the ‘Small Business Investment Act Amendments of 1972’.”
+Pub. L. 92–595, §1, Oct. 27, 1972, 86 Stat. 1314, provided: “That this Act \[enacting sections 687i and 687j of this title and amending sections 80a–18, 633, 636, 662, 681, 683, 684, and 686 of this title\] may be cited as the ‘Small Business Investment Act Amendments of 1972’.”
 
 #### Short Title of 1967 Amendment
 
-Section 201 of Pub. L. 90–104, title II, Oct. 11, 1967, 81 Stat. 269, provided that: “This title \[amending sections 681, 682, 683, 684, 686, 687, 687b, and 692 of this title\] may be cited as the ‘Small Business Investment Act Amendments of 1967’.”
+Pub. L. 90–104, title II, §201, Oct. 11, 1967, 81 Stat. 269, provided that: “This title \[amending sections 681, 682, 683, 684, 686, 687, 687b, and 692 of this title\] may be cited as the ‘Small Business Investment Act Amendments of 1967’.”
 
 #### Short Title of 1966 Amendment
 
-Section 1 of Pub. L. 89–779, Nov. 6, 1966, 80 Stat. 1359, provided: “That this Act \[enacting sections 687e, 687f, 687g, and 687h of this title and amending sections 633, 671, 687, 687a, 687b, and 687c of this title, and sections 5315 and 5316 of Title 5, Government Organization and Employees\] may be cited as the ‘Small Business Investment Act Amendments of 1966’.”
+Pub. L. 89–779, §1, Nov. 6, 1966, 80 Stat. 1359, provided: “That this Act \[enacting sections 687e, 687f, 687g, and 687h of this title and amending sections 633, 671, 687, 687a, 687b, and 687c of this title, and sections 5315 and 5316 of Title 5, Government Organization and Employees\] may be cited as the ‘Small Business Investment Act Amendments of 1966’.”
 
 #### Short Title of 1964 Amendment
 
-Section 1 of Pub. L. 88–273, Feb. 28, 1964, 78 Stat. 146, provided: “That this Act \[enacting section 687d and amending sections 682, 686, and 687 of this title\] may be cited as the ‘Small Business Investment Act Amendments of 1963’.”
+Pub. L. 88–273, §1, Feb. 28, 1964, 78 Stat. 146, provided: “That this Act \[enacting section 687d and amending sections 682, 686, and 687 of this title\] may be cited as the ‘Small Business Investment Act Amendments of 1963’.”
 
 #### Short Title of 1961 Amendment
 
-Section 1 of Pub. L. 87–341, Oct. 3, 1961, 75 Stat. 752, provided: “That this Act \[enacting sections 687a, 687b, and 687c of this title, amending sections 633, 662, 681, 683 to 687, and 696 of this title, and enacting provisions set out as notes under sections 631 and 686 of this title\] may be cited as the ‘Small Business Investment Act Amendments of 1961’.”
+Pub. L. 87–341, §1, Oct. 3, 1961, 75 Stat. 752, provided: “That this Act \[enacting sections 687a, 687b, and 687c of this title, amending sections 633, 662, 681, 683 to 687, and 696 of this title, and enacting provisions set out as notes under sections 631 and 686 of this title\] may be cited as the ‘Small Business Investment Act Amendments of 1961’.”
 
 #### Short Title of 1960 Amendment
 
-Section 1 of Pub. L. 86–502, June 11, 1960, 74 Stat. 196, provided: “That this Act \[amending sections 662, 681, 682, and 684 of this title, and section 26–610 of the District of Columbia Code, 1973 edition\] may be cited as the ‘Small Business Investment Act Amendments of 1960’.”
+Pub. L. 86–502, §1, June 11, 1960, 74 Stat. 196, provided: “That this Act \[amending sections 662, 681, 682, and 684 of this title, and section 26–610 of the District of Columbia Code, 1973 edition\] may be cited as the ‘Small Business Investment Act Amendments of 1960’.”
 
 #### Short Title
 
-Section 101 of Pub. L. 85–699, as amended by Pub. L. 106–9, §2(d)(3), Apr. 5, 1999, 113 Stat. 18, provided that: “This Act \[enacting this chapter, amending sections 77c, 77ddd, 80a–18, 633 and 636 of this title, and sections 217 \[now 212\], 218 \[now 213\], 221 \[now 216\], 657, 1006 and 1014 of Title 18, Crimes and Criminal Procedure, repealing section 352a of Title 12, Banks and Banking, and enacting notes set out under this section and former section 352a of title 12\] may be cited as the ‘Small Business Investment Act of 1958’.”
+Pub. L. 85–699, title I, §101, Aug. 21, 1958, 72 Stat. 689, as amended by Pub. L. 106–9, §2(d)(3), Apr. 5, 1999, 113 Stat. 18, provided that: “This Act \[enacting this chapter, amending sections 77c, 77ddd, 80a–18, 633 and 636 of this title, and sections 217 \[now 212\], 218 \[now 213\], 221 \[now 216\], 657, 1006 and 1014 of Title 18, Crimes and Criminal Procedure, repealing section 352a of Title 12, Banks and Banking, and enacting notes set out under this section and former section 352a of title 12\] may be cited as the ‘Small Business Investment Act of 1958’.”
 
 #### Regulations
 
-Section 415 of title IV of Pub. L. 102–366 provided that: “Notwithstanding any law, rule, regulation or administrative moratorium, except as otherwise expressly provided in this Act \[probably means “this title”, see Short Title of 1992 Amendment note above\], the Small Business Administration shall—
+Pub. L. 102–366, title IV, §415, Sept. 4, 1992, 106 Stat. 1018, provided that: “Notwithstanding any law, rule, regulation or administrative moratorium, except as otherwise expressly provided in this Act \[probably means “this title”, see Short Title of 1992 Amendment note above\], the Small Business Administration shall—
 
 &emsp;“(1) within 90 days after the date of enactment of this Act \[Sept. 4, 1992\], publish in the Federal Register proposed rules and regulations implementing this Act and the amendments made by this Act; and
 
@@ -84,5 +84,5 @@ Section 415 of title IV of Pub. L. 102–366 provided that: “Notwithstanding a
 
 #### Effect of Small Business Equity Enhancement Act of 1992 on Securities Laws
 
-Section 418 of title IV of Pub. L. 102–366 provided that: “Nothing in this Act \[probably means “this title”, see Short Title of 1992 Amendment note above\] (and no amendment made by this Act) shall be construed to affect the applicability of the securities laws, as that term is defined in section 3(a)(47) of the Securities Exchange Act of 1934 \[15 U.S.C. 78c(a)(47)\], or any of the rules and regulations thereunder, or otherwise supersede or limit the jurisdiction of the Securities and Exchange Commission or the authority at any time conferred under the securities laws.”
+Pub. L. 102–366, title IV, §418, Sept. 4, 1992, 106 Stat. 1019, provided that: “Nothing in this Act \[probably means “this title”, see Short Title of 1992 Amendment note above\] (and no amendment made by this Act) shallbe construed to affect the applicability of the securities laws, as that term is defined in section 3(a)(47) of the Securities Exchange Act of 1934 \[15 U.S.C. 78c(a)(47)\], or any of the rules and regulations thereunder, or otherwise supersede or limit the jurisdiction of the Securities and Exchange Commission or the authority at any time conferred under the securities laws.”
 

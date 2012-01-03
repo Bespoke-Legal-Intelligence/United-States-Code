@@ -100,7 +100,7 @@ The Secretary may receive oil or gas royalties in-kind only if the Secretary det
 
 #### (2) Accounting for deductions
 
-&emsp;When the Secretary allows the lessee to deduct transportation or processing costs under subsection (c), the Secretary may not reduceany payments to recipients of revenues derived from any other Federal oil and gas lease as a consequence of that deduction.
+&emsp;When the Secretary allows the lessee to deduct transportation or processing costs under subsection (c), the Secretary may not reduce any payments to recipients of revenues derived from any other Federal oil and gas lease as a consequence of that deduction.
 
 #### (g) Consultation with States
 

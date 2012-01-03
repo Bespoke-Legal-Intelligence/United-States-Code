@@ -6,7 +6,7 @@ An individual debtor may, whether or not the debtor has waived the right to rede
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 722 of the House amendment adopts the position taken in H.R. 8200 as passed by the House and rejects the alternative contained in section 722 of the Senate amendment.
 
@@ -24,7 +24,7 @@ The right to redeem extends to the whole of the property, not just the debtor's 
 
 #### Amendments
 
-2005—Pub. L. 109–8 inserted “in full at the time of redemption” before period at end.
+<b>2005</b>—Pub. L. 109–8 inserted “in full at the time of redemption” before period at end.
 
 #### Effective Date of 2005 Amendment
 

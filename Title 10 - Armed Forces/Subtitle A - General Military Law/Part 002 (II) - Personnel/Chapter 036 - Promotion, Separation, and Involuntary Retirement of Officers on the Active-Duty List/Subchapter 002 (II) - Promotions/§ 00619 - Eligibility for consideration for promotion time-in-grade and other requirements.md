@@ -12,7 +12,7 @@ Time-in-Grade Requirements.—(1) An officer who is on the active-duty list of t
 
 &emsp;(A) Three years, in the case of an officer of the Army, Air Force, or Marine Corps holding a permanent appointment in the grade of captain, major, or lieutenant colonel or of an officer of the Navy holding a permanent appointment in the grade of lieutenant, lieutenant commander, or commander.
 
-&emsp;(B) One year, in the case of an officer of the Army, Air Force, or Marine Corps holding a permanent appointment in the grade of colonel or brigadier general or of an officer of the Navy holding a permanent appointment in the grade of captain or rear admiral (lower half).
+&emsp;(B) One year, in the case of an officer of the Army, Air Force, or Marine Corps holding apermanent appointment in the grade of colonel or brigadier general or of an officer of the Navy holding a permanent appointment in the grade of captain or rear admiral (lower half).
 
 (3) When the needs of the service require, the Secretary of the military department concerned may prescribe a longer period of service in grade for eligibility for promotion, in the case of officers to whom paragraph (1) applies, or for eligibility for consideration for promotion, in the case of officers to whom paragraph (2) applies.
 
@@ -60,7 +60,7 @@ Officers To Be Considered by Promotion Boards.—(1) Each time a selection board
 
 Certain Officers Not To Be Considered.—A selection board convened under section 611(a) of this title may not consider for promotion to the next higher grade any of the following officers:
 
-&emsp;(1) An officer whose name is on a promotion list for that grade as a result of his selection for promotion to that grade by an earlier selection board convened under that section.
+&emsp;(1) An officer whose name is on a promotion list for that grade as a result of his selectionfor promotion to that grade by an earlier selection board convened under that section.
 
 &emsp;(2) An officer who is recommended for promotion to that grade in the report of an earlier selection board convened under that section, in the case of such a report that has not yet been approved by the President.
 

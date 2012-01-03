@@ -8,7 +8,7 @@
 
 #### (2) Qualifications
 
-&emsp;The organization with which the Administrator enters into the cooperative agreement shall develop the capabilities to implement research and development projects utilizing the ISS national laboratory and to otherwise manage the activities of the ISS national laboratory.
+&emsp;The organization with which the Administrator enters into the cooperative agreementshall develop the capabilities to implement research and development projects utilizing the ISS national laboratory and to otherwise manage the activities of the ISS national laboratory.
 
 #### (3) Prohibition on other activities
 
@@ -50,7 +50,7 @@ The Administrator shall provide initial financial assistance to the organization
 
 #### (2) Additional research capabilities
 
-&emsp;If any NASA research plan is determined to require research capacity onboard the ISS beyond the percentage allocated under paragraph (1), such research plan shall be prepared in the form of a requested research opportunity to be submitted to the process established under this section for the consideration of proposed research within the capacity allocated to the ISS national laboratory. A proposal for such a research plan may include the establishment of partnerships with non-NASA institutions eligible to propose research to be conducted within the ISS national laboratorycapacity. Until September 30, 2020, the official or employee designated under subsection (b) may grant an exception to this requirement in the case of a proposed experiment considered essential for purposes of preparing for exploration beyond low-Earth orbit, as determined by joint agreement between the organization with which the Administrator enters into a cooperative agreement under subsection (a) and the official or employee designated under subsection (b).
+&emsp;If any NASA research plan is determined to require research capacity onboard the ISS beyond the percentage allocated under paragraph (1), such research plan shall be prepared in the form of a requested research opportunity to be submitted to the process established under this section for the consideration of proposed research within the capacity allocated to the ISS national laboratory. A proposal for such a research plan may include the establishment of partnerships with non-NASA institutions eligible to propose research to be conducted within the ISS national laboratory capacity. Until September 30, 2020, the official or employee designated under subsection (b) may grant an exception to this requirement in the case of a proposed experiment considered essential for purposes of preparing for exploration beyond low-Earth orbit, as determined by joint agreement between the organization with which the Administrator enters into a cooperative agreement under subsection (a) and the official or employee designated under subsection (b).
 
 #### (3) Research priorities and enhanced capacity
 

@@ -36,3 +36,7 @@ If the Secretary enters into any contract with a non-Federal entity for purposes
 
 A prior section 5714–25, Pub. L. 93–415, title III, §345, as added Pub. L. 106–71, §3(i), Oct. 12, 1999, 113 Stat. 1038, related to study of runaways to determine the percent who have been sexually abused, prior to repeal by Pub. L. 108–96, title I, §115, Oct. 10, 2003, 117 Stat. 1170.
 
+#### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+

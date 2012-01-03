@@ -54,11 +54,11 @@ A prior section 3395, added Pub. L. 95–437, §3(a), Oct. 10, 1978, 92 Stat. 10
 
 #### Amendments
 
-1991—Subsec. (e)(1)(B)(ii). Pub. L. 102–175, §3(1), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “has the authority to reassign the career appointee.”
+<b>1991</b>—Subsec. (e)(1)(B)(ii). Pub. L. 102–175, §3(1), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “has the authority to reassign the career appointee.”
 
 Subsec. (e)(3). Pub. L. 102–175, §3(2), added par. (3).
 
-1984—Subsec. (a)(2). Pub. L. 98–615 designated existing provisions as subpar. (A), inserted exception relating to subpar. (B), and added subpar. (B).
+<b>1984</b>—Subsec. (a)(2). Pub. L. 98–615 designated existing provisions as subpar. (A), inserted exception relating to subpar. (B), and added subpar. (B).
 
 #### Effective Date of 1984 Amendment
 

@@ -68,7 +68,7 @@
 
 (1) There are authorized to be appropriated to the National Endowment for the Arts $21,200,000” <sup>2</sup> for fiscal year 1991 and such sums as may be necessary for fiscal years 1992 and 1993, to administer the provisions of this subchapter, or any other program for which the Chairperson of the National Endowment for the Arts is responsible, including not to exceed $50,000 for each such fiscal year for official reception and representation expenses. The total amount which may be obligated or expended for such expenses for fiscal year 1995 through the use of appropriated funds or any other source of funds shall not exceed $100,000.
 
-(2) There are authorized to be appropriated to the National Endowment for the Humanities $17,950,000 for fiscal year 1991 and such sums as may be necessary for fiscal years 1992 and 1993, to administer the provisions of this subchapter, or any other program for which the Chairperson of the National Endowment for the Humanities is responsible, including not to exceed $50,000 for each such fiscal year for official reception and representation expenses. The total amount which may be obligated or expended for such expenses for fiscal year 1995 through the use of appropriated funds or any other source of funds shall not exceed $100,000.
+(2) There are authorized to be appropriated to the National Endowment for the Humanities$17,950,000 for fiscal year 1991 and such sums as may be necessary for fiscal years 1992 and 1993, to administer the provisions of this subchapter, or any other program for which the Chairperson of the National Endowment for the Humanities is responsible, including not to exceed $50,000 for each such fiscal year for official reception and representation expenses. The total amount which may be obligated or expended for such expenses for fiscal year 1995 through the use of appropriated funds or any other source of funds shall not exceed $100,000.
 
 #### (d) Total amount of appropriations
 
@@ -138,7 +138,7 @@ Subsec. (a)(3)(D). Pub. L. 101–512, §318 \[title I, §110(e)(2)\], redesignat
 
 Subsec. (a)(4). Pub. L. 101–512, §318 \[title I, §103(i)(2)(B)\], which directed the substitution of “954(p)(1)” for “954(<i>l</i>)(1)”, could not be executed because “954(<i>l</i>)(1)” does not appear in text.
 
-Subsec. (c)(1). Pub. L. 101–512, §110(f)\[(1)\], substituted “$21,200,000” for fiscal year 1991 and such sums as may be necessary for fiscal years 1992 and 1993” for “$15,982,000 for fiscal year 1986, $16,205,280 for fiscal year1987, $16,853,491 for fiscal year 1988, and such sums as may be necessary for each of the fiscal years 1989 and 1990” and “$50,000” for “$35,000” wherever appearing.
+Subsec. (c)(1). Pub. L. 101–512, §110(f)\[(1)\], substituted “$21,200,000” for fiscal year 1991 and such sums as may be necessary for fiscal years 1992 and 1993” for “$15,982,000 for fiscal year 1986, $16,205,280 for fiscal year 1987, $16,853,491 for fiscal year 1988, and such sums as may be necessary for each of the fiscal years 1989 and 1990” and “$50,000” for “$35,000” wherever appearing.
 
 Subsec. (c)(2). Pub. L. 101–512, §110(f)(2), substituted “$17,950,000 for fiscal year 1991 and such sums as may be necessary for fiscal years 1992 and 1993” for “$14,291,000 for fiscal year 1986, $14,446,640 for fiscal year 1987, $15,024,506 for fiscal year 1988, and such sums as may be necessary for each of the fiscal years 1989 and 1990” and “$50,000” for “$35,000” wherever appearing.
 
@@ -194,7 +194,7 @@ Subsec. (a)(3)(A). Pub. L. 96–496, §108(d), substituted provisions authorizin
 
 Subsec. (a)(3)(B). Pub. L. 96–496, §108(e), substituted provisions authorizing appropriations for each fiscal year ending before Oct. 1, 1985, for the National Endowment for the Humanities for provisions authorizing appropriations for such endowment for fiscal years ending before Oct. 1, 1980.
 
-Subsec. (a)(4). Pub. L. 96–496, §108(f), substituted provisions authorizing the Chairmen of the National Endowments for the Arts and for the Humanities to issue guidelines for the implementation of the provisions of pars. (2) and (3) of this subsection for provisions authorizing and allocating appropriations for the NationalEndowment for the Arts for the purpose of carrying out subsec. (m) of section 954 of this title.
+Subsec. (a)(4). Pub. L. 96–496, §108(f), substituted provisions authorizing the Chairmen of the National Endowments for the Arts and for the Humanities to issue guidelines for the implementation of the provisions of pars. (2) and (3) of this subsection for provisions authorizing and allocating appropriations for the National Endowment for the Arts for the purpose of carrying out subsec. (m) of section 954 of this title.
 
 Subsec. (c). Pub. L. 96–496, §108(g), substituted provisions authorizing specific appropriations for administrative expenses of the National Endowments for the Arts and for the Humanities for fiscal years 1981 to 1985 for provisions authorizing appropriations for administrative expenses of such endowments of such sums as were necessary.
 

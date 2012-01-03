@@ -14,9 +14,9 @@ This part, referred to in subsecs. (a) and (b), commences with section 1379a of 
 
 #### Amendments
 
-1973—Subsec. (c). Pub. L. 91–524, §403(b), as added by Pub. L. 93–86, added subsec. (c).
+<b>1973</b>—Subsec. (c). Pub. L. 91–524, §403(b), as added by Pub. L. 93–86, added subsec. (c).
 
-1965—Pub. L. 89–321 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1965</b>—Pub. L. 89–321 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Inapplicability of Section
 

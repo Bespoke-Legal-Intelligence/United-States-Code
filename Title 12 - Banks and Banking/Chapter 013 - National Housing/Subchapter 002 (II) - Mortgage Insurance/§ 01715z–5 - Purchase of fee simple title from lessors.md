@@ -36,11 +36,11 @@ The provisions of paragraphs (3), (5), (6), (7), (8), and (10) of section 1715k(
 
 #### Amendments
 
-1984—Subsec. (a). Pub. L. 98–479 substituted “purchases” for “purchasers”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–479 substituted “purchases” for “purchasers”.
 
-1983—Subsec. (c)(4). Pub. L. 98–181 substituted provision that the interest rate be such rate as agreed upon by the mortgagor and the mortgagee for provision that the interest rate not exceed such per centum per annum, not in excess of 6 per centum, on the amount of the principal obligation outstanding at any time, as the Secretary finds necessary to meet market conditions, and such other charges as approved by the Secretary.
+<b>1983</b>—Subsec. (c)(4). Pub. L. 98–181 substituted provision that the interest rate be such rate as agreed upon by the mortgagor and the mortgagee for provision that the interest rate not exceed such per centum per annum, not in excess of 6 per centum, on the amount of the principal obligation outstanding at any time, as the Secretary finds necessary to meet market conditions, and such other charges as approved by the Secretary.
 
-1980—Subsec. (c)(5). Pub. L. 96–399 struck out “or three-quarters of the remaining economic life of the home, whichever is the lesser” after “loan”.
+<b>1980</b>—Subsec. (c)(5). Pub. L. 96–399 struck out “or three-quarters of the remaining economic life of the home, whichever is the lesser” after “loan”.
 
-1978—Subsec. (c)(2). Pub. L. 95–557 inserted “($30,000, if the property is located in Hawaii)” after “$10,000”.
+<b>1978</b>—Subsec. (c)(2). Pub. L. 95–557 inserted “($30,000, if the property is located in Hawaii)” after “$10,000”.
 

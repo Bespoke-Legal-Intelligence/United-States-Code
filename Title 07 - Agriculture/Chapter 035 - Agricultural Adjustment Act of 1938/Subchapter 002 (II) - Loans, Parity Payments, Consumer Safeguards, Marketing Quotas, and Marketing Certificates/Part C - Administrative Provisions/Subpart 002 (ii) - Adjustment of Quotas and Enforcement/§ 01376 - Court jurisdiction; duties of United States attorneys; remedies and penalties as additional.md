@@ -6,7 +6,7 @@ The several district courts of the United States are vested with jurisdiction sp
 
 #### Amendments
 
-1964—Pub. L. 88–297 provided for application of this section to liquidated damages under section 1349 of this title.
+<b>1964</b>—Pub. L. 88–297 provided for application of this section to liquidated damages under section 1349 of this title.
 
 #### Change of Name
 

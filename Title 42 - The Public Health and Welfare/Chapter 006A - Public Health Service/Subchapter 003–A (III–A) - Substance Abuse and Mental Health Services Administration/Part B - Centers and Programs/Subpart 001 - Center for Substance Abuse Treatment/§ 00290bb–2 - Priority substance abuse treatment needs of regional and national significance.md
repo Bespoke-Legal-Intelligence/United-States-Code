@@ -34,7 +34,7 @@ The Secretary shall address priority substance abuse treatment needs of regional
 
 #### (3) Matching funds
 
-&emsp;The Secretary may, for projects carried out under subsection (a) of this section, require that entities that apply for grants, contracts, or cooperative agreements under that project provide non-Federal matching funds, as determined appropriate by the Secretary, to ensure the institutional commitment of the entity to the projects funded under the grant, contract, or cooperative agreement. Such non-Federal matching funds may be provided directly or through donations from public or private entities and may be in cash or in kind, fairly evaluated, including plant, equipment, or services.
+&emsp;The Secretary may, for projects carried out under subsection (a) of this section, require that entities that apply for grants, contracts, or cooperative agreements under that project provide non-Federal matching funds, as determined appropriate by the Secretary, to ensure the institutional commitment of the entity tothe projects funded under the grant, contract, or cooperative agreement. Such non-Federal matching funds may be provided directly or through donations from public or private entities and may be in cash or in kind, fairly evaluated, including plant, equipment, or services.
 
 #### (4) Maintenance of effort
 
@@ -50,7 +50,7 @@ The Secretary shall establish comprehensive information and education programs t
 
 #### (f) Authorization of appropriation
 
-There are authorized to be appropriated to carry out this section, $300,000,000 for fiscal year2001 and such sums as may be necessary for each of the fiscal years 2002 and 2003.
+There are authorized to be appropriated to carry out this section, $300,000,000 for fiscal year 2001 and such sums as may be necessary for each of the fiscal years 2002 and 2003.
 
 (July 1, 1944, ch. 373, title V, §509, as added Pub. L. 102–321, title I, §108(a), July 10, 1992, 106 Stat. 341; amended Pub. L. 106–310, div. B, title XXXIII, §3301(b), Oct. 17, 2000, 114 Stat. 1207.)
 

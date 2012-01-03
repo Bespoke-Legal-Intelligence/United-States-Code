@@ -48,7 +48,7 @@
 
 (B) In applying section 6297 of this title in accordance with subparagraph (A), paragraphs (1), (2), and (3) of subsection (a) of this section shall apply.
 
-(3)(A) Section 6297 of this title shall apply to commercial refrigerators, freezers, and refrigerator-freezers for which standards are established under section 6313(c)(4) of this title to the same extent and in the same manner as the provisions apply under part A <sup>3</sup> on the date of publication of the final rule by the Secretary, except that any State or local standard issued before the date of publication of the final rule by theSecretary shall not be preempted until the standards take effect.
+(3)(A) Section 6297 of this title shall apply to commercial refrigerators, freezers, and refrigerator-freezers for which standards are established under section 6313(c)(4) of this title to the same extent and in the same manner as the provisions apply under part A <sup>3</sup> on the date of publication of the final rule by the Secretary, except that any State or local standard issued before the date of publication of the final rule by the Secretary shall not be preempted until the standards take effect.
 
 (B) In applying section 6297 of this title in accordance with subparagraph (A), paragraphs (1), (2), and (3) of subsection (a) of this section shall apply.
 
@@ -118,7 +118,7 @@ Final rule not timely.—
 
 &emsp;&emsp;(A)
 
-In general.—If the Secretary does not issue a final rule for a specific type of walk-in cooler or walk-in freezer within the timeframe established under paragraph (4) or (5)of section 6313(f) of this title, subsections (b) and (c) of section 6297 of this title shall no longer apply to the specific type of walk-in cooler or walk-in freezer during the period—
+In general.—If the Secretary does not issue a final rule for a specific type of walk-in cooler or walk-in freezer within the timeframe established under paragraph (4) or (5) of section 6313(f) of this title, subsections (b) and (c) of section 6297 of this title shall no longer apply to the specific type of walk-in cooler or walk-in freezer during the period—
 
 &emsp;&emsp;&emsp;(i) beginning on the day after the scheduled date for a final rule; and
 

@@ -104,7 +104,7 @@
 
 &emsp;(II) additional compensation, upon the exhaustion of any temporary extended unemployment compensation (if such State has entered into an agreement under the Temporary Extended Unemployment Compensation Act of 2002), for individuals eligible for regular compensation under the unemployment compensation law of such State.
 
-(ii) Any additional compensation under clause (i) may not be taken into account for purposesof any determination relating to the amount of any extended compensation for which an individual might be eligible.
+(ii) Any additional compensation under clause (i) may not be taken into account for purposes of any determination relating to the amount of any extended compensation for which an individual might be eligible.
 
 (C)(i) At the option of the State, cash benefits under this paragraph may include amounts which shall be payable to 1 or more categories of individuals not otherwise eligible for regular compensation under the unemployment compensation law of such State, including those described in clause (iii).
 
@@ -158,7 +158,7 @@ Not later than 10 days after October 20, 2005, the Secretary of the Treasury sha
 
 &emsp;&emsp;(i) One or both of the following offenses as selected by the State, but in making such selection, the resulting change in the State law shall not supercede any other provision of law relating to unemployment insurance to the extent that such other provision provides broader access to unemployment benefits for victims of such selected offense or offenses:
 
-&emsp;&emsp;&emsp;(I) Domestic violence, verified by such reasonable and confidential documentation as the State law may require, whichcauses the individual reasonably to believe that such individual's continued employment would jeopardize the safety of the individual or of any member of the individual's immediate family (as defined by the Secretary of Labor); and
+&emsp;&emsp;&emsp;(I) Domestic violence, verified by such reasonable and confidential documentation as the State law may require, which causes the individual reasonably to believe that such individual's continued employment would jeopardize the safety of the individual or of any member of the individual's immediate family (as defined by the Secretary of Labor); and
 
 &emsp;&emsp;&emsp;(II) Sexual assault, verified by such reasonable and confidential documentation as the State law may require, which causes the individual reasonably to believe that such individual's continued employment would jeopardize the safety of the individual or of any member of the individual's immediate family (as defined by the Secretary of Labor).
 
@@ -198,7 +198,7 @@ Not later than 10 days after October 20, 2005, the Secretary of the Treasury sha
 
 (5)(A) Except as provided in subparagraph (B), any amount transferred to the account of a State under this subsection may be used by such State only in the payment of cash benefits to individuals with respect to their unemployment (including for dependents’ allowances and for unemployment compensation under paragraph (3)(C)), exclusive of expenses of administration.
 
-(B) A State may, subject to the same conditions as set forth in subsection (c)(2) (excludingsubparagraph (B) thereof, and deeming the reference to “subsections (a) and (b)” in subparagraph (D) thereof to include this subsection), use any amount transferred to the account of such State under this subsection for the administration of its unemployment compensation law and public employment offices.
+(B) A State may, subject to the same conditions as set forth in subsection (c)(2) (excluding subparagraph (B) thereof, and deeming the reference to “subsections (a) and (b)” in subparagraph (D) thereof to include this subsection), use any amount transferred to the account of such State under this subsection for the administration of its unemployment compensation law and public employment offices.
 
 (6) Out of any money in the Federal unemployment account not otherwise appropriated, the Secretary of the Treasury shall reserve $7,000,000,000 for incentive payments under this subsection. Any amount so reserved shall not be taken into account for purposes of any determination under section 1102, 1110, or 1323 of this title of the amount in the Federal unemployment account as of any given time. Any amount so reserved for which the Secretary of the Treasury has not received a certification under paragraph (4)(B) by the deadline described in paragraph (4)(C)(iii) shall, upon the close of fiscal year 2011, become unrestricted as to use as part of the Federal unemployment account.
 

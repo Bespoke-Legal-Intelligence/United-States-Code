@@ -70,7 +70,7 @@ The provisions of law and Executive orders to which subsection (e)(6) of this se
 
 &emsp;(12) any other provision of law which the Secretary specifies by publication in the Federal Register for the purpose of this subsection.
 
-(Pub. L. 90–284, title VIII, §808, Apr. 11, 1968, 82 Stat. 84; Pub. L. 95–251, §3, Mar. 27, 1978, 92 Stat. 184; Pub. L. 95–454, title VIII, §801(a)(3)(J), Oct.13, 1978, 92 Stat. 1222; Pub. L. 100–430, §7, Sept. 13, 1988, 102 Stat. 1623.)
+(Pub. L. 90–284, title VIII, §808, Apr. 11, 1968, 82 Stat. 84; Pub. L. 95–251, §3, Mar. 27, 1978, 92 Stat. 184; Pub. L. 95–454, title VIII, §801(a)(3)(J), Oct. 13, 1978, 92 Stat. 1222; Pub. L. 100–430, §7, Sept. 13, 1988, 102 Stat. 1623.)
 
 #### References in Text
 
@@ -168,7 +168,7 @@ Sec. 3. <i>President's Fair Housing Council.</i>
 
 3–303. In support of cooperative efforts among all executive agencies, the Secretary of Housing and Urban Development shall:
 
-(a) cooperate with, and render assistance to, the heads of all executive agencies in the formulation of policies and procedures to implement this order and to provide information and guidance on the affirmative administration of programs and activities relating to housing and urban development and the protection of the rights accorded by the Act; and
+(a) cooperate with, and render assistance to, the heads of all executive agencies in the formulation of policies and procedures to implement this order and toprovide information and guidance on the affirmative administration of programs and activities relating to housing and urban development and the protection of the rights accorded by the Act; and
 
 (b) develop memoranda of understanding and any necessary implementing procedures among executive agencies designed to provide for consultation and the coordination of Federal efforts to further fair housing through the affirmative administration of programs and activities relating to housing and urban development, including coordination of the investigation of complaints or other information referred to the Secretary as required by section 2–204 of this order that would constitute a violation of the Act or, where relevant, other Federal laws. Existing memoranda of understanding shall remain in effect until superseded.
 
@@ -224,7 +224,7 @@ Sec. 5. <i>Administrative Enforcement.</i>
 
 Sec. 6. <i>General Provisions.</i>
 
-6–601. Nothing in this order shall limit the authority of the Attorney General to provide for the coordinated enforcement of nondiscrimination requirements in Federal assistance programs under Executive Order No. 12250 \[42 U.S.C. 2000d–1 note\].
+6–601. Nothing in this order shall limit the authority of the Attorney General to provide for the coordinatedenforcement of nondiscrimination requirements in Federal assistance programs under Executive Order No. 12250 \[42 U.S.C. 2000d–1 note\].
 
 6–602. All provisions of regulations, guidelines, and procedures proposed to be issued by executive agencies pursuant to this order that implement nondiscrimination requirements of laws covered by Executive Order No. 12250 \[42 U.S.C. 2000d–1 note\] shall be submitted to the Attorney General for review in accordance with that Executive order. In addition, the Secretary shall consult with the Attorney General regarding all regulations and procedures proposed to be issued under sections 4–401 and 4–402 of this order to assure consistency with coordinated Federal efforts to enforce nondiscrimination requirements in programs of Federal financial assistance pursuant to Executive Order No. 12250.
 
@@ -276,7 +276,7 @@ Third, I ask the heads of departments and agencies, including the Federal bankin
 
 Further, I direct the Secretary of Housing and Urban Development to review all of HUD's programs to assure that they truly provide equal opportunity and promote economic self-sufficiency for those who are beneficiaries and recipients of those programs.
 
-I also direct the Secretary to review HUD's programs to assure that they contain the maximum incentives to affirmatively further fair housing and to eliminate barriers to free choice where they continue to exist. This review shall include Federally assisted housing, Federally insured housing and other housing and housing related programs, including those of the Government National Mortgage Association and the Federal Housing Administration.
+I also direct the Secretary to review HUD's programs to assure that they contain the maximum incentives to affirmatively further fair housing and to eliminate barriers to free choice where they continue to exist. Thisreview shall include Federally assisted housing, Federally insured housing and other housing and housing related programs, including those of the Government National Mortgage Association and the Federal Housing Administration.
 
 Today, I am establishing a new Cabinet-level organization to focus the cooperative efforts of all agencies on fair housing. The President's Fair Housing Council will be chaired by the Secretary of Housing and Urban Development and will consist of the Secretary of Health and Human Services, the Secretary of Transportation, the Secretary of Education, the Secretary of Labor, the Secretary of Defense, the Secretary of Agriculture, the Secretary of Veterans Affairs, the Secretary of the Treasury, the Attorney General, the Secretary of the Interior, the Chair of the Federal Reserve, the Comptroller of the Currency, the Director of the Office of Thrift Supervision, and the Chair of the Federal Deposit Insurance Corporation.
 

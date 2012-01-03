@@ -10,7 +10,7 @@
 
 &emsp;(4) it is estimated that approximately 80 per centum of unmarried teenagers who carry their pregnancies to term live with their families before and during their pregnancy and remain with their families after the birth of the child;
 
-&emsp;(5) pregnancy and childbirth among unmarried adolescents, particularly young adolescents, often results in severe adverse health, social, and economic consequences including: a higher percentage of pregnancy and childbirth complications; a higher incidence of low birth weight babies; a higher infant mortality and morbidity; a greater likelihood that an adolescent marriage will end in divorce; a decreased likelihood of completing schooling; and higher risks of unemployment and welfare dependency; and therefore, education, training, and job research services are important for adolescent parents;
+&emsp;(5) pregnancy and childbirth among unmarried adolescents, particularly young adolescents, often results in severe adverse health, social, and economic consequences including: a higher percentage of pregnancy and childbirth complications; a higher incidence of low birth weight babies; a higher infant mortalityand morbidity; a greater likelihood that an adolescent marriage will end in divorce; a decreased likelihood of completing schooling; and higher risks of unemployment and welfare dependency; and therefore, education, training, and job research services are important for adolescent parents;
 
 &emsp;(6)(A) adoption is a positive option for unmarried pregnant adolescents who are unwilling or unable to care for their children since adoption is a means of providing permanent families for such children from available approved couples who are unable or have difficulty in conceiving or carrying children of their own to term; and
 
@@ -26,7 +26,7 @@
 
 &emsp;(10)(A) prevention of adolescent sexual activity and adolescent pregnancy depends primarily upon developing strong family values and close family ties, and since the family is the basic social unit in which the values and attitudes of adolescents concerning sexuality and pregnancy are formed, programs designed to deal with issues of sexuality and pregnancy will be successful to the extent that such programs encourage and sustain the role of the family in dealing with adolescent sexual activity and adolescent pregnancy;
 
-&emsp;(B) Federal policy therefore should encourage the development of appropriate health,educational, and social services where such services are now lacking or inadequate, and the better coordination of existing services where they are available; and
+&emsp;(B) Federal policy therefore should encourage the development of appropriate health, educational, and social services where such services are now lacking or inadequate, and the better coordination of existing services where they are available; and
 
 &emsp;(C) services encouraged by the Federal Government should promote the involvement of parents with their adolescent children, and should emphasize the provision of support by other family members, religious and charitable organizations, voluntary associations, and other groups in the private sector in order to help adolescents and their families deal with complex issues of adolescent premarital sexual relations and the consequences of such relations; and
 

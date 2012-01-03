@@ -1,6 +1,6 @@
 ### §5052. Suspension and termination of financial assistance; procedures; notice and hearing; emergency situations; refunding applications
 
-(a) The Director is authorized, in accordance with the provisions of this section, to suspendfurther payments or to terminate payments under any contract or grant providing assistance under this chapter, whenever the Director determines there is a material failure to comply with the applicable terms and conditions of any such grant or contract. The Director shall prescribe procedures to insure that—
+(a) The Director is authorized, in accordance with the provisions of this section, to suspend further payments or to terminate payments under any contract or grant providing assistance under this chapter, whenever the Director determines there is a material failure to comply with the applicable terms and conditions of any such grant or contract. The Director shall prescribe procedures to insure that—
 
 &emsp;(1) assistance under this chapter shall not be suspended for failure to comply with applicable terms and conditions, except in emergency situations for thirty days;
 

@@ -32,7 +32,7 @@ The mines, wells, and other natural deposits, and the percentages, referred to i
 
 &emsp;Asbestos (if paragraph (1)(B) does not apply), brucite, coal, lignite, perlite, sodium chloride, and wollastonite.
 
-#### (5) 71/2 percent
+#### (5) 7½ percent
 
 &emsp;Clay and shale used or sold for use in the manufacture of sewer pipe or brick, and clay, shale, and slate used or sold for use as sintered or burned lightweight aggregates.
 
@@ -46,7 +46,7 @@ The mines, wells, and other natural deposits, and the percentages, referred to i
 
 #### (7) 14 percent
 
-&emsp;All other minerals, including, but not limited to, aplite, barite, borax, calcium carbonates, diatomaceous earth, dolomite, feldspar, fullers earth, garnet, gilsonite, granite, limestone, magnesite, magnesium carbonates, marble, mollusk shells (including clam shells and oyster shells), phosphate rock, potash, quartzite, slate, soapstone, stone (used or sold for use by the mine owner or operator as dimension stone or ornamental stone), thenardite, tripoli, trona, and (if paragraph (1)(B) does not apply) bauxite, flake graphite, fluorspar, lepidolite, mica, spodumene, and talc (including pyrophyllite), except that, unless sold on bid in direct competition with a bona fide bid to sell a mineral listed in paragraph (3), the percentage shall be 5 percent for any such other mineral (other than slate to which paragraph (5) applies) when used, or sold for use, by the mine owner or operator as rip rap, ballast, road material, rubble, concrete aggregates, or for similar purposes. For purposes of this paragraph, the term “all other minerals” does not include—
+&emsp;All other minerals, including, but not limited to, aplite, barite, borax, calcium carbonates, diatomaceous earth, dolomite, feldspar, fullers earth, garnet, gilsonite, granite, limestone, magnesite, magnesium carbonates, marble, mollusk shells (including clam shells and oyster shells), phosphate rock, potash, quartzite, slate, soapstone, stone (used or sold for use by the mine owner or operator as dimension stone or ornamental stone), thenardite, tripoli, trona, and (if paragraph (1)(B) does not apply) bauxite, flake graphite, fluorspar, lepidolite, mica, spodumene, and talc (including pyrophyllite), except that, unless sold on bid in direct competition with a bona fide bid to sell a mineral listed in paragraph (3), the percentage shall be 5 percent for any such other mineral (other than slate to which paragraph (5) applies) when used, or sold for use, by the mine owner or operator as riprap, ballast, road material, rubble, concrete aggregates, or for similar purposes. For purposes of this paragraph, the term “all other minerals” does not include—
 
 &emsp;&emsp;(A) soil, sod, dirt, turf, water, or mosses;
 
@@ -156,7 +156,7 @@ Subsec. (d). Pub. L. 94–12, §501(b)(1), substituted provisions denying the pe
 
 <b>1974</b>—Subsec. (c)(4)(E). Pub. L. 93–499 inserted reference to decarbonation of trona.
 
-<b>1969</b>—Subsec. (b). Pub. L. 91–172, §501(a), reduced the percentage depletion rate on oil and gas wells from 271/2 percent to 22 percent, reduced to 22 percent other minerals formerly receiving percentage depletion at a rate of 23 percent, added molybdenum in the category of minerals subject to the 22 percent depletion rate, reduced to 14 percent the rate on minerals formerly receiving depletion at a 15 percent rate except in the case of domestic gold, silver, oil shale, copper, and iron ore, and inserted provision that for percentage depletion purposes, minerals other than sodium chloride, extracted from brine pumped from a saline perennial lake within the United States are not to be considered minerals from an inexhaustible source.
+<b>1969</b>—Subsec. (b). Pub. L. 91–172, §501(a), reduced the percentage depletion rate on oil and gas wells from 27½ percent to 22 percent, reduced to 22 percent other minerals formerly receiving percentage depletion at a rate of 23 percent, added molybdenum in the category of minerals subject to the 22 percent depletion rate, reduced to 14 percent the rate on minerals formerly receiving depletion at a 15 percent rate except in the case of domestic gold, silver, oil shale, copper, and iron ore, and inserted provision that for percentage depletion purposes, minerals other than sodium chloride, extracted from brine pumped from a saline perennial lake within the United States are not to be considered minerals from an inexhaustible source.
 
 Subsec. (c)(4)(H), (I). Pub. L. 91–172, §502(a), added subpar. (H) and redesignated former subpar. (H) as (I).
 
@@ -178,7 +178,7 @@ Subsec. (c)(4)(G). Pub. L. 89–809, §209(b), substituted “paragraph (5) or (
 
 <b>1960</b>—Subsec. (b)(3). Pub. L. 86–564, §302(a)(1), limited the 15 percent allowance for ball clay, bentonite, china clay, and sagger clay to cases where paragraph (5)(B) does not apply, and authorized a 15 percent allowance, if paragraph (5)(B) does not apply, for clay used or sold for use for purposes dependent on its refractory properties.
 
-Subsec. (b)(5). Pub. L. 86–564, §302(a)(2), substituted provisions authorizing a 5 percent allowance for clay used, or sold for use, in the manufacture of building or paving brick, drainage and roofing tile, sewer pipe, flower pots, and kindred products for provisions which authorized a 5 percent allowance for brick and tile clay.
+Subsec. (b)(5). Pub. L. 86–564, §302(a)(2), substituted provisions authorizing a 5 percent allowance for clay used, or sold for use, in the manufacture of building orpaving brick, drainage and roofing tile, sewer pipe, flower pots, and kindred products for provisions which authorized a 5 percent allowance for brick and tile clay.
 
 Subsec. (b)(6). Pub. L. 86–564, §302(a)(3), struck out provisions which authorized a 15 percent allowance for refractory and fire clay. See subsec. (b)(3) of this section.
 
@@ -274,7 +274,7 @@ Years to which applicable.—An election made under subparagraph (C) to have the
 
 &emsp;&emsp;&emsp;“(iii) the commencement of a suit for recovery of a refund under section 7405 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[section 7405 of this title\],
 
-&nbsp;&nbsp;is not prevented on the date of the enactment of this paragraph \[Sept. 14, 1960\] by the operation of any law or rule of law. Such election shall also be effective for any taxable year beginning before January 1, 1961, in respect of which an assessment of a deficiency has been made but not collected on or before the date of the enactment of this paragraph.
+&nbsp;&nbsp;is not prevented on the date of the enactment of this paragraph \[Sept. 14, 1960\] by the operation ofany law or rule of law. Such election shall also be effective for any taxable year beginning before January 1, 1961, in respect of which an assessment of a deficiency has been made but not collected on or before the date of the enactment of this paragraph.
 
 &emsp;&emsp;“(C)
 
@@ -306,7 +306,7 @@ Pub. L. 87–312, Sept. 26, 1961, 75 Stat. 674, provided for the election of, an
 
 #### Election for Quartzite and Clay Used in Production of Refractory Products
 
-Pub. L. 87–321, §2, Sept. 26, 1961, 75 Stat. 683, provided for an election of, and procedures for, a differing rate of depletion for quartzite and clay used in production of refractory products, such election to be effective on and after Jan. 1, 1951, for all taxable years beginning before Jan. 1, 1961, in respect of which the assessment of a deficiency, the refund or credit of an overpayment, or the commencement of a suit for recovery is not prevented on Sept. 26, 1961, by the operation of any law orrule of law, and also effective on and after Jan. 1, 1951, for any taxable year beginning before Jan. 1, 1961, in respect of which an assessment of a deficiency has been made but not collected on or before Sept. 26, 1961.
+Pub. L. 87–321, §2, Sept. 26, 1961, 75 Stat. 683, provided for an election of, and procedures for, a differing rate of depletion for quartzite and clay used in production of refractory products, such election to be effective on and after Jan. 1, 1951, for all taxable years beginning before Jan. 1, 1961, in respect of which the assessment of a deficiency, the refund or credit of an overpayment, or the commencement of a suit for recovery is not prevented on Sept. 26, 1961, by the operation of any law or rule of law, and also effective on and after Jan. 1, 1951, for any taxable year beginning before Jan. 1, 1961, in respect of which an assessment of a deficiency has been made but not collected on or before Sept. 26, 1961.
 
 #### Refund or Credit of Overpayments; Limitations; Interest
 

@@ -36,7 +36,7 @@ Section 1 of act Mar. 10, 1950, provided that: “This Act \[enacting this chapt
 
 #### Titles of Act
 
-Sections 1 and 3 of act Aug. 9, 1955, designated sections 1621 to 1627 of this title as “Title I” of act Mar. 10, 1950, which is classified to subchapter I of this chapter and added “Title II—Vesting and Liquidation of Bulgarian, Hungarian, and Rumanian Property” and “Title III—Claims Against Bulgaria, Hungary, Rumania, Italy, and the Soviet Union”, which are classified to subchapters II and III, respectively, of this chapter. Pub. L. 85–604 added Title IV, Claims Against Czechoslovakia, which is classified to subchapter IV of this chapter. Pub. L. 88–666 added Title V, Claims Against Cuba and China, which is classified to subchapter V of this chapter. Pub. L. 94–542 added Title VI, Claims Against German Democratic Republic, which is classified to subchapter VI of this chapter. Pub. L. 96–606 added Title VII, Claims Against Vietnam, which is classified to subchapter VII of this chapter.
+Sections 1 and 3 of act Aug. 9, 1955, designated sections 1621 to 1627 of this title as “Title I” of act Mar.10, 1950, which is classified to subchapter I of this chapter and added “Title II—Vesting and Liquidation of Bulgarian, Hungarian, and Rumanian Property” and “Title III—Claims Against Bulgaria, Hungary, Rumania, Italy, and the Soviet Union”, which are classified to subchapters II and III, respectively, of this chapter. Pub. L. 85–604 added Title IV, Claims Against Czechoslovakia, which is classified to subchapter IV of this chapter. Pub. L. 88–666 added Title V, Claims Against Cuba and China, which is classified to subchapter V of this chapter. Pub. L. 94–542 added Title VI, Claims Against German Democratic Republic, which is classified to subchapter VI of this chapter. Pub. L. 96–606 added Title VII, Claims Against Vietnam, which is classified to subchapter VII of this chapter.
 
 #### Abolition of International Claims Commission and Transfer of Functions
 
@@ -44,7 +44,7 @@ International Claims Commission of the United States, including offices of its m
 
 #### Appropriations
 
-Section 9 of act Mar. 10, 1950, provided that: “There is hereby authorized to be appropriated, out of anymoney in the Treasury not otherwise appropriated, such sums as may be necessary to enable the Commission to carry out its functions under this Act \[enacting this chapter\].”
+Section 9 of act Mar. 10, 1950, provided that: “There is hereby authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, such sums as may be necessary to enable the Commission to carry out its functions under this Act \[enacting this chapter\].”
 
 #### United States Holocaust Assets Commission
 
@@ -164,7 +164,7 @@ Insurance policies.—
 
 &emsp;&emsp;“(A)
 
-In general.—In carrying out its duties under this Act, the Commission shall take note of the work of the National Association of Insurance Commissioners with regard to Holocaust-era insurance issues and shall encourage the National Association of Insurance Commissioners to prepare a report on the Holocaust-related claims practices of all insurance companies, both domestic and foreign, doing business in the United States at any time after January 30, 1933, that issued any individual life, health, or property-casualty insurance policy to any individual on any list of Holocaust victims, including the following lists:
+In general.—In carrying out its duties under this Act, the Commission shall take note of the work of the National Association of InsuranceCommissioners with regard to Holocaust-era insurance issues and shall encourage the National Association of Insurance Commissioners to prepare a report on the Holocaust-related claims practices of all insurance companies, both domestic and foreign, doing business in the United States at any time after January 30, 1933, that issued any individual life, health, or property-casualty insurance policy to any individual on any list of Holocaust victims, including the following lists:
 
 &emsp;&emsp;&emsp;“(i) The list maintained by the United States Holocaust Memorial Museum in Washington, D.C., of Jewish Holocaust survivors.
 
@@ -184,7 +184,7 @@ Information to be included.—The report on insurance companies prepared pursuan
 
 &emsp;&emsp;“(C)
 
-Coordination.—The Commission shall coordinate its work on insurance issues with that of theinternational Washington Conference on Holocaust-Era Assets, to be convened by the Department of State and the United States Holocaust Memorial Council.
+Coordination.—The Commission shall coordinate its work on insurance issues with that of the international Washington Conference on Holocaust-Era Assets, to be convened by the Department of State and the United States Holocaust Memorial Council.
 
 “(b)
 
@@ -282,7 +282,7 @@ Compensation.—The Chairperson of the Commission may fix the compensation of th
 
 &emsp;&emsp;“(A) the rate of pay for the executive director of the Commission may not exceed the rate payable for level III of the Executive Schedule under section 5314 of title 5, United States Code; and
 
-&emsp;&emsp;“(B) the rate of pay for the deputy executive director, the general counsel of the Commission, and other Commission personnel may not exceed the rate payable for level IV of the Executive Schedule under section 5315 of title 5, United States Code.
+&emsp;&emsp;“(B) the rate of pay for the deputy executive director, the general counsel of the Commission, andother Commission personnel may not exceed the rate payable for level IV of the Executive Schedule under section 5315 of title 5, United States Code.
 
 &emsp;“(5)
 

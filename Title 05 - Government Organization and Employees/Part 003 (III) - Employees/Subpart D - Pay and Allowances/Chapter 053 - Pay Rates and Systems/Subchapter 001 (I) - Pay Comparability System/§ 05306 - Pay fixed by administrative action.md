@@ -14,7 +14,7 @@
 
 > may be adjusted, by the appropriate authority concerned, effective at the beginning of the first applicable pay period commencing on or after the day on which a pay adjustment becomes effective under section 5303 (or prior provision of law), by whichever of the following methods the appropriate authority concerned considers appropriate—
 
-&emsp;(i) by an amount or amounts not in excess of the pay adjustment provided under section5303 for corresponding rates of pay in the appropriate schedule or scale of pay;
+&emsp;(i) by an amount or amounts not in excess of the pay adjustment provided under section 5303 for corresponding rates of pay in the appropriate schedule or scale of pay;
 
 &emsp;(ii) if there are no corresponding rates of pay, by an amount or amounts equal or equivalent, insofar as practicable and with such exceptions and modifications as may be necessary to provide for appropriate pay relationships between positions, to the amount of the pay adjustment provided under section 5303; or
 
@@ -40,11 +40,11 @@ Level V of the Executive Schedule, referred to in subsec. (e), is set out in sec
 
 #### Amendments
 
-1996—Subsec. (a)(1)(A). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk”.
+<b>1996</b>—Subsec. (a)(1)(A). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk”.
 
-1992—Subsec. (a)(1)(B). Pub. L. 102–378 substituted “section 166b–3a” for “section 166b–3”.
+<b>1992</b>—Subsec. (a)(1)(B). Pub. L. 102–378 substituted “section 166b–3a” for “section 166b–3”.
 
-1990—Pub. L. 101–509 amended section generally, substituting provisions authorizing adjustments in rates of pay, minimum or maximum rates of pay, and monetary limitations or allowances with respect to pay of certain Federal employees for provisions establishing Advisory Committee on Federal Pay and setting forth its duties.
+<b>1990</b>—Pub. L. 101–509 amended section generally, substituting provisions authorizing adjustments in rates of pay, minimum or maximum rates of pay, and monetary limitations or allowances with respect to pay of certain Federal employees for provisions establishing Advisory Committee on Federal Pay and setting forth its duties.
 
 #### Effective Date of 1990 Amendment
 

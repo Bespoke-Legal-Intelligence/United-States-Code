@@ -8,13 +8,13 @@
 
 #### Historical and Revision Notes
 
-I74senate report no. 95–989
+#### senate report no. 95–989
 
 This section permits the court, after notice and a hearing, to remove a trustee for cause.
 
 #### Amendments
 
-1986—Pub. L. 99–554 amended section generally, designating existing provisions as subsec. (a), substituting “a trustee, other than the United States trustee, or an examiner” for “a trustee or an examiner”, and adding subsec. (b).
+<b>1986</b>—Pub. L. 99–554 amended section generally, designating existing provisions as subsec. (a), substituting “a trustee, other than the United States trustee, or an examiner” for “a trustee or an examiner”, and adding subsec. (b).
 
 #### Effective Date of 1986 Amendment
 

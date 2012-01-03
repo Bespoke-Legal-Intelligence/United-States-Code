@@ -12,7 +12,7 @@ Penalties.—At the option of the Secretary concerned, a member of the Selected 
 
 Effect of Repayment.—Any repayment under section 303a(e) of title 37 shall not affect the period of obligation of a member to serve as a Reserve in the Selected Reserve.
 
-(Added Pub. L. 95–79, title IV, §402(a), July 30, 1977, 91 Stat. 330, §2135; amended Pub. L. 95–485, title IV, §402(b), Oct. 20, 1978, 92 Stat. 1613; Pub. L. 96–342, title IX, §906(b), Sept. 8, 1980, 94 Stat. 1117; Pub. L. 98–525, title VII, §705(a)(1), Oct. 19, 1984, 98 Stat. 2566; Pub. L. 100–689, title I, §111(b)(6), Nov. 18, 1988, 102 Stat. 4173; renumbered §16135 and amended Pub. L. 103–337, div. A, title XVI, §1663(b)(2), (6), Oct. 5, 1994, 108 Stat. 3006, 3007; Pub. L. 104–106, div. A, title XV, §1501(b)(35), Feb. 10, 1996, 110 Stat. 498; Pub. L. 107–314, div. A, title VI, §642, Dec. 2, 2002, 116 Stat. 2577; Pub. L. 109–163, div. A, title VI, §687(c)(12), Jan. 6, 2006, 119 Stat. 3335.)
+(Added Pub. L. 95–79, title IV, §402(a), July 30, 1977, 91 Stat. 330, §2135; amended Pub. L. 95–485, title IV, §402(b), Oct. 20, 1978, 92 Stat. 1613; Pub. L. 96–342, title IX, §906(b), Sept. 8, 1980, 94 Stat. 1117; Pub. L. 98–525, title VII, §705(a)(1), Oct. 19, 1984, 98 Stat. 2566; Pub. L. 100–689, title I, §111(b)(6), Nov. 18, 1988, 102 Stat. 4173; renumbered §16135 and amended Pub. L. 103–337, div. A,title XVI, §1663(b)(2), (6), Oct. 5, 1994, 108 Stat. 3006, 3007; Pub. L. 104–106, div. A, title XV, §1501(b)(35), Feb. 10, 1996, 110 Stat. 498; Pub. L. 107–314, div. A, title VI, §642, Dec. 2, 2002, 116 Stat. 2577; Pub. L. 109–163, div. A, title VI, §687(c)(12), Jan. 6, 2006, 119 Stat. 3335.)
 
 #### Amendments
 
@@ -52,5 +52,5 @@ Amendment by Pub. L. 98–525 effective July 1, 1985, applicable only to members
 
 #### Savings Provision
 
-For savings provision relating to payment or repayment of any bonus, incentive pay, special pay, or similar pay obligated to be paid before Apr. 1, 2006, under aprovision of this section amended by section 687(c) of Pub. L. 109–163, see section 687(f) of Pub. L. 109–163, set out as a note under section 510 of this title.
+For savings provision relating to payment or repayment of any bonus, incentive pay, special pay, or similar pay obligated to be paid before Apr. 1, 2006, under a provision of this section amended by section 687(c) of Pub. L. 109–163, see section 687(f) of Pub. L. 109–163, set out as a note under section 510 of this title.
 

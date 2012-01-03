@@ -4,7 +4,7 @@
 
 If an armored car crew member employed by an armored car company—
 
-&emsp;(1) has in effect a license issued by the appropriate State agency (in the State in which such member is primarily employed by such company) to carry a weapon while acting in the services of such company in that State,and such State agency meets the minimum requirements under subsection (b) of this section; and
+&emsp;(1) has in effect a license issued by the appropriate State agency (in the State in which such member is primarily employed by such company) to carry a weapon while acting in the services of such company in that State, and such State agency meets the minimum requirements under subsection (b) of this section; and
 
 &emsp;(2) has met all other applicable requirements to act as an armored car crew member in the State in which such member is primarily employed by such company,
 

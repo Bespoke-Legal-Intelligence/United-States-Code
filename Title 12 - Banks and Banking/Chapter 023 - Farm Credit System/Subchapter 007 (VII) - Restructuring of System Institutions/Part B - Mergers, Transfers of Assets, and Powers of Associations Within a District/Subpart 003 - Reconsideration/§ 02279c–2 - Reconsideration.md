@@ -64,7 +64,7 @@ A stockholder vote in favor of—
 
 &emsp;&emsp;&emsp;(i) the loans of the members of the new association will be transferred from the current association to such new association;
 
-&emsp;&emsp;&emsp;(ii) the stock, participation certificates, and other similar equities of the current association held by members of the new association will be retired at book value and the proceeds of such will be transferred to the new association, and an equivalent amount of stock, participation certificates, and other similar equities will be issued to the members by the new association; and
+&emsp;&emsp;&emsp;(ii) the stock, participation certificates, and other similar equities of the currentassociation held by members of the new association will be retired at book value and the proceeds of such will be transferred to the new association, and an equivalent amount of stock, participation certificates, and other similar equities will be issued to the members by the new association; and
 
 &emsp;&emsp;&emsp;(iii) the other assets of the current association will be distributed equitably among the current association and any resulting new association.
 
@@ -106,7 +106,7 @@ A stockholder vote in favor of—
 
 #### Amendments
 
-1988—Subsec. (a)(1). Pub. L. 100–399, §408(n)(1), substituted “this chapter” for “section 2252(a)(2) of this title”.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–399, §408(n)(1), substituted “this chapter” for “section 2252(a)(2) of this title”.
 
 Subsec. (a)(4). Pub. L. 100–399, §408(n)(5), redesignated par. (5) as (4).
 

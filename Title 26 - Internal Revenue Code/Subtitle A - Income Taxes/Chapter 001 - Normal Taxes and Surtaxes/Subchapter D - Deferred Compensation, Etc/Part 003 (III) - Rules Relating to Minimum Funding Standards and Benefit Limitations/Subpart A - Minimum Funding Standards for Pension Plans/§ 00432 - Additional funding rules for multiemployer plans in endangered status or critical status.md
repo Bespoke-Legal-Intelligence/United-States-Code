@@ -32,7 +32,7 @@ For purposes of this section—
 
 #### (2) Critical status
 
-&emsp;A multiemployer plan is in critical status for a plan year if, as determined by the planactuary under paragraph (3), the plan is described in 1 or more of the following subparagraphs as of the beginning of the plan year:
+&emsp;A multiemployer plan is in critical status for a plan year if, as determined by the plan actuary under paragraph (3), the plan is described in 1 or more of the following subparagraphs as of the beginning of the plan year:
 
 &emsp;&emsp;(A) A plan is described in this subparagraph if—
 
@@ -136,7 +136,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) shall provide to the bargaining parties 1 or more schedules showing revised benefit structures, revised contribution structures, or both, which, if adopted, may reasonably be expected to enable the multiemployer plan to meet the applicable benchmarks in accordance with the funding improvement plan, including—
 
-&emsp;&emsp;&emsp;&emsp;(I) one proposal for reductions in the amount of future benefit accruals necessary to achieve the applicable benchmarks, assuming no amendments increasing contributions under the plan (other than amendments increasing contributions necessary to achieve the applicable benchmarks after amendments have reduced future benefit accruals to the maximum extent permitted by law), and
+&emsp;&emsp;&emsp;&emsp;(I) one proposal for reductions in the amount of future benefit accruals necessary to achieve the applicable benchmarks, assuming no amendments increasing contributions under the plan (other than amendments increasing contributions necessary to achieve the applicable benchmarks after amendmentshave reduced future benefit accruals to the maximum extent permitted by law), and
 
 &emsp;&emsp;&emsp;&emsp;(II) one proposal for increases in contributions under the plan necessary to achieve the applicable benchmarks, assuming no amendments reducing future benefit accruals under the plan, and
 
@@ -368,7 +368,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) the second anniversary of the date of the adoption of the rehabilitation plan, or
 
-&emsp;&emsp;&emsp;(ii) the expiration of the collective bargaining agreements in effect on the duedate for the actuarial certification of critical status for the initial critical year under subsection (a)(1) and covering, as of such date at least 75 percent of the active participants in such multiemployer plan.
+&emsp;&emsp;&emsp;(ii) the expiration of the collective bargaining agreements in effect on the due date for the actuarial certification of critical status for the initial critical year under subsection (a)(1) and covering, as of such date at least 75 percent of the active participants in such multiemployer plan.
 
 > &emsp;&emsp;If a plan emerges from critical status as provided under subparagraph (B) before the end of such 10-year period, the rehabilitation period shall end with the plan year preceding the plan year for which the determination under subparagraph (B) is made.
 
@@ -498,7 +498,7 @@ For purposes of this section—
 
 #### (B) Special rules for benefit increases
 
-&emsp;&emsp;A plan may not be amended after the date of the adoption of a rehabilitation plan under subsection (e) so as to increase benefits, including future benefit accruals, unless the plan actuary certifies that such increase is paid for out of additional contributions not contemplated by the rehabilitation plan,and, after taking into account the benefit increase, the multiemployer plan still is reasonably expected to emerge from critical status by the end of the rehabilitation period on the schedule contemplated in the rehabilitation plan.
+&emsp;&emsp;A plan may not be amended after the date of the adoption of a rehabilitation plan under subsection (e) so as to increase benefits, including future benefit accruals, unless the plan actuary certifies that such increase is paid for out of additional contributions not contemplated by the rehabilitation plan, and, after taking into account the benefit increase, the multiemployer plan still is reasonably expected to emerge from critical status by the end of the rehabilitation period on the schedule contemplated in the rehabilitation plan.
 
 #### (2) Restriction on lump sums and similar benefits
 
@@ -626,7 +626,7 @@ For purposes of this section—
 
 #### References in Text
 
-The Employee Retirement Income Security Act of 1974, referred to in text, is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended. Sections 101, 103, 104, 502, 515, 4022A, 4201, 4211, 4212, and 4245 of the Act are classified to sections 1021, 1023, 1024, 1132, 1145, 1322a, 1381, 1391, 1392, and 1426, respectively, of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in text, is Pub. L. 93–406, Sept. 2, 1974,88 Stat. 829, as amended. Sections 101, 103, 104, 502, 515, 4022A, 4201, 4211, 4212, and 4245 of the Act are classified to sections 1021, 1023, 1024, 1132, 1145, 1322a, 1381, 1391, 1392, and 1426, respectively, of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 #### Amendments
 

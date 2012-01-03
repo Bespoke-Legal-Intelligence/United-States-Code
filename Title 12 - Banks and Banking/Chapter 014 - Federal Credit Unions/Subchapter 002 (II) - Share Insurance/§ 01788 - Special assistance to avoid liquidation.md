@@ -18,13 +18,13 @@
 
 #### (b) Protection of Fund
 
-For the protection of the Fund, the Board, without regard to the Federal Property and Administrative Services Act of 1949, may—
+For the protection of the Fund, the Board, without regard to chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, may—
 
 &emsp;(1) deal with, complete, reconstruct, rent, renovate, modernize, insure, make contracts for the management of, sell for cash or credit, or lease, in its discretion, any real property acquired or held by it under this section; and
 
 &emsp;(2) assign or sell at public or private sale, or otherwise dispose of, any evidence of debt, contract, claim, personal property, or security assigned to or held by it under this section.
 
-> Section 5 of title 41 shall not apply to any purchase or contract for services or supplies made or entered into by the Board under this section if the amount thereof does not exceed $1,000, or to any contract for hazard insurance on any real property acquired or held by it under this section.
+> Section 6101 of title 41 shall not apply to any purchase or contract for services or supplies made or entered into by the Board under this section if the amount thereof does not exceed $1,000, or to any contract for hazard insurance on any real property acquired or held by it under this section.
 
 #### (c) Money paid into Fund
 
@@ -32,19 +32,19 @@ Money received by the Board in carrying out this section shall be paid into the 
 
 (June 26, 1934, ch. 750, title II, §208, as added Pub. L. 91–468, §1(3), Oct. 19, 1970, 84 Stat. 1013; amended Pub. L. 92–221, §3, Dec. 23, 1971, 85 Stat. 797; Pub. L. 93–383, title VII, §729, Aug. 22, 1974, 88 Stat. 721; Pub. L. 95–630, title V, §502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 100–86, title VII, §714(b), (c), Aug. 10, 1987, 101 Stat. 655.)
 
-#### References in Text
+#### Codification
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (b), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
+In subsec. (b), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949” and “Section 6101 of title 41” substituted for “Section 3709 of the Revised Statutes of the United States” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 
-1987—Subsecs. (c), (d). Pub. L. 100–86 redesignated subsec. (c) as section 1787(j) of this title and subsec. (d) as (c).
+<b>1987</b>—Subsecs. (c), (d). Pub. L. 100–86 redesignated subsec. (c) as section 1787(j) of this title and subsec. (d) as (c).
 
-1978—Pub. L. 95–630 substituted “Board” for “Administrator” wherever appearing, “it” for “he” and “its” for “him”, and “its” for “his”, where appropriate.
+<b>1978</b>—Pub. L. 95–630 substituted “Board” for “Administrator” wherever appearing, “it” for “he” and “its” for “him”, and “its” for “his”, where appropriate.
 
-1974—Subsec. (a)(1). Pub. L. 93–383 inserted provisions relating to the voluntary liquidation of a solvent credit union and struck out provisions subordinating loans and accounts to the rights of members and creditors of the credit union.
+<b>1974</b>—Subsec. (a)(1). Pub. L. 93–383 inserted provisions relating to the voluntary liquidation of a solvent credit union and struck out provisions subordinating loans and accounts to the rights of members and creditors of the credit union.
 
-1971—Subsec. (a)(2). Pub. L. 92–221 substituted “assumption of its liability by another person” for “assumption of its liability by another insured credit union” and “may guarantee any person against loss by reason of his” for “may guarantee any other insured credit union against loss by reason of its” and inserted definition of “person” as that term is used in par. (2).
+<b>1971</b>—Subsec. (a)(2). Pub. L. 92–221 substituted “assumption of its liability by another person” for “assumption of its liability by another insured credit union” and “may guarantee any person against loss by reason of his” for “may guarantee any other insured credit union against loss by reason of its” and inserted definition of “person” as that term is used in par. (2).
 
 #### Effective Date of 1978 Amendment
 

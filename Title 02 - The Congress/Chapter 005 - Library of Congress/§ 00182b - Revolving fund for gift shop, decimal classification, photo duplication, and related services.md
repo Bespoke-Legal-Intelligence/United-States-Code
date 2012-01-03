@@ -60,13 +60,13 @@ The Librarian may charge a fee for services under any of the programs and activi
 
 #### Amendments
 
-2010—Subsec. (e). Pub. L. 111–145 repealed Pub. L. 110–161, §1004(f)(1). See 2007 Amendment note below.
+<b>2010</b>—Subsec. (e). Pub. L. 111–145 repealed Pub. L. 110–161, §1004(f)(1). See 2007 Amendment note below.
 
-2008—Subsec. (e). Pub. L. 110–178 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Amounts in the accounts of the revolving fund under this section shall be available to the Librarian, in amounts specified in appropriations Acts and without fiscal year limitation, to carry out the programs and activities covered by such accounts.”
+<b>2008</b>—Subsec. (e). Pub. L. 110–178 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Amounts in the accounts of the revolving fund under this section shall be available to the Librarian, in amounts specified in appropriations Acts and without fiscal year limitation, to carry out the programs and activities covered by such accounts.”
 
-2007—Subsec. (e). Pub. L. 110–161, §1004(f)(1), which made an amendment identical to that made by Pub. L. 110–178, was repealed by Pub. L. 111–145. See Effective Date of 2010 Amendment note below.
+<b>2007</b>—Subsec. (e). Pub. L. 110–161, §1004(f)(1), which made an amendment identical to that made by Pub. L. 110–178, was repealed by Pub. L. 111–145. See Effective Date of 2010 Amendment note below.
 
-2001—Subsec. (a)(4). Pub. L. 107–68 added par. (4).
+<b>2001</b>—Subsec. (a)(4). Pub. L. 107–68 added par. (4).
 
 #### Effective Date of 2010 Amendment
 

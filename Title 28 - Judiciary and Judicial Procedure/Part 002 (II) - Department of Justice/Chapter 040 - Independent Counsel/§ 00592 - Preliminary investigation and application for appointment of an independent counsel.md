@@ -6,7 +6,7 @@ Conduct of Preliminary Investigation.—
 
 &emsp;(1)
 
-In general.—A preliminary investigation conducted under this chapter shall be of such matters as the Attorney General considers appropriate in order to make a determination, under subsection (b) or (c), on whether further investigation is warranted, with respect to each potential violation, or allegation of a violation, of criminal law. The Attorney General shall make such determination not later than 90 days after the preliminary investigation is commenced, except that, in the case of a preliminary investigation commenced after a congressional request under subsection (g), the Attorney General shall make such determination not later than 90 days after the request is received. The Attorney General shall promptly notify the division of the court specified in section 593(a) of the commencement of such preliminary investigation and the date of such commencement.
+In general.—A preliminary investigation conducted under this chapter shall be of such matters as the Attorney General considers appropriate in order to make a determination, under subsection (b) or (c), on whether further investigation is warranted, with respect to each potential violation, or allegation of a violation, of criminal law. The Attorney General shall make such determination not later than 90 days after the preliminary investigation is commenced, except that, in the case of a preliminary investigation commenced after a congressional request under subsection (g), the Attorney General shall make such determination not later than 90 days after the request is received. The Attorney General shall promptlynotify the division of the court specified in section 593(a) of the commencement of such preliminary investigation and the date of such commencement.
 
 &emsp;(2)
 
@@ -42,7 +42,7 @@ Application for appointment of independent counsel.—The Attorney General shall
 
 &emsp;&emsp;(A) the Attorney General, upon completion of a preliminary investigation under this chapter, determines that there are reasonable grounds to believe that further investigation is warranted; or
 
-&emsp;&emsp;(B) the 90-day period referred to in subsection (a)(1), and any extension grantedunder subsection (a)(3), have elapsed and the Attorney General has not filed a notification with the division of the court under subsection (b)(1).
+&emsp;&emsp;(B) the 90-day period referred to in subsection (a)(1), and any extension granted under subsection (a)(3), have elapsed and the Attorney General has not filed a notification with the division of the court under subsection (b)(1).
 
 > &emsp;In determining under this chapter whether reasonable grounds exist to warrant further investigation, the Attorney General shall comply with the written or other established policies of the Department of Justice with respect to the conduct of criminal investigations.
 
@@ -94,7 +94,7 @@ Disclosure of information.—Any report, notification, application, or other doc
 
 <b>1987</b>—Pub. L. 100–191 amended section generally, substituting provisions relating to preliminary investigation and application for appointment of an independent counsel for provisions relating to application for appointment of an independent counsel.
 
-<b>1983</b>—Subsec. (a). Pub. L. 97–409, §4(b), designated existing provisions as par. (1), substituted, “Upon receiving information that the Attorney General determines is sufficient to constitute grounds to investigate that any person covered by the Act has engaged in conduct described in subsection (a) or (c) of section 591 of this title, the Attorney General” for “The Attorney General, upon receiving specific information that any of the persons described in section 591(b) of this title hasengaged in conduct described in section 591(a) of this title,”, inserted “In determining whether grounds to investigate exist, the Attorney General shall consider—(A) the degree of specificity of the information received, and (B) the credibility of the source of the information.”, and added par. (2).
+<b>1983</b>—Subsec. (a). Pub. L. 97–409, §4(b), designated existing provisions as par. (1), substituted, “Upon receiving information that the Attorney General determines is sufficient to constitute grounds to investigate that any person covered by the Act has engaged in conduct described in subsection (a) or (c) of section 591 of this title, the Attorney General” for “The Attorney General, upon receiving specific information that any of the persons described in section 591(b) of this title has engaged in conduct described in section 591(a) of this title,”, inserted “In determining whether grounds to investigate exist, the Attorney General shall consider—(A) the degree of specificity of the information received, and (B) the credibility of the source of the information.”, and added par. (2).
 
 Subsec. (b)(1). Pub. L. 97–409, §§2(a)(1)(A), 4(c), substituted “that there are no reasonable grounds to believe that further investigation or prosecution is warranted” for “that the matter is so unsubstantiated that no further investigation or prosecution is warranted” and substituted “independent counsel” for “special prosecutor”.
 

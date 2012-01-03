@@ -224,7 +224,7 @@ For purposes of this section:
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall provide for activities under this subsection to broadly disseminateinformation to discount card eligible individuals (and prospective eligible individuals) regarding—
+&emsp;&emsp;The Secretary shall provide for activities under this subsection to broadly disseminate information to discount card eligible individuals (and prospective eligible individuals) regarding—
 
 &emsp;&emsp;&emsp;(i) enrollment in endorsed discount card programs; and
 
@@ -294,7 +294,7 @@ For purposes of this section:
 
 #### (B) Ensuring pharmacy access
 
-&emsp;&emsp;Each prescription drug card sponsor offering an endorsed discount card program shall secure the participation in its network of a sufficient number of pharmacies that dispense (other than solely by mail order) drugs directly to enrollees to ensure convenient access to covered discount card drugs at negotiated prices (consistent with rules established by the Secretary). The Secretary shallestablish convenient access rules under this clause that are no less favorable to enrollees than the standards for convenient access to pharmacies included in the statement of work of solicitation (\#MDA906–03–R–0002) of the Department of Defense under the TRICARE Retail Pharmacy (TRRx) as of March 13, 2003.
+&emsp;&emsp;Each prescription drug card sponsor offering an endorsed discount card program shall secure the participation in its network of a sufficient number of pharmacies that dispense (other than solely by mail order) drugs directly to enrollees to ensure convenient access to covered discount card drugs at negotiated prices (consistent with rules established by the Secretary). The Secretary shall establish convenient access rules under this clause that are no less favorable to enrollees than the standards for convenient access to pharmacies included in the statement of work of solicitation (\#MDA906–03–R–0002) of the Department of Defense under the TRICARE Retail Pharmacy (TRRx) as of March 13, 2003.
 
 #### (C) Prohibition on charges for required services
 
@@ -338,7 +338,7 @@ For purposes of this section:
 
 #### (B) Treatment of self-certification
 
-&emsp;&emsp;The Secretary shall treat a certification under subparagraph (A) that is verified under paragraph (3) as a determination that the individual involved is a transitional assistance eligible individual or special transitional assistance eligible individual (as the case may be) for the entire period of the enrollment of the individual in any endorsed program.
+&emsp;&emsp;The Secretary shall treat a certification under subparagraph (A) that is verifiedunder paragraph (3) as a determination that the individual involved is a transitional assistance eligible individual or special transitional assistance eligible individual (as the case may be) for the entire period of the enrollment of the individual in any endorsed program.
 
 #### (3) Verification
 
@@ -414,7 +414,7 @@ For purposes of this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In the case of an individual not described in clause (ii) with respect to a year, the Secretary may prorate the amount specified in subparagraph (A) for the balance of the year involved in a manner specified by the Secretary.
+&emsp;&emsp;&emsp;In the case of an individual not described in clause (ii) with respect to a year, theSecretary may prorate the amount specified in subparagraph (A) for the balance of the year involved in a manner specified by the Secretary.
 
 #### (ii) Individual described
 
@@ -426,7 +426,7 @@ For purposes of this section:
 
 #### (C) Accounting for available balances in cases of changes in program enrollment
 
-&emsp;&emsp;In the case of a transitional assistance eligible individual who changes the endorsed discount card program in which the individual is enrolled under this section, the Secretary shall provide a process under which the Secretary provides to the sponsor of the endorsed program in which the individual enrolls information concerning the balanceof amounts available on behalf of the individual under this paragraph.
+&emsp;&emsp;In the case of a transitional assistance eligible individual who changes the endorsed discount card program in which the individual is enrolled under this section, the Secretary shall provide a process under which the Secretary provides to the sponsor of the endorsed program in which the individual enrolls information concerning the balance of amounts available on behalf of the individual under this paragraph.
 
 #### (D) Limitation on use of funds
 
@@ -502,7 +502,7 @@ For purposes of this section:
 
 #### (B) Administrative qualifications
 
-&emsp;&emsp;Each endorsed discount card program shall be operated directly, or through arrangements with an affiliated organization (or organizations), by one or more entities that have demonstrated experience and expertise in operating such a program or a similarprogram and that meets such business stability and integrity requirements as the Secretary may specify.
+&emsp;&emsp;Each endorsed discount card program shall be operated directly, or through arrangements with an affiliated organization (or organizations), by one or more entities that have demonstrated experience and expertise in operating such a program or a similar program and that meets such business stability and integrity requirements as the Secretary may specify.
 
 #### (C) Accounting for transitional assistance
 
@@ -556,7 +556,7 @@ For purposes of this section:
 
 #### (B) Waiver authority
 
-&emsp;&emsp;In order to promote participation of sponsors in the program under this section, the Secretary may waive such relevant portions of regulations relating to privacy referred to in subparagraph (A), for such appropriate, limited period of time, as the Secretary specifies.
+&emsp;&emsp;In order to promote participation of sponsors in the program under this section, the Secretary may waive such relevant portionsof regulations relating to privacy referred to in subparagraph (A), for such appropriate, limited period of time, as the Secretary specifies.
 
 #### (7) Limitation on provision and marketing of products and services
 
@@ -630,7 +630,7 @@ For purposes of this section:
 
 &emsp;&emsp;The plan described in this subparagraph is a plan that—
 
-&emsp;&emsp;&emsp;(i) provides transitional assistance with respect to the provision of covered discount card drugs to some or all individualswho are entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter, who reside in the State, and who have income below 135 percent of the poverty line; and
+&emsp;&emsp;&emsp;(i) provides transitional assistance with respect to the provision of covered discount card drugs to some or all individuals who are entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter, who reside in the State, and who have income below 135 percent of the poverty line; and
 
 &emsp;&emsp;&emsp;(ii) assures that amounts received by the State under this paragraph are used only for such assistance.
 
@@ -692,13 +692,7 @@ For purposes of this section:
 
 #### References in Text
 
-Parts A and B of this subchapter, referred to in subsecs. (b)(1)(A)(i) and (j)(2)(B)(i), (C)(i), are classified to section 1395c et seq. and section 1395j et seq., respectively, of this title.
-
-Part C of this subchapter, referred to in subsecs. (b)(2)(B)(i), (c)(1)(C)(iii), (g)(7), and (h)(1)(A)(iv), (9), is classified to section 1395w–21 et seq. of this title.
-
 The Internal Revenue Code of 1986, referred to in subsec. (f)(3)(B)(iii), is classified generally to Title 26, Internal Revenue Code.
-
-Part C of subchapter XI of this chapter, referred to in subsec. (h)(6)(A), is classified to section 1320d et seq. of this title.
 
 Section 264(c) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (h)(6)(A), is section 264(c) of Pub. L. 104–191, which is set out as a note under section 1320d–2 of this title.
 

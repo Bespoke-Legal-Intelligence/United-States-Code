@@ -14,25 +14,25 @@ Section was enacted as part of the Housing and Urban Development Act of 1970, an
 
 #### Amendments
 
-1992—Pub. L. 102–550 substituted “There is authorized to be appropriated to carry out this title $35,000,000 for fiscal year 1993 and $36,470,000 for fiscal year 1994.” for “There are authorized to be appropriated to carry out this title $21,200,000 for fiscal year 1991 and $22,100,000 for fiscal year 1992. From any amounts appropriated under this section for fiscal year 1991, the Secretary shall use not more than $500,000 to carry out a demonstration project to test affordable housing technologies, and shall include in the annual report under section 3536 of title 42 (for the appropriate year) a statement of the activities under the demonstration program and findings resulting from the program. The statement shall set forth the amount and use of funds expended by the Secretary under the program for the year relating to the report and the Secretary shall include such a statement in each such annual report for each year that amounts appropriated under this section are used under the demonstration. All funds so appropriated shall remain available until expended unless specifically limited.”
+<b>1992</b>—Pub. L. 102–550 substituted “There is authorized to be appropriated to carry out this title $35,000,000 for fiscal year 1993 and $36,470,000 for fiscal year 1994.” for “There are authorized to be appropriated to carry out this title $21,200,000 for fiscal year 1991 and $22,100,000 for fiscal year 1992. From any amounts appropriated under this section for fiscal year 1991, the Secretary shall use not more than $500,000 to carry out a demonstration project to test affordable housing technologies, and shall include in the annual report under section 3536 of title 42 (for the appropriate year) a statement of the activities under the demonstration program and findings resulting from the program. The statement shall set forth the amount and use of funds expended by the Secretary under the program for the year relating to the report and the Secretary shall include such a statement in each such annual report for each year that amounts appropriated under this section are used under the demonstration. All funds so appropriated shall remain available until expended unless specifically limited.”
 
-1990—Pub. L. 101–625 substituted provisions authorizing appropriations of $21,200,000 for 1991 and $22,100,000 for 1992, for provisions authorizing $17,000,000 for 1988 and $18,000,000 for 1989, and added provisions limiting amount to be used for demonstration project in 1991 and requiring that annual report include statement relating to such project.
+<b>1990</b>—Pub. L. 101–625 substituted provisions authorizing appropriations of $21,200,000 for 1991 and $22,100,000 for 1992, for provisions authorizing $17,000,000 for 1988 and $18,000,000 for 1989, and added provisions limiting amount to be used for demonstration project in 1991 and requiring that annual report include statement relating to such project.
 
-1988—Pub. L. 100–242 substituted “There are authorized to be appropriated to carry out this title $17,000,000 for fiscal year 1988, and $18,000,000 for fiscal year 1989.” for “There are authorized to be appropriated for activities under this title not to exceed $19,000,000 for fiscal year 1984, and such sums as may be necessary for fiscal year 1985. Of the amount appropriated under the preceding sentence for fiscal year 1984, not less than $2,000,000 shall be provided for implementation of a research program to be developed in consultation with public housing agencies, which program shall identify current problems of public housing management, specific solutions to such problems, and incentives to encourage implementation of such solutions.”
+<b>1988</b>—Pub. L. 100–242 substituted “There are authorized to be appropriated to carry out this title $17,000,000 for fiscal year 1988, and $18,000,000 for fiscal year 1989.” for “There are authorized to be appropriated for activities under this title not to exceed $19,000,000 for fiscal year 1984, and such sums as may be necessary for fiscal year 1985. Of the amount appropriated under the preceding sentence for fiscal year 1984, not less than $2,000,000 shall be provided for implementation of a research program to be developed in consultation with public housing agencies, which program shall identify current problems of public housing management, specific solutions to such problems, and incentives to encourage implementation of such solutions.”
 
-1983—Pub. L. 98–181 substituted provisions relating to appropriations for fiscal years 1984 and 1985 and the expenditure of not less than $2,000,000 for a public housing management research program for provisions authorizing appropriations of $65,000,000 for fiscal 1977, $60,000,000 for fiscal 1978, $62,000,000 for fiscal 1979, $50,300,000 for fiscal 1980, $51,000,000 for fiscal 1981 and $35,000,000 for fiscal 1982.
+<b>1983</b>—Pub. L. 98–181 substituted provisions relating to appropriations for fiscal years 1984 and 1985 and the expenditure of not less than $2,000,000 for a public housing management research program for provisions authorizing appropriations of $65,000,000 for fiscal 1977, $60,000,000 for fiscal 1978, $62,000,000 for fiscal 1979, $50,300,000 for fiscal 1980, $51,000,000 for fiscal 1981 and $35,000,000 for fiscal 1982.
 
-1981—Pub. L. 97–35 inserted provisions authorizing appropriations for fiscal year 1982.
+<b>1981</b>—Pub. L. 97–35 inserted provisions authorizing appropriations for fiscal year 1982.
 
-1980—Pub. L. 96–399 authorized appropriation of $51,000,000 for fiscal year 1981.
+<b>1980</b>—Pub. L. 96–399 authorized appropriation of $51,000,000 for fiscal year 1981.
 
-1979—Pub. L. 96–153 authorized appropriation of $50,300,000 for fiscal year 1980.
+<b>1979</b>—Pub. L. 96–153 authorized appropriation of $50,300,000 for fiscal year 1980.
 
-1978—Pub. L. 95–557 substituted “not to exceed $60,000,000 for the fiscal year 1978, and not to exceed $62,000,000 for the fiscal year 1979” for “and not to exceed $60,000,000 for the fiscal year 1978”.
+<b>1978</b>—Pub. L. 95–557 substituted “not to exceed $60,000,000 for the fiscal year 1978, and not to exceed $62,000,000 for the fiscal year 1979” for “and not to exceed $60,000,000 for the fiscal year 1978”.
 
-1977—Pub. L. 95–128 authorized appropriation of $60,000,000 for fiscal year 1978.
+<b>1977</b>—Pub. L. 95–128 authorized appropriation of $60,000,000 for fiscal year 1978.
 
-1976—Pub. L. 94–375 substituted provision authorizing appropriations for fiscal year 1977 in an amount not exceeding $65,000,000 for provision which authorized sums to be appropriated as may have been necessary.
+<b>1976</b>—Pub. L. 94–375 substituted provision authorizing appropriations for fiscal year 1977 in an amount not exceeding $65,000,000 for provision which authorized sums to be appropriated as may have been necessary.
 
 #### Effective Date of 1981 Amendment
 

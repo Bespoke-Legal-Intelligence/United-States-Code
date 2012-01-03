@@ -36,7 +36,7 @@ The Corporation—
 
 &emsp;&emsp;(C) Two voting members shall be appointed by the members elected under subparagraphs (A) and (B) after the elected members have received recommendations for such appointments from, and consulted with, the Secretary of the Treasury and the Chairman of the Board of Governors of the Federal Reserve System. The appointed members shall be selected from United States citizens—
 
-&emsp;&emsp;&emsp;(i) who are not borrowers from, shareholders in, or employees or agents of any System institution, who are not affiliated with the Farm Credit Administration, and who are not actively engaged with a bank or investment organization that is a member of the Corporation's selling group for System-wide securities; and
+&emsp;&emsp;&emsp;(i) who are not borrowers from, shareholders in, or employees or agents of anySystem institution, who are not affiliated with the Farm Credit Administration, and who are not actively engaged with a bank or investment organization that is a member of the Corporation's selling group for System-wide securities; and
 
 &emsp;&emsp;&emsp;(ii) who are experienced or knowledgeable in corporate and public finance, agricultural economics, and financial reporting and disclosure.
 
@@ -96,7 +96,7 @@ For text of section 2160 of this title in effect before January 6, 1988, referre
 
 #### Amendments
 
-1992—Subsec. (d)(2). Pub. L. 102–552 amended par. (2) generally. Prior to amendment, par. (2) read as follows:
+<b>1992</b>—Subsec. (d)(2). Pub. L. 102–552 amended par. (2) generally. Prior to amendment, par. (2) read as follows:
 
 “(A)
 
@@ -110,7 +110,7 @@ Insurance corporation.—After such period, the board of directors of the Farm C
 
 Meetings.—The persons so designated by the Assistance Board and by the Farm Credit System Insurance Corporation may attend and participate in all deliberations of the board of directors of the Corporation.”
 
-1988—Pub. L. 100–233 amended section generally. Prior to amendment, section read as follows: “A fiscal agency shall be established by the banks for such of their functions relating to the issuance, marketing, and handling of their obligations, and interbank or intersystem flow of funds as may from time to time be required.”
+<b>1988</b>—Pub. L. 100–233 amended section generally. Prior to amendment, section read as follows: “A fiscal agency shall be established by the banks for such of their functions relating to the issuance, marketing, and handling of their obligations, and interbank or intersystem flow of funds as may from time to time be required.”
 
 Subsec. (b)(3). Pub. L. 100–399, §203(b), inserted “predecessor Federal Farm Credit Banks” before “Funding Corporation”.
 

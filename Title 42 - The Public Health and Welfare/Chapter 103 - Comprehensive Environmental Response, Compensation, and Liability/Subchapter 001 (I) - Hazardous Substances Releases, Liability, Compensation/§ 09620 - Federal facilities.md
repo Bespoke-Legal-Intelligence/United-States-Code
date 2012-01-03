@@ -32,7 +32,7 @@ The Administrator shall establish a special Federal Agency Hazardous Waste Compl
 
 &emsp;(3) Information submitted by the department, agency, or instrumentality under section 9603 of this title.
 
-> The docket shall be available for public inspection at reasonable times. Six months after establishment of the docket and every 6 months thereafter, the Administrator shall publish in the Federal Register a list of the Federal facilities which have been included in the docket during the immediately preceding 6-month period. Such publication shall also indicate where inthe appropriate regional office of the Environmental Protection Agency additional information may be obtained with respect to any facility on the docket. The Administrator shall establish a program to provide information to the public with respect to facilities which are included in the docket under this subsection.
+> The docket shall be available for public inspection at reasonable times. Six months after establishment of the docket and every 6 months thereafter, the Administrator shall publish in the Federal Register a list of the Federal facilities which have been included in the docket during the immediately preceding 6-month period. Such publication shall also indicate where in the appropriate regional office of the Environmental Protection Agency additional information may be obtained with respect to any facility on the docket. The Administrator shall establish a program to provide information to the public with respect to facilities which are included in the docket under this subsection.
 
 #### (d) Assessment and evaluation
 
@@ -70,7 +70,7 @@ The Administrator shall establish a special Federal Agency Hazardous Waste Compl
 
 #### (3) Completion of remedial actions
 
-&emsp;Remedial actions at facilities subject to interagency agreements under this section shall be completed as expeditiously as practicable. Each agency shall include in its annual budget submissions to the Congress a review of alternative agency funding which could be used to provide for the costs of remedial action. The budget submission shall also include a statement of the hazard posed by the facility to human health, welfare, and the environment and identify the specific consequences of failure to begin and complete remedial action.
+&emsp;Remedial actions at facilities subject to interagency agreements under this section shall be completed as expeditiously as practicable. Each agency shall include in its annual budget submissions to the Congress a review of alternative agency funding whichcould be used to provide for the costs of remedial action. The budget submission shall also include a statement of the hazard posed by the facility to human health, welfare, and the environment and identify the specific consequences of failure to begin and complete remedial action.
 
 #### (4) Contents of agreement
 
@@ -148,7 +148,7 @@ Except for authorities which are delegated by the Administrator to an officer or
 
 #### (B) Covenant requirements
 
-&emsp;&emsp;For purposes of subparagraphs (A)(ii)(I) and (C)(iii), all remedial action described in such subparagraph has been taken if the construction and installation of an approved remedial design has been completed, and the remedy has been demonstrated to the Administrator to be operating properly andsuccessfully. The carrying out of long-term pumping and treating, or operation and maintenance, after the remedy has been demonstrated to the Administrator to be operating properly and successfully does not preclude the transfer of the property. The requirements of subparagraph (A)(ii) shall not apply in any case in which the person or entity to whom the real property is transferred is a potentially responsible party with respect to such property. The requirements of subparagraph (A)(ii) shall not apply in any case in which the transfer of the property occurs or has occurred by means of a lease, without regard to whether the lessee has agreed to purchase the property or whether the duration of the lease is longer than 55 years. In the case of a lease entered into after September 30, 1995, with respect to real property located at an installation approved for closure or realignment under a base closure law, the agency leasing the property, in consultation with the Administrator, shall determine before leasing the property that the property is suitable for lease, that the uses contemplated for the lease are consistent with protection of human health and the environment, and that there are adequate assurances that the United States will take all remedial action referred to in subparagraph (A)(ii) that has not been taken on the date of the lease.
+&emsp;&emsp;For purposes of subparagraphs (A)(ii)(I) and (C)(iii), all remedial action described in such subparagraph has been taken if the construction and installation of an approved remedial design has been completed, and the remedy has been demonstrated to the Administrator to be operating properly and successfully. The carrying out of long-term pumping and treating, or operation and maintenance, after the remedy has been demonstrated to the Administrator to be operating properly and successfully does not preclude the transfer of the property. The requirements of subparagraph (A)(ii) shall not apply in any case in which the person or entity to whom the real property is transferred is a potentially responsible party with respect to such property. The requirements of subparagraph (A)(ii) shall not apply in any case in which the transfer of the property occurs or has occurred by means of a lease, without regard to whether the lessee has agreed to purchase the property or whether the duration of the lease is longer than 55 years. In the case of a lease entered into after September 30, 1995, with respect to real property located at an installation approved for closure or realignment under a base closure law, the agency leasing the property, in consultation with the Administrator, shall determine before leasing the property that the property is suitable for lease, that the uses contemplated for the lease are consistent with protection of human health and the environment, and that there are adequate assurances that the United States will take all remedial action referred to in subparagraph (A)(ii) that has not been taken on the date of the lease.
 
 #### (C) Deferral
 
@@ -174,7 +174,7 @@ Except for authorities which are delegated by the Administrator to an officer or
 
 &emsp;&emsp;&emsp;&emsp;(III) provide that all necessary response action will be taken and identify the schedules for investigation and completion of all necessary response action as approved by the appropriate regulatory agency; and
 
-&emsp;&emsp;&emsp;&emsp;(IV) provide that the Federal agency responsible for the property subject to transfer will submit a budget request to the Director of the Office of Management and Budget that adequately addresses schedules for investigation and completion of all necessary response action, subject to congressional authorizations and appropriations.
+&emsp;&emsp;&emsp;&emsp;(IV) provide that the Federal agency responsible for the property subject totransfer will submit a budget request to the Director of the Office of Management and Budget that adequately addresses schedules for investigation and completion of all necessary response action, subject to congressional authorizations and appropriations.
 
 #### (iii) Warranty
 
@@ -186,7 +186,7 @@ Except for authorities which are delegated by the Administrator to an officer or
 
 #### (4) Identification of uncontaminated property
 
-&emsp;(A) In the case of real property to which this paragraph applies (as set forth in subparagraph (E)), the head of the department, agency, or instrumentality of the United States with jurisdiction over the property shall identify the real property on which no hazardous substances and no petroleum products or their derivatives were known to have been released or disposed of. Such identification shall be based on an investigation of the real property to determine or discover the obviousness of the presence or likely presence of a release or threatened release of any hazardous substanceor any petroleum product or its derivatives, including aviation fuel and motor oil, on the real property. The identification shall consist, at a minimum, of a review of each of the following sources of information concerning the current and previous uses of the real property:
+&emsp;(A) In the case of real property to which this paragraph applies (as set forth in subparagraph (E)), the head of the department, agency, or instrumentality of the United States with jurisdiction over the property shall identify the real property on which no hazardous substances and no petroleum products or their derivatives were known to have been released or disposed of. Such identification shall be based on an investigation of the real property to determine or discover the obviousness of the presence or likely presence of a release or threatened release of any hazardous substance or any petroleum product or its derivatives, including aviation fuel and motor oil, on the real property. The identification shall consist, at a minimum, of a review of each of the following sources of information concerning the current and previous uses of the real property:
 
 &emsp;&emsp;(i) A detailed search of Federal Government records pertaining to the property.
 
@@ -236,7 +236,7 @@ Except for authorities which are delegated by the Administrator to an officer or
 
 &emsp;&emsp;(IV) Any provision of law authorizing the closure or realignment of a military installation enacted on or after October 19, 1992.
 
-&emsp;(F) Nothing in this paragraph shall affect, preclude, or otherwise impair the terminationof Federal Government operations on real property owned by the United States.
+&emsp;(F) Nothing in this paragraph shall affect, preclude, or otherwise impair the termination of Federal Government operations on real property owned by the United States.
 
 #### (5) Notification of States regarding certain leases
 
@@ -260,7 +260,7 @@ Nothing in this section shall affect or impair the obligation of any department,
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(1) to (3), (c)(1), (d)(2)(B), and (j)(2), was in the original “this Act”, meaning Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
+This chapter, referred to in subsecs. (a)(1) to (3), (c)(1), (d)(2)(B), and (j)(2), was in the original “thisAct”, meaning Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
 
 Section 2904(b) of such base closure law, referred to in subsec. (h)(4)(C)(iii), means section 2904(b) of Pub. L. 101–510, which is set out as a note under section 2687 of Title 10, Armed Forces.
 
@@ -274,7 +274,7 @@ The Atomic Energy Act, referred to in subsec. (j)(2), probably means the Atomic 
 
 <b>1996</b>—Subsec. (a)(4). Pub. L. 104–201, §334(b), inserted “or facilities that are the subject of a deferral under subsection (h)(3)(C) of this section” after “United States”.
 
-Subsec. (d). Pub. L. 104–201, §330(2)–(4), designated existing provisions as par. (1), inserted par. heading, substituted “The Administrator” for “Not later than 18 months after October 17, 1986, the Administrator”, realigned margins of par. (1) and subpars. (A) and (B), and substituted pars. (2) and (3) for “Such criteria shall be applied in the same manner as the criteria are applied to facilities which are owned or operated by other persons. Evaluation and listing under this subsection shall be completed not later than 30 months after October 17,1986. Upon the receipt of a petition from the Governor of any State, the Administrator shall make such an evaluation of any facility included in the docket.”
+Subsec. (d). Pub. L. 104–201, §330(2)–(4), designated existing provisions as par. (1), inserted par. heading, substituted “The Administrator” for “Not later than 18 months after October 17, 1986, the Administrator”, realigned margins of par. (1) and subpars. (A) and (B), and substituted pars. (2) and (3) for “Such criteria shall be applied in the same manner as the criteria are applied to facilities which are owned or operated by other persons. Evaluation and listing under this subsection shall be completed not later than 30 months after October 17, 1986. Upon the receipt of a petition from the Governor of any State, the Administrator shall make such an evaluation of any facility included in the docket.”
 
 Pub. L. 104–201, §330(1), redesignated pars. (1) and (2) as subpars. (A) and (B), respectively.
 

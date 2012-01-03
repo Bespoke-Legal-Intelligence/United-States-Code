@@ -24,21 +24,41 @@ Subsec. (b). Pub. L. 111–383, §1072(a)(2), substituted “State or local law 
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-#### Commercial Sale of Small Arms Ammunition in Excess of Military Requirements
+#### Commercial Sale of Small Arms Ammunition and Small Arms Ammunition Components in Excess of Military Requirements, and Fired Cartridge Cases
 
-Pub. L. 111–383, div. A, title III, §346, Jan. 7, 2011, 124 Stat. 4191, provided that:
+Pub. L. 111–383, div. A, title III, §346, Jan. 7, 2011, 124 Stat. 4191, as amended by Pub. L. 112–81, div. A, title III, §361, Dec. 31, 2011, 125 Stat. 1377, provided that:
 
 “(a)
 
-Commercial Sale of Small Arms Ammunition.—Small arms ammunition and ammunition components in excess of military requirements, including fired cartridge cases, which are not otherwise prohibited from commercial sale or certified by the Secretary of Defense as unserviceable or unsafe, may not be demilitarized or destroyed and shall be made available for commercial sale.
+Commercial Sale of Small Arms Ammunition, Small \[Arms\] Ammunition Components, and Fired Cartridge Cases.—Small arms ammunition and small \[arms\] ammunition components which are in excess of military requirements, and intact fired small arms cartridge cases shall be made available for commercial sale. Such small arms ammunition, small arms ammunition components, and intact fired cartridge cases shall not be demilitarized, destroyed, or disposed of, unless in excess of commercial demands or certified by the Secretary of Defense as unserviceable or unsafe. This provision shall not apply to ammunition, ammunition components, or fired cartridge cases stored or expended outside the continental United States (OCONUS).
 
 “(b)
 
-Deadline for Guidance.—Not later than 90 days after the date of the enactment of this Act \[Jan. 7, 2011\], the Secretary of Defense shall issue guidance to ensure compliance with subsection (a). Not later than 15 days after issuing such guidance, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a letter of compliance providing notice of such guidance.
+Deadline for Guidance.—Not later than 90 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2012 \[Dec. 31, 2011\], the Secretary of Defense shall issue guidance to ensure compliance with subsection (a). Not later than 15 days after issuing such guidance, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a letter of compliance providing notice of such guidance.
 
 “(c)
 
-Preference.—No small arms ammunition and ammunition components in excess of military requirements may be made available for commercial sale under this section before such ammunition and ammunition components are offered for transfer or purchase, as authorized by law, to another Federal department or agency or for sale to State and local law enforcement, firefighting, homeland security, and emergency management agencies pursuant to section 2576 of title 10, United States Code, as amended by this Act.”
+Preference.—No small arms ammunition or small arms ammunition components in excess of military requirements, or fired small arms cartridge cases may be made available for commercial sale under this section before such ammunition and ammunition components are offered for transfer or purchase, as authorized by law, to another Federal department or agency or for sale to State and local law enforcement, firefighting, homeland security, and emergency management agencies pursuant to section 2576 of title 10, United States Code, as amended by this Act.
+
+“(d)
+
+Sales Controls.—All small arms ammunition and small arms ammunition components, and fired small arms cartridge cases made available for commercial sale under this section shall be subject to all explosives safety and trade security controls in effect at the time of sale.
+
+“(e)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+Small arms ammunition.—The term ‘small arms ammunition’ means ammunition or ordnance for firearms up to and including .50 caliber and for shotguns.
+
+&emsp;“(2)
+
+Small arms ammunition components.—The term ‘small arms ammunition components’ means components, parts, accessories, and attachments associated with small arms ammunition.
+
+&emsp;“(3)
+
+Fired cartridge cases.—The term ‘fired cartridge cases’ means expended small arms cartridge cases (ESACC).”
 
 #### Authority To Sell Aircraft and Aircraft Parts for Use in Responding to Oil Spills
 
@@ -70,7 +90,7 @@ Conditions of Sale.—Aircraft and aircraft parts sold under subsection (a)—
 
 “(c)
 
-Certification of Persons and Entities.—The Secretary of Defense may sell aircraft and aircraft parts to a person or entity under subsection (a) only if the Secretary of Homeland Security certifies to the Secretary of Defense, in writing, before the sale, that the person or entity is capable of meeting the terms and conditions of a contract to deliver oil spill dispersants by air, and that the overall system to be employed by that person or entity for the delivery and application of oil spill dispersants has been sufficiently tested to ensure that the person or entity is capable of being included in an oil spill response plan that has been approved by the Secretary of the Department in which the Coast Guard is operating.
+Certification of Persons and Entities.—The Secretary of Defense may sell aircraft and aircraft parts to a person or entity under subsection (a) only if the Secretary of Homeland Security certifies to the Secretary of Defense, in writing, before the sale, that the person or entity is capable of meeting the terms and conditions of a contract to deliver oil spilldispersants by air, and that the overall system to be employed by that person or entity for the delivery and application of oil spill dispersants has been sufficiently tested to ensure that the person or entity is capable of being included in an oil spill response plan that has been approved by the Secretary of the Department in which the Coast Guard is operating.
 
 “(d)
 

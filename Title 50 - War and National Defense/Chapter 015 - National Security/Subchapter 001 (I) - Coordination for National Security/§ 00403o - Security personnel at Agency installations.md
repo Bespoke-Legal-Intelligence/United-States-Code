@@ -24,7 +24,7 @@ The Director is authorized to establish penalties for violations of the rules or
 
 #### (c) Identification
 
-Agency personnel designated by the Director under subsection (a) of this section shall be clearly identifiable as United States Government security personnel while engaged in the performance of the functions to which subsection (a) of this section refers.
+Agency personnel designated by the Director under subsection (a) of this section shall be clearly identifiable as United States Government security personnel while engaged in theperformance of the functions to which subsection (a) of this section refers.
 
 #### (d) Protection of certain CIA personnel from tort liability
 

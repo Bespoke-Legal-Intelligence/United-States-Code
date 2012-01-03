@@ -24,7 +24,7 @@
 
 #### Change of Name
 
-“UNITED STATES MAGISTRATE JUDGES” substituted for “UNITED STATES MAGISTRATES” in chapter heading and “magistrate judges” substituted for “magistrates” in item 633 pursuant to section 321 ofPub. L. 101–650, set out as a note under section 631 of this title.
+“UNITED STATES MAGISTRATE JUDGES” substituted for “UNITED STATES MAGISTRATES” in chapter heading and “magistrate judges” substituted for “magistrates” in item 633 pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title.
 
 
 ---

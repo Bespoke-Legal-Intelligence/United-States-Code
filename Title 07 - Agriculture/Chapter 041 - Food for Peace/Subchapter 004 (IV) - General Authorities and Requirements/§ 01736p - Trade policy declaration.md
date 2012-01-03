@@ -22,7 +22,7 @@ Section was enacted as part of the Food Security Act of 1985, and not as part of
 
 #### Amendments
 
-1996—Pub. L. 104–127 struck out subsec. (a) which stated congressional findings regarding United States agricultural export policy, struck out subsec. designation “(b)”, and substituted pars. (1) to (4) for former pars. (1) to (4) which read as follows:
+<b>1996</b>—Pub. L. 104–127 struck out subsec. (a) which stated congressional findings regarding United States agricultural export policy, struck out subsec. designation “(b)”, and substituted pars. (1) to (4) for former pars. (1) to (4) which read as follows:
 
 “(1) provide through all means possible agricultural commodities and their products for export at competitive prices, with full assurance of quality and reliability of supply;
 

@@ -68,7 +68,7 @@ Policy.—It is the policy of the United States—
 
 &emsp;“(1) to offer Caribbean Basin beneficiary countries willing to prepare to become a party to the FTAA or another free trade agreement, tariff treatment essentially equivalent to that accorded to products of NAFTA countries for certain products not currently eligible for duty-free treatment under the CBERA; and
 
-&emsp;“(2) to seek the participation of Caribbean Basin beneficiary countries in the FTAA or another free trade agreement at the earliest possible date, with the goal of achieving full participation in such agreement not later than 2005.”
+&emsp;“(2) to seek the participation of Caribbean Basin beneficiary countries in the FTAA or another freetrade agreement at the earliest possible date, with the goal of achieving full participation in such agreement not later than 2005.”
 
 #### Meetings of Trade Ministers and USTR
 

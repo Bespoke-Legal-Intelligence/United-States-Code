@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-On such periodic basis as the Commission may determine, the Commission shall conduct and make available to the public studies regarding the election administration issues described in subsection (b) of this section, with the goal of promoting methods of voting and administering elections which—
+On such periodic basis as the Commission may determine, the Commission shall conduct andmake available to the public studies regarding the election administration issues described in subsection (b) of this section, with the goal of promoting methods of voting and administering elections which—
 
 &emsp;(1) will be the most convenient, accessible, and easy to use for voters, including members of the uniformed services and overseas voters, individuals with disabilities, including the blind and visually impaired, and voters with limited proficiency in the English language;
 
@@ -116,7 +116,7 @@ Report to Congress.—
 
 &emsp;“(1)
 
-Report.—Not later than June 30, 2009, the Commission, in consultation with the States receiving grants under the program and the Election Assistance Commission Board of Advisors, shall submita report to Congress on the impact of the program on the collection of the election data described in subsection (a).
+Report.—Not later than June 30, 2009, the Commission, in consultation with the States receiving grants under the program and the Election Assistance Commission Board of Advisors, shall submit a report to Congress on the impact of the program on the collection of the election data described in subsection (a).
 
 &emsp;“(2)
 

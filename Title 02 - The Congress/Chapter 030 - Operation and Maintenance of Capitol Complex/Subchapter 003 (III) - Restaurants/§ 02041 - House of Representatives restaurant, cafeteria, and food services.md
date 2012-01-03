@@ -32,7 +32,7 @@ Section is based on section 2 of House Resolution No. 317, Ninety-second Congres
 
 #### Amendments
 
-1996—Subsecs. (a) to (c). Pub. L. 104–186 substituted “House Oversight” for “House Administration” wherever appearing.
+<b>1996</b>—Subsecs. (a) to (c). Pub. L. 104–186 substituted “House Oversight” for “House Administration” wherever appearing.
 
 #### Change of Name
 
@@ -46,7 +46,7 @@ Pub. L. 104–53, title I, §107A, Nov. 19, 1995, 109 Stat. 522, as amended by P
 
 “(b) The account referred to in subsection (a) is the special deposit account established for the House of Representatives Restaurant by section 208 of the First Supplemental Civil Functions Appropriation Act, 1941 (40 U.S.C. 174k note) \[former 40 U.S.C. 174k\].”
 
-\[Pub. L. 104–197, title I, §101(b), Sept. 16, 1996, 110 Stat. 2401, provided that: “The amendments made by subsection (a) \[amending section 107A of Pub. L. 104–53, set out above\] shall apply with respect to fiscal years beginning after September 30, 1996.”\]
+\[Pub. L. 104–197, title I, §101(b), Sept. 16, 1996, 110 Stat. 2401, provided that: “The amendments made bysubsection (a) \[amending section 107A of Pub. L. 104–53, set out above\] shall apply with respect to fiscal years beginning after September 30, 1996.”\]
 
 #### Transfer of Food Service Operations; Election by Certain Affected Employees; Disability and Retirement Benefits; Promulgation of Regulations
 

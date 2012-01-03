@@ -26,7 +26,7 @@
 
 #### (A) Prohibition
 
-&emsp;&emsp;A child care provider that receives assistance under this subchapter shall not discriminate in employment on the basis of the religion of the prospective employee if such employee's primary responsibility is or willbe working directly with children in the provision of child care services.
+&emsp;&emsp;A child care provider that receives assistance under this subchapter shall not discriminate in employment on the basis of the religion of the prospective employee if such employee's primary responsibility is or will be working directly with children in the provision of child care services.
 
 #### (B) Qualified applicants
 

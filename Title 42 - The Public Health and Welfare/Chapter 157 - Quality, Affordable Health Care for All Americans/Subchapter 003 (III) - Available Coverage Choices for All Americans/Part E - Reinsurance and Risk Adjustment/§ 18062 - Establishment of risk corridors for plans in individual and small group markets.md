@@ -18,7 +18,7 @@ The Secretary shall establish and administer a program of risk corridors for cal
 
 &emsp;The Secretary shall provide under the program established under subsection (a) that if—
 
-&emsp;&emsp;(A) a participating plan's allowable costs for any plan year are less than 97 percent but not less than 92 percent of the target amount, the plan shall pay to the Secretaryan amount equal to 50 percent of the excess of 97 percent of the target amount over the allowable costs; and
+&emsp;&emsp;(A) a participating plan's allowable costs for any plan year are less than 97 percent but not less than 92 percent of the target amount, the plan shall pay to the Secretary an amount equal to 50 percent of the excess of 97 percent of the target amount over the allowable costs; and
 
 &emsp;&emsp;(B) a participating plan's allowable costs for any plan year are less than 92 percent of the target amount, the plan shall pay to the Secretary an amount equal to the sum of 2.5 percent of the target amount plus 80 percent of the excess of 92 percent of the target amount over the allowable costs.
 

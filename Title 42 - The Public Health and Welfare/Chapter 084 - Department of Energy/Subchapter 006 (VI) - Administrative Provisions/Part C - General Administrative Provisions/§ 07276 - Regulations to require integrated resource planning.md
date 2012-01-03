@@ -16,5 +16,5 @@ Section was enacted as part of the Hoover Power Plant Act of 1984, and not as pa
 
 #### Prior Provisions
 
-A prior section 7276, Pub. L. 98–381, title II, §202, Aug. 17, 1984, 98 Stat. 1341, related to regulations of Western Area Power Administration, including amendment of regulations after notice and comment, evaluation of energy conservation programs, and allowance by Western for incorporation of elements of such programs, prior to the general amendment of title II of Pub. L. 98–381 by section 114 of Pub. L. 102–486.
+A prior section 7276, Pub. L. 98–381, title II, §202, Aug. 17, 1984, 98 Stat. 1341, related to regulations of WesternArea Power Administration, including amendment of regulations after notice and comment, evaluation of energy conservation programs, and allowance by Western for incorporation of elements of such programs, prior to the general amendment of title II of Pub. L. 98–381 by section 114 of Pub. L. 102–486.
 

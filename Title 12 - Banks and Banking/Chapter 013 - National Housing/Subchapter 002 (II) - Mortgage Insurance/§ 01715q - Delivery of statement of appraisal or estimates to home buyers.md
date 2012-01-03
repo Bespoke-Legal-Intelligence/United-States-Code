@@ -12,13 +12,13 @@ Section 1715z–2 of this title, referred to in text, was repealed by Pub. L. 11
 
 #### Amendments
 
-1968—Pub. L. 90–448 inserted references to sections 1715z(i) and 1715z–2 of this title.
+<b>1968</b>—Pub. L. 90–448 inserted references to sections 1715z(i) and 1715z–2 of this title.
 
-1967—Pub. L. 90–19 substituted “Secretary” for “Commissioner” wherever appearing, and “Secretary's” for “Commissioner's”.
+<b>1967</b>—Pub. L. 90–19 substituted “Secretary” for “Commissioner” wherever appearing, and “Secretary's” for “Commissioner's”.
 
-1961—Pub. L. 87–70 inserted references to sections 1715x and 1715y of this title, and substituted “or on the basis of any other estimates of the Commissioner, that a written statement setting forth such estimate or estimates, as the case may be,” for “that a written statement setting forth such estimate”.
+<b>1961</b>—Pub. L. 87–70 inserted references to sections 1715x and 1715y of this title, and substituted “or on the basis of any other estimates of the Commissioner, that a written statement setting forth such estimate or estimates, as the case may be,” for “that a written statement setting forth such estimate”.
 
-1957—Pub. L. 85–104 inserted sentence authorizing estimate of replacement cost in lieu of an estimate of value where mortgage amount is based upon replacement cost.
+<b>1957</b>—Pub. L. 85–104 inserted sentence authorizing estimate of replacement cost in lieu of an estimate of value where mortgage amount is based upon replacement cost.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

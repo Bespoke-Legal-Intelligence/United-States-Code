@@ -1,14 +1,16 @@
 ### §2465. Date of termination
 
-No duty-free treatment provided under this subchapter shall remain in effect after December 31, 2010.
+No duty-free treatment provided under this subchapter shall remain in effect after July 31, 2013.
 
-(Pub. L. 93–618, title V, §505, as added Pub. L. 104–188, title I, §1952(a), Aug. 20, 1996, 110 Stat. 1925; amended Pub. L. 105–34, title IX, §981(a), Aug. 5, 1997, 111 Stat. 902; Pub. L. 105–277, div. J, title I, §1011(a), Oct. 21, 1998, 112 Stat. 2681–900; Pub. L. 106–170, title V, §508(a), Dec. 17, 1999, 113 Stat. 1923; Pub. L. 107–210, div. D, title XLI, §4101(a), Aug. 6, 2002, 116 Stat. 1040; Pub. L. 109–432, div. D, title VIII, §8002, Dec. 20, 2006, 120 Stat. 3195; Pub. L. 110–436, §4, Oct. 16, 2008, 122 Stat. 4981; Pub. L. 111–124, §1, Dec. 28, 2009, 123 Stat. 3484.)
+(Pub. L. 93–618, title V, §505, as added Pub. L. 104–188, title I, §1952(a), Aug. 20, 1996, 110 Stat.1925; amended Pub. L. 105–34, title IX, §981(a), Aug. 5, 1997, 111 Stat. 902; Pub. L. 105–277, div. J, title I, §1011(a), Oct. 21, 1998, 112 Stat. 2681–900; Pub. L. 106–170, title V, §508(a), Dec. 17, 1999, 113 Stat. 1923; Pub. L. 107–210, div. D, title XLI, §4101(a), Aug. 6, 2002, 116 Stat. 1040; Pub. L. 109–432, div. D, title VIII, §8002, Dec. 20, 2006, 120 Stat. 3195; Pub. L. 110–436, §4, Oct. 16, 2008, 122 Stat. 4981; Pub. L. 111–124, §1, Dec. 28, 2009, 123 Stat. 3484; Pub. L. 112–40, §1(a), Oct. 21, 2011, 125 Stat. 401.)
 
 #### Prior Provisions
 
 A prior section 2465, Pub. L. 93–618, title V, §505, Jan. 3, 1975, 88 Stat. 2071; Pub. L. 98–573, title V, §506(a), Oct. 30, 1984, 98 Stat. 3023; Pub. L. 103–66, title XIII, §13802(b)(1), Aug. 10, 1993, 107 Stat. 667; Pub. L. 103–465, title VI, §601(a), Dec. 8, 1994, 108 Stat. 4990, related to termination of duty-free treatment and reports, prior to the general amendment of this subchapter by Pub. L. 104–188.
 
 #### Amendments
+
+<b>2011</b>—Pub. L. 112–40 substituted “July 31, 2013” for “December 31, 2010”.
 
 <b>2009</b>—Pub. L. 111–124 substituted “December 31, 2010” for “December 31, 2009”.
 
@@ -23,6 +25,44 @@ A prior section 2465, Pub. L. 93–618, title V, §505, Jan. 3, 1975, 88 Stat. 2
 <b>1998</b>—Pub. L. 105–277 substituted “June 30, 1999” for “June 30, 1998”.
 
 <b>1997</b>—Pub. L. 105–34 substituted “June 30, 1998” for “May 31, 1997”.
+
+#### Effective Date of 2011 Amendment
+
+Pub. L. 112–40, §1(b), Oct. 21, 2011, 125 Stat. 401, provided that:
+
+“(1)
+
+In general.—The amendment made by subsection (a) \[amending this section\] shall apply to articles entered on or after the 15th day after the date of the enactment of this Act \[Oct. 21, 2011\].
+
+“(2)
+
+Retroactive application for certain liquidations and reliquidations.—
+
+&emsp;“(A)
+
+In general.—Notwithstanding section 514 of the Tariff Act of 1930 (19 U.S.C. 1514) or any other provision of law and subject to subparagraph (B), any entry of an article to which duty-free treatment or other preferential treatment under title V of the Trade Act of 1974 \[19 U.S.C. 2461 et seq.\] would have applied if the entry had been made on December 31, 2010, that was made—
+
+&emsp;&emsp;“(i) after December 31, 2010; and
+
+&emsp;&emsp;“(ii) before the 15th day after the date of the enactment of this Act,
+
+> &emsp;shall be liquidated or reliquidated as though such entry occurred on the 15th day after the date of the enactment of this Act.
+
+&emsp;“(B)
+
+Requests.—A liquidation or reliquidation may be made under subparagraph (A) with respect to an entry only if a request therefor is filed with U.S. Customs and Border Protection not later than 180 days after the date of the enactment of this Act \[Oct. 21, 2011\] that contains sufficient information to enable U.S. Customs and Border Protection—
+
+&emsp;&emsp;“(i) to locate the entry; or
+
+&emsp;&emsp;“(ii) to reconstruct the entry if it cannot be located.
+
+&emsp;“(C)
+
+Payment of amounts owed.—Any amounts owed by the United States pursuant to the liquidation or reliquidation of an entry of an article under subparagraph (A) shall be paid, without interest, not later than 90 days after the date of the liquidation or reliquidation (as the case may be).
+
+“(3)
+
+Definition.—As used in this subsection, the terms ‘enter’ and ‘entry’ include a withdrawal from warehouse for consumption.”
 
 #### Effective Date of 1999 Amendment
 
@@ -106,7 +146,7 @@ Pub. L. 107–210, div. D, title XLI, §4101(b), Aug. 6, 2002, 116 Stat. 1040, a
 
 “(1)
 
-In general.—Notwithstanding section 514 of the Tariff Act of 1930 \[19 U.S.C. 1514\] or any other provisionof law, and subject to paragraph (2), the entry of any article—
+In general.—Notwithstanding section 514 of the Tariff Act of 1930 \[19 U.S.C. 1514\] or any other provision of law, and subject to paragraph (2), the entry of any article—
 
 &emsp;“(A) to which duty-free treatment under title V of the Trade Act of 1974 \[19 U.S.C. 2461 et seq.\] would have applied if the entry had been made on September 30, 2001,
 

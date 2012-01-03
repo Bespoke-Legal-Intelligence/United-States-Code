@@ -24,7 +24,7 @@ For subject matter of sections 1001 to 1005d of this title, see section 1921 et 
 
 #### Effective Date of Repeal
 
-Repeal of sections 1001 to 1006 effective one hundred and twenty days after Aug. 8, 1961, or such earlier date as the provisions of section 1921 et seq. of this title aremade effective by regulations of Secretary of Agriculture, see section 341(a) of Pub. L. 87–128, set out as a note under section 1921 of this title.
+Repeal of sections 1001 to 1006 effective one hundred and twenty days after Aug. 8, 1961, or such earlier date as the provisions of section 1921 et seq. of this title are made effective by regulations of Secretary of Agriculture, see section 341(a) of Pub. L. 87–128, set out as a note under section 1921 of this title.
 
 Sections repealed effective Oct. 15, 1961, by former section 300.1 of Title 6, Code of Federal Regulations, see Effective Date note set out under section 1921 of this title.
 
@@ -58,7 +58,7 @@ Section 2 of act Aug. 14, 1946, as amended Apr. 28, 1947, ch. 43, §1, 61 Stat. 
 
 “(f) \[Repealed. May 3, 1950, ch. 152, §7, 64 Stat. 100.\]
 
-“(g) With the approval of the Secretary of Agriculture, the consummation of the transfer of any function, power, duty, asset, or liability transferred by this Act may be delayed not in excess of ninety days after the effective date of this Act, during which time such function, power, or duty, and any function, power, or duty abolished by this Act, may be administered by such agency as the Secretary may designate and in accordance with such rules and regulations as the Secretary may prescribe. Such rules and regulations shall,however, conform as nearly as may be practicable to the provisions of this Act, the several appropriation Acts which are involved, or the Bankhead-Jones Farm Tenant Act, as amended whichever is appropriate.”
+“(g) With the approval of the Secretary of Agriculture, the consummation of the transfer of any function, power, duty, asset, or liability transferred by this Act may be delayed not in excess of ninety days after the effective date of this Act, during which time such function, power, or duty, and any function, power, or duty abolished by this Act, may be administered by such agency as the Secretary may designate and in accordance with such rules and regulations as the Secretary may prescribe. Such rules and regulations shall, however, conform as nearly as may be practicable to the provisions of this Act, the several appropriation Acts which are involved, or the Bankhead-Jones Farm Tenant Act, as amended whichever is appropriate.”
 
 #### Appropriation for Loans
 

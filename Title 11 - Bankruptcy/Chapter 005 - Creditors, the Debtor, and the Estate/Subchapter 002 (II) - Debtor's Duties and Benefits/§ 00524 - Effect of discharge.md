@@ -152,7 +152,7 @@
 
 &emsp;&emsp;(cc) a predecessor in interest of the debtor.
 
-(B) Subject to subsection (h), if, under a plan of reorganization, a kind of demand described insuch plan is to be paid in whole or in part by a trust described in paragraph (2)(B)(i) in connection with which an injunction described in paragraph (1) is to be implemented, then such injunction shall be valid and enforceable with respect to a demand of such kind made, after such plan is confirmed, against the debtor or debtors involved, or against a third party described in subparagraph (A)(ii), if—
+(B) Subject to subsection (h), if, under a plan of reorganization, a kind of demand described in such plan is to be paid in whole or in part by a trust described in paragraph (2)(B)(i) in connection with which an injunction described in paragraph (1) is to be implemented, then such injunction shall be valid and enforceable with respect to a demand of such kind made, after such plan is confirmed, against the debtor or debtors involved, or against a third party described in subparagraph (A)(ii), if—
 
 &emsp;(i) as part of the proceedings leading to issuance of such injunction, the court appoints a legal representative for the purpose of protecting the rights of persons that might subsequently assert demands of such kind, and
 
@@ -246,11 +246,11 @@ Application to Existing Injunctions.—For purposes of subsection (g)—
 
 &emsp;&emsp;(i) by making the statement: “Your first payment in the amount of $\_\_\_\_\_\_ is due on \_\_\_\_\_\_ but the future payment amount may be different. Consult your reaffirmation agreement or credit agreement, as applicable.”, and stating the amount of the first payment and the due date of that payment in the places provided;
 
-&emsp;&emsp;(ii) by making the statement: “Your payment schedule will be:”, and describing the repayment schedule with the number, amount, and due dates or period of payments scheduled to repay the debts reaffirmed to the extent then known by the disclosing party; or
+&emsp;&emsp;(ii) by making the statement: “Your payment schedule will be:”, and describing the repayment schedule with the number,amount, and due dates or period of payments scheduled to repay the debts reaffirmed to the extent then known by the disclosing party; or
 
 &emsp;&emsp;(iii) by describing the debtor's repayment obligations with reasonable specificity to the extent then known by the disclosing party.
 
-&emsp;(I) The following statement: “Note: When this disclosure refers to what a creditor ‘may’ do, it does not use the word ‘may’ to give the creditor specific permission. The word ‘may’ is used to tell you what might occur if the law permits the creditor to take the action. If you have questions about your reaffirming a debt or what the law requires, consult with the attorney who helped you negotiate this agreement reaffirming a debt. If you don't have an attorney helping you, the judge will explainthe effect of your reaffirming a debt when the hearing on the reaffirmation agreement is held.”.
+&emsp;(I) The following statement: “Note: When this disclosure refers to what a creditor ‘may’ do, it does not use the word ‘may’ to give the creditor specific permission. The word ‘may’ is used to tell you what might occur if the law permits the creditor to take the action. If you have questions about your reaffirming a debt or what the law requires, consult with the attorney who helped you negotiate this agreement reaffirming a debt. If you don't have an attorney helping you, the judge will explain the effect of your reaffirming a debt when the hearing on the reaffirmation agreement is held.”.
 
 &emsp;(J)(i) The following additional statements:
 
@@ -352,15 +352,15 @@ Application to Existing Injunctions.—For purposes of subsection (g)—
 
 (2) This subsection does not apply to reaffirmation agreements where the creditor is a credit union, as defined in section 19(b)(1)(A)(iv) of the Federal Reserve Act.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2592; Pub. L. 98–353, title III, §§308, 455, July 10, 1984, 98 Stat. 354, 376; Pub. L. 99–554, title II, §§257(<i>o</i>), 282, 283(k), Oct. 27, 1986, 100 Stat. 3115–3117; Pub. L. 103–394, title I, §§103, 111(a), title V, §501(d)(14), Oct. 22, 1994, 108 Stat. 4108, 4113, 4145; Pub. L. 109–8, title II, §§202, 203(a), title XII, §1210, Apr. 20, 2005, 119 Stat. 43, 194; Pub. L. 111–327, §2(a)(19), Dec. 22, 2010, 124 Stat. 3559.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2592; Pub. L. 98–353, title III, §§308, 455, July 10, 1984, 98 Stat. 354, 376; Pub. L. 99–554, title II, §§257(<i>o</i>), 282, 283(k), Oct. 27, 1986, 100 Stat. 3115–3117; Pub. L. 103–394, title I, §§103, 111(a), title V, §501(d)(14), Oct. 22, 1994, 108 Stat. 4108, 4113, 4145; Pub. L. 109–8, title II, §§202, 203(a), title XII, §1210, Apr.20, 2005, 119 Stat. 43, 194; Pub. L. 111–327, §2(a)(19), Dec. 22, 2010, 124 Stat. 3559.)
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 524(a) of the House amendment represents a compromise between the House bill and the Senate amendment. Section 524(b) of the House amendment is new, and represents standards clarifying the operation of section 524(a)(3) with respect to community property.
 
-Sections 524(c) and (d) represent a compromise between the House bill and Senate amendment on the issue of reaffirmation of a debt discharged in bankruptcy. Every reaffirmation to be enforceable must be approved by the court, and any debtor may rescind a reaffirmation for 30 days from the time the reaffirmation becomes enforceable. If the debtor is an individual the court must advise the debtor of various effects of reaffirmation at a hearing. In addition, to any extentthe debt is a consumer debt that is not secured by real property of the debtor reaffirmation is permitted only if the court approves the reaffirmation agreement, before granting a discharge under section 727, 1141, or 1328, as not imposing a hardship on the debtor or a dependent of the debtor and in the best interest of the debtor; alternatively, the court may approve an agreement entered into in good faith that is in settlement of litigation of a complaint to determine dischargeability or that is entered into in connection with redemption under section 722. The hearing on discharge under section 524(d) will be held whether or not the debtor desires to reaffirm any debts.
+Sections 524(c) and (d) represent a compromise between the House bill and Senate amendment on the issue of reaffirmation of a debt discharged in bankruptcy. Every reaffirmation to be enforceable must be approved by the court, and any debtor may rescind a reaffirmation for 30 days from the time the reaffirmation becomes enforceable. If the debtor is an individual the court must advise the debtor of various effects of reaffirmation at a hearing. In addition, to any extent the debt is a consumer debt that is not secured by real property of the debtor reaffirmation is permitted only if the court approves the reaffirmation agreement, before granting a discharge under section 727, 1141, or 1328, as not imposing a hardship on the debtor or a dependent of the debtor and in the best interest of the debtor; alternatively, the court may approve an agreement entered into in good faith that is in settlement of litigation of a complaint to determine dischargeability or that is entered into in connection with redemption under section 722. The hearing on discharge under section 524(d) will be held whether or not the debtor desires to reaffirm any debts.
 
 #### senate report no. 95–989
 
@@ -388,11 +388,11 @@ Section 19(b)(1)(A)(iv) of the Federal Reserve Act, referred to in subsecs. (k)(
 
 #### Amendments
 
-2010—Subsec. (k)(3)(J)(i). Pub. L. 111–327, §2(a)(19)(A), in last undesignated par., substituted “property securing the lien” for “security property” and “amount of the allowed secured claim” for “current value of the security property” and inserted “must” before “make a single payment”.
+<b>2010</b>—Subsec. (k)(3)(J)(i). Pub. L. 111–327, §2(a)(19)(A), in last undesignated par., substituted “property securing the lien” for “security property” and “amount of the allowed secured claim” for “current value of the security property” and inserted “must” before “make a single payment”.
 
 Subsec. (k)(5)(B). Pub. L. 111–327, §2(a)(19)(B), substituted “that,” for “that”.
 
-2005—Subsec. (a)(3). Pub. L. 109–8, §1210, substituted “section 523, 1228(a)(1), or 1328(a)(1), or that” for “section 523, 1228(a)(1), or 1328(a)(1) of this title, or that”.
+<b>2005</b>—Subsec. (a)(3). Pub. L. 109–8, §1210, substituted “section 523, 1228(a)(1), or 1328(a)(1), or that” for “section 523, 1228(a)(1), or 1328(a)(1) of this title, or that”.
 
 Subsec. (c)(2). Pub. L. 109–8, §203(a)(1), added par. (2) and struck out former par. (2) which read as follows:
 
@@ -404,7 +404,7 @@ Subsecs. (i), (j). Pub. L. 109–8, §202, added subsecs. (i) and (j).
 
 Subsecs. (k) to (m). Pub. L. 109–8, §203(a)(2), added subsecs. (k) to (m).
 
-1994—Subsec. (a)(3). Pub. L. 103–394, §501(d)(14)(A), substituted “1328(a)(1)” for “1328(c)(1)”. See 1986 Amendment note below.
+<b>1994</b>—Subsec. (a)(3). Pub. L. 103–394, §501(d)(14)(A), substituted “1328(a)(1)” for “1328(c)(1)”. See 1986 Amendment note below.
 
 Subsec. (c)(2). Pub. L. 103–394, §103(a)(1), designated existing provisions as subpar. (A), inserted “and” at end, and added subpar. (B).
 
@@ -418,9 +418,9 @@ Subsec. (d)(1)(B)(ii). Pub. L. 103–394, §501(d)(14)(C), inserted “and” at
 
 Subsecs. (g), (h). Pub. L. 103–394, §111(a), added subsecs. (g) and (h).
 
-1986—Subsec. (a)(1). Pub. L. 99–554, §257(<i>o</i>)(1), inserted reference to section 1228 of this title.
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–554, §257(<i>o</i>)(1), inserted reference to section 1228 of this title.
 
-Subsec. (a)(3). Pub. L. 99–554, §257(<i>o</i>)(2), which directed the substitution of “, 1228(a)(1), or 1328(a)(1)” for“or 1328(a)(1)” was executed by making the substitution for “or 1328(c)(1)” to reflect the probable intent of Congress. See 1994 Amendment note above.
+Subsec. (a)(3). Pub. L. 99–554, §257(<i>o</i>)(2), which directed the substitution of “, 1228(a)(1), or 1328(a)(1)” for “or 1328(a)(1)” was executed by making the substitution for “or 1328(c)(1)” to reflect the probable intent of Congress. See 1994 Amendment note above.
 
 Subsec. (c)(1). Pub. L. 99–554, §257(<i>o</i>)(1), inserted reference to section 1228 of this title.
 
@@ -430,7 +430,7 @@ Pub. L. 99–554, §282, substituted “shall” for “may” before “hold”
 
 Subsec. (d)(2). Pub. L. 99–554, §283(k), substituted “section” for “subsection” after “subsection (c)(6) of this”.
 
-1984—Subsec. (a)(2). Pub. L. 98–353, §§308(a), 455, struck out “or from property of the debtor,” before “whether or not discharge”, and substituted “an act” for “any act”.
+<b>1984</b>—Subsec. (a)(2). Pub. L. 98–353, §§308(a), 455, struck out “or from property of the debtor,” before “whether or not discharge”, and substituted “an act” for “any act”.
 
 Subsec. (a)(3). Pub. L. 98–353, §455, substituted “an act” for “any act”.
 

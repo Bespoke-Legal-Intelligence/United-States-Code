@@ -6,7 +6,7 @@ To carry out the purposes of this chapter, the Secretary of Transportation, the 
 
 #### (b) Report to Congressional committees concerning planning, etc.
 
-Within one hundred and eighty days from August 15, 1978, the Secretary shall prepare and submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives, a compilation of Federal statutes and programs providing authority for the planning, funding, or operation of transportation projects which might be utilized by the Secretary to carry out the purpose of this chapter. The Secretary shall revise the compilation thereafter as he deems necessary.
+Within one hundred and eighty days from August 15, 1978, the Secretary shall prepare and submit to the Committee on Energy and NaturalResources of the Senate and the Committee on Natural Resources of the House of Representatives, a compilation of Federal statutes and programs providing authority for the planning, funding, or operation of transportation projects which might be utilized by the Secretary to carry out the purpose of this chapter. The Secretary shall revise the compilation thereafter as he deems necessary.
 
 (Pub. L. 95–344, title III, §303, Aug. 15, 1978, 92 Stat. 479; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 103–437, §6(d)(18), Nov. 2, 1994, 108 Stat. 4584.)
 

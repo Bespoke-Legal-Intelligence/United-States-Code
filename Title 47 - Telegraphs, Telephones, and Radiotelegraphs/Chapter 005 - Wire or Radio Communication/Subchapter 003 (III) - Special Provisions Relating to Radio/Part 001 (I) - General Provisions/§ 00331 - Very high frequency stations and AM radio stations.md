@@ -16,7 +16,7 @@ Subsec. (d) of section 307 of this title, referred to in subsec. (a), was redesi
 
 #### Codification
 
-December 20, 1991, referred to in subsec. (b), was in the original “the date of enactment of this Act”, whichwas translated as meaning the date of enactment of Pub. L. 102–243, which enacted subsec. (b), to reflect the probable intent of Congress.
+December 20, 1991, referred to in subsec. (b), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 102–243, which enacted subsec. (b), to reflect the probable intent of Congress.
 
 Another section 331 of act June 19, 1934 was renumbered section 332 and is classified to section 332 of this title.
 

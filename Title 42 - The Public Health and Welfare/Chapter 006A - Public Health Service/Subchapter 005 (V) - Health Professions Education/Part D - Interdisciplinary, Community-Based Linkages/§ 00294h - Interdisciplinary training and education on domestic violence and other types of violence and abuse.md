@@ -24,7 +24,7 @@ To be eligible to receive a grant under this section an entity shall—
 
 &emsp;Amounts provided under a grant under this section shall be used to—
 
-&emsp;&emsp;(A) fund interdisciplinary training and education projects that are designed to train medical, nursing, and other health professions students and residents to identify and provide health care services (including mental or behavioral health care services and referrals to appropriate community services) to individuals who are experiencing or who have experienced domestic violence, sexual assault, and stalking or dating violence; and
+&emsp;&emsp;(A) fund interdisciplinary training and education projects that are designed to trainmedical, nursing, and other health professions students and residents to identify and provide health care services (including mental or behavioral health care services and referrals to appropriate community services) to individuals who are experiencing or who have experienced domestic violence, sexual assault, and stalking or dating violence; and
 
 &emsp;&emsp;(B) plan and develop culturally competent clinical components for integration into approved residency training programs that address health issues related to domestic violence, sexual assault, dating violence, and stalking, along with other forms of violence as appropriate, and include the primacy of victim safety and confidentiality.
 
@@ -32,7 +32,7 @@ To be eligible to receive a grant under this section an entity shall—
 
 &emsp;Amounts provided under a grant under this section may be used to—
 
-&emsp;&emsp;(A) offer community-based training opportunities in rural areas for medical, nursing, and other students and residents on domestic violence, sexual assault, stalking, and dating violence, and other forms of violence and abuse, which may include the use of distance learning networks and other availabletechnologies needed to reach isolated rural areas; or
+&emsp;&emsp;(A) offer community-based training opportunities in rural areas for medical, nursing, and other students and residents on domestic violence, sexual assault, stalking, and dating violence, and other forms of violence and abuse, which may include the use of distance learning networks and other available technologies needed to reach isolated rural areas; or
 
 &emsp;&emsp;(B) provide stipends to students who are underrepresented in the health professions as necessary to promote and enable their participation in clerkships, preceptorships, or other offsite training experiences that are designed to develop health care clinical skills related to domestic violence, sexual assault, dating violence, and stalking.
 

@@ -46,9 +46,9 @@ Section 1451a of title 19, referred to in par. (3), was repealed by Pub. L. 103�
 
 #### Amendments
 
-2002—Par. (1). Pub. L. 107–171 added par. (1) and struck out former par. (1) which read as follows: “section 394 of title 7;”.
+<b>2002</b>—Par. (1). Pub. L. 107–171 added par. (1) and struck out former par. (1) which read as follows: “section 394 of title 7;”.
 
-1983—Par. (4). Pub. L. 98–89 substituted “sections 2111 and 2112 of title 46” for “section 382b of title 46”.
+<b>1983</b>—Par. (4). Pub. L. 98–89 substituted “sections 2111 and 2112 of title 46” for “section 382b of title 46”.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

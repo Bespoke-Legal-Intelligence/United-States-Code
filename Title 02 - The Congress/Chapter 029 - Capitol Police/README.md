@@ -37,6 +37,7 @@
 | [1931\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Administration/Part%20B%20-%20Compensation%20and%20Other%20Personnel%20Matters/%C2%A7%2001931%20-%20Additional%20compensation%20for%20employees%20with%20specialty%20assignments%20and%20proficiencies.md) | Additional compensation for employees with specialty assignments and proficiencies. |
 | [1932\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Administration/Part%20B%20-%20Compensation%20and%20Other%20Personnel%20Matters/%C2%A7%2001932%20-%20Application%20of%20premium%20pay%20limits%20on%20annualized%20basis.md) | Application of premium pay limits on annualized basis. |
 | [1933\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Administration/Part%20B%20-%20Compensation%20and%20Other%20Personnel%20Matters/%C2%A7%2001933%20-%20Clarification%20of%20authorities%20regarding%20certain%20personnel%20benefits.md) | Clarification of authorities regarding certain personnel benefits. |
+| [1934\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Administration/Part%20B%20-%20Compensation%20and%20Other%20Personnel%20Matters/%C2%A7%2001934%20-%20Waiver%20by%20Chief%20of%20Capitol%20Police%20of%20claims%20arising%20out%20of%20erroneous%20payments%20to%20officers%20and%20employees.md) | Waiver by Chief of Capitol Police of claims arising out of erroneous payments to officers and employees. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

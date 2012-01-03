@@ -2,7 +2,7 @@
 
 The Attorney General may transfer to the Health Resources and Services Administration such amounts as may be necessary for direct expenditures by that Administration for medical relief for inmates of Federal penal and correctional institutions.
 
-(Pub. L. 111–117, div. B, title II, Dec. 16, 2009, 123 Stat. 3129.)
+(Pub. L. 112–55, div. B, title II, Nov. 18, 2011, 125 Stat. 610.)
 
 #### Codification
 
@@ -13,6 +13,8 @@ Section was formerly classified to section 341h of title 5 prior to the general 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
+
+Pub. L. 111–117, div. B, title II, Dec. 16, 2009, 123 Stat. 3129.
 
 Pub. L. 111–8, div. B, title II, Mar. 11, 2009, 123 Stat. 576.
 

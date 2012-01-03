@@ -16,7 +16,7 @@ Research supported under this section shall include—
 
 #### (c) Existing partnerships
 
-Research supported under this section shall be coordinated with the Community PreventiveServices Task Force and carried out by building on existing partnerships within the Federal Government while also considering initiatives at the State and local levels and in the private sector.
+Research supported under this section shall be coordinated with the Community Preventive Services Task Force and carried out by building on existing partnerships within the Federal Government while also considering initiatives at the State and local levels and in the private sector.
 
 #### (d) Annual report
 

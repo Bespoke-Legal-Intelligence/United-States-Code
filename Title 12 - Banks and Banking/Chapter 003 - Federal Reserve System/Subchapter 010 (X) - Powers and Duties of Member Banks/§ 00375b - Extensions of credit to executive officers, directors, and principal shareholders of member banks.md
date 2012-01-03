@@ -34,7 +34,7 @@ A member bank may extend credit to a person described in paragraph (1) in an amo
 
 #### (4) Aggregate limit on extensions of credit to any executive officer, director, or principal shareholder
 
-A member bank may extend credit to any executive officer, director, or principal shareholder, or to any related interest of such a person, only if the extension of credit is in an amount that, when aggregated with the amountof all outstanding extensions of credit by that bank to that person and that person's related interests, would not exceed the limits on loans to a single borrower established by section 84 of this title. For purposes of this paragraph, section 84 of this title shall be deemed to apply to a State member bank as if the State member bank were a national banking association.
+A member bank may extend credit to any executive officer, director, or principal shareholder, or to any related interest of such a person, only if the extension of credit is in an amount that, when aggregated with the amount of all outstanding extensions of credit by that bank to that person and that person's related interests, would not exceed the limits on loans to a single borrower established by section 84 of this title. For purposes of this paragraph, section 84 of this title shall be deemed to apply to a State member bank as if the State member bank were a national banking association.
 
 #### (5) Aggregate limit on extensions of credit to all executive officers, directors, and principal shareholders
 
@@ -48,7 +48,7 @@ A member bank may extend credit to any executive officer, director, or principal
 
 #### (C) Board may make exceptions for certain banks
 
-&emsp;The Board may, by regulation, make exceptions to subparagraph (A) for member banks with less than $100,000,000 in deposits if the Board determines that the exceptions are important to avoid constricting the availability of credit in small communities or to attract directors to such banks. In no case may the aggregate amount of all outstanding extensions of credit to a bank's executive officers, directors, principal shareholders, and those persons’ related interests be more than 2 times the bank's unimpaired capital and unimpaired surplus.
+&emsp;The Board may, by regulation, make exceptions to subparagraph (A) for member banks with less than $100,000,000 in deposits if theBoard determines that the exceptions are important to avoid constricting the availability of credit in small communities or to attract directors to such banks. In no case may the aggregate amount of all outstanding extensions of credit to a bank's executive officers, directors, principal shareholders, and those persons’ related interests be more than 2 times the bank's unimpaired capital and unimpaired surplus.
 
 #### (6) Overdrafts by executive officers and directors prohibited
 
@@ -118,7 +118,7 @@ For purposes of this section:
 
 #### (i) In general
 
-&emsp;&emsp;A member bank extends credit by making or renewing any loan, granting a line ofcredit, or entering into any similar transaction as a result of which a person becomes obligated (directly or indirectly, or by any means whatsoever) to pay money or its equivalent to the bank.
+&emsp;&emsp;A member bank extends credit by making or renewing any loan, granting a line of credit, or entering into any similar transaction as a result of which a person becomes obligated (directly or indirectly, or by any means whatsoever) to pay money or its equivalent to the bank.
 
 #### (ii) Exceptions
 
@@ -152,7 +152,25 @@ For purposes of this section:
 
 The Board of Governors of the Federal Reserve System may prescribe such regulations, including definitions of terms, as it determines to be necessary to effectuate the purposes and prevent evasions of this section.
 
-(Dec. 23, 1913, ch. 6, §22(h), as added Pub. L. 95–630, title I, §104, Nov. 10, 1978, 92 Stat. 3644; amended Pub. L. 97–320, title IV, §§410(e), 422, Oct. 15, 1982, 96 Stat. 1520, 1522; Pub. L. 102–242, title III, §306(a)–(h), Dec. 19, 1991, 105 Stat. 2355, 2357–2359; Pub. L. 102–550, title IX, §955, title XVI, §1605(a)(10), Oct. 28, 1992, 106 Stat. 3895, 4086; Pub. L. 103–325, title III, §334(b), Sept. 23, 1994, 108 Stat. 2233; Pub. L. 104–208, div. A, title II, §2211, Sept. 30, 1996, 110 Stat. 3009–410.)
+(Dec. 23, 1913, ch. 6, §22(h), as added Pub. L. 95–630, title I, §104, Nov. 10, 1978, 92 Stat. 3644; amended Pub. L. 97–320, title IV, §§410(e), 422, Oct. 15, 1982, 96 Stat. 1520, 1522; Pub. L. 102–242, title III, §306(a)–(h), Dec. 19, 1991, 105 Stat. 2355, 2357–2359; Pub. L. 102–550, title IX, §955, title XVI, §1605(a)(10), Oct. 28, 1992, 106 Stat. 3895, 4086; Pub. L. 103–325, title III, §334(b), Sept. 23, 1994, 108 Stat. 2233; Pub. L. 104–208, div. A, title II, §2211, Sept. 30, 1996, 110 Stat. 3009–410; Pub. L. 111–203, title VI, §614(a), July 21, 2010, 124 Stat. 1614.)
+
+#### Amendment of Paragraph (9)(D)(i)
+
+<i>Pub. L. 111–203, title VI, §614, July 21, 2010, 124 Stat. 1614, provided that, effective 1 year after the transfer date, paragraph (9)(D)(i) of this section is amended by:</i>
+
+<i>(1) substituting “the person” for “a person”;</i>
+
+<i>(2) striking out “extends credit by making” and inserting “extends credit to a person by—</i>
+
+&emsp;&emsp;&emsp;<i>“(I) making”;</i>
+
+<i>(3) substituting “; or” for the period at the end; and</i>
+
+<i>(4) adding at the end the following:</i>
+
+&emsp;&emsp;&emsp;<i>“(II) having credit exposure to the person arising from a derivative transaction (as defined in section 84(b) of this title), repurchase agreement, reverse repurchase agreement, securities lending transaction, or securities borrowing transaction between the member bank and the person.”</i>
+
+<i>See Effective Date of 2010 Amendment note below.</i>
 
 #### Prior Provisions
 
@@ -160,7 +178,7 @@ A prior section 22(h) of act Dec. 23, 1913, ch. 6, as added June 19, 1934, ch. 6
 
 #### Amendments
 
-1996—Par. (2)(A). Pub. L. 104–208, §2211(a)(1), (2), designated existing provisions as subpar. (A), inserted heading, redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, and adjusted margins.
+<b>1996</b>—Par. (2)(A). Pub. L. 104–208, §2211(a)(1), (2), designated existing provisions as subpar. (A), inserted heading, redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, and adjusted margins.
 
 Par. (2)(B). Pub. L. 104–208, §2211(a)(3), added subpar. (B). Former subpar. (B) redesignated cl. (ii) of subpar. (A).
 
@@ -168,15 +186,15 @@ Par. (2)(C). Pub. L. 104–208, §2211(a)(1), redesignated subpar. (C) as cl. (i
 
 Par. (8)(B). Pub. L. 104–208, §2211(b), amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “The Board may, by regulation, make exceptions to subparagraph (A), except as that subparagraph makes applicable paragraph (2), for an executive officer or director of a subsidiary of a company that controls the member bank, if that executive officer or director does not have authority to participate, and does not participate, in major policymaking functions of the member bank.”
 
-1994—Par. (8). Pub. L. 103–325 designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+<b>1994</b>—Par. (8). Pub. L. 103–325 designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
-1992—Par. (6)(B)(i). Pub. L. 102–550, §1605(a)(10), substituted “or” for “and” at end.
+<b>1992</b>—Par. (6)(B)(i). Pub. L. 102–550, §1605(a)(10), substituted “or” for “and” at end.
 
 Par. (9)(D). Pub. L. 102–550, §955(a), designated existing provisions as cl. (i), inserted heading, and added cl. (ii).
 
 Par. (9)(F). Pub. L. 102–550, §955(b), designated portion of existing provisions as cl. (i), realigned margin, substituted “; and” for period at end, and added cl. (ii).
 
-1991—Pub. L. 102–242, §306(a), amended section generally, substituting provisions relating to extensions of credit to executive officers, directors, and principal shareholders of member banks for provisions relating to prohibitions respecting loans and extensions of credit to executive officers and directors of banks, political or campaign committees, etc.
+<b>1991</b>—Pub. L. 102–242, §306(a), amended section generally, substituting provisions relating to extensions of credit to executive officers, directors, and principal shareholders of member banks for provisions relating to prohibitions respecting loans and extensions of credit to executive officers and directors of banks, political or campaign committees, etc.
 
 Par. (1). Pub. L. 102–242, §306(d)(2), inserted “(5),” after “(4),”.
 
@@ -194,9 +212,15 @@ Par. (9)(E). Pub. L. 102–242, §306(g), added subpar. (E).
 
 Par. (9)(F). Pub. L. 102–242, §306(h), struck out last sentence of subpar. (F) which read as follows: “For purposes of paragraph (4), if a member bank has its main banking office in a city, town, or village with a population of less than 30,000, the preceding sentence shall apply with ‘18 percent’ substituted for ‘10 percent’.”
 
-1982—Par. (2). Pub. L. 97–320, §422, substituted “an amount prescribed in a regulation of the appropriate Federal banking agency” for “$25,000”.
+<b>1982</b>—Par. (2). Pub. L. 97–320, §422, substituted “an amount prescribed in a regulation of the appropriate Federal banking agency” for “$25,000”.
 
 Par. (6)(C) to (F). Pub. L. 97–320, §410(e), redesignated subpars. (D) to (G) as (C) to (F), respectively. Former subpar. (C), relating to definition of term “extension of credit”, was struck out.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–203, title VI, §614(b), July 21, 2010, 124 Stat. 1614, provided that: “The amendments made by this section \[amending this section\] shall take effect 1 year after the transfer date.”
+
+\[For definition of “transfer date” as used in section 614(b) of Pub. L. 111–203, set out above, see section 5301 of this title.\]
 
 #### Effective Date of 1992 Amendment
 
@@ -220,7 +244,7 @@ Section 306(m) of Pub. L. 102–242 provided that:
 
 “(1)
 
-In general.—The Board of Governors of the Federal Reserve System shall, not later than 120 days afterthe date of enactment of this Act \[Dec. 19, 1991\], promulgate final regulations to implement the amendments made by this section \[amending this section and sections 1468, 1828, and 1972 of this title\], other than the amendments made by subsections (i) and (k) \[amending sections 1468 and 1828 of this title\].
+In general.—The Board of Governors of the Federal Reserve System shall, not later than 120 days after the date of enactment of this Act \[Dec. 19, 1991\], promulgate final regulations to implement the amendments made by this section \[amending this section and sections 1468, 1828, and 1972 of this title\], other than the amendments made by subsections (i) and (k) \[amending sections 1468 and 1828 of this title\].
 
 “(2)
 

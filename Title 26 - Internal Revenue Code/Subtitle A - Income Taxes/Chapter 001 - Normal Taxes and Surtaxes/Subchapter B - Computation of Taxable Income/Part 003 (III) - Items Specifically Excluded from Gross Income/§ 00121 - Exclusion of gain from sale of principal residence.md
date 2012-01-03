@@ -86,7 +86,7 @@ Gross income shall not include gain from the sale or exchange of property if, du
 
 #### (1) In general
 
-&emsp;In the case of a sale or exchange to which this subsection applies, the ownership and userequirements of subsection (a), and subsection (b)(3), shall not apply; but the dollar limitation under paragraph (1) or (2) of subsection (b), whichever is applicable, shall be equal to—
+&emsp;In the case of a sale or exchange to which this subsection applies, the ownership and use requirements of subsection (a), and subsection (b)(3), shall not apply; but the dollar limitation under paragraph (1) or (2) of subsection (b), whichever is applicable, shall be equal to—
 
 &emsp;&emsp;(A) the amount which bears the same ratio to such limitation (determined without regard to this paragraph) as
 
@@ -264,7 +264,7 @@ Gross income shall not include gain from the sale or exchange of property if, du
 
 &emsp;&emsp;&emsp;(i) on qualified official extended duty (as defined in paragraph (9)(C)) as an employee of the Peace Corps, or
 
-&emsp;&emsp;&emsp;(ii) as an enrolled volunteer or volunteer leader under section 5 or 6 (as the casemay be) of the Peace Corps Act (22 U.S.C. 2504, 2505).
+&emsp;&emsp;&emsp;(ii) as an enrolled volunteer or volunteer leader under section 5 or 6 (as the case may be) of the Peace Corps Act (22 U.S.C. 2504, 2505).
 
 #### (B) Applicable rules
 
@@ -422,15 +422,15 @@ Pub. L. 110–245, title I, §113(c), June 17, 2008, 122 Stat. 1635, provided th
 
 #### Effective Date of 2007 Amendment
 
-Pub. L. 110–142, §7(b), Dec. 20, 2007, 121 Stat. 1806, provided that: “The amendment made by this section\[amending this section\] shall apply to sales or exchanges after December 31, 2007.”
+Pub. L. 110–142, §7(b), Dec. 20, 2007, 121 Stat. 1806, provided that: “The amendment made by this section \[amending this section\] shall apply to sales or exchanges after December 31, 2007.”
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–432, div. A, title IV, §417(e), Dec. 20, 2006, 120 Stat. 2966, as amended by Pub. L. 110–172, §11(a)(11)(B), Dec. 29, 2007, 121 Stat. 2485, provided that: “The amendments made by this section \[amending this section\] shall apply to sales or exchanges after the date of the enactment of this Act \[Dec. 20, 2006\].”
+Pub. L. 109–432, div. A, title IV, §417(e), Dec. 20, 2006, 120 Stat. 2966, as amended by Pub. L. 110–172,§11(a)(11)(B), Dec. 29, 2007, 121 Stat. 2485, provided that: “The amendments made by this section \[amending this section\] shall apply to sales or exchanges after the date of the enactment of this Act \[Dec. 20, 2006\].”
 
 #### Effective Date of 2005 Amendment
 
-Amendment by section 402(a)(3) of Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which it relates, but not applicable with respect to any transaction ordered in compliance with the Public Utility Holding Company Act of 1935 (15 U.S.C. 79 et seq.) before its repeal, see section 402(m) of Pub. L. 109–135, set out as an Effective and Termination Dates of 2005 Amendments note under section 36C of this title.
+Amendment by section 402(a)(3) of Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which it relates, but not applicable with respect to any transaction ordered in compliance with the Public Utility Holding Company Act of 1935 (15 U.S.C. 79 et seq.) before its repeal, see section 402(m) of Pub. L. 109–135, set out as an Effective and Termination Dates of 2005 Amendments note under section 23 of this title.
 
 Amendment by section 403(ee) of Pub. L. 109–135 effective as if included in the provision of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
 
@@ -516,11 +516,11 @@ Section 1404(b) of Pub. L. 94–455 provided that: “The amendment made by subs
 
 #### Effective Date
 
-Section 206(c) of Pub. L. 88–272 provided that: “The amendments made by this section \[enacting this section, redesignating former section 121 as 122, andamending sections 1033, 1034, and 6012 of this title\] shall apply to dispositions after Dec. 31, 1963, in taxable years ending after such date.”
+Section 206(c) of Pub. L. 88–272 provided that: “The amendments made by this section \[enacting this section, redesignating former section 121 as 122, and amending sections 1033, 1034, and 6012 of this title\] shall apply to dispositions after Dec. 31, 1963, in taxable years ending after such date.”
 
 #### Sense of Congress Concerning Tax Treatment of Principal Residence of Members of Armed Forces While Away From Home on Active Duty
 
-Pub. L. 105–261, div. A, title X, §1074, Oct. 17, 1998, 112 Stat. 2138, provided that: “It is the sense of Congress that a member of the Armed Forces should be treated for purposes of section 121 of the Internal Revenue Code of 1986 as using property as a principal residence during any continuous period that the member is serving on active duty for 180 days or more with the Armed Forces, but only if the member used the property as a principal residence for any period during or immediately before that period of active duty.”
+Pub. L. 105–261, div. A, title X, §1074, Oct. 17, 1998, 112 Stat. 2138, provided that: “It is the sense of Congressthat a member of the Armed Forces should be treated for purposes of section 121 of the Internal Revenue Code of 1986 as using property as a principal residence during any continuous period that the member is serving on active duty for 180 days or more with the Armed Forces, but only if the member used the property as a principal residence for any period during or immediately before that period of active duty.”
 
 #### Transitional Rule in Case of Sale or Exchange of Residence Before July 26, 1981
 

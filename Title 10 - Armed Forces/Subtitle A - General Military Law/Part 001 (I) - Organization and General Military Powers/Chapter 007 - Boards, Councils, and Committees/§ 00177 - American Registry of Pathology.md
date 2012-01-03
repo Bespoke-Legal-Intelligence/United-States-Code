@@ -22,7 +22,7 @@
 
 &emsp;(4) enter into agreements with professional societies for the establishment and maintenance of Registries of Pathology; and
 
-&emsp;(5) serve as a focus for the interchange between military and civilian pathology and encourage the participation of medical, dental, and veterinary sciences in pathology for the mutual benefit of military and civilian medicine.
+&emsp;(5) serve as a focus for the interchange between military and civilian pathology and encourage the participation of medical, dental, and veterinary sciences in pathology for themutual benefit of military and civilian medicine.
 
 (c) In the performance of the functions set forth in subsection (b), the American Registry of Pathology is authorized to—
 

@@ -1,12 +1,12 @@
 ### §1320b–24. Consultation with Tribal Technical Advisory Group
 
-The Secretary of Health and Human Services shall maintain within the Centers for Medicaid \& Medicare Services <sup>1</sup> (CMS) a Tribal Technical Advisory Group (TTAG), which was first established in accordance with requirements of the charter dated September 30, 2003, and the Secretary of Health and Human Services shall include in such Group a representative of a national urban Indian health organization and a representative of the Indian Health Service. The inclusion of a representative of a national urban Indian health organization in such Group shall not affect the nonapplication of the Federal Advisory Committee Act (5 U.S.C. App.) to such Group.
+The Secretary of Health and Human Services shall maintain within the Centers for Medicaid \& Medicare Services <sup>1</sup> (CMS) a Tribal TechnicalAdvisory Group (TTAG), which was first established in accordance with requirements of the charter dated September 30, 2003, and the Secretary of Health and Human Services shall include in such Group a representative of a national urban Indian health organization and a representative of the Indian Health Service. The inclusion of a representative of a national urban Indian health organization in such Group shall not affect the nonapplication of the Federal Advisory Committee Act (5 U.S.C. App.) to such Group.
 
 (Pub. L. 111–5, div. B, title V, §5006(e)(1), Feb. 17, 2009, 123 Stat. 510.)
 
 #### References in Text
 
-The Federal Advisory Committee Act, referred to in text, is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, whichis set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in text, is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
 

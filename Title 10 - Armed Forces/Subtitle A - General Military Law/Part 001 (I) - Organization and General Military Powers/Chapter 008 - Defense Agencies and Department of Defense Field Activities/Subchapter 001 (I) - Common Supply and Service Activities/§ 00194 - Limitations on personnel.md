@@ -50,7 +50,7 @@ Section 601 of Pub. L. 99–433, as amended by Pub. L. 100–180, div. A, title 
 
 “(a)
 
-Military Departments and Combatant Commands.—(1) The total number of members of the Armed Forces and civilian employees assigned or detailed to duty described in paragraph (2) may not exceed the number equal to 90 percent of the total number of such members and employees assigned or detailed to such duty on September 30, 1986.
+Military Departments and Combatant Commands.—(1) The total number of members of the Armed Forces and civilian employees assigned or detailed toduty described in paragraph (2) may not exceed the number equal to 90 percent of the total number of such members and employees assigned or detailed to such duty on September 30, 1986.
 
 “(2) Duty referred to in paragraph (1) is permanent duty in the military departments and in the unified and specified combatant commands to perform management headquarters activities or management headquarters support activities.
 
@@ -74,7 +74,7 @@ Defense Agencies and DOD Field Activities.—(1)(A) Not later than September 30,
 
 “(C) If the number of members and employees reduced under subparagraph (A) or (B) is in excess of the reduction required to be made by that subparagraph, such excess number may be applied to the number required to be reduced under paragraph (2).
 
-“(2)(A) Not later than September 30, 1988, the Secretary of Defense shall reduce the total number of members of the Armed Forces and civilian employees assigned or detailed to permanent duty in the DefenseAgencies and Department of Defense Field Activities, other than members and employees assigned or detailed to duty in management headquarters activities or management headquarters support activities, by a number that is at least 5 percent of the total number of such members and employees assigned or detailed to such duty on September 30, 1986.
+“(2)(A) Not later than September 30, 1988, the Secretary of Defense shall reduce the total number of members of the Armed Forces and civilian employees assigned or detailed to permanent duty in the Defense Agencies and Department of Defense Field Activities, other than members and employees assigned or detailed to duty in management headquarters activities or management headquarters support activities, by a number that is at least 5 percent of the total number of such members and employees assigned or detailed to such duty on September 30, 1986.
 
 “(B) Not later than September 30, 1989, the Secretary shall carry out an additional reduction in such members and employees of not less than 5 percent of the number of such members and employees assigned or detailed to such duty on September 30, 1988.
 

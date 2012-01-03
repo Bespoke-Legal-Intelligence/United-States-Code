@@ -6,7 +6,7 @@ Any farmer who is dissatisfied with his farm marketing quota may, within fifteen
 
 #### Amendments
 
-1951—Act Apr. 12, 1951, provided that the Secretary appoint a local review committee composed of 3 farmers from the same or nearby counties.
+<b>1951</b>—Act Apr. 12, 1951, provided that the Secretary appoint a local review committee composed of 3 farmers from the same or nearby counties.
 
 #### Review of 1950 Cotton Farm Acreage Allotment
 

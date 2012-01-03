@@ -96,7 +96,7 @@
 
 &emsp;&emsp;&emsp;(i) the amounts are to be invested in regulated investment company stock to be held in that custodial account, and
 
-&emsp;&emsp;&emsp;(ii) under the custodial account no such amounts may be paid or made available to any distributee (unless such amount is a distribution to which section 72(t)(2)(G) applies) before the employee dies, attains age 591/2, has a severance from employment, becomes disabled (within the meaning of section 72(m)(7)), or in the case of contributions made pursuant to a salary reduction agreement (within the meaning of section 3121(a)(5)(D)), encounters financial hardship.
+&emsp;&emsp;&emsp;(ii) under the custodial account no such amounts may be paid or made available to any distributee (unless such amount is a distribution to which section 72(t)(2)(G) applies) before the employee dies, attains age 59½, has a severance from employment, becomes disabled (within the meaning of section 72(m)(7)), or in the case of contributions made pursuant to a salary reduction agreement (within the meaningof section 3121(a)(5)(D)), encounters financial hardship.
 
 #### (B) Account treated as plan
 
@@ -142,11 +142,11 @@
 
 &emsp;Under regulations prescribed by the Secretary, this subsection shall not apply to any annuity contract (or to any custodial account described in paragraph (7) or retirement income account described in paragraph (9)) unless requirements similar to the requirements of sections 401(a)(9) and 401(a)(31) are met (and requirements similar to the incidental death benefit requirements of section 401(a) are met) with respect to such annuity contract (or custodial account or retirement income account). Any amount transferred in a direct trustee-to-trustee transfer in accordance with section 401(a)(31) shall not be includible in gross income for the taxable year of the transfer.
 
-#### (11) Requirement that distributions not begin before age 591/2, severance from employment, death, or disability
+#### (11) Requirement that distributions not begin before age 59½, severance from employment, death, or disability
 
 &emsp;This subsection shall not apply to any annuity contract unless under such contract distributions attributable to contributions made pursuant to a salary reduction agreement (within the meaning of section 402(g)(3)(C)) may be paid only—
 
-&emsp;&emsp;(A) when the employee attains age 591/2, has a severance from employment, dies, or becomes disabled (within the meaning of section 72(m)(7)),
+&emsp;&emsp;(A) when the employee attains age 59½, has a severance from employment, dies, or becomes disabled (within the meaning of section 72(m)(7)),
 
 &emsp;&emsp;(B) in the case of hardship, or
 
@@ -176,7 +176,7 @@
 
 #### (13) Trustee-to-trustee transfers to purchase permissive service credit
 
-&emsp;No amount shall be includible in gross income by reason of a direct trustee-to-trustee transfer to a defined benefit governmentalplan (as defined in section 414(d)) if such transfer is—
+&emsp;No amount shall be includible in gross income by reason of a direct trustee-to-trustee transfer to a defined benefit governmental plan (as defined in section 414(d)) if such transfer is—
 
 &emsp;&emsp;(A) for the purchase of permissive service credit (as defined in section 415(n)(3)(A)) under such plan, or
 
@@ -218,7 +218,7 @@ Subsec. (b)(7)(A)(ii). Pub. L. 108–311, §408(a)(11), substituted “3121(a)(5
 
 Subsec. (b)(3). Pub. L. 107–147, §411(p)(3), in first sentence, inserted “, and which precedes the taxable year by no more than five years” before period at end and, in second sentence, struck out “or any amount received by a former employee after the fifth taxable year following the taxable year in which such employee was terminated” after “this subsection applies”.
 
-Subsec. (b)(6). Pub. L. 107–147, §411(p)(2), struck out heading and text of par. (6). Text read as follows: “For purposes of this subsection and section 72(f) (relating to special rules for computing employees’ contributions to annuity contracts), if rights of the employee under anannuity contract described in subparagraphs (A) and (B) of paragraph (1) change from forfeitable to nonforfeitable rights, then the amount (determined without regard to this subsection) includible in gross income by reason of such change shall be treated as an amount contributed by the employer for such annuity contract as of the time such rights become nonforfeitable.”
+Subsec. (b)(6). Pub. L. 107–147, §411(p)(2), struck out heading and text of par. (6). Text read as follows: “For purposes of this subsection and section 72(f) (relating to special rules for computing employees’ contributions to annuity contracts), if rights of the employee under an annuity contract described in subparagraphs (A) and (B) of paragraph (1) change from forfeitable to nonforfeitable rights, then the amount (determined without regard to this subsection) includible in gross income by reason of such change shall be treated as an amount contributed by the employer for such annuity contract as of the time such rights become nonforfeitable.”
 
 <b>2001</b>—Subsec. (b)(1). Pub. L. 107–16, §642(b)(1), substituted “section 408(d)(3)(A)(ii)” for “section 408(d)(3)(A)(iii)” in concluding provisions.
 
@@ -450,7 +450,7 @@ Pub. L. 107–16, title VI, §647(c), June 7, 2001, 115 Stat. 127, provided that
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–554 effective as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, seesection 1(a)(7) \[title III, §314(g)\] of Pub. L. 106–554, set out as a note under section 56 of this title.
+Amendment by Pub. L. 106–554 effective as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 1(a)(7) \[title III, §314(g)\] of Pub. L. 106–554, set out as a note under section 56 of this title.
 
 #### Effective Date of 1998 Amendment
 
@@ -462,7 +462,7 @@ Section 1504(a)(2) of Pub. L. 105–34 provided that: “The amendment made by t
 
 Amendment by section 1505(c) of Pub. L. 105–34 applicable to taxable years beginning on or after Aug. 5, 1997, with certain governmental plans treated as satisfying requirements for all taxable years beginning before Aug. 5, 1997, see section 1505(d) of Pub. L. 105–34, set out as a note under section 401 of this title.
 
-Amendment by section 1601(d)(6)(B) of Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 36C of this title.
+Amendment by section 1601(d)(6)(B) of Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 23 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -518,7 +518,7 @@ Amendment by section 1852(a)(5)(B), (b)(10) of Pub. L. 99–514 effective, excep
 
 Amendment by section 491(d)(12) of Pub. L. 98–369 applicable to obligations issued after Dec. 31, 1983, see section 491(f)(1) of Pub. L. 98–369, set out as a note under section 62 of this title.
 
-Amendment by section 521(c) of Pub. L. 98–369 applicable to years beginning after Dec. 31, 1984, see section 521(e) of Pub. L. 98–369, set out as a note under section 401 of this title.
+Amendment by section 521(c) of Pub. L. 98–369 applicable to years beginning after Dec. 31, 1984, see section521(e) of Pub. L. 98–369, set out as a note under section 401 of this title.
 
 Amendment by section 522 of Pub. L. 98–369 applicable to distributions made after July 18, 1984, in taxable years ending after that date, see section 522(e) of Pub. L. 98–369, set out as a note under section 402 of this title.
 
@@ -610,7 +610,7 @@ Amendment by Pub. L. 87–792 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1961 Amendment
 
-Section 3(b) of Pub. L. 87–370 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1957.”
+Section 3(b) of Pub. L. 87–370 provided that: “The amendments made by subsection (a) \[amending thissection\] shall apply with respect to taxable years beginning after December 31, 1957.”
 
 #### Effective Dates of 1958 Amendment
 
@@ -622,7 +622,7 @@ Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final re
 
 #### Election To Modify Section 403(b) Exclusion Allowance To Conform to Section 415 Modification
 
-Pub. L. 107–16, title VI, §632(b)(3), June 7, 2001, 115 Stat. 115, provided that: “In the case of taxable years beginning after December 31, 1999, and before January 1, 2002, a plan may disregard the requirement in theregulations regarding the exclusion allowance under section 403(b)(2) of the Internal Revenue Code of 1986 that contributions to a defined benefit pension plan be treated as previously excluded amounts for purposes of the exclusion allowance.”
+Pub. L. 107–16, title VI, §632(b)(3), June 7, 2001, 115 Stat. 115, provided that: “In the case of taxable years beginning after December 31, 1999, and before January 1, 2002, a plan may disregard the requirement in the regulations regarding the exclusion allowance under section 403(b)(2) of the Internal Revenue Code of 1986 that contributions to a defined benefit pension plan be treated as previously excluded amounts for purposes of the exclusion allowance.”
 
 #### Modifications of Subsection (b) of This Section
 
@@ -696,7 +696,7 @@ Section 251(d) of Pub. L. 97–248, as amended by Pub. L. 99–514, §2, Oct. 22
 
 #### Transitional Rule for Making Section 403(b)(8) Rollover in the Case of Payments During 1978
 
-Section 101(a)(13)(B) of Pub. L. 96–222, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “In the case of any payment made during 1978 in a qualifying distribution described in section 403(b)(8) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the applicable period specified in section 402(a)(5)(C) of such Code shall not expire before the close of December 31, 1980.”
+Section 101(a)(13)(B) of Pub. L. 96–222, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “In the case of any payment made during 1978 ina qualifying distribution described in section 403(b)(8) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the applicable period specified in section 402(a)(5)(C) of such Code shall not expire before the close of December 31, 1980.”
 
 #### Transitional Rule in Case of Rollover Contributions to Employee Trusts or Annuities
 

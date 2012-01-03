@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Each consortium that desires to receive a grant under this subchapter shall submit an application to the eligible agency at such time andin such manner as the eligible agency shall require.
+Each consortium that desires to receive a grant under this subchapter shall submit an application to the eligible agency at such time and in such manner as the eligible agency shall require.
 
 #### (b) Plan
 

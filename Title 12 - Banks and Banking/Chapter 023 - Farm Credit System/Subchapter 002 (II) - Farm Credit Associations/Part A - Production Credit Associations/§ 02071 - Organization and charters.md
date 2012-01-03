@@ -60,11 +60,11 @@ A prior section 2071, Pub. L. 92–181, title II, §2.0, Dec. 10, 1971, 85 Stat.
 
 #### Amendments
 
-1991—Subsec. (b)(8). Pub. L. 102–237 substituted “charter, to” for “charter to” in introductory provisions.
+<b>1991</b>—Subsec. (b)(8). Pub. L. 102–237 substituted “charter, to” for “charter to” in introductory provisions.
 
-1988—Subsec. (b)(1). Pub. L. 100–399, §401(m)(1), substituted “this part” for “this subchapter”.
+<b>1988</b>—Subsec. (b)(1). Pub. L. 100–399, §401(m)(1), substituted “this part” for “this subchapter”.
 
-Subsec. (b)(3)(B). Pub. L. 100–399, §401(m)(2), (3), struck out “the” before “powers” and substituted “this subtitle” for “this part”, both of which for purposes of codification were translated as “this part”, requiring no change in text.
+Subsec. (b)(3)(B). Pub. L. 100–399, §401(m)(2), (3), struck out “the” before “powers” and substituted “thissubtitle” for “this part”, both of which for purposes of codification were translated as “this part”, requiring no change in text.
 
 Subsec. (b)(3)(C). Pub. L. 100–399, §401(m)(3), struck out “the” before “territory”.
 

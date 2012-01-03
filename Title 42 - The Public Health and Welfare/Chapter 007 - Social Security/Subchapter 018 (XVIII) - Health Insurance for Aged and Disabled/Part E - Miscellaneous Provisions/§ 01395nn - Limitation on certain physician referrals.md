@@ -206,7 +206,7 @@ The following shall not be considered to be a compensation arrangement described
 
 #### (ii) “Physician incentive plan” defined
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “physician incentive plan” meansany compensation arrangement between an entity and a physician or physician group that may directly or indirectly have the effect of reducing or limiting services provided with respect to individuals enrolled with the entity.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “physician incentive plan” means any compensation arrangement between an entity and a physician or physician group that may directly or indirectly have the effect of reducing or limiting services provided with respect to individuals enrolled with the entity.
 
 #### (4) Remuneration unrelated to the provision of designated health services
 
@@ -260,7 +260,7 @@ The following shall not be considered to be a compensation arrangement described
 
 #### (f) Reporting requirements
 
-Each entity providing covered items or services for which payment may be made under this subchapter shall provide the Secretary with the information concerning the entity's ownership, investment, and compensation arrangements, including—
+Each entity providing covered items or services for which payment may be made under thissubchapter shall provide the Secretary with the information concerning the entity's ownership, investment, and compensation arrangements, including—
 
 &emsp;(1) the covered items and services provided by the entity, and
 
@@ -574,7 +574,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(i) that is located in a county in which the percentage increase in the population during the most recent 5-year period (as of the date of the application under subparagraph (A)) is at least 150 percent of the percentage increase in the population growth of the State in which the hospital is located during that period, as estimated by Bureau of the Census;
 
-&emsp;&emsp;&emsp;(ii) whose annual percent of total inpatient admissions that represent inpatientadmissions under the program under subchapter XIX is equal to or greater than the average percent with respect to such admissions for all hospitals located in the county in which the hospital is located;
+&emsp;&emsp;&emsp;(ii) whose annual percent of total inpatient admissions that represent inpatient admissions under the program under subchapter XIX is equal to or greater than the average percent with respect to such admissions for all hospitals located in the county in which the hospital is located;
 
 &emsp;&emsp;&emsp;(iii) that does not discriminate against beneficiaries of Federal health care programs and does not permit physicians practicing at the hospital to discriminate against such beneficiaries;
 
@@ -620,17 +620,13 @@ For purposes of this section:
 
 #### References in Text
 
-Section 222(a) of the Social Security Amendments of 1972, referred to in subsec. (b)(3)(C), is section 222(a) of Pub. L. 92–603, Oct. 30, 1972, 86 Stat. 1329, which is set out as a note under section 1395b–1 of this title.
+Section 222(a) of the Social Security Amendments of 1972, referred to in subsec. (b)(3)(C), is section 222(a) ofPub. L. 92–603, Oct. 30, 1972, 86 Stat. 1329, which is set out as a note under section 1395b–1 of this title.
 
 Section 300e–9(d) of this title, referred to in subsec. (b)(3)(D), was redesignated section 300e–9(c) of this title by Pub. L. 100–517, §7(b), Oct. 24, 1988, 102 Stat. 2580.
-
-Part C of this subchapter, referred to in subsec. (b)(3)(E), is classified to section 1395w–21 et seq. of this title.
 
 Section 1395w–104(e)(6) of this title, referred to in subsec. (b)(5), was in the original “section 1860D–3(e)(6)”, and was translated as reading “section 1860D–4(e)(6)”, meaning section 1860D–4(e)(6) of the Social Security Act, to reflect the probable intent of Congress, because section 1860D–3, which is classified to section 1395w–103 of this title, does not contain a subsec. (e), and section 1860D–4(e)(6) relates to electronic prescription program regulations.
 
 The Internal Revenue Code, referred to in subsecs. (c)(2) and (h)(2), is classified generally to Title 26, Internal Revenue Code.
-
-Part B of this subchapter, referred to in subsec. (h)(5)(A), is classified to section 1395j et seq. of this title.
 
 #### Prior Provisions
 
@@ -638,7 +634,7 @@ A prior section 1395nn, act Aug. 14, 1935, ch. 531, title XVIII, §1877, as adde
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b)(2). Pub. L. 111–148, §6003(a), inserted at end of concluding provisions “Such requirements shall, with respect to magnetic resonance imaging, computed tomography, positron emission tomography, and any other designated health services specified under subsection (h)(6)(D) that the Secretary determines appropriate, include a requirement that the referring physician inform the individual in writing at the time of the referral that the individual may obtainthe services for which the individual is being referred from a person other than a person described in subparagraph (A)(i) and provide such individual with a written list of suppliers (as defined in section 1395x(d) of this title) who furnish such services in the area in which such individual resides.”
+<b>2010</b>—Subsec. (b)(2). Pub. L. 111–148, §6003(a), inserted at end of concluding provisions “Such requirements shall, with respect to magnetic resonance imaging, computed tomography, positron emission tomography, and any other designated health services specified under subsection (h)(6)(D) that the Secretary determines appropriate, include a requirement that the referring physician inform the individual in writing at the time of the referral that the individual may obtain the services for which the individual is being referred from a person other than a person described in subparagraph (A)(i) and provide such individual with a written list of suppliers (as defined in section 1395x(d) of this title) who furnish such services in the area in which such individual resides.”
 
 Subsec. (d)(2)(C). Pub. L. 111–148, §6001(a)(1), added subpar. (C).
 
@@ -690,7 +686,7 @@ Subsec. (f). Pub. L. 103–66, §13562(a)(3), substituted “designated health s
 
 Subsec. (g)(1). Pub. L. 103–66, §13562(a)(4), substituted “designated health service” for “clinical laboratory service”.
 
-Subsec. (h). Pub. L. 103–66, §13562(a)(2), amended heading and text of subsec. (h) generally, substituting pars. (1) to (6) for former pars. (1) to (7) which defined “compensation arrangement”, “remuneration”, “employee”, “fair market value”, “group practice”, “investor”, “interested investor”, “disinterested investor”, “referral”, and “referring physician”.
+Subsec. (h). Pub. L. 103–66, §13562(a)(2), amended heading and text of subsec. (h) generally, substituting pars.\(1) to (6) for former pars. (1) to (7) which defined “compensation arrangement”, “remuneration”, “employee”, “fair market value”, “group practice”, “investor”, “interested investor”, “disinterested investor”, “referral”, and “referring physician”.
 
 <b>1990</b>—Subsec. (b)(4), (5). Pub. L. 101–508, §4207(e)(2), formerly §4027(e)(2), as renumbered by Pub. L. 103–432, §160(d)(4), added par. (4) and redesignated former par. (4) as (5).
 
@@ -698,7 +694,7 @@ Subsec. (f). Pub. L. 101–508, §4207(e)(3)(B), (C), formerly §4027(e)(3)(B), 
 
 Subsec. (f)(2). Pub. L. 101–508, §4207(e)(3)(A), formerly §4027(e)(3)(A), as renumbered by Pub. L. 103–432, §160(d)(4), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the names and all of the medicare provider numbers of the physicians who are interested investors or who are immediate relatives of interested investors.”
 
-Subsec. (g)(5). Pub. L. 101–508, §4207(k)(2), formerly §4027(k)(2), as renumbered by Pub. L. 103–432, §160(d)(4), inserted at end “The provisions of section 1320a–7a of this title (other than the first sentence of subsection (a) and other than subsection (b)) shall apply to a civilmoney penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.”
+Subsec. (g)(5). Pub. L. 101–508, §4207(k)(2), formerly §4027(k)(2), as renumbered by Pub. L. 103–432, §160(d)(4), inserted at end “The provisions of section 1320a–7a of this title (other than the first sentence of subsection (a) and other than subsection (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.”
 
 Subsec. (h)(6). Pub. L. 101–508, §4207(e)(1)(C), formerly §4027(e)(1)(C), as renumbered by Pub. L. 103–432, §160(d)(4), added par. (6). Former par. (6) redesignated (7).
 
@@ -758,7 +754,7 @@ Exceptions.—With respect to referrals made for clinical laboratory services on
 
 #### Effective Date of 1990 Amendment
 
-Section 4207(e)(5), formerly 4027(e)(5), of Pub. L. 101–508, as renumbered by Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444, provided that: “The amendments made by this subsection \[amending this section and provisions set out below\] shall be effective as if included in the enactment of section 6204 of the Omnibus Budget Reconciliation Act of 1989 \[Pub. L. 101–239\].”
+Section 4207(e)(5), formerly 4027(e)(5), of Pub. L. 101–508, as renumbered by Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444, provided that:“The amendments made by this subsection \[amending this section and provisions set out below\] shall be effective as if included in the enactment of section 6204 of the Omnibus Budget Reconciliation Act of 1989 \[Pub. L. 101–239\].”
 
 #### Effective Date
 

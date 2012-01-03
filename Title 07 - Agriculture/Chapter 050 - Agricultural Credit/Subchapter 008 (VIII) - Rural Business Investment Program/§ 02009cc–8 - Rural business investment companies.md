@@ -76,7 +76,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (c)(3), (4). Pub. L. 110–246, §6027(c), added par. (3) and redesignated former par. (3) as (4).
+<b>2008</b>—Subsec. (c)(3), (4). Pub. L. 110–246, §6027(c), added par. (3) and redesignated former par. (3) as (4).
 
 #### Effective Date of 2008 Amendment
 

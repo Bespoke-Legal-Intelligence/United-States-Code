@@ -62,7 +62,7 @@ Where he deems it appropriate the Secretary or agency head may require a holder 
 
 #### (n) Duration of grant
 
-Each right-of-way or permit granted or renewed pursuant to this section shall be limited to a reasonable term in light of all circumstances concerning the project, but in no event more than thirty years. In determining the duration of a right-of-way the Secretary or agency head shall, among other things, take into consideration the cost of the facility, its useful life, and any public purpose it serves. The Secretary or agency head shall renew any right-of-way, in accordance with the provisions of this section, so long as the project is in commercial operation and is operated and maintained in accordance with all of the provisions of this section.
+Each right-of-way or permit granted or renewed pursuant to this section shall be limited to a reasonable term in light of all circumstances concerning the project, but in no event more than thirty years. In determining the duration of a right-of-way the Secretary or agency head shall, among other things, take into consideration the cost of the facility, its useful life, and any public purpose it serves. The Secretary or agency head shall renew any right-of-way, in accordance with the provisions of this section,so long as the project is in commercial operation and is operated and maintained in accordance with all of the provisions of this section.
 
 #### (<i>o</i>) Suspension or termination of right-of-way
 
@@ -186,7 +186,7 @@ In subsec. (s)(2), “section 50501 of title 46” substituted for “section 2 
 
 <b>1995</b>—Subsec. (s). Pub. L. 104–58 amended heading and text of subsec. (s) generally. Prior to amendment, subsec. (s) provided that the Secretary of Interior, in consultation with Federal and State agencies, review need for national system of transportation and utility corridors across Federal lands and report to Congress and the President by July 1, 1975.
 
-Subsec. (w)(4). Pub. L. 104–66 struck out par. (4) which read as follows: “The Secretary of the Department ofTransportation shall report annually to the President, the Congress, the Secretary of the Interior, and the Secretary of Energy any potential dangers of or actual explosions, or potential or actual spillage on Federal lands and shall include in such report a statement of corrective action taken to prevent such explosion or spillage.”
+Subsec. (w)(4). Pub. L. 104–66 struck out par. (4) which read as follows: “The Secretary of the Department of Transportation shall report annually to the President, the Congress, the Secretary of the Interior, and the Secretary of Energy any potential dangers of or actual explosions, or potential or actual spillage on Federal lands and shall include in such report a statement of corrective action taken to prevent such explosion or spillage.”
 
 <b>1994</b>—Subsec. (w)(1), (2). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” before “of the United States House”.
 
@@ -230,7 +230,7 @@ Pub. L. 102–154, title II, Nov. 13, 1991, 105 Stat. 1017.
 
 #### GAO Report
 
-Section 202 of Pub. L. 104–58 directed the Comptroller General of the United States to commence, three years after Nov. 28, 1995, a review of energy production in California and Alaska and the effects of Alaskan North Slope oil exports, if any, on consumers, independent refiners, and shipbuilding and ship repair yards on the West Coast and in Hawaii, and to submit to Congress, within twelve months after commencing the review, a report containing recommendations for Congress and the President to address job loss in the shipbuilding and ship repair industry on the West Coast, as well as adverse impacts on consumers and refiners on the West Coast and in Hawaii, that are attributed to Alaska North Slope oil exports.
+Section 202 of Pub. L. 104–58 directed the Comptroller General of the United States to commence, three years after Nov. 28, 1995, a review of energy production inCalifornia and Alaska and the effects of Alaskan North Slope oil exports, if any, on consumers, independent refiners, and shipbuilding and ship repair yards on the West Coast and in Hawaii, and to submit to Congress, within twelve months after commencing the review, a report containing recommendations for Congress and the President to address job loss in the shipbuilding and ship repair industry on the West Coast, as well as adverse impacts on consumers and refiners on the West Coast and in Hawaii, that are attributed to Alaska North Slope oil exports.
 
 #### Outer Continental Shelf; Pipeline Rights-of-Way
 

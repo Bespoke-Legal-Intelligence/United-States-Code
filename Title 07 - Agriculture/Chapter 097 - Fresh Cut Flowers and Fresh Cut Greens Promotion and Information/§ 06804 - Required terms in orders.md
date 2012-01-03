@@ -296,7 +296,7 @@ The order shall provide that the PromoFlor Council shall, as soon as practicable
 
 #### (A) In general
 
-&emsp;&emsp;The order shall provide that each qualified handler shall pay to the PromoFlor Council, in the manner provided in the order, an assessment on each sale of cut flowers or cut greens to a retailer or an exempt handler\(including each transaction described in subparagraph (C)(ii)), except to the extent that the sale is excluded from assessments under section 6805(a) of this title.
+&emsp;&emsp;The order shall provide that each qualified handler shall pay to the PromoFlor Council, in the manner provided in the order, an assessment on each sale of cut flowers or cut greens to a retailer or an exempt handler (including each transaction described in subparagraph (C)(ii)), except to the extent that the sale is excluded from assessments under section 6805(a) of this title.
 
 #### (B) Published lists
 
@@ -306,7 +306,7 @@ The order shall provide that the PromoFlor Council shall, as soon as practicable
 
 #### (i) Qualified handler status
 
-&emsp;&emsp;&emsp;The order shall contain provisions regarding the determination of the status of a person as a qualified handler or exempt handler that include the rules and requirements specified in sections 6802(4) and 6805(b) of this title.
+&emsp;&emsp;&emsp;The order shall contain provisions regarding the determination of the status ofa person as a qualified handler or exempt handler that include the rules and requirements specified in sections 6802(4) and 6805(b) of this title.
 
 #### (ii) Certain covered transactions
 
@@ -340,7 +340,7 @@ The order shall provide that the PromoFlor Council shall, as soon as practicable
 
 #### (A) Initial rate
 
-&emsp;&emsp;During the first 3 years the order is in effect, the rate of assessment on each sale or transfer of cut flowers or cut greens shall be 1/2 of 1 percent of—
+&emsp;&emsp;During the first 3 years the order is in effect, the rate of assessment on each sale or transfer of cut flowers or cut greens shall be ½ of 1 percent of—
 
 &emsp;&emsp;&emsp;(i) the gross sales price of the cut flowers or cut greens sold; or
 
@@ -448,7 +448,7 @@ The order shall prohibit the use of any funds received by the PromoFlor Council 
 
 #### (1) In general
 
-&emsp;The order shall provide that each qualified handler shall maintain, and make available for inspection, such books and records as are required by the order and file reports at the time, in the manner, and having the content required by the order, to the end that such information is made available to the Secretary and the PromoFlor Council as is appropriate for the administration or enforcement of this chapter, the order, or any regulation issued under this chapter.
+&emsp;The order shall provide that each qualified handler shall maintain, and make available for inspection, such books and records as are required by the order and file reports at thetime, in the manner, and having the content required by the order, to the end that such information is made available to the Secretary and the PromoFlor Council as is appropriate for the administration or enforcement of this chapter, the order, or any regulation issued under this chapter.
 
 #### (2) Confidentiality requirement
 

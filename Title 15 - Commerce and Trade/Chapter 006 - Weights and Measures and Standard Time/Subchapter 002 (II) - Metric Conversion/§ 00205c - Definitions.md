@@ -52,7 +52,7 @@ In par. (9), “section 3301(a) of title 40” substituted for “section 13 of 
 
 #### Effective Date of 1996 Amendment; Savings Provision
 
-Section 6 of Pub. L. 104–289 provided that:
+Pub. L. 104–289, §6, Oct. 11, 1996, 110 Stat. 3415, provided that:
 
 “(a)
 

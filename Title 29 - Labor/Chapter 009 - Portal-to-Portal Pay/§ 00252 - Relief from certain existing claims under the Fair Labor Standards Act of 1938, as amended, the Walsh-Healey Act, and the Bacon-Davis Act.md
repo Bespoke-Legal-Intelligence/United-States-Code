@@ -10,7 +10,7 @@ No employer shall be subject to any liability or punishment under the Fair Labor
 
 #### (b) Compensable activity
 
-For the purposes of subsection (a) of this section, an activity shall be considered as compensable under such contract provision or such custom or practice only when it was engaged induring the portion of the day with respect to which it was so made compensable.
+For the purposes of subsection (a) of this section, an activity shall be considered as compensable under such contract provision or such custom or practice only when it was engaged in during the portion of the day with respect to which it was so made compensable.
 
 #### (c) Time of employment
 

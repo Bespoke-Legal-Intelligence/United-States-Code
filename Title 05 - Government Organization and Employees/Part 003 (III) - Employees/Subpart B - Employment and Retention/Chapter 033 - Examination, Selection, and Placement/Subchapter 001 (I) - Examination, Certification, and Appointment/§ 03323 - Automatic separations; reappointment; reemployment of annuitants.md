@@ -1,6 +1,6 @@
 ### §3323. Automatic separations; reappointment; reemployment of annuitants
 
-(a) An individual who reaches the retirement age prescribed for automatic separation applicable to him may not be continued in the civil service or in the government of the District of Columbia. An individual separated on account of age under a statute or regulation providing for retirement on account of age is not eligible for appointment in the civil service or in the government of the District of Columbia. The President, when in his judgment the public interestso requires, may except an individual from this subsection by Executive order. This subsection does not apply to an individual named by a statute providing for the continuance of the individual in the civil service or in the government of the District of Columbia.
+(a) An individual who reaches the retirement age prescribed for automatic separation applicable to him may not be continued in the civil service or in the government of the District of Columbia. An individual separated on account of age under a statute or regulation providing for retirement on account of age is not eligible for appointment in the civil service or in the government of the District of Columbia. The President, when in his judgment the public interest so requires, may except an individual from this subsection by Executive order. This subsection does not apply to an individual named by a statute providing for the continuance of the individual in the civil service or in the government of the District of Columbia.
 
 (b)(1) Notwithstanding other statutes, an annuitant, as defined by section 8331 or 8401, receiving annuity from the Civil Service Retirement and Disability Fund is not barred by reason of his retired status from employment in an appointive position for which the annuitant is qualified. An annuitant so reemployed, other than an annuitant reappointed under paragraph (2) of this subsection, serves at the will of the appointing authority.
 
@@ -62,11 +62,11 @@ Section 812 of the Foreign Service Act of 1980, referred to in subsec. (c), is c
 
 #### Amendments
 
-1992—Subsec. (b)(1). Pub. L. 102–378 substituted “annuitant, as defined by section 8331 or 8401,” for “annuitant as defined by section 8331 of this title”.
+<b>1992</b>—Subsec. (b)(1). Pub. L. 102–378 substituted “annuitant, as defined by section 8331 or 8401,” for “annuitant as defined by section 8331 of this title”.
 
-1984—Subsec. (b). Pub. L. 98–224 designated existing provisions as par. (1), substituted “the annuitant” for “he” and inserted “, other than an annuitant reappointed under paragraph (2) of this subsection,”, and added par. (2).
+<b>1984</b>—Subsec. (b). Pub. L. 98–224 designated existing provisions as par. (1), substituted “the annuitant” for “he” and inserted “, other than an annuitant reappointed under paragraph (2) of this subsection,”, and added par. (2).
 
-1980—Subsec. (c). Pub. L. 96–465 substituted “member of the Foreign Service retired under section 812 of the Foreign Service Act of 1980” for “Foreign Service officer retired under section 1001 or 1002 of title 22 or a Foreign Service staff officer or employee retired under section 1063 of title 22”.
+<b>1980</b>—Subsec. (c). Pub. L. 96–465 substituted “member of the Foreign Service retired under section 812 of the Foreign Service Act of 1980” for “Foreign Service officer retired under section 1001 or 1002 of title 22 or a Foreign Service staff officer or employee retired under section 1063 of title 22”.
 
 #### Effective Date of 1980 Amendment
 

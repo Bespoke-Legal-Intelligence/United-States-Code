@@ -32,7 +32,11 @@ This Act, referred to in par. (1)(A), is Pub. L. 98–573, Oct. 30, 1984, 98 Sta
 
 Section was enacted as part of the International Trade and Investment Act, and also as part of the Trade and Tariff Act of 1984, and not as part of the Trade Act of 1974 which comprises this chapter.
 
-Section is comprised of subsec. (c)(1), (2)(A) of section 306 of Pub. L. 98–573. Subsec. (a) of such section is classified to section 2114(b) of this title, subsec. (b) of such section amended sections 3101, 3103, and 3104 of Title 22, Foreign Relations and Intercourse, and enacted a provision set out as a note under section 3101 of Title 22, and subsec. (c)(2)(B), (C) of such section amended sections 2114, 2155, 2413, and 2414 of this title.
+Section is comprised of subsec. (c)(1), (2)(A) of section 306 of Pub. L. 98–573. Subsec. (a) of such section is classified to section 2114(b) of this title; subsec. (b) of such section amended sections 3101, 3103, and 3104 and a provision set out as a note under section 3101 of Title 22, Foreign Relations and Intercourse; and subsec. (c)(2)(B), (C) of such section amended sections 2114, 2155, 2413, and 2414 of this title.
+
+#### Definitions
+
+For definition of “services” as used in this section, see par. (5) of section 2114b of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Representative”.</i>
 

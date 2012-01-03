@@ -38,7 +38,7 @@ The purposes of this chapter are—
 
 &emsp;(4) to ensure that countries which have made commitments to open telecommunications trade fully abide by those commitments; and
 
-&emsp;(5) to achieve a more open world trading system for telecommunications products andservices through negotiation and provision of mutually advantageous market opportunities for United States telecommunications exporters and their subsidiaries in those markets in which barriers exist to free international trade.
+&emsp;(5) to achieve a more open world trading system for telecommunications products and services through negotiation and provision of mutually advantageous market opportunities for United States telecommunications exporters and their subsidiaries in those markets in which barriers exist to free international trade.
 
 (Pub. L. 100–418, title I, §1372, Aug. 23, 1988, 102 Stat. 1216.)
 

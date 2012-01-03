@@ -40,7 +40,7 @@ As used in paragraphs (2) and (3) of subsection (a) of this section, “investme
 
 #### (e) Exempt persons and transactions
 
-The Commission, by rule or regulation, upon its own motion, or by order upon application, may conditionally or unconditionally exemptany person or transaction, or any class or classes of persons or transactions, from subsection (a)(1) of this section, if and to the extent that the exemption relates to an investment advisory contract with any person that the Commission determines does not need the protections of subsection (a)(1) of this section, on the basis of such factors as financial sophistication, net worth, knowledge of and experience in financial matters, amount of assets under management, relationship with a registered investment adviser, and such other factors as the Commission determines are consistent with this section.
+The Commission, by rule or regulation, upon its own motion, or by order upon application, may conditionally or unconditionally exempt any person or transaction, or any class or classes of persons or transactions, from subsection (a)(1) of this section, if and to the extent that the exemption relates to an investment advisory contract with any person that the Commission determines does not need the protections of subsection (a)(1) of this section, on the basis of such factors as financial sophistication, net worth, knowledge of and experience in financial matters, amount of assets under management, relationship with a registered investment adviser, and such other factors as the Commission determines are consistent with this section. With respect to any factor used in any rule or regulation by the Commission in making a determination under this subsection, if the Commission uses a dollar amount test in connection with such factor, such as a net asset threshold, the Commission shall, by order, not later than 1 year after July 21, 2010, and every 5 years thereafter, adjust for the effects of inflation on such test. Any such adjustment that is not a multiple of $100,000 shall be rounded to the nearest multiple of $100,000.
 
 #### (f) Authority to restrict mandatory pre-dispute arbitration
 
@@ -48,13 +48,11 @@ The Commission, by rule, may prohibit, or impose conditions or limitations on th
 
 (Aug. 22, 1940, ch. 686, title II, §205, 54 Stat. 852; Pub. L. 86–750, §7, Sept. 13, 1960, 74 Stat. 887; Pub. L. 91–547, §25, Dec. 14, 1970, 84 Stat. 1432; Pub. L. 96–477, title II, §203, Oct. 21, 1980, 94 Stat. 2290; Pub. L. 100–181, title VII, §703, Dec. 4, 1987, 101 Stat. 1263; Pub. L. 104–290, title II, §210, Oct. 11, 1996, 110 Stat. 3436; Pub. L. 111–203, title IV, §418, title IX, §§921(b), 928, July 21, 2010, 124 Stat. 1579, 1841, 1852.)
 
-#### Amendment of Subsection (e)
-
-<i>Pub. L. 111–203, title IV, §§418, 419, July 21, 2010, 124 Stat. 1579, 1580, provided that, effective 1 year after July 21, 2010, except that any investment adviser may, at the discretion of the investment adviser, register with the Commission under the Investment Advisers Act of 1940 during that 1-year period, subject to the rules of the Commission, and except as otherwise provided, subsection (e) of this section is amended by adding at the end the following: “With respect to any factor used in any rule or regulation by the Commission in making a determination under this subsection, if the Commission uses a dollar amount test in connection with such factor, such as a net asset threshold, the Commission shall, by order, not later than 1 year after July 21, 2010, and every 5 years thereafter, adjust for the effects of inflation on such test. Any such adjustment that is not a multiple of $100,000 shall be rounded to the nearest multiple of $100,000.” See Effective Date of 2010 Amendment note below.</i>
-
 #### Amendments
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–203, §928, in introductory provisions, substituted “registered or required to be registered with the Commission” for “, unless exempt from registration pursuant to section 80b–3(b) of this title,” and struck out “make use of the mails or any means or instrumentality of interstate commerce, directly or indirectly, to” after “shall” and “to” after “in any way”.
+
+Subsec. (e). Pub. L. 111–203, §418, inserted at end “With respect to any factor used in any rule or regulation by the Commission in making a determination under this subsection, if the Commission uses a dollar amount test in connection with such factor, such as a net asset threshold, the Commission shall, by order, not later than 1 year after July 21, 2010, and every 5 years thereafter, adjust for the effects of inflation on such test. Any such adjustment that is not a multiple of $100,000 shall be rounded to the nearest multiple of $100,000.”
 
 Subsec. (f). Pub. L. 111–203, §921(b), added subsec. (f).
 

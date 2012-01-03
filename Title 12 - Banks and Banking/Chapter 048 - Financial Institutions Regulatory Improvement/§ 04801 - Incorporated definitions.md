@@ -60,7 +60,7 @@ Pub. L. 106–102, title VII, §729, Nov. 12, 1999, 113 Stat. 1476, provided tha
 
 “(a)
 
-Study Required.—The Federal banking agencies shall conduct a study of banking regulations regarding the delivery of financial services, including those regulations that may assume that there will be person-to-person contact during the course of a financial services transaction, and report their recommendations on adapting those existing requirements to online banking and lending.
+Study Required.—The Federal banking agencies shall conduct a study of banking regulations regardingthe delivery of financial services, including those regulations that may assume that there will be person-to-person contact during the course of a financial services transaction, and report their recommendations on adapting those existing requirements to online banking and lending.
 
 “(b)
 

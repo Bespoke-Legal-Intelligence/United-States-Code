@@ -20,7 +20,7 @@ The Secretary, in enforcing and administering the provisions of this section, is
 
 #### (c) Inspection of places and practices of employment
 
-The Secretary or his authorized representative may inspect such places of employment, question such employees, and investigate such conditions, practices, or matters in connection with employment subject to this chapter, as he may deem appropriate to determine whether any person has violated any provision of this section, or any rule or regulation issued thereunder, or which may aid in the enforcement of the provisions of this section. No employer or other person shall refuse to admit the Secretary or his authorized representatives to any such place or shall refuse to permit any such inspection.
+The Secretary or his authorized representative may inspect such places of employment, question such employees, and investigate such conditions, practices, or matters in connection withemployment subject to this chapter, as he may deem appropriate to determine whether any person has violated any provision of this section, or any rule or regulation issued thereunder, or which may aid in the enforcement of the provisions of this section. No employer or other person shall refuse to admit the Secretary or his authorized representatives to any such place or shall refuse to permit any such inspection.
 
 #### (d) Requests for advice; variations from safety rules and regulations
 
@@ -68,7 +68,7 @@ As originally enacted, subsec. (e) contained the phrase “, together with the 
 
 <b>1982</b>—Subsec. (b)(1). Pub. L. 97–375 struck out “and from time to time make to Congress such recommendations as he may deem proper as to the best means of preventing such injuries” after “by this chapter”.
 
-<b>1958</b>—Pub. L. 85–742 amended section generally and, among other changes, empowered the Secretary of Labor to prescribe, by regulation or order, safety rules for the furnishing and maintenance of safe places of employment and for the installation, furnishing and maintenance of safety devices and safeguards, authorized the Secretary to provide for the establishment and supervision of safety programs, permitted the inspection of places of employment and investigation of employment conditions and practices, granted jurisdictionto the district courts to restrain violations of this section or of any rules, regulations or orders of the Secretary, and to prescribe penalties for violations.
+<b>1958</b>—Pub. L. 85–742 amended section generally and, among other changes, empowered the Secretary of Labor to prescribe, by regulation or order, safety rules for the furnishing and maintenance of safe places of employment and for the installation, furnishing and maintenance of safety devices and safeguards, authorized the Secretary to provide for the establishment and supervision of safety programs, permitted the inspection of places of employment and investigation of employment conditions and practices, granted jurisdiction to the district courts to restrain violations of this section or of any rules, regulations or orders of the Secretary, and to prescribe penalties for violations.
 
 #### “Secretary” Defined
 

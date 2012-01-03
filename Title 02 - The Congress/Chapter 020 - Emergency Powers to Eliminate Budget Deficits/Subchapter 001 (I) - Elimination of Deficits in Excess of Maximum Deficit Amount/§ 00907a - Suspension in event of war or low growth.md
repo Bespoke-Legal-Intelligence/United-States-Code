@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(ii) the vote on final passage shall be on the joint resolution of the other House.
 
-> &emsp;When the joint resolution is agreed to, the Clerk of the House of Representatives (in the case of a House joint resolution agreed to in the House of Representatives) or the Secretary of the Senate (in the case of a Senate joint resolution agreed to in the Senate) shall cause the joint resolution to be engrossed, certified, and transmitted to the other House of the Congress as soon as practicable.
+> &emsp;When the joint resolution is agreed to, the Clerk of the House of Representatives (in the case of a House joint resolution agreed to in the House of Representatives) or the Secretary of the Senate (in the case of a Senate joint resolution agreed to in the Senate) shall causethe joint resolution to be engrossed, certified, and transmitted to the other House of the Congress as soon as practicable.
 
 &emsp;(B)(i) In the Senate, a joint resolution under this paragraph shall be privileged. It shall not be in order to move to reconsider the vote by which the motion is agreed to or disagreed to.
 
@@ -48,15 +48,11 @@ Upon the enactment of a declaration of war or a joint resolution described in su
 
 #### (c) Restoration of sequestration procedures
 
-(1) In the event of a suspension of sequestration procedures due to a declaration of war,then, effective with the first fiscal year that begins in the session after the state of war is concluded by Senate ratification of the necessary treaties, the provisions of subsection (b) of this section triggered by that declaration of war are no longer effective.
+(1) In the event of a suspension of sequestration procedures due to a declaration of war, then, effective with the first fiscal year that begins in the session after the state of war is concluded by Senate ratification of the necessary treaties, the provisions of subsection (b) of this section triggered by that declaration of war are no longer effective.
 
 (2) In the event of a suspension of sequestration procedures due to the enactment of a joint resolution described in subsection (a) of this section, then, effective with regard to the first fiscal year beginning at least 12 months after the enactment of that resolution, the provisions of subsection (b) of this section triggered by that resolution are no longer effective.
 
 (Pub. L. 99–177, title II, §258, as added Pub. L. 101–508, title XIII, §13101(f), Nov. 5, 1990, 104 Stat. 1388–593.)
-
-#### Termination of Section
-
-<i>Section expired Sept. 30, 2006. See section 275(b) of Pub. L. 99–177, as amended, set out as an Effective and Termination Dates note under section 900 of this title.</i>
 
 #### References in Text
 

@@ -20,11 +20,11 @@ Section was formerly classified to section 564 of this title.
 
 #### Amendments
 
-1991—Subsec. (a). Pub. L. 102–237 substituted “(7 U.S.C. 1 et seq.)” for “(7 U.S.C., Supp. 2, secs. 1 to 17(a))” and a period for semicolon at end.
+<b>1991</b>—Subsec. (a). Pub. L. 102–237 substituted “(7 U.S.C. 1 et seq.)” for “(7 U.S.C., Supp. 2, secs. 1 to 17(a))” and a period for semicolon at end.
 
-1937—Act Aug. 20, 1937, designated existing provisions as subsec. (a) and, among other changes inserted “That official inspection certificates for fresh fruits and vegetables issued by the Secretary of Agriculture pursuant to any law shall be received by all officers and all courts of the United States, in all proceedings under this chapter, and in all transactions upon contract markets under Commodities Exchange Act” before “as prima facie” in third proviso, and added subsec. (b).
+<b>1937</b>—Act Aug. 20, 1937, designated existing provisions as subsec. (a) and, among other changes inserted “That official inspection certificates for fresh fruits and vegetables issued by the Secretary of Agriculture pursuant to any law shall be received by all officers and all courts of the United States, in all proceedings under this chapter, and in all transactions upon contract markets under Commodities Exchange Act” before “as prima facie” in third proviso, and added subsec. (b).
 
-1934—Act Apr. 13, 1934, inserted “and in all proceedings under this chapter” after “United States” in third proviso.
+<b>1934</b>—Act Apr. 13, 1934, inserted “and in all proceedings under this chapter” after “United States” in third proviso.
 
 #### Potato Inspection
 

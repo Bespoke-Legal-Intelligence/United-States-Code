@@ -16,7 +16,7 @@ If any portion of a deposit or amount forfeited under this Act is found by the S
 
 #### References in Text
 
-This Act, referred to in subsecs. (b) and (c), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsecs. (b) and (c), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976.For complete classification of this Act to the Code, see Tables.
 
 Act of August 28, 1937 (50 Stat. 874; 43 U.S.C. 1181a–1181j), referred to in subsec. (b), is act Aug. 28, 1937, ch. 876, 50 Stat. 874, which is classified principally to section 1181a et seq. of this title. Sections 1181f–1 to 1181f–4, included within the parenthetical reference to sections 1181a to 1181j, were enacted by act May 24, 1939, ch. 144, 53 Stat. 753. Sections 1181g to 1181j, also included within the parenthetical reference to sections 1181a to 1181j, were enacted by act June 24, 1954, ch. 357, 68 Stat. 270. Section 1181c, also included within the parenthetical reference to sections 1181a to 1181j, was repealed by Pub. L. 94–579, title VII, §702, Oct. 21, 1976, 90 Stat. 2787. For complete classification of these Acts to the Code, see Tables.
 
@@ -25,6 +25,8 @@ Act of August 28, 1937 (50 Stat. 874; 43 U.S.C. 1181a–1181j), referred to in s
 Pub. L. 104–134, title I, §101(c) \[title I\], Apr. 26, 1996, 110 Stat. 1321–156, 1321–158; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided in part: “That notwithstanding any provision to the contrary of section 305(a) of the Act of October 21, 1976 (43 U.S.C. 1735(a)), any moneys that have been or will be received pursuant to that section, whether as a result of forfeiture, compromise, or settlement, if not appropriate for refund pursuant to section 305(c) of that Act (43 U.S.C. 1735(c)), shall be available and may be expended under the authority of this or subsequent appropriations Acts by the Secretary to improve, protect, or rehabilitate any public lands administered through the Bureau of Land Management which have been damaged by the action of a resource developer, purchaser, permittee, or any unauthorized person, without regard to whether all moneys collected from each such forfeiture, compromise, or settlement are used on the exact lands damage to which led to the forfeiture, compromise, or settlement: <i>Provided further</i>, That such moneys are in excess of amounts needed to repair damage to the exact land for which collected.”
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 112–74, div. E, title I, Dec. 23, 2011, 125 Stat. 987.
 
 Pub. L. 111–88, div. A, title I, Oct. 30, 2009, 123 Stat. 2906.
 

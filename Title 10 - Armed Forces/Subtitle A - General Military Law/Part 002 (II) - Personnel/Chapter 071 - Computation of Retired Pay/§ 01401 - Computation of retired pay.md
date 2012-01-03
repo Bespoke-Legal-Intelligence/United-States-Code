@@ -8,9 +8,9 @@ Disability, Non-Regular Service, Warrant Officer, and DOPMA Retirement.—The mo
 
 | Formula No. | For sections | Column 1Take | Column 2Multiply by | Column 3Add |
 | --- | --- | --- | --- | --- |
-| 1 | 12011204 | Retired pay base as computed under section 1406(b) or 1407. | As member elects—  (1) 21/2% of years of service credited to him under section 1208; <sup>1</sup> or  (2) the percentage of disability, not to exceed 75%, on date when retired. | &nbsp; |
+| 1 | 12011204 | Retired pay base as computed under section 1406(b) or 1407. | As member elects—  (1) 2½% of years of service credited to him under section 1208; <sup>1</sup> or  (2) the percentage of disability, not to exceed 75%, on date when retired. | &nbsp; |
 |  |  |  |  |  |
-| 2 | 12021205 | Retired pay base as computed under section 1406(b) or 1407. | As member elects—  (1) 21/2% of years of service credited to him under section 1208; <sup>1</sup> or  (2) the percentage of disability, not to exceed 75%, on date when his name was placed on temporary disability retired list. | Amount necessary to increase product of columns 1 and 2 to 50% of retired pay base upon which computation is based. |
+| 2 | 12021205 | Retired pay base as computed under section 1406(b) or 1407. | As member elects—  (1) 2½% of years of service credited to him under section 1208; <sup>1</sup> or  (2) the percentage of disability, not to exceed 75%, on date when his name was placed on temporary disability retired list. | Amount necessary to increase product of columns 1 and 2 to 50% of retired pay base upon which computation is based. |
 |  |  |  |  |  |
 | 4 | 580126312931305 | Retired pay base as computed under section 1406(b) or 1407. | The retired pay multiplier prescribed in section 1409(a) for the years of service credited to him under section 1405. | &nbsp; |
 |  |  |  |  |  |
@@ -128,7 +128,7 @@ Pub. L. 109–163 in table inserted “1252” after “1251” in column under 
 
 Pub. L. 99–348, §201(a)(3), amended column 1 of table generally by substituting provisions that retired pay be computed by taking the retired pay base as computed under section 1406(b) or 1407 of this title for provisions that retired pay be computed for a person who first became a member of a uniformed service, as defined in section 1407(a)(2) of this title, after Sept. 7, 1980, by taking the monthly retired pay base as computed under section 1407(b) of this title, and for all others, by taking the monthly basic pay to which the member was entitled under various circumstances.
 
-Pub. L. 99–348, §201(a)(4), substituted in column 2 of table a multiplier of the retired pay multiplier prescribed in section 1409(a) for the years of service credited to him under section 1405 for a multiplier of 21/2% of years of service credited under section 1405 for formulas 4 and 5 and struck out “Excess over 75% of pay upon which computation is based.” in column 4 of table for formulas 4 and 5.
+Pub. L. 99–348, §201(a)(4), substituted in column 2 of table a multiplier of the retired pay multiplier prescribed in section 1409(a) for the years of service credited to him under section 1405 for a multiplier of 2½% of years of service credited under section 1405 for formulas 4 and 5 and struck out “Excess over 75% of pay upon which computation is based.” in column 4 of table for formulas 4 and 5.
 
 Pub. L. 99–348, §201(a)(5), in columns 3 and 4 substituted “retired pay base” for “pay” wherever appearing.
 

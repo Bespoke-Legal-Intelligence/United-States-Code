@@ -66,9 +66,9 @@ For purposes of this title, the term “Roth IRA” means an individual retireme
 
 > &emsp;&emsp;Any increase determined under the preceding sentence shall be rounded to the nearest multiple of $1,000.
 
-#### (4) Contributions permitted after age 701/2
+#### (4) Contributions permitted after age 70½
 
-&emsp;Contributions to a Roth IRA may be made even after the individual for whom the account is maintained has attained age 701/2.
+&emsp;Contributions to a Roth IRA may be made even after the individual for whom the account is maintained has attained age 70½.
 
 #### (5) Mandatory distribution rules not to apply before death
 
@@ -108,7 +108,7 @@ For purposes of this title—
 
 &emsp;&emsp;The term “qualified distribution” means any payment or distribution—
 
-&emsp;&emsp;&emsp;(i) made on or after the date on which the individual attains age 591/2,
+&emsp;&emsp;&emsp;(i) made on or after the date on which the individual attains age 59½,
 
 &emsp;&emsp;&emsp;(ii) made to a beneficiary (or to the estate of the individual) on or after the death of the individual,
 
@@ -162,7 +162,7 @@ For purposes of this title—
 
 #### (II) Limitation on aggregate amount included
 
-&emsp;&emsp;&emsp;&emsp;The amount required to be included in gross income for any taxable year under subparagraph (A)(iii) shall not exceed the aggregate amount required to be included in gross income under subparagraph (A)(iii) for all taxable years in the 2-year period (without regard to subclause (I)) reduced by amounts included for all preceding taxable years.
+&emsp;&emsp;&emsp;&emsp;The amount required to be included in gross income for any taxable year under subparagraph (A)(iii) shall not exceedthe aggregate amount required to be included in gross income under subparagraph (A)(iii) for all taxable years in the 2-year period (without regard to subclause (I)) reduced by amounts included for all preceding taxable years.
 
 #### (ii) Death of distributee
 
@@ -182,7 +182,7 @@ For purposes of this title—
 
 &emsp;&emsp;&emsp;&emsp;(I) any portion of a distribution from a Roth IRA is properly allocable to a qualified rollover contribution described in this paragraph; and
 
-&emsp;&emsp;&emsp;&emsp;(II) such distribution is made within the 5-taxable year period beginning withthe taxable year in which such contribution was made,
+&emsp;&emsp;&emsp;&emsp;(II) such distribution is made within the 5-taxable year period beginning with the taxable year in which such contribution was made,
 
 &emsp;&emsp;&nbsp;then section 72(t) shall be applied as if such portion were includible in gross income.
 
@@ -354,7 +354,7 @@ Subsec. (c)(3)(D), (E). Pub. L. 110–458, §108(h)(2), redesignated subpar. (E)
 
 Subsec. (d)(3). Pub. L. 109–280, §824(b)(2)(E), substituted “an eligible retirement plan” for “an IRA” in heading.
 
-Subsec. (d)(3)(A). Pub. L. 109–280, §824(b)(2)(A), substituted “sections 402(c), 403(b)(8), 408(d)(3), and457(e)(16)” for “section 408(d)(3)” in introductory provisions.
+Subsec. (d)(3)(A). Pub. L. 109–280, §824(b)(2)(A), substituted “sections 402(c), 403(b)(8), 408(d)(3), and 457(e)(16)” for “section 408(d)(3)” in introductory provisions.
 
 Subsec. (d)(3)(A)(iii). Pub. L. 109–222, §512(b)(1), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “unless the taxpayer elects not to have this clause apply for any taxable year, any amount required to be included in gross income for such taxable year by reason of this paragraph for any distribution before January 1, 1999, shall be so included ratably over the 4-taxable year period beginning with such taxable year.”
 

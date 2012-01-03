@@ -22,15 +22,15 @@
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–241 amended subsec. (a) generally. Prior to amendment, subsec. (a) related to Presidential appointment of commissioned officers in the Regular Coast Guard in grades of ensign or above.
+<b>2006</b>—Subsec. (a). Pub. L. 109–241 amended subsec. (a) generally. Prior to amendment, subsec. (a) related to Presidential appointment of commissioned officers in the Regular Coast Guard in grades of ensign or above.
 
-1984—Subsec. (a)(2). Pub. L. 98–557 substituted reference to enlisted members for reference to enlisted men.
+<b>1984</b>—Subsec. (a)(2). Pub. L. 98–557 substituted reference to enlisted members for reference to enlisted men.
 
-1966—Subsec. (a)(4). Pub. L. 89–444 substituted “two years” for “four years”.
+<b>1966</b>—Subsec. (a)(4). Pub. L. 89–444 substituted “two years” for “four years”.
 
 #### Savings Provision
 
-Section 5 of Pub. L. 88–130, as amended by Pub. L. 89–444, §3, June 9, 1966, 80 Stat. 198, provided that:
+Pub. L. 88–130, §5, Sept. 24, 1963, 77 Stat. 193, as amended by Pub. L. 89–444, §3, June 9, 1966, 80 Stat. 198, provided that:
 
 “(a) Officers in each grade who have been recommended as qualified for temporary promotion under laws and regulations in effect the day before the effective date of this Act \[Sept. 24, 1963\] but not promoted to the grade for which they were recommended shall be placed on a list of selectees in order of their precedence, and they shall be promoted as if they had been selected for promotion in the approved report of a selection board convened under this Act \[enacting sections 41a, 211 to 214, 251 to 262, 271 to 277, 281 to 294, 321 to 327, 331 to 335, of this title amending sections 42, 44, 46, 47, 190, 433, 759a, and 791 of this title, and enacting provisions set out as notes under sections 262, 285, and 289 of this title, and repealing sections 221 to 248, 301 to 313a, 435 to 437, 439, and 440 of this title, and act Sept. 21, 1961, 75 Stat. 538, set out as a note under section 435 of this title\].
 
@@ -42,9 +42,9 @@ Section 5 of Pub. L. 88–130, as amended by Pub. L. 89–444, §3, June 9, 1966
 
 “(e) An officer of the Regular Coast Guard who was appointed as a temporary commissioned officer under any provision of law in effect prior to the effective date of this Act and who is serving on active duty shall be considered to have been appointed under section 214 of title 14, United States Code, and subject to the provisions thereof. An officer of the Regular Coast Guard who was appointed as a permanent commissioned officer under any provision of law in effect prior to the effective date of this Act \[Sept. 24, 1963\], and who is serving on active duty shall be considered to have been appointed under section 211 of title 14, United States Code, and subject to the provisions thereof.
 
-“(f) Each officer who would have been required to retire on June 30, 1962, under the provisions of section 288 of title 14, United States Code, had that section been ineffect on that date, shall be retired on the last day of the sixth month following the month in which this Act becomes effective. If, under section 288 of title 14, United States Code, the retirement of any other officer would be required after June 30, 1962, but less than six months following the effective date of this Act, his retirement shall be deferred until the last day of the twelfth month following the month in which this Act becomes effective, or June 30, 1964, whichever is earlier.
+“(f) Each officer who would have been required to retire on June 30, 1962, under the provisions of section 288 of title 14, United States Code, had that section been in effect on that date, shall be retired on the last day of the sixth month following the month in which this Act becomes effective. If, under section 288 of title 14, United States Code, the retirement of any other officer would be required after June 30, 1962, but less than six months following the effective date of this Act, his retirement shall be deferred until the last day of the twelfth month following the month in which this Act becomes effective, or June 30, 1964, whichever is earlier.
 
 “(g) The enactment of this Act does not increase or decrease the retired pay of any person retired on or prior to the effective date of this Act.
 
-“(h) Notwithstanding section 1431 of title 10, United States Code, an original election, change, or revocation of an election, made under that section by an officer who is retired under the provisions of section 282, 283, 284, 285, or 288 of title 14, United States Code, is effective if made prior to the first day of the third month following the month in which this Act is enacted \[September 1963\].”
+“(h) Notwithstanding section 1431 of title 10, United States Code, an original election, change, or revocation of an election, made under that section by an officer who is retired under the provisions of section 282, 283,284, 285, or 288 of title 14, United States Code, is effective if made prior to the first day of the third month following the month in which this Act is enacted \[September 1963\].”
 

@@ -6,7 +6,7 @@ Every consumer reporting agency shall, upon request, and subject to section 1681
 
 (1) All information in the consumer's file at the time of the request, except that—
 
-&emsp;(A) if the consumer to whom the file relates requests that the first 5 digits of the social security number (or similar identification number) of the consumer not be included in thedisclosure and the consumer reporting agency has received appropriate proof of the identity of the requester, the consumer reporting agency shall so truncate such number in such disclosure; and
+&emsp;(A) if the consumer to whom the file relates requests that the first 5 digits of the social security number (or similar identification number) of the consumer not be included in the disclosure and the consumer reporting agency has received appropriate proof of the identity of the requester, the consumer reporting agency shall so truncate such number in such disclosure; and
 
 &emsp;(B) nothing in this paragraph shall be construed to require a consumer reporting agency to disclose to a consumer any information concerning credit scores or any other risk scores or predictors relating to the consumer.
 
@@ -42,11 +42,11 @@ The requirements of subsection (a) of this section respecting the disclosure of 
 
 #### (c) Summary of rights to obtain and dispute information in consumer reports and to obtain credit scores
 
-#### (1) Commission summary of rights required
+#### (1) Commission <sup>2</sup> summary of rights required
 
 #### (A) In general
 
-&emsp;&emsp;The Commission shall prepare a model summary of the rights of consumers under this subchapter.
+&emsp;&emsp;The Commission <sup>2</sup> shall prepare a model summary of the rights of consumers under this subchapter.
 
 #### (B) Content of summary
 
@@ -60,13 +60,13 @@ The requirements of subsection (a) of this section respecting the disclosure of 
 
 &emsp;&emsp;&emsp;(iv) the right of a consumer to obtain a credit score from a consumer reporting agency, and a description of how to obtain a credit score;
 
-&emsp;&emsp;&emsp;(v) the method by which a consumer can contact, and obtain a consumer report from, a consumer reporting agency without charge, as provided in the regulations of the Commission prescribed under section 211(c) <sup>1</sup> of the Fair and Accurate Credit Transactions Act of 2003; and
+&emsp;&emsp;&emsp;(v) the method by which a consumer can contact, and obtain a consumer report from, a consumer reporting agency without charge, as provided in the regulations of the Bureau prescribed under section 211(c) <sup>1</sup> of the Fair and Accurate Credit Transactions Act of 2003; and
 
-&emsp;&emsp;&emsp;(vi) the method by which a consumer can contact, and obtain a consumer report from, a consumer reporting agency described in section 1681a(w) of this title, as provided in the regulations of the Commission prescribed under section 1681j(a)(1)(C) of this title.
+&emsp;&emsp;&emsp;(vi) the method by which a consumer can contact, and obtain a consumer report from, a consumer reporting agency described in section 1681a(w) <sup>1</sup> of this title, as provided in the regulations of the Bureau prescribed under section 1681j(a)(1)(C) of this title.
 
 #### (C) Availability of summary of rights
 
-&emsp;&emsp;The Commission shall—
+&emsp;&emsp;The Commission <sup>2</sup> shall—
 
 &emsp;&emsp;&emsp;(i) actively publicize the availability of the summary of rights prepared under this paragraph;
 
@@ -78,7 +78,7 @@ The requirements of subsection (a) of this section respecting the disclosure of 
 
 &emsp;A consumer reporting agency shall provide to a consumer, with each written disclosure by the agency to the consumer under this section—
 
-&emsp;&emsp;(A) the summary of rights prepared by the Commission under paragraph (1);
+&emsp;&emsp;(A) the summary of rights prepared by the Bureau under paragraph (1);
 
 &emsp;&emsp;(B) in the case of a consumer reporting agency described in section 1681a(p) of this title, a toll-free telephone number established by the agency, at which personnel are accessible to consumers during normal business hours;
 
@@ -92,11 +92,11 @@ The requirements of subsection (a) of this section respecting the disclosure of 
 
 #### (1) In general
 
-&emsp;The Commission, in consultation with the Federal banking agencies and the National Credit Union Administration, shall prepare a model summary of the rights of consumers under this subchapter with respect to the procedures for remedying the effects of fraud or identity theft involving credit, an electronic fund transfer, or an account or transaction at or with a financial institution or other creditor.
+&emsp;The Commission,<sup>2</sup> in consultation with the Federal banking agencies and the National Credit Union Administration, shall prepare a model summary of the rights of consumers under this subchapter with respect to the procedures for remedying the effects of fraud or identity theft involving credit, an electronicfund transfer, or an account or transaction at or with a financial institution or other creditor.
 
 #### (2) Summary of rights and contact information
 
-&emsp;Beginning 60 days after the date on which the model summary of rights is prescribed in final form by the Commission pursuant to paragraph (1), if any consumer contacts a consumer reporting agency and expresses a belief that the consumer is a victim of fraud or identity theft involving credit, an electronic fund transfer, or an account or transaction at or with a financial institution or other creditor, the consumer reporting agency shall, in addition to any other action that the agency may take, provide the consumer with a summary of rights that contains all of the information required by the Commission under paragraph (1), and information on how to contact the Commission to obtain more detailed information.
+&emsp;Beginning 60 days after the date on which the model summary of rights is prescribed in final form by the Bureau pursuant to paragraph (1), if any consumer contacts a consumer reporting agency and expresses a belief that the consumer is a victim of fraud or identity theft involving credit, an electronic fund transfer, or an account or transaction at or with a financial institution or other creditor, the consumer reporting agency shall, in addition to any other action that the agency may take, provide the consumer with a summary of rights that contains all of the information required by the Bureau under paragraph (1), and information on how to contact the Bureau to obtain more detailed information.
 
 #### (e) Information available to victims
 
@@ -128,9 +128,9 @@ The requirements of subsection (a) of this section respecting the disclosure of 
 
 &emsp;&emsp;&emsp;(ii) a properly completed—
 
-&emsp;&emsp;&emsp;&emsp;(I) copy of a standardized affidavit of identity theft developed and made available by the Commission; or
+&emsp;&emsp;&emsp;&emsp;(I) copy of a standardized affidavit of identity theft developed and made available by the Bureau; or
 
-&emsp;&emsp;&emsp;&emsp;(II) an <sup>2</sup> affidavit of fact that is acceptable to the business entity for that purpose.
+&emsp;&emsp;&emsp;&emsp;(II) an <sup>3</sup> affidavit of fact that is acceptable to the business entity for that purpose.
 
 #### (3) Procedures
 
@@ -168,7 +168,7 @@ The requirements of subsection (a) of this section respecting the disclosure of 
 
 #### (7) Limitation on civil liability
 
-&emsp;No business entity may be held civilly liable under any provision of Federal, State, or other law for disclosure, made in good faith pursuant to this subsection.
+&emsp;No business entity may be held civilly liable under any provision of Federal, State, or otherlaw for disclosure, made in good faith pursuant to this subsection.
 
 #### (8) No new recordkeeping obligation
 
@@ -276,7 +276,7 @@ The requirements of subsection (a) of this section respecting the disclosure of 
 
 #### (8) Fair and reasonable fee
 
-&emsp;A consumer reporting agency may charge a fair and reasonable fee, as determined by the Commission, for providing the information required under this subsection.
+&emsp;A consumer reporting agency may charge a fair and reasonable fee, as determined by the Bureau, for providing the information required under this subsection.
 
 #### (9) Use of enquiries as a key factor
 
@@ -318,7 +318,7 @@ The requirements of subsection (a) of this section respecting the disclosure of 
 
 #### (D) Notice to home loan applicants
 
-&emsp;&emsp;A copy of the following notice, which shall include the name, address, and telephonenumber of each consumer reporting agency providing a credit score that was used:
+&emsp;&emsp;A copy of the following notice, which shall include the name, address, and telephone number of each consumer reporting agency providing a credit score that was used:
 
 “notice to the home loan applicant
 
@@ -372,10 +372,6 @@ The requirements of subsection (a) of this section respecting the disclosure of 
 
 (Pub. L. 90–321, title VI, §609, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1131; amended Pub. L. 103–325, title III, §339, Sept. 23, 1994, 108 Stat. 2237; Pub. L. 104–208, div. A, title II, §2408(a)–(d)(1), (e)(5)(A), Sept. 30, 1996, 110 Stat. 3009–436, 3009–437, 3009–439; Pub. L. 105–347, §4(a), Nov. 2, 1998, 112 Stat. 3210; Pub. L. 108–159, title I, §§115, 151(a)(1), title II, §§211(c), 212(a)–(c), title VIII, §811(d), Dec. 4, 2003, 117 Stat. 1961, 1970, 1973–1975, 2011; Pub. L. 111–203, title X, §1088(a)(2)(C), July 21, 2010, 124 Stat. 2087.)
 
-#### Amendment of Section
-
-<i>Pub. L. 111–203, title X, §§1088(a)(2)(C), 1100H, July 21, 2010, 124 Stat. 2087, 2113, provided that, effective on the designated transfer date, this section is amended by striking “the Commission” each place that term appears and inserting “the Bureau”. See Effective Date of 2010 Amendment note below.</i>
-
 #### References in Text
 
 Section 1681b(b)(4) of this title, referred to in subsec. (a)(3)(C)(i), was subsequently amended, and section 1681b(b)(4)(E) no longer defines the term “classified information”. However, such term is defined elsewhere in that section.
@@ -384,13 +380,17 @@ For the effective date of this subchapter, referred to in subsec. (b), see secti
 
 Section 211(c) of the Fair and Accurate Credit Transactions Act of 2003, referred to in subsec. (c)(1)(B)(v), probably means section 211(d) of Pub. L. 108–159, which is set out as a note under section 1681j of this title and relates to the promulgation of regulations. Section 211(c) of Pub. L. 108–159 amended this section.
 
+Section 1681a(w) of this title, referred to in subsec. (c)(1)(B)(vi), was redesignated section 1681a(x) of this title by Pub. L. 111–203, title X, §1088(a)(1), July 21, 2010, 124 Stat. 2086.
+
 Public Law 106–102, referred to in subsec. (e)(9)(A), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338, as amended, known as the Gramm-Leach-Bliley Act. Subtitle A of title V of the Act is classified principally to subchapter I (§ 6801 et seq.) of chapter 94 of this title. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.
 
 #### Amendments
 
+<b>2010</b>—Pub. L. 111–203 substituted “the Bureau” for “the Commission” wherever appearing.
+
 <b>2003</b>—Subsec. (a)(1). Pub. L. 108–159, §115, substituted “except that—
 
-&emsp;“(A) if the consumer to whom the file relates requests that the first 5 digits of the social securitynumber (or similar identification number) of the consumer not be included in the disclosure and the consumer reporting agency has received appropriate proof of the identity of the requester, the consumer reporting agency shall so truncate such number in such disclosure; and
+&emsp;“(A) if the consumer to whom the file relates requests that the first 5 digits of the social security number (or similar identification number) of the consumer not be included in the disclosure and the consumer reporting agency has received appropriate proof of the identity of the requester, the consumer reporting agency shall so truncate such number in such disclosure; and
 
 &emsp;“(B) nothing”
 
@@ -456,5 +456,7 @@ Goals.—The Federal Trade Commission shall take appropriate action to assure th
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. The word “an” probably should not appear.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be “Bureau”.</i>
+
+<i><sup>3</sup></i><i> So in original. The word “an” probably should not appear.</i>
 

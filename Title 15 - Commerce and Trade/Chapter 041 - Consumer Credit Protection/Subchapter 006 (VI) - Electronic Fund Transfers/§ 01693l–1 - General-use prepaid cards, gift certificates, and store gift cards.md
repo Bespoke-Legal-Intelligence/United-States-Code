@@ -54,7 +54,7 @@ In this section, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(ii) reloadable and not marketed or labeled as a gift card or gift certificate;
 
-&emsp;&emsp;&emsp;(iii) a loyalty, award, or promotional gift card, as defined by the Board;
+&emsp;&emsp;&emsp;(iii) a loyalty, award, or promotional gift card, as defined by the Bureau;
 
 &emsp;&emsp;&emsp;(iv) not marketed to the general public;
 
@@ -84,7 +84,7 @@ In this section, the following definitions shall apply:
 
 #### (2) Exceptions
 
-&emsp;A dormancy fee, inactivity charge or fee, or service fee may be charged with respect to a gift certificate, store gift card, or general-use prepaid card, if—
+&emsp;A dormancy fee, inactivity charge or fee, or service fee may be charged with respect to agift certificate, store gift card, or general-use prepaid card, if—
 
 &emsp;&emsp;(A) there has been no activity with respect to the certificate or card in the 12-month period ending on the date on which the charge or fee is imposed;
 
@@ -92,7 +92,7 @@ In this section, the following definitions shall apply:
 
 &emsp;&emsp;(C) not more than one fee may be charged in any given month; and
 
-&emsp;&emsp;(D) any additional requirements that the Board may establish through rulemaking under subsection (d) have been met.
+&emsp;&emsp;(D) any additional requirements that the Bureau may establish through rulemaking under subsection (d) have been met.
 
 #### (3) Disclosure requirements
 
@@ -108,13 +108,13 @@ In this section, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(iv) that such fee or charge may be assessed for inactivity; and
 
-&emsp;&emsp;(B) the issuer or vendor of such certificate or card informs the purchaser of such charge or fee before such certificate or card is purchased, regardless of whether the certificateor card is purchased in person, over the Internet, or by telephone.
+&emsp;&emsp;(B) the issuer or vendor of such certificate or card informs the purchaser of such charge or fee before such certificate or card is purchased, regardless of whether the certificate or card is purchased in person, over the Internet, or by telephone.
 
 #### (4) Exclusion
 
 &emsp;The prohibition under paragraph (1) shall not apply to any gift certificate—
 
-&emsp;&emsp;(A) that is distributed pursuant to an award, loyalty, or promotional program, as defined by the Board; and
+&emsp;&emsp;(A) that is distributed pursuant to an award, loyalty, or promotional program, as defined by the Bureau; and
 
 &emsp;&emsp;(B) with respect to which, there is no money or other value exchanged.
 
@@ -136,7 +136,7 @@ In this section, the following definitions shall apply:
 
 #### (1) In general
 
-&emsp;The Board shall—
+&emsp;The Bureau shall—
 
 &emsp;&emsp;(A) prescribe regulations to carry out this section, in addition to any other rules or regulations required by this subchapter, including such additional requirements as appropriate relating to the amount of dormancy fees, inactivity charges or fees, or service fees that may be assessed and the amount of remaining value of a gift certificate, store gift card, or general-use prepaid card below which such charges or fees may be assessed; and
 
@@ -144,7 +144,7 @@ In this section, the following definitions shall apply:
 
 #### (2) Consultation
 
-&emsp;In prescribing regulations under this subsection, the Board shall consult with the Federal Trade Commission.
+&emsp;In prescribing regulations under this subsection, the Bureau shall consult with the Federal Trade Commission.
 
 #### (3) Timing; effective date
 
@@ -152,13 +152,13 @@ In this section, the following definitions shall apply:
 
 (Pub. L. 90–321, title IX, §915, as added Pub. L. 111–24, title IV, §401(2), May 22, 2009, 123 Stat. 1751; amended Pub. L. 111–203, title X, §1084(1), July 21, 2010, 124 Stat. 2081.)
 
-#### Amendment of Section
-
-<i>Pub. L. 111–203, title X, §§1084(1), 1100H, July 21, 2010, 124 Stat. 2081, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Board” each place that term appears and inserting “Bureau”. See Effective Date of 2010 Amendment note below.</i>
-
 #### Prior Provisions
 
 A prior section 915 of Pub. L. 90–321 was renumbered section 916 and is classified to section 1693m of this title.
+
+#### Amendments
+
+<b>2010</b>—Pub. L. 111–203 substituted “Bureau” for “Board” wherever appearing.
 
 #### Effective Date of 2010 Amendment
 
@@ -190,7 +190,7 @@ In general.—In the case of a gift certificate, store gift card, or general-use
 
 &emsp;“(2)
 
-Disclosure requirements.—The disclosure requirements of this subsection are met by providing notice to consumers, via in-store signage, messages during customer service calls, Web sites, and general advertising, that—
+Disclosure requirements.—The disclosure requirements of this subsection are met by providingnotice to consumers, via in-store signage, messages during customer service calls, Web sites, and general advertising, that—
 
 &emsp;&emsp;“(A) any such certificate or card for which funds expire shall be deemed to have no expiration date with respect to the underlying funds;
 

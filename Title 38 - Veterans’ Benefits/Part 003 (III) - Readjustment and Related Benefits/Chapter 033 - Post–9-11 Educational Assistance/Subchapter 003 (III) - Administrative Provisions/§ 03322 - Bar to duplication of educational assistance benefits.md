@@ -44,7 +44,7 @@ Active-duty service.—An individual with qualifying service in the Armed Forces
 
 Eligibility for educational assistance based on parent's service.—A child of a member of the Armed Forces who, on or after September 11, 2001, dies in the line of duty while serving on active duty, who is eligible for educational assistance under either section 3311(b)(9) or chapter 35 of this title based on the parent's death may not receive such assistance under both this chapter and chapter 35 of this title, but shall elect (in such form and manner as the Secretary may prescribe) under which chapter to receive such assistance.
 
-(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2373; amended Pub. L. 111–377, title I, §111(a)–(d), title II, §202(a), Jan. 4, 2011, 124 Stat. 4120, 4121, 4124.)
+(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2373; amended Pub. L. 111–377,title I, §111(a)–(d), title II, §202(a), Jan. 4, 2011, 124 Stat. 4120, 4121, 4124.)
 
 #### References in Text
 

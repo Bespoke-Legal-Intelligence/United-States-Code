@@ -86,7 +86,7 @@ Each pension plan shall provide that an employee's right to his normal retiremen
 
 &emsp;&emsp;(ii) in the case of a multiemployer plan, in the same industry, in the same trade or craft, and the same geographic area covered by the plan, as when such benefits commenced.
 
-> &emsp;The Secretary shall prescribe such regulations as may be necessary to carry out the purposesof this subparagraph, including regulations with respect to the meaning of the term “employed”.
+> &emsp;The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this subparagraph, including regulations with respect to the meaning of the term “employed”.
 
 &emsp;(C) A right to an accrued benefit derived from employer contributions shall not be treated as forfeitable solely because plan amendments may be given retroactive application as provided in section 1082(d)(2) of this title.
 
@@ -134,7 +134,7 @@ Each pension plan shall provide that an employee's right to his normal retiremen
 
 &emsp;&emsp;&emsp;(I) a complete withdrawal of such employer from the plan (within the meaning of section 1383 of this title), or
 
-&emsp;&emsp;&emsp;(II) to the extent permitted by regulations prescribed by the Secretary of the Treasury, a partial withdrawal described in section 1385(b)(2)(A)(i) of this title inconnection with the decertification of the collective bargaining representative; and
+&emsp;&emsp;&emsp;(II) to the extent permitted by regulations prescribed by the Secretary of the Treasury, a partial withdrawal described in section 1385(b)(2)(A)(i) of this title in connection with the decertification of the collective bargaining representative; and
 
 &emsp;&emsp;(ii) with any employer under the plan after the termination date of the plan under section 1348 of this title.
 
@@ -238,7 +238,7 @@ A pension plan may allow for nonforfeitable benefits after a lesser period and i
 
 #### (2) 3-year vesting
 
-&emsp;In the case of an applicable defined benefit plan, such plan shall be treated as meeting the requirements of subsection (a)(2) only if an employee who has completed at least 3 years of service has a nonforfeitable right to 100 percent of the employee's accrued benefit derived from employer contributions.
+&emsp;In the case of an applicable defined benefit plan, such plan shall be treated as meeting therequirements of subsection (a)(2) only if an employee who has completed at least 3 years of service has a nonforfeitable right to 100 percent of the employee's accrued benefit derived from employer contributions.
 
 #### (3) Applicable defined benefit plan and related rules
 
@@ -344,7 +344,7 @@ Pub. L. 99–514, §1898(d)(2)(B), added par. (3).
 
 Subsec. (b)(3)(C). Pub. L. 98–397, §102(c), substituted “5 consecutive 1-year breaks in service” for “any 1-year break in service” and substituted “such 5-year period” for “such break” in two places.
 
-Subsec. (b)(3)(D). Pub. L. 98–397, §102(d)(2), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “For purposes of paragraph (1), in thecase of a participant who, under the plan, does not have any nonforfeitable right to an accrued benefit derived from employer contributions, years of service before any 1-year break in service shall not be required to be taken into account if the number of consecutive 1-year breaks in service equals or exceeds the aggregate number of such years of service prior to such break. Such aggregate number of years of service before such break shall be deemed not to include any years of service not required to be taken into account under this subparagraph by reason of any prior break in service.”
+Subsec. (b)(3)(D). Pub. L. 98–397, §102(d)(2), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “For purposes of paragraph (1), in the case of a participant who, under the plan, does not have any nonforfeitable right to an accrued benefit derived from employer contributions, years of service before any 1-year break in service shall not be required to be taken into account if the number of consecutive 1-year breaks in service equals or exceeds the aggregate number of such years of service prior to such break. Such aggregate number of years of service before such break shall be deemed not to include any years of service not required to be taken into account under this subparagraph by reason of any prior break in service.”
 
 Subsec. (b)(3)(E). Pub. L. 98–397, §102(e)(2), added subpar. (E).
 
@@ -380,7 +380,7 @@ Amendment by Pub. L. 105–34 applicable to plan years beginning after Aug. 5, 1
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–188 applicable to plan years beginning on or after the earlier of (1) the later of (A) Jan. 1, 1997, or (B) the date on which the last of the collective bargaining agreements pursuant to which the plan is maintained terminates (determined without regard to any extension thereof after Aug. 20, 1996), or (2) Jan. 1, 1999, but such amendment not applicable to any individual who does not have more than 1 hour of service under the plan on or after the 1st day of the 1st plan year to which such amendment applies, see section 1442(c) of Pub. L. 104–188, set out as a note under section 411 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 104–188 applicable to plan years beginning on or after the earlier of (1) the later of (A) Jan. 1, 1997, or (B) the date on which the last of the collective bargaining agreements pursuant towhich the plan is maintained terminates (determined without regard to any extension thereof after Aug. 20, 1996), or (2) Jan. 1, 1999, but such amendment not applicable to any individual who does not have more than 1 hour of service under the plan on or after the 1st day of the 1st plan year to which such amendment applies, see section 1442(c) of Pub. L. 104–188, set out as a note under section 411 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1994 Amendment
 

@@ -134,7 +134,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 541(a)(7) is new. The provision clarifies that any interest in property that the estate acquires after the commencement of the case is property of the estate; for example, if the estate enters into a contract, after the commencement of the case, such a contract would be property of the estate. The addition of this provision by the House amendment merely clarifies that section 541(a) is an all-embracing definition which includes charges on property, such as liens held by the debtor on property of a third party, or beneficial rights and interests that the debtor may have in property of another. However, only the debtor's interest in such property becomes property of the estate. If the debtor holds bare legal title or holds property in trust for another, only those rights which the debtor would have otherwise had emanating from such interest pass to the estate under section 541. Neither this section nor section 545 will affect various statutory provisions that give a creditor a lien that is valid both inside and outside bankruptcy against a bona fide purchaser of property from the debtor, or that creates a trust fund for the benefit of creditors meeting similar criteria. See Packers and Stockyards Act §206, 7 U.S.C. 196 (1976).
 
@@ -142,7 +142,7 @@ Section 541(c)(2) follows the position taken in the House bill and rejects the p
 
 Section 541(d) of the House amendment is derived from section 541(e) of the Senate amendment and reiterates the general principle that where the debtor holds bare legal title without any equitable interest, that the estate acquires bare legal title without any equitable interest in the property. The purpose of section 541(d) as applied to the secondary mortgage market is identical to the purpose of section 541(e) of the Senate amendment and section 541(d) will accomplish the same result as would have been accomplished by section 541(e). Even if a mortgage seller retains for purposes of servicing legal title to mortgages or interests in mortgages sold in the secondary mortgage market, the trustee would be required by section 541(d) to turn over the mortgages or interests in mortgages to the purchaser of those mortgages.
 
-The seller of mortgages in the secondary mortgage market will often retain the original mortgage notes and related documents and the seller will not endorse the notes to reflect the sale to the purchaser. Similarly, the purchaser will often not record the purchaser's ownership of the mortgages or interests in mortgages under State recording statutes. These facts are irrelevant and the seller's retention of the mortgage documents and the purchaser's decision not to record do not change the trustee's obligation to turn the mortgages or interests in mortgages over to the purchaser. The application of section 541(d) to secondary mortgage market transactions will not be affected by the terms of the servicing agreement between the mortgage servicer and the purchaser of the mortgages. Under section 541(d), the trustee is required to recognize the purchaser's title to the mortgages or interests in mortgages and to turn this property over to the purchaser. It makes no difference whether the servicer and the purchaser characterize their relationship as one of trust, agency, or independent contractor.
+The seller of mortgages in the secondary mortgage market will often retain the original mortgage notes and related documents and the seller will not endorse the notes to reflect the sale to the purchaser. Similarly, the purchaser will often not record the purchaser's ownership of the mortgages or interests in mortgages under State recording statutes. These facts are irrelevant and the seller's retention of the mortgage documents and the purchaser's decision not to record do not change the trustee's obligation to turnthe mortgages or interests in mortgages over to the purchaser. The application of section 541(d) to secondary mortgage market transactions will not be affected by the terms of the servicing agreement between the mortgage servicer and the purchaser of the mortgages. Under section 541(d), the trustee is required to recognize the purchaser's title to the mortgages or interests in mortgages and to turn this property over to the purchaser. It makes no difference whether the servicer and the purchaser characterize their relationship as one of trust, agency, or independent contractor.
 
 The purpose of section 541(d) as applied to the secondary mortgage market is therefore to make certain that secondary mortgage market sales as they are currently structured are not subject to challenge by bankruptcy trustees and that purchasers of mortgages will be able to obtain the mortgages or interests in mortgages which they have purchased from trustees without the trustees asserting that a sale of mortgages is a loan from the purchaser to the seller.
 
@@ -170,7 +170,7 @@ Bankruptcy Act §8 \[section 26 of former title 11\] has been deleted as unneces
 
 The estate also includes the interests of the debtor and the debtor's spouse in community property, subject to certain limitations; property that the trustee recovers under the avoiding powers; property that the debtor acquires by bequest, devise, inheritance, a property settlement agreement with the debtor's spouse, or as the beneficiary of a life insurance policy within 180 days after the petition; and proceeds, product, offspring, rents, and profits of or from property of the estate, except such as are earning from services performed by an individual debtor after the commencement of the case. Proceeds here is not used in a confining sense, as defined in the Uniform Commercial Code, but is intended to be a broad term to encompass all proceeds of property of the estate. The conversion in form of property of the estate does not change its character as property of the estate.
 
-Subsection (b) excludes from property of the estate any power, such as a power of appointment, that the debtor may exercise solely for the benefit of an entity other than the debtor. This changes present law whichexcludes powers solely benefiting other persons but not other entities.
+Subsection (b) excludes from property of the estate any power, such as a power of appointment, that the debtor may exercise solely for the benefit of an entity other than the debtor. This changes present law which excludes powers solely benefiting other persons but not other entities.
 
 Subsection (c) invalidates restrictions on the transfer of property of the debtor, in order that all of the interests of the debtor in property will become property of the estate. The provisions invalidated are those that restrict or condition transfer of the debtor's interest, and those that are conditioned on the insolvency or financial condition of the debtor, on the commencement of a bankruptcy case, or on the appointment of a custodian of the debtor's property. Paragraph (2) of subsection (c), however, preserves restrictions on a transfer of a spendthrift trust that the restriction is enforceable nonbankruptcy law to the extent of the income reasonably necessary for the support of a debtor and his dependents.
 
@@ -188,9 +188,9 @@ The Employee Retirement Income Security Act of 1974, referred to in subsec. (b)(
 
 #### Amendments
 
-2010—Subsec. (b)(6)(B). Pub. L. 111–327 substituted “section 529(b)(6)” for “section 529(b)(7)”.
+<b>2010</b>—Subsec. (b)(6)(B). Pub. L. 111–327 substituted “section 529(b)(6)” for “section 529(b)(7)”.
 
-2005—Subsec. (b)(4). Pub. L. 109–8, §225(a)(1)(A), struck out “or” at end.
+<b>2005</b>—Subsec. (b)(4). Pub. L. 109–8, §225(a)(1)(A), struck out “or” at end.
 
 Subsec. (b)(4)(B)(ii). Pub. L. 109–8, §1212, inserted “365 or” before “542”.
 
@@ -206,17 +206,17 @@ Subsec. (e). Pub. L. 109–8, §225(a)(2), added subsec. (e).
 
 Subsec. (f). Pub. L. 109–8, §1221(c), added subsec. (f).
 
-1994—Subsec. (b)(4). Pub. L. 103–394, §208(b), designated existing provisions of subpar. (A) as cl. (i) of subpar. (A), redesignated subpar. (B) as cl. (ii) of subpar. (A), substituted “the interest referred to in clause (i)” for “such interest”, substituted “; or” for period at end of cl. (ii), and added subpar. (B).
+<b>1994</b>—Subsec. (b)(4). Pub. L. 103–394, §208(b), designated existing provisions of subpar. (A) as cl. (i) of subpar. (A), redesignated subpar. (B) as cl. (ii) of subpar. (A), substituted “the interest referred to in clause (i)” for “such interest”, substituted “; or” for period at end of cl. (ii), and added subpar. (B).
 
 Pub. L. 103–394, §223(2), which directed the amendment of subsec. (b)(4) by striking out period at end and inserting “; or”, was executed by inserting “or” after semicolon at end of subsec. (b)(4)(B)(ii), as added by Pub. L. 103–394, §208(b)(3), to reflect the probable intent of Congress.
 
 Subsec. (b)(5). Pub. L. 103–394, §223, added par. (5).
 
-1992—Subsec. (b). Pub. L. 102–486 added par. (4) and closing provisions.
+<b>1992</b>—Subsec. (b). Pub. L. 102–486 added par. (4) and closing provisions.
 
-1990—Subsec. (b)(3). Pub. L. 101–508 added par. (3).
+<b>1990</b>—Subsec. (b)(3). Pub. L. 101–508 added par. (3).
 
-1984—Subsec. (a). Pub. L. 98–353, §456(a)(1), (2), struck out “under” after “under” and inserted “and by whomever held” after “located”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–353, §456(a)(1), (2), struck out “under” after “under” and inserted “and by whomever held” after “located”.
 
 Subsec. (a)(3). Pub. L. 98–353, §456(a)(3), inserted “329(b), 363(n),”.
 
@@ -238,7 +238,7 @@ Subsec. (e). Pub. L. 98–353, §456(d), struck out subsec. (e) which read as fo
 
 Amendment by section 1221(c) of Pub. L. 109–8 applicable to cases pending under this title on Apr. 20, 2005, or filed under this title on or after Apr. 20, 2005, with certain exceptions, see section 1221(d) of Pub. L. 109–8, set out as a note under section 363 of this title.
 
-Amendment by sections 225(a), 323, 1212, and 1230 of Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
+Amendment by sections 225(a), 323, 1212, and 1230 of Pub. L. 109–8 effective 180 days after Apr. 20, 2005, andnot applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -250,7 +250,7 @@ Amendment by Pub. L. 102–486 effective Oct. 24, 1992, but not applicable with 
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
+Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
 #### Adjustment of Dollar Amounts
 

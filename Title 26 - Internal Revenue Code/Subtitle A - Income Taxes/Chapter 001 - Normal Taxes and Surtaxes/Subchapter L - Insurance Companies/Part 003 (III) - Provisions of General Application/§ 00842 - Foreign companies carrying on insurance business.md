@@ -88,7 +88,7 @@ If a foreign company carrying on an insurance business within the United States 
 
 #### (A) In general
 
-&emsp;&emsp;The tax under section 881 (determined without regard to this paragraph) shall bereduced (but not below zero) by an amount which bears the same ratio to such tax as—
+&emsp;&emsp;The tax under section 881 (determined without regard to this paragraph) shall be reduced (but not below zero) by an amount which bears the same ratio to such tax as—
 
 &emsp;&emsp;&emsp;(i) the amount of the increase in effectively connected income of the company resulting from subsection (b), bears to
 
@@ -100,7 +100,7 @@ If a foreign company carrying on an insurance business within the United States 
 
 #### (3) Data used in determining domestic asset/liability percentages and domestic investment yields
 
-&emsp;Each domestic asset/liability percentage, and each domestic investment yield, for any taxable year shall be based on such representative data with respect to domestic insurance companies for the second preceding taxable year as the Secretary considers appropriate.
+&emsp;Each domestic asset/liability percentage, and each domestic investment yield, for any taxable year shall be based on such representative data with respect to domestic insurancecompanies for the second preceding taxable year as the Secretary considers appropriate.
 
 #### (d) Regulations
 

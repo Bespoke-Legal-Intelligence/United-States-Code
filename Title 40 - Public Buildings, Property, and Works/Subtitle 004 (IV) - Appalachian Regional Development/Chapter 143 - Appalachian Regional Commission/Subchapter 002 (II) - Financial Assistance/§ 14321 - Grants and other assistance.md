@@ -32,7 +32,7 @@ Limitation on available amounts.—
 
 &emsp;&emsp;(A)
 
-In general.—Except as provided in subparagraph (B), of the cost of any activity eligible for financial assistance under this section, not more than—
+In general.—Except as provided in subparagraph (B), of the cost of any activityeligible for financial assistance under this section, not more than—
 
 &emsp;&emsp;&emsp;(i) 50 percent may be provided from amounts appropriated to carry out this subtitle;
 
@@ -46,7 +46,7 @@ Discretionary grants.—
 
 &emsp;&emsp;&emsp;(i)
 
-Grants to which percentage limitation doesn't apply.—Discretionary grantsmade by the Commission to implement significant regional initiatives, to take advantage of special development opportunities, or to respond to emergency economic distress in the region may be made without regard to the percentage limitations specified in subparagraph (A).
+Grants to which percentage limitation doesn't apply.—Discretionary grants made by the Commission to implement significant regional initiatives, to take advantage of special development opportunities, or to respond to emergency economic distress in the region may be made without regard to the percentage limitations specified in subparagraph (A).
 
 &emsp;&emsp;&emsp;(ii)
 

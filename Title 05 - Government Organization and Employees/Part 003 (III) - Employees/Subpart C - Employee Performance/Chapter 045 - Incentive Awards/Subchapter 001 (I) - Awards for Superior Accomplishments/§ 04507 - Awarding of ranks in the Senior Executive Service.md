@@ -26,7 +26,7 @@
 
 #### Amendments
 
-1998—Subsec. (e)(1). Pub. L. 105–277, §101(h) \[title VI, §631(a)\], substituted “an amount equal to 20 percent of annual basic pay” for “$10,000”.
+<b>1998</b>—Subsec. (e)(1). Pub. L. 105–277, §101(h) \[title VI, §631(a)\], substituted “an amount equal to 20 percent of annual basic pay” for “$10,000”.
 
 Subsec. (e)(2). Pub. L. 105–277, §101(h) \[title VI, §631(b)\], substituted “an amount equal to 35 percent of annual basic pay” for “$20,000”.
 
@@ -36,5 +36,5 @@ Pub. L. 105–277, div. A, §101(h) \[title VI, §631(c)\], Oct. 21, 1998, 112 S
 
 #### Effective Date
 
-Section effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415(a)(1), (b), of Pub. L. 95–454, set out as a note under section 3131 of this title.
+Section effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through412 of Pub. L. 95–454, see section 415(a)(1), (b), of Pub. L. 95–454, set out as a note under section 3131 of this title.
 

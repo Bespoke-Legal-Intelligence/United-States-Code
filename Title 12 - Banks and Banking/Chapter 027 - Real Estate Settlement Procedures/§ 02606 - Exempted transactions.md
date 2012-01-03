@@ -10,9 +10,9 @@ This chapter does not apply to credit transactions involving extensions of credi
 
 #### (b) Interpretation
 
-In prescribing regulations under section 2617(a) of this title, the Secretary shall ensure that, with respect to subsection (a) of this section, the exemption for credit transactions involving extensions of credit primarily for business, commercial, or agricultural purposes, as provided in subsection (a)(1) <sup>1</sup> of this section shall be the same as the exemption for such credit transactions under section 1603(1) of title 15.
+In prescribing regulations under section 2617(a) of this title, the Bureau shall ensure that, with respect to subsection (a) of this section, the exemption for credit transactions involving extensions of credit primarily for business, commercial, or agricultural purposes, as provided in subsection (a)(1) <sup>1</sup> of this section shall be the same as the exemption for such credit transactions under section 1603(1) of title 15.
 
-(Pub. L. 93–533, §7, as added Pub. L. 103–325, title III, §312, Sept. 23, 1994, 108 Stat. 2221; amended Pub. L. 104–208, div. A, title II, §2103(b), Sept. 30, 1996, 110 Stat. 3009–399.)
+(Pub. L. 93–533, §7, as added Pub. L. 103–325, title III, §312, Sept. 23, 1994, 108 Stat. 2221; amended Pub. L. 104–208, div. A, title II, §2103(b), Sept. 30, 1996, 110 Stat. 3009–399; Pub. L. 111–203, title X, §1098(5), July 21, 2010, 124 Stat. 2104.)
 
 #### References in Text
 
@@ -24,7 +24,13 @@ A prior section 2606, Pub. L. 93–533, §7, Dec. 22, 1974, 88 Stat. 1727, relat
 
 #### Amendments
 
-1996—Pub. L. 104–208 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+2010–Subsec. (b). Pub. L. 111–203 substituted “Bureau” for “Secretary”.
+
+<b>1996</b>—Pub. L. 104–208 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

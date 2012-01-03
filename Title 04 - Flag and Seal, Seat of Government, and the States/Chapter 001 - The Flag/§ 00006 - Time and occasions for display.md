@@ -36,9 +36,9 @@ In subsection (d), the words “Veterans Day” are substituted for “Armistice
 
 #### Amendments
 
-2009—Subsec. (d). Pub. L. 111–41 inserted “National Korean War Veterans Armistice Day, July 27;” after “July 4;”.
+<b>2009</b>—Subsec. (d). Pub. L. 111–41 inserted “National Korean War Veterans Armistice Day, July 27;” after “July 4;”.
 
-2008—Subsec. (d). Pub. L. 110–239 inserted “Father's Day, third Sunday in June;” after “Flag Day, June 14;”.
+<b>2008</b>—Subsec. (d). Pub. L. 110–239 inserted “Father's Day, third Sunday in June;” after “Flag Day, June 14;”.
 
-1999—Subsec. (d). Pub. L. 106–80 inserted “Martin Luther King Jr.'s birthday, third Monday in January;” after “January 20;”.
+<b>1999</b>—Subsec. (d). Pub. L. 106–80 inserted “Martin Luther King Jr.'s birthday, third Monday in January;” after “January 20;”.
 

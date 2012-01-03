@@ -268,7 +268,7 @@ The Social Security Act, referred to in subsec. (f), is act Aug. 14, 1935, ch. 5
 
 #### Amendments
 
-1996—Subsec. (b)(5). Pub. L. 104–132, §431(b)(1), inserted before period at end “, except as allowed by a court order issued pursuant to paragraph (6) of this subsection”.
+<b>1996</b>—Subsec. (b)(5). Pub. L. 104–132, §431(b)(1), inserted before period at end “, except as allowed by a court order issued pursuant to paragraph (6) of this subsection”.
 
 Subsec. (b)(6). Pub. L. 104–208, §623(b), amended par. (6) generally, substituting subpars. (A) to (D) for former subpars. (A) to (C) and introductory and concluding provisions, relating to confidentiality of information.
 
@@ -280,11 +280,11 @@ Subsec. (e)(3)(A). Pub. L. 104–208, §308(g)(2)(B), inserted “(as in effect 
 
 Subsec. (f). Pub. L. 104–193 substituted “assistance under a State program funded under” for “aid under a State plan approved under” in two places.
 
-1994—Subsec. (d)(3). Pub. L. 103–416, §219(d), inserted “the” before first reference to “Service” in introductory provisions.
+<b>1994</b>—Subsec. (d)(3). Pub. L. 103–416, §219(d), inserted “the” before first reference to “Service” in introductory provisions.
 
 Subsec. (d)(3)(B). Pub. L. 103–416, §219(z)(7), made technical correction to Pub. L. 102–232, §309(b)(6)(F). See 1991 Amendment note below.
 
-1991—Subsec. (b)(7)(B). Pub. L. 102–232, §307(j), substituted “section 1182(a)(6)(C)(i)” for “section 1182(a)(19)”.
+<b>1991</b>—Subsec. (b)(7)(B). Pub. L. 102–232, §307(j), substituted “section 1182(a)(6)(C)(i)” for “section 1182(a)(19)”.
 
 Subsec. (d)(3). Pub. L. 102–232, §309(b)(6)(A)–(C), realigned margins of par. (3) and its subparagraphs, and in introductory provisions substituted “Service” for “the Immigration and Naturalization Service (INS)” and “Service” for “INS” in two places.
 
@@ -294,7 +294,7 @@ Subsec. (d)(3)(B). Pub. L. 102–232, §309(b)(6)(F), as amended by Pub. L. 103�
 
 Pub. L. 102–232, §309(b)(6)(G), made technical amendment to reference to subsection (b)(1)(A) of this section involving corresponding provision of original act.
 
-1990—Subsec. (a)(3)(B)(i). Pub. L. 101–649, §603(a)(5)(A), substituted “1182(a)(6)(C)(i)” for “1182(a)(19)”.
+<b>1990</b>—Subsec. (a)(3)(B)(i). Pub. L. 101–649, §603(a)(5)(A), substituted “1182(a)(6)(C)(i)” for “1182(a)(19)”.
 
 Subsec. (c)(2)(A). Pub. L. 101–649, §603(a)(5)(B), substituted “(5) and (7)(A)” for “(14), (20), (21), (25), and (32)”.
 
@@ -310,13 +310,13 @@ Subsec. (c)(2)(B)(ii)(V). Pub. L. 101–649, §603(a)(5)(G), struck out subcl. (
 
 Subsec. (c)(2)(C). Pub. L. 101–649, §603(a)(5)(H), substituted “1182(a)(4)” for “1182(a)(15)”.
 
-1989—Subsec. (a)(3). Pub. L. 101–238, §4(a), designated existing provisions as subpar. (A) and added subpar. (B).
+<b>1989</b>—Subsec. (a)(3). Pub. L. 101–238, §4(a), designated existing provisions as subpar. (A) and added subpar. (B).
 
 Subsec. (b)(6)(A). Pub. L. 101–238, §4(b), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “use the information furnished pursuant to an application filed under this section for any purpose other than to make a determination on the application or for enforcement of paragraph (7),”.
 
-1988—Subsec. (g). Pub. L. 100–525 substituted “subsections (a)(5) and (f)” for “subsections (b)(3) and (f)”.
+<b>1988</b>—Subsec. (g). Pub. L. 100–525 substituted “subsections (a)(5) and (f)” for “subsections (b)(3) and (f)”.
 
-1987—Subsec. (d)(3). Pub. L. 100–202 added par. (3).
+<b>1987</b>—Subsec. (d)(3). Pub. L. 100–202 added par. (3).
 
 #### Effective Date of 1996 Amendments
 

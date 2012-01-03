@@ -70,7 +70,35 @@ No right of priority or benefit of earliest filing date.—A provisional applica
 
 Applicable provisions.—The provisions of this title relating to applications for patent shall apply to provisional applications for patent, except as otherwise provided, and except that provisional applications for patent shall not be subject to sections 115, 131, 135, and 157 of this title.
 
-(July 19, 1952, ch. 950, 66 Stat. 798; Pub. L. 97–247, §5, Aug. 27, 1982, 96 Stat. 319; Pub. L. 103–465, title V, §532(b)(3), Dec. 8, 1994, 108 Stat. 4986; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4732(a)(10)(A), 4801(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582, 1501A–588; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
+(July 19, 1952, ch. 950, 66 Stat. 798; Pub. L. 97–247, §5, Aug. 27, 1982, 96 Stat. 319; Pub. L. 103–465, title V, §532(b)(3), Dec. 8, 1994, 108 Stat. 4986; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4732(a)(10)(A), 4801(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582, 1501A–588; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, §§3(e)(2), 4(a)(3), (d), 20(j), Sept. 16, 2011, 125 Stat. 287, 295, 296, 335.)
+
+#### Amendment of Section
+
+<i>Pub. L. 112–29, §20(j), (l), Sept. 16, 2011, 125 Stat. 335, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, this section is amended by striking “of this title” each place that term appears except the first instance of the use of such term in subsection (b)(8). See 2011 Amendment notes below.</i>
+
+<i>Pub. L. 112–29, §4(a)(3), (d), (e), Sept. 16, 2011, 125 Stat. 295–297, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to any patent application that is filed on or after that effective date, this section is amended:</i>
+
+<i>(1) in subsection (a)—</i>
+
+<i>(A) in paragraph (2)(C), by striking “by the applicant” and inserting “or declaration”;</i>
+
+<i>(B) in the heading for paragraph (3), by inserting “</i>
+
+<i>or declaration</i>” after “
+
+<i>and oath</i>”; and
+
+<i>(C) by inserting “or declaration” after “and oath” each place it appears; and</i>
+
+<i>(2) in subsection (b)—</i>
+
+<i>(A) in paragraph (1)(A), by striking “the first paragraph of section 112 of this title” and inserting “section 112(a)”; and</i>
+
+<i>(B) in paragraph (2), by striking “the second through fifth paragraphs of section 112,” and inserting “subsections (b) through (e) of section 112,”.</i>
+
+<i>See 2011 Amendment notes below.</i>
+
+<i>Pub. L. 112–29, §3(e)(2), (3), Sept. 16, 2011, 125 Stat. 287, 288, provided that, effective upon the expiration of the 18-month period beginning on Sept. 16, 2011, and applicable to any request for a statutory invention registration filed on or after that effective date, subsection (b)(8) of this section is amended by striking “sections 115, 131, 135, and 157” and inserting “sections 131 and 135”. See 2011 Amendment note below.</i>
 
 #### Historical and Revision Notes
 
@@ -81,6 +109,34 @@ The corresponding section of existing statute is divided into an introductory se
 The parts of the application are specified and the requirement for signature is placed in this general section so as to insure that only one signature will suffice.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (a)(2)(A). Pub. L. 112–29, §20(j), struck out “of this title” after “112”.
+
+Subsec. (a)(2)(B). Pub. L. 112–29, §20(j), struck out “of this title” after “113”.
+
+Subsec. (a)(2)(C). Pub. L. 112–29, §20(j), struck out “of this title” after “115”.
+
+Pub. L. 112–29, §4(a)(3)(A), substituted “or declaration” for “by the applicant”.
+
+Subsec. (a)(3). Pub. L. 112–29, §4(a)(3)(B), (C), inserted “or declaration” after “and oath” in heading and text.
+
+Subsec. (a)(4). Pub. L. 112–29, §4(a)(3)(C), inserted “or declaration” after “and oath” in two places.
+
+Subsec. (b)(1)(A). Pub. L. 112–29, §4(d)(1), substituted “section 112(a)” for “the first paragraph of section 112 of this title”.
+
+Subsec. (b)(1)(B). Pub. L. 112–29, §20(j), struck out “of this title” after “113”.
+
+Subsec. (b)(2). Pub. L. 112–29, §4(d)(2), substituted “subsections (b) through (e) of section 112,” for “the second through fifth paragraphs of section 112,”.
+
+Subsec. (b)(5). Pub. L. 112–29, §20(j), struck out “of this title” after “119(e)(3)”.
+
+Subsec. (b)(6). Pub. L. 112–29, §20(j), struck out “of this title” after “119(e)”.
+
+Subsec. (b)(7). Pub. L. 112–29, §20(j), struck out “of this title” after “365(a)” and after “365(c)”.
+
+Subsec. (b)(8). Pub. L. 112–29, §20(j), struck out “of this title” before period at end.
+
+Pub. L. 112–29, §3(e)(2), substituted “sections 131 and 135” for “sections 115, 131, 135, and 157”.
 
 <b>2002</b>—Subsecs. (a)(1), (3), (4), (b)(1), (3)(B), (C), (6). Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\]. See 1999 Amendment notes below.
 
@@ -93,6 +149,14 @@ Subsec. (b)(6). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], 
 <b>1994</b>—Pub. L. 103–465 amended section generally. Prior to amendment, section read as follows: “Application for patent shall be made, or authorized to be made, by the inventor, except as otherwise provided in this title, in writing to the Commissioner. Such application shall include (1) a specification as prescribed by section 112 of this title; (2) a drawing as prescribed by section 113 of this title; and (3) an oath by the applicant as prescribed by section 115 of this title. The application must be accompanied by the fee required by law. The fee and oath may be submitted after the specification and any required drawing are submitted, within such period and under such conditions, including the payment of a surcharge, as may be prescribed by the Commissioner. Upon failure to submit the fee and oath within such prescribed period, the application shall be regarded as abandoned, unless it is shown to the satisfaction of the Commissioner that the delay in submitting the fee and oath was unavoidable. The filing date of an application shall be the date on which the specification and any required drawing are received in the Patent and Trademark Office.”
 
 <b>1982</b>—Pub. L. 97–247 inserted “, or authorized to be made,” after “shall be made”, struck out the colon after “shall include”, struck out “signed by the applicant and” after “The application”, and inserted provisions that the fee and oath may be submitted after the specification and any required drawing are submitted, within such period and under such conditions, including the payment of a surcharge, as may be prescribed by the Commissioner, that upon failure to submit the fee and oath within such prescribed period, the application shall be regarded as abandoned, unless it is shown to the satisfaction of the Commissioner that the delay in submitting the fee and oath was unavoidable, and that the filing date of an application shall be the date on which the specification and any required drawing are received in the Patent and Trademark Office.
+
+#### Effective Date of 2011 Amendment
+
+Pub. L. 112–29, §3(e)(3), Sept. 16, 2011, 125 Stat. 288, provided that: “The amendments made by this subsection \[amending this section and repealing section 157 of this title\] shall take effect upon the expiration of the 18-month period beginning on the date of the enactment of this Act \[Sept. 16, 2011\], and shall apply to any request for a statutory invention registration filed on or after that effective date.”
+
+Pub. L. 112–29, §4(e), Sept. 16, 2011, 125 Stat. 297, provided that: “The amendments made by this section \[amending this section and sections 112, 115, 118, 121, and 251 of this title\] shall take effect upon the expiration of the 1-year period beginning on the date of the enactment of this Act \[Sept. 16, 2011\] and shall apply to any patent application that is filed on or after that effective date.”
+
+Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(<i>l</i>) of Pub. L. 112–29, set out as a note under section 2 of this title.
 
 #### Effective Date of 1999 Amendment
 

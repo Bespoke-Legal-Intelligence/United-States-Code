@@ -38,7 +38,7 @@ Debt cancellation under the modifications to the Enhanced HIPC Initiative descri
 
 #### (c) Conditions
 
-A country shall not be eligible for cancellation of debt under modifications to the EnhancedHIPC Initiative described in subsection (a) of this section if the government of the country—
+A country shall not be eligible for cancellation of debt under modifications to the Enhanced HIPC Initiative described in subsection (a) of this section if the government of the country—
 
 &emsp;(1) has an excessive level of military expenditures;
 

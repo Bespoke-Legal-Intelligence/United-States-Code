@@ -2,7 +2,7 @@
 
 (a)
 
-General.—(1) The Secretary of Transportation by regulation shall prescribe a vehicle theft prevention standard that conforms to the requirements of this chapter. The standard shall apply to—
+General.—(1) The Secretary of Transportation by regulation shall prescribe a vehicletheft prevention standard that conforms to the requirements of this chapter. The standard shall apply to—
 
 &emsp;(A) covered major parts that manufacturers install in passenger motor vehicles in lines designated under section 33104 of this title as high theft lines; and
 

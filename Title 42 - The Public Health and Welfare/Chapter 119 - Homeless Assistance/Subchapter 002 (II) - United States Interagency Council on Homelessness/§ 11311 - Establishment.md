@@ -12,5 +12,5 @@ There is established in the executive branch an independent establishment to be 
 
 #### Effective Date of 2009 Amendment
 
-Pub. L. 111–22, div. B, §1004(b), May 20, 2009, 123 Stat. 1668, provided that: “The amendments made by subsection (a) \[enacting section 11318 of this title, amending this section and sections 11312, 11313, and 11315 of this title, and repealing former section 11318 of this title\] shall take effect on, and shall apply beginning on, the date of the enactment of this division \[May 20, 2009\].”
+Pub. L. 111–22, div. B, §1004(b), May 20, 2009, 123 Stat. 1668, provided that: “The amendments made by subsection (a) \[enacting section 11318 of this title, amending this section and sections 11312, 11313, and 11315 of this title, and repealing former section 11318 of this title\] shall take effect on, and shall apply beginning on,the date of the enactment of this division \[May 20, 2009\].”
 

@@ -29,7 +29,7 @@ Each report required by this section shall be submitted, in the case of CBO, to 
 
 #### (2) Discretionary sequestration report
 
-&emsp;The preview reports shall set forth estimates for the current year and each subsequent year through 2002 of the applicable discretionary spending limits for each category and an explanation of any adjustments in such limits under section 901 of this title.
+&emsp;The preview reports shall set forth estimates for the current year and each subsequent year through 2021 of the applicable discretionary spending limits for each category and an explanation of any adjustments in such limits under section 901 of this title.
 
 #### (3) Pay-as-you-go sequestration reports
 
@@ -67,7 +67,7 @@ On or before the date specified in subsection (a) of this section, the President
 
 #### (e) Sequestration update reports
 
-On the dates specified in subsection (a) of this section, OMB and CBO shall issue a sequestration update report, reflecting laws enacted through those dates, containing all of the information required in the sequestration preview reports.
+On the dates specified in subsection (a) of this section, OMB and CBO shall issue a sequestration update report, reflecting laws enacted through those dates, containing all of the information required in the sequestration preview reports. This report shall also contain a preview estimate of the adjustment for disaster funding for the upcoming fiscal year.
 
 #### (f) Final sequestration reports
 
@@ -79,7 +79,7 @@ On the dates specified in subsection (a) of this section, OMB and CBO shall issu
 
 &emsp;The final reports shall set forth estimates for each of the following:
 
-&emsp;&emsp;(A) For the current year and each subsequent year through 2002 the applicable discretionary spending limits for each category and an explanation of any adjustments in such limits under section 901 of this title.
+&emsp;&emsp;(A) For the current year and each subsequent year through 2021 the applicable discretionary spending limits for each category and an explanation of any adjustments in such limits under section 901 of this title, including a final estimate of the adjustment for disaster funding.
 
 &emsp;&emsp;(B) For the current year and the budget year the estimated new budget authority and outlays for each category and the breach, if any, in each category.
 
@@ -105,7 +105,7 @@ If an appropriation for a fiscal year in progress is enacted (after Congress adj
 
 #### (h) GAO compliance report
 
-Upon request of the Committee on the Budget of the House of Representatives or the Senate, the Comptroller General shall submit to the Congress and the President a report on—
+Upon request of the Committee on the Budget of the House of Representatives or the Senate,the Comptroller General shall submit to the Congress and the President a report on—
 
 &emsp;(1) the extent to which each order issued by the President under this section complies with all of the requirements contained in this subchapter, either certifying that the order fully and accurately complies with such requirements or indicating the respects in which it does not; and
 
@@ -123,11 +123,7 @@ At any time, CBO shall notify the Congress if—
 
 In all reports required by this section, OMB shall use the same economic and technical assumptions as used in the most recent budget submitted by the President under section 1105(a) of title 31.
 
-(Pub. L. 99–177, title II, §254, Dec. 12, 1985, 99 Stat. 1078; Pub. L. 100–119, title I, §§102(b)(1), 106(e)(2), Sept. 29, 1987, 101 Stat. 773, 781; Pub. L. 101–508, title XIII, §13101(a), Nov. 5, 1990, 104 Stat. 1388–586; Pub. L. 103–66, title XIV, §§14002(c)(2), 14003(b), Aug. 10, 1993, 107 Stat. 684, 685; Pub. L. 103–322, title XXXI, §310001(g)(2), Sept. 13, 1994, 108 Stat. 2105; Pub. L. 104–316, title I, §102(d), Oct. 19, 1996, 110 Stat. 3828; Pub. L. 105–33, title X, §10206, Aug. 5, 1997, 111 Stat. 704.)
-
-#### Termination of Section
-
-<i>Section expired Sept. 30, 2006. See section 275(b) of Pub. L. 99–177, as amended, set out as</i><i>an Effective and Termination Dates note under section 900 of this title.</i>
+(Pub. L. 99–177, title II, §254, Dec. 12, 1985, 99 Stat. 1078; Pub. L. 100–119, title I, §§102(b)(1), 106(e)(2), Sept. 29, 1987, 101 Stat. 773, 781; Pub. L. 101–508, title XIII, §13101(a), Nov. 5, 1990, 104 Stat. 1388–586; Pub. L. 103–66, title XIV, §§14002(c)(2), 14003(b), Aug. 10, 1993, 107 Stat. 684, 685; Pub. L. 103–322, title XXXI, §310001(g)(2), Sept. 13, 1994, 108 Stat. 2105; Pub. L. 104–316, title I, §102(d), Oct. 19, 1996, 110 Stat. 3828; Pub. L. 105–33, title X, §10206, Aug. 5, 1997, 111 Stat. 704; Pub. L. 112–25, title I, §103, Aug. 2, 2011, 125 Stat. 246.)
 
 #### Codification
 
@@ -135,7 +131,13 @@ November 5, 1990, referred to in subsec. (c)(3)(B), was in the original “the d
 
 #### Amendments
 
-1997—Subsec. (c). Pub. L. 105–33, §10206(1), (2), redesignated subsec. (d) as (c), substituted “2002” for “1998” in par. (2), and struck out heading and text of former subsec. (c). Text read as follows: “With respect to budget year 1994 or 1995, on the date specified in subsection (a) of this section the President shall notify the House of Representatives and the Senate of his decision regarding the optional adjustment of the maximum deficit amount (as allowed under section 903(g)(1)(B) of this title).”
+<b>2011</b>—Subsec. (c)(2). Pub. L. 112–25, §103(1), substituted “2021” for “2002”.
+
+Subsec. (e). Pub. L. 112–25, §103(2), added “This report shall also contain a preview estimate of the adjustment for disaster funding for the upcoming fiscal year.” at end.
+
+Subsec. (f)(2)(A). Pub. L. 112–25, §103(3), substituted “2021” for “2002” and inserted “, including a final estimate of the adjustment for disaster funding” before period at end.
+
+<b>1997</b>—Subsec. (c). Pub. L. 105–33, §10206(1), (2), redesignated subsec. (d) as (c), substituted “2002” for “1998” in par. (2), and struck out heading and text of former subsec. (c). Text read as follows: “With respect to budget year 1994 or 1995, on the date specified in subsection (a) of this section the President shall notify the House of Representatives and the Senate of his decision regarding the optional adjustment of the maximum deficit amount (as allowed under section 903(g)(1)(B) of this title).”
 
 Subsec. (d). Pub. L. 105–33, §10206(1), (3), redesignated subsec. (e) as (d) and substituted “section 905(f)” for “section 905(h)”. Former subsec. (d) redesignated (c).
 
@@ -157,23 +159,27 @@ Subsec. (g). Pub. L. 105–33, §10206(1), (5), redesignated subsec. (h) as (g) 
 
 Subsecs. (h) to (k). Pub. L. 105–33, §10206(1), redesignated subsecs. (i) to (k) as (h) to (j), respectively. Former subsec. (h) redesignated (g).
 
-1996—Subsec. (a). Pub. L. 104–316, §102(d)(1), struck out item at end of timetable relating to GAO compliance report.
+<b>1996</b>—Subsec. (a). Pub. L. 104–316, §102(d)(1), struck out item at end of timetable relating to GAO compliance report.
 
 Subsec. (i). Pub. L. 104–316, §102(d)(2), in introductory provisions substituted “Upon request of the Committee on the Budget of the House of Representatives or the Senate” for “On the date specified in subsection (a) of this section”.
 
-1994—Subsec. (g)(4) to (6). Pub. L. 103–322 added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
+<b>1994</b>—Subsec. (g)(4) to (6). Pub. L. 103–322 added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
 
-1993—Subsecs. (d)(2), (g)(2)(A), (3). Pub. L. 103–66 substituted “1998” for “1995”.
+<b>1993</b>—Subsecs. (d)(2), (g)(2)(A), (3). Pub. L. 103–66 substituted “1998” for “1995”.
 
-1990—Pub. L. 101–508 amended section generally, substituting provisions setting out timetable and requisite content of reports and orders developed as part of sequestration process for former provisions relating to special Congressional procedures in the event of recession, Congressional responses to Presidential orders, and treatment of certain resolutions as reconciliation bills.
+<b>1990</b>—Pub. L. 101–508 amended section generally, substituting provisions setting out timetable and requisite content of reports and orders developed as part of sequestration process for former provisions relating to special Congressional procedures in the event of recession, Congressional responses to Presidential orders, and treatment of certain resolutions as reconciliation bills.
 
-1987—Subsec. (b)(1)(A). Pub. L. 100–119, §102(b)(1), substituted “the Director of OMB” for “the Comptroller General”.
+<b>1987</b>—Subsec. (b)(1)(A). Pub. L. 100–119, §102(b)(1), substituted “the Director of OMB” for “the Comptroller General”.
 
 Subsec. (b)(1)(E). Pub. L. 100–119, §106(e)(2), inserted provisions relating to maximum deficit amount for fiscal year 1988 or 1989.
 
+#### Congressional Budget Office Excepted From Certain Requirements
+
+Subsections (c), (f)(3), and (i) of this section inapplicable to the Congressional Budget Office, see section 104(b) of Pub. L. 112–25, set out as a note under section 902 of this title.
+
 #### Fiscal Year Deficit Control Measures
 
-1991—Pub. L. 102–27, title IV, §401(b), Apr. 10, 1991, 105 Stat. 154, provided that: “Upon the enactment of this Act \[Apr. 10, 1991\], the order issued by the President on November 9, 1990 \[set out below\], pursuant to sections 251 and 254 of the Balanced Budget and Emergency Deficit Control Act of 1985, as amended, \[2 U.S.C. 901, 904\] is hereby rescinded. Any action taken to implement this order shall be reversed, and any sequestrable resource that has been reduced or sequestered by such order is hereby restored, revived, or released and shall be available to the same extent and for the same purpose as if the order had not been issued.”
+<b>1991</b>—Pub. L. 102–27, title IV, §401(b), Apr. 10, 1991, 105 Stat. 154, provided that: “Upon the enactment of this Act \[Apr. 10, 1991\], the order issued by the President on November 9, 1990 \[set out below\], pursuant to sections251 and 254 of the Balanced Budget and Emergency Deficit Control Act of 1985, as amended, \[2 U.S.C. 901, 904\] is hereby rescinded. Any action taken to implement this order shall be reversed, and any sequestrable resource that has been reduced or sequestered by such order is hereby restored, revived, or released and shall be available to the same extent and for the same purpose as if the order had not been issued.”
 
 Section 13401 of Pub. L. 101–508 provided that:
 
@@ -243,7 +249,7 @@ By the authority vested in me as President by the statutes of the United States 
 
 (2) The following are sequestered as provided in section 252: new budget authority; unobligated balances; new loan guarantee commitments or limitations; new direct loan obligations, commitments, or limitations; spending authority as defined in section 401(c)(2) of the Congressional Budget Act of 1974, as amended \[2 U.S.C. 651(c)(2)\]; and obligation limitations.
 
-(3) For accounts making payments otherwise required by substantive law, the head of each Department or agency is directed to modify the calculation of each such payment to the extent necessary to reduce the estimate of total required payments for the fiscal year by the amount specified by the Director of the Office of Management and Budget in his report of October 15, 1990.
+(3) For accounts making payments otherwise required by substantive law, the head of each Department or agency is directed to modify the calculation of each such payment to the extent necessary to reduce the estimate of total required payments for the fiscal year by the amount specified by the Director of the Office ofManagement and Budget in his report of October 15, 1990.
 
 (4) For accounts making commitments for guaranteed loans as authorized by substantive law, the head of each Department or agency is directed to reduce the level of such commitments or obligations to the extent necessary to conform to the limitations established by the Act and specified by the Director of the Office of Management and Budget in his report of October 15, 1990.
 
@@ -257,11 +263,11 @@ George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Initial Order of the President of the United States, Aug. 25, 1990, 55 F.R. 35133, which provided emergency deficit control measures for fiscal year 1991, was superseded by Final Order of the President, Oct. 15, 1990, 55 F.R. 41977, set out above.
 
-1990—Pub. L. 101–239, title VI, §6001, Dec. 19, 1989, 103 Stat. 2139, provided that: “Notwithstanding any other provision of law (including section 11002 \[set out below\] or any other provision of this Act, other than section 6201 \[set out below\]), the reductions in the amount of payments required under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] made by the final sequester order issued by the President on October 16, 1989 \[set out below\], pursuant to section 252(b) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 902(b)\] shall continue to be effective (as provided by sections 252(a)(4)(B) and 256(d)(2) of such Act \[2 U.S.C. 902(a)(4)(B), 906(d)(2)\]) through December 31, 1989, with respect to payments for items and services under part A of such title \[42 U.S.C. 1395c et seq.\] (including payments under section 1886 of such title \[42 U.S.C. 1395ww\] attributable or allocated to such part). Each such payment made for items and services provided during fiscal year 1990 after such date shall be increased by 1.42 percent above what it would otherwise be under this Act.”
+<b>1990</b>—Pub. L. 101–239, title VI, §6001, Dec. 19, 1989, 103 Stat. 2139, provided that: “Notwithstanding any other provision of law (including section 11002 \[set out below\] or any other provision of this Act, other than section 6201 \[set out below\]), the reductions in the amount of payments required under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] made by the final sequester order issued by the President on October 16, 1989 \[set out below\], pursuant to section 252(b) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 902(b)\] shall continue to be effective (as provided by sections 252(a)(4)(B) and 256(d)(2) of such Act \[2 U.S.C. 902(a)(4)(B), 906(d)(2)\]) through December 31, 1989, with respect to payments for items and services under part A of such title \[42 U.S.C. 1395c et seq.\] (including payments under section 1886 of such title \[42 U.S.C. 1395ww\] attributable or allocated to such part). Each such payment made for items and services provided during fiscal year 1990 after such date shall be increased by 1.42 percent above what it would otherwise be under this Act.”
 
 Pub. L. 101–239, title VI, §6101, Dec. 19, 1989, 103 Stat. 2168, provided that: “Notwithstanding any other provision of law (including any other provision of this Act, other than section 6201 \[set out below\]), the reductions in the amount of payments required under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] made by the final sequester order issued by the President on October 16, 1989, pursuant to section 252(b) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 902(b)\] shall continue to be effective (as provided by sections 252(a)(4)(B) and 256(d)(2) of such Act \[2 U.S.C. 902(a)(4)(B), 906(d)(2)\]) through March 31, 1990, with respect to payments for items and services under part B of such title \[42 U.S.C. 1395j et seq.\].”
 
-Pub. L. 101–239, title VI, §6201, Dec. 19, 1989, 103 Stat. 2225, provided that: “Notwithstanding any other provision of law (including section 11002 \[set out below\] or any other provision of this Act), the reductions in the amount of payments required under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] made by the final sequester order issued by the President on October 16, 1989 \[set out below\], pursuant to section 252(b) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 902(b)\] shall continue to be effective (as provided by sections 252(a)(4)(B) and 256(d)(2) of such Act \[2 U.S.C. 902(a)(4)(B), 906(d)(2)\]) through December 31, 1989, with respect to payments under section 1833(a)(1)(A) or 1876 of the Social Security Act \[42 U.S.C. 1395<i>l</i>(a)(1)(A), 1395mm\], section 402 of the Social Security Amendments of 1967 \[section 402 of Pub. L. 90–248, enacting 42 U.S.C. 1395b–1, and amending 42 U.S.C. 1395<i>ll</i>\], or section 222 of the Social Security Amendments of 1972 \[section 222 of Pub. L. 92–603,amending 42 U.S.C. 1395b–1 and enacting provisions set out as a note under 42 U.S.C. 1395b–1\]. Each such payment made during fiscal year 1990 after such date shall be increased by 1.42 percent above what it would otherwise be under this Act.”
+Pub. L. 101–239, title VI, §6201, Dec. 19, 1989, 103 Stat. 2225, provided that: “Notwithstanding any other provision of law (including section 11002 \[set out below\] or any other provision of this Act), the reductions in the amount of payments required under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] made by the final sequester order issued by the President on October 16, 1989 \[set out below\], pursuant to section 252(b) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 902(b)\] shall continue to be effective (as provided by sections 252(a)(4)(B) and 256(d)(2) of such Act \[2 U.S.C. 902(a)(4)(B), 906(d)(2)\]) through December 31, 1989, with respect to payments under section 1833(a)(1)(A) or 1876 of the Social Security Act \[42 U.S.C. 1395<i>l</i>(a)(1)(A), 1395mm\], section 402 of the Social Security Amendments of 1967 \[section 402 of Pub. L. 90–248, enacting 42 U.S.C. 1395b–1, and amending 42 U.S.C. 1395<i>ll</i>\], or section 222 of the Social Security Amendments of 1972 \[section 222 of Pub. L. 92–603, amending 42 U.S.C. 1395b–1 and enacting provisions set out as a note under 42 U.S.C. 1395b–1\]. Each such payment made during fiscal year 1990 after such date shall be increased by 1.42 percent above what it would otherwise be under this Act.”
 
 Pub. L. 101–239, title XI, §11002, Dec. 19, 1989, 103 Stat. 2490, provided that:
 
@@ -291,7 +297,7 @@ Compliance Report by Comptroller General.—Before the close of the thirtieth da
 
 “(d)
 
-No Double Reduction in Medicare.—With respect to items and services described in section 6001, 6101, or 6201 \[set out above\] for periods for which reductions are made pursuant to the respective sections, no reduction shall be made under subsection (b).”
+No Double Reduction in Medicare.—With respect to items and services described in section 6001,6101, or 6201 \[set out above\] for periods for which reductions are made pursuant to the respective sections, no reduction shall be made under subsection (b).”
 
 New Final Order of the President of the United States, Dec. 27, 1989, 54 F.R. 53469, provided:
 
@@ -317,11 +323,11 @@ Final Order of the President of the United States, Oct. 16, 1989, 54 F.R. 42795,
 
 Initial Order of the President of the United States, Aug. 25, 1989, 54 F.R. 35627, which provided emergency deficit control measures for fiscal year 1990, was superseded by Final Order of the President, Oct. 16, 1989, 54 F.R. 42795.
 
-1989—Final Order of the President of the United States, Oct. 15, 1988, 53 F.R. 40696.
+<b>1989</b>—Final Order of the President of the United States, Oct. 15, 1988, 53 F.R. 40696.
 
 Initial Order of the President of the United States, Aug. 25, 1988, 53 F.R. 32881.
 
-1988—Pub. L. 100–203, title IV, §§4001, 4041(b), 4061, title VIII, §8002, Dec. 22, 1987, 101 Stat. 1330–42, 1330–84, 1330–100, 1330–281.
+<b>1988</b>—Pub. L. 100–203, title IV, §§4001, 4041(b), 4061, title VIII, §8002, Dec. 22, 1987, 101 Stat. 1330–42, 1330–84, 1330–100, 1330–281.
 
 Pub. L. 100–202, §1, Dec. 22, 1987, 101 Stat. 1329.
 
@@ -329,7 +335,7 @@ Order of the President of the United States, Nov. 20, 1987, 52 F.R. 44960.
 
 Order of the President of the United States, Oct. 20, 1987, 52 F.R. 39205.
 
-1986—Pub. L. 99–366, July 31, 1986, 100 Stat. 773.
+<b>1986</b>—Pub. L. 99–366, July 31, 1986, 100 Stat. 773.
 
 Pub. L. 99–349, title II, §202, July 2, 1986, 100 Stat. 748.
 

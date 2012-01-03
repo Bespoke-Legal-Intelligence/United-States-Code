@@ -52,9 +52,9 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### Amendments
 
-1996—Subsec. (b)(1)(C). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Doorkeeper”.
+<b>1996</b>—Subsec. (b)(1)(C). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Doorkeeper”.
 
-1995—Subsec. (b)(1). Pub. L. 104–53 substituted “Chief Administrative Officer, and the Inspector General” for “Doorkeeper, and the Postmaster”.
+<b>1995</b>—Subsec. (b)(1). Pub. L. 104–53 substituted “Chief Administrative Officer, and the Inspector General” for “Doorkeeper, and the Postmaster”.
 
 Subsec. (c). Pub. L. 104–53 substituted “Chief Administrative Officer, and the Inspector General” for “Doorkeeper, and the Postmaster,”.
 

@@ -108,7 +108,7 @@ Subsec. (b)(3). Pub. L. 97–409, §3, substituted “who is compensated at or a
 
 Subsec. (b)(4), (5). Pub. L. 97–409, §3, redesignated as par. (5) “the Director of Central Intelligence” and all that followed through end of par. (4). Former par. (5) redesignated (6).
 
-Subsec. (b)(6). Pub. L. 97–409, §3, redesignated former par. (5) as (6) and substituted “through (5) of this subsection during the period consisting of the incumbency of the President such individual serves plus one year after such incumbency, but in no event longer than two years after the individual leaves office;” for “through (4) of this subsection during the incumbency of the President or during the period the last preceding President held office, if such preceding President was of thesame political party as the incumbent President; and”. Former par. (6) redesignated (8).
+Subsec. (b)(6). Pub. L. 97–409, §3, redesignated former par. (5) as (6) and substituted “through (5) of this subsection during the period consisting of the incumbency of the President such individual serves plus one year after such incumbency, but in no event longer than two years after the individual leaves office;” for “through (4) of this subsection during the incumbency of the President or during the period the last preceding President held office, if such preceding President was of the same political party as the incumbent President; and”. Former par. (6) redesignated (8).
 
 Subsec. (b)(7). Pub. L. 97–409, §3, added par. (7).
 
@@ -154,7 +154,7 @@ Reporting Requirements.—No amendment made by this Act that establishes or modi
 
 “(h)
 
-Regulatory Independent Counsel.—Notwithstanding the restriction in section 593(b)(2) of title 28, United States Code, the division of the court described in section 49 of that title may appoint as an independent counsel any individual who, on the date of enactment of this Act, is serving as a regulatory independent counsel under parts 600 and 603 of title 28, Code of Federal Regulations. If such an individual is so appointed, such an independent counsel shall comply with chapter 40 of title 28, United States Code, as amended by this Act, in the same manner and to the same extent as an independent counsel appointed before the date of enactment of this Act is required to comply with that chapter, except that subsection (f) of this section shall not apply to such an independent counsel.
+Regulatory Independent Counsel.—Notwithstanding the restriction in section 593(b)(2) of title 28, United States Code, the division of the court described in section 49 of that title may appoint as an independent counsel any individual who, on the date of enactment of this Act, is serving as a regulatory independentcounsel under parts 600 and 603 of title 28, Code of Federal Regulations. If such an individual is so appointed, such an independent counsel shall comply with chapter 40 of title 28, United States Code, as amended by this Act, in the same manner and to the same extent as an independent counsel appointed before the date of enactment of this Act is required to comply with that chapter, except that subsection (f) of this section shall not apply to such an independent counsel.
 
 “(i)
 

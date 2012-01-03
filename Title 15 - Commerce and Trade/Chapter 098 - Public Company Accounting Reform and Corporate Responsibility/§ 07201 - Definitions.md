@@ -40,7 +40,7 @@ Except as otherwise specifically provided in this Act, in this Act, the followin
 
 #### (7) Issuer
 
-&emsp;The term “issuer” means an issuer (as defined in section 78c of this title), the securities of which are registered under section 78<i>l</i> of this title, or that is required to file reports under section 78<i>o</i>(d) of this title, or that files or has filed a registration statement that has not yet become effective under the Securities Act of 1933 (15 U.S.C. 77a et seq.), and that it has not withdrawn.
+&emsp;The term “issuer” means an issuer (as defined in section 78c of this title), the securitiesof which are registered under section 78<i>l</i> of this title, or that is required to file reports under section 78<i>o</i>(d) of this title, or that files or has filed a registration statement that has not yet become effective under the Securities Act of 1933 (15 U.S.C. 77a et seq.), and that it has not withdrawn.
 
 #### (8) Non-audit services
 
@@ -110,7 +110,7 @@ Except as otherwise specifically provided in this Act, in this Act, the followin
 
 #### (15) Securities laws
 
-&emsp;The term “securities laws” means the provisions of law referred to in section 78c(a)(47) of this title and includes the rules, regulations, and orders issued by the Commission thereunder.
+&emsp;The term “securities laws” means the provisions of law referred to in section 78c(a)(47) of this title and includes the rules, regulations,and orders issued by the Commission thereunder.
 
 #### (16) State
 

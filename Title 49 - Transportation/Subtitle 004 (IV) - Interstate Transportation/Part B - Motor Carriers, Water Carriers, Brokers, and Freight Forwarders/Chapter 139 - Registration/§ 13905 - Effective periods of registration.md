@@ -10,7 +10,7 @@ Person Registered With Secretary.—
 
 &emsp;(1)
 
-In general.—Except as provided in paragraph (2), any person having registered with the Secretary to provide transportation orservice as a motor carrier or motor private carrier under this title, as in effect on January 1, 2005, but not having registered pursuant to section 13902(a), shall be treated, for purposes of this part, to be registered to provide such transportation or service for purposes of sections 13908 and 14504a.
+In general.—Except as provided in paragraph (2), any person having registered with the Secretary to provide transportation or service as a motor carrier or motor private carrier under this title, as in effect on January 1, 2005, but not having registered pursuant to section 13902(a), shall be treated, for purposes of this part, to be registered to provide such transportation or service for purposes of sections 13908 and 14504a.
 
 &emsp;(2)
 
@@ -18,7 +18,7 @@ Exclusively intrastate operators.—Paragraph (1) does not apply to a motor carr
 
 (c)
 
-In General.—Except as otherwise provided in this part, each registration issued under section 13902, 13903, or 13904 shall be effective from the date specified by the Secretary and shall remain in effect for such period as the Secretary determines appropriate by regulation.
+In General.—Except as otherwise provided in this part, each registration issued under section 13902, 13903, or 13904 shall be effective fromthe date specified by the Secretary and shall remain in effect for such period as the Secretary determines appropriate by regulation.
 
 (d)
 
@@ -92,7 +92,7 @@ Subsec. (e)(1). Pub. L. 109–59, §4104(1), added par. (1) and struck out headi
 
 Subsec. (e)(2). Pub. L. 109–59, §4104(2), substituted “shall revoke the registration” for “may suspend a registration”.
 
-Subsec. (e)(3). Pub. L. 109–59, §4104(3), added par. (3) and struck out heading and text of former par. (3). Text read as follows: “The Secretary may suspend under this subsection the registration only after giving notice of the suspension to the registrant. The suspension remains in effect until the registrant complies with those applicable sections or, in the case of a suspension under paragraph (2), until the Secretary revokes such suspension.”
+Subsec. (e)(3). Pub. L. 109–59, §4104(3), added par. (3) and struck out heading and text of former par. (3). Text read as follows: “The Secretary may suspend under this subsection the registration only after giving notice of the suspension to the registrant. The suspension remains in effect until the registrant complies with those applicable sections or, in the case of a suspension underparagraph (2), until the Secretary revokes such suspension.”
 
 Subsec. (f). Pub. L. 109–59, §4303(a)(1), redesignated subsec. (e) as (f).
 

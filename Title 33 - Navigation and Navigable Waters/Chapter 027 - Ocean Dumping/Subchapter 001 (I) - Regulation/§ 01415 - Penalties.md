@@ -50,7 +50,7 @@ If the provisions of any permit issued under section 1412 or 1413 of this title 
 
 (B) In any such suit under this subsection in which the United States is not a party, the Attorney General, at the request of the Administrator or Secretary, may intervene on behalf of the United States as a matter of right.
 
-(4) The court, in issuing any final order in any suit brought pursuant to paragraph (1) of thissubsection may award costs of litigation (including reasonable attorney and expert witness fees) to any party, whenever the court determines such award is appropriate.
+(4) The court, in issuing any final order in any suit brought pursuant to paragraph (1) of this subsection may award costs of litigation (including reasonable attorney and expert witness fees) to any party, whenever the court determines such award is appropriate.
 
 (5) The injunctive relief provided by this subsection shall not restrict any right which any person (or class of persons) may have under any statute or common law to seek enforcement of any standard or limitation or to seek any other relief (including relief against the Administrator, the Secretary, or a State agency).
 
@@ -84,7 +84,7 @@ Section 13 of the Federal Water Pollution Control Act, referred to in subsec. (e
 
 &emsp;“(A) who knowingly violates any provision of this subchapter by engaging in activity involving the dumping into ocean waters of medical waste shall upon conviction be fined not more than $250,000, or imprisoned for not more than 5 years, or both; and
 
-&emsp;“(B) convicted of a violation involving such activity shall forfeit to the United States any property constituting or derived from any proceeds the person obtained, directly or indirectly, as a result of such violation, and any of the property of the person which was used, or intended to be used in any manner or part, to commit or to facilitate the commission of the violation.”
+&emsp;“(B) convicted of a violation involving such activity shall forfeit to the United States any propertyconstituting or derived from any proceeds the person obtained, directly or indirectly, as a result of such violation, and any of the property of the person which was used, or intended to be used in any manner or part, to commit or to facilitate the commission of the violation.”
 
 Subsec. (i). Pub. L. 102–508, §508(b), added subsec. (i).
 

@@ -20,7 +20,7 @@ The provisions of subsections (b) and (c) of section 2279c–1 of this title sha
 
 #### Amendments
 
-1988—Subsec. (a)(4). Pub. L. 100–399, §408(s), substituted “the Farm Credit Banks involved” for “the Farm Credit Bank”.
+<b>1988</b>—Subsec. (a)(4). Pub. L. 100–399, §408(s), substituted “the Farm Credit Banks involved” for “the Farm Credit Bank”.
 
 Subsec. (b). Pub. L. 100–399, §408(t), substituted “subsections (b) and (c)” for “subsections (b), (c), and (d)”.
 

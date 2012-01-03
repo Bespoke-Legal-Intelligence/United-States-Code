@@ -42,7 +42,7 @@ Minimum standards.—Not later than one year after the date of enactment of the 
 
 &emsp;(5)
 
-Existing programs.—Notwithstanding paragraphs (3) and (4), any training program of an air carrier to prepare flight and cabin crew members for potential threat conditions that was approved by the Administrator or the Under Secretary before the date of enactment of the Vision 100—Century of Aviation Reauthorization Act may continue in effect until disapproved or ordered modified by the Under Secretary.
+Existing programs.—Notwithstanding paragraphs (3) and (4), any training program of an air carrier to prepare flight and cabin crew members for potential threat conditions thatwas approved by the Administrator or the Under Secretary before the date of enactment of the Vision 100—Century of Aviation Reauthorization Act may continue in effect until disapproved or ordered modified by the Under Secretary.
 
 &emsp;(6)
 

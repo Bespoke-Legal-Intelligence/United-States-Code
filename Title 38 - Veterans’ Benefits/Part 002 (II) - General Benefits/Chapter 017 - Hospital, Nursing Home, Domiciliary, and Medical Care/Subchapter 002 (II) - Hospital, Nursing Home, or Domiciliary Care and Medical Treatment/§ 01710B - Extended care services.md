@@ -88,7 +88,7 @@ In General.—Commencing not later than 120 days after the date of the enactment
 
 “(b)
 
-Duration of Pilot Program.—The pilot program required by subsection (a) shall be carried outduring the three-year period beginning on the date of the commencement of the pilot program.
+Duration of Pilot Program.—The pilot program required by subsection (a) shall be carried out during the three-year period beginning on the date of the commencement of the pilot program.
 
 “(c)
 

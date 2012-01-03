@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In addition to amounts transferred under section 15304(c) of this title, there are authorized to be appropriated for requirements payments under this subpart the following amounts:
+In addition to amounts transferred under section 15304(c) of this title, there are authorized tobe appropriated for requirements payments under this subpart the following amounts:
 
 &emsp;(1) For fiscal year 2003, $1,400,000,000.
 

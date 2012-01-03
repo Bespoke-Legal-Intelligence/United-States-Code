@@ -106,7 +106,7 @@ The Secretary, in consultation with the Secretary of Energy, shall establish a R
 
 #### (C) Avoidance of duplicative assistance
 
-&emsp;&emsp;An entity shall be ineligible to receive assistance to carry out a feasibility study fora project under this paragraph if the entity has received other Federal or State assistance for a feasibility study for the project.
+&emsp;&emsp;An entity shall be ineligible to receive assistance to carry out a feasibility study for a project under this paragraph if the entity has received other Federal or State assistance for a feasibility study for the project.
 
 #### (4) Limits
 

@@ -16,23 +16,23 @@ The citation “(49 U.S.C. 1301 et seq.)” is substituted for “(ch. 20 of tit
 
 #### Amendments
 
-1996—Pub. L. 104–201 substituted “subchapter II of chapter 22” for “chapter 167”.
+<b>1996</b>—Pub. L. 104–201 substituted “subchapter II of chapter 22” for “chapter 167”.
 
-1994—Pub. L. 103–272 amended last sentence generally, substituting “chapter 167 of title 10 or part A of subtitle VII of title 49” for “the Federal Aviation Act of 1958 (49 App. U.S.C. 1301 et seq.), or by the provisions of chapter 167 of title 10”.
+<b>1994</b>—Pub. L. 103–272 amended last sentence generally, substituting “chapter 167 of title 10 or part A of subtitle VII of title 49” for “the Federal Aviation Act of 1958 (49 App. U.S.C. 1301 et seq.), or by the provisions of chapter 167 of title 10”.
 
-1986—Pub. L. 99–640 substituted “(49 App. U.S.C. 1301 et seq.)” for “, as amended (49 U.S.C. 1301 et seq.)”.
+<b>1986</b>—Pub. L. 99–640 substituted “(49 App. U.S.C. 1301 et seq.)” for “, as amended (49 U.S.C. 1301 et seq.)”.
 
-1982—Pub. L. 97–295 substituted “(49 U.S.C. 1301 et seq.)” for “(ch. 20 of title 49)” and “chapter 167 of title 10” for “sections 7392 and 7394 of title 10”.
+<b>1982</b>—Pub. L. 97–295 substituted “(49 U.S.C. 1301 et seq.)” for “(ch. 20 of title 49)” and “chapter 167 of title 10” for “sections 7392 and 7394 of title 10”.
 
-1976—Pub. L. 94–546, §1(5), substituted “Federal Aviation Administration” for “Federal Aviation Agency” in section catchline.
+<b>1976</b>—Pub. L. 94–546, §1(5), substituted “Federal Aviation Administration” for “Federal Aviation Agency” in section catchline.
 
 Pub. L. 94–546, §1(4), substituted “Federal Aviation Administration” for “Federal Aviation Agency” wherever appearing in first sentence.
 
-1966—Pub. L. 89–662 substituted “granted by the Federal Aviation Act of 1958, as amended (ch. 20 of title 49), or by the provisions of sections 7392 and 7394 of title 10” for “granted by the provisions of section 458 of Title 5, or by section 475(e) of Title 49 or subchapter III of chapter 9 of that title”.
+<b>1966</b>—Pub. L. 89–662 substituted “granted by the Federal Aviation Act of 1958, as amended (ch. 20 of title 49), or by the provisions of sections 7392 and 7394 of title 10” for “granted by the provisions of section 458 of Title 5, or by section 475(e) of Title 49 or subchapter III of chapter 9 of that title”.
 
-1958—Pub. L. 85–726 substituted “Administrator of the Federal Aviation Agency” for “Administrator of Civil Aeronautics”, and “Federal Aviation Agency” for “Civil Aeronautics Administration”.
+<b>1958</b>—Pub. L. 85–726 substituted “Administrator of the Federal Aviation Agency” for “Administrator of Civil Aeronautics”, and “Federal Aviation Agency” for “Civil Aeronautics Administration”.
 
-1954—Act Sept. 3, 1954, substituted “section 175(e) of Title 49 or subchapter III of chapter 9 of that title” for “sections 175(f) or 451 to 458 of Title 49”.
+<b>1954</b>—Act Sept. 3, 1954, substituted “section 175(e) of Title 49 or subchapter III of chapter 9 of that title” for “sections 175(f) or 451 to 458 of Title 49”.
 
 #### Effective Date of 1996 Amendment
 

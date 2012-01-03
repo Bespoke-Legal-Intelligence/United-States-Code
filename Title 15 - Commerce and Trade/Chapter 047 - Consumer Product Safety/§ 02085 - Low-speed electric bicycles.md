@@ -20,7 +20,7 @@ This section shall supersede any State law or requirement with respect to low-sp
 
 #### References in Text
 
-Section 2052(a)(1) of this title, referred to in subsec. (a), was redesignated section 2052(a)(5) of this title byPub. L. 110–314, title II, §235(b)(4), Aug. 14, 2008, 122 Stat. 3074.
+Section 2052(a)(1) of this title, referred to in subsec. (a), was redesignated section 2052(a)(5) of this title by Pub. L. 110–314, title II, §235(b)(4), Aug. 14, 2008, 122 Stat. 3074.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

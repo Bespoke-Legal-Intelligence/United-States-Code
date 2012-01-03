@@ -24,7 +24,7 @@
 
 &emsp;&emsp;&emsp;(ii) an amount of stock in the controlled corporation constituting control within the meaning of section 368(c), and it is established to the satisfaction of the Secretary that the retention by the distributing corporation of stock (or stock and securities) in the controlled corporation was not in pursuance of a plan having as one of its principal purposes the avoidance of Federal income tax,
 
-> &emsp;then no gain or loss shall be recognized to (and no amount shall be includible in the income of) such shareholder or security holder on the receipt of such stock or securities.
+> &emsp;then no gain or loss shall be recognized to (and no amount shall be includible in the incomeof) such shareholder or security holder on the receipt of such stock or securities.
 
 #### (2) Non pro rata distributions, etc.
 
@@ -110,7 +110,7 @@
 
 #### (C) Treatment of trade or business conducted by acquired member
 
-&emsp;&emsp;If a corporation became a member of a separate affiliated group as a result of one ormore transactions in which gain or loss was recognized in whole or in part, any trade or business conducted by such corporation (at the time that such corporation became such a member) shall be treated for purposes of paragraph (2) as acquired in a transaction in which gain or loss was recognized in whole or in part.
+&emsp;&emsp;If a corporation became a member of a separate affiliated group as a result of one or more transactions in which gain or loss was recognized in whole or in part, any trade or business conducted by such corporation (at the time that such corporation became such a member) shall be treated for purposes of paragraph (2) as acquired in a transaction in which gain or loss was recognized in whole or in part.
 
 #### (D) Regulations
 
@@ -380,7 +380,7 @@ Except as provided in regulations, this section (or so much of section 356 as re
 
 &emsp;&emsp;&emsp;(i) in the case of distributions after the end of the 1-year period beginning on the date of the enactment of this subsection, 2/3 or more of the fair market value of all assets of the corporation, and
 
-&emsp;&emsp;&emsp;(ii) in the case of distributions during such 1-year period, 3/4 or more of the fair market value of all assets of the corporation.
+&emsp;&emsp;&emsp;(ii) in the case of distributions during such 1-year period, ¾ or more of the fair market value of all assets of the corporation.
 
 #### (B) Investment assets
 
@@ -558,7 +558,7 @@ Subsec. (d). Pub. L. 101–508, §11321(a), added subsec. (d).
 
 Subsec. (c). Pub. L. 100–647, §1018(d)(5)(C), added subsec. (c).
 
-<b>1987</b>—Subsec. (b)(2)(D). Pub. L. 100–203, §10223(b)(3), inserted at end “For purposes of subparagraph (D), all distributee corporations which are members of the same affiliated group (as defined in section 1504(a) without regard to section 1504(b)) shall be treated as 1 distributee corporation.”
+<b>1987</b>—Subsec. (b)(2)(D). Pub. L. 100–203, §10223(b)(3), inserted at end “For purposes of subparagraph (D), all distributee corporations which are members of the same affiliated group (as defined in section 1504(a)without regard to section 1504(b)) shall be treated as 1 distributee corporation.”
 
 Subsec. (b)(2)(D)(i). Pub. L. 100–203, §10223(b)(1), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “was not acquired directly (or through one or more corporations) by another corporation within the period described in subparagraph (B), or”.
 
@@ -670,13 +670,13 @@ Amendment by section 11702(e)(2) of Pub. L. 101–508 effective as if included i
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 1018(d)(5)(C) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by section 1018(d)(5)(C) of Pub. L. 100–647 effective, except as otherwise provided, as if included inthe provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 Amendment by section 2004(k)(1) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provisions of the Revenue Act of 1987, Pub. L. 100–203, title X, to which such amendment relates, see section 2004(u) of Pub. L. 100–647, set out as a note under section 56 of this title.
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–203 applicable to distributions or transfers after Dec. 15, 1987, with exceptions forcertain distributee corporations and distributions covered by prior transition rule, see section 10223(d) of Pub. L. 100–203, set out as a note under section 304 of this title.
+Amendment by Pub. L. 100–203 applicable to distributions or transfers after Dec. 15, 1987, with exceptions for certain distributee corporations and distributions covered by prior transition rule, see section 10223(d) of Pub. L. 100–203, set out as a note under section 304 of this title.
 
 #### Effective Date of 1980 Amendment
 

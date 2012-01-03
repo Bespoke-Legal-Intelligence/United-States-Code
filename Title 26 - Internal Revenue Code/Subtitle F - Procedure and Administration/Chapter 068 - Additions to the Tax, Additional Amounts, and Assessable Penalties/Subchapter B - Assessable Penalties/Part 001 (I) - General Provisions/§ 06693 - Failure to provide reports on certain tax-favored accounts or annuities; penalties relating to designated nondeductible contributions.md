@@ -60,7 +60,7 @@
 
 Subchapter B of chapter 63 (relating to deficiency procedures for income, estate, gift, and certain excise taxes) does not apply to the assessment or collection of any penalty imposed by this section.
 
-(Added Pub. L. 93–406, title II, §2002(f), Sept. 2, 1974, 88 Stat. 967; amended Pub. L. 96–222, title I, §101(a)(10)(H), Apr. 1, 1980, 94 Stat. 203; Pub. L. 98–369, div. A, title I, §147(b), July 18, 1984, 98 Stat. 687; Pub. L. 99–514, title XI, §1102(d)(1), (2)(A), (B), Oct. 22, 1986, 100 Stat. 2416; Pub. L. 100–647, title I, §1011(b)(4)(A), (B)(i), Nov. 10, 1988, 102 Stat. 3456, 3457; Pub. L. 104–188, title I, §§1421(b)(4)(B), 1455(d)(3), Aug. 20, 1996, 110 Stat. 1796, 1818; Pub. L. 104–191, title III, §301(g), Aug. 21, 1996, 110 Stat. 2052; Pub. L. 105–34, title II, §§211(e)(2)(B), (C), 213(c), title XVI, §§1601(d)(1)(C)(ii), 1602(a)(4), Aug. 5, 1997, 111 Stat. 812, 816, 1087, 1094; Pub. L. 105–277, div. J, title IV, §4006(c)(4), Oct. 21, 1998, 112 Stat. 2681–913; Pub. L. 106–554, §1(a)(7) \[title II,§202(b)(2)(E)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–629; Pub. L. 107–16, title IV, §402(a)(4)(A), June 7, 2001, 115 Stat. 60; Pub. L. 107–22, §1(b)(2)(C), July 26, 2001, 115 Stat. 197; Pub. L. 108–173, title XII, §1201(g), Dec. 8, 2003, 117 Stat. 2479.)
+(Added Pub. L. 93–406, title II, §2002(f), Sept. 2, 1974, 88 Stat. 967; amended Pub. L. 96–222, title I, §101(a)(10)(H), Apr. 1, 1980, 94 Stat. 203; Pub. L. 98–369, div. A, title I, §147(b), July 18, 1984, 98 Stat. 687; Pub. L. 99–514, title XI, §1102(d)(1), (2)(A), (B), Oct. 22, 1986, 100 Stat. 2416; Pub. L. 100–647, title I, §1011(b)(4)(A), (B)(i), Nov. 10, 1988, 102 Stat. 3456, 3457; Pub. L. 104–188, title I, §§1421(b)(4)(B), 1455(d)(3), Aug. 20, 1996, 110 Stat. 1796, 1818; Pub. L. 104–191, title III, §301(g), Aug. 21, 1996, 110 Stat. 2052; Pub. L. 105–34, title II, §§211(e)(2)(B), (C), 213(c), title XVI, §§1601(d)(1)(C)(ii), 1602(a)(4), Aug. 5, 1997, 111 Stat. 812, 816, 1087, 1094; Pub. L. 105–277, div. J, title IV, §4006(c)(4), Oct. 21, 1998, 112 Stat. 2681–913; Pub. L. 106–554, §1(a)(7) \[title II, §202(b)(2)(E)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–629; Pub. L. 107–16, title IV, §402(a)(4)(A), June 7, 2001, 115 Stat. 60; Pub. L. 107–22, §1(b)(2)(C), July 26, 2001, 115 Stat. 197; Pub. L. 108–173, title XII, §1201(g), Dec. 8, 2003, 117 Stat. 2479.)
 
 #### Amendments
 
@@ -126,7 +126,7 @@ Amendment by section 211(e)(2)(B), (C) of Pub. L. 105–34 effective Jan. 1, 199
 
 Amendment by section 213(c) of Pub. L. 105–34 applicable to taxable years beginning after Dec. 31, 1997, see section 213(f) of Pub. L. 105–34, set out as a note under section 26 of this title.
 
-Amendment by section 1601(d)(1)(C)(ii) of Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 36C of this title.
+Amendment by section 1601(d)(1)(C)(ii) of Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 23 of this title.
 
 Amendment by section 1602(a)(4) of Pub. L. 105–34 effective as if included in the provisions of the Health Insurance Portability and Accountability Act of 1996, Pub. L. 104–191, to which such amendment relates, see section 1602(i) of Pub. L. 105–34, set out as a note under section 26 of this title.
 
@@ -152,7 +152,7 @@ Amendment by Pub. L. 98–369 applicable to failures occurring after July 18, 19
 
 #### Effective Date of 1980 Amendment
 
-Section 101(b)(1)(F) of Pub. L. 96–222 provided that: “The amendment made by subparagraph (I) of subsection (a)(10) \[probably means subpar. (H) of subsec.\(a)(10), which amended this section\] shall apply with respect to failures occuring \[sic\] after the date of the enactment of this Act \[Apr. 1, 1980\].”
+Section 101(b)(1)(F) of Pub. L. 96–222 provided that: “The amendment made by subparagraph (I) of subsection (a)(10) \[probably means subpar. (H) of subsec. (a)(10), which amended this section\] shall apply with respect to failures occuring \[sic\] after the date of the enactment of this Act \[Apr. 1, 1980\].”
 
 #### Effective Date
 

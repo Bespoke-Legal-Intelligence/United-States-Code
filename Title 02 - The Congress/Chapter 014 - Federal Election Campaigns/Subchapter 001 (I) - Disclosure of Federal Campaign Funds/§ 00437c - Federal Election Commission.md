@@ -32,7 +32,7 @@
 
 #### (c) Voting requirements; delegation of authorities
 
-All decisions of the Commission with respect to the exercise of its duties and powers under the provisions of this Act shall be made by a majority vote of the members of the Commission. A member of the Commission may not delegate to any person his or her vote or any decisionmaking authority or duty vested in the Commission by the provisions of this Act, except that the affirmative vote of 4 members of the Commission shall be required in order for the Commission to take any action in accordance with paragraph (6), (7), (8), or (9) of section 437d(a) of this title or with chapter 95 or chapter 96 of title 26.
+All decisions of the Commission with respect to the exercise of its duties and powers under the provisions of this Act shall be made by a majority vote of the members of the Commission. A member of the Commission may notdelegate to any person his or her vote or any decisionmaking authority or duty vested in the Commission by the provisions of this Act, except that the affirmative vote of 4 members of the Commission shall be required in order for the Commission to take any action in accordance with paragraph (6), (7), (8), or (9) of section 437d(a) of this title or with chapter 95 or chapter 96 of title 26.
 
 #### (d) Meetings
 
@@ -40,7 +40,7 @@ The Commission shall meet at least once each month and also at the call of any m
 
 #### (e) Rules for conduct of activities; judicial notice of seal; principal office
 
-The Commission shall prepare written rules for the conduct of its activities, shall have anofficial seal which shall be judicially noticed, and shall have its principal office in or near the District of Columbia (but it may meet or exercise any of its powers anywhere in the United States).
+The Commission shall prepare written rules for the conduct of its activities, shall have an official seal which shall be judicially noticed, and shall have its principal office in or near the District of Columbia (but it may meet or exercise any of its powers anywhere in the United States).
 
 #### (f) Staff director and general counsel; appointment and compensation; appointment and compensation of personnel and procurement of intermittent services by staff director; use of assistance, personnel, and facilities of Federal agencies and departments; counsel for defense of actions
 
@@ -64,11 +64,11 @@ A prior section 306 of Pub. L. 92–225 was classified to section 436 of this ti
 
 #### Amendments
 
-1997—Subsec. (a)(2)(A). Pub. L. 105–61 substituted “for a single term of 6 years” for “for terms of 6 years” in introductory provisions.
+<b>1997</b>—Subsec. (a)(2)(A). Pub. L. 105–61 substituted “for a single term of 6 years” for “for terms of 6 years” in introductory provisions.
 
-1986—Subsec. (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsec. (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-1980—Subsec. (a). Pub. L. 96–187, §105(6), in par. (1) inserted “or their designees,” before “ex officio”, and struck out “of the United States” after “President”; in par. (2)(B) inserted “or her” after “his” in two places; in par. (2)(C) inserted “or she” after “he”; in par. (3) struck out “maturity” before “experience”, substituted “and members (other than the Secretary of the Senate and the Clerk of the House of Representatives) shall be individuals who, at the time appointed to the Commission” for “and shall be chosen from among individuals who, at the time of their appointment”, substituted “Such members of the Commission” for “Members of the Commission” and substituted “of his or her appointment to the Commission” for “such individual begins to serve as a member of the Commission”; and in par. (5) substituted “A member may serve as Chairman only once” for “No member may serve as Chairman more often than once”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–187, §105(6), in par. (1) inserted “or their designees,” before “ex officio”, and struck out “of the United States” after “President”; in par. (2)(B) inserted “or her” after “his” in two places; in par. (2)(C) inserted “or she” after “he”; in par. (3) struck out “maturity” before “experience”, substituted “and members (other than the Secretary of the Senate and the Clerk of the House of Representatives) shall be individuals who, at the time appointed to the Commission” for “and shall be chosen from among individuals who, at the time of their appointment”, substituted “Such members of the Commission” for “Members of the Commission” and substituted “of his or her appointment to the Commission” for “such individual begins to serve as a member of the Commission”; and in par. (5) substituted “A member may serve as Chairman only once” for “No member may serve as Chairman more often than once”.
 
 Subsec. (b)(1). Pub. L. 96–187, §105(6), substituted “exclusive jurisdiction” for “exclusive primary jurisdiction”.
 
@@ -78,7 +78,7 @@ Pub. L. 96–187, §112(b), purported to substitute “section 307(a)” for “
 
 Subsec. (f). Pub. L. 96–187, §105(6), in par. (1) inserted “or she” after “as he”; in par. (3) struck out “Government” after “United States”; and added par. (4).
 
-1976—Subsec. (a)(1). Pub. L. 94–283, §101(a), changed provisions covering the appointment and confirmation of the six members of the Commission other than the Secretary of the Senate and the Clerk of the House of Representatives by substituting a requirement that they be appointed by the President of the United States, by and with the advice and consent of the Senate, for a requirement that appointment be made by the President, the President pro tempore of the Senate, and the Speaker of the House, with confirmation by amajority of both Houses of the Congress, and made technical changes in the provisions covering the political affiliation of the six appointees so as to accommodate the changed appointment and confirmation procedures.
+<b>1976</b>—Subsec. (a)(1). Pub. L. 94–283, §101(a), changed provisions covering the appointment and confirmation of the six members of the Commission other than the Secretary of the Senate and the Clerk of the House of Representatives by substituting a requirement that they be appointed by the President of the United States, by and with the advice and consent of the Senate, for a requirement that appointment be made by the President, the President pro tempore of the Senate, and the Speaker of the House, with confirmation by a majority of both Houses of the Congress, and made technical changes in the provisions covering the political affiliation of the six appointees so as to accommodate the changed appointment and confirmation procedures.
 
 Subsec. (a)(2). Pub. L. 94–283, §101(b), provided that members of the Commission serve for terms of 6 years, except that members first appointed serve for staggered terms as designated by the President, and inserted provision that a member may serve on the Commission after the expiration of his term until his successor has taken office as a member of the Commission.
 

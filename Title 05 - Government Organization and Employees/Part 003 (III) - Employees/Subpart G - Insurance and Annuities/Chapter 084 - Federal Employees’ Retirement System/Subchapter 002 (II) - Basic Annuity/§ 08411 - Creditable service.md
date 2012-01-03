@@ -164,37 +164,37 @@ The date of enactment of this subsection, referred to in subsec. (<i>l</i>)(2)(C
 
 #### Amendments
 
-2007—Subsec. (<i>l</i>). Pub. L. 110–81 added subsec. (<i>l</i>).
+<b>2007</b>—Subsec. (<i>l</i>). Pub. L. 110–81 added subsec. (<i>l</i>).
 
-2001—Subsec. (b)(6). Pub. L. 107–107, §1132(b)(1)(A), added par. (6).
+<b>2001</b>—Subsec. (b)(6). Pub. L. 107–107, §1132(b)(1)(A), added par. (6).
 
 Subsec. (k). Pub. L. 107–107, §1132(b)(1)(B), added subsec. (k).
 
-2000—Subsec. (i). Pub. L. 106–554 added subsec. (i) relating to credit for service as congressional employee for certain service before Dec. 31, 1990.
+<b>2000</b>—Subsec. (i). Pub. L. 106–554 added subsec. (i) relating to credit for service as congressional employee for certain service before Dec. 31, 1990.
 
-1999—Subsec. (b). Pub. L. 106–168, §202(a)(1), in par. (3), struck out “and” at end, in par. (4), substituted “other paragraph” for “of the preceding provisions” and “; and” for period at end, and added par. (5) and concluding provisions.
+<b>1999</b>—Subsec. (b). Pub. L. 106–168, §202(a)(1), in par. (3), struck out “and” at end, in par. (4), substituted “other paragraph” for “of the preceding provisions” and “; and” for period at end, and added par. (5) and concluding provisions.
 
 Subsec. (i). Pub. L. 106–168, §202(a)(2), added subsec. (i) defining “Bank Plan” for purposes of subsec. (b)(5).
 
-1996—Subsec. (c)(1). Pub. L. 104–201, §637(b)(2), in introductory provisions, substituted “Except as provided in paragraphs (2), (3), and (5)” for “Except as provided in paragraph (2) or (3)”.
+<b>1996</b>—Subsec. (c)(1). Pub. L. 104–201, §637(b)(2), in introductory provisions, substituted “Except as provided in paragraphs (2), (3), and (5)” for “Except as provided in paragraph (2) or (3)”.
 
 Subsec. (c)(5). Pub. L. 104–201, §637(b)(1), added par. (5).
 
-1994—Subsec. (c)(2)(B). Pub. L. 103–337 substituted “chapter 1223 of title 10 (or under chapter 67 of that title as in effect before the effective date of the Reserve Officer Personnel Management Act)” for “chapter 67 of title 10”.
+<b>1994</b>—Subsec. (c)(2)(B). Pub. L. 103–337 substituted “chapter 1223 of title 10 (or under chapter 67 of that title as in effect before the effective date of the Reserve Officer Personnel Management Act)” for “chapter 67 of title 10”.
 
-1993—Subsec. (b)(3). Pub. L. 103–82, §371(b)(1)(A), substituted “subsection (f) or (h)” for “subsection (f)”.
+<b>1993</b>—Subsec. (b)(3). Pub. L. 103–82, §371(b)(1)(A), substituted “subsection (f) or (h)” for “subsection (f)”.
 
 Subsec. (h). Pub. L. 103–82, §371(b)(1)(B), added subsec. (h).
 
-1991—Subsec. (c)(2)(A)(ii). Pub. L. 102–83 substituted “section 1101 of title 38” for “section 301 of title 38”.
+<b>1991</b>—Subsec. (c)(2)(A)(ii). Pub. L. 102–83 substituted “section 1101 of title 38” for “section 301 of title 38”.
 
 Subsec. (g). Pub. L. 102–242 added subsec. (g).
 
-1988—Subsec. (c)(4)(A). Pub. L. 100–238, §104(b), substituted “section 8422(e)(5)” for “subsection (f)(4)” in concluding provisions.
+<b>1988</b>—Subsec. (c)(4)(A). Pub. L. 100–238, §104(b), substituted “section 8422(e)(5)” for “subsection (f)(4)” in concluding provisions.
 
 Subsec. (f)(1). Pub. L. 100–238, §105(a), inserted at end “A deposit under this paragraph may be made only with respect to a refund received pursuant to an application filed with the Office before the date on which the employee or Member first becomes subject to this chapter.”
 
-1986—Subsec. (b)(2). Pub. L. 99–556, §103(1), inserted “except as provided in subsection (f),”.
+<b>1986</b>—Subsec. (b)(2). Pub. L. 99–556, §103(1), inserted “except as provided in subsection (f),”.
 
 Subsec. (c)(4). Pub. L. 99–556, §502(b), added par. (4).
 

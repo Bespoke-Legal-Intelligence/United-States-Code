@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-There is hereby established the Take Pride in America Program within the Department of theInterior (hereinafter referred to as the “TPIA Program”).
+There is hereby established the Take Pride in America Program within the Department of the Interior (hereinafter referred to as the “TPIA Program”).
 
 #### (b) Purposes
 

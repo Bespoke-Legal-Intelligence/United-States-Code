@@ -18,13 +18,13 @@ Another prior section 314 of Pub. L. 92–225 was renumbered section 309, and is
 
 #### Amendments
 
-1986—Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-1980—Pub. L. 96–253 inserted provisions authorizing appropriations of $9,400,000 for fiscal year ending Sept. 30, 1981.
+<b>1980</b>—Pub. L. 96–253 inserted provisions authorizing appropriations of $9,400,000 for fiscal year ending Sept. 30, 1981.
 
-1977—Pub. L. 95–127 inserted provisions authorizing appropriations of $7,811,500 for fiscal year ending Sept. 30, 1978.
+<b>1977</b>—Pub. L. 95–127 inserted provisions authorizing appropriations of $7,811,500 for fiscal year ending Sept. 30, 1978.
 
-1976—Pub. L. 94–283, §113, inserted provisions authorizing appropriations through fiscal year ending Sept. 30, 1977.
+<b>1976</b>—Pub. L. 94–283, §113, inserted provisions authorizing appropriations through fiscal year ending Sept. 30, 1977.
 
 #### Effective Date
 

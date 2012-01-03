@@ -70,7 +70,7 @@ The Attorney General shall establish a program by which the Department of Justic
 
 &emsp;&emsp;(B) if the borrower is involuntarily separated from employment on account of misconduct, or voluntarily separates from employment, before the end of the period specified in the agreement, the borrower will repay the Attorney General the amount of any benefits received by such employee under this section;
 
-&emsp;&emsp;(C) if the borrower is required to repay an amount to the Attorney General under subparagraph (B) and fails to repay such amount, a sum equal to that amount shall be recoverable by the Federal Government from the employee (or such employee's estate, if applicable) by such methods as areprovided by law for the recovery of amounts owed to the Federal Government;
+&emsp;&emsp;(C) if the borrower is required to repay an amount to the Attorney General under subparagraph (B) and fails to repay such amount, a sum equal to that amount shall be recoverable by the Federal Government from the employee (or such employee's estate, if applicable) by such methods as are provided by law for the recovery of amounts owed to the Federal Government;
 
 &emsp;&emsp;(D) the Attorney General may waive, in whole or in part, a right of recovery under this subsection if it is shown that recovery would be against equity and good conscience or against the public interest; and
 

@@ -24,7 +24,7 @@ The President shall determine whether a country is an eligible country for purpo
 
 #### Amendments
 
-1991—Subsec. (a)(3). Pub. L. 102–237 inserted hyphen between “Inter” and “American”.
+<b>1991</b>—Subsec. (a)(3). Pub. L. 102–237 inserted hyphen between “Inter” and “American”.
 
 #### Delegation of Functions
 

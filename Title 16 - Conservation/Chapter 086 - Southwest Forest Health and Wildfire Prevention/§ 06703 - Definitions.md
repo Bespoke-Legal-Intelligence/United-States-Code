@@ -18,7 +18,7 @@ In this chapter:
 
 #### (B) Clarification
 
-&emsp;&emsp;This paragraph shall not define the term “adaptive ecosystem management” for thepurposes of the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1600 et seq.).
+&emsp;&emsp;This paragraph shall not define the term “adaptive ecosystem management” for the purposes of the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1600 et seq.).
 
 #### (2) Affected entities
 

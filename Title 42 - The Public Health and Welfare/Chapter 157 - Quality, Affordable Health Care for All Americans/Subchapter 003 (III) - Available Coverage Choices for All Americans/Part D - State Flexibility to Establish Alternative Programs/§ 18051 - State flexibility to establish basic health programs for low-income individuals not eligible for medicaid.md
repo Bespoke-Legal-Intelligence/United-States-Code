@@ -120,7 +120,7 @@ In this section, the term “standard heath plan” means a health benefits plan
 
 &emsp;In this section, the term “eligible individual” means, with respect to any State, an individual—
 
-&emsp;&emsp;(A) who a <sup>1</sup> resident of the State who is not eligible to enroll in the State's medicaidprogram under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] for benefits that at a minimum consist of the essential health benefits described in section 18022(b) of this title;
+&emsp;&emsp;(A) who a <sup>1</sup> resident of the State who is not eligible to enroll in the State's medicaid program under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] for benefits that at a minimum consist of the essential health benefits described in section 18022(b) of this title;
 
 &emsp;&emsp;(B) whose household income exceeds 133 percent but does not exceed 200 percent of the poverty line for the size of the family involved, or, in the case of an alien lawfully present in the United States, whose income is not greater than 133 percent of the poverty line for the size of the family involved but who is not eligible for the Medicaid program under title XIX of the Social Security Act by reason of such alien status;
 

@@ -108,7 +108,7 @@ Amendment by section 4003(d) of Pub. L. 105–277 effective as if included in th
 
 #### Effective Date of 1989 Amendment
 
-Section 7841(g)(2) of Pub. L. 101–239 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to fiscal years beginning after September 30, 1989.”
+Section 7841(g)(2) of Pub. L. 101–239 provided that: “The amendment made by paragraph (1) \[amending thissection\] shall apply to fiscal years beginning after September 30, 1989.”
 
 #### Effective Date of 1988 Amendment
 

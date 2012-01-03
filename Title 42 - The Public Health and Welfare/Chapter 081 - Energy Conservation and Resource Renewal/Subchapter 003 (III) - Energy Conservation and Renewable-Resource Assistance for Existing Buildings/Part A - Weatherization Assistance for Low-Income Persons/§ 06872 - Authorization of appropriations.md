@@ -64,7 +64,7 @@ Funding.—
 
 &emsp;“(A)
 
-In general.—Except as provided in paragraph (2), the amount of funds used for projects described in paragraph (1) may equal up to 2 percent of the amount of funds made available for any fiscal year under section 422 of the Energy Conservation and Production Act (42 U.S.C. 6872).
+In general.—Except as provided in paragraph (2), the amount of funds used for projects described inparagraph (1) may equal up to 2 percent of the amount of funds made available for any fiscal year under section 422 of the Energy Conservation and Production Act (42 U.S.C. 6872).
 
 &emsp;“(B)
 

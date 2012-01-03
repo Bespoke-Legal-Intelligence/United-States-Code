@@ -1,6 +1,6 @@
 ### §290cc–21. Formula grants to States
 
-For the purpose of carrying out section 290cc–22 of this title, the Secretary, acting through the Director of the Center for Mental Health Services, shall for each of the fiscal years 1991 through 1994 make an allotment for each State in an amount determined in accordance with section 290cc–24 of this title. The Secretary shall make payments, as grants, each such fiscal year to each State from the allotment for the State if the Secretary approves for the fiscal year involved an application submitted by the State pursuant to section 290cc–29 of this title.
+For the purpose of carrying out section 290cc–22 of this title, the Secretary, actingthrough the Director of the Center for Mental Health Services, shall for each of the fiscal years 1991 through 1994 make an allotment for each State in an amount determined in accordance with section 290cc–24 of this title. The Secretary shall make payments, as grants, each such fiscal year to each State from the allotment for the State if the Secretary approves for the fiscal year involved an application submitted by the State pursuant to section 290cc–29 of this title.
 
 (July 1, 1944, ch. 373, title V, §521, as added Pub. L. 100–77, title VI, §611(3), July 22, 1987, 101 Stat. 516; amended Pub. L. 100–607, title VIII, §813(1), Nov. 4, 1988, 102 Stat. 3170; Pub. L. 100–628, title VI, §613(1), Nov. 7, 1988, 102 Stat. 3243; Pub. L. 101–93, §5(t)(1), Aug. 16, 1989, 103 Stat. 615; Pub. L. 101–645, title V, §511, Nov. 29, 1990, 104 Stat. 4726; Pub. L. 102–321, title I, §§162(1), 163(a)(1), July 10, 1992, 106 Stat. 375; Pub. L. 102–352, §2(b)(2), Aug. 26, 1992, 106 Stat. 939.)
 
@@ -14,7 +14,7 @@ A prior section 521 of act July 1, 1944, was renumbered section 542 by section 6
 
 Pub. L. 102–321, §162(1), substituted “Center for Mental Health Services” for “National Institute of Mental Health”.
 
-<b>1990</b>—Pub. L. 101–645 amended section generally, substituting provisions relating to formula grants toStates for provisions relating to establishment of block grant program for services to homeless individuals who are chronically mentally ill.
+<b>1990</b>—Pub. L. 101–645 amended section generally, substituting provisions relating to formula grants to States for provisions relating to establishment of block grant program for services to homeless individuals who are chronically mentally ill.
 
 <b>1989</b>—Subsec. (a). Pub. L. 101–93 directed that subsec. (a) of this section as similarly amended by title VIII of Pub. L. 100–607 and title VI of Pub. L. 100–628 be amended to read as if the amendments made by title VI of Pub. L. 100–628 had not been enacted. See 1988 Amendment note below.
 

@@ -76,15 +76,15 @@ In subsection (b), the words “in service to America” are inserted after “v
 
 #### References in Text
 
-Part A of subchapter VIII of chapter 34 of title 42, referred to in subsec. (b), is part A of title VIII of Pub. L. 88–452, Aug. 20, 1964, 73 Stat. 508, as amended, known as the Economic Opportunity Act of 1964. Part A of title VIII of that Act, as added by Pub. L. 90–222, title I, §110, Dec. 23, 1967, 81 Stat. 722, was classified generally to part A (§2992 et seq.) of subchapter VIII of chapter 34 of Title 42, The Public Health and Welfare, prior to its repeal by Pub. L. 93–113, title VI, §603, Oct. 1, 1973,87 Stat. 417. See sections 4951 et seq. and 5055 of Title 42.
+Part A of subchapter VIII of chapter 34 of title 42, referred to in subsec. (b), is part A of title VIII of Pub. L. 88–452, Aug. 20, 1964, 73 Stat. 508, as amended, known as the Economic Opportunity Act of 1964. Part A of title VIII of that Act, as added by Pub. L. 90–222, title I, §110, Dec. 23, 1967, 81 Stat. 722, was classified generally to part A (§2992 et seq.) of subchapter VIII of chapter 34 of Title 42, The Public Health and Welfare, prior to its repeal by Pub. L. 93–113, title VI, §603, Oct. 1, 1973, 87 Stat. 417. See sections 4951 et seq. and 5055 of Title 42.
 
 #### Amendments
 
-1993—Subsec. (b). Pub. L. 103–82 substituted “GS–5 of the General Schedule under section 5332 of title 5, United States Code” for “GS–7”.
+<b>1993</b>—Subsec. (b). Pub. L. 103–82 substituted “GS–5 of the General Schedule under section 5332 of title 5, United States Code” for “GS–7”.
 
-1974—Pub. L. 93–416 struck out “, (b)” after “section 8113(a)”.
+<b>1974</b>—Pub. L. 93–416 struck out “, (b)” after “section 8113(a)”.
 
-1968—Pub. L. 90–623 reenacted section in its entirety making minor changes in phraseology.
+<b>1968</b>—Pub. L. 90–623 reenacted section in its entirety making minor changes in phraseology.
 
 #### Effective Date of 1993 Amendment
 

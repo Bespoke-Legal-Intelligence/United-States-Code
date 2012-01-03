@@ -16,7 +16,7 @@ Subject to subsection (h)(2), the Secretary shall make payments under this secti
 
 #### (B) Indirect expense amount
 
-&emsp;&emsp;The amount determined under subsection (d) for indirect expenses associated with theadditional costs relating to teaching residents in such programs.
+&emsp;&emsp;The amount determined under subsection (d) for indirect expenses associated with the additional costs relating to teaching residents in such programs.
 
 #### (2) Capped amount
 
@@ -128,7 +128,7 @@ To carry out this section, there are appropriated such sums as may be necessary,
 
 &emsp;&emsp;The amount payable under this section to a qualified teaching health center for a fiscal year shall be reduced by at least 25 percent if the Secretary determines that—
 
-&emsp;&emsp;&emsp;(i) the qualified teaching health center has failed to provide the Secretary, as an addendum to the qualified teaching health center's application under this section for such fiscal year, the report required under paragraph (1) for the previous fiscal year; or
+&emsp;&emsp;&emsp;(i) the qualified teaching health center has failed to provide the Secretary, as anaddendum to the qualified teaching health center's application under this section for such fiscal year, the report required under paragraph (1) for the previous fiscal year; or
 
 &emsp;&emsp;&emsp;(ii) such report fails to provide complete and accurate information required under any subparagraph of such paragraph.
 

@@ -26,7 +26,7 @@ No person who sells, or offers for sale, distilled spirits, or agent or employee
 
 &emsp;(4) possess any liquor bottle, any portion of the contents of which has been altered or increased in violation of the provisions of paragraph (3);
 
-> except that the Secretary may by regulations authorize the reuse of liquor bottles, under such conditions as he may by regulations prescribe. When used in this subsection the term “liquor bottle” shall mean a liquor bottle or other container which has been used for the bottling or packaging of distilled spirits under regulations issued pursuant to subsection (a).
+> except that the Secretary may by regulations authorize the reuse of liquor bottles, under suchconditions as he may by regulations prescribe. When used in this subsection the term “liquor bottle” shall mean a liquor bottle or other container which has been used for the bottling or packaging of distilled spirits under regulations issued pursuant to subsection (a).
 
 #### (d) Closures
 
@@ -40,7 +40,7 @@ The immediate container of distilled spirits withdrawn from bonded premises, or 
 
 #### Prior Provisions
 
-A prior section 5301, act Aug. 16, 1954, ch. 736, 68A Stat. 654, related to establishment of industrial alcoholplants, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5171(a), (b)(1), 5172, 5173(a), (b) of this title.
+A prior section 5301, act Aug. 16, 1954, ch. 736, 68A Stat. 654, related to establishment of industrial alcohol plants, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5171(a), (b)(1), 5172, 5173(a), (b) of this title.
 
 Provisions similar to those comprising subsecs. (a), (c), and (d) of this section were contained in prior section 5214, act Aug. 16, 1954, ch. 736, 68A Stat. 639, prior to the general revision of this chapter by Pub. L. 85–859.
 

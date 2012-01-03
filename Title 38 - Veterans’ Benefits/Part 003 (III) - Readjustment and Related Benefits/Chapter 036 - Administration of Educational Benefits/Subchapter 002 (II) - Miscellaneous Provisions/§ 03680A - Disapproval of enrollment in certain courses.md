@@ -6,7 +6,7 @@
 
 &emsp;(2) any sales or sales management course which does not provide specialized training within a specific vocational field;
 
-&emsp;(3) any type of course which the Secretary finds to be avocational or recreational in character (or the advertising for which the Secretary finds contains significant avocational or recreational themes) unless the veteran submits justification showing that the course will be of bona fide use in the pursuit of theveteran's present or contemplated business or occupation; or
+&emsp;(3) any type of course which the Secretary finds to be avocational or recreational in character (or the advertising for which the Secretary finds contains significant avocational or recreational themes) unless the veteran submits justification showing that the course will be of bona fide use in the pursuit of the veteran's present or contemplated business or occupation; or
 
 &emsp;(4) any independent study program except an accredited independent study program (including open circuit television) leading (A) to a standard college degree, or (B) to a certificate that reflects educational attainment offered by an institution of higher learning.
 
@@ -30,7 +30,7 @@
 
 &emsp;(2) the course is offered at a branch of the educational institution and the branch has been operating for less than two years; or
 
-&emsp;(3) following either a change in ownership or a complete move outside its original general locality, the educational institution does not retain substantially the same faculty, student body, and courses as before the change in ownership or the move outside the general locality (as determined in accordance with regulations the Secretary shall prescribe) unless the educational institution following such change or move has been in operation for at least two years.
+&emsp;(3) following either a change in ownership or a complete move outside its original generallocality, the educational institution does not retain substantially the same faculty, student body, and courses as before the change in ownership or the move outside the general locality (as determined in accordance with regulations the Secretary shall prescribe) unless the educational institution following such change or move has been in operation for at least two years.
 
 (f) The Secretary may not approve the enrollment of an eligible veteran in a course as a part of a program of education offered by an educational institution if the course is provided under contract by another educational institution or entity and—
 
@@ -62,7 +62,7 @@ Subsecs. (e) to (g). Pub. L. 104–275, §103(b), added subsecs. (e) to (g).
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department ofHomeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
 
 #### Effective Date of 2001 Amendment
 

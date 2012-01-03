@@ -34,7 +34,7 @@ The Administrator shall—
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraphs (B) and (C), using not more than 20 percent ofthe funds made available to carry out this part for a fiscal year, the Administrator shall provide to each State qualified for an allocation for the fiscal year an allocation equal to 1/53 of the funds made available for that fiscal year for distribution to States under this paragraph.
+&emsp;&emsp;Except as provided in subparagraphs (B) and (C), using not more than 20 percent of the funds made available to carry out this part for a fiscal year, the Administrator shall provide to each State qualified for an allocation for the fiscal year an allocation equal to 1/53 of the funds made available for that fiscal year for distribution to States under this paragraph.
 
 #### (B) Certain territories
 
@@ -96,7 +96,7 @@ The Administrator shall—
 
 #### (5) Public notification
 
-&emsp;Not later than 60 days after the date of the award of a grant, rebate, or loan by a State, the State shall publish on the Web site of the State—
+&emsp;Not later than 60 days after the date of the award of a grant, rebate, or loan by a State,the State shall publish on the Web site of the State—
 
 &emsp;&emsp;(A) for rebates, grants, and loans provided to the owner of a diesel vehicle or fleet, the total number and dollar amount of rebates, grants, or loans provided, as well as a breakdown of the technologies funded through the rebates, grants, or loans; and
 
@@ -132,5 +132,5 @@ Subsec. (d)(2). Pub. L. 110–255, §3(b)(1), substituted “chief executive” 
 
 #### Effective Date of 2011 Amendment
 
-Amendment by Pub. L. 111–364 effective Oct. 1, 2011, except that amendment by section 2(c)(4) of Pub. L.111–364 effective Jan. 4, 2011, see section 4 of Pub. L. 111–364, set out as a note under section 16131 of this title.
+Amendment by Pub. L. 111–364 effective Oct. 1, 2011, except that amendment by section 2(c)(4) of Pub. L. 111–364 effective Jan. 4, 2011, see section 4 of Pub. L. 111–364, set out as a note under section 16131 of this title.
 

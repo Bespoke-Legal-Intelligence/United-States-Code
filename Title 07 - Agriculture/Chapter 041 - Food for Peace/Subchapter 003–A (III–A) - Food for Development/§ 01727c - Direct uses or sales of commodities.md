@@ -18,9 +18,9 @@ A prior section 304 of act July 10, 1954, ch. 469, title III, 68 Stat. 459, enac
 
 #### Amendments
 
-1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions relating to furnishing of credit by Commodity Credit Corporation to participating country for purchase of commodities,payment by recipient government, waiver of requirements to meet humanitarian or developmental objectives, and payment of freight charges of relatively least developed countries.
+<b>1990</b>—Pub. L. 101–624 amended section generally, substituting present provisions for provisions relating to furnishing of credit by Commodity Credit Corporation to participating country for purchase of commodities, payment by recipient government, waiver of requirements to meet humanitarian or developmental objectives, and payment of freight charges of relatively least developed countries.
 
-1978—Subsec. (d). Pub. L. 95–424 added subsec. (d).
+<b>1978</b>—Subsec. (d). Pub. L. 95–424 added subsec. (d).
 
 #### Effective Date of 1990 Amendment
 

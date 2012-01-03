@@ -2,7 +2,7 @@
 
 #### (a) Consultation by Secretary with National Science Foundation; scope of demonstrations; powers of Secretary
 
-In carrying out activities under section 1701z–1 of this title, the Secretary may, after consultation with the National Science Foundation, undertake demonstrations to determine the economic and technical feasibility of utilizing solar energy for heating or cooling residential housing (including demonstrations of new housing design or structure involving the use of solar energy). Demonstrations carried out under this section should involve both single family and multifamily housing located in areas having distinguishable climatic characteristics in urban as well as rural environments. To carry out the purpose of this section the Secretary is authorized—
+In carrying out activities under section 1701z–1 of this title, the Secretary may, after consultation with the National Science Foundation, undertake demonstrations to determine the economic and technical feasibility of utilizing solarenergy for heating or cooling residential housing (including demonstrations of new housing design or structure involving the use of solar energy). Demonstrations carried out under this section should involve both single family and multifamily housing located in areas having distinguishable climatic characteristics in urban as well as rural environments. To carry out the purpose of this section the Secretary is authorized—
 
 &emsp;(1) to enter into contracts with, to make grants to, and to provide other types of assistance to individuals and entities with special competence and knowledge to contribute to the planning, design, development, and operation of such housing;
 
@@ -22,5 +22,5 @@ Section was enacted as part of the Housing and Urban Development Act of 1970, an
 
 #### Amendments
 
-1986—Subsec. (c). Pub. L. 99–386 struck out subsec. (c) which related to reports to Congress by Secretary not later than 6 months following close of year in which the Secretary carried out demonstration under this section.
+<b>1986</b>—Subsec. (c). Pub. L. 99–386 struck out subsec. (c) which related to reports to Congress by Secretary not later than 6 months following close of year in which the Secretary carried out demonstration under this section.
 

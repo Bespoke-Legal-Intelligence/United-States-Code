@@ -18,7 +18,7 @@ Any contract made under this section for the purchase of special nuclear materia
 
 #### (e) Certification by Commission
 
-Any contract made under this section may be made without regard to section 6101 of title 41, upon certification by the Commission that such action is necessary in the interest of the common defense and security, or upon a showing by the Commission that advertising is not reasonably practicable.
+Any contract made under this section may be made without regard to section 6101 of title 41,upon certification by the Commission that such action is necessary in the interest of the common defense and security, or upon a showing by the Commission that advertising is not reasonably practicable.
 
 (Pub. L. 85–846, §6, Aug. 28, 1958, 72 Stat. 1085.)
 

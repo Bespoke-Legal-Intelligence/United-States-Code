@@ -6,7 +6,7 @@ As soon as practicable after the date of the order for relief, the trustee shall
 
 #### Historical and Revision Notes
 
-I74senate report no. 95–989
+#### senate report no. 95–989
 
 Section 748 requires the trustee to liquidate all securities, except for customer name securities, of the estate in a manner consistent with good market practice. The trustee should refrain from flooding a thin market with a large percentage of shares in any one issue. If the trustee holds restricted securities or securities in which trading has been suspended, then the trustee must arrange to liquidate such securities in accordance with the securities laws. A private placement may be the only exemption available with the customer of the debtor the best prospect for such a placement. The subsection does not permit such a customer to bid in his net equity as part of the purchase price; a contrary result would permit a customer to receive a greater percentage on his net equity claim than other customers.
 

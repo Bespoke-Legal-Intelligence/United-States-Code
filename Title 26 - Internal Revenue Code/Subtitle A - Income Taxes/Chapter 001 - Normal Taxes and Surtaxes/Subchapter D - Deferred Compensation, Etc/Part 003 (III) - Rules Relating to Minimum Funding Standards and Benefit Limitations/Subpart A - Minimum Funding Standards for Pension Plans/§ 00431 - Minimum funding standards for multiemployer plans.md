@@ -98,7 +98,7 @@ For purposes of section 412, the accumulated funding deficiency of a multiemploy
 
 #### (E) Election for deferral of charge for portion of net experience loss
 
-&emsp;&emsp;If an election is in effect under section 412(b)(7)(F) (as in effect on the day before the date of the enactment of the Pension Protection Act of 2006) for any plan year, the funding standard account shall be charged in the plan year to which the portion of the net experience loss deferred by such election was deferred with the amount so deferred (andparagraph (2)(B)(iii) shall not apply to the amount so charged).
+&emsp;&emsp;If an election is in effect under section 412(b)(7)(F) (as in effect on the day before the date of the enactment of the Pension Protection Act of 2006) for any plan year, the funding standard account shall be charged in the plan year to which the portion of the net experience loss deferred by such election was deferred with the amount so deferred (and paragraph (2)(B)(iii) shall not apply to the amount so charged).
 
 #### (F) Financial assistance
 
@@ -344,7 +344,7 @@ For purposes of section 412, the accumulated funding deficiency of a multiemploy
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of this section, a determination of experience gains and losses and a valuation of the plan's liability shall be made not less frequently than once everyyear, except that such determination shall be made more frequently to the extent required in particular cases under regulations prescribed by the Secretary.
+&emsp;&emsp;For purposes of this section, a determination of experience gains and losses and a valuation of the plan's liability shall be made not less frequently than once every year, except that such determination shall be made more frequently to the extent required in particular cases under regulations prescribed by the Secretary.
 
 #### (B) Valuation date
 
@@ -470,7 +470,7 @@ Special rule for certain amortization extensions.—If the Secretary of the Trea
 
 #### Special Rule for Certain Benefits Funded Under an Agreement Approved by the Pension Benefit Guaranty Corporation
 
-For applicability of this section to a multiemployer plan that is a party to an agreement that was approved by the Pension Benefit Guaranty Corporation prior to June 30, 2005, and that increases benefits and provides for certain withdrawal liability rules, see section 206 of Pub. L. 109–280, set out as a note under section 412 of this title.
+For applicability of this section to a multiemployer plan that is a party to an agreement that was approvedby the Pension Benefit Guaranty Corporation prior to June 30, 2005, and that increases benefits and provides for certain withdrawal liability rules, see section 206 of Pub. L. 109–280, set out as a note under section 412 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “title”.</i>
 

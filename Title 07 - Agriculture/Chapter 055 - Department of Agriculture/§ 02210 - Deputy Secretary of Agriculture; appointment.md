@@ -8,11 +8,11 @@ There is established in the Department of Agriculture the position of Deputy Sec
 
 Provisions of this section which prescribed the basic compensation of the Under Secretary were omitted to conform to the provisions of act July 31, 1956. See section 5314 of Title 5, Government Organization and Employees.
 
-Section was formerly classified to section 514a of Title 5 prior to the general revision and enactment ofTitle 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 514a of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
 #### Amendments
 
-1976—Pub. L. 94–561 substituted “Deputy Secretary of Agriculture” for “Under Secretary of Agriculture”.
+<b>1976</b>—Pub. L. 94–561 substituted “Deputy Secretary of Agriculture” for “Under Secretary of Agriculture”.
 
 #### Effective Date of 1976 Amendment
 

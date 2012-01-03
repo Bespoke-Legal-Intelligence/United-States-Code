@@ -118,7 +118,7 @@ In carrying out the activities of this section, the Secretary shall coordinate r
 
 #### (2) Nanoscience centers
 
-&emsp;The Secretary, in cooperation with the Council, shall coordinate the activities of the nanoscience centers of the Department to help the energy storage research centers of the Department maintain a globally competitive posture in energy storage systems for electric drive vehicles, stationary applications, and electricity transmission and distribution.
+&emsp;The Secretary, in cooperation with the Council, shall coordinate the activities of thenanoscience centers of the Department to help the energy storage research centers of the Department maintain a globally competitive posture in energy storage systems for electric drive vehicles, stationary applications, and electricity transmission and distribution.
 
 #### (3) Funding
 
@@ -178,7 +178,7 @@ In carrying out the activities of this section, the Secretary shall coordinate r
 
 #### (7) Intellectual property
 
-&emsp;In accordance with section 202(a)(ii) of title 35, section 2182 of this title, and section 5908 ofthis title, the Secretary may require, for any new invention developed under this subsection, that—
+&emsp;In accordance with section 202(a)(ii) of title 35, section 2182 of this title, and section 5908 of this title, the Secretary may require, for any new invention developed under this subsection, that—
 
 &emsp;&emsp;(A) if an industrial participant is active in a <sup>1</sup> energy storage research center established under this subsection relating to the advancement of energy storage technologies carried out, in whole or in part, with Federal funding, the industrial participant be granted the first option to negotiate with the invention owner, at least in the field of energy storage technologies, nonexclusive licenses, and royalties on terms that are reasonable, as determined by the Secretary;
 
@@ -288,7 +288,7 @@ In carrying out the activities of this section, the Secretary shall coordinate r
 
 &emsp;&emsp;(E) Integration of advanced vehicle technologies with electricity distribution system and smart metering technology.
 
-&emsp;&emsp;(F) Control systems that minimize emissions profiles in cases in which clean dieselengines are part of a plug-in hybrid drive system.
+&emsp;&emsp;(F) Control systems that minimize emissions profiles in cases in which clean diesel engines are part of a plug-in hybrid drive system.
 
 #### (k) Secondary applications and disposal of electric drive vehicle batteries
 

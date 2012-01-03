@@ -100,7 +100,7 @@ This section shall not be construed to require a manufacturer of equipment used 
 
 Subsec. (e)(1)(D). Pub. L. 111–265, §2(2), substituted “facilitate” for “facilities”.
 
-<i><sup>1</sup></i><i> So in original. Probably should be“subsection”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be“subsections”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be “subsections”.</i>
 

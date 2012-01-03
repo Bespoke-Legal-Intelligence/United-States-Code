@@ -36,7 +36,7 @@
 
 &emsp;&emsp;&emsp;(v) state whether the alleged violation occurred as a result of fraud or negligence;
 
-&emsp;&emsp;&emsp;(vi) state the estimated actual or potential loss of revenue due to the drawback claim, and, taking into account all circumstances, the amount of the proposed monetary penalty; and
+&emsp;&emsp;&emsp;(vi) state the estimated actual or potential loss of revenue due to the drawbackclaim, and, taking into account all circumstances, the amount of the proposed monetary penalty; and
 
 &emsp;&emsp;&emsp;(vii) inform such person that he shall have a reasonable opportunity to make representations, both oral and written, as to why a claim for a monetary penalty should not be issued in the amount stated.
 
@@ -96,7 +96,7 @@
 
 #### (5) Exclusivity
 
-&emsp;Penalty claims under this section shall be the exclusive civil remedy for any drawbackrelated violation of subsection (a) of this section.
+&emsp;Penalty claims under this section shall be the exclusive civil remedy for any drawback related violation of subsection (a) of this section.
 
 #### (d) Deprivation of lawful revenue
 

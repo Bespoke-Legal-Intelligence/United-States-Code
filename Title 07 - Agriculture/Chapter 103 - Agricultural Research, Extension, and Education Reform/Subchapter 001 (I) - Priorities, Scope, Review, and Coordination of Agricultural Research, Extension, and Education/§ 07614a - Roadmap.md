@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Not later than 90 days after the date of enactment of this Act, the Secretary, acting throughthe Under Secretary of Research, Education, and Economics (referred to in this section as the “Under Secretary”), shall commence preparation of a roadmap for agricultural research, education, and extension that—
+Not later than 90 days after the date of enactment of this Act, the Secretary, acting through the Under Secretary of Research, Education, and Economics (referred to in this section as the “Under Secretary”), shall commence preparation of a roadmap for agricultural research, education, and extension that—
 
 &emsp;(1) identifies current trends and constraints;
 

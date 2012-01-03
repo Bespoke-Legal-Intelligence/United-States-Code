@@ -2,7 +2,7 @@
 
 #### (a) Director of Central Intelligence Agency
 
-There is a Director of the Central Intelligence Agency who shall be appointed by the President,by and with the advice and consent of the Senate.
+There is a Director of the Central Intelligence Agency who shall be appointed by the President, by and with the advice and consent of the Senate.
 
 #### (b) Supervision
 
@@ -40,17 +40,17 @@ Under the direction of the Director of National Intelligence and in a manner con
 
 #### (g) Foreign language proficiency for certain senior level positions in Central Intelligence Agency
 
-(1) Except as provided pursuant to paragraph (2), an individual may not be appointed to a position in the Senior Intelligence Service in the Directorate of Intelligence or the National Clandestine Service of the Central Intelligence Agency unless the Director of the Central Intelligence Agency determines that the individual—
+(1) Except as provided pursuant to paragraph (2), an individual in the Directorate of Intelligence career service or the National Clandestine Service career service may not be appointed or promoted to a position in the Senior Intelligence Service in the Directorate of Intelligence or the National Clandestine Service of the Central Intelligence Agency unless the Director of the Central Intelligence Agency determines that the individual has been certified as having a professional speaking and reading proficiency in a foreign language, such proficiency being at least level 3 on the Interagency Language Roundtable Language Skills Level or commensurate proficiency level using such other indicator of proficiency as the Director of the Central Intelligence Agency considers appropriate.
 
-&emsp;(A) has been certified as having a professional speaking and reading proficiency in a foreign language, such proficiency being at least level 3 on the Interagency Language Roundtable Language Skills Level or commensurate proficiency level using such other indicator of proficiency as the Director of the Central Intelligence Agency considers appropriate; and
+(2) The Director of the Central Intelligence Agency may, in the discretion of the Director, waive the application of paragraph (1) to any position, category of positions, or occupation otherwise covered by that paragraph if the Director determines that foreign language proficiency is not necessary for the successful performance of the duties and responsibilities of such position, category of positions, or occupation.
 
-&emsp;(B) is able to effectively communicate the priorities of the United States and exercise influence in that foreign language.
-
-(2) The Director of the Central Intelligence Agency may, in the discretion of the Director, waive the application of paragraph (1) to any position or category of positions otherwise covered by that paragraph if the Director determines that foreign language proficiency is not necessary for the successful performance of the duties and responsibilities of such position or category of positions.
-
-(July 26, 1947, ch. 343, title I, §104A, as added Pub. L. 108–458, title I, §1011(a), Dec. 17, 2004, 118 Stat. 3660; amended Pub. L. 108–487, title VI, §611(a), Dec. 23, 2004, 118 Stat. 3954; Pub. L. 111–259, title VIII, §804(4), Oct. 7, 2010, 124 Stat. 2747.)
+(July 26, 1947, ch. 343, title I, §104A, as added Pub. L. 108–458, title I, §1011(a), Dec. 17, 2004, 118 Stat. 3660; amended Pub. L. 108–487, title VI, §611(a), Dec. 23, 2004, 118 Stat. 3954; Pub. L. 111–259, title VIII, §804(4), Oct. 7, 2010, 124 Stat. 2747; Pub. L. 112–87, title IV, §412(a), Jan. 3, 2012, 125 Stat. 1890.)
 
 #### Amendments
+
+<b>2012</b>—Subsec. (g)(1). Pub. L. 112–87, §412(a)(1), inserted “in the Directorate of Intelligence career service or the National Clandestine Service career service” after “an individual” and “or promoted” after “appointed”, substituted “individual has been certified as having a professional speaking and reading proficiency in a foreign language, such proficiency being at least level 3 on the Interagency Language Roundtable Language Skills Level or commensurate proficiency level using such other indicator of proficiency as the Director of the Central Intelligence Agency considers appropriate.” for “individual—”, and struck out subpars. (A) and (B) which related to required level of proficiency in a foreign language and ability to effectively communicate and exercise influence in that language, respectively.
+
+Subsec. (g)(2). Pub. L. 112–87, §412(a)(2), substituted “position, category of positions, or occupation” for “ position or category of positions” in two places.
 
 <b>2010</b>—Subsec. (g)(1). Pub. L. 111–259 substituted “National Clandestine Service” for “Directorate of Operations” in introductory provisions.
 
@@ -58,13 +58,65 @@ Under the direction of the Director of National Intelligence and in a manner con
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–487, title VI, §611(b), Dec. 23, 2004, 118 Stat. 3955, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to appointments made on or after the date that is one year after the date of the enactment of this Act \[Dec. 23, 2004\].”
+Pub. L. 108–487, title VI, §611(b), Dec. 23, 2004, 118 Stat. 3955, as amended by Pub. L. 112–87, title IV, §412(b), Jan. 3, 2012, 125 Stat. 1890, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to appointments or promotions made on or after the date of the enactment of this Act \[Dec. 23, 2004\].”
 
 #### Effective Date
 
 For Determination by President that section take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of this title.
 
 Section effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
+
+#### Creating an Official Record of the Osama Bin Laden Operation
+
+Pub. L. 112–87, title IV, §414, Jan. 3, 2012, 125 Stat. 1891, provided that:
+
+“(a)
+
+Findings.—Congress finds the following:
+
+&emsp;“(1) On May 1, 2011, United States personnel killed terrorist leader Osama bin Laden during the course of a targeted strike against his secret compound in Abbottabad, Pakistan.
+
+&emsp;“(2) Osama bin Laden was the leader of the al Qaeda terrorist organization, the most significant terrorism threat to the United States and the international community.
+
+&emsp;“(3) Osama bin Laden was the architect of terrorist attacks which killed nearly 3,000 civilians on September 11, 2001, the most deadly terrorist attack against our Nation, in which al Qaeda terrorists hijacked four airplanes and crashed them into the World Trade Center in New York City, the Pentagon in Washington, D.C., and, due to heroic efforts by civilian passengers to disrupt the terrorists, near Shanksville, Pennsylvania.
+
+&emsp;“(4) Osama bin Laden planned or supported numerous other deadly terrorist attacks against the United States and its allies, including the 1998 bombings of United States embassies in Kenya and Tanzania and the 2000 attack on the U.S.S. Cole in Yemen, and against innocent civilians in countries around the world, including the 2004 attack on commuter trains in Madrid, Spain and the 2005 bombings of the mass transit system in London, England.
+
+&emsp;“(5) Following the September 11, 2001, terrorist attacks, the United States, under President George W. Bush, led an international coalition into Afghanistan to dismantle al Qaeda, deny them a safe haven in Afghanistan and ungoverned areas along the Pakistani border, and bring Osama bin Laden to justice.
+
+&emsp;“(6) President Barack Obama in 2009 committed additional forces and resources to efforts in Afghanistan and Pakistan as ‘the central front in our enduring struggle against terrorism and extremism’.
+
+&emsp;“(7) The valiant members of the United States Armed Forces have courageously and vigorously pursued al Qaeda and its affiliates in Afghanistan and around the world.
+
+&emsp;“(8) The anonymous, unsung heroes of the intelligence community have pursued al Qaeda and affiliates in Afghanistan, Pakistan, and around the world with tremendous dedication, sacrifice, and professionalism.
+
+&emsp;“(9) The close collaboration between the Armed Forces and the intelligence community prompted the Director of National Intelligence, General James Clapper, to state, ‘Never have I seen a more remarkable example of focused integration, seamless collaboration, and sheer professional magnificence as was demonstrated by the Intelligence Community in the ultimate demise of Osama bin Laden.’.
+
+&emsp;“(10) While the death of Osama bin Laden represents a significant blow to the al Qaeda organization and its affiliates and to terrorist organizations around the world, terrorism remains a critical threat to United States national security.
+
+&emsp;“(11) President Obama said, ‘For over two decades, bin Laden has been al Qaeda's leader and symbol, and has continued to plot attacks against our country and our friends and allies. The death of bin Laden marks the most significant achievement to date in our Nation's effort to defeat al Qaeda.’.
+
+“(b)
+
+Sense of Congress.—It is the sense of Congress that—
+
+&emsp;“(1) the raid that killed Osama bin Laden demonstrated the best of the intelligence community's capabilities and teamwork;
+
+&emsp;“(2) for years to come, Americans will look back at this event as a defining point in the history of the United States;
+
+&emsp;“(3) it is vitally important that the United States memorialize all the events that led to the raid so that future generations will have an official record of the events that transpired before, during, and as a result of the operation; and
+
+&emsp;“(4) preserving this history now will allow the United States to have an accurate account of the events while those that participated in the events are still serving in the Government.
+
+“(c)
+
+Report on the Operation That Killed Osama Bin Laden.—Not later than 90 days after the completion of the report being prepared by the Center for the Study of Intelligence that documents the history of and lessons learned from the raid that resulted in the death of Osama bin Laden, the Director of the Central Intelligence Agency shall submit such report to the congressional intelligence committees.
+
+“(d)
+
+Preservation of Records.—The Director of the Central Intelligence Agency shall preserve any records, including intelligence information and assessments, used to generate the report described in subsection (c).”
+
+\[For definitions of “intelligence community” and “congressional intelligence committees” as used in section 414 of Pub. L. 112–87, set out above, see section 2 of Pub. L. 112–87, set out as a note under section 401a of this title.\]
 
 #### Post-Employment Restrictions
 
@@ -86,5 +138,5 @@ Disciplinary Actions.—The regulations shall specify appropriate disciplinary a
 
 #### Executive Order No. 13355
 
-Ex. Ord. No. 13355, Aug. 27, 2004, 69 F.R. 53593, which related to strengthened management of the Intelligence Community, was revoked by Ex. Ord. No. 12333, §3.6, Dec. 4, 1981, 46 F.R. 59954, as amended by Ex. Ord. No. 13470, §4(j), July 30, 2008, 73 F.R. 45341, set out as a note under section 401 of this title.
+Ex. Ord. No. 13355, Aug. 27, 2004, 69 F.R. 53593, which related to strengthened management of the Intelligence Community, was revoked by Ex. Ord. No. 12333,§3.6, Dec. 4, 1981, 46 F.R. 59954, as amended by Ex. Ord. No. 13470, §4(j), July 30, 2008, 73 F.R. 45341, set out as a note under section 401 of this title.
 

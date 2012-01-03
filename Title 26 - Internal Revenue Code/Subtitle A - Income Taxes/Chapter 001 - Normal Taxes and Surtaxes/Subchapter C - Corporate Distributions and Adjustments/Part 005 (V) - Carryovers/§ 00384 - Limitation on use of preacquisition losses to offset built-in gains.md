@@ -40,7 +40,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “recognized built-in gain” means any gain recognized during the recognition period on the disposition of any asset except to the extent the gain corporation (or, in any case described in subsection (a)(1)(B), the acquiring corporation) establishes that—
+&emsp;&emsp;The term “recognized built-in gain” means any gain recognized during the recognition period on the disposition of any asset except to the extent the gain corporation (or, inany case described in subsection (a)(1)(B), the acquiring corporation) establishes that—
 
 &emsp;&emsp;&emsp;(i) such asset was not held by the gain corporation on the acquisition date, or
 

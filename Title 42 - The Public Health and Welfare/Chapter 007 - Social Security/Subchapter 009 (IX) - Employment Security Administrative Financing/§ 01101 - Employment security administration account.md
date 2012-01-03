@@ -48,7 +48,7 @@ There is hereby established in the Unemployment Trust Fund an employment securit
 
 > If it subsequently appears that the estimates under this paragraph in any particular period were too high or too low, appropriate adjustments shall be made by the Secretary of the Treasury in future payments.
 
-(3)(A) For purposes of paragraph (1)(A), the limitation on the amount authorized to be made available for any fiscal year after June 30, 1970, is, except as provided in subparagraph (B) and in the second sentence of subsection (f)(3)(A) of this section, an amount equal to 95 percent of the amount estimated and set forth in the budget of the United States Government for such fiscal year as the amount by which the net receipts during such year under the Federal Unemployment Tax Act \[26 U.S.C. 3301 et seq.\] will exceed the amount transferred under section 1105(b) of this title during such year to the extended unemployment compensation account.
+(3)(A) For purposes of paragraph (1)(A), the limitation on the amount authorized to be made available for any fiscal year after June 30, 1970, is, except as provided in subparagraph (B) and in the second sentence of subsection (f)(3)(A) of this section, an amount equal to 95 percent of the amount estimated and set forth in the budget of the United States Government for such fiscal year as the amount by which the net receiptsduring such year under the Federal Unemployment Tax Act \[26 U.S.C. 3301 et seq.\] will exceed the amount transferred under section 1105(b) of this title during such year to the extended unemployment compensation account.
 
 (B) The limitation established by subparagraph (A) is increased by any unexpended amount retained in the employment security administration account in accordance with subsection (f)(2)(B) of this section.
 
@@ -84,7 +84,7 @@ There is hereby established in the Unemployment Trust Fund an employment securit
 
 > &emsp;Any amount transferred pursuant to this subparagraph shall be credited against, and shall operate to reduce, that balance of advances, made under section 1321 of this title to the State, with respect to which employers paid such additional tax.
 
-&emsp;(B) To the account (in the Unemployment Trust Fund) of the State with respect to which employers paid such additional tax, an amount equal to the amount by which suchadditional tax received and covered into the Treasury exceeds that balance of advances, made under section 1321 of this title to the State, with respect to which employers paid such additional tax.
+&emsp;(B) To the account (in the Unemployment Trust Fund) of the State with respect to which employers paid such additional tax, an amount equal to the amount by which such additional tax received and covered into the Treasury exceeds that balance of advances, made under section 1321 of this title to the State, with respect to which employers paid such additional tax.
 
 (2) Transfers under this subsection shall be as of the beginning of the month succeeding the month in which the moneys were credited to the employment security administration account pursuant to subsection (b)(2) of this section.
 
@@ -96,7 +96,7 @@ There is hereby established in the Unemployment Trust Fund an employment securit
 
 (3) Advances to the employment security administration account made under this subsection shall bear interest until repaid at a rate equal to the average rate of interest (computed as of the end of the calendar month next preceding the date of such advance) borne by all interest-bearing obligations of the United States then forming a part of the public debt; except that where such average rate is not a multiple of one-eighth of 1 per centum, the rate of interest shall be the multiple of one-eighth of 1 per centum next lower than such average rate.
 
-(4) Advances to the employment security administration account made under this subsection, plus interest accrued thereon, shall be repaid by the transfer from time to time, from the employment security administration account to the revolving fund, of such amounts as the Secretary of the Treasury, in consultation with the Secretary of Labor, determines to be available in the employment security administration account for such repayment. Any amount transferred as a repayment under this paragraph shall be credited against, and shall operate to reduce, any balance of advances (plus accrued interest) repayable under this subsection.
+(4) Advances to the employment security administration account made under this subsection, plus interest accrued thereon, shall be repaid by the transfer from time to time, from the employment security administration account to the revolving fund, of such amounts as the Secretary of the Treasury, in consultationwith the Secretary of Labor, determines to be available in the employment security administration account for such repayment. Any amount transferred as a repayment under this paragraph shall be credited against, and shall operate to reduce, any balance of advances (plus accrued interest) repayable under this subsection.
 
 #### (f) Determination of excess in Account; limitation on amount to be retained; use of balance in Account during certain fiscal years; net balance
 
@@ -118,7 +118,7 @@ There is hereby established in the Unemployment Trust Fund an employment securit
 
 > The net balance in the employment security administration account as of the beginning of any fiscal year shall be determined after the disposition of the excess in such account as of the close of the preceding fiscal year.
 
-(Aug. 14, 1935, ch. 531, title IX, §901, as added Aug. 5, 1954, ch. 657, §2, 68 Stat. 668; amended Pub. L. 86–778, title V, §521, Sept. 13, 1960, 74 Stat. 970; Pub. L. 87–31, §7, May 8, 1961, 75 Stat.78; Pub. L. 88–31, §1, May 29, 1963, 77 Stat. 51; Pub. L. 91–53, §3, Aug. 7, 1969, 83 Stat. 93; Pub. L. 91–373, title III, §303, Aug. 10, 1970, 84 Stat. 713; Pub. L. 94–273, §39, Apr. 21, 1976, 90 Stat. 381; Pub. L. 94–566, title II, §211(e)(1) \[(c)(1)\], Oct. 20, 1976, 90 Stat. 2676; Pub. L. 97–248, title II, §271(b)(2)(A), (c)(3)(D), Sept. 3, 1982, 96 Stat. 554, 555; Pub. L. 98–369, div. B, title VI, §2663(d)(1), (2), July 18, 1984, 98 Stat. 1167; Pub. L. 100–203, title IX, §9154(a), (c)(2), Dec. 22, 1987, 101 Stat. 1330–326; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–318, title V, §531(d)(1), (2), July 3, 1992, 106 Stat. 316, 317; Pub. L. 105–33, title V, §5408, Aug. 5, 1997, 111 Stat. 605.)
+(Aug. 14, 1935, ch. 531, title IX, §901, as added Aug. 5, 1954, ch. 657, §2, 68 Stat. 668; amended Pub. L. 86–778, title V, §521, Sept. 13, 1960, 74 Stat. 970; Pub. L. 87–31, §7, May 8, 1961, 75 Stat. 78; Pub. L. 88–31, §1, May 29, 1963, 77 Stat. 51; Pub. L. 91–53, §3, Aug. 7, 1969, 83 Stat. 93; Pub. L. 91–373, title III, §303, Aug. 10, 1970, 84 Stat. 713; Pub. L. 94–273, §39, Apr. 21, 1976, 90 Stat. 381; Pub. L. 94–566, title II, §211(e)(1) \[(c)(1)\], Oct. 20, 1976, 90 Stat. 2676; Pub. L. 97–248, title II, §271(b)(2)(A), (c)(3)(D), Sept. 3, 1982, 96 Stat. 554, 555; Pub. L. 98–369, div. B, title VI, §2663(d)(1), (2), July 18, 1984, 98 Stat. 1167; Pub. L. 100–203, title IX, §9154(a), (c)(2), Dec. 22, 1987, 101 Stat. 1330–326; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–318, title V, §531(d)(1), (2), July 3, 1992, 106 Stat. 316, 317; Pub. L. 105–33, title V, §5408, Aug. 5, 1997, 111 Stat. 605.)
 
 #### References in Text
 
@@ -180,7 +180,7 @@ Subsec. (f)(2)(A). Pub. L. 91–373, §303(d)(1), inserted reference to par. (3)
 
 Subsec. (f)(3). Pub. L. 91–373, §303(d)(2), revised provisions for the distribution of any excess in the employment security administration account at the end of any fiscal year after June 30, 1972.
 
-<b>1969</b>—Subsec. (c)(3). Pub. L. 91–53, §3(a), struck out subpar. (A) provisions limiting expenditures for fiscal year ending June 30, 1964, to 95 percent of amount estimated by the Secretary of Treasury as the net receipts during such fiscal year under the Federal Unemployment Tax Act, redesignated subpar. (B) provisions as par. (3) without restricting their application to fiscal years ending after June 30, 1964, increased expenditure limitation by unexpended amount retained in the employment security administration account in accordance with subsec. (f)(2)(B) of this section, reenacted provision for estimate of net receipts, and struck outdated provisions requiring the Secretary of Treasury to report to Congress his estimate under subpar. (A) within thirty days after May 29, 1963, the date of enactment of Pub. L. 88–31, and providing for its printing as a House document.
+<b>1969</b>—Subsec. (c)(3). Pub. L. 91–53, §3(a), struck out subpar. (A) provisions limiting expenditures for fiscal year ending June 30, 1964, to 95 percent of amount estimated by the Secretary of Treasury as the net receipts during such fiscal year under the Federal Unemployment Tax Act, redesignated subpar. (B) provisions as par. (3) without restricting their application to fiscal years ending after June 30, 1964, increased expenditure limitation by unexpended amount retained in the employment security administration account in accordance with subsec. (f)(2)(B) of this section, reenacted provision for estimate of net receipts, and struck out dated provisions requiring the Secretary of Treasury to report to Congress his estimate under subpar. (A) within thirty days after May 29, 1963, the date of enactment of Pub. L. 88–31, and providing for its printing as a House document.
 
 Subsec. (f)(2). Pub. L. 91–53, §3(b), designated existing provisions as subpar. (A), inserted introductory text “Except as provided in subparagraph (B)”, and added subpar. (B).
 
@@ -204,7 +204,7 @@ Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed a
 
 #### Effective Date of 1982 Amendment
 
-Amendment by section 271(b)(2)(A) of Pub. L. 97–248 applicable to remuneration paid after Dec. 31, 1982, and amendment by section 271(c)(3)(D) of Pub. L. 97–248 applicable to remuneration paid after Dec. 31, 1984, see section 271(d)(1), (2) of Pub. L. 97–248, as amended, set out as a note under section 3301 of Title 26, Internal Revenue Code.
+Amendment by section 271(b)(2)(A) of Pub. L. 97–248 applicable to remuneration paid after Dec. 31, 1982, and amendment by section 271(c)(3)(D) of Pub. L. 97–248 applicable to remuneration paid after Dec. 31, 1984, see section 271(d)(1), (2) of Pub. L. 97–248, as amended, setout as a note under section 3301 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1976 Amendment
 

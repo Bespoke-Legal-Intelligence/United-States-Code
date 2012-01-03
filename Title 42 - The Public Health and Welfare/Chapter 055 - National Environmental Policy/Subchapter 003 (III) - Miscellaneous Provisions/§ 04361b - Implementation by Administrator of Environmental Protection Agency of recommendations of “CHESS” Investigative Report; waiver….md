@@ -12,5 +12,9 @@ Section 4361 of this title, referred to in text, was repealed by Pub. L. 104–6
 
 Section was enacted as part of the Environmental Research, Development, and Demonstration Authorization Act of 1978, and not as part of the National Environmental Policy Act of 1969 which comprises this chapter.
 
+#### Change of Name
+
+Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

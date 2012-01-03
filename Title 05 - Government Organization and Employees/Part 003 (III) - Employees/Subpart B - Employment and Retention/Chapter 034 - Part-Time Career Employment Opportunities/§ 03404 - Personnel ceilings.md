@@ -6,5 +6,5 @@ In administering any personnel ceiling applicable to an agency (or unit therein)
 
 #### Amendments
 
-1978—Pub. L. 95–454 renumbered section 3394 of this title as this section.
+<b>1978</b>—Pub. L. 95–454 renumbered section 3394 of this title as this section.
 

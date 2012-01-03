@@ -18,7 +18,7 @@
 
 #### (1) In general
 
-&emsp;Beginning not later than 180 days after October 4, 2006, the Administrator, in coordinationwith the heads of appropriate Federal agencies, the National Council on Disability, and the National Advisory Council, shall carry out a national exercise program to test and evaluate the national preparedness goal, National Incident Management System, National Response Plan, and other related plans and strategies.
+&emsp;Beginning not later than 180 days after October 4, 2006, the Administrator, in coordination with the heads of appropriate Federal agencies, the National Council on Disability, and the National Advisory Council, shall carry out a national exercise program to test and evaluate the national preparedness goal, National Incident Management System, National Response Plan, and other related plans and strategies.
 
 #### (2) Requirements
 
@@ -58,7 +58,7 @@
 
 #### Amendments
 
-2007—Subsec. (b)(2)(A)(iv) to (vi). Pub. L. 110–53, §402, added cls. (iv) to (vi) and struck out former cls. (iv) and (v) which read as follows:
+<b>2007</b>—Subsec. (b)(2)(A)(iv) to (vi). Pub. L. 110–53, §402, added cls. (iv) to (vi) and struck out former cls. (iv) and (v) which read as follows:
 
 “(iv) designed to provide for systematic evaluation of readiness; and
 

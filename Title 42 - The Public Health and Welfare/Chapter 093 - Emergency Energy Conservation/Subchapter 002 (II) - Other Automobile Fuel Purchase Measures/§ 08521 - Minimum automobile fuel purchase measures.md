@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-If the provisions of this subsection are made applicable under subsection (c) of this section,no person shall purchase motor fuel from a motor fuel retailer in any transaction for use in any automobile or other vehicle unless—
+If the provisions of this subsection are made applicable under subsection (c) of this section, no person shall purchase motor fuel from a motor fuel retailer in any transaction for use in any automobile or other vehicle unless—
 
 &emsp;(1) the price for the quantity purchased and placed into the fuel tank of that vehicle equals or exceeds $5.00; or
 
@@ -12,7 +12,7 @@ If the provisions of this subsection are made applicable under subsection (c) of
 
 #### (b) $7.00 to be applicable in case of 8-cylinder vehicles
 
-In applying subsection (a) of this section in the case of any vehicle with an engine having 8 cylinders (or more), “$7.00” shall be substituted for “$5.00”.
+In applying subsection (a) of this section in the case of any vehicle with an engine having 8cylinders (or more), “$7.00” shall be substituted for “$5.00”.
 
 #### (c) Applicability
 

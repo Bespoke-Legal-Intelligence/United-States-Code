@@ -78,7 +78,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) enters into a forward or futures contract to acquire the financial asset,
 
-&emsp;&emsp;(C) is the holder of a call option, and is the grantor of a put option, with respect to thefinancial asset and such options have substantially equal strike prices and substantially contemporaneous maturity dates, or
+&emsp;&emsp;(C) is the holder of a call option, and is the grantor of a put option, with respect to the financial asset and such options have substantially equal strike prices and substantially contemporaneous maturity dates, or
 
 &emsp;&emsp;(D) to the extent provided in regulations prescribed by the Secretary, enters into one or more other transactions (or acquires one or more positions) that have substantially the same effect as a transaction described in any of the preceding subparagraphs.
 
@@ -134,5 +134,5 @@ Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporatio
 
 #### Effective Date
 
-Pub. L. 106–170, title V, §534(c), Dec. 17, 1999, 113 Stat. 1934, provided that: “The amendments made by this section \[enacting this section\] shall apply to transactions entered into after July 11, 1999.”
+Pub. L. 106–170, title V, §534(c), Dec. 17, 1999, 113 Stat. 1934, provided that: “The amendments made by thissection \[enacting this section\] shall apply to transactions entered into after July 11, 1999.”
 

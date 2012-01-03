@@ -8,6 +8,7 @@
 | [631c.](%C2%A7%2000631c%20-%20Small%20Business%20Manufacturing%20Task%20Force.md) | Small Business Manufacturing Task Force. |
 | [632\.](%C2%A7%2000632%20-%20Small-business%20concern.md) | Small-business concern. |
 | [633\.](%C2%A7%2000633%20-%20Small%20Business%20Administration.md) | Small Business Administration. |
+| [633a.](%C2%A7%2000633a%20-%20Detailed%20justification%20for%20proposed%20changes%20in%20budget%20requests.md) | Detailed justification for proposed changes in budget requests. |
 | [634\.](%C2%A7%2000634%20-%20General%20powers.md) | General powers. |
 | [634a.](%C2%A7%2000634a%20-%20Office%20of%20Advocacy%20within%20Small%20Business%20Administration%3B%20Chief%20Counsel%20for%20Advocacy.md) | Office of Advocacy within Small Business Administration; Chief Counsel for Advocacy. |
 | [634b.](%C2%A7%2000634b%20-%20Primary%20functions%20of%20Office%20of%20Advocacy.md) | Primary functions of Office of Advocacy. |
@@ -34,6 +35,8 @@
 | [637b.](%C2%A7%2000637b%20-%20Availability%20of%20information.md) | Availability of information. |
 | [637c.](%C2%A7%2000637c%20-%20Definitions.md) | Definitions. |
 | [638\.](%C2%A7%2000638%20-%20Research%20and%20development.md) | Research and development. |
+| [638a.](%C2%A7%2000638a%20-%20GAO%20study%20with%20respect%20to%20venture%20capital%20operating%20company%2C%20hedge%20fund%2C%20and%20private%20equity%20firm%20involvement.md) | GAO study with respect to venture capital operating company, hedge fund, and private equity firm involvement. |
+| [638b.](%C2%A7%2000638b%20-%20Reducing%20vulnerability%20of%20SBIR%20and%20STTR%20Programs%20to%20fraud%2C%20waste%2C%20and%20abuse.md) | Reducing vulnerability of SBIR and STTR Programs to fraud, waste, and abuse. |
 | [639\.](%C2%A7%2000639%20-%20Reporting%20requirements%20and%20agency%20cooperation.md) | Reporting requirements and agency cooperation. |
 | [639a.](%C2%A7%2000639a%20-%20Review%20of%20loan%20program%3B%20submission%20of%20estimated%20needs%20for%20additional%20authorization.md) | Review of loan program; submission of estimated needs for additional authorization. |
 | [640\.](%C2%A7%2000640%20-%20Voluntary%20agreements%20among%20small-business%20concerns.md) | Voluntary agreements among small-business concerns. |
@@ -46,7 +49,7 @@
 | [647\.](%C2%A7%2000647%20-%20Duplication%20of%20activities%20of%20other%20Federal%20departments%20or%20agencies.md) | Duplication of activities of other Federal departments or agencies. |
 | [648\.](%C2%A7%2000648%20-%20Small%20business%20development%20center%20program%20authorization.md) | Small business development center program authorization. |
 | [648a.](%C2%A7%2000648a%20-%20Repealed.%20Pub.%20L.%20102%E2%80%93140%2C%20title%20VI%2C%20%C2%A7609%28e%29%2C%20Oct.%2028%2C%201991%2C%20105%20Stat.%20826.md) | Repealed. |
-| [648b.](%C2%A7%2000648b%20-%20Grants%20for%20SBDCS.md) | Grants for SBDCS. |
+| [648b.](%C2%A7%2000648b%20-%20Grants%20for%20SBDCs.md) | Grants for SBDCs. |
 | [649\.](%C2%A7%2000649%20-%20Office%20of%20International%20Trade.md) | Office of International Trade. |
 | [649a.](%C2%A7%2000649a%20-%20Omitted.md) | Omitted. |
 | [649b.](%C2%A7%2000649b%20-%20Grants%2C%20contracts%20and%20cooperative%20agreements%20for%20international%20marketing%20programs.md) | Grants, contracts and cooperative agreements for international marketing programs. |
@@ -91,6 +94,7 @@
 - [&sect; 00631c - Small Business Manufacturing Task Force](%C2%A7%2000631c%20-%20Small%20Business%20Manufacturing%20Task%20Force.md)
 - [&sect; 00632 - Small-business concern](%C2%A7%2000632%20-%20Small-business%20concern.md)
 - [&sect; 00633 - Small Business Administration](%C2%A7%2000633%20-%20Small%20Business%20Administration.md)
+- [&sect; 00633a - Detailed justification for proposed changes in budget requests](%C2%A7%2000633a%20-%20Detailed%20justification%20for%20proposed%20changes%20in%20budget%20requests.md)
 - [&sect; 00634 - General powers](%C2%A7%2000634%20-%20General%20powers.md)
 - [&sect; 00634a - Office of Advocacy within Small Business Administration; Chief Counsel for Advocacy](%C2%A7%2000634a%20-%20Office%20of%20Advocacy%20within%20Small%20Business%20Administration%3B%20Chief%20Counsel%20for%20Advocacy.md)
 - [&sect; 00634b - Primary functions of Office of Advocacy](%C2%A7%2000634b%20-%20Primary%20functions%20of%20Office%20of%20Advocacy.md)
@@ -117,6 +121,8 @@
 - [&sect; 00637b - Availability of information](%C2%A7%2000637b%20-%20Availability%20of%20information.md)
 - [&sect; 00637c - Definitions](%C2%A7%2000637c%20-%20Definitions.md)
 - [&sect; 00638 - Research and development](%C2%A7%2000638%20-%20Research%20and%20development.md)
+- [&sect; 00638a - GAO study with respect to venture capital operating company, hedge fund, and private equity firm involvement](%C2%A7%2000638a%20-%20GAO%20study%20with%20respect%20to%20venture%20capital%20operating%20company%2C%20hedge%20fund%2C%20and%20private%20equity%20firm%20involvement.md)
+- [&sect; 00638b - Reducing vulnerability of SBIR and STTR Programs to fraud, waste, and abuse](%C2%A7%2000638b%20-%20Reducing%20vulnerability%20of%20SBIR%20and%20STTR%20Programs%20to%20fraud%2C%20waste%2C%20and%20abuse.md)
 - [&sect; 00639 - Reporting requirements and agency cooperation](%C2%A7%2000639%20-%20Reporting%20requirements%20and%20agency%20cooperation.md)
 - [&sect; 00639a - Review of loan program; submission of estimated needs for additional authorization](%C2%A7%2000639a%20-%20Review%20of%20loan%20program%3B%20submission%20of%20estimated%20needs%20for%20additional%20authorization.md)
 - [&sect; 00640 - Voluntary agreements among small-business concerns](%C2%A7%2000640%20-%20Voluntary%20agreements%20among%20small-business%20concerns.md)
@@ -129,7 +135,7 @@
 - [&sect; 00647 - Duplication of activities of other Federal departments or agencies](%C2%A7%2000647%20-%20Duplication%20of%20activities%20of%20other%20Federal%20departments%20or%20agencies.md)
 - [&sect; 00648 - Small business development center program authorization](%C2%A7%2000648%20-%20Small%20business%20development%20center%20program%20authorization.md)
 - [&sect; 00648a - Repealed. Pub. L. 102&#8211;140, title VI, &sect;609(e), Oct. 28, 1991, 105 Stat. 826](%C2%A7%2000648a%20-%20Repealed.%20Pub.%20L.%20102%E2%80%93140%2C%20title%20VI%2C%20%C2%A7609%28e%29%2C%20Oct.%2028%2C%201991%2C%20105%20Stat.%20826.md)
-- [&sect; 00648b - Grants for SBDCS](%C2%A7%2000648b%20-%20Grants%20for%20SBDCS.md)
+- [&sect; 00648b - Grants for SBDCs](%C2%A7%2000648b%20-%20Grants%20for%20SBDCs.md)
 - [&sect; 00649 - Office of International Trade](%C2%A7%2000649%20-%20Office%20of%20International%20Trade.md)
 - [&sect; 00649a - Omitted](%C2%A7%2000649a%20-%20Omitted.md)
 - [&sect; 00649b - Grants, contracts and cooperative agreements for international marketing programs](%C2%A7%2000649b%20-%20Grants%2C%20contracts%20and%20cooperative%20agreements%20for%20international%20marketing%20programs.md)

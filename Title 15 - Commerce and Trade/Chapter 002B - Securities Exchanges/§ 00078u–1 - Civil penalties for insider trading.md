@@ -4,7 +4,7 @@
 
 #### (1) Judicial actions by Commission authorized
 
-&emsp;Whenever it shall appear to the Commission that any person has violated any provision ofthis chapter or the rules or regulations thereunder by purchasing or selling a security or security-based swap agreement (as defined in section 206B of the Gramm-Leach-Bliley Act) while in possession of material, nonpublic information in, or has violated any such provision by communicating such information in connection with, a transaction on or through the facilities of a national securities exchange or from or through a broker or dealer, and which is not part of a public offering by an issuer of securities other than standardized options or security futures products, the Commission—
+&emsp;Whenever it shall appear to the Commission that any person has violated any provision of this chapter or the rules or regulations thereunder by purchasing or selling a security or security-based swap agreement while in possession of material, nonpublic information in, or has violated any such provision by communicating such information in connection with, a transaction on or through the facilities of a national securities exchange or from or through a broker or dealer, and which is not part of a public offering by an issuer of securities other than standardized options or security futures products, the Commission—
 
 &emsp;&emsp;(A) may bring an action in a United States district court to seek, and the court shall have jurisdiction to impose, a civil penalty to be paid by the person who committed such violation; and
 
@@ -64,29 +64,31 @@ For purposes of this section, “profit gained” or “loss avoided” is the d
 
 #### (f) Limitation on Commission authority
 
-The authority of the Commission under this section with respect to security-based swap agreements (as defined in section 206B of the Gramm-Leach-Bliley Act) shall be subject to the restrictions and limitations of section 78c–1(b) of this title.
+The authority of the Commission under this section with respect to security-based swap agreements shall be subject to the restrictions and limitations of section 78c–1(b) of this title.
 
 (June 6, 1934, ch. 404, title I, §21A, as added Pub. L. 100–704, §3(a)(2), Nov. 19, 1988, 102 Stat. 4677; amended Pub. L. 101–429, title II, §202(b), Oct. 15, 1990, 104 Stat. 938; Pub. L. 106–554, §1(a)(5) \[title II, §205(a)(4), title III, §303(k), (<i>l</i>)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–426, 2763A–456, 2763A–457; Pub. L. 107–204, title III, §308(d)(2), July 30, 2002, 116 Stat. 785; Pub. L. 111–203, title VII, §762(d)(7), title IX, §923(b)(2), July 21, 2010, 124 Stat. 1761, 1850.)
 
 #### Amendment of Section
 
-<i>Pub. L. 111–203, title VII, §§762(d)(7), 774, July 21, 2010, 124 Stat. 1761, 1802, provided that, effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B (§§761–774) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, subsections (a)(1) and (g) of this section are amended by striking “(as defined in section 206B of the Gramm-Leach-Bliley Act)”.</i>
+<i>Unless otherwise provided, amendment by subtitle B (§§761–774) of title VII of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see 2010 Amendment notes and Effective Date of 2010 Amendment note below.</i>
 
 #### References in Text
 
 This chapter, referred to in subsecs. (a) and (d)(4), (5), was in the original “this title”. See References in Text note set out under section 78a of this title.
 
-Section 206B of the Gramm-Leach-Bliley Act, referred to in subsecs. (a)(1) and (f), is section 206B of Pub. L. 106–102, which is set out in a note under section 78c of this title.
-
 Subsec. (f) of section 78<i>o</i> of this title, referred to in subsec. (b)(1)(B), was redesignated (g) by Pub. L. 111–203, title IX, §929X(c)(1), July 21, 2010, 124 Stat. 1870.
 
 #### Amendments
 
-<b>2010</b>—Subsec. (d)(1). Pub. L. 111–203, §923(b)(2)(A), struck out “(subject to subsection (e) of this section)” after “shall” and inserted “and section 78u–6 of this title” after “section 7246 of this title”.
+<b>2010</b>—Subsec. (a)(1). Pub. L. 111–203, §762(d)(7)(A), struck out “(as defined in section 206B of the Gramm-Leach-Bliley Act)” after “security-based swap agreement” in introductory provisions.
+
+Subsec. (d)(1). Pub. L. 111–203, §923(b)(2)(A), struck out “(subject to subsection (e) of this section)” after “shall” and inserted “and section 78u–6 of this title” after “section 7246 of this title”.
 
 Subsec. (e). Pub. L. 111–203, §923(b)(2)(B), (C), redesignated subsec. (f) as (e) and struck out former subsec. (e). Prior to amendment, text of subsec. (e) read as follows: “Notwithstanding the provisions of subsection (d)(1) of this section, there shall be paid from amounts imposed as a penalty under this section and recovered by the Commission or the Attorney General, such sums, not to exceed 10 percent of such amounts, as the Commission deems appropriate, to the person or persons who provide information leading to the imposition of such penalty. Any determinations under this subsection, including whether, to whom, or in what amount to make payments, shall be in the sole discretion of the Commission, except that no such payment shall be made to any member, officer, or employee of any appropriate regulatory agency, the Department of Justice, or a self-regulatory organization. Any such determination shall be final and not subject to judicial review.”
 
 Subsec. (f). Pub. L. 111–203, §923(b)(2)(C), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
+
+Pub. L. 111–203, §762(d)(7)(B), which directed amendment of subsec. (g) by striking out “(as defined in section 206B of the Gramm-Leach-Bliley Act)”, was executed by making the strike out after “security-based swap agreements” in subsec. (f), to reflect the probable intent of Congress and the redesignation of subsec. (g) as (f) by Pub. L. 111–203, §923(b)(2)(C). See above and Effective Date of 2010 Amendment note below.
 
 Subsec. (g). Pub. L. 111–203, §923(b)(2)(C), redesignated subsec. (g) as (f).
 
@@ -116,7 +118,7 @@ Section not applicable to actions occurring before Nov. 19, 1988, see section 9 
 
 #### Congressional Findings
 
-Section 2 of Pub. L. 100–704 provided that: “The Congress finds that—
+Pub. L. 100–704, §2, Nov. 19, 1988, 102 Stat. 4677, provided that: “The Congress finds that—
 
 &emsp;“(1) the rules and regulations of the Securities and Exchange Commission under the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\] governing trading while in possession of material, nonpublic information are, as required by such Act, necessary and appropriate in the public interest and for the protection of investors;
 
@@ -126,7 +128,7 @@ Section 2 of Pub. L. 100–704 provided that: “The Congress finds that—
 
 #### Commission Recommendations for Additional Civil Penalty Authority Required
 
-Section 3(c) of Pub. L. 100–704 provided that: “The Securities and Exchange Commission shall, within 60 days after the date of enactment of this Act \[Nov. 19, 1988\], submit to each House of the Congress any recommendations the Commission considers appropriate with respect to the extension of the Commission's authority to seek civil penalties or impose administrative fines for violations other than those described in section 21A of the Securities Exchange Act of 1934 \[15 U.S.C. 78u–1\] (as added by this section).”
+Pub. L. 100–704, §3(c), Nov. 19, 1988, 102 Stat. 4680, provided that: “The Securities and Exchange Commission shall, within 60 days after the date of enactment of this Act \[Nov. 19, 1988\], submit to each House of the Congress any recommendations the Commission considers appropriate with respect to the extension of the Commission's authority to seek civil penalties or impose administrative fines for violations other than those described in section 21A of the Securities Exchange Act of 1934 \[15 U.S.C. 78u–1\] (as added by this section).”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

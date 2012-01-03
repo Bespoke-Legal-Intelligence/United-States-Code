@@ -40,11 +40,11 @@ Pounds or Less.—A person from whom the additional legally applicable and effec
 
 Claims Involving Shipments Weighing More Than 10,000
 
-Pounds.—A person from whom the additional legally applicable and effectivetariff rate or charges are sought may elect to satisfy the claim if the shipments each weighed more than 10,000 pounds, by payment of 15 percent of the difference between the carrier's applicable and effective tariff rate and the rate originally billed and paid. In the event that a dispute arises as to the rate that was legally applicable to the shipment, such dispute shall be resolved by the Board.
+Pounds.—A person from whom the additional legally applicable and effective tariff rate or charges are sought may elect to satisfy the claim if the shipments each weighed more than 10,000 pounds, by payment of 15 percent of the difference between the carrier's applicable and effective tariff rate and the rate originally billed and paid. In the event that a dispute arises as to the rate that was legally applicable to the shipment, such dispute shall be resolved by the Board.
 
 (d)
 
-Claims Involving Public Warehousemen.—Notwithstanding subsections (b) and (c), a person from whom the additional legally applicable and effective tariff rate or charges are sought may elect to satisfy the claim by payment of 5 percent of the difference between the carrier's applicable and effective tariff rate and the rate originally billed and paid if such person is a public warehouseman. In the event that a dispute arises as to the rate that was legally applicable to the shipment, such dispute shall be resolved by the Board.
+Claims Involving Public Warehousemen.—Notwithstanding subsections (b) and (c), a person from whom the additional legally applicable and effective tariff rate or charges aresought may elect to satisfy the claim by payment of 5 percent of the difference between the carrier's applicable and effective tariff rate and the rate originally billed and paid if such person is a public warehouseman. In the event that a dispute arises as to the rate that was legally applicable to the shipment, such dispute shall be resolved by the Board.
 
 (e)
 

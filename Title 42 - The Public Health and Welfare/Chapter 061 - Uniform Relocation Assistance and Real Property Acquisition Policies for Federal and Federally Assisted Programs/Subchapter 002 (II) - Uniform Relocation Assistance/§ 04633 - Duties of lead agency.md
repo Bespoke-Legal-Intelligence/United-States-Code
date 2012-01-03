@@ -62,7 +62,7 @@ Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds 
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–17 effective Apr. 2, 1987, to the extent such amendment prescribes authority to develop, publish, and issue regulations, and otherwise totake effect on effective date provided in such regulations but not later than 2 years after Apr. 2, 1987, see section 418 of Pub. L. 100–17, set out as a note under section 4601 of this title.
+Amendment by Pub. L. 100–17 effective Apr. 2, 1987, to the extent such amendment prescribes authority to develop, publish, and issue regulations, and otherwise to take effect on effective date provided in such regulations but not later than 2 years after Apr. 2, 1987, see section 418 of Pub. L. 100–17, set out as a note under section 4601 of this title.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

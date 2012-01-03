@@ -54,7 +54,7 @@ No national research facility project funded under the major research equipment 
 
 #### (2) Report
 
-&emsp;Not later than September 15 of each fiscal year, the Board shall report to the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Health, Education, Labor, and Pensions of the Senate, and the Committee on Science of the House of Representatives on the conditions of any delegation of authority under section 1863 of this title that relates to funds appropriated for any project in the major research equipment and facilities construction account.
+&emsp;Not later than September 15 of each fiscal year, the Board shall report to the Committee on Commerce, Science, and Transportation ofthe Senate, the Committee on Health, Education, Labor, and Pensions of the Senate, and the Committee on Science of the House of Representatives on the conditions of any delegation of authority under section 1863 of this title that relates to funds appropriated for any project in the major research equipment and facilities construction account.
 
 #### (e) National Academy of Sciences study on major research equipment and facilities construction
 
@@ -76,7 +76,7 @@ Section was enacted as part of the National Science Foundation Authorization Act
 
 #### Change of Name
 
-Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Definitions
 

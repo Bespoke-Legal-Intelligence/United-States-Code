@@ -32,17 +32,17 @@ Such regulations shall provide that—
 
 #### (c) Continuation of existing coverage
 
-Notwithstanding any provision of this section to the contrary, any bank or association that on December 24, 1980, is offering insurance coverages not authorized by this section may continue to sell such coverages for a period of not more than one year from such date and may continue to service such coverages until their expiration.
+Notwithstanding any provision of this section to the contrary, any bank or association that onDecember 24, 1980, is offering insurance coverages not authorized by this section may continue to sell such coverages for a period of not more than one year from such date and may continue to service such coverages until their expiration.
 
 (Pub. L. 92–181, title IV, §4.29, as added Pub. L. 96–592, title IV, §404, Dec. 24, 1980, 94 Stat. 3448; amended Pub. L. 100–233, title IV, §422(a), Jan. 6, 1988, 101 Stat. 1655; Pub. L. 100–399, title IV, §411, Aug. 17, 1988, 102 Stat. 1003; Pub. L. 101–624, title XVIII, §1834, Nov. 28, 1990, 104 Stat. 3833.)
 
 #### Amendments
 
-1990—Subsec. (a)(2). Pub. L. 101–624, §1834(1), inserted “, if more than two insurers for each type of insurance have proposed programs to a bank that will, in all likelihood, have long-term viability and meet the requirements of subsection (b)(2)(D) of this section” before period at end of first sentence, and “, if at least two insurers have been approved in accordance with this paragraph” before period at end of third sentence.
+<b>1990</b>—Subsec. (a)(2). Pub. L. 101–624, §1834(1), inserted “, if more than two insurers for each type of insurance have proposed programs to a bank that will, in all likelihood, have long-term viability and meet the requirements of subsection (b)(2)(D) of this section” before period at end of first sentence, and “, if at least two insurers have been approved in accordance with this paragraph” before period at end of third sentence.
 
 Subsec. (b)(2)(E). Pub. L. 101–624, §1834(2), inserted before semicolon at end “, if at least two insurers have been approved in accordance with subsection (a)(2) of this section”.
 
-1988—Subsec. (a). Pub. L. 100–233, §422(a)(1), designated existing provisions as par. (1), struck out “of this Act” to conform to style of original enactment, resulting in no change in text, inserted “or borrower from” before “any such bank”, inserted provision at end giving a member or borrower the option, without coercion from the bank or association of such member or borrower, to accept or reject such insurance, and added par. (2).
+<b>1988</b>—Subsec. (a). Pub. L. 100–233, §422(a)(1), designated existing provisions as par. (1), struck out “of this Act” to conform to style of original enactment, resulting in no change in text, inserted “or borrower from” before “any such bank”, inserted provision at end giving a member or borrower the option, without coercion from the bank or association of such member or borrower, to accept or reject such insurance, and added par. (2).
 
 Subsec. (a)(1). Pub. L. 100–399, §411(a), substituted “subchapters I and II of this chapter” for “sections 2019, 2033, 2076, and 2097 of this title”.
 

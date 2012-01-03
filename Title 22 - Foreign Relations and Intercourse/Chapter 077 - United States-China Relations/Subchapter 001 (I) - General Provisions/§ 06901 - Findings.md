@@ -162,7 +162,7 @@ Export-Import Bank and TDA.—The Export-Import Bank of the United States and th
 
 “(d)
 
-Tibet Project Principles.—Projects in Tibet supported by international financial institutions, otherinternational organizations, nongovernmental organizations, and the United States entities referred to in subsection (c), should—
+Tibet Project Principles.—Projects in Tibet supported by international financial institutions, other international organizations, nongovernmental organizations, and the United States entities referred to in subsection (c), should—
 
 &emsp;“(1) be implemented only after conducting a thorough assessment of the needs of the Tibetan people through field visits and interviews;
 

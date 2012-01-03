@@ -34,7 +34,7 @@ Funds allotted to a State under this section—
 
 #### References in Text
 
-Section 5116i of this title, referred to in subsecs. (a) and (b)(1), was in the original “section 210”, and wastranslated as meaning section 209 of Pub. L. 93–247 to reflect the probable intent of Congress and the redesignation of section 210 as 209 by Pub. L. 111–320, title I, §141, Dec. 20, 2010, 124 Stat. 3482.
+Section 5116i of this title, referred to in subsecs. (a) and (b)(1), was in the original “section 210”, and was translated as meaning section 209 of Pub. L. 93–247 to reflect the probable intent of Congress and the redesignation of section 210 as 209 by Pub. L. 111–320, title I, §141, Dec. 20, 2010, 124 Stat. 3482.
 
 #### Prior Provisions
 

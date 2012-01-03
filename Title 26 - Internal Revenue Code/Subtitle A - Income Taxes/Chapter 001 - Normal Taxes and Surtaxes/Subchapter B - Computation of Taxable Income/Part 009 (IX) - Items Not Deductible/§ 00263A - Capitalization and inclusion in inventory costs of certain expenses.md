@@ -100,7 +100,7 @@ Except as otherwise provided in this section, this section shall apply to—
 
 &emsp;&emsp;Subparagraph (A) shall apply to amounts paid or incurred by a person (other than the taxpayer described in subparagraph (A)) if—
 
-&emsp;&emsp;&emsp;(i) the taxpayer described in subparagraph (A) has an equity interest of more than 50 percent in the plants described in subparagraph (A) at all times during the taxable year in which such amounts were paid or incurred, and
+&emsp;&emsp;&emsp;(i) the taxpayer described in subparagraph (A) has an equity interest of morethan 50 percent in the plants described in subparagraph (A) at all times during the taxable year in which such amounts were paid or incurred, and
 
 &emsp;&emsp;&emsp;(ii) such other person holds any part of the remaining equity interest and materially participates in the planting, maintenance, cultivation, or development of such the plants described in subparagraph (A) during the taxable year in which such amounts were paid or incurred.
 
@@ -194,7 +194,7 @@ Except as otherwise provided in this section, this section shall apply to—
 
 &emsp;&emsp;&emsp;(ii) the raising or harvesting of trees bearing fruit, nuts, or other crops, or ornamental trees.
 
-> &emsp;&emsp;For purposes of clause (ii), an evergreen tree which is more than 6 years old at the timesevered from the roots shall not be treated as an ornamental tree.
+> &emsp;&emsp;For purposes of clause (ii), an evergreen tree which is more than 6 years old at the time severed from the roots shall not be treated as an ornamental tree.
 
 #### (5) Certain inventory valuation methods permitted
 
@@ -296,7 +296,7 @@ For purposes of this section—
 
 #### (A) Writer
 
-&emsp;&emsp;The term “writer” means any individual if the personal efforts of such individual create (or may reasonably be expected to create) a literary manuscript, musical composition (including any accompanying words), or dance score.
+&emsp;&emsp;The term “writer” means any individual if the personal efforts of such individual create\(or may reasonably be expected to create) a literary manuscript, musical composition (including any accompanying words), or dance score.
 
 #### (B) Photographer
 
@@ -492,7 +492,7 @@ Transition rule concerning capitalization of inventory rules.—In the case of a
 
 “(6)
 
-Treatment of certain rehabilitation project.—The amendments made by this section shall not apply to interest and taxes paid or incurred withrespect to the rehabilitation and conversion of a certified historic building which was formerly a factory into an apartment project with 155 units, 39 units of which are for low-income families, if the project was approved for annual interest assistance on June 10, 1986, by the housing authority of the State in which the project is located.
+Treatment of certain rehabilitation project.—The amendments made by this section shall not apply to interest and taxes paid or incurred with respect to the rehabilitation and conversion of a certified historic building which was formerly a factory into an apartment project with 155 units, 39 units of which are for low-income families, if the project was approved for annual interest assistance on June 10, 1986, by the housing authority of the State in which the project is located.
 
 “(7)
 

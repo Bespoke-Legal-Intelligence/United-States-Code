@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—RETENTION PREFERENCE
 
-<i><sup>1</sup></i><i> So in original. Two sections “3598” have been enacted.</i>
-
-<i><sup>2</sup></i><i> So in original. Does not conform to section catchline.</i>
-
 
 ---
 

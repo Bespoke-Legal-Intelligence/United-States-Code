@@ -34,7 +34,7 @@ To the extent authorized by subsection (a) of this section, the Administrator sh
 
 &emsp;(10) work with business, labor, consumer and other interests and obtain their cooperation;
 
-&emsp;(11) in administering any pricing authority, provide by rule, for equitable allocation of all component costs of producing propane gas. Such rules may require that (a) only those costs directly related to the production of propane may be allocated by any producer to such gas for purposes of establishing any price for propane, and (b) prices for propane shall be based on the prices for propane in effect on May 15, 1973. The Administrator shall not allow costs attributable to changes in ownership and movement of propane gas where, in the opinion of the Administrator, such changes in ownership and movement occur primarily for the purpose of establishing a higher price; and
+&emsp;(11) in administering any pricing authority, provide by rule, for equitable allocation of all component costs of producing propane gas. Such rules may require that (a) only those costs directly related to the production of propane may be allocated by any producer to such gas for purposes of establishing any price for propane, and (b) prices for propane shall be based on the prices for propane in effect on May 15, 1973. The Administrator shall not allow costs attributable to changes in ownership and movement of propane gas where, inthe opinion of the Administrator, such changes in ownership and movement occur primarily for the purpose of establishing a higher price; and
 
 &emsp;(12) perform such other functions as may be prescribed by law.
 

@@ -60,13 +60,13 @@ Each plan for child welfare services under this subpart shall—
 
 &emsp;&emsp;(i) a schedule for initial and follow-up health screenings that meet reasonable standards of medical practice;
 
-&emsp;&emsp;(ii) how health needs identified through screenings will be monitored and treated;
+&emsp;&emsp;(ii) how health needs identified through screenings will be monitored and treated, including emotional trauma associated with a child's maltreatment and removal from home;
 
 &emsp;&emsp;(iii) how medical information for children in care will be updated and appropriately shared, which may include the development and implementation of an electronic health record;
 
 &emsp;&emsp;(iv) steps to ensure continuity of health care services, which may include the establishment of a medical home for every child in care;
 
-&emsp;&emsp;(v) the oversight of prescription medicines;
+&emsp;&emsp;(v) the oversight of prescription medicines, including protocols for the appropriate use and monitoring of psychotropic medications;
 
 &emsp;&emsp;(vi) how the State actively consults with and involves physicians or other appropriate medical or non-medical professionals in assessing the health and well-being of children in foster care and in determining appropriate medical treatment for the children; and
 
@@ -84,9 +84,13 @@ Each plan for child welfare services under this subpart shall—
 
 &emsp;&emsp;(D) preserve essential program records; and
 
-&emsp;&emsp;(E) coordinate services and share information with other States; and
+&emsp;&emsp;(E) coordinate services and share information with other States;
 
-&emsp;(17) not later than October 1, 2007, describe the State standards for the content and frequency of caseworker visits for children who are in foster care under the responsibility of the State, which, at a minimum, ensure that the children are visited on a monthly basis and that the caseworker visits are well-planned and focused on issues pertinent to case planning and service delivery to ensure the safety, permanency, and well-being of the children.
+&emsp;(17) not later than October 1, 2007, describe the State standards for the content and frequency of caseworker visits for children who are in foster care under the responsibility of the State, which, at a minimum, ensure that the children are visited on a monthly basis and that the caseworker visits are well-planned and focused on issues pertinent to case planning and service delivery to ensure the safety, permanency, and well-being of the children;
+
+&emsp;(18) include a description of the activities that the State has undertaken to reduce the length of time children who have not attained 5 years of age are without a permanent family, and the activities the State undertakes to address the developmental needs of such children who receive benefits or services under this part or part E; and
+
+&emsp;(19) contain a description of the sources used to compile information on child maltreatment deaths required by Federal law to be reported by the State agency referred to in paragraph (1), and to the extent that the compilation does not include information on such deaths from the State vital statistics department, child death review teams, law enforcement agencies, or offices of medical examiners or coroners, the State shall describe why the information is not so included and how the State will include the information.
 
 #### (c) Definitions
 
@@ -100,7 +104,7 @@ In this subpart:
 
 &emsp;For definitions of other terms used in this part, see section 675 of this title.
 
-(Aug. 14, 1935, ch. 531, title IV, §422, as added and amended Pub. L. 90–248, title II, §240(c), (d), Jan. 2, 1968, 81 Stat. 912, 915; Pub. L. 93–647, §3(a)(6), (7), (h), Jan. 4, 1975, 88 Stat. 2348, 2349; Pub. L. 96–272, title I, §103(a), June 17, 1980, 94 Stat. 517; Pub. L. 101–239, title X, §10403(b)(1), Dec. 19, 1989, 103 Stat. 2488; Pub. L. 103–66, title XIII, §13711(b)(1), Aug. 10, 1993, 107 Stat. 655; Pub. L. 103–382, title V, §554, Oct. 20, 1994, 108 Stat. 4057; Pub. L. 103–432, title II, §§202(a), 204(a), Oct. 31, 1994, 108 Stat. 4453, 4456; Pub. L. 104–193, title I, §108(b), Aug. 22, 1996, 110 Stat. 2165; Pub. L. 105–33, title V, §5592(a)(1)(A), (2), Aug. 5, 1997, 111 Stat. 644; Pub. L. 105–89, title I, §102(1), title II, §202(a), Nov. 19, 1997, 111 Stat. 2117, 2125; Pub. L. 105–200, title IV, §410(b), July 16, 1998, 112 Stat. 673; Pub. L. 106–279, title II, §205, Oct. 6, 2000, 114 Stat. 837; Pub. L. 109–171, title VII, §7401(b), Feb. 8, 2006, 120 Stat. 150; Pub. L. 109–239, §13, July 3, 2006, 120 Stat. 514; Pub. L. 109–288, §§6(c), 7(a), Sept. 28, 2006, 120 Stat. 1244, 1248; Pub. L. 110–351, title II, §205, Oct. 7, 2008, 122 Stat. 3961; Pub. L. 111–148, title II, §2955(c), title VI, §6703(d)(2)(B), Mar. 23, 2010, 124 Stat. 352, 803.)
+(Aug. 14, 1935, ch. 531, title IV, §422, as added and amended Pub. L. 90–248, title II, §240(c), (d), Jan. 2, 1968, 81 Stat. 912, 915; Pub. L. 93–647, §3(a)(6), (7), (h), Jan. 4, 1975, 88 Stat. 2348, 2349; Pub. L. 96–272, title I, §103(a), June 17, 1980, 94 Stat. 517; Pub. L. 101–239, title X, §10403(b)(1), Dec. 19, 1989, 103 Stat. 2488; Pub. L. 103–66, title XIII, §13711(b)(1), Aug. 10, 1993, 107 Stat. 655; Pub. L. 103–382, title V, §554, Oct. 20, 1994, 108 Stat. 4057; Pub. L. 103–432, title II, §§202(a), 204(a), Oct. 31, 1994, 108 Stat. 4453, 4456; Pub. L. 104–193, title I, §108(b), Aug. 22, 1996, 110 Stat. 2165; Pub. L.105–33, title V, §5592(a)(1)(A), (2), Aug. 5, 1997, 111 Stat. 644; Pub. L. 105–89, title I, §102(1), title II, §202(a), Nov. 19, 1997, 111 Stat. 2117, 2125; Pub. L. 105–200, title IV, §410(b), July 16, 1998, 112 Stat. 673; Pub. L. 106–279, title II, §205, Oct. 6, 2000, 114 Stat. 837; Pub. L. 109–171, title VII, §7401(b), Feb. 8, 2006, 120 Stat. 150; Pub. L. 109–239, §13, July 3, 2006, 120 Stat. 514; Pub. L. 109–288, §§6(c), 7(a), Sept. 28, 2006, 120 Stat. 1244, 1248; Pub. L. 110–351, title II, §205, Oct. 7, 2008, 122 Stat. 3961; Pub. L. 111–148, title II, §2955(c), title VI, §6703(d)(2)(B), Mar. 23, 2010, 124 Stat. 352, 803; Pub. L. 112–34, title I, §101(b), Sept. 30, 2011, 125 Stat. 369.)
 
 #### References in Text
 
@@ -108,11 +112,17 @@ Division A of subchapter XX, referred to in subsec. (b)(1), (2), was in the orig
 
 Section 103(d) of the Adoption Assistance and Child Welfare Act of 1980, referred to in subsec. (b)(1), is section 103(d) of Pub. L. 96–272, which is set out as a note below.
 
-Parts A and E of this subchapter, referred to in subsec. (b)(2), (13), (16), are classified to sections 601 et seq. and 670 et seq. of this title.
-
 The Indian Child Welfare Act, referred to in subsec. (b)(9), probably means the Indian Child Welfare Act of 1978, Pub. L. 95–608, Nov. 8, 1978, 92 Stat. 3069, which is classified principally to chapter 21 (§1901 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of Title 25 and Tables.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (b)(15)(A)(ii). Pub. L. 112–34, §101(b)(1), inserted “, including emotional trauma associated with a child's maltreatment and removal from home” before the semicolon.
+
+Subsec. (b)(15)(A)(v). Pub. L. 112–34, §101(b)(2), inserted “, including protocols for the appropriate use and monitoring of psychotropic medications” before the semicolon.
+
+Subsec. (b)(18). Pub. L. 112–34, §101(b)(3), added par. (18).
+
+Subsec. (b)(19). Pub. L. 112–34, §101(b)(4), added par. (19).
 
 <b>2010</b>—Subsec. (b)(1), (2). Pub. L. 111–148, §6703(d)(2)(B), inserted “division A of” before “subchapter XX”.
 
@@ -242,6 +252,18 @@ Subsec. (c). Pub. L. 93–647, §3(h), added subsec. (c).
 
 <b>1968</b>—Subsec. (a)(1). Pub. L. 90–248, §240(d), added subpar. (A) and redesignated former subpars. (A) and (B) as (B) and (C), respectively.
 
+#### Effective Date of 2011 Amendment
+
+Pub. L. 112–34, title I, §107, Sept. 30, 2011, 125 Stat. 378, provided that:
+
+“(a)
+
+In General.—Except as otherwise provided in this title \[enacting section 629m of this title, amending sections 622 to 625, 629a to 629c, 629f to 629h, 673, 675, and 679b of this title, and enacting provisions set out as notes under sections 629h and 629m of this title\], this title and the amendments made by this title shall take effect on October 1, 2011, and shall apply to payments under parts B and E of title IV of the Social Security Act \[42 U.S.C. 620 et seq., 670 et seq.\] for calendar quarters beginning on or after such date, without regard to whether regulations to implement the amendments are promulgated by such date.
+
+“(b)
+
+Delay Permitted if State Legislation Required.—If the Secretary of Health and Human Services determines that State legislation (other than legislation appropriating funds) is required in order for a State plan developed pursuant to subpart 1 of part B \[42 U.S.C. 620 et seq.\], or a State plan approved under subpart 2 of part B \[42 U.S.C. 629 et seq.\] or part E, of title IV of the Social Security Act to meet the additional requirements imposed by the amendments made by this title, the plan shall not be regarded as failing to meet any of the additional requirements before the 1st day of the 1st calendar quarter beginning after the first regular session of the State legislature that begins after the date of the enactment of this Act \[Sept. 30, 2011\]. If the State has a 2-year legislative session, each year of the session is deemed to be a separate regular session of the State legislature.”
+
 #### Effective Date of 2010 Amendment
 
 Pub. L. 111–148, title II, §2955(d), Mar. 23, 2010, 124 Stat. 353, provided that: “The amendments made by this section \[amending this section and sections 675 and 677 of this title\] take effect on October 1, 2010.”
@@ -252,7 +274,7 @@ Amendment by Pub. L. 110–351 effective Oct. 7, 2008, and applicable to payment
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–288 effective Oct. 1, 2006, and applicable to payments under this part and part Eof this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 12(a), (b) of Pub. L. 109–288, set out as a note under section 621 of this title.
+Amendment by Pub. L. 109–288 effective Oct. 1, 2006, and applicable to payments under this part and part E of this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 12(a), (b) of Pub. L. 109–288, set out as a note under section 621 of this title.
 
 Pub. L. 109–239, §14, July 3, 2006, 120 Stat. 514, provided that:
 

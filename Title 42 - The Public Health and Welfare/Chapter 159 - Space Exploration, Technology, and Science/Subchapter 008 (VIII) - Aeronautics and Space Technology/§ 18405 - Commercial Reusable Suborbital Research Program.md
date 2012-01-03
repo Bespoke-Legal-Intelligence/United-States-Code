@@ -6,11 +6,11 @@ The report of the National Academy of Sciences, Revitalizing NASA's Suborbital P
 
 #### (b) Management
 
-The Administrator shall designate an officer or employee of the Space Technology Program to act as the responsible official for the Commercial Reusable Suborbital Research Program in the Space Technology Program. The designeeshall be responsible for the development of short- and long term strategic plans for maintaining, renewing and extending suborbital facilities and capabilities.
+The Administrator shall designate an officer or employee of the Space Technology Program to act as the responsible official for the Commercial Reusable Suborbital Research Program in the Space Technology Program. The designee shall be responsible for the development of short- and long term strategic plans for maintaining, renewing and extending suborbital facilities and capabilities.
 
 #### (c) Establishment
 
-The Administrator shall establish a Commercial Reusable Suborbital Research Program within the Space Technology Program that shall fund the development of payloads for scientific research, technology development, and education, and shall provide flight opportunities for those payloads to microgravity environments and suborbital altitudes. The Commercial Reusable Suborbital Research Program may fund engineering and integration demonstrations, proofs of concept, or educational experiments for commercial reusable vehicle flights. The program shall endeavor to work with NASA's Mission Directorates to help achieve NASA's research, technology, and education goals.
+The Administrator shall establish a Commercial Reusable Suborbital Research Program within the Space Technology Program that shall fund the development of payloads for scientific research, technology development, and education, and shall provide flight opportunities for those payloads to microgravity environments and suborbital altitudes. The CommercialReusable Suborbital Research Program may fund engineering and integration demonstrations, proofs of concept, or educational experiments for commercial reusable vehicle flights. The program shall endeavor to work with NASA's Mission Directorates to help achieve NASA's research, technology, and education goals.
 
 #### (d) Report
 

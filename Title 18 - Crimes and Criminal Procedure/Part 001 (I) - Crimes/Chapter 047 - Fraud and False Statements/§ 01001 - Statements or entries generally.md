@@ -58,7 +58,7 @@ Pub. L. 108–21, title VI, §607(a), Apr. 30, 2003, 117 Stat. 689, provided tha
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–578, §1, Dec. 28, 2000, 114 Stat. 3075, provided that: “This Act \[amending section 1028 of this title, repealing section 1738 of this title, and enacting provisions set out as notes under section 1028 of this title\] may be cited as the ‘Internet False Identification Prevention Act of 2000’.”
+Pub. L. 106–578, §1, Dec. 28, 2000, 114 Stat. 3075, provided that: “This Act \[amending section 1028 of thistitle, repealing section 1738 of this title, and enacting provisions set out as notes under section 1028 of this title\] may be cited as the ‘Internet False Identification Prevention Act of 2000’.”
 
 #### Short Title of 1998 Amendments
 

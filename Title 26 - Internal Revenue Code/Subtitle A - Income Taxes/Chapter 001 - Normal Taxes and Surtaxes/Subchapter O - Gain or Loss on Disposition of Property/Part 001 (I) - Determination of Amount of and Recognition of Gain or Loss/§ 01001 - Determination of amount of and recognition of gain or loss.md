@@ -88,7 +88,7 @@ Section 516(d) of Pub. L. 91–172, as amended by Pub. L. 99–514, §2, Oct. 22
 
 “(2) The amendment made by subsection (b) \[amending section 1231 of this title\] shall apply to taxable years beginning after December 31, 1969.
 
-“(3) The amendments made by subsection (c) \[enacting section 1253 and amending sections 162 and 1016 of this title\] shall apply to transfers after December 31, 1969, except that section 1253(d)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (c) shall, at the election of the taxpayer (made at such time and in such manner as the Secretary or his delegate may by regulations prescribe), apply totransfers before January 1, 1970, but only with respect to payments made in taxable years ending after December 31, 1969, and beginning before January 1, 1980.”
+“(3) The amendments made by subsection (c) \[enacting section 1253 and amending sections 162 and 1016 of this title\] shall apply to transfers after December 31, 1969, except that section 1253(d)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (c) shall, at the election of the taxpayer (made at such time and in such manner as the Secretary or his delegate may by regulations prescribe), apply to transfers before January 1, 1970, but only with respect to payments made in taxable years ending after December 31, 1969, and beginning before January 1, 1980.”
 
 #### Repeals
 

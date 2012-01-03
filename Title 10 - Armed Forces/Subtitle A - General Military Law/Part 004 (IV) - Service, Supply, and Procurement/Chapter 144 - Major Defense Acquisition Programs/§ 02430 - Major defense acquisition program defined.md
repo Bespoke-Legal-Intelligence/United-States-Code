@@ -12,13 +12,17 @@
 
 &emsp;(1) The estimated level of resources required to fulfill the relevant joint military requirement, as determined by the Joint Requirements Oversight Council pursuant to section 181 of this title.
 
-&emsp;(2) The cost estimate referred to in section 2366a(a)(4) of this title.
+&emsp;(2) The cost estimate referred to in section 2366a(a)(4) <sup>1</sup> of this title.
 
 &emsp;(3) The cost estimate referred to in section 2366b(a)(1)(C) of this title.
 
 &emsp;(4) The cost estimate within a baseline description as required by section 2435 of this title.
 
 (Added Pub. L. 100–26, §7(b)(2)(A), Apr. 21, 1987, 101 Stat. 279; amended Pub. L. 102–484, div. A, title VIII, §817(b), Oct. 23, 1992, 106 Stat. 2455; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 111–23, title II, §206(b), May 22, 2009, 123 Stat. 1728.)
+
+#### References in Text
+
+Section 2366a(a)(4) of this title, referred to in subsec. (c)(2), was redesignated section 2366a(a)(7) of this title by Pub. L. 112–81, div. A, title VIII, §801(a)(1)(B), Dec. 31, 2011, 125 Stat. 1482.
 
 #### Amendments
 
@@ -32,9 +36,75 @@ Subsec. (c). Pub. L. 111–23, §206(b)(2), added subsec. (c).
 
 <b>1992</b>—Pub. L. 102–484 designated existing provisions as subsec. (a), in par. (2) substituted “$300,000,000” for “$200,000,000”, “1990” for “1980” in two places, and “$1,800,000,000” for “$1,000,000,000”, and added subsec. (b).
 
+#### Assessment, Management, and Control of Operating and Support Costs for Major Weapon Systems
+
+Pub. L. 112–81, div. A, title VIII, §832, Dec. 31, 2011, 125 Stat. 1504, provided that:
+
+“(a)
+
+Guidance Required.—Not later than 180 days after the date of the enactment of this Act \[Dec. 31, 2011\], the Secretary of Defense shall issue guidance on actions to be taken to assess, manage, and control Department of Defense costs for the operation and support of major weapon systems.
+
+“(b)
+
+Elements.—The guidance required by subsection (a) shall, at a minimum—
+
+&emsp;“(1) be issued in conjunction with the comprehensive guidance on life-cycle management and the development and implementation of product support strategies for major weapon systems required by section 805 of the National Defenese \[sic\] Authorization Act for Fiscal Year 2010 (Public Law 111–84; 123 Stat. 2403; 10 U.S.C. 2301 \[2302\] note);
+
+&emsp;“(2) require the military departments to retain each estimate of operating and support costs that is developed at any time during the life cycle of a major weapon system, together with supporting documentation used to develop the estimate;
+
+&emsp;“(3) require the military departments to update estimates of operating and support costs periodically throughout the life cycle of a major weapon system, to determine whether preliminary information and assumptions remain relevant and accurate, and identify and record reasons for variances;
+
+&emsp;“(4) establish standard requirements for the collection of data on operating and support costs for major weapon systems and require the military departments to revise their Visibility and Management of Operating and Support Costs (VAMOSC) systems to ensure that they collect complete and accurate data in compliance with such requirements and make such data available in a timely manner;
+
+&emsp;“(5) establish standard requirements for the collection and reporting of data on operating and support costs for major weapon systems by contractors performing weapon system sustainment functions in an appropriate format, and develop contract clauses to ensure that contractors comply with such requirements;
+
+&emsp;“(6) require the military departments—
+
+&emsp;&emsp;“(A) to collect and retain data from operational and developmental testing and evaluation on the reliability and maintainability of major weapon systems; and
+
+&emsp;&emsp;“(B) to use such data to inform system design decisions, provide insight into sustainment costs, and inform estimates of operating and support costs for such systems;
+
+&emsp;“(7) require the military departments to ensure that sustainment factors are fully considered at key life cycle management decision points and that appropriate measures are taken to reduce operating and support costs by influencing system design early in development, developing sound sustainment strategies, and addressing key drivers of costs;
+
+&emsp;“(8) require the military departments to conduct an independent logistics assessment of each major weapon system prior to key acquisition decision points (including milestone decisions) to identify features that are likely to drive future operating and support costs, changes to system design that could reduce such costs, and effective strategies for managing such costs;
+
+&emsp;“(9) include—
+
+&emsp;&emsp;“(A) reliability metrics for major weapon systems; and
+
+&emsp;&emsp;“(B) requirements on the use of metrics under subparagraph (A) as triggers—
+
+&emsp;&emsp;&emsp;“(i) to conduct further investigation and analysis into drivers of those metrics; and
+
+&emsp;&emsp;&emsp;“(ii) to develop strategies for improving reliability, availability, and maintainability of such systems at an affordable cost; and
+
+&emsp;“(10) require the military departments to conduct periodic reviews of operating and support costs of major weapon systems after such systems achieve initial operational capability to identify and address factors resulting in growth in operating and support costs and adapt support strategies to reduce such costs.
+
+“(c)
+
+Retention of Data on Operating and Support Costs.—
+
+&emsp;“(1)
+
+In general.—The Director of Cost Assessment and Program Evaluation shall be responsible for developing and maintaining a database on operating and support estimates, supporting documentation, and actual operating and support costs for major weapon systems.
+
+&emsp;“(2)
+
+Support.—The Secretary of Defense shall ensure that the Director, in carrying out such responsibility—
+
+&emsp;&emsp;“(A) promptly receives the results of all cost estimates and cost analyses conducted by the military departments with regard to operating and support costs of major weapon systems;
+
+&emsp;&emsp;“(B) has timely access to any records and data of the military departments (including classified and proprietary information) that the Director considers necessary to carry out such responsibility; and
+
+&emsp;&emsp;“(C) with the concurrence of the Under Secretary of Defense for Acquisition, Technology, and Logistics, may direct the military departments to collect and retain information necessary to support the database.
+
+“(d)
+
+Major Weapon System Defined.—In this section, the term ‘major weapon system’ has the meaning given that term in section 2379(f) of title 10, United States Code.”
+
 #### Management of Manufacturing Risk in Major Defense Acquisition Programs
 
-Pub. L. 111–383, div. A, title VIII, §812, Jan. 7, 2011, 124 Stat. 4264, provided that:
+Pub. L. 111–383, div. A, title VIII, §812, Jan. 7, 2011, 124 Stat. 4264, as amended by Pub. L. 112–81, div. A, title VIII, §834, Dec. 31, 2011, 125 Stat. 1506, provided that:
 
 “(a)
 
@@ -44,15 +114,17 @@ Guidance Required.—Not later than 180 days after the date of the enactment of 
 
 Elements.—The guidance issued under subsection (a) shall, at a minimum—
 
-&emsp;“(1) require the use of manufacturing readiness levels as a basis for measuring, assessing, reporting, and communicating manufacturing readiness and risk on major defense acquisition programs throughout the Department of Defense;
+&emsp;“(1) require the use of manufacturing readiness levels or other manufacturing readiness standards as a basis for measuring, assessing, reporting, and communicating manufacturing readiness and risk on major defense acquisition programs throughout the Department of Defense;
 
-&emsp;“(2) provide guidance on the definition of manufacturing readiness levels and how manufacturing readiness levels should be used to assess manufacturing risk and readiness in major defense acquisition programs;
+&emsp;“(2) provide guidance on the definition of manufacturing readiness levels or other manufacturing readiness standards and how manufacturing readiness levels or other manufacturing readiness standards should be used to assess manufacturing risk and readiness in major defense acquisition programs;
 
-&emsp;“(3) specify manufacturing readiness levels that should be achieved at key milestones and decision points for major defense acquisition programs;
+&emsp;“(3) specify manufacturing readiness levels or other manufacturing readiness standards that should be achieved at key milestones and decision points for major defense acquisition programs;
 
-&emsp;“(4) identify tools and models that may be used to assess, manage, and reduce risks that are identified in the course of manufacturing readiness assessments for major defense acquisition programs; and
+&emsp;“(4) provide for the tailoring of manufacturing readiness levels or other manufacturing readiness standards to address the unique characteristics of specific industry sectors or weapon system portfolios;
 
-&emsp;“(5) require appropriate consideration of the manufacturing readiness and manufacturing readiness processes of potential contractors and subcontractors as a part of the source selection process for major defense acquisition programs.
+&emsp;“(5) identify tools and models that may be used to assess, manage, and reduce risks that are identified in the course of manufacturing readiness assessments for major defense acquisition programs; and
+
+&emsp;“(6) require appropriate consideration of the manufacturing readiness and manufacturing readiness processes of potential contractors and subcontractors as a part of the source selection process for major defense acquisition programs.
 
 “(c)
 
@@ -96,11 +168,11 @@ Reports by service acquisition executives.—Not later than 180 days after the d
 
 &emsp;“(A) such military department or Defense Agency has implemented, or is implementing, the plan required by paragraph (1); and
 
-&emsp;“(B) additional authorities or resources are needed to attract, develop, retain, and reward developmental test and evaluation personnel and systems engineers with appropriate levels of hands-on experience and technical expertise to meet the needs of such military department or Defense Agency.
+&emsp;“(B) additional authorities or resources are needed to attract, develop, retain, and reward developmentaltest and evaluation personnel and systems engineers with appropriate levels of hands-on experience and technical expertise to meet the needs of such military department or Defense Agency.
 
 “(3)
 
-Assessment of reports by deputy assistant secretary of defense for developmental test and evaluation and deputy assistant secretary of defense for systems engineering.—Each annual report from 2010 through 2014 submitted to Congress by the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation and the Deputy Assistant Secretary of Defense for Systems Engineering under section 139d(c) \[now 139b(c)\] of title 10, United States Code (as added by subsection (a)), shall include an assessment by the Deputy Assistant Secretaries of Defense of the reports submitted by the service acquisition executives to the Deputy Assistant Secretaries of Defense under paragraph (2).”
+Assessment of reports by deputy assistant secretary of defense for developmental test and evaluation and deputy assistant secretary of defense for systems engineering.—Each annual report from 2010 through 2014 submitted to Congress by the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation and the Deputy Assistant Secretary of Defense for Systems Engineering under section 139d(c) \[now 139b(d)\] of title 10, United States Code (as added by subsection (a)), shall include an assessment by the Deputy Assistant Secretaries of Defense of the reports submitted by the service acquisition executives to the Deputy Assistant Secretaries of Defense under paragraph (2).”
 
 #### Performance Assessments and Root Cause Analyses for Major Defense Acquisition Programs
 
@@ -108,13 +180,13 @@ Pub. L. 111–23, title I, §103, May 22, 2009, 123 Stat. 1715, which authorized
 
 #### Acquisition Strategies To Ensure Competition Throughout the Lifecycle of Major Defense Acquisition Programs
 
-Pub. L. 111–23, title II, §202, May 22, 2009, 123 Stat. 1720, provided that:
+Pub. L. 111–23, title II, §202, May 22, 2009, 123 Stat. 1720, as amended by Pub. L. 112–81, div. A, title VIII, §837, Dec. 31, 2011, 125 Stat. 1509, provided that:
 
 “(a)
 
 Acquisition Strategies To Ensure Competition.—The Secretary of Defense shall ensure that the acquisition strategy for each major defense acquisition program includes—
 
-&emsp;“(1) measures to ensure competition, or the option of competition, at both the prime contract level andthe subcontract level (at such tier or tiers as are appropriate) of such program throughout the life-cycle of such program as a means to improve contractor performance; and
+&emsp;“(1) measures to ensure competition, or the option of competition, at both the prime contract level and the subcontract level (at such tier or tiers as are appropriate) of such program throughout the life-cycle of such program as a means to improve contractor performance; and
 
 &emsp;“(2) adequate documentation of the rationale for the selection of the subcontract tier or tiers under paragraph (1).
 
@@ -154,7 +226,7 @@ Additional Measures To Ensure Competition at Subcontract Level.—The Secretary 
 
 “(d)
 
-Consideration of Competition Throughout Operation and Sustainment of Major Weapon Systems.—Whenever a decision regarding source of repair results in a plan to award a contract for performance of maintenance and sustainment of a major weapon system, the Secretary shall take actions to ensure that, to the maximum extent practicable and consistent with statutory requirements, contracts for such maintenance and sustainment are awarded on a competitive basis and give full consideration to all sources (including sources that partner or subcontract with public or private sector repair activities).
+Consideration of Competition Throughout Maintenance and Sustainment of Major Weapon Systems and Subsystems.—Whenever a decision regarding source of repair results in a plan to award a contract for performance of maintenance and sustainment of a major weapon system or subsystem of a major weapon system, the Secretary shall take actions to ensure that, to the maximum extent practicable and consistent with statutory requirements, contracts for such maintenance and sustainment, or for components needed for such maintenance and sustainment, are awarded on a competitive basis and give full consideration to all sources (including sources that partner or subcontract with public or private sector repair activities).
 
 “(e)
 
@@ -310,7 +382,7 @@ In general.—The Configuration Steering Board for a major defense acquisition p
 
 Discharge of responsibilities.—In discharging its responsibilities under this section with respect to a major defense acquisition program, a Configuration Steering Board shall—
 
-&emsp;&emsp;“(A) review and approve or disapprove any proposed changes to program requirements or system configuration that have the potential to adversely impact program cost or schedule; and
+&emsp;&emsp;“(A) review and approve or disapprove any proposed changes to program requirements or systemconfiguration that have the potential to adversely impact program cost or schedule; and
 
 &emsp;&emsp;“(B) review and recommend proposals to reduce program requirements that have the potential to improve program cost or schedule in a manner consistent with program objectives.
 
@@ -628,7 +700,7 @@ Data Base for NEPA Documentation.—The Secretary of Defense shall establish and
 
 #### Efficient Contracting Processes
 
-Pub. L. 103–160, div. A, title VIII, §837, Nov. 30, 1993, 107 Stat. 1718, as amended by Pub. L. 103–355, title V, §5064(b)(2), Oct. 13, 1994, 108 Stat. 3360, provided that: “The Secretary of Defense shall take any additional actions that the Secretary considers necessary to waive regulations not required by statute that affect the efficiency of the contracting process within the Department of Defense. Such actions shall include, in the Secretary's discretion, developing methods to streamline the procurement process, streamlining the period for entering into contracts, and defining alternative techniques to reduce reliance on military specifications andstandards, in contracts for the defense acquisition programs participating in the Defense Acquisition Pilot Program.”
+Pub. L. 103–160, div. A, title VIII, §837, Nov. 30, 1993, 107 Stat. 1718, as amended by Pub. L. 103–355, title V, §5064(b)(2), Oct. 13, 1994, 108 Stat. 3360, provided that: “The Secretary of Defense shall take any additional actions that the Secretary considers necessary to waive regulations not required by statute that affect the efficiency of the contracting process within the Department of Defense. Such actions shall include, in the Secretary's discretion, developing methods to streamline the procurement process, streamlining the period for entering into contracts, and defining alternative techniques to reduce reliance on military specifications and standards, in contracts for the defense acquisition programs participating in the Defense Acquisition Pilot Program.”
 
 #### Contract Administration: Performance Based Contract Management
 
@@ -847,4 +919,6 @@ Pub. L. 111–23, §2, May 22, 2009, 123 Stat. 1704, provided that: “In this A
 &emsp;“(2) The term ‘major defense acquisition program’ has the meaning given that term in section 2430 of title 10, United States Code.
 
 &emsp;“(3) The term ‘major weapon system’ has the meaning given that term in section 2379(d) \[probably means section 2379(f)\] of title 10, United States Code.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

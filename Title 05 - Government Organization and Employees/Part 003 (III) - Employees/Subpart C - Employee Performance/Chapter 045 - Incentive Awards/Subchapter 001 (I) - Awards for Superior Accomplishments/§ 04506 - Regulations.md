@@ -22,11 +22,11 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-2001—Pub. L. 107–67 substituted “the awards programs” for “the agency awards program”.
+<b>2001</b>—Pub. L. 107–67 substituted “the awards programs” for “the agency awards program”.
 
-1981—Pub. L. 97–35 substituted “subchapter” for “chapter”.
+<b>1981</b>—Pub. L. 97–35 substituted “subchapter” for “chapter”.
 
-1978—Pub. L. 95–454 substituted “Office of Personnel Management shall” for “Civil Service Commission may”.
+<b>1978</b>—Pub. L. 95–454 substituted “Office of Personnel Management shall” for “Civil Service Commission may”.
 
 #### Effective Date of 2001 Amendment
 

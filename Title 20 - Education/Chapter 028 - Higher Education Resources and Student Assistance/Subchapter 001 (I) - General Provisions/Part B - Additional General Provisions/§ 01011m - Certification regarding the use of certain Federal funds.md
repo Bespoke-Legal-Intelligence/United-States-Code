@@ -16,7 +16,7 @@ The prohibition in subsection (a) applies with respect to the following Federal 
 
 &emsp;(4) The entering into of any Federal cooperative agreement.
 
-&emsp;(5) The extension, continuation, renewal, amendment, or modification of any Federal contract, grant, loan, or cooperative agreement.
+&emsp;(5) The extension, continuation, renewal, amendment, or modification of any Federalcontract, grant, loan, or cooperative agreement.
 
 #### (c) Lobbying and earmarks
 

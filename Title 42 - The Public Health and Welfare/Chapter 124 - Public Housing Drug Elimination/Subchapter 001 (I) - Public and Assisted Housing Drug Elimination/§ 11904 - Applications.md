@@ -20,7 +20,7 @@ To receive a grant under this subchapter, a public housing agency, a public hous
 
 #### (3) PHAs having urgent or serious crime problems
 
-&emsp;The Secretary shall, by regulations issued after notice and opportunity for public comment, set forth criteria for establishing a class of public housing agencies that have urgent or serious crime problems. The Secretary may reserve a portion of the amount appropriated tocarry out this subchapter in each fiscal year only for grants for public housing agencies in such class, except that any amounts from such portion reserved that are not obligated to agencies in the class shall be made available only for agencies that are subject to a preference under paragraph (2)(A).
+&emsp;The Secretary shall, by regulations issued after notice and opportunity for public comment, set forth criteria for establishing a class of public housing agencies that have urgent or serious crime problems. The Secretary may reserve a portion of the amount appropriated to carry out this subchapter in each fiscal year only for grants for public housing agencies in such class, except that any amounts from such portion reserved that are not obligated to agencies in the class shall be made available only for agencies that are subject to a preference under paragraph (2)(A).
 
 #### (4) Inapplicability to federally assisted low-income housing
 
@@ -62,7 +62,7 @@ Section 1504 of title 21, referred to in subsec. (e), was repealed by Pub. L. 10
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–276, §586(e)(1), substituted “recipient of assistance under the Native American Housing Assistance and Self-Determination Act of 1996” for “tribally designated housing entity” in first sentence and “or violent crime in and around” for “crime on the premises” in second sentence, and inserted before period at end “, which plan shall be coordinated with and may be included in the public housing agency plan submitted to the Secretary pursuant to section 1437c–1 of this title”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–276, §586(e)(1), substituted “recipient of assistance under the NativeAmerican Housing Assistance and Self-Determination Act of 1996” for “tribally designated housing entity” in first sentence and “or violent crime in and around” for “crime on the premises” in second sentence, and inserted before period at end “, which plan shall be coordinated with and may be included in the public housing agency plan submitted to the Secretary pursuant to section 1437c–1 of this title”.
 
 Pub. L. 105–276, §220(3), inserted “an Indian tribe” after “resident management corporation,”.
 

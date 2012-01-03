@@ -58,7 +58,7 @@ The President, acting through the Council, shall establish a National Integrated
 
 &emsp;&emsp;(D) establish protocols and standards for System data processing, management, and communication;
 
-&emsp;&emsp;(E) develop contract certification standards and compliance procedures for all non-Federal assets, including regional information coordination entities, to establish eligibility for integration into the System and to ensure compliance with all applicable standards and protocols established by the Council, and ensure that regional observations are integrated into the System on a sustained basis;
+&emsp;&emsp;(E) develop contract certification standards and compliance procedures for all non-Federal assets, including regional information coordination entities, to establish eligibility for integration into the System and to ensure compliance with all applicable standards and protocols established by the Council, and ensure that regional observationsare integrated into the System on a sustained basis;
 
 &emsp;&emsp;(F) identify gaps in observation coverage or needs for capital improvements of both Federal assets and non-Federal assets;
 
@@ -188,7 +188,7 @@ For purposes of determining liability arising from the dissemination and use of 
 
 #### (f) Limitation
 
-Nothing in this chapter shall be construed to invalidate existing certifications, contracts, oragreements between regional information coordination entities and other elements of the System.
+Nothing in this chapter shall be construed to invalidate existing certifications, contracts, or agreements between regional information coordination entities and other elements of the System.
 
 (Pub. L. 111–11, title XII, §12304, Mar. 30, 2009, 123 Stat. 1429.)
 

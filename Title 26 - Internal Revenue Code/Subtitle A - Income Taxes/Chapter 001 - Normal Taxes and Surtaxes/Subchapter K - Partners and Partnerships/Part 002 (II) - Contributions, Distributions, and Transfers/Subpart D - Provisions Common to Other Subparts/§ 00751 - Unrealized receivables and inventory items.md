@@ -26,7 +26,7 @@ The amount of any money, or the fair market value of any property, received by a
 
 &emsp;&emsp;(B) partnership property (including money) other than property described in subparagraph (A)(i) or (ii) in exchange for all or a part of his interest in partnership property described in subparagraph (A)(i) or (ii),
 
-> &emsp;such transactions shall, under regulations prescribed by the Secretary, be considered as a sale or exchange of such property between the distributee and the partnership (as constituted after the distribution).
+> &emsp;such transactions shall, under regulations prescribed by the Secretary, be considered as asale or exchange of such property between the distributee and the partnership (as constituted after the distribution).
 
 #### (2) Exceptions
 
@@ -86,7 +86,7 @@ In determining whether property of a partnership is—
 
 #### Amendments
 
-<b>2004</b>—Subsec. (d)(2) to (4). Pub. L. 108–357 inserted “and” at end of par. (2), redesignated par. (4) as (3) and substituted “paragraph (1) or (2)” for “paragraph (1), (2), or (3)”, and struck out former par. (3) which read as follows: “any other property of the partnership which, if sold or exchanged by the partnership, would result in a gain taxable under subsection (a) of section 1246 (relating to gain on foreign investment company stock), and”.
+<b>2004</b>—Subsec. (d)(2) to (4). Pub. L. 108–357 inserted “and” at end of par. (2), redesignated par. (4) as (3) andsubstituted “paragraph (1) or (2)” for “paragraph (1), (2), or (3)”, and struck out former par. (3) which read as follows: “any other property of the partnership which, if sold or exchanged by the partnership, would result in a gain taxable under subsection (a) of section 1246 (relating to gain on foreign investment company stock), and”.
 
 <b>1999</b>—Subsec. (d)(1). Pub. L. 106–170 substituted “section 1221(a)(1)” for “section 1221(1)”.
 

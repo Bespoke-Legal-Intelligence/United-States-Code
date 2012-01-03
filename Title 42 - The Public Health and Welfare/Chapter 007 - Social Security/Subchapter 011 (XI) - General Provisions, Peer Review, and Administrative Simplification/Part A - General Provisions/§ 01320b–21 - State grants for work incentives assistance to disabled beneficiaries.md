@@ -42,7 +42,7 @@ Each protection and advocacy system that receives a payment under this section s
 
 #### (1) Allocation of payments
 
-&emsp;Payments under this section shall be made from amounts made available for the administration of subchapter II of this chapter and amounts made available for the administration of subchapter XVI of this chapter, and shall be allocated among those amounts as appropriate.
+&emsp;Payments under this section shall be made from amounts made available for the administration of subchapter II of this chapter and amounts made available for the administration of subchapter XVI of this chapter, andshall be allocated among those amounts as appropriate.
 
 #### (2) Carryover
 
@@ -62,7 +62,7 @@ In this section:
 
 &emsp;&emsp;(A) who is a disabled beneficiary as defined in section 1320b–19(k)(2) of this title;
 
-&emsp;&emsp;(B) who is receiving a cash payment described in section 1382e(a) of this title or a supplementary payment described in section 212(a)(3) of Public Law 93–66 (without regard to whether such payment is paid by the Commissioner pursuant to an agreementunder section 1382e(a) of this title or under section 212(b) of Public Law 93–66);
+&emsp;&emsp;(B) who is receiving a cash payment described in section 1382e(a) of this title or a supplementary payment described in section 212(a)(3) of Public Law 93–66 (without regard to whether such payment is paid by the Commissioner pursuant to an agreement under section 1382e(a) of this title or under section 212(b) of Public Law 93–66);
 
 &emsp;&emsp;(C) who, pursuant to section 1382h(b) of this title, is considered to be receiving benefits under subchapter XVI of this chapter; or
 
@@ -85,8 +85,6 @@ The Developmental Disabilities Assistance and Bill of Rights Act, referred to in
 Section 101(f) of the Ticket to Work and Work Incentives Improvement Act of 1999, referred to in subsec. (e), is section 101(f) of Pub. L. 106–170, which is set out as a note under section 1320b–19 of this title.
 
 Section 212 of Public Law 93–66, referred to in subsec. (g)(2)(B), is set out as a note under section 1382 of this title.
-
-Part A of subchapter XVIII of this chapter, referred to in subsec. (g)(2)(D), is classified to section 1395c et seq. of this title.
 
 #### Amendments
 

@@ -24,7 +24,7 @@ Subject to subsection (b) of this section, for every major drug producing countr
 
 &emsp;&emsp;(I) in satisfying the goals agreed to in an applicable bilateral narcotics agreement with the United States (as described in paragraph (B)) or a multilateral agreement which achieves the objectives of paragraph (B),
 
-&emsp;&emsp;(II) in preventing narcotic and psychotropic drugs and other controlled substances produced or processed, in whole or in part, in such country or transported through such country, from being sold illegally within thejurisdiction of such country to United States Government personnel or their dependents or from being transported, directly or indirectly, into the United States,
+&emsp;&emsp;(II) in preventing narcotic and psychotropic drugs and other controlled substances produced or processed, in whole or in part, in such country or transported through such country, from being sold illegally within the jurisdiction of such country to United States Government personnel or their dependents or from being transported, directly or indirectly, into the United States,
 
 &emsp;&emsp;(III) in preventing and punishing the laundering in that country of drug-related profits or drug-related moneys, and
 
@@ -126,7 +126,7 @@ The action taken by the President under paragraph (1), (2), or (3) of subsection
 
 #### (e) Standards and guidelines for determining major drug-transit countries
 
-For each calendar year, the Secretary of State, after consultation with the appropriatecommittees of the Congress, shall establish numerical standards and other guidelines for determining which countries will be considered to be major drug-transit countries under section 2495(3)(A) and (B) of this title.
+For each calendar year, the Secretary of State, after consultation with the appropriate committees of the Congress, shall establish numerical standards and other guidelines for determining which countries will be considered to be major drug-transit countries under section 2495(3)(A) and (B) of this title.
 
 (Pub. L. 93–618, title VIII, §802, as added Pub. L. 99–570, title IX, §9001, Oct. 27, 1986, 100 Stat. 3207–164; amended Pub. L. 100–204, title VIII, §806(a), Dec. 22, 1987, 101 Stat. 1398; Pub. L. 100–690, title IV, §4408, Nov. 18, 1988, 102 Stat. 4281; Pub. L. 101–231, §17(h)(1)–(4), Dec. 13, 1989, 103 Stat. 1965; Pub. L. 106–36, title I, §1001(a)(8), June 25, 1999, 113 Stat. 131.)
 

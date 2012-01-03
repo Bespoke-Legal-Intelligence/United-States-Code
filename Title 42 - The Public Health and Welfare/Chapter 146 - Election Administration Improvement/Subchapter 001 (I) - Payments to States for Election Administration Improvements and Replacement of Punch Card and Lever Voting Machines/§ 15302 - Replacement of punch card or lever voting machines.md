@@ -104,5 +104,5 @@ Pub. L. 111–8, div. D, title VI, §625(b), Mar. 11, 2009, 123 Stat. 678, provi
 
 #### Effective Date of 2007 Amendment
 
-Pub. L. 110–28, title VI, §6301(b), May 25, 2007, 121 Stat. 171, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect asif included in the enactment of the Help America Vote Act of 2002 \[Pub. L. 107–252\].”
+Pub. L. 110–28, title VI, §6301(b), May 25, 2007, 121 Stat. 171, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of the Help America Vote Act of 2002 \[Pub. L. 107–252\].”
 

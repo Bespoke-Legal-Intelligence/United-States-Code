@@ -6,9 +6,9 @@ Owners may give notice to the public by physically associating with or affixing 
 
 #### Amendments
 
-1994—Pub. L. 103–349 in first sentence struck out “novel” before “variety or” and before “variety, a”, and in second sentence struck out “novel” before “variety is distributed”.
+<b>1994</b>—Pub. L. 103–349 in first sentence struck out “novel” before “variety or” and before “variety, a”, and in second sentence struck out “novel” before “variety is distributed”.
 
-1980—Pub. L. 96–574 substituted “either the words ‘Unauthorized Propagation Prohibited’ or the words ‘Unauthorized Seed Multiplication Prohibited’ ” for “the words ‘Propagation Prohibited’ ”.
+<b>1980</b>—Pub. L. 96–574 substituted “either the words ‘Unauthorized Propagation Prohibited’ or the words ‘Unauthorized Seed Multiplication Prohibited’ ” for “the words ‘Propagation Prohibited’ ”.
 
 #### Effective Date of 1994 Amendment
 

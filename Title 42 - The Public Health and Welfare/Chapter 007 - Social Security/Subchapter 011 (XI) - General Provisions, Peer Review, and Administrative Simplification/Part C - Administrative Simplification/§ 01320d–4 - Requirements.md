@@ -22,7 +22,7 @@
 
 #### (3) Timetable for compliance
 
-&emsp;Paragraph (1) shall not be construed to require a health plan to comply with any standard, implementation specification, or modification to a standard or specification adopted or established by the Secretary under sections 1320d–1 through 1320d–3 of this title at anytime prior to the date on which the plan is required to comply with the standard or specification under subsection (b) of this section.
+&emsp;Paragraph (1) shall not be construed to require a health plan to comply with any standard, implementation specification, or modification to a standard or specification adopted or established by the Secretary under sections 1320d–1 through 1320d–3 of this title at any time prior to the date on which the plan is required to comply with the standard or specification under subsection (b) of this section.
 
 #### (b) Compliance with standards
 
@@ -134,7 +134,7 @@ Enforcement through exclusion from participation in medicare.—
 
 &emsp;&emsp;“(A)
 
-In general.—In the case of a person described in paragraph (1) who fails to submit a plan in accordance with paragraph (2), and who is not in compliance with the applicable requirements of subparts I through R of part 162 of title 45, Code of Federal Regulations, on or after October 16, 2002,the person may be excluded at the discretion of the Secretary of Health and Human Services from participation (including under part C or as a contractor under sections 1816, 1842, and 1893) \[42 U.S.C. 1395h, 1395u, 1395ddd\] in title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.).
+In general.—In the case of a person described in paragraph (1) who fails to submit a plan in accordance with paragraph (2), and who is not in compliance with the applicable requirements of subparts I through R of part 162 of title 45, Code of Federal Regulations, on or after October 16, 2002, the person may be excluded at the discretion of the Secretary of Health and Human Services from participation (including under part C or as a contractor under sections 1816, 1842, and 1893) \[42 U.S.C. 1395h, 1395u, 1395ddd\] in title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.).
 
 &emsp;&emsp;“(B)
 

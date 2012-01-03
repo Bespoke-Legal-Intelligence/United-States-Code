@@ -44,3 +44,7 @@ Section 11005 of Pub. L. 110–246, which directed amendment of title II of the 
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
+<i><sup>1</sup></i><i> So in original. A comma probably should appear.</i>
+
+<i><sup>2</sup></i><i> So in original. The comma probably should not appear.</i>
+

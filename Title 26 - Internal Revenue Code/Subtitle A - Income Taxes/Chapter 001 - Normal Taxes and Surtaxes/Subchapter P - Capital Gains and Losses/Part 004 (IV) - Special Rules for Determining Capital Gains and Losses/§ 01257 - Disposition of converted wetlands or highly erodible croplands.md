@@ -40,7 +40,7 @@ Under regulations prescribed by the Secretary, rules similar to the rules applic
 
 #### References in Text
 
-Section 1201(4) of the Food Security Act of 1985 (16 U.S.C. 3801(4)) and section 1201(6) of the Food Security Act of 1985 (16 U.S.C. 3801(6)), referred to in subsec. (c)(1), (2), probably are references to section 1201(a)(4) and 1201(a)(6) of that Act (16 U.S.C. 3801(a)(4), (6)). Section 1201 of the Food Security Act of 1985 was subsequently amended, and subsecs. (a)(4) and (a)(6) of section 1201 no longer define the terms “converted wetland” and “highly erodible cropland”, respectively. However, such terms are defined elsewhere in that section.
+Section 1201(4) of the Food Security Act of 1985 (16 U.S.C. 3801(4)) and section 1201(6) of the Food Security Act of 1985 (16 U.S.C. 3801(6)), referred to in subsec.\(c)(1), (2), probably are references to section 1201(a)(4) and 1201(a)(6) of that Act (16 U.S.C. 3801(a)(4), (6)). Section 1201 of the Food Security Act of 1985 was subsequently amended, and subsecs. (a)(4) and (a)(6) of section 1201 no longer define the terms “converted wetland” and “highly erodible cropland”, respectively. However, such terms are defined elsewhere in that section.
 
 #### Amendments
 

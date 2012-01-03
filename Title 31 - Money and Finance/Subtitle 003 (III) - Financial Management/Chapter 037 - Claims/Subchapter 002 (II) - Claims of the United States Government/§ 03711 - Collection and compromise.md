@@ -20,7 +20,7 @@
 
 &emsp;(2) standards that the Attorney General, the Secretary of the Treasury, may prescribe.<sup>1</sup>
 
-(e)(1) When trying to collect a claim of the Government under a law except the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.), the head of an executive, judicial, or legislative agency shall disclose to a consumer reportingagency information from a system of records that a person is responsible for a claim if—
+(e)(1) When trying to collect a claim of the Government under a law except the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.), the head of an executive, judicial, or legislative agency shall disclose to a consumer reporting agency information from a system of records that a person is responsible for a claim if—
 
 &emsp;(A) notice required by section 552a(e)(4) of title 5 indicates that information in the system may be disclosed to a consumer reporting agency;
 
@@ -86,7 +86,7 @@
 
 &emsp;&emsp;(i) is in litigation or foreclosure;
 
-&emsp;&emsp;(ii) will be disposed of under an asset sales program within 1 year after becoming eligible for sale, or later than 1 year if consistentwith an asset sales program and a schedule established by the agency and approved by the Director of the Office of Management and Budget;
+&emsp;&emsp;(ii) will be disposed of under an asset sales program within 1 year after becoming eligible for sale, or later than 1 year if consistent with an asset sales program and a schedule established by the agency and approved by the Director of the Office of Management and Budget;
 
 &emsp;&emsp;(iii) has been referred to a private collection contractor for collection for a period of time determined by the Secretary of the Treasury;
 
@@ -150,7 +150,7 @@
 
 &emsp;(H) litigation or foreclosure.
 
-(10) To carry out the purposes of this subsection, the Secretary of the Treasury may prescribe such rules, regulations, and procedures asthe Secretary considers necessary and transfer such funds from funds appropriated to the Department of the Treasury as may be necessary to meet existing liabilities and obligations incurred prior to the receipt of revenues that result from debt collections.
+(10) To carry out the purposes of this subsection, the Secretary of the Treasury may prescribe such rules, regulations, and procedures as the Secretary considers necessary and transfer such funds from funds appropriated to the Department of the Treasury as may be necessary to meet existing liabilities and obligations incurred prior to the receipt of revenues that result from debt collections.
 
 (h)(1) The head of an executive, judicial, or legislative agency acting under subsection (a)(1), (2), or (3) of this section to collect a claim, compromise a claim, or terminate collection action on a claim may obtain a consumer report (as that term is defined in section 603 of the Fair Credit Reporting Act (15 U.S.C. 1681a)) or comparable credit information on any person who is liable for the claim.
 
@@ -158,7 +158,7 @@
 
 (i)(1) The head of an executive, judicial, or legislative agency may sell, subject to section 504(b) of the Federal Credit Reform Act of 1990 and using competitive procedures, any nontax debt owed to the United States that is delinquent for more than 90 days. Appropriate fees charged by a contractor to assist in the conduct of a sale under this subsection may be payable from the proceeds of the sale.
 
-(2) After terminating collection action, the head of an executive, judicial, or legislative agency shall sell, using competitive procedures, any nontax debt or class of nontax debts owed to the United States, if the Secretary of the Treasury determines the sale is in the best interests of the United States.
+(2) After terminating collection action, the head of an executive, judicial, or legislative agency shall sell, using competitive procedures, any nontax debt or class of nontax debts owed tothe United States, if the Secretary of the Treasury determines the sale is in the best interests of the United States.
 
 (3) Sales of nontax debt under this subsection—
 
@@ -238,7 +238,7 @@ In subsection (b), the words “Comptroller General” are substituted for “Ge
 
 In subsection (c)(1), the words “that appears to be fraudulent, false, or misrepresented by” are substituted for “as to which there is an indication of fraud, the presentation of a false claim, or misrepresentation on the part of” to eliminate unnecessary words. The words “the debtor or . . . other” and “in whole or in part” are omitted as surplus.
 
-In subsection (c)(2), the words “Notwithstanding any provision of the Federal Claims Collection Act of 1966” are omitted as unnecessary. The words “arising” and “an amount” are omitted as surplus.
+In subsection (c)(2), the words “Notwithstanding any provision of the Federal Claims Collection Act of 1966”are omitted as unnecessary. The words “arising” and “an amount” are omitted as surplus.
 
 In subsection (d), the words “effected . . . authority conferred by”, “on the debtor and on all officials, agencies, and courts of the United States”, “destroyed”, and “with a person primarily responsible” are omitted as surplus.
 

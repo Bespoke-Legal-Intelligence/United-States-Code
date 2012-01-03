@@ -8,7 +8,7 @@ In this section, the term “section 32” means section 32 of the Act of August
 
 #### (1) In general
 
-&emsp;Amounts made available for a fiscal year to carry out section 32 in excess of the maximum amount calculated under paragraph (2) shall be transferred to the Secretary, acting through the Administrator of the Food and Nutrition Service, to be used to carry out the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.).
+&emsp;Amounts made available for a fiscal year to carry out section 32 in excess of the maximum amount calculated under paragraph (2) shall be transferred to the Secretary, acting through the Administrator of the Food and Nutrition Service, to be used to carry out the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) <sup>1</sup> except section 21 \[42 U.S.C. 1769b–1\], and the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.), except sections 17 and 21 \[42 U.S.C. 1786, 1790\]”.
 
 #### (2) Maximum amount
 
@@ -52,15 +52,17 @@ The funding provided under subsections (c) and (d) shall supplement (and not sup
 
 &emsp;(2) the Emergency Food Assistance Act of 1983 (7 U.S.C. 7501 et seq.); and
 
-&emsp;(3) section 2036 <sup>1</sup> of this title.
+&emsp;(3) section 2036 <sup>2</sup> of this title.
 
-(Pub. L. 110–234, title XIV, §14222, May 22, 2008, 122 Stat. 1483; Pub. L. 110–246, §4(a), title XIV, §14222, June 18, 2008, 122 Stat. 1664, 2245.)
+(Pub. L. 110–234, title XIV, §14222, May 22, 2008, 122 Stat. 1483; Pub. L. 110–246, §4(a), title XIV, §14222, June 18, 2008, 122 Stat. 1664, 2245; Pub. L. 112–55, div. A, title IV, Nov. 18, 2011, 125 Stat. 574.)
 
 #### References in Text
 
 The Richard B. Russell National School Lunch Act, referred to in subsecs. (b)(1) and (e)(1), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
-The Fish and Wildlife Act of 1956, referred to in subsec. (b)(2)(B), is act Aug. 8, 1956, ch. 1036, 70 Stat. 119, which is classified generally to sections 742a to 742d and 742e to 742j–2 of Title 16, Conservation. For completeclassification of this Act to the Code, see Short Title note set out under section 742a of Title 16 and Tables.
+The Child Nutrition Act of 1966, referred to in subsec. (b)(1), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, which is classified generally to chapter 13A (§1771 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of Title 42 and Tables.
+
+The Fish and Wildlife Act of 1956, referred to in subsec. (b)(2)(B), is act Aug. 8, 1956, ch. 1036, 70 Stat. 119, which is classified generally to sections 742a to 742d and 742e to 742j–2 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 742a of Title 16 and Tables.
 
 The Emergency Food Assistance Act of 1983, referred to in subsec. (e)(2), is Pub. L. 98–8, title II, Mar. 24, 1983, 97 Stat. 35, which is classified principally to chapter 102 (§7501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7501 of this title and Tables.
 
@@ -72,6 +74,10 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 Section was enacted as part of the Food, Conservation, and Energy Act of 2008, and not as part of the Agricultural Adjustment Act which comprises this chapter.
 
+#### Amendments
+
+<b>2011</b>—Subsec. (b)(1). Pub. L. 112–55 inserted “except section 21, and the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.), except sections 17 and 21” before period at end.
+
 #### Effective Date
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
@@ -80,5 +86,7 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 “Secretary” as meaning the Secretary of Agriculture, see section 8701 of this title.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

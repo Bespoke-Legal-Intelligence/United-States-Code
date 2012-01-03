@@ -32,7 +32,7 @@ Pub. L. 104–289, §1, Oct. 11, 1996, 110 Stat. 3411, provided that: “This Ac
 
 #### Short Title
 
-Section 1 of Pub. L. 94–168, Dec. 23, 1975, 89 Stat. 1007, provided: “That this Act \[enacting this subchapter\] may be cited as the ‘Metric Conversion Act of 1975’.”
+Pub. L. 94–168, §1, Dec. 23, 1975, 89 Stat. 1007, provided: “That this Act \[enacting this subchapter\] may be cited as the ‘Metric Conversion Act of 1975’.”
 
 #### Congressional Statement of Findings; Metric Conversion in Federal Construction Projects
 

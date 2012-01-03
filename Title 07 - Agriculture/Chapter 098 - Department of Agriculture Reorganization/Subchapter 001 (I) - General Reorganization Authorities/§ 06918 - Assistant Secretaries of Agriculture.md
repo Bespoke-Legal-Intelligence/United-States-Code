@@ -16,7 +16,7 @@ If the Secretary establishes any position of Assistant Secretary authorized unde
 
 #### (c) Succession
 
-Any official who is serving as Assistant Secretary of Agriculture for Administration or Assistant Secretary of Agriculture for Congressional Relations on October 13, 1994, and who was appointed as such Assistant Secretary by the President, by and with the advice and consent of the Senate, shall not be required to be reappointed under subsection (b) of this section to the successor position authorized under subsection (a) of this section if the Secretary establishes the position, and the official occupies the new position, within 180 days after October 13, 1994 (or such later date set by the Secretary if litigation delays rapid succession).
+Any official who is serving as Assistant Secretary of Agriculture for Administration or Assistant Secretary of Agriculture for Congressional Relations on October 13, 1994, and who was appointed as such Assistant Secretary bythe President, by and with the advice and consent of the Senate, shall not be required to be reappointed under subsection (b) of this section to the successor position authorized under subsection (a) of this section if the Secretary establishes the position, and the official occupies the new position, within 180 days after October 13, 1994 (or such later date set by the Secretary if litigation delays rapid succession).
 
 #### (d) Duties of Assistant Secretary of Agriculture for Civil Rights
 
@@ -32,9 +32,9 @@ The Secretary may delegate to the Assistant Secretary for Civil Rights responsib
 
 #### Amendments
 
-2002—Subsec. (a)(3). Pub. L. 107–171, §10704(a)(1), added par. (3).
+<b>2002</b>—Subsec. (a)(3). Pub. L. 107–171, §10704(a)(1), added par. (3).
 
 Subsecs. (d), (e). Pub. L. 107–171, §10704(a)(2), added subsec. (d) and struck out former subsecs. (d) and (e), which amended section 5315 of Title 5, Government Organization and Employees, and section 3128 of this title and repealed sections 2212 to 2212c of this title and section 2 of Reorg. Plan No. 2 of 1953, set out as a note under section 2201 of this title.
 
-1998—Subsec. (a). Pub. L. 105–277 inserted “and” at end of par. (1), substituted a period for “; and” at end of par. (2), and struck out par. (3) which read as follows: “Assistant Secretary of Agriculture for Marketing and Regulatory Programs.”
+<b>1998</b>—Subsec. (a). Pub. L. 105–277 inserted “and” at end of par. (1), substituted a period for “; and” at end of par. (2), and struck out par. (3) which read as follows: “Assistant Secretary of Agriculture for Marketing and Regulatory Programs.”
 

@@ -4,7 +4,7 @@
 
 (2) The chief pretrial services officer in districts in which pretrial services are established under section 3152(b) of this title is authorized, subject to the general policy established by the Director and the approval of the district court, to procure temporary and intermittent services to the extent authorized by section 3109 of title 5, United States Code. The staff, other than clerical staff, may be drawn from law school students, graduate students, or such other available personnel.
 
-(b) The chief probation officer in all districts in which pretrial services are established undersection 3152(a) of this title shall designate personnel appointed under chapter 231 of this title to perform pretrial services under this chapter.
+(b) The chief probation officer in all districts in which pretrial services are established under section 3152(a) of this title shall designate personnel appointed under chapter 231 of this title to perform pretrial services under this chapter.
 
 (c)(1) Except as provided in paragraph (2) of this subsection, information obtained in the course of performing pretrial services functions in relation to a particular accused shall be used only for the purposes of a bail determination and shall otherwise be confidential. Each pretrial services report shall be made available to the attorney for the accused and the attorney for the Government.
 

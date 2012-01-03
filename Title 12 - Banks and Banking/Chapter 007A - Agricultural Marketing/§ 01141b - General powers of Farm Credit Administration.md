@@ -14,27 +14,25 @@ The Farm Credit Administration—
 
 &emsp;(6) may make such expenditures (including expenditures for rent and personal services at the seat of government and elsewhere, for law books, periodicals, and books of reference, and for printing and binding) as are necessary to execute such functions. Expenditures by the administration shall be allowed and paid upon the presentation of itemized vouchers therefor approved by the governor of the administration.
 
-&emsp;(7) may sell at public or private sale to the highest responsible bidder, upon such terms and after such public advertisement as the Farm Credit Administration may deem in the public interest, any property, real or personal, or any interest therein, acquired by the United States on account of or as a result of any loans made from the revolving fund authorized by section 1141d of this title; may lease any such property, pending its sale, on such terms and for such period, not in excess of five years, as the Farm Credit Administration may deem in the public interest; and may incur and pay, from the said revolving fund, obligations and expenses for the operation, upkeep, maintenance, repair, disposition, insurance, and protection of any such property: <i>Provided</i>, That section 5 of title 41 shall not be construed to apply to any purchase or service on account of such property.
+&emsp;(7) may sell at public or private sale to the highest responsible bidder, upon such terms and after such public advertisement as the Farm Credit Administration may deem in the public interest, any property, real or personal, or any interest therein, acquired by the United States on account of or as a result of any loans made from the revolving fund authorized by section 1141d of this title; may lease any such property, pending its sale, on such terms and for such period, not in excess of five years, as the Farm Credit Administration may deem in the public interest; and may incur and pay, from the said revolving fund, obligations and expenses for the operation, upkeep, maintenance, repair, disposition, insurance, and protection of any such property: <i>Provided</i>, That section 6101 of title 41 shall not be construed to apply to any purchase or service on account of such property.
 
 (June 15, 1929, ch. 24, §4, 46 Stat. 13; Ex. Ord. No. 6084, Mar. 27, 1933; Aug. 19, 1937, ch. 704, §37, 50 Stat. 717; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Pub. L. 96–592, title V, §510, Dec. 24, 1980, 94 Stat. 3451.)
-
-#### References in Text
-
-The civil service laws, referred to in par. (5), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of that title.
 
 #### Codification
 
 In par. (5), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949” on authority of section 7(b) of Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 631, section 1 of which enacted Title 5, Government Organization and Employees.
 
+In par. (7), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
 Section was formerly classified to section 524 of Title 7, Agriculture.
 
 #### Amendments
 
-1980—Par. (1). Pub. L. 96–592 substituted provisions requiring the principal office to be within the Washington, D.C.–Maryland–Virginia standard metropolitan statistical area for provisions requiring the principal office to be in the District of Columbia.
+<b>1980</b>—Par. (1). Pub. L. 96–592 substituted provisions requiring the principal office to be within the Washington, D.C.–Maryland–Virginia standard metropolitan statistical area for provisions requiring the principal office to be in the District of Columbia.
 
-1949—Act Oct. 28, 1949, substituted the “Classification Act of 1949” for the “Classification Act of 1923”.
+<b>1949</b>—Act Oct. 28, 1949, substituted the “Classification Act of 1949” for the “Classification Act of 1923”.
 
-1937—Par. (7). Act Aug. 19, 1937, added par. (7).
+<b>1937</b>—Par. (7). Act Aug. 19, 1937, added par. (7).
 
 #### Change of Name
 

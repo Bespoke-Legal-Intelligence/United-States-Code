@@ -30,7 +30,7 @@
 
 #### (4) Extensions
 
-&emsp;The Secretary may extend the date specified in paragraph (2)(A) or (2)(B) for 2 years, and may renew the extension in additional 2-year increments, for containers loaded in a port or ports, if the Secretary certifies to Congress that at least two of the following conditions exist:
+&emsp;The Secretary may extend the date specified in paragraph (2)(A) or (2)(B) for 2 years, andmay renew the extension in additional 2-year increments, for containers loaded in a port or ports, if the Secretary certifies to Congress that at least two of the following conditions exist:
 
 &emsp;&emsp;(A) Systems to scan containers in accordance with paragraph (1) are not available for purchase and installation.
 
@@ -88,7 +88,7 @@ The Homeland Security Act of 2002, referred to in subsec. (b)(8)(B), is Pub. L. 
 
 #### Amendments
 
-2007—Subsec. (b). Pub. L. 110–53 reenacted heading without change and amended text of subsec. (b) generally. Prior to amendment, text related to full deployment of an integrated scanning system after the Secretary had determined that such system had met section 981(c) requirements, had a sufficiently low false alarm rate, was capable of being deployed overseas, was capable of integrating with existing systems, would not significantly impact trade flow, and had provided for automated notification of high-risk cargo.
+<b>2007</b>—Subsec. (b). Pub. L. 110–53 reenacted heading without change and amended text of subsec. (b) generally. Prior to amendment, text related to full deployment of an integrated scanning system after the Secretary had determined that such system had met section 981(c) requirements, had a sufficiently low false alarm rate, was capable of being deployed overseas, was capable of integrating with existing systems, would not significantly impact trade flow, and had provided for automated notification of high-risk cargo.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “paragraph (2)(B)”.</i>
 

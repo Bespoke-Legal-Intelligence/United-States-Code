@@ -32,7 +32,7 @@ For purposes of this section—
 
 #### (2) Ruling amount
 
-&emsp;The term “ruling amount” means, with respect to any taxable year, the amount whichthe Secretary determines under paragraph (1) to be necessary to—
+&emsp;The term “ruling amount” means, with respect to any taxable year, the amount which the Secretary determines under paragraph (1) to be necessary to—
 
 &emsp;&emsp;(A) fund the total nuclear decommissioning costs with respect to such power plant over the estimated useful life of such power plant, and
 
@@ -146,7 +146,7 @@ For purposes of this section, the term “nuclear powerplant” includes any uni
 
 #### (h) Time when payments deemed made
 
-For purposes of this section, a taxpayer shall be deemed to have made a payment to the Fund on the last day of a taxable year if such payment is made on account of such taxable year and is made within 21/2 months after the close of such taxable year.
+For purposes of this section, a taxpayer shall be deemed to have made a payment to the Fund on the last day of a taxable year if such payment is made on account of such taxable year and is made within 2½ months after the close of such taxable year.
 
 (Added Pub. L. 98–369, div. A, title I, §91(c)(1), July 18, 1984, 98 Stat. 604; amended Pub. L. 99–514, title XVIII, §1807(a)(4)(A)(i), (B)–(E)(vi), Oct. 22, 1986, 100 Stat. 2812, 2813; Pub. L. 102–486, title XIX, §1917(a), (b), Oct. 24, 1992, 106 Stat. 3024, 3025; Pub. L. 104–188, title I, §1704(j)(6), Aug. 20, 1996, 110 Stat. 1882; Pub. L. 109–58, title XIII, §1310(a)–(e), Aug. 8, 2005, 119 Stat. 1007–1009.)
 
@@ -240,5 +240,5 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Transitional Rule
 
-Section 1807(a)(4)(A)(ii) of Pub. L. 99–514 provided that: “To the extent provided in regulations prescribed by the Secretary of the Treasury or his delegate, subsection (g) of section 468A of the Internal Revenue Code of 1954 \[now 1986\] (as added by clause (i)) shall be applied with respect to any payment on account of a taxable year beginning before January 1, 1987, as if it did not contain the requirement that the payment be made within 21/2 months after the close of the taxable year. Such regulations may provide that, to the extent such payment to the Fund is made more than 21/2 months after the close of the taxable year, any adjustment to the tax attributable to such payment shall not affect the amount of interest payable with respect to periods before the payment is made. Such regulations may provide appropriate adjustments to the deduction allowed under such section 468A for any such taxable year to take into account the fact that the payment to the Fund is made more than 21/2 months after the close of the taxable year.”
+Section 1807(a)(4)(A)(ii) of Pub. L. 99–514 provided that: “To the extent provided in regulations prescribed by the Secretary of the Treasury or his delegate, subsection (g) of section 468A of the Internal Revenue Code of 1954 \[now 1986\] (as added by clause (i)) shall be applied with respect to any payment on account of a taxable year beginning before January 1, 1987, as if it did not contain the requirement that the payment be made within 2½ months after the close of the taxable year. Such regulations may provide that, to the extent such payment to the Fund is made more than 2½ months after the close of the taxable year, any adjustment to the tax attributable to such payment shall not affect the amount of interest payable with respect to periods before the payment is made. Such regulations may provide appropriate adjustments to the deduction allowed under such section 468A for any such taxable year to take into account the fact that the payment to the Fund is made more than 2½ months after the close of the taxable year.”
 

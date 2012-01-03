@@ -2,7 +2,7 @@
 
 #### (a) Payments for Federal acquisition of real property
 
-For the purpose of making payments under section 7702 of this title, there are authorized tobe appropriated $32,000,000 for fiscal year 2000 and such sums as may be necessary for each of the seven succeeding fiscal years.
+For the purpose of making payments under section 7702 of this title, there are authorized to be appropriated $32,000,000 for fiscal year 2000 and such sums as may be necessary for each of the seven succeeding fiscal years.
 
 #### (b) Basic payments; payments for heavily impacted local educational agencies
 

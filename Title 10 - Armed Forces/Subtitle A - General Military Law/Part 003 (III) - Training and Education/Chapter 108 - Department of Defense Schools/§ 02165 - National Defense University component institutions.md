@@ -10,7 +10,7 @@ Component Institutions.—The National Defense University consists of the follow
 
 &emsp;(1) The National War College.
 
-&emsp;(2) The Industrial College of the Armed Forces.
+&emsp;(2) The Dwight D. Eisenhower School for National Security and Resource Strategy.
 
 &emsp;(3) The Joint Forces Staff College.
 
@@ -40,9 +40,11 @@ Acceptance of Faculty Research Grants.—(1) The Secretary of Defense may author
 
 (6) The Secretary shall prescribe regulations for the administration of this subsection.
 
-(Added and amended Pub. L. 105–85, div. A, title IX, §§921(a)(1), 922(a), Nov. 18, 1997, 111 Stat. 1862, 1863; Pub. L. 105–261, div. A, title IX, §§904, 905(a), Oct. 17, 1998, 112 Stat. 2093; Pub. L. 106–398, §1 \[\[div. A\], title IX, §913(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–230; Pub. L. 107–107, div. A, title V, §527(c)(1), Dec. 28, 2001, 115 Stat. 1102; Pub. L. 109–163, div. A, title V, §522(a), Jan. 6, 2006, 119 Stat. 3240; Pub. L. 109–364, div. A, title IX, §904(b)(2), Oct. 17, 2006, 120 Stat. 2353.)
+(Added and amended Pub. L. 105–85, div. A, title IX, §§921(a)(1), 922(a), Nov. 18, 1997, 111 Stat. 1862, 1863; Pub. L. 105–261, div. A, title IX, §§904, 905(a), Oct. 17, 1998, 112 Stat. 2093; Pub. L. 106–398, §1 \[\[div. A\], title IX, §913(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–230; Pub. L. 107–107, div. A, title V, §527(c)(1), Dec. 28, 2001, 115 Stat. 1102; Pub. L. 109–163, div. A, title V, §522(a), Jan. 6, 2006, 119 Stat. 3240; Pub. L. 109–364, div. A, title IX, §904(b)(2), Oct. 17, 2006, 120 Stat. 2353; Pub. L. 112–81, div. B, title XXVIII, §2861(b), Dec. 31, 2011, 125 Stat. 1701.)
 
 #### Amendments
+
+<b>2011</b>—Subsec. (b)(2). Pub. L. 112–81 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Industrial College of the Armed Forces.”
 
 <b>2006</b>—Subsec. (b)(6), (7). Pub. L. 109–364, §904(b)(2)(A), redesignated par. (7) as (6) and struck out former par. (6) which read as follows: “The Center for Hemispheric Defense Studies.”
 
@@ -61,6 +63,20 @@ Subsec. (c). Pub. L. 105–261, §905(a), added subsec. (c).
 <b>1997</b>—Subsec. (b)(6). Pub. L. 105–85, §922(a), added par. (6).
 
 #### Change of Name
+
+Pub. L. 112–81, div. B, title XXVIII, §2861, Dec. 31, 2011, 125 Stat. 1701, provided that:
+
+“(a)
+
+Redesignation.—The Industrial College of the Armed Forces is hereby renamed the ‘Dwight D. Eisenhower School for National Security and Resource Strategy’.
+
+“(b)
+
+Conforming Amendment.—\[Amended section 2165(b)(2) of this title.\]
+
+“(c)
+
+References.—Any reference to the Industrial College of the Armed Forces in any law, regulation, map, document, record, or other paper of the United States shall be deemed to be a reference to the Dwight D. Eisenhower School for National Security and Resource Strategy.”
 
 Pub. L. 106–398, §1 \[\[div. A\], title IX, §913(a), (c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–230, provided that:
 
@@ -98,7 +114,7 @@ Startup of Center.—The Secretary of Defense shall establish the Center for the
 
 “(e)
 
-Implementation Report.—(1) Not later than January 1, 2001, the President of the National DefenseUniversity shall submit to the Secretary of Defense a report setting forth the President's organizational plan for the Center for the Study of Chinese Military Affairs, the proposed budget for the Center, and the timetable for initial and full operations of the Center. The President of the National Defense University shall prepare that report in consultation with the Director of the Center and the Director of the Institute for National Strategic Studies of the University.
+Implementation Report.—(1) Not later than January 1, 2001, the President of the National Defense University shall submit to the Secretary of Defense a report setting forth the President's organizational plan for the Center for the Study of Chinese Military Affairs, the proposed budget for the Center, and the timetable for initial and full operations of the Center. The President of the National Defense University shall prepare that report in consultation with the Director of the Center and the Director of the Institute for National Strategic Studies of the University.
 
 “(2) The Secretary of Defense shall transmit the report under paragraph (1), together with whatever comments the Secretary considers appropriate, to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives not later than February 1, 2001.”
 

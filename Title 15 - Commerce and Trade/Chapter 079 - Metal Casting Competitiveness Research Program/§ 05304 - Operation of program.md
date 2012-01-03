@@ -82,7 +82,7 @@ From the proposals submitted, the Secretary shall select proposals for funding. 
 
 #### (e) Funding of program
 
-From amounts made available in separate appropriation Acts, the Secretary shall provide to each applicant selected the financial and technical assistance and other incentives that are necessary and appropriate to carry out the purposes of this chapter.
+From amounts made available in separate appropriation Acts, the Secretary shall provide toeach applicant selected the financial and technical assistance and other incentives that are necessary and appropriate to carry out the purposes of this chapter.
 
 #### (f) National Metal Casting Research Institute
 

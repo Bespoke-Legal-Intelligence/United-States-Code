@@ -6,7 +6,7 @@ After the expiration of thirty days after the Secretary has given public notice 
 
 #### Amendments
 
-1968—Pub. L. 90–446 designated existing provisions as cl. (2) and added cl. (1).
+<b>1968</b>—Pub. L. 90–446 designated existing provisions as cl. (2) and added cl. (1).
 
-1958—Pub. L. 85–909 inserted “Every other person operating as a market agency or dealer as defined in section 201 of this title may be required to register in such manner as the Secretary may prescribe.”
+<b>1958</b>—Pub. L. 85–909 inserted “Every other person operating as a market agency or dealer as defined in section 201 of this title may be required to register in such manner as the Secretary may prescribe.”
 

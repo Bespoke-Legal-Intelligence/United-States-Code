@@ -124,5 +124,5 @@ The Federal Advisory Committee Act, referred to in subsec. (a), is Pub. L. 92–
 
 #### Amendments
 
-1991—Subsec. (a). Pub. L. 102–237 substituted “to assist” for “(to assist”.
+<b>1991</b>—Subsec. (a). Pub. L. 102–237 substituted “to assist” for “(to assist”.
 

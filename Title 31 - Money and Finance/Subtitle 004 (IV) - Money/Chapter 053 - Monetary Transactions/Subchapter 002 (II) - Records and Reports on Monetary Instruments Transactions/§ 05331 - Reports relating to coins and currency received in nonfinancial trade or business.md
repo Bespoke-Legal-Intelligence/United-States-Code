@@ -4,9 +4,11 @@
 
 Coin and Currency Receipts of More Than $10,000.—Any person—
 
-&emsp;(1) who is engaged in a trade or business; and
+&emsp;(1)(A) who is engaged in a trade or business, and
 
-&emsp;(2) who, in the course of such trade or business, receives more than $10,000 in coins or currency in 1 transaction (or 2 or more related transactions),
+&emsp;(B) who, in the course of such trade or business, receives more than $10,000 in coins or currency in 1 transaction (or 2 or more related transactions), or
+
+&emsp;(2) who is required to file a report under section 6050I(g) of the Internal Revenue Code of 1986,
 
 > shall file a report described in subsection (b) with respect to such transaction (or related transactions) with the Financial Crimes Enforcement Network at such time and in such manner as the Secretary may, by regulation, prescribe.
 
@@ -54,7 +56,15 @@ In general.—For purposes of this section, the term “currency” includes—
 
 Scope of application.—Paragraph (1)(B) shall not apply to any check drawn on the account of the writer in a financial institution referred to in subparagraph (A), (B), (C), (D), (E), (F), (G), (J), (K), (R), or (S) of section 5312(a)(2).
 
-(Added Pub. L. 107–56, title III, §365(a), Oct. 26, 2001, 115 Stat. 333.)
+(Added Pub. L. 107–56, title III, §365(a), Oct. 26, 2001, 115 Stat. 333; amended Pub. L. 112–74, div. C, title I, §120, Dec. 23, 2011, 125 Stat. 891.)
+
+#### References in Text
+
+Section 6050I(g) of the Internal Revenue Code of 1986, referred to in subsec. (a)(2), is classified to section 6050I of Title 26, Internal Revenue Code.
+
+#### Amendments
+
+<b>2011</b>—Subsec. (a). Pub. L. 112–74 redesignated pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), substituted “, and” for “; and” in subpar. (A), inserted “or” at end of subpar. (B), and added par. (2).
 
 #### Regulations
 

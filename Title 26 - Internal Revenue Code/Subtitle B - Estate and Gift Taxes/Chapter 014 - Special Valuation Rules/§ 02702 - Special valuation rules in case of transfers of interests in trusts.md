@@ -72,7 +72,7 @@ For purposes of this section—
 
 #### (d) Treatment of transfers of interests in portion of trust
 
-In the case of a transfer of an income or remainder interest with respect to a specified portion of the property in a trust, only such portionshall be taken into account in applying this section to such transfer.
+In the case of a transfer of an income or remainder interest with respect to a specified portion of the property in a trust, only such portion shall be taken into account in applying this section to such transfer.
 
 #### (e) Member of the family
 

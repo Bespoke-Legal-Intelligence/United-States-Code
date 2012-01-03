@@ -10,7 +10,7 @@ For the purpose of carrying out this subpart, subpart III and section 290aa–4 
 
 &emsp;(A) For the purpose of carrying out section 300x–58(a) of this title with respect to substance abuse, section 290bb–21(d) of this title, and the purposes specified in subparagraphs (B) and (C), the Secretary shall obligate 5 percent of the amounts appropriated under subsection (a) of this section each fiscal year.
 
-&emsp;(B) The purpose specified in this subparagraph is the collection of data in this paragraph <sup>1</sup> is carrying out sections 290aa–4 and300y of this title with respect to substance abuse.
+&emsp;(B) The purpose specified in this subparagraph is the collection of data in this paragraph <sup>1</sup> is carrying out sections 290aa–4 and 300y of this title with respect to substance abuse.
 
 &emsp;(C) The purpose specified in this subparagraph is the conduct of evaluations of authorized activities to determine methods for improving the availability and quality of such activities.
 

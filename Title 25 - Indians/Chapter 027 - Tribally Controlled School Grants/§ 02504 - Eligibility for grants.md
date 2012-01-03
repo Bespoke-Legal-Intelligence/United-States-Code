@@ -128,7 +128,7 @@
 
 #### (e) Effective date for approved applications
 
-Except as provided by subsection (c)(2)(E) of this section, a grant provided under this chapter, and any transfer of the operation of a Bureau school made under subsection (b) of this section, shall become effective beginning the academic year succeeding the fiscal year in which the application for the grant or transfer is made, or at an earlier date determined by the Secretary.
+Except as provided by subsection (c)(2)(E) of this section, a grant provided under this chapter, and any transfer of the operation of a Bureau school made under subsection (b) of this section, shall become effective beginning the academic year succeeding the fiscal year in which the application for the grant or transfer ismade, or at an earlier date determined by the Secretary.
 
 #### (f) Denial of applications
 

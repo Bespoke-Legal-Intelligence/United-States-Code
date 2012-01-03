@@ -6,7 +6,7 @@ The institution of any one of the proceedings provided for in sections 1595, 159
 
 #### Amendments
 
-1956—Act July 9, 1956, inserted references to civil penalties as well as criminal penalties under section 1596 of this title.
+<b>1956</b>—Act July 9, 1956, inserted references to civil penalties as well as criminal penalties under section 1596 of this title.
 
 #### Effective Date of 1956 Amendment
 

@@ -156,7 +156,7 @@
 
 #### (3) Only 1 additional tax imposed with respect to any 1 portion
 
-&emsp;In the case of an interest acquired from (or passing from) any decedent, if subparagraph (A) or (B) of paragraph (1) applies to any portion of an interest, subparagraph (B) or (A), as the case may be, of paragraph (1) shall not apply with respect to the same portion of such interest.
+&emsp;In the case of an interest acquired from (or passing from) any decedent, if subparagraph (A) or (B) of paragraph (1) applies to any portion of an interest, subparagraph (B) or (A), asthe case may be, of paragraph (1) shall not apply with respect to the same portion of such interest.
 
 #### (4) Due date
 
@@ -238,7 +238,7 @@
 
 &emsp;&emsp;(A) the notice of election, as filed, does not contain all required information, or
 
-&emsp;&emsp;(B) signatures of 1 or more persons required to enter into the agreement described in paragraph (2) are not included on the agreement as filed, or the agreement does not contain all required information,
+&emsp;&emsp;(B) signatures of 1 or more persons required to enter into the agreement describedin paragraph (2) are not included on the agreement as filed, or the agreement does not contain all required information,
 
 > &emsp;the executor will have a reasonable period of time (not exceeding 90 days) after notification of such failures to provide such information or signatures.
 
@@ -324,7 +324,7 @@ For purposes of this section—
 
 #### (8) Method of valuing closely held business interests, etc.
 
-&emsp;In any case to which paragraph (7)(A) does not apply, the following factors shall apply in determining the value of any qualified real property:
+&emsp;In any case to which paragraph (7)(A) does not apply, the following factors shall apply indetermining the value of any qualified real property:
 
 &emsp;&emsp;(A) The capitalization of income which the property can be expected to yield for farming or closely held business purposes over a reasonable period of time under prudent management using traditional cropping patterns for the area, taking into account soil capacity, terrain configuration, and similar factors,
 
@@ -670,7 +670,7 @@ Refund or credit of overpayment barred by statute of limitations.—Notwithstand
 
 #### Effective Date of 1983 Amendment
 
-Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in the provision of the Economic Recovery Tax Act of 1981, Pub. L. 97–34, to which such amendment relates, see section 109 of Pub. L. 97–448, set out as a note under section 1 of this title.
+Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in theprovision of the Economic Recovery Tax Act of 1981, Pub. L. 97–34, to which such amendment relates, see section 109 of Pub. L. 97–448, set out as a note under section 1 of this title.
 
 #### Effective Date of 1981 Amendment
 

@@ -10,7 +10,7 @@ In general.—Whoever, in a circumstance described in subsection (b), by any mea
 
 &emsp;&emsp;(A) an act which constitutes an offense within the scope of a treaty specified in subsection (e)(7), as implemented by the United States, or
 
-&emsp;&emsp;(B) any other act intended to cause death or serious bodily injury to a civilian, or to any other person not taking an active part in the hostilities in a situation of armed conflict, when the purpose of such act, by its nature or context, is to intimidate a population, or to compel a government or an international organization to do or to abstain from doing any act,
+&emsp;&emsp;(B) any other act intended to cause death or serious bodily injury to a civilian, or to any other person not taking an active part in the hostilities in a situation of armedconflict, when the purpose of such act, by its nature or context, is to intimidate a population, or to compel a government or an international organization to do or to abstain from doing any act,
 
 > &emsp;shall be punished as prescribed in subsection (d)(1).
 
@@ -78,7 +78,7 @@ Concealment.—Whoever—
 
 &emsp;(1)(A) is in the United States; or
 
-&emsp;(B) is outside the United States and is a national of the United States or a legal entityorganized under the laws of the United States (including any of its States, districts, commonwealths, territories, or possessions); and
+&emsp;(B) is outside the United States and is a national of the United States or a legal entity organized under the laws of the United States (including any of its States, districts, commonwealths, territories, or possessions); and
 
 &emsp;(2) knowingly conceals or disguises the nature, location, source, ownership, or control of any material support or resources, or any funds or proceeds of such funds—
 

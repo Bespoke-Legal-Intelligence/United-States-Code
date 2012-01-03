@@ -14,7 +14,7 @@ The Executive Director shall report to the Commission at semi-annual public meet
 
 #### (d) Annual status report
 
-The Executive Director shall prepare and forward to the Commission an annual report (for the fiscal year 1978 and each succeeding fiscal year) on the status of the Commission's programs concerning domestic safeguards matters including an assessment of the effectiveness and adequacy of safeguards at facilities and activities licensed by the Commission. The Commission shall forward to the Congress a report under this section prior to February 1, 1979, as a separate document, and prior to February 1 of each succeeding year as a separate chapter of the Commission's annual report (required under section 5877(c) of this title) following the fiscal year to which such report applies.
+The Executive Director shall prepare and forward to the Commission an annual report (forthe fiscal year 1978 and each succeeding fiscal year) on the status of the Commission's programs concerning domestic safeguards matters including an assessment of the effectiveness and adequacy of safeguards at facilities and activities licensed by the Commission. The Commission shall forward to the Congress a report under this section prior to February 1, 1979, as a separate document, and prior to February 1 of each succeeding year as a separate chapter of the Commission's annual report (required under section 5877(c) of this title) following the fiscal year to which such report applies.
 
 #### (e) Additional officers
 

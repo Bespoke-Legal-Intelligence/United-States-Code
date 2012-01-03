@@ -374,7 +374,7 @@ There shall be allowed as a credit against the tax imposed by this chapter for t
 
 &emsp;&emsp;&emsp;(ii) which, in the case of a vehicle to which paragraph (2)(A) applies, has received a certificate of conformity under the Clean Air Act and meets or exceeds the equivalent qualifying California low emission vehicle standard under section 243(e)(2) of the Clean Air Act for that make and model year, and
 
-&emsp;&emsp;&emsp;&emsp;(I) in the case of a vehicle having a gross vehicle weight rating of 6,000 pounds or less, the Bin 5 Tier II emission standard established in regulations prescribed by the Administrator of the Environmental Protection Agency undersection 202(i) of the Clean Air Act for that make and model year vehicle, and
+&emsp;&emsp;&emsp;&emsp;(I) in the case of a vehicle having a gross vehicle weight rating of 6,000 pounds or less, the Bin 5 Tier II emission standard established in regulations prescribed by the Administrator of the Environmental Protection Agency under section 202(i) of the Clean Air Act for that make and model year vehicle, and
 
 &emsp;&emsp;&emsp;&emsp;(II) in the case of a vehicle having a gross vehicle weight rating of more than 6,000 pounds but not more than 8,500 pounds, the Bin 8 Tier II emission standard which is so established,
 
@@ -486,7 +486,7 @@ There shall be allowed as a credit against the tax imposed by this chapter for t
 
 &emsp;&emsp;&emsp;&emsp;(I) has received a certificate of conformity under the Clean Air Act, or
 
-&emsp;&emsp;&emsp;&emsp;(II) has received an order certifying the vehicle as meeting the same requirements as vehicles which may be sold or leased in California and meets or exceeds the low emission vehicle standard under section 88.105–94 of title 40, Code of Federal Regulations, for that make and model year vehicle,
+&emsp;&emsp;&emsp;&emsp;(II) has received an order certifying the vehicle as meeting the same requirements as vehicles which may be sold orleased in California and meets or exceeds the low emission vehicle standard under section 88.105–94 of title 40, Code of Federal Regulations, for that make and model year vehicle,
 
 &emsp;&emsp;&emsp;(iii) the original use of which commences with the taxpayer,
 
@@ -554,7 +554,7 @@ There shall be allowed as a credit against the tax imposed by this chapter for t
 
 &emsp;&emsp;&emsp;(i) the sum of the regular tax liability (as defined in section 26(b)) plus the tax imposed by section 55, over
 
-&emsp;&emsp;&emsp;(ii) the sum of the credits allowable under subpart A (other than this section and sections 25D, 30, and 30D) and section 27 for the taxable year.
+&emsp;&emsp;&emsp;(ii) the sum of the credits allowable under subpart A (other than this section and sections 23, 25D, 30, and 30D) and section 27 for the taxable year.
 
 #### (h) Other definitions and special rules
 
@@ -616,7 +616,7 @@ For purposes of this section—
 
 #### (2) Qualified plug-in electric drive motor vehicle
 
-&emsp;For purposes of this subsection, the term “qualified plug-in electric drive motor vehicle” means any new qualified plug-in electricdrive motor vehicle (as defined in section 30D, determined without regard to whether such vehicle is made by a manufacturer or whether the original use of such vehicle commences with the taxpayer).
+&emsp;For purposes of this subsection, the term “qualified plug-in electric drive motor vehicle” means any new qualified plug-in electric drive motor vehicle (as defined in section 30D, determined without regard to whether such vehicle is made by a manufacturer or whether the original use of such vehicle commences with the taxpayer).
 
 #### (3) Credit allowed in addition to other credits
 
@@ -648,7 +648,7 @@ This section shall not apply to any property purchased after—
 
 &emsp;(4) in the case of a new qualified alternative fuel vehicle (as described in subsection (e)), December 31, 2010.
 
-(Added Pub. L. 109–58, title XIII, §1341(a), Aug. 8, 2005, 119 Stat. 1038; amended Pub. L. 109–135, title IV, §§402(j), 412(d), Dec. 21, 2005, 119 Stat. 2615, 2636; Pub. L. 110–343, div. B, title II, §205(b), Oct. 3, 2008, 122 Stat. 3838; Pub. L. 111–5, div. B, title I, §§1141(b)(1), 1142(b)(2), 1143(a)–(c), 1144(a), Feb. 17, 2009, 123 Stat. 328, 330–332; Pub. L. 111–148, title X, §10909(b)(2)(G), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298.)
+(Added Pub. L. 109–58, title XIII, §1341(a), Aug. 8, 2005, 119 Stat. 1038; amended Pub. L. 109–135, title IV, §§402(j), 412(d), Dec. 21, 2005, 119 Stat. 2615, 2636; Pub. L. 110–343, div. B, title II, §205(b), Oct. 3, 2008, 122 Stat. 3838; Pub. L. 111–5, div. B, titleI, §§1141(b)(1), 1142(b)(2), 1143(a)–(c), 1144(a), Feb. 17, 2009, 123 Stat. 328, 330–332; Pub. L. 111–148, title X, §10909(b)(2)(G), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298.)
 
 #### Amendment of Section
 
@@ -710,7 +710,7 @@ Amendment by Pub. L. 110–343 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 2005 Amendment
 
-Amendment by section 402(j) of Pub. L. 109–135 effective as if included in the provision of the Energy Policy Act of 2005, Pub. L. 109–58, to which such amendment relates, see section 402(m)(1) of Pub. L. 109–135, set out as an Effective and Termination Dates of 2005 Amendments note under section 36C of this title.
+Amendment by section 402(j) of Pub. L. 109–135 effective as if included in the provision of the Energy Policy Act of 2005, Pub. L. 109–58, to which such amendment relates, see section 402(m)(1) of Pub. L. 109–135, set out as an Effective and Termination Dates of 2005 Amendments note under section 23 of this title.
 
 #### Effective Date
 

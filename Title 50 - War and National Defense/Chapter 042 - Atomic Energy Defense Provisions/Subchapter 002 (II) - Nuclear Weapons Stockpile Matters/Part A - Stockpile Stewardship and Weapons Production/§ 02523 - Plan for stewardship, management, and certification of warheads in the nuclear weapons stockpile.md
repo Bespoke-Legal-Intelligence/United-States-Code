@@ -20,7 +20,7 @@ The plan and each update of the plan shall set forth the following:
 
 #### (c) Annual submission of plan to Congress
 
-The Secretary of Energy shall submit to Congress the plan developed under subsection (a)not later than March 15, 1998, and shall submit an updated version of the plan not later than May 1 of each year thereafter. The plan shall be submitted in both classified and unclassified form.
+The Secretary of Energy shall submit to Congress the plan developed under subsection (a) not later than March 15, 1998, and shall submit an updated version of the plan not later than May 1 of each year thereafter. The plan shall be submitted in both classified and unclassified form.
 
 (Pub. L. 107–314, div. D, title XLII, §4203, formerly Pub. L. 105–85, div. C, title XXXI, §3151, Nov. 18, 1997, 111 Stat. 2041; renumbered Pub. L. 107–314, div. D, title XLII, §4203, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(4), Nov. 24, 2003, 117 Stat. 1758; amended Pub. L. 108–375, div. C, title XXXI, §3115, Oct. 28, 2004, 118 Stat. 2162.)
 
@@ -38,6 +38,46 @@ Pub. L. 104–106, div. C, title XXXI, §3153, Feb. 10, 1996, 110 Stat. 624; rep
 
 <b>2004</b>—Subsec. (c). Pub. L. 108–375 substituted “May 1 of each year thereafter” for “March 15 of each year thereafter”.
 
+#### Report on the Plan for the Nuclear Weapons Stockpile, Nuclear Weapons Complex, and Delivery Platforms and Sense of Congress on Follow-on Negotiations to START Treaty
+
+Pub. L. 111–84, div. A, title XII, §1251, Oct. 28, 2009, 123 Stat. 2549, provided that:
+
+“(a)
+
+Report on the Plan for the Nuclear Weapons Stockpile, Nuclear Weapons Complex, and Delivery Platforms.—
+
+&emsp;“(1)
+
+Report required.—Not later than 30 days after the date of the enactment of this Act \[Oct. 28, 2009\] or at the time a follow-on treaty to the Strategic Arms Reduction Treaty (START Treaty) is submitted by the President to the Senate for its advice and consent, whichever is later, the President shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Committee on Foreign Relations of the Senate, and the Committee on Foreign Affairs of the House of Representatives a report on the plan to—
+
+&emsp;&emsp;“(A) enhance the safety, security, and reliability of the nuclear weapons stockpile of the United States;
+
+&emsp;&emsp;“(B) modernize the nuclear weapons complex; and
+
+&emsp;&emsp;“(C) maintain the delivery platforms for nuclear weapons.
+
+&emsp;“(2)
+
+Elements.—The report required under paragraph (1) shall include the following:
+
+&emsp;&emsp;“(A) A description of the plan to enhance the safety, security, and reliability of the nuclear weapons stockpile of the United States.
+
+&emsp;&emsp;“(B) A description of the plan to modernize the nuclear weapons complex, including improving the safety of facilities, modernizing the infrastructure, and maintaining the key capabilities and competencies of the nuclear weapons workforce, including designers and technicians.
+
+&emsp;&emsp;“(C) A description of the plan to maintain delivery platforms for nuclear weapons.
+
+&emsp;&emsp;“(D) An estimate of budget requirements, including the costs associated with the plans outlined under subparagraphs (A) through (C), over a 10-year period.
+
+“(b)
+
+Sense of Congress.—It is the sense of Congress that—
+
+&emsp;“(1) the President should maintain the stated position of the United States that the follow-on treaty to the START Treaty not include any limitations on the ballistic missile defense systems, space capabilities, or advanced conventional weapons systems of the United States;
+
+&emsp;“(2) the enhanced safety, security, and reliability of the nuclear weapons stockpile, modernization of the nuclear weapons complex, and maintenance of the nuclear delivery systems are key to enabling further reductions in the nuclear forces of the United States; and
+
+&emsp;“(3) the President should submit budget requests for fiscal year 2011 and subsequent fiscal years for the programs of the National Nuclear Security Administration of the Department of Energy that are adequate to sustain the needed capabilities to support the long-term maintenance of the nuclear stockpile of the United States.”
+
 #### Inclusion in 2005 Stockpile Stewardship Plan of Certain Information Relating to Stockpile Stewardship Criteria
 
 Pub. L. 108–136, div. C, title XXXI, §3133, Nov. 24, 2003, 117 Stat. 1751, provided that:
@@ -46,7 +86,7 @@ Pub. L. 108–136, div. C, title XXXI, §3133, Nov. 24, 2003, 117 Stat. 1751, pr
 
 Inclusion in 2005
 
-Stockpile Stewardship Plan.—In submitting to Congress the updated version of the 2005 stockpile stewardship plan, the Secretary of Energy shall include the matters specified in subsection (b).
+Stockpile Stewardship Plan.—In submitting to Congress the updated version of the 2005 stockpile stewardship plan, the Secretary ofEnergy shall include the matters specified in subsection (b).
 
 “(b)
 
@@ -65,4 +105,16 @@ Matters Included.—The matters referred to in subsection (a) are the following:
 “(c) 2005
 
 Stockpile Stewardship Plan Defined.—In this section, the term ‘2005 stockpile stewardship plan’ means the updated version of the plan for maintaining the nuclear weapons stockpile developed under section 4203 of the Atomic Energy Defense Act \[50 U.S.C. 2523\] (as transferred and redesignated by section 3161(e)(4) \[probably should be “3141(e)(4)”\] of this Act) that is required to be submitted to Congress not later than March 15, 2005.”
+
+#### Annual Update to the Report Specified in Section 1251 of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84)
+
+Memorandum of President of the United States, Feb. 7, 2011, 76 F.R. 7477, provided:
+
+Memorandum for the Secretary of Defense \[and\] the Secretary of Energy
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby direct the Secretaries of Defense and Energy to jointly provide annual updates to the report specified in section 1251 of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84) (the “1251 Report”) \[set out as a note above\]. I further authorize and direct the Secretaries of Defense and Energy to jointly submit this annual update to the 1251 Report concurrently with the President's budget each year, beginning in calendar year 2011.
+
+The Secretary of Defense is authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -2,7 +2,7 @@
 
 (a) The United States Coast Guard Band shall be composed of a director and other personnel in such numbers and grades as the Secretary determines to be necessary.
 
-(b) The Secretary may designate as the director any individual determined by the Secretaryto possess the necessary qualifications. Upon the recommendation of the Secretary, an individual so designated may be appointed by the President, by and with the advice and consent of the Senate, to a commissioned grade in the Regular Coast Guard.
+(b) The Secretary may designate as the director any individual determined by the Secretary to possess the necessary qualifications. Upon the recommendation of the Secretary, an individual so designated may be appointed by the President, by and with the advice and consent of the Senate, to a commissioned grade in the Regular Coast Guard.
 
 (c) The initial appointment to a commissioned grade of an individual designated as director of the Coast Guard Band shall be in the grade determined by the Secretary to be most appropriate to the qualifications and experience of the appointed individual.
 
@@ -18,7 +18,7 @@
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–241, §204(a)(1), in first sentence, substituted “The Secretary may designate as the director any individual determined by the Secretary to possess the necessary qualifications.” for “The Secretary shall designate the director from among qualified members of the Coast Guard.”, and, in second sentence, substituted “an individual so designated” for “a member so designated”.
+<b>2006</b>—Subsec. (b). Pub. L. 109–241, §204(a)(1), in first sentence, substituted “The Secretary may designate as the director any individual determined by the Secretary to possess the necessary qualifications.” for “The Secretary shall designate the director from among qualified members of the Coast Guard.”, and, in second sentence, substituted “an individual so designated” for “a member so designated”.
 
 Subsec. (c). Pub. L. 109–241, §204(a)(2), substituted “of an individual” for “of a member” and “determined by the Secretary to be most appropriate to the qualifications and experience of the appointed individual” for “of lieutenant (junior grade) or lieutenant”.
 
@@ -26,11 +26,11 @@ Subsec. (d). Pub. L. 109–241, §204(a)(3), substituted “An individual” for
 
 Subsec. (e). Pub. L. 109–241, §204(a)(4), substituted “When an individual's designation is revoked,” for “When a member's designation is revoked,” and “option—” for “option:”.
 
-2002—Subsec. (d). Pub. L. 107–295 substituted “captain” for “commander”.
+<b>2002</b>—Subsec. (d). Pub. L. 107–295 substituted “captain” for “commander”.
 
-1992—Subsec. (d). Pub. L. 102–587 substituted “commander” for “lieutenant commander”.
+<b>1992</b>—Subsec. (d). Pub. L. 102–587 substituted “commander” for “lieutenant commander”.
 
 #### Current Director
 
-Pub. L. 109–241, title II, §204(b), July 11, 2006, 120 Stat. 520, provided that: “The individual serving as Coast Guard band director on the date of enactment of this Act \[July 11, 2006\] may be immediately promoted to a commissioned grade, not to exceed captain, determined by the Secretary of the department in which the Coast Guard is operating to be most appropriate to the qualifications and experience of that individual.”
+Pub. L. 109–241, title II, §204(b), July 11, 2006, 120 Stat. 520, provided that: “The individual serving as Coast Guard band director on the date of enactment of this Act \[July 11, 2006\] may be immediately promoted to a commissioned grade, not to exceed captain, determined by the Secretary of the department in which the CoastGuard is operating to be most appropriate to the qualifications and experience of that individual.”
 

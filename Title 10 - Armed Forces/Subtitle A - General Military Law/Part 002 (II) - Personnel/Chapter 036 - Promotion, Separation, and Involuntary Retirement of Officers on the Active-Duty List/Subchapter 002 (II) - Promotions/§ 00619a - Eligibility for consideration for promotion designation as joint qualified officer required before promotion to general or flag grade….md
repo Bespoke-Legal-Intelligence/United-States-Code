@@ -2,7 +2,7 @@
 
 (a)
 
-General Rule.—An officer on the active-duty list of the Army, Navy, Air Force, or Marine Corps may not be appointed to the grade of brigadier general or rear admiral (lower half) unless the officer has been designated as a jointqualified officer in accordance with section 661 of this title.
+General Rule.—An officer on the active-duty list of the Army, Navy, Air Force, or Marine Corps may not be appointed to the grade of brigadier general or rear admiral (lower half) unless the officer has been designated as a joint qualified officer in accordance with section 661 of this title.
 
 (b)
 
@@ -76,7 +76,7 @@ Subsec. (b). Pub. L. 107–107, §525(b), in introductory provisions, substitute
 
 <b>1999</b>—Subsec. (g). Pub. L. 106–65, §508(a), amended heading and text of subsec. (g) generally. Prior to amendment, subsec. (g) authorized the Secretary until Jan. 1, 1999, to waive subsecs. (a) and (d) for certain officers and contained restrictions on appointments of those officers.
 
-Subsec. (h). Pub. L. 106–65, §508(b), substituted “An officer of the Navy” for “(1) Until January 1, 1997, an officer of the Navy” and “who before January 1, 1997, is” for “may be” and struck out “. An officer so appointed” before “may not be appointed” and par. (2) which read as follows: “Not later than March 1 of each year from 1994 through 1997, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a report on the implementation during the preceding calendar year of the transition plan developed by the Secretary pursuant to section 1305(b) of Public Law 100–180 (10 U.S.C. 619a note)with respect to service by qualified nuclear propulsion officers in joint duty assignments.”
+Subsec. (h). Pub. L. 106–65, §508(b), substituted “An officer of the Navy” for “(1) Until January 1, 1997, an officer of the Navy” and “who before January 1, 1997, is” for “may be” and struck out “. An officer so appointed” before “may not be appointed” and par. (2) which read as follows: “Not later than March 1 of each year from 1994 through 1997, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a report on the implementation during the preceding calendar year of the transition plan developed by the Secretary pursuant to section 1305(b) of Public Law 100–180 (10 U.S.C. 619a note) with respect to service by qualified nuclear propulsion officers in joint duty assignments.”
 
 <b>1996</b>—Subsec. (h)(2). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
 

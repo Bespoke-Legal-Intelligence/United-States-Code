@@ -4,13 +4,13 @@
 
 #### (1) In general
 
-&emsp;The purpose of this section is to support employment and training activities for Indian, Alaska Native, and Native Hawaiian individuals in order—
+&emsp;The purpose of this section is to support employment and training activities for Indian,Alaska Native, and Native Hawaiian individuals in order—
 
 &emsp;&emsp;(A) to develop more fully the academic, occupational, and literacy skills of such individuals;
 
 &emsp;&emsp;(B) to make such individuals more competitive in the workforce; and
 
-&emsp;&emsp;(C) to promote the economic and social development of Indian, Alaska Native, and Native Hawaiian communities in accordancewith the goals and values of such communities.
+&emsp;&emsp;(C) to promote the economic and social development of Indian, Alaska Native, and Native Hawaiian communities in accordance with the goals and values of such communities.
 
 #### (2) Indian policy
 
@@ -90,13 +90,13 @@ Nothing in this section shall be construed—
 
 &emsp;(1) to limit the eligibility of any entity described in subsection (c) of this section to participate in any activity offered by a State or local entity under this Act; or
 
-&emsp;(2) to preclude or discourage any agreement, between any entity described in subsection (c) of this section and any State or local entity, to facilitate the provision of services by such entity or to the population served by such entity.
+&emsp;(2) to preclude or discourage any agreement, between any entity described in subsection (c)of this section and any State or local entity, to facilitate the provision of services by such entity or to the population served by such entity.
 
 #### (h) Administrative provisions
 
 #### (1) Organizational unit established
 
-&emsp;The Secretary shall designate a single organizational unit within the Department of Labor that shall have primary responsibilityfor the administration of the activities authorized under this section.
+&emsp;The Secretary shall designate a single organizational unit within the Department of Labor that shall have primary responsibility for the administration of the activities authorized under this section.
 
 #### (2) Regulations
 

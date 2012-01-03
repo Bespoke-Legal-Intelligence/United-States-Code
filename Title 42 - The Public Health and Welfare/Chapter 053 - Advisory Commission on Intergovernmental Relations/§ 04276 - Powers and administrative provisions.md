@@ -14,7 +14,7 @@ The Commission shall have power to appoint, fix the compensation of, and remove 
 
 #### (d) Appointment and compensation of other personnel; temporary and intermittent services
 
-Subject to such rules and regulations as may be adopted by the Commission, the Chairman, without regard to the civil service laws and chapter 51 and subchapter III of chapter 53 of title 5, and without reference to political affiliation, shall have the power—
+Subject to such rules and regulations as may be adopted by the Commission, the Chairman,without regard to the civil service laws and chapter 51 and subchapter III of chapter 53 of title 5, and without reference to political affiliation, shall have the power—
 
 &emsp;(1) to appoint, fix the compensation of, and remove such other personnel as he deems necessary,
 

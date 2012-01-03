@@ -6,7 +6,7 @@
 
 &emsp;(2) have a service-connected disability rated at 50 percent or more.
 
-(b)(1) Under the program conducted pursuant to subsection (a), the Secretary shall (A) furnish appropriate health-related services solely through contracts with appropriate public and private agencies that provide such services, and (B) designate Department health-care employees to furnish case management services to veteran furnished services under the program.
+(b)(1) Under the program conducted pursuant to subsection (a), the Secretary shall (A) furnishappropriate health-related services solely through contracts with appropriate public and private agencies that provide such services, and (B) designate Department health-care employees to furnish case management services to veteran furnished services under the program.
 
 (2) For the purposes of paragraph (1), the term “case management services” includes the coordination and facilitation of all services furnished to a veteran by the Department of Veterans Affairs, either directly or through contract, including assessment of needs, planning, referral (including referral for services to be furnished by the Department, either directly or through a contract, or by an entity other than the Department), monitoring, reassessment, and followup.
 
@@ -16,7 +16,7 @@
 
 (e) The authority of the Secretary to enter into contracts under this section shall be effective for any fiscal year only to the extent that appropriations are available.
 
-(Added Pub. L. 101–366, title II, §201(a)(1), Aug. 15, 1990, 104 Stat. 437, §620C; renumbered §1720C and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–452, title I, §103(c), Nov. 2, 1994, 108 Stat. 4786; Pub. L. 104–110, titleI, §101(c), Feb. 13, 1996, 110 Stat. 768; Pub. L. 105–114, title II, §206(a)–(b)(2), Nov. 21, 1997, 111 Stat. 2289.)
+(Added Pub. L. 101–366, title II, §201(a)(1), Aug. 15, 1990, 104 Stat. 437, §620C; renumbered §1720C and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–452, title I, §103(c), Nov. 2, 1994, 108 Stat. 4786; Pub. L. 104–110, title I, §101(c), Feb. 13, 1996, 110 Stat. 768; Pub. L. 105–114, title II, §206(a)–(b)(2), Nov. 21, 1997, 111 Stat. 2289.)
 
 #### Amendments
 

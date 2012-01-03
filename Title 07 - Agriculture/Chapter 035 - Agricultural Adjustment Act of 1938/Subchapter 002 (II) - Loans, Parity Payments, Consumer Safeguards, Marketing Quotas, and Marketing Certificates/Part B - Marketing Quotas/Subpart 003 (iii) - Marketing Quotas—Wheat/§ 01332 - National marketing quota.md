@@ -10,7 +10,7 @@ If a national marketing quota for wheat has been proclaimed for any marketing ye
 
 #### (c) National emergencies or material increase in demand; investigation; increase or termination
 
-If, after the proclamation of a national marketing quota for wheat for any marketing year, the Secretary has reason to believe that, because of a national emergency or because of a material increase in the demand for wheat, the national marketing quota should be terminated or the amount thereof increased, he shall causean immediate investigation to be made to determine whether such action is necessary in order to meet such emergency or increase in the demand for wheat. If, on the basis of such investigation, the Secretary finds that such action is necessary, he shall immediately proclaim such finding and the amount of any such increase found by him to be necessary and thereupon such national marketing quota shall be so increased or terminated. In case any national marketing quota is increased under this subsection, the Secretary shall provide for such increase by increasing acreage allotments established under this subpart by a uniform percentage.
+If, after the proclamation of a national marketing quota for wheat for any marketing year, the Secretary has reason to believe that, because of a national emergency or because of a material increase in the demand for wheat, the national marketing quota should be terminated or the amount thereof increased, he shall cause an immediate investigation to be made to determine whether such action is necessary in order to meet such emergency or increase in the demand for wheat. If, on the basis of such investigation, the Secretary finds that such action is necessary, he shall immediately proclaim such finding and the amount of any such increase found by him to be necessary and thereupon such national marketing quota shall be so increased or terminated. In case any national marketing quota is increased under this subsection, the Secretary shall provide for such increase by increasing acreage allotments established under this subpart by a uniform percentage.
 
 #### (d) Farm marketing quotas for wheat crops planted in calendar years 1966–1970
 
@@ -20,7 +20,7 @@ Notwithstanding any other provision of this chapter, the Secretary shall proclai
 
 #### Amendments
 
-1985—Pub. L. 99–198 temporarily substituted “Proclamation of marketing quotas” for “National marketing quota” in section catchline. See Effective and Termination Dates of 1985 Amendment note below.
+<b>1985</b>—Pub. L. 99–198 temporarily substituted “Proclamation of marketing quotas” for “National marketing quota” in section catchline. See Effective and Termination Dates of 1985 Amendment note below.
 
 Subsec. (a). Pub. L. 99–198 amended subsec. (a) generally, temporarily substituting provisions defining the terms “base period” and “marketing quota period” for provisions which authorized the Secretary to proclaim a national marketing quota for wheat for either a two- or three-year period. See Effective and Termination Dates of 1985 Amendment note below.
 
@@ -30,15 +30,15 @@ Subsec. (c). Pub. L. 99–198 amended subsec. (c) generally, temporarily substit
 
 Subsec. (d). Pub. L. 99–198 amended section generally, temporarily striking out subsec. (d) which provided for farm marketing quotas for wheat crops planted in calendar years 1969–1970. See Effective and Termination Dates of 1985 Amendment note below.
 
-1968—Subsec. (d). Pub. L. 90–559 provided for a one year extension through 1970.
+<b>1968</b>—Subsec. (d). Pub. L. 90–559 provided for a one year extension through 1970.
 
-1965—Subsec. (b). Pub. L. 89–321 changed item (iv) from the average amount of wheat which was used for livestock feed during 1959–60 to the amount which will be utilized during the marketing year for which the quota is being determined for livestock feed, excluding the estimated quantity of wheat which will be utilized for such purpose as a result of the substitution of wheat for feed grains under section 1339c of this title.
+<b>1965</b>—Subsec. (b). Pub. L. 89–321 changed item (iv) from the average amount of wheat which was used for livestock feed during 1959–60 to the amount which will be utilized during the marketing year for which the quota is being determined for livestock feed, excluding the estimated quantity of wheat which will be utilized for such purpose as a result of the substitution of wheat for feed grains under section 1339c of this title.
 
 Subsec. (d). Pub. L. 89–321 added subsec. (d).
 
-1962—Pub. L. 87–703 substituted provisions for proclamation of a national marketing quota upon a determination made prior to April 15 in any calendar year, the duration of such a program, the amount of, including the minimum, quota, and investigation of stocks to increase or terminate the quota during national emergencies or material increase in demand for provision for proclamation, not later than May 15 of each calendar year, of a national marketing quota for the crop produced in the next calendar year.
+<b>1962</b>—Pub. L. 87–703 substituted provisions for proclamation of a national marketing quota upon a determination made prior to April 15 in any calendar year, the duration of such a program, the amount of, including the minimum, quota, and investigation of stocks to increase or terminate the quota during national emergencies or material increase in demand for provision for proclamation, not later than May 15 of each calendar year, of a national marketing quota for the crop produced in the next calendar year.
 
-1954—Act Aug. 28, 1954, struck out proclamations relating to supplies, and changed proclamation date from July 15 to May 15.
+<b>1954</b>—Act Aug. 28, 1954, struck out proclamations relating to supplies, and changed proclamation date from July 15 to May 15.
 
 #### Effective and Termination Dates of 1985 Amendment
 

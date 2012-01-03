@@ -104,7 +104,7 @@ Subsection (a) is substituted for “The Foundation shall have a governing Board
 
 In subsection (b)(1), the words “(hereafter in this chapter referred to as the ‘Librarian’)” in 36:5702(a) are omitted as unnecessary. The words “Within 90 days after October 11, 1996” in 36:5702(b) are omitted as obsolete.
 
-In subsection (b)(3), the words “is not an employee” are substituted for “nor . . . shall be construed to beemployees” in 36:5702(g)(2)(A) (last sentence related to the board of directors), and the words “appointment to the board does not constitute appointment as an officer or employee” are substituted for “Appointment to the Board shall not constitute employment by, or the holding of an office of” in 36:5702(a), for clarity.
+In subsection (b)(3), the words “is not an employee” are substituted for “nor . . . shall be construed to be employees” in 36:5702(g)(2)(A) (last sentence related to the board of directors), and the words “appointment to the board does not constitute appointment as an officer or employee” are substituted for “Appointment to the Board shall not constitute employment by, or the holding of an office of” in 36:5702(a), for clarity.
 
 In subsection (d), the words “for the transaction of business” are omitted as unnecessary.
 

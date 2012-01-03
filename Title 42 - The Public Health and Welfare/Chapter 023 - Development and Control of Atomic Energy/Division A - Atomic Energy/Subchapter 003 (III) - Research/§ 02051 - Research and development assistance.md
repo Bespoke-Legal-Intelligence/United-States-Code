@@ -44,7 +44,7 @@ Provisions similar to this section were contained in section 1803(a) of this tit
 
 #### Amendments
 
-<b>2005</b>—Subsec. (b). Pub. L. 109–58 inserted heading, inserted par. (1) designation before “to make grants”, inintroductory provisions substituted “authorized—” for “further authorized”, and added par. (2).
+<b>2005</b>—Subsec. (b). Pub. L. 109–58 inserted heading, inserted par. (1) designation before “to make grants”, in introductory provisions substituted “authorized—” for “further authorized”, and added par. (2).
 
 <b>1971</b>—Subsec. (a)(6). Pub. L. 92–84 added par. (6).
 

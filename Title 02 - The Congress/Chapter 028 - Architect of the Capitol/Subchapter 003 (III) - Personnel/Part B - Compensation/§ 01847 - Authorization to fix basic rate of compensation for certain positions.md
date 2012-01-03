@@ -14,15 +14,15 @@ Section was classified to section 166b–3 of former Title 40, prior to the enac
 
 #### Amendments
 
-1989—Pub. L. 101–163 substituted “four positions” for “three positions” and “Architect or Assistant Architect” for “Architect, Assistant Architect, or Second Assistant Architect of the Capitol”.
+<b>1989</b>—Pub. L. 101–163 substituted “four positions” for “three positions” and “Architect or Assistant Architect” for “Architect, Assistant Architect, or Second Assistant Architect of the Capitol”.
 
-1975—Pub. L. 94–157 increased to two positions from one position the number of positions under the appropriation “Capitol Buildings”.
+<b>1975</b>—Pub. L. 94–157 increased to two positions from one position the number of positions under the appropriation “Capitol Buildings”.
 
-1968—Pub. L. 90–239 increased the compensation of one position under appropriation “Senate Office Buildings” from “$7,700” to “$8,200”.
+<b>1968</b>—Pub. L. 90–239 increased the compensation of one position under appropriation “Senate Office Buildings” from “$7,700” to “$8,200”.
 
-1967—Pub. L. 90–206 increased the compensation from $7,700 to $8,200 per annum each of the three positions under the appropriation “Salaries, Office of the Architect of the Capitol”, of one position under the appropriation “Capitol Buildings”, and of one position under the appropriation “House Office Buildings”.
+<b>1967</b>—Pub. L. 90–206 increased the compensation from $7,700 to $8,200 per annum each of the three positions under the appropriation “Salaries, Office of the Architect of the Capitol”, of one position under the appropriation “Capitol Buildings”, and of one position under the appropriation “House Office Buildings”.
 
-1965—Pub. L. 89–309 increased the compensation of one position under appropriation “Senate Office Buildings” from $7,020 to $7,700.
+<b>1965</b>—Pub. L. 89–309 increased the compensation of one position under appropriation “Senate Office Buildings” from $7,020 to $7,700.
 
 #### Effective Date of 1967 Amendment
 

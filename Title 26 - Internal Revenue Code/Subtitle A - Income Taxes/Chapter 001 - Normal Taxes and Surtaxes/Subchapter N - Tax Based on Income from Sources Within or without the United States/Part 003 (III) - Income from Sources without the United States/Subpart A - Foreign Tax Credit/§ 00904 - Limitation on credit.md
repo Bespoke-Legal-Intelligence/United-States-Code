@@ -2,7 +2,7 @@
 
 #### (a) Limitation
 
-The total amount of the credit taken under section 901(a) shall not exceed the same proportion of the tax against which such credit is taken which the taxpayer's taxable income from sources without the United States (but not in excess of the taxpayer's entire taxable income) bears to his entire taxable income for the same taxable year.
+The total amount of the credit taken under section 901(a) shall not exceed the same proportion of the tax against which such credit is taken which the taxpayer's taxable income from sources without the United States (but not inexcess of the taxpayer's entire taxable income) bears to his entire taxable income for the same taxable year.
 
 #### (b) Taxable income for purpose of computing limitation
 
@@ -96,7 +96,7 @@ The total amount of the credit taken under section 901(a) shall not exceed the s
 
 #### (c) Carryback and carryover of excess tax paid
 
-Any amount by which all taxes paid or accrued to foreign countries or possessions of the United States for any taxable year for which the taxpayer chooses to have the benefits of this subpart exceed the limitation under subsection (a) shall be deemed taxes paid or accrued to foreign countries or possessions of the United States in the first preceding taxable year and in any of the first 10 succeeding taxable years, in that order and to the extent not deemed taxes paid or accrued in a prior taxable year, in the amount by which the limitation under subsection (a) for such preceding or succeeding taxable year exceeds the sum of the taxes paid or accrued to foreign countries or possessions of the United States for such preceding or succeeding taxable year and the amount of the taxes for any taxable year earlier than the current taxable year which shall be deemed to have been paid or accrued in such preceding or subsequent taxable year (whether or not the taxpayer chooses to have the benefits of this subpart with respect to such earlier taxable year). Such amount deemed paid or accrued in any year may be availed of only as a tax credit and not as a deduction and only if the taxpayer for such year chooses to have the benefits of this subpart as to taxes paid or accrued for that year to foreign countries or possessions of the United States.
+Any amount by which all taxes paid or accrued to foreign countries or possessions of the United States for any taxable year for which the taxpayer chooses to have the benefits of this subpart exceed the limitation under subsection (a) shall be deemed taxes paid or accrued to foreign countries or possessions of the United States in the first preceding taxable year and inany of the first 10 succeeding taxable years, in that order and to the extent not deemed taxes paid or accrued in a prior taxable year, in the amount by which the limitation under subsection (a) for such preceding or succeeding taxable year exceeds the sum of the taxes paid or accrued to foreign countries or possessions of the United States for such preceding or succeeding taxable year and the amount of the taxes for any taxable year earlier than the current taxable year which shall be deemed to have been paid or accrued in such preceding or subsequent taxable year (whether or not the taxpayer chooses to have the benefits of this subpart with respect to such earlier taxable year). Such amount deemed paid or accrued in any year may be availed of only as a tax credit and not as a deduction and only if the taxpayer for such year chooses to have the benefits of this subpart as to taxes paid or accrued for that year to foreign countries or possessions of the United States.
 
 #### (d) Separate application of section with respect to certain categories of income
 
@@ -194,7 +194,7 @@ Any amount by which all taxes paid or accrued to foreign countries or possession
 
 &emsp;&emsp;&emsp;&emsp;(II) derived from the investment by an insurance company of its unearned premiums or reserves ordinary and necessary for the proper conduct of its insurance business, or
 
-&emsp;&emsp;&emsp;&emsp;(III) of a kind which would be insurance income as defined in section 953(a) determined without regard to those provisions of paragraph (1)(A) of such section which limit insurance income to income from countries other than thecountry in which the corporation was created or organized.
+&emsp;&emsp;&emsp;&emsp;(III) of a kind which would be insurance income as defined in section 953(a) determined without regard to those provisions of paragraph (1)(A) of such section which limit insurance income to income from countries other than the country in which the corporation was created or organized.
 
 #### (E) Noncontrolled section 902 corporation
 
@@ -304,7 +304,7 @@ Any amount by which all taxes paid or accrued to foreign countries or possession
 
 #### (G) Dividend
 
-&emsp;&emsp;For purposes of this paragraph, the term “dividend” includes any amount included in gross income in section 951(a)(1)(B). Any amount included in gross income under section 78 to the extent attributable to amounts included in gross income in section 951(a)(1)(A) shall not be treated as a dividend but shall be treated as included in gross income under section 951(a)(1)(A).
+&emsp;&emsp;For purposes of this paragraph, the term “dividend” includes any amount included in gross income in section 951(a)(1)(B). Any amount included in gross income under section 78 to the extent attributable to amounts included in gross income in section951(a)(1)(A) shall not be treated as a dividend but shall be treated as included in gross income under section 951(a)(1)(A).
 
 #### (H) Look-thru applies to passive foreign investment company inclusion
 
@@ -394,7 +394,7 @@ Any amount by which all taxes paid or accrued to foreign countries or possession
 
 &emsp;The Secretary shall prescribe such regulations as may be necessary or appropriate for the purposes of this subsection, including regulations—
 
-&emsp;&emsp;(A) for the application of paragraph (3) and subsection (f)(5) in the case of income paid (or loans made) through 1 or more entities or between 2 or more chains of entities,
+&emsp;&emsp;(A) for the application of paragraph (3) and subsection (f)(5) in the case of income paid\(or loans made) through 1 or more entities or between 2 or more chains of entities,
 
 &emsp;&emsp;(B) preventing the manipulation of the character of income the effect of which is to avoid the purposes of this subsection, and
 
@@ -464,7 +464,7 @@ Any amount by which all taxes paid or accrued to foreign countries or possession
 
 #### (ii) Applicable disposition
 
-&emsp;&emsp;&emsp;For purposes of clause (i), the term “applicable disposition” means any disposition of any share of stock in a controlled foreign corporation in a transaction or series of transactions if, immediately before such transaction or series of transactions, the taxpayer owned more than 50 percent (by vote or value) of the stock of the controlled foreign corporation. Such term shall not include a disposition described in clause (iii) or (iv), except that clause (i) shall apply to any gain recognized on any such disposition.
+&emsp;&emsp;&emsp;For purposes of clause (i), the term “applicable disposition” means any disposition of any share of stock in a controlled foreign corporation in a transaction or series of transactions if, immediately before such transaction or series of transactions, the taxpayer owned more than 50 percent (by vote or value) of the stock of the controlled foreign corporation. Such term shall not include a disposition described in clause (iii) or (iv), except that clause (i)shall apply to any gain recognized on any such disposition.
 
 #### (iii) Exception for certain exchanges where ownership percentage retained
 
@@ -476,7 +476,7 @@ Any amount by which all taxes paid or accrued to foreign countries or possession
 
 #### (iv) Exception for certain asset acquisitions
 
-&emsp;&emsp;&emsp;A disposition shall not be treated as an applicable disposition under clause (ii) if itis part of a transaction or series of transactions in which the taxpayer (or any member of an affiliated group of corporations filing a consolidated return under section 1501 which includes the taxpayer) acquires the assets of a controlled foreign corporation in exchange for the shares of the controlled foreign corporation in a liquidation described in section 332 or a reorganization described in section 368(a)(1).
+&emsp;&emsp;&emsp;A disposition shall not be treated as an applicable disposition under clause (ii) if it is part of a transaction or series of transactions in which the taxpayer (or any member of an affiliated group of corporations filing a consolidated return under section 1501 which includes the taxpayer) acquires the assets of a controlled foreign corporation in exchange for the shares of the controlled foreign corporation in a liquidation described in section 332 or a reorganization described in section 368(a)(1).
 
 #### (v) Controlled foreign corporation
 
@@ -686,7 +686,7 @@ Any amount by which all taxes paid or accrued to foreign countries or possession
 
 #### (i) Coordination with nonrefundable personal credits
 
-In the case of any taxable year of an individual to which section 26(a)(2) does not apply, for purposes of subsection (a), the tax against which the credit is taken is such tax reduced by the sum of the credits allowable under subpart A of part IV of subchapter A of this chapter (other than sections 24, 25A(i), 25B, 30 30B,,<sup>2</sup> and 30D).
+In the case of any taxable year of an individual to which section 26(a)(2) does not apply, for purposes of subsection (a), the tax against which the credit is taken is such tax reduced by the sum of the credits allowable under subpart A of part IV of subchapter A of this chapter (other than sections 23, 24, 25A(i), 25B, 30 30B,,<sup>2</sup> and 30D).
 
 #### (j) Limitation on use of deconsolidation to avoid foreign tax credit limitations
 
@@ -696,7 +696,7 @@ If 2 or more domestic corporations would be members of the same affiliated group
 
 &emsp;(2) the constructive ownership rules of section 1563(e) applied for purposes of section 1504(a),
 
-> the Secretary may by regulations provide for resourcing the income of any of such corporations or for modifications to the consolidated return regulations to the extent that such resourcing or modifications are necessary to prevent the avoidance of the provisions of this subpart.
+> the Secretary may by regulations provide for resourcing the income of any of such corporationsor for modifications to the consolidated return regulations to the extent that such resourcing or modifications are necessary to prevent the avoidance of the provisions of this subpart.
 
 #### (k) Certain individuals exempt
 
@@ -756,7 +756,7 @@ If 2 or more domestic corporations would be members of the same affiliated group
 
 <i>For termination of amendment by section 10909(c) of Pub. L. 111–148, see Effective and Termination Dates of 2010 Amendment note below.</i>
 
-<i>For termination of amendment by section 402(i)(3)(H) of Pub. L. 109–135, see Effective and Termination Dates of 2005 Amendment note below.</i>
+<i>For termination of amendment by section 402(i)(3)(H) of Pub. L. 109–135, see Effective and</i><i>Termination Dates of 2005 Amendment note below.</i>
 
 <i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
@@ -1132,7 +1132,7 @@ Amendment by Pub. L. 111–148 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 2009 Amendment
 
-Amendment by section 1004(b)(5) of Pub. L. 111–5 applicable to taxable years beginning after Dec. 31, 2008, see section 1004(d) of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 24 of this title.
+Amendment by section 1004(b)(5) of Pub. L. 111–5 applicable to taxable years beginning after Dec. 31, 2008,see section 1004(d) of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 24 of this title.
 
 Amendment by section 1142(b)(1)(E) of Pub. L. 111–5 applicable to vehicles acquired after Feb. 17, 2009, see section 1142(c) of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 24 of this title.
 
@@ -1144,9 +1144,9 @@ Pub. L. 110–172, §11(f)(4), Dec. 29, 2007, 121 Stat. 2489, provided that: “
 
 #### Effective and Termination Dates of 2005 Amendment
 
-Amendment by section 402(i)(3)(G) of Pub. L. 109–135 subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, §901, in the same manner as the provisions of such Act to which such amendment relates, see section 402(i)(3)(H) of Pub. L. 109–135, set out as a note under section 36C of this title.
+Amendment by section 402(i)(3)(G) of Pub. L. 109–135 subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, §901, in the same manner as the provisions of such Act to which such amendment relates, see section 402(i)(3)(H) of Pub. L. 109–135, set out as a note under section 23 of this title.
 
-Amendment by section 402(i)(3)(G) of Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which it relates and applicable to taxable years beginning after Dec. 31, 2005, see section 402(m) of Pub. L. 109–135, set out as a note under section 36C of this title.
+Amendment by section 402(i)(3)(G) of Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which it relates and applicable to taxable years beginning after Dec. 31, 2005, see section 402(m) of Pub. L. 109–135, set out as a note under section 23 of this title.
 
 Amendments by section 403(k), (<i>o</i>) of Pub. L. 109–135 effective as if included in the provisions of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which they relate, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
 
@@ -1190,13 +1190,13 @@ Amendment by section 601(b)(1) of Pub. L. 107–147 applicable to taxable years 
 
 #### Effective and Termination Dates of 2001 Amendment
 
-Amendment by sections 201(b), 202(f), and 618(b) of Pub. L. 107–16 inapplicable to taxable years beginning during 2004 or 2005, see section 312(b)(2) of Pub. L. 108–311, set out as a note under section 36C of this title.
+Amendment by sections 201(b), 202(f), and 618(b) of Pub. L. 107–16 inapplicable to taxable years beginning during 2004 or 2005, see section 312(b)(2) of Pub. L. 108–311, set out as a note under section 23 of this title.
 
-Amendment by sections 201(b), 202(f), and 618(b) of Pub. L. 107–16 inapplicable to taxable years beginning during 2002 and 2003, see section 601(b)(2) of Pub. L. 107–147, set out as a note under section 36C of this title.
+Amendment by sections 201(b), 202(f), and 618(b) of Pub. L. 107–16 inapplicable to taxable years beginning during 2002 and 2003, see section 601(b)(2) of Pub. L. 107–147, set out as a note under section 23 of this title.
 
 Amendment by section 201(b)(2)(G) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 201(e)(2) of Pub. L. 107–16, set out as a note under section 24 of this title.
 
-Amendment by section 202(f)(2)(C) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 202(g)(1) of Pub. L. 107–16, set out as a note under section 36C of this title.
+Amendment by section 202(f)(2)(C) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 202(g)(1) of Pub. L. 107–16, set out as a note under section 23 of this title.
 
 Amendment by section 618(b)(2)(D) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 618(d) of Pub. L. 107–16, set out as a note under section 24 of this title.
 
@@ -1412,7 +1412,7 @@ CFC obligation.—For purposes of this paragraph, the term ‘CFC obligation’ 
 
 &emsp;“(H)
 
-Treatment of obligations with original issue discount.—For purposes of this paragraph, in the case of any obligation with original issue discount, the principal amount of such obligation as of any day shall be treated as equal to the revised issue price as of such day (as defined in section 1278(a)(4) of the Internal Revenue Code of 1986).
+Treatment of obligations with original issue discount.—For purposes of this paragraph, in the case of any obligation with original issue discount, the principal amount of such obligation as of any day shall be treated as equal to the revised issueprice as of such day (as defined in section 1278(a)(4) of the Internal Revenue Code of 1986).
 
 &emsp;“(I)
 
@@ -1518,7 +1518,7 @@ Section 701(u)(4)(C) of Pub. L. 95–600 provided that: “The amendments made b
 
 #### Effective Date of 1977 Amendment
 
-Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31, 1976, see section 106(a) of Pub. L. 95–30, set out as a note under section 1 of this title.
+Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31, 1976, see section 106(a) ofPub. L. 95–30, set out as a note under section 1 of this title.
 
 #### Effective Date of 1976 Amendment
 
@@ -1542,7 +1542,7 @@ Exception for certain mining operations.—In the case of a domestic corporation
 
 &emsp;“(D) made commitments for substantial expansion of such mineral extraction activities,
 
-> the amendments made by this section \[amending this section and sections 243, 383, 901, 907, 960, 1351, 1503, 6038, and 6501 of this title\] shall apply to taxable years beginning after December 31, 1978. In the case of a loss sustained in a taxable year beginning before January 1,1979, by any corporation to which this paragraph applies, if section 904(a)(1) of such Code (as in effect before the enactment of this Act \[Oct. 4, 1976\]) applies with respect to such taxable year, the provisions of section 904(f) of such Code shall be applied with respect to such loss under the principles of such section 904(a)(1).
+> the amendments made by this section \[amending this section and sections 243, 383, 901, 907, 960, 1351, 1503, 6038, and 6501 of this title\] shall apply to taxable years beginning after December 31, 1978. In the case of a loss sustained in a taxable year beginning before January 1, 1979, by any corporation to which this paragraph applies, if section 904(a)(1) of such Code (as in effect before the enactment of this Act \[Oct. 4, 1976\]) applies with respect to such taxable year, the provisions of section 904(f) of such Code shall be applied with respect to such loss under the principles of such section 904(a)(1).
 
 “(3)
 
@@ -1598,7 +1598,7 @@ Recapture of loss after the transition period.—In any case to which this parag
 
 &emsp;&emsp;“(i) for purposes of determining the liability for tax of the taxpayer for taxable years beginning after December 31, 1978, section 904(f) of the Internal Revenue Code of 1986 \[subsec. (f) of this section\] shall be applied with respect to the loss described in subparagraph (A)(i) under the principles of section 904(a)(1) of such Code (as in effect before the enactment of this Act \[Oct. 4, 1976\]); but
 
-&emsp;&emsp;“(ii) in the case of any taxpayer and any possession, the aggregate amount to which such section 904(f) applies by reason of clause (i) shall not exceed the sum of the net incomes of all affiliated corporations from such possession for taxable years of such affiliated corporations beginning after December 31, 1975, and before January 1, 1979.
+&emsp;&emsp;“(ii) in the case of any taxpayer and any possession, the aggregate amount to which such section904(f) applies by reason of clause (i) shall not exceed the sum of the net incomes of all affiliated corporations from such possession for taxable years of such affiliated corporations beginning after December 31, 1975, and before January 1, 1979.
 
 &emsp;“(D)
 
@@ -1676,7 +1676,7 @@ Adjustments.—Under regulations prescribed by the Secretary of the Treasury or 
 
 “(b)
 
-Coordination With Separate Baskets.—Any taxes paid or accrued in a taxable year beginning after 1986 which (after the application of subsection (a)) are treated as paid or accrued in a taxable year beginning before 1987 shall be treated as imposed on income described in section 904(d)(1)(E) of the Internal Revenue Code of 1954 (as in effect on the day before the date of the enactment of this Act \[Oct. 22, 1986\]). No taxes paid or accrued in a taxable year beginning after 1986 with respect to high withholding tax interest (as defined in section 904(d)(2)(B) of the Internal Revenue Code of 1986 as amended by this Act) may be treated as paid or accrued in a taxable year beginning before 1987.”
+Coordination With Separate Baskets.—Any taxes paid or accrued in a taxable year beginning after1986 which (after the application of subsection (a)) are treated as paid or accrued in a taxable year beginning before 1987 shall be treated as imposed on income described in section 904(d)(1)(E) of the Internal Revenue Code of 1954 (as in effect on the day before the date of the enactment of this Act \[Oct. 22, 1986\]). No taxes paid or accrued in a taxable year beginning after 1986 with respect to high withholding tax interest (as defined in section 904(d)(2)(B) of the Internal Revenue Code of 1986 as amended by this Act) may be treated as paid or accrued in a taxable year beginning before 1987.”
 
 #### Coordination With Treaty Obligations
 
@@ -1684,7 +1684,7 @@ Section 1810(a)(4) of Pub. L. 99–514 provided that: “Section 904(g) of the I
 
 #### Separate Application of Section 904 In Case of Income Covered by Transitional Rules
 
-Section 1810(a)(5) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1018(g)(1), Nov. 10, 1988, 102 Stat. 3582, provided that: “For purposes of section 121(b)(5) of the Tax Reform Act of 1984 \[Pub. L. 98–369, set out above\] (relating to separate application of section 904 \[of the Internal Revenue Code of 1954 \[now 1986\]\] in case of income covered by transitional rules), any carryover under section 904(c) of the Internal Revenue Code of 1954 \[now 1986\] allowed to a taxpayer which was incorporated on August 31, 1962, attributable to taxes paid or accrued in taxable years beginning in 1981, 1982, 1983, or 1984, with respect to amounts included in gross income under section 951 of such Codein respect of a controlled foreign corporation which was incorporated on May 27, 1977, shall be treated as taxes paid or accrued on income separately treated under such section 121(b)(5).”
+Section 1810(a)(5) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1018(g)(1), Nov. 10, 1988, 102 Stat. 3582, provided that: “For purposes of section 121(b)(5) of the Tax Reform Act of 1984 \[Pub. L. 98–369, set out above\] (relating to separate application of section 904 \[of the Internal Revenue Code of 1954 \[now 1986\]\] in case of income covered by transitional rules), any carryover under section 904(c) of the Internal Revenue Code of 1954 \[now 1986\] allowed to a taxpayer which was incorporated on August 31, 1962, attributable to taxes paid or accrued in taxable years beginning in 1981, 1982, 1983, or 1984, with respect to amounts included in gross income under section 951 of such Code in respect of a controlled foreign corporation which was incorporated on May 27, 1977, shall be treated as taxes paid or accrued on income separately treated under such section 121(b)(5).”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

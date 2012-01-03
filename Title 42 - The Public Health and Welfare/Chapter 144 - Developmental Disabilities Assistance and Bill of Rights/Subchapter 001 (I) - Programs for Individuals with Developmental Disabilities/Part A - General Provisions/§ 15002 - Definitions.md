@@ -74,7 +74,7 @@ In this subchapter:
 
 #### (B) Infants and young children
 
-&emsp;&emsp;An individual from birth to age 9, inclusive, who has a substantial developmental delay or specific congenital or acquired condition, may be considered to have a developmental disability without meeting 3 or more of the criteria described in clauses (i) through (v) of subparagraph (A) if the individual, without services and supports, has a high probability of meeting those criteria later in life.
+&emsp;&emsp;An individual from birth to age 9, inclusive, who has a substantial developmentaldelay or specific congenital or acquired condition, may be considered to have a developmental disability without meeting 3 or more of the criteria described in clauses (i) through (v) of subparagraph (A) if the individual, without services and supports, has a high probability of meeting those criteria later in life.
 
 #### (9) Early intervention activities
 
@@ -234,7 +234,7 @@ In this subchapter:
 
 &emsp;&emsp;(D) opportunities to participate in, and contribute to, their communities; and
 
-&emsp;&emsp;(E) support, including financial support, to advocate for themselves and others, to develop leadership skills, through training in self-advocacy, to participate in coalitions, to educate policymakers, and to play a role in the development of public policies that affect individuals with developmental disabilities.
+&emsp;&emsp;(E) support, including financial support, to advocate for themselves and others, to develop leadership skills, through training in self-advocacy, to participate in coalitions, toeducate policymakers, and to play a role in the development of public policies that affect individuals with developmental disabilities.
 
 #### (28) State
 

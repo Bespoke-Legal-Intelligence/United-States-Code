@@ -130,7 +130,7 @@ Intermodal Transportation Database.—
 
 &emsp;(1)
 
-In general.—In consultation with the Under Secretary for Policy, the Assistant Secretaries, and the heads of the operating administrations of the Department, the Director shall establish and maintain a transportation database for all modes of transportation.
+In general.—In consultation with the Under Secretary for Policy, the Assistant Secretaries, and the heads of the operating administrations of the Department, the Directorshall establish and maintain a transportation database for all modes of transportation.
 
 &emsp;(2)
 
@@ -140,7 +140,7 @@ Use.—The database shall be suitable for analyses carried out by the Federal Go
 
 Contents.—The database shall include—
 
-&emsp;&emsp;(A) information on the volumes and patterns of movement of goods, including local,interregional, and international movement, by all modes of transportation and intermodal combinations and by relevant classification;
+&emsp;&emsp;(A) information on the volumes and patterns of movement of goods, including local, interregional, and international movement, by all modes of transportation and intermodal combinations and by relevant classification;
 
 &emsp;&emsp;(B) information on the volumes and patterns of movement of people, including local, interregional, and international movements, by all modes of transportation (including bicycle and pedestrian modes) and intermodal combinations and by relevant classification;
 
@@ -316,7 +316,7 @@ The Federal Advisory Committee Act, referred to in subsec. (<i>o</i>)(5), is Pub
 
 <b>2004</b>—Subsec. (a). Pub. L. 108–426, §3(a), substituted “in the Research and Innovative Technology Administration” for “in the Department of Transportation”.
 
-Subsec. (b)(1). Pub. L. 108–426, §3(b)(1), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “The Bureau shall be headed by a Director who shall be appointed by the President, by and with the advice and consent of the Senate.”
+Subsec. (b)(1). Pub. L. 108–426, §3(b)(1), added par. (1) and struck out heading and text of former par. (1). Textread as follows: “The Bureau shall be headed by a Director who shall be appointed by the President, by and with the advice and consent of the Senate.”
 
 Subsec. (b)(3), (4). Pub. L. 108–426, §3(b)(2), struck out heading and text of pars. (3) and (4) which read as follows:
 

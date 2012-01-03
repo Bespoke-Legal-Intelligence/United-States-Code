@@ -56,7 +56,7 @@ Section is comprised of section 201 of Pub. L. 107–173. Subsec. (b)(2) of sect
 
 #### Amendments
 
-2003—Subsec. (c)(3)(F). Pub. L. 108–177 substituted “section 403–3(c)(7) of title 50” for “section 403–3(c)(6) of title 50”.
+<b>2003</b>—Subsec. (c)(3)(F). Pub. L. 108–177 substituted “section 403–3(c)(7) of title 50” for “section 403–3(c)(6) of title 50”.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
@@ -76,7 +76,7 @@ In General.—Not later than 180 days after the date of the enactment of this di
 
 “(b)
 
-Report.—Not later than 1 year after implementing the plan under subsection (a), the Secretary shall submit a copy of the plan and a report on the plan, including any recommendations the Secretary finds appropriate, to the Senate Committee on Commerce, Science, and Transportation, the House of Representatives Committee on Science \[now Committee on Science and Technology\], the House of Representatives Committee on Homeland Security, and the House of Representatives Committee on the Judiciary.”
+Report.—Not later than 1 year after implementing the plan under subsection (a), the Secretary shall submit a copy of the plan and a report on the plan, including any recommendations the Secretary finds appropriate, to the Senate Committee on Commerce, Science, and Transportation, the House of Representatives Committee on Science \[now Committee on Science, Space, and Technology\], the House of Representatives Committee on Homeland Security, and the House of Representatives Committee on the Judiciary.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

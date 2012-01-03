@@ -20,7 +20,7 @@ This chapter, referred to in subsecs. (a) and (b), was in the original “this A
 
 #### Amendments
 
-2010—Subsec. (c). Pub. L. 111–245 added subsec. (c).
+<b>2010</b>—Subsec. (c). Pub. L. 111–245 added subsec. (c).
 
 #### Standards for Measuring and Assessing the Quality and Effectiveness of Federal Law Enforcement Training
 

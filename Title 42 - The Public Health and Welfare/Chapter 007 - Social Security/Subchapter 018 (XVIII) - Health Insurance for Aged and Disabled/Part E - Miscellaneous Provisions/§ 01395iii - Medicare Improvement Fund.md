@@ -30,10 +30,6 @@ The Secretary shall establish under this subchapter a Medicare Improvement Fund 
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1898, as added Pub. L. 110–252, title VII, §7002(a), June 30, 2008, 122 Stat. 2394; amended Pub. L. 110–275, title I, §188(a)(2)(B), July 15, 2008, 122 Stat. 2589; Pub. L. 110–379, §6, Oct. 8, 2008, 122 Stat. 4079; Pub. L. 111–5, div. B, title IV, §4103(b), Feb. 17, 2009, 123 Stat. 487; Pub. L. 111–118, div. B, §1011(b), Dec. 19, 2009, 123 Stat. 3474; Pub. L. 111–148, title III, §3112, Mar. 23, 2010, 124 Stat. 421; Pub. L. 111–309, title II, §207, Dec. 15, 2010, 124 Stat. 3291.)
 
-#### References in Text
-
-Parts A and B, referred to in subsec. (a), are classified to section 1395c et seq. and section 1395j et seq., respectively, of this title.
-
 #### Amendments
 
 <b>2010</b>—Subsec. (b)(1)(A). Pub. L. 111–148, which directed substitution of “$0” for “$22,290,000,000”, was executed by making the substitution for “$20,740,000,000” to reflect the probable intent of Congress and the intervening amendment by Pub. L. 111–118, §1011(b)(1)(A). See 2009 Amendment note below.

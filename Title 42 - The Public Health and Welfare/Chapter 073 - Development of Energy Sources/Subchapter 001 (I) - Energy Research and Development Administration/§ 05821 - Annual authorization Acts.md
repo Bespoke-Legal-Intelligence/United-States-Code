@@ -12,7 +12,7 @@ All appropriations made to the Energy Research and Development Administration or
 
 &emsp;(B) grants to any organization for purchase or construction of research facilities.
 
-> No such funds shall be used under this subsection for the acquisition of land. Fee title to all such facilities and items of equipment shall be vested in the United States, unless the Administrator or his designee determines in writing that the research, development, and demonstration authorized by such Act would best be implemented by permitting fee title or anyother property interest to be vested in an entity other than the United States; but before approving the vesting of such title or interest in such entity, the Administrator shall (i) transmit such determination, together with all pertinent data, to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate and (ii) wait a period of thirty calendar days (not including any day in which either House of Congress is not in session because of adjournment of more than three calendar days to a day certain), unless prior to the expiration of such period each such committee has transmitted to the Administrator written notice to the effect that such committee has no objection to the proposed action.
+> No such funds shall be used under this subsection for the acquisition of land. Fee title to all such facilities and items of equipment shall be vested in the United States, unless the Administrator or his designee determines in writing that the research, development, and demonstration authorized by such Act would best be implemented by permitting fee title or any other property interest to be vested in an entity other than the United States; but before approving the vesting of such title or interest in such entity, the Administrator shall (i) transmit such determination, together with all pertinent data, to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate and (ii) wait a period of thirty calendar days (not including any day in which either House of Congress is not in session because of adjournment of more than three calendar days to a day certain), unless prior to the expiration of such period each such committee has transmitted to the Administrator written notice to the effect that such committee has no objection to the proposed action.
 
 (2) No funds shall be used under paragraph (1) for any facility or major item of equipment, including collateral equipment, if the estimated cost to the Federal Government exceeds $5,000,000 in the case of such a facility or $2,000,000 in the case of such an item of equipment, unless such facility or item has been previously authorized by the appropriate committees of the House of Representatives and the Senate, or the Administrator—
 
@@ -46,7 +46,7 @@ All appropriations made to the Energy Research and Development Administration or
 
 #### (e) Requirements and limitations respecting merger of amounts appropriated for operating expenses or for plant and capital equipment
 
-Subject to the applicable requirements and limitations of this section and the authorization Act involved, when so specified in an appropriation Act, amounts appropriated pursuant to any annual authorization Act for “Operating expenses” or for “Plant and capital equipment”may be merged with any other amounts appropriated for like purposes pursuant to any other Act authorizing appropriations for the Administration: <i>Provided</i>, That no such amounts appropriated for “Plant and capital equipment” may be merged with amounts appropriated for “Operating expenses”.
+Subject to the applicable requirements and limitations of this section and the authorization Act involved, when so specified in an appropriation Act, amounts appropriated pursuant to any annual authorization Act for “Operating expenses” or for “Plant and capital equipment” may be merged with any other amounts appropriated for like purposes pursuant to any other Act authorizing appropriations for the Administration: <i>Provided</i>, That no such amounts appropriated for “Plant and capital equipment” may be merged with amounts appropriated for “Operating expenses”.
 
 #### (f) Availability until expended of amounts appropriated for operating expenses or for plant and capital equipment
 
@@ -115,10 +115,6 @@ Pub. L. 88–332, §104, June 30, 1964, 78 Stat. 229.
 #### Amendments
 
 <b>1994</b>—Subsec. (b)(1). Pub. L. 103–437 substituted “Committee on Science, Space, and Technology” for “Committee on Science and Technology”.
-
-#### Change of Name
-
-Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Nonapplicability of Title II of Pub. L. 95–238 to Any Authorization or Appropriation for Military Application of Nuclear Energy, Etc.; Definitions
 

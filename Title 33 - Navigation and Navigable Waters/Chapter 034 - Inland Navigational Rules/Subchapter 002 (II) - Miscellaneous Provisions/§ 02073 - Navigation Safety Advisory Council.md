@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary of the department in which the Coast Guard is operating shall establish aNavigation Safety Advisory Council (hereinafter referred to as the “Council”), consisting of not more than 21 members. All members shall have expertise in Inland and International vessel navigation Rules of the Road, aids to maritime navigation, maritime law, vessel safety, port safety, or commercial diving safety. Upon appointment, all non-Federal members shall be designated as representative members to represent the viewpoints and interests of one of the following groups or organizations:
+&emsp;The Secretary of the department in which the Coast Guard is operating shall establish a Navigation Safety Advisory Council (hereinafter referred to as the “Council”), consisting of not more than 21 members. All members shall have expertise in Inland and International vessel navigation Rules of the Road, aids to maritime navigation, maritime law, vessel safety, port safety, or commercial diving safety. Upon appointment, all non-Federal members shall be designated as representative members to represent the viewpoints and interests of one of the following groups or organizations:
 
 &emsp;&emsp;(A) Commercial vessel owners or operators.
 

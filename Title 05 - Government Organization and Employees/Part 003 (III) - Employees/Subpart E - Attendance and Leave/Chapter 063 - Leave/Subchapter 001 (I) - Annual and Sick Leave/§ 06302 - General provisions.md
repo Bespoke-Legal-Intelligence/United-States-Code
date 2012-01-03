@@ -50,13 +50,13 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1998—Subsec. (g). Pub. L. 105–277 inserted “or section 3595” after “chapter 35”.
+<b>1998</b>—Subsec. (g). Pub. L. 105–277 inserted “or section 3595” after “chapter 35”.
 
-1996—Subsec. (g). Pub. L. 104–208 added subsec. (g).
+<b>1996</b>—Subsec. (g). Pub. L. 104–208 added subsec. (g).
 
-1978—Subsec. (e). Pub. L. 95–519 substituted “6301(2)(x)–(xiii)” for “6301(2)(x)–(xii)”.
+<b>1978</b>—Subsec. (e). Pub. L. 95–519 substituted “6301(2)(x)–(xiii)” for “6301(2)(x)–(xii)”.
 
-1973—Subsec. (f). Pub. L. 93–181 added subsec. (f).
+<b>1973</b>—Subsec. (f). Pub. L. 93–181 added subsec. (f).
 
 #### Effective Date of 1978 Amendment
 
@@ -64,7 +64,7 @@ Amendment by Pub. L. 95–519 effective beginning on first day of first applicab
 
 #### Temporary Authority To Transfer Leave
 
-Pub. L. 101–237, title II, §206(b)(2), Dec. 18, 1989, 103 Stat. 2068, provided that: “The authority of the Department of Veterans Affairs under section 618 of the Treasury, Postal Service and General Government Appropriations Act, 1989 \[Pub. L. 100–440, set out below\], to operate a leave-transfer program for employees subject to section 4108 of title 38, United States Code, is extended until the programs provided for in subsection (e) of such section 4108 (as added by subsection (a) of this section) are implemented, but not later than October 1, 1990.”
+Pub. L. 101–237, title II, §206(b)(2), Dec. 18, 1989, 103 Stat. 2068, provided that: “The authority of the Department of Veterans Affairs under section 618 of the Treasury, Postal Service and General Government Appropriations Act, 1989 \[Pub. L. 100–440, set out below\], to operate a leave-transfer program for employees subject to section 4108 of title 38, United States Code, is extended until the programs provided for in subsection (e)of such section 4108 (as added by subsection (a) of this section) are implemented, but not later than October 1, 1990.”
 
 Similar provisions were contained in the following acts:
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment; membership; chairperson
 
-There is established within the Office of the President the Advisory Board for Cuba Broadcasting (in this subchapter <sup>1</sup> referred to as the “Advisory Board”). The Advisory Board shall consist of nine members, appointed by the President by and with the advice and consent of the Senate, of whom not more than five shall be members of the same political party. The President shall designate one member of the Advisory Board to serve as chairperson.
+There is established within the Office of the President the Advisory Board for Cuba Broadcasting (in this subchapter <sup>1</sup> referred to as the“Advisory Board”). The Advisory Board shall consist of nine members, appointed by the President by and with the advice and consent of the Senate, of whom not more than five shall be members of the same political party. The President shall designate one member of the Advisory Board to serve as chairperson.
 
 #### (b) Review; recommendations
 
@@ -10,7 +10,7 @@ The Advisory Board shall review the effectiveness of the activities carried out 
 
 #### (c) Terms; vacancies
 
-In appointing the initial voting members of the Advisory Board, the President shall designate three members to serve for a term of three years, three members to serve for a term of two years, and three members to serve for a term of one year. Thereafter, the term of each member of the Advisory Board shall be three years. The President shall appoint, by and with the advice and consent of the Senate, membersto fill vacancies occurring prior to the expiration of a term, in which case the members so appointed shall serve for the remainder of such term. Any member whose term has expired may serve until his successor has been appointed and qualified.
+In appointing the initial voting members of the Advisory Board, the President shall designate three members to serve for a term of three years, three members to serve for a term of two years, and three members to serve for a term of one year. Thereafter, the term of each member of the Advisory Board shall be three years. The President shall appoint, by and with the advice and consent of the Senate, members to fill vacancies occurring prior to the expiration of a term, in which case the members so appointed shall serve for the remainder of such term. Any member whose term has expired may serve until his successor has been appointed and qualified.
 
 #### (d) Ex officio members
 

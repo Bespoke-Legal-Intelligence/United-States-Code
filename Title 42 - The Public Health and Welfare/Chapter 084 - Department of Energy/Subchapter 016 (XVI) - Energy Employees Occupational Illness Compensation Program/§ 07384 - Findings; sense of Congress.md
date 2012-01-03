@@ -96,7 +96,7 @@ Pub. L. 107–107, div. C, title XXXI, §3151(b), Dec. 28, 2001, 115 Stat. 1375,
 
 &emsp;“(i) the Committee on Armed Services, Committee on Appropriations, Committee on the Judiciary, and Committee on Health, Education, Labor, and Pensions of the Senate; and
 
-&emsp;“(ii) the Committee on Armed Services, Committee on Appropriations, Committee on the Judiciary, and Committee on Education and the Workforce \[now Committee on Education and Labor\] of the House of Representatives.
+&emsp;“(ii) the Committee on Armed Services, Committee on Appropriations, Committee on the Judiciary, and Committee on Education and the Workforce of the House of Representatives.
 
 “(3) Amounts for the study under paragraph (1) shall be derived from amounts authorized to be appropriated by section 3614(a) of the Energy Employees Occupational Illness Compensation Program Act of 2000 (114 Stat. 1654A–498) \[42 U.S.C. 7384g(a)\].
 
@@ -118,7 +118,7 @@ Ex. Ord. No. 13179, Dec. 7, 2000, 65 F.R. 77487, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including Public Law 106–398, the Energy Employees Occupational Illness Compensation Program Act of 2000 \[42 U.S.C. 7384 et seq.\] (Public Law 106–398, the “Act”), and to allocate the responsibilities imposed by that legislation and to provide for further legislative efforts, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. Since World War II, hundreds of thousands of men and women have served their Nation in building its nuclear defense. In the course of their work, they overcame previously unimagined scientific and technical challenges. Thousands of these courageous Americans, however, paid a high price for their service, developing disabling or fatal illnesses as a result of exposure to beryllium, ionizing radiation, and other hazards unique to nuclear weapons production and testing. Too often, these workers were neither adequately protected from, nor informed of, the occupational hazards to which they were exposed.
+Section 1. <i>Policy</i>. Since World War II, hundreds of thousands of men and women have served their Nation in building its nuclear defense. In the course of their work, they overcame previously unimagined scientific and technical challenges. Thousands of these courageous Americans, however, paid a high price for their service, developing disabling or fatal illnesses as a result of exposure to beryllium, ionizing radiation, and other hazards unique to nuclear weapons productionand testing. Too often, these workers were neither adequately protected from, nor informed of, the occupational hazards to which they were exposed.
 
 Existing workers’ compensation programs have failed to provide for the needs of these workers and their families. Federal workers’ compensation programs have generally not included these workers. Further, because of long latency periods, the uniqueness of the hazards to which they were exposed, and inadequate exposure data, many of these individuals have been unable to obtain State workers’ compensation benefits. This problem has been exacerbated by the past policy of the Department of Energy (DOE) and its predecessors of encouraging and assisting DOE contractors in opposing the claims of workers who sought those benefits. This policy has recently been reversed.
 
@@ -168,7 +168,7 @@ Sec. 2. <i>Designation of Responsibilities for Administering the Energy Employee
 
 (2) For cases determined by the physician panel and the Secretary of Energy under section 3661(d) and (e) of the Act \[42 U.S.C. 7385<i>o</i>(d), (e)\] to have arisen out of and in the course of employment by the DOE or its contractors and exposure to a toxic substance at a DOE facility, provide assistance to the individual in filing for workers’ compensation benefits. The Secretary shall not contest these claims and, to the extent permitted by law, shall direct a DOE contractor who employed the applicant not to contest the claim;
 
-(vi) Report on the Worker Assistance Program by making publicly available on at least an annual basis claims-related data, including the number of claims filed, the number of illnesses found to be related to work at a DOE facility, job location and description, and number of successful State workers’ compensation claims awarded; and
+(vi) Report on the Worker Assistance Program by making publicly available on at least an annual basisclaims-related data, including the number of claims filed, the number of illnesses found to be related to work at a DOE facility, job location and description, and number of successful State workers’ compensation claims awarded; and
 
 (vii) No later than January 15, 2001, publish in the Federal Register a list of atomic weapons employer facilities within the meaning of section 3621(5) of the Act \[42 U.S.C. 7384<i>l</i>(5)\], Department of Energy employer facilities within the meaning of section 3621(12) of the Act, and a list of facilities owned and operated by a beryllium vendor, within the meaning of section 3621(6) of the Act.
 

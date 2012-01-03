@@ -14,7 +14,7 @@ In computing the deduction allowable under section 642(c) to a trust, no amount 
 
 <b>1969</b>—Subsec. (a). Pub. L. 91–172, §121(d)(2)(B), substituted reference to certain property acquired with borrowed funds for reference to certain leases.
 
-Subsec. (b). Pub. L. 91–172, §101(j)(18), (19), redesignated subsec. (d) as (b) and substituted “sections 518(d)and 4948(c)(4)” for “section 503(e)”. Former subsec. (b), dealing generally with the operation of trusts, was struck out.
+Subsec. (b). Pub. L. 91–172, §101(j)(18), (19), redesignated subsec. (d) as (b) and substituted “sections 518(d) and 4948(c)(4)” for “section 503(e)”. Former subsec. (b), dealing generally with the operation of trusts, was struck out.
 
 Subsec. (c). Pub. L. 91–172, §101(j)(18), struck out subsec. (c) dealing with accumulated income.
 
@@ -30,5 +30,5 @@ Amendment by section 121(d)(2)(B) of Pub. L. 91–172 applicable to taxable year
 
 #### Effective Date of 1968 Amendment
 
-Section 6(c) of Pub. L. 90–630 provided that: “The amendments made by subsection (a) \[amending section 504 of this title\] and (b) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1953, and ending after August 16, 1954. For purposes of sections 3814 and 162(g)(4) of the Internal Revenue Code of 1939, provisions having the same effect as such amendments shall be treated as included in such sections effective with respect to taxable years beginning after December 31, 1950.”
+Section 6(c) of Pub. L. 90–630 provided that: “The amendments made by subsection (a) \[amending section 504 of this title\] and (b) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1953, and ending after August 16, 1954. For purposes of sections 3814 and 162(g)(4) of the InternalRevenue Code of 1939, provisions having the same effect as such amendments shall be treated as included in such sections effective with respect to taxable years beginning after December 31, 1950.”
 

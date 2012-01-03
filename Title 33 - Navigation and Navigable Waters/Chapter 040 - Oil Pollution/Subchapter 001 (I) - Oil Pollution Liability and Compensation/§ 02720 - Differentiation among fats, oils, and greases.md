@@ -14,7 +14,7 @@ Except as provided in subsection (c) of this section, in issuing or enforcing an
 
 #### (b) Considerations
 
-In differentiating between the class of fats, oils, and greases described in subsection (a)(1)(A) of this section and the class of oils and greases described in subsection (a)(1)(B) of this section,the head of the Federal agency shall consider differences in the physical, chemical, biological, and other properties, and in the environmental effects, of the classes.
+In differentiating between the class of fats, oils, and greases described in subsection (a)(1)(A) of this section and the class of oils and greases described in subsection (a)(1)(B) of this section, the head of the Federal agency shall consider differences in the physical, chemical, biological, and other properties, and in the environmental effects, of the classes.
 
 #### (c) Exception
 

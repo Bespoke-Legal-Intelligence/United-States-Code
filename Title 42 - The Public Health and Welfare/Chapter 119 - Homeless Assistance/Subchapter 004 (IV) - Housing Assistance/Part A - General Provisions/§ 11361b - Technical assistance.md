@@ -12,7 +12,7 @@ The Secretary shall reserve not more than 1 percent of the funds made available 
 
 #### Codification
 
-Section 1103 of Pub. L. 111–22, which directed amendment of subtitle A of the McKinney-Vento Homeless Assistance Act by adding this section after section 404, was executed by adding this section following section 404 (42 U.S.C. 11361a) of subtitle A of title IV of Pub. L. 100–77 (this part), to reflect the probable intent of Congress.
+Section 1103 of Pub. L. 111–22, which directed amendment of subtitle A of the McKinney-Vento HomelessAssistance Act by adding this section after section 404, was executed by adding this section following section 404 (42 U.S.C. 11361a) of subtitle A of title IV of Pub. L. 100–77 (this part), to reflect the probable intent of Congress.
 
 #### Effective Date
 

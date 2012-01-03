@@ -14,9 +14,9 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### Amendments
 
-1976—Subsec. (b). Pub. L. 94–546 substituted “Federal Aviation Administration” for “Federal Aviation Agency” wherever appearing.
+<b>1976</b>—Subsec. (b). Pub. L. 94–546 substituted “Federal Aviation Administration” for “Federal Aviation Agency” wherever appearing.
 
-1958—Subsec. (b). Pub. L. 85–726 substituted “Administrator of the Federal Aviation Agency” for “Administrator of Civil Aeronautics” in two places, and “Federal Aviation Agency” for “Civil Aeronautics Administration”.
+<b>1958</b>—Subsec. (b). Pub. L. 85–726 substituted “Administrator of the Federal Aviation Agency” for “Administrator of Civil Aeronautics” in two places, and “Federal Aviation Agency” for “Civil Aeronautics Administration”.
 
 #### Effective Date of 1958 Amendment
 

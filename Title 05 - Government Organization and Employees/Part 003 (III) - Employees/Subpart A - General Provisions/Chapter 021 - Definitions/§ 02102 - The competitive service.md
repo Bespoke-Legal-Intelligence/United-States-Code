@@ -52,7 +52,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1978—Subsec. (a)(1)(C). Pub. L. 95–454 added cl. (C).
+<b>1978</b>—Subsec. (a)(1)(C). Pub. L. 95–454 added cl. (C).
 
 #### Effective Date of 1978 Amendment
 

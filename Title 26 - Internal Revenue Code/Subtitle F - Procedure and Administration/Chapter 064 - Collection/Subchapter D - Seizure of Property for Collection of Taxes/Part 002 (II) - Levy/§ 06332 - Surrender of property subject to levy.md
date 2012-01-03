@@ -8,7 +8,7 @@ Except as otherwise provided in this section, any person in possession of (or ob
 
 #### (1) In general
 
-&emsp;A levy on an organization with respect to a life insurance or endowment contract issued by such organization shall, without necessity for the surrender of the contract document, constitute a demand by the Secretary for payment of the amount described in paragraph (2) and the exercise of the right of the person against whom the tax is assessed to the advance of such amount. Such organization shall pay over such amount 90 days after service ofnotice of levy. Such notice shall include a certification by the Secretary that a copy of such notice has been mailed to the person against whom the tax is assessed at his last known address.
+&emsp;A levy on an organization with respect to a life insurance or endowment contract issued by such organization shall, without necessity for the surrender of the contract document, constitute a demand by the Secretary for payment of the amount described in paragraph (2) and the exercise of the right of the person against whom the tax is assessed to the advance of such amount. Such organization shall pay over such amount 90 days after service of notice of levy. Such notice shall include a certification by the Secretary that a copy of such notice has been mailed to the person against whom the tax is assessed at his last known address.
 
 #### (2) Satisfaction of levy
 

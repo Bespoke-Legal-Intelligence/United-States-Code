@@ -36,7 +36,7 @@ During any period in which there is in effect an agreement entered into pursuant
 
 #### (1) In general
 
-&emsp;Subsection (a) shall not apply to wages paid by a qualified employer with respect to employment during the period beginning on the day after the date of the enactment of this subsection and ending on December 31, 2010, of any qualified individual for services performed—
+&emsp;Subsection (a) shall not apply to wages paid by a qualified employer with respect to employment during the period beginning on the day after the date of the enactment of this subsection and ending on December 31, 2010, ofany qualified individual for services performed—
 
 &emsp;&emsp;(A) in a trade or business of such qualified employer, or
 
@@ -80,7 +80,39 @@ During any period in which there is in effect an agreement entered into pursuant
 
 &emsp;&emsp;The amount by which the tax imposed under subsection (a) would (but for subparagraph (A)) have been reduced with respect to wages paid by a qualified employer during the first calendar quarter of 2010 shall be treated as a payment against the tax imposed under subsection (a) with respect to the qualified employer for the second calendar quarter of 2010 which is made on the date that such tax is due.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 416; Sept. 1, 1954, ch. 1206, title II, §208(c), 68 Stat. 1094; Aug. 1, 1956. ch. 836, title II, §202(c), 70 Stat. 845; Pub. L. 85–840, title IV, §401(c), Aug. 28, 1958, 72 Stat. 1042; Pub. L. 87–64, title II, §201(c), June 30, 1961, 75 Stat. 141; Pub. L. 89–97, title I, §111(c)(6), title III, §321(c), July 30, 1965, 79 Stat. 343, 396; Pub. L. 90–248, title I, §109(a)(3), (b)(3), Jan. 2, 1968, 81 Stat. 836, 837; Pub. L. 92–5, title II, §204(a)(2), Mar. 17, 1971, 85 Stat. 11; Pub. L. 92–336, title II, §204(a)(3), (b)(3), July 1, 1972, 86 Stat. 421, 422; Pub. L. 92–603, title I, §135(a)(3), (b)(3), Oct. 30, 1972, 86 Stat. 1363, 1364; Pub. L. 93–233, §6(a)(2), (b)(3), Dec. 31, 1973, 87 Stat. 954, 955; Pub. L. 94–455, title XIX, §1903(a)(1), Oct. 4, 1976, 90 Stat. 1806; Pub. L. 95–216, title I, §101(a)(2), (b)(2), title III, §§315(b), 317(b)(2), Dec. 20, 1977, 91 Stat. 1511, 1512, 1537, 1540; Pub. L. 98–21, title I, §123(a)(2), Apr. 20, 1983, 97 Stat. 88; Pub. L. 100–203, title IX, §9006(b)(1), Dec. 22, 1987, 101 Stat. 1330–289; Pub. L. 100–647, title VIII, §8016(a)(5), Nov. 10, 1988, 102 Stat. 3793; Pub. L. 108–203, title IV, §415, Mar. 2, 2004, 118 Stat. 530; Pub. L. 111–147, title I, §101(a), Mar. 18, 2010, 124 Stat. 72.)
+#### (e) Credit for employment of qualified veterans
+
+#### (1) In general
+
+&emsp;If a qualified tax-exempt organization hires a qualified veteran with respect to whom a credit would be allowable under section 38 by reason of section 51 if the organization were not a qualified tax-exempt organization, then there shall be allowed as a credit against the tax imposed by subsection (a) on wages paid with respect to employment of all employees of the organization during the applicable period an amount equal to the credit determined under section 51 (after application of the modifications under paragraph (3)) with respect to wages paid to such qualified veteran during such period.
+
+#### (2) Overall limitation
+
+&emsp;The aggregate amount allowed as a credit under this subsection for all qualified veterans for any period with respect to which tax is imposed under subsection (a) shall not exceed the amount of the tax imposed by subsection (a) on wages paid with respect to employment of all employees of the organization during such period.
+
+#### (3) Modifications
+
+&emsp;For purposes of paragraph (1), section 51 shall be applied—
+
+&emsp;&emsp;(A) by substituting “26 percent” for “40 percent” in subsection (a) thereof,
+
+&emsp;&emsp;(B) by substituting “16.25 percent” for “25 percent” in subsection (i)(3)(A) thereof, and
+
+&emsp;&emsp;(C) by only taking into account wages paid to a qualified veteran for services in furtherance of the activities related to the purpose or function constituting the basis of the organization's exemption under section 501.
+
+#### (4) Applicable period
+
+&emsp;The term “applicable period” means, with respect to any qualified veteran, the 1-year period beginning with the day such qualified veteran begins work for the organization.
+
+#### (5) Definitions
+
+&emsp;For purposes of this subsection—
+
+&emsp;&emsp;(A) the term “qualified tax-exempt organization” means an employer that is an organization described in section 501(c) and exempt from taxation under section 501(a), and
+
+&emsp;&emsp;(B) the term “qualified veteran” has meaning <sup>1</sup> given such term by section 51(d)(3).
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 416; Sept. 1, 1954, ch. 1206, title II, §208(c), 68 Stat. 1094; Aug. 1, 1956. ch. 836, title II, §202(c), 70 Stat. 845; Pub. L. 85–840, title IV, §401(c), Aug. 28, 1958, 72 Stat. 1042; Pub. L. 87–64, title II, §201(c), June 30, 1961, 75 Stat. 141; Pub. L. 89–97, title I, §111(c)(6), title III, §321(c), July 30, 1965, 79 Stat. 343, 396; Pub. L. 90–248, title I, §109(a)(3), (b)(3), Jan. 2, 1968, 81 Stat. 836, 837; Pub. L. 92–5, title II, §204(a)(2), Mar. 17, 1971, 85 Stat. 11; Pub. L. 92–336, title II, §204(a)(3), (b)(3), July 1, 1972, 86 Stat. 421, 422; Pub. L. 92–603, title I, §135(a)(3), (b)(3), Oct. 30,1972, 86 Stat. 1363, 1364; Pub. L. 93–233, §6(a)(2), (b)(3), Dec. 31, 1973, 87 Stat. 954, 955; Pub. L. 94–455, title XIX, §1903(a)(1), Oct. 4, 1976, 90 Stat. 1806; Pub. L. 95–216, title I, §101(a)(2), (b)(2), title III, §§315(b), 317(b)(2), Dec. 20, 1977, 91 Stat. 1511, 1512, 1537, 1540; Pub. L. 98–21, title I, §123(a)(2), Apr. 20, 1983, 97 Stat. 88; Pub. L. 100–203, title IX, §9006(b)(1), Dec. 22, 1987, 101 Stat. 1330–289; Pub. L. 100–647, title VIII, §8016(a)(5), Nov. 10, 1988, 102 Stat. 3793; Pub. L. 108–203, title IV, §415, Mar. 2, 2004, 118 Stat. 530; Pub. L. 111–147, title I, §101(a), Mar. 18, 2010, 124 Stat. 72; Pub. L. 112–56, title II, §261(e)(2), Nov. 21, 2011, 125 Stat. 730.)
 
 #### References in Text
 
@@ -91,6 +123,8 @@ The date of the enactment of this subsection, referred to in subsec. (d)(1), is 
 Section 101(b) of the Higher Education Act of 1965, referred to in subsec. (d)(2)(B), is classified to section 1001(b) of Title 20, Education.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (e). Pub. L. 112–56 added subsec. (e).
 
 <b>2010</b>—Subsec. (d). Pub. L. 111–147 added subsec. (d).
 
@@ -160,13 +194,17 @@ Subsecs. (b)(1) to (5). Pub. L. 90–248, §109(b)(3), struck out par. (1) provi
 
 Subsec. (b). Pub. L. 89–97, §111(c)(6), struck out “, but without regard to the provisions of paragraph (9) thereof insofar as it relates to employees” after “as defined in section 3121(b)”.
 
-<b>1961</b>—Pub. L. 87–64 increased rate of tax for calendar year 1962 from 3 to 31/8 percent, calendar years 1963 to 1965, inclusive, from 31/2 to 35/8 percent, calendar years 1966 and 1967 from 4 to 41/8 percent, calendar year 1968 from 4 to 45/8 percent, and for calendar years after December 31, 1968, from 41/2 to 45/8 percent.
+<b>1961</b>—Pub. L. 87–64 increased rate of tax for calendar year 1962 from 3 to 31/8 percent, calendar years 1963 to 1965, inclusive, from 3½ to 35/8 percent, calendar years 1966 and 1967 from 4 to 41/8 percent, calendar year 1968 from 4 to 45/8 percent, and for calendar years after December 31, 1968, from 4½ to 45/8 percent.
 
-<b>1958</b>—Pub. L. 85–840 increased rate of tax by substituting provisions imposing a tax of 21/2 percent for calendar year 1959, 3 percent for calendar years 1960–62, 31/2 percent for calendar years 1963–65, 4 percent for calendar years 1966–68, and 41/2 percent for calendar years beginning after Dec. 31, 1968, for provisions which imposed a tax of 21/4 percent for calendar years 1957–59, 23/4 percent for calendar years 1960–64, 31/4 percent for calendar years 1965–69, 33/4 percent for calendar years 1970–74, and 41/4 percent for calendar years beginning after Dec. 31, 1974.
+<b>1958</b>—Pub. L. 85–840 increased rate of tax by substituting provisions imposing a tax of 2½ percent for calendar year 1959, 3 percent for calendar years 1960–62, 3½ percent for calendar years 1963–65, 4 percent for calendar years 1966–68, and 4½ percent for calendar years beginning after Dec. 31, 1968, for provisions which imposed a tax of 2¼ percent for calendar years 1957–59, 2¾ percent for calendar years 1960–64, 3¼ percent for calendar years 1965–69, 3¾ percent for calendar years 1970–74, and 4¼ percent for calendar years beginning after Dec. 31, 1974.
 
 <b>1956</b>—Act Aug. 1, 1956, increased rate of tax with respect to wages paid during calendar years 1957 to 1959, and for all calendar years thereafter, by one-quarter percent.
 
-<b>1954</b>—Act Sept. 1, 1954, increased 31/4 percent rate of tax for calendar year 1970 and subsequent years to 31/2 percent for calendar years 1970 to 1974 and 4 percent for 1975 and subsequent years.
+<b>1954</b>—Act Sept. 1, 1954, increased 3¼ percent rate of tax for calendar year 1970 and subsequent years to 3½ percent for calendar years 1970 to 1974 and 4 percent for 1975 and subsequent years.
+
+#### Effective Date of 2011 Amendment
+
+Amendment by Pub. L. 112–56 applicable to individuals who begin work for the employer after Nov. 21, 2011, see section 261(g) of Pub. L. 112–56, set out as a note under section 51 of this title.
 
 #### Effective Date of 2010 Amendment
 
@@ -196,7 +234,7 @@ Section 315(c) of Pub. L. 95–216 provided that: “The amendments made by this
 
 #### Effective Date of 1976 Amendment
 
-Amendment by Pub. L. 94–455 applicable with respect to wages paid after Dec. 31, 1976, see section 1903(d) of Pub. L. 94–455, set out as a note under section 3101 of this title.
+Amendment by Pub. L. 94–455 applicable with respect to wages paid after Dec. 31, 1976, see section 1903(d) ofPub. L. 94–455, set out as a note under section 3101 of this title.
 
 #### Effective Date of 1973 Amendment
 
@@ -237,4 +275,6 @@ Amendment by act Aug. 1, 1956, applicable with respect to remuneration paid afte
 #### Penalties and Interest Not Assessed for Failure To Make Timely Payment During Period January 1, 1982, to June 30, 1982, of Taxes Attributable to Amendments by Pub. L. 97–123
 
 For provision that no penalties or interest shall be assessed on account of any failure to make timely payment of taxes imposed by this section with respect to payments made for the period Jan. 1, 1982, and ending June 30, 1982, to the extent that such taxes are attributable to section 3 of Pub. L. 97–123 or the amendments made by that section, see section 3(f) of Pub. L. 97–123, set out as a note under section 3101 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by “the”.</i>
 

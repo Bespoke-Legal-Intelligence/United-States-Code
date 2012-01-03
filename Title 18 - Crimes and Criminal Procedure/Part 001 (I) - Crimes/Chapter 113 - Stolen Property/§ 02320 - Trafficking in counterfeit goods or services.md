@@ -2,31 +2,59 @@
 
 (a)
 
-Offense.—
+Offenses.—Whoever intentionally—
 
-&emsp;(1)
+&emsp;(1) traffics in goods or services and knowingly uses a counterfeit mark on or in connection with such goods or services,
 
-In general.—Whoever; <sup>1</sup> intentionally traffics or attempts to traffic in goods or services and knowingly uses a counterfeit mark on or in connection with such goods or services, or intentionally traffics or attempts to traffic in labels, patches, stickers, wrappers, badges, emblems, medallions, charms, boxes, containers, cans, cases, hangtags, documentation, or packaging of any type or nature, knowing that a counterfeit mark has been applied thereto, the use of which is likely to cause confusion, to cause mistake, or to deceive, shall, if an individual, be fined not more than $2,000,000 or imprisoned not more than 10 years, or both, and, if a person other than an individual, be fined not more than $5,000,000. In the case of an offense by a person under this section that occurs after that person is convicted of another offense under this section, the person convicted, if an individual, shall be fined not more than $5,000,000 or imprisoned not more than 20 years, or both, and if other than an individual, shall be fined not more than $15,000,000.
+&emsp;(2) traffics in labels, patches, stickers, wrappers, badges, emblems, medallions, charms, boxes, containers, cans, cases, hangtags, documentation, or packaging of any type or nature, knowing that a counterfeit mark has been applied thereto, the use of which is likely to cause confusion, to cause mistake, or to deceive, or
 
-&emsp;(2)
+&emsp;(3) traffics in goods or services knowing that such good or service is a counterfeit military good or service the use, malfunction, or failure of which is likely to cause serious bodily injury or death, the disclosure of classified information, impairment of combat operations, or other significant harm to a combat operation, a member of the Armed Forces, or to national security,
 
-Serious bodily harm or death.—
-
-&emsp;&emsp;(A)
-
-Serious bodily harm.—If the offender knowingly or recklessly causes or attempts to cause serious bodily injury from conduct in violation of paragraph (1), the penalty shall be a fine under this title or imprisonment for not more than 20 years, or both.
-
-&emsp;&emsp;(B)
-
-Death.—If the offender knowingly or recklessly causes or attempts to cause death from conduct in violation of paragraph (1), the penalty shall be a fine under this title orimprisonment for any term of years or for life, or both.
+> or attempts or conspires to violate any of paragraphs (1) through (3) shall be punished as provided in subsection (b).
 
 (b)
 
+Penalties.—
+
+&emsp;(1)
+
+In general.—Whoever commits an offense under subsection (a)—
+
+&emsp;&emsp;(A) if an individual, shall be fined not more than $2,000,000 or imprisoned not more than 10 years, or both, and, if a person other than an individual, shall be fined not more than $5,000,000; and
+
+&emsp;&emsp;(B) for a second or subsequent offense under subsection (a), if an individual, shall be fined not more than $5,000,000 or imprisoned not more than 20 years, or both, and if other than an individual, shall be fined not more than $15,000,000.
+
+&emsp;(2)
+
+Serious bodily injury or death.—
+
+&emsp;&emsp;(A)
+
+Serious bodily injury.—Whoever knowingly or recklessly causes or attempts to cause serious bodily injury from conduct in violation of subsection (a), if an individual, shall be fined not more than $5,000,000 or imprisoned for not more than 20 years, or both, and if other than an individual, shall be fined not more than $15,000,000.
+
+&emsp;&emsp;(B)
+
+Death.—Whoever knowingly or recklessly causes or attempts to cause death from conduct in violation of subsection (a), if an individual, shall be fined not more than $5,000,000 or imprisoned for any term of years or for life, or both, and if other than an individual, shall be fined not more than $15,000,000.
+
+&emsp;(3)
+
+Counterfeit military goods or services.—Whoever commits an offense under subsection (a) involving a counterfeit military good or service—
+
+&emsp;&emsp;(A) if an individual, shall be fined not more than $5,000,000, imprisoned not more than 20 years, or both, and if other than an individual, be fined not more than $15,000,000; and
+
+&emsp;&emsp;(B) for a second or subsequent offense, if an individual, shall be fined not more than $15,000,000, imprisoned not more than 30 years, or both, and if other than an individual, shall be fined not more than $30,000,000.
+
+(c)
+
 Forfeiture and Destruction of Property; Restitution.—Forfeiture, destruction, and restitution relating to this section shall be subject to section 2323, to the extent provided in that section, in addition to any other similar remedies provided by law.
 
-(c) All defenses, affirmative defenses, and limitations on remedies that would be applicable in an action under the Lanham Act shall be applicable in a prosecution under this section. In a prosecution under this section, the defendant shall have the burden of proof, by a preponderance of the evidence, of any such affirmative defense.
+(d)
 
-(d)(1) During preparation of the presentence report pursuant to Rule 32(c) of the Federal Rules of Criminal Procedure, victims of the offense shall be permitted to submit, and the probation officer shall receive, a victim impact statement that identifies the victim of the offense and the extent and scope of the injury and loss suffered by the victim, including the estimated economic impact of the offense on that victim.
+Defenses.—All defenses, affirmative defenses, and limitations on remedies that would be applicable in an action under the Lanham Act shall be applicable in a prosecution under this section. In a prosecution under this section, the defendant shall have the burden of proof, by a preponderance of the evidence, of any such affirmative defense.
+
+(e)
+
+Presentence Report.—(1) During preparation of the presentence report pursuant to Rule 32(c) of the Federal Rules of Criminal Procedure, victims of the offense shall be permitted to submit, and the probation officer shall receive, a victim impact statement that identifies the victim of the offense and the extent and scope of the injury and loss suffered by the victim, including the estimated economic impact of the offense on that victim.
 
 (2) Persons permitted to submit victim impact statements shall include—
 
@@ -36,7 +64,9 @@ Forfeiture and Destruction of Property; Restitution.—Forfeiture, destruction, 
 
 &emsp;(C) the legal representatives of such producers, sellers, and holders.
 
-(e) For the purposes of this section—
+(f)
+
+Definitions.—For the purposes of this section—
 
 &emsp;(1) the term “counterfeit mark” means—
 
@@ -46,23 +76,33 @@ Forfeiture and Destruction of Property; Restitution.—Forfeiture, destruction, 
 
 &emsp;&emsp;&emsp;(ii) that is identical with, or substantially indistinguishable from, a mark registered on the principal register in the United States Patent and Trademark Office and in use, whether or not the defendant knew such mark was so registered;
 
-&emsp;&emsp;&emsp;(iii) that is applied to or used in connection with the goods or services for which the mark is registered with the United States Patent and Trademark Office, or is applied to or consists of a label, patch, sticker, wrapper, badge, emblem, medallion, charm, box, container, can, case, hangtag, documentation, or packaging of any type or nature that is designed, marketed, or otherwise intended to be used on or in connection with the goods or services for which the mark is registered in the United States Patent and Trademark Office; and
+&emsp;&emsp;&emsp;(iii) that is applied to or used in connection with the goods or services for which the mark is registered with the United States Patent and Trademark Office, or is applied to or consists of a label, patch, sticker, wrapper, badge, emblem, medallion, charm, box, container, can, case, hangtag, documentation, or packaging of any type or nature that is designed, marketed, or otherwise intended to be used on or in connection with the goods or servicesfor which the mark is registered in the United States Patent and Trademark Office; and
 
 &emsp;&emsp;&emsp;(iv) the use of which is likely to cause confusion, to cause mistake, or to deceive; or
 
 &emsp;&emsp;(B) a spurious designation that is identical with, or substantially indistinguishable from, a designation as to which the remedies of the Lanham Act are made available by reason of section 220506 of title 36;
 
-> &emsp;but such term does not include any mark or designation used in connection with goods or services, or a mark or designation applied to labels, patches, stickers, wrappers, badges, emblems, medallions, charms, boxes, containers, cans, cases, hangtags, documentation, or packaging of any type or nature used in connection with such goods or services, of which the manufacturer or producer was, at the time of the manufacture or production in question, authorized to use the mark or designation for the type of goods or services so manufactured or produced, by the holder of the right to use such mark or designation.<sup>2</sup>
+> &emsp;but such term does not include any mark or designation used in connection with goods or services, or a mark or designation applied to labels, patches, stickers, wrappers, badges, emblems, medallions, charms, boxes, containers, cans, cases, hangtags, documentation, or packaging of any type or nature used in connection with such goods or services, of which the manufacturer or producer was, at the time of the manufacture or production in question, authorized to use the mark or designation for the type of goods or services so manufactured or produced, by the holder of the right to use such mark or designation;
 
-&emsp;(2) the term “traffic” means to transport, transfer, or otherwise dispose of, to another, for purposes of commercial advantage or private financial gain, or to make, import, export, obtain control of, or possess, with intent to so transport, transfer, or otherwise dispose of;
+&emsp;(2) the term “financial gain” includes the receipt, or expected receipt, of anything of value;
 
-&emsp;(3) the term “financial gain” includes the receipt, or expected receipt, of anything of value; and
+&emsp;(3) the term “Lanham Act” means the Act entitled “An Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes”, approved July 5, 1946 (15 U.S.C. 1051 et seq.);
 
-&emsp;(4) the term “Lanham Act” means the Act entitled “An Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes”, approved July 5, 1946 (15 U.S.C. 1051 et seq.).
+&emsp;(4) the term “counterfeit military good or service” means a good or service that uses a counterfeit mark on or in connection with such good or service and that—
 
-(f) Nothing in this section shall entitle the United States to bring a criminal cause of action under this section for the repackaging of genuine goods or services not intended to deceive or confuse.
+&emsp;&emsp;(A) is falsely identified or labeled as meeting military specifications, or
 
-(g)(1) Beginning with the first year after the date of enactment of this subsection, the Attorney General shall include in the report of the Attorney General to Congress on the business of the Department of Justice prepared pursuant to section 522 of title 28, an accounting, on a district by district basis, of the following with respect to all actions taken by the Department of Justice that involve trafficking in counterfeit labels for phonorecords, copies of computer programs or computer program documentation or packaging, copies of motion pictures or other audiovisual works (as defined in section 2318 of this title), criminal infringement of copyrights (as defined in section 2319 of this title), unauthorized fixation of and trafficking in sound recordings and music videos of live musical performances (as defined in section 2319A of this title), or trafficking in goods or services bearing counterfeit marks (as defined in section 2320 of this title):
+&emsp;&emsp;(B) is intended for use in a military or national security application; and
+
+&emsp;(5) the term “traffic” means to transport, transfer, or otherwise dispose of, to another, for purposes of commercial advantage or private financial gain, or to make, import, export, obtain control of, or possess, with intent to so transport, transfer, or otherwise dispose of.
+
+(g)
+
+Limitation on Cause of Action.—Nothing in this section shall entitle the United States to bring a criminal cause of action under this section for the repackaging of genuine goods or services not intended to deceive or confuse.
+
+(h)
+
+Report to Congress.—(1) Beginning with the first year after the date of enactment of this subsection, the Attorney General shall include in the report of the Attorney General to Congress on the business of the Department of Justice prepared pursuant to section 522 of title 28, an accounting, on a district by district basis, of the following with respect to all actions taken by the Department of Justice that involve trafficking in counterfeit labels for phonorecords, copies of computer programs or computer program documentation or packaging, copies of motion pictures or other audiovisual works (as defined in section 2318 of this title), criminal infringement of copyrights (as defined in section 2319 of this title), unauthorized fixation of and trafficking in sound recordings and music videos of live musical performances (as defined in section 2319A of this title), or trafficking in goods or services bearing counterfeit marks (as defined in section 2320 of this title):
 
 &emsp;(A) The number of open investigations.
 
@@ -70,7 +110,7 @@ Forfeiture and Destruction of Property; Restitution.—Forfeiture, destruction, 
 
 &emsp;(C) The number of cases referred by other agencies or sources.
 
-&emsp;(D) The number and outcome, including settlements, sentences, recoveries, and penalties, of all prosecutions brought under sections 2318, 2319, 2319A, and 2320 of this title.
+&emsp;(D) The number and outcome, including settlements, sentences, recoveries, and penalties, of all prosecutions brought under sections 2318, 2319, 2319A, and 2320 of title 18.
 
 (2)(A) The report under paragraph (1), with respect to criminal infringement of copyright, shall include the following:
 
@@ -90,25 +130,27 @@ Forfeiture and Destruction of Property; Restitution.—Forfeiture, destruction, 
 
 (C) The information required under subparagraph (A) shall be submitted in the report required in fiscal year 2005 and thereafter.
 
-(h)
+(i)
 
 Transshipment and Exportation.—No goods or services, the trafficking in of which is prohibited by this section, shall be transshipped through or exported from the United States. Any such transshipment or exportation shall be deemed a violation of section 42 of an Act to provide for the registration of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes, approved July 5, 1946 (commonly referred to as the “Trademark Act of 1946” or the “Lanham Act”).
 
-(Added Pub. L. 98–473, title II, §1502(a), Oct. 12, 1984, 98 Stat. 2178; amended Pub. L. 103–322, title XXXII, §320104(a), title XXXIII, §330016(1)(U), Sept. 13, 1994, 108 Stat. 2110, 2148; Pub. L. 104–153, §5, July 2, 1996, 110 Stat. 1387; Pub. L. 105–147, §2(f), Dec. 16, 1997, 111 Stat. 2679; Pub. L. 105–225, §4(b), Aug. 12, 1998, 112 Stat. 1499; Pub. L. 105–354, §2(c)(1), Nov. 3, 1998, 112 Stat. 3244; Pub. L. 107–140, §1, Feb. 8, 2002, 116 Stat. 12; Pub. L. 107–273, div. A, title II, §205(e), Nov. 2, 2002, 116 Stat. 1778; Pub. L. 109–181, §§1(b), 2(b), Mar. 16, 2006, 120 Stat. 285, 288; Pub. L. 110–403, title II, §205, Oct. 13, 2008, 122 Stat. 4261.)
+(Added Pub. L. 98–473, title II, §1502(a), Oct. 12, 1984, 98 Stat. 2178; amended Pub. L. 103–322, title XXXII, §320104(a), title XXXIII, §330016(1)(U), Sept. 13, 1994, 108 Stat. 2110, 2148; Pub. L. 104–153, §5, July 2, 1996, 110 Stat. 1387; Pub. L. 105–147, §2(f), Dec. 16, 1997, 111 Stat. 2679; Pub. L. 105–225, §4(b), Aug. 12, 1998, 112 Stat. 1499; Pub. L. 105–354, §2(c)(1), Nov. 3, 1998, 112 Stat. 3244; Pub. L. 107–140, §1, Feb. 8, 2002, 116 Stat. 12; Pub. L. 107–273, div. A, title II, §205(e), Nov. 2, 2002, 116 Stat. 1778; Pub. L. 109–181, §§1(b), 2(b), Mar. 16, 2006, 120 Stat. 285, 288; Pub. L. 110–403, title II,§205, Oct. 13, 2008, 122 Stat. 4261; Pub. L. 112–81, div. A, title VIII, §818(h), Dec. 31, 2011, 125 Stat. 1497.)
 
 #### References in Text
 
-The Lanham Act, referred to in subsecs. (c), (e)(1)(B), (4), and (h), also known as the Trademark Act of 1946, is act July 5, 1946, ch. 540, 60 Stat. 427, which is classified generally to chapter 22 (§1051 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1051 of Title 15 and Tables.
+The Lanham Act, referred to in subsecs. (d), (f)(1)(B), (3), and (i), also known as the Trademark Act of 1946, is act July 5, 1946, ch. 540, 60 Stat. 427, which is classified generally to chapter 22 (§1051 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1051 of Title 15 and Tables.
 
-The Federal Rules of Criminal Procedure, referred to in subsec. (d)(1), are set out in the Appendix to this title.
+The Federal Rules of Criminal Procedure, referred to in subsec. (e)(1), are set out in the Appendix to this title.
 
-The date of enactment of this subsection, referred to in subsec. (g)(1), is date of enactment of Pub. L. 104–153, which was approved July 2, 1996.
+The date of enactment of this subsection, referred to in subsec. (h)(1), is the date of enactment of Pub. L. 112–81, which was approved Dec. 31, 2011.
 
 #### Codification
 
 Another section 2320 was renumbered section 2321 of this title.
 
 #### Amendments
+
+<b>2011</b>—Pub. L. 112–81 amended section generally, adding provisions relating to counterfeit military goods and services.
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–403, §205(a)(1), inserted subsec. heading, designated existing provisions as par. (1) and inserted par. heading, substituted “Whoever;” for “Whoever”, realigned margin, and added par. (2).
 
@@ -146,7 +188,7 @@ Subsec. (e)(2). Pub. L. 105–225, §4(b)(2), as amended by Pub. L. 105–354, �
 
 Subsec. (e)(3). Pub. L. 105–225, §4(b)(3), as amended by Pub. L. 105–354, §2(c)(1), substituted a period for “; and” at end.
 
-Subsec. (e)(4). Pub. L. 105–225, §4(b)(4), as amended by Pub. L. 105–354, §2(c)(1), struck out par. (4) which readas follows: “the term ‘Olympic Charter Act’ means the Act entitled ‘An Act to incorporate the United States Olympic Association’, approved September 21, 1950 (36 U.S.C. 371 et seq.).”
+Subsec. (e)(4). Pub. L. 105–225, §4(b)(4), as amended by Pub. L. 105–354, §2(c)(1), struck out par. (4) which read as follows: “the term ‘Olympic Charter Act’ means the Act entitled ‘An Act to incorporate the United States Olympic Association’, approved September 21, 1950 (36 U.S.C. 371 et seq.).”
 
 <b>1997</b>—Subsecs. (d) to (f). Pub. L. 105–147 added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
 
@@ -181,8 +223,4 @@ Pub. L. 109–181, §1(a)(2), Mar. 16, 2006, 120 Stat. 285, provided that: “Th
 &emsp;“(F) ongoing counterfeiting of manufactured goods poses a widespread threat to public health and safety; and
 
 &emsp;“(G) strong domestic criminal remedies against counterfeiting will permit the United States to seek stronger anticounterfeiting provisions in bilateral and international agreements with trading partners.”
-
-<i><sup>1</sup></i><i> So in original. The semicolon probably should not appear.</i>
-
-<i><sup>2</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

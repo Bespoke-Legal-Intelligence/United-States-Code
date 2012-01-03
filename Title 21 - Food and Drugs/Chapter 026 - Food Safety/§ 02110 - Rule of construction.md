@@ -18,5 +18,5 @@ The Dietary Supplement and Nonprescription Drug Consumer Protection Act, referre
 
 #### Construction
 
-Pub. L. 110–85, title X, §1005(g), Sept. 27, 2007, 121 Stat. 969, provided that: “Nothing in this title \[enacting this chapter and section 350f of this title, amending sections 321 and 331 of this title, and enacting provisions set out as notes under section 350f of this title\], or an amendment made by this title, shall be construed to alter the jurisdiction between the Secretaries of Agriculture and of Health and Human Services, under applicable statutes and regulations.”
+Pub. L. 110–85, title X, §1005(g), Sept. 27, 2007, 121 Stat. 969, provided that: “Nothing in this title \[enacting this chapter and section 350f of this title, amendingsections 321 and 331 of this title, and enacting provisions set out as notes under section 350f of this title\], or an amendment made by this title, shall be construed to alter the jurisdiction between the Secretaries of Agriculture and of Health and Human Services, under applicable statutes and regulations.”
 

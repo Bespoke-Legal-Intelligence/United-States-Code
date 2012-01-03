@@ -64,7 +64,7 @@ Section 905 of Pub. L. 102–375 provided that:
 
 “(a)
 
-In General.—Except as provided in section 811(b) \[42 U.S.C. 1766 note\], any other provision of this Act \[see Tables for classification\] (other than this section), and in subsection (b) of this section, this Act and the amendments made by this Act shall take effect on the date of the enactment of this Act \[Sept. 30, 1992\].
+In General.—Except as provided in section 811(b) \[42 U.S.C. 1766 note\], any other provision of this Act \[see Tables for classification\] (other than this section), and in subsection (b) of this section, this Act and theamendments made by this Act shall take effect on the date of the enactment of this Act \[Sept. 30, 1992\].
 
 “(b)
 
@@ -618,7 +618,7 @@ Presidential appointees.—Nine members shall be selected by the President and s
 
 &emsp;&emsp;“(B)
 
-House appointees.—Two members shall be selected by the Speaker of the House of Representatives, after consultation with the Committee on Education and the Workforce \[now Committee on Education and Labor\] and the Committee on Ways and Means of the House of Representatives, and two members shall be selected by the Minority Leader of the House of Representatives, after consultation with such committees.
+House appointees.—Two members shall be selected by the Speaker of the House of Representatives, after consultation with the Committee on Education and the Workforce and the Committee on Ways and Means of the House of Representatives, and two members shall be selected by the Minority Leader of the House of Representatives, after consultation with such committees.
 
 &emsp;&emsp;“(C)
 
@@ -706,7 +706,7 @@ Authorization.—
 
 In general.—There are authorized to be appropriated to carry out this section \[title\]—
 
-&emsp;&emsp;“(A) such sums as may be necessary for the first fiscal year in which the Policy Committee plansthe Conference and for the following fiscal year; and
+&emsp;&emsp;“(A) such sums as may be necessary for the first fiscal year in which the Policy Committee plans the Conference and for the following fiscal year; and
 
 &emsp;&emsp;“(B) such sums as may be necessary for the fiscal year in which the Conference is held.
 
@@ -730,7 +730,7 @@ Unobligated funds.—Except as provided in paragraph (3), any such funds neither
 
 Conference not convened.—If the Conference is not convened before December 31, 2005, such funds neither expended nor obligated before such date shall be available to carry out the Older Americans Act of 1965.”
 
-\[Except as otherwise provided, reference to maximum rate under section 5376 of Title 5, Government Organization and Employees, before first day of first pay period beginning on or after 180th day after Oct. 8, 2008, considered reference to basic pay rate for level IV of Executive Schedule (5 U.S.C. 5315) and reference to maximum rate on or after first day of first pay period beginning on or after 180th day after Oct. 8, 2008, considered reference to basic pay rate for level III of Executive Schedule (5 U.S.C. 5314), or for level II of the Executive Schedule (5 U.S.C. 5313) for certain employees, see section 2(d)(3) of Pub. L. 110–372, set out as an Effective Date of 2008 Amendment note under section 5376 of Title 5.\]
+\[For reference to maximum rate under section 5376 of Title 5, Government Organization and Employees, see section 2(d)(3) of Pub. L. 110–372, set out as an EffectiveDate of 2008 Amendment note under section 5376 of Title 5.\]
 
 \[For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.\]
 

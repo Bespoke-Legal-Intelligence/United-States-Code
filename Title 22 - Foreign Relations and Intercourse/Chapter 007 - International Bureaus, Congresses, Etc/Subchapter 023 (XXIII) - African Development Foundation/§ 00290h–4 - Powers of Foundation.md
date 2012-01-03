@@ -34,7 +34,7 @@ The Foundation shall be a nonprofit corporation and shall have no capital stock.
 
 #### (c) Tax exemption
 
-The Foundation, including its franchise and income, shall be exempt from taxation now or hereafter imposed by the United States, by any territory or possession of the United States, orby any State, county, municipality, or local taxing authority.
+The Foundation, including its franchise and income, shall be exempt from taxation now or hereafter imposed by the United States, by any territory or possession of the United States, or by any State, county, municipality, or local taxing authority.
 
 #### (d) Termination of Foundation and liquidation of assets
 

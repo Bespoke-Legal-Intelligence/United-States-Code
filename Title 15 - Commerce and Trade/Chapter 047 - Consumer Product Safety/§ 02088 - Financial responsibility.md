@@ -12,7 +12,7 @@ The Commission, in consultation with U.S. Customs and Border Protection and othe
 
 &emsp;&emsp;(A) the posting of an escrow, proof of insurance, or security sufficient in amount to cover the cost of destruction of a domestically-produced product or substance regulated under this chapter or any other Act enforced by the Commission; and
 
-&emsp;&emsp;(B) the posting of an escrow, proof of insurance, or security sufficient in amount to cover the cost of an effective recall of a product or substance, domestic or imported, regulated under this chapter or any other Act enforced by the Commission.
+&emsp;&emsp;(B) the posting of an escrow, proof of insurance, or security sufficient in amount tocover the cost of an effective recall of a product or substance, domestic or imported, regulated under this chapter or any other Act enforced by the Commission.
 
 #### (2) Report
 

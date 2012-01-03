@@ -34,7 +34,7 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–132, §901(b)(1), inserted “or on, above, or below any portion of the territorial sea of the United States not within the jurisdiction of any State, Commonwealth, territory, possession, or district” after “section 7 of this title,”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–132, §901(b)(1), inserted “or on, above, or below any portion of the territorialsea of the United States not within the jurisdiction of any State, Commonwealth, territory, possession, or district” after “section 7 of this title,”.
 
 Subsec. (b)(2)(A). Pub. L. 104–294 substituted “under this title” for “of not more than $1,000”.
 

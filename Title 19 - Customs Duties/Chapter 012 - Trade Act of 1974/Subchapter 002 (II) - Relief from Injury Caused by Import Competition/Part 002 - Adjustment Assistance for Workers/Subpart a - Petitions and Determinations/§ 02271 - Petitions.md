@@ -22,25 +22,31 @@
 
 If the petitioner, or any other person found by the Secretary to have a substantial interest in the proceedings, submits not later than 10 days after the date of the Secretary's publication under subsection (a) of this section a request for a hearing, the Secretary shall provide for a public hearing and afford such interested persons an opportunity to be present, to produce evidence, and to be heard.
 
-(Pub. L. 93–618, title II, §221, Jan. 3, 1975, 88 Stat. 2019; Pub. L. 99–272, title XIII, §13002(a), Apr. 7, 1986, 100 Stat. 300; Pub. L. 103–182, title V, §503(a), Dec. 8, 1993, 107 Stat. 2151; Pub. L. 107–210, div. A, title I, §112(a), Aug. 6, 2002, 116 Stat. 937; Pub. L. 108–429, title II, §2004(a)(4), Dec. 3, 2004, 118 Stat. 2590; Pub. L. 111–5, div. B, title I, §1801(e)(1), Feb. 17, 2009, 123 Stat. 370.)
+(Pub. L. 93–618, title II, §221, Jan. 3, 1975, 88 Stat. 2019; Pub. L. 99–272, title XIII, §13002(a), Apr. 7, 1986, 100 Stat. 300; Pub. L. 103–182, title V, §503(a), Dec. 8, 1993, 107 Stat. 2151; Pub. L. 107–210, div. A, title I, §112(a), Aug. 6, 2002, 116 Stat. 937; Pub. L. 108–429, title II, §2004(a)(4), Dec. 3, 2004, 118 Stat. 2590; Pub. L. 111–5, div. B, title I, §1801(e)(1), Feb. 17, 2009, 123 Stat. 370; Pub. L. 112–40, title II, §201(b), (c), Oct. 21, 2011, 125 Stat. 403.)
 
-#### Amendment of Section
+#### Reversion to Provisions in Effect on February 13, 2011
 
-<i>For termination of amendment by section 1893 of Pub. L. 111–5, see Effective and Termination Dates of 2009 Amendment note below.</i>
+<i>For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to section 233(b) of Pub. L. 112–40, see Codification and Effective and Termination Dates of 2011 Revival notes below.</i>
 
 #### References in Text
 
 The Workforce Investment Act of 1998, referred to in subsec. (a)(1)(C), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
+#### Codification
+
+Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination of amendment by Pub. L. 111–5, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, and the provisions of this section, as amended by Pub. L. 111–5 and as in effect on Feb. 12, 2011, were temporarily revived, effective Oct. 21, 2011, until Jan. 1, 2014, by Pub. L. 112–40, §§201(b), (c), 233. See 2009 and 2011 Amendment notes, Effective and Termination Dates of 2009 Amendment notes, and Effective and Termination Dates of 2011 Revival note below.
+
 #### Amendments
 
-<b>2009</b>—Subsec. (a)(1). Pub. L. 111–5, §§1801(e)(1)(A)(i), 1893, temporarily substituted “Secretary of Labor” for “Secretary” and “(as defined in section 2319 of this title)” for “or subdivision” in introductory provisions. See Effective and Termination Dates of 2009 Amendment note below.
+<b>2011</b>—Pub. L. 112–40, §§201(b), (c), 233, temporarily revived the provisions of this section, as in effect on Feb. 12, 2011. See Codification note above and 2009 Amendment and Effective and Termination Dates of 2011 Revival notes below.
 
-Subsec. (a)(1)(A). Pub. L. 111–5, §§1801(e)(1)(A)(ii), 1893, temporarily struck out “(including workers in an agricultural firm or subdivision of any agricultural firm)” after “group of workers”. See Effective and Termination Dates of 2009 Amendment note below.
+<b>2009</b>—Subsec. (a)(1). Pub. L. 111–5, §§1801(e)(1)(A)(i), 1893, temporarily substituted “Secretary of Labor” for “Secretary” and “(as defined in section 2319 of this title)” for “or subdivision” in introductory provisions. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (a)(2)(A). Pub. L. 111–5, §§1801(e)(1)(B), 1893, temporarily substituted “rapid response activities” for “rapid response assistance”. See Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (a)(1)(A). Pub. L. 111–5, §§1801(e)(1)(A)(ii), 1893, temporarily struck out “(including workers in an agricultural firm or subdivision of any agricultural firm)” after “group of workers”. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (a)(3). Pub. L. 111–5, §§1801(e)(1)(C), 1893, temporarily inserted “and on the website of the Department of Labor” after “Federal Register”. See Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (a)(2)(A). Pub. L. 111–5, §§1801(e)(1)(B), 1893, temporarily substituted “rapid response activities” for “rapid response assistance”. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+
+Subsec. (a)(3). Pub. L. 111–5, §§1801(e)(1)(C), 1893, temporarily inserted “and on the website of the Department of Labor” after “Federal Register”. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
 <b>2004</b>—Subsec. (a)(2)(A). Pub. L. 108–429 substituted “assistance and appropriate” for “assistance, and appropriate”.
 
@@ -49,6 +55,10 @@ Subsec. (a)(3). Pub. L. 111–5, §§1801(e)(1)(C), 1893, temporarily inserted �
 <b>1993</b>—Subsec. (a). Pub. L. 103–182 substituted “assistance under this subpart” for “assistance under this part”.
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–272 inserted “(including workers in any agricultural firm or subdivision of an agricultural firm)” after “group of workers”.
+
+#### Effective and Termination Dates of 2011 Revival
+
+For temporary revival and applicability of provisions as in effect on Feb. 12, 2011, see sections 201(b), (c) and 233 of Pub. L. 112–40, set out as notes preceding this section. For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to section 233(b) of Pub. L. 112–40, see section 233 of Pub. L. 112–40, set out as a note preceding this section.
 
 #### Effective and Termination Dates of 2009 Amendment
 
@@ -88,7 +98,7 @@ Certifications Made Before Effective Date.—Notwithstanding subsection (a)—
 
 &emsp;&emsp;“(B) would otherwise be eligible to receive benefits under such chapter 3 as in effect on the day before such effective date.”
 
-Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and this section to be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding this section.
+Section 1893 of Pub. L. 111–5, which provided that, except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and that this section be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403. See Codification note above.
 
 #### Effective Date of 2002 Amendment
 
@@ -126,7 +136,119 @@ Reachback.—Notwithstanding paragraph (1), any worker—
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be providedunder this section after Feb. 12, 2011, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding this section.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after Dec. 31, 2013, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding this section.
+
+#### Applicability of Trade Adjustment Assistance Provisions
+
+Pub. L. 112–40, title II, §231, Oct. 21, 2011, 125 Stat. 413, provided that:
+
+“(a)
+
+Trade Adjustment Assistance for Workers.—
+
+&emsp;“(1)
+
+Petitions filed on or after february 13, 2011, and before date of enactment.—
+
+&emsp;&emsp;“(A)
+
+Certifications of workers not certified before date of enactment.—
+
+&emsp;&emsp;&emsp;“(i)
+
+Criteria if a determination has not been made.—If, as of the date of the enactment of this Act \[Oct. 21, 2011\], the Secretary of Labor has not made a determination with respect to whether to certify a group of workers as eligible to apply for adjustment assistance under section 222 of the Trade Act of 1974 \[19 U.S.C. 2272\] pursuant to a petition described in clause (iii), the Secretary shall make that determination based on the requirements of section 222 of the Trade Act of 1974, as in effect on such date of enactment.
+
+&emsp;&emsp;&emsp;“(ii)
+
+Reconsideration of denials of certifications.—If, before the date of the enactment of this Act, the Secretary made a determination not to certify a group of workers as eligible to apply for adjustment assistance under section 222 of the Trade Act of 1974 pursuant to a petition described in clause (iii), the Secretary shall—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) reconsider that determination; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) if the group of workers meets the requirements of section 222 of the Trade Act of 1974, as in effect on such date of enactment, certify the group of workers as eligible to apply for adjustment assistance.
+
+&emsp;&emsp;&emsp;“(iii)
+
+Petition described.—A petition described in this clause is a petition for a certification of eligibility for a group of workers filed under section 221 of the Trade Act of 1974 \[19 U.S.C. 2271\] on or after February 13, 2011, and before the date of the enactment of this Act.
+
+&emsp;&emsp;“(B)
+
+Eligibility for benefits.—
+
+&emsp;&emsp;&emsp;“(i)
+
+In general.—Except as provided in clause (ii), a worker certified as eligible to apply for adjustment assistance under section 222 of the Trade Act of 1974 \[19 U.S.C. 2272\] pursuant to a petition described in subparagraph (A)(iii) shall be eligible, on and after the date that is 60 days after the date of the enactment of this Act \[Oct. 21, 2011\], to receive benefits only under the provisions of chapter 2 of title II of the Trade Act of 1974 \[this part\], as in effect on such date of enactment.
+
+&emsp;&emsp;&emsp;“(ii)
+
+Election for workers receiving benefits on the 60th day after enactment.—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I)
+
+In general.—A worker certified as eligible to apply for adjustment assistance under section 222 of the Trade Act of 1974 \[19 U.S.C. 2272\] pursuant to a petition described in subparagraph (A)(iii) who is receiving benefits under chapter 2 of title II of the Trade Act of 1974 as of the date that is 60 days after the date of the enactment of this Act \[Oct. 21, 2011\] may, not later than the date that is 150 days after such date of enactment, make a one-time election to receive benefits pursuant to—
+
+&emsp;&emsp;&emsp;“(aa) the provisions of chapter 2 of title II of the Trade Act of 1974, as in effect on such date of enactment; or
+
+&emsp;&emsp;&emsp;“(bb) the provisions of chapter 2 of title II of the Trade Act of 1974, as in effect on February 13, 2011.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II)
+
+Effect of failure to make election.—A worker described in subclause (I) who does not make the election described in that subclause on or before the date that is 150 days after the date of the enactment of this Act shall be eligible to receive benefits only under the provisions of chapter 2 of title II of the Trade Act of 1974, as in effect on February 13, 2011.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III)
+
+Computation of maximum benefits.—Benefits received by a worker described in subclause (I) under chapter 2 of title II of the Trade Act of 1974, as in effect on February 13, 2011, before the worker makes the election described in that subclause shall be included in any determination of the maximum benefits for which the worker is eligible under the provisions of chapter 2 of title II of the Trade Act of 1974, as in effect on the date of the enactment of this Act \[Oct. 21, 2011\], or as in effect on February 13, 2011, whichever is applicable after the election of the worker under subclause (I).
+
+&emsp;“(2)
+
+Petitions filed before february 13, 2011.—A worker certified as eligible to apply for adjustment assistance pursuant to a petition filed under section 221 of the Trade Act of 1974 \[19 U.S.C. 2271\]—
+
+&emsp;&emsp;“(A) on or after May 18, 2009, and on or before February 12, 2011, shall continue to be eligible to apply for and receive benefits under the provisions of chapter 2 of title II of such Act \[this part\], as in effect on February 12, 2011; or
+
+&emsp;&emsp;“(B) before May 18, 2009, shall continue to be eligible to apply for and receive benefits under the provisions of chapter 2 of title II of such Act, as in effect on May 17, 2009.
+
+&emsp;“(3)
+
+Qualifying separations with respect to petitions filed within 90 days of date of enactment.—Section 223(b) of the Trade Act of 1974 \[19 U.S.C. 2273(b)\], as in effect on the date of the enactment of this Act \[Oct. 21, 2011\], shall be applied and administered by substituting ‘before February 13, 2010’ for ‘more than one year before the date of the petition on which such certification was granted’ for purposes of determining whether a worker is eligible to apply for adjustment assistance pursuant to a petition filed under section 221 of the Trade Act of 1974 \[19 U.S.C. 2271\] on or after the date of the enactment of this Act and on or before the date that is 90 days after such date of enactment.
+
+“(b)
+
+Trade Adjustment Assistance for Firms.—
+
+&emsp;“(1)
+
+Certification of firms not certified before date of enactment.—
+
+&emsp;&emsp;“(A)
+
+Criteria if a determination has not been made.—If, as of the date of the enactment of this Act \[Oct. 21, 2011\], the Secretary of Commerce has not made a determination with respect to whether to certify a firm as eligible to apply for adjustment assistance under section 251 of the Trade Act of 1974 \[19 U.S.C. 2341\] pursuant to a petition described in subparagraph (C), the Secretary shall make that determination based on the requirements of section 251 of the Trade Act of 1974, as in effect on such date of enactment.
+
+&emsp;&emsp;“(B)
+
+Reconsideration of denial of certain petitions.—If, before the date of the enactment of this Act, the Secretary made a determination not to certify a firm as eligible to apply for adjustment assistance under section 251 of the Trade Act of 1974 pursuant to a petition described in subparagraph (C), the Secretary shall—
+
+&emsp;&emsp;&emsp;“(i) reconsider that determination; and
+
+&emsp;&emsp;&emsp;“(ii) if the firm meets the requirements of section 251 of the Trade Act of 1974, as in effect on such date of enactment, certify the firm as eligible to apply for adjustment assistance.
+
+&emsp;&emsp;“(C)
+
+Petition described.—A petition described in this subparagraph is a petition for a certification of eligibility filed by a firm or its representative under section 251 of the Trade Act of 1974 \[19 U.S.C. 2341\] on or after February 13, 2011, and before the date of the enactment of this Act \[Oct. 21, 2011\].
+
+&emsp;“(2)
+
+Certification of firms that did not submit petitions between february 13, 2011, and date of enactment.—
+
+&emsp;&emsp;“(A)
+
+In general.—The Secretary of Commerce shall certify a firm described in subparagraph (B) as eligible to apply for adjustment assistance under section 251 of the Trade Act of 1974 \[19 U.S.C. 2341\], as in effect on the date of the enactment of this Act \[Oct. 21, 2011\], if the firm or its representative files a petition for a certification of eligibility under section 251 of the Trade Act of 1974 not later than 90 days after such date of enactment.
+
+&emsp;&emsp;“(B)
+
+Firm described.—A firm described in this subparagraph is a firm that the Secretary determines would have been certified as eligible to apply for adjustment assistance if—
+
+&emsp;&emsp;&emsp;“(i) the firm or its representative had filed a petition for a certification of eligibility under section 251 of the Trade Act of 1974 on a date during the period beginning on February 13, 2011, and ending on the day before the date of the enactment of this Act; and
+
+&emsp;&emsp;&emsp;“(ii) the provisions of chapter 3 of title II of the Trade Act of 1974 \[part 3 of this subchapter\], as in effect on such date of enactment, had been in effect on that date during the period described in clause (i).”
 
 #### Determination of Increases of Imports for Certain Fishermen
 

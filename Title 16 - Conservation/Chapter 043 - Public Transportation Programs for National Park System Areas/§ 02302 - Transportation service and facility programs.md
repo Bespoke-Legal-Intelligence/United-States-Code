@@ -8,7 +8,7 @@ The Secretary of the Interior (hereinafter referred to as “Secretary”) is au
 
 To carry out the purposes of subsection (a) of this section, the Secretary is authorized to—
 
-&emsp;(1) contract with public or private agencies or carriers to provide transportation services,capital equipment, or facilities to improve access to units of the national park system;
+&emsp;(1) contract with public or private agencies or carriers to provide transportation services, capital equipment, or facilities to improve access to units of the national park system;
 
 &emsp;(2) operate such services directly in the absence of suitable and adequate agencies or carriers;
 

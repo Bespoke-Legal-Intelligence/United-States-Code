@@ -38,7 +38,7 @@ The employee shall have the right to choose an attending physician authorized by
 
 &emsp;(A) the employer shall have refused or neglected a request to furnish such services and the employee has complied with subsections (b) and (c) of this section and the applicable regulations; or
 
-&emsp;(B) the nature of the injury required such treatment and services and the employer orhis superintendent or foreman having knowledge of such injury shall have neglected to provide or authorize same.
+&emsp;(B) the nature of the injury required such treatment and services and the employer or his superintendent or foreman having knowledge of such injury shall have neglected to provide or authorize same.
 
 (2) No claim for medical or surgical treatment shall be valid and enforceable against such employer unless, within ten days following the first treatment, the physician giving such treatment furnishes to the employer and the deputy commissioner a report of such injury or treatment, on a form prescribed by the Secretary. The Secretary may excuse the failure to furnish such report within the ten-day period whenever he finds it to be in the interest of justice to do so.
 
@@ -70,7 +70,7 @@ Unless the parties to the claim agree, the Secretary shall not employ or select 
 
 (1) The Secretary shall have the authority to make rules and regulations and to establish procedures, not inconsistent with the provisions of this chapter, which are necessary or appropriate to carry out the provisions of subsection (c) of this section, including the nature and extent of the proof and evidence necessary for actions under this section and the methods of taking and furnishing such proof and evidence.
 
-(2) Any decision to take action with respect to a physician or health care provider under this section shall be based on specific findings of fact by the Secretary. The Secretary shall provide notice of these findings and an opportunity for a hearing pursuant to section 556 of title 5 for a provider who would be affected by a decision under this section. A request for a hearing must be filed with the Secretary within thirty days after notice of the findings is received by theprovider making such request. If a hearing is held, the Secretary shall, on the basis of evidence adduced at the hearing, affirm, modify, or reverse the findings of fact and proposed action under this section.
+(2) Any decision to take action with respect to a physician or health care provider under this section shall be based on specific findings of fact by the Secretary. The Secretary shall provide notice of these findings and an opportunity for a hearing pursuant to section 556 of title 5 for a provider who would be affected by a decision under this section. A request for a hearing must be filed with the Secretary within thirty days after notice of the findings is received by the provider making such request. If a hearing is held, the Secretary shall, on the basis of evidence adduced at the hearing, affirm, modify, or reverse the findings of fact and proposed action under this section.
 
 (3) For the purpose of any hearing, investigation, or other proceeding authorized or directed under this section, the provisions of section <sup>1</sup> 49 and 50 of title 15 (relating to the attendance of witnesses and the production of books, papers, and documents) shall apply to the jurisdiction, powers, and duties of the Secretary or any officer designated by him.
 

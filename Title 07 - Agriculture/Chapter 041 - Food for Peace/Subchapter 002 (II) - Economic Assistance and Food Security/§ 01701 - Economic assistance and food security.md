@@ -12,33 +12,33 @@ To carry out the policies and accomplish the objectives described in section 169
 
 #### Amendments
 
-2008—Pub. L. 110–246 substituted “Economic assistance and food security” for “Trade and development assistance” in section catchline.
+<b>2008</b>—Pub. L. 110–246 substituted “Economic assistance and food security” for “Trade and development assistance” in section catchline.
 
-1996—Subsec. (a). Pub. L. 104–127, §202(1), inserted “and private entities” after “developing countries”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–127, §202(1), inserted “and private entities” after “developing countries”.
 
 Subsec. (b). Pub. L. 104–127 inserted “and private entities” after “developing countries” and “and entities” after “such countries”.
 
-1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions authorizing President to negotiate agreements with friendly countries for sales of commodities for dollars on credit terms, or for foreign currencies, on credit or on terms permitting conversion to dollars, setting minimum level for sales in foreign currencies, limiting extent of sales for foreign currency to amounts that can be productively used in private sector of foreign country, and requiring that sales for foreign currency through financial intermediaries be on terms and conditions specified in agreements.
+<b>1990</b>—Pub. L. 101–624 amended section generally, substituting present provisions for provisions authorizing President to negotiate agreements with friendly countries for sales of commodities for dollars on credit terms, or for foreign currencies, on credit or on terms permitting conversion to dollars, setting minimum level for sales in foreign currencies, limiting extent of sales for foreign currency to amounts that can be productively used in private sector of foreign country, and requiring that sales for foreign currency through financial intermediaries be on terms and conditions specified in agreements.
 
-1987—Subsec. (b)(1). Pub. L. 100–202, §8(1), inserted provisions which required for each of fiscal years 1988 through 1990 that each agreement provide for some sale of foreign currencies for use under section 1708 of this title unless the President determines that the level of agricultural commodities furnished under this subchapter will be significantly reduced as a result of this sentence.
+<b>1987</b>—Subsec. (b)(1). Pub. L. 100–202, §8(1), inserted provisions which required for each of fiscal years 1988 through 1990 that each agreement provide for some sale of foreign currencies for use under section 1708 of this title unless the President determines that the level of agricultural commodities furnished under this subchapter will be significantly reduced as a result of this sentence.
 
 Subsec. (b)(2). Pub. L. 100–202, §8(2), inserted “, or enter into sales agreements not providing for sales for foreign currencies for use under section 1708 of this title,” after “currencies”.
 
-1985—Pub. L. 99–198 in amending section generally, incorporated existing text in provisions designated subsec. (a) and added subsecs. (b) to (d).
+<b>1985</b>—Pub. L. 99–198 in amending section generally, incorporated existing text in provisions designated subsec. (a) and added subsecs. (b) to (d).
 
-1981—Pub. L. 97–113 substituted “, to the extent that sales for dollars under the terms applicable to such sales are not possible, for foreign currencies on credit terms and on terms which permit conversion to dollars at the exchange rate applicable to the sales agreement” for “for foreign currencies”.
+<b>1981</b>—Pub. L. 97–113 substituted “, to the extent that sales for dollars under the terms applicable to such sales are not possible, for foreign currencies on credit terms and on terms which permit conversion to dollars at the exchange rate applicable to the sales agreement” for “for foreign currencies”.
 
-1966—Pub. L. 89–808 substituted “agreements with friendly countries to provide for the sale of agricultural commodities for dollars on credit terms or for foreign currencies” for “agreements with friendly nations or organizations of friendly nations to provide for the sale of surplus agricultural commodities for foreign currencies” and struck out subsecs. (a) to (d), (f), and (g), relating to safeguarding usual marketings and disruption of world prices and normal patterns of commercial trade with friendly countries, use of private channels to maximum extent practicable, development and expansion of foreign markets, restrictive commitments from participating countries, exchange rates, and currency conversion, now covered by section 1703(c), (e) to (h), and (m)(1) of this title, respectively, and subsec. (e), relating to maximum opportunity for friendly nation to purchase surplus agricultural commodities.
+<b>1966</b>—Pub. L. 89–808 substituted “agreements with friendly countries to provide for the sale of agricultural commodities for dollars on credit terms or for foreign currencies” for “agreements with friendly nations or organizations of friendly nations to provide for the sale of surplus agricultural commodities for foreign currencies” and struck out subsecs. (a) to (d), (f), and (g), relating to safeguarding usual marketings and disruption of world prices and normal patterns of commercial trade with friendly countries, use of private channels to maximum extent practicable, development and expansion of foreign markets, restrictive commitments from participating countries, exchange rates, and currency conversion, now covered by section 1703(c), (e) to (h), and (m)(1) of this title, respectively, and subsec. (e), relating to maximum opportunity for friendly nation to purchase surplus agricultural commodities.
 
-1964—Subsec. (f). Pub. L. 88–638, §1(1), inserted “, and which are not less favorable than the highest of exchange rates obtainable by any other nation”, and struck out “from the government or agencies thereof” before “in the respective countries”.
+<b>1964</b>—Subsec. (f). Pub. L. 88–638, §1(1), inserted “, and which are not less favorable than the highest of exchange rates obtainable by any other nation”, and struck out “from the government or agencies thereof” before “in the respective countries”.
 
 Subsec. (g). Pub. L. 88–638, §1(2), added subsec. (g).
 
-1963—Subsec. (f). Pub. L. 88–205 substituted “the highest of exchange rates legally obtainable from the Government or agencies thereof” for “the rates at which United States Government agencies can buy currencies from the United States disbursing officers”.
+<b>1963</b>—Subsec. (f). Pub. L. 88–205 substituted “the highest of exchange rates legally obtainable from the Government or agencies thereof” for “the rates at which United States Government agencies can buy currencies from the United States disbursing officers”.
 
-1961—Subsec. (f). Pub. L. 87–128 added subsec. (f).
+<b>1961</b>—Subsec. (f). Pub. L. 87–128 added subsec. (f).
 
-1958—Subsec. (a). Pub. L. 85–931 required President to take reasonable precautions to assure that sales of surplus commodities would not disrupt normal patterns of commercial trade with friendly countries.
+<b>1958</b>—Subsec. (a). Pub. L. 85–931 required President to take reasonable precautions to assure that sales of surplus commodities would not disrupt normal patterns of commercial trade with friendly countries.
 
 #### Effective Date of 2008 Amendment
 
@@ -54,7 +54,7 @@ Amendment by Pub. L. 89–808 effective Jan. 1, 1967, see section 5 of Pub. L. 8
 
 #### Emergency Food Assistance to India
 
-Pub. L. 90–7, Apr. 1, 1967, 81 Stat. 7, provided: “That the Congress approves the participation of the United States in cooperation with other countries and with multilateral organizations, including the International Bank for Reconstruction and Development, the Organization for Economic Cooperation and Development, the Food and Agriculture Organization, and others, in urgent international efforts designed to—
+Pub. L. 90–7, Apr. 1, 1967, 81 Stat. 7, provided: “That the Congress approves the participation of the UnitedStates in cooperation with other countries and with multilateral organizations, including the International Bank for Reconstruction and Development, the Organization for Economic Cooperation and Development, the Food and Agriculture Organization, and others, in urgent international efforts designed to—
 
 &emsp;“(a) develop a comprehensive self-help approach to the war on hunger based on a fair sharing of the burden among the nations of the world;
 

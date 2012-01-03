@@ -48,7 +48,7 @@
 
 &emsp;&emsp;(B) the status of voluntary reporting by States under subchapters XIX and XXI, utilizing the initial core quality measurement set; and
 
-&emsp;&emsp;(C) any recommendations for legislative changes needed to improve the quality of care provided to children under subchapters XIX and XXI, including recommendations for quality reporting by States.
+&emsp;&emsp;(C) any recommendations for legislative changes needed to improve the quality of care provided to children under subchaptersXIX and XXI, including recommendations for quality reporting by States.
 
 #### (7) Technical assistance
 
@@ -302,7 +302,7 @@
 
 #### (B) Number and project areas
 
-&emsp;&emsp;Not later than 2 years after February 4, 2009, the Secretary shall award 1 grant that is specifically designed to determine whether programs similar to programs to be conducted by other grantees under this subsection should be implemented with respectto the general population of children who are eligible for child health assistance under State child health plans under subchapter XXI in order to reduce the incidence of childhood obesity among such population.
+&emsp;&emsp;Not later than 2 years after February 4, 2009, the Secretary shall award 1 grant that is specifically designed to determine whether programs similar to programs to be conducted by other grantees under this subsection should be implemented with respect to the general population of children who are eligible for child health assistance under State child health plans under subchapter XXI in order to reduce the incidence of childhood obesity among such population.
 
 #### (6) Report to Congress
 

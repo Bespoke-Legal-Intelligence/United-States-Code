@@ -30,7 +30,7 @@
 
 #### Amendments
 
-1984—Subsec. (b). Pub. L. 98–224, §3(a), inserted provision directing that Chairman be chief executive and administrative officer.
+<b>1984</b>—Subsec. (b). Pub. L. 98–224, §3(a), inserted provision directing that Chairman be chief executive and administrative officer.
 
 Subsec. (c). Pub. L. 98–224, §3(b), substituted provision that a member of Authority be appointed for a term of 5 years and an individual chosen to fill a vacancy be appointed for unexpired term of member replaced for provision that one original member of Authority be appointed for a term of 1 year, one for a term of 3 years, and Chairman for a term of 5 years, and thereafter each member be appointed for a term of 5 years.
 

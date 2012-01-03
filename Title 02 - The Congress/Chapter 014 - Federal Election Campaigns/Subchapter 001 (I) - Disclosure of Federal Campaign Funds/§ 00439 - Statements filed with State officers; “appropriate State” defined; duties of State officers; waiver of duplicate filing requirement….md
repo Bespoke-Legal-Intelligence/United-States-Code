@@ -26,7 +26,7 @@ The Secretary of State (or equivalent State officer), or the officer designated 
 
 Subsections (a) and (b) of this section shall not apply with respect to any State that, as determined by the Commission, has a system that permits electronic access to, and duplication of, reports and statements that are filed with the Commission.
 
-(Pub. L. 92–225, title III, §312, formerly §309, Feb. 7, 1972, 86 Stat. 18; renumbered §317 and amended Pub. L. 93–443, title II, §208(a), (c)(11), Oct. 15, 1974, 88 Stat. 1279, 1287; renumbered §316, Pub. L. 94–283, title I, §105, May 11, 1976, 90 Stat. 481; renumbered §312 and amended Pub. L. 96–187, title I, §§105(4), 110, Jan. 8, 1980, 93 Stat. 1354, 1364; Pub. L. 104–79, §2, Dec. 28, 1995, 109 Stat. 791.)
+(Pub. L. 92–225, title III, §312, formerly §309, Feb. 7, 1972, 86 Stat. 18; renumbered §317 and amended Pub. L. 93–443, title II, §208(a), (c)(11), Oct. 15, 1974, 88 Stat. 1279, 1287; renumbered §316, Pub. L.94–283, title I, §105, May 11, 1976, 90 Stat. 481; renumbered §312 and amended Pub. L. 96–187, title I, §§105(4), 110, Jan. 8, 1980, 93 Stat. 1354, 1364; Pub. L. 104–79, §2, Dec. 28, 1995, 109 Stat. 791.)
 
 #### References in Text
 
@@ -40,13 +40,13 @@ Another prior section 312 of Pub. L. 92–225 was renumbered section 311, and wa
 
 #### Amendments
 
-1995—Subsec. (c). Pub. L. 104–79 added subsec. (c).
+<b>1995</b>—Subsec. (c). Pub. L. 104–79 added subsec. (c).
 
-1980—Subsec. (a). Pub. L. 96–187, §110, in revising text, added par. (1), incorporating part of first sentence reading “A copy of each statement required to be filed with the Commissioner by this subchapter shall be filed with the Secretary of State (or, if there is no office of Secretary of State, the equivalent State officer) of the appropriate State.”; and reenacted as par. (2) definition provision of second sentence, redesignating as cl. (A) prior cl. (1) provisions, inserting reference to statements respecting the campaign, striking out reference to campaign for election and provision for expenditure by the candidate, and redesignating as cl. (B) prior cl. (2), inserting reference to statements respecting the campaign and requirement only for political committees other than authorized committees to file and Secretaries of State to keep that portion of report applicable to candidates seeking election in that State.
+<b>1980</b>—Subsec. (a). Pub. L. 96–187, §110, in revising text, added par. (1), incorporating part of first sentence reading “A copy of each statement required to be filed with the Commissioner by this subchapter shall be filed with the Secretary of State (or, if there is no office of Secretary of State, the equivalent State officer) of the appropriate State.”; and reenacted as par. (2) definition provision of second sentence, redesignating as cl. (A) prior cl. (1) provisions, inserting reference to statements respecting the campaign, striking out reference to campaign for election and provision for expenditure by the candidate, and redesignating as cl. (B) prior cl. (2), inserting reference to statements respecting the campaign and requirement only for political committees other than authorized committees to file and Secretaries of State to keep that portion of report applicable to candidates seeking election in that State.
 
 Subsec. (b). Pub. L. 96–187, §110, in revising text, provided for performance of the prescribed duties by the officer designated under subsec. (a)(1); substituted in cl. (1) “reports and statements required by this Act to be filed therewith” for “reports and statements required by this subchapter to be filed with him”; substituted in cl. (2) requirement of a 2 year retention period for reports and statements after receipt in original form or in facsimile copy by microfilm for ten year retention period after such receipt and five year period when relating to House of Representatives candidates; required in cl. (3) that filed reports and statements be available within 48 hours of receipt rather than no later than end of day of receipt; and provided in cl. (4) for inclusion of reports in current list and exclusion of parts of statements.
 
-1974—Subsec. (a). Pub. L. 93–443, §208(c)(11), substituted “the Commission” for “a supervisory officer”.
+<b>1974</b>—Subsec. (a). Pub. L. 93–443, §208(c)(11), substituted “the Commission” for “a supervisory officer”.
 
 #### Effective Date of 1980 Amendment
 

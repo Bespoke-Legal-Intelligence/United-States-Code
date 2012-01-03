@@ -20,11 +20,11 @@ Every manufacturer of a consumer product, or other product or substance over whi
 
 &emsp;(4) creates an unreasonable risk of serious injury or death,
 
-> shall immediately inform the Commission of such failure to comply, of such defect, or of such risk, unless such manufacturer, distributor, or retailer has actual knowledge that the Commission has been adequately informed of such defect, failure to comply, or such risk. A reportprovided under paragraph (2) may not be used as the basis for criminal prosecution of the reporting person under section 1264 of this title, except for offenses which require a showing of intent to defraud or mislead.
+> shall immediately inform the Commission of such failure to comply, of such defect, or of such risk, unless such manufacturer, distributor, or retailer has actual knowledge that the Commission has been adequately informed of such defect, failure to comply, or such risk. A report provided under paragraph (2) may not be used as the basis for criminal prosecution of the reporting person under section 1264 of this title, except for offenses which require a showing of intent to defraud or mislead.
 
 #### (c) Notice of defect or failure to comply; mail notice
 
-(1) If the Commission determines (after affording interested persons, including consumers and consumer organizations, an opportunity for a hearing in accordance with subsection (f) of this section) that a product distributed in commerce presents a substantial product hazard and that notification is required in order to adequately protect the public from such substantial product hazard, or if the Commission, after notifying the manufacturer, determines a product to be an imminently hazardous consumer product and has filed an action under section 2061 of this title, the Commission may order the manufacturer or any distributor or retailer of the product to take any one or more of the following actions:
+(1) If the Commission determines (after affording interested persons, including consumers and consumer organizations, an opportunity for a hearing in accordance with subsection (f) of this section) that a product distributed in commerce presents a substantial product hazard and that notification is required in order to adequately protect the public from such substantial product hazard, or if the Commission, after notifying the manufacturer, determines a product to be an imminently hazardous consumer product and has filed an action under section 2061 of this title,the Commission may order the manufacturer or any distributor or retailer of the product to take any one or more of the following actions:
 
 &emsp;(A) To cease distribution of the product.
 
@@ -70,7 +70,7 @@ Every manufacturer of a consumer product, or other product or substance over whi
 
 #### (f) Hearing
 
-(1) Except as provided in paragraph (2), an order under subsection (c) or (d) of this section may be issued only after an opportunity for a hearing in accordance with section 554 of title 5 except that, if the Commission determines that any person who wishes to participate in such hearing is a part of a class of participants who share an identity of interest, the Commission may limit such person's participation in such hearing to participation through a single representative designated by such class (or by the Commission if such class fails to designate such a representative). Any settlement offer which is submitted to the presiding officer at a hearing under this subsection shall be transmitted by the officer to the Commission for its consideration unless the settlement offer is clearly frivolous or duplicative of offers previously made.
+(1) Except as provided in paragraph (2), an order under subsection (c) or (d) of this sectionmay be issued only after an opportunity for a hearing in accordance with section 554 of title 5 except that, if the Commission determines that any person who wishes to participate in such hearing is a part of a class of participants who share an identity of interest, the Commission may limit such person's participation in such hearing to participation through a single representative designated by such class (or by the Commission if such class fails to designate such a representative). Any settlement offer which is submitted to the presiding officer at a hearing under this subsection shall be transmitted by the officer to the Commission for its consideration unless the settlement offer is clearly frivolous or duplicative of offers previously made.
 
 (2) The requirement for a hearing in paragraph (1) shall not apply to an order issued under subsection (c) or (d) relating to an imminently hazardous consumer product with regard to which the Commission has filed an action under section 2061 of this title.
 
@@ -136,7 +136,7 @@ Nothing in this section shall be construed to require the Commission, in determi
 
 #### (1) In general
 
-&emsp;The Commission may specify, by rule, for any consumer product or class of consumer products, characteristics whose existence or absence shall be deemed a substantial product hazard under subsection (a)(2), if the Commission determines that—
+&emsp;The Commission may specify, by rule, for any consumer product or class of consumer products, characteristics whose existence or absence shall be deemed a substantial producthazard under subsection (a)(2), if the Commission determines that—
 
 &emsp;&emsp;(A) such characteristics are readily observable and have been addressed by voluntary standards; and
 
@@ -208,7 +208,7 @@ Subsec. (h). Pub. L. 101–608, §111(a)(2), added subsec. (h).
 
 <b>1983</b>—Subsec. (g)(1). Pub. L. 97–414 clarified previous inconsistencies in 1982 amendment by substituting “section 206(d)(1)” for “section 206(c)(1)” and amending Pub. L. 97–35, §1211(h)(4), so as to strike out direction that par. (1) be amended by inserting “, Science and Transportation” after “on Commerce”.
 
-<b>1981</b>—Subsec. (g)(1). Pub. L. 97–35, §1211(h)(4), substituted reference to section 2061(c)(1) for reference to section 2061(e)(1), but probably should have substituted instead reference to section 2061(d)(1) in view of the redesignation of section 2061(e)(1) as section 2061(d)(1) by section 1205(a)(2) of Pub. L. 97–35 and the nonexistence of a section 2061(c)(1) of this title. Provisions of Pub. L. 97–35 directing that “, Science and Transportation” be inserted after “on Commerce” could not be executed in view of lack of such language in text. Section 1211(h)(4) of Pub. L. 97–35 was subsequently amended by Pub. L. 97–414. See 1983 Amendment note above.
+<b>1981</b>—Subsec. (g)(1). Pub. L. 97–35, §1211(h)(4), substituted reference to section 2061(c)(1) for reference to section 2061(e)(1), but probably should have substituted instead reference to section 2061(d)(1) in view of the redesignation of section 2061(e)(1) as section 2061(d)(1) bysection 1205(a)(2) of Pub. L. 97–35 and the nonexistence of a section 2061(c)(1) of this title. Provisions of Pub. L. 97–35 directing that “, Science and Transportation” be inserted after “on Commerce” could not be executed in view of lack of such language in text. Section 1211(h)(4) of Pub. L. 97–35 was subsequently amended by Pub. L. 97–414. See 1983 Amendment note above.
 
 <b>1976</b>—Subsec. (d). Pub. L. 94–284, §12(a)(1), provided, in provision following par. (3), that an order issued under this subsection may prohibit the person to whom it applies from manufacturing for sale, offering for sale, distributing in commerce, or importing into the customs territory of the United States, the product for which the order was issued.
 

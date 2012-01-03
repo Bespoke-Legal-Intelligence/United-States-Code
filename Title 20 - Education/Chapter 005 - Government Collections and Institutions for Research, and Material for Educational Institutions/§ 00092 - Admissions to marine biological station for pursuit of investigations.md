@@ -22,5 +22,5 @@ The Fish and Wildlife Service established a marine biological station at Sarasot
 
 Secretary of Commerce was authorized to dispose of the marine biological station at Key West, Fla., by act Apr. 29, 1929, ch. 2, 46 Stat. 2.
 
-Under communication of the Fish and Wildlife Service dated Nov. 12, 1940, it was stated the land on whichwas situated this station was reconveyed to the Key West Realty Company by quit claim deed executed by the Secretary of Commerce.
+Under communication of the Fish and Wildlife Service dated Nov. 12, 1940, it was stated the land on which was situated this station was reconveyed to the Key West Realty Company by quit claim deed executed by the Secretary of Commerce.
 

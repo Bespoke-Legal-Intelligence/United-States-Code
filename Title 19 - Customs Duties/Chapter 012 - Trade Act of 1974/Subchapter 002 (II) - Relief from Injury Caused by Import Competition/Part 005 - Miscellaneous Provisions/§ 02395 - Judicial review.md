@@ -12,11 +12,15 @@ The findings of fact by the Secretary of Labor, the Secretary of Commerce, or th
 
 The Court of International Trade shall have jurisdiction to affirm the action of the Secretary of Labor, the Secretary of Commerce, or the Secretary of Agriculture, as the case may be, or to set such action aside, in whole or in part. The judgment of the Court of International Trade shall be subject to review by the United States Court of Appeals for the Federal Circuit as prescribed by the rules of such court. The judgment of the Court of Appeals for the Federal Circuit shall be subject to review by the Supreme Court of the United States upon certiorari as provided in section 1256 <sup>1</sup> of title 28.
 
-(Pub. L. 93–618, title II, §284, as added Pub. L. 96–417, title VI, §613(a), Oct. 10, 1980, 94 Stat. 1746; amended Pub. L. 97–164, title I, §163(a)(5), Apr. 2, 1982, 96 Stat. 49; Pub. L. 103–182, title V, §503(d), Dec. 8, 1993, 107 Stat. 2151; Pub. L. 107–210, div. A, title I, §§123(b)(4), 142(a), Aug. 6, 2002, 116 Stat. 944, 953; Pub. L. 108–429, title II, §2004(a)(11)(A), Dec. 3, 2004, 118 Stat. 2590; Pub. L. 111–5, div. B, title I, §1873(b)(1), Feb. 17, 2009, 123 Stat. 414.)
+(Pub. L. 93–618, title II, §284, as added Pub. L. 96–417, title VI, §613(a), Oct. 10, 1980, 94 Stat. 1746; amended Pub. L. 97–164, title I, §163(a)(5), Apr. 2, 1982, 96 Stat. 49; Pub. L. 103–182, title V, §503(d), Dec. 8, 1993, 107 Stat. 2151; Pub. L. 107–210, div. A, title I, §§123(b)(4), 142(a), Aug. 6, 2002, 116 Stat. 944, 953; Pub. L. 108–429, title II, §2004(a)(11)(A), Dec. 3, 2004, 118 Stat. 2590; Pub. L. 111–5, div. B, title I, §1873(b)(1), Feb. 17, 2009, 123 Stat. 414; Pub. L. 112–40, title II, §201(b), (c), Oct. 21, 2011, 125 Stat. 403.)
 
-#### Amendment of Section
+#### Reversion to Provisions in Effect on February 13, 2011
 
-<i>For termination of amendment by section 1893 of Pub. L. 111–5, see Effective and Termination Dates of 2009 Amendment note below.</i>
+<i>For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to section 233(b) of Pub. L. 112–40, see Codification and Effective and Termination Dates of 2011 Revival notes below.</i>
+
+#### Codification
+
+Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination of amendment by Pub. L. 111–5, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, and the provisions of this section, asamended by Pub. L. 111–5 and as in effect on Feb. 12, 2011, were temporarily revived, effective Oct. 21, 2011, until Jan. 1, 2014, by Pub. L. 112–40, §§201(b), (c), 233. See 2009 and 2011 Amendment notes, Effective and Termination Dates of 2009 Amendment notes, and Effective and Termination Dates of 2011 Revival note below.
 
 #### References in Text
 
@@ -24,11 +28,13 @@ Section 1256 of title 28, referred to in subsec. (c), was repealed by Pub. L. 97
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a). Pub. L. 111–5, §§1873(b)(1)(C), 1893, temporarily substituted “section 2371b” for “section 2371”. See Effective and Termination Dates of 2009 Amendment note below.
+<b>2011</b>—Pub. L. 112–40, §§201(b), (c), 233, temporarily revived the provisions of this section, as in effect on Feb. 12, 2011. See Codification note above and 2009 Amendment and Effective and Termination Dates of 2011 Revival notes below.
 
-Pub. L. 111–5, §§1873(b)(1)(B), 1893, which directed the temporary substitution of “or authorized representative of a community” for “or any other interested domestic party”, was executed by making the temporary substitution for “or any other interested domestic party” the second time appearing to reflect the probable intent of Congress. See Effective and Termination Dates of 2009 Amendment note below.
+<b>2009</b>—Subsec. (a). Pub. L. 111–5, §§1873(b)(1)(C), 1893, temporarily substituted “section 2371b” for “section 2371”. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Pub. L. 111–5, §§1873(b)(1)(A), 1893, temporarily inserted “or 2401e” after “section 2401b”. See Effective and Termination Dates of 2009 Amendment note below.
+Pub. L. 111–5, §§1873(b)(1)(B), 1893, which directed the temporary substitution of “or authorized representative of a community” for “or any other interested domestic party”, was executed by making the temporary substitution for “or any other interested domestic party” the second time appearing to reflect the probable intent of Congress. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+
+Pub. L. 111–5, §§1873(b)(1)(A), 1893, temporarily inserted “or 2401e” after “section 2401b”. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
 <b>2004</b>—Pub. L. 108–429, §2004(a)(11)(A), amended directory language of Pub. L. 107–210, §142(a)(1). See 2002 Amendment notes below.
 
@@ -42,11 +48,15 @@ Subsecs. (b), (c). Pub. L. 107–210, §142(a)(1)(B), as amended by Pub. L. 108�
 
 <b>1982</b>—Subsec. (c). Pub. L. 97–164 substituted “Court of Appeals for the Federal Circuit” for “Court of Customs and Patent Appeals”.
 
+#### Effective and Termination Dates of 2011 Revival
+
+For temporary revival and applicability of provisions as in effect on Feb. 12, 2011, see sections 201(b), (c) and 233 of Pub. L. 112–40, set out as notes preceding section 2271 of this title. For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to section 233(b) of Pub. L. 112–40, see section 233 of Pub. L. 112–40, set out as a note preceding section 2271 of this title.
+
 #### Effective and Termination Dates of 2009 Amendment
 
 Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title.
 
-Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and this section to be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
+Section 1893 of Pub. L. 111–5, which provided that, except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and that this section be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403. See Codification note above.
 
 #### Effective Date of 2002 Amendment
 

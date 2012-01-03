@@ -26,7 +26,7 @@ Agreement Authorized.—The Secretary of the Interior, in administering the Vall
 
 Contents and Implementation of Agreement.—An agreement entered into under subsection (a) shall—
 
-&emsp;“(1) authorize the Society to develop and operate the museum pursuant to plans developed by the Secretary and to provide at the museum appropriate and necessary programs and services to visitors to Valley Forge National Historical Park related to the story of Valley Forge and the American Revolution;
+&emsp;“(1) authorize the Society to develop and operate the museum pursuant to plans developed by the Secretary and to provide at the museum appropriate and necessary programs and services to visitors to ValleyForge National Historical Park related to the story of Valley Forge and the American Revolution;
 
 &emsp;“(2) only be carried out in a manner consistent with the General Management Plan and other plans for the preservation and interpretation of the resources and values of Valley Forge National Historical Park;
 
@@ -40,7 +40,7 @@ Contents and Implementation of Agreement.—An agreement entered into under subs
 
 &emsp;&emsp;“(A) The conveyance by the Society to the United States of all right, title, and interest in the museum to be constructed at Valley Forge National Historical Park.
 
-&emsp;&emsp;“(B) The Society's right to occupy and use the museum shall be for the exhibition, preservation, and interpretation of artifacts associated with the Valley Forge story and the American Revolution, to enhance the visitor experience of Valley ForgeNational Historical Park, and to conduct appropriately related activities of the Society consistent with its mission and with the purposes for which the Valley Forge National Historical Park was established. Such right shall not be transferred or conveyed without the express consent of the Secretary.
+&emsp;&emsp;“(B) The Society's right to occupy and use the museum shall be for the exhibition, preservation, and interpretation of artifacts associated with the Valley Forge story and the American Revolution, to enhance the visitor experience of Valley Forge National Historical Park, and to conduct appropriately related activities of the Society consistent with its mission and with the purposes for which the Valley Forge National Historical Park was established. Such right shall not be transferred or conveyed without the express consent of the Secretary.
 
 &emsp;&emsp;“(C) Any other terms and conditions the Secretary determines to be necessary.
 

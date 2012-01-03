@@ -30,7 +30,7 @@ Words “in the Philippine Islands and” following “Canal Zone, or” were de
 
 #### Amendments
 
-1921—Act Feb. 27, 1921, inserted proviso.
+<b>1921</b>—Act Feb. 27, 1921, inserted proviso.
 
 #### Short Title
 

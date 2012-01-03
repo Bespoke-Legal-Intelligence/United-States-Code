@@ -6,7 +6,7 @@ On request of a party in interest and after notice and a hearing, the court may,
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 1174 of the House amendment represents a compromise between the House bill and Senate amendment on the issue of liquidation of a railroad. The provision permits a party in interest at any time to request liquidation. In addition, if a plan has not been confirmed under section 1173 of the House amendment before 5 years after the date of order for relief, the court must order the trustee to cease the debtor's operation and to collect and reduce to money all of the property of the estate in the same manner as if the case were a case under chapter 7 of title 11. The approach differs from the conversion to chapter 7 under section 1174 of the Senate bill in order to make special provisions contained in subchapter IV of chapter 11 applicable to liquidation. However, maintaining liquidation in the context of chapter 11 is not intended to delay liquidation of the railroad to a different extent than if the case were converted to chapter 7.
 

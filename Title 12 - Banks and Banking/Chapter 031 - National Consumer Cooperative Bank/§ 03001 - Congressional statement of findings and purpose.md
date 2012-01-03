@@ -14,5 +14,5 @@ Pub. L. 97–35, title III, §390, Aug. 13, 1981, 95 Stat. 433, provided that: �
 
 #### Short Title
 
-Section 1 of Pub. L. 95–351 provided: “That this Act \[enacting this chapter and amending section 5315 of Title 5, Government Organization and Employees, and sections 856, 867, and 868 of former Title 31, Money and Finance\] may be cited as the ‘National Consumer Cooperative Bank Act’.”
+Section 1 of Pub. L. 95–351 provided: “That this Act \[enacting this chapter and amending section 5315 of Title 5, Government Organization and Employees, andsections 856, 867, and 868 of former Title 31, Money and Finance\] may be cited as the ‘National Consumer Cooperative Bank Act’.”
 

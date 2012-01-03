@@ -22,7 +22,7 @@ The Secretary shall establish by regulation criteria for the designation of area
 
 &emsp;(1) The ratio of available health manpower to the number of individuals in an area or population group, or served by a medical facility or other public facility under consideration for designation.
 
-&emsp;(2) Indicators of a need, notwithstanding the supply of health manpower, for health services for the individuals in an area or populationgroup or served by a medical facility or other public facility under consideration for designation.
+&emsp;(2) Indicators of a need, notwithstanding the supply of health manpower, for health services for the individuals in an area or population group or served by a medical facility or other public facility under consideration for designation.
 
 &emsp;(3) The percentage of physicians serving an area, population group, medical facility, or other public facility under consideration for designation who are employed by hospitals and who are graduates of foreign medical schools.
 
@@ -50,7 +50,7 @@ In determining whether to make a designation, the Secretary shall take into cons
 
 The Secretary shall give written notice of the designation of a health professional shortage area, not later than 60 days from the date of such designation, to—
 
-&emsp;(1) the Governor of each State in which the area, population group, medical facility, or other public facility so designated is in whole or part located; and
+&emsp;(1) the Governor of each State in which the area, population group, medical facility, orother public facility so designated is in whole or part located; and
 
 &emsp;(2) appropriate public or nonprofit private entities which are located or which have a demonstrated interest in the area so designated.
 
@@ -86,7 +86,7 @@ The Administrator of the Health Resources and Services Administration shall diss
 
 (3) Each regulation described in paragraph (1) shall take effect 180 days after the committees described in paragraph (2) receive a report referred to in such paragraph describing the regulation.
 
-(July 1, 1944, ch. 373, title III, §332, as added Pub. L. 94–484, title IV, §407(b)(3), Oct. 12, 1976, 90 Stat. 2270; amended Pub. L. 95–142, §7(d), Oct. 25, 1977, 91 Stat. 1193; Pub. L. 96–32, §7(d), July 10, 1979, 93 Stat. 84; Pub. L. 97–35, title IX, §986(b)(4),title XXVII, §2702(a), (b), (c), Aug. 13, 1981, 95 Stat. 603, 903, 904; Pub. L. 100–77, title VI, §602, July 22, 1987, 101 Stat. 515; Pub. L. 100–177, title III, §302, Dec. 1, 1987, 101 Stat. 1003; Pub. L. 100–607, title VIII, §802(b)(2), Nov. 4, 1988, 102 Stat. 3169; Pub. L. 100–628, title VI, §602(b)(2), Nov. 7, 1988, 102 Stat. 3242; Pub. L. 101–597, title I, §102, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3014, 3035; Pub. L. 107–251, title III, §302(a), (d)(2), title VI, §601(a), Oct. 26, 2002, 116 Stat. 1643, 1645, 1664; Pub. L. 108–163, §2(f)(1), Dec. 6, 2003, 117 Stat. 2021; Pub. L. 110–355, §3(b), Oct. 8, 2008, 122 Stat. 3993.)
+(July 1, 1944, ch. 373, title III, §332, as added Pub. L. 94–484, title IV, §407(b)(3), Oct. 12, 1976, 90 Stat. 2270; amended Pub. L. 95–142, §7(d), Oct. 25, 1977, 91 Stat. 1193; Pub. L. 96–32, §7(d), July 10, 1979, 93 Stat. 84; Pub. L. 97–35, title IX, §986(b)(4), title XXVII, §2702(a), (b), (c), Aug. 13, 1981, 95 Stat. 603, 903, 904; Pub. L. 100–77, title VI, §602, July 22, 1987, 101 Stat. 515; Pub. L. 100–177, title III, §302, Dec. 1, 1987, 101 Stat. 1003; Pub. L. 100–607, title VIII, §802(b)(2), Nov. 4, 1988, 102 Stat. 3169; Pub. L. 100–628, title VI, §602(b)(2), Nov. 7, 1988, 102 Stat. 3242; Pub. L. 101–597, title I, §102, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3014, 3035; Pub. L. 107–251, title III, §302(a), (d)(2), title VI, §601(a), Oct. 26, 2002, 116 Stat. 1643, 1645, 1664; Pub. L. 108–163, §2(f)(1), Dec. 6, 2003, 117 Stat. 2021; Pub. L. 110–355, §3(b), Oct. 8, 2008, 122 Stat. 3993.)
 
 #### References in Text
 
@@ -208,7 +208,7 @@ Pub. L. 107–251, title III, §302(b), Oct. 26, 2002, 116 Stat. 1644, which req
 
 #### Improvement of Site Designation Process
 
-Pub. L. 107–251, title III, §302(d)(1), Oct. 26, 2002, 116 Stat. 1644, provided that: “The Administrator of the Health Resources and Services Administration, in consultation with the Association of State and Territorial Dental Directors, dental societies, and other interested parties, shall revise the criteria on which the designations of dental health professional shortage areas are based so that such criteria provide a more accurate reflection of oral health care need, particularly in rural areas.”
+Pub. L. 107–251, title III, §302(d)(1), Oct. 26, 2002, 116 Stat. 1644, provided that: “The Administrator of theHealth Resources and Services Administration, in consultation with the Association of State and Territorial Dental Directors, dental societies, and other interested parties, shall revise the criteria on which the designations of dental health professional shortage areas are based so that such criteria provide a more accurate reflection of oral health care need, particularly in rural areas.”
 
 #### GAO Study
 

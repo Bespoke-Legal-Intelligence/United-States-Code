@@ -236,7 +236,7 @@ Subsecs. (c), (d). Pub. L. 107–188, §104(a)(3), added subsecs. (c) and (d). F
 
 Subsec. (e). Pub. L. 107–188, §104(a)(2), redesignated subsec. (c) as (e). Former subsec. (e) redesignated (g).
 
-Subsec. (e)(2). Pub. L. 107–188, §111(3), which directed the amendment of section 391F(e)(2) of the Public Health Service Act by striking out “or” after “clinic,” and inserting before period “, professional organization or society, school or program that trains medical laboratory personnel, private accrediting organization, or other nonprofit private institution or entity meeting criteria established by the Secretary”, was executed tosubsec. (e)(2) of this section, which is section 319F(e)(2) of the Act, to reflect the probable intent of Congress.
+Subsec. (e)(2). Pub. L. 107–188, §111(3), which directed the amendment of section 391F(e)(2) of the Public Health Service Act by striking out “or” after “clinic,” and inserting before period “, professional organization or society, school or program that trains medical laboratory personnel, private accrediting organization, or other nonprofit private institution or entity meeting criteria established by the Secretary”, was executed to subsec. (e)(2) of this section, which is section 319F(e)(2) of the Act, to reflect the probable intent of Congress.
 
 Subsec. (f). Pub. L. 107–188, §104(a)(2), redesignated subsec. (d) as (f). Former subsec. (f) redesignated (h).
 
@@ -278,7 +278,7 @@ In general.—Not later than one year after the date of the enactment of this Ac
 
 &emsp;“(C) the characteristics that may render a rural community uniquely vulnerable to a biological attack, including distance, lack of emergency transport, hospital or laboratory capacity, lack of integration of Federal or State public health networks, workforce deficits, or other relevant characteristics;
 
-&emsp;“(D) the characteristics that may render areas or populations designated as medically underserved populations (as defined in section 330 of such Act \[section 254b of this title\]) uniquely vulnerable to a biological attack, including significant numbers of low-income or uninsured individuals, lack of affordable and accessible health care services, insufficient public and primary health care resources, lack of integration of Federal or State public health networks, workforce deficits, or other relevant characteristics;
+&emsp;“(D) the characteristics that may render areas or populations designated as medically underserved populations (as defined in section 330 of such Act \[section 254b of this title\]) uniquely vulnerable to a biological attack, including significant numbers of low-income or uninsured individuals, lack of affordable and accessible health care services, insufficient public and primary health care resources, lack of integration ofFederal or State public health networks, workforce deficits, or other relevant characteristics;
 
 &emsp;“(E) the recommendations of the Secretary with respect to additional legislative authority that the Secretary determines is necessary to effectively strengthen rural communities, or medically underserved populations (as defined in section 330 of such Act); and
 

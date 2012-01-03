@@ -18,7 +18,7 @@ Program Requirements.—The Secretary of Defense shall ensure that—
 
 (d)
 
-Tuition.—The Secretary of Defense shall charge private sector employees enrolled under this section tuition at a rate that is at least equal to the rate charged for employees of the United States. In determining tuition rates, the Secretary shall include overhead costs of the Defense Cyber Investigations Training Academy.
+Tuition.—The Secretary of Defense shall charge private sector employees enrolled under this section tuition at a rate that is at least equal to the rate charged for employees of theUnited States. In determining tuition rates, the Secretary shall include overhead costs of the Defense Cyber Investigations Training Academy.
 
 (e)
 

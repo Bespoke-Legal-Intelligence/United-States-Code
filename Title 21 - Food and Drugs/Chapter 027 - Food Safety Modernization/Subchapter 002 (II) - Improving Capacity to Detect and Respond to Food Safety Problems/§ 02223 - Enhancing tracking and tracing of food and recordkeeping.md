@@ -92,7 +92,7 @@ The Secretary, in consultation with the Secretary of Agriculture, shall, as appr
 
 &emsp;&emsp;&emsp;(i) the known safety risks of a particular food, including the history and severity of foodborne illness outbreaks attributed to such food, taking into consideration foodborne illness data collected by the Centers for Disease Control and Prevention;
 
-&emsp;&emsp;&emsp;(ii) the likelihood that a particular food has a high potential risk for microbiological or chemical contamination or would support the growth of pathogenic microorganisms due to the nature of the food or the processes used to produce such food;
+&emsp;&emsp;&emsp;(ii) the likelihood that a particular food has a high potential risk for microbiological or chemical contamination or would support the growth of pathogenicmicroorganisms due to the nature of the food or the processes used to produce such food;
 
 &emsp;&emsp;&emsp;(iii) the point in the manufacturing process of the food where contamination is most likely to occur;
 
@@ -214,7 +214,7 @@ The Secretary, in consultation with the Secretary of Agriculture, shall, as appr
 
 #### (2) Manner of request
 
-&emsp;In making a request under paragraph (1), the Secretary, in consultation and coordination with State and local agencies responsible for food safety, as appropriate, shall issue a written notice to the owner, operator, or agent of the farm to which the article of food has been traced. The individual providing such notice shall present to such owner, operator, or agent appropriate credentials and shall deliver such notice at reasonable times and within reasonable limits and in a reasonable manner.
+&emsp;In making a request under paragraph (1), the Secretary, in consultation and coordination with State and local agencies responsible for food safety, as appropriate, shall issue a written notice to the owner, operator, or agent of the farm to which the article of food has been traced. The individual providing such noticeshall present to such owner, operator, or agent appropriate credentials and shall deliver such notice at reasonable times and within reasonable limits and in a reasonable manner.
 
 #### (3) Delivery of information requested
 

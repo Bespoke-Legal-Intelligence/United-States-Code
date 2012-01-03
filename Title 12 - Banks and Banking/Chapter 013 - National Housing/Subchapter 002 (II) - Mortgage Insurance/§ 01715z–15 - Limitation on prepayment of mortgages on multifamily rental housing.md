@@ -22,7 +22,7 @@ For purposes of this section, the term “lower income families” has the meani
 
 #### Amendments
 
-1990—Subsec. (b). Pub. L. 101–625, §602(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “In the case of a project assisted under section 1715z–1 of this title or the proviso to section 1715<i>l</i>(d)(5) of this title, section 101 of the Housing and Urban Development Act of 1965, or section 1701q of this title where the owner has the right to prepay the mortgage covering the assisted project without the Secretary's approval, the Secretary shall give a priority for additional assistance under section 1437f of title 42 and section 201 of the Housing and Community Development Amendments of 1978 to tenants and applicants to become tenants of the project, if—
+<b>1990</b>—Subsec. (b). Pub. L. 101–625, §602(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “In the case of a project assisted under section 1715z–1 of this title or the proviso to section 1715<i>l</i>(d)(5) of this title, section 101 of the Housing and Urban Development Act of 1965, or section 1701q of this title where the owner has the right to prepay the mortgage covering the assisted project without the Secretary's approval, the Secretary shall give a priority for additional assistance under section 1437f of title 42 and section 201 of the Housing and Community Development Amendments of 1978 to tenants and applicants to become tenants of the project, if—
 
 &emsp;“(1) funds to provide such additional assistance are available; and
 
@@ -36,7 +36,7 @@ Subsecs. (c), (d). Pub. L. 101–625, §602(c), redesignated subsec. (d) as (c) 
 
 &emsp;“(3) maintain the low-income character of the project for a period at least equal to the remaining term of the project mortgage to the extent that assistance is provided.”
 
-1989—Subsec. (a). Pub. L. 101–235 inserted “or permit a termination of an insurance contract pursuant to section 1715t of this title” after second reference to “project”.
+<b>1989</b>—Subsec. (a). Pub. L. 101–235 inserted “or permit a termination of an insurance contract pursuant to section 1715t of this title” after second reference to “project”.
 
-1988—Subsec. (a)(1). Pub. L. 100–242 struck out “or that the needs of lower income families in such project can more efficiently and effectively be met through other Federal housing assistance taking into account the remaining time the project could meet such needs” after “families in the area”.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–242 struck out “or that the needs of lower income families in such project can more efficiently and effectively be met through other Federal housing assistance taking into account the remaining time the project could meet such needs” after “families in the area”.
 

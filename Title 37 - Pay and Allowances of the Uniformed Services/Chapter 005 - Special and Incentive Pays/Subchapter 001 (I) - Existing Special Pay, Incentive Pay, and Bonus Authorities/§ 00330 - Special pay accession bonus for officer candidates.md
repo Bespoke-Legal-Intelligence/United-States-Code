@@ -28,13 +28,15 @@ Repayment.—A person who, having received all or part of the bonus under a writ
 
 (f)
 
-Termination of Authority.—No agreement under this section may be entered into after December 31, 2011.
+Termination of Authority.—No agreement under this section may be entered into after December 31, 2012.
 
-(Added Pub. L. 109–364, div. A, title VI, §622(a)(1), Oct. 17, 2006, 120 Stat. 2255; amended Pub. L. 110–181, div. A, title VI, §614(g), Jan. 28, 2008, 122 Stat. 149; Pub. L. 110–417, \[div. A\], title VI, §614(g), Oct. 14, 2008, 122 Stat. 4485; Pub. L. 111–84, div. A, title VI, §615(8), Oct. 28, 2009, 123 Stat. 2354; Pub. L. 111–383, div. A, title VI, §615(8), Jan. 7, 2011, 124 Stat. 4237.)
+(Added Pub. L. 109–364, div. A, title VI, §622(a)(1), Oct. 17, 2006, 120 Stat. 2255; amended Pub. L. 110–181, div. A, title VI, §614(g), Jan. 28, 2008, 122 Stat. 149; Pub. L. 110–417, \[div. A\], title VI, §614(g), Oct. 14, 2008, 122 Stat. 4485; Pub. L. 111–84, div. A, title VI, §615(8), Oct. 28, 2009, 123 Stat. 2354; Pub. L. 111–383, div. A, title VI, §615(8), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §615(8), Dec. 31, 2011, 125 Stat. 1451.)
 
 #### Amendments
 
-<b>2011</b>—Subsec. (f). Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
+<b>2011</b>—Subsec. (f). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
+
+Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
 
 <b>2009</b>—Subsec. (f). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
 

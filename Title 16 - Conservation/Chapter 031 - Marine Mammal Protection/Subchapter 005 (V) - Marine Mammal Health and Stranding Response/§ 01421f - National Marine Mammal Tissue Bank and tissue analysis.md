@@ -50,7 +50,7 @@ The Secretary shall, in consultation with the Marine Mammal Commission, the Secr
 
 #### (d) Access
 
-The Secretary shall, in consultation with the Secretary of the Interior, establish criteria,after an opportunity for public review and comment, for access to—
+The Secretary shall, in consultation with the Secretary of the Interior, establish criteria, after an opportunity for public review and comment, for access to—
 
 &emsp;(1) marine mammal tissues in the Tissue Bank;
 

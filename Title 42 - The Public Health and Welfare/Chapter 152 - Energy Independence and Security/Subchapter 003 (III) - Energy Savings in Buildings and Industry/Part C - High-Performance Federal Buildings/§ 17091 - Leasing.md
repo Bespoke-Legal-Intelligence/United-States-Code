@@ -36,7 +36,7 @@ Except as provided in subsection (b), effective beginning on the date that is 3 
 
 #### Codification
 
-In subsec. (c)(1), “section 1121(b) and (c)(1) of title 41” substituted for “section 6(a) of the Office of FederalProcurement Policy Act (41 U.S.C. 405(a))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c)(1), “section 1121(b) and (c)(1) of title 41” substituted for “section 6(a) of the Office of Federal Procurement Policy Act (41 U.S.C. 405(a))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 In subsec. (c)(2), “section 1302(a) of title 41” substituted for “section 25 of the Office of Federal Procurement Policy Act (41 U.S.C. 421)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 

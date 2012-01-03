@@ -24,7 +24,7 @@
 
 (2) A veteran or eligible person undergoing a change from one program of education to another program of education as described in paragraph (1)(E) shall not be required to apply to the Secretary for approval of such change.
 
-(Added Pub. L. 92–540, title III, §316(2), Oct. 24, 1972, 86 Stat. 1089, §1791; amended Pub. L. 94–502, title V, §513(a)(20), Oct. 15, 1976, 90 Stat. 2403; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 101–366, title II, §208(a), Aug. 15, 1990, 104 Stat. 443; renumbered §3691, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §317, Oct. 29, 1992, 106 Stat. 4334; Pub. L. 110–389, title III, §324, Oct. 10, 2008, 122 Stat. 4168.)
+(Added Pub. L. 92–540, title III, §316(2), Oct. 24, 1972, 86 Stat. 1089, §1791; amended Pub. L. 94–502, title V, §513(a)(20), Oct. 15, 1976, 90 Stat. 2403; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 101–366, title II, §208(a), Aug. 15, 1990, 104 Stat. 443; renumbered §3691, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat.406; Pub. L. 102–568, title III, §317, Oct. 29, 1992, 106 Stat. 4334; Pub. L. 110–389, title III, §324, Oct. 10, 2008, 122 Stat. 4168.)
 
 #### Prior Provisions
 

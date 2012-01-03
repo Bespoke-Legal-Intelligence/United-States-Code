@@ -72,7 +72,7 @@ The Secretary shall have ultimate responsibility for, and oversight of, all aspe
 
 #### (6) Eligibility
 
-&emsp;To be eligible to be selected as the program consortium, an applicant must be an entity whose members have collectively demonstrated capabilities and experience in planning and managing research, development, demonstration, and commercial application programs for ultra-deepwater and unconventional natural gas or other petroleum exploration or production.
+&emsp;To be eligible to be selected as the program consortium, an applicant must be an entity whose members have collectively demonstrated capabilities and experience in planning and managing research, development,demonstration, and commercial application programs for ultra-deepwater and unconventional natural gas or other petroleum exploration or production.
 
 #### (7) Focus areas for awards
 

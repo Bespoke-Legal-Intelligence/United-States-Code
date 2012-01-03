@@ -2,7 +2,7 @@
 
 #### (a) Liability protection for teachers
 
-Except as provided in subsection (b) of this section, no teacher in a school shall be liable for harm caused by an act or omission of the teacher on behalf of the school if—
+Except as provided in subsection (b) of this section, no teacher in a school shall be liable forharm caused by an act or omission of the teacher on behalf of the school if—
 
 &emsp;(1) the teacher was acting within the scope of the teacher's employment or responsibilities to a school or governmental entity;
 
@@ -26,7 +26,7 @@ If the laws of a State limit teacher liability subject to one or more of the fol
 
 &emsp;(2) A State law that makes the school or governmental entity liable for the acts or omissions of its teachers to the same extent as an employer is liable for the acts or omissions of its employees.
 
-&emsp;ate <sup>1</sup> law that makes a limitation of liability inapplicable if the civil action was brought byan officer of a State or local government pursuant to State or local law.
+&emsp;ate <sup>1</sup> law that makes a limitation of liability inapplicable if the civil action was brought by an officer of a State or local government pursuant to State or local law.
 
 #### (c) Limitation on punitive damages based on the actions of teachers
 

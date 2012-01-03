@@ -140,21 +140,21 @@
 
 #### Amendments
 
-2009—Subsec. (b)(1)(F). Pub. L. 111–31, §104(a), added subpar. (F).
+<b>2009</b>—Subsec. (b)(1)(F). Pub. L. 111–31, §104(a), added subpar. (F).
 
 Subsec. (b)(5). Pub. L. 111–31, §104(b), added par. (5).
 
 Subsec. (d)(1). Pub. L. 111–31, §104(c), inserted “and options” after “investment funds”.
 
-1996—Subsec. (a). Pub. L. 104–208, §101(f) \[title VI, §659 \[title I, §102(1)\]\], added par. (5), redesignated former pars. (5) to (8) as (6) to (9), respectively, in par. (9) substituted “paragraph (8)(D)” for “paragraph (7)(D)” in two places, and added par. (10).
+<b>1996</b>—Subsec. (a). Pub. L. 104–208, §101(f) \[title VI, §659 \[title I, §102(1)\]\], added par. (5), redesignated former pars. (5) to (8) as (6) to (9), respectively, in par. (9) substituted “paragraph (8)(D)” for “paragraph (7)(D)” in two places, and added par. (10).
 
 Subsec. (b). Pub. L. 104–208, §101(f) \[title VI, §659 \[title I, §102(2)\]\], in par. (1) added subpars. (D) and (E) and added pars. (3) and (4).
 
 Subsec. (h)(1). Pub. L. 104–316 struck out “and the Comptroller General of the United States” before period at end.
 
-1992—Subsec. (a)(7)(B). Pub. L. 102–378 substituted “Deposit” for “Savings and Loan”.
+<b>1992</b>—Subsec. (a)(7)(B). Pub. L. 102–378 substituted “Deposit” for “Savings and Loan”.
 
-1990—Subsec. (b)(1)(A). Pub. L. 101–335, §3(a)(2), substituted “subsection (e)” for “subsection (f)”.
+<b>1990</b>—Subsec. (b)(1)(A). Pub. L. 101–335, §3(a)(2), substituted “subsection (e)” for “subsection (f)”.
 
 Subsec. (c)(1). Pub. L. 101–335, §3(a)(3), substituted “The” for “Subject to subsection (e), the”.
 
@@ -168,9 +168,9 @@ Subsec. (g). Pub. L. 101–335, §3(a)(1), (5), (6), redesignated subsec. (h) as
 
 Subsecs. (h), (i). Pub. L. 101–335, §3(a)(1), (7), redesignated subsec. (i) as (h) and substituted “subsection (g)” for “subsection (h)” in par. (1) and “subsection (e)” for “subsection (f)” in par. (2). Former subsec. (h) redesignated (g).
 
-1988—Subsec. (e)(3)(A). Pub. L. 100–366 struck out “and the earnings attributable to the investment of such sums” after “paragraph (1)”.
+<b>1988</b>—Subsec. (e)(3)(A). Pub. L. 100–366 struck out “and the earnings attributable to the investment of such sums” after “paragraph (1)”.
 
-1987—Subsecs. (h), (i). Pub. L. 100–43 added subsecs. (h) and (i).
+<b>1987</b>—Subsecs. (h), (i). Pub. L. 100–43 added subsecs. (h) and (i).
 
 #### Effective Date of 1996 Amendment
 

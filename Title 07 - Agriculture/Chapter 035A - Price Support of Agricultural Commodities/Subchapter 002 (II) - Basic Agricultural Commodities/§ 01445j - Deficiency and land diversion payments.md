@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;If the Secretary establishes an acreage limitation program for any of the 1991 through 1997 crops of wheat, feed grains, upland cotton, or rice under this Act and determines that deficiency payments will likely be made for the commodity for the crop, the Secretary shall make advance deficiency payments available to producers for each of the crops.
+&emsp;If the Secretary establishes an acreage limitation program for any of the 1991 through 1997 crops of wheat, feed grains, upland cotton, or rice under this Act and determines that deficiency payments will likely be made for the commodity for the crop, the Secretary shallmake advance deficiency payments available to producers for each of the crops.
 
 #### (2) Terms and conditions
 
@@ -16,7 +16,7 @@
 
 &emsp;&emsp;&emsp;(i) cash;
 
-&emsp;&emsp;&emsp;(ii) commodities owned by the Commodity Credit Corporation and certificates redeemable in a commodity owned by the Commodity Credit Corporation, exceptthat not more than 50 percent of the payments may be made in commodities or the certificates in the case of any producer; or
+&emsp;&emsp;&emsp;(ii) commodities owned by the Commodity Credit Corporation and certificates redeemable in a commodity owned by the Commodity Credit Corporation, except that not more than 50 percent of the payments may be made in commodities or the certificates in the case of any producer; or
 
 &emsp;&emsp;&emsp;(iii) any combination of clauses (i) and (ii).
 
@@ -88,7 +88,7 @@
 
 #### References in Text
 
-This Act, referred to in subsec. (a)(1), (2)(G), (H), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, known as the Agricultural Act of 1949, which is classified principally to this chapter (§1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+This Act, referred to in subsec. (a)(1), (2)(G), (H), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, known as the Agricultural Act of 1949, which is classified principally to this chapter (§1421 et seq.). For complete classification of this Act to the Code, see ShortTitle note set out under section 1421 of this title and Tables.
 
 #### Codification
 
@@ -96,25 +96,25 @@ Section was classified to section 1445b–2 of this title prior to its renumberi
 
 #### Amendments
 
-1996—Subsecs. (b), (c). Pub. L. 104–127 struck out subsecs. (b) and (c) which, in subsec. (b), related to land diversion payments to assist in adjusting total national acreage of any of 1991 through 1995 crops of wheat, feed grains, upland cotton, or rice to desirable levels, and, in subsec. (c), related to timing of deficiency payments made available to producers for any of 1991 through 1997 crops of wheat and feed grains.
+<b>1996</b>—Subsecs. (b), (c). Pub. L. 104–127 struck out subsecs. (b) and (c) which, in subsec. (b), related to land diversion payments to assist in adjusting total national acreage of any of 1991 through 1995 crops of wheat, feed grains, upland cotton, or rice to desirable levels, and, in subsec. (c), related to timing of deficiency payments made available to producers for any of 1991 through 1997 crops of wheat and feed grains.
 
-1993—Subsecs. (a)(1), (c). Pub. L. 103–66 substituted “1997” for “1995”.
+<b>1993</b>—Subsecs. (a)(1), (c). Pub. L. 103–66 substituted “1997” for “1995”.
 
-1991—Subsec. (c). Pub. L. 102–237, §109(1), substituted “section” for “sections” in introductory provisions.
+<b>1991</b>—Subsec. (c). Pub. L. 102–237, §109(1), substituted “section” for “sections” in introductory provisions.
 
 Subsec. (c)(2). Pub. L. 102–237, §109(3), added par. (2) and struck out former par. (2) which read as follows: “Seventy-five percent of the final projected deficiency payment for the crop, reduced by the amount of the advance, shall be made available as soon as practicable after the end of the first 5 months of the applicable marketing year.”
 
 Subsec. (c)(3), (4). Pub. L. 102–237, §109(2), (3), added par. (3) and redesignated former par. (3) as (4).
 
-1990—Pub. L. 101–624, §1121(a), amended section generally, substituting provisions relating to deficiency and land diversion payments for the 1991 through 1995 crops of wheat, feed grains, upland cotton, and rice for provisions relating to advance deficiency and diversion payments for the 1986 through 1990 crops of wheat, feed grains, upland cotton, and rice.
+<b>1990</b>—Pub. L. 101–624, §1121(a), amended section generally, substituting provisions relating to deficiency and land diversion payments for the 1991 through 1995 crops of wheat, feed grains, upland cotton, and rice for provisions relating to advance deficiency and diversion payments for the 1986 through 1990 crops of wheat, feed grains, upland cotton, and rice.
 
 Pub. L. 101–624, §1121(c), amended Pub. L. 99–198. See 1985 Amendment note below.
 
 Subsec. (c). Pub. L. 101–508 substituted “wheat and feed grains which payments are calculated as provided in sections 1445b–3a(c)(1)(B)(ii), 1445b–3a(p), or 1444f(c)(1)(B)(ii) of this title” for “wheat, feed grains, and rice which payments are calculated on the basis of the national weighted average market price (or, in the case of rice, the national average market price) for the marketing year for the crop”.
 
-1989—Subsec. (a)(2)(G). Pub. L. 101–239 temporarily inserted “(taking into consideration any reduction in the payment made under section 1433d of this title)” and substituted “amount finally” for “amount finallly”. See Effective and Termination Dates of 1989 Amendment note below.
+<b>1989</b>—Subsec. (a)(2)(G). Pub. L. 101–239 temporarily inserted “(taking into consideration any reduction in the payment made under section 1433d of this title)” and substituted “amount finally” for “amount finallly”. See Effective and Termination Dates of 1989 Amendment note below.
 
-1987—Subsec. (a)(1). Pub. L. 100–203, §1110(1), temporarily added par. (1) and struck out former par. (1) which read as follows: “If the Secretary establishes an acreage limitation or set-aside program for any of the 1986 through 1990 crops of wheat, feed grains, upland cotton, or rice under this Act and determines that deficiency payments will likely be made for such commodity for such crop, the Secretary—
+<b>1987</b>—Subsec. (a)(1). Pub. L. 100–203, §1110(1), temporarily added par. (1) and struck out former par. (1) which read as follows: “If the Secretary establishes an acreage limitation or set-aside program for any of the 1986 through 1990 crops of wheat, feed grains, upland cotton, or rice under this Act and determines that deficiency payments will likely be made for such commodity for such crop, the Secretary—
 
 &emsp;“(A) shall make advance deficiency payments available to producres \[sic\] who agree to participate in such program for the 1986 crop; and
 
@@ -124,7 +124,7 @@ Subsec. (c). Pub. L. 101–508 substituted “wheat and feed grains which paymen
 
 Subsec. (a)(2)(F)(iii). Pub. L. 100–203, §1110(2), temporarily added cl. (iii) and struck out former cl. (iii) which read as follows: “50 percent of the projected payment rate,”. See Effective and Termination Dates of 1987 Amendment note below.
 
-1985—Pub. L. 99–198, as amended by Pub. L. 101–624, §1121(c), amended section generally, substituting provisions relating to advance deficiency and diversion payments for the 1986 through 1990 crops of wheat, feed grains, upland cotton and rice for provisions relating to advance deficiency payments for the 1982 through 1985 crops of wheat, feed grains, upland cotton and rice.
+<b>1985</b>—Pub. L. 99–198, as amended by Pub. L. 101–624, §1121(c), amended section generally, substituting provisions relating to advance deficiency and diversion payments for the 1986 through 1990 crops of wheat, feed grains, upland cotton and rice for provisions relating to advance deficiency payments for the 1982 through 1985 crops of wheat, feed grains, upland cotton and rice.
 
 #### Effective Date of 1990 Amendments
 
@@ -184,7 +184,7 @@ To the public.—The Secretary shall publish in the Federal Register—
 
 &emsp;&emsp;“(B)
 
-To producers.—The Secretary shall make available to each producer of 1988 or 1989 crop barley, on request, a statement detailing the effect of the calculation of refunds described in paragraph (1) on the producer's 1988 or 1989 refund.
+To producers.—The Secretary shall make available to each producer of 1988 or 1989 crop barley, on request, a statement detailing the effect ofthe calculation of refunds described in paragraph (1) on the producer's 1988 or 1989 refund.
 
 “(b)
 
@@ -198,7 +198,7 @@ In general.—The Secretary may use the calculation described in subsection (a) 
 
 Procedure for use of calculation.—If the Secretary decides to use the calculation described in subsection (a) as provided under paragraph (1), in the case of a producer of 1988 or 1989 crop barley who paid the refund of the advance deficiency payment for the crop calculated prior to the date of enactment of this Act (or any amount of refund in excess of the amount of the refund determined in accordance with paragraph (1)), the Secretary—
 
-&emsp;&emsp;“(i) shall, before May 31, 1991, reimburse the producer the amount of refund paid by the producer inexcess of the refund determined in accordance with this section;
+&emsp;&emsp;“(i) shall, before May 31, 1991, reimburse the producer the amount of refund paid by the producer in excess of the refund determined in accordance with this section;
 
 &emsp;&emsp;“(ii) shall have the option to make the reimbursement in a lump sum or in installments;
 

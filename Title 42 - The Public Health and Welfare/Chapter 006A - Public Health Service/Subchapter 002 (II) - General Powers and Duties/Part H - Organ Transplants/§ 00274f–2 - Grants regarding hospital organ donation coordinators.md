@@ -42,7 +42,7 @@ The Secretary may not award a grant to a qualifying organ donation entity under 
 
 #### (g) Funding
 
-For the purpose of carrying out this section, there are authorized to be appropriated $3,000,000 for fiscal year 2005, and such sums as may be necessary for each of fiscal years 2006 through 2009.
+For the purpose of carrying out this section, there are authorized to be appropriated $3,000,000for fiscal year 2005, and such sums as may be necessary for each of fiscal years 2006 through 2009.
 
 (July 1, 1944, ch. 373, title III, §377B, as added Pub. L. 108–216, §4, Apr. 5, 2004, 118 Stat. 586.)
 

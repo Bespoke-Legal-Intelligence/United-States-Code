@@ -22,7 +22,7 @@ The Administrator shall conduct continuing evaluations of potential loss or shif
 
 #### (f) Occupational safety and health
 
-In order to assist the Secretary of Labor and the Director of the National Institute for Occupational Safety and Health in carrying out their duties under the Occupational Safety andHealth Act of 1970 \[29 U.S.C. 651 et seq.\], the Administrator shall—
+In order to assist the Secretary of Labor and the Director of the National Institute for Occupational Safety and Health in carrying out their duties under the Occupational Safety and Health Act of 1970 \[29 U.S.C. 651 et seq.\], the Administrator shall—
 
 &emsp;(1) provide the following information, as such information becomes available, to the Secretary and the Director:
 

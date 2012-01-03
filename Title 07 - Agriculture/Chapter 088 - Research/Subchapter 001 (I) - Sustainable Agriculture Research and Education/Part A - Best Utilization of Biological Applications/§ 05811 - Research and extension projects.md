@@ -96,7 +96,7 @@ The Secretary shall ensure that research projects conducted under this section a
 
 #### Amendments
 
-1996—Subsec. (c)(1). Pub. L. 104–127, §860(c)(2)(A), redesignated subpars. (B) to (E) as (A) to (D), respectively, and struck out former subpar. (A) which read as follows: “the recommendations of the Advisory Council;”.
+<b>1996</b>—Subsec. (c)(1). Pub. L. 104–127, §860(c)(2)(A), redesignated subpars. (B) to (E) as (A) to (D), respectively, and struck out former subpar. (A) which read as follows: “the recommendations of the Advisory Council;”.
 
 Subsec. (c)(2). Pub. L. 104–127, §860(c)(2)(B), redesignated subpars. (B) to (F) as (A) to (E), respectively, and struck out former subpar. (A) which read as follows: “are recommended by the Advisory Council;”.
 

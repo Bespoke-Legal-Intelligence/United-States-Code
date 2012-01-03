@@ -36,7 +36,7 @@ Pars. (5), (9). Pub. L. 111–90, §4(2), (3), substituted “and Stewart L. Uda
 
 Par. (6). Pub. L. 105–156, §2(3), added par. (6). Former par. (6) redesignated (7).
 
-Par. (7). Pub. L. 105–244, which directed the substitution of “section 1001” for “section 1141(a)” in par. (6),was executed by making the substitution in par. (7) to reflect the probable intent of Congress and the redesignation of par. (6) as (7) by Pub. L. 105–156, §2(1). See below.
+Par. (7). Pub. L. 105–244, which directed the substitution of “section 1001” for “section 1141(a)” in par. (6), was executed by making the substitution in par. (7) to reflect the probable intent of Congress and the redesignation of par. (6) as (7) by Pub. L. 105–156, §2(1). See below.
 
 Pub. L. 105–156, §2(1), (4), redesignated par. (6) as (7) and struck out “and” at end. Former par. (7) redesignated (8).
 

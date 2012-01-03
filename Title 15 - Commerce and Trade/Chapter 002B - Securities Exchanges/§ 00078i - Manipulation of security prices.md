@@ -6,25 +6,43 @@ It shall be unlawful for any person, directly or indirectly, by the use of the m
 
 &emsp;(1) For the purpose of creating a false or misleading appearance of active trading in any security other than a government security, or a false or misleading appearance with respect to the market for any such security, (A) to effect any transaction in such security which involves no change in the beneficial ownership thereof, or (B) to enter an order or orders for the purchase of such security with the knowledge that an order or orders of substantially the same size, at substantially the same time, and at substantially the same price, for the sale of any such security, has been or will be entered by or for the same or different parties, or (C) to enter any order or orders for the sale of any such security with the knowledge that an order or orders of substantially the same size, at substantially the same time, and at substantially the same price, for the purchase of such security, has been or will be entered by or for the same or different parties.
 
-&emsp;(2) To effect, alone or with one or more other persons, a series of transactions in any security other than a government security or in connection with any security-based swap agreement (as defined in section 206B of the Gramm-Leach-Bliley Act) with respect to such security creating actual or apparent active trading in such security, or raising or depressing the price of such security, for the purpose of inducing the purchase or sale of such security by others.
+&emsp;(2) To effect, alone or with 1 or more other persons, a series of transactions in any security registered on a national securities exchange, any security not so registered, or in connection with any security-based swap or security-based swap agreement with respect to such security creating actual or apparent active trading in such security, or raising or depressing the price of such security, for the purpose of inducing the purchase or sale of such security by others.
 
-&emsp;(3) If a dealer or broker, or other person selling or offering for sale or purchasing or offering to purchase the security or a security-based swap agreement (as defined in section 206B of the Gramm-Leach-Bliley Act) with respect to such security, to induce the purchase or sale of any security other than a government security or any security-based swap agreement (as defined in section 206B of theGramm-Leach-Bliley Act) with respect to such security by the circulation or dissemination in the ordinary course of business of information to the effect that the price of any such security will or is likely to rise or fall because of market operations of any one or more persons conducted for the purpose of raising or depressing the price of such security.
+&emsp;(3) If a dealer, broker, security-based swap dealer, major security-based swap participant, or other person selling or offering for sale or purchasing or offering to purchase the security, a security-based swap, or a security-based swap agreement with respect to such security, to induce the purchase or sale of any security registered on a national securities exchange, any security not so registered, any security-based swap, or any security-based swap agreement with respect to such security by the circulation or dissemination in the ordinary course of business of information to the effect that the price of any such security will or is likely to rise or fall because of market operations of any 1 or more persons conducted for the purpose of raising or depressing the price of such security.
 
-&emsp;(4) If a dealer or broker, or the person selling or offering for sale or purchasing or offering to purchase the security or a security-based swap agreement (as defined in section 206B of the Gramm-Leach-Bliley Act) with respect to such security, to make, regarding any security other than a government security or any security-based swap agreement (as defined in section 206B of the Gramm-Leach-Bliley Act) with respect to such security, for the purpose of inducing the purchase or sale of such security or such security-based swap agreement, any statement which was at the time and in the light of the circumstances under which it was made, false or misleading with respect to any material fact, and which he knew or had reasonable ground to believe was so false or misleading.
+&emsp;(4) If a dealer, broker, security-based swap dealer, major security-based swap participant, or other person selling or offering for sale or purchasing or offering to purchase the security, a security-based swap, or security-based swap agreement with respect to such security, to make, regarding any security registered on a national securities exchange, any security not so registered, any security-based swap, or any security-based swap agreement with respect to such security, for the purpose of inducing the purchase or sale of such security, such security-based swap, or such security-based swap agreement any statement which was at the time and in the light of the circumstances under which it was made, false or misleading with respect to any material fact, and which that person knew or had reasonable ground to believe was so false or misleading.
 
-&emsp;(5) For a consideration, received directly or indirectly from a dealer or broker, or other person selling or offering for sale or purchasing or offering to purchase the security or a security-based swap agreement (as defined in section 206B of the Gramm-Leach-Bliley Act) with respect to such security, to induce the purchase of any security other than a government security or any security-based swap agreement (as defined in section 206B of the Gramm-Leach-Bliley Act) with respect to such security by the circulation or dissemination of information to the effect that the price of any such security will or is likely to rise or fall because of the market operations of any one or more persons conducted for the purpose of raising or depressing the price of such security.
+&emsp;(5) For a consideration, received directly or indirectly from a broker, dealer, security-based swap dealer, major security-based swap participant, or other person selling or offering for sale or purchasing or offering to purchase the security, a security-based swap, or security-based swap agreement with respect to such security, to induce the purchase of any security registered on a national securities exchange, any security not so registered, any security-based swap, or any security-based swap agreement with respect to such security by the circulation or dissemination of information to the effect that the price of any such security will or is likely to rise or fall because of the market operations of any 1 or more persons conducted for the purpose of raising or depressing the price of such security.
 
 &emsp;(6) To effect either alone or with one or more other persons any series of transactions for the purchase and/or sale of any security other than a government security for the purpose of pegging, fixing, or stabilizing the price of such security in contravention of such rules and regulations as the Commission may prescribe as necessary or appropriate in the public interest or for the protection of investors.
 
-#### (b) Transactions relating to puts, calls, straddles, or options
+#### (b) Transactions relating to puts, calls, straddles, options, futures, or security-based swaps
 
 It shall be unlawful for any person to effect, in contravention of such rules and regulations as the Commission may prescribe as necessary or appropriate in the public interest or for the protection of investors—
 
-&emsp;(1) any transaction in connection with any security whereby any party to such transaction acquires (A) any put, call, straddle, or other option or privilege of buying the security from or selling the security to another without being bound to do so; or (B) any security futures product on the security; or
+&emsp;(1) any transaction in connection with any security whereby any party to such transaction acquires—
 
-&emsp;(2) any transaction in connection with any security with relation to which he has, directly or indirectly, any interest in any (A) such put, call, straddle, option, or privilege; or (B) such security futures product; or
+&emsp;&emsp;(A) any put, call, straddle, or other option or privilege of buying the security from or selling the security to another without being bound to do so;
 
-&emsp;(3) any transaction in any security for the account of any person who he has reason to believe has, and who actually has, directly or indirectly, any interest in any (A) such put, call, straddle, option, or privilege; or (B) such security futures product with relation to such security.
+&emsp;&emsp;(B) any security futures product on the security; or
+
+&emsp;&emsp;(C) any security-based swap involving the security or the issuer of the security;
+
+&emsp;(2) any transaction in connection with any security with relation to which such person has, directly or indirectly, any interest in any—
+
+&emsp;&emsp;(A) such put, call, straddle, option, or privilege;
+
+&emsp;&emsp;(B) such security futures product; or
+
+&emsp;&emsp;(C) such security-based swap; or
+
+&emsp;(3) any transaction in any security for the account of any person who such person has reason to believe has, and who actually has, directly or indirectly, any interest in any—
+
+&emsp;&emsp;(A) such put, call, straddle, option, or privilege;
+
+&emsp;&emsp;(B) such security futures product with relation to such security; or
+
+&emsp;&emsp;(C) any security-based swap involving such security or the issuer of such security.
 
 #### (c) Endorsement or guarantee of puts, calls, straddles, or options
 
@@ -48,7 +66,7 @@ The provisions of subsection (a) of this section shall not apply to an exempted 
 
 #### (h) Foreign currencies and security futures products
 
-(1) Notwithstanding any other provision of law, the Commission shall have the authority to regulate the trading of any put, call, straddle, option, or privilege on any security, certificate of deposit, or group or index of securities (including any interest therein or based on the value thereof), or any put, call, straddle, option, or privilege entered into on a national securities exchange relating to foreign currency (but not, with respect to any of the foregoing, an option on a contract for future delivery other than a security futures product).
+(1) Notwithstanding any other provision of law, the Commission shall have the authority toregulate the trading of any put, call, straddle, option, or privilege on any security, certificate of deposit, or group or index of securities (including any interest therein or based on the value thereof), or any put, call, straddle, option, or privilege entered into on a national securities exchange relating to foreign currency (but not, with respect to any of the foregoing, an option on a contract for future delivery other than a security futures product).
 
 (2) Notwithstanding the Commodity Exchange Act \[7 U.S.C. 1 et seq.\], the Commission shall have the authority to regulate the trading of any security futures product to the extent provided in the securities laws.
 
@@ -62,63 +80,21 @@ It shall be unlawful for any person, by the use of the mails or any means or ins
 
 > In adopting rules under paragraph (2), the Commission shall, consistent with the purposes of this subsection, minimize the impact on the normal operations of the market and a natural person's freedom to buy or sell any equity security.
 
-#### (j) Limitation on Commission authority
+#### (j) <sup>1</sup> Limitation on Commission authority
 
-The authority of the Commission under this section with respect to security-based swap agreements (as defined in section 206B of the Gramm-Leach-Bliley Act) shall be subject to the restrictions and limitations of section 78c–1(b) of this title.
+The authority of the Commission under this section with respect to security-based swap agreements shall be subject to the restrictions and limitations of section 78c–1(b) of this title.
+
+#### (j) <sup>1</sup> Regulations relating to security-based swaps
+
+It shall be unlawful for any person, directly or indirectly, by the use of any means or instrumentality of interstate commerce or of the mails, or of any facility of any national securities exchange, to effect any transaction in, or to induce or attempt to induce the purchase or sale of, any security-based swap, in connection with which such person engages in any fraudulent, deceptive, or manipulative act or practice, makes any fictitious quotation, or engages in any transaction, practice, or course of business which operates as a fraud or deceit upon any person. The Commission shall, for the purposes of this subsection, by rules and regulations define, and prescribe means reasonably designed to prevent, such transactions, acts, practices, and courses of business as are fraudulent, deceptive, or manipulative, and such quotations as are fictitious.
 
 (June 6, 1934, ch. 404, title I, §9, 48 Stat. 889; Pub. L. 97–303, §3, Oct. 13, 1982, 96 Stat. 1409; Pub. L. 101–432, §6(a), Oct. 16, 1990, 104 Stat. 975; Pub. L. 106–554, §1(a)(5) \[title II, §205(a)(1), (2), title III, §303(b), (c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–425, 2763A–426, 2763A–453, 2763A–454; Pub. L. 111–203, title VII, §§762(d)(2), 763(f), (g), title IX, §§929L(1), 929X(b), July 21, 2010, 124 Stat. 1760, 1777, 1861, 1870.)
 
 #### Amendment of Section
 
-<i>Pub. L. 111–203, title VII, §§762(d)(2), 763(f), (g), 774, July 21, 2010, 124 Stat. 1760, 1777, 1802, provided that, effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B (§§761–774) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, this section is amended as follows:</i>
-
-<i>(1) in subsection (a), by striking paragraphs (2) through (5) and inserting the following:</i>
-
-&emsp;<i>“(2) To effect, alone or with 1 or more other persons, a series of transactions in any security registered on a national securities exchange, any security not so registered, or in connection with any security-based swap or security-based swap agreement with respect to such security creating actual or apparent active trading in such security, or raising or depressing the price of such security, for the purpose of inducing the purchase or sale of such security by others.</i>
-
-&emsp;<i>“(3) If a dealer, broker, security-based swap dealer, major security-based swap participant, or other person selling or offering for sale or purchasing or offering to purchase the security, a security-based swap, or a security-based swap agreement with respect to such security, to induce the purchase or sale of any security registered on a national securities exchange, any security not so registered, any security-based swap, or any security-based swap agreement with respect to such security by the circulation or dissemination in the ordinary course of business of information to the effect that the price of any such security will or is likely to rise or fall because of market operations of any 1 or more persons conducted for the purpose of raising or depressing the price of such security.</i>
-
-&emsp;<i>“(4) If a dealer, broker, security-based swap dealer, major security-based swap participant, or other person selling or offering for sale or purchasing or offering to purchase the security, a security-based swap, or security-based swap agreement with respect to such security, to make, regarding any security registered on a national securities exchange, any security not so registered, any security-based swap, or any security-based swap agreement with respect to such security, for the purpose of inducing the purchase or sale of such security, such security-based swap, or such security-based swap agreement any statement which was at the time and in the light of the circumstances under which it was made, false or misleading with respect to any material fact, and which that person knew or had reasonable ground to believe was so false or misleading.</i>
-
-&emsp;<i>“(5) For a consideration, received directly or indirectly from a broker, dealer, security-based swap dealer, major security-based swap participant, or other person selling or offering for sale or purchasing or offering to purchase the security, a security-based swap, or security-based swap agreement with respect to such security, to induce the purchase of any security registered on a national securities exchange, any security not so registered, any security-based swap, or any security-based swap agreement with respect to such</i><i>security by the circulation or dissemination of information to the effect that the price of any such security will or is likely to rise or fall because of the market operations of any 1 or more persons conducted for the purpose of raising or depressing the price of such security.”;</i>
-
-<i>(2) in subsection (b), by striking paragraphs (1) through (3) and inserting the following:</i>
-
-&emsp;<i>“(1) any transaction in connection with any security whereby any party to such transaction acquires—</i>
-
-&emsp;&emsp;<i>“(A) any put, call, straddle, or other option or privilege of buying the security from or selling the security to another without being bound to do so;</i>
-
-&emsp;&emsp;<i>“(B) any security futures product on the security; or</i>
-
-&emsp;&emsp;<i>“(C) any security-based swap involving the security or the issuer of the security;</i>
-
-&emsp;<i>“(2) any transaction in connection with any security with relation to which such person has, directly or indirectly, any interest in any—</i>
-
-&emsp;&emsp;<i>“(A) such put, call, straddle, option, or privilege;</i>
-
-&emsp;&emsp;<i>“(B) such security futures product; or</i>
-
-&emsp;&emsp;<i>“(C) such security-based swap; or</i>
-
-&emsp;<i>“(3) any transaction in any security for the account of any person who such person has reason to believe has, and who actually has, directly or indirectly, any interest in any—</i>
-
-&emsp;&emsp;<i>“(A) such put, call, straddle, option, or privilege;</i>
-
-&emsp;&emsp;<i>“(B) such security futures product with relation to such security; or</i>
-
-&emsp;&emsp;<i>“(C) any security-based swap involving such security or the issuer of such security.”;</i>
-
-<i>(3) in subsection (i), by striking “(as defined in section 206B of the Gramm-Leach-Bliley Act)”; and</i>
-
-<i>(4) by adding at the end the following:</i>
-
-#### <i>(j) Regulations relating to security-based swaps</i>
-
-<i>It shall be unlawful for any person, directly or indirectly, by the use of any means or instrumentality of interstate commerce or of the mails, or of any facility of any national securities exchange, to effect any transaction in, or to induce or attempt to induce the purchase or sale of, any security-based swap, in connection with which such person engages in any fraudulent, deceptive, or manipulative act or practice, makes any fictitious quotation, or engages in any transaction, practice, or course of business which operates as a fraud or deceit upon any person. The Commission shall, for the purposes of this subsection, by rules and regulations define, and prescribe means reasonably designed to prevent, such transactions, acts, practices, and courses of business as are fraudulent, deceptive, or manipulative, and such quotations as are fictitious.</i>
+<i>Unless otherwise provided, amendment by subtitle B (§§761–774) of title VII of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see 2010 Amendment notes and Effective Date of 2010 Amendment note below.</i>
 
 #### References in Text
-
-Section 206B of the Gramm-Leach-Bliley Act, referred to in subsecs. (a)(2) to (5) and (j), is section 206B of Pub. L. 106–102, which is set out in a note under section 78c of this title.
 
 The Commodity Exchange Act, referred to in subsec. (h)(2), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
@@ -126,13 +102,29 @@ The Commodity Exchange Act, referred to in subsec. (h)(2), is act Sept. 21, 1922
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–203, §929L(1)(A), substituted “other than a government security” for “registered on a national securities exchange” wherever appearing.
 
+Subsec. (a)(2) to (5). Pub. L. 111–203, §762(d)(2)(A), added pars. (2) to (5) and struck out former pars. (2) to (5) which prohibited certain actions in the purchase or sale of a security or a security-based swap agreement, such as making false or misleading statements or creating conditions to raise or depress the price of such security.
+
 Subsec. (b). Pub. L. 111–203, §929L(1)(B), struck out “by use of any facility of a national securities exchange,” after “effect,” in introductory provisions.
+
+Subsec. (b)(1) to (3). Pub. L. 111–203, §763(f), added pars. (1) to (3) and struck out former pars. (1) to (3) which read as follows:
+
+“(1) any transaction in connection with any security whereby any party to such transaction acquires (A) any put, call, straddle, or other option or privilege of buying the security from or selling the security to another without being bound to do so; or (B) any security futures product on the security; or
+
+“(2) any transaction in connection with any security with relation to which he has, directly or indirectly, any interest in any (A) such put, call, straddle, option, or privilege; or (B) such security futures product; or
+
+“(3) any transaction in any security for the account of any person who he has reason to believe has, and who actually has, directly or indirectly, any interest in any (A) such put, call, straddle, option, or privilege; or (B) such security futures product with relation to such security.”
 
 Subsec. (c). Pub. L. 111–203, §929L(1)(C), inserted “broker, dealer, or” after “unlawful for any”.
 
 Pub. L. 111–203, §929L(1)(A), substituted “other than a government security” for “registered on a national securities exchange”.
 
-Subsecs. (d) to (j). Pub. L. 111–203, §929X(b), added subsec. (d) and redesignated former subsecs. (d) to (i) as (e) to (j), respectively.
+Subsecs. (d) to (i). Pub. L. 111–203, §929X(b), added subsec. (d) and redesignated former subsecs. (d) to (h) as (e) to (i), respectively. Former subsec. (i), relating to limitation on Commission authority, redesignated (j).
+
+Subsec. (j). Pub. L. 111–203, §929X(b)(1), redesignated subsec. (i), relating to limitation on Commission authority, as (j).
+
+Pub. L. 111–203, §763(g), added subsec. (j) relating to regulations relating to security-based swaps.
+
+Pub. L. 111–203, §762(d)(2)(B), which directed amendment of subsec. (i) by striking out “(as defined in section 206B of the Gramm-Leach-Bliley Act)”, was executed by making the strike out after “security-based swap agreements” in subsec. (j) relating to limitation on Commission authority, to reflect the probable intent of Congress and the redesignation of subsec. (i) as (j) by Pub. L. 111–203, §929X(b)(1). See above and Effective Date of 2010 Amendment notes below.
 
 <b>2000</b>—Subsec. (a)(2) to (5). Pub. L. 106–554, §1(a)(5) \[title III, §303(b)\], amended pars. (2) to (5) generally. Prior to amendment, pars. (2) to (5) read as follows:
 
@@ -169,4 +161,6 @@ Amendment by sections 762(d)(2) and 763(f), (g) of Pub. L. 111–203 effective o
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+
+<i><sup>1</sup></i><i> So in original. Two subsecs. (j) have been enacted.</i>
 

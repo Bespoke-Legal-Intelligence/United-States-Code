@@ -74,7 +74,7 @@ In the case of any hearing conducted under this section—
 
 #### (B) Underlying liability
 
-&emsp;&emsp;The person may also raise at the hearing challenges to the existence or amount of the underlying tax liability for any tax period if the person did not receive any statutory notice of deficiency for such tax liability or did not otherwise have an opportunity to dispute such tax liability.
+&emsp;&emsp;The person may also raise at the hearing challenges to the existence or amount of the underlying tax liability for any tax period if the person did not receive any statutory notice of deficiency for such tax liability or didnot otherwise have an opportunity to dispute such tax liability.
 
 #### (3) Basis for the determination
 
@@ -152,7 +152,7 @@ For purposes of subsection (f)—
 
 &emsp;A Federal contractor levy is any levy if the person whose property is subject to the levy (or any predecessor thereof) is a Federal contractor.
 
-(Added Pub. L. 105–206, title III, §3401(b), July 22, 1998, 112 Stat. 747; amended Pub. L. 106–554, §1(a)(7) \[title III, §313(b)(2)(A), (d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–642, 2763A–643; Pub. L. 109–280, title VIII, §855(a), Aug. 17, 2006, 120 Stat. 1019; Pub. L. 109–432, div. A, title IV, §407(b), Dec. 20, 2006, 120 Stat. 2961; Pub. L. 110–28, title VIII, §8243(a), (b), May 25, 2007, 121 Stat. 200; Pub. L. 111–240, title II, §2104(a)–(c), Sept. 27, 2010, 124 Stat. 2565.)
+(Added Pub. L. 105–206, title III, §3401(b), July 22, 1998, 112 Stat. 747; amended Pub. L. 106–554, §1(a)(7) \[title III, §313(b)(2)(A), (d)\], Dec. 21, 2000,114 Stat. 2763, 2763A–642, 2763A–643; Pub. L. 109–280, title VIII, §855(a), Aug. 17, 2006, 120 Stat. 1019; Pub. L. 109–432, div. A, title IV, §407(b), Dec. 20, 2006, 120 Stat. 2961; Pub. L. 110–28, title VIII, §8243(a), (b), May 25, 2007, 121 Stat. 200; Pub. L. 111–240, title II, §2104(a)–(c), Sept. 27, 2010, 124 Stat. 2565.)
 
 #### Amendments
 
@@ -194,7 +194,7 @@ Pub. L. 110–28, title VIII, §8243(c), May 25, 2007, 121 Stat. 200, provided t
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–432 applicable to submissions made and issues raised after the date on whichthe Secretary first prescribes a list under section 6702(c) of this title, see section 407(f) of Pub. L. 109–432, set out as a note under section 6320 of this title.
+Amendment by Pub. L. 109–432 applicable to submissions made and issues raised after the date on which the Secretary first prescribes a list under section 6702(c) of this title, see section 407(f) of Pub. L. 109–432, set out as a note under section 6320 of this title.
 
 Pub. L. 109–280, title VIII, §855(b), Aug. 17, 2006, 120 Stat. 1019, provided that: “The amendment made by this section \[amending this section\] shall apply to determinations made after the date which is 60 days after the date of the enactment of this Act \[Aug. 17, 2006\].”
 

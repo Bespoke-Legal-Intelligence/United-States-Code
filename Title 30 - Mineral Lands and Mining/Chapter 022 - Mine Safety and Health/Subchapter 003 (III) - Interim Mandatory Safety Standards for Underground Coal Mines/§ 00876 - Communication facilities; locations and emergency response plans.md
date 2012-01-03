@@ -14,7 +14,7 @@ Telephone service or equivalent two-way communication facilities, approved by th
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 60 days after June 15, 2006, each underground coal mine operator shall develop and adopt a written accident response plan that complies with this subsection with respect to each mine of the operator, and periodically update such plans to reflect changes in operations in the mine, advances in technology, or other relevant considerations. Each such operator shall make the accident response plan available to the miners and the miners’ representatives.
+&emsp;&emsp;Not later than 60 days after June 15, 2006, each underground coal mine operator shalldevelop and adopt a written accident response plan that complies with this subsection with respect to each mine of the operator, and periodically update such plans to reflect changes in operations in the mine, advances in technology, or other relevant considerations. Each such operator shall make the accident response plan available to the miners and the miners’ representatives.
 
 #### (B) Plan requirements
 
@@ -80,7 +80,7 @@ Telephone service or equivalent two-way communication facilities, approved by th
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In addition to the content requirements contained in subparagraph (E), and subject to the considerations contained in subparagraph (C), the Secretary may make additional plan requirements with respect to any of the content matters.
+&emsp;&emsp;&emsp;In addition to the content requirements contained in subparagraph (E), and subject to the considerations contained in subparagraph (C), the Secretary may makeadditional plan requirements with respect to any of the content matters.
 
 #### (ii) Post accident communications
 
@@ -94,7 +94,7 @@ Telephone service or equivalent two-way communication facilities, approved by th
 
 #### (ii) Disputes
 
-&emsp;&emsp;&emsp;In the event of a dispute or refusal described in clause (i), the Secretary shallissue a citation which shall be immediately referred to a Commission Administrative Law Judge. The Secretary and the operator shall submit all relevant material regarding the dispute to the Administrative Law Judge within 15 days of the date of the referral. The Administrative Law Judge shall render his or her decision with respect to the plan content dispute within 15 days of the receipt of the submission.
+&emsp;&emsp;&emsp;In the event of a dispute or refusal described in clause (i), the Secretary shall issue a citation which shall be immediately referred to a Commission Administrative Law Judge. The Secretary and the operator shall submit all relevant material regarding the dispute to the Administrative Law Judge within 15 days of the date of the referral. The Administrative Law Judge shall render his or her decision with respect to the plan content dispute within 15 days of the receipt of the submission.
 
 #### (iii) Further appeals
 

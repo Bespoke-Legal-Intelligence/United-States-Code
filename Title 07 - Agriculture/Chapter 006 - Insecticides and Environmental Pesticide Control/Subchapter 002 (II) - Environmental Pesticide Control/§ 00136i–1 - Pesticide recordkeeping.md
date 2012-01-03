@@ -8,7 +8,7 @@
 
 #### (b) Access
 
-Records maintained under subsection (a) of this section shall be made available to any Federal or State agency that deals with pesticide use or any health or environmental issue relatedto the use of pesticides, on the request of such agency. Each such Federal agency shall conduct surveys and record the data from individual applicators to facilitate statistical analysis for environmental and agronomic purposes, but in no case may a government agency release data, including the location from which the data was derived, that would directly or indirectly reveal the identity of individual producers. In the case of Federal agencies, such access to records maintained under subsection (a) of this section shall be through the Secretary of Agriculture, or the Secretary's designee. State agency requests for access to records maintained under subsection (a) of this section shall be through the lead State agency so designated by the State.
+Records maintained under subsection (a) of this section shall be made available to any Federal or State agency that deals with pesticide use or any health or environmental issue related to the use of pesticides, on the request of such agency. Each such Federal agency shall conduct surveys and record the data from individual applicators to facilitate statistical analysis for environmental and agronomic purposes, but in no case may a government agency release data, including the location from which the data was derived, that would directly or indirectly reveal the identity of individual producers. In the case of Federal agencies, such access to records maintained under subsection (a) of this section shall be through the Secretary of Agriculture, or the Secretary's designee. State agency requests for access to records maintained under subsection (a) of this section shall be through the lead State agency so designated by the State.
 
 #### (c) Health care personnel
 
@@ -28,7 +28,7 @@ The requirements of this section shall not affect provisions of other Federal or
 
 #### (f) Surveys and reports
 
-The Secretary of Agriculture and the Administrator of the Environmental Protection Agency, shall survey the records maintained under subsection (a) of this section to develop and maintain a data base that is sufficient to enable the Secretary and the Administrator to publish annual comprehensive reports concerning agricultural and nonagricultural pesticide use. The Secretary and Administrator shall enter into a memorandum of understanding to define their respective responsibilities under this subsection in order to avoid duplication of effort. Such reports shall be transmitted to Congress not later than April 1 of each year.
+The Secretary of Agriculture and the Administrator of the Environmental Protection Agency,shall survey the records maintained under subsection (a) of this section to develop and maintain a data base that is sufficient to enable the Secretary and the Administrator to publish annual comprehensive reports concerning agricultural and nonagricultural pesticide use. The Secretary and Administrator shall enter into a memorandum of understanding to define their respective responsibilities under this subsection in order to avoid duplication of effort. Such reports shall be transmitted to Congress not later than April 1 of each year.
 
 #### (g) Regulations
 
@@ -42,7 +42,7 @@ Section was enacted as part of the Conservation Program Improvements Act, and al
 
 #### Amendments
 
-1991—Subsec. (a)(1). Pub. L. 102–237, §1006(d)(1), inserted closing parenthesis after “section 136a(d)(1)(C) of this title”.
+<b>1991</b>—Subsec. (a)(1). Pub. L. 102–237, §1006(d)(1), inserted closing parenthesis after “section 136a(d)(1)(C) of this title”.
 
 Subsec. (d)(1). Pub. L. 102–237, §1006(d)(2), inserted “of” after “fine”.
 

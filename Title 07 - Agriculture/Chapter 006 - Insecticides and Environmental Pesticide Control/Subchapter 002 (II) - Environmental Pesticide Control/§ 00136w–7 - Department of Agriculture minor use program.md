@@ -18,7 +18,7 @@ The Secretary of Agriculture (hereinafter in this section referred to as the “
 
 #### (A) Grant authority
 
-&emsp;&emsp;The Secretary, in consultation with the Administrator, shall establish a program to make grants for the development of data to support minor use pesticide registrations and reregistrations. The amount of any such grant shall not exceed 1/2 of the cost of the project for which the grant is made.
+&emsp;&emsp;The Secretary, in consultation with the Administrator, shall establish a program to make grants for the development of data to support minor use pesticide registrations and reregistrations. The amount of any such grant shall not exceed ½ of the cost of the project for which the grant is made.
 
 #### (B) Applicants
 
@@ -50,7 +50,7 @@ The Secretary of Agriculture (hereinafter in this section referred to as the “
 
 #### References in Text
 
-Section 1651 of the Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subsec. (a)(1), wasclassified to section 5882 of this title prior to repeal by Pub. L. 104–127, title VIII, §862(a), Apr. 4, 1996, 110 Stat. 1174.
+Section 1651 of the Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subsec. (a)(1), was classified to section 5882 of this title prior to repeal by Pub. L. 104–127, title VIII, §862(a), Apr. 4, 1996, 110 Stat. 1174.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

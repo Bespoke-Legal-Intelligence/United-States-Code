@@ -8,11 +8,11 @@ In furtherance of the purposes of this chapter, the President may—
 
 &emsp;(2) assign volunteers in special cases to temporary duty with international organizations and agencies when the Secretary of State determines that such assignment would serve the purposes of this chapter;
 
-&emsp;(3) assign volunteers to duty or otherwise make them available to any entity referred to in paragraph (1), in order to assist such organizations and agencies in providing development or other relief assistance to displaced persons and refugees in any country, if the government of the country agrees to such assignment;
+&emsp;(3) assign volunteers to duty or otherwise make them available to any entity referred toin paragraph (1), in order to assist such organizations and agencies in providing development or other relief assistance to displaced persons and refugees in any country, if the government of the country agrees to such assignment;
 
 &emsp;(4) accept in the name of the Peace Corps and employ or transfer in furtherance of the purposes of this chapter (A) voluntary services notwithstanding the provisions of section 1342 of title 31, and (B) any money or property (real, personal or mixed, tangible or intangible) received by gift, devise, bequest, or otherwise; and
 
-&emsp;(5) contract with individuals for personal services abroad, and with aliens (abroad or within the United States) for personal services within the United States: <i>Provided</i>, That no such person shall be deemed an officer or employee or otherwise in the service or employment of the United States Government for any purpose.
+&emsp;(5) contract with individuals for personal services abroad, and with aliens (abroad or within the United States) for personal services within the United States: <i>Provided</i>, That no such person shall be deemed an officer or employee or otherwise in the service or employment of the United States Government for the purposes of any law administered by the Office of Personnel Management (except that the President may determine the applicability to such individuals of provisions of the Foreign Service Act of 1980 (22 U.S.C. 3901 et seq.)).
 
 #### (b) Claim settlements
 
@@ -36,7 +36,7 @@ Any officer of the United States Government carrying out functions under this ch
 
 #### (g) Reimbursement for commodities, services, and facilities
 
-In the case of any commodity, service, or facility procured from any agency of the United States Government under this chapter, reimbursement or payment shall be made to such agency from funds available under this chapter. Such reimbursement or payment shall be at replacement cost, or, if required by law, at actual cost, or at any other price authorized by law and agreed to by the owning or disposing agency. The amount of any such reimbursement or payment shall be credited to current applicable appropriations, funds, or accounts from which there may be procured replacements of similarcommodities, services, or facilities, except that where such appropriations, funds, or accounts are not reimbursable except by reason of this subsection, and when the owning or disposing agency determines that such replacement is not necessary, any funds received in payment therefor shall be covered into the Treasury as miscellaneous receipts.
+In the case of any commodity, service, or facility procured from any agency of the United States Government under this chapter, reimbursement or payment shall be made to such agency from funds available under this chapter. Such reimbursement or payment shall be at replacement cost, or, if required by law, at actual cost, or at any other price authorized by law and agreed to by the owning or disposing agency. The amount of any such reimbursement or payment shall be credited to current applicable appropriations, funds, or accounts from which there may be procured replacements of similar commodities, services, or facilities, except that where such appropriations, funds, or accounts are not reimbursable except by reason of this subsection, and when the owning or disposing agency determines that such replacement is not necessary, any funds received in payment therefor shall be covered into the Treasury as miscellaneous receipts.
 
 #### (h) Hospitalization and medical treatment for Foreign Service local employees
 
@@ -44,17 +44,19 @@ The President may provide hospitalization and medical treatment to Foreign Servi
 
 #### (i) Procurement of legal services
 
-The Director of the Peace Corps shall have the same authority as is available to the Secretary of State under section 2698(a) of this title. For purposes of this subsection, the reference in such section 2698(a) of this title to a principal officer of the Foreign Service shall be deemed to be a reference to a Peace Corps representative and the reference in such section to a member of the Foreign Service shall be deemed to be a reference to a person employed, appointed, or assigned under this chapter.
+The Director of the Peace Corps shall have the same authority as is available to the Secretaryof State under section 2698(a) of this title. For purposes of this subsection, the reference in such section 2698(a) of this title to a principal officer of the Foreign Service shall be deemed to be a reference to a Peace Corps representative and the reference in such section to a member of the Foreign Service shall be deemed to be a reference to a person employed, appointed, or assigned under this chapter.
 
 #### (j) Malpractice protection
 
 The provisions of section 2702 of this title shall apply to volunteers and persons employed, appointed, or assigned under this chapter, and to individuals employed under personal services contracts to furnish medical services abroad pursuant to subsection (a)(5) of this section..<sup>1</sup> For purposes of this subsection, references to the Secretary in subsection (b) of such section shall be deemed to be references to the Director of the Peace Corps, references to the Secretary in subsection (f) of such section shall be deemed to be references to the President, and the reference in subsection (g) of such section to a principal representative of the United States shall be deemed to be a reference to a Peace Corps representative.
 
-(Pub. L. 87–293, title I, §10, Sept. 22, 1961, 75 Stat. 617; Pub. L. 88–200, §5, Dec. 13, 1963, 77 Stat. 360; Pub. L. 89–134, §6, Aug. 24, 1965, 79 Stat. 551; Pub. L. 89–572, §6, Sept. 13, 1966, 80 Stat. 765; Pub. L. 93–49, §2, June 25, 1973, 87 Stat. 99; Pub. L. 95–331, §5(a), (c), Aug. 2, 1978, 92 Stat. 414, 415; Pub. L. 97–113, title VI, §604(a), Dec. 29, 1981, 95 Stat. 1543; Pub. L. 103–236, title VI, §602, Apr. 30, 1994, 108 Stat. 491; Pub. L. 106–30, §2(b)(4), May 21, 1999, 113 Stat. 56.)
+(Pub. L. 87–293, title I, §10, Sept. 22, 1961, 75 Stat. 617; Pub. L. 88–200, §5, Dec. 13, 1963, 77 Stat. 360; Pub. L. 89–134, §6, Aug. 24, 1965, 79 Stat. 551; Pub. L. 89–572, §6, Sept. 13, 1966, 80 Stat. 765; Pub. L. 93–49, §2, June 25, 1973, 87 Stat. 99; Pub. L. 95–331, §5(a), (c), Aug. 2, 1978, 92 Stat. 414, 415; Pub. L. 97–113, title VI, §604(a), Dec. 29, 1981, 95 Stat. 1543; Pub. L. 103–236, title VI, §602, Apr. 30, 1994, 108 Stat. 491; Pub. L. 106–30, §2(b)(4), May 21, 1999, 113 Stat. 56; Pub. L. 112–57, §5(2), Nov. 21, 2011, 125 Stat. 744.)
 
 #### References in Text
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
+
+The Foreign Service Act of 1980, referred to in subsec. (a)(5), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
 The Renegotiation Act of 1951, as amended, referred to in subsec. (d), is act Mar. 23, 1951, ch. 15, 65 Stat. 7, as amended, which was classified principally to section 1211 et seq. of Title 50, Appendix, War and National Defense, prior to its omission from the Code. See Codification note preceding section 1211 of Title 50, Appendix.
 
@@ -63,6 +65,8 @@ The Renegotiation Act of 1951, as amended, referred to in subsec. (d), is act Ma
 In subsec. (d), “sections 3101(a) and (c), 3104, 3106, 3301(b)(2), and 6101 of title 41” substituted for “section 3709 of the Revised Statutes of the United States, as amended, section 302 of the Federal Property and Administrative Services Act of 1949,” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (a)(5). Pub. L. 112–57 substituted “the purposes of any law administered by the Office of Personnel Management (except that the President may determine the applicability to such individuals of provisions of the Foreign Service Act of 1980 (22 U.S.C. 3901 et seq.))” for “any purpose”.
 
 <b>1999</b>—Subsec. (a)(4). Pub. L. 106–30 substituted “section 1342 of title 31” for “31 U.S.C. 665(b)”.
 
@@ -98,11 +102,11 @@ Funds available to President under this chapter allocated to and functions of Pr
 
 #### Prohibition Against Use of Funds Appropriated After February 15, 1981, and Before December 29, 1981, for Legal Services or Malpractice Protection
 
-Section 604(c) of Pub. L. 97–113 provided: “To the extent that the authorities provided by the amendmentsmade by subsection (a) \[enacting subsecs. (i) and (j) of this section\] are authorities which are not applicable with respect to the Peace Corps immediately before the enactment of this Act \[Dec. 29, 1981\] and which require the expenditure of funds, those authorities may not be exercised using any funds appropriated after February 15, 1981, and before the date of the enactment of this Act.”
+Section 604(c) of Pub. L. 97–113 provided: “To the extent that the authorities provided by the amendments made by subsection (a) \[enacting subsecs. (i) and (j) of this section\] are authorities which are not applicable with respect to the Peace Corps immediately before the enactment of this Act \[Dec. 29, 1981\] and which require the expenditure of funds, those authorities may not be exercised using any funds appropriated after February 15, 1981, and before the date of the enactment of this Act.”
 
 #### Waiver of Certain Laws by President Under Subsec. (d)
 
-For determination under subsec. (d) of this section that it is in the furtherance of the purposes of this chapter and that the functions under this chapter may be performed without regard to the applicable laws specified in section 1 and 2 of Ex. Ord. No. 11223, May 12, 1965, 30 F.R. 6635, set out as a note under section 2393 of this title, with certain limitations see section 1–402 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29203, set out as a note under section 2501 of this title.
+For determination under subsec. (d) of this section that it is in the furtherance of the purposes of this chapter and that the functions under this chapter maybe performed without regard to the applicable laws specified in section 1 and 2 of Ex. Ord. No. 11223, May 12, 1965, 30 F.R. 6635, set out as a note under section 2393 of this title, with certain limitations see section 1–402 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29203, set out as a note under section 2501 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

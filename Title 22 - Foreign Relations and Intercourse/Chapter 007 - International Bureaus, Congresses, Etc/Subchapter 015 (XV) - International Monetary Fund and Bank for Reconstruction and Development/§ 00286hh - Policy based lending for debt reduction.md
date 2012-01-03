@@ -32,7 +32,7 @@ In connection with the discussions initiated pursuant to subsection (b) of this 
 
 Not later than March 1, 1989, March 1, 1991, and March 1, 1993, respectively, the Secretary of the Treasury shall submit to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate 3 reports each of which—
 
-&emsp;(1) describes the long term strategy and lending programs of the International Bank for Reconstruction and Development for reducing and managing the debt burden of the countries designated as “Highly Indebted Countries” in the 1987–1988 World Debt Tables published by such bank, and summarize the long term strategy and lending programs of such bank for other seriously indebted countries;
+&emsp;(1) describes the long term strategy and lending programs of the International Bank for Reconstruction and Development for reducing and managing the debt burden of the countries designated as “Highly Indebted Countries” in the 1987–1988 World Debt Tables published by such bank, and summarize thelong term strategy and lending programs of such bank for other seriously indebted countries;
 
 &emsp;(2) contains an explanation of the measures taken by such bank to facilitate the reduction of the debt burden of the countries designated as “Highly Indebted Countries” in the 1987–1988 World Debt tables <sup>1</sup> published by such bank;
 

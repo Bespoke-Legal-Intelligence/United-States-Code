@@ -28,7 +28,7 @@ This section shall apply to all cargo to be exported that is moved by a vessel c
 
 #### (1) In general
 
-&emsp;A vessel carrier shall notify the Customs Service of any cargo tendered to such carrier that is not properly documented pursuant to this section and that has remained in the marine terminal for more than 48 hours after being delivered to the marine terminal, and the location of the cargo in the marine terminal.
+&emsp;A vessel carrier shall notify the Customs Service of any cargo tendered to such carrier that is not properly documented pursuant to this section and that has remained in the marine terminal for more than 48 hours after being delivered to the marine terminal, andthe location of the cargo in the marine terminal.
 
 #### (2) Sharing arrangements
 

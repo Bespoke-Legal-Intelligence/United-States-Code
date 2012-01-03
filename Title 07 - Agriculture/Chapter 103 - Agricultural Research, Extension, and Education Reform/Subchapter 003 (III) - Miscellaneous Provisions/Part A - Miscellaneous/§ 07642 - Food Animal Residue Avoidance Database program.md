@@ -52,7 +52,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (e). Pub. L. 110–246, §7312, added subsec. (e).
+<b>2008</b>—Subsec. (e). Pub. L. 110–246, §7312, added subsec. (e).
 
 #### Effective Date of 2008 Amendment
 

@@ -40,7 +40,7 @@ In general.—Based on the regulations promulgated by the Administrator, each St
 
 &emsp;&emsp;(ii)
 
-Grants for small system costs.—From funds reserved under section 300j–12(<i>o</i>) of this title or appropriated under subparagraph (H), the Administrator shall pay the reasonable cost of such testing and laboratory analysis as are necessary to carry out monitoring under the plan.
+Grants for small system costs.—From funds reserved under section 300j–12(<i>o</i>)of this title or appropriated under subparagraph (H), the Administrator shall pay the reasonable cost of such testing and laboratory analysis as are necessary to carry out monitoring under the plan.
 
 &emsp;(D)
 
@@ -84,7 +84,7 @@ For purposes of this section, (1) the term “grantee” means any person who ap
 
 #### (f) Information regarding drinking water coolers
 
-The Administrator may utilize the authorities of this section for purposes of part F of this subchapter. Any person who manufactures, imports, sells, or distributes drinking water coolers ininterstate commerce shall be treated as a supplier of water for purposes of applying the provisions of this section in the case of persons subject to part F of this subchapter.
+The Administrator may utilize the authorities of this section for purposes of part F of this subchapter. Any person who manufactures, imports, sells, or distributes drinking water coolers in interstate commerce shall be treated as a supplier of water for purposes of applying the provisions of this section in the case of persons subject to part F of this subchapter.
 
 #### (g) Occurrence data base
 

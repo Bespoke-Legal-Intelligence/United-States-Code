@@ -190,7 +190,7 @@ Implementation Plan.—No funds may be allocated for the pilot program until 30 
 
 “(g)
 
-Report on Implementation.—(1) Not later than February 1, 2002, the Administrator shall submit to the congressional defense committees a report on the implementation and management of the pilot program. The report shall take into consideration the results of the pilot program to date and the views of the directors of the participating laboratories and facilities. The report shall include any recommendations the Administrator may have concerning the future of the pilot program.
+Report on Implementation.—(1) Not later than February 1, 2002, the Administrator shall submit to the congressional defense committees a report on the implementation and management of the pilot program.The report shall take into consideration the results of the pilot program to date and the views of the directors of the participating laboratories and facilities. The report shall include any recommendations the Administrator may have concerning the future of the pilot program.
 
 “(2) Not later than 30 days after the date on which the Administrator submits the report required by paragraph (1), the Comptroller General shall submit to the congressional defense committees a report containing the Comptroller General's assessment of that report.”
 

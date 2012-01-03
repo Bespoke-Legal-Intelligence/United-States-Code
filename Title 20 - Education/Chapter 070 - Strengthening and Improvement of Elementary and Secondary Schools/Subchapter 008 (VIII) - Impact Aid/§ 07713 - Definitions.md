@@ -28,7 +28,7 @@ For purposes of this subchapter:
 
 #### (4) Current expenditures
 
-&emsp;The term “current expenditures” means expenditures for free public education, including expenditures for administration, instruction, attendance and health services, pupil transportation services, operation and maintenance of plant, fixed charges, and net expenditures to cover deficits for food services and student body activities, but does not include expenditures for community services, capital outlay, and debt service, or any expenditures made from funds awarded under part A of subchapter I of this chapter and subchapter VI of this chapter. The determination of whether an expenditure for the replacement of equipment is considered a current expenditure or a capital outlay shall be determined in accordance with generally accepted accounting principles as determined by the State.
+&emsp;The term “current expenditures” means expenditures for free public education, includingexpenditures for administration, instruction, attendance and health services, pupil transportation services, operation and maintenance of plant, fixed charges, and net expenditures to cover deficits for food services and student body activities, but does not include expenditures for community services, capital outlay, and debt service, or any expenditures made from funds awarded under part A of subchapter I of this chapter and subchapter VI of this chapter. The determination of whether an expenditure for the replacement of equipment is considered a current expenditure or a capital outlay shall be determined in accordance with generally accepted accounting principles as determined by the State.
 
 #### (5) Federal property
 
@@ -130,7 +130,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;Except as provided in subparagraph (B), the term “local educational agency”—
 
-&emsp;&emsp;&emsp;(i) means a board of education or other legally constituted local school authorityhaving administrative control and direction of free public education in a county, township, independent school district, or other school district; and
+&emsp;&emsp;&emsp;(i) means a board of education or other legally constituted local school authority having administrative control and direction of free public education in a county, township, independent school district, or other school district; and
 
 &emsp;&emsp;&emsp;(ii) includes any State agency that directly operates and maintains facilities for providing free public education.
 
@@ -188,7 +188,7 @@ Act of September 30, 1950 (Public Law 874, 81st Congress) (as such Act was in ef
 
 Par. (5)(A)(iii)(III). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1816(1)(A)\], added subcl. (III).
 
-Par. (5)(F)(i). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1816(1)(B)\], substituted “or authorized by the Native American Housing Assistance and Self-Determination Act of 1996” for “the mutual help ownership opportunity program under section 202 of the United States Housing Act of 1937”.
+Par. (5)(F)(i). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1816(1)(B)\], substituted “or authorized by the Native American Housing Assistance and Self-DeterminationAct of 1996” for “the mutual help ownership opportunity program under section 202 of the United States Housing Act of 1937”.
 
 Par. (8)(B). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1816(2)\], substituted “the 50 States and the District of Columbia” for “all States”.
 

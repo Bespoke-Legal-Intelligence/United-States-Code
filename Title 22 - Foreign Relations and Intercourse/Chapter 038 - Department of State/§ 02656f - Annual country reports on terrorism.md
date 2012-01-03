@@ -14,7 +14,7 @@ The Secretary of State shall transmit to the Speaker of the House of Representat
 
 &emsp;(B) detailed assessments with respect to each foreign country whose territory is being used as a sanctuary for terrorists or terrorist organizations;
 
-&emsp;(2) all relevant information about the activities during the preceding year of any terrorist group, and any umbrella group under which such terrorist group falls, known to be responsible for the kidnapping or death of an American citizen during the preceding five years, any terrorist group known to have obtained or developed, or to have attempted to obtain or develop, weapons of mass destruction, any terrorist group known to be financed by countries about which Congress was notified during the preceding year pursuant to section 2405(j) of the Appendix to title 50, any group designated by the Secretary as a foreign terrorist organization under section 1189 of title 8, and any other known international terrorist group which the Secretary determines should be the subject of such report;
+&emsp;(2) all relevant information about the activities during the preceding year of any terrorist group, and any umbrella group under which such terrorist group falls, known to be responsible for the kidnapping or death of an American citizen during the preceding five years, any terrorist group known to have obtained ordeveloped, or to have attempted to obtain or develop, weapons of mass destruction, any terrorist group known to be financed by countries about which Congress was notified during the preceding year pursuant to section 2405(j) of the Appendix to title 50, any group designated by the Secretary as a foreign terrorist organization under section 1189 of title 8, and any other known international terrorist group which the Secretary determines should be the subject of such report;
 
 &emsp;(3) with respect to each foreign country from which the United States Government has sought cooperation during the previous five years in the investigation or prosecution of an act of international terrorism against United States citizens or interests, information on—
 
@@ -252,7 +252,7 @@ In General.—Not later than May 1, 2003, and not later than May 1, 2004, the Se
 
 &emsp;“(7) A list of any terrorist suspects in these cases who are members of Palestinian police or security forces, the Palestine Liberation Organization, or any Palestinian governing body.
 
-&emsp;“(8) A list of all United States citizens killed or injured in terrorist attacks in Israel or in territory administered by Israel between 1950 and September 13, 1993, to include in each case, where such information is reasonably available, any stated claim of responsibility and the resolution or disposition of each case, except that this list shall be submitted only once with the initial report required under this section unless additional relevant information on these cases becomes available.
+&emsp;“(8) A list of all United States citizens killed or injured in terrorist attacks in Israel or in territory administered by Israel between 1950 and September 13, 1993, to include in each case, where such information is reasonably available, any stated claim of responsibility and the resolution or disposition of each case,except that this list shall be submitted only once with the initial report required under this section unless additional relevant information on these cases becomes available.
 
 “(b)
 

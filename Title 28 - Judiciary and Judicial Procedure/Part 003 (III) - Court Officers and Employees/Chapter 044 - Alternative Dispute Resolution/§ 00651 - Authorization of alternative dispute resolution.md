@@ -48,7 +48,7 @@ Section 2 of Pub. L. 103–192 provided that this chapter and the item relating 
 
 Pub. L. 105–315, §2, Oct. 30, 1998, 112 Stat. 2993, provided that: “Congress finds that—
 
-&emsp;“(1) alternative dispute resolution, when supported by the bench and bar, and utilizing properly trained neutrals in a program adequately administered by the court, has the potential to provide a variety ofbenefits, including greater satisfaction of the parties, innovative methods of resolving disputes, and greater efficiency in achieving settlements;
+&emsp;“(1) alternative dispute resolution, when supported by the bench and bar, and utilizing properly trained neutrals in a program adequately administered by the court, has the potential to provide a variety of benefits, including greater satisfaction of the parties, innovative methods of resolving disputes, and greater efficiency in achieving settlements;
 
 &emsp;“(2) certain forms of alternative dispute resolution, including mediation, early neutral evaluation, minitrials, and voluntary arbitration, may have potential to reduce the large backlog of cases now pending in some Federal courts throughout the United States, thereby allowing the courts to process their remaining cases more efficiently; and
 

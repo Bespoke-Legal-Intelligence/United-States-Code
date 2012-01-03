@@ -4,10 +4,6 @@ Part B—Swine Packer Marketing Contracts
 
 <i>For termination of part by section 942 of Pub. L. 106–78, see Livestock Mandatory Reporting note set out under section 1635 of this title.</i>
 
-<i><sup>1</sup></i><i> So in original. A comma probably should appear.</i>
-
-<i><sup>2</sup></i><i> So in original. The comma probably should not appear.</i>
-
 
 ---
 

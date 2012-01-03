@@ -6,5 +6,5 @@ There are authorized to be appropriated $20,000,000 for each of the fiscal years
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–177 amended section generally. Prior to amendment, section authorized appropriations of$7,000,000 for fiscal year 1996, $10,000,000 for each of fiscal years 1997 and 1998, $11,000,000 for fiscal year 1999, and $12,000,000 for fiscal year 2000.
+<b>2008</b>—Pub. L. 110–177 amended section generally. Prior to amendment, section authorized appropriations of $7,000,000 for fiscal year 1996, $10,000,000 for each of fiscal years 1997 and 1998, $11,000,000 for fiscal year 1999, and $12,000,000 for fiscal year 2000.
 

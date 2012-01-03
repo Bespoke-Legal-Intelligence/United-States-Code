@@ -34,7 +34,7 @@ The agreement referred to in this subsection is a written agreement signed by ea
 
 &emsp;(1) consenting to the creation of the lien under this section with respect to such property, and
 
-&emsp;(2) designating a responsible person who shall be the agent for the beneficiaries of theestate and for the persons who have consented to the creation of the lien in dealings with the Secretary on matters arising under section 6166 or this section.
+&emsp;(2) designating a responsible person who shall be the agent for the beneficiaries of the estate and for the persons who have consented to the creation of the lien in dealings with the Secretary on matters arising under section 6166 or this section.
 
 #### (d) Special rules
 

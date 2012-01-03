@@ -20,13 +20,13 @@ Except as provided in subsection (b) of this section and in section 1675 of this
 
 &emsp;(C) any debt due for any State or Federal tax.
 
-(2) The maximum part of the aggregate disposable earnings of an individual for any workweek which is subject to garnishment to enforce any order for the support of any person shall not exceed—
+(2) The maximum part of the aggregate disposable earnings of an individual for any workweek which is subject to garnishment to enforce anyorder for the support of any person shall not exceed—
 
 &emsp;(A) where such individual is supporting his spouse or dependent child (other than a spouse or child with respect to whose support such order is used), 50 per centum of such individual's disposable earnings for that week; and
 
 &emsp;(B) where such individual is not supporting such a spouse or dependent child described in clause (A), 60 per centum of such individual's disposable earnings for that week;
 
-> except that, with respect to the disposable earnings of any individual for any workweek, the 50per centum specified in clause (A) shall be deemed to be 55 per centum and the 60 per centum specified in clause (B) shall be deemed to be 65 per centum, if and to the extent that such earnings are subject to garnishment to enforce a support order with respect to a period which is prior to the twelve-week period which ends with the beginning of such workweek.
+> except that, with respect to the disposable earnings of any individual for any workweek, the 50 per centum specified in clause (A) shall be deemed to be 55 per centum and the 60 per centum specified in clause (B) shall be deemed to be 65 per centum, if and to the extent that such earnings are subject to garnishment to enforce a support order with respect to a period which is prior to the twelve-week period which ends with the beginning of such workweek.
 
 #### (c) Execution or enforcement of garnishment order or process prohibited
 

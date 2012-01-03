@@ -20,7 +20,7 @@ Provisions similar to those comprising this section were contained in former sec
 
 Section 814, Pub. L. 93–203, title I, §104, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1922, related to review of comprehensive employment and training plans.
 
-A prior section 814, Pub. L. 93–203, title I, §104, Dec. 28, 1978, 87 Stat. 843, related to establishment of primesponsor's planning councils, prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
+A prior section 814, Pub. L. 93–203, title I, §104, Dec. 28, 1978, 87 Stat. 843, related to establishment of prime sponsor's planning councils, prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
 Provisions similar to those comprising this section were contained in former section 818 of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 

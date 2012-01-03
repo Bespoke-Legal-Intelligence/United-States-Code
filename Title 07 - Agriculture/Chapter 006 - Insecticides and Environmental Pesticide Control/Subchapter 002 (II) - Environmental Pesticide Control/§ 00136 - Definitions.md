@@ -172,7 +172,7 @@ The term “pest” means (1) any insect, rodent, nematode, fungus, weed, or (2)
 
 #### (u) Pesticide
 
-The term “pesticide” means (1) any substance or mixture of substances intended for preventing, destroying, repelling, or mitigating any pest, (2) any substance or mixture of substances intended for use as a plant regulator, defoliant, or desiccant, and (3) any nitrogen stabilizer, except that the term “pesticide” shall not include any article that is a “new animal drug” within the meaning of section 321(w) <sup>1</sup> of title 21, that has been determined by the Secretary of Healthand Human Services not to be a new animal drug by a regulation establishing conditions of use for the article, or that is an animal feed within the meaning of section 321(x) <sup>1</sup> of title 21 bearing or containing a new animal drug. The term “pesticide” does not include liquid chemical sterilant products (including any sterilant or subordinate disinfectant claims on such products) for use on a critical or semi-critical device, as defined in section 321 of title 21. For purposes of the preceding sentence, the term “critical device” includes any device which is introduced directly into the human body, either into or in contact with the bloodstream or normally sterile areas of the body and the term “semi-critical device” includes any device which contacts intact mucous membranes but which does not ordinarily penetrate the blood barrier or otherwise enter normally sterile areas of the body.
+The term “pesticide” means (1) any substance or mixture of substances intended for preventing, destroying, repelling, or mitigating any pest, (2) any substance or mixture of substances intended for use as a plant regulator, defoliant, or desiccant, and (3) any nitrogen stabilizer, except that the term “pesticide” shall not include any article that is a “new animal drug” within the meaning of section 321(w) <sup>1</sup> of title 21, that has been determined by the Secretary of Health and Human Services not to be a new animal drug by a regulation establishing conditions of use for the article, or that is an animal feed within the meaning of section 321(x) <sup>1</sup> of title 21 bearing or containing a new animal drug. The term “pesticide” does not include liquid chemical sterilant products (including any sterilant or subordinate disinfectant claims on such products) for use on a critical or semi-critical device, as defined in section 321 of title 21. For purposes of the preceding sentence, the term “critical device” includes any device which is introduced directly into the human body, either into or in contact with the bloodstream or normally sterile areas of the body and the term “semi-critical device” includes any device which contacts intact mucous membranes but which does not ordinarily penetrate the blood barrier or otherwise enter normally sterile areas of the body.
 
 #### (v) Plant regulator
 
@@ -180,7 +180,7 @@ The term “plant regulator” means any substance or mixture of substances inte
 
 #### (w) Producer and produce
 
-The term “producer” means the person who manufactures, prepares, compounds, propagates, or processes any pesticide or device or active ingredient used in producing a pesticide. The term “produce” means to manufacture, prepare, compound, propagate, or process any pesticide or device or active ingredient used in producing a pesticide. The dilution by individuals of formulated pesticides for their own use and according to the directions on registered labels shall not of itself result in such individuals being included in the definition of “producer” for the purposes of this subchapter.
+The term “producer” means the person who manufactures, prepares, compounds, propagates, or processes any pesticide or device or active ingredient used in producing a pesticide. The term “produce” means to manufacture, prepare, compound, propagate, or process any pesticide or device or active ingredient used in producing apesticide. The dilution by individuals of formulated pesticides for their own use and according to the directions on registered labels shall not of itself result in such individuals being included in the definition of “producer” for the purposes of this subchapter.
 
 #### (x) Protect health and the environment
 
@@ -304,7 +304,7 @@ The term “minor use” means the use of a pesticide on an animal, on a commerc
 
 #### (nn) Public health pesticide
 
-The term “public health pesticide” means any minor use pesticide product registered for use and used predominantly in public health programs for vector control or for other recognized health protection uses, including the prevention or mitigation of viruses, bacteria, or other microorganisms (other than viruses, bacteria, or other microorganisms on or in living man or other living animal) that pose a threat to public health.
+The term “public health pesticide” means any minor use pesticide product registered for use and used predominantly in public health programs for vector control or for other recognized health protection uses, including the prevention or mitigation of viruses, bacteria, or other microorganisms (other than viruses, bacteria, orother microorganisms on or in living man or other living animal) that pose a threat to public health.
 
 #### (<i>oo</i>) Vector
 
@@ -326,7 +326,7 @@ A prior section 2 of act June 25, 1947, was classified to section 135 of this ti
 
 #### Amendments
 
-1996—Subsec. (a)(1). Pub. L. 104–170, §105(a)(1)(A), substituted “defoliant, desiccant, or nitrogen stabilizer” for “defoliant, or desiccant”.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–170, §105(a)(1)(A), substituted “defoliant, desiccant, or nitrogen stabilizer” for “defoliant, or desiccant”.
 
 Subsec. (a)(5). Pub. L. 104–170, §105(a)(1)(B)–(D), added par. (5).
 
@@ -346,7 +346,7 @@ Subsec. (mm). Pub. L. 104–170, §221(2), added subsec. (mm).
 
 Subsecs. (nn), (<i>oo</i>). Pub. L. 104–170, §230(b), added subsecs. (nn) and (<i>oo</i>).
 
-1991—Subsec. (e)(1). Pub. L. 102–237, §1006(a)(1), substituted “section 136i” for “section 136b” and “uses dilutions” for “use dilutions” and made technical amendment to reference to subsection (ee) of this section involving corresponding provision of original act.
+<b>1991</b>—Subsec. (e)(1). Pub. L. 102–237, §1006(a)(1), substituted “section 136i” for “section 136b” and “uses dilutions” for “use dilutions” and made technical amendment to reference to subsection (ee) of this section involving corresponding provision of original act.
 
 Subsec. (e)(2). Pub. L. 102–237, §1006(b)(3)(A), substituted “the applicator or the applicator's” for “him or his”.
 
@@ -354,7 +354,7 @@ Subsec. (e)(3). Pub. L. 102–237, §1006(b)(3)(B), substituted “the applicato
 
 Subsec. (q)(2)(A)(i). Pub. L. 102–237, §1006(a)(2), substituted “size or form” for “size of form”.
 
-1988—Subsec. (c). Pub. L. 100–532, §801(a)(1), substituted “if—” for “if:”.
+<b>1988</b>—Subsec. (c). Pub. L. 100–532, §801(a)(1), substituted “if—” for “if:”.
 
 Subsec. (p)(2)(B). Pub. L. 100–532, §801(a)(2), substituted “Health and Human Services” for “Health, Education, and Welfare”.
 
@@ -370,7 +370,7 @@ Subsec. (ff). Pub. L. 100–532, §101, added subsec. (ff).
 
 Subsec. (gg). Pub. L. 100–532, §601(a)(2), added subsec. (gg).
 
-1978—Subsec. (e)(1). Pub. L. 95–396, §1(1), inserted provision deeming an applicator not a seller or distributor of pesticides when providing a service of controlling pests.
+<b>1978</b>—Subsec. (e)(1). Pub. L. 95–396, §1(1), inserted provision deeming an applicator not a seller or distributor of pesticides when providing a service of controlling pests.
 
 Subsec. (e)(3). Pub. L. 95–396, §1(2), substituted “an applicator” for “a certified applicator”.
 
@@ -382,9 +382,9 @@ Subsec. (dd). Pub. L. 95–396, §1(6), inserted “or active ingredient used in
 
 Subsec. (ee). Pub. L. 95–396, §1(7), added subsec. (ee).
 
-1975—Subsec. (u). Pub. L. 94–140 inserted proviso which excluded from term “pesticide” any article designated as “new animal drug” and any article denominated as animal feed.
+<b>1975</b>—Subsec. (u). Pub. L. 94–140 inserted proviso which excluded from term “pesticide” any article designated as “new animal drug” and any article denominated as animal feed.
 
-1973—Subsec. (<i>l</i>). Pub. L. 93–205 substituted “or threatened by the Secretary pursuant to the Endangered Species Act of 1973” for “by the Secretary of the Interior under Public Law 91–135”.
+<b>1973</b>—Subsec. (<i>l</i>). Pub. L. 93–205 substituted “or threatened by the Secretary pursuant to the Endangered Species Act of 1973” for “by the Secretary of the Interior under Public Law 91–135”.
 
 #### Effective Date of 1988 Amendment
 
@@ -430,7 +430,7 @@ Pub. L. 108–199, div. G, title V, §501(a), Jan. 23, 2004, 118 Stat. 419, prov
 
 #### Short Title of 1996 Amendment
 
-Section 1 of Pub. L. 104–170 provided that: “This Act \[enacting sections 136i–2, 136r–1, and 136w–5 to 136w–7 ofthis title, amending this section, sections 136a, 136a–1, 136d, 136q, 136s, 136w, 136w–3, 136x, and 136y of this title, and sections 321, 331, 333, 342, and 346a of Title 21, Food and Drugs, and enacting provisions set out as notes under section 136i–2 of this title and sections 301 and 346a of Title 21\] may be cited as the ‘Food Quality Protection Act of 1996’.”
+Section 1 of Pub. L. 104–170 provided that: “This Act \[enacting sections 136i–2, 136r–1, and 136w–5 to 136w–7 of this title, amending this section, sections 136a, 136a–1, 136d, 136q, 136s, 136w, 136w–3, 136x, and 136y of this title, and sections 321, 331, 333, 342, and 346a of Title 21, Food and Drugs, and enacting provisions set out as notes under section 136i–2 of this title and sections 301 and 346a of Title 21\] may be cited as the ‘Food Quality Protection Act of 1996’.”
 
 \[Another Food Quality Protection Act of 1996 was enacted by Pub. L. 104–170, title IV, 110 Stat. 1513, see section 401(a) of Pub. L. 104–170, set out as a note under section 301 of Title 21, Food and Drugs.\]
 

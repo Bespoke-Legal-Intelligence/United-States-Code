@@ -148,7 +148,7 @@ Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if inc
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 applicable with respect to distributions declared Mar. 15, 1984, in taxable years ending after that date, see section 61(e)(3) of Pub. L. 98–369, set out as a note under section 312 of this title.
+Amendment by Pub. L. 98–369 applicable with respect to distributions declared Mar. 15, 1984, in taxable yearsending after that date, see section 61(e)(3) of Pub. L. 98–369, set out as a note under section 312 of this title.
 
 #### Effective Date
 

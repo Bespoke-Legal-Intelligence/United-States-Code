@@ -84,15 +84,15 @@ The Immigration Reform, Accountability and Security Enhancement Act of 2002, ref
 
 #### Amendments
 
-2009—Subsec. (h). Pub. L. 111–122 struck out subsec. (h), which directed the Attorney General to establish within the Criminal Division of the Department of Justice an Office of Special Investigations and to consult with the Secretary of Homeland Security concerning the prosecution or extradition of certain aliens.
+<b>2009</b>—Subsec. (h). Pub. L. 111–122 struck out subsec. (h), which directed the Attorney General to establish within the Criminal Division of the Department of Justice an Office of Special Investigations and to consult with the Secretary of Homeland Security concerning the prosecution or extradition of certain aliens.
 
-2004—Subsec. (h). Pub. L. 108–458 added subsec. (h).
+<b>2004</b>—Subsec. (h). Pub. L. 108–458 added subsec. (h).
 
-2003—Subsec. (a). Pub. L. 108–7, §105(a)(1), amended Pub. L. 107–296, §1102(2). See 2002 Amendment notes below.
+<b>2003</b>—Subsec. (a). Pub. L. 108–7, §105(a)(1), amended Pub. L. 107–296, §1102(2). See 2002 Amendment notes below.
 
 Pub. L. 108–7, §105(a)(2), which directed the amendment of Pub. L. 107–296, was executed to section 1102(2) of Pub. L. 107–296, to reflect the probable intent of Congress. See 2002 Amendment notes below.
 
-2002—Pub. L. 107–296, §1102(1), amended section catchline generally.
+<b>2002</b>—Pub. L. 107–296, §1102(1), amended section catchline generally.
 
 Subsec. (a). Pub. L. 107–296, §1102(2)(A), as added by Pub. L. 108–7, §105(a)(1), which directed the substitution of “Secretary of Homeland Security” for “Attorney General” in heading, was executed by inserting “Secretary of Homeland Security” as heading, to reflect the probable intent of Congress.
 
@@ -104,7 +104,7 @@ Subsec. (a)(8) to (11). Pub. L. 107–296, §1102(2)(D), formerly §1102(2)(B), 
 
 Subsec. (g). Pub. L. 107–296, §1102(3), added subsec. (g).
 
-1996—Subsec. (a). Pub. L. 104–208, §372(1), (2), inserted “(1)” before first sentence and designated each sentence after the first sentence, which included second through ninth sentences, as a separate par. with appropriate consecutive numbering and initial indentation.
+<b>1996</b>—Subsec. (a). Pub. L. 104–208, §372(1), (2), inserted “(1)” before first sentence and designated each sentence after the first sentence, which included second through ninth sentences, as a separate par. with appropriate consecutive numbering and initial indentation.
 
 Pub. L. 104–208, §125, inserted at end “After consultation with the Secretary of State, the Attorney General may authorize officers of a foreign country to be stationed at preclearance facilities in the United States for the purpose of ensuring that persons traveling from or through the United States to that foreign country comply with that country's immigration and related laws. Those officers may exercise such authority and perform such duties as United States immigration officers are authorized to exercise and perform in that foreign country under reciprocal agreement, and they shall enjoy such reasonable privileges and immunities necessary for the performance of their duties as the government of their country extends to United States immigration officers.”
 
@@ -130,9 +130,9 @@ Pub. L. 104–208, §102(d)(1)(A), redesignated subsec. (d) as (e).
 
 Subsec. (f). Pub. L. 104–208, §134(a), added subsec. (f).
 
-1990—Subsecs. (c), (d). Pub. L. 101–649 added subsecs. (c) and (d).
+<b>1990</b>—Subsecs. (c), (d). Pub. L. 101–649 added subsecs. (c) and (d).
 
-1988—Subsec. (a). Pub. L. 100–525, §9(c)(1), substituted “instructions” for “intructions” and amended fourth sentence generally. Prior to amendment, fourth sentence read as follows: “He is authorized, in accordance with the civil-service laws and regulations and the Classification Act of 1949, to appoint such employees of the Service as he deems necessary, and to delegate to them or to any officer or employee of the Department of Justice in his discretion any of the duties and powers imposed upon him in this chapter; he may require or authorize any employee of the Service or the Department of Justice to perform or exercise any of the powers, privileges, or duties conferred or imposed by this chapter or regulations issued thereunder upon any other employee of the Service.”
+<b>1988</b>—Subsec. (a). Pub. L. 100–525, §9(c)(1), substituted “instructions” for “intructions” and amended fourth sentence generally. Prior to amendment, fourth sentence read as follows: “He is authorized, in accordance with the civil-service laws and regulations and the Classification Act of 1949, to appoint such employees of the Service as he deems necessary, and to delegate to them or to any officer or employee of the Department of Justice in his discretion any of the duties and powers imposed upon him in this chapter; he may require or authorize any employee of the Service or the Department of Justice to perform or exercise any of the powers, privileges, or duties conferred or imposed by this chapter or regulations issued thereunder upon any other employee of the Service.”
 
 Subsec. (b). Pub. L. 100–525, §9(c)(2), struck out provision that Commissioner was to receive compensation at rate of $17,500 per annum.
 

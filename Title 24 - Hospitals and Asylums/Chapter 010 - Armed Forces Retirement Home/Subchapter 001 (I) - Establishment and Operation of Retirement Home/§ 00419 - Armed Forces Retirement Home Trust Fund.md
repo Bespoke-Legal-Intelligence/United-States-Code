@@ -6,7 +6,7 @@ There is hereby established in the Treasury of the United States a trust fund to
 
 &emsp;(1) Such amounts as may be transferred to the Fund.
 
-&emsp;(2) Moneys deposited in the Fund by the Retirement Home Board realized from gifts or from the disposition of property and facilities.
+&emsp;(2) Moneys deposited in the Fund by the Chief Operating Officer realized from gifts or from the disposition of property and facilities.
 
 &emsp;(3) Amounts deposited in the Fund as monthly fees paid by residents of the Retirement Home under section 414 of this title.
 
@@ -28,9 +28,11 @@ The Secretary of the Treasury may invest in obligations issued or guaranteed by 
 
 The Chief Financial Officer of the Armed Forces Retirement Home shall comply with the reporting requirements of subchapter II of chapter 35 of title 31.
 
-(Pub. L. 101–510, div. A, title XV, §1519, Nov. 5, 1990, 104 Stat. 1730; Pub. L. 107–107, div. A, title XIV, §§1404(b)(2), 1410(a)(2), (b)(2), Dec. 28, 2001, 115 Stat. 1260, 1266; Pub. L. 110–181, div. A, title XIV, §1422(g), Jan. 28, 2008, 122 Stat. 423.)
+(Pub. L. 101–510, div. A, title XV, §1519, Nov. 5, 1990, 104 Stat. 1730; Pub. L. 107–107, div. A, title XIV, §§1404(b)(2), 1410(a)(2), (b)(2), Dec. 28, 2001, 115 Stat. 1260, 1266; Pub. L. 110–181, div. A, title XIV, §1422(g), Jan. 28, 2008, 122 Stat. 423; Pub. L. 112–81, div. A, title V, §567(b)(1), Dec. 31, 2011, 125 Stat. 1425.)
 
 #### Amendments
+
+<b>2011</b>—Subsec. (a)(2). Pub. L. 112–81 substituted “Chief Operating Officer” for “Retirement Home Board”.
 
 <b>2008</b>—Subsec. (d). Pub. L. 110–181 added subsec. (d).
 

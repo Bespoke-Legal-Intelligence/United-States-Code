@@ -14,7 +14,7 @@ Metal halide lamp fixtures.—
 
 &emsp;(i)
 
-In general.—The Commission shall issue labeling rules under this section applicable tothe covered product specified in section 6292(a)(19) of this title and to which standards are applicable under section 6295 of this title.
+In general.—The Commission shall issue labeling rules under this section applicable to the covered product specified in section 6292(a)(19) of this title and to which standards are applicable under section 6295 of this title.
 
 &emsp;(ii)
 
@@ -224,7 +224,7 @@ Until such time as labeling rules under this section take effect with respect to
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(2)(E)(ii), (F)(ii) and (c)(8)(C), was in the original “this Act”, meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
+This chapter, referred to in subsecs. (a)(2)(E)(ii), (F)(ii) and (c)(8)(C), was in the original “this Act”, meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, asamended, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
 Paragraph (19) of section 6292(a) of this title, referred to in subsecs. (a)(3), (b)(1)(B), (3), (5), was redesignated (20) and a new par. (19) was added by Pub. L. 110–140, title III, §324(b), Dec. 19, 2007, 121 Stat. 1593.
 

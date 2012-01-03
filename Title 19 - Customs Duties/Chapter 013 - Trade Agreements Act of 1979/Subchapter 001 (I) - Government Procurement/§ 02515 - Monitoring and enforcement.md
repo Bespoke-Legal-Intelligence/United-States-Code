@@ -110,7 +110,7 @@ Annual Report on Foreign Discrimination.—
 
 &emsp;“(1)
 
-Annual report required.—The President shall, no later than April 30 1990, and annually on April 30 thereafter, submit to the appropriate committees of the House of Representatives and the Committee on Governmental Affairs of the Senate, as well as other appropriate Senate committees, a report on the extent to which foreign countries discriminate against United States products or services in making government procurements.
+Annual report required.—The President shall, no later than April 30 1990, and annually onApril 30 thereafter, submit to the appropriate committees of the House of Representatives and the Committee on Governmental Affairs of the Senate, as well as other appropriate Senate committees, a report on the extent to which foreign countries discriminate against United States products or services in making government procurements.
 
 &emsp;“(2)
 
@@ -118,7 +118,7 @@ Identifications required.—In the annual report, the President shall identify (
 
 &emsp;&emsp;“(A) are signatories to the Agreement and not in compliance with the requirements of the Agreement;
 
-&emsp;&emsp;“(B)(i) are signatories to the Agreement; (ii) are in compliance with the Agreement but, in the government procurement of products or services not covered by the Agreement, maintain a significant and persistent pattern or practice of discrimination against United States products or services whichresults in identifiable harm to United States businesses; and (iii) whose products or services are acquired in significant amounts by the United States Government; or
+&emsp;&emsp;“(B)(i) are signatories to the Agreement; (ii) are in compliance with the Agreement but, in the government procurement of products or services not covered by the Agreement, maintain a significant and persistent pattern or practice of discrimination against United States products or services which results in identifiable harm to United States businesses; and (iii) whose products or services are acquired in significant amounts by the United States Government; or
 
 &emsp;&emsp;“(C)(i) are not signatories to the Agreement; (ii) maintain, in government procurement, a significant and persistent pattern or practice of discrimination against United States products or services which results in identifiable harm to United States businesses; and (iii) whose products or services are acquired in significant amounts by the United States Government.
 
@@ -310,5 +310,5 @@ Pub. L. 96–609, title II, §205, Dec. 28, 1980, 94 Stat. 3562, provided that: 
 
 #### Delegation of Functions
 
-Functions of President under subsec. (c) delegated to United States Trade Representative, see section 1–201of Ex. Ord. No. 12260, Dec. 31, 1980, 46 F.R. 1653, set out as a note under section 2511 of this title.
+Functions of President under subsec. (c) delegated to United States Trade Representative, see section 1–201 of Ex. Ord. No. 12260, Dec. 31, 1980, 46 F.R. 1653, set out as a note under section 2511 of this title.
 

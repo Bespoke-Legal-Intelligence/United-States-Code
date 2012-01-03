@@ -8,9 +8,9 @@
 
 #### Amendments
 
-1968—Subsec. (a). Pub. L. 90–446 substituted “operated, or managed for profit or nonprofit as a public market for livestock producers, feeders, market agencies, and buyers” for “or operated for compensation or profit as a public market”.
+<b>1968</b>—Subsec. (a). Pub. L. 90–446 substituted “operated, or managed for profit or nonprofit as a public market for livestock producers, feeders, market agencies, and buyers” for “or operated for compensation or profit as a public market”.
 
-1958—Subsec. (a). Pub. L. 85–909 struck out “Said sections shall not apply to a stockyard of which the area normally available for handling livestock, exclusive of runs, alleys, or passage ways, is less than twenty thousand square feet.”
+<b>1958</b>—Subsec. (a). Pub. L. 85–909 struck out “Said sections shall not apply to a stockyard of which the area normally available for handling livestock, exclusive of runs, alleys, or passage ways, is less than twenty thousand square feet.”
 
 #### Transportation of Livestock
 

@@ -16,9 +16,9 @@ Word “seven” was substituted for “six” in last sentence on authority of 
 
 #### Amendments
 
-1935—Act Aug. 23, 1935, §203(c), substituted second and third sentences for former related provisions.
+<b>1935</b>—Act Aug. 23, 1935, §203(c), substituted second and third sentences for former related provisions.
 
-1933—Act June 16, 1933, fixed the principal offices of the Board, made the Secretary of the Treasury chairman, provided for chairman pro tempore, and referred to disbursements, obligations, salaries and leaves.
+<b>1933</b>—Act June 16, 1933, fixed the principal offices of the Board, made the Secretary of the Treasury chairman, provided for chairman pro tempore, and referred to disbursements, obligations, salaries and leaves.
 
 #### Change of Name
 

@@ -22,7 +22,7 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1960—Pub. L. 86–769 struck out references to appointment and compensation under the Civil Service laws and the Classification Act of 1949.
+<b>1960</b>—Pub. L. 86–769 struck out references to appointment and compensation under the Civil Service laws and the Classification Act of 1949.
 
 #### Program for Employment of Spanish-Origin Personnel in Bureau; Report to Congress
 

@@ -16,7 +16,7 @@
 
 &emsp;(A) Health and safety criteria, including a requirement of compliance with applicable State laws and local ordinances relating to health and safety.
 
-&emsp;(B) A requirement that the costs charged for care by a facility be reasonable, as determinedby the Secretary, giving consideration to such factors as (i) the level of care, supervision, and other services to be provided, (ii) the cost of goods and services in the geographic area in which the facility is located, and (iii) comparability with other facilities in such area providing similar services.
+&emsp;(B) A requirement that the costs charged for care by a facility be reasonable, as determined by the Secretary, giving consideration to such factors as (i) the level of care, supervision, and other services to be provided, (ii) the cost of goods and services in the geographic area in which the facility is located, and (iii) comparability with other facilities in such area providing similar services.
 
 &emsp;(C) Criteria for determining the resources that a facility needs in order to provide an appropriate level of services to veterans.
 

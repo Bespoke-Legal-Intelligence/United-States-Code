@@ -10,7 +10,7 @@ A credit union or group of credit unions, primarily serving other credit unions,
 
 &emsp;(1) obtaining the approval of the Board;
 
-&emsp;(2) subscribing to the capital stock of the Facility in an amount not less than one-half of 1 per centum of the paid-in and unimpaired capital and surplus of all those credit unions which primarily serve natural persons, which are members of such credit union or of anycredit union comprising such credit union group, and which are not regular members;
+&emsp;(2) subscribing to the capital stock of the Facility in an amount not less than one-half of 1 per centum of the paid-in and unimpaired capital and surplus of all those credit unions which primarily serve natural persons, which are members of such credit union or of any credit union comprising such credit union group, and which are not regular members;
 
 &emsp;(3) agreeing to comply with rules and regulations the Board shall prescribe with respect to, but not limited to, management quality, asset and liability safety and soundness, internal operating and control practices and procedures, and participation of natural persons in the affairs of such credit union or credit union group; and
 
@@ -30,7 +30,7 @@ An Agent member of the Facility shall perform for its member credit unions those
 
 #### (e) Withdrawal from or termination of membership
 
-(1) A member of the Facility whose capital stock subscription constitutes less than 5 per centum of such stock outstanding, may withdraw from membership in the Facility six months after notifying the Board of its intention to do so.
+(1) A member of the Facility whose capital stock subscription constitutes less than 5 percentum of such stock outstanding, may withdraw from membership in the Facility six months after notifying the Board of its intention to do so.
 
 (2) A member of the Facility whose capital stock subscription constitutes 5 per centum or more of such stock outstanding, may withdraw from membership in the Facility twenty-four months after notifying the Board of its intention to do so.
 
@@ -44,13 +44,13 @@ Section 309(b)(1) of Pub. L. 96–221 redesignated subch. III as title III of ac
 
 #### Amendments
 
-2006—Subsec. (b)(3). Pub. L. 109–351 substituted “the affairs of such credit union” for “the affairs or such credit union”.
+<b>2006</b>—Subsec. (b)(3). Pub. L. 109–351 substituted “the affairs of such credit union” for “the affairs or such credit union”.
 
-1980—Subsecs. (b), (c). Pub. L. 96–221, §309(a)(4), substituted “Board” for “Administrator” wherever appearing, such change having been made previously by Pub. L. 95–630.
+<b>1980</b>—Subsecs. (b), (c). Pub. L. 96–221, §309(a)(4), substituted “Board” for “Administrator” wherever appearing, such change having been made previously by Pub. L. 95–630.
 
 Subsecs. (d), (e). Pub. L. 96–221, §309(a)(4), (b)(2), substituted “Board” for “Administrator” wherever appearing, such change having been made previously by Pub. L. 95–630, and “title” for “subchapter” wherever appearing, which for purposes of codification has been editorially translated as “subchapter”, thereby requiring no further change in text.
 
-1978—Pub. L. 95–630, §502(b), substituted “Board” for “Administrator” wherever appearing.
+<b>1978</b>—Pub. L. 95–630, §502(b), substituted “Board” for “Administrator” wherever appearing.
 
 #### Effective Date of 1978 Amendment
 

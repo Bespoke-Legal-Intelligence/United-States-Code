@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Subject to the availability of appropriations authorized by subsection (e), the Commission shall establish a grant program to provide assistance to eligible States.
+Subject to the availability of appropriations authorized by subsection (e), the Commissionshall establish a grant program to provide assistance to eligible States.
 
 #### (b) Eligibility
 
@@ -10,7 +10,7 @@ To be eligible for a grant under the program, a State shall—
 
 &emsp;(1) demonstrate to the satisfaction of the Commission that it has a State statute, or that, after December 19, 2007, it has enacted a statute, or amended an existing statute, and provides for the enforcement of,<sup>1</sup> a law that—
 
-&emsp;&emsp;(A) except as provided in section 8005(a)(1)(A)(i) of this title, applies to all swimming pools in the State; and
+&emsp;&emsp;(A) except as provided in section 8005(a)(1)(A)(i) of this title, applies to all swimming pools constructed after the date that is 6 months after December 23, 2011, in the State; and
 
 &emsp;&emsp;(B) meets the minimum State law requirements of section 8005 of this title; and
 
@@ -40,13 +40,21 @@ A State receiving a grant under this section shall use—
 
 #### (e) Authorization of appropriations
 
-There are authorized to be appropriated to the Commission for each of fiscal years 2009 and 2010 $2,000,000 to carry out this section, such sums to remain available until expended. Any amounts appropriated pursuant to this subsection that remain unexpended and unobligated at the end of fiscal year 2010 shall be retained by the Commission and credited to the appropriations account that funds enforcement of the Consumer Product Safety Act \[15 U.S.C. 2051 et seq.\].
+There are authorized to be appropriated to the Commission for each of fiscal years 2009 and 2010 $2,000,000 to carry out this section, such sums to remain available until expended. Any amounts appropriated pursuant to this subsection that remain unexpended and unobligated at the end of fiscal year 2012 shall be retained by the Commission and credited to the appropriations account that funds enforcement of the Consumer Product Safety Act \[15 U.S.C. 2051 et seq.\].
 
-(Pub. L. 110–140, title XIV, §1405, Dec. 19, 2007, 121 Stat. 1796.)
+(Pub. L. 110–140, title XIV, §1405, Dec. 19, 2007, 121 Stat. 1796; Pub. L. 112–10, div. B, title V, §1576(b), Apr. 15, 2011, 125 Stat. 139; Pub. L. 112–74, div. C, title V, §502, Dec. 23, 2011, 125 Stat. 908.)
 
 #### References in Text
 
 The Consumer Product Safety Act, referred to in subsec. (e), is Pub. L. 92–573, Oct. 27, 1972, 86 Stat. 1207, which is classified generally to chapter 47 (§2051 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2051 of this title and Tables.
+
+#### Amendments
+
+<b>2011</b>—Subsec. (b)(1)(A). Pub. L. 112–74, §502(b), inserted “constructed after the date that is 6 months after December 23, 2011,” after “swimming pools”.
+
+Subsec. (e). Pub. L. 112–74, §502(a), substituted “2012” for “2011”.
+
+Pub. L. 112–10, which directed substitution of “2011” for “2010”, was executed by making the substitution for “2010” the second place appearing to reflect the probable intent of Congress.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

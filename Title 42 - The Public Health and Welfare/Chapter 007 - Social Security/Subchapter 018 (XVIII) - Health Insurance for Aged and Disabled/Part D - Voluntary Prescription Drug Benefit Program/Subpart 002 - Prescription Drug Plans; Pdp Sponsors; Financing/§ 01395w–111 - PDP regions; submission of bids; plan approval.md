@@ -28,7 +28,7 @@
 
 #### (1) In general
 
-&emsp;A PDP sponsor shall submit to the Secretary information described in paragraph (2) with respect to each prescription drug plan it offers. Such information shall be submitted at the same time and in a similar manner to the manner in which information described in paragraph (6) of section 1395w–24(a) of thistitle is submitted by an MA organization under paragraph (1) of such section.
+&emsp;A PDP sponsor shall submit to the Secretary information described in paragraph (2) with respect to each prescription drug plan it offers. Such information shall be submitted at the same time and in a similar manner to the manner in which information described in paragraph (6) of section 1395w–24(a) of this title is submitted by an MA organization under paragraph (1) of such section.
 
 #### (2) Information described
 
@@ -250,7 +250,7 @@
 
 &emsp;&emsp;(B) does not submit a bid under subsection (b) of this section for any prescription drug plan for any PDP region for the first year of such contract period.
 
-> &emsp;For purposes of subparagraph (B), an entity shall be treated as submitting a bid with respect to a prescription drug plan if the entity is acting as a subcontractor of a PDP sponsor that is offering such a plan. The previous sentence shall not apply to entities that are subcontractors of an MA organization except insofar as such organization is acting as a PDP sponsor with respect to a prescription drug plan.
+> &emsp;For purposes of subparagraph (B), an entity shall be treated as submitting a bid with respect to a prescription drug plan if the entity is acting as a subcontractor of a PDP sponsorthat is offering such a plan. The previous sentence shall not apply to entities that are subcontractors of an MA organization except insofar as such organization is acting as a PDP sponsor with respect to a prescription drug plan.
 
 #### (3) Fallback service area
 

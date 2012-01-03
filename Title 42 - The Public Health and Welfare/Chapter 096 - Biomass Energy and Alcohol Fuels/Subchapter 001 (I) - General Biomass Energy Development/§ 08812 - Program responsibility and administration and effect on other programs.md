@@ -36,7 +36,7 @@
 
 &emsp;(C) additional applications for financial assistance are solicited within 1 year after the date of the initial solicitation;
 
-&emsp;(D) any application is evaluated and a decision made on such application within 120 days after the receipt of the application, includingreview under subsections (a)(2)(C), (a)(2)(D), or (c) of this section; and
+&emsp;(D) any application is evaluated and a decision made on such application within 120 days after the receipt of the application, including review under subsections (a)(2)(C), (a)(2)(D), or (c) of this section; and
 
 &emsp;(E) all interested persons are provided the easiest possible access to the application process, including procedures which assure that—
 

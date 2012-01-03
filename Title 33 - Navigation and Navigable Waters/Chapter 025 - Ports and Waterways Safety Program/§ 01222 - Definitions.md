@@ -2,7 +2,7 @@
 
 As used in this chapter, unless the context otherwise requires—
 
-&emsp;(1) “Marine environment” means the navigable waters of the United States and the land and resources therein and thereunder; the waters and fishery resources of any area over which the United States asserts exclusive fishery management authority; the seabed and subsoil of the Outer Continental Shelf of the United States, the resources thereof and the waters superjacent thereto; and the recreational, economic, and scenic values of such waters and resources.
+&emsp;(1) “Marine environment” means the navigable waters of the United States and the land and resources therein and thereunder; the waters and fishery resources of any area overwhich the United States asserts exclusive fishery management authority; the seabed and subsoil of the Outer Continental Shelf of the United States, the resources thereof and the waters superjacent thereto; and the recreational, economic, and scenic values of such waters and resources.
 
 &emsp;(2) “Secretary” means the Secretary of the department in which the Coast Guard is operating, except that “Secretary” means the Secretary of Transportation with respect to the application of this chapter to the Saint Lawrence Seaway.
 

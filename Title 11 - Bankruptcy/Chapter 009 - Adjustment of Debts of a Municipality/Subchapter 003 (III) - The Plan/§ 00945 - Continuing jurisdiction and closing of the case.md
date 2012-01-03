@@ -8,13 +8,13 @@
 
 #### Historical and Revision Notes
 
-I74senate report no. 95–989
+#### senate report no. 95–989
 
 Section 948 \[enacted as section 945\] permits the court to retain jurisdiction over the case to ensure successful execution of the plan. The provision is the same as that found in section 96(e) of Chapter 9 of the present Act \[section 416(e) of former title 11\].
 
 #### Amendments
 
-1984—Subsec. (a). Pub. L. 98–353 substituted “implementation” for “execution”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–353 substituted “implementation” for “execution”.
 
 #### Effective Date of 1984 Amendment
 

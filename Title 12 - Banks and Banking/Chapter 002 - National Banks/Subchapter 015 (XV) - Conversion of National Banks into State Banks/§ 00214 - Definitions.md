@@ -8,11 +8,11 @@
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–351 and 109–356 amended subsec. (a) identically, striking out “(except a national banking association)” before period at end.
+<b>2006</b>—Subsec. (a). Pub. L. 109–351 and 109–356 amended subsec. (a) identically, striking out “(except a national banking association)” before period at end.
 
-1954—Act Sept. 3, 1954, substituted “this subchapter and section 321 of this title” for “sections 214 to 214c, 264(e)(2), (i)(2), (v)(4), and 321 of this title” wherever appearing.
+<b>1954</b>—Act Sept. 3, 1954, substituted “this subchapter and section 321 of this title” for “sections 214 to 214c, 264(e)(2), (i)(2), (v)(4), and 321 of this title” wherever appearing.
 
 #### Separability
 
-Section 9 of act Aug. 17, 1950, provided that: “If any provision of this Act \[enacting this subchapter and amending of sections 264 and 321 of this title\], or the application thereof to any person or circumstance, is held invalid, the remainder of the Act and the application of such provision to other persons or circumstances shall not be affected thereby.”
+Section 9 of act Aug. 17, 1950, provided that: “If any provision of this Act \[enacting this subchapter andamending of sections 264 and 321 of this title\], or the application thereof to any person or circumstance, is held invalid, the remainder of the Act and the application of such provision to other persons or circumstances shall not be affected thereby.”
 

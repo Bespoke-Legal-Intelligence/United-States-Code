@@ -56,5 +56,5 @@ If a person fails to pay an assessment of a civil penalty after it has become a 
 
 #### Amendments
 
-1991—Subsec. (d)(1). Pub. L. 102–237 substituted “United States District Court” for “United States district court”.
+<b>1991</b>—Subsec. (d)(1). Pub. L. 102–237 substituted “United States District Court” for “United States district court”.
 

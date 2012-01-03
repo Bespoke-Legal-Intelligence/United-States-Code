@@ -22,7 +22,7 @@ For exception of functions of corporations of Department of Agriculture from tra
 
 #### Establishing Quality as Goal for Commodity Credit Corporation Programs
 
-Pub. L. 101–624, title XXV, §2517, formerly §2518, Nov. 28, 1990, 104 Stat. 4078, as renumbered by Pub. L. 104–66, title I, §1011(h), Dec. 21, 1995, 109 Stat. 710, provided that: “In carrying out its activities the Commodity Credit Corporation shall, to the extent practicable, provide for program provisions that promote quality in the production and marketing of crops and livestock in the United States.”
+Pub. L. 101–624, title XXV, §2517, formerly §2518, Nov. 28, 1990, 104 Stat. 4078, as renumbered by Pub. L. 104–66,title I, §1011(h), Dec. 21, 1995, 109 Stat. 710, provided that: “In carrying out its activities the Commodity Credit Corporation shall, to the extent practicable, provide for program provisions that promote quality in the production and marketing of crops and livestock in the United States.”
 
 \[Pub. L. 104–127, title VII, §711, Apr. 4, 1996, 110 Stat. 1112, which directed the repeal of section 2517 of the Food, Agriculture, Conservation, and Trade Act of 1990, Pub. L. 101–624, relating to a study of transportation of fertilizer and agricultural chemicals to farmers, was not executed to provisions set out above, to reflect the probable intent of Congress and the amendment by Pub. L. 104–66, title I, §1011(h), Dec. 21, 1995, 109 Stat. 710, which repealed section 2517 of Pub. L. 101–624 relating to such study, and renumbered section 2518 of Pub. L. 101–624, set out above, as section 2517 of Pub. L. 101–624.\]
 

@@ -10,7 +10,7 @@ For definition of “this chapter”, referred to in text, see note set out unde
 
 #### Amendments
 
-1981—Pub. L. 97–98 substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare” in two places.
+<b>1981</b>—Pub. L. 97–98 substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare” in two places.
 
 #### Effective Date of 1981 Amendment
 

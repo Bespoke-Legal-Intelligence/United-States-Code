@@ -1,6 +1,6 @@
 ### §1736<i>l</i>. Consultation on grain marketing
 
-Congress encourages the Secretary of Agriculture, in coordination with other appropriate Federal departments and agencies, to continue to consult with representatives of other major grain exporting nations toward the goal of establishing more orderly marketing of grain and achieving higher farm income for producers of grain.
+Congress encourages the Secretary of Agriculture, in coordination with other appropriate Federal departments and agencies, to continue to consult with representatives of other majorgrain exporting nations toward the goal of establishing more orderly marketing of grain and achieving higher farm income for producers of grain.
 
 (Pub. L. 97–98, title XII, §1206, Dec. 22, 1981, 95 Stat. 1278.)
 

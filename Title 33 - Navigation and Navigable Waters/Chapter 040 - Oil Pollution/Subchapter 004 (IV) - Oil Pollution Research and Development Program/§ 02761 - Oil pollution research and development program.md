@@ -128,7 +128,7 @@
 
 #### (7) Simulated environmental testing
 
-&emsp;Agencies represented on the Interagency Committee shall ensure the long-term use and operation of the Oil and Hazardous Materials Simulated Environmental Test Tank (OHMSETT) Research Center in New Jersey for oil pollution technology testing and evaluations.
+&emsp;Agencies represented on the Interagency Committee shall ensure the long-term use and operation of the Oil and Hazardous Materials Simulated Environmental Test Tank\(OHMSETT) Research Center in New Jersey for oil pollution technology testing and evaluations.
 
 #### (8) Regional research program
 

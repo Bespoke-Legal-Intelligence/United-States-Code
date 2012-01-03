@@ -44,7 +44,7 @@
 
 #### (1) In general
 
-&emsp;The amounts deposited into the Fund under subsection (a)(2) shall be available, withoutfurther appropriation, consistent with paragraph (2) and subsection (c), to carry out part B and sections 300mm–1(a), 300mm–2, 300mm–3, 300mm–4(a)(2), 300mm–4(c), 300mm–51, and 300mm–52 of this title.
+&emsp;The amounts deposited into the Fund under subsection (a)(2) shall be available, without further appropriation, consistent with paragraph (2) and subsection (c), to carry out part B and sections 300mm–1(a), 300mm–2, 300mm–3, 300mm–4(a)(2), 300mm–4(c), 300mm–51, and 300mm–52 of this title.
 
 #### (2) Limitation on mandatory funding
 

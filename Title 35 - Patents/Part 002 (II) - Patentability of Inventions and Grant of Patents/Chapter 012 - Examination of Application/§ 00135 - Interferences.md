@@ -12,9 +12,43 @@ The Director shall give notice to the parties or their attorneys of record, a re
 
 Any discretionary action of the Director under this subsection shall be reviewable under section 10 of the Administrative Procedure Act.
 
-(d) Parties to a patent interference, within such time as may be specified by the Director byregulation, may determine such contest or any aspect thereof by arbitration. Such arbitration shall be governed by the provisions of title 9 to the extent such title is not inconsistent with this section. The parties shall give notice of any arbitration award to the Director, and such award shall, as between the parties to the arbitration, be dispositive of the issues to which it relates. The arbitration award shall be unenforceable until such notice is given. Nothing in this subsection shall preclude the Director from determining patentability of the invention involved in the interference.
+(d) Parties to a patent interference, within such time as may be specified by the Director by regulation, may determine such contest or any aspect thereof by arbitration. Such arbitration shall be governed by the provisions of title 9 to the extent such title is not inconsistent with this section. The parties shall give notice of any arbitration award to the Director, and such award shall, as between the parties to the arbitration, be dispositive of the issues to which it relates. The arbitration award shall be unenforceable until such notice is given. Nothing in this subsection shall preclude the Director from determining patentability of the invention involved in the interference.
 
-(July 19, 1952, ch. 950, 66 Stat. 801; Pub. L. 87–831, Oct. 15, 1962, 76 Stat. 958; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 98–622, title I, §105, title II, §202, Nov. 8, 1984, 98 Stat. 3385, 3386; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4507(11), 4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–566, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
+(July 19, 1952, ch. 950, 66 Stat. 801; Pub. L. 87–831, Oct. 15, 1962, 76 Stat. 958; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 98–622, title I, §105, title II, §202, Nov. 8, 1984, 98 Stat. 3385, 3386; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4507(11), 4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–566, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, §§3(i), 20(j), Sept. 16, 2011, 125 Stat. 289, 335.)
+
+#### Amendment of Section
+
+<i>Pub. L. 112–29, §20(j), (l), Sept. 16, 2011, 125 Stat. 335, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, this section is amended by striking “of this title” each place that term appears. See 2011 Amendment note below.</i>
+
+<i>Pub. L. 112–29, §3(i), (n), Sept. 16, 2011, 125 Stat. 289, 293, provided that, effective upon the expiration of the 18-month period beginning on Sept. 16, 2011, and applicable to certain applications for patent and any patents issuing thereon, this section is amended to read as follows:</i>
+
+#### §135. Derivation proceedings
+
+<i>(a)</i>
+
+<i>Institution of Proceeding.—An applicant for patent may file a petition to institute a derivation proceeding in the Office. The petition shall set forth with particularity the basis for finding that an inventor named in an earlier application derived the claimed invention from an inventor named in the petitioner's application and, without authorization, the earlier application claiming such invention was filed. Any such petition may be filed only within the 1-year period beginning on the date of the first publication of a claim to an invention that is the same or substantially the same as the earlier application's claim to the invention, shall be made under oath, and shall be supported by substantial evidence. Whenever the Director determines that a petition filed under this subsection demonstrates that the standards for instituting a derivation proceeding are met, the Director may institute a derivation proceeding. The determination by the Director whether to institute a derivation proceeding shall be final and nonappealable.</i>
+
+<i>(b)</i>
+
+<i>Determination by Patent Trial and Appeal Board.—In a derivation proceeding instituted under</i><i>subsection (a), the Patent Trial and Appeal Board shall determine whether an inventor named in the earlier application derived the claimed invention from an inventor named in the petitioner's application and, without authorization, the earlier application claiming such invention was filed. In appropriate circumstances, the Patent Trial and Appeal Board may correct the naming of the inventor in any application or patent at issue. The Director shall prescribe regulations setting forth standards for the conduct of derivation proceedings, including requiring parties to provide sufficient evidence to prove and rebut a claim of derivation.</i>
+
+<i>(c)</i>
+
+<i>Deferral of Decision.—The Patent Trial and Appeal Board may defer action on a petition for a derivation proceeding until the expiration of the 3-month period beginning on the date on which the Director issues a patent that includes the claimed invention that is the subject of the petition. The Patent Trial and Appeal Board also may defer action on a petition for a derivation proceeding, or stay the proceeding after it has been instituted, until the termination of a proceeding under chapter 30, 31, or 32 involving the patent of the earlier applicant.</i>
+
+<i>(d)</i>
+
+<i>Effect of Final Decision.—The final decision of the Patent Trial and Appeal Board, if adverse to claims in an application for patent, shall constitute the final refusal by the Office on those claims. The final decision of the Patent Trial and Appeal Board, if adverse to claims in a patent, shall, if no appeal or other review of the decision has been or can be taken or had, constitute cancellation of those claims, and notice of such cancellation shall be endorsed on copies of the patent distributed after such cancellation.</i>
+
+<i>(e)</i>
+
+<i>Settlement.—Parties to a proceeding instituted under subsection (a) may terminate the proceeding by filing a written statement reflecting the agreement of the parties as to the correct inventors of the claimed invention in dispute. Unless the Patent Trial and Appeal Board finds the agreement to be inconsistent with the evidence of record, if any, it shall take action consistent with the agreement. Any written settlement or understanding of the parties shall be filed with the Director. At the request of a party to the proceeding, the agreement or understanding shall be treated as business confidential information, shall be kept separate from the file of the involved patents or applications, and shall be made available only to Government agencies on written request, or to any person on a showing of good cause.</i>
+
+<i>(f)</i>
+
+<i>Arbitration.—Parties to a proceeding instituted under subsection (a) may, within such time as may be specified by the Director by regulation, determine such contest or any aspect thereof by arbitration. Such arbitration shall be governed by the provisions of title 9, to the extent such title is not inconsistent with this section. The parties shall give notice of any arbitration award to the Director, and such award shall, as between the parties to the arbitration, be dispositive of the issues to which it relates. The arbitration award shall be unenforceable until such notice is given. Nothing in this subsection shall preclude the Director from determining the patentability of the claimed inventions involved in the proceeding.</i>
+
+<i>See 2011 Amendment note below.</i>
 
 #### Historical and Revision Notes
 
@@ -29,6 +63,10 @@ The second paragraph is based on Title 35, U.S.C., 1946 ed., §51, (R.S. 4903, a
 Section 10 of the Administrative Procedure Act, referred to in subsec. (c), is section 10 of act June 11, 1946, ch. 324, 60 Stat. 243, which was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 632, and reenacted by the first section thereof as chapter 7 (§701 et seq.) of Title 5, Government Organization and Employees.
 
 #### Amendments
+
+<b>2011</b>—Pub. L. 112–29, §3(i), amended section generally. Prior to amendment, section related to interferences.
+
+Subsec. (b)(2). Pub. L. 112–29, §20(j), struck out “of this title” after “122(b)”.
 
 <b>2002</b>—Subsecs. (a), (c), (d). Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\]. See 1999 Amendment notes below.
 
@@ -46,6 +84,12 @@ Subsec. (d). Pub. L. 98–622, §105, added subsec. (d).
 
 <b>1962</b>—Pub. L. 87–831 designated first and second pars. as subsecs. (a) and (b) and added subsec. (c).
 
+#### Effective Date of 2011 Amendment
+
+Amendment by section 3(i) of Pub. L. 112–29 effective upon the expiration of the 18-month period beginning on Sept. 16, 2011, and applicable to certain applications for patent and any patents issuing thereon, see section 3(n) of Pub. L. 112–29, set out as an Effective Date of 2011 Amendment; Savings Provisions note under section 100 of this title.
+
+Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(<i>l</i>) of Pub. L. 112–29, set out as a note under section 2 of this title.
+
 #### Effective Date of 1999 Amendment
 
 Amendment by section 1000(a)(9) \[title IV, §4507(11)\] of Pub. L. 106–113 effective Nov. 29, 2000, and applicable only to applications (including international applications designating the United States) filed on or after that date, see section 1000(a)(9) \[title IV, §4508\] of Pub. L. 106–113, as amended, set out as a note under section 10 of this title.
@@ -61,4 +105,8 @@ Amendment by section 202 of Pub. L. 98–622 effective three months after Nov. 8
 #### Effective Date of 1975 Amendment
 
 Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 93–596, set out as a note under section 1111 of Title 15, Commerce and Trade.
+
+#### Savings Provisions
+
+Provisions of 35 U.S.C. 135, as in effect on the day before the expiration of the 18-month period beginning on Sept. 16, 2011, apply to each claim of certain applications for patent, and certain patents issued thereon, for which the amendments made by section 3 of Pub. L. 112–29 also apply, see section 3(n)(2) of Pub. L. 112–29, set out as an Effective Date of 2011 Amendment; Savings Provisions note under section 100 of this title.
 

@@ -4,7 +4,7 @@ Notwithstanding section 410 of this title, or any action taken pursuant to autho
 
 &emsp;(1) Beginning at the intersection of the south right-of-way line of United States Highway Numbered 41, also known as the Tamiami Trail, and the west line of township 54 south, range 37 east, as shown on the Everglades National Park base map numbered NP–EVE–7109, revised August 10, 1949;
 
-&emsp;thence southerly along the west line of township 54 south, range 37 east, along the west line of Government lot 6 lying between township 54 south, and township 55 south, range 37 east, and along the west line of township 55 south, range 37 east, and township 56 south, range 37 east and along the west lines of sections 6, 7, and 18, township 57 south, range 37 east, to the southwest corner of section 18, said township and range;
+&emsp;thence southerly along the west line of township 54 south, range 37 east, along the west line of Government lot 6 lying between township 54 south, and township 55 south, range 37 east, and along the west line of township 55 south, range 37 east, and township 56south, range 37 east and along the west lines of sections 6, 7, and 18, township 57 south, range 37 east, to the southwest corner of section 18, said township and range;
 
 &emsp;thence easterly along the north line of section 19, 20, 21, 22, and 23 of said township and range to the northeast corner of section 23;
 
@@ -156,11 +156,15 @@ Notwithstanding section 410 of this title, or any action taken pursuant to autho
 
 &emsp;thence easterly along the south right-of-way line of United States Highway Numbered 41, also known as the Tamiami Trail, across township 36½ east to the intersection of the west line of township 54 south, range 37 east, the point of beginning;
 
-&emsp;(2) Land acquired by the United States of America for furthering administration and use of the park by deeds dated January 25, 1954 (2), and February 27, 1954 (2), recorded in the public records of Monroe County, Florida, book OR–3, pages 302 to 308, inclusive, and book OR–2, pages 378 to 381, inclusive, respectively; and accepted by the National Park Service on April 7, 1954 (2), and April 5, 1954 (2), respectively; and
+&emsp;(2) Land acquired by the United States of America for furthering administration and use of the park by deeds dated January 25, 1954 (2), and February 27, 1954 (2), recorded in the public records of Monroe County, Florida, book OR–3, pages 302 to 308, inclusive, and bookOR–2, pages 378 to 381, inclusive, respectively; and accepted by the National Park Service on April 7, 1954 (2), and April 5, 1954 (2), respectively; and
 
 &emsp;(3) Not to exceed 35 acres, to be acquired by donation only, in or in the vicinity of Everglades City, Florida, which the Secretary of the Interior may find necessary and suitable for furthering administration and use of the park.
 
 Land and water now in Federal ownership within said boundary shall continue to be administered as Everglades National Park; however, the land and water therein not in Federal ownership shall be administered as a part of the park only after being acquired as hereinafter provided.
 
 (Pub. L. 85–482, §1, July 2, 1958, 72 Stat. 280.)
+
+#### Everglades Ecosystem Restoration
+
+Pub. L. 112–74, div. E, title I, §107, Dec. 23, 2011, 125 Stat. 1008, provided that: “This \[fiscal year 2012\] and any subsequent fiscal year, the National Park Service is authorized to implement modifications to the Tamiami Trail as described in, and in accordance with, the preferred alternative identified in the final environmental impact statement noticed in the Federal Register on December 14, 2010, (75 Fed. Reg. 77896), relating to restoration efforts of the Everglades ecosystem.”
 

@@ -6,7 +6,7 @@ Notwithstanding any other provision of law, and subject to subsection (d), grant
 
 &emsp;(1) establish programs for the development and maintenance of mass evacuation plans under subsection (b) in the event of a natural disaster, act of terrorism, or other man-made disaster;
 
-&emsp;(2) prepare for the execution of such plans, including the development of evacuation routes and the purchase and stockpiling of necessary supplies and shelters; and
+&emsp;(2) prepare for the execution of such plans, including the development of evacuationroutes and the purchase and stockpiling of necessary supplies and shelters; and
 
 &emsp;(3) conduct exercises of such plans.
 
@@ -50,7 +50,7 @@ Nothing in this section may be construed to preclude a State, local, or tribal g
 
 #### Amendments
 
-2007—Subsec. (b)(5)(A). Pub. L. 110–53 inserted “, including the elderly” after “needs”.
+<b>2007</b>—Subsec. (b)(5)(A). Pub. L. 110–53 inserted “, including the elderly” after “needs”.
 
 #### Change of Name
 

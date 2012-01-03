@@ -40,7 +40,7 @@ Solicitation of Offers To Purchase Certain Facilities.—In connection with soli
 
 &emsp;&emsp;(C) the initial rates that will be charged to the purchaser for capacity in facilities retained by the Government and available for commercial use;
 
-&emsp;(2) provide in the request for offers to purchase that offerors must specify the rates the offerors propose to charge for service and theimprovements in service the offerors propose to initiate;
+&emsp;(2) provide in the request for offers to purchase that offerors must specify the rates the offerors propose to charge for service and the improvements in service the offerors propose to initiate;
 
 &emsp;(3) provide an opportunity for prospective purchasers to meet as a group with Department of Defense representatives to ensure that the data and public interest requirements described in clauses (1) and (2) are fully understood; and
 

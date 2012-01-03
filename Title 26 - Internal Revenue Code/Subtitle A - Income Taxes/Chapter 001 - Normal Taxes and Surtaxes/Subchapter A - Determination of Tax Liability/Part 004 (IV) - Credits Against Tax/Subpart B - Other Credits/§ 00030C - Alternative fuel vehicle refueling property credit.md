@@ -14,7 +14,7 @@ The credit allowed under subsection (a) with respect to all qualified alternativ
 
 #### (c) Qualified alternative fuel vehicle refueling property
 
-For purposes of this section, the term “qualified alternative fuel vehicle refueling property” has the same meaning as the term “qualified clean-fuel vehicle refueling property” would have under section 179A if—
+For purposes of this section, the term “qualified alternative fuel vehicle refueling property”has the same meaning as the term “qualified clean-fuel vehicle refueling property” would have under section 179A if—
 
 &emsp;(1) paragraph (1) of section 179A(d) did not apply to property installed on property which is used as the principal residence (within the meaning of section 121) of the taxpayer, and
 
@@ -164,11 +164,11 @@ Amendment made by the safetea–lu.—The amendment made by subsection (d)(2)(C)
 
 #### Effective Date of 2005 Amendment
 
-Amendment by section 402(k) of Pub. L. 109–135 effective as if included in the provision of the Energy Policy Act of 2005, Pub. L. 109–58, to which such amendment relates, see section 402(m)(1) of Pub. L. 109–135, set out as an Effective and Termination Dates of 2005 Amendments note under section 36C of this title.
+Amendment by section 402(k) of Pub. L. 109–135 effective as if included in the provision of the Energy Policy Act of 2005, Pub. L. 109–58, to which such amendment relates, see section 402(m)(1) of Pub. L. 109–135, set out as an Effective and Termination Dates of 2005 Amendments note under section 23 of this title.
 
 #### Effective Date
 
-Pub. L. 109–58, title XIII, §1342(c), Aug. 8, 2005, 119 Stat. 1051, provided that: “The amendments made bythis section \[enacting this section and amending sections 38, 55, 1016, and 6501 of this title\] shall apply to property placed in service after December 31, 2005, in taxable years ending after such date.”
+Pub. L. 109–58, title XIII, §1342(c), Aug. 8, 2005, 119 Stat. 1051, provided that: “The amendments made by this section \[enacting this section and amending sections 38, 55, 1016, and 6501 of this title\] shall apply to property placed in service after December 31, 2005, in taxable years ending after such date.”
 
 <i><sup>1</sup></i><i> So in original.</i>
 

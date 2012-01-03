@@ -44,7 +44,7 @@ There are authorized to be appropriated to carry out this section such sums as m
 
 #### References in Text
 
-The Rehabilitation Act Amendments of 1998, referred to in subsec. (e), is title IV of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 1092. For complete classification of this Act to the Code, see Tables.
+The Rehabilitation Act Amendments of 1998, referred to in subsec. (e), is title IV of Pub. L. 105–220, Aug. 7,1998, 112 Stat. 1092. For complete classification of this Act to the Code, see Tables.
 
 #### Prior Provisions
 

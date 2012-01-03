@@ -22,7 +22,7 @@
 
 &emsp;(D) The extent that a proposal leverages financing from other non-Federal sources.
 
-&emsp;(E) Any other factor which the Secretary determines will result in the greatest amount of energy and cost savings to the Federal Government.
+&emsp;(E) Any other factor which the Secretary determines will result in the greatest amount ofenergy and cost savings to the Federal Government.
 
 (4) There are authorized to be appropriated, to remain available to be expended, to carry out this subsection not more than $10,000,000 for fiscal year 1994, $50,000,000 for fiscal year 1995, and such sums as may be necessary for fiscal years thereafter.
 

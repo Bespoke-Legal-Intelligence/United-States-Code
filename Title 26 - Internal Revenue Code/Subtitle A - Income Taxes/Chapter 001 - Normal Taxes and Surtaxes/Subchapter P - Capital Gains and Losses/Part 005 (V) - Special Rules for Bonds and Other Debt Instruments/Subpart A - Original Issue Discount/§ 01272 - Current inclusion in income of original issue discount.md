@@ -198,7 +198,7 @@ This section shall not apply to any holder—
 
 #### Effective Date of 1997 Amendment
 
-Section 1004(b)(1) of Pub. L. 105–34 provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Section 1004(b)(1) of Pub. L. 105–34 provided that: “The amendment made by this section \[amending thissection\] shall apply to taxable years beginning after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 #### Effective Date of 1986 Amendment
 
@@ -210,7 +210,7 @@ Section applicable to taxable years ending after July 18, 1984, but not applicab
 
 #### Change in Method of Accounting
 
-Section 1004(b)(2) of Pub. L. 105–34 provided that: “In the case of any taxpayer required by this section \[amending this section and enacting provisions set outas a note above\] to change its method of accounting for its first taxable year beginning after the date of the enactment of this Act \[Aug. 5, 1997\]—
+Section 1004(b)(2) of Pub. L. 105–34 provided that: “In the case of any taxpayer required by this section \[amending this section and enacting provisions set out as a note above\] to change its method of accounting for its first taxable year beginning after the date of the enactment of this Act \[Aug. 5, 1997\]—
 
 &emsp;“(A) such change shall be treated as initiated by the taxpayer,
 

@@ -14,7 +14,7 @@ In the course of its negotiations, or in the establishment, unilaterally, of the
 
 &emsp;(3) That the rates on vessels in ballast without passengers or cargo may be less than the rates for vessels with passengers or cargo.
 
-&emsp;(4) That the rates prescribed shall be calculated to cover, as nearly as practicable, all costs of operating and maintaining the works under the administration of the Corporation, including depreciation and payments in lieu of taxes.
+&emsp;(4) That the rates prescribed shall be calculated to cover, as nearly as practicable, allcosts of operating and maintaining the works under the administration of the Corporation, including depreciation and payments in lieu of taxes.
 
 (May 13, 1954, ch. 201, §12, 68 Stat. 96; Pub. L. 91–469, §43(b), Oct. 21, 1970, 84 Stat. 1038; Pub. L. 95–91, title IV, §402(a)(1)(B), Aug. 4, 1977, 91 Stat. 583; Pub. L. 97–369, title III, §311, Dec. 18, 1982, 96 Stat. 1782; Pub. L. 100–352, §6(h), June 27, 1988, 102 Stat. 664.)
 
@@ -30,7 +30,7 @@ Subsec. (b)(4). Pub. L. 91–469, §43(b)(2), struck out “, payment of intere
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–352 effective ninety days after June 27, 1988, except that such amendment not to apply to cases pending in Supreme Court on such effective date or affect right to review or manner of reviewing judgment or decree of court which was entered before such effective date, see section 7 of Pub. L. 100–352,set out as a note under section 1254 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 100–352 effective ninety days after June 27, 1988, except that such amendment not to apply to cases pending in Supreme Court on such effective date or affect right to review or manner of reviewing judgment or decree of court which was entered before such effective date, see section 7 of Pub. L. 100–352, set out as a note under section 1254 of Title 28, Judiciary and Judicial Procedure.
 
 #### Transfer of Functions
 

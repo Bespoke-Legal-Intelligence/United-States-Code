@@ -64,7 +64,7 @@ Amendment by section 1901(a)(158) of Pub. L. 94–455 applicable with respect to
 
 #### Effective Date of 1975 Amendment
 
-Amendment by Pub. L. 94–12 applicable to taxable years beginning after Dec. 31, 1974, see section 305(c) ofPub. L. 94–12, set out as a note under section 535 of this title.
+Amendment by Pub. L. 94–12 applicable to taxable years beginning after Dec. 31, 1974, see section 305(c) of Pub. L. 94–12, set out as a note under section 535 of this title.
 
 #### Effective Date of 1964 Amendment
 

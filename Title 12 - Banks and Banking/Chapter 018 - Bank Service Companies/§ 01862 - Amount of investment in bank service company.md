@@ -6,11 +6,11 @@ Notwithstanding any limitation or prohibition otherwise imposed by any provision
 
 #### Amendments
 
-2006—Pub. L. 109–351 inserted “or savings associations, other than the limitation on the amount of investment by a Federal savings association contained in section 1464(c)(4)(B) of this title” after “relating to banks” and substituted “insured depository institution” for “insured bank” in two places.
+<b>2006</b>—Pub. L. 109–351 inserted “or savings associations, other than the limitation on the amount of investment by a Federal savings association contained in section 1464(c)(4)(B) of this title” after “relating to banks” and substituted “insured depository institution” for “insured bank” in two places.
 
-1996—Pub. L. 104–208 substituted “company” for “corporation” in section catchline and “company” and “companies” for “corporation” and “corporations”, respectively, in text.
+<b>1996</b>—Pub. L. 104–208 substituted “company” for “corporation” in section catchline and “company” and “companies” for “corporation” and “corporations”, respectively, in text.
 
-1982—Pub. L. 97–320 substituted provisions relating to the maximum permissible amount of investment in a bank service corporation by an insured bank for provisions which read as follows:
+<b>1982</b>—Pub. L. 97–320 substituted provisions relating to the maximum permissible amount of investment in a bank service corporation by an insured bank for provisions which read as follows:
 
 “(a) No limitation or prohibition otherwise imposed by any provision of Federal law exclusively relating to banks shall prevent any two or more banks from investing not more than 10 per centum of the paid-in and unimpaired capital and unimpaired surplus of each of them in a bank service corporation.
 

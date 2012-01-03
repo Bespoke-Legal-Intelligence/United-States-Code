@@ -96,7 +96,7 @@ Deposit in special account.—For a transfer or disposition of property pursuant
 
 &emsp;&emsp;(B)
 
-Availability of amount deposited.—To the extent provided in an appropriationlaw, an amount deposited in a special account under subparagraph (A) is available for facility maintenance and repair or environmental restoration as follows:
+Availability of amount deposited.—To the extent provided in an appropriation law, an amount deposited in a special account under subparagraph (A) is available for facility maintenance and repair or environmental restoration as follows:
 
 &emsp;&emsp;&emsp;(i) In the case of property located at a military installation that is closed, the amount is available for facility maintenance and repair or environmental restoration by the military department that had jurisdiction over the property before the closure of the military installation.
 

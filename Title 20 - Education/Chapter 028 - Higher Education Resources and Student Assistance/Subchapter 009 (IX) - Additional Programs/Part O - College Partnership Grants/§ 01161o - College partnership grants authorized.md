@@ -58,7 +58,7 @@ For purposes of this section, the term “articulation agreement” means an agr
 
 There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
 
-(Pub. L. 89–329, title VIII, §841, as added Pub. L. 110–315, title VIII, §801, Aug. 14, 2008, 122 Stat.3420; amended Pub. L. 111–39, title VIII, §801(12), July 1, 2009, 123 Stat. 1956.)
+(Pub. L. 89–329, title VIII, §841, as added Pub. L. 110–315, title VIII, §801, Aug. 14, 2008, 122 Stat. 3420; amended Pub. L. 111–39, title VIII, §801(12), July 1, 2009, 123 Stat. 1956.)
 
 #### Amendments
 

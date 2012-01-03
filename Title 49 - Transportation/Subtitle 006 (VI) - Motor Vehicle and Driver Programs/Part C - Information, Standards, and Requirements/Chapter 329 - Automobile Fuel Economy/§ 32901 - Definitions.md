@@ -298,7 +298,7 @@ Consumer Assistance to Recycle and Save Program.—(a)
 
 Establishment.—There is established in the National Highway Traffic Safety Administration a voluntary program to be known as the ‘Consumer Assistance to Recycle and Save Program’ through which the Secretary, in accordance with this section and the regulations promulgated under subsection (d), shall—
 
-&emsp;“(1) authorize the issuance of an electronic voucher, subject to the specifications set forth in subsection (c), to offset the purchase price or lease pricefor a qualifying lease of a new fuel efficient automobile upon the surrender of an eligible trade-in vehicle to a dealer participating in the Program;
+&emsp;“(1) authorize the issuance of an electronic voucher, subject to the specifications set forth in subsection (c), to offset the purchase price or lease price for a qualifying lease of a new fuel efficient automobile upon the surrender of an eligible trade-in vehicle to a dealer participating in the Program;
 
 &emsp;“(2) register dealers for participation in the Program and require that all registered dealers—
 
@@ -500,7 +500,7 @@ Definitions.—As used in this section—
 
 &emsp;“(2) the term ‘category 1 truck’ means a nonpassenger automobile, as defined in section 32901(a)(17) of title 49, United States Code, that has a combined fuel economy value of at least 18 miles per gallon, except that such term does not include a category 2 truck;
 
-&emsp;“(3) the term ‘category 2 truck’ means a large van or a large pickup, as categorized by the Secretaryusing the method used by the Environmental Protection Agency and described in the report entitled ‘Light-Duty Automotive Technology and Fuel Economy Trends: 1975 through 2008’;
+&emsp;“(3) the term ‘category 2 truck’ means a large van or a large pickup, as categorized by the Secretary using the method used by the Environmental Protection Agency and described in the report entitled ‘Light-Duty Automotive Technology and Fuel Economy Trends: 1975 through 2008’;
 
 &emsp;“(4) the term ‘category 3 truck’ means a work truck, as defined in section 32901(a)(19) of title 49, United States Code;
 

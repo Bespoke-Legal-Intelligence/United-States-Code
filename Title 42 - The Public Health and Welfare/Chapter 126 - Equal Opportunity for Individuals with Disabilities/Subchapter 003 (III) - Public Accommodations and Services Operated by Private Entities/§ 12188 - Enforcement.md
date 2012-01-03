@@ -64,7 +64,7 @@
 
 #### (5) Judicial consideration
 
-&emsp;In a civil action under paragraph (1)(B), the court, when considering what amount of civilpenalty, if any, is appropriate, shall give consideration to any good faith effort or attempt to comply with this chapter by the entity. In evaluating good faith, the court shall consider, among other factors it deems relevant, whether the entity could have reasonably anticipated the need for an appropriate type of auxiliary aid needed to accommodate the unique needs of a particular individual with a disability.
+&emsp;In a civil action under paragraph (1)(B), the court, when considering what amount of civil penalty, if any, is appropriate, shall give consideration to any good faith effort or attempt to comply with this chapter by the entity. In evaluating good faith, the court shall consider, among other factors it deems relevant, whether the entity could have reasonably anticipated the need for an appropriate type of auxiliary aid needed to accommodate the unique needs of a particular individual with a disability.
 
 (Pub. L. 101–336, title III, §308, July 26, 1990, 104 Stat. 363.)
 

@@ -50,7 +50,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 550(a)(1) of the House amendment has been modified in order to permit recovery from an entity for whose benefit an avoided transfer is made in addition to a recovery from the initial transferee of the transfer. Section 550(c) would still apply, and the trustee is entitled only to a single satisfaction. The liability of a transferee under section 550(a) applies only “to the extent that a transfer is avoided”. This means that liability is not imposed on a transferee to the extent that a transferee is protected under a provision such as section 548(c) which grants a good faith transferee for value of a transfer that is avoided only as a fraudulent transfer, a lien on the property transferred to the extent of value given.
 
@@ -68,9 +68,9 @@ Subsection (e) establishes a statute of limitations on avoidance by the Trustee.
 
 #### Amendments
 
-1994—Subsecs. (c) to (f). Pub. L. 103–394 added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively.
+<b>1994</b>—Subsecs. (c) to (f). Pub. L. 103–394 added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively.
 
-1984—Subsec. (a). Pub. L. 98–353, §465(a), substituted “549, 553(b), or 724(a) of this title” for “549, or 724(a) of this title”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–353, §465(a), substituted “549, 553(b), or 724(a) of this title” for “549, or 724(a) of this title”.
 
 Subsec. (d)(1)(A). Pub. L. 98–353, §465(b)(1), inserted “or accruing to” after “by”.
 

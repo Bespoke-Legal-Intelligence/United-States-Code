@@ -34,13 +34,21 @@
 
 &emsp;&emsp;&emsp;The term “labor organization” shall have the meaning given such term in section 152(5) of title 29, and includes any entity (also known as a “hiring hall”) which is used by the organization and an employer to carry out requirements described in section 158(f)(3) of title 29 of an agreement between the organization and the employer.
 
+#### (C) Newly hired employee
+
+&emsp;&emsp;The term “newly hired employee” means an employee who—
+
+&emsp;&emsp;&emsp;(i) has not previously been employed by the employer; or
+
+&emsp;&emsp;&emsp;(ii) was previously employed by the employer but has been separated from such prior employment for at least 60 consecutive days.
+
 #### (b) Employer information
 
 #### (1) Reporting requirement
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraphs (B) and (C), each employer shall furnish to the Directory of New Hires of the State in which a newly hired employee works, a report that contains the name, address, and social security number of the employee, and the name and address of, and identifying number assigned under section 6109 of the Internal Revenue Code of 1986 to, the employer.
+&emsp;&emsp;Except as provided in subparagraphs (B) and (C), each employer shall furnish to the Directory of New Hires of the State in which a newly hired employee works, a report that contains the name, address, and social security number of the employee, the date services for remuneration were first performed by the employee, and the name and address of, and identifying number assigned under section 6109 of the Internal Revenue Code of 1986 to, the employer.
 
 #### (B) Multistate employers
 
@@ -60,7 +68,7 @@
 
 #### (c) Reporting format and method
 
-Each report required by subsection (b) of this section shall be made on a W–4 form or, at the option of the employer, an equivalent form, and may be transmitted by 1st class mail, magnetically, or electronically.
+Each report required by subsection (b) of this section shall, to the extent practicable, be made on a W–4 form or, at the option of the employer, an equivalent form, and may be transmitted by 1st class mail, magnetically, or electronically.
 
 #### (d) Civil money penalties on noncomplying employers
 
@@ -88,7 +96,7 @@ Information shall be entered into the data base maintained by the State Director
 
 #### (1) Transmission of wage withholding notices to employers
 
-&emsp;Within 2 business days after the date information regarding a newly hired employee is entered into the State Directory of New Hires,the State agency enforcing the employee's child support obligation shall transmit a notice to the employer of the employee directing the employer to withhold from the income of the employee an amount equal to the monthly (or other periodic) child support obligation (including any past due support obligation) of the employee, unless the employee's income is not subject to withholding pursuant to section 666(b)(3) of this title.
+&emsp;Within 2 business days after the date information regarding a newly hired employee is entered into the State Directory of New Hires, the State agency enforcing the employee's child support obligation shall transmit a notice to the employer of the employee directing the employer to withhold from the income of the employee an amount equal to the monthly (or other periodic) child support obligation (including any past due support obligation) of the employee, unless the employee's income is not subject to withholding pursuant to section 666(b)(3) of this title.
 
 #### (2) Transmissions to the National Directory of New Hires
 
@@ -118,15 +126,7 @@ Information shall be entered into the data base maintained by the State Director
 
 &emsp;State agencies operating employment security and workers’ compensation programs shall have access to information reported by employers pursuant to subsection (b) of this section for the purposes of administering such programs.
 
-(Aug. 14, 1935, ch. 531, title IV, §453A, as added Pub. L. 104–193, title III, §313(b), Aug. 22, 1996, 110 Stat. 2209; amended Pub. L. 105–33, title V, §5533, Aug. 5, 1997, 111 Stat. 627; Pub. L. 111–291, title VIII, §802(a), (b), Dec. 8, 2010, 124 Stat. 3157.)
-
-#### Amendment of Subsections (b)(1)(A) and (c)
-
-<i>Pub. L. 111–291, title VIII, §802, Dec. 8, 2010, 124 Stat. 3157, provided that, effective 6 months after Dec. 8, 2010, with delay permitted if State legislation is required to meet additional requirements, this section is amended as follows:</i>
-
-<i>(1) in subsection (b)(1)(A), by inserting “the date services for remuneration were first performed by the employee,” after “of the employee,”; and</i>
-
-<i>(2) in subsection (c), by inserting “, to the extent practicable,” after “Each report required by subsection (b) of this section shall”.</i>
+(Aug. 14, 1935, ch. 531, title IV, §453A, as added Pub. L. 104–193, title III, §313(b), Aug. 22, 1996, 110 Stat. 2209; amended Pub. L. 105–33, title V, §5533, Aug. 5, 1997, 111 Stat. 627; Pub. L. 111–291, title VIII, §802(a), (b), Dec. 8, 2010, 124 Stat. 3157; Pub. L. 112–40, title II, §253(a), Oct. 21, 2011, 125 Stat. 422.)
 
 #### References in Text
 
@@ -134,9 +134,27 @@ The Internal Revenue Code of 1986, referred to in subsecs. (a)(2), (b)(1)(A), an
 
 #### Amendments
 
+<b>2011</b>—Subsec. (a)(2)(C). Pub. L. 112–40 added subpar. (C).
+
+<b>2010</b>—Subsec. (b)(1)(A). Pub. L. 111–291, §802(a), inserted “the date services for remuneration were first performed by the employee,” after “of the employee,”.
+
+Subsec. (c). Pub. L. 111–291, §802(b), inserted “, to the extent practicable,” after “Each report required by subsection (b) of this section shall”.
+
 <b>1997</b>—Subsec. (d). Pub. L. 105–33, §5533(1), substituted “shall not exceed” for “shall be less than” in introductory provisions and “$25 per failure to meet the requirements of this section with respect to a newly hired employee” for “$25” in par. (1).
 
-Subsec. (g)(2)(B). Pub. L. 105–33, §5533(2), substituted “information” for “extracts of the reports required under section 503(a)(6) of this title to be made to the Secretary of Labor”.
+Subsec. (g)(2)(B). Pub. L. 105–33, §5533(2), substituted “information” for “extracts of the reports requiredunder section 503(a)(6) of this title to be made to the Secretary of Labor”.
+
+#### Effective Date of 2011 Amendment
+
+Pub. L. 112–40, title II, §253(b), Oct. 21, 2011, 125 Stat. 422, provided that:
+
+“(1)
+
+In general.—Subject to paragraph (2), the amendments made by this section \[amending this section\] shall take effect 6 months after the date of the enactment of this Act \[Oct. 21, 2011\].
+
+“(2)
+
+Compliance transition period.—If the Secretary of Health and Human Services determines that State legislation (other than legislation appropriating funds) is required in order for a State plan under part D of title IV of the Social Security Act \[42 U.S.C. 651 et seq.\] to meet the additional requirement imposed by the amendment made by subsection (a) \[amending this section\], the plan shall not be regarded as failing to meet such requirement before the first day of the second calendar quarter beginning after the close of the first regular session of the State legislature that begins after the effective date of such amendment. If the State has a 2-year legislative session, each year of the session is deemed to be a separate regular session of the State legislature.”
 
 #### Effective Date of 2010 Amendment
 

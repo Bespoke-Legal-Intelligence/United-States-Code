@@ -26,7 +26,7 @@ The definitions and standards of identity promulgated in accordance with the pro
 
 #### (f) Review of order
 
-(1) In a case of actual controversy as to the validity of any order under subsection (e) of thissection, any person who will be adversely affected by such order if placed in effect may at any time prior to the ninetieth day after such order is issued file a petition with the United States court of appeals for the circuit wherein such person resides or has his principal place of business, for a judicial review of such order. A copy of the petition shall be forthwith transmitted by the clerk of the court to the Secretary or other officer designated by him for that purpose. The Secretary thereupon shall file in the court the record of the proceedings on which the Secretary based his order, as provided in section 2112 of title 28.
+(1) In a case of actual controversy as to the validity of any order under subsection (e) of this section, any person who will be adversely affected by such order if placed in effect may at any time prior to the ninetieth day after such order is issued file a petition with the United States court of appeals for the circuit wherein such person resides or has his principal place of business, for a judicial review of such order. A copy of the petition shall be forthwith transmitted by the clerk of the court to the Secretary or other officer designated by him for that purpose. The Secretary thereupon shall file in the court the record of the proceedings on which the Secretary based his order, as provided in section 2112 of title 28.
 
 (2) If the petitioner applies to the court for leave to adduce additional evidence, and shows to the satisfaction of the court that such additional evidence is material and that there were reasonable grounds for the failure to adduce such evidence in the proceeding before the Secretary, the court may order such additional evidence (and evidence in rebuttal thereof) to be taken before the Secretary, and to be adduced upon the hearing, in such manner and upon such terms and conditions as to the court may seem proper. The Secretary may modify his findings as to the facts, or make new findings, by reason of the additional evidence so taken, and he shall file such modified or new findings, and his recommendation, if any, for the modification or setting aside of his original order, with the return of such additional evidence.
 
@@ -60,7 +60,7 @@ A certified copy of the transcript of the record and proceedings under subsectio
 
 (5) Not later than July 1, 2000, the Secretary after evaluating the effectiveness of the Good Guidance Practices document, published in the Federal Register at 62 Fed. Reg. 8961, shall promulgate a regulation consistent with this subsection specifying the policies and procedures of the Food and Drug Administration for the development, issuance, and use of guidance documents.
 
-(June 25, 1938, ch. 675, §701, 52 Stat. 1055; June 25, 1948, ch. 646, §32, 62 Stat. 991; Apr. 15, 1954, ch. 143, §2, 68 Stat. 55; Aug. 1, 1956, ch. 861, §2, 70 Stat. 919; Pub. L. 85–791, §21, Aug. 28, 1958, 72Stat. 948; Pub. L. 86–618, title I, §103(a)(4), July 12, 1960, 74 Stat. 398; Pub. L. 101–535, §8, Nov. 8, 1990, 104 Stat. 2365; Pub. L. 102–300, §6(b)(1), June 16, 1992, 106 Stat. 240; Pub. L. 103–80, §§3(y), (dd)(1), 4(c), Aug. 13, 1993, 107 Stat. 778, 779; Pub. L. 103–396, §3(b), Oct. 22, 1994, 108 Stat. 4155; Pub. L. 105–115, title IV, §405, Nov. 21, 1997, 111 Stat. 2368.)
+(June 25, 1938, ch. 675, §701, 52 Stat. 1055; June 25, 1948, ch. 646, §32, 62 Stat. 991; Apr. 15, 1954, ch. 143, §2, 68 Stat. 55; Aug. 1, 1956, ch. 861, §2, 70 Stat. 919; Pub. L. 85–791, §21, Aug. 28, 1958, 72 Stat. 948; Pub. L. 86–618, title I, §103(a)(4), July 12, 1960, 74 Stat. 398; Pub. L. 101–535, §8, Nov. 8, 1990, 104 Stat. 2365; Pub. L. 102–300, §6(b)(1), June 16, 1992, 106 Stat. 240; Pub. L. 103–80, §§3(y), (dd)(1), 4(c), Aug. 13, 1993, 107 Stat. 778, 779; Pub. L. 103–396, §3(b), Oct. 22, 1994, 108 Stat. 4155; Pub. L. 105–115, title IV, §405, Nov. 21, 1997, 111 Stat. 2368.)
 
 #### Amendments
 
@@ -144,7 +144,7 @@ Responsibilities of Centers.—The Secretary shall designate an individual in ea
 
 “(d)
 
-Collaboration.—The Secretary shall implement programs and policies that will foster collaboration between the Food and Drug Administration, the National Institutes of Health, professional medical and scientific societies, and other persons, to identify published andunpublished studies that may support a supplemental application, and to encourage sponsors to make supplemental applications or conduct further research in support of a supplemental application based, in whole or in part, on such studies.”
+Collaboration.—The Secretary shall implement programs and policies that will foster collaboration between the Food and Drug Administration, the National Institutes of Health, professional medical and scientific societies, and other persons, to identify published and unpublished studies that may support a supplemental application, and to encourage sponsors to make supplemental applications or conduct further research in support of a supplemental application based, in whole or in part, on such studies.”
 
 #### Hearings Pending on April 15, 1954, With Respect to Food Standards
 

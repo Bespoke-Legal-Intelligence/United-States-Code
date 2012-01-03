@@ -10,7 +10,7 @@ Section was classified to section 174d of former Title 40, prior to the enactmen
 
 #### Amendments
 
-1946—Act Aug. 2, 1946, substituted “Committee on Rules and Administration” for “Committee on Rules”.
+<b>1946</b>—Act Aug. 2, 1946, substituted “Committee on Rules and Administration” for “Committee on Rules”.
 
 #### Effective Date of 1946 Amendment
 

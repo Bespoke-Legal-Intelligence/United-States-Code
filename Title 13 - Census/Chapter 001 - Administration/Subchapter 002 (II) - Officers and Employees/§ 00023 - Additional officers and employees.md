@@ -32,17 +32,15 @@ Remainder of section 203 of title 13, U.S.C., 1952 ed., is incorporated in this 
 
 The Classification Act of 1949, referred to in subsec. (a), is act Oct. 28, 1949, ch. 782, 63 Stat. 954, as amended,which was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 632, and reenacted by the first section thereof as chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees.
 
-The civil service laws, referred to in subsec. (a), are set forth in Title 5. See, particularly, section 3301 et seq. of Title 5.
-
 Section 301 of the Dual Compensation Act, referred to in subsec. (b), which was classified to section 3105 of former Title 5, Executive Departments and Government Officers and Employees, was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 632, and reenacted by the first section thereof as section 5533 of Title 5.
 
 #### Amendments
 
-1976—Subsec. (c). Pub. L. 94–521 added subsec. (c).
+<b>1976</b>—Subsec. (c). Pub. L. 94–521 added subsec. (c).
 
-1964—Subsec. (b). Pub. L. 88–448 inserted “without regard to section 301 of the Dual Compensation Act”.
+<b>1964</b>—Subsec. (b). Pub. L. 88–448 inserted “without regard to section 301 of the Dual Compensation Act”.
 
-1960—Subsec. (a). Pub. L. 86–769 substituted “The Secretary may establish, at rates of compensation to be fixed by him without regard to the Classification Act of 1949, as many temporary positions as may be necessary to meet the requirements of the work provided for by law. Bureau employees who are transferred to any such temporary positions shall not lose their permanent civil service status by reason of the transfer. The Secretary may make appointments to such temporary positions in conformity with the civil service laws and rules” for “The Secretary may appoint, without regard to the Classification Act of 1949, at rates of compensation to be fixed by him, as many temporary employees in the Departmental Service as may be necessary to meet the requirements of the work provided for in this title. Census employees who are transferred to any such temporary positions shall not lose their permanent Civil Service status by reason of the transfer. The Secretary shall make all such temporary appointments in conformity with the Civil Service laws and rules”.
+<b>1960</b>—Subsec. (a). Pub. L. 86–769 substituted “The Secretary may establish, at rates of compensation to be fixed by him without regard to the Classification Act of 1949, as many temporary positions as may be necessary to meet the requirements of the work provided for by law. Bureau employees who are transferred to any such temporary positions shall not lose their permanent civil service status by reason of the transfer. The Secretary may make appointments to such temporary positions in conformity with the civil service laws and rules” for “The Secretary may appoint, without regard to the Classification Act of 1949, at rates of compensation to be fixed by him, as many temporary employees in the Departmental Service as may be necessary to meet the requirements of the work provided for in this title. Census employees who are transferred to any such temporary positions shall not lose their permanent Civil Service status by reason of the transfer. The Secretary shall make all such temporary appointments in conformity with the Civil Service laws and rules”.
 
 Subsec. (b). Pub. L. 86–769 substituted “by law” for “in this title”.
 

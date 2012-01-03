@@ -10,7 +10,7 @@ A recipient of an award under this subpart shall—
 
 #### (b) Dissemination of evaluation results
 
-The Secretary shall provide for the dissemination of the evaluations of programs fundedunder this subpart by making the evaluations publicly available upon request, and shall provide public notice that the evaluations are so available.
+The Secretary shall provide for the dissemination of the evaluations of programs funded under this subpart by making the evaluations publicly available upon request, and shall provide public notice that the evaluations are so available.
 
 #### (c) Matching funds
 

@@ -30,15 +30,17 @@ From time to time as the Commission may find necessary, the Commission shall org
 
 #### (d) Meetings
 
-Meetings of the Commission shall be held at regular intervals, not less frequently than once each calendar month, at which times the functioning of the Commission and the handling of its work load shall be reviewed and such orders shall be entered and other action taken as may be necessary or appropriate to expedite the prompt and orderly conduct of the business of the Commission with the objective of rendering a final decision (1) within three months from the date of filing in all original application, renewal, and transfer cases in which it will not be necessary to hold a hearing, and (2) within six months from the final date of the hearing in all hearing cases.
+Meetings of the Commission shall be held at regular intervals, not less frequently than once each calendar month, at which times the functioning of the Commission and the handling of its work load shall be reviewed and such orders shall be entered and other action taken as maybe necessary or appropriate to expedite the prompt and orderly conduct of the business of the Commission with the objective of rendering a final decision (1) within three months from the date of filing in all original application, renewal, and transfer cases in which it will not be necessary to hold a hearing, and (2) within six months from the final date of the hearing in all hearing cases.
 
 #### (e) Managing Director; appointment, functions, pay
 
-The Commission shall have a Managing Director who shall be appointed by the Chairman subject to the approval of the Commission. TheManaging Director, under the supervision and direction of the Chairman, shall perform such administrative and executive functions as the Chairman shall delegate. The Managing Director shall be paid at a rate equal to the rate then payable for level V of the Executive Schedule.
+The Commission shall have a Managing Director who shall be appointed by the Chairman subject to the approval of the Commission. The Managing Director, under the supervision and direction of the Chairman, shall perform such administrative and executive functions as the Chairman shall delegate. The Managing Director shall be paid at a rate equal to the rate then payable for level V of the Executive Schedule.
 
 (June 19, 1934, ch. 652, title I, §5, 48 Stat. 1068; July 16, 1952, ch. 879, §4, 66 Stat. 712; Pub. L. 87–192, §§1, 2, Aug. 31, 1961, 75 Stat. 420; Pub. L. 96–470, title I, §116, Oct. 19, 1980, 94 Stat. 2240; Pub. L. 97–35, title XII, §1252, Aug. 13, 1981, 95 Stat. 738; Pub. L. 97–259, title I, §105, Sept. 13, 1982, 96 Stat. 1091; Pub. L. 99–272, title V, §5002(c), Apr. 7, 1986, 100 Stat. 118; Pub. L. 100–594, §§4, 8(a), Nov. 3, 1988, 102 Stat. 3021, 3023; Pub. L. 103–414, title III, §303(a)(2), Oct. 25, 1994, 108 Stat. 4294; Pub. L. 104–104, title IV, §403(c), Feb. 8, 1996, 110 Stat. 130.)
 
 #### References in Text
+
+This chapter, referred to in subsec. (c)(1), was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
 Level V of the Executive Schedule, referred to in subsec. (e), is set out in section 5316 of Title 5, Government Organization and Employees.
 

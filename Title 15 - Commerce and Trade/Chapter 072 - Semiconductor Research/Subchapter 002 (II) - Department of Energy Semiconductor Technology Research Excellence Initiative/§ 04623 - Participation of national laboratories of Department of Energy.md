@@ -10,7 +10,7 @@ The Secretary of Energy may enter into such agreements with the Secretary of Def
 
 #### (c) Research and development
 
-One or more national laboratories of the Department of Energy shall participate in the Initiative by conducting research and developmentactivities relating to research on the development of semiconductor manufacturing technologies. Such activities may include research and development relating to materials fabrication, materials characterization, design and modeling of devices, and new processing equipment.
+One or more national laboratories of the Department of Energy shall participate in the Initiative by conducting research and development activities relating to research on the development of semiconductor manufacturing technologies. Such activities may include research and development relating to materials fabrication, materials characterization, design and modeling of devices, and new processing equipment.
 
 (Pub. L. 100–180, div. C, title I, §3143, Dec. 4, 1987, 101 Stat. 1243.)
 

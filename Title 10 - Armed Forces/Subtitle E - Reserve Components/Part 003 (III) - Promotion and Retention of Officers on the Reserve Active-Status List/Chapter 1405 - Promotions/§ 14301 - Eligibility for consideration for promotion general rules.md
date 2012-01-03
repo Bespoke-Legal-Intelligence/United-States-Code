@@ -62,9 +62,15 @@ Officers on Educational Delay.—An officer on the reserve active-status list is
 
 &emsp;(2) is receiving from the Secretary financial assistance in connection with the pursuit of that program of education while in that status.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2931; amended Pub. L. 105–85, div. A, title V, §§503(b), (c), 514(b), Nov. 18, 1997, 111 Stat. 1724, 1725, 1732; Pub. L. 105–261, div. A, title V, §514, Oct. 17, 1998, 112 Stat. 2008; Pub. L. 106–65, div. A, title V, §513(a), title X, §1066(a)(32), Oct. 5, 1999, 113 Stat. 593, 772; Pub. L. 107–107, div. A, title V, §505(c)(1)(B), Dec. 28, 2001, 115 Stat. 1087; Pub. L. 107–314, div. A, title V, §521, Dec. 2, 2002, 116 Stat. 2540.)
+(i)
+
+Reserve Officers Employed as Military Technician (dual Status).—A reserve officer of the Army or Air Force employed as a military technician (dual status) under section 10216 of this title who has been retained beyond the mandatory removal date for years of service pursuant to subsection (f) of such section or section 14702(a)(2) of this title is not eligible for consideration for promotion by a mandatory promotion board convened under section 14101(a) of this title.
+
+(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2931; amended Pub. L. 105–85, div. A, title V, §§503(b), (c), 514(b), Nov. 18, 1997, 111 Stat. 1724, 1725, 1732; Pub. L. 105–261, div. A, title V, §514, Oct. 17, 1998, 112 Stat. 2008; Pub. L. 106–65, div. A, title V, §513(a), title X, §1066(a)(32), Oct. 5, 1999, 113 Stat. 593, 772; Pub. L. 107–107, div. A, title V, §505(c)(1)(B), Dec. 28, 2001, 115 Stat. 1087; Pub. L. 107–314, div. A, title V, §521, Dec. 2, 2002, 116 Stat. 2540; Pub. L. 112–81, div. A, title V, §517, Dec. 31, 2011, 125 Stat. 1397.)
 
 #### Amendments
+
+<b>2011</b>—Subsec. (i). Pub. L. 112–81 added subsec. (i).
 
 <b>2002</b>—Subsec. (g). Pub. L. 107–314 amended subsec. (g) generally. Prior to amendment, text read as follows: “A reserve component brigadier general of the Army or the Air Force who is in an inactive status is eligible (notwithstanding subsection (a)) for consideration for promotion to major general by a promotion board convened under section 14101(a) of this title if the officer—
 

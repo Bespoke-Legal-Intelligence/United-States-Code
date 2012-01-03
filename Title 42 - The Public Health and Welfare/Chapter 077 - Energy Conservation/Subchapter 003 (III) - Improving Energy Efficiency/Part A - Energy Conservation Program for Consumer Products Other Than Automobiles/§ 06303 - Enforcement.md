@@ -14,7 +14,7 @@ It shall be an unfair or deceptive act or practice in or affecting commerce (wit
 
 #### (d) Procedure for assessing penalty
 
-(1) Before issuing an order assessing a civil penalty against any person under this section,the Secretary shall provide to such person notice of the proposed penalty. Such notice shall inform such person of his opportunity to elect in writing within 30 days after the date of receipt of such notice to have the procedures of paragraph (3) (in lieu of those of paragraph (2)) apply with respect to such assessment.
+(1) Before issuing an order assessing a civil penalty against any person under this section, the Secretary shall provide to such person notice of the proposed penalty. Such notice shall inform such person of his opportunity to elect in writing within 30 days after the date of receipt of such notice to have the procedures of paragraph (3) (in lieu of those of paragraph (2)) apply with respect to such assessment.
 
 (2)(A) Unless an election is made within 30 calendar days after receipt of notice under paragraph (1) to have paragraph (3) apply with respect to such penalty, the Secretary shall assess the penalty, by order, after a determination of violation has been made on the record after an opportunity for an agency hearing pursuant to section 554 of title 5 before an administrative law judge appointed under section 3105 of such title 5. Such assessment order shall include the administrative law judge's findings and the basis for such assessment.
 
@@ -34,7 +34,7 @@ It shall be an unfair or deceptive act or practice in or affecting commerce (wit
 
 (C) Section 7172(d) of this title shall not apply with respect to the functions of the Secretary under this subsection.
 
-(6) For purposes of applying the preceding provisions of this subsection in the case of the assessment of a penalty by the Commission for a violation of paragraphs (1) and (2) of section 6302 of this title, references in such provisions to “Secretary” and “Department of Energy” shall be considered to be references to the “Commission”.
+(6) For purposes of applying the preceding provisions of this subsection in the case of the assessment of a penalty by the Commission for a violation of paragraphs (1) and (2) of section 6302of this title, references in such provisions to “Secretary” and “Department of Energy” shall be considered to be references to the “Commission”.
 
 (Pub. L. 94–163, title III, §333, Dec. 22, 1975, 89 Stat. 929; Pub. L. 95–619, title IV, §§423, 425(e), title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3262, 3266, 3288; Pub. L. 100–12, §11(b)(6), Mar. 17, 1987, 101 Stat. 125.)
 

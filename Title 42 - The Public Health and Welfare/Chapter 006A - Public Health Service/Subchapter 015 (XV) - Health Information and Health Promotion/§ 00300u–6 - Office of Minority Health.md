@@ -48,7 +48,7 @@ With respect to improving the health of racial and ethnic minority groups, the S
 
 #### (3) Chair
 
-&emsp;The chairperson of the Committee shall be selected by the Secretary from among the members of the voting members of the Committee. The term of office of the chairperson shall be 2 years.
+&emsp;The chairperson of the Committee shall be selected by the Secretary from among themembers of the voting members of the Committee. The term of office of the chairperson shall be 2 years.
 
 #### (4) Composition
 
@@ -112,7 +112,7 @@ With respect to improving the health of racial and ethnic minority groups, the S
 
 #### (2) Agency reports
 
-&emsp;Not later than February 1, 1999, and biennially thereafter, the heads of the Public Health Service agencies shall submit to the Deputy Assistant Secretary a report summarizing the minority health activities of each of the respective agencies.
+&emsp;Not later than February 1, 1999, and biennially thereafter, the heads of the Public Health Service agencies shall submit to the DeputyAssistant Secretary a report summarizing the minority health activities of each of the respective agencies.
 
 #### (g) Definitions
 
@@ -182,7 +182,7 @@ Pub. L. 111–148, title X, §10334(a)(2), Mar. 23, 2010, 124 Stat. 971, provide
 
 #### Termination of Advisory Committees
 
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case ofa committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 

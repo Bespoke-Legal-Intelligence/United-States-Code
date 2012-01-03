@@ -196,6 +196,10 @@ The Federal Advisory Committee Act, referred to in subsec. (k)(4), is Pub. L. 92
 
 A prior section 278n, act Mar. 3, 1901, ch. 872, §28, as added Pub. L. 100–418, title V, §5131(a), Aug. 23, 1988, 102 Stat. 1439; amended Pub. L. 102–245, title II, §201(c), Feb. 14, 1992, 106 Stat. 16, related to the Advanced Technology Program, prior to repeal by Pub. L. 110–69, title III, §3012(a), Aug. 9, 2007, 121 Stat. 593.
 
+#### Change of Name
+
+Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+
 #### Technology Innovation Program
 
 Pub. L. 111–240, title IV, §4226(b), Sept. 27, 2010, 124 Stat. 2598, provided that: “In awarding grants, cooperative agreements, or contracts under section 28 of the National Institute of Standards and Technology Act (15 U.S.C. 278n), in addition to the award criteria set forth in subsection (c) of that section, the Director of the National Institute of Standards and Technology may take into consideration whether an application has significant potential for enhancing the competitiveness of small- and medium-sized businesses in the United States in the global marketplace. The Director shall consult with the Technology Innovation Program Advisory Board and the Secretary of Commerce in implementing this subsection.”
@@ -210,7 +214,7 @@ Pub. L. 110–69, title III, §3012(c), Aug. 9, 2007, 121 Stat. 598, provided th
 
 #### National Academies of Sciences and Engineering Study of Government-Industry Cooperation in Civilian Technology
 
-Pub. L. 100–418, title V, §5131(c), Aug. 23, 1988, 102 Stat. 1443, directed the Secretary of Commerce, within 90 days after Aug. 23, 1988, to enter into contracts with the National Academies of Sciences and Engineering to review the various types of cooperative arrangements between the private sector and the Federal Government and required a report based on the review to be submitted to the Secretary, the President, and Congress within 18 months after the contracts were signed.
+Pub. L. 100–418, title V, §5131(c), Aug. 23, 1988, 102 Stat. 1443, directed the Secretary of Commerce, within 90 days after Aug. 23, 1988, to enter into contracts with the National Academies of Sciences and Engineering to review the various types of cooperative arrangements between the private sector and the Federal Governmentand required a report based on the review to be submitted to the Secretary, the President, and Congress within 18 months after the contracts were signed.
 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a period.</i>
 

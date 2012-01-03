@@ -12,7 +12,7 @@ The partnership shall facilitate the establishment of a Civic Health Assessment 
 
 &emsp;(2) obtaining civic health data relating to the Civic Health Assessment, in accordance with subsection (d); and
 
-&emsp;(3) conducting related analyses, and reporting the data and analyses, as described inparagraphs (4) and (5) of subsection (d) and subsections (e) and (f).
+&emsp;(3) conducting related analyses, and reporting the data and analyses, as described in paragraphs (4) and (5) of subsection (d) and subsections (e) and (f).
 
 #### (c) Selection of indicators for Civic Health Assessment
 

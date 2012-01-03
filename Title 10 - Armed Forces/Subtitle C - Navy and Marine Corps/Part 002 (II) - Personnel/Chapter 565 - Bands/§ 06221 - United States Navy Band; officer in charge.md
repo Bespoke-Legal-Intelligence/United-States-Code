@@ -6,7 +6,7 @@
 
 (2) While serving as Officer in Charge of the United States Navy Band, an officer shall hold the grade of captain if appointed to that grade by the President, by and with the advice and consent of the Senate. Such an appointment may be made notwithstanding section 5596(d) of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 388; Pub. L. 87–649, §14c(44), Sept. 7, 1962, 76 Stat. 501; Pub. L. 96–513, title V, §513(16), Dec. 12, 1980, 94 Stat. 2932; Pub. L. 107–107, div. A, title V, §510(a), Dec. 28, 2001, 115 Stat. 1091.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 388; Pub. L. 87–649, §14c(44), Sept. 7, 1962, 76 Stat. 501; Pub. L. 96–513, title V, §513(16), Dec. 12, 1980, 94 Stat.2932; Pub. L. 107–107, div. A, title V, §510(a), Dec. 28, 2001, 115 Stat. 1091.)
 
 Historical and Revision Notes
 

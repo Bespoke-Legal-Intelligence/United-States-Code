@@ -22,7 +22,7 @@ In order to strengthen the administration of justice in the independent states o
 
 #### (f) Use of economic support funds
 
-Any funds that have been allocated under part 4 of subchapter II of this chapter for assistance for the independent states of the former SovietUnion may be used in accordance with the provisions of this part.
+Any funds that have been allocated under part 4 of subchapter II of this chapter for assistance for the independent states of the former Soviet Union may be used in accordance with the provisions of this part.
 
 #### (g) Use of SEED agency funds and administrative authorities
 
@@ -98,7 +98,7 @@ Assistance under this part shall be provided on such terms and conditions as the
 
 &emsp;(A) The term “Cuban Government” includes the government of any political subdivision of Cuba, and any agency or instrumentality of the Government of Cuba.
 
-&emsp;(B) For purposes of subparagraph (A), the term “agency or instrumentality of the Government of Cuba” means an agency or instrumentality of a foreign state as defined in section 1603(b) of title 28, with each reference insuch section to “a foreign state” deemed to be a reference to “Cuba”.
+&emsp;(B) For purposes of subparagraph (A), the term “agency or instrumentality of the Government of Cuba” means an agency or instrumentality of a foreign state as defined in section 1603(b) of title 28, with each reference in such section to “a foreign state” deemed to be a reference to “Cuba”.
 
 (Pub. L. 87–195, pt. I, §498B, as added Pub. L. 102–511, title II, §201, Oct. 24, 1992, 106 Stat. 3328; amended Pub. L. 103–236, title VIII, §826(c), Apr. 30, 1994, 108 Stat. 519; Pub. L. 104–114, title I, §106(c)(2), Mar. 12, 1996, 110 Stat. 796; Pub. L. 107–246, §4(b), Oct. 23, 2002, 116 Stat. 1515.)
 

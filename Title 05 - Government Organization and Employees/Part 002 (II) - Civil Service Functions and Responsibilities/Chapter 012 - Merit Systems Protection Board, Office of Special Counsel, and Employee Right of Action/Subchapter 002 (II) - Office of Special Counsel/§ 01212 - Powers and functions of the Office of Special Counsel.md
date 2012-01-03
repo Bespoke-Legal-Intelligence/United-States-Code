@@ -56,7 +56,7 @@
 
 #### Amendments
 
-1994—Subsec. (g)(1). Pub. L. 103–424, §3(b)(1) substituted “disclose any information from or about” for “provide information concerning”.
+<b>1994</b>—Subsec. (g)(1). Pub. L. 103–424, §3(b)(1) substituted “disclose any information from or about” for “provide information concerning”.
 
 Subsec. (g)(2). Pub. L. 103–424, §3(b)(2), substituted “an evaluation of the work performance, ability, aptitude, general qualifications, character, loyalty, or suitability for any personnel action of any” for “a matter described in subparagraph (A) or (B) of section 2302(b)(2) in connection with a”.
 

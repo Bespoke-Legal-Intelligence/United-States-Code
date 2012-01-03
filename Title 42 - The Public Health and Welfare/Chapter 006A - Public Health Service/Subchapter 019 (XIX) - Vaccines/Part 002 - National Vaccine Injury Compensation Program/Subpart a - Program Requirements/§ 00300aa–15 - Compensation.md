@@ -24,7 +24,7 @@ Compensation awarded under the Program to a petitioner under section 300aa–11 
 
 &emsp;(2) In the event of a vaccine-related death, an award of $250,000 for the estate of the deceased.
 
-&emsp;(3)(A) In the case of any person who has sustained a vaccine-related injury after attaining the age of 18 and whose earning capacity is or has been impaired by reason of such person's vaccine-related injury for which compensation is to be awarded, compensation for actual and anticipated loss of earnings determined in accordance with generally recognized actuarial principles and projections.
+&emsp;(3)(A) In the case of any person who has sustained a vaccine-related injury after attaining the age of 18 and whose earning capacity is or has been impaired by reason of such person's vaccine-related injury for which compensation is to be awarded, compensation for actual andanticipated loss of earnings determined in accordance with generally recognized actuarial principles and projections.
 
 &emsp;(B) In the case of any person who has sustained a vaccine-related injury before attaining the age of 18 and whose earning capacity is or has been impaired by reason of such person's vaccine-related injury for which compensation is to be awarded and whose vaccine-related injury is of sufficient severity to permit reasonable anticipation that such person is likely to suffer impaired earning capacity at age 18 and beyond, compensation after attaining the age of 18 for loss of earnings determined on the basis of the average gross weekly earnings of workers in the private, non-farm sector, less appropriate taxes and the average cost of a health insurance policy, as determined by the Secretary.
 
@@ -96,7 +96,7 @@ No policy of health insurance may make payment of benefits under the policy seco
 
 #### (i) Source of compensation
 
-(1) Payment of compensation under the Program to a petitioner for a vaccine-related injuryor death associated with the administration of a vaccine before October 1, 1988, shall be made by the Secretary from appropriations under subsection (j) of this section.
+(1) Payment of compensation under the Program to a petitioner for a vaccine-related injury or death associated with the administration of a vaccine before October 1, 1988, shall be made by the Secretary from appropriations under subsection (j) of this section.
 
 (2) Payment of compensation under the Program to a petitioner for a vaccine-related injury or death associated with the administration of a vaccine on or after October 1, 1988, shall be made from the Vaccine Injury Compensation Trust Fund established under section 9510 of title 26.
 
@@ -130,7 +130,7 @@ A prior section 2115 of act July 1, 1944, was successively renumbered by subsequ
 
 Subsec. (j). Pub. L. 102–531 increased authorization for fiscal year 1993 from $80,000,000 to $110,000,000.
 
-<b>1991</b>—Subsec. (f)(4)(A). Pub. L. 102–168, §201(e)(1)(A), (2), struck out “of the proceeds” after “portion” and substituted “Vaccine Injury Compensation Trust Fund established under section 9510 of title 26” for “trust fund”.
+<b>1991</b>—Subsec. (f)(4)(A). Pub. L. 102–168, §201(e)(1)(A), (2), struck out “of the proceeds” after “portion” and substituted “Vaccine Injury Compensation Trust Fundestablished under section 9510 of title 26” for “trust fund”.
 
 Subsec. (f)(4)(B). Pub. L. 102–168, §201(e)(1)(B), which directed substitution of “shall be paid from appropriations made available under subsection (j) of this section in a lump sum of which all or a portion” for “paid in 4 equal installments of which all or portion of the proceeds” was executed by making the substitution for “paid in 4 equal annual installments of which all or a portion of the proceeds” to reflect the probable intent of Congress.
 
@@ -152,7 +152,7 @@ Pub. L. 101–239, §6601(<i>l</i>)(2)(B), (C), substituted “the special maste
 
 Subsec. (e)(2). Pub. L. 101–239, §6601(<i>l</i>)(2)(D), which directed amendment of par. (2) by substituting “the special master or court may also award an amount of compensation” for “the judgment of the court on such petition may include an amount”, could not be executed because of the prior amendment by Pub. L. 101–239, §6601(c)(8)(B), see Amendment note below.
 
-Pub. L. 101–239, §6601(c)(8), substituted “and petitioned under section 300aa–11(a)(5) of this title to havesuch action dismissed” for “and elected under section 300aa–11(a)(4) of this title to withdraw such action” and “in awarding compensation on such petition the special master or court may include” for “the judgment of the court on such petition may include”.
+Pub. L. 101–239, §6601(c)(8), substituted “and petitioned under section 300aa–11(a)(5) of this title to have such action dismissed” for “and elected under section 300aa–11(a)(4) of this title to withdraw such action” and “in awarding compensation on such petition the special master or court may include” for “the judgment of the court on such petition may include”.
 
 Subsec. (e)(3). Pub. L. 101–239, §6601(<i>l</i>)(2)(E), substituted “awarded as compensation by the special master or court under paragraph (1)” for “included under paragraph (1) in a judgment on such petition”.
 
@@ -188,7 +188,7 @@ Subsec. (e)(1). Pub. L. 100–203, §4307(5), substituted “of the United State
 
 Subsec. (e)(2). Pub. L. 100–203, §4302(b), substituted “effective date of this subpart, filed a” for “effective date of this subchapter, filed a” and “effective date of this subpart in preparing” for “effective date of this part in preparing”.
 
-Subsec. (f). Pub. L. 100–203, §4303(d)(1)(B), (g), added par. (4) and redesignated a second subsec. (f), relating to the Program not being primarily liable, as subsec. (g).
+Subsec. (f). Pub. L. 100–203, §4303(d)(1)(B), (g), added par. (4) and redesignated a second subsec. (f), relatingto the Program not being primarily liable, as subsec. (g).
 
 Subsec. (f)(2). Pub. L. 100–203, §4307(6), substituted “United States Claims Court” for “district court of the United States”.
 

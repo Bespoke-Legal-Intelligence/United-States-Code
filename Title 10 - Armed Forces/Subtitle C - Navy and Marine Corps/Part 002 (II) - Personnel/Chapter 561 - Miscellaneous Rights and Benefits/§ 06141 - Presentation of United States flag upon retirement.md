@@ -2,7 +2,7 @@
 
 (a)
 
-Presentation of Flag.—Upon the release of a member of the Navy or Marine Corps from active duty for retirement or transfer to the Fleet Reserve or the Fleet Marine Corps Reserve, the Secretary of the Navy shall present a United States flag to the member.
+Presentation of Flag.—Upon the release of a member of the Navy or Marine Corps fromactive duty for retirement or transfer to the Fleet Reserve or the Fleet Marine Corps Reserve, the Secretary of the Navy shall present a United States flag to the member.
 
 (b)
 

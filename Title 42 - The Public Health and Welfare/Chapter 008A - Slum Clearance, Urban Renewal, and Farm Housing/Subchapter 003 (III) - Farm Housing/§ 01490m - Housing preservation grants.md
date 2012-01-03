@@ -2,7 +2,7 @@
 
 #### (a) Statement of purposes
 
-The purpose of this section is to authorize the Secretary to make grants to eligible grantees including private nonprofit organizations, Indian tribes, general units of local government,counties, States, and consortia of other eligible grantees, in order to—
+The purpose of this section is to authorize the Secretary to make grants to eligible grantees including private nonprofit organizations, Indian tribes, general units of local government, counties, States, and consortia of other eligible grantees, in order to—
 
 &emsp;(1) rehabilitate or replace single family housing in rural areas which is owned by low- and very low-income persons and families, and
 
@@ -110,7 +110,7 @@ Preservation programs assisted under this section shall—
 
 #### (f) Advance payments of assistance
 
-The Secretary shall provide for such advance payments of assistance under this section as the Secretary determines is necessary to effectively carry out the provisions of this section.
+The Secretary shall provide for such advance payments of assistance under this section as theSecretary determines is necessary to effectively carry out the provisions of this section.
 
 #### (g) Annual review and audit by Secretary of activities; adjustment, etc., of resources; reallocation of amounts
 

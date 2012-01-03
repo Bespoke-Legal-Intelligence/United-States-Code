@@ -98,7 +98,7 @@ Historical and Revision Notes
 
 Dec. 18, 1991, Pub. L. 102–240, §4002(j), 105 Stat. 2144.
 
-The words “safety duties and powers” are substituted for “safety functions” for clarity and consistency inthe revised title. The reference to fiscal year 1992 is omitted as obsolete.
+The words “safety duties and powers” are substituted for “safety functions” for clarity and consistency in the revised title. The reference to fiscal year 1992 is omitted as obsolete.
 
 #### References in Text
 

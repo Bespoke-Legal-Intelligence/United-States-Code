@@ -14,7 +14,7 @@ In accordance with section 283c of this title, the United States Governor of the
 
 #### (b) Contribution authority
 
-To the extent and in the amount provided in advance in appropriations Acts the UnitedStates Governor of the Bank may, on behalf of the United States and in accordance with section 283c of this title, contribute up to $252,000,000 to the Fund for Special Operations, which will provide for debt relief of:
+To the extent and in the amount provided in advance in appropriations Acts the United States Governor of the Bank may, on behalf of the United States and in accordance with section 283c of this title, contribute up to $252,000,000 to the Fund for Special Operations, which will provide for debt relief of:
 
 &emsp;(1) up to $240,000,000 to the Fund for Special Operations;
 

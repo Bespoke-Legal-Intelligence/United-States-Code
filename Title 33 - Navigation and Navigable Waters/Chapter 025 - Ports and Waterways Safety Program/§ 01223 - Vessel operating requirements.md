@@ -20,7 +20,7 @@ Subject to the requirements of section 1224 of this title, the Secretary—
 
 &emsp;&emsp;(D) restricting operation, in any hazardous area or under hazardous conditions, to vessels which have particular operating characteristics or capabilities which he considers necessary for safe operation under the circumstances;
 
-&emsp;(5) may require the receipt of prearrival messages from any vessel, destined for a port or place subject to the jurisdiction of the United States, in sufficient time to permit advance vessel traffic planning prior to port entry, which shall include any information which is not already a matter of record and which the Secretary determines necessary for the control of the vessel and the safety of the port or the marine environment; and
+&emsp;(5) may require the receipt of prearrival messages from any vessel, destined for a port or place subject to the jurisdiction of the United States, in sufficient time to permit advance vessel traffic planning prior to port entry, which shall include any information which is not already a matter of record and which the Secretary determines necessary forthe control of the vessel and the safety of the port or the marine environment; and
 
 &emsp;(6) may prohibit the use on vessels of electronic or other devices that interfere with communication and navigation equipment, except that such authority shall not apply to electronic or other devices certified to transmit in the maritime services by the Federal Communications Commission and used within the frequency bands 157.1875–157.4375 MHz and 161.7875–162.0375 MHz.
 
@@ -36,7 +36,7 @@ The Secretary may order any vessel, in a port or place subject to the jurisdicti
 
 #### (c) Port access routes
 
-(1) In order to provide safe access routes for the movement of vessel traffic proceeding to or from ports or places subject to the jurisdiction of the United States, and subject to the requirements of paragraph (3) hereof, the Secretary shall designate necessary fairways and traffic separation schemes for vessels operating in theterritorial sea of the United States and in high seas approaches, outside the territorial sea, to such ports or places. Such a designation shall recognize, within the designated area, the paramount right of navigation over all other uses.
+(1) In order to provide safe access routes for the movement of vessel traffic proceeding to or from ports or places subject to the jurisdiction of the United States, and subject to the requirements of paragraph (3) hereof, the Secretary shall designate necessary fairways and traffic separation schemes for vessels operating in the territorial sea of the United States and in high seas approaches, outside the territorial sea, to such ports or places. Such a designation shall recognize, within the designated area, the paramount right of navigation over all other uses.
 
 (2) No designation may be made by the Secretary pursuant to this subsection, if such a designation, as implemented, would deprive any person of the effective exercise of a right granted by a lease or permit executed or issued under other applicable provisions of law: <i>Provided</i>, That such right has become vested prior to the time of publication of the notice required by clause (A) of paragraph (3) hereof: <i>Provided further</i>, That the determination as to whether the designation would so deprive any such person shall be made by the Secretary, after consultation with the responsible official under whose authority the lease was executed or the permit issued.
 
@@ -62,7 +62,7 @@ The Secretary may order any vessel, in a port or place subject to the jurisdicti
 
 #### (d) Exception
 
-Except pursuant to international treaty, convention, or agreement, to which the United States is a party, this chapter shall not apply to any foreign vessel that is not destined for, or departing from, a port or place subject to the jurisdiction of the United States and that is in—
+Except pursuant to international treaty, convention, or agreement, to which the UnitedStates is a party, this chapter shall not apply to any foreign vessel that is not destined for, or departing from, a port or place subject to the jurisdiction of the United States and that is in—
 
 &emsp;(1) innocent passage through the territorial sea of the United States, or
 

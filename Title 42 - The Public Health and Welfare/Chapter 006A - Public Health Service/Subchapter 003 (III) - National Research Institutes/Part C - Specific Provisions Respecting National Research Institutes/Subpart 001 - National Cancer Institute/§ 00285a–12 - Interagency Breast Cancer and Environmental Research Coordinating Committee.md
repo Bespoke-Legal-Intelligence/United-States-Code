@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(B) develop a comprehensive strategy and advise the National Institutes of Health and other Federal agencies in the solicitation of proposals for collaborative, multidisciplinary research, including proposals to evaluate environmental and genomic factors that may be related to the etiology of breast cancer that would—
 
-&emsp;&emsp;&emsp;(i) result in innovative approaches to study emerging scientific opportunities oreliminate knowledge gaps in research to improve the research portfolio;
+&emsp;&emsp;&emsp;(i) result in innovative approaches to study emerging scientific opportunities or eliminate knowledge gaps in research to improve the research portfolio;
 
 &emsp;&emsp;&emsp;(ii) outline key research questions, methodologies, and knowledge gaps;
 

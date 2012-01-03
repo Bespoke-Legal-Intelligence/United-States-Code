@@ -18,15 +18,23 @@ Subject to the approval of the Council, the Appraisal Subcommittee may waive any
 
 The Appraisal Subcommittee, any other Federal agency or instrumentality, or any federally recognized entity shall report any action of a State certified or licensed appraiser that is contrary to the purposes of this chapter, to the appropriate State agency for a disposition of the subject of the referral. The State agency shall provide the Appraisal Subcommittee or the other Federal agency or instrumentality with a report on its disposition of the matter referred. Subsequent to such disposition, the subcommittee or the agency or instrumentality may take such further action, pursuant to written procedures, it deems necessary to carry out the purposes of this chapter.
 
-(Pub. L. 101–73, title XI, §1119, Aug. 9, 1989, 103 Stat. 516; Pub. L. 102–233, title VII, §701(b), Dec. 12, 1991, 105 Stat. 1792; Pub. L. 102–242, title IV, §472(b), Dec. 19, 1991, 105 Stat. 2386; Pub. L. 102–550, title XVI, §1617(a), Oct. 28, 1992, 106 Stat. 4096.)
+(Pub. L. 101–73, title XI, §1119, Aug. 9, 1989, 103 Stat. 516; Pub. L. 102–233, title VII, §701(b), Dec. 12, 1991, 105 Stat. 1792; Pub. L. 102–242, title IV, §472(b), Dec. 19, 1991, 105 Stat. 2386; Pub. L. 102–550, title XVI, §1617(a), Oct. 28, 1992, 106 Stat. 4096; Pub. L. 111–203, title XIV, §1473(t)(1), July 21, 2010, 124 Stat. 2199.)
+
+#### Amendment of Subsection (a)(2)
+
+<i>Pub. L. 111–203, title XIV, §§1400(c), 1473(t)(1), July 21, 2010, 124 Stat. 2136, 2199, provided that subsection (a)(2) of this section is amended, effective on the date on which final regulations implementing such amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, by striking “council,” and inserting “Council,”. See Effective Date of 2010 Amendment note below.</i>
 
 #### Amendments
 
-1992—Subsecs. (a)(1), (b). Pub. L. 102–550, §1617(a), repealed Pub. L. 102–233, §701(b). See 1991 Amendment note below.
+<b>1992</b>—Subsecs. (a)(1), (b). Pub. L. 102–550, §1617(a), repealed Pub. L. 102–233, §701(b). See 1991 Amendment note below.
 
-1991—Subsec. (a)(1). Pub. L. 102–242, §472(b)(1), substituted “December 31, 1992” for “July 1, 1991”. Pub. L. 102–233, §701(b)(1), which made an identical amendment, was repealed by Pub. L. 102–550, §1617(a). See Construction of 1991 Amendment note below.
+<b>1991</b>—Subsec. (a)(1). Pub. L. 102–242, §472(b)(1), substituted “December 31, 1992” for “July 1, 1991”. Pub. L. 102–233, §701(b)(1), which made an identical amendment, was repealed by Pub. L. 102–550, §1617(a). See Construction of 1991 Amendment note below.
 
 Subsec. (b). Pub. L. 102–242, §472(b)(2), substituted “, or in any geographical political subdivision of a State, leading to significant delays” for “leading to inordinate delays” in first sentence and “significant” for “inordinate” in second sentence. Pub. L. 102–233, §701(b)(2), which made an identical amendment, was repealed by Pub. L. 102–550, §1617(a). See Construction of 1991 Amendment note below.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as a note under section 1601 of Title 15, Commerce and Trade.
 
 #### Construction of 1991 Amendment
 

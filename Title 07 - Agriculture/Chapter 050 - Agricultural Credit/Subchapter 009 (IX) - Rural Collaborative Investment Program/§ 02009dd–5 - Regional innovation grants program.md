@@ -30,7 +30,7 @@ To be eligible to receive a regional innovation grant, a Regional Board shall de
 
 &emsp;The Secretary shall determine the amount of a regional innovation grant based on—
 
-&emsp;&emsp;(A) the needs of the region being addressed by the applicable regional rural investmentstrategy consistent with the purposes described in subsection (f)(2); and
+&emsp;&emsp;(A) the needs of the region being addressed by the applicable regional rural investment strategy consistent with the purposes described in subsection (f)(2); and
 
 &emsp;&emsp;(B) the size of the geographical area of the region.
 
@@ -178,7 +178,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Pub. L. 110–246, §6028, amended section generally. Prior to amendment, section provided regional strategic investment planning grants to Regional Boards.
+<b>2008</b>—Pub. L. 110–246, §6028, amended section generally. Prior to amendment, section provided regional strategic investment planning grants to Regional Boards.
 
 #### Effective Date of 2008 Amendment
 

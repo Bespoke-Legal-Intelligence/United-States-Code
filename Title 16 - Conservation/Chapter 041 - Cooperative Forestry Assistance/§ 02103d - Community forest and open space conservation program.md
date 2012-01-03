@@ -112,7 +112,7 @@ An eligible entity shall provide public access to, and manage, forest land acqui
 
 #### (3) Loss of eligibility
 
-&emsp;An eligible entity that sells or converts a parcel acquired under the Program shall not be eligible for additional grants under the Program.
+&emsp;An eligible entity that sells or converts a parcel acquired under the Program shall notbe eligible for additional grants under the Program.
 
 #### (f) State administration and technical assistance
 

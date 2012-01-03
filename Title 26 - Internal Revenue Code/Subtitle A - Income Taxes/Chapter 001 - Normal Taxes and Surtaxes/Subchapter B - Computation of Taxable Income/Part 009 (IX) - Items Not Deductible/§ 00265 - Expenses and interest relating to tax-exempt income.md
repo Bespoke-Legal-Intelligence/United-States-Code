@@ -196,7 +196,7 @@ No deduction shall be allowed for—
 
 #### (A) Interest expense
 
-&emsp;&emsp;The term “interest expense” means the aggregate amount allowable to the taxpayeras a deduction for interest for the taxable year (determined without regard to this subsection, section 264, and section 291). For purposes of the preceding sentence, the term “interest” includes amounts (whether or not designated as interest) paid in respect of deposits, investment certificates, or withdrawable or repurchasable shares.
+&emsp;&emsp;The term “interest expense” means the aggregate amount allowable to the taxpayer as a deduction for interest for the taxable year (determined without regard to this subsection, section 264, and section 291). For purposes of the preceding sentence, the term “interest” includes amounts (whether or not designated as interest) paid in respect of deposits, investment certificates, or withdrawable or repurchasable shares.
 
 #### (B) Tax-exempt obligation
 
@@ -272,7 +272,7 @@ Par. (6). Pub. L. 99–514, §144, added par. (6).
 
 Par. (5). Pub. L. 98–369, §56(c), added par. (5).
 
-<b>1981</b>—Par. (2). Pub. L. 97–34, §302(c)(2), (d)(1), provided that, applicable to taxable years beginning after Dec. 31, 1984, par. (2) is amended by striking out “or to purchase or carry any certificate to the extent the interest on such certificate is excludable under section 128” andinserting in lieu thereof “or to purchase or carry obligations or shares, or to make other deposits or investments, the interest on which is described in section 128(c)(1) to the extent such interest is excludable from gross income under section 128”. Section 16(a) of Pub. L. 98–369, repealed section 302(c) of Pub. L. 97–34, and provided that this title shall be applied and administered as if section 302(c), and the amendments made by such section 302(c), had not been enacted.
+<b>1981</b>—Par. (2). Pub. L. 97–34, §302(c)(2), (d)(1), provided that, applicable to taxable years beginning after Dec. 31, 1984, par. (2) is amended by striking out “or to purchase or carry any certificate to the extent the interest on such certificate is excludable under section 128” and inserting in lieu thereof “or to purchase or carry obligations or shares, or to make other deposits or investments, the interest on which is described in section 128(c)(1) to the extent such interest is excludable from gross income under section 128”. Section 16(a) of Pub. L. 98–369, repealed section 302(c) of Pub. L. 97–34, and provided that this title shall be applied and administered as if section 302(c), and the amendments made by such section 302(c), had not been enacted.
 
 Pub. L. 97–34, §301(b)(2), inserted “, or to purchase or carry any certificate to the extent the interest on such certificate is excludable under section 128” after “116”.
 

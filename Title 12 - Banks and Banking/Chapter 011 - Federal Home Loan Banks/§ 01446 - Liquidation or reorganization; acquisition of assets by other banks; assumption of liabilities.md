@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Whenever the Director finds that the efficient and economical accomplishment of the purposes of this chapter will be aided by such action, and in accordance with such rules, regulations, and orders as the Director may prescribe, any Federal Home Loan Bank may be liquidated or reorganized, and its stock paid off and retired in whole or in part in connection therewith after paying or making provision for the payment of its liabilities. In the case of any such liquidation or reorganization, any other Federal Home Loan Bank may, with the approval of the Board, acquire assets of any such liquidated or reorganized bank and assume liabilities thereof, in whole or in part. At least 30 days prior to liquidating or reorganizing any Bank under this section, the Director shall notify the Bank of its determination and the facts and circumstances upon which such determination is based. The Bank may contest that determination in a hearing before the Director, in which all issues shall be determined on the record pursuant to section 554 of title 5.
+Whenever the Director finds that the efficient and economical accomplishment of the purposes of this chapter will be aided by such action, and in accordance with such rules, regulations, and orders as the Director may prescribe, any Federal Home Loan Bank may be liquidated or reorganized, and its stock paid off and retired in whole or in part in connection therewith after paying or making provision for the payment of its liabilities. In the case of any such liquidation or reorganization, any other Federal Home Loan Bank may, with the approval of the Director, acquire assets of any such liquidated or reorganized bank and assume liabilities thereof, in whole or in part. At least 30 days prior to liquidating or reorganizing any Bank under this section, the Director shall notify the Bank of its determination and the facts and circumstances upon which such determination is based. The Bank may contest that determination in a hearing before the Director, in which all issues shall be determined on the record pursuant to section 554 of title 5.
 
 #### (b) Voluntary mergers authorized
 
@@ -18,11 +18,11 @@ Whenever the Director finds that the efficient and economical accomplishment of 
 
 #### Amendments
 
-2008—Pub. L. 110–289, §1209, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>2008</b>—Pub. L. 110–289, §1209, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-Pub. L. 110–289, §1204(8), substituted “the Director” for “the Board” in two places.
+Pub. L. 110–289, §1204(8), substituted “the Director” for “the Board” wherever appearing.
 
 Subsec. (a). Pub. L. 110–289, §1214, which directed insertion of “At least 30 days prior to liquidating or reorganizing any Bank under this section, the Director shall notify the Bank of its determination and the facts and circumstances upon which such determination is based. The Bank may contest that determination in a hearing before the Director, in which all issues shall be determined on the record pursuant to section 554 of title 5.” at the end of this section, was executed by making the insertion at the end of subsec. (a), to reflect the probable intent of Congress and the amendment by Pub. L. 110–289, §1209. See above.
 
-1989—Pub. L. 101–73 substituted “Board” for “board” wherever appearing.
+<b>1989</b>—Pub. L. 101–73 substituted “Board” for “board” wherever appearing.
 

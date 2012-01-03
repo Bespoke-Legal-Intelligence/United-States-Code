@@ -172,11 +172,11 @@ A prior section 2662, Pub. L. 92–419, title V, §502, Aug. 30, 1972, 86 Stat. 
 
 #### Amendments
 
-2008—Subsec. (h)(1). Pub. L. 110–246, §7511(c)(6)(A), substituted “National Institute of Food and Agriculture” for “Extension Service” in introductory provisions.
+<b>2008</b>—Subsec. (h)(1). Pub. L. 110–246, §7511(c)(6)(A), substituted “National Institute of Food and Agriculture” for “Extension Service” in introductory provisions.
 
 Subsec. (h)(4). Pub. L. 110–246, §7511(c)(6)(B), substituted “National Institute of Food and Agriculture staff” for “Extension Service staff”.
 
-1996—Subsec. (a). Pub. L. 104–127, §886, inserted after first sentence “The rural development extension programs shall also promote coordinated and integrated rural community initiatives that advance and empower capacity building through leadership development, entrepreneurship, business development and management training, and strategic planning to increase jobs, income, and quality of life in rural communities.”
+<b>1996</b>—Subsec. (a). Pub. L. 104–127, §886, inserted after first sentence “The rural development extension programs shall also promote coordinated and integrated rural community initiatives that advance and empower capacity building through leadership development, entrepreneurship, business development and management training, and strategic planning to increase jobs, income, and quality of life in rural communities.”
 
 Subsec. (f). Pub. L. 104–127, §792(a), struck out subsec. (f), which related to competitive grants for financially stressed farmers, dislocated farmers, and rural families.
 
@@ -184,7 +184,7 @@ Subsec. (g). Pub. L. 104–127, §871, struck out subsec. (g), which authorized 
 
 Subsec. (j). Pub. L. 104–127, §871, struck out subsec. (j), which authorized program to award competitive grants to carry out rural development research.
 
-1991—Subsec. (b). Pub. L. 102–237, §403(a)(2)(A), redesignated subsec. (b), relating to rural development extension work, as (h).
+<b>1991</b>—Subsec. (b). Pub. L. 102–237, §403(a)(2)(A), redesignated subsec. (b), relating to rural development extension work, as (h).
 
 Subsec. (f). Pub. L. 102–237, §403(a)(1), amended heading generally and in par. (2) substituted “until” for “during the period beginning on the date of the enactment of this Act and ending on”.
 
@@ -198,7 +198,7 @@ Subsec. (i)(4). Pub. L. 102–237, §704(b), inserted “or entities described i
 
 Subsec. (j). Pub. L. 102–237, §403(a)(2)(C), (D), redesignated subsec. (h), relating to research grants, as (j) and moved such subsec. to appear in proper order.
 
-1990—Subsec. (b). Pub. L. 101–624, §2346, added subsec. (b), relating to rural development extension work, following subsec. (g).
+<b>1990</b>—Subsec. (b). Pub. L. 101–624, §2346, added subsec. (b), relating to rural development extension work, following subsec. (g).
 
 Subsec. (f). Pub. L. 101–624, §2389(c)(1), substituted “Competitive” for “Special” in heading.
 
@@ -230,7 +230,7 @@ Subsec. (h). Pub. L. 101–624, §2349, added subsec. (h) relating to research g
 
 Pub. L. 101–624, §2390(b)(1), added subsec. (h) relating to rural health and safety education programs.
 
-1987—Subsec. (f). Pub. L. 100–219 amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows:
+<b>1987</b>—Subsec. (f). Pub. L. 100–219 amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows:
 
 “(1)(A) The Secretary shall provide special grants for programs to develop income alternatives for farmers who have been adversely affected by the current farm and rural economic crisis and those displaced from farming.
 
@@ -250,7 +250,7 @@ Pub. L. 101–624, §2390(b)(1), added subsec. (h) relating to rural health and 
 
 “(2) Grants may be made under paragraph (1) during the period beginning on December 23, 1985, and ending 3 years after such date.”
 
-1985—Subsec. (f). Pub. L. 99–198 added subsec. (f).
+<b>1985</b>—Subsec. (f). Pub. L. 99–198 added subsec. (f).
 
 #### Effective Date of 2008 Amendment
 

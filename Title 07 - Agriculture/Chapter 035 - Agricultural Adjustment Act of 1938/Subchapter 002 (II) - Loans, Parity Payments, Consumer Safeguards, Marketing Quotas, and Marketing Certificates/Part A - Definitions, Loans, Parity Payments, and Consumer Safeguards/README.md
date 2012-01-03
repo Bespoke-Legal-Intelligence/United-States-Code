@@ -7,7 +7,7 @@ Part A—Definitions, Loans, Parity Payments, and Consumer Safeguards
 
 - [&sect; 01301 - Definitions](%C2%A7%2001301%20-%20Definitions.md)
 - [&sect; 01301a - References to parity prices, etc., in other laws after January 1, 1950](%C2%A7%2001301a%20-%20References%20to%20parity%20prices%2C%20etc.%2C%20in%20other%20laws%20after%20January%201%2C%201950.md)
-- [&sect; 01301b - Repealed. Pub. I. 85&#8211;835, title I, &sect;108, Aug. 28, 1958, 72 Stat. 993](%C2%A7%2001301b%20-%20Repealed.%20Pub.%20I.%2085%E2%80%93835%2C%20title%20I%2C%20%C2%A7108%2C%20Aug.%2028%2C%201958%2C%2072%20Stat.%20993.md)
+- [&sect; 01301b - Repealed. Pub. L. 85&#8211;835, title I, &sect;108, Aug. 28, 1958, 72 Stat. 993](%C2%A7%2001301b%20-%20Repealed.%20Pub.%20L.%2085%E2%80%93835%2C%20title%20I%2C%20%C2%A7108%2C%20Aug.%2028%2C%201958%2C%2072%20Stat.%20993.md)
 - [&sect; 01302 - Repealed. Oct. 31, 1949, ch. 792, title IV, &sect;414, 63 Stat. 1057](%C2%A7%2001302%20-%20Repealed.%20Oct.%2031%2C%201949%2C%20ch.%20792%2C%20title%20IV%2C%20%C2%A7414%2C%2063%20Stat.%201057.md)
 - [&sect; 01303 - Parity payments](%C2%A7%2001303%20-%20Parity%20payments.md)
 - [&sect; 01304 - Consumer safeguards](%C2%A7%2001304%20-%20Consumer%20safeguards.md)

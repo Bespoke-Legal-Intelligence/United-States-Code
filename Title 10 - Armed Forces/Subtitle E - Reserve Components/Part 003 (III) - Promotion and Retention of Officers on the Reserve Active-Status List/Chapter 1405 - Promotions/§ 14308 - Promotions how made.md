@@ -2,7 +2,7 @@
 
 (a)
 
-Promotion List.—When the report of a selection board convened under section 14101(a) or14502 of this title is approved by the President, the Secretary of the military department concerned shall place the names of all officers selected for promotion within a competitive category on a single list for that competitive category, to be known as a promotion list, in the order of seniority of those officers on the reserve active-status list. A promotion list is considered to be established under this section as of the date of the approval of the report of the selection board under the preceding sentence.
+Promotion List.—When the report of a selection board convened under section 14101(a) or 14502 of this title is approved by the President, the Secretary of the military department concerned shall place the names of all officers selected for promotion within a competitive category on a single list for that competitive category, to be known as a promotion list, in the order of seniority of those officers on the reserve active-status list. A promotion list is considered to be established under this section as of the date of the approval of the report of the selection board under the preceding sentence.
 
 (b)
 
@@ -30,7 +30,7 @@ Date of Rank.—(1) The date of rank of an officer appointed to a higher grade u
 
 (2) The date of rank of an officer appointed to a higher grade under this section may be adjusted in the same manner as an adjustment may be made under section 741(d)(4) of this title in the date of rank of an officer appointed to a higher grade under section 624(a) of this title. In any use of the authority under the preceding sentence, subparagraph (C)(ii) of such section shall be applied by substituting “reserve active-status list” for “active-duty list”.
 
-(3) Except as provided in paragraph (2) or as otherwise specifically authorized by law, a reserve officer is not entitled to additional pay or allowances if the effective date of the officer's promotion is adjusted to reflect a date earlier than the actual date of the officer's promotion.
+(3) Except as provided in paragraph (2) or as otherwise specifically authorized by law, a reserve officer is not entitled to additional pay or allowances if the effective date of the officer'spromotion is adjusted to reflect a date earlier than the actual date of the officer's promotion.
 
 (d)
 
@@ -56,7 +56,7 @@ Army and Air Force General Officer Promotions.—A reserve officer of the Army o
 
 #### Prior Provisions
 
-Provisions similar to those in subsecs. (a), (d), and (f) of this section were contained in sections 3385, 5902(a)to (c), and 8374 of this title, prior to repeal by Pub. L. 103–337, §1629(a)(1), (b)(2), (c)(1).
+Provisions similar to those in subsecs. (a), (d), and (f) of this section were contained in sections 3385, 5902(a) to (c), and 8374 of this title, prior to repeal by Pub. L. 103–337, §1629(a)(1), (b)(2), (c)(1).
 
 #### Amendments
 

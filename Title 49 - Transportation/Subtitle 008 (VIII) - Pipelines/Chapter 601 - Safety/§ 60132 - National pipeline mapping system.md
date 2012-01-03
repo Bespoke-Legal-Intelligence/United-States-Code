@@ -10,6 +10,8 @@ Information To Be Provided.—Not later than 6 months after the date of enactmen
 
 &emsp;(3) A means for a member of the public to contact the operator for additional information about the pipeline facilities it operates.
 
+&emsp;(4) Any other geospatial or technical data, including design and material specifications, that the Secretary determines are necessary to carry out the purposes of this section. The Secretary shall give reasonable notice to operators that the data are being requested.
+
 (b)
 
 Updates.—A person providing information under subsection (a) shall provide to the Secretary updates of the information to reflect changes in the pipeline facility owned or operated by the person and as otherwise required by the Secretary.
@@ -18,9 +20,49 @@ Updates.—A person providing information under subsection (a) shall provide to 
 
 Technical Assistance To Improve Local Response Capabilities.—The Secretary may provide technical assistance to State and local officials to improve local response capabilities for pipeline emergencies by adapting information available through the National Pipeline Mapping System to software used by emergency response personnel responding to pipeline emergencies.
 
-(Added Pub. L. 107–355, §15(a), Dec. 17, 2002, 116 Stat. 3005.)
+(d)
+
+Map of High-consequence Areas.—The Secretary shall—
+
+&emsp;(1) maintain, as part of the National Pipeline Mapping System, a map of designated high-consequence areas (as described in section 60109(a)) in which pipelines are required to meet integrity management program regulations, excluding any proprietary or sensitive security information; and
+
+&emsp;(2) update the map biennially.
+
+(e)
+
+Program To Promote Awareness of National Pipeline Mapping System.—Not later than 1 year after the date of enactment of this subsection, the Secretary shall develop and implement a program promoting greater awareness of the existence of the National Pipeline Mapping System to State and local emergency responders and other interested parties. The program shall include guidance on how to use the National Pipeline Mapping System to locate pipelines in communities and local jurisdictions.
+
+(f)
+
+Public Disclosure Limited.—The Secretary may not disclose information collected pursuant to subsection (a) except to the extent permitted by section 552 of title 5.
+
+(Added Pub. L. 107–355, §15(a), Dec. 17, 2002, 116 Stat. 3005; amended Pub. L. 112–90, §§6(a), 11, Jan. 3, 2012, 125 Stat. 1909, 1913.)
 
 #### References in Text
 
 The date of enactment of this section, referred to in subsec. (a), is the date of enactment of Pub. L. 107–355, which was approved Dec. 17, 2002.
+
+The date of enactment of this subsection, referred to in subsec. (e), is the date of enactment of Pub. L. 112–90, which was approved Jan. 3, 2012.
+
+#### Amendments
+
+<b>2012</b>—Subsec. (a)(4). Pub. L. 112–90, §11(a), added par. (4).
+
+Subsecs. (d), (e). Pub. L. 112–90, §6(a), added subsecs. (d) and (e).
+
+Subsec. (f). Pub. L. 112–90, §11(b), added subsec. (f).
+
+#### Information to Emergency Response Agencies
+
+Pub. L. 112–90, §6(b), Jan. 3, 2012, 125 Stat. 1910, provided that:
+
+“(1)
+
+Guidance.—Not later than 18 months after the date of enactment of this Act \[Jan. 3, 2012\], the Secretary shall issue guidance to owners and operators of pipeline facilities on the importance of providing system-specific information about their pipeline facilities to emergency response agencies of the communities and jurisdictions in which those facilities are located.
+
+“(2)
+
+Consultation.—Before issuing guidance under paragraph (1), the Secretary shall consult with owners and operators of pipeline facilities to determine the extent to which the owners and operators are already providing system-specific information about their pipeline facilities to emergency response agencies.”
+
+\[Terms used in section 6(b) of Pub. L. 112–90, set out above, have the meaning given those terms in this chapter, see section 1(c)(1) of Pub. L. 112–90, set out as a note under section 60101 of this title.\]
 

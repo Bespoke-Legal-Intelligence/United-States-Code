@@ -130,7 +130,7 @@
 
 #### (1) “Mentor teacher” defined; function
 
-&emsp;For purposes of this subsection, the term “mentor teacher” means an individual responsible for observing and assessing the classroom activities of a Head Start program and providing on-the-job guidance and training to the Head Start program staff and volunteers, in order to improve the qualifications and training of classroom staff, to maintain high quality education services, and to promote career development, in Head Start programs.
+&emsp;For purposes of this subsection, the term “mentor teacher” means an individual responsible for observing and assessing the classroom activities of a Head Start program and providing on-the-job guidance and training to theHead Start program staff and volunteers, in order to improve the qualifications and training of classroom staff, to maintain high quality education services, and to promote career development, in Head Start programs.
 
 #### (2) Requirement
 
@@ -206,7 +206,7 @@ To improve the quality and effectiveness of staff providing in-home and other se
 
 #### (7) Status of Fellows
 
-&emsp;Except as otherwise provided in this paragraph, Head Start Fellows shall not be considered to be employees or otherwise in the service or employment of the Federal Government. Head Start Fellows shall be considered to be employees for purposes of compensation for injuries under chapter 81 of title 5. Head Start Fellows assigned to positions located in agencies specified in paragraph (3)(A)(i) shall be considered employees in the executive branch of the Federal Government for the purposes of chapter 11 of title 18 and for purposes of any administrative standards of conduct applicable to the employees of the agency to which they are assigned.
+&emsp;Except as otherwise provided in this paragraph, Head Start Fellows shall not be considered to be employees or otherwise in the service or employment of the Federal Government. Head Start Fellows shall be considered to be employees for purposes of compensation for injuries under chapter 81 of title 5. Head Start Fellows assigned to positions located in agencies specified in paragraph (3)(A)(i) shall beconsidered employees in the executive branch of the Federal Government for the purposes of chapter 11 of title 18 and for purposes of any administrative standards of conduct applicable to the employees of the agency to which they are assigned.
 
 #### (8) Regulations
 
@@ -242,7 +242,7 @@ Before a Head Start agency employs an individual, such agency shall—
 
 <b>2007</b>—Subsec. (a). Pub. L. 110–134, §19(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to qualification and development requirements for Head Start teachers in center-based programs and gave Secretary limited authority to waive alternative credentialing requirements.
 
-Subsec. (c). Pub. L. 110–134, §19(2), amended subsec. (c) generally. Prior to amendment, text of subsec. (c)read as follows: “In order to improve the quality and effectiveness of staff providing in-home and other services (including needs assessment, development of service plans, family advocacy, and coordination of service delivery) to families of children participating in Head Start programs, the Secretary, in coordination with concerned public and private agencies and organizations examining the issues of standards and training for family service workers, shall—
+Subsec. (c). Pub. L. 110–134, §19(2), amended subsec. (c) generally. Prior to amendment, text of subsec. (c) read as follows: “In order to improve the quality and effectiveness of staff providing in-home and other services (including needs assessment, development of service plans, family advocacy, and coordination of service delivery) to families of children participating in Head Start programs, the Secretary, in coordination with concerned public and private agencies and organizations examining the issues of standards and training for family service workers, shall—
 
 &emsp;“(1) review and, as necessary, revise or develop new qualification standards for Head Start staff providing such services;
 
@@ -259,6 +259,10 @@ Subsecs. (f), (g). Pub. L. 110–134, §19(4), added subsecs. (f) and (g).
 <b>1998</b>—Subsec. (a). Pub. L. 105–285, §115(1), amended heading and text of subsec. (a) generally. Prior to amendment, subsec. (a) required Secretary to ensure that not later than Sept. 30, 1996, each Head Start classroom in a center-based program was assigned a teacher with certain specified credentials and gave Secretary limited authority to waive that requirement.
 
 Subsec. (b)(2)(B). Pub. L. 105–285, §115(2), substituted “staff or that are” for “staff, that are” and struck out “, or that lack staff of a similar cultural background to that of the participating children and their families” before semicolon.
+
+#### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Effective Date
 

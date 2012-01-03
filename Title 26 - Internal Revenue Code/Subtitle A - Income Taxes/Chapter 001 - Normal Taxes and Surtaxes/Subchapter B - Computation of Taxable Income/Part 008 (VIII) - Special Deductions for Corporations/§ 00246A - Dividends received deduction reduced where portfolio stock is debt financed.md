@@ -44,7 +44,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;If, as of the beginning of the ex-dividend date, the taxpayer owns stock of any bank or bank holding company having a value equal to at least 80 percent of the total value of the stock of such bank or bank holding company, for purposes of paragraph (2)(A)(i), the taxpayer shall be treated as owning any stock of such bank or bank holding company which the taxpayer has an option to acquire.
+&emsp;&emsp;If, as of the beginning of the ex-dividend date, the taxpayer owns stock of any bankor bank holding company having a value equal to at least 80 percent of the total value of the stock of such bank or bank holding company, for purposes of paragraph (2)(A)(i), the taxpayer shall be treated as owning any stock of such bank or bank holding company which the taxpayer has an option to acquire.
 
 #### (B) Definitions
 

@@ -118,7 +118,7 @@ This chapter, referred to in subsec. (d)(2), was in the original “this title�
 
 The Job Training Partnership Act, referred to in subsec. (e)(1)(B)(i), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended. Section 122 and title VII of the Act were classified to section 1532 and subchapter VI (§1792 et seq.) of chapter 19 of this title, respectively, prior to repeal by Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. For complete classification of this Act to the Code, see Tables.
 
-This Act, referred to in subsec. (e)(2), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended, known as the Workforce Investment Act of 1998. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+This Act, referred to in subsec. (e)(2), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended, known as the Workforce Investment Act of 1998. For complete classification of this Act to the Code, see Short Titlenote set out under section 9201 of Title 20, Education, and Tables.
 
 #### Amendments
 

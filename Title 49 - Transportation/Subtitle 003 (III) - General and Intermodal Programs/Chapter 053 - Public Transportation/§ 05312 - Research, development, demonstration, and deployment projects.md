@@ -6,7 +6,7 @@ Research, Development, Demonstration, and Deployment Projects.—
 
 &emsp;(1)
 
-In general.—The Secretary may make grants, contracts, cooperative agreements, and other agreements (including agreements with departments, agencies, and instrumentalities of the United States Government) for research, development, demonstration, and deployment projects, and evaluation of technology of national significance to public transportation, that the Secretary determineswill improve public transportation service or help public transportation service meet the total transportation needs at a minimum cost.
+In general.—The Secretary may make grants, contracts, cooperative agreements, and other agreements (including agreements with departments, agencies, and instrumentalities of the United States Government) for research, development, demonstration, and deployment projects, and evaluation of technology of national significance to public transportation, that the Secretary determines will improve public transportation service or help public transportation service meet the total transportation needs at a minimum cost.
 
 &emsp;(2)
 

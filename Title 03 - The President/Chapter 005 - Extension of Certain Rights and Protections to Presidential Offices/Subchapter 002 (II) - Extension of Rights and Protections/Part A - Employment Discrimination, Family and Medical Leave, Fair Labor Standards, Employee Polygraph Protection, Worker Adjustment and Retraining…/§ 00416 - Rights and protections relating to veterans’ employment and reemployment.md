@@ -20,7 +20,7 @@ Definition.—For purposes of this section, the term “eligible employee” mea
 
 (b)
 
-Remedy.—The remedy for a violation of subsection (a) shall be such damages as would be appropriate if awarded under section 4323(d) of title 38.
+Remedy.—The remedy for a violation of subsection (a) shall be such damages as would beappropriate if awarded under section 4323(d) of title 38.
 
 (c)
 
@@ -54,7 +54,7 @@ Effective Date.—Subsections (a) and (b) shall take effect on the earlier of—
 
 #### Amendments
 
-2010—Subsec. (b). Pub. L. 111–275 substituted “under section 4323(d) of title 38” for “under paragraphs (1) and (2)(A) of section 4323(c) of title 38”.
+<b>2010</b>—Subsec. (b). Pub. L. 111–275 substituted “under section 4323(d) of title 38” for “under paragraphs (1) and (2)(A) of section 4323(c) of title 38”.
 
 #### Effective Date
 

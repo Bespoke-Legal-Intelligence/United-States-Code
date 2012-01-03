@@ -28,7 +28,7 @@ The Secretary, acting through the Administrator of the Health Resources and Serv
 
 #### (c) Indian Health Service
 
-The programs under subsection (a) of this section shall include programs provided throughthe Indian Health Service or through tribal contracts, compacts, grants, or cooperative agreements with the Indian Health Service and which are determined appropriate to raising the health status of Indians.
+The programs under subsection (a) of this section shall include programs provided through the Indian Health Service or through tribal contracts, compacts, grants, or cooperative agreements with the Indian Health Service and which are determined appropriate to raising the health status of Indians.
 
 #### (d) Grant and contract authority
 

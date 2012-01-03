@@ -14,19 +14,23 @@ The Secretary, in consultation with Governors, State legislatures, State and loc
 
 &emsp;(6) include in the report submitted pursuant to paragraph (5) for fiscal year 2007 or any succeeding fiscal year, State-by-State data on—
 
-&emsp;&emsp;(A) the percentage of children in foster care under the responsibility of the State who were visited on a monthly basis by the caseworker handling the case of the child; and
+&emsp;&emsp;(A) the percentage of children in foster care under the responsibility of the State who were visited on a monthly basis by the caseworker handling the case of the child;
 
-&emsp;&emsp;(B) the percentage of the visits that occurred in the residence of the child.
+&emsp;&emsp;(B) the total number of visits made by caseworkers on a monthly basis to children in foster care under the responsibility of the State during a fiscal year as a percentage of the total number of the visits that would occur during the fiscal year if each child were so visited once every month while in such care; and
 
-(Aug. 14, 1935, ch. 531, title IV, §479A, as added Pub. L. 105–89, title II, §203(a), Nov. 19, 1997, 111 Stat. 2126; amended Pub. L. 109–288, §7(c)(2), Sept. 28, 2006, 120 Stat. 1249.)
+&emsp;&emsp;(C) the percentage of the visits that occurred in the residence of the child.
 
-#### References in Text
-
-Part B of this subchapter, referred to in par. (1), is classified to section 620 et seq. of this title.
+(Aug. 14, 1935, ch. 531, title IV, §479A, as added Pub. L. 105–89, title II, §203(a), Nov. 19, 1997, 111 Stat. 2126; amended Pub. L. 109–288, §7(c)(2), Sept. 28, 2006, 120 Stat. 1249; Pub. L. 112–34, title I, §106(d), Sept. 30, 2011, 125 Stat. 377.)
 
 #### Amendments
 
+<b>2011</b>—Par. (6)(B), (C). Pub. L. 112–34 added subpar. (B) and redesignated former subpar. (B) as (C).
+
 <b>2006</b>—Par. (6). Pub. L. 109–288 added par. (6).
+
+#### Effective Date of 2011 Amendment
+
+Amendment by Pub. L. 112–34 effective Oct. 1, 2011, and applicable to payments under this part and part B of this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 107 of Pub. L. 112–34, set out as a note under section 622 of this title.
 
 #### Effective Date of 2006 Amendment
 

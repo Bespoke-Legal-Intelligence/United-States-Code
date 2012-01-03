@@ -8,7 +8,7 @@
 
 #### (2) Prohibition
 
-&emsp;No person shall on the ground of sex (including, in the case of a woman, on the ground that the woman is pregnant), or on the ground of religion, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under, any program or activity funded in whole or in part with funds madeavailable under section 300x or 300x–21 of this title.
+&emsp;No person shall on the ground of sex (including, in the case of a woman, on the ground that the woman is pregnant), or on the ground of religion, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under, any program or activity funded in whole or in part with funds made available under section 300x or 300x–21 of this title.
 
 #### (b) Enforcement
 

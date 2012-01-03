@@ -16,21 +16,21 @@ A person shall not serve as a page—
 
 &emsp;(2) of the House of Representatives before he has attained the age of sixteen years.
 
-(Pub. L. 91–510, title IV, §491(a)–(d), Oct. 26, 1970, 84 Stat. 1198; Pub. L. 97–51, §§101(c), 123, Oct. 1, 1981, 95 Stat. 959, 965; Pub. L. 104–186, title II, §204(36), Aug. 20, 1996, 110 Stat. 1735; Pub. L. 108–447, div. G, title I, §9, Dec. 8, 2004, 118 Stat. 3170.)
+(Pub. L. 91–510, title IV, §491(a)–(d), Oct. 26, 1970, 84 Stat. 1198; Pub. L. 97–51, §§101(c), 123, Oct. 1,1981, 95 Stat. 959, 965; Pub. L. 104–186, title II, §204(36), Aug. 20, 1996, 110 Stat. 1735; Pub. L. 108–447, div. G, title I, §9, Dec. 8, 2004, 118 Stat. 3170.)
 
 #### Codification
 
-Repeal of subsecs. (c) and (d) of this section is based on section 304(a) of H.R. 4120, as reported July 9, 1981,which was enacted into permanent law by section 101(c) of Pub. L. 97–51 and amended by section 123 of Pub. L. 97–51.
+Repeal of subsecs. (c) and (d) of this section is based on section 304(a) of H.R. 4120, as reported July 9, 1981, which was enacted into permanent law by section 101(c) of Pub. L. 97–51 and amended by section 123 of Pub. L. 97–51.
 
 #### Amendments
 
-2004—Subsec. (b)(1). Pub. L. 108–447 substituted “sixteen” for “fourteen”.
+<b>2004</b>—Subsec. (b)(1). Pub. L. 108–447 substituted “sixteen” for “fourteen”.
 
-1996—Subsec. (a)(1). Pub. L. 104–186, §204(36)(A), substituted “the period specified in writing at the time of the appointment” for “a period of not less than two months”.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–186, §204(36)(A), substituted “the period specified in writing at the time of the appointment” for “a period of not less than two months”.
 
 Subsec. (b). Pub. L. 104–186, §204(36)(B), substituted a period for “; or” at end of par. (2) and struck out concluding provisions which read as follows: “(except in the case of a chief page, telephone page, or riding page) during any session of the Congress which begins after he has attained the age of eighteen years.”
 
-1981—Subsecs. (c), (d). Pub. L. 97–51 struck out subsecs. (c) and (d) which had provided, respectively, that pay of pages of the Senate began not more than five days before the convening or reconvening of a session of the Congress or of the Senate and continued until the end of the month during which the Congress or the Senate adjourned or recessed or until the fourteenth day after such adjournment or recess, whichever was the later date, except that, in any case in which the Congress or the Senate adjourned or recessed on or before the last day of July for a period of at least thirty days but not more than forty-five days, such pay would continue until the end of such period of adjournment or recess, and that the pay of pages of the House of Representatives began not more than five days before the convening of a session of the Congress and continued until the end of the month during which the Congress adjourned sine die or recessed or until the fourteenth day after such adjournment or recess, whichever was the later date, except that, in any case in which the House adjourned or recessed on or before the last day of July in any year for a period of at least thirty days but not more than forty-five days, such pay would continue until the end of such period of adjournment or recess.
+<b>1981</b>—Subsecs. (c), (d). Pub. L. 97–51 struck out subsecs. (c) and (d) which had provided, respectively, that pay of pages of the Senate began not more than five days before the convening or reconvening of a session of the Congress or of the Senate and continued until the end of the month during which the Congress or the Senate adjourned or recessed or until the fourteenth day after such adjournment or recess, whichever was the later date, except that, in any case in which the Congress or the Senate adjourned or recessed on or before the last day of July for a period of at least thirty days but not more than forty-five days, such pay would continue until the end of such period of adjournment or recess, and that the pay of pages of the House of Representatives began not more than five days before the convening of a session of the Congress and continued until the end of the month during which the Congress adjourned sine die or recessed or until the fourteenth day after such adjournment or recess, whichever was the later date, except that, in any case in which the House adjourned or recessed on or before the last day of July in any year for a period of at least thirty days but not more than forty-five days, such pay would continue until the end of such period of adjournment or recess.
 
 #### Effective Date
 

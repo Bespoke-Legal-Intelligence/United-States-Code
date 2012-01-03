@@ -4,7 +4,7 @@ Congress finds that—
 
 &emsp;(1) in order to promote energy independence and meet the increasing demand for energy, the United States will require a diversified portfolio of substantially increased quantities of electricity, natural gas, and transportation fuels;
 
-&emsp;(2) according to the report submitted to Congress by the National Research Council entitled “Charting the Future of Methane Hydrate Research in the United States”, the total United States resources of gas hydrates havebeen estimated to be on the order of 200,000 trillion cubic feet;
+&emsp;(2) according to the report submitted to Congress by the National Research Council entitled “Charting the Future of Methane Hydrate Research in the United States”, the total United States resources of gas hydrates have been estimated to be on the order of 200,000 trillion cubic feet;
 
 &emsp;(3) according to the report of the National Commission on Energy Policy entitled “Ending the Energy Stalemate—A Bipartisan Strategy to Meet America's Energy Challenge”, and dated December 2004, the United States may be endowed with over one-fourth of the methane hydrate deposits in the world;
 

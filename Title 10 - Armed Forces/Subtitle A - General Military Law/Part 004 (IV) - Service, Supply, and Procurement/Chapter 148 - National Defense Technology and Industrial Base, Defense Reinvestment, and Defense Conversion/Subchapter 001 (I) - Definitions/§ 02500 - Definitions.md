@@ -30,7 +30,7 @@ In this chapter:
 
 &emsp;&emsp;&emsp;(i) encourages the participation of firms so owned or controlled in research and development consortia to which the government of that country provides funding directly or provides funding indirectly through international organizations or agreements; and
 
-&emsp;&emsp;&emsp;(ii) affords adequate and effective protection for the intellectual property rights of companies incorporated in the United States.
+&emsp;&emsp;&emsp;(ii) affords adequate and effective protection for the intellectual property rights ofcompanies incorporated in the United States.
 
 > &emsp;Such term includes a consortium of such companies or other business entities, as determined by the Secretary of Commerce.
 
@@ -114,11 +114,11 @@ Section 1301 of title XIII of div. A of Pub. L. 103–160 provided that: “This
 
 #### Short Title
 
-Section 4001 of Pub. L. 102–484 provided that: “This division \[div. D (§§4001–4501) of Pub. L. 102–484, see Tables for classification\] may be cited as the ‘Defense Conversion, Reinvestment, and Transition Assistance Act of 1992’.”
+Section 4001 of Pub. L. 102–484 provided that: “This division \[div. D (§§4001–4501) of Pub. L. 102–484, see Tablesfor classification\] may be cited as the ‘Defense Conversion, Reinvestment, and Transition Assistance Act of 1992’.”
 
 #### Application of 1993 Amendments to Existing Technology Reinvestment Projects
 
-Amendment by section 1315(f) of Pub. L. 103–160 not to alter financial commitment requirements in effect onthe day before Nov. 30, 1993, for non-Federal Government participants in a project funded under section 2511, 2512, 2513, 2523, or 2524 of this title, using funds appropriated for a fiscal year beginning before Oct. 1, 1993, see section 1315(g) of Pub. L. 103–160, set out as a note under section 2511 of this title.
+Amendment by section 1315(f) of Pub. L. 103–160 not to alter financial commitment requirements in effect on the day before Nov. 30, 1993, for non-Federal Government participants in a project funded under section 2511, 2512, 2513, 2523, or 2524 of this title, using funds appropriated for a fiscal year beginning before Oct. 1, 1993, see section 1315(g) of Pub. L. 103–160, set out as a note under section 2511 of this title.
 
 #### Congressional Findings
 

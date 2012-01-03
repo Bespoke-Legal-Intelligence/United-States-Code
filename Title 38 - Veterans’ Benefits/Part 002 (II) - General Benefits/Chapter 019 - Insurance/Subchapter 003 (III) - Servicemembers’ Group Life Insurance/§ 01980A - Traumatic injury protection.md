@@ -54,7 +54,7 @@
 
 (B) For each qualifying loss, the Secretary shall prescribe, by regulation, a period of time to be the period of time within which a loss of that type must be incurred, determined from the date on which the member sustains the traumatic injury resulting in that loss, in order for that loss to be covered under this section.
 
-(d)(1) Payments under this section for qualifying losses shall be made in accordance with aschedule prescribed by the Secretary, by regulation, specifying the amount of payment to be made for each type of qualifying loss, to be based on the severity of the qualifying loss. The minimum payment that may be prescribed for a qualifying loss is $25,000, and the maximum payment that may be prescribed for a qualifying loss is $100,000.
+(d)(1) Payments under this section for qualifying losses shall be made in accordance with a schedule prescribed by the Secretary, by regulation, specifying the amount of payment to be made for each type of qualifying loss, to be based on the severity of the qualifying loss. The minimum payment that may be prescribed for a qualifying loss is $25,000, and the maximum payment that may be prescribed for a qualifying loss is $100,000.
 
 (2) As the Secretary considers appropriate, the schedule required by paragraph (1) may distinguish in specifying payments for qualifying losses between the severity of a qualifying loss of a dominant hand and of a qualifying loss of a nondominant hand.
 
@@ -70,7 +70,7 @@
 
 (6) The cost attributable to insuring members under this section for any month or other period specified by the Secretary, less the premiums paid by the members, shall be paid by the Secretary concerned to the Secretary. The Secretary shall allocate the amount payable among the uniformed services using such methods and data as the Secretary determines to be reasonable and practicable. Payments under this paragraph shall be made on a monthly basis or at such other intervals as may be specified by the Secretary and shall be made within 10 days of the date on which the Secretary provides notice to the Secretary concerned of the amount required.
 
-(7) For each period for which a payment by a Secretary concerned is required under paragraph (6), the Secretary concerned shall contribute such amount from appropriations available for active duty pay of the uniformed service concerned.
+(7) For each period for which a payment by a Secretary concerned is required under paragraph\(6), the Secretary concerned shall contribute such amount from appropriations available for active duty pay of the uniformed service concerned.
 
 (8) The sums withheld from the basic or other pay of members, or collected from them by the Secretary concerned, under this subsection, and the sums contributed from appropriations under this subsection, together with the income derived from any dividends or premium rate adjustments received from insurers shall be deposited to the credit of the revolving fund established in the Treasury of the United States under section 1869(d)(1) of this title.
 
@@ -146,7 +146,7 @@ Subsec. (e). Pub. L. 109–233, §501(a)(5), substituted “Secretary concerned�
 
 Subsec. (f). Pub. L. 109–233, §501(a)(6), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “The Secretary of Defense shall certify whether any member claiming the benefit under this section is eligible.”
 
-Subsec. (g). Pub. L. 109–233, §501(a)(7), designated first sentence as par. (1), substituted “may not be made under the insurance coverage under this section” for “will not be made” and “a period prescribed by the Secretary, by regulation, for such purpose that begins on the date” for “the period prescribed by the Secretary, in collaboration with the Secretary of Defense, which begins on the date”, designated second sentence as par. (2), and substituted “If a member eligible for a payment under this section” for “If the member”, “shall be” for “will be”, and “to the beneficiary or beneficiaries to whom the payment would be made if the payment were life insurance under section 1967(a) of this title.” for “according to the member's most current beneficiary designation under Servicemembers’Group Life Insurance, or a by law designation, if applicable.”
+Subsec. (g). Pub. L. 109–233, §501(a)(7), designated first sentence as par. (1), substituted “may not be made under the insurance coverage under this section” for “will not be made” and “a period prescribed by the Secretary, by regulation, for such purpose that begins on the date” for “the period prescribed by the Secretary, in collaboration with the Secretary of Defense, which begins on the date”, designated second sentence as par. (2), and substituted “If a member eligible for a payment under this section” for “If the member”, “shall be” for “will be”, and “to the beneficiary or beneficiaries to whom the payment would be made if the payment were life insurance under section 1967(a) of this title.” for “according to the member's most current beneficiary designation under Servicemembers’ Group Life Insurance, or a by law designation, if applicable.”
 
 Subsec. (h). Pub. L. 109–233, §501(a)(8), substituted “termination of the member's duty status in the uniformed services that established eligibility for Servicemembers’ Group Life Insurance” for “member's separation from the uniformed service” in first sentence, added second sentence, and struck out former second sentence which read as follows: “Payment will not be made for any loss resulting from injury incurred after the date a member is separated from the uniformed services.”
 
@@ -198,7 +198,7 @@ Certification of persons entitled to payment.—The Secretary concerned shall ce
 
 “(3)
 
-Funding.—At the time a certification is made under paragraph (2), the Secretary concerned, from funds then available to that Secretary for the pay of members of the uniformed services under the jurisdiction of that Secretary, shall pay to the Secretary of Veterans Affairs the amount of funds the Secretary of Veterans Affairs determines to be necessary to pay all costs related to payments to be made under that certification. Amounts received by the Secretary of Veterans Affairs under this paragraph shall be deposited to the credit of the revolving fund in the Treasury of the United States established under section 1969(d) of title 38, United States Code.
+Funding.—At the time a certification is made under paragraph (2), the Secretary concerned, from funds then available to that Secretary for the pay of members of the uniformed services under the jurisdiction of that Secretary, shall pay to the Secretary of Veterans Affairs the amount of funds the Secretary of Veterans Affairs determines to be necessary to pay all costs related to payments to be made under that certification. Amounts received by the Secretary of Veterans Affairs under this paragraph shall be deposited tothe credit of the revolving fund in the Treasury of the United States established under section 1969(d) of title 38, United States Code.
 
 “(4)
 

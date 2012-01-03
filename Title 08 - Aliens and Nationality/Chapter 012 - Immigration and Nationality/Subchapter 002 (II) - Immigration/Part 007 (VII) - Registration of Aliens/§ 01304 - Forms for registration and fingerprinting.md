@@ -34,13 +34,13 @@ This chapter, referred to in subsec. (d), was in the original, “this Act”, m
 
 #### Amendments
 
-1996—Subsec. (f). Pub. L. 104–208 added subsec. (f).
+<b>1996</b>—Subsec. (f). Pub. L. 104–208 added subsec. (f).
 
-1990—Subsec. (b). Pub. L. 101–649 inserted “(1) pursuant to section 1357(f)(2) of this title, and (2)” after “only”.
+<b>1990</b>—Subsec. (b). Pub. L. 101–649 inserted “(1) pursuant to section 1357(f)(2) of this title, and (2)” after “only”.
 
-1988—Subsec. (a). Pub. L. 100–525 amended Pub. L. 99–653. See 1986 Amendment note below.
+<b>1988</b>—Subsec. (a). Pub. L. 100–525 amended Pub. L. 99–653. See 1986 Amendment note below.
 
-1986—Subsec. (a). Pub. L. 99–653, as amended by Pub. L. 100–525, amended first sentence generally, striking out “and fingerprinting” before “of aliens under section 1301”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–653, as amended by Pub. L. 100–525, amended first sentence generally, striking out “and fingerprinting” before “of aliens under section 1301”.
 
 #### Effective Date of 1988 Amendment
 

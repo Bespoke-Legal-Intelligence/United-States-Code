@@ -10,9 +10,15 @@
 
 (e) The award shall be unenforceable until the notice required by subsection (d) is received by the Director.
 
-(Added Pub. L. 97–247, §17(b)(1), Aug. 27, 1982, 96 Stat. 322; amended Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(a)(19), (b)(1)(B), Nov. 2, 2002, 116 Stat. 1905, 1906.)
+(Added Pub. L. 97–247, §17(b)(1), Aug. 27, 1982, 96 Stat. 322; amended Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(a)(19), (b)(1)(B), Nov. 2, 2002, 116 Stat. 1905, 1906; Pub. L. 112–29, §20(j), Sept. 16, 2011, 125 Stat. 335.)
+
+#### Amendment of Section
+
+<i>Pub. L. 112–29, §20(j), (l), Sept. 16, 2011, 125 Stat. 335, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, this section is amended by striking “of this title” each place that term appears. See 2011 Amendment note below.</i>
 
 #### Amendments
+
+<b>2011</b>—Subsec. (b). Pub. L. 112–29 struck out “of this title” after “282”.
 
 <b>2002</b>—Subsec. (b). Pub. L. 107–273, §13206(a)(19)(A), struck out “United States Code,” after “title 9,”.
 
@@ -21,6 +27,10 @@ Subsec. (c). Pub. L. 107–273, §13206(a)(19)(B), substituted “rendered by a 
 Subsecs. (d), (e). Pub. L. 107–273, §13206(b)(1)(B), made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
 
 <b>1999</b>—Subsecs. (d), (e). Pub. L. 106–113, as amended by Pub. L. 107–273, §13206(b)(1)(B), substituted “Director” for “Commissioner” wherever appearing.
+
+#### Effective Date of 2011 Amendment
+
+Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(<i>l</i>) of Pub. L. 112–29, set out as a note under section 2 of this title.
 
 #### Effective Date of 1999 Amendment
 

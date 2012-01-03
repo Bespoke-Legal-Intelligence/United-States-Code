@@ -8,7 +8,7 @@ There are authorized to be appropriated to the President to carry out this chapt
 
 (1) The total amount of credits extended under section 2763 of this title shall not exceed $5,371,000,000 for fiscal year 1986 and $5,371,000,000 for fiscal year 1987.
 
-(2) Of the aggregate amount of financing provided under this section, not more than$553,900,000 for fiscal year 1986 and not more than $553,900,000 for fiscal year 1987 may be made available at concessional rates of interest. If a country is released from its contractual liability to repay the United States Government with respect to financing provided under this section, such financing shall not be considered to be financing provided at concessional rates of interest for purposes of the limitation established by this paragraph.
+(2) Of the aggregate amount of financing provided under this section, not more than $553,900,000 for fiscal year 1986 and not more than $553,900,000 for fiscal year 1987 may be made available at concessional rates of interest. If a country is released from its contractual liability to repay the United States Government with respect to financing provided under this section, such financing shall not be considered to be financing provided at concessional rates of interest for purposes of the limitation established by this paragraph.
 
 #### (c) Interest rates
 
@@ -34,7 +34,7 @@ Subsec. (b). Pub. L. 99–83, §101(b), amended subsec. (b) generally, substitut
 
 Subsec. (c). Pub. L. 99–83, §101(b), amended subsec. (c) generally, substituting provisions relating to extended repayment terms for credits provided for fiscal years 1986 and 1987, for provisions relating to funds made available for fiscal year 1984 to finance procurement of defense articles, etc., by Israel.
 
-<b>1983</b>—Subsec. (b)(3). Pub. L. 98–151 amended par. (3) generally, substituting provisions authorizing not less than $1,700,000,000 for fiscal year 1984 as available to Israel, of which not less than $850,000,000 shall be available as credits under section 2763 of this title, and provisions relating to availability of funds part of the total aggregate credit ceiling made available to Israel, for provisions authorizing not less than $1,400,000,000 for the fiscal years 1982 and 1983 as available to Israel, of which not less than $550,000,000 for each year shall be available as credits.
+<b>1983</b>—Subsec. (b)(3). Pub. L. 98–151 amended par. (3) generally, substituting provisions authorizing not lessthan $1,700,000,000 for fiscal year 1984 as available to Israel, of which not less than $850,000,000 shall be available as credits under section 2763 of this title, and provisions relating to availability of funds part of the total aggregate credit ceiling made available to Israel, for provisions authorizing not less than $1,400,000,000 for the fiscal years 1982 and 1983 as available to Israel, of which not less than $550,000,000 for each year shall be available as credits.
 
 Subsec. (b)(5). Pub. L. 98–151 substituted “1984” for “1982 and for the fiscal year 1983”.
 
@@ -92,7 +92,7 @@ Subsec. (b). Pub. L. 93–189, §25(6), substituted provisions setting out the f
 
 <b>1972</b>—Subsec. (a). Pub. L. 92–226, §401(a), substituted provision authorizing appropriation of not more than $400,000,000 for the fiscal year 1972, for provisions authorizing appropriation of not more than $250,000,000 for each of the fiscal years 1970 and 1971.
 
-Subsec. (b). Pub. L. 92–226, §401(b), substituted provisions setting out the foreign military sales credit ceiling of $550,000,000 for the fiscal year 1972, of which amount not less than $300,000,000 shall be made available to Israel, for provisions setting out such ceiling of $340,000,000 for the fiscal years 1970 and 1971.
+Subsec. (b). Pub. L. 92–226, §401(b), substituted provisions setting out the foreign military sales credit ceiling of $550,000,000 for the fiscal year 1972, of whichamount not less than $300,000,000 shall be made available to Israel, for provisions setting out such ceiling of $340,000,000 for the fiscal years 1970 and 1971.
 
 <b>1971</b>—Subsec. (a). Pub. L. 91–672, §2(1), substituted provisions authorizing appropriation of not more than $250,000,000 for each of the fiscal years 1970 and 1971 for provisions authorizing appropriation of not more than $296,000,000 for the fiscal year 1969.
 

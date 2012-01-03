@@ -12,7 +12,7 @@ The Farm Credit Administration is authorized to grant charters to, prescribe byl
 
 #### Amendments
 
-1947—Subsec. (b). Act June 30, 1947, repealed provisions relating to the payment of the expenses of corporations formed by the consolidation of two or more regional agricultural credit corporations.
+<b>1947</b>—Subsec. (b). Act June 30, 1947, repealed provisions relating to the payment of the expenses of corporations formed by the consolidation of two or more regional agricultural credit corporations.
 
 #### Transfer of Functions
 

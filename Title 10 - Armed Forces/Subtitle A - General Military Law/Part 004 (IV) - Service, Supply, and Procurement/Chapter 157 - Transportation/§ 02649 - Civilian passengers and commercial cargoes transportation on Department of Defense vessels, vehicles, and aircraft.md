@@ -2,7 +2,7 @@
 
 (a)
 
-Authority.—Whenever space is unavailable on commercial lines and is available on vessels, vehicles, or aircraft operated by the Department of Defense, civilian passengers and commercial cargo may, in the discretion of the Secretary of Defense, be transported on those vessels, vehicles, or aircraft. Rates for transportation under this section may not be less than those charged by commercial lines for the same kinds of service, except that in the case of transportation provided in response to an emergency, a disaster, or a request for humanitarian assistance,any amount charged for such transportation may not exceed the cost of providing the transportation.
+Authority.—Whenever space is unavailable on commercial lines and is available on vessels, vehicles, or aircraft operated by the Department of Defense, civilian passengers and commercial cargo may, in the discretion of the Secretary of Defense, be transported on those vessels, vehicles, or aircraft. Rates for transportation under this section may not be less than those charged by commercial lines for the same kinds of service, except that in the case of transportation provided in response to an emergency, a disaster, or a request for humanitarian assistance, any amount charged for such transportation may not exceed the cost of providing the transportation.
 
 (b)
 
@@ -50,7 +50,7 @@ Subsec. (b). Pub. L. 111–383, §352(b)(2), inserted heading and substituted �
 
 Subsec. (c). Pub. L. 111–383, §352(c), added subsec. (c).
 
-<b>2004</b>—Pub. L. 108–375, §1072(a), (b)(2)(A), renumbered section 4745 of this title as this section and substituted “Civilian passengers and commercial cargoes: transportation on Department of Defense vessels” for “Civilian passengers and commercial cargoes: transports in trans-Atlantic service” in section catchline.
+<b>2004</b>—Pub. L. 108–375, §1072(a), (b)(2)(A), renumbered section 4745 of this title as this section and substituted“Civilian passengers and commercial cargoes: transportation on Department of Defense vessels” for “Civilian passengers and commercial cargoes: transports in trans-Atlantic service” in section catchline.
 
 Subsec. (a). Pub. L. 108–375, §1072(b)(2)(B)–(D), struck out “(1) on vessels operated by Army transport agencies, or (2) within bulk space allocations made to the Department of the Army” after “available” and “any transport agency of” before “the Department of Defense” and substituted “Secretary of Defense, be transported” for “Secretary of the Army and the Secretary of Homeland Security, be transported”.
 

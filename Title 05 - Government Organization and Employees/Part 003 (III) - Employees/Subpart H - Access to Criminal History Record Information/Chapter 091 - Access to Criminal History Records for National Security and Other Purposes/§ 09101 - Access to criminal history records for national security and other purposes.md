@@ -54,7 +54,7 @@
 
 (4) Information provided through such systems shall be the full and complete criminal history record.
 
-(5) Criminal justice agencies shall accept and respond to requests for criminal history recordinformation through such systems with printed or photocopied records when requested.
+(5) Criminal justice agencies shall accept and respond to requests for criminal history record information through such systems with printed or photocopied records when requested.
 
 (f) The authority provided under this section with respect to the Department of State may be exercised only so long as the Department of State continues to extend to its employees and applicants for employment, at a minimum, those procedural safeguards provided for as part of the security clearance process that were made available, as of May 1, 1987, pursuant to section 163.4 of volume 3 of the Foreign Affairs Manual.
 
@@ -62,7 +62,7 @@
 
 #### Amendments
 
-2000—Pub. L. 106–398, §1 \[\[div. A\], title X, §1076(f)(2)(A)\], substituted “Access to criminal history records for national security and other purposes” for “Criminal history record information for national security purposes” in section catchline.
+<b>2000</b>—Pub. L. 106–398, §1 \[\[div. A\], title X, §1076(f)(2)(A)\], substituted “Access to criminal history records for national security and other purposes” for “Criminal history record information for national security purposes” in section catchline.
 
 Subsec. (a)(1). Pub. L. 106–398, §1 \[\[div. A\], title X, §1076(e)(1)\], substituted “means (A) any Federal, State, or local court, and (B) any Federal, State, or local agency, or any subunit thereof, which” for “includes Federal, State, and local agencies and means: (A) courts, or (B) a Government agency or any subunit thereof which”.
 
@@ -80,11 +80,11 @@ Subsec. (c). Pub. L. 106–398, §1 \[\[div. A\], title X, §1076(a)(3)\], subst
 
 Subsecs. (e), (f). Pub. L. 106–398, §1 \[\[div. A\], title X, §1076(d)\], added subsec. (e) and redesignated former subsec. (e) as (f).
 
-1990—Subsecs. (b)(1), (3)(A), (B), (c). Pub. L. 101–246, §114(1), inserted “the Department of State,” after “Defense,” wherever appearing.
+<b>1990</b>—Subsecs. (b)(1), (3)(A), (B), (c). Pub. L. 101–246, §114(1), inserted “the Department of State,” after “Defense,” wherever appearing.
 
 Subsec. (e). Pub. L. 101–246, §114(2), added subsec. (e).
 
-1986—Subsecs. (b)(1), (3), (c). Pub. L. 99–569 inserted references to the Federal Bureau of Investigation and such bureau.
+<b>1986</b>—Subsecs. (b)(1), (3), (c). Pub. L. 99–569 inserted references to the Federal Bureau of Investigation and such bureau.
 
 #### Effective Date of 1986 Amendment
 

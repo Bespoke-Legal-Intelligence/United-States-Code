@@ -26,7 +26,7 @@ Upon receipt of a certification under subsection (c)(2) of this section with res
 
 #### Prior Provisions
 
-A prior section 605, acts Aug. 14, 1935, ch. 531, title IV, §405, 49 Stat. 629; July 25, 1962, Pub. L. 87–543, title I, §107(a), 76 Stat. 188, related to use of payments for benefit of children, prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620.
+A prior section 605, acts Aug. 14, 1935, ch. 531, title IV, §405, 49 Stat. 629; July 25, 1962, Pub. L. 87–543, title I,§107(a), 76 Stat. 188, related to use of payments for benefit of children, prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620.
 
 #### Amendments
 

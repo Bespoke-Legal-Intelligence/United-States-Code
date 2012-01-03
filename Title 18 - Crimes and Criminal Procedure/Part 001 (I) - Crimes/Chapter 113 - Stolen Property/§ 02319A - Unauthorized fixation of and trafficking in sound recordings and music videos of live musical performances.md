@@ -38,7 +38,7 @@ Definitions.—As used in this section—
 
 &emsp;(1) the terms “copy”, “fixed”, “musical work”, “phonorecord”, “reproduce”, “sound recordings”, and “transmit” mean those terms within the meaning of title 17; and
 
-&emsp;(2) the term “traffic” has the same meaning as in section 2320(e) of this title.
+&emsp;(2) the term “traffic” has the same meaning as in section 2320(e) <sup>1</sup> of this title.
 
 (f)
 
@@ -49,6 +49,8 @@ Applicability.—This section shall apply to any Act or Acts that occur on or af
 #### References in Text
 
 The Federal Rules of Criminal Procedure, referred to in subsec. (d)(1), are set out in the Appendix to this title.
+
+Section 2320 of this title, referred to in subsec. (e)(2), was amended generally by Pub. L. 112–81, div. A, title VIII, §818(h), Dec. 31, 2011, 125 Stat. 1497, and, as so amended, provisions similar to those formerly appearing in subsec. (e) are now contained in subsec. (f).
 
 The date of the enactment of the Uruguay Round Agreements Act, referred to in subsec. (f), is the date of enactment of Pub. L. 103–465, which was approved Dec. 8, 1994.
 
@@ -65,4 +67,6 @@ Subsec. (c). Pub. L. 110–403, §203(b), substituted “The Secretary of Homela
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

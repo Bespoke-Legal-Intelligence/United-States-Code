@@ -66,7 +66,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;In applying this section, there shall be disregarded any transaction (which wouldotherwise cause a constructive sale) during the taxable year if—
+&emsp;&emsp;In applying this section, there shall be disregarded any transaction (which would otherwise cause a constructive sale) during the taxable year if—
 
 &emsp;&emsp;&emsp;(i) such transaction is closed on or before the 30th day after the close of such taxable year,
 
@@ -134,7 +134,7 @@ For purposes of this section—
 
 #### (3) Multiple positions in property
 
-&emsp;If a taxpayer holds multiple positions in property, the determination of whether a specific transaction is a constructive sale and, if so, which appreciated financial position is deemed sold shall be made in the same manner as actual sales.
+&emsp;If a taxpayer holds multiple positions in property, the determination of whether a specific transaction is a constructive sale and, ifso, which appreciated financial position is deemed sold shall be made in the same manner as actual sales.
 
 #### (f) Regulations
 

@@ -26,7 +26,7 @@ For the purposes of this subchapter:
 
 &emsp;(5) The term “intelligence agency” means the Central Intelligence Agency, a foreign intelligence component of the Department of Defense, or the foreign counterintelligence or foreign counterterrorism components of the Federal Bureau of Investigation.
 
-&emsp;(6) The term “informant” means any individual who furnishes information to an intelligence agency in the course of a confidentialrelationship protecting the identity of such individual from public disclosure.
+&emsp;(6) The term “informant” means any individual who furnishes information to an intelligence agency in the course of a confidential relationship protecting the identity of such individual from public disclosure.
 
 &emsp;(7) The terms “officer” and “employee” have the meanings given such terms by section 2104 and 2105, respectively, of title 5.
 

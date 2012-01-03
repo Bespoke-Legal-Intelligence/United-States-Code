@@ -42,7 +42,7 @@ In carrying out its purpose, the Corporation, utilizing broad criteria, shall un
 
 &emsp;(m) to refuse to insure, reinsure, or finance any investment subject to performance requirements which would reduce substantially the positive trade benefits likely to accrue to the United States from the investment; and
 
-&emsp;(n) to refuse to insure, reinsure, guarantee, or finance any investment in connection with a project which the Corporation determines will pose an unreasonable or major environmental, health, or safety hazard, or will resultin the significant degradation of national parks or similar protected areas.
+&emsp;(n) to refuse to insure, reinsure, guarantee, or finance any investment in connection with a project which the Corporation determines will pose an unreasonable or major environmental, health, or safety hazard, or will result in the significant degradation of national parks or similar protected areas.
 
 (Pub. L. 87–195, pt. I, §231, as added Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 809; amended Pub. L. 93–390, §2(1), Aug. 27, 1974, 88 Stat. 763; Pub. L. 95–268, §2, Apr. 24, 1978, 92 Stat. 213; Pub. L. 97–65, §2, Oct. 16, 1981, 95 Stat. 1021; Pub. L. 99–204, §§3, 4(a), Dec. 23, 1985, 99 Stat. 1669; Pub. L. 100–461, title V, §555, Oct. 1, 1988, 102 Stat. 2268–36; Pub. L. 102–549, title I, §101, Oct. 28, 1992, 106 Stat. 3651; Pub. L. 103–392, title I, §105, Oct. 22, 1994, 108 Stat. 4099.)
 
@@ -66,7 +66,7 @@ A prior section 231 of Pub. L. 87–195, pt. 1, Sept. 4, 1961, 75 Stat. 432, rel
 
 <b>1988</b>—Pub. L. 100–461, in par. (2) of second undesignated par., substituted “984 or less in 1986 United States dollars” for “$896 or less in 1983 United States dollars” and “$4,269 or more in 1986 United States dollars (other than countries designated as beneficiary countries under section 2702 of title 19)” for “$3,887 or more in 1983 United States dollars”.
 
-Pub. L. 100–461, in par. (3) of second undesignated par., substituted “section 2151p of this title, section 2151p–1 of this title, and section” for “sections 2151p of this title and” and “tropical forests and endangered species” for “biological diversity”.
+Pub. L. 100–461, in par. (3) of second undesignated par., substituted “section 2151p of this title, section 2151p–1 of this title, and section” for “sections 2151p ofthis title and” and “tropical forests and endangered species” for “biological diversity”.
 
 <b>1985</b>—Pub. L. 99–204, in second undesignated par., substituted “$896 or less in 1983 United States dollars” for “$680 or less in 1979 United States dollars” and “$3,887 or more in 1983 United States dollars” for “$2,950 or more in 1979 United States dollars” in par. (2), added par. (3), and added cl. (n).
 

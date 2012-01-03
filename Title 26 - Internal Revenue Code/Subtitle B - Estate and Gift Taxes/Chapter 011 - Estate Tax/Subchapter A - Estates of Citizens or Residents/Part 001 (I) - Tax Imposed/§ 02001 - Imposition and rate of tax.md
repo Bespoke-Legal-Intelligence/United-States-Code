@@ -101,7 +101,7 @@ For purposes of applying subsection (b)(2) with respect to 1 or more gifts, the 
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b)(2). Pub. L. 111–312, §§302(d)(1)(A), 304, temporarily substituted “if the modifications describedin subsection (g)” for “if the provisions of subsection (c) (as in effect at the decedent's death)”. See Effective and Termination Dates of 2010 Amendment note below.
+<b>2010</b>—Subsec. (b)(2). Pub. L. 111–312, §§302(d)(1)(A), 304, temporarily substituted “if the modifications described in subsection (g)” for “if the provisions of subsection (c) (as in effect at the decedent's death)”. See Effective and Termination Dates of 2010 Amendment note below.
 
 Subsec. (c). Pub. L. 111–312, §§302(a)(2), 304, temporarily struck out par. (1) designation and heading preceding table, substituted in table a single tentative tax rate for any amount over $500,000 for separate tentative tax rates for amounts ranging from over $500,000 to over $2,500,000, and struck out par. (2) which related to phasedown of maximum rate of tax. See Effective and Termination Dates of 2010 Amendment note below.
 
@@ -207,7 +207,7 @@ Section 702(h)(3) of Pub. L. 95–600 provided that: “The amendments made by t
 
 #### Effective Date of 1976 Amendment
 
-Section 2001(d)(1) of Pub. L. 94–455 provided that: “The amendments made by subsections (a) \[enacting section 2010, amending this section and sections 2012 and 2035, and repealing section 2052 of this title\] and (c)(1) \[amending sections 2011, 2012, 2013, 2014, 2038, 2044, 2101, 2102, 2104, 2106, 2107, 2206, 2207, and 6018 of this title\] shall apply to the estates of decedents dying after December 31, 1976; except that the amendments made by subsection (a)(5) \[amending section 2035 of this title\] and subparagraphs (K) and (L) of subsection (c)(1) \[amending sections 2038 and 2104 of this title\] shall not apply to transfers made before January 1, 1977.”
+Section 2001(d)(1) of Pub. L. 94–455 provided that: “The amendments made by subsections (a) \[enacting section 2010, amending this section and sections 2012 and 2035, and repealing section 2052 of this title\] and (c)(1) \[amending sections 2011, 2012, 2013, 2014, 2038, 2044, 2101, 2102, 2104, 2106, 2107, 2206, 2207, and 6018 of this title\] shall apply to the estates of decedents dying after December 31, 1976; except that the amendments madeby subsection (a)(5) \[amending section 2035 of this title\] and subparagraphs (K) and (L) of subsection (c)(1) \[amending sections 2038 and 2104 of this title\] shall not apply to transfers made before January 1, 1977.”
 
 #### Short Title
 

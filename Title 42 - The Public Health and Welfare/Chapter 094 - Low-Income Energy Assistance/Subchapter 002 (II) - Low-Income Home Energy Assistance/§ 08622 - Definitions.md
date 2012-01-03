@@ -78,7 +78,7 @@ Par. (4). Pub. L. 103–252, §304(b)(1), redesignated par. (2) as (4). Former p
 
 Pars. (5) to (9). Pub. L. 103–252, §304(b)(1), redesignated pars. (3) to (7) as (5) to (9), respectively.
 
-<b>1984</b>—Par. (1). Pub. L. 98–558, §602(a), struck out “intervention” after “energy crisis” and inserted “andother household energy-related emergencies” at the end.
+<b>1984</b>—Par. (1). Pub. L. 98–558, §602(a), struck out “intervention” after “energy crisis” and inserted “and other household energy-related emergencies” at the end.
 
 Par. (4). Pub. L. 98–558, §602(b), substituted “the income poverty line as prescribed and revised at least annually pursuant to section 9902(2) of this title,” for “the income poverty guidelines for the nonfarm population of the United States as prescribed by the Office of Management and Budget (and as adjusted annually pursuant to section 9902(2) of this title)”.
 

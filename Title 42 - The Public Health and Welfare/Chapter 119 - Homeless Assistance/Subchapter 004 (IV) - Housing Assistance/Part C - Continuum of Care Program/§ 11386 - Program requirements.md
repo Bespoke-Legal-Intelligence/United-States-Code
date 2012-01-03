@@ -18,7 +18,7 @@ The Secretary may not provide assistance for a proposed project under this part 
 
 &emsp;&emsp;(A) they will maintain the confidentiality of records pertaining to any individual or family provided family violence prevention or treatment services through the project;
 
-&emsp;&emsp;(B) that <sup>1</sup> the address or location of any family violence shelter project assistedunder this part will not be made public, except with written authorization of the person responsible for the operation of such project;
+&emsp;&emsp;(B) that <sup>1</sup> the address or location of any family violence shelter project assisted under this part will not be made public, except with written authorization of the person responsible for the operation of such project;
 
 &emsp;&emsp;(C) they will establish policies and practices that are consistent with, and do not restrict the exercise of rights provided by, part B of subchapter VI \[42 U.S.C. 11431 et seq.\], and other laws relating to the provision of educational and related services to individuals and families experiencing homelessness;
 

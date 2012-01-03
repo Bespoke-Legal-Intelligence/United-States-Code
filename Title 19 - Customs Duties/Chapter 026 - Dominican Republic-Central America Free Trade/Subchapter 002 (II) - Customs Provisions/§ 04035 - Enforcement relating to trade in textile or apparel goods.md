@@ -52,7 +52,7 @@ Appropriate action under subsection (c) includes—
 
 &emsp;&emsp;(A) any textile or apparel good exported or produced by the person that is the subject of a verification under subsection (a)(1) regarding compliance described in subsection (a)(2)(A), if the Secretary determines there is insufficient information to support, or that the person has provided incorrect information to support, any claim for preferential tariff treatment that has been made with respect to any such good; or
 
-&emsp;&emsp;(B) the textile or apparel good for which a claim of preferential tariff treatment has been made that is the subject of a verification under subsection (a)(1) regarding a claim described in subsection (a)(2)(B), if the Secretary determines there is insufficientinformation to support, or that a person has provided incorrect information to support, that claim; and
+&emsp;&emsp;(B) the textile or apparel good for which a claim of preferential tariff treatment has been made that is the subject of a verification under subsection (a)(1) regarding a claim described in subsection (a)(2)(B), if the Secretary determines there is insufficient information to support, or that a person has provided incorrect information to support, that claim; and
 
 &emsp;(2) denial of entry into the United States of any textile or apparel good exported or produced by the person that is the subject of a verification under subsection (a)(1) regarding compliance described in subsection (a)(2)(A) or a claim described in subsection (a)(2)(B), if the Secretary determines there is insufficient information to determine, or that the person has provided incorrect information as to, the country of origin of any such good.
 

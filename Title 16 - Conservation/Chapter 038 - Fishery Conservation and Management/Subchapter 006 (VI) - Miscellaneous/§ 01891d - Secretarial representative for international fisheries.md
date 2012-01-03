@@ -2,11 +2,11 @@
 
 #### (a) In general
 
-The Secretary, in consultation with the Under Secretary of Commerce for Oceans and Atmosphere, shall designate a Senate-confirmed, senior official within the National Oceanic and Atmospheric Administration to perform the duties of the Secretary with respect to international agreements involving fisheries and other livingmarine resources, including policy development and representation as a U.S. Commissioner, under any such international agreements.
+The Secretary, in consultation with the Under Secretary of Commerce for Oceans and Atmosphere, shall designate a Senate-confirmed, senior official within the National Oceanic and Atmospheric Administration to perform the duties of the Secretary with respect to international agreements involving fisheries and other living marine resources, including policy development and representation as a U.S. Commissioner, under any such international agreements.
 
 #### (b) Advice
 
-The designated official shall, in consultation with the Deputy Assistant Secretary for International Affairs and the Administrator of the National Marine Fisheries Service, advise the Secretary, Undersecretary of Commerce for Oceans and Atmosphere, and other senior officials of the Department of Commerce and the National Oceanic and Atmospheric Administration on development of policy on international fisheries conservation and management matters.
+The designated official shall, in consultation with the Deputy Assistant Secretary for International Affairs and the Administrator of the National Marine Fisheries Service, advise theSecretary, Undersecretary of Commerce for Oceans and Atmosphere, and other senior officials of the Department of Commerce and the National Oceanic and Atmospheric Administration on development of policy on international fisheries conservation and management matters.
 
 #### (c) Consultation
 

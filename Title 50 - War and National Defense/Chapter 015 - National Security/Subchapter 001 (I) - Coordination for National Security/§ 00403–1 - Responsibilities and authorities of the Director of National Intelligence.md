@@ -48,7 +48,7 @@ Unless otherwise directed by the President, the Director of National Intelligenc
 
 (7)(A) The Director of National Intelligence shall provide a semi-annual report, beginning April 1, 2005, and ending April 1, 2007, to the President and the Congress regarding implementation of this section.
 
-(B) The Director of National Intelligence shall report to the President and the Congress not later than 15 days after learning of any instance in which a departmental comptroller acts in a manner inconsistent with the law (including permanent statutes, authorization Acts, and appropriations Acts), or the direction of the Director of National Intelligence, in carrying out the National Intelligence Program.
+(B) The Director of National Intelligence shall report to the President and the Congress not later than 15 days after learning of any instancein which a departmental comptroller acts in a manner inconsistent with the law (including permanent statutes, authorization Acts, and appropriations Acts), or the direction of the Director of National Intelligence, in carrying out the National Intelligence Program.
 
 #### (d) Role of Director of National Intelligence in transfer and reprogramming of funds
 
@@ -138,7 +138,7 @@ Unless otherwise directed by the President, the Director of National Intelligenc
 
 (C) Paragraph (2)(B) shall not apply with respect to a transfer of personnel made under subparagraph (B).
 
-(D) The Director of National Intelligence shall submit to the congressional intelligence committees an annual report on the use of authorities under this paragraph. Each such report shall include a description of—
+(D) For each of the fiscal years 2010, 2011, and 2012, the Director of National Intelligence shall submit to the congressional intelligence committees an annual report on the use of authorities under this paragraph. Each such report shall include a description of—
 
 &emsp;(i) the number of transfers of personnel made by the Director pursuant to subparagraph (B), disaggregated by each element of the intelligence community;
 
@@ -186,7 +186,7 @@ Unless otherwise directed by the President, the Director of National Intelligenc
 
 &emsp;(iii) encourage and facilitate the recruitment and retention by the intelligence community of highly qualified individuals for the effective conduct of intelligence activities;
 
-&emsp;(iv) ensure that the personnel of the intelligence community are sufficiently diverse forpurposes of the collection and analysis of intelligence through the recruitment and training of women, minorities, and individuals with diverse ethnic, cultural, and linguistic backgrounds;
+&emsp;(iv) ensure that the personnel of the intelligence community are sufficiently diverse for purposes of the collection and analysis of intelligence through the recruitment and training of women, minorities, and individuals with diverse ethnic, cultural, and linguistic backgrounds;
 
 &emsp;(v) make service in more than one element of the intelligence community a condition of promotion to such positions within the intelligence community as the Director shall specify; and
 
@@ -302,7 +302,7 @@ Under the direction of the President and in a manner consistent with section 392
 
 &emsp;(iv) in other positions in support of the intelligence community management functions of the Director.
 
-(B) Incentives under subparagraph (A) may include financial incentives, bonuses, and such other awards and incentives as the Director considers appropriate.
+(B) Incentives under subparagraph (A) may include financial incentives, bonuses, and suchother awards and incentives as the Director considers appropriate.
 
 (2)(A) Notwithstanding any other provision of law, the personnel of an element of the intelligence community who are assigned or detailed under paragraph (1)(A) to service under the Director of National Intelligence shall be promoted at rates equivalent to or better than personnel of such element who are not so assigned or detailed.
 
@@ -312,7 +312,7 @@ Under the direction of the President and in a manner consistent with section 392
 
 (B) The mechanisms prescribed under subparagraph (A) may include the following:
 
-&emsp;(i) The establishment of special occupational categories involving service, over the course ofa career, in more than one element of the intelligence community.
+&emsp;(i) The establishment of special occupational categories involving service, over the course of a career, in more than one element of the intelligence community.
 
 &emsp;(ii) The provision of rewards for service in positions undertaking analysis and planning of operations involving two or more elements of the intelligence community.
 
@@ -346,7 +346,7 @@ Under the direction of the President and in a manner consistent with section 392
 
 (C) The limitations and conditions set forth in section 3(d) of the Central Intelligence Agency Act of 1949 (50 U.S.C. 403c(d)) shall apply to the exercise by the Director of National Intelligence of an authority referred to in paragraph (1).
 
-(D) Each determination or decision required by an authority referred to in the second sentence of section 3(d) of the Central Intelligence Agency Act of 1949 \[50 U.S.C. 403c(d)\] shall be based upon written findings made by the official making such determination or decision, which findings shall be final and shall be available within the Office of the Director of National Intelligence for a period of at least six years following the date of such determination or decision.
+(D) Each determination or decision required by an authority referred to in the second sentence of section 3(d) of the Central Intelligence Agency Act of 1949 \[50 U.S.C. 403c(d)\] shall be based upon written findings made by the official making such determination or decision, which findings shall be final and shall be availablewithin the Office of the Director of National Intelligence for a period of at least six years following the date of such determination or decision.
 
 (4)(A) In addition to the authority referred to in paragraph (1), the Director of National Intelligence may authorize the head of an element of the intelligence community to exercise an acquisition authority referred to in section 3 or 8(a) of the Central Intelligence Agency Act of 1949 (50 U.S.C. 403c and 403j(a)) for an acquisition by such element that is more than 50 percent funded under the National Intelligence Program.
 
@@ -464,13 +464,29 @@ The Director of National Intelligence shall, in consultation with the heads of d
 
 (2) The Director of National Intelligence shall annually submit to the congressional intelligence committees a report describing all outside employment for officers and employees of elements of the intelligence community that was authorized by the head of an element of the intelligence community during the preceding calendar year. Such report shall be submitted each year on the date provided in section 415b of this title.
 
-(July 26, 1947, ch. 343, title I, §102A, as added Pub. L. 108–458, title I, §1011(a), Dec. 17, 2004, 118 Stat. 3644; amended Pub. L. 111–258, §5(a), Oct. 7, 2010, 124 Stat. 2650; Pub. L. 111–259, title III, §§303, 304, 306, 307, 326, title IV, §§401, 402(a), title VIII, §804(2), Oct. 7, 2010, 124 Stat. 2658, 2659, 2661, 2662, 2683, 2708, 2747.)
+#### (v) Authority to establish positions in excepted service
+
+(1) The Director of National Intelligence, with the concurrence of the head of the covered department concerned and in consultation with the Director of the Office of Personnel Management, may—
+
+&emsp;(A) convert competitive service positions, and the incumbents of such positions, within an element of the intelligence community in such department, to excepted service positions as the Director of National Intelligence determines necessary to carry out the intelligence functions of such element; and
+
+&emsp;(B) establish new positions in the excepted service within an element of the intelligence community in such department, if the Director of National Intelligence determines such positions are necessary to carry out the intelligence functions of such element.
+
+(2) An incumbent occupying a position on January 3, 2012, selected to be converted to the excepted service under this section shall have the right to refuse such conversion. Once such individual no longer occupies the position, the position may be converted to the excepted service.
+
+(3) In this subsection, the term “covered department” means the Department of Energy, the Department of Homeland Security, the Department of State, or the Department of the Treasury.
+
+#### (w) Nuclear Proliferation Assessment Statements intelligence community addendum
+
+The Director of National Intelligence, in consultation with the heads of the appropriate elements of the intelligence community and the Secretary of State, shall provide to the President, the congressional intelligence committees, the Committee on Foreign Affairs of the House of Representatives, and the Committee on Foreign Relations of the Senate an addendum to each Nuclear Proliferation Assessment Statement accompanying a civilian nuclear cooperation agreement, containing a comprehensive analysis of the country's export control system with respect to nuclear-related matters, including interactions with other countries of proliferation concern and the actual or suspected nuclear, dual-use, or missile-related transfers to such countries.
+
+(July 26, 1947, ch. 343, title I, §102A, as added Pub. L. 108–458, title I, §1011(a), Dec. 17, 2004, 118 Stat. 3644; amended Pub. L. 111–258, §5(a), Oct. 7, 2010, 124 Stat. 2650; Pub. L. 111–259, title III, §§303, 304, 306, 307, 326, title IV, §§401, 402(a), title VIII, §804(2), Oct. 7, 2010, 124 Stat. 2658, 2659, 2661, 2662, 2683, 2708, 2747; Pub. L. 112–87, title III, §§304, 305, 311(d), Jan. 3, 2012, 125 Stat. 1880, 1881, 1886.)
 
 #### References in Text
 
 The Congressional Budget and Impoundment Control Act of 1974, referred to in subsec. (c)(6), is Pub. L. 93–344, July 12, 1974, 88 Stat. 297. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2, The Congress, and Tables.
 
-The Foreign Intelligence Surveillance Act of 1978, referred to in subsec. (f)(6), (9), is Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally tochapter 36 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Foreign Intelligence Surveillance Act of 1978, referred to in subsec. (f)(6), (9), is Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to chapter 36 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 This subchapter, referred to in subsec. (f)(9), was in the original “this title”, meaning title I of act July 26, 1947, ch. 343, 61 Stat. 496, which is classified generally to this subchapter. For complete classification of title I to the Code, see Tables.
 
@@ -491,6 +507,12 @@ A prior section 403–1, act July 26, 1947, ch. 343, title I, §102A, as added P
 Another prior section 403–1, act July 26, 1947, ch. 343, title I, §102a, as added Dec. 9, 1983, Pub. L. 98–215, title IV, §403, 97 Stat. 1477, related to appointment of Director of the Intelligence Community Staff prior to repeal by Pub. L. 102–496, title VII, §705(a)(1), Oct. 24, 1992, 106 Stat. 3190.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (e)(3)(D). Pub. L. 112–87, §311(d), substituted “For each of the fiscal years 2010, 2011, and 2012, the” for “The” in introductory provisions.
+
+Subsec. (v). Pub. L. 112–87, §304, added subsec. (v).
+
+Subsec. (w). Pub. L. 112–87, §305, added subsec. (w).
 
 <b>2010</b>—Subsec. (c)(3)(A). Pub. L. 111–259, §804(2)(A), substituted “annual budget for the Military Intelligence Program or any successor program or programs” for “annual budgets for the Joint Military Intelligence Program and for Tactical Intelligence and Related Activities”.
 
@@ -524,6 +546,28 @@ For Determination by President that section take effect on Apr. 21, 2005, see Me
 
 Section effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 
+#### Insider Threat Detection Program
+
+Pub. L. 112–18, title IV, §402, June 8, 2011, 125 Stat. 227, provided that:
+
+“(a)
+
+Initial Operating Capability.—Not later than October 1, 2012, the Director of National Intelligence shall establish an initial operating capability for an effective automated insider threat detection program for the information resources in each element of the intelligence community in order to detect unauthorized access to, or use or transmission of, classified intelligence.
+
+“(b)
+
+Full Operating Capability.—Not later than October 1, 2013, the Director of National Intelligence shall ensure the program described in subsection (a) has reached full operating capability.
+
+“(c)
+
+Report.—Not later than December 1, 2011, the Director of National Intelligence shall submit to the congressional intelligence committees a report on the resources required to implement the insider threat detection program referred to in subsection (a) and any other issues related to such implementation the Director considers appropriate to include in the report.
+
+“(d)
+
+Information Resources Defined.—In this section, the term ‘information resources’ means networks, systems, workstations, servers, routers, applications, databases, websites, online collaboration environments, and any other information resources in an element of the intelligence community designated by the Director of National Intelligence.”
+
+\[For definitions of “intelligence community” and “congressional intelligence committees” as used in section 402 of Pub. L. 112–18, set out above, see section 2 of Pub. L. 112–18, set out below.\]
+
 #### Authorities of Heads of Other Departments and Agencies
 
 Pub. L. 111–259, title IV, §402(b), Oct. 7, 2010, 124 Stat. 2709, provided that: “Notwithstanding any other provision of law, the head of any department or agency of the United States is authorized to receive and utilize funds made available to the department or agency by the Director of National Intelligence pursuant to section 102A(d)(2) of the National Security Act of 1947 (50 U.S.C. 403–1(d)(2)), as amended by subsection (a), and receive and utilize any system referred to in such section that is made available to such department or agency.”
@@ -546,7 +590,7 @@ Development of Procedures.—The Director of National Intelligence, in consultat
 
 “(b)
 
-Implementation Report.—Not later than 180 days after the date of the enactment of the Act \[Dec. 17, 2004\], the Director of National Intelligence shall submit to the congressional defense committees (as defined in section 101 of title 10, United States Code) and the congressional intelligence committees (as definedin section 3(7) of the National Security Act of 1947 (50 U.S.C. 401a(7))) a report describing the procedures established pursuant to subsection (a) and the status of the implementation of those procedures.”
+Implementation Report.—Not later than 180 days after the date of the enactment of the Act \[Dec. 17, 2004\], the Director of National Intelligence shall submit to the congressional defense committees (as defined in section 101 of title 10, United States Code) and the congressional intelligence committees (as defined in section 3(7) of the National Security Act of 1947 (50 U.S.C. 401a(7))) a report describing the procedures established pursuant to subsection (a) and the status of the implementation of those procedures.”
 
 #### Alternative Analysis of Intelligence by the Intelligence Community
 
@@ -652,7 +696,7 @@ Appropriate Committees of Congress Defined.—In this section, the term ‘appro
 
 &emsp;“(1) the Select Committee on Intelligence, the Committee on Armed Services, and the Committee on Appropriations of the Senate; and
 
-&emsp;“(2) the Permanent Select Committee on Intelligence, the Committee on Armed Services, and theCommittee on Appropriations of the House of Representatives.”
+&emsp;“(2) the Permanent Select Committee on Intelligence, the Committee on Armed Services, and the Committee on Appropriations of the House of Representatives.”
 
 #### Standardized Transliteration of Names Into the Roman Alphabet
 
@@ -680,7 +724,7 @@ Survey of Current Standards.—
 
 &emsp;“(1)
 
-Survey.—The Director of Central Intelligence shall carry out a survey of current standards for the spelling of foreign names and places, and the use of geographic coordinates for such places, among the elements of the intelligence community.
+Survey.—The Director of Central Intelligence shall carry out a survey of current standards for thespelling of foreign names and places, and the use of geographic coordinates for such places, among the elements of the intelligence community.
 
 &emsp;“(2)
 
@@ -729,4 +773,20 @@ Pub. L. 104–293, title VIII, §807(d), Oct. 11, 1996, 110 Stat. 3481, provided
 Pub. L. 103–359, title VI, §603, Oct. 14, 1994, 108 Stat. 3433, provided that: “The Director of Central Intelligence shall include the same level of budgetary detail for the Base Budget that is provided for Ongoing Initiatives and New Initiatives to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate in the congressional justification materials for the annual submission of the National Foreign Intelligence Program of each fiscal year.”
 
 \[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of this title.\]
+
+#### Definitions
+
+Pub. L. 112–18, §2, June 8, 2011, 125 Stat. 224, provided that: “In this Act \[see Tables for classification\]:
+
+&emsp;“(1)
+
+Congressional intelligence committees.—The term ‘congressional intelligence committees’ means—
+
+&emsp;&emsp;“(A) the Select Committee on Intelligence of the Senate; and
+
+&emsp;&emsp;“(B) the Permanent Select Committee on Intelligence of the House of Representatives.
+
+&emsp;“(2)
+
+Intelligence community.—The term ‘intelligence community’ has the meaning given that term in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4)).”
 

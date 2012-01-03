@@ -22,5 +22,5 @@ Pub. L. 111–358, §406(b), inserted at end “In evaluating applications for f
 
 #### Effective Date
 
-Section 8(b) of Pub. L. 99–574 provided that: “The amendments made by subsection (a) \[enacting this section\] shall be effective October 1, 1987.
+Pub. L. 99–574, §8(b), Oct. 28, 1986, 100 Stat. 3238, provided that: “The amendments made by subsection (a) \[enacting this section\] shall be effective October 1, 1987.
 

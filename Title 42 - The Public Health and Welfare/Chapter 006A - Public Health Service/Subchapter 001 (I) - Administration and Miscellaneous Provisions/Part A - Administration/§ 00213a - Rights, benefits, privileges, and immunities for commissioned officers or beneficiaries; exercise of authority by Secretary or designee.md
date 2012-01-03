@@ -74,7 +74,7 @@ Section was formerly classified to section 316 of title 37 prior to the general 
 
 <b>1959</b>—Subsec. (a). Pub. L. 86–160 added cl. (1) and renumbered former cls. (1) to (7) as (2) to (8).
 
-<b>1958</b>—Subsec. (a). Pub. L. 85–861 substituted “provisions” for “chapters” in opening clause, struck out former cl. (1) which related to chapter 55 of title 10, renumbered former cls. (2) to (6) as (1) to (5), amended cl. (1), as renumbered, to make sections 1201 to 1203 of title 10, inapplicable to commissioned officers of the PublicHealth Service who have been ordered to active duty for training for a period of more than 30 days, inserted a reference to section 1374 of title 10 in cl. (2), as renumbered, struck out “Care of the Dead” after “Benefits” in cl. (5), as renumbered, and added cl. (6).
+<b>1958</b>—Subsec. (a). Pub. L. 85–861 substituted “provisions” for “chapters” in opening clause, struck out former cl. (1) which related to chapter 55 of title 10, renumbered former cls. (2) to (6) as (1) to (5), amended cl. (1), as renumbered, to make sections 1201 to 1203 of title 10, inapplicable to commissioned officers of the Public Health Service who have been ordered to active duty for training for a period of more than 30 days, inserted a reference to section 1374 of title 10 in cl. (2), as renumbered, struck out “Care of the Dead” after “Benefits” in cl. (5), as renumbered, and added cl. (6).
 
 #### Effective Date of 1997 Amendment
 

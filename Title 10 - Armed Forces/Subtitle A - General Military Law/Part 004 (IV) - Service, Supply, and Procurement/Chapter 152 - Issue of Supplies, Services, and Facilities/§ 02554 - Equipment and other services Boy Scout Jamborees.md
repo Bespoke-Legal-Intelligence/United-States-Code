@@ -6,7 +6,7 @@
 
 (c) The Secretary of Defense, before delivering such property, shall take from the Boy Scouts of America, good and sufficient bond for the safe return of such property in good order and condition, and the whole without expense to the United States.
 
-(d) The Secretary of Defense is hereby authorized under such regulations as he may prescribe, to provide, without expense to the United States Government, transportation from the United States or military commands overseas, and return, on vessels of the Military Sealift Command or aircraft of the Air Mobility Command for (1) those Boy Scouts, Scouters, and officials certified by the Boy Scouts of America, as representing the Boy Scouts of America at any national or world Boy Scout Jamboree, and (2) the equipment and property of such Boy Scouts, Scouters, and officials and the property loaned to the Boy Scouts of America, by the Secretary of Defense pursuant to this section to the extent that such transportation will not interfere with the requirements of military operations.
+(d) The Secretary of Defense is hereby authorized under such regulations as he may prescribe, to provide, without expense to the United States Government, transportation from the United States or military commands overseas, and return, on vessels of the Military Sealift Command or aircraft of the Air Mobility Command for (1) those Boy Scouts, Scouters, and officialscertified by the Boy Scouts of America, as representing the Boy Scouts of America at any national or world Boy Scout Jamboree, and (2) the equipment and property of such Boy Scouts, Scouters, and officials and the property loaned to the Boy Scouts of America, by the Secretary of Defense pursuant to this section to the extent that such transportation will not interfere with the requirements of military operations.
 
 (e) Before furnishing any transportation under subsection (d), the Secretary of Defense shall take from the Boy Scouts of America, a good and sufficient bond for the reimbursement to the United States by the Boy Scouts of America, of the actual costs of transportation furnished under this section.
 
@@ -16,7 +16,7 @@
 
 (h) Other departments of the Federal Government are authorized, under such regulations as may be prescribed by the Secretary thereof, to provide to the Boy Scouts of America, equipment and other services, under the same conditions and restrictions prescribed in the preceding subsections for the Secretary of Defense.
 
-(i)(1) The Secretary of Defense shall provide at least the same level of support under this section for a national or world Boy Scout Jamboreeas was provided under this section for the preceding national or world Boy Scout Jamboree.
+(i)(1) The Secretary of Defense shall provide at least the same level of support under this section for a national or world Boy Scout Jamboree as was provided under this section for the preceding national or world Boy Scout Jamboree.
 
 (2) The Secretary of Defense may waive paragraph (1), if the Secretary—
 

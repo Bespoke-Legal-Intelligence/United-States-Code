@@ -32,15 +32,19 @@ A person described in subsection (a) of this section who has been convicted of a
 
 #### (c) Acceptance
 
-To apply for acceptance as a resident of a facility of the Retirement Home, a person eligible to be a resident shall submit to the Director of that facility an application in such form and containing such information as the Chief Operating Officer may require.
+To apply for acceptance as a resident of a facility of the Retirement Home, a person eligible to be a resident shall submit to the Administrator of that facility an application in such form and containing such information as the Chief Operating Officer may require.
 
 #### (d) Priorities for acceptance
 
 The Chief Operating Officer shall establish a system of priorities for the acceptance of residents so that the most deserving applicants will be accepted whenever the number of eligible applicants is greater than the Retirement Home can accommodate.
 
-(Pub. L. 101–510, div. A, title XV, §1512, Nov. 5, 1990, 104 Stat. 1724; Pub. L. 107–107, div. A, title XIV, §§1404(b)(1)(A), 1405(a), 1410(b)(1), Dec. 28, 2001, 115 Stat. 1260, 1261, 1266.)
+(Pub. L. 101–510, div. A, title XV, §1512, Nov. 5, 1990, 104 Stat. 1724; Pub. L. 107–107, div. A, title XIV, §§1404(b)(1)(A), 1405(a), 1410(b)(1), Dec. 28, 2001, 115 Stat. 1260, 1261, 1266; Pub. L. 112–81, div. A, title V, §§564(b)(1), 567(c)(6), Dec. 31, 2011, 125 Stat. 1424, 1426.)
 
 #### Amendments
+
+<b>2011</b>—Pub. L. 112–81, §567(c)(6), made technical amendment to section catchline.
+
+Subsec. (c). Pub. L. 112–81, §564(b)(1), substituted “Administrator” for “Director”.
 
 <b>2001</b>—Subsecs. (a), (c), (d). Pub. L. 107–107, §1404(b)(1)(A), substituted “Chief Operating Officer” for “Retirement Home Board” wherever appearing.
 

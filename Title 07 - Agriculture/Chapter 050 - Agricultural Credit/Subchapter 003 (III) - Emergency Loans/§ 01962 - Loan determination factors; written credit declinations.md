@@ -2,17 +2,17 @@
 
 (a) For the purpose of determining whether to make or insure any loan under this subchapter, the Secretary shall take into consideration the net worth of the applicant involved, including all the assets and liabilities of the applicant.
 
-(b) For the purpose of determining whether an applicant under this subchapter is not able to obtain sufficient credit elsewhere, the Secretary shall require at least one written indication of declination of credit, from a legally organized lending institution within reasonable proximity to the applicant, that specifies the reasons for the declination: <i>Provided</i>, That for loans in excess of $300,000, the Secretary shall require at least two such written declinations: <i>Provided further</i>, That for loans of $100,000 or less, the Secretary may waive the requirement of this subsection if the Secretary determines that it would impose an undue burden on the applicant.
+(b) For the purpose of determining whether an applicant under this subchapter is not able to obtain sufficient credit elsewhere, the Secretary shall require at least one written indication of declination of credit, from a legally organizedlending institution within reasonable proximity to the applicant, that specifies the reasons for the declination: <i>Provided</i>, That for loans in excess of $300,000, the Secretary shall require at least two such written declinations: <i>Provided further</i>, That for loans of $100,000 or less, the Secretary may waive the requirement of this subsection if the Secretary determines that it would impose an undue burden on the applicant.
 
 (Pub. L. 87–128, title III, §322, Aug. 8, 1961, 75 Stat. 311; Pub. L. 94–68, §4, Aug. 5, 1975, 89 Stat. 381; Pub. L. 96–438, §3(b)(1), Oct. 13, 1980, 94 Stat. 1873; Pub. L. 104–127, title VI, §622, Apr. 4, 1996, 110 Stat. 1091.)
 
 #### Amendments
 
-1996—Subsec. (b). Pub. L. 104–127 substituted “loans of $100,000 or less” for “loans of $300,000 or less”.
+<b>1996</b>—Subsec. (b). Pub. L. 104–127 substituted “loans of $100,000 or less” for “loans of $300,000 or less”.
 
-1980—Pub. L. 96–438 substituted provisions prescribing factors to be considered in determining whether to make or insure a loan and relating to the need for applicants unable to obtain sufficient credit elsewhere to provide written credit declinations for provisions relating to the purpose and extent of loans under this subchapter.
+<b>1980</b>—Pub. L. 96–438 substituted provisions prescribing factors to be considered in determining whether to make or insure a loan and relating to the need for applicants unable to obtain sufficient credit elsewhere to provide written credit declinations for provisions relating to the purpose and extent of loans under this subchapter.
 
-1975—Pub. L. 94–68 extended authority to finance crop or livestock changes deemed desirable as a result of changes in market demand, and to make emergency loans in excess of the actual loss sustained as a result of the natural disaster.
+<b>1975</b>—Pub. L. 94–68 extended authority to finance crop or livestock changes deemed desirable as a result of changes in market demand, and to make emergency loans in excess of the actual loss sustained as a result of the natural disaster.
 
 #### Effective Date of 1996 Amendment
 

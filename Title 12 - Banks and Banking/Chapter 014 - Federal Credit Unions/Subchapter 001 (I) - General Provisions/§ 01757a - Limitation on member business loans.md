@@ -78,7 +78,7 @@ Study.—The Secretary \[of the Treasury\] shall conduct a study of member busin
 
 &emsp;“(D) the extent to which member business lending by insured credit unions helps to meet financial services needs of low- and moderate-income individuals within the field of membership of insured credit unions;
 
-&emsp;“(E) whether insured credit unions that engage in member business lending have a competitive advantage over other insured depository institutions, and if any such advantage could affect the viability and profitability of such other insured depository institutions; and
+&emsp;“(E) whether insured credit unions that engage in member business lending have a competitive advantage over other insured depository institutions, and ifany such advantage could affect the viability and profitability of such other insured depository institutions; and
 
 &emsp;“(F) the effect of enactment of this Act \[see Short Title of 1998 Amendment note set out under section 1751 of this title\] on the number of insured credit unions involved in member business lending and the overall amount of commercial lending.
 

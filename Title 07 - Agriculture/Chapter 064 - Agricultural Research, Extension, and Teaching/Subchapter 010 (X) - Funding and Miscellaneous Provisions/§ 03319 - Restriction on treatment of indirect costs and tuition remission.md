@@ -10,13 +10,13 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Pub. L. 110–246, §7406(d)(1), struck out “and subsection (d)” before “of section 450i”.
+<b>2008</b>—Pub. L. 110–246, §7406(d)(1), struck out “and subsection (d)” before “of section 450i”.
 
 Pub. L. 110–246, §7101(b)(4), substituted “section 3103(18)” for “section 3103(16)”.
 
-1991—Pub. L. 102–237 substituted “subsection (c)(1)(B)” for “subsection (c)(2)”.
+<b>1991</b>—Pub. L. 102–237 substituted “subsection (c)(1)(B)” for “subsection (c)(2)”.
 
-1985—Pub. L. 99–198 inserted provisions making prohibition on use of funds for reimbursement of indirect costs inapplicable to funds for international agricultural programs but required the Secretary to limit the reimbursement to amounts necessary to carry out the programs.
+<b>1985</b>—Pub. L. 99–198 inserted provisions making prohibition on use of funds for reimbursement of indirect costs inapplicable to funds for international agricultural programs but required the Secretary to limit the reimbursement to amounts necessary to carry out the programs.
 
 #### Effective Date of 2008 Amendment
 

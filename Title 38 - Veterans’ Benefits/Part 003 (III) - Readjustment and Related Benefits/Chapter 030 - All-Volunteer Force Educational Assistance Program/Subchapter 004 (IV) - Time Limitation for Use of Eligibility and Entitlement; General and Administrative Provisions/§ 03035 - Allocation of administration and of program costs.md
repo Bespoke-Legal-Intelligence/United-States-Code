@@ -2,7 +2,7 @@
 
 (a) Except to the extent otherwise specifically provided in this chapter, the educational assistance programs established by this chapter shall be administered by the Department of Veterans Affairs.
 
-(b)(1) Except to the extent provided in paragraphs (2), (3), and (4), payments for entitlement earned under subchapter II of this chapter shall be made from funds appropriated to, or otherwise available to, the Department of Veterans Affairs for the payment of readjustment benefits and from transfers from the Post-Vietnam Era Veterans Education Account pursuant to section 3232(b)(2)(B) of this title.
+(b)(1) Except to the extent provided in paragraphs (2), (3), and (4), payments for entitlement earned under subchapter II of this chapter shall be made from funds appropriated to, or otherwise available to, the Department of VeteransAffairs for the payment of readjustment benefits and from transfers from the Post-Vietnam Era Veterans Education Account pursuant to section 3232(b)(2)(B) of this title.
 
 (2) Payments for entitlement earned under subchapter II of this chapter that is established under section 3015(d) of this title at a rate in excess of the rate prescribed under subsection (a) or (b) of section 3015 of this title shall, to the extent of that excess, be made from the Department of Defense Education Benefits Fund established under section 2006 of title 10 or from appropriations made to the Department of Homeland Security, as appropriate.
 
@@ -66,7 +66,7 @@ Subsec. (e). Pub. L. 102–83, §5(c)(1), substituted “3019” for “1419” 
 
 Subsec. (b)(3). Pub. L. 101–510, §561(b)(3)(B), added par. (3).
 
-<b>1989</b>—Subsecs. (a), (b)(1), (d), (e)(1), (2)(A). Pub. L. 101–237 substituted “Secretary” and “Department of Veterans Affairs” for “Administrator” and “Veterans’ Administration”, respectively, wherever appearing.
+<b>1989</b>—Subsecs. (a), (b)(1), (d), (e)(1), (2)(A). Pub. L. 101–237 substituted “Secretary” and “Department ofVeterans Affairs” for “Administrator” and “Veterans’ Administration”, respectively, wherever appearing.
 
 <b>1988</b>—Subsec. (e). Pub. L. 100–689 added subsec. (e).
 

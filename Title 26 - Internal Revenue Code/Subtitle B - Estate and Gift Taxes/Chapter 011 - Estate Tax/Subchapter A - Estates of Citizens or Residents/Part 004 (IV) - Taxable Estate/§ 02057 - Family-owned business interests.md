@@ -182,7 +182,7 @@ For purposes of this section, the adjusted value of any qualified family-owned b
 
 &emsp;&emsp;The amount of the additional estate tax imposed by paragraph (1) shall be equal to—
 
-&emsp;&emsp;&emsp;(i) the applicable percentage of the adjusted tax difference attributable to the qualified family-owned business interest, plus
+&emsp;&emsp;&emsp;(i) the applicable percentage of the adjusted tax difference attributable to thequalified family-owned business interest, plus
 
 &emsp;&emsp;&emsp;(ii) interest on the amount determined under clause (i) at the underpayment rate established under section 6621 for the period beginning on the date the estate tax liability was due under this chapter and ending on the date such additional estate tax is due.
 

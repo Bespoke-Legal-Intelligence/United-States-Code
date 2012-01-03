@@ -74,7 +74,7 @@
 
 &emsp;(C) The amount determined under this subparagraph is the sum of the respective amounts determined for the States under subparagraph (B) (including the District of Columbia).
 
-&emsp;(D)(i) In the case of the District of Columbia, for purposes of paragraph (4), the term “R%” means the percentage constituted by the ratioof the amount determined under clause (ii) for such District to the amount determined under clause (iii).
+&emsp;(D)(i) In the case of the District of Columbia, for purposes of paragraph (4), the term “R%” means the percentage constituted by the ratio of the amount determined under clause (ii) for such District to the amount determined under clause (iii).
 
 &emsp;(ii) The amount determined under this clause for the District of Columbia is the quotient of—
 

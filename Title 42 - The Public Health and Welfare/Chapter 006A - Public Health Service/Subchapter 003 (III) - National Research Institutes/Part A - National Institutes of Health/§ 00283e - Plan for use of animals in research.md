@@ -40,11 +40,15 @@ The Director of NIH shall take such actions as may be appropriate to convey to s
 
 (3) The Committee shall be composed of—
 
-&emsp;(A) the Directors of each of the national research institutes and the Director of the Center for Research Resources (or the designees of such Directors); and
+&emsp;(A) the Directors of each of the national research institutes (or the designees of such Directors); and
 
 &emsp;(B) representatives of the Environmental Protection Agency, the Food and Drug Administration, the Consumer Product Safety Commission, the National Science Foundation, and such additional agencies as the Director of NIH determines to be appropriate, which representatives shall include not less than one veterinarian with expertise in laboratory-animal medicine.
 
-(July 1, 1944, ch. 373, title IV, §404C, as added Pub. L. 103–43, title II, §205(a), June 10, 1993, 107 Stat. 146.)
+(July 1, 1944, ch. 373, title IV, §404C, as added Pub. L. 103–43, title II, §205(a), June 10, 1993, 107 Stat. 146; amended Pub. L. 112–74, div. F, title II, §221(d)(2), Dec. 23, 2011, 125 Stat. 1090.)
+
+#### Amendments
+
+<b>2011</b>—Subsec. (e)(3)(A). Pub. L. 112–74 struck out “and the Director of the Center for Research Resources” after “institutes”.
 
 #### Change of Name
 

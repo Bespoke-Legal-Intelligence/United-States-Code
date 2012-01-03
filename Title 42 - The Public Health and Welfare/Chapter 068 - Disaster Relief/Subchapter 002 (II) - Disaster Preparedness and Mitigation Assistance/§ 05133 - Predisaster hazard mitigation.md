@@ -2,7 +2,7 @@
 
 #### (a) Definition of small impoverished community
 
-In this section, the term “small impoverished community” means a community of 3,000 or fewer individuals that is economically disadvantaged, as determined by the State in which thecommunity is located and based on criteria established by the President.
+In this section, the term “small impoverished community” means a community of 3,000 or fewer individuals that is economically disadvantaged, as determined by the State in which the community is located and based on criteria established by the President.
 
 #### (b) Establishment of program
 
@@ -48,7 +48,7 @@ If the President determines that a State or local government has identified natu
 
 &emsp;Technical and financial assistance provided under this section—
 
-&emsp;&emsp;(A) shall be used by States and local governments principally to implement predisaster hazard mitigation measures that are cost-effective and are described in proposals approved by the President under this section; and
+&emsp;&emsp;(A) shall be used by States and local governments principally to implement predisaster hazard mitigation measures thatare cost-effective and are described in proposals approved by the President under this section; and
 
 &emsp;&emsp;(B) may be used—
 
@@ -90,7 +90,7 @@ In determining whether to provide technical and financial assistance to a State 
 
 &emsp;(3) the degree of commitment by the State or local government to support ongoing non-Federal support for the hazard mitigation measures to be carried out using the technical and financial assistance;
 
-&emsp;(4) the extent to which the hazard mitigation measures to be carried out using the technical and financial assistance contribute tothe mitigation goals and priorities established by the State;
+&emsp;(4) the extent to which the hazard mitigation measures to be carried out using the technical and financial assistance contribute to the mitigation goals and priorities established by the State;
 
 &emsp;(5) the extent to which the technical and financial assistance is consistent with other assistance provided under this chapter;
 

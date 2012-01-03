@@ -46,7 +46,7 @@ In carrying out this section, the provisions of section <sup>1</sup> 5196(h) an
 
 #### (f) Allocation of funds
 
-For each fiscal year concerned, the Administrator shall allocate to each State, in accordance with regulations and the total sum appropriated under this subchapter, amounts to be made available to the States for the purposes ofthis section. Regulations governing allocations to the States under this subsection shall give due regard to (1) the criticality of the areas which may be affected by hazards with respect to the development of the total emergency preparedness readiness of the United States, (2) the relative state of development of emergency preparedness readiness of the State, (3) population, and (4) such other factors as the Administrator shall prescribe. The Administrator may reallocate the excess of any allocation not used by a State in a plan submitted under this section. Amounts paid to any State or political subdivision under this section shall be expended solely for the purposes set forth in this section.
+For each fiscal year concerned, the Administrator shall allocate to each State, in accordance with regulations and the total sum appropriated under this subchapter, amounts to be made available to the States for the purposes of this section. Regulations governing allocations to the States under this subsection shall give due regard to (1) the criticality of the areas which may be affected by hazards with respect to the development of the total emergency preparedness readiness of the United States, (2) the relative state of development of emergency preparedness readiness of the State, (3) population, and (4) such other factors as the Administrator shall prescribe. The Administrator may reallocate the excess of any allocation not used by a State in a plan submitted under this section. Amounts paid to any State or political subdivision under this section shall be expended solely for the purposes set forth in this section.
 
 #### (g) Standards for State and local emergency preparedness operational plans
 
@@ -76,7 +76,7 @@ Provisions similar to those in this section were contained in section 2286 of Ti
 
 <b>2006</b>—Subsec. (b)(3). Pub. L. 109–295, §631(1), inserted “including a catastrophic incident annex,” after “plans,”.
 
-Subsecs. (c) to (f). Pub. L. 109–295, §631(2), (3), added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively. Former subsec. (f) redesignated (g). See Codification note above.
+Subsecs. (c) to (f). Pub. L. 109–295, §631(2), (3), added subsec. (c) and redesignated former subsecs. (c) to (e) as\(d) to (f), respectively. Former subsec. (f) redesignated (g). See Codification note above.
 
 Subsec. (g). Pub. L. 109–308, §2(2), added subsec. (g). Former subsec. (g) relating to submission of plan redesignated (h).
 

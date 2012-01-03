@@ -2,7 +2,7 @@
 
 #### (a) Appointment
 
-The Comptroller of the Currency may, without prior notice or hearings, appoint a conservator (which may be the Federal Deposit Insurance Corporation) to the possession and control of a bank whenever the Comptroller of the Currency determines that 1 or more of the grounds specified in section 11(c)(5) of the Federal Deposit Insurance Act \[12 U.S.C. 1821(c)(5)\] exist.
+The Comptroller of the Currency may, without prior notice or hearings, appoint a conservator (which may be the Federal Deposit Insurance Corporation) to the possession and control of abank whenever the Comptroller of the Currency determines that 1 or more of the grounds specified in section 11(c)(5) of the Federal Deposit Insurance Act \[12 U.S.C. 1821(c)(5)\] exist.
 
 #### (b) Judicial review
 
@@ -52,9 +52,9 @@ Section 51d of this title was repealed by act June 30, 1947, ch. 166, title II, 
 
 #### Amendments
 
-1991—Subsec. (a). Pub. L. 102–242 amended subsec. (a) generally, substituting present provisions for provisions which specified circumstances under which Comptroller could appoint conservator.
+<b>1991</b>—Subsec. (a). Pub. L. 102–242 amended subsec. (a) generally, substituting present provisions for provisions which specified circumstances under which Comptroller could appoint conservator.
 
-1989—Pub. L. 101–73 amended section generally, changing structure of section from a single unlettered paragraph to one consisting of subsections (a) to (e).
+<b>1989</b>—Pub. L. 101–73 amended section generally, changing structure of section from a single unlettered paragraph to one consisting of subsections (a) to (e).
 
 #### Effective Date of 1991 Amendment
 

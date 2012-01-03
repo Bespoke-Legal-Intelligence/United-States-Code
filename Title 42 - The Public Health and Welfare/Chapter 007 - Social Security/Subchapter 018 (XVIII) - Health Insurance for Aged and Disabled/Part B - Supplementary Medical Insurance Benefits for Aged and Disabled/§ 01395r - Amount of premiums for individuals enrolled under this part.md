@@ -174,7 +174,7 @@ In estimating the benefits and administrative costs which will be payable from t
 
 &emsp;&emsp;&emsp;In the case of individuals with respect to whom the Secretary of the Treasury does not have adequate data in appropriate electronic form for either taxable year referred to in clause (i) or clause (ii), the Commissioner of Social Security, in consultation with the Secretary, shall prescribe regulations which provide for the treatment of the premium adjustment with respect to such individual under this subsection, including regulations which provide for—
 
-&emsp;&emsp;&emsp;&emsp;(I) the application of the highest applicable percentage under paragraph (3)(C) to such individual if the Commissioner has information which indicates that such individual's modified adjusted gross income might exceed the threshold amount for the taxable year referred to in clause (i), and
+&emsp;&emsp;&emsp;&emsp;(I) the application of the highest applicable percentage under paragraph (3)(C) to such individual if the Commissioner has information which indicates that such individual's modified adjusted gross income might exceed the thresholdamount for the taxable year referred to in clause (i), and
 
 &emsp;&emsp;&emsp;&emsp;(II) proper adjustments in the case of the application of an applicable percentage under subclause (I) to such individual which is inconsistent with such individual's modified adjusted gross income for such taxable year.
 
@@ -226,11 +226,9 @@ In estimating the benefits and administrative costs which will be payable from t
 
 #### References in Text
 
-The Railroad Retirement Act of 1974, referred to in subsec. (f), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
+The Railroad Retirement Act of 1974, referred to in subsec. (f), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Actto the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
 
 Section 1395w–29 of this title, referred to in subsec. (h), was repealed by Pub. L. 111–152, title I, §1102(f), Mar. 30, 2010, 124 Stat. 1046.
-
-Part C of this subchapter, referred to in subsec. (h)(1), is classified to section 1395w–21 et seq. of this title.
 
 The Internal Revenue Code of 1986, referred to in subsec. (i)(3)(C)(iii)(I), (4)(A), (7), is classified generally to Title 26, Internal Revenue Code.
 
@@ -272,7 +270,7 @@ Pub. L. 108–173, §625(a)(1), inserted at end “No increase in the premium sh
 
 Subsec. (f). Pub. L. 108–173, §811(b)(1)(C), substituted “if the monthly premium” for “and if the monthly premium” and inserted “and if the amount of the individual's premium is not adjusted for such January under subsection (i) of this section,” after “section 1395s(b)(1) of this title,”.
 
-Subsec. (g). Pub. L. 108–173, §105(a), substituted “attributable to—” for “attributable to”, inserted par. (1)designation before “the application of”, substituted “; and” for period at end, and added par. (2).
+Subsec. (g). Pub. L. 108–173, §105(a), substituted “attributable to—” for “attributable to”, inserted par. (1) designation before “the application of”, substituted “; and” for period at end, and added par. (2).
 
 Subsec. (h). Pub. L. 108–173, §241(b)(2)(A), added subsec. (h).
 
@@ -352,7 +350,7 @@ Subsec. (a)(2). Pub. L. 100–360, §211(c)(1)(C), substituted “, (e), and (g
 
 Subsec. (a)(3). Pub. L. 100–360, §211(c)(1)(D), substituted “subsections (e) and (g)” for “subsection (e)” in introductory provisions.
 
-Subsec. (a)(4). Pub. L. 100–360, §211(c)(1)(A), (B), inserted “(other than costs relating to the amendments made by the Medicare Catastrophic Coverage Act of1988)” before period at end of second sentence, and “, but shall not take into account any amounts in the Trust Fund that may be attributable to receipts or outlays relating to the Medicare Catastrophic Coverage Account” before period at end of last sentence.
+Subsec. (a)(4). Pub. L. 100–360, §211(c)(1)(A), (B), inserted “(other than costs relating to the amendments made by the Medicare Catastrophic Coverage Act of 1988)” before period at end of second sentence, and “, but shall not take into account any amounts in the Trust Fund that may be attributable to receipts or outlays relating to the Medicare Catastrophic Coverage Account” before period at end of last sentence.
 
 Subsec. (b). Pub. L. 100–360, §211(c)(1)(E), substituted “otherwise determined under this section (without regard to subsections (f) and (g)(6) of this section)” for “determined under subsection (a) or (e) of this section”.
 
@@ -394,7 +392,7 @@ Subsec. (e). Pub. L. 98–369, §2302(a), substituted “1988” for “1986” 
 
 Subsec. (f). Pub. L. 98–369, §2302(b), added subsec. (f).
 
-Subsec. (f)(2)(A). Pub. L. 98–617, §3(b)(4), substituted “for that December after the deduction” for “for that January after the deduction” and “for that December” for “for that November”.
+Subsec. (f)(2)(A). Pub. L. 98–617, §3(b)(4), substituted “for that December after the deduction” for “for thatJanuary after the deduction” and “for that December” for “for that November”.
 
 <b>1983</b>—Subsec. (a). Pub. L. 98–21, §606(a)(1), added subsec. (a) and struck out former subsec. (a) which provided that monthly premium of each individual enrolled under this part for each month before 1968 would be $3.
 
@@ -428,7 +426,7 @@ Subsec. (g). Pub. L. 97–248, §124(b), added subsec. (g).
 
 <b>1980</b>—Subsec. (d). Pub. L. 96–499 substituted “who reenrolls) (2) the months which elapsed between the date of termination of a previous coverage period and the month after the month in which he reenrolled” for “who enrolls for a second time) (2) the months which elapsed between the date of the termination of his first coverage period and the close of the enrollment period in which he enrolled for the second time”.
 
-<b>1977</b>—Subsec. (c)(3)(B). Pub. L. 95–216 substituted “the monthly premium rate most recently promulgated by the Secretary under this paragraph, increased by a percentage determined as follows: The Secretary shall ascertain the primary insurance amount computed under section 415(a)(1) of this title, based upon average indexed monthly earnings of $900, that applied to individuals who became eligible for and entitled to old-age insurance benefits on May 1 of the year of the promulgation” for “the monthly premium rate most recently promulgated by the Secretary under this paragraph or,in the case of the determination made in December 1971, such rate promulgated under subsection (b)(2) of this section multiplied by the ratio of (i) the amount in column IV of the table which, by reason of the law in effect at the time the promulgation is made, will be in effect as of May 1 next following such determination appears (or is deemed to appear) in section 415(a) of this title on the line which includes the figure ‘750’ in column III of such table to (ii) the amount in column IV of the table which appeared (or was deemed to appear) in section 415(a) of this title on the line which included the figure ‘750’ in column III as of May 1 of the year in which such determination is made” and inserted “He shall increase the monthly premium rate by the same percentage by which that primary insurance amount is increased when, by reason of the law in effect at the time the promulgation is made, it is so computed to apply to those individuals on the following May 1.”
+<b>1977</b>—Subsec. (c)(3)(B). Pub. L. 95–216 substituted “the monthly premium rate most recently promulgated by the Secretary under this paragraph, increased by a percentage determined as follows: The Secretary shall ascertain the primary insurance amount computed under section 415(a)(1) of this title, based upon average indexed monthly earnings of $900, that applied to individuals who became eligible for and entitled to old-age insurance benefits on May 1 of the year of the promulgation” for “the monthly premium rate most recently promulgated by the Secretary under this paragraph or, in the case of the determination made in December 1971, such rate promulgated under subsection (b)(2) of this section multiplied by the ratio of (i) the amount in column IV of the table which, by reason of the law in effect at the time the promulgation is made, will be in effect as of May 1 next following such determination appears (or is deemed to appear) in section 415(a) of this title on the line which includes the figure ‘750’ in column III of such table to (ii) the amount in column IV of the table which appeared (or was deemed to appear) in section 415(a) of this title on the line which included the figure ‘750’ in column III as of May 1 of the year in which such determination is made” and inserted “He shall increase the monthly premium rate by the same percentage by which that primary insurance amount is increased when, by reason of the law in effect at the time the promulgation is made, it is so computed to apply to those individuals on the following May 1.”
 
 <b>1975</b>—Subsec. (c)(3). Pub. L. 94–182 substituted “May 1” for “June 1” wherever appearing.
 
@@ -498,7 +496,7 @@ Amendment by Pub. L. 98–617 effective as if originally included in the Deficit
 
 Section 2302(c) of Pub. L. 98–369 provided that: “The amendments made by this section \[amending this section\] shall apply to premiums for months beginning with January 1986.”
 
-Section 2338(d)(1) of Pub. L. 98–369 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to months beginning with January 1983 for premiums for months beginning with thefirst month which begins more than 30 days after the date of the enactment of this Act \[July 18, 1984\].”
+Section 2338(d)(1) of Pub. L. 98–369 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to months beginning with January 1983 for premiums for months beginning with the first month which begins more than 30 days after the date of the enactment of this Act \[July 18, 1984\].”
 
 #### Effective Date of 1983 Amendments; Transitional Rule
 
@@ -540,7 +538,7 @@ Pub. L. 90–97, §2, Sept. 30, 1967, 81 Stat. 249, provided that: “Notwithsta
 
 &emsp;“(1) the dollar amount applicable for premiums under part B of title XVIII of such Act \[this part\] for each month before April 1968 shall be $3, and
 
-&emsp;“(2) the Secretary of Health, Education, and Welfare may determine and promulgate such dollar amount for months after March 1968 and before January 1970 at any time on or before December 31, 1967.”
+&emsp;“(2) the Secretary of Health, Education, and Welfare may determine and promulgate such dollaramount for months after March 1968 and before January 1970 at any time on or before December 31, 1967.”
 
 #### Persons Enrolling Before April 1, 1968, Who Did Not Enroll During Their Initial Enrollment Period
 

@@ -42,7 +42,7 @@
 
 &emsp;&emsp;&emsp;(i) for the sender to initiate the transmission to the recipient, more than 10 business days after the receipt of such request, of a commercial electronic mail message that falls within the scope of the request;
 
-&emsp;&emsp;&emsp;(ii) for any person acting on behalf of the sender to initiate the transmission to the recipient, more than 10 business days after the receipt of such request, of a commercial electronic mail message with actual knowledge, or knowledge fairly implied on the basis of objective circumstances, that such message falls within the scope of the request;
+&emsp;&emsp;&emsp;(ii) for any person acting on behalf of the sender to initiate the transmission to the recipient, more than 10 business days afterthe receipt of such request, of a commercial electronic mail message with actual knowledge, or knowledge fairly implied on the basis of objective circumstances, that such message falls within the scope of the request;
 
 &emsp;&emsp;&emsp;(iii) for any person acting on behalf of the sender to assist in initiating the transmission to the recipient, through the provision or selection of addresses to which the message will be sent, of a commercial electronic mail message with actual knowledge, or knowledge fairly implied on the basis of objective circumstances, that such message would violate clause (i) or (ii); or
 
@@ -78,7 +78,7 @@
 
 &emsp;&emsp;&emsp;(i) the electronic mail address of the recipient was obtained using an automated means from an Internet website or proprietary online service operated by another person, and such website or online service included, at the time the address was obtained, a notice stating that the operator of such website or online service will not give, sell, or otherwise transfer addresses maintained by such website or online service to any other party for the purposes of initiating, or enabling others to initiate, electronic mail messages; or
 
-&emsp;&emsp;&emsp;(ii) the electronic mail address of the recipient was obtained using an automatedmeans that generates possible electronic mail addresses by combining names, letters, or numbers into numerous permutations.
+&emsp;&emsp;&emsp;(ii) the electronic mail address of the recipient was obtained using an automated means that generates possible electronic mail addresses by combining names, letters, or numbers into numerous permutations.
 
 #### (B) Disclaimer
 

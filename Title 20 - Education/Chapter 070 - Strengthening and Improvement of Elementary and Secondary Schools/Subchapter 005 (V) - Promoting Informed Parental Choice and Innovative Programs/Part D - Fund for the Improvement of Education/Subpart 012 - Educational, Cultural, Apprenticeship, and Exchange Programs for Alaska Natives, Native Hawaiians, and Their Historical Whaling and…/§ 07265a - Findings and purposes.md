@@ -16,7 +16,7 @@ Congress finds the following:
 
 &emsp;(6) In the past decades, awareness of the historical trading, cultural, and whaling links has faded among Alaska Natives, Native Hawaiians, and the people of the continental United States.
 
-&emsp;(7) In 2000, the Alaska Native Heritage Center in Alaska, the Bishop Museum in Hawaii, and the Peabody-Essex Museum in Massachusetts initiated the New Trade Winds project to use 21st-century technology, including the Internet, to educate students and their parents about historic and contemporary cultural and trading ties that continue to link the diverse cultures of the peoples involved.
+&emsp;(7) In 2000, the Alaska Native Heritage Center in Alaska, the Bishop Museum in Hawaii, and the Peabody-Essex Museum in Massachusetts initiated the New Trade Winds project to use 21st-century technology, including theInternet, to educate students and their parents about historic and contemporary cultural and trading ties that continue to link the diverse cultures of the peoples involved.
 
 &emsp;(8) The New Bedford Whaling Museum, in partnership with the New Bedford Whaling National Historical Park, has developed a cultural exchange and educational program with the Inupiat Heritage Center in Barrow, Alaska to bring together the children, parents, and elders from the Arctic region of Alaska with children and families of Massachusetts to learn about their historical ties and about each other's contemporary cultures.
 

@@ -12,7 +12,7 @@
 
 &emsp;(i) his years of active service (determined without regard to subsection (d) of this section) as a member of a uniformed service; plus
 
-&emsp;(ii) in the case of a medical or dental officer, four years and, in the case of a medical officer, who has completed one year of medical internship or the equivalent thereof, one additional year, the four years and the one year to be reduced by the period of active service performed during such officer's attendance atmedical school or dental school or during his medical internship; plus
+&emsp;(ii) in the case of a medical or dental officer, four years and, in the case of a medical officer, who has completed one year of medical internship or the equivalent thereof, one additional year, the four years and the one year to be reduced by the period of active service performed during such officer's attendance at medical school or dental school or during his medical internship; plus
 
 &emsp;(iii) the number of years of service with which he was entitled to be credited for purposes of basic pay on May 31, 1958, or (if higher) on any date prior thereto, reduced by any such year included under clause (i) and further reduced by any such year with which he was entitled to be credited under paragraphs (7) and (8) of section 205(a) of title 37 on any date before June 1, 1958;
 
@@ -34,7 +34,7 @@ For purposes of subsection (a) of this section, the basic pay of the highest gra
 
 #### (c) Recall to active duty
 
-A commissioned officer, retired for reasons other than for failure of promotion to the senior grade, may (1) if an officer of the Regular Corps or an officer of the Reserve Corps entitled to retired pay under subsection (a) of this section, be involuntarily recalled to active duty during such times as the Commissioned Corps constitutes a branch of the land or naval forces of the United States, and (2) if an officer of either the Regular or Reserve Corps, be recalled to active duty at any time with his consent.
+A commissioned officer, retired for reasons other than for failure of promotion to the senior grade, may (1) if an officer of the Regular Corps or an officer of the Reserve Corps entitled to retired pay under subsection (a) of this section, be involuntarily recalled to active duty during such times as the Commissioned Corps constitutes a branch of the land or naval forces of the United States, and (2) if an officer of eitherthe Regular or Reserve Corps, be recalled to active duty at any time with his consent.
 
 #### (d) “Active service” defined
 
@@ -92,7 +92,7 @@ Subsec. (a)(6). Pub. L. 96–342, §813(h)(2)(C), added par. (6).
 
 Subsec. (b)(1). Act Apr. 27, 1956, §5(b), authorized crediting of noncommissioned service in the Service for purposes of retirement.
 
-Subsec. (c). Act Apr. 27, 1956, §5(c), permitted recall of retired officers of the Regular Corps without their consent whenever the Regular Corps has military status, and authorized recall of retired officers of the Regular or Reserve Corps with their consent at any time.
+Subsec. (c). Act Apr. 27, 1956, §5(c), permitted recall of retired officers of the Regular Corps without their consent whenever the Regular Corps has military status,and authorized recall of retired officers of the Regular or Reserve Corps with their consent at any time.
 
 Subsec. (g). Act Aug. 10, 1956, provided for crediting of service for purposes of retirement or separation for physical disability under chapter 61 of title 10.
 
@@ -144,7 +144,7 @@ Amendment by act Oct. 12, 1949, effective Oct. 1, 1949, see section 533(a) of ac
 
 Pub. L. 86–415, §8(c), (d), Apr. 8, 1960, 74 Stat. 36, provided that:
 
-“(c) An officer in the Regular Corps on active duty on the date of enactment of this Act \[Apr. 8, 1960\] may beretired and have his retired pay computed under section 211 of the Public Health Service Act, as amended by this Act \[this section\], or, if he so elects, under such section as in effect prior to the date of enactment of this Act \[Apr. 8, 1960\].
+“(c) An officer in the Regular Corps on active duty on the date of enactment of this Act \[Apr. 8, 1960\] may be retired and have his retired pay computed under section 211 of the Public Health Service Act, as amended by this Act \[this section\], or, if he so elects, under such section as in effect prior to the date of enactment of this Act \[Apr. 8, 1960\].
 
 “(d) The limitation under subsection (f) of section 211 of the Public Health Service Act, as amended by this Act \[subsec. (f) of this section\], on the amount of active service with the Public Health Service, other than as a commissioned officer, which may be counted for purposes of retirement or separation for physical disability, shall not apply in the case of any officer of the Reserve Corps of the Public Health Service on active duty on June 30, 1960.”
 

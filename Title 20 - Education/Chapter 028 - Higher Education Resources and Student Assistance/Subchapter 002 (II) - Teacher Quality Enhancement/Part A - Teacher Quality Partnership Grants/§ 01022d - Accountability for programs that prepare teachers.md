@@ -98,7 +98,7 @@
 
 &emsp;&emsp;&emsp;(iv) the average scaled score of individuals participating in such a program, or who have completed such a program during the two-year period preceding the first year for which the annual State report card is provided, who took each such assessment.
 
-&emsp;&emsp;(E) A description of alternative routes to teacher certification or licensure in the State (including any such routes operated by entities that are not institutions of higher education), if any, including, for each of the assessments used by the State for teacher certification or licensure—
+&emsp;&emsp;(E) A description of alternative routes to teacher certification or licensure in the State (including any such routes operated by entities that are not institutions of highereducation), if any, including, for each of the assessments used by the State for teacher certification or licensure—
 
 &emsp;&emsp;&emsp;(i) the percentage of individuals participating in such routes, or who have completed such routes during the two-year period preceding the date for which the determination is made, who passed each such assessment; and
 
@@ -124,7 +124,7 @@
 
 &emsp;&emsp;&emsp;(iii) subject area for which the teacher has been prepared to teach.
 
-&emsp;&emsp;(I) A description of the extent to which teacher preparation programs are addressing shortages of highly qualified teachers, byarea of certification or licensure, subject, and specialty, in the State's public schools.
+&emsp;&emsp;(I) A description of the extent to which teacher preparation programs are addressing shortages of highly qualified teachers, by area of certification or licensure, subject, and specialty, in the State's public schools.
 
 &emsp;&emsp;(J) The extent to which teacher preparation programs prepare teachers, including general education and special education teachers, to teach students with disabilities effectively, including training related to participation as a member of individualized education program teams, as defined in section 1414(d)(1)(B) of this title.
 

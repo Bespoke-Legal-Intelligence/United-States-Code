@@ -8,11 +8,11 @@ The Corporation shall provide guarantees for securities representing interests i
 
 #### (1) Initial fee
 
-&emsp;At the time a guarantee is issued by the Corporation, the Corporation shall assess the certified facility a fee of not more than 1/2 of 1 percent of the initial principal amount of each pool of qualified loans.
+&emsp;At the time a guarantee is issued by the Corporation, the Corporation shall assess the certified facility a fee of not more than ½ of 1 percent of the initial principal amount of each pool of qualified loans.
 
 #### (2) Annual fees
 
-&emsp;Beginning in the second year after the date the guarantee is issued under paragraph (1), the Corporation may, at the end of each year, assess the certified facility an annual fee of not more than 1/2 of 1 percent of the principal amount of the loans then constituting the pool.
+&emsp;Beginning in the second year after the date the guarantee is issued under paragraph (1), the Corporation may, at the end of each year, assess the certified facility an annual fee of not more than ½ of 1 percent of the principal amount of the loans then constituting the pool.
 
 #### (3) Determination of amount
 
@@ -40,5 +40,5 @@ The Corporation may impose charges or fees in reasonable amounts in connection w
 
 #### Amendments
 
-1996—Subsec. (b)(4). Pub. L. 104–316 substituted “Review” for “Annual review” in heading and “may review” for “shall annually review” in text.
+<b>1996</b>—Subsec. (b)(4). Pub. L. 104–316 substituted “Review” for “Annual review” in heading and “may review” for “shall annually review” in text.
 

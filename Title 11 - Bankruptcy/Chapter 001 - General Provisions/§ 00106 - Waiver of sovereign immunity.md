@@ -20,7 +20,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 106(c) relating to sovereign immunity is new. The provision indicates that the use of the term “creditor,” “entity,” or “governmental unit” in title 11 applies to governmental units notwithstanding any assertion of sovereign immunity and that an order of the court binds governmental units. The provision is included to comply with the requirement in case law that an express waiver of sovereign immunity is required in order to be effective. Section 106(c) codifies <i>In re Gwilliam</i>, 519 F.2d 407 (9th Cir., 1975), and <i>In re Dolard</i>, 519 F.2d 282 (9th Cir., 1975), permitting the bankruptcy court to determine the amount and dischargeability of tax liabilities owing by the debtor or the estate prior to or during a bankruptcy case whether or not the governmental unit to which such taxes are owed files a proof of claim. Except as provided in sections 106(a) and (b), subsection (c) is not limited to those issues, but permits the bankruptcy court to bind governmental units on other matters as well. For example, section 106(c) permits a trustee or debtor in possession to assert avoiding powers under title 11 against a governmental unit; contrary language in the House report to H.R. 8200 is thereby overruled.
 
@@ -42,9 +42,9 @@ The Federal Rules of Bankruptcy Procedure, referred to in subsec. (a)(3), (5), a
 
 #### Amendments
 
-2010—Subsec. (a)(1). Pub. L. 111–327 struck out “728,” after “726,”.
+<b>2010</b>—Subsec. (a)(1). Pub. L. 111–327 struck out “728,” after “726,”.
 
-1994—Pub. L. 103–394 amended section generally. Prior to amendment, section read as follows:
+<b>1994</b>—Pub. L. 103–394 amended section generally. Prior to amendment, section read as follows:
 
 “(a) A governmental unit is deemed to have waived sovereign immunity with respect to any claim against such governmental unit that is property of the estate and that arose out of the same transaction or occurrence out of which such governmental unit's claim arose.
 

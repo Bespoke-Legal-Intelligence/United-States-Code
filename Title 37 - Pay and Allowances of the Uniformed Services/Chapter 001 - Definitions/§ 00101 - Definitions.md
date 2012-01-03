@@ -80,7 +80,7 @@ In addition to the definitions in sections 1–5 of title 1, the following defin
 
 &emsp;&emsp;(B) special additional duties authorized for members of a reserve component by an authority designated by the Secretary concerned and performed by them on a voluntary basis in connection with the prescribed training or maintenance activities of the units to which they are assigned;
 
-> &emsp;and includes those duties when performed by members of a reserve component in their status as members of the National Guard, but (except as provided in section 206(d)(2) of this title) does not include work or study in connection with a correspondence course of a uniformed service.
+> &emsp;and includes those duties when performed by members of a reserve component in their status as members of the National Guard, but (except as provided in section 206(d)(2) of thistitle) does not include work or study in connection with a correspondence course of a uniformed service.
 
 &emsp;(23) The term “member” means a person appointed or enlisted in, or conscripted into, a uniformed service.
 
@@ -334,7 +334,7 @@ Pub. L. 93–277, §1, May 10, 1974, 88 Stat. 119, provided: “That this Act \[
 
 #### Short Title of 1963 Amendment
 
-Pub. L. 88–132, §1, Oct. 2, 1963, 77 Stat. 210, provided: “That this Act \[enacting sections 310 and 427 of this title and section 1401a of Title 10, Armed Forces, amending sections 201, 203, 301, 302, 305, 403, and 421 of this title, sections 1401, 1402, 3991, 6151, 6323, 6325 to 6327, 6381, 6383, 6390, 6394, 6396, 6398 to 6400, 6483, and 8991 of Title 10, section 423 of Title 14, Coast Guard, section 857a of Title 33, Navigation and Navigable Waters, and section 213a of Title 42, The Public Health and Welfare, repealing section 6149 of Title 10 and sections 2351 to 2356 of Title 50, Appendix, War and National Defense, and enacting provisions set out as notes under sections 201, 203, and 305 of this title, section 1402 of Title 10, andsection 411 (now 1311) of Title 38, Veterans’ Benefits\] may be cited as the ‘Uniformed Services Pay Act of 1963’.”
+Pub. L. 88–132, §1, Oct. 2, 1963, 77 Stat. 210, provided: “That this Act \[enacting sections 310 and 427 of this title and section 1401a of Title 10, Armed Forces, amending sections 201, 203, 301, 302, 305, 403, and 421 ofthis title, sections 1401, 1402, 3991, 6151, 6323, 6325 to 6327, 6381, 6383, 6390, 6394, 6396, 6398 to 6400, 6483, and 8991 of Title 10, section 423 of Title 14, Coast Guard, section 857a of Title 33, Navigation and Navigable Waters, and section 213a of Title 42, The Public Health and Welfare, repealing section 6149 of Title 10 and sections 2351 to 2356 of Title 50, Appendix, War and National Defense, and enacting provisions set out as notes under sections 201, 203, and 305 of this title, section 1402 of Title 10, and section 411 (now 1311) of Title 38, Veterans’ Benefits\] may be cited as the ‘Uniformed Services Pay Act of 1963’.”
 
 #### Transfer of Functions
 

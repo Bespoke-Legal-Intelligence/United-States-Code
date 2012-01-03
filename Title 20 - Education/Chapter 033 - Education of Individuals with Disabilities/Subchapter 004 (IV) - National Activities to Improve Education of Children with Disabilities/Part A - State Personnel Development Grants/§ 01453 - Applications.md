@@ -58,7 +58,7 @@ Each State personnel development plan under subsection (a)(2) shall—
 
 #### (1) In general
 
-&emsp;The Secretary shall use a panel of experts who are competent, by virtue of their training, expertise, or experience, to evaluate applications for grants under section 1451(c)(1) of this title.
+&emsp;The Secretary shall use a panel of experts who are competent, by virtue of their training,expertise, or experience, to evaluate applications for grants under section 1451(c)(1) of this title.
 
 #### (2) Composition of panel
 

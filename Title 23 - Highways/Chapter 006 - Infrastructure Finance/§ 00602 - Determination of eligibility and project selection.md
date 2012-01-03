@@ -52,7 +52,7 @@ Selection criteria.—
 
 In general.—The selection criteria shall include the following:
 
-&emsp;&emsp;&emsp;(i) The extent to which the project is nationally or regionally significant, in termsof generating economic benefits, supporting international commerce, or otherwise enhancing the national transportation system.
+&emsp;&emsp;&emsp;(i) The extent to which the project is nationally or regionally significant, in terms of generating economic benefits, supporting international commerce, or otherwise enhancing the national transportation system.
 
 &emsp;&emsp;&emsp;(ii) The creditworthiness of the project, including a determination by the Secretary that any financing for the project has appropriate security features, such as a rate covenant, to ensure repayment.
 

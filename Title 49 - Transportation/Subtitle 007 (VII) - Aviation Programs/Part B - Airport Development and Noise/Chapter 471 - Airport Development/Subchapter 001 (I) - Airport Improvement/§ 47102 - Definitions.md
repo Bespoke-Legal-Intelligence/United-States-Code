@@ -38,7 +38,7 @@ In this subchapter—
 
 &emsp;&emsp;&emsp;(ii) safety or security equipment, including explosive detection devices, universal access systems, and emergency call boxes, the Secretary requires by regulation for, or approves as contributing significantly to, the safety or security of individuals and property at the airport and integrated in-pavement lighting systems for runways and taxiways and other runway and taxiway incursion prevention devices;
 
-&emsp;&emsp;&emsp;(iii) equipment to remove snow, to measure runway surface friction, or for aviation-related weather reporting, including closed circuit weather surveillance equipment if the airport is located in Alaska;
+&emsp;&emsp;&emsp;(iii) equipment to remove snow, to measure runway surface friction, or for aviation-related weather reporting, includingclosed circuit weather surveillance equipment if the airport is located in Alaska;
 
 &emsp;&emsp;&emsp;(iv) firefighting and rescue equipment at an airport that serves scheduled passenger operations of air carrier aircraft designed for more than 20 passenger seats;
 
@@ -266,7 +266,7 @@ Sept. 3, 1982, Pub. L. 97–248, §503(a)(12), 96 Stat. 673; Dec. 30, 1987, Pub.
 
 49 App.:2202(a)(23).
 
-In this section, before clause (1), the words “In this subchapter” are substituted for “As used in this chapter” and “Whenever in this chapter reference is madeto . . . such reference shall mean” for consistency in the revised title and with other titles of the United States Code and to eliminate unnecessary words.
+In this section, before clause (1), the words “In this subchapter” are substituted for “As used in this chapter” and “Whenever in this chapter reference is made to . . . such reference shall mean” for consistency in the revised title and with other titles of the United States Code and to eliminate unnecessary words.
 
 Clause (1) restates the definition of “air carrier airport” that was contained in section 11(1) of the Airport and Airway Development Act of 1970 as in effect both on February 18, 1980, and immediately before September 3, 1982. The clause is added to this section to eliminate the cross-references to definitions in section 11 of the Airport and Airway Development Act of 1970 that are contained in the source provisions restated in sections 47106(d) and 47119(a) of the revised title. Because some of the terms used in the definition of “air carrier airport” were themselves defined in section 11, the definitions of those terms are incorporated in the definition added in clause (1) to the extent they differ from the definitions of those terms restated in this section. The words “Secretary of Transportation” and “Secretary” are substituted for “Civil Aeronautics Board” because of the transfer of authority under 49 App.:1551(b)(1)(E).
 
@@ -302,7 +302,7 @@ In clause (20), the words “the Commonwealth of” and “the Government of” 
 
 The Americans with Disabilities Act of 1990, referred to in par. (3)(F), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
-The Clean Air Act, referred to in par. (3)(F), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
+The Clean Air Act, referred to in par. (3)(F), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which isclassified generally to chapter 85 (§7401 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
 The Federal Water Pollution Control Act, referred to in par. (3)(F), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary of Defense is authorized to carry out a sentence imposed by amilitary commission under this chapter in accordance with such procedures as the Secretary may prescribe.
+In General.—The Secretary of Defense is authorized to carry out a sentence imposed by a military commission under this chapter in accordance with such procedures as the Secretary may prescribe.
 
 (b)
 

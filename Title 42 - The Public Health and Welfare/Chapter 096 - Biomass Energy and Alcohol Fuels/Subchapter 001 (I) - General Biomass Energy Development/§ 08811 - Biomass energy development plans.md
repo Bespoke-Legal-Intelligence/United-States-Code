@@ -2,7 +2,7 @@
 
 #### (a) Plan respecting maximized production and use by December 31, 1982; preparation, transmission, etc.
 
-Not later than 180 days after June 30, 1980, the Secretary of Agriculture and the Secretary ofEnergy shall jointly prepare, and transmit to the President and the Congress, a plan for maximizing in accordance with this subchapter biomass energy production and use. Such plan shall be designed to achieve a total level of alcohol production and use within the United States of at least 60,000 barrels per day of alcohol by December 31, 1982.
+Not later than 180 days after June 30, 1980, the Secretary of Agriculture and the Secretary of Energy shall jointly prepare, and transmit to the President and the Congress, a plan for maximizing in accordance with this subchapter biomass energy production and use. Such plan shall be designed to achieve a total level of alcohol production and use within the United States of at least 60,000 barrels per day of alcohol by December 31, 1982.
 
 #### (b) Comprehensive plan respecting maximized production and use from January 1, 1983, to December 31, 1990, preparation, transmission, etc.
 

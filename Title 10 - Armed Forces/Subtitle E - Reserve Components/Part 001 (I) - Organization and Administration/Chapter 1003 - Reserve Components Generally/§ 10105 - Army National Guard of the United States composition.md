@@ -46,7 +46,7 @@ Additional Prior Active Duty Officers.—The Secretary of the Army shall increas
 
 “(b)
 
-Additional Prior Active Duty Enlisted Members.—The Secretary of the Army shall increase the number of qualified prior active-duty enlisted membersin the Army National Guard through the use of enlistments as described in section 8020 of the Department of Defense Appropriations Act, 1994 (Public Law 103–139) \[107 Stat. 1441\]. The Secretary shall enlist not fewer than 1,000 new enlisted members each year under enlistments described in that section.
+Additional Prior Active Duty Enlisted Members.—The Secretary of the Army shall increase the number of qualified prior active-duty enlisted members in the Army National Guard through the use of enlistments as described in section 8020 of the Department of Defense Appropriations Act, 1994 (Public Law 103–139) \[107 Stat. 1441\]. The Secretary shall enlist not fewer than 1,000 new enlisted members each year under enlistments described in that section.
 
 “(c)
 
@@ -94,7 +94,7 @@ Availability of Training Positions.—The Secretary of the Army shall ensure tha
 
 “(a)
 
-Establishment of Personnel Account.—The Secretary of the Army shall establish a personnel accounting category for members of the Army Selected Reserve to be used for categorizing members of the Selected Reserve who have not completed the minimum training required for deployment or who are otherwise not available for deployment. The account shall be designed so that it is compatible with the decentralized personnel systems of the Army Guard and Reserve. The account shall be used for the reporting of personnel readiness and may not be used as a factor in establishing the level of Army Guard and Reserve force structure.
+Establishment of Personnel Account.—The Secretary of the Army shall establish a personnel accounting category for members of the Army Selected Reserve to be used for categorizing members of the Selected Reserve who have not completed the minimum training required for deployment or who are otherwise not available for deployment. The account shall be designed so that it is compatible with the decentralized personnel systems of the Army Guard and Reserve. The account shall be used for the reporting of personnelreadiness and may not be used as a factor in establishing the level of Army Guard and Reserve force structure.
 
 “(b)
 
@@ -134,7 +134,7 @@ Time for Qualification for Deployment.—(1) If at the end of 24 months after a 
 
 #### “SEC. 1121. DEPLOYABILITY RATING SYSTEM.
 
-“The Secretary of the Army shall modify the readiness rating system for units of the Army Reserve andArmy National Guard to ensure that the rating system provides an accurate assessment of the deployability of a unit and those shortfalls of a unit that require the provision of additional resources. In making such modifications, the Secretary shall ensure that the unit readiness rating system is designed so—
+“The Secretary of the Army shall modify the readiness rating system for units of the Army Reserve and Army National Guard to ensure that the rating system provides an accurate assessment of the deployability of a unit and those shortfalls of a unit that require the provision of additional resources. In making such modifications, the Secretary shall ensure that the unit readiness rating system is designed so—
 
 &emsp;“(1) that the personnel readiness rating of a unit reflects—
 

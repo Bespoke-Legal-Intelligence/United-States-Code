@@ -52,7 +52,7 @@ In this section:
 
 #### (C) Activities
 
-&emsp;&emsp;The Director shall facilitate the planning, development, and implementation of international cooperative activity to address thestrategic priorities developed under subparagraph (B) through mechanisms the Under Secretary considers appropriate, including grants, cooperative agreements, or contracts to or with foreign public or private entities, governmental organizations, businesses (including small businesses and socially and economically disadvantaged small businesses (as those terms are defined in sections 632 and 637 of title 15, respectively)), federally funded research and development centers, and universities.
+&emsp;&emsp;The Director shall facilitate the planning, development, and implementation of international cooperative activity to address the strategic priorities developed under subparagraph (B) through mechanisms the Under Secretary considers appropriate, including grants, cooperative agreements, or contracts to or with foreign public or private entities, governmental organizations, businesses (including small businesses and socially and economically disadvantaged small businesses (as those terms are defined in sections 632 and 637 of title 15, respectively)), federally funded research and development centers, and universities.
 
 #### (D) Identification of partners
 
@@ -130,7 +130,7 @@ There are authorized to be appropriated to carry out this section such sums as a
 
 #### References in Text
 
-The Foreign Relations Authorization Act, Fiscal Year 1979, referred to in subsec. (g)(1), is Pub. L. 95–426,Oct. 7, 1978, 92 Stat. 963. Title V of the Act is classified generally to sections 2656a to 2656d of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Tables.
+The Foreign Relations Authorization Act, Fiscal Year 1979, referred to in subsec. (g)(1), is Pub. L. 95–426, Oct. 7, 1978, 92 Stat. 963. Title V of the Act is classified generally to sections 2656a to 2656d of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Tables.
 
 #### Findings
 

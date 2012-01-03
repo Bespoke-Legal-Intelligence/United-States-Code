@@ -20,39 +20,39 @@ Section was classified to section 188b–6 of former Title 40, prior to the enac
 
 #### Amendments
 
-2005—Subsec. (a). Pub. L. 109–55 substituted “2006” for “2005” in first sentence.
+<b>2005</b>—Subsec. (a). Pub. L. 109–55 substituted “2006” for “2005” in first sentence.
 
-2004—Subsec. (a). Pub. L. 108–447 substituted “2005” for “2004” in first sentence.
+<b>2004</b>—Subsec. (a). Pub. L. 108–447 substituted “2005” for “2004” in first sentence.
 
-2003—Subsec. (a). Pub. L. 108–83, in first sentence, substituted “2004” for “2003” and inserted “for the purchase of art and historical objects for the United States Senate Collection, for exhibits and public education relating to the United States Senate Collection, for administrative and transitional expenses of the Senate Commission on Art, and” after “in which incurred,”.
+<b>2003</b>—Subsec. (a). Pub. L. 108–83, in first sentence, substituted “2004” for “2003” and inserted “for the purchase of art and historical objects for the United States Senate Collection, for exhibits and public education relating to the United States Senate Collection, for administrative and transitional expenses of the Senate Commission on Art, and” after “in which incurred,”.
 
 Pub. L. 108–7 substituted “2003” for “2002” in first sentence.
 
-2001—Subsec. (a). Pub. L. 107–68 substituted “2002” for “2001” in first sentence.
+<b>2001</b>—Subsec. (a). Pub. L. 107–68 substituted “2002” for “2001” in first sentence.
 
-2000—Subsec. (a). Pub. L. 106–554, §1(a)(2) \[title III, §309\], substituted “2001” for “2000” in first sentence.
+<b>2000</b>—Subsec. (a). Pub. L. 106–554, §1(a)(2) \[title III, §309\], substituted “2001” for “2000” in first sentence.
 
 Pub. L. 106–554, §1(a)(2) \[title I, §8(1), (2)\], in first sentence, substituted “works of art, historical objects, documents, or material relating to historical matters for placement or exhibition” for “items of art, fine art, and historical items” and, in second sentence, substituted “such works, objects, documents, or material” for “such items” in two places and “a work, object, document, or material” for “an item”.
 
 Subsec. (b). Pub. L. 106–554, §1(a)(2) \[title I, §8(3)\], substituted “such works, objects, documents, or materials” for “such items of art” and “may” for “shall”.
 
-1999—Subsec. (a). Pub. L. 106–57 substituted “2000” for “1999”.
+<b>1999</b>—Subsec. (a). Pub. L. 106–57 substituted “2000” for “1999”.
 
-1998—Subsec. (a). Pub. L. 105–275 substituted “1999” for “1998”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–275 substituted “1999” for “1998”.
 
-1997—Subsec. (a). Pub. L. 105–55 substituted “1998” for “1997”.
+<b>1997</b>—Subsec. (a). Pub. L. 105–55 substituted “1998” for “1997”.
 
-1996—Subsec. (a). Pub. L. 104–197 substituted “1997” for “1996”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–197 substituted “1997” for “1996”.
 
-1995—Subsec. (a). Pub. L. 104–53 substituted “1996” for “1995”.
+<b>1995</b>—Subsec. (a). Pub. L. 104–53 substituted “1996” for “1995”.
 
-1994—Subsec. (a). Pub. L. 103–283 substituted “1995” for “1994”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–283 substituted “1995” for “1994”.
 
-1993—Subsec. (a). Pub. L. 103–69 substituted “1994” for “1993”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–69 substituted “1994” for “1993”.
 
-1992—Subsec. (a). Pub. L. 102–392 substituted “1993” for “1992”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–392 substituted “1993” for “1992”.
 
-1991—Subsec. (a). Pub. L. 102–90 substituted “1992” for “1991”.
+<b>1991</b>—Subsec. (a). Pub. L. 102–90 substituted “1992” for “1991”.
 
-1990—Subsec. (a). Pub. L. 101–520 substituted “1991” for “1990”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–520 substituted “1991” for “1990”.
 

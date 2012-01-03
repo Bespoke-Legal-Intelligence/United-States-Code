@@ -280,7 +280,7 @@ A prescription drug plan or an MA–PD plan may provide a different prescription
 
 #### (C) Medicaid-related provisions
 
-&emsp;&emsp;The prices negotiated by a prescription drug plan, by an MA–PD plan with respect tocovered part D drugs, or by a qualified retiree prescription drug plan (as defined in section 1395w–132(a)(2) of this title) with respect to such drugs on behalf of part D eligible individuals, shall (notwithstanding any other provision of law) not be taken into account for the purposes of establishing the best price under section 1396r–8(c)(1)(C) of this title.
+&emsp;&emsp;The prices negotiated by a prescription drug plan, by an MA–PD plan with respect to covered part D drugs, or by a qualified retiree prescription drug plan (as defined in section 1395w–132(a)(2) of this title) with respect to such drugs on behalf of part D eligible individuals, shall (notwithstanding any other provision of law) not be taken into account for the purposes of establishing the best price under section 1396r–8(c)(1)(C) of this title.
 
 #### (2) Disclosure
 
@@ -342,19 +342,15 @@ A prescription drug plan or an MA–PD plan may provide a different prescription
 
 #### (C) Update
 
-&emsp;&emsp;For purposes of applying subparagraph (A)(ii), the Secretary shall revise the list ofcompendia described in section 1396r–8(g)(1)(B)(i) of this title as is appropriate for identifying medically accepted indications for drugs. Any such revision shall be done in a manner consistent with the process for revising compendia under section 1395x(t)(2)(B) of this title.
+&emsp;&emsp;For purposes of applying subparagraph (A)(ii), the Secretary shall revise the list of compendia described in section 1396r–8(g)(1)(B)(i) of this title as is appropriate for identifying medically accepted indications for drugs. Any such revision shall be done in a manner consistent with the process for revising compendia under section 1395x(t)(2)(B) of this title.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1860D–2, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2075; amended Pub. L. 109–91, title I, §103(a), Oct. 20, 2005, 119 Stat. 2092; Pub. L. 109–432, div. B, title II, §202(b), Dec. 20, 2006, 120 Stat. 2986; Pub. L. 110–275, title I, §§175(a), 182(a)(1), July 15, 2008, 122 Stat. 2581, 2583; Pub. L. 111–148, title III, §§3301(c)(1), 3314(a), 3315, Mar. 23, 2010, 124 Stat. 467, 478, 479; Pub. L. 111–152, title I, §1101(a)(2), (b)(3), (d), Mar. 30, 2010, 124 Stat. 1037–1039.)
 
 #### References in Text
 
-Part C of this subchapter, referred to in subsecs. (a)(1), (3), (4) and (b), is classified to section 1395w–21 et seq. of this title.
-
 Section 1101(d)(1) of the Health Care and Education Reconciliation Act of 2010, referred to in subsec. (b)(4)(B)(i)(V), is section 1101(d)(1) of Pub. L. 111–152, which amended this section.
 
 The Public Health Service Act, referred to in subsec. (b)(4)(C)(iii)(IV), is act July 1, 1944, ch. 373, 58 Stat. 682. Part B of title XXVI of the Act is classified generally to part B (§300ff–21 et seq.) of subchapter XXIV of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
-
-Parts A and B of this subchapter, referred to in subsec. (e)(2)(B), are classified to sections 1395c et seq. and 1395j et seq., respectively, of this title.
 
 #### Amendments
 

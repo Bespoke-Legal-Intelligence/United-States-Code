@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title46",
- "package": "USCODE-2010-title46",
+ "package": "USCODE-2011-title46",
  "pieces": [
   {
    "id": "46_",
@@ -8664,10 +8664,14 @@
    "id": "46_51301",
    "marks": [
     [
-     "L",
+     "I",
      4,
-     "[Page 280]",
-     true
+     [
+      [
+       413,
+       "[Page 280]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 005 (V) - Merchant Marine/Part B - Merchant Marine Service/Chapter 513 - United States Merchant Marine Academy/§ 51301 - Maintenance of the Academy.md",
@@ -8681,7 +8685,7 @@
    "marks": [
     [
      "L",
-     16,
+     6,
      "[Page 281]",
      true
     ]
@@ -8697,7 +8701,7 @@
    "marks": [
     [
      "L",
-     22,
+     4,
      "[Page 282]",
      true
     ]
@@ -8730,14 +8734,18 @@
    "id": "46_51306",
    "marks": [
     [
-     "L",
-     30,
-     "[Page 283]",
-     true
+     "I",
+     20,
+     [
+      [
+       96,
+       "[Page 283]"
+      ]
+     ]
     ],
     [
      "L",
-     122,
+     92,
      "[Page 284]",
      true
     ]
@@ -8759,30 +8767,26 @@
   },
   {
    "id": "46_51308",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 285]",
+     true
+    ]
+   ],
    "path": "Subtitle 005 (V) - Merchant Marine/Part B - Merchant Marine Service/Chapter 513 - United States Merchant Marine Academy/§ 51308 - Uniforms, textbooks, and transportation allowances.md",
    "printed_pages": [
     284,
-    284
+    285
    ]
   },
   {
    "id": "46_51309",
-   "marks": [
-    [
-     "I",
-     16,
-     [
-      [
-       126,
-       "[Page 285]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 005 (V) - Merchant Marine/Part B - Merchant Marine Service/Chapter 513 - United States Merchant Marine Academy/§ 51309 - Academic degree.md",
    "printed_pages": [
-    284,
+    285,
     285
    ]
   },
@@ -8799,14 +8803,10 @@
    "id": "46_51311",
    "marks": [
     [
-     "I",
-     54,
-     [
-      [
-       112,
-       "[Page 286]"
-      ]
-     ]
+     "L",
+     28,
+     "[Page 286]",
+     true
     ]
    ],
    "path": "Subtitle 005 (V) - Merchant Marine/Part B - Merchant Marine Service/Chapter 513 - United States Merchant Marine Academy/§ 51311 - Midshipman status in the Navy Reserve.md",
@@ -8838,10 +8838,10 @@
    "marks": [
     [
      "I",
-     10,
+     4,
      [
       [
-       106,
+       177,
        "[Page 287]"
       ]
      ]
@@ -8876,7 +8876,7 @@
    "marks": [
     [
      "L",
-     26,
+     14,
      "[Page 288]",
      true
     ]
@@ -8928,7 +8928,7 @@
    "marks": [
     [
      "L",
-     48,
+     20,
      "[Page 289]",
      true
     ]
@@ -8944,7 +8944,7 @@
    "marks": [
     [
      "L",
-     54,
+     28,
      "[Page 290]",
      true
     ]
@@ -8987,19 +8987,23 @@
    "marks": [
     [
      "I",
-     24,
+     8,
      [
       [
-       178,
+       181,
        "[Page 291]"
       ]
      ]
     ],
     [
-     "L",
-     116,
-     "[Page 292]",
-     true
+     "I",
+     70,
+     [
+      [
+       371,
+       "[Page 292]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 005 (V) - Merchant Marine/Part B - Merchant Marine Service/Chapter 515 - State Maritime Academy Support Program/§ 51509 - Student incentive payment agreements.md",
@@ -9019,11 +9023,18 @@
   },
   {
    "id": "46_51511",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     28,
+     "[Page 293]",
+     true
+    ]
+   ],
    "path": "Subtitle 005 (V) - Merchant Marine/Part B - Merchant Marine Service/Chapter 515 - State Maritime Academy Support Program/§ 51511 - Midshipman status in the Navy Reserve.md",
    "printed_pages": [
     292,
-    292
+    293
    ]
   },
   {
@@ -9031,23 +9042,16 @@
    "marks": [],
    "path": "Subtitle 005 (V) - Merchant Marine/Part B - Merchant Marine Service/Chapter 517 - Other Support for Merchant Marine Training/README.md",
    "printed_pages": [
-    292,
-    292
+    293,
+    293
    ]
   },
   {
    "id": "46_51701",
-   "marks": [
-    [
-     "L",
-     10,
-     "[Page 293]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 005 (V) - Merchant Marine/Part B - Merchant Marine Service/Chapter 517 - Other Support for Merchant Marine Training/§ 51701 - United States Maritime Service.md",
    "printed_pages": [
-    292,
+    293,
     293
    ]
   },
@@ -9064,10 +9068,14 @@
    "id": "46_51703",
    "marks": [
     [
-     "L",
-     40,
-     "[Page 294]",
-     true
+     "I",
+     12,
+     [
+      [
+       99,
+       "[Page 294]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 005 (V) - Merchant Marine/Part B - Merchant Marine Service/Chapter 517 - Other Support for Merchant Marine Training/§ 51703 - Additional training.md",
@@ -9096,30 +9104,30 @@
   },
   {
    "id": "46_51901",
-   "marks": [],
-   "path": "Subtitle 005 (V) - Merchant Marine/Part B - Merchant Marine Service/Chapter 519 - Merchant Marine Awards/§ 51901 - Awards for individual acts or service.md",
-   "printed_pages": [
-    294,
-    294
-   ]
-  },
-  {
-   "id": "46_51902",
    "marks": [
     [
      "I",
-     4,
+     16,
      [
       [
-       309,
+       145,
        "[Page 295]"
       ]
      ]
     ]
    ],
-   "path": "Subtitle 005 (V) - Merchant Marine/Part B - Merchant Marine Service/Chapter 519 - Merchant Marine Awards/§ 51902 - Gallant Ship Award.md",
+   "path": "Subtitle 005 (V) - Merchant Marine/Part B - Merchant Marine Service/Chapter 519 - Merchant Marine Awards/§ 51901 - Awards for individual acts or service.md",
    "printed_pages": [
     294,
+    295
+   ]
+  },
+  {
+   "id": "46_51902",
+   "marks": [],
+   "path": "Subtitle 005 (V) - Merchant Marine/Part B - Merchant Marine Service/Chapter 519 - Merchant Marine Awards/§ 51902 - Gallant Ship Award.md",
+   "printed_pages": [
+    295,
     295
    ]
   },
@@ -9163,10 +9171,14 @@
    "id": "46_51907",
    "marks": [
     [
-     "L",
-     42,
-     "[Page 296]",
-     true
+     "I",
+     26,
+     [
+      [
+       108,
+       "[Page 296]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 005 (V) - Merchant Marine/Part B - Merchant Marine Service/Chapter 519 - Merchant Marine Awards/§ 51907 - Provision of decorations, medals, and replacements.md",
@@ -9195,11 +9207,22 @@
   },
   {
    "id": "46_52101",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     52,
+     [
+      [
+       166,
+       "[Page 297]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 005 (V) - Merchant Marine/Part B - Merchant Marine Service/Chapter 521 - Miscellaneous/§ 52101 - Reemployment rights for certain merchant seamen.md",
    "printed_pages": [
     296,
-    296
+    297
    ]
   },
   {
@@ -9207,27 +9230,16 @@
    "marks": [],
    "path": "Subtitle 005 (V) - Merchant Marine/Part C - Financial Assistance Programs/README.md",
    "printed_pages": [
-    296,
-    296
+    297,
+    297
    ]
   },
   {
    "id": "46_-Subtitle_V-Part_C-ch531",
-   "marks": [
-    [
-     "I",
-     12,
-     [
-      [
-       69,
-       "[Page 297]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 005 (V) - Merchant Marine/Part C - Financial Assistance Programs/Chapter 531 - Maritime Security Fleet/README.md",
    "printed_pages": [
-    296,
+    297,
     297
    ]
   },
@@ -9235,63 +9247,67 @@
    "id": "46_53101",
    "marks": [
     [
-     "L",
-     90,
-     "[Page 298]",
-     true
-    ],
-    [
      "I",
-     192,
+     80,
      [
       [
-       162,
-       "[Page 299]"
+       75,
+       "[Page 298]"
       ]
      ]
     ],
     [
+     "L",
+     170,
+     "[Page 299]",
+     true
+    ],
+    [
      "I",
-     296,
+     282,
      [
       [
-       107,
+       101,
        "[Page 300]"
       ]
      ]
     ],
     [
-     "L",
-     380,
-     "[Page 301]",
-     true
+     "I",
+     376,
+     [
+      [
+       1726,
+       "[Page 301]"
+      ]
+     ]
     ],
     [
      "I",
-     414,
+     412,
      [
       [
-       1149,
+       592,
        "[Page 302]"
       ]
      ]
     ],
     [
      "I",
-     430,
+     426,
      [
       [
-       547,
+       1162,
        "[Page 303]"
       ]
      ]
     ],
     [
      "I",
-     440,
+     438,
      [
       [
-       486,
+       491,
        "[Page 304]"
       ]
      ]
@@ -9301,7 +9317,7 @@
      464,
      [
       [
-       1475,
+       212,
        "[Page 305]"
       ]
      ]
@@ -9311,56 +9327,74 @@
      492,
      [
       [
-       3140,
+       1786,
        "[Page 306]"
       ]
      ]
     ],
     [
-     "L",
-     536,
-     "[Page 307]",
-     true
-    ],
-    [
-     "L",
-     566,
-     "[Page 308]",
-     true
+     "I",
+     534,
+     [
+      [
+       1156,
+       "[Page 307]"
+      ]
+     ]
     ],
     [
      "I",
-     600,
+     564,
      [
       [
-       300,
+       164,
+       "[Page 308]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     598,
+     [
+      [
+       604,
        "[Page 309]"
       ]
      ]
     ],
     [
      "I",
-     634,
+     626,
      [
       [
-       1033,
+       265,
        "[Page 310]"
       ]
      ]
     ],
     [
      "L",
-     676,
+     672,
      "[Page 311]",
      true
     ],
     [
      "I",
-     742,
+     726,
      [
       [
-       163,
+       103,
        "[Page 312]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     770,
+     [
+      [
+       172,
+       "[Page 313]"
       ]
      ]
     ]
@@ -9368,7 +9402,7 @@
    "path": "Subtitle 005 (V) - Merchant Marine/Part C - Financial Assistance Programs/Chapter 531 - Maritime Security Fleet/§ 53101 - Definitions.md",
    "printed_pages": [
     297,
-    312
+    313
    ]
   },
   {
@@ -9376,26 +9410,24 @@
    "marks": [
     [
      "L",
-     16,
-     "[Page 313]",
-     true
-    ],
-    [
-     "L",
-     94,
+     84,
      "[Page 314]",
      true
     ],
     [
-     "L",
-     192,
-     "[Page 315]",
-     true
+     "I",
+     168,
+     [
+      [
+       108,
+       "[Page 315]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 005 (V) - Merchant Marine/Part C - Financial Assistance Programs/Chapter 531 - Maritime Security Fleet/§ 53102 - Establishment of Maritime Security Fleet.md",
    "printed_pages": [
-    312,
+    313,
     315
    ]
   },
@@ -9403,10 +9435,14 @@
    "id": "46_53103",
    "marks": [
     [
-     "L",
-     96,
-     "[Page 316]",
-     true
+     "I",
+     82,
+     [
+      [
+       91,
+       "[Page 316]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 005 (V) - Merchant Marine/Part C - Financial Assistance Programs/Chapter 531 - Maritime Security Fleet/§ 53103 - Award of operating agreements.md",
@@ -9420,10 +9456,10 @@
    "marks": [
     [
      "I",
-     26,
+     8,
      [
       [
-       262,
+       357,
        "[Page 317]"
       ]
      ]
@@ -9439,14 +9475,10 @@
    "id": "46_53105",
    "marks": [
     [
-     "I",
-     40,
-     [
-      [
-       340,
-       "[Page 318]"
-      ]
-     ]
+     "L",
+     26,
+     "[Page 318]",
+     true
     ]
    ],
    "path": "Subtitle 005 (V) - Merchant Marine/Part C - Financial Assistance Programs/Chapter 531 - Maritime Security Fleet/§ 53105 - Obligations and rights under operating agreements.md",
@@ -9459,10 +9491,14 @@
    "id": "46_53106",
    "marks": [
     [
-     "L",
-     66,
-     "[Page 319]",
-     true
+     "I",
+     48,
+     [
+      [
+       185,
+       "[Page 319]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 005 (V) - Merchant Marine/Part C - Financial Assistance Programs/Chapter 531 - Maritime Security Fleet/§ 53106 - Payments.md",
@@ -9476,10 +9512,10 @@
    "marks": [
     [
      "I",
-     50,
+     32,
      [
       [
-       96,
+       165,
        "[Page 320]"
       ]
      ]
@@ -9493,11 +9529,18 @@
   },
   {
    "id": "46_53108",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     26,
+     "[Page 321]",
+     true
+    ]
+   ],
    "path": "Subtitle 005 (V) - Merchant Marine/Part C - Financial Assistance Programs/Chapter 531 - Maritime Security Fleet/§ 53108 - Regulatory relief.md",
    "printed_pages": [
     320,
-    320
+    321
    ]
   },
   {
@@ -9505,23 +9548,16 @@
    "marks": [],
    "path": "Subtitle 005 (V) - Merchant Marine/Part C - Financial Assistance Programs/Chapter 531 - Maritime Security Fleet/§ 53109 - Special rule regarding age of participating fleet vessel.md",
    "printed_pages": [
-    320,
-    320
+    321,
+    321
    ]
   },
   {
    "id": "46_53110",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 321]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 005 (V) - Merchant Marine/Part C - Financial Assistance Programs/Chapter 531 - Maritime Security Fleet/§ 53110 - Regulations.md",
    "printed_pages": [
-    320,
+    321,
     321
    ]
   },
@@ -9548,10 +9584,10 @@
    "marks": [
     [
      "I",
-     68,
+     46,
      [
       [
-       110,
+       147,
        "[Page 322]"
       ]
      ]
@@ -9592,15 +9628,6 @@
   },
   {
    "id": "46_53305",
-   "marks": [],
-   "path": "Subtitle 005 (V) - Merchant Marine/Part C - Financial Assistance Programs/Chapter 533 - Construction Reserve Funds/§ 53305 - Eligible fund deposits.md",
-   "printed_pages": [
-    322,
-    322
-   ]
-  },
-  {
-   "id": "46_53306",
    "marks": [
     [
      "L",
@@ -9609,9 +9636,18 @@
      true
     ]
    ],
-   "path": "Subtitle 005 (V) - Merchant Marine/Part C - Financial Assistance Programs/Chapter 533 - Construction Reserve Funds/§ 53306 - Recognition of gain for tax purposes.md",
+   "path": "Subtitle 005 (V) - Merchant Marine/Part C - Financial Assistance Programs/Chapter 533 - Construction Reserve Funds/§ 53305 - Eligible fund deposits.md",
    "printed_pages": [
     322,
+    323
+   ]
+  },
+  {
+   "id": "46_53306",
+   "marks": [],
+   "path": "Subtitle 005 (V) - Merchant Marine/Part C - Financial Assistance Programs/Chapter 533 - Construction Reserve Funds/§ 53306 - Recognition of gain for tax purposes.md",
+   "printed_pages": [
+    323,
     323
    ]
   },
@@ -9626,26 +9662,26 @@
   },
   {
    "id": "46_53308",
-   "marks": [],
-   "path": "Subtitle 005 (V) - Merchant Marine/Part C - Financial Assistance Programs/Chapter 533 - Construction Reserve Funds/§ 53308 - Order and proportions of deposits and withdrawals.md",
-   "printed_pages": [
-    323,
-    323
-   ]
-  },
-  {
-   "id": "46_53309",
    "marks": [
     [
      "L",
-     24,
+     12,
      "[Page 324]",
      true
     ]
    ],
-   "path": "Subtitle 005 (V) - Merchant Marine/Part C - Financial Assistance Programs/Chapter 533 - Construction Reserve Funds/§ 53309 - Accumulation of deposits.md",
+   "path": "Subtitle 005 (V) - Merchant Marine/Part C - Financial Assistance Programs/Chapter 533 - Construction Reserve Funds/§ 53308 - Order and proportions of deposits and withdrawals.md",
    "printed_pages": [
     323,
+    324
+   ]
+  },
+  {
+   "id": "46_53309",
+   "marks": [],
+   "path": "Subtitle 005 (V) - Merchant Marine/Part C - Financial Assistance Programs/Chapter 533 - Construction Reserve Funds/§ 53309 - Accumulation of deposits.md",
+   "printed_pages": [
+    324,
     324
    ]
   },
@@ -9660,30 +9696,26 @@
   },
   {
    "id": "46_53311",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 325]",
+     true
+    ]
+   ],
    "path": "Subtitle 005 (V) - Merchant Marine/Part C - Financial Assistance Programs/Chapter 533 - Construction Reserve Funds/§ 53311 - Taxation of deposits on failure of conditions.md",
    "printed_pages": [
     324,
-    324
+    325
    ]
   },
   {
    "id": "46_53312",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       239,
-       "[Page 325]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 005 (V) - Merchant Marine/Part C - Financial Assistance Programs/Chapter 533 - Construction Reserve Funds/§ 53312 - Assessment and collection of deficiency tax.md",
    "printed_pages": [
-    324,
+    325,
     325
    ]
   },
@@ -9700,10 +9732,14 @@
    "id": "46_53501",
    "marks": [
     [
-     "L",
-     86,
-     "[Page 326]",
-     true
+     "I",
+     62,
+     [
+      [
+       139,
+       "[Page 326]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 005 (V) - Merchant Marine/Part C - Financial Assistance Programs/Chapter 535 - Capital Construction Funds/§ 53501 - Definitions.md",
@@ -9714,30 +9750,26 @@
   },
   {
    "id": "46_53502",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     12,
+     "[Page 327]",
+     true
+    ]
+   ],
    "path": "Subtitle 005 (V) - Merchant Marine/Part C - Financial Assistance Programs/Chapter 535 - Capital Construction Funds/§ 53502 - Regulations.md",
    "printed_pages": [
     326,
-    326
+    327
    ]
   },
   {
    "id": "46_53503",
-   "marks": [
-    [
-     "I",
-     8,
-     [
-      [
-       134,
-       "[Page 327]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 005 (V) - Merchant Marine/Part C - Financial Assistance Programs/Chapter 535 - Capital Construction Funds/§ 53503 - Establishing a capital construction fund.md",
    "printed_pages": [
-    326,
+    327,
     327
    ]
   },
@@ -9755,7 +9787,7 @@
    "marks": [
     [
      "L",
-     20,
+     14,
      "[Page 328]",
      true
     ]
@@ -13541,6 +13573,6 @@
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2010-title46 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2011-title46 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 46 - Shipping"
 }

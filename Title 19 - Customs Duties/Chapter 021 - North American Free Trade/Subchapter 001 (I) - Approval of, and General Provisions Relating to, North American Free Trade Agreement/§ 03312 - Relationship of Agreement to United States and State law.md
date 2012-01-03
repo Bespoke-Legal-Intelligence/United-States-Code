@@ -68,13 +68,13 @@ No person other than the United States—
 
 &emsp;&emsp;(B) the North American Agreement on Environmental Cooperation or the North American Agreement on Labor Cooperation; or
 
-&emsp;(2) may challenge, in any action brought under any provision of law, any action or inaction by any department, agency, or other instrumentality of the United States, any State, or any political subdivision of a State on the ground that such action or inaction is inconsistent with the Agreement, the North American Agreement on Environmental Cooperation, or the North American Agreement on Labor Cooperation.
+&emsp;(2) may challenge, in any action brought under any provision of law, any action or inaction by any department, agency, or other instrumentality of the United States, any State,or any political subdivision of a State on the ground that such action or inaction is inconsistent with the Agreement, the North American Agreement on Environmental Cooperation, or the North American Agreement on Labor Cooperation.
 
 (Pub. L. 103–182, title I, §102, Dec. 8, 1993, 107 Stat. 2062.)
 
 #### References in Text
 
-This Act, referred to in subsec. (a)(2), is Pub. L. 103–182, Dec. 8, 1993, 107 Stat. 2057, known as the NorthAmerican Free Trade Agreement Implementation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of this title and Tables.
+This Act, referred to in subsec. (a)(2), is Pub. L. 103–182, Dec. 8, 1993, 107 Stat. 2057, known as the North American Free Trade Agreement Implementation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of this title and Tables.
 
 The Federal Advisory Committee Act, referred to in subsec. (b)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 

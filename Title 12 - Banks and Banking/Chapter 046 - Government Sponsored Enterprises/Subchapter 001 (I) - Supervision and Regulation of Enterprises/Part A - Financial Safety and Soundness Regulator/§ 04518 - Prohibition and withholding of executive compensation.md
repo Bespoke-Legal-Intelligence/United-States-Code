@@ -126,7 +126,7 @@ In carrying out subsection (a) of this section, the Director may not prescribe o
 
 #### Amendments
 
-2008—Pub. L. 110–289, §1113(a)(1), substituted “and withholding of executive” for “of excessive” in section catchline.
+<b>2008</b>—Pub. L. 110–289, §1113(a)(1), substituted “and withholding of executive” for “of excessive” in section catchline.
 
 Subsec. (a). Pub. L. 110–289, §1113(a)(2), substituted “regulated entity” for “enterprise” and “regulated entities” for “enterprises”.
 

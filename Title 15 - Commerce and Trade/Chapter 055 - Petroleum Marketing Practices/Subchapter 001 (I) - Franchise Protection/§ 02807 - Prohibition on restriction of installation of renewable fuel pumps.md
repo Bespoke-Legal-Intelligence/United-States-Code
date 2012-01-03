@@ -26,7 +26,7 @@ In this section:
 
 &emsp;No franchise-related document entered into or renewed on or after December 19, 2007, shall contain any provision allowing a franchisor to restrict the franchisee or any affiliate of the franchisee from—
 
-&emsp;&emsp;(A) installing on the marketing premises of the franchisee a renewable fuel pump ortank, except that the franchisee's franchisor may restrict the installation of a tank on leased marketing premises of such franchisor;
+&emsp;&emsp;(A) installing on the marketing premises of the franchisee a renewable fuel pump or tank, except that the franchisee's franchisor may restrict the installation of a tank on leased marketing premises of such franchisor;
 
 &emsp;&emsp;(B) converting an existing tank or pump on the marketing premises of the franchisee for renewable fuel use, so long as such tank or pump and the piping connecting them are either warranted by the manufacturer or certified by a recognized standards setting organization to be suitable for use with such renewable fuel;
 

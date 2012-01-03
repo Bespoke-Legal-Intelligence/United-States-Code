@@ -110,7 +110,7 @@ Section 2051, Pub. L. 88–582, §15, formerly §12, Sept. 7, 1964, 78 Stat. 924
 
 Section 2052, Pub. L. 88–582, §16, formerly §13, Sept. 7, 1964, 78 Stat. 924, renumbered Pub. L. 93–518, §14(a), Dec. 7, 1974, 88 Stat. 1657, provided for separability of provisions.
 
-Section 2053, Pub. L. 88–582, §17, formerly §14, Sept. 7, 1964, 78 Stat. 924, renumbered and amended Pub. L. 93–518, §§14(a), 16, Dec. 7, 1974, 88 Stat. 1657, 1659, authorized issuance of rules and regulations.
+Section 2053, Pub. L. 88–582, §17, formerly §14, Sept. 7, 1964, 78 Stat. 924, renumbered and amended Pub. L.93–518, §§14(a), 16, Dec. 7, 1974, 88 Stat. 1657, 1659, authorized issuance of rules and regulations.
 
 Section 2054, Pub. L. 88–582, §18, as added Pub. L. 93–518, §15, Dec. 7, 1974, 88 Stat. 1658, related to waiver of rights.
 

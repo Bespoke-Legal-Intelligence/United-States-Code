@@ -28,7 +28,7 @@ Section 1 of Pub. L. 92–426 provided: “That this Act \[enacting this chapter
 
 #### Transfer of Functions
 
-For transfer of authority of Board of Regents of Uniformed Services University of the Health Sciences toSecretary of Defense, see section 8091 of Pub. L. 101–511, set out as a note under section 2113 of this title.
+For transfer of authority of Board of Regents of Uniformed Services University of the Health Sciences to Secretary of Defense, see section 8091 of Pub. L. 101–511, set out as a note under section 2113 of this title.
 
 #### Continuation of Uniformed Services University of the Health Sciences
 

@@ -52,13 +52,13 @@ For repeal of section effective Oct. 1, 1998, and subsequent reenactment of sect
 
 #### Amendments
 
-2005—Subsec. (a)(2). Pub. L. 109–8, §1003(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “provide for the full payment, in deferred cash payments, of all claims entitled to priority under section 507 of this title, unless the holder of a particular claim agrees to a different treatment of such claim;”.
+<b>2005</b>—Subsec. (a)(2). Pub. L. 109–8, §1003(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “provide for the full payment, in deferred cash payments, of all claims entitled to priority under section 507 of this title, unless the holder of a particular claim agrees to a different treatment of such claim;”.
 
 Subsec. (a)(4). Pub. L. 109–8, §213(3), added par. (4).
 
 Subsec. (b)(11), (12). Pub. L. 109–8, §213(4), added par. (11) and redesignated former par. (11) as (12).
 
-1994—Subsec. (d). Pub. L. 103–394 added subsec. (d).
+<b>1994</b>—Subsec. (d). Pub. L. 103–394 added subsec. (d).
 
 #### Effective Date of 2005 Amendment
 

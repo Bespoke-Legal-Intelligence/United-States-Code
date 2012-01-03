@@ -44,7 +44,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) the private foundation and all disqualified persons together do not own more than 35 percent of the voting stock of an incorporated business enterprise, and
 
-&emsp;&emsp;&emsp;(ii) it is established to the satisfaction of the Secretary that effective control of the corporation is in one or more persons whoare not disqualified persons with respect to the foundation,
+&emsp;&emsp;&emsp;(ii) it is established to the satisfaction of the Secretary that effective control of the corporation is in one or more persons who are not disqualified persons with respect to the foundation,
 
 > &emsp;&emsp;then subparagraph (A) shall be applied by substituting 35 percent for 20 percent.
 
@@ -92,7 +92,7 @@ For purposes of this section—
 
 &emsp;(iii) For purposes of this subparagraph, the term “second phase” means the 15-year period immediately following the 20-year, 15-year, or 10-year period described in subparagraph (B), whichever applies, as modified by subparagraph (C).
 
-&emsp;(E) Clause (ii) of subparagraph (B) shall not apply with respect to any business enterpriseif before January 1, 1971, one or more individuals who are substantial contributors (or members of the family (within the meaning of section 4946(d)) of one or more substantial contributors) to the private foundation and who on May 26, 1969, held more than 15 percent of the voting stock of the enterprise elect, in such manner as the Secretary may by regulations prescribe, not to have such clause (ii) apply with respect to such enterprise.
+&emsp;(E) Clause (ii) of subparagraph (B) shall not apply with respect to any business enterprise if before January 1, 1971, one or more individuals who are substantial contributors (or members of the family (within the meaning of section 4946(d)) of one or more substantial contributors) to the private foundation and who on May 26, 1969, held more than 15 percent of the voting stock of the enterprise elect, in such manner as the Secretary may by regulations prescribe, not to have such clause (ii) apply with respect to such enterprise.
 
 #### (5) Holdings acquired by trust or will
 
@@ -242,7 +242,7 @@ For purposes of this section—
 
 #### (A) Type III supporting organization
 
-&emsp;&emsp;The term “type III supporting organization” means an organization which meets the requirements of subparagraphs (A) and\(C) of section 509(a)(3) and which is operated in connection with one or more organizations described in paragraph (1) or (2) of section 509(a).
+&emsp;&emsp;The term “type III supporting organization” means an organization which meets the requirements of subparagraphs (A) and (C) of section 509(a)(3) and which is operated in connection with one or more organizations described in paragraph (1) or (2) of section 509(a).
 
 #### (B) Functionally integrated type III supporting organization
 

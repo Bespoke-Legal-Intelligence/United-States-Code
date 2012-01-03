@@ -14,7 +14,7 @@ As used in this section—
 
 #### (3) Telecommunications relay services
 
-&emsp;The term “telecommunications relay services” means telephone transmission servicesthat provide the ability for an individual who is deaf, hard of hearing, deaf-blind, or who has a speech disability to engage in communication by wire or radio with one or more individuals, in a manner that is functionally equivalent to the ability of a hearing individual who does not have a speech disability to communicate using voice communication services by wire or radio.
+&emsp;The term “telecommunications relay services” means telephone transmission services that provide the ability for an individual who is deaf, hard of hearing, deaf-blind, or who has a speech disability to engage in communication by wire or radio with one or more individuals, in a manner that is functionally equivalent to the ability of a hearing individual who does not have a speech disability to communicate using voice communication services by wire or radio.
 
 #### (b) Availability of telecommunications relay services
 
@@ -32,7 +32,7 @@ Each common carrier providing telephone voice transmission services shall, not l
 
 &emsp;(1) with respect to intrastate telecommunications relay services in any State that does not have a certified program under subsection (f) of this section and with respect to interstate telecommunications relay services, if such common carrier (or other entity through which the carrier is providing such relay services) is in compliance with the Commission's regulations under subsection (d) of this section; or
 
-&emsp;(2) with respect to intrastate telecommunications relay services in any State that has a certified program under subsection (f) of this section for such State, if such common carrier (or other entity through which the carrier is providing such relay services) is in compliance with the program certified under subsection (f) of this section for such State.
+&emsp;(2) with respect to intrastate telecommunications relay services in any State that has acertified program under subsection (f) of this section for such State, if such common carrier (or other entity through which the carrier is providing such relay services) is in compliance with the program certified under subsection (f) of this section for such State.
 
 #### (d) Regulations
 
@@ -119,6 +119,10 @@ Each common carrier providing telephone voice transmission services shall, not l
 &emsp;&emsp;(B) the Commission determines that such State program is no longer qualified for certification under subsection (f) of this section.
 
 (June 19, 1934, ch. 652, title II, §225, as added Pub. L. 101–336, title IV, §401(a), July 26, 1990, 104 Stat. 366; amended Pub. L. 104–104, §3(d)(1), Feb. 8, 1996, 110 Stat. 61; Pub. L. 111–260, title I, §103(a), Oct. 8, 2010, 124 Stat. 2755.)
+
+#### References in Text
+
+This chapter, referred to in subsec. (b)(2), was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
 #### Amendments
 

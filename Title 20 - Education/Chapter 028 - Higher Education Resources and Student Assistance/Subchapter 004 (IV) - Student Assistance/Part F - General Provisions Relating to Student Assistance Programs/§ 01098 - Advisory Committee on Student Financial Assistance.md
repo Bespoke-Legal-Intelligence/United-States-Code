@@ -24,7 +24,7 @@
 
 #### (b) Independence of Advisory Committee
 
-In the exercise of its functions, powers, and duties, the Advisory Committee shall be independent of the Secretary and the other offices and officers of the Department. Notwithstanding Department of Education policies and regulations, the Advisory Committee shall exert independent control of its budget allocations, expenditures and staffing levels, personnel decisions and processes, procurements, and other administrative and management functions. The Advisory Committee's administration and management shall be subject to the usual and customary Federal audit procedures. Reports, publications, and other documents of the Advisory Committee, including such reports, publications, and documents in electronic form, shall not be subject to review by the Secretary. The recommendations of the Committee shall not be subject to review or approval by any officer in the executive branch, but may be submitted to the Secretary for comment prior to submission to the authorizing committees in accordance with subsection (f) of this section. The Secretary's authority to terminate advisory committees of the Department pursuant to section 1233g(b) <sup>1</sup> of this title ceased to be effective on June 23, 1983.
+In the exercise of its functions, powers, and duties, the Advisory Committee shall be independent of the Secretary and the other offices and officers of the Department. Notwithstanding Department of Education policies and regulations, the Advisory Committee shall exert independent control of its budget allocations, expenditures and staffing levels, personnel decisions and processes, procurements, and other administrative and management functions. The Advisory Committee's administration and management shall be subject to the usual and customary Federal audit procedures. Reports, publications, and other documents of the Advisory Committee, including such reports, publications, and documents in electronic form, shall not be subject to review by the Secretary. The recommendations of the Committee shall not be subject to review or approval by any officer in the executive branch, but may be submitted tothe Secretary for comment prior to submission to the authorizing committees in accordance with subsection (f) of this section. The Secretary's authority to terminate advisory committees of the Department pursuant to section 1233g(b) <sup>1</sup> of this title ceased to be effective on June 23, 1983.
 
 #### (c) Membership
 
@@ -82,7 +82,7 @@ The Advisory Committee shall—
 
 > as designated at the time of appointment by the Secretary.
 
-(2) Any member appointed to fill a vacancy occurring prior to the expiration of the term of a predecessor shall be appointed only for the remainder of such term. A member of the Advisory Committee serving on August 14, 2008, shallbe permitted to serve the duration of the member's term, regardless of whether the member was previously appointed to more than one term.
+(2) Any member appointed to fill a vacancy occurring prior to the expiration of the term of a predecessor shall be appointed only for the remainder of such term. A member of the Advisory Committee serving on August 14, 2008, shall be permitted to serve the duration of the member's term, regardless of whether the member was previously appointed to more than one term.
 
 (3) No officers or full-time employees of the Federal Government shall serve as members of the Advisory Committee.
 
@@ -296,7 +296,7 @@ Subsec. (g). Pub. L. 105–244, §490C(3), substituted “Members of the Advisor
 
 “(2) Members of the Advisory Committee who are not officers or full-time employees of the United States may each”.
 
-Subsec. (h)(1). Pub. L. 105–244, §490C(4), inserted “determined” after “as may be” and inserted at end “The Advisory Committee may appoint not more than 1 full-time equivalent, nonpermanent, consultant without regard to the provisions of title 5. The Advisory Committee shall not be required by the Secretary to reduce personnel to meet agency personnel reduction goals.”
+Subsec. (h)(1). Pub. L. 105–244, §490C(4), inserted “determined” after “as may be” and inserted at end “TheAdvisory Committee may appoint not more than 1 full-time equivalent, nonpermanent, consultant without regard to the provisions of title 5. The Advisory Committee shall not be required by the Secretary to reduce personnel to meet agency personnel reduction goals.”
 
 Subsec. (i). Pub. L. 105–244, §490C(5), substituted “$800,000” for “$750,000”.
 

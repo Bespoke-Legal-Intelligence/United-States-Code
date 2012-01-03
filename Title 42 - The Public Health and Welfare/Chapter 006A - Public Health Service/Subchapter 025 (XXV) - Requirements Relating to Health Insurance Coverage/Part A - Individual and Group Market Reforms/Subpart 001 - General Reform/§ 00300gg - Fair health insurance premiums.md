@@ -48,7 +48,7 @@
 
 #### Prior Provisions
 
-A prior section 300gg, act July 1, 1944, ch. 373, title XXVII, §2701, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1955; amended Pub. L. 111–3, title III, §311(b)(2), Feb. 4, 2009, 123 Stat. 70; Pub. L. 111–5, div. B, title I, §1899D(c), Feb. 17, 2009, 123 Stat. 426; Pub. L. 111–344, title I, §114(c), Dec. 29, 2010, 124 Stat. 3615, was renumbered section 2704 of act July 1, 1944, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by Pub. L. 111–148, title I, §§1201(2), 1563(c)(1), formerly §1562(c)(1), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911, and was transferred to section 300gg–3 of this title. Prior to amendment and transfer by Pub. L. 111–148, text of section 300gg read as follows:
+A prior section 300gg, act July 1, 1944, ch. 373, title XXVII, §2701, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1955; amended Pub. L. 111–3, title III, §311(b)(2), Feb. 4, 2009, 123 Stat. 70; Pub. L. 111–5, div. B, title I, §1899D(c), Feb. 17, 2009, 123 Stat. 426; Pub. L. 111–344, title I, §114(c), Dec. 29, 2010, 124 Stat. 3615; Pub. L. 112–40, title II, §242(a)(3), Oct. 21, 2011, 125 Stat. 419, was renumbered section 2704 of act July 1, 1944, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by Pub. L. 111–148, title I, §§1201(2), 1563(c)(1), formerly §1562(c)(1), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911, and was transferred to section 300gg–3 of this title. Prior to amendment and transfer by Pub. L. 111–148, text of section 300gg read as follows:
 
 “(a)
 
@@ -136,7 +136,7 @@ Waiting period not treated as a break in coverage.—For purposes of subparagrap
 
 &emsp;&emsp;“(C) TAA
 
-\-eligible individuals.—In the case of plan years beginning before February 13, 2011—
+\-eligible individuals.—In the case of plan years beginning before January 1, 2014—
 
 &emsp;&emsp;&emsp;“(i) TAA
 
@@ -326,7 +326,7 @@ In general.—Each employer that maintains a group health plan in a State that p
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II)
 
-Option to provide concurrent with provision of plan materials to employee.—An employer may provide the model notice applicable to the State in which an employee resides concurrent with the furnishing of materials notifying the employee of health plan eligibility,concurrent with materials provided to the employee in connection with an open season or election process conducted under the plan, or concurrent with the furnishing of the summary plan description as provided in section 1024(b) of title 29.
+Option to provide concurrent with provision of plan materials to employee.—An employer may provide the model notice applicable to the State in which an employee resides concurrent with the furnishing of materials notifying the employee of health plan eligibility, concurrent with materials provided to the employee in connection with an open season or election process conducted under the plan, or concurrent with the furnishing of the summary plan description as provided in section 1024(b) of title 29.
 
 &emsp;&emsp;&emsp;“(ii)
 
@@ -372,7 +372,7 @@ Another prior section 2701 of act July 1, 1944, was successively renumbered by s
 
 #### Effective Date
 
-Pub. L. 111–148, title I, §1255, formerly §1253, title X, §10103(e), (f)(1), Mar. 23, 2010, 124 Stat. 162, 895, provided that: “This subtitle \[subtitle C (§§1201–1255) of title I of Pub. L. 111–148, enacting subchapter II of chapter 157 of this title and sections 300gg to 300gg–2 and 300gg–4 to 300gg–7 of this title, and amending sections 300gg–1 and 300gg–4 of this title and transferring former section 300gg of this title to section 300gg–3 of this title\] (and the amendments made by this subtitle) shall become effective for plan years beginning on or after January 1, 2014, except that—
+Pub. L. 111–148, title I, §1255, formerly §1253, title X, §10103(e), (f)(1), Mar. 23, 2010, 124 Stat. 162, 895, providedthat: “This subtitle \[subtitle C (§§1201–1255) of title I of Pub. L. 111–148, enacting subchapter II of chapter 157 of this title and sections 300gg to 300gg–2 and 300gg–4 to 300gg–7 of this title, and amending sections 300gg–1 and 300gg–4 of this title and transferring former section 300gg of this title to section 300gg–3 of this title\] (and the amendments made by this subtitle) shall become effective for plan years beginning on or after January 1, 2014, except that—
 
 &emsp;“(1) section 1251 \[enacting section 18011 of this title\] shall take effect on the date of enactment of this Act \[Mar. 23, 2010\]; and
 
@@ -460,7 +460,7 @@ Findings Relating to Exercise of Commerce Clause Authority.—Congress finds the
 
 “(b)
 
-Severability.—If any provision of this title or the application of such provision to any person or circumstance is held to be unconstitutional, the remainder of this title and the application of the provisions of such to any person or circumstance shall not be affected thereby.”
+Severability.—If any provision of this title or the application of such provision to any person or circumstance is held to be unconstitutional, the remainder of this title and the application of the provisions ofsuch to any person or circumstance shall not be affected thereby.”
 
 #### Health Coverage Availability Studies
 

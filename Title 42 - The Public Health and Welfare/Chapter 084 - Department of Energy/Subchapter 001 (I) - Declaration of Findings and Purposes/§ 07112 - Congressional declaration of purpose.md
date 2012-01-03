@@ -22,13 +22,13 @@ The Congress therefore declares that the establishment of a Department of Energy
 
 &emsp;(6) To place major emphasis on the development and commercial use of solar, geothermal, recycling and other technologies utilizing renewable energy resources.
 
-&emsp;(7) To continue and improve the effectiveness and objectivity of a central energy data collection and analysis program within the Department.
+&emsp;(7) To continue and improve the effectiveness and objectivity of a central energy datacollection and analysis program within the Department.
 
 &emsp;(8) To facilitate establishment of an effective strategy for distributing and allocating fuels in periods of short supply and to provide for the administration of a national energy supply reserve.
 
 &emsp;(9) To promote the interests of consumers through the provision of an adequate and reliable supply of energy at the lowest reasonable cost.
 
-&emsp;(10) To establish and implement through the Department, in coordination with the Secretaries of State, Treasury, and Defense, policies regarding international energy issues that have a direct impact on research, development, utilization, supply, and conservation ofenergy in the United States and to undertake activities involving the integration of domestic and foreign policy relating to energy, including provision of independent technical advice to the President on international negotiations involving energy resources, energy technologies, or nuclear weapons issues, except that the Secretary of State shall continue to exercise primary authority for the conduct of foreign policy relating to energy and nuclear nonproliferation, pursuant to policy guidelines established by the President.
+&emsp;(10) To establish and implement through the Department, in coordination with the Secretaries of State, Treasury, and Defense, policies regarding international energy issues that have a direct impact on research, development, utilization, supply, and conservation of energy in the United States and to undertake activities involving the integration of domestic and foreign policy relating to energy, including provision of independent technical advice to the President on international negotiations involving energy resources, energy technologies, or nuclear weapons issues, except that the Secretary of State shall continue to exercise primary authority for the conduct of foreign policy relating to energy and nuclear nonproliferation, pursuant to policy guidelines established by the President.
 
 &emsp;(11) To provide for the cooperation of Federal, State, and local governments in the development and implementation of national energy policies and programs.
 

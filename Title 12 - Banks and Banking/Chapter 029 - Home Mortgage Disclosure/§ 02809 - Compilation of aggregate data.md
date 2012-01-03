@@ -6,13 +6,13 @@ Beginning with data for calendar year 1980, the Federal Financial Institutions E
 
 #### (b) Staff and data processing resources
 
-The Board shall provide staff and data processing resources to the Council to enable it to carry out the provisions of subsection (a) of this section.
+The Bureau shall provide staff and data processing resources to the Council to enable it to carry out the provisions of subsection (a) of this section.
 
 #### (c) Availability to public
 
 The data and tables required pursuant to subsection (a) of this section shall be made available to the public by no later than December 31 of the year following the calendar year on which the data is based.
 
-(Pub. L. 94–200, title III, §310, as added Pub. L. 96–399, title III, §340(c), Oct. 8, 1980, 94 Stat. 1658; amended Pub. L. 98–181, title VII, §701(a), Nov. 30, 1983, 97 Stat. 1266.)
+(Pub. L. 94–200, title III, §310, as added Pub. L. 96–399, title III, §340(c), Oct. 8, 1980, 94 Stat. 1658; amended Pub. L. 98–181, title VII, §701(a), Nov. 30, 1983, 97 Stat. 1266; Pub. L. 111–203, title X, §1094(1), July 21, 2010, 124 Stat. 2097.)
 
 #### Prior Provisions
 
@@ -20,5 +20,11 @@ A prior section 2809, Pub. L. 94–200, title III, §310, Dec. 31, 1975, 89 Stat
 
 #### Amendments
 
-1983—Subsec. (a). Pub. L. 98–181 substituted “primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas” for “standard metropolitan statistical areas” in two places.
+<b>2010</b>—Subsec. (b). Pub. L. 111–203 substituted “Bureau” for “Board”.
+
+<b>1983</b>—Subsec. (a). Pub. L. 98–181 substituted “primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas” for “standard metropolitan statistical areas” in two places.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 

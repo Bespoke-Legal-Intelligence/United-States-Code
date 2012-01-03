@@ -26,7 +26,7 @@ As used in this section, the term “net savings” means, for any period, the b
 
 #### (d) Cooperatives eligible for other Federal credit assistance
 
-An eligible cooperative which also has been determined to be eligible for credit assistance from the Rural Electrification Administration, the National Rural Utilities Cooperative Finance Corporation, the Rural Telephone Bank, the Banks for Cooperatives or other institutions of the Farm Credit System, or the Farmers Home Administration may receive the assistance authorized by this chapter only (1) if the Bank determines that a request for assistance from any such source or sources has been rejected or denied solely because of the unavailability of funds from such source or sources, or (2) by agreement between the Bank and the agency or agencies involved.
+An eligible cooperative which also has been determined to be eligible for credit assistance from the Rural Electrification Administration, the National Rural Utilities Cooperative Finance Corporation, the Rural Telephone Bank, the Banks for Cooperatives or other institutionsof the Farm Credit System, or the Farmers Home Administration may receive the assistance authorized by this chapter only (1) if the Bank determines that a request for assistance from any such source or sources has been rejected or denied solely because of the unavailability of funds from such source or sources, or (2) by agreement between the Bank and the agency or agencies involved.
 
 #### (e) Credit unions eligible for technical assistance from Office of Self-Help Development and Technical Assistance
 
@@ -40,7 +40,7 @@ All subchapters of this chapter, referred to in subsec. (a), was in the original
 
 #### Amendments
 
-1981—Subsec. (a). Pub. L. 97–35, §394(e)(1), substituted “primarily owned” for “entirely owned”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35, §394(e)(1), substituted “primarily owned” for “entirely owned”.
 
 Subsec. (a)(5). Pub. L. 97–35, §394(f), inserted provisions relating to exception for housing cooperatives in existence on Mar. 21, 1980.
 

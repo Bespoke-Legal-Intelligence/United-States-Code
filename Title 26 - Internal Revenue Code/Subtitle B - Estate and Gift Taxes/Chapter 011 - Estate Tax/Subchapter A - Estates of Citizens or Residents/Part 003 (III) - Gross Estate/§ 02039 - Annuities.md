@@ -44,7 +44,7 @@ Pub. L. 97–34, §311(h)(4), substituted “section 219” for “section 219 o
 
 <b>1980</b>—Subsec. (f)(2). Pub. L. 96–222 substituted “(without the application of paragraph (2) thereof), except to the extent that section 402(e)(4)(J) applies to such distribution” for “without the application of paragraph (2) thereof”.
 
-<b>1978</b>—Subsec. (c). Pub. L. 95–600, §142(a), substituted “(other than an amount described in subsection (f))” for “(other than a lump sum distribution described in section 402(e)(4), determined without regard to the next to the last sentence of section 402(e)(4)(A))” in provisions preceding par. (1).
+<b>1978</b>—Subsec. (c). Pub. L. 95–600, §142(a), substituted “(other than an amount described in subsection (f))”for “(other than a lump sum distribution described in section 402(e)(4), determined without regard to the next to the last sentence of section 402(e)(4)(A))” in provisions preceding par. (1).
 
 Subsec. (e). Pub. L. 95–600, §§156(c)(4), 702(j)(1), inserted “section 403(b)(8) (but only to the extent such contribution is attributed to a distribution from a contract described in subsection (c)(3)),” after “403(a)(4)” and inserted “or 220” after “section 219” wherever appearing in provisions following par. (3).
 
@@ -72,7 +72,7 @@ Subsec. (c)(3) and closing sentences. Pub. L. 85–866, §23(e), added par. (3),
 
 Section 1852(e)(1)(B) of Pub. L. 99–514 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply to estates of decedents dying after the date of the enactment of this Act \[Oct. 22, 1986\].”
 
-Amendment by section 1848(d) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369,div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by section 1848(d) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -118,7 +118,7 @@ Amendment by section 313(b)(3) of Pub. L. 97–34 applicable to redemptions afte
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–222 applicable with respect to the estates of decedents dying after Apr. 1, 1980, see section 101(b)(1)(D) of Pub. L. 96–222, set out as a note under section 691 of this title.
+Amendment by Pub. L. 96–222 applicable with respect to the estates of decedents dying after Apr. 1, 1980, seesection 101(b)(1)(D) of Pub. L. 96–222, set out as a note under section 691 of this title.
 
 #### Effective Date of 1978 Amendment
 

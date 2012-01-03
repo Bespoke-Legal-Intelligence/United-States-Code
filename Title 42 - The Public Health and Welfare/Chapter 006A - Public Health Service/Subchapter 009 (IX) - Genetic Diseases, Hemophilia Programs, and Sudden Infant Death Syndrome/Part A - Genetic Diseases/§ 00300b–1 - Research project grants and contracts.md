@@ -26,7 +26,7 @@ Authority to conduct demonstration program.—
 
 &emsp;“(A)
 
-In general.—The Administrator, through the Bureau of Primary Health Care and the Maternal and Child Health Bureau, shall conduct a demonstration program by making grants to up to 40 eligible entities for each fiscal year in which the program is conducted under this section \[probably means this subsection\] for the purpose of developing and establishing systemic mechanisms to improve the preventionand treatment of Sickle Cell Disease, including through—
+In general.—The Administrator, through the Bureau of Primary Health Care and the Maternal and Child Health Bureau, shall conduct a demonstration program by making grants to up to 40 eligible entities for each fiscal year in which the program is conducted under this section \[probably means this subsection\] for the purpose of developing and establishing systemic mechanisms to improve the prevention and treatment of Sickle Cell Disease, including through—
 
 &emsp;&emsp;“(i) the coordination of service delivery for individuals with Sickle Cell Disease;
 

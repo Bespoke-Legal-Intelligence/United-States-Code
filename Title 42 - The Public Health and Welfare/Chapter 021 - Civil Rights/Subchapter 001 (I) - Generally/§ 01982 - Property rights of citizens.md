@@ -16,7 +16,7 @@ Ex. Ord. No. 11063, Nov. 20, 1962, 27 F.R. 11527, as amended by Ex. Ord. No. 122
 
 WHEREAS the granting of Federal assistance for the provision, rehabilitation, or operation of housing and related facilities from which Americans are excluded because of their race, color, creed, or national origin is unfair, unjust, and inconsistent with the public policy of the United States as manifested in its Constitution and laws; and
 
-WHEREAS the Congress in the Housing Act of 1949 \[see Short Title note set out under section 1441 of this title\] has declared that the general welfare and security of the Nation and the health and living standards of its people require the realization as soon as feasible of the goal of a decent home and a suitable living environment for every American family; and
+WHEREAS the Congress in the Housing Act of 1949 \[see Short Title note set out under section 1441 of thistitle\] has declared that the general welfare and security of the Nation and the health and living standards of its people require the realization as soon as feasible of the goal of a decent home and a suitable living environment for every American family; and
 
 WHEREAS discriminatory policies and practices based upon race, color, creed, or national origin now operate to deny many Americans the benefits of housing financed through Federal assistance and as a consequence prevent such assistance from providing them with an alternative to substandard, unsafe, unsanitary, and overcrowded housing; and
 
@@ -62,13 +62,13 @@ It may—
 
 (a) cancel or terminate in whole or in part any agreement or contract with such person, firm, or State or local public agency providing for a loan, grant, contribution, or other Federal aid, or for the payment of a commission or fee;
 
-(b) refrain from extending any further aid under any program administered by it and affected by this orderuntil it is satisfied that the affected person, firm, or State or local public agency will comply with the rules, regulations, and procedures issued or adopted pursuant to this order, and any nondiscrimination provisions included in any agreement or contract;
+(b) refrain from extending any further aid under any program administered by it and affected by this order until it is satisfied that the affected person, firm, or State or local public agency will comply with the rules, regulations, and procedures issued or adopted pursuant to this order, and any nondiscrimination provisions included in any agreement or contract;
 
 (c) refuse to approve a lending institution or any other lender as a beneficiary under any program administered by it which is affected by this order or revoke such approval if previously given.
 
 Sec. 303. In appropriate cases executive departments and agencies shall refer to the Attorney General violations of any rules, regulations, or procedures issued or adopted pursuant to this order, or violations of any nondiscrimination provisions included in any agreement or contract, for such civil or criminal action as he may deem appropriate. The Attorney General is authorized to furnish legal advice concerning this order to the Committee and to any department or agency requesting such advice.
 
-Sec. 304. Any executive department or agency affected by this order may also invoke the sanctions provided in Section 302 where any person or firm, including a lender, has violated the rules, regulations, or procedures issued or adopted pursuant to this order, or the nondiscrimination provisions included in any agreement or contract, with respect to any program affected by this order administered by any other executive department or agency.
+Sec. 304. Any executive department or agency affected by this order may also invoke the sanctions provided in Section 302 where any person or firm, including a lender, has violated the rules, regulations, or procedures issued or adopted pursuant to this order, or thenondiscrimination provisions included in any agreement or contract, with respect to any program affected by this order administered by any other executive department or agency.
 
 #### Part IV—Establishment of the President's Committee on Equal Opportunity in Housing
 

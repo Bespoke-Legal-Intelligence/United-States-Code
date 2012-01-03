@@ -12,17 +12,17 @@
 
 #### Amendments
 
-1996—Pub. L. 104–208, §308(d)(4)(I)(i)(I), amended section catchline.
+<b>1996</b>—Pub. L. 104–208, §308(d)(4)(I)(i)(I), amended section catchline.
 
 Subsec. (a). Pub. L. 104–208, §308(d)(3)(A), (4)(I)(i)(II), substituted “inadmissible” for “excludable” and “condition causing inadmissibility” for “excluding condition”.
 
 Subsec. (c). Pub. L. 104–208, §308(d)(4)(I)(i)(III), struck out “excluding” after “exemption from the”.
 
-1994—Subsec. (a). Pub. L. 103–416 struck out comma after “every alien so afflicted”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–416 struck out comma after “every alien so afflicted”.
 
-1991—Subsec. (a). Pub. L. 102–232 struck out comma before “shall pay”.
+<b>1991</b>—Subsec. (a). Pub. L. 102–232 struck out comma before “shall pay”.
 
-1990—Pub. L. 101–649, §603(a)(15)(D), substituted “exclusion on a health-related ground” for “disability or afflicted with disease” in section catchline.
+<b>1990</b>—Pub. L. 101–649, §603(a)(15)(D), substituted “exclusion on a health-related ground” for “disability or afflicted with disease” in section catchline.
 
 Subsec. (a). Pub. L. 101–649, §603(a)(15)(A), substituted “excludable under section 1182(a)(1) of this title” for “(1) mentally retarded, (2) insane, (3) afflicted with psychopathic personality, or with sexual deviation, (4) a chronic alcoholic, (5) afflicted with any dangerous contagious disease, or (6) a narcotic drug addict” and “the excluding condition” for “such disease or disability”.
 
@@ -38,7 +38,7 @@ Pub. L. 101–649, §543(a)(9)(C), substituted “Commissioner” for “collect
 
 Subsecs. (d), (e). Pub. L. 101–649, §603(a)(15)(C), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 
-1965—Subsec. (a). Pub. L. 89–236 substituted “mentally retarded” for “feeble-minded”, struck out references to epileptics and persons afflicted with tuberculosis and leprosy, and inserted reference to persons afflicted with sexual deviation.
+<b>1965</b>—Subsec. (a). Pub. L. 89–236 substituted “mentally retarded” for “feeble-minded”, struck out references to epileptics and persons afflicted with tuberculosis and leprosy, and inserted reference to persons afflicted with sexual deviation.
 
 #### Effective Date of 1996 Amendment
 

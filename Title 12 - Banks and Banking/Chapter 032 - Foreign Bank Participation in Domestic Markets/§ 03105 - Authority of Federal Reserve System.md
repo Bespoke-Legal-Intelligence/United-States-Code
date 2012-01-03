@@ -2,7 +2,7 @@
 
 #### (a) Bank reserves
 
-(1)(A) Except as provided in paragraph (2) of this subsection, sections 371a, 371b, 371b–1,<sup>1</sup> 374, 374a, 461, 464, and 465 of this title shall apply to every Federal branch and Federal agency of a foreign bank in the same manner and to the same extent as if the Federal branch or Federal agency were a member bank as that term is defined in section 221 of this title; but the Board either by general or specific regulation or ruling may waive the minimum and maximum reserve ratios prescribed under sections 461, 463, 464, 465, and 466 of this title and may prescribe any ratio, not more than 22 per centum, for any obligation of any such Federal branch or Federal agency that the Board may deem reasonable and appropriate, taking into consideration the character of business conducted by such institutions and the need to maintain vigorous and fair competition between and among such institutions and member banks. The Board may impose reserve requirements on Federal branches and Federal agencies in such graduated manner as it deems reasonable and appropriate.
+(1)(A) Except as provided in paragraph (2) of this subsection, sections 371a,<sup>1</sup> 371b, 371b–1,<sup>1</sup> 374, 374a, 461, 464, and 465 of this title shall apply to every Federal branch and Federal agency of a foreign bank in the same manner and to the same extent as if the Federal branch or Federal agency were a member bank as that term is defined in section 221 of this title; but the Board either by general or specific regulation or ruling may waive the minimum and maximum reserve ratios prescribed under sections 461, 463, 464, 465, and 466 of this title and may prescribe any ratio, not more than 22 per centum, for any obligation of any such Federal branch or Federal agency that the Board may deem reasonable and appropriate, taking into consideration the character of business conducted by such institutions and the need to maintain vigorous and fair competition between and among such institutions and member banks. The Board may impose reserve requirements on Federal branches and Federal agencies in such graduated manner as it deems reasonable and appropriate.
 
 (B) After consultation and in cooperation with the State bank supervisory authorities, the Board may make applicable to any State branch or State agency any requirement made applicable to, or which the Board has authority to impose upon, any Federal branch or agency under subparagraph (A) of this paragraph.
 
@@ -22,7 +22,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Board shall coordinate examinations under this paragraph with the Comptroller of the Currency, the Federal Deposit Insurance Corporation, and appropriate State bank supervisors to the extent such coordination is possible.
+&emsp;&emsp;&emsp;The Board shall coordinate examinations under this paragraph with the Comptroller of the Currency, the Federal Deposit Insurance Corporation, and appropriate Statebank supervisors to the extent such coordination is possible.
 
 #### (ii) Simultaneous examinations
 
@@ -66,9 +66,11 @@
 
 &emsp;&emsp;(B) the financial and managerial resources of the foreign bank, including the bank's experience and capacity to engage in international banking;
 
-&emsp;&emsp;(C) whether the foreign bank has provided the Board with adequate assurances that the bank will make available to the Board such information on the operations or activities of the foreign bank and any affiliate of the bank that the Board deems necessary to determine and enforce compliance with this chapter, the Bank Holding Company Act of 1956 \[12 U.S.C. 1841 et seq.\], and other applicable Federal law; and
+&emsp;&emsp;(C) whether the foreign bank has provided the Board with adequate assurances that the bank will make available to the Board such information on the operations or activities of the foreign bank and any affiliate of the bank that the Board deems necessary to determine and enforce compliance with this chapter, the Bank Holding Company Act of 1956 \[12 U.S.C. 1841 et seq.\], and other applicable Federal law;
 
-&emsp;&emsp;(D) whether the foreign bank and the United States affiliates of the bank are in compliance with applicable United States law.
+&emsp;&emsp;(D) whether the foreign bank and the United States affiliates of the bank are in compliance with applicable United States law; and
+
+&emsp;&emsp;(E) for a foreign bank that presents a risk to the stability of United States financial system, whether the home country of the foreign bank has adopted, or is making demonstrable progress toward adopting, an appropriate system of financial regulation for the financial system of such home country to mitigate such risk.
 
 #### (4) Factor
 
@@ -90,7 +92,7 @@
 
 #### (B) Other considerations
 
-&emsp;&emsp;In deciding whether to use its discretion under subparagraph (A), the Board shall also consider whether the foreign bank has adopted and implements procedures to combat money laundering. The Board may also take into account whether the home country of the foreign bank is developing a legal regime to address money laundering or is participating in multilateral efforts to combat money laundering.
+&emsp;&emsp;In deciding whether to use its discretion under subparagraph (A), the Board shall alsoconsider whether the foreign bank has adopted and implements procedures to combat money laundering. The Board may also take into account whether the home country of the foreign bank is developing a legal regime to address money laundering or is participating in multilateral efforts to combat money laundering.
 
 #### (C) Additional conditions
 
@@ -122,11 +124,13 @@
 
 &emsp;&emsp;(A)(i) the foreign bank is not subject to comprehensive supervision or regulation on a consolidated basis by the appropriate authorities in its home country; and
 
-&emsp;&emsp;(ii) the appropriate authorities in the home country of the foreign bank are not making demonstrable progress in establishing arrangements for the comprehensive supervision or regulation of such foreign bank on a consolidated basis; or
+&emsp;&emsp;(ii) the appropriate authorities in the home country of the foreign bank are not making demonstrable progress in establishing arrangements for the comprehensive supervision or regulation of such foreign bank on a consolidated basis;
 
 &emsp;&emsp;(B)(i) there is reasonable cause to believe that such foreign bank, or any affiliate of such foreign bank, has committed a violation of law or engaged in an unsafe or unsound banking practice in the United States; and
 
-&emsp;&emsp;(ii) as a result of such violation or practice, the continued operation of the foreign bank's branch, agency or commercial lending company subsidiary in the United States would not be consistent with the public interest or with the purposes of this chapter, the Bank Holding Company Act of 1956 \[12 U.S.C. 1841 et seq.\], or the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\].
+&emsp;&emsp;(ii) as a result of such violation or practice, the continued operation of the foreign bank's branch, agency or commercial lending company subsidiary in the United States would not be consistent with the public interest or with the purposes of this chapter, the Bank Holding Company Act of 1956 \[12 U.S.C. 1841 et seq.\], or the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\]; or
+
+&emsp;&emsp;(C) for a foreign bank that presents a risk to the stability of the United States financial system, the home country of the foreign bank has not adopted, or made demonstrable progress toward adopting, an appropriate system of financial regulation to mitigate such risk.
 
 > &emsp;However, in making findings under this paragraph, the Board shall not make size the sole determinant factor, and may take into account the needs of the community as well as the length of operation of the foreign bank and its relative size in its home country. Nothing in this paragraph shall affect the ability of the Board to order a State branch, agency, or commercial lending company subsidiary to terminate its activities in the United States pursuant to any standard set forth in this chapter.
 
@@ -144,7 +148,7 @@
 
 #### (5) Recommendation to agency for termination of a Federal branch or agency
 
-&emsp;The Board may transmit to the Comptroller of the Currency a recommendation that the license of any Federal branch or Federal agency of a foreign bank be terminated in accordance with section 3102(i) of this title if the Board has reasonable cause to believe that such foreign bank or any affiliate of such foreign bank has engaged in conduct for which the activities of any State branch or agency may be terminated under paragraph (1).
+&emsp;The Board may transmit to the Comptroller of the Currency a recommendation that the license of any Federal branch or Federal agencyof a foreign bank be terminated in accordance with section 3102(i) of this title if the Board has reasonable cause to believe that such foreign bank or any affiliate of such foreign bank has engaged in conduct for which the activities of any State branch or agency may be terminated under paragraph (1).
 
 #### (6) Enforcement of orders
 
@@ -164,7 +168,7 @@
 
 #### (7) Criteria relating to foreign supervision
 
-&emsp;Not later than 1 year after December 19, 1991, the Board, in consultation with the Secretary of the Treasury, shall develop and publish criteria to be used in evaluating the operation of any foreign bank in the United States that the Board has determined is not subject to comprehensive supervision or regulation ona consolidated basis. In developing such criteria, the Board shall allow reasonable opportunity for public review and comment.
+&emsp;Not later than 1 year after December 19, 1991, the Board, in consultation with the Secretary of the Treasury, shall develop and publish criteria to be used in evaluating the operation of any foreign bank in the United States that the Board has determined is not subject to comprehensive supervision or regulation on a consolidated basis. In developing such criteria, the Board shall allow reasonable opportunity for public review and comment.
 
 #### (f) Judicial review
 
@@ -248,7 +252,7 @@ Not later than 180 days after December 19, 1991, the Board and the Secretary of 
 
 #### (1) Transactions prohibited
 
-&emsp;A branch or agency of a foreign bank shall not manage, through an office of the foreign bank which is located outside the United States and is managed or controlled by such branch or agency, any type of activity that abank organized under the laws of the United States, any State, or the District of Columbia is not permitted to manage at any branch or subsidiary of such bank which is located outside the United States.
+&emsp;A branch or agency of a foreign bank shall not manage, through an office of the foreign bank which is located outside the United States and is managed or controlled by such branch or agency, any type of activity that a bank organized under the laws of the United States, any State, or the District of Columbia is not permitted to manage at any branch or subsidiary of such bank which is located outside the United States.
 
 #### (2) Regulations
 
@@ -258,9 +262,11 @@ Not later than 180 days after December 19, 1991, the Board and the Secretary of 
 
 &emsp;&emsp;(B) shall be uniform, to the extent practicable.
 
-(Pub. L. 95–369, §7, Sept. 17, 1978, 92 Stat. 620; Pub. L. 102–242, title II, §§202(a), 203(a), 214(b), Dec. 19, 1991, 105 Stat. 2286, 2291, 2304; Pub. L. 102–550, title XV, §1507, title XVI, §1604(a)(1), (2), (12), (13), Oct. 28, 1992, 106 Stat. 4056, 4081–4083; Pub. L. 103–328, title I, §107(e)(1), Sept. 29, 1994, 108 Stat. 2360; Pub. L. 104–208, div. A, title II, §2214, Sept. 30, 1996, 110 Stat. 3009–411.)
+(Pub. L. 95–369, §7, Sept. 17, 1978, 92 Stat. 620; Pub. L. 102–242, title II, §§202(a), 203(a), 214(b), Dec. 19, 1991, 105 Stat. 2286, 2291, 2304; Pub. L. 102–550, title XV, §1507, title XVI, §1604(a)(1), (2), (12), (13), Oct. 28, 1992, 106 Stat. 4056, 4081–4083; Pub. L. 103–328, title I, §107(e)(1), Sept. 29, 1994, 108 Stat. 2360; Pub. L. 104–208, div. A, title II, §2214, Sept. 30, 1996, 110 Stat. 3009–411; Pub. L. 111–203, title I, §173(a), (b), July 21, 2010, 124 Stat. 1440.)
 
 #### References in Text
+
+Section 371a of this title, referred to in subsec. (a)(1)(A), was repealed by Pub. L. 111–203, title VI, §627(a)(1), July 21, 2010, 124 Stat. 1640.
 
 Section 371b–1 of this title, referred to in subsec. (a)(1)(A), was repealed by Pub. L. 96–221, title V, §529, Mar. 31, 1980, 94 Stat. 168, subject to a savings provision.
 
@@ -268,17 +274,21 @@ Sections 461, 463, 464, 465, and 466 of this title, referred to in subsec. (a)(1
 
 For definition of “this chapter”, referred to in subsecs. (d)(3)(C), (4) and (e)(1), see References in Text note set out under section 3101 of this title.
 
-The Bank Holding Company Act of 1956, referred to in subsecs. (d)(3)(C) and (e)(1)(B)(ii), is act May 9, 1956, ch. 240, 70 Stat. 133, as amended, which is classified principally to chapter 17 (§1841 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1841 of this title and Tables.
+The Bank Holding Company Act of 1956, referred to in subsecs. (d)(3)(C) and (e)(1)(B)(ii), is act May 9, 1956, ch. 240, 70 Stat. 133, which is classified principally to chapter 17 (§1841 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1841 of this title and Tables.
 
-The Federal Deposit Insurance Act, referred to in subsec. (e)(1)(B)(ii), is act Sept. 21, 1950, ch. 967, §2, 64 Stat. 873, as amended, which is classified generally to chapter 16 (§1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
+The Federal Deposit Insurance Act, referred to in subsec. (e)(1)(B)(ii), is act Sept. 21, 1950, ch. 967, §2, 64 Stat. 873, which is classified generally to chapter 16 (§1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
 
 #### Codification
 
-Section is comprised of section 7 of Pub. L. 95–369. Subsec. (b) of section 7 of Pub. L. 95–369 amended section 347d of this title.
+Section is comprised of section 7 of Pub. L. 95–369. Subsec. (b) of section 7 of Pub. L. 95–369 enacted section 347d of this title.
 
 #### Amendments
 
-1996—Subsec. (c). Pub. L. 104–208, §2214(a)(1), inserted heading.
+<b>2010</b>—Subsec. (d)(3)(E). Pub. L. 111–203, §173(a), added subpar. (E).
+
+Subsec. (e)(1)(C). Pub. L. 111–203, §173(b), added subpar. (C).
+
+<b>1996</b>—Subsec. (c). Pub. L. 104–208, §2214(a)(1), inserted heading.
 
 Subsec. (c)(1)(B)(iii). Pub. L. 104–208, §2214(a)(2), added cl. (iii).
 
@@ -294,9 +304,9 @@ Subsec. (d)(6), (7). Pub. L. 104–208, §2214(b)(3), added pars. (6) and (7).
 
 Subsec. (e)(1)(A). Pub. L. 104–208, §2214(c), designated existing provisions as cl. (i), substituted “and” for “or” at end, and added cl. (ii).
 
-1994—Subsec. (k). Pub. L. 103–328 added subsec. (k).
+<b>1994</b>—Subsec. (k). Pub. L. 103–328 added subsec. (k).
 
-1992—Subsec. (e)(6)(A). Pub. L. 102–550, §1604(a)(1)(A), substituted “against which—
+<b>1992</b>—Subsec. (e)(6)(A). Pub. L. 102–550, §1604(a)(1)(A), substituted “against which—
 
 &emsp;“(i) the Board has issued an order under paragraph (1); or
 
@@ -314,7 +324,7 @@ Subsec. (j). Pub. L. 102–550, §1604(a)(12), made technical amendment to direc
 
 Subsec. (j)(1). Pub. L. 102–550, §1604(a)(13), substituted “Supervisory Committee” for “Supervisory committee”.
 
-1991—Subsec. (c). Pub. L. 102–242, §203(a), added par. (1), inserted heading for par. (2), and struck out former par. (1) which read as follows: “The Board may make examinations of each branch or agency of a foreign bank, and of each commercial lending company or bank controlled by one or more foreign banks or by one or more foreign companies that control a foreign bank, the cost of which shall be assessed against and paid by such foreign bank or company, as the case may be. The Board shall, insofar as possible, use the reports of examinations made by the Comptroller, the Federal Deposit Insurance Corporation, or the appropriate State bank supervisory authority for the purposes of this subsection.”
+<b>1991</b>—Subsec. (c). Pub. L. 102–242, §203(a), added par. (1), inserted heading for par. (2), and struck out former par. (1) which read as follows: “The Board may make examinations of each branch or agency of a foreign bank, and of each commercial lending company or bank controlled by one or more foreign banks or by one or more foreign companies that control a foreign bank, the cost of which shall be assessed against and paid by such foreign bank or company, as the case may be. The Board shall, insofar as possible, use the reports of examinations made by the Comptroller, the Federal Deposit Insurance Corporation, or the appropriate State bank supervisory authority for the purposes of this subsection.”
 
 Subsecs. (d) to (h). Pub. L. 102–242, §202(a), added subsecs. (d) to (h) and struck out former subsec. (d) which read as follows: “On or before two years after September 17, 1978, the Board after consultation with the appropriate State bank supervisory authorities shall report to the Committee on Banking, Finance and Urban Affairs of the United States House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the United States Senate its recommendations with respect to the implementation of this chapter, including any recommended requirements such as limitations on loans to affiliates or capital adequacy requirements which should be imposed on foreign banks to carry out the purposes of this chapter. Not later than one hundred and eighty days after September 17, 1978, the Board shall report to such Committees the steps which have been taken to consult and cooperate with State bank supervisory authorities as required by subsection (a)(1)(B) of this section.”
 
@@ -323,6 +333,10 @@ Subsec. (j). Pub. L. 102–242, §214(b), as amended by Pub. L. 102–550, §160
 #### Change of Name
 
 Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of this title.
 
 #### Effective Date of 1994 Amendment
 

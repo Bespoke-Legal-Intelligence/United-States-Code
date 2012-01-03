@@ -2,7 +2,7 @@
 
 #### (a) Selection criteria for State educational agencies
 
-The Secretary shall award grants to State educational agencies under this subpart on the basis of the quality of the applications submitted under section 7221b(b) of this title, after taking into consideration such factors as—
+The Secretary shall award grants to State educational agencies under this subpart on thebasis of the quality of the applications submitted under section 7221b(b) of this title, after taking into consideration such factors as—
 
 &emsp;(1) the contribution that the charter schools grant program will make to assisting educationally disadvantaged and other students in meeting State academic content standards and State student academic achievement standards;
 
@@ -20,7 +20,7 @@ The Secretary shall award grants to State educational agencies under this subpar
 
 #### (b) Selection criteria for eligible applicants
 
-The Secretary shall award grants to eligible applicants under this subpart on the basis of thequality of the applications submitted under section 7221b(c) of this title, after taking into consideration such factors as—
+The Secretary shall award grants to eligible applicants under this subpart on the basis of the quality of the applications submitted under section 7221b(c) of this title, after taking into consideration such factors as—
 
 &emsp;(1) the quality of the proposed curriculum and instructional practices;
 

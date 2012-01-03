@@ -16,13 +16,13 @@ The Office may make advances to pay all or part of the interest payable to the B
 
 #### (c) Interest rate applicable to advances
 
-Capital investment advances made by the Office pursuant to subsection (a) of this section and interest supplement advances made by the Office pursuant to subsection (b) of this section shall bear interest at a rate determined by the Board of Directors of the Bank, and the Board of Directors may authorize an interest rate applicable to such advances lower than the rate applicable to loans by the Bank pursuant to section 3018 of this title.
+Capital investment advances made by the Office pursuant to subsection (a) of this section and interest supplement advances made by the Office pursuant to subsection (b) of this section shall bear interest at a rate determined by the Board of Directors of the Bank, and the Board ofDirectors may authorize an interest rate applicable to such advances lower than the rate applicable to loans by the Bank pursuant to section 3018 of this title.
 
 (Pub. L. 95–351, title II, §203, Aug. 20, 1978, 92 Stat. 512; Pub. L. 97–35, title III, §396(g), Aug. 13, 1981, 95 Stat. 440.)
 
 #### Amendments
 
-1981—Subsecs. (a), (b). Pub. L. 97–35 struck out references to the Account wherever appearing.
+<b>1981</b>—Subsecs. (a), (b). Pub. L. 97–35 struck out references to the Account wherever appearing.
 
 #### Effective Date of 1981 Amendment
 

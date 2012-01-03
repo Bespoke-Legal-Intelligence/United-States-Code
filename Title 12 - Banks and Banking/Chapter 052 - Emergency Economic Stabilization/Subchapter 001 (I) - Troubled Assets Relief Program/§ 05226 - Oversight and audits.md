@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(G) The efforts of the TARP to prevent, identify, and minimize conflicts of interest involving any agent or representative performing activities on behalf of or under the authority of the TARP.
 
-&emsp;&emsp;(H) The efficacy of contracting procedures pursuant to section 5217(b) of this title, including, as applicable, the efforts of the TARP in evaluating proposals for inclusion and contracting to the maximum extent possible of minorities (as such term is defined in 1204(c) <sup>2</sup> of the Financial Institutions Reform, Recovery, and Enhancement Act of 1989 <sup>3</sup> (12 U.S.C. 1811 note), women, and minority- and women-owned businesses, including ascertaining and reporting the total amount of fees paid and other value delivered by the TARP to all of its agents and representatives, and such amounts paid or delivered to such firms that are minority- and women-owned businesses (as such terms are defined in section 1441a of this title).
+&emsp;&emsp;(H) The efficacy of contracting procedures pursuant to section 5217(b) of this title, including, as applicable, the efforts of the TARP in evaluating proposals for inclusion and contracting to the maximum extent possible of minorities (as such term is defined in 1204(c) <sup>2</sup> of the Financial Institutions Reform, Recovery, and Enhancement Act of 1989 <sup>3</sup> (12 U.S.C. 1811 note), women, and minority- and women-owned businesses, including ascertaining and reporting the total amount of fees paid and other value delivered by the TARP to all of its agents and representatives, and such amounts paid or delivered to such firms that are minority- and women-owned businesses (as such terms are defined in section 1441a <sup>3</sup> of this title).
 
 #### (2) Conduct and administration of oversight
 
@@ -86,7 +86,7 @@
 
 #### (1) Annual audit
 
-&emsp;The TARP shall annually prepare and issue to the appropriate committees of Congress and the public audited financial statements prepared in accordance with generally accepted accounting principles, and the Comptroller General shall annually audit such statements in accordance with generally accepted auditing standards. The Treasury shall reimburse the Government Accountability Office for the full cost of any such audit as billed therefor by the Comptroller General. Such reimbursements shall be credited to the appropriation account “Salaries and Expenses, Government Accountability Office” current when the payment is received and remain available until expended. The financial statements prepared under this paragraph shall be on the fiscal year basis prescribed under section 1102 of title 31.
+&emsp;The TARP shall annually prepare and issue to the appropriate committees of Congress and the public audited financial statements prepared in accordance with generally accepted accounting principles, and the Comptroller General shall annually audit such statements in accordance with generally accepted auditing standards. The Treasury shall reimburse the Government Accountability Office for the full cost of any such audit as billed therefor bythe Comptroller General. Such reimbursements shall be credited to the appropriation account “Salaries and Expenses, Government Accountability Office” current when the payment is received and remain available until expended. The financial statements prepared under this paragraph shall be on the fiscal year basis prescribed under section 1102 of title 31.
 
 #### (2) Authority
 
@@ -116,7 +116,7 @@
 
 &emsp;In conjunction with each annual financial statement issued under this section, the TARP shall—
 
-&emsp;&emsp;(A) state the responsibility of management for establishing and maintaining adequateinternal control over financial reporting; and
+&emsp;&emsp;(A) state the responsibility of management for establishing and maintaining adequate internal control over financial reporting; and
 
 &emsp;&emsp;(B) state its assessment, as of the end of the most recent year covered by such financial statement of the TARP, of the effectiveness of the internal control over financial reporting.
 
@@ -140,11 +140,13 @@ This chapter, referred to in subsecs. (a) and (b)(2), was in the original “thi
 
 Section 1204 of the Financial Institutions Reform, Recovery, and Enhancement Act of 1989, referred to in subsec. (a)(1)(H), probably means section 1204 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, Pub. L. 101–73, which is set out as a note under section 1811 of this title.
 
+Section 1441a of this title, referred to in subsec. (a)(1)(H), was repealed by Pub. L. 111–203, title III, §364(b), July 21, 2010, 124 Stat. 1555.
+
 Section 5230 of this title, referred to in subsec. (a)(2)(B), was so in the original, but probably should have been a reference to section 120 of title I of div. A of Pub. L. 110–343, which is classified to section 5230 of this title.
 
 #### Amendments
 
-2009—Subsec. (a)(1)(A)(v). Pub. L. 111–22, §601(1), added cl. (v).
+<b>2009</b>—Subsec. (a)(1)(A)(v). Pub. L. 111–22, §601(1), added cl. (v).
 
 Subsec. (a)(2). Pub. L. 111–22, §601(2), added subpars. (A) to (E), redesignated former subpar. (C) as (F), and struck out former subpars. (A) and (B) which related to GAO presence and access to records, respectively.
 

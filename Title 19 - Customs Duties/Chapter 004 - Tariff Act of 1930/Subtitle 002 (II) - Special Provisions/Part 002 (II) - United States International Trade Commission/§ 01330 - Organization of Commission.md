@@ -50,7 +50,7 @@ The terms of office of the commissioners holding office on January 3, 1975, whic
 
 > and the commissioners voting are equally divided with respect to such determination, then the determination, agreed upon by either group of commissioners may be considered by the President as the determination of the Commission.
 
-(2) If under section 2252(b) or 2436 of this title there is an affirmative determination of theCommission, or a determination of the Commission which the President may consider an affirmative determination under paragraph (1), that serious injury or market disruption exists, respectively, and a majority of the commissioners voting are unable to agree on a finding or recommendation described in section 2252(e)(1) of this title or the finding described in section 2436(a)(3) of this title, as the case may be (hereafter in this subsection referred to as a “remedy finding”), then—
+(2) If under section 2252(b) or 2436 of this title there is an affirmative determination of the Commission, or a determination of the Commission which the President may consider an affirmative determination under paragraph (1), that serious injury or market disruption exists, respectively, and a majority of the commissioners voting are unable to agree on a finding or recommendation described in section 2252(e)(1) of this title or the finding described in section 2436(a)(3) of this title, as the case may be (hereafter in this subsection referred to as a “remedy finding”), then—
 
 &emsp;(A) if a plurality of not less than three commissioners so voting agree on a remedy finding, such remedy finding shall, for purposes of section 2253 of this title, be treated as the remedy finding of the Commission, or
 

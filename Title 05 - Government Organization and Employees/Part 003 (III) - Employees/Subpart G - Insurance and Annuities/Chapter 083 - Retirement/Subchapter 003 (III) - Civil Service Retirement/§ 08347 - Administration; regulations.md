@@ -144,17 +144,17 @@ Section 201(c) of the Central Intelligence Agency Retirement Act, referred to in
 
 #### Amendments
 
-2001—Subsec. (q)(1). Pub. L. 107–107, §1131(a)(1), inserted “and” after semicolon in subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: “has 5 or more years of civilian service creditable under this subchapter; and”.
+<b>2001</b>—Subsec. (q)(1). Pub. L. 107–107, §1131(a)(1), inserted “and” after semicolon in subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: “has 5 or more years of civilian service creditable under this subchapter; and”.
 
 Subsec. (q)(2)(B). Pub. L. 107–107, §1131(a)(2), struck out “vested” before “participant in a retirement system” and struck out “, as the term ‘vested participant’ is defined by such system” before semicolon at end.
 
-1996—Subsec. (q)(1). Pub. L. 104–106, §1043(a)(1)(A), struck out “of the Department of Defense or the Coast Guard” after “an employee” in introductory provisions and substituted “1 year” for “3 days” in subpar. (C).
+<b>1996</b>—Subsec. (q)(1). Pub. L. 104–106, §1043(a)(1)(A), struck out “of the Department of Defense or the Coast Guard” after “an employee” in introductory provisions and substituted “1 year” for “3 days” in subpar. (C).
 
 Subsec. (q)(2)(C). Pub. L. 104–106, §1043(a)(1)(B), substituted “1 year” for “3 days” and struck out “in the Department of Defense or the Coast Guard, respectively,” after “to a position”.
 
-1994—Subsec. (m)(3). Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary of Health and Human Services”.
+<b>1994</b>—Subsec. (m)(3). Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary of Health and Human Services”.
 
-1992—Subsec. (n)(4)(A). Pub. L. 102–496 substituted “the Central Intelligence Agency Retirement Act” for “the Central Intelligence Agency Retirement Act of 1964 for Certain Employees”.
+<b>1992</b>—Subsec. (n)(4)(A). Pub. L. 102–496 substituted “the Central Intelligence Agency Retirement Act” for “the Central Intelligence Agency Retirement Act of 1964 for Certain Employees”.
 
 Subsec. (p). Pub. L. 102–378, §2(64)(A), redesignated subsec. (p), relating to employees of Department of Defense and Coast Guard, as (q).
 
@@ -162,27 +162,27 @@ Subsec. (q). Pub. L. 102–378, §2(64)(A), redesignated subsec. (p), relating t
 
 Subsec. (q)(1)(A), (2)(A). Pub. L. 102–378, §2(64)(B), amended subpars. (A) generally. Prior to amendment, subpars. (A) read as follows: “has not previously made or had an opportunity to make an election under this subsection;”.
 
-1991—Subsec. (m)(2). Pub. L. 102–54 substituted “Secretary” for “Administrator”.
+<b>1991</b>—Subsec. (m)(2). Pub. L. 102–54 substituted “Secretary” for “Administrator”.
 
-1990—Subsec. (p). Pub. L. 101–508 added subsec. (p) relating to elections by employees of Department of Defense, Coast Guard, or a nonappropriated fund instrumentality of Department of Defense or Coast Guard.
+<b>1990</b>—Subsec. (p). Pub. L. 101–508 added subsec. (p) relating to elections by employees of Department of Defense, Coast Guard, or a nonappropriated fund instrumentality of Department of Defense or Coast Guard.
 
 Pub. L. 101–474 added subsec. (p) relating to Director of Administrative Office of United States Courts.
 
-1988—Subsec. (<i>o</i>). Pub. L. 100–238 added subsec. (<i>o</i>).
+<b>1988</b>—Subsec. (<i>o</i>). Pub. L. 100–238 added subsec. (<i>o</i>).
 
-1986—Subsec. (n). Pub. L. 99–335 added subsec. (n).
+<b>1986</b>—Subsec. (n). Pub. L. 99–335 added subsec. (n).
 
-1982—Subsec. (m)(3), (4). Pub. L. 97–253 added pars. (3) and (4).
+<b>1982</b>—Subsec. (m)(3), (4). Pub. L. 97–253 added pars. (3) and (4).
 
-1980—Subsec. (c). Pub. L. 96–500, §1(a), substituted “Except to the extent provided under subsection (d) of this section, the decisions of the Office concerning” for “The decisions of the Office concerning”.
+<b>1980</b>—Subsec. (c). Pub. L. 96–500, §1(a), substituted “Except to the extent provided under subsection (d) of this section, the decisions of the Office concerning” for “The decisions of the Office concerning”.
 
 Subsec. (d). Pub. L. 96–500, §1(b), designated existing provisions as par. (1), made such par. (1) subject to the provisions of par. (2), and added par. (2).
 
 Subsec. (m). Pub. L. 96–499 added subsec. (m).
 
-1979—Subsec. (h). Pub. L. 96–54 substituted “Mayor” for “Commissioner”.
+<b>1979</b>—Subsec. (h). Pub. L. 96–54 substituted “Mayor” for “Commissioner”.
 
-1978—Subsecs. (a) to (c). Pub. L. 95–454, §906(a)(2), (3), substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively.
+<b>1978</b>—Subsecs. (a) to (c). Pub. L. 95–454, §906(a)(2), (3), substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively.
 
 Subsec. (d). Pub. L. 95–454, §906(a)(9), substituted “Merit Systems Protection Board” for “Commission”, and “Board” for “Commission”.
 
@@ -194,7 +194,7 @@ Pub. L. 95–437 inserted provision prohibiting the Commission from excluding an
 
 Subsec. (h). Pub. L. 95–454, §906(a)(3), substituted “Office” for “Commission”.
 
-1968—Subsec. (h). Pub. L. 90–623 substituted “Commissioner” for “Commissioners”.
+<b>1968</b>—Subsec. (h). Pub. L. 90–623 substituted “Commissioner” for “Commissioners”.
 
 #### Change of Name
 

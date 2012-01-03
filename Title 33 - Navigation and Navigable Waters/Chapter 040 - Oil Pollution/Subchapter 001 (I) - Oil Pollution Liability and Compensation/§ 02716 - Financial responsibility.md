@@ -96,7 +96,7 @@ Financial responsibility under this section may be established by any one, or by
 
 &emsp;A claim may be asserted pursuant to paragraph (1) directly against a guarantor providing evidence of financial responsibility under subsection (c)(1) of this section with respect to an offshore facility only if—
 
-&emsp;&emsp;(A) the responsible party for whom evidence of financial responsibility has been provided has denied or failed to pay a claim under this Act on the basis of being insolvent, as defined under section 101(32) of title 11, and applying generally accepted accounting principles;
+&emsp;&emsp;(A) the responsible party for whom evidence of financial responsibility has been provided has denied or failed to pay a claim under this Act on the basis of being insolvent, as defined under section 101(32) of title11, and applying generally accepted accounting principles;
 
 &emsp;&emsp;(B) the responsible party for whom evidence of financial responsibility has been provided has filed a petition for bankruptcy under title 11; or
 
@@ -104,7 +104,7 @@ Financial responsibility under this section may be established by any one, or by
 
 #### (3) Rulemaking authority
 
-&emsp;Not later than 1 year after October 19, 1996, the President shall promulgate regulations toestablish a process for implementing paragraph (2) in a manner that will allow for the orderly and expeditious presentation and resolution of claims and effectuate the purposes of this Act.
+&emsp;Not later than 1 year after October 19, 1996, the President shall promulgate regulations to establish a process for implementing paragraph (2) in a manner that will allow for the orderly and expeditious presentation and resolution of claims and effectuate the purposes of this Act.
 
 #### (g) Limitation on guarantor's liability
 

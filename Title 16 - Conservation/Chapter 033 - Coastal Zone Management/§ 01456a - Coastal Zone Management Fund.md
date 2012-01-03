@@ -62,7 +62,7 @@ Subsec. (a)(1). Pub. L. 102–587, §2205(b)(16), in first sentence, made techni
 
 Pub. L. 102–587, §2205(b)(1)(A), substituted “coastal state” for “coastal State” in two places.
 
-Subsec. (b)(1). Pub. L. 102–587, §2205(b)(17), (18), struck out “(hereinafter in this section referred to as the‘Fund’)” after “Management Fund’ ” and inserted “and fees deposited into the Fund under section 1456(i)(3) of this title” after “subsection (a) of this section”.
+Subsec. (b)(1). Pub. L. 102–587, §2205(b)(17), (18), struck out “(hereinafter in this section referred to as the ‘Fund’)” after “Management Fund’ ” and inserted “and fees deposited into the Fund under section 1456(i)(3) of this title” after “subsection (a) of this section”.
 
 Subsec. (b)(2)(B)(vi). Pub. L. 102–587, §2205(b)(1)(B), substituted “coastal states” for “coastal States”.
 
@@ -99,6 +99,10 @@ Subsec. (k). Pub. L. 95–372, §§501(b)(1), 503(d), substituted in par. (1) �
 #### Effective Date of 1996 Amendment
 
 Amendment by section 2(b)(2) of Pub. L. 104–150 effective Oct. 1, 1999, see section 2(b)(3) of Pub. L. 104–150, set out as a note under section 1454 of this title.
+
+#### Rescission of Balances and Future Payments
+
+Pub. L. 112–55, div. B, title I, §109, Nov. 18, 2011, 125 Stat. 602, provided that: “All balances in the Coastal Zone Management Fund, whether unobligated or unavailable, are hereby permanently rescinded, and notwithstanding section 308(b) of the Coastal Zone Management Act of 1972, as amended (16 U.S.C. 1456a\[b\]), any future payments to the Fund made pursuant to sections 307 (16 U.S.C. 1456) and 308 (16 U.S.C. 1456a) of the Coastal Zone Management Act of 1972, as amended, shall, in this fiscal year and any future fiscal years, be treated in accordance with the Federal Credit Reform Act of 1990, as amended \[2 U.S.C. 661 et seq.\].”
 
 #### Extension of Authority To Make Loans Under Subsection (d)(1)
 

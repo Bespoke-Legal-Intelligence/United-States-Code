@@ -8,7 +8,7 @@
 
 #### (2) Charges
 
-&emsp;An alien placed in proceedings under this section may be charged with any applicable ground of inadmissibility under section 1182(a)of this title or any applicable ground of deportability under section 1227(a) of this title.
+&emsp;An alien placed in proceedings under this section may be charged with any applicable ground of inadmissibility under section 1182(a) of this title or any applicable ground of deportability under section 1227(a) of this title.
 
 #### (3) Exclusive procedures
 
@@ -146,7 +146,7 @@
 
 &emsp;&emsp;In any proceeding under this chapter, any record of conviction or abstract that has been submitted by electronic means to the Service from a State or court shall be admissible as evidence to prove a criminal conviction if it is—
 
-&emsp;&emsp;&emsp;(i) certified by a State official associated with the State's repository of criminal justice records as an official record from its repository or by a court official from the court in which the conviction was entered as an official record from its repository, and
+&emsp;&emsp;&emsp;(i) certified by a State official associated with the State's repository of criminal justice records as an official record from itsrepository or by a court official from the court in which the conviction was entered as an official record from its repository, and
 
 &emsp;&emsp;&emsp;(ii) certified in writing by a Service official as having been received electronically from the State's record repository or the court's record repository.
 
@@ -260,7 +260,7 @@ A prior section 240 of act June 27, 1952, was renumbered section 240C, and is cl
 
 #### Amendments
 
-2006—Subsec. (c)(7)(A). Pub. L. 109–162, §825(a)(1), inserted before period at end “, except that this limitation shall not apply so as to prevent the filing of one motion to reopen described in subparagraph (C)(iv)”.
+<b>2006</b>—Subsec. (c)(7)(A). Pub. L. 109–162, §825(a)(1), inserted before period at end “, except that this limitation shall not apply so as to prevent the filing of one motion to reopen described in subparagraph (C)(iv)”.
 
 Subsec. (c)(7)(C)(iv). Pub. L. 109–162, §825(a)(2)(A), (B), substituted “spouses, children, and parents” for “spouses and children” in heading and “Any limitation under this section on the deadlines for filing such motions shall not apply” for “The deadline specified in subsection (b)(5)(C) of this section for filing a motion to reopen does not apply” in introductory provisions.
 
@@ -270,9 +270,9 @@ Subsec. (c)(7)(C)(iv)(IV). Pub. L. 109–162, §825(a)(2)(D)–(F), added subcl.
 
 Subsec. (e)(1). Pub. L. 109–162, §813(a)(1), substituted “battery or extreme cruelty to the alien or any child or parent of the alien, serious illness of the alien,” for “serious illness of the alien”.
 
-2005—Subsec. (c)(4) to (7). Pub. L. 109–13 added par. (4) and redesignated former pars. (4) to (6) as (5) to (7), respectively.
+<b>2005</b>—Subsec. (c)(4) to (7). Pub. L. 109–13 added par. (4) and redesignated former pars. (4) to (6) as (5) to (7), respectively.
 
-2000—Subsec. (c)(6)(C)(iv). Pub. L. 106–386 added cl. (iv).
+<b>2000</b>—Subsec. (c)(6)(C)(iv). Pub. L. 106–386 added cl. (iv).
 
 #### Effective Date of 2006 Amendment
 
@@ -284,7 +284,7 @@ Amendment by Pub. L. 109–13 effective May 11, 2005, and applicable to applicat
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–386, div. B, title V, §1506(c)(1)(B), Oct. 28, 2000, 114 Stat. 1528, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in the enactment of section 304 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (8 U.S.C. 1229–1229c) \[Pub. L. 104–208\].”
+Pub. L. 106–386, div. B, title V, §1506(c)(1)(B), Oct. 28, 2000, 114 Stat. 1528, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in the enactment of section 304 of the Illegal Immigration Reform and ImmigrantResponsibility Act of 1996 (8 U.S.C. 1229–1229c) \[Pub. L. 104–208\].”
 
 #### Effective Date
 

@@ -26,10 +26,6 @@ If—
 
 &emsp;The aggregate amount of tax determined under paragraph (1) with respect to all employees of an applicable large employer for any month shall not exceed the product of the applicable payment amount and the number of individuals employed by the employer as full-time employees during such month.
 
-#### (3) Special rules for employers providing free choice vouchers
-
-&emsp;No assessable payment shall be imposed under paragraph (1) for any month with respect to any employee to whom the employer provides a free choice voucher under section 10108 of the Patient Protection and Affordable Care Act for such month.
-
 #### (c) Definitions and special rules
 
 For purposes of this section—
@@ -148,13 +144,15 @@ For purposes of this section—
 
 &emsp;The Secretary shall prescribe rules, regulations, or guidance for the repayment of any assessable payment (including interest) if such payment is based on the allowance or payment of an applicable premium tax credit or cost-sharing reduction with respect to an employee, such allowance or payment is subsequently disallowed, and the assessable payment would not have been required to be made but for such allowance or payment.
 
-(Added and amended Pub. L. 111–148, title I, §1513(a), title X, §§10106(e)–(f)(2), 10108(i)(1)(A), Mar. 23, 2010, 124 Stat. 253, 910, 914; Pub. L. 111–152, title I, §1003, Mar. 30, 2010, 124 Stat. 1033.)
+(Added and amended Pub. L. 111–148, title I, §1513(a), title X, §§10106(e)–(f)(2), 10108(i)(1)(A), Mar. 23, 2010, 124 Stat. 253, 910, 914; Pub. L. 111–152, title I, §1003, Mar. 30, 2010, 124 Stat. 1033; Pub. L. 112–10, div. B, title VIII, §1858(b)(4), Apr. 15, 2011, 125 Stat. 169.)
 
 #### References in Text
 
-The Patient Protection and Affordable Care Act, referred to in subsecs. (a)(2), (b)(1)(B), (3) and (c)(3)(B), (C), (5)(A)(ii), (6), is Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 119. Sections 1302(c)(4), 1402, 1411, and 1412 of the Act are classified to sections 18022(c)(4), 18071, 18081, and 18082, respectively, of Title 42, The Public Health and Welfare. Section 10108 of the Act enacted section 139D of this title and section 18101 of Title 42, amended sections 36B, 162, 4980H, 6056, and 6724 of this title and section 218b of Title 29, Labor, and enacted provisions set out as notes under sections 36B, 139D, 162, 4980H, and 6056 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 18001 of Title 42 and Tables.
+The Patient Protection and Affordable Care Act, referred to in subsecs. (a)(2), (b)(1)(B), and (c)(3)(B), (C), (5)(A)(ii), (6), is Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 119. Sections 1302(c)(4), 1402, 1411, and 1412 of the Act are classified to sections 18022(c)(4), 18071, 18081, and 18082, respectively, of Title 42, The Public Health and Welfare. Section 10108 of the Act enacted former section 139D of this title and section 18101 of Title 42, amended sections 36B, 162, 4980H, 6056, and 6724 of this title and section 218b of Title 29, Labor, and enacted provisions set out as notes under sections 36B, 162, 4980H, and 6056 of this title and former section 139D of this title. For complete classification of this Act to the Code, see Short Title note set out under section 18001 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (b)(3). Pub. L. 112–10 struck out par. (3). Text read as follows: “No assessable payment shall be imposed under paragraph (1) for any month with respect to any employee to whom the employer provides a free choice voucher under section 10108 of the Patient Protection and Affordable Care Act for such month.”
 
 <b>2010</b>—Subsec. (b). Pub. L. 111–152, §1003(d), redesignated subsec. (c) as (b) and struck out former subsec. (b) which related to large employers with enrollment waiting periods exceeding 60 days.
 
@@ -185,6 +183,10 @@ Subsec. (d)(4)(A). Pub. L. 111–148, §10106(f)(1), inserted “, with respect
 Subsec. (d)(5)(A). Pub. L. 111–152, §1003(b)(3), substituted “subsection (b) and paragraph (1)” for “subsection (b)(2) and (d)(1)” in introductory provisions.
 
 Subsec. (e). Pub. L. 111–152, §1003(d), redesignated subsec. (e) as (d).
+
+#### Effective Date of 2011 Amendment
+
+Amendment by Pub. L. 112–10 effective as if included in the provisions of, and the amendments made by, the provisions of Pub. L. 111–148 to which it relates, see section 1858(d) of Pub. L. 112–10, set out as a note under section 36B of this title.
 
 #### Effective Date of 2010 Amendment
 

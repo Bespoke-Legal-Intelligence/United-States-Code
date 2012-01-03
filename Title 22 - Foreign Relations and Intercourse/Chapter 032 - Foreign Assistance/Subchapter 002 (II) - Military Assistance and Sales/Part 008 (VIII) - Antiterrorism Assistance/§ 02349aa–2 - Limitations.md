@@ -12,7 +12,7 @@ The Assistant Secretary of State for Democracy, Human Rights, and Labor shall be
 
 (1) Arms and ammunition may be provided under this part only if they are directly related to antiterrorism assistance.
 
-(2) The value (in terms of original acquisition cost) of all equipment and commodities provided under this part in any fiscal year shall not exceed 30 percent of the funds made available to carry out this part for that fiscal year.
+(2) The value (in terms of original acquisition cost) of all equipment and commodities providedunder this part in any fiscal year shall not exceed 30 percent of the funds made available to carry out this part for that fiscal year.
 
 #### (d) Information exchange activities
 
@@ -76,7 +76,7 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 
 #### Authority of Secretary of State
 
-Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in anyofficial or office of Department of State and references to such officials or offices deemed to refer to Secretary of State or Department of State, as appropriate, see section 2651a of this title and section 161(d) of Pub. L. 103–236, set out as a note under section 2651a of this title.
+Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in any official or office of Department of State and references to such officials or offices deemed to refer to Secretary of State or Department of State, as appropriate, see section 2651a of this title and section 161(d) of Pub. L. 103–236, set out as a note under section 2651a of this title.
 
 #### Delegation of Functions
 

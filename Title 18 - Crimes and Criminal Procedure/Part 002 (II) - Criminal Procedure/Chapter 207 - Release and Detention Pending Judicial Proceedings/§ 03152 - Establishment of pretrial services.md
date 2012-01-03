@@ -14,7 +14,7 @@ The date of enactment of the Pretrial Services Act of 1982, referred to in subse
 
 #### Prior Provisions
 
-A prior section 3152, as added by Pub. L. 89–465, §3(a), June 22, 1966, 80 Stat. 216, defined the terms “judicial officer” and “offense”, prior to repeal by Pub. L. 93–619, §201. See section 3156 of this title.
+A prior section 3152, as added by Pub. L. 89–465, §3(a), June 22, 1966, 80 Stat. 216, defined the terms “judicialofficer” and “offense”, prior to repeal by Pub. L. 93–619, §201. See section 3156 of this title.
 
 #### Amendments
 

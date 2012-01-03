@@ -64,7 +64,7 @@ Subsec. (a). Pub. L. 103–337, §812(a)(1), added subsec. (a) and struck out fo
 
 &emsp;“(6) Any duty, tariff, or surcharge which may enter into the cost of using goods which are other than American goods.”
 
-Subsecs. (b), (c). Pub. L. 103–337, §812(a), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “Consideration of the matters referred to in paragraphs (1) through (6) of subsection (a) shall be given under regulations of the Secretary of Defense and subject to the determinations and exceptions contained in title III of the Act of March 3, 1933 (41 U.S.C. 10a, 10b), popularly known as the ‘Buy American Act’.”
+Subsecs. (b), (c). Pub. L. 103–337, §812(a), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “Consideration of the mattersreferred to in paragraphs (1) through (6) of subsection (a) shall be given under regulations of the Secretary of Defense and subject to the determinations and exceptions contained in title III of the Act of March 3, 1933 (41 U.S.C. 10a, 10b), popularly known as the ‘Buy American Act’.”
 
 <b>1992</b>—Pub. L. 102–484 renumbered section 2506 of this title as this section.
 

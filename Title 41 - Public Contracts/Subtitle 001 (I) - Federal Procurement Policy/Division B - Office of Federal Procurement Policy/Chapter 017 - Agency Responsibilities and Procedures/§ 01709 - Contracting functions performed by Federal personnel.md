@@ -52,7 +52,7 @@ In subsection (a), before paragraph (1), the words “Personnel referred to in s
 
 #### Senate Revision Amendment
 
-In subsec. (a)(3), “individual” substituted for “employee from State or local governments” by S. Amdt. 4726 (111th Cong.). See 156 Cong. Rec. S8442, Dec. 2, 2010 (daily ed.).
+In subsec. (a)(3), “individual” substituted for “employee from State or local governments” by S. Amdt.4726 (111th Cong.). See 156 Cong. Rec. S8442, Dec. 2, 2010 (daily ed.).
 
 #### Requirement for Guidance and Regulations
 

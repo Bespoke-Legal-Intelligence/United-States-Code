@@ -128,11 +128,11 @@ Aircraft.—The term ‘aircraft’ has the meaning such term has under section 
 
 #### Information Coordination
 
-Pub. L. 100–690, title VII, §7210, Nov. 18, 1988, 102 Stat. 4432, provided that: “Not later than 180 days after the date of the enactment of this subtitle \[Nov. 18, 1988\]and annually thereafter during the 3-year period beginning on such 180th day, the Administrator shall prepare and transmit to Congress a report on the following:
+Pub. L. 100–690, title VII, §7210, Nov. 18, 1988, 102 Stat. 4432, provided that: “Not later than 180 days after the date of the enactment of this subtitle \[Nov. 18, 1988\] and annually thereafter during the 3-year period beginning on such 180th day, the Administrator shall prepare and transmit to Congress a report on the following:
 
 &emsp;“(1) The progress made in establishing a process for provision of informational assistance by such Administration to officials of Federal, State, and local law enforcement agencies.
 
-&emsp;“(2) The progress made in establishing a process for effectively pursuing suspensions and revocations of certificates of registration and airman certificates in accordance with the amendments made to the Federal Aviation Act of 1958 by the Aviation Drug-Trafficking Control Act \[Pub. L. 98–499, see Tables for classification\], section 3401 of the Anti-Drug Abuse Act of 1986 \[Pub. L. 99–570\], and this subtitle \[subtitle E (§§7201–7214) of title VII of Pub. L. 100–690\].
+&emsp;“(2) The progress made in establishing a process for effectively pursuing suspensions and revocations ofcertificates of registration and airman certificates in accordance with the amendments made to the Federal Aviation Act of 1958 by the Aviation Drug-Trafficking Control Act \[Pub. L. 98–499, see Tables for classification\], section 3401 of the Anti-Drug Abuse Act of 1986 \[Pub. L. 99–570\], and this subtitle \[subtitle E (§§7201–7214) of title VII of Pub. L. 100–690\].
 
 &emsp;“(3) The efforts of such Administration in assessing and defining the appropriate relationship of such Administration's informational assistance resources (including the El Paso Intelligence Center and the Law Enforcement Assistance Unit of the Aeronautical Center of such Administration).
 

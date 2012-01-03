@@ -6,7 +6,7 @@ The exchange of a new security under the plan for a claim covered by the plan, w
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 The House amendment deletes section 950 of the Senate amendment as unnecessary. The constitutionality of chapter 9 of the House amendment is beyond doubt.
 

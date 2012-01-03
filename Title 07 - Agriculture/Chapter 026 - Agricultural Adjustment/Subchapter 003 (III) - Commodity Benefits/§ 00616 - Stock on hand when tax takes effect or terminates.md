@@ -4,7 +4,7 @@
 
 &emsp;(1) Whenever the processing tax first takes effect, there shall be levied, assessed, and collected a tax to be paid by such person equivalent to the amount of the processing tax which would be payable with respect to the commodity from which processed if the processing had occurred on such date. Such tax upon articles imported prior to, but in customs custody or control on, the effective date, shall be paid prior to release therefrom. In the case of sugar, the tax on floor stocks, except the retail stocks of persons engaged in retail trade, shall be paid for the month in which the stocks are sold, or used in the manufacture of other articles, under rules and regulations prescribed by the Commissioner of Internal Revenue with the approval of the Secretary of the Treasury.
 
-&emsp;(2) Whenever the processing tax is wholly terminated, (A) there shall be refunded or credited in the case of a person holding such stocks with respect to which a tax under this chapter has been paid, or (B) there shall be credited or abated in the case of a person holding such stocks with respect to which a tax under this chapter is payable, where such person is the processor liable for the payment of such tax, or (C) there shall be refunded or credited (but not before the tax has been paid) in the case of a person holding such stocks with respect to which a tax under this chapter is payable, where such person is not the processor liable for the payment of such tax, a sum in an amount equivalent to the processing tax which would have been payable with respect to the commodity from which processed if the processing had occurred on such date: <i>Provided</i>, That in the case of any commodity with respect to which there was any increase, effective prior to June 1, 1934, in the rate of the processing tax, no such refund, credit, or abatement, shall be in an amount which exceeds the equivalent of the initial rate of the processing tax in effect with respect to such commodity.
+&emsp;(2) Whenever the processing tax is wholly terminated, (A) there shall be refunded or credited in the case of a person holding such stocks with respect to which a tax under this chapter has been paid, or (B) there shall be credited or abated in the case of a person holding such stocks with respect to which a tax under this chapter is payable, where such person is the processor liable for the payment of such tax, or (C) there shall be refunded or credited (but not before the tax has been paid) in the case of a person holding such stocks with respect to which a tax under this chapteris payable, where such person is not the processor liable for the payment of such tax, a sum in an amount equivalent to the processing tax which would have been payable with respect to the commodity from which processed if the processing had occurred on such date: <i>Provided</i>, That in the case of any commodity with respect to which there was any increase, effective prior to June 1, 1934, in the rate of the processing tax, no such refund, credit, or abatement, shall be in an amount which exceeds the equivalent of the initial rate of the processing tax in effect with respect to such commodity.
 
 (b) The tax imposed by subsection (a) of this section shall not apply to the retail stocks of persons engaged in retail trade, held at the date the processing tax first takes effect; but such retail stocks shall not be deemed to include stocks held in a warehouse on such date, or such portion of other stocks held on such date as are not sold or otherwise disposed of within thirty days thereafter. Except as to flour and prepared flour, and cereal preparations made chiefly from wheat, as classified in Wheat Regulations, Series 1, Supplement 1, and as to any article processed wholly or in chief value from cotton, the tax refund, credit, or abatement provided in subsection (a) of this section shall not apply to the retail stocks of persons engaged in retail trade, nor to any article (except sugar) processed wholly or in chief value from sugar beets, sugarcane, or any product thereof, nor to any article (except flour, prepared flour and cereal preparations made chiefly from wheat, as classified in Wheat Regulations, Series 1, Supplement 1) processed wholly or in chief value from wheat, held on the date the processing tax is wholly terminated.
 
@@ -30,7 +30,7 @@
 
 #### Amendments
 
-1936—Subsec. (e)(1). Act June 22, 1936, §601(a), (g), reenacted par. (1) for certain refund purposes only and substituted “on or after June 1, 1934” for “subsequent to June 26, 1934”, respectively.
+<b>1936</b>—Subsec. (e)(1). Act June 22, 1936, §601(a), (g), reenacted par. (1) for certain refund purposes only and substituted “on or after June 1, 1934” for “subsequent to June 26, 1934”, respectively.
 
 Act June 4, 1936, substituted “on or after June 1, 1934” for “subsequent to June 26, 1934”.
 
@@ -38,7 +38,7 @@ Subsec. (e)(3). Act June 22, 1936, §601(a), reenacted par. (3) for certain refu
 
 Subsec. (g). Act June 22, 1936, §601(c), repealed subsec. (g) which related to the time for filing refunds.
 
-1935—Subsec. (a)(2). Act Aug. 24, 1935, §25, substituted a new par. (2) for former par. (2).
+<b>1935</b>—Subsec. (a)(2). Act Aug. 24, 1935, §25, substituted a new par. (2) for former par. (2).
 
 Subsec. (b). Act Aug. 24, 1935, §26, amended second sentence generally.
 
@@ -52,7 +52,7 @@ Subsec. (f). Act Mar. 18, 1935, added subsec. (f).
 
 Subsec. (g). Act Aug. 24, 1935, §27(b), added subsec. (g).
 
-1934—Subsec. (a)(1). Act May 9, 1934, §10, inserted second sentence.
+<b>1934</b>—Subsec. (a)(1). Act May 9, 1934, §10, inserted second sentence.
 
 Subsec. (c). Act June 26, 1934, added subsec. (c).
 

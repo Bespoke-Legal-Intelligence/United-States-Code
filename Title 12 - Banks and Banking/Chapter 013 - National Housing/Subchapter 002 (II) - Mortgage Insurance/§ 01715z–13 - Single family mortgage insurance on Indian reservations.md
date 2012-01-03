@@ -34,7 +34,7 @@ Notwithstanding any other provision of this chapter, the insurance of a mortgage
 
 #### (g) Availability of status and payment history of loans; entitlement to benefit of insurance; reinstatement of loan upon cure of default; garnishment proceedings; foreclosure proceedings
 
-(1) The Secretary shall make information regarding the status and payment history of loansinsured under this section available to local credit bureaus and prospective creditors. Prior to accepting assignment of a mortgage, the Secretary shall require mortgagees to submit documentation that mortgagors have been counseled in a face-to-face interview, informed of the provisions of this subsection or other available assistance, and provided with the names and addresses of officials of the Department of Housing and Urban Development to whom further communications shall be addressed.
+(1) The Secretary shall make information regarding the status and payment history of loans insured under this section available to local credit bureaus and prospective creditors. Prior to accepting assignment of a mortgage, the Secretary shall require mortgagees to submit documentation that mortgagors have been counseled in a face-to-face interview, informed of the provisions of this subsection or other available assistance, and provided with the names and addresses of officials of the Department of Housing and Urban Development to whom further communications shall be addressed.
 
 (2) Notwithstanding the requirement for conveyance of title under section 1710 of this title, a mortgagee under this section shall be entitled to receive the benefit of insurance under this section in the case of a mortgage which is more than 90 days in default upon conveyance of the lease agreement and the mortgage documents.
 
@@ -68,9 +68,9 @@ The Alaska Native Claims Settlement Act, referred to in subsec. (i)(2), is Pub. 
 
 #### Amendments
 
-2008—Subsec. (f). Pub. L. 110–289 substituted “Mutual Mortgage Insurance Fund” for “General Insurance Fund established in section 1735c of this title” and struck out “(1) all references in section 1710 of this title to the Mutual Mortgage Insurance Fund or the Fund shall be construed to refer to the General Insurance Fund; and (2)” after “except that”.
+<b>2008</b>—Subsec. (f). Pub. L. 110–289 substituted “Mutual Mortgage Insurance Fund” for “General Insurance Fund established in section 1735c of this title” and struck out “(1) all references in section 1710 of this title to the Mutual Mortgage Insurance Fund or the Fund shall be construed to refer to the General Insurance Fund; and (2)” after “except that”.
 
-1988—Subsec. (a)(1). Pub. L. 100–242, §429(i)(1), substituted “land” for “lands”.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–242, §429(i)(1), substituted “land” for “lands”.
 
 Subsec. (a)(2). Pub. L. 100–242, §429(i)(2), substituted “on trust or otherwise restricted land” for “on trust lands or otherwise restricted land”.
 
@@ -82,7 +82,7 @@ Subsec. (g). Pub. L. 100–242, §413(c)(1), (2), redesignated former subsec. (f
 
 Subsecs. (h), (i). Pub. L. 100–242, §413(c)(2), redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
 
-1986—Subsec. (h)(1). Pub. L. 99–272 substituted “was an eligible recipient under chapter 67 of title 31, prior to the repeal of such chapter” for “is an eligible recipient under chapter 67 of title 31”.
+<b>1986</b>—Subsec. (h)(1). Pub. L. 99–272 substituted “was an eligible recipient under chapter 67 of title 31, prior to the repeal of such chapter” for “is an eligible recipient under chapter 67 of title 31”.
 
 #### Effective Date of 1986 Amendment
 

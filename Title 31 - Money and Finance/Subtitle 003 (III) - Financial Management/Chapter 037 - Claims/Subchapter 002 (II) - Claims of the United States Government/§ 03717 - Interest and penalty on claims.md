@@ -32,7 +32,7 @@
 
 &emsp;(2) to a claim under a contract executed before October 25, 1982, that is in effect on October 25, 1982.
 
-(h) In conformity with standards prescribed jointly by the Attorney General, the Secretary of the Treasury, and the Comptroller General, the head of an executive, judicial, or legislative agency may prescribe regulations identifying circumstances appropriate to waiving collection of interest and charges under subsections (a) and (e) of this section. A waiver under the regulations is deemed to be compliance with this section.
+(h) In conformity with standards prescribed jointly by the Attorney General, the Secretary of the Treasury, and the Comptroller General, the head of an executive, judicial, or legislativeagency may prescribe regulations identifying circumstances appropriate to waiving collection of interest and charges under subsections (a) and (e) of this section. A waiver under the regulations is deemed to be compliance with this section.
 
 (i)(1) The head of an executive, judicial, or legislative agency may increase an administrative claim by the cost of living adjustment in lieu of charging interest and penalties under this section. Adjustments under this subsection will be computed annually.
 

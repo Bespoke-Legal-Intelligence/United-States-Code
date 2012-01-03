@@ -6,7 +6,7 @@ The fiscal year of all Federal credit unions shall end December 31. The annual m
 
 #### Amendments
 
-1982—Pub. L. 97–320 struck out “at such time during the following January, February, or March and” after “shall be held”, and “by him” after “shares held”.
+<b>1982</b>—Pub. L. 97–320 struck out “at such time during the following January, February, or March and” after “shall be held”, and “by him” after “shares held”.
 
-1963—Pub. L. 88–150 substituted “during the following January, February, or March” for “during the month of the following January”.
+<b>1963</b>—Pub. L. 88–150 substituted “during the following January, February, or March” for “during the month of the following January”.
 

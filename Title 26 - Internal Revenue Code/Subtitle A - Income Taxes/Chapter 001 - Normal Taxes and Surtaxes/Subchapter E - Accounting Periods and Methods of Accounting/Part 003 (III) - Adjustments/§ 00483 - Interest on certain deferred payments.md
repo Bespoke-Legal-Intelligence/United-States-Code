@@ -78,7 +78,7 @@ For purposes of this section, the term “total unstated interest” means, with
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section including regulations providing for the application of this section in the case of—
 
-&emsp;(1) any contract for the sale or exchange of property under which the liability for, or the amount or due date of, a payment cannot be determined at the time of the sale or exchange, or
+&emsp;(1) any contract for the sale or exchange of property under which the liability for, or theamount or due date of, a payment cannot be determined at the time of the sale or exchange, or
 
 &emsp;(2) any change in the liability for, or the amount or due date of, any payment (including interest) under a contract for the sale or exchange of property.
 
@@ -108,7 +108,7 @@ Subsecs. (g), (h). Pub. L. 99–121, §102(c)(1), (3), redesignated subsec. (h) 
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–369 amended subsec. (a) generally, substituting “For purposes of this title, in the case of any payment (1) under any contract for the sale or exchange of any property, and (2) to which this section applies, there shall be treated as interest that portion of the total unstated interest under such contract which, as determined in a manner consistent with the method of computing interest under section 1272(a), is properly allocable to such payment” for “For purposes of this title, in the case of any contract for the sale or exchange of property there shall be treated as interest that part of a payment to which this section applies which bears the same ratio to the amount of such payment as the total unstated interest under such contract bears to the total of the payments to which this section applies which are due under such contract”.
 
-Subsec. (b). Pub. L. 98–369 amended subsec. (b) generally, substituting provisions directing that the present value of a payment be determined under the rules of section 1274(b)(2) using a discount rate equal to 120 percent of the applicable Federal rate determined undersection 1274(d) for provisions which had directed that the present value of a payment be determined, as of the date of the sale or exchange, by discounting such payment at the rate, and in the manner, provided in regulations prescribed by the Secretary and that such regulations provide for discounting on the basis of 6-month brackets and provide that the present value of any interest payment due not more than 6 months after the date of the sale or exchange was to have been an amount equal to 100 percent of such payment.
+Subsec. (b). Pub. L. 98–369 amended subsec. (b) generally, substituting provisions directing that the present value of a payment be determined under the rules of section 1274(b)(2) using a discount rate equal to 120 percent of the applicable Federal rate determined under section 1274(d) for provisions which had directed that the present value of a payment be determined, as of the date of the sale or exchange, by discounting such payment at the rate, and in the manner, provided in regulations prescribed by the Secretary and that such regulations provide for discounting on the basis of 6-month brackets and provide that the present value of any interest payment due not more than 6 months after the date of the sale or exchange was to have been an amount equal to 100 percent of such payment.
 
 Subsec. (c). Pub. L. 98–369 substituted “subsection (a) applies” for “section applies” in heading.
 
@@ -142,7 +142,7 @@ Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if inc
 
 #### Effective Date of 1985 Amendment
 
-Amendment by Pub. L. 99–121 applicable to sales and exchanges after June 30, 1985, in taxable years ending after such date, see section 105(a)(1) of Pub. L. 99–121, set out as a note under section 1274 of this title.
+Amendment by Pub. L. 99–121 applicable to sales and exchanges after June 30, 1985, in taxable years endingafter such date, see section 105(a)(1) of Pub. L. 99–121, set out as a note under section 1274 of this title.
 
 #### Effective Date of 1984 Amendment
 

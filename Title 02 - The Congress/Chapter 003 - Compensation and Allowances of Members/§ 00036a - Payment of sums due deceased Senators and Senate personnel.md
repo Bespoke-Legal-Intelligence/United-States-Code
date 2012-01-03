@@ -8,11 +8,11 @@ Section 50 of the Revised Statutes <sup>1</sup> shall not be effective as to pe
 
 #### References in Text
 
-Section 50 of the Revised Statutes, referred to in text, was classified to section 38 of this title and was repealed by Pub. L. 104–186, title II, §203(4), Aug. 20, 1996, 110 Stat. 1725. See section 38a of this title.
+Section 50 of the Revised Statutes, referred to in text, was classified to section 38 of this title and wasrepealed by Pub. L. 104–186, title II, §203(4), Aug. 20, 1996, 110 Stat. 1725. See section 38a of this title.
 
 #### Amendments
 
-1972—Pub. L. 92–607 inserted provisions for designation of a beneficiary by Senators and officers and employees whose compensation is disbursed by Secretary of Senate to whom shall be paid any unpaid balance of salary or other sums due such person at time of death.
+<b>1972</b>—Pub. L. 92–607 inserted provisions for designation of a beneficiary by Senators and officers and employees whose compensation is disbursed by Secretary of Senate to whom shall be paid any unpaid balance of salary or other sums due such person at time of death.
 
 <i><sup>1</sup></i><i>See References in Text note below.</i>
 

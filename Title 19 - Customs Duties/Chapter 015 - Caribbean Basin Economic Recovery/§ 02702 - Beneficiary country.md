@@ -82,7 +82,7 @@ Virgin Islands, British
 
 &emsp;&emsp;&emsp;(ii) any patent, trademark, or other intellectual property of,
 
-> &emsp;&emsp;a United States citizen or a corporation, partnership, or association which is 50 per centum or more beneficially owned by United States citizens, the effect of which is to nationalize, expropriate, or otherwise seize ownership or control of property so owned, or
+> &emsp;&emsp;a United States citizen or a corporation, partnership, or association which is 50 per centum or more beneficially owned by United States citizens, the effect of which is to nationalize, expropriate, or otherwiseseize ownership or control of property so owned, or
 
 &emsp;&emsp;(C) has imposed or enforced taxes or other exactions, restrictive maintenance or operational conditions, or other measures with respect to property so owned, the effect of which is to nationalize, expropriate, or otherwise seize ownership or control of such property, unless the President determines that—
 
@@ -182,9 +182,13 @@ In determining whether to designate any country a beneficiary country under this
 
 &emsp;Before submitting the report described in paragraph (1), the United States Trade Representative shall publish a notice in the Federal Register requesting public comments on whether beneficiary countries are meeting the criteria listed in section 2703(b)(5)(B) of this title.
 
-(Pub. L. 98–67, title II, §212, Aug. 5, 1983, 97 Stat. 384; Pub. L. 99–570, title IX, §9002(b), Oct. 27, 1986, 100 Stat. 3207–166; Pub. L. 100–418, title I, §§1214(q)(1), 1909(c), Aug. 23, 1988, 102 Stat. 1159, 1318; Pub. L. 101–382, title II, §§213, 214, Aug. 20, 1990, 104 Stat. 656; Pub. L. 103–465, title VI, §621(a)(2), Dec. 8, 1994, 108 Stat. 4992; Pub. L. 104–188, title I, §1954(a)(3), Aug. 20, 1996, 110 Stat. 1927; Pub. L. 106–200, title II, §211(b), (c)(1), (e)(2), May 18, 2000, 114 Stat. 286, 287; Pub. L. 109–53, title IV, §402(a), (b), Aug. 2, 2005, 119 Stat. 495.)
+(Pub. L. 98–67, title II, §212, Aug. 5, 1983, 97 Stat. 384; Pub. L. 99–570, title IX, §9002(b), Oct. 27, 1986, 100 Stat. 3207–166; Pub. L. 100–418, title I, §§1214(q)(1), 1909(c), Aug. 23, 1988, 102 Stat. 1159, 1318; Pub. L. 101–382, title II, §§213, 214, Aug. 20, 1990, 104 Stat. 656; Pub. L. 103–465, title VI, §621(a)(2), Dec. 8, 1994, 108 Stat. 4992; Pub. L. 104–188, title I, §1954(a)(3), Aug. 20, 1996, 110 Stat. 1927; Pub. L. 106–200, title II, §211(b), (c)(1), (e)(2), May 18, 2000, 114 Stat. 286, 287; Pub. L. 109–53, title IV, §402(a), (b), Aug. 2, 2005, 119 Stat. 495; Pub. L. 112–43, title IV, §402(a), Oct. 21, 2011, 125 Stat. 530.)
 
 #### Amendment of Section
+
+<i>Pub. L. 112–43, title IV, §402, Oct. 21, 2011, 125 Stat. 530, provided that, effective on the date on which the President terminates the designation of Panama as a beneficiary country pursuant to section 201(a)(3) of Pub. L. 112–43, set out in a note under section 3805 of this title, subsection (b) of this section is amended by striking “Panama” from the list of countries eligible for designation as beneficiary countries. See 2011 Amendment note below.</i>
+
+<i>For termination of amendment by section 107(c) of Pub. L. 112–43, see Effective and Termination Dates of 2011 Amendment note below.</i>
 
 <i>For termination of amendment by section 107(d) of Pub. L. 109–53, see Effective and Termination Dates of 2005 Amendment note below.</i>
 
@@ -203,6 +207,8 @@ This chapter, referred to in subsec. (e)(1)(B), was in the original “this subt
 Subsec. (d) of this section amended general headnote 3(a) of the Tariff Schedules of the United States. The Tariff Schedules were replaced by the Harmonized Tariff Schedule of the United States. See References in Text note above.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (b). Pub. L. 112–43, §§107(c), 402(a), temporarily struck out “Panama” from list of countries eligible for designation as beneficiary country. See Effective and Termination Dates of 2011 Amendment note below.
 
 <b>2005</b>—Subsec. (a)(1)(F). Pub. L. 109–53, §§107(d), 402(a), temporarily added subpar. (F). See Effective and Termination Dates of 2005 Amendment note below.
 
@@ -231,6 +237,10 @@ Subsec. (f). Pub. L. 101–382, §214, added subsec. (f).
 Subsec. (e). Pub. L. 100–418, §1909(c), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The President shall, after complying with the requirements of subsection (a)(2) of this section, withdraw or suspend the designation of any country as a beneficiary country if, after such designation, he determines that as the result of changed circumstances such country would be barred from designation as a beneficiary country under subsection (b) of this section.”
 
 <b>1986</b>—Subsec. (b)(6), (7). Pub. L. 99–570 redesignated par. (7) as (6) and struck out former par. (6) which provided that the President shall not designate a country as a beneficiary country under this chapter if the country does not take adequate steps to cooperate with the United States to prevent narcotic drugs and other controlled substances produced, processed, or transported in the country from entering the United States unlawfully.
+
+#### Effective and Termination Dates of 2011 Amendment
+
+Amendment by Pub. L. 112–43 effective on date President terminates designation of Panama as beneficiary country pursuant to section 201(a)(3) of Pub. L. 112–43, set out in a note under section 3805 of this title, and to cease to have effect on date the United States–Panama Trade Promotion Agreement terminates, see sections 107(c) and 402(b) of Pub. L. 112–43, set out in a note under section 3805 of this title.
 
 #### Effective and Termination Dates of 2005 Amendment
 
@@ -276,7 +286,7 @@ Intent of the Congress.—The Congress hereby expresses its intention to ensure 
 
 &emsp;“(1) the trade elements of the Caribbean Basin Initiative be strengthened in a manner consistent with the promotion of economic and political stability in the Caribbean and Central America;
 
-&emsp;“(2) to the extent that Congress imposes changes that are intended to improve the competitive environment for United States industry and workers, such changes do not unduly affect the unilateral duty-free trade system available to the beneficiary countries designated under the Caribbean Basin Economic Recovery Act \[19 U.S.C. 2701 et seq.\]; and
+&emsp;“(2) to the extent that Congress imposes changes that are intended to improve the competitive environment for United States industry and workers,such changes do not unduly affect the unilateral duty-free trade system available to the beneficiary countries designated under the Caribbean Basin Economic Recovery Act \[19 U.S.C. 2701 et seq.\]; and
 
 &emsp;“(3) generic changes in the trade laws of the United States do not discriminate against imports from designated beneficiary countries in relation to imports from other United States trading partners.”
 

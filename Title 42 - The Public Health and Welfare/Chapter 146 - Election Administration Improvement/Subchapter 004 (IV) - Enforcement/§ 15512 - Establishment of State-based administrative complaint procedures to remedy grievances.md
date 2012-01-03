@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(A) to certify to the Commission that the State meets the requirements of subsection (a) of this section in the same manner as a State receiving a payment under this chapter; or
 
-&emsp;&emsp;(B) to submit a compliance plan to the Attorney General which provides detailed information on the steps the State will take to ensure that it meets the requirements of subchapter III of this chapter.
+&emsp;&emsp;(B) to submit a compliance plan to the Attorney General which provides detailed information on the steps the State will take toensure that it meets the requirements of subchapter III of this chapter.
 
 #### (2) States without approved plan deemed out of compliance
 

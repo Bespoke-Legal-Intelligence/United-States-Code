@@ -72,7 +72,7 @@ In subsection (a)(1)(B), the word “alteration” is omitted as surplus.
 
 In subsection (a)(2), the word “adequate” is omitted as surplus.
 
-In subsection (b), the words “to act on an application for a certificate to provide air transportation under section 41102 of this title, or to amend, modify, suspend,or transfer any part of that certificate under section 41105 or 41110(a) or (c) of this title” are added for clarity.
+In subsection (b), the words “to act on an application for a certificate to provide air transportation under section 41102 of this title, or to amend, modify, suspend, or transfer any part of that certificate under section 41105 or 41110(a) or (c) of this title” are added for clarity.
 
 In subsection (c)(2), the words “by such person” are omitted as surplus. The words “a response opposing or supporting the issuance of a certificate” are substituted for “a protest or memorandum filed with respect to such application” for consistency.
 

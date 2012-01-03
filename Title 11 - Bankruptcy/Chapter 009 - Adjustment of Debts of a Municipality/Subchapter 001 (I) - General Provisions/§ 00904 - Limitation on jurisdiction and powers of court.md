@@ -12,7 +12,7 @@ Notwithstanding any power of the court, unless the debtor consents or the plan s
 
 #### Historical and Revision Notes
 
-I74senate report no. 95–989
+#### senate report no. 95–989
 
 This section adopts the policy of section 82(c) of current law \[section 402(c) of former title 11\]. The only change in this section from section 82(c) is to conform the section to the style and cross-references of S. 2266.
 

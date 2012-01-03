@@ -26,7 +26,7 @@
 
 &emsp;(B) state the nature of the conduct under investigation; and
 
-&emsp;(C) inform such person that the failure to complete the transaction may be considered ina proceeding under section 3007 of this title to determine probable cause, in accordance with paragraph (2) of this subsection.
+&emsp;(C) inform such person that the failure to complete the transaction may be considered in a proceeding under section 3007 of this title to determine probable cause, in accordance with paragraph (2) of this subsection.
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 747; Pub. L. 93–583, §4, Jan. 2, 1975, 88 Stat. 1916; Pub. L. 94–525, §2, Oct. 17, 1976, 90 Stat. 2478; Pub. L. 95–360, Sept. 9, 1978, 92 Stat. 594; Pub. L. 98–186, §2, Nov. 30, 1983, 97 Stat. 1315; Pub. L. 100–625, §2(c), Nov. 7, 1988, 102 Stat. 3205; Pub. L. 101–524, §2(b), Nov. 6, 1990, 104 Stat. 2302; Pub. L. 102–71, §2(2), July 10, 1991, 105 Stat. 330; Pub. L. 106–168, title I, §§104, 105(b)(2)(A), Dec. 12, 1999, 113 Stat. 1810, 1811; Pub. L. 109–435, title X, §1010(g)(3), Dec. 20, 2006, 120 Stat. 3262.)
 

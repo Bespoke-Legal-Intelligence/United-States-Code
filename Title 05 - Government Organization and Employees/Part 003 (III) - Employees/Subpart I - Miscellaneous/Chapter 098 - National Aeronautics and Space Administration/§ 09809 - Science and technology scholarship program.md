@@ -36,7 +36,7 @@
 
 (g)(1) Scholarship recipients who fail to maintain a high level of academic standing, as defined by the Administrator by regulation, who are dismissed from their educational institutions for disciplinary reasons, or who voluntarily terminate academic training before graduation from the educational program for which the scholarship was awarded, shall be in breach of their contractual agreement and, in lieu of any service obligation arising under such agreement, shall be liable to the United States for repayment within 1 year after the date of default of all scholarship funds paid to them and to the institution of higher education on their behalf under the agreement, except as provided in subsection (h)(2). The repayment period may be extended by the Administrator when determined to be necessary, as established by regulation.
 
-(2) Scholarship recipients who, for any reason, fail to begin or complete their service obligation after completion of academic training, or fail to comply with the terms and conditions of deferment established by the Administrator pursuant to subsection (f)(2)(B), shall be in breach of their contractual agreement. When recipients breach their agreements for the reasons stated in thepreceding sentence, the recipient shall be liable to the United States for an amount equal to—
+(2) Scholarship recipients who, for any reason, fail to begin or complete their service obligation after completion of academic training, or fail to comply with the terms and conditions of deferment established by the Administrator pursuant to subsection (f)(2)(B), shall be in breach of their contractual agreement. When recipients breach their agreements for the reasons stated in the preceding sentence, the recipient shall be liable to the United States for an amount equal to—
 
 &emsp;(A) the total amount of scholarships received by such individual under this section; plus
 
@@ -66,7 +66,7 @@ Sections 101(a) and 472 of the Higher Education Act of 1965, referred to in subs
 
 #### Amendments
 
-2005—Subsec. (a)(2). Pub. L. 109–155, §703(a)(1), substituted “Act (42 U.S.C. 1885a or 1885b).” for “Act.”
+<b>2005</b>—Subsec. (a)(2). Pub. L. 109–155, §703(a)(1), substituted “Act (42 U.S.C. 1885a or 1885b).” for “Act.”
 
 Subsec. (c). Pub. L. 109–155, §703(a)(2), substituted “require to carry out this section.” for “require.”
 

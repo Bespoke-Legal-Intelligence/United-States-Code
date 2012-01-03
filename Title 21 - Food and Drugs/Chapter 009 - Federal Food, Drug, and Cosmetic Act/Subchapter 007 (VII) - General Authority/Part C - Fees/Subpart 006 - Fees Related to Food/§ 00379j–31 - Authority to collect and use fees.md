@@ -44,7 +44,7 @@
 
 &emsp;&emsp;Fees amounts established for collection—
 
-&emsp;&emsp;&emsp;(i) under subparagraph (A) of subsection (a)(1) for a fiscal year shall be based on theSecretary's estimate of 100 percent of the costs of the reinspection-related activities (including by type or level of reinspection activity, as the Secretary determines applicable) described in such subparagraph (A) for such year;
+&emsp;&emsp;&emsp;(i) under subparagraph (A) of subsection (a)(1) for a fiscal year shall be based on the Secretary's estimate of 100 percent of the costs of the reinspection-related activities (including by type or level of reinspection activity, as the Secretary determines applicable) described in such subparagraph (A) for such year;
 
 &emsp;&emsp;&emsp;(ii) under subparagraph (B) of subsection (a)(1) for a fiscal year shall be based on the Secretary's estimate of 100 percent of the costs of the activities described in such subparagraph (B) for such year;
 
@@ -64,7 +64,7 @@
 
 #### (ii) Crediting of fees
 
-&emsp;&emsp;&emsp;In establishing the fee amounts under subparagraph (A) for a fiscal year, the Secretary shall provide for the crediting of fees from the previous year to the next year if the Secretary overestimated the amount of fees needed to carry out such activities, and consider the need to account for any adjustment of fees and such other factors as the Secretary determines appropriate.
+&emsp;&emsp;&emsp;In establishing the fee amounts under subparagraph (A) for a fiscal year, the Secretary shall provide for the crediting of fees from the previous year to the next year if the Secretary overestimated the amount of fees needed to carry out suchactivities, and consider the need to account for any adjustment of fees and such other factors as the Secretary determines appropriate.
 
 #### (iii) Published guidelines
 
@@ -112,7 +112,7 @@
 
 #### (B) Exception
 
-&emsp;&emsp;If a domestic facility (as defined in section 350d(b) of this title) or an importer becomessubject to a fee described in subparagraph (A), (B), or (D) of subsection (a)(1) after the maximum amount of fees has been collected by the Secretary under subparagraph (A), the Secretary may collect a fee from such facility or importer.
+&emsp;&emsp;If a domestic facility (as defined in section 350d(b) of this title) or an importer becomes subject to a fee described in subparagraph (A), (B), or (D) of subsection (a)(1) after the maximum amount of fees has been collected by the Secretary under subparagraph (A), the Secretary may collect a fee from such facility or importer.
 
 #### (d) Crediting and availability of fees
 
@@ -134,7 +134,7 @@ Not later than 120 days after each fiscal year for which fees are assessed under
 
 #### (g) Authorization of appropriations
 
-For fiscal year 2010 and each fiscal year thereafter, there is authorized to be appropriated for fees under this section an amount equal to the total revenue amount determined under subsection (b) for the fiscal year, as adjusted or otherwise affected under the other provisions of this section.
+For fiscal year 2010 and each fiscal year thereafter, there is authorized to be appropriated forfees under this section an amount equal to the total revenue amount determined under subsection (b) for the fiscal year, as adjusted or otherwise affected under the other provisions of this section.
 
 (June 25, 1938, ch. 675, §743, as added Pub. L. 111–353, title I, §107(a), Jan. 4, 2011, 124 Stat. 3906.)
 

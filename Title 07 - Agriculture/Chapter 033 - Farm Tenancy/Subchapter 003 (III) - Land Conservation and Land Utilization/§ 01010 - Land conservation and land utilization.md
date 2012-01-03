@@ -1,6 +1,6 @@
 ### §1010. Land conservation and land utilization
 
-The Secretary is authorized and directed to develop a program of land conservation and land utilization, in order thereby to correct maladjustments in land use, and thus assist in controlling soil erosion, reforestation, preserving natural resources, protecting fish and wildlife, developing and protecting recreational facilities, mitigating floods, preventing impairment of dams and reservoirs, developing energy resources, conserving surface and subsurface moisture, protecting the watersheds of navigable streams, and protecting the public lands, health, safety, and welfare, but not to build industrial parks or establish private industrial or commercial enterprises.
+The Secretary is authorized and directed to develop a program of land conservation and land utilization, in order thereby to correct maladjustments in land use, and thus assist in controlling soil erosion, reforestation, preserving natural resources, protecting fish and wildlife, developing and protecting recreational facilities, mitigating floods, preventing impairment of dams and reservoirs, developing energy resources, conserving surface and subsurface moisture, protecting the watersheds of navigablestreams, and protecting the public lands, health, safety, and welfare, but not to build industrial parks or establish private industrial or commercial enterprises.
 
 (July 22, 1937, ch. 517, title III, §31, 50 Stat. 525; Pub. L. 87–703, title I, §102(a), Sept. 27, 1962, 76 Stat. 607; Pub. L. 89–796, §1(a), Nov. 8, 1966, 80 Stat. 1478; Pub. L. 97–98, title XV, §1513, Dec. 22, 1981, 95 Stat. 1333.)
 
@@ -10,11 +10,11 @@ The Secretary is authorized and directed to develop a program of land conservati
 
 #### Amendments
 
-1981—Pub. L. 97–98 inserted development of energy resources to the enumeration of aims for which the Secretary may develop programs of land conservation and land utilization.
+<b>1981</b>—Pub. L. 97–98 inserted development of energy resources to the enumeration of aims for which the Secretary may develop programs of land conservation and land utilization.
 
-1966—Pub. L. 89–796 inserted “developing and protecting recreational facilities,” after “protecting fish and wildlife,”.
+<b>1966</b>—Pub. L. 89–796 inserted “developing and protecting recreational facilities,” after “protecting fish and wildlife,”.
 
-1962—Pub. L. 87–703 struck out “including the retirement of lands which are submarginal or not primarily suitable for cultivation,” after “land utilization”, provided for assistance in protecting fish and wildlife and prohibited the building of industrial parks or establishment of private industrial or commercial enterprises.
+<b>1962</b>—Pub. L. 87–703 struck out “including the retirement of lands which are submarginal or not primarily suitable for cultivation,” after “land utilization”, provided for assistance in protecting fish and wildlife and prohibited the building of industrial parks or establishment of private industrial or commercial enterprises.
 
 #### Effective Date of 1981 Amendment
 

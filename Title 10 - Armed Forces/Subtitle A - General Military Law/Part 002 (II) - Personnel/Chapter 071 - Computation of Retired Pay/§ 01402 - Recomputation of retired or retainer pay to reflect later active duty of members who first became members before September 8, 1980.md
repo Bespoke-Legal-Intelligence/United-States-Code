@@ -6,7 +6,7 @@
 
 | Column 1Take | Column 2Multiply by |
 | --- | --- |
-| Monthly basic pay <sup>1</sup> of the grade in which he would be eligible—  (1) to retire if he were retiring upon that release from active duty; or  (2) to transfer to the Fleet Reserve or Fleet Marine Corps Reserve if he were transferring to either upon that release from active duty. | 21/2 percent of the sum of—  (1) the years of service that may be credited to him in computing retired pay or retainer pay; and  (2) his years of active service after becoming entitled to retired pay or retainer pay.<sup>2</sup> |
+| Monthly basic pay <sup>1</sup> of the grade in which he would be eligible—  (1) to retire if he were retiring upon that release from active duty; or  (2) to transfer to the Fleet Reserve or Fleet Marine Corps Reserve if he were transferring to either upon that release from active duty. | 2½ percent of the sum of—  (1) the years of service that may be credited to him in computing retired pay or retainer pay; and  (2) his years of active service after becoming entitled to retired pay or retainer pay.<sup>2</sup> |
 
 <sup>1</sup> For a member who has been entitled, for continuous period of at least two years, to basic pay under the rates of basic pay in effect upon that release from active duty, compute under those rates. For a member who has been entitled to basic pay for a continuous period of at least two years upon that release from active duty, but who is not covered by the preceding sentence, compute under the rates of basic pay replaced by those in effect upon that release from active duty. For any other member, compute under the rates of basic pay under which the member's retired pay or retainer pay was computed when he entered on that active duty.
 
@@ -32,7 +32,7 @@
 
 | Column 1Take | Column 2Multiply by | Column 3Add |
 | --- | --- | --- |
-| Highest monthly basic pay that member received while on active duty after retirement or after date when his name was placed on temporary disability retired list, as the case may be. | As member elects—  (1) 21/2% of years of service credited under section 1208 of this title; <sup>1</sup> or  (2) the highest percentage of disability, not to exceed 75%, attained while on active duty after retirement or after the date when his name was placed on temporary disability retired list, as the case may be.<sup>1</sup> | Add amount necessary to increase product of columns 1 and 2 to 50% of pay upon which computation is based, if member is on temporary disability retired list. |
+| Highest monthly basic pay that member received while on active duty after retirement or after date when his name was placed on temporary disability retired list, as the case may be. | As member elects—  (1) 2½% of years of service credited under section 1208 of this title; <sup>1</sup> or  (2) the highest percentage of disability, not to exceed 75%, attained while on active duty after retirement or after the date when his name was placed on temporary disability retired list, as the case may be.<sup>1</sup> | Add amount necessary to increase product of columns 1 and 2 to 50% of pay upon which computation is based, if member is on temporary disability retired list. |
 
 <sup>1</sup> Before applying percentage factor, credit each full month of service that is in addition to the number of full years of service creditable to the member as one-twelfth of a year and disregard any remaining fractional part of a month.
 

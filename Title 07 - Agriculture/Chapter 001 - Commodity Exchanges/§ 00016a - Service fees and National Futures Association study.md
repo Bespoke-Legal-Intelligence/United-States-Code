@@ -38,7 +38,7 @@ Section was enacted as part of the Futures Trading Act of 1978, and not as part 
 
 #### Amendments
 
-1983—Pub. L. 97–444 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
+<b>1983</b>—Pub. L. 97–444 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
 #### Effective Date of 1983 Amendment
 
@@ -56,7 +56,7 @@ Pub. L. 102–546, title II, §218, Oct. 28, 1992, 106 Stat. 3612, provided that
 
 Study.—The Comptroller General of the United States shall conduct a study to determine whether—
 
-&emsp;“(1) it is feasible to fund some or all of the enforcement and market surveillance activities of the Commodity Futures Trading Commission, as required by the amendments to the Commodity Exchange Act made by the Futures Trading Practices Act of 1992 \[see Short Title of 1992 Amendment note set out under section 1 of this title\], through the imposition of an assessment on commodity futures and options transactions executed pursuant to the Commodity Exchange Act \[7 U.S.C. 1 et seq.\]; and
+&emsp;“(1) it is feasible to fund some or all of the enforcement and market surveillance activities of the Commodity Futures Trading Commission, as required by the amendments to the Commodity Exchange Act made by the Futures Trading Practices Act of 1992 \[see Short Title of 1992 Amendment note set out under section 1 of this title\], through the impositionof an assessment on commodity futures and options transactions executed pursuant to the Commodity Exchange Act \[7 U.S.C. 1 et seq.\]; and
 
 &emsp;“(2) a program of assessment-based funding for some or all of such enforcement and market surveillance activities would better provide resources to the Commodity Futures Trading Commission to enable the Commission to—
 

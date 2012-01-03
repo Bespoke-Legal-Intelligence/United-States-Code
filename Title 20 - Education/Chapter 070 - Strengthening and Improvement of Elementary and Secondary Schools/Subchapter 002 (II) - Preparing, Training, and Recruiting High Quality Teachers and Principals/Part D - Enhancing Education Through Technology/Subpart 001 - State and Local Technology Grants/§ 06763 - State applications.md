@@ -16,7 +16,7 @@ Each State application submitted under subsection (a) of this section shall incl
 
 &emsp;(4) A description of the process and accountability measures that the State educational agency will use to evaluate the extent to which activities funded under this subpart are effective in integrating technology into curricula and instruction.
 
-&emsp;(5) A description of how the State educational agency will encourage the development and utilization of innovative strategies for the delivery of specialized or rigorous academic courses and curricula through the use oftechnology, including distance learning technologies, particularly for those areas of the State that would not otherwise have access to such courses and curricula due to geographical isolation or insufficient resources.
+&emsp;(5) A description of how the State educational agency will encourage the development and utilization of innovative strategies for the delivery of specialized or rigorous academic courses and curricula through the use of technology, including distance learning technologies, particularly for those areas of the State that would not otherwise have access to such courses and curricula due to geographical isolation or insufficient resources.
 
 &emsp;(6) An assurance that financial assistance provided under this subpart will supplement, and not supplant, State and local funds.
 

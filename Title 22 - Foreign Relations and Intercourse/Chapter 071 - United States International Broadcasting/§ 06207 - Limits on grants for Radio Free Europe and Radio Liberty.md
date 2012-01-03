@@ -98,7 +98,7 @@ Subsec. (h)(1)(C). Pub. L. 107–228, §502(1), added subpar. (C).
 
 Subsec. (j)(3). Pub. L. 105–277, §1314(d)(1), substituted “Inspector General of the Department of State and the Foreign Service” for “Inspector General of the United States Information Agency”.
 
-Subsecs. (k), (<i>l</i>). Pub. L. 105–277, §1323(<i>l</i>)(1), struck out subsecs. (k) and (<i>l</i>), which listed conditions placed upon plan for relocation of offices or operations of RFE/RL, Incorporated from Munich, Germany, and required report to Congress on classification of personnel not laterthan 90 days after confirmation of all members of Board, respectively.
+Subsecs. (k), (<i>l</i>). Pub. L. 105–277, §1323(<i>l</i>)(1), struck out subsecs. (k) and (<i>l</i>), which listed conditions placed uponplan for relocation of offices or operations of RFE/RL, Incorporated from Munich, Germany, and required report to Congress on classification of personnel not later than 90 days after confirmation of all members of Board, respectively.
 
 #### Effective Date of 1998 Amendment
 

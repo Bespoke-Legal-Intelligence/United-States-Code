@@ -24,7 +24,7 @@ Affiliation Bonus.—(1) The Secretary concerned may pay an affiliation bonus un
 
 (3)(A) The Secretary concerned shall designate for an armed force under the Secretary's jurisdiction the critical officer skills to which the bonus authority under this subsection is to be applied.
 
-(B) A skill may be designated as a critical officer skill for an armed force under subparagraph (A) if, to meet requirements of that armed force, it is critical for that armed force to have a sufficient number of officers who are qualified in that skill.
+(B) A skill may be designated as a critical officer skill for an armed force under subparagraph\(A) if, to meet requirements of that armed force, it is critical for that armed force to have a sufficient number of officers who are qualified in that skill.
 
 (4) An affiliation bonus payable pursuant to an agreement under this section to an eligible officer accrues on the date on which the person is assigned to a unit or position in the Selected Reserve pursuant to such agreement.
 
@@ -54,7 +54,7 @@ Amount.—The amount of a bonus under this section may be any amount not in exce
 
 Payment.—(1) Upon acceptance of a written agreement by the Secretary concerned under this section, the total amount of the bonus payable under the agreement becomes fixed. The agreement shall specify whether the bonus is to be paid in one lump sum or in installments.
 
-(2) A person entitled to a bonus under this section who is called or ordered to active duty shallbe paid, during that period of active duty, any amount of the bonus that becomes payable to the member during that period of active duty.
+(2) A person entitled to a bonus under this section who is called or ordered to active duty shall be paid, during that period of active duty, any amount of the bonus that becomes payable to the member during that period of active duty.
 
 (f)
 

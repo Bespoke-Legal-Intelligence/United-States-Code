@@ -24,7 +24,7 @@
 
 #### (b) Librarian of Congress
 
-The Librarian of Congress shall have charge of all work (other than work under subsection (a) of this section) at the Library of Congress buildings and grounds.
+The Librarian of Congress shall have charge of all work (other than work under subsection (a)of this section) at the Library of Congress buildings and grounds.
 
 #### (c) Transfer of funds
 
@@ -34,11 +34,11 @@ The Architect of the Capitol and the Librarian of Congress may enter into agreem
 
 #### Amendments
 
-2003—Pub. L. 108–7 inserted section catchline and amended text generally. Prior to amendment, text read as follows: “The Architect of the Capitol shall have charge of all structural work at the Library of Congress buildings and grounds (as defined in section 167j of this title), including all necessary repairs, the operation, maintenance, and repair of the mechanical plant and elevators, the care and maintenance of the grounds, and the purchasing of all equipment other than office equipment. The employees required for the performance of the foregoing duties shall be appointed by the Architect of the Capitol. All other duties on June 29, 1922, required to be performed by the Superintendent of the Library Building and Grounds shall be performed under the direction of the Librarian of Congress, who shall appoint the employees necessary therefor. The Librarian of Congress shall provide for the purchase and supply of office equipment and furniture for library purposes.”
+<b>2003</b>—Pub. L. 108–7 inserted section catchline and amended text generally. Prior to amendment, text read as follows: “The Architect of the Capitol shall have charge of all structural work at the Library of Congress buildings and grounds (as defined in section 167j of this title), including all necessary repairs, the operation, maintenance, and repair of the mechanical plant and elevators, the care and maintenance of the grounds, and the purchasing of all equipment other than office equipment. The employees required for the performance of the foregoing duties shall be appointed by the Architect of the Capitol. All other duties on June 29, 1922, required to be performed by the Superintendent of the Library Building and Grounds shall be performed under the direction of the Librarian of Congress, who shall appoint the employees necessary therefor. The Librarian of Congress shall provide for the purchase and supply of office equipment and furniture for library purposes.”
 
-1990—Pub. L. 101–520 and Pub. L. 101–562 made substantively identical amendments, substituting reference to the Library of Congress buildings and grounds (as defined in section 167j of this title) for reference to the Library Building and on the grounds.
+<b>1990</b>—Pub. L. 101–520 and Pub. L. 101–562 made substantively identical amendments, substituting reference to the Library of Congress buildings and grounds (as defined in section 167j of this title) for reference to the Library Building and on the grounds.
 
-1970—Pub. L. 91–280 substituted “purchasing of all equipment other than office equipment” for “purchasing and supplying of all furniture and equipment for the building” in second sentence and inserted sentence at end.
+<b>1970</b>—Pub. L. 91–280 substituted “purchasing of all equipment other than office equipment” for “purchasing and supplying of all furniture and equipment for the building” in second sentence and inserted sentence at end.
 
 #### Effective Date of 2003 Amendment
 
@@ -80,7 +80,7 @@ Transfer Payment by Architect.—Notwithstanding the limitation on reimbursement
 
 #### “SEC. 4. FUND FOR TRANSFERRED FUNDS.
 
-“There is established in the Treasury of the United States a fund consisting of those gifts or trust funds transferred to the Architect of the Capitol under section 3. Upon prior approval of the Committee on House Oversight \[now Committee on House Administration\] of the House of Representatives and Committee on Rules and Administration of the Senate, amounts in the fund shall be available to the Architect of the Capitol, subject to appropriation, to remain available until expended, for the structural and mechanical work and refurbishment of Library buildings and grounds. Suchfunds shall be available for expenditure in fiscal year 1998, subject to the prior approval of the Committee on House Oversight of the House of Representatives and the Committee on Rules and Administration of the Senate.
+“There is established in the Treasury of the United States a fund consisting of those gifts or trust funds transferred to the Architect of the Capitol under section 3. Upon prior approval of the Committee on House Oversight \[now Committee on House Administration\] of the House of Representatives and Committee on Rules and Administration of the Senate, amounts in the fund shall be available to the Architect of the Capitol, subject to appropriation, to remain available until expended, for the structural and mechanical work and refurbishment of Library buildings and grounds. Such funds shall be available for expenditure in fiscal year 1998, subject to the prior approval of the Committee on House Oversight of the House of Representatives and the Committee on Rules and Administration of the Senate.
 
 #### “SEC. 5. EFFECTIVE DATE.
 
@@ -96,7 +96,7 @@ Special Rule for Inclusion of Property Within Library Buildings and Grounds.—T
 
 Pub. L. 103–110, §122, Oct. 21, 1993, 107 Stat. 1043, provided that:
 
-“(a) Notwithstanding any other provision of law, the Secretary of the Army shall transfer, no later than September 30, 1994, without reimbursement or transfer of funds, to the Architect of the Capitol, a portion of the real property, including improvements thereon, consisting of not more than 100 acres located at Fort George G. Meade in Anne Arundel County, Maryland, as determined under subsection (c).
+“(a) Notwithstanding any other provision of law, the Secretary of the Army shall transfer, no later than September 30, 1994, without reimbursement or transferof funds, to the Architect of the Capitol, a portion of the real property, including improvements thereon, consisting of not more than 100 acres located at Fort George G. Meade in Anne Arundel County, Maryland, as determined under subsection (c).
 
 “(b) The Architect of the Capitol shall, upon completion of the survey performed pursuant to subsection (c) and the transfer effected pursuant to subsection (a), utilize the transferred property to provide facilities to accommodate the varied long-term storage and service needs of the Library of Congress and other Legislative Branch agencies.
 
@@ -166,7 +166,7 @@ Pub. L. 86–469, May 14, 1960, 74 Stat. 132, authorized Architect of the Capito
 
 Pub. L. 104–208, div. A, title V, §5402, Sept. 30, 1996, 110 Stat. 3009–511, provided that: “The Founders Hall instructional area in the House of Representatives Page School, located in the Thomas Jefferson Building of the Library of Congress, shall be known and designated as ‘Bill Emerson Hall’.”
 
-Pub. L. 96–269, §1, June 13, 1980, 94 Stat. 486, provided: “That the building in the block bounded by East Capitol Street, Second Street Southeast, Independence Avenue Southeast, and First Street Southeast, in the District of Columbia (commonly known as the Library of Congress Building or the Library of Congress Main Building), shall hereafter be known and designated as the ‘Library of Congress Thomas Jefferson Building’. Any reference in any law, map, regulation, document, record, or other paper of the United States to such building shall be held to be a reference to the Library of Congress Thomas Jefferson Building.”
+Pub. L. 96–269, §1, June 13, 1980, 94 Stat. 486, provided: “That the building in the block bounded by East Capitol Street, Second Street Southeast, Independence Avenue Southeast, and First Street Southeast, in the District of Columbia (commonly known as the Library of Congress Building or the Library of Congress Main Building), shall hereafter be known and designated as the ‘Library of Congress Thomas Jefferson Building’. Any reference in any law, map, regulation, document,record, or other paper of the United States to such building shall be held to be a reference to the Library of Congress Thomas Jefferson Building.”
 
 Pub. L. 94–264, Apr. 13, 1976, 90 Stat. 329, which had designated the Library of Congress Annex as the Library of Congress Thomas Jefferson Building, was repealed by Pub. L. 96–269, §3, June 13, 1980, 94 Stat. 486, as part of the redesignation of that building as the Library of Congress John Adams Building and the designation of the main building of the Library of Congress as the Library of Congress Thomas Jefferson Building.
 

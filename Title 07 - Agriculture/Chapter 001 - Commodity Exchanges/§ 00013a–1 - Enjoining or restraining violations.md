@@ -2,7 +2,7 @@
 
 #### (a) Action to enjoin or restrain violations
 
-Whenever it shall appear to the Commission that any registered entity or other person has engaged, is engaging, or is about to engage in any act or practice constituting a violation of any provision of this chapter or any rule, regulation, or order thereunder, or is restraining trading in any commodity for future delivery, the Commission may bring an action in the proper district court of the United States or the proper United States court of any territory or other place subject to the jurisdiction of the United States, to enjoin such act or practice, or to enforce compliance with this chapter, or any rule, regulation or order thereunder, and said courts shall have jurisdiction to entertain such actions: <i>Provided</i>, That no restraining order (other than a restraining order which prohibits any person from destroying, altering or disposing of, or refusing to permit authorized representatives of the Commission to inspect, when and as requested, any books and records or other documents or which prohibits any person from withdrawing, transferring, removing, dissipating, or disposing of any funds, assets, or other property, and other than an order appointing a temporary receiver to administer such restraining order and to perform such other duties as the court may consider appropriate) or injunction for violation of the provisions of this chapter shall be issued ex parte by said court.
+Whenever it shall appear to the Commission that any registered entity or other person has engaged, is engaging, or is about to engage in any act or practice constituting a violation of any provision of this chapter or any rule, regulation, or order thereunder, or is restraining trading in any commodity for future delivery or any swap, the Commission may bring an action in the proper district court of the United States or the proper United States court of any territory or other place subject to the jurisdiction of the United States, to enjoin such act or practice, or to enforce compliance with this chapter, or any rule, regulation or order thereunder, and said courts shall have jurisdiction to entertain such actions: <i>Provided</i>, That no restraining order (other than a restraining order which prohibits any person from destroying, altering or disposing of, or refusing to permit authorized representatives of the Commission to inspect, when and as requested, any books and records or other documents or which prohibits any person from withdrawing, transferring, removing, dissipating, or disposing of any funds, assets, or other property, and other than an order appointing a temporary receiver to administer such restraining order and to perform such other duties as the court may consider appropriate) or injunction for violation of the provisions of this chapter shall be issued ex parte by said court.
 
 #### (b) Injunction or restraining order
 
@@ -24,6 +24,14 @@ In general.—In any action brought under this section, the Commission may seek 
 
 (2) If a person on whom such a penalty is imposed fails to pay the penalty within the time prescribed in the court's order, the Commission may refer the matter to the Attorney General who shall recover the penalty by action in the appropriate United States district court.
 
+(3)
+
+Equitable remedies.—In any action brought under this section, the Commission may seek, and the court may impose, on a proper showing, on any person found in the action to have committed any violation, equitable remedies including—
+
+&emsp;(A) restitution to persons who have sustained losses proximately caused by such violation (in the amount of such losses); and
+
+&emsp;(B) disgorgement of gains received in connection with such violation.
+
 #### (e) Venue and process
 
 Any action under this section may be brought in the district wherein the defendant is found or is an inhabitant or transacts business or in the district where the act or practice occurred, is occurring, or is about to occur, and process in such cases may be served in any district in which the defendant is an inhabitant or wherever the defendant may be found.
@@ -42,39 +50,27 @@ The Commission shall provide the Securities and Exchange Commission with notice 
 
 (Sept. 21, 1922, ch. 369, §6c, as added Pub. L. 93–463, title II, §211, Oct. 23, 1974, 88 Stat. 1402; amended Pub. L. 97–444, title II, §220, Jan. 11, 1983, 96 Stat. 2308; Pub. L. 99–641, title I, §104, Nov. 10, 1986, 100 Stat. 3557; Pub. L. 102–546, title II, §221, Oct. 28, 1992, 106 Stat. 3614; Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(15), title II, §253(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–409, 2763A–449; Pub. L. 110–234, title XIII, §13103(c), May 22, 2008, 122 Stat. 1434; Pub. L. 110–246, §4(a), title XIII, §13103(c), June 18, 2008, 122 Stat. 1664, 2196; Pub. L. 111–203, title VII, §§741(b)(5), 744, July 21, 2010, 124 Stat. 1731, 1735.)
 
-#### Amendment of Subsections (a) and (d)
-
-<i>Pub. L. 111–203, title VII, §§741(b)(5), 744, 754, July 21, 2010, 124 Stat. 1731, 1735, 1754, provided that, effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, this section is amended as follows:</i>
-
-<i>(1) in subsection (a), in the matter preceding the proviso, by inserting “or any swap” after “commodity for future delivery”; and</i>
-
-<i>(2) in subsection (d), by adding at the end the following new paragraph:</i>
-
-<i>(3)</i>
-
-<i>Equitable remedies</i>.—<i>In any action brought under this section, the Commission may seek, and the court may impose, on a proper showing, on any person found in the action to have committed any violation, equitable remedies including—</i>
-
-&emsp;<i>(A) restitution to persons who have sustained losses proximately caused by such violation (in the amount of such losses); and</i>
-
-&emsp;<i>(B) disgorgement of gains received in connection with such violation.</i>
-
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 
-2008—Subsec. (d). Pub. L. 110–246, §13103(c), inserted subsec. heading, added par. (1), and struck out former par. (1) which read as follows: “In any action brought under this section, the Commission may seek and the court shall have jurisdiction to impose, on a proper showing, on any person found in the action to have committed any violation a civil penalty in the amount of not more than the higher of $100,000 or triple the monetary gain to the person for each violation.”
+<b>2010</b>—Subsec. (a). Pub. L. 111–203, §741(b)(5), inserted “or any swap” after “commodity for future delivery”.
 
-2000—Subsec. (a). Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(15)\], substituted “registered entity” for “contract market”.
+Subsec. (d)(3). Pub. L. 111–203, §744, added par. (3).
+
+<b>2008</b>—Subsec. (d). Pub. L. 110–246, §13103(c), inserted subsec. heading, added par. (1), and struck out former par. (1) which read as follows: “In any action brought under this section, the Commission may seek and the court shall have jurisdiction to impose, on a proper showing, on any person found in the action to have committed any violation a civil penalty in the amount of not more than the higher of $100,000 or triple the monetary gain to the person for each violation.”
+
+<b>2000</b>—Subsec. (a). Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(15)\], substituted “registered entity” for “contract market”.
 
 Subsec. (h). Pub. L. 106–554, §1(a)(5) \[title II, §253(c)\], added subsec. (h).
 
-1992—Pub. L. 102–546 designated first, second, and third sentences as subsecs. (a) to (c), respectively, added subsec. (d), and designated fourth, fifth, and sixth sentences as subsecs. (e) to (g), respectively.
+<b>1992</b>—Pub. L. 102–546 designated first, second, and third sentences as subsecs. (a) to (c), respectively, added subsec. (d), and designated fourth, fifth, and sixth sentences as subsecs. (e) to (g), respectively.
 
-1986—Pub. L. 99–641 inserted “, and other than an order appointing a temporary receiver to administer such restraining order and to perform such other duties as the court may consider appropriate”.
+<b>1986</b>—Pub. L. 99–641 inserted “, and other than an order appointing a temporary receiver to administer such restraining order and to perform such other duties as the court may consider appropriate”.
 
-1983—Pub. L. 97–444 inserted “(other than a restraining order which prohibits any person from destroying, altering or disposing of, or refusing to permit authorized representatives of the Commission to inspect, when and as requested, any books and records or other documents or which prohibits any person from withdrawing, transferring, removing, dissipating, or disposing of any funds, assets, or other property)” after “<i>Provided</i>, That no restraining order”.
+<b>1983</b>—Pub. L. 97–444 inserted “(other than a restraining order which prohibits any person from destroying, altering or disposing of, or refusing to permit authorized representatives of the Commission to inspect, when and as requested, any books and records or other documents or which prohibits any person from withdrawing, transferring, removing, dissipating, or disposing of any funds, assets, or other property)” after “<i>Provided</i>, That no restraining order”.
 
 #### Effective Date of 2010 Amendment
 

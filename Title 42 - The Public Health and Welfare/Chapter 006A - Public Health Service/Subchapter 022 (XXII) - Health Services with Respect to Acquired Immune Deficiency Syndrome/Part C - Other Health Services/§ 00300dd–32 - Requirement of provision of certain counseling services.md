@@ -32,7 +32,7 @@ The Secretary may not make a grant under section 300dd–31 of this title to a S
 
 &emsp;(4) the availability in the geographic area of any appropriate services with respect to health care, including mental health care and social and support services;
 
-&emsp;(5) the benefits of locating and counseling any individual by whom the infected individual may have been exposed to the etiologic agent for acquired immune deficiency syndrome and any individual whom the infected individual may have exposed to such etiologic agent; and
+&emsp;(5) the benefits of locating and counseling any individual by whom the infected individual may have been exposed to the etiologicagent for acquired immune deficiency syndrome and any individual whom the infected individual may have exposed to such etiologic agent; and
 
 &emsp;(6) the availability, if any, of the services of public health authorities with respect to locating and counseling any individual described in paragraph (5).
 
@@ -50,7 +50,7 @@ Agreements entered into pursuant to subsections (a) through (c) of this section 
 
 (4) Paragraph (3) may not be construed to prohibit a counselor who has already performed the counseling of an individual required by paragraph (2), to provide accurate information about means to reduce an individual's risk of exposure to, or the transmission of, the etiologic agent for acquired immune deficiency syndrome, provided that any informational materials used are not obscene.
 
-(July 1, 1944, ch. 373, title XXIV, §2432, as added Pub. L. 100–607, title II, §211, Nov. 4, 1988, 102 Stat. 3090; amended Pub. L. 100–690, title II,§2618(i), Nov. 18, 1988, 102 Stat. 4242; Pub. L. 102–321, title I, §118(b)(1)(B), July 10, 1992, 106 Stat. 348.)
+(July 1, 1944, ch. 373, title XXIV, §2432, as added Pub. L. 100–607, title II, §211, Nov. 4, 1988, 102 Stat. 3090; amended Pub. L. 100–690, title II, §2618(i), Nov. 18, 1988, 102 Stat. 4242; Pub. L. 102–321, title I, §118(b)(1)(B), July 10, 1992, 106 Stat. 348.)
 
 #### Amendments
 

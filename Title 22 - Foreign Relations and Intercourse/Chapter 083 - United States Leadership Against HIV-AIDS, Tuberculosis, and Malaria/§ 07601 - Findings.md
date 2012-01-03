@@ -12,7 +12,7 @@ Congress makes the following findings:
 
 &emsp;(C) Women and children who are refugees or are internally displaced persons are especially vulnerable to sexual exploitation and violence, thereby increasing the possibility of HIV infection.
 
-&emsp;(4) As the leading cause of death in sub-Saharan Africa, AIDS has killed more than 19,400,000 individuals (more than 3 times thenumber of AIDS deaths in the rest of the world) and will claim the lives of one-quarter of the population, mostly adults, in the next decade.
+&emsp;(4) As the leading cause of death in sub-Saharan Africa, AIDS has killed more than 19,400,000 individuals (more than 3 times the number of AIDS deaths in the rest of the world) and will claim the lives of one-quarter of the population, mostly adults, in the next decade.
 
 &emsp;(5) An estimated 2,000,000 individuals in Latin America and the Caribbean and another 7,100,000 individuals in Asia and the Pacific region are infected with HIV or living with AIDS. Infection rates are rising alarmingly in Eastern Europe (especially in the Russian Federation), Central Asia, and China.
 
@@ -46,7 +46,7 @@ Congress makes the following findings:
 
 &emsp;(17) Appropriate treatment of individuals with HIV/AIDS can prolong the lives of such individuals, preserve their families, prevent children from becoming orphans, and increase productivity of such individuals by allowing them to lead active lives and reduce the need for costly hospitalization for treatment of opportunistic infections caused by HIV.
 
-&emsp;(18) Nongovernmental organizations, including faith-based organizations, with experiencein health care and HIV/AIDS counseling, have proven effective in combating the HIV/AIDS pandemic and can be a resource in assisting indigenous organizations in severely affected countries in their efforts to provide treatment and care for individuals infected with HIV/AIDS.
+&emsp;(18) Nongovernmental organizations, including faith-based organizations, with experience in health care and HIV/AIDS counseling, have proven effective in combating the HIV/AIDS pandemic and can be a resource in assisting indigenous organizations in severely affected countries in their efforts to provide treatment and care for individuals infected with HIV/AIDS.
 
 &emsp;(19) Faith-based organizations are making an important contribution to HIV prevention and AIDS treatment programs around the world. Successful HIV prevention programs in Uganda, Jamaica, and elsewhere have included local churches and faith-based groups in efforts to promote behavior changes to prevent HIV, to reduce stigma associated with HIV infection, to treat those afflicted with the disease, and to care for orphans. The Catholic Church alone currently cares for one in four people being treated for AIDS worldwide. Faith-based organizations possess infrastructure, experience, and knowledge that will be needed to carry out these programs in the future and should be an integral part of United States efforts.
 
@@ -82,7 +82,7 @@ Congress makes the following findings:
 
 &emsp;&emsp;(F) encouraging active involvement of the private sector, including businesses, pharmaceutical and biotechnology companies, the medical and scientific communities, charitable foundations, private and voluntary organizations and nongovernmental organizations, faith-based organizations, community-based organizations, and other nonprofit entities.
 
-&emsp;(23) Prostitution and other sexual victimization are degrading to women and children and it should be the policy of the United States to eradicate such practices. The sex industry, the trafficking of individuals into such industry, and sexual violence are additional causes of and factors in the spread of the HIV/AIDS epidemic. One in nine South Africans is living with AIDS, and sexual assault is rampant, at a victimization rate of one in three women. Meanwhile in Cambodia, as many as 40 percentof prostitutes are infected with HIV and the country has the highest rate of increase of HIV infection in all of Southeast Asia. Victims of coercive sexual encounters do not get to make choices about their sexual activities.
+&emsp;(23) Prostitution and other sexual victimization are degrading to women and children and it should be the policy of the United States to eradicate such practices. The sex industry, the trafficking of individuals into such industry, and sexual violence are additional causes of and factors in the spread of the HIV/AIDS epidemic. One in nine South Africans is living with AIDS, and sexual assault is rampant, at a victimization rate of one in three women. Meanwhile in Cambodia, as many as 40 percent of prostitutes are infected with HIV and the country has the highest rate of increase of HIV infection in all of Southeast Asia. Victims of coercive sexual encounters do not get to make choices about their sexual activities.
 
 &emsp;(24) Strong coordination must exist among the various agencies of the United States to ensure effective and efficient use of financial and technical resources within the United States Government with respect to the provision of international HIV/AIDS assistance.
 
@@ -162,7 +162,7 @@ Congress makes the following findings:
 
 &emsp;&emsp;(B) committed “TO TAKE PERSONAL RESPONSIBILITY AND PROVIDE LEADERSHIP for the activities of the National AIDS Commissions/Councils”;
 
-&emsp;&emsp;(C) resolved “to lead from the front the battle against HIV/AIDS, Tuberculosis and Other Related Infectious Diseases by personally ensuring that such bodies were properly convened in mobilizing our societies as a whole and providing focus for unified national policymaking and programme implementation, ensuring coordination of all sectors at all levels with a gender perspective and respect for human rights, particularly to ensure equal rights for people living with HIV/AIDS”; and
+&emsp;&emsp;(C) resolved “to lead from the front the battle against HIV/AIDS, Tuberculosis and Other Related Infectious Diseases by personally ensuring that such bodies were properlyconvened in mobilizing our societies as a whole and providing focus for unified national policymaking and programme implementation, ensuring coordination of all sectors at all levels with a gender perspective and respect for human rights, particularly to ensure equal rights for people living with HIV/AIDS”; and
 
 &emsp;&emsp;(D) pledged “to set a target of allocating at least 15% of our annual budget to the improvement of the health sector”.
 

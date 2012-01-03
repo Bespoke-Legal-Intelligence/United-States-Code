@@ -4,7 +4,7 @@
 
 The Administrator shall conduct studies and develop recommendations for administrative or legislative action on—
 
-&emsp;(1) means of recovering materials and energy from solid waste, recommended uses of such materials and energy for national or international welfare, including identification ofpotential markets for such recovered resources, the impact of distribution of such resources on existing markets, and potentials for energy conservation through resource conservation and resource recovery;
+&emsp;(1) means of recovering materials and energy from solid waste, recommended uses of such materials and energy for national or international welfare, including identification of potential markets for such recovered resources, the impact of distribution of such resources on existing markets, and potentials for energy conservation through resource conservation and resource recovery;
 
 &emsp;(2) actions to reduce waste generation which have been taken voluntarily or in response to governmental action, and those which practically could be taken in the future, and the economic, social, and environmental consequences of such actions;
 

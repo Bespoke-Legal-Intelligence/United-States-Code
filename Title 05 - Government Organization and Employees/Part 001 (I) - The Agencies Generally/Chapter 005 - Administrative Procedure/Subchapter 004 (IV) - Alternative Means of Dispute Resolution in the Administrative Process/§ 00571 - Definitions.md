@@ -50,11 +50,11 @@ A prior section 571 was renumbered section 591 of this title.
 
 #### Amendments
 
-1996—Par. (3). Pub. L. 104–320, §2(1), struck out “, in lieu of an adjudication as defined in section 551(7) of this title,” after “any procedure that is used”, struck out “settlement negotiations,” after “but not limited to,” and substituted “arbitration, and use of ombuds” for “and arbitration”.
+<b>1996</b>—Par. (3). Pub. L. 104–320, §2(1), struck out “, in lieu of an adjudication as defined in section 551(7) of this title,” after “any procedure that is used”, struck out “settlement negotiations,” after “but not limited to,” and substituted “arbitration, and use of ombuds” for “and arbitration”.
 
 Par. (8). Pub. L. 104–320, §2(2), substituted “decision;” for “decision,” at end of subpar. (B), and struck out closing provisions which read as follows: “except that such term shall not include any matter specified under section 2302 or 7121(c) of this title;”.
 
-1992—Pub. L. 102–354, §3(b)(2), renumbered section 581 of this title as this section.
+<b>1992</b>—Pub. L. 102–354, §3(b)(2), renumbered section 581 of this title as this section.
 
 Par. (3). Pub. L. 102–354, §5(b)(1), inserted comma after “including”.
 
@@ -100,7 +100,7 @@ Section 3 of Pub. L. 101–552, as amended by Pub. L. 104–320, §4(a), Oct. 19
 
 Promulgation of Agency Policy.—Each agency shall adopt a policy that addresses the use of alternative means of dispute resolution and case management. In developing such a policy, each agency shall—
 
-&emsp;“(1) consult with the agency designated by, or the interagency committee designated or established by, the President under section 573 of title 5, United States Code, to facilitate and encourage agency use of alternative dispute resolution under subchapter IV of chapter 5 of such title; and
+&emsp;“(1) consult with the agency designated by, or the interagency committee designated or established by,the President under section 573 of title 5, United States Code, to facilitate and encourage agency use of alternative dispute resolution under subchapter IV of chapter 5 of such title; and
 
 &emsp;“(2) examine alternative means of resolving disputes in connection with—
 

@@ -18,7 +18,7 @@
 
 #### (3) Limitation on disposal
 
-&emsp;Except as otherwise provided by law, no distilled spirits, wines, or beer which have been seized under any law of the United States may be disposed of in any manner whatsoever except after forfeiture and as provided in this subsection.
+&emsp;Except as otherwise provided by law, no distilled spirits, wines, or beer which have beenseized under any law of the United States may be disposed of in any manner whatsoever except after forfeiture and as provided in this subsection.
 
 #### (4) Regulations
 
@@ -30,7 +30,7 @@
 
 #### (b) Distraint or judicial process
 
-Except as provided in section 5243, all distilled spirits sold by order of court, or under process of distraint, shall be sold subject to tax; and the purchaser shall immediately, and before hetakes possession of said spirits, pay the tax thereon, pursuant to the applicable provisions of this chapter and in accordance with regulations to be prescribed by the Secretary.
+Except as provided in section 5243, all distilled spirits sold by order of court, or under process of distraint, shall be sold subject to tax; and the purchaser shall immediately, and before he takes possession of said spirits, pay the tax thereon, pursuant to the applicable provisions of this chapter and in accordance with regulations to be prescribed by the Secretary.
 
 #### (c) Release of seized vessels or vehicles by courts
 

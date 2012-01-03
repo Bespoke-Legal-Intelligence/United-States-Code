@@ -20,7 +20,7 @@ Aug. 1, 1953, ch. 304, title I, 67 Stat. 325.
 
 #### Amendments
 
-1996—Pub. L. 104–186 substituted “applicable accounts of the House of Representatives” for “contingent fund of the House” and “House Oversight” for “House Administration”.
+<b>1996</b>—Pub. L. 104–186 substituted “applicable accounts of the House of Representatives” for “contingent fund of the House” and “House Oversight” for “House Administration”.
 
 #### Change of Name
 

@@ -12,7 +12,7 @@ Removal Due to Senate Not Giving Advice and Consent.—If, after consideration o
 
 Removal After 18
 
-Months.—(1) If an officer whose name is on a list of officers approvedfor promotion under section 624(a) of this title to a grade for which appointment is required by section 624(c) of this title to be made by and with the advice and consent of the Senate is not appointed to that grade under such section during the officer's promotion eligibility period, the officer's name shall be removed from the list unless as of the end of such period the Senate has given its advice and consent to the appointment.
+Months.—(1) If an officer whose name is on a list of officers approved for promotion under section 624(a) of this title to a grade for which appointment is required by section 624(c) of this title to be made by and with the advice and consent of the Senate is not appointed to that grade under such section during the officer's promotion eligibility period, the officer's name shall be removed from the list unless as of the end of such period the Senate has given its advice and consent to the appointment.
 
 (2) Before the end of the promotion eligibility period with respect to an officer under paragraph (1), the President may extend that period for purposes of paragraph (1) by an additional 12 months.
 

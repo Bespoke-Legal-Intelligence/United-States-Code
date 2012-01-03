@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment.—The Secretary shall develop and carry out a comprehensive program designed to reduce the incidence of suicide among veterans incorporating the components described in this section.
+Establishment.—The Secretary shall develop and carry out a comprehensive programdesigned to reduce the incidence of suicide among veterans incorporating the components described in this section.
 
 (b)
 

@@ -52,7 +52,7 @@ Duties and Responsibilities of Senior Officials Responsible for the Management o
 
 &emsp;(D) ensure that contract services are procured by means of procurement actions that are in the best interests of the Department of Defense and are entered into and managed in compliance with applicable laws, regulations, directives, and requirements;
 
-&emsp;(E) ensure that competitive procedures and performance-based contracting are used to the maximum extent practicable for the procurement of contract services; and
+&emsp;(E) ensure that competitive procedures and performance-based contracting are used to themaximum extent practicable for the procurement of contract services; and
 
 &emsp;(F) monitor data collection under section 2330a of this title, and periodically conduct spending analyses, to ensure that funds expended for the procurement of contract services are being expended in the most rational and economical manner practicable.
 
@@ -88,9 +88,49 @@ Another prior section 2330 was renumbered section 2349 of this title.
 
 <b>2002</b>—Subsec. (c). Pub. L. 107–314 inserted comma after “a task order”.
 
+#### Implementation of Recommendations of Defense Science Board Task Force on Improvements to Service Contracting
+
+Pub. L. 112–81, div. A, title VIII, §807, Dec. 31, 2011, 125 Stat. 1488, provided that:
+
+“(a)
+
+Plan for Implementation.—Not later than 180 days after the date of the enactment of this Act \[Dec. 31, 2011\], the Under Secretary of Defense for Acquisition, Technology, and Logistics shall, acting pursuant to the Under Secretary's responsibility under section 2330 of title 10, United States Code, develop a plan for implementing the recommendations of the Defense Science Board Task Force on Improvements to Service Contracting.
+
+“(b)
+
+Elements.—The plan developed pursuant to subsection (a) shall include, to the extent determined appropriate by the Under Secretary for Acquisition, Technology, and Logistics, the following:
+
+&emsp;“(1) Meaningful incentives to services contractors for high performance at low cost, consistent with the objectives of the Better Buying Power Initiative established by the Under Secretary.
+
+&emsp;“(2) Improved means of communication between the Government and the services contracting industry in the process of developing requirements for services contracts.
+
+&emsp;“(3) Clear guidance for defense acquisition personnel on the use of appropriate contract types for particular categories of services contracts.
+
+&emsp;“(4) Formal certification and training requirements for services acquisition personnel, consistent with the requirements of sections 1723 and 1724 of title 10, United States Code.
+
+&emsp;“(5) Appropriate emphasis on the recruiting and training of services acquisition personnel, consistent with the strategic workforce plan developed pursuant to section 115b of title 10, United States Code, and the funds available through the Department of Defense Acquisition Workforce Development Fund established pursuant to section 1705 of title 10, United States Code.
+
+&emsp;“(6) Policies and guidance on career development for services acquisition personnel, consistent with the requirements of sections 1722a and 1722b of title 10, United States Code.
+
+&emsp;“(7) Actions to ensure that the military departments dedicate portfolio-specific commodity managers to coordinate the procurement of key categories of contract services, as required by section 2330(b)(3)(C) of title 10, United States Code.
+
+&emsp;“(8) Actions to ensure that the Department of Defense conducts realistic exercises and training that account for services contracting during contingency operations, as required by section 2333(e) of title 10, United States Code.
+
+“(c)
+
+Comptroller General Report.—Not later than 18 months after the date of the enactment of this Act \[Dec. 31, 2011\], the Comptroller General of the United States shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the following:
+
+&emsp;“(1) The actions taken by the Under Secretary of Defense for Acquisition, Technology, and Logistics to carry out the requirements of this section.
+
+&emsp;“(2) The actions taken by the Under Secretary to carry out the requirements of section 2330 of title 10, United States Code.
+
+&emsp;“(3) The actions taken by the military departments to carry out the requirements of section 2330 of title 10, United States Code.
+
+&emsp;“(4) The extent to which the actions described in paragraphs (1), (2), and (3) have resulted in the improved acquisition and management of contract services.”
+
 #### Requirements for the Acquisition of Services
 
-Pub. L. 111–383, div. A, title VIII, §863(a)–(h), Jan. 7, 2011, 124 Stat. 4293, 4294, provided that:
+Pub. L. 111–383, div. A, title VIII, §863(a)–(h), Jan. 7, 2011, 124 Stat. 4293, 4294, as amended by Pub. L. 112–81, div. A, title IX, §933(c), Dec. 31, 2011, 125 Stat. 1544, provided that:
 
 “(a)
 
@@ -127,6 +167,8 @@ Implementation Plans Required.—The Secretary shall ensure that an implementati
 &emsp;“(7) Procedures for coordinating with the acquisition process.
 
 &emsp;“(8) Considerations relating to opportunities for strategic sourcing.
+
+&emsp;“(9) Considerations relating to total force management policies and procedures established under section 129a of this title \[probably should be “title 10, United States Code”\].
 
 “(e)
 

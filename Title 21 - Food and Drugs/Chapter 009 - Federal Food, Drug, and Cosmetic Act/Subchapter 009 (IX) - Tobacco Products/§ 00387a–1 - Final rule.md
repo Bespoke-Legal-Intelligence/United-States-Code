@@ -60,7 +60,7 @@
 
 &emsp;&emsp;“(III) any combination of words that would imply to a reasonable observer that the manufacturer, distributor, or retailer has a sponsorship that would violate section 897.34(c).
 
-“(D) Distribution of samples of smokeless tobacco under this subparagraph permitted to be taken out of the qualified adult-only facility shall be limited to 1 package per adult consumer containing no more than 0.53 ounces (15 grams) of smokeless tobacco. If such package of smokeless tobacco contains individual portions of smokeless tobacco, the individual portions of smokeless tobacco shall not exceed 8 individual portions and the collective weight of such individual portions shall not exceed 0.53 ounces (15 grams). Any manufacturer, distributor, or retailer who distributes or causes to be distributed free samples also shall take reasonable steps to ensure that the above amounts are limited to one such package per adult consumer per day.
+“(D) Distribution of samples of smokeless tobacco under this subparagraph permitted to be taken out of the qualified adult-only facility shall be limited to 1 package per adult consumer containing no more than 0.53 ounces (15 grams) of smokeless tobacco. If such package of smokeless tobacco contains individual portions ofsmokeless tobacco, the individual portions of smokeless tobacco shall not exceed 8 individual portions and the collective weight of such individual portions shall not exceed 0.53 ounces (15 grams). Any manufacturer, distributor, or retailer who distributes or causes to be distributed free samples also shall take reasonable steps to ensure that the above amounts are limited to one such package per adult consumer per day.
 
 “(3) Notwithstanding subparagraph (2), no manufacturer, distributor, or retailer may distribute or cause to be distributed any free samples of smokeless tobacco—
 
@@ -98,7 +98,7 @@ As of June 22, 2009, the following documents issued by the Food and Drug Adminis
 
 &emsp;(1) The preamble to the proposed rule in the document titled “Regulations Restricting the Sale and Distribution of Cigarettes and Smokeless Tobacco Products to Protect Children and Adolescents” (60 Fed. Reg. 41314–41372 (August 11, 1995)).
 
-&emsp;(2) The document titled “Nicotine in Cigarettes and Smokeless Tobacco Products is aDrug and These Products Are Nicotine Delivery Devices Under the Federal Food, Drug, and Cosmetic Act” (60 Fed. Reg. 41453–41787 (August 11, 1995)).
+&emsp;(2) The document titled “Nicotine in Cigarettes and Smokeless Tobacco Products is a Drug and These Products Are Nicotine Delivery Devices Under the Federal Food, Drug, and Cosmetic Act” (60 Fed. Reg. 41453–41787 (August 11, 1995)).
 
 &emsp;(3) The preamble to the final rule in the document titled “Regulations Restricting the Sale and Distribution of Cigarettes and Smokeless Tobacco to Protect Children and Adolescents” (61 Fed. Reg. 44396–44615 (August 28, 1996)).
 

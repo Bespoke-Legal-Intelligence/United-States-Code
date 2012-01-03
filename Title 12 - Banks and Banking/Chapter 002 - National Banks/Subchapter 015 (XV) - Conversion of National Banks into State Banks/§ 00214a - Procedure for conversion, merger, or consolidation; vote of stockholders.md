@@ -14,7 +14,7 @@ A shareholder of a national banking association who votes against the conversion
 
 #### Amendments
 
-1980—Subsec. (b). Pub. L. 96–221 substituted “majority” for “unanimous”.
+<b>1980</b>—Subsec. (b). Pub. L. 96–221 substituted “majority” for “unanimous”.
 
-1960—Subsec. (a). Pub. L. 86–507 inserted “or by certified mail” after “registered mail”.
+<b>1960</b>—Subsec. (a). Pub. L. 86–507 inserted “or by certified mail” after “registered mail”.
 

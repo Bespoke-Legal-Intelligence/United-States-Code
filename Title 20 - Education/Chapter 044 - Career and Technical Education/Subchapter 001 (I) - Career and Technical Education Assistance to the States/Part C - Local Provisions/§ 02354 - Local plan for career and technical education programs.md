@@ -2,7 +2,7 @@
 
 #### (a) Local plan required
 
-Any eligible recipient desiring financial assistance under this part shall, in accordance with requirements established by the eligible agency (in consultation with such other educational training entities as the eligible agency determines to be appropriate) submit a local plan to the eligible agency. Such local plan shall cover the same period of time as the period of time applicable to the State plan submitted under section 2342 of this title.
+Any eligible recipient desiring financial assistance under this part shall, in accordancewith requirements established by the eligible agency (in consultation with such other educational training entities as the eligible agency determines to be appropriate) submit a local plan to the eligible agency. Such local plan shall cover the same period of time as the period of time applicable to the State plan submitted under section 2342 of this title.
 
 #### (b) Contents
 

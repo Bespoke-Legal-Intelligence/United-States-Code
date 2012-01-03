@@ -6,7 +6,7 @@ Definition.—In this section, “Federal correctional institution” and “ter
 
 (b)
 
-Offense and Penalty.—A person, having escaped from a Federal correctional institution where the person was confined under a sentence for a term of life imprisonment, kills anothershall be punished as provided in sections 1111 and 1112.
+Offense and Penalty.—A person, having escaped from a Federal correctional institution where the person was confined under a sentence for a term of life imprisonment, kills another shall be punished as provided in sections 1111 and 1112.
 
 (Added Pub. L. 103–322, title VI, §60012(a), Sept. 13, 1994, 108 Stat. 1973; amended Pub. L. 104–294, title VI, §601(c)(2), Oct. 11, 1996, 110 Stat. 3499.)
 

@@ -66,7 +66,7 @@ Modifications to Prior Contracts.—On the request of a contractor that was requ
 
 (g)
 
-Adjustment of Amounts.—Effective on October 1 of each year that is divisible by 5, eachamount set forth in subsection (a) shall be adjusted to the amount that is equal to the fiscal year 1994 constant dollar value of the amount set forth. Any amount, as so adjusted, that is not evenly divisible by $50,000 shall be rounded to the nearest multiple of $50,000. In the case of an amount that is evenly divisible by $25,000 but not evenly divisible by $50,000, the amount shall be rounded to the next higher multiple of $50,000.
+Adjustment of Amounts.—Effective on October 1 of each year that is divisible by 5, each amount set forth in subsection (a) shall be adjusted to the amount that is equal to the fiscal year 1994 constant dollar value of the amount set forth. Any amount, as so adjusted, that is not evenly divisible by $50,000 shall be rounded to the nearest multiple of $50,000. In the case of an amount that is evenly divisible by $25,000 but not evenly divisible by $50,000, the amount shall be rounded to the next higher multiple of $50,000.
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3765.)
 

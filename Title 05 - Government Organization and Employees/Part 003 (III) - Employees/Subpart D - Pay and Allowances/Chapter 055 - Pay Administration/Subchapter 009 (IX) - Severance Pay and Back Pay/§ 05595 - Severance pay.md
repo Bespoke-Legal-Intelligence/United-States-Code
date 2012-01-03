@@ -60,7 +60,7 @@
 
 > Total severance pay under this section may not exceed 1 year's pay at the rate received immediately before separation. For the purpose of this subsection, “basic pay” includes premium pay under section 5545(c)(1) of this title.
 
-(d) If an employee is reemployed by the Government of the United States or the government of the District of Columbia before the end of the period covered by payments of severance pay, the payments shall be discontinued beginning with the date of reemployment and the service represented by the unexpired portion of the period shall be recredited to the employee for use in any later computations of severance pay. For the purpose of subsection (b) (1) of this section, reemployment that causes severance pay to be discontinued is deemed employment continuous with that serving as the basis for severance pay.
+(d) If an employee is reemployed by the Government of the United States or the government of the District of Columbia before the end of the period covered by payments of severance pay, the payments shall be discontinued beginning with the date of reemployment and the service represented by the unexpired portion of the period shall be recredited to the employee for use in any later computations of severance pay. For the purpose of subsection (b) (1) of this section,reemployment that causes severance pay to be discontinued is deemed employment continuous with that serving as the basis for severance pay.
 
 (e) If the employee dies before the end of the period covered by payments of severance pay, the payments of severance pay with respect to the employee shall be continued as if the employee were living and shall be paid on a pay period basis to the survivor of the employee in accordance with section 5582(b) of this title.
 
@@ -110,13 +110,13 @@
 
 (B) The period of service represented by an amount of severance pay repaid by an employee under subparagraph (A) shall be considered service for which severance pay has not been received by the employee under this section.
 
-(C) Amounts repaid to an agency under this paragraph shall be credited to the appropriation available for the pay of employees of the agencyfor the fiscal year in which received. Amounts so credited shall be merged with, and shall be available for the same purposes and the same period as, the other funds in that appropriation.
+(C) Amounts repaid to an agency under this paragraph shall be credited to the appropriation available for the pay of employees of the agency for the fiscal year in which received. Amounts so credited shall be merged with, and shall be available for the same purposes and the same period as, the other funds in that appropriation.
 
 (3) If an employee fails to repay to an agency an amount required to be repaid under paragraph (2)(A), that amount is recoverable from the employee as a debt due the United States.
 
 (4) This subsection applies with respect to severance pay payable under this section for separations taking effect on or after February 10, 1996, and before October 1, 2014.
 
-(j)(1) In the case of an employee of the Department of Energy who is entitled to severance pay under this section as a result of the establishment of the National Nuclear Security Administration, the Secretary of Energy may, upon application by the employee, pay the total amount of the severance pay to the employee in one lump sum.
+(j)(1) In the case of an employee of the Department of Energy who is entitled to severance payunder this section as a result of the establishment of the National Nuclear Security Administration, the Secretary of Energy may, upon application by the employee, pay the total amount of the severance pay to the employee in one lump sum.
 
 (2)(A) If an employee paid severance pay in a lump sum under this subsection is reemployed by the Government of the United States or the government of the District of Columbia at such time that, had the employee been paid severance pay in regular pay periods under subsection (b), the payments of such pay would have been discontinued under subsection (d) upon such reemployment, the employee shall repay to the Department of Energy an amount equal to the amount of severance pay to which the employee was entitled under this section that would not have been paid to the employee under subsection (d) by reason of such reemployment.
 
@@ -172,51 +172,51 @@ Section 609(b)(1) of the Foreign Service Act of 1980, referred to in subsec. (a)
 
 #### Amendments
 
-2008—Subsec. (i)(4). Pub. L. 110–417 substituted “2014” for “2010”.
+<b>2008</b>—Subsec. (i)(4). Pub. L. 110–417 substituted “2014” for “2010”.
 
-2006—Subsec. (h)(5). Pub. L. 109–241 substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
+<b>2006</b>—Subsec. (h)(5). Pub. L. 109–241 substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
 
 Subsec. (i)(4). Pub. L. 109–163 substituted “2010” for “2006”.
 
-2002—Subsec. (i)(4). Pub. L. 107–314 substituted “2006” for “2003”.
+<b>2002</b>—Subsec. (i)(4). Pub. L. 107–314 substituted “2006” for “2003”.
 
-1999—Subsec. (b). Pub. L. 106–31 substituted “(a)(1)(C)” for “(a)(1)(G)” in last sentence.
+<b>1999</b>—Subsec. (b). Pub. L. 106–31 substituted “(a)(1)(C)” for “(a)(1)(G)” in last sentence.
 
 Subsec. (i)(4). Pub. L. 106–65, §1104(a), substituted “February 10, 1996, and before October 1, 2003” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 1996 and before October 1, 1999”.
 
 Subsec. (j). Pub. L. 106–65, §3243, added subsec. (j).
 
-1998—Subsec. (a)(1)(F). Pub. L. 105–275, §308(a)(1), struck out “, but only with respect to the United States Senate Restaurants” after “Capitol”.
+<b>1998</b>—Subsec. (a)(1)(F). Pub. L. 105–275, §308(a)(1), struck out “, but only with respect to the United States Senate Restaurants” after “Capitol”.
 
-Subsec. (a)(2)(viii). Pub. L. 105–275, §§308(a)(2), 309(a)(1)(A), struck out “of the United States Senate Restaurants” after “an employee” and “or” after the semicolon.
+Subsec. (a)(2)(viii). Pub. L. 105–275, §§308(a)(2), 309(a)(1)(A), struck out “of the United States SenateRestaurants” after “an employee” and “or” after the semicolon.
 
 Subsec. (a)(2)(ix), (x). Pub. L. 105–275, §309(a)(1)(B), added cl. (ix) and redesignated former cl. (ix) as (x).
 
 Subsec. (b). Pub. L. 105–275, §309(a)(2), inserted at end “The Public Printer may prescribe regulations to effect the application and operation of this section to the agency specified in subsection (a)(1)(G) of this section.”
 
-1997—Subsec. (a)(1)(F). Pub. L. 105–55, §310(a)(1), added subpar. (F).
+<b>1997</b>—Subsec. (a)(1)(F). Pub. L. 105–55, §310(a)(1), added subpar. (F).
 
 Subsec. (a)(2)(viii), (ix). Pub. L. 105–55, §310(a)(2), added cl. (viii) and redesignated former cl. (viii) as (ix).
 
 Subsec. (b). Pub. L. 105–55, §310(a)(3), inserted at end “The Architect of the Capitol may prescribe regulations to effect the application and operation of this section to the agency specified in subsection (a)(1)(F) of this section.”
 
-1996—Subsec. (i). Pub. L. 104–106 added subsec. (i).
+<b>1996</b>—Subsec. (i). Pub. L. 104–106 added subsec. (i).
 
-1994—Subsec. (h). Pub. L. 103–337 added subsec. (h).
+<b>1994</b>—Subsec. (h). Pub. L. 103–337 added subsec. (h).
 
-1990—Subsec. (a)(1)(E). Pub. L. 101–474, §5(k)(1), added subpar. (E).
+<b>1990</b>—Subsec. (a)(1)(E). Pub. L. 101–474, §5(k)(1), added subpar. (E).
 
 Subsec. (a)(2)(i). Pub. L. 101–509 substituted “employee (other” for “employee, other”, inserted “or an employee whose pay is fixed under section 5376)” before “whose rate”, and substituted “the Executive Schedule” for “GS–18”.
 
 Subsec. (b). Pub. L. 101–474, §5(k)(2), inserted at end “However, the Director of the Administrative Office of the United States Courts may prescribe regulations to effect the application and operation of this section to the agencies specified in subsection (a)(1)(E) of this section.”
 
-1988—Subsec. (a)(2)(i). Pub. L. 100–325 inserted reference to Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service.
+<b>1988</b>—Subsec. (a)(2)(i). Pub. L. 100–325 inserted reference to Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service.
 
-1980—Subsec. (a)(2)(vi). Pub. L. 96–465 inserted “benefits under section 609(b)(1) of the Foreign Service Act of 1980 or any” after “to receive”.
+<b>1980</b>—Subsec. (a)(2)(vi). Pub. L. 96–465 inserted “benefits under section 609(b)(1) of the Foreign Service Act of 1980 or any” after “to receive”.
 
-1979—Subsec. (a)(2)(iii). Pub. L. 96–70 substituted “areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements (as described in section 3(a) of the Panama Canal Act of 1979)” for “Canal Zone”.
+<b>1979</b>—Subsec. (a)(2)(iii). Pub. L. 96–70 substituted “areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements (as described in section 3(a) of the Panama Canal Act of 1979)” for “Canal Zone”.
 
-1978—Subsec. (a)(2)(i). Pub. L. 95–454 inserted reference to a member of the Senior Executive Service.
+<b>1978</b>—Subsec. (a)(2)(i). Pub. L. 95–454 inserted reference to a member of the Senior Executive Service.
 
 #### Effective Date of 1999 Amendment
 

@@ -16,7 +16,7 @@
 
 #### (3) No assistance for families not assigning certain support rights to the State
 
-&emsp;A State to which a grant is made under section 603 of this title shall require, as a condition of paying assistance to a family under the State program funded under this part, that a member of the family assign to the State any right the family member may have (on behalf of the family member or of any other person for whom the family member has applied for or is receiving such assistance) to support from any other person, not exceeding the total amount of assistance so paid to the family, which accrues during the period that the family receives assistance under the program.
+&emsp;A State to which a grant is made under section 603 of this title shall require, as a condition of paying assistance to a family under the State program funded under this part, that a member of the family assign to the State any right the family member may have (on behalf of the family member or of any other person for whom the family member has applied for or is receiving such assistance) to support from any other person, not exceeding the totalamount of assistance so paid to the family, which accrues during the period that the family receives assistance under the program.
 
 #### (4) No assistance for teenage parents who do not attend high school or other equivalent training program
 
@@ -124,7 +124,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In determining the number of months for which an adult has received assistance under a State or tribal program funded under this part, the State or tribe shall disregard any month during which the adult lived in Indian country or an Alaskan Native village if the most reliabledata available with respect to the month (or a period including the month) indicate that at least 50 percent of the adults living in Indian country or in the village were not employed.
+&emsp;&emsp;&emsp;In determining the number of months for which an adult has received assistance under a State or tribal program funded under this part, the State or tribe shall disregard any month during which the adult lived in Indian country or an Alaskan Native village if the most reliable data available with respect to the month (or a period including the month) indicate that at least 50 percent of the adults living in Indian country or in the village were not employed.
 
 #### (ii) “Indian country” defined
 
@@ -152,7 +152,7 @@
 
 &emsp;&emsp;A State to which a grant is made under section 603 of this title shall not use any part of the grant to provide assistance to any individual who is—
 
-&emsp;&emsp;&emsp;(i) fleeing to avoid prosecution, or custody or confinement after conviction, under the laws of the place from which the individual flees, for a crime, or an attempt to commit a crime, which is a felony under the laws of the place from which the individual flees, or which, in the case of the State of New Jersey, is a high misdemeanor under the laws of such State; or
+&emsp;&emsp;&emsp;(i) fleeing to avoid prosecution, or custody or confinement after conviction,under the laws of the place from which the individual flees, for a crime, or an attempt to commit a crime, which is a felony under the laws of the place from which the individual flees, or which, in the case of the State of New Jersey, is a high misdemeanor under the laws of such State; or
 
 &emsp;&emsp;&emsp;(ii) violating a condition of probation or parole imposed under Federal or State law.
 
@@ -182,7 +182,7 @@
 
 #### (C) Denial of assistance for relative who fails to notify State agency of absence of child
 
-&emsp;&emsp;A State to which a grant is made under section 603 of this title shall not use any part of the grant to provide assistance for an individual who is a parent (or other caretaker relative) of a minor child and who fails to notify the agency administering the State program funded under this part of the absence of the minor child from the home forthe period specified in or provided for pursuant to subparagraph (A), by the end of the 5-day period that begins with the date that it becomes clear to the parent (or relative) that the minor child will be absent for such period so specified or provided for.
+&emsp;&emsp;A State to which a grant is made under section 603 of this title shall not use any part of the grant to provide assistance for an individual who is a parent (or other caretaker relative) of a minor child and who fails to notify the agency administering the State program funded under this part of the absence of the minor child from the home for the period specified in or provided for pursuant to subparagraph (A), by the end of the 5-day period that begins with the date that it becomes clear to the parent (or relative) that the minor child will be absent for such period so specified or provided for.
 
 #### (11) Medical assistance required to be provided for certain families having earnings from employment or child support
 
@@ -238,7 +238,7 @@
 
 #### (c) Sanctions against recipients not considered wage reductions
 
-A penalty imposed by a State against the family of an individual by reason of the failure ofthe individual to comply with a requirement under the State program funded under this part shall not be construed to be a reduction in any wage paid to the individual.
+A penalty imposed by a State against the family of an individual by reason of the failure of the individual to comply with a requirement under the State program funded under this part shall not be construed to be a reduction in any wage paid to the individual.
 
 #### (d) Nondiscrimination provisions
 
@@ -276,7 +276,7 @@ The following rules shall apply if a State elects to take the income or resource
 
 &emsp;&emsp;&emsp;(ii) the cash needs standard established by the State for purposes of determining eligibility for assistance under the State program funded under this part for a family of the same size and composition as the sponsor and any other individuals living in the same household as the sponsor who are claimed by the sponsor as dependents for purposes of determining the sponsor's Federal personal income tax liability but whose needs are not taken into account in determining whether the sponsor's family has met the cash needs standard;
 
-&emsp;&emsp;&emsp;(iii) any amounts paid by the sponsor or any such spouse to individuals not living in the household who are claimed by the sponsor as dependents for purposes of determining the sponsor's Federal personal income tax liability; and
+&emsp;&emsp;&emsp;(iii) any amounts paid by the sponsor or any such spouse to individuals not livingin the household who are claimed by the sponsor as dependents for purposes of determining the sponsor's Federal personal income tax liability; and
 
 &emsp;&emsp;&emsp;(iv) any payments of alimony or child support with respect to individuals not living in the household.
 
@@ -308,7 +308,7 @@ The following rules shall apply if a State elects to take the income or resource
 
 #### (4) “Non-213A alien” defined
 
-&emsp;An alien is a non-213A alien for purposes of this subsection if the affidavit of support or similar agreement with respect to the alien that was executed by the sponsor of the alien's entry into the United States was executedother than pursuant to section 213A of the Immigration and Nationality Act \[8 U.S.C. 1183a\].
+&emsp;An alien is a non-213A alien for purposes of this subsection if the affidavit of support or similar agreement with respect to the alien that was executed by the sponsor of the alien's entry into the United States was executed other than pursuant to section 213A of the Immigration and Nationality Act \[8 U.S.C. 1183a\].
 
 #### (5) Inapplicability to alien minor sponsored by a parent
 
@@ -342,7 +342,7 @@ The Age Discrimination Act of 1975, referred to in subsec. (d)(1), is title III 
 
 The Americans with Disabilities Act of 1990, referred to in subsec. (d)(3), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
 
-The Civil Rights Act of 1964, referred to in subsec. (d)(4), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (d)(4), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V\(§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
 The Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in subsec. (e), is Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2105. Title IV of the Act is classified principally to chapter 14 (§1601 et seq.) of Title 8, Aliens and Nationality. For complete classification of title IV to the Code, see Tables.
 
@@ -422,7 +422,7 @@ State option to accelerate effective date.—Notwithstanding paragraph (1), a St
 
 Section 5001(h)(2) of Pub. L. 105–33 provided that: “The amendments made by paragraph (1) \[amending this section\] shall take effect as if included in the enactment of section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\].”
 
-Amendment by section 5505 of Pub. L. 105–33 effective as if included in section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, at the time such section 103(a) became law, see section 5518(a) of Pub. L. 105–33, set out as a note under section 602 of this title.
+Amendment by section 5505 of Pub. L. 105–33 effective as if included in section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of1996, Pub. L. 104–193, at the time such section 103(a) became law, see section 5518(a) of Pub. L. 105–33, set out as a note under section 602 of this title.
 
 Amendment by section 5514(c) of Pub. L. 105–33 effective as if included in the provision of Pub. L. 104–193 amended at the time the provision became law, see section 5518(d) of Pub. L. 105–33, set out as a note under section 862a of Title 21, Food and Drugs.
 

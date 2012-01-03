@@ -76,9 +76,9 @@ Section 1833d, referred to in subsec. (b)(2), was repealed by Pub. L. 102–242,
 
 #### Amendments
 
-2006—Subsec. (a)(1)(C). Pub. L. 109–173 substituted “Deposit Insurance Fund” for “insurance funds”.
+<b>2006</b>—Subsec. (a)(1)(C). Pub. L. 109–173 substituted “Deposit Insurance Fund” for “insurance funds”.
 
-2000—Subsec. (a)(3)(D). Pub. L. 106–569, §1221, struck out heading and text of subpar. (D). Text read as follows: “Develop jointly with the other appropriate Federal banking agencies a method for insured depository institutions to provide supplemental disclosure of the estimated fair market value of assets and liabilities, to the extent feasible and practicable, in any balance sheet, financial statement, report of condition, or other report of any insured depository institution required to be filed with a Federal banking agency.”
+<b>2000</b>—Subsec. (a)(3)(D). Pub. L. 106–569, §1221, struck out heading and text of subpar. (D). Text read as follows: “Develop jointly with the other appropriate Federal banking agencies a method for insured depository institutions to provide supplemental disclosure of the estimated fair market value of assets and liabilities, to the extent feasible and practicable, in any balance sheet, financial statement, report of condition, or other report of any insured depository institution required to be filed with a Federal banking agency.”
 
 Subsec. (c)(1). Pub. L. 106–569, §1223, substituted “The Federal banking agencies shall jointly submit an annual report” for “Each appropriate Federal banking agency shall annually submit a report” and inserted “any” before “such agency”.
 
@@ -177,6 +177,8 @@ Sale pursuant to other arrangements for loss.—Not later than the expiration of
 “(c)
 
 Appropriate Federal Banking Agency.—For purposes of this section, the term ‘Federal banking agency’ means the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, the Comptroller of the Currency, and the Director of the Office of Thrift Supervision.”
+
+\[Pub. L. 102–233, title VI, §619, Dec. 12, 1991, 105 Stat. 1791, provided that: “The amendments made by this title \[amending section 1441a of this title and enacting provisions set out as notes under this section and section 1441a of this title\] shall not apply to any eligible residential property or eligible condominium property of the Resolution Trust Corporation, that is subject to an agreement for sale entered into by the Corporation before the date of the enactment of this Act \[Dec. 12, 1991\].”\]
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

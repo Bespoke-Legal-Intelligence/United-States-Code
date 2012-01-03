@@ -12,7 +12,7 @@ Section 379, acts Apr. 20, 1904, ch. 1400, §9, 33 Stat. 189; Mar. 2, 1907, ch. 
 
 Section 380, acts Apr. 20, 1904, ch. 1400, §11, 33 Stat. 189; Mar. 2, 1907, ch. 2516, §2, 34 Stat. 1218, related to disposition of fines and costs. See section 634 of Title 28.
 
-Section 381, acts Apr. 20, 1904, ch. 1400, §13, 33 Stat. 189; Mar. 2, 1907, ch. 2516, §2, 34 Stat. 1218, related to execution of sentence of conviction. See section 3041 of Title 18, Crimes and Criminal Procedure.
+Section 381, acts Apr. 20, 1904, ch. 1400, §13, 33 Stat. 189; Mar. 2, 1907, ch. 2516, §2, 34 Stat. 1218, related toexecution of sentence of conviction. See section 3041 of Title 18, Crimes and Criminal Procedure.
 
 Section 382, acts Apr. 20, 1904, ch. 1400, §12, 33 Stat. 189; June 24, 1946, ch. 463, §6, 60 Stat. 303, related to imprisonment for nonpayment of fines or costs. See section 3041 of Title 18.
 

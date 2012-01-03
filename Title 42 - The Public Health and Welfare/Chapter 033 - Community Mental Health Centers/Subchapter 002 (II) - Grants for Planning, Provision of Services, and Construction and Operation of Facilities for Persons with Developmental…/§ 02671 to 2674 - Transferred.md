@@ -2,7 +2,7 @@
 
 #### Codification
 
-Section 2671, Pub. L. 88–164, title I, §131, as added Pub. L. 91–517, title I, §101(b), Oct. 30, 1970, 84 Stat. 1317,which related to authorization of appropriations, was transferred to former section 6061 of this title.
+Section 2671, Pub. L. 88–164, title I, §131, as added Pub. L. 91–517, title I, §101(b), Oct. 30, 1970, 84 Stat. 1317, which related to authorization of appropriations, was transferred to former section 6061 of this title.
 
 A prior section 2671, Pub. L. 88–164, title I, §131, Oct. 31, 1963, 77 Stat. 286; Pub. L. 90–170, §3(a), Dec. 4, 1967, 81 Stat. 528, authorized appropriations through fiscal year ending June 30, 1970, for grants for construction of mental retardation facilities.
 

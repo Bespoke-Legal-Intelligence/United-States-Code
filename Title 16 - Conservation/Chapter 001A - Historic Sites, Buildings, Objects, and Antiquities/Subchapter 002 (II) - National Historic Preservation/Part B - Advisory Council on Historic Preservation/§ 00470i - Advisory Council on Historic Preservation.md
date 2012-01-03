@@ -24,7 +24,7 @@ There is established as an independent agency of the United States Government an
 
 &emsp;(10) three at-large members from the general public, appointed by the President; and
 
-&emsp;(11) one member of an Indian tribe or Native Hawaiian organization who represents the interests of the tribe or organization of which heor she is a member, appointed by the President.
+&emsp;(11) one member of an Indian tribe or Native Hawaiian organization who represents the interests of the tribe or organization of which he or she is a member, appointed by the President.
 
 #### (b) Designation of substitutes
 
@@ -76,7 +76,7 @@ Subsec. (e). Pub. L. 96–515, §301(e), substituted provision authorizing the P
 
 Subsec. (f). Pub. L. 96–515, §301(f), substituted “Nine” for “Fifteen”.
 
-<b>1976</b>—Subsec. (a)(9) to (18). Pub. L. 94–422 added pars. (9) to (14) and (17), and redesignated former pars. (9), (10), and (11) as (15), (16), and (18), respectively, and in par. (18), as so redesignated, substituted “twelve” for “ten”.
+<b>1976</b>—Subsec. (a)(9) to (18). Pub. L. 94–422 added pars. (9) to (14) and (17), and redesignated former pars. (9),\(10), and (11) as (15), (16), and (18), respectively, and in par. (18), as so redesignated, substituted “twelve” for “ten”.
 
 Subsec. (b). Pub. L. 94–422 substituted “(17)” for “(10)”.
 

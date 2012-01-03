@@ -112,7 +112,7 @@ No area may be designated under this section unless the application for such des
 
 #### (iii) Exception for developable sites
 
-&emsp;&emsp;&emsp;Clause (i) shall not apply to up to 3 noncontiguous parcels in a nominated area which may be developed for commercial or industrial purposes. The aggregate area of noncontiguous parcels to which the preceding sentence applies with respect to any nominated area shall not exceed 2,000 acres.
+&emsp;&emsp;&emsp;Clause (i) shall not apply to up to 3 noncontiguous parcels in a nominated area which may be developed for commercial or industrial purposes. The aggregate area ofnoncontiguous parcels to which the preceding sentence applies with respect to any nominated area shall not exceed 2,000 acres.
 
 #### (iv) Certain provisions not to apply
 
@@ -126,7 +126,7 @@ No area may be designated under this section unless the application for such des
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The parcels described in subparagraph (A)(iii) shall not be taken into account indetermining whether the requirement of subparagraph (A) or (B) of section 1392(a)(3) is met.
+&emsp;&emsp;&emsp;The parcels described in subparagraph (A)(iii) shall not be taken into account in determining whether the requirement of subparagraph (A) or (B) of section 1392(a)(3) is met.
 
 #### (ii) Special rule for rural areas
 

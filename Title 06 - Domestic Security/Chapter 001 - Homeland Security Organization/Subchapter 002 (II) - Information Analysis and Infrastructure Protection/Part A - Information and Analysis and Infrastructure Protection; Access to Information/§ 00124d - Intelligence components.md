@@ -12,7 +12,7 @@ Subject to the direction and control of the Secretary, and consistent with any a
 
 &emsp;(5) To advise and coordinate with the Under Secretary for Intelligence and Analysis on any plan to reorganize or restructure the intelligence component that would, if implemented, result in realignments of intelligence functions.
 
-&emsp;(6) To ensure that employees of the intelligence component have knowledge of, and comply with, the programs and policies established by the Under Secretary for Intelligence and Analysis and other appropriate officials of the Department and that such employees comply with all applicable laws and regulations.
+&emsp;(6) To ensure that employees of the intelligence component have knowledge of, andcomply with, the programs and policies established by the Under Secretary for Intelligence and Analysis and other appropriate officials of the Department and that such employees comply with all applicable laws and regulations.
 
 &emsp;(7) To perform such other activities relating to such responsibilities as the Secretary may provide.
 

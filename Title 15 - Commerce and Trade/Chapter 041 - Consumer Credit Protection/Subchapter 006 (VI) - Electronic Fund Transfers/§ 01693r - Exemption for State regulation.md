@@ -1,12 +1,8 @@
 ### §1693r. Exemption for State regulation
 
-The Board shall by regulation exempt from the requirements of this subchapter any class of electronic fund transfers within any State if the Board determines that under the law of that State that class of electronic fund transfers is subject to requirements substantially similar to those imposed by this subchapter, and that there is adequate provision for enforcement.
+The Bureau shall by regulation exempt from the requirements of this subchapter any class of electronic fund transfers within any State if the Bureau determines that under the law of that State that class of electronic fund transfers is subject to requirements substantially similar to those imposed by this subchapter, and that there is adequate provision for enforcement.
 
 (Pub. L. 90–321, title IX, §922, formerly §920, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3741; renumbered §921, Pub. L. 111–24, title IV, §401(1), May 22, 2009, 123 Stat. 1751; renumbered §922 and amended Pub. L. 111–203, title X, §§1073(a)(3), 1084(1), July 21, 2010, 124 Stat. 2060, 2081.)
-
-#### Amendment of Section
-
-<i>Pub. L. 111–203, title X, §§1084(1), 1100H, July 21, 2010, 124 Stat. 2081, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Board” each place that term appears and inserting “Bureau”. See Effective Date of 2010 Amendment note below.</i>
 
 #### Codification
 
@@ -17,6 +13,10 @@ Renumbering of section 920 of Pub. L. 90–321 as section 921 by section 401(1) 
 #### Prior Provisions
 
 A prior section 922 of Pub. L. 90–321 was renumbered section 923 and is classified as an Effective Date note under section 1693 of this title.
+
+#### Amendments
+
+<b>2010</b>—Pub. L. 111–203, §1084(1), substituted “Bureau” for “Board” in two places.
 
 #### Effective Date of 2010 Amendment
 

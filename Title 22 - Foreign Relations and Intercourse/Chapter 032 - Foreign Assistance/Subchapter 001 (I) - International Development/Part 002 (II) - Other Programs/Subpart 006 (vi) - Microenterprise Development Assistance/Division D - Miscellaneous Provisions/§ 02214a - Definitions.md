@@ -58,7 +58,7 @@ In this subpart:
 
 #### (11) Practitioner institution
 
-&emsp;The term “practitioner institution” means a not-for-profit entity or a regulated financial intermediary, including a microfinance network, that provides services, including microfinance, training, or business developmentservices, for microfinance and microenterprise clients, or provides assistance to microenterprise institutions in foreign countries.
+&emsp;The term “practitioner institution” means a not-for-profit entity or a regulated financial intermediary, including a microfinance network, that provides services, including microfinance, training, or business development services, for microfinance and microenterprise clients, or provides assistance to microenterprise institutions in foreign countries.
 
 #### (12) Private voluntary organization
 

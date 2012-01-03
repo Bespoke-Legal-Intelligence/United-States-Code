@@ -18,7 +18,7 @@ To facilitate administration of section 1308 of this title and this section, eac
 
 &emsp;Except as provided in subsections (c) and (d)—
 
-&emsp;&emsp;(A) a person (including a person participating in a farming operation as a partner in a general partnership, a participant in a joint venture, a grantor of a revocable trust, or a participant in a similar entity, as determined by the Secretary) shall be considered to be actively engaged in farming with respect to a farming operation if—
+&emsp;&emsp;(A) a person (including a person participating in a farming operation as a partner in ageneral partnership, a participant in a joint venture, a grantor of a revocable trust, or a participant in a similar entity, as determined by the Secretary) shall be considered to be actively engaged in farming with respect to a farming operation if—
 
 &emsp;&emsp;&emsp;(i) the person makes a significant contribution (based on the total value of the farming operation) to the farming operation of—
 
@@ -92,7 +92,7 @@ To facilitate administration of section 1308 of this title and this section, eac
 
 &emsp;Any other person or legal entity that the Secretary determines does not meet the standards described in subsections (b)(2) and (c) shall not be considered to be actively engaged in farming with respect to a farming operation.
 
-(Pub. L. 99–198, title X, §1001A, as added and amended Pub. L. 100–203, title I, §§1301(a)(3), 1302, Dec. 22, 1987, 101 Stat. 1330–12, 1330–14; Pub. L. 101–624, title XI, §1111(d), (f), Nov. 28, 1990, 104Stat. 3498, 3499; Pub. L. 102–237, title I, §118(c), Dec. 13, 1991, 105 Stat. 1841; Pub. L. 104–127, title I, §115(c)(1), Apr. 4, 1996, 110 Stat. 903; Pub. L. 107–171, title I, §1603(c)(1), May 13, 2002, 116 Stat. 215; Pub. L. 110–234, title I, §1603(c), (d), May 22, 2008, 122 Stat. 1007, 1008; Pub. L. 110–246, §4(a), title I, §1603(c), (d), June 18, 2008, 122 Stat. 1664, 1735, 1736.)
+(Pub. L. 99–198, title X, §1001A, as added and amended Pub. L. 100–203, title I, §§1301(a)(3), 1302, Dec. 22, 1987, 101 Stat. 1330–12, 1330–14; Pub. L. 101–624, title XI, §1111(d), (f), Nov. 28, 1990, 104 Stat. 3498, 3499; Pub. L. 102–237, title I, §118(c), Dec. 13, 1991, 105 Stat. 1841; Pub. L. 104–127, title I, §115(c)(1), Apr. 4, 1996, 110 Stat. 903; Pub. L. 107–171, title I, §1603(c)(1), May 13, 2002, 116 Stat. 215; Pub. L. 110–234, title I, §1603(c), (d), May 22, 2008, 122 Stat. 1007, 1008; Pub. L. 110–246, §4(a), title I, §1603(c), (d), June 18, 2008, 122 Stat. 1664, 1735, 1736.)
 
 #### Codification
 
@@ -102,29 +102,29 @@ Section was enacted as part of the Food Security Act of 1985, and not as part of
 
 #### Amendments
 
-2008—Pub. L. 110–246, §1603(c)(1), substituted “Notification of interests” for “Prevention of creation of entities to qualify as separate persons” in section catchline.
+<b>2008</b>—Pub. L. 110–246, §1603(c)(1), substituted “Notification of interests” for “Prevention of creation of entities to qualify as separate persons” in section catchline.
 
 Subsec. (a). Pub. L. 110–246, §1603(c)(2), added subsec. (a) and struck out former subsec. (a) which related to prevention of use of multiple legal entities to avoid effective application of payment limitations under section 1308 of this title.
 
 Subsecs. (b) to (d). Pub. L. 110–246, §1603(d), added subsecs. (b) to (d) and struck out former subsec. (b) which related to requirement that a person be an individual or entity described in former section 1308(e)(2)(A) of this title and actively engaged in farming with respect to a particular farming operation to be separately eligible for farm program payments with respect to that operation.
 
-2002—Subsec. (a)(1). Pub. L. 107–171, §1603(c)(1), substituted “section 1308(e)(2)(A) of this title” for “section 1308(5)(B)(i) of this title” and “section 1308(e)(2)(A)(ii) of this title” for “section 1308(5)(B)(i)(II) of this title”.
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–171, §1603(c)(1), substituted “section 1308(e)(2)(A) of this title” for “section 1308(5)(B)(i) of this title” and “section 1308(e)(2)(A)(ii) of this title” for “section 1308(5)(B)(i)(II) of this title”.
 
 Subsec. (b)(1). Pub. L. 107–171, §1603(c)(1)(B), substituted “section 1308(e)(2)(A) of this title” for “section 1308(5)(B)(i) of this title”.
 
 Subsec. (b)(2)(B). Pub. L. 107–171, §1603(c)(1)(A), substituted “section 1308(e)(2)(A)(ii) of this title” for “section 1308(5)(B)(i)(II) of this title”.
 
-1996—Subsec. (a)(1). Pub. L. 104–127, §115(c)(1)(A), struck out “under the Agricultural Act of 1949 (7 U.S.C. 1421 et seq.)” before “may not also hold”.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–127, §115(c)(1)(A), struck out “under the Agricultural Act of 1949 (7 U.S.C. 1421 et seq.)” before “may not also hold”.
 
 Subsec. (b)(1). Pub. L. 104–127, §115(c)(1)(B), struck out “under the Agricultural Act of 1949” before “with respect to a particular”.
 
-1991—Subsec. (a)(2). Pub. L. 102–237 struck out “0 to” after “less than”.
+<b>1991</b>—Subsec. (a)(2). Pub. L. 102–237 struck out “0 to” after “less than”.
 
-1990—Subsec. (a)(2). Pub. L. 101–624, §1111(f), substituted “0 to 10 percent” for “10 percent”.
+<b>1990</b>—Subsec. (a)(2). Pub. L. 101–624, §1111(f), substituted “0 to 10 percent” for “10 percent”.
 
 Subsec. (b)(6). Pub. L. 101–624, §1111(d), added par. (6).
 
-1987—Subsec. (b). Pub. L. 100–203, §1302, added subsec. (b).
+<b>1987</b>—Subsec. (b). Pub. L. 100–203, §1302, added subsec. (b).
 
 #### Effective Date of 2008 Amendment
 

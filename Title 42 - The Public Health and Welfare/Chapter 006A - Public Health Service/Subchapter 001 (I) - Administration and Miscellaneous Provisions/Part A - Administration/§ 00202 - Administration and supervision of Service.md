@@ -10,7 +10,7 @@ The Public Health Service in the Department of Health and Human Services shall b
 
 #### Transfer of Functions
 
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfareand all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
 #### International Health Administration
 
@@ -46,7 +46,7 @@ The Secretary may from time to time make such provisions as he shall deem approp
 
 (4) The agency designated as the Office of the Surgeon General (42 U.S.C. 203(1)), together with the office held by the Deputy Surgeon General (42 U.S.C. 206(a)).
 
-(b) The Secretary shall make such provisions as he shall deem necessary respecting the winding up of anyoutstanding affairs of the agencies abolished by the provisions of this section.
+(b) The Secretary shall make such provisions as he shall deem necessary respecting the winding up of any outstanding affairs of the agencies abolished by the provisions of this section.
 
 #### Sec. 4. Incidental Transfers
 
@@ -184,7 +184,7 @@ Section 1. The Secretary of Health and Human Services is hereby authorized and e
 
 (f) The authority to prescribe regulations under the following-designated Sections: 207(a), 207(b), 208(e), 210(a), 210(b), 210(d)(1), 210(h), 210(i), 210(j)(1), 210(k), 215(a), 218(a), 219(a), and 510 (42 U.S.C. 209(a), 209(b), 210(e), 211(a), 211(b), 211(d)(1), 211(h), 211(i), 211(j)(1), 211(k), 216(a), 218a(a), 210–1(a), and 228).
 
-(g) The authority under Sections 321(a) and 364(a) (42 U.S.C. 248(a) and 267(a)) to approve the selection of suitable sites for and the establishment of additional institutions, hospitals, stations, grounds, and anchorages; subject, however, to the approval of the Director of the Office of Management and Budget, except as he may otherwise provide.
+(g) The authority under Sections 321(a) and 364(a) (42 U.S.C. 248(a) and 267(a)) to approve the selection of suitable sites for and the establishment of additional institutions, hospitals, stations, grounds, and anchorages; subject, however, to the approval of the Director of theOffice of Management and Budget, except as he may otherwise provide.
 
 Sec. 2. The Surgeon General is hereby authorized and empowered, without the approval, ratification, or other action of the President, to perform the function vested in the President by Sections 203 and 207(a)(2) of the Public Health Service Act (58 Stat. 683, 685), as amended (42 U.S.C. 204 and 209(a)(2)), or otherwise, of accepting voluntary resignations of commissioned officers of the Regular Corps or the Reserve Corps.
 

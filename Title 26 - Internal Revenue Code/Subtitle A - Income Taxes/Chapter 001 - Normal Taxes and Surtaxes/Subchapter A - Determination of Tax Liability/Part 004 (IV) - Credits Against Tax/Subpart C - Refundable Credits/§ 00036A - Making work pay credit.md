@@ -64,7 +64,7 @@ Sections 2201 and 2202 of the American Recovery and Reinvestment Tax Act of 2009
 
 #### Effective Date
 
-Pub. L. 111–5, div. B, title I, §1001(f), Feb. 17, 2009, 123 Stat. 312, provided that: “This section \[enacting this section, amending sections 6211 and 6213 of this title and section 1324 of Title 31, Money and Finance, and enacting provisions set out as notes under this section\],and the amendments made by this section, shall apply to taxable years beginning after December 31, 2008.”
+Pub. L. 111–5, div. B, title I, §1001(f), Feb. 17, 2009, 123 Stat. 312, provided that: “This section \[enacting this section, amending sections 6211 and 6213 of this title and section 1324 of Title 31, Money and Finance, and enacting provisions set out as notes under this section\], and the amendments made by this section, shall apply to taxable years beginning after December 31, 2008.”
 
 #### Treatment of Possessions
 

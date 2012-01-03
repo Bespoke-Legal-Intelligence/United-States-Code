@@ -6,7 +6,7 @@ For purposes of applying reduction-in-force procedures under subsection (a) of s
 
 #### (b) Reassignment of employees other than to positions in higher grades; authority to make determinations respecting
 
-(1) The Indian preference laws shall not apply in the case of any reassignment within the Bureau of Indian Affairs or within the Indian Health Service (other than to a position in a higher grade) of an employee not entitled to Indian preference if it is determined that under the circumstances such reassignment is necessary—
+(1) The Indian preference laws shall not apply in the case of any reassignment within the Bureau of Indian Affairs or within the Indian Health Service (other than to a position in ahigher grade) of an employee not entitled to Indian preference if it is determined that under the circumstances such reassignment is necessary—
 
 &emsp;(A) to assure the health or safety of the employee or of any member of the employee's household;
 
@@ -18,7 +18,7 @@ For purposes of applying reduction-in-force procedures under subsection (a) of s
 
 #### (c) Waiver of applicability in personnel actions; scope, procedures, etc.
 
-(1) Notwithstanding any provision of the Indian preference laws, such laws shall not applyin the case of any personnel action respecting an applicant or employee not entitled to Indian preference if each tribal organization concerned grants, in writing, a waiver of the application of such laws with respect to such personnel action.
+(1) Notwithstanding any provision of the Indian preference laws, such laws shall not apply in the case of any personnel action respecting an applicant or employee not entitled to Indian preference if each tribal organization concerned grants, in writing, a waiver of the application of such laws with respect to such personnel action.
 
 (2) The provisions of section 8336(j) of title 5 shall not apply to any individual who has accepted a waiver with respect to a personnel action pursuant to paragraph (1) of this subsection or to section 2011(f) <sup>1</sup> of this title.
 

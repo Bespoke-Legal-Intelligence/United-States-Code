@@ -12,5 +12,5 @@ For purposes of this section, raw cane sugar, refined beet sugar, and in-process
 
 #### Amendments
 
-2002—Pub. L. 107–171 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>2002</b>—Pub. L. 107–171 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 

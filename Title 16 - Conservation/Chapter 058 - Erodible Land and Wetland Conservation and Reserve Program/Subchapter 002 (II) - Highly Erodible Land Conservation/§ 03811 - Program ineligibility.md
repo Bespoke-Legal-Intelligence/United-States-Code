@@ -14,7 +14,7 @@ Except as provided in section 3812 of this title, and notwithstanding any other 
 
 &emsp;&emsp;(D) a loan made, insured, or guaranteed under the Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.) or any other provision of law administered by the Consolidated Farm Service Agency, if the Secretary determines that the proceeds of such loan will be used for a purpose that will contribute to excessive erosion of highly erodible land;
 
-&emsp;(2) a payment made under section 4 or 5 of the Commodity Credit Corporation Charter Act (15 U.S.C. 714b or 714c) during such crop year for the storage of an agricultural commodity acquired by the Commodity Credit Corporation; or
+&emsp;(2) a payment made under section 4 or 5 of the Commodity Credit Corporation Charter Act (15 U.S.C. 714b or 714c) during such cropyear for the storage of an agricultural commodity acquired by the Commodity Credit Corporation; or
 
 &emsp;(3) during the crop year—
 
@@ -38,7 +38,7 @@ The Agricultural Market Transition Act, referred to in subsec. (a)(1)(A), is tit
 
 The Commodity Credit Corporation Charter Act, referred to in subsec. (a)(1)(A), is act June 29, 1948, ch. 704, 62 Stat. 1070, as amended, which is classified generally to subchapter II (§714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 714 of Title 15 and Tables.
 
-The Consolidated Farm and Rural Development Act, referred to in subsec. (a)(1)(D), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to chapter 50 (§1921 et seq.) of Title 7, Agriculture. For complete classification of thisAct to the Code, see Short Title note set out under section 1921 of Title 7 and Tables.
+The Consolidated Farm and Rural Development Act, referred to in subsec. (a)(1)(D), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to chapter 50 (§1921 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of Title 7 and Tables.
 
 #### Amendments
 

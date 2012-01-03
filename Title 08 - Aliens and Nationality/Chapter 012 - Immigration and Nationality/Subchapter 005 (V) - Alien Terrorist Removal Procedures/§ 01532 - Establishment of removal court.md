@@ -50,7 +50,7 @@ The Foreign Intelligence Surveillance Act of 1978, referred to in subsec. (d), i
 
 #### Amendments
 
-1996—Subsec. (e). Pub. L. 104–208 added subsec. (e).
+<b>1996</b>—Subsec. (e). Pub. L. 104–208 added subsec. (e).
 
 #### Effective Date of 1996 Amendment
 

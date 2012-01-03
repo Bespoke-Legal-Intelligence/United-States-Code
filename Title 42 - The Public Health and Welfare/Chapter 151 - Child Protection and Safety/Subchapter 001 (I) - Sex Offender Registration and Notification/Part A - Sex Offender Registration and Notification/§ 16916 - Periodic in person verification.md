@@ -1,6 +1,6 @@
 ### §16916. Periodic in person verification
 
-A sex offender shall appear in person, allow the jurisdiction to take a current photograph, and verify the information in each registry in which that offender is required to be registered not less frequently than—
+A sex offender shall appear in person, allow the jurisdiction to take a current photograph, and verify the information in each registry inwhich that offender is required to be registered not less frequently than—
 
 &emsp;(1) each year, if the offender is a tier I sex offender;
 

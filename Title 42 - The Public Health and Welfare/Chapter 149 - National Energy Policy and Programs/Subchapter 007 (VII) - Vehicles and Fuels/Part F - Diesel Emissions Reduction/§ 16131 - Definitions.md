@@ -44,7 +44,7 @@ In this part:
 
 #### (4) Emerging technology
 
-&emsp;The term “emerging technology” means a technology that is not currently, or has not been previously, certified or verified by the Administrator or the California Air ResourcesBoard but for which an approvable application and test plan has been submitted for verification to the Administrator or the California Air Resources Board.
+&emsp;The term “emerging technology” means a technology that is not currently, or has not been previously, certified or verified by the Administrator or the California Air Resources Board but for which an approvable application and test plan has been submitted for verification to the Administrator or the California Air Resources Board.
 
 #### (5) Fleet
 

@@ -20,7 +20,7 @@ For purposes of this section—
 
 #### (1) Qualified research expenses
 
-&emsp;The term “qualified research expenses” means the sum of the following amounts which are paid or incurred by the taxpayer during the taxable year in carrying on any trade or business of the taxpayer—
+&emsp;The term “qualified research expenses” means the sum of the following amountswhich are paid or incurred by the taxpayer during the taxable year in carrying on any trade or business of the taxpayer—
 
 &emsp;&emsp;(A) in-house research expenses, and
 
@@ -126,7 +126,7 @@ For purposes of this section—
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;The term “small business” means, with respect to any calendar year, any person if the annual average number of employees employed by such person during either of the 2 preceding calendar years was 500 or fewer. For purposes of the preceding sentence, a preceding calendar year may be taken into account only if the person was in existence throughout the year.
+&emsp;&emsp;&emsp;&emsp;The term “small business” means, with respect to any calendar year, anyperson if the annual average number of employees employed by such person during either of the 2 preceding calendar years was 500 or fewer. For purposes of the preceding sentence, a preceding calendar year may be taken into account only if the person was in existence throughout the year.
 
 #### (II) Startups, controlled groups, and predecessors
 
@@ -184,7 +184,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(III) in the case of the taxpayer's 7th such taxable year, 1/3 of the percentage which the aggregate qualified research expenses of the taxpayer for the 5th and 6th such taxable years is of the aggregate gross receipts of the taxpayer for such years,
 
-&emsp;&emsp;&emsp;&emsp;(IV) in the case of the taxpayer's 8th such taxable year, 1/2 of the percentage which the aggregate qualified research expenses of the taxpayer for the 5th, 6th, and 7th such taxable years is of the aggregate gross receipts of the taxpayer for such years,
+&emsp;&emsp;&emsp;&emsp;(IV) in the case of the taxpayer's 8th such taxable year, ½ of the percentage which the aggregate qualified research expenses of the taxpayer for the 5th, 6th, and 7th such taxable years is of the aggregate gross receipts of the taxpayer for such years,
 
 &emsp;&emsp;&emsp;&emsp;(V) in the case of the taxpayer's 9th such taxable year, 2/3 of the percentage which the aggregate qualified research expenses of the taxpayer for the 5th, 6th, 7th, and 8th such taxable years is of the aggregate gross receipts of the taxpayer for such years,
 
@@ -416,7 +416,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) any contract research expenses, or
 
-&emsp;&emsp;&emsp;(ii) the amounts treated as contract research expenses during the base period by reason of this subsection (as in effect during the base period).
+&emsp;&emsp;&emsp;(ii) the amounts treated as contract research expenses during the base period byreason of this subsection (as in effect during the base period).
 
 #### (B) Floor amount
 
@@ -530,7 +530,7 @@ For purposes of this section—
 
 #### (B) Base period
 
-&emsp;&emsp;The term “base period” means the 3-taxable-year period ending with the taxable year immediately preceding the 1st taxable year of the taxpayer beginning after December 31, 1983.
+&emsp;&emsp;The term “base period” means the 3-taxable-year period ending with the taxableyear immediately preceding the 1st taxable year of the taxpayer beginning after December 31, 1983.
 
 #### (C) Exclusion from incremental credit calculation
 
@@ -608,7 +608,7 @@ For purposes of this section—
 
 #### (C) Certain reimbursements taken into account in determining fixed-base percentage
 
-&emsp;&emsp;If during any of the 3 taxable years following the taxable year in which a disposition to which subparagraph (B) applies occurs, the disposing taxpayer (or a person with whom the taxpayer is required to aggregate expenditures under paragraph (1)) reimburses the acquiring person (or a person required to so aggregate expenditures with such person) for research on behalf of the taxpayer, then the amount of qualified research expenses of the taxpayer for the taxable years taken into account in computing the fixed-base percentage shall be increased by the lesser of—
+&emsp;&emsp;If during any of the 3 taxable years following the taxable year in which a disposition to which subparagraph (B) applies occurs, the disposing taxpayer (or a person with whom the taxpayer is required to aggregate expenditures under paragraph (1)) reimburses the acquiring person (or a person required to so aggregate expenditures withsuch person) for research on behalf of the taxpayer, then the amount of qualified research expenses of the taxpayer for the taxable years taken into account in computing the fixed-base percentage shall be increased by the lesser of—
 
 &emsp;&emsp;&emsp;(i) the amount of the decrease under subparagraph (B) which is allocable to taxable years so taken into account, or
 
@@ -822,7 +822,7 @@ Subsec. (f)(3)(A). Pub. L. 101–239, §7110(b)(2)(D), substituted “December 3
 
 Subsec. (f)(3)(B). Pub. L. 101–239, §7110(b)(2)(E), substituted “December 31, 1983” for “June 30, 1980” in introductory provisions and inserted before period at end “, and the gross receipts of the taxpayer for such periods shall be decreased by so much of the gross receipts as is attributable to such portion”.
 
-Subsec. (f)(3)(C). Pub. L. 101–239, §7110(b)(2)(F), substituted “Certain reimbursements taken into account in determining fixed-base percentage” for “Increase in base period” in heading, “for the taxable years taken into account in computing the fixed-base percentage shall be increased by the lesser of” for “for the base period for such taxable year shall be increased by thelesser of” in introductory provisions, and new cls. (i) and (ii) for former cls. (i) and (ii) which read as follows:
+Subsec. (f)(3)(C). Pub. L. 101–239, §7110(b)(2)(F), substituted “Certain reimbursements taken into account in determining fixed-base percentage” for “Increase in base period” in heading, “for the taxable years taken into account in computing the fixed-base percentage shall be increased by the lesser of” for “for the base period for such taxable year shall be increased by the lesser of” in introductory provisions, and new cls. (i) and (ii) for former cls. (i) and (ii) which read as follows:
 
 “(i) the amount of the decrease under subparagraph (B) which is allocable to such base period, or
 
@@ -840,7 +840,7 @@ Pub. L. 101–239, §7110(b)(2)(H), substituted “base amount” for “base pe
 
 Subsec. (i). Pub. L. 101–239, §7814(e)(2)(C), redesignated subsec. (i) as (h).
 
-<b>1988</b>—Subsec. (g). Pub. L. 100–647, §1002(h)(1), inserted at end “If the amount determined under subsection (a) for any taxable year exceeds the limitation of the preceding sentence, such amount may be carried to other taxable years under the rules of section 39; except that the limitation of the preceding sentence shall be taken into account in lieu of the limitation of section 38(c) in applying section 39.”
+<b>1988</b>—Subsec. (g). Pub. L. 100–647, §1002(h)(1), inserted at end “If the amount determined under subsection (a) for any taxable year exceeds the limitation of the preceding sentence, such amount may be carried to other taxable years under the rules of section 39; except that the limitation of the preceding sentence shall be takeninto account in lieu of the limitation of section 38(c) in applying section 39.”
 
 Subsec. (h). Pub. L. 100–647, §4008(b)(1), added subsec. (h). Former subsec. (h) redesignated (i).
 
@@ -906,7 +906,7 @@ Extension.—The amendments made by subsection (a) \[amending this section and s
 
 #### Effective Date of 2007 Amendment
 
-Amendment by section 6(c) of Pub. L. 110–172 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which such amendmentrelates, see section 6(e) of Pub. L. 110–172, set out as a note under section 30C of this title.
+Amendment by section 6(c) of Pub. L. 110–172 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which such amendment relates, see section 6(e) of Pub. L. 110–172, set out as a note under section 30C of this title.
 
 Pub. L. 110–172, §11(e)(3), Dec. 29, 2007, 121 Stat. 2489, provided that: “The amendments made by this subsection \[amending this section and section 6427 of this title\] shall take effect as if included in the provisions of the Energy Policy Act of 2005 \[Pub. L. 109–58\] to which they relate.”
 
@@ -938,7 +938,7 @@ Definitions.—For purposes of subparagraph (A)—
 
 &emsp;&emsp;“(i)
 
-Specified transitional taxable year.—The term ‘specified transitional taxable year’ means any taxable year which ends after December 31, 2006, and which includes such date.
+Specified transitional taxable year.—The term ‘specified transitional taxable year’ meansany taxable year which ends after December 31, 2006, and which includes such date.
 
 &emsp;&emsp;“(ii)
 
@@ -988,7 +988,7 @@ Deferral of deemed election revocation.—Any election under section 41(c)(4) of
 
 #### Effective Date of 2005 Amendments
 
-Amendment by Pub. L. 109–135 effective as if included in the provision of the Energy Policy Act of 2005, Pub. L. 109–58, to which such amendment relates, see section 402(m)(1) of Pub. L. 109–135, set out as an Effective and Termination Dates of 2005 Amendments note under section 36C of this title.
+Amendment by Pub. L. 109–135 effective as if included in the provision of the Energy Policy Act of 2005, Pub. L. 109–58, to which such amendment relates, see section 402(m)(1) of Pub. L. 109–135, set out as an Effective and Termination Dates of 2005 Amendments note under section 23 of this title.
 
 Pub. L. 109–58, title XIII, §1351(c), Aug. 8, 2005, 119 Stat. 1058, provided that: “The amendments made by this section \[amending this section\] shall apply to amounts paid or incurred after the date of the enactment of this Act \[Aug. 8, 2005\], in taxable years ending after such date.”
 
@@ -1120,7 +1120,7 @@ Pub. L. 109–432, div. A, title I, §123, Dec. 20, 2006, 120 Stat. 2944, provid
 
 “(a)
 
-Research Credit Elections.—In the case of any taxable year ending after December 31, 2005, and before the date of the enactment of this Act \[Dec. 20, 2006\], any election under section 41(c)(4) or section 280C(c)(3)(C) of the Internal Revenue Code of 1986 shall be treated as having been timely made for such taxable year if such election is made not later than the later of April 15, 2007, or such time as the Secretary of the Treasury, or his designee, may specify. Such electionshall be made in the manner prescribed by such Secretary or designee.
+Research Credit Elections.—In the case of any taxable year ending after December 31, 2005, and before the date of the enactment of this Act \[Dec. 20, 2006\], any election under section 41(c)(4) or section 280C(c)(3)(C) of the Internal Revenue Code of 1986 shall be treated as having been timely made for such taxable year if such election is made not later than the later of April 15, 2007, or such time as the Secretary of the Treasury, or his designee, may specify. Such election shall be made in the manner prescribed by such Secretary or designee.
 
 “(b)
 

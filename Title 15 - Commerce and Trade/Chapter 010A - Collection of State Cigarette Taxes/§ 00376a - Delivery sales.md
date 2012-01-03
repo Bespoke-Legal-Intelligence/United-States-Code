@@ -154,7 +154,7 @@ With respect to delivery sales into a specific State and place, each delivery se
 
 &emsp;&emsp;&emsp;(ii) the delivery is made to a person lawfully engaged in the business of manufacturing, distributing, or selling cigarettes or smokeless tobacco; or
 
-&emsp;&emsp;&emsp;(iii) the package being delivered weighs more than 100 pounds and the person making the delivery does not know or have reasonable cause to believe that the package contains cigarettes or smokeless tobacco.
+&emsp;&emsp;&emsp;(iii) the package being delivered weighs more than 100 pounds and the person making the delivery does not know or havereasonable cause to believe that the package contains cigarettes or smokeless tobacco.
 
 #### (B) Implementation of updates
 
@@ -222,7 +222,7 @@ With respect to delivery sales into a specific State and place, each delivery se
 
 &emsp;&emsp;&emsp;(iv) requiring that packages delivered by the common carrier or other delivery service contain any particular labels, notice, or markings; or
 
-&emsp;&emsp;&emsp;(v) prohibiting common carriers or other delivery services from making deliveries on the basis of whether the delivery selleris or is not identified on any list of delivery sellers maintained and distributed by any entity other than the Federal Government.
+&emsp;&emsp;&emsp;(v) prohibiting common carriers or other delivery services from making deliveries on the basis of whether the delivery seller is or is not identified on any list of delivery sellers maintained and distributed by any entity other than the Federal Government.
 
 #### (B) Relationship to other laws
 

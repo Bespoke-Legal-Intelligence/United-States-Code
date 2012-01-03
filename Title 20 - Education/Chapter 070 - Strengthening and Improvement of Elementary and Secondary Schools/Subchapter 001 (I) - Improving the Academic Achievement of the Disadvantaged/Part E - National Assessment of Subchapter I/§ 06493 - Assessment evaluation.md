@@ -22,7 +22,7 @@ The study shall—
 
 The study described in subsection (a) of this section shall examine—
 
-&emsp;(1) the effect of the assessment and accountability systems described in section <sup>1</sup> (c) on students, teachers, parents, families, schools, school districts, and States, including correlations between such systems and—
+&emsp;(1) the effect of the assessment and accountability systems described in section <sup>1</sup> (c) onstudents, teachers, parents, families, schools, school districts, and States, including correlations between such systems and—
 
 &emsp;&emsp;(A) student academic achievement, progress to the State-defined level of proficiency, and progress toward closing achievement gaps, based on independent measures;
 
@@ -46,7 +46,7 @@ The study described in subsection (a) of this section shall examine—
 
 #### (e) Reporting
 
-Not later than 3 years after the contract described in subsection (b) of this section is awarded, the organization or entity conducting the study shall submit an interim report to the Committee on Education and the Workforce of the United States House of Representatives and the Committee on Health, Education, Labor andPensions of the United States Senate, and to the President and the States, and shall make the report widely available to the public. The organization or entity shall submit a final report to the same recipients as soon as possible after the completion of the study. Additional reports may be periodically prepared and released as necessary.
+Not later than 3 years after the contract described in subsection (b) of this section is awarded, the organization or entity conducting the study shall submit an interim report to the Committee on Education and the Workforce of the United States House of Representatives and the Committee on Health, Education, Labor and Pensions of the United States Senate, and to the President and the States, and shall make the report widely available to the public. The organization or entity shall submit a final report to the same recipients as soon as possible after the completion of the study. Additional reports may be periodically prepared and released as necessary.
 
 #### (f) Reservation of funds
 
@@ -57,10 +57,6 @@ The Secretary may reserve up to 15 percent of the funds authorized to be appropr
 #### Prior Provisions
 
 A prior section 6493, Pub. L. 89–10, title I, §1503, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3605, related to innovative elementary school transition projects, prior to repeal by Pub. L. 105–277, div. A, §101(f) \[title VIII, §301(c)(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–410.
-
-#### Change of Name
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

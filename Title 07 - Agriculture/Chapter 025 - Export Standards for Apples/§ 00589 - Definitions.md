@@ -14,5 +14,5 @@ When used in this chapter—
 
 #### Amendments
 
-1999—Pub. L. 106–96 added par. (4) and struck out former par. (4) which read as follows: “The term ‘apples and/or pears’ means fresh whole apples or pears, whether or not they have been in storage.”
+<b>1999</b>—Pub. L. 106–96 added par. (4) and struck out former par. (4) which read as follows: “The term ‘apples and/or pears’ means fresh whole apples or pears, whether or not they have been in storage.”
 

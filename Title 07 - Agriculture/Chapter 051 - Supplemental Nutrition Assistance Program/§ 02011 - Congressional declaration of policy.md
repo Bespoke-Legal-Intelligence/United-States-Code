@@ -10,11 +10,11 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Pub. L. 110–246, §4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
+<b>2008</b>—Pub. L. 110–246, §4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
 
-1977—Pub. L. 95–113 substituted “a more nutritious diet” for “a nutritionally adequate diet” as the object of the program.
+<b>1977</b>—Pub. L. 95–113 substituted “a more nutritious diet” for “a nutritionally adequate diet” as the object of the program.
 
-1971—Pub. L. 91–671 provided for cooperation in utilization of Nation's abundance of food by other agencies, struck out “to the maximum extent practicable” before “to safeguard the health”, enunciated finding that limited food purchasing power of low-income households contributes to hunger and malnutrition, and substituted “promote the distribution” for “will tend to cause the distribution” and authorization of a program (to alleviate hunger and malnutrition) which will permit low-income households to purchase a nutritionally adequate diet through normal channels of trade for prior authorization of a program (to effectuate policy of Congress and purposes of this chapter) which will permit such households to receive a greater share of Nation's abundance of food.
+<b>1971</b>—Pub. L. 91–671 provided for cooperation in utilization of Nation's abundance of food by other agencies, struck out “to the maximum extent practicable” before “to safeguard the health”, enunciated finding that limited food purchasing power of low-income households contributes to hunger and malnutrition, and substituted “promote the distribution” for “will tend to cause the distribution” and authorization of a program (to alleviate hunger and malnutrition) which will permit low-income households to purchase a nutritionally adequate diet through normal channels of trade for prior authorization of a program (to effectuate policy of Congress and purposes of this chapter) which will permit such households to receive a greater share of Nation's abundance of food.
 
 #### Effective Date of 2008 Amendment
 
@@ -54,7 +54,7 @@ Pub. L. 100–232, §1, Jan. 5, 1988, 101 Stat. 1566, provided that: “This Act
 
 #### Short Title of 1986 Amendment
 
-Pub. L. 99–570, title XI, §11001, Oct. 27, 1986, 100 Stat. 3207–167, provided that: “This title \[amending sections 2012, 2018 and 2019 of this title, sections 1531 and 1603 of Title 29, Labor, sections 3003 and 3020 \[now 5103 and 5120\] of Title 38, Veterans’ Benefits, and sections 1383 and 1396a of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under section 2012 of this title, sections 5103 and 5120 of Title 38, and sections 602, 1383 and 1396a of Title 42\] may be cited as the ‘Homeless Eligibility Clarification Act’.”
+Pub. L. 99–570, title XI, §11001, Oct. 27, 1986, 100 Stat. 3207–167, provided that: “This title \[amending sections 2012, 2018 and 2019 of this title, sections 1531 and 1603 of Title 29, Labor, sections 3003 and 3020 \[now 5103 and 5120\] of Title 38, Veterans’ Benefits, and sections 1383and 1396a of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under section 2012 of this title, sections 5103 and 5120 of Title 38, and sections 602, 1383 and 1396a of Title 42\] may be cited as the ‘Homeless Eligibility Clarification Act’.”
 
 #### Short Title of 1982 Amendment
 
@@ -74,7 +74,7 @@ Pub. L. 94–339, §1, July 5, 1976, 90 Stat. 799, provided: “That this Act \[
 
 #### Short Title
 
-Pub. L. 88–525, §1, Aug. 31, 1964, 78 Stat. 703, as amended by Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91Stat. 958; Pub. L. 110–234, title IV, §4001(a), May 22, 2008, 122 Stat. 1092; Pub. L. 110–246, §4(a), title IV, §4001(a), June 18, 2008, 122 Stat. 1664, 1853, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Food and Nutrition Act of 2008’.”
+Pub. L. 88–525, §1, Aug. 31, 1964, 78 Stat. 703, as amended by Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 958; Pub. L. 110–234, title IV, §4001(a), May 22, 2008, 122 Stat. 1092; Pub. L. 110–246, §4(a), title IV, §4001(a), June 18, 2008, 122 Stat. 1664, 1853, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Food and Nutrition Act of 2008’.”
 
 #### Study of National Database for Federal Means-Tested Public Assistance Programs
 
@@ -134,7 +134,7 @@ Purpose.—It shall be the purpose of the Committee, in consultation, where appr
 
 &emsp;“(2) to examine the major reasons for such different programs and policies;
 
-&emsp;“(3) to evaluate how and the extent to which such different programs and policies hinder, to a significant degree, the receipt of benefits from more than one program and substantially restrict administrators’ ability to provide efficient, timely, and appropriate benefits;
+&emsp;“(3) to evaluate how and the extent to which such different programs and policies hinder, to a significant degree, the receipt of benefits from more thanone program and substantially restrict administrators’ ability to provide efficient, timely, and appropriate benefits;
 
 &emsp;“(4) to recommend common or simplified programs and policies (including recommendations for changes in law, regulations, and administrative practice and for policies that do not currently exist in such programs) that would substantially reduce difficulties in applying for and obtaining benefits from more than one program and significantly increase the ability of administrators of such programs to efficiently provide timely and appropriate assistance to those eligible for more than one type of assistance; and
 

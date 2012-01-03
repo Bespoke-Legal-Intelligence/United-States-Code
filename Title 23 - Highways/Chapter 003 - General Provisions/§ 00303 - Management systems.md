@@ -28,7 +28,7 @@ State Election.—A State may elect, at any time, not to implement, in whole or 
 
 (d)
 
-Procedural Requirements.—In developing and implementing a management system under this section, each State shall cooperate with metropolitan planning organizations for urbanized areas of the State and affected agencies receiving assistance under chapter 53 of title 49 and shall consider the results of the management systems in making project selection decisions under this title and under chapter 53.
+Procedural Requirements.—In developing and implementing a management system underthis section, each State shall cooperate with metropolitan planning organizations for urbanized areas of the State and affected agencies receiving assistance under chapter 53 of title 49 and shall consider the results of the management systems in making project selection decisions under this title and under chapter 53.
 
 (e)
 

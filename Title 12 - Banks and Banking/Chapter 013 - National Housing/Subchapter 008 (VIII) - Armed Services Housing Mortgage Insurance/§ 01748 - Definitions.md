@@ -24,17 +24,17 @@ For definition of Canal Zone, referred to in subsec. (g), see section 3602(b) of
 
 #### Amendments
 
-1967—Subsec. (b). Pub. L. 90–19 substituted “Secretary” for “Commissioner”.
+<b>1967</b>—Subsec. (b). Pub. L. 90–19 substituted “Secretary” for “Commissioner”.
 
-1960—Subsec. (g). Pub. L. 86–624 struck out “Hawaii,” before “Puerto Rico”.
+<b>1960</b>—Subsec. (g). Pub. L. 86–624 struck out “Hawaii,” before “Puerto Rico”.
 
-1959—Subsec. (g). Pub. L. 86–70 struck out “Alaska,” before “Hawaii”.
+<b>1959</b>—Subsec. (g). Pub. L. 86–70 struck out “Alaska,” before “Hawaii”.
 
-1956—Subsec. (g). Act Aug. 7, 1956, inserted reference to Canal Zone and Midway Island.
+<b>1956</b>—Subsec. (g). Act Aug. 7, 1956, inserted reference to Canal Zone and Midway Island.
 
-1955—Act Aug. 11, 1955, inserted definitions of “housing accommodations” and “personnel” and included the Coast Guard in definition of “military”.
+<b>1955</b>—Act Aug. 11, 1955, inserted definitions of “housing accommodations” and “personnel” and included the Coast Guard in definition of “military”.
 
-1952—Subsec. (f). Act July 14, 1952, inserted “Guam,” after “District of Columbia,”.
+<b>1952</b>—Subsec. (f). Act July 14, 1952, inserted “Guam,” after “District of Columbia,”.
 
 #### Savings Provision
 

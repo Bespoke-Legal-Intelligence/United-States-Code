@@ -36,7 +36,7 @@ In this subpart:
 
 #### Prior Provisions
 
-A prior section 1033, Pub. L. 89–329, title II, §223, as added Pub. L. 96–374, title II, §201, Oct. 3, 1980, 94 Stat. 1385; amended Pub. L. 99–498, title II, §205, Oct. 17, 1986, 100 Stat. 1289; Pub. L. 102–325, title II, §201, July 23, 1992, 106 Stat. 470, authorized Secretary to make grants and enter into contracts for research and development projects, prior to repeal by Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §708(b)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–312.
+A prior section 1033, Pub. L. 89–329, title II, §223, as added Pub. L. 96–374, title II, §201, Oct. 3, 1980, 94 Stat.1385; amended Pub. L. 99–498, title II, §205, Oct. 17, 1986, 100 Stat. 1289; Pub. L. 102–325, title II, §201, July 23, 1992, 106 Stat. 470, authorized Secretary to make grants and enter into contracts for research and development projects, prior to repeal by Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §708(b)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–312.
 
 Another prior section 1033, Pub. L. 89–329, title II, §222, formerly §223, Nov. 8, 1965, 79 Stat. 1227; Pub. L. 90–575, title II, §216, Oct. 16, 1968, 82 Stat. 1037, renumbered and amended Pub. L. 92–318, title I, §111(b)(3)(B)–(D), June 23, 1972, 86 Stat. 239, 240, related to grants for training in librarianship, prior to the general amendment of this subchapter by Pub. L. 96–374.
 

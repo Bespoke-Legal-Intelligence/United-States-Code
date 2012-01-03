@@ -18,7 +18,7 @@
 
 #### (B) Additional amounts
 
-&emsp;&emsp;In making payments under a grant under paragraph (1) for a fiscal year, the Secretary shall allocate to each State with an application approved under this section an additional amount which bears the same ratio to the amount appropriated to carry out this section for that fiscal year and remaining after amounts are made available under subparagraph (A) as the number of pharmacies of the State bears to the number of pharmacies of all States with applications approved under this section (as determined by the Secretary), except that the Secretary may adjust the amount allocated to a State under this subparagraph after taking into consideration the budget cost estimate for the State's controlled substance monitoring program.
+&emsp;&emsp;In making payments under a grant under paragraph (1) for a fiscal year, the Secretary shall allocate to each State with an application approved under this section an additional amount which bears the same ratio to the amount appropriated to carry out this section for that fiscal year and remaining after amounts are made available under subparagraph (A) as the number of pharmacies of the State bears to the number of pharmacies of all States with applications approved under this section (as determined by the Secretary), except that the Secretary may adjust the amount allocated to a State under this subparagraph after taking into consideration the budget cost estimate forthe State's controlled substance monitoring program.
 
 #### (3) Term of grants
 
@@ -84,7 +84,7 @@ Prior to awarding a grant under this section, and not later than 6 months after 
 
 #### (d) Reporting requirements
 
-In implementing or improving a controlled substance monitoring program under this section, a State shall comply, or with respect to a State that applies for a grant under subsection (a)(1)(B) of this section submit to the Secretary for approval a statement of why such compliance is not feasible or is contrary to the best interests of public health in such State, with the following:
+In implementing or improving a controlled substance monitoring program under this section, a State shall comply, or with respect to a State that applies for a grant under subsection\(a)(1)(B) of this section submit to the Secretary for approval a statement of why such compliance is not feasible or is contrary to the best interests of public health in such State, with the following:
 
 &emsp;(1) The State shall require dispensers to report to such State each dispensing in the State of a controlled substance to an ultimate user not later than 1 week after the date of such dispensing.
 
@@ -156,7 +156,7 @@ In implementing or improving a controlled substance monitoring program under thi
 
 &emsp;In consultation with practitioners, dispensers, and other relevant and interested stakeholders, a State receiving a grant under subsection (a) of this section—
 
-&emsp;&emsp;(A) shall establish a program to notify practitioners and dispensers of information that will help identify and prevent the unlawful diversion or misuse of controlled substances; and
+&emsp;&emsp;(A) shall establish a program to notify practitioners and dispensers of informationthat will help identify and prevent the unlawful diversion or misuse of controlled substances; and
 
 &emsp;&emsp;(B) may, to the extent permitted under State law, notify the appropriate authorities responsible for carrying out drug diversion investigations if the State determines that information in the database maintained by the State under subsection (e) of this section indicates an unlawful diversion or abuse of a controlled substance.
 

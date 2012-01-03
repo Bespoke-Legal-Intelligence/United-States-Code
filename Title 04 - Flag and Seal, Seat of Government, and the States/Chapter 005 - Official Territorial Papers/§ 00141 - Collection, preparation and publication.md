@@ -6,7 +6,7 @@ The Archivist of the United States, hereinafter referred to in this chapter as t
 
 #### Amendments
 
-1984—Pub. L. 98–497 substituted “Archivist of the United States” and “Archivist” for “Administrator of General Services” and “Administrator”, respectively.
+<b>1984</b>—Pub. L. 98–497 substituted “Archivist of the United States” and “Archivist” for “Administrator of General Services” and “Administrator”, respectively.
 
 #### Effective Date of 1984 Amendment
 

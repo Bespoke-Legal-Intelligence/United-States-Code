@@ -14,5 +14,5 @@ R.S. §1815 derived from act July 20, 1868, ch. 176, §6, 15 Stat. 110.
 
 #### Amendments
 
-2008—Pub. L. 110–437 inserted “Emancipation Hall of the Capitol Visitor Center,” after “Rotunda,”.
+<b>2008</b>—Pub. L. 110–437 inserted “Emancipation Hall of the Capitol Visitor Center,” after “Rotunda,”.
 

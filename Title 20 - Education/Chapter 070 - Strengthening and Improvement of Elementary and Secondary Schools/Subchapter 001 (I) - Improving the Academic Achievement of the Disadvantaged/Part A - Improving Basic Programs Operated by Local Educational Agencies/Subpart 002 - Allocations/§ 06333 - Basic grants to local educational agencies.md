@@ -136,7 +136,7 @@ A local educational agency is eligible for a basic grant under this section for 
 
 #### (C) Criteria of poverty
 
-&emsp;&emsp;In determining the families that are below the poverty level, the Secretary shall use the criteria of poverty used by the Bureau of the Census in compiling the most recent decennial census, as the criteria have been updated by increases in the Consumer Price Index for All Urban Consumers, published by the Bureau of Labor Statistics.
+&emsp;&emsp;In determining the families that are below the poverty level, the Secretary shall usethe criteria of poverty used by the Bureau of the Census in compiling the most recent decennial census, as the criteria have been updated by increases in the Consumer Price Index for All Urban Consumers, published by the Bureau of Labor Statistics.
 
 #### (4) Other children to be counted
 
@@ -150,7 +150,7 @@ A local educational agency is eligible for a basic grant under this section for 
 
 #### (5) Estimate
 
-&emsp;When requested by the Secretary, the Secretary of Commerce shall make a special updated estimate of the number of children of such ages who are from families below the poverty level (as determined under paragraph (1)(A)) in each school district, and the Secretary is authorized to pay (either in advance or by way of reimbursement) the Secretary ofCommerce the cost of making this special estimate. The Secretary of Commerce shall give consideration to any request of the chief executive of a State for the collection of additional census information.
+&emsp;When requested by the Secretary, the Secretary of Commerce shall make a special updated estimate of the number of children of such ages who are from families below the poverty level (as determined under paragraph (1)(A)) in each school district, and the Secretary is authorized to pay (either in advance or by way of reimbursement) the Secretary of Commerce the cost of making this special estimate. The Secretary of Commerce shall give consideration to any request of the chief executive of a State for the collection of additional census information.
 
 #### (d) State minimum
 

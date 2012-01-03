@@ -36,7 +36,7 @@ Instruction only.—The vessel may be used only for instructing students in a ve
 
 &emsp;(4)
 
-Documentation.—If the vessel is eligible to be documented, it must be documented bythe institution as a vessel of the United States under chapter 121 of title 46. The requirements of paragraph (5) must be noted on the permanent record of the vessel.
+Documentation.—If the vessel is eligible to be documented, it must be documented by the institution as a vessel of the United States under chapter 121 of title 46. The requirements of paragraph (5) must be noted on the permanent record of the vessel.
 
 &emsp;(5)
 

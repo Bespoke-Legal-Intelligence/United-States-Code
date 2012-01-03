@@ -10,7 +10,7 @@ Regulations authorized to be promulgated under this section shall be promulgated
 
 #### (c) Printing of regulations and effective dates
 
-All regulations promulgated under the authority of this section shall, when adopted by the Capitol Police Board, be printed in one or more of the daily newspapers published in the District of Columbia, and shall not become effective until the expiration of ten days after the date of such publication, except that whenever the Capitol Police Board deems it advisable to make effective immediately any regulation relating to parking, diverting of vehicular traffic, or the closing of streets to such traffic, the regulation shall be effective immediately upon placing at the point where it is to be in force conspicuous signs containing a notice of the regulation. Any expenses incurred under this subsection shall be payable from the appropriation “Uniforms and Equipment, Capitol Police”.
+All regulations promulgated under the authority of this section shall, when adopted by the Capitol Police Board, be printed in one or more of the daily newspapers published in the District of Columbia, and shall not become effective until the expiration of ten days after the date of such publication, except that whenever the Capitol Police Board deems it advisable to make effective immediately any regulation relating to parking, diverting of vehicular traffic, or the closing of streets to such traffic, the regulationshall be effective immediately upon placing at the point where it is to be in force conspicuous signs containing a notice of the regulation. Any expenses incurred under this subsection shall be payable from the appropriation “Uniforms and Equipment, Capitol Police”.
 
 #### (d) Cooperation with Mayor of District of Columbia
 
@@ -28,9 +28,9 @@ Section was classified to section 212b of former Title 40, prior to the enactmen
 
 #### Amendments
 
-1973—Subsec. (a). Pub. L. 93–198, §739(g)(6), struck out “, except on those streets and roadways shown on the map referred to in section 193a of this title as being under the jurisdiction and control of the Commissioner of the District of Columbia”.
+<b>1973</b>—Subsec. (a). Pub. L. 93–198, §739(g)(6), struck out “, except on those streets and roadways shown on the map referred to in section 193a of this title as being under the jurisdiction and control of the Commissioner of the District of Columbia”.
 
-1947—Subsec. (b). Act July 11, 1947, §1, struck out reference to six months after July 31, 1946, as the time for promulgation of regulations and authorized amendment of regulations.
+<b>1947</b>—Subsec. (b). Act July 11, 1947, §1, struck out reference to six months after July 31, 1946, as the time for promulgation of regulations and authorized amendment of regulations.
 
 Subsec. (c). Act July 11, 1947, §2, authorized certain traffic regulations to be effective immediately upon placing conspicuous signs containing notice of regulations at the places affected thereby and inserted provision for payment of expenses.
 

@@ -14,7 +14,7 @@ For any closed end consumer credit transaction that is secured by real property 
 
 &emsp;&emsp;(D) borrower-paid mortgage broker fees referred to in section 1605(a)(6) of this title;
 
-&emsp;(2) the form of written notice used by the creditor to inform the obligor of the rights of the obligor under section 1635 of this title if the creditor provided the obligor with a properly dated form of written notice published and adopted by the Board or a comparable written notice, and otherwise complied with all the requirements of this section regarding notice; or
+&emsp;(2) the form of written notice used by the creditor to inform the obligor of the rights of the obligor under section 1635 of this title if the creditor provided the obligor with a properly dated form of written notice published and adopted by the Bureau or a comparable written notice, and otherwise complied with all the requirements of this section regarding notice; or
 
 &emsp;(3) any disclosure relating to the finance charge imposed with respect to the transaction if the amount or percentage actually disclosed—
 
@@ -38,13 +38,11 @@ Subsection (a) of this section shall not apply to—
 
 (Pub. L. 90–321, title I, §139, as added Pub. L. 104–29, §4(a), Sept. 30, 1995, 109 Stat. 273; amended Pub. L. 104–208, div. A, title II, §2107(a), Sept. 30, 1996, 110 Stat. 3009–402; Pub. L. 111–203, title X, §1100A(2), July 21, 2010, 124 Stat. 2107.)
 
-#### Amendment of Section
-
-<i>Pub. L. 111–203, title X, §§1100A(2), 1100H, July 21, 2010, 124 Stat. 2107, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Board” each place that term appears and inserting “Bureau”. See Effective Date of 2010 Amendment note below.</i>
-
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–208 substituted “For any closed end consumer credit transaction that is securedby real property or a dwelling, that is subject to this subchapter, and” for “For any consumer credit transaction subject to this subchapter”.
+<b>2010</b>—Subsec. (a)(2). Pub. L. 111–203 substituted “Bureau” for “Board”.
+
+<b>1996</b>—Subsec. (a). Pub. L. 104–208 substituted “For any closed end consumer credit transaction that is secured by real property or a dwelling, that is subject to this subchapter, and” for “For any consumer credit transaction subject to this subchapter”.
 
 #### Effective Date of 2010 Amendment
 

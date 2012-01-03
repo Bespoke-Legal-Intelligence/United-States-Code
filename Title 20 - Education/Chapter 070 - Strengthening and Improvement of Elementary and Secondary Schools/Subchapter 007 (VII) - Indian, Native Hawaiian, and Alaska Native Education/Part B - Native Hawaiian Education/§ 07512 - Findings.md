@@ -8,7 +8,7 @@ Congress finds the following:
 
 &emsp;(3) A unified monarchal government of the Hawaiian Islands was established in 1810 under Kamehameha I, the first King of Hawaii.
 
-&emsp;(4) From 1826 until 1893, the United States recognized the sovereignty and independence of the Kingdom of Hawaii, which was established in 1810 under Kamehameha I, extended full and complete diplomatic recognition to the Kingdom of Hawaii, and entered into treaties and conventions with the Kingdom of Hawaii to govern friendship, commerce and navigation in 1826, 1842, 1849, 1875, and 1887.
+&emsp;(4) From 1826 until 1893, the United States recognized the sovereignty and independence of the Kingdom of Hawaii, which was established in 1810 under Kamehameha I, extended full and complete diplomatic recognition tothe Kingdom of Hawaii, and entered into treaties and conventions with the Kingdom of Hawaii to govern friendship, commerce and navigation in 1826, 1842, 1849, 1875, and 1887.
 
 &emsp;(5) In 1893, the sovereign, independent, internationally recognized, and indigenous government of Hawaii, the Kingdom of Hawaii, was overthrown by a small group of non-Hawaiians, including United States citizens, who were assisted in their efforts by the United States Minister, a United States naval representative, and armed naval forces of the United States. Because of the participation of United States agents and citizens in the overthrow of the Kingdom of Hawaii, in 1993 the United States apologized to Native Hawaiians for the overthrow and the deprivation of the rights of Native Hawaiians to self-determination through Public Law 103–150 (107 Stat. 1510).
 
@@ -110,7 +110,7 @@ Congress finds the following:
 
 &emsp;&emsp;(C) promotes the study of the Hawaiian culture, language, and history by providing a Hawaiian education program and using community expertise as a suitable and essential means to further the program.
 
-(Pub. L. 89–10, title VII, §7202, as added Pub. L. 107–110, title VII, §701, Jan. 8, 2002, 115 Stat. 1932; amended Pub. L. 111–256, §2(c), Oct. 5, 2010, 124 Stat. 2643.)
+(Pub. L. 89–10, title VII, §7202, as added Pub. L. 107–110, title VII, §701, Jan. 8, 2002, 115 Stat. 1932;amended Pub. L. 111–256, §2(c), Oct. 5, 2010, 124 Stat. 2643.)
 
 #### References in Text
 
@@ -124,7 +124,7 @@ Act of June 20, 1938, referred to in par. (9), is act June 20, 1938, ch. 530, 52
 
 An Act to provide for the admission of the State of Hawaii into the Union, referred to in pars. (10) and (11), is Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, popularly known as the Hawaii Statehood Admissions Act, which is set out as a note preceding former section 491 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
 
-The Native American Programs Act of 1974, referred to in par. (13)(A), is title VIII of Pub. L. 88–452, as added by Pub. L. 93–644, §11, Jan. 4, 1975, 88 Stat. 2324, whichis classified generally to subchapter VIII (§2991 et seq.) of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 2991 of Title 42 and Tables.
+The Native American Programs Act of 1974, referred to in par. (13)(A), is title VIII of Pub. L. 88–452, as added by Pub. L. 93–644, §11, Jan. 4, 1975, 88 Stat. 2324, which is classified generally to subchapter VIII (§2991 et seq.) of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 2991 of Title 42 and Tables.
 
 The American Indian Religious Freedom Act, referred to in par. (13)(B), is Pub. L. 95–341, Aug. 11, 1978, 92 Stat. 469, which is classified to sections 1996 and 1996a of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1996 of Title 42 and Tables.
 

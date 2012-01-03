@@ -10,5 +10,5 @@ Section 309(b)(1) of Pub. L. 96–221 redesignated subch. III as title III of ac
 
 #### Amendments
 
-2006—Pub. L. 109–351 substituted “section 1752a(d)” for “section 1752a(e)”.
+<b>2006</b>—Pub. L. 109–351 substituted “section 1752a(d)” for “section 1752a(e)”.
 

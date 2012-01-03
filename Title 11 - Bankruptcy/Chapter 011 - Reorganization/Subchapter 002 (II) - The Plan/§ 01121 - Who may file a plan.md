@@ -40,7 +40,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 1121 of the House amendment is derived from section 1121 of the House bill; section 1121(c)(1) will be satisfied automatically in a case under subchapter IV of title 11.
 
@@ -54,7 +54,7 @@ Subsection (d) permits the court, for cause, to increase or reduce the 120-day a
 
 #### Amendments
 
-2005—Subsec. (d). Pub. L. 109–8, §411, designated existing provisions as par. (1), substituted “Subject to paragraph (2), on” for “On”, and added par. (2).
+<b>2005</b>—Subsec. (d). Pub. L. 109–8, §411, designated existing provisions as par. (1), substituted “Subject to paragraph (2), on” for “On”, and added par. (2).
 
 Subsec. (e). Pub. L. 109–8, §437, added subsec. (e) and struck out former subsec. (e) which read as follows: “In a case in which the debtor is a small business and elects to be considered a small business—
 
@@ -68,11 +68,11 @@ Subsec. (e). Pub. L. 109–8, §437, added subsec. (e) and struck out former sub
 
 &emsp;&emsp;“(B) increase the 100-day period specified in paragraph (1) if the debtor shows that the need for an increase is caused by circumstances for which the debtor should not be held accountable.”
 
-1994—Subsec. (e). Pub. L. 103–394 added subsec. (e).
+<b>1994</b>—Subsec. (e). Pub. L. 103–394 added subsec. (e).
 
-1986—Subsec. (d). Pub. L. 99–554 inserted reference to subsection (b) of this section.
+<b>1986</b>—Subsec. (d). Pub. L. 99–554 inserted reference to subsection (b) of this section.
 
-1984—Subsec. (c)(3). Pub. L. 98–353, §506(a), substituted “of claims or interests that is” for “the claims or interests of which are”.
+<b>1984</b>—Subsec. (c)(3). Pub. L. 98–353, §506(a), substituted “of claims or interests that is” for “the claims or interests of which are”.
 
 Subsec. (d). Pub. L. 98–353, §506(b), inserted “made within the respective periods specified in subsection (c) of this section”.
 

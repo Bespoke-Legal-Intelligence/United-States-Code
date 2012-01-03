@@ -16,7 +16,7 @@ Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 3
 
 #### Regulations
 
-For requirement that, not later than 180 days after July 18, 1984, the Secretary of the Treasury modify the safe harbor interest rates applicable under the regulations prescribed under this section so that such rates are consistent with the rates applicable under section 483 of this title by reason of the amendments made by Pub. L. 98–369, see section 44(b)(2) of Pub. L. 98–369, set out as an Effective Date note under section 1271 of this title.
+For requirement that, not later than 180 days after July 18, 1984, the Secretary of the Treasury modify thesafe harbor interest rates applicable under the regulations prescribed under this section so that such rates are consistent with the rates applicable under section 483 of this title by reason of the amendments made by Pub. L. 98–369, see section 44(b)(2) of Pub. L. 98–369, set out as an Effective Date note under section 1271 of this title.
 
 #### Study of Application and Administration of This Section
 

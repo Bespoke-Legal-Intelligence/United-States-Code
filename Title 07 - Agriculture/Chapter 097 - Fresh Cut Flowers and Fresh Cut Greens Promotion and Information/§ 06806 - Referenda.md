@@ -42,7 +42,7 @@ If an order is approved in a referendum conducted under subsection (a) of this s
 
 #### (d) Suspension or termination
 
-If, as a result of the referendum conducted under subsection (a) of this section, the Secretary determines that the order has not been approved by a simple majority of all votes cast in the referendum, or as a result of a referendum conducted under subsection (c) of this section,the Secretary determines that suspension or termination of the order is favored by a simple majority of all votes cast in the referendum, the Secretary shall—
+If, as a result of the referendum conducted under subsection (a) of this section, the Secretary determines that the order has not been approved by a simple majority of all votes cast in the referendum, or as a result of a referendum conducted under subsection (c) of this section, the Secretary determines that suspension or termination of the order is favored by a simple majority of all votes cast in the referendum, the Secretary shall—
 
 &emsp;(1) not later than 180 days after the referendum, suspend or terminate, as appropriate, collection of assessments under the order; and
 

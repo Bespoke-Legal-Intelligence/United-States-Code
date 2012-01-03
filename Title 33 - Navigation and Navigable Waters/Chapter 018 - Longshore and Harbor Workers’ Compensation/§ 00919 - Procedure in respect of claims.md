@@ -26,7 +26,7 @@ An award of compensation for disability may be made after the death of an injure
 
 #### (g) Transfer of case
 
-At any time after a claim has been filed with him, the deputy commissioner may, with the approval of the Secretary, transfer such case to any other deputy commissioner for the purpose of making investigation, taking testimony, making physical examinations or taking such other necessary action therein as may be directed.
+At any time after a claim has been filed with him, the deputy commissioner may, with the approval of the Secretary, transfer such case toany other deputy commissioner for the purpose of making investigation, taking testimony, making physical examinations or taking such other necessary action therein as may be directed.
 
 #### (h) Physical examination of injured employee
 
@@ -40,7 +40,7 @@ An injured employee claiming or entitled to compensation shall submit to such ph
 
 <b>1978</b>—Subsec. (d). Pub. L. 95–251 substituted references to administrative law judges for references to hearing examiners.
 
-<b>1972</b>—Subsec. (d). Pub. L. 92–576 substituted provisions for conduct of hearings under section 554 of title5 by a hearing examiner qualified under section 3105 of title 5 and vesting in hearing examiners the powers, duties, and responsibilities vested in deputy commissioners on Oct. 27, 1972, for former provisions authorizing claimant and employer to present evidence with respect to claims and for representation of a claimant under a written authorization.
+<b>1972</b>—Subsec. (d). Pub. L. 92–576 substituted provisions for conduct of hearings under section 554 of title 5 by a hearing examiner qualified under section 3105 of title 5 and vesting in hearing examiners the powers, duties, and responsibilities vested in deputy commissioners on Oct. 27, 1972, for former provisions authorizing claimant and employer to present evidence with respect to claims and for representation of a claimant under a written authorization.
 
 <b>1960</b>—Subsecs. (c), (e). Pub. L. 86–507 inserted “or by certified mail” after “registered mail”.
 

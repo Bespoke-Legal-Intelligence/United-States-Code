@@ -164,7 +164,7 @@ Nonuniformed Special Police.—The Administrator, or an official of the Administ
 
 “(f)
 
-Administrative.—The Administrator or an official of the Administration authorized by the Administrator may prescribe regulations necessary for the government of the property under their charge and control, and may annex to the regulations reasonable penalties, within the limits prescribed in subsection (g), that will ensure their enforcement. The regulations shall be posted and kept posted in a conspicuous place on the property.
+Administrative.—The Administrator or an official of the Administration authorized by the Administrator may prescribe regulations necessary for the government of the property under their charge and control, and may annex to the regulations reasonable penalties, within the limits prescribed in subsection (g),that will ensure their enforcement. The regulations shall be posted and kept posted in a conspicuous place on the property.
 
 “(g)
 

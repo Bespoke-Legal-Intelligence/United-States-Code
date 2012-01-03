@@ -2,7 +2,7 @@
 
 #### (a) Consultation with appropriate agencies
 
-The Fund shall consult with and consider the views of the appropriate Federal banking agency prior to providing assistance under this subchapter to—
+The Fund shall consult with and consider the views of the appropriate Federal banking agencyprior to providing assistance under this subchapter to—
 
 &emsp;(1) an insured community development financial institution;
 

@@ -40,7 +40,7 @@ Under regulations prescribed by the Secretary, no part of the earnings and profi
 
 &emsp;&emsp;(D) an election under this paragraph applies to such branch.
 
-> &emsp;An election under this paragraph shall apply to the taxable year for which made and allsubsequent taxable years unless revoked with the consent of the Secretary.
+> &emsp;An election under this paragraph shall apply to the taxable year for which made and all subsequent taxable years unless revoked with the consent of the Secretary.
 
 #### (3) Regulations
 

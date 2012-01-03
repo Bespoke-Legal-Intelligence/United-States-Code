@@ -38,7 +38,7 @@ In general.—A contractor with respect to an operating agreement (including an 
 
 &emsp;(2)
 
-Emergency preparedness agreement.—All terms and conditions of an Emergency Preparedness Agreement entered into under section 53107 shall remain in effect until the date the operating agreement would terminate according to its terms, except that the terms of such Emergency Preparedness Agreement may be modified by the mutual consent of thecontractor, the Secretary of Transportation, and the Secretary of Defense.
+Emergency preparedness agreement.—All terms and conditions of an Emergency Preparedness Agreement entered into under section 53107 shall remain in effect until the date the operating agreement would terminate according to its terms, except that the terms of such Emergency Preparedness Agreement may be modified by the mutual consent of the contractor, the Secretary of Transportation, and the Secretary of Defense.
 
 (e)
 

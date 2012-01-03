@@ -8,7 +8,7 @@ For the purposes of this chapter—
 
 #### (2) Annual percentage yield
 
-&emsp;The term “annual percentage yield” means the total amount of interest that would be received on a $100 deposit, based on the annual rate of simple interest and the frequency of compounding for a 365-day period, expressed as a percentage calculated by a method which shall be prescribed by the Board in regulations.
+&emsp;The term “annual percentage yield” means the total amount of interest that would be received on a $100 deposit, based on the annual rate of simple interest and the frequency of compounding for a 365-day period, expressed as a percentage calculated by a method which shall be prescribed by the Bureau in regulations.
 
 #### (3) Annual rate of simple interest
 
@@ -18,9 +18,9 @@ For the purposes of this chapter—
 
 &emsp;&emsp;(B) may be referred to as the “annual percentage rate”.
 
-#### (4) Board
+#### (4) Bureau
 
-&emsp;The term “Board” means the Board of Governors of the Federal Reserve System.
+&emsp;The term “Bureau” means the Bureau of Consumer Financial Protection.
 
 #### (5) Deposit broker
 
@@ -32,7 +32,7 @@ For the purposes of this chapter—
 
 #### (6) Depository institution
 
-&emsp;The term “depository institution” has the meaning given such term in clauses (i) through (vi) of section 461(b)(1)(A) of this title, but does not include any nonautomated credit union that was not required to comply with the requirements of this chapter <sup>1</sup> as of September 30, 1996, pursuant to the determination of the National Credit Union Administration Board.
+&emsp;The term “depository institution” has the meaning given such term in clauses (i) through (vi) of section 461(b)(1)(A) of this title, but does not include any nonautomated credit union that was not required to comply with the requirements of this chapter <sup>1</sup> as of September 30, 1996, pursuant to the determination of the National Credit Union Administration Bureau.<sup>2</sup>
 
 #### (7) Interest
 
@@ -42,7 +42,7 @@ For the purposes of this chapter—
 
 &emsp;The term “multiple rate account” means any account that has 2 or more annual rates of simple interest which take effect at the same time or in succeeding periods and which are known at the time of disclosure.
 
-(Pub. L. 102–242, title II, §274, Dec. 19, 1991, 105 Stat. 2342; Pub. L. 102–550, title XVI, §1604(e)(2)(S), Oct. 28, 1992, 106 Stat. 4084; Pub. L. 103–325, title III, §332, Sept. 23, 1994, 108 Stat. 2232; Pub. L. 104–208, div. A, title II, §2604(c), Sept. 30, 1996, 110 Stat. 3009–471.)
+(Pub. L. 102–242, title II, §274, Dec. 19, 1991, 105 Stat. 2342; Pub. L. 102–550, title XVI, §1604(e)(2)(S), Oct. 28, 1992, 106 Stat. 4084; Pub. L. 103–325, title III, §332, Sept. 23, 1994, 108 Stat. 2232; Pub. L. 104–208, div. A, title II, §2604(c), Sept. 30, 1996, 110 Stat. 3009–471; Pub. L. 111–203, title X, §1100B(1), (4), July 21, 2010, 124 Stat. 2109, 2110.)
 
 #### References in Text
 
@@ -52,13 +52,25 @@ This chapter, referred to in par. (6), was in the original “this title”, and
 
 #### Amendments
 
-1996—Par. (6). Pub. L. 104–208 inserted before period at end “, but does not include any nonautomated credit union that was not required to comply with the requirements of this chapter as of September 30, 1996, pursuant to the determination of the National Credit Union Administration Board”.
+<b>2010</b>—Pub. L. 111–203, §1100B(1), substituted “Bureau” for “Board” wherever appearing.
 
-1994—Par. (1). Pub. L. 103–325 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘account’ means any account offered to 1 or more individuals or an unincorporated nonbusiness association of individuals by a depository institution into which a customer deposits funds, including demand accounts, time accounts, negotiable order of withdrawal accounts, and share draft accounts.”
+Par. (4). Pub. L. 111–203, §1100B(4), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: “The term ‘Board’ means the Board of Governors of the Federal Reserve System.”
 
-1992—Pub. L. 102–550 made technical amendment to reference to “this chapter” in introductory provisions to reflect correction of corresponding provision of original act.
+<b>1996</b>—Par. (6). Pub. L. 104–208 inserted before period at end “, but does not include any nonautomated credit union that was not required to comply with the requirements of this chapter as of September 30, 1996, pursuant to the determination of the National Credit Union Administration Board”.
+
+<b>1994</b>—Par. (1). Pub. L. 103–325 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘account’ means any account offered to 1 or more individuals or an unincorporated nonbusiness association of individuals by a depository institution into which a customer deposits funds, including demand accounts, time accounts, negotiable order of withdrawal accounts, and share draft accounts.”
+
+<b>1992</b>—Pub. L. 102–550 made technical amendment to reference to “this chapter” in introductory provisions to reflect correction of corresponding provision of original act.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1992 Amendment
 
 Amendment by Pub. L. 102–550 effective as if included in the Federal Deposit Insurance Corporation Improvement Act of 1991, Pub. L. 102–242, as of Dec. 19, 1991, see section 1609(a) of Pub. L. 102–550, set out as a note under section 191 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “Board.”</i>
 

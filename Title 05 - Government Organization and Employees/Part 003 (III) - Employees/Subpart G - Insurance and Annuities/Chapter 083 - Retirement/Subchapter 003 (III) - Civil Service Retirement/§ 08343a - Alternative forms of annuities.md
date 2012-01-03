@@ -30,15 +30,15 @@
 
 #### Amendments
 
-2000—Subsec. (c). Pub. L. 106–553 substituted “(a)–(i), (n), (q), (r), and (s)” for “(a)–(i), (n), (q), and (r)”.
+<b>2000</b>—Subsec. (c). Pub. L. 106–553 substituted “(a)–(i), (n), (q), (r), and (s)” for “(a)–(i), (n), (q), and (r)”.
 
-1997—Subsec. (c). Pub. L. 105–61, which directed the substitution of “(q), and (r) of section 8339” for “and (q) of section 8339 of this title” in section 8334a(c), was executed by making the substitution in subsec. (c) of this section to reflect the probable intent of Congress, because there is no section 8334a in this title.
+<b>1997</b>—Subsec. (c). Pub. L. 105–61, which directed the substitution of “(q), and (r) of section 8339” for “and (q) of section 8339 of this title” in section 8334a(c), was executed by making the substitution in subsec. (c) of this section to reflect the probable intent of Congress, because there is no section 8334a in this title.
 
-1993—Subsec. (a). Pub. L. 103–66, §11002(a)(1), substituted “any employee or Member who has a life-threatening affliction or other critical medical condition” for “an employee or Member”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–66, §11002(a)(1), substituted “any employee or Member who has a life-threatening affliction or other critical medical condition” for “an employee or Member”.
 
 Subsec. (f). Pub. L. 103–66, §11002(a)(2), struck out subsec. (f) which prohibited election of alternative form of annuity where commencement date would be after Dec. 1, 1990, with certain exceptions.
 
-1990—Subsec. (c). Pub. L. 101–428 substituted “(a)–(i), (n), and (q)” for “(a)–(i) and (n)”.
+<b>1990</b>—Subsec. (c). Pub. L. 101–428 substituted “(a)–(i), (n), and (q)” for “(a)–(i) and (n)”.
 
 Subsec. (f). Pub. L. 101–508 added subsec. (f).
 

@@ -86,13 +86,15 @@ For delegation of certain functions of President under this section to United St
 
 The following presidential documents related to determinations under subsec. (a) of this section:
 
-China.—Memorandum of the President of the United States, Nov. 9, 2001, 66 F.R. 57357.
+China.—Memorandum of President of the United States, Nov. 9, 2001, 66 F.R. 57357.
 
-Saudi Arabia.—Memorandum of the President of the United States, Nov. 10, 2005, 70 F.R. 69419.
+Russia.—Memorandum of President of the United States, Dec. 15, 2011, 76 F.R. 79023.
 
-Taiwan, Penghu, Kinmen, and Matsu.—Memorandum of the President of the United States, Nov. 9, 2001, 66 F.R. 57359.
+Saudi Arabia.—Memorandum of President of the United States, Nov. 10, 2005, 70 F.R. 69419.
 
-Ukraine.—Determination of the President of the United States, No. 2008–17, Mar. 28, 2008, 73 F.R. 17879.
+Taiwan, Penghu, Kinmen, and Matsu.—Memorandum of President of the United States, Nov. 9, 2001, 66 F.R. 57359.
 
-Vietnam.—Memorandum of the President of the United States, Nov. 6, 2006, 71 F.R. 66223.
+Ukraine.—Determination of President of the United States, No. 2008–17, Mar. 28, 2008, 73 F.R. 17879.
+
+Vietnam.—Memorandum of President of the United States, Nov. 6, 2006, 71 F.R. 66223.
 

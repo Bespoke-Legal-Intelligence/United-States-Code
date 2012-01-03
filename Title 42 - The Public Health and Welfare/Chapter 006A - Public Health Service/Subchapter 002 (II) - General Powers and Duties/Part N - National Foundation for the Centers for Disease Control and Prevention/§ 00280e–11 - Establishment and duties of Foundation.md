@@ -80,7 +80,7 @@ In carrying out subsection (b) of this section, the Foundation may provide for t
 
 &emsp;(A) Subject to subparagraph (B), the Board shall be composed of 7 individuals, appointed in accordance with paragraph (4), who collectively possess education or experience appropriate for representing the general field of public health, the general field of international health, and the general public. Each such individual shall be a voting member of the Board.
 
-&emsp;(B) The Board may, through amendments to the bylaws of the Foundation, provide that thenumber of members of the Board shall be a greater number than the number specified in subparagraph (A).
+&emsp;(B) The Board may, through amendments to the bylaws of the Foundation, provide that the number of members of the Board shall be a greater number than the number specified in subparagraph (A).
 
 #### (3) Chair
 

@@ -30,7 +30,7 @@
 
 #### (ii) Secretarial authority
 
-&emsp;&emsp;&emsp;The Secretary may by regulation exempt transactions from the application of clause (i), including any transaction which is entered into by a payor in the ordinary course of a trade or business in which the payor is predominantly engaged and in which the payment of the accrued amounts occurs within 81/2 months after accrual or within such other period as the Secretary may prescribe.
+&emsp;&emsp;&emsp;The Secretary may by regulation exempt transactions from the application of clause (i), including any transaction which is entered into by a payor in the ordinary course of a trade or business in which the payor is predominantly engaged and in which the payment of the accrued amounts occurs within 8½ months after accrual or within such other period as the Secretary may prescribe.
 
 #### (b) Relationships
 
@@ -88,7 +88,7 @@ If—
 
 &emsp;(2) after December 31, 1953, the taxpayer sells or otherwise disposes of such property (or of other property the basis of which in his hands is determined directly or indirectly by reference to such property) at a gain,
 
-> then such gain shall be recognized only to the extent that it exceeds so much of such loss as is properly allocable to the property sold or otherwise disposed of by the taxpayer. This subsection applies with respect to taxable years ending after December 31, 1953. This subsection shall not apply if the loss sustained by the transferor is not allowable to the transferor as a deduction by reason of section 1091 (relating to wash sales) or by reason of section 118 of the Internal Revenue Code of 1939.
+> then such gain shall be recognized only to the extent that it exceeds so much of such loss as is properly allocable to the property sold or otherwise disposed of by the taxpayer. This subsection applies with respect to taxable years ending after December 31, 1953. This subsectionshall not apply if the loss sustained by the transferor is not allowable to the transferor as a deduction by reason of section 1091 (relating to wash sales) or by reason of section 118 of the Internal Revenue Code of 1939.
 
 #### (e) Special rules for pass-thru entities
 
@@ -254,7 +254,7 @@ Subsec. (a)(3). Pub. L. 99–514, §1812(c)(1), added par. (3).
 
 Subsec. (b)(12). Pub. L. 99–514, §1812(c)(4)(A), substituted “same persons own” for “same persons owns”.
 
-Subsec. (e)(5)(D). Pub. L. 99–514, §803(b)(5), substituted in cl. (i) “interest in property described in clause (i), (ii), (iii), or (iv) of section 1250(a)(1)(B)” for “interest in low-income housing (as defined in paragraph (5) of section 189(e))” and in cl. (ii) “such property” for “low-income housing (as so defined)”.
+Subsec. (e)(5)(D). Pub. L. 99–514, §803(b)(5), substituted in cl. (i) “interest in property described in clause (i), (ii), (iii), or (iv) of section 1250(a)(1)(B)” for “interest inlow-income housing (as defined in paragraph (5) of section 189(e))” and in cl. (ii) “such property” for “low-income housing (as so defined)”.
 
 Subsec. (e)(6). Pub. L. 99–514, §1812(c)(3)(C), added par. (6).
 
@@ -272,7 +272,7 @@ Subsec. (b)(12). Pub. L. 98–369, §174(b)(4), substituted “the same persons�
 
 Subsec. (e). Pub. L. 98–369, §174(b)(1), added subsec. (e).
 
-Pub. L. 98–369, §174(a)(2), struck out subsec. (e) which provided that for purposes of subsection (a)(2) where the last day of the 21/2 month period falls on Saturday, Sunday, or a legal holiday, such last day be treated as falling on the next succeeding day which is not a Saturday, Sunday, or a legal holiday, and the determination of what constitutes a legal holiday be made under section 7503 with respect to the payor's return of tax under this chapter for the preceding taxable year.
+Pub. L. 98–369, §174(a)(2), struck out subsec. (e) which provided that for purposes of subsection (a)(2) where the last day of the 2½ month period falls on Saturday, Sunday, or a legal holiday, such last day be treated as falling on the next succeeding day which is not a Saturday, Sunday, or a legal holiday, and the determination of what constitutes a legal holiday be made under section 7503 with respect to the payor's return of tax under this chapter for the preceding taxable year.
 
 Subsec. (f). Pub. L. 98–369, §174(b)(2)(B), added subsec. (f).
 

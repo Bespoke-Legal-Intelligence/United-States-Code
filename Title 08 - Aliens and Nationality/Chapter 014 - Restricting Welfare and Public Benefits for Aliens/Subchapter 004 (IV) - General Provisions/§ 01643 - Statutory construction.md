@@ -32,7 +32,7 @@ The Immigration and Nationality Act, referred to in subsec. (b)(1), is act June 
 
 #### Amendments
 
-1997—Subsecs. (b) to (d). Pub. L. 105–33 added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
+<b>1997</b>—Subsecs. (b) to (d). Pub. L. 105–33 added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
 #### Effective Date of 1997 Amendment
 

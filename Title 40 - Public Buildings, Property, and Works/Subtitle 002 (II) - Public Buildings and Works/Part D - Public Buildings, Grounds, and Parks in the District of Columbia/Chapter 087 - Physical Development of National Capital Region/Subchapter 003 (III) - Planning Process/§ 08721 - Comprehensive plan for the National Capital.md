@@ -46,7 +46,7 @@ Findings and recommendations rejected.—If the Council rejects the findings and
 
 (d)
 
-Resubmission Deemed New Element or Amendment.—Any element or amendment which the Commission has determined has a negative impact on the federal establishment in the National Capital which is submitted again in a modified form not less than one year from the day it was last rejected by the Commission is deemed to be a new element or amendment for purposes of the review procedure specified in this section.
+Resubmission Deemed New Element or Amendment.—Any element or amendment which the Commission has determined has a negativeimpact on the federal establishment in the National Capital which is submitted again in a modified form not less than one year from the day it was last rejected by the Commission is deemed to be a new element or amendment for purposes of the review procedure specified in this section.
 
 (e)
 

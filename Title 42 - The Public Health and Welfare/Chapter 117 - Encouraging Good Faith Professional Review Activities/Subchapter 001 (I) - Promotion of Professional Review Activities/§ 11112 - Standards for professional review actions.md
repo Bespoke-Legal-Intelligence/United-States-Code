@@ -12,7 +12,7 @@ For purposes of the protection set forth in section 11111(a) of this title, a pr
 
 &emsp;(4) in the reasonable belief that the action was warranted by the facts known after such reasonable effort to obtain facts and after meeting the requirement of paragraph (3).
 
-> A professional review action shall be presumed to have met the preceding standards necessaryfor the protection set out in section 11111(a) of this title unless the presumption is rebutted by a preponderance of the evidence.
+> A professional review action shall be presumed to have met the preceding standards necessary for the protection set out in section 11111(a) of this title unless the presumption is rebutted by a preponderance of the evidence.
 
 #### (b) Adequate notice and hearing
 
@@ -72,7 +72,7 @@ A health care entity is deemed to have met the adequate notice and hearing requi
 
 &emsp;&emsp;&emsp;(ii) to receive a written decision of the health care entity, including a statement of the basis for the decision.
 
-> A professional review body's failure to meet the conditions described in this subsection shall not, in itself, constitute failure to meet the standards of subsection (a)(3) of this section.
+> A professional review body's failure to meet the conditions described in this subsection shall not,in itself, constitute failure to meet the standards of subsection (a)(3) of this section.
 
 #### (c) Adequate procedures in investigations or health emergencies
 

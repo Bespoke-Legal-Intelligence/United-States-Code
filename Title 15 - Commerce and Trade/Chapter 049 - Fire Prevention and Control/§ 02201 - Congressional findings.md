@@ -50,7 +50,7 @@ Pub. L. 106–503, title I, §101, Nov. 13, 2000, 114 Stat. 2298, provided that:
 
 #### Short Title of 1997 Amendment
 
-Pub. L. 105–108, §1, Nov. 20, 1997, 111 Stat. 2264, provided that: “This Act \[amending sections 2216, 2225, and 2227 of this title and enacting provisions set out as notes under sections 2204 and 2218 of this title\] may be cited as the ‘United States Fire Administration Authorization Act for Fiscal Years 1998 and 1999’.”
+Pub. L. 105–108, §1, Nov. 20, 1997, 111 Stat. 2264, provided that: “This Act \[amending sections 2216, 2225, and2227 of this title and enacting provisions set out as notes under sections 2204 and 2218 of this title\] may be cited as the ‘United States Fire Administration Authorization Act for Fiscal Years 1998 and 1999’.”
 
 #### Short Title of 1994 Amendment
 
@@ -132,7 +132,7 @@ Findings.—Congress finds that—
 
 &emsp;“(4) some State and local governments and the hotel industry need to act more rapidly to require the installation and use of automatic sprinkler systems in hotels; and
 
-&emsp;“(5) through the United States Fire Administration and the Center for Fire Research, the Federal Government has helped to develop and promote the use ofresidential sprinkler systems and other means of fire prevention and control.
+&emsp;“(5) through the United States Fire Administration and the Center for Fire Research, the Federal Government has helped to develop and promote the use of residential sprinkler systems and other means of fire prevention and control.
 
 “(b)
 

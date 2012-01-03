@@ -60,7 +60,7 @@ Amendment by Pub. L. 99–508 effective 90 days after Oct. 21, 1986, and, in cas
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–511 effective Oct. 25, 1978, except as specifically provided, see section 401 of Pub.L. 95–511, formerly set out as an Effective Date note under section 1801 of Title 50, War and National Defense.
+Amendment by Pub. L. 95–511 effective Oct. 25, 1978, except as specifically provided, see section 401 of Pub. L. 95–511, formerly set out as an Effective Date note under section 1801 of Title 50, War and National Defense.
 
 #### Report on Use of DCS 1000 (Carnivore) To Implement Orders Under Section 2518
 

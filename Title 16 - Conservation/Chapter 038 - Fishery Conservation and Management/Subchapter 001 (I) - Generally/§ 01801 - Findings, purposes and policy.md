@@ -54,7 +54,7 @@ It is further declared to be the policy of the Congress in this chapter—
 
 &emsp;(2) to authorize no impediment to, or interference with, recognized legitimate uses of the high seas, except as necessary for the conservation and management of fishery resources, as provided for in this chapter;
 
-&emsp;(3) to assure that the national fishery conservation and management program utilizes, and is based upon, the best scientific information available; involves, and is responsive to the needs of, interested and affected States and citizens; considers efficiency; draws upon Federal, State, and academic capabilities in carrying out research, administration, management, and enforcement; considers the effects of fishing on immature fish and encourages development of practical measures that minimize bycatch and avoid unnecessary waste of fish; and is workable and effective;
+&emsp;(3) to assure that the national fishery conservation and management program utilizes, and is based upon, the best scientific information available; involves, and is responsive to the needs of, interested and affected States and citizens; considers efficiency; draws upon Federal, State, and academic capabilities incarrying out research, administration, management, and enforcement; considers the effects of fishing on immature fish and encourages development of practical measures that minimize bycatch and avoid unnecessary waste of fish; and is workable and effective;
 
 &emsp;(4) to permit foreign fishing consistent with the provisions of this chapter;
 
@@ -124,7 +124,7 @@ Subsec. (b)(6). Pub. L. 95–354, §2(b), inserted requirement for development b
 
 #### References to Magnuson-Stevens Fishery Conservation and Management Act Considered To Include Section 401(a) of Pub. L. 108–219
 
-References to the Magnuson-Stevens Fishery Conservation and Management Act or any provision of that Act considered to be references to that Act as it would be in effect if section 401(a) of Pub. L. 108–219 were a provision of that Act, see section 401(c)(1) of Pub. L. 108–219, set out in an Implementation of Pacific Albacore Tuna Treaty note under section 1821 of this title.
+References to the Magnuson-Stevens Fishery Conservation and Management Act or any provision of that Act considered to be references to that Act as it would be in effect if section 401(a) of Pub. L. 108–219 were aprovision of that Act, see section 401(c)(1) of Pub. L. 108–219, set out in an Implementation of Pacific Albacore Tuna Treaty note under section 1821 of this title.
 
 #### References to Magnuson Fishery Conservation and Management Act Redesignated as References to Magnuson-Stevens Fishery Conservation and Management Act
 
@@ -176,7 +176,7 @@ Pub. L. 95–6, §1, Feb. 21, 1977, 91 Stat. 14, provided: “That this joint re
 
 #### Short Title
 
-Section 1 of Pub. L. 94–265, as amended by Pub. L. 96–561, title II, §238(a), Dec. 22, 1980, 94 Stat. 3300; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(a)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided: “That this Act \[enacting this chapter, amending section 971 of this title and sections 1972 and 1973 of Title 22, Foreign Relations and Intercourse, enacting provisions set out as notes under this section and sections 971, 1362, 1857 of this title, and sections 1972 and 1973 of Title 22, and repealing chapters 21 and 21A of this title\] may be cited as the ‘Magnuson-Stevens Fishery Conservation and Management Act’.”
+Section 1 of Pub. L. 94–265, as amended by Pub. L. 96–561, title II, §238(a), Dec. 22, 1980, 94 Stat. 3300; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(a)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided: “That this Act \[enacting this chapter, amending section 971 of thistitle and sections 1972 and 1973 of Title 22, Foreign Relations and Intercourse, enacting provisions set out as notes under this section and sections 971, 1362, 1857 of this title, and sections 1972 and 1973 of Title 22, and repealing chapters 21 and 21A of this title\] may be cited as the ‘Magnuson-Stevens Fishery Conservation and Management Act’.”
 
 \[Section 101(a) \[title II, §211(a)\] of div. A of Pub. L. 104–208 provided that the amendment made by that section to section 1 of Pub. L. 94–265, set out above, is effective 15 days after Oct. 11, 1996.\]
 
@@ -232,5 +232,5 @@ Sec. 5. <i>Sport Fishing and Boating Partnership Council</i>. To assist in the i
 
 (c) prepare an annual report of its activities, findings, and recommendations for submission to the Coordination Council.
 
-Sec. 6. <i>Judicial Review</i>. This order is intended only to improve the internal management of the executive branch and it is not intended to create any right, benefit or trust responsibility, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies, its officers, or any other person.
+Sec. 6. <i>Judicial Review</i>. This order is intended only to improve the internal management of the executivebranch and it is not intended to create any right, benefit or trust responsibility, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies, its officers, or any other person.
 

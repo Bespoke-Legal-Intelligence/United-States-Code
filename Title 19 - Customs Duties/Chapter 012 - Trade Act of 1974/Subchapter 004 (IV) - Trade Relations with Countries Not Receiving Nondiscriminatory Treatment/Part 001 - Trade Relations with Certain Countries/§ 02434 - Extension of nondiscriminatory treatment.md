@@ -96,7 +96,7 @@ Presidential Determinations and Extensions of Nondiscriminatory Treatment.—Not
 
 &emsp;“(1) determine that such title should no longer apply to Armenia; and
 
-&emsp;“(2) after making a determination under paragraph (1) with respect to Armenia, proclaim the extensionof nondiscriminatory treatment (normal trade relations treatment) to the products of that country.
+&emsp;“(2) after making a determination under paragraph (1) with respect to Armenia, proclaim the extension of nondiscriminatory treatment (normal trade relations treatment) to the products of that country.
 
 “(c)
 
@@ -198,7 +198,7 @@ Presidential Determinations and Extension of Nondiscriminatory Treatment.—Notw
 
 &emsp;“(1) determine that such chapter should no longer apply to the People's Republic of China; and
 
-&emsp;“(2) after making a determination under paragraph (1) with respect to the People's Republic of China, proclaim the extension of nondiscriminatory treatment (normal trade relations treatment) to the products of that country.
+&emsp;“(2) after making a determination under paragraph (1) with respect to the People's Republic of China,proclaim the extension of nondiscriminatory treatment (normal trade relations treatment) to the products of that country.
 
 “(b)
 
@@ -500,7 +500,7 @@ Congressional Findings.—The Congress finds that Bulgaria—
 
 &emsp;“(2) has reversed many years of Communist dictatorship and instituted a constitutional republic ruled by a democratically elected government as well as basic market-oriented reforms, including privatization;
 
-&emsp;“(3) is in the process of acceding to the General Agreement on Tariffs and Trade (GATT) and the World Trade Organization (WTO), and extension of unconditional most-favored-nation treatment would enable the United States to avail itself of all rights under the GATT and the WTO with respect to Bulgaria; and
+&emsp;“(3) is in the process of acceding to the General Agreement on Tariffs and Trade (GATT) and theWorld Trade Organization (WTO), and extension of unconditional most-favored-nation treatment would enable the United States to avail itself of all rights under the GATT and the WTO with respect to Bulgaria; and
 
 &emsp;“(4) has demonstrated a strong desire to build friendly relationships and to cooperate fully with the United States on trade matters.
 
@@ -544,127 +544,127 @@ S. Con. Res. 35, July 28, 1975, 89 Stat. 1202, provided: “That the Congress ap
 
 Afghanistan.—Proc. No. 7553, May 3, 2002, 67 F.R. 30535.
 
-Determination of the President of the United States, No. 93–3, Oct. 7, 1992, 57 F.R. 47557.
+Determination of President of the United States, No. 93–3, Oct. 7, 1992, 57 F.R. 47557.
 
 Proc. No. 5437, Jan. 31, 1986, 51 F.R. 4287.
 
 Albania.—Proc. No. 7326, June 29, 2000, 65 F.R. 41547.
 
-Determination of the President of the United States, No. 96–44, Aug. 27, 1996, 61 F.R. 45859.
+Determination of President of the United States, No. 96–44, Aug. 27, 1996, 61 F.R. 45859.
 
 Proc. No. 6445, June 15, 1992, 57 F.R. 26921.
 
-Determination of the President of the United States, No. 92–33, June 15, 1992, 57 F.R. 28583.
+Determination of President of the United States, No. 92–33, June 15, 1992, 57 F.R. 28583.
 
 Armenia.—Proc. No. 7860, Jan. 7, 2005, 70 F.R. 2321.
 
-Determination of the President of the United States, No. 96–47, Aug. 27, 1996, 61 F.R. 45865.
+Determination of President of the United States, No. 96–47, Aug. 27, 1996, 61 F.R. 45865.
 
-Belarus.—Determination of the President of the United States, No. 96–15, Mar. 7, 1996, 61 F.R. 49935.
+Belarus.—Determination of President of the United States, No. 96–15, Mar. 7, 1996, 61 F.R. 49935.
 
 Bulgaria.—Proc. No. 6922, Sept. 27, 1996, 61 F.R. 51205.
 
 Proc. No. 6307, June 24, 1991, 56 F.R. 29787.
 
-Determination of the President of the United States, No. 91–43, June 24, 1991, 56 F.R. 31037.
+Determination of President of the United States, No. 91–43, June 24, 1991, 56 F.R. 31037.
 
 China.—Proc. No. 7516, Dec. 27, 2001, 67 F.R. 479.
 
-Determination of the President of the United States, No. 98–13, Jan. 30, 1998, 63 F.R. 5857.
+Determination of President of the United States, No. 98–13, Jan. 30, 1998, 63 F.R. 5857.
 
-Determination of the President of the United States, No. 96–33, June 21, 1996, 61 F.R. 32631.
+Determination of President of the United States, No. 96–33, June 21, 1996, 61 F.R. 32631.
 
-Determination of the President of the United States, No. 92–12, Jan. 31, 1992, 57 F.R. 19077.
+Determination of President of the United States, No. 92–12, Jan. 31, 1992, 57 F.R. 19077.
 
-Memorandum of the President of the United States, Dec. 19, 1988, 53 F.R. 51217.
+Memorandum of President of the United States, Dec. 19, 1988, 53 F.R. 51217.
 
-Memorandum of the President of the United States, Dec. 23, 1982, 47 F.R. 57653.
+Memorandum of President of the United States, Dec. 23, 1982, 47 F.R. 57653.
 
 Proc. No. 4697, Oct. 23, 1979, 44 F.R. 61161.
 
 Czechoslovakia.—Proc. No. 6419, Apr. 10, 1992, 57 F.R. 12865.
 
-Determination of the President of the United States, No. 92–21, Apr. 10, 1992, 57 F.R. 12863.
+Determination of President of the United States, No. 92–21, Apr. 10, 1992, 57 F.R. 12863.
 
 Proc. No. 6175, Sept. 6, 1990, 55 F.R. 37643.
 
-Memorandum of the President of the United States, Sept. 6, 1990, 55 F.R. 39259.
+Memorandum of President of the United States, Sept. 6, 1990, 55 F.R. 39259.
 
 Georgia.—Proc. No. 7389, Dec. 29, 2000, 66 F.R. 703.
 
-Determination of the President of the United States, No. 96–49, Aug. 27, 1996, 61 F.R. 45869.
+Determination of President of the United States, No. 96–49, Aug. 27, 1996, 61 F.R. 45869.
 
 Hungary.—Proc. No. 6419, Apr. 10, 1992, 57 F.R. 12865.
 
-Determination of the President of the United States, No. 92–21, Apr. 10, 1992, 57 F.R. 12863.
+Determination of President of the United States, No. 92–21, Apr. 10, 1992, 57 F.R. 12863.
 
-Determination of the President of the United States, No. 90–27, June 22, 1990, 55 F.R. 25945.
+Determination of President of the United States, No. 90–27, June 22, 1990, 55 F.R. 25945.
 
-Determination of the President of the United States, No. 87–15, June 23, 1987, 52 F.R. 23785.
+Determination of President of the United States, No. 87–15, June 23, 1987, 52 F.R. 23785.
 
-Determination of the President of the United States, No. 84–10, May 31, 1984, 49 F.R. 23025.
+Determination of President of the United States, No. 84–10, May 31, 1984, 49 F.R. 23025.
 
-Determination of the President of the United States, No. 81–9, June 2, 1981, 46 F.R. 29921.
+Determination of President of the United States, No. 81–9, June 2, 1981, 46 F.R. 29921.
 
 Proc. No. 4560, Apr. 7, 1978, 43 F.R. 15125.
 
-Kazakhstan.—Determination of the President of the United States, No. 96–16, Mar. 7, 1996, 61 F.R. 49937.
+Kazakhstan.—Determination of President of the United States, No. 96–16, Mar. 7, 1996, 61 F.R. 49937.
 
 Kyrgyzstan.—Proc. No. 7326, June 29, 2000, 65 F.R. 41547.
 
-Determination of the President of the United States, No. 96–45, Aug. 27, 1996, 61 F.R. 45861.
+Determination of President of the United States, No. 96–45, Aug. 27, 1996, 61 F.R. 45861.
 
-Moldova.—Determination of the President of the United States, No. 96–48, Aug. 27, 1996, 61 F.R. 45867.
+Moldova.—Determination of President of the United States, No. 96–48, Aug. 27, 1996, 61 F.R. 45867.
 
 Mongolia.—Proc. No. 7207, July 1, 1999, 64 F.R. 36549.
 
 Proc. No. 6308, June 24, 1991, 56 F.R. 29834.
 
-Determination of the President of the United States, No. 91–44, June 24, 1991, 56 F.R. 31039.
+Determination of President of the United States, No. 91–44, June 24, 1991, 56 F.R. 31039.
 
 Romania.—Proc. No. 6951, Nov. 7, 1996, 61 F.R. 58129.
 
 Proc. No. 6577, July 2, 1993, 58 F.R. 36301.
 
-Determination of the President of the United States, No. 93–30, July 2, 1993, 58 F.R. 43785.
+Determination of President of the United States, No. 93–30, July 2, 1993, 58 F.R. 43785.
 
 Proc. No. 6449, June 22, 1992, 57 F.R. 28033.
 
-Determination of the President of the United States, No. 92–34, June 22, 1992, 57 F.R. 30099.
+Determination of President of the United States, No. 92–34, June 22, 1992, 57 F.R. 30099.
 
-Determination of the President of the United States, No. 90–28, July 3, 1990, 55 F.R. 27797.
+Determination of President of the United States, No. 90–28, July 3, 1990, 55 F.R. 27797.
 
-Determination of the President of the United States, No. 87–16, June 24, 1987, 52 F.R. 23931.
+Determination of President of the United States, No. 87–16, June 24, 1987, 52 F.R. 23931.
 
-Determination of the President of the United States, No. 87–15, June 23, 1987, 52 F.R. 23785.
+Determination of President of the United States, No. 87–15, June 23, 1987, 52 F.R. 23785.
 
-Determination of the President of the United States, No. 84–10, May 31, 1984, 49 F.R. 23025.
+Determination of President of the United States, No. 84–10, May 31, 1984, 49 F.R. 23025.
 
-Determination of the President of the United States, No. 81–9, June 2, 1981, 46 F.R. 29921.
+Determination of President of the United States, No. 81–9, June 2, 1981, 46 F.R. 29921.
 
 Proc. No. 4369, Apr. 24, 1975, 40 F.R. 18389.
 
-Tajikistan.—Determination of the President of the United States, No. 97–7, Nov. 26, 1996, 61 F.R. 63695.
+Tajikistan.—Determination of President of the United States, No. 97–7, Nov. 26, 1996, 61 F.R. 63695.
 
-Turkmenistan.—Determination of the President of the United States, No. 97–5, Nov. 20, 1996, 61 F.R. 59303.
+Turkmenistan.—Determination of President of the United States, No. 97–5, Nov. 20, 1996, 61 F.R. 59303.
 
 Ukraine.—Proc. No. 7995, Mar. 31, 2006, 71 F.R. 16969.
 
-Determination of the President of the United States, No. 96–46, Aug. 27, 1996, 61 F.R. 45863.
+Determination of President of the United States, No. 96–46, Aug. 27, 1996, 61 F.R. 45863.
 
 Union of Soviet Socialist Republics.—Proc. No. 6352, Oct. 9, 1991, 56 F.R. 51317.
 
 Proc. No. 6320, Aug. 2, 1991, 56 F.R. 37407.
 
-Determination of the President of the United States, No. 91–47, Aug. 2, 1991, 56 F.R. 40741.
+Determination of President of the United States, No. 91–47, Aug. 2, 1991, 56 F.R. 40741.
 
-Uzbekistan.—Determination of the President of the United States, No. 97–6, Nov. 26, 1996, 61 F.R. 63693.
+Uzbekistan.—Determination of President of the United States, No. 97–6, Nov. 26, 1996, 61 F.R. 63693.
 
 Vietnam.—Proc. No. 8096, Dec. 29, 2006, 72 F.R. 451.
 
-Determination of the President of the United States, No. 2005–11, Dec. 10, 2004, 69 F.R. 76587.
+Determination of President of the United States, No. 2005–11, Dec. 10, 2004, 69 F.R. 76587.
 
 Proc. No. 7449, June 8, 2001, 66 F.R. 31375.
 
-Determination of the President of the United States, No. 2001–18, June 8, 2001, 66 F.R. 34353.
+Determination of President of the United States, No. 2001–18, June 8, 2001, 66 F.R. 34353.
 

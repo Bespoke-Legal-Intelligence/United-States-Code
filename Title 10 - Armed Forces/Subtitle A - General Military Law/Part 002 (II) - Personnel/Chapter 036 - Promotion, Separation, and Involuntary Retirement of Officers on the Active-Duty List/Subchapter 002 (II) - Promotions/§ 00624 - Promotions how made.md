@@ -20,7 +20,7 @@
 
 (2) The date of rank of an officer appointed to a higher grade under this section is determined under section 741(d) of this title.
 
-(c) Appointments under this section shall be made by the President, by and with the advice and consent of the Senate, except that appointments under this section in the grade of first lieutenant or captain, in the case of officers ofthe Army, Air Force, or Marine Corps, or lieutenant (junior grade) or lieutenant, in the case of officers of the Navy, shall be made by the President alone.
+(c) Appointments under this section shall be made by the President, by and with the advice and consent of the Senate, except that appointments under this section in the grade of first lieutenant or captain, in the case of officers of the Army, Air Force, or Marine Corps, or lieutenant (junior grade) or lieutenant, in the case of officers of the Navy, shall be made by the President alone.
 
 (d)(1) Under regulations prescribed by the Secretary of Defense, the appointment of an officer under this section may be delayed if—
 

@@ -30,7 +30,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1978—Subsec. (a). Pub. L. 95–454 substituted “Merit Systems Protection Board” and “Board” for “Civil Service Commission” and “Commission”, respectively, wherever appearing.
+<b>1978</b>—Subsec. (a). Pub. L. 95–454 substituted “Merit Systems Protection Board” and “Board” for “Civil Service Commission” and “Commission”, respectively, wherever appearing.
 
 Subsecs. (b), (c). Pub. L. 95–454 substituted “Board” for “Commission” wherever appearing.
 

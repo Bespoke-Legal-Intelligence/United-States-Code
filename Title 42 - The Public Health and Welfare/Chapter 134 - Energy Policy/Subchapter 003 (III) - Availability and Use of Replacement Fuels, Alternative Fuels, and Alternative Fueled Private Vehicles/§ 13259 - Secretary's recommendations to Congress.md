@@ -4,7 +4,7 @@
 
 If the Secretary determines, under section 13257(f) of this title, that a fleet requirement program under section 13257 of this title is not necessary, the Secretary shall so notify the Congress. If the Secretary so notifies the Congress, the Secretary shall, within 2 years after such notification and by rule, prepare and submit to the Congress recommendations for requirements or incentives for—
 
-&emsp;(1) fuel suppliers to make available to the public replacement fuels, including providingfor the construction or availability of related fuel delivery systems;
+&emsp;(1) fuel suppliers to make available to the public replacement fuels, including providing for the construction or availability of related fuel delivery systems;
 
 &emsp;(2) suppliers of alternative fueled vehicles to make available to the public alternative fueled vehicles and to ensure the availability of necessary related services; and
 

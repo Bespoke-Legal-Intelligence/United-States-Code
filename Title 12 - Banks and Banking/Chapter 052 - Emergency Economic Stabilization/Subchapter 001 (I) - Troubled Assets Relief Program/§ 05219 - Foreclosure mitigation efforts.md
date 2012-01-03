@@ -22,7 +22,7 @@ Upon any request arising under existing investment contracts, the Secretary shal
 
 #### Amendments
 
-2009—Subsec. (a). Pub. L. 111–5 designated existing provisions as par. (1), inserted par. (1) heading, and added par. (2).
+<b>2009</b>—Subsec. (a). Pub. L. 111–5 designated existing provisions as par. (1), inserted par. (1) heading, and added par. (2).
 
 <i><sup>1</sup></i><i> So in original. Probably should be “mortgage-backed”.</i>
 

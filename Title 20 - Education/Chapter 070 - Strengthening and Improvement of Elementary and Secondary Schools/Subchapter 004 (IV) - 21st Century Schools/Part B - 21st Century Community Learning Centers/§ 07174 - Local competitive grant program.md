@@ -20,7 +20,7 @@ A State that receives funds under this part for a fiscal year shall provide the 
 
 &emsp;&emsp;&emsp;(ii) a description of how students participating in the program carried out by the community learning center will travel safely to and from the center and home; and
 
-&emsp;&emsp;&emsp;(iii) a description of how the eligible entity will disseminate information about the community learning center (includingits location) to the community in a manner that is understandable and accessible;
+&emsp;&emsp;&emsp;(iii) a description of how the eligible entity will disseminate information about the community learning center (including its location) to the community in a manner that is understandable and accessible;
 
 &emsp;&emsp;(B) a description of how the activity is expected to improve student academic achievement;
 
@@ -76,7 +76,7 @@ The State educational agency may approve an application under this part for a pr
 
 #### (e) Peer review
 
-In reviewing local applications under this section, a State educational agency shall use a peer review process or other methods of assuring the quality of such applications.
+In reviewing local applications under this section, a State educational agency shall use a peerreview process or other methods of assuring the quality of such applications.
 
 #### (f) Geographic diversity
 
@@ -106,7 +106,7 @@ A grant awarded under this part may not be made in an amount that is less than $
 
 #### (2) Special rule
 
-&emsp;The State educational agency shall provide the same priority under paragraph (1) to anapplication submitted by a local educational agency if the local educational agency demonstrates that it is unable to partner with a community-based organization in reasonable geographic proximity and of sufficient quality to meet the requirements of this part.
+&emsp;The State educational agency shall provide the same priority under paragraph (1) to an application submitted by a local educational agency if the local educational agency demonstrates that it is unable to partner with a community-based organization in reasonable geographic proximity and of sufficient quality to meet the requirements of this part.
 
 (Pub. L. 89–10, title IV, §4204, as added Pub. L. 107–110, title IV, §401, Jan. 8, 2002, 115 Stat. 1769.)
 

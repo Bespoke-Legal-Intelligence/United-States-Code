@@ -44,7 +44,7 @@
 
 &emsp;There are authorized to be appropriated to make grants under this subsection $10,000,000 for each of fiscal years 2001 through 2012.
 
-(Pub. L. 95–113, title XIV, §1419B, formerly Pub. L. 106–78, title VII, §759, Oct. 22, 1999, 113 Stat. 1172; renumbered Pub. L. 95–113, §1419B, andamended Pub. L. 110–234, title VII, §7112, May 22, 2008, 122 Stat. 1219, and Pub. L. 110–246, §4(a), title VII, §7112, June 18, 2008, 122 Stat. 1664, 1980.)
+(Pub. L. 95–113, title XIV, §1419B, formerly Pub. L. 106–78, title VII, §759, Oct. 22, 1999, 113 Stat. 1172; renumbered Pub. L. 95–113, §1419B, and amended Pub. L. 110–234, title VII, §7112, May 22, 2008, 122 Stat. 1219, and Pub. L. 110–246, §4(a), title VII, §7112, June 18, 2008, 122 Stat. 1664, 1980.)
 
 #### Codification
 
@@ -54,7 +54,7 @@ Section was formerly classified to section 3242 of this title.
 
 #### Amendments
 
-2008—Subsec. (a)(3). Pub. L. 110–246, §7112(1)(A), substituted “2012” for “2006”.
+<b>2008</b>—Subsec. (a)(3). Pub. L. 110–246, §7112(1)(A), substituted “2012” for “2006”.
 
 Subsec. (b)(2)(A). Pub. L. 110–246, §7112(1)(B)(i), inserted “, including permitting consortia to designate fiscal agents for the members of the consortia and to allocate among the members funds made available under this section” before semicolon at end.
 

@@ -10,7 +10,7 @@
 
 #### Amendments
 
-1976—Subsec. (a). Pub. L. 94–521 struck out “(other than censuses of population)” after “this chapter” and “Alaska, Hawaii” after “the District of Columbia”, inserted “the Commonwealth of the Northern Mariana Islands” after “Guam”, and struck out provision that censuses of population shall include all geographic areas referred to in first sentence of subsec. (a).
+<b>1976</b>—Subsec. (a). Pub. L. 94–521 struck out “(other than censuses of population)” after “this chapter” and “Alaska, Hawaii” after “the District of Columbia”, inserted “the Commonwealth of the Northern Mariana Islands” after “Guam”, and struck out provision that censuses of population shall include all geographic areas referred to in first sentence of subsec. (a).
 
 Subsec. (b). Pub. L. 94–521 inserted “the Commonwealth of the Northern Mariana Islands” after “Guam”, and substituted “use census information” for “utilize or adopt census data” and “if such information was obtained” for “when such data are obtained”.
 
@@ -22,5 +22,5 @@ Amendment by Pub. L. 94–521 effective Oct. 17, 1976, see section 17 of Pub. L.
 
 #### Admission of Alaska and Hawaii to Statehood
 
-Alaska was admitted into the Union on Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73Stat. c16, and Hawaii was admitted into the Union on Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 24 F.R. 6868, 73 Stat. c74. For Alaska Statehood Law, see Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as a note preceding section 21 of Title 48, Territories and Insular Possessions. For Hawaii Statehood Law, see Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as a note preceding section 491 of Title 48.
+Alaska was admitted into the Union on Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, and Hawaii was admitted into the Union on Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 24 F.R. 6868, 73 Stat. c74. For Alaska Statehood Law, see Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out asa note preceding section 21 of Title 48, Territories and Insular Possessions. For Hawaii Statehood Law, see Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as a note preceding section 491 of Title 48.
 

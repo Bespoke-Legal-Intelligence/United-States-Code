@@ -30,7 +30,7 @@ Except as provided in section 300t–12(e) of this title, for purposes of this s
 
 &emsp;(B) in which such care and medical services are prescribed by, or are performed under the general direction of, persons licensed to practice medicine or surgery in the State.
 
-(7) The term “construction” means construction of new buildings and initial equipment of such buildings and, in any case in which it will help to provide a service not previously provided in the community, equipment of any buildings; including architects’ fees, but excluding the cost of off-site improvements and, except with respect to public health centers, the cost of the acquisition of land.
+(7) The term “construction” means construction of new buildings and initial equipment of such buildings and, in any case in which it will help to provide a service not previously providedin the community, equipment of any buildings; including architects’ fees, but excluding the cost of off-site improvements and, except with respect to public health centers, the cost of the acquisition of land.
 
 (8) The term “cost” as applied to construction, modernization, or conversion means the amount found by the Secretary to be necessary for construction, modernization, or conversion, respectively, under a project, except that, in the case of a modernization project or a project assisted under part B of this subchapter, such term does not include any amount found by the Secretary to be attributable to expansion of the bed capacity of any facility.
 

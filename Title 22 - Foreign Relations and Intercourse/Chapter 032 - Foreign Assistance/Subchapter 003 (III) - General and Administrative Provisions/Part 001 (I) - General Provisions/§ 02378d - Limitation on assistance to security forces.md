@@ -2,17 +2,35 @@
 
 #### (a) In general
 
-No assistance shall be furnished under this chapter or the Arms Export Control Act \[22 U.S.C. 2751 et seq.\] to any unit of the security forces of a foreign country if the Secretary of State has credible evidence that such unit has committed gross violations of human rights.
+No assistance shall be furnished under this chapter or the Arms Export Control Act \[22 U.S.C. 2751 et seq.\] to any unit of the security forces of a foreign country if the Secretary of State has credible information that such unit has committed a gross violation of human rights.
 
 #### (b) Exception
 
-The prohibition in subsection (a) shall not apply if the Secretary determines and reports to the Committee on Foreign Relations of the Senate, the Committee on Foreign Affairs of the House of Representatives, and the Committees on Appropriations that the government of such country is taking effective measures to bring the responsible members of the security forces unit to justice.
+The prohibition in subsection (a) shall not apply if the Secretary determines and reports to the Committee on Foreign Relations of the Senate, the Committee on Foreign Affairs of the House of Representatives, and the Committees on Appropriations that the government of such country is taking effective steps to bring the responsible members of the security forces unit to justice.
 
 #### (c) Duty to inform
 
 In the event that funds are withheld from any unit pursuant to this section, the Secretary of State shall promptly inform the foreign government of the basis for such action and shall, to the maximum extent practicable, assist the foreign government in taking effective measures to bring the responsible members of the security forces to justice.
 
-(Pub. L. 87–195, pt. III, §620J, as added Pub. L. 110–161, div. J, title VI, §651, Dec. 26, 2007, 121 Stat. 2341.)
+#### (d) Credible information
+
+The Secretary shall establish, and periodically update, procedures to—
+
+&emsp;(1) ensure that for each country the Department of State has a current list of all security force units receiving United States training, equipment, or other types of assistance;
+
+&emsp;(2) facilitate receipt by the Department of State and United States embassies of information from individuals and organizations outside the United States Government about gross violations of human rights by security force units;
+
+&emsp;(3) routinely request and obtain such information from the Department of Defense, the Central Intelligence Agency, and other United States Government sources;
+
+&emsp;(4) ensure that such information is evaluated and preserved;
+
+&emsp;(5) ensure that when vetting an individual for eligibility to receive United States training the individual's unit is also vetted;
+
+&emsp;(6) seek to identify the unit involved when credible information of a gross violation exists but the identity of the unit is lacking; and
+
+&emsp;(7) make publicly available, to the maximum extent practicable, the identity of those units for which no assistance shall be furnished pursuant to subsection (a).
+
+(Pub. L. 87–195, pt. III, §620M, formerly §620J, as added Pub. L. 110–161, div. J, title VI, §651, Dec. 26, 2007, 121 Stat. 2341; renumbered §620M and amended Pub. L. 112–74, div. I, title VII, §7034(k), Dec. 23, 2011, 125 Stat. 1216.)
 
 #### References in Text
 
@@ -20,7 +38,11 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 The Arms Export Control Act, referred to in subsec. (a), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
-#### Codification
+#### Amendments
 
-Another section 620J of Pub. L. 87–195 is classified to section 2378a of this title.
+<b>2011</b>—Subsec. (a). Pub. L. 112–74, §7034(k)(2), substituted “information” for “evidence” and “a gross violation” for “gross violations”.
+
+Subsec. (b). Pub. L. 112–74, §7034(k)(3), substituted “steps” for “measures”.
+
+Subsec. (d). Pub. L. 112–74, §7034(k)(4), added subsec. (d).
 

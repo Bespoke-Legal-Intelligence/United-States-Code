@@ -18,7 +18,7 @@ The Commission has the power—
 
 &emsp;(7) to render advisory opinions under section 437f of this title;
 
-&emsp;(8) to develop such prescribed forms and to make, amend, and repeal such rules, pursuant to the provisions of chapter 5 of title 5, as are necessary to carry out the provisions of this Act and chapter 95 and chapter 96 of title 26; and
+&emsp;(8) to develop such prescribed forms and to make, amend, and repeal such rules, pursuant to the provisions of chapter 5 of title 5, as arenecessary to carry out the provisions of this Act and chapter 95 and chapter 96 of title 26; and
 
 &emsp;(9) to conduct investigations and hearings expeditiously, to encourage voluntary compliance, and to report apparent violations to the appropriate law enforcement authorities.
 
@@ -28,7 +28,7 @@ Upon petition by the Commission, any United States district court within the jur
 
 #### (c) Civil liability for disclosure of information
 
-No person shall be subject to civil liability to any person (other than the Commission or theUnited States) for disclosing information at the request of the Commission.
+No person shall be subject to civil liability to any person (other than the Commission or the United States) for disclosing information at the request of the Commission.
 
 #### (d) Concurrent transmissions to Congress or Member of budget estimates, etc.; prior submission of legislative recommendations, testimony, or comments on legislation
 
@@ -52,9 +52,9 @@ A prior section 307 of Pub. L. 92–225 was renumbered section 305, and is class
 
 #### Amendments
 
-1986—Subsec. (a)(6), (8). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsec. (a)(6), (8). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-1980—Subsec. (a). Pub. L. 96–187, §106, in par. (1) substituted “under oath, such written reports and answers to questions as the Commission may prescribe” for “in writing such reports and answers to questions as the Commission may prescribe” and struck out provision that such submission be made within such reasonable time and under oath as determined by the Commission; in par. (4) struck out “of this subsection” after “paragraph (3)”; in par. (6) substituted “section 437g(a)(8)” for “section 437g(a)(9)”, and substituted “to enforce the provisions of this Act” for “for the purpose of enforcing the provisions of this Act”; struck out par. (9) relating to formulation of general policy respecting administration of this Act and chapters 95 and 96 of title 26; and redesignated former par. (10) as (9).
+<b>1980</b>—Subsec. (a). Pub. L. 96–187, §106, in par. (1) substituted “under oath, such written reports and answers to questions as the Commission may prescribe” for “in writing such reports and answers to questions as the Commission may prescribe” and struck out provision that such submission be made within such reasonable time and under oath as determined by the Commission; in par. (4) struck out “of this subsection” after “paragraph (3)”; in par. (6) substituted “section 437g(a)(8)” for “section 437g(a)(9)”, and substituted “to enforce the provisions of this Act” for “for the purpose of enforcing the provisions of this Act”; struck out par. (9) relating to formulation of general policy respecting administration of this Act and chapters 95 and 96 of title 26; and redesignated former par. (10) as (9).
 
 Subsec. (b). Pub. L. 96–187, §106, reworded subsec. (b) without substantive changes.
 
@@ -64,7 +64,7 @@ Subsec. (d). Pub. L. 96–187, §106, struck out “of the United States” afte
 
 Subsec. (e). Pub. L. 96–187, §106, substituted “section 437g(a)(8)” for “section 437g(a)(9)”.
 
-1976—Subsec. (a)(6). Pub. L. 94–283, §107(b)(1), substituted “civil actions” for “civil proceedings” and inserted “(in the case of any civil action brought under section 437g(a) (9) of this title)” after “defend” and “and chapter 95 and chapter 96 of title 26” after “this Act”.
+<b>1976</b>—Subsec. (a)(6). Pub. L. 94–283, §107(b)(1), substituted “civil actions” for “civil proceedings” and inserted “(in the case of any civil action brought under section 437g(a) (9) of this title)” after “defend” and “and chapter 95 and chapter 96 of title 26” after “this Act”.
 
 Subsec. (a)(7). Pub. L. 94–283, §115(b), substituted “section 312” for “section 313” in the original to accommodate the renumbering of section 313 of Pub. L. 92–225 as section 312 of Pub. L. 92–225 by section 105 of Pub. L. 94–283. Since both the original and substituted references translate as “section 437f of this title” no change in text was required.
 

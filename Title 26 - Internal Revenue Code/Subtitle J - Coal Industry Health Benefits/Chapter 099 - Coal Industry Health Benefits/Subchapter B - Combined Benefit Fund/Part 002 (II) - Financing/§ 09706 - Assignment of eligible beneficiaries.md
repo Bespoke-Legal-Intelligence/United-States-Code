@@ -40,7 +40,7 @@ For purposes of subsection (a)—
 
 #### (2) Reassignment upon purchase
 
-&emsp;If a person becomes a successor of an assigned operator after the enactment date, the assigned operator may transfer the assignment of an eligible beneficiary under subsection (a) to such successor, and such successor shall be treated as the assigned operator with respect to such eligible beneficiary for purposes of this chapter. Notwithstanding the preceding sentence, the assigned operator transferring such assignment (and any related person) shall remain the guarantor of the benefits provided to the eligible beneficiary under this chapter. An assigned operator shall notify the trustees of the Combined Fund of any transfer described in this paragraph.
+&emsp;If a person becomes a successor of an assigned operator after the enactment date, the assigned operator may transfer the assignment of an eligible beneficiary under subsection (a) to such successor, and such successor shall be treated as the assigned operator with respect to such eligible beneficiary for purposes of this chapter. Notwithstanding the preceding sentence, the assigned operator transferring such assignment (and any relatedperson) shall remain the guarantor of the benefits provided to the eligible beneficiary under this chapter. An assigned operator shall notify the trustees of the Combined Fund of any transfer described in this paragraph.
 
 #### (c) Identification of eligible beneficiaries
 

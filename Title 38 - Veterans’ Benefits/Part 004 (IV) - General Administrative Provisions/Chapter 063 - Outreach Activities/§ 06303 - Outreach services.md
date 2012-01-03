@@ -2,7 +2,7 @@
 
 (a)
 
-Requirement To Provide Services.—In carrying out the purposes of this chapter, the Secretary shall provide the outreach services specified in subsections (b) through (d). In areas where a significant number of eligible veterans and eligible dependents speak a language other than English as their principal language, such services shall, to the maximum feasible extent, be provided in the principal language of such persons.
+Requirement To Provide Services.—In carrying out the purposes of this chapter, theSecretary shall provide the outreach services specified in subsections (b) through (d). In areas where a significant number of eligible veterans and eligible dependents speak a language other than English as their principal language, such services shall, to the maximum feasible extent, be provided in the principal language of such persons.
 
 (b)
 
@@ -78,9 +78,9 @@ Ongoing Outreach Program.—(1) The Secretary of Veterans Affairs shall conduct 
 
 &emsp;“(B) services and benefits available to such veterans with respect to such health risks.
 
-“(2) The Secretary of Veterans Affairs shall annually furnish updated information on health risks describedin paragraph (1)(A) to veterans referred to in paragraph (1).
+“(2) The Secretary of Veterans Affairs shall annually furnish updated information on health risks described in paragraph (1)(A) to veterans referred to in paragraph (1).
 
 “(b)
 
-Information in Agent Orange Registry.—The Secretary of Veterans Affairs shall take reasonable actions to organize and update the information contained in the Department of Veterans Affairs Agent Orange Registry in a manner that enables the Secretary promptly to notify a veteran of any increased health risk for such veteran resulting from exposure of such veteran to dioxin or any other toxic agent referred to in subsection (a) during Vietnam-era service in the Republic of Vietnam whenever the Secretary determines, on the basis of physical examination or other pertinent information, that such veteran is subject to such an increased health risk.”
+Information in Agent Orange Registry.—The Secretary of Veterans Affairs shall take reasonable actions to organize and update the information containedin the Department of Veterans Affairs Agent Orange Registry in a manner that enables the Secretary promptly to notify a veteran of any increased health risk for such veteran resulting from exposure of such veteran to dioxin or any other toxic agent referred to in subsection (a) during Vietnam-era service in the Republic of Vietnam whenever the Secretary determines, on the basis of physical examination or other pertinent information, that such veteran is subject to such an increased health risk.”
 

@@ -14,5 +14,5 @@ Each license shall be in such form and contain such terms and conditions as the 
 
 #### Amendments
 
-<b>1964</b>—Par. (a). Pub. L. 88–489 struck out par. (a) which placed title to all special nuclear material utilized orproduced by facilities pursuant to license in the United States at all times.
+<b>1964</b>—Par. (a). Pub. L. 88–489 struck out par. (a) which placed title to all special nuclear material utilized or produced by facilities pursuant to license in the United States at all times.
 

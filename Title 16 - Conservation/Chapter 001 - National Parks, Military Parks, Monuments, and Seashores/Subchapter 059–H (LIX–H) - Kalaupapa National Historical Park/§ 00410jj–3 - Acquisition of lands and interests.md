@@ -18,7 +18,7 @@ The Secretary is authorized to acquire by any of the foregoing methods except co
 
 Subsection (c) of section 460<i>l</i>–22, referred to in subsec. (a), was redesignated subsection (d) and a new subsection (c) was added by Pub. L. 98–506, §2, Oct. 19, 1984, 98 Stat. 2338.
 
-The Hawaiian Homes Commission Act of 1920, referred to in subsec. (a), probably means the HawaiianHomes Commission Act, 1920, act July 9, 1921, ch. 42, 42 Stat. 108, as amended, which was classified generally to sections 691 to 718 of Title 48, Territories and Insular Possessions, and was omitted from the Code.
+The Hawaiian Homes Commission Act of 1920, referred to in subsec. (a), probably means the Hawaiian Homes Commission Act, 1920, act July 9, 1921, ch. 42, 42 Stat. 108, as amended, which was classified generally to sections 691 to 718 of Title 48, Territories and Insular Possessions, and was omitted from the Code.
 
 #### Amendments
 

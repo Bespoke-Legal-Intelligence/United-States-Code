@@ -48,7 +48,7 @@
 
 &emsp;&emsp;(D) a single purpose agricultural or horticultural structure (as defined in section 168(i)(13)),
 
-&emsp;&emsp;(E) a storage facility (not including a building or its structural components) usedin connection with the distribution of petroleum or any primary product of petroleum, or
+&emsp;&emsp;(E) a storage facility (not including a building or its structural components) used in connection with the distribution of petroleum or any primary product of petroleum, or
 
 &emsp;&emsp;(F) any railroad grading or tunnel bore (as defined in section 168(e)(4)).
 
@@ -120,7 +120,7 @@ The Secretary shall prescribe such regulations as he may deem necessary to provi
 
 This section shall apply notwithstanding any other provision of this subtitle.
 
-(Added Pub. L. 87–834, §13(a)(1), Oct. 16, 1962, 76 Stat. 1032; amended Pub. L. 88–272, title II, §203(d), Feb. 26, 1964, 78 Stat. 35; Pub. L. 91–172, title II, §212(a)(1), (2), title VII, §704(b)(4), Dec. 30, 1969, 83 Stat. 571, 670; Pub. L. 92–178, title I, §104(a)(2), title III, §303(c)(1), (2), Dec. 10, 1971, 85 Stat. 501, 522; Pub. L. 94–81, §2(a), Aug. 9, 1975, 89 Stat. 417; Pub. L. 94–455, title II, §212(b)(1), title XIX, §§1901(a)(140), (b)(3)(K), (11)(D), 1906(b) (13)(A), 1951(c)(2)(C), title XXI, §§2122(b)(3), 2124(a)(2), Oct. 4, 1976, 90 Stat. 1546, 1787, 1793, 1795, 1834, 1840, 1915, 1917; Pub. L. 95–600, title VII, §701(f)(3)(A), (B), (w)(1), (2), Nov. 6, 1978, 92 Stat. 2901, 2920; Pub. L. 96–223, title II,§251(a)(2)(C), Apr. 2, 1980, 94 Stat. 287; Pub. L. 96–451, title III, §301(c)(1), Oct. 14, 1980, 94 Stat. 1990; Pub. L. 97–34, title II, §§201(b), 202(b), 204(a)–(d), 212(d)(2)(F), Aug. 13, 1981, 95 Stat. 218, 220, 222, 223, 239; Pub. L. 97–448, title I, §102(e)(2)(B), Jan. 12, 1983, 96 Stat. 2371; Pub. L. 98–369, div. A, title I, §111(e)(5), (10), July 18, 1984, 98 Stat. 633; Pub. L. 99–121, title I, §103(b)(1)(D), Oct. 11, 1985, 99 Stat. 509; Pub. L. 99–514, title II, §201(d)(11), Oct. 22, 1986, 100 Stat. 2141; Pub. L. 100–647, title I, §1002(i)(2)(I), Nov. 10, 1988, 102 Stat. 3371; Pub. L. 101–239, title VII, §7622(b)(2)\[(d)(2)\], Dec. 19, 1989, 103 Stat. 2378; Pub. L. 101–508, title XI, §§11704(a)(13), 11801(c)(6)(E), (8)(H), 11813(b)(21), Nov. 5, 1990, 104 Stat. 1388–518, 1388–524, 1388–555; Pub. L. 103–66, title XIII, §13261(f)(4), (5), Aug. 10, 1993, 107 Stat. 539; Pub. L. 104–7, §2(b), Apr. 11, 1995, 109 Stat. 93; Pub. L. 104–188, title I, §1703(n)(6), Aug. 20, 1996, 110 Stat. 1877; Pub. L. 105–34, title XVI, §1604(a)(3), Aug. 5, 1997, 111 Stat. 1097; Pub. L. 108–357, title III, §338(b)(5), title VIII, §886(b)(2), Oct. 22, 2004, 118 Stat. 1481, 1641; Pub. L. 109–58, title XIII, §§1323(b)(1), 1331(b)(2), 1363(a), Aug. 8, 2005, 119 Stat. 1014, 1024, 1060; Pub. L. 109–135, title IV, §§402(a)(6), 403(e)(2), (i)(2), Dec. 21, 2005, 119 Stat. 2610, 2623, 2625; Pub. L. 109–432, div. A, title IV, §404(b)(3), Dec. 20, 2006, 120 Stat. 2956.)
+(Added Pub. L. 87–834, §13(a)(1), Oct. 16, 1962, 76 Stat. 1032; amended Pub. L. 88–272, title II, §203(d), Feb. 26, 1964, 78 Stat. 35; Pub. L. 91–172, title II, §212(a)(1), (2), title VII, §704(b)(4), Dec. 30, 1969, 83 Stat. 571, 670; Pub. L. 92–178, title I, §104(a)(2), title III, §303(c)(1), (2), Dec. 10, 1971, 85 Stat. 501, 522; Pub. L. 94–81, §2(a), Aug. 9, 1975, 89 Stat. 417; Pub. L. 94–455, title II, §212(b)(1), title XIX, §§1901(a)(140), (b)(3)(K), (11)(D), 1906(b) (13)(A), 1951(c)(2)(C), title XXI, §§2122(b)(3), 2124(a)(2), Oct. 4, 1976, 90 Stat. 1546, 1787, 1793, 1795, 1834, 1840, 1915, 1917; Pub. L. 95–600, title VII, §701(f)(3)(A), (B), (w)(1), (2), Nov. 6, 1978, 92 Stat. 2901, 2920; Pub. L. 96–223, title II, §251(a)(2)(C), Apr. 2, 1980, 94 Stat. 287; Pub. L. 96–451, title III, §301(c)(1), Oct. 14, 1980, 94 Stat. 1990; Pub. L. 97–34, title II, §§201(b), 202(b), 204(a)–(d), 212(d)(2)(F), Aug. 13, 1981, 95 Stat. 218, 220, 222, 223, 239; Pub. L. 97–448, title I, §102(e)(2)(B), Jan. 12, 1983, 96 Stat. 2371; Pub. L. 98–369, div. A, title I, §111(e)(5), (10), July 18, 1984, 98 Stat. 633; Pub. L. 99–121, title I, §103(b)(1)(D), Oct. 11, 1985, 99 Stat. 509; Pub. L. 99–514, title II, §201(d)(11), Oct. 22, 1986, 100 Stat. 2141; Pub. L. 100–647, title I, §1002(i)(2)(I), Nov. 10, 1988, 102 Stat. 3371; Pub. L. 101–239, title VII, §7622(b)(2)\[(d)(2)\], Dec. 19, 1989, 103 Stat. 2378; Pub. L. 101–508, title XI, §§11704(a)(13), 11801(c)(6)(E), (8)(H), 11813(b)(21), Nov. 5, 1990, 104 Stat. 1388–518, 1388–524, 1388–555; Pub. L. 103–66, title XIII, §13261(f)(4), (5), Aug. 10, 1993, 107 Stat. 539; Pub. L. 104–7, §2(b), Apr. 11, 1995, 109 Stat. 93; Pub. L. 104–188, title I, §1703(n)(6), Aug. 20, 1996, 110 Stat. 1877; Pub. L. 105–34, title XVI, §1604(a)(3), Aug. 5, 1997, 111 Stat. 1097; Pub. L. 108–357, title III, §338(b)(5), title VIII, §886(b)(2), Oct. 22, 2004, 118 Stat. 1481, 1641; Pub. L. 109–58, title XIII, §§1323(b)(1), 1331(b)(2), 1363(a), Aug. 8, 2005, 119 Stat. 1014, 1024, 1060; Pub. L. 109–135, title IV, §§402(a)(6), 403(e)(2), (i)(2), Dec. 21, 2005, 119 Stat. 2610, 2623, 2625; Pub. L. 109–432, div. A, title IV, §404(b)(3), Dec. 20, 2006, 120 Stat. 2956.)
 
 #### References in Text
 
@@ -260,7 +260,7 @@ Amendment by Pub. L. 109–432 applicable to costs paid or incurred after Dec. 2
 
 #### Effective Date of 2005 Amendments
 
-Amendment by section 402(a)(6) of Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which it relates, but not applicable with respect to any transaction ordered in compliance with the Public Utility Holding Company Act of 1935 (15 U.S.C. 79 et seq.) before its repeal, see section 402(m) of Pub. L. 109–135, set out as an Effective and Termination Dates of 2005 Amendments note under section 36C of this title.
+Amendment by section 402(a)(6) of Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which it relates, but not applicable with respect to any transaction ordered in compliance with the Public Utility Holding Company Act of 1935 (15 U.S.C. 79 et seq.) before its repeal, see section 402(m) of Pub. L. 109–135, set out as an Effective and Termination Dates of 2005 Amendments note under section 23 of this title.
 
 Amendments by section 403(e)(2), (i)(2) of Pub. L. 109–135 effective as if included in the provisions of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which they relate, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
 
@@ -282,7 +282,7 @@ Amendment by Pub. L. 105–34 effective as if included in the amendments made by
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of 1993, Pub. L. 103–66, §§13001–13444, to which such amendment relates, see section 1703(<i>o</i>) of Pub. L. 104–188, set out as a note under section 39 of this title.
+Amendment by Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of1993, Pub. L. 103–66, §§13001–13444, to which such amendment relates, see section 1703(<i>o</i>) of Pub. L. 104–188, set out as a note under section 39 of this title.
 
 #### Effective Date of 1995 Amendment
 
@@ -294,7 +294,7 @@ Amendment by Pub. L. 103–66 applicable, except as otherwise provided, with res
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 11813(b)(21) of Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (asdefined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
+Amendment by section 11813(b)(21) of Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -374,7 +374,7 @@ Amendment by Pub. L. 88–272 applicable with respect to dispositions after Dec.
 
 #### Effective Date
 
-Section 13(g) of Pub. L. 87–834 provided that: “The amendments made by this section \[enacting this section and amending sections 167, 170, 301, 312, 341, 453, 613, and 751 of this title\] (other than the amendments made by subsection (c) \[amending sections 167, 179, and642 of this title\]) shall apply to taxable years beginning after December 31, 1962. The amendments made by subsection (c) shall apply to taxable years beginning after December 31, 1961, and ending after the date of the enactment of this Act \[Oct. 16, 1962\].”
+Section 13(g) of Pub. L. 87–834 provided that: “The amendments made by this section \[enacting this section and amending sections 167, 170, 301, 312, 341, 453, 613, and 751 of this title\] (other than the amendments made by subsection (c) \[amending sections 167, 179, and 642 of this title\]) shall apply to taxable years beginning after December 31, 1962. The amendments made by subsection (c) shall apply to taxable years beginning after December 31, 1961, and ending after the date of the enactment of this Act \[Oct. 16, 1962\].”
 
 #### Savings Provision
 

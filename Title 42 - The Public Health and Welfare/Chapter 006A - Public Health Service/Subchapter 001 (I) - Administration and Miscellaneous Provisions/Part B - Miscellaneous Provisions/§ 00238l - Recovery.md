@@ -12,7 +12,7 @@ If any facility with respect to which funds have been paid under the Community M
 
 #### (b) Notice of sale, transfer, or change
 
-The transferor and transferee of a facility that is sold or transferred as described in subsection\(a)(1) of this section, or the owner of a facility the use of which changes as described in subsection (a)(2) of this section, shall provide the Secretary written notice of such sale, transfer, or change within 10 days after the date on which such sale, transfer, or cessation of use occurs or within 30 days after October 22, 1985, whichever is later.
+The transferor and transferee of a facility that is sold or transferred as described in subsection (a)(1) of this section, or the owner of a facility the use of which changes as described in subsection (a)(2) of this section, shall provide the Secretary written notice of such sale, transfer, or change within 10 days after the date on which such sale, transfer, or cessation of use occurs or within 30 days after October 22, 1985, whichever is later.
 
 #### (c) Base amount; interest
 
@@ -64,7 +64,7 @@ Section was classified to section 300aaa–12 of this title prior to renumbering
 
 #### Effective Date of 1985 Amendment
 
-Pub. L. 99–129, title II, §226(b), Oct. 22, 1985, 99 Stat. 547, provided that: “In the case of any facility that was or is constructed, remodeled, expanded, or acquired on or before the date of enactment of this Act \[Oct. 22, 1985\] or within 180 days after the date of enactment of this Act, the period described in clause (i) or (ii), as the case may be, of section 2115(c)(2)(B) \[now 243(c)(2)(B)\] of the Public Health Service Act \[subsec. (c)(2)(B)(i), (ii)of this section\] (as amended by subsection (a) of this section) shall begin no earlier than 181 days after the date of enactment of this Act.”
+Pub. L. 99–129, title II, §226(b), Oct. 22, 1985, 99 Stat. 547, provided that: “In the case of any facility that was or is constructed, remodeled, expanded, or acquired on or before the date of enactment of this Act \[Oct. 22, 1985\] or within 180 days after the date of enactment of this Act, the period described in clause (i) or (ii), as the case may be, of section 2115(c)(2)(B) \[now 243(c)(2)(B)\] of the Public Health Service Act \[subsec. (c)(2)(B)(i), (ii) of this section\] (as amended by subsection (a) of this section) shall begin no earlier than 181 days after the date of enactment of this Act.”
 
 #### Effective Date of 1981 Amendment
 

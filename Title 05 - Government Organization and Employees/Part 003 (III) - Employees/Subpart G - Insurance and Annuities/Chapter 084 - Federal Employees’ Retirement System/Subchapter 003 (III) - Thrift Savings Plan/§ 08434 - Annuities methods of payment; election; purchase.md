@@ -38,7 +38,7 @@
 
 #### Amendments
 
-1994—Subsec. (b). Pub. L. 103–226, §9(i)(8), substituted “section 8435(b)” for “section 8435(c)”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–226, §9(i)(8), substituted “section 8435(b)” for “section 8435(c)”.
 
 Subsec. (c). Pub. L. 103–226, §9(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Notwithstanding an elimination of a method of payment by the Board—
 
@@ -46,13 +46,13 @@ Subsec. (c). Pub. L. 103–226, §9(c), amended subsec. (c) generally. Prior to 
 
 &emsp;“(2) any other employee, Member, former employee, or former Member may elect such method of payment for amounts contributed by or on behalf of the employee, Member, former employee, or former Member under section 8432 of this title before such effective date and for earnings attributable to such amounts.”
 
-1990—Subsec. (b). Pub. L. 101–335, §5(b)(1), substituted “an annuity contract is purchased to provide for that annuity,” for “the annuity commences,”.
+<b>1990</b>—Subsec. (b). Pub. L. 101–335, §5(b)(1), substituted “an annuity contract is purchased to provide for that annuity,” for “the annuity commences,”.
 
 Subsec. (d)(1). Pub. L. 101–335, §5(b)(2), substituted “Not earlier than 90 days (or such shorter period as the Executive Director may by regulation prescribe) before an annuity” for “At the time an annuity”.
 
 Subsec. (e). Pub. L. 101–335, §4(a), added subsec. (e).
 
-1988—Subsec. (a)(2)(C), (D). Pub. L. 100–238 amended subpars. (C) and (D) generally. Prior to amendment, subpars. (C) and (D) read as follows:
+<b>1988</b>—Subsec. (a)(2)(C), (D). Pub. L. 100–238 amended subpars. (C) and (D) generally. Prior to amendment, subpars. (C) and (D) read as follows:
 
 “(C) a method described in subparagraph (A) which provides annual increases in the amount of the annuity payable;
 

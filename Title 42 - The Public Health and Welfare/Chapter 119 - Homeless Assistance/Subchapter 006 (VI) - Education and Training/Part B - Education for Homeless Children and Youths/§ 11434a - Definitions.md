@@ -10,7 +10,7 @@ For purposes of this part:
 
 &emsp;&emsp;(B) includes—
 
-&emsp;&emsp;&emsp;(i) children and youths who are sharing the housing of other persons due to loss of housing, economic hardship, or a similar reason; are living in motels, hotels, trailer parks, or camping grounds due to the lack of alternative adequate accommodations; are living in emergency or transitional shelters; are abandoned in hospitals; or are awaiting foster care placement;
+&emsp;&emsp;&emsp;(i) children and youths who are sharing the housing of other persons due to loss of housing, economic hardship, or a similar reason; are living in motels, hotels, trailer parks, or camping grounds due to the lack of alternative adequate accommodations; are living in emergency or transitionalshelters; are abandoned in hospitals; or are awaiting foster care placement;
 
 &emsp;&emsp;&emsp;(ii) children and youths who have a primary nighttime residence that is a public or private place not designed for or ordinarily used as a regular sleeping accommodation for human beings (within the meaning of section 11302(a)(2)(C) <sup>1</sup> of this title);
 

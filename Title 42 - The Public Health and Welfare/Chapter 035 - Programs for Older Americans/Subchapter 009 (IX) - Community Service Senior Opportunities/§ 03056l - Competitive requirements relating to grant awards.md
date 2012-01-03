@@ -4,7 +4,7 @@
 
 #### (1) Initial approval of grant applications
 
-&emsp;From the funds available for national grants under section 3056d(d) of this title, the Secretary shall award grants under section 3056(b) of this title to eligible applicants, through a competitive process that emphasizes meeting performance requirements, to carry outprojects under this subchapter for a period of 4 years, except as provided in paragraph (2). The Secretary may not conduct a grant competition under this subchapter until the day described in section 3056k(e) of this title.
+&emsp;From the funds available for national grants under section 3056d(d) of this title, the Secretary shall award grants under section 3056(b) of this title to eligible applicants, through a competitive process that emphasizes meeting performance requirements, to carry out projects under this subchapter for a period of 4 years, except as provided in paragraph (2). The Secretary may not conduct a grant competition under this subchapter until the day described in section 3056k(e) of this title.
 
 #### (2) Continuation of approval based on performance
 
@@ -18,7 +18,7 @@ An applicant shall be eligible to receive a grant under section 3056(b) of this 
 
 For purposes of subsection (a)(1), the Secretary shall select the eligible applicants to receive grants based on the following:
 
-&emsp;(1) The applicant's ability to administer a project that serves the greatest number of eligible individuals, giving particular consideration to individuals with greatest economic need, individuals with greatest social need, and individuals described in subsection (a)(3)(B)(ii) or (b)(2) of section 3056p of this title.
+&emsp;(1) The applicant's ability to administer a project that serves the greatest number of eligible individuals, giving particular consideration to individuals with greatest economicneed, individuals with greatest social need, and individuals described in subsection (a)(3)(B)(ii) or (b)(2) of section 3056p of this title.
 
 &emsp;(2) The applicant's ability to administer a project that provides employment for eligible individuals in the communities in which such individuals reside, or in nearby communities, that will contribute to the general welfare of the communities involved.
 
@@ -80,7 +80,7 @@ For purposes of subsection (a)(1), the Secretary shall select the eligible appli
 
 &emsp;&emsp;(L) Failure to audit a subrecipient within the required period.
 
-&emsp;&emsp;(M) Final disallowed costs in excess of 5 percent of the grant or contract award if, inthe judgment of the grant officer, the disallowances are egregious.
+&emsp;&emsp;(M) Final disallowed costs in excess of 5 percent of the grant or contract award if, in the judgment of the grant officer, the disallowances are egregious.
 
 &emsp;&emsp;(N) Failure to establish a mechanism to resolve a subrecipient's audit in a timely fashion.
 
@@ -100,7 +100,7 @@ For purposes of subsection (a)(1), the Secretary shall select the eligible appli
 
 #### (2) Special consideration
 
-&emsp;In areas where a substantial population of individuals with barriers to employment exists, a grantee that receives a national grant in accordance with this section shall, in selecting subgrantees, give special consideration to organizations (including former recipients of such national grants) with demonstrated expertise in serving individuals with barriers to employment.
+&emsp;In areas where a substantial population of individuals with barriers to employment exists, a grantee that receives a national grantin accordance with this section shall, in selecting subgrantees, give special consideration to organizations (including former recipients of such national grants) with demonstrated expertise in serving individuals with barriers to employment.
 
 #### (f) Minority-serving grantees
 

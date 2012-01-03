@@ -34,11 +34,11 @@ Subsecs. (d) to (i). Pub. L. 96–242, §1(b)–(d), redesignated subsecs. (e) t
 
 #### Effective Date of 1980 Amendment
 
-Section 3 of Pub. L. 96–242 provided that: “The amendments made by this Act \[amending this sectionand section 68b of this title\] shall take effect with respect to wool products manufactured on or after the date sixty days after the date of enactment of this Act \[May 5, 1980\].”
+Pub. L. 96–242, §3, May 5, 1980, 94 Stat. 344, provided that: “The amendments made by this Act \[amending this section and section 68b of this title\] shall take effect with respect to wool products manufactured on or after the date sixty days after the date of enactment of this Act \[May 5, 1980\].”
 
 #### Effective Date
 
-Section 12 of act Oct. 14, 1940, provided that: “This Act \[this subchapter\] shall take effect nine months after the date of its passage.”
+Act Oct. 14, 1940, ch. 871, §12, 54 Stat. 1133, provided that: “This Act \[this subchapter\] shall take effect nine months after the date of its passage.”
 
 #### Short Title of 2006 Amendment
 
@@ -46,11 +46,11 @@ Pub. L. 109–428, §1, Dec. 20, 2006, 120 Stat. 2913, provided that: “This Ac
 
 #### Short Title
 
-Section 1 of act Oct. 14, 1940, provided that: “This Act \[this subchapter\] may be cited as the ‘Wool Products Labeling Act of 1939’.”
+Act Oct. 14, 1940, ch. 871, §1, 54 Stat. 1128, provided that: “This Act \[this subchapter\] may be cited as the ‘Wool Products Labeling Act of 1939’.”
 
 #### Separability
 
-Section 13 of act Oct. 14, 1940, provided that: “If any provision of this Act \[this subchapter\], or the application thereof to any person, partnership, corporation, or circumstance is held invalid, the remainder of the Act and the application of such provision to any other person, partnership, corporation, or circumstance shall not be affected thereby.”
+Act Oct. 14, 1940, ch. 871, §13, 54 Stat. 1133, provided that: “If any provision of this Act \[this subchapter\], or the application thereof to any person, partnership, corporation, or circumstance is held invalid, the remainder of the Act and the application of such provision to any other person, partnership, corporation, or circumstance shall not be affected thereby.”
 
 #### Transfer of Functions
 

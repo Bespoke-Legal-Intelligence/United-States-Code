@@ -56,7 +56,7 @@ Of the amount of funds authorized to be appropriated by subsection (a)(1)(A) of 
 
 #### References in Text
 
-The amendment made by paragraph (2), referred to in subsec. (a)(4), is the amendment made by section401(a)(2) of Pub. L. 99–399 to section 2349aa–4 of this title.
+The amendment made by paragraph (2), referred to in subsec. (a)(4), is the amendment made by section 401(a)(2) of Pub. L. 99–399 to section 2349aa–4 of this title.
 
 H.R. 4151 of the 99th Congress (the Omnibus Diplomatic Security and Antiterrorism Act of 1986), referred to in subsec. (a)(4), as enacted into law, is Pub. L. 99–399, Aug. 27, 1986, 100 Stat. 853. The Joint Explanatory Statement of the Committee of Conference to accompany H.R. 4151 is set forth in H. Rept. No. 99–783, 99th Congress.
 

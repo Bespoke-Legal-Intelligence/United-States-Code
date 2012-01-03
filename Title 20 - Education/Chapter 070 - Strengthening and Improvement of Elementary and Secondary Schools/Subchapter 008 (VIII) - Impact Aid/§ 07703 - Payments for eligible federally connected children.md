@@ -64,7 +64,7 @@
 
 &emsp;&emsp;(i)(I) Children described in paragraph (1)(D)(i) may be deemed to be children described in paragraph (1)(B) with respect to housing on Federal property undergoing renovation or rebuilding in accordance with subparagraph (A)(i) for a period not to exceed 3 fiscal years.
 
-&emsp;&emsp;(II) The number of children described in paragraph (1)(D)(i) who are deemed to be children described in paragraph (1)(B) with respect to housing on Federal property undergoing renovation or rebuilding in accordance with subparagraph (A)(i) for any fiscal year may not exceed the maximum number of children who are expected to occupy that housing upon completion of the renovation or rebuilding.
+&emsp;&emsp;(II) The number of children described in paragraph (1)(D)(i) who are deemed to be children described in paragraph (1)(B) with respect to housing on Federal property undergoing renovation or rebuilding in accordance with subparagraph (A)(i) for any fiscal year may not exceed the maximum number of children who are expected to occupy thathousing upon completion of the renovation or rebuilding.
 
 &emsp;&emsp;(ii)(I) Children that resided on Indian lands in accordance with paragraph (1)(C) for the fiscal year prior to the fiscal year for which the local educational agency is making an application may be deemed to be children described in paragraph (1)(C) with respect to housing on Indian lands undergoing renovation or rebuilding in accordance with subparagraph (A)(ii) for a period not to exceed 3 fiscal years.
 
@@ -74,7 +74,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of computing the amount of payment for a local educational agency forchildren identified under paragraph (1), the Secretary shall consider children residing in housing initially acquired or constructed under the former section 2828(g) of title 10 (commonly known as the “Build to Lease” program), as added by section 801 of the Military Construction Authorization Act, 1984, to be children described under paragraph (1)(B) if the property described is within the fenced security perimeter of the military facility upon which such housing is situated.
+&emsp;&emsp;For purposes of computing the amount of payment for a local educational agency for children identified under paragraph (1), the Secretary shall consider children residing in housing initially acquired or constructed under the former section 2828(g) of title 10 (commonly known as the “Build to Lease” program), as added by section 801 of the Military Construction Authorization Act, 1984, to be children described under paragraph (1)(B) if the property described is within the fenced security perimeter of the military facility upon which such housing is situated.
 
 #### (B) Additional requirements
 
@@ -118,11 +118,11 @@
 
 #### (E) Special rule
 
-&emsp;&emsp;For purposes of determining the comparable local contribution rate under subparagraph (C)(iii) for a local educational agency described in section 222.39(c)(3) of title 34, Code of Federal Regulations, that had its comparable local contribution rate for fiscal year 1998 calculated pursuant to section 222.39 of title 34, Code of Federal Regulations, the Secretary shall determine such comparable local contribution rate as the rate upon which payments under this subsection for fiscal year 2000 were made to the local educational agency adjusted by the percentage increase or decrease in the per pupil expenditure in the State serving the local educational agency calculated on the basis of the second most recent preceding school year compared to the third most recent preceding school year for which school year data are available.
+&emsp;&emsp;For purposes of determining the comparable local contribution rate under subparagraph (C)(iii) for a local educational agency described in section 222.39(c)(3) of title 34, Code of Federal Regulations, thathad its comparable local contribution rate for fiscal year 1998 calculated pursuant to section 222.39 of title 34, Code of Federal Regulations, the Secretary shall determine such comparable local contribution rate as the rate upon which payments under this subsection for fiscal year 2000 were made to the local educational agency adjusted by the percentage increase or decrease in the per pupil expenditure in the State serving the local educational agency calculated on the basis of the second most recent preceding school year compared to the third most recent preceding school year for which school year data are available.
 
 #### (F) Increase in local contribution rate due to unusual geographic factors
 
-&emsp;&emsp;If the current expenditures in those local educational agencies which the Secretary has determined to be generally comparable to the local educational agency for which a computation is made under subparagraph (C) are not reasonably comparable because of unusual geographical factors which affect the current expenditures necessary to maintain, in such agency, a level of education equivalent to that maintained in such other agencies, then the Secretary shall increase the local contribution rate for such agency under subparagraph (C)(iii) by such an amount which the Secretary determines will compensate such agency for the increase in current expenditures necessitated by such unusual geographical factors. The amount ofany such supplementary payment may not exceed the per-pupil share (computed with regard to all children in average daily attendance), as determined by the Secretary, of the increased current expenditures necessitated by such unusual geographic factors.
+&emsp;&emsp;If the current expenditures in those local educational agencies which the Secretary has determined to be generally comparable to the local educational agency for which a computation is made under subparagraph (C) are not reasonably comparable because of unusual geographical factors which affect the current expenditures necessary to maintain, in such agency, a level of education equivalent to that maintained in such other agencies, then the Secretary shall increase the local contribution rate for such agency under subparagraph (C)(iii) by such an amount which the Secretary determines will compensate such agency for the increase in current expenditures necessitated by such unusual geographical factors. The amount of any such supplementary payment may not exceed the per-pupil share (computed with regard to all children in average daily attendance), as determined by the Secretary, of the increased current expenditures necessitated by such unusual geographic factors.
 
 &emsp;&emsp;(G) Beginning with fiscal year 2002, for the purpose of calculating a payment under this paragraph for a local educational agency whose local contribution rate was computed under subparagraph (C)(iii) for the previous year, the Secretary shall use a local contribution rate that is not less than 95 percent of the rate that the LEA received for the preceding year.
 
@@ -158,7 +158,7 @@
 
 #### (iii) Resumption of eligibility
 
-&emsp;&emsp;&emsp;A heavily impacted local educational agency described in clause (i) that becomes ineligible under such clause for 1 or more fiscal years may resume eligibility for a basic support payment under this paragraph for a subsequent fiscal year only if the agency meets the requirements of clause (i) for that subsequent fiscal year, except that such agency shall not receive a basic support payment under this paragraph until the fiscal year succeeding the fiscal year for which the eligibility determination is made.
+&emsp;&emsp;&emsp;A heavily impacted local educational agency described in clause (i) that becomes ineligible under such clause for 1 or morefiscal years may resume eligibility for a basic support payment under this paragraph for a subsequent fiscal year only if the agency meets the requirements of clause (i) for that subsequent fiscal year, except that such agency shall not receive a basic support payment under this paragraph until the fiscal year succeeding the fiscal year for which the eligibility determination is made.
 
 #### (C) Eligibility for new heavily impacted local educational agencies
 
@@ -206,7 +206,7 @@
 
 &emsp;&emsp;(ii)(I) For a local educational agency with respect to which 35 percent or more of the total student enrollment of the schools of the agency are children described in subparagraph (D) or (E) (or a combination thereof) of subsection (a)(1) of this section, the Secretary shall calculate the weighted student units of such children for purposes of subsection (a)(2) of this section by multiplying the number of such children by a factor of 0.55.
 
-&emsp;&emsp;(II) For a local educational agency that has an enrollment of 100 or fewer children described in subsection (a)(1) of this section, the Secretary shall calculate the total number of weighted student units for purposes of subsection (a)(2) of this section by multiplying the number of such children by a factor of 1.75.
+&emsp;&emsp;(II) For a local educational agency that has an enrollment of 100 or fewer childrendescribed in subsection (a)(1) of this section, the Secretary shall calculate the total number of weighted student units for purposes of subsection (a)(2) of this section by multiplying the number of such children by a factor of 1.75.
 
 &emsp;&emsp;(III) For a local educational agency that does not qualify under (B)(i)(II)(aa) <sup>1</sup> of this subsection and has an enrollment of more than 100 but not more than 1,000 children described in subsection (a)(1) of this section, the Secretary shall calculate the total number of weighted student units for purposes of subsection (a)(2) of this section by multiplying the number of such children by a factor of 1.25.
 
@@ -256,7 +256,7 @@
 
 #### (B) Learning opportunity threshold payments in lieu of payments under paragraph (1)
 
-&emsp;&emsp;(i) For fiscal years described in subparagraph (A), the Secretary shall compute a learning opportunity threshold payment (hereafter in this subchapter referred to as the “threshold payment”) in lieu of basic support payments under paragraph (1) by multiplying the amount obtained under paragraph (1)(C) by the total percentage obtained by adding—
+&emsp;&emsp;(i) For fiscal years described in subparagraph (A), the Secretary shall compute a learning opportunity threshold payment (hereafter in this subchapter referred to as the “threshold payment”) in lieu of basic support payments under paragraph (1) by multiplying the amount obtained underparagraph (1)(C) by the total percentage obtained by adding—
 
 &emsp;&emsp;&emsp;(I) the percentage of federally connected children for each local educational agency determined by calculating the fraction, the numerator of which is the total number of children described under subsection (a)(1) of this section and the denominator of which is the total number of children in average daily attendance at the schools served by such agency; and
 
@@ -322,7 +322,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in subsections (b)(1)(D), (b)(2), and paragraph (2), all calculations under this section shall be based on data for each local educational agency from not later thanthe fiscal year preceding the fiscal year for which the agency is making application for payment.
+&emsp;Except as provided in subsections (b)(1)(D), (b)(2), and paragraph (2), all calculations under this section shall be based on data for each local educational agency from not later than the fiscal year preceding the fiscal year for which the agency is making application for payment.
 
 #### (2) Exception
 
@@ -374,7 +374,7 @@ Notwithstanding any other provision of law, a local educational agency receiving
 
 A local educational agency may receive funds under subsection (b) of this section and section 7702 of this title for any fiscal year only if the State educational agency finds that either the combined fiscal effort per student or the aggregate expenditures of that agency and the State with respect to the provision of free public education by that agency for the preceding fiscal year was not less than 90 percent of such combined fiscal effort or aggregate expenditures for the second preceding fiscal year.
 
-(Pub. L. 89–10, title VIII, §8003, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3752; amended Pub. L. 104–106, div. A, title X, §1074(f), (g), Feb. 10, 1996, 110 Stat. 448, 449; Pub. L. 104–195, §§3(a), 4(a), 5(a), (b), Sept. 16, 1996, 110 Stat. 2380–2382; Pub. L. 104–201, div. A, title III, §376, Sept. 23, 1996, 110 Stat. 2503; Pub. L. 104–208, div. A, title I, §101(e) \[title III, §307(a)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–262; Pub. L. 105–18, title VI, §60005(a), June 12, 1997, 111 Stat. 214; Pub. L. 105–78, title III, Nov. 13, 1997, 111 Stat. 1497; Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §§1804(a), (b)(1), (c), 1805–1808(b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–372, 1654A–374 to 1654A–382; Pub. L. 106–554, §1(a)(1) \[title III, §323\], Dec. 21, 2000, 114 Stat. 2763, 2763A–61; Pub. L. 107–20, title II, §2703(a), July 24, 2001, 115 Stat. 182; Pub. L. 107–110, title VIII, §802(a)(1), Jan. 8, 2002, 115 Stat. 1949; Pub. L. 107–206, title I, §§801, 802, Aug. 2, 2002, 116 Stat. 874; Pub. L. 107–279, title IV, §406(a), Nov. 5, 2002, 116 Stat. 1986; Pub. L. 107–314, div. A, title III, §344, Dec. 2, 2002, 116 Stat. 2515; Pub. L. 108–136, div. A, title V, §537(a), Nov. 24, 2003, 117 Stat. 1475; Pub. L. 111–84, div. A, title V, §536, Oct. 28, 2009, 123 Stat. 2293.)
+(Pub. L. 89–10, title VIII, §8003, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3752; amended Pub. L. 104–106, div. A, title X, §1074(f), (g), Feb. 10, 1996, 110 Stat. 448, 449; Pub. L. 104–195, §§3(a), 4(a), 5(a), (b), Sept. 16, 1996, 110 Stat. 2380–2382; Pub. L. 104–201, div. A, title III, §376, Sept. 23, 1996, 110 Stat. 2503; Pub. L. 104–208, div. A, title I, §101(e) \[title III, §307(a)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–262; Pub. L. 105–18, title VI, §60005(a), June 12, 1997, 111 Stat. 214; Pub. L. 105–78, title III, Nov. 13, 1997, 111 Stat. 1497; Pub. L. 106–398, §1 \[\[div. A\], title XVIII,§§1804(a), (b)(1), (c), 1805–1808(b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–372, 1654A–374 to 1654A–382; Pub. L. 106–554, §1(a)(1) \[title III, §323\], Dec. 21, 2000, 114 Stat. 2763, 2763A–61; Pub. L. 107–20, title II, §2703(a), July 24, 2001, 115 Stat. 182; Pub. L. 107–110, title VIII, §802(a)(1), Jan. 8, 2002, 115 Stat. 1949; Pub. L. 107–206, title I, §§801, 802, Aug. 2, 2002, 116 Stat. 874; Pub. L. 107–279, title IV, §406(a), Nov. 5, 2002, 116 Stat. 1986; Pub. L. 107–314, div. A, title III, §344, Dec. 2, 2002, 116 Stat. 2515; Pub. L. 108–136, div. A, title V, §537(a), Nov. 24, 2003, 117 Stat. 1475; Pub. L. 111–84, div. A, title V, §536, Oct. 28, 2009, 123 Stat. 2293.)
 
 #### References in Text
 
@@ -382,7 +382,7 @@ Section 2828(g) of title 10 (commonly known as the “Build to Lease” program)
 
 Act of September 30, 1950, referred to in subsec. (b)(1)(C)(iii), is act Sept. 30, 1950, ch. 1124, 64 Stat. 1100, as amended, which was classified generally to chapter 13 (§236 et seq.) of this title, prior to repeal by Pub. L. 103–382, title III, §331(b), Oct. 20, 1994, 108 Stat. 3965. For complete classification of this Act to the Code, see Tables.
 
-The Individuals with Disabilities Education Act, referred to in subsec. (d), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classifiedgenerally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (d), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
 Section 386 of the National Defense Authorization Act for Fiscal Year 1993, referred to in subsec. (f), is section 386 of Pub. L. 102–484, which is set out as a note below.
 
@@ -468,7 +468,7 @@ Subsec. (b)(5). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1807\], adde
 
 Subsec. (c)(1). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1806(c)(3)\], substituted “subsections (b)(1)(D), (b)(2), and paragraph (2)” for “paragraph (2) and subsection (f) of this section”.
 
-Subsec. (e). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1804(a)(3)\], amended heading and text of subsec. (e) generally. Prior to amendment, subsec. (e) required theSecretary to pay local education agencies under subsec. (b) of this section certain minimum amounts for fiscal years 1995 to 1999.
+Subsec. (e). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1804(a)(3)\], amended heading and text of subsec. (e) generally. Prior to amendment, subsec. (e) required the Secretary to pay local education agencies under subsec. (b) of this section certain minimum amounts for fiscal years 1995 to 1999.
 
 Subsec. (f). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §§1806(c)(4), 1808(b)(1)\], redesignated subsec. (h) as (f) and struck out heading and text of former subsec. (f) which required the Secretary to provide additional assistance to meet special circumstances relating to the provision of education in local educational agencies eligible to receive assistance under this section.
 
@@ -534,7 +534,7 @@ Pub. L. 108–136, div. A, title V, §537(b), Nov. 24, 2003, 117 Stat. 1475, pro
 
 Pub. L. 107–279, title IV, §406(b), Nov. 5, 2002, 116 Stat. 1987, provided that: “The amendment made by section 406(a) \[amending this section\] shall be effective on September 30, 2001, and shall apply with respect to fiscal year 2001, and all subsequent fiscal years.”
 
-Amendment by Pub. L. 107–110 effective Jan. 8, 2002, and effective with respect to appropriations for useunder this subchapter for fiscal year 2002, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of this title.
+Amendment by Pub. L. 107–110 effective Jan. 8, 2002, and effective with respect to appropriations for use under this subchapter for fiscal year 2002, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of this title.
 
 #### Effective Date of 2000 Amendment
 

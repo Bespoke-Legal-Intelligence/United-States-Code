@@ -1,6 +1,0 @@
-### §4506. Reporting requirements
-
-The Secretary of State shall prepare and submit to the President and the Congress at the end of each fiscal year in which an institution receives assistance under this chapter a report of the activities of such institution supported by such assistance, if the administrative expenses of such institution which are covered by such assistance represent more than 10 per centum of such assistance, together with such recommendations as the Advisory Committee deems advisable.
-
-(Pub. L. 98–164, title VIII, §807, Nov. 22, 1983, 97 Stat. 1050.)
-

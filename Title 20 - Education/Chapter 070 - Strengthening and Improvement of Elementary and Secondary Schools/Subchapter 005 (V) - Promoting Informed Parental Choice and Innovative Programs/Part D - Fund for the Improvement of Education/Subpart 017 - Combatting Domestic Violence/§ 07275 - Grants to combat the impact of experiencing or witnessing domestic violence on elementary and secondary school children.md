@@ -58,7 +58,7 @@ In this section:
 
 #### (3) Policy dissemination
 
-&emsp;The Secretary shall disseminate to local educational agencies any Department policy guidance regarding the prevention of domestic violence and the impact on children of experiencing or witnessing domestic violence.
+&emsp;The Secretary shall disseminate to local educational agencies any Department policyguidance regarding the prevention of domestic violence and the impact on children of experiencing or witnessing domestic violence.
 
 #### (c) Uses of funds
 

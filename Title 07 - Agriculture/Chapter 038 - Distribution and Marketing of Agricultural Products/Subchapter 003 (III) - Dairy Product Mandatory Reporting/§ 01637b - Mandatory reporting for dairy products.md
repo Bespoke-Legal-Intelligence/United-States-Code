@@ -116,7 +116,7 @@ The Secretary shall establish a program of mandatory dairy product information r
 
 #### (2) Publication
 
-&emsp;Not later than 3:00 p.m. Eastern Time on the Wednesday of each week, the Secretary shall publish a report containing the information obtained under this section for the preceding week.
+&emsp;Not later than 3:00 p.m. Eastern Time on the Wednesday of each week, the Secretary shallpublish a report containing the information obtained under this section for the preceding week.
 
 #### (e) Authorization of appropriations
 
@@ -130,7 +130,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2010—Subsec. (d). Pub. L. 111–239 amended subsec. (d) generally. Prior to amendment, text read as follows:
+<b>2010</b>—Subsec. (d). Pub. L. 111–239 amended subsec. (d) generally. Prior to amendment, text read as follows:
 
 “(1)
 
@@ -144,7 +144,7 @@ Frequency of reports.—After the establishment of the electronic reporting syst
 
 Authorization of appropriations.—There are authorized to be appropriated such sums as are necessary to carry out this subsection.”
 
-2008—Subsec. (c)(3). Pub. L. 110–246, §1510(b), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “The Secretary shall take such actions as the Secretary considers necessary to verify the accuracy of the information submitted or reported under this subchapter.”
+<b>2008</b>—Subsec. (c)(3). Pub. L. 110–246, §1510(b), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “The Secretary shall take such actions as the Secretary considers necessary to verify the accuracy of the information submitted or reported under this subchapter.”
 
 Subsecs. (d), (e). Pub. L. 110–246, §1510(a), added subsec. (d) and redesignated former subsec. (d) as (e).
 

@@ -102,7 +102,7 @@ The Administration may establish a Premier Certified Lenders Program for certifi
 
 #### (i) Ordinary rule inapplicable
 
-&emsp;&emsp;&emsp;Paragraph (6) shall not apply with respect to any qualified high loss reserve PCL for any calendar quarter for which an election is in effect under subparagraph (A).
+&emsp;&emsp;&emsp;Paragraph (6) shall not apply with respect to any qualified high loss reservePCL for any calendar quarter for which an election is in effect under subparagraph (A).
 
 #### (ii) Excess funds
 
@@ -270,7 +270,7 @@ Not later than 1 year after October 22, 1994, and annually thereafter, the Admin
 
 May 28, 2004, referred to in subsec. (c)(8)(C), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 108–232, which enacted subsec. (c)(8), to reflect the probable intent of Congress.
 
-October 22, 1994, referred to in subsec. (j), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 103–403, which enacted this section, to reflect the probable intent of Congress.
+October 22, 1994, referred to in subsec. (j), was in the original “the date of enactment of this Act”, which wastranslated as meaning the date of enactment of Pub. L. 103–403, which enacted this section, to reflect the probable intent of Congress.
 
 #### Amendments
 

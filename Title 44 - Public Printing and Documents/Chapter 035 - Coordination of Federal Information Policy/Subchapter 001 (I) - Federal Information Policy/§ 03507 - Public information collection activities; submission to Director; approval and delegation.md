@@ -66,7 +66,7 @@
 
 &emsp;(B) from disapproving any collection of information contained in an agency rule, if the agency failed to comply with the requirements of paragraph (1) of this subsection;
 
-&emsp;(C) from disapproving any collection of information contained in a final agency rule, if the Director finds within 60 days after the publication of the final rule that the agency's response to the Director's comments filed underparagraph (2) of this subsection was unreasonable; or
+&emsp;(C) from disapproving any collection of information contained in a final agency rule, if the Director finds within 60 days after the publication of the final rule that the agency's response to the Director's comments filed under paragraph (2) of this subsection was unreasonable; or
 
 &emsp;(D) from disapproving any collection of information contained in a final rule, if—
 
@@ -138,7 +138,7 @@
 
 #### Prior Provisions
 
-A prior section 3507, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 2819; amended Pub. L. 99–500, §101(m) \[title VIII, §817\], Oct. 18, 1986, 100 Stat. 1783–308, 1783–338, and Pub. L. 99–591, §101(m) \[title VIII, §817\], Oct. 30, 1986, 100 Stat. 3341–308, 3341–338, related to submission to Director of public information collection request for an approval or delegation to a senior official of an agency prior to the general amendment of this chapter by Pub. L. 104–13.
+A prior section 3507, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 2819; amended Pub. L. 99–500, §101(m) \[title VIII, §817\], Oct. 18, 1986, 100 Stat. 1783–308, 1783–338, and Pub. L. 99–591, §101(m) \[title VIII, §817\], Oct. 30, 1986, 100 Stat. 3341–308, 3341–338, related to submission to Director of public information collection request for an approval or delegation to a senior officialof an agency prior to the general amendment of this chapter by Pub. L. 104–13.
 
 Another prior section 3507, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1304, provided for cooperation of agencies in making information available, prior to the general amendment of this chapter by Pub. L. 96–511. See section 3510(a) of this title.
 

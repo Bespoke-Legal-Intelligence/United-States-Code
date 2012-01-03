@@ -24,7 +24,7 @@ For purposes of this chapter—
 
 &emsp;&emsp;(A) any trust with respect to which a deduction is allowed to the decedent under section 2056 by reason of subsection (b)(7) thereof, and
 
-&emsp;&emsp;(B) any trust with respect to which a deduction to the donor spouse is allowed under section 2523 by reason of subsection (f) thereof,
+&emsp;&emsp;(B) any trust with respect to which a deduction to the donor spouse is allowed undersection 2523 by reason of subsection (f) thereof,
 
 > &emsp;the estate of the decedent or the donor spouse, as the case may be, may elect to treat all of the property in such trust for purposes of this chapter as if the election to be treated as qualified terminable interest property had not been made.
 
@@ -76,7 +76,7 @@ For purposes of this chapter—
 
 For purposes of this chapter, the term “executor” has the meaning given such term by section 2203.
 
-(Added Pub. L. 99–514, title XIV, §1431(a), Oct. 22, 1986, 100 Stat. 2726; amended Pub. L. 100–647, title I, §1014(g)(6), (8), (9), (14), (20), Nov. 10, 1988, 102 Stat. 3565–3567; Pub. L. 105–34, title XIII, §1305(b),Aug. 5, 1997, 111 Stat. 1040; Pub. L. 105–206, title VI, §6013(a)(3), (4)(A), July 22, 1998, 112 Stat. 819.)
+(Added Pub. L. 99–514, title XIV, §1431(a), Oct. 22, 1986, 100 Stat. 2726; amended Pub. L. 100–647, title I, §1014(g)(6), (8), (9), (14), (20), Nov. 10, 1988, 102 Stat. 3565–3567; Pub. L. 105–34, title XIII, §1305(b), Aug. 5, 1997, 111 Stat. 1040; Pub. L. 105–206, title VI, §6013(a)(3), (4)(A), July 22, 1998, 112 Stat. 819.)
 
 #### Amendments
 

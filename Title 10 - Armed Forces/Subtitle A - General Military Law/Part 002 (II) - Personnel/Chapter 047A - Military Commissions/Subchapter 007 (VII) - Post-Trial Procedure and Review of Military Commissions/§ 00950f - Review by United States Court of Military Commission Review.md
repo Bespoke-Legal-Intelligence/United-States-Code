@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment.—There is a court of record to be known as the “United States Court of Military Commission Review” (in this section referred to as the “Court”). The Court shall consist of one or more panels, each composed of not less than three appellate military judges. For the purpose of reviewing decisions of military commissions under this chapter, the Court may sit in panels or as a whole, in accordance with rules prescribed by the Secretary of Defense.
+Establishment.—There is a court of record to be known as the “United States Court of Military Commission Review” (in this section referred to as the “Court”). The Court shall consist of one or more panels, each composed of not less than three judges on the Court. For the purpose of reviewing decisions of military commissions under this chapter, the Court may sit in panels or as a whole, in accordance with rules prescribed by the Secretary of Defense.
 
 (b)
 
@@ -26,9 +26,13 @@ Standard and Scope of Review.—In a case reviewed by the Court under this secti
 
 Rehearings.—If the Court sets aside the findings or sentence, the Court may, except where the setting aside is based on lack of sufficient evidence in the record to support the findings, order a rehearing. If the Court sets aside the findings or sentence and does not order a rehearing, the Court shall order that the charges be dismissed.
 
-(Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2603.)
+(Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2603; amended Pub. L. 112–81, div. A, title X, §1034(c), Dec. 31, 2011, 125 Stat. 1573.)
 
 #### Prior Provisions
 
 A prior section 950f, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2621; amended Pub. L. 110–181, div. A, title X, §1063(a)(6), Jan. 28, 2008, 122 Stat. 322, related to review by Court of Military Commission Review, prior to the general amendment of this chapter by Pub. L. 111–84.
+
+#### Amendments
+
+<b>2011</b>—Subsec. (a). Pub. L. 112–81 substituted “judges on the Court” for “appellate military judges” in second sentence.
 

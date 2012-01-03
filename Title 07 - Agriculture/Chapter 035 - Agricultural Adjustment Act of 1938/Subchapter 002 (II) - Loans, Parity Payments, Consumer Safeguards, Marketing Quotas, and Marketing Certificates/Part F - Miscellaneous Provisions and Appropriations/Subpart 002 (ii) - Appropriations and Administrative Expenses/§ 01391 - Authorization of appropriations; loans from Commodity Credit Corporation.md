@@ -10,7 +10,7 @@
 
 #### Amendments
 
-1940—Subsec. (c). Act July 2, 1940, added subsec. (c).
+<b>1940</b>—Subsec. (c). Act July 2, 1940, added subsec. (c).
 
 #### Transfer of Functions
 

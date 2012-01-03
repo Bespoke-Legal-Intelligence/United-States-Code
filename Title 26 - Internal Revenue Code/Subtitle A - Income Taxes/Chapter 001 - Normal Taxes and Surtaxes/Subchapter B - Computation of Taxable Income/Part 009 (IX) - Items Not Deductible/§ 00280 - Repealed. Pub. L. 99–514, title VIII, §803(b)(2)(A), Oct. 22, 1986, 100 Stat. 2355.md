@@ -1,6 +1,6 @@
 ### \[§280. Repealed. Pub. L. 99–514, title VIII, §803(b)(2)(A), Oct. 22, 1986, 100 Stat. 2355\]
 
-Section, added Pub. L. 94–455, title II, §210(a), Oct. 4, 1976, 90 Stat. 1544; amended Pub. L. 95–600, title VII, §701(m)(2), Nov. 6, 1978, 92 Stat. 2907; Pub. L. 97–354, §5(a)(25), Oct. 19, 1982, 96 Stat. 1694, related to certainexpenditures incurred in the production of films, books, records, or similar property.
+Section, added Pub. L. 94–455, title II, §210(a), Oct. 4, 1976, 90 Stat. 1544; amended Pub. L. 95–600, title VII, §701(m)(2), Nov. 6, 1978, 92 Stat. 2907; Pub. L. 97–354, §5(a)(25), Oct. 19, 1982, 96 Stat. 1694, related to certain expenditures incurred in the production of films, books, records, or similar property.
 
 #### Effective Date of Repeal
 

@@ -34,7 +34,7 @@ Governance.—The Secretary of each military department shall establish a system
 
 (d)
 
-Central Fund.—The Secretary of each military department shall establish a single fund as the source of funding for the operation, maintenance, and improvement of all FisherHouses and Fisher Suites of the nonappropriated fund instrumentality required by subsection (b) for that military department.
+Central Fund.—The Secretary of each military department shall establish a single fund as the source of funding for the operation, maintenance, and improvement of all Fisher Houses and Fisher Suites of the nonappropriated fund instrumentality required by subsection (b) for that military department.
 
 (e)
 
@@ -50,23 +50,11 @@ Acceptance of Contributions; Imposition of Fees.—(1) The Secretary of a milita
 
 Base Operating Support.—The Secretary of a military department may provide base operating support for Fisher Houses associated with health care facilities of that military department.
 
-(g)
-
-Annual Report.—Not later than January 15 of each year, the Secretary of each military department shall submit to Congress a report describing the operation of Fisher Houses and Fisher Suites associated with health care facilities of that military department. The report shall include, at a minimum, the following:
-
-&emsp;(1) The amount in the fund established by that Secretary under subsection (d) as of October 1 of the previous year.
-
-&emsp;(2) The operation of the fund during the preceding fiscal year, including—
-
-&emsp;&emsp;(A) all gifts, fees, and interest credited to the fund; and
-
-&emsp;&emsp;(B) all disbursements from the fund.
-
-&emsp;(3) The budget for the operation of the Fisher Houses and Fisher Suites for the fiscal year in which the report is submitted.
-
-(Added Pub. L. 105–261, div. A, title IX, §906(a)(1), Oct. 17, 1998, 112 Stat. 2093; amended Pub. L. 106–398, §1 \[\[div. A\], title IX, §914(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–230; Pub. L. 107–314, div. A, title III, §321, Dec. 2, 2002, 116 Stat. 2510.)
+(Added Pub. L. 105–261, div. A, title IX, §906(a)(1), Oct. 17, 1998, 112 Stat. 2093; amended Pub. L. 106–398, §1 \[\[div. A\], title IX, §914(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–230; Pub. L. 107–314, div. A, title III, §321, Dec. 2, 2002, 116 Stat. 2510; Pub. L. 112–81, div. A, title X, §1061(17), Dec. 31, 2011, 125 Stat. 1584.)
 
 #### Amendments
+
+<b>2011</b>—Subsec. (g). Pub. L. 112–81 struck out subsec. (g), which required submission of annual report describing the operation of Fisher Houses and Fisher Suites associated with military department health care facilities.
 
 <b>2002</b>—Subsec. (f). Pub. L. 107–314 amended heading and text of subsec. (f) generally. Prior to amendment text read as follows: “The Secretary of the Navy shall provide base operating support for Fisher Houses associated with health care facilities of the Navy. The level of the support shall be equivalent to the base operating support that the Secretary provides for morale, welfare, and recreation category B community activities (as defined in regulations, prescribed by the Secretary, that govern morale, welfare, and recreation activities associated with Navy installations).”
 
@@ -112,7 +100,7 @@ Funding Transition.—(1) Of the amount authorized to be appropriated pursuant t
 
 “(d)
 
-Reporting Requirements.—The Secretary of each military department, upon completing the actions required of the Secretary under subsections (b) and (c), shall submit to Congress a report containing—
+Reporting Requirements.—The Secretary of each military department, upon completing the actionsrequired of the Secretary under subsections (b) and (c), shall submit to Congress a report containing—
 
 &emsp;“(1) the certification of that Secretary that those actions have been completed; and
 

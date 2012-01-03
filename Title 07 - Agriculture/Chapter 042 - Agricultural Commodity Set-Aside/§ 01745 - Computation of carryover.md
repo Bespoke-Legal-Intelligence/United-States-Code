@@ -14,5 +14,5 @@ The Agricultural Adjustment Act of 1938, referred to in text, is act Feb. 16, 19
 
 #### Amendments
 
-1979—Pub. L. 96–41 substituted “the National Defense Stockpile established by the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98 et seq.)” for “the national stockpile established pursuant to the act of June 7, 1939, as amended”.
+<b>1979</b>—Pub. L. 96–41 substituted “the National Defense Stockpile established by the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98 et seq.)” for “the national stockpile established pursuant to the act of June 7, 1939, as amended”.
 

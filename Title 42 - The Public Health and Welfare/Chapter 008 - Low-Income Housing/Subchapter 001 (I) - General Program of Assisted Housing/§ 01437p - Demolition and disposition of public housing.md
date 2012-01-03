@@ -104,7 +104,7 @@ The Secretary shall disapprove an application submitted under subsection (a) of 
 
 #### (B) Opportunity to arrange purchase
 
-&emsp;&emsp;If an entity expresses written interest in purchasing a property, as provided in subparagraph (A), no disposition of the property shall occur during the 60-day period beginning on the date of receipt of that written notice (other than to the entity providing the notice), during which time that entity shall be given the opportunity to obtain a firm commitment for financing the purchase of the property.
+&emsp;&emsp;If an entity expresses written interest in purchasing a property, as provided in subparagraph (A), no disposition of the property shall occur during the 60-day period beginning on the date of receipt of that written notice (other than to the entity providingthe notice), during which time that entity shall be given the opportunity to obtain a firm commitment for financing the purchase of the property.
 
 #### (d) Replacement units
 
@@ -160,7 +160,7 @@ Subsecs. (f), (g). Pub. L. 104–19, §1002(a)(8), (9), added subsec. (f) and re
 
 Subsec. (b)(1). Pub. L. 102–550, §116(a), inserted “of the project or portion of the project covered by the application” after “tenant cooperative”.
 
-Subsec. (b)(3). Pub. L. 102–550, §116(b)(5), inserted at end “except that, in any 5-year period, a public housing agency may demolish not more than the lesser of 5dwelling units or 5 percent of the total dwelling units owned and operated by the public housing agency, without providing an additional dwelling unit for each such public housing dwelling unit to be demolished, but only if the space occupied by the demolished unit is used for meeting the service or other needs of public housing residents.”
+Subsec. (b)(3). Pub. L. 102–550, §116(b)(5), inserted at end “except that, in any 5-year period, a public housing agency may demolish not more than the lesser of 5 dwelling units or 5 percent of the total dwelling units owned and operated by the public housing agency, without providing an additional dwelling unit for each such public housing dwelling unit to be demolished, but only if the space occupied by the demolished unit is used for meeting the service or other needs of public housing residents.”
 
 Subsec. (b)(3)(A)(ii). Pub. L. 102–550, §116(b)(1)(A), inserted before semicolon at end “to the extent available; or if such assistance is not available, in the case of an application proposing demolition or disposition of 200 or more units, the use of available project-based assistance under section 1437f of this title having a term of not less than 5 years”.
 

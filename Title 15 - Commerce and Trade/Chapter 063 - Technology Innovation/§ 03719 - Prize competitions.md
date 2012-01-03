@@ -148,7 +148,7 @@ The head of an agency may enter into an agreement with a private, nonprofit enti
 
 #### (A) Announcement
 
-&emsp;&emsp;No prize may be announced under subsection (f) until all the funds needed to payout the announced amount of the prize have been appropriated or committed in writing by a private source.
+&emsp;&emsp;No prize may be announced under subsection (f) until all the funds needed to pay out the announced amount of the prize have been appropriated or committed in writing by a private source.
 
 #### (B) Increase in amount
 
@@ -162,7 +162,7 @@ The head of an agency may enter into an agreement with a private, nonprofit enti
 
 #### (A) Notice to Congress
 
-&emsp;&emsp;No prize competition under this section may offer a prize in an amount greater than $50,000,000 unless 30 days have elapsed after written notice has been transmitted to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science and Technology of the House of Representatives.
+&emsp;&emsp;No prize competition under this section may offer a prize in an amount greater than $50,000,000 unless 30 days have elapsed after written notice has been transmitted to the Committee on Commerce, Science, andTransportation of the Senate and the Committee on Science and Technology of the House of Representatives.
 
 #### (B) Approval of head of agency
 
@@ -221,6 +221,10 @@ Not later than 180 days after January 4, 2011, the General Services Administrati
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (k)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Change of Name
+
+Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Services”.</i>
 

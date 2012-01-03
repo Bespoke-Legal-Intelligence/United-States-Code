@@ -30,7 +30,7 @@ Another prior section 2341 and prior sections 2341a to 2341c were omitted in the
 
 Section 2341, Pub. L. 88–210, title II, §231, as added Pub. L. 101–392, title II, §201, Sept. 25, 1990, 104 Stat. 779; amended Pub. L. 103–382, title III, §391(s)(4), (5), Oct. 20, 1994, 108 Stat. 4025; Pub. L. 104–193, title I, §110(i)(1), Aug. 22, 1996, 110 Stat. 2172, related to distribution of funds to secondary school programs. See section 2351 of this title.
 
-Another prior section 2341, Pub. L. 88–210, title II, §251, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2455; amended Pub. L. 100–418, title VI, §6132, Aug. 23, 1988, 102 Stat. 1511, related to the uses of the portion of a State's allotment available for vocational education program improvement, innovation, and expansion, prior to the general amendment of former subchapter II of this chapter by Pub. L. 101–392.
+Another prior section 2341, Pub. L. 88–210, title II, §251, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat.2455; amended Pub. L. 100–418, title VI, §6132, Aug. 23, 1988, 102 Stat. 1511, related to the uses of the portion of a State's allotment available for vocational education program improvement, innovation, and expansion, prior to the general amendment of former subchapter II of this chapter by Pub. L. 101–392.
 
 Section 2341a, Pub. L. 88–210, title II, §232, as added Pub. L. 101–392, title II, §201, Sept. 25, 1990, 104 Stat. 781; amended Pub. L. 103–208, §4, Dec. 20, 1993, 107 Stat. 2487; Pub. L. 103–382, title III, §351(a)(1), Oct. 20, 1994, 108 Stat. 3966; Pub. L. 104–193, title I, §110(i)(2), Aug. 22, 1996, 110 Stat. 2172, related to distribution of funds to postsecondary and adult programs. See section 2352 of this title.
 

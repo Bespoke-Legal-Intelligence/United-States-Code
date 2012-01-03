@@ -64,7 +64,7 @@ Jan. 3, 1975, Pub. L. 93–633, §105(a)(1)–(3), 88 Stat. 2157; restated Nov. 
 
 In subsection (a), the words “such quantity and form of material” and “in his discretion” are omitted as surplus.
 
-In subsection (b)(1), before clause (A), the words “in accordance with section 553 of title 5” are omitted because 5:553 applies unless otherwise stated. In clause (A)(i), the words “hazardous material in commerce”, and in clause (A)(ii), the words “hazardous material . . . in commerce”, are added for consistency in this chapter.
+In subsection (b)(1), before clause (A), the words “in accordance with section 553 of title 5” are omitted because 5:553 applies unless otherwise stated. In clause (A)(i), the words “hazardous material in commerce”,and in clause (A)(ii), the words “hazardous material . . . in commerce”, are added for consistency in this chapter.
 
 #### Pub. L. 103–429
 
@@ -152,7 +152,7 @@ In General.—In the administration of chapter 51 of title 49, United States Cod
 
 “(b)
 
-Expiration.—The regulation referred to in subsection (a) shall expire on the later of September 30, 1997, or the date on which funds are authorized to be appropriated to carry out chapter 51 of title 49, United States Code (relating to transportation of hazardous materials), for fiscal years beginning after September 30, 1997.
+Expiration.—The regulation referred to in subsection (a) shall expire on the later of September 30, 1997, or the date on which funds are authorized to be appropriated to carry out chapter 51 of title 49, United States Code (relating to transportation of hazardousmaterials), for fiscal years beginning after September 30, 1997.
 
 “(c)
 
@@ -172,7 +172,7 @@ Completion.—The study shall be completed before March 1, 1997 and shall be tra
 
 “(d)
 
-Secretarial Action.—By September 30, 1997, the Secretary shall issue final regulations to determine what standards should apply to fiber drum packaging with a removable head for transportation of liquid hazardous materials (with respect to those liquid hazardous materials transported by such drums pursuant toregulations in effect on September 30, 1991) after September 30, 1997. In issuing such regulations, the Secretary shall give full and substantial consideration to the results of the study conducted in subsection (c).”
+Secretarial Action.—By September 30, 1997, the Secretary shall issue final regulations to determine what standards should apply to fiber drum packaging with a removable head for transportation of liquid hazardous materials (with respect to those liquid hazardous materials transported by such drums pursuant to regulations in effect on September 30, 1991) after September 30, 1997. In issuing such regulations, the Secretary shall give full and substantial consideration to the results of the study conducted in subsection (c).”
 
 Section 122 of Pub. L. 103–311 provided that:
 

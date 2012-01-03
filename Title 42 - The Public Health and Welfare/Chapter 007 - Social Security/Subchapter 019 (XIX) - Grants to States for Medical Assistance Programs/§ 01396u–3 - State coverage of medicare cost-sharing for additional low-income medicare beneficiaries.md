@@ -68,7 +68,7 @@ Except as specifically provided under this section, nothing in this subchapter s
 
 #### (f) Coverage of costs through part B of medicare program
 
-For each fiscal year, the Secretary shall provide for the transfer from the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title to the appropriate account in the Treasury that provides for payments under section 1396b(a) of this title with respect to medical assistance provided under this section, of an amount equivalent to the total of the amount of payments made under such section that is attributable to this sectionand such transfer shall be treated as an expenditure from such Trust Fund for purposes of section 1395r of this title.
+For each fiscal year, the Secretary shall provide for the transfer from the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title to the appropriate account in the Treasury that provides for payments under section 1396b(a) of this title with respect to medical assistance provided under this section, of an amount equivalent to the total of the amount of payments made under such section that is attributable to this section and such transfer shall be treated as an expenditure from such Trust Fund for purposes of section 1395r of this title.
 
 #### (g) Special rules
 
@@ -112,9 +112,11 @@ For each fiscal year, the Secretary shall provide for the transfer from the Fede
 
 &emsp;&emsp;(N) for the period that begins on October 1, 2010, and ends on December 31, 2010, the total allocation amount is $165,000,000;
 
-&emsp;&emsp;(O) for the period that begins on January 1, 2011, and ends on September 30, 2011, the total allocation amount is $720,000,000; and
+&emsp;&emsp;(O) for the period that begins on January 1, 2011, and ends on September 30, 2011, the total allocation amount is $720,000,000;
 
-&emsp;&emsp;(P) for the period that begins on October 1, 2011, and ends on December 31, 2011, the total allocation amount is $280,000,000.
+&emsp;&emsp;(P) for the period that begins on October 1, 2011, and ends on December 31, 2011, the total allocation amount is $280,000,000; and
+
+&emsp;&emsp;(Q) for the period that begins on January 1, 2012, and ends on February 29, 2012, the total allocation amount is $150,000,000.
 
 #### (3) Rules for periods that begin after January 1
 
@@ -126,13 +128,15 @@ For each fiscal year, the Secretary shall provide for the transfer from the Fede
 
 &emsp;&emsp;(C) The ratio to be applied under subsection (c)(2) of this section for the specific period shall be the same as the ratio applied under such subsection for the immediately preceding period.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1933, as added Pub. L. 105–33, title IV, §4732(c), Aug. 5, 1997, 111 Stat. 520; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(x)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398; Pub. L. 108–89, title IV, §401(b), (c), Oct. 1, 2003, 117 Stat. 1134; Pub. L. 108–173, title I, §103(f)(2), Dec. 8, 2003, 117 Stat. 2160; Pub. L. 108–448, §1(b), Dec. 8, 2004, 118 Stat. 3467; Pub. L. 109–91, title I, §101(b), Oct. 20, 2005, 119 Stat. 2091; Pub. L. 110–90, §3(b), Sept. 29, 2007, 121 Stat. 984; Pub. L. 110–173, title II, §203(b), Dec. 29, 2007, 121 Stat. 2513; Pub. L. 110–275, title I, §111(b), July 15, 2008, 122 Stat. 2503; Pub. L. 110–379, §2, Oct. 8, 2008, 122 Stat. 4075; Pub. L. 111–5, div. B, title V, §5005(b), Feb. 17, 2009, 123 Stat. 505; Pub. L. 111–127, §3, Jan. 27, 2010, 124 Stat. 4; Pub. L. 111–309, title I, §110(b), Dec. 15, 2010, 124 Stat. 3288.)
+(Aug. 14, 1935, ch. 531, title XIX, §1933, as added Pub. L. 105–33, title IV, §4732(c), Aug. 5, 1997, 111 Stat. 520; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(x)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398; Pub. L. 108–89, title IV, §401(b), (c), Oct. 1, 2003, 117 Stat. 1134; Pub. L. 108–173, title I, §103(f)(2), Dec. 8, 2003, 117 Stat. 2160; Pub. L. 108–448, §1(b), Dec. 8, 2004, 118 Stat. 3467; Pub. L. 109–91, title I, §101(b), Oct. 20, 2005,119 Stat. 2091; Pub. L. 110–90, §3(b), Sept. 29, 2007, 121 Stat. 984; Pub. L. 110–173, title II, §203(b), Dec. 29, 2007, 121 Stat. 2513; Pub. L. 110–275, title I, §111(b), July 15, 2008, 122 Stat. 2503; Pub. L. 110–379, §2, Oct. 8, 2008, 122 Stat. 4075; Pub. L. 111–5, div. B, title V, §5005(b), Feb. 17, 2009, 123 Stat. 505; Pub. L. 111–127, §3, Jan. 27, 2010, 124 Stat. 4; Pub. L. 111–309, title I, §110(b), Dec. 15, 2010, 124 Stat. 3288; Pub. L. 112–78, title III, §310(b), Dec. 23, 2011, 125 Stat. 1286.)
 
 #### Prior Provisions
 
 A prior section 1933 of act Aug. 14, 1935, was renumbered section 1939 and is classified to section 1396v of this title.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (g)(2)(Q). Pub. L. 112–78 added subpar. (Q).
 
 <b>2010</b>—Subsec. (g)(2)(M). Pub. L. 111–127, §3(1), substituted “$462,500,000” for “$412,500,000”.
 

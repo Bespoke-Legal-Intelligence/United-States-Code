@@ -28,7 +28,7 @@ In order to receive formula grants under this part, a State shall submit a plan 
 
 &emsp;&emsp;&emsp;&emsp;(VI) youth workers involved with programs that are alternatives to incarceration, including programs providing organized recreation activities;
 
-&emsp;&emsp;&emsp;&emsp;(VII) persons with special experience and competence in addressing problems related to school violence and vandalism and alternatives to suspension and expulsion; and
+&emsp;&emsp;&emsp;&emsp;(VII) persons with special experience and competence in addressing problemsrelated to school violence and vandalism and alternatives to suspension and expulsion; and
 
 &emsp;&emsp;&emsp;&emsp;(VIII) persons with special experience and competence in addressing problems related to learning disabilities, emotional difficulties, child abuse and neglect, and youth violence;
 
@@ -146,7 +146,7 @@ In order to receive formula grants under this part, a State shall submit a plan 
 
 &emsp;&emsp;&emsp;(ii) assist in the provision by the provision <sup>4</sup> by the Administrator of information and technical assistance, including technology transfer, to States in the design and utilization of risk assessment mechanisms to aid juvenile justice personnel in determining appropriate sanctions for delinquent behavior;
 
-&emsp;&emsp;(M) community-based programs and services to work with juveniles, their parents, and other family members during and afterincarceration in order to strengthen families so that such juveniles may be retained in their homes;
+&emsp;&emsp;(M) community-based programs and services to work with juveniles, their parents, and other family members during and after incarceration in order to strengthen families so that such juveniles may be retained in their homes;
 
 &emsp;&emsp;(N) programs (including referral to literacy programs and social service programs) to assist families with limited English-speaking ability that include delinquent juveniles to overcome language and other barriers that may prevent the complete treatment of such juveniles and the preservation of their families;
 
@@ -272,7 +272,7 @@ In order to receive formula grants under this part, a State shall submit a plan 
 
 &emsp;(26) provide that the State, to the maximum extent practicable, will implement a system to ensure that if a juvenile is before a court in the juvenile justice system, public child welfare records (including child protective services records) relating to such juvenile that are on file in the geographical area under the jurisdiction of such court will be made known to such court;
 
-&emsp;(27) establish policies and systems to incorporate relevant child protective servicesrecords into juvenile justice records for purposes of establishing and implementing treatment plans for juvenile offenders; and
+&emsp;(27) establish policies and systems to incorporate relevant child protective services records into juvenile justice records for purposes of establishing and implementing treatment plans for juvenile offenders; and
 
 &emsp;(28) provide assurances that juvenile offenders whose placement is funded through section 672 of this title receive the protections specified in section 671 of this title, including a case plan and case plan review as defined in section 675 of this title.
 
@@ -592,7 +592,7 @@ Subsec. (a)(1). Pub. L. 98–473, §626(a)(1), substituted “agency described i
 
 Subsec. (a)(2). Pub. L. 98–473, §626(a)(2), struck out “(hereafter referred to in this part as the ‘State criminal justice council’)” before “has or will have authority”.
 
-Subsec. (a)(3)(C). Pub. L. 98–473, §626(a)(3)(A), in amending subpar. (C) generally, designated provisions following “representatives of private organizations” as cl. (i) and inserted “, including those with a special focus on maintaining and strengthening the family unit”, designated provisions following “which utilize” as cl. (ii) and inserted “representatives of organizations which”, added cl. (iii), designated provisions following “business groups” as cl. (iv), designated the remainder of subpar. (C) as cl. (v) and substituted “family, school violence and vandalism, and learning disabilities,” for “school violence and vandalism and the problem of learning disabilities; and organizations which represent employees affected by this chapter,”.
+Subsec. (a)(3)(C). Pub. L. 98–473, §626(a)(3)(A), in amending subpar. (C) generally, designated provisions following “representatives of private organizations” as cl. (i) and inserted “, including those with a specialfocus on maintaining and strengthening the family unit”, designated provisions following “which utilize” as cl. (ii) and inserted “representatives of organizations which”, added cl. (iii), designated provisions following “business groups” as cl. (iv), designated the remainder of subpar. (C) as cl. (v) and substituted “family, school violence and vandalism, and learning disabilities,” for “school violence and vandalism and the problem of learning disabilities; and organizations which represent employees affected by this chapter,”.
 
 Subsec. (a)(3)(F). Pub. L. 98–473, §626(a)(3)(B)(i), substituted “agency designated under paragraph (1)” for “criminal justice council” in three places.
 
@@ -604,7 +604,7 @@ Subsec. (a)(9). Pub. L. 98–473, §626(a)(4), inserted “special education,”
 
 Subsec. (a)(10). Pub. L. 98–473, §626(a)(5)(A), in provisions preceding subpar. (A), substituted “programs for juveniles, including those processed in the criminal justice system,” for “programs for juveniles” and “provide for effective rehabilitation, and facilitate the coordination of services between the juvenile justice and criminal justice systems” for “and provide for effective rehabilitation”.
 
-Subsec. (a)(10)(E). Pub. L. 98–473, §626(a)(5)(B), inserted “, including programs to counsel delinquentyouth and other youth regarding the opportunities which education provides”.
+Subsec. (a)(10)(E). Pub. L. 98–473, §626(a)(5)(B), inserted “, including programs to counsel delinquent youth and other youth regarding the opportunities which education provides”.
 
 Subsec. (a)(10)(F). Pub. L. 98–473, §626(a)(5)(C), inserted “and their families”.
 
@@ -658,7 +658,7 @@ Subsec. (a)(3)(F). Pub. L. 96–509, §§11(a)(5), (6), 19(g)(4), substituted in
 
 Subsec. (a)(8). Pub. L. 96–509, §11(a)(7), provided that State juvenile justice plan requirements conform to State criminal justice application requirements and required a State concentration of effort to coordinate State juvenile delinquency programs and policy.
 
-Subsec. (a)(10). Pub. L. 96–509, §11(a)(8)(A)–(C), in provisions preceding subpar. (A), clarified that the advanced techniques described in this paragraph are to be used to provide community-based alternatives to “secure” juvenile detention and correctional facilities and that advanced techniques can be used for the purpose of providing programs for juveniles who have committed serious crimes, particularly programs designed to improve sentencing procedures, provide resources necessary for informed dispositions, and provide for effective rehabilitation.
+Subsec. (a)(10). Pub. L. 96–509, §11(a)(8)(A)–(C), in provisions preceding subpar. (A), clarified that the advanced techniques described in this paragraph are to be used to provide community-based alternatives to “secure” juvenile detention and correctional facilities and that advanced techniques can be used for the purpose of providing programs for juveniles who have committedserious crimes, particularly programs designed to improve sentencing procedures, provide resources necessary for informed dispositions, and provide for effective rehabilitation.
 
 Subsec. (a)(10)(A). Pub. L. 96–509, §11(a)(9), inserted provisions for inclusion of education and special education programs among community-based programs and services.
 

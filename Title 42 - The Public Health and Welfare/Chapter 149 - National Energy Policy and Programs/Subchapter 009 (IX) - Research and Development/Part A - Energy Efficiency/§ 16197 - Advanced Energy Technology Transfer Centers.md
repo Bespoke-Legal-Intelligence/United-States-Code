@@ -116,7 +116,7 @@ For purposes of this section:
 
 #### (i) Authorization of appropriations
 
-In addition to amounts otherwise authorized to be appropriated in section 16191 of this title, there are authorized to be appropriated for theprogram under this section such sums as may be appropriated.
+In addition to amounts otherwise authorized to be appropriated in section 16191 of this title, there are authorized to be appropriated for the program under this section such sums as may be appropriated.
 
 (Pub. L. 109–58, title IX, §917, Aug. 8, 2005, 119 Stat. 863; Pub. L. 110–229, title VI, §601, May 8, 2008, 122 Stat. 850.)
 

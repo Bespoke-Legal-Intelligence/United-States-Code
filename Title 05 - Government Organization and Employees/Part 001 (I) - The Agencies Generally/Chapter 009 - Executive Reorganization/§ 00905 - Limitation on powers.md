@@ -72,25 +72,25 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1984—Subsec. (a)(1). Pub. L. 98–614, §5(a)(1), inserted “or renaming an existing executive department”.
+<b>1984</b>—Subsec. (a)(1). Pub. L. 98–614, §5(a)(1), inserted “or renaming an existing executive department”.
 
 Subsec. (a)(5) to (7). Pub. L. 98–614, §5(a)(2), added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively.
 
 Subsec. (b). Pub. L. 98–614, §2(a), substituted “(in accordance with section 903(b)) on or before December 31, 1984” for “within four years of the date of enactment of the Reorganization Act of 1977”.
 
-1980—Subsec. (b). Pub. L. 96–230 substituted “four years” for “three years”.
+<b>1980</b>—Subsec. (b). Pub. L. 96–230 substituted “four years” for “three years”.
 
-1977—Subsec. (a)(1). Pub. L. 95–17 substituted “an executive department or independent regulatory agency,” for “an Executive department” and “or more executive departments or two or more independent regulatory agencies,” for “or more Executive departments”.
+<b>1977</b>—Subsec. (a)(1). Pub. L. 95–17 substituted “an executive department or independent regulatory agency,” for “an Executive department” and “or more executive departments or two or more independent regulatory agencies,” for “or more Executive departments”.
 
 Subsec. (a)(6), (7). Pub. L. 95–17 redesignated par. (7) as (6). Former par. (6), which related to limitation on reorganization plans that have effect of transferring to or consolidating with another agency the government of the District of Columbia or all the functions thereof which are subject to this chapter, or abolishing that government or all those functions, was struck out.
 
 Subsec. (b). Pub. L. 95–17 substituted “within three years of the date of enactment of the Reorganization Act of 1977” for “before April 1, 1973”.
 
-1971—Subsec. (a)(7). Pub. L. 92–179, §4(a), added par. (7).
+<b>1971</b>—Subsec. (a)(7). Pub. L. 92–179, §4(a), added par. (7).
 
 Subsec. (b). Pub. L. 92–179, §4(b), substituted “April 1, 1973” for “April 1, 1971”.
 
-1969—Subsec. (b). Pub. L. 91–5 substituted “April 1, 1971” for “December 31, 1968”.
+<b>1969</b>—Subsec. (b). Pub. L. 91–5 substituted “April 1, 1971” for “December 31, 1968”.
 
 #### Plan for Transportation Department Reorganization
 

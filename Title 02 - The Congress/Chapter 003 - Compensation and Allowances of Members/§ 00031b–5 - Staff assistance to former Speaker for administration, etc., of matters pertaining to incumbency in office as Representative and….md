@@ -24,15 +24,15 @@ As originally enacted into permanent law, section applied to Speaker of House of
 
 #### Amendments
 
-2007—Pub. L. 110–161 substituted “step 7 of level 11” for “step 1 of level 6”.
+<b>2007</b>—Pub. L. 110–161 substituted “step 7 of level 11” for “step 1 of level 6”.
 
-2004—Pub. L. 108–447 substituted “step 11 of level 13” for “step 5 of level 11” and “step 8 of level 12” for “step 9 of level 8”.
+<b>2004</b>—Pub. L. 108–447 substituted “step 11 of level 13” for “step 5 of level 11” and “step 8 of level 12” for “step 9 of level 8”.
 
-1996—Pub. L. 104–186 substituted “for payment of” for “to enable the Clerk of the House to pay”.
+<b>1996</b>—Pub. L. 104–186 substituted “for payment of” for “to enable the Clerk of the House to pay”.
 
-1985—Pub. L. 99–151 substituted “not to exceed the then current rate for step 5 of level 11 of the House Employees Schedule” for “not to exceed $3,000” the first place it appeared, “not to exceed the then current rate for step 9 of level 8 of such Schedule” for “not to exceed $3,000” the second place it appeared, and “not to exceed the then current rate for step 1 of level 6 of such Schedule” for “not to exceed $9,000”.
+<b>1985</b>—Pub. L. 99–151 substituted “not to exceed the then current rate for step 5 of level 11 of the House Employees Schedule” for “not to exceed $3,000” the first place it appeared, “not to exceed the then current rate for step 9 of level 8 of such Schedule” for “not to exceed $3,000” the second place it appeared, and “not to exceed the then current rate for step 1 of level 6 of such Schedule” for “not to exceed $9,000”.
 
-1977—Pub. L. 95–94 inserted reference to an additional Secretary paid at a gross per annum of not to exceed $9,000 as determined by the Speaker and struck out “as Administrative Assistant or Secretary” after “Each person so designated and appointed”.
+<b>1977</b>—Pub. L. 95–94 inserted reference to an additional Secretary paid at a gross per annum of not to exceed $9,000 as determined by the Speaker and struck out “as Administrative Assistant or Secretary” after “Each person so designated and appointed”.
 
 #### Effective Date of 1977 Amendment
 

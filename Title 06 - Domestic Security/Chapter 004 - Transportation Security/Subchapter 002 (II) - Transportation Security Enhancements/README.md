@@ -1,11 +1,5 @@
 ### SUBCHAPTER II—TRANSPORTATION SECURITY ENHANCEMENTS
 
-<i><sup>1</sup></i><i> So in original. Probably should be “intercity rail passenger”.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be followed by a comma.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be section “1992(d)(16)”.</i>
-
 
 ---
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Payments received from an obligor under an open end consumer credit plan by the creditor shall be posted promptly to the obligor's account as specified in regulations of the Board. Such regulations shall prevent a finance charge from being imposed on any obligor if the creditor has received the obligor's payment in readily identifiable form, by 5:00 p.m. on the date on which such payment is due, in the amount, manner, and location indicated by the creditor to avoid the imposition thereof.
+Payments received from an obligor under an open end consumer credit plan by the creditor shall be posted promptly to the obligor's account as specified in regulations of the Bureau. Such regulations shall prevent a finance charge from being imposed on any obligor if the creditor has received the obligor's payment in readily identifiable form, by 5:00 p.m. on the date on which such payment is due, in the amount, manner, and location indicated by the creditor to avoid the imposition thereof.
 
 #### (b) Application of payments
 
@@ -16,17 +16,17 @@ Payments received from an obligor under an open end consumer credit plan by the 
 
 #### (c) Changes by card issuer
 
-If a card issuer makes a material change in the mailing address, office, or procedures forhandling cardholder payments, and such change causes a material delay in the crediting of a cardholder payment made during the 60-day period following the date on which such change took effect, the card issuer may not impose any late fee or finance charge for a late payment on the credit card account to which such payment was credited.
+If a card issuer makes a material change in the mailing address, office, or procedures for handling cardholder payments, and such change causes a material delay in the crediting of a cardholder payment made during the 60-day period following the date on which such change took effect, the card issuer may not impose any late fee or finance charge for a late payment on the credit card account to which such payment was credited.
 
 (Pub. L. 90–321, title I, §164, as added Pub. L. 93–495, title III, §306, Oct. 28, 1974, 88 Stat. 1514; amended Pub. L. 111–24, title I, §104, May 22, 2009, 123 Stat. 1741; Pub. L. 111–203, title X, §§1087, 1100A(2), July 21, 2010, 124 Stat. 2086, 2107.)
 
-#### Amendment of Section
+#### Codification
 
-<i>Pub. L. 111–203, title X, §§1100A(2), 1100H, July 21, 2010, 124 Stat. 2107, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Board” each place that term appears and inserting “Bureau”. See Effective Date of 2010 Amendment note below.</i>
-
-<i>Pub. L. 111–203, title X, §§1087, 1100H, July 21, 2010, 124 Stat. 2086, 2113, provided that, effective on the designated transfer date, the Fair Credit Billing Act (title III of Pub. L. 93–495) is amended by striking “Board” each place that term appears and inserting “Bureau”. See Effective Date of 2010 Amendment note below.</i>
+Pub L. 111–203, §1100A(2), which directed the substitution of “Bureau” for “Board” wherever appearing in title I of Pub. L. 90–321, was executed to this section, which is section 164 of title I of Pub. L. 90–321. Section 1087 of Pub. L. 111–203, which directed the making of an identical amendment in title III of Pub. L. 93–495, which added this section to title I of Pub. L. 90–321, has not been executed.
 
 #### Amendments
+
+<b>2010</b>—Subsec. (a). Pub. L. 111–203, §1100A(2), substituted “Bureau” for “Board”. See Codification note above.
 
 <b>2009</b>—Pub. L. 111–24, §104(1), substituted “Prompt and fair crediting of payments” for “Prompt crediting of payments” in section catchline, designated existing provisions as subsec. (a), and inserted subsec. (a) heading.
 

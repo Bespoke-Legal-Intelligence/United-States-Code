@@ -46,7 +46,7 @@ For purposes of this subchapter—
 
 &emsp;(18) the term “State” means any State, or political subdivision, or agency thereof;
 
-&emsp;(19) the term “usable activated channels” means activated channels of a cable system,except those channels whose use for the distribution of broadcast signals would conflict with technical and safety regulations as determined by the Commission; and
+&emsp;(19) the term “usable activated channels” means activated channels of a cable system, except those channels whose use for the distribution of broadcast signals would conflict with technical and safety regulations as determined by the Commission; and
 
 &emsp;(20) the term “video programming” means programming provided by, or generally considered comparable to programming provided by, a television broadcast station.
 

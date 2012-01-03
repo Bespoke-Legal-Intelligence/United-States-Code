@@ -1,6 +1,6 @@
 ### §303. Secretary of Veterans Affairs
 
-There is a Secretary of Veterans Affairs, who is the head of the Department and is appointed by the President, by and with the advice andconsent of the Senate. The Secretary is responsible for the proper execution and administration of all laws administered by the Department and for the control, direction, and management of the Department.
+There is a Secretary of Veterans Affairs, who is the head of the Department and is appointed by the President, by and with the advice and consent of the Senate. The Secretary is responsible for the proper execution and administration of all laws administered by the Department and for the control, direction, and management of the Department.
 
 (Added Pub. L. 102–83, §2(a), Aug. 6, 1991, 105 Stat. 379.)
 
@@ -80,7 +80,7 @@ Budget Information.—In the documentation providing detailed information on the
 
 “(b)
 
-Report on Feasibility.—If the Secretary of Veterans Affairs or the Secretary of Labor determines that, with respect to any services or benefits referred to in subsection (a), it is not feasible to identify an estimated dollar amount to be obligated for furnishing such services or benefits only to veterans described in that subsection for any fiscal year, the Secretary of Veterans Affairs and the Secretary of Labor shall, with respect to an appropriation request for such fiscal year relating to such services or benefits, report to the Committees on Veterans’ Affairs of the Senate and the House of Representatives the reasons for the infeasibility. The report shall be submitted contemporaneously with the budget submission for such fiscal year. The report shall specify (1) the information, systems, equipment, or personnel that would be required in order for it to be feasible for the Secretary of Veterans Affairs orthe Secretary of Labor to identify such amount, and (2) the actions to be taken in order to ensure that it will be feasible to make such an estimate in connection with the submission of the budget request for the next fiscal year.”
+Report on Feasibility.—If the Secretary of Veterans Affairs or the Secretary of Labor determines that, with respect to any services or benefits referred to in subsection (a), it is not feasible to identify an estimated dollar amount to be obligated for furnishing such services or benefits only to veterans described in that subsection for any fiscal year, the Secretary of Veterans Affairs and the Secretary of Labor shall, with respect to an appropriation request for such fiscal year relating to such services or benefits, report to the Committees on Veterans’ Affairs of the Senate and the House of Representatives the reasons for the infeasibility. The report shall be submitted contemporaneously with the budget submission for such fiscal year. The report shall specify (1) the information, systems, equipment, or personnel that would be required in order for it to be feasible for the Secretary of Veterans Affairs or the Secretary of Labor to identify such amount, and (2) the actions to be taken in order to ensure that it will be feasible to make such an estimate in connection with the submission of the budget request for the next fiscal year.”
 
 #### Information and Training Concerning AIDS Prevention
 

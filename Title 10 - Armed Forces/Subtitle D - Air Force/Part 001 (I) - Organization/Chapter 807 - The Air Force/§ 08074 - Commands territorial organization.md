@@ -4,7 +4,7 @@
 
 (b) For Air Force purposes, the United States, its possessions, and other places in which the Air Force is stationed or is operating, may be divided into such areas as directed by the Secretary. Officers of the Air Force may be assigned to command Air Force activities, installations, and personnel in those areas. In the discharge of the Air Force's functions or other functions authorized by law, officers so assigned have the duties and powers prescribed by the Secretary.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 495; Pub. L. 85–599, §4(f), Aug. 6, 1958, 72 Stat. 517; Pub. L.89–37, title III, §306(a), June 11, 1965, 79 Stat. 129; Pub. L. 99–433, title V, §523, Oct. 1, 1986, 100 Stat. 1063; Pub. L. 107–107, div. A, title IX, §931(b), Dec. 28, 2001, 115 Stat. 1200; Pub. L. 109–163, div. A, title X, §1057(a)(2), Jan. 6, 2006, 119 Stat. 3440.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 495; Pub. L. 85–599, §4(f), Aug. 6, 1958, 72 Stat. 517; Pub. L. 89–37, title III, §306(a), June 11, 1965, 79 Stat. 129; Pub. L. 99–433, title V, §523, Oct. 1, 1986, 100 Stat. 1063; Pub. L. 107–107, div. A, title IX, §931(b), Dec. 28, 2001, 115 Stat. 1200; Pub. L. 109–163, div. A, title X, §1057(a)(2), Jan. 6, 2006, 119 Stat. 3440.)
 
 Historical and Revision Notes
 

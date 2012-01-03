@@ -6,7 +6,7 @@
 
 &emsp;(2) at any time for less than fully successful executive performance as determined under subchapter II of chapter 43 of this title,
 
-> except that in the case of a removal under paragraph (2) of this subsection the career appointee shall, at least 15 days before the removal, be entitled, upon request, to an informal hearing before an official designated by the Merit Systems Protection Board at which the career appointee may appear and present arguments, but such hearing shall not give the career appointee the right to initiate an action with the Board under section 7701 of this title, nor need the removal action be delayed as a result of the granting of such hearing.
+> except that in the case of a removal under paragraph (2) of this subsection the career appointeeshall, at least 15 days before the removal, be entitled, upon request, to an informal hearing before an official designated by the Merit Systems Protection Board at which the career appointee may appear and present arguments, but such hearing shall not give the career appointee the right to initiate an action with the Board under section 7701 of this title, nor need the removal action be delayed as a result of the granting of such hearing.
 
 (b)(1) Except as provided in paragraph (2) of this subsection, a career appointee in an agency may not be involuntarily removed—
 
@@ -30,7 +30,7 @@
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–296, §1321(a)(2)(A)(iv), struck out last sentence which read as follows: “In the case of a removal under paragraph (3) of this subsection, the career appointee shall have the right to appeal the removal from the Senior Executive Service to the Merit Systems Protection Board under section 7701.”
+<b>2002</b>—Subsec. (a). Pub. L. 107–296, §1321(a)(2)(A)(iv), struck out last sentence which read as follows: “In the case of a removal under paragraph (3) of this subsection, the career appointee shall have the right to appeal the removal from the Senior Executive Service to the Merit Systems Protection Board under section 7701.”
 
 Subsec. (a)(1). Pub. L. 107–296, §1321(a)(2)(A)(i), inserted “or” at end.
 
@@ -38,7 +38,7 @@ Subsec. (a)(2). Pub. L. 107–296, §1321(a)(2)(A)(ii), struck out “or” at e
 
 Subsec. (a)(3). Pub. L. 107–296, §1321(a)(2)(A)(iii), struck out par. (3) which read as follows: “if the career appointee is not recertified as a senior executive under section 3393a,”.
 
-1989—Subsec. (a). Pub. L. 101–194, §506(b)(3)(D), inserted at end “In the case of a removal under paragraph (3) of this subsection, the career appointee shall have the right to appeal the removal from the Senior Executive Service to the Merit Systems Protection Board under section 7701.”
+<b>1989</b>—Subsec. (a). Pub. L. 101–194, §506(b)(3)(D), inserted at end “In the case of a removal under paragraph (3) of this subsection, the career appointee shall have the right to appeal the removal from the Senior Executive Service to the Merit Systems Protection Board under section 7701.”
 
 Subsec. (a)(3). Pub. L. 101–194, §506(b)(3)(A)–(C), added par. (3).
 

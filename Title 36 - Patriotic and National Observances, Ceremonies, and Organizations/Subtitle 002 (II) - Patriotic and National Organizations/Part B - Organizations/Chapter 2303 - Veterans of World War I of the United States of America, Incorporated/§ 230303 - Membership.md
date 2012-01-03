@@ -6,7 +6,7 @@ Eligibility.—Eligibility for membership in the corporation and the rights, pri
 
 (b)
 
-Voting.—Each member of the corporation (except an associate or honorary member) has one vote on each matter submitted to a vote ata meeting of the members of the corporation except the national convention.
+Voting.—Each member of the corporation (except an associate or honorary member) has one vote on each matter submitted to a vote at a meeting of the members of the corporation except the national convention.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1483.)
 

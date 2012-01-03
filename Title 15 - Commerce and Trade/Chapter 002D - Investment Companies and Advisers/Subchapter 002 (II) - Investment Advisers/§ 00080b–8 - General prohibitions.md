@@ -26,11 +26,11 @@ The Securities Exchange Act of 1934, referred to in subsec. (b), is act June 6, 
 
 <b>1960</b>—Pub. L. 86–750, §10, substituted “General prohibitions” for “Unlawful representations” in section catchline.
 
-Subsec. (c). Pub. L. 86–750, §11(a), authorized representation as an investment counsel if person's principal business consisted of acting as investment adviser, and a substantial part of the business was rendering investment supervisory services, and struck out the requirements that the person be primarily engaged in rendering investment supervisory services, or that his registration application state that the person is, or is about to become engaged primarily in rendering investment advisory services.
+Subsec. (c). Pub. L. 86–750, §11(a), authorized representation as an investment counsel if person's principal business consisted of acting as investment adviser, and a substantial part of the business was rendering investment supervisory services, and struck out the requirements that the person be primarily engaged in rendering investment supervisory services, or that hisregistration application state that the person is, or is about to become engaged primarily in rendering investment advisory services.
 
 Subsec. (d). Pub. L. 86–750, §11(b), added subsec. (d).
 
 #### Transfer of Functions
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2,eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 

@@ -24,7 +24,7 @@ Section 1446h of this title, referred to in subsec. (a), was repealed by Pub. L.
 
 #### Amendments
 
-1990—Subsec. (a). Pub. L. 101–624, §1161(d), substituted references to sections 1446h and 1446h(b)(2) of this title for references to sections 1446(b) and 1446(b)(2)(B) of this title, respectively.
+<b>1990</b>—Subsec. (a). Pub. L. 101–624, §1161(d), substituted references to sections 1446h and 1446h(b)(2) of this title for references to sections 1446(b) and 1446(b)(2)(B) of this title, respectively.
 
 Pub. L. 101–624, §1002(1), substituted “person for such crop of honey under section 1446h of this title, does not exceed $200,000 in the 1991 crop year, $175,000 in the 1992 crop year, $150,000 in the 1993 crop year, and $125,000 in each of the 1994 and subsequent crop years” for “producer for such crop of honey under section 1446(b) of this title, does not exceed $250,000”.
 
@@ -42,7 +42,7 @@ Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, an
 
 #### Prohibition on Use of Funds for Honey Payments or Loan Forfeitures
 
-Pub. L. 104–37, title VII, §718, Oct. 21, 1995, 109 Stat. 331, provided that none of the funds appropriated or otherwise made available by Pub. L. 104–37 were to be used by the Secretary of Agriculture to provide total amount of payments and/or total amount of loan forfeitures to a person to support the price of honey under this section or former section 1446h of this title in excess of zero dollars in the 1994, 1995, and 1996 crop years.
+Pub. L. 104–37, title VII, §718, Oct. 21, 1995, 109 Stat. 331, provided that none of the funds appropriated orotherwise made available by Pub. L. 104–37 were to be used by the Secretary of Agriculture to provide total amount of payments and/or total amount of loan forfeitures to a person to support the price of honey under this section or former section 1446h of this title in excess of zero dollars in the 1994, 1995, and 1996 crop years.
 
 Similar provisions were contained in the following prior appropriation acts:
 

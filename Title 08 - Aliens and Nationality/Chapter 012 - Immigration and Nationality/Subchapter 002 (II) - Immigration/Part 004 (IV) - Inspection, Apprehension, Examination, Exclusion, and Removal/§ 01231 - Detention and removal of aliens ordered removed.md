@@ -20,7 +20,7 @@
 
 #### (C) Suspension of period
 
-&emsp;&emsp;The removal period shall be extended beyond a period of 90 days and the alien may remain in detention during such extended period if the alien fails or refuses to make timely application in good faith for travel orother documents necessary to the alien's departure or conspires or acts to prevent the alien's removal subject to an order of removal.
+&emsp;&emsp;The removal period shall be extended beyond a period of 90 days and the alien may remain in detention during such extended period if the alien fails or refuses to make timely application in good faith for travel or other documents necessary to the alien's departure or conspires or acts to prevent the alien's removal subject to an order of removal.
 
 #### (2) Detention
 
@@ -66,7 +66,7 @@
 
 #### (6) Inadmissible or criminal aliens
 
-&emsp;An alien ordered removed who is inadmissible under section 1182 of this title, removable under section 1227(a)(1)(C), 1227(a)(2), or 1227(a)(4) of this title or who has been determined by the Attorney General to be a risk to the community or unlikely to comply with the order of removal, may be detained beyond the removal period and, if released, shall be subject to the terms of supervision in paragraph (3).
+&emsp;An alien ordered removed who is inadmissible under section 1182 of this title, removable under section 1227(a)(1)(C), 1227(a)(2), or 1227(a)(4) of this title or who has been determined by the Attorney General to be a risk to the community or unlikely to comply with the order of removal, may be detained beyond theremoval period and, if released, shall be subject to the terms of supervision in paragraph (3).
 
 #### (7) Employment authorization
 
@@ -162,7 +162,7 @@
 
 &emsp;&emsp;&emsp;(i) to the country that is host to a government in exile of the country of which the alien is a citizen or subject if the government of the host country will permit the alien's entry; or
 
-&emsp;&emsp;&emsp;(ii) if the recognized government of the country of which the alien is a citizen orsubject is not in exile, to a country, or a political or territorial subdivision of a country, that is very near the country of which the alien is a citizen or subject, or, with the consent of the government of the country of which the alien is a citizen or subject, to another country.
+&emsp;&emsp;&emsp;(ii) if the recognized government of the country of which the alien is a citizen or subject is not in exile, to a country, or a political or territorial subdivision of a country, that is very near the country of which the alien is a citizen or subject, or, with the consent of the government of the country of which the alien is a citizen or subject, to another country.
 
 #### (3) Restriction on removal to a country where alien's life or freedom would be threatened
 
@@ -382,7 +382,7 @@ Nothing in this section shall be construed to create any substantive or procedur
 
 &emsp;(iii) was admitted as a nonimmigrant and at the time he or she was taken into custody by the State or a political subdivision of the State has failed to maintain the nonimmigrant status in which the alien was admitted or to which it was changed under section 1258 of this title, or to comply with the conditions of any such status.
 
-(4)(A) In carrying out paragraph (1), the Attorney General shall give priority to the Federalincarceration of undocumented criminal aliens who have committed aggravated felonies.
+(4)(A) In carrying out paragraph (1), the Attorney General shall give priority to the Federal incarceration of undocumented criminal aliens who have committed aggravated felonies.
 
 (B) The Attorney General shall ensure that undocumented criminal aliens incarcerated in Federal facilities pursuant to this subsection are held in facilities which provide a level of security appropriate to the crimes for which they were convicted.
 
@@ -416,15 +416,15 @@ A prior section 241 of act June 27, 1952, was renumbered section 237, and is cla
 
 #### Amendments
 
-2006—Subsec. (i)(5). Pub. L. 109–162, §1196(a), substituted “appropriated to carry out this subsection—” for “appropriated such sums as may be necessary to carry out this subsection in fiscal years 2003 and 2004.” and added subpars. (A) to (C).
+<b>2006</b>—Subsec. (i)(5). Pub. L. 109–162, §1196(a), substituted “appropriated to carry out this subsection—” for “appropriated such sums as may be necessary to carry out this subsection in fiscal years 2003 and 2004.” and added subpars. (A) to (C).
 
 Subsec. (i)(6). Pub. L. 109–162, §1196(b), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “To the extent of available appropriations, funds otherwise made available under this section with respect to a State (or political subdivision, including a municipality) for incarceration of an undocumented criminal alien may, at the discretion of the recipient of the funds, be used for the costs of imprisonment of such alien in a State, local, or municipal prison or jail.”
 
-2005—Subsec. (b)(3)(C). Pub. L. 109–13 added subpar. (C).
+<b>2005</b>—Subsec. (b)(3)(C). Pub. L. 109–13 added subpar. (C).
 
-2002—Subsec. (i)(5). Pub. L. 107–273 substituted “in fiscal years 2003 and 2004” for provisions which authorized specified amounts to be appropriated from the Violent Crime Reduction Trust Fund for fiscal years 1995 to 2002 as set out in subpars. (A) to (F).
+<b>2002</b>—Subsec. (i)(5). Pub. L. 107–273 substituted “in fiscal years 2003 and 2004” for provisions which authorized specified amounts to be appropriated from the Violent Crime Reduction Trust Fund for fiscal years 1995 to 2002 as set out in subpars. (A) to (F).
 
-1996—Subsec. (i). Pub. L. 104–208, §306(a)(1), redesignated subsec. (j) of section 1252 of this title as subsec. (i) of this section. See Codification note above.
+<b>1996</b>—Subsec. (i). Pub. L. 104–208, §306(a)(1), redesignated subsec. (j) of section 1252 of this title as subsec. (i) of this section. See Codification note above.
 
 Subsec. (i)(3)(A). Pub. L. 104–208, §328(a)(1)(A), substituted “felony or two or more misdemeanors” for “felony and sentenced to a term of imprisonment”.
 
@@ -450,7 +450,7 @@ Section effective, with certain transitional provisions, on the first day of the
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of this title.
 
 #### United States Policy With Respect to Involuntary Return of Persons in Danger of Subjection to Torture
 

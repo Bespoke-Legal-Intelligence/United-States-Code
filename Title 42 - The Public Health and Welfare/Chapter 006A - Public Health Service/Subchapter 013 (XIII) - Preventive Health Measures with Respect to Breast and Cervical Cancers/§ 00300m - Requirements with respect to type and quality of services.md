@@ -50,7 +50,7 @@ The Secretary may not make a grant under section 300k of this title unless the S
 
 &emsp;&emsp;&emsp;(ii) a plan, satisfactory to the Secretary, for maintaining the level of activities carried out under the waiver after the expiration of the waiver and any extension of such waiver;
 
-&emsp;&emsp;(E) the Secretary finds that granting such a waiver to a State will increase the number of women in the State that receive each of the services or activities described in paragraphs (1) and (2) of section 300k(a) of this title, including making available screening procedures for both breast and cervical cancers; and
+&emsp;&emsp;(E) the Secretary finds that granting such a waiver to a State will increase the number of women in the State that receive each ofthe services or activities described in paragraphs (1) and (2) of section 300k(a) of this title, including making available screening procedures for both breast and cervical cancers; and
 
 &emsp;&emsp;(F) the Secretary finds that granting such a waiver to a State will not adversely affect the quality of each of the services or activities described in paragraphs (1) and (2) of section 300k(a) of this title.
 
@@ -62,7 +62,7 @@ The Secretary may not make a grant under section 300k of this title unless the S
 
 &emsp;&emsp;&emsp;(i) shall grant such waivers for a period that is not less than 1 year but not more than 2 years; and
 
-&emsp;&emsp;&emsp;(ii) upon request of a State, may extend a waiver for an additional period that isnot less than 1 year but not more than 2 years in accordance with subparagraph (B).
+&emsp;&emsp;&emsp;(ii) upon request of a State, may extend a waiver for an additional period that is not less than 1 year but not more than 2 years in accordance with subparagraph (B).
 
 #### (B) Additional period
 
@@ -134,7 +134,7 @@ Prior sections 300m to 300m–6 were repealed by Pub. L. 99–660, title VII, §
 
 Section 300m, act July 1, 1944, ch. 373, title XV, §1521, as added Jan. 4, 1975, Pub. L. 93–641, §3, 88 Stat. 2242; amended Aug. 1, 1977, Pub. L. 95–83, title I, §106(<i>l</i>), (m), 91 Stat. 385; Dec. 19, 1977, Pub. L. 95–215, §6(b), 91 Stat. 1507; July 16, 1979, Pub. L. 96–33, 93 Stat. 86; Oct. 4, 1979, Pub. L. 96–79, title I, §123(a), (b)(1)(A), (2), (d), (f), (g)(2), 93 Stat. 624–627; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695; Jan. 2, 1980, Pub. L. 96–181, §15(b), 93 Stat. 1316; Dec. 17, 1980, Pub. L. 96–538, title III, §303(b), 94 Stat. 3190; Aug. 13, 1981, Pub. L. 97–35, title IX, §§902(g)(5), 936(b), 95 Stat. 561, 572; Jan. 4, 1983, Pub. L. 97–414, §9(b), 96 Stat. 2064, provided for designation of State health planning and development agencies.
 
-A prior section 1503 of act July 1, 1944, ch. 373, title XV, as added Jan. 4, 1975, Pub. L. 93–641, §3, 88 Stat. 2228; amended Aug. 1, 1977, Pub. L. 95–83, title I, §106(a), 91 Stat. 384; July 10, 1979, Pub. L. 96–32, §7(g), 93 Stat. 84; Oct. 4, 1979, Pub. L. 96–79, title I, §102(b), 93 Stat. 594; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695,which related to National Council on Health Planning and Development, was classified to section 300k–3 of this title.
+A prior section 1503 of act July 1, 1944, ch. 373, title XV, as added Jan. 4, 1975, Pub. L. 93–641, §3, 88 Stat. 2228; amended Aug. 1, 1977, Pub. L. 95–83, title I, §106(a), 91 Stat. 384; July 10, 1979, Pub. L. 96–32, §7(g), 93 Stat. 84; Oct. 4, 1979, Pub. L. 96–79, title I, §102(b), 93 Stat. 594; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695, which related to National Council on Health Planning and Development, was classified to section 300k–3 of this title.
 
 Section 300m–1, act July 1, 1944, ch. 373, title XV, §1522, as added Jan. 4, 1975, Pub. L. 93–641, §3, 88 Stat. 2244; amended 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Oct. 4, 1979, Pub. L. 96–79, title I, §§101(b)(2), 111(c), 115(b)(3), 117(b)(4), 120(b), 122(b), 123(c)(1)(A), (e)(1), 93 Stat. 594, 605, 607, 620, 622, 624, 625, 626; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695, related to State administrative programs.
 

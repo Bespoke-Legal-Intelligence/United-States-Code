@@ -8,7 +8,7 @@ Except as otherwise provided in this chapter, any reference in any statute, reor
 
 &emsp;(3) insofar as such reference relates to any function or authority transferred under section 6562(c) of this title, shall be deemed to refer to the head of the agency to which such function or authority is transferred under such section; and
 
-&emsp;(4) insofar as such reference relates to any function or authority not transferred by this subchapter, shall be deemed to refer to the President or such agency or agencies as may be specified by Executive order.
+&emsp;(4) insofar as such reference relates to any function or authority not transferred by thissubchapter, shall be deemed to refer to the President or such agency or agencies as may be specified by Executive order.
 
 (Pub. L. 105–277, div. G, subdiv. A, title XIV, §1421, Oct. 21, 1998, 112 Stat. 2681–791.)
 

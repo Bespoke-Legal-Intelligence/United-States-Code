@@ -88,7 +88,7 @@
 
 #### (7) Special rule for infrequent publications
 
-&emsp;The rules prescribed by the Commission under subparagraphs (A) and (G) of paragraph (1) may permit, in the case of publicationsthat are widely distributed, that are printed annually or less frequently, and that have an established policy of not publishing specific prices, advertising that in lieu of the cost disclosures required by such subparagraphs, clearly and conspicuously disclose that use of the telephone number may result in a substantial charge.
+&emsp;The rules prescribed by the Commission under subparagraphs (A) and (G) of paragraph (1) may permit, in the case of publications that are widely distributed, that are printed annually or less frequently, and that have an established policy of not publishing specific prices, advertising that in lieu of the cost disclosures required by such subparagraphs, clearly and conspicuously disclose that use of the telephone number may result in a substantial charge.
 
 #### (8) Treatment of rules
 

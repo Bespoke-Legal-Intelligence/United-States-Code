@@ -30,7 +30,3 @@ Not later than 24 months after July 15, 2008, the Secretary shall implement the 
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1809, as added Pub. L. 110–275, title I, §185, July 15, 2008, 122 Stat. 2587.)
 
-#### References in Text
-
-Parts A, B, C, and D, referred to in subsec. (b)(1)(A), are classified to sections 1395c et seq., 1395j et seq., 1395w–21 et seq., and 1395w–101 et seq., respectively, of this title.
-

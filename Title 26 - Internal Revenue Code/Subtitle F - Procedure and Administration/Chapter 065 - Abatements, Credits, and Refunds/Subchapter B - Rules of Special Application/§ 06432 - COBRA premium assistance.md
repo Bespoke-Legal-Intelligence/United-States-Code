@@ -34,7 +34,7 @@ Except as otherwise provided by the Secretary—
 
 #### (1) Treatment as payment of payroll taxes
 
-&emsp;Each person entitled to reimbursement under subsection (a) (and filing a claim for such reimbursement at such time and in such manner as the Secretary may require) shall be treated for purposes of this title and section 1324(b)(2) of title 31, United States Code, as having paid to the Secretary, on the date that the assistance eligible individual's premium payment is received, payroll taxes in an amount equal to the portion of such reimbursement which relates to such premium. To the extent that the amount treated as paid under the preceding sentence exceeds the amount of such person's liability for such taxes, the Secretary shall credit or refund such excess in the same manner as if it were an overpayment of such taxes.
+&emsp;Each person entitled to reimbursement under subsection (a) (and filing a claim forsuch reimbursement at such time and in such manner as the Secretary may require) shall be treated for purposes of this title and section 1324(b)(2) of title 31, United States Code, as having paid to the Secretary, on the date that the assistance eligible individual's premium payment is received, payroll taxes in an amount equal to the portion of such reimbursement which relates to such premium. To the extent that the amount treated as paid under the preceding sentence exceeds the amount of such person's liability for such taxes, the Secretary shall credit or refund such excess in the same manner as if it were an overpayment of such taxes.
 
 #### (2) Overstatements
 
@@ -74,7 +74,7 @@ For purposes of this section, in any case in which—
 
 #### (f) Reporting
 
-Each person entitled to reimbursement under subsection (a) for any period shall submit suchreports (at such time and in such manner) as the Secretary may require, including—
+Each person entitled to reimbursement under subsection (a) for any period shall submit such reports (at such time and in such manner) as the Secretary may require, including—
 
 &emsp;(1) an attestation of involuntary termination of employment for each covered employee on the basis of whose termination entitlement to reimbursement is claimed under subsection (a),
 
@@ -232,7 +232,7 @@ Preexisting conditions.—With respect to a qualified beneficiary who elects COB
 
 &emsp;“(5)
 
-Expedited review of denials of premium assistance.—In any case in which an individual requests treatment as an assistance eligible individual and is denied such treatment by the group health plan, the Secretary of Labor (or the Secretary of Health and Human Services in connection with COBRA continuation coverage which is provided other than pursuant to part 6 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1161 et seq.\]), in consultation with the Secretary of the Treasury, shall provide for expedited review of such denial. An individual shall be entitled to such review upon application to such Secretary in such form and manner as shall be provided by such Secretary. Such Secretary shall make a determination regarding such individual's eligibility within 15 business days after receipt of such individual's application for review under this paragraph. Either Secretary's determination upon review of the denial shall be de novo and shall be the final determination of such Secretary. A reviewing court shall grant deference to such Secretary's determination. The provisions of this paragraph, paragraphs (1) through (4), and paragraph (7) shall be treated as provisions of title I of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1001 et seq.\] for purposes of part5 of subtitle B of such title \[29 U.S.C. 1131 et seq.\]. In addition to civil actions that may be brought to enforce applicable provisions of such Act \[29 U.S.C. 1001 et seq.\] or other laws, the appropriate Secretary or an affected individual may bring a civil action to enforce such determinations and for appropriate relief. In addition, such Secretary may assess a penalty against a plan sponsor or health insurance issuer of not more than $110 per day for each failure to comply with such determination of such Secretary after 10 days after the date of the plan sponsor's or issuer's receipt of the determination.
+Expedited review of denials of premium assistance.—In any case in which an individual requests treatment as an assistance eligible individual and is denied such treatment by the group health plan, the Secretary of Labor (or the Secretary of Health and Human Services in connection with COBRA continuation coverage which is provided other than pursuant to part 6 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1161 et seq.\]), in consultation with the Secretary of the Treasury, shall provide for expedited review of such denial. An individual shall be entitled to such review upon application to such Secretary in such form and manner as shall be provided by such Secretary. Such Secretary shall make a determination regarding such individual's eligibility within 15 business days after receipt of such individual's application for review under this paragraph. Either Secretary's determination upon review of the denial shall be de novo and shall be the final determination of such Secretary. A reviewing court shall grant deference to such Secretary's determination. The provisions of this paragraph, paragraphs (1) through (4), and paragraph (7) shall be treated as provisions of title I of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1001 et seq.\] for purposes of part 5 of subtitle B of such title \[29 U.S.C. 1131 et seq.\]. In addition to civil actions that may be brought to enforce applicable provisions of such Act \[29 U.S.C. 1001 et seq.\] or other laws, the appropriate Secretary or an affected individual may bring a civil action to enforce such determinations and for appropriate relief. In addition, such Secretary may assess a penalty against a plan sponsor or health insurance issuer of not more than $110 per day for each failure to comply with such determination of such Secretary after 10 days after the date of the plan sponsor's or issuer's receipt of the determination.
 
 &emsp;“(6)
 
@@ -272,7 +272,7 @@ Specific requirements.—Each additional notification under subparagraph (A) sha
 
 &emsp;&emsp;&emsp;“(iii) a description of the extended election period provided for in paragraph (4)(A),
 
-&emsp;&emsp;&emsp;“(iv) a description of the obligation of the qualified beneficiary under paragraph (2)(C) to notify the plan providing continuation coverage of eligibility for subsequent coverage under another group health plan or eligibility for benefits under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] and the penalty provided under section 6720C of the Internal Revenue Code of 1986 for failure to so notify the plan,
+&emsp;&emsp;&emsp;“(iv) a description of the obligation of the qualified beneficiary under paragraph (2)(C) to notify the plan providing continuation coverage of eligibility for subsequent coverage under anothergroup health plan or eligibility for benefits under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] and the penalty provided under section 6720C of the Internal Revenue Code of 1986 for failure to so notify the plan,
 
 &emsp;&emsp;&emsp;“(v) a description, displayed in a prominent manner, of the qualified beneficiary's right to a reduced premium and any conditions on entitlement to the reduced premium, and
 
@@ -340,7 +340,7 @@ Reports.—
 
 &emsp;&emsp;“(A)
 
-Interim report.—The Secretary of the Treasury shall submit an interim report to the Committee on Education and Labor, the Committee on Ways and Means, and the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions and the Committee on Finance of the Senate regarding the premium reduction provided under this subsection that includes—
+Interim report.—The Secretary of the Treasury shall submit an interim report to the Committee on Education and Labor \[now Committee on Education and the Workforce\], the Committee on Ways and Means, and the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions and the Committee on Finance of the Senate regarding the premium reduction provided under this subsection that includes—
 
 &emsp;&emsp;&emsp;“(i) the number of individuals provided such assistance as of the date of the report; and
 
@@ -382,7 +382,7 @@ Special rule.—
 
 &emsp;&emsp;&emsp;“(i)
 
-In general.—In the case of an assistance eligible individual who pays, with respect to the first period of COBRA continuation coverage to which subsection (a)(1)(A) applies or the immediately subsequent period, the full premium amount for such coverage, the person to whom such payment is payable shall—
+In general.—In the case of an assistance eligible individual who pays, with respect to thefirst period of COBRA continuation coverage to which subsection (a)(1)(A) applies or the immediately subsequent period, the full premium amount for such coverage, the person to whom such payment is payable shall—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) make a reimbursement payment to such individual for the amount of such premium paid in excess of the amount required to be paid under subsection (a)(1)(A); or
 
@@ -504,7 +504,7 @@ New election period.—
 
 &emsp;&emsp;&emsp;“(i)
 
-In general.—For the purposes of the COBRA continuation provisions, in the case of an individual described in subparagraph (C) who did not make (or who made and discontinued) an election of COBRA continuation coverage on the basis of the reduction of hours of employment, the involuntary termination of employment of such individual on or after the date of the enactment of this paragraph \[Mar. 2, 2010\] shall be treated as a qualifying event.
+In general.—For the purposes of the COBRA continuation provisions, in the case of an individual described in subparagraph (C) who did not make (or who made and discontinued) an election of COBRA continuation coverage on thebasis of the reduction of hours of employment, the involuntary termination of employment of such individual on or after the date of the enactment of this paragraph \[Mar. 2, 2010\] shall be treated as a qualifying event.
 
 &emsp;&emsp;&emsp;“(ii)
 
@@ -562,7 +562,7 @@ Phase-in percentage.—For purposes of this subsection, the term ‘phase-in per
 
 &emsp;“(3)
 
-Option for high-income individuals to waive assistance and avoid recapture.—Notwithstandingsubsection (a)(3), an individual shall not be treated as an assistance eligible individual for purposes of this section and section 6432 of the Internal Revenue Code of 1986 if such individual—
+Option for high-income individuals to waive assistance and avoid recapture.—Notwithstanding subsection (a)(3), an individual shall not be treated as an assistance eligible individual for purposes of this section and section 6432 of the Internal Revenue Code of 1986 if such individual—
 
 &emsp;&emsp;“(A) makes a permanent election (at such time and in such form and manner as the Secretary of the Treasury may prescribe) to waive the right to the premium assistance provided under this section, and
 

@@ -10,5 +10,5 @@ Section is composed of subsec. (b) of section 2 of act Aug. 15, 1921. Subsec. (a
 
 #### Amendments
 
-1976—Pub. L. 94–410 substituted “livestock” for “live stock” and “live-stock” wherever appearing.
+<b>1976</b>—Pub. L. 94–410 substituted “livestock” for “live stock” and “live-stock” wherever appearing.
 

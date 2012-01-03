@@ -24,7 +24,7 @@
 
 Subsec. (c). Pub. L. 103–446 struck out “(1)” after “(c)”, redesignated subpars. (A) to (C) as pars. (1) to (3), respectively, and struck out former par. (2) which read as follows: “This subsection shall not apply to a course of flight training that commences on or after October 1, 1994.”
 
-<b>1992</b>—Subsec. (b). Pub. L. 102–568, §320(a)(3), substituted “sections 3470, 3471, 3474, 3476, 3482(g), 3483, and 3485 of title 38 and the provisions of subchapters I and II of chapter 36 of such title (with the exception of sections 3686(a), 3687, and 3692)” for “sections 1670, 1671, 1673, 1674, 1676, 1682(g), 1683, and 1685 of title 38 and the provisions of subchapters I and II of chapter 36 of such title (with the exception of sections 1786(a), 1787, and 1792)”.
+<b>1992</b>—Subsec. (b). Pub. L. 102–568, §320(a)(3), substituted “sections 3470, 3471, 3474, 3476, 3482(g), 3483, and3485 of title 38 and the provisions of subchapters I and II of chapter 36 of such title (with the exception of sections 3686(a), 3687, and 3692)” for “sections 1670, 1671, 1673, 1674, 1676, 1682(g), 1683, and 1685 of title 38 and the provisions of subchapters I and II of chapter 36 of such title (with the exception of sections 1786(a), 1787, and 1792)”.
 
 Pub. L. 102–568, §319, struck out “1780(c),” after “exception of sections”.
 
@@ -60,7 +60,7 @@ Section 405(e) of Pub. L. 101–237 provided that: “The amendments made by thi
 
 Amendment by section 422(b)(1) of Pub. L. 101–237 effective Sept. 30, 1990, see section 422(d) of Pub. L. 101–237, set out as a note under section 16131 of this title.
 
-Amendment by section 642(c) of Pub. L. 101–189 applicable with respect to any person who after Sept. 30,1990, meets the requirements set forth in section 2132(a)(1)(A) or (B) \[16132(a)(1)(A), (B)\] of this title, see section 642(d) of Pub. L. 101–189, set out as a note under section 16131 of this title.
+Amendment by section 642(c) of Pub. L. 101–189 applicable with respect to any person who after Sept. 30, 1990, meets the requirements set forth in section 2132(a)(1)(A) or (B) \[16132(a)(1)(A), (B)\] of this title, see section 642(d) of Pub. L. 101–189, set out as a note under section 16131 of this title.
 
 #### Effective Date
 

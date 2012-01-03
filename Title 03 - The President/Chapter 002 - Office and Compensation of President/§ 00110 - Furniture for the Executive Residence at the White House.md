@@ -6,7 +6,7 @@ All furniture purchased for the use of the Executive Residence at the White Hous
 
 #### Amendments
 
-1978—Pub. L. 95–570 inserted in section catchline “the Executive Residence at the” before “White House” and substituted in text “Executive Residence at the White House” for “President's House” and “Executive Residence at the White House” for “White House” wherever appearing.
+<b>1978</b>—Pub. L. 95–570 inserted in section catchline “the Executive Residence at the” before “White House” and substituted in text “Executive Residence at the White House” for “President's House” and “Executive Residence at the White House” for “White House” wherever appearing.
 
 #### Effective Date of 1978 Amendment
 
@@ -18,7 +18,7 @@ Functions of officers of Department of the Interior and functions of all agencie
 
 #### Commission on Renovation of the Executive Mansion
 
-Act Apr. 14, 1949, ch. 51, 63 Stat. 45, authorized appointment of a commission of six to supervise and approve all construction plans and work necessary to remedy the present unsafe conditions in the Executive Mansion and to modernize same.
+Act Apr. 14, 1949, ch. 51, 63 Stat. 45, authorized appointment of a commission of six to supervise and approve all construction plans and work necessary toremedy the present unsafe conditions in the Executive Mansion and to modernize same.
 
 #### White House; Administration; Preservation of Museum Character; Articles of Historic or Artistic Interest
 
@@ -82,7 +82,7 @@ Term of the Committee for the Preservation of the White House extended until Dec
 
 Term of the Committee for the Preservation of the White House extended until Dec. 31, 1980, by Ex. Ord. No. 12110, Dec. 28, 1978, 44 F.R. 1069, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of the Committee for the Preservation of the White House extended until Dec. 31, 1982, by Ex. Ord. No. 12258, Dec. 31, 1980, 46 F.R. 1251, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of the Committee for the Preservation of the White House extended until Dec. 31, 1982, by Ex. Ord.No. 12258, Dec. 31, 1980, 46 F.R. 1251, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 Term of the Committee for the Preservation of the White House extended until Sept. 30, 1984, by Ex. Ord. No. 12399, Dec. 31, 1982, 48 F.R. 379, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
@@ -112,5 +112,7 @@ Term of the Committee for the Preservation of the White House extended until Sep
 
 Term of the Committee for the Preservation of the White House extended until Sept. 30, 2009, by Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of the Committee for the Preservation of the White House extended until Sept. 30, 2011, by Ex. Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of the Committee for the Preservation of the White House extended until Sept. 30, 2011, by Ex. Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of the Committee for the Preservation of the White House extended until Sept. 30, 2013, by Ex. Ord. No. 13585, Sept. 30, 2011, 76 F.R. 62281, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 

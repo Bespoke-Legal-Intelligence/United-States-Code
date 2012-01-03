@@ -10,7 +10,7 @@ Section is comprised of the fourth par. of section 13 of act Dec. 23, 1913, as a
 
 #### Amendments
 
-1928—Act May 29, 1928, amended part of first sentence preceding proviso.
+<b>1928</b>—Act May 29, 1928, amended part of first sentence preceding proviso.
 
 #### Change of Name
 

@@ -2,7 +2,7 @@
 
 #### (a) Grants
 
-The Secretary shall use 100 percent of the amount available to carry out this subpart to award not less than three grants to eligible entities that have applications approved under this subpart to demonstrate innovative methods of assisting charter schools to address the cost of acquiring, constructing, and renovating facilities by enhancing the availability of loans or bond financing.
+The Secretary shall use 100 percent of the amount available to carry out this subpart toaward not less than three grants to eligible entities that have applications approved under this subpart to demonstrate innovative methods of assisting charter schools to address the cost of acquiring, constructing, and renovating facilities by enhancing the availability of loans or bond financing.
 
 #### (b) Grantee selection
 
@@ -20,7 +20,7 @@ Grants under this subpart shall be of a sufficient size, scope, and quality so a
 
 #### (d) Special rule
 
-In the event the Secretary determines that the funds made available under this subpart are insufficient to permit the Secretary to awardnot less than three grants in accordance with subsections (a) through (c) of this section, such three-grant minimum and subsection (b)(2) of this section shall not apply, and the Secretary may determine the appropriate number of grants to be awarded in accordance with subsection (c) of this section.
+In the event the Secretary determines that the funds made available under this subpart are insufficient to permit the Secretary to award not less than three grants in accordance with subsections (a) through (c) of this section, such three-grant minimum and subsection (b)(2) of this section shall not apply, and the Secretary may determine the appropriate number of grants to be awarded in accordance with subsection (c) of this section.
 
 (Pub. L. 89–10, title V, §5222, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1800.)
 

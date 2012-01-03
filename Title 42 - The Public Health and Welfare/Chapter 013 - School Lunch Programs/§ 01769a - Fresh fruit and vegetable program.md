@@ -40,7 +40,7 @@ A school participating in the program shall make free fresh fruits and vegetable
 
 &emsp;&emsp;(D) solicit applications from interested schools that include—
 
-&emsp;&emsp;&emsp;(i) information pertaining to the percentage of students enrolled in the schoolsubmitting the application who are eligible for free or reduced price school lunches under this chapter;
+&emsp;&emsp;&emsp;(i) information pertaining to the percentage of students enrolled in the school submitting the application who are eligible for free or reduced price school lunches under this chapter;
 
 &emsp;&emsp;&emsp;(ii) a certification of support for participation in the program signed by the school food manager, the school principal, and the district superintendent (or equivalent positions, as determined by the school);
 
@@ -58,7 +58,7 @@ A school participating in the program shall make free fresh fruits and vegetable
 
 #### (A) In general
 
-&emsp;&emsp;Prior to making decisions regarding school participation in the program, a State agency shall inform the schools within the State with the highest proportion of free and reduced price meal eligibility, including Native American schools, of the eligibility of the schools for the program with respect to priority granted to schools with the highest proportion of free and reduced price eligibility under paragraph (1)(B).
+&emsp;&emsp;Prior to making decisions regarding school participation in the program, a State agencyshall inform the schools within the State with the highest proportion of free and reduced price meal eligibility, including Native American schools, of the eligibility of the schools for the program with respect to priority granted to schools with the highest proportion of free and reduced price eligibility under paragraph (1)(B).
 
 #### (B) Requirement
 
@@ -126,7 +126,7 @@ To the maximum extent practicable, each State agency shall ensure that in making
 
 #### (5) Authorization of appropriations
 
-&emsp;In addition to any other amounts made available to carry out this section, there areauthorized to be appropriated such sums as are necessary to expand the program established under this section.
+&emsp;In addition to any other amounts made available to carry out this section, there are authorized to be appropriated such sums as are necessary to expand the program established under this section.
 
 #### (6) Administrative costs
 
@@ -148,7 +148,7 @@ To the maximum extent practicable, each State agency shall ensure that in making
 
 &emsp;&emsp;A State that receives a grant under this section may reallocate any amounts made available under the grant that are not obligated or expended by a date determined by the Secretary.
 
-(June 4, 1946, ch. 281, §19, as added Pub. L. 110–234, title IV, §4304(a)(1), May 22, 2008, 122 Stat. 1127, and Pub. L. 110–246, §4(a), title IV, §4304(a)(1), June 18, 2008, 122 Stat. 1664, 1888.)
+(June 4, 1946, ch. 281, §19, as added Pub. L. 110–234, title IV, §4304(a)(1), May 22, 2008, 122Stat. 1127, and Pub. L. 110–246, §4(a), title IV, §4304(a)(1), June 18, 2008, 122 Stat. 1664, 1888.)
 
 #### References in Text
 
@@ -165,6 +165,10 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 #### Prior Provisions
 
 A prior section 1769a, act June 4, 1946, ch. 281, §19, formerly §21, as added Nov. 10, 1977, Pub. L. 95–166, §13, 91 Stat. 1338; renumbered §19, Oct. 18, 1986, Pub. L. 99–500, title III, §371(c)(1), 100 Stat. 1783–368, and Oct. 30, 1986, Pub. L. 99–591, title III, §371(c)(1), 100 Stat. 3341–372; renumbered §19, Nov. 14, 1986, Pub. L. 99–661, div. D, title V, §4501(c)(1), 100 Stat. 4080; Nov. 10, 1989, Pub. L. 101–147, title I, §108, 103 Stat. 887; Nov. 2, 1994, Pub. L. 103–448, title I, §119, 108 Stat. 4726, directed Secretary to reduce paperwork required in carrying out functions under this chapter and under the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.), prior to repeal by Pub. L. 104–193, title VII, §710, Aug. 22, 1996, 110 Stat. 2301.
+
+#### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Effective Date
 

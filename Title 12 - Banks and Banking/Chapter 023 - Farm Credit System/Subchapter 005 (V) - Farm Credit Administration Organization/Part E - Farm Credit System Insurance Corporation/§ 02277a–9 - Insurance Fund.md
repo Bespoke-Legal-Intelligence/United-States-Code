@@ -40,9 +40,9 @@ There is hereby established a Farm Credit Insurance Fund (hereinafter referred t
 
 #### Amendments
 
-1990—Subsec. (c)(1), (2). Pub. L. 101–624 substituted “January 1, 1993” for “5 years after the date of the enactment of this part” in par. (1) and for “5 years after the date of enactment of this part” in par. (2).
+<b>1990</b>—Subsec. (c)(1), (2). Pub. L. 101–624 substituted “January 1, 1993” for “5 years after the date of the enactment of this part” in par. (1) and for “5 years after the date of enactment of this part” in par. (2).
 
-1988—Subsec. (b)(1). Pub. L. 100–399, §302(j), struck out “(in effect immediately before January 6, 1988)” after “section 2151 of this title”.
+<b>1988</b>—Subsec. (b)(1). Pub. L. 100–399, §302(j), struck out “(in effect immediately before January 6, 1988)” after “section 2151 of this title”.
 
 Subsec. (b)(2). Pub. L. 100–399, §302(k), substituted “The” for “Beginning 5 years after January 6, 1988, the”.
 

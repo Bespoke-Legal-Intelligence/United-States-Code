@@ -14,7 +14,7 @@
 
 #### (2) Fees for temporary practice
 
-&emsp;A State appraiser certifying or licensing agency shall not impose excessive fees or burdensome requirements, as determined by theAppraisal Subcommittee, for temporary practice under this subsection.
+&emsp;A State appraiser certifying or licensing agency shall not impose excessive fees or burdensome requirements, as determined by the Appraisal Subcommittee, for temporary practice under this subsection.
 
 #### (b) Reciprocity
 
@@ -54,13 +54,53 @@ A corporation, partnership, or other business entity may provide appraisal servi
 
 &emsp;&emsp;(B) report its findings with respect to the study described in paragraph (1)(B) to Congress not later than 18 months after August 9, 1989.
 
-(Pub. L. 101–73, title XI, §1122, Aug. 9, 1989, 103 Stat. 518; Pub. L. 103–325, title III, §315, Sept. 23, 1994, 108 Stat. 2222.)
+(Pub. L. 101–73, title XI, §1122, Aug. 9, 1989, 103 Stat. 518; Pub. L. 103–325, title III, §315, Sept. 23, 1994, 108 Stat. 2222; Pub. L. 111–203, title XIV, §1473(<i>l</i>)–(p), (t)(4), July 21, 2010, 124 Stat. 2196, 2197, 2199.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title XIV, §§1400(c), 1473(l)–(p), (t)(4), July 21, 2010, 124 Stat. 2136, 2196, 2197, 2199, provided that this section is amended, effective on the date on which final regulations implementing such amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date:</i>
+
+<i>(1) in subsection (a)(1) by moving the left margin of subparagraphs (A), (B), and (C) 2 ems to the right;</i>
+
+<i>(2) by amending subsec. (b) to read as follows:</i>
+
+#### <i>“(b) Reciprocity</i>
+
+<i>“Notwithstanding any other provisions of this chapter, a federally related transaction shall not be appraised by a certified or licensed appraiser unless the State appraiser certifying or licensing agency of the State certifying or licensing such appraiser has in place a policy of issuing a reciprocal certification or license for an individual from another State when—</i>
+
+&emsp;<i>“(1) the appraiser licensing and certification program of such other State is in compliance with the provisions of this chapter; and</i>
+
+&emsp;<i>“(2) the appraiser holds a valid certification from a State whose requirements for certification or licensing meet or exceed the licensure standards established by the State where an individual seeks appraisal licensure.”;</i>
+
+<i>(3) in subsection (c), by substituting “Financial Institutions Examination Council” for “Federal Financial Institutions Examination Council” and “the Council's functions” for “the council's functions”;</i>
+
+<i>(4) in subsection (d), by substituting “may include education achieved, experience, sample appraisals, and references from prior clients. Membership in a nationally recognized professional appraisal organization may be a criteria considered, though lack of membership therein shall not be the sole bar against consideration for an assignment under these criteria.” for “shall not exclude” and all that follows through the end; and</i>
+
+<i>(5) by adding at the end the following:</i>
+
+#### <i>“(g) Appraiser independence monitoring</i>
+
+<i>“The Appraisal Subcommittee shall monitor each State appraiser certifying and licensing agency for the purpose of determining whether such agency's policies, practices, and procedures are consistent with the purposes of maintaining appraiser independence and whether such State has adopted and maintains effective laws, regulations, and policies aimed at maintaining appraiser independence.</i>
+
+#### <i>“(h) Approved education</i>
+
+<i>“The Appraisal Subcommittee shall encourage the States to accept courses approved by the Appraiser Qualification Board's Course Approval Program.</i>
+
+#### <i>“(i) Appraisal complaint national hotline</i>
+
+<i>“If, 6 months after July 21, 2010, the Appraisal Subcommittee determines that no national hotline exists to receive complaints of non-compliance with appraisal independence standards and Uniform Standards of Professional Appraisal Practice, including complaints from appraisers, individuals, or other entities concerning the improper influencing or attempted improper influencing of appraisers or the appraisal process, the Appraisal Subcommittee shall establish and operate such a national hotline, which shall include a toll-free telephone number and an email address. If the Appraisal Subcommittee operates such a national hotline, the Appraisal Subcommittee shall refer complaints for further action to appropriate governmental bodies, including a State appraiser certifying and licensing agency, a financial institution regulator, or other appropriate legal authorities. For complaints referred to State appraiser certifying and licensing agencies or to Federal regulators, the Appraisal Subcommittee shall have the authority to follow up such complaint referrals in order to determine the status of the resolution of the complaint.”</i>
+
+<i>See Effective Date of 2010 Amendment note below.</i>
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–325, §315(3), redesignated existing provisions as par. (1), inserted heading, redesignated former pars. (1) to (3) as subpars. (A) to (C) of par. (1), and added par. (2).
+<b>1994</b>—Subsec. (a). Pub. L. 103–325, §315(3), redesignated existing provisions as par. (1), inserted heading, redesignated former pars. (1) to (3) as subpars. (A) to (C) of par. (1), and added par. (2).
 
 Subsecs. (b) to (f). Pub. L. 103–325, §315(1), (2), added subsec. (b) and redesignated former subsecs. (b) to (e) as (c) to (f), respectively.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as a note under section 1601 of Title 15, Commerce and Trade.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

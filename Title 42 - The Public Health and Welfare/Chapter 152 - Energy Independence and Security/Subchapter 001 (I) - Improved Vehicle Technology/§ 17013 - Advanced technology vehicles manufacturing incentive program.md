@@ -176,7 +176,7 @@ Subsec. (g). Pub. L. 111–85, §312(a)(3), inserted “or are utilized primaril
 
 Subsec. (h)(1)(B). Pub. L. 111–85, §312(a)(4), substituted “ultra efficient vehicles, automobiles,” for “automobiles”.
 
-<b>2008</b>—Subsec. (d)(1). Pub. L. 110–329, §129(c)(1), inserted at end “The loans shall be made through the Federal Financing Bank, with the full faith and credit of the United States Government on the principal and interest. The full credit subsidy shall be paid by the Secretary using appropriated funds.”
+<b>2008</b>—Subsec. (d)(1). Pub. L. 110–329, §129(c)(1), inserted at end “The loans shall be made through the Federal Financing Bank, with the full faith and credit of the United States Government on the principal andinterest. The full credit subsidy shall be paid by the Secretary using appropriated funds.”
 
 Subsec. (e). Pub. L. 110–329, §129(c)(2), substituted “Not later than 60 days after September 30, 2008, the Secretary shall promulgate an interim final rule establishing regulations that the Secretary deems necessary to administer this section and any loans made by the Secretary pursuant to this section. Such interim final rule shall require that,” for “The Secretary shall issue regulations that require that,”.
 

@@ -78,7 +78,7 @@ A dwelling unit meets the energy saving requirements of this subsection if such 
 
 #### (2) Form
 
-&emsp;Any certification described in subsection (c) shall be made in writing in a manner whichspecifies in readily verifiable fashion the energy efficient building envelope components and energy efficient heating or cooling equipment installed and their respective rated energy efficiency performance.
+&emsp;Any certification described in subsection (c) shall be made in writing in a manner which specifies in readily verifiable fashion the energy efficient building envelope components and energy efficient heating or cooling equipment installed and their respective rated energy efficiency performance.
 
 #### (e) Basis adjustment
 

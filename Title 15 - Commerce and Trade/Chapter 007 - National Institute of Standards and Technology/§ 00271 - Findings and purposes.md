@@ -30,7 +30,7 @@
 
 #### References in Text
 
-This chapter, referred to in subsec. (b), was in the original “this Act” meaning act Mar. 3, 1901, ch. 872, 31 Stat. 1449, as amended, known as the National Institute of Standards and Technology Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This chapter, referred to in subsec. (b), was in the original “this Act” meaning act Mar. 3, 1901, ch. 872, 31 Stat. 1449, as amended, known as the National Instituteof Standards and Technology Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 #### Amendments
 
@@ -60,7 +60,7 @@ Pub. L. 102–245, title II, §201(a), Feb. 14, 1992, 106 Stat. 15, provided tha
 
 #### Short Title of 1988 Amendment
 
-Section 5101 of Pub. L. 100–418 provided that: “This part \[part I (§§5101–5164) of subtitle B of title V of Pub. L. 100–418, enacting sections 205j–1, 278i to 278<i>o</i>, 282a, 1532, 1533, 3704a, and 4632 of this title, amending this section, sections 205a, 205b, 205k, 272 to 275, 278, 278b, 278d, 278e, 278g to 278g–4, 3703, 3706, 3708, 3710, 3710c, and 3713 of this title, and section 5315 of Title 5, Government Organization and Employees, repealing sections 280 to 282 of this title, enacting provisions set out as notes under this section, sections 272, 272, 278<i>l</i>, and 278n of this title, and section 1803 of Title 30, Mineral Lands and Mining, and amending provisions set out as a note under this section\] may be cited as the ‘Technology Competitiveness Act’.”
+Pub. L. 100–418, title V, §5101, Aug. 23, 1988, 102 Stat. 1426, provided that: “This part \[part I (§§5101–5164) of subtitle B of title V of Pub. L. 100–418, enacting sections 205j–1, 278i to 278<i>o</i>, 282a, 1532, 1533, 3704a, and 4632 of this title, amending this section, sections 205a, 205b, 205k, 272 to 275, 278, 278b, 278d, 278e, 278g to 278g–4, 3703, 3706, 3708, 3710, 3710c, and 3713 of this title, and section 5315 of Title 5, Government Organization and Employees, repealing sections 280 to 282 of this title, enacting provisions set out as notes under this section, sections 272, 272, 278<i>l</i>, and 278n of this title, and section 1803 of Title 30, Mineral Lands and Mining, and amending provisions set out as a note under this section\] may be cited as the ‘Technology Competitiveness Act’.”
 
 #### Short Title
 

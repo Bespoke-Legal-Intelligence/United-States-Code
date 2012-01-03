@@ -26,9 +26,5 @@ Another section 503 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1135, 
 
 #### Prior Provisions
 
-A prior section 5782, Pub. L. 93–415, title V, §503, as added Pub. L. 102–586, §5(a), Nov. 4, 1992, 106 Stat. 5027, defined “State advisory group”, prior to the general amendment of this subchapter by Pub. L. 107–273.
-
-#### Change of Name
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+A prior section 5782, Pub. L. 93–415, title V, §503, as added Pub. L. 102–586, §5(a), Nov. 4, 1992, 106 Stat. 5027,defined “State advisory group”, prior to the general amendment of this subchapter by Pub. L. 107–273.
 

@@ -36,7 +36,7 @@ The Endangered Species Act of 1973, referred to in par. (9)(B), is Pub. L. 93–
 
 <b>1994</b>—Par. (2). Pub. L. 103–375, §6(2)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘designated State agency’ means the State fish and wildlife agency, which shall be construed to mean any department, or any division of any department of another name, of a State that is empowered under its laws to exercise the functions ordinarily exercised by a State fish and wildlife agency.”
 
-Par. (4). Pub. L. 103–375, §6(2)(B), made technical amendment to reference to section 3744(g) of this title to correct reference to corresponding provision of original act.
+Par. (4). Pub. L. 103–375, §6(2)(B), made technical amendment to reference to section 3744(g) of this titleto correct reference to corresponding provision of original act.
 
 Par. (8). Pub. L. 103–375, §6(3)(B), added par. (8). Former par. (8) redesignated (9).
 

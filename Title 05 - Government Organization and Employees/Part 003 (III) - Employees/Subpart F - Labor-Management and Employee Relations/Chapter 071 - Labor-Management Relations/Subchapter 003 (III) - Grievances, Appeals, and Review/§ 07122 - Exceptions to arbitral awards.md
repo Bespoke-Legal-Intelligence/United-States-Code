@@ -6,7 +6,7 @@
 
 &emsp;(2) on other grounds similar to those applied by Federal courts in private sector labor-management relations;
 
-> the Authority may take such action and make such recommendations concerning the award as it considers necessary, consistent with applicable laws, rules, or regulations.
+> the Authority may take such action and make such recommendations concerning the award asit considers necessary, consistent with applicable laws, rules, or regulations.
 
 (b) If no exception to an arbitrator's award is filed under subsection (a) of this section during the 30-day period beginning on the date the award is served on the party, the award shall be final and binding. An agency shall take the actions required by an arbitrator's final award. The award may include the payment of backpay (as provided in section 5596 of this title).
 
@@ -14,5 +14,5 @@
 
 #### Amendments
 
-1984—Subsec. (b). Pub. L. 98–224 amended subsec. (b) generally, substituting “beginning on the date the award is served on the party” for “beginning on the date of such award”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–224 amended subsec. (b) generally, substituting “beginning on the date the award is served on the party” for “beginning on the date of such award”.
 

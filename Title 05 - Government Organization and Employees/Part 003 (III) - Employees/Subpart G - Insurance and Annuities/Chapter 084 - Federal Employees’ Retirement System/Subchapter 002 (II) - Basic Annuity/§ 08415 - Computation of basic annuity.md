@@ -116,11 +116,11 @@ The date of enactment of this paragraph, referred to in subsec. (<i>l</i>)(2)(B)
 
 #### Amendments
 
-2009—Subsecs. (k) to (m). Pub. L. 111–84 redesignated subsec. (k), relating to inclusion of unused sick leave in computing an annuity of a registered nurse with the Veterans Health Administration, as (<i>l</i>), designated existing provisions as par. (1), added par. (2), and redesignated former subsec. (<i>l</i>) as (m).
+<b>2009</b>—Subsecs. (k) to (m). Pub. L. 111–84 redesignated subsec. (k), relating to inclusion of unused sick leave in computing an annuity of a registered nurse with the Veterans Health Administration, as (<i>l</i>), designated existing provisions as par. (1), added par. (2), and redesignated former subsec. (<i>l</i>) as (m).
 
-2007—Subsec. (h)(2). Pub. L. 110–161 substituted “air traffic controller, or customs and border protection officer” for “or air traffic controller.” in concluding provisions.
+<b>2007</b>—Subsec. (h)(2). Pub. L. 110–161 substituted “air traffic controller, or customs and border protection officer” for “or air traffic controller.” in concluding provisions.
 
-2003—Subsecs. (e) to (h). Pub. L. 108–176, §226(b)(1), added subsec. (e) and redesignated former subsecs. (e) to (g) as (f) to (h), respectively. Former subsec. (h) redesignated (i).
+<b>2003</b>—Subsecs. (e) to (h). Pub. L. 108–176, §226(b)(1), added subsec. (e) and redesignated former subsecs. (e) to (g) as (f) to (h), respectively. Former subsec. (h) redesignated (i).
 
 Subsec. (i). Pub. L. 108–176, §226(b)(1)(A), redesignated subsec. (h) as (i). Former subsec. (i) redesignated (j).
 
@@ -136,23 +136,23 @@ Pub. L. 108–92, §1(a)(1), redesignated second subsec. (i), relating to inclus
 
 Subsec.(<i>l</i>). Pub. L. 108–92, §1(a)(2), added subsec. (<i>l</i>).
 
-2002—Subsec. (i). Pub. L. 107–135 added subsec. (i) relating to inclusion of unused sick leave in computing an annuity of a registered nurse with the Veterans Health Administration.
+<b>2002</b>—Subsec. (i). Pub. L. 107–135 added subsec. (i) relating to inclusion of unused sick leave in computing an annuity of a registered nurse with the Veterans Health Administration.
 
-2001—Subsec. (j). Pub. L. 107–107 added subsec. (j).
+<b>2001</b>—Subsec. (j). Pub. L. 107–107 added subsec. (j).
 
-2000—Subsec. (g). Pub. L. 106–553 inserted “member of the Supreme Court Police,” after “law enforcement officer,” in concluding provisions.
+<b>2000</b>—Subsec. (g). Pub. L. 106–553 inserted “member of the Supreme Court Police,” after “law enforcement officer,” in concluding provisions.
 
 Subsec. (i). Pub. L. 106–571 added subsec. (i).
 
-1999—Subsec. (g)(2). Pub. L. 106–65 substituted “military technician (dual status)” for “military reserve technician” in concluding provisions.
+<b>1999</b>—Subsec. (g)(2). Pub. L. 106–65 substituted “military technician (dual status)” for “military reserve technician” in concluding provisions.
 
-1998—Subsec. (g)(2). Pub. L. 105–261 inserted “nuclear materials courier,” after “firefighter,” in concluding provisions.
+<b>1998</b>—Subsec. (g)(2). Pub. L. 105–261 inserted “nuclear materials courier,” after “firefighter,” in concluding provisions.
 
-1997—Subsec. (h). Pub. L. 105–61 added subsec. (h).
+<b>1997</b>—Subsec. (h). Pub. L. 105–61 added subsec. (h).
 
-1994—Subsec. (d). Pub. L. 103–283 substituted “(a), (b), or (c)” for “(a) or (b)”.
+<b>1994</b>—Subsec. (d). Pub. L. 103–283 substituted “(a), (b), or (c)” for “(a) or (b)”.
 
-1986—Subsec. (f)(2). Pub. L. 99–556 inserted “8412(g) or” in subpars. (A) and (B).
+<b>1986</b>—Subsec. (f)(2). Pub. L. 99–556 inserted “8412(g) or” in subpars. (A) and (B).
 
 #### Effective Date of 2009 Amendment
 

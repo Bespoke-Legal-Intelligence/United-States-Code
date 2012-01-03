@@ -36,7 +36,7 @@ Criminal Penalty.—
 
 &emsp;(1)
 
-In general.—Whoever violates this section shall be fined in accordance with title 18,United States Code, imprisoned for not more than 5 years, or both.
+In general.—Whoever violates this section shall be fined in accordance with title 18, United States Code, imprisoned for not more than 5 years, or both.
 
 &emsp;(2)
 

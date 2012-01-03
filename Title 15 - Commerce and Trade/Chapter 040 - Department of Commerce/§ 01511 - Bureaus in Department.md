@@ -36,11 +36,11 @@ Section was formerly classified to section 597 of Title 5 prior to the general r
 
 #### Change of Name
 
-“United States Travel and Tourism Administration” substituted for “United States Travel Service” in par. (b), pursuant to section 4(a)(1) of Pub. L. 97–63, which established United States Travel and Tourism Administration in place of United States Travel Service, effective Oct. 1, 1981. See section 2124 of Title 22, Foreign Relations and Intercourse.
+“United States Travel and Tourism Administration” substituted for “United States Travel Service” in par.\(b), pursuant to section 4(a)(1) of Pub. L. 97–63, which established United States Travel and Tourism Administration in place of United States Travel Service, effective Oct. 1, 1981. See section 2124 of Title 22, Foreign Relations and Intercourse.
 
-“Patent and Trademark Office” substituted for “Patent Office”, in par. (d) pursuant to section 3 of Pub. L. 93–596, set out as a note under section 1 of Title 35, Patents.
+“Patent and Trademark Office” substituted for “Patent Office”, in par. (d) \[now par. (4)\] pursuant to section 3 of Pub. L. 93–596, set out as a note under section 1 of Title 35, Patents.
 
-In order to implement the provisions of Reorganization Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, as amended, set out below, the following organizational names appearing in chapter IX of subtitle B of Title 15, Code of Federal Regulations, which coversthe administration of the National Oceanic and Atmospheric Administration, were changed by order of the Acting Associate Administrator, 35 F.R. 19249, Dec. 19, 1970, as follows: Environmental Science Services Administration to National Oceanic and Atmospheric Administration (ESSA to NOAA); Coast and Geodetic Survey to National Ocean Survey; and Weather Bureau to National Weather Service.
+In order to implement the provisions of Reorganization Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, as amended, set out below, the following organizational names appearing in chapter IX of subtitle B of Title 15, Code of Federal Regulations, which covers the administration of the National Oceanic and Atmospheric Administration, were changed by order of the Acting Associate Administrator, 35 F.R. 19249, Dec. 19, 1970, as follows: Environmental Science Services Administration to National Oceanic and Atmospheric Administration (ESSA to NOAA); Coast and Geodetic Survey to National Ocean Survey; and Weather Bureau to National Weather Service.
 
 #### Effective Date of 1999 Amendment
 
@@ -118,7 +118,7 @@ The following are hereby transferred to the Secretary of Commerce:
 
 (a) All functions vested by law in the Bureau of Commercial Fisheries of the Department of the Interior or in its head, together with all functions vested by law in the Secretary of the Interior or the Department of the Interior which are administered through that Bureau or are primarily related to the Bureau, exclusive of functions with respect to (1) Great Lakes fishery research and activities related to the Great Lakes Fisheries Commission, (2) Missouri River Reservoir research, (3) the Gulf Breeze Biological Laboratory of the said Bureau at Gulf Breeze, Florida, and (4) Trans-Alaska pipeline investigations.
 
-(b) The functions vested in the Secretary of the Interior by the Act of September 22, 1959 (Public Law 86–359, 73 Stat. 642, 16 U.S.C. 760c–760g; relating to migratory marine species of game fish).
+(b) The functions vested in the Secretary of the Interior by the Act of September 22, 1959 (Public Law 86–359, 73 Stat. 642, 16 U.S.C. 760c \[probably means 760e\]–760g; relating to migratory marine species of game fish).
 
 (c) The functions vested by law in the Secretary of the Interior, or in the Department of the Interior or in any officer or instrumentality of that Department, which are administered through the Marine Minerals Technology Center of the Bureau of Mines.
 
@@ -126,7 +126,7 @@ The following are hereby transferred to the Secretary of Commerce:
 
 (e) Those functions vested in the Secretary of Defense or in any officer, employee, or organizational entity of the Department of Defense by the provision of Public Law 91–144, 83 Stat. 326, under the heading “Operation and maintenance, general” with respect to “surveys and charting of northern and northwestern lakes and connecting waters,” or by other law, which come under the mission assigned as of July 1, 1969, to the United States Army Engineer District, Lake Survey, Corps of Engineers, Department of the Army and relate to (1) the conduct of hydrographic surveys of the Great Lakes and their outflow rivers, Lake Champlain, New York State Barge Canals, and the Minnesota-Ontario border lakes, and the compilation and publication of navigation charts, including recreational aspects, and the Great Lakes Pilot for the benefit and use of the public, (2) the conception, planning, and conduct of basic research and development in the fields of water motion, water characteristics, water quantity, and ice and snow, and (3) the publication of data and the results of research projects in forms useful to the Corps of Engineers and the public, and the operation of a Regional Data Center for the collection, coordination, analysis, and the furnishing to interested agencies of data relating to water resources of the Great Lakes.
 
-(f) So much of the functions of the transferor officers and agencies referred to in or affected by the foregoing provisions of this section as is incidental to or necessary for the performance by or under the Secretary ofCommerce of the functions transferred by those provisions or relates primarily to those functions. The transfers to the Secretary of Commerce made by this section shall be deemed to include the transfer of authority, provided by law, to prescribe regulations relating primarily to the transferred functions.
+(f) So much of the functions of the transferor officers and agencies referred to in or affected by the foregoing provisions of this section as is incidental to or necessary for the performance by or under the Secretary of Commerce of the functions transferred by those provisions or relates primarily to those functions. The transfers to the Secretary of Commerce made by this section shall be deemed to include the transfer of authority, provided by law, to prescribe regulations relating primarily to the transferred functions.
 
 #### Sec. 2. Establishment of Administration
 

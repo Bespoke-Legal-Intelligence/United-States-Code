@@ -8,11 +8,11 @@
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–171 inserted “or swine production contract” after “poultry growing arrangement”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–171 inserted “or swine production contract” after “poultry growing arrangement”.
 
-1987—Subsec. (a). Pub. L. 100–173 inserted “the purchase or sale of poultry, or relating to any poultry growing arrangement,” after “livestock,”.
+<b>1987</b>—Subsec. (a). Pub. L. 100–173 inserted “the purchase or sale of poultry, or relating to any poultry growing arrangement,” after “livestock,”.
 
-1976—Subsec. (a). Pub. L. 94–410 struck out references to violations of specific sections and added packers to categories of regulated persons against whom private action could be brought for violation of chapter.
+<b>1976</b>—Subsec. (a). Pub. L. 94–410 struck out references to violations of specific sections and added packers to categories of regulated persons against whom private action could be brought for violation of chapter.
 
 #### Effective Date of 1987 Amendment
 

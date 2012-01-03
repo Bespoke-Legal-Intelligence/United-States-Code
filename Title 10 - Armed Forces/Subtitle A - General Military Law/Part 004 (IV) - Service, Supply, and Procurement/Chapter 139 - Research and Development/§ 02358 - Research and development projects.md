@@ -88,6 +88,38 @@ Requirement of Potential Military Relationship.—Funds appropriated to the Depa
 
 For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 2302 of this title.
 
+#### Advanced Rotorcraft Flight Research and Development
+
+Pub. L. 112–81, div. A, title II, §222, Dec. 31, 2011, 125 Stat. 1336, provided that:
+
+“(a)
+
+Program Authorized.—The Secretary of the Army may conduct a program for flight research and demonstration of advanced rotorcraft technology.
+
+“(b)
+
+Goals and Objectives.—The goals and objectives of the program authorized by subsection (a) are as follows:
+
+&emsp;“(1) To flight demonstrate the ability of advanced rotorcraft technology to expand the flight envelope and improve the speed, range, payload, ceiling, survivability, reliability, and affordability of current and future rotorcraft of the Department of Defense.
+
+&emsp;“(2) To mature advanced rotorcraft technology and obtain flight-test data to—
+
+&emsp;&emsp;“(A) support the assessment of such technology for future rotorcraft platform development programs of the Department; and
+
+&emsp;&emsp;“(B) have the ability to add such technology to the existing rotorcraft of the Department to extend the capability and life of such rotorcraft until next-generation platforms are fielded.
+
+“(c)
+
+Elements of Program.—The program authorized by subsection (a) may include—
+
+&emsp;“(1) integration and demonstration of advanced rotorcraft technology to meet the goals and objectives described in subsection (b); and
+
+&emsp;“(2) flight demonstration of the advanced rotorcraft technology test bed under the experimental airworthiness process of the Federal Aviation Administration or other appropriate airworthiness process approved by the Secretary of Defense.
+
+“(d)
+
+Competition.—In awarding a contract under this section, the Secretary shall use competitive procedures in accordance with the requirements of section 2304 of title 10, United States Code, and shall consider a timelyoffer submitted by a small business concern (as defined in section 2225(f)(3) of such title) in accordance with the specifications and evaluation factors specified in the solicitation.”
+
 #### Program for Research, Development, and Deployment of Advanced Ground Vehicles, Ground Vehicle Systems, and Components
 
 Pub. L. 111–383, div. A, title II, §214, Jan. 7, 2011, 124 Stat. 4164, provided that:
@@ -156,7 +188,7 @@ Coordination With Other Federal Agencies.—The program authorized by subsection
 
 #### Pilot Program To Include Technology Protection Features During Research and Development of Defense Systems
 
-Pub. L. 111–383, div. A, title II, §243, Jan. 7, 2011, 124 Stat. 4178, provided that:
+Pub. L. 111–383, div. A, title II, §243, Jan. 7, 2011, 124 Stat. 4178, as amended by Pub. L. 112–81, div. A, title II, §252, Dec. 31, 2011, 125 Stat. 1347, provided that:
 
 “(a)
 
@@ -164,13 +196,23 @@ Pilot Program.—The Secretary of Defense shall carry out a pilot program to dev
 
 “(b)
 
-Annual Reports.—Not later than December 31 of each year in which the Secretary carries out the pilot program established under this section, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the pilot program, including a list of each designated system included in the program.
+Cost-sharing.—Any contract for the design or development of a system resulting from activities under subsection (a) for the purpose of enhancing or enabling the exportability of the system either—
+
+&emsp;“(1) for the development of program protection strategies for the system; or
+
+&emsp;“(2) for the design and incorporation of exportability features into the system,
+
+> shall include a cost-sharing provision that requires the contractor to bear at least one-half of the cost of such activities.
 
 “(c)
 
-Termination.—The pilot program established under this section shall terminate on October 1, 2015.
+Annual Reports.—Not later than December 31 of each year in which the Secretary carries out the pilot program established under this section, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the pilot program, including a list of each designated system included in the program.
 
 “(d)
+
+Termination.—The pilot program established under this section shall terminate on October 1, 2015.
+
+“(e)
 
 Definitions.—In this section:
 
@@ -192,7 +234,7 @@ Program Required.—
 
 &emsp;“(1)
 
-Demonstration and assessment.—The Secretary of Defense, acting through the Executive Agent for Non-lethal Weapons and in coordination with the Secretaries of the military departments and the combatant commanders, shall carry out a program to demonstrate and assess the utility and effectiveness of non-lethal weapons to provide escalation of force options in counter-insurgency operations.
+Demonstration and assessment.—The Secretary of Defense, acting through the Executive Agent for Non-lethal Weapons and in coordination with the Secretaries of the military departments andthe combatant commanders, shall carry out a program to demonstrate and assess the utility and effectiveness of non-lethal weapons to provide escalation of force options in counter-insurgency operations.
 
 &emsp;“(2)
 
@@ -222,7 +264,7 @@ Elements.—The report under paragraph (1) shall include the following:
 
 #### Mechanisms To Provide Funds for Defense Laboratories for Research and Development of Technologies for Military Missions
 
-Pub. L. 110–417, \[div. A\], title II, §219, Oct. 14, 2008, 122 Stat. 4389, as amended by Pub. L. 111–84, div. B, title XXVIII, §2801(c), Oct. 28, 2009, 123 Stat. 2660, provided that:
+Pub. L. 110–417, \[div. A\], title II, §219, Oct. 14, 2008, 122 Stat. 4389, as amended by Pub. L. 111–84, div. B, title XXVIII, §2801(c), Oct. 28, 2009, 123 Stat. 2660; Pub. L. 112–81, div. A, title II, §253, Dec. 31, 2011, 125 Stat. 1347, provided that:
 
 “(a)
 
@@ -250,11 +292,11 @@ Annual Report on Use of Authority.—Not later than March 1 of each year, the Se
 
 “(c)
 
-Sunset.—The authority under subsection (a) shall expire on October 1, 2013.”
+Sunset.—The authority under subsection (a) shall expire on September 30, 2016.”
 
 #### Science and Technology Investment Strategy To Defeat or Counter Improvised Explosive Devices
 
-Pub. L. 110–417, \[div. A\], title XV, §1504, Oct. 14, 2008, 122 Stat. 4650, as amended by Pub. L. 111–383, div. A, title IX, §901(a)(2), Jan. 7, 2011, 124 Stat. 4317, provided that:
+Pub. L. 110–417, \[div. A\], title XV, §1504, Oct. 14, 2008, 122 Stat. 4650, as amended by Pub. L. 111–383, div. A, title IX, §901(a)(2), Jan. 7, 2011, 124 Stat. 4317; Pub. L. 112–81, div. A, title X, §1062(b), Dec. 31, 2011, 125 Stat. 1585, provided that:
 
 “(a)
 
@@ -280,15 +322,11 @@ Elements.—The strategy developed under subsection (a) shall include the follow
 
 &emsp;“(8) Identification of the measures of effectiveness for the overall Department of Defense science and technology counter-IED effort.
 
-&emsp;“(9) Such other matters as the Director of the JIEDDO and the Assistant Secretary of Defense for Research and Engineering consider appropriate.
-
-“(c)
-
-Report.—Not later than March 1, 2009, and each March 1 thereafter through March 1, 2013, the Director of the JIEDDO and the Assistant Secretary of Defense for Research and Engineering shall jointly submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report describing the implementation of the strategy developed under subsection (a). The report may be in unclassified and classified format, as necessary.”
+&emsp;“(9) Such other matters as the Director of the JIEDDO and the Assistant Secretary of Defense for Research and Engineering consider appropriate.”
 
 #### Hypersonics Development
 
-Pub. L. 109–364, div. A, title II, §218, Oct. 17, 2006, 120 Stat. 2126, provided that:
+Pub. L. 109–364, div. A, title II, §218, Oct. 17, 2006, 120 Stat. 2126, as amended by Pub. L. 112–81, div. A, title II, §241, Dec. 31, 2011, 125 Stat. 1343, provided that:
 
 “(a)
 
@@ -372,7 +410,7 @@ Certification.—The joint technology office shall, as a result of each review u
 
 &emsp;“(3)
 
-Termination.—The requirements of this subsection shall terminate after the submittal to Congress of the budget for fiscal year 2012 pursuant to section 1105 of title 31, United States Code.
+Termination.—The requirements of this subsection shall terminate after the submittal to Congress of the budget for fiscal year 2016 pursuant to section 1105 of title 31, United States Code.
 
 “(f)
 
@@ -388,7 +426,7 @@ Program Required.—The Secretary of Defense shall establish a program for resea
 
 “(b)
 
-Description of Program.—The program under subsection (a) shall be carried out collaboratively by the Assistant Secretary of Defense for Research andEngineering, the Secretary of the Navy, the Secretary of the Air Force, the Secretary of the Army, and other appropriate elements of the Department of Defense. The program shall include the following activities:
+Description of Program.—The program under subsection (a) shall be carried out collaboratively by the Assistant Secretary of Defense for Research and Engineering, the Secretary of the Navy, the Secretary of the Air Force, the Secretary of the Army, and other appropriate elements of the Department of Defense. The program shall include the following activities:
 
 &emsp;“(1) Activities needed for development and maturation of advanced vacuum electronics technologies needed to meet the requirements of the Department of Defense.
 
@@ -476,7 +514,7 @@ Report.—(1) The Secretary shall submit to the congressional defense committees
 
 #### Research and Development of Defense Biomedical Countermeasures
 
-Pub. L. 108–136, div. A, title XVI, §1601, Nov. 24, 2003, 117 Stat. 1680, provided that:
+Pub. L. 108–136, div. A, title XVI, §1601, Nov. 24, 2003, 117 Stat. 1680, as amended by Pub. L. 112–81, div. A, title X, §1062(g)(3), Dec. 31, 2011, 125 Stat. 1585, provided that:
 
 “(a)
 
@@ -504,7 +542,7 @@ Expedited Procurement Authority.—(1) For any procurement of property or servic
 
 &emsp;“(C) Section 2313 of title 10, United States Code (relating to the examination of contractor records).
 
-“(3) The Secretary shall institute appropriate internal controls for use of the authority under paragraph (1), including requirements for documenting the justification for each use of such authority.
+“(3) The Secretary shall institute appropriate internal controls for use of the authority under paragraph\(1), including requirements for documenting the justification for each use of such authority.
 
 “(d)
 
@@ -528,11 +566,9 @@ Department of Defense Facilities Authority.—(1) If the Secretary determines th
 
 “(4) If the Secretary determines: (A) that the facility is vital to national security or to the protection of health, safety, or the quality of the environment; and (B) the requirement for the facility is so urgent that the advance notification in paragraph (3) and the subsequent 21-day deferral of the facility project would threaten the life, health, or safety of personnel, or would otherwise jeopardize national security, the Secretary may obligate funds for the facility and notify the congressional defense committees within seven days after the date on which appropriated funds are obligated with the information required in paragraph (3).
 
-“(5) The Secretary shall submit to the congressional defense committees a quarterly report detailing any use of the authority provided by paragraph (4), including costs incurred or to be incurred by the United States as a result of the use of the authority.
+“(5) Nothing in this section shall be construed to authorize the Secretary to acquire, construct, lease, or improve a facility having general utility beyond the specific purposes of the program.
 
-“(6) Nothing in this section shall be construed to authorize the Secretary to acquire, construct, lease, or improve a facility having general utility beyond the specific purposes of the program.
-
-“(7) In this subsection, the term ‘facility’ has the meaning given the term in section 2801(c) of title 10, United States Code.
+“(6) In this subsection, the term ‘facility’ has the meaning given the term in section 2801(c) of title 10, United States Code.
 
 “(e)
 
@@ -788,7 +824,7 @@ Pub. L. 105–261, div. A, title II, §246, Oct. 17, 1998, 112 Stat. 1955, as am
 
 Pub. L. 105–18, title I, §307, June 12, 1997, 111 Stat. 169, provided that: “For the purposes of implementing the 1997 Defense Experimental Program to Stimulate Competitive Research (DEPSCoR), the term ‘State’ means a State of the United States, the District of Columbia, Puerto Rico, Guam and the Virgin Islands of the United States, American Samoa and the Commonwealth of the Northern Mariana Islands.”
 
-Pub. L. 103–337, div. A, title II, §257, Oct. 5, 1994, 108 Stat. 2705, as amended by Pub. L. 104–106, div. A, title II, §273, Feb. 10, 1996, 110 Stat. 239; Pub. L. 104–201, div. A, title II, §264, Sept. 23, 1996, 110 Stat. 2465; Pub. L. 105–85, div. A, title II, §243, Nov. 18, 1997, 111 Stat. 1667; Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717; Pub. L. 107–314, div. A, title II, §247, Dec. 2, 2002, 116 Stat. 2502; Pub. L. 110–181, div. A, title II, §239, Jan. 28, 2008, 122 Stat. 48; Pub. L. 111–383, div. A, title IX, §901(a)(2), Jan. 7, 2011, 124 Stat. 4317, provided that:
+Pub. L. 103–337, div. A, title II, §257, Oct. 5, 1994, 108 Stat. 2705, as amended by Pub. L. 104–106, div. A, title II, §273, Feb. 10, 1996, 110 Stat. 239; Pub. L. 104–201, div. A, title II, §264, Sept. 23, 1996, 110 Stat. 2465; Pub. L. 105–85, div. A, title II, §243, Nov. 18, 1997, 111 Stat. 1667;Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717; Pub. L. 107–314, div. A, title II, §247, Dec. 2, 2002, 116 Stat. 2502; Pub. L. 110–181, div. A, title II, §239, Jan. 28, 2008, 122 Stat. 48; Pub. L. 111–383, div. A, title IX, §901(a)(2), Jan. 7, 2011, 124 Stat. 4317, provided that:
 
 “(a)
 
@@ -892,7 +928,7 @@ Conversion Procedures.—The Secretary of Defense shall implement procedures to 
 
 Limitation.—The science and technology reinvention laboratories, as so designated by subsection (a), may not implement any personnel system, other than a personnel system under an appropriate demonstration project (as referred to in such section 342(b) \[set out below\]), without prior congressional authorization.”
 
-Pub. L. 110–181, div. A, title XI, §1107, Jan. 28, 2008, 122 Stat. 357, as amended by Pub. L. 110–417, \[div. A\], title XI, §1109, Oct. 14, 2008, 122 Stat. 4618; Pub. L. 111–84, div. A, title X, §1073(d), Oct. 28, 2009, 123 Stat. 2475; Pub. L. 111–383, div. A, title XI, §1101(b), Jan. 7, 2011, 124 Stat. 4382, provided that:
+Pub. L. 110–181, div. A, title XI, §1107, Jan. 28, 2008, 122 Stat. 357, as amended by Pub. L. 110–417, \[div. A\], title XI, §1109, Oct. 14, 2008, 122 Stat. 4618; Pub. L. 111–84, div. A, title X, §1073(d), Oct. 28, 2009, 123 Stat. 2475; Pub. L. 111–383, div. A, title XI, §1101(b), Jan. 7, 2011, 124 Stat. 4382; Pub. L. 112–81, div. A, title X, §1066(b)(2), Dec. 31, 2011, 125 Stat. 1588, provided that:
 
 “(a)
 
@@ -908,7 +944,7 @@ Other Laboratories.—Any flexibility available to any demonstration laboratory 
 
 “(d)
 
-Submission of List and Description.—Not later than March 1 of each year, beginning with March 1, 2008, the Secretary of Defense shall submit to Congress a list and description of the demonstration project notices, amendments, and changes requested by the laboratories during the preceding calendar year. The list shall include all approved and disapproved notices, amendments, and changes, and the reasons for disapproval or delay in approval.
+Submission of List and Description.—Not later than March 1 of each year, the Secretary of Defense shall submit to Congress a report containing a list and description of the demonstration project notices, amendments, and changes requested by the laboratories during the preceding calendar year. The list shall include all approved and disapproved notices, amendments, and changes, and the reasons for disapproval or delay in approval.
 
 “(e)
 
@@ -916,11 +952,11 @@ Status Reports.—
 
 &emsp;“(1)
 
-In general.—Not later than November 29, 2008, and not later than March 1 of each year thereafter, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report providing, with respect to the year before the year in which such report is submitted, the information described in paragraph (2).
+In general.—The Secretary shall include in each report under subsection (d) the information described in paragraph (2).
 
 &emsp;“(2)
 
-Information required.—Each report under this subsection shall describe the following:
+Information required.—Each report under subsection (d) shall describe the following:
 
 &emsp;&emsp;“(A) The actions taken by the Secretary of Defense under subsection (a) during the year covered by the report.
 
@@ -954,7 +990,7 @@ Pub. L. 103–337, div. A, title III, §342(b), Oct. 5, 1994, 108 Stat. 2721, as
 
 &emsp;“(C) the Secretary shall exercise the authorities granted to the Office of Personnel Management under such section 4703.
 
-“(4) The employees of a laboratory covered by a personnel demonstration project carried out under this section \[enacting this note\] shall be exempt from, and may not be counted for the purposes of, any constraint or limitation in a statute or regulation in terms of supervisory ratios or maximum number of employees in any specific category or categories of employment thatmay otherwise be applicable to the employees. The employees shall be managed by the director of the laboratory subject to the supervision of the Under Secretary of Defense for Acquisition, Technology, and Logistics.
+“(4) The employees of a laboratory covered by a personnel demonstration project carried out under this section \[enacting this note\] shall be exempt from, and may not be counted for the purposes of, any constraint or limitation in a statute or regulation in terms of supervisory ratios or maximum number of employees in any specific category or categories of employment that may otherwise be applicable to the employees. The employees shall be managed by the director of the laboratory subject to the supervision of the Under Secretary of Defense for Acquisition, Technology, and Logistics.
 
 “(5) The limitations in section 5373 of title 5, United States Code, do not apply to the authority of the Secretary under this section to prescribe salary schedules and other related benefits.”
 
@@ -986,7 +1022,7 @@ Requirement for Analysis of Research.—In the case of a project of clinical res
 
 #### University Research Initiative Support Program
 
-Pub. L. 103–160, div. A, title VIII, §802, Nov. 30, 1993, 107 Stat. 1701, as amended by Pub. L. 104–106, div. A, title II, §275, Feb. 10, 1996, 110 Stat. 241; Pub. L. 104–201, div. A, title II, §263, Sept. 23, 1996, 110 Stat. 2465; Pub. L. 111–383, div. A, title IX, §901(a)(2), Jan. 7, 2011, 124 Stat. 4317, provided that:
+Pub. L. 103–160, div. A, title VIII, §802, Nov. 30, 1993, 107 Stat. 1701, as amended by Pub. L. 104–106, div. A,title II, §275, Feb. 10, 1996, 110 Stat. 241; Pub. L. 104–201, div. A, title II, §263, Sept. 23, 1996, 110 Stat. 2465; Pub. L. 111–383, div. A, title IX, §901(a)(2), Jan. 7, 2011, 124 Stat. 4317, provided that:
 
 “(a)
 
@@ -1036,7 +1072,7 @@ Pub. L. 92–436, title VI, §606, Sept. 29, 1972, 86 Stat. 740, provided that:
 
 “(b) The prohibition made by subsection (a) of this section as it applies to research and development funds shall not apply if the Secretary of Defense or his designee determines that the expenditure is a continuation or a renewal of a previous program with such institution which is likely to make a significant contribution to the defense effort.
 
-“(c) The Secretaries of the military departments shall furnish to the Secretary of Defense or his designee within 60 days after the date of enactment of this Act \[Sept. 29, 1972\] and each January 31 and June 30thereafter the names of any institution of higher learning which the Secretaries determine on such dates are affected by the prohibitions contained in this section.”
+“(c) The Secretaries of the military departments shall furnish to the Secretary of Defense or his designee within 60 days after the date of enactment of this Act \[Sept. 29, 1972\] and each January 31 and June 30 thereafter the names of any institution of higher learning which the Secretaries determine on such dates are affected by the prohibitions contained in this section.”
 
 Similar provisions were contained in the following prior authorization acts:
 

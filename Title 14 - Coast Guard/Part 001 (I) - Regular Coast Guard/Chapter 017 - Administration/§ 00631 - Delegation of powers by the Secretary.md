@@ -10,7 +10,7 @@ This section authorizes the Secretary to delegate to the Commandant any of the a
 
 #### Amendments
 
-1976—Pub. L. 94–546 substituted “Secretary” for “Secretary of the Treasury” wherever appearing and substituted “Commandant” for “Commandant of the Coast Guard”.
+<b>1976</b>—Pub. L. 94–546 substituted “Secretary” for “Secretary of the Treasury” wherever appearing and substituted “Commandant” for “Commandant of the Coast Guard”.
 
 #### Administrative Advisory Committees; Solicitation of Nominations for Membership; Publication in Federal Register; Disclosures to Congress; Compensation and Travel Expenses
 

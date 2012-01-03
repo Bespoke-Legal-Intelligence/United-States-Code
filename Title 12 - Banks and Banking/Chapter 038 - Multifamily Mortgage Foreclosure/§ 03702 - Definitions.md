@@ -22,7 +22,7 @@ As used in this chapter—
 
 &emsp;(5) “person” includes any individual, group of individuals, association, partnership, corporation, or organization;
 
-&emsp;(6) “record” and “recorded” included “register” and “registered” in the instance of registered land;
+&emsp;(6) “record” and “recorded” include “register” and “registered” in the instance of registered land;
 
 &emsp;(7) “security property” means the property, real, personal or mixed, or an interest in property, including leaseholds, life estate, reversionary interests, and any other estates under applicable State law, together with fixtures and other interests subject to the lien of the mortgage under applicable State law;
 
@@ -44,7 +44,7 @@ Section 801 of the Cranston-Gonzalez National Affordable Housing Act, referred t
 
 #### Amendments
 
-1992—Par. (2). Pub. L. 102–550 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “ ‘multifamily mortgage’ means a mortgage held by the Secretary pursuant to title II of the National Housing Act or section 312 of the House Act of 1964 covering any property, except a property on which there is located a one- to four-family residence;”.
+<b>1992</b>—Par. (2). Pub. L. 102–550 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “ ‘multifamily mortgage’ means a mortgage held by the Secretary pursuant to title II of the National Housing Act or section 312 of the House Act of 1964 covering any property, except a property on which there is located a one- to four-family residence;”.
 
 #### Termination of Trust Territory of the Pacific Islands
 

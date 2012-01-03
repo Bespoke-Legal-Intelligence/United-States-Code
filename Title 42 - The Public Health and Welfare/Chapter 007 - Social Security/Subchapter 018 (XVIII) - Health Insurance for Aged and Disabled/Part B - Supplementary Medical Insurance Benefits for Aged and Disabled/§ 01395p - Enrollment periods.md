@@ -12,7 +12,7 @@ In the case of individuals who first satisfy paragraph (1) or (2) of section 139
 
 #### (d) Eligible individuals on or after March 1, 1966
 
-In the case of an individual who first satisfies paragraph (1) or (2) of section 1395<i>o</i> of this title on or after March 1, 1966, his initial enrollment period shall begin on the first day of the third month before the month in which he first satisfies such paragraphs and shall end seven months later. Where the Secretary finds that an individual who has attained age 65 failed to enrollunder this part during his initial enrollment period (based on a determination by the Secretary of the month in which such individual attained age 65), because such individual (relying on documentary evidence) was mistaken as to his correct date of birth, the Secretary shall establish for such individual an initial enrollment period based on his attaining age 65 at the time shown in such documentary evidence (with a coverage period determined under section 1395q of this title as though he had attained such age at that time).
+In the case of an individual who first satisfies paragraph (1) or (2) of section 1395<i>o</i> of this title on or after March 1, 1966, his initial enrollment period shall begin on the first day of the third month before the month in which he first satisfies such paragraphs and shall end seven months later. Where the Secretary finds that an individual who has attained age 65 failed to enroll under this part during his initial enrollment period (based on a determination by the Secretary of the month in which such individual attained age 65), because such individual (relying on documentary evidence) was mistaken as to his correct date of birth, the Secretary shall establish for such individual an initial enrollment period based on his attaining age 65 at the time shown in such documentary evidence (with a coverage period determined under section 1395q of this title as though he had attained such age at that time).
 
 #### (e) General enrollment period
 
@@ -118,7 +118,7 @@ In applying this section in the case of an individual who is entitled to benefit
 
 (1) In the case of any individual who is a covered beneficiary (as defined in section 1072(5) of title 10) at the time the individual is entitled to part A under section 426(b) of this title or section 426–1 of this title and who is eligible to enroll but who has elected not to enroll (or to be deemed enrolled) during the individual's initial enrollment period, there shall be a special enrollment period described in paragraph (2).
 
-(2) The special enrollment period described in this paragraph, with respect to an individual, is the 12-month period beginning on the day afterthe last day of the initial enrollment period of the individual or, if later, the 12-month period beginning with the month the individual is notified of enrollment under this section.
+(2) The special enrollment period described in this paragraph, with respect to an individual, is the 12-month period beginning on the day after the last day of the initial enrollment period of the individual or, if later, the 12-month period beginning with the month the individual is notified of enrollment under this section.
 
 (3) In the case of an individual who enrolls during the special enrollment period provided under paragraph (1), the coverage period under this part shall begin on the first day of the month in which the individual enrolls, or, at the option of the individual, the first month after the end of the individual's initial enrollment period.
 
@@ -131,8 +131,6 @@ In applying this section in the case of an individual who is entitled to benefit
 (Aug. 14, 1935, ch. 531, title XVIII, §1837, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 304; amended Pub. L. 89–384, §3(a), (b), Apr. 8, 1966, 80 Stat. 105; Pub. L. 90–248, title I, §§136(a), 145(a), (b), Jan. 2, 1968, 81 Stat. 853, 859; Pub. L. 92–603, title II, §§201(c)(2), 206(a), 259(a), 260, Oct. 30, 1972, 86 Stat. 1372, 1378, 1448; Pub. L. 96–265, title I, §103(a)(3), June 9, 1980, 94 Stat. 444; Pub. L. 96–499, title IX, §945(a), (b), Dec. 5, 1980, 94 Stat. 2642; Pub. L. 97–35, title XXI, §2151(a)(1), (2), Aug. 13, 1981, 95 Stat. 801; Pub. L. 98–369, div. B, title III, §§2338(b), 2354(b)(10), July 18, 1984, 98 Stat. 1092, 1101; Pub. L. 99–272, title IX, §§9201(c)(1), 9219(a)(2), Apr. 7, 1986, 100 Stat. 171, 182; Pub. L. 99–509, title IX, §9319(c)(1)–(3), Oct. 21, 1986, 100 Stat. 2011; Pub. L. 99–514, title XVIII, §1895(b)(12), Oct. 22, 1986, 100 Stat. 2934; Pub. L. 101–239, title VI, §6202(b)(4)(C), (c)(1), Dec. 19, 1989, 103 Stat. 2233; Pub. L. 103–432, title I, §§147(f)(1)(A), 151(c)(2), Oct. 31, 1994, 108 Stat. 4430, 4435; Pub. L. 105–33, title IV, §§4581(b)(1), 4631(a)(2), Aug. 5, 1997, 111 Stat. 465, 486; Pub. L. 106–554, §1(a)(6) \[title I, §115(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–474; Pub. L. 109–171, title V, §5115(a)(2)(A), Feb. 8, 2006, 120 Stat. 45; Pub. L. 111–148, title III, §3110(a)(1), Mar. 23, 2010, 124 Stat. 420.)
 
 #### References in Text
-
-Part A, referred to in subsecs. (c), (h), (i)(4)(A), (j), and (<i>l</i>)(1), is classified to section 1395c et seq. of this title.
 
 Section 501 of the Internal Revenue Code of 1986, referred to in subsec. (k)(3)(A)(ii), is classified to section 501 of Title 26, Internal Revenue Code.
 
@@ -248,7 +246,7 @@ Section 4581(c) of Pub. L. 105–33 provided that: “The amendments made by thi
 
 #### Effective Date of 1994 Amendment
 
-Section 147(f)(1)(C) of Pub. L. 103–432 provided that: “The amendments made by subparagraphs (A) and (B)\[amending this section and section 1395q of this title\] shall take effect on the first day of the first month that begins after the expiration of the 120-day period that begins on the date of the enactment of this Act \[Oct. 31, 1994\].”
+Section 147(f)(1)(C) of Pub. L. 103–432 provided that: “The amendments made by subparagraphs (A) and (B) \[amending this section and section 1395q of this title\] shall take effect on the first day of the first month that begins after the expiration of the 120-day period that begins on the date of the enactment of this Act \[Oct. 31, 1994\].”
 
 Section 151(c)(2) of Pub. L. 103–432 provided that the amendment made by that section is effective as if included in the enactment of Pub. L. 103–66.
 

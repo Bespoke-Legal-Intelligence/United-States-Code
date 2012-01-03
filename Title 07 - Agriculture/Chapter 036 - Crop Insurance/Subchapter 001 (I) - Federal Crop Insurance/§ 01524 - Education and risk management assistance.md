@@ -22,7 +22,7 @@
 
 #### (A) Authority
 
-&emsp;&emsp;The Secretary, acting through the National Institute of Food and Agriculture,shall establish a program under which competitive grants are made to qualified public and private entities (including land grant colleges, cooperative extension services, and colleges or universities), as determined by the Secretary, for the purpose of educating agricultural producers about the full range of risk management activities, including futures, options, agricultural trade options, crop insurance, cash forward contracting, debt reduction, production diversification, farm resources risk reduction, and other risk management strategies.
+&emsp;&emsp;The Secretary, acting through the National Institute of Food and Agriculture, shall establish a program under which competitive grants are made to qualified public and private entities (including land grant colleges, cooperative extension services, and colleges or universities), as determined by the Secretary, for the purpose of educating agricultural producers about the full range of risk management activities, including futures, options, agricultural trade options, crop insurance, cash forward contracting, debt reduction, production diversification, farm resources risk reduction, and other risk management strategies.
 
 #### (B) Basis for grants
 
@@ -110,11 +110,11 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), the Commodity Credit Corporation shall make available to carry out this subsection not less than $10,000,000 for each fiscal year.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), the Commodity Credit Corporation shall makeavailable to carry out this subsection not less than $10,000,000 for each fiscal year.
 
-#### (ii) Exception for fiscal years 2008 through 2012
+#### (ii) Exception for certain fiscal years
 
-&emsp;&emsp;&emsp;For each of fiscal years 2008 through 2012, the Commodity Credit Corporation shall make available to carry out this subsection $15,000,000.
+&emsp;&emsp;&emsp;For each of fiscal years 2008 through 2014, the Commodity Credit Corporation shall make available to carry out this subsection $15,000,000.
 
 #### (C) Certain uses
 
@@ -126,7 +126,7 @@
 
 &emsp;&emsp;&emsp;(iii) 40 percent to conduct activities to carry out subparagraph (F) of paragraph (2) through the Risk Management Agency.
 
-(Feb. 16, 1938, ch. 30, title V, §524, as added Pub. L. 106–224, title I, §133, June 20, 2000, 114 Stat. 387; amended Pub. L. 107–171, title II, §2501, May 13, 2002, 116 Stat. 263; Pub. L. 108–199, div. A, title VII, §769, Jan. 23, 2004, 118 Stat. 40; Pub. L. 110–234, title I, §1603(g)(3), title II, §2801, title VII, §7511(c)(2), title XII, §12026, May 22, 2008, 122 Stat. 1011, 1085, 1267, 1390; Pub. L. 110–246, §4(a), title I, §1603(g)(3), title II, §2801, title VII, §7511(c)(2), title XII, §12026, June 18, 2008, 122 Stat. 1664, 1739, 1813, 2028, 2152.)
+(Feb. 16, 1938, ch. 30, title V, §524, as added Pub. L. 106–224, title I, §133, June 20, 2000, 114 Stat. 387; amended Pub. L. 107–171, title II, §2501, May 13, 2002, 116 Stat. 263; Pub. L. 108–199, div. A, title VII, §769, Jan. 23, 2004, 118 Stat. 40; Pub. L. 110–234, title I, §1603(g)(3), title II, §2801, title VII, §7511(c)(2), title XII, §12026, May 22, 2008, 122 Stat. 1011, 1085, 1267, 1390; Pub. L. 110–246, §4(a), title I, §1603(g)(3), title II, §2801, title VII, §7511(c)(2), title XII, §12026, June 18, 2008, 122 Stat. 1664, 1739, 1813, 2028, 2152; Pub. L. 112–55, div. A, title VII, §716(a), Nov. 18, 2011, 125 Stat. 582.)
 
 #### References in Text
 
@@ -138,7 +138,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (a)(1). Pub. L. 110–246, §12026(1), substituted “paragraph (5)” for “paragraph (4)” in introductory provisions.
+<b>2011</b>—Subsec. (b)(4)(B)(ii). Pub. L. 112–55 substituted “certain fiscal years” for “fiscal years 2008 through 2012” in heading and “2014” for “2012” in text.
+
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–246, §12026(1), substituted “paragraph (5)” for “paragraph (4)” in introductory provisions.
 
 Subsec. (a)(1)(B), (3)(A). Pub. L. 110–246, §7511(c)(2), substituted “the National Institute of Food and Agriculture” for “the Cooperative State Research, Education, and Extension Service”.
 
@@ -154,11 +156,11 @@ Subsec. (b)(4)(B)(ii), (iii). Pub. L. 110–246, §2801(b)(2), added cl. (ii) an
 
 Subsec. (b)(4)(C). Pub. L. 110–246, §2801(c), added subpar. (C).
 
-2004—Subsec. (b)(4)(B)(i). Pub. L. 108–199, §769(1), substituted “clauses (ii) and (iii)” for “clause (ii)”.
+<b>2004</b>—Subsec. (b)(4)(B)(i). Pub. L. 108–199, §769(1), substituted “clauses (ii) and (iii)” for “clause (ii)”.
 
 Subsec. (b)(4)(B)(iii). Pub. L. 108–199, §769(2), added cl. (iii).
 
-2002—Subsec. (b). Pub. L. 107–171 added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows:
+<b>2002</b>—Subsec. (b). Pub. L. 107–171 added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows:
 
 “(1)
 
@@ -215,4 +217,6 @@ Amendment by section 7511(c)(2) of Pub. L. 110–246 effective Oct. 1, 2009, see
 #### Effective Date
 
 Section effective Oct. 1, 2000, see section 171(b)(1)(A) of Pub. L. 106–224, set out as an Effective Date of 2000 Amendment note under section 1501 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -6,7 +6,7 @@ In General.—The Secretary of Defense shall establish within the Office of the 
 
 (b)
 
-Relationship to Department of Commerce.—The head of the Office shall consultclosely with appropriate officials of the Department of Commerce in order—
+Relationship to Department of Commerce.—The head of the Office shall consult closely with appropriate officials of the Department of Commerce in order—
 
 &emsp;(1) to minimize the duplication of any effort of the Department of Commerce by the Department of Defense regarding the monitoring of foreign activities related to defense critical technologies that have potential commercial uses; and
 

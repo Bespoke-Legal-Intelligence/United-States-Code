@@ -70,7 +70,7 @@ There is established the National Assessment Governing Board (hereafter in this 
 
 #### (A) Organizations
 
-&emsp;&emsp;The Secretary shall appoint new members to fill vacancies on the Assessment Board from among individuals who are nominated by organizations representing the type of individuals described in subsection (b)(1) ofthis section with respect to which the vacancy exists.
+&emsp;&emsp;The Secretary shall appoint new members to fill vacancies on the Assessment Boardfrom among individuals who are nominated by organizations representing the type of individuals described in subsection (b)(1) of this section with respect to which the vacancy exists.
 
 #### (B) Nominations
 
@@ -223,10 +223,6 @@ Subsec. (h). Pub. L. 107–279, §401(c)(2), substituted “Assessment Board” 
 <b>2000</b>—Subsec. (c)(1). Pub. L. 106–554, §1(a)(1) \[title III, §307(1)\], substituted “4 years” for “3 years”.
 
 Subsec. (c)(4). Pub. L. 106–554, §1(a)(1) \[title III, §307(2)\], added par. (4).
-
-#### Change of Name
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effective Date of 2002 Amendment
 

@@ -32,17 +32,15 @@ Federal financial institution regulatory agency.—The term “Federal financial
 
 &emsp;&emsp;(B) the Board of Governors of the Federal Reserve System;
 
-&emsp;&emsp;(C) the Office of Thrift Supervision;
+&emsp;&emsp;(C) the Federal Deposit Insurance Corporation;
 
-&emsp;&emsp;(D) the Federal Deposit Insurance Corporation;
+&emsp;&emsp;(D) the Federal Housing Finance Agency;
 
-&emsp;&emsp;(E) the Federal Housing Finance Agency;
+&emsp;&emsp;(E) the Farm Credit Administration;
 
-&emsp;&emsp;(F) the Farm Credit Administration;
+&emsp;&emsp;(F) the Farm Credit System Insurance Corporation; and
 
-&emsp;&emsp;(G) the Farm Credit System Insurance Corporation; and
-
-&emsp;&emsp;(H) the Small Business Administration.
+&emsp;&emsp;(G) the Small Business Administration.
 
 &emsp;(3)
 
@@ -60,10 +58,6 @@ Loan.—The term “loan” does not include any credit card account established
 
 (Added Pub. L. 108–198, §2(a), Dec. 19, 2003, 117 Stat. 2899; amended Pub. L. 110–289, div. A, title II, §1216(c), July 30, 2008, 122 Stat. 2792; Pub. L. 111–203, title III, §377(1), July 21, 2010, 124 Stat. 1569.)
 
-#### Amendment of Subsection (c)(2)
-
-<i>Pub. L. 111–203, title III, §§351, 377(1), July 21, 2010, 124 Stat. 1546, 1569, provided that, effective on the transfer date, subsection (c)(2) of this section is amended by striking subparagraph (C) and by redesignating subparagraphs (D) through (H) as subparagraphs (C) through (G), respectively. See Effective Date of 2010 Amendment note below.</i>
-
 #### Prior Provisions
 
 A prior section 212, acts June 25, 1948, ch. 645, 62 Stat. 694, §212, formerly §217; Pub. L. 85–699, title VII, §701(a), Aug. 21, 1958, 72 Stat. 698; Pub. L. 86–168, title I, §104(h), Aug. 18, 1959, 73 Stat. 387; renumbered §212, Pub. L. 87–849, §1(d), Oct. 23, 1962, 76 Stat. 1125; Pub. L. 101–73, title IX, §962(a)(1), Aug. 9, 1989, 103 Stat. 501; Pub. L. 101–647, title XXV, §2597(b), Nov. 29, 1990, 104 Stat. 4908; Pub. L. 103–322, title XXXIII, §§330004(1), 330010(1), 330016(1)(K), Sept. 13, 1994, 108 Stat. 2141, 2143, 2147, related to offer of loan or gratuity to bank examiner, prior to repeal by Pub. L. 108–198, §2(a), Dec. 19, 2003, 117 Stat. 2899.
@@ -71,6 +65,8 @@ A prior section 212, acts June 25, 1948, ch. 645, 62 Stat. 694, §212, formerly 
 Another prior section 212, act June 25, 1948, ch. 645, 62 Stat. 693, related to an offer or threat to a customs officer or employee, prior to the general amendment to this chapter by Pub. L. 87–849 and is substantially covered by revised section 201.
 
 #### Amendments
+
+<b>2010</b>—Subsec. (c)(2)(C) to (H). Pub. L. 111–203 redesignated subpars. (D) to (H) as (C) to (G), respectively, andstruck out former subpar. (C) which read as follows: “the Office of Thrift Supervision;”.
 
 <b>2008</b>—Subsec. (c)(2)(E). Pub. L. 110–289 substituted “Federal Housing Finance Agency” for “Federal Housing Finance Board”.
 

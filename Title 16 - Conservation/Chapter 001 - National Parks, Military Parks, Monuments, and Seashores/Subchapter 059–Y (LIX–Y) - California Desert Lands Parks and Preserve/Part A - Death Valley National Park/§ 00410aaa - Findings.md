@@ -158,7 +158,7 @@ Limitations on impact on mining claims.—Nothing in this Act shall be construed
 
 “(c)
 
-Legal Descriptions.—Not later than 1 year after the date of enactment of this Act \[Nov. 1, 2000\], the Secretary shall file a legal description of the areas described in subsection (b) with the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives and with the Committee on Indian Affairs and the Committee on Energy and Natural Resources of the Senate. Such legal description shall have the same force and effect as if the information contained in the description were included in that subsection except that the Secretary may correct clerical and typographical errors in such legal description and in the maps referred to in the legal description. The legal description shall be on file and available for public inspection in the offices of the National Park Service and the Bureau of Land Management.
+Legal Descriptions.—Not later than 1 year after the date of enactment of this Act \[Nov. 1, 2000\], the Secretary shall file a legal description of the areas described in subsection (b) with the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives and with the Committee on Indian Affairs and the Committee on Energy and Natural Resources of the Senate. Such legal description shall have the same force and effect as if the information contained in the description were included in that subsection except that the Secretary may correct clerical and typographical errors in such legal description and in the maps referred to in the legal description. The legal description shall be on file and available forpublic inspection in the offices of the National Park Service and the Bureau of Land Management.
 
 “(d)
 
@@ -246,7 +246,7 @@ Water Monitoring.—The Secretary and the Tribe shall develop mutually agreed up
 
 “(a)
 
-Tribal Employment.—In employing individuals to perform any construction, maintenance, interpretation, or other service in the Park, the Secretary shall, insofar as practicable, give first preference to qualified members of the Tribe.
+Tribal Employment.—In employing individuals to perform any construction, maintenance, interpretation, or other service in the Park, the Secretary shall,insofar as practicable, give first preference to qualified members of the Tribe.
 
 “(b)
 

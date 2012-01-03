@@ -6,7 +6,7 @@ In the carrying out of the provisions of this chapter, the Counsel shall notify 
 
 #### (b) Solution; publication in Congressional Record; review
 
-Upon receipt of such notification, the members of the Joint Leadership Group shall recommend the action to be taken to avoid or resolve the conflict or inconsistency. If such recommendation is made by a two-thirds vote, the Counsel shall take such steps as may be necessary to resolve the conflict or inconsistency as recommended. If not, the members of the Joint Leadership Group shall cause the notification of conflict or inconsistency and recommendation with respect to resolution thereof to be published in the Congressional Record of the Senate. If the Senate does not direct the Counsel within fifteen days from the date of publication in the Record to resolve the conflict in another manner, the Counsel shall take such action as may be necessary to resolve the conflict or inconsistency as recommended. Any instruction or determination made pursuant to this subsection shall not be reviewable in any court of law.
+Upon receipt of such notification, the members of the Joint Leadership Group shall recommend the action to be taken to avoid or resolve the conflict or inconsistency. If such recommendation is made by a two-thirds vote, the Counsel shall take such steps as may be necessary to resolve the conflict or inconsistency as recommended. If not, the members of the Joint Leadership Group shall cause the notification of conflict or inconsistency and recommendation with respect to resolution thereof to be published in the Congressional Record of the Senate. If the Senate does not direct the Counsel within fifteen days from the date of publicationin the Record to resolve the conflict in another manner, the Counsel shall take such action as may be necessary to resolve the conflict or inconsistency as recommended. Any instruction or determination made pursuant to this subsection shall not be reviewable in any court of law.
 
 #### (c) Computation of period following publication
 
@@ -18,7 +18,7 @@ For purposes of the computation of the fifteen day period in subsection (b) of t
 
 #### (d) Reimbursement
 
-The Senate may by resolution authorize the reimbursement of any Member, officer, or employee of the Senate who is not represented by the Counsel for fees and costs, including attorneys’ fees, reasonably incurred in obtaining representation. Such reimbursement shall be fromfunds appropriated to the contingent fund of the Senate.
+The Senate may by resolution authorize the reimbursement of any Member, officer, or employee of the Senate who is not represented by the Counsel for fees and costs, including attorneys’ fees, reasonably incurred in obtaining representation. Such reimbursement shall be from funds appropriated to the contingent fund of the Senate.
 
 (Pub. L. 95–521, title VII, §710, Oct. 26, 1978, 92 Stat. 1882.)
 

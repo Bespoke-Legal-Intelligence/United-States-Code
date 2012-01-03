@@ -2,7 +2,7 @@
 
 #### (a) Amount of damages
 
-Except as otherwise provided by this section, any debt collector who fails to comply with any provision of this subchapter with respect to any person is liable to such person in an amount equal to the sum of—
+Except as otherwise provided by this section, any debt collector who fails to comply with anyprovision of this subchapter with respect to any person is liable to such person in an amount equal to the sum of—
 
 &emsp;(1) any actual damage sustained by such person as a result of such failure;
 
@@ -28,15 +28,15 @@ A debt collector may not be held liable in any action brought under this subchap
 
 An action to enforce any liability created by this subchapter may be brought in any appropriate United States district court without regard to the amount in controversy, or in any other court of competent jurisdiction, within one year from the date on which the violation occurs.
 
-#### (e) Advisory opinions of Commission
+#### (e) Advisory opinions of Bureau
 
-No provision of this section imposing any liability shall apply to any act done or omitted in good faith in conformity with any advisory opinion of the Commission, notwithstanding that after such act or omission has occurred, such opinion is amended, rescinded, or determined by judicial or other authority to be invalid for any reason.
+No provision of this section imposing any liability shall apply to any act done or omitted in good faith in conformity with any advisory opinion of the Bureau, notwithstanding that after such act or omission has occurred, such opinion is amended, rescinded, or determined by judicial or other authority to be invalid for any reason.
 
 (Pub. L. 90–321, title VIII, §813, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 881; amended Pub. L. 111–203, title X, §1089(1), July 21, 2010, 124 Stat. 2092.)
 
-#### Amendment of Section
+#### Amendments
 
-<i>Pub. L. 111–203, title X, §§1089(1), 1100H, July 21, 2010, 124 Stat. 2092, 2113, provided that, effective on the designated transfer date, this sec</i><i>tion is amended by striking “Commission” each place that term appears and inserting “Bureau”. See Effective Date of 2010 Amendment note below.</i>
+<b>2010</b>—Subsec. (e). Pub. L. 111–203 substituted “Bureau” for “Commission”.
 
 #### Effective Date of 2010 Amendment
 

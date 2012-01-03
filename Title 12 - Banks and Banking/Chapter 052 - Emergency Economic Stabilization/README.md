@@ -20,8 +20,11 @@
 | [5217\.](Subchapter%20001%20%28I%29%20-%20Troubled%20Assets%20Relief%20Program/%C2%A7%2005217%20-%20Contracting%20procedures.md) | Contracting procedures. |
 | [5218\.](Subchapter%20001%20%28I%29%20-%20Troubled%20Assets%20Relief%20Program/%C2%A7%2005218%20-%20Conflicts%20of%20interest.md) | Conflicts of interest. |
 | [5219\.](Subchapter%20001%20%28I%29%20-%20Troubled%20Assets%20Relief%20Program/%C2%A7%2005219%20-%20Foreclosure%20mitigation%20efforts.md) | Foreclosure mitigation efforts. |
+| [5219a.](Subchapter%20001%20%28I%29%20-%20Troubled%20Assets%20Relief%20Program/%C2%A7%2005219a%20-%20Home%20Affordable%20Modification%20Program%20guidelines.md) | Home Affordable Modification Program guidelines. |
+| [5219b.](Subchapter%20001%20%28I%29%20-%20Troubled%20Assets%20Relief%20Program/%C2%A7%2005219b%20-%20Public%20availability%20of%20information%20of%20Making%20Home%20Affordable%20Program.md) | Public availability of information of Making Home Affordable Program. |
 | [5220\.](Subchapter%20001%20%28I%29%20-%20Troubled%20Assets%20Relief%20Program/%C2%A7%2005220%20-%20Assistance%20to%20homeowners.md) | Assistance to homeowners. |
 | [5220a.](Subchapter%20001%20%28I%29%20-%20Troubled%20Assets%20Relief%20Program/%C2%A7%2005220a%20-%20Application%20of%20GSE%20conforming%20loan%20limit%20to%20mortgages%20assisted%20with%20TARP%20funds.md) | Application of GSE conforming loan limit to mortgages assisted with TARP funds. |
+| [5220b.](Subchapter%20001%20%28I%29%20-%20Troubled%20Assets%20Relief%20Program/%C2%A7%2005220b%20-%20Multifamily%20mortgage%20resolution%20program.md) | Multifamily mortgage resolution program. |
 | [5221\.](Subchapter%20001%20%28I%29%20-%20Troubled%20Assets%20Relief%20Program/%C2%A7%2005221%20-%20Executive%20compensation%20and%20corporate%20governance.md) | Executive compensation and corporate governance. |
 | [5222\.](Subchapter%20001%20%28I%29%20-%20Troubled%20Assets%20Relief%20Program/%C2%A7%2005222%20-%20Coordination%20with%20foreign%20authorities%20and%20central%20banks.md) | Coordination with foreign authorities and central banks. |
 | [5223\.](Subchapter%20001%20%28I%29%20-%20Troubled%20Assets%20Relief%20Program/%C2%A7%2005223%20-%20Minimization%20of%20long-term%20costs%20and%20maximization%20of%20benefits%20for%20taxpayers.md) | Minimization of long-term costs and maximization of benefits for taxpayers. |

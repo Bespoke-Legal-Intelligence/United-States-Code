@@ -6,7 +6,7 @@ Programs or projects undertaken by a Federal agency or with Federal financial as
 
 #### (b) Availability of advisory services
 
-The head of any displacing agency shall ensure that the relocation assistance advisory services described in subsection (c) of this section are made available to all persons displaced by such agency. If such agency head determines that any person occupying property immediately adjacent to the property where the displacing activity occurs is caused substantial economic injuryas a result thereof, the agency head may make available to such person such advisory services.
+The head of any displacing agency shall ensure that the relocation assistance advisory services described in subsection (c) of this section are made available to all persons displaced by such agency. If such agency head determines that any person occupying property immediately adjacent to the property where the displacing activity occurs is caused substantial economic injury as a result thereof, the agency head may make available to such person such advisory services.
 
 #### (c) Measures, facilities, or services; description
 

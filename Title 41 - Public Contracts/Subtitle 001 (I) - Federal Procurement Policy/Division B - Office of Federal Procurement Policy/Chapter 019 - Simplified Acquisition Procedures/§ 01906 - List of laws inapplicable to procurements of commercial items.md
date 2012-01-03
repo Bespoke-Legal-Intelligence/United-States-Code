@@ -26,7 +26,7 @@ Definition.—In this subsection, the term “subcontract” includes a transfer
 
 &emsp;(2)
 
-Inclusion in federal acquisition regulation.—The Federal Acquisition Regulation shall include a list of provisions of law that are inapplicable to subcontracts under a contract or subcontract for the procurement of commercial items. A provision of law properly included on the list pursuant to paragraph (3) does not apply to those subcontracts. This section does not render a provision of law not included on the list inapplicable to subcontracts under a contract for the procurement of commercial items.
+Inclusion in federal acquisition regulation.—The Federal Acquisition Regulation shall include a list of provisions of law that are inapplicable to subcontracts under a contract or subcontract for the procurement of commercial items. A provision of law properlyincluded on the list pursuant to paragraph (3) does not apply to those subcontracts. This section does not render a provision of law not included on the list inapplicable to subcontracts under a contract for the procurement of commercial items.
 
 &emsp;(3)
 

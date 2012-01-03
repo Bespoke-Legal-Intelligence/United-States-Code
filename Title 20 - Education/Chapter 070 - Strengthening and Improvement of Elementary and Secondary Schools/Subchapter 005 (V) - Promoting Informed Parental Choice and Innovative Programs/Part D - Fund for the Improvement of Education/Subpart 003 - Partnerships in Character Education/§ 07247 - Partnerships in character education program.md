@@ -138,7 +138,7 @@ Of the total funds received in any fiscal year under this section by an eligible
 
 &emsp;&emsp;(E) in the case of an eligible entity that is a State educational agency, describes how the State educational agency—
 
-&emsp;&emsp;&emsp;(i) will provide technical and professional assistance to its local educational agency partners in the development and implementation of character education programs; and
+&emsp;&emsp;&emsp;(i) will provide technical and professional assistance to its local educationalagency partners in the development and implementation of character education programs; and
 
 &emsp;&emsp;&emsp;(ii) will assist other interested local educational agencies that are not members of the original partnership in designing and establishing character education programs;
 
@@ -246,7 +246,7 @@ Each eligible entity that receives a grant under this section shall provide, to 
 
 #### (D) Partnership for activities under subparagraph (B)(iv)
 
-&emsp;&emsp;In carrying out national activities under subparagraph (B)(iv), the Secretary may enter into a partnership with a national nonprofit character education organization that will disseminate information to educators,parents, administrators, and others nationwide, including information about the range of model character education programs, materials, and curricula.
+&emsp;&emsp;In carrying out national activities under subparagraph (B)(iv), the Secretary may enter into a partnership with a national nonprofit character education organization that will disseminate information to educators, parents, administrators, and others nationwide, including information about the range of model character education programs, materials, and curricula.
 
 #### (E) Report
 

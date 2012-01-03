@@ -6,5 +6,5 @@ Sole and exclusive jurisdiction is assumed by the United States over certain lan
 
 #### Codification
 
-A provision accepting the act of the North Carolina Legislature and the act of the Tennessee Legislature which ceded to the United States exclusive jurisdictionover the territory referred to in this section has been omitted as executed.
+A provision accepting the act of the North Carolina Legislature and the act of the Tennessee Legislature which ceded to the United States exclusive jurisdiction over the territory referred to in this section has been omitted as executed.
 

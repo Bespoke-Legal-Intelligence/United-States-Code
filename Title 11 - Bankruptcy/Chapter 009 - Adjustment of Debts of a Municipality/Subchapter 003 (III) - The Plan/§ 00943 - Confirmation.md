@@ -22,7 +22,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 943(a) of the House amendment makes clear that a special taxpayer may object to confirmation of a plan. Section 943(b) of the House amendment is derived from section 943 of the House bill respecting confirmation of a plan under chapter 9. It must be emphasized that these standards of confirmation are in addition to standards in section 1129 that are made applicable to chapter 9 by section 901 of the House amendment. In particular, if the requirements of sections 1129(a)(8) are not complied with, then the proponent may request application of section 1129(b). The court will then be required to confirm the plan if it complies with the “fair and equitable” test and is in the best interests of creditors. The best interests of creditors test does not mean liquidation value as under chapter XI of the Bankruptcy Act \[chapter 11 of former title 11\]. In making such a determination, it is expected that the court will be guided by standards set forth in <i>Kelley v. Everglades Drainage District</i>, 319 U.S. 415 (1943) \[Fla.1943, 63 S.Ct. 1141, 87 L.Ed. 1485, rehearing denied 63 S.Ct. 1444, 320 U.S. 214, 87 L.Ed. 1851, motion denied 64 S.Ct 783, 321 U.S. 754, 88 L.Ed. 1054\] and <i>Fano v. Newport Heights Irrigation Dist</i>., 114 F.2d 563 (9th Cir. 1940), as under present law, the bankruptcy court should make findings as detailed as possible to support a conclusion that this test has been met. However, it must be emphasized that unlike current law, the fair and equitable test under section 1129(b) will not apply if section 1129(a)(8) has been satisfied in addition to the other confirmation standards specified in section 943 and incorporated by reference in section 901 of the House amendment. To the extent that <i>American United Mutual Life Insurance Co. v. City of Avon Park</i>, 311 U.S. 138 (1940) \[Fla.1940, 61 S.Ct. 157, 85 L.Ed. 91, 136 A.L.R. 860, rehearing denied 61 S.Ct. 395, 311 U.S. 730, 85 L.Ed. 475\] and other cases are to the contrary, such cases are overruled to that extent.
 
@@ -40,11 +40,11 @@ Section 103(e) of this title, referred to in subsec. (b)(1), was redesignated se
 
 #### Amendments
 
-2005—Subsec. (b)(5). Pub. L. 109–8 substituted “507(a)(2)” for “507(a)(1)”.
+<b>2005</b>—Subsec. (b)(5). Pub. L. 109–8 substituted “507(a)(2)” for “507(a)(1)”.
 
-1988—Subsec. (b)(6), (7). Pub. L. 100–597 added par. (6) and redesignated former par. (6) as (7).
+<b>1988</b>—Subsec. (b)(6), (7). Pub. L. 100–597 added par. (6) and redesignated former par. (6) as (7).
 
-1984—Subsec. (b)(4). Pub. L. 98–353, §497(1), struck out “to be taken” after “necessary”.
+<b>1984</b>—Subsec. (b)(4). Pub. L. 98–353, §497(1), struck out “to be taken” after “necessary”.
 
 Subsec. (b)(5). Pub. L. 98–353, §497(2), substituted provisions requiring the plan to provide payment of cash in an amount equal to the allowed amount of a claim except to the extent that the holder of a particular claim has agreed to different treatment of such claim, for provisions which required the plan to provide forpayment of property of a value equal to the allowed amount of such claim except to the extent that the holder of a particular claim has waived such payment on such claim.
 

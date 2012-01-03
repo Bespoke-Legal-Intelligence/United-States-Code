@@ -10,7 +10,7 @@
 
 &emsp;(C) for compensating the United States by means of a combination of monetary payment and of receipt of persons convicted of criminal offenses in the courts of the United States, according to formulas or conditions which may be negotiated in the contract.
 
-(3) No such contract shall provide for the receipt of more State or territory prisoners by theUnited States than are transferred to that State or territory by such contract.
+(3) No such contract shall provide for the receipt of more State or territory prisoners by the United States than are transferred to that State or territory by such contract.
 
 (b) Funds received under such contract may be deposited in the Treasury to the credit of the appropriation or appropriations from which the payments for such service were originally made.
 

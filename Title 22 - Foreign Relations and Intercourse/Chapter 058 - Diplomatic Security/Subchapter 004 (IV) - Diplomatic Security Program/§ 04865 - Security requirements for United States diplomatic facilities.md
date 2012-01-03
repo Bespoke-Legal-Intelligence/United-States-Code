@@ -8,7 +8,7 @@ The following security requirements shall apply with respect to United States di
 
 #### (A) Emergency Action Plan
 
-&emsp;&emsp;The Emergency Action Plan (EAP) of each United States mission shall address thethreat of large explosive attacks from vehicles and the safety of employees during such an explosive attack. Such plan shall be reviewed and updated annually.
+&emsp;&emsp;The Emergency Action Plan (EAP) of each United States mission shall address the threat of large explosive attacks from vehicles and the safety of employees during such an explosive attack. Such plan shall be reviewed and updated annually.
 
 #### (B) Security Environment Threat List
 
@@ -96,7 +96,7 @@ The following security requirements shall apply with respect to United States di
 
 &emsp;&emsp;&emsp;(iii) providing personnel to assist in activities such as security, medical relief, public affairs, engineering, and building safety; and
 
-&emsp;&emsp;&emsp;(iv) providing such additional support as may be necessary to enable the FEST toprovide support in a post-crisis environment involving mass casualties and physical damage.
+&emsp;&emsp;&emsp;(iv) providing such additional support as may be necessary to enable the FEST to provide support in a post-crisis environment involving mass casualties and physical damage.
 
 #### (B) FEST aircraft
 
@@ -186,7 +186,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VI, §602\], Nov. 29, 19
 
 #### Authorizations of Appropriations
 
-Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VI, §604\], Nov. 29, 1999, 113 Stat. 1536, 1501A–453, as amended by Pub. L. 107–228, div. A, title I, §111(a)(3)(B), Sept. 30, 2002, 116 Stat. 1356; Pub. L. 108–447, div. B, title VI, §629, Dec. 8, 2004, 118 Stat. 2920, provided that:
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VI, §604\], Nov. 29, 1999, 113 Stat. 1536, 1501A–453, as amended by Pub. L. 107–228, div. A, title I, §111(a)(3)(B), Sept. 30, 2002, 116 Stat. 1356; Pub. L. 108–447, div. B, title VI, §629, Dec. 8, 2004, 118 Stat. 2920; Pub. L. 112–74, div. I, title VII, §7004(e), Dec. 23, 2011, 125 Stat. 1194, provided that:
 
 “(a)
 
@@ -226,7 +226,7 @@ Capital Security Cost Sharing.—
 
 &emsp;“(1)
 
-Authority.—Notwithstanding any other provision of law, all agencies with personnel overseas subject to chief of mission authority pursuant to section 207 of the Foreign Service Act of 1980 (22 U.S.C. 3927) shall participate and provide funding in advance for their share of costs of providing new, safe, secure United States diplomatic facilities, without offsets, on the basis of the total overseas presence of each agency as determined annually by the Secretary of State in consultation with such agency. Amounts advanced by such agencies to the Department of State shall be credited to the Embassy Security, Construction and Maintenance account, and remain available until expended.
+Authority.—Notwithstanding any other provision of law, all agencies with personnel overseas subject to chief of mission authority pursuant to section 207 of the Foreign Service Act of 1980 (22 U.S.C. 3927) shall participate and provide funding in advance for their share of costs of providing, maintaining, repairing, and renovating safe, secure United States diplomatic facilities, without offsets, on the basis of the total overseas presence of each agency as determined annually by the Secretary of State in consultation with such agency. Amounts advanced by such agencies to the Department of State shall be credited to the Embassy Security, Construction and Maintenance account, and remain available until expended.
 
 &emsp;“(2)
 
@@ -238,7 +238,7 @@ Exclusion.—For purposes of this subsection ‘agency’ does not include the M
 
 #### Obligations and Expenditures
 
-Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VI, §605\], Nov. 29, 1999, 113 Stat. 1536, 1501A–453, provided that:
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VI, §605\], Nov. 29, 1999, 113 Stat. 1536, 1501A–453, as amended by Pub. L. 112–74, div. I, title VII, §7034(n), Dec. 23, 2011, 125 Stat. 1217, provided that:
 
 “(a)
 
@@ -262,27 +262,7 @@ Exception.—Funds authorized to be made available by section 604 may only be us
 
 “(b)
 
-Prohibition on Transfer of Funds.—None of the funds authorized to be appropriated by section 604 may be transferred to any other account.
-
-“(c)
-
-Semiannual Reports on Acquisition and Major Security Upgrades.—On June 1 and December 1 of each year, the Secretary of State shall submit a report to the appropriate congressional committees on the embassy construction and security program authorized under this title \[enacting this section, amending section 4831 of this title, and enacting provisions set out as notes under this section\]. The report shall include—
-
-&emsp;“(1) obligations and expenditures—
-
-&emsp;&emsp;“(A) during the previous two fiscal quarters; and
-
-&emsp;&emsp;“(B) since the enactment of this Act \[Nov. 29, 1999\];
-
-&emsp;“(2) projected obligations and expenditures for the fiscal year in which the report is submitted and how these obligations and expenditures will improve security conditions of specific diplomatic facilities; and
-
-&emsp;“(3) the status of ongoing acquisition and major security enhancement projects, including any significant changes in—
-
-&emsp;&emsp;“(A) the budgetary requirements for such projects;
-
-&emsp;&emsp;“(B) the schedule of such projects; and
-
-&emsp;&emsp;“(C) the scope of the projects.”
+Prohibition on Transfer of Funds.—None of the funds authorized to be appropriated by section 604 may be transferred to any other account.”
 
 #### Definitions
 

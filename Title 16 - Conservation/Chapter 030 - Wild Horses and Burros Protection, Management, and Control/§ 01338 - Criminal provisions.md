@@ -16,7 +16,7 @@ Any person who—
 
 &emsp;(6) willfully violates a regulation issued pursuant to this chapter,
 
-> shall be subject to a fine of not more than $2,000, or imprisonment for not more than one year, orboth. Any person so charged with such violation by the Secretary may be tried and sentenced by any United States commissioner or magistrate judge designated for that purpose by the court by which he was appointed, in the same manner and subject to the same conditions as provided for in section 3401 of title 18.
+> shall be subject to a fine of not more than $2,000, or imprisonment for not more than one year, or both. Any person so charged with such violation by the Secretary may be tried and sentenced by any United States commissioner or magistrate judge designated for that purpose by the court by which he was appointed, in the same manner and subject to the same conditions as provided for in section 3401 of title 18.
 
 #### (b) Arrest; appearance for examination or trial; warrants: issuance and execution
 

@@ -48,7 +48,7 @@ For purposes of subsections (a) and (b)—
 
 &emsp;&emsp;(E) transfer to, or use by or for the benefit of, a disqualified person of the income or assets of a private foundation; and
 
-&emsp;&emsp;(F) agreement by a private foundation to make any payment of money or other property to a government official (as defined in section 4946(c)), other than an agreement to employ such individual for any period after the termination of his government service ifsuch individual is terminating his government service within a 90-day period.
+&emsp;&emsp;(F) agreement by a private foundation to make any payment of money or other property to a government official (as defined in section 4946(c)), other than an agreement to employ such individual for any period after the termination of his government service if such individual is terminating his government service within a 90-day period.
 
 #### (2) Special rules
 
@@ -106,7 +106,7 @@ For purposes of this section—
 
 #### (2) Amount involved
 
-&emsp;The term “amount involved” means, with respect to any act of self-dealing, the greater of the amount of money and the fair market value of the other property given or the amount of money and the fair market value of the other property received; except that, in the case of services described in subsection (d)(2)(E), the amount involved shall be onlythe excess compensation. For purposes of the preceding sentence, the fair market value—
+&emsp;The term “amount involved” means, with respect to any act of self-dealing, the greater of the amount of money and the fair market value of the other property given or the amount of money and the fair market value of the other property received; except that, in the case of services described in subsection (d)(2)(E), the amount involved shall be only the excess compensation. For purposes of the preceding sentence, the fair market value—
 
 &emsp;&emsp;(A) in the case of the taxes imposed by subsection (a), shall be determined as of the date on which the act of self-dealing occurs; and
 
@@ -130,7 +130,7 @@ Section 1212(a)(1), (2) of Pub. L. 109–280, which directed the amendment of se
 
 <b>2006</b>—Subsec. (a)(1). Pub. L. 109–280, §1212(a)(1)(A), substituted “10 percent” for “5 percent”. See Codification note above.
 
-Subsec. (a)(2). Pub. L. 109–280, §1212(a)(1)(B), substituted “5 percent” for “21/2 percent”. See Codification note above.
+Subsec. (a)(2). Pub. L. 109–280, §1212(a)(1)(B), substituted “5 percent” for “2½ percent”. See Codification note above.
 
 Subsec. (c)(2). Pub. L. 109–280, §1212(a)(2), substituted “$20,000” for “$10,000” wherever appearing in heading and text. See Codification note above.
 

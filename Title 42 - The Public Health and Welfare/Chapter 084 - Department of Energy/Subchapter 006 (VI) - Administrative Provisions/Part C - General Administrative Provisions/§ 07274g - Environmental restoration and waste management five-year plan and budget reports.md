@@ -48,7 +48,7 @@ The Secretary of Energy is authorized to award grants to, and enter into coopera
 
 #### (d) Funding
 
-Of the funds authorized to be appropriated pursuant to section 3103, $20,000,000 may be used for the purpose of carrying out subsection (c) of this section.
+Of the funds authorized to be appropriated pursuant to section 3103, $20,000,000 may be usedfor the purpose of carrying out subsection (c) of this section.
 
 #### (e) Budget reports
 

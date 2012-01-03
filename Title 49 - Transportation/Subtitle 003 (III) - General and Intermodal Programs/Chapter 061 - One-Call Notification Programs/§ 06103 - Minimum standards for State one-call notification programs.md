@@ -42,13 +42,49 @@ Penalties.—To the extent the State determines appropriate and necessary to ach
 
 &emsp;(5) citation of violations.
 
-(Added Pub. L. 105–178, title VII, §7302(a), June 9, 1998, 112 Stat. 479; amended Pub. L. 107–355, §2(a), Dec. 17, 2002, 116 Stat. 2985.)
+(Added Pub. L. 105–178, title VII, §7302(a), June 9, 1998, 112 Stat. 479; amended Pub. L. 107–355, §2(a), Dec. 17, 2002, 116 Stat. 2985; Pub. L. 112–90, §3(a), Jan. 3, 2012, 125 Stat. 1906.)
+
+#### Amendment of Subsection (a)
+
+<i>Pub. L. 112–90, §3(a), (c), Jan. 3, 2012, 125 Stat. 1906, provided that, effective 2 years after Jan. 3, 2012, subsection (a) of this section is amended to read as follows:</i>
+
+<i>(a)</i>
+
+<i>Minimum Standards.—</i>
+
+&emsp;<i>(1)</i>
+
+<i>In general</i>.—<i>In order to qualify for a grant under section 6106, a State one-call notification program, at a minimum, shall provide for—</i>
+
+&emsp;&emsp;<i>(A) appropriate participation by all underground facility operators, including all government operators;</i>
+
+&emsp;&emsp;<i>(B) appropriate participation by all excavators, including all government and contract excavators; and</i>
+
+&emsp;&emsp;<i>(C) flexible and effective enforcement under State law with respect to participation in, and use of, one-call notification systems.</i>
+
+&emsp;<i>(2)</i>
+
+<i>Exemptions prohibited</i>.—<i>In order to qualify for a grant under section 6106, a State one-call notification program may not exempt municipalities, State agencies, or their contractors from the one-call notification system requirements of the program.</i>
+
+<i>See 2012 Amendment note below.</i>
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a). Pub. L. 112–90, §3(a), amended subsec. (a) generally. Prior to amendment, text read as follows: “In order to qualify for a grant under section 6106, a State one-call notification program shall, at a minimum, provide for—
+
+“(1) appropriate participation by all underground facility operators, including all government operators;
+
+“(2) appropriate participation by all excavators, including all government and contract excavators; and
+
+“(3) flexible and effective enforcement under State law with respect to participation in, and use of, one-call notification systems.”
 
 <b>2002</b>—Subsec. (a)(1). Pub. L. 107–355, §2(a)(1)(A), inserted “, including all government operators” before semicolon at end.
 
 Subsec. (a)(2). Pub. L. 107–355, §2(a)(1)(B), inserted “, including all government and contract excavators” before semicolon.
 
 Subsec. (c). Pub. L. 107–355, §2(a)(2), substituted “provide for and document” for “provide for” in introductory provisions.
+
+#### Effective Date of 2012 Amendment
+
+Pub. L. 112–90, §3(c), Jan. 3, 2012, 125 Stat. 1906, provided that: “The amendments made by this section \[amending this section and section 60134 of this title\] shall take effect 2 years after the date of enactment of this Act \[Jan. 3, 2012\].”
 

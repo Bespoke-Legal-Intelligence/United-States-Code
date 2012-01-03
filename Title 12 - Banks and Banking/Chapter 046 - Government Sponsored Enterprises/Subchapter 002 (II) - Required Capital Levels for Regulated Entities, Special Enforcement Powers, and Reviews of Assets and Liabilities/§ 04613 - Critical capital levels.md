@@ -24,7 +24,7 @@ For purposes of this subchapter, the critical capital level for each enterprise 
 
 #### Amendments
 
-2008—Pub. L. 110–289 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>2008</b>—Pub. L. 110–289 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 #### Regulations
 

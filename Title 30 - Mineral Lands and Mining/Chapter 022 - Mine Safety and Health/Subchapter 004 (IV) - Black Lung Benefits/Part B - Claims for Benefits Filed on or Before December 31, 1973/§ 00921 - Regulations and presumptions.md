@@ -20,7 +20,7 @@ For purposes of this section—
 
 &emsp;(4) if <sup>2</sup> a miner was employed for fifteen years or more in one or more underground coal mines, and if there is a chest roentgenogram submitted in connection with such miner's, his widow's, his child's, his parent's, his brother's, his sister's, or his dependent's claim under this subchapter and it is interpreted as negative with respect to the requirements of paragraph (3) of this subsection, and if other evidence demonstrates the existence of a totally disabling respiratory or pulmonary impairment, then there shall be a rebuttable presumption that such miner is totally disabled due to pneumoconiosis, that his death was due to pneumoconiosis, or that at the time of his death he was totally disabled by pneumoconiosis. In the case of a living miner, a wife's affidavit may not be used by itself to establish the presumption. The Secretary shall not apply all or a portion of the requirement of this paragraph that the miner work in an underground mine where he determines that conditions of a miner's employment in a coal mine other than an underground mine were substantially similar to conditions in an underground mine. The Secretary may rebut such presumption only by establishing that (A) such miner does not, or did not, have pneumoconiosis, or that (B) his respiratory or pulmonary impairment did not arise out of, or in connection with, employment in a coal mine.
 
-&emsp;(5) In the case of a miner who dies on or before March 1, 1978, who was employed for 25 years or more in one or more coal mines before June 30, 1971, the eligible survivors of such miner shall be entitled to the payment of benefits, at the rate applicable under section 922(a)(2) of this title, unless it is established that at the time of his or her death such miner was not partially or totally disabled due to pneumoconiosis. Eligible survivors shall, upon request by the Secretary, furnish such evidence as is available with respect to the health of the miner at the time of his or her death. The provisions of this paragraph shall not apply with respect to claims filed on or after the day that is 180 days after the effective date of the Black Lung Benefits Amendments of 1981.
+&emsp;(5) In the case of a miner who dies on or before March 1, 1978, who was employed for 25years or more in one or more coal mines before June 30, 1971, the eligible survivors of such miner shall be entitled to the payment of benefits, at the rate applicable under section 922(a)(2) of this title, unless it is established that at the time of his or her death such miner was not partially or totally disabled due to pneumoconiosis. Eligible survivors shall, upon request by the Secretary, furnish such evidence as is available with respect to the health of the miner at the time of his or her death. The provisions of this paragraph shall not apply with respect to claims filed on or after the day that is 180 days after the effective date of the Black Lung Benefits Amendments of 1981.
 
 #### (d) Applicability of presumptions
 
@@ -30,7 +30,7 @@ Nothing in subsection (c) of this section shall be deemed to affect the applicab
 
 #### References in Text
 
-The effective date of the Black Lung Benefits Amendments of 1981, referred to in subsecs. (a) and (c)(2), (5),is Jan. 1, 1982, except as otherwise provided. See section 206(a) of Pub. L. 97–119, set out as an Effective Date of 1981 Amendment note under section 901 of this title.
+The effective date of the Black Lung Benefits Amendments of 1981, referred to in subsecs. (a) and (c)(2), (5), is Jan. 1, 1982, except as otherwise provided. See section 206(a) of Pub. L. 97–119, set out as an Effective Date of 1981 Amendment note under section 901 of this title.
 
 #### Amendments
 
@@ -126,7 +126,7 @@ Continuation of Administrative Proceedings.—
 
 &emsp;&emsp;“(A) Any proceeding described in this paragraph shall continue as if this Act had not been enacted, and shall include all rights to hearing, administrative review, and judicial review available under part B and the applicable regulations of the Secretary of Health and Human Services.
 
-&emsp;&emsp;“(B) Any decision, order, or other determination issued in any proceeding described in this subsection shall apply to the Secretary of Labor and continue in effect, according to its terms, until it ismodified, superseded, terminated, or otherwise deprived of legal effect by the Secretary of Labor, a court of competent jurisdiction, or operation of law.
+&emsp;&emsp;“(B) Any decision, order, or other determination issued in any proceeding described in this subsection shall apply to the Secretary of Labor and continue in effect, according to its terms, until it is modified, superseded, terminated, or otherwise deprived of legal effect by the Secretary of Labor, a court of competent jurisdiction, or operation of law.
 
 &emsp;&emsp;“(C) Nothing in this paragraph shall be deemed to prohibit the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that such proceeding could have been discontinued or modified if this Act had not been enacted.
 

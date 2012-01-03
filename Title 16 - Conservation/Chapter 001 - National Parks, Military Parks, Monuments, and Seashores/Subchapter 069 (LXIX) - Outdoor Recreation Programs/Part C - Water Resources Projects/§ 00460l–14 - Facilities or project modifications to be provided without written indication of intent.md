@@ -22,7 +22,7 @@ Notwithstanding the absence of an indication of intent as specified in section 4
 
 &emsp;&emsp;(i) will administer the expanded or modified facilities pursuant to a plan for development for the project that is approved by the agency with administrative jurisdiction over the project; and
 
-&emsp;&emsp;(ii) will bear not less than one-half of the planning and capital costs of such expansion or modification and not less than one-half of the costs of the operation, maintenance, andreplacement attributable to the expansion of the facility.
+&emsp;&emsp;(ii) will bear not less than one-half of the planning and capital costs of such expansion or modification and not less than one-half of the costs of the operation, maintenance, and replacement attributable to the expansion of the facility.
 
 (2) The Federal share of the cost of expanding or modifying a recreational facility described in paragraph (1) may not exceed 50 percent of the total cost of expanding or modifying the facility.
 

@@ -8,7 +8,7 @@
 
 &emsp;(B) the computation of such firefighter's daily, weekly, or biweekly rate shall be based on the hourly rate under subparagraph (A);
 
-(2) For the purpose of sections 5595(c), 5941, 8331(3), and 8704(c), and for such other purposes as may be expressly provided for by law or as the Office of Personnel Management may by regulation prescribe, the basic pay of a firefighter subject to this subsection shall include an amount equal to the firefighter's basic hourly rate (as computed under paragraph (1)(A)) for all hours in such firefighter's regular tour of duty (including overtime hours).
+(2) For the purpose of sections 5595(c), 5941, 8331(3), and 8704(c), and for such other purposes as may be expressly provided for by law or as the Office of Personnel Management may by regulation prescribe, the basic pay of a firefighter subject to this subsection shall include an amount equal to the firefighter's basic hourly rate (as computed under paragraph (1)(A)) for allhours in such firefighter's regular tour of duty (including overtime hours).
 
 (c)(1) If the regular tour of duty of a firefighter subject to this section includes a basic 40-hour workweek (as determined under regulations prescribed by the Office of Personnel Management), section 5504(b) shall be applied as follows in computing pay—
 
@@ -32,7 +32,7 @@
 
 (4) Notwithstanding section 8114(e)(1), overtime pay for a firefighter subject to this section for hours in a regular tour of duty shall be included in any computation of pay under section 8114.
 
-(Added Pub. L. 105–277, div. A, §101(h) \[title VI, §628(a)(2)\], Oct. 21, 1998, 112 Stat. 2681–480,2681–519; amended Pub. L. 106–554, §1(a)(3) \[title VI, §641(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–169.)
+(Added Pub. L. 105–277, div. A, §101(h) \[title VI, §628(a)(2)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–519; amended Pub. L. 106–554, §1(a)(3) \[title VI, §641(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–169.)
 
 #### References in Text
 
@@ -40,7 +40,7 @@ Section 7(k) of the Fair Labor Standards Act of 1938, referred to in subsec. (d)
 
 #### Amendments
 
-2000—Subsec. (d)(4). Pub. L. 106–554 added par. (4).
+<b>2000</b>—Subsec. (d)(4). Pub. L. 106–554 added par. (4).
 
 #### Effective Date of 2000 Amendment
 
@@ -78,5 +78,5 @@ Pub. L. 106–31, title III, §3032, May 21, 1999, 113 Stat. 104, provided that:
 
 #### No Reduction in Regular Pay
 
-Pub. L. 105–277, div. A, §101(h) \[title VI, §628(g)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–521, provided that: “Under regulations prescribed by the Office of Personnel Management, the regular pay (over the established work scheduling cycle) of a firefighter subject to section 5545b of title 5, United States Code, as added by this section, shall not be reduced as a result of the implementation of this section.”
+Pub. L. 105–277, div. A, §101(h) \[title VI, §628(g)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–521, provided that:“Under regulations prescribed by the Office of Personnel Management, the regular pay (over the established work scheduling cycle) of a firefighter subject to section 5545b of title 5, United States Code, as added by this section, shall not be reduced as a result of the implementation of this section.”
 

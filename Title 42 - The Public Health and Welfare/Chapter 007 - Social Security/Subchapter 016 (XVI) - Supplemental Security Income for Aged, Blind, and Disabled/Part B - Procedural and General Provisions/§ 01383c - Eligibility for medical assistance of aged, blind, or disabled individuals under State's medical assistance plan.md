@@ -18,7 +18,7 @@ The Commissioner of Social Security may enter into an agreement with any State w
 
 &emsp;(B) was entitled to a widow's or widower's insurance benefit based on a disability under section 402(e) or (f) of this title for January 1984 and with respect to whom a benefit under this subchapter was paid in that month, and
 
-&emsp;(C) because of the increase in the amount of his or her widow's or widower's insurance benefits which resulted from the amendments made by section 134 of the Social Security Amendments of 1983 (Public Law 98–21) (eliminating the additional reduction factor for disabled widows and widowers under age 60), was ineligible for benefits under this subchapter in the first month in which such increase waspaid to him or her (and in which a retroactive payment of such increase for prior months was not made).
+&emsp;(C) because of the increase in the amount of his or her widow's or widower's insurance benefits which resulted from the amendments made by section 134 of the Social Security Amendments of 1983 (Public Law 98–21) (eliminating the additional reduction factor for disabled widows and widowers under age 60), was ineligible for benefits under this subchapter in the first month in which such increase was paid to him or her (and in which a retroactive payment of such increase for prior months was not made).
 
 (3) This subsection shall only apply to an individual who files a written application for protection under this subsection, in such manner and form as the Commissioner of Social Security may prescribe, no later than July 1, 1988.
 
@@ -60,8 +60,6 @@ Section 212(a) of Public Law 93–66, referred to in subsecs. (b)(4) and (d)(1)(
 
 The effective date of this subsection, referred to in subsec. (c)(1), is July 1, 1987, except as otherwise provided. See section 10(b) of Pub. L. 99–643, set out as an Effective Date of 1986 Amendments note under section 1396a of this title.
 
-Part A of subchapter XVIII of this chapter, referred to in subsec. (d)(2), is classified to section 1395c et seq. of this title.
-
 #### Amendments
 
 <b>1996</b>—Subsec. (e). Pub. L. 104–121 struck out subsec. (e) which read as follows: “Each person to whom benefits under this subchapter by reason of disability are not payable for any month solely by reason of clause (i) or (v) of section 1382(e)(3)(A) of this title shall be treated, for purposes of subchapter XIX of this chapter, as receiving benefits under this subchapter for the month.”
@@ -70,7 +68,7 @@ Part A of subchapter XVIII of this chapter, referred to in subsec. (d)(2), is cl
 
 Subsec. (e). Pub. L. 103–296, §201(b)(3)(D), added subsec. (e).
 
-<b>1990</b>—Subsec. (d). Pub. L. 101–508 designated existing provisions as par. (1), substituted “This subsection applies with respect to any person who—” for “If any person—” in introductory provisions, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, in subpar. (A) substituted “being then not entitled” for “as required by section 1382(e)(2) of this title, being then at least 60 years of age but not entitled”, in subpar. (B) substituted “section 1382e(a) of this title (or payments of the type described in section 212(a) of Public Law 93–66).” for “section 1382e(a) of this title,” and substituted par. (2) for former concluding provisions which read as follows: “such person shall neverthelessbe deemed to be a recipient of supplemental security income benefits under this subchapter for purposes of subchapter XIX of this chapter, so long as he or she (A) would be eligible for such supplemental security income benefits, or such State supplementary payments, in the absence of such benefits under section 402 of this title, and (B) is not entitled to hospital insurance benefits under part A of subchapter XVIII of this chapter.”
+<b>1990</b>—Subsec. (d). Pub. L. 101–508 designated existing provisions as par. (1), substituted “This subsection applies with respect to any person who—” for “If any person—” in introductory provisions, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, in subpar. (A) substituted “being then not entitled” for “as required by section 1382(e)(2) of this title, being then at least 60 years of age but not entitled”, in subpar. (B) substituted “section 1382e(a) of this title (or payments of the type described in section 212(a) of Public Law 93–66).” for “section 1382e(a) of this title,” and substituted par. (2) for former concluding provisions which read as follows: “such person shall nevertheless be deemed to be a recipient of supplemental security income benefits under this subchapter for purposes of subchapter XIX of this chapter, so long as he or she (A) would be eligible for such supplemental security income benefits, or such State supplementary payments, in the absence of such benefits under section 402 of this title, and (B) is not entitled to hospital insurance benefits under part A of subchapter XVIII of this chapter.”
 
 <b>1987</b>—Subsec. (b)(3). Pub. L. 100–203, §9108, substituted “no later than July 1, 1988” for “during the 15-month period beginning with the month in which this subsection is enacted \[April 1986\]”.
 
@@ -90,7 +88,7 @@ Amendment by Pub. L. 104–121 applicable to any individual who applies for, or 
 
 Amendment by section 107(a)(4) of Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of this title.
 
-Amendment by section 201(b)(3)(D) of Pub. L. 103–296 applicable with respect to supplemental security income benefits under this subchapter by reason of disability which are otherwise payable in months beginning after 180 days after Aug. 15, 1994, with Secretary of Health and Human Services to issue regulations necessary to carry out such amendment not later than 180 days after Aug. 15, 1994, see section 201(b)(3)(E)(i) of Pub. L. 103–296, set out as a note under section 1382 of this title.
+Amendment by section 201(b)(3)(D) of Pub. L. 103–296 applicable with respect to supplemental security income benefits under this subchapter by reason of disability which are otherwise payable in months beginning after 180 days after Aug. 15, 1994, with Secretary of Health and Human Services to issue regulations necessary to carry out such amendment not later than 180 days after Aug. 15, 1994, see section 201(b)(3)(E)(i) ofPub. L. 103–296, set out as a note under section 1382 of this title.
 
 #### Effective Date of 1990 Amendment
 

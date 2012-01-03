@@ -22,7 +22,7 @@ This chapter shall apply—
 
 &emsp;&emsp;&emsp;(ii) an emission control area designated pursuant to section 1903 of this title; or
 
-&emsp;&emsp;&emsp;(iii) any other area that the Administrator, in consultation with the Secretary and each State in which any part of the area is located, has designated by order as being an area from which emissions from ships are of concern with respect to protection of public health, welfare, or the environment;
+&emsp;&emsp;&emsp;(iii) any other area that the Administrator, in consultation with the Secretaryand each State in which any part of the area is located, has designated by order as being an area from which emissions from ships are of concern with respect to protection of public health, welfare, or the environment;
 
 &emsp;&emsp;(C) to a ship that is entitled to fly the flag of, or operating under the authority of, a party to Annex VI, and is in—
 
@@ -42,25 +42,49 @@ This chapter shall apply—
 
 &emsp;&emsp;&emsp;(iv) any other area that the Administrator, in consultation with the Secretary and each State in which any part of the area is located, has designated by order as being an area from which emissions from ships are of concern with respect to protection of public health, welfare, or the environment.
 
-#### (b) Excluded vessels
+#### (b) Excluded vessels; discharge requirements
 
-(1) Except as provided in paragraphs (2) and (3), this chapter shall not apply to—
+(1) Except as provided in paragraph (3), this chapter shall not apply to—
 
-&emsp;(A) a warship, naval auxiliary, or other ship owned or operated by the United States when engaged in noncommercial service; or
+&emsp;(A) a ship of the Armed Forces described in paragraph (2); or
 
 &emsp;(B) any other ship specifically excluded by the MARPOL Protocol or the Antarctic Protocol.
 
-(2)(A) Notwithstanding any provision of the MARPOL Protocol, and subject to subparagraph (B) of this paragraph, the requirements of Annex V to the Convention shall apply as follows:
+(2) A ship described in this paragraph is a ship that is owned or operated by the Secretary, with respect to the Coast Guard, or by the Secretary of a military department, and that, as determined by the Secretary concerned—
 
-&emsp;(i) After December 31, 1993, to all ships referred to in paragraph (1)(A) of this subsection other than those owned or operated by the Department of the Navy.
+&emsp;(A) has unique military design, construction, manning, or operating requirements; and
 
-&emsp;(ii) Except as provided in subsection (c) <sup>1</sup> of this section, after December 31, 1998, to all ships referred to in paragraph (1)(A) of this subsection other than submersibles owned or operated by the Department of the Navy.
+&emsp;(B) cannot fully comply with the discharge requirements of Annex V to the Convention because compliance is not technologically feasible or would impair the operations or operational capability of the ship.
 
-&emsp;(iii) Except as provided in subsection (c) <sup>1</sup> of this section, after December 31, 2008, to all ships referred to in paragraph (1)(A) of this subsection.
+(3)(A) Notwithstanding any provision of the MARPOL Protocol, the requirements of Annex V to the Convention shall apply to all ships referred to in subsection (a) other than those described in paragraph (2).
 
-(B) This paragraph shall not apply during time of war or a declared national emergency.
+(B) A ship that is described in paragraph (2) shall limit the discharge into the sea of garbage as follows:
 
-(3) With respect to Annex VI the Administrator, or the Secretary, as relevant to their authorities pursuant to this chapter, may determine that some or all of the requirements under this chapter shall apply to one or more classes of public vessels, except that such a determination by the Administrator shall have no effect unless the head of the Department or agency under which the vessels operate concurs in the determination. This paragraph does not apply during time of war or during a declared national emergency.
+&emsp;(i) The discharge into the sea of plastics, including synthetic ropes, synthetic fishing nets, plastic garbage bags, and incinerator ashes from plastic products that may contain toxic chemicals or heavy metals, or the residues thereof, is prohibited.
+
+&emsp;(ii) Garbage consisting of the following material may be discharged into the sea, subject to subparagraph (C):
+
+&emsp;&emsp;(I) A non-floating slurry of seawater, paper, cardboard, or food waste that is capable of passing through a screen with openings no larger than 12 millimeters in diameter.
+
+&emsp;&emsp;(II) Metal and glass that have been shredded and bagged (in compliance with clause (i)) so as to ensure negative buoyancy.
+
+&emsp;&emsp;(III) With regard to a submersible, nonplastic garbage that has been compacted and weighted to ensure negative buoyancy.
+
+&emsp;&emsp;(IV) Ash from incinerators or other thermal destruction systems not containing toxic chemicals, heavy metals, or incompletely burned plastics.
+
+(C)(i) Garbage described in subparagraph (B)(ii)(I) may not be discharged within 3 nautical miles of land.
+
+(ii) Garbage described in subclauses (II), (III), and (IV) of subparagraph (B)(ii) may not be discharged within 12 nautical miles of land.
+
+(D) Notwithstanding subparagraph (C), a ship described in paragraph (2) that is not equipped with garbage-processing equipment sufficient to meet the requirements of subparagraph (B)(ii) may discharge garbage that has not been processed in accordance with subparagraph (B)(ii) if such discharge occurs as far as practicable from the nearest land, but in any case not less than—
+
+&emsp;(i) 12 nautical miles from the nearest land, in the case of food wastes and non-floating garbage, including paper products, cloth, glass, metal, bottles, crockery, and similar refuse; and
+
+&emsp;(ii) 25 nautical miles from the nearest land, in the case of all other garbage.
+
+(E) This paragraph shall not apply when discharge of any garbage is necessary for the purpose of securing the safety of the ship, the health of the ship's personnel, or saving life at sea. In the event that there is such a discharge, the discharge shall be reported to the Secretary, with respect to the Coast Guard, or the Secretary concerned.
+
+(F) This paragraph shall not apply during time of war or a national emergency declared by the President or Congress.
 
 #### (c) Application to other persons
 
@@ -100,9 +124,9 @@ The Secretary or the Administrator, consistent with section 1903 of this title, 
 
 #### (f) Compliance by excluded vessels
 
-(1) The Secretary of the Navy shall develop and, as appropriate, support the development of technologies and practices for solid waste management aboard ships owned or operated by the Department of the Navy, including technologies and practices for the reduction of the waste stream generated aboard such ships, that are necessary to ensure the compliance of such ships with Annex V to the Convention on or before the dates referred to in subsections (b)(2)(A) and (c)(1) of this section.
+(1) The Secretary of the Navy shall develop and, as appropriate, support the development of technologies and practices for solid waste management aboard ships owned or operated by the Department of the Navy, including technologies and practices for the reduction of the waste stream generated aboard such ships, that are necessary to ensure the compliance of such ships with subsection (b) of this section.
 
-(2) Notwithstanding any effective date of the application of this section to a ship, the provisions of Annex V to the Convention with respect to the disposal of plastic shall apply to ships equipped with plastic processors required for the long-term collection and storage of plastic aboard ships of the Navy upon the installation of such processors in such ships.
+(2) Notwithstanding any effective date of the application of this section to a ship, the provisions of Annex V to the Convention and subsection (b)(3)(B)(i) of this section with respect to the disposal of plastic shall apply to ships equipped with plastic processors required for the long-term collection and storage of plastic aboard ships of the Navy upon the installation of such processors in such ships.
 
 (3) Except when necessary for the purpose of securing the safety of the ship, the health of the ship's personnel, or saving life at sea, it shall be a violation of this chapter for a ship referred to in subsection (b)(1)(A) of this section that is owned or operated by the Department of the Navy:
 
@@ -130,15 +154,23 @@ The heads of Federal departments and agencies shall prescribe standards applicab
 
 Nothing in this section shall be construed to restrict in a manner inconsistent with international law navigational rights and freedoms as defined by United States law, treaty, convention, or customary international law.
 
-(Pub. L. 96–478, §3, Oct. 21, 1980, 94 Stat. 2297; Pub. L. 100–220, title II, §2102, Dec. 29, 1987, 101 Stat. 1461; Pub. L. 103–160, div. A, title X, §1003(a)–(d), Nov. 30, 1993, 107 Stat. 1745–1747; Pub. L. 104–201, div. A, title III, §324(a), (d), Sept. 23, 1996, 110 Stat. 2480, 2481; Pub. L. 104–227, title II, §201(b), Oct. 2, 1996, 110 Stat. 3042; Pub. L. 105–261, div. A, title III, §326, Oct. 17, 1998, 112 Stat. 1965; Pub. L. 110–280, §4, July 21, 2008, 122 Stat. 2611.)
+(Pub. L. 96–478, §3, Oct. 21, 1980, 94 Stat. 2297; Pub. L. 100–220, title II, §2102, Dec. 29, 1987, 101 Stat. 1461; Pub. L. 103–160, div. A, title X, §1003(a)–(d), Nov. 30, 1993, 107 Stat. 1745–1747; Pub. L. 104–201, div. A, title III, §324(a), (d), Sept. 23, 1996, 110 Stat. 2480, 2481; Pub. L. 104–227, title II, §201(b), Oct. 2, 1996, 110 Stat. 3042; Pub. L. 105–261, div. A, title III, §326, Oct. 17, 1998, 112 Stat. 1965; Pub. L. 110–280, §4, July 21, 2008, 122 Stat. 2611; Pub. L. 112–81, div. A, title III, §313, Dec. 31, 2011, 125 Stat. 1355.)
 
 #### References in Text
 
-Subsection (c) of this section, referred to in subsecs. (b)(2)(A)(ii), (iii), (f)(1), and (g), was redesignated subsection (d) by Pub. L. 110–280, §4(3), July 21, 2008, 122 Stat. 2613.
+This chapter, referred to in subsec. (b)(1), was in the original “this Act”, meaning Pub. L. 96–478, Oct. 21, 1980, 94 Stat. 2297, known as the “Act to Prevent Pollution from Ships” which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
 
 Section 1003(e) of the National Defense Authorization Act for Fiscal Year 1994, referred to in subsecs. (f)(4)(B) and (g), is section 1003(e) of Pub. L. 103–160, which is set out below.
 
+Subsection (c) of this section, referred to in subsec. (g), was redesignated subsection (d) by Pub. L. 110–280, §4(3), July 21, 2008, 122 Stat. 2613.
+
 #### Amendments
+
+<b>2011</b>—Subsec. (b). Pub. L. 112–81, §313(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to excluded vessels.
+
+Subsec. (f)(1). Pub. L. 112–81, §313(b)(1), substituted “subsection (b)” for “Annex V to the Convention on or before the dates referred to in subsections (b)(2)(A) and (c)(1)”.
+
+Subsec. (f)(2). Pub. L. 112–81, §313(b)(2), inserted “and subsection (b)(3)(B)(i) of this section” after “Annex V to the Convention”.
 
 <b>2008</b>—Subsec. (a)(5). Pub. L. 110–280, §4(1), added par. (5).
 
@@ -205,6 +237,18 @@ Amendment by Pub. L. 100–220 effective Dec. 31, 1988, the date on which Annex 
 #### Effective Date
 
 Subsecs. (c) and (d) of this section effective Oct. 21, 1980, see section 14(b) of Pub. L. 96–478, set out as a note under section 1901 of this title.
+
+#### Compliance With Annex V to the International Convention for the Prevention of Pollution From Ships, 1973
+
+Pub. L. 104–201, div. A, title III, §324(b), (c), Sept. 23, 1996, 110 Stat. 2480, as amended by Pub. L. 105–85, div. A, title X, §1073(c)(1), Nov. 18, 1997, 111 Stat. 1904; Pub. L. 108–136, div. A, title X, §1031(f)(1), Nov. 24, 2003, 117 Stat. 1604, provided that:
+
+“(b)
+
+Sense of Congress.—(1) It is the sense of Congress that it should be an objective of the Navy to achieve full compliance with Annex V to the Convention as part of the Navy's development of ships that are environmentally sound.
+
+“(2) In this subsection and subsection (c), the terms ‘Convention’ and ‘ship’ have the meanings given such terms in section 2(a) of the Act to Prevent Pollution from Ships (33 U.S.C. 1901(a)).
+
+“\[(c) Repealed. Pub. L. 108–136, div. A, title X, §1031(f)(1), Nov. 24, 2003, 117 Stat. 1604.\]”
 
 #### Installation Schedule for Plastics Processor Equipment Aboard Ships; Request for Proposals for Equipment
 

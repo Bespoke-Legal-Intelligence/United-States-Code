@@ -84,7 +84,7 @@
 
 > the Office shall, within 30 days after the action, transmit to the Congress written notice of the exclusion or revocation.
 
-(Added Pub. L. 95–454, title IV, §402(a), Oct. 13, 1978, 92 Stat. 1155; amended Pub. L. 96–54, §2(a)(12), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–187, title II, §203, Jan. 8, 1980, 93 Stat. 1368; Pub. L. 100–325, §2(c), May 30, 1988, 102 Stat. 581; Pub. L. 101–73, title VII, §742(c), Aug. 9, 1989, 103 Stat. 437; Pub. L. 101–509, title V, §529 \[title I, §101(b)(9)(A)\], Nov. 5, 1990, 104 Stat. 1427, 1441; Pub. L. 101–624, title XVIII, §1841, Nov. 28, 1990, 104 Stat. 3835; Pub. L. 102–496, title IV, §402(b), Oct. 24, 1992, 106 Stat. 3184; Pub. L. 102–550, title XIII, §1351(b), Oct. 28, 1992, 106 Stat. 3969; Pub. L. 103–359, title V, §501(d), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 104–201, div. A, title XI, §1122(a)(1), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 107–123, §8(d)(1)(B), Jan. 16, 2002, 115 Stat. 2399; Pub. L. 107–171, title X, §10702(c)(1), May 13, 2002, 116 Stat. 517; Pub. L. 107–252, title VIII, §811(b), Oct. 29, 2002, 116 Stat. 1727; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–289, div. A, title I, §1161(g)(2), July 30, 2008, 122 Stat. 2781; Pub. L. 110–417, \[div. A\], title IX, §931(a)(1), Oct. 14, 2008, 122 Stat. 4575; Pub. L. 111–203, title I, §152(d)(4), July 21, 2010, 124 Stat. 1414.)
+(Added Pub. L. 95–454, title IV, §402(a), Oct. 13, 1978, 92 Stat. 1155; amended Pub. L. 96–54, §2(a)(12), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–187, title II, §203, Jan. 8, 1980, 93 Stat. 1368; Pub. L. 100–325, §2(c), May 30, 1988, 102 Stat. 581;Pub. L. 101–73, title VII, §742(c), Aug. 9, 1989, 103 Stat. 437; Pub. L. 101–509, title V, §529 \[title I, §101(b)(9)(A)\], Nov. 5, 1990, 104 Stat. 1427, 1441; Pub. L. 101–624, title XVIII, §1841, Nov. 28, 1990, 104 Stat. 3835; Pub. L. 102–496, title IV, §402(b), Oct. 24, 1992, 106 Stat. 3184; Pub. L. 102–550, title XIII, §1351(b), Oct. 28, 1992, 106 Stat. 3969; Pub. L. 103–359, title V, §501(d), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 104–201, div. A, title XI, §1122(a)(1), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 107–123, §8(d)(1)(B), Jan. 16, 2002, 115 Stat. 2399; Pub. L. 107–171, title X, §10702(c)(1), May 13, 2002, 116 Stat. 517; Pub. L. 107–252, title VIII, §811(b), Oct. 29, 2002, 116 Stat. 1727; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–289, div. A, title I, §1161(g)(2), July 30, 2008, 122 Stat. 2781; Pub. L. 110–417, \[div. A\], title IX, §931(a)(1), Oct. 14, 2008, 122 Stat. 4575; Pub. L. 111–203, title I, §152(d)(4), July 21, 2010, 124 Stat. 1414.)
 
 #### References in Text
 
@@ -94,9 +94,9 @@ The date of the enactment of the Civil Service Reform Act of 1978, referred to i
 
 #### Amendments
 
-2010—Subsec. (a)(1)(D). Pub. L. 111–203 substituted “the National Credit Union Administration, the Bureau of Consumer Financial Protection, and the Office of Financial Research;” for “and the National Credit Union Administration;”.
+<b>2010</b>—Subsec. (a)(1)(D). Pub. L. 111–203 substituted “the National Credit Union Administration, the Bureau of Consumer Financial Protection, and the Office of Financial Research;” for “and the National Credit Union Administration;”.
 
-2008—Subsec. (a)(1)(B). Pub. L. 110–417 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
+<b>2008</b>—Subsec. (a)(1)(B). Pub. L. 110–417 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
 Pub. L. 110–289, §1161(g)(2)(A), substituted “, and” for “,, and”.
 
@@ -104,9 +104,9 @@ Subsec. (a)(1)(D). Pub. L. 110–289, §1161(g)(2)(B), struck out “the Federal
 
 Subsec. (a)(1)(E), (F). Pub. L. 110–289, §1161(g)(2)(C), (D), inserted “or” at end of subpar. (E), relating to Securities and Exchange Commission, and redesignated subpar. (E), relating to Commodity Futures Trading Commission, as (F).
 
-2004—Subsec. (a)(1). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in introductory provisions.
+<b>2004</b>—Subsec. (a)(1). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in introductory provisions.
 
-2002—Subsec. (a)(1)(C). Pub. L. 107–252, §811(b), inserted “or the Election Assistance Commission” after “Commission”.
+<b>2002</b>—Subsec. (a)(1)(C). Pub. L. 107–252, §811(b), inserted “or the Election Assistance Commission” after “Commission”.
 
 Pub. L. 107–171, §10702(c)(1)(A), which directed amendment by striking “or” at the end, could not be executed because the word “or” did not appear at the end. See below.
 
@@ -120,27 +120,27 @@ Subsec. (a)(1)(E). Pub. L. 107–171, §10702(c)(1)(C), added subpar. (E) relati
 
 Pub. L. 107–123, §8(d)(1)(B)(iii), added subpar. (E) relating to the Securities and Exchange Commission.
 
-1996—Subsec. (a)(1)(B). Pub. L. 104–201 substituted “National Imagery and Mapping Agency” for “Central Imagery Office”.
+<b>1996</b>—Subsec. (a)(1)(B). Pub. L. 104–201 substituted “National Imagery and Mapping Agency” for “Central Imagery Office”.
 
-1994—Subsec. (a)(1)(B). Pub. L. 103–359 inserted “the Central Imagery Office,” after “Defense Intelligence Agency,”.
+<b>1994</b>—Subsec. (a)(1)(B). Pub. L. 103–359 inserted “the Central Imagery Office,” after “Defense Intelligence Agency,”.
 
-1992—Subsec. (a)(1)(B). Pub. L. 102–496 inserted “, Department of Defense intelligence activities the civilian employees of which are subject to section 1590 of title 10,” after “National Security Agency”.
+<b>1992</b>—Subsec. (a)(1)(B). Pub. L. 102–496 inserted “, Department of Defense intelligence activities the civilian employees of which are subject to section 1590 of title 10,” after “National Security Agency”.
 
 Subsec. (a)(1)(D). Pub. L. 102–550 inserted “the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development,” after “Farm Credit Administration,”.
 
-1990—Subsec. (a)(1)(D). Pub. L. 101–624 inserted reference to Farm Credit Administration.
+<b>1990</b>—Subsec. (a)(1)(D). Pub. L. 101–624 inserted reference to Farm Credit Administration.
 
 Subsec. (a)(2). Pub. L. 101–509 substituted “classified above GS–15 pursuant to section 5108” for “in GS–16, 17, or 18 of the General Schedule”.
 
-1989—Subsec. (a)(1)(D). Pub. L. 101–73 added subpar. (D).
+<b>1989</b>—Subsec. (a)(1)(D). Pub. L. 101–73 added subpar. (D).
 
-1988—Subsec. (a)(1)(B). Pub. L. 100–325, §2(c)(1), inserted reference to Drug Enforcement Administration.
+<b>1988</b>—Subsec. (a)(1)(B). Pub. L. 100–325, §2(c)(1), inserted reference to Drug Enforcement Administration.
 
 Subsec. (a)(2)(iii). Pub. L. 100–235, §2(c)(2), struck out cl. (iii) which read as follows: “any position in the Drug Enforcement Administration which is excluded from the competitive service under section 201 of the Crime Control Act of 1976 (5 U.S.C. 5108 note; 90 Stat. 2425);”.
 
-1980—Subsec. (a)(1)(C). Pub. L. 96–187 added subpar. (C).
+<b>1980</b>—Subsec. (a)(1)(C). Pub. L. 96–187 added subpar. (C).
 
-1979—Subsec. (a)(1)(B). Pub. L. 96–54 inserted “and,” after “Security Agency,”.
+<b>1979</b>—Subsec. (a)(1)(B). Pub. L. 96–54 inserted “and,” after “Security Agency,”.
 
 #### Effective Date of 2010 Amendment
 

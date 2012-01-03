@@ -54,7 +54,7 @@ Except as may otherwise be provided in law, the unexpended balances of appropria
 
 #### (B) Special rule for terminations
 
-&emsp;&emsp;The Chief may terminate an officer, member, or employee only after the Chief hasprovided notice of the termination to the Capitol Police Board (in such manner as the Board may from time to time require) and the Board has approved the termination, except that if the Board has not disapproved the termination prior to the expiration of the 30-day period which begins on the date the Board receives the notice, the Board shall be deemed to have approved the termination.
+&emsp;&emsp;The Chief may terminate an officer, member, or employee only after the Chief has provided notice of the termination to the Capitol Police Board (in such manner as the Board may from time to time require) and the Board has approved the termination, except that if the Board has not disapproved the termination prior to the expiration of the 30-day period which begins on the date the Board receives the notice, the Board shall be deemed to have approved the termination.
 
 #### (C) Notice or approval
 
@@ -82,7 +82,7 @@ Except as may otherwise be provided in law, the unexpended balances of appropria
 
 #### (1) In general
 
-&emsp;The provisions of this section shall not be construed to reduce the pay or benefits of any employee of the Capitol Police whose pay was disbursed by the Chief Administrative Officer of the House of Representatives or the Secretary of the Senate before February 20, 2003.
+&emsp;The provisions of this section shall not be construed to reduce the pay or benefits of anyemployee of the Capitol Police whose pay was disbursed by the Chief Administrative Officer of the House of Representatives or the Secretary of the Senate before February 20, 2003.
 
 #### (2) Superseding provisions
 
@@ -108,5 +108,5 @@ Section is from the Legislative Branch Appropriations Act, 2003, which is div. H
 
 #### Amendments
 
-2010—Subsec. (e)(1). Pub. L. 111–145 added par. (1) and struck out former par. (1) which authorized the Chief of the Capitol Police to appoint, hire, discharge, and set the terms, conditions, and privileges of employment of employees of the Capitol Police, subject to review and approval.
+<b>2010</b>—Subsec. (e)(1). Pub. L. 111–145 added par. (1) and struck out former par. (1) which authorized the Chief of the Capitol Police to appoint, hire, discharge, and set the terms, conditions, and privileges of employment of employees of the Capitol Police, subject to review and approval.
 

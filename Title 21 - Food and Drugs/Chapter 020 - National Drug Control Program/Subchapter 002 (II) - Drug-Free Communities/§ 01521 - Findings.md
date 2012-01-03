@@ -2,7 +2,7 @@
 
 Congress finds the following:
 
-&emsp;(1) Substance abuse among youth has more than doubled in the 5-year period preceding 1996, with substantial increases in the use ofmarijuana, inhalants, cocaine, methamphetamine, LSD, and heroin.
+&emsp;(1) Substance abuse among youth has more than doubled in the 5-year period preceding 1996, with substantial increases in the use of marijuana, inhalants, cocaine, methamphetamine, LSD, and heroin.
 
 &emsp;(2) The most dramatic increases in substance abuse has occurred among 13- and 14-year-olds.
 

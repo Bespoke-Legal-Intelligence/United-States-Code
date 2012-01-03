@@ -18,7 +18,7 @@ The Secretary shall base determinations of whether to approve applications for g
 
 #### (c) Noncommercial radio broadcast station facilities
 
-Of the sums appropriated pursuant to section 391 of this title for any fiscal year, a substantial amount shall be available for the expansion and development of noncommercial radio broadcast station facilities.
+Of the sums appropriated pursuant to section 391 of this title for any fiscal year, a substantialamount shall be available for the expansion and development of noncommercial radio broadcast station facilities.
 
 (June 19, 1934, ch. 652, title III, §393, as added Pub. L. 87–447, May 1, 1962, 76 Stat. 66; amended Pub. L. 90–129, title II, §201(2), Nov. 7, 1967, 81 Stat. 367; Pub. L. 95–567, title I, §104, Nov. 2, 1978, 92 Stat. 2408; Pub. L. 99–272, title V, §5001(b), Apr. 7, 1986, 100 Stat. 117; Pub. L. 102–356, §3, Aug. 26, 1992, 106 Stat. 949.)
 

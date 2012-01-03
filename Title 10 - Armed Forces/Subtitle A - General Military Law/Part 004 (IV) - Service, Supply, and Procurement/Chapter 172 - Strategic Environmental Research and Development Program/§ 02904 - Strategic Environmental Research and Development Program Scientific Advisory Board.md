@@ -54,7 +54,7 @@ Section 1801(b) of Pub. L. 101–510 directed Secretary of Defense and Secretary
 
 #### First Annual Report of Advisory Board
 
-Section 1801(d) of Pub. L. 101–510 directed that first annual report of the Strategic Environmental Researchand Development Program Scientific Advisory Board be submitted not later than Mar. 15, 1992.
+Section 1801(d) of Pub. L. 101–510 directed that first annual report of the Strategic Environmental Research and Development Program Scientific Advisory Board be submitted not later than Mar. 15, 1992.
 
 #### Termination of Advisory Boards
 

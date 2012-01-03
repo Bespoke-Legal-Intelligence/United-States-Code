@@ -16,7 +16,7 @@ Pub. L. 100–399, §901(r), transferred section 5.0 of Pub. L. 92–181, which 
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–399, §901(s), designated existing provisions as subsec. (a), inserted heading, and substituted “regulation” for “the regulation”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–399, §901(s), designated existing provisions as subsec. (a), inserted heading, and substituted “regulation” for “the regulation”.
 
 Pub. L. 100–233, §434, amended provisions generally. Prior to amendment, provisions read as follows: “The Farm Credit System shall include the Federal land banks, the Federal land bank associations, the Federal intermediate credit banks, the production credit associations, the banks for cooperatives, and such other institutions as may be made a part of the System, all of which shall be chartered by and subject to regulation by the Farm Credit Administration.”
 
@@ -26,11 +26,11 @@ Subsec. (b). Pub. L. 100–399, §901(q), (r), designated section 2221 of this t
 
 Pub. L. 100–233, §805(v), substituted “section 2252(a)(2) of this title” for “section 2252(2) of this title”.
 
-1985—Subsec. (a). Pub. L. 99–205, §205(c), substituted “regulation by” for “supervision of”.
+<b>1985</b>—Subsec. (a). Pub. L. 99–205, §205(c), substituted “regulation by” for “supervision of”.
 
-Subsec. (b). Pub. L. 99–205, §205(g)(1), substituted “Farm Credit Administration” for “Federal Farm Credit Board” in first and second sentences, and made a technical amendment to reference to section 2252(2) of this title to reflect the renumbering of the corresponding section of the original act.
+Subsec. (b). Pub. L. 99–205, §205(g)(1), substituted “Farm Credit Administration” for “Federal Farm Credit Board” in first and second sentences, and made a technical amendment to reference to section 2252(2)of this title to reflect the renumbering of the corresponding section of the original act.
 
-1980—Subsec. (b). Pub. L. 96–592 inserted provisions relating to Virgin Islands of the United States.
+<b>1980</b>—Subsec. (b). Pub. L. 96–592 inserted provisions relating to Virgin Islands of the United States.
 
 #### Effective Date of 1988 Amendments
 
@@ -68,7 +68,7 @@ In general.—Not later than 6 months after the date of the enactment of this se
 
 &emsp;&emsp;“(B)
 
-Composition.—The special committee selected under subparagraph (A) shall be composed ofone representative from each Farm Credit Bank board and the members of the Board of Directors of the Assistance Board.
+Composition.—The special committee selected under subparagraph (A) shall be composed of one representative from each Farm Credit Bank board and the members of the Board of Directors of the Assistance Board.
 
 &emsp;“(2)
 
@@ -107,4 +107,6 @@ Stockholder vote.—Each association shall be entitled to cast a number of votes
 #### Applicability of Laws Enacted After January 1, 1960
 
 Pub. L. 86–168, title II, §203(b), Aug. 18, 1959, 73 Stat. 390, provided that: “Any Act of Congress enacted after the effective date of this title \[Jan. 1, 1960\] and which states that it shall be applicable to agencies or instrumentalities of the United States or to corporations controlled or owned, in whole or in part, by the United States, or to officers and employees of the United States or such agencies or instrumentalities or corporations, shall not be applicable to a Federal land bank, Federal intermediate credit bank, or bank for cooperatives, or to its directors, officers, or employees unless such Act specifically so provides by naming such banks.”
+
+<i><sup>1</sup></i><i> So in original.</i>
 

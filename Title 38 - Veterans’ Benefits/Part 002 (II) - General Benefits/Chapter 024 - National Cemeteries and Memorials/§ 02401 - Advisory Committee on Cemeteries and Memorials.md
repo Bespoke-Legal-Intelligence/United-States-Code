@@ -1,6 +1,6 @@
 ### §2401. Advisory Committee on Cemeteries and Memorials
 
-There shall be appointed by the Secretary an Advisory Committee on Cemeteries and Memorials. The Secretary shall advise and consult with the Committee from time to time with respect to the administration of the cemeteries forwhich the Secretary is responsible, and with respect to the selection of cemetery sites, the erection of appropriate memorials, and the adequacy of Federal burial benefits. The Committee shall make periodic reports and recommendations to the Secretary and to Congress.
+There shall be appointed by the Secretary an Advisory Committee on Cemeteries and Memorials. The Secretary shall advise and consult with the Committee from time to time with respect to the administration of the cemeteries for which the Secretary is responsible, and with respect to the selection of cemetery sites, the erection of appropriate memorials, and the adequacy of Federal burial benefits. The Committee shall make periodic reports and recommendations to the Secretary and to Congress.
 
 (Added Pub. L. 93–43, §2(a), June 18, 1973, 87 Stat. 75, §1001; amended Pub. L. 99–576, title VII, §701(53), Oct. 28, 1986, 100 Stat. 3295; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered §2401, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
 

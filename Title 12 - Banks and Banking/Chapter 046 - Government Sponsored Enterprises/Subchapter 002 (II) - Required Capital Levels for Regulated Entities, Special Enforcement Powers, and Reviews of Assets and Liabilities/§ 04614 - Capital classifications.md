@@ -58,7 +58,7 @@ For purposes of this subchapter, the Director shall classify the enterprises acc
 
 &emsp;&emsp;(A) establish the capital classifications specified under paragraph (2) for the Federal Home Loan Banks;
 
-&emsp;&emsp;(B) establish criteria for each such capital classification based on the amount and types of capital held by a bank and the risk-based, minimum, and critical capital levels for the banks and taking due consideration of the capital classifications established under subsection (a) for the enterprises, with such modifications as the Director determines to be appropriate to reflect the difference in operations between the banks and the enterprises; and
+&emsp;&emsp;(B) establish criteria for each such capital classification based on the amount and typesof capital held by a bank and the risk-based, minimum, and critical capital levels for the banks and taking due consideration of the capital classifications established under subsection (a) for the enterprises, with such modifications as the Director determines to be appropriate to reflect the difference in operations between the banks and the enterprises; and
 
 &emsp;&emsp;(C) shall classify the Federal Home Loan Banks according to such capital classifications.
 
@@ -130,7 +130,7 @@ Section 4615(c) of this title, referred to in subsec. (f), was repealed and a ne
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–289, §1142(a)(1), substituted “Enterprises” for “In general” in heading.
+<b>2008</b>—Subsec. (a). Pub. L. 110–289, §1142(a)(1), substituted “Enterprises” for “In general” in heading.
 
 Subsec. (b). Pub. L. 110–289, §1142(a)(4), added subsec. (b) and struck out former subsec. (b) which related to discretionary classification.
 

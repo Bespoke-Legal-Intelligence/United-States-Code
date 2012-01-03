@@ -6,7 +6,7 @@ In order to mitigate conflicts of interest, not later than 180 days after July 2
 
 #### (b) Purposes
 
-The Securities and Exchange Commission shall adopt rules if the Commission determines, after the review described in subsection (a), thatsuch rules are necessary or appropriate to improve the governance of, or to mitigate systemic risk, promote competition, or mitigate conflicts of interest in connection with a security-based swap dealer or major security-based swap participant's conduct of business with, a clearing agency, national securities exchange, or security-based swap execution facility that clears, posts, or makes available for trading security-based swaps and in which such security-based swap dealer or major security-based swap participant has a material debt or equity investment.
+The Securities and Exchange Commission shall adopt rules if the Commission determines, after the review described in subsection (a), that such rules are necessary or appropriate to improve the governance of, or to mitigate systemic risk, promote competition, or mitigate conflicts of interest in connection with a security-based swap dealer or major security-based swap participant's conduct of business with, a clearing agency, national securities exchange, or security-based swap execution facility that clears, posts, or makes available for trading security-based swaps and in which such security-based swap dealer or major security-based swap participant has a material debt or equity investment.
 
 #### (c) Considerations
 

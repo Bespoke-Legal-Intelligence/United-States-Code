@@ -14,17 +14,17 @@ As used in this subchapter—
 
 #### Amendments
 
-1967—Subsec. (b). Pub. L. 90–19 substituted “Secretary” for “Commissioner”.
+<b>1967</b>—Subsec. (b). Pub. L. 90–19 substituted “Secretary” for “Commissioner”.
 
-1960—Subsec. (d). Pub. L. 88–624 struck out “Hawaii,” before “Puerto Rico”.
+<b>1960</b>—Subsec. (d). Pub. L. 88–624 struck out “Hawaii,” before “Puerto Rico”.
 
-1959—Subsec. (d). Pub. L. 86–70 struck out “Alaska,” before “Hawaii”.
+<b>1959</b>—Subsec. (d). Pub. L. 86–70 struck out “Alaska,” before “Hawaii”.
 
-1952—Subsec. (d). Act July 14, 1952, inserted “Guam,” after “District of Columbia,”.
+<b>1952</b>—Subsec. (d). Act July 14, 1952, inserted “Guam,” after “District of Columbia,”.
 
-1950—Act Apr. 20, 1950, substituted “Commissioner” for “Administrator” wherever appearing.
+<b>1950</b>—Act Apr. 20, 1950, substituted “Commissioner” for “Administrator” wherever appearing.
 
 #### Separability
 
-Section 9 of act Mar. 28, 1941 provided that: “If any provision of this Act \[enacting sections 1736 to 1742 of this title, and section 609k of Title 15, Commerce and Trade, and amending sections 371, 1430, 1702, 1706, 1707, 1713, and 1715, 1716, 1717 of this title\] or the application thereof to any person or circumstances, is held invalid, the remainder of the Act, and the application of such provision to other persons or circumstances, shall not be affected thereby.”
+Section 9 of act Mar. 28, 1941 provided that: “If any provision of this Act \[enacting sections 1736 to 1742 ofthis title, and section 609k of Title 15, Commerce and Trade, and amending sections 371, 1430, 1702, 1706, 1707, 1713, and 1715, 1716, 1717 of this title\] or the application thereof to any person or circumstances, is held invalid, the remainder of the Act, and the application of such provision to other persons or circumstances, shall not be affected thereby.”
 

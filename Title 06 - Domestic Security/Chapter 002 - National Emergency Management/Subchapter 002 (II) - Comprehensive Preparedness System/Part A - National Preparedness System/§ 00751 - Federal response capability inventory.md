@@ -50,7 +50,7 @@ The Administrator shall establish an inventory database to allow—
 
 #### Amendments
 
-2007—Subsec. (b). Pub. L. 110–53, §405(1)(A), substituted “For each Federal agency with responsibilities under the National Response Plan, the inventory” for “The inventory” in introductory provisions.
+<b>2007</b>—Subsec. (b). Pub. L. 110–53, §405(1)(A), substituted “For each Federal agency with responsibilities under the National Response Plan, the inventory” for “The inventory” in introductory provisions.
 
 Subsec. (b)(2) to (4). Pub. L. 110–53, §405(1)(B)–(D), added pars. (2) and (3) and redesignated former par. (2) as (4).
 

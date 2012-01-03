@@ -12,7 +12,7 @@
 
 #### (b) Regulations to insure compliance with noise emission standards
 
-The Secretary of Transportation, after consultation with the Administrator shall promulgate regulations to insure compliance with all standards promulgated by the Administrator under this section. The Secretary of Transportation shall carry out such regulations through the use of his powers and duties of enforcement and inspection authorized by subtitle IV of title 49 and the Department of Transportation Act. Regulations promulgated under this section shall be subject to the provisions of sections 4909, 4910, 4911, and 4915 of this title.
+The Secretary of Transportation, after consultation with the Administrator shall promulgate regulations to insure compliance with all standards promulgated by the Administrator under this section. The Secretary of Transportation shall carry out such regulations through the use of his powers and duties of enforcement and inspection authorized by subtitle IV of title 49 and the Department of Transportation Act. Regulations promulgated under this sectionshall be subject to the provisions of sections 4909, 4910, 4911, and 4915 of this title.
 
 #### (c) State and local standards and controls
 
@@ -32,7 +32,7 @@ The Department of Transportation Act, referred to in subsec. (b), is Pub. L. 89�
 
 #### Codification
 
-In subsec. (b), “subtitle IV of title 49” substituted for “the Interstate Commerce Act \[49 U.S.C. 1 et seq.\]” on authority of Pub. L. 95–473, §3(b), Oct. 17, 1978, 92 Stat.1466, the first section of which enacted subtitle IV of Title 49, Transportation.
+In subsec. (b), “subtitle IV of title 49” substituted for “the Interstate Commerce Act \[49 U.S.C. 1 et seq.\]” on authority of Pub. L. 95–473, §3(b), Oct. 17, 1978, 92 Stat. 1466, the first section of which enacted subtitle IV of Title 49, Transportation.
 
 #### Amendments
 

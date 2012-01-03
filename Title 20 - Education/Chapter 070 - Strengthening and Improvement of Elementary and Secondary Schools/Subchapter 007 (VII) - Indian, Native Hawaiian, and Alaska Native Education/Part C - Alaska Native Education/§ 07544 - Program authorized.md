@@ -64,7 +64,7 @@
 
 &emsp;&emsp;(R) Career preparation activities to enable Alaska Native children and adults to prepare for meaningful employment, including programs providing tech-prep, mentoring, training, and apprenticeship activities.
 
-&emsp;&emsp;(S) Provision of operational support and purchasing of equipment, to develop regional vocational schools in rural areas of Alaska, including boarding schools, for Alaska Native students in grades 9 through 12, or at higher levels of education, to provide the students with necessary resources to prepare for skilled employment opportunities.
+&emsp;&emsp;(S) Provision of operational support and purchasing of equipment, to develop regional vocational schools in rural areas of Alaska, including boarding schools, for Alaska Native students in grades 9 through 12, or at higher levels of education, to provide thestudents with necessary resources to prepare for skilled employment opportunities.
 
 &emsp;&emsp;(T) Other activities, consistent with the purposes of this part, to meet the educational needs of Alaska Native children and adults.
 
@@ -84,7 +84,7 @@ Not more than 5 percent of funds provided to a grantee under this section for an
 
 #### (c) Priorities
 
-In awarding grants or contracts to carry out activities described in subsection (a)(2) of thissection, except for activities listed in subsection (d)(2) of this section, the Secretary shall give priority to applications from Alaska Native regional nonprofit organizations, or consortia that include at least one Alaska Native regional nonprofit organization.
+In awarding grants or contracts to carry out activities described in subsection (a)(2) of this section, except for activities listed in subsection (d)(2) of this section, the Secretary shall give priority to applications from Alaska Native regional nonprofit organizations, or consortia that include at least one Alaska Native regional nonprofit organization.
 
 #### (d) Authorization of appropriations
 

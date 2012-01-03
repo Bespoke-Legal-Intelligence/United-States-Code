@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-A taxpayer engaged in the business of farming may treat expenditures which are paid or incurred by him during the taxable year for the purpose of soil or water conservation in respect of land used in farming, or for the prevention of erosion of land used in farming, or for endangered species recovery, as expenses which are not chargeable to capital account. The expenditures so treated shall be allowed as a deduction.
+A taxpayer engaged in the business of farming may treat expenditures which are paid or incurred by him during the taxable year for the purpose of soil or water conservation in respect of land used in farming, or for the prevention of erosion of land used in farming, or for endangered species recovery, as expenses which arenot chargeable to capital account. The expenditures so treated shall be allowed as a deduction.
 
 #### (b) Limitation
 
@@ -64,7 +64,7 @@ The method adopted under this section shall apply to all expenditures described 
 
 #### (2) Disposition of land during 9-year period
 
-&emsp;If paragraph (1) applies to an assessment and the land with respect to which such assessment was made is sold or otherwise disposed of by the taxpayer (other than by the reason of his death) during the 9 succeeding taxable years, any amount of the excess described in paragraph (1) which has not been treated as paid or incurred for a taxable year ending on or before the sale or other disposition shall be added to the adjusted basis of such land immediately prior to its sale or other disposition and shall not thereafter be treated as paid or incurred ratably under paragraph (1).
+&emsp;If paragraph (1) applies to an assessment and the land with respect to which such assessment was made is sold or otherwise disposed of by the taxpayer (other than by the reason ofhis death) during the 9 succeeding taxable years, any amount of the excess described in paragraph (1) which has not been treated as paid or incurred for a taxable year ending on or before the sale or other disposition shall be added to the adjusted basis of such land immediately prior to its sale or other disposition and shall not thereafter be treated as paid or incurred ratably under paragraph (1).
 
 #### (3) Disposition by reason of death
 

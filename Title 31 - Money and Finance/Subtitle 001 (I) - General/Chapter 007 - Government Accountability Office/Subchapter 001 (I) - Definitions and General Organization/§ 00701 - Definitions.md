@@ -38,7 +38,7 @@ In clause (1), “agency” (which is defined for purposes of this title in sect
 
 #### Short Title of 2008 Amendment
 
-Pub. L. 110–323, §1(a), Sept. 22, 2008, 122 Stat. 3539, provided that: “This Act \[enacting section 705 of this title, amending sections 731 to 733, 735, and 3521 of this title and section 109 of the Ethics in Government Act of 1978, Pub. L. 95–521, set out in the Appendix to Title 5, Government Organization and Employees, enacting provisions set out as notes under sections 705, 732, and 3523 of this title, and repealing provisions set out as a noteunder section 3523 of this title\] may be cited as the ‘Government Accountability Office Act of 2008’.”
+Pub. L. 110–323, §1(a), Sept. 22, 2008, 122 Stat. 3539, provided that: “This Act \[enacting section 705 of this title, amending sections 731 to 733, 735, and 3521 of this title and section 109 of the Ethics in Government Act of 1978, Pub. L. 95–521, set out in the Appendix to Title 5, Government Organization and Employees, enacting provisions set out as notes under sections 705, 732, and 3523 of this title, and repealing provisions set out as a note under section 3523 of this title\] may be cited as the ‘Government Accountability Office Act of 2008’.”
 
 #### Short Title of 2004 Amendment
 

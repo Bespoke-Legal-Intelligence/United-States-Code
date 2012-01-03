@@ -6,7 +6,7 @@ The Secretary of Housing and Urban Development, after consultation with the Secr
 
 #### References in Text
 
-Section 811 of the Housing and Community Development Act of 1974, referred to in text, is section 811 of Pub. L. 93–383, title VIII, Aug. 22, 1974, 88 Stat. 735, which amended section 1701x of Title 12, Banks and Banking.
+Section 811 of the Housing and Community Development Act of 1974, referred to in text, is section 811 ofPub. L. 93–383, title VIII, Aug. 22, 1974, 88 Stat. 735, which amended section 1701x of Title 12, Banks and Banking.
 
 The Housing and Community Development Act of 1974, referred to in text, is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. Title I of the Housing and Community Development Act of 1974 is classified principally to chapter 69 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 

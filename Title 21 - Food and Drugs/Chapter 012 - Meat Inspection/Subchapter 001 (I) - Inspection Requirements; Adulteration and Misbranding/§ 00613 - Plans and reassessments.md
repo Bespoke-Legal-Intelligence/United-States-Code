@@ -8,7 +8,7 @@ The Secretary shall require that each establishment subject to inspection under 
 
 &emsp;(3) upon request, make the procedures and reassessed process control plans available to inspectors appointed by the Secretary for review and copying.
 
-(Mar. 4, 1907, ch. 2907, title I, §13, as added Pub. L. 110–234, title XI, §11017(a), May 22, 2008, 122Stat. 1370, and Pub. L. 110–246, §4(a), title XI, §11017(a), June 18, 2008, 122 Stat. 1664, 2132.)
+(Mar. 4, 1907, ch. 2907, title I, §13, as added Pub. L. 110–234, title XI, §11017(a), May 22, 2008, 122 Stat. 1370, and Pub. L. 110–246, §4(a), title XI, §11017(a), June 18, 2008, 122 Stat. 1664, 2132.)
 
 #### Codification
 

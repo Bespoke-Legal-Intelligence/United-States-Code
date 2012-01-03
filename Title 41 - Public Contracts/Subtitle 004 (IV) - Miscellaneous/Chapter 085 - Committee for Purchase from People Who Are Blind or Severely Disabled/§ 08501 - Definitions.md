@@ -14,7 +14,7 @@ Committee.—The term “Committee” means the Committee for Purchase From Peop
 
 Direct labor.—The term “direct labor”—
 
-&emsp;&emsp;(A) includes all work required for preparation, processing, and packing of a product, or work directly relating to the performance of a service; but
+&emsp;&emsp;(A) includes all work required for preparation, processing, and packing of a product,or work directly relating to the performance of a service; but
 
 &emsp;&emsp;(B) does not include supervision, administration, inspection, or shipping.
 
@@ -56,7 +56,7 @@ Qualified nonprofit agency for the blind.—The term “qualified nonprofit agen
 
 &emsp;(8)
 
-Severely disabled individual.—The term “severely disabled individual” means anindividual or class of individuals under a physical or mental disability, other than blindness, which (according to criteria established by the Committee after consultation with appropriate entities of the Federal Government and taking into account the views of non-Federal Government entities representing the disabled) constitutes a substantial handicap to employment and is of a nature that prevents the individual from currently engaging in normal competitive employment.
+Severely disabled individual.—The term “severely disabled individual” means an individual or class of individuals under a physical or mental disability, other than blindness, which (according to criteria established by the Committee after consultation with appropriate entities of the Federal Government and taking into account the views of non-Federal Government entities representing the disabled) constitutes a substantial handicap to employment and is of a nature that prevents the individual from currently engaging in normal competitive employment.
 
 &emsp;(9)
 

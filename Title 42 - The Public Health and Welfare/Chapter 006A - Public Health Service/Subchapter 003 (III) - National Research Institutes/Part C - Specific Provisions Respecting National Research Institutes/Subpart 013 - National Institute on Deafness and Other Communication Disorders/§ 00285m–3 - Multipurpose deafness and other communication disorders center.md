@@ -42,7 +42,7 @@ Each center assisted under this section may conduct programs—
 
 #### (f) Equitable geographical distribution; needs of elderly and children
 
-The Director of the Institute shall, to the extent practicable, provide for an equitable geographical distribution of centers assisted under this section. The Director shall give appropriate consideration to the need for centers especially suited to meeting the needs of the elderly, andof children (particularly with respect to their education and training), affected by disorders of hearing or other communication processes.
+The Director of the Institute shall, to the extent practicable, provide for an equitable geographical distribution of centers assisted under this section. The Director shall give appropriate consideration to the need for centers especially suited to meeting the needs of the elderly, and of children (particularly with respect to their education and training), affected by disorders of hearing or other communication processes.
 
 #### (g) Period of support; recommended extensions of peer review group
 

@@ -68,5 +68,5 @@ Notwithstanding any other provision of this chapter, the Secretary shall have th
 
 #### Amendments
 
-1998—Pub. L. 105–185 designated existing provisions as subsec. (a), inserted heading, and added par. (8) and subsecs. (b) to (d).
+<b>1998</b>—Pub. L. 105–185 designated existing provisions as subsec. (a), inserted heading, and added par. (8) and subsecs. (b) to (d).
 

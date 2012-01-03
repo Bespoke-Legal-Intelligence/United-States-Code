@@ -34,7 +34,7 @@ Subject to subsection (e), the State shall—
 
 &emsp;&emsp;(C) An assessment of the effectiveness of other public and private programs in the State in increasing the availability of affordable quality individual and family health insurance for children.
 
-&emsp;&emsp;(D) A review and assessment of State activities to coordinate the plan under this subchapter with other public and private programs providing health care and health care financing, including medicaid and maternal and child health services.
+&emsp;&emsp;(D) A review and assessment of State activities to coordinate the plan under thissubchapter with other public and private programs providing health care and health care financing, including medicaid and maternal and child health services.
 
 &emsp;&emsp;(E) An analysis of changes and trends in the State that affect the provision of accessible, affordable, quality health insurance and health care to children.
 
@@ -52,7 +52,7 @@ Subject to subsection (e), the State shall—
 
 #### (1) In general
 
-&emsp;The Secretary, directly or through contracts or interagency agreements, shall conduct anindependent evaluation of 10 States with approved child health plans.
+&emsp;The Secretary, directly or through contracts or interagency agreements, shall conduct an independent evaluation of 10 States with approved child health plans.
 
 #### (2) Selection of States
 

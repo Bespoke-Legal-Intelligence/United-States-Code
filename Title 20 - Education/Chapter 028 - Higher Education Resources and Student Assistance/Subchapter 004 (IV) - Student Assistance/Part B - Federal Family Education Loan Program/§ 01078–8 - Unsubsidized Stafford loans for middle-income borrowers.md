@@ -68,7 +68,7 @@ The determination of the amount of a loan by an eligible institution under subse
 
 &emsp;&emsp;&emsp;&emsp;(II) if such student is enrolled in a program of undergraduate education which is less than one academic year, the maximum annual loan amount that such student may receive may not exceed the amount that bears the same ratio to the amount specified in subclause (I) as the length of such program measured in semester, trimester, quarter, or clock hours bears to one academic year;
 
-&emsp;&emsp;&emsp;(ii) in the case of such a student at an eligible institution who has successfully completed such first and second years buthas not successfully completed the remainder of a program of undergraduate education—
+&emsp;&emsp;&emsp;(ii) in the case of such a student at an eligible institution who has successfully completed such first and second years but has not successfully completed the remainder of a program of undergraduate education—
 
 &emsp;&emsp;&emsp;&emsp;(I) $7,000; or
 
@@ -96,7 +96,7 @@ The determination of the amount of a loan by an eligible institution under subse
 
 #### (2) Capitalization of interest
 
-&emsp;(A) Interest on loans made under this section for which payments of principal are not required during the in-school and grace periods or for which payments are deferred under sections 1077(a)(2)(C) and 1078(b)(1)(M) of this title shall, if agreed upon by the borrower and the lender—
+&emsp;(A) Interest on loans made under this section for which payments of principal are not required during the in-school and grace periods or for which payments are deferred under sections 1077(a)(2)(C) and 1078(b)(1)(M) of thistitle shall, if agreed upon by the borrower and the lender—
 
 &emsp;&emsp;(i) be paid monthly or quarterly; or
 
@@ -146,7 +146,7 @@ A guaranty agency shall use a single application form and a single repayment sch
 
 #### (h) Insurance premium
 
-Each State or nonprofit private institution or organization having an agreement with the Secretary under section 1078(b)(1) of this title may charge a borrower under this section an insurance premium equal to not more than 1.0 percent of the principal amount of the loan, if such premium will not be used for incentive payments to lenders. Effective for loans for which the date of guarantee of principal is on or after July 1, 2006, and that are first disbursed before July 1, 2010, in lieu of the insurance premium authorized under the preceding sentence, each State or nonprofit private institution or organization having an agreement with the Secretary under section 1078(b)(1) of this title shall collectand deposit into the Federal Student Loan Reserve Fund under section 1072a of this title, a Federal default fee of an amount equal to 1.0 percent of the principal amount of the loan, which fee shall be collected either by deduction from the proceeds of the loan or by payment from other non-Federal sources. The Federal default fee shall not be used for incentive payments to lenders.
+Each State or nonprofit private institution or organization having an agreement with the Secretary under section 1078(b)(1) of this title may charge a borrower under this section an insurance premium equal to not more than 1.0 percent of the principal amount of the loan, if such premium will not be used for incentive payments to lenders. Effective for loans for which the date of guarantee of principal is on or after July 1, 2006, and that are first disbursed before July 1, 2010, in lieu of the insurance premium authorized under the preceding sentence, each State or nonprofit private institution or organization having an agreement with the Secretary under section 1078(b)(1) of this title shall collect and deposit into the Federal Student Loan Reserve Fund under section 1072a of this title, a Federal default fee of an amount equal to 1.0 percent of the principal amount of the loan, which fee shall be collected either by deduction from the proceeds of the loan or by payment from other non-Federal sources. The Federal default fee shall not be used for incentive payments to lenders.
 
 (Pub. L. 89–329, title IV, §428H, as added Pub. L. 102–325, title IV, §422, July 23, 1992, 106 Stat. 535; amended Pub. L. 103–66, title IV, §§4047(a), 4102(b), Aug. 10, 1993, 107 Stat. 363, 366; Pub. L. 103–208, §2(c)(42)–(45), Dec. 20, 1993, 107 Stat. 2466, 2467; Pub. L. 104–134, title I, §101(d) \[title V, §514(a)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–245; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–244, title IV, §423, Oct. 7, 1998, 112 Stat. 1696; Pub. L. 109–171, title VIII, §§8005(d), 8014(b)(2), Feb. 8, 2006, 120 Stat. 159, 169; Pub. L. 110–227, §2(a), May 7, 2008, 122 Stat. 740; Pub. L. 110–315, title IV, §428(a), Aug. 14, 2008, 122 Stat. 3235; Pub. L. 111–39, title IV, §402(f)(5), July 1, 2009, 123 Stat. 1944; Pub. L. 111–152, title II, §2207, Mar. 30, 2010, 124 Stat. 1076.)
 
@@ -164,7 +164,7 @@ Subsec. (h). Pub. L. 111–152, §2207(3), inserted “and that are first disbur
 
 <b>2009</b>—Subsec. (d)(2). Pub. L. 111–39, §402(f)(5)(A), amended heading generally, resulting in text identical to that after execution of the amendment by Pub. L. 110–315, §428(a)(1)(A). See 2008 Amendment note below.
 
-Subsec. (e)(6). Pub. L. 111–39, §402(f)(5)(B), amended par. (6) generally, resulting in text identical to that after execution of the amendment by Pub. L. 105–244, §423(d). See 1998 Amendment note below.
+Subsec. (e)(6). Pub. L. 111–39, §402(f)(5)(B), amended par. (6) generally, resulting in text identical to thatafter execution of the amendment by Pub. L. 105–244, §423(d). See 1998 Amendment note below.
 
 <b>2008</b>—Subsec. (d). Pub. L. 110–227 amended subsec. (d) generally. Prior to amendment, subsec. (d) related to loan limits.
 
@@ -204,7 +204,7 @@ Subsec. (d)(3). Pub. L. 105–244, §423(b)(2), inserted at end “Interest capi
 
 Subsec. (e)(2). Pub. L. 105–244, §423(c), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “Interest on loans made under this section for which payments of principal are not required during the in-school and grace periods or for which payments are deferred under sections 1077(a)(2)(C) and 1078(b)(1)(M) of this title shall, if agreed upon by the borrower and the lender (A) be paid monthly or quarterly, or (B) be added to the principal amount of the loan not more frequently than quarterly by the lender. Such capitalization of interest shall not be deemed to exceed the annual insurable limit on account of the student.”
 
-Subsec. (e)(6). Pub. L. 105–244, §423(d), which directed substitution of “repayment period under section1078(b)(9) of this title” for “10 year repayment period under section 1078(b)(1)(D) of this title”, was executed by making the substitution for “10-year repayment period under section 1078(b)(1)(D) of this title” to reflect the probable intent of Congress.
+Subsec. (e)(6). Pub. L. 105–244, §423(d), which directed substitution of “repayment period under section 1078(b)(9) of this title” for “10 year repayment period under section 1078(b)(1)(D) of this title”, was executed by making the substitution for “10-year repayment period under section 1078(b)(1)(D) of this title” to reflect the probable intent of Congress.
 
 Subsec. (e)(7). Pub. L. 105–244, §423(e), added par. (7).
 
@@ -286,7 +286,7 @@ Section effective with respect to loans made to cover the cost of instruction fo
 
 #### Student Eligibility
 
-Pub. L. 110–227, §2(b), May 7, 2008, 122 Stat. 742, provided that: “Loan limit increases authorized by theamendments made by this section \[amending this section\] shall be available only to students who meet the requirements of section 484(a) of the Higher Education Act of 1965 (20 U.S.C. 1091(a)).”
+Pub. L. 110–227, §2(b), May 7, 2008, 122 Stat. 742, provided that: “Loan limit increases authorized by the amendments made by this section \[amending this section\] shall be available only to students who meet the requirements of section 484(a) of the Higher Education Act of 1965 (20 U.S.C. 1091(a)).”
 
 #### Continuing Applicability of Terms, Conditions, and Benefits of Loans
 

@@ -8,9 +8,21 @@ If the Commission files such a direction with the Under Secretary of Commerce fo
 
 If the statement filed by the applicant should thereafter be found to contain false material statements any notification by the Commission that it has no objections to the issuance of a patent to the applicant shall not be deemed in any respect to constitute a waiver of the provisions of this section or of any applicable civil or criminal statute, and the Commission may have the title to the patent transferred to the Commission on the records of the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office in accordance with the provisions of this section. A determination of rights by the Commission pursuant to a contractual provision or other arrangement prior to the request of the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office for the statement, shall be final in the absence of false material statements or nondisclosure of material facts by the applicant.
 
-(Aug. 1, 1946, ch. 724, title I, §152, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 944; amended Pub. L. 87–206, §10, Sept. 6, 1961, 75 Stat. 477; Pub. L. 87–615, §11, Aug. 29, 1962, 76 Stat. 411; Pub. L. 97–164, title I, §162(2), Apr. 2, 1982, 96 Stat. 49; Pub. L. 98–622, title II, §205(b), Nov. 8, 1984, 98 Stat. 3388; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(19)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–585.)
+(Aug. 1, 1946, ch. 724, title I, §152, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 944; amended Pub. L. 87–206, §10, Sept. 6, 1961, 75 Stat. 477; Pub. L. 87–615, §11, Aug. 29, 1962, 76 Stat. 411; Pub. L. 97–164, title I, §162(2), Apr. 2, 1982, 96 Stat. 49; Pub. L. 98–622, title II, §205(b), Nov. 8, 1984, 98 Stat. 3388; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(19)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–585; Pub. L. 112–29, §7(d)(1), Sept. 16, 2011, 125 Stat. 315.)
+
+#### Amendment of Section
+
+<i>Pub. L. 112–29, §7(d)(1), (e), Sept. 16, 2011, 125 Stat. 315, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, with certain exceptions, this section is amended in the third undesignated paragraph:</i>
+
+<i>(1) by striking “Board of Patent Appeals and Interferences” each place it appears and inserting “Patent Trial and Appeal Board”; and</i>
+
+<i>(2) by inserting “and derivation” after “established for interference”.</i>
+
+<i>See 2011 Amendment note below.</i>
 
 #### Amendments
+
+<b>2011</b>—Pub. L. 112–29 substituted “Patent Trial and Appeal Board” for “Board of Patent Appeals and Interferences” in two places and inserted “and derivation” after “established for interference”.
 
 <b>1999</b>—Pub. L. 106–113 substituted “Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office” for “Commissioner of Patents” wherever appearing.
 
@@ -20,7 +32,11 @@ If the statement filed by the applicant should thereafter be found to contain fa
 
 <b>1962</b>—Pub. L. 87–615 substituted “allowance” for “allowances” before “forward copies of the application” in first par.
 
-<b>1961</b>—Pub. L. 87–206 clarified language concerning Commission's patent rights on inventions made or conceived under contract, subcontract, or arrangement with Commission, striking out language extending Commission's patent rights to other relationships and activities in connection with Commission contracts, provided for waiver of patent rights consistent with the policy of this section and for finality of determinationsof Commission, and dispensed with need for statement to Commissioner of Patents under certain circumstances.
+<b>1961</b>—Pub. L. 87–206 clarified language concerning Commission's patent rights on inventions made or conceived under contract, subcontract, or arrangement with Commission, striking out language extending Commission's patent rights to other relationships and activities in connection with Commission contracts, provided for waiver of patent rights consistent with the policy of this section and for finality of determinations of Commission, and dispensed with need for statement to Commissioner of Patents under certain circumstances.
+
+#### Effective Date of 2011 Amendment
+
+Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, with certain exceptions, see section 7(e) of Pub. L. 112–29, set out as a note under section 6 of Title 35, Patents.
 
 #### Effective Date of 1999 Amendment
 

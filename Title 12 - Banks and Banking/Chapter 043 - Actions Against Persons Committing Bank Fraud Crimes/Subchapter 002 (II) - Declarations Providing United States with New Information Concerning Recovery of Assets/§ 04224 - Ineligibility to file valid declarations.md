@@ -16,7 +16,7 @@ A declaration filed pursuant to section 4221 of this title and in accordance wit
 
 #### (b) “Original source” defined
 
-For the purposes of subsection (a)(5) of this section, the term “original source” means a person who has direct and independent knowledge of the information contained in the declarationand who voluntarily provided the information to the government prior to the disclosure.
+For the purposes of subsection (a)(5) of this section, the term “original source” means a person who has direct and independent knowledge of the information contained in the declaration and who voluntarily provided the information to the government prior to the disclosure.
 
 #### (c) Notice of invalidity
 
@@ -26,7 +26,7 @@ If the Attorney General determines at any time that a declaration is invalid und
 
 #### Amendments
 
-2004—Subsec. (a)(5). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (a)(5). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
 <i><sup>1</sup></i><i> So in original. Probably should be section “1833a(c)”.</i>
 

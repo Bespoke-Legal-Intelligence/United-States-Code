@@ -62,7 +62,7 @@
 
 &emsp;(B)(i) such matter bears on its face, in conspicuous and legible type in contrast by typography, layout, or color with other printing on its face, in accordance with regulations which the Postal Service shall prescribe, the following notice: <b>“THIS ORGANIZATION HAS NOT BEEN APPROVED OR ENDORSED BY THE FEDERAL GOVERNMENT, AND THIS OFFER IS NOT BEING MADE BY AN AGENCY OF THE FEDERAL GOVERNMENT.”</b>, or a notice to the same effect in words which the Postal Service may prescribe;
 
-&emsp;(ii) the envelope or outside cover or wrapper in which such matter is mailed bears on its face in capital letters and in conspicuous and legible type, in accordance with regulations which the Postal Service shall prescribe, the following notice: <b>“THIS IS NOT A GOVERNMENT DOCUMENT.”</b>, or a notice to the same effect in words which the Postal Service may prescribe; and
+&emsp;(ii) the envelope or outside cover or wrapper in which such matter is mailed bears on its face in capital letters and in conspicuous andlegible type, in accordance with regulations which the Postal Service shall prescribe, the following notice: <b>“THIS IS NOT A GOVERNMENT DOCUMENT.”</b>, or a notice to the same effect in words which the Postal Service may prescribe; and
 
 &emsp;(iii) such matter does not contain a false representation stating or implying that Federal Government benefits or services will be affected by any contribution or noncontribution; or
 
@@ -214,7 +214,7 @@ Subsec. (h)(2). Pub. L. 111–170, §1(a)(2), inserted “or matter on which the
 
 Subsec. (i). Pub. L. 111–155, §2(b)(2)–(5), designated existing provisions as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (1), redesignated subpars. (A) to (C) of former par. (2) as cls. (i) to (iii), respectively, of par. (1)(B), and added par. (2).
 
-Pub. L. 111–155, §2(b)(1), inserted “; or which bears the term ‘census’ on the envelope or outside cover or wrapper” after “such matter by the Federal Government” in introductory provisions.
+Pub. L. 111–155, §2(b)(1), inserted “; or which bears the term ‘census’ on the envelope or outside cover orwrapper” after “such matter by the Federal Government” in introductory provisions.
 
 Subsec. (i)(1). Pub. L. 111–170, §1(b)(1), inserted “; or on which the term ‘census’ is visible through the envelope or outside cover or wrapper” after “or which bears the term ‘census’ on the envelope or outside cover or wrapper”.
 
@@ -294,7 +294,7 @@ Chapter effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board o
 
 #### Short Title of 1999 Amendment
 
-Pub. L. 106–168, title I, §101, Dec. 12, 1999, 113 Stat. 1806, provided that: “This title \[enacting sections 3016 and 3017 of this title, amending this section and sections 3005, 3007, 3011, 3012, and 3013 of this title, repealing section 3006 of this title, and enacting provisionsset out as notes under this section and sections 3013, 3016, and 3017 of this title\] may be cited as the ‘Deceptive Mail Prevention and Enforcement Act’.”
+Pub. L. 106–168, title I, §101, Dec. 12, 1999, 113 Stat. 1806, provided that: “This title \[enacting sections 3016and 3017 of this title, amending this section and sections 3005, 3007, 3011, 3012, and 3013 of this title, repealing section 3006 of this title, and enacting provisions set out as notes under this section and sections 3013, 3016, and 3017 of this title\] may be cited as the ‘Deceptive Mail Prevention and Enforcement Act’.”
 
 #### Short Title of 1990 Amendments
 

@@ -1,6 +1,6 @@
 ### §1957. Relationship to Outer Continental Shelf Lands Act
 
-Nothing in this chapter supersedes, or limits the authority of the Secretary of the Interior under, the Outer Continental Shelf Lands Act (43 U.S.C. 1331 et seq.).
+Nothing in this chapter supersedes, or limits the authority of the Secretary of the Interiorunder, the Outer Continental Shelf Lands Act (43 U.S.C. 1331 et seq.).
 
 (Pub. L. 109–449, §8, Dec. 22, 2006, 120 Stat. 3339.)
 

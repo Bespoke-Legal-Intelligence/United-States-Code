@@ -66,7 +66,7 @@ Even though notice of a lien imposed by section 6321 has been filed, such lien s
 
 #### (10) Deposit-secured loans
 
-&emsp;With respect to a savings deposit, share, or other account with an institution described insection 581 or 591, to the extent of any loan made by such institution without actual notice or knowledge of the existence of such lien, as against such institution, if such loan is secured by such account.
+&emsp;With respect to a savings deposit, share, or other account with an institution described in section 581 or 591, to the extent of any loan made by such institution without actual notice or knowledge of the existence of such lien, as against such institution, if such loan is secured by such account.
 
 #### (c) Protection for certain commercial transactions financing agreements, etc.
 
@@ -108,7 +108,7 @@ Even though notice of a lien imposed by section 6321 has been filed, such lien s
 
 #### (D) Purchaser treated as acquiring security interest
 
-&emsp;&emsp;A person who satisfies subparagraph (A) by reason of clause (ii) thereof shall be treated as having acquired a security interest in commercial financing security
+&emsp;&emsp;A person who satisfies subparagraph (A) by reason of clause (ii) thereof shall be treatedas having acquired a security interest in commercial financing security
 
 #### (3) Real property construction or improvement financing agreement
 
@@ -152,7 +152,7 @@ Even though notice of a lien imposed by section 6321 has been filed, such lien s
 
 &emsp;&emsp;Where the obligatory disbursement agreement is an agreement ensuring the performance of a contract between the taxpayer and another person—
 
-&emsp;&emsp;&emsp;(i) the term “qualified property” shall be treated as also including the proceeds ofthe contract the performance of which was ensured, and
+&emsp;&emsp;&emsp;(i) the term “qualified property” shall be treated as also including the proceeds of the contract the performance of which was ensured, and
 
 &emsp;&emsp;&emsp;(ii) if the contract the performance of which was ensured was a contract to construct or improve real property, to produce goods, or to furnish services, the term “qualified property” shall be treated as also including any tangible personal property used by the taxpayer in the performance of such ensured contract.
 
@@ -276,7 +276,7 @@ For purposes of this section and section 6324—
 
 #### (1) Security interest
 
-&emsp;The term “security interest” means any interest in property acquired by contract for the purpose of securing payment or performance of an obligation or indemnifying against loss or liability. A security interest exists at any time (A) if, at such time, the property is in existence and the interest has become protected under local law against a subsequent judgment lien arising out of an unsecured obligation, and (B) to the extent that, at such time, the holder has parted with money or money's worth.
+&emsp;The term “security interest” means any interest in property acquired by contract for the purpose of securing payment or performance of an obligation or indemnifying against lossor liability. A security interest exists at any time (A) if, at such time, the property is in existence and the interest has become protected under local law against a subsequent judgment lien arising out of an unsecured obligation, and (B) to the extent that, at such time, the holder has parted with money or money's worth.
 
 #### (2) Mechanic's lienor
 
@@ -312,7 +312,7 @@ For purposes of this section and section 6324—
 
 #### (1) Actual notice or knowledge
 
-&emsp;For purposes of this subchapter, an organization shall be deemed for purposes of a particular transaction to have actual notice orknowledge of any fact from the time such fact is brought to the attention of the individual conducting such transaction, and in any event from the time such fact would have been brought to such individual's attention if the organization had exercised due diligence. An organization exercises due diligence if it maintains reasonable routines for communicating significant information to the person conducting the transaction and there is reasonable compliance with the routine. Due diligence does not require an individual acting for the organization to communicate information unless such communication is part of his regular duties or unless he has reason to know of the transaction and that the transaction would be materially affected by the information.
+&emsp;For purposes of this subchapter, an organization shall be deemed for purposes of a particular transaction to have actual notice or knowledge of any fact from the time such fact is brought to the attention of the individual conducting such transaction, and in any event from the time such fact would have been brought to such individual's attention if the organization had exercised due diligence. An organization exercises due diligence if it maintains reasonable routines for communicating significant information to the person conducting the transaction and there is reasonable compliance with the routine. Due diligence does not require an individual acting for the organization to communicate information unless such communication is part of his regular duties or unless he has reason to know of the transaction and that the transaction would be materially affected by the information.
 
 #### (2) Subrogation
 
@@ -344,7 +344,7 @@ For purposes of this section and section 6324—
 
 &emsp;&emsp;(C) the withdrawal of such notice will facilitate the collection of the tax liability, or
 
-&emsp;&emsp;(D) with the consent of the taxpayer or the National Taxpayer Advocate, the withdrawal of such notice would be in the best interests of the taxpayer (as determined by the National Taxpayer Advocate) and the United States.
+&emsp;&emsp;(D) with the consent of the taxpayer or the National Taxpayer Advocate, the withdrawalof such notice would be in the best interests of the taxpayer (as determined by the National Taxpayer Advocate) and the United States.
 
 > &emsp;Any such withdrawal shall be made by filing notice at the same office as the withdrawn notice. A copy of such notice of withdrawal shall be provided to the taxpayer.
 
@@ -484,7 +484,7 @@ Section 114(a)–(c) of title I of Pub. L. 89–719 provided that:
 
 “(a)
 
-General Rule.—Except as otherwise provided, the amendments made by this title \[enacting sections3505, 7425, 7426, and 7810 of this title, amending this section, sections 545, 6322, 6324, 6325, 6331, 6332, 6334, 6335, 6337, 6338, 6339, 6342, 6343, 6502, 6503, 6532, 7402, 7403, 7421, 7424, 7505, 7506, and 7809 of this title, and section 270a of former Title 40, Public Buildings, Property, and Works, redesignating former section 7425 as 7427 of this title, and enacting provisions set out as notes under this section and section 7424 of this title\] shall apply after the date of enactment of this Act \[Nov. 2, 1966\], regardless of when a lien or a title of the United States arose or when the lien or interest of any other person was acquired.
+General Rule.—Except as otherwise provided, the amendments made by this title \[enacting sections 3505, 7425, 7426, and 7810 of this title, amending this section, sections 545, 6322, 6324, 6325, 6331, 6332, 6334, 6335, 6337, 6338, 6339, 6342, 6343, 6502, 6503, 6532, 7402, 7403, 7421, 7424, 7505, 7506, and 7809 of this title, and section 270a of former Title 40, Public Buildings, Property, and Works, redesignating former section 7425 as 7427 of this title, and enacting provisions set out as notes under this section and section 7424 of this title\] shall apply after the date of enactment of this Act \[Nov. 2, 1966\], regardless of when a lien or a title of the United States arose or when the lien or interest of any other person was acquired.
 
 “(b)
 

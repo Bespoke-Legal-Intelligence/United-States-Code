@@ -18,7 +18,7 @@ As used in this subchapter—
 
 #### References in Text
 
-Section 153 of title 47, referred to in pars. (1) and (2), was subsequently amended, and section 153(c) no longer defines “licensee”. However, such term is defined elsewhere in that section.
+Section 153 of title 47, referred to in pars. (1) and (2), was subsequently amended, and section 153(c) no longerdefines “licensee”. However, such term is defined elsewhere in that section.
 
 #### Codification
 

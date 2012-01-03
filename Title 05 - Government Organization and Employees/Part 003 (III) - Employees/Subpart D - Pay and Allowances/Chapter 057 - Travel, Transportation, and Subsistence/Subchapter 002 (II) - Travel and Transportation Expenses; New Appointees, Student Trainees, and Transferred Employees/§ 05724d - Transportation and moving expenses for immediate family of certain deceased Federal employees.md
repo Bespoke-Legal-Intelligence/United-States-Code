@@ -40,3 +40,15 @@ Definitions.—For purposes of this section—
 
 Pub. L. 111–178, §2(b), June 9, 2010, 124 Stat. 1263, provided that: “No determination made under section 5724d of title 5, United States Code, shall be deemed relevant to or be considered in connection with any claim for compensation under chapter 81 of that title or under any other law under which compensation may be provided on account of death or personal injury, nor shall any determination made with respect to any such claim be deemed relevant to or be considered in connection with any request for payment of expenses under such section 5724d.”
 
+#### Delegation Under Section 2(a) of the Special Agent Samuel Hicks Families of Fallen Heroes Act
+
+Memorandum of President of the United States, Sept. 12, 2011, 76 F.R. 57621, provided:
+
+Memorandum for the Administrator of General Services
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, I hereby delegate to you the function conferred upon the President by section 2(a) of the Special Agent Samuel Hicks Families of Fallen Heroes Act (Public Law 111–178) to prescribe the applicable regulations.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+

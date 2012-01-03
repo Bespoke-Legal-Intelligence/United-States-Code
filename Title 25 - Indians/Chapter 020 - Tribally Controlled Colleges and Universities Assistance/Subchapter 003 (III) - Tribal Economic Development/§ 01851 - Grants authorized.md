@@ -2,7 +2,7 @@
 
 #### (a) General authority
 
-The Secretary is authorized, subject to the availability of appropriations, to make grants totribally controlled colleges or universities which receive grants under either this chapter or the Navajo Community College Act \[25 U.S.C. 640a et seq.\] for the establishment and support of tribal economic development and education institutes. Each program conducted with assistance under a grant under this subsection shall include at least the following activities:
+The Secretary is authorized, subject to the availability of appropriations, to make grants to tribally controlled colleges or universities which receive grants under either this chapter or the Navajo Community College Act \[25 U.S.C. 640a et seq.\] for the establishment and support of tribal economic development and education institutes. Each program conducted with assistance under a grant under this subsection shall include at least the following activities:
 
 &emsp;(1) Determination of the economic development needs and potential of the Indian tribes involved in the program, including agriculture and natural resources needs.
 
@@ -12,7 +12,7 @@ The Secretary is authorized, subject to the availability of appropriations, to m
 
 &emsp;(4) Technical assistance and training to Federal, tribal and community officials and business managers and planners deemed necessary by the institution to enable full implementation of, and benefits to be derived from, the program developed under paragraph (1).
 
-&emsp;(5) Clearinghouse activities encouraging the coordination of, and providing a point for the coordination of, all vocational activities (and academically related training) serving all students of the Indian tribe involved in the grant.
+&emsp;(5) Clearinghouse activities encouraging the coordination of, and providing a point for the coordination of, all vocational activities (andacademically related training) serving all students of the Indian tribe involved in the grant.
 
 &emsp;(6) The evaluation of such grants and their effect on the needs developed under paragraph (1) and tribal economic self-sufficiency.
 

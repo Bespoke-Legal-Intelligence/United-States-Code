@@ -2,7 +2,7 @@
 
 #### (a) Functions of Secretary; performance directly or by contract
 
-Except as otherwise provided in this subchapter and in the Railroad Retirement Act of 1974 \[45 U.S.C. 231 et seq.\], the insurance programs established by this subchapter shall be administered by the Secretary. The Secretary may perform any of his functions under this subchapter directly, or by contract providing forpayment in advance or by way of reimbursement, and in such installments, as the Secretary may deem necessary.
+Except as otherwise provided in this subchapter and in the Railroad Retirement Act of 1974 \[45 U.S.C. 231 et seq.\], the insurance programs established by this subchapter shall be administered by the Secretary. The Secretary may perform any of his functions under this subchapter directly, or by contract providing for payment in advance or by way of reimbursement, and in such installments, as the Secretary may deem necessary.
 
 #### (b) Contracts to secure special data, actuarial information, etc.
 
@@ -56,7 +56,7 @@ In the course of any hearing, investigation, or other proceeding that he is auth
 
 &emsp;&emsp;A qualified entity requesting data under this subsection shall—
 
-&emsp;&emsp;&emsp;(i) submit to the Secretary a description of the methodologies that such qualified entity will use to evaluate the performance of providers of services and suppliers using such data;
+&emsp;&emsp;&emsp;(i) submit to the Secretary a description of the methodologies that such qualifiedentity will use to evaluate the performance of providers of services and suppliers using such data;
 
 &emsp;&emsp;&emsp;(ii)(I) except as provided in subclause (II), if available, use standard measures, such as measures endorsed by the entity with a contract under section 1395aaa(a) of this title and measures developed pursuant to section 299b–31 of this title; or
 
@@ -94,11 +94,7 @@ The Railroad Retirement Act of 1974, referred to in subsec. (a), is act Aug. 29,
 
 The Internal Revenue Code of 1986, referred to in subsec. (d)(1), is classified generally to Title 26, Internal Revenue Code.
 
-Parts A and B, referred to in subsecs. (d)(1) and (e)(3), are classified to sections 1395c et seq. and 1395j et seq., respectively, of this title.
-
 July 15, 2008, referred to in subsec. (d)(1)(A) and (B), was in the original “the date of the enactment of this section” and “such date”, which were translated as meaning the date of enactment of Pub. L. 110–275, which enacted subsec. (d), to reflect the probable intent of Congress.
-
-Part D, referred to in subsec. (e)(3), is classified to section 1395w–101 et seq. of this title.
 
 #### Amendments
 

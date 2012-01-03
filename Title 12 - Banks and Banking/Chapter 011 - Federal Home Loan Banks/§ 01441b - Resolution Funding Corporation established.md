@@ -246,7 +246,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The amount of stock each remaining Federal Home Loan Bank shall be required to purchase under subparagraph (A)(i) is the amount determined by the Thrift Depositor Protection Oversight Board by multiplying the excess amount by the percentage arrived at by dividing—
+&emsp;&emsp;&emsp;The amount of stock each remaining Federal Home Loan Bank shall be required to purchase under subparagraph (A)(i) isthe amount determined by the Thrift Depositor Protection Oversight Board by multiplying the excess amount by the percentage arrived at by dividing—
 
 &emsp;&emsp;&emsp;&emsp;(I) the cumulative amount of stock in the Funding Corporation purchased under this subsection by such remaining Bank at the time of such determination; by
 
@@ -302,7 +302,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;To the extent that the amounts available pursuant to subparagraphs (A) and (B)are insufficient to cover the amount of interest payments, each Federal home loan bank shall pay to the Funding Corporation in each calendar year, 20.0 percent of the net earnings of that Bank (after deducting expenses relating to section 1430(j) of this title and operating expenses).
+&emsp;&emsp;&emsp;To the extent that the amounts available pursuant to subparagraphs (A) and (B) are insufficient to cover the amount of interest payments, each Federal home loan bank shall pay to the Funding Corporation in each calendar year, 20.0 percent of the net earnings of that Bank (after deducting expenses relating to section 1430(j) of this title and operating expenses).
 
 #### (ii) Annual determination
 
@@ -362,7 +362,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), obligations of the Funding Corporation shallbe exempt from tax both as to principal and interest to the same extent as any obligation of a Federal Home Loan Bank is exempt from tax under section 1433 of this title.
+&emsp;&emsp;Except as provided in subparagraph (B), obligations of the Funding Corporation shall be exempt from tax both as to principal and interest to the same extent as any obligation of a Federal Home Loan Bank is exempt from tax under section 1433 of this title.
 
 #### (B) Exception
 
@@ -432,7 +432,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (1) In general
 
-&emsp;The Thrift Depositor Protection Oversight Board shall annually submit a full report of the operations, activities, budget, receipts,and expenditures of the Funding Corporation for the preceding 12-month period.
+&emsp;The Thrift Depositor Protection Oversight Board shall annually submit a full report of the operations, activities, budget, receipts, and expenditures of the Funding Corporation for the preceding 12-month period.
 
 #### (2) Contents
 
@@ -532,13 +532,13 @@ The Thrift Depositor Protection Oversight Board may prescribe any regulations ne
 
 #### References in Text
 
-The Securities Act of 1933, referred to in subsec. (f)(8)(B), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
+The Securities Act of 1933, referred to in subsec. (f)(8)(B), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapterI (§77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
 
 Section 9105 of title 31, referred to in subsec. (h)(3), was amended generally by Pub. L. 101–576, title III, §305, Nov. 15, 1990, 104 Stat. 2853, and, as so amended, no longer contains provisions relating to mixed-ownership Government corporations having capital of the Government.
 
 #### Amendments
 
-2008—Subsecs. (c)(6)(B), (e)(4). Pub. L. 110–289, §1204(12), substituted “Director” for “Federal Housing Finance Board” wherever appearing.
+<b>2008</b>—Subsecs. (c)(6)(B), (e)(4). Pub. L. 110–289, §1204(12), substituted “Director” for “Federal Housing Finance Board” wherever appearing.
 
 Subsec. (f)(2)(C)(ii) to (iv). Pub. L. 110–289, §1204(8)–(10), substituted, in cls. (ii) and (iii), “The Director” for “The Board” and, in cl. (iv), “the Director” for “the Board” before “extends” and “the Director” for “the Finance Board” before “shall reduce”.
 
@@ -546,7 +546,7 @@ Subsec. (f)(2)(C)(v). Pub. L. 110–289, §1213, added cl. (v).
 
 Subsec. (k)(7)(B)(ii). Pub. L. 110–289, §1204(8), which directed amendment of the Federal Home Loan Bank Act (this chapter) by substituting “the Director” for “the Board” wherever appearing, was not executed to subsec. (k)(7)(B)(ii), to reflect the probable intent of Congress.
 
-2006—Subsec. (e). Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(11)(E). See 1996 Amendment note below.
+<b>2006</b>—Subsec. (e). Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(11)(E). See 1996 Amendment note below.
 
 Subsec. (e)(5). Pub. L. 109–173, §9(d)(7)(A), inserted “as of the date of funding” after “Savings Association Insurance Fund members” in subpars. (A) and (B).
 
@@ -560,19 +560,19 @@ Subsec. (k)(8) to (10). Pub. L. 109–173, §9(d)(8)(B), (C), redesignated pars.
 
 Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(11)(F). See 1996 Amendment note below.
 
-1999—Subsec. (f)(2)(C). Pub. L. 106–102 amended subpar. (C) generally, substituting present provisions for provisions requiring Federal Home Loan Banks to pay to the Funding Corporation each calendar year an amount sufficient to cover amount of interest payments made by the Corporation in that year, and provisions relating to determination of each Bank's individual share of such annual amount.
+<b>1999</b>—Subsec. (f)(2)(C). Pub. L. 106–102 amended subpar. (C) generally, substituting present provisions for provisions requiring Federal Home Loan Banks to pay to the Funding Corporation each calendar year an amount sufficient to cover amount of interest payments made by the Corporation in that year, and provisions relating to determination of each Bank's individual share of such annual amount.
 
-1996—Subsec. (e). Pub. L. 104–208, §2704(d)(11)(E), which directed the amendment of subsec. (e) by inserting, in par. (5), “as of the date of funding” after “Savings Association Insurance Fund members” in two places and by striking par. (7) and redesignating par. (8) as (7), was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+<b>1996</b>—Subsec. (e). Pub. L. 104–208, §2704(d)(11)(E), which directed the amendment of subsec. (e) by inserting, in par. (5), “as of the date of funding” after “Savings Association Insurance Fund members” in two places and by striking par. (7) and redesignating par. (8) as (7), was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
 Subsec. (f)(2)(C)(ii)(I), (II). Pub. L. 104–208, §2704(d)(5), which directed the amendment of subcls. (I) and (II) by substituting “to insured depository institutions, and their successors, which were Savings Association Insurance Fund members on September 1, 1995” for “to Savings Associations Insurance Fund members”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below.
 
 Subsec. (k)(8) to (10). Pub. L. 104–208, §2704(d)(11)(F), which directed the amendment of subsec. (k) by striking par. (8) and redesignating pars. (9) and (10) as (8) and (9), respectively, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
-1992—Subsecs. (c)(8), (j)(2). Pub. L. 102–550, §1613(a)(7), inserted “Thrift Depositor Protection” before “Oversight” in headings.
+<b>1992</b>—Subsecs. (c)(8), (j)(2). Pub. L. 102–550, §1613(a)(7), inserted “Thrift Depositor Protection” before “Oversight” in headings.
 
 Subsec. (k)(7). Pub. L. 102–550, §1613(a)(9), substituted “Thrift Depositor Protection Oversight” for “Oversight” in heading.
 
-1991—Pub. L. 102–233 substituted “Thrift Depositor Protection Oversight Board” for “Oversight Board” wherever appearing in text.
+<b>1991</b>—Pub. L. 102–233 substituted “Thrift Depositor Protection Oversight Board” for “Oversight Board” wherever appearing in text.
 
 #### Effective Date of 2006 Amendment
 
@@ -598,7 +598,7 @@ Amendment by Pub. L. 102–233 effective Feb. 1, 1992, see section 318 of Pub. L
 
 #### Abolition of Thrift Depositor Protection Oversight Board
 
-Thrift Depositor Protection Oversight Board abolished, see section 14(a)–(d) of Pub. L. 105–216, set out as a note under section 1441a of this title.
+Thrift Depositor Protection Oversight Board abolished, see section 14(a)–(d) of Pub. L. 105–216, formerly set out as a note under section 1441a of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

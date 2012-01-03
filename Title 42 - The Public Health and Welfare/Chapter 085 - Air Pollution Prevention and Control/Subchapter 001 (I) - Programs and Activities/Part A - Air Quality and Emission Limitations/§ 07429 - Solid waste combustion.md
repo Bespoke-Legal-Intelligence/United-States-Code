@@ -16,7 +16,7 @@
 
 #### (2) Emissions standard
 
-&emsp;Standards applicable to solid waste incineration units promulgated under section 7411 of this title and this section shall reflect the maximum degree of reduction in emissions of air pollutants listed under section <sup>1</sup> (a)(4) that the Administrator, taking into consideration the cost of achieving such emission reduction, and any non-air quality health and environmental impacts and energy requirements, determines is achievable for new or existing units in each category. The Administrator may distinguish among classes, types (including mass-burn, refuse-derived fuel, modular and other types of units), and sizes of units within a category in establishing such standards. The degree of reduction in emissions that is deemed achievable for new units in a category shall not be less stringent than the emissions control that is achieved in practice by the best controlled similar unit, as determined by the Administrator. Emissions standards for existing units in a category may be less stringent than standards for new units in the same category but shall not be less stringent than the average emissions limitation achieved by the best performing 12 percent of units in the category (excluding units which first met lowest achievable emissions rates 18 months before the date such standards are proposed or 30 months before the date such standards are promulgated, whichever is later).
+&emsp;Standards applicable to solid waste incineration units promulgated under section 7411 of this title and this section shall reflect the maximum degree of reduction in emissions of air pollutants listed under section <sup>1</sup> (a)(4) that the Administrator, taking into consideration the cost of achieving such emission reduction, and any non-air quality health and environmental impacts and energy requirements, determines is achievable for new or existing units in each category. The Administrator may distinguish among classes, types (including mass-burn, refuse-derived fuel, modular and other types of units), and sizes of units within a category in establishing such standards. The degree of reduction in emissions that is deemed achievable for new units in acategory shall not be less stringent than the emissions control that is achieved in practice by the best controlled similar unit, as determined by the Administrator. Emissions standards for existing units in a category may be less stringent than standards for new units in the same category but shall not be less stringent than the average emissions limitation achieved by the best performing 12 percent of units in the category (excluding units which first met lowest achievable emissions rates 18 months before the date such standards are proposed or 30 months before the date such standards are promulgated, whichever is later).
 
 #### (3) Control methods and technologies
 
@@ -38,7 +38,7 @@
 
 #### (2) State plans
 
-&emsp;Not later than 1 year after the Administrator promulgates guidelines for a category of solid waste incineration units, each State inwhich units in the category are operating shall submit to the Administrator a plan to implement and enforce the guidelines with respect to such units. The State plan shall be at least as protective as the guidelines promulgated by the Administrator and shall provide that each unit subject to the guidelines shall be in compliance with all requirements of this section not later than 3 years after the State plan is approved by the Administrator but not later than 5 years after the guidelines were promulgated. The Administrator shall approve or disapprove any State plan within 180 days of the submission, and if a plan is disapproved, the Administrator shall state the reasons for disapproval in writing. Any State may modify and resubmit a plan which has been disapproved by the Administrator.
+&emsp;Not later than 1 year after the Administrator promulgates guidelines for a category of solid waste incineration units, each State in which units in the category are operating shall submit to the Administrator a plan to implement and enforce the guidelines with respect to such units. The State plan shall be at least as protective as the guidelines promulgated by the Administrator and shall provide that each unit subject to the guidelines shall be in compliance with all requirements of this section not later than 3 years after the State plan is approved by the Administrator but not later than 5 years after the guidelines were promulgated. The Administrator shall approve or disapprove any State plan within 180 days of the submission, and if a plan is disapproved, the Administrator shall state the reasons for disapproval in writing. Any State may modify and resubmit a plan which has been disapproved by the Administrator.
 
 #### (3) Federal plan
 
@@ -54,7 +54,7 @@ The Administrator shall, as part of each performance standard promulgated pursua
 
 &emsp;(3) to report the results of such monitoring.
 
-> Such regulations shall contain provisions regarding the frequency of monitoring, test methods and procedures validated on solid waste incineration units, and the form and frequency of reports containing the results of monitoring and shall require that any monitoring reports or test results indicating an exceedance of any standard under this section shall be reported separately and in a manner that facilitates review for purposes of enforcement actions. Such regulations shall require that copies of the results of such monitoring be maintained on file at the facility concerned and that copies shall be made available for inspection and copying by interested members of the public during business hours.
+> Such regulations shall contain provisions regarding the frequency of monitoring, test methods and procedures validated on solid waste incineration units, and the form and frequency of reports containing the results of monitoring and shall require that any monitoring reports or test results indicating an exceedance of any standard under this section shall be reported separately and in a manner that facilitates review for purposes of enforcement actions. Such regulationsshall require that copies of the results of such monitoring be maintained on file at the facility concerned and that copies shall be made available for inspection and copying by interested members of the public during business hours.
 
 #### (d) Operator training
 
@@ -114,7 +114,7 @@ For purposes of section 306 of the Clean Air Act Amendments of 1990 and this sec
 
 #### (1) State authority
 
-&emsp;Nothing in this section shall preclude or deny the right of any State or political subdivision thereof to adopt or enforce any regulation, requirement, limitation or standard relating to solid waste incineration units that ismore stringent than a regulation, requirement, limitation or standard in effect under this section or under any other provision of this chapter.
+&emsp;Nothing in this section shall preclude or deny the right of any State or political subdivision thereof to adopt or enforce any regulation, requirement, limitation or standard relating to solid waste incineration units that is more stringent than a regulation, requirement, limitation or standard in effect under this section or under any other provision of this chapter.
 
 #### (2) Other authority under this chapter
 
@@ -140,7 +140,7 @@ For purposes of section 306 of the Clean Air Act Amendments of 1990 and this sec
 
 #### References in Text
 
-Section 306 of the Clean Air Act Amendments of 1990, referred to in subsec. (g), probably means section 306 of Pub. L. 101–549, which is set out as a note under section 6921 of this title.
+Section 306 of the Clean Air Act Amendments of 1990, referred to in subsec. (g), probably means section 306 ofPub. L. 101–549, which is set out as a note under section 6921 of this title.
 
 The Solid Waste Disposal Act, referred to in subsec. (g)(6), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
 

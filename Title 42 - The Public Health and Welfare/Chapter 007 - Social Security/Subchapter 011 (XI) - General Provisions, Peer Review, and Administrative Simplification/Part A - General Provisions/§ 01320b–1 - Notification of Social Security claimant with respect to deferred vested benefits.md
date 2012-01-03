@@ -26,8 +26,6 @@
 
 #### References in Text
 
-Part A of subchapter XVIII of this chapter, referred to in subsec. (a)(2), is classified to section 1395c et seq. of this title.
-
 The Internal Revenue Code of 1986, referred to in subsec. (a)(3)(A), is classified generally to Title 26, Internal Revenue Code.
 
 #### Amendments
@@ -54,7 +52,7 @@ Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pu
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
+Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed\(under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
 
 #### Effective Date
 

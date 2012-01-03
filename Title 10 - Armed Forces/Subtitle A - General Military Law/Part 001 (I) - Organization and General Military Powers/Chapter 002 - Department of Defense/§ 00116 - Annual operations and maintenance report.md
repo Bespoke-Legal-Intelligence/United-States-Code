@@ -10,15 +10,19 @@
 
 (2) The Secretary shall also include in each such report the justification for and an explanation of the level of funding recommended in the Budget of the President for the next fiscal year for aircraft flying hours, ship steaming hours, field training days for the combat arms battalions, major repair work to be performed on ships of the Navy, airframe reworks, aircraft engine reworks, and vehicle overhauls.
 
-(b) In this section:
+(b) The Secretary may submit the report required by subsection (a) by including the materials required in the report as an exhibit to the defense authorization request submitted pursuant to section 113a of this title in the fiscal year concerned.
+
+(c) In this section:
 
 &emsp;(1) The term “combat arms battalions” means armor, infantry, mechanized infantry, air assault infantry, airborne infantry, ranger, artillery, and combat engineer battalions and armored cavalry and air cavalry squadrons.
 
 &emsp;(2) The term “major repair work” means, in the case of any ship to which subsection (a) is applicable, any overhaul, modification, alteration, or conversion work which will result in a total cost to the United States of more than $10,000,000.
 
-(Added Pub. L. 96–342, title X, §1001(b)(3), (c)(2), Sept. 8, 1980, 94 Stat. 1118, 1119, §138(e), (f)(2); amended Pub. L. 96–513, title V, §511(4)(B), Dec. 12, 1980, 94 Stat. 2920; Pub. L. 97–86, title III, §302, Dec. 1, 1981, 95 Stat. 1104; renumbered §116 and amended Pub. L. 99–433, title I, §§101(a)(2), 110(b)(6), (7), (9), (10), Oct. 1, 1986, 100 Stat. 994, 1002; Pub. L. 105–85, div. A, title X, §1073(a)(3), Nov. 18, 1997, 111 Stat. 1900.)
+(Added Pub. L. 96–342, title X, §1001(b)(3), (c)(2), Sept. 8, 1980, 94 Stat. 1118, 1119, §138(e), (f)(2); amended Pub. L. 96–513, title V, §511(4)(B), Dec. 12, 1980, 94 Stat. 2920; Pub. L. 97–86, title III, §302, Dec. 1, 1981, 95 Stat. 1104; renumbered §116 and amended Pub. L. 99–433, title I, §§101(a)(2), 110(b)(6), (7), (9), (10), Oct. 1, 1986, 100 Stat. 994, 1002; Pub. L. 105–85, div. A, title X, §1073(a)(3), Nov. 18, 1997, 111 Stat. 1900; Pub. L. 112–81, div. A, title X, §1064(2), Dec. 31, 2011, 125 Stat. 1586.)
 
 #### Amendments
+
+<b>2011</b>—Subsecs. (b), (c). Pub. L. 112–81 added subsec. (b) and redesignated former subsec. (b) as (c).
 
 <b>1997</b>—Subsec. (b)(2). Pub. L. 105–85 substituted “subsection (a)” for “such subsection”.
 

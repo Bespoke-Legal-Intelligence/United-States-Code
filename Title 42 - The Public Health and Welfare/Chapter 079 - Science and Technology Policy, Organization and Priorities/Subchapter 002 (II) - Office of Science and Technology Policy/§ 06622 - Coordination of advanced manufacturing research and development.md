@@ -44,6 +44,10 @@ Not later than 1 year after January 4, 2011, the Director shall transmit the str
 
 Section was enacted as part of the America COMPETES Reauthorization Act of 2010, also known as the America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Reauthorization Act of 2010, and not as part of the National Science and Technology Policy, Organization, and Priorities Act of 1976 which comprises this chapter.
 
+#### Change of Name
+
+Committee on Science and Technology of House of Representatives changed to Committee on Science,Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+
 #### Definition
 
 For definition of “Director” as used in this section, see section 2 of Pub. L. 111–358, set out as a note under section 6621 of this title.

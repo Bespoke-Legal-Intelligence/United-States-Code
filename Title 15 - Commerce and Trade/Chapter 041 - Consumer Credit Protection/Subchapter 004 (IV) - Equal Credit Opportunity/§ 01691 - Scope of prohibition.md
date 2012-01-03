@@ -16,11 +16,13 @@ It shall not constitute discrimination for purposes of this subchapter for a cre
 
 &emsp;(1) to make an inquiry of marital status if such inquiry is for the purpose of ascertaining the creditor's rights and remedies applicable to the particular extension of credit and not to discriminate in a determination of credit-worthiness;
 
-&emsp;(2) to make an inquiry of the applicant's age or of whether the applicant's income derives from any public assistance program if such inquiry is for the purpose of determining the amount and probable continuance of income levels, credit history, or other pertinent element of credit-worthiness as provided in regulations of the Board;
+&emsp;(2) to make an inquiry of the applicant's age or of whether the applicant's income derives from any public assistance program if such inquiry is for the purpose of determining the amount and probable continuance of income levels, credit history, or other pertinent element of credit-worthiness as provided in regulations of the Bureau;
 
-&emsp;(3) to use any empirically derived credit system which considers age if such system is demonstrably and statistically sound in accordance with regulations of the Board, except that in the operation of such system the age of an elderly applicant may not be assigned a negative factor or value; or
+&emsp;(3) to use any empirically derived credit system which considers age if such system is demonstrably and statistically sound in accordance with regulations of the Bureau, except that in the operation of such system the age of an elderly applicant may not be assigned a negative factor or value;
 
-&emsp;(4) to make an inquiry or to consider the age of an elderly applicant when the age of such applicant is to be used by the creditor in the extension of credit in favor of such applicant.
+&emsp;(4) to make an inquiry or to consider the age of an elderly applicant when the age of such applicant is to be used by the creditor in the extension of credit in favor of such applicant; or
+
+&emsp;(5) to make an inquiry under section 1691c–2 of this title, in accordance with the requirements of that section.
 
 #### (c) Additional activities not constituting discrimination
 
@@ -30,13 +32,13 @@ It is not a violation of this section for a creditor to refuse to extend credit 
 
 &emsp;(2) any credit assistance program administered by a nonprofit organization for its members or an economically disadvantaged class of persons; or
 
-&emsp;(3) any special purpose credit program offered by a profit-making organization to meet special social needs which meets standards prescribed in regulations by the Board;
+&emsp;(3) any special purpose credit program offered by a profit-making organization to meet special social needs which meets standards prescribed in regulations by the Bureau;
 
 > if such refusal is required by or made pursuant to such program.
 
 #### (d) Reason for adverse action; procedure applicable; “adverse action” defined
 
-(1) Within thirty days (or such longer reasonable time as specified in regulations of the Board for any class of credit transaction) after receipt of a completed application for credit, a creditor shall notify the applicant of its action on the application.
+(1) Within thirty days (or such longer reasonable time as specified in regulations of the Bureau for any class of credit transaction) after receipt of a completed application for credit, a creditor shall notify the applicant of its action on the application.
 
 (2) Each applicant against whom adverse action is taken shall be entitled to a statement of reasons for such action from the creditor. A creditor satisfies this obligation by—
 
@@ -48,31 +50,17 @@ It is not a violation of this section for a creditor to refuse to extend credit 
 
 (4) Where a creditor has been requested by a third party to make a specific extension of credit directly or indirectly to an applicant, the notification and statement of reasons required by this subsection may be made directly by such creditor, or indirectly through the third party, provided in either case that the identity of the creditor is disclosed.
 
-(5) The requirements of paragraph (2), (3), or (4) may be satisfied by verbal statements or notifications in the case of any creditor who did not act on more than one hundred and fifty applications during the calendar year preceding the calendar year in which the adverse action is taken, as determined under regulations of the Board.
+(5) The requirements of paragraph (2), (3), or (4) may be satisfied by verbal statements or notifications in the case of any creditor who did not act on more than one hundred and fifty applications during the calendar year preceding the calendar year in which the adverse action is taken, as determined under regulations of the Bureau.
 
 (6) For purposes of this subsection, the term “adverse action” means a denial or revocation of credit, a change in the terms of an existing credit arrangement, or a refusal to grant credit in substantially the amount or on substantially the terms requested. Such term does not include a refusal to extend additional credit under an existing credit arrangement where the applicant is delinquent or otherwise in default, or where such additional credit would exceed a previously established credit limit.
 
 #### (e) Appraisals; copies of reports to applicants; costs
 
-Each creditor shall promptly furnish an applicant, upon written request by the applicant made within a reasonable period of time of the application, a copy of the appraisal report used in connection with the applicant's application for a loan that is or would have been secured by a lien on residential real property. The creditor may require the applicant to reimburse the creditor for the cost of the appraisal.
+Each creditor shall promptly furnish an applicant, upon written request by the applicant made within a reasonable period of time of the application, a copy of the appraisal report used in connection with the applicant's application for a loan that is or would have been secured by a lien on residential real property. The creditormay require the applicant to reimburse the creditor for the cost of the appraisal.
 
 (Pub. L. 90–321, title VII, §701, as added Pub. L. 93–495, title V, §503, Oct. 28, 1974, 88 Stat. 1521; amended Pub. L. 94–239, §2, Mar. 23, 1976, 90 Stat. 251; Pub. L. 102–242, title II, §223(d), Dec. 19, 1991, 105 Stat. 2306; Pub. L. 111–203, title X, §§1071(b), 1085(1), title XIV, §1474, July 21, 2010, 124 Stat. 2059, 2083, 2199.)
 
 #### Amendment of Section
-
-<i>Pub. L. 111–203, title X, §§1085(1), 1100H, July 21, 2010, 124 Stat. 2083, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Board” each place that term appears and inserting “Bureau”. See Effective Date of 2010 Amendment note below.</i>
-
-<i>Pub. L. 111–203, title X, §§1071(b), (d), July 21, 2010, 124 Stat. 2059, provided that, effective on the designated transfer date, subsection (b) of this section is amended as follows:</i>
-
-<i>(1) in paragraph (3), by striking “or” at the end;</i>
-
-<i>(2) in paragraph (4), by striking the period at the end and inserting “; or”; and</i>
-
-<i>(3) by inserting after paragraph (4), the following:</i>
-
-&emsp;<i>“(5) to make an inquiry under section 1691c–2 of this title, in accordance with the requirements of that section.”</i>
-
-<i>See Effective Date of 2010 Amendment note below.</i>
 
 <i>Pub. L. 111–203, title XIV, §§1400(c), 1474, July 21, 2010, 124 Stat. 2136, 2199, provided that, effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, subsection (e) of this section is amended to read as follows:</i>
 
@@ -105,6 +93,10 @@ Each creditor shall promptly furnish an applicant, upon written request by the a
 <i>See Effective Date of 2010 Amendment note below.</i>
 
 #### Amendments
+
+<b>2010</b>—Pub. L. 111–203, §1085(1), substituted “Bureau” for “Board” wherever appearing.
+
+Subsec. (b)(5). Pub. L. 111–203, §1071(b), added par. (5).
 
 <b>1991</b>—Subsec. (e). Pub. L. 102–242 added subsec. (e).
 

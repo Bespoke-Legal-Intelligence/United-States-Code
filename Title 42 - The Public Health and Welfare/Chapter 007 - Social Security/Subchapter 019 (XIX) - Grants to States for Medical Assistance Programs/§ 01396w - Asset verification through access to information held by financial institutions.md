@@ -20,7 +20,7 @@
 
 #### (i) Implementation in current asset verification demo States
 
-&emsp;&emsp;&emsp;The Secretary shall require those States specified in subparagraph (C) (to which anasset verification program has been applied before June 30, 2008) to implement an asset verification program under this subsection by the end of fiscal year 2009.
+&emsp;&emsp;&emsp;The Secretary shall require those States specified in subparagraph (C) (to which an asset verification program has been applied before June 30, 2008) to implement an asset verification program under this subsection by the end of fiscal year 2009.
 
 #### (ii) Implementation in other States
 

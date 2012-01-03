@@ -6,7 +6,7 @@ From the sums appropriated for any fiscal year for the purpose of the program au
 
 #### (b) Purpose of payments
 
-(1) The sums paid to institutions under this part are for the sole purpose of administering the programs described in subsection (a) of this section.
+(1) The sums paid to institutions under this part are for the sole purpose of administeringthe programs described in subsection (a) of this section.
 
 (2) If the institution enrolls a significant number of students who are (A) attending the institution less than full time, or (B) independent students, the institution shall use a reasonable proportion of the funds available under this section for financial aid services during times and in places that will most effectively accommodate the needs of such students.
 

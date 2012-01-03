@@ -4,7 +4,7 @@
 
 (b) Retroactive pay is payable by reason of an increase in rates of basic pay referred to in subsection (a) of this section only when—
 
-&emsp;(1) the individual is in the service of the Government of the United States, including service in the armed forces, or the governmentof the District of Columbia on the date of the issuance of the order granting the increase; or
+&emsp;(1) the individual is in the service of the Government of the United States, including service in the armed forces, or the government of the District of Columbia on the date of the issuance of the order granting the increase; or
 
 &emsp;(2) the individual retired or died during the period beginning on the effective date of the increase and ending on the date of issuance of the order granting the increase, and only for services performed during that period.
 

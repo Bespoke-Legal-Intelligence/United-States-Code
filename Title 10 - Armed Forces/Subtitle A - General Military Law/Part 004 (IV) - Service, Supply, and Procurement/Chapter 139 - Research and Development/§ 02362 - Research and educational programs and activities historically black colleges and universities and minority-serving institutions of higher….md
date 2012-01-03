@@ -2,11 +2,13 @@
 
 (a)
 
-Program Established.—The Secretary of Defense, acting through the Assistant Secretary of Defense for Research and Engineering and the Secretary of each military department, shall carry out a program to provide assistance to covered educational institutions to assist the Department in defense-related research, development, testing, and evaluation activities.
+Program Established.—(1) The Secretary of Defense, acting through the Assistant Secretary of Defense for Research and Engineering and the Secretary of each military department, shall carry out a program to provide assistance to covered educational institutions to assist the Department in defense-related research, development, testing, and evaluation activities.
+
+(2) The Secretary of Defense may not delegate or transfer to an individual outside the Office of the Secretary of Defense the authority regarding the programming or budgeting of the program established by this section that is carried out by the Assistant Secretary of Defense for Research and Engineering.
 
 (b)
 
-Program Objective.—The objective of the program established under subsection (a) is to enhance defense-related research and education at covered educational institutions. Such objective shall be accomplished through initiatives designed to—
+Program Objective.—The objective of the program established by subsection (a)(1) is to enhance defense-related research and education at covered educational institutions. Such objective shall be accomplished through initiatives designed to—
 
 &emsp;(1) enhance the research and educational capabilities of such institutions in areas of importance to national defense, as determined by the Secretary;
 
@@ -18,7 +20,7 @@ Program Objective.—The objective of the program established under subsection (
 
 (c)
 
-Assistance Provided.—Under the program established by subsection (a), the Secretary of Defense may provide covered educational institutions with funding or technical assistance, including any of the following:
+Assistance Provided.—Under the program established by subsection (a)(1), the Secretary of Defense may provide covered educational institutions with funding or technical assistance, including any of the following:
 
 &emsp;(1) Support for research, development, testing, evaluation, or educational enhancements in areas important to national defense through the competitive awarding of grants, cooperative agreements, contracts, scholarships, fellowships, or the acquisition of research equipment or instrumentation.
 
@@ -40,7 +42,7 @@ Definition of Covered Educational Institution.—In this section the term “cov
 
 &emsp;(2) an accredited postsecondary minority institution.
 
-(Added Pub. L. 111–84, div. A, title II, §252(a), Oct. 28, 2009, 123 Stat. 2242; amended Pub. L. 111–383, div. A, title IX, §901(a)(2), title X, §1075(b)(32), Jan. 7, 2011, 124 Stat. 4317, 4370.)
+(Added Pub. L. 111–84, div. A, title II, §252(a), Oct. 28, 2009, 123 Stat. 2242; amended Pub. L. 111–383, div. A, title IX, §901(a)(2), title X, §1075(b)(32), Jan. 7, 2011, 124 Stat. 4317, 4370; Pub. L. 112–81, div. A, title II, §219, Dec. 31, 2011, 125 Stat. 1335.)
 
 #### References in Text
 
@@ -52,7 +54,13 @@ A prior section 2362, added Pub. L. 99–145, title I, §123(a)(1), Nov. 8, 1985
 
 #### Amendments
 
-<b>2011</b>—Subsec. (e)(1). Pub. L. 111–383, §1075(b)(32), substituted “title III or V” for “title III or IV”.
+<b>2011</b>—Subsec. (a). Pub. L. 112–81, §219(a), designated existing provisions as par. (1) and added par. (2).
+
+Subsec. (b). Pub. L. 112–81, §219(b)(1), substituted “established by subsection (a)(1)” for “established under subsection (a)” in introductory provisions.
+
+Subsec. (c). Pub. L. 112–81, §219(b)(2), substituted “subsection (a)(1)” for “subsection (a)” in introductory provisions.
+
+Subsec. (e)(1). Pub. L. 111–383, §1075(b)(32), substituted “title III or V” for “title III or IV”.
 
 #### Change of Name
 

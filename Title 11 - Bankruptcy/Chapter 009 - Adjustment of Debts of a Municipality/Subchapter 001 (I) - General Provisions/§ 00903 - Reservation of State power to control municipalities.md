@@ -10,7 +10,7 @@ This chapter does not limit or impair the power of a State to control, by legisl
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 903 of the House amendment represents a stylistic revision of section 903 of the Senate amendment. To the extent section 903 of the House bill would have changed present law, such section is rejected.
 
@@ -22,7 +22,7 @@ This section provides that the municipality can consent to the court's orders in
 
 #### Amendments
 
-1984—Par. (2). Pub. L. 98–353 struck out “to” before “that does not consent”.
+<b>1984</b>—Par. (2). Pub. L. 98–353 struck out “to” before “that does not consent”.
 
 #### Effective Date of 1984 Amendment
 

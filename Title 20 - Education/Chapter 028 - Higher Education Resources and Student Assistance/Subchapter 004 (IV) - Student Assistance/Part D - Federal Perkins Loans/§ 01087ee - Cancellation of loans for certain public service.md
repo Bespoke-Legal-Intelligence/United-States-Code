@@ -42,7 +42,7 @@
 
 &emsp;&emsp;(ii) a public library that serves a geographic area that contains one or more schools eligible for assistance under part A of title I of the Elementary and Secondary Education Act of 1965; or
 
-&emsp;(M) as a full-time speech language pathologist, if the pathologist has a masters degreeand is working exclusively with schools that are eligible for assistance under title I of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\].
+&emsp;(M) as a full-time speech language pathologist, if the pathologist has a masters degree and is working exclusively with schools that are eligible for assistance under title I of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\].
 
 > For the purpose of this paragraph, the term “children with disabilities” has the meaning set forth in section 1401 of this title.
 
@@ -106,7 +106,7 @@ Amendment by section 2(f)(14) of Pub. L. 103–208 (which was effective as if in
 
 #### Prior Provisions
 
-A prior section 1087ee, Pub. L. 89–329, title IV, §465, as added Pub. L. 92–318, title I, §137(b), June 23, 1972, 86 Stat. 277; amended Pub. L. 95–561, title XIII, §1323, Nov. 1, 1978, 92 Stat. 2363; Pub. L. 96–374, title IV, §§442(b)(6), 448(d), (e), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1440, 1443, 1503, related to cancellation of loans for certain public service, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1087ee, Pub. L. 89–329, title IV, §465, as added Pub. L. 92–318, title I, §137(b), June 23, 1972, 86Stat. 277; amended Pub. L. 95–561, title XIII, §1323, Nov. 1, 1978, 92 Stat. 2363; Pub. L. 96–374, title IV, §§442(b)(6), 448(d), (e), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1440, 1443, 1503, related to cancellation of loans for certain public service, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 
@@ -190,7 +190,7 @@ Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 123 of Pub. L.
 
 Section 2101(c) of Pub. L. 101–647 provided that: “The amendments made by this section \[amending this section\] shall apply only to loans made on or after the date of enactment of this Act \[Nov. 29, 1990\] under part E of title IV of the Higher Education Act of 1965 \[this part\].”
 
-Section 1001 of Pub. L. 101–476 provided that: “The amendments made by this Act \[see Short Title of 1990 Amendment note set out under section 1400 of this title\] shall take effect October 1, 1990.”
+Section 1001 of Pub. L. 101–476 provided that: “The amendments made by this Act \[see Short Title of 1990Amendment note set out under section 1400 of this title\] shall take effect October 1, 1990.”
 
 #### Effective Date of 1987 Amendment
 

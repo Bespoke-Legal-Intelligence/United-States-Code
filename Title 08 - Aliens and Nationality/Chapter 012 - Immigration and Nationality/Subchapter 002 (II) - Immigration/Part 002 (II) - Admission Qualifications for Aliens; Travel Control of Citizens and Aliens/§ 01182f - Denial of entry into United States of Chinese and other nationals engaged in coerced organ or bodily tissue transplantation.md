@@ -2,7 +2,7 @@
 
 #### (a) Denial of entry
 
-Notwithstanding any other provision of law and except as provided in subsection (b) of this section, the Secretary shall direct consular officers not to issue a visa to any person whom the Secretary finds, based on credible and specific information, to have been directly involved with the coercive transplantation of human organs or bodily tissue, unless the Secretary has substantial grounds for believing that the foreign national has discontinued his or her involvement with, and support for, such practices.
+Notwithstanding any other provision of law and except as provided in subsection (b) of this section, the Secretary shall direct consular officers not to issue a visa to any person whom theSecretary finds, based on credible and specific information, to have been directly involved with the coercive transplantation of human organs or bodily tissue, unless the Secretary has substantial grounds for believing that the foreign national has discontinued his or her involvement with, and support for, such practices.
 
 #### (b) Exception
 

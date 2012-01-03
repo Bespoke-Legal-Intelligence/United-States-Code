@@ -14,7 +14,7 @@ Obligation of Amounts From Account by Secretary of Defense.—The Secretary of D
 
 Regulations.—The Secretary of Defense shall prescribe regulations to carry out this section.
 
-(Added Pub. L. 99–661, div. A, title VII, §701(a)(1), Nov. 14, 1986, 100 Stat. 3896; amended Pub. L.104–106, div. A, title VII, §735(a)–(d)(1), Feb. 10, 1996, 110 Stat. 382.)
+(Added Pub. L. 99–661, div. A, title VII, §701(a)(1), Nov. 14, 1986, 100 Stat. 3896; amended Pub. L. 104–106, div. A, title VII, §735(a)–(d)(1), Feb. 10, 1996, 110 Stat. 382.)
 
 #### Amendments
 

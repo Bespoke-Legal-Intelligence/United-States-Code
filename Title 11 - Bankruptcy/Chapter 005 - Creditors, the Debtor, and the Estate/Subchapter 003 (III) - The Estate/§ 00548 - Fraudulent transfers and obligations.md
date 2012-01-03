@@ -74,7 +74,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 548(d)(2) is modified to reflect general application of a provision contained in section 766 of the Senate amendment with respect to commodity brokers. In particular, section 548(d)(2)(B) of the House amendment makes clear that a commodity broker who receives a margin payment is considered to receive the margin payment in return for “value” for purposes of section 548.
 
@@ -96,7 +96,7 @@ Sections 170(c) and 731(c)(2)(C) of the Internal Revenue Code of 1986, referred 
 
 #### Amendments
 
-2005—Subsec. (a)(1). Pub. L. 109–8, §1402(2), in introductory provisions, inserted “(including any transfer toor for the benefit of an insider under an employment contract)” after “avoid any transfer” and “(including any obligation to or for the benefit of an insider under an employment contract)” after “or any obligation”.
+<b>2005</b>—Subsec. (a)(1). Pub. L. 109–8, §1402(2), in introductory provisions, inserted “(including any transfer to or for the benefit of an insider under an employment contract)” after “avoid any transfer” and “(including any obligation to or for the benefit of an insider under an employment contract)” after “or any obligation”.
 
 Pub. L. 109–8, §1402(1), substituted “2 years” for “one year” in introductory provisions.
 
@@ -114,21 +114,21 @@ Subsec. (d)(2)(E). Pub. L. 109–8, §907(f), added subpar. (E).
 
 Subsec. (e). Pub. L. 109–8, §1402(4), added subsec. (e).
 
-1998—Subsec. (a). Pub. L. 105–183, §3(a), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as par. (1)(A) and (B), respectively, redesignated former par. (2)(A) and (B) as par. (1)(B)(i) and (ii), respectively, and redesignated former par. (2)(B)(i) to (iii) as par. (1)(B)(ii)(I) to (III), respectively, and added par. (2).
+<b>1998</b>—Subsec. (a). Pub. L. 105–183, §3(a), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as par. (1)(A) and (B), respectively, redesignated former par. (2)(A) and (B) as par. (1)(B)(i) and (ii), respectively, and redesignated former par. (2)(B)(i) to (iii) as par. (1)(B)(ii)(I) to (III), respectively, and added par. (2).
 
 Subsec. (d)(3), (4). Pub. L. 105–183, §2, added pars. (3) and (4).
 
-1994—Subsec. (d)(2)(B). Pub. L. 103–394, §501(b)(5)(A), substituted “section 101, 741, or 761” for “section 101(34), 741(5) or 761(15)” and “section 101 or 741” for “section 101(35) or 741(8)”.
+<b>1994</b>—Subsec. (d)(2)(B). Pub. L. 103–394, §501(b)(5)(A), substituted “section 101, 741, or 761” for “section 101(34), 741(5) or 761(15)” and “section 101 or 741” for “section 101(35) or 741(8)”.
 
 Subsec. (d)(2)(C). Pub. L. 103–394, §501(b)(5)(B), substituted “section 741 or 761” for “section 741(5) or 761(15)” and “section 741” for “section 741(8)”.
 
-1990—Subsec. (d)(2)(B). Pub. L. 101–311, §204, inserted reference to sections 101(34) and 101(35) of this title.
+<b>1990</b>—Subsec. (d)(2)(B). Pub. L. 101–311, §204, inserted reference to sections 101(34) and 101(35) of this title.
 
 Subsec. (d)(2)(D). Pub. L. 101–311, §104, added subpar. (D).
 
-1986—Subsec. (d)(2)(B). Pub. L. 99–554 substituted “, financial institution” for “financial institution,”.
+<b>1986</b>—Subsec. (d)(2)(B). Pub. L. 99–554 substituted “, financial institution” for “financial institution,”.
 
-1984—Subsec. (a). Pub. L. 98–353, §463(a)(1), substituted “if the debtor voluntarily or involuntarily” for “if the debtor” in provisions preceding par. (1).
+<b>1984</b>—Subsec. (a). Pub. L. 98–353, §463(a)(1), substituted “if the debtor voluntarily or involuntarily” for “if the debtor” in provisions preceding par. (1).
 
 Subsec. (a)(1). Pub. L. 98–353, §463(a)(2), substituted “was made” for “occurred”.
 
@@ -142,7 +142,7 @@ Subsec. (d)(2)(B). Pub. L. 98–353, §463(c)(2), inserted “financial institut
 
 Subsec. (d)(2)(C). Pub. L. 98–353, §394(2), added subpar. (C).
 
-1982—Subsec. (d)(2)(B). Pub. L. 97–222 substituted “a commodity broker, forward contract merchant, stockbroker, or securities clearing agency that receives a margin payment, as defined in section 741(5) or 761(15) of this title, or settlement payment, as defined in section 741(8) of this title, takes for value to extent of such payment” for “a commodity broker or forward contract merchant that receives a margin payment, as defined in section 761(15) of this title, takes for value”.
+<b>1982</b>—Subsec. (d)(2)(B). Pub. L. 97–222 substituted “a commodity broker, forward contract merchant, stockbroker, or securities clearing agency that receives a margin payment, as defined in section 741(5) or 761(15) of this title, or settlement payment, as defined in section 741(8) of this title, takes for value to extent of such payment” for “a commodity broker or forward contract merchant that receives a margin payment, as defined in section 761(15) of this title, takes for value”.
 
 #### Effective Date of 2005 Amendment
 

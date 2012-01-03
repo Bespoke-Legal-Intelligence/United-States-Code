@@ -14,7 +14,7 @@ Financial Assistance.—(1) Under the program under this section, the Secretary 
 
 &emsp;(C) enters into a service agreement with the Secretary of Defense as described in subsection (c).
 
-(2) The amount of the financial assistance provided under a scholarship or fellowship awardedto a person under this subsection shall be the amount determined by the Secretary of Defense as being necessary to pay all educational expenses incurred by that person, including tuition, fees, cost of books, laboratory expenses, equipment expenses, and expenses of room and board.
+(2) The amount of the financial assistance provided under a scholarship or fellowship awarded to a person under this subsection shall be the amount determined by the Secretary of Defense as being necessary to pay all educational expenses incurred by that person, including tuition, fees, cost of books, laboratory expenses, equipment expenses, and expenses of room and board.
 
 (3) Financial assistance provided under a scholarship or fellowship awarded under this section may be paid directly to the recipient of such scholarship or fellowship or to an administering entity for disbursement of the funds.
 
@@ -28,7 +28,7 @@ Service Agreement for Recipients of Financial Assistance.—(1) To receive finan
 
 (2) For the purposes of this subsection, the period of obligated service for a recipient of financial assistance under this section shall be the period determined by the Secretary of Defense as being appropriate to obtain adequate service in exchange for such financial assistance. The period of service required of a recipient may not be less than the total period of pursuit of a degree that is covered by such financial assistance. The period of obligated service is in addition to any other period for which the recipient is obligated to serve in the civil service of the United States.
 
-(3) An agreement entered into under this subsection by a person pursuing an academic degree shall include any terms and conditions that the Secretary of Defense determines necessary to protect the interests of the United States or otherwise appropriate for carrying out this section.
+(3) An agreement entered into under this subsection by a person pursuing an academic degree shall include any terms and conditions that theSecretary of Defense determines necessary to protect the interests of the United States or otherwise appropriate for carrying out this section.
 
 (d)
 
@@ -72,7 +72,7 @@ Institution of Higher Education Defined.—In this section, the term “institut
 
 #### Codification
 
-Section, as added by Pub. L. 109–163, consists of text of Pub. L. 108–375, div. A, title XI, §1105, Oct. 28, 2004, 118 Stat. 2074; Pub. L. 109–163, div. A, title X, §1056(d), title XI, §1104(a)–(c), Jan. 6, 2006, 119 Stat. 3440, 3448, 3449; Pub. L. 111–383, div. A, title X, §1075(h)(5), Jan. 7, 2011, 124 Stat. 4377, which was formerly set out as a note under section 2192 of this title, and was repealedby Pub. L. 109–163, div. A, title XI, §1104(e)(1), Jan. 6, 2006, 119 Stat. 3450.
+Section, as added by Pub. L. 109–163, consists of text of Pub. L. 108–375, div. A, title XI, §1105, Oct. 28, 2004, 118 Stat. 2074; Pub. L. 109–163, div. A, title X, §1056(d), title XI, §1104(a)–(c), Jan. 6, 2006, 119 Stat. 3440, 3448, 3449; Pub. L. 111–383, div. A, title X, §1075(h)(5), Jan. 7, 2011, 124 Stat. 4377, which was formerly set out as a note under section 2192 of this title, and was repealed by Pub. L. 109–163, div. A, title XI, §1104(e)(1), Jan. 6, 2006, 119 Stat. 3450.
 
 #### Amendments
 

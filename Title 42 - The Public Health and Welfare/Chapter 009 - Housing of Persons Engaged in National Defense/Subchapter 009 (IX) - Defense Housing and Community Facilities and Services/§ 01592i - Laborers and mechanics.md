@@ -6,7 +6,7 @@ Notwithstanding any other provision of law, the wages of every laborer and mecha
 
 #### (b) Applicability of other laws
 
-The provisions of sections 3141–3144, 3146, and 3147 of title 40; of section 874 of title 18; and of section 3145 of title 40, shall apply in accordance with their terms to work pursuant to this subchapter.
+The provisions of sections 3141–3144, 3146, and 3147 of title 40; of section 874 of title 18; and ofsection 3145 of title 40, shall apply in accordance with their terms to work pursuant to this subchapter.
 
 #### (c) Stipulations in loan contracts as to wages; certification
 
@@ -24,7 +24,7 @@ The Secretary of Labor shall prescribe appropriate standards, regulations, and p
 
 #### Codification
 
-In subsec. (b), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act (49 Stat.1011), as amended” and “section 3145 of title 40” substituted for “title 40, United States Code, section 276c”, and, in subsec. (c), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act, as amended”, on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (b), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act (49 Stat. 1011), as amended” and “section 3145 of title 40” substituted for “title 40, United States Code, section 276c”, and, in subsec. (c), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act, as amended”, on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Transfer of Functions
 

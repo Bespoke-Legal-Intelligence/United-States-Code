@@ -21,6 +21,7 @@
 | 742j–2. | Uniform allowance. |
 | [742k.](%C2%A7%2000742k%20-%20Management%20and%20disposition%20of%20vessels%20and%20other%20property%20acquired%20and%20arising%20out%20of%20fishery%20loans%20or%20related%20type%20of%20activities.md) | Management and disposition of vessels and other property acquired and arising out of fishery loans or related type of activities. |
 | 742<i>l.</i> | Enforcement authority for the protection of fish and wildlife resources. |
+| 742<i>l</i>–1. | Authority to use available law enforcement funds. |
 | [742m.](%C2%A7%2000742m%20-%20Relinquishment%20of%20exclusive%20legislative%20jurisdiction.md) | Relinquishment of exclusive legislative jurisdiction. |
 | [743\.](%C2%A7%2000743%20-%20Repealed.%20Pub.%20L.%2093%E2%80%93280%2C%20%C2%A71%282%29%2C%20May%2010%2C%201974%2C%2088%20Stat.%20123.md) | Repealed. |
 | [743a.](%C2%A7%2000743a%20-%20Detail%20of%20personnel%20and%20loan%20of%20equipment%20to%20Director%20of%20Bureau%20of%20Sport%20Fisheries%20and%20Wildlife.md) | Detail of personnel and loan of equipment to Director of Bureau of Sport Fisheries and Wildlife. |
@@ -42,6 +43,7 @@
 | [754b.](%C2%A7%2000754b%20-%20Funds%20from%20private%20entities%20credited%20to%20Resource%20Management%20account.md) | Funds from private entities credited to Resource Management account. |
 | [754c.](%C2%A7%2000754c%20-%20Work%20under%20reimbursable%20agreements%3B%20recording%20obligations%20and%20crediting%20amounts%20received.md) | Work under reimbursable agreements; recording obligations and crediting amounts received. |
 | [754d.](%C2%A7%2000754d%20-%20Fee%20schedule%20for%20forensic%20laboratory%20services.md) | Fee schedule for forensic laboratory services. |
+| [754e.](%C2%A7%2000754e%20-%20Funds%20for%20contaminant%20sample%20analyses.md) | Funds for contaminant sample analyses. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -70,6 +72,7 @@
 - [&sect; 00742j&#8211;2 - Uniform allowance](%C2%A7%2000742j%E2%80%932%20-%20Uniform%20allowance.md)
 - [&sect; 00742k - Management and disposition of vessels and other property acquired and arising out of fishery loans or related type of activities](%C2%A7%2000742k%20-%20Management%20and%20disposition%20of%20vessels%20and%20other%20property%20acquired%20and%20arising%20out%20of%20fishery%20loans%20or%20related%20type%20of%20activities.md)
 - [&sect; 00742l - Enforcement authority for the protection of fish and wildlife resources](%C2%A7%2000742l%20-%20Enforcement%20authority%20for%20the%20protection%20of%20fish%20and%20wildlife%20resources.md)
+- [&sect; 00742l&#8211;1 - Authority to use available law enforcement funds](%C2%A7%2000742l%E2%80%931%20-%20Authority%20to%20use%20available%20law%20enforcement%20funds.md)
 - [&sect; 00742m - Relinquishment of exclusive legislative jurisdiction](%C2%A7%2000742m%20-%20Relinquishment%20of%20exclusive%20legislative%20jurisdiction.md)
 - [&sect; 00743 - Repealed. Pub. L. 93&#8211;280, &sect;1(2), May 10, 1974, 88 Stat. 123](%C2%A7%2000743%20-%20Repealed.%20Pub.%20L.%2093%E2%80%93280%2C%20%C2%A71%282%29%2C%20May%2010%2C%201974%2C%2088%20Stat.%20123.md)
 - [&sect; 00743a - Detail of personnel and loan of equipment to Director of Bureau of Sport Fisheries and Wildlife](%C2%A7%2000743a%20-%20Detail%20of%20personnel%20and%20loan%20of%20equipment%20to%20Director%20of%20Bureau%20of%20Sport%20Fisheries%20and%20Wildlife.md)
@@ -91,3 +94,4 @@
 - [&sect; 00754b - Funds from private entities credited to Resource Management account](%C2%A7%2000754b%20-%20Funds%20from%20private%20entities%20credited%20to%20Resource%20Management%20account.md)
 - [&sect; 00754c - Work under reimbursable agreements; recording obligations and crediting amounts received](%C2%A7%2000754c%20-%20Work%20under%20reimbursable%20agreements%3B%20recording%20obligations%20and%20crediting%20amounts%20received.md)
 - [&sect; 00754d - Fee schedule for forensic laboratory services](%C2%A7%2000754d%20-%20Fee%20schedule%20for%20forensic%20laboratory%20services.md)
+- [&sect; 00754e - Funds for contaminant sample analyses](%C2%A7%2000754e%20-%20Funds%20for%20contaminant%20sample%20analyses.md)

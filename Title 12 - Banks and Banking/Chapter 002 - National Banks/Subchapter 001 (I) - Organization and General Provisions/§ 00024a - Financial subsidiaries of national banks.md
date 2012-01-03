@@ -56,7 +56,7 @@
 
 #### (5) Regulations required
 
-&emsp;Before the end of the 270-day period beginning on November 12, 1999, the Comptroller ofthe Currency shall, by regulation, prescribe procedures to implement this section.
+&emsp;Before the end of the 270-day period beginning on November 12, 1999, the Comptroller of the Currency shall, by regulation, prescribe procedures to implement this section.
 
 #### (6) Indexed asset limit
 
@@ -134,7 +134,7 @@
 
 &emsp;In determining compliance with applicable capital standards—
 
-&emsp;&emsp;(A) the aggregate amount of the outstanding equity investment, including retainedearnings, of a national bank in all financial subsidiaries shall be deducted from the assets and tangible equity of the national bank; and
+&emsp;&emsp;(A) the aggregate amount of the outstanding equity investment, including retained earnings, of a national bank in all financial subsidiaries shall be deducted from the assets and tangible equity of the national bank; and
 
 &emsp;&emsp;(B) the assets and liabilities of the financial subsidiaries shall not be consolidated with those of the national bank.
 
@@ -232,7 +232,25 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;&emsp;(B) in the case of any depository institution that has not been examined, the existence and use of managerial resources that the appropriate Federal banking agency determines are satisfactory.
 
-(R.S. §5136A, as added Pub. L. 106–102, title I, §121(a)(2), Nov. 12, 1999, 113 Stat. 1373.)
+(R.S. §5136A, as added Pub. L. 106–102, title I, §121(a)(2), Nov. 12, 1999, 113 Stat. 1373; amended Pub. L. 111–203, title IX, §939(d), July 21, 2010, 124 Stat. 1886.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title IX, §939(d), (g), July 21, 2010, 124 Stat. 1886, 1887, provided that, effective 2 years after July 21, 2010, this section is amended:</i>
+
+<i>(1) in subsection (a)(2)(E), by substituting “standards of credit-worthiness established by the Comptroller of the Currency” for “any applicable rating”;</i>
+
+<i>(2) in the heading for subsection (a)(3), by substituting “Requirement” for “Rating or Comparable Requirement”;</i>
+
+<i>(3) by amending subsection (a)(3)(A) to read as follows:</i>
+
+#### <i>“(A) In general</i>
+
+&emsp;&emsp;<i>“A national bank meets the requirements of this paragraph if the bank is one of the 100 largest insured banks and has not fewer than 1 issue of outstanding debt that meets standards of credit-worthiness or other criteria as the Secretary of the Treasury and the Board of Governors of the Federal Reserve System may jointly establish.”;</i>
+
+<i>(4) in the heading for subsection (f), by substituting “meet standards of credit-worthiness” for “maintain public rating or”; and</i>
+
+<i>(5) in subsection (f)(1), by substituting “standards of credit-worthiness established by the Comptroller of the Currency” for “any applicable rating”.</i>
 
 #### References in Text
 
@@ -245,6 +263,10 @@ The Bank Service Company Act, referred to in subsec. (g)(3)(B), is Pub. L. 87–
 #### Prior Provisions
 
 A prior section 5136A of the Revised Statutes was renumbered section 5136B by Pub. L. 106–102 and is classified to section 25a of this title.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–203, title IX, §939(g), July 21, 2010, 124 Stat. 1887, provided that: “The amendments made by this section \[amending this section, sections 1817, 1831e, and 4519 of this title, sections 78c and 80a–6 of Title 15, Commerce and Trade, and section 286hh of Title 22, Foreign Relations and Intercourse\] shall take effect 2 years after the date of enactment of this Act \[July 21, 2010\].”
 
 #### Effective Date
 

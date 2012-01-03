@@ -152,7 +152,7 @@ For purposes of this section—
 
 This section shall not apply to any property placed in service after December 31, 2005.
 
-(Added Pub. L. 102–486, title XIX, §1913(a)(1), Oct. 24, 1992, 106 Stat. 3016; amended Pub. L. 104–188, title I, §1704(j)(2), Aug. 20, 1996, 110 Stat. 1881; Pub. L. 107–147, title VI, §606(a), Mar. 9, 2002, 116 Stat. 60; Pub. L. 108–311, title III, §319(a), Oct. 4, 2004, 118 Stat. 1182; Pub. L. 109–58, title XIII, §1348, Aug. 8, 2005, 119 Stat. 1056.)
+(Added Pub. L. 102–486, title XIX, §1913(a)(1), Oct. 24, 1992, 106 Stat. 3016; amended Pub. L. 104–188, title I, §1704(j)(2), Aug. 20, 1996, 110 Stat. 1881; Pub. L. 107–147, title VI, §606(a), Mar. 9, 2002, 116 Stat. 60; Pub. L. 108–311, title III,§319(a), Oct. 4, 2004, 118 Stat. 1182; Pub. L. 109–58, title XIII, §1348, Aug. 8, 2005, 119 Stat. 1056.)
 
 #### Amendments
 

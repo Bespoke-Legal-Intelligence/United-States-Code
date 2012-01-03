@@ -62,7 +62,7 @@ Nothing in this chapter—
 
 #### Amendments
 
-1998—Pub. L. 105–185, §605(a)(1), added section catchline and struck out former section catchline, designated introductory provisions and pars. (1) to (7) as subsec. (a), inserted heading, and substituted “Congress makes the following findings” for “The Congress finds that” in introductory provisions.
+<b>1998</b>—Pub. L. 105–185, §605(a)(1), added section catchline and struck out former section catchline, designated introductory provisions and pars. (1) to (7) as subsec. (a), inserted heading, and substituted “Congress makes the following findings” for “The Congress finds that” in introductory provisions.
 
 Subsec. (a)(6), (7). Pub. L. 105–185, §605(a)(2)(A), substituted “consumer education, and industry information” for “and consumer education”.
 

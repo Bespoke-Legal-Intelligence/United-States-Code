@@ -34,7 +34,7 @@ Eligibility for, or receipt of, assistance under this subchapter shall not precl
 
 Title II, referred to in subsec. (a), is title II of Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1329, known as the Navajo Community College Assistance Act of 1978, which enacted section 640c–1 of this title, amended section 640c of this title, and enacted provisions set out as notes under sections 640a and 640c–1 of this title. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 640a of this title and Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsecs. (b) and (c), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classifiedprincipally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsecs. (b) and (c), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
 The Higher Education Act of 1965, referred to in subsec. (d)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§1001 et seq.) of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 

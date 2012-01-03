@@ -6,7 +6,7 @@ Planning Responsibilities.—The Mayor of the District of Columbia is the centra
 
 &emsp;(1) federal or international projects and developments in the District, as determined by the National Capital Planning Commission; or
 
-&emsp;(2) the United States Capitol Buildings and Grounds as defined and described in sections 5101 and 5102 of this title, any extension of, or additions to, those Buildings and Grounds, and buildings and grounds under the care of the Architect of the Capitol.
+&emsp;(2) the United States Capitol Buildings and Grounds as defined and described in sections 5101 and 5102 of this title, any extension of, oradditions to, those Buildings and Grounds, and buildings and grounds under the care of the Architect of the Capitol.
 
 (b)
 

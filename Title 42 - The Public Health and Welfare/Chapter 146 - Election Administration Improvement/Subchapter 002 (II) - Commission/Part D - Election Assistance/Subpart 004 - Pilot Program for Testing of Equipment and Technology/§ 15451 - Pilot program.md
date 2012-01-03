@@ -38,7 +38,7 @@ An entity is eligible to receive a grant under this subpart if it submits to the
 
 #### (d) Provision of information on projects
 
-The Commission may provide to the Technical Guidelines Development Committee under subpart 3 of part A of this subchapter such information regarding the activities funded under this subpart as the Commission deems necessary to assist the Committee in carrying out its duties.
+The Commission may provide to the Technical Guidelines Development Committee under subpart 3 of part A of this subchapter such information regarding the activities funded under thissubpart as the Commission deems necessary to assist the Committee in carrying out its duties.
 
 (Pub. L. 107–252, title II, §281, Oct. 29, 2002, 116 Stat. 1701.)
 

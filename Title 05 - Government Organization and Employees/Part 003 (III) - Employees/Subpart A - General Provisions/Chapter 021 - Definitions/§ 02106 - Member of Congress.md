@@ -10,9 +10,9 @@ The section is supplied to avoid the necessity of defining “Member of Congress
 
 #### Amendments
 
-1979—Pub. L. 96–54 substituted “to the House of Representatives” for “from the District of Columbia”.
+<b>1979</b>—Pub. L. 96–54 substituted “to the House of Representatives” for “from the District of Columbia”.
 
-1970—Pub. L. 91–405 included Delegate from District of Columbia.
+<b>1970</b>—Pub. L. 91–405 included Delegate from District of Columbia.
 
 #### Effective Date of 1979 Amendment
 

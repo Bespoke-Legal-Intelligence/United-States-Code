@@ -10,7 +10,7 @@ In addition to annual examinations under subsection (a) of this section, the Dir
 
 #### (c) Examiners
 
-The Director shall appoint examiners to conduct examinations under this section. The Director may contract with the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, or the Director of the Office of Thrift Supervision for the services of examiners to conduct examinations under this section. The Director shall reimburse such agencies for any costs of providing examiners from amounts available in the Federal Housing Enterprises Oversight Fund.
+The Director shall appoint examiners to conduct examinations under this section. The Director may contract with the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, or the Federal Deposit Insurance Corporation for the services of examiners to conduct examinations under this section. The Director shall reimburse such agencies for any costs of providing examiners from amounts available in the Federal Housing Enterprises Oversight Fund.
 
 #### (d) Inspector General
 
@@ -46,7 +46,7 @@ In connection with examinations under this section, the Director shall have the 
 
 The Director shall establish, by regulation, an Office of the Ombudsman within the Agency, which shall be responsible for considering complaints and appeals, from any regulated entity and any person that has a business relationship with a regulated entity, regarding any matter relating to the regulation and supervision of such regulated entity by the Agency. The regulation issued by the Director under this subsection shall specify the authority and duties of the Office of the Ombudsman.
 
-(Pub. L. 102–550, title XIII, §1317, Oct. 28, 1992, 106 Stat. 3949; Pub. L. 110–289, div. A, title I, §§1105(a), (b), (e), 1153(b)(1)(A), July 30, 2008, 122 Stat. 2667, 2668, 2774.)
+(Pub. L. 102–550, title XIII, §1317, Oct. 28, 1992, 106 Stat. 3949; Pub. L. 110–289, div. A, title I, §§1105(a), (b), (e), 1153(b)(1)(A), July 30, 2008, 122 Stat. 2667, 2668, 2774; Pub. L. 111–203, title III, §365(2), July 21, 2010, 124 Stat. 1555.)
 
 #### References in Text
 
@@ -54,7 +54,9 @@ Section 3(a) of the Inspector General Act of 1978, referred to in subsec. (d), i
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–289, §1105(a)(1), substituted “regulated entity” for “enterprise” in two places.
+<b>2010</b>—Subsec. (c). Pub. L. 111–203 substituted “or the Federal Deposit Insurance Corporation” for “the Federal Deposit Insurance Corporation, or the Director of the Office of Thrift Supervision”.
+
+<b>2008</b>—Subsec. (a). Pub. L. 110–289, §1105(a)(1), substituted “regulated entity” for “enterprise” in two places.
 
 Subsec. (b). Pub. L. 110–289, §1105(a)(2), inserted “of a regulated entity” after “under this section” and substituted “or appropriate” for “to determine the condition of an enterprise for the purpose of ensuring its financial safety and soundness”.
 
@@ -69,4 +71,8 @@ Pub. L. 110–289, §1105(a)(4), redesignated subsec. (f) as (g).
 Subsec. (h). Pub. L. 110–289, §1105(b), added subsec. (h).
 
 Subsec. (i). Pub. L. 110–289, §1105(e), added subsec. (i).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the transfer date, see section 351 of Pub. L. 111–203, set out as a note under section 906 of Title 2, The Congress.
 

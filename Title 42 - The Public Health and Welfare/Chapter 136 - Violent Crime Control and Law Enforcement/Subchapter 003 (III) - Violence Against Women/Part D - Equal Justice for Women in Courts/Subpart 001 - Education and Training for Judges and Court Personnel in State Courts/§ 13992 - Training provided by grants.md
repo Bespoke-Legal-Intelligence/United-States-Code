@@ -12,7 +12,7 @@ Training provided pursuant to grants made under this part may include current in
 
 &emsp;(5) the historical evolution of laws and attitudes on rape and sexual assault;
 
-&emsp;(6) sex stereotyping of female and male victims of rape and sexual assault, racial stereotyping of rape victims and defendants, and the impact of such stereotypes on credibility of witnesses, sentencing, and other aspects of the administration of justice;
+&emsp;(6) sex stereotyping of female and male victims of rape and sexual assault, racial stereotyping of rape victims and defendants, and the impact of such stereotypes on credibility ofwitnesses, sentencing, and other aspects of the administration of justice;
 
 &emsp;(7) application of rape shield laws and other limits on introduction of evidence that may subject victims to improper sex stereotyping and harassment in both rape and nonrape cases, including the need for sua sponte judicial intervention in inappropriate cross-examination;
 
@@ -30,7 +30,7 @@ Training provided pursuant to grants made under this part may include current in
 
 &emsp;(14) historical evolution of laws and attitudes on domestic violence;
 
-&emsp;(15) proper and improper interpretations of the defenses of self-defense and provocation,and the use of expert witness testimony on battered woman syndrome;
+&emsp;(15) proper and improper interpretations of the defenses of self-defense and provocation, and the use of expert witness testimony on battered woman syndrome;
 
 &emsp;(16) the likelihood of retaliation, recidivism, and escalation of violence by batterers, and the potential impact of incarceration and other meaningful sanctions for acts of domestic violence including violations of orders of protection;
 

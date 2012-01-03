@@ -12,9 +12,11 @@ A taxpayer may elect to treat the cost of any section 179 property as an expense
 
 &emsp;&emsp;(A) $250,000 in the case of taxable years beginning after 2007 and before 2010,
 
-&emsp;&emsp;(B) $500,000 in the case of taxable years beginning in 2010 or 2011, and
+&emsp;&emsp;(B) $500,000 in the case of taxable years beginning in 2010 or 2011,
 
-&emsp;&emsp;(C) $25,000 in the case of taxable years beginning after 2011.
+&emsp;&emsp;(C) $125,000 in the case of taxable years beginning in 2012, and
+
+&emsp;&emsp;(D) $25,000 in the case of taxable years beginning after 2012.
 
 #### (2) Reduction in limitation
 
@@ -22,9 +24,11 @@ A taxpayer may elect to treat the cost of any section 179 property as an expense
 
 &emsp;&emsp;(A) $800,000 in the case of taxable years beginning after 2007 and before 2010,
 
-&emsp;&emsp;(B) $2,000,000 in the case of taxable years beginning in 2010 or 2011, and
+&emsp;&emsp;(B) $2,000,000 in the case of taxable years beginning in 2010 or 2011,
 
-&emsp;&emsp;(C) $200,000 in the case of taxable years beginning after 2011.
+&emsp;&emsp;(C) $500,000 in the case of taxable years beginning in 2012, and
+
+&emsp;&emsp;(D) $200,000 in the case of taxable years beginning after 2012.
 
 #### (3) Limitation based on income from trade or business
 
@@ -86,6 +90,26 @@ A taxpayer may elect to treat the cost of any section 179 property as an expense
 
 &emsp;&emsp;&emsp;&emsp;(III) has an integral enclosure, fully enclosing the driver compartment and load carrying device, does not have seating rearward of the driver's seat, and has no body section protruding more than 30 inches ahead of the leading edge of the windshield.
 
+#### (6) Inflation adjustment
+
+#### (A) In general
+
+&emsp;&emsp;In the case of any taxable year beginning in calendar year 2012, the $125,000 and $500,000 amounts in paragraphs (1)(C) and (2)(C) shall each be increased by an amount equal to—
+
+&emsp;&emsp;&emsp;(i) such dollar amount, multiplied by
+
+&emsp;&emsp;&emsp;(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting “calendar year 2006” for “calendar year 1992” in subparagraph (B) thereof.
+
+#### (B) Rounding
+
+#### (i) Dollar limitation
+
+&emsp;&emsp;&emsp;If the amount in paragraph (1) as increased under subparagraph (A) is not a multiple of $1,000, such amount shall be rounded to the nearest multiple of $1,000.
+
+#### (ii) Phaseout amount
+
+&emsp;&emsp;&emsp;If the amount in paragraph (2) as increased under subparagraph (A) is not a multiple of $10,000, such amount shall be rounded to the nearest multiple of $10,000.
+
 #### (c) Election
 
 #### (1) In general
@@ -100,7 +124,7 @@ A taxpayer may elect to treat the cost of any section 179 property as an expense
 
 #### (2) Election irrevocable
 
-&emsp;Any election made under this section, and any specification contained in any such election, may not be revoked except with the consent of the Secretary. Any such election or specification with respect to any taxable year beginning after 2002 and before 2012 may be revoked by the taxpayer with respect to any property, and such revocation, once made, shall be irrevocable.
+&emsp;Any election made under this section, and any specification contained in any such election, may not be revoked except with the consent of the Secretary. Any such election or specification with respect to any taxable year beginning after 2002 and before 2013 may be revoked by the taxpayer with respect to any property, and such revocation, once made, shall be irrevocable.
 
 #### (d) Definitions and special rules
 
@@ -112,7 +136,7 @@ A taxpayer may elect to treat the cost of any section 179 property as an expense
 
 &emsp;&emsp;&emsp;(i) tangible property (to which section 168 applies), or
 
-&emsp;&emsp;&emsp;(ii) computer software (as defined in section 197(e)(3)(B)) which is described in section 197(e)(3)(A)(i), to which section 167 applies, and which is placed in service in a taxable year beginning after 2002 and before 2012,
+&emsp;&emsp;&emsp;(ii) computer software (as defined in section 197(e)(3)(B)) which is described in section 197(e)(3)(A)(i), to which section 167 applies, and which is placed in service in a taxable year beginning after 2002 and before 2013,
 
 &emsp;&emsp;(B) which is section 1245 property (as defined in section 1245(a)(3)), and
 
@@ -252,7 +276,7 @@ A taxpayer may elect to treat the cost of any section 179 property as an expense
 
 &emsp;&emsp;&emsp;(ii) the total amount of section 179 property placed in service during such taxable year, increased by the aggregate amount carried over to such taxable year from any prior taxable year.
 
-> &emsp;&emsp;For purposes of the preceding sentence, only section 179 property with respect to whichan election was made under subsection (c)(1) (determined without regard to subparagraph (B) of this paragraph) shall be taken into account.
+> &emsp;&emsp;For purposes of the preceding sentence, only section 179 property with respect to which an election was made under subsection (c)(1) (determined without regard to subparagraph (B) of this paragraph) shall be taken into account.
 
 (Added Pub. L. 85–866, title II, §204(a), Sept. 2, 1958, 72 Stat. 1679; amended Pub. L. 87–834, §13(c)(2), Oct. 16, 1962, 76 Stat. 1034; Pub. L. 91–172, title IV, §401(f), Dec. 30, 1969, 83 Stat. 603; Pub. L. 94–455, title II, §213(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1547, 1834; Pub. L. 97–34, title II, §202(a), Aug. 13, 1981, 95 Stat. 219; Pub. L. 97–354, §3(f), Oct. 19, 1982, 96 Stat. 1689; Pub. L. 97–448, title I, §102(aa), Jan. 12, 1983, 96 Stat. 2369; Pub. L. 98–369, div. A, title I, §13, July 18, 1984, 98 Stat. 505; Pub. L. 99–514, title II, §§201(d)(3), 202, Oct. 22, 1986, 100 Stat. 2139, 2142; Pub. L. 100–647, title I, §1002(a)(19), (b)(1), Nov. 10, 1988, 102 Stat. 3356, 3357; Pub. L. 101–508, title XI, §11813(b)(11), Nov. 5, 1990, 104 Stat. 1388–554; Pub. L. 103–66, title XIII, §13116(a), Aug. 10, 1993, 107 Stat. 432; Pub. L. 104–188, title I, §§1111(a), 1702(h)(10), (19), Aug. 20, 1996, 110 Stat. 1758, 1874; Pub. L. 108–27, title II, §202(a)–(e), May 28, 2003, 117 Stat. 757, 758; Pub. L. 108–357, title II, §201, title VIII, §910(a), Oct. 22, 2004, 118 Stat. 1429, 1659; Pub. L. 109–222, title I, §101, May 17, 2006, 120 Stat. 346; Pub. L. 110–28, title VIII, §8212(a)–(c), May 25, 2007, 121 Stat. 192; Pub. L. 110–185, title I, §102(a), Feb. 13, 2008, 122 Stat. 618; Pub. L. 110–343, div. C, title VII, §711(a), Oct. 3, 2008, 122 Stat. 3928; Pub. L. 111–5, div. B, title I, §1202(a), Feb. 17, 2009, 123 Stat. 335; Pub. L. 111–147, title II, §201(a), Mar. 18, 2010, 124 Stat. 77; Pub. L. 111–240, title II, §2021(a)–(d), Sept. 27, 2010, 124 Stat. 2556, 2558; Pub. L. 111–312, title IV, §402(a)–(e), title VII, §737(b)(3), Dec. 17, 2010, 124 Stat. 3306, 3307, 3318.)
 
@@ -260,67 +284,35 @@ A taxpayer may elect to treat the cost of any section 179 property as an expense
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
-#### Amendment of Section
-
-<i>Pub. L. 111–312, title IV, §402, Dec. 17, 2010, 124 Stat. 3306, provided that, applicable to taxable years beginning after Dec. 31, 2011, this section is amended as follows:</i>
-
-<i>(1) in subsection (b)—</i>
-
-<i>(A) in paragraph (1), by striking “and” at the end of subparagraph (B) and by striking subparagraph (C) and inserting the following new subparagraphs:</i>
-
-&emsp;&emsp;<i>“(C) $125,000 in the case of taxable years beginning in 2012, and</i>
-
-&emsp;&emsp;<i>“(D) $25,000 in the case of taxable years beginning after 2012.”;</i>
-
-<i>(B) in paragraph (2), by striking “and” at the end of subparagraph (B) and by striking subparagraph (C) and inserting the following new subparagraphs:</i>
-
-&emsp;&emsp;<i>“(C) $500,000 in the case of taxable years beginning in 2012, and</i>
-
-&emsp;&emsp;<i>“(D) $200,000 in the case of taxable years beginning after 2012.”; and</i>
-
-<i>(C) by adding at the end the following new paragraph:</i>
-
-#### <i>“(6) Inflation adjustment</i>
-
-#### <i>“(A) In general</i>
-
-&emsp;&emsp;<i>“In the case of any taxable year beginning in calendar year 2012, the $125,000 and $500,000 amounts in paragraphs (1)(C) and (2)(C) shall each be increased by an amount equal to—</i>
-
-&emsp;&emsp;&emsp;<i>“(i) such dollar amount, multiplied by</i>
-
-&emsp;&emsp;&emsp;<i>“(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting ‘calendar year 2006’ for ‘calendar year 1992’ in subparagraph (B) thereof.</i>
-
-#### <i>“(B) Rounding</i>
-
-#### <i>“(i) Dollar limitation</i>
-
-&emsp;&emsp;&emsp;<i>“If the amount in paragraph (1) as increased under subparagraph (A) is not a multiple of $1,000, such amount shall be rounded to the nearest multiple of $1,000.</i>
-
-#### <i>“(ii) Phaseout amount</i>
-
-&emsp;&emsp;&emsp;<i>“If the amount in paragraph (2) as increased under subparagraph (A) is not a multiple of $10,000, such amount shall be rounded to the nearest multiple of $10,000.”;</i>
-
-<i>(2) in subsection (c)(2), by striking “2012” and inserting “2013”; and</i>
-
-<i>(3) in subsection (d)(1)(A)(ii), by striking “2012” and inserting “2013”.</i>
-
 #### Amendments
 
 <b>2010</b>—Subsec. (b)(1). Pub. L. 111–240, §2021(a)(1), substituted “shall not exceed—” for “shall not exceed $25,000 ($250,000 in the case of taxable years beginning after 2007 and before 2011).” and added subpars. (A) to (C).
 
 Pub. L. 111–147, §201(a)(1), substituted “($250,000 in the case of taxable years beginning after 2007 and before 2011)” for “($125,000 in the case of taxable years beginning after 2006 and before 2011)”.
 
+Subsec. (b)(1)(C), (D). Pub. L. 111–312, §402(a), added subpars. (C) and (D) and struck out former subpar. (C), which read as follows: “$25,000 in the case of taxable years beginning after 2011.”
+
 Subsec. (b)(2). Pub. L. 111–240, §2021(a)(2), substituted “exceeds—” for “exceeds $200,000 ($800,000 in the case of taxable years beginning after 2007 and before 2011).” and added subpars. (A) to (C).
 
 Pub. L. 111–147, §201(a)(2), substituted “($800,000 in the case of taxable years beginning after 2007 and before 2011)” for “($500,000 in the case of taxable years beginning after 2006 and before 2011)”.
 
-Subsec. (b)(5), (6). Pub. L. 111–147, §201(a)(3), (4), redesignated par. (6) as (5) and struck out former par. (5) which related to inflation adjustments.
+Subsec. (b)(2)(C), (D). Pub. L. 111–312, §402(b), added subpars. (C) and (D) and struck out former subpar. (C), which read as follows: “$200,000 in the case of taxable years beginning after 2011.”
+
+Subsec. (b)(5). Pub. L. 111–147, §201(a)(3), (4), redesignated par. (6) as (5) and struck out former par. (5) which related to inflation adjustments.
+
+Subsec. (b)(6). Pub. L. 111–312, §402(c), added par. (6).
+
+Pub. L. 111–147, §201(a)(4), redesignated par. (6) as (5).
 
 Subsec. (b)(7). Pub. L. 111–147, §201(a)(3), struck out par. (7) which related to increase in limitations for 2008 and 2009.
 
-Subsec. (c)(2). Pub. L. 111–240, §2021(c), substituted “2012” for “2011”.
+Subsec. (c)(2). Pub. L. 111–312, §402(e), substituted “2013” for “2012”.
 
-Subsec. (d)(1)(A)(ii). Pub. L. 111–240, §2021(d), substituted “2012” for “2011”.
+Pub. L. 111–240, §2021(c), substituted “2012” for “2011”.
+
+Subsec. (d)(1)(A)(ii). Pub. L. 111–312, §402(d), substituted “2013” for “2012”.
+
+Pub. L. 111–240, §2021(d), substituted “2012” for “2011”.
 
 Subsec. (f). Pub. L. 111–240, §2021(b), added subsec. (f).
 
@@ -338,7 +330,7 @@ Subsec. (e). Pub. L. 110–343 added subsec. (e).
 
 Subsec. (b)(2). Pub. L. 110–28, §8212(a), (b)(2), substituted “$500,000 in the case of taxable years beginning after 2006” for “$400,000 in the case of taxable years beginning after 2002” and “2011” for “2010”.
 
-Subsec. (b)(5)(A). Pub. L. 110–28, §8212(a), (c)(1), (2), in introductory provisions, substituted “2007” for “2003”,“2011” for “2010”, and “$125,000 and $500,000” for “$100,000 and $400,000”.
+Subsec. (b)(5)(A). Pub. L. 110–28, §8212(a), (c)(1), (2), in introductory provisions, substituted “2007” for “2003”, “2011” for “2010”, and “$125,000 and $500,000” for “$100,000 and $400,000”.
 
 Subsec. (b)(5)(A)(ii). Pub. L. 110–28, §8212(c)(3), substituted “2006” for “2002”.
 
@@ -480,7 +472,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Amendment by section 201(d)(3) of Pub. L. 99–514 applicable to property placed in service after Dec. 31, 1986, in taxable years ending after such date, with exceptions, see sections 203 and 204 of Pub. L. 99–514, set out as a note under section 168 of this title.
 
-Amendment by section 201(d)(3) of Pub. L. 99–514 not applicable to any property placed in service before Jan. 1, 1994, if such property placed in service as part of specified rehabilitations, and not applicable to certain additional rehabilitations, see section 251(d)(2), (3) of Pub. L. 99–514, set out as a note under section 46 of this title.
+Amendment by section 201(d)(3) of Pub. L. 99–514 not applicable to any property placed in service before Jan.1, 1994, if such property placed in service as part of specified rehabilitations, and not applicable to certain additional rehabilitations, see section 251(d)(2), (3) of Pub. L. 99–514, set out as a note under section 46 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -516,5 +508,5 @@ Section 204(c) of Pub. L. 85–866 provided that: “The amendments made by this
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certaintransactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 

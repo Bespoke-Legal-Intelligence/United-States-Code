@@ -18,7 +18,7 @@ Procedure.—
 
 &emsp;(1)
 
-Application.—Any motor carrier of property may apply to the Board for approval of an agreement or combination with another such carrier to pool or divide traffic or any services or any part of their earnings by filing such agreement or combination with the Board not less than 50 days before its effective date.
+Application.—Any motor carrier of property may apply to the Board for approval of an agreement or combination with another such carrier to pool or divide traffic or any servicesor any part of their earnings by filing such agreement or combination with the Board not less than 50 days before its effective date.
 
 &emsp;(2)
 
@@ -78,7 +78,7 @@ This amends 49:14302(h)(1) and (2) for clarity and consistency.
 
 #### References in Text
 
-Section 10102(11) of this title, referred to in subsec. (h)(1), was omitted and a new section 10102 enacted inthe general amendment of this subtitle by Pub. L. 104–88, title I, §102(a), Dec. 20, 1995, 109 Stat. 804, 806, effective Jan. 1, 1996.
+Section 10102(11) of this title, referred to in subsec. (h)(1), was omitted and a new section 10102 enacted in the general amendment of this subtitle by Pub. L. 104–88, title I, §102(a), Dec. 20, 1995, 109 Stat. 804, 806, effective Jan. 1, 1996.
 
 Subchapter II of chapter 105 of this title, referred to in subsec. (h)(2), was omitted in the general amendment of this subtitle by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804, effective Jan. 1, 1996.
 

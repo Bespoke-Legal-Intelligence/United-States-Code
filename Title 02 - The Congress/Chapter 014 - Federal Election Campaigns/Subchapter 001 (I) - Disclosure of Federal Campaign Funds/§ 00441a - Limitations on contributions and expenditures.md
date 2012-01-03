@@ -28,7 +28,7 @@
 
 (4) The limitations on contributions contained in paragraphs (1) and (2) do not apply to transfers between and among political committees which are national, State, district, or local committees (including any subordinate committee thereof) of the same political party. For purposes of paragraph (2), the term “multicandidate political committee” means a political committee which has been registered under section 433 of this title for a period of not less than 6 months, which has received contributions from more than 50 persons, and, except for any State political party organization, has made contributions to 5 or more candidates for Federal office.
 
-(5) For purposes of the limitations provided by paragraph (1) and paragraph (2), all contributions made by political committees established or financed or maintained or controlled by any corporation, labor organization, or any other person, including any parent, subsidiary, branch, division, department, or local unit of such corporation, labor organization, or any other person, or by any group of such persons, shall be considered to have been made by a single political committee, except that (A) nothing in this sentence shall limit transfers between political committees of funds raised through joint fund raising efforts; (B) for purposes of the limitations provided by paragraph (1) and paragraph (2) all contributions made by a single political committee established or financed or maintained or controlled by a national committee of a political party and by a single political committee established or financed or maintained or controlled by the State committee of a political party shall not be considered to have been made by a single political committee; and (C) nothing in this section shall limit the transfer of funds between the principal campaign committee of a candidate seeking nomination or election to a Federal office and the principal campaign committee of that candidate for nomination or election to another Federal office if (i) such transfer is not made when the candidate is actively seeking nomination or election to both such offices; (ii) the limitations contained in this Act on contributions by persons are not exceeded by such transfer; and (iii) the candidate has not elected to receive any funds under chapter 95 or chapter 96 of title 26. In any case in which a corporation and any of its subsidiaries, branches, divisions, departments, or local units, or a labor organization and any of its subsidiaries, branches, divisions, departments, or local units establish or finance or maintain or control more than one separate segregated fund, all such separate segregated funds shall be treated as a single separate segregated fund for purposesof the limitations provided by paragraph (1) and paragraph (2).
+(5) For purposes of the limitations provided by paragraph (1) and paragraph (2), all contributions made by political committees established or financed or maintained or controlled by any corporation, labor organization, or any other person, including any parent, subsidiary, branch, division, department, or local unit of such corporation, labor organization, or any other person, or by any group of such persons, shall be considered to have been made by a single political committee, except that (A) nothing in this sentence shall limit transfers between political committees of funds raised throughjoint fund raising efforts; (B) for purposes of the limitations provided by paragraph (1) and paragraph (2) all contributions made by a single political committee established or financed or maintained or controlled by a national committee of a political party and by a single political committee established or financed or maintained or controlled by the State committee of a political party shall not be considered to have been made by a single political committee; and (C) nothing in this section shall limit the transfer of funds between the principal campaign committee of a candidate seeking nomination or election to a Federal office and the principal campaign committee of that candidate for nomination or election to another Federal office if (i) such transfer is not made when the candidate is actively seeking nomination or election to both such offices; (ii) the limitations contained in this Act on contributions by persons are not exceeded by such transfer; and (iii) the candidate has not elected to receive any funds under chapter 95 or chapter 96 of title 26. In any case in which a corporation and any of its subsidiaries, branches, divisions, departments, or local units, or a labor organization and any of its subsidiaries, branches, divisions, departments, or local units establish or finance or maintain or control more than one separate segregated fund, all such separate segregated funds shall be treated as a single separate segregated fund for purposes of the limitations provided by paragraph (1) and paragraph (2).
 
 (6) The limitations on contributions to a candidate imposed by paragraphs (1) and (2) of this subsection shall apply separately with respect to each election, except that all elections held in any calendar year for the office of President of the United States (except a general election for such office) shall be considered to be one election.
 
@@ -70,7 +70,7 @@
 
 &emsp;&emsp;(i) an authorized committee or any other agent of the candidate for purposes of making any expenditure; or
 
-&emsp;&emsp;(ii) any person authorized or requested by the candidate, an authorized committee of the candidate, or an agent of the candidate, to make the expenditure.
+&emsp;&emsp;(ii) any person authorized or requested by the candidate, an authorized committee ofthe candidate, or an agent of the candidate, to make the expenditure.
 
 #### (c) Increases on limits based on increases in price index
 
@@ -84,7 +84,7 @@
 
 &emsp;(iii) if any amount after adjustment under clause (i) is not a multiple of $100, such amount shall be rounded to the nearest multiple of $100.
 
-(C) In the case of limitations under subsections (a)(1)(A), (a)(1)(B), (a)(3), and (h) of this section, increases shall only be made in odd-numbered years and such increases shall remainin effect for the 2-year period beginning on the first day following the date of the last general election in the year preceding the year in which the amount is increased and ending on the date of the next general election.
+(C) In the case of limitations under subsections (a)(1)(A), (a)(1)(B), (a)(3), and (h) of this section, increases shall only be made in odd-numbered years and such increases shall remain in effect for the 2-year period beginning on the first day following the date of the last general election in the year preceding the year in which the amount is increased and ending on the date of the next general election.
 
 (2) For purposes of paragraph (1)—
 
@@ -134,7 +134,7 @@ Transfers.—A committee of a political party that makes coordinated expenditure
 
 #### (e) Certification and publication of estimated voting age population
 
-During the first week of January 1975, and every subsequent year, the Secretary of Commerce shall certify to the Commission and publish in the Federal Register an estimate of the voting age population of the United States, of each State, and of each congressional district as of the first day of July next preceding the date of certification. The term “voting age population” means resident population, 18 years of age or older.
+During the first week of January 1975, and every subsequent year, the Secretary of Commerce shall certify to the Commission and publish in the Federal Register an estimate of thevoting age population of the United States, of each State, and of each congressional district as of the first day of July next preceding the date of certification. The term “voting age population” means resident population, 18 years of age or older.
 
 #### (f) Prohibited contributions and expenditures
 
@@ -146,7 +146,7 @@ The Commission shall prescribe rules under which any expenditure by a candidate 
 
 #### (h) Senatorial candidates
 
-Notwithstanding any other provision of this Act, amounts totaling not more than $35,000may be contributed to a candidate for nomination for election, or for election, to the United States Senate during the year in which an election is held in which he is such a candidate, by the Republican or Democratic Senatorial Campaign Committee, or the national committee of a political party, or any combination of such committees.
+Notwithstanding any other provision of this Act, amounts totaling not more than $35,000 may be contributed to a candidate for nomination for election, or for election, to the United States Senate during the year in which an election is held in which he is such a candidate, by the Republican or Democratic Senatorial Campaign Committee, or the national committee of a political party, or any combination of such committees.
 
 #### (i) Increased limit to allow response to expenditures from personal funds
 
@@ -222,7 +222,7 @@ Notwithstanding any other provision of this Act, amounts totaling not more than 
 
 &emsp;&emsp;Subject to subparagraph (B), a candidate and the candidate's authorized committee shall not accept any contribution, and a party committee shall not make any expenditure, under the increased limit under paragraph (1)—
 
-&emsp;&emsp;&emsp;(i) until the candidate has received notification of the opposition personal fundsamount under section 434(a)(6)(B) of this title; and
+&emsp;&emsp;&emsp;(i) until the candidate has received notification of the opposition personal funds amount under section 434(a)(6)(B) of this title; and
 
 &emsp;&emsp;&emsp;(ii) to the extent that such contribution, when added to the aggregate amount of contributions previously accepted and party expenditures previously made under the increased limits under this subsection for the election cycle, exceeds 110 percent of the opposition personal funds amount.
 
@@ -260,7 +260,7 @@ Another prior section 315 of Pub. L. 92–225 was renumbered section 310, and is
 
 #### Amendments
 
-2002—Subsec. (a)(1). Pub. L. 107–155, §§304(a)(1), 319(b), substituted “Except as provided in subsection (i) of this section and section 441a–1 of this title, no person” for “No person” in introductory provisions.
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–155, §§304(a)(1), 319(b), substituted “Except as provided in subsection (i) of this section and section 441a–1 of this title, no person” for “No person” in introductory provisions.
 
 Subsec. (a)(1)(A). Pub. L. 107–155, §307(a)(1), substituted “$2,000” for “$1,000”.
 
@@ -292,7 +292,7 @@ Subsec. (i)(1)(E). Pub. L. 107–155, §316, added subpar. (E).
 
 Subsec. (j). Pub. L. 107–155, §304(a)(2), added subsec. (j).
 
-1986—Subsecs. (a)(5), (b)(1). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsecs. (a)(5), (b)(1). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 #### Effective Date of 2002 Amendment
 

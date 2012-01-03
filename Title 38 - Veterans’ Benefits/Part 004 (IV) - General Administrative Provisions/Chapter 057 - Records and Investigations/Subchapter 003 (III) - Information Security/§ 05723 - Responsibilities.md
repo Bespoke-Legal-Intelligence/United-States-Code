@@ -32,11 +32,11 @@ Secretary of Veterans Affairs.—In accordance with the provisions of subchapter
 
 Assistant Secretary for Information and Technology.—The Assistant Secretary for Information and Technology, as the Chief Information Officer of the Department, is responsible for the following:
 
-&emsp;(1) Establishing, maintaining, and monitoring Department-wide information security policies, procedures, control techniques, training, and inspection requirements as elementsof the Department information security program.
+&emsp;(1) Establishing, maintaining, and monitoring Department-wide information security policies, procedures, control techniques, training, and inspection requirements as elements of the Department information security program.
 
 &emsp;(2) Issuing policies and handbooks to provide direction for implementing the elements of the information security program to all Department organizations.
 
-&emsp;(3) Approving all policies and procedures that are related to information security for those areas of responsibility that are currently under the management and the oversight of other Department organizations.
+&emsp;(3) Approving all policies and procedures that are related to information security forthose areas of responsibility that are currently under the management and the oversight of other Department organizations.
 
 &emsp;(4) Ordering and enforcing Department-wide compliance with and execution of any information security policy.
 
@@ -92,7 +92,7 @@ Other Key Officials.—In accordance with the provisions of subchapter III of ch
 
 &emsp;(3) Providing a plan of action and milestones to the Assistant Secretary for Information and Technology on at least a quarterly basis detailing the status of actions being taken to correct any security compliance failure or policy violation.
 
-&emsp;(4) Complying with the provisions of subchapter III of chapter 35 of title 44 and other related information security laws and requirements in accordance with orders of the Assistant Secretary for Information and Technology to execute the appropriate security controls commensurate to responding to a security bulletin of the Security Operations Center of the Department, with such orders to supersede and take priority over all operational tasks and assignments and be complied with immediately.
+&emsp;(4) Complying with the provisions of subchapter III of chapter 35 of title 44 and other related information security laws and requirements in accordance with orders of the Assistant Secretary for Information and Technology to execute the appropriate security controls commensurate to responding to a security bulletin of the Security Operations Center of the Department, with such orders to supersede andtake priority over all operational tasks and assignments and be complied with immediately.
 
 &emsp;(5) Ensuring that—
 

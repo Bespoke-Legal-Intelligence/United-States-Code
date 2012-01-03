@@ -16,7 +16,7 @@ The Institute shall be—
 
 The duties of the Institute shall include the following:
 
-&emsp;(1) The assembly of timely and authoritative information regarding significant developments and trends in science and technology research and development in the United States and abroad, including information relating to the technologies identified in the most recent biennial report submitted to Congress by the President pursuant to section 6683(d) <sup>1</sup> of this title and developing and maintaining relevant informational and analytical tools.
+&emsp;(1) The assembly of timely and authoritative information regarding significant developments and trends in science and technology research and development in the United Statesand abroad, including information relating to the technologies identified in the most recent biennial report submitted to Congress by the President pursuant to section 6683(d) <sup>1</sup> of this title and developing and maintaining relevant informational and analytical tools.
 
 &emsp;(2) Analysis and interpretation of the information referred to in paragraph (1) with particular attention to the scope and content of the Federal science and technology research and development portfolio as it affects interagency and national issues.
 
@@ -88,7 +88,7 @@ Subsec. (c)(2). Pub. L. 105–207, §208(a)(4)(D), substituted “with particula
 
 Subsec. (c)(3). Pub. L. 105–207, §208(a)(4)(E), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Initiation of studies and analyses (including systems analyses and technology assessments) of alternatives available for ensuring long-term leadership by the United States in the development and application of the technologies referred to in paragraph (1), including appropriate roles for the Federal Government, State governments, private industry, and institutions of higher education in the development and application of such technologies.”
 
-Subsec. (c)(4). Pub. L. 105–207, §208(a)(4)(F), (G), inserted “science and” after “Executive branch on” in subpar. (A) and amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “to the committees and panels of the Federal Coordinating Council for Science, Engineering, and Technology that are responsible for planning and coordinating activities of the Federal Government to advance the development of critical technologies and sustain and strengthen the technology base of the United States.”
+Subsec. (c)(4). Pub. L. 105–207, §208(a)(4)(F), (G), inserted “science and” after “Executive branch on” in subpar. (A) and amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “to the committees and panels of the Federal Coordinating Councilfor Science, Engineering, and Technology that are responsible for planning and coordinating activities of the Federal Government to advance the development of critical technologies and sustain and strengthen the technology base of the United States.”
 
 Subsec. (d). Pub. L. 105–207, §208(a)(3), (5), redesignated subsec. (e) as (d) and substituted “subsection (c)” for “subsection (d)” in introductory provisions. Former subsec. (d) redesignated (c).
 
@@ -110,7 +110,7 @@ Subsec. (g). Pub. L. 105–207, §208(a)(3), redesignated subsec. (g) as (f).
 
 <b>1991</b>—Pub. L. 102–190 amended section generally, substituting present provisions for provisions establishing “Critical Technologies Institute” and providing for incorporation, Board of Trustees, duties of Institute, sponsorship of Institute, deadline for certain actions, and funding.
 
-Subsec. (g)(1). Pub. L. 102–25, §704(a)(5)(A), substituted “appropriated pursuant to this Act” for“available for the Department of Defense” and struck out “in the first fiscal year in which the Institute begins operations” after “activities of the Institute”.
+Subsec. (g)(1). Pub. L. 102–25, §704(a)(5)(A), substituted “appropriated pursuant to this Act” for “available for the Department of Defense” and struck out “in the first fiscal year in which the Institute begins operations” after “activities of the Institute”.
 
 Subsec. (g)(2). Pub. L. 102–25, §704(a)(5)(B), struck out “for each fiscal year after the fiscal year referred to in paragraph (1)” after “for the Institute”.
 

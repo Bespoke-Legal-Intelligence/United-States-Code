@@ -28,7 +28,7 @@ The Secretary of Defense shall establish and operate a school system for depende
 
 #### Codification
 
-Section is comprised of section 1407 of Pub. L. 95–561. Subsec. (e), formerly subsec. (c), of section 1407 enacted section 429 of Title 37, Pay and Allowances of the Uniformed Services.
+Section is comprised of section 1407 of Pub. L. 95–561. Subsec. (e), formerly subsec. (c), of section 1407 enacted section 489 of Title 37, Pay and Allowances of the Uniformed Services.
 
 #### Amendments
 

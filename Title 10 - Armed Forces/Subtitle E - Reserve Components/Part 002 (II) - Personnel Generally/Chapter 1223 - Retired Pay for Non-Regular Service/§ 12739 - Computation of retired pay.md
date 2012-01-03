@@ -4,7 +4,7 @@
 
 &emsp;(1) the retired pay base for that person as computed under section 1406(b)(2) or 1407 of this title; and
 
-&emsp;(2) 21/2 percent of the years of service credited to that person under section 12733 of this title.
+&emsp;(2) 2½ percent of the years of service credited to that person under section 12733 of this title.
 
 (b) If a person entitled to retired pay under this chapter has been credited by the Secretary concerned with extraordinary heroism in the line of duty and if the highest grade held satisfactorily by that person at any time in the armed forces is an enlisted grade, the person's retired pay shall be increased by 10 percent of the amount determined under subsection (a). The Secretary's determination as to extraordinary heroism is conclusive for all purposes.
 
@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(i) the retired pay base upon which the computation is based; and
 
-&emsp;&emsp;(ii) 21/2 percent of the years of service credited to that person under section 12733 of this title, for service under conditions authorized for purposes of this paragraph during a period designated by the Secretary of Defense for purposes of this paragraph.
+&emsp;&emsp;(ii) 2½ percent of the years of service credited to that person under section 12733 of this title, for service under conditions authorized for purposes of this paragraph during a period designated by the Secretary of Defense for purposes of this paragraph.
 
 (d) Amounts computed under this section, if not a multiple of $1, shall be rounded down to the next lower multiple of $1.
 

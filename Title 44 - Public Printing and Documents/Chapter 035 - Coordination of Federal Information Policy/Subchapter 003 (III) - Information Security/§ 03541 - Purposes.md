@@ -10,7 +10,7 @@ The purposes of this subchapter are to—
 
 &emsp;(4) provide a mechanism for improved oversight of Federal agency information security programs;
 
-&emsp;(5) acknowledge that commercially developed information security products offer advanced, dynamic, robust, and effective information security solutions, reflecting marketsolutions for the protection of critical information infrastructures important to the national defense and economic security of the nation that are designed, built, and operated by the private sector; and
+&emsp;(5) acknowledge that commercially developed information security products offer advanced, dynamic, robust, and effective information security solutions, reflecting market solutions for the protection of critical information infrastructures important to the national defense and economic security of the nation that are designed, built, and operated by the private sector; and
 
 &emsp;(6) recognize that the selection of specific technical hardware and software information security solutions should be left to individual agencies from among commercially developed products.
 

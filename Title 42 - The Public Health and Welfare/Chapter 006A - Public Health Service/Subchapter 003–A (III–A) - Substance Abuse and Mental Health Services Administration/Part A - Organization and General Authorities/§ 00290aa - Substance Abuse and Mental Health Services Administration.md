@@ -32,7 +32,7 @@ The Secretary, acting through the Administrator, shall—
 
 &emsp;(2) establish and implement, through the respective agencies, a comprehensive program to improve the provision of treatment and related services to individuals with respect to substance abuse and mental illness and to improve prevention services, promote mental health and protect the legal rights of individuals with mental illnesses and individuals who are substance abusers;
 
-&emsp;(3) carry out the administrative and financial management, policy development and planning, evaluation, knowledge dissemination, and public information functions that are required for the implementation of this subchapter;
+&emsp;(3) carry out the administrative and financial management, policy development and planning, evaluation, knowledge dissemination, and public information functions thatare required for the implementation of this subchapter;
 
 &emsp;(4) assure that the Administration conduct and coordinate demonstration projects, evaluations, and service system assessments and other activities necessary to improve the availability and quality of treatment, prevention and related services;
 
@@ -44,7 +44,7 @@ The Secretary, acting through the Administrator, shall—
 
 &emsp;(8) conduct programs, and assure the coordination of such programs with activities of the National Institutes of Health and the Agency for Healthcare Research and Quality, as appropriate, to evaluate the process, outcomes and community impact of treatment and prevention services and systems of care in order to identify the manner in which such services can most effectively be provided;
 
-&emsp;(9) collaborate with the Director of the National Institutes of Health in the development of a system by which the relevant research findings of the National Institute on Drug Abuse, the National Institute on Alcohol Abuse and Alcoholism, the National Institute of Mental Health, and, as appropriate, the Agency for Healthcare Research and Qualityare disseminated to service providers in a manner designed to improve the delivery and effectiveness of treatment and prevention services;
+&emsp;(9) collaborate with the Director of the National Institutes of Health in the development of a system by which the relevant research findings of the National Institute on Drug Abuse, the National Institute on Alcohol Abuse and Alcoholism, the National Institute of Mental Health, and, as appropriate, the Agency for Healthcare Research and Quality are disseminated to service providers in a manner designed to improve the delivery and effectiveness of treatment and prevention services;
 
 &emsp;(10) encourage public and private entities that provide health insurance to provide benefits for substance abuse and mental health services;
 
@@ -80,7 +80,7 @@ The Secretary, acting through the Administrator, shall—
 
 #### (2) Plan
 
-&emsp;(A) The Administrator, acting through the Associate Administrator for Alcohol Prevention and Treatment Policy, shall develop, and periodically review and as appropriate revise, a plan for programs and policies to treat and prevent alcoholism and alcohol abuse. The plan shall be developed (and reviewed and revised) in collaboration with the Directors of the Centers of the Administration and in consultation with members of other Federal agencies and public and private entities.
+&emsp;(A) The Administrator, acting through the Associate Administrator for Alcohol Prevention and Treatment Policy, shall develop, and periodically review and as appropriate revise, a plan for programs and policies to treat andprevent alcoholism and alcohol abuse. The plan shall be developed (and reviewed and revised) in collaboration with the Directors of the Centers of the Administration and in consultation with members of other Federal agencies and public and private entities.
 
 &emsp;(B) Not later than 1 year after July 10, 1992, the Administrator shall submit to the Congress the first plan developed under subparagraph (A).
 
@@ -102,7 +102,7 @@ The Secretary, acting through the Administrator, shall—
 
 &emsp;The Associate Administrator appointed under paragraph (1) shall—
 
-&emsp;&emsp;(A) establish a committee to be known as the Coordinating Committee for Women'sServices (hereafter in this subparagraph referred to as the “Coordinating Committee”), which shall be composed of the Directors of the agencies of the Administration (or the designees of the Directors);
+&emsp;&emsp;(A) establish a committee to be known as the Coordinating Committee for Women's Services (hereafter in this subparagraph referred to as the “Coordinating Committee”), which shall be composed of the Directors of the agencies of the Administration (or the designees of the Directors);
 
 &emsp;&emsp;(B) acting through the Coordinating Committee, with respect to women's substance abuse and mental health services—
 
@@ -140,7 +140,7 @@ The Secretary, acting through the Administrator, shall—
 
 &emsp;(A) The Secretary, acting through the Assistant Secretary for Personnel, shall conduct a study to evaluate the extent to which women are represented among senior personnel at the Administration.
 
-&emsp;(B) Not later than 90 days after July 10, 1992, the Assistant Secretary for Personnel shall provide the Advisory Committee for Women's Services with a study plan, including the methodology of the study and any sampling frames. Not later than 180 days after July 10, 1992, the Assistant Secretary shall prepare and submit directly to the Advisory Committee a report concerning the results of the study conducted under subparagraph (A).
+&emsp;(B) Not later than 90 days after July 10, 1992, the Assistant Secretary for Personnel shall provide the Advisory Committee for Women'sServices with a study plan, including the methodology of the study and any sampling frames. Not later than 180 days after July 10, 1992, the Assistant Secretary shall prepare and submit directly to the Advisory Committee a report concerning the results of the study conducted under subparagraph (A).
 
 &emsp;(C) The Secretary shall prepare and provide to the Advisory Committee for Women's Services any additional data as requested.
 
@@ -164,7 +164,7 @@ The Secretary, acting through the Administrator, shall—
 
 #### (2) Compensation and expenses
 
-&emsp;(A) Experts and consultants whose services are obtained under paragraph (1) shall be paidor reimbursed for their expenses associated with traveling to and from their assignment location in accordance with sections 5724, 5724a(a), 5724a(c), and 5726(c) of title 5.
+&emsp;(A) Experts and consultants whose services are obtained under paragraph (1) shall be paid or reimbursed for their expenses associated with traveling to and from their assignment location in accordance with sections 5724, 5724a(a), 5724a(c), and 5726(c) of title 5.
 
 &emsp;(B) Expenses specified in subparagraph (A) may not be allowed in connection with the assignment of an expert or consultant whose services are obtained under paragraph (1), unless and until the expert or consultant agrees in writing to complete the entire period of assignment or one year, whichever is shorter, unless separated or reassigned for reasons beyond the control of the expert or consultant that are acceptable to the Secretary. If the expert or consultant violates the agreement, the money spent by the United States for the expenses specified in subparagraph (A) is recoverable from the expert or consultant as a debt of the United States. The Secretary may waive in whole or in part a right of recovery under this subparagraph.
 
@@ -206,7 +206,7 @@ With respect to awards of grants, cooperative agreements, and contracts under th
 
 #### (1) In general
 
-&emsp;Notwithstanding section 290aa–3 of this title and except as provided in paragraph (2), the Secretary may use not to exceed 2.5 percent of all amounts appropriated under this subchapter for a fiscal year to make noncompetitive grants, contracts or cooperative agreements to public entities to enable such entities to address emergency substance abuse or mental health needs in local communities.
+&emsp;Notwithstanding section 290aa–3 of this title and except as provided in paragraph (2), theSecretary may use not to exceed 2.5 percent of all amounts appropriated under this subchapter for a fiscal year to make noncompetitive grants, contracts or cooperative agreements to public entities to enable such entities to address emergency substance abuse or mental health needs in local communities.
 
 #### (2) Exceptions
 
@@ -292,7 +292,7 @@ Subsecs. (e), (f). Pub. L. 98–24, §2(b)(2)(D), added subsecs. (e) and (f).
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a)of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 Centers for Disease Control changed to Centers for Disease Control and Prevention by Pub. L. 102–531, title III, §312, Oct. 27, 1992, 106 Stat. 3504.
 
@@ -394,7 +394,7 @@ Substitution.—If, before the date of enactment of this Act \[July 10, 1992\], 
 
 “(f)
 
-Judicial Review.—Orders and actions of the Administrator of the Substance Abuse and Mental Health Services Administration or the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health in the exercise of functions transferred to the Directors by this subtitle shall be subject to judicial review to the same extent and in the same manner as if such orders and actions had been by the Administrator of the Alcohol, Drug Abuse and Mental Health Administration or the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse, and the National Institute of Mental Health, or any office or officer thereof, in the exercise of such functions immediately preceding their transfer. Any statutory requirements relating to notice, hearings, action upon the record, or administrative review that apply to any function transferred by this subtitle shall apply to the exercise of such function by the Administrator of the Substance Abuse and Mental Health Services Administration or the Directors.
+Judicial Review.—Orders and actions of the Administrator of the Substance Abuse and Mental Health Services Administration or the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health in the exercise of functions transferred to the Directors by this subtitle shall be subject to judicial review to the same extent and in the same manner as if such orders and actions had been by the Administrator of the Alcohol, Drug Abuse and Mental Health Administration or the Directors of the National Institute on Alcohol Abuse and Alcoholism, theNational Institute on Drug Abuse, and the National Institute of Mental Health, or any office or officer thereof, in the exercise of such functions immediately preceding their transfer. Any statutory requirements relating to notice, hearings, action upon the record, or administrative review that apply to any function transferred by this subtitle shall apply to the exercise of such function by the Administrator of the Substance Abuse and Mental Health Services Administration or the Directors.
 
 #### “SEC. 146. TRANSITION.
 
@@ -448,7 +448,7 @@ Section 1(b) of Pub. L. 98–24 provided that: “It is the policy of the United
 
 &emsp;&emsp;“(B) the accomplishment of such dissemination through up-to-date publications, demonstrations, educational programs, and other appropriate means;
 
-&emsp;“(3) the provision of technical assistance to research personnel; services personnel, and prevention personnel in the field of alcohol abuse and alcoholism and drug abuse;
+&emsp;“(3) the provision of technical assistance to research personnel; services personnel, and preventionpersonnel in the field of alcohol abuse and alcoholism and drug abuse;
 
 &emsp;“(4) the development and encouragement of prevention programs designed to combat the spread of alcoholism, alcohol abuse, drug abuse, and the abuse of other legal and illegal substances;
 

@@ -38,7 +38,7 @@
 
 (3) The President may prescribe any regulations necessary to carry out this subsection.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 510; Pub. L. 102–138, title I, §147(c), Oct. 28, 1991, 105 Stat. 669;Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §335\], Nov. 29, 1999, 113 Stat. 1536, 1501A–441.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 510; Pub. L. 102–138, title I, §147(c), Oct. 28, 1991, 105 Stat. 669; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §335\], Nov. 29, 1999, 113 Stat. 1536, 1501A–441.)
 
 Historical and Revision Notes
 
@@ -76,9 +76,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1999—Subsec. (f). Pub. L. 106–113 added subsec. (f).
+<b>1999</b>—Subsec. (f). Pub. L. 106–113 added subsec. (f).
 
-1991—Subsecs. (d), (e). Pub. L. 102–138 added subsecs. (d) and (e).
+<b>1991</b>—Subsecs. (d), (e). Pub. L. 102–138 added subsecs. (d) and (e).
 
 #### Delegation of Functions
 

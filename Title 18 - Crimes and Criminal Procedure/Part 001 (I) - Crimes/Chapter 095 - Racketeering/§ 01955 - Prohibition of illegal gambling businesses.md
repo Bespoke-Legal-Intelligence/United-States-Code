@@ -1,6 +1,6 @@
 ### §1955. Prohibition of illegal gambling businesses
 
-(a) Whoever conducts, finances, manages, supervises, directs, or owns all or part of an illegalgambling business shall be fined under this title or imprisoned not more than five years, or both.
+(a) Whoever conducts, finances, manages, supervises, directs, or owns all or part of an illegal gambling business shall be fined under this title or imprisoned not more than five years, or both.
 
 (b) As used in this section—
 

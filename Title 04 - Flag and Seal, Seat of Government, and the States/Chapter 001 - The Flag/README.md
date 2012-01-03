@@ -17,7 +17,7 @@
 
 #### Amendments
 
-1998—Pub. L. 105–225, §2(b), Aug. 12, 1998, 112 Stat. 1498, added items 4 to 10.
+<b>1998</b>—Pub. L. 105–225, §2(b), Aug. 12, 1998, 112 Stat. 1498, added items 4 to 10.
 
 
 ---

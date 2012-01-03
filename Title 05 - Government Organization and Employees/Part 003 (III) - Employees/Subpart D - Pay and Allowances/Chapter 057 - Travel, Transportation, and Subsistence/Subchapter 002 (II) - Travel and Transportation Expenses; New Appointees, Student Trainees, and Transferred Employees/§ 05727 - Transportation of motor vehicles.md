@@ -2,7 +2,7 @@
 
 (a) Except as specifically authorized by statute, an authorization in a statute or regulation to transport the effects of an employee or other individual at Government expense is not an authorization to transport an automobile.
 
-(b) Under regulations prescribed under section 5738 of this title, the privately owned motor vehicle of an employee, including a new appointee and a student trainee to the extent authorized by sections 5722 and 5723 of this title, may be transported at Government expense to, from, and between the continental United States and a post of duty outside the continental United States, or between posts of duty outside the continental United States, when—
+(b) Under regulations prescribed under section 5738 of this title, the privately owned motor vehicle of an employee, including a new appointeeand a student trainee to the extent authorized by sections 5722 and 5723 of this title, may be transported at Government expense to, from, and between the continental United States and a post of duty outside the continental United States, or between posts of duty outside the continental United States, when—
 
 &emsp;(1) the employee is assigned to the post of duty for other than temporary duty; and
 
@@ -66,9 +66,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1998—Subsec. (d). Pub. L. 105–264 substituted “continental United States” for “United States”.
+<b>1998</b>—Subsec. (d). Pub. L. 105–264 substituted “continental United States” for “United States”.
 
-1996—Subsec. (b). Pub. L. 104–201, §1723(b)(1), in introductory provisions, substituted “Under regulations prescribed under section 5738 of this title” for “Under such regulations as the President may prescribe”.
+<b>1996</b>—Subsec. (b). Pub. L. 104–201, §1723(b)(1), in introductory provisions, substituted “Under regulations prescribed under section 5738 of this title” for “Under such regulations as the President may prescribe”.
 
 Subsec. (c). Pub. L. 104–201, §1715(a)(2), added subsec. (c). Former subsec. (c) redesignated (d).
 
@@ -80,7 +80,7 @@ Pub. L. 104–201, §1715(a)(1), redesignated subsec. (d) as (e). Former subsec.
 
 Subsec. (f). Pub. L. 104–201, §1715(a)(1), redesignated subsec. (e) as (f).
 
-1980—Subsec. (e)(2). Pub. L. 96–465 substituted “section 403e(4) of title 50” for “(A) section 1138 of title 22; or” and struck out “(B) section 403e(4) of title 50”.
+<b>1980</b>—Subsec. (e)(2). Pub. L. 96–465 substituted “section 403e(4) of title 50” for “(A) section 1138 of title 22; or” and struck out “(B) section 403e(4) of title 50”.
 
 #### Effective Date of 1996 Amendment
 

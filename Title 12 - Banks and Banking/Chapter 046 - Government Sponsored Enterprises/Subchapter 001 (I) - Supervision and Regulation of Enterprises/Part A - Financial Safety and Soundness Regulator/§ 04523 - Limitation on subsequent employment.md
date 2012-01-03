@@ -6,5 +6,5 @@ Neither the Director nor any former officer or employee of the Agency who, while
 
 #### Amendments
 
-2008—Pub. L. 110–289 substituted “the Agency” for “the Office” wherever appearing.
+<b>2008</b>—Pub. L. 110–289 substituted “the Agency” for “the Office” wherever appearing.
 

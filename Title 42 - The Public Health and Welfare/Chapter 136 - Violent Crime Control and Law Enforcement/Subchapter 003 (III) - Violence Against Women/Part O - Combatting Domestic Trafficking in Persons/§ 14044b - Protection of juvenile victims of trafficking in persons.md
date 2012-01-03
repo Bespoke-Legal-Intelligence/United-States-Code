@@ -8,7 +8,7 @@ Not later than 180 days after January 10, 2006, the Secretary of Health and Huma
 
 The purposes of the pilot program established pursuant to subsection (a) of this section are to—
 
-&emsp;(1) provide benefits and services to juveniles subjected to trafficking, including shelter,psychological counseling, and assistance in developing independent living skills;
+&emsp;(1) provide benefits and services to juveniles subjected to trafficking, including shelter, psychological counseling, and assistance in developing independent living skills;
 
 &emsp;(2) assess the benefits of providing residential treatment facilities for juveniles subjected to trafficking, as well as the most efficient and cost-effective means of providing such facilities; and
 

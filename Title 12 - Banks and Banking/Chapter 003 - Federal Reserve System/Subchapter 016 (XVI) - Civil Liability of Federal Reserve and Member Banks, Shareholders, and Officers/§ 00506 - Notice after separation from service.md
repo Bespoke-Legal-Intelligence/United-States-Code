@@ -6,5 +6,5 @@ The resignation, termination of employment or participation, or separation of an
 
 #### References in Text
 
-This section, referred to in text, means section 19 of act Dec. 23, 1913, as amended, which is classified to sections 142, 371a, 371b, 371b–1, 374, 374a, 461, 463 to 466, 505, and 506 of this title.
+This section, referred to in text, means section 19 of act Dec. 23, 1913, which is classified to sections 142, 371b, 371b–1, 374, 374a, 461, 463 to 466, 505, and 506 of this title.
 

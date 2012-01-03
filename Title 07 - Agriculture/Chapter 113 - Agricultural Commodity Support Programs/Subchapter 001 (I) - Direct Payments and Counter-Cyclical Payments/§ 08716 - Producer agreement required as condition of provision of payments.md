@@ -88,5 +88,5 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 #### Amendments
 
-2008—Subsec. (f). Pub. L. 110–398 added subsec. (f).
+<b>2008</b>—Subsec. (f). Pub. L. 110–398 added subsec. (f).
 

@@ -20,7 +20,7 @@ Section 1959h, Pub. L. 92–60, §10, July 29, 1971, 85 Stat. 162; Pub. L. 95–
 
 #### Short Title
 
-Pub. L. 92–60, §1, July 29, 1971, 85 Stat. 159, which provided that Pub. L. 92–60, which enacted sections 1959 to1959h of this title and repealed sections 1951 to 1958 of this title may be cited as “The Saline Water Conversion Act of 1971” was repealed by Pub. L. 95–467, title IV, §410(a), Oct. 17, 1978, 92 Stat. 1316.
+Pub. L. 92–60, §1, July 29, 1971, 85 Stat. 159, which provided that Pub. L. 92–60, which enacted sections 1959 to 1959h of this title and repealed sections 1951 to 1958 of this title may be cited as “The Saline Water Conversion Act of 1971” was repealed by Pub. L. 95–467, title IV, §410(a), Oct. 17, 1978, 92 Stat. 1316.
 
 #### Annual Authorization of Appropriations
 

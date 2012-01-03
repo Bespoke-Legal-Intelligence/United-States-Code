@@ -28,7 +28,7 @@ Action of Secretary of the Interior taken pursuant to authority contained in sec
 
 #### Wapato Indian Irrigation Project
 
-In accordance with sections 389 to 389e of this title, order of Secretary of the Interior dated Sept. 12, 1962, canceling $4,494.58 of delinquent irrigation charges, providing for the deferred payment of $10,356.03, and providing for the removal of 78.12 acres of assessable land from the Wapato Indian irrigation project, was approved by Pub. L. 88–159, Oct. 28, 1963, 77 Stat. 278.
+In accordance with sections 389 to 389e of this title, order of Secretary of the Interior dated Sept. 12, 1962, canceling $4,494.58 of delinquent irrigation charges, providing for the deferred payment of $10,356.03, and providing for the removal of 78.12 acres of assessable landfrom the Wapato Indian irrigation project, was approved by Pub. L. 88–159, Oct. 28, 1963, 77 Stat. 278.
 
 In accordance with sections 389 to 389e of this title, order of Secretary of the Interior canceling $35,700.72 of delinquent irrigation charges, providing for the deferred payment of $13,851.98, and providing for the removal of two hundred thirty-two and fifty-six one hundredths acres of assessable land from the Wapato Indian irrigation project, was approved by Pub. L. 86–281, Sept. 16, 1959, 73 Stat. 564.
 

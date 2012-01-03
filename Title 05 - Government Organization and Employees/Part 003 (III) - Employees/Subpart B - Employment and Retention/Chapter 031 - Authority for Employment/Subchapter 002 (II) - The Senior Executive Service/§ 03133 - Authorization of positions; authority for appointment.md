@@ -64,7 +64,7 @@ Section 413 of Pub. L. 95–454 provided that:
 
 > The appointment of an employee in an agency because of an election under subparagraph (A) of this paragraph shall not result in the separation or reduction in grade of any other employee in such agency.
 
-“(2) Any employee in a position which has been designated a Senior Executive Service position under thissection shall be notified in writing of such designation, the election required under paragraph (1) of this subsection, and the provisions of subsections (d), (e), (f), (g), and (h) of this section. The employee shall be given 90 days from the date of such notification to make the election under paragraph (1) of this subsection.
+“(2) Any employee in a position which has been designated a Senior Executive Service position under this section shall be notified in writing of such designation, the election required under paragraph (1) of this subsection, and the provisions of subsections (d), (e), (f), (g), and (h) of this section. The employee shall be given 90 days from the date of such notification to make the election under paragraph (1) of this subsection.
 
 “(d) Each employee who has elected to accept conversion to a Senior Executive Service position under subsection (c)(1)(B) of this section and who is serving under—
 
@@ -74,7 +74,7 @@ Section 413 of Pub. L. 95–454 provided that:
 
 > in a position which is designated as a Senior Executive Service position shall be appointed as a career appointee to such Senior Executive Service position without regard to section 3393(b)–(e) of title 5, United States Code (as added by this title).
 
-“(e) Each employee who has elected conversion to a Senior Executive Service position under subsection (c)(1)(B) of this section and who is serving under an excepted appointment in a position which is not designated a career reserved position in the Senior Executive Service, but is—
+“(e) Each employee who has elected conversion to a Senior Executive Service position under subsection\(c)(1)(B) of this section and who is serving under an excepted appointment in a position which is not designated a career reserved position in the Senior Executive Service, but is—
 
 &emsp;“(1) a position in Schedule C of subpart C of part 213 of title 5, Code of Federal Regulations;
 

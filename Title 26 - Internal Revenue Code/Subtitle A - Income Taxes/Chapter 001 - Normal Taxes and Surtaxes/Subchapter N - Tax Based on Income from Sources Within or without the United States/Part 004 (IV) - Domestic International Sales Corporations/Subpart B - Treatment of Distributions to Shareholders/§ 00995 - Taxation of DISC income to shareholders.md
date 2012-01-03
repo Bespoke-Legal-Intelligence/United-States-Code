@@ -14,7 +14,7 @@ A shareholder of a DISC or former DISC shall be subject to taxation on the earni
 
 &emsp;&emsp;(B) the gain recognized by the DISC during the taxable year on the sale or exchange of property, other than property which in the hands of the DISC is a qualified export asset, previously transferred to it in a transaction in which gain was not recognized in whole or in part, but only to the extent that the transferor's gain on the previous transfer was not recognized,
 
-&emsp;&emsp;(C) the gain (other than the gain described in subparagraph (B)) recognized by the DISC during the taxable year on the sale or exchange of property (other than propertywhich in the hands of the DISC is stock in trade or other property described in section 1221(a)(1)) previously transferred to it in a transaction in which gain was not recognized in whole or in part, but only to the extent that the transferor's gain on the previous transfer was not recognized and would have been treated as ordinary income if the property has been sold or exchanged rather than transferred to the DISC,
+&emsp;&emsp;(C) the gain (other than the gain described in subparagraph (B)) recognized by the DISC during the taxable year on the sale or exchange of property (other than property which in the hands of the DISC is stock in trade or other property described in section 1221(a)(1)) previously transferred to it in a transaction in which gain was not recognized in whole or in part, but only to the extent that the transferor's gain on the previous transfer was not recognized and would have been treated as ordinary income if the property has been sold or exchanged rather than transferred to the DISC,
 
 &emsp;&emsp;(D) 50 percent of the taxable income of the DISC for the taxable year attributable to military property,
 
@@ -60,7 +60,7 @@ A shareholder of a DISC or former DISC shall be subject to taxation on the earni
 
 #### (B) Allocation
 
-&emsp;&emsp;The dollar amount under paragraph (1)(E) shall be allocated among the DISC's which are members of the same controlled group in a manner provided in regulations prescribed by the Secretary.
+&emsp;&emsp;The dollar amount under paragraph (1)(E) shall be allocated among the DISC's whichare members of the same controlled group in a manner provided in regulations prescribed by the Secretary.
 
 #### (c) Gain on disposition of stock in a DISC
 
@@ -218,7 +218,7 @@ If—
 
 #### (4) Base period T-bill rate
 
-&emsp;For purposes of this subsection, the term “base period T-bill rate” means the annual rate of interest determined by the Secretary to be equivalent to the average of the 1-year constant maturity Treasury yields, as published by the Board of Governors of the Federal Reserve System, for the 1-year period ending on September 30 of the calendar year ending with (or of the most recent calendar year ending before) the close of the taxable year of the shareholder.
+&emsp;For purposes of this subsection, the term “base period T-bill rate” means the annual rate of interest determined by the Secretary to be equivalent to the average of the 1-year constant maturity Treasury yields, as published by the Board of Governors of the Federal Reserve System, for the 1-year period ending on September 30 of the calendar year ending with (or of the most recent calendar yearending before) the close of the taxable year of the shareholder.
 
 #### (5) Short years
 
@@ -244,7 +244,7 @@ If any organization described in subsection (a)(2) or (b)(2) of section 511 (or 
 
 > shall be treated as derived from the conduct of an unrelated trade or business (and the modifications of section 512(b) shall not apply). The rules of the preceding sentence shall apply also for purposes of determining any such shareholder's DISC-related deferred tax liability under subsection (f).
 
-(Added Pub. L. 92–178, title V, §501, Dec. 10, 1971, 85 Stat. 544; amended Pub. L. 94–455, title X,§§1063, 1065(a)(2), title XI, §1101(a), (d)(1), title XIX, §§1901(b)(3)(K), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1650, 1654, 1655, 1658, 1793, 1834; Pub. L. 95–600, title VII, §§701(u)(12)(B), 703(i)(1), (2), Nov. 6, 1978, 92 Stat. 2918, 2940; Pub. L. 98–369, div. A, title I, §68(d), title VIII, §802(a), (b), July 18, 1984, 98 Stat. 588, 997, 999; Pub. L. 99–514, title XVIII, §1876(b)(2), (g), (p)(1), Oct. 22, 1986, 100 Stat. 2898, 2900, 2902; Pub. L. 100–647, title I, §§1006(e)(15), 1012(bb)(6)(A), Nov. 10, 1988, 102 Stat. 3402, 3535; Pub. L. 101–239, title VII, §7811(i)(12), Dec. 19, 1989, 103 Stat. 2411; Pub. L. 106–170, title V, §532(c)(2)(R), Dec. 17, 1999, 113 Stat. 1931; Pub. L. 106–554, §1(a)(7) \[title III, §§307(c), 319(12)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–636, 2763A–646; Pub. L. 107–147, title IV, §417(15), Mar. 9, 2002, 116 Stat. 56.)
+(Added Pub. L. 92–178, title V, §501, Dec. 10, 1971, 85 Stat. 544; amended Pub. L. 94–455, title X, §§1063, 1065(a)(2), title XI, §1101(a), (d)(1), title XIX, §§1901(b)(3)(K), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1650, 1654, 1655, 1658, 1793, 1834; Pub. L. 95–600, title VII, §§701(u)(12)(B), 703(i)(1), (2), Nov. 6, 1978, 92 Stat. 2918, 2940; Pub. L. 98–369, div. A, title I, §68(d), title VIII, §802(a), (b), July 18, 1984, 98 Stat. 588, 997, 999; Pub. L. 99–514, title XVIII, §1876(b)(2), (g), (p)(1), Oct. 22, 1986, 100 Stat. 2898, 2900, 2902; Pub. L. 100–647, title I, §§1006(e)(15), 1012(bb)(6)(A), Nov. 10, 1988, 102 Stat. 3402, 3535; Pub. L. 101–239, title VII, §7811(i)(12), Dec. 19, 1989, 103 Stat. 2411; Pub. L. 106–170, title V, §532(c)(2)(R), Dec. 17, 1999, 113 Stat. 1931; Pub. L. 106–554, §1(a)(7) \[title III, §§307(c), 319(12)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–636, 2763A–646; Pub. L. 107–147, title IV, §417(15), Mar. 9, 2002, 116 Stat. 56.)
 
 #### Amendments
 
@@ -294,7 +294,7 @@ Subsec. (c)(1). Pub. L. 95–600, §701(u)(12)(B), inserted provision relating t
 
 Subsec. (b)(1)(D), (E). Pub. L. 94–455, §1101(a)(1), added subpars. (D) and (E) and redesignated former subpars. (D) and (E) as (F) and (G), respectively.
 
-Subsec. (b)(1)(F). Pub. L. 94–455, §§1063(a), 1065(a)(2), 1101(a)(1), redesignated former subpar. (D) as (F), made existing provision cl. (i), added cls. (ii) and (iii), and substituted “(C), (D), and (E)” for “(C)” after “(B), and”.
+Subsec. (b)(1)(F). Pub. L. 94–455, §§1063(a), 1065(a)(2), 1101(a)(1), redesignated former subpar. (D) as (F), madeexisting provision cl. (i), added cls. (ii) and (iii), and substituted “(C), (D), and (E)” for “(C)” after “(B), and”.
 
 Subsec. (b)(1)(G). Pub. L. 94–455, §1101(a)(1), redesignated former subpar. (E) as (G).
 

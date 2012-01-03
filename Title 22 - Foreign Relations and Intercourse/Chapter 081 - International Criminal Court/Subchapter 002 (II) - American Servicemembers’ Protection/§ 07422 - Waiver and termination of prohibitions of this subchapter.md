@@ -28,7 +28,7 @@ The President is authorized to waive the prohibitions and requirements of sectio
 
 &emsp;&emsp;(A) remains party to, and has continued to abide by, a binding agreement that—
 
-&emsp;&emsp;&emsp;(i) prohibits the International Criminal Court from seeking to exercise jurisdiction over the following persons with respect to actions undertaken by them in an official capacity:
+&emsp;&emsp;&emsp;(i) prohibits the International Criminal Court from seeking to exercise jurisdictionover the following persons with respect to actions undertaken by them in an official capacity:
 
 &emsp;&emsp;&emsp;&emsp;(I) covered United States persons;
 

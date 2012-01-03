@@ -4,7 +4,7 @@ In exercising its powers, functions, and duties under this chapter, the Council 
 
 &emsp;(1) consult with the Citizens’ Advisory Committee on Environmental Quality established by Executive Order numbered 11472, dated May 29, 1969, and with such representatives of science, industry, agriculture, labor, conservation organizations, State and local governments and other groups, as it deems advisable; and
 
-&emsp;(2) utilize, to the fullest extent possible, the services, facilities, and information (including statistical information) of public and private agencies and organizations, and individuals, in order that duplication of effort and expense may be avoided, thus assuring that the Council's activities will not unnecessarily overlap or conflict with similar activities authorized by law and performed by established agencies.
+&emsp;(2) utilize, to the fullest extent possible, the services, facilities, and information (includingstatistical information) of public and private agencies and organizations, and individuals, in order that duplication of effort and expense may be avoided, thus assuring that the Council's activities will not unnecessarily overlap or conflict with similar activities authorized by law and performed by established agencies.
 
 (Pub. L. 91–190, title II, §205, Jan. 1, 1970, 83 Stat. 855.)
 

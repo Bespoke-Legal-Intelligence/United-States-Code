@@ -32,13 +32,13 @@ Not later than sixty days after the issuance of a report under subsection (a) of
 
 #### (e) Disposition of funds collected pursuant to claims
 
-Funds collected from claims against households or State agencies, including claims collected pursuant to sections <sup>1</sup> 2016(f) <sup>2</sup> of this title, subsections (g) and (h) of section 2020 of this title, subsections (b) and (c) of section 2022 of this title, and section 2025(c)(1) of this title, claims resulting from resolution of audit findings, and claims collected from households receiving overissuances, shall be credited to the supplemental nutrition assistance program appropriation account for the fiscal year in which the collection occurs. Funds provided to State agencies under section 2025(c) of this title shall be paid from the appropriation account for the fiscal year in which the funds are provided.
+Funds collected from claims against households or State agencies, including claims collected pursuant to sections <sup>1</sup> 2016(f) <sup>2</sup> of this title, subsections (g) and (h) of section 2020 of this title, subsections (b) and (c) of section 2022 of this title, and section 2025(c)(1) of this title, claims resulting from resolution of audit findings, and claims collected from households receiving overissuances, shall be credited to the supplemental nutrition assistance program appropriation account for the fiscal year in which the collection occurs. Funds provided to State agencies under section 2025(c) of this title shallbe paid from the appropriation account for the fiscal year in which the funds are provided.
 
 #### (f) Transfer of funds
 
 No funds appropriated to carry out this chapter may be transferred to the Office of the Inspector General, or the Office of the General Counsel, of the Department of Agriculture.
 
-(Pub. L. 88–525, §18, as added Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 979; amended Pub. L. 96–58, §1, Aug. 14, 1979, 93 Stat. 389; Pub. L. 96–249, title I, §134, title II, §201, May 26, 1980, 94 Stat. 368, 370; Pub. L. 97–18, §1, June 30, 1981, 95 Stat. 102; Pub. L. 97–98, title XIII, §§1331, 1332, Dec. 22, 1981, 95 Stat. 1291; Pub. L. 97–253, title I, §§180(b)(2), 183, Sept. 8, 1982, 96 Stat. 784, 785; Pub. L. 99–198, title XV, §§1535(c)(2), 1541, 1542(a), Dec. 23, 1985, 99 Stat. 1585, 1589; Pub. L. 101–624, title XVII, §§1760, 1761, Nov. 28, 1990, 104 Stat. 3803, 3804; Pub. L. 104–127, title IV, §401(e), Apr. 4, 1996, 110 Stat. 1026; Pub. L. 104–193, title VIII, §853, Aug. 22, 1996, 110 Stat. 2339; Pub. L. 105–362, title I, §101(b), Nov. 10, 1998, 112 Stat. 3281; Pub.L. 107–171, title IV, §§4118(c), 4122(c), May 13, 2002, 116 Stat. 321, 324; Pub. L. 110–234, title IV, §§4001(b), 4002(a)(10), 4406(a)(1), title VII, §7101(b)(3), May 22, 2008, 122 Stat. 1092, 1095, 1140, 1213; Pub. L. 110–246, §4(a), title IV, §§4001(b), 4002(a)(10), 4406(a)(1), title VII, §7101(b)(3), June 18, 2008, 122 Stat. 1664, 1853, 1856, 1902, 1974.)
+(Pub. L. 88–525, §18, as added Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 979; amended Pub. L. 96–58, §1, Aug. 14, 1979, 93 Stat. 389; Pub. L. 96–249, title I, §134, title II, §201, May 26, 1980, 94 Stat. 368, 370; Pub. L. 97–18, §1, June 30, 1981, 95 Stat. 102; Pub. L. 97–98, title XIII, §§1331, 1332, Dec. 22, 1981, 95 Stat. 1291; Pub. L. 97–253, title I, §§180(b)(2), 183, Sept. 8, 1982, 96 Stat. 784, 785; Pub. L. 99–198, title XV, §§1535(c)(2), 1541, 1542(a), Dec. 23, 1985, 99 Stat. 1585, 1589; Pub. L. 101–624, title XVII, §§1760, 1761, Nov. 28, 1990, 104 Stat. 3803, 3804; Pub. L. 104–127, title IV, §401(e), Apr. 4, 1996, 110 Stat. 1026; Pub. L. 104–193, title VIII, §853, Aug. 22, 1996, 110 Stat. 2339; Pub. L. 105–362, title I, §101(b), Nov. 10, 1998, 112 Stat. 3281; Pub. L. 107–171, title IV, §§4118(c), 4122(c), May 13, 2002, 116 Stat. 321, 324; Pub. L. 110–234, title IV, §§4001(b), 4002(a)(10), 4406(a)(1), title VII, §7101(b)(3), May 22, 2008, 122 Stat. 1092, 1095, 1140, 1213; Pub. L. 110–246, §4(a), title IV, §§4001(b), 4002(a)(10), 4406(a)(1), title VII, §7101(b)(3), June 18, 2008, 122 Stat. 1664, 1853, 1856, 1902, 1974.)
 
 #### References in Text
 
@@ -50,7 +50,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (a)(1). Pub. L. 110–246, §4406(a)(1), substituted “for each of fiscal years 2008 through 2012” for “for each of the fiscal years 2003 through 2007”.
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–246, §4406(a)(1), substituted “for each of fiscal years 2008 through 2012” for “for each of the fiscal years 2003 through 2007”.
 
 Subsec. (a)(3)(A)(ii). Pub. L. 110–246, §4002(a)(10), substituted “supplemental nutrition assistance program benefits” for “food stamps”.
 
@@ -60,17 +60,17 @@ Subsec. (a)(3)(D). Pub. L. 110–246, §4001(b), substituted “supplemental nut
 
 Subsecs. (b), (d), (e). Pub. L. 110–246, §4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
 
-2002—Subsec. (a)(1). Pub. L. 107–171, §4122(c), substituted “2003 through 2007” for “1996 through 2002”.
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–171, §4122(c), substituted “2003 through 2007” for “1996 through 2002”.
 
 Subsec. (e). Pub. L. 107–171, §4118(c), substituted “subsections (g) and (h) of section 2020 of this title,” for “2020(g) and (h), and” and inserted “and section 2025(c)(1) of this title,” after “section 2022 of this title,”.
 
-1998—Subsec. (a)(1). Pub. L. 105–362 struck out at end “The Secretary shall, by the fifteenth day of each month, submit a report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate setting forth the Secretary's best estimate of the second preceding month's expenditure, including administrative costs, as well as the cumulative totals for the fiscal year. In each monthly report, the Secretary shall also state whether there is reason to believe that supplemental appropriations will be needed to support the operation of the program through the end of the fiscal year.”
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–362 struck out at end “The Secretary shall, by the fifteenth day of each month, submit a report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate setting forth the Secretary's best estimate of the second preceding month's expenditure, including administrative costs, as well as the cumulative totals for the fiscal year. In each monthly report, the Secretary shall also state whether there is reason to believe that supplemental appropriations will be needed to support the operation of the program through the end of the fiscal year.”
 
-1996—Subsec. (a)(1). Pub. L. 104–193 substituted “1996 through 2002” for “1991 through 1997” in first sentence.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–193 substituted “1996 through 2002” for “1991 through 1997” in first sentence.
 
 Pub. L. 104–127 substituted “1991 through 1997” for “1991 through 1995” in first sentence.
 
-1990—Subsec. (a)(1). Pub. L. 101–624, §§1760(1)(A), 1761(1), substituted “To carry out this chapter, there are authorized to be appropriated such sums as are necessary for each of the fiscal years 1991 through 1995.” for former first two sentences which related to authorizations of appropriation for fiscal years ending September 30, 1978 through September 30, 1990, and inserted “, subject to paragraph (3)”.
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–624, §§1760(1)(A), 1761(1), substituted “To carry out this chapter, there are authorized to be appropriated such sums as are necessary for each of the fiscal years 1991 through 1995.” for former first two sentences which related to authorizations of appropriation for fiscal years ending September 30, 1978 through September 30, 1990, and inserted “, subject to paragraph (3)”.
 
 Pub. L. 101–624, §1760(1)(B), substituted “supplemental appropriations will be needed to support the operation of the program through the end of the fiscal year” for “reductions in the value of allotments issued to households certified to participate in the food stamp program will be necessary under subsection (b) of this section”.
 
@@ -78,7 +78,7 @@ Subsec. (a)(3). Pub. L. 101–624, §1761(2), added par. (3).
 
 Subsec. (b). Pub. L. 101–624, §1760(2), struck out “amount authorized in subsection (a)(1) of this section” after “exceed the appropriation”.
 
-1985—Subsec. (a)(1). Pub. L. 99–198, §1541(1), inserted provisions authorizing appropriations for fiscal years ending Sept. 30, 1986, 1987, 1988, 1989, and 1990.
+<b>1985</b>—Subsec. (a)(1). Pub. L. 99–198, §1541(1), inserted provisions authorizing appropriations for fiscal years ending Sept. 30, 1986, 1987, 1988, 1989, and 1990.
 
 Subsec. (b). Pub. L. 99–198, §1541(2), substituted “the appropriation amount authorized in subsection (a)(1) of this section,” for “the limitation set herein,”.
 
@@ -86,19 +86,19 @@ Subsec. (e). Pub. L. 99–198, §1535(c)(2), substituted reference to subsection
 
 Subsec. (f). Pub. L. 99–198, §1542(a), added subsec. (f).
 
-1982—Subsec. (a)(1). Pub. L. 97–253, §183, inserted provisions for appropriations for the fiscal years ending on September 30, 1983–1985, inclusive.
+<b>1982</b>—Subsec. (a)(1). Pub. L. 97–253, §183, inserted provisions for appropriations for the fiscal years ending on September 30, 1983–1985, inclusive.
 
 Subsec. (e). Pub. L. 97–253, §180(b)(2), struck out reference to section 2025(g) of this title in first sentence.
 
-1981—Subsec. (a)(1). Pub. L. 97–98, §1331, struck out “and” after “September 30, 1980;” and inserted “; and not in excess of $11,300,000,000 for the fiscal year ending September 30, 1982”.
+<b>1981</b>—Subsec. (a)(1). Pub. L. 97–98, §1331, struck out “and” after “September 30, 1980;” and inserted “; and not in excess of $11,300,000,000 for the fiscal year ending September 30, 1982”.
 
 Pub. L. 97–18 substituted “$11,480,000,000” for “$9,739,276,000” in appropriation authorization for the fiscal year ending Sept. 30, 1981.
 
 Subsec. (e). Pub. L. 97–98, §1332, added subsec. (e).
 
-1980—Subsec. (a). Pub. L. 96–249 designated existing provisions as par. (1) and substituted “$9,491,000,000” for “$6,188,600,000” and “$9,739,276,000” for “$6,235,900,000”, and added par. (2).
+<b>1980</b>—Subsec. (a). Pub. L. 96–249 designated existing provisions as par. (1) and substituted “$9,491,000,000” for “$6,188,600,000” and “$9,739,276,000” for “$6,235,900,000”, and added par. (2).
 
-1979—Subsec. (a). Pub. L. 96–58, §1(1), (2), substituted “$6,778,900,000” for “$6,158,900,000” in provisions authorizing appropriations for the fiscal year ending Sept. 30, 1979, struck out provisions directing that sums appropriated under this chapter would continue to remain available until expended, and inserted provisions requiring the Secretary to submit monthly reports to Senate and House Committees relating to monthly expenditures and stating whether or not there is reason to believe that reductions in the value of allotments issued to households certified to participate in the food stamp program will be necessary under subsec. (b) of this section.
+<b>1979</b>—Subsec. (a). Pub. L. 96–58, §1(1), (2), substituted “$6,778,900,000” for “$6,158,900,000” in provisions authorizing appropriations for the fiscal year ending Sept. 30, 1979, struck out provisions directing that sums appropriated under this chapter would continue to remain available until expended, and inserted provisions requiring the Secretary to submit monthly reports to Senate and House Committees relating to monthly expenditures and stating whether or not there is reason to believe that reductions in the value of allotments issued to households certified to participate in the food stamp program will be necessary under subsec. (b) of this section.
 
 Subsec. (b). Pub. L. 96–58, §1(3), substituted “Notwithstanding any other provision of this chapter, if” for “If” at beginning of second sentence.
 

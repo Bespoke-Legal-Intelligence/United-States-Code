@@ -6,7 +6,7 @@ The Secretary of Agriculture shall have access to the tobacco records of the Com
 
 #### Amendments
 
-1935—Act Aug. 27, 1935, reenacted section without change.
+<b>1935</b>—Act Aug. 27, 1935, reenacted section without change.
 
 #### Abolition of Offices and Transfer of Functions
 

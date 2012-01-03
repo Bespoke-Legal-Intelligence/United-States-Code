@@ -10,7 +10,7 @@ Section is from the Congressional Operations Appropriation Act, 1978, which is t
 
 #### Amendments
 
-1987—Pub. L. 100–202 amended section generally. Prior to amendment, section read as follows: “Notwithstanding any other provision of law, appropriated funds are available for payment to an individual of pay from more than one position, the pay for each of which is disbursed by the Secretary of the Senate out of an appropriation under the heading ‘Salaries, Officers and Employees’, if the aggregate gross pay from those positions does not exceed the amount specified in section 61–1(d)(2)(ii) of this title.”
+<b>1987</b>—Pub. L. 100–202 amended section generally. Prior to amendment, section read as follows: “Notwithstanding any other provision of law, appropriated funds are available for payment to an individual of pay from more than one position, the pay for each of which is disbursed by the Secretary of the Senate out of an appropriation under the heading ‘Salaries, Officers and Employees’, if the aggregate gross pay from those positions does not exceed the amount specified in section 61–1(d)(2)(ii) of this title.”
 
-1978—Pub. L. 95–240 substituted provisions relating to pay disbursed by Secretary of Senate from appropriation with the heading for salaries, etc., for provisions requiring positions to be in office of a Senator and the pay for each disbursed by Secretary of Senate.
+<b>1978</b>—Pub. L. 95–240 substituted provisions relating to pay disbursed by Secretary of Senate from appropriation with the heading for salaries, etc., for provisions requiring positions to be in office of a Senator and the pay for each disbursed by Secretary of Senate.
 

@@ -4,7 +4,7 @@
 
 (b) A fellowship awarded pursuant to regulations prescribed under subsection (a) shall be known as a “National Defense Science and Engineering Graduate Fellowship”.
 
-(c) National Defense Science and Engineering Graduate Fellowships shall be awarded solely on the basis of academic ability. The Secretary shall take all appropriate actions to encourage applications for such fellowships of persons who are members of groups (including minority groups, women, and disabled persons) which historically have been underrepresented in science and technology fields. Recipients shall be selected on the basis of a nationwide competition.The award of a fellowship under this section may not be predicated on the geographic region in which the recipient lives or the geographic region in which the recipient will pursue an advanced degree.
+(c) National Defense Science and Engineering Graduate Fellowships shall be awarded solely on the basis of academic ability. The Secretary shall take all appropriate actions to encourage applications for such fellowships of persons who are members of groups (including minority groups, women, and disabled persons) which historically have been underrepresented in science and technology fields. Recipients shall be selected on the basis of a nationwide competition. The award of a fellowship under this section may not be predicated on the geographic region in which the recipient lives or the geographic region in which the recipient will pursue an advanced degree.
 
 (d) The regulations prescribed under this section shall include—
 

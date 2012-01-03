@@ -22,7 +22,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Extension of time: The House amendment adopts section 108(c)(1) of the Senate amendment which expressly includes any special suspensions of statutes of limitation periods on collection outside bankruptcy when assets are under the authority of a court. For example, section 6503(b) of the Internal Revenue Code \[title 26\] suspends collection of tax liabilities while the debtor's assets are in the control or custody of a court, and for 6 months thereafter. By adopting the language of the Senate amendment, the House amendment insures not only that the period for collection of the taxes outside bankruptcy will not expire during the title 11 proceedings, but also that such period will not expire until at least 6 months thereafter, which is the minimum suspension period provided by the Internal Revenue Code \[title 26\].
 
@@ -32,19 +32,19 @@ Subsections (a) and (b), derived from Bankruptcy Act section 11 \[section 29 of 
 
 Subsection (c) extends the statute of limitations for creditors. Thus, if a creditor is stayed from commencing or continuing an action against the debtor because of the bankruptcy case, then the creditor is permitted an additional 30 days after notice of the event by which the stay is terminated, whether that event be relief from the automatic stay under proposed 11 U.S.C. 362 or 1301, the closing of the bankruptcy case (which terminates the stay), or the exception from discharge of the debts on which the creditor claims.
 
-In the case of Federal tax liabilities, the Internal Revenue Code \[title 26\] suspends the statute of limitations on a tax liability of a taxpayer from running while his assets are in the control or custody of a court and for 6 months thereafter (sec. 6503(b) of the Code \[title 26\]). The amendment applies this rule in a title 11 proceeding. Accordingly, the statute of limitations on collection of a nondischargeable Federal tax liability of a debtor will resume running after 6 months following the end of the period during which the debtor's assets are in the control or custody of the bankruptcy court. This rule will provide the Internal Revenue Service adequate time to collect nondischargeable taxes following the end of the title 11 proceedings.
+In the case of Federal tax liabilities, the Internal Revenue Code \[title 26\] suspends the statute of limitations on a tax liability of a taxpayer from running while his assets are in the control or custody of a court and for 6 months thereafter (sec. 6503(b) of the Code \[title 26\]). The amendment applies this rule in a title 11 proceeding. Accordingly, the statute of limitations oncollection of a nondischargeable Federal tax liability of a debtor will resume running after 6 months following the end of the period during which the debtor's assets are in the control or custody of the bankruptcy court. This rule will provide the Internal Revenue Service adequate time to collect nondischargeable taxes following the end of the title 11 proceedings.
 
 #### Amendments
 
-2005—Subsec. (c)(2). Pub. L. 109–8 substituted “922, 1201, or” for “922, or”.
+<b>2005</b>—Subsec. (c)(2). Pub. L. 109–8 substituted “922, 1201, or” for “922, or”.
 
-1986—Subsec. (b). Pub. L. 99–554, §257(b)(1), inserted reference to section 1201 of this title.
+<b>1986</b>—Subsec. (b). Pub. L. 99–554, §257(b)(1), inserted reference to section 1201 of this title.
 
 Subsec. (c). Pub. L. 99–554, §257(b)(2)(A), inserted reference to section 1201 of this title in provisions preceding par. (1).
 
 Subsec. (c)(2). Pub. L. 99–554, §257(b)(2)(B), which directed the amendment of subsec. (c) by inserting “1201,” after “722,” could not be executed because “722,” did not appear in text.
 
-1984—Subsec. (a). Pub. L. 98–353, §424(b), inserted “nonbankruptcy” after “applicable” and “entered in a” in provisions preceding par. (1).
+<b>1984</b>—Subsec. (a). Pub. L. 98–353, §424(b), inserted “nonbankruptcy” after “applicable” and “entered in a” in provisions preceding par. (1).
 
 Subsec. (a)(1). Pub. L. 98–353, §424(a), substituted “or” for “and” after the semicolon.
 

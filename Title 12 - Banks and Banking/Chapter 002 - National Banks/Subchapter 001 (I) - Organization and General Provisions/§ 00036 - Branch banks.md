@@ -90,11 +90,7 @@ A national bank resulting from an interstate merger transaction (as defined in s
 
 &emsp;Subject to paragraph (2), the Comptroller of the Currency may approve an application by a national bank to establish and operate a de novo branch in a State (other than the bank's home State) in which the bank does not maintain a branch if—
 
-&emsp;&emsp;(A) there is in effect in the host State a law that—
-
-&emsp;&emsp;&emsp;(i) applies equally to all banks; and
-
-&emsp;&emsp;&emsp;(ii) expressly permits all out-of-State banks to establish de novo branches in such State; and
+&emsp;&emsp;(A) the law of the State in which the branch is located, or is to be located, would permit establishment of the branch, if the national bank were a State bank chartered by such State; and
 
 &emsp;&emsp;(B) the conditions established in, or made applicable to this paragraph by, paragraph (2) are met.
 
@@ -120,7 +116,7 @@ A national bank resulting from an interstate merger transaction (as defined in s
 
 &emsp;&emsp;&emsp;(ii) does not become a branch of such bank as a result of—
 
-&emsp;&emsp;&emsp;&emsp;(I) the acquisition by the bank of an insured depository institution or a branch of an insured depository institution; or
+&emsp;&emsp;&emsp;&emsp;(I) the acquisition by the bank of an insured depository institution or abranch of an insured depository institution; or
 
 &emsp;&emsp;&emsp;&emsp;(II) the conversion, merger, or consolidation of any such institution or branch.
 
@@ -150,7 +146,7 @@ This section shall not be construed to amend or repeal section 25 of the Federal
 
 The words “State bank,” “State banks,” “bank,” or “banks,” as used in this section, shall be held to include trust companies, savings banks, or other such corporations or institutions carrying on the banking business under the authority of State laws.
 
-(R.S. §5155; Feb. 25, 1927, ch. 191, §7, 44 Stat. 1228; June 16, 1933, ch. 89, §23, 48 Stat. 189; Aug. 23, 1935, ch. 614, title III, §305, 49 Stat. 708; July 15, 1952, ch. 753, §2(b), 66 Stat. 633; Pub. L. 87–721, Sept. 28, 1962, 76 Stat. 667; Pub. L. 103–328, title I, §§102(b)(1), 103(a), Sept. 29, 1994, 108 Stat. 2349, 2352; Pub. L. 104–208, div. A, title II, §§2204, 2205(a), Sept. 30, 1996, 110 Stat. 3009–405; Pub. L. 105–24, §2(b), July 3, 1997, 111 Stat. 239.)
+(R.S. §5155; Feb. 25, 1927, ch. 191, §7, 44 Stat. 1228; June 16, 1933, ch. 89, §23, 48 Stat. 189; Aug. 23, 1935, ch. 614, title III, §305, 49 Stat. 708; July 15, 1952, ch. 753, §2(b), 66 Stat. 633; Pub. L. 87–721, Sept. 28, 1962, 76 Stat. 667; Pub. L. 103–328, title I, §§102(b)(1), 103(a), Sept. 29, 1994, 108 Stat. 2349, 2352; Pub. L. 104–208, div. A, title II, §§2204, 2205(a), Sept. 30, 1996, 110 Stat. 3009–405; Pub. L. 105–24, §2(b), July 3, 1997, 111 Stat. 239; Pub. L. 111–203, title VI, §613(a), July 21, 2010, 124 Stat. 1614.)
 
 #### References in Text
 
@@ -164,13 +160,19 @@ R.S. §5155 derived from act Mar. 3, 1865, ch. 78, §7, 13 Stat. 484.
 
 #### Amendments
 
-1997—Subsec. (f)(1)(C). Pub. L. 105–24 added subpar. (C).
+<b>2010</b>—Subsec. (g)(1)(A). Pub. L. 111–203 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “there is in effect in the host State a law that—
 
-1996—Subsec. (h). Pub. L. 104–208, §2204, struck out subsec. (h) which read as follows: “The aggregate capital of every national banking association and its branches shall at no time be less than the aggregate minimum capital required by law for the establishment of an equal number of national banking associations situated in the various places where such association and its branches are situated.”
+&emsp;“(i) applies equally to all banks; and
+
+&emsp;“(ii) expressly permits all out-of-State banks to establish de novo branches in such State; and”.
+
+<b>1997</b>—Subsec. (f)(1)(C). Pub. L. 105–24 added subpar. (C).
+
+<b>1996</b>—Subsec. (h). Pub. L. 104–208, §2204, struck out subsec. (h) which read as follows: “The aggregate capital of every national banking association and its branches shall at no time be less than the aggregate minimum capital required by law for the establishment of an equal number of national banking associations situated in the various places where such association and its branches are situated.”
 
 Subsec. (j). Pub. L. 104–208, §2205(a), inserted at end “The term ‘branch’, as used in this section, does not include an automated teller machine or a remote service unit.”
 
-1994—Subsecs. (d) to (f). Pub. L. 103–328, §102(b)(1)(B), added subsecs. (d) to (f). Former subsecs. (d) to (f) redesignated (h) to (j), respectively.
+<b>1994</b>—Subsecs. (d) to (f). Pub. L. 103–328, §102(b)(1)(B), added subsecs. (d) to (f). Former subsecs. (d) to (f) redesignated (h) to (j), respectively.
 
 Subsec. (g). Pub. L. 103–328, §103(a), added subsec. (g).
 
@@ -178,15 +180,19 @@ Pub. L. 103–328, §102(b)(1)(A), redesignated subsec. (g) as (k).
 
 Subsecs. (h) to (<i>l</i>). Pub. L. 103–328, §102(b)(1)(A), redesignated subsecs. (d) to (h) as (h) to (<i>l</i>), respectively.
 
-1962—Subsec. (b). Pub. L. 87–721 substituted provisions permitting a national bank resulting from the conversion of a State bank to retain and operate as a branch any office which was a branch of the State bank immediately prior to conversion if such office might be established as a new branch of the resulting national bank, and is approved by the Comptroller for continued operation as a branch of the resulting bank, or any office which was a branch of any bank on Feb. 25, 1927, or any office which is approved by the Comptroller for continued operation as a branch, and a national bank resulting from consolidation of a national bank under whose charter the consolidation is effected with another bank or banks to retain and operate any office which, immediately prior to consolidation, was in operation as a main office or branch office of any bank (other than the national bank) participating in the consolidation if it might be established as a new branch of the resulting bank, and if the Comptroller approves of its continued operation, or was in operation as a branch of any bank participating in the consolidation and which, on Feb. 25, 1927, was in operation as a branch of any bank, or was in operation as a branch of the national bank and which, on Feb. 25, 1927, was not in operation as a branch of any bank, if the Comptroller approves of its continued operation, for provisions which permitted State banks converted into or consolidated with national banking associations after Feb. 25, 1927, or two or more national banking associations which are consolidated, to retain and operate only those branches which may have been in lawful operation on Feb. 25, 1927, and inserted provisions prohibiting the Comptroller from granting approval under clauses (1)(C) and (2)(C) if a State bank resulting from the conversion or consolidation would be prohibited by law of the State from retaining and operating as a branch an identically situated office which was a branch of the national bank or State bank immediately prior to the conversion or consolidation.
+<b>1962</b>—Subsec. (b). Pub. L. 87–721 substituted provisions permitting a national bank resulting from the conversion of a State bank to retain and operate as a branch any office which was a branch of the State bank immediately prior to conversion if such office might be established as a new branch of the resulting national bank, and is approved by the Comptroller for continued operation as a branch of the resulting bank, or any office which was a branch of any bank on Feb. 25, 1927, or any office which is approved by the Comptroller for continued operation as a branch, and a national bank resulting from consolidation of a national bank under whose charter the consolidation is effected with another bank or banks to retain and operate any office which, immediately prior to consolidation, was in operation as a main office or branch office of any bank (other than the national bank) participating in the consolidation if it might be established as a new branch of the resulting bank, and if the Comptroller approves of its continued operation, or was in operation as a branch of any bank participating in the consolidation and which, on Feb. 25, 1927, was in operation as a branch of any bank, or was in operation as a branch of the national bank and which, on Feb. 25, 1927, was not in operation as a branch of any bank, if the Comptroller approves of its continued operation, for provisions which permitted State banks converted into or consolidated with national banking associations after Feb. 25, 1927, or two or more national banking associations which are consolidated, to retain and operate only those branches which may have been in lawful operation on Feb. 25, 1927, and inserted provisions prohibiting the Comptroller from granting approval under clauses (1)(C) and (2)(C) if a State bank resulting from the conversion or consolidation would be prohibited by law of the State from retaining and operating as a branch an identically situated office which was a branch of the national bank or State bank immediately prior to the conversion or consolidation.
 
-1952—Subsec. (c). Act July 15, 1952, struck out the minimum capital requirement for the establishment of branches by national banks.
+<b>1952</b>—Subsec. (c). Act July 15, 1952, struck out the minimum capital requirement for the establishment of branches by national banks.
 
-1935—Subsec. (c). Act Aug. 23, 1935, inserted second sentence and substituted “Except as provided in the immediately preceding sentence, no” for “No” in last sentence.
+<b>1935</b>—Subsec. (c). Act Aug. 23, 1935, inserted second sentence and substituted “Except as provided in the immediately preceding sentence, no” for “No” in last sentence.
 
-1933—Subsecs. (c), (d). Act June 16, 1963, amended subsecs. (c) and (d).
+<b>1933</b>—Subsecs. (c), (d). Act June 16, 1963, amended subsecs. (c) and (d).
 
-1927—Act Feb. 25, 1927, amended section generally.
+<b>1927</b>—Act Feb. 25, 1927, amended section generally.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of this title.
 
 #### Exception as to Transfer of Functions
 

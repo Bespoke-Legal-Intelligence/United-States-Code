@@ -70,5 +70,5 @@ Section was enacted as the Critical Infrastructures Protection Act of 2001 and a
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the National Infrastructure Simulation andAnalysis Center of the Department of Energy, including the functions of the Secretary of Energy relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 121(g)(4), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the National Infrastructure Simulation and Analysis Center of the Department of Energy, including the functions of the Secretary of Energy relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 121(g)(4), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

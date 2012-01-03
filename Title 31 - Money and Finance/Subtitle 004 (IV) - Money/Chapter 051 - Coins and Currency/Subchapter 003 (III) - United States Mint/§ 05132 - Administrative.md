@@ -16,7 +16,7 @@
 
 &emsp;(ii) legal tender, as provided in section 5103.
 
-(D) The Secretary shall obtain silver for coins minted under this paragraph by purchase from stockpiles established under the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98 et seq.). At such time as the silver stockpile is depleted, the Secretary shall obtain silver for such coins by purchase of silver mined from natural deposits in the United States or in a territory or possession of the United States not more than 1 year following the month in which the ore from which it is derived was mined. The Secretary shall pay not more than the average world price for such silver. The Secretary mayissue such regulations as may be necessary to carry out this subparagraph.
+(D) The Secretary shall obtain silver for coins minted under this paragraph by purchase from stockpiles established under the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98 et seq.). At such time as the silver stockpile is depleted, the Secretary shall obtain silver for such coins by purchase of silver mined from natural deposits in the United States or in a territory or possession of the United States not more than 1 year following the month in which the ore from which it is derived was mined. The Secretary shall pay not more than the average world price for such silver. The Secretary may issue such regulations as may be necessary to carry out this subparagraph.
 
 (3) Not more than $54,208,000 may be appropriated to the Secretary for the fiscal year ending on September 30, 1993, to pay costs of the mints. Not more than $965,000 of amounts appropriated pursuant to the preceding sentence shall remain available until expended for research and development.
 

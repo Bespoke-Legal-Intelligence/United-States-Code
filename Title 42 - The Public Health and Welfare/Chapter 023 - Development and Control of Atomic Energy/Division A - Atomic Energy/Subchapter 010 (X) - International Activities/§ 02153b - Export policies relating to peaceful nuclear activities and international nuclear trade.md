@@ -42,7 +42,7 @@ Section effective Mar. 10, 1978, except as otherwise provided and regardless of 
 
 #### Delegation of Functions
 
-Secretary of State responsible for performing functions vested in President under this section, see section2(a) of Ex. Ord. No. 12058, May 11, 1978, 43 F.R. 20947, set out under section 3201 of Title 22, Foreign Relations and Intercourse.
+Secretary of State responsible for performing functions vested in President under this section, see section 2(a) of Ex. Ord. No. 12058, May 11, 1978, 43 F.R. 20947, set out under section 3201 of Title 22, Foreign Relations and Intercourse.
 
 #### Performance of Functions Pending Development of Procedures
 

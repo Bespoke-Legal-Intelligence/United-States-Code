@@ -36,7 +36,7 @@ Except as provided in subsection (c) of this section, any one or more contributi
 
 #### (d) Alternate appropriate procedure
 
-The provisions of this subsection apply in the case of a withdrawal described in subsection (a) of this section, and the provisions of subsections (b) and (c) of this section shall not apply, if the corporation determines that the procedure provided for under this subsection is consistent with the purposes of this section and section 1364 of this title and is more appropriate in the particular case. Upon a showing by the plan administrator of the plan that the withdrawal from the plan by one or more contributing sponsors has resulted, or will result, in a significant reduction in the amount of aggregate contributions to or under the plan, the corporation may—
+The provisions of this subsection apply in the case of a withdrawal described in subsection (a)of this section, and the provisions of subsections (b) and (c) of this section shall not apply, if the corporation determines that the procedure provided for under this subsection is consistent with the purposes of this section and section 1364 of this title and is more appropriate in the particular case. Upon a showing by the plan administrator of the plan that the withdrawal from the plan by one or more contributing sponsors has resulted, or will result, in a significant reduction in the amount of aggregate contributions to or under the plan, the corporation may—
 
 &emsp;(1) require the plan fund to be equitably allocated between those participants no longer working in covered service under the plan as a result of the withdrawal, and those participants who remain in covered service under the plan;
 

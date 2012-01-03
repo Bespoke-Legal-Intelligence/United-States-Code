@@ -4,7 +4,7 @@ In this subpart:
 
 #### (1) Human consumption
 
-&emsp;The term “human consumption”, when used in the context of a reference to sugar (whether in the form of sugar, in-process sugar, syrup, molasses, or in some other form) for human consumption, includes sugar for use in human food, beverages, or similar products.
+&emsp;The term “human consumption”, when used in the context of a reference to sugar (whetherin the form of sugar, in-process sugar, syrup, molasses, or in some other form) for human consumption, includes sugar for use in human food, beverages, or similar products.
 
 #### (2) Mainland State
 
@@ -62,7 +62,7 @@ A prior section 359a of act Feb. 16, 1938, was renumbered section 359e and was c
 
 #### Amendments
 
-2008—Pub. L. 110–246, §1403(a), added pars. (1) and (3) and redesignated former pars. (1) to (4) as (2), (4), (5), and (6), respectively.
+<b>2008</b>—Pub. L. 110–246, §1403(a), added pars. (1) and (3) and redesignated former pars. (1) to (4) as (2), (4), (5), and (6), respectively.
 
 #### Effective Date of 2008 Amendment
 

@@ -32,7 +32,7 @@ Dissemination of results.—The research results of the program, expressed in te
 
 Program Administration.—In carrying out the program under this section, the National Research Council shall ensure, to the maximum extent practicable, that—
 
-&emsp;(1) projects and researchers are selected to conduct research for the program on the basisof merit and open solicitation of proposals and review by panels of appropriate experts;
+&emsp;(1) projects and researchers are selected to conduct research for the program on the basis of merit and open solicitation of proposals and review by panels of appropriate experts;
 
 &emsp;(2) State department of transportation officials and other stakeholders, as appropriate, are involved in the governance of the program at the overall program level and technical level through the use of expert panels and committees;
 
@@ -58,7 +58,7 @@ Components.—The report under paragraph (1) shall include with respect to the p
 
 &emsp;&emsp;(C) an estimate of costs of implementation of those results; and
 
-&emsp;&emsp;(D) recommendations on methods by which implementation of those results should be conducted, coordinated, and supported in future years, including a discussion of the administrative structure and organization best suited to carry out those recommendations.
+&emsp;&emsp;(D) recommendations on methods by which implementation of those results should beconducted, coordinated, and supported in future years, including a discussion of the administrative structure and organization best suited to carry out those recommendations.
 
 &emsp;(3)
 

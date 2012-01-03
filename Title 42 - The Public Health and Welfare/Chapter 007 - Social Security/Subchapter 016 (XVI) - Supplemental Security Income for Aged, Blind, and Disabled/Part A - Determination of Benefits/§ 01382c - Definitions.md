@@ -24,7 +24,7 @@
 
 (F) Notwithstanding the provisions of subparagraphs (A) through (E), an individual shall also be considered to be disabled for purposes of this subchapter if he is permanently and totally disabled as defined under a State plan approved under subchapter XIV or XVI of this chapter as in effect for October 1972 and received aid under such plan (on the basis of disability) for December 1973 (and for at least one month prior to July 1973), so long as he is continuously disabled as so defined.
 
-(G) In determining whether an individual's physical or mental impairment or impairments are of a sufficient medical severity that suchimpairment or impairments could be the basis of eligibility under this section, the Commissioner of Social Security shall consider the combined effect of all of the individual's impairments without regard to whether any such impairment, if considered separately, would be of such severity. If the Commissioner of Social Security does find a medically severe combination of impairments, the combined impact of the impairments shall be considered throughout the disability determination process.
+(G) In determining whether an individual's physical or mental impairment or impairments are of a sufficient medical severity that such impairment or impairments could be the basis of eligibility under this section, the Commissioner of Social Security shall consider the combined effect of all of the individual's impairments without regard to whether any such impairment, if considered separately, would be of such severity. If the Commissioner of Social Security does find a medically severe combination of impairments, the combined impact of the impairments shall be considered throughout the disability determination process.
 
 (H)(i) In making determinations with respect to disability under this subchapter, the provisions of sections 421(h), 421(k), and 423(d)(5) of this title shall apply in the same manner as they apply to determinations of disability under subchapter II of this chapter.
 
@@ -400,7 +400,7 @@ Section 301 of Pub. L. 92–603 provided that this section is effective Jan. 1, 
 
 #### Regulations
 
-For provisions requiring Secretary of Health and Human Services to prescribe regulations necessary to implement amendment to this section \[adding subsec.\(a)(5)\] by section 2(c) of Pub. L. 98–460 not later than 180 days after Oct. 9, 1984, see section 2(g) of Pub. L. 98–460, set out as a note under section 423 of this title.
+For provisions requiring Secretary of Health and Human Services to prescribe regulations necessary to implement amendment to this section \[adding subsec. (a)(5)\] by section 2(c) of Pub. L. 98–460 not later than 180 days after Oct. 9, 1984, see section 2(g) of Pub. L. 98–460, set out as a note under section 423 of this title.
 
 #### Retroactive Benefits
 

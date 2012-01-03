@@ -34,7 +34,7 @@ All laborers and mechanics employed by contractors and subcontractors (excluding
 
 #### (h) Application of other laws
 
-Unless otherwise agreed to by the Indian tribe, no provision of division B (except sections 1123,2303, 2304, and 2313) of subtitle I of title 41, the Federal Acquisition Regulations issued pursuant thereto, or any other law or regulation pertaining to Federal procurement (including Executive orders) shall apply to any construction project conducted under this part.
+Unless otherwise agreed to by the Indian tribe, no provision of division B (except sections 1123, 2303, 2304, and 2313) of subtitle I of title 41, the Federal Acquisition Regulations issued pursuant thereto, or any other law or regulation pertaining to Federal procurement (including Executive orders) shall apply to any construction project conducted under this part.
 
 (Pub. L. 93–638, title V, §509, as added Pub. L. 106–260, §4, Aug. 18, 2000, 114 Stat. 724.)
 

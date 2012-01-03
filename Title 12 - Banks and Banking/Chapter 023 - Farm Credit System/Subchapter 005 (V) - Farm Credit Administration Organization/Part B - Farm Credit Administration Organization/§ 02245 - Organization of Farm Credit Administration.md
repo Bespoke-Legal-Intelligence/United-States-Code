@@ -34,7 +34,7 @@ The Chairman of the Board shall appoint such personnel as may be necessary to ca
 
 #### (3) Delegation
 
-&emsp;The powers of the Chairman as chief executive officer necessary for day to day management may be exercised and performed by theChairman through such other officers and employees of the Administration as the Chairman shall designate, except that the Chairman may not delegate powers specifically reserved to the Chairman by this chapter without Board approval.
+&emsp;The powers of the Chairman as chief executive officer necessary for day to day management may be exercised and performed by the Chairman through such other officers and employees of the Administration as the Chairman shall designate, except that the Chairman may not delegate powers specifically reserved to the Chairman by this chapter without Board approval.
 
 #### (d) Funding
 
@@ -48,7 +48,7 @@ The Ethics in Government Act of 1978, referred to in subsec. (c)(2)(C)(i), is Pu
 
 #### Amendments
 
-1989—Subsec. (c)(2). Pub. L. 101–73 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The officers and employees of the agency shall be—
+<b>1989</b>—Subsec. (c)(2). Pub. L. 101–73 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The officers and employees of the agency shall be—
 
 &emsp;“(A) subject to the Ethics in Government Act of 1978 (2 U.S.C. 701 et seq.);
 
@@ -56,13 +56,13 @@ The Ethics in Government Act of 1978, referred to in subsec. (c)(2)(C)(i), is Pu
 
 &emsp;“(C) subject to section 5373 of title 5.”
 
-1988—Pub. L. 100–233, §805(x), which directed the amendment of this section by striking out the last sentence, was repealed by Pub. L. 100–399, §702(b). See Construction of 1988 Amendment note below.
+<b>1988</b>—Pub. L. 100–233, §805(x), which directed the amendment of this section by striking out the last sentence, was repealed by Pub. L. 100–399, §702(b). See Construction of 1988 Amendment note below.
 
 Pub. L. 100–233, §431(c), amended section generally, substituting subsecs. (a) to (d) for former text consisting of single undesignated paragraph.
 
 Subsec. (c)(2)(C). Pub. L. 100–399, §415(a), substituted “5373” for “5315”.
 
-1985—Pub. L. 99–205 substituted provisions respecting organization of the Farm Credit Administration for provisions relating to compensation and expense allowance of the Governor of the Farm Credit Administration.
+<b>1985</b>—Pub. L. 99–205 substituted provisions respecting organization of the Farm Credit Administration for provisions relating to compensation and expense allowance of the Governor of the Farm Credit Administration.
 
 #### Effective Date of 1988 Amendment
 

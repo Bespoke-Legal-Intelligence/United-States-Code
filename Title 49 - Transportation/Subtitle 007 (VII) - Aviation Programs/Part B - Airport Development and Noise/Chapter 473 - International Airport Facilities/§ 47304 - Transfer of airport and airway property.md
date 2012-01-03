@@ -6,7 +6,7 @@ General Authority.—When requested by the government of a foreign country or an
 
 (b)
 
-Property Installed or Controlled by Military.—Subject to terms to which the parties agree, the Secretary of a military department may transfer without charge to the Secretary of Transportation airport property and airway property (except meteorological facilities), and to the Secretary of Commerce meteorological facilities, that the Secretary of the military department installed or controls in territory outside the continental United States. The transfer may be made if consistent with the needs of national defense and—
+Property Installed or Controlled by Military.—Subject to terms to which the parties agree, the Secretary of a military department may transfer without charge to the Secretary of Transportation airport property andairway property (except meteorological facilities), and to the Secretary of Commerce meteorological facilities, that the Secretary of the military department installed or controls in territory outside the continental United States. The transfer may be made if consistent with the needs of national defense and—
 
 &emsp;(1) the Secretary of the military department finds that the property or facility is no longer required exclusively for military purposes; and
 

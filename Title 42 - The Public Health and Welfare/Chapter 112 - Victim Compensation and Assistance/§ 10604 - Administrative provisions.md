@@ -66,7 +66,7 @@ Subsec. (g). Pub. L. 100–690, §7123(b)(14), substituted “Director” for �
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under section 13 of Title 18, Crimes and Criminal Procedure.
+Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a noteunder section 13 of Title 18, Crimes and Criminal Procedure.
 
 #### Effective Date of 1988 Amendment
 

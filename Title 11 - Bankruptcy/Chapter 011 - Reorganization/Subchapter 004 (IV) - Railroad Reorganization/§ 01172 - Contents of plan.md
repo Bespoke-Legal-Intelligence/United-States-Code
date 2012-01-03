@@ -20,7 +20,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 1172 of the House amendment is derived from section 1171 of the House bill in preference to section 1170 of the Senate amendment with the exception that section 1170(4) of the Senate amendment is incorporated into section 1172(a)(1) of the House amendment.
 
@@ -48,11 +48,11 @@ The plan may also provide for abandonment in accordance with section 1169, gover
 
 #### Amendments
 
-2005—Subsec. (c)(1). Pub. L. 109–8 substituted “section 11326(a)” for “section 11347”.
+<b>2005</b>—Subsec. (c)(1). Pub. L. 109–8 substituted “section 11326(a)” for “section 11347”.
 
-1995—Subsecs. (b), (c)(1). Pub. L. 104–88 substituted “Board” for “Commission” wherever appearing.
+<b>1995</b>—Subsecs. (b), (c)(1). Pub. L. 104–88 substituted “Board” for “Commission” wherever appearing.
 
-1980—Subsec. (c). Pub. L. 96–448 added subsec. (c).
+<b>1980</b>—Subsec. (c). Pub. L. 96–448 added subsec. (c).
 
 #### Effective Date of 2005 Amendment
 

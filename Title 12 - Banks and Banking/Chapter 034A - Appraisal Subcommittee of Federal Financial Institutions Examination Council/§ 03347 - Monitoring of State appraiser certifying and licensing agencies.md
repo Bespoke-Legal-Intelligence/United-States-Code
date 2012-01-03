@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Appraisal Subcommittee shall monitor State appraiser certifying and licensing agencies for the purpose of determining whether a State agency's policies, practices, and procedures are consistent with this chapter. The Appraisal Subcommittee and all agencies, instrumentalities,and federally recognized entities under this chapter shall not recognize appraiser certifications and licenses from States whose appraisal policies, practices, or procedures are found to be inconsistent with this chapter.
+The Appraisal Subcommittee shall monitor State appraiser certifying and licensing agencies for the purpose of determining whether a State agency's policies, practices, and procedures are consistent with this chapter. The Appraisal Subcommittee and all agencies, instrumentalities, and federally recognized entities under this chapter shall not recognize appraiser certifications and licenses from States whose appraisal policies, practices, or procedures are found to be inconsistent with this chapter.
 
 #### (b) Disapproval by Appraisal Subcommittee
 
@@ -28,7 +28,41 @@ The Federal financial institutions, <sup>1</sup> regulatory agencies, the Feder
 
 &emsp;A decision of the subcommittee under this section shall be subject to judicial review.
 
-(Pub. L. 101–73, title XI, §1118, Aug. 9, 1989, 103 Stat. 515.)
+(Pub. L. 101–73, title XI, §1118, Aug. 9, 1989, 103 Stat. 515; Pub. L. 111–203, title XIV, §1473(k), July 21, 2010, 124 Stat. 2196.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title XIV, §§1400(c), 1473(k), July 21, 2010, 124 Stat. 2136, 2196, provided that this section is amended, effective on the date on which final regulations implementing such amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date:</i>
+
+<i>(1) by amending subsection (a) to read as follows:</i>
+
+#### <i>“(a) In general</i>
+
+<i>“The Appraisal Subcommittee shall monitor each State appraiser certifying and licensing agency for the purposes of determining whether such agency—</i>
+
+&emsp;<i>“(1) has policies, practices, funding, staffing, and procedures that are consistent with this chapter;</i>
+
+&emsp;<i>“(2) processes complaints and completes investigations in a reasonable time period;</i>
+
+&emsp;<i>“(3) appropriately disciplines sanctioned appraisers and appraisal management companies;</i>
+
+&emsp;<i>“(4) maintains an effective regulatory program; and</i>
+
+&emsp;<i>“(5) reports complaints and disciplinary actions on a timely basis to the national registries on appraisers and appraisal management companies maintained by the Appraisal Subcommittee.</i>
+
+> <i>The Appraisal Subcommittee shall have the authority to remove a State licensed or certified appraiser or a registered appraisal management company from a national registry on an interim basis, not to exceed 90 days, pending State agency action on licensing, certification, registration, and disciplinary proceedings. The Appraisal Subcommittee and all agencies, instrumentalities, and Federally recognized entities under this chapter shall not recognize appraiser certifications and licenses from States whose appraisal policies, practices, funding, staffing, or procedures are found to be inconsistent with this chapter. The Appraisal Subcommittee shall have the authority to impose sanctions, as described in this section, against a State agency that fails to have an effective appraiser regulatory program. In determining whether such a program is effective, the Appraisal Subcommittee shall include an analysis of the licensing and certification of appraisers, the registration of appraisal management companies, the issuance of temporary licenses and certifications for appraisers, the receiving and tracking of submitted complaints against appraisers and appraisal management companies, the investigation of complaints, and enforcement actions against appraisers and appraisal management companies. The Appraisal Subcommittee shall have the authority to impose interim actions and suspensions against a State agency as an alternative to, or in advance of, the derecognition of a State agency.”; and</i>
+
+<i>(2) in subsection (b)(2), by inserting “or sufficient funding” after “authority”.</i>
+
+<i>See Effective Date of 2010 Amendment note below.</i>
+
+#### References in Text
+
+This chapter, referred to in subsecs. (a) and (b), was in the original “this title”, meaning title XI of Pub. L. 101–73, which is classified principally to this chapter. For complete classification of title XI to the Code, see Tables.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as a note under section 1601 of Title 15, Commerce and Trade.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

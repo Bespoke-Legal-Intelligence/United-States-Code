@@ -12,7 +12,7 @@
 
 #### Historical and Revision Notes
 
-This section gives statutory recognition to the office of librarian. For many years the Court has appointed its librarian directly through the Chief Justice, ratherthan through the marshal. Other members of the library staff are appointed by the librarian, with the approval of the Chief Justice.
+This section gives statutory recognition to the office of librarian. For many years the Court has appointed its librarian directly through the Chief Justice, rather than through the marshal. Other members of the library staff are appointed by the librarian, with the approval of the Chief Justice.
 
 Under this section the marshal will not be required to certify to expenditures for some 2,000 books bought for the library each year but this will be the duty of the librarian.
 

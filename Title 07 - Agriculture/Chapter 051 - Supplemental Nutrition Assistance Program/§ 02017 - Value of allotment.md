@@ -6,13 +6,13 @@ The value of the allotment which State agencies shall be authorized to issue to 
 
 #### (b) Benefits not deemed income or resources for certain purposes
 
-The value of benefits that may be provided under this chapter shall not be considered income or resources for any purpose under any Federal, State, or local laws, including, but not limited to, laws relating to taxation, welfare, and public assistance programs, and no participating State or political subdivision thereof shall decrease any assistance otherwise provided an individual or individuals because of the receipt of benefits under this chapter.
+The value of benefits that may be provided under this chapter shall not be considered income or resources for any purpose under anyFederal, State, or local laws, including, but not limited to, laws relating to taxation, welfare, and public assistance programs, and no participating State or political subdivision thereof shall decrease any assistance otherwise provided an individual or individuals because of the receipt of benefits under this chapter.
 
 #### (c) First month benefits prorated
 
 (1) The value of the allotment issued to any eligible household for the initial month or other initial period for which an allotment is issued shall have a value which bears the same ratio to the value of the allotment for a full month or other initial period for which the allotment is issued as the number of days (from the date of application) remaining in the month or other initial period for which the allotment is issued bears to the total number of days in the month or other initial period for which the allotment is issued, except that no allotment may be issued to a household for the initial month or period if the value of the allotment which such household would otherwise be eligible to receive under this subsection is less than $10. Households shall receive full months’ allotments for all months within a certification period, except as provided in the first sentence of this paragraph with respect to an initial month.
 
-(2) As used in this subsection, the term “initial month” means (A) the first month for which an allotment is issued to a household, (B) the first month for which an allotment is issued to a household following any period in which such household was not participating in the supplemental nutrition assistance program under this chapter after the expiration of a certification period or after the termination of the certification of a household, during a certification period, when the household ceased to be eligible after notice and an opportunity for a hearing under section 2020(e)(10) of this title, and (C) in the case of a migrant or seasonal farmworkerhousehold, the first month for which allotment is issued to a household that applies following any period of more than 30 days in which such household was not participating in the supplemental nutrition assistance program after previous participation in such program.
+(2) As used in this subsection, the term “initial month” means (A) the first month for which an allotment is issued to a household, (B) the first month for which an allotment is issued to a household following any period in which such household was not participating in the supplemental nutrition assistance program under this chapter after the expiration of a certification period or after the termination of the certification of a household, during a certification period, when the household ceased to be eligible after notice and an opportunity for a hearing under section 2020(e)(10) of this title, and (C) in the case of a migrant or seasonal farmworker household, the first month for which allotment is issued to a household that applies following any period of more than 30 days in which such household was not participating in the supplemental nutrition assistance program after previous participation in such program.
 
 (3)
 
@@ -68,7 +68,7 @@ Optional combined allotment for expedited households.—A State agency may provi
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The State agency shall issue an allotment determined under this paragraph to a covered facility as the authorized representative of the residents of the covered facility.
+&emsp;&emsp;&emsp;The State agency shall issue an allotment determined under this paragraph to acovered facility as the authorized representative of the residents of the covered facility.
 
 #### (ii) Adjustment
 
@@ -152,7 +152,7 @@ Optional combined allotment for expedited households.—A State agency may provi
 
 &emsp;&emsp;&emsp;&emsp;(bb) authorization of implementation of paragraph (1) in all States is not in the best interest of the supplemental nutrition assistance program.
 
-(Pub. L. 88–525, §8, Aug. 31, 1964, 78 Stat. 705; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 968; Pub. L. 97–35, title I, §§104(b), 110, Aug. 13, 1981, 95 Stat. 359, 361; Pub. L. 97–253, title I, §§143(c), 152(b), 163, 164, Sept. 8, 1982, 96 Stat. 773, 776, 778; Pub. L. 99–198, title XV, §1520, Dec. 23, 1985, 99 Stat. 1578; Pub. L. 100–387, title V, §502(a), Aug. 11, 1988, 102 Stat. 960; Pub. L. 100–435, title II, §203(a), Sept. 19, 1988, 102 Stat. 1656; Pub. L. 101–624, title XVII, §§1730, 1732, Nov. 28, 1990, 104 Stat. 3790; Pub. L. 102–237, title IX, §§909, 910, Dec. 13, 1991, 105 Stat. 1887; Pub. L. 103–66, title XIII, §13916, Aug. 10, 1993, 107 Stat. 674; Pub. L. 103–296, title I, §108(f)(1), Aug. 15, 1994, 108 Stat. 1486; Pub. L. 104–193, title VIII, §§826–830, 854(c)(1), Aug. 22, 1996, 110 Stat. 2327, 2342; Pub. L. 107–171, title IV, §4112(a), (b)(3), May 13, 2002, 116 Stat. 310, 313; Pub. L. 110–234, title IV, §§4001(b), 4107, 4115(b)(5), May 22, 2008, 122 Stat. 1092, 1101, 1106; Pub. L. 110–246, §4(a), title IV, §§4001(b), 4107, 4115(b)(5), June 18, 2008, 122 Stat. 1664, 1853, 1863, 1868.)
+(Pub. L. 88–525, §8, Aug. 31, 1964, 78 Stat. 705; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 968; Pub. L. 97–35, title I, §§104(b), 110, Aug. 13, 1981, 95 Stat. 359, 361; Pub. L. 97–253, title I, §§143(c), 152(b), 163, 164, Sept. 8, 1982, 96 Stat. 773, 776, 778; Pub. L. 99–198, title XV, §1520, Dec. 23, 1985, 99 Stat. 1578; Pub. L. 100–387, title V, §502(a), Aug. 11, 1988, 102 Stat. 960; Pub. L.100–435, title II, §203(a), Sept. 19, 1988, 102 Stat. 1656; Pub. L. 101–624, title XVII, §§1730, 1732, Nov. 28, 1990, 104 Stat. 3790; Pub. L. 102–237, title IX, §§909, 910, Dec. 13, 1991, 105 Stat. 1887; Pub. L. 103–66, title XIII, §13916, Aug. 10, 1993, 107 Stat. 674; Pub. L. 103–296, title I, §108(f)(1), Aug. 15, 1994, 108 Stat. 1486; Pub. L. 104–193, title VIII, §§826–830, 854(c)(1), Aug. 22, 1996, 110 Stat. 2327, 2342; Pub. L. 107–171, title IV, §4112(a), (b)(3), May 13, 2002, 116 Stat. 310, 313; Pub. L. 110–234, title IV, §§4001(b), 4107, 4115(b)(5), May 22, 2008, 122 Stat. 1092, 1101, 1106; Pub. L. 110–246, §4(a), title IV, §§4001(b), 4107, 4115(b)(5), June 18, 2008, 122 Stat. 1664, 1853, 1863, 1868.)
 
 #### References in Text
 
@@ -164,7 +164,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–246, §4107, substituted “8 percent of the cost of the thrifty food plan for a household containing 1 member, as determined by the Secretary under section 2012 of this title, rounded to the nearest whole dollar increment” for “$10 per month”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–246, §4107, substituted “8 percent of the cost of the thrifty food plan for a household containing 1 member, as determined by the Secretary under section 2012 of this title, rounded to the nearest whole dollar increment” for “$10 per month”.
 
 Pub. L. 110–246, §4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
 
@@ -178,11 +178,11 @@ Subsec. (f)(1)(A)(i). Pub. L. 110–246, §4115(b)(5)(B), substituted “section
 
 Subsec. (f)(1)(D), (3)(B). Pub. L. 110–246, §4001(b), substituted “supplemental nutrition assistance program” for “food stamp program” wherever appearing.
 
-2002—Subsec. (e)(1). Pub. L. 107–171, §4112(b)(3), substituted “section 2012(i)(5) of this title” for “the last sentence of section 2012(i) of this title” in introductory provisions.
+<b>2002</b>—Subsec. (e)(1). Pub. L. 107–171, §4112(b)(3), substituted “section 2012(i)(5) of this title” for “the last sentence of section 2012(i) of this title” in introductory provisions.
 
 Subsec. (f). Pub. L. 107–171, §4112(a), added subsec. (f).
 
-1996—Subsec. (a). Pub. L. 104–193, §826, struck out before period at end “, and shall be adjusted on each October 1 to reflect the percentage change in the cost of the thrifty food plan without regard to the special adjustments under section 2012(<i>o</i>) of this title for the 12-month period ending the preceding June, with the result rounded to the nearest $5”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–193, §826, struck out before period at end “, and shall be adjusted on each October 1 to reflect the percentage change in the cost of the thrifty food plan without regard to the special adjustments under section 2012(<i>o</i>) of this title for the 12-month period ending the preceding June, with the result rounded to the nearest $5”.
 
 Subsec. (c)(2)(B). Pub. L. 104–193, §827, struck out “of more than one month” after “following any period”.
 
@@ -200,39 +200,39 @@ Subsec. (f). Pub. L. 104–193, §854(c)(1), redesignated subsec. (f) as (e).
 
 Pub. L. 104–193, §830, added subsec. (f).
 
-1994—Subsec. (e)(6). Pub. L. 103–296 inserted “the Commissioner of Social Security and” before “the Secretary of Health and Human Services”.
+<b>1994</b>—Subsec. (e)(6). Pub. L. 103–296 inserted “the Commissioner of Social Security and” before “the Secretary of Health and Human Services”.
 
-1993—Subsec. (c)(2)(B). Pub. L. 103–66 inserted “of more than one month in” after “following any period”.
+<b>1993</b>—Subsec. (c)(2)(B). Pub. L. 103–66 inserted “of more than one month in” after “following any period”.
 
-1991—Subsec. (b). Pub. L. 102–237, §909, substituted “benefits that may be provided under this chapter, whether through coupons, access devices, or otherwise” for “the allotment provided any eligible household” and “benefits” for “an allotment”.
+<b>1991</b>—Subsec. (b). Pub. L. 102–237, §909, substituted “benefits that may be provided under this chapter, whether through coupons, access devices, or otherwise” for “the allotment provided any eligible household” and “benefits” for “an allotment”.
 
 Subsec. (c)(1). Pub. L. 102–237, §910(1), inserted at end “Households shall receive full months’ allotments for all months within a certification period, except as provided in the first sentence of this paragraph with respect to an initial month.”
 
 Subsec. (c)(2)(B). Pub. L. 102–237, §910(2), substituted “the expiration of a certification period or after the termination of the certification of a household, during a certification period, when the household ceased to be eligible after notice and an opportunity for a hearing under section 2020(e)(10) of this title” for “previous participation in such program”.
 
-1990—Subsec. (a). Pub. L. 101–624, §1730, inserted before period at end “, and shall be adjusted on each October 1 to reflect the percentage change in the cost of the thrifty food plan without regard to the special adjustments under section 2012(<i>o</i>) of this title for the 12-month period ending the preceding June, with the result rounded to the nearest $5”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–624, §1730, inserted before period at end “, and shall be adjusted on each October 1 to reflect the percentage change in the cost of the thrifty food plan without regard to the special adjustments under section 2012(<i>o</i>) of this title for the 12-month period ending the preceding June, with the result rounded to the nearest $5”.
 
 Subsec. (c)(3). Pub. L. 101–624, §1732, amended par. (3) generally. Prior to amendment, par. (3) read as follows: “An eligible household applying after the 15th day of the month shall receive, in lieu of its initial allotment and its regular allotment for the following month, an allotment that is the aggregate of the initial allotment and the first regular allotment, which shall be provided in accordance with paragraphs (3) and (9) of section 2020(e) of this title.”
 
-1988—Subsec. (c). Pub. L. 100–387 substituted “(2)” for “and (2)” and added cl. (3).
+<b>1988</b>—Subsec. (c). Pub. L. 100–387 substituted “(2)” for “and (2)” and added cl. (3).
 
 Subsec. (c)(1), (2). Pub. L. 100–435, §203(a)(1), (2), designated first sentence of subsec. (c) as par. (1) and designated second sentence of subsec. (c) as par. (2), and redesignated cls. (1) to (3) of par. (2) as cls. (A) to (C), respectively.
 
 Subsec. (c)(3). Pub. L. 100–435, §203(a)(3), added par. (3).
 
-1985—Subsec. (e). Pub. L. 99–198 added subsec. (e).
+<b>1985</b>—Subsec. (e). Pub. L. 99–198 added subsec. (e).
 
-1982—Subsec. (a). Pub. L. 97–253, §§143(c), 152(b), substituted “nearest lower whole dollar” for “nearest whole dollar”, and struck out provision which required the Secretary, six months after the implementation of the elimination of the charge for allotments and annually thereafter, to report to Congress the effect on participation and cost thereof.
+<b>1982</b>—Subsec. (a). Pub. L. 97–253, §§143(c), 152(b), substituted “nearest lower whole dollar” for “nearest whole dollar”, and struck out provision which required the Secretary, six months after the implementation of the elimination of the charge for allotments and annually thereafter, to report to Congress the effect on participation and cost thereof.
 
 Subsec. (c). Pub. L. 97–253, §163, inserted provision that no allotment may be issued to a household for the initial month or period if the value of the allotment which such household would otherwise be eligible to receive under this subsection is less than $10, and substituted “following any period” for “following any period of more than thirty days” in cl. (2).
 
 Subsec. (d). Pub. L. 97–253, §164, added subsec. (d).
 
-1981—Subsec. (a). Pub. L. 97–35, §104(b), inserted “(d) and (e)” after “2014”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35, §104(b), inserted “(d) and (e)” after “2014”.
 
 Subsec. (c). Pub. L. 97–35, §110, added subsec. (c).
 
-1977—Pub. L. 95–113 substituted revised provisions relating to the value of the coupon allotment for provisions covering approval of retail stores and wholesale food concerns which are now covered by section 2018 of this title.
+<b>1977</b>—Pub. L. 95–113 substituted revised provisions relating to the value of the coupon allotment for provisions covering approval of retail stores and wholesale food concerns which are now covered by section 2018 of this title.
 
 #### Effective Date of 2008 Amendment
 

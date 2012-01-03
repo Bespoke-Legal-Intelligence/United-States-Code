@@ -8,11 +8,11 @@
 
 #### Codification
 
-Section was classified to section 162b of former Title 40, prior to the enactment of Title 40, Public Buildings,Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 162b of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
 
 #### Amendments
 
-1976—Pub. L. 94–303 designated existing provisions as par. (1) and added par. (2).
+<b>1976</b>—Pub. L. 94–303 designated existing provisions as par. (1) and added par. (2).
 
 #### Termination of Reporting Requirements
 

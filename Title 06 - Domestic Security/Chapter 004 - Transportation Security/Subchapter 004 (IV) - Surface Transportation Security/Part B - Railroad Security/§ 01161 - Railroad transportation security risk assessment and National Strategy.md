@@ -52,7 +52,7 @@ The Secretary shall establish a Federal task force, including the Transportation
 
 &emsp;&emsp;&emsp;(iii) the implementation of random searches of passengers and baggage; and
 
-&emsp;&emsp;(I) identifying the immediate and long-term costs of measures that may be required to address those risks and public and private sector sources to fund such measures.
+&emsp;&emsp;(I) identifying the immediate and long-term costs of measures that may be requiredto address those risks and public and private sector sources to fund such measures.
 
 #### (3) Responsibilities
 

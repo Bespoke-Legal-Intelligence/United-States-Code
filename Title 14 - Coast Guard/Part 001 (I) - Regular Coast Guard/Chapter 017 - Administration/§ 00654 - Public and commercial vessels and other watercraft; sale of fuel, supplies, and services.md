@@ -12,5 +12,5 @@ The Secretary under such regulations as he may prescribe, may sell to public and
 
 #### Amendments
 
-1966—Pub. L. 89–444 inserted “Public and commercial vessels and other watercraft; sale of fuel, supplies, and services” in section catchline.
+<b>1966</b>—Pub. L. 89–444 inserted “Public and commercial vessels and other watercraft; sale of fuel, supplies, and services” in section catchline.
 

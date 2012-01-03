@@ -69,7 +69,7 @@ Pub. L. 104–106, div. A, title X, §1061(b)(2), Feb. 10, 1996, 110 Stat. 442, 
 
 <b>1989</b>—Pub. L. 101–189, div. A, title IX, §931(e)(2), Nov. 29, 1989, 103 Stat. 1535, substituted “Cooperative Agreements” for “Acquisition and Cross-Servicing Agreements” in item for chapter 138.
 
-<b>1988</b>—Pub. L. 100–456, div. A, title III, §§342(a)(2), 344(b)(2), title VIII, §821(b)(2), Sept. 29, 1988, 102 Stat.1961, 1962, 2016, substituted “Defense Industrial Base” for “Buy American Requirements” in item for chapter 148, substituted “Property Records and Report of Theft or Loss of Certain Property” for “Property Records” in item for chapter 161, and added item for chapter 171.
+<b>1988</b>—Pub. L. 100–456, div. A, title III, §§342(a)(2), 344(b)(2), title VIII, §821(b)(2), Sept. 29, 1988, 102 Stat. 1961, 1962, 2016, substituted “Defense Industrial Base” for “Buy American Requirements” in item for chapter 148, substituted “Property Records and Report of Theft or Loss of Certain Property” for “Property Records” in item for chapter 161, and added item for chapter 171.
 
 Pub. L. 100–370, §§1(e)(2), 2(a)(2), 3(a)(2), July 19, 1988, 102 Stat. 845, 854, 855, added items for chapters 134, 146, and 148.
 

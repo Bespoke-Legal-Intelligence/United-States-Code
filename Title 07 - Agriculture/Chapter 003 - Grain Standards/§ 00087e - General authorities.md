@@ -2,11 +2,11 @@
 
 #### (a) Authority of Secretary
 
-The Secretary is authorized to conduct such investigations; hold such hearings; require such reports from any official agency, any Stateagency delegated authority under this chapter, licensee, or other person; and prescribe such rules, regulations, and instructions, as the Secretary deems necessary to effectuate the purposes or provisions of this chapter. Such regulations may require, as a condition for official inspection or official weighing or supervision of weighing, among other things, (1) that there be installed specified sampling, handling, weighing, and monitoring equipment in grain elevators, warehouses, and other grain storage or handling facilities, (2) that approval of the Secretary be obtained as to the condition of vessels and other carriers or receptacles for the transporting or storing of grain, and (3) that persons having a financial interest in the grain which is to be inspected (or their agents) shall be afforded an opportunity to observe the weighing, loading, and official inspection thereof, under conditions prescribed by the Secretary. Whether any certificate, other form, representation, designation, or other description is false, incorrect, or misleading within the meaning of this chapter shall be determined by tests made in accordance with such procedures as the Secretary may adopt to effectuate the objectives of this chapter, if the relevant facts are determinable by such tests. Proceedings under section 85 of this title for refusal to renew, or for suspension or revocation of, a license shall not, unless requested by the respondent, be subject to the administrative procedure provisions in sections 554, 556, and 557 of title 5.
+The Secretary is authorized to conduct such investigations; hold such hearings; require such reports from any official agency, any State agency delegated authority under this chapter, licensee, or other person; and prescribe such rules, regulations, and instructions, as the Secretary deems necessary to effectuate the purposes or provisions of this chapter. Such regulations may require, as a condition for official inspection or official weighing or supervision of weighing, among other things, (1) that there be installed specified sampling, handling, weighing, and monitoring equipment in grain elevators, warehouses, and other grain storage or handling facilities, (2) that approval of the Secretary be obtained as to the condition of vessels and other carriers or receptacles for the transporting or storing of grain, and (3) that persons having a financial interest in the grain which is to be inspected (or their agents) shall be afforded an opportunity to observe the weighing, loading, and official inspection thereof, under conditions prescribed by the Secretary. Whether any certificate, other form, representation, designation, or other description is false, incorrect, or misleading within the meaning of this chapter shall be determined by tests made in accordance with such procedures as the Secretary may adopt to effectuate the objectives of this chapter, if the relevant facts are determinable by such tests. Proceedings under section 85 of this title for refusal to renew, or for suspension or revocation of, a license shall not, unless requested by the respondent, be subject to the administrative procedure provisions in sections 554, 556, and 557 of title 5.
 
 #### (b) Investigation of reports or complaints of discrepancies and abuses in official inspection or weighing of grain
 
-The Secretary is authorized to investigate reports or complaints of discrepancies and abuses in the official inspection and weighing of grain under this chapter. The Secretary shall prescribe by regulation procedures for (1) promptly investigating (A) complaints of foreign grain purchasers regarding the official inspection or official weighing of grain shipped from the United States, (B) the cancellation of contracts for the export sale of grain required to be inspected or weighed under this chapter, and (C) any complaint regarding the operation or administration of this chapter or any official transaction with which this chapter is concerned; and (2) taking appropriate action on the basis of the findings of any investigation of such complaints.
+The Secretary is authorized to investigate reports or complaints of discrepancies and abuses in the official inspection and weighing of grain under this chapter. The Secretary shall prescribe by regulation procedures for (1) promptlyinvestigating (A) complaints of foreign grain purchasers regarding the official inspection or official weighing of grain shipped from the United States, (B) the cancellation of contracts for the export sale of grain required to be inspected or weighed under this chapter, and (C) any complaint regarding the operation or administration of this chapter or any official transaction with which this chapter is concerned; and (2) taking appropriate action on the basis of the findings of any investigation of such complaints.
 
 #### (c) Monitoring of United States grain upon its entry into foreign nations
 
@@ -48,7 +48,7 @@ To assure the normal movement of grain at all inspection points in a timely mann
 
 (1) In accordance with such regulations as the Secretary may provide, the Secretary may perform such other services as the Secretary considers to be appropriate.
 
-(2) In addition to the fees authorized by sections 79, 79a, 79b, and 87f–1 of this title, and thissection, the Secretary shall collect reasonable fees to cover the estimated costs of services performed under paragraph (1) other than standardization and foreign monitoring activities.
+(2) In addition to the fees authorized by sections 79, 79a, 79b, and 87f–1 of this title, and this section, the Secretary shall collect reasonable fees to cover the estimated costs of services performed under paragraph (1) other than standardization and foreign monitoring activities.
 
 (3) To the extent practicable, the fees collected under paragraph (2), together with any proceeds from the sale of any samples, shall cover the costs, including administrative and supervisory costs, of services performed under paragraph (1).
 
@@ -64,21 +64,21 @@ The Secretary may extend appropriate courtesies to official representatives of f
 
 #### Amendments
 
-1994—Subsecs. (a) to (c), (e) to (i), (k). Pub. L. 103–354 substituted “Secretary” for “Administrator” wherever appearing.
+<b>1994</b>—Subsecs. (a) to (c), (e) to (i), (k). Pub. L. 103–354 substituted “Secretary” for “Administrator” wherever appearing.
 
-1993—Subsec. (b). Pub. L. 103–156, §9(1), struck out at end “The Administrator shall report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate at the end of every three-month period with respect to investigative action taken on complaints, during the immediately preceding three-month period.”
+<b>1993</b>—Subsec. (b). Pub. L. 103–156, §9(1), struck out at end “The Administrator shall report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate at the end of every three-month period with respect to investigative action taken on complaints, during the immediately preceding three-month period.”
 
 Subsecs. (g) to (k). Pub. L. 103–156, §9(2), added subsecs. (g) to (k).
 
-1991—Subsec. (a). Pub. L. 102–237 substituted “Administrator” for “Administrtor” at end of second sentence.
+<b>1991</b>—Subsec. (a). Pub. L. 102–237 substituted “Administrator” for “Administrtor” at end of second sentence.
 
-1977—Subsec. (a). Pub. L. 95–113, §1604(k)(1), rearranged existing provisions and inserted references to the installation of handling and weighing equipment and to warehouses and other grain storage or handling facilities.
+<b>1977</b>—Subsec. (a). Pub. L. 95–113, §1604(k)(1), rearranged existing provisions and inserted references to the installation of handling and weighing equipment and to warehouses and other grain storage or handling facilities.
 
 Subsec. (b). Pub. L. 95–113, §1606(i), substituted “Committee on Agriculture, Nutrition, and Forestry” for “Committee on Agriculture and Forestry”.
 
 Subsec. (f). Pub. L. 95–113, §1604(k)(2), struck out “additional” before “inspection and weighing requirements”.
 
-1976—Subsec. (a). Pub. L. 94–582 substituted authorizations of “Administrator” for authorizations of “Secretary”, “official agency” for “official inspection agency”, and “other person” for “any person” respecting reporting requirement, required reports from State agencies delegated authority under this chapter and from licensees, inserted items (1) to (3) relating to conditions for official inspection, authorized issuance of instructions, and struck out reference to section 86 of this title, including proceedings for refusal of official inspection service not required by section 77 of this title, as not being subject to administrative procedure provisions.
+<b>1976</b>—Subsec. (a). Pub. L. 94–582 substituted authorizations of “Administrator” for authorizations of “Secretary”, “official agency” for “official inspection agency”, and “other person” for “any person” respecting reporting requirement, required reports from State agencies delegated authority under this chapter and from licensees, inserted items (1) to (3) relating to conditions for official inspection, authorized issuance of instructions, and struck out reference to section 86 of this title, including proceedings for refusal of official inspection service not required by section 77 of this title, as not being subject to administrative procedure provisions.
 
 Subsecs. (b) to (f). Pub. L. 94–582 added subsecs. (b) to (f).
 

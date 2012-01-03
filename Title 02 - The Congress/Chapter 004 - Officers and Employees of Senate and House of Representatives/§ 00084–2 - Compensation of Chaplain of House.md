@@ -18,7 +18,7 @@ A prior section 84–2, Pub. L. 88–426, title II, §203(f), Aug. 14, 1964, 78 
 
 #### Amendments
 
-2010—Pub. L. 111–248 restored section into permanent law.
+<b>2010</b>—Pub. L. 111–248 restored section into permanent law.
 
 Pub. L. 111–145 repealed section.
 
@@ -28,9 +28,9 @@ Pub. L. 111–248, §3(b), Sept. 30, 2010, 124 Stat. 2626, provided that: “Eff
 
 #### Compensation of Individual Holding Position of Chaplain of House of Representatives on July 14, 1983
 
-House Resolution No. 7, Ninety-sixth Congress, Jan. 15, 1979, which was enacted into permanent law by Pub. L. 98–51, title I, §111(1), July 14, 1983, 97 Stat. 269, to be effective during the period in which the position of Chaplain of the House of Representatives is held by the individual holding the position on July 14, 1983, provided that: “The compensation of the Chaplain of the House of Representatives shall be equivalent to the highest rate of basic pay as in effect from time to time of level IV of the Executive Schedule in Section 5315 of Title V \[5\], United States Code.”
+House Resolution No. 7, Ninety-sixth Congress, Jan. 15, 1979, which was enacted into permanent law by Pub. L. 98–51, title I, §111(1), July 14, 1983, 97 Stat. 269, to be effective during the period in which the position of Chaplain of the House of Representatives is held by the individual holding the position on July 14, 1983, provided that: “The compensation of the Chaplain of the House of Representatives shall be equivalent to thehighest rate of basic pay as in effect from time to time of level IV of the Executive Schedule in Section 5315 of Title V \[5\], United States Code.”
 
 #### Increases in Compensation
 
-Increases in compensation for House officers and employees under authority of Federal Salary Act of 1967 (Pub. L. 90–206), Federal Pay Comparability Act of 1970\(Pub. L. 91–656), and Legislative Branch Appropriations Act, 1988 (Pub. L. 100–202), see sections 60a–2 and 60a–2a of this title, and Salary Directives of Speaker of the House, set out as notes under those sections.
+Increases in compensation for House officers and employees under authority of Federal Salary Act of 1967 (Pub. L. 90–206), Federal Pay Comparability Act of 1970 (Pub. L. 91–656), and Legislative Branch Appropriations Act, 1988 (Pub. L. 100–202), see sections 60a–2 and 60a–2a of this title, and Salary Directives of Speaker of the House, set out as notes under those sections.
 

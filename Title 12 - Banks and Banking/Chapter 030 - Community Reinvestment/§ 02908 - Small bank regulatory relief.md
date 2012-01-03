@@ -16,7 +16,7 @@ A regulated financial institution described in subsection (a) of this section sh
 
 #### (c) Discretion
 
-A regulated financial institution described in subsection (a) of this section may be subject tomore frequent or less frequent examinations for reasonable cause under such circumstances as may be determined by the appropriate Federal financial supervisory agency.
+A regulated financial institution described in subsection (a) of this section may be subject to more frequent or less frequent examinations for reasonable cause under such circumstances as may be determined by the appropriate Federal financial supervisory agency.
 
 (Pub. L. 95–128, title VIII, §809, as added Pub. L. 106–102, title VII, §712, Nov. 12, 1999, 113 Stat. 1469.)
 

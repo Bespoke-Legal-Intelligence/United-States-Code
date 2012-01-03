@@ -12,7 +12,7 @@ The Secretary shall establish and maintain within the Department the Rural Utili
 
 #### (2) Succession
 
-&emsp;Any official who is serving as Administrator of the Rural Electrification Administration onOctober 13, 1994, and who was appointed by the President, by and with the advice and consent of the Senate—
+&emsp;Any official who is serving as Administrator of the Rural Electrification Administration on October 13, 1994, and who was appointed by the President, by and with the advice and consent of the Senate—
 
 &emsp;&emsp;(A) may be considered to be serving in the successor position established under paragraph (1); and
 
@@ -54,7 +54,7 @@ Section is comprised of section 232 of Pub. L. 103–354. Subsec. (b)(3) of sect
 
 #### Amendments
 
-1996—Subsec. (c)(2)(A). Pub. L. 104–127 substituted “section 1932(b)” for “section 1932(b)(2)”.
+<b>1996</b>—Subsec. (c)(2)(A). Pub. L. 104–127 substituted “section 1932(b)” for “section 1932(b)(2)”.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

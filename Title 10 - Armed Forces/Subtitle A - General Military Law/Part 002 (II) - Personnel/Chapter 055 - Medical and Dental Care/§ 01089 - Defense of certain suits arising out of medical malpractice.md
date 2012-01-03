@@ -4,11 +4,11 @@
 
 (b) The Attorney General shall defend any civil action or proceeding brought in any court against any person referred to in subsection (a) of this section (or the estate of such person) for any such injury. Any such person against whom such civil action or proceeding is brought shall deliver within such time after date of service or knowledge of service as determined by the Attorney General, all process served upon such person or an attested true copy thereof to such person's immediate superior or to whomever was designated by the head of the agency concerned to receive such papers and such person shall promptly furnish copies of the pleading and process therein to the United States attorney for the district embracing the place wherein the action or proceeding is brought, to the Attorney General and to the head of the agency concerned.
 
-(c) Upon a certification by the Attorney General that any person described in subsection (a) was acting in the scope of such person's duties or employment at the time of the incident out of which the suit arose, any such civil action or proceeding commenced in a State court shall be removed without bond at any time before trial by the Attorney General to the district court ofthe United States of the district and division embracing the place wherein it is pending and the proceeding deemed a tort action brought against the United States under the provisions of title 28 and all references thereto. Should a United States district court determine on a hearing on a motion to remand held before a trial on the merits that the case so removed is one in which a remedy by suit within the meaning of subsection (a) of this section is not available against the United States, the case shall be remanded to the State court.
+(c) Upon a certification by the Attorney General that any person described in subsection (a) was acting in the scope of such person's duties or employment at the time of the incident out of which the suit arose, any such civil action or proceeding commenced in a State court shall be removed without bond at any time before trial by the Attorney General to the district court of the United States of the district and division embracing the place wherein it is pending and the proceeding deemed a tort action brought against the United States under the provisions of title 28 and all references thereto. Should a United States district court determine on a hearing on a motion to remand held before a trial on the merits that the case so removed is one in which a remedy by suit within the meaning of subsection (a) of this section is not available against the United States, the case shall be remanded to the State court.
 
 (d) The Attorney General may compromise or settle any claim asserted in such civil action or proceeding in the manner provided in section 2677 of title 28, and with the same effect.
 
-(e) For purposes of this section, the provisions of section 2680(h) of title 28 shall not apply to any cause of action arising out of a negligent or wrongful act or omission in the performance of medical, dental, or related health care functions (including clinical studies and investigations).
+(e) For purposes of this section, the provisions of section 2680(h) of title 28 shall not apply to any cause of action arising out of a negligent orwrongful act or omission in the performance of medical, dental, or related health care functions (including clinical studies and investigations).
 
 (f)(1) The head of the agency concerned may, to the extent that the head of the agency concerned considers appropriate, hold harmless or provide liability insurance for any person described in subsection (a) for damages for personal injury, including death, caused by such person's negligent or wrongful act or omission in the performance of medical, dental, or related health care functions (including clinical studies and investigations) while acting within the scope of such person's duties if such person is assigned to a foreign country or detailed for service with other than a Federal department, agency, or instrumentality or if the circumstances are such as are likely to preclude the remedies of third persons against the United States described in section 1346(b) of title 28, for such damage or injury.
 
@@ -20,13 +20,15 @@
 
 &emsp;(2) the Secretary of Homeland Security, in the case of a member or employee of the Coast Guard when it is not operating as a service in the Navy;
 
-&emsp;(3) the Armed Forces Retirement Home Board, in the case of an employee of the Armed Forces Retirement Home; and
+&emsp;(3) the Chief Operating Officer of the Armed Forces Retirement Home, in the case of an employee of the Armed Forces Retirement Home; and
 
 &emsp;(4) the Secretary of Defense, in all other cases.
 
-(Added Pub. L. 94–464, §1(a), Oct. 8, 1976, 90 Stat. 1985; amended Pub. L. 97–124, §2, Dec. 29, 1981, 95 Stat. 1666; Pub. L. 98–94, title IX, §934(a)–(c), Sept. 24, 1983, 97 Stat. 651, 652; Pub. L. 100–180, div. A, title XII, §1231(18)(A), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 101–510, div. A, title XV, §1533(a)(1), Nov. 5, 1990, 104 Stat. 1733; Pub. L. 105–85, div. A, title VII, §736(b), Nov. 18, 1997, 111 Stat. 1814; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 110–181, div. A, title IX, §931(b)(3), Jan. 28, 2008, 122 Stat. 285.)
+(Added Pub. L. 94–464, §1(a), Oct. 8, 1976, 90 Stat. 1985; amended Pub. L. 97–124, §2, Dec. 29, 1981, 95 Stat. 1666; Pub. L. 98–94, title IX, §934(a)–(c), Sept. 24, 1983, 97 Stat. 651, 652; Pub. L. 100–180, div. A, title XII, §1231(18)(A), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 101–510, div. A, title XV, §1533(a)(1), Nov. 5, 1990, 104 Stat. 1733; Pub. L. 105–85, div. A, title VII, §736(b), Nov. 18, 1997, 111 Stat. 1814; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 110–181, div. A, title IX, §931(b)(3), Jan. 28, 2008, 122 Stat. 285; Pub. L. 112–81, div. A, title V, §567(b)(2)(A), Dec. 31, 2011, 125 Stat. 1425.)
 
 #### Amendments
+
+<b>2011</b>—Subsec. (g)(3). Pub. L. 112–81 substituted “Chief Operating Officer of the Armed Forces Retirement Home” for “Armed Forces Retirement Home Board”.
 
 <b>2008</b>—Subsec. (g)(1). Pub. L. 110–181 substituted “Director of the Central Intelligence Agency” for “Director of Central Intelligence”.
 
@@ -82,5 +84,5 @@ Section 2(a) of Pub. L. 94–464 provided that: “The Congress finds—
 
 &emsp;“(3) that the current medical malpractice crisis poses a serious threat to the availability of sufficient medical personnel for the National Guard; and
 
-&emsp;“(4) that in order to insure that such medical personnel will continue to be available to the National Guard, it is necessary for the Federal Government to assume responsibility for the payment of malpractice claims made against such personnel arising out of actions or omissions on the part of such personnel while they are performing certain training exercises.”
+&emsp;“(4) that in order to insure that such medical personnel will continue to be available to the National Guard, it is necessary for the Federal Government toassume responsibility for the payment of malpractice claims made against such personnel arising out of actions or omissions on the part of such personnel while they are performing certain training exercises.”
 

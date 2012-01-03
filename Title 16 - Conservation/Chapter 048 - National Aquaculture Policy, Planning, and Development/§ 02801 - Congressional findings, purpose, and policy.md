@@ -28,7 +28,7 @@ It is the purpose of this chapter to promote aquaculture in the United States by
 
 &emsp;(2) establishing and implementing a national aquaculture development plan;
 
-&emsp;(3) establishing the Department of Agriculture as the lead Federal agency with respect to the coordination and dissemination ofnational aquaculture information by designating the Secretary of Agriculture as the permanent chairman of the coordinating group and by establishing a National Aquaculture Information Center within the Department of Agriculture; and
+&emsp;(3) establishing the Department of Agriculture as the lead Federal agency with respect to the coordination and dissemination of national aquaculture information by designating the Secretary of Agriculture as the permanent chairman of the coordinating group and by establishing a National Aquaculture Information Center within the Department of Agriculture; and
 
 &emsp;(4) encouraging aquaculture activities and programs in both the public and private sectors of the economy;
 

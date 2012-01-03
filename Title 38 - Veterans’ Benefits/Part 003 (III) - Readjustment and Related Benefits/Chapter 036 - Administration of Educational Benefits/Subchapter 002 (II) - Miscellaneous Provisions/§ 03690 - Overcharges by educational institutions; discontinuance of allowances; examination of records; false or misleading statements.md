@@ -24,7 +24,7 @@ Discontinuance of Allowances.—(1) The Secretary may discontinue the educationa
 
 &emsp;(ii) such institution refuses to take corrective action or does not within 60 days after such notice (or within such longer period as the Secretary determines is reasonable and appropriate) take corrective action; and
 
-&emsp;(iii) the Secretary, not less than 30 days before taking action under such subparagraph, provides to each eligible veteran and eligible person already enrolled in such course written notice of the Secretary's intent to take suchaction (and the reasons therefor) unless such corrective action is taken within such 60 days (or within such longer period as the Secretary has determined is reasonable and appropriate), and of the date on which the Secretary intends to take action under such subparagraph.
+&emsp;(iii) the Secretary, not less than 30 days before taking action under such subparagraph, provides to each eligible veteran and eligible person already enrolled in such course written notice of the Secretary's intent to take such action (and the reasons therefor) unless such corrective action is taken within such 60 days (or within such longer period as the Secretary has determined is reasonable and appropriate), and of the date on which the Secretary intends to take action under such subparagraph.
 
 (c)
 

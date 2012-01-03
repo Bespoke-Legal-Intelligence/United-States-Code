@@ -2,7 +2,7 @@
 
 (a) The Secretary of Transportation, in consultation with the Secretaries of Commerce, Energy, and Defense, the Administrator of the Environmental Protection Agency, the Assistant Secretary of the Army for Public Works, and the heads of other interested agencies, shall lead and coordinate Federal efforts in the research and development of high-speed ground transportation technologies in order to foster the implementation of magnetic levitation and high-speed steel wheel on rail transportation systems as alternatives to existing transportation systems.
 
-(b)(1) The Secretary may award contracts and grants for demonstrations to determine the contributions that high-speed ground transportation could make to more efficient, safe, and economical intercity transportation systems. Such demonstrations shall be designed to measure and evaluate such factors as the public response to new equipment, higher speeds, variations in fares, improved comfort and convenience, and more frequent service. In connection with grants and contracts for demonstrations under this section, the Secretary shall provide for financial participation by private industry to the maximum extent practicable.
+(b)(1) The Secretary may award contracts and grants for demonstrations to determine the contributions that high-speed ground transportation could make to more efficient, safe, and economical intercity transportation systems. Such demonstrations shall be designed to measure and evaluate such factors as the public response to new equipment, higher speeds, variations in fares, improved comfort and convenience, and more frequent service. In connectionwith grants and contracts for demonstrations under this section, the Secretary shall provide for financial participation by private industry to the maximum extent practicable.
 
 (2)(A) In connection with the authority provided under paragraph (1), there is established a national high-speed ground transportation technology demonstration program, which shall be separate from the national magnetic levitation prototype development program established under section 1036(b) of the Intermodal Surface Transportation Efficiency Act of 1991 and shall be managed by the Secretary of Transportation.
 
@@ -64,7 +64,7 @@
 
 &emsp;&emsp;(i) the current transportation practices and trends in each market; and
 
-&emsp;&emsp;(ii) the extent to which high-speed ground transportation systems would relieve the current or anticipated congestion on other modes of transportation;
+&emsp;&emsp;(ii) the extent to which high-speed ground transportation systems would relieve thecurrent or anticipated congestion on other modes of transportation;
 
 &emsp;(C) projections of the costs of designing, constructing, and operating high-speed ground transportation systems, the extent to which such systems can recover their costs (including capital costs), and the alternative methods available for private and public financing;
 
@@ -72,7 +72,7 @@
 
 &emsp;(E) a comparison of the projected costs of the various competing high-speed ground transportation technologies;
 
-&emsp;(F) recommendations for funding mechanisms, tax incentives, liability provisions, andchanges in statutes and regulations necessary to facilitate the development of individual high-speed ground transportation systems and the completion of a nationwide high-speed ground transportation network;
+&emsp;(F) recommendations for funding mechanisms, tax incentives, liability provisions, and changes in statutes and regulations necessary to facilitate the development of individual high-speed ground transportation systems and the completion of a nationwide high-speed ground transportation network;
 
 &emsp;(G) an examination of the effect of the construction and operation of high-speed ground transportation systems on regional employment and economic growth;
 
@@ -128,7 +128,7 @@ Section 7 of the Rail Safety Improvement Act of 1988, referred to in subsec. (d)
 
 #### Effective Date
 
-Section effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as an Effective Date of 1991 Amendment note under section 104 of Title 23, Highways.
+Section effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available afterSept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as an Effective Date of 1991 Amendment note under section 104 of Title 23, Highways.
 
 #### National Magnetic Levitation Prototype Development Program
 
@@ -136,7 +136,7 @@ Section 1036(b) of Pub. L. 102–240 provided that:
 
 “(1)
 
-Management of program.—There is hereby established a national magnetic levitation prototype development program to be managed by a program director appointed jointly by the Secretary and the Assistant Secretary of the Army for Civil Works (hereinafter in this subsection referred to as the ‘Assistant Secretary’). To carry out such program, the Secretary and the Assistant Secretary shall establish a national maglev joint project office (hereinafter in this subsection referred to as the ‘Maglev Project Office’), which shall be headed by the program director, and shall enter into such arrangements as may be necessary for funding, staffing, office space, and other requirements that will allow the Maglev Project Office tocarry out its functions. In carrying out such program, the program director shall consult with appropriate Federal officials, including the Secretary of Energy and the Administrator of the Environmental Protection Agency.
+Management of program.—There is hereby established a national magnetic levitation prototype development program to be managed by a program director appointed jointly by the Secretary and the Assistant Secretary of the Army for Civil Works (hereinafter in this subsection referred to as the ‘Assistant Secretary’). To carry out such program, the Secretary and the Assistant Secretary shall establish a national maglev joint project office (hereinafter in this subsection referred to as the ‘Maglev Project Office’), which shall be headed by the program director, and shall enter into such arrangements as may be necessary for funding, staffing, office space, and other requirements that will allow the Maglev Project Office to carry out its functions. In carrying out such program, the program director shall consult with appropriate Federal officials, including the Secretary of Energy and the Administrator of the Environmental Protection Agency.
 
 “(2)
 

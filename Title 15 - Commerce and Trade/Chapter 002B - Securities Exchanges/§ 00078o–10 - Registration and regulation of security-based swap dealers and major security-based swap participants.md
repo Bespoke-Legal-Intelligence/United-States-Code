@@ -74,7 +74,7 @@
 
 #### (A) Security-based swap dealers and major security-based swap participants that are banks
 
-&emsp;&emsp;Each registered security-based swap dealer and major security-based swap participant for which there is not a prudential regulator shall meet such minimum capital requirements and minimum initial and variation margin requirements as the prudential regulator shall by rule or regulation prescribe under paragraph (2)(A).
+&emsp;&emsp;Each registered security-based swap dealer and major security-based swap participantfor which there is not a prudential regulator shall meet such minimum capital requirements and minimum initial and variation margin requirements as the prudential regulator shall by rule or regulation prescribe under paragraph (2)(A).
 
 #### (B) Security-based swap dealers and major security-based swap participants that are not banks
 
@@ -118,7 +118,7 @@
 
 &emsp;&emsp;&emsp;Nothing in this section shall limit, or be construed to limit, the authority—
 
-&emsp;&emsp;&emsp;&emsp;(I) of the Commission to set financial responsibility rules for a broker or dealer registered pursuant to section 78<i>o</i>(b)of this title (except for section 78<i>o</i>(b)(11) thereof) in accordance with section 78<i>o</i>(c)(3) of this title; or
+&emsp;&emsp;&emsp;&emsp;(I) of the Commission to set financial responsibility rules for a broker or dealer registered pursuant to section 78<i>o</i>(b) of this title (except for section 78<i>o</i>(b)(11) thereof) in accordance with section 78<i>o</i>(c)(3) of this title; or
 
 &emsp;&emsp;&emsp;&emsp;(II) of the Commodity Futures Trading Commission to set financial responsibility rules for a futures commission merchant or introducing broker registered pursuant to section 4f(a) of the Commodity Exchange Act \[7 U.S.C. 6f(a)\] (except for section 4f(a)(3) \[7 U.S.C. 6f(a)(3)\] thereof) in accordance with section 4f(b) of the Commodity Exchange Act \[7 U.S.C. 6f(b)\].
 
@@ -192,7 +192,7 @@
 
 #### (1) In general
 
-&emsp;Each registered security-based swap dealer and major security-based swap participant shall conform with such business conduct standards as prescribed in paragraph (3) and asmay be prescribed by the Commission by rule or regulation that relate to—
+&emsp;Each registered security-based swap dealer and major security-based swap participant shall conform with such business conduct standards as prescribed in paragraph (3) and as may be prescribed by the Commission by rule or regulation that relate to—
 
 &emsp;&emsp;(A) fraud, manipulation, and other abusive practices involving security-based swaps (including security-based swaps that are offered but not entered into);
 
@@ -278,7 +278,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Any security-based swap dealer or major security-based swap participant that offersto or enters into a security-based swap with a special entity shall—
+&emsp;&emsp;Any security-based swap dealer or major security-based swap participant that offers to or enters into a security-based swap with a special entity shall—
 
 &emsp;&emsp;&emsp;(i) comply with any duty established by the Commission for a security-based swap dealer or major security-based swap participant, with respect to a counterparty that is an eligible contract participant within the meaning of subclause (I) or (II) of clause (vii) of section 1a(18) of the Commodity Exchange Act \[7 U.S.C. 1a(18)\], that requires the security-based swap dealer or major security-based swap participant to have a reasonable basis to believe that the counterparty that is a special entity has an independent representative that—
 
@@ -304,7 +304,7 @@
 
 #### (6) Rules
 
-&emsp;The Commission shall prescribe rules under this subsection governing business conduct standards for security-based swap dealers and major security-based swap participants.
+&emsp;The Commission shall prescribe rules under this subsection governing business conductstandards for security-based swap dealers and major security-based swap participants.
 
 #### (7) Applicability
 
@@ -448,7 +448,7 @@ Each registered security-based swap dealer and major security-based swap partici
 
 #### (ii) Violations of prudential requirements
 
-&emsp;&emsp;&emsp;If the Commission has cause to believe that a securities-based swap dealer ormajor securities-based swap participant that has a prudential regulator may have engaged in conduct that constitute <sup>3</sup> a violation of the prudential requirements of subsection (e) or rules adopted thereunder, the Commission may recommend in writing to the prudential regulator that the prudential regulator initiate an enforcement proceeding as authorized under this chapter. The recommendation shall be accompanied by a written explanation of the concerns giving rise to the recommendation.
+&emsp;&emsp;&emsp;If the Commission has cause to believe that a securities-based swap dealer or major securities-based swap participant that has a prudential regulator may have engaged in conduct that constitute <sup>3</sup> a violation of the prudential requirements of subsection (e) or rules adopted thereunder, the Commission may recommend in writing to the prudential regulator that the prudential regulator initiate an enforcement proceeding as authorized under this chapter. The recommendation shall be accompanied by a written explanation of the concerns giving rise to the recommendation.
 
 #### (D) Backstop enforcement authority
 
@@ -462,7 +462,7 @@ Each registered security-based swap dealer and major security-based swap partici
 
 #### (2) Censure, denial, suspension; notice and hearing
 
-&emsp;The Commission, by order, shall censure, place limitations on the activities, functions, or operations of, or revoke the registration of any security-based swap dealer or major security-based swap participant that has registered with the Commission pursuant to subsection (b) if the Commission finds, on the record after notice and opportunity for hearing, that such censure, placing of limitations, or revocation is in the public interest and that such security-based swap dealer or major security-based swap participant, or any person associated with such security-based swap dealer or major security-based swap participant effecting or involved in effecting transactions in security-based swaps on behalf of such security-based swap dealer or major security-based swap participant, whether prior or subsequent to becoming so associated—
+&emsp;The Commission, by order, shall censure, place limitations on the activities, functions, or operations of, or revoke the registration of any security-based swap dealer or major security-based swap participant that has registered with the Commission pursuant to subsection (b) if the Commission finds, on the record after notice and opportunity for hearing, that such censure, placing of limitations, or revocation is in the public interest and that such security-based swap dealer or major security-based swap participant, or any person associated with such security-based swap dealeror major security-based swap participant effecting or involved in effecting transactions in security-based swaps on behalf of such security-based swap dealer or major security-based swap participant, whether prior or subsequent to becoming so associated—
 
 &emsp;&emsp;(A) has committed or omitted any act, or is subject to an order or finding, enumerated in subparagraph (A), (D), or (E) of paragraph (4) of section 78<i>o</i>(b) of this title;
 

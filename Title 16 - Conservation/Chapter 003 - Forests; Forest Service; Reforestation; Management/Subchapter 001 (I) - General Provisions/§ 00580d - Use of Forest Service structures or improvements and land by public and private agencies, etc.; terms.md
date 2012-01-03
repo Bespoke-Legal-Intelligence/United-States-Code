@@ -10,7 +10,7 @@ The Secretary of Agriculture, under such regulations as he may prescribe and at 
 
 #### Forest Service Facility Realignment and Enhancement
 
-Pub. L. 109–54, title V, Aug. 2, 2005, 119 Stat. 559, as amended by Pub. L. 111–8, div. E, title IV, §422, Mar. 11, 2009, 123 Stat. 748, provided that:
+Pub. L. 109–54, title V, Aug. 2, 2005, 119 Stat. 559, as amended by Pub. L. 111–8, div. E, title IV, §422, Mar. 11, 2009, 123 Stat. 748; Pub. L. 112–74, div. E, title IV, §421, Dec. 23, 2011, 125 Stat. 1045, provided that:
 
 #### “SEC. 501. SHORT TITLE.
 
@@ -130,7 +130,7 @@ Notice of use of authority.—At least once a year, the Secretary shall submit t
 
 “(f)
 
-Duration of Authority.—The authority of the Secretary to initiate the conveyance of an administrative site under this title expires on September 30, 2011.
+Duration of Authority.—The authority of the Secretary to initiate the conveyance of an administrative site under this title expires on September 30, 2016.
 
 “(g)
 

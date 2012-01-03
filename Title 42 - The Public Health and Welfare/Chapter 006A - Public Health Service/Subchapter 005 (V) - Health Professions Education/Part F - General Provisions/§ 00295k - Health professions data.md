@@ -52,7 +52,7 @@ The Secretary shall submit to the Congress on October 1, 1993, and biennially th
 
 #### (3) Disclosure by Secretary
 
-&emsp;(A) Notwithstanding any other provision of law, personal data collected by the Secretary or any program entity under this section may not be made available or disclosed by the Secretary or any program entity to any person other than the individual who is the subject of such data unless (i) such person requires such data for purposes of this section, or (ii) in response to a demand for such data made by means of compulsory legal process. Any individual who is the subject of personal data made available or disclosed under clause (ii) shall be notified of the demand for such data.
+&emsp;(A) Notwithstanding any other provision of law, personal data collected by the Secretary or any program entity under this section may not be made available or disclosed by the Secretary or any program entity to any person other than the individual who is the subject ofsuch data unless (i) such person requires such data for purposes of this section, or (ii) in response to a demand for such data made by means of compulsory legal process. Any individual who is the subject of personal data made available or disclosed under clause (ii) shall be notified of the demand for such data.
 
 &emsp;(B) Subject to all applicable laws regarding confidentiality, only the data collected by the Secretary under this section which is not personal data shall be made available to bona fide researchers and policy analysts (including the Congress) for the purposes of assisting in the conduct of studies respecting health professions personnel.
 
@@ -62,7 +62,7 @@ The Secretary shall submit to the Congress on October 1, 1993, and biennially th
 
 #### (g) <sup>2</sup> Technical assistance
 
-The Secretary shall provide technical assistance to the States and political subdivisionsthereof in the development of systems (including model laws) concerning confidentiality and comparability of data collected pursuant to this section.
+The Secretary shall provide technical assistance to the States and political subdivisions thereof in the development of systems (including model laws) concerning confidentiality and comparability of data collected pursuant to this section.
 
 #### (h) Grants and contracts regarding nonprofit entities
 
@@ -112,7 +112,7 @@ Section 303 of Pub. L. 102–408 directed Secretary of Health and Human Services
 
 #### National Advisory Council on Medical Licensure
 
-Section 307 of Pub. L. 102–408 directed Secretary of Health and Human Services to establish National Advisory Council on Medical Licensure to advise Secretary on American Medical Association's system of verifying and maintaining information regarding qualifications of individuals to practice medicine, as well as advice regarding establishment and operation of any similar system, provided for activities of Council, including review of private credentials verification system and recommendations on how it could be improved, as well as review of State procedures for licensing individuals licensed in other States and procedures for licensing international medical graduates, provided for composition of Council and appointment of members, required submission of an interim report to Congress not later than Sept. 30, 1993, and a final report with recommendations not later than Sept. 30, 1995, provided for termination of Council not later than Sept. 30, 1995, or upon submission of final report, whichever is earlier, and further directed Secretary, in cooperation with Council to submit to Congress, not later than Sept. 30, 1994, study of not less than 10 States for purposes of determining average time required for States to process licensure applications of domestic and international medical graduates as well as percentages of domestic and international licensure applications approved.
+Section 307 of Pub. L. 102–408 directed Secretary of Health and Human Services to establish National Advisory Council on Medical Licensure to advise Secretary on American Medical Association's system of verifying and maintaining information regarding qualifications of individuals to practice medicine, as well as advice regarding establishment and operation of any similar system, provided for activities of Council, including review of private credentials verification system and recommendations on how it could be improved, as well asreview of State procedures for licensing individuals licensed in other States and procedures for licensing international medical graduates, provided for composition of Council and appointment of members, required submission of an interim report to Congress not later than Sept. 30, 1993, and a final report with recommendations not later than Sept. 30, 1995, provided for termination of Council not later than Sept. 30, 1995, or upon submission of final report, whichever is earlier, and further directed Secretary, in cooperation with Council to submit to Congress, not later than Sept. 30, 1994, study of not less than 10 States for purposes of determining average time required for States to process licensure applications of domestic and international medical graduates as well as percentages of domestic and international licensure applications approved.
 
 <i><sup>1</sup></i><i> So in original. No subsec. (c) has been enacted.</i>
 

@@ -40,9 +40,9 @@ To the maximum extent possible, the Secretaries and the Joint Commission shall s
 
 #### Amendments
 
-1996—Subsecs. (g), (h). Pub. L. 104–127 redesignated subsec. (h) as (g), and struck out former subsec. (g) which read as follows: “One year after November 4, 1978, and each year thereafter, the Joint Commission shall provide to the Congress a report on the implementation of the subchapter. Such report shall (1) recommend specific directions for further research, development, and other work, and (2) recommend funding levels for various elements of the overall project.”
+<b>1996</b>—Subsecs. (g), (h). Pub. L. 104–127 redesignated subsec. (h) as (g), and struck out former subsec. (g) which read as follows: “One year after November 4, 1978, and each year thereafter, the Joint Commission shall provide to the Congress a report on the implementation of the subchapter. Such report shall (1) recommend specific directions for further research, development, and other work, and (2) recommend funding levels for various elements of the overall project.”
 
-1984—Subsec. (a). Pub. L. 98–284, §4(a), substituted “Research and Development of Critical Agricultural Materials” for “Guayule Research and Commercialization”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–284, §4(a), substituted “Research and Development of Critical Agricultural Materials” for “Guayule Research and Commercialization”.
 
 Subsec. (b). Pub. L. 98–284, §4(b), struck out provision mandating that two of the designees of the Secretary of Commerce be Federal Cochairmen of Regional Commissions engaged in the support of native latex research, development, demonstration, or commercialization activities, inserted provisions for the appointment of a representative of the Department of State, a representative of the Department of Defense, and a representative of the Federal Emergency Management Agency, and inserted provisions that each of the members of the Joint Commission be an individual who, on behalf of the Department or agency which such individual represents, is engaged in the support of research, development, demonstration, and commercialization activities involving native latex and the production of other critical agricultural materials from native agricultural crops.
 

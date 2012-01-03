@@ -26,7 +26,7 @@
 
 #### (4) Temporary treatment for eligible aliens
 
-&emsp;(A) In the case of an alien who can establish a prima facie case of eligibility for benefitsunder paragraph (1), but for the fact that the period of registration under subsection (c)(1)(A)(iv) of this section has not begun, until the alien has had a reasonable opportunity to register during the first 30 days of such period, the Attorney General shall provide for the benefits of paragraph (1).
+&emsp;(A) In the case of an alien who can establish a prima facie case of eligibility for benefits under paragraph (1), but for the fact that the period of registration under subsection (c)(1)(A)(iv) of this section has not begun, until the alien has had a reasonable opportunity to register during the first 30 days of such period, the Attorney General shall provide for the benefits of paragraph (1).
 
 &emsp;(B) In the case of an alien who establishes a prima facie case of eligibility for benefits under paragraph (1), until a final determination with respect to the alien's eligibility for such benefits under paragraph (1) has been made, the alien shall be provided such benefits.
 
@@ -72,11 +72,11 @@
 
 #### (B) Termination of designation
 
-&emsp;&emsp;If the Attorney General determines under subparagraph (A) that a foreign state (or part of such foreign state) no longer continues to meet the conditions for designation under paragraph (1), the Attorney General shall terminate the designation by publishing notice in the Federal Register of the determination under this subparagraph (including the basis for the determination). Such termination is effective in accordance with subsection (d)(3) of this section, but shall not be effective earlier than 60 days after the date the notice is published or, if later, the expiration of the most recent previous extension under subparagraph (C).
+&emsp;&emsp;If the Attorney General determines under subparagraph (A) that a foreign state (orpart of such foreign state) no longer continues to meet the conditions for designation under paragraph (1), the Attorney General shall terminate the designation by publishing notice in the Federal Register of the determination under this subparagraph (including the basis for the determination). Such termination is effective in accordance with subsection (d)(3) of this section, but shall not be effective earlier than 60 days after the date the notice is published or, if later, the expiration of the most recent previous extension under subparagraph (C).
 
 #### (C) Extension of designation
 
-&emsp;&emsp;If the Attorney General does not determine under subparagraph (A) that a foreign state (or part of such foreign state) no longer meets the conditions for designationunder paragraph (1), the period of designation of the foreign state is extended for an additional period of 6 months (or, in the discretion of the Attorney General, a period of 12 or 18 months).
+&emsp;&emsp;If the Attorney General does not determine under subparagraph (A) that a foreign state (or part of such foreign state) no longer meets the conditions for designation under paragraph (1), the period of designation of the foreign state is extended for an additional period of 6 months (or, in the discretion of the Attorney General, a period of 12 or 18 months).
 
 #### (4) Information concerning protected status at time of designations
 
@@ -150,7 +150,7 @@
 
 #### (4) Treatment of brief, casual, and innocent departures and certain other absences
 
-&emsp;(A) For purposes of paragraphs (1)(A)(i) and (3)(B), an alien shall not be considered to havefailed to maintain continuous physical presence in the United States by virtue of brief, casual, and innocent absences from the United States, without regard to whether such absences were authorized by the Attorney General.
+&emsp;(A) For purposes of paragraphs (1)(A)(i) and (3)(B), an alien shall not be considered to have failed to maintain continuous physical presence in the United States by virtue of brief, casual, and innocent absences from the United States, without regard to whether such absences were authorized by the Attorney General.
 
 &emsp;(B) For purposes of paragraph (1)(A)(ii), an alien shall not be considered to have failed to maintain continuous residence in the United States by reason of a brief, casual, and innocent absence described in subparagraph (A) or due merely to a brief temporary trip abroad required by emergency or extenuating circumstances outside the control of the alien.
 
@@ -246,7 +246,7 @@ This chapter, referred to in subsec. (a)(5), was in the original, “this Act”
 
 #### Amendments
 
-1996—Subsec. (a)(1)(A). Pub. L. 104–208, §308(e)(11), substituted “remove” for “deport”.
+<b>1996</b>—Subsec. (a)(1)(A). Pub. L. 104–208, §308(e)(11), substituted “remove” for “deport”.
 
 Subsec. (a)(3)(B), (C). Pub. L. 104–208, §308(e)(1)(G), substituted “removal” for “deportation”.
 
@@ -258,11 +258,11 @@ Subsec. (e). Pub. L. 104–208, §308(g)(8)(A)(i), substituted “section 1229b(
 
 Pub. L. 104–208, §308(e)(11), amended heading.
 
-1994—Subsec. (c)(1)(B). Pub. L. 103–416, §219(z)(2), made technical correction to directory language of Pub. L. 102–232, §304(b)(2). See 1991 Amendment note below.
+<b>1994</b>—Subsec. (c)(1)(B). Pub. L. 103–416, §219(z)(2), made technical correction to directory language of Pub. L. 102–232, §304(b)(2). See 1991 Amendment note below.
 
 Subsec. (c)(2)(A)(iii)(III). Pub. L. 103–416, §219(j), substituted “paragraphs” for “Paragraphs” and “and (3)(E)” for “or (3)(E)”.
 
-1991—Subsec. (a)(1). Pub. L. 102–232, §304(b)(1), inserted parenthetical relating to alien having no nationality.
+<b>1991</b>—Subsec. (a)(1). Pub. L. 102–232, §304(b)(1), inserted parenthetical relating to alien having no nationality.
 
 Subsec. (c)(1)(A). Pub. L. 102–232, §304(b)(3), inserted parenthetical relating to alien having no nationality.
 
@@ -272,7 +272,7 @@ Subsec. (c)(2)(A)(iii)(I). Pub. L. 102–232, §307(<i>l</i>)(5)(A), substituted
 
 Subsec. (c)(2)(A)(iii)(III). Pub. L. 102–232, §307(<i>l</i>)(5)(B), amended subcl. (III) generally. Prior to amendment, subcl. (III) read as follows: “paragraphs (3) (relating to security and related grounds).”
 
-1990—Subsec. (c)(2)(A)(i). Pub. L. 101–649, §603(a)(24)(A), which directed the substitution of “(5) and (7)(A)” for “(14), (20), (21), (25), and (32)”, was executed by making the substitution for “(14), (15), (20), (21), (25), and (32)”, as the probable intent of Congress.
+<b>1990</b>—Subsec. (c)(2)(A)(i). Pub. L. 101–649, §603(a)(24)(A), which directed the substitution of “(5) and (7)(A)” for “(14), (20), (21), (25), and (32)”, was executed by making the substitution for “(14), (15), (20), (21), (25), and (32)”, as the probable intent of Congress.
 
 Subsec. (c)(2)(A)(iii)(I). Pub. L. 101–649, §603(a)(24)(B), which directed the substitution of “Paragraphs (2)(A) and (2)(B)” for “Paragraphs (9) and (10)”, could not be executed because the quoted language differed from the text. See 1991 Amendment note above.
 
@@ -288,7 +288,7 @@ Amendment by Pub. L. 104–208 effective, with certain transitional provisions, 
 
 #### Effective Date of 1994 Amendment
 
-Amendment by section 219(j) of Pub. L. 103–416 effective as if included in the enactment of the Immigration Act of 1990, Pub. L. 101–649, see section 219(dd) of Pub. L. 103–416, set out as a note under section 1101 of this title.
+Amendment by section 219(j) of Pub. L. 103–416 effective as if included in the enactment of the Immigration Act of 1990, Pub. L. 101–649, see section 219(dd) of Pub.L. 103–416, set out as a note under section 1101 of this title.
 
 Section 219(z) of Pub. L. 103–416 provided that the amendment made by subsec. (z)(2) of that section is effective as if included in the Miscellaneous and Technical Immigration and Naturalization Amendments of 1991, Pub. L. 102–232.
 
@@ -300,7 +300,7 @@ Section 307(<i>l</i>) of Pub. L. 102–232 provided that the amendment made by t
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 603(a)(24) of Pub. L. 101–649 applicable to individuals entering United States on orafter June 1, 1991, see section 601(e)(1) of Pub. L. 101–649, set out as a note under section 1101 of this title.
+Amendment by section 603(a)(24) of Pub. L. 101–649 applicable to individuals entering United States on or after June 1, 1991, see section 601(e)(1) of Pub. L. 101–649, set out as a note under section 1101 of this title.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

@@ -62,5 +62,5 @@ Subsec. (b). Pub. L. 106–65, §3162(b), inserted “are United States citizens
 
 Subsec. (c)(5) to (7). Pub. L. 106–65, §3162(c), added pars. (5) to (7).
 
-Subsec. (f). Pub. L. 106–65, §3162(d), amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “Of the funds authorized to be appropriated to the Department of Energy for fiscal year 1996 under section 3101(b), $10,000,000 may be used for the purpose of carrying out the fellowship program under this section.”
+Subsec. (f). Pub. L. 106–65, §3162(d), amended heading and text of subsec. (f) generally. Prior to amendment,text read as follows: “Of the funds authorized to be appropriated to the Department of Energy for fiscal year 1996 under section 3101(b), $10,000,000 may be used for the purpose of carrying out the fellowship program under this section.”
 

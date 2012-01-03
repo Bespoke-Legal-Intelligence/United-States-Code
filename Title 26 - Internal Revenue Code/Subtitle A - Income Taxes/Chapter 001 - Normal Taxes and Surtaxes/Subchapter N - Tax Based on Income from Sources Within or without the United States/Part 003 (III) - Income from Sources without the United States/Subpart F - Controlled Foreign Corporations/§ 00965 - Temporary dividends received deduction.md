@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) such controlled foreign corporation from another controlled foreign corporation that is in a chain of ownership described in section 958(a), or
 
-&emsp;&emsp;(B) any other controlled foreign corporation in such chain of ownership from another controlled foreign corporation in such chain of ownership, but only to the extent of cash distributions described in section 959(b)which are made during such taxable year to the controlled foreign corporation from which such United States shareholder received such distribution.
+&emsp;&emsp;(B) any other controlled foreign corporation in such chain of ownership from another controlled foreign corporation in such chain of ownership, but only to the extent of cash distributions described in section 959(b) which are made during such taxable year to the controlled foreign corporation from which such United States shareholder received such distribution.
 
 #### (b) Limitations
 
@@ -60,7 +60,7 @@
 
 &emsp;&emsp;(A) is approved by the taxpayer's president, chief executive officer, or comparable official before the payment of such dividend and subsequently approved by the taxpayer's board of directors, management committee, executive committee, or similar body, and
 
-&emsp;&emsp;(B) provides for the reinvestment of such dividend in the United States (other than as payment for executive compensation), including as a source for the funding of worker hiring and training, infrastructure, research and development, capital investments, or the financial stabilization of the corporation for the purposes of job retention or creation.
+&emsp;&emsp;(B) provides for the reinvestment of such dividend in the United States (other than aspayment for executive compensation), including as a source for the funding of worker hiring and training, infrastructure, research and development, capital investments, or the financial stabilization of the corporation for the purposes of job retention or creation.
 
 #### (c) Definitions and special rules
 
@@ -142,7 +142,7 @@ For purposes of this section—
 
 #### (C) Permanently reinvested earnings
 
-&emsp;&emsp;If a financial statement is an applicable financial statement for more than 1 United States shareholder, the amount applicable under subparagraph (B) or (C) of subsection (b)(1) shall be divided among such shareholders under regulations prescribed by the Secretary.
+&emsp;&emsp;If a financial statement is an applicable financial statement for more than 1 UnitedStates shareholder, the amount applicable under subparagraph (B) or (C) of subsection (b)(1) shall be divided among such shareholders under regulations prescribed by the Secretary.
 
 #### (d) Denial of foreign tax credit; denial of certain expenses
 

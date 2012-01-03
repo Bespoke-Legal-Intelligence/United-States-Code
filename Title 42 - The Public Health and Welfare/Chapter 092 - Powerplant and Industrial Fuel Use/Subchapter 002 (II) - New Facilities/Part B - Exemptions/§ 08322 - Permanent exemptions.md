@@ -84,7 +84,7 @@ Subsec. (h). Pub. L. 100–42, §1(c)(6)(H), struck out subsec. (h) which relate
 
 Subsec. (i). Pub. L. 100–42, §1(c)(6)(H), struck out subsec. (i) which related to issuance, by order of Secretary of Energy, of permanent exemptions for use of natural gas or petroleum for installations based upon product or process requirements.
 
-Subsec. (j). Pub. L. 100–42, §1(c)(6)(H), struck out subsec. (j) which related to issuance, by order of Secretary of Energy, of permanent exemptions for use of naturalgas or petroleum for installations necessary to meet scheduled equipment outages.
+Subsec. (j). Pub. L. 100–42, §1(c)(6)(H), struck out subsec. (j) which related to issuance, by order of Secretary of Energy, of permanent exemptions for use of natural gas or petroleum for installations necessary to meet scheduled equipment outages.
 
 #### Exemption for Certain Electric Powerplants as Effective Prior to 180 Days After November 9, 1978
 

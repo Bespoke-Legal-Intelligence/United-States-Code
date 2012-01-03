@@ -6,9 +6,21 @@
 
 (c) A determination by the Director pursuant to subsection (a) of this section that no substantial new question of patentability has been raised will be final and nonappealable. Upon such a determination, the Director may refund a portion of the reexamination fee required under section 302 of this title.
 
-(Added Pub. L. 96–517, §1, Dec. 12, 1980, 94 Stat. 3015; amended Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(9)(A), (10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §§13105(a), 13206(b)(1), Nov. 2, 2002, 116 Stat. 1900, 1905, 1906.)
+(Added Pub. L. 96–517, §1, Dec. 12, 1980, 94 Stat. 3015; amended Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(9)(A), (10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §§13105(a), 13206(b)(1), Nov. 2, 2002, 116 Stat. 1900, 1905, 1906; Pub. L. 112–29, §§6(h)(1)(A), 20(j), Sept. 16, 2011, 125 Stat. 312, 335.)
+
+#### Amendment of Section
+
+<i>Pub. L. 112–29, §20(j), (l), Sept. 16, 2011, 125 Stat. 335, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, this section is amended by striking “of this title” each place that term appears. See 2011 Amendment notes below.</i>
+
+<i>Pub. L. 112–29, §6(h)(1), Sept. 16, 2011, 125 Stat. 312, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to any patent issued before, on, or after that effective date, subsection (a) of this section is amended by striking “section 301 of this title” and inserting “section 301 or 302”. See 2011 Amendment note below.</i>
 
 #### Amendments
+
+<b>2011</b>—Subsec. (a). Pub. L. 112–29, §20(j), struck out “of this title” after “section 302”.
+
+Pub. L. 112–29, §6(h)(1)(A), substituted “section 301 or 302” for “section 301 of this title”.
+
+Subsec. (c). Pub. L. 112–29, §20(j), struck out “of this title” after “section 302”.
 
 <b>2002</b>—Subsec. (a). Pub. L. 107–273, §13206(b)(1)(B), made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\]. See 1999 Amendment note below.
 
@@ -25,6 +37,12 @@ Subsec. (a). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], as 
 Subsec. (b). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(9)(A)(ii)\], as amended by Pub. L. 107–273, §13206(b)(1)(A), substituted “Director's” for “Commissioner's”.
 
 Subsec. (c). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], as amended by Pub. L. 107–273, §13206(b)(1)(B), substituted “Director” for “Commissioner” in two places.
+
+#### Effective Date of 2011 Amendment
+
+Pub. L. 112–29, §6(h)(1)(B), Sept. 16, 2011, 125 Stat. 312, provided that: “The amendment made by this paragraph \[amending this section\] shall take effect upon the expiration of the 1-year period beginning on the date of the enactment of this Act \[Sept. 16, 2011\] and shall apply to any patent issued before, on, or after that effective date.”
+
+Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(<i>l</i>) of Pub. L. 112–29, set out as a note under section 2 of this title.
 
 #### Effective Date of 2002 Amendment
 

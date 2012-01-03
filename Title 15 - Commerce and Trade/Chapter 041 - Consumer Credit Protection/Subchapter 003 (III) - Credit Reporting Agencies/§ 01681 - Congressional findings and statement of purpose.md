@@ -54,7 +54,7 @@ Study Required.—The Commission and the Board, in consultation with the Office 
 
 “(b)
 
-Public Participation.—The Commission shall seek public input about the prescribed methodology and research design of the study described in subsection (a), including from relevant Federal regulators, State insurance regulators, community, civil rights, consumer, and housing groups.
+Public Participation.—The Commission shall seek public input about the prescribed methodologyand research design of the study described in subsection (a), including from relevant Federal regulators, State insurance regulators, community, civil rights, consumer, and housing groups.
 
 “(c)
 

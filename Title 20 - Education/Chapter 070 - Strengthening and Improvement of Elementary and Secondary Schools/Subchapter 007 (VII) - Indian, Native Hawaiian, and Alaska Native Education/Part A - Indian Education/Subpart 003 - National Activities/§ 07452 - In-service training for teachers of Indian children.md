@@ -22,7 +22,7 @@ In addition to the grants authorized by section 7442(c) of this title, the Secre
 
 #### (2) Components
 
-&emsp;The training described in paragraph (1) shall include such activities as preparing teachers to use the best available scientifically based research practices and learning strategies, and to make the most effective use of curricula and materials, to respond to the unique needs of Indian children in their classrooms.
+&emsp;The training described in paragraph (1) shall include such activities as preparing teachers to use the best available scientifically based research practices and learning strategies, andto make the most effective use of curricula and materials, to respond to the unique needs of Indian children in their classrooms.
 
 #### (c) Preference for Indian applicants
 

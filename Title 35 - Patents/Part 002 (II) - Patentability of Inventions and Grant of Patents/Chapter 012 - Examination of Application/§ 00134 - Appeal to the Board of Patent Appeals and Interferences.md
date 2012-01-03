@@ -10,9 +10,27 @@ Patent Owner.—A patent owner in any reexamination proceeding may appeal from t
 
 (c)
 
-Third-Party.—A third-party requester in an inter partes proceeding may appeal to theBoard of Patent Appeals and Interferences from the final decision of the primary examiner favorable to the patentability of any original or proposed amended or new claim of a patent, having once paid the fee for such appeal.
+Third-Party.—A third-party requester in an inter partes proceeding may appeal to the Board of Patent Appeals and Interferences from the final decision of the primary examiner favorable to the patentability of any original or proposed amended or new claim of a patent, having once paid the fee for such appeal.
 
-(July 19, 1952, ch. 950, 66 Stat. 801; Pub. L. 98–622, title II, §204(b)(1), Nov. 8, 1984, 98 Stat. 3388; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4605(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–570; Pub. L. 107–273, div. C, title III, §§13106(b), 13202(b)(1), Nov. 2, 2002, 116 Stat. 1901.)
+(July 19, 1952, ch. 950, 66 Stat. 801; Pub. L. 98–622, title II, §204(b)(1), Nov. 8, 1984, 98 Stat. 3388; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4605(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–570; Pub. L. 107–273, div. C, title III, §§13106(b), 13202(b)(1), Nov. 2, 2002, 116 Stat. 1901; Pub. L. 112–29, §§3(j)(1), (3), 7(b), Sept. 16, 2011, 125 Stat. 290, 313.)
+
+#### Amendment of Section
+
+<i>Pub. L. 112–29, §7(b), (e), Sept. 16, 2011, 125 Stat. 313, 315, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, with certain exceptions, this section is amended:</i>
+
+<i>(1) in subsection (b), by striking “any reexamination proceeding” and inserting “a reexamination”; and</i>
+
+<i>(2) by striking subsection (c).</i>
+
+<i>See 2011 Amendment notes below.</i>
+
+<i>Pub. L. 112–29, §3(j)(1), (3), (n), Sept. 16, 2011, 125 Stat. 290, 293, provided that, effective upon the expiration of the 18-month period beginning on Sept. 16, 2011, and applicable to certain applications for patent and any patents issuing thereon, this section is amended by:</i>
+
+<i>(1) striking “Board of Patent Appeals and Interferences” each place it appears and inserting “Patent Trial and Appeal Board”; and</i>
+
+<i>(2) amending the section catchline to read as follows: “Appeal to the Patent Trial and Appeal Board”.</i>
+
+<i>See 2011 Amendment notes below.</i>
 
 #### Historical and Revision Notes
 
@@ -21,6 +39,16 @@ Based on Title 35, U.S.C., 1946 ed., §57 (R.S. 4909 amended (1) Mar. 2, 1927, c
 Reference to reissues is omitted in view of the general provision in section 251. Minor changes in language are made.
 
 #### Amendments
+
+<b>2011</b>—Pub. L. 112–29, §3(j)(3), amended section catchline generally. Prior to amendment, section catchline read as follows: “Appeal to the Board of Patent Appeals and Interferences”.
+
+Subsec. (a). Pub. L. 112–29, §3(j)(1), substituted “Patent Trial and Appeal Board” for “Board of Patent Appeals and Interferences”.
+
+Subsec. (b). Pub. L. 112–29, §7(b)(1), substituted “a reexamination” for “any reexamination proceeding”.
+
+Pub. L. 112–29, §3(j)(1), substituted “Patent Trial and Appeal Board” for “Board of Patent Appeals and Interferences”.
+
+Subsec. (c). Pub. L. 112–29, §7(b)(2), struck out subsec. (c). Prior to amendment, text read as follows: “A third-party requester in an inter partes proceeding may appeal to the Board of Patent Appeals and Interferences from the final decision of the primary examiner favorable to the patentability of any original or proposed amended or new claim of a patent, having once paid the fee for such appeal.”
 
 <b>2002</b>—Subsecs. (a), (b). Pub. L. 107–273, §13202(b)(1), substituted “primary examiner” for “administrative patent judge”.
 
@@ -31,6 +59,12 @@ Pub. L. 107–273, §13106(b), struck out at end “The third-party requester ma
 <b>1999</b>—Pub. L. 106–113 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “An applicant for a patent, any of whose claims has been twice rejected, may appeal from the decision of the primary examiner to the Board of Patent Appeals and Interferences, having once paid the fee for such appeal.”
 
 <b>1984</b>—Pub. L. 98–622 substituted “Patent Appeals and Interferences” for “Appeals” in section catchline and text.
+
+#### Effective Date of 2011 Amendment
+
+Amendment by section 3(j)(1), (3) of Pub. L. 112–29 effective upon the expiration of the 18-month period beginning on Sept. 16, 2011, and applicable to certain applications for patent and any patents issuing thereon, see section 3(n) of Pub. L. 112–29, set out as an Effective Date of 2011 Amendment; Savings Provisions note under section 100 of this title.
+
+Amendment by section 7(b) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, with certain exceptions, see section 7(e) of Pub. L. 112–29, set out as a note under section 6 of this title.
 
 #### Effective Date of 2002 Amendment
 

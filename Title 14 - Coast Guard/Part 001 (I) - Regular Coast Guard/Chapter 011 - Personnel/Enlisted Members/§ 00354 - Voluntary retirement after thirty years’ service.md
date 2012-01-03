@@ -14,7 +14,7 @@ The authority to approve was granted to the Commandant in lieu of the Secretary.
 
 #### Amendments
 
-1986—Pub. L. 99–348 struck out “, with retired pay of the grade or rating with which retired” after “active service”.
+<b>1986</b>—Pub. L. 99–348 struck out “, with retired pay of the grade or rating with which retired” after “active service”.
 
-1984—Pub. L. 98–557 substituted reference to enlisted member for reference to enlisted man.
+<b>1984</b>—Pub. L. 98–557 substituted reference to enlisted member for reference to enlisted man.
 

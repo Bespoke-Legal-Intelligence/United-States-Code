@@ -10,7 +10,7 @@ In addition to any other action taken by a State or local government, when the P
 
 (2)(A) Any person who receives and complies with the terms of any order issued under subsection (a) of this section may, within 60 days after completion of the required action, petition the President for reimbursement from the Fund for the reasonable costs of such action, plus interest. Any interest payable under this paragraph shall accrue on the amounts expended from the date of expenditure at the same rate as specified for interest on investments of the Hazardous Substance Superfund established under subchapter A of chapter 98 of title 26.
 
-(B) If the President refuses to grant all or part of a petition made under this paragraph, the petitioner may within 30 days of receipt of such refusal file an action against the President in the appropriate United States district court seeking reimbursement from the Fund.
+(B) If the President refuses to grant all or part of a petition made under this paragraph, the petitioner may within 30 days of receipt of such refusal file an action against the President in theappropriate United States district court seeking reimbursement from the Fund.
 
 (C) Except as provided in subparagraph (D), to obtain reimbursement, the petitioner shall establish by a preponderance of the evidence that it is not liable for response costs under section 9607(a) of this title and that costs for which it seeks reimbursement are reasonable in light of the action required by the relevant order.
 

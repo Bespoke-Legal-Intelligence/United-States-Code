@@ -40,7 +40,7 @@ Subsec. (e). Pub. L. 94–433, §405(3), substituted “such person's” for “
 
 <b>1969</b>—Pub. L. 91–96 substituted “Determination of pay grade” for “Computation of basic pay” in section catchline.
 
-Subsec. (a). Pub. L. 91–96 substituted provisions determining the pay grade of a veteran who died in the active service for provisions determining the basic pay of a veteran who died in the active service as that prescribed on Jan. 1, 1957, or on the date of his death (whichever is the later date) for a member of a uniformed service on active duty of the same rank and years of service.
+Subsec. (a). Pub. L. 91–96 substituted provisions determining the pay grade of a veteran who died in the active service for provisions determining the basic pay of a veteran who died in the active service as that prescribed on Jan. 1, 1957, or on the date of his death\(whichever is the later date) for a member of a uniformed service on active duty of the same rank and years of service.
 
 Subsec. (b). Pub. L. 91–96 substituted provisions determining the pay grade of a veteran who did not die in the active service for provisions determining the basic pay of a veteran who did not die in the active service as that prescribed on Jan. 1, 1957, or on the date of his death (whichever is the later date) for a member of a uniformed service on active duty of the same rank and years of service.
 
@@ -64,7 +64,7 @@ Section 3 of Pub. L. 92–169 provided that: “For the purposes of chapter 13 o
 
 #### Effective Date of 1969 Amendment
 
-Section 8 of Pub. L. 91–96 provided that: “This Act \[amending this section and sections 322 \[now 1122\], 401\[now 1301\], 403, 411 \[now 1311\], and 421 \[now 1321\] of this title\] shall take effect on the first day of the second calendar month which begins after the date of enactment \[Oct. 27, 1969\].”
+Section 8 of Pub. L. 91–96 provided that: “This Act \[amending this section and sections 322 \[now 1122\], 401 \[now 1301\], 403, 411 \[now 1311\], and 421 \[now 1321\] of this title\] shall take effect on the first day of the second calendar month which begins after the date of enactment \[Oct. 27, 1969\].”
 
 #### Effective Date of 1966 Amendment
 

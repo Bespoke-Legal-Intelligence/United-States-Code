@@ -72,7 +72,7 @@ Sec. 2. <i>Responsibilities of Federal Departments and Agencies</i>. (a) Tobacco
 
 Sec. 3. <i>General</i>. (a) Executive departments and agencies shall carry out the provisions of this order to the extent permitted by law and consistent with their statutory and regulatory authorities and their enforcement mechanisms.
 
-(b) This order clarifies and strengthens Administration policy and does not create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its officers or employees, or any other person.
+(b) This order clarifies and strengthens Administration policy and does not create any right or benefit,substantive or procedural, enforceable at law by a party against the United States, its officers or employees, or any other person.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

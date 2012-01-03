@@ -60,7 +60,7 @@ Conditions for Receipt of Funds.—(1) The distribution and use of funds under s
 
 &emsp;(iv) Such additional information as the Secretary may require to make a determination with respect to awarding a grant or contract to the State.
 
-(B)(i) Subject to the succeeding provisions of this subparagraph, of the amount available under subsection (b)(5) for a fiscal year, the Secretary shall make available to each State with an application approved by the Secretary an amount of funding in proportion to the number of veterans seeking employment using such criteria as the Secretary may establish in regulation, including civilian labor force and unemployment data, for the State on an annual basis. The proportion of funding shall reflect the ratio of—
+(B)(i) Subject to the succeeding provisions of this subparagraph, of the amount availableunder subsection (b)(5) for a fiscal year, the Secretary shall make available to each State with an application approved by the Secretary an amount of funding in proportion to the number of veterans seeking employment using such criteria as the Secretary may establish in regulation, including civilian labor force and unemployment data, for the State on an annual basis. The proportion of funding shall reflect the ratio of—
 
 &emsp;(I) the total number of veterans residing in the State that are seeking employment; to
 
@@ -114,7 +114,7 @@ Regional Administrators.—(1) The Secretary shall assign to each region for whi
 
 (f)
 
-Establishment of Performance Standards and Outcomes Measures.—(1) The Assistant Secretary of Labor for Veterans’ Employment and Training shall establish and implement a comprehensive performance accountability system to measure the performance of employment service delivery systems, including disabled veterans’ outreach program specialists and local veterans’ employment representatives providing employment, training, and placement services under this chapter in a State to provide accountability of that State to the Secretary for purposes of subsection (c).
+Establishment of Performance Standards and Outcomes Measures.—(1) The Assistant Secretary of Labor for Veterans’ Employment and Training shall establish and implement a comprehensive performance accountability system to measure the performance of employment service delivery systems, includingdisabled veterans’ outreach program specialists and local veterans’ employment representatives providing employment, training, and placement services under this chapter in a State to provide accountability of that State to the Secretary for purposes of subsection (c).
 
 (2) Such standards and measures shall—
 
@@ -126,7 +126,19 @@ Establishment of Performance Standards and Outcomes Measures.—(1) The Assistan
 
 Authority to Provide Technical Assistance to States.—The Secretary may provide such technical assistance as the Secretary determines appropriate to any State that the Secretary determines has, or may have, an entered-employment rate in the State that is deficient, as determined under subsection (c)(3) with respect to a program year, including assistance in the development of a corrective action plan under that subsection.
 
-(Added Pub. L. 94–502, title VI, §601(b)(1), Oct. 15, 1976, 90 Stat. 2404, §2002A; amended Pub. L. 96–466, title V, §504(a)(3), (4), Oct. 17, 1980, 94 Stat. 2203; Pub. L. 97–306, title III, §303, Oct. 14, 1982, 96 Stat. 1437; Pub. L. 98–160, title VII, §702(15), Nov. 21, 1983, 97 Stat. 1010; Pub. L. 100–323, §§2(a), (e)(3)(A), 15(a)(2), (b)(1), May 20, 1988, 102 Stat. 556, 559, 574; Pub. L. 101–237, title IV, §423(b)(8)(A), Dec. 18, 1989, 103 Stat. 2093; renumbered §4102A and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–446, title VII, §701(a), title XII, §1201(a)(4), Nov. 2, 1994, 108 Stat. 4674, 4682; Pub. L. 104–275, title III, §301, Oct. 9, 1996, 110 Stat. 3332; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(29)(A), (f)(21)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–424, 2681–432; Pub. L. 105–368, title X, §1005(b)(13), Nov. 11, 1998, 112 Stat. 3365; Pub. L. 107–288, §4(a)(1), Nov. 7, 2002, 116 Stat. 2038; Pub. L. 108–183, title VII, §708(b)(1)(A), (2), Dec. 16, 2003, 117 Stat. 2673; Pub. L. 109–233, title II, §201, title V, §503(11), June 15, 2006, 120 Stat. 402, 416; Pub. L. 109–461, title VI, §601(a), (b), Dec. 22, 2006, 120 Stat. 3436; Pub. L. 111–275, title I, §103(a), title X, §1001(k), Oct. 13, 2010, 124 Stat. 2866, 2897.)
+(h)
+
+Consolidation of Disabled Veterans’ Outreach Program Specialists and Veterans’ Employment Representatives.—The Secretary may allow the Governor of a State receiving funds under subsection (b)(5) to support specialists and representatives as described in such subsection to consolidate the functions of such specialists and representatives if—
+
+&emsp;(1) the Governor determines, and the Secretary concurs, that such consolidation—
+
+&emsp;&emsp;(A) promotes a more efficient administration of services to veterans with a particular emphasis on services to disabled veterans; and
+
+&emsp;&emsp;(B) does not hinder the provision of services to veterans and employers; and
+
+(2) the Governor submits to the Secretary a proposal therefor at such time, in such manner, and containing such information as the Secretary may require.
+
+(Added Pub. L. 94–502, title VI, §601(b)(1), Oct. 15, 1976, 90 Stat. 2404, §2002A; amended Pub. L. 96–466, title V, §504(a)(3), (4), Oct. 17, 1980, 94 Stat. 2203; Pub. L. 97–306, title III, §303, Oct. 14, 1982, 96 Stat. 1437; Pub. L. 98–160, title VII, §702(15), Nov. 21, 1983, 97 Stat. 1010; Pub. L. 100–323, §§2(a), (e)(3)(A), 15(a)(2), (b)(1), May 20, 1988, 102 Stat. 556, 559, 574; Pub. L. 101–237, title IV, §423(b)(8)(A), Dec. 18, 1989, 103 Stat. 2093; renumbered §4102A and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–446, title VII, §701(a), title XII, §1201(a)(4), Nov. 2, 1994, 108 Stat. 4674, 4682; Pub. L. 104–275, title III, §301, Oct. 9, 1996, 110 Stat. 3332; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(29)(A), (f)(21)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–424, 2681–432; Pub. L. 105–368, title X, §1005(b)(13), Nov. 11, 1998, 112 Stat. 3365; Pub. L. 107–288, §4(a)(1), Nov. 7, 2002, 116 Stat. 2038; Pub. L. 108–183, title VII, §708(b)(1)(A), (2), Dec. 16, 2003, 117 Stat. 2673; Pub. L. 109–233, title II, §201, title V, §503(11), June 15, 2006, 120 Stat. 402, 416; Pub. L. 109–461, title VI, §601(a), (b), Dec. 22, 2006, 120 Stat. 3436; Pub. L. 111–275, title I, §103(a), title X, §1001(k), Oct. 13, 2010, 124 Stat. 2866, 2897; Pub. L. 112–56, title II, §241(c), Nov. 21, 2011, 125 Stat. 728.)
 
 #### References in Text
 
@@ -134,9 +146,11 @@ The Jobs for Veterans Act, referred to in subsec. (c)(2)(B)(ii), is Pub. L. 107�
 
 The Workforce Investment Act of 1998, referred to in subsecs. (c)(6) and (d), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. Section 136(b) of the Act is classified to section 2871(b) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
-The Wagner-Peyser Act, referred to in subsec. (c)(6), is act June 6, 1933, ch. 49, 48 Stat. 113, as amended, which is classified generally to chapter 4B (§49 et seq.) of Title 29, Labor. For complete classification of thisAct to the Code, see Short Title note set out under section 49 of Title 29 and Tables.
+The Wagner-Peyser Act, referred to in subsec. (c)(6), is act June 6, 1933, ch. 49, 48 Stat. 113, as amended, which is classified generally to chapter 4B (§49 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 49 of Title 29 and Tables.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (h). Pub. L. 112–56 added subsec. (h).
 
 <b>2010</b>—Subsec. (b)(8). Pub. L. 111–275, §1001(k), substituted “Employment, Training” for “Employment and Training”.
 
@@ -228,7 +242,7 @@ Pub. L. 108–183, title VII, §708(b)(1)(B), Dec. 16, 2003, 117 Stat. 2673, pro
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–288, §4(a)(4), Nov. 7, 2002, 116 Stat. 2042, provided that: “The amendments made by this subsection \[amending this section and sections 4103 and 4107 of this title and repealing section 4104A of this title\] shall take effect on the date of the enactment ofthis Act \[Nov. 7, 2002\], and apply for program and fiscal years under chapter 41 of title 38, United States Code, beginning on or after such date.”
+Pub. L. 107–288, §4(a)(4), Nov. 7, 2002, 116 Stat. 2042, provided that: “The amendments made by this subsection \[amending this section and sections 4103 and 4107 of this title and repealing section 4104A of this title\] shall take effect on the date of the enactment of this Act \[Nov. 7, 2002\], and apply for program and fiscal years under chapter 41 of title 38, United States Code, beginning on or after such date.”
 
 #### Effective Date of 1998 Amendment
 

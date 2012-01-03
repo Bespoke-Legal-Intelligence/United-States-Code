@@ -72,7 +72,7 @@ Section 557a of former Title 5, Executive Departments and Government Officers an
 
 #### Amendments
 
-1976—Subsec. (d). Pub. L. 94–409 added subsec. (d).
+<b>1976</b>—Subsec. (d). Pub. L. 94–409 added subsec. (d).
 
 #### Effective Date of 1976 Amendment
 

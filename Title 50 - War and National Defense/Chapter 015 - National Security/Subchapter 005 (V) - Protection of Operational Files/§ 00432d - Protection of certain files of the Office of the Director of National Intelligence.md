@@ -56,7 +56,7 @@ The provisions of this section may not be superseded except by a provision of la
 
 #### (f) Allegation; improper withholding of records; judicial review
 
-(1) Except as provided in paragraph (2), whenever any person who has requested agency records under section 552 of title 5 alleges that the Office has withheld records improperly because of failure to comply with any provision of this section, judicial review shall be available under the terms set forth in section 552(a)(4)(B) of title 5.
+(1) Except as provided in paragraph (2), whenever any person who has requested agency records under section 552 of title 5 alleges that the Office has withheld records improperly because of failure to comply with any provision ofthis section, judicial review shall be available under the terms set forth in section 552(a)(4)(B) of title 5.
 
 (2) Judicial review shall not be available in the manner provided for under paragraph (1) as follows:
 
@@ -72,7 +72,7 @@ The provisions of this section may not be superseded except by a provision of la
 
 &emsp;(E) If the court finds under this subsection that the Office has improperly withheld requested records because of failure to comply with any provision of this section, the court shall order the Office to search and review each appropriate exempted file for the requested records and make such records, or portions thereof, available in accordance with the provisions of section 552 of title 5 (commonly referred to as the Freedom of Information Act), and such order shall be the exclusive remedy for failure to comply with this section.
 
-&emsp;(F) If at any time following the filing of a complaint pursuant to this paragraph the Office agrees to search each appropriate exempted file for the requested records, the courtshall dismiss the claim based upon such complaint.
+&emsp;(F) If at any time following the filing of a complaint pursuant to this paragraph the Office agrees to search each appropriate exempted file for the requested records, the court shall dismiss the claim based upon such complaint.
 
 #### (g) Definitions
 

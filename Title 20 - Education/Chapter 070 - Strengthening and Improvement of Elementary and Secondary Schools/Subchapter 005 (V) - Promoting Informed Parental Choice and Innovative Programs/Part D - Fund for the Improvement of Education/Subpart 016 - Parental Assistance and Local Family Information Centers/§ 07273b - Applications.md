@@ -20,7 +20,7 @@ Each application submitted under subsection (a) of this section, at a minimum, s
 
 &emsp;&emsp;(C) representatives of local elementary schools and secondary schools, including students and representatives from local youth organizations;
 
-&emsp;(3) use at least 50 percent of the funds received under this subpart in each fiscal year toserve areas with high concentrations of low-income families, in order to serve parents who are severely educationally or economically disadvantaged;
+&emsp;(3) use at least 50 percent of the funds received under this subpart in each fiscal year to serve areas with high concentrations of low-income families, in order to serve parents who are severely educationally or economically disadvantaged;
 
 &emsp;(4) operate a center of sufficient size, scope, and quality to ensure that the center is adequate to serve the parents in the area;
 

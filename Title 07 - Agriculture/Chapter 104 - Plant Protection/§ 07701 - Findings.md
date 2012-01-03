@@ -6,7 +6,7 @@ Congress finds that—
 
 &emsp;(2) biological control is often a desirable, low-risk means of ridding crops and other plants of plant pests and noxious weeds, and its use should be facilitated by the Department of Agriculture, other Federal agencies, and States whenever feasible;
 
-&emsp;(3) it is the responsibility of the Secretary to facilitate exports, imports, and interstate commerce in agricultural products and other commodities that pose a risk of harboring plant pests or noxious weeds in ways that will reduce, to the extent practicable, as determined by the Secretary, the risk of dissemination of plant pests or noxious weeds;
+&emsp;(3) it is the responsibility of the Secretary to facilitate exports, imports, and interstatecommerce in agricultural products and other commodities that pose a risk of harboring plant pests or noxious weeds in ways that will reduce, to the extent practicable, as determined by the Secretary, the risk of dissemination of plant pests or noxious weeds;
 
 &emsp;(4) decisions affecting imports, exports, and interstate movement of products regulated under this chapter shall be based on sound science;
 
@@ -98,7 +98,7 @@ Consideration.—In carrying out subsection (a), the Secretary shall consider—
 
 &emsp;&emsp;“(G) to submit reports as the Secretary considers to be appropriate.”
 
-\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a)of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
+\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
 
 <i><sup>1</sup></i><i> So in original.</i>
 

@@ -2,7 +2,7 @@
 
 (a)
 
-General Penalties.—(1) A person that the Secretary of Transportation decides, after written notice and an opportunity for a hearing, has violated section 60114(b), 60114(d), or 60118(a) of this title or a regulation prescribed or order issued under this chapter is liable to the United States Government for a civil penalty of not more than $100,000 for each violation. A separate violation occurs for each day the violation continues. The maximum civil penalty under this paragraph for a related series of violations is $1,000,000.
+General Penalties.—(1) A person that the Secretary of Transportation decides, after written notice and an opportunity for a hearing, has violated section 60114(b), 60114(d), or 60118(a) of this title or a regulation prescribed or order issued under this chapter is liable to the United States Government for a civil penalty of not more than $200,000 for each violation. A separate violation occurs for each day the violation continues. The maximum civil penalty under this paragraph for a related series of violations is $2,000,000.
 
 (2) A person violating a standard or order under section 60103 or 60111 of this title is liable to the Government for a civil penalty of not more than $50,000 for each violation. A penalty under this paragraph may be imposed in addition to penalties imposed under paragraph (1) of this subsection.
 
@@ -16,7 +16,7 @@ Penalty Considerations.—In determining the amount of a civil penalty under thi
 
 &emsp;&emsp;(A) the nature, circumstances, and gravity of the violation, including adverse impact on the environment;
 
-&emsp;&emsp;(B) with respect to the violator, the degree of culpability, any history of prior violations, the ability to pay, and any effect on ability to continue doing business; and
+&emsp;&emsp;(B) with respect to the violator, the degree of culpability, any history of prior violations, and any effect on ability to continue doing business; and
 
 &emsp;&emsp;(C) good faith in attempting to comply; and
 
@@ -44,7 +44,7 @@ Deposit in Treasury.—Amounts collected under this section shall be deposited i
 
 Prohibition on Multiple Penalties for Same Act.—Separate penalties for violating a regulation prescribed under this chapter and for violating an order under section 60112 or 60118(b) of this title may not be imposed under this chapter if both violations are based on the same act.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1325; Pub. L. 107–355, §§6(b), 8(b)(1), (2), 21(3), Dec. 17, 2002, 116 Stat. 2992, 2993, 3010; Pub. L. 109–468, §2(a)(2), Dec. 29, 2006, 120 Stat. 3487.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1325; Pub. L. 107–355, §§6(b), 8(b)(1), (2), 21(3), Dec. 17, 2002, 116 Stat. 2992, 2993, 3010; Pub. L. 109–468, §2(a)(2), Dec. 29, 2006, 120 Stat. 3487; Pub. L. 112–90, §2(a), Jan. 3, 2012, 125 Stat. 1905.)
 
 Historical and Revision Notes
 
@@ -114,7 +114,7 @@ Aug. 12, 1968, Pub. L. 90–481, 82 Stat. 720, §11(b), (d); added Nov. 30, 1979
 
 49 App.:2007(d).
 
-In subsection (a)(1), the word “prescribed” is added for consistency in the revised title and with other titles of the United States Code. The words “including any order issued under sections 1677(b) and 1679b(b)” in 49 App.:1679a(a)(1) and “including any order issued under section 2006(b) or 2008(b)” in 49 App.:2007(a)(1) are omitted as surplus. The word “occurs” is added for clarity.
+In subsection (a)(1), the word “prescribed” is added for consistency in the revised title and with other titlesof the United States Code. The words “including any order issued under sections 1677(b) and 1679b(b)” in 49 App.:1679a(a)(1) and “including any order issued under section 2006(b) or 2008(b)” in 49 App.:2007(a)(1) are omitted as surplus. The word “occurs” is added for clarity.
 
 In subsection (a)(2), the words “is determined by the Secretary to have” are omitted as surplus. The words “for each violation” are added for clarity and consistency. The word “imposed” is substituted for “to which such person may be subject” for consistency and to eliminate unnecessary words.
 
@@ -127,6 +127,10 @@ In subsection (d), the words “imposed or compromised under this section” are
 In subsection (f), the words “Separate penalties . . . prescribed under this chapter . . . may not be imposed under this chapter” are substituted for “Nothing in this title shall be construed to authorize . . . penalties” for clarity.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a)(1). Pub. L. 112–90, §2(a)(1), substituted “$200,000” for “$100,000” and “$2,000,000” for “$1,000,000”.
+
+Subsec. (b)(1)(B). Pub. L. 112–90, §2(a)(2), struck out “the ability to pay,” after “violations,”.
 
 <b>2006</b>—Subsec. (a)(1). Pub. L. 109–468 substituted “60114(b), 60114(d),” for “60114(b)”.
 

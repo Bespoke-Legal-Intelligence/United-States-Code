@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Prior to expiration of the authority provided for in section 2212(a)(2)(A) of this title, the Secretary, after consultation with Indian tribes and other interested parties, shall submit to the Committee on Indian Affairs and the Committee on Energy and Natural Resources of the Senate and the Committee on Resources of the House of Representatives a report that indicates, for the period covered by the report—
+Prior to expiration of the authority provided for in section 2212(a)(2)(A) of this title, the Secretary, after consultation with Indian tribes and other interested parties, shall submit to the Committee on Indian Affairs and the Committee on Energy and Natural Resources of the Senate and the Committee on Resources of the House ofRepresentatives a report that indicates, for the period covered by the report—
 
 &emsp;(1) the number of fractional interests in trust or restricted lands acquired; and
 

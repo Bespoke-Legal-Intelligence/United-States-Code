@@ -44,7 +44,7 @@ A medicare contractor may not use a record of attendance at (or failure to atten
 
 #### (f) Construction
 
-Nothing in this section or section 1395ddd(g) <sup>1</sup> of this title shall be construed as providing for disclosure by a medicare contractor—
+Nothing in this section or section 1395ddd(g) of this title shall be construed as providing for disclosure by a medicare contractor—
 
 &emsp;(1) of the screens used for identifying claims that will be subject to medical review; or
 
@@ -118,7 +118,7 @@ Small providers of services or suppliers.—In this section, the term ‘small p
 
 “(b)
 
-Qualification of Contractors.—In conducting the demonstration program, the Secretary shall enter into contracts with qualified organizations (such as peer review organizations or entities described in section 1889(g)(2) of the Social Security Act \[subsec. (g)(2) of this section\], as inserted by section 921(f)(1)) with appropriate expertise with billing systems of the full range of providers of services and suppliers to provide the technical assistance. In awarding such contracts, the Secretary shall consider any prior investigations of the entity's work by the Inspector General of Department of Health and Human Services or the Comptroller General of the United States.
+Qualification of Contractors.—In conducting the demonstration program, the Secretary shall enter into contracts with qualified organizations (such as peer review \[now “quality improvement”\] organizations or entities described in section 1889(g)(2) of the Social Security Act \[subsec. (g)(2) of this section\], as inserted by section 921(f)(1)) with appropriate expertise with billing systems of the full range of providers of services and suppliers to provide the technical assistance. In awarding such contracts, the Secretary shall consider any prior investigations of the entity's work by the Inspector General of Department of Health and Human Services or the Comptroller General of the United States.
 
 “(c)
 
@@ -135,6 +135,4 @@ Financial Participation by Providers.—The provision of technical assistance to
 “(f)
 
 Authorization of Appropriations.—There are authorized to be appropriated, from amounts not otherwise appropriated in the Treasury, such sums as may be necessary to carry out this section.”
-
-<i><sup>1</sup></i><i> So in original. Section 1395ddd does not contain a subsec. (g).</i>
 

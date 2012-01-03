@@ -2,23 +2,7 @@
 
 (a)
 
-Conveyance Authority.—(1) The Secretary of a military department may convey a utility system, or part of a utility system, under the jurisdiction of the Secretary to a municipal, private, regional, district, or cooperative utility company or other entity. The conveyance may consist of all right, title, and interest of the United States in the utility system or such lesser estate as the Secretary considers appropriate to serve the interests of the United States.
-
-(2) The Secretary concerned may not enter into a contract to convey a utility system, or part of a utility system, under this subsection until—
-
-&emsp;(A) the Secretary submits to the congressional defense committees an economic analysis, based upon accepted life-cycle costing procedures approved by the Secretary of Defense, that demonstrates that—
-
-&emsp;&emsp;(i) the long-term economic benefit to the United States of the conveyance of the utility system, or part thereof, exceeds the long-term economic cost to the United States of the conveyance;
-
-&emsp;&emsp;(ii) the conveyance of the utility system, or part thereof, will reduce the long-term cost to the United States of utility services provided by the utility system by 10 percent of the long-term cost for provision of those utility services in the agency tender; and
-
-&emsp;&emsp;(iii) the economic benefit analysis under clause (i) and the cost reduction analysis under clause (ii) incorporate margins of error in the estimates, based upon guidance approved by the Secretary of Defense that minimize any underestimation of the costs resulting from privatization of the utility system, or part thereof, or any overestimation of the costs resulting from continued Government ownership and management of the utility system, or part thereof; and
-
-&emsp;(B) the end of the 21-day period beginning on the date on which the economic analysis prepared under subparagraph (A) with respect to the conveyance of the utility system, or part thereof, is received by the congressional defense committees or, if over earlier, the end of the 14-day period beginning on the date on which a copy of the economic analysis is provided in an electronic medium pursuant to section 480 of this title.
-
-(3)(A) If, as a result of the economic analysis required by paragraph (2)(A), the Secretary concerned determines that a utility system, or part of a utility system, is not eligible for conveyance under this subsection, the Secretary concerned may not further reconsider the utility system, or part of a utility system, for conversion to contractor operation under section 2461 of this title for a period of five years beginning on the date of the determination.
-
-(B) If the results of a public-private competition for conversion of a utility system, or part of a utility system, to operation by a contractor favors continued operation by civilian employees of the Department of Defense, the Secretary concerned may not reconsider the utility system, or part of a utility system, for conversion under section 2461 of this title or for conveyance under this subsection for a period of five years beginning on the date of the completion of the public-private competition.
+Conveyance Authority.—The Secretary of a military department may convey a utility system, or part of a utility system, under the jurisdiction of the Secretary to a municipal, private, regional, district, or cooperative utility company or other entity. The conveyance may consist of all right, title, and interest of the United States in the utility system or such lesser estate as the Secretary considers appropriate to serve the interests of the United States.
 
 (b)
 
@@ -42,7 +26,7 @@ Consideration.—(1) The Secretary concerned may require as consideration for a 
 
 Contracts for Utility Services.—(1) Except as provided in paragraph (2), a contract for the receipt of utility services as consideration under subsection (c), or any other contract for utility services entered into by the Secretary concerned in connection with the conveyance of a utility system under this section, may be for a period not to exceed 10 years.
 
-(2) The Secretary of Defense, or the designee of the Secretary, may authorize a contract for utility services described in paragraph (1) to have a term in excess of 10 years, but not to exceed 50 years, if the Secretary determines that a contract for a longer term will be cost effective. The economic analysis submitted to the congressional defense committees under subsection (a)(2) for the conveyance of the utility system, or part thereof, with regard to which the utility services contract will be entered into by the Secretary concerned shall include the determination required by this paragraph, an explanation of the need for the longer term contract, and a comparison of costs between a 10-year contract and the longer-term contract.
+(2) The Secretary of Defense, or the designee of the Secretary, may authorize a contract for utility services described in paragraph (1) to have a term in excess of 10 years, but not to exceed 50 years, if the Secretary determines that a contract for a longer term will be cost effective.
 
 (e)
 
@@ -56,9 +40,7 @@ Treatment of Payments.—(1) A lump sum payment received under subsection (c) sh
 
 (2) Amounts so credited shall be merged with funds in the appropriation to which credited and shall be available for the same purposes, and subject to the same conditions and limitations, as the appropriation with which merged.
 
-(f)
-
-Quarterly Report.—Not later than 30 days after the end of each quarter of a fiscal year, the Secretary shall submit to the congressional defense committees a report on the conveyances made under subsection (a) during such fiscal quarter.
+\[(f) Repealed. Pub. L. 112–81, div. A, title X, §1061(21)(C), Dec. 31, 2011, 125 Stat. 1584.\]
 
 (g)
 
@@ -68,7 +50,7 @@ Additional Terms and Conditions.—(1) The Secretary concerned may require such 
 
 (h)
 
-Assistance for Construction, Repair, or Replacement of Utility Systems.—In lieu of carrying out a military construction project to construct, repair, or replace a utility system, the Secretary concerned may use funds authorized and appropriated for the project to facilitate the conveyance of the utility system under this section by making a contribution toward the cost of construction, repair, or replacement of the utility system by the entity to which the utility system is being conveyed. The Secretary concerned shall consider any such contribution in the economic analysis required under subsection (a)(2).
+Assistance for Construction, Repair, or Replacement of Utility Systems.—In lieu of carrying out a military construction project to construct, repair, or replace a utility system, the Secretary concerned may use funds authorized and appropriated for the project to facilitate the conveyance of the utility system under this section by making a contribution toward the cost of construction, repair, or replacement of the utility system by the entity to which the utility system is being conveyed.
 
 (i)
 
@@ -110,13 +92,21 @@ Construction of Utility Infrastructure After Conveyance of a Utility System.—(
 
 Limitation.—This section shall not apply to projects constructed or operated by the Army Corps of Engineers under its civil works authorities.
 
-(Added Pub. L. 105–85, div. B, title XXVIII, §2812(a), Nov. 18, 1997, 111 Stat. 1992; amended Pub. L. 106–65, div. A, title X, §1067(1), div. B, title XXVIII, §2812, Oct. 5, 1999, 113 Stat. 774, 851; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(15), div. B, title XXVIII, §2813\], Oct. 30, 2000, 114 Stat. 1654, 1654A–291, 1654A–418; Pub. L. 108–136, div. A, title X, §1031(a)(32), Nov. 24, 2003, 117 Stat. 1600; Pub. L. 109–163, div. B, title XXVIII, §2823(a)–(d), Jan. 6, 2006, 119 Stat. 3514–3516; Pub. L. 110–417, div. B, title XXVIII, §2813, Oct. 14, 2008, 122 Stat. 4728; Pub. L. 111–84, div. B, title XXVIII, §2821, Oct. 28, 2009, 123 Stat. 2664.)
+(Added Pub. L. 105–85, div. B, title XXVIII, §2812(a), Nov. 18, 1997, 111 Stat. 1992; amended Pub. L. 106–65, div. A, title X, §1067(1), div. B, title XXVIII, §2812, Oct. 5, 1999, 113 Stat. 774, 851; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(15), div. B, title XXVIII, §2813\], Oct. 30, 2000, 114 Stat. 1654, 1654A–291, 1654A–418; Pub. L. 108–136, div. A, title X, §1031(a)(32), Nov. 24, 2003, 117 Stat. 1600; Pub. L. 109–163, div. B, title XXVIII, §2823(a)–(d), Jan. 6, 2006, 119 Stat. 3514–3516; Pub. L. 110–417, div. B, title XXVIII, §2813, Oct. 14, 2008, 122 Stat. 4728; Pub. L. 111–84, div. B, title XXVIII, §2821, Oct. 28, 2009, 123 Stat. 2664; Pub. L. 112–81, div. A, title X, §1061(21), Dec. 31, 2011, 125 Stat. 1584.)
 
 #### Prior Provisions
 
 A prior section 2688, added Pub. L. 96–125, title VIII, §804(a)(1), Nov. 26, 1979, 93 Stat. 948; amended Pub. L. 96–418, title VIII, §804, Oct. 10, 1980, 94 Stat. 1777; Pub. L. 97–22, §11(a)(9), July 10, 1981, 95 Stat. 138; Pub. L. 97–99, title IX, §901, Dec. 23, 1981, 95 Stat. 1381, related to use of solar energy systems in new facilities, prior to repeal by Pub. L. 97–214, §§7(1), 12(a), July 12, 1982, 96 Stat. 173, 176, effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date. See section 2915 of this title.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (a). Pub. L. 112–81, §1061(21)(A), struck out par. (1) designation before “The Secretary of a military department” and struck out pars. (2) and (3) which related to conditions for entry into a contract to convey all or part of a utility system and conditions under which the Secretary concerned could not reconsider conversion to contractor operation under section 2461 of this title for a five-year period, respectively.
+
+Subsec. (d)(2). Pub. L. 112–81, §1061(21)(B), struck out at end “The economic analysis submitted to the congressional defense committees under subsection (a)(2) for the conveyance of the utility system, or part thereof, with regard to which the utility services contract will be entered into by the Secretary concerned shall include the determination required by this paragraph, an explanation of the need for the longer term contract, and a comparison of costs between a 10-year contract and the longer-term contract.”
+
+Subsec. (f). Pub. L. 112–81, §1061(21)(C), struck out subsec. (f). Prior to amendment, text read as follows: “Not later than 30 days after the end of each quarter of a fiscal year, the Secretary shall submit to the congressional defense committees a report on the conveyances made under subsection (a) during such fiscal quarter.”
+
+Subsec. (h). Pub. L. 112–81, §1061(21)(D), struck out at end “The Secretary concerned shall consider any such contribution in the economic analysis required under subsection (a)(2).”
 
 <b>2009</b>—Subsec. (a)(2)(A)(ii). Pub. L. 111–84, §2821(a), substituted “system by 10 percent of the long-term cost for provision of those utility services in the agency tender; and” for “system; and”.
 

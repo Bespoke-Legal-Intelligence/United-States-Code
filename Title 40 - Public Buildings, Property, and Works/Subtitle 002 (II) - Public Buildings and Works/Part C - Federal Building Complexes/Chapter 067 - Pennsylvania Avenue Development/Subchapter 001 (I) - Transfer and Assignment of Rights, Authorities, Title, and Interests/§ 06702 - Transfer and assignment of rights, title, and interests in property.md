@@ -6,7 +6,7 @@ In General.—
 
 &emsp;(1)
 
-Leases, covenants, agreements, and easements.—As provided in this section, the General Services Administration, the National Capital Planning Commission, and the National Park Service have the rights, title, and interest of the Pennsylvania Avenue Development Corporation in and to all leases, covenants, agreements, and easements the Corporation executed before April 1, 1996, in carrying out its powers and duties under the Pennsylvania Avenue Development Corporation Act of 1972 (Public Law 92–578, 86 Stat. 1266) and the Federal Triangle Development Act (Public Law 100–113, 101 Stat. 735).
+Leases, covenants, agreements, and easements.—As provided in this section, the General Services Administration, the National Capital Planning Commission, and the National Park Service have the rights, title, andinterest of the Pennsylvania Avenue Development Corporation in and to all leases, covenants, agreements, and easements the Corporation executed before April 1, 1996, in carrying out its powers and duties under the Pennsylvania Avenue Development Corporation Act of 1972 (Public Law 92–578, 86 Stat. 1266) and the Federal Triangle Development Act (Public Law 100–113, 101 Stat. 735).
 
 &emsp;(2)
 
@@ -80,7 +80,7 @@ Special events, festivals, concerts, or programs.—The Service may—
 
 &emsp;(4)
 
-Jurisdiction of district of columbia.—Jurisdiction of Pennsylvania Avenue and all other roadways from curb to curb remains with the District of Columbia but vendors are not permitted to occupy street space except during temporary special events.
+Jurisdiction of district of columbia.—Jurisdiction of Pennsylvania Avenue and all other roadways from curb to curb remainswith the District of Columbia but vendors are not permitted to occupy street space except during temporary special events.
 
 (d)
 

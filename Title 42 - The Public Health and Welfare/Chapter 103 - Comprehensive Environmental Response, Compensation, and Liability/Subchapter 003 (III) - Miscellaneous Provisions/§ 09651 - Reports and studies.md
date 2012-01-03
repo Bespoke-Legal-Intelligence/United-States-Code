@@ -38,7 +38,7 @@ The President shall conduct a study to determine (1) whether adequate private in
 
 #### (d) Issues, alternatives, and policy considerations involving selection of locations for waste treatment, storage, and disposal facilities
 
-The Administrator of the Environmental Protection Agency shall, in consultation with other Federal agencies and appropriate representatives of State and local governments and nongovernmental agencies, conduct a study and report to the Congress within two years of December 11, 1980, on the issues, alternatives, and policy considerations involved in the selection oflocations for hazardous waste treatment, storage, and disposal facilities. This study shall include—
+The Administrator of the Environmental Protection Agency shall, in consultation with other Federal agencies and appropriate representatives of State and local governments and nongovernmental agencies, conduct a study and report to the Congress within two years of December 11, 1980, on the issues, alternatives, and policy considerations involved in the selection of locations for hazardous waste treatment, storage, and disposal facilities. This study shall include—
 
 &emsp;(A) an assessment of current and projected treatment, storage, and disposal capacity needs and shortfalls for hazardous waste by management category on a State-by-State basis;
 
@@ -80,7 +80,7 @@ The Administrator of the Environmental Protection Agency shall, in consultation 
 
 &emsp;(A) the need for revisions in existing statutory or common law, and
 
-&emsp;(B) whether such revisions should take the form of Federal statutes or the development of a model code which is recommended for adoption by the States.
+&emsp;(B) whether such revisions should take the form of Federal statutes or the development ofa model code which is recommended for adoption by the States.
 
 (5) The Fund shall pay administrative expenses incurred for the study. No expenses shall be available to pay compensation, except expenses on a per diem basis for the one reporter, but in no case shall the total expenses of the study exceed $300,000.
 
@@ -150,7 +150,7 @@ Subchapter II of this chapter, referred to in subsec. (a)(1)(F), was in the orig
 
 For effective date of this chapter, referred to in subsec. (a)(2), see section 9652 of this title.
 
-Subsection 3001(b)(2)(B) and subsection 3001(b)(3)(A) of the Solid Waste Disposal Act of 1980, referred to in subsec. (a)(2), probably mean section 3001(b)(2)(B) and (3)(A) of the Solid Waste Disposal Act, as amended by the Solid Waste Disposal Act Amendments of 1980, which enacted section 6921(b)(2)(B) and (3)(A) of this title.
+Subsection 3001(b)(2)(B) and subsection 3001(b)(3)(A) of the Solid Waste Disposal Act of 1980, referred to in subsec. (a)(2), probably mean section 3001(b)(2)(B) and\(3)(A) of the Solid Waste Disposal Act, as amended by the Solid Waste Disposal Act Amendments of 1980, which enacted section 6921(b)(2)(B) and (3)(A) of this title.
 
 The Solid Waste Disposal Act, referred to in subsecs. (a)(2) and (d)(C), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795. Subtitle C of the Solid Waste Disposal Act is classified generally to subchapter III (§6921 et seq.) of chapter 82 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
 

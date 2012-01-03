@@ -12,7 +12,7 @@ The President, taking into account the financial resources of a country, may wai
 
 &emsp;&emsp;(B) a structural adjustment program of the International Bank for Reconstruction and Development or of the International Development Association is in effect with respect to that country;
 
-&emsp;&emsp;(C) a structural adjustment facility, enhanced structural adjustment facility, or similar supervised arrangement with the International Monetary Fund is in effect with respect to that country; or
+&emsp;&emsp;(C) a structural adjustment facility, enhanced structural adjustment facility, orsimilar supervised arrangement with the International Monetary Fund is in effect with respect to that country; or
 
 &emsp;&emsp;(D) even though such an agreement, program, facility, or arrangement is not in effect, the country is pursuing national economic policy reforms that would promote democratic, market-oriented, and long term economic development.
 
@@ -40,13 +40,13 @@ The authority of this section applies with respect to credit sales agreements en
 
 #### Amendments
 
-1991—Subsec. (a). Pub. L. 102–237, §326, substituted “subchapter II of this chapter” for “this subchapter” in introductory provisions.
+<b>1991</b>—Subsec. (a). Pub. L. 102–237, §326, substituted “subchapter II of this chapter” for “this subchapter” in introductory provisions.
 
 Subsec. (b). Pub. L. 102–237, §336, inserted “at least 10 days prior to providing the debt relief” before period at end of first sentence.
 
 Subsec. (e). Pub. L. 102–237, §322, substituted “November 28, 1990” for “the date of enactment of this Act”.
 
-1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions prohibiting assistance under subchapters II, III and III–A of this chapter to North Vietnam after July 1, 1973, unless specifically authorized by Act of Congress.
+<b>1990</b>—Pub. L. 101–624 amended section generally, substituting present provisions for provisions prohibiting assistance under subchapters II, III and III–A of this chapter to North Vietnam after July 1, 1973, unless specifically authorized by Act of Congress.
 
 #### Effective Date of 1990 Amendment
 

@@ -10,7 +10,7 @@ Section was enacted as part of the Department of Agriculture Appropriation Act, 
 
 #### Amendments
 
-1976—Pub. L. 94–410 inserted provisions exempting market agencies and packers whose average annual purchases do not exceed $500,000 from bonding requirement and authorizing Secretary, after notice and hearing, to issue cease and desist orders to insolvent packers prohibiting the purchase of livestock except under conditions prescribed by Secretary, respectively.
+<b>1976</b>—Pub. L. 94–410 inserted provisions exempting market agencies and packers whose average annual purchases do not exceed $500,000 from bonding requirement and authorizing Secretary, after notice and hearing, to issue cease and desist orders to insolvent packers prohibiting the purchase of livestock except under conditions prescribed by Secretary, respectively.
 
 #### Prior Provisions
 

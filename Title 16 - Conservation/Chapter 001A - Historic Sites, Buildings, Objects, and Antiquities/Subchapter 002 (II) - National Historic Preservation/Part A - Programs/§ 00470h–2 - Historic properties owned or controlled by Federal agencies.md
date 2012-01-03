@@ -2,7 +2,7 @@
 
 #### (a) Responsibilities of Federal agencies; program for identification, evaluation, nomination, and protection
 
-(1) The heads of all Federal agencies shall assume responsibility for the preservation of historic properties which are owned or controlled by such agency. Prior to acquiring, constructing, or leasing buildings for purposes of carrying out agency responsibilities, each Federal agency shall use, to the maximum extent feasible, historic properties available to the agency, in accordance with Executive Order No. 13006, issued May 21, 1996 (61 Fed. Reg. 26071). Each agency shall undertake, consistent with the preservation of such properties and the mission of the agency and the professional standards established pursuant to section 470a(g) of this title, any preservation, as may be necessary to carry out this section.
+(1) The heads of all Federal agencies shall assume responsibility for the preservation of historic properties which are owned or controlled by such agency. Prior to acquiring, constructing, or leasing buildings for purposes of carrying out agency responsibilities, each Federal agency shall use, to the maximum extent feasible, historic properties available to the agency, in accordance with Executive Order No. 13006, issued May 21, 1996 (61 Fed. Reg. 26071). Each agency shall undertake, consistent with the preservation of such properties and the mission of the agency and the professional standards established pursuant to section 470a(g) <sup>1</sup> of this title, any preservation, as may be necessary to carry out this section.
 
 (2) Each Federal agency shall establish (unless exempted pursuant to section 470v of this title), in consultation with the Secretary, a preservation program for the identification, evaluation, and nomination to the National Register of Historic Places, and protection of historic properties. Such program shall ensure—
 
@@ -28,7 +28,7 @@ Each Federal agency shall initiate measures to assure that where, as a result of
 
 #### (c) Agency Preservation Officer; responsibilities; qualifications
 
-The head of each Federal agency shall, unless exempted under section 470v of this title, designate a qualified official to be known as the agency's “preservation officer” who shall be responsible for coordinating that agency's activities under this subchapter. Each Preservation Officer may, in order to be considered qualified, satisfactorily complete an appropriate training program established by the Secretary under section 470a(h) of this title.
+The head of each Federal agency shall, unless exempted under section 470v of this title, designate a qualified official to be known as the agency's “preservation officer” who shall be responsible for coordinating that agency's activities under this subchapter. Each Preservation Officer may, in order to be considered qualified, satisfactorily complete an appropriate training program established by the Secretary under section 470a(h) <sup>2</sup> of this title.
 
 #### (d) Agency programs and projects
 
@@ -36,7 +36,7 @@ Consistent with the agency's missions and mandates, all Federal agencies shall c
 
 #### (e) Review of plans of transferees of surplus federally owned historic properties
 
-The Secretary shall review and approve the plans of transferees of surplus federally owned historic properties not later than ninety days after his receipt of such plans to ensure that the prehistorical, historical, architectural, or culturally significant values will be preserved or enhanced.
+The Secretary shall review and approve the plans of transferees of surplus federally ownedhistoric properties not later than ninety days after his receipt of such plans to ensure that the prehistorical, historical, architectural, or culturally significant values will be preserved or enhanced.
 
 #### (f) Planning and actions to minimize harm to National Historic Landmarks
 
@@ -122,7 +122,7 @@ Sec. 4. <i>Improving Federal Stewardship of Historic Properties</i>. (a) Each ag
 
 Sec. 5. <i>Promoting Preservation Through Heritage Tourism.</i>
 
-(a) To the extent permitted by law and within existing resources, the Secretary of Commerce, workingwith the Council and other agencies, shall assist States, Indian tribes, and local communities in promoting the use of historic properties for heritage tourism and related economic development in a manner that contributes to the long-term preservation and productive use of those properties. Such assistance shall include efforts to strengthen and improve heritage tourism activities throughout the country as they relate to Federally owned historic properties and significant natural assets on Federal lands.
+(a) To the extent permitted by law and within existing resources, the Secretary of Commerce, working with the Council and other agencies, shall assist States, Indian tribes, and local communities in promoting the use of historic properties for heritage tourism and related economic development in a manner that contributes to the long-term preservation and productive use of those properties. Such assistance shall include efforts to strengthen and improve heritage tourism activities throughout the country as they relate to Federally owned historic properties and significant natural assets on Federal lands.
 
 (b) Where consistent with agency missions and governing law, and where appropriate, agencies shall use historic properties in their ownership in conjunction with State, tribal, and local tourism programs to foster viable economic partnerships, including, but not limited to, cooperation and coordination with tourism officials and others with interests in the properties.
 
@@ -135,4 +135,8 @@ Sec. 7. <i>Definitions</i>. For the purposes of this order, the term “historic
 Sec. 8. <i>Judicial Review</i>. This order is intended only to improve the internal management of the Federal Government and it is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its departments, agencies, instrumentalities or entities, its officers or employees, or any other person.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<i><sup>1</sup></i><i> So in original. Probably should be 470a(h).</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be 470a(i).</i>
 

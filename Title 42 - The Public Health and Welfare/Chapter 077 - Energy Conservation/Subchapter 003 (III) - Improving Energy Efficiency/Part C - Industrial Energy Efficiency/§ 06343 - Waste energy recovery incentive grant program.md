@@ -36,7 +36,7 @@ The Secretary shall establish in the Department of Energy a waste energy recover
 
 #### (4) Useful thermal energy
 
-&emsp;In the case of waste energy recovery that produces useful thermal energy that is used for a purpose different from that for which the project is principally designed, a grant under this section shall be made to the owner or operator of the waste energy recovery project atthe rate of $10 for each 3,412,000 Btus of the excess thermal energy used for the different purpose.
+&emsp;In the case of waste energy recovery that produces useful thermal energy that is used for a purpose different from that for which the project is principally designed, a grant under this section shall be made to the owner or operator of the waste energy recovery project at the rate of $10 for each 3,412,000 Btus of the excess thermal energy used for the different purpose.
 
 #### (c) Grants to States
 

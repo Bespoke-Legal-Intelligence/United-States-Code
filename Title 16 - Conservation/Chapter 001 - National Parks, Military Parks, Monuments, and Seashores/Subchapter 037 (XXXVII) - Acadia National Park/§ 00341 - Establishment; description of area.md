@@ -98,7 +98,7 @@ Pub. L. 99–420, title I, Sept. 25, 1986, 100 Stat. 955, as amended by Pub. L. 
 
 &emsp;“(A) Lands depicted on the map as 55 A ABH which are held in fee by the Jackson Laboratory.
 
-&emsp;“(B) A conservation easement on lands depicted on the map identified as 55 ABH (the developed propertyknown as ‘Highseas’). The easement shall prohibit subdivision of such land or any further significant development on such lands, except as permitted by the guidelines published under section 102(b)(1).
+&emsp;“(B) A conservation easement on lands depicted on the map identified as 55 ABH (the developed property known as ‘Highseas’). The easement shall prohibit subdivision of such land or any further significant development on such lands, except as permitted by the guidelines published under section 102(b)(1).
 
 “(2) Upon receipt of the lands and easement described in paragraph (1), the Secretary shall transfer to the Jackson Laboratory the lands depicted on the map as 8 DBH and 9 DBH. Any disparity in the fair market value of the lands and easement referred to in paragraph (1) and the lands described in the preceding sentence shall be equalized as provided in section 102(d)(1).
 

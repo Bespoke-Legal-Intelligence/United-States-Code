@@ -2,11 +2,11 @@
 
 #### (a) Federal and borrower subscriptions; Federal limitation; report to President, transmittal to Congress; net collection proceeds
 
-The telephone bank's capital shall consist of capital subscribed by the United States, by borrowers from the telephone bank, by corporations and public bodies eligible to become borrowers from the telephone bank, and by organizations controlled by such borrowers, corporations, and public bodies. Beginning with the fiscal year 1971 and for each fiscal year thereafter but not later than fiscal year 1991, the United States shall furnish capital for the purchase of class A stock and there are hereby authorized to be appropriated such amounts, not to exceed $30,000,000 annually, for such purchase until such class A stock shall equal $600,000,000: <i>Provided</i>, That on or before July 1, 1975, the Secretary shall make a report to the President for transmittal to the Congress on the status of capitalization of the telephone bank by the United States with appropriate recommendations. As used in this section and section 931 of this title, the term “net collection proceeds” shall be deemed to mean payments from and after July 1, 1969, of principal and interest on loans heretofore or hereafter made under section 922 of this title, less an amount representing interest payable to the Secretary of the Treasury on loans to the Secretary for telephone purposes.
+The telephone bank's capital shall consist of capital subscribed by the United States, by borrowers from the telephone bank, by corporations and public bodies eligible to become borrowers from the telephone bank, and by organizations controlled by such borrowers, corporations, and public bodies. Beginning with the fiscal year 1971 and for each fiscal year thereafter but not later than fiscal year 1991, the United States shall furnish capital for the purchase of class A stock and there are hereby authorized to be appropriated such amounts, not to exceed$30,000,000 annually, for such purchase until such class A stock shall equal $600,000,000: <i>Provided</i>, That on or before July 1, 1975, the Secretary shall make a report to the President for transmittal to the Congress on the status of capitalization of the telephone bank by the United States with appropriate recommendations. As used in this section and section 931 of this title, the term “net collection proceeds” shall be deemed to mean payments from and after July 1, 1969, of principal and interest on loans heretofore or hereafter made under section 922 of this title, less an amount representing interest payable to the Secretary of the Treasury on loans to the Secretary for telephone purposes.
 
 #### (b) Stock classification; voting stock; one vote rule
 
-The capital stock of the telephone bank shall consist of three classes, class A, class B, and class C, the rights, powers, privileges, and preferences of the separate classes to be as specified,not inconsistent with law, in the bylaws of the telephone bank. Class B and class C stock shall be voting stock, but no holder of said stock shall be entitled to more than one vote, nor shall class B and class C stockholders, regardless of their number, which are owned or controlled by the same person, group of persons, firm, association, or corporation, be entitled in any event to more than one vote.
+The capital stock of the telephone bank shall consist of three classes, class A, class B, and class C, the rights, powers, privileges, and preferences of the separate classes to be as specified, not inconsistent with law, in the bylaws of the telephone bank. Class B and class C stock shall be voting stock, but no holder of said stock shall be entitled to more than one vote, nor shall class B and class C stockholders, regardless of their number, which are owned or controlled by the same person, group of persons, firm, association, or corporation, be entitled in any event to more than one vote.
 
 #### (c) Class A stock; issuance to Secretary of Agriculture and redemption; cumulative return
 
@@ -44,27 +44,27 @@ Section 1413(b) of the Omnibus Budget Reconciliation Act of 1987, referred to in
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–127 struck out “pursuant to section 903(a) of this title” after “telephone purposes” in last sentence.
+<b>1996</b>—Subsec. (a). Pub. L. 104–127 struck out “pursuant to section 903(a) of this title” after “telephone purposes” in last sentence.
 
-1994—Pub. L. 103–354 substituted “Secretary” for “Administrator” in last sentence of subsec. (a) and “Secretary” for “Administrator of the Rural Electrification Administration” in subsec. (c).
+<b>1994</b>—Pub. L. 103–354 substituted “Secretary” for “Administrator” in last sentence of subsec. (a) and “Secretary” for “Administrator of the Rural Electrification Administration” in subsec. (c).
 
-1993—Subsec. (i). Pub. L. 103–129 added subsec. (i).
+<b>1993</b>—Subsec. (i). Pub. L. 103–129 added subsec. (i).
 
-1990—Subsec. (d). Pub. L. 101–624, §2364, inserted before period at end of second sentence “, by paying an amount equal to 5 per centum of the amount of each loan advance, at the time of such advance”.
+<b>1990</b>—Subsec. (d). Pub. L. 101–624, §2364, inserted before period at end of second sentence “, by paying an amount equal to 5 per centum of the amount of each loan advance, at the time of such advance”.
 
 Subsec. (h). Pub. L. 101–624, §2367(a), inserted after second sentence “All amounts so transferred shall not be transferred, directly or indirectly, to the reserve for contingencies.” and substituted “Omnibus Budget Reconciliation” for “Rural Telephone Bank Borrowers Fairness”.
 
-1987—Subsec. (g). Pub. L. 100–203, §1413(c), substituted “the reserve for loan losses” for “reserves for losses”, and inserted at end “The telephone bank may not establish any reserve other than the reserves referred to in this subsection and in subsection (h) of this section.”
+<b>1987</b>—Subsec. (g). Pub. L. 100–203, §1413(c), substituted “the reserve for loan losses” for “reserves for losses”, and inserted at end “The telephone bank may not establish any reserve other than the reserves referred to in this subsection and in subsection (h) of this section.”
 
 Subsec. (h). Pub. L. 100–203, §1413(a), added subsec. (h).
 
-1981—Subsec (a). Pub. L. 97–98, §1607(1), inserted “but not later than fiscal year 1991” after “thereafter,” and substituted “$600,000” for “$300,000”.
+<b>1981</b>—Subsec (a). Pub. L. 97–98, §1607(1), inserted “but not later than fiscal year 1991” after “thereafter,” and substituted “$600,000” for “$300,000”.
 
 Subsec. (c). Pub. L. 97–98, §1607(2), substituted “September 30, 1995” for “September 30, 1985”, and struck out “and after the amount of class A and class B stock totals $400,000,000” after “said date”.
 
-1976—Subsec. (c). Pub. L. 94–273 substituted “September” for “June”.
+<b>1976</b>—Subsec. (c). Pub. L. 94–273 substituted “September” for “June”.
 
-1973—Subsec. (a). Pub. L. 93–92 struck out “from net collection proceeds in the rural telephone account created under subchapter III of this chapter” after “appropriated”.
+<b>1973</b>—Subsec. (a). Pub. L. 93–92 struck out “from net collection proceeds in the rural telephone account created under subchapter III of this chapter” after “appropriated”.
 
 #### Change of Name
 

@@ -34,5 +34,5 @@ For definition of “this chapter”, referred to in subsec. (b)(2), see note se
 
 #### Amendments
 
-1985—Pub. L. 99–198 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1985</b>—Pub. L. 99–198 designated existing provisions as subsec. (a) and added subsec. (b).
 

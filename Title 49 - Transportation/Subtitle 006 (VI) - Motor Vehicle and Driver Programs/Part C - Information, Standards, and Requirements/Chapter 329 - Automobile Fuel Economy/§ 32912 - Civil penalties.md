@@ -38,7 +38,7 @@ Higher Penalty Amounts.—(1)(A) The Secretary of Transportation shall prescribe
 
 &emsp;(A) other interested persons making oral presentations;
 
-&emsp;(B) employees and contractors of the Government that made written comments or an oral presentation or participated in the development or consideration of the proposed regulation; and
+&emsp;(B) employees and contractors of the Government that made written comments or anoral presentation or participated in the development or consideration of the proposed regulation; and
 
 &emsp;(C) experts and consultants that provided information to a person that the person includes, or refers to, in an oral presentation.
 
@@ -126,5 +126,5 @@ In subsection (c)(5), before clause (A), the words “department, agency, or ins
 
 #### Effective Date of 2007 Amendment
 
-Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub.L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 

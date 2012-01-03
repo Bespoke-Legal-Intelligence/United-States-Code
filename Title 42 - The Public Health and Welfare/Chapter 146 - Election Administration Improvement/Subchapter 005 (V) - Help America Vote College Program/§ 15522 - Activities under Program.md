@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In carrying out the Program, the Commission (in consultation with the chief election officialof each State) shall develop materials, sponsor seminars and workshops, engage in advertising targeted at students, make grants, and take such other actions as it considers appropriate to meet the purposes described in section 15521(b) of this title.
+In carrying out the Program, the Commission (in consultation with the chief election official of each State) shall develop materials, sponsor seminars and workshops, engage in advertising targeted at students, make grants, and take such other actions as it considers appropriate to meet the purposes described in section 15521(b) of this title.
 
 #### (b) Requirements for grant recipients
 

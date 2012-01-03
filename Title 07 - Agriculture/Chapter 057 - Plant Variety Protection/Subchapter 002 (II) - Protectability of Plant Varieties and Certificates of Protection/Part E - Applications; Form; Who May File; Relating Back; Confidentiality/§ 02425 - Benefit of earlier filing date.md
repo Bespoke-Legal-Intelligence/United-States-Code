@@ -20,7 +20,7 @@
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–349, §5(1), designated first sentence as par. (1) and second sentence as par. (2).
+<b>1994</b>—Subsec. (a). Pub. L. 103–349, §5(1), designated first sentence as par. (1) and second sentence as par. (2).
 
 Subsec. (a)(1). Pub. L. 103–349, §5(2), inserted before period at end “, not including the date on which the application is filed in the foreign country”.
 

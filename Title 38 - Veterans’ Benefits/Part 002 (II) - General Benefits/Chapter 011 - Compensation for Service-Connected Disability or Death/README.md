@@ -82,7 +82,7 @@
 
 <b>2008</b>—Pub. L. 110–389, title II, §211(c), Oct. 10, 2008, 122 Stat. 4151, added item 1156.
 
-<b>2001</b>—Pub. L. 107–103, title II, §201(c)(2)(B), Dec. 27, 2001, 115 Stat. 988, substituted “Presumptions of service connection for diseases associated with exposure to certain herbicide agents; presumption of exposure for veterans who served in the Republic of Vietnam” for “Presumptions of service connection for diseases associated with exposure to certain herbicide agents” in item 1116.
+<b>2001</b>—Pub. L. 107–103, title II, §201(c)(2)(B), Dec. 27, 2001, 115 Stat. 988, substituted “Presumptions of serviceconnection for diseases associated with exposure to certain herbicide agents; presumption of exposure for veterans who served in the Republic of Vietnam” for “Presumptions of service connection for diseases associated with exposure to certain herbicide agents” in item 1116.
 
 <b>1998</b>—Pub. L. 105–368, title X, §1005(a), Nov. 11, 1998, 112 Stat. 3364, renumbered item 1103 “Cost-of-living adjustments” as 1104.
 

@@ -24,7 +24,7 @@
 
 &emsp;(5) Any amount received by an eligible member under chapter 106 of title 10.
 
-(Added Pub. L. 92–540, title V, §503(a), Oct. 24, 1972, 86 Stat. 1098, §2013; amended Pub. L. 96–466, title VIII, §801(k)(1), (2)(A), Oct. 17, 1980, 94 Stat. 2217; Pub. L. 102–54, §14(c)(10), June 13, 1991, 105 Stat. 285; renumbered §4213, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title VII, §702(b), Nov. 2, 1994, 108 Stat. 4675; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(29)(C),\(f)(21)(C)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–424, 2681–432; Pub. L. 106–419, title IV, §404(a)(9), Nov. 1, 2000, 114 Stat. 1865.)
+(Added Pub. L. 92–540, title V, §503(a), Oct. 24, 1972, 86 Stat. 1098, §2013; amended Pub. L. 96–466, title VIII, §801(k)(1), (2)(A), Oct. 17, 1980, 94 Stat. 2217; Pub. L. 102–54, §14(c)(10), June 13, 1991, 105 Stat. 285; renumbered §4213, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title VII, §702(b), Nov. 2, 1994, 108 Stat. 4675; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(29)(C), (f)(21)(C)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–424, 2681–432; Pub. L. 106–419, title IV, §404(a)(9), Nov. 1, 2000, 114 Stat. 1865.)
 
 #### References in Text
 

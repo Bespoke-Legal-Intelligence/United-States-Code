@@ -8,7 +8,7 @@ The Commandant of the Coast Guard, in consultation with the Interagency Committe
 
 &emsp;(2) take actions to cost-effectively monitor and enforce compliance with MARPOL Annex V and the Act to Prevent Pollution from Ships (33 U.S.C. 1901 et seq.), including through cooperation and coordination with other Federal and State enforcement programs;
 
-&emsp;(3) take actions to improve compliance with requirements under MARPOL Annex V and section 6 of the Act to Prevent Pollution from Ships (33 U.S.C. 1905) that all United States ports and terminals maintain and monitor the adequacy of receptacles for the disposal of plastics and other garbage, including through promoting voluntary government-industry partnerships;
+&emsp;(3) take actions to improve compliance with requirements under MARPOL Annex V andsection 6 of the Act to Prevent Pollution from Ships (33 U.S.C. 1905) that all United States ports and terminals maintain and monitor the adequacy of receptacles for the disposal of plastics and other garbage, including through promoting voluntary government-industry partnerships;
 
 &emsp;(4) develop and implement a plan, in coordination with industry and recreational boaters, to improve ship-board waste management, including recordkeeping, and access to waste reception facilities for ship-board waste;
 

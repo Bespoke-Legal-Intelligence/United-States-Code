@@ -44,7 +44,7 @@ Subsec. (c)(1). Pub. L. 105–244, §466(3), substituted “2004” for “1997�
 
 <b>1992</b>—Subsec. (b). Pub. L. 102–325, §466(1), substituted “2005” for “1997”.
 
-Subsec. (c). Pub. L. 102–325, §466(2), designated existing provisions as par. (1), redesignated former pars. (1)and (2) as subpars. (A) and (B), respectively, and added par. (2).
+Subsec. (c). Pub. L. 102–325, §466(2), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
 
 #### Effective Date of 2007 Amendment
 

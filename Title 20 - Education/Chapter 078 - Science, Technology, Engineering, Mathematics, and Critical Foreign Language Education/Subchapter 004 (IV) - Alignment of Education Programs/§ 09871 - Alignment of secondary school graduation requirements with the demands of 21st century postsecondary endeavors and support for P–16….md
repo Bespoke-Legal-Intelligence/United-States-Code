@@ -94,7 +94,7 @@ The Secretary is authorized to award grants, on a competitive basis, to States t
 
 &emsp;&emsp;&emsp;(i) identifying and describing the content knowledge and skills students who enter institutions of higher education, the workforce, and the Armed Forces need to have in order to succeed without any remediation based on detailed requirements obtained from institutions of higher education, employers, and the Armed Forces;
 
-&emsp;&emsp;&emsp;(ii) identifying and making changes that need to be made to a State's secondary school graduation requirements, academic content standards, academic achievementstandards, and assessments preceding graduation from secondary school in order to align the requirements, standards, and assessments with the knowledge and skills necessary for success in academic credit-bearing coursework in postsecondary education, in the 21st century workforce, and in the Armed Forces without the need for remediation;
+&emsp;&emsp;&emsp;(ii) identifying and making changes that need to be made to a State's secondary school graduation requirements, academic content standards, academic achievement standards, and assessments preceding graduation from secondary school in order to align the requirements, standards, and assessments with the knowledge and skills necessary for success in academic credit-bearing coursework in postsecondary education, in the 21st century workforce, and in the Armed Forces without the need for remediation;
 
 &emsp;&emsp;&emsp;(iii) convening stakeholders within the State and creating a forum for identifying and deliberating on education issues that—
 
@@ -152,7 +152,7 @@ The Secretary is authorized to award grants, on a competitive basis, to States t
 
 &emsp;&emsp;&emsp;&emsp;(IV) keep an accurate accounting of the date, nature, and purpose of each disclosure of personally identifiable information in the statewide P–16 education data system, a description of the information disclosed, and the name and address of the person, agency, institution, or entity to whom the disclosure is made, which accounting shall be made available on request to parents of any student whose information has been disclosed;
 
-&emsp;&emsp;&emsp;&emsp;(V) notwithstanding section 1232g of this title, require any non-governmental party obtaining personally identifiableinformation to sign a data use agreement prior to disclosure that—
+&emsp;&emsp;&emsp;&emsp;(V) notwithstanding section 1232g of this title, require any non-governmental party obtaining personally identifiable information to sign a data use agreement prior to disclosure that—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) prohibits the party from further disclosing the information;
 

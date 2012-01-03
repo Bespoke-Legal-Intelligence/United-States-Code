@@ -6,5 +6,5 @@ Copies of the Code of Laws relating to the District of Columbia and copies of th
 
 #### Amendments
 
-1954—Act Sept. 3, 1954, substituted “Administrator of General Services” for “Secretary of State”.
+<b>1954</b>—Act Sept. 3, 1954, substituted “Administrator of General Services” for “Secretary of State”.
 

@@ -1,6 +1,6 @@
 ### §8116. Limitations on right to receive compensation
 
-(a) While an employee is receiving compensation under this subchapter, or if he has been paid a lump sum in commutation of installment payments until the expiration of the period during which the installment payments would have continued, he may not receive salary, pay, or remuneration of any type from the United States, except—
+(a) While an employee is receiving compensation under this subchapter, or if he has been paid a lump sum in commutation of installmentpayments until the expiration of the period during which the installment payments would have continued, he may not receive salary, pay, or remuneration of any type from the United States, except—
 
 &emsp;(1) in return for service actually performed;
 
@@ -12,7 +12,7 @@
 
 > However, eligibility for or receipt of benefits under subchapter III of chapter 83 of this title, or another retirement system for employees of the Government, does not impair the right of the employee to compensation for scheduled disabilities specified by section 8107(c) of this title.
 
-(b) An individual entitled to benefits under this subchapter because of his injury, or because of the death of an employee, who also is entitled to receive from the United States under a provision of statute other than this subchapter payments or benefits for that injury or death (except proceeds of an insurance policy), because of service by him (or in the case of death, by the deceased) as an employee or in the armed forces, shall elect which benefits he will receive. The individual shall make the election within 1 year after the injury or death or within a further time allowed for good cause by the Secretary ofLabor. The election when made is irrevocable, except as otherwise provided by statute.
+(b) An individual entitled to benefits under this subchapter because of his injury, or because of the death of an employee, who also is entitled to receive from the United States under a provision of statute other than this subchapter payments or benefits for that injury or death (except proceeds of an insurance policy), because of service by him (or in the case of death, by the deceased) as an employee or in the armed forces, shall elect which benefits he will receive. The individual shall make the election within 1 year after the injury or death or within a further time allowed for good cause by the Secretary of Labor. The election when made is irrevocable, except as otherwise provided by statute.
 
 (c) The liability of the United States or an instrumentality thereof under this subchapter or any extension thereof with respect to the injury or death of an employee is exclusive and instead of all other liability of the United States or the instrumentality to the employee, his legal representative, spouse, dependents, next of kin, and any other person otherwise entitled to recover damages from the United States or the instrumentality because of the injury or death in a direct judicial proceeding, in a civil action, or in admiralty, or by an administrative or judicial proceeding under a workmen's compensation statute or under a Federal tort liability statute. However, this subsection does not apply to a master or a member of a crew of a vessel.
 
@@ -96,13 +96,13 @@ The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 5
 
 #### Amendments
 
-2000—Subsec. (a)(4). Pub. L. 106–398 struck out “, subject to the reduction of such pay in accordance with section 5532(b) of title 5, United States Code” after “uniformed services”.
+<b>2000</b>—Subsec. (a)(4). Pub. L. 106–398 struck out “, subject to the reduction of such pay in accordance with section 5532(b) of title 5, United States Code” after “uniformed services”.
 
-1991—Subsec. (a)(3). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+<b>1991</b>—Subsec. (a)(3). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-1986—Subsec. (d). Pub. L. 99–335 added subsec. (d).
+<b>1986</b>—Subsec. (d). Pub. L. 99–335 added subsec. (d).
 
-1974—Subsec. (a). Pub. L. 93–416 struck out “and” in cl. (1), substituted a semicolon for a period in cl. (2), and added cls. (3) and (4).
+<b>1974</b>—Subsec. (a). Pub. L. 93–416 struck out “and” in cl. (1), substituted a semicolon for a period in cl. (2), and added cls. (3) and (4).
 
 #### Effective Date of 1986 Amendment
 

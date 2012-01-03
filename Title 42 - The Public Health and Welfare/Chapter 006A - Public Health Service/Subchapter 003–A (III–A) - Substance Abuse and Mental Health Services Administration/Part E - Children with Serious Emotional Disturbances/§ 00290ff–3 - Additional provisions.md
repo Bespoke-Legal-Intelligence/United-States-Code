@@ -10,7 +10,7 @@ In addition to services described in subsection (c) of section 290ff–1 of this
 
 &emsp;&emsp;(A) the administration of the system;
 
-&emsp;&emsp;(B) the provision of intensive home-based services under paragraph (4) of section 290ff–1(c) of this title, intensive day treatment under paragraph (5) of such section, and foster care or group homes under paragraph (7) of such section; and
+&emsp;&emsp;(B) the provision of intensive home-based services under paragraph (4) of section290ff–1(c) of this title, intensive day treatment under paragraph (5) of such section, and foster care or group homes under paragraph (7) of such section; and
 
 &emsp;&emsp;(C) the development of individualized plans for purposes of section 290ff–2 of this title;
 
@@ -20,7 +20,7 @@ In addition to services described in subsection (c) of section 290ff–1 of this
 
 #### (b) Comprehensive plan
 
-The Secretary may make a grant under section 290ff(a) of this title only if, with respect to the jurisdiction of the public entity involved, the entity has submitted to the Secretary, and has had approved by the Secretary, a plan for the development of a jurisdiction-wide system of care for community-based services for childrenwith a serious emotional disturbance that specifies the progress the public entity has made in developing the jurisdiction-wide system, the extent of cooperation across agencies serving children in the establishment of the system, the Federal and non-Federal resources currently committed to the establishment of the system, and the current gaps in community services and the manner in which the grant under section 290ff(a) of this title will be expended to address such gaps and establish local systems of care.
+The Secretary may make a grant under section 290ff(a) of this title only if, with respect to the jurisdiction of the public entity involved, the entity has submitted to the Secretary, and has had approved by the Secretary, a plan for the development of a jurisdiction-wide system of care for community-based services for children with a serious emotional disturbance that specifies the progress the public entity has made in developing the jurisdiction-wide system, the extent of cooperation across agencies serving children in the establishment of the system, the Federal and non-Federal resources currently committed to the establishment of the system, and the current gaps in community services and the manner in which the grant under section 290ff(a) of this title will be expended to address such gaps and establish local systems of care.
 
 #### (c) Limitation on imposition of fees for services
 

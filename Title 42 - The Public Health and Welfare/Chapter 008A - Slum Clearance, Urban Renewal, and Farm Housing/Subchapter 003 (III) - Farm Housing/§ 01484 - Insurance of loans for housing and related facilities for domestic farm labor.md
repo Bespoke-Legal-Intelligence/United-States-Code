@@ -90,7 +90,7 @@ Another section 801(b) of Pub. L. 91–609 amended section 1460(c)(1) of this ti
 
 #### Amendments
 
-<b>2008</b>—Subsec. (f)(3). Pub. L. 110–246, §6205, substituted “, the handling of agricultural or aquacultural commodities in the unprocessed stage, or the processing of agricultural or aquacultural commodities” for “or thehandling of such commodities in the unprocessed stage” in introductory provisions.
+<b>2008</b>—Subsec. (f)(3). Pub. L. 110–246, §6205, substituted “, the handling of agricultural or aquacultural commodities in the unprocessed stage, or the processing of agricultural or aquacultural commodities” for “or the handling of such commodities in the unprocessed stage” in introductory provisions.
 
 <b>2000</b>—Subsec. (a). Pub. L. 106–569, §703, substituted “limited partnership” for “nonprofit limited partnership” in first sentence of introductory provisions.
 

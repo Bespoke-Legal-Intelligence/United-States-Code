@@ -4,7 +4,7 @@ In this chapter:
 
 #### (1) Accompaniment
 
-&emsp;The term “accompaniment” means assisting, representing, and accompanying a womanin seeking judicial relief for child support, child custody, restraining orders, and restitution for harm to persons and property, and in filing criminal charges, and may include the payment of court costs and reasonable attorney and witness fees associated therewith.
+&emsp;The term “accompaniment” means assisting, representing, and accompanying a woman in seeking judicial relief for child support, child custody, restraining orders, and restitution for harm to persons and property, and in filing criminal charges, and may include the payment of court costs and reasonable attorney and witness fees associated therewith.
 
 #### (2) Eligible institution of higher education
 

@@ -10,7 +10,7 @@
 | \[114a. | Renumbered.\] |
 | [115\.](%C2%A7%2000115%20-%20Personnel%20strengths%20requirement%20for%20annual%20authorization.md) | Personnel strengths: requirement for annual authorization. |
 | [115a.](%C2%A7%2000115a%20-%20Annual%20defense%20manpower%20requirements%20report.md) | Annual defense manpower requirements report. |
-| [115b.](%C2%A7%2000115b%20-%20Annual%20strategic%20workforce%20plan.md) | Annual strategic workforce plan. |
+| [115b.](%C2%A7%2000115b%20-%20Biennial%20strategic%20workforce%20plan.md) | Biennial strategic workforce plan. |
 | [116\.](%C2%A7%2000116%20-%20Annual%20operations%20and%20maintenance%20report.md) | Annual operations and maintenance report. |
 | [117\.](%C2%A7%2000117%20-%20Readiness%20reporting%20system%20establishment%3B%20reporting%20to%20congressional%20committees.md) | Readiness reporting system: establishment; reporting to congressional committees. |
 | [118\.](%C2%A7%2000118%20-%20Quadrennial%20defense%20review.md) | Quadrennial defense review. |
@@ -21,6 +21,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2011</b>—Pub. L. 112–81, div. A, title IX, §935(a)(2), Dec. 31, 2011, 125 Stat. 1545, substituted “Biennial strategic workforce plan” for “Annual strategic workforce plan” in item 115b.
 
 <b>2009</b>—Pub. L. 111–84, div. A, title XI, §§1108(a)(2), 1109(b)(2)(B)(ii), Oct. 28, 2009, 123 Stat. 2491, 2493, amended item 115a generally, substituting “Annual defense manpower requirements report” for “Annual manpower requirements report”, and added item 115b.
 
@@ -59,7 +61,7 @@ Pub. L. 101–510, div. A, title XIII, §1331(1), title XIV, §1483(c)(1), Nov. 
 - [&sect; 00114a - Renumbered &sect;221](%C2%A7%2000114a%20-%20Renumbered%20%C2%A7221.md)
 - [&sect; 00115 - Personnel strengths requirement for annual authorization](%C2%A7%2000115%20-%20Personnel%20strengths%20requirement%20for%20annual%20authorization.md)
 - [&sect; 00115a - Annual defense manpower requirements report](%C2%A7%2000115a%20-%20Annual%20defense%20manpower%20requirements%20report.md)
-- [&sect; 00115b - Annual strategic workforce plan](%C2%A7%2000115b%20-%20Annual%20strategic%20workforce%20plan.md)
+- [&sect; 00115b - Biennial strategic workforce plan](%C2%A7%2000115b%20-%20Biennial%20strategic%20workforce%20plan.md)
 - [&sect; 00116 - Annual operations and maintenance report](%C2%A7%2000116%20-%20Annual%20operations%20and%20maintenance%20report.md)
 - [&sect; 00117 - Readiness reporting system establishment; reporting to congressional committees](%C2%A7%2000117%20-%20Readiness%20reporting%20system%20establishment%3B%20reporting%20to%20congressional%20committees.md)
 - [&sect; 00118 - Quadrennial defense review](%C2%A7%2000118%20-%20Quadrennial%20defense%20review.md)

@@ -140,7 +140,7 @@ For the purposes of carrying out this chapter, there are authorized to be approp
 
 #### References in Text
 
-Section 12705(b)(16) of this title, referred to in subsecs. (c)(1) and (g)(1), probably means section 12705(b)(16) relating to housing units that contain lead-based paint hazards which was redesignated section 12705(b)(17) by Pub. L. 105–276, title V, §583(5)(B), Oct. 21, 1998, 112 Stat. 2644.
+Section 12705(b)(16) of this title, referred to in subsecs. (c)(1) and (g)(1), probably means section12705(b)(16) relating to housing units that contain lead-based paint hazards which was redesignated section 12705(b)(17) by Pub. L. 105–276, title V, §583(5)(B), Oct. 21, 1998, 112 Stat. 2644.
 
 This chapter, referred to in subsecs. (d)(5), (e)(10), and (p), was in the original “this Act”, meaning title X of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3897, known as the Residential Lead-Based Paint Hazard Reduction Act of 1992. For complete classification of this Act to the Code, see Short Title note set out under section 4851 of this title and Tables.
 

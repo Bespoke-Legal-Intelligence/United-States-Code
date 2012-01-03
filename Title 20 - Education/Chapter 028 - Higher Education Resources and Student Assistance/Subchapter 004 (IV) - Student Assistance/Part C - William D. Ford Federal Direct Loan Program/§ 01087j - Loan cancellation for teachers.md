@@ -42,7 +42,7 @@ The Secretary shall carry out a program of canceling the obligation to repay a q
 
 &emsp;&emsp;&emsp;(ii) whose qualifying employment for purposes of such subsection is as a special education teacher whose primary responsibility is to provide special education to children with disabilities (as those terms are defined in section 1401 of this title); and
 
-&emsp;&emsp;&emsp;(iii) who, as certified by the chief administrative officer of the public or non-profit private elementary school or secondary school in which the borrower is employed, or, in the case of a teacher who is employed by an educational service agency, as certified by the chief administrative officer of such agency, is teaching childrenwith disabilities that correspond with the borrower's special education training and has demonstrated knowledge and teaching skills in the content areas of the elementary school or secondary school curriculum that the borrower is teaching.
+&emsp;&emsp;&emsp;(iii) who, as certified by the chief administrative officer of the public or non-profit private elementary school or secondary school in which the borrower is employed, or, in the case of a teacher who is employed by an educational service agency, as certified by the chief administrative officer of such agency, is teaching children with disabilities that correspond with the borrower's special education training and has demonstrated knowledge and teaching skills in the content areas of the elementary school or secondary school curriculum that the borrower is teaching.
 
 #### (d) Regulations
 
@@ -54,7 +54,7 @@ Nothing in this section shall be construed to authorize any refunding of any can
 
 #### (f) List
 
-If the list of schools in which a teacher may perform service pursuant to subsection (b) is not available before May 1 of any year, the Secretary may use the list for the year preceding the year for which the determination is made to make such service determination.
+If the list of schools in which a teacher may perform service pursuant to subsection (b) is not available before May 1 of any year, the Secretary may use the list for the year precedingthe year for which the determination is made to make such service determination.
 
 #### (g) Additional eligibility provisions
 
@@ -136,7 +136,7 @@ Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provi
 
 #### Effective Date of 2004 Amendment; Transition Rule
 
-Amendment by section 3(b)(2) of Pub. L. 108–409 applicable only with respect to eligible individuals who are new borrowers (as defined in section 1003 of this title) on or after Oct. 1, 1998, see section 3(b)(3) of Pub. L. 108–409, as amended, set out as a note under section 1078–10 of this title.
+Amendment by section 3(b)(2) of Pub. L. 108–409 applicable only with respect to eligible individuals who arenew borrowers (as defined in section 1003 of this title) on or after Oct. 1, 1998, see section 3(b)(3) of Pub. L. 108–409, as amended, set out as a note under section 1078–10 of this title.
 
 For transition rules relating to amendments made by section 3(a)(1)(B) of Pub. L. 108–409, see section 3(a)(2) of Pub. L. 108–409, set out as a note under section 1078–10 of this title.
 

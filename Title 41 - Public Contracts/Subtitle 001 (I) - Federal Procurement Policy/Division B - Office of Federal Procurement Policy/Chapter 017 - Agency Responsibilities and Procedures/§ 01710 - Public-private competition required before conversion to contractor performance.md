@@ -24,7 +24,7 @@ When conversion to contractor performance is allowed.—A function of an executi
 
 &emsp;&emsp;&emsp;(iii) an estimate of all other costs and expenditures that the Federal Government would incur because of the award of the contract;
 
-&emsp;&emsp;(F) requires continued performance of the function by agency civilian employees unless the difference in the cost of performance of the function by a contractor compared to the cost of performance of the function by agency civilian employees would, over allperformance periods required by the solicitation, be equal to or exceed the lesser of—
+&emsp;&emsp;(F) requires continued performance of the function by agency civilian employees unless the difference in the cost of performance of the function by a contractor compared to the cost of performance of the function by agency civilian employees would, over all performance periods required by the solicitation, be equal to or exceed the lesser of—
 
 &emsp;&emsp;&emsp;(i) 10 percent of the personnel-related costs for performance of that function in the agency tender; or
 
@@ -120,7 +120,7 @@ Deadlines.—The objection shall be in writing and shall be submitted within 90 
 
 &emsp;&emsp;(C)
 
-Report and certification required before solicitation or award of contract.—If the head of the executive agency determines that the report required by paragraph (1) was not submitted or that the required certification was not included in the submitted report, the function for which the public-private competition was conductedfor which the objection was submitted may not be the subject of a solicitation of offers for, or award of, a contract until, respectively, the report is submitted or a report containing the certification in full compliance with the certification requirement is submitted.
+Report and certification required before solicitation or award of contract.—If the head of the executive agency determines that the report required by paragraph (1) was not submitted or that the required certification was not included in the submitted report, the function for which the public-private competition was conducted for which the objection was submitted may not be the subject of a solicitation of offers for, or award of, a contract until, respectively, the report is submitted or a report containing the certification in full compliance with the certification requirement is submitted.
 
 (d)
 

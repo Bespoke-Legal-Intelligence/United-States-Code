@@ -34,7 +34,7 @@
 
 &emsp;&emsp;&emsp;(i) community groups whose constituencies include low-income families;
 
-&emsp;&emsp;&emsp;(ii) any scientific, professional, business, nonprofit, or public interest organization or association which is neither affiliatedwith, nor under the direction of, a government;
+&emsp;&emsp;&emsp;(ii) any scientific, professional, business, nonprofit, or public interest organization or association which is neither affiliated with, nor under the direction of, a government;
 
 &emsp;&emsp;&emsp;(iii) for-profit business interests; and
 
@@ -92,7 +92,7 @@ The President shall appoint an ombudsman to provide the public with an opportuni
 
 #### (d) Reporting requirement
 
-The President shall submit to the appropriate congressional committees an annual report on the community adjustment and investment program (if any) that is carried out pursuant to this section. Each report shall state the amount of the loans made or guaranteed during the 12-month period ending on the day before the date of the report.
+The President shall submit to the appropriate congressional committees an annual report onthe community adjustment and investment program (if any) that is carried out pursuant to this section. Each report shall state the amount of the loans made or guaranteed during the 12-month period ending on the day before the date of the report.
 
 (Pub. L. 103–182, title V, §543, Dec. 8, 1993, 107 Stat. 2167.)
 

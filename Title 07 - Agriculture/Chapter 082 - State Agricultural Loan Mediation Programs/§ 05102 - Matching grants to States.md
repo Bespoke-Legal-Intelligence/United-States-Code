@@ -52,11 +52,11 @@ If the Secretary determines that a State has not complied with subsection (c) of
 
 #### Amendments
 
-2000—Subsec. (c). Pub. L. 106–472 designated existing provisions as par. (1), inserted heading, and added par. (2).
+<b>2000</b>—Subsec. (c). Pub. L. 106–472 designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-1994—Subsecs. (a), (b)(1), (c). Pub. L. 103–354 struck out “agricultural loan” before “mediation program”.
+<b>1994</b>—Subsecs. (a), (b)(1), (c). Pub. L. 103–354 struck out “agricultural loan” before “mediation program”.
 
-1992—Subsec. (b)(1). Pub. L. 102–554, §22(1), substituted “70” for “50”.
+<b>1992</b>—Subsec. (b)(1). Pub. L. 102–554, §22(1), substituted “70” for “50”.
 
 Subsec. (c). Pub. L. 102–554, §22(2), inserted before period at end “with respect to which the amount was paid”.
 

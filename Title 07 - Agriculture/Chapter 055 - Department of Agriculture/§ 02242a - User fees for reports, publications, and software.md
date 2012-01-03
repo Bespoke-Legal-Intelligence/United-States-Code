@@ -28,9 +28,9 @@ Any fees collected, late payment penalties, and interest earned shall be credite
 
 #### Amendments
 
-1990—Subsec. (d). Pub. L. 101–624 added subsec. (d).
+<b>1990</b>—Subsec. (d). Pub. L. 101–624 added subsec. (d).
 
-1985—Pub. L. 99–198, in amending section generally, divided existing provisions into subsecs. (a), (b), and (c) and inserted references to software programs and electronic publications.
+<b>1985</b>—Pub. L. 99–198, in amending section generally, divided existing provisions into subsecs. (a), (b), and (c) and inserted references to software programs and electronic publications.
 
 #### Effective Date
 

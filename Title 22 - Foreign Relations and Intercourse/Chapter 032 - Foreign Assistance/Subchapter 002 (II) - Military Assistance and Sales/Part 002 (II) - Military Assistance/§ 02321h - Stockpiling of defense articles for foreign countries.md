@@ -30,7 +30,7 @@ No defense article transferred from any stockpile which is made available to or 
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of thisAct to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 The Arms Export Control Act, referred to in subsec. (a), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
@@ -90,7 +90,7 @@ Subsec. (c). Pub. L. 104–107, §531B(c), inserted heading and amended text gen
 
 <b>1993</b>—Subsec. (b)(2). Pub. L. 103–87 which directed amendment of par. (2) “by striking out ‘$389,000,000 for fiscal year 1993, of which amount not less than $200,000,000 shall be available for stockpiles in Israel, and up to $189,000,000 may be available for stockpiles in the Republic of Korea’ and inserting in lieu thereof ‘$200,000,000 for stockpiles in Israel for fiscal year 1994’, up to $72,000,000 may be made available for stockpiles in the Republic of Korea, and up to $20,000,000 may be made available for stockpiles in Thailand.” was executed as if the end quotation mark for the inserted material followed “Thailand” rather than following “1994” to reflect the probable intent of Congress.
 
-<b>1992</b>—Subsec. (b)(2). Pub. L. 102–391, which directed the substitution of “$389,000,000 for fiscal year 1993, of which amount not less than $200,000,000 shall be available for stockpiles in Israel, and up to $189,000,000 may be available for stockpiles in the Republic of Korea” for “$378,000,000 for fiscal year 1991, of which amountnot less than $300,000,000 shall be available for stockpiles in Israel”, was executed by making such substitution for “$378,000,000 for fiscal year 1991, of which amount not less than $300,000,000 shall be for stockpiles in Israel”, to reflect the probable intent of Congress.
+<b>1992</b>—Subsec. (b)(2). Pub. L. 102–391, which directed the substitution of “$389,000,000 for fiscal year 1993, of which amount not less than $200,000,000 shall be available for stockpiles in Israel, and up to $189,000,000 may be available for stockpiles in the Republic of Korea” for “$378,000,000 for fiscal year 1991, of which amount not less than $300,000,000 shall be available for stockpiles in Israel”, was executed by making such substitution for “$378,000,000 for fiscal year 1991, of which amount not less than $300,000,000 shall be for stockpiles in Israel”, to reflect the probable intent of Congress.
 
 <b>1990</b>—Subsec. (b)(2). Pub. L. 101–513, §573(b), substituted “$378,000,000 for fiscal year 1991, of which amount not less than $300,000,000 shall be for stockpiles in Israel” for “$165,000,000 for fiscal year 1990”.
 

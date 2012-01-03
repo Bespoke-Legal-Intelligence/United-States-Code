@@ -22,7 +22,7 @@
 
 #### (2) Debt buybacks
 
-&emsp;Notwithstanding any other provision of law, the President may, in accordance with this section, sell to any eligible country any concessional loans described in section 2431d(a)(1) of this title or any credits described in section 2431e(a)(1) of this title, or on receipt of payment from an eligible country, reduce or cancel such loans (or credits) or portion thereof, only for the purpose of facilitating a debt buyback by an eligible country of its own qualified debt, only if the eligible country uses an additional amount of the local currency of the eligible country, equal to not less than the lessor of 40 percent of the price paid for such debt by such eligible country, or the difference between the price paid for such debt and the face value of such debt, to support eligible activities described in section 2431g(d) of this title.
+&emsp;Notwithstanding any other provision of law, the President may, in accordance with this section, sell to any eligible country any concessional loans described in section 2431d(a)(1) of this title or any credits described in section 2431e(a)(1) of this title, or on receipt of payment from an eligible country, reduce or cancel such loans (or credits) or portion thereof, only for the purpose of facilitating a debt buyback by an eligible country of its own qualified debt, only if the eligible country uses an additional amount of the local currency ofthe eligible country, equal to not less than the lessor of 40 percent of the price paid for such debt by such eligible country, or the difference between the price paid for such debt and the face value of such debt, to support eligible activities described in section 2431g(d) of this title.
 
 #### (3) Limitation
 
@@ -48,13 +48,13 @@ The proceeds from the sale, reduction, or cancellation of any loan sold, reduced
 
 (Pub. L. 87–195, pt. V, §808, as added Pub. L. 105–214, §1, July 29, 1998, 112 Stat. 889; amended Pub. L. 107–26, §2(b), Aug. 17, 2001, 115 Stat. 206.)
 
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+
+References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
+
 #### Amendments
 
 <b>2001</b>—Subsec. (a)(1)(D). Pub. L. 107–26 substituted “to be appropriated under sections 2431d(a)(2), 2431e(a)(2), and 2431d(d) of this title” for “to appropriated under sections 2431d(a)(2) and 2431e(a)(2) of this title”.
-
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-
-References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter,and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
 
 #### Delegation of Functions
 

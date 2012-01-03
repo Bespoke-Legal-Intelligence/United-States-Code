@@ -44,7 +44,7 @@ Commission Defined.—For purposes of this section, the term “Commission” me
 
 #### Amendments
 
-2010—Pub. L. 111–203 substituted “Appointment of candidates to certain positions in the competitive service by the Securities and Exchange Commission” for “Appointment of accountants, economists, and examiners by the Securities and Exchange Commission” in section catchline, added subsec. (a), and struck out former subsec. (a). Prior to amendment, text read as follows: “This section applies with respect to any position of accountant, economist, and securities compliance examiner at the Commission that is in the competitive service.”
+<b>2010</b>—Pub. L. 111–203 substituted “Appointment of candidates to certain positions in the competitive service by the Securities and Exchange Commission” for “Appointment of accountants, economists, and examiners by the Securities and Exchange Commission” in section catchline, added subsec. (a), and struck out former subsec. (a). Prior to amendment, text read as follows: “This section applies with respect to any position of accountant, economist, and securities compliance examiner at the Commission that is in the competitive service.”
 
 #### Change of Name
 

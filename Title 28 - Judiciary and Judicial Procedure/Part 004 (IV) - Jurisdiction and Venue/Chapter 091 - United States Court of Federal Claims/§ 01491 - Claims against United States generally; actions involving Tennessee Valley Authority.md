@@ -12,11 +12,13 @@
 
 (4) In any action under this subsection, the courts shall review the agency's decision pursuant to the standards set forth in section 706 of title 5.
 
-(5) If an interested party who is a member of the private sector commences an action described in paragraph (1) with respect to a public-private competition conducted under Office of Management and Budget Circular A–76 regarding the performance of an activity or function of a Federal agency, or a decision to convert a function performed by Federal employees to private sector performance without a competition under Office of Management and Budget Circular A–76, then an interested party described in section 3551(2)(B) of title 31 shall be entitled to intervene in that action.
+(5) If an interested party who is a member of the private sector commences an action described in paragraph (1) with respect to a public-private competition conducted under Office of Management and Budget Circular A–76 regarding the performance of an activity or function of a Federal agency, or a decision to convert a function performed by Federal employees to private sector performance without a competitionunder Office of Management and Budget Circular A–76, then an interested party described in section 3551(2)(B) of title 31 shall be entitled to intervene in that action.
+
+(6) Jurisdiction over any action described in paragraph (1) arising out of a maritime contract, or a solicitation for a proposed maritime contract, shall be governed by this section and shall not be subject to the jurisdiction of the district courts of the United States under the Suits in Admiralty Act (chapter 309 of title 46) or the Public Vessels Act (chapter 311 of title 46).
 
 (c) Nothing herein shall be construed to give the United States Court of Federal Claims jurisdiction of any civil action within the exclusive jurisdiction of the Court of International Trade, or of any action against, or founded on conduct of, the Tennessee Valley Authority, or to amend or modify the provisions of the Tennessee Valley Authority Act of 1933 with respect to actions by or against the Authority.
 
-(June 25, 1948, ch. 646, 62 Stat. 940; July 28, 1953, ch. 253, §7, 67 Stat. 226; Sept. 3, 1954, ch. 1263, §44(a), (b), 68 Stat. 1241; Pub. L. 91–350, §1(b), July 23, 1970, 84 Stat. 449; Pub. L. 92–415, §1, Aug. 29, 1972, 86 Stat. 652; Pub. L. 95–563, §14(i), Nov. 1, 1978, 92 Stat. 2391; Pub. L. 96–417, title V, §509, Oct. 10, 1980, 94 Stat. 1743; Pub. L. 97–164, title I, §133(a), Apr. 2, 1982, 96 Stat. 39; Pub. L. 102–572, title IX, §§902(a), 907(b)(1), Oct. 29, 1992, 106 Stat. 4516, 4519; Pub. L. 104–320, §12(a), Oct. 19, 1996, 110 Stat. 3874; Pub. L. 110–161, div. D, title VII, §739(c)(2), Dec. 26, 2007, 121 Stat. 2031; Pub. L. 110–181, div. A, title III, §326(c), Jan. 28, 2008, 122 Stat. 63; Pub. L. 110–417, \[div. A\], title X, §1061(d), Oct. 14, 2008, 122 Stat. 4613; Pub. L. 111–350, §5(g)(7), Jan. 4, 2011, 124 Stat. 3848.)
+(June 25, 1948, ch. 646, 62 Stat. 940; July 28, 1953, ch. 253, §7, 67 Stat. 226; Sept. 3, 1954, ch. 1263, §44(a), (b), 68 Stat. 1241; Pub. L. 91–350, §1(b), July 23, 1970, 84 Stat. 449; Pub. L. 92–415, §1, Aug. 29, 1972, 86 Stat. 652; Pub. L. 95–563, §14(i), Nov. 1, 1978, 92 Stat. 2391; Pub. L. 96–417, title V, §509, Oct. 10, 1980, 94 Stat. 1743; Pub. L. 97–164, title I, §133(a), Apr. 2, 1982, 96 Stat. 39; Pub. L. 102–572, title IX, §§902(a), 907(b)(1), Oct. 29, 1992, 106 Stat. 4516, 4519; Pub. L. 104–320, §12(a), Oct. 19, 1996, 110 Stat. 3874; Pub. L. 110–161, div. D, title VII, §739(c)(2), Dec. 26, 2007, 121 Stat. 2031; Pub. L. 110–181, div. A, title III, §326(c), Jan. 28, 2008, 122 Stat. 63; Pub. L. 110–417, \[div. A\], title X, §1061(d), Oct. 14, 2008, 122 Stat. 4613; Pub. L. 111–350, §5(g)(7), Jan. 4, 2011, 124 Stat. 3848; Pub. L. 112–81, div. A, title VIII, §861(a), Dec. 31, 2011, 125 Stat. 1521.)
 
 #### Historical and Revision Notes
 
@@ -44,6 +46,8 @@ The Tennessee Valley Authority Act of 1933, referred to in subsec. (c), is act M
 
 <b>2011</b>—Subsec. (a)(2). Pub. L. 111–350 substituted “section 7104(b)(1) of title 41” for “section 10(a)(1) of the Contract Disputes Act of 1978”.
 
+Subsec. (b)(6). Pub. L. 112–81 added par. (6).
+
 <b>2008</b>—Subsec. (b)(5). Pub. L. 110–417 struck out par. (5), as added by Pub. L. 110–161, which read as follows: “If a private sector interested party commences an action described in paragraph (1) in the case of a public-private competition conducted under Office of Management and Budget Circular A–76 regarding performance of an activity or function of a Federal agency, or a decision to convert a function performed by Federal employees to private sector performance without a competition under Office of Management and Budget Circular A–76, then an official or person described in section 3551(2)(B) of title 31 shall be entitled to intervene in that action.”
 
 Pub. L. 110–181 added par. (5).
@@ -68,7 +72,7 @@ Subsec. (a)(2). Pub. L. 97–164 designated third, fourth, and fifth sentences o
 
 Subsec. (a)(3). Pub. L. 97–164 added par. (3).
 
-Subsec. (b). Pub. L. 97–164 designated existing second undesignated paragraph as subsec. (b) and substituted “United States Claims Court” for “Court of Claims”, “conduct of, the Tennessee Valley Authority, or” for “actions of, the Tennessee Valley Authority, nor”, “Tennessee Valley Authority Act of 1933” for “Tennessee Valley Authority Act of 1933, as amended,”, and “actions by or against the Authority” for “suits by or against the Authority”.
+Subsec. (b). Pub. L. 97–164 designated existing second undesignated paragraph as subsec. (b) and substituted “United States Claims Court” for “Court of Claims”, “conduct of, the Tennessee Valley Authority, or” for “actions of, the Tennessee Valley Authority, nor”,“Tennessee Valley Authority Act of 1933” for “Tennessee Valley Authority Act of 1933, as amended,”, and “actions by or against the Authority” for “suits by or against the Authority”.
 
 <b>1980</b>—Pub. L. 96–417 substituted “Court of Claims of any civil action within the exclusive jurisdiction of the Court of International Trade, or of any action” for “in suits” in second par.
 
@@ -82,13 +86,17 @@ Subsec. (b). Pub. L. 97–164 designated existing second undesignated paragraph 
 
 <b>1953</b>—Act July 28, 1953, substituted “United States Court of Claims” for “Court of Claims” near beginning of section, and inserted last par.
 
+#### Effective Date of 2011 Amendment
+
+Pub. L. 112–81, div. A, title VIII, §861(b), Dec. 31, 2011, 125 Stat. 1521, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to any cause of action filed on or after the first day of the first month beginning more than 30 days after the date of the enactment of this Act \[Dec. 31, 2011\].”
+
 #### Effective Date of 2008 Amendment
 
 Pub. L. 110–181, div. A, title III, §326(d), Jan. 28, 2008, 122 Stat. 63, provided that: “Subparagraph (B) of section 3551(2) of title 31, United States Code (as added by subsection (a)), and paragraph (5) of section 1491(b) of title 28, United States Code (as added by subsection (c)), shall apply to—
 
 &emsp;“(1) a protest or civil action that challenges final selection of the source of performance of an activity or function of a Federal agency that is made pursuant to a study initiated under Office of Management and Budget Circular A–76 on or after January 1, 2004; and
 
-&emsp;“(2) any other protest or civil action that relates to a public-private competition initiated under Office ofManagement and Budget Circular A–76, or to a decision to convert a function performed by Federal employees to private sector performance without a competition under Office of Management and Budget Circular A–76, on or after the date of the enactment of this Act \[Jan. 28, 2008\].”
+&emsp;“(2) any other protest or civil action that relates to a public-private competition initiated under Office of Management and Budget Circular A–76, or to a decision to convert a function performed by Federal employees to private sector performance without a competition under Office of Management and Budget Circular A–76, on or after the date of the enactment of this Act \[Jan. 28, 2008\].”
 
 #### Effective Date of 2007 Amendment
 

@@ -54,7 +54,7 @@ There is an Office of Inspector General within the Office of the Architect of th
 
 #### (2) Employees
 
-&emsp;The Inspector General, in carrying out this section, is authorized to select, appoint, andemploy such officers and employees (including consultants) as may be necessary for carrying out the functions, powers, and duties of the Office of Inspector General subject to the provisions of law governing selections, appointments, and employment in the Office of the Architect of the Capitol.
+&emsp;The Inspector General, in carrying out this section, is authorized to select, appoint, and employ such officers and employees (including consultants) as may be necessary for carrying out the functions, powers, and duties of the Office of Inspector General subject to the provisions of law governing selections, appointments, and employment in the Office of the Architect of the Capitol.
 
 #### (e) Transfers
 

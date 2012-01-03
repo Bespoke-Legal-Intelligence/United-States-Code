@@ -66,7 +66,7 @@
 
 #### (4) Review; potential increase in enrollment acreage
 
-&emsp;The Secretary shall conduct a review of the program established under this section with respect to each State that has enrolled land in the conservation reserve pursuant to the program. As a result of the review, the Secretary may increase the number of acres that may be enrolled in a State under the program to not more than 200,000 acres, notwithstanding paragraph (1)(A).
+&emsp;The Secretary shall conduct a review of the program established under this section withrespect to each State that has enrolled land in the conservation reserve pursuant to the program. As a result of the review, the Secretary may increase the number of acres that may be enrolled in a State under the program to not more than 200,000 acres, notwithstanding paragraph (1)(A).
 
 #### (d) Owner or operator enrollment limitations
 
@@ -90,7 +90,7 @@
 
 #### (3) Tracts
 
-&emsp;Except for land described in subsection (b)(1)(C) and buffer acreage related to suchland, the maximum size of any eligible acreage described in subsection (b)(1) in a tract of an owner or operator enrolled in the conservation reserve under this section shall be 40 acres.
+&emsp;Except for land described in subsection (b)(1)(C) and buffer acreage related to such land, the maximum size of any eligible acreage described in subsection (b)(1) in a tract of an owner or operator enrolled in the conservation reserve under this section shall be 40 acres.
 
 #### (e) Duties of owners and operators
 

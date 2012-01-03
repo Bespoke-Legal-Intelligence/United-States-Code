@@ -50,7 +50,7 @@ Each eligible partnership desiring a grant under this section shall submit an ap
 
 &emsp;&emsp;(H) how faculty at the partner institution will work, during the term of the grant, with highly qualified teachers in the classrooms of high-need schools served by the high-need local educational agency in the partnership to—
 
-&emsp;&emsp;&emsp;(i) provide high-quality professional development activities to strengthen thecontent knowledge and teaching skills of elementary school and secondary school teachers; and
+&emsp;&emsp;&emsp;(i) provide high-quality professional development activities to strengthen the content knowledge and teaching skills of elementary school and secondary school teachers; and
 
 &emsp;&emsp;&emsp;(ii) train other classroom teachers to implement literacy programs that incorporate the essential components of reading instruction;
 
@@ -112,7 +112,7 @@ An eligible partnership that receives a grant to carry out a program for the pre
 
 &emsp;&emsp;&emsp;&emsp;(III) possess skills to analyze student academic achievement data and other measures of student learning, and use such data and measures to improve classroom instruction;
 
-&emsp;&emsp;&emsp;&emsp;(IV) possess teaching skills and an understanding of effective instructionalstrategies across all applicable content areas that enable general education and special education teachers and early childhood educators to—
+&emsp;&emsp;&emsp;&emsp;(IV) possess teaching skills and an understanding of effective instructional strategies across all applicable content areas that enable general education and special education teachers and early childhood educators to—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) meet the specific learning needs of all students, including students with disabilities, students who are limited English proficient, students who are gifted and talented, students with low literacy levels and, as applicable, children in early childhood education programs; and
 
@@ -222,7 +222,7 @@ An eligible partnership that receives a grant to carry out a program for the pre
 
 &emsp;&emsp;&emsp;(iii) Experience and learning opportunities alongside a trained and experienced mentor teacher—
 
-&emsp;&emsp;&emsp;&emsp;(I) whose teaching shall complement the residency program so that classroom clinical practice is tightly aligned with coursework;
+&emsp;&emsp;&emsp;&emsp;(I) whose teaching shall complement the residency program so that classroomclinical practice is tightly aligned with coursework;
 
 &emsp;&emsp;&emsp;&emsp;(II) who shall have extra responsibilities as a teacher leader of the teaching residency program, as a mentor for residents, and as a teacher coach during the induction program for new teachers, and for establishing, within the program, a learning community in which all individuals are expected to continually improve their capacity to advance student learning; and
 
@@ -244,7 +244,7 @@ An eligible partnership that receives a grant to carry out a program for the pre
 
 &emsp;&emsp;&emsp;(vi) The development of admissions goals and priorities—
 
-&emsp;&emsp;&emsp;&emsp;(I) that are aligned with the hiring objectives of the local educational agencypartnering with the program, as well as the instructional initiatives and curriculum of such agency, in exchange for a commitment by such agency to hire qualified graduates from the teaching residency program; and
+&emsp;&emsp;&emsp;&emsp;(I) that are aligned with the hiring objectives of the local educational agency partnering with the program, as well as the instructional initiatives and curriculum of such agency, in exchange for a commitment by such agency to hire qualified graduates from the teaching residency program; and
 
 &emsp;&emsp;&emsp;&emsp;(II) which may include consideration of applicants who reflect the communities in which they will teach as well as consideration of individuals from underrepresented populations in the teaching profession.
 
@@ -286,7 +286,7 @@ An eligible partnership that receives a grant to carry out a program for the pre
 
 &emsp;&emsp;&emsp;&emsp;(I) serve as a full-time teacher for a total of not less than three academic years immediately after successfully completing the teaching residency program;
 
-&emsp;&emsp;&emsp;&emsp;(II) fulfill the requirement under subclause (I) by teaching in a high-need school served by the high-need local educational agency in the eligible partnership and teach a subject or area that is designated as high need by the partnership;
+&emsp;&emsp;&emsp;&emsp;(II) fulfill the requirement under subclause (I) by teaching in a high-need school served by the high-need local educational agency in the eligible partnership and teach a subject or area that isdesignated as high need by the partnership;
 
 &emsp;&emsp;&emsp;&emsp;(III) provide to the eligible partnership a certificate, from the chief administrative officer of the local educational agency in which the resident is employed, of the employment required in subclauses (I) and (II) at the beginning of, and upon completion of, each year or partial year of service;
 
@@ -432,7 +432,7 @@ Another prior section 202 of Pub. L. 89–329 was classified to section 1022 of 
 
 Subsec. (c)(1). Pub. L. 111–39, §201(2)(B), struck out “pre-baccalaureate” before “preparation”.
 
-Subsec. (d). Pub. L. 111–39, §201(2)(C), substituted “the preparation” for “pre-baccalaureate preparation” in heading, added introductory provisions, and struck out former introductory provisions which read as follows: “An eligible partnership that receives a grant to carry out an effective program for the pre-baccalaureate preparation of teachers shall carry out a program that includes all of the following:”.
+Subsec. (d). Pub. L. 111–39, §201(2)(C), substituted “the preparation” for “pre-baccalaureate preparation” inheading, added introductory provisions, and struck out former introductory provisions which read as follows: “An eligible partnership that receives a grant to carry out an effective program for the pre-baccalaureate preparation of teachers shall carry out a program that includes all of the following:”.
 
 Subsec. (e)(2). Pub. L. 111–39, §201(2)(D), in subpar. (A)(ii), substituted “leading to” for “to earn” and, in subpar. (C), struck out “one-year” before “teaching residency program” in cls. (i) and (iii)(I).
 

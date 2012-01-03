@@ -2,7 +2,7 @@
 
 #### (a) Grant authority
 
-Subject to the availability of such amounts as may be provided in advance in appropriations Acts for this purpose, the Secretary shall make a grant to each State that is an incentive-eligible State for a fiscal year in an amount equal to the adoption incentive payment payable to the State under this section for the fiscal year, which shall be payable in the immediately succeeding fiscal year.
+Subject to the availability of such amounts as may be provided in advance in appropriations Acts for this purpose, the Secretary shall make a grant to each State that is an incentive-eligible State for a fiscal year in an amount equal tothe adoption incentive payment payable to the State under this section for the fiscal year, which shall be payable in the immediately succeeding fiscal year.
 
 #### (b) Incentive-eligible State
 
@@ -38,7 +38,7 @@ A State is an incentive-eligible State for a fiscal year if—
 
 #### (3) No waiver of AFCARS requirements
 
-&emsp;This section shall not be construed to alter or affect any requirement of section 679 of thistitle or of any regulation prescribed under such section with respect to reporting of data by States, or to waive any penalty for failure to comply with such a requirement.
+&emsp;This section shall not be construed to alter or affect any requirement of section 679 of this title or of any regulation prescribed under such section with respect to reporting of data by States, or to waive any penalty for failure to comply with such a requirement.
 
 #### (d) Adoption incentive payment
 
@@ -197,10 +197,6 @@ As used in this section:
 &emsp;To carry out this subsection, there are authorized to be appropriated to the Secretary of Health and Human Services not to exceed $10,000,000 for each of fiscal years 2004 through 2006.
 
 (Aug. 14, 1935, ch. 531, title IV, §473A, as added Pub. L. 105–89, title II, §201(a), Nov. 19, 1997, 111 Stat. 2122; amended Pub. L. 105–200, title IV, §410(f), July 16, 1998, 112 Stat. 673; Pub. L. 106–169, title I, §131, Dec. 14, 1999, 113 Stat. 1830; Pub. L. 108–145, §3(a), Dec. 2, 2003, 117 Stat. 1879; Pub. L. 109–288, §6(f)(7), Sept. 28, 2006, 120 Stat. 1248; Pub. L. 110–351, title IV, §401, Oct. 7, 2008, 122 Stat. 3973.)
-
-#### References in Text
-
-Part B of this subchapter, referred to in subsec. (f), is classified to section 620 et seq. of this title.
 
 #### Amendments
 

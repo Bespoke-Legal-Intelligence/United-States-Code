@@ -20,7 +20,7 @@
 
 &emsp;(A) is entitled, on correction of the personnel action, to receive for the period for which the personnel action was in effect—
 
-&emsp;&emsp;(i) an amount equal to all or any part of the pay, allowances, or differentials, as applicable which the employee normally wouldhave earned or received during the period if the personnel action had not occurred, less any amounts earned by the employee through other employment during that period; and
+&emsp;&emsp;(i) an amount equal to all or any part of the pay, allowances, or differentials, as applicable which the employee normally would have earned or received during the period if the personnel action had not occurred, less any amounts earned by the employee through other employment during that period; and
 
 &emsp;&emsp;(ii) reasonable attorney fees related to the personnel action which, with respect to any decision relating to an unfair labor practice or a grievance processed under a procedure negotiated in accordance with chapter 71 of this title, or under chapter 11 of title I of the Foreign Service Act of 1980, shall be awarded in accordance with standards established under section 7701(g) of this title; and
 
@@ -90,25 +90,25 @@ Sections 1101, 1002, and 1015 of the Foreign Service Act of 1980, referred to in
 
 #### Amendments
 
-2001—Subsec. (a)(6), (7). Pub. L. 107–68 added pars. (6) and (7).
+<b>2001</b>—Subsec. (a)(6), (7). Pub. L. 107–68 added pars. (6) and (7).
 
-1998—Subsec. (b)(4), (5). Pub. L. 105–261 added par. (4) and redesignated former par. (4) as (5).
+<b>1998</b>—Subsec. (b)(4), (5). Pub. L. 105–261 added par. (4) and redesignated former par. (4) as (5).
 
-1990—Subsec. (a)(2). Pub. L. 101–474, §5(<i>l</i>)(1), substituted “Courts, the Federal Judicial Center, and the courts named by section 610 of title 28” for “Courts”.
+<b>1990</b>—Subsec. (a)(2). Pub. L. 101–474, §5(<i>l</i>)(1), substituted “Courts, the Federal Judicial Center, and the courts named by section 610 of title 28” for “Courts”.
 
 Subsec. (c). Pub. L. 101–474, §5(<i>l</i>)(2), substituted “employees, or to the agencies specified in subsection (a)(2) of this section” for “employees”.
 
-1987—Subsec. (b)(2) to (4). Pub. L. 100–202 added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+<b>1987</b>—Subsec. (b)(2) to (4). Pub. L. 100–202 added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
-1980—Subsec. (b)(1). Pub. L. 96–465, §2306(1), inserted in subpar. (A)(ii) “or under chapter 11 of title I of the Foreign Service Act of 1980” after “chapter 71 of this title,”.
+<b>1980</b>—Subsec. (b)(1). Pub. L. 96–465, §2306(1), inserted in subpar. (A)(ii) “or under chapter 11 of title I of the Foreign Service Act of 1980” after “chapter 71 of this title,”.
 
 Subsec. (b)(3). Pub. L. 96–465, §2306(2), inserted “and (with respect to members of the Foreign Service) in sections 1101 and 1002 of the Foreign Service Act of 1980” after “section 7103 of this title”, and “and (with respect to members of the Foreign Service) in section 1015 of the Foreign Service Act of 1980” after “section 7116 of this title”.
 
-1979—Subsec. (c). Pub. L. 96–54 substituted “Office of Personnel Management” for “Civil Service Commission”.
+<b>1979</b>—Subsec. (c). Pub. L. 96–54 substituted “Office of Personnel Management” for “Civil Service Commission”.
 
-1978—Subsec. (b). Pub. L. 95–454 substituted provisions relating to corrective measures applicable to an employee who, on the basis of a timely appeal or an administrative determination, including a decision relative to an unfair labor practice or grievance, is found by an appropriate authority under applicable law, rule, regulation, or collective bargaining agreement to have been affected by an unjustified or unwarranted personnel action, for provisions relating to corrective measures applicable to an employee who, on the basis of an administrative determination or a timely appeal, is found by an appropriate authority under applicable law or regulation to have undergone an unjustified or unwarranted personnel action.
+<b>1978</b>—Subsec. (b). Pub. L. 95–454 substituted provisions relating to corrective measures applicable to an employee who, on the basis of a timely appeal or an administrative determination, including a decision relative to an unfair labor practice or grievance, is found by an appropriate authority under applicable law, rule, regulation, or collective bargaining agreement to have been affected by an unjustified or unwarranted personnel action, for provisions relating to corrective measures applicable to an employee who, on the basis of an administrative determination or a timely appeal, is found by an appropriate authority under applicable law or regulation to have undergone an unjustified or unwarranted personnel action.
 
-1975—Subsec. (b)(2). Pub. L. 94–172 struck out in introductory clause provision relating to prohibition on leave credit cumulated in excess of maximum allowed under law or regulations, and added subpars. (A) and (B).
+<b>1975</b>—Subsec. (b)(2). Pub. L. 94–172 struck out in introductory clause provision relating to prohibition on leave credit cumulated in excess of maximum allowed under law or regulations, and added subpars. (A) and (B).
 
 #### Effective Date of 2001 Amendment
 
@@ -172,5 +172,5 @@ Section 3 of Pub. L. 94–172 provided that:
 
 “(a) With respect to a former employee of the Post Office Department or a former employee of the United States Postal Service who had prior civilian service with the Post Office Department or other Federal agency, who is not on the rolls on the date of the enactment of this Act \[Dec. 23, 1975\], annual leave which was accrued before July 1, 1971, but was not credited under section 5596 of title 5, United States Code, because it was in an amount that would have caused the amount of leave to his credit to exceed the maximum amount of the leave authorized for the employee by law or regulation, is subject to credit and, liquidation by lump-sum payment only if a claim therefor is filed within 3 years immediately following the date of enactment of this Act with the Postal Service. Payment shall be by the Postal Service at the salary rate in effect on the date the lump-sum payment provisions of section 5551 of title 5, United States Code, or comparable provisions of regulations of the Postal Service, as appropriate, last became applicable to the former employee.
 
-“(b) With respect to a present employee of the Postal Service who had prior Federal civilian service with the Post Office Department or other Federal agency, annual leave which was accrued before July 1, 1971, but was not credited under section 5596 of title 5, United States Code, because it was in an amount that would have caused the amount of leave to the employee's credit to exceed the maximum amount of the leave authorized for the employee by law or regulation, is subject to credit and liquidation by lump-sum payment only if a claim therefor is filed with the Postal Service within three years immediately following the date of the enactment of this Act \[Dec. 23, 1975\]. Payment shall be by the Postal Service at the salary rate in effect on the date of the enactment of this Act.”
+“(b) With respect to a present employee of the Postal Service who had prior Federal civilian service with the Post Office Department or other Federal agency, annual leave which was accrued before July 1, 1971, but was not credited under section 5596 of title 5, United States Code, because it was in an amount that would have caused the amount of leave to the employee's credit to exceed the maximum amount of the leave authorized for the employee by law or regulation, is subject to credit and liquidation by lump-sum payment only if a claim therefor is filed with the Postal Service within three years immediately following the date ofthe enactment of this Act \[Dec. 23, 1975\]. Payment shall be by the Postal Service at the salary rate in effect on the date of the enactment of this Act.”
 

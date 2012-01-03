@@ -2,7 +2,7 @@
 
 #### (a) Approval of agreements and statements of administrative action
 
-In accordance with the provisions of sections 2112 and 2191 of this title, the Congress approves the trade agreements described in subsection (c) of this section submitted to the Congress on June 19, 1979, and the statements of administrative action proposed to implement such trade agreements submitted to the Congress on that date.
+In accordance with the provisions of sections 2112 and 2191 of this title, the Congress approvesthe trade agreements described in subsection (c) of this section submitted to the Congress on June 19, 1979, and the statements of administrative action proposed to implement such trade agreements submitted to the Congress on that date.
 
 #### (b) Acceptance of agreements by the President
 

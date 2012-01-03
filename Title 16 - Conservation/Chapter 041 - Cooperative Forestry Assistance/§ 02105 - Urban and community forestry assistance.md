@@ -150,13 +150,13 @@ The Secretary, in cooperation with State foresters or equivalent State officials
 
 #### (iii) Continuation
 
-&emsp;&emsp;&emsp;Any member appointed to fill a vacancy occurring before the expiration of the term of the member's predecessor shall be appointed only for the remainder of such term. A member may serve after the expiration of the member's term until the member's successor has taken office.
+&emsp;&emsp;&emsp;Any member appointed to fill a vacancy occurring before the expiration of the termof the member's predecessor shall be appointed only for the remainder of such term. A member may serve after the expiration of the member's term until the member's successor has taken office.
 
 #### (E) Compensation
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), members of the Council shall serve withoutpay, but may be reimbursed for reasonable costs incurred while in the actual performance of duties vested in the Council.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), members of the Council shall serve without pay, but may be reimbursed for reasonable costs incurred while in the actual performance of duties vested in the Council.
 
 #### (ii) Federal officers and employees
 
@@ -222,11 +222,11 @@ For the purposes of this section—
 
 There are hereby authorized to be appropriated $30,000,000 for each of the fiscal years 1991 through 1995, and such sums as may be necessary for each fiscal year thereafter, for the implementation of this section.
 
-(Pub. L. 95–313, §9, formerly §6, July 1, 1978, 92 Stat. 369; renumbered §9 and amended Pub. L. 101–624, title XII, §§1215(1), 1219(a), Nov. 28, 1990, 104 Stat. 3525, 3533; Pub. L. 102–237, title X, §1018(a)(3), Dec. 13, 1991, 105 Stat. 1905; Pub. L. 110–234, title VII, §7511(c)(36), May 22, 2008, 122 Stat. 1271; Pub. L. 110–246, §4(a), title VII, §7511(c)(36), June 18, 2008, 122 Stat. 1664, 2032.)
+(Pub. L. 95–313, §9, formerly §6, July 1, 1978, 92 Stat. 369; renumbered §9 and amended Pub. L.101–624, title XII, §§1215(1), 1219(a), Nov. 28, 1990, 104 Stat. 3525, 3533; Pub. L. 102–237, title X, §1018(a)(3), Dec. 13, 1991, 105 Stat. 1905; Pub. L. 110–234, title VII, §7511(c)(36), May 22, 2008, 122 Stat. 1271; Pub. L. 110–246, §4(a), title VII, §7511(c)(36), June 18, 2008, 122 Stat. 1664, 2032.)
 
 #### Codification
 
-November 28, 1990, referred to in subsec. (g)(3), was in the original “the date of enactment of this subsection”,which was translated as meaning the date of enactment of Pub. L. 101–624, which amended this section generally, to reflect the probable intent of Congress.
+November 28, 1990, referred to in subsec. (g)(3), was in the original “the date of enactment of this subsection”, which was translated as meaning the date of enactment of Pub. L. 101–624, which amended this section generally, to reflect the probable intent of Congress.
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 

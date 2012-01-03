@@ -144,7 +144,7 @@ Additional Definitions.—In this section:
 
 &emsp;(6) The term “assemblies” means items forming a portion of a system or subsystem that can be provisioned and replaced as an entity and which incorporates multiple, replaceable parts.
 
-&emsp;(7) The term “commercial derivative military article” means an item procured by the Department of Defense that is or will be produced using the same production facilities, a common supply chain, and the same or similar production processes that are used for the production of articles predominantly used by the general public or by nongovernmental entities for purposes other than governmental purposes.
+&emsp;(7) The term “commercial derivative military article” means an item procured by theDepartment of Defense that is or will be produced using the same production facilities, a common supply chain, and the same or similar production processes that are used for the production of articles predominantly used by the general public or by nongovernmental entities for purposes other than governmental purposes.
 
 &emsp;(8) The term “subsystem” means a functional grouping of items that combine to perform a major function within an end item, such as electrical power, attitude control, and propulsion.
 
@@ -158,7 +158,7 @@ Additional Definitions.—In this section:
 
 Section 34 of the Office of Federal Procurement Policy Act, referred to in subsec. (h)(1), means section 34 of Pub. L. 93–400, which was classified to section 430 of former Title 41, Public Contracts, and was repealed and restated in section 1906 of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
 
-Section 35 of the Office of Federal Procurement Policy Act, referred to in subsec. (h)(1), (2) and (m)(5), means section 35 of Pub. L. 93–400, which was classified to section 431 of former Title 41, Public Contracts. Subsecs. (a) and (b) of such section 35 were repealed and restated as section 1907 of Title 41, Public Contracts, and subsec. (c) of such section 35 was repealed and restatedas section 104 of Title 41, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
+Section 35 of the Office of Federal Procurement Policy Act, referred to in subsec. (h)(1), (2) and (m)(5), means section 35 of Pub. L. 93–400, which was classified to section 431 of former Title 41, Public Contracts. Subsecs. (a) and (b) of such section 35 were repealed and restated as section 1907 of Title 41, Public Contracts, and subsec. (c) of such section 35 was repealed and restated as section 104 of Title 41, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
 
 Section 4 of the Office of Federal Procurement Policy Act, referred to in subsec. (m)(2), (3), means section 4 of Pub. L. 93–400, which was classified to section 403 of former Title 41, Public Contracts, and was repealed and the provisions thereof restated in sections 102, 103, 105, 107 to 116, 131 to 134, and 1301 of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
 

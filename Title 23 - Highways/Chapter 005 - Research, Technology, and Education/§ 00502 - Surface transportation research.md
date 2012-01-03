@@ -164,7 +164,7 @@ Contents of Research Program.—The Secretary shall include in surface transport
 
 &emsp;&emsp;(C) the use of innovative recycled materials.
 
-&emsp;(3) Technologies and practices that reduce costs and minimize disruptions associated with the construction, rehabilitation, and maintenance of surface transportation systems, including responses to natural disasters.
+&emsp;(3) Technologies and practices that reduce costs and minimize disruptions associatedwith the construction, rehabilitation, and maintenance of surface transportation systems, including responses to natural disasters.
 
 &emsp;(4) Development of nondestructive evaluation equipment for use with existing infrastructure facilities and with next-generation infrastructure facilities that use advanced materials.
 
@@ -548,7 +548,7 @@ Transportation, economic, and land use system.—The Secretary shall continue to
 
 Funding.—Of the amounts made available by section 5101(a)(1) of this Act \[119 Stat. 1779\], for each of fiscal years 2005 through 2009 $4,200,000 shall be available to carry out paragraph (1) and $1,000,000 shall be available to carry out paragraph (2).”
 
-Pub. L. 105–178, title V, §5117, June 9, 1998, 112 Stat. 448, as amended by Pub. L. 105–206, title IX, §9011(g), (h), July 22, 1998, 112 Stat. 864; Pub. L. 105–277, div. A, §101(g) \[title III, §3769 \[369\]\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–478; Pub. L. 107–117, div. B, §1101, Jan. 10,2002, 115 Stat. 2330; Pub. L. 109–59, title V, §5508, Aug. 10, 2005, 119 Stat. 1824, provided that:
+Pub. L. 105–178, title V, §5117, June 9, 1998, 112 Stat. 448, as amended by Pub. L. 105–206, title IX, §9011(g), (h), July 22, 1998, 112 Stat. 864; Pub. L. 105–277, div. A, §101(g) \[title III, §3769 \[369\]\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–478; Pub. L. 107–117, div. B, §1101, Jan. 10, 2002, 115 Stat. 2330; Pub. L. 109–59, title V, §5508, Aug. 10, 2005, 119 Stat. 1824, provided that:
 
 “(a)
 
@@ -596,7 +596,7 @@ Definitions.—In this paragraph:
 
 &emsp;&emsp;&emsp;“(i)
 
-Congested area.—The term ‘congested area’ means a metropolitan area that experiences significant traffic congestion, as determined by the Secretary on an annual basis, including the metropolitan areas of Albany, Atlanta, Austin, Burlington, Charlotte, Columbus, Greensboro, Hartford, Jacksonville, Kansas City, Louisville, Milwaukee, Minneapolis-St. Paul, Nashville, New Orleans, Norfolk, Raleigh, Richmond, Sacramento, San Jose, Tuscson, and Tulsa.
+Congested area.—The term ‘congested area’ means a metropolitan area that experiencessignificant traffic congestion, as determined by the Secretary on an annual basis, including the metropolitan areas of Albany, Atlanta, Austin, Burlington, Charlotte, Columbus, Greensboro, Hartford, Jacksonville, Kansas City, Louisville, Milwaukee, Minneapolis-St. Paul, Nashville, New Orleans, Norfolk, Raleigh, Richmond, Sacramento, San Jose, Tuscson, and Tulsa.
 
 &emsp;&emsp;&emsp;“(ii)
 
@@ -680,7 +680,7 @@ Part II.—
 
 &emsp;&emsp;&emsp;“(i)
 
-In general.—In carrying out part II of the program, the Secretary shall award, on a competitive basis, contracts for the deployment of intelligent transportation infrastructure systemsthat have been accepted by the Secretary in congested areas, with the consent of the State transportation departments for the congested areas.
+In general.—In carrying out part II of the program, the Secretary shall award, on a competitive basis, contracts for the deployment of intelligent transportation infrastructure systems that have been accepted by the Secretary in congested areas, with the consent of the State transportation departments for the congested areas.
 
 &emsp;&emsp;&emsp;“(ii)
 
@@ -808,7 +808,7 @@ Recycled materials resource center.—
 
 &emsp;&emsp;“(A)
 
-Establishment.—The Secretary shall establish at the University of New Hampshire a research program to be known as the ‘Recycled MaterialsResource Center’ (referred to in this paragraph as the ‘Center’).
+Establishment.—The Secretary shall establish at the University of New Hampshire a research program to be known as the ‘Recycled Materials Resource Center’ (referred to in this paragraph as the ‘Center’).
 
 &emsp;&emsp;“(B)
 
@@ -1050,7 +1050,7 @@ Use of standards development organizations.—In carrying out this section, the 
 
 “(b)
 
-Report on Critical Standards.—Not later than June 1, 1999, the Secretary shall submit a report to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure and the Committee on Science \[now Committee on Science and Technology\] of the House of Representatives identifying which standards are critical to ensuring national interoperability or critical to the development of other standards and specifying the status of the development of each standard identified.
+Report on Critical Standards.—Not later than June 1, 1999, the Secretary shall submit a report to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure and the Committee on Science \[now Committee on Science, Space, and Technology\] of the House of Representatives identifying which standards are critical to ensuring national interoperability or critical to the development of other standards and specifying the status of the development of each standard identified.
 
 “(c)
 
@@ -1066,7 +1066,7 @@ Critical standards.—If a standard identified as critical in the report under s
 
 &emsp;“(3)
 
-Period of effectiveness.—A provisional standard established under paragraph (1) or (2) shall be published in the Federal Register and remain in effect until the appropriate standards development organization adopts and publishes a standard.
+Period of effectiveness.—A provisional standard established under paragraph (1) or (2) shallbe published in the Federal Register and remain in effect until the appropriate standards development organization adopts and publishes a standard.
 
 “(d)
 
@@ -1296,7 +1296,7 @@ Establishment.—Not later than 180 days after the date of transmittal of the re
 
 “(b)
 
-Purposes.—The advisory committee shall provide ongoing advice and recommendations to the Secretary regarding needs, objectives, plans, approaches, content, and accomplishments with respect to short-term and long-term surface transportation research and development. The advisory committee shall also assist in ensuring that such research and development is coordinated with similar research and developmentbeing conducted outside of the Department of Transportation.
+Purposes.—The advisory committee shall provide ongoing advice and recommendations to the Secretary regarding needs, objectives, plans, approaches, content, and accomplishments with respect to short-term and long-term surface transportation research and development. The advisory committee shall also assist in ensuring that such research and development is coordinated with similar research and development being conducted outside of the Department of Transportation.
 
 “(c)
 

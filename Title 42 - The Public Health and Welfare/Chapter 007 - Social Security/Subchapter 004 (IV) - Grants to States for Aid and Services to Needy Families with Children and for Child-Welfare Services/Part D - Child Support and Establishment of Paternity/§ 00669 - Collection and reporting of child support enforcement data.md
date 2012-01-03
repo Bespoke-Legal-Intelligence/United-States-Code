@@ -26,10 +26,6 @@ For purposes of subsection (a)(2) of this section, a service has actually been p
 
 (Aug. 14, 1935, ch. 531, title IV, §469, as added Pub. L. 100–485, title I, §129, Oct. 13, 1988, 102 Stat. 2356; amended Pub. L. 100–647, title VIII, §8105(6), Nov. 10, 1988, 102 Stat. 3797; Pub. L. 104–193, title I, §108(c)(16), title III, §395(d)(2)(E), Aug. 22, 1996, 110 Stat. 2166, 2260; Pub. L. 105–200, title IV, §407(a), July 16, 1998, 112 Stat. 672.)
 
-#### References in Text
-
-Parts A and E of this subchapter, referred to in subsec. (c)(1), are classified to sections 601 et seq. and 670 et seq., respectively, of this title.
-
 #### Amendments
 
 <b>1998</b>—Pub. L. 105–200 reenacted section catchline without change, added subsecs. (a) to (c), redesignated former subsec. (c) as (d) and inserted heading, and struck out former subsec. (a) relating to statistics on need for and actual provision of services and subsec. (b) relating to types of services.

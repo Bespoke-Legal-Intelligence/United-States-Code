@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;There is hereby imposed on the sale of any article of sport fishing equipment by the manufacturer, producer, or importer a tax equal to 10 percent of the price for which so sold.
+&emsp;&emsp;There is hereby imposed on the sale of any article of sport fishing equipment by themanufacturer, producer, or importer a tax equal to 10 percent of the price for which so sold.
 
 #### (B) Limitation on tax imposed on fishing rods and poles
 
@@ -158,7 +158,7 @@ Section 1433(b) of Pub. L. 105–34 provided that: “The amendment made by subs
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 1015(a) of Pub. L. 98–369 applicable with respect to articles sold by the manufacturer,producer, or importer after Sept. 30, 1984, see section 1015(e) of Pub. L. 98–369, set out as an Effective Date note under section 4162 of this title.
+Amendment by section 1015(a) of Pub. L. 98–369 applicable with respect to articles sold by the manufacturer, producer, or importer after Sept. 30, 1984, see section 1015(e) of Pub. L. 98–369, set out as an Effective Date note under section 4162 of this title.
 
 Section 1017(c) of Pub. L. 98–369 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to articles sold by the manufacturer, producer, or importer after September 30, 1984.”
 

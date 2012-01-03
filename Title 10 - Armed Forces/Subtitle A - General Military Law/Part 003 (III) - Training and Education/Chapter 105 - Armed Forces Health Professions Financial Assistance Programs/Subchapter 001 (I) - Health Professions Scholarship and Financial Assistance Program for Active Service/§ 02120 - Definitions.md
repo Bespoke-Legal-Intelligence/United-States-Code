@@ -10,7 +10,7 @@ In this subchapter:
 
 &emsp;(4) The term “specialized training” means advanced training in a health professions specialty received in an accredited program that is beyond the basic education required for appointment as a commissioned officer with a designation as a health professional.
 
-(Added Pub. L. 92–426, §2(a), Sept. 21, 1972, 86 Stat. 717; amended Pub. L. 98–94, title XII,§1268(13), Sept. 24, 1983, 97 Stat. 706; Pub. L. 100–26, §7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–180, div. A, title VII, §711(a)(2), Dec. 4, 1987, 101 Stat. 1108; Pub. L. 101–189, div. A, title VII, §725(a), (h)(1), Nov. 29, 1989, 103 Stat. 1478, 1480.)
+(Added Pub. L. 92–426, §2(a), Sept. 21, 1972, 86 Stat. 717; amended Pub. L. 98–94, title XII, §1268(13), Sept. 24, 1983, 97 Stat. 706; Pub. L. 100–26, §7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–180, div. A, title VII, §711(a)(2), Dec. 4, 1987, 101 Stat. 1108; Pub. L. 101–189, div. A, title VII, §725(a), (h)(1), Nov. 29, 1989, 103 Stat. 1478, 1480.)
 
 #### Amendments
 

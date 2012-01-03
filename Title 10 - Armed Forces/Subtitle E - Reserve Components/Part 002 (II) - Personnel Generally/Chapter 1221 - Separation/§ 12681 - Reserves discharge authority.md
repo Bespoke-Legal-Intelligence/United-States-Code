@@ -22,7 +22,7 @@ Finding.—Congress finds that the implementation of the off-site agreement may 
 
 “(b)
 
-Reassignment of Members.—(1) To the maximum extent practicable, the Secretary of the Army shall ensure that members of the Armed Forces whowould otherwise be separated from service as a result of the deactivation of military units of the Army National Guard and the Army Reserve under the off-site agreement be reassigned instead to units that are not being deactivated.
+Reassignment of Members.—(1) To the maximum extent practicable, the Secretary of the Army shall ensure that members of the Armed Forces who would otherwise be separated from service as a result of the deactivation of military units of the Army National Guard and the Army Reserve under the off-site agreement be reassigned instead to units that are not being deactivated.
 
 “(2) The reassignment of a member under paragraph (1) shall not affect the grade or rank in grade of the member.
 
@@ -86,7 +86,7 @@ Scope of Plan.—The regulations shall include—
 
 &emsp;“(1) such provisions as are necessary to implement the provisions of this subtitle and the amendments made by this subtitle; and
 
-&emsp;“(2) such other policies and procedures for the recruitment of personnel for service in the Selected Reserve of the Ready Reserve, and for the reassignment, retraining, separation, and retirement of members of the Selected Reserve, as are appropriate for satisfying the needs of the Selected Reserve together with the purpose set out in subsection (a).
+&emsp;“(2) such other policies and procedures for the recruitment of personnel for service in the Selected Reserve of the Ready Reserve, and for the reassignment, retraining, separation, and retirement of members ofthe Selected Reserve, as are appropriate for satisfying the needs of the Selected Reserve together with the purpose set out in subsection (a).
 
 “(c)
 
@@ -170,7 +170,7 @@ Applicability Subject to Needs of the Service.—(1) Subject to regulations pres
 
 “(g)
 
-Nonduplication of Benefits.—A member transferred to the Retired Reserve under the authority of section 12731a of title 10, United States Code (as added by section 4417), may not be paid annual payments under this section.
+Nonduplication of Benefits.—A member transferred to the Retired Reserve under the authority ofsection 12731a of title 10, United States Code (as added by section 4417), may not be paid annual payments under this section.
 
 “(h)
 

@@ -60,7 +60,7 @@
 
 #### (b) Energy management requirement for Federal agencies
 
-(1) Not later than January 1, 2005, each agency shall, to the maximum extent practicable, install in Federal buildings owned by the UnitedStates all energy and water conservation measures with payback periods of less than 10 years, as determined by using the methods and procedures developed pursuant to section 8254 of this title.
+(1) Not later than January 1, 2005, each agency shall, to the maximum extent practicable, install in Federal buildings owned by the United States all energy and water conservation measures with payback periods of less than 10 years, as determined by using the methods and procedures developed pursuant to section 8254 of this title.
 
 (2) The Secretary may waive the requirements of this subsection for any agency for such periods as the Secretary may determine if the Secretary finds that the agency is taking all practicable steps to meet the requirements and that the requirements of this subsection will pose an unacceptable burden upon the agency. If the Secretary waives the requirements of this subsection, the Secretary shall, as part of the report required under section 8258(b) of this title, notify the Congress in writing with an explanation and a justification of the reasons for such waiver.
 
@@ -138,7 +138,7 @@ The Secretary shall consult with the Secretary of Defense and the Administrator 
 
 &emsp;&emsp;&emsp;(ii) include recommendations concerning the amount of funds and the number of trained personnel necessary to gather and use the metering information to track and reduce energy use;
 
-&emsp;&emsp;&emsp;(iii) establish priorities for types and locations of buildings to be metered based on cost-effectiveness and a schedule of one or more dates, not later than 1 year after the date of issuance of the guidelines, on which the requirements specified in paragraph (1) shall take effect; and
+&emsp;&emsp;&emsp;(iii) establish priorities for types and locations of buildings to be metered based on cost-effectiveness and a schedule of one or more dates, not later than 1 year after the date of issuance of the guidelines, onwhich the requirements specified in paragraph (1) shall take effect; and
 
 &emsp;&emsp;&emsp;(iv) establish exclusions from the requirements specified in paragraph (1) based on the de minimis quantity of energy use of a Federal building, industrial process, or structure.
 
@@ -240,7 +240,7 @@ The Secretary shall consult with the Secretary of Defense and the Administrator 
 
 #### (A) In general
 
-&emsp;&emsp;Each Federal agency shall designate an energy manager responsible for implementing this subsection and reducing energy use at each facility that meets criteria under subparagraph (B).
+&emsp;&emsp;Each Federal agency shall designate an energy manager responsible for implementingthis subsection and reducing energy use at each facility that meets criteria under subparagraph (B).
 
 #### (B) Covered facilities
 
@@ -334,7 +334,7 @@ The Secretary shall consult with the Secretary of Defense and the Administrator 
 
 #### (ii) Exemptions
 
-&emsp;&emsp;&emsp;At the request of a Federal agency, the Secretary may exempt specific data for specific facilities from disclosure under clause (i) for national security purposes.
+&emsp;&emsp;&emsp;At the request of a Federal agency, the Secretary may exempt specific data forspecific facilities from disclosure under clause (i) for national security purposes.
 
 #### (8) Benchmarking of Federal facilities
 
@@ -424,7 +424,7 @@ The Energy Policy Act of 1992, referred to in subsec. (c)(1)(A)(iii), is Pub. L.
 
 #### Amendments
 
-<b>2007</b>—Subsec. (a)(1). Pub. L. 110–140, §431, added table and struck out former table which listed percentage reductions for fiscal years as follows: 2 percent for fiscal year 2006, 4 percent for fiscal year 2007, 6 percent for fiscal year 2008, 8 percent for fiscal year 2009, 10 percent for fiscal year 2010, 12 percent for fiscal year 2011, 14 percent for fiscal year 2012, 16 percent for fiscal year 2013, 18 percent for fiscal year 2014, and 20 percent for fiscal year 2015.
+<b>2007</b>—Subsec. (a)(1). Pub. L. 110–140, §431, added table and struck out former table which listed percentage reductions for fiscal years as follows: 2 percent for fiscal year 2006, 4 percent for fiscal year 2007, 6 percent for fiscal year 2008, 8 percent for fiscal year 2009, 10 percentfor fiscal year 2010, 12 percent for fiscal year 2011, 14 percent for fiscal year 2012, 16 percent for fiscal year 2013, 18 percent for fiscal year 2014, and 20 percent for fiscal year 2015.
 
 Subsec. (e)(1). Pub. L. 110–140, §434(b), inserted after second sentence “Not later than October 1, 2016, each agency shall provide for equivalent metering of natural gas and steam, in accordance with guidelines established by the Secretary under paragraph (2).”
 

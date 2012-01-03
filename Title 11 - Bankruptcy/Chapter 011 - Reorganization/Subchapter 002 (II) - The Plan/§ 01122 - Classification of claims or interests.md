@@ -8,7 +8,7 @@
 
 #### Historical and Revision Notes
 
-I74senate report no. 95–989
+#### senate report no. 95–989
 
 This section codifies current case law surrounding the classification of claims and equity securities. It requires classification based on the nature of the claims or interests classified, and permits inclusion of claims or interests in a particular class only if the claim or interest being included is substantially similar to the other claims or interests of the class.
 

@@ -14,11 +14,11 @@ Another section 1447 of Pub. L. 95–113 is classified to section 3222b of this 
 
 #### Amendments
 
-1980—Pub. L. 96–294 inserted reference to rural energy.
+<b>1980</b>—Pub. L. 96–294 inserted reference to rural energy.
 
-1977—Pub. L. 95–113 inserted reference to the uses of solar energy with respect to agriculture and inserted definition of “solar energy”.
+<b>1977</b>—Pub. L. 95–113 inserted reference to the uses of solar energy with respect to agriculture and inserted definition of “solar energy”.
 
-1953—Act June 26, 1953, inserted “continued or” before “inaugurated” near beginning of section, inserted references to “territory, or possession” after “State,” wherever the latter term appeared, and struck out a second proviso which continued farm management work and farmers’ cooperative demonstration work as conducted May 8, 1914, pending inauguration and development of cooperative extension work under sections 341–343 and 344–348 of this title.
+<b>1953</b>—Act June 26, 1953, inserted “continued or” before “inaugurated” near beginning of section, inserted references to “territory, or possession” after “State,” wherever the latter term appeared, and struck out a second proviso which continued farm management work and farmers’ cooperative demonstration work as conducted May 8, 1914, pending inauguration and development of cooperative extension work under sections 341–343 and 344–348 of this title.
 
 #### Effective Date of 1977 Amendment
 

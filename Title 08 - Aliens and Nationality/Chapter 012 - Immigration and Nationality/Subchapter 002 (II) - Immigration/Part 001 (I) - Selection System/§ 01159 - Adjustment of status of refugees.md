@@ -10,7 +10,7 @@
 
 &emsp;(C) who has not acquired permanent resident status,
 
-> shall, at the end of such year period, return or be returned to the custody of the Department ofHomeland Security for inspection and examination for admission to the United States as an immigrant in accordance with the provisions of sections 1225, 1229a, and 1231 of this title.
+> shall, at the end of such year period, return or be returned to the custody of the Department of Homeland Security for inspection and examination for admission to the United States as an immigrant in accordance with the provisions of sections 1225, 1229a, and 1231 of this title.
 
 (2) Any alien who is found upon inspection and examination by an immigration officer pursuant to paragraph (1) or after a hearing before an immigration judge to be admissible (except as otherwise provided under subsection (c) of this section) as an immigrant under this chapter at the time of the alien's inspection and examination shall, notwithstanding any numerical limitation specified in this chapter, be regarded as lawfully admitted to the United States for permanent residence as of the date of such alien's arrival into the United States.
 
@@ -42,7 +42,7 @@ This chapter, referred to in subsecs. (a)(2) and (b)(5), was in the original, �
 
 #### Amendments
 
-2005—Subsec. (a)(1). Pub. L. 109–13, §101(g)(1)(A)(i), substituted “Department of Homeland Security” for “Service” in concluding provisions.
+<b>2005</b>—Subsec. (a)(1). Pub. L. 109–13, §101(g)(1)(A)(i), substituted “Department of Homeland Security” for “Service” in concluding provisions.
 
 Subsec. (a)(1)(A). Pub. L. 109–13, §101(g)(1)(A)(ii), substituted “Secretary of Homeland Security or the Attorney General” for “Attorney General” in two places.
 
@@ -52,13 +52,13 @@ Pub. L. 109–13, §101(g)(1)(B)(i), added introductory provisions and struck ou
 
 Subsec. (c). Pub. L. 109–13, §101(g)(1)(C), substituted “Secretary of Homeland Security or the Attorney General” for “Attorney General”.
 
-1996—Subsec. (a)(1). Pub. L. 104–208, §308(g)(3)(A), (4)(A), substituted “1229a” for “1226” and “1231” for “1227” in concluding provisions.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–208, §308(g)(3)(A), (4)(A), substituted “1229a” for “1226” and “1231” for “1227” in concluding provisions.
 
 Subsec. (a)(2). Pub. L. 104–208, §371(b)(2), substituted “an immigration judge” for “a special inquiry officer”.
 
-1991—Subsec. (c). Pub. L. 102–232 substituted “subparagraph (A)” for “subparagraphs (A)”.
+<b>1991</b>—Subsec. (c). Pub. L. 102–232 substituted “subparagraph (A)” for “subparagraphs (A)”.
 
-1990—Subsec. (b). Pub. L. 101–649, §104(a)(1), substituted “10,000” for “five thousand”.
+<b>1990</b>—Subsec. (b). Pub. L. 101–649, §104(a)(1), substituted “10,000” for “five thousand”.
 
 Subsec. (c). Pub. L. 101–649, §603(a)(4), substituted “(4), (5), and (7)(A)” for “(14), (15), (20), (21), (25), and (32)” and “(other than paragraph (2)(C) or subparagraphs (A), (B), (C), or (E) of paragraph (3))” for “(other than paragraph (27), (29), or (33) and other than so much of paragraph (23) as relates to trafficking in narcotics)”.
 

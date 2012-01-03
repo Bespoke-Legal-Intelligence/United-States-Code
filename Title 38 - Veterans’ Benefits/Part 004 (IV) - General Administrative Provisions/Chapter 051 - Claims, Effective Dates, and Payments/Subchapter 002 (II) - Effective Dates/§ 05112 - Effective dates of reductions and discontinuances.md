@@ -28,7 +28,7 @@
 
 &emsp;(10) by reason of an erroneous award based solely on administrative error or error in judgment shall be the date of last payment.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1227, §3012; Pub. L. 87–825, §2, Oct. 15, 1962, 76 Stat. 949; Pub. L. 89–730, §3, Nov. 2, 1966, 80 Stat. 1159; Pub. L. 90–275, §5, Mar. 28, 1968, 82 Stat. 68; Pub. L. 92–198, §3, Dec. 15, 1971, 85 Stat. 664; Pub. L. 94–433, title IV, §402, Sept. 30, 1976, 90 Stat. 1378;Pub. L. 95–588, title III, §303, Nov. 4, 1978, 92 Stat. 2506; Pub. L. 97–253, title IV, §402(a), Sept. 8, 1982, 96 Stat. 802; Pub. L. 99–576, title V, §503, title VII, §701(64), Oct. 28, 1986, 100 Stat. 3286, 3296; renumbered §5112 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 107–103, title II, §204(b)(2), Dec. 27, 2001, 115 Stat. 990.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1227, §3012; Pub. L. 87–825, §2, Oct. 15, 1962, 76 Stat. 949; Pub. L. 89–730, §3, Nov. 2, 1966, 80 Stat. 1159; Pub. L. 90–275, §5, Mar. 28, 1968, 82 Stat. 68; Pub. L. 92–198, §3, Dec. 15, 1971, 85 Stat. 664; Pub. L. 94–433, title IV, §402, Sept. 30, 1976, 90 Stat. 1378; Pub. L. 95–588, title III, §303, Nov. 4, 1978, 92 Stat. 2506; Pub. L. 97–253, title IV, §402(a), Sept. 8, 1982, 96 Stat. 802; Pub. L. 99–576, title V, §503, title VII, §701(64), Oct. 28, 1986, 100 Stat. 3286, 3296; renumbered §5112 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 107–103, title II, §204(b)(2), Dec. 27, 2001, 115 Stat. 990.)
 
 #### Amendments
 

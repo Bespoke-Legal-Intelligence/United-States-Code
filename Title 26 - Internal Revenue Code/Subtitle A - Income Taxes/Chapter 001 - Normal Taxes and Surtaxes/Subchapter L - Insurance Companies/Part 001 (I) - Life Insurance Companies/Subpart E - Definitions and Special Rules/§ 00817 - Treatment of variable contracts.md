@@ -102,7 +102,7 @@ For purposes of this part, the term “annuity contract” includes a contract w
 
 &emsp;&emsp;(A) insurance companies (or affiliated companies) in their general account or in segregated asset accounts, or
 
-&emsp;&emsp;(B) fund managers (or affiliated companies) in connection with the creation ormanagement of the regulated investment company or trust,
+&emsp;&emsp;(B) fund managers (or affiliated companies) in connection with the creation or management of the regulated investment company or trust,
 
 > &emsp;the diversification requirements of paragraph (1) shall be applied by taking into account the assets held by such regulated investment company or trust.
 

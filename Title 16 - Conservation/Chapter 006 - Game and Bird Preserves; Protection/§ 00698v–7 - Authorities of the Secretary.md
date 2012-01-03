@@ -38,7 +38,7 @@ Notwithstanding the assumption of management of the Preserve by the Trust, the S
 
 #### (c) Secretarial authority
 
-The Secretary retains the authority to suspend any decision of the Board with respect tothe management of the Preserve if he finds that the decision is clearly inconsistent with sections 698v to 698v–10 of this title. Such authority shall only be exercised personally by the Secretary, and may not be delegated. Any exercise of this authority shall be in writing to the Board, and notification of the decision shall be given to the Committees of Congress. Any suspended decision shall be referred back to the Board for reconsideration.
+The Secretary retains the authority to suspend any decision of the Board with respect to the management of the Preserve if he finds that the decision is clearly inconsistent with sections 698v to 698v–10 of this title. Such authority shall only be exercised personally by the Secretary, and may not be delegated. Any exercise of this authority shall be in writing to the Board, and notification of the decision shall be given to the Committees of Congress. Any suspended decision shall be referred back to the Board for reconsideration.
 
 #### (d) Access
 

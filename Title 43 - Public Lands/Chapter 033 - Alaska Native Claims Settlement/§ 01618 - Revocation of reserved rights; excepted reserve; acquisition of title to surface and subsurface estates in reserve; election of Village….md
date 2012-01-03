@@ -84,7 +84,7 @@ Notwithstanding any other provision of law or of this chapter, any Village Corpo
 
 #### (C) Section 1616(b) easements
 
-&emsp;&emsp;The Bureau of Land Management, in consultation with Elim, shall reserve in the conveyance to Elim easements to the United States pursuant to subsection <sup>2</sup> 1616(b) <sup>1</sup> ofthis title that are not in conflict with other easements specified in this paragraph.
+&emsp;&emsp;The Bureau of Land Management, in consultation with Elim, shall reserve in the conveyance to Elim easements to the United States pursuant to subsection <sup>2</sup> 1616(b) <sup>1</sup> of this title that are not in conflict with other easements specified in this paragraph.
 
 #### (D) Other easements
 

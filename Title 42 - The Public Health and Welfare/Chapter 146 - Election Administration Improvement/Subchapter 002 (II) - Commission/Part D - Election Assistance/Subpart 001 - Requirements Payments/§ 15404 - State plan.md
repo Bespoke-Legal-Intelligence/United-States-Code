@@ -10,7 +10,7 @@ The State plan shall contain a description of each of the following:
 
 &emsp;&emsp;(A) the criteria to be used to determine the eligibility of such units or entities for receiving the payment; and
 
-&emsp;&emsp;(B) the methods to be used by the State to monitor the performance of the units or entities to whom the payment is distributed,consistent with the performance goals and measures adopted under paragraph (8).
+&emsp;&emsp;(B) the methods to be used by the State to monitor the performance of the units or entities to whom the payment is distributed, consistent with the performance goals and measures adopted under paragraph (8).
 
 &emsp;(3) How the State will provide for programs for voter education, election official education and training, and poll worker training which will assist the State in meeting the requirements of subchapter III of this chapter.
 
@@ -34,13 +34,13 @@ The State plan shall contain a description of each of the following:
 
 &emsp;(10) If the State received any payment under subchapter I of this chapter, a description of how such payment will affect the activities proposed to be carried out under the plan, including the amount of funds available for such activities.
 
-&emsp;(11) How the State will conduct ongoing management of the plan, except that the State may not make any material change in the administration of the plan unless the change—
+&emsp;(11) How the State will conduct ongoing management of the plan, except that the State may not make any material change in the administration of the plan unless notice of the change—
 
 &emsp;&emsp;(A) is developed and published in the Federal Register in accordance with section 15405 of this title in the same manner as the State plan;
 
 &emsp;&emsp;(B) is subject to public notice and comment in accordance with section 15406 of this title in the same manner as the State plan; and
 
-&emsp;&emsp;(C) takes effect only after the expiration of the 30-day period which begins on the date the change is published in the Federal Register in accordance with subparagraph (A).
+&emsp;&emsp;(C) takes effect only after the expiration of the 30-day period which begins on the date notice of the change is published in the Federal Register in accordance with subparagraph (A).
 
 &emsp;(12) In the case of a State with a State plan in effect under this part during the previous fiscal year, a description of how the plan reflects changes from the State plan for the previous fiscal year and of how the State succeeded in carrying out the State plan for such previous fiscal year.
 
@@ -80,7 +80,7 @@ The State plan shall contain a description of each of the following:
 
 &emsp;Paragraph (1) may not be construed to limit the liability of a State or other jurisdiction for criminal acts or omissions.
 
-(Pub. L. 107–252, title II, §254, Oct. 29, 2002, 116 Stat. 1694; Pub. L. 111–84, div. A, title V, §588(b)(1)(A), Oct. 28, 2009, 123 Stat. 2333.)
+(Pub. L. 107–252, title II, §254, Oct. 29, 2002, 116 Stat. 1694; Pub. L. 111–84, div. A, title V, §588(b)(1)(A), Oct. 28, 2009, 123 Stat. 2333; Pub. L. 112–74, div. C, title VI, §622(3), (4), Dec. 23, 2011, 125 Stat. 927.)
 
 #### References in Text
 
@@ -91,6 +91,8 @@ The Military and Overseas Voter Empowerment Act, referred to in subsec. (a)(14),
 This chapter, referred to in subsec. (c)(1), was in the original “this Act”, meaning Pub. L. 107–252, Oct. 29, 2002, 116 Stat. 1666, known as the Help America Vote Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 15301 of this title and Tables.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (a)(11). Pub. L. 112–74 inserted “notice of” before “the change” in introductory provisions and subpar. (C).
 
 <b>2009</b>—Subsec. (a)(14). Pub. L. 111–84 added par. (14).
 

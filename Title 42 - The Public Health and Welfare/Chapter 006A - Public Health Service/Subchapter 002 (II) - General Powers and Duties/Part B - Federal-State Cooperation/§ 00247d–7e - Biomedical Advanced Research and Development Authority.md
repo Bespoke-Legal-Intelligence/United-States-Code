@@ -192,7 +192,7 @@ In this section:
 
 #### (iv) Availability of data
 
-&emsp;&emsp;&emsp;The Secretary shall require that, as a condition of being awarded a contract, grant, cooperative agreement, or other transaction under subparagraph (B) or (D)of paragraph (4), a person make available to the Secretary on an ongoing basis, and submit upon request to the Secretary, all data related to or resulting from countermeasure and product advanced research and development carried out pursuant to this section.
+&emsp;&emsp;&emsp;The Secretary shall require that, as a condition of being awarded a contract, grant, cooperative agreement, or other transaction under subparagraph (B) or (D) of paragraph (4), a person make available to the Secretary on an ongoing basis, and submit upon request to the Secretary, all data related to or resulting from countermeasure and product advanced research and development carried out pursuant to this section.
 
 #### (C) Advance payments; advertising
 
@@ -224,7 +224,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(I) without regard to those provisions of title 5 governing appointments in the competitive service, appoint highly qualified individuals to scientific or professional positions in BARDA, such as program managers, to carry out this section; and
 
-&emsp;&emsp;&emsp;&emsp;(II) compensate them in the same manner and subject to the same terms and conditions in which individuals appointed under section 9903 of such title are compensated, without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
+&emsp;&emsp;&emsp;&emsp;(II) compensate them in the same manner and subject to the same terms andconditions in which individuals appointed under section 9903 of such title are compensated, without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
 
 #### (ii) Manner of exercise of authority
 
@@ -268,7 +268,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall withhold from disclosure under section 552 of title 5 specific technical data or scientific information that is created or obtained during the countermeasure and product advanced research and development carried out under subsection (c)that reveals significant and not otherwise publicly known vulnerabilities of existing medical or public health defenses against biological, chemical, nuclear, or radiological threats. Such information shall be deemed to be information described in section 552(b)(3) of title 5.
+&emsp;&emsp;The Secretary shall withhold from disclosure under section 552 of title 5 specific technical data or scientific information that is created or obtained during the countermeasure and product advanced research and development carried out under subsection (c) that reveals significant and not otherwise publicly known vulnerabilities of existing medical or public health defenses against biological, chemical, nuclear, or radiological threats. Such information shall be deemed to be information described in section 552(b)(3) of title 5.
 
 #### (B) Review
 
@@ -298,7 +298,7 @@ Section 14 of the Federal Advisory Committee Act, referred to in subsec. (e)(2),
 
 #### Codification
 
-In subsec. (c)(5)(A)(ii)(II), “section 1702(c) of title 41” substituted for “section 16(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(c))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c)(5)(A)(ii)(II), “section 1702(c) of title 41” substituted for “section 16(c) of the Office of FederalProcurement Policy Act (41 U.S.C. 414(c))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 In subsec. (c)(5)(C), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes of the United States (41 U.S.C. 5)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 

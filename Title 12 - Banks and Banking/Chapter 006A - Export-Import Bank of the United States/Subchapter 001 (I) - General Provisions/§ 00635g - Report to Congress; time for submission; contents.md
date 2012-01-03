@@ -46,7 +46,7 @@ Not later than March 31 of each year, the Bank shall submit to the Committee on 
 
 &emsp;(3) the specific measures the Bank will take in the upcoming year to achieve the small business objectives of the Bank, including expanded outreach, product improvements, and related actions;
 
-&emsp;(4) the progress made by the Bank in supporting exports by socially and economically disadvantaged small business concerns (defined in section 637(a)(4) of title 15) and small business concerns (as defined in section 632(a) of title 15) owned by women, including estimates of the amounts made available to finance exports directly by such small business concerns, a comparison of these amounts with the amounts made available to all small business concerns, and a comparison of such amounts with the amounts so made available during the 2 preceding years;
+&emsp;(4) the progress made by the Bank in supporting exports by socially and economically disadvantaged small business concerns (defined in section 637(a)(4) of title 15) and smallbusiness concerns (as defined in section 632(a) of title 15) owned by women, including estimates of the amounts made available to finance exports directly by such small business concerns, a comparison of these amounts with the amounts made available to all small business concerns, and a comparison of such amounts with the amounts so made available during the 2 preceding years;
 
 &emsp;(5) with respect to each type of transaction, the interest and fees charged by the Bank to exporters (including a description of fees and interest, if any, charged to small business concerns), buyers, and other applicants in connection with each financing program of the Bank, and the highest, lowest, and average fees charged by the Bank for short term insurance transactions;
 
@@ -70,11 +70,11 @@ A prior section 8 of act July 31, 1945, ch. 341, was renumbered section 7 and is
 
 #### Amendments
 
-2006—Subsec. (f). Pub. L. 109–438 added subsec. (f).
+<b>2006</b>—Subsec. (f). Pub. L. 109–438 added subsec. (f).
 
-2002—Subsecs. (c) to (e). Pub. L. 107–189 added subsecs. (c) to (e).
+<b>2002</b>—Subsecs. (c) to (e). Pub. L. 107–189 added subsecs. (c) to (e).
 
-2000—Subsec. (b). Pub. L. 106–569 redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “The report shall contain a description of actions taken by the Bank in pursuance of the policy of aiding, counseling, assisting, and protecting, insofar as is possible, the interests of small business concerns and of the activities of the member of the Board appointed to represent the interest of small business. In addition, the Bank shall include in the report a description of specific activities and programs undertaken by it to achieve the policy of section 3261 of title 22, and section 2151q of title 22, as required by section 635(b)(1)(C) of this title.”
+<b>2000</b>—Subsec. (b). Pub. L. 106–569 redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “The report shall contain a description of actions taken by the Bank in pursuance of the policy of aiding, counseling, assisting, and protecting, insofar as is possible, the interests of small business concerns and of the activities of the member of the Board appointed to represent the interest of small business. In addition, the Bank shall include in the report a description of specific activities and programs undertaken by it to achieve the policy of section 3261 of title 22, and section 2151q of title 22, as required by section 635(b)(1)(C) of this title.”
 
 Subsec. (c). Pub. L. 106–569 redesignated subsec. (c) as (b) and directed redesignation of subsec. (e) as (c).
 
@@ -82,19 +82,19 @@ Subsec. (d). Pub. L. 106–569 struck out subsec. (d) which required report to i
 
 Subsec. (e). Pub. L. 106–569, which directed redesignation of subsec. (e) as (c), could not be executed. See 1986 Amendment note and Termination Date of 1986 Amendment note below.
 
-1986—Subsec. (e). Pub. L. 99–472 temporarily added subsec. (e). See Termination Date of 1986 Amendment note below.
+<b>1986</b>—Subsec. (e). Pub. L. 99–472 temporarily added subsec. (e). See Termination Date of 1986 Amendment note below.
 
-1983—Subsec. (b). Pub. L. 98–181, §618(b)(1), inserted “and of the activities of the member of the Board appointed to represent the interests of small business”.
+<b>1983</b>—Subsec. (b). Pub. L. 98–181, §618(b)(1), inserted “and of the activities of the member of the Board appointed to represent the interests of small business”.
 
 Subsec. (c). Pub. L. 98–181, §618(b)(2), added subsec. (c).
 
 Subsec. (d). Pub. L. 98–181, §623, added subsec. (d).
 
-1978—Subsec. (b). Pub. L. 95–630 inserted provision that in addition, the Bank include in the report a description of specific activities and programs undertaken by it to achieve the policy of section 3261 of title 22, and section 2151q of title 22, as required by section 635(b)(1)(C) of this title.
+<b>1978</b>—Subsec. (b). Pub. L. 95–630 inserted provision that in addition, the Bank include in the report a description of specific activities and programs undertaken by it to achieve the policy of section 3261 of title 22, and section 2151q of title 22, as required by section 635(b)(1)(C) of this title.
 
-1975—Pub. L. 93–646 designated existing provisions as subsec. (a), substituted provisions calling for an annual report as of the close of business on the last day of each fiscal year, for provisions calling for a semiannual report as of the close of business on June 30 and Dec. 31 of each year, and added subsec. (b).
+<b>1975</b>—Pub. L. 93–646 designated existing provisions as subsec. (a), substituted provisions calling for an annual report as of the close of business on the last day of each fiscal year, for provisions calling for a semiannual report as of the close of business on June 30 and Dec. 31 of each year, and added subsec. (b).
 
-1968—Pub. L. 90–267 changed name of “Export-Import Bank of Washington” to “Export-Import Bank of the United States”.
+<b>1968</b>—Pub. L. 90–267 changed name of “Export-Import Bank of Washington” to “Export-Import Bank of the United States”.
 
 #### Change of Name
 

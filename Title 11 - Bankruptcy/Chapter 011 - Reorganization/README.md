@@ -75,7 +75,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Chapter 11 of the House amendment is derived in large part from chapter 11 as contained in the House bill. Unlike chapter 11 of the Senate amendment, chapter 11 of the House amendment does not represent an extension of chapter X of current law \[chapter 10 of former title 11\] or any other chapter of the Bankruptcy Act \[former title 11\]. Rather chapter 11 of the House amendment takes a new approach consolidating subjects dealt with under chapters VIII, X, XI, and XII of the Bankruptcy Act \[chapters 8, 10, 11, and 12 of former title 11\]. The new consolidated chapter 11 contains no special procedure for companies with public debt or equity security holders. Instead, factors such as the standard to be applied to solicitation of acceptances of a plan of reorganization are left to be determined by the court on a case-by-case basis. In order to insure that adequate investigation of the debtor is conducted to determine fraud or wrongdoing on the part of present management, an examiner is required to be appointed in all cases in which the debtor's fixed, liquidated, and unsecured debts, other than debts for goods, services, or taxes, or owing to an insider, exceed $5 million. This should adequately represent the needs of public security holders in most cases. However, in addition, section 1109 of the House amendment enables both the Securities and Exchange Commission and any party in interest who is creditor, equity security holder, indenture trustee, or any committee representing creditors or equity security holders to raise and appear and be heard on any issue in a case under chapter 11. This will enable the bankruptcy court to evaluate all sides of a position and to determine the public interest. This approach is sharply contrasted to that under chapter X of present law in which the public interest is often determined only in terms of the interest of public security holders. The advisory role of the Securities and Exchange Commission will enable the court to balance the needs of public security holders against equally important public needs relating to the economy, such as employment and production, and other factors such as the public health and safety of the people or protection of the national interest. In this context, the new chapter 11 deletes archaic rules contained in certain chapters of present law such as the requirement of an approval hearing and the prohibition of prepetition solicitation. Such requirements were written in an age before the enactment of the Trust Indenture Act \[15 U.S.C. 77aaa et seq.\] and the development of securities laws had occurred. The benefits of these provisions have long been outlived but the detriment of the provisions served to frustrate and delay effective reorganization in those chapters of the Bankruptcy Act in which such provisions applied. Chapter 11 thus represents a much needed revision of reorganization laws. A brief discussion of the history of this important achievement is useful to an appreciation of the monumental reform embraced in chapter 11.
 
@@ -135,13 +135,13 @@ Having discussed the general reasons why chapter 11 of the House amendment is so
 
 #### Amendments
 
-2005—Pub. L. 109–8, title III, §321(a)(2), title IV, §436(b), Apr. 20, 2005, 119 Stat. 95, 113, added items 1115 and 1116.
+<b>2005</b>—Pub. L. 109–8, title III, §321(a)(2), title IV, §436(b), Apr. 20, 2005, 119 Stat. 95, 113, added items 1115 and 1116.
 
-1988—Pub. L. 100–334, §2(c), June 16, 1988, 102 Stat. 613, added item 1114.
+<b>1988</b>—Pub. L. 100–334, §2(c), June 16, 1988, 102 Stat. 613, added item 1114.
 
-1984—Pub. L. 98–353, title III, §§514(b), 541(b), July 10, 1984, 98 Stat. 387, 391, added item 1113 and substituted “Implementation” for “Execution” in item 1142.
+<b>1984</b>—Pub. L. 98–353, title III, §§514(b), 541(b), July 10, 1984, 98 Stat. 387, 391, added item 1113 and substituted “Implementation” for “Execution” in item 1142.
 
-1983—Pub. L. 97–449, §5(a)(1), Jan. 12, 1983, 96 Stat. 2442, substituted “subtitle IV of title 49” for “Interstate Commerce Act” in item 1166.
+<b>1983</b>—Pub. L. 97–449, §5(a)(1), Jan. 12, 1983, 96 Stat. 2442, substituted “subtitle IV of title 49” for “Interstate Commerce Act” in item 1166.
 
 
 ---

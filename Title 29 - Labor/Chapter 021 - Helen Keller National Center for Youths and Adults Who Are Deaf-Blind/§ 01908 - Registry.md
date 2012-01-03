@@ -6,7 +6,7 @@ To assist the Center in providing services to individuals who are deaf-blind, th
 
 #### (b) Voluntary provision of information
 
-No individual who is deaf-blind may be required to provide information to the Center forany purpose with respect to a registry established under subsection (a) of this section.
+No individual who is deaf-blind may be required to provide information to the Center for any purpose with respect to a registry established under subsection (a) of this section.
 
 #### (c) Nondisclosure
 

@@ -16,7 +16,7 @@
 
 &emsp;(A) The list of chemicals referred to in paragraph (1) shall include each of the following:
 
-&emsp;&emsp;(i) A list of the hazardous chemicals for which a material safety data sheet is required under the Occupational Safety and Health Act of 1970 \[29 U.S.C. 651 et seq.\] andregulations promulgated under that Act, grouped in categories of health and physical hazards as set forth under such Act and regulations promulgated under such Act, or in such other categories as the Administrator may prescribe under subparagraph (B).
+&emsp;&emsp;(i) A list of the hazardous chemicals for which a material safety data sheet is required under the Occupational Safety and Health Act of 1970 \[29 U.S.C. 651 et seq.\] and regulations promulgated under that Act, grouped in categories of health and physical hazards as set forth under such Act and regulations promulgated under such Act, or in such other categories as the Administrator may prescribe under subparagraph (B).
 
 &emsp;&emsp;(ii) The chemical name or the common name of each such chemical as provided on the material safety data sheet.
 

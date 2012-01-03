@@ -38,19 +38,19 @@ Term; Reappointment; Grade.—(1) The Chief of Navy Reserve is appointed for a t
 
 Budget.—The Chief of Navy Reserve is the official within the executive part of the Department of the Navy who, subject to the authority, direction, and control of the Secretary of the Navy and the Chief of Naval Operations, is responsible for preparation, justification, and execution of the personnel, operation and maintenance, and construction budgets for the Navy Reserve. As such, the Chief of Navy Reserve is the director and functional manager of appropriations made for the Navy Reserve in those areas.
 
-(e)
-
-Annual Report.—(1) The Chief of Navy Reserve shall submit to the Secretary of Defense, through the Secretary of the Navy, an annual report on the state of the Navy Reserve and the ability of the Navy Reserve to meet its missions. The report shall be prepared in conjunction with the Chief of Naval Operations and may be submitted in classified and unclassified versions.
-
-(2) The Secretary of Defense shall transmit the annual report of the Chief of Navy Reserve under paragraph (1) to Congress, together with such comments on the report as the Secretary considers appropriate. The report shall be transmitted at the same time each year that the annual report of the Secretary under section 113 of this title is submitted to Congress.
-
-(Added Pub. L. 104–201, div. A, title XII, §1212(b)(1), Sept. 23, 1996, 110 Stat. 2691; amended Pub. L. 106–65, div. A, title V, §554(c), Oct. 5, 1999, 113 Stat. 617; Pub. L. 106–398, §1 \[\[div. A\], title V, §507(b), title X, §1087(a)(18)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–103, 1654A–291; Pub. L. 107–314, div. A, title V, §501(a), Dec. 2, 2002, 116 Stat. 2529; Pub. L. 108–375, div. A, title V, §536(a), Oct. 28, 2004, 118 Stat. 1901; Pub. L. 109–163, div. A, title V, §515(b)(1)(F), (2), (3)(A), Jan. 6, 2006, 119 Stat. 3233, 3234.)
+(Added Pub. L. 104–201, div. A, title XII, §1212(b)(1), Sept. 23, 1996, 110 Stat. 2691; amended Pub. L. 106–65, div. A, title V, §554(c), Oct. 5, 1999, 113 Stat. 617; Pub. L. 106–398, §1 \[\[div. A\], title V, §507(b), title X, §1087(a)(18)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–103, 1654A–291; Pub. L. 107–314, div. A, title V, §501(a), Dec. 2, 2002, 116 Stat. 2529; Pub. L. 108–375, div. A, title V, §536(a), Oct. 28, 2004, 118 Stat. 1901; Pub. L. 109–163, div. A, title V, §515(b)(1)(F), (2), (3)(A), Jan. 6, 2006, 119 Stat. 3233, 3234; Pub. L. 112–81, div. A, title X, §1061(26), Dec. 31, 2011, 125 Stat. 1584.)
 
 #### Prior Provisions
 
 A prior section 5143, acts Aug. 10, 1956, ch. 1041, 70A Stat. 288; Sept. 7, 1962, Pub. L. 87–649, §6(c)(3), 76 Stat. 494; Nov. 8, 1967, Pub. L. 90–130, §14(B), (C), 81 Stat. 376, established in Bureau of Naval Personnel the position of Assistant Chief of Naval Personnel for Women, prior to repeal by Pub. L. 96–513, title III, §344(a), title VII, §701, Dec. 12, 1980, 94 Stat. 2901, 2955, effective Sept. 15, 1981.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (e). Pub. L. 112–81 struck out subsec. (e). Prior to amendment, text read as follows:
+
+“(1) The Chief of Navy Reserve shall submit to the Secretary of Defense, through the Secretary of the Navy, an annual report on the state of the Navy Reserve and the ability of the Navy Reserve to meet its missions. The report shall be prepared in conjunction with the Chief of Naval Operations and may be submitted in classified and unclassified versions.
+
+“(2) The Secretary of Defense shall transmit the annual report of the Chief of Navy Reserve under paragraph (1) to Congress, together with such comments on the report as the Secretary considers appropriate. Thereport shall be transmitted at the same time each year that the annual report of the Secretary under section 113 of this title is submitted to Congress.”
 
 <b>2006</b>—Pub. L. 109–163, §515(b)(3)(A), substituted “Navy Reserve” for “Naval Reserve” in section catchline.
 

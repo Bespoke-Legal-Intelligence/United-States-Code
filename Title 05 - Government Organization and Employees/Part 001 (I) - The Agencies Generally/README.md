@@ -24,7 +24,11 @@
 
 #### Amendments
 
-1996—Pub. L. 104–121, title II, §253, Mar. 29, 1996, 110 Stat. 874, added item for chapter 8.
+<b>1996</b>—Pub. L. 104–121, title II, §253, Mar. 29, 1996, 110 Stat. 874, added item for chapter 8.
+
+<i><sup>1</sup></i><i> Pub. L. 90–83 added section 500 to chapter 5 without making a corresponding change in Part analysis.</i>
+
+<i><sup>2</sup></i><i> Editorially supplied. Chapter 6 added by Pub. L. 96–354 without a corresponding amendment of Part analysis.</i>
 
 
 ---

@@ -36,7 +36,7 @@ Any contract entered into under subsection (b) of this section shall contain eac
 
 &emsp;&emsp;(I) Children whose parents are institutionalized or incarcerated.
 
-&emsp;(4) A provision that the contractor will provide such training and technical assistance to subcontractors as may be necessary to carry out the purpose of this subpart.
+&emsp;(4) A provision that the contractor will provide such training and technical assistance tosubcontractors as may be necessary to carry out the purpose of this subpart.
 
 &emsp;(5) A provision that the contractor will annually report to the Secretary the number, and a description, of programs funded under paragraph (3).
 
@@ -50,7 +50,7 @@ The Secretary shall make no payment of the Federal share of the cost of acquirin
 
 #### (1) Funds from other Federal sources
 
-&emsp;Subcontractors operating programs under this section in low-income communities with a substantial number or percentage of children with special needs, as described in subsection (c)(3) of this section, may use funds from otherFederal sources to pay the non-Federal share of the cost of the program, if those funds do not comprise more than 50 percent of the non-Federal share of the funds used for the cost of acquiring and distributing books.
+&emsp;Subcontractors operating programs under this section in low-income communities with a substantial number or percentage of children with special needs, as described in subsection (c)(3) of this section, may use funds from other Federal sources to pay the non-Federal share of the cost of the program, if those funds do not comprise more than 50 percent of the non-Federal share of the funds used for the cost of acquiring and distributing books.
 
 #### (2) Waiver authority
 

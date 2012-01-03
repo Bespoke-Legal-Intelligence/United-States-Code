@@ -16,7 +16,7 @@ The purposes of this section are to—
 
 For purposes of this section:
 
-&emsp;(1) The term “Indian tribal government” means any Indian tribe, band, nation, or otherorganized group or community, including any Alaska Native village or regional or village corporation (as defined in, or established pursuant to, the Alaska Native Claims Settlement Act (43 U.S.C.A. 1601, et seq.)), which is recognized as eligible for the special services provided by the United States to Indians because of their status as Indians.
+&emsp;(1) The term “Indian tribal government” means any Indian tribe, band, nation, or other organized group or community, including any Alaska Native village or regional or village corporation (as defined in, or established pursuant to, the Alaska Native Claims Settlement Act (43 U.S.C.A. 1601, et seq.)), which is recognized as eligible for the special services provided by the United States to Indians because of their status as Indians.
 
 &emsp;(2) The term “intertribal consortia” or “intertribal consortium” means a partnership between two or more Indian tribal governments authorized by the governing bodies of those tribes to apply for and receive assistance pursuant to this section.
 
@@ -36,7 +36,7 @@ In no case shall the award of a general assistance grant to an Indian tribal gov
 
 #### (f) Expenditure of general assistance
 
-Any general assistance under this section shall be expended for the purpose of planning, developing, and establishing the capability to implement programs administered by the Environmental Protection Agency and specified in the assistance agreement. Purposes and programs authorized under this section shall include the development and implementation of solid and hazardous waste programs for Indian lands. An Indian tribal government or intertribal consortium receiving general assistance pursuant to this section shall utilize such funds for programs and purposes to be carried out in accordance with the terms of the assistance agreement. Such programs and general assistance shall be carried out in accordance with the purposes and requirements of applicable provisions of law, including the Solid Waste Disposal Act (42 U.S.C. 6901 et seq.).
+Any general assistance under this section shall be expended for the purpose of planning, developing, and establishing the capability to implement programs administered by the Environmental Protection Agency and specified in the assistance agreement. Purposes and programs authorized under this section shall include the development and implementation of solid and hazardous waste programs for Indian lands. An Indian tribal government or intertribal consortium receiving general assistance pursuant to this section shall utilize such funds for programs and purposes to be carried out in accordance with the terms of the assistance agreement. Such programs and general assistance shall be carried out in accordance with thepurposes and requirements of applicable provisions of law, including the Solid Waste Disposal Act (42 U.S.C. 6901 et seq.).
 
 #### (g) Procedures
 

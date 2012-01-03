@@ -10,7 +10,7 @@
 
 #### (A) Coordination with Secretary of Labor to recruit and train long-term care staff
 
-&emsp;&emsp;The Secretary shall coordinate activities under this subsection with the Secretary ofLabor in order to provide incentives for individuals to train for and seek employment providing direct care in long-term care.
+&emsp;&emsp;The Secretary shall coordinate activities under this subsection with the Secretary of Labor in order to provide incentives for individuals to train for and seek employment providing direct care in long-term care.
 
 #### (B) Career ladders and wage or benefit increases to increase staffing in long-term care
 

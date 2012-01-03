@@ -46,7 +46,7 @@ Standards for making grants.—Grants under this section for construction shall 
 
 &emsp;(3)
 
-Limitation on available amounts.—A grant for the construction or equipment of anycomponent of a demonstration health project shall not be more than 80 percent of the cost.
+Limitation on available amounts.—A grant for the construction or equipment of any component of a demonstration health project shall not be more than 80 percent of the cost.
 
 &emsp;(4)
 

@@ -16,7 +16,7 @@ The Secretary, upon determining that maximum economic recovery of the coal depos
 
 #### (3) Conditions for approval
 
-In approving a logical mining unit, the Secretary may provide, among other things, that (i) diligent development, continuous operation, and production on any Federal lease or non-Federal land in the logical mining unit shall be construed as occurring on all Federal leases in that logical mining unit, and (ii) the rentals and royalties for all Federal leases in a logical miningunit may be combined, and advanced royalties paid for any lease within a logical mining unit may be credited against such combined royalties.
+In approving a logical mining unit, the Secretary may provide, among other things, that (i) diligent development, continuous operation, and production on any Federal lease or non-Federal land in the logical mining unit shall be construed as occurring on all Federal leases in that logical mining unit, and (ii) the rentals and royalties for all Federal leases in a logical mining unit may be combined, and advanced royalties paid for any lease within a logical mining unit may be credited against such combined royalties.
 
 #### (4) Amendment to lease
 

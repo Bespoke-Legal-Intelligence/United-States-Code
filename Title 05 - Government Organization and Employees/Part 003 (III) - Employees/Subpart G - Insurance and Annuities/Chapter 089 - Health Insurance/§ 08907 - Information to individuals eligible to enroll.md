@@ -1,6 +1,6 @@
 ### §8907. Information to individuals eligible to enroll
 
-(a) The Office of Personnel Management shall make available to each individual eligible to enroll in a health benefits plan under this chapter such information, in a form acceptable to the Office after consultation with the carrier, asmay be necessary to enable the individual to exercise an informed choice among the types of plans described by sections 8903 and 8903a of this title.
+(a) The Office of Personnel Management shall make available to each individual eligible to enroll in a health benefits plan under this chapter such information, in a form acceptable to the Office after consultation with the carrier, as may be necessary to enable the individual to exercise an informed choice among the types of plans described by sections 8903 and 8903a of this title.
 
 (b) Each enrollee in a health benefits plan shall be issued an appropriate document setting forth or summarizing the—
 
@@ -30,9 +30,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1985—Subsec. (a). Pub. L. 99–53 inserted reference to section 8903a of this title.
+<b>1985</b>—Subsec. (a). Pub. L. 99–53 inserted reference to section 8903a of this title.
 
-1984—Pub. L. 98–615, §3(5)(C), substituted “individuals eligible to enroll” for “employees” in section catchline.
+<b>1984</b>—Pub. L. 98–615, §3(5)(C), substituted “individuals eligible to enroll” for “employees” in section catchline.
 
 Subsec. (a). Pub. L. 98–615, §3(5)(A), substituted “individual” for “employee” in two places.
 
@@ -42,7 +42,7 @@ Subsec. (b)(1). Pub. L. 98–615, §3(5)(B)(ii), substituted “enrollee or the 
 
 Subsec. (b)(3). Pub. L. 98–615, §3(5)(B)(iii), substituted “the enrollee and any eligible family members” for “the employee or members of his family”.
 
-1978—Subsec. (a). Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively.
+<b>1978</b>—Subsec. (a). Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively.
 
 #### Effective Date of 1984 Amendment
 

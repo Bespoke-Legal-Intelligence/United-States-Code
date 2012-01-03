@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is hereby established a National Park Service Concessions Management Advisory Board (in this subchapter referred to as the “Advisory Board”) whose purpose shall be to advise the Secretary and National Park Service onmatters relating to management of concessions in the National Park System.
+There is hereby established a National Park Service Concessions Management Advisory Board (in this subchapter referred to as the “Advisory Board”) whose purpose shall be to advise the Secretary and National Park Service on matters relating to management of concessions in the National Park System.
 
 #### (b) Duties
 

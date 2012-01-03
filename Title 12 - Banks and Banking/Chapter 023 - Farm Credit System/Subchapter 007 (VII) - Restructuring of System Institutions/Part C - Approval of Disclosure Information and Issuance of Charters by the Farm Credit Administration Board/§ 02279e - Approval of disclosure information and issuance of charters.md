@@ -8,7 +8,7 @@
 
 #### (2) Notice of approval
 
-&emsp;On notification that the Farm Credit Administration Board has approved such plan forsubmission to the stockholders, or after 60 days of no action on the plan by the Board, the submitting institutions may submit the plan, together with the disclosure information, to the voters for the prescribed vote.
+&emsp;On notification that the Farm Credit Administration Board has approved such plan for submission to the stockholders, or after 60 days of no action on the plan by the Board, the submitting institutions may submit the plan, together with the disclosure information, to the voters for the prescribed vote.
 
 #### (b) Notice of reasons for disapproval
 
@@ -22,9 +22,9 @@ Each plan of merger or transfer of lending authority may include a proposed new 
 
 #### Amendments
 
-1991—Subsec. (a)(2). Pub. L. 102–237 substituted “60 days” for “30 days”.
+<b>1991</b>—Subsec. (a)(2). Pub. L. 102–237 substituted “60 days” for “30 days”.
 
-1988—Subsec. (a)(1). Pub. L. 100–399 substituted “transfer of lending authority” for “transfer or assignment of lending authority” and “the institutions involved” for “such institutions”.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–399 substituted “transfer of lending authority” for “transfer or assignment of lending authority” and “the institutions involved” for “such institutions”.
 
 #### Effective Date of 1988 Amendment
 

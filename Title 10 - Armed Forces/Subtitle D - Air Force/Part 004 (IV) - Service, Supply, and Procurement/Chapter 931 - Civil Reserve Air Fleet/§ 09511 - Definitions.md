@@ -54,7 +54,7 @@ Par. (12). Pub. L. 103–355, §3031(b)(3), redesignated par. (12) as (11).
 
 Par. (5). Pub. L. 101–189, §1636(a)(2), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The term ‘cargo-convertible feature’ means equipment or design features included or incorporated in a passenger aircraft that can readily enable all or substantially all of that aircraft's main deck to be used for the carriage of property or mail.”
 
-Par. (8)(A). Pub. L. 101–189, §1636(a)(3), substituted “a new or existing aircraft and who contracts with the Secretary to modify that aircraft by including or incorporating specified defense features” for “a civil aircraftand who contracts with the Secretary of the Air Force to modify that aircraft by including or incorporating cargo-convertible features suitable for defense purposes”.
+Par. (8)(A). Pub. L. 101–189, §1636(a)(3), substituted “a new or existing aircraft and who contracts with the Secretary to modify that aircraft by including or incorporating specified defense features” for “a civil aircraft and who contracts with the Secretary of the Air Force to modify that aircraft by including or incorporating cargo-convertible features suitable for defense purposes”.
 
 Par. (12). Pub. L. 101–189, §1636(a)(4), added par. (12).
 

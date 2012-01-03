@@ -90,5 +90,5 @@ Amendment by Pub. L. 108–357 applicable to taxable years beginning after Dec. 
 
 #### Effective Date
 
-Section 933(c) of Pub. L. 105–34, as amended by Pub. L. 105–277, div. J, title II, §2011, Oct. 21, 1998, 112 Stat.2681–902, provided that: “The amendments made by this section \[enacting this section\] shall apply to taxable years beginning after December 31, 1997.”
+Section 933(c) of Pub. L. 105–34, as amended by Pub. L. 105–277, div. J, title II, §2011, Oct. 21, 1998, 112 Stat. 2681–902, provided that: “The amendments made by this section \[enacting this section\] shall apply to taxable years beginning after December 31, 1997.”
 

@@ -28,7 +28,7 @@ The Congress finds that—
 
 (m) Because of their proximity to and reliance upon the ocean and its resources, the coastal states have substantial and significant interests in the protection, management, and development of the resources of the exclusive economic zone that can only be served by the active participation of coastal states in all Federal programs affecting such resources and, wherever appropriate, by the development of state ocean resource plans as part of their federally approved coastal zone management programs.
 
-(Pub. L. 89–454, title III, §302, as added Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280; amended Pub. L. 94–370, §2, July 26, 1976, 90 Stat. 1013; Pub. L. 96–464, §2, Oct. 17, 1980, 94 Stat. 2060; Pub. L. 101–508, title VI, §6203(a), Nov. 5, 1990, 104 Stat. 1388–300.)
+(Pub. L. 89–454, title III, §302, as added Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280; amended Pub. L. 94–370, §2, July 26, 1976, 90 Stat. 1013; Pub. L. 96–464, §2, Oct. 17, 1980, 94 Stat. 2060; Pub. L.101–508, title VI, §6203(a), Nov. 5, 1990, 104 Stat. 1388–300.)
 
 #### Amendments
 
@@ -112,7 +112,7 @@ Pub. L. 105–383, title VI, Nov. 13, 1998, 112 Stat. 3447, as amended by Pub. L
 
 &emsp;“(9) there is a need to identify more workable and effective actions to reduce nutrient loadings to coastal waters;
 
-&emsp;“(10) the National Oceanic and Atmospheric Administration, through its ongoing research, education,grant, and coastal resource management programs, possesses a full range of capabilities necessary to support a near and long-term comprehensive effort to prevent, reduce, and control harmful algal blooms and hypoxia;
+&emsp;“(10) the National Oceanic and Atmospheric Administration, through its ongoing research, education, grant, and coastal resource management programs, possesses a full range of capabilities necessary to support a near and long-term comprehensive effort to prevent, reduce, and control harmful algal blooms and hypoxia;
 
 &emsp;“(11) funding for the research and related programs of the National Oceanic and Atmospheric Administration will aid in improving the Nation's understanding and capabilities for addressing the human and environmental costs associated with harmful algal blooms and hypoxia; and
 
@@ -284,7 +284,7 @@ Submission of a Plan.—No later than March 30, 2000, the President, in conjunct
 
 #### “SEC. 605. AUTHORIZATION OF APPROPRIATIONS.
 
-“There are authorized to be appropriated to the Secretary of Commerce for research, education, and monitoring activities related to the prevention, reduction, and control of harmful algal blooms and hypoxia, $15,000,000 for fiscal year 1999, $18,250,000 for fiscal year 2000, $19,000,000 for fiscal year 2001, $23,500,000 for fiscal year 2005, $24,500,000 for fiscal year 2006, $25,000,000 for fiscal year 2007, and $30,000,000 for each of fiscal years 2008 through 2010, to remain available until expended.The Secretary shall consult with the States on a regular basis regarding the development and implementation of the activities authorized under this section. Of such amounts for each fiscal year—
+“There are authorized to be appropriated to the Secretary of Commerce for research, education, and monitoring activities related to the prevention, reduction, and control of harmful algal blooms and hypoxia, $15,000,000 for fiscal year 1999, $18,250,000 for fiscal year 2000, $19,000,000 for fiscal year 2001, $23,500,000 for fiscalyear 2005, $24,500,000 for fiscal year 2006, $25,000,000 for fiscal year 2007, and $30,000,000 for each of fiscal years 2008 through 2010, to remain available until expended. The Secretary shall consult with the States on a regular basis regarding the development and implementation of the activities authorized under this section. Of such amounts for each fiscal year—
 
 &emsp;“(1) $1,500,000 for fiscal year 1999, $1,500,000 for fiscal year 2000, $2,000,000 for fiscal year 2001, and $2,500,000 for each of fiscal years 2005 through 2010 may be used to enable the National Oceanic and Atmospheric Administration to carry out research and assessment activities, including procurement of necessary research equipment, at research laboratories of the National Ocean Service and the National Marine Fisheries Service;
 
@@ -420,7 +420,7 @@ Sec. 4. <i>Gulf of Mexico Regional Ecosystem Restoration Strategy</i>. (a) Withi
 
 (1) define ecosystem restoration goals and describe milestones for making progress toward attainment of those goals;
 
-(2) consider existing research and ecosystem restoration planning efforts in the region, including initiatives undertaken by the National Ocean Council and the Mississippi River/Gulf of Mexico Watershed Nutrient Task Force (Gulf Hypoxia Task Force), in order to identify planning and restoration needs and ways under existing authorities to address those needs;
+(2) consider existing research and ecosystem restoration planning efforts in the region, including initiatives undertaken by the National Ocean Council and the Mississippi River/Gulf of Mexico Watershed Nutrient Task Force (Gulf Hypoxia Task Force), in order toidentify planning and restoration needs and ways under existing authorities to address those needs;
 
 (3) identify major policy areas where coordinated intergovernmental action is necessary;
 

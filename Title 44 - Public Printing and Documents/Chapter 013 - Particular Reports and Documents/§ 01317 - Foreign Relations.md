@@ -1,6 +1,6 @@
 ### §1317. Foreign Relations
 
-In addition to the usual number of Foreign Relations, three thousand copies of each shall beprinted: one thousand for the Senate and two thousand for the House of Representatives.
+In addition to the usual number of Foreign Relations, three thousand copies of each shall be printed: one thousand for the Senate and two thousand for the House of Representatives.
 
 (Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1268.)
 

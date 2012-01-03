@@ -6,7 +6,7 @@ Title.—The Federal Government has the right, title, and interest in and to the
 
 (b)
 
-Fees.—The rate of fees charged for use of the facility may exceed the rate required for maintenance and operation of the facility. Therate shall be established in a manner that encourages use of the facility by rail passengers and participants in activities in the Union Station complex and area.
+Fees.—The rate of fees charged for use of the facility may exceed the rate required for maintenance and operation of the facility. The rate shall be established in a manner that encourages use of the facility by rail passengers and participants in activities in the Union Station complex and area.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1202.)
 

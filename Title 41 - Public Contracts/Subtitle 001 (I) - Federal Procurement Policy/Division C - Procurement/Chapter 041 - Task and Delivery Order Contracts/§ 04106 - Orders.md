@@ -64,7 +64,7 @@ Jurisdiction over protests.—Notwithstanding section 3556 of title 31, the Comp
 
 &emsp;(3)
 
-Effective period.—This subsection shall be in effect for three years, beginning on the date that is 120 days after January 28, 2008.
+Effective period.—Paragraph (1)(B) and paragraph (2) of this subsection shall not be in effect after September 30, 2016.
 
 (g)
 
@@ -78,7 +78,7 @@ Appointment or designation and responsibilities.—The head of each executive ag
 
 Who is eligible.—The task and delivery order ombudsman shall be a senior agency official who is independent of the contracting officer for the contracts and may be the executive agency's advocate for competition.
 
-(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3782; Pub. L. 111–383, div. A, title X, §1075(f)(5)(B), Jan. 7, 2011, 124 Stat. 4376.)
+(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3782; Pub. L. 111–383, div. A, title X, §1075(f)(5)(B), Jan. 7, 2011, 124 Stat. 4376; Pub. L. 112–81, div. A, title VIII, §813, Dec. 31, 2011, 125 Stat. 1491.)
 
 #### Amendment Not Shown in Text
 
@@ -125,4 +125,8 @@ June 30, 1949, ch. 288, title III, §303J, as added Pub. L. 103–355, title I, 
 41:253j(f).
 
 In subsection (g)(2), the words “advocate for competition” are substituted for “competition advocate” for consistency with section 1705 of the revised title.
+
+#### Amendments
+
+<b>2011</b>—Subsec. (f)(3). Pub. L. 112–81 amended par. (3) generally. Prior to amendment, text read as follows: “This subsection shall be in effect for three years, beginning on the date that is 120 days after January 28, 2008.”
 

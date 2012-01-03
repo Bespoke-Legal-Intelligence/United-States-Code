@@ -2,7 +2,7 @@
 
 #### (a) Participation of private school children and teachers
 
-In making grants and entering into contracts under this subpart, the Secretary shall ensure, where appropriate, that provision is made for the equitable participation of students and teachers in private nonprofit elementary schools and secondary schools, including the participation of teachers and other personnel in professional development programs serving such students.
+In making grants and entering into contracts under this subpart, the Secretary shall ensure,where appropriate, that provision is made for the equitable participation of students and teachers in private nonprofit elementary schools and secondary schools, including the participation of teachers and other personnel in professional development programs serving such students.
 
 #### (b) Review, dissemination, and evaluation
 
@@ -16,7 +16,7 @@ The Secretary shall—
 
 #### (c) Program operations
 
-The Secretary shall ensure that the programs under this subpart are administered within theDepartment by a person who has recognized professional qualifications and experience in the field of the education of gifted and talented students and who shall—
+The Secretary shall ensure that the programs under this subpart are administered within the Department by a person who has recognized professional qualifications and experience in the field of the education of gifted and talented students and who shall—
 
 &emsp;(1) administer and coordinate the programs authorized under this subpart;
 

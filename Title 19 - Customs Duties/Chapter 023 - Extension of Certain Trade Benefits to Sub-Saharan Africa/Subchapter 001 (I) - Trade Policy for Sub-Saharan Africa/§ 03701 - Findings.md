@@ -10,7 +10,7 @@ Congress finds that—
 
 &emsp;(4) the region has experienced the strengthening of democracy as countries in sub-Saharan Africa have taken steps to encourage broader participation in the political process;
 
-&emsp;(5) certain countries in sub-Saharan Africa have increased their economic growth rates, taken significant steps towards liberalizing their economies, and made progress toward regional economic integration that can have positive benefits for the region;
+&emsp;(5) certain countries in sub-Saharan Africa have increased their economic growth rates,taken significant steps towards liberalizing their economies, and made progress toward regional economic integration that can have positive benefits for the region;
 
 &emsp;(6) despite those gains, the per capita income in sub-Saharan Africa averages approximately $500 annually;
 
@@ -160,7 +160,7 @@ Entries.—The entries referred to in subsection (a) are entries of apparel arti
 
 “(a)
 
-Reports.—The President shall, by not later than 1 year after the date of the enactment of this Act \[July 13, 2004\], conduct a study on each eligible sub-Saharan African country, that—
+Reports.—The President shall, by not later than 1 year after the date of the enactment of this Act \[July13, 2004\], conduct a study on each eligible sub-Saharan African country, that—
 
 &emsp;“(1) identifies sectors of the economy of that country with the greatest potential for growth, including through export sales;
 
@@ -274,5 +274,5 @@ In general.—The amendment made by paragraph (1) \[amending Pub. L. 108–274, 
 
 \[“(B)
 
-Requests for retroactive application.—Section 8(b) of the AGOA Acceleration Act of 2004 shall beapplied with respect to the amendment made by paragraph (1) by substituting ‘90 days after the date of the enactment of the Miscellaneous Trade and Technical Corrections Act of 2004 \[Dec. 3, 2004\]’ for ‘90 days after the date of the enactment of this Act’.”\]
+Requests for retroactive application.—Section 8(b) of the AGOA Acceleration Act of 2004 shall be applied with respect to the amendment made by paragraph (1) by substituting ‘90 days after the date of the enactment of the Miscellaneous Trade and Technical Corrections Act of 2004 \[Dec. 3, 2004\]’ for ‘90 days after the date of the enactment of this Act’.”\]
 

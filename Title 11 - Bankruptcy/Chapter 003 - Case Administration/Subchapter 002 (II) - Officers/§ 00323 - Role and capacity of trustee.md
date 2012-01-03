@@ -8,7 +8,7 @@
 
 #### Historical and Revision Notes
 
-I74senate report no. 95–989
+#### senate report no. 95–989
 
 Subsection (a) of this section makes the trustee the representative of the estate. Subsection (b) grants the trustee the capacity to sue and to be sued. If the debtor remains in possession in a chapter 11 case, section 1107 gives the debtor in possession these rights of the trustee: the debtor in possession becomes the representative of the estate, and may sue and be sued. The same applies in a chapter 13 case.
 

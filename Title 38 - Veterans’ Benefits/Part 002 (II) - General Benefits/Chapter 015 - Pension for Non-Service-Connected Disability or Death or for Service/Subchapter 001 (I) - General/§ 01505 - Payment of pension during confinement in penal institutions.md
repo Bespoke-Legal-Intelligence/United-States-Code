@@ -12,7 +12,7 @@
 
 Prior section 1505 was renumbered section 3105 of this title.
 
-Another prior section 1505, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1172; Pub. L. 94–502, title I, §104(5), Oct. 15,1976, 90 Stat. 2384, related to leaves of absence to veterans pursuing a course of vocational rehabilitation training under chapter 31 of this title, prior to the general revision of chapter 31 of this title by Pub. L. 96–466. Section 802(a)(3) of Pub. L. 96–466, set out as an Effective Date note under section 3100 of this title, provided that this prior section 1505 continue in effect until Mar. 31, 1981. See section 3110 of this title.
+Another prior section 1505, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1172; Pub. L. 94–502, title I, §104(5), Oct. 15, 1976, 90 Stat. 2384, related to leaves of absence to veterans pursuing a course of vocational rehabilitation training under chapter 31 of this title, prior to the general revision of chapter 31 of this title by Pub. L. 96–466. Section 802(a)(3) of Pub. L. 96–466, set out as an Effective Date note under section 3100 of this title, provided that this prior section 1505 continue in effect until Mar. 31, 1981. See section 3110 of this title.
 
 #### Amendments
 

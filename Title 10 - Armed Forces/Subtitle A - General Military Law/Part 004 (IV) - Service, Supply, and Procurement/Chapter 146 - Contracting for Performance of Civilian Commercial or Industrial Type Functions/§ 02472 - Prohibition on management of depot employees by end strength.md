@@ -2,7 +2,7 @@
 
 The civilian employees of the Department of Defense, including the civilian employees of the military departments and the Defense Agencies, who perform, or are involved in the performance of, depot-level maintenance and repair workloads may not be managed on the basis of any constraint or limitation in terms of man years, end strength, full-time equivalent positions, or maximum number of employees. Such employees shall be managed solely on the basis of the available workload and the funds made available for such depot-level maintenance and repair.
 
-(Added and amended Pub. L. 104–106, div. A, title III, §312(a), (b), Feb. 10, 1996, 110 Stat. 250; Pub. L. 105–85, div. A, title III, §360, Nov. 18, 1997, 111 Stat. 1700; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–375, div. A, title III, §322(a), (b)(1), Oct. 28, 2004, 118 Stat. 1846.)
+(Added and amended Pub. L. 104–106, div. A, title III, §312(a), (b), Feb. 10, 1996, 110 Stat. 250; Pub.L. 105–85, div. A, title III, §360, Nov. 18, 1997, 111 Stat. 1700; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–375, div. A, title III, §322(a), (b)(1), Oct. 28, 2004, 118 Stat. 1846.)
 
 #### Codification
 

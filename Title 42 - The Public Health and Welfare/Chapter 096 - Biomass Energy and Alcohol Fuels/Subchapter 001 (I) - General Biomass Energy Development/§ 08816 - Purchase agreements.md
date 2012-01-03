@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretary concerned; consultative requirements
 
-Subject to sections 8812 and 8817 of this title, the Secretary concerned may commit to make, and make, purchase agreements for all or part ofthe biomass energy production of any biomass energy project, if the Secretary determines—
+Subject to sections 8812 and 8817 of this title, the Secretary concerned may commit to make, and make, purchase agreements for all or part of the biomass energy production of any biomass energy project, if the Secretary determines—
 
 &emsp;(1) that such biomass energy is of a type, quantity, and quality that can be used by Federal agencies; and
 

@@ -20,13 +20,13 @@
 
 #### (4) Limitation on petition
 
-&emsp;Any petition filed under this subsection challenging an order, any provision of the order, or any obligation imposed in connection with the order, shall be filed within 2 yearsafter the effective date of the order, provision, or obligation subject to challenge in the petition.
+&emsp;Any petition filed under this subsection challenging an order, any provision of the order, or any obligation imposed in connection with the order, shall be filed within 2 years after the effective date of the order, provision, or obligation subject to challenge in the petition.
 
 #### (b) Review
 
 #### (1) Commencement of action
 
-&emsp;The district court of the United States for any district in which a person who is a petitioner under subsection (a) of this section resides or carries on business shall have jurisdiction to review the final ruling on the petition of the person, if a complaint for that purpose is filed not later than 20 days after the date of the entry of the final ruling by the Secretary under subsection (a)(3) of this section.
+&emsp;The district court of the United States for any district in which a person who is a petitioner under subsection (a) of this section resides or carries on business shall have jurisdiction to review the final ruling on the petition of the person, if a complaint for that purpose is filed not later than 20 days after the date ofthe entry of the final ruling by the Secretary under subsection (a)(3) of this section.
 
 #### (2) Process
 

@@ -10,7 +10,7 @@ As originally enacted, section also provided for legislative counsel of House of
 
 #### Amendments
 
-1941—Act Sept. 20, 1941, substituted “President pro tempore of the Senate” for “President of the Senate”.
+<b>1941</b>—Act Sept. 20, 1941, substituted “President pro tempore of the Senate” for “President of the Senate”.
 
 #### Designation of Deputy Legislative Counsel
 

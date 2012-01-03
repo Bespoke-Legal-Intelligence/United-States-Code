@@ -72,7 +72,7 @@
 
 #### (ii) Reduced data requirements
 
-&emsp;&emsp;&emsp;The simplified electronic version of the forms shall permit an applicant to submit, for financial assistance purposes, only the data elements required to make a determination of whether the applicant meets the requirements under subsection (b) or (c) of section 1087ss of this title.
+&emsp;&emsp;&emsp;The simplified electronic version of the forms shall permit an applicant to submit, for financial assistance purposes, only thedata elements required to make a determination of whether the applicant meets the requirements under subsection (b) or (c) of section 1087ss of this title.
 
 #### (iii) Use of forms
 

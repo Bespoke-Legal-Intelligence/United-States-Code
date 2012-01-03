@@ -2,7 +2,7 @@
 
 #### (a) Submission by Federal officer; approval of Attorney General; contents
 
-Each application for an order approving a physical search under this subchapter shall be made by a Federal officer in writing upon oath or affirmation to a judge of the Foreign Intelligence Surveillance Court. Each application shall require the approval of the Attorney General based upon the Attorney General's finding that it satisfies the criteria and requirements for such application as set forth in this subchapter. Each application shall include—
+Each application for an order approving a physical search under this subchapter shall be made by a Federal officer in writing upon oath or affirmation to a judge of the Foreign Intelligence Surveillance Court. Each application shall require the approval of the Attorney General based upon the Attorney General's finding that it satisfies the criteria and requirementsfor such application as set forth in this subchapter. Each application shall include—
 
 &emsp;(1) the identity of the Federal officer making the application;
 
@@ -32,7 +32,7 @@ Each application for an order approving a physical search under this subchapter 
 
 &emsp;&emsp;(E) includes a statement explaining the basis for the certifications required by subparagraphs (C) and (D);
 
-&emsp;(7) where the physical search involves a search of the residence of a United States person, the Attorney General shall state what investigative techniques have previously been utilized to obtain the foreign intelligence information concerned and the degree to whichthese techniques resulted in acquiring such information; and
+&emsp;(7) where the physical search involves a search of the residence of a United States person, the Attorney General shall state what investigative techniques have previously been utilized to obtain the foreign intelligence information concerned and the degree to which these techniques resulted in acquiring such information; and
 
 &emsp;(8) a statement of the facts concerning all previous applications that have been made to any judge under this subchapter involving any of the persons, premises, or property specified in the application, and the action taken on each previous application.
 

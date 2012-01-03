@@ -132,7 +132,7 @@ The Secretary shall award grants to States in order to assist in supporting the 
 
 #### (d) Reports and evaluation
 
-Each grantee shall submit an annual performance report to the Secretary at such time asshall be reasonably required by the Secretary. Such performance report shall describe the grantee and subgrantee activities that have been carried out with grant funds made available under subsection (a) or section 10409 of this title, contain an evaluation of the effectiveness of such activities, and provide such additional information as the Secretary may reasonably require.
+Each grantee shall submit an annual performance report to the Secretary at such time as shall be reasonably required by the Secretary. Such performance report shall describe the grantee and subgrantee activities that have been carried out with grant funds made available under subsection (a) or section 10409 of this title, contain an evaluation of the effectiveness of such activities, and provide such additional information as the Secretary may reasonably require.
 
 (Pub. L. 98–457, title III, §306, as added Pub. L. 111–320, title II, §201, Dec. 20, 2010, 124 Stat. 3489.)
 
@@ -149,4 +149,8 @@ The Civil Rights Act of 1964, referred to in subsec. (c)(2)(A), (C)(ii), is Pub.
 A prior section 10406, Pub. L. 98–457, title III, §307, Oct. 9, 1984, 98 Stat. 1761, related to prohibition of discrimination, prior to the general amendment of this chapter by Pub. L. 111–320. See subsec. (c)(2) of this section.
 
 A prior section 306 of Pub. L. 98–457 was classified to section 10405 of this title prior to the general amendment of this chapter by Pub. L. 111–320.
+
+#### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 

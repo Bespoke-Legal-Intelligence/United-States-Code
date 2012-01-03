@@ -8,7 +8,7 @@ Each officer or employee of the Department of the Interior who—
 
 &emsp;(2) has any known financial interest in any person who (A) applies for or receives any permit or lease under, or (B) is otherwise subject to the provisions of this chapter or the Outer Continental Shelf Lands Act \[43 U.S.C. 1331 et seq.\],
 
-> shall, beginning on February 1, 1979, annually file with the Secretary of the Interior a written statement concerning all such interests held by such officer or employee during the preceeding <sup>1</sup> calendar year. Such statement shall be available to the public.
+> shall, beginning on February 1, 1979, annually file with the Secretary of the Interior a written statement concerning all such interests held by such officer or employee during the preceeding <sup>1</sup>calendar year. Such statement shall be available to the public.
 
 #### (b) “Known financial interest” defined; enforcement; report to Congress
 

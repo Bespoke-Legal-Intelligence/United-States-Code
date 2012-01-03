@@ -10,7 +10,7 @@ This section makes the unauthorized use of the words “Coast Guard” or any de
 
 #### Amendments
 
-1950—Act Aug. 3, 1950, made it possible for Commandant to grant authority to private business organizations to use terms or designations otherwise prohibited by this section.
+<b>1950</b>—Act Aug. 3, 1950, made it possible for Commandant to grant authority to private business organizations to use terms or designations otherwise prohibited by this section.
 
 #### Coast Guard City, USA
 

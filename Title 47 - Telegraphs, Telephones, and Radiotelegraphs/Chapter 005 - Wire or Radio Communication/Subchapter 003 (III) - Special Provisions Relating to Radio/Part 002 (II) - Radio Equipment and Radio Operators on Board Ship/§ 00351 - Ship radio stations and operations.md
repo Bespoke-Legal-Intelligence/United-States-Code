@@ -6,13 +6,17 @@
 
 &emsp;&emsp;(A) Passenger ships irrespective of size and cargo ships of one thousand six hundred gross tons and upward shall be equipped with a radio-telegraph station complying with the provisions of this part;
 
-&emsp;&emsp;(B) Cargo ships of three hundred gross tons and upward but less than one thousand six hundred gross tons, unless equipped with a radio-telegraph station complying with the provisions of this part, shall be equipped with a radiotelephone station complying with the provisions of this part.
+&emsp;&emsp;(B) Cargo ships of three hundred gross tons and upward but less than one thousand six hundred gross tons, unless equipped with a radio-telegraph station complying with the provisions of this part, shall be equippedwith a radiotelephone station complying with the provisions of this part.
 
 &emsp;(2) For any ship of the United States of one thousand six hundred gross tons and upward to be navigated in the open sea outside of a harbor or port, or for any such ship of the United States or any foreign country to leave or attempt to leave any harbor or port of the United States for a voyage in the open sea, unless such ship is equipped with efficient radio direction finding apparatus approved by the Commission, properly adjusted in operating condition as hereinafter provided.
 
 (b) A ship which is not subject to the provisions of this part at the time of its departure on a voyage shall not become subject to such provisions on account of any deviation from its intended voyage due to stress of weather or any other cause over which neither the master, the owner, nor the charterer (if any) has control.
 
 (June 19, 1934, ch. 652, title III, §351, as added May 20, 1937, ch. 229, §10(b), 50 Stat. 192; amended Aug. 13, 1954, ch. 729, §1(a), 68 Stat. 704; Pub. L. 89–121, §2, Aug. 13, 1965, 79 Stat. 512.)
+
+#### References in Text
+
+This chapter, referred to in subsec. (a)(1), was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
 #### Amendments
 

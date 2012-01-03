@@ -4,7 +4,7 @@
 
 (b) If no child of the veteran is in the custody of the surviving spouse, pension shall be paid to the surviving spouse at the annual rate of $7,933, reduced by the amount of the surviving spouse's annual income.
 
-(c) If there is a child of the veteran in the custody of the surviving spouse, pension shall be paid to the surviving spouse at the annual rate of $10,385. If the surviving spouse has custody of two or more such children, the annual pension rate shall be increased by $2,020 for each such child in excess of one. In each case, the rate payable shall be reduced by the amount of the surviving spouse's annual income and, subject to subsection (g) of this section, the annual income of each such child.
+(c) If there is a child of the veteran in the custody of the surviving spouse, pension shall be paid to the surviving spouse at the annual rate of $10,385. If the surviving spouse has custody of two or more such children, the annual pension rate shall be increased by $2,020 for each such child in excess of one. In each case, the rate payable shall be reduced by the amount of the surviving spouse's annual income and, subject tosubsection (g) of this section, the annual income of each such child.
 
 (d)(1) If a surviving spouse who is entitled to pension under subsection (b) of this section is in need of regular aid and attendance, the annual rate of pension payable to such surviving spouse shall be $12,681, reduced by the amount of the surviving spouse's annual income.
 

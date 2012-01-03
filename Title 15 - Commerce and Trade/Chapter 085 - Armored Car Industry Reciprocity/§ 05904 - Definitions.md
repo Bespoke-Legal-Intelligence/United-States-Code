@@ -22,7 +22,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 <b>2008</b>—Par. (2)(B). Pub. L. 110–246, §4002(b)(1)(E), (2)(L), substituted “supplemental nutrition assistance program benefits” for “food stamps”.
 
-<b>1995</b>—Par. (2). Pub. L. 104–88 substituted “subchapter I of chapter 135” for “subchapter II of chapter 105” insubpar. (A) and “is registered under chapter 139” for “holding the appropriate certificate, permit, or license issued under subchapter II of chapter 109” in subpar. (B).
+<b>1995</b>—Par. (2). Pub. L. 104–88 substituted “subchapter I of chapter 135” for “subchapter II of chapter 105” in subpar. (A) and “is registered under chapter 139” for “holding the appropriate certificate, permit, or license issued under subchapter II of chapter 109” in subpar. (B).
 
 #### Effective Date of 2008 Amendment
 

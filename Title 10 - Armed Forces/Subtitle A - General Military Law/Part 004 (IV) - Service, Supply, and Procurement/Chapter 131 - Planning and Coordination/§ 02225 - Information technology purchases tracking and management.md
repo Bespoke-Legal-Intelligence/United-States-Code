@@ -58,7 +58,7 @@ Annual Report.—Not later than March 15 of each year, the Secretary of Defense 
 
 Definitions.—In this section:
 
-&emsp;(1) The term “senior procurement executive”, with respect to a military department,means the official designated as the senior procurement executive for the military department for the purposes of section 1702(c) of title 41.
+&emsp;(1) The term “senior procurement executive”, with respect to a military department, means the official designated as the senior procurement executive for the military department for the purposes of section 1702(c) of title 41.
 
 &emsp;(2) The term “simplified acquisition threshold” has the meaning given the term in section 134 of title 41.
 
@@ -68,7 +68,7 @@ Definitions.—In this section:
 
 &emsp;(5) The term “small business concern owned and controlled by women” has the meaning given that term in section 8(d)(3)(D) of the Small Business Act (15 U.S.C. 637(d)(3)(D)).
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title VIII, §812(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–212; amended Pub. L. 108–178, §4(b)(2), Dec. 15, 2003, 117 Stat. 2640; Pub. L. 109–364, div. A, title X, §1071(a)(2), Oct. 17, 2006, 120 Stat. 2398; Pub. L. 111–350, §5(b)(6), Jan. 4, 2011, 124 Stat. 3842.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title VIII, §812(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–212; amended Pub. L. 108–178, §4(b)(2), Dec. 15, 2003,117 Stat. 2640; Pub. L. 109–364, div. A, title X, §1071(a)(2), Oct. 17, 2006, 120 Stat. 2398; Pub. L. 111–350, §5(b)(6), Jan. 4, 2011, 124 Stat. 3842.)
 
 #### Amendments
 
@@ -180,7 +180,7 @@ New Acquisition Process Required.—The Secretary of Defense shall develop and i
 
 “(b)
 
-Report to Congress.—Not later than 270 days after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the new acquisition process developed pursuant to subsection (a). The report required by this subsection shall, at a minimum—
+Report to Congress.—Not later than 270 days after the date of the enactment of this Act \[Oct. 28,2009\], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the new acquisition process developed pursuant to subsection (a). The report required by this subsection shall, at a minimum—
 
 &emsp;“(1) describe the new acquisition process;
 

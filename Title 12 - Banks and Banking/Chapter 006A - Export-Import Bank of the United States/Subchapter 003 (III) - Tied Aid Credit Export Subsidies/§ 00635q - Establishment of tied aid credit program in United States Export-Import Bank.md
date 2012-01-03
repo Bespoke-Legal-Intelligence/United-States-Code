@@ -28,9 +28,9 @@ Concessional financing or grants made available under section 635r(d) of this ti
 
 #### Amendments
 
-1992—Subsec. (a)(2), (3)(A). Pub. L. 102–549 substituted “Development Agency” for “Development Program”.
+<b>1992</b>—Subsec. (a)(2), (3)(A). Pub. L. 102–549 substituted “Development Agency” for “Development Program”.
 
-1988—Subsec. (a)(2). Pub. L. 100–418, §2204(c)(1)(A)(i), substituted “Trade and Development Program” for “Agency for International Development”.
+<b>1988</b>—Subsec. (a)(2). Pub. L. 100–418, §2204(c)(1)(A)(i), substituted “Trade and Development Program” for “Agency for International Development”.
 
 Subsec. (a)(3)(A). Pub. L. 100–418, §2204(c)(1)(A)(ii), substituted “made available under section 635r(d) of this title” for “offered by the Agency for International Development” and “Trade and Development Program” for “Agency for International Development”.
 

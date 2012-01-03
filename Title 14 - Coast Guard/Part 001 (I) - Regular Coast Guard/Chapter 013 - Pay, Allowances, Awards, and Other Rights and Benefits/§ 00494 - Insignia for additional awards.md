@@ -1,8 +1,8 @@
 ### §494. Insignia for additional awards
 
-No more than one medal of honor, distinguished service medal, distinguished flying cross, or one Coast Guard medal shall be issued to any one person; but for each succeeding deed or service sufficient to justify the awarding of a medal of honor, distinguished service medal, distinguished flying cross, or Coast Guard medal, the President may award a suitable emblem or insignia to be worn with the decoration and a corresponding rosette or other device.
+No more than one medal of honor, Coast Guard cross, distinguished service medal, silver star medal, distinguished flying cross, or one Coast Guard medal shall be issued to any one person; but for each succeeding deed or service sufficient to justify the awarding of a medal of honor, Coast Guard cross, distinguished service medal, silver star medal, distinguished flying cross, or Coast Guard medal, the President may award a suitable emblem or insignia to be worn with the decoration and a corresponding rosette or other device.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 535; Aug. 10, 1956, ch. 1041, §13, 70A Stat. 624.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 535; Aug. 10, 1956, ch. 1041, §13, 70A Stat. 624; Pub. L. 111–281, title II, §224(c)(1), Oct. 15, 2010, 124 Stat. 2922.)
 
 #### Historical and Revision Notes
 
@@ -10,5 +10,7 @@ This section is supplemental to the preceding sections dealing with the award of
 
 #### Amendments
 
-1956—Act Aug. 10, 1956, included the distinguished flying cross.
+<b>2010</b>—Pub. L. 111–281 substituted “Coast Guard cross, distinguished service medal, silver star medal, distinguished flying cross,” for “distinguished service medal, distinguished flying cross,” in two places.
+
+<b>1956</b>—Act Aug. 10, 1956, included the distinguished flying cross.
 

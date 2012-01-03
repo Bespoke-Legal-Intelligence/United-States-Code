@@ -38,7 +38,7 @@ The purposes for which the Secretary may take any action described in paragraph 
 
 #### (1) Limitation of authority
 
-&emsp;No summons may be issued under this title, and the Secretary may not begin any actionunder section 7604 to enforce any summons, with respect to any person if a Justice Department referral is in effect with respect to such person.
+&emsp;No summons may be issued under this title, and the Secretary may not begin any action under section 7604 to enforce any summons, with respect to any person if a Justice Department referral is in effect with respect to such person.
 
 #### (2) Justice Department referral in effect
 

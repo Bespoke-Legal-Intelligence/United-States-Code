@@ -42,7 +42,7 @@ In general.—Notwithstanding paragraph (1), an insured credit union may convert
 
 &emsp;(B)
 
-Conversion proposal.—A proposal for a conversion described in subparagraph (A) shall first be approved, and a date set for a vote thereon by the members (either at a meeting to be held on that date or by written ballot tobe filed on or before that date), by a majority of the directors of the insured credit union. Approval of the proposal for conversion shall be by the affirmative vote of a majority of the members of the insured credit union who vote on the proposal.
+Conversion proposal.—A proposal for a conversion described in subparagraph (A) shall first be approved, and a date set for a vote thereon by the members (either at a meeting to be held on that date or by written ballot to be filed on or before that date), by a majority of the directors of the insured credit union. Approval of the proposal for conversion shall be by the affirmative vote of a majority of the members of the insured credit union who vote on the proposal.
 
 &emsp;(C)
 
@@ -84,7 +84,7 @@ Consistent rules.—
 
 &emsp;&emsp;(i)
 
-In general.—Not later than 6 months after August 7, 1998, the Administration shall promulgate final rules applicable to charter conversions described in this paragraph that are consistent with rules promulgated by other financial regulators, including the Office of Thrift Supervision and the Office of the Comptroller of the Currency. The rules required by this clause shall provide that charter conversion by an insured credit union shall be subject to regulation that is no more or less restrictive than that applicable to charter conversions by other financial institutions.
+In general.—Not later than 6 months after August 7, 1998, the Administration shall promulgate final rules applicable to charter conversions described in this paragraph that are consistent with rules promulgated by other financial regulators, including the Office of the Comptroller of the Currency. The rules required by this clause shall provide that charter conversion by an insured credit union shall be subject to regulation that is no more or less restrictive than that applicable to charter conversions by other financial institutions.
 
 &emsp;&emsp;(ii)
 
@@ -184,7 +184,7 @@ Notwithstanding any other provision of law, the Board may authorize a merger or 
 
 #### (i) Emergency purchase of assets; conversion to insured deposits
 
-(1) Notwithstanding any other provision of this chapter or of State law, the Board may authorize an institution whose deposits or accounts are insured by the Federal Deposit Insurance Corporation or the Federal Savings andLoan Insurance Corporation to purchase any of the assets of or assume any of the liabilities of an insured credit union which is insolvent or in danger of insolvency, except that prior to exercising this authority the Board must attempt to effect the merger or consolidation of an insured credit union which is insolvent or in danger of insolvency with another insured credit union, as provided in subsection (h) of this section.
+(1) Notwithstanding any other provision of this chapter or of State law, the Board may authorize an institution whose deposits or accounts are insured by the Federal Deposit Insurance Corporation to purchase any of the assets of or assume any of the liabilities of an insured credit union which is insolvent or in danger of insolvency, except that prior to exercising this authority the Board must attempt to effect the merger or consolidation of an insured credit union which is insolvent or in danger of insolvency with another insured credit union, as provided in subsection (h) of this section.
 
 (2) For purposes of the authority contained in paragraph (1), insured accounts of the credit union may upon consummation of the purchase and assumption be converted to insured deposits or other comparable accounts in the acquiring institution, and the Board and the National Credit Union Share Insurance Fund shall be absolved of any liability to the credit union's members with respect to those accounts.
 
@@ -202,7 +202,7 @@ Notwithstanding any other provision of law, the Board may authorize a merger or 
 
 &emsp;&emsp;(B) any person would waive any privilege applicable to any information by submitting the information to the Administration, any State credit union supervisor, or foreign banking authority, but for this subsection.
 
-(June 26, 1934, ch. 750, title II, §205, as added Pub. L. 91–468, §1(3), Oct. 19, 1970, 84 Stat. 1002; amended Pub. L. 95–630, title V, §502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 96–221, title III, §305(d), title V, §523, Mar. 31, 1980, 94 Stat. 147, 166; Pub. L. 97–320, title I, §131, 141(a)(8), title VII, §706(b), Oct. 15, 1982, 96 Stat. 1486, 1489, 1540; Pub. L. 100–86, title V, §509(a), Aug. 10, 1987, 101 Stat. 635; Pub. L. 101–73, title IX, §910(b), Aug. 9, 1989, 103 Stat. 478; Pub. L. 103–322, title XXXII, §320606, Sept. 13, 1994, 108 Stat. 2119; Pub. L. 105–219, title II, §202, Aug. 7, 1998, 112 Stat. 919; Pub. L. 109–173, §2(d)(3), Feb. 15, 2006, 119 Stat. 3604; Pub. L. 109–351, title VI, §607(b), Oct. 13, 2006, 120 Stat. 1982.)
+(June 26, 1934, ch. 750, title II, §205, as added Pub. L. 91–468, §1(3), Oct. 19, 1970, 84 Stat. 1002; amended Pub. L. 95–630, title V, §502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 96–221, title III, §305(d), title V, §523, Mar. 31, 1980, 94 Stat. 147, 166; Pub. L. 97–320, title I, §131, 141(a)(8), title VII, §706(b), Oct. 15, 1982, 96 Stat. 1486, 1489, 1540; Pub. L. 100–86, title V, §509(a), Aug. 10, 1987, 101 Stat. 635; Pub. L. 101–73, title IX, §910(b), Aug. 9, 1989, 103 Stat. 478; Pub. L. 103–322, title XXXII, §320606, Sept. 13, 1994, 108 Stat. 2119; Pub. L. 105–219, title II, §202, Aug. 7, 1998, 112 Stat. 919; Pub. L. 109–173, §2(d)(3), Feb. 15, 2006, 119 Stat. 3604; Pub. L. 109–351, title VI, §607(b), Oct. 13, 2006, 120 Stat. 1982; Pub. L. 111–203, title III, §362(2), July 21, 2010, 124 Stat. 1549.)
 
 #### References in Text
 
@@ -210,15 +210,19 @@ Section 1008 of title 18, referred to in subsec. (d)(2)(A)(i)(I), was repealed b
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–173 amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “Every insured credit union shall display at each place of business maintained by it a sign or signs indicating that its member accounts are insured by the Board and shall include in all of its advertisements a statement to the effect that its member accounts are insured by the Board. The Board may exempt from this requirement advertisements which do not relate to member accounts or advertisements in which it is impractical to include such a statement. The Board shall prescribe by regulation the forms of such signs, the manner of display, the substance of any such statement, and the manner of use.”
+<b>2010</b>—Subsec. (b)(2)(G)(i). Pub. L. 111–203, §362(2)(A), struck out “the Office of Thrift Supervision and” before “the Office of the Comptroller”.
+
+Subsec. (i)(1). Pub. L. 111–203, §362(2)(B), struck out “or the Federal Savings and Loan Insurance Corporation” before “to purchase”.
+
+<b>2006</b>—Subsec. (a). Pub. L. 109–173 amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “Every insured credit union shall display at each place of business maintained by it a sign or signs indicating that its member accounts are insured by the Board and shall include in all of its advertisements a statement to the effect that its member accounts are insured by the Board. The Board may exempt from this requirement advertisements which do not relate to member accounts or advertisements in which it is impractical to include such a statement. The Board shall prescribe by regulation the forms of such signs, the manner of display, the substance of any such statement, and the manner of use.”
 
 Subsec. (j). Pub. L. 109–351 added subsec. (j).
 
-1998—Subsec. (b)(1). Pub. L. 105–219, §202(1), substituted “Except as provided in paragraph (2), no insured credit union shall, without the prior approval of the Board” for “Except with the prior written approval of the Board, no insured credit union shall”.
+<b>1998</b>—Subsec. (b)(1). Pub. L. 105–219, §202(1), substituted “Except as provided in paragraph (2), no insured credit union shall, without the prior approval of the Board” for “Except with the prior written approval of the Board, no insured credit union shall”.
 
 Subsec. (b)(2), (3). Pub. L. 105–219, §202(2), (3), added par. (2) and redesignated former par. (2) as (3).
 
-1994—Subsec. (d). Pub. L. 103–322 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows:
+<b>1994</b>—Subsec. (d). Pub. L. 103–322 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows:
 
 “(1)
 
@@ -232,21 +236,25 @@ Prohibition.—Except with the prior written consent of the Board—
 
 Penalty.—Whoever knowingly violates paragraph (1) shall be fined not more than $1,000,000 for each day such prohibition is violated or imprisoned for not more than 5 years, or both.”
 
-1989—Subsec. (d). Pub. L. 101–73 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Except with the written consent of the Board, no person shall serve as a director, officer, committee member, or employee of an insured credit union who has been convicted, or who is hereafter convicted, of any criminal offense involving dishonesty or a breach of trust. For each willful violation of this prohibition, the credit union involved shall be subject to a penalty of not more than $100 for each day this prohibition is violated, which the Board may recover for its use.”
+<b>1989</b>—Subsec. (d). Pub. L. 101–73 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Except with the written consent of the Board, no person shall serve as a director, officer, committee member, or employee of an insured credit union who has been convicted, or who is hereafter convicted, of any criminal offense involving dishonesty or a breach of trust. For each willful violation of this prohibition, the credit union involved shall be subject to a penalty of not more than $100 for each day this prohibition is violated, which the Board may recover for its use.”
 
-1987—Pub. L. 100–86 repealed Pub. L. 97–320, §141. See 1982 Amendment note below.
+<b>1987</b>—Pub. L. 100–86 repealed Pub. L. 97–320, §141. See 1982 Amendment note below.
 
-1982—Subsec. (f)(2). Pub. L. 97–320, §706(b), inserted provisions relating to deposits of public funds.
+<b>1982</b>—Subsec. (f)(2). Pub. L. 97–320, §706(b), inserted provisions relating to deposits of public funds.
 
 Subsecs. (h), (i). Pub. L. 97–320, §131, added subsecs. (h) and (i).
 
 Pub. L. 97–320, §141(a)(8), which directed that, effective Oct. 13, 1986, the provisions of law amended by section 131 of Pub. L. 97–320 shall be amended to read as they would without such amendment, was repealed by Pub. L. 100–86, §509(a). See Effective and Termination Dates of 1982 Amendment note and Extension of Emergency Acquisition and Net Worth Guarantee Provisions of Pub. L. 97–320 note set out under section 1464 of this title.
 
-1980—Subsec. (f). Pub. L. 96–221, §305(d), added subsec. (f).
+<b>1980</b>—Subsec. (f). Pub. L. 96–221, §305(d), added subsec. (f).
 
 Subsec. (g). Pub. L. 96–221, §523, added subsec. (g).
 
-1978—Pub. L. 95–630 substituted “Board” for “Administrator” wherever appearing, and “its” for “his” where appropriate.
+<b>1978</b>—Pub. L. 95–630 substituted “Board” for “Administrator” wherever appearing, and “its” for “his” where appropriate.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the transfer date, see section 351 of Pub. L. 111–203, set out as a note under section 906 of Title 2, The Congress.
 
 #### Effective Date of 2006 Amendment
 
@@ -254,17 +262,13 @@ Pub. L. 109–173, §2(e), Feb. 15, 2006, 119 Stat. 3605, provided that: “This
 
 #### Effective Date of 1980 Amendment
 
-Enactment of subsec. (f) by Pub. L. 96–221 effective at the close of Mar. 31, 1980, see section 306 of Pub. L.96–221, set out as an Effective Date of 1980 Amendment note under section 371a of this title.
+Enactment of subsec. (f) by Pub. L. 96–221 effective at the close of Mar. 31, 1980, see section 306 of Pub. L. 96–221, set out as a note under section 1464 of this title.
 
 Section 525 of Pub. L. 96–221 provided that: “The amendments made by sections 521 through 523 of this title \[amending this section and enacting sections 1730g and 1831d of this title\] shall apply only with respect to loans made in any State during the period beginning on April 1, 1980, and ending on the date, on or after April 1, 1980, on which such State adopts a law or certifies that the voters of such State have voted in favor of any provision, constitutional or otherwise, which states explicitly and by its terms that such State does not want the amendments made by such sections to apply with respect to loans made in such State, except that such amendments shall apply to a loan made on or after the date such law is adopted or such certification is made if such loan is made pursuant to a commitment to make such loan which was entered into on or after April 1, 1980, and prior to the date on which such law is adopted or such certification is made.”
 
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10, 1978, and transitional provisions, see section 509 of Pub. L. 95–630, set out as a note under section 1752 of this title.
-
-#### Transfer of Functions
-
-Federal Savings and Loan Insurance Corporation abolished and functions transferred, see sections 401 to 406 of Pub. L. 101–73, set out as a note under section 1437 of this title.
 
 #### Extension of Emergency Acquisition and Net Worth Guarantee Provisions of Pub. L. 97–320
 

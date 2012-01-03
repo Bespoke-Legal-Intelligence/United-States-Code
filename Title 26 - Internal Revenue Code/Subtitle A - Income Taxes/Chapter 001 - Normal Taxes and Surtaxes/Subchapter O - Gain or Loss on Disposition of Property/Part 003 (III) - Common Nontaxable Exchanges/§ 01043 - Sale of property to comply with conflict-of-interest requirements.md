@@ -90,7 +90,7 @@ Section 6(a)(2) of Pub. L. 101–280 provided that:
 
 &emsp;“(i) any property sold before June 19, 1990, shall be treated as sold pursuant to a certificate of divestiture (as defined in subsection (b)(2) thereof) if such a certificate is issued with respect to such sale before such date, and
 
-&emsp;“(ii) in any such case, the 60-day period referred to in subsection (a) thereof shall not expire before the end of the 60-day period beginning on the date on which the certificate of divestiture was issued.
+&emsp;“(ii) in any such case, the 60-day period referred to in subsection (a) thereof shall not expire before theend of the 60-day period beginning on the date on which the certificate of divestiture was issued.
 
 “(B) Notwithstanding subparagraph (A), section 1043 of such Code shall not apply to any sale before April 19, 1990, unless—
 

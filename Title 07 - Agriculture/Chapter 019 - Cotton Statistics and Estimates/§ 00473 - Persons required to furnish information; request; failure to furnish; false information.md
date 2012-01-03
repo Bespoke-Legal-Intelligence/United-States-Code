@@ -6,7 +6,7 @@ It shall be the duty of every owner, president, treasurer, secretary, director, 
 
 #### Amendments
 
-1960—Pub. L. 86–507 inserted “or by certified mail” after “registered mail”, and “or receipt for certified mail” after “registry receipt.”
+<b>1960</b>—Pub. L. 86–507 inserted “or by certified mail” after “registered mail”, and “or receipt for certified mail” after “registry receipt.”
 
 #### Change of Name
 

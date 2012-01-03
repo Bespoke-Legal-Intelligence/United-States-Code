@@ -26,7 +26,7 @@ Employment Authorities.—The authorities referred to in subsection (a) are the 
 
 (c)
 
-Permanent Limitations on Number.—(1) The total number of non-dual status technicians employed by the Army Reserve may not exceed 595 and by the Air Force Reserve may not exceed 90. If at any time the number of non-dual status technicians employed by the Army Reserve and Air Force Reserve exceeds the number specified in the limitation in the preceding sentence, the Secretary of Defense shall require that the Secretary of the Army or the Secretary of the Air Force, or both, take immediate steps to reduce the number of such technicians in order to comply with such limitation.
+Permanent Limitations on Number.—(1) The total number of non-dual status technicians employed by the Army Reserve may not exceed 595 and by the Air Force Reserve may not exceed 90. If at any time the number of non-dual status technicians employed by the Army Reserve and Air Force Reserve exceeds the number specified in the limitation in the preceding sentence, the Secretary of Defense shall require that the Secretary of the Army or the Secretary of the AirForce, or both, take immediate steps to reduce the number of such technicians in order to comply with such limitation.
 
 (2) The total number of non-dual status technicians employed by the National Guard may not exceed 1,950. If at any time the number of non-dual status technicians employed by the National Guard exceeds the number specified in the limitation in the preceding sentence, the Secretary of Defense shall require that the Secretary of the Army or the Secretary of the Air Force, or both, take immediate steps to reduce the number of such technicians in order to comply with such limitation.
 
@@ -56,7 +56,7 @@ The date of the enactment of this subsection, referred to in subsec. (d)(3), is 
 
 <b>2011</b>—Subsec. (a)(3). Pub. L. 111–383, §513(a)(1), added par. (3).
 
-Subsec. (c)(1). Pub. L. 111–383, §1075(b)(53), substituted “The” for “Effective October 1, 2007, the” and struckout “after the preceding sentence takes effect” after “If at any time”.
+Subsec. (c)(1). Pub. L. 111–383, §1075(b)(53), substituted “The” for “Effective October 1, 2007, the” and struck out “after the preceding sentence takes effect” after “If at any time”.
 
 Subsec. (c)(3). Pub. L. 111–383, §513(b), added par. (3).
 

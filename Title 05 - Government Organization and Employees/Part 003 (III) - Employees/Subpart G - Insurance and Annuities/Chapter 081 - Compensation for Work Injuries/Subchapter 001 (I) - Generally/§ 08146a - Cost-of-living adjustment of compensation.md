@@ -4,7 +4,7 @@
 
 (b) The regular periodic compensation payments after adjustment under this section shall be fixed at the nearest dollar. However, the regular periodic compensation after adjustment shall reflect an increase of at least $1.
 
-(c) This section shall be applicable to persons excluded by section 15 of the Federal Employees’Compensation Act Amendments of 1966 (Public Law 89–488) under the following statutes: Act of February 15, 1934 (48 Stat. 351); Act of June 26, 1936 (49 Stat. 2035); Act of April 8, 1935 (49 Stat. 115); Act of July 25, 1942 (56 Stat. 710); Public Law 84–955 (August 3, 1956); Public Law 77–784 (December 2, 1942); Public Law 84–879 (August 1, 1956); Public Law 80–896 (July 3, 1948); Act of September 8, 1959 (73 Stat. 469). Benefit payments to these persons shall initially be increased by the total percentage of the increases in the price index from the base month of July 1966, to the next most recent base month following the effective date of this subsection.
+(c) This section shall be applicable to persons excluded by section 15 of the Federal Employees’ Compensation Act Amendments of 1966 (Public Law 89–488) under the following statutes: Act of February 15, 1934 (48 Stat. 351); Act of June 26, 1936 (49 Stat. 2035); Act of April 8, 1935 (49 Stat. 115); Act of July 25, 1942 (56 Stat. 710); Public Law 84–955 (August 3, 1956); Public Law 77–784 (December 2, 1942); Public Law 84–879 (August 1, 1956); Public Law 80–896 (July 3, 1948); Act of September 8, 1959 (73 Stat. 469). Benefit payments to these persons shall initially be increased by the total percentage of the increases in the price index from the base month of July 1966, to the next most recent base month following the effective date of this subsection.
 
 (Added Pub. L. 90–83, §1(67)(A), Sept. 11, 1967, 81 Stat. 212; amended Pub. L. 93–416, §§21, 24, Sept. 7, 1974, 88 Stat. 1149, 1150; Pub. L. 96–499, title IV, §421(a), Dec. 5, 1980, 94 Stat. 2608.)
 
@@ -54,9 +54,9 @@ Act of September 8, 1959 (73 Stat. 469) which transferred from the Department of
 
 #### Amendments
 
-1980—Subsec. (a). Pub. L. 96–499 substituted “Compensation” for “Each month the Secretary of Labor shall determine the percent change in the price index. Effective the first day of the month which begins after the price index change equals a rise of at least 3 percent for 3 consecutive months over the price index for the latest base month, compensation”, “March 1 of each year shall be annually increased” for “that first day shall be increased” and “amount determined by the Secretary of Labor to represent the percent change in the price index published for December of the preceding year over the price index published for the December of the year prior to the preceding year,” for “percent rise in the price index (calculated on the highest level of the price index during the 3 consecutive months)”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–499 substituted “Compensation” for “Each month the Secretary of Labor shall determine the percent change in the price index. Effective the first day of the month which begins after the price index change equals a rise of at least 3 percent for 3 consecutive months over the price index for the latest base month, compensation”, “March 1 of each year shall be annually increased” for “that first day shall be increased” and “amount determined by the Secretary of Labor to represent the percent change in the price index published for December of the preceding year over the price index published for the December of the year prior to the preceding year,” for “percent rise in the price index (calculated on the highest level of the price index during the 3 consecutive months)”.
 
-1974—Subsec. (a). Pub. L. 93–416, §21, substituted “Effective the first day of the month” for “Effective the first day of the third month”.
+<b>1974</b>—Subsec. (a). Pub. L. 93–416, §21, substituted “Effective the first day of the month” for “Effective the first day of the third month”.
 
 Subsec. (b). Pub. L. 93–416, §21, substituted “regular periodic compensation payments” for “monthly compensation”.
 

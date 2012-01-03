@@ -14,7 +14,7 @@
 
 &emsp;(5) planning, supervision, administration, and overhead incident to the project.
 
-(c) In determining the scope of a proposed military construction project, the Secretary concerned shall submit to the President such recommendations as the Secretary considers to be appropriate regarding the incorporation and inclusion of life-cycle cost-effective practices as an element in the project documents submitted to Congress in connection with the budget submitted pursuant to section 1105 of title 31 for thefiscal year in which a contract is proposed to be awarded for the project.
+(c) In determining the scope of a proposed military construction project, the Secretary concerned shall submit to the President such recommendations as the Secretary considers to be appropriate regarding the incorporation and inclusion of life-cycle cost-effective practices as an element in the project documents submitted to Congress in connection with the budget submitted pursuant to section 1105 of title 31 for the fiscal year in which a contract is proposed to be awarded for the project.
 
 (Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 154; amended Pub. L. 110–181, div. B, title XXVIII, §2802(a), Jan. 28, 2008, 122 Stat. 539; Pub. L. 110–417, div. B, title XXVIII, §2801(b), Oct. 14, 2008, 122 Stat. 4719.)
 
@@ -176,19 +176,5 @@ Limitation on Expenditures.—The Secretary of Defense and the Secretaries of th
 
 #### Reports Relating to Military Construction for Facilities Supporting New Weapon Systems
 
-Pub. L. 102–190, div. B, title XXVIII, §2868, Dec. 5, 1991, 105 Stat. 1562, as amended by Pub. L. 108–136, div. A, title X, §1031(c)(2), Nov. 24, 2003, 117 Stat. 1604, provided that:
-
-“(a)
-
-Requirement.—Not later than 30 days after the date on which a decision is made selecting the site or sites for the permanent basing of a new weapon system, the Secretary of Defense shall submit to Congress a report describing—
-
-&emsp;“(1) the site or sites selected or planned for permanent basing of the planned force of that weapon system;
-
-&emsp;“(2) the rationale for selecting such site or sites; and
-
-&emsp;“(3) the military construction activities proposed for each such site.
-
-“(b)
-
-New Weapon System Defined.—For purposes of this section, the term ‘new weapon system’ means any military aircraft or major naval combatant vessel for which a complete permanent basing plan has not been publicly announced before the date of the enactment of this Act \[Dec. 5, 1991\].”
+Pub. L. 102–190, div. B, title XXVIII, §2868, Dec. 5, 1991, 105 Stat. 1562, as amended by Pub. L. 108–136, div. A, title X, §1031(c)(2), Nov. 24, 2003, 117 Stat. 1604, whichrequired the Secretary of Defense to submit to Congress a report relating to the permanent basing of a new weapon system not later than 30 days after selecting a site or sites for such permanent basing, was repealed by Pub. L. 112–81, div. A, title X, §1062(m), Dec. 31, 2011, 125 Stat. 1586.
 

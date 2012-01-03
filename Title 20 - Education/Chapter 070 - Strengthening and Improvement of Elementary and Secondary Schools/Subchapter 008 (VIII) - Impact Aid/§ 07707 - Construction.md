@@ -8,7 +8,7 @@
 
 #### (2) Additional requirements
 
-&emsp;A local educational agency that receives a basic support payment under section 7703(b)(1)of this title shall also meet at least one of the following requirements:
+&emsp;A local educational agency that receives a basic support payment under section 7703(b)(1) of this title shall also meet at least one of the following requirements:
 
 &emsp;&emsp;(A) The number of children determined under section 7703(a)(1)(C) of this title for the agency for the preceding school year constituted at least 50 percent of the total student enrollment in the schools of the agency during the preceding school year.
 
@@ -74,7 +74,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) has minimal capacity to issue bonds and is at not less than 75 percent of the agency's limit of bonded indebtedness; or
 
-&emsp;&emsp;&emsp;&emsp;(III) does not meet the requirements of subclauses (I) and (II) but is eligible toreceive funds under section 7703(b)(2) of this title for the fiscal year; and
+&emsp;&emsp;&emsp;&emsp;(III) does not meet the requirements of subclauses (I) and (II) but is eligible to receive funds under section 7703(b)(2) of this title for the fiscal year; and
 
 &emsp;&emsp;&emsp;(ii) the agency is eligible to receive assistance under subsection (a) of this section for the fiscal year and has a school facility emergency, as determined by the Secretary, that poses a health or safety hazard to the students and school personnel assigned to the school facility.
 
@@ -186,7 +186,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) a project for a school facility for which the agency does not have full title or other interest;
 
-&emsp;&emsp;&emsp;&emsp;(II) stadiums or other school facilities that are primarily used for athletic contests, exhibitions, or other events for which admission is charged to the general public; or
+&emsp;&emsp;&emsp;&emsp;(II) stadiums or other school facilities that are primarily used for athletic contests, exhibitions, or other events forwhich admission is charged to the general public; or
 
 &emsp;&emsp;&emsp;&emsp;(III) the acquisition of real property.
 
@@ -208,7 +208,7 @@
 
 #### (B) Emergency grants; prohibition on use of funds
 
-&emsp;&emsp;A local educational agency that is awarded an emergency grant under this subsectionmay not use amounts under the grant for the complete or partial replacement of an existing school facility unless such replacement is less expensive or more cost-effective than correcting the identified emergency.
+&emsp;&emsp;A local educational agency that is awarded an emergency grant under this subsection may not use amounts under the grant for the complete or partial replacement of an existing school facility unless such replacement is less expensive or more cost-effective than correcting the identified emergency.
 
 #### (6) Application
 
@@ -260,11 +260,7 @@
 
 <b>2000</b>—Pub. L. 106–398 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) authorizing payments to certain local educational agencies for construction.
 
-<b>1996</b>—Subsec. (a)(2)(B). Pub. L. 104–134 struck out “and in which the agency at any 2 times during the four fiscal years preceding October 20, 1994, was denied by a vote of the agency's eligible voters a bond referendum for the purposes of school construction or renovation” before semicolon at end.
-
-#### Change of Name
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+<b>1996</b>—Subsec. (a)(2)(B). Pub. L. 104–134 struck out “and in which the agency at any 2 times during thefour fiscal years preceding October 20, 1994, was denied by a vote of the agency's eligible voters a bond referendum for the purposes of school construction or renovation” before semicolon at end.
 
 #### Effective Date of 2002 Amendment
 

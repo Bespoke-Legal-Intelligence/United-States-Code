@@ -8,7 +8,7 @@
 
 #### Amendments
 
-1952—Subsec. (a). Act July 10, 1952, authorized reimbursement of necessary expenses to persons other than civil officers, and added stragglers and prisoners to class of offenders.
+<b>1952</b>—Subsec. (a). Act July 10, 1952, authorized reimbursement of necessary expenses to persons other than civil officers, and added stragglers and prisoners to class of offenders.
 
 #### Effective Date
 

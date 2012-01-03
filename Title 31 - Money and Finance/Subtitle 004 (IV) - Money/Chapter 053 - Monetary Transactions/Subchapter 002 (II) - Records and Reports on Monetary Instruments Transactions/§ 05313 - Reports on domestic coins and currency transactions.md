@@ -24,7 +24,7 @@ Mandatory Exemptions From Reporting Requirements.—
 
 &emsp;(1)
 
-In general.—The Secretary of the Treasury shall exempt, pursuant to section5318(a)(6), a depository institution from the reporting requirements of subsection (a) with respect to transactions between the depository institution and the following categories of entities:
+In general.—The Secretary of the Treasury shall exempt, pursuant to section 5318(a)(6), a depository institution from the reporting requirements of subsection (a) with respect to transactions between the depository institution and the following categories of entities:
 
 &emsp;&emsp;(A) Another depository institution.
 
@@ -116,7 +116,7 @@ Depository Institution Defined.—For purposes of this section, the term “depo
 
 &emsp;&emsp;(B) any corporation chartered under section 25A of the Federal Reserve Act; and
 
-&emsp;&emsp;(C) any corporation having an agreement or undertaking with the Board of Governorsof the Federal Reserve System under section 25 of the Federal Reserve Act.
+&emsp;&emsp;(C) any corporation having an agreement or undertaking with the Board of Governors of the Federal Reserve System under section 25 of the Federal Reserve Act.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 996; Pub. L. 103–325, title IV, §402(a), Sept. 23, 1994, 108 Stat. 2243.)
 
@@ -148,7 +148,7 @@ Oct. 26, 1970, Pub. L. 91–508, §§221–223, 84 Stat. 1122.
 
 In subsection (a), the words “coins or” are added, and the words “prescribe” and “prescribes” are substituted for “specify” in 31:1081, and “require”, for consistency. The words “other parties thereto or” in 31:1082 are omitted as surplus. The words “to the Secretary” in 31:1081 are omitted as unnecessary and for clarity. The words “in such detail” are omitted as surplus. The words “A participant acting for another person shall make the report as the agent or bailee of the person and identify the person for whom the transaction is being made” are substituted for 31:1082(last sentence) for clarity and to eliminate unnecessary words.
 
-In subsection (b), the words “in his discretion” and “individually or by class” are omitted as surplus. The word “Government” is added for consistency. The words “or a regulation under this subchapter”, are added because of the restatement. The words “(except a violation of section 5315 of this title or a regulation prescribed under section 5315)” are added because 31:1141–1143 was not enacted as a part of the Currency and Foreign Transactions Reporting Act that is restated in this subchapter.
+In subsection (b), the words “in his discretion” and “individually or by class” are omitted as surplus. The word “Government” is added for consistency. The words “or a regulation under this subchapter”, are added because of the restatement. The words “(excepta violation of section 5315 of this title or a regulation prescribed under section 5315)” are added because 31:1141–1143 was not enacted as a part of the Currency and Foreign Transactions Reporting Act that is restated in this subchapter.
 
 In subsection (c)(1), clause (A) is substituted for “with respect to a domestic financial institution . . . with that institution” for clarity. Clause (C) is substituted for “any such person may, at his election and in lieu of filing the report in the manner hereinabove prescribed, file the report with the Secretary” to eliminate unnecessary words.
 

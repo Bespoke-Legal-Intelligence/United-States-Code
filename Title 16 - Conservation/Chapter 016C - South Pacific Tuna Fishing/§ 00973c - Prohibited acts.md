@@ -22,7 +22,7 @@
 
 &emsp;(10) to forcibly assault, resist, oppose, impede, intimidate, or interfere with—
 
-&emsp;&emsp;(A) any Authorized Officer or Authorized Party Officer in the conduct of a search or inspection in connection with the enforcement of this chapter or the Treaty; or
+&emsp;&emsp;(A) any Authorized Officer or Authorized Party Officer in the conduct of a search orinspection in connection with the enforcement of this chapter or the Treaty; or
 
 &emsp;&emsp;(B) an observer in the conduct of observer duties under the Treaty;
 
@@ -36,7 +36,7 @@
 
 &emsp;(1) to use a vessel to fish unless validly licensed as required by the Administrator;
 
-&emsp;(2) to use a vessel for directed fishing for southern bluefin tuna or for fishing for anykinds of fish other than tunas, except that fish may be caught as an incidental by-catch;
+&emsp;(2) to use a vessel for directed fishing for southern bluefin tuna or for fishing for any kinds of fish other than tunas, except that fish may be caught as an incidental by-catch;
 
 &emsp;(3) to use a vessel for fishing by any method other than the purse-seine method;
 

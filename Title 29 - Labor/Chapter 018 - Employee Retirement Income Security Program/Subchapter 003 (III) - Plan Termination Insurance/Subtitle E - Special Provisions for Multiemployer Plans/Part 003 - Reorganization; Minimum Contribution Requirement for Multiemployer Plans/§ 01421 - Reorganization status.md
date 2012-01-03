@@ -32,7 +32,7 @@ A multiemployer plan is in reorganization for a plan year if the plan's reorgani
 
 &emsp;&emsp;(II) at the election of the plan sponsor, actuarial valuation of the plan as of the adjustment date or any later date not later than the last day of the plan year for which the determination is being made,
 
-&emsp;(ii) any change in benefits under the plan which is not otherwise taken into account under this subparagraph and which is pursuant to any amendment—
+&emsp;(ii) any change in benefits under the plan which is not otherwise taken into accountunder this subparagraph and which is pursuant to any amendment—
 
 &emsp;&emsp;(I) adopted before the end of the plan year for which the determination is being made, and
 

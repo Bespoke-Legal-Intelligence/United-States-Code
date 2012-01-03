@@ -20,7 +20,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 349(b)(2) of the House amendment adds a cross reference to section 553 to reflect the new right of recovery of setoffs created under that section. Corresponding changes are made throughout the House amendment.
 
@@ -32,9 +32,9 @@ Subsection (b) specifies that the dismissal reinstates proceedings or custodians
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–394 substituted “109(g)” for “109(f)”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–394 substituted “109(g)” for “109(f)”.
 
-1984—Subsec. (a). Pub. L. 98–353 inserted “; nor does the dismissal of a case under this title prejudice the debtor with regard to the filing of a subsequent petition under this title, except as provided in section 109(f) of this title”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–353 inserted “; nor does the dismissal of a case under this title prejudice the debtor with regard to the filing of a subsequent petition under this title, except as provided in section 109(f) of this title”.
 
 #### Effective Date of 1994 Amendment
 
@@ -42,5 +42,5 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
+Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 

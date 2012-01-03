@@ -18,7 +18,7 @@ Section was enacted as part of the Housing and Urban Development Act of 1970, an
 
 #### Amendments
 
-1991—Par. (1). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration” in two places.
+<b>1991</b>—Par. (1). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration” in two places.
 
-1988—Pub. L. 100–242 inserted parenthetical reference to condominiums and cooperatives in par. (1), substituted “due, regardless of whether the purchaser is obligated on the loan” for “due” in par. (2), and substituted “$250,000” for “$5,000” and “5” for “three” in closing provisions.
+<b>1988</b>—Pub. L. 100–242 inserted parenthetical reference to condominiums and cooperatives in par. (1), substituted “due, regardless of whether the purchaser is obligated on the loan” for “due” in par. (2), and substituted “$250,000” for “$5,000” and “5” for “three” in closing provisions.
 

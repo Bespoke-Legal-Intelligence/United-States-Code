@@ -200,7 +200,7 @@ Not sooner than 24 months after the date of issuance of guidelines pursuant to s
 
 #### (3) International regulations
 
-&emsp;The Secretary shall revise regulations promulgated under this subsection to the extent required to make such regulations consistent with the treatment of a particular matter in any international agreement, agreed to by the United States, governing management of the transfer of nonindigenous aquatic species by vessel.
+&emsp;The Secretary shall revise regulations promulgated under this subsection to the extent required to make such regulations consistent with the treatment of a particular matter in any international agreement, agreed to by the United States, governing management of thetransfer of nonindigenous aquatic species by vessel.
 
 #### (g) Sanctions
 

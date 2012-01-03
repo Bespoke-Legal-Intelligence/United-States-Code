@@ -13,7 +13,17 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Amendment of Analysis
+
+<i>Pub. L. 112–29, §20(k), (l), Sept. 16, 2011, 125 Stat. 335, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, this analysis is amended by striking out items 155 and 155A. See 2011 Amendment notes below.</i>
+
+<i>Pub. L. 112–29, §3(e)(1), (3), Sept. 16, 2011, 125 Stat. 287, 288, provided that, effective upon the expiration of the 18-month period beginning on Sept. 16, 2011, and applicable to any request for a statutory invention registration filed on or after that effective date, this analysis is amended by striking out item 157. See 2011 Amendment notes below.</i>
+
 #### Amendments
+
+<b>2011</b>—Pub. L. 112–29, §20(k), Sept. 16, 2011, 125 Stat. 335, struck out items 155 “Patent term extension” and 155A “Patent term restoration”.
+
+Pub. L. 112–29, §3(e)(1), Sept. 16, 2011, 125 Stat. 287, struck out item 157 “Statutory invention registration”.
 
 <b>1999</b>—Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4507(6)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–566, inserted “; provisional rights” after “patent” in item 154.
 

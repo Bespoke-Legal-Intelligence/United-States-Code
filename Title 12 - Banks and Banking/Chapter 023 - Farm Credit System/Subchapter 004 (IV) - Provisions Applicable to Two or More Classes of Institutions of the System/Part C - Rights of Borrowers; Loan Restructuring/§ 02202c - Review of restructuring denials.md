@@ -26,7 +26,7 @@
 
 &emsp;A National Special Asset Council shall be established by the Assistance Board to—
 
-&emsp;&emsp;(A) monitor compliance with the restructuring requirements of this section by qualified lenders certified to issue preferred stockunder section 2278b–7 of this title, and by special asset groups established under subsection (b) of this section; and
+&emsp;&emsp;(A) monitor compliance with the restructuring requirements of this section by qualified lenders certified to issue preferred stock under section 2278b–7 of this title, and by special asset groups established under subsection (b) of this section; and
 
 &emsp;&emsp;(B) review a sample of determinations made by each special asset group that a loan will not be restructured.
 
@@ -50,7 +50,7 @@ In determining whether a loan is to be restructured, the National Special Asset 
 
 #### Amendments
 
-1988—Subsec. (b)(1). Pub. L. 100–399 substituted “Farm Credit Bank board” for “district board of such district”.
+<b>1988</b>—Subsec. (b)(1). Pub. L. 100–399 substituted “Farm Credit Bank board” for “district board of such district”.
 
 #### Effective Date of 1988 Amendment
 

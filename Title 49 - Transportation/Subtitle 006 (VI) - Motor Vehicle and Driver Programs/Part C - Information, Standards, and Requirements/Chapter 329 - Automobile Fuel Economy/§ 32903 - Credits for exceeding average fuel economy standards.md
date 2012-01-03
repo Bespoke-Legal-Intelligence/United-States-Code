@@ -58,7 +58,7 @@ In general.—The Secretary of Transportation shall establish by regulation a fu
 
 &emsp;(2)
 
-Years for which used.—Credits transferred under this subsection are available to be used in the same model years that the manufacturer could have applied such credits under subsections (a), (b), (d), and (e), as well as for the model year in which the manufacturer earned such credits.
+Years for which used.—Credits transferred under this subsection are available to be used in the same model years that the manufacturer could have applied such creditsunder subsections (a), (b), (d), and (e), as well as for the model year in which the manufacturer earned such credits.
 
 &emsp;(3)
 
@@ -144,7 +144,7 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, §502(<i>l</i>); added Oct. 10, 1
 
 In this section, various forms of the words “apply credits” are substituted for various forms of “credits are available to be taken into account” to be more concise and to make more clear the distinction between when credits are available and to what years they may be applied.
 
-In subsection (a), before clause (1), the text of 15:2002(<i>l</i>)(4) is omitted as surplus because of 49:322(a). The words “any adjustment under subsection (d) of thissection” are omitted because 15:2002(d) is omitted from the revised title as executed. The words “calculated under subparagraph (C)” (which apparently should be “calculated under subparagraph (D)”) are omitted as surplus. In clauses (1) and (2), the words “with respect to the average fuel economy of that manufacturer” are omitted as surplus. The words “year for which the credits are earned” are substituted for “year in which such manufacturer exceeds such applicable average fuel economy standard” to eliminate unnecessary words.
+In subsection (a), before clause (1), the text of 15:2002(<i>l</i>)(4) is omitted as surplus because of 49:322(a). The words “any adjustment under subsection (d) of this section” are omitted because 15:2002(d) is omitted from the revised title as executed. The words “calculated under subparagraph (C)” (which apparently should be “calculated under subparagraph (D)”) are omitted as surplus. In clauses (1) and (2), the words “with respect to the average fuel economy of that manufacturer” are omitted as surplus. The words “year for which the credits are earned” are substituted for “year in which such manufacturer exceeds such applicable average fuel economy standard” to eliminate unnecessary words.
 
 Subsection (b)(1) is substituted for 15:2002(<i>l</i>)(1)(A) to eliminate unnecessary words.
 

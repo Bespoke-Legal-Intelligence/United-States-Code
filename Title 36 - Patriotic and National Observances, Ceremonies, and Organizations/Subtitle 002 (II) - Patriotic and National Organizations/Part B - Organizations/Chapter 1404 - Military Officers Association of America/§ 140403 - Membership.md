@@ -1,6 +1,6 @@
 ### §140403. Membership
 
-Eligibility for membership in the corporation, and the rights and privileges of members of thecorporation, are as provided in the bylaws of the corporation.
+Eligibility for membership in the corporation, and the rights and privileges of members of the corporation, are as provided in the bylaws of the corporation.
 
 (Added Pub. L. 111–95, §1(a), Nov. 6, 2009, 123 Stat. 3002.)
 

@@ -12,7 +12,33 @@ When used in this title unless the context otherwise indicates—
 
 (e) The term “third-party requester” means a person requesting ex parte reexamination under section 302 or inter partes reexamination under section 311 who is not the patent owner.
 
-(July 19, 1952, ch. 950, 66 Stat. 797; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4603\], Nov. 29, 1999, 113 Stat. 1536, 1501A–567.)
+(July 19, 1952, ch. 950, 66 Stat. 797; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4603\], Nov. 29, 1999, 113 Stat. 1536, 1501A–567; Pub. L. 112–29, §3(a), Sept. 16, 2011, 125 Stat. 285.)
+
+#### Amendment of Section
+
+<i>Pub. L. 112–29, §3(a), (n), Sept. 16, 2011, 125 Stat. 285, 293, provided that, effective upon the expiration of the 18-month period beginning on Sept. 16, 2011, and applicable to certain applications for patent and any patents issuing thereon, this section is amended:</i>
+
+<i>(1) in subsection (e), by striking “or inter partes reexamination under section 311”; and</i>
+
+<i>(2) by adding at the end the following:</i>
+
+<i>(f) The term “inventor” means the individual or, if a joint invention, the individuals collectively who invented or discovered the subject matter of the invention.</i>
+
+<i>(g) The terms “joint inventor” and “coinventor” mean any 1 of the individuals who invented or discovered the subject matter of a joint invention.</i>
+
+<i>(h) The term “joint research agreement” means a written contract, grant, or cooperative agreement entered into by 2 or more persons or entities for the performance of experimental, developmental, or research work in the field of the claimed invention.</i>
+
+<i>(i)(1) The term “effective filing date” for a claimed invention in a patent or application for patent means—</i>
+
+&emsp;<i>(A) if subparagraph (B) does not apply, the actual filing date of the patent or the application for the patent containing a claim to the invention; or</i>
+
+&emsp;<i>(B) the filing date of the earliest application for which the patent or application is entitled, as to such invention, to a right of priority under section 119, 365(a), or 365(b) or to the benefit of an earlier filing date under section 120, 121, or 365(c).</i>
+
+<i>(2) The effective filing date for a claimed invention in an application for reissue or reissued patent shall be determined by deeming the claim to the invention to have been contained in the patent for which reissue was sought.</i>
+
+<i>(j) The term “claimed invention” means the subject matter defined by a claim in a patent or an application for a patent.</i>
+
+<i>See 2011 Amendment notes below.</i>
 
 #### Historical and Revision Notes
 
@@ -24,7 +50,31 @@ Paragraphs (c) and (d) are added to avoid the use of long expressions in various
 
 #### Amendments
 
+<b>2011</b>—Subsec. (e). Pub. L. 112–29, §3(a)(1), struck out “or inter partes reexamination under section 311” after “302”.
+
+Subsecs. (f) to (j). Pub. L. 112–29, §3(a)(2), added subsecs. (f) to (j).
+
 <b>1999</b>—Subsec. (e). Pub. L. 106–113 added subsec. (e).
+
+#### Effective Date of 2011 Amendment; Savings Provisions
+
+Pub. L. 112–29, §3(n), Sept. 16, 2011, 125 Stat. 293, provided that:
+
+“(1)
+
+In general.—Except as otherwise provided in this section \[amending this section and sections 32, 102, 103, 111, 119, 120, 134, 135, 145, 146, 154, 172, 202, 287, 291, 305, 363, 374, and 375 of this title, repealing sections 104 and 157 of this title, and enacting provisions set out asnotes under sections 32, 102, and 111 of this title\], the amendments made by this section shall take effect upon the expiration of the 18-month period beginning on the date of the enactment of this Act \[Sept. 16, 2011\], and shall apply to any application for patent, and to any patent issuing thereon, that contains or contained at any time—
+
+&emsp;“(A) a claim to a claimed invention that has an effective filing date as defined in section 100(i) of title 35, United States Code, that is on or after the effective date described in this paragraph; or
+
+&emsp;“(B) a specific reference under section 120, 121, or 365(c) of title 35, United States Code, to any patent or application that contains or contained at any time such a claim.
+
+“(2)
+
+Interfering patents.—The provisions of sections 102(g), 135, and 291 of title 35, United States Code, as in effect on the day before the effective date set forth in paragraph (1) of this subsection, shall apply to each claim of an application for patent, and any patent issued thereon, for which the amendments made by this section also apply, if such application or patent contains or contained at any time—
+
+&emsp;“(A) a claim to an invention having an effective filing date as defined in section 100(i) of title 35, United States Code, that occurs before the effective date set forth in paragraph (1) of this subsection; or
+
+&emsp;“(B) a specific reference under section 120, 121, or 365(c) of title 35, United States Code, to any patent or application that contains or contained at any time such a claim.”
 
 #### Effective Date of 1999 Amendment
 

@@ -22,7 +22,7 @@
 
 &emsp;(9) On or after January 1, 2001, section 651 of Public Law 104–208.
 
-(c) A member of the Auxiliary, while assigned to duty, shall be deemed to be a person actingunder an officer of the United States or an agency thereof for purposes of section 1442(a)(1) of title 28.
+(c) A member of the Auxiliary, while assigned to duty, shall be deemed to be a person acting under an officer of the United States or an agency thereof for purposes of section 1442(a)(1) of title 28.
 
 (Added Pub. L. 104–324, title IV, §403(a), Oct. 19, 1996, 110 Stat. 3923; amended Pub. L. 107–295, title IV, §415, Nov. 25, 2002, 116 Stat. 2121; Pub. L. 109–304, §17(c), Oct. 6, 2006, 120 Stat. 1707.)
 
@@ -34,7 +34,7 @@ Section 651 of Public Law 104–208, referred to in subsec. (b)(9), is section 1
 
 #### Amendments
 
-2006—Subsec. (b)(3) to (5). Pub. L. 109–304 added pars (3) to (5) and struck out former pars. (3) to (5) which read as follows:
+<b>2006</b>—Subsec. (b)(3) to (5). Pub. L. 109–304 added pars (3) to (5) and struck out former pars. (3) to (5) which read as follows:
 
 “(3) The Act of March 3, 1925 (46 App. U.S.C. 781–790; popularly known as the Public Vessels Act).
 
@@ -42,7 +42,7 @@ Section 651 of Public Law 104–208, referred to in subsec. (b)(9), is section 1
 
 “(5) The Act of June 19, 1948 (46 App. U.S.C. 740; popularly known as the Admiralty Extension Act).”
 
-2002—Subsec. (b)(9). Pub. L. 107–295 added par. (9).
+<b>2002</b>—Subsec. (b)(9). Pub. L. 107–295 added par. (9).
 
 <i><sup>1</sup></i><i> So in original. Probably should be 171.</i>
 

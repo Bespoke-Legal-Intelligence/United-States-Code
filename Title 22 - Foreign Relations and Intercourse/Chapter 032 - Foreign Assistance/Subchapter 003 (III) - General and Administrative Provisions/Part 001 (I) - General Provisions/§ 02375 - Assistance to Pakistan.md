@@ -248,7 +248,7 @@ Form.—The report required by subparagraph (A) shall be submitted in unclassifi
 
 #### Nuclear Non-Proliferation Conditions on Assistance for Pakistan
 
-Determination of the President of the United States, No. 90–15, Mar. 28, 1990, 55 F.R. 17417, provided:
+Determination of President of the United States, No. 90–15, Mar. 28, 1990, 55 F.R. 17417, provided:
 
 Memorandum for the Secretary of State
 
@@ -262,17 +262,17 @@ George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Prior determinations and certifications were contained in the following:
 
-Determination of the President of the United States, No. 90–1, Oct. 5, 1989, 54 F.R. 43797.
+Determination of President of the United States, No. 90–1, Oct. 5, 1989, 54 F.R. 43797.
 
-Determination of the President of the United States, No. 89–7, Nov. 18, 1988, 53 F.R. 49111.
+Determination of President of the United States, No. 89–7, Nov. 18, 1988, 53 F.R. 49111.
 
-Determination of the President of the United States, No. 88–5, Jan. 15, 1988, 53 F.R. 3325.
+Determination of President of the United States, No. 88–5, Jan. 15, 1988, 53 F.R. 3325.
 
-Determination of the President of the United States, No. 88–4, Dec. 17, 1987, 53 F.R. 773.
+Determination of President of the United States, No. 88–4, Dec. 17, 1987, 53 F.R. 773.
 
-Determination of the President of the United States, No. 87–3, Oct. 27, 1986, 51 F.R. 40301.
+Determination of President of the United States, No. 87–3, Oct. 27, 1986, 51 F.R. 40301.
 
-Determination of the President of the United States, No. 86–03, Nov. 25, 1985, 50 F.R. 50273.
+Determination of President of the United States, No. 86–03, Nov. 25, 1985, 50 F.R. 50273.
 
 #### Waiver of Sanctions
 

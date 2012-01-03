@@ -400,7 +400,7 @@
 
 #### (11) Special rules for certain combination contracts providing long-term care insurance
 
-&emsp;Notwithstanding paragraphs (2), (5)(C), and (10), in the case of any charge against the cashvalue of an annuity contract or the cash surrender value of a life insurance contract made as payment for coverage under a qualified long-term care insurance contract which is part of or a rider on such annuity or life insurance contract—
+&emsp;Notwithstanding paragraphs (2), (5)(C), and (10), in the case of any charge against the cash value of an annuity contract or the cash surrender value of a life insurance contract made as payment for coverage under a qualified long-term care insurance contract which is part of or a rider on such annuity or life insurance contract—
 
 &emsp;&emsp;(A) the investment in the contract shall be reduced (but not below zero) by such charge, and
 
@@ -476,7 +476,7 @@ For purposes of this section, the term “endowment contract” includes a face-
 
 &emsp;In computing—
 
-&emsp;&emsp;(A) the aggregate amount of premiums or other consideration paid for the contract for purposes of subsection (c)(1)(A) (relating to the investment in the contract), and
+&emsp;&emsp;(A) the aggregate amount of premiums or other consideration paid for the contract forpurposes of subsection (c)(1)(A) (relating to the investment in the contract), and
 
 &emsp;&emsp;(B) the aggregate premiums or other consideration paid for purposes of subsection (e)(6) (relating to certain amounts not received as an annuity),
 
@@ -522,7 +522,7 @@ For purposes of this section, the term “endowment contract” includes a face-
 
 #### (n) Annuities under retired serviceman's family protection plan or survivor benefit plan
 
-Subsection (b) shall not apply in the case of amounts received after December 31, 1965, as anannuity under chapter 73 of title 10 of the United States Code, but all such amounts shall be excluded from gross income until there has been so excluded (under section 122(b)(1) or this section, including amounts excluded before January 1, 1966) an amount equal to the consideration for the contract (as defined by section 122(b)(2)), plus any amount treated pursuant to section 101(b)(2)(D) (as in effect on the day before the date of the enactment of the Small Business Job Protection Act of 1996) as additional consideration paid by the employee. Thereafter all amounts so received shall be included in gross income.
+Subsection (b) shall not apply in the case of amounts received after December 31, 1965, as an annuity under chapter 73 of title 10 of the United States Code, but all such amounts shall be excluded from gross income until there has been so excluded (under section 122(b)(1) or this section, including amounts excluded before January 1, 1966) an amount equal to the consideration for the contract (as defined by section 122(b)(2)),plus any amount treated pursuant to section 101(b)(2)(D) (as in effect on the day before the date of the enactment of the Small Business Job Protection Act of 1996) as additional consideration paid by the employee. Thereafter all amounts so received shall be included in gross income.
 
 #### (<i>o</i>) Special rules for distributions from qualified plans to which employee made deductible contributions
 
@@ -678,7 +678,7 @@ For purposes of this section—
 
 &emsp;Paragraph 1 shall not apply to any distribution—
 
-&emsp;&emsp;(A) made on or after the date on which the taxpayer attains age 591/2,
+&emsp;&emsp;(A) made on or after the date on which the taxpayer attains age 59½,
 
 &emsp;&emsp;(B) made on or after the death of the holder (or, where the holder is not an individual, the death of the primary annuitant (as defined in subsection (s)(6)(B))),
 
@@ -706,9 +706,9 @@ For purposes of this section—
 
 &emsp;&emsp;(B) the series of payments under such paragraph are subsequently modified (other than by reason of death or disability)—
 
-&emsp;&emsp;&emsp;(i) before the close of the 5-year period beginning on the date of the first payment and after the taxpayer attains age 591/2, or
+&emsp;&emsp;&emsp;(i) before the close of the 5-year period beginning on the date of the first payment and after the taxpayer attains age 59½, or
 
-&emsp;&emsp;&emsp;(ii) before the taxpayer attains age 591/2,
+&emsp;&emsp;&emsp;(ii) before the taxpayer attains age 59½,
 
 > &emsp;the taxpayer's tax for the 1st taxable year in which such modification occurs shall be increased by an amount, determined under regulations, equal to the tax which (but for paragraph (2)(D)) would have been imposed, plus interest for the deferral period (within the meaning of subsection (t)(4)(B)).
 
@@ -786,13 +786,13 @@ For purposes of this section—
 
 &emsp;&emsp;(B) such portion will be distributed (in accordance with regulations) over the life of such designated beneficiary (or over a period not extending beyond the life expectancy of such beneficiary), and
 
-&emsp;&emsp;(C) such distributions begin not later than 1 year after the date of the holder's death orsuch later date as the Secretary may by regulations prescribe,
+&emsp;&emsp;(C) such distributions begin not later than 1 year after the date of the holder's death or such later date as the Secretary may by regulations prescribe,
 
 > &emsp;then for purposes of paragraph (1), the portion referred to in subparagraph (A) shall be treated as distributed on the day on which such distributions begin.
 
 #### (3) Special rule where surviving spouse beneficiary
 
-&emsp;If the designated beneficiary referred to in paragraph (2)(A) is the surviving spouse of the holder of the contract, paragraphs (1) and (2) shall be applied by treating such spouse as the holder of such contract.
+&emsp;If the designated beneficiary referred to in paragraph (2)(A) is the surviving spouse of theholder of the contract, paragraphs (1) and (2) shall be applied by treating such spouse as the holder of such contract.
 
 #### (4) Designated beneficiary
 
@@ -842,7 +842,7 @@ For purposes of this section—
 
 &emsp;&emsp;Distributions which are—
 
-&emsp;&emsp;&emsp;(i) made on or after the date on which the employee attains age 591/2,
+&emsp;&emsp;&emsp;(i) made on or after the date on which the employee attains age 59½,
 
 &emsp;&emsp;&emsp;(ii) made to a beneficiary (or to the estate of the employee) on or after the death of the employee,
 
@@ -874,7 +874,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) if such distributions are made during any taxable year during which such unemployment compensation is paid or the succeeding taxable year, and
 
-&emsp;&emsp;&emsp;&emsp;(III) to the extent such distributions do not exceed the amount paid during the taxable year for insurance described in section 213(d)(1)(D) with respect to theindividual and the individual's spouse and dependents (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof).
+&emsp;&emsp;&emsp;&emsp;(III) to the extent such distributions do not exceed the amount paid during the taxable year for insurance described in section 213(d)(1)(D) with respect to the individual and the individual's spouse and dependents (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof).
 
 #### (ii) Distributions after reemployment
 
@@ -882,7 +882,7 @@ For purposes of this section—
 
 #### (iii) Self-employed individuals
 
-&emsp;&emsp;&emsp;To the extent provided in regulations, a self-employed individual shall be treated as meeting the requirements of clause (i)(I) if, under Federal or State law, the individual would have received unemployment compensation but for the fact the individual was self-employed.
+&emsp;&emsp;&emsp;To the extent provided in regulations, a self-employed individual shall be treatedas meeting the requirements of clause (i)(I) if, under Federal or State law, the individual would have received unemployment compensation but for the fact the individual was self-employed.
 
 #### (E) Distributions from individual retirement plans for higher education expenses
 
@@ -936,15 +936,15 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the series of payments under such paragraph are subsequently modified (other than by reason of death or disability)—
 
-&emsp;&emsp;&emsp;&emsp;(I) before the close of the 5-year period beginning with the date of the first payment and after the employee attains age 591/2, or
+&emsp;&emsp;&emsp;&emsp;(I) before the close of the 5-year period beginning with the date of the first payment and after the employee attains age 59½, or
 
-&emsp;&emsp;&emsp;&emsp;(II) before the employee attains age 591/2,
+&emsp;&emsp;&emsp;&emsp;(II) before the employee attains age 59½,
 
 > &emsp;&emsp;the taxpayer's tax for the 1st taxable year in which such modification occurs shall be increased by an amount, determined under regulations, equal to the tax which (but for paragraph (2)(A)(iv)) would have been imposed, plus interest for the deferral period.
 
 #### (B) Deferral period
 
-&emsp;&emsp;For purposes of this paragraph, the term “deferral period” means the period beginning with the taxable year in which (withoutregard to paragraph (2)(A)(iv)) the distribution would have been includible in gross income and ending with the taxable year in which the modification described in subparagraph (A) occurs.
+&emsp;&emsp;For purposes of this paragraph, the term “deferral period” means the period beginning with the taxable year in which (without regard to paragraph (2)(A)(iv)) the distribution would have been includible in gross income and ending with the taxable year in which the modification described in subparagraph (A) occurs.
 
 #### (5) Employee
 
@@ -1028,7 +1028,7 @@ For purposes of this section—
 
 #### (9) Special rule for rollovers to section 457 plans
 
-&emsp;For purposes of this subsection, a distribution from an eligible deferred compensation plan (as defined in section 457(b)) of an eligibleemployer described in section 457(e)(1)(A) shall be treated as a distribution from a qualified retirement plan described in 4974(c)(1) to the extent that such distribution is attributable to an amount transferred to an eligible deferred compensation plan from a qualified retirement plan (as defined in section 4974(c)).
+&emsp;For purposes of this subsection, a distribution from an eligible deferred compensation plan (as defined in section 457(b)) of an eligible employer described in section 457(e)(1)(A) shall be treated as a distribution from a qualified retirement plan described in 4974(c)(1) to the extent that such distribution is attributable to an amount transferred to an eligible deferred compensation plan from a qualified retirement plan (as defined in section 4974(c)).
 
 #### (10) Distributions to qualified public safety employees in governmental plans
 
@@ -1102,7 +1102,7 @@ For purposes of this section—
 
 &emsp;Paragraph (1) shall not apply to any distribution—
 
-&emsp;&emsp;(A) made on or after the date on which the taxpayer attains age 591/2,
+&emsp;&emsp;(A) made on or after the date on which the taxpayer attains age 59½,
 
 &emsp;&emsp;(B) which is attributable to the taxpayer's becoming disabled (within the meaning of subsection (m)(7)), or
 
@@ -1112,7 +1112,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of this section, for purposes of determining the portion of any distribution which is includible ingross income of a distributee who is a citizen or resident of the United States, the investment in the contract shall not include any applicable nontaxable contributions or applicable nontaxable earnings.
+&emsp;Notwithstanding any other provision of this section, for purposes of determining the portion of any distribution which is includible in gross income of a distributee who is a citizen or resident of the United States, the investment in the contract shall not include any applicable nontaxable contributions or applicable nontaxable earnings.
 
 #### (2) Applicable nontaxable contribution
 
@@ -1162,7 +1162,7 @@ Section 1034 (as in effect on the day before the date of the enactment of this p
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–240 amended subsec. (a) generally. Prior to amendment, text read as follows: “Except as otherwise provided in this chapter, gross income includes any amount received as an annuity (whether for a period certain or during one or more lives) under an annuity, endowment, or life insurance contract.”
 
-<b>2008</b>—Subsec. (t)(2)(G)(iv). Pub. L. 110–245, which directed amendment by striking out “, and before December 31, 2007” after “September 11, 2001”, was executed by striking out “, and on or before December 31, 2007” after “September 11, 2001”, to reflect the probable intent of Congress and the intervening amendment by Pub. L. 110–458. See Amendment note and Effective Date of 2008 Amendment note below.
+<b>2008</b>—Subsec. (t)(2)(G)(iv). Pub. L. 110–245, which directed amendment by striking out “, and before December 31, 2007” after “September 11, 2001”, was executed by striking out “, and on or before December 31, 2007” after “September 11, 2001”, to reflect the probable intent of Congress and the intervening amendment byPub. L. 110–458. See Amendment note and Effective Date of 2008 Amendment note below.
 
 Pub. L. 110–458 inserted “on or” before “before” in first sentence.
 
@@ -1256,7 +1256,7 @@ Subsec. (t)(6). Pub. L. 104–188, §1421(b)(4)(A), added par. (6).
 
 Subsec. (t)(3)(A). Pub. L. 101–508, §11802(a)(3), substituted “and (C)” for “(C), and (D)”.
 
-<b>1989</b>—Subsec. (e)(11)(A). Pub. L. 101–239, §7815(a)(3), (5), substituted “calendar year” for “12-month period” in cls. (i) and (ii), and inserted at end “The precedingsentence shall not apply to any contract described in paragraph (5)(D).”
+<b>1989</b>—Subsec. (e)(11)(A). Pub. L. 101–239, §7815(a)(3), (5), substituted “calendar year” for “12-month period” in cls. (i) and (ii), and inserted at end “The preceding sentence shall not apply to any contract described in paragraph (5)(D).”
 
 Subsec. (q)(2)(B). Pub. L. 101–239, §7811(m)(4), inserted an additional closing parenthesis after “subsection (s)(6)(B))”.
 
@@ -1282,7 +1282,7 @@ Subsec. (f). Pub. L. 100–647, §1011A(b)(1)(A), struck out “for purposes of 
 
 Subsec. (n). Pub. L. 100–647, §1011A(b)(1)(B), substituted “Subsection (b)” for “Subsections (b) and (d)”.
 
-Subsec. (<i>o</i>)(2). Pub. L. 100–647, §1011A(c)(8), struck out par. (2) which related to additional tax if amount received before age 591/2.
+Subsec. (<i>o</i>)(2). Pub. L. 100–647, §1011A(c)(8), struck out par. (2) which related to additional tax if amount received before age 59½.
 
 Subsec. (p)(3)(A). Pub. L. 100–647, §1011A(h)(1), inserted “to which paragraph (1) does not apply by reason of paragraph (2) during the period” after “loan”.
 
@@ -1358,7 +1358,7 @@ Subsec. (e)(7)(B). Pub. L. 99–514, §1852(c)(1), in introductory provisions su
 
 Subsec. (e)(8), (9). Pub. L. 99–514, §1122(c)(3)(A), added pars. (8) and (9).
 
-Subsec. (f). Pub. L. 99–514, §1852(c)(3), in introductory provisions, substituted “subsections (d)(1) and (e)(7)”for “subsection (d)(1)” and “subsection (e)(6)” for “subsection (e)(1)(B)”.
+Subsec. (f). Pub. L. 99–514, §1852(c)(3), in introductory provisions, substituted “subsections (d)(1) and (e)(7)” for “subsection (d)(1)” and “subsection (e)(6)” for “subsection (e)(1)(B)”.
 
 Subsec. (m)(2)(B). Pub. L. 99–514, §1852(c)(4)(A), inserted “and subsection (e)(7) (relating to plans where substantially all contributions are employee contributions)”.
 
@@ -1372,7 +1372,7 @@ Subsec. (m)(5)(A). Pub. L. 99–514, §1123(d)(1), amended subpar. (A) generally
 
 &emsp;&emsp;“(I) are received from a qualified trust described in section 401(a) or under a plan described in section 403(a), and
 
-&emsp;&emsp;“(II) are received by a 5-percent owner before such owner attains the age of 591/2 years, for any reason other than such owner becoming disabled (within the meaning of paragraph (7) of this section), and
+&emsp;&emsp;“(II) are received by a 5-percent owner before such owner attains the age of 59½ years, for any reason other than such owner becoming disabled (within the meaning of paragraph (7) of this section), and
 
 &emsp;“(ii) to amounts which are received from a qualified trust described in section 401(a) or under a plan described in section 403(a) at any time by a 5-percent owner, or by the successor of such owner, but only to the extent that such amounts are determined (under regulations prescribed by the Secretary) to exceed the benefits provided for such individual under the plan formula.
 
@@ -1380,7 +1380,7 @@ Subsec. (m)(5)(A). Pub. L. 99–514, §1123(d)(1), amended subpar. (A) generally
 
 Pub. L. 99–514, §1852(a)(2)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “This paragraph shall apply—
 
-&emsp;“(i) to amounts (other than any amount received by an individual in his capacity as a policyholder of an annuity, endowment, or life insurance contract which is in the nature of a dividend or similar distribution) which are received from a qualified trust described in section 401(a) or under a plan described in section 403(a) and which are received by an individual, who is, or has been, a 5-percent owner, before such individual attains the age of 591/2 years, for any reason other than the individual's becoming disabled (within the meaning of paragraph (7) of this subsection), but only to the extent that such amounts are attributable to contributions paid on behalf of such individual (other than contributions made by him as a 5-percent owner) while he was a 5-percent owner, and
+&emsp;“(i) to amounts (other than any amount received by an individual in his capacity as a policyholder of an annuity, endowment, or life insurance contract which is in the nature of a dividend or similar distribution) which are received from a qualified trust described in section 401(a) or under a plan described in section 403(a) and which are received by an individual, who is, or has been, a 5-percent owner, before such individual attains the age of 59½ years, for any reason other than the individual's becoming disabled (within the meaning of paragraph (7) of this subsection), but only to the extent that such amounts are attributable to contributions paid on behalf of such individual (other than contributions made by him as a 5-percent owner) while he was a 5-percent owner, and
 
 &emsp;“(ii) to amounts which are received from a qualified trust described in section 401(a) or under a plan described in section 403(a) at any time by an individual who is, or has been, a 5-percent owner or by the successor of such individual, but only to the extent that such amounts are determined, under regulations prescribed by the Secretary, to exceed the benefits provided for such individual under the plan formula.”
 
@@ -1458,7 +1458,7 @@ Subsec. (<i>o</i>)(4). Pub. L. 98–369, §491(d)(4), substituted “and 408(d)(
 
 Subsec. (p)(2)(A). Pub. L. 98–369, §713(b)(1)(B), inserted at end “For purposes of clause (ii), the present value of the nonforfeitable accrued benefit shall be determined without regard to any accumulated deductible employee contributions (as defined in subsection (<i>o</i>)(5)(B)).”
 
-Subsec. (p)(2)(A)(ii). Pub. L. 98–369, §713(b)(4), substituted as cl. (ii) “the greater of (I) one-half of the present value of the nonforfeitable accrued benefit of the employee under the plan, or (II) $10,000” for “1/2 of the present value of the nonforfeitable accrued benefit of the employee under the plan (but not less than $10,000)”.
+Subsec. (p)(2)(A)(ii). Pub. L. 98–369, §713(b)(4), substituted as cl. (ii) “the greater of (I) one-half of the present value of the nonforfeitable accrued benefit of the employee under the plan, or (II) $10,000” for “½ of the present value of the nonforfeitable accrued benefit of the employee under the plan (but not less than $10,000)”.
 
 Subsec. (p)(3). Pub. L. 98–369, §523(b)(2), inserted “other than a plan described in subsection (e)(7)”.
 
@@ -1520,7 +1520,7 @@ Subsec. (m)(4)(A). Pub. L. 93–406, §2002(g)(10)(A), inserted references to an
 
 Subsec. (m)(5)(A). Pub. L. 93–406, §2001(e)(5), (h)(3), substituted “(other than contributions made by him as an owner-employee)” for “(whether or not paid by him)” in cl. (i), and struck out cl. (iii) which had made reference to amounts which were received, by an individual who was or had been, an owner-employee, by reason of the distribution under the provisions of section 401(e)(2)(E) of his entire interest in all qualified trusts described in section 401(a) and in all plans described in section 403(a).
 
-Subsec. (m)(5)(B). Pub. L. 93–406, §2001(g)(1), substituted provisions that if a person receives an amount to which subsec. (m)(5) applies, his tax under this chapter for the taxable year in which such amount is received shall be increased by an amount equal to 10 percent of the portion of the amount so received which is includible in his gross income for such taxable year for provisions that if the aggregate amounts to which subsec. (m)(5) applied received by any person in his taxable year equalled or exceeded $2,500, the increase in his tax for the taxable year in which such amounts were received and attributable to such amounts could not be less than 110 percent of the aggregate increase in taxes, for the taxable year and the 4 immediately preceding taxable years, which would have resulted if suchamounts had been included in such person's gross income ratably over such taxable years, with provision for alternate computation if deductions had been allowed under section 404 for contributions paid for a number of prior taxable years less than 4.
+Subsec. (m)(5)(B). Pub. L. 93–406, §2001(g)(1), substituted provisions that if a person receives an amount to which subsec. (m)(5) applies, his tax under this chapter for the taxable year in which such amount is received shall be increased by an amount equal to 10 percent of the portion of the amount so received which is includible in his gross income for such taxable year for provisions that if the aggregate amounts to which subsec. (m)(5) applied received by any person in his taxable year equalled or exceeded $2,500, the increase in his tax for the taxable year in which such amounts were received and attributable to such amounts could not be less than 110 percent of the aggregate increase in taxes, for the taxable year and the 4 immediately preceding taxable years, which would have resulted if such amounts had been included in such person's gross income ratably over such taxable years, with provision for alternate computation if deductions had been allowed under section 404 for contributions paid for a number of prior taxable years less than 4.
 
 Subsec. (m)(5)(C) to (E). Pub. L. 93–406, §2001(g)(2)(A), struck out subpars. (C) to (E) which contained special rules for the application of subsec. (m)(5).
 
@@ -1620,7 +1620,7 @@ Amendment by section 641(a)(2)(C), (e)(1) of Pub. L. 107–16 applicable to dist
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–206, title III, §3436(b), July 22, 1998, 112 Stat. 761, provided that: “The amendments made by this section \[amending this section\] shall apply to distributions after December 31, 1999.”
+Pub. L. 105–206, title III, §3436(b), July 22, 1998, 112 Stat. 761, provided that: “The amendments made bythis section \[amending this section\] shall apply to distributions after December 31, 1999.”
 
 Amendment by section 6023(3), (4) of Pub. L. 105–206 effective July 22, 1998, see section 6023(32) of Pub. L. 105–206, set out as a note under section 34 of this title.
 
@@ -1786,7 +1786,7 @@ Required principal payment.—For purposes of subparagraph (B), the term ‘requ
 
 &emsp;“(D)
 
-Special rule for non-key employees.—In the case of a non-key employee (within the meaning of section 416(i)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]), this paragraph shall be applied by substituting ‘January 1, 1985’ for ‘August 14, 1983’ each place it appears.
+Special rule for non-key employees.—In the case of a non-key employee (within the meaning of section 416(i)(2) of the Internal Revenue Code of 1986\[formerly I.R.C. 1954\]), this paragraph shall be applied by substituting ‘January 1, 1985’ for ‘August 14, 1983’ each place it appears.
 
 “(3)
 
@@ -1882,7 +1882,7 @@ Section 1011A(c)(13) of Pub. L. 100–647 provided that: “Section 72(t) of the
 
 #### Plan Amendments Not Required Until January 1, 1998
 
-For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L.104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1994
 

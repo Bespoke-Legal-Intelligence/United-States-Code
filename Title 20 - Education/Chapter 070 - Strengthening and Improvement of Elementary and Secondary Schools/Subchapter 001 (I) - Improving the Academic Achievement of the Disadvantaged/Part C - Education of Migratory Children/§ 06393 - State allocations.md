@@ -4,7 +4,7 @@
 
 #### (1) Fiscal year 2002
 
-&emsp;For fiscal year 2002, each State (other than the Commonwealth of Puerto Rico) is entitledto receive under this part an amount equal to—
+&emsp;For fiscal year 2002, each State (other than the Commonwealth of Puerto Rico) is entitled to receive under this part an amount equal to—
 
 &emsp;&emsp;(A) the sum of the estimated number of migratory children aged 3 through 21 who reside in the State full time and the full-time equivalent of the estimated number of migratory children aged 3 through 21 who reside in the State part time, as determined in accordance with subsection (e) of this section; multiplied by
 

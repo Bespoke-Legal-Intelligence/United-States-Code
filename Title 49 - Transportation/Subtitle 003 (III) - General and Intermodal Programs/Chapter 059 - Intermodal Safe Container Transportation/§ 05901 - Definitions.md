@@ -4,7 +4,7 @@ In this chapter—
 
 &emsp;(1) except as otherwise provided in this chapter, the definitions in sections 10102 and 13102 of this title apply.
 
-&emsp;(2) “beneficial owner” means a person not having title to property but having ownership rights in the property, including a trustee of property in transit from an overseas place of origin that is domiciled or doing business in the United States, except that a carrier, agent of a carrier, broker, customs broker, freightforwarder, warehouser, or terminal operator is not a beneficial owner only because of providing or arranging for any part of the intermodal transportation of property.
+&emsp;(2) “beneficial owner” means a person not having title to property but having ownership rights in the property, including a trustee of property in transit from an overseas place of origin that is domiciled or doing business in the United States, except that a carrier, agent of a carrier, broker, customs broker, freight forwarder, warehouser, or terminal operator is not a beneficial owner only because of providing or arranging for any part of the intermodal transportation of property.
 
 &emsp;(3) “carrier” means—
 

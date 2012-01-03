@@ -62,7 +62,7 @@ Activities.—Paragraph (1) shall apply to the following:
 
 &emsp;&emsp;(A) Activities to oversee the construction of a major project.
 
-&emsp;&emsp;(B) Activities to review and audit the safety and security, procurement, management, and financial compliance of a recipient or subrecipient of funds under sections 5305, 5307, 5309, 5310, 5311, and 5320.
+&emsp;&emsp;(B) Activities to review and audit the safety and security, procurement, management, and financial compliance of a recipient orsubrecipient of funds under sections 5305, 5307, 5309, 5310, 5311, and 5320.
 
 &emsp;&emsp;(C) Activities to provide technical assistance to correct deficiencies identified in compliance reviews and audits carried out under this section.
 

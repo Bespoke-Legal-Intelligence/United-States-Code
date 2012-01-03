@@ -100,7 +100,7 @@ Subsecs. (d), (e). Pub. L. 103–452, §101(c)(2), redesignated subsec. (e) as (
 
 Section 101(g)(2) to (5) of Pub. L. 103–452 provided that:
 
-“(2) In providing information on counseling available to veterans as required under section 1720D(c)(1) of title38, United States Code (as amended by paragraph (1)), the Secretary of Veterans Affairs shall ensure that the Department of Veterans Affairs personnel who provide assistance under such section are trained in the provision to persons who have experienced sexual trauma of information about the care and services relating to sexual trauma that are available to veterans in the communities in which such veterans reside, including care and services available under programs of the Department (including the care and services available under section 1720D of such title) and from non-Department agencies or organizations.
+“(2) In providing information on counseling available to veterans as required under section 1720D(c)(1) of title 38, United States Code (as amended by paragraph (1)), the Secretary of Veterans Affairs shall ensure that the Department of Veterans Affairs personnel who provide assistance under such section are trained in the provision to persons who have experienced sexual trauma of information about the care and services relating to sexual trauma that are available to veterans in the communities in which such veterans reside, including care and services available under programs of the Department (including the care and services available under section 1720D of such title) and from non-Department agencies or organizations.
 
 “(3) The telephone assistance service shall be operated in a manner that protects the confidentiality of persons who place calls to the system.
 

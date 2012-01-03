@@ -36,7 +36,7 @@ A health insurance issuer may nonrenew or discontinue health insurance coverage 
 
 #### (1) Particular type of coverage not offered
 
-&emsp;In any case in which an issuer decides to discontinue offering a particular type of group or individual health insurance coverage, coverage of such type may be discontinued by the issuer in accordance with applicable State law in such market only if—
+&emsp;In any case in which an issuer decides to discontinue offering a particular type of group orindividual health insurance coverage, coverage of such type may be discontinued by the issuer in accordance with applicable State law in such market only if—
 
 &emsp;&emsp;(A) the issuer provides notice to each plan sponsor or individual, as applicable, provided coverage of this type in such market (and participants and beneficiaries covered under such coverage) of such discontinuation at least 90 days prior to the date of the discontinuation of such coverage;
 

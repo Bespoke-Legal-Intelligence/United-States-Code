@@ -10,7 +10,7 @@ Incidental Services.—The Secretary of the Navy may provide financial services,
 
 (c)
 
-Items Sold.—Merchandise sold by ship stores afloat shall include items in the following categories:
+Items Sold.—Merchandise sold by ship stores afloat may include items in the following categories:
 
 &emsp;(1) Health, beauty, and barber items.
 
@@ -34,13 +34,15 @@ Items Sold.—Merchandise sold by ship stores afloat shall include items in the 
 
 &emsp;(11) Tobacco products.
 
-(Added Pub. L. 101–510, div. A, title III, §329(a)(1), Nov. 5, 1990, 104 Stat. 1534; amended Pub. L. 103–160, div. A, title III, §371(a), formerly §371(c), Nov. 30, 1993, 107 Stat. 1635, renumbered §371(a), Pub. L. 104–106, div. A, title III, §340(a)(2), Feb. 10, 1996, 110 Stat. 265.)
+(Added Pub. L. 101–510, div. A, title III, §329(a)(1), Nov. 5, 1990, 104 Stat. 1534; amended Pub. L. 103–160, div. A, title III, §371(a), formerly §371(c), Nov. 30, 1993, 107 Stat. 1635, renumbered §371(a), Pub. L. 104–106, div. A, title III, §340(a)(2), Feb. 10, 1996, 110 Stat. 265; Pub. L. 112–81, div. A, title VI, §641, Dec. 31, 2011, 125 Stat. 1466.)
 
 #### Prior Provisions
 
 A prior section 7604, acts Aug. 10, 1956, ch. 1041, 70A Stat. 471; Nov. 2, 1966, Pub. L. 89–718, §44, 80 Stat. 1120, related to profit on sales from ships’ stores, prior to repeal by Pub. L. 101–510, §329(a)(1).
 
 #### Amendments
+
+<b>2011</b>—Subsec. (c). Pub. L. 112–81 substituted “may” for “shall” in introductory provisions.
 
 <b>1993</b>—Pub. L. 103–160 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
 

@@ -10,5 +10,5 @@ Pub. L. 104–201, div. C, title XXXI, §3153, Sept. 23, 1996, 110 Stat. 2839, w
 
 #### Accelerated Schedule for Environmental Restoration and Waste Management Activities
 
-Pub. L. 104–106, div. C, title XXXI, §3156, Feb. 10, 1996, 110 Stat. 625, which was formerly set out as a note under this section, was renumbered section 4405 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003 by Pub. L. 108–136, div. C, title XXXI, §3141(g)(6)(A)–(C), Nov. 24, 2003, 117 Stat. 1765, and is classified to section 2585 of Title 50, War and National Defense.
+Pub. L. 104–106, div. C, title XXXI, §3156, Feb. 10, 1996, 110 Stat. 625, which was formerly set out as a note under this section, was renumbered section 4405 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003 by Pub. L. 108–136, div. C, title XXXI, §3141(g)(6)(A)–(C), Nov. 24, 2003, 117 Stat.1765, and is classified to section 2585 of Title 50, War and National Defense.
 

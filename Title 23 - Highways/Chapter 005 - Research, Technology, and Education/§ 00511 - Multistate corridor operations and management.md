@@ -18,7 +18,7 @@ The Intermodal Surface Transportation Efficiency Act of 1991, referred to in sub
 
 #### Prior Provisions
 
-A prior section 511, formerly 510, added Pub. L. 90–495, §30, Aug. 23, 1968, 82 Stat. 834; renumbered §511, Pub. L. 91–605, title I, §117(a), Dec. 31, 1970, 84 Stat. 1724, related to authority of Secretary, prior to repeal by Pub. L. 91–646, title II, §220(a)(10), Jan. 2, 1971, 84 Stat. 1903.
+A prior section 511, formerly 510, added Pub. L. 90–495, §30, Aug. 23, 1968, 82 Stat. 834; renumbered §511, Pub. L. 91–605, title I, §117(a), Dec. 31, 1970, 84 Stat. 1724, relatedto authority of Secretary, prior to repeal by Pub. L. 91–646, title II, §220(a)(10), Jan. 2, 1971, 84 Stat. 1903.
 
 Another prior section 511 was renumbered section 512 of this title and subsequently repealed.
 

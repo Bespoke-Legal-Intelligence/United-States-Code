@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-The purpose of this section is to provide grants on a competitive basis to institutions of higher education for the purpose of improving developmental education to help students move more rapidly into for-credit occupational courses and into better jobs that may require a certificate or degree.
+The purpose of this section is to provide grants on a competitive basis to institutions ofhigher education for the purpose of improving developmental education to help students move more rapidly into for-credit occupational courses and into better jobs that may require a certificate or degree.
 
 #### (b) Authorization of program
 

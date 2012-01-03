@@ -48,7 +48,7 @@ In addition to the responsibilities described in subsection (a), the Financial S
 
 #### (f) Credit review committee
 
-The Financial Stability Oversight Board may appoint a credit review committee for the purpose of evaluating the exercise of the purchase authority provided under this chapter and the assets acquired through the exercise of such authority, as the Financial Stability Oversight Board determines appropriate.
+The Financial Stability Oversight Board may appoint a credit review committee for the purpose of evaluating the exercise of the purchase authority provided under this chapter and theassets acquired through the exercise of such authority, as the Financial Stability Oversight Board determines appropriate.
 
 #### (g) Reports
 

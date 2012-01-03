@@ -26,21 +26,21 @@ Challenges to Restrictions.—(1) The Secretary of Defense may challenge a use o
 
 &emsp;(B) the continued adherence by the United States to the asserted restriction would make it impracticable to procure the item to which the technical data pertain competitively at a later time.
 
-(2)(A) Except as provided in subparagraph (C), a challenge to an asserted use or release restriction may not be made under paragraph (1) after the end of the three-year period described in subparagraph (B) unless the technical data involved—
+(2)(A) A challenge to a use or release restriction asserted by the contractor in accordance with applicable regulations may not be made under paragraph (1) after the end of the six-year period described in subparagraph (B) unless the technical data involved—
 
 &emsp;(i) are publicly available;
 
-&emsp;(ii) have been furnished to the United States without restriction; or
+&emsp;(ii) have been furnished to the United States without restriction;
 
-&emsp;(iii) have been otherwise made available without restriction.
+&emsp;(iii) have been otherwise made available without restriction; or
 
-(B) The three-year period referred to in subparagraph (A) is the three-year period beginning on the later of—
+&emsp;(iv) are the subject of a fraudulently asserted use or release restriction.
+
+(B) The six-year period referred to in subparagraph (A) is the six-year period beginning on the later of—
 
 &emsp;(i) the date on which final payment is made on the contract under which the technical data are required to be delivered; or
 
 &emsp;(ii) the date on which the technical data are delivered under the contract.
-
-(C) The limitation in this paragraph shall not apply to a case in which the Secretary finds that reasonable grounds exist to believe that a contractor or subcontractor has erroneously asserted a use or release restriction with regard to technical data described in section 2320(a)(2)(A) of this title.
 
 (3) If the Secretary challenges an asserted use or release restriction under paragraph (1), the Secretary shall provide written notice of the challenge to the contractor or subcontractor asserting the restriction. Any such notice shall—
 
@@ -62,7 +62,7 @@ Time for Contractors to Submit Justifications.—If a contractor or subcontracto
 
 (f)
 
-Presumption of Development Exclusively at Private Expense.—(1) Except as provided in paragraph (2), in the case of a challenge to a use or release restriction that is assertedwith respect to technical data of a contractor or subcontractor under a contract for commercial items, the contracting officer shall presume that the contractor or subcontractor has justified the restriction on the basis that the item was developed exclusively at private expense, whether or not the contractor or subcontractor submits a justification in response to the notice provided pursuant to subsection (d)(3). In such a case, the challenge to the use or release restriction may be sustained only if information provided by the Department of Defense demonstrates that the item was not developed exclusively at private expense.
+Presumption of Development Exclusively at Private Expense.—(1) Except as provided in paragraph (2), in the case of a challenge to a use or release restriction that is asserted with respect to technical data of a contractor or subcontractor under a contract for commercial items, the contracting officer shall presume that the contractor or subcontractor has justified the restriction on the basis that the item was developed exclusively at private expense, whether or not the contractor or subcontractor submits a justification in response to the notice provided pursuant to subsection (d)(3). In such a case, the challenge to the use or release restriction may be sustained only if information provided by the Department of Defense demonstrates that the item was not developed exclusively at private expense.
 
 (2) In the case of a challenge to a use or release restriction that is asserted with respect to technical data of a contractor or subcontractor (other than technical data for a commercially available off-the-shelf item as defined in section 35(c) <sup>1</sup> of the Office of Federal Procurement Policy Act (41 U.S.C. 431(c))) for a major system or a subsystem or component thereof on the basis that the major system, subsystem or component was developed exclusively at private expense, the challenge to the use or release restriction shall be sustained unless information provided by the contractor or subcontractor demonstrates that the item was developed exclusively at private expense.
 
@@ -98,7 +98,7 @@ Use or Release Restriction Defined.—In this section, the term “use or releas
 
 &emsp;(2) to release or disclose such technical data to persons outside the Government or permit the use of such technical data by persons outside the Government.
 
-(Added Pub. L. 98–525, title XII, §1216(a), Oct. 19, 1984, 98 Stat. 2597; amended Pub. L. 99–500 §101(c) \[title X, §953(b)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–171, and Pub. L. 99–591, §101(c) \[title X, §953(b)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–171; Pub. L. 99–661, div. A, title IX, formerly title IV, §953(b), Nov. 14, 1986, 100 Stat. 3951, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, Pub. L. 100–26, §7(a)(5), Apr. 21, 1987, 101 Stat. 276; Pub. L. 100–180, div. A, title XII, §1231(6), Dec. 4, 1987, 101 Stat. 1160; Pub. L. 103–35, title II, §201(g)(4), May 31, 1993, 107 Stat. 100; Pub. L. 103–355, title VIII, §8106(b), Oct. 13, 1994, 108 Stat. 3393; Pub. L. 109–364, div. A, title VIII, §802(b), Oct. 17, 2006, 120 Stat. 2313; Pub. L. 110–181, div. A, title VIII, §815(a)(2), Jan. 28, 2008, 122 Stat. 223; Pub. L. 111–350, §5(b)(18), Jan. 4, 2011, 124 Stat. 3844; Pub. L. 111–383, div. A, title VIII, §824(c), Jan. 7, 2011, 124 Stat. 4269.)
+(Added Pub. L. 98–525, title XII, §1216(a), Oct. 19, 1984, 98 Stat. 2597; amended Pub. L. 99–500 §101(c) \[title X, §953(b)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–171, and Pub. L. 99–591, §101(c) \[title X, §953(b)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–171; Pub. L. 99–661, div. A, title IX, formerly title IV, §953(b), Nov. 14, 1986, 100 Stat. 3951, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101Stat. 273, Pub. L. 100–26, §7(a)(5), Apr. 21, 1987, 101 Stat. 276; Pub. L. 100–180, div. A, title XII, §1231(6), Dec. 4, 1987, 101 Stat. 1160; Pub. L. 103–35, title II, §201(g)(4), May 31, 1993, 107 Stat. 100; Pub. L. 103–355, title VIII, §8106(b), Oct. 13, 1994, 108 Stat. 3393; Pub. L. 109–364, div. A, title VIII, §802(b), Oct. 17, 2006, 120 Stat. 2313; Pub. L. 110–181, div. A, title VIII, §815(a)(2), Jan. 28, 2008, 122 Stat. 223; Pub. L. 111–350, §5(b)(18), Jan. 4, 2011, 124 Stat. 3844; Pub. L. 111–383, div. A, title VIII, §824(c), Jan. 7, 2011, 124 Stat. 4269; Pub. L. 112–81, div. A, title VIII, §815(b), Dec. 31, 2011, 125 Stat. 1492.)
 
 #### References in Text
 
@@ -112,15 +112,23 @@ Another section 2321 of this title was contained in chapter 138 and was renumber
 
 #### Amendments
 
-<b>2011</b>—Subsec. (d)(2)(A). Pub. L. 111–383, §824(c)(1), substituted “Except as provided in subparagraph (C), a challenge” for “A challenge”.
+<b>2011</b>—Subsec. (d)(2)(A). Pub. L. 112–81, §815(b)(1)(A), substituted “A challenge to a use or release restriction asserted by the contractor in accordance with applicable regulations may not be made under paragraph (1) after the end of the six-year period” for “Except as provided in subparagraph (C), a challenge to an asserted use or release restriction may not be made under paragraph (1) after the end of the three-year period” in introductory provisions.
 
-Subsec. (d)(2)(C). Pub. L. 111–383, §824(c)(2), added subpar. (C).
+Pub. L. 111–383, §824(c)(1), substituted “Except as provided in subparagraph (C), a challenge” for “A challenge” in introductory provisions.
+
+Subsec. (d)(2)(A)(iv). Pub. L. 112–81, §815(b)(1)(B)–(D), added cl. (iv).
+
+Subsec. (d)(2)(B). Pub. L. 112–81, §815(b)(2), substituted “six-year period” for “three-year period” in two places in introductory provisions.
+
+Subsec. (d)(2)(C). Pub. L. 112–81, §815(b)(3), struck out subpar. (C) which read as follows: “The limitation in this paragraph shall not apply to a case in which the Secretary finds that reasonable grounds exist to believe that a contractor or subcontractor has erroneously asserted a use or release restriction with regard to technical data described in section 2320(a)(2)(A) of this title.”
+
+Pub. L. 111–383, §824(c)(2), added subpar. (C).
 
 Subsec. (h). Pub. L. 111–350 substituted “chapter 71 of title 41” for “the Contract Disputes Act of 1978 (41 U.S.C. 601 et seq.)”.
 
 <b>2008</b>—Subsec. (f)(2). Pub. L. 110–181 substituted “(other than technical data for a commercially available off-the-shelf item as defined in section 35(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 431(c)))” for “(whether or not under a contract for commercial items)”.
 
-<b>2006</b>—Subsec. (f). Pub. L. 109–364 substituted “Expense” for “Expense for Commercial Items Contracts” in heading, designated existing provisions as par. (1),substituted “Except as provided in paragraph (2), in” for “In”, and added par. (2).
+<b>2006</b>—Subsec. (f). Pub. L. 109–364 substituted “Expense” for “Expense for Commercial Items Contracts” in heading, designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), in” for “In”, and added par. (2).
 
 <b>1994</b>—Subsecs. (f) to (j). Pub. L. 103–355 added subsec. (f) and redesignated former subsecs. (f) to (i) as (g) to (j), respectively.
 
@@ -202,7 +210,7 @@ Amendment by Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 applicable
 
 #### Effective Date
 
-Section applicable with respect to solicitations issued after the end of the one-year period beginning Oct.19, 1984, see section 1216(c)(2) of Pub. L. 98–525, set out as a note under section 2319 of this title.
+Section applicable with respect to solicitations issued after the end of the one-year period beginning Oct. 19, 1984, see section 1216(c)(2) of Pub. L. 98–525, set out as a note under section 2319 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

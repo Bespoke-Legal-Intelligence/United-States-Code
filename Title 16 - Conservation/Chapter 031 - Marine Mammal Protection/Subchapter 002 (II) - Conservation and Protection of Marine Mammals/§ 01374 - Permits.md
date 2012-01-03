@@ -66,7 +66,7 @@ Any permit issued under this section shall—
 
 (3)(A) The Secretary may issue a permit under this paragraph for scientific research purposes to an applicant which submits with its permit application information indicating that the taking is required to further a bona fide scientific purpose. The Secretary may issue a permit under this paragraph before the end of the public review and comment period required under subsection (d)(2) of this section if delaying issuance of the permit could result in injury to a species, stock, or individual, or in loss of unique research opportunities.
 
-(B) No permit issued for purposes of scientific research shall authorize the lethal taking of a marine mammal unless the applicant demonstrates that a nonlethal method of conducting the research is not feasible. The Secretary shall not issue a permit for research which involves the lethal taking of a marine mammal from aspecies or stock that is depleted, unless the Secretary determines that the results of such research will directly benefit that species or stock, or that such research fulfills a critically important research need.
+(B) No permit issued for purposes of scientific research shall authorize the lethal taking of a marine mammal unless the applicant demonstrates that a nonlethal method of conducting the research is not feasible. The Secretary shall not issue a permit for research which involves the lethal taking of a marine mammal from a species or stock that is depleted, unless the Secretary determines that the results of such research will directly benefit that species or stock, or that such research fulfills a critically important research need.
 
 (C) Not later than 120 days after April 30, 1994, the Secretary shall issue a general authorization and implementing regulations allowing bona fide scientific research that may result only in taking by Level B harassment of a marine mammal. Such authorization shall apply to persons which submit, by 60 days before commencement of such research, a letter of intent via certified mail to the Secretary containing the following:
 
@@ -98,7 +98,7 @@ Any permit issued under this section shall—
 
 > The Secretary may allow the public display of such a marine mammal only if the Secretary determines that such display is incidental to the authorized maintenance and will not interfere with the attainment of the survival or recovery objectives.
 
-(5)(A) The Secretary may issue a permit for the importation of polar bear parts (other than internal organs) taken in sport hunts in Canada to an applicant which submits with its permit application proof that the polar bear was legally harvested in Canada by the applicant. Such a permit shall be issued if the Secretary, in consultation with the Marine Mammal Commission and after notice and opportunity for public comment, finds that—
+(5)(A) The Secretary may issue a permit for the importation of polar bear parts (other than internal organs) taken in sport hunts in Canada to an applicant which submits with its permit application proof that the polar bear was legallyharvested in Canada by the applicant. Such a permit shall be issued if the Secretary, in consultation with the Marine Mammal Commission and after notice and opportunity for public comment, finds that—
 
 &emsp;(i) Canada has a monitored and enforced sport hunting program consistent with the purposes of the Agreement on the Conservation of Polar Bears;
 
@@ -172,7 +172,7 @@ Any permit issued under this section shall—
 
 (3) The applicant for any permit under this section must demonstrate to the Secretary that the taking or importation of any marine mammal under such permit will be consistent with the purposes of this chapter and the applicable regulations established under section 1373 of this title.
 
-(4) If within thirty days after the date of publication of notice pursuant to paragraph (2) of this subsection with respect to any application for apermit any interested party or parties request a hearing in connection therewith, the Secretary may, within sixty days following such date of publication, afford to such party or parties an opportunity for such a hearing.
+(4) If within thirty days after the date of publication of notice pursuant to paragraph (2) of this subsection with respect to any application for a permit any interested party or parties request a hearing in connection therewith, the Secretary may, within sixty days following such date of publication, afford to such party or parties an opportunity for such a hearing.
 
 (5) As soon as practicable (but not later than thirty days) after the close of the hearing or, if no hearing is held, after the last day on which data, or views, may be submitted pursuant to paragraph (2) of this subsection, the Secretary shall (A) issue a permit containing such terms and conditions as he deems appropriate, or (B) shall deny issuance of a permit. Notice of the decision of the Secretary to issue or to deny any permit under this paragraph must be published in the Federal Register within ten days after the date of issuance or denial.
 
@@ -255,10 +255,6 @@ Subsec. (h)(2)(B). Pub. L. 100–711, §4(d), added cls. (iv) to (ix).
 #### Effective Date of 1997 Amendment
 
 For effective date of amendment by Pub. L. 105–42, see section 8 of Pub. L. 105–42, set out as a note under section 1362 of this title.
-
-#### Abolition of House Committee on Merchant Marine and Fisheries
-
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Modification of Permits Existing Prior to April 30, 1994
 

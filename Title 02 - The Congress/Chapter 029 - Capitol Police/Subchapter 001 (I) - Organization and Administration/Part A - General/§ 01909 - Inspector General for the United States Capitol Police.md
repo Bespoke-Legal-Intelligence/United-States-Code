@@ -64,7 +64,7 @@ There is established in the United States Capitol Police the Office of the Inspe
 
 #### (A) In general
 
-&emsp;&emsp;The Inspector General may appoint and fix the pay of such personnel as the Inspector General considers appropriate. Such personnel may be appointed without regard to the provisions of title 5 regarding appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that no personnel of the Office (other than the Inspector General) may be paid at an annual rate greater than $500 less than the annual rate of pay of the Inspector General under subsection (b)(4) of this section.
+&emsp;&emsp;The Inspector General may appoint and fix the pay of such personnel as the Inspector General considers appropriate. Such personnel may be appointed without regard to the provisions of title 5 regarding appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of suchtitle relating to classification and General Schedule pay rates, except that no personnel of the Office (other than the Inspector General) may be paid at an annual rate greater than $500 less than the annual rate of pay of the Inspector General under subsection (b)(4) of this section.
 
 #### (B) Experts and consultants
 
@@ -102,7 +102,7 @@ This section shall be effective on August 2, 2005.
 
 The Inspector General Act of 1978, referred to in subsecs. (c)(1), (2) and (d)(1), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-The provisions of title 5 regarding appointments in the competitive service, referred to in subsec. (d)(2)(A),are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
+The provisions of title 5 regarding appointments in the competitive service, referred to in subsec. (d)(2)(A), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
 #### Codification
 

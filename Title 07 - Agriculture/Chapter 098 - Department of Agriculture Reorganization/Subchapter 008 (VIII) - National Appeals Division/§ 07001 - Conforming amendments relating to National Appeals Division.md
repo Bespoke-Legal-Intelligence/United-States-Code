@@ -42,7 +42,7 @@ Section is comprised of section 281 of Pub. L. 103–354. Subsecs. (b) and (c) o
 
 #### Amendments
 
-2002—Subsec. (a)(1). Pub. L. 107–171, §1613(i)(1), (2), designated existing provisions as subpar. (A), inserted heading, substituted “Except as provided in subparagraph (B), this subsection” for “This subsection” and “Farm Service Agency” for “Consolidated Farm Service Agency”, and added subpar. (B).
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–171, §1613(i)(1), (2), designated existing provisions as subpar. (A), inserted heading, substituted “Except as provided in subparagraph (B), this subsection” for “This subsection” and “Farm Service Agency” for “Consolidated Farm Service Agency”, and added subpar. (B).
 
 Subsec. (a)(2). Pub. L. 107–171, §1613(i)(3), inserted “, before the end of the 90-day period,” after “unless the decision” in introductory provisions.
 

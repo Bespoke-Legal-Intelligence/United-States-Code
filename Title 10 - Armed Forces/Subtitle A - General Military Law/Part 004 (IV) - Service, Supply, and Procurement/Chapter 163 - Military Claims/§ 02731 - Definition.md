@@ -30,5 +30,5 @@ Authority vested by this chapter in “military departments”, “the Secretary
 
 #### National Oceanic and Atmospheric Administration
 
-Authority vested by sections 2731, 2732, and 2735 of this title in “military departments”, “the Secretary concerned”, or “the Secretary of Defense” to be exercised, with respect to commissioned officer corps of National Oceanic and Atmospheric Administration, by Secretary of Commerce or his designee, see section 3071 of Title 33, Navigation and Navigable Waters.
+Authority vested by sections 2731, 2732, and 2735 of this title in “military departments”, “the Secretaryconcerned”, or “the Secretary of Defense” to be exercised, with respect to commissioned officer corps of National Oceanic and Atmospheric Administration, by Secretary of Commerce or his designee, see section 3071 of Title 33, Navigation and Navigable Waters.
 

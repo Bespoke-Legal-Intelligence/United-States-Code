@@ -8,7 +8,7 @@ Each Federal agency subject to any of the requirements of this title <sup>1</su
 
 &emsp;(2) the status of the implementation by the agency of initiatives to improve energy efficiency, reduce energy costs, and reduce emissions of greenhouse gases; and
 
-&emsp;(3) savings to the taxpayers of the United States resulting from mandated improvements under this title <sup>1</sup> and the amendments made by this title.<sup>1</sup>
+&emsp;(3) savings to the taxpayers of the United States resulting from mandated improvementsunder this title <sup>1</sup> and the amendments made by this title.<sup>1</sup>
 
 #### (b) Submission
 

@@ -44,7 +44,7 @@
 
 #### Amendments
 
-2008—Subsec. (b). Pub. L. 110–181 designated existing provisions as par. (1) and added par. (2).
+<b>2008</b>—Subsec. (b). Pub. L. 110–181 designated existing provisions as par. (1) and added par. (2).
 
 #### Effective Date of 2008 Amendment
 

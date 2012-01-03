@@ -10,7 +10,7 @@ The Administrator shall develop and implement a strategy to promote source reduc
 
 &emsp;(1) establish standard methods of measurement of source reduction;
 
-&emsp;(2) ensure that the Agency considers the effect of its existing and proposed programs on source reduction efforts and shall review regulations of the Agency prior and subsequent to their proposal to determine their effect on source reduction;
+&emsp;(2) ensure that the Agency considers the effect of its existing and proposed programs onsource reduction efforts and shall review regulations of the Agency prior and subsequent to their proposal to determine their effect on source reduction;
 
 &emsp;(3) coordinate source reduction activities in each Agency Office <sup>1</sup> and coordinate with appropriate offices to promote source reduction practices in other Federal agencies, and generic research and development on techniques and processes which have broad applicability;
 

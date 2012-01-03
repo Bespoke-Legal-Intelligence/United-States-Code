@@ -48,7 +48,7 @@
 
 &emsp;&emsp;&emsp;(II) members who represent the public residing in such area,
 
-&emsp;&emsp;&emsp;(III) a physician with knowledge, experience, or skill in the field of histocompatability <sup>3</sup> or an individual witha doctorate degree in a biological science with knowledge, experience, or skill in the field of histocompatibility,
+&emsp;&emsp;&emsp;(III) a physician with knowledge, experience, or skill in the field of histocompatability <sup>3</sup> or an individual with a doctorate degree in a biological science with knowledge, experience, or skill in the field of histocompatibility,
 
 &emsp;&emsp;&emsp;(IV) a physician with knowledge or skill in the field of neurology, and
 

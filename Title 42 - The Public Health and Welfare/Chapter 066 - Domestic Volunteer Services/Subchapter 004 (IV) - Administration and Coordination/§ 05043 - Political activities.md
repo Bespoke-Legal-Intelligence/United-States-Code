@@ -26,7 +26,7 @@ No part of any funds appropriated to carry out this chapter, or any program admi
 
 No funds appropriated to carry out this chapter shall be used by any program assisted under this chapter in any activity for the purpose of influencing the passage or defeat of legislation or proposals by initiative petition, except—
 
-&emsp;(1) in any case in which a legislative body, a committee of a legislative body, or a member of a legislative body requests any volunteer in, or employee of, such a program to draft, review, or testify regarding measures or to make representations to such legislative body, committee, or member; or
+&emsp;(1) in any case in which a legislative body, a committee of a legislative body, or a memberof a legislative body requests any volunteer in, or employee of, such a program to draft, review, or testify regarding measures or to make representations to such legislative body, committee, or member; or
 
 &emsp;(2) in connection with an authorization or appropriations measure directly affecting the operation of the program.
 

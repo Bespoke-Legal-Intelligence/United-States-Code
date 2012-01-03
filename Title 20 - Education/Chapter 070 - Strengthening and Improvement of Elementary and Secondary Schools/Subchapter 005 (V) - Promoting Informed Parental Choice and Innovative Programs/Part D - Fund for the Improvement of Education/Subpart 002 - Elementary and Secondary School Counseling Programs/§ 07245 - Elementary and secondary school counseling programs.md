@@ -94,7 +94,7 @@
 
 #### (d) Limitation on administrative costs
 
-Not more than 4 percent of the amounts made available under this section for any fiscal year may be used for administrative costs to carry out this section.
+Not more than 4 percent of the amounts made available under this section for any fiscal yearmay be used for administrative costs to carry out this section.
 
 #### (e) Definitions
 

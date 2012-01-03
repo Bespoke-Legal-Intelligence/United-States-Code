@@ -16,7 +16,7 @@ It is the purpose of this Act to regulate (1) the transportation by any person o
 
 #### References in Text
 
-This Act, referred to in subsec. (c), means Pub. L. 92–532, which is classified generally to this chapter, chapter 41 (§2801 et seq.) of this title, and chapters 32 (§1431 et seq.) and 32A (§1447 et seq.) of Title 16, Conservation.
+This Act, referred to in subsec. (c), means Pub. L. 92–532, which is classified generally to this chapter,chapter 41 (§2801 et seq.) of this title, and chapters 32 (§1431 et seq.) and 32A (§1447 et seq.) of Title 16, Conservation.
 
 #### Amendments
 

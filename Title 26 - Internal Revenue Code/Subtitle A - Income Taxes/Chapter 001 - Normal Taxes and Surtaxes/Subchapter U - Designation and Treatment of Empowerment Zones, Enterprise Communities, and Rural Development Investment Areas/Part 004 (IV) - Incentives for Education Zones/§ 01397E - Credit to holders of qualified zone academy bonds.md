@@ -128,7 +128,7 @@ For purposes of this section—
 
 #### (3) Designation subject to limitation amount
 
-&emsp;The maximum aggregate face amount of bonds issued during any calendar year which may be designated under subsection (d)(1) with respect to any qualified zone academy shall not exceed the limitation amount allocated to such academy under paragraph (2) for such calendar year.
+&emsp;The maximum aggregate face amount of bonds issued during any calendar year which may be designated under subsection (d)(1) withrespect to any qualified zone academy shall not exceed the limitation amount allocated to such academy under paragraph (2) for such calendar year.
 
 #### (4) Carryover of unused limitation
 
@@ -146,7 +146,7 @@ For purposes of this section—
 
 &emsp;An issue shall be treated as meeting the requirements of this subsection if, as of the date of issuance, the issuer reasonably expects—
 
-&emsp;&emsp;(A) at least 95 percent of the proceeds from the sale of the issue are to be spent for 1 ormore qualified purposes with respect to qualified zone academies within the 5-year period beginning on the date of issuance of the qualified zone academy bond,
+&emsp;&emsp;(A) at least 95 percent of the proceeds from the sale of the issue are to be spent for 1 or more qualified purposes with respect to qualified zone academies within the 5-year period beginning on the date of issuance of the qualified zone academy bond,
 
 &emsp;&emsp;(B) a binding commitment with a third party to spend at least 10 percent of the proceeds from the sale of the issue will be incurred within the 6-month period beginning on the date of issuance of the qualified zone academy bond, and
 

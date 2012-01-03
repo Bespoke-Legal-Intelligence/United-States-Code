@@ -60,7 +60,7 @@ In this title,<sup>1</sup> the term “essential health benefits package” mean
 
 &emsp;&emsp;(C) take into account the health care needs of diverse segments of the population, including women, children, persons with disabilities, and other groups;
 
-&emsp;&emsp;(D) ensure that health benefits established as essential not be subject to denial to individuals against their wishes on the basis of the individuals’ age or expected length of life or of the individuals’ present or predicted disability, degree of medical dependency, or quality of life;
+&emsp;&emsp;(D) ensure that health benefits established as essential not be subject to denial to individuals against their wishes on the basis of the individuals’ age or expected length oflife or of the individuals’ present or predicted disability, degree of medical dependency, or quality of life;
 
 &emsp;&emsp;(E) provide that a qualified health plan shall not be treated as providing coverage for the essential health benefits described in paragraph (1) unless the plan provides that—
 

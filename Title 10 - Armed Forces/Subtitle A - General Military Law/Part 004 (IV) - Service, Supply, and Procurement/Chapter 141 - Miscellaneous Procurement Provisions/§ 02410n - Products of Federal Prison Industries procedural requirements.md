@@ -8,7 +8,7 @@ Products for Which Federal Prison Industries Does Not Have Significant Market Sh
 
 (b)
 
-Products for Which Federal Prison Industries Has Significant Market Share.—(1) The Secretary of Defense may purchase a product listed in the latest edition of the Federal Prison Industries catalog for which Federal Prison Industries has a significant market shareonly if the Secretary uses competitive procedures for the procurement of the product or makes an individual purchase under a multiple award contract in accordance with the competition requirements applicable to such contract. In conducting such a competition, the Secretary shall consider a timely offer from Federal Prison Industries.
+Products for Which Federal Prison Industries Has Significant Market Share.—(1) The Secretary of Defense may purchase a product listed in the latest edition of the Federal Prison Industries catalog for which Federal Prison Industries has a significant market share only if the Secretary uses competitive procedures for the procurement of the product or makes an individual purchase under a multiple award contract in accordance with the competition requirements applicable to such contract. In conducting such a competition, the Secretary shall consider a timely offer from Federal Prison Industries.
 
 (2) For purposes of this subsection, Federal Prison Industries shall be treated as having a significant share of the market for a product if the Secretary, in consultation with the Administrator of Federal Procurement Policy, determines that the Federal Prison Industries share of the Department of Defense market for the category of products including such product is greater than 5 percent.
 
@@ -50,7 +50,7 @@ Protection of Classified and Sensitive Information.—The Secretary of Defense m
 
 &emsp;&emsp;(C) other utilities; or
 
-&emsp;(3) any personal or financial information about any individual private citizen, including information relating to such person's real property however described, without the prior consent of the individual.
+&emsp;(3) any personal or financial information about any individual private citizen, including information relating to such person's realproperty however described, without the prior consent of the individual.
 
 (g)
 

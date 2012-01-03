@@ -28,7 +28,7 @@
 
 #### (B) Appropriate medicare administrative contractor
 
-&emsp;&emsp;With respect to the performance of a particular function in relation to an individualentitled to benefits under part A of this subchapter or enrolled under part B of this subchapter, or both, a specific provider of services or supplier (or class of such providers of services or suppliers), the “appropriate” medicare administrative contractor is the medicare administrative contractor that has a contract under this section with respect to the performance of that function in relation to that individual, provider of services or supplier or class of provider of services or supplier.
+&emsp;&emsp;With respect to the performance of a particular function in relation to an individual entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter, or both, a specific provider of services or supplier (or class of such providers of services or suppliers), the “appropriate” medicare administrative contractor is the medicare administrative contractor that has a contract under this section with respect to the performance of that function in relation to that individual, provider of services or supplier or class of provider of services or supplier.
 
 #### (4) Functions described
 
@@ -160,7 +160,7 @@
 
 #### (2) Disbursing officer
 
-&emsp;No disbursing officer shall, in the absence of the reckless disregard of the officer's obligations or the intent by that officer to defraud the United States, be liable with respect to any payment by such officer under this section if it was based upon an authorization (whichmeets the applicable requirements for such internal controls established by the Comptroller General of the United States) of a certifying officer designated as provided in paragraph (1) of this subsection.
+&emsp;No disbursing officer shall, in the absence of the reckless disregard of the officer's obligations or the intent by that officer to defraud the United States, be liable with respect to any payment by such officer under this section if it was based upon an authorization (which meets the applicable requirements for such internal controls established by the Comptroller General of the United States) of a certifying officer designated as provided in paragraph (1) of this subsection.
 
 #### (3) Liability of medicare administrative contractor
 
@@ -202,7 +202,7 @@
 
 #### (1) Development of information security program
 
-&emsp;A medicare administrative contractor that performs the functions referred to in subparagraphs (A) and (B) of subsection (a)(4) of this section (relating to determining and making payments) shall implement a contractor-wide information security program to provide information security for the operation and assets of the contractor with respect to such functions under this subchapter. An information security program under this paragraph shall meet the requirements for information security programs imposed on Federal agencies under paragraphs (1) through (8) of section 3544(b) of title 44 (other than the requirements under paragraphs (2)(D)(i), (5)(A), and (5)(B) of such section).
+&emsp;A medicare administrative contractor that performs the functions referred to in subparagraphs (A) and (B) of subsection (a)(4) of this section (relating to determining and making payments) shall implement a contractor-wide information security program to provide information security for the operation and assets of the contractor with respect to such functions under this subchapter. An information security program under this paragraph shall meet the requirements for information security programs imposed on Federal agencies under paragraphs (1) through (8) of section 3544(b) of title 44 (other than the requirements underparagraphs (2)(D)(i), (5)(A), and (5)(B) of such section).
 
 #### (2) Independent audits
 
@@ -218,7 +218,7 @@
 
 #### (i) New contractors
 
-&emsp;&emsp;&emsp;In the case of a medicare administrative contractor covered by this subsection thathas not previously performed the functions referred to in subparagraphs (A) and (B) of subsection (a)(4) of this section (relating to determining and making payments) as a fiscal intermediary or carrier under section 1395h or 1395u of this title, the first independent evaluation conducted pursuant to subparagraph (A) shall be completed prior to commencing such functions.
+&emsp;&emsp;&emsp;In the case of a medicare administrative contractor covered by this subsection that has not previously performed the functions referred to in subparagraphs (A) and (B) of subsection (a)(4) of this section (relating to determining and making payments) as a fiscal intermediary or carrier under section 1395h or 1395u of this title, the first independent evaluation conducted pursuant to subparagraph (A) shall be completed prior to commencing such functions.
 
 #### (ii) Other contractors
 
@@ -285,10 +285,6 @@ The Secretary shall use specific claims payment error rates or similar methodolo
 &emsp;There are authorized to be appropriated such sums as are necessary to carry out this subsection.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1874A, as added and amended Pub. L. 108–173, title IX, §§911(a)(1), 912(a), 921(b)(1), (c)(1), 934(a), 940A(b), Dec. 8, 2003, 117 Stat. 2378, 2387–2389, 2406, 2417; Pub. L. 111–152, title I, §1302, Mar. 30, 2010, 124 Stat. 1057.)
-
-#### References in Text
-
-Parts A and B of this subchapter, referred to in subsecs. (a)(3)(B), (4), (5)(A) and (g)(1)–(3), (4)(B)(ii), are classified to sections 1395c et seq. and 1395j et seq., respectively, of this title.
 
 #### Codification
 
@@ -374,7 +370,7 @@ Pub. L. 108–173, title IX, §901(a), Dec. 8, 2003, 117 Stat. 2374, provided th
 
 #### Consideration of Incorporation of Current Law Standards
 
-Pub. L. 108–173, title IX, §911(a)(2), Dec. 8, 2003, 117 Stat. 2383, provided that: “In developing contract performance requirements under section 1874A(b) of the Social Security Act \[subsec. (b) of this section\], as inserted by paragraph (1), the Secretary \[of Health and Human Services\] shall consider inclusion of the performance standards described in sections 1816(f)(2) of such Act \[section 1395h(f)(2) of this title\] (relating to timely processing of reconsiderations and applications for exemptions) and section 1842(b)(2)(B) of such Act\[section 1395u(b)(2)(B) of this title\] (relating to timely review of determinations and fair hearing requests), as such sections were in effect before the date of the enactment of this Act \[Dec. 8, 2003\].”
+Pub. L. 108–173, title IX, §911(a)(2), Dec. 8, 2003, 117 Stat. 2383, provided that: “In developing contract performance requirements under section 1874A(b) of the Social Security Act \[subsec. (b) of this section\], as inserted by paragraph (1), the Secretary \[of Health and Human Services\] shall consider inclusion of the performance standards described in sections 1816(f)(2) of such Act \[section 1395h(f)(2) of this title\] (relating to timely processing of reconsiderations and applications for exemptions) and section 1842(b)(2)(B) of such Act \[section 1395u(b)(2)(B) of this title\] (relating to timely review of determinations and fair hearing requests), as such sections were in effect before the date of the enactment of this Act \[Dec. 8, 2003\].”
 
 #### References
 
@@ -456,7 +452,7 @@ Length and consultation.—Each pilot project under this subsection shall—
 
 &emsp;&emsp;“(A) be voluntary;
 
-&emsp;&emsp;“(B) be of sufficient length as determined by the Secretary (but in no case to exceed 1 year) to allow for preparatory physician and medicare contractoreducation, analysis, and use and assessment of potential evaluation and management guidelines; and
+&emsp;&emsp;“(B) be of sufficient length as determined by the Secretary (but in no case to exceed 1 year) to allow for preparatory physician and medicare contractor education, analysis, and use and assessment of potential evaluation and management guidelines; and
 
 &emsp;&emsp;“(C) be conducted, in development and throughout the planning and operational stages of the project, in consultation with practicing physicians (including both generalists and specialists).
 

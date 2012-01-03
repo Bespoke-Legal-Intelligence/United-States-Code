@@ -2,7 +2,7 @@
 
 (a)
 
-Appointment.—A district court of the United States shall appoint qualified persons toserve, with or without compensation, as probation officers within the jurisdiction and under the direction of the court making the appointment. The court may, for cause, remove a probation officer appointed to serve with compensation, and may, in its discretion, remove a probation officer appointed to serve without compensation.
+Appointment.—A district court of the United States shall appoint qualified persons to serve, with or without compensation, as probation officers within the jurisdiction and under the direction of the court making the appointment. The court may, for cause, remove a probation officer appointed to serve with compensation, and may, in its discretion, remove a probation officer appointed to serve without compensation.
 
 (b)
 

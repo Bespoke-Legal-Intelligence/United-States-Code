@@ -136,7 +136,7 @@
 
 &emsp;&emsp;(ii) be responsible to or subject to the supervision or direction of the investigating official or the reviewing official.
 
-&emsp;(D) Procedures to ensure that the investigating official and the reviewing official do not participate or advise in the decision required under subsection (h) of this section or the review of the decision by the authority head under subsection (i) of this section, except as provided in subsection (j) of this section.
+&emsp;(D) Procedures to ensure that the investigating official and the reviewing official do notparticipate or advise in the decision required under subsection (h) of this section or the review of the decision by the authority head under subsection (i) of this section, except as provided in subsection (j) of this section.
 
 &emsp;(E) The provision to any person alleged to be liable under section 3802 of this title of opportunities to present such person's case through oral or documentary evidence, to submit rebuttal evidence, and to conduct such cross-examination as may be required for a full and true disclosure of the facts.
 

@@ -14,7 +14,7 @@ Section is comprised of the ninth par. of section 9 of act Dec. 23, 1913, as ame
 
 #### Amendments
 
-1930—Act Apr. 23, 1930, inserted “or has ceased to exercise banking functions without a receiver or liquidating agent having been appointed therefor,” to first sentence.
+<b>1930</b>—Act Apr. 23, 1930, inserted “or has ceased to exercise banking functions without a receiver or liquidating agent having been appointed therefor,” to first sentence.
 
 #### Change of Name
 

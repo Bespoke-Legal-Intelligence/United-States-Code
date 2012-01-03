@@ -46,7 +46,7 @@ For purposes of enrolling in the CLASS program, an individual described in this 
 
 &emsp;(4) who is not—
 
-&emsp;&emsp;(A) a patient in a hospital or nursing facility, an intermediate care facility for the mentally retarded, or an institution for mental diseases and receiving medical assistance under Medicaid; or
+&emsp;&emsp;(A) a patient in a hospital or nursing facility, an intermediate care facility for the mentally retarded, or an institution formental diseases and receiving medical assistance under Medicaid; or
 
 &emsp;&emsp;(B) confined in a jail, prison, other penal institution or correctional facility, or by court order pursuant to conviction of a criminal offense or in connection with a verdict or finding described in section 402(x)(1)(A)(ii) of this title.
 

@@ -11,7 +11,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Amendment of Analysis
+
+<i>Pub. L. 112–29, §3(j)(6), (n), Sept. 16, 2011, 125 Stat. 291, 293, provided that, effective upon the expiration of the 18-month period beginning on Sept. 16, 2011, and applicable to certain applications for patent and any patents issuing thereon, item 146 of this analysis is amended to read “Civil action in case of derivation proceeding.” See 2011 Amendment note below.</i>
+
 #### Amendments
+
+<b>2011</b>—Pub. L. 112–29, §3(j)(6), Sept. 16, 2011, 125 Stat. 291, amended item 146 generally, substituting “Civil action in case of derivation proceeding” for “Civil action in case of interference”.
 
 <b>1982</b>—Pub. L. 97–164, title I, §163(b)(1), Apr. 2, 1982, 96 Stat. 49, substituted “Court of Appeals for the Federal Circuit” for “Court of Customs and Patent Appeals” in item 141.
 

@@ -126,7 +126,7 @@ There shall be allowed as a credit against so much of the tax imposed by section
 
 The provisions of subsections (a)(3) and (b)(3) of section 7652 shall not apply to any tax imposed by section 4611.
 
-(Added Pub. L. 96–510, title II, §211(a), Dec. 11, 1980, 94 Stat. 2798; amended Pub. L. 99–499, title V, §512(c), Oct. 17, 1986, 100 Stat. 1761; Pub. L. 99–509, title VIII, §8032(b), Oct. 21, 1986, 100 Stat. 1957; Pub. L. 101–239, title VII, §7505(c), Dec. 19, 1989, 103 Stat. 2363; Pub. L. 101–380, title IX, §9002, Aug. 18, 1990, 104 Stat. 574; Pub. L. 102–486, title XIX, §1922(a), Oct. 24, 1992, 106 Stat. 3028.)
+(Added Pub. L. 96–510, title II, §211(a), Dec. 11, 1980, 94 Stat. 2798; amended Pub. L. 99–499, titleV, §512(c), Oct. 17, 1986, 100 Stat. 1761; Pub. L. 99–509, title VIII, §8032(b), Oct. 21, 1986, 100 Stat. 1957; Pub. L. 101–239, title VII, §7505(c), Dec. 19, 1989, 103 Stat. 2363; Pub. L. 101–380, title IX, §9002, Aug. 18, 1990, 104 Stat. 574; Pub. L. 102–486, title XIX, §1922(a), Oct. 24, 1992, 106 Stat. 3028.)
 
 #### References in Text
 
@@ -140,7 +140,7 @@ Amendments by Pub. L. 99–509, title VIII, §8031(c), Oct. 21, 1986, 100 Stat. 
 
 <b>1992</b>—Subsecs. (e), (f). Pub. L. 102–486 added subsec. (e) and redesignated former subsec. (e) as (f).
 
-<b>1990</b>—Subsec. (d). Pub. L. 101–380 substituted at end “For purposes of this subsection, all taxpayers whichwould be members of the same affiliated group (as defined in section 1504(a)) if section 1504(a)(2) were applied by substituting ‘100 percent’ for ‘80 percent’ shall be treated as 1 taxpayer.” for “Amounts may be transferred from the Trans-Alaska Pipeline Liability Fund into the Oil Spill Liability Trust Fund only to the extent the administrators of the Trans-Alaska Pipeline Liability Fund determine that such amounts are not needed to satisfy claims against such Fund.”
+<b>1990</b>—Subsec. (d). Pub. L. 101–380 substituted at end “For purposes of this subsection, all taxpayers which would be members of the same affiliated group (as defined in section 1504(a)) if section 1504(a)(2) were applied by substituting ‘100 percent’ for ‘80 percent’ shall be treated as 1 taxpayer.” for “Amounts may be transferred from the Trans-Alaska Pipeline Liability Fund into the Oil Spill Liability Trust Fund only to the extent the administrators of the Trans-Alaska Pipeline Liability Fund determine that such amounts are not needed to satisfy claims against such Fund.”
 
 <b>1989</b>—Subsec. (d). Pub. L. 101–239 inserted at end “The preceding sentence shall also apply to amounts paid by the taxpayer into the Trans-Alaska Pipeline Liability Fund to the extent of amounts transferred from such Fund into the Oil Spill Liability Trust Fund. Amounts may be transferred from the Trans-Alaska Pipeline Liability Fund into the Oil Spill Liability Trust Fund only to the extent the administrators of the Trans-Alaska Pipeline Liability Fund determine that such amounts are not needed to satisfy claims against such Fund.”
 

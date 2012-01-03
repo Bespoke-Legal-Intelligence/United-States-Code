@@ -24,7 +24,7 @@
 
 &emsp;(B)(i) To refinance, in accordance with the terms and conditions applicable under the provisions of subsection (e) of this section (other than paragraph (1)(E) of such subsection) to the guaranty of a loan for the purpose specified in clause (8) of this subsection, an existing loan guaranteed, insured, or made under this chapter that is secured by a manufactured home permanently affixed to a lot that is owned by the veteran.
 
-&emsp;(ii) To refinance, in accordance with section 3712(a)(5) of this title, an existing loan that was made for the purchase of, and that is secured by, a manufactured home that is permanently affixed to a lot and to purchase the lot to which the manufactured home is affixed.
+&emsp;(ii) To refinance, in accordance with section 3712(a)(5) of this title, an existing loan thatwas made for the purchase of, and that is secured by, a manufactured home that is permanently affixed to a lot and to purchase the lot to which the manufactured home is affixed.
 
 &emsp;(10) To purchase a dwelling to be owned and occupied by the veteran as a home and make energy efficiency improvements, as provided in subsection (d).
 
@@ -86,7 +86,7 @@
 
 (6) For the purposes of this subsection:
 
-&emsp;(A) The term “energy efficiency improvement” includes a solar heating system, a solar heating and cooling system, or a combined solar heating and cooling system, and the application of a residential energy conservation measure.
+&emsp;(A) The term “energy efficiency improvement” includes a solar heating system, a solarheating and cooling system, or a combined solar heating and cooling system, and the application of a residential energy conservation measure.
 
 &emsp;(B) The term “solar heating” has the meaning given such term in section 3(1) of the Solar Heating and Cooling Demonstration Act of 1974 (42 U.S.C. 5502(1)) and, in addition, includes a passive system based on conductive, convective, or radiant energy transfer.
 
@@ -148,7 +148,7 @@
 
 (f)(1) For a loan to be guaranteed for the purpose specified in subclause (A)(ii) or (B)(ii) of subsection (a)(9) of this section, the purchase of (or the refinancing of a loan secured by) the manufactured home and the lot for that home shall be considered as one loan and must comply with such criteria as may be prescribed by the Secretary in regulations.
 
-(2) A loan may not be guaranteed for the purposes of subsection (a)(9) of this section unless the manufactured home purchased, upon being permanently affixed to the lot, is considered to be real property under the laws of the State where the lot is located.
+(2) A loan may not be guaranteed for the purposes of subsection (a)(9) of this section unless the manufactured home purchased, upon beingpermanently affixed to the lot, is considered to be real property under the laws of the State where the lot is located.
 
 (g)(1) For the purposes of this subsection, the term “veteran”, when used with respect to a loan guaranteed or to be guaranteed under this chapter, includes the veteran's spouse if the spouse is jointly liable with the veteran under the loan.
 
@@ -176,7 +176,7 @@
 
 (h)(1) A loan may not be guaranteed under subsection (a)(12) unless—
 
-&emsp;(A) the development, project, or structure of the cooperative housing corporation complieswith such criteria as the Secretary prescribes in regulations; and
+&emsp;(A) the development, project, or structure of the cooperative housing corporation complies with such criteria as the Secretary prescribes in regulations; and
 
 &emsp;(B) the dwelling unit that the purchase of stock or membership in the development, project, or structure of the cooperative housing corporation entitles the purchaser to occupy is a single family residential unit.
 
@@ -250,7 +250,7 @@ Subsec. (g)(2). Pub. L. 100–322, §415(c)(4)(B), substituted “section 1812(e
 
 <b>1987</b>—Subsec. (a). Pub. L. 100–198, §8(a)(2), substituted “Except as provided in section 1804(c)(2) of this title, any” for “Any”.
 
-Subsec. (b). Pub. L. 100–198, §11(b), substituted “pursuant to section 1831 of this title” for “by the Administrator” in cl. (5) and struck out last sentence whichread as follows: “After the reasonable value of any property, construction, repairs, or alterations is determined under paragraph (5), the Administrator shall, as soon as possible thereafter, notify the veteran concerned of such determination.”
+Subsec. (b). Pub. L. 100–198, §11(b), substituted “pursuant to section 1831 of this title” for “by the Administrator” in cl. (5) and struck out last sentence which read as follows: “After the reasonable value of any property, construction, repairs, or alterations is determined under paragraph (5), the Administrator shall, as soon as possible thereafter, notify the veteran concerned of such determination.”
 
 Subsec. (c). Pub. L. 100–198, §3(a)(2), struck out subsec. (c) which read as follows: “The amount of guaranty entitlement available to a veteran under this section shall not be more than $27,500 less such entitlement as may have been used previously under this section and other sections of this chapter.”
 
@@ -340,5 +340,5 @@ Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under pr
 
 #### Reports on Energy Efficient Mortgages Guaranteed Under This Section
 
-Section 9(c) of Pub. L. 102–547 directed Secretary of Veterans Affairs to transmit report on energy efficient mortgages to Committees on Veterans’ Affairs of Senate and House of Representatives not later than 1 year after date on which Secretary first exercises authorityto guarantee loans under section 3710(d) of this title and for each of the 3 years thereafter, prior to repeal by Pub. L. 104–110, title II, §201(b), Feb. 13, 1996, 110 Stat. 770.
+Section 9(c) of Pub. L. 102–547 directed Secretary of Veterans Affairs to transmit report on energy efficient mortgages to Committees on Veterans’ Affairs of Senate and House of Representatives not later than 1 year after date on which Secretary first exercises authority to guarantee loans under section 3710(d) of this title and for each of the 3 years thereafter, prior to repeal by Pub. L. 104–110, title II, §201(b), Feb. 13, 1996, 110 Stat. 770.
 

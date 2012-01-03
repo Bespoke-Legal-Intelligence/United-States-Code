@@ -44,7 +44,7 @@ Subsec. (c). Pub. L. 105–33, §8021(b), substituted “September 30, 2002” f
 
 <b>1993</b>—Subsec. (c). Pub. L. 103–66 substituted “1998” for “1992” in first sentence and struck out at end “Notwithstanding the preceding sentence, the provisions of subsection (a) shall be in effect through September 30, 1997.”
 
-<b>1992</b>—Subsec. (a)(1). Pub. L. 102–568, §605(a)(1), struck out “(other than a veteran with a service-connected disability rated 50 percent or more” after “require a veteran”.
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–568, §605(a)(1), struck out “(other than a veteran with a service-connecteddisability rated 50 percent or more” after “require a veteran”.
 
 Subsec. (a)(3). Pub. L. 102–568, §605(a)(2), added par. (3).
 

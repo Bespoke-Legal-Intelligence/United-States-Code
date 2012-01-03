@@ -32,11 +32,11 @@ There is established in the Treasury of the United States, a revolving fund for 
 
 #### (h) Deposits in funds; availability of funds
 
-All moneys received by the House Recording Studio from Members of the House of Representatives for disk, film, or tape recordings, or from any other source, shall be deposited by the Chief Administrative Officer of the House of Representatives in the revolving fund established for the House Recording Studio by subsection (g) of this section; moneys in such fund shall be available for disbursement therefrom by the Chief Administrative Officer of the House of Representatives for the care, maintenance, operation, and other expenses of the studio upon vouchers signed and approved in such manner as the committee shall prescribe. All moneys received by the Senate Recording Studio shall be deposited in the Senate Recording Studio Revolving Fund established by subsection (g) of this section and all funds received by the Senate Photographic Studio shall be deposited in the Senate Photographic Studio Revolving Fund established by such subsection; moneys in the Senate Recording Studio Revolving Fund shall be available for disbursement therefrom upon vouchers signed by the Sergeant at Arms and Doorkeeper of the Senate for the care, maintenance, operation, and other expenses of the Senate Recording Studio, and moneys in the Senate Photographic Studio Revolving Fund shall be available for disbursement therefrom upon vouchers signed by the Sergeant at Arms and Doorkeeper of the Senate for the care, maintenance, operation, and other expenses of the Senate Photographic Studio.
+All moneys received by the House Recording Studio from Members of the House of Representatives for disk, film, or tape recordings, or from any other source, shall be deposited by the Chief Administrative Officer of the House of Representatives in the revolving fund established for the House Recording Studio by subsection (g) of this section; moneys in such fund shall be available for disbursement therefrom by the Chief Administrative Officer of the House of Representatives for the care, maintenance, operation, and other expenses of the studio upon vouchers signed and approved in such manner as the committee shall prescribe. All moneys received by the Senate Recording Studio shall be deposited in the Senate Recording Studio Revolving Fund established by subsection (g) of this section and all funds received by the Senate Photographic Studio shall be deposited in the Senate Photographic Studio Revolving Fund established by such subsection; moneys in the Senate Recording Studio Revolving Fund shall be available for disbursement therefrom uponvouchers signed by the Sergeant at Arms and Doorkeeper of the Senate for the care, maintenance, operation, and other expenses of the Senate Recording Studio, and moneys in the Senate Photographic Studio Revolving Fund shall be available for disbursement therefrom upon vouchers signed by the Sergeant at Arms and Doorkeeper of the Senate for the care, maintenance, operation, and other expenses of the Senate Photographic Studio.
 
 #### (i) Distribution of equity of Joint Senate and House Recording Facility Revolving Fund; assignment of existing studio facilities, equipment, materials and supplies; transfer of accounts; reserve fund; distribution of balance
 
-(1) As soon as practicable after June 27, 1956, but no later than September 30, 1956, the equity of the Joint Senate and House Recording Facility Revolving Fund shall be distributed equallyto the Senate and House of Representatives on the basis of an audit to be made by the General Accounting Office.
+(1) As soon as practicable after June 27, 1956, but no later than September 30, 1956, the equity of the Joint Senate and House Recording Facility Revolving Fund shall be distributed equally to the Senate and House of Representatives on the basis of an audit to be made by the General Accounting Office.
 
 (2) The Sergeant at Arms of the Senate and the Clerk of the House of Representatives shall, subject to the approval of the committees mentioned in subsection (c) of this section, determine the assignment of existing studio facilities to the Senate and the House of Representatives, and also the existing equipment, materials and supplies to be transferred to the respective studios. The evaluation of equipment, materials and supplies transferred to each studio shall be on the basis of market value. Any other equipment, materials and supplies determined to be obsolete or not needed for the operation of the respective studio shall be disposed of to the best interest of the Government and the proceeds thereof deposited in the Joint Senate and House Recording Facility Revolving Fund.
 
@@ -72,21 +72,21 @@ Such sums as may be necessary to carry out the provisions of this section are au
 
 #### Amendments
 
-1996—Subsecs. (c), (d), (f). Pub. L. 104–186, §204(68)(A), substituted “Chief Administrative Officer” for “Clerk”.
+<b>1996</b>—Subsecs. (c), (d), (f). Pub. L. 104–186, §204(68)(A), substituted “Chief Administrative Officer” for “Clerk”.
 
 Subsec. (g). Pub. L. 104–186, §204(68)(B), struck out “within the contingent fund of the House of Representatives” before “for the House Recording Studio”.
 
 Subsec. (h). Pub. L. 104–186, §204(68)(A), substituted “Chief Administrative Officer” for “Clerk” in two places.
 
-1990—Subsec. (g). Pub. L. 101–520, §7(a), amended second sentence generally. Prior to amendment, second sentence read as follows: “There is also established in the Treasury of the United States, a revolving fund within the contingent fund of the Senate for the Senate Recording and Photographic Studios for the purposes of administering the duties of that studio.”
+<b>1990</b>—Subsec. (g). Pub. L. 101–520, §7(a), amended second sentence generally. Prior to amendment, second sentence read as follows: “There is also established in the Treasury of the United States, a revolving fund within the contingent fund of the Senate for the Senate Recording and Photographic Studios for the purposes of administering the duties of that studio.”
 
 Subsec. (h). Pub. L. 101–520, §7(c), amended second sentence generally. Prior to amendment, second sentence read as follows: “All moneys received by the Senate Recording and Photographic Studios for disk, film, or tape recordings or from any other source, shall be deposited in the revolving fund established for the Senate Recording and Photographic Studios by subsection (g) of this section; moneys in such fund shall be available for disbursement therefrom upon vouchers signed and approved by the Sergeant at Arms for the care, maintenance, operation, and other expenses of the Senate Recording and Photographic Studios.”
 
-1982—Subsec. (b). Pub. L. 97–257 inserted reference to Secretary of Senate and Sergeant at Arms of Senate.
+<b>1982</b>—Subsec. (b). Pub. L. 97–257 inserted reference to Secretary of Senate and Sergeant at Arms of Senate.
 
-1972—Subsec. (n). Pub. L. 92–310 repealed subsec. (n) which required Directors of House and Senate Recording Studios to give bonds in sum of $20,000 each.
+<b>1972</b>—Subsec. (n). Pub. L. 92–310 repealed subsec. (n) which required Directors of House and Senate Recording Studios to give bonds in sum of $20,000 each.
 
-1964—Subsec. (f). Pub. L. 88–652 struck out “and fix the compensation of” after “to appoint”.
+<b>1964</b>—Subsec. (f). Pub. L. 88–652 struck out “and fix the compensation of” after “to appoint”.
 
 #### Change of Name
 
@@ -94,7 +94,7 @@ General Accounting Office redesignated Government Accountability Office by secti
 
 #### Effective Date of 1990 Amendment
 
-Section 7(b) of Pub. L. 101–520 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on April 1, 1991, and, of the monies in the revolving fund within the contingent fund of the Senate for the Recording and Photographic Studios, as such fund was in existence immediately prior to the amendment made by subsection (a), $100,000 shall be deposited in the Senate Photographic Studio Revolving Fund (as established by the amendment made by subsection (a)) and the remainder shall be depositedinto the Senate Recording Studio Revolving Fund (as so established).”
+Section 7(b) of Pub. L. 101–520 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on April 1, 1991, and, of the monies in the revolving fund within the contingent fund of the Senate for the Recording and Photographic Studios, as such fund was in existence immediately prior to the amendment made by subsection (a), $100,000 shall be deposited in the Senate Photographic Studio Revolving Fund (as established by the amendment made by subsection (a)) and the remainder shall be deposited into the Senate Recording Studio Revolving Fund (as so established).”
 
 Section 7(c) of Pub. L. 101–520 provided that the amendment made by that section is effective Apr. 1, 1991.
 

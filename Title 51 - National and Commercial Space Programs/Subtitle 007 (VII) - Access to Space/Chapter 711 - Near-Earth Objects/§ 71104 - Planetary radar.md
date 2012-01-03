@@ -1,0 +1,22 @@
+### §71104. Planetary radar
+
+The Administrator shall maintain a planetary radar that is comparable to the capability provided through the Deep Space Network Goldstone facility of the Administration.
+
+(Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3439.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+71104
+
+42 U.S.C. 17795.
+
+Pub. L. 110–422, title VIII, §805, Oct. 15, 2008, 122 Stat. 4804.
+

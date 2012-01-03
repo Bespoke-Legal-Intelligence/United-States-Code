@@ -22,11 +22,15 @@ The words “with the fiscal year 1982 budget request” and “subsequent” ar
 
 #### Amendments
 
-2002—Pub. L. 107–295 substituted “Transportation and Infrastructure” for “Merchant Marine and Fisheries”.
+<b>2002</b>—Pub. L. 107–295 substituted “Transportation and Infrastructure” for “Merchant Marine and Fisheries”.
 
-1990—Pub. L. 101–595 substituted “Shore Facilities Plan, and Information Resources Management Plan.” for “and Shore Facilities Plan.”
+<b>1990</b>—Pub. L. 101–595 substituted “Shore Facilities Plan, and Information Resources Management Plan.” for “and Shore Facilities Plan.”
 
-1988—Pub. L. 100–448 inserted at end “Not later than 30 days after the date on which the President submits to the Congress a budget under section 1105 of title 31 which includes a proposed 2-year budget for the Coast Guard, the Secretary shall submit to the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate, and to the Committee on Merchant Marine and Fisheries and the Committee on Appropriations of the House of Representatives, detailed Coast Guard budget estimates for the fiscal years covered by such proposed 2-year budget.”
+<b>1988</b>—Pub. L. 100–448 inserted at end “Not later than 30 days after the date on which the President submits to the Congress a budget under section 1105 of title 31 which includes a proposed 2-year budget for the Coast Guard, the Secretary shall submit to the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate, and to the Committee on Merchant Marine and Fisheries and the Committee on Appropriations of the House of Representatives, detailed Coast Guard budget estimates for the fiscal years covered by such proposed 2-year budget.”
+
+#### Capital Investment Plan
+
+Pub. L. 111–281, title IX, §918, Oct. 15, 2010, 124 Stat. 3022, provided that: “The Commandant of the Coast Guard shall submit to the Committee on Transportation and Infrastructure \[of the House of Representatives\] and the Committee on Commerce, Science, and Transportation of the Senate the Coast Guard's 5-year capital investment plan concurrent with the President's budget submission for each fiscal year.”
 
 #### Deepwater Reports
 
@@ -108,21 +112,41 @@ Pub. L. 109–90, title II, Oct. 18, 2005, 119 Stat. 2072.
 
 #### Future-Years Capital Investment Plan
 
-Pub. L. 111–83, title II, Oct. 28, 2009, 123 Stat. 2153, provided in part: “That the Secretary \[of Homeland Security\] shall annually submit to the Committees on Appropriations of the Senate and the House of Representatives, at the time that the President's budget is submitted under section 1105(a) of title 31, United States Code, a future-years capital investment plan for the Coast Guard that identifies for each capital budget line item—
+Pub. L. 112–74, div. D, title II, Dec. 23, 2011, 125 Stat. 954, provided in part: “That the Secretary of Homeland Security shall submit to the Committees on Appropriations of the Senate and the House of Representatives, at the time that the President's budget is submitted each year under section 1105(a) of title 31, United States Code, a future-years capital investment plan for the Coast Guard that identifies for each requested capital asset—
 
-&emsp;“(1) the proposed appropriation included in that budget;
+&emsp;“(1) the proposed appropriations included in that budget;
 
-&emsp;“(2) the total estimated cost of completion;
+&emsp;“(2) the total estimated cost of completion, including and clearly delineating the costs of associated major acquisition systems infrastructure and transition to operations;
 
-&emsp;“(3) projected funding levels for each fiscal year for the next 5 fiscal years or until project completion, whichever is earlier;
+&emsp;“(3) projected funding levels for each fiscal year for the next 5 fiscal years or until acquisition program baseline or project completion, whichever is earlier;
 
 &emsp;“(4) an estimated completion date at the projected funding levels; and
 
-&emsp;“(5) changes, if any, in the total estimated cost of completion or estimated completion date from previous future-years capital investment plans submitted to the Committees on Appropriations of the Senate and the House of Representatives:
+&emsp;“(5) a current acquisition program baseline for each capital asset, as applicable, that—
 
-> <i>Provided further</i>, That the Secretary shall ensure that amounts specified in the future-years capital investment plan are consistent, to the maximum extent practicable, with proposed appropriations necessary to support the programs, projects, and activities of the Coast Guard in the President's budget as submitted under section 1105(a) of title 31, United States Code, for that fiscal year: <i>Provided further</i>, That any inconsistencies between the capital investment plan and proposed appropriations shall be identified and justified”.
+&emsp;&emsp;“(A) includes the total acquisition cost of each asset, subdivided by fiscal year and including a detailed description of the purpose of the proposed funding levels for each fiscal year, including for each fiscal year funds requested for design, pre-acquisition activities, production, structural modifications, missionization, post-delivery, and transition to operations costs;
+
+&emsp;&emsp;“(B) includes a detailed project schedule through completion, subdivided by fiscal year, that details—
+
+&emsp;&emsp;&emsp;“(i) quantities planned for each fiscal year; and
+
+&emsp;&emsp;&emsp;“(ii) major acquisition and project events, including development of operational requirements, contracting actions, design reviews, production, delivery, test and evaluation, and transition to operations, including necessary training, shore infrastructure, and logistics;
+
+&emsp;&emsp;“(C) notes and explains any deviations in cost, performance parameters, schedule, or estimated date of completion from the original acquisition program baseline and the most recent baseline approved by the Department of Homeland Security's Acquisition Review Board, if applicable;
+
+&emsp;&emsp;“(D) aligns the acquisition of each asset to mission requirements by defining existing capabilities of comparable legacy assets, identifying known capability gaps between such existing capabilities and stated mission requirements, and explaining how the acquisition of each asset will address such known capability gaps;
+
+&emsp;&emsp;“(E) defines life-cycle costs for each asset and the date of the estimate on which such costs are based, including all associated costs of major acquisitions systems infrastructure and transition to operations, delineated by purpose and fiscal year for the projected service life of the asset;
+
+&emsp;&emsp;“(F) includes the earned value management system summary schedule performance index and cost performance index for each asset, if applicable; and
+
+&emsp;&emsp;“(G) includes a phase-out and decommissioning schedule delineated by fiscal year for each existing legacy asset that each asset is intended to replace or recapitalize:
+
+> <i>Provided further</i>, That the Secretary of Homeland Security shall ensure that amounts specified in the future-years capital investment plan are consistent, to the maximum extent practicable, with proposed appropriations necessary to support the programs, projects, and activities of the Coast Guard in the President's budget as submitted under section 1105(a) of title 31, United States Code, for that fiscal year: <i>Provided further</i>, That any inconsistencies between the capital investment plan and proposed appropriations shall be identified and justified”.
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 111–83, title II, Oct. 28, 2009, 123 Stat. 2153.
 
 Pub. L. 110–329, div. D, title II, Sept. 30, 2008, 122 Stat. 3665.
 
@@ -136,7 +160,7 @@ Pub. L. 108–334, title II, Oct. 18, 2004, 118 Stat. 1306.
 
 #### Unfunded Priorities
 
-Pub. L. 108–334, title V, §514, Oct. 18, 2004, 118 Stat. 1317, provided that: “The Commandant of the Coast Guard shall provide to the Congress each year, at the time that the President's budget is submitted under section 1105(a) of title 31, United States Code, a list of approved but unfunded Coast Guard priorities and the funds needed for each such priority in the same manner and with the same contents as the unfunded priorities lists submitted by the chiefs of other Armed Services.”
+Pub. L. 108–334, title V, §514, Oct. 18, 2004, 118 Stat. 1317, provided that: “The Commandant of the Coast Guard shall provide to the Congress each year, at the time that the President's budget is submitted under section 1105(a) of title 31, United States Code, a list of approved but unfunded Coast Guard priorities and the funds needed for each such priority in the same mannerand with the same contents as the unfunded priorities lists submitted by the chiefs of other Armed Services.”
 
 #### Status Reports on Polar Icebreaking Vessels
 

@@ -6,7 +6,7 @@
 
 &emsp;(2) “migrant worker” has the same meaning given that term in section 31501 of this title.
 
-&emsp;(3) “motor carrier of migrant workers” means a motor carrier of migrant workers subject to the jurisdiction of the Secretary of Transportation under section 31502(c) of this title.
+&emsp;(3) “motor carrier of migrant workers” means a motor carrier of migrant workers subject to the jurisdiction of the Secretary ofTransportation under section 31502(c) of this title.
 
 (b)
 

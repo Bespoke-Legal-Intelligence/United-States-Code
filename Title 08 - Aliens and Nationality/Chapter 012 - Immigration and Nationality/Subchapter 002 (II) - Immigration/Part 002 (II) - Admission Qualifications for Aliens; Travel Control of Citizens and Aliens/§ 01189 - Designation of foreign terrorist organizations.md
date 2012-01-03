@@ -54,7 +54,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary shall review the designation of a foreign terrorist organization under the procedures set forth in clauses (iii) and (iv) if the designated organization files a petition for revocation within the petition period described in clause (ii).
+&emsp;&emsp;&emsp;The Secretary shall review the designation of a foreign terrorist organizationunder the procedures set forth in clauses (iii) and (iv) if the designated organization files a petition for revocation within the petition period described in clause (ii).
 
 #### (ii) Petition period
 
@@ -134,7 +134,7 @@
 
 #### (2) Procedure
 
-&emsp;Amendments made to a designation in accordance with paragraph (1) shall be effective upon publication in the Federal Register. Subparagraphs (B) and (C) of subsection (a)(2) of this section shall apply to an amended designation upon such publication. Paragraphs (2)(A)(i), (4), (5), (6), (7), and (8) of subsection (a) of this section shall also apply to an amended designation.
+&emsp;Amendments made to a designation in accordance with paragraph (1) shall be effective upon publication in the Federal Register. Subparagraphs (B) and (C) of subsection (a)(2) of this section shall apply to an amended designation upon such publication. Paragraphs (2)(A)(i), (4), (5), (6), (7), and (8) of subsection\(a) of this section shall also apply to an amended designation.
 
 #### (3) Administrative record
 
@@ -196,7 +196,7 @@ Another section 411(c) of Pub. L. 107–56 enacted provisions set out as an Effe
 
 #### Amendments
 
-2004—Subsec. (a)(3)(B). Pub. L. 108–458, §7119(c)(1)(A), substituted “subsection (c)” for “subsection (b)”.
+<b>2004</b>—Subsec. (a)(3)(B). Pub. L. 108–458, §7119(c)(1)(A), substituted “subsection (c)” for “subsection (b)”.
 
 Subsec. (a)(4)(A). Pub. L. 108–458, §7119(a)(1), substituted “A designation” for “Subject to paragraphs (5) and (6), a designation” and “until revoked under paragraph (5) or (6) or set aside pursuant to subsection (c) of this section” for “for a period of 2 years beginning on the effective date of the designation under paragraph (2)(B)”.
 
@@ -216,13 +216,13 @@ Subsec. (b). Pub. L. 108–458, §7119(b)(2), added subsec. (b). Former subsec. 
 
 Subsec. (c). Pub. L. 108–458, §7119(b)(1), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
-Subsec. (c)(1). Pub. L. 108–458, §7119(c)(2)(A), substituted “in the Federal Register of a designation, an amended designation, or a determination in response to a petition for revocation, the designated organization may seek judicial review” for “of the designation in the Federal Register, an organization designated as a foreign terrorist organization may seek judicial review of the designation”.
+Subsec. (c)(1). Pub. L. 108–458, §7119(c)(2)(A), substituted “in the Federal Register of a designation, anamended designation, or a determination in response to a petition for revocation, the designated organization may seek judicial review” for “of the designation in the Federal Register, an organization designated as a foreign terrorist organization may seek judicial review of the designation”.
 
 Subsec. (c)(2) to (4). Pub. L. 108–458, §7119(c)(2)(B)–(D), inserted “, amended designation, or determination in response to a petition for revocation” after “designation” wherever appearing.
 
 Subsec. (d). Pub. L. 108–458, §7119(b)(1), redesignated subsec. (c) as (d).
 
-2001—Subsec. (a)(1)(B). Pub. L. 107–56, §411(c)(1), inserted “or terrorism (as defined in section 2656f(d)(2) of title 22), or retains the capability and intent to engage in terrorist activity or terrorism” after “section 1182(a)(3)(B) of this title”.
+<b>2001</b>—Subsec. (a)(1)(B). Pub. L. 107–56, §411(c)(1), inserted “or terrorism (as defined in section 2656f(d)(2) of title 22), or retains the capability and intent to engage in terrorist activity or terrorism” after “section 1182(a)(3)(B) of this title”.
 
 Subsec. (a)(1)(C). Pub. L. 107–56, §411(c)(2), inserted “or terrorism” after “the terrorist activity”.
 
@@ -252,7 +252,7 @@ Subsec. (a)(7). Pub. L. 107–56, §411(c)(10), inserted “, or the revocation
 
 Subsec. (a)(8). Pub. L. 107–56, §411(c)(11), substituted “paragraph (2)(B), or if a redesignation under this subsection has become effective under paragraph (4)(B)” for “paragraph (1)(B)” and inserted “or an alien in a removal proceeding” after “criminal action” and “or redesignation” before “as a defense”.
 
-1996—Pub. L. 104–208, §671(c)(1), made technical amendment to section catchline.
+<b>1996</b>—Pub. L. 104–208, §671(c)(1), made technical amendment to section catchline.
 
 Subsec. (b)(3)(D), (E). Pub. L. 104–208, §356, added subpars. (D) and (E).
 
@@ -273,4 +273,8 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 #### Savings Provision
 
 Pub. L. 108–458, title VII, §7119(d), Dec. 17, 2004, 118 Stat. 3803, provided that: “For purposes of applying section 219 of the Immigration and Nationality Act \[8 U.S.C. 1189\] on or after the date of enactment of this Act \[Dec. 17, 2004\], the term ‘designation’, as used in that section, includes all redesignations made pursuant to section 219(a)(4)(B) of the Immigration and Nationality Act (8 U.S.C. 1189(a)(4)(B)) prior to the date of enactment of this Act, and such redesignations shall continue to be effective until revoked as provided in paragraph (5) or (6) of section 219(a) of the Immigration and Nationality Act (8 U.S.C. 1189(a)).”
+
+<i><sup>1</sup></i><i> So in original. The closing parenthesis probably should follow “section 1182(a)(3)(B) of this title”.</i>
+
+<i><sup>2</sup></i><i> So in original. The comma probably should be a semicolon.</i>
 

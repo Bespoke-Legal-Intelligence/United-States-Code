@@ -2,7 +2,7 @@
 
 (a)
 
-Authority To Award.—Subject to the requirements of this section, section 2304c of thistitle, and other applicable law, the head of an agency may enter into a task or delivery order contract (as defined in section 2304d of this title) for procurement of services or property.
+Authority To Award.—Subject to the requirements of this section, section 2304c of this title, and other applicable law, the head of an agency may enter into a task or delivery order contract (as defined in section 2304d of this title) for procurement of services or property.
 
 (b)
 
@@ -28,21 +28,19 @@ Single and Multiple Contract Awards.—(1) The head of an agency may exercise th
 
 (2) No determination under section 2304(b) of this title is required for award of multiple task or delivery order contracts under paragraph (1)(B).
 
-(3)(A) No task or delivery order contract in an amount estimated to exceed $100,000,000 (including all options) may be awarded to a single source unless the head of the agency determines in writing that—
+(3) No task or delivery order contract in an amount estimated to exceed $100,000,000 (including all options) may be awarded to a single source unless the head of the agency determines in writing that—
 
-&emsp;(i) the task or delivery orders expected under the contract are so integrally related that only a single source can reasonably perform the work;
+&emsp;(A) the task or delivery orders expected under the contract are so integrally related that only a single source can reasonably perform the work;
 
-&emsp;(ii) the contract provides only for firm, fixed price task orders or delivery orders for—
+&emsp;(B) the contract provides only for firm, fixed price task orders or delivery orders for—
 
-&emsp;&emsp;(I) products for which unit prices are established in the contract; or
+&emsp;&emsp;(i) products for which unit prices are established in the contract; or
 
-&emsp;&emsp;(II) services for which prices are established in the contract for the specific tasks to be performed;
+&emsp;&emsp;(ii) services for which prices are established in the contract for the specific tasks to be performed;
 
-&emsp;(iii) only one source is qualified and capable of performing the work at a reasonable price to the government; or
+&emsp;(C) only one source is qualified and capable of performing the work at a reasonable price to the government; or
 
-&emsp;(iv) because of exceptional circumstances, it is necessary in the public interest to award the contract to a single source.
-
-(B) The head of the agency shall notify the congressional defense committees within 30 days after any determination under clause (i), (ii), (iii), or (iv) of subparagraph (A).
+&emsp;(D) because of exceptional circumstances, it is necessary in the public interest to award the contract to a single source.
 
 (4) The regulations implementing this subsection shall—
 
@@ -66,13 +64,15 @@ Inapplicability to Contracts for Advisory and Assistance Services.—Except as o
 
 Relationship to Other Contracting Authority.—Nothing in this section may be construed to limit or expand any authority of the head of an agency or the Administrator of General Services to enter into schedule, multiple award, or task or delivery order contracts under any other provision of law.
 
-(Added Pub. L. 103–355, title I, §1004(a)(1), Oct. 13, 1994, 108 Stat. 3249; amended Pub. L. 108–136, div. A, title VIII, §843(b), Nov. 24, 2003, 117 Stat. 1553; Pub. L. 108–375, div. A, title VIII, §813(a), Oct. 28, 2004, 118 Stat. 2014; Pub. L. 110–181, div. A, title VIII, §843(a)(1), Jan. 28, 2008, 122 Stat. 236; Pub. L. 111–84, div. A, title VIII, §814(a), Oct. 28, 2009, 123 Stat. 2407.)
+(Added Pub. L. 103–355, title I, §1004(a)(1), Oct. 13, 1994, 108 Stat. 3249; amended Pub. L. 108–136, div. A, title VIII, §843(b), Nov. 24, 2003, 117 Stat. 1553; Pub. L. 108–375, div. A, title VIII, §813(a), Oct. 28, 2004, 118 Stat. 2014; Pub. L. 110–181, div. A, title VIII, §843(a)(1), Jan. 28, 2008, 122 Stat. 236; Pub. L. 111–84, div. A, title VIII, §814(a), Oct. 28, 2009, 123 Stat. 2407; Pub. L. 112–81, div. A, title VIII, §809(b), Dec. 31, 2011, 125 Stat. 1490.)
 
 #### Codification
 
 Another section 2304a was renumbered section 2304e of this title.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (d)(3). Pub. L. 112–81 struck out subpar. (A) designation before “No task”, redesignated cls. (i) to (iv) of former subpar. (A) as subpars. (A) to (D), respectively, of par. (3), redesignated subcls. (I) and (II) of former cl. (ii) as cls. (i) and (ii), respectively, of subpar. (B), and struck out former subpar. (B) which read as follows: “The head of the agency shall notify the congressional defense committees within 30 days after any determination under clause (i), (ii), (iii), or (iv) of subparagraph (A).”
 
 <b>2009</b>—Subsec. (d)(3)(B). Pub. L. 111–84 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “The head of the agency shall notify Congress within 30 days after any determination under subparagraph (A)(iv).”
 
@@ -92,7 +92,7 @@ For effective date and applicability of section, see section 10001 of Pub. L. 10
 
 #### Congressional Intelligence Committees
 
-Pub. L. 111–84, div. A, title VIII, §814(b), Oct. 28, 2009, 123 Stat. 2407, provided that: “In the case of a task or delivery order contract awarded with respect to intelligence activities of the Department of Defense, any notification provided under subparagraph (B) of section 2304a(d)(3) of title 10, United States Code, as amended by subsection (a), shall also be provided at the same time as notification is provided to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] under that subparagraph—
+Pub. L. 111–84, div. A, title VIII, §814(b), Oct. 28, 2009, 123 Stat. 2407, provided that: “In the case of a task or delivery order contract awarded with respect to intelligence activities of the Department of Defense, any notification provided under \[former\] subparagraph (B) of section 2304a(d)(3) of title 10, United States Code, as amended by subsection (a), shall also be provided at the same time as notification is provided to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] under that subparagraph—
 
 &emsp;“(1) to the Permanent Select Committee on Intelligence of the House of Representatives insofar as such task or delivery order contract relates to tactical intelligence and intelligence-related activities of the Department; and
 
@@ -100,5 +100,5 @@ Pub. L. 111–84, div. A, title VIII, §814(b), Oct. 28, 2009, 123 Stat. 2407, p
 
 #### Provisions Not Affected by Pub. L. 103–355
 
-Section 1004(d) of Pub. L. 103–355, as amended by Pub. L. 108–136, div. A, title X, §1045(f), Nov. 24, 2003, 117 Stat. 1613, provided that: “Nothing in section 2304a, 2304b, 2304c, or 2304d of title 10, United States Code, as added by subsection (a), and nothing in the amendments made by subsections (b) and (c) \[amending sections 2304 and 2331 of this title\], shall be construed as modifying or superseding, or as intended to impair or restrict, authorities or responsibilities under chapter 11 of title 40, United States Code.”
+Section 1004(d) of Pub. L. 103–355, as amended by Pub. L. 108–136, div. A, title X, §1045(f), Nov. 24, 2003, 117 Stat. 1613, provided that: “Nothing in section 2304a, 2304b, 2304c, or 2304d of title 10, United States Code, as added by subsection (a), and nothing in the amendments made by subsections (b) and (c) \[amending sections 2304 and2331 of this title\], shall be construed as modifying or superseding, or as intended to impair or restrict, authorities or responsibilities under chapter 11 of title 40, United States Code.”
 

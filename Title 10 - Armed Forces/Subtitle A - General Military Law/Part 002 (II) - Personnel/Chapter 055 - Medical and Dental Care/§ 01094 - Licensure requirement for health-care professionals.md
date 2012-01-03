@@ -14,9 +14,9 @@
 
 &emsp;(B) a reference to a claimant in subsection (e) of that section is deemed a reference to the person described in paragraph (1).
 
-(d)(1) Notwithstanding any law regarding the licensure of health care providers, a health-care professional described in paragraph (2) or (3) may practice the health profession or professions of the health-care professional in any State, the District of Columbia, or a Commonwealth, territory, or possession of the United States, regardless of whether the practice occurs in a health care facility of the Department of Defense, a civilian facility affiliated with the Department of Defense, or any other location authorized by the Secretary of Defense.
+(d)(1) Notwithstanding any law regarding the licensure of health care providers, a health-care professional described in paragraph (2) or (3) may practice the health profession or professions of the health-care professional at any location in any State, the District of Columbia, or a Commonwealth, territory, or possession of the United States, regardless of where such health-care professional or the patient are located, so long as the practice is within the scope of the authorized Federal duties.
 
-(2) A health-care professional referred to in paragraph (1) as being described in this paragraph is a member of the armed forces who—
+(2) A health-care professional referred to in paragraph (1) as being described in this paragraph is a member of the armed forces, civilian employee of the Department of Defense, personal services contractor under section 1091 of this title, or other health-care professional credentialed and privileged at a Federal health care institution or location specially designated by the Secretary for this purpose who—
 
 &emsp;(A) has a current license to practice medicine, osteopathic medicine, dentistry, or another health profession; and
 
@@ -38,13 +38,17 @@
 
 &emsp;(2) The term “health-care professional” means a physician, dentist, clinical psychologist, marriage and family therapist certified as such by a certification recognized by the Secretary of Defense, or nurse and any other person providing direct patient care as may be designated by the Secretary of Defense in regulations.
 
-(Added Pub. L. 99–145, title VI, §653(a)(1), Nov. 8, 1985, 99 Stat. 657; amended Pub. L. 99–661, div. A, title XIII, §1343(a)(5), Nov. 14, 1986, 100 Stat. 3992; Pub. L. 101–189, div. A, title VI, §653(e)(1), title XVI, §1622(e)(3), Nov. 29, 1989, 103 Stat. 1463, 1605; Pub. L. 105–85, div. A, title VII, §737, Nov. 18, 1997, 111 Stat. 1814; Pub. L. 105–261, div. A, title VII, §734(a), Oct. 17, 1998, 112 Stat. 2072; Pub. L. 108–375, div. A, title VII, §717(b), Oct. 28, 2004, 118 Stat. 1986; Pub. L. 111–383, div. A, title VII, §713, Jan. 7, 2011, 124 Stat. 4247.)
+(Added Pub. L. 99–145, title VI, §653(a)(1), Nov. 8, 1985, 99 Stat. 657; amended Pub. L. 99–661, div. A, title XIII, §1343(a)(5), Nov. 14, 1986, 100 Stat. 3992; Pub. L. 101–189, div. A, title VI, §653(e)(1), title XVI, §1622(e)(3), Nov. 29, 1989, 103 Stat. 1463, 1605; Pub. L. 105–85, div. A, title VII, §737, Nov. 18, 1997, 111 Stat. 1814; Pub. L. 105–261, div. A, title VII, §734(a), Oct. 17, 1998, 112 Stat. 2072; Pub. L. 108–375, div. A, title VII, §717(b), Oct. 28, 2004, 118 Stat. 1986; Pub. L. 111–383, div. A, title VII, §713, Jan. 7, 2011, 124 Stat. 4247; Pub. L. 112–81, div. A, title VII, §713(a), Dec. 31, 2011, 125 Stat. 1476.)
 
 #### Amendments
 
-<b>2011</b>—Subsec. (d)(1). Pub. L. 111–383, §713(1), inserted “or (3)” after “paragraph (2)”.
+<b>2011</b>—Subsec. (d)(1). Pub. L. 112–81, §713(a)(1), inserted “at any location” before “in any State” and substituted “regardless of where such health-care professional or the patient are located, so long as the practice is within the scope of the authorized Federal duties.” for “regardless of whether the practice occurs in a health care facility of the Department of Defense, a civilian facility affiliated with the Department of Defense, or any other location authorized by the Secretary of Defense.”
 
-Subsec. (d)(2). Pub. L. 111–383, §713(2), inserted “as being described in this paragraph” after “paragraph (1)” in introductory provisions.
+Pub. L. 111–383, §713(1), inserted “or (3)” after “paragraph (2)”.
+
+Subsec. (d)(2). Pub. L. 112–81, §713(a)(2), substituted “member of the armed forces, civilian employee of the Department of Defense, personal services contractor under section 1091 of this title, or other health-care professional credentialed and privileged at a Federal health care institution or location specially designated by the Secretary for this purpose” for “member of the armed forces”.
+
+Pub. L. 111–383, §713(2), inserted “as being described in this paragraph” after “paragraph (1)” in introductory provisions.
 
 Subsec. (d)(3). Pub. L. 111–383, §713(3), added par. (3).
 
@@ -69,4 +73,8 @@ Pub. L. 105–261, div. A, title VII, §734(c)(1), Oct. 17, 1998, 112 Stat. 2073
 #### Effective Date
 
 Section 653(b) of Pub. L. 99–145 provided that: “Section 1094 of title 10, United States Code, as added by subsection (a), does not apply during the three-year period beginning on the date of the enactment of this Act \[Nov. 8, 1985\] with respect to the provision of health care by any person who on the date of the enactment of this Act is a member of the Armed Forces.”
+
+#### Regulations
+
+Pub. L. 112–81, div. A, title VII, §713(b), Dec. 31, 2011, 125 Stat. 1476, provided that: “The Secretary of Defense shall prescribe regulations to carry out the amendments made by this section \[amending this section\].”
 

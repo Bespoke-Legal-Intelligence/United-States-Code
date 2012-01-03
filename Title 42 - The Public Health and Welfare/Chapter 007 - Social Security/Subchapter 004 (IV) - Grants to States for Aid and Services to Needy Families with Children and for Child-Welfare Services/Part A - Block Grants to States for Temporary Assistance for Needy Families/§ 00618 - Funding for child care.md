@@ -22,7 +22,7 @@
 
 #### (C) Federal matching of State expenditures exceeding historical expenditures
 
-&emsp;&emsp;The Secretary shall pay to each eligible State for a fiscal year an amount equal to the lesser of the State's allotment under subparagraph (B) or the Federal medical assistance percentage for the State for the fiscal year (as defined in section 1396d(b) of thistitle, as such section was in effect on September 30, 1995) of so much of the State's expenditures for child care in that fiscal year as exceed the total amount of expenditures by the State (including expenditures from amounts made available from Federal funds) in fiscal year 1994 or 1995 (whichever is greater) for the programs described in paragraph (1)(A).
+&emsp;&emsp;The Secretary shall pay to each eligible State for a fiscal year an amount equal to the lesser of the State's allotment under subparagraph (B) or the Federal medical assistance percentage for the State for the fiscal year (as defined in section 1396d(b) of this title, as such section was in effect on September 30, 1995) of so much of the State's expenditures for child care in that fiscal year as exceed the total amount of expenditures by the State (including expenditures from amounts made available from Federal funds) in fiscal year 1994 or 1995 (whichever is greater) for the programs described in paragraph (1)(A).
 
 #### (D) Redistribution
 
@@ -58,7 +58,7 @@
 
 #### (5) Data used to determine State and Federal shares of expenditures
 
-&emsp;In making the determinations concerning expenditures required under paragraphs (1) and (2)(C), the Secretary shall use information that was reported by the State on ACF Form 231 and available as of the applicable dates specified in clauses (i)(I), (ii), and (iii)(III) of section 603(a)(1)(D) <sup>2</sup> of this title.
+&emsp;In making the determinations concerning expenditures required under paragraphs (1)and (2)(C), the Secretary shall use information that was reported by the State on ACF Form 231 and available as of the applicable dates specified in clauses (i)(I), (ii), and (iii)(III) of section 603(a)(1)(D) <sup>2</sup> of this title.
 
 #### (b) Use of funds
 

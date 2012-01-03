@@ -40,7 +40,7 @@
 
 #### (B) Notice of fee
 
-&emsp;&emsp;Within 30 days after the date an applicant files the amended application permitted by subsection (a)(1)(B) of this section, the Commission shall notify each applicant of the fee established for the license associated with its application.
+&emsp;&emsp;Within 30 days after the date an applicant files the amended application permitted by subsection (a)(1)(B) of this section, the Commission shall notify each applicant of the feeestablished for the license associated with its application.
 
 #### (4) Payment for licenses
 
@@ -84,7 +84,7 @@ For the purposes of this section, the following definitions shall apply:
 
 #### References in Text
 
-This chapter, referred to subsec. (c), was in the original “this Act”, and was translated as reading “thistitle”. See References in Text note set out under section 1101 of this title.
+This chapter, referred to subsec. (c), was in the original “this Act”, and was translated as reading “this title”. See References in Text note set out under section 1101 of this title.
 
 <i><sup>1</sup></i><i> So in original. No closing parenthesis was enacted.</i>
 

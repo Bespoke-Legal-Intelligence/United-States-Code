@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-A State may use funds from grants received in any fiscal year under this part for elementary and secondary programs described in this section. The State educational agency shall administer such funds, which shall be awarded to such programs on a competitive basis.
+A State may use funds from grants received in any fiscal year under this part for elementaryand secondary programs described in this section. The State educational agency shall administer such funds, which shall be awarded to such programs on a competitive basis.
 
 #### (b) Use of funds
 

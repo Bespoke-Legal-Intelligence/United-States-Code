@@ -18,3 +18,7 @@ Every 3 years following the completion of the proceeding required by subsection 
 
 (June 19, 1934, ch. 652, title II, §257, as added Pub. L. 104–104, title I, §101(a), Feb. 8, 1996, 110 Stat. 77.)
 
+#### References in Text
+
+This chapter, referred to in subsecs. (a) and (b), was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
+

@@ -26,7 +26,7 @@ Any fishery management plan which is prepared by any Council, or by the Secretar
 
 &emsp;(5) specify the pertinent data which shall be submitted to the Secretary with respect to commercial, recreational,<sup>1</sup> charter fishing, and fish processing in the fishery, including, but not limited to, information regarding the type and quantity of fishing gear used, catch by species in numbers of fish or weight thereof, areas in which fishing was engaged in, time of fishing, number of hauls, economic information necessary to meet the requirements of this chapter, and the estimated processing capacity of, and the actual processing capacity utilized by, United States fish processors,<sup>2</sup>
 
-&emsp;(6) consider and provide for temporary adjustments, after consultation with the Coast Guard and persons utilizing the fishery, regarding access to the fishery for vessels otherwise prevented from harvesting because of weather or other ocean conditions affecting the safe conduct of the fishery; except that theadjustment shall not adversely affect conservation efforts in other fisheries or discriminate among participants in the affected fishery;
+&emsp;(6) consider and provide for temporary adjustments, after consultation with the Coast Guard and persons utilizing the fishery, regarding access to the fishery for vessels otherwise prevented from harvesting because of weather or other ocean conditions affecting the safe conduct of the fishery; except that the adjustment shall not adversely affect conservation efforts in other fisheries or discriminate among participants in the affected fishery;
 
 &emsp;(7) describe and identify essential fish habitat for the fishery based on the guidelines established by the Secretary under section 1855(b)(1)(A) of this title, minimize to the extent practicable adverse effects on such habitat caused by fishing, and identify other actions to encourage the conservation and enhancement of such habitat;
 
@@ -80,7 +80,7 @@ Any fishery management plan which is prepared by any Council, or by the Secretar
 
 &emsp;&emsp;(iii) establishes a timetable for review of the closed area's performance that is consistent with the purposes of the closed area; and
 
-&emsp;&emsp;(iv) is based on an assessment of the benefits and impacts of the closure, including its size, in relation to other management measures (either alone or in combination with such measures), including the benefits andimpacts of limiting access to: users of the area, overall fishing activity, fishery science, and fishery and marine conservation;
+&emsp;&emsp;(iv) is based on an assessment of the benefits and impacts of the closure, including its size, in relation to other management measures (either alone or in combination with such measures), including the benefits and impacts of limiting access to: users of the area, overall fishing activity, fishery science, and fishery and marine conservation;
 
 &emsp;(3) establish specified limitations which are necessary and appropriate for the conservation and management of the fishery on the—
 
@@ -140,7 +140,7 @@ Proposed regulations which the Council deems necessary or appropriate for the pu
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(1)(C), (5) and (b)(2)(C), (4), (5), (10), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, asamended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+This chapter, referred to in subsecs. (a)(1)(C), (5) and (b)(2)(C), (4), (5), (10), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 #### Amendments
 
@@ -160,7 +160,7 @@ Subsec. (b)(2). Pub. L. 109–479, §105(1), (2), designated existing provisions
 
 Subsec. (b)(5). Pub. L. 109–479, §105(3), substituted “fishery and take into account the different circumstances affecting fisheries from different States and ports, including distances to fishing grounds and proximity to time and area closures;” for “fishery;”.
 
-Subsec. (b)(6). Pub. L. 109–479, §105(4), added par. (6) and struck out former par. (6) which read as follows: “establish a limited access system for the fishery in order to achieve optimum yield if, in developing such system, the Council and the Secretary take into account—
+Subsec. (b)(6). Pub. L. 109–479, §105(4), added par. (6) and struck out former par. (6) which read as follows: “establish a limited access system for the fishery in order to achieve optimum yield if, in developing suchsystem, the Council and the Secretary take into account—
 
 &emsp;“(A) present participation in the fishery,
 
@@ -226,7 +226,7 @@ Subsec. (f). Pub. L. 101–627, §109(d), added subsec. (f).
 
 Subsec. (b)(1). Pub. L. 99–659, §101(c)(2), substituted “exclusive economic zone” for “fishery conservation zone”.
 
-Subsec. (d). Pub. L. 99–659, §105(b), amended first sentence generally. Prior to amendment, first sentence read as follows: “Any statistics submitted to the Secretary by any person in compliance with any requirement under subsection (a)(5) of this section shall beconfidential and shall not be disclosed except when required under court order.”
+Subsec. (d). Pub. L. 99–659, §105(b), amended first sentence generally. Prior to amendment, first sentence read as follows: “Any statistics submitted to the Secretary by any person in compliance with any requirement under subsection (a)(5) of this section shall be confidential and shall not be disclosed except when required under court order.”
 
 <b>1983</b>—Subsec. (b)(7), (8). Pub. L. 97–453, §6(1), added par. (7) and redesignated former par. (7) as (8).
 
@@ -306,7 +306,7 @@ Pub. L. 104–297, title I, §108(f)(1)–(5), Oct. 11, 1996, 110 Stat. 3577–3
 
 &emsp;“(I) potential social and economic costs and benefits to the nation, individual fishing quota recipients, and any recipients of Federal permits described in subparagraph (D) under individual fishing quota programs, including from capital gains revenue, the allocation of such quotas or permits through Federal auctions, annual fees and transfer fees at various levels, or other measures;
 
-&emsp;“(J) the value created for recipients of individual fishing quotas, including a comparison of such value to the value of the fish harvested under such quotas and to the value of permits created by other types of limited access systems, and the effects of creating such value on fishery management and conservation; and
+&emsp;“(J) the value created for recipients of individual fishing quotas, including a comparison of such value to the value of the fish harvested under such quotas and to the value of permits created by other types oflimited access systems, and the effects of creating such value on fishery management and conservation; and
 
 &emsp;“(K) such other matters as the National Academy of Sciences deems appropriate.
 

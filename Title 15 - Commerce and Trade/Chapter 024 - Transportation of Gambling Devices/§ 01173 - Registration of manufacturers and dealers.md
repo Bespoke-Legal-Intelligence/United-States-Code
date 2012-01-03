@@ -12,7 +12,7 @@
 
 #### (b) Numbering of devices
 
-(1) Every manufacturer of a gambling device defined in paragraph (a)(1) or (a)(2) of section 1171 of this title shall number seriatim eachsuch gambling device manufactured by him and permanently affix on each such device, so as to be clearly visible, such number, his name, and, if different, any trade name under which he does business, and the date of manufacture of such device.
+(1) Every manufacturer of a gambling device defined in paragraph (a)(1) or (a)(2) of section 1171 of this title shall number seriatim each such gambling device manufactured by him and permanently affix on each such device, so as to be clearly visible, such number, his name, and, if different, any trade name under which he does business, and the date of manufacture of such device.
 
 (2) Every manufacturer of a gambling device defined in paragraph (a)(3) of section 1171 of this title shall, if the size of such device permits it, number seriatim each such gambling device manufactured by him and permanently affix on each such device, so as to be clearly visible, such number, his name, and, if different, any trade name under which he does business, and the date of manufacture of such device.
 
@@ -32,7 +32,7 @@
 
 &emsp;(B) in the case of each such gambling device defined in paragraph (a)(3) of section 1171 of this title, the information required to be affixed on such gambling device by subsection (b)(2) of this section, or, if such gambling device does not have affixed on it any such information, its catalog listing, description, and, in the case of each such device owned or possessed by him or in his custody, its location.
 
-> Such record shall also show (i) in the case of any such gambling device described in paragraph (1)(A) of this subsection, the name and address of the person from whom such device was purchased or acquired and the name and address of the carrier; and (ii) in the case of any such gambling device described in paragraph (1)(C) of this subsection, the name and address of the buyer and consignee thereof and the name and address of the carrier.
+> Such record shall also show (i) in the case of any such gambling device described in paragraph (1)(A) of this subsection, the name and address of the person from whom such device was purchased or acquired and the name and address of the carrier; and (ii) in the case of any such gambling device described in paragraph (1)(C) of thissubsection, the name and address of the buyer and consignee thereof and the name and address of the carrier.
 
 #### (d) Retention of records
 

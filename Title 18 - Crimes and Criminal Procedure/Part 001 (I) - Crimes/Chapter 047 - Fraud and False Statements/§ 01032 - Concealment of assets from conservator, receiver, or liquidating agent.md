@@ -2,7 +2,7 @@
 
 Whoever—
 
-&emsp;(1) knowingly conceals or endeavors to conceal an asset or property from the Federal Deposit Insurance Corporation, acting as conservator or receiver or in the Corporation's corporate capacity with respect to any asset acquired or liability assumed by the Corporation under section 11, 12, or 13 of the Federal Deposit Insurance Act, the Resolution Trust Corporation, any conservator appointed by the Comptroller of the Currency or the Director of the Office of Thrift Supervision, the Federal Deposit Insurance Corporation acting as receiver for a covered financial company, in accordance with title II of the Dodd-Frank Wall Street Reform and Consumer Protection Act, or the National Credit Union Administration Board, acting as conservator or liquidating agent;
+&emsp;(1) knowingly conceals or endeavors to conceal an asset or property from the Federal Deposit Insurance Corporation, acting as conservator or receiver or in the Corporation's corporate capacity with respect to any asset acquired or liability assumed by the Corporation under section 11, 12, or 13 of the Federal Deposit Insurance Act, any conservator appointed by the Comptroller of the Currency, the Federal Deposit Insurance Corporation acting as receiver for a covered financial company, in accordance with title II of the Dodd-Frank Wall Street Reform and Consumer Protection Act, or the National Credit Union Administration Board, acting as conservator or liquidating agent;
 
 &emsp;(2) corruptly impedes or endeavors to impede the functions of such Corporation, Board, or conservator; or
 
@@ -11,10 +11,6 @@ Whoever—
 > shall be fined under this title or imprisoned not more than 5 years, or both.
 
 (Added Pub. L. 101–647, title XXV, §2501(a), Nov. 29, 1990, 104 Stat. 4859; amended Pub. L. 107–273, div. B, title IV, §4002(b)(13), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 111–203, title II, §211(a), (b), title III, §377(7), July 21, 2010, 124 Stat. 1514, 1569.)
-
-#### Amendment of Paragraph (1)
-
-<i>Pub. L. 111–203, title III, §§351, 377(7), July 21, 2010, 124 Stat. 1546, 1569, provided that, effective on the transfer date, paragaph (1) of this section is amended by striking “the Resolution Trust Corporation,” and by striking “or the Director of the Office of Thrift Supervision”. See Effective Date of 2010 Amendment note below.</i>
 
 #### References in Text
 
@@ -26,7 +22,9 @@ The Dodd-Frank Wall Street Reform and Consumer Protection Act, referred to in pa
 
 <b>2010</b>—Pub. L. 111–203, §211(b), struck out “of financial institution” after “agent” in section catchline.
 
-Par. (1). Pub. L. 111–203, §211(a), inserted “the Federal Deposit Insurance Corporation acting as receiver for a covered financial company, in accordance with title II of the Dodd-Frank Wall Street Reform and Consumer Protection Act,” before “or the National Credit”.
+Par. (1). Pub. L. 111–203, §377(7), struck out “the Resolution Trust Corporation,” after “Federal Deposit Insurance Act,” and “or the Director of the Office ofThrift Supervision” after “Comptroller of the Currency”.
+
+Pub. L. 111–203, §211(a), inserted “the Federal Deposit Insurance Corporation acting as receiver for a covered financial company, in accordance with title II of the Dodd-Frank Wall Street Reform and Consumer Protection Act,” before “or the National Credit”.
 
 <b>2002</b>—Par. (1). Pub. L. 107–273 substituted “13” for “13,”.
 

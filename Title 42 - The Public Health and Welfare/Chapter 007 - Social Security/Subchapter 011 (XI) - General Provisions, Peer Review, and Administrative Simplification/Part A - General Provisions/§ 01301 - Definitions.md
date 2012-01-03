@@ -18,7 +18,7 @@
 
 &emsp;(8)(A) The “Federal percentage” for any State (other than Puerto Rico, the Virgin Islands, and Guam) shall be 100 per centum less the State percentage; and the State percentage shall be that percentage which bears the same ratio to 50 per centum as the square of the per capita income of such State bears to the square of the per capita income of the United States; except that the Federal percentage shall in no case be less than 50 per centum or more than 65 per centum.
 
-&emsp;(B) The Federal percentage for each State (other than Puerto Rico, the Virgin Islands, and Guam) shall be promulgated by the Secretary between October 1 and November 30 of each year, on the basis of the average per capita income of each State and of the United States for the three most recent calendar years for which satisfactory data are available from the Department of Commerce. Such promulgation shall be conclusive for each of the four quarters in the period beginning October 1 next succeeding such promulgation: <i>Provided</i>, That the Secretary shall promulgate such percentages as soon as possible after August 28, 1958, which promulgation shall be conclusive for each of the eleven quarters in the periodbeginning October 1, 1958, and ending with the close of June 30, 1961.
+&emsp;(B) The Federal percentage for each State (other than Puerto Rico, the Virgin Islands, and Guam) shall be promulgated by the Secretary between October 1 and November 30 of each year, on the basis of the average per capita income of each State and of the United States for the three most recent calendar years for which satisfactory data are available from the Department of Commerce. Such promulgation shall be conclusive for each of the four quarters in the period beginning October 1 next succeeding such promulgation: <i>Provided</i>, That the Secretary shall promulgate such percentages as soon as possible after August 28, 1958, which promulgation shall be conclusive for each of the eleven quarters in the period beginning October 1, 1958, and ending with the close of June 30, 1961.
 
 &emsp;(C) The term “United States” means (but only for purposes of subparagraphs (A) and (B) of this paragraph) the fifty States and the District of Columbia.
 
@@ -40,7 +40,7 @@
 
 &emsp;&emsp;(D) at least one of such practitioners received payments on a fee-for-service basis under subchapters XVIII and XIX of this chapter in an amount exceeding $5,000 for any one month during the preceding 12 months or in an aggregate amount exceeding $40,000 during the preceding 12 months;
 
-> &emsp;except that such term does not include a provider of services (as defined in section 1395x(u) of this title), a health maintenance organization (as defined in section 300e(a) of this title), a hospital cooperative shared services organization meeting the requirements of section 501(e) of the Internal Revenue Code of 1986, or any public entity.
+> &emsp;except that such term does not include a provider of services (as defined in section 1395x(u) of this title), a health maintenance organization (as defined in section 300e(a) of this title), a hospital cooperative shared services organization meeting the requirements of section501(e) of the Internal Revenue Code of 1986, or any public entity.
 
 &emsp;(10) The term “Administration” means the Social Security Administration, except where the context requires otherwise.
 
@@ -64,7 +64,7 @@ The Internal Revenue Code of 1986, referred to in subsec. (a)(9), is classified 
 
 <b>1994</b>—Subsec. (a)(10). Pub. L. 103–296 added par. (10).
 
-<b>1988</b>—Subsec. (a)(1). Pub. L. 100–485 amended last sentence generally. Prior to amendment, last sentenceread as follows: “Such term when used in part B of subchapter IV of this chapter also includes American Samoa.”
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–485 amended last sentence generally. Prior to amendment, last sentence read as follows: “Such term when used in part B of subchapter IV of this chapter also includes American Samoa.”
 
 <b>1987</b>—Subsec. (a)(1). Pub. L. 100–203, §9135(a)(1), inserted “American Samoa,” after “Guam,”.
 
@@ -200,7 +200,7 @@ Amendment by Pub. L. 94–566 effective on the later of Oct. 1, 1976, or the day
 
 #### Effective Date of 1973 Amendment
 
-Section 18(z–2)(2) of Pub. L. 93–233 provided that: “The amendments made by this subsection \[amending this section and sections 1315 and 1316 of this title\] shall be effective on and after January 1, 1974.”
+Section 18(z–2)(2) of Pub. L. 93–233 provided that: “The amendments made by this subsection \[amendingthis section and sections 1315 and 1316 of this title\] shall be effective on and after January 1, 1974.”
 
 #### Effective Date of 1972 Amendment
 
@@ -236,7 +236,7 @@ Section 403(b) of act Aug. 28, 1950, provided that the amendment made by that se
 
 #### Effective Date of 1948 Amendment
 
-Section 2(b) of act June 14, 1948, provided that: “The amendment made by subsection (a) \[amending this section\] shall have the same effect as if included in the Social Security Act \[this chapter\] on August 14, 1935, the date of its enactment, but shall not have the effect of voiding any (1) wage credits reported to the Bureau of Internal Revenue \[now Internal Revenue Service\] with respect to services performed prior to the enactment of this Act \[June 14, 1948\] or (2) wage credits with respect to services performed prior to the close of the first calendar quarter which begins after the date of the enactment of this Act in the case of individuals who have attained age sixty-five or who have died, prior to the close of such quarter, and with respect to whom prior to the date of enactment of this Act wage credits were established which would not have been established hadthe amendment made by subsection (a) been in effect on and after August 14, 1935.”
+Section 2(b) of act June 14, 1948, provided that: “The amendment made by subsection (a) \[amending this section\] shall have the same effect as if included in the Social Security Act \[this chapter\] on August 14, 1935, the date of its enactment, but shall not have the effect of voiding any (1) wage credits reported to the Bureau of Internal Revenue \[now Internal Revenue Service\] with respect to services performed prior to the enactment of this Act \[June 14, 1948\] or (2) wage credits with respect to services performed prior to the close of the first calendar quarter which begins after the date of the enactment of this Act in the case of individuals who have attained age sixty-five or who have died, prior to the close of such quarter, and with respect to whom prior to the date of enactment of this Act wage credits were established which would not have been established had the amendment made by subsection (a) been in effect on and after August 14, 1935.”
 
 #### Effective Date of 1946 Amendment
 
@@ -266,7 +266,7 @@ Section 2663(<i>l</i>) of Pub. L. 98–369 provided that: “Any reference to th
 
 &emsp;“(1) by substituting ‘Secretary’ or ‘Secretary's’ for the term ‘Administrator’ or ‘Administrator's’, where the reference is to that term alone;
 
-&emsp;“(2) by substituting ‘Secretary of Health, Education, and Welfare’ for the term ‘Federal Security Administrator’, where the reference is to that term, if the provision containing such reference is amended by paragraph (2) or (3) of subsection (j) \[Pub. L. 98–369, §2663(j)(2), (3), see Tables for classification\] (in which case the amendment of such provision under this paragraph shall be deemed to have taken effect immediately prior to the amendment of such provision under such paragraph (2) or (3)); and
+&emsp;“(2) by substituting ‘Secretary of Health, Education, and Welfare’ for the term ‘Federal Security Administrator’, where the reference is to that term, if the provision containing such reference is amended by paragraph (2) or (3) of subsection (j) \[Pub. L. 98–369, §2663(j)(2), (3), see Tables for classification\] (in which case the amendment of such provision under this paragraph shall be deemed to have taken effectimmediately prior to the amendment of such provision under such paragraph (2) or (3)); and
 
 &emsp;“(3) by substituting ‘Secretary of Health and Human Services’ for the term ‘Federal Security Administrator’ in any other case where the reference is to that term;
 

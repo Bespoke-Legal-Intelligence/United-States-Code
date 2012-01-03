@@ -12,7 +12,7 @@ Section is based on section 1 of House Resolution No. 611, Ninety-seventh Congre
 
 #### Amendments
 
-2007—Pub. L. 110–2 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>2007</b>—Pub. L. 110–2 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 2007 Amendment
 

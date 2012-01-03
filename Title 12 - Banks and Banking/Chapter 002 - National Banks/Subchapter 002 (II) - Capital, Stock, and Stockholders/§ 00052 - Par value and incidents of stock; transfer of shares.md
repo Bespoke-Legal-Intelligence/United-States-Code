@@ -14,11 +14,11 @@ R.S. §5139 derived from act June 3, 1864, ch. 106, §12, 13 Stat. 102, which wa
 
 #### Amendments
 
-1935—Act Aug. 23, 1935, §335, added second par.
+<b>1935</b>—Act Aug. 23, 1935, §335, added second par.
 
 Act Aug. 23, 1935, §310(a), among other changes in last par., inserted proviso.
 
-1933—Act June 16, 1933, added last par.
+<b>1933</b>—Act June 16, 1933, added last par.
 
-1927—Act Feb. 25, 1927, inserted “or into shares of such less amount as may be provided in the articles of association” in first sentence.
+<b>1927</b>—Act Feb. 25, 1927, inserted “or into shares of such less amount as may be provided in the articles of association” in first sentence.
 

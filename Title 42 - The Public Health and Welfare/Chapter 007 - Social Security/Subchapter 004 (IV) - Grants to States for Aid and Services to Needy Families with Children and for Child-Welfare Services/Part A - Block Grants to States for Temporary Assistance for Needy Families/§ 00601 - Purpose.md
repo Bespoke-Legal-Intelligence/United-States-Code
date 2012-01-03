@@ -60,7 +60,7 @@ Elimination of child care programs.—The amendments made by section 103(c) \[am
 
 &emsp;“(5)
 
-Definitions applicable to new child care entitlement.—Sections 403(a)(1)(C), 403(a)(1)(D), and 419(4) of the Social Security Act \[sections 603(a)(1)(C), (D) and 619(4) of this title\], as added by the amendments made by section 103(a) of this Act, shall take effect on October 1, 1996.
+Definitions applicable to new child care entitlement.—Sections 403(a)(1)(C), 403(a)(1)(D), and419(4) of the Social Security Act \[sections 603(a)(1)(C), (D) and 619(4) of this title\], as added by the amendments made by section 103(a) of this Act, shall take effect on October 1, 1996.
 
 &emsp;“(6)
 
@@ -150,7 +150,7 @@ Claims, actions, and proceedings.—The amendments made by this title \[see Tabl
 
 &emsp;“(3)
 
-Closing out account for those programs terminated or substantially modified by this title.—In closing out accounts, Federal and State officials may use scientifically acceptable statistical sampling techniques. Claims made with respect to State expenditures under a State plan approved under part A of title IV of the Social Security Act \[this part\] (as in effect on September 30, 1995) with respect to assistance or services provided on or before September 30, 1995, shall be treated as claims with respect to expenditures during fiscal year 1995 for purposes of reimbursement even if payment was made by a State on or after October 1, 1995. Each State shall completethe filing of all claims under the State plan (as so in effect) within 2 years after the date of the enactment of this Act \[Aug. 22, 1996\]. The head of each Federal department shall—
+Closing out account for those programs terminated or substantially modified by this title.—In closing out accounts, Federal and State officials may use scientifically acceptable statistical sampling techniques. Claims made with respect to State expenditures under a State plan approved under part A of title IV of the Social Security Act \[this part\] (as in effect on September 30, 1995) with respect to assistance or services provided on or before September 30, 1995, shall be treated as claims with respect to expenditures during fiscal year 1995 for purposes of reimbursement even if payment was made by a State on or after October 1, 1995. Each State shall complete the filing of all claims under the State plan (as so in effect) within 2 years after the date of the enactment of this Act \[Aug. 22, 1996\]. The head of each Federal department shall—
 
 &emsp;&emsp;“(A) use the single audit procedure to review and resolve any claims in connection with the close out of programs under such State plans; and
 

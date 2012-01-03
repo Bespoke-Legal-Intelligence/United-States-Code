@@ -2,7 +2,7 @@
 
 #### (a) Transitional allowances; procedures applicable
 
-Any hospital may file an application with the Secretary (in such form and including such data and information as the Secretary may require) for establishment of a transitional allowance under this subchapter with respect to the closing or conversion of an underutilized hospital facility. The Secretary also may establish procedures, consistent with this section, by which a hospital, before undergoing an actual closure or conversion of a hospital facility, can have a determination made as to whether or not it will be eligible for a transitional allowance under thissection with respect to such closure or conversion.
+Any hospital may file an application with the Secretary (in such form and including such data and information as the Secretary may require) for establishment of a transitional allowance under this subchapter with respect to the closing or conversion of an underutilized hospital facility. The Secretary also may establish procedures, consistent with this section, by which a hospital, before undergoing an actual closure or conversion of a hospital facility, can have a determination made as to whether or not it will be eligible for a transitional allowance under this section with respect to such closure or conversion.
 
 #### (b) Allowable costs as transitional allowances; findings and determinations
 
@@ -58,7 +58,7 @@ Amendment by Pub. L. 97–248 effective as if originally included as part of thi
 
 #### Effective Date
 
-Section 2101(c) of Pub. L. 97–35 provided that: “The amendment made by subsection (a) \[enacting this section and amending section 1396b of this title\] shall apply only to services furnished by a hospital during any accounting year beginning on or after October 1, 1981.”
+Section 2101(c) of Pub. L. 97–35 provided that: “The amendment made by subsection (a) \[enacting this section and amending section 1396b of this title\] shall apply only to services furnished by a hospital duringany accounting year beginning on or after October 1, 1981.”
 
 #### Payments To Promote Closure and Conversion of Underutilized Hospital Facilities
 

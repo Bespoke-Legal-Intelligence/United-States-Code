@@ -6,7 +6,7 @@ The Secretary of the Treasury shall hold in the Alaska Native Fund, from the app
 
 #### (b) Claims; submission
 
-A claim for attorney and consultant fees and out-of-pocket expenses may be submitted to the Chief Commissioner of the United States Court of Claims for services rendered before December 18, 1971, to any Native tribe, band, group, village, or association in connection with:
+A claim for attorney and consultant fees and out-of-pocket expenses may be submitted to the Chief Commissioner of the United States Courtof Claims for services rendered before December 18, 1971, to any Native tribe, band, group, village, or association in connection with:
 
 &emsp;(1) the preparation of this chapter and previously proposed Federal legislation to settle Native claims based on aboriginal title, and
 
@@ -22,7 +22,7 @@ The Chief Commissioner or his delegate is authorized to receive, determine, and 
 
 (1) No claim shall be allowed if the claimant has otherwise been reimbursed.
 
-(2) The amount allowed for services shall be based on the nature of the service rendered, thetime and labor required, the need for providing the service, whether the service was intended to be a voluntary public service or compensable, the existence of a bona fide attorney-client relationship with an identified client, and the relationship of the service rendered to the enactment of proposed legislation. The amount allowed shall not be controlled by any hourly charge customarily charged by the claimant.
+(2) The amount allowed for services shall be based on the nature of the service rendered, the time and labor required, the need for providing the service, whether the service was intended to be a voluntary public service or compensable, the existence of a bona fide attorney-client relationship with an identified client, and the relationship of the service rendered to the enactment of proposed legislation. The amount allowed shall not be controlled by any hourly charge customarily charged by the claimant.
 
 (3) The amount allowed for out-of-pocket expenses shall not include office overhead, and shall be limited to expenses that were necessary, reasonable, unreimbursed and actually incurred.
 
@@ -48,11 +48,11 @@ The Chief Commissioner shall certify to the Secretary of the Treasury, and repor
 
 (1) No remuneration on account of any services or expenses for which a claim is made or could be made pursuant to this section shall be received by any person for such services and expenses in addition to the amount paid in accordance with this section, and any contract or agreement to the contrary shall be void.
 
-(2) Any person who receives, and any corporation or association official who pays, on account of such services and expenses, any remuneration in addition to the amount allowed in accordance with this section shall be guilty of a misdemeanor and, upon conviction thereof, shall be fined not more than $5,000, or imprisoned not more than twelve months, or both.
+(2) Any person who receives, and any corporation or association official who pays, on accountof such services and expenses, any remuneration in addition to the amount allowed in accordance with this section shall be guilty of a misdemeanor and, upon conviction thereof, shall be fined not more than $5,000, or imprisoned not more than twelve months, or both.
 
 #### (g) Claims for costs in performance of certain services: submission, form, information, reasonableness, pro rata reductions; report to Congress; payment of claims; interest restriction
 
-A claim for actual costs incurred in filing protests, preserving land claims, advancing land claims settlement legislation, and presenting testimony to the Congress on proposed Native land claims may be submitted to the Chief Commissioner of the Court of Claims by any bona fide association of Natives. The claim must be submitted within six months from December 18, 1971, and shall be in such form and contain such information as the Chief Commissioner shall prescribe. The Chief Commissioner shall allow such amounts as he determines are reasonable, but he shall allow no amount for attorney and consultant fees and expenses which shall be compensable solely under subsection (b) through (e) of this section. If approved claims under this subsection aggregate more than $600,000, eachclaim shall be reduced on a pro rata basis. The Chief Commissioner shall certify to the Secretary of the Treasury, and report to the Congress, the amount of each claim allowed and the name and address of the claimant. The Secretary of the Treasury shall pay to such claimant from the Alaska Native Fund the amount certified. No award under this subsection shall bear interest.
+A claim for actual costs incurred in filing protests, preserving land claims, advancing land claims settlement legislation, and presenting testimony to the Congress on proposed Native land claims may be submitted to the Chief Commissioner of the Court of Claims by any bona fide association of Natives. The claim must be submitted within six months from December 18, 1971, and shall be in such form and contain such information as the Chief Commissioner shall prescribe. The Chief Commissioner shall allow such amounts as he determines are reasonable, but he shall allow no amount for attorney and consultant fees and expenses which shall be compensable solely under subsection (b) through (e) of this section. If approved claims under this subsection aggregate more than $600,000, each claim shall be reduced on a pro rata basis. The Chief Commissioner shall certify to the Secretary of the Treasury, and report to the Congress, the amount of each claim allowed and the name and address of the claimant. The Secretary of the Treasury shall pay to such claimant from the Alaska Native Fund the amount certified. No award under this subsection shall bear interest.
 
 (Pub. L. 92–203, §20, Dec. 18, 1971, 85 Stat. 710.)
 

@@ -67,6 +67,7 @@
 | [6250c.](Subchapter%20001%20%28I%29%20-%20Domestic%20Supply%20Availability/Part%20D%20-%20Northeast%20Home%20Heating%20Oil%20Reserve/%C2%A7%2006250c%20-%20Northeast%20Home%20Heating%20Oil%20Reserve%20Account.md) | Northeast Home Heating Oil Reserve Account. |
 | [6250d.](Subchapter%20001%20%28I%29%20-%20Domestic%20Supply%20Availability/Part%20D%20-%20Northeast%20Home%20Heating%20Oil%20Reserve/%C2%A7%2006250d%20-%20Exemptions.md) | Exemptions. |
 | [6250e.](Subchapter%20001%20%28I%29%20-%20Domestic%20Supply%20Availability/Part%20D%20-%20Northeast%20Home%20Heating%20Oil%20Reserve/%C2%A7%2006250e%20-%20Repealed.%20Pub.%20L.%20109%E2%80%9358%2C%20title%20III%2C%20%C2%A7301%28a%29%282%29%2C%20Aug.%208%2C%202005%2C%20119%20Stat.%20683.md) | Repealed. |
+| [6250f.](Subchapter%20001%20%28I%29%20-%20Domestic%20Supply%20Availability/Part%20D%20-%20Northeast%20Home%20Heating%20Oil%20Reserve/%C2%A7%2006250f%20-%20Limit%20on%20amount%20of%20petroleum%20distillate.md) | Limit on amount of petroleum distillate. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -16,7 +16,7 @@ For each electronic fund transfer initiated by a consumer from an electronic ter
 
 #### (b) Notice of credit to consumer
 
-For a consumer's account which is scheduled to be credited by a preauthorized electronic fund transfer from the same payor at least once in each successive sixty-day period, except where the payor provides positive notice of the transfer to the consumer, the financial institution shall elect to provide promptly either positive notice to the consumer when the credit is made as scheduled, or negative notice to the consumer when the credit is not made as scheduled, in accordance with regulations of the Board. The means of notice elected shall be disclosed to the consumer in accordance with section 1693c of this title.
+For a consumer's account which is scheduled to be credited by a preauthorized electronic fund transfer from the same payor at least once in each successive sixty-day period, except where the payor provides positive notice of the transfer to the consumer, the financial institution shall elect to provide promptly either positive notice to the consumer when the credit is made as scheduled, or negative notice to the consumer when the credit is not made as scheduled, in accordance with regulations of the Bureau. The means of notice elected shall be disclosed to the consumer in accordance with section 1693c of this title.
 
 #### (c) Periodic statement; contents
 
@@ -28,7 +28,7 @@ A financial institution shall provide each consumer with a periodic statement fo
 
 &emsp;(3) the balances in the consumer's account at the beginning of the period and at the close of the period; and
 
-&emsp;(4) the address and telephone number to be used by the financial institution for the purpose of receiving any statement inquiry or notice of account error from the consumer. Suchaddress and telephone number shall be preceded by the caption “Direct Inquiries To:” or other similar language indicating that the address and number are to be used for such inquiries or notices.
+&emsp;(4) the address and telephone number to be used by the financial institution for the purpose of receiving any statement inquiry or notice of account error from the consumer. Such address and telephone number shall be preceded by the caption “Direct Inquiries To:” or other similar language indicating that the address and number are to be used for such inquiries or notices.
 
 #### (d) Consumer passbook accounts
 
@@ -44,9 +44,9 @@ In any action involving a consumer, any documentation required by this section t
 
 (Pub. L. 90–321, title IX, §906, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3731; amended Pub. L. 111–203, title X, §1084(1), July 21, 2010, 124 Stat. 2081.)
 
-#### Amendment of Section
+#### Amendments
 
-<i>Pub. L. 111–203, title X, §§1084(1), 1100H, July 21, 2010, 124 Stat. 2081, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Board” each place that term appears and inserting “Bureau”. See Effective Date of 2010 Amendment note below.</i>
+<b>2010</b>—Subsec. (b). Pub. L. 111–203 substituted “Bureau” for “Board”.
 
 #### Effective Date of 2010 Amendment
 

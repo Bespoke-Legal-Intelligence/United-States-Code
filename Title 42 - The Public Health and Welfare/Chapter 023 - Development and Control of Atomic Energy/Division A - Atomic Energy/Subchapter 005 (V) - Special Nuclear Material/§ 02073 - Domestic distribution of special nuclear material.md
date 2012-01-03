@@ -24,7 +24,7 @@ The Commission shall establish, by rule, minimum criteria for the issuance of sp
 
 #### (c) Manner of distribution; charges for material sold; agreements; charges for material leased
 
-(1) The Commission may distribute special nuclear material licensed under this section by sale, lease, lease with option to buy, or grant: <i>Provided, however</i>, That unless otherwise authorized by law, the Commission shall not after December 31, 1970, distribute special nuclear material except by sale to any person who possesses or operates a utilization facility under a license issued pursuant to section 2133 or 2134(b) of this title for use in the course of activities under such license; nor shall the Commission permit any such person after June 30, 1973, to continue leasing for use in the course of such activities special nuclear material previously leased to such person by the Commission.
+(1) The Commission may distribute special nuclear material licensed under this section by sale, lease, lease with option to buy, or grant: <i>Provided, however</i>, That unless otherwise authorized by law, the Commission shall not after December 31, 1970, distribute special nuclear material except by sale to any person who possessesor operates a utilization facility under a license issued pursuant to section 2133 or 2134(b) of this title for use in the course of activities under such license; nor shall the Commission permit any such person after June 30, 1973, to continue leasing for use in the course of such activities special nuclear material previously leased to such person by the Commission.
 
 (2) The Commission shall establish reasonable sales prices for the special nuclear material licensed and distributed by sale under this section. Such sales prices shall be established on a nondiscriminatory basis which, in the opinion of the Commission, will provide reasonable compensation to the Government for such special nuclear material.
 
@@ -70,7 +70,7 @@ Each license issued pursuant to this section shall contain and be subject to the
 
 The Commission is directed to distribute within the United States sufficient special nuclear material to permit the conduct of widespread independent research and development activities to the maximum extent practicable. In the event that applications for special nuclear material exceed the amount available for distribution, preference shall be given to those activities which are most likely, in the opinion of the Commission, to contribute to basic research, to the development of peacetime uses of atomic energy, or to the economic and military strength of the Nation.
 
-(Aug. 1, 1946, ch. 724, title I, §53, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 930; amended Pub. L. 85–256, §2, Sept. 2, 1957, 71 Stat. 576; Pub. L. 85–681, §§1, 2, Aug. 19, 1958, 72 Stat. 632; Pub. L. 88–489, §§5–8, Aug. 26, 1964, 78 Stat. 603, 604; Pub. L. 90–190, §§9, 10, Dec. 14, 1967, 81 Stat. 577; renumbered title I and amended Pub. L. 102–486, title IX, §902(a)(3), (8), Oct. 24, 1992, 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §53, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 930; amended Pub.L. 85–256, §2, Sept. 2, 1957, 71 Stat. 576; Pub. L. 85–681, §§1, 2, Aug. 19, 1958, 72 Stat. 632; Pub. L. 88–489, §§5–8, Aug. 26, 1964, 78 Stat. 603, 604; Pub. L. 90–190, §§9, 10, Dec. 14, 1967, 81 Stat. 577; renumbered title I and amended Pub. L. 102–486, title IX, §902(a)(3), (8), Oct. 24, 1992, 106 Stat. 2944.)
 
 #### Prior Provisions
 

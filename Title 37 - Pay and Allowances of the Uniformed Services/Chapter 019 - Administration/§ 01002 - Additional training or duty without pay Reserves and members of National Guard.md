@@ -2,7 +2,7 @@
 
 (a) A member of the National Guard, or of a reserve component of a uniformed service, may, with his consent, be given additional training or other duty as provided by law, without pay, as may be authorized by the Secretary concerned.
 
-(b)(1) A member who performs training or other duty without pay under subsection (a) may, in the discretion of the Secretary concerned, be authorized the travel and transportation allowances prescribed by section 404(a)–(d), and (f), of this title for travel performed to and from that training or duty, and, during the performance of that training or duty, be furnished with subsistence and quarters in kind or commutation thereof at a rate to be fixed by the Secretary concerned.
+(b)(1) A member who performs training or other duty without pay under subsection (a) may, in the discretion of the Secretary concerned, be authorized the travel and transportation allowances prescribed by section 474(a)–(d), and (f), of this title for travel performed to and from that training or duty, and, during the performance of that training or duty, be furnished with subsistence and quarters in kind or commutation thereof at a rate to be fixed by the Secretary concerned.
 
 (2) If a military technician (dual status), as described in section 10216 of title 10, is performing active duty without pay while on leave from technician employment, as authorized by section 6323(d) of title 5, the Secretary concerned may authorize the payment of a per diem allowance to the military technician in lieu of commutation for subsistence and quarters under paragraph (1).
 
@@ -10,7 +10,7 @@
 
 (d) This section does not apply to a member who is entitled to basic pay under chapter 3 of this title.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 489; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 106–65, div. A, title VI, §672(a), Oct. 5, 1999, 113 Stat. 674.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 489; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 106–65, div. A, title VI, §672(a), Oct. 5, 1999, 113 Stat. 674; Pub. L. 112–81, div. A, title VI, §631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465.)
 
 Historical and Revision Notes
 
@@ -50,7 +50,13 @@ In subsection (b), the words “section 404(a)–(d), and (f), of this title” 
 
 Subsection (d) is substituted for section 301(e) of existing title 37.
 
+#### Codification
+
+Section 631(f)(4)(A) of Pub. L. 112–81, which directed that this title be amended by conforming any references to sections of this title which were transferred and redesignated by “subsection (c)” of section 631, was executed by conforming the references to those sections as transferred and redesignated by subsection (d) of section 631, to reflect the probable intent of Congress.
+
 #### Amendments
+
+<b>2011</b>—Subsec. (b)(1). Pub. L. 112–81 substituted “474” for “404”. See Codification note above.
 
 <b>1999</b>—Subsec. (b). Pub. L. 106–65 designated existing provisions as par. (1) and added par. (2).
 

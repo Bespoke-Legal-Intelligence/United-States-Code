@@ -8,7 +8,7 @@
 
 #### (2) On trustee
 
-&emsp;In any case in which a tax is imposed by paragraph (1), there is hereby imposed on the participation of any trustee of such a trust in an act of self-dealing between a disqualified person and the trust, knowing that it is such an act, a tax equal to 21/2 percent of the amount involved with respect to the act of self-dealing for each year (or part thereof) in the taxable period, unless such participation is not willful and is due to reasonable cause. The tax imposed by this paragraph shall be paid by any such trustee who participated in the act of self-dealing.
+&emsp;In any case in which a tax is imposed by paragraph (1), there is hereby imposed on the participation of any trustee of such a trust in an act of self-dealing between a disqualified person and the trust, knowing that it is such an act, a tax equal to 2½ percent of the amount involved with respect to the act of self-dealing for each year (or part thereof) in the taxable period, unless such participation is not willful and is due to reasonable cause. The tax imposed by this paragraph shall be paid by any such trustee who participated in the act of self-dealing.
 
 #### (b) Additional taxes
 

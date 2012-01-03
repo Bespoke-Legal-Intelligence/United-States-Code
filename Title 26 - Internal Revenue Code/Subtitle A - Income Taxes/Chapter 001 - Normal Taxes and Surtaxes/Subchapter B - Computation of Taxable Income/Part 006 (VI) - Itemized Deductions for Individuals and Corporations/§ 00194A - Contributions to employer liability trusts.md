@@ -10,7 +10,7 @@ There shall be allowed as a deduction for the taxable year an amount equal to th
 
 #### (b) Allocation to taxable year
 
-In the case of a contribution described in subsection (a) which relates to any specified period of time which includes more than one taxable year, the amount properly allocable to any taxable year in such period shall be determined by prorating such amounts to such taxable years under regulations prescribed by the Secretary.
+In the case of a contribution described in subsection (a) which relates to any specified periodof time which includes more than one taxable year, the amount properly allocable to any taxable year in such period shall be determined by prorating such amounts to such taxable years under regulations prescribed by the Secretary.
 
 #### (c) Disallowance of deduction
 

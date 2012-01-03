@@ -1,6 +1,6 @@
 ### §288. “International organization” defined; authority of President
 
-For the purposes of this subchapter, the term “international organization” means a public international organization in which the United States participates pursuant to any treaty or under the authority of any Act of Congress authorizing such participation or making an appropriation for such participation, and which shall have been designated by the President through appropriate Executive order as being entitled to enjoy the privileges, exemptions, and immunities provided in this subchapter. The President shall be authorized, in the light of the functions performed by any such international organization, by appropriate Executive order to withhold or withdraw from any such organization or its officers or employees any of the privileges, exemptions, and immunities provided for in this subchapter (including the amendments made by this subchapter) or to condition or limit the enjoyment by any such organization or its officers or employees of any such privilege, exemption, or immunity. The President shall be authorized, if in his judgment such action should be justified by reason of the abuse by an international organization or its officers and employees of the privileges, exemptions, and immunities provided in this subchapter or for any other reason, at any time to revoke the designation of any international organization under this section, whereupon the international organization in question shall cease to be classed as an international organization for the purposes of this subchapter.
+For the purposes of this subchapter, the term “international organization” means a public international organization in which the United States participates pursuant to any treaty or under the authority of any Act of Congress authorizing such participation or making an appropriation for such participation, and which shall have been designated by the President through appropriate Executive order as beingentitled to enjoy the privileges, exemptions, and immunities provided in this subchapter. The President shall be authorized, in the light of the functions performed by any such international organization, by appropriate Executive order to withhold or withdraw from any such organization or its officers or employees any of the privileges, exemptions, and immunities provided for in this subchapter (including the amendments made by this subchapter) or to condition or limit the enjoyment by any such organization or its officers or employees of any such privilege, exemption, or immunity. The President shall be authorized, if in his judgment such action should be justified by reason of the abuse by an international organization or its officers and employees of the privileges, exemptions, and immunities provided in this subchapter or for any other reason, at any time to revoke the designation of any international organization under this section, whereupon the international organization in question shall cease to be classed as an international organization for the purposes of this subchapter.
 
 (Dec. 29, 1945, ch. 652, title I, §1, 59 Stat. 669.)
 
@@ -104,6 +104,8 @@ International Centre for Settlement of Investment Disputes, Ex. Ord. No. 11966, 
 
 International Civil Aviation Organization, Ex. Ord. No. 9863, May 31, 1947, 12 F.R. 3559.
 
+International Civilian Office in Kosovo, Ex. Ord. No. 13568, Mar. 8, 2011, 76 F.R. 13497.
+
 International Coffee Organization, Ex. Ord. No. 11225, May 22, 1965, 30 F.R. 7093.
 
 International Committee of the Red Cross, Ex. Ord. No. 12643, June 23, 1988, 53 F.R. 24247.
@@ -165,6 +167,8 @@ North American Development Bank, Ex. Ord. No. 12904, Mar. 16, 1994, 59 F.R. 1317
 North Pacific Anadromous Fish Commission, Ex. Ord. No. 12895, Jan. 26, 1994, 59 F.R. 4239.
 
 North Pacific Marine Science Organization, Ex. Ord. No. 12894, Jan. 26, 1994, 59 F.R. 4237.
+
+Office of the High Representative in Bosnia and Herzegovina, Ex. Ord. No. 13568, Mar. 8, 2011, 76 F.R. 13497.
 
 Organization for European Economic Cooperation (now known as the Organization for Economic Cooperation and Development), Ex. Ord. No. 10133, June 27, 1950, 15 F.R. 4159.
 

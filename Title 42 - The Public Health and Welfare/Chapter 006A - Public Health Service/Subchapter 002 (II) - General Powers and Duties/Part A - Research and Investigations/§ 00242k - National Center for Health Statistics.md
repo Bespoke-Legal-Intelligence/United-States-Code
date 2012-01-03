@@ -66,7 +66,7 @@ To secure uniformity in the registration and collection of mortality, morbidity,
 
 #### (h) Registration area records
 
-(1) There shall be an annual collection of data from the records of births, deaths, marriages, and divorces in registration areas. The data shall be obtained only from and restricted to such records of the States and municipalities which the Secretary, in his discretion, determines possess records affording satisfactory data in necessary detail and form. The Secretary shall encourage States and registrationareas to obtain detailed data on ethnic and racial populations, including subpopulations of Hispanics, Asian Americans, and Pacific Islanders with significant representation in the State or registration area. Each State or registration area shall be paid by the Secretary the Federal share of its reasonable costs (as determined by the Secretary) for collecting and transcribing (at the request of the Secretary and by whatever method authorized by him) its records for such data.
+(1) There shall be an annual collection of data from the records of births, deaths, marriages, and divorces in registration areas. The data shall be obtained only from and restricted to such records of the States and municipalities which the Secretary, in his discretion, determines possess records affording satisfactory data in necessary detail and form. The Secretary shall encourage States and registration areas to obtain detailed data on ethnic and racial populations, including subpopulations of Hispanics, Asian Americans, and Pacific Islanders with significant representation in the State or registration area. Each State or registration area shall be paid by the Secretary the Federal share of its reasonable costs (as determined by the Secretary) for collecting and transcribing (at the request of the Secretary and by whatever method authorized by him) its records for such data.
 
 (2) There shall be an annual collection of data from a statistically valid sample concerning the general health, illness, and disability status of the civilian noninstitutionalized population. Specific topics to be addressed under this paragraph, on an annual or periodic basis, shall include the incidence of illness and accidental injuries, prevalence of chronic diseases and impairments, disability, physician visits, hospitalizations, and the relationship between demographic and socioeconomic characteristics and health characteristics.
 
@@ -84,7 +84,7 @@ In carrying out the requirements of section 242b(c) of this title and paragraph 
 
 &emsp;(3) after consultation with the National Committee on Vital and Health Statistics, establishing standards to assure the quality of health statistical and epidemiological data collection, processing, and analysis;
 
-&emsp;(4) in the case of proposed health data collections of the Department which are required to be reviewed by the Director of the Office of Management and Budget under section 3509 <sup>2</sup> of title 44, reviewing such proposed collections to determine whether they conform with the minimum sets of data and the standards promulgated pursuant to paragraphs (2) and (3), and if any such proposed collection is found not to be in conformance, by taking such action as may be necessary to assure that it will conform to such sets of data and standards, and
+&emsp;(4) in the case of proposed health data collections of the Department which are required tobe reviewed by the Director of the Office of Management and Budget under section 3509 <sup>2</sup> of title 44, reviewing such proposed collections to determine whether they conform with the minimum sets of data and the standards promulgated pursuant to paragraphs (2) and (3), and if any such proposed collection is found not to be in conformance, by taking such action as may be necessary to assure that it will conform to such sets of data and standards, and
 
 &emsp;(5) periodically reviewing ongoing health data collections of the Department, subject to review under such section 3509,<sup>2</sup> to determine if the collections are being conducted in accordance with the minimum sets of data and the standards promulgated pursuant to paragraphs (2) and (3) and, if any such collection is found not to be in conformance, by taking such action as may be necessary to assure that the collection will conform to such sets of data and standards not later than the ninetieth day after the date of the completion of the review of the collection.
 
@@ -132,7 +132,7 @@ In carrying out the requirements of section 242b(c) of this title and paragraph 
 
 (6) In carrying out health statistical activities under this part, the Secretary shall consult with, and seek the advice of, the Committee and other appropriate professional advisory groups.
 
-(7) Not later than 1 year after August 21, 1996, and annually thereafter, the Committee shall submit to the Congress, and make public, a report regarding the implementation of part C of title XI of the Social Security Act \[42 U.S.C. 1320d et seq.\]. Such report shall address the following subjects, to the extent that the Committee determines appropriate:
+(7) Not later than 1 year after August 21, 1996, and annually thereafter, the Committee shall submit to the Congress, and make public, a report regarding the implementation of part C oftitle XI of the Social Security Act \[42 U.S.C. 1320d et seq.\]. Such report shall address the following subjects, to the extent that the Committee determines appropriate:
 
 &emsp;(A) The extent to which persons required to comply with part C of title XI of the Social Security Act are cooperating in implementing the standards adopted under such part.
 
@@ -272,7 +272,7 @@ Subsec. (e). Pub. L. 97–35, §920(a), (d)(1), in par. (3) inserted applicabili
 
 Subsecs. (j), (k)(4)(C), (D). Pub. L. 97–35, §920(d)(1), substituted “Health and Human Services” for “Health, Education, and Welfare”.
 
-Subsec. (<i>l</i>)(2). Pub. L. 97–35, §920(b), (c), (d)(1), in subpar. (A) inserted reference to Office of Federal Statistical Policy and Standards, in subpar. (B)(v) substituted “Health and Human Services” for “Health, Education, and Welfare”, and in subpar. (D) struck out provisions relating to assistance to executive departments.
+Subsec. (<i>l</i>)(2). Pub. L. 97–35, §920(b), (c), (d)(1), in subpar. (A) inserted reference to Office of Federal Statistical Policy and Standards, in subpar. (B)(v) substituted “Health and Human Services” for “Health,Education, and Welfare”, and in subpar. (D) struck out provisions relating to assistance to executive departments.
 
 <b>1978</b>—Subsec. (b). Pub. L. 95–623, §5(a), struck out “may” after “through the Center,”, substituted in pars. (1) and (2) “shall collect” and “shall undertake” for “collect” and “undertake”, respectively, and added pars. (3) and (4) and provision for availability of certain appropriated funds from par. (4) payments until expended.
 

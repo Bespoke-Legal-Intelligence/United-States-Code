@@ -34,7 +34,7 @@ In carrying out activities designed to achieve the goals described in subsection
 
 &emsp;(3) Integrate research and education through activities that emphasize and strengthen the natural connections between learning and inquiry.
 
-&emsp;(4) Promote partnerships with industry, elementary and secondary schools, community colleges, colleges and universities, other agencies, State and local governments, and other institutions involved in science, mathematics, and engineering to enhance the delivery of math and science education and improve the technological literacy of the citizens of the United States.
+&emsp;(4) Promote partnerships with industry, elementary and secondary schools, community colleges, colleges and universities, other agencies, State and local governments, and other institutions involved in science, mathematics,and engineering to enhance the delivery of math and science education and improve the technological literacy of the citizens of the United States.
 
 (Pub. L. 105–207, title I, §101, July 29, 1998, 112 Stat. 869.)
 
@@ -60,7 +60,7 @@ In general.—The Director of the Office of Science and Technology Policy, in co
 
 &emsp;&emsp;“(A) analyzing the Federal indirect cost reimbursement rates (as the term is defined in Office of Management and Budget Circular A–21) paid to universities in comparison with Federal indirect cost reimbursement rates paid to other entities, such as industry, government laboratories, research hospitals, and nonprofit institutions;
 
-&emsp;&emsp;“(B)(i) analyzing the distribution of the Federal indirect cost reimbursement rates by category\(such as administration, facilities, utilities, and libraries), and by the type of entity; and
+&emsp;&emsp;“(B)(i) analyzing the distribution of the Federal indirect cost reimbursement rates by category (such as administration, facilities, utilities, and libraries), and by the type of entity; and
 
 &emsp;&emsp;“(ii) determining what factors, including the type of research, influence the distribution;
 
@@ -94,11 +94,11 @@ Pub. L. 105–207, title II, §§205, 206, July 29, 1998, 112 Stat. 876, provide
 
 “(a)
 
-Notice of Reprogramming.—If any funds appropriated pursuant to the amendments made by this Act \[See Short Title of 1998 Amendment note set out under section 1861 of this title\] are subject to a reprogramming action that requires notice to be provided to the Committees on Appropriations of the Senate and the House of Representatives, notice of that action shall concurrently be provided to the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Labor and Human Resources \[now Committee on Health, Education, Labor, and Pensions\] of the Senate, and the Committee on Science \[now Committee on Science and Technology\] of the House of Representatives.
+Notice of Reprogramming.—If any funds appropriated pursuant to the amendments made by this Act \[See Short Title of 1998 Amendment note set out under section 1861 of this title\] are subject to a reprogramming action that requires notice to be provided to the Committees on Appropriations of the Senate and the House of Representatives, notice of that action shall concurrently be provided to the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Labor and Human Resources \[now Committee on Health, Education, Labor, and Pensions\] of the Senate, and the Committee on Science \[now Committee on Science, Space, and Technology\] of the House of Representatives.
 
 “(b)
 
-Notice of Reorganization.—Not later than 15 days before any major reorganization of any program, project, or activity of the National Science Foundation, the Director of the National Science Foundation shall provide notice to the Committees on Science \[now Science and Technology\] and Appropriations of the House of Representatives and the Committees on Commerce, Science and Transportation, Labor and Human Resources \[now Committee on Health, Education, Labor, and Pensions\] of the Senate, and Appropriations of the Senate.
+Notice of Reorganization.—Not later than 15 days before any major reorganization of any program, project, or activity of the National Science Foundation, the Director of the National Science Foundation shall provide notice to the Committees on Science \[now Science, Space, and Technology\] and Appropriations of the House of Representatives and the Committees on Commerce, Science and Transportation, Labor and Human Resources \[now Committee on Health, Education, Labor, and Pensions\] of the Senate, and Appropriations of the Senate.
 
 #### “SEC. 206. ENHANCEMENT OF SCIENCE AND MATHEMATICS PROGRAMS.
 

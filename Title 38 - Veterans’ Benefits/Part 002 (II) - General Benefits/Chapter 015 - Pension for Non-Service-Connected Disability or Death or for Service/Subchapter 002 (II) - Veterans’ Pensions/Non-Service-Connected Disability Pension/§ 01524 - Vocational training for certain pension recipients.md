@@ -16,7 +16,7 @@
 
 &emsp;(ii) may not include the provision of any loan or subsistence allowance or any automobile adaptive equipment of the kind provided under chapter 39 of this title; and
 
-&emsp;(iii) may include a program of education at an institution of higher learning (as defined in sections 3452(b) and 3452(f), respectively, of this title) only in a case in which the Secretary determines that the program involved is predominantly vocational in content.
+&emsp;(iii) may include a program of education at an institution of higher learning (as defined insections 3452(b) and 3452(f), respectively, of this title) only in a case in which the Secretary determines that the program involved is predominantly vocational in content.
 
 (3) When a veteran completes a vocational training program under this subsection, the Secretary may provide the veteran with counseling of the kind described in section 3104(a)(2) of this title, placement and postplacement services of the kind described in section 3104(a)(5) of this title, and training of the kind described in section 3104(a)(6) of this title during a period not to exceed 18 months beginning on the date of such completion.
 
@@ -24,7 +24,7 @@
 
 (c) In the case of a veteran who has been determined to have a permanent and total non-service-connected disability and who, not later than one year after the date the veteran's eligibility for counseling under subsection (b)(3) of this section expires, secures employment within the scope of a vocational goal identified in the veteran's individualized written plan of vocational rehabilitation (or in a related field which requires reasonably developed skills and the use of some or all of the training or services furnished the veteran under such plan), the evaluation of the veteran as having a permanent and total disability may not be terminated by reason of the veteran's capacity to engage in such employment until the veteran first maintains such employment for a period of not less than 12 consecutive months.
 
-(d) A veteran who pursues a vocational training program under subsection (b) of this section shall have the benefit of the provisions of subsection (a) of section 1525 of this title beginning at such time as the veteran's entitlement to pension is terminated by reason of income from work or training (as defined in subsection (b)(1)of that section) without regard to the date on which the veteran's entitlement to pension is terminated.
+(d) A veteran who pursues a vocational training program under subsection (b) of this section shall have the benefit of the provisions of subsection (a) of section 1525 of this title beginning at such time as the veteran's entitlement to pension is terminated by reason of income from work or training (as defined in subsection (b)(1) of that section) without regard to the date on which the veteran's entitlement to pension is terminated.
 
 (e) Payments by the Secretary for education, training, and other services and assistance under subsection (b) of this section (other than the services of Department employees) shall be made from the Department appropriations account from which payments for pension are made.
 

@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Notwithstanding any other provision of State or Federal law (other than section 1821(e) of this title, section 1787(c) of this title, or any order authorized under section 78eee(b)(2) of title 15), the covered contractual payment obligations and the covered contractual payment entitlements between any 2 financial institutions shall be terminated, liquidated, accelerated, and netted in accordance with, and subject to the conditions of, the terms of any applicable netting contract (except as provided in section 561(b)(2) of title 11).
+Notwithstanding any other provision of State or Federal law (other than section 1821(e) of this title, section 5390(c) of this title, section 4617 of this title, section 1787(c) of this title, or any order authorized under section 78eee(b)(2) of title 15), the covered contractual payment obligations and the covered contractual payment entitlements between any 2 financial institutions shall be terminated, liquidated, accelerated, and netted in accordance with, and subject to the conditions of, the terms of any applicable netting contract (except as provided in section 561(b)(2) of title 11).
 
 #### (b) Limitation on obligation to make payment
 
@@ -24,17 +24,23 @@ This section shall be given effect notwithstanding that a financial institution 
 
 The provisions of any security agreement or arrangement or other credit enhancement related to one or more netting contracts between any 2 financial institutions shall be enforceable in accordance with their terms (except as provided in section 561(b)(2) of title 11), and shall not be stayed, avoided, or otherwise limited by any State or Federal law (other than section 1821(e) of this title, section 1787(c) of this title, and section 78eee(b)(2) of title 15).
 
-(Pub. L. 102–242, title IV, §403, Dec. 19, 1991, 105 Stat. 2374; Pub. L. 109–8, title IX, §906(b), Apr. 20, 2005, 119 Stat. 168; Pub. L. 109–390, §4(a), Dec. 12, 2006, 120 Stat. 2695.)
+(Pub. L. 102–242, title IV, §403, Dec. 19, 1991, 105 Stat. 2374; Pub. L. 109–8, title IX, §906(b), Apr. 20, 2005, 119 Stat. 168; Pub. L. 109–390, §4(a), Dec. 12, 2006, 120 Stat. 2695; Pub. L. 111–203, title II, §211(c), July 21, 2010, 124 Stat. 1514.)
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–390 struck out “paragraphs (8)(E), (8)(F), and (10)(B) of” before “section 1821(e)” and “section 1787(c)” and inserted “terminated, liquidated, accelerated, and” after “institutions shall be”.
+<b>2010</b>—Subsec. (a). Pub. L. 111–203 inserted “section 5390(c) of this title, section 4617 of this title,” after “section 1821(e) of this title,”.
+
+<b>2006</b>—Subsec. (a). Pub. L. 109–390 struck out “paragraphs (8)(E), (8)(F), and (10)(B) of” before “section 1821(e)” and “section 1787(c)” and inserted “terminated, liquidated, accelerated, and” after “institutions shall be”.
 
 Subsec. (f). Pub. L. 109–390, §4(a)(1), struck out “paragraphs (8)(E), (8)(F), and (10)(B) of” before “section 1821(e)” and “section 1787(c)”.
 
-2005—Subsec. (a). Pub. L. 109–8, §906(b)(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “Notwithstanding any other provision of law, the covered contractual payment obligations and the covered contractual payment entitlements between any 2 financial institutions shallbe netted in accordance with, and subject to the conditions of, the terms of any applicable netting contract.”
+<b>2005</b>—Subsec. (a). Pub. L. 109–8, §906(b)(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “Notwithstanding any other provision of law, the covered contractual payment obligations and the covered contractual payment entitlements between any 2 financial institutions shall be netted in accordance with, and subject to the conditions of, the terms of any applicable netting contract.”
 
 Subsec. (f). Pub. L. 109–8, §906(b)(2), added subsec. (f).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of this title.
 
 #### Effective Date of 2006 Amendment
 

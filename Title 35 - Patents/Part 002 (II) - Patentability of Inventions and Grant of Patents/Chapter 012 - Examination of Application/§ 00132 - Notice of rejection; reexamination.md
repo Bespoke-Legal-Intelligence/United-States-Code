@@ -4,7 +4,11 @@
 
 (b) The Director shall prescribe regulations to provide for the continued examination of applications for patent at the request of the applicant. The Director may establish appropriate fees for such continued examination and shall provide a 50 percent reduction in such fees for small entities that qualify for reduced fees under section 41(h)(1) of this title.
 
-(July 19, 1952, ch. 950, 66 Stat. 801; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4403, 4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–560, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
+(July 19, 1952, ch. 950, 66 Stat. 801; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4403, 4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–560, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, §20(j), Sept. 16, 2011, 125 Stat. 335.)
+
+#### Amendment of Section
+
+<i>Pub. L. 112–29, §20(j), (l), Sept. 16, 2011, 125 Stat. 335, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, this section is amended by striking “of this title” each place that term appears. See 2011 Amendment note below.</i>
 
 #### Historical and Revision Notes
 
@@ -16,11 +20,17 @@ The last sentence relating to new matter is added but represents no departure fr
 
 #### Amendments
 
+<b>2011</b>—Subsec. (b). Pub. L. 112–29 struck out “of this title” after “41(h)(1)”.
+
 <b>2002</b>—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\]. See 1999 Amendment note below.
 
 <b>1999</b>—Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], as amended by Pub. L. 107–273, substituted “Director” for “Commissioner”.
 
 Pub. L. 106–113, §1000(a)(9) \[title IV, §4403\], designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### Effective Date of 2011 Amendment
+
+Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(<i>l</i>) of Pub. L. 112–29, set out as a note under section 2 of this title.
 
 #### Effective Date of 1999 Amendment
 

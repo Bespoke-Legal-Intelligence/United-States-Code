@@ -12,5 +12,5 @@ The purpose of this subchapter is to dispose of unclaimed property in the posses
 
 #### Amendments
 
-2006—Par. (1). Pub. L. 109–351 and 109–356 amended par. (1) identically, striking out “and closed banks in the District of Columbia” before semicolon at end.
+<b>2006</b>—Par. (1). Pub. L. 109–351 and 109–356 amended par. (1) identically, striking out “and closed banks in the District of Columbia” before semicolon at end.
 

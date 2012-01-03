@@ -34,7 +34,7 @@ Any amount recovered by such employer on account of such assignment, whether or 
 
 #### (f) Institution of proceedings by person entitled to compensation
 
-If the person entitled to compensation institutes proceedings within the period prescribed in subsection (b) of this section the employer shall be required to pay as compensation under this chapter a sum equal to the excess of the amount which the Secretary determines is payable on account of such injury or death over the net amount recovered against such third person. Such net amount shall be equal to the actual amount recovered less the expenses reasonably incurred by such person in respect to such proceedings (including reasonable attorneys’ fees).
+If the person entitled to compensation institutes proceedings within the period prescribed in subsection (b) of this section the employer shall be required to pay as compensation under this chapter a sum equal to the excess of the amount which the Secretary determines is payable on account of such injury or death over thenet amount recovered against such third person. Such net amount shall be equal to the actual amount recovered less the expenses reasonably incurred by such person in respect to such proceedings (including reasonable attorneys’ fees).
 
 #### (g) Compromise obtained by person entitled to compensation
 
@@ -42,7 +42,7 @@ If the person entitled to compensation institutes proceedings within the period 
 
 (2) If no written approval of the settlement is obtained and filed as required by paragraph (1), or if the employee fails to notify the employer of any settlement obtained from or judgment rendered against a third person, all rights to compensation and medical benefits under this chapter shall be terminated, regardless of whether the employer or the employer's insurer has made payments or acknowledged entitlement to benefits under this chapter.
 
-(3) Any payments by the special fund established under section 944 of this title shall be a lien upon the proceeds of any settlement obtained from or judgment rendered against a third person referred to under subsection (a) of this section. Notwithstanding any other provision of law, such lien shall be enforceableagainst such proceeds, regardless of whether the Secretary on behalf of the special fund has agreed to or has received actual notice of the settlement or judgment.
+(3) Any payments by the special fund established under section 944 of this title shall be a lien upon the proceeds of any settlement obtained from or judgment rendered against a third person referred to under subsection (a) of this section. Notwithstanding any other provision of law, such lien shall be enforceable against such proceeds, regardless of whether the Secretary on behalf of the special fund has agreed to or has received actual notice of the settlement or judgment.
 
 (4) Any payments by a trust fund described in section 917 of this title shall be a lien upon the proceeds of any settlement obtained from or judgment recorded against a third person referred to under subsection (a) of this section. Such lien shall have priority over a lien under paragraph (3) of this subsection.
 
@@ -70,7 +70,7 @@ Subsec. (g). Pub. L. 98–426, §21(d), designated existing provisions as par. (
 
 <b>1972</b>—Subsecs. (b), (e)(1)(A). Pub. L. 92–576, §15(f), (g), inserted “or Board” after “deputy commissioner”.
 
-Subsec. (g). Pub. L. 92–576, §15(h), substituted “if the written approval of such compromise is obtained from the employer and its insurance carrier by the person entitled to compensation or such representative at the time of or prior to such compromise on a form provided by the Secretary and filed in the office of the deputy commissioner having jurisdiction of such injury or death within thirty days after such compromise is made” for “if such compromise is made with his written approval”.
+Subsec. (g). Pub. L. 92–576, §15(h), substituted “if the written approval of such compromise is obtained from the employer and its insurance carrier by the person entitled to compensation or such representative at the time of or prior to such compromise on a form provided by the Secretary and filed in the office of the deputy commissioner having jurisdiction of such injury ordeath within thirty days after such compromise is made” for “if such compromise is made with his written approval”.
 
 <b>1959</b>—Subsec. (a). Pub. L. 86–171 inserted “or a person or persons in his employ” after “employer” and substituted “he need not elect whether” for “he may elect, by giving notice to the deputy commissioner in such manner as the Secretary may provide,”.
 
@@ -96,7 +96,7 @@ Subsec. (i). Act June 25, 1938, §13, added subsec. (i).
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–426 effective Sept. 28, 1984, and applicable both with respect to claims filed aftersuch date and to claims pending on such date, see section 28(a) of Pub. L. 98–426, set out as a note under section 901 of this title.
+Amendment by Pub. L. 98–426 effective Sept. 28, 1984, and applicable both with respect to claims filed after such date and to claims pending on such date, see section 28(a) of Pub. L. 98–426, set out as a note under section 901 of this title.
 
 #### Effective Date of 1972 Amendment
 

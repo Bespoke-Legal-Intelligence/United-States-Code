@@ -56,7 +56,7 @@
 
 #### (v) Progress toward names-based reporting
 
-&emsp;&emsp;&emsp;For fiscal year 2009 or a subsequent fiscal year, the Secretary may terminate an exemption under clause (ii) for an eligible area if the State in which the area is located submitted a plan under clause\(iii)(I)(aa) and the Secretary determines that the State is not substantially following the plan.
+&emsp;&emsp;&emsp;For fiscal year 2009 or a subsequent fiscal year, the Secretary may terminate an exemption under clause (ii) for an eligible area if the State in which the area is located submitted a plan under clause (iii)(I)(aa) and the Secretary determines that the State is not substantially following the plan.
 
 #### (vi) Counting of cases in areas with exemptions
 
@@ -118,7 +118,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For each of the fiscal years 2007 through 2012, if code-based reporting (within themeaning of subparagraph (C)(vi)) applies in an eligible area or any portion thereof as of the beginning of the fiscal year involved, then notwithstanding any other provision of this paragraph, the amount of the grant pursuant to this paragraph for such area for such fiscal year may not—
+&emsp;&emsp;&emsp;For each of the fiscal years 2007 through 2012, if code-based reporting (within the meaning of subparagraph (C)(vi)) applies in an eligible area or any portion thereof as of the beginning of the fiscal year involved, then notwithstanding any other provision of this paragraph, the amount of the grant pursuant to this paragraph for such area for such fiscal year may not—
 
 &emsp;&emsp;&emsp;&emsp;(I) for fiscal year 2007, exceed by more than 5 percent the amount of the grant for the area that would have been made pursuant to this paragraph and paragraph (4) for fiscal year 2006 (as such paragraphs were in effect for such fiscal year) if paragraph (2) (as so in effect) had been applied by substituting “662/3 percent” for “50 percent”; and
 
@@ -148,7 +148,7 @@
 
 #### (ii) Pro rata reduction
 
-&emsp;&emsp;&emsp;If the amounts referred to in clause (i) for a fiscal year are insufficient to fully comply with subparagraph (A) for the year, the Secretary, in order to provide the additional funds necessary for such compliance, shall reduce on a pro rata basis the amount of each grant pursuant to this subsection for the fiscal year, other than grants for eligible areas for which increases under subparagraph (A) apply. A reduction under the preceding sentence may not be made in an amount that would result in the eligible area involved becoming eligible for such an increase.
+&emsp;&emsp;&emsp;If the amounts referred to in clause (i) for a fiscal year are insufficient to fully comply with subparagraph (A) for the year, the Secretary, in order to provide the additional funds necessary for such compliance, shall reduce on a pro rata basis the amount of each grant pursuant to this subsection for the fiscal year, other than grants for eligible areas for which increases under subparagraph (A) apply. A reduction under the preceding sentence may not be made in an amount that wouldresult in the eligible area involved becoming eligible for such an increase.
 
 #### (C) Limitation
 
@@ -182,7 +182,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The amount of each grant made for purposes of this subsection shall be determinedby the Secretary based on a weighting of factors under paragraph (1), with demonstrated need under subparagraph (B) of such paragraph counting one-third, and demonstrated success in identifying individuals with HIV/AIDS who do not know their HIV status and making them aware of such status counting one-third. In making such determination, the Secretary shall consider—
+&emsp;&emsp;The amount of each grant made for purposes of this subsection shall be determined by the Secretary based on a weighting of factors under paragraph (1), with demonstrated need under subparagraph (B) of such paragraph counting one-third, and demonstrated success in identifying individuals with HIV/AIDS who do not know their HIV status and making them aware of such status counting one-third. In making such determination, the Secretary shall consider—
 
 &emsp;&emsp;&emsp;(i) the number of individuals who have been tested for HIV/AIDS;
 
@@ -220,7 +220,7 @@
 
 #### (D) Increased adjustment for certain areas previously using code-based reporting
 
-&emsp;&emsp;For purposes of this subsection for each of fiscal years 2010 through 2012, the Secretary shall deem the applicable number of living cases of HIV/AIDS in an area that were reported to and confirmed by the Centers for Disease Control and Prevention to be 3 percent higher than the actual number if the conditions described in items (aa) through (cc) of subsection (a)(3)(C)(vi)(III) are all satisfied.
+&emsp;&emsp;For purposes of this subsection for each of fiscal years 2010 through 2012, the Secretary shall deem the applicable number of living cases of HIV/AIDS in an area that were reported to and confirmed by the Centers for Disease Control and Prevention to be 3 percent higher than the actual number if theconditions described in items (aa) through (cc) of subsection (a)(3)(C)(vi)(III) are all satisfied.
 
 #### (3) Remainder of amounts
 
@@ -298,7 +298,7 @@
 
 #### (d) Compliance with priorities of HIV planning council
 
-Notwithstanding any other provision of this subpart, the Secretary, in carrying out section 300ff–11(a) of this title, may not make any grant under subsection (a) or (b) of this section to an eligible area unless the application submitted by such area under section 300ff–15 of this title for the grant involved demonstrates that the grants made under subsections (a) and (b) of this section to the area for the preceding fiscal year (ifany) were expended in accordance with the priorities applicable to such year that were established, pursuant to section 300ff–12(b)(4)(C) of this title, by the planning council serving the area.
+Notwithstanding any other provision of this subpart, the Secretary, in carrying out section 300ff–11(a) of this title, may not make any grant under subsection (a) or (b) of this section to an eligible area unless the application submitted by such area under section 300ff–15 of this title for the grant involved demonstrates that the grants made under subsections (a) and (b) of this section to the area for the preceding fiscal year (if any) were expended in accordance with the priorities applicable to such year that were established, pursuant to section 300ff–12(b)(4)(C) of this title, by the planning council serving the area.
 
 #### (e) Report on the awarding of supplemental funds
 

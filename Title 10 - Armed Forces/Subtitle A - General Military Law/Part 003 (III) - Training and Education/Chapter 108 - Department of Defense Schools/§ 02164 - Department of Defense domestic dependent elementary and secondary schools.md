@@ -26,7 +26,7 @@ Factors for Secretary To Consider.—(1) Factors to be considered by the Secreta
 
 &emsp;(B) The extent to which the local educational agency is able to provide an appropriate educational program for such dependents.
 
-(2) For purposes of paragraph (1)(B), an appropriate educational program is a program that, as determined by the Secretary, is comparable to a program of free public education provided for children by the following local educational agencies:
+(2) For purposes of paragraph (1)(B), an appropriate educational program is a program that,as determined by the Secretary, is comparable to a program of free public education provided for children by the following local educational agencies:
 
 &emsp;(A) In the case of a military installation located in a State (other than an installation referred to in subparagraph (B)), local educational agencies in the State that are similar to the local educational agency referred to in paragraph (1)(B).
 
@@ -36,7 +36,7 @@ Factors for Secretary To Consider.—(1) Factors to be considered by the Secreta
 
 (c)
 
-Eligibility of Dependents of Federal Employees.—(1)(A) A dependent of a Federal employee residing in permanent living quarters on a military installation at any time during the school year may enroll in an educational program provided by the Secretary of Defensepursuant to subsection (a) for dependents residing on such installation.
+Eligibility of Dependents of Federal Employees.—(1)(A) A dependent of a Federal employee residing in permanent living quarters on a military installation at any time during the school year may enroll in an educational program provided by the Secretary of Defense pursuant to subsection (a) for dependents residing on such installation.
 
 (B) A dependent of a United States Customs Service employee who resides in Puerto Rico, but not on a military installation, may enroll in an educational program provided by the Secretary pursuant to subsection (a) in Puerto Rico in accordance with the same rules as apply to a dependent of a Federal employee residing in permanent living quarters on a military installation.
 
@@ -156,7 +156,7 @@ American Red Cross Employee Dependents in Puerto Rico.—(1) The Secretary may a
 
 (j)
 
-Tuition-free Enrollment of Dependents of Foreign Military Personnel Residing onDomestic Military Installations and Dependents of Certain Deceased Members of the Armed Forces.—(1) The Secretary may authorize the enrollment in a Department of Defense education program provided by the Secretary pursuant to subsection (a) of a dependent not otherwise eligible for such enrollment who is the dependent of an individual described in paragraph (2). Enrollment of such a dependent shall be on a tuition-free basis.
+Tuition-free Enrollment of Dependents of Foreign Military Personnel Residing on Domestic Military Installations and Dependents of Certain Deceased Members of the Armed Forces.—(1) The Secretary may authorize the enrollment in a Department of Defense education program provided by the Secretary pursuant to subsection (a) of a dependent not otherwise eligible for such enrollment who is the dependent of an individual described in paragraph (2). Enrollment of such a dependent shall be on a tuition-free basis.
 
 (2) An individual referred to in paragraph (1) is any of the following:
 

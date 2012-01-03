@@ -20,13 +20,15 @@
 | [2866\.](%C2%A7%2002866%20-%20Water%20conservation%20at%20military%20installations.md) | Water conservation at military installations. |
 | [2867\.](%C2%A7%2002867%20-%20Energy%20monitoring%20and%20utility%20control%20system%20specification%20for%20military%20construction%20and%20military%20family%20housing%20activities.md) | Energy monitoring and utility control system specification for military construction and military family housing activities. |
 | [2868\.](%C2%A7%2002868%20-%20Utility%20services%20furnishing%20for%20certain%20buildings.md) | Utility services: furnishing for certain buildings. |
-| [2869\.](%C2%A7%2002869%20-%20Conveyance%20of%20property%20at%20military%20installations%20to%20limit%20encroachment.md) | Conveyance of property at military installations to limit encroachment. |
+| [2869\.](%C2%A7%2002869%20-%20Exchange%20of%20property%20at%20military%20installations.md) | Exchange of property at military installations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 111–383, div. A, title X, §1075(d)(23), Jan. 7, 2011, 124 Stat. 4374, made technical amendment to directory language of Pub. L. 111–84, §2804(d)(2). See 2009 Amendment note below.
+<b>2011</b>—Pub. L. 112–81, div. B, title XXVIII, §2815(c), Dec. 31, 2011, 125 Stat. 1689, which directed amendment of table of sections at the beginning of this chapter by substituting “Exchange of property at military installations” for “Conveyance of property at military installations to limit encroachment” in item 2869, was executed by making the subtitution in the table of sections at the beginning of this subchapter to reflect the probable intent of Congress.
+
+Pub. L. 111–383, div. A, title X, §1075(d)(23), Jan. 7, 2011, 124 Stat. 4374, made technical amendment to directory language of Pub. L. 111–84, §2804(d)(2). See 2009 Amendment note below.
 
 <b>2009</b>—Pub. L. 111–84, div. B, title XXVIII, §2841(a)(2), Oct. 28, 2009, 123 Stat. 2680, added item 2867.
 
@@ -83,4 +85,4 @@ Pub. L. 108–375, div. B, title XXVIII, §2804(a)(2), Oct. 28, 2004, 118 Stat. 
 - [&sect; 02866 - Water conservation at military installations](%C2%A7%2002866%20-%20Water%20conservation%20at%20military%20installations.md)
 - [&sect; 02867 - Energy monitoring and utility control system specification for military construction and military family housing activities](%C2%A7%2002867%20-%20Energy%20monitoring%20and%20utility%20control%20system%20specification%20for%20military%20construction%20and%20military%20family%20housing%20activities.md)
 - [&sect; 02868 - Utility services furnishing for certain buildings](%C2%A7%2002868%20-%20Utility%20services%20furnishing%20for%20certain%20buildings.md)
-- [&sect; 02869 - Conveyance of property at military installations to limit encroachment](%C2%A7%2002869%20-%20Conveyance%20of%20property%20at%20military%20installations%20to%20limit%20encroachment.md)
+- [&sect; 02869 - Exchange of property at military installations](%C2%A7%2002869%20-%20Exchange%20of%20property%20at%20military%20installations.md)

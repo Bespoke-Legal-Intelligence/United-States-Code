@@ -22,7 +22,7 @@ For purposes of this section, the term “insurance” means—
 
 &emsp;(2) any product first offered after January 1, 1999, which—
 
-&emsp;&emsp;(A) a State insurance regulator determines shall be regulated as insurance in the Statein which the product is provided because the product insures, guarantees, or indemnifies against liability, loss of life, loss of health, or loss through damage to or destruction of property, including, but not limited to, surety bonds, life insurance, health insurance, title insurance, and property and casualty insurance (such as private passenger or commercial automobile, homeowners, mortgage, commercial multiperil, general liability, professional liability, workers’ compensation, fire and allied lines, farm owners multiperil, aircraft, fidelity, surety, medical malpractice, ocean marine, inland marine, and boiler and machinery insurance); and
+&emsp;&emsp;(A) a State insurance regulator determines shall be regulated as insurance in the State in which the product is provided because the product insures, guarantees, or indemnifies against liability, loss of life, loss of health, or loss through damage to or destruction of property, including, but not limited to, surety bonds, life insurance, health insurance, title insurance, and property and casualty insurance (such as private passenger or commercial automobile, homeowners, mortgage, commercial multiperil, general liability, professional liability, workers’ compensation, fire and allied lines, farm owners multiperil, aircraft, fidelity, surety, medical malpractice, ocean marine, inland marine, and boiler and machinery insurance); and
 
 &emsp;&emsp;(B) is not a product or service of a bank that is—
 

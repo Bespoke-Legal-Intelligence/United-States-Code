@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(B) at any time during the taxable year and on or before the 15th day of the 3d month of the taxable year.
 
-#### (2) Certain elections made during 1st 21/2 months treated as made for next taxable year
+#### (2) Certain elections made during 1st 2½ months treated as made for next taxable year
 
 &emsp;If—
 
@@ -34,7 +34,7 @@
 
 > &emsp;then such election shall be treated as made for the following taxable year.
 
-#### (3) Election made after 1st 21/2 months treated as made for following taxable year
+#### (3) Election made after 1st 2½ months treated as made for following taxable year
 
 &emsp;If—
 
@@ -44,7 +44,7 @@
 
 > &emsp;then such election shall be treated as made for the following taxable year.
 
-#### (4) Taxable years of 21/2 months or less
+#### (4) Taxable years of 2½ months or less
 
 &emsp;For purposes of this subsection, an election for a taxable year made not later than 2 months and 15 days after the first day of the taxable year shall be treated as timely made during such year.
 
@@ -250,11 +250,11 @@ If—
 
 If a small business corporation has made an election under subsection (a) and if such election has been terminated under subsection (d), such corporation (and any successor corporation) shall not be eligible to make an election under subsection (a) for any taxable year before its 5th taxable year which begins after the 1st taxable year for which such termination is effective, unless the Secretary consents to such election.
 
-(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1672; amended Pub. L. 98–369, div. A, title I, §102(d)(2), title VII, §721(g), (h), (<i>l</i>), (t), July 18, 1984, 98 Stat. 623, 968, 969, 971; Pub. L. 100–647, title I, §§1006(f)(6), 1007(g)(9), Nov. 10, 1988, 102 Stat. 3406, 3435; Pub. L. 104–188, title I, §§1305(a), (b), 1308(c), 1311(b)(1), Aug. 20, 1996, 110 Stat. 1779, 1780, 1783, 1784; Pub. L. 106–170, title V, §532(c)(2)(T), Dec. 17, 1999, 113 Stat. 1931; Pub. L. 108–357, title II, §§231(b), 237(a), 238(a), Oct. 22, 2004, 118 Stat. 1433, 1436; Pub. L. 109–135, title IV, §413(b), Dec. 21, 2005, 119 Stat. 2641; Pub. L. 110–28, title VIII, §8231(a), May 25, 2007, 121 Stat. 196; Pub. L. 110–172, §11(a)(25), Dec. 29, 2007, 121 Stat. 2487.)
+(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1672; amended Pub. L. 98–369, div. A, title I,§102(d)(2), title VII, §721(g), (h), (<i>l</i>), (t), July 18, 1984, 98 Stat. 623, 968, 969, 971; Pub. L. 100–647, title I, §§1006(f)(6), 1007(g)(9), Nov. 10, 1988, 102 Stat. 3406, 3435; Pub. L. 104–188, title I, §§1305(a), (b), 1308(c), 1311(b)(1), Aug. 20, 1996, 110 Stat. 1779, 1780, 1783, 1784; Pub. L. 106–170, title V, §532(c)(2)(T), Dec. 17, 1999, 113 Stat. 1931; Pub. L. 108–357, title II, §§231(b), 237(a), 238(a), Oct. 22, 2004, 118 Stat. 1433, 1436; Pub. L. 109–135, title IV, §413(b), Dec. 21, 2005, 119 Stat. 2641; Pub. L. 110–28, title VIII, §8231(a), May 25, 2007, 121 Stat. 196; Pub. L. 110–172, §11(a)(25), Dec. 29, 2007, 121 Stat. 2487.)
 
 #### Amendments
 
-<b>2007</b>—Subsec. (d)(3)(B) to (F). Pub. L. 110–28 added subpars. (B) and (C) and struck out former subpar. (B), which related to gross receipts from dispositions of capital assets (other than stock and securities) beingtaken into account only to the extent of the capital gain net income therefrom, subpar. (C), which defined passive investment income, subpar. (D), which provided that, in the case of any options dealer or commodities dealer, passive investment income was to be determined by not taking into account any gain or loss from any section 1256 contract or property related to such a contract, subpar. (E), which related to certain dividends not being treated as passive investment income if an S corporation held stock in a C corporation meeting the requirements of section 1504(a)(2), and subpar. (F), which related to the exception from passive investment income for banks and depository institution holding companies.
+<b>2007</b>—Subsec. (d)(3)(B) to (F). Pub. L. 110–28 added subpars. (B) and (C) and struck out former subpar. (B), which related to gross receipts from dispositions of capital assets (other than stock and securities) being taken into account only to the extent of the capital gain net income therefrom, subpar. (C), which defined passive investment income, subpar. (D), which provided that, in the case of any options dealer or commodities dealer, passive investment income was to be determined by not taking into account any gain or loss from any section 1256 contract or property related to such a contract, subpar. (E), which related to certain dividends not being treated as passive investment income if an S corporation held stock in a C corporation meeting the requirements of section 1504(a)(2), and subpar. (F), which related to the exception from passive investment income for banks and depository institution holding companies.
 
 Subsec. (f)(1). Pub. L. 110–172 substituted “or section 1361(b)(3)(B)(ii)” for “, section 1361(b)(3)(B)(ii), or section 1361(c)(1)(A)(ii)” in introductory provisions and “or section 1361(b)(3)(C)” for “, section 1361(b)(3)(C), or section 1361(c)(1)(D)(iii)” in subpar. (B).
 

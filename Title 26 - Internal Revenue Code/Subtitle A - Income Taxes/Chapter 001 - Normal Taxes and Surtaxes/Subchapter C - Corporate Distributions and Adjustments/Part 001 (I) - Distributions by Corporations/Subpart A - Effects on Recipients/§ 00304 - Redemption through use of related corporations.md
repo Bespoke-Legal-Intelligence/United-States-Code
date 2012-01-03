@@ -156,7 +156,7 @@
 
 #### (1) In general
 
-&emsp;For purposes of this section, control means the ownership of stock possessing at least 50 percent of the total combined voting power of all classes of stock entitled to vote, or at least 50 percent of the total value of shares of all classes of stock. If a person (or persons) is in control (within the meaning of the preceding sentence) of a corporation which in turn owns at least 50 percent of the total combined voting power of all stock entitled to vote of another corporation, or owns at least 50 percent of the total value of the shares of all classes of stock of another corporation, then such person (or persons) shall be treated as in control of such other corporation.
+&emsp;For purposes of this section, control means the ownership of stock possessing at least 50 percent of the total combined voting power of all classes of stock entitled to vote, or at least 50 percent of the total value of shares of allclasses of stock. If a person (or persons) is in control (within the meaning of the preceding sentence) of a corporation which in turn owns at least 50 percent of the total combined voting power of all stock entitled to vote of another corporation, or owns at least 50 percent of the total value of the shares of all classes of stock of another corporation, then such person (or persons) shall be treated as in control of such other corporation.
 
 #### (2) Stock acquired in the transaction
 
@@ -238,7 +238,7 @@ Pub. L. 111–226, title II, §215(b), Aug. 10, 2010, 124 Stat. 2400, provided t
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions ofthe Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
+Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -352,7 +352,7 @@ Section 226(c) of Pub. L. 97–248 provided that:
 
 “(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 306 and 351 of this title\] shall apply to transfers occurring after August 31, 1982, in taxable years ending after such date.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 306 and 351 of this title\] shall applyto transfers occurring after August 31, 1982, in taxable years ending after such date.
 
 “(2)
 

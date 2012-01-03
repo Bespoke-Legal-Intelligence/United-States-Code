@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(ii) was not extended on the basis of the regulatory review period for use in non-food-producing animals,
 
-> &emsp;the permission for the commercial marketing or use of the drug or product after the regulatory review period for use in food-producing animals is the first permitted commercial marketing or use of the drug or product for administration to a food-producing animal.
+> &emsp;the permission for the commercial marketing or use of the drug or product after the regulatory review period for use in food-producinganimals is the first permitted commercial marketing or use of the drug or product for administration to a food-producing animal.
 
 > The product referred to in paragraphs (4) and (5) is hereinafter in this section referred to as the “approved product”.
 
@@ -76,11 +76,13 @@
 
 &emsp;(E) such patent or other information as the Director may require.
 
+> For purposes of determining the date on which a product receives permission under the second sentence of this paragraph, if such permission is transmitted after 4:30 P.M., Eastern Time, on a business day, or is transmitted on a day that is not a business day, the product shall be deemed to receive such permission on the next business day. For purposes of the preceding sentence, the term “business day” means any Monday, Tuesday, Wednesday, Thursday, or Friday, excluding any legal holiday under section 6103 of title 5.
+
 (2)(A) Within 60 days of the submittal of an application for extension of the term of a patent under paragraph (1), the Director shall notify—
 
 &emsp;(i) the Secretary of Agriculture if the patent claims a drug product or a method of using or manufacturing a drug product and the drug product is subject to the Virus-Serum-Toxin Act, and
 
-&emsp;(ii) the Secretary of Health and Human Services if the patent claims any other drug product, a medical device, or a food additive or color additive or a method of using or manufacturing such a product, device, or additive and if the product, device, and additive are subject to the Federal Food, Drug, and Cosmetic Act,
+&emsp;(ii) the Secretary of Health and Human Services if the patent claims any other drug product, a medical device, or a food additive or color additive or a method of using or manufacturing such a product, device, or additiveand if the product, device, and additive are subject to the Federal Food, Drug, and Cosmetic Act,
 
 > of the extension application and shall submit to the Secretary who is so notified a copy of the application. Not later than 30 days after the receipt of an application from the Director, the Secretary receiving the application shall review the dates contained in the application pursuant to paragraph (1)(C) and determine the applicable regulatory review period, shall notify the Director of the determination, and shall publish in the Federal Register a notice of such determination.
 
@@ -110,7 +112,7 @@
 
 (D) Each certificate of interim extension under this paragraph shall be recorded in the official file of the patent and shall be considered part of the original patent.
 
-(E) Any interim extension granted under this paragraph shall terminate at the end of the 60-day period beginning on the date on which the product involved receives permission for commercial marketing or use, except that, if within that 60-day period the applicant notifies the Director of such permission and submits any additional information under paragraph (1) of this subsection not previously contained in the application for interim extension, the patent shall be further extended, in accordance with the provisions of this section—
+(E) Any interim extension granted under this paragraph shall terminate at the end of the 60-day period beginning on the date on which the product involved receives permission for commercial marketing or use, except that, if withinthat 60-day period the applicant notifies the Director of such permission and submits any additional information under paragraph (1) of this subsection not previously contained in the application for interim extension, the patent shall be further extended, in accordance with the provisions of this section—
 
 &emsp;(i) for not to exceed 5 years from the date of expiration of the original patent term; or
 
@@ -176,7 +178,7 @@
 
 &emsp;&emsp;(i) the period beginning on the date a major health or environmental effects test on the additive was initiated and ending on the date a petition was initially submitted with respect to the product under the Federal Food, Drug, and Cosmetic Act requesting the issuance of a regulation for use of the product, and
 
-&emsp;&emsp;(ii) the period beginning on the date a petition was initially submitted with respect tothe product under the Federal Food, Drug, and Cosmetic Act requesting the issuance of a regulation for use of the product, and ending on the date such regulation became effective or, if objections were filed to such regulation, ending on the date such objections were resolved and commercial marketing was permitted or, if commercial marketing was permitted and later revoked pending further proceedings as a result of such objections, ending on the date such proceedings were finally resolved and commercial marketing was permitted.
+&emsp;&emsp;(ii) the period beginning on the date a petition was initially submitted with respect to the product under the Federal Food, Drug, and Cosmetic Act requesting the issuance of a regulation for use of the product, and ending on the date such regulation became effective or, if objections were filed to such regulation, ending on the date such objections were resolved and commercial marketing was permitted or, if commercial marketing was permitted and later revoked pending further proceedings as a result of such objections, ending on the date such proceedings were finally resolved and commercial marketing was permitted.
 
 &emsp;(3)(A) In the case of a product which is a medical device, the term means the period described in subparagraph (B) to which the limitation described in paragraph (6) applies.
 
@@ -220,11 +222,11 @@
 
 (h) The Director may establish such fees as the Director determines appropriate to cover the costs to the Office of receiving and acting upon applications under this section.
 
-(Added Pub. L. 98–417, title II, §201(a), Sept. 24, 1984, 98 Stat. 1598; amended Pub. L. 100–670, title II, §201(a)–(h), Nov. 16, 1988, 102 Stat. 3984–3987; Pub. L. 103–179, §§5, 6, Dec. 3, 1993, 107 Stat. 2040, 2042; Pub. L. 103–465, title V, §532(c)(1), Dec. 8, 1994, 108 Stat. 4987; Pub. L. 105–115, title I, §125(b)(2)(P), Nov. 21, 1997, 111 Stat. 2326; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4404, 4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–560, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(a)(9), (b)(1)(B), Nov. 2, 2002, 116 Stat. 1904, 1906.)
+(Added Pub. L. 98–417, title II, §201(a), Sept. 24, 1984, 98 Stat. 1598; amended Pub. L. 100–670, title II, §201(a)–(h), Nov. 16, 1988, 102 Stat. 3984–3987;Pub. L. 103–179, §§5, 6, Dec. 3, 1993, 107 Stat. 2040, 2042; Pub. L. 103–465, title V, §532(c)(1), Dec. 8, 1994, 108 Stat. 4987; Pub. L. 105–115, title I, §125(b)(2)(P), Nov. 21, 1997, 111 Stat. 2326; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4404, 4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–560, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(a)(9), (b)(1)(B), Nov. 2, 2002, 116 Stat. 1904, 1906; Pub. L. 112–29, §37(a), Sept. 16, 2011, 125 Stat. 341.)
 
 #### References in Text
 
-The Virus-Serum-Toxin Act, referred to in subsecs. (d)(2)(A)(i), (B)(i), (f)(2)(B), (4)(C), and (g)(5)(B), (6)(C), isthe eighth paragraph under the heading “Bureau of Animal Industry” of act Mar. 4, 1913, ch. 145, 37 Stat. 828, as amended, which is classified generally to chapter 5 (§151 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 151 of Title 21 and Tables.
+The Virus-Serum-Toxin Act, referred to in subsecs. (d)(2)(A)(i), (B)(i), (f)(2)(B), (4)(C), and (g)(5)(B), (6)(C), is the eighth paragraph under the heading “Bureau of Animal Industry” of act Mar. 4, 1913, ch. 145, 37 Stat. 828, as amended, which is classified generally to chapter 5 (§151 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 151 of Title 21 and Tables.
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (d)(2)(A)(ii), (B)(ii), (f), and (g)(2)(B), (3)(B)(ii), (6)(C), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
@@ -241,6 +243,8 @@ The date of enactment of the Generic Animal Drug and Patent Term Restoration Act
 The date of the enactment of this section, referred to in subsec. (g)(6), is the date of the enactment of Pub. L. 98–417, which was approved Sept. 24, 1984.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (d)(1). Pub. L. 112–29 inserted concluding provisions.
 
 <b>2002</b>—Subsec. (b)(3)(B). Pub. L. 107–273, §13206(a)(9)(A), substituted “paragraph” for “paragraphs”.
 
@@ -298,7 +302,7 @@ Subsec. (d)(2)(A). Pub. L. 100–670, §201(e), amended subpar. (A) generally. P
 
 Subsec. (d)(2)(B). Pub. L. 100–670, §201(f), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows:
 
-“(i) If a petition is submitted to the Secretary under subparagraph (A), not later than one hundred and eighty days after the publication of the determination under subparagraph (A), upon which it may reasonably be determined that the applicant did not act with due diligence during the applicable regulatory review period, the Secretary shall, in accordance with regulations promulgated by the Secretary determine if the applicant acted with due diligence during the applicable regulatory review period. The Secretary shall make such determination not later than ninety days afterthe receipt of such a petition. The Secretary may not delegate the authority to make the determination prescribed by this subparagraph to an office below the Office of the Commissioner of Food and Drugs.
+“(i) If a petition is submitted to the Secretary under subparagraph (A), not later than one hundred and eighty days after the publication of the determination under subparagraph (A), upon which it may reasonably be determined that the applicant did not act with due diligence during the applicable regulatory review period, the Secretary shall, in accordance with regulations promulgated by the Secretary determine if the applicant acted with due diligence during the applicable regulatory review period. The Secretary shall make such determination not later than ninety days after the receipt of such a petition. The Secretary may not delegate the authority to make the determination prescribed by this subparagraph to an office below the Office of the Commissioner of Food and Drugs.
 
 “(ii) The Secretary shall notify the Commissioner of the determination and shall publish in the Federal Register a notice of such determination together with the factual and legal basis for such determination. Any interested person may request, within the sixty-day period beginning on the publication of a determination, the Secretary to hold an informal hearing on the determination. If such a request is made within such period, the Secretary shall hold such hearing not later than thirty days after the date of the request, or at the request of the person making the request, not later than sixty days after such date. The Secretary shall provide notice of the hearing to the owner of the patent involved and to any interested person and provide the owner and any interested person an opportunity to participate in the hearing. Within thirty days after the completion of the hearing, the Secretary shall affirm or revise the determination which was the subject of the hearing and notify the Commissioner of any revision of the determination and shall publish any such revision in the Federal Register.”
 
@@ -325,6 +329,10 @@ Subsec. (g)(6)(B)(i). Pub. L. 100–670, §201(h)(5)(A), substituted “paragrap
 Subsec. (g)(6)(B)(ii). Pub. L. 100–670, §201(h)(5)(B), substituted “paragraph (2)(B) or (4)(B)” for “paragraph (2)”.
 
 Subsec. (g)(6)(C). Pub. L. 100–670, §201(h)(5)(C), inserted “or in the case of an approved product which is a new animal drug or veterinary biological product (as those terms are used in the Federal Food, Drug, and Cosmetic Act or the Virus-Serum-Toxin Act), three years” after “exceed two years”.
+
+#### Effective Date of 2011 Amendment
+
+Pub. L. 112–29, §37(b), Sept. 16, 2011, 125 Stat. 341, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to any application for extension of a patent term under section 156 of title 35, United States Code, that is pending on, that is filed after, or as to which a decision regarding the application is subject to judicial review on, the date of the enactment of this Act \[Sept. 16, 2011\].”
 
 #### Effective Date of 1999 Amendment
 

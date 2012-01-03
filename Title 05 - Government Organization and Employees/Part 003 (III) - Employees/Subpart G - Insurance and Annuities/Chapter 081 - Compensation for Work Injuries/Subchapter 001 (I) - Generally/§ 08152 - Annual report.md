@@ -4,3 +4,5 @@ The Secretary of Labor shall, at the end of each fiscal year, prepare a report w
 
 (Added Pub. L. 104–66, title I, §1102(b)(3)(A), Dec. 21, 1995, 109 Stat. 723.)
 
+<i><sup>1</sup></i><i> So in original. Probably should be “Longshore and”.</i>
+

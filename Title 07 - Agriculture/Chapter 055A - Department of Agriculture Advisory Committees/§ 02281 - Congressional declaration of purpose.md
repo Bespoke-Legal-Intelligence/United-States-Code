@@ -12,7 +12,7 @@ The purposes of this chapter are to—
 
 #### Amendments
 
-1981—Pub. L. 97–98 reenacted section without change.
+<b>1981</b>—Pub. L. 97–98 reenacted section without change.
 
 #### Effective Date of 1981 Amendment
 

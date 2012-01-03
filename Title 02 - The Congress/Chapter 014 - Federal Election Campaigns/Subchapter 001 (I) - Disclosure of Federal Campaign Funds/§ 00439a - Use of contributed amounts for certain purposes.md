@@ -52,7 +52,7 @@ A contribution accepted by a candidate, and any other donation received by an in
 
 &emsp;&emsp;(A) the aircraft is operated by an air carrier or commercial operator certificated by the Federal Aviation Administration and the flight is required to be conducted under air carrier safety rules, or, in the case of travel which is abroad, by an air carrier or commercial operator certificated by an appropriate foreign civil aviation authority and the flight is required to be conducted under air carrier safety rules; or
 
-&emsp;&emsp;(B) the candidate, the authorized committee, or other political committee pays to the owner, lessee, or other person who provides the airplane the pro rata share of the fair market value of such flight (as determined by dividing the fair market value of the normal and usual charter fare or rental charge for a comparable plane of comparable size by the number of candidates on the flight) within a commercially reasonable time frame after the date on which the flight is taken.
+&emsp;&emsp;(B) the candidate, the authorized committee, or other political committee pays to the owner, lessee, or other person who provides the airplane the pro rata share of the fair market value of such flight (as determined by dividing the fair market value of the normal and usual charter fare or rental chargefor a comparable plane of comparable size by the number of candidates on the flight) within a commercially reasonable time frame after the date on which the flight is taken.
 
 #### (2) House candidates
 
@@ -92,9 +92,9 @@ Another prior section 313 of Pub. L. 92–225 was renumbered section 308, and is
 
 #### Amendments
 
-2007—Subsec. (c). Pub. L. 110–81 added subsec. (c).
+<b>2007</b>—Subsec. (c). Pub. L. 110–81 added subsec. (c).
 
-2004—Subsec. (a)(5), (6). Pub. L. 108–447, which directed the amendment of section 312a(a) of the Federal Election Campaign Act of 1971 by adding pars. (5) and (6), was executed by making the amendments to this section, which is section 313 of the Federal Election Campaign Act of 1971, to reflect the probable intent of Congress.
+<b>2004</b>—Subsec. (a)(5), (6). Pub. L. 108–447, which directed the amendment of section 312a(a) of the Federal Election Campaign Act of 1971 by adding pars. (5) and (6), was executed by making the amendments to this section, which is section 313 of the Federal Election Campaign Act of 1971, to reflect the probable intent of Congress.
 
 #### Effective Date of 2007 Amendment
 

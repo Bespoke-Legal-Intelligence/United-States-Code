@@ -80,13 +80,13 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-2002—Subsec. (c). Pub. L. 107–296 added subsec. (c).
+<b>2002</b>—Subsec. (c). Pub. L. 107–296 added subsec. (c).
 
-1986—Subsec. (a)(9). Pub. L. 99–251, §301, added par. (9).
+<b>1986</b>—Subsec. (a)(9). Pub. L. 99–251, §301, added par. (9).
 
 Subsec. (b)(4). Pub. L. 99–251, §302, added par. (4).
 
-1978—Pub. L. 95–454 substituted “Functions of the Director” for “Chairman; Vice Chairman; Executive Director” in section catchline, and in text provisions relating to the functions of the Director of the Office of Personnel Management for provisions relating to the Chairman, Vice Chairman, and Executive Director of the United States Civil Service Commission.
+<b>1978</b>—Pub. L. 95–454 substituted “Functions of the Director” for “Chairman; Vice Chairman; Executive Director” in section catchline, and in text provisions relating to the functions of the Director of the Office of Personnel Management for provisions relating to the Chairman, Vice Chairman, and Executive Director of the United States Civil Service Commission.
 
 #### Effective Date of 2002 Amendment
 

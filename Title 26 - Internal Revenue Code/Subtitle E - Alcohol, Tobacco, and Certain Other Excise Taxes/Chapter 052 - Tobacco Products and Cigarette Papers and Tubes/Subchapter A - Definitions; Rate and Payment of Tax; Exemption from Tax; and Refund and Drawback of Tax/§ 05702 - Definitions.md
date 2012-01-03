@@ -36,7 +36,7 @@ When used in this chapter—
 
 #### (g) Manufacturer of cigarette papers and tubes
 
-“Manufacturer of cigarette papers and tubes” means any person who manufactures cigarette paper, or makes up cigarette paper into tubes, except for his own personal use or consumption.
+“Manufacturer of cigarette papers and tubes” means any person who manufactures cigarettepaper, or makes up cigarette paper into tubes, except for his own personal use or consumption.
 
 #### (h) Export warehouse
 
@@ -120,7 +120,7 @@ Subsec. (g). Pub. L. 106–554, §1(a)(7) \[title III, §315(a)(2)(B)\], redesig
 
 Subsec. (h). Pub. L. 106–554, §1(a)(7) \[title III, §315(a)(2)(B)\], redesignated subsec. (i) as (h). Former subsec. (h) redesignated (g).
 
-Pub. L. 106–554, §1(a)(7) \[title III, §315(a)(2)(A)\], amended heading and text of subsec. (h) generally. Prior to amendment, text read as follows: “ ‘Manufacturer of cigarette papers and tubes’ means any person who makes up cigarette paper into books or sets containing more than 25 papers each, or into tubes, except for his own personal use or consumption.”
+Pub. L. 106–554, §1(a)(7) \[title III, §315(a)(2)(A)\], amended heading and text of subsec. (h) generally. Prior to amendment, text read as follows: “ ‘Manufacturer of cigarette papers and tubes’ means any personwho makes up cigarette paper into books or sets containing more than 25 papers each, or into tubes, except for his own personal use or consumption.”
 
 Subsecs. (i) to (p). Pub. L. 106–554, §1(a)(7) \[title III, §315(a)(2)(B)\], redesignated subsecs. (i) to (p) as (h) to (<i>o</i>), respectively.
 
@@ -134,7 +134,7 @@ Subsec. (k). Pub. L. 105–33, §9302(h)(4), inserted “under section 5704” a
 
 Subsec. (p). Pub. L. 105–33, §9302(g)(2), added subsec. (p).
 
-<b>1990</b>—Subsec. (m). Pub. L. 101–508 substituted heading for one which read: “Wholesale price” and amended text generally. Prior to amendment, text read as follows: “ ‘Wholesale price’ means the manufacturer's, or importer's, suggested delivered price at which the cigars are to be sold to retailers, inclusive of the tax imposed by this chapter or section 7652, but exclusive of any State or local taxes imposed on cigars as a commodity, and before any trade, cash, or other discounts, or any promotion, advertising, display, or similar allowances. Where the manufacturer's or importer's suggested delivered price to retailers is not adequately supported by bona fide arm's length sales, or where themanufacturer or importer has no suggested delivered price to retailers, the wholesale price shall be the price for which cigars of comparable retail price are sold to retailers in the ordinary course of trade as determined by the Secretary.”
+<b>1990</b>—Subsec. (m). Pub. L. 101–508 substituted heading for one which read: “Wholesale price” and amended text generally. Prior to amendment, text read as follows: “ ‘Wholesale price’ means the manufacturer's, or importer's, suggested delivered price at which the cigars are to be sold to retailers, inclusive of the tax imposed by this chapter or section 7652, but exclusive of any State or local taxes imposed on cigars as a commodity, and before any trade, cash, or other discounts, or any promotion, advertising, display, or similar allowances. Where the manufacturer's or importer's suggested delivered price to retailers is not adequately supported by bona fide arm's length sales, or where the manufacturer or importer has no suggested delivered price to retailers, the wholesale price shall be the price for which cigars of comparable retail price are sold to retailers in the ordinary course of trade as determined by the Secretary.”
 
 <b>1988</b>—Subsec. (c). Pub. L. 100–647, §5061(c)(1), inserted reference to pipe tobacco.
 
@@ -196,7 +196,7 @@ Subsec. (<i>o</i>). Pub. L. 85–859 redesignated former subsec. (n) as (<i>o</i
 
 Except as otherwise provided, amendment by Pub. L. 111–3 effective Apr. 1, 2009, see section 3 of Pub. L. 111–3, set out as an Effective Date note under section 1396 of Title 42, The Public Health and Welfare.
 
-Pub. L. 111–3, title VII, §702(a)(6), Feb. 4, 2009, 123 Stat. 109, provided that: “The amendments made by this subsection \[amending this section and sections 5712, 5713, 5721, 5722, 5723, and 5741 of this title\] shall take effect on April 1, 2009.”
+Pub. L. 111–3, title VII, §702(a)(6), Feb. 4, 2009, 123 Stat. 109, provided that: “The amendments made by this subsection \[amending this section and sections5712, 5713, 5721, 5722, 5723, and 5741 of this title\] shall take effect on April 1, 2009.”
 
 Pub. L. 111–3, title VII, §702(d)(2), Feb. 4, 2009, 123 Stat. 110, provided that: “The amendment made by this subsection \[amending this section\] shall apply to articles removed (as defined in section 5702(j) of the Internal Revenue Code of 1986) after March 31, 2009.”
 
@@ -214,7 +214,7 @@ Amendment by Pub. L. 101–508 applicable with respect to articles removed after
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 applicable to pipe tobacco removed, within the meaning of subsec. (k) ofthis section, after Dec. 31, 1988, with transition rule, see section 5061(d) of Pub. L. 100–647, set out as a note under section 5701 of this title.
+Amendment by Pub. L. 100–647 applicable to pipe tobacco removed, within the meaning of subsec. (k) of this section, after Dec. 31, 1988, with transition rule, see section 5061(d) of Pub. L. 100–647, set out as a note under section 5701 of this title.
 
 #### Effective Date of 1986 Amendment
 

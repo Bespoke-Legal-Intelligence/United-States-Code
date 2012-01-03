@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) to deploy cost-effective technologies and practices; and
 
-&emsp;&emsp;(B) to achieve operational cost savings, through the application of cost-effective technologies and practices, as verified by the Administrator.
+&emsp;&emsp;(B) to achieve operational cost savings, through the application of cost-effectivetechnologies and practices, as verified by the Administrator.
 
 #### (2) Cost sharing
 

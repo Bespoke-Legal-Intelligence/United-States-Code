@@ -22,7 +22,7 @@ For purposes of this chapter, the term—
 
 &emsp;(6) “Hui Malama I Na Kupuna O Hawai'i Nei” means the nonprofit, Native Hawaiian organization incorporated under the laws of the State of Hawaii by that name on April 17, 1989, for the purpose of providing guidance and expertise in decisions dealing with Native Hawaiian cultural issues, particularly burial issues.
 
-&emsp;(7) “Indian tribe” means any tribe, band, nation, or other organized group or community of Indians, including any Alaska Native village (as defined in, or established pursuant to, the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\]), which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
+&emsp;(7) “Indian tribe” means any tribe, band, nation, or other organized group or community of Indians, including any Alaska Native village (as defined in, or established pursuant to, the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\]), which is recognized as eligible for the special programs and servicesprovided by the United States to Indians because of their status as Indians.
 
 &emsp;(8) “museum” means any institution or State or local government agency (including any institution of higher learning) that receives Federal funds and has possession of, or control over, Native American cultural items. Such term does not include the Smithsonian Institution or any other Federal agency.
 

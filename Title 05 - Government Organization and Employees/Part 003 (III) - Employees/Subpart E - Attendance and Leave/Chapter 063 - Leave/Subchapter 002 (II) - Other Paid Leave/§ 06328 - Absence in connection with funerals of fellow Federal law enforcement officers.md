@@ -10,5 +10,5 @@ Section 642 of Pub. L. 103–329, which directed that this section be added “f
 
 #### Amendments
 
-1999—Pub. L. 106–56 renumbered section 6327 of this title as this section.
+<b>1999</b>—Pub. L. 106–56 renumbered section 6327 of this title as this section.
 

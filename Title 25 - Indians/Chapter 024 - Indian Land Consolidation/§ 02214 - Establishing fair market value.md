@@ -1,6 +1,6 @@
 ### §2214. Establishing fair market value
 
-For purposes of this chapter, the Secretary may develop a system for establishing the fair market value of various types of lands and improvements. Such a system may include determinations of fair market value based on appropriate geographic units as determined by the Secretary. Such a system may govern the amounts offered for the purchase of interests in trust or restricted land under this chapter.
+For purposes of this chapter, the Secretary may develop a system for establishing the fair market value of various types of lands and improvements. Such a system may include determinations of fair market value based on appropriate geographic units as determined by theSecretary. Such a system may govern the amounts offered for the purchase of interests in trust or restricted land under this chapter.
 
 (Pub. L. 97–459, title II, §215, as added Pub. L. 106–462, title I, §103(6), Nov. 7, 2000, 114 Stat. 2002; amended Pub. L. 108–374, §6(a)(7), Oct. 27, 2004, 118 Stat. 1802; Pub. L. 109–157, §6, Dec. 30, 2005, 119 Stat. 2952.)
 

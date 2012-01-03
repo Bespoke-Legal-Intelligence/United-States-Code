@@ -26,7 +26,7 @@ Another section 1051 was renumbered section 1032 of this title.
 
 <b>2008</b>—Pub. L. 110–417, in section catchline substituted “Multilateral, bilateral, or regional” for “Bilateral or regional”, in subsec. (a) substituted “a multilateral, bilateral,” for “a bilateral”, in subsec. (b)(1) substituted “to, from, and” for “to and” and “multilateral, bilateral,” for “bilateral”, in subsec. (b)(2) substituted “multilateral, bilateral,” for “bilateral”, and added subsec. (e).
 
-<b>2006</b>—Subsec. (b)(1). Pub. L. 109–163 inserted “to and” after “in connection with travel” and substituted “in which the bilateral or regional conference, seminar, or similar meeting for which expenses are authorized is located” for “in which the developing country is located”.
+<b>2006</b>—Subsec. (b)(1). Pub. L. 109–163 inserted “to and” after “in connection with travel” and substituted “inwhich the bilateral or regional conference, seminar, or similar meeting for which expenses are authorized is located” for “in which the developing country is located”.
 
 <b>2002</b>—Subsec. (b)(1). Pub. L. 107–314, §1202(a)(1), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
 

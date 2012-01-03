@@ -2,7 +2,7 @@
 
 #### (a) Review of State plans
 
-In reviewing the State plan submitted by a State educational agency under section 11432(g) of this title, the Secretary shall use a peer review process and shall evaluate whether State laws, policies, and practices described in such plan adequately address the problems of homeless children and youths relating to access to education and placement as described in such plan.
+In reviewing the State plan submitted by a State educational agency under section 11432(g)of this title, the Secretary shall use a peer review process and shall evaluate whether State laws, policies, and practices described in such plan adequately address the problems of homeless children and youths relating to access to education and placement as described in such plan.
 
 #### (b) Technical assistance
 
@@ -65,8 +65,4 @@ Not later than 4 years after January 8, 2002, the Secretary shall prepare and su
 A prior section 11434, Pub. L. 100–77, title VII, §724, as added Pub. L. 103–382, title III, §323, Oct. 20, 1994, 108 Stat. 3964, related to Secretarial responsibilities, prior to the general amendment of this part by Pub. L. 107–110.
 
 Another prior section 11434, Pub. L. 100–77, title VII, §724, July 22, 1987, 101 Stat. 528; Pub. L. 101–645, title VI, §612(d), Nov. 29, 1990, 104 Stat. 4742, related to national responsibilities, prior to the general amendment of this part by Pub. L. 103–382.
-
-#### Change of Name
-
-Committee on Education and the Workforce of the House of Representatives changed to Committee on Education and Labor of the House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

@@ -6,7 +6,7 @@ The President is requested to issue each year a proclamation—
 
 &emsp;(2) inviting the chief executive officers of the States, territories, and possessions of the United States to issue proclamations designating February as American Heart Month; and
 
-&emsp;(3) urging the people of the United States to recognize the nationwide problem of heart and blood vessel diseases and to support all essential programs required to solve the problem.
+&emsp;(3) urging the people of the United States to recognize the nationwide problem of heart andblood vessel diseases and to support all essential programs required to solve the problem.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1254.)
 

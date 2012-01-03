@@ -10,7 +10,7 @@
 
 &emsp;(C) a combination of the ways referred to in clauses (A) and (B) of this paragraph.
 
-(2) The official designated in section 1513 of this title to make apportionments shall apportion an appropriation under paragraph (1) of this subsection as the official considers appropriate. Except as specified by the official, an amount apportioned is available for obligation under the terms of the appropriation on a cumulative basis unless reapportioned.
+(2) The official designated in section 1513 of this title to make apportionments shall apportion an appropriation under paragraph (1) of thissubsection as the official considers appropriate. Except as specified by the official, an amount apportioned is available for obligation under the terms of the appropriation on a cumulative basis unless reapportioned.
 
 (c)(1) In apportioning or reapportioning an appropriation, a reserve may be established only—
 

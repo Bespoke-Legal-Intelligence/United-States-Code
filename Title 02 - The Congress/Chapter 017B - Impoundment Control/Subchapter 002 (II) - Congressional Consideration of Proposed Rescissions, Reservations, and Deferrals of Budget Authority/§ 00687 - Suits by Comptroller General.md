@@ -10,9 +10,9 @@ Section was formerly classified to section 1406 of Title 31 prior to the general
 
 #### Amendments
 
-1987—Pub. L. 100–119 substituted “If, under this chapter” for “If, under section 683(b) or 684(b) of this title”.
+<b>1987</b>—Pub. L. 100–119 substituted “If, under this chapter” for “If, under section 683(b) or 684(b) of this title”.
 
-1984—Pub. L. 98–620 struck out provision requiring that the courts give precedence to civil actions brought under this section, and to appeals and writs from decisions in such actions, over all other civil actions, appeals, and writs.
+<b>1984</b>—Pub. L. 98–620 struck out provision requiring that the courts give precedence to civil actions brought under this section, and to appeals and writs from decisions in such actions, over all other civil actions, appeals, and writs.
 
 #### Effective Date of 1984 Amendment
 

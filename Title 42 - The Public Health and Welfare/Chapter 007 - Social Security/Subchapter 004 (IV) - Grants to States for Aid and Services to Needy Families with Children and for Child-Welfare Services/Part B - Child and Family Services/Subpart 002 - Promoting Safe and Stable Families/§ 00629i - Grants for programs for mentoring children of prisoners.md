@@ -282,7 +282,7 @@ In awarding grants under this section, the Secretary shall take into considerati
 
 #### (9) No effect on eligibility for other Federal assistance
 
-&emsp;A voucher provided to a family under the demonstration project conducted under this subsection shall be disregarded for purposes of determining the eligibility for, or the amountof, any other Federal or federally-supported assistance for the family.
+&emsp;A voucher provided to a family under the demonstration project conducted under this subsection shall be disregarded for purposes of determining the eligibility for, or the amount of, any other Federal or federally-supported assistance for the family.
 
 #### (h) Independent evaluation; reports
 
@@ -306,7 +306,7 @@ In awarding grants under this section, the Secretary shall take into considerati
 
 #### (1) Limitations on authorization of appropriations
 
-&emsp;To carry out this section, there are authorized to be appropriated to the Secretary such sums as may be necessary for fiscal years 2007 through 2011.
+&emsp;To carry out this section, there are authorized to be appropriated to the Secretary suchsums as may be necessary for fiscal years 2007 through 2011.
 
 #### (2) Reservations
 

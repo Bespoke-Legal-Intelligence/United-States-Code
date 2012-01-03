@@ -22,7 +22,7 @@ In subsec. (c), “subchapter I of chapter I of title 5” substituted for refer
 
 “Secretary of Labor” and “Secretary” substituted for “Federal Security Administrator” and “Administrator”, respectively, in text, pursuant to Reorg. Plan No. 19 of 1950, §1, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1271, which transferred functions of Federal Security Administrator to Secretary of Labor.
 
-Previously, “Federal Security Administrator” and “Administrator” substituted for “United States Employees’ Compensation Commission” and “Commission” pursuant to Reorg. Plan No. 2 of 1946, §3, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095, which abolished United States Employees’ Compensation Commission and transferred its functions to Federal Security Administrator.
+Previously, “Federal Security Administrator” and “Administrator” substituted for “United States Employees’ Compensation Commission” and “Commission” pursuant to Reorg. Plan No. 2 of 1946, §3, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095, which abolishedUnited States Employees’ Compensation Commission and transferred its functions to Federal Security Administrator.
 
 #### Admission of Alaska and Hawaii to Statehood
 

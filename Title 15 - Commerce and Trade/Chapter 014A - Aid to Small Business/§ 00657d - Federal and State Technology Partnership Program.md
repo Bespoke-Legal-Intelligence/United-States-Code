@@ -48,7 +48,7 @@ The Administrator shall establish a program to be known as the Federal and State
 
 #### (1) Joint review
 
-&emsp;In carrying out the FAST program under this section, the Administrator and the SBIR program managers at the National Science Foundation and the Department of Defense shall jointly review proposals submitted by applicants and may make awards or enter into cooperative agreements under this section based on the factors for consideration set forth in paragraph (2), in order to enhance or develop in a State—
+&emsp;In carrying out the FAST program under this section, the Administrator and the SBIR program managers at the National Science Foundation and the Department of Defense shall jointly review proposals submitted by applicants and may make awards or enter into cooperative agreements under this section based on the factors for consideration set forthin paragraph (2), in order to enhance or develop in a State—
 
 &emsp;&emsp;(A) technology research and development by small business concerns;
 
@@ -82,7 +82,7 @@ The Administrator shall establish a program to be known as the Federal and State
 
 &emsp;In making awards or entering into cooperative agreements under this section, the Administrator and the SBIR program managers referred to in paragraph (1)—
 
-&emsp;&emsp;(A) may only consider proposals by applicants that intend to use a portion of the Federal assistance provided under this section to provide outreach, financial support,or technical assistance to technology-based small business concerns participating in or interested in participating in the SBIR program; and
+&emsp;&emsp;(A) may only consider proposals by applicants that intend to use a portion of the Federal assistance provided under this section to provide outreach, financial support, or technical assistance to technology-based small business concerns participating in or interested in participating in the SBIR program; and
 
 &emsp;&emsp;(B) shall consider, at a minimum—
 
@@ -236,7 +236,7 @@ Subsec. (c)(4). Pub. L. 107–50, §8(b), inserted at end “The Administrator s
 
 Committee on Small Business of Senate changed to Committee on Small Business and Entrepreneurship of Senate. See Senate Resolution No. 123, One Hundred Seventh Congress, June 29, 2001.
 
-Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Findings
 

@@ -28,7 +28,7 @@
 
 #### (b) Recruitment and fellowship programs
 
-(1) The Secretary may conduct at schools of medicine, osteopathic medicine, dentistry, and, as appropriate, nursing and other schools of the health professions, including schools at which graduate programs of behavioral and mental health are offered, and at entities which train allied health personnel, recruiting programs for the Corps, the Scholarship Program, and the Loan Repayment Program. Such recruiting programs shall include efforts to recruit individuals who will serve in the Corps other than pursuant to obligated service under the Scholarship or Loan Repayment Program.
+(1) The Secretary may conduct at schools of medicine, osteopathic medicine, dentistry, and, as appropriate, nursing and other schools of the health professions, including schools at which graduate programs of behavioral and mental health are offered, and at entities which trainallied health personnel, recruiting programs for the Corps, the Scholarship Program, and the Loan Repayment Program. Such recruiting programs shall include efforts to recruit individuals who will serve in the Corps other than pursuant to obligated service under the Scholarship or Loan Repayment Program.
 
 (2) In the case of physicians, dentists, behavioral and mental health professionals, certified nurse midwives, certified nurse practitioners, and physician assistants who have an interest and a commitment to providing primary health care, the Secretary may establish fellowship programs to enable such health professionals to gain exposure to and expertise in the delivery of primary health services in health professional shortage areas. To the maximum extent practicable, the Secretary shall ensure that any such programs are established in conjunction with accredited residency programs, and other training programs, regarding such health professions.
 
@@ -44,7 +44,7 @@
 
 (1) The Secretary may, under regulations promulgated by the Secretary, adjust the monthly pay of each member of the Corps (other than a member described in subsection (a)(1)(C) of this section) who is directly engaged in the delivery of health services in a health professional shortage area as follows:
 
-&emsp;(A) During the first 36 months in which such a member is so engaged in the delivery ofhealth services, his monthly pay may be increased by an amount which when added to the member's monthly pay and allowances will provide a monthly income competitive with the average monthly income from a practice of an individual who is a member of the profession of the Corps member, who has equivalent training, and who has been in practice for a period equivalent to the period during which the Corps member has been in practice.
+&emsp;(A) During the first 36 months in which such a member is so engaged in the delivery of health services, his monthly pay may be increased by an amount which when added to the member's monthly pay and allowances will provide a monthly income competitive with the average monthly income from a practice of an individual who is a member of the profession of the Corps member, who has equivalent training, and who has been in practice for a period equivalent to the period during which the Corps member has been in practice.
 
 &emsp;(B) During the period beginning upon the expiration of the 36 months referred to in subparagraph (A) and ending with the month in which the member's monthly pay and allowances are equal to or exceed the monthly income he received for the last of such 36 months, the member may receive in addition to his monthly pay and allowances an amount which when added to such monthly pay and allowances equals the monthly income he received for such last month.
 
@@ -88,7 +88,7 @@ The Secretary shall ensure that adequate staff is provided to the Service with r
 
 &emsp;(B) the Secretary has determined that assignment of a health professional who would serve half time would be appropriate for the area where the entity is located;
 
-&emsp;(C) a Corps member who is required to perform obligated service has agreed in writing tobe assigned for half-time service to an entity described in subparagraph (A);
+&emsp;(C) a Corps member who is required to perform obligated service has agreed in writing to be assigned for half-time service to an entity described in subparagraph (A);
 
 &emsp;(D) the entity and the Corps member agree in writing that the Corps member will perform half-time clinical practice;
 
@@ -152,7 +152,7 @@ Subsec. (b)(1). Pub. L. 107–251, §301(a)(2)(A), substituted “health profess
 
 Subsec. (b)(2). Pub. L. 107–251, §301(a)(2)(B), inserted “behavioral and mental health professionals,” after “dentists,”.
 
-Subsec. (c). Pub. L. 107–251, §301(a)(3), added subsec. (c) and struck out former subsec. (c) which read as follows: “The Secretary may reimburse applicants for positions in the Corps (including individuals consideringentering into a written agreement pursuant to section 254n of this title) for actual and reasonable expenses incurred in traveling to and from their places of residence to a health professional shortage area (designated under section 254e of this title) in which they may be assigned for the purpose of evaluating such area with regard to being assigned in such area. The Secretary shall not reimburse an applicant for more than one such trip.”
+Subsec. (c). Pub. L. 107–251, §301(a)(3), added subsec. (c) and struck out former subsec. (c) which read as follows: “The Secretary may reimburse applicants for positions in the Corps (including individuals considering entering into a written agreement pursuant to section 254n of this title) for actual and reasonable expenses incurred in traveling to and from their places of residence to a health professional shortage area (designated under section 254e of this title) in which they may be assigned for the purpose of evaluating such area with regard to being assigned in such area. The Secretary shall not reimburse an applicant for more than one such trip.”
 
 Subsecs. (i), (j). Pub. L. 107–251, §301(b), added subsec. (i) and redesignated former subsec. (i) as (j).
 

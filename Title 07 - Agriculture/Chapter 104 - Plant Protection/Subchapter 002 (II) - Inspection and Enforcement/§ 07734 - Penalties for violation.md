@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;A person that knowingly violates this chapter, or knowingly forges, counterfeits, or, without authority from the Secretary, uses, alters, defaces, or destroys any certificate, permit, or other document provided forin this chapter shall be fined under title 18, imprisoned not more than 1 year, or both.
+&emsp;&emsp;A person that knowingly violates this chapter, or knowingly forges, counterfeits, or, without authority from the Secretary, uses, alters, defaces, or destroys any certificate, permit, or other document provided for in this chapter shall be fined under title 18, imprisoned not more than 1 year, or both.
 
 #### (B) Movement
 
@@ -14,7 +14,7 @@
 
 #### (2) Multiple violations
 
-&emsp;On the second and any subsequent conviction of a person of a violation of this chapter under paragraph (1), the person shall be fined under title 18, imprisoned not more than 10 years, or both.
+&emsp;On the second and any subsequent conviction of a person of a violation of this chapter under paragraph (1), the person shall be finedunder title 18, imprisoned not more than 10 years, or both.
 
 #### (b) Civil penalties
 
@@ -64,9 +64,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (b)(1)(A). Pub. L. 110–246, §10203(d), substituted “$500,000 for all violations adjudicated in a single proceeding if the violations do not include a willful violation, and $1,000,000 for all violations adjudicated in a single proceeding if the violations include a willful violation” for “and $500,000 for all violations adjudicated in a single proceeding”.
+<b>2008</b>—Subsec. (b)(1)(A). Pub. L. 110–246, §10203(d), substituted “$500,000 for all violations adjudicated in a single proceeding if the violations do not include a willful violation, and $1,000,000 for all violations adjudicated in a single proceeding if the violations include a willful violation” for “and $500,000 for all violations adjudicated in a single proceeding”.
 
-2002—Subsec. (a). Pub. L. 107–171 added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “Any person that knowingly violates this chapter, or that knowingly forges, counterfeits, or, without authority from the Secretary, uses, alters, defaces, or destroys any certificate, permit, or other document provided for in this chapter shall be guilty of a misdemeanor, and, upon conviction, shall be fined in accordance with title 18, imprisoned for a period not exceeding 1 year, or both.”
+<b>2002</b>—Subsec. (a). Pub. L. 107–171 added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “Any person that knowingly violates this chapter, or that knowingly forges, counterfeits, or, without authority from the Secretary, uses, alters, defaces, or destroys any certificate, permit, or other document provided for in this chapter shall be guilty of a misdemeanor, and, upon conviction, shall be fined in accordance with title 18, imprisoned for a period not exceeding 1 year, or both.”
 
 #### Effective Date of 2008 Amendment
 

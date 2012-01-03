@@ -28,7 +28,7 @@ Notwithstanding the foregoing provisions of this section, the Administrator shal
 
 Notwithstanding the foregoing provisions of this section, the Administrator may issue an experimental use permit for a pesticide to any public or private agricultural research agency or educational institution which applies for such permit. Each permit shall not exceed more than a one-year period or such other specific time as the Administrator may prescribe. Such permit shall be issued under such terms and conditions restricting the use of the pesticide as the Administrator may require. Such pesticide may be used only by such research agency or educational institution for purposes of experimentation.
 
-(June 25, 1947, ch. 125, §5, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 983; amended Pub. L. 94–140, §10, Nov. 28, 1975, 89 Stat. 754; Pub. L. 95–396, §10, Sept. 30, 1978, 92 Stat. 828; Pub. L. 100–532, title VIII, §801(d), (q)(1)(D), Oct. 25, 1988, 102 Stat. 2681, 2683; Pub. L. 102–237, title X, §1006(b)(1), Dec. 13, 1991, 105 Stat. 1895.)
+(June 25, 1947, ch. 125, §5, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 983; amended Pub. L.94–140, §10, Nov. 28, 1975, 89 Stat. 754; Pub. L. 95–396, §10, Sept. 30, 1978, 92 Stat. 828; Pub. L. 100–532, title VIII, §801(d), (q)(1)(D), Oct. 25, 1988, 102 Stat. 2681, 2683; Pub. L. 102–237, title X, §1006(b)(1), Dec. 13, 1991, 105 Stat. 1895.)
 
 #### Prior Provisions
 
@@ -36,17 +36,17 @@ A prior section 5 of act June 25, 1947, was classified to section 135c of this t
 
 #### Amendments
 
-1991—Subsecs. (b), (e), (f). Pub. L. 102–237 substituted “the Administrator” for “he” before “may” in subsec. (b), before “finds” in subsec. (e), and before “may” in subsec. (f).
+<b>1991</b>—Subsecs. (b), (e), (f). Pub. L. 102–237 substituted “the Administrator” for “he” before “may” in subsec. (b), before “finds” in subsec. (e), and before “may” in subsec. (f).
 
-1988—Subsec. (f). Pub. L. 100–532, §801(q)(1)(D), substituted “136i” for “136b”.
+<b>1988</b>—Subsec. (f). Pub. L. 100–532, §801(q)(1)(D), substituted “136i” for “136b”.
 
 Subsec. (g). Pub. L. 100–532, §801(d), substituted “require. Such pesticide” for “require: <i>Provided</i>, That such pesticide”.
 
-1978—Subsec. (a). Pub. L. 95–396, §10(1), provided for review of application, issuance or nonissuance of experimental use permit within prescribed period including reasons for denial, correction of application, and waiver of conditions and substituted provision for filing an application for experimental use permit at any time for prior provision for filing at the time of or before or after an application for registration is filed.
+<b>1978</b>—Subsec. (a). Pub. L. 95–396, §10(1), provided for review of application, issuance or nonissuance of experimental use permit within prescribed period including reasons for denial, correction of application, and waiver of conditions and substituted provision for filing an application for experimental use permit at any time for prior provision for filing at the time of or before or after an application for registration is filed.
 
 Subsec. (f). Pub. L. 95–396, §10(2), substituted in first sentence “shall” for “may” where first appearing.
 
-1975—Subsec. (g). Pub. L. 94–140 added subsec. (g).
+<b>1975</b>—Subsec. (g). Pub. L. 94–140 added subsec. (g).
 
 #### Effective Date of 1988 Amendment
 

@@ -38,7 +38,7 @@
 
 (e) The Board shall require, to the maximum extent practicable, the use of the employees who would normally have performed work in connection with a railroad line subject to a sale under this section.
 
-(f) In the case of a railroad line which carried less than 3,000,000 gross ton miles of traffic per mile in the preceding calendar year, whenever a purchasing carrier under this section petitions the Board for joint rates applicable to traffic moving over through routes in which the purchasing carrier may practicably participate, the Board shall, within 30 days after the date such petition is filed and pursuant to section 10705(a) of this title, require the establishment of reasonable joint rates and divisions over such route.
+(f) In the case of a railroad line which carried less than 3,000,000 gross ton miles of traffic per mile in the preceding calendar year, whenever a purchasing carrier under this section petitionsthe Board for joint rates applicable to traffic moving over through routes in which the purchasing carrier may practicably participate, the Board shall, within 30 days after the date such petition is filed and pursuant to section 10705(a) of this title, require the establishment of reasonable joint rates and divisions over such route.
 
 (g)(1) Any person operating a railroad line acquired under this section may elect to be exempt from any of the provisions of this part, except that such a person may not be exempt from the provisions of chapter 107 of this title with respect to transportation under a joint rate.
 
@@ -90,7 +90,7 @@ Section 10932, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1417, related to motor 
 
 Section 10933, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1418; Pub. L. 99–521, §8(f)(1), (2), Oct. 22, 1986, 100 Stat. 2996, 2997, related to authorizing abandonment of household goods freight forwarder service.
 
-Section 10934, added Pub. L. 96–454, §5(a)(1), Oct. 15, 1980, 94 Stat. 2013; amended Pub. L. 98–554, title II,§227(a)(2), Oct. 30, 1984, 98 Stat. 2852, related to household goods agents. See section 13907 of this title.
+Section 10934, added Pub. L. 96–454, §5(a)(1), Oct. 15, 1980, 94 Stat. 2013; amended Pub. L. 98–554, title II, §227(a)(2), Oct. 30, 1984, 98 Stat. 2852, related to household goods agents. See section 13907 of this title.
 
 Section 10935, added Pub. L. 97–261, §16(a), Sept. 20, 1982, 96 Stat. 1115; amended Pub. L. 103–272, §5(m)(27), July 5, 1994, 108 Stat. 1378, related to discontinuing bus transportation in one State.
 

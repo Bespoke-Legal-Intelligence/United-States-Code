@@ -226,7 +226,7 @@ Executive Order No. 12893, referred to in subsec. (f)(1), is set out as a note u
 
 <b>2005</b>—Subsec. (e). Pub. L. 109–59, §1904(a)(1), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: “For such projects as the Secretary determines advisable, plans, specifications, and estimates for proposed projects on any Federal-aid highway shall be accompanied by a value engineering analysis or other cost reduction analysis.”
 
-Subsecs. (g) to (i). Pub. L. 109–59, §1904(a)(2), added subsecs. (g) to (i) and struck out former subsecs. (g) and (h) which related to establishment of a value engineering analysis program for projects with an estimated total cost of $25,000,000 or more and requirement that recipient of assistance for a project with an estimated total cost of $1,000,000,000 or more submit an annual financial plan for the project.
+Subsecs. (g) to (i). Pub. L. 109–59, §1904(a)(2), added subsecs. (g) to (i) and struck out former subsecs. (g) and (h) which related to establishment of a value engineering analysis program for projects with an estimatedtotal cost of $25,000,000 or more and requirement that recipient of assistance for a project with an estimated total cost of $1,000,000,000 or more submit an annual financial plan for the project.
 
 <b>1998</b>—Pub. L. 105–178, §1305(a)(1), substituted “Project approval and oversight” for “Plans, specifications, and estimates” in section catchline.
 

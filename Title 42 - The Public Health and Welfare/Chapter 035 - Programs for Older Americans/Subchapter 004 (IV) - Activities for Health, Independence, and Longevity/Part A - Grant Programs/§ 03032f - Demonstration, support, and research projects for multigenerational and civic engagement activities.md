@@ -26,7 +26,7 @@ In awarding grants and entering into contracts to carry out a project described 
 
 &emsp;(1) eligible organizations with a demonstrated record of carrying out multigenerational activities or civic engagement activities;
 
-&emsp;(2) eligible organizations proposing multigenerational activity projects that will serve older individuals and communities with the greatest need (with particular attention to low-income minority individuals, older individuals with limited English proficiency, olderindividuals residing in rural areas, and low-income minority communities);
+&emsp;(2) eligible organizations proposing multigenerational activity projects that will serve older individuals and communities with the greatest need (with particular attention to low-income minority individuals, older individuals with limited English proficiency, older individuals residing in rural areas, and low-income minority communities);
 
 &emsp;(3) eligible organizations proposing civic engagement projects that will serve communities with the greatest need; and
 

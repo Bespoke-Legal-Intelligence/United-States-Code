@@ -48,7 +48,7 @@ The changes correct typographical errors.
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–201 substituted “a member described in section 1201(c) of this title” for “a member of a regular component of the armed forces entitled to basic pay, or any other member of the armed forces entitledto basic pay who has been called or ordered to active duty (other than for training under section 10148(a) of this title) for a period of more than 30 days,”.
+<b>1996</b>—Pub. L. 104–201 substituted “a member described in section 1201(c) of this title” for “a member of a regular component of the armed forces entitled to basic pay, or any other member of the armed forces entitled to basic pay who has been called or ordered to active duty (other than for training under section 10148(a) of this title) for a period of more than 30 days,”.
 
 <b>1994</b>—Pub. L. 103–337 substituted “10148(a)” for “270(b)”.
 

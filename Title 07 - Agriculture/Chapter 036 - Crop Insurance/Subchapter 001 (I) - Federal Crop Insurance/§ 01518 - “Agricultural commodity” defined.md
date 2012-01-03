@@ -14,19 +14,19 @@ A former section 1518, act Feb. 16, 1938, ch. 30, title V, §518, 52 Stat. 77, w
 
 #### Amendments
 
-2008—Pub. L. 110–246, §12033(c)(2)(B), substituted “this subchapter” for “this chapter”.
+<b>2008</b>—Pub. L. 110–246, §12033(c)(2)(B), substituted “this subchapter” for “this chapter”.
 
-2000—Pub. L. 106–224 struck out “livestock and” before “stored grain” and “under subsection (a) or (m) of section 1508 of this title” after “by the Board”.
+<b>2000</b>—Pub. L. 106–224 struck out “livestock and” before “stored grain” and “under subsection (a) or (m) of section 1508 of this title” after “by the Board”.
 
-1994—Pub. L. 103–354 substituted “(m)” for “(k)” after “subsection (a) or”.
+<b>1994</b>—Pub. L. 103–354 substituted “(m)” for “(k)” after “subsection (a) or”.
 
-1991—Pub. L. 102–237 substituted “subsection (a) or (k)” for “subsection (a) or (i)”.
+<b>1991</b>—Pub. L. 102–237 substituted “subsection (a) or (k)” for “subsection (a) or (i)”.
 
-1980—Pub. L. 96–365 extended definition of “agricultural commodity” to include tomatoes, grain sorghum, sunflowers, raisins, oranges, sweet corn, dry peas, freezing and canning peas, forage, apples, grapes, nursery crops, and aquacultural species as illustrated but not limited, excluded livestock and stored grain, substituted “sugar cane” for “sugarcane”, and inserted reference to subsec. (i) of section 1508 of this title.
+<b>1980</b>—Pub. L. 96–365 extended definition of “agricultural commodity” to include tomatoes, grain sorghum, sunflowers, raisins, oranges, sweet corn, dry peas, freezing and canning peas, forage, apples, grapes, nursery crops, and aquacultural species as illustrated but not limited, excluded livestock and stored grain, substituted “sugar cane” for “sugarcane”, and inserted reference to subsec. (i) of section 1508 of this title.
 
-1949—Act Aug. 25, 1949, amended section to correct a clerical error in citation of “subsection (a) of section 1508”.
+<b>1949</b>—Act Aug. 25, 1949, amended section to correct a clerical error in citation of “subsection (a) of section 1508”.
 
-1944—Act Dec. 23, 1944, increased scope of definition of “agricultural commodity” from “wheat or cotton” to include all crops now set out.
+<b>1944</b>—Act Dec. 23, 1944, increased scope of definition of “agricultural commodity” from “wheat or cotton” to include all crops now set out.
 
 #### Effective Date of 2008 Amendment
 

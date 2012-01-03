@@ -22,7 +22,7 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 <b>2000</b>—Subsec. (d). Pub. L. 106–429 struck out subsec. (d) which read as follows: “In furtherance of the provisions of subsection (a) of this section, any funds appropriated under subchapter I of this chapter may be transferred by the President to the International Development Association, the International Bank for Reconstruction and Development, the International Finance Corporation, the Asian Development Bank or other multilateral lending institutions and multilateral organizations in which the United States participates for the purpose of providing funds to enable any such institution or organization to make loans to foreign countries.”
 
-<b>1975</b>—Subsec. (c). Pub. L. 94–161 substituted provision for increase of Federal funds to multilateral lending institutions and multilateral organizations for making loans to foreign countries for prior provision for reduction of loans under the bilateral lending programs toattain a total amount not to exceed $100,000,000 not later than June 30, 1975.
+<b>1975</b>—Subsec. (c). Pub. L. 94–161 substituted provision for increase of Federal funds to multilateral lending institutions and multilateral organizations for making loans to foreign countries for prior provision for reduction of loans under the bilateral lending programs to attain a total amount not to exceed $100,000,000 not later than June 30, 1975.
 
 <b>1972</b>—Subsec. (a). Pub. L. 92–226, §101(c)(1), in amending subsec. (a) generally, provided for United Nations sponsorship of development assistance and substituted “may contribute” for “may, in some instances, contribute”.
 
@@ -38,7 +38,7 @@ Pub. L. 95–481, title VI, §610, Oct. 18, 1978, 92 Stat. 1602, provided that: 
 
 #### Policy With Respect to Countries Most Seriously Affected by Food Shortages; Presidential Reports to Congress
 
-Pub. L. 93–559, §55(a), Dec. 30, 1974, 88 Stat. 1819, provided that: “The United Nations has designated thirty-two countries as ‘Most Seriously Affected’ by the current economic crisis. These are countries without the internal food production capability or the foreign exchange availability to secure food to meet their immediate food requirements. The Congress calls upon the President and Secretary of State to take the following actions designed to mobilize appropriate resources to meet the food emergency:
+Pub. L. 93–559, §55(a), Dec. 30, 1974, 88 Stat. 1819, provided that: “The United Nations has designated thirty-two countries as ‘Most Seriously Affected’ by the current economic crisis. These are countries without theinternal food production capability or the foreign exchange availability to secure food to meet their immediate food requirements. The Congress calls upon the President and Secretary of State to take the following actions designed to mobilize appropriate resources to meet the food emergency:
 
 &emsp;“(1) Review and make appropriate adjustments in the level of programming of our food and fertilizer assistance programs with the aim of increasing to the maximum extent feasible the volume of food and fertilizer available to those countries most seriously affected by current food shortages.
 

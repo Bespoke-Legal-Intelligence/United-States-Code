@@ -12,7 +12,7 @@
 
 (D) If the Farm Credit Administration makes any such call and the available collateral of all such banks does not fully satisfy the liability necessitating such calls, such calls shall be made on all nondefaulting banks in proportion to each such bank's remaining assets.
 
-(E) Any System bank that, pursuant to a call by the Farm Credit Administration, makes apayment of principal or interest to the holder of any consolidated or System-wide obligation issued on behalf of another System bank shall be subrogated to all rights of the holder against such other bank to the extent of such payment.
+(E) Any System bank that, pursuant to a call by the Farm Credit Administration, makes a payment of principal or interest to the holder of any consolidated or System-wide obligation issued on behalf of another System bank shall be subrogated to all rights of the holder against such other bank to the extent of such payment.
 
 (F) On making such a call with respect to obligations issued on behalf of a System bank, the Farm Credit Administration shall appoint a receiver for the bank, which shall expeditiously liquidate or otherwise wind up the affairs of the bank.
 
@@ -32,7 +32,7 @@ Beginning 5 years after January 6, 1988, the Farm Credit Administration shall no
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–233, §303(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Each bank of the System shall be fully liable on notes, bonds, debentures, or other obligations issued by it individually, and shall be liable for the interest payments on long-term notes, bonds, debentures, or other obligations issued by other banks operating under the same subchapter of this chapter. Each bank shall also be primarily liable for the portion of any issue of consolidated or System-wide obligations made on its behalf and be jointly and severally liable for the payment of any additional sums as called upon by the Farm Credit Administration in order to make payments of interest or principal which any bank primarily liable therefor shall be unable to make. Such calls shall be made first upon the other banks operating under the same subchapter of this chapter as the defaulting bank, and second upon banks operating under other subchapters of this chapter, taking into consideration the capital, surplus, bonds, debentures, or other obligations which each may have outstanding at the time of such assessment.”
+<b>1988</b>—Subsec. (a). Pub. L. 100–233, §303(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Each bank of the System shall be fully liable on notes, bonds, debentures, or other obligations issued by it individually, and shall be liable for the interest payments on long-term notes, bonds, debentures, or other obligations issued by other banks operating under the same subchapter of this chapter. Each bank shall also be primarily liable for the portion of any issue of consolidated or System-wide obligations made on its behalf and be jointly and severally liable for the payment of any additional sums as called upon by the Farm Credit Administration in order to make payments of interest or principal which any bank primarily liable therefor shall be unable to make. Such calls shall be made first upon the other banks operating under the same subchapter of this chapter as the defaulting bank, and second upon banks operating under other subchapters of this chapter, taking into consideration the capital, surplus, bonds, debentures, or other obligations which each may have outstanding at the time of such assessment.”
 
 Subsec. (c). Pub. L. 100–233, §207(c), redesignated subsec. (d) as (c), and struck out former subsec. (c) which provided that for purposes of this part, the term “bank” included the Capital Corporation.
 
@@ -44,7 +44,7 @@ Subsec. (e). Pub. L. 100–399 redesignated subsec. (e) as (d).
 
 Pub. L. 100–233, §303(b), added subsec. (e).
 
-1985—Subsec. (b). Pub. L. 99–205, §205(f)(2), substituted “execution of” for “Governor to execute” in first sentence and struck out “by the Governor” after “shall be executed” in second sentence.
+<b>1985</b>—Subsec. (b). Pub. L. 99–205, §205(f)(2), substituted “execution of” for “Governor to execute” in first sentence and struck out “by the Governor” after “shall be executed” in second sentence.
 
 Subsecs. (c), (d). Pub. L. 99–205, §101(4), added subsec. (c) and redesignated former subsec. (c) as (d).
 

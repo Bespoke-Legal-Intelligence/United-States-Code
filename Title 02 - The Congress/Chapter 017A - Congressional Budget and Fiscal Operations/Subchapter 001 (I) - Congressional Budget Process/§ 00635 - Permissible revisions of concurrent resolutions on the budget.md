@@ -10,15 +10,15 @@ Section was formerly classified to section 1325 of Title 31 prior to the general
 
 #### Amendments
 
-1997—Pub. L. 105–33 designated subsec. (a) as entire section and struck out subsec. (a) heading “In general” and subsec. (b) heading and text. Prior to amendment, text of subsec. (b) read as follows: “The provisions of section 632(g) of this title shall apply with respect to concurrent resolutions on the budget under this section (and amendments thereto and conference reports thereon) in the same way they apply to concurrent resolutions on the budget under such section 632(g) of this title (and amendments thereto and conference reports thereon).”
+<b>1997</b>—Pub. L. 105–33 designated subsec. (a) as entire section and struck out subsec. (a) heading “In general” and subsec. (b) heading and text. Prior to amendment, text of subsec. (b) read as follows: “The provisions of section 632(g) of this title shall apply with respect to concurrent resolutions on the budget under this section (and amendments thereto and conference reports thereon) in the same way they apply to concurrent resolutions on the budget under such section 632(g) of this title (and amendments thereto and conference reports thereon).”
 
-1990—Subsecs. (b), (c). Pub. L. 101–508 redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “The provisions of section 632(i) of this title shall apply with respect to concurrent resolutions on the budget under this section (and amendments thereto and conference reports thereon) in the same way they apply to concurrent resolutions on the budget under such section 632(i) of this title (and amendments thereto and conference reports thereon).”
+<b>1990</b>—Subsecs. (b), (c). Pub. L. 101–508 redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “The provisions of section 632(i) of this title shall apply with respect to concurrent resolutions on the budget under this section (and amendments thereto and conference reports thereon) in the same way they apply to concurrent resolutions on the budget under such section 632(i) of this title (and amendments thereto and conference reports thereon).”
 
-1987—Subsec. (c). Pub. L. 100–119 added subsec. (c).
+<b>1987</b>—Subsec. (c). Pub. L. 100–119 added subsec. (c).
 
-1985—Pub. L. 99–177, in amending section generally, inserted “Permissible” before “revisions” in section catchline, designated existing provisions as subsec. (a), struck out “first” after “after the”, and added subsec. (b).
+<b>1985</b>—Pub. L. 99–177, in amending section generally, inserted “Permissible” before “revisions” in section catchline, designated existing provisions as subsec. (a), struck out “first” after “after the”, and added subsec. (b).
 
 #### Effective Date of 1985 Amendment
 
-Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, set out as an Effective and Termination Dates note under section 900 of this title.
+Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of this title prior to repeal by Pub. L. 112–25, title I, §104(a), Aug. 2, 2011, 125 Stat. 246.
 

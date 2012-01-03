@@ -18,7 +18,7 @@
 
 #### (C) Annual audits for lenders, holders, and servicers
 
-&emsp;&emsp;Each eligible lender, holder, or servicer desiring a designation under subparagraph (A) shall have an annual financial and compliance audit conducted with respect to the loan portfolio of such eligible lender, holder, or servicer, by a qualified independent organization from a list of qualified organizations identified by the Secretary and in accordance with standards established by the Secretary. The standards shall measure the lender's, holder's, or servicer's compliance with due diligence standards and shall include a defined statistical sampling technique designed to measure the performance rating of the eligible lender, holder, or servicer for the purpose of this section. Each eligible lender, holder, or servicer shall submit the audit required by this section to the Secretary.
+&emsp;&emsp;Each eligible lender, holder, or servicer desiring a designation under subparagraph (A) shall have an annual financial and compliance audit conducted with respect to the loan portfolio of such eligible lender, holder,or servicer, by a qualified independent organization from a list of qualified organizations identified by the Secretary and in accordance with standards established by the Secretary. The standards shall measure the lender's, holder's, or servicer's compliance with due diligence standards and shall include a defined statistical sampling technique designed to measure the performance rating of the eligible lender, holder, or servicer for the purpose of this section. Each eligible lender, holder, or servicer shall submit the audit required by this section to the Secretary.
 
 #### (D) Secretary's determinations
 
@@ -26,7 +26,7 @@
 
 #### (E) Quarterly compliance audit
 
-&emsp;&emsp;To maintain its status as an exceptional performer, the lender, holder, or servicer shall undergo a quarterly compliance auditat the end of each quarter (other than the quarter in which status as an exceptional performer is established through a financial and compliance audit, as described in subparagraph (C)), and submit the results of such audit to the Secretary. The compliance audit shall review compliance with due diligence requirements for the period beginning on the day after the ending date of the previous audit, in accordance with standards determined by the Secretary.
+&emsp;&emsp;To maintain its status as an exceptional performer, the lender, holder, or servicer shall undergo a quarterly compliance audit at the end of each quarter (other than the quarter in which status as an exceptional performer is established through a financial and compliance audit, as described in subparagraph (C)), and submit the results of such audit to the Secretary. The compliance audit shall review compliance with due diligence requirements for the period beginning on the day after the ending date of the previous audit, in accordance with standards determined by the Secretary.
 
 #### (F) Revocation authority
 
@@ -74,7 +74,7 @@ For purposes of this section:
 
 #### (f) Reductions in Federal reimbursements or payments for defaulting borrowers
 
-The Secretary shall, after notice and opportunity for a hearing, cause to be reduced Federal reimbursements or payments for health services under any Federal law to borrowers who are practicing their professions and have defaulted on their loans insured under this subpart inamounts up to the remaining balance of such loans. Procedures for reduction of payments under the medicare program are provided under section 1395ccc of this title. Notwithstanding such section 1395ccc of this title, any funds recovered under this subsection shall be deposited in the insurance fund established under section 292i of this title.
+The Secretary shall, after notice and opportunity for a hearing, cause to be reduced Federal reimbursements or payments for health services under any Federal law to borrowers who are practicing their professions and have defaulted on their loans insured under this subpart in amounts up to the remaining balance of such loans. Procedures for reduction of payments under the medicare program are provided under section 1395ccc of this title. Notwithstanding such section 1395ccc of this title, any funds recovered under this subsection shall be deposited in the insurance fund established under section 292i of this title.
 
 #### (g) Conditions for discharge of debt in bankruptcy
 
@@ -122,7 +122,7 @@ An institution or postgraduate training program attended by a borrower may assis
 
 #### References in Text
 
-The Federal False Claims Act, referred to in subsec. (a)(2)(J), probably means the False Claims Act which was the popular name for sections 231, 232, 233, and 235 of former Title 31, Money and Finance. Sections 231, 232, 233, and 235 were repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1084, and reenacted by the first section thereof as sections 3729 to 3731 of Title 31, Money and Finance.
+The Federal False Claims Act, referred to in subsec. (a)(2)(J), probably means the False Claims Act which was the popular name for sections 231, 232, 233, and 235 of former Title 31, Money and Finance. Sections 231, 232, 233, and 235 were repealed by Pub. L. 97–258, §5(b),Sept. 13, 1982, 96 Stat. 1084, and reenacted by the first section thereof as sections 3729 to 3731 of Title 31, Money and Finance.
 
 #### Prior Provisions
 

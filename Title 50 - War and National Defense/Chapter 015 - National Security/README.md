@@ -84,7 +84,7 @@
 | [404f.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000404f%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93458%2C%20title%20I%2C%20%C2%A71075%2C%20Dec.%2017%2C%202004%2C%20118%20Stat.%203694.md) | Repealed. |
 | [404g.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000404g%20-%20Restrictions%20on%20intelligence%20sharing%20with%20United%20Nations.md) | Restrictions on intelligence sharing with United Nations. |
 | [404h.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000404h%20-%20Detail%20of%20intelligence%20community%20personnel%E2%80%94Intelligence%20Community%20Assignment%20Program.md) | Detail of intelligence community personnel—Intelligence Community Assignment Program. |
-| 404h–1. | Detail of other personnel. |
+| 404h–1. | Non-reimbursable detail of other personnel. |
 | [404i.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000404i%20-%20Additional%20annual%20reports%20from%20the%20Director%20of%20National%20Intelligence.md) | Additional annual reports from the Director of National Intelligence. |
 | 404i–1. | Repealed. |
 | [404j.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000404j%20-%20Limitation%20on%20establishment%20or%20operation%20of%20diplomatic%20intelligence%20support%20centers.md) | Limitation on establishment or operation of diplomatic intelligence support centers. |
@@ -140,6 +140,7 @@
 | 415a–8. | Critical cost growth in major systems. |
 | 415a–9. | Future budget projections. |
 | 415a–10. | Reports on security clearances. |
+| 415a–11. | Summary of intelligence relating to terrorist recidivism of detainees held at United States Naval Station, Guantanamo Bay, Cuba. |
 | [415b.](Subchapter%20003%20%28III%29%20-%20Accountability%20for%20Intelligence%20Activities/%C2%A7%2000415b%20-%20Dates%20for%20submittal%20of%20various%20annual%20and%20semiannual%20reports%20to%20the%20congressional%20intelligence%20committees.md) | Dates for submittal of various annual and semiannual reports to the congressional intelligence committees. |
 | [415c.](Subchapter%20003%20%28III%29%20-%20Accountability%20for%20Intelligence%20Activities/%C2%A7%2000415c%20-%20Availability%20to%20public%20of%20certain%20intelligence%20funding%20information.md) | Availability to public of certain intelligence funding information. |
 | [415d.](Subchapter%20003%20%28III%29%20-%20Accountability%20for%20Intelligence%20Activities/%C2%A7%2000415d%20-%20Certification%20of%20compliance%20with%20oversight%20requirements.md) | Certification of compliance with oversight requirements. |

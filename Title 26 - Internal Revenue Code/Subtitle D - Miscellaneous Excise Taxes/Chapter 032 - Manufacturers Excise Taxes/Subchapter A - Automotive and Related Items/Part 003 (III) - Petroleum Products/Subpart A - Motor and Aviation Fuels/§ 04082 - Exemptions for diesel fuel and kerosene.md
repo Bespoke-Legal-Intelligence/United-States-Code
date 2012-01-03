@@ -84,7 +84,7 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 &emsp;&emsp;<b>For tax on train and certain bus uses of fuel purchased tax-free, see subsections (a)(1) and (d)(3) of section 4041.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 483; Pub. L. 86–342, title II, §201(e)(1), (2), Sept. 21, 1959, 73 Stat. 615; Pub. L. 89–44, title VIII, §802(a)(1), (b)(1), June 21, 1965, 79 Stat. 159; Pub. L. 91–258, title II, §205(c)(6), May 21, 1970, 84 Stat. 242; Pub. L. 98–369, div. A, title VII, §§733(a), 734(c)(1), July 18, 1984, 98 Stat. 977, 979; Pub. L. 99–514, title XVII, §1703(a), Oct. 22, 1986, 100 Stat. 2775; Pub. L. 103–66, title XIII, §13242(a), Aug. 10, 1993, 107 Stat. 517; Pub. L. 104–188, title I, §1801(a), Aug. 20, 1996, 110 Stat. 1891; Pub. L. 105–34, title X, §1032(c)(1), (2), (e)(3)(A), Aug. 5, 1997, 111 Stat. 933, 935; Pub. L. 105–206, title VI, §6010(h)(3), (4), July 22, 1998, 112 Stat. 815; Pub. L. 108–357, title II, §241(a)(2)(B), title VIII, §§851(d)(2), 853(a)(5),854(a), 857(a), Oct. 22, 2004, 118 Stat. 1438, 1608, 1611, 1615, 1617; Pub. L. 109–58, title XIII, §1362(b)(1), Aug. 8, 2005, 119 Stat. 1059; Pub. L. 109–59, title XI, §11161(a)(4)(A), (E), (b)(3)(C), Aug. 10, 2005, 119 Stat. 1970, 1971; Pub. L. 109–432, div. A, title IV, §420(b)(2), Dec. 20, 2006, 120 Stat. 2969; Pub. L. 110–172, §§6(d)(2)(B), (C), 11(a)(28), Dec. 29, 2007, 121 Stat. 2480, 2481, 2487.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 483; Pub. L. 86–342, title II, §201(e)(1), (2), Sept. 21, 1959, 73 Stat. 615; Pub. L. 89–44, title VIII, §802(a)(1), (b)(1), June 21, 1965, 79 Stat. 159; Pub. L. 91–258, title II, §205(c)(6), May 21, 1970, 84 Stat. 242; Pub. L. 98–369, div. A, title VII, §§733(a), 734(c)(1), July 18, 1984, 98 Stat. 977, 979; Pub. L. 99–514, title XVII, §1703(a), Oct. 22, 1986, 100 Stat. 2775; Pub. L. 103–66, title XIII, §13242(a), Aug. 10, 1993, 107 Stat. 517; Pub. L. 104–188, title I, §1801(a), Aug. 20, 1996, 110 Stat. 1891; Pub. L. 105–34, title X, §1032(c)(1), (2), (e)(3)(A), Aug. 5, 1997, 111 Stat. 933, 935; Pub. L. 105–206, title VI, §6010(h)(3), (4), July 22, 1998, 112 Stat. 815; Pub. L. 108–357, title II, §241(a)(2)(B), title VIII, §§851(d)(2), 853(a)(5), 854(a), 857(a), Oct. 22, 2004, 118 Stat. 1438, 1608, 1611, 1615, 1617; Pub. L. 109–58, title XIII, §1362(b)(1), Aug. 8, 2005, 119 Stat. 1059; Pub. L. 109–59, title XI, §11161(a)(4)(A), (E), (b)(3)(C), Aug. 10, 2005, 119 Stat. 1970, 1971; Pub. L. 109–432, div. A, title IV, §420(b)(2), Dec. 20, 2006, 120 Stat. 2969; Pub. L. 110–172, §§6(d)(2)(B), (C), 11(a)(28), Dec. 29, 2007, 121 Stat. 2480, 2481, 2487.)
 
 #### References in Text
 
@@ -120,7 +120,7 @@ Subsec. (b). Pub. L. 109–59, §11161(a)(4)(A), struck out “aviation-grade”
 
 Subsec. (d)(2)(B). Pub. L. 109–59, §11161(b)(3)(C), substituted “section 6427(<i>l</i>)(6)(B)” for “section 6427(<i>l</i>)(5)(B)”.
 
-Subsec. (e). Pub. L. 109–59, §11161(a)(4)(E), in heading substituted “Kerosene removed into an aircraft” for “Aviation-grade kerosene” and in text struck out “aviation-grade” before “kerosene”, substituted “section 4081(a)(2)(A)(iii)” for “section 4081(a)(2)(A)(iv)”, and inserted at end “For purposes of this subsection, any removal described in section 4081(a)(3)(A) shall be treated as a removal from a terminal but only if such terminal is located within a secure area of an airport.”
+Subsec. (e). Pub. L. 109–59, §11161(a)(4)(E), in heading substituted “Kerosene removed into an aircraft” for “Aviation-grade kerosene” and in text struck out “aviation-grade” before “kerosene”, substituted “section 4081(a)(2)(A)(iii)” for “section 4081(a)(2)(A)(iv)”, and inserted at end “For purposes of this subsection,any removal described in section 4081(a)(3)(A) shall be treated as a removal from a terminal but only if such terminal is located within a secure area of an airport.”
 
 <b>2004</b>—Subsec. (a)(2). Pub. L. 108–357, §854(a), inserted “by mechanical injection” after “indelibly dyed”.
 
@@ -178,7 +178,7 @@ Subsec. (b). Pub. L. 99–514 amended subsec. (b) generally, substituting provis
 
 Subsecs. (c) to (e). Pub. L. 99–514, in amending section generally, struck out subsecs. (c) to (e) which defined “sales”, “wholesale distributor”, and “producer”, respectively.
 
-<b>1984</b>—Subsec. (d). Pub. L. 98–369, §733(a), in amending subsec. (d) generally, redesignated existing provisionsof par. (1) as subpar. (A) and added subpar. (B), and in par. (2) inserted “but only if such person” before “elects”.
+<b>1984</b>—Subsec. (d). Pub. L. 98–369, §733(a), in amending subsec. (d) generally, redesignated existing provisions of par. (1) as subpar. (A) and added subpar. (B), and in par. (2) inserted “but only if such person” before “elects”.
 
 Subsec. (e). Pub. L. 98–369, §734(c)(1), added subpar. (e).
 

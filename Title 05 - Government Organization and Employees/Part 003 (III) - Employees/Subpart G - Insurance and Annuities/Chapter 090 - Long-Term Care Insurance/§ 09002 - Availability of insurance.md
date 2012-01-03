@@ -56,5 +56,5 @@ Section 7702B(g)(2) of the Internal Revenue Code of 1986, referred to in subsec.
 
 #### Amendments
 
-2002—Subsecs. (b) to (f). Pub. L. 107–314 added subsec. (b) and redesignated former subsecs. (b) to (e) as (c) to (f), respectively.
+<b>2002</b>—Subsecs. (b) to (f). Pub. L. 107–314 added subsec. (b) and redesignated former subsecs. (b) to (e) as (c) to (f), respectively.
 

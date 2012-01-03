@@ -8,7 +8,7 @@
 
 #### (b) Compensation
 
-Officers and employees of the Institute shall be compensated at rates determined by the Board, but not in excess of the rate of level V of the Executive Schedule specified in section 5316 of title 5.
+Officers and employees of the Institute shall be compensated at rates determined by theBoard, but not in excess of the rate of level V of the Executive Schedule specified in section 5316 of title 5.
 
 #### (c) Status of Institute as department, agency, or instrumentality of Federal Government; authority of Office of Management and Budget
 
@@ -32,7 +32,7 @@ The Institute and its officers and employees shall be subject to the provisions 
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(2) and (c)(1), (2), was in the original “this title”, meaning title II ofPub. L. 98–620, Nov. 8, 1984, 98 Stat. 3336, known as the State Justice Institute Act of 1984, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 10701 of this title and Tables.
+This chapter, referred to in subsecs. (a)(2) and (c)(1), (2), was in the original “this title”, meaning title II of Pub. L. 98–620, Nov. 8, 1984, 98 Stat. 3336, known as the State Justice Institute Act of 1984, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 10701 of this title and Tables.
 
 #### Amendments
 

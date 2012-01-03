@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Notwithstanding any provision of the Federal Rules of Criminal Procedure to the contrary, in order to permit victims of crime to watch criminal trial proceedings in cases where the venue of the trial is changed—
+Notwithstanding any provision of the Federal Rules of Criminal Procedure to the contrary, inorder to permit victims of crime to watch criminal trial proceedings in cases where the venue of the trial is changed—
 
 &emsp;(1) out of the State in which the case was initially brought; and
 

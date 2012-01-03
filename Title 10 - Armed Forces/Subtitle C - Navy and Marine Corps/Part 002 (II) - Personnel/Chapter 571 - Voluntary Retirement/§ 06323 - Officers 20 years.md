@@ -118,7 +118,7 @@ Subsec. (f). Pub. L. 109–163, §515(b)(1)(H), substituted “Navy Reserve” f
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–510 designated existing provisions as par. (1) and added par. (2).
 
-<b>1986</b>—Subsec. (e). Pub. L. 99–348 substituted provision that retired pay be computed under section 6333 for provision that retired pay, in the case of an officer who first became a member of a uniformed service, as defined in section 1407(a)(2), before Sept. 8, 1980, be at the rate of 21/2 percent of the basic pay of the grade in which retired, or in the case of an officer who first became a member of a uniformed service, as defined in section 1407(a)(2), on or after Sept. 8, 1980, be at the rate of 21/2 percent of the monthly retired pay base computed under section 1407(d), which rates were to be multiplied by the number of years of service credited under section 1405, but such retired pay was not to be more than 75 percent of the basic pay or monthly retired pay base upon which the computation of retired pay was based.
+<b>1986</b>—Subsec. (e). Pub. L. 99–348 substituted provision that retired pay be computed under section 6333 for provision that retired pay, in the case of an officer who first became a member of a uniformed service, as defined in section 1407(a)(2), before Sept. 8, 1980, be at the rate of 2½ percent of the basic pay of the grade in which retired, or in the case of an officer who first became a member of a uniformed service, as defined in section 1407(a)(2), on or after Sept. 8, 1980, be at the rate of 2½ percent of the monthly retired pay base computed under section 1407(d), which rates were to be multiplied by the number of years of service credited under section 1405, but such retired pay was not to be more than 75 percent of the basic pay or monthly retired pay base upon which the computation of retired pay was based.
 
 <b>1980</b>—Subsec. (c). Pub. L. 96–513, §503(47)(A), substituted provisions that the retired grade of an officer retired under this section is the grade determined under section 1370 of this title for provisions that had set the grade of officers retired under this section at the highest grade, permanent or temporary, in which he had served satisfactorily on active duty as determined by the Secretary of the Navy; or, if the Secretary determined that he had not served satisfactorily in his highest temporary grade, in the next lower grade in which he had served, but not lower than his permanent grade.
 
@@ -126,7 +126,7 @@ Subsec. (e). Pub. L. 96–513, §513(17), substituted “September 8, 1980” fo
 
 Pub. L. 96–342 designated existing provisions as par. (1), inserted provision limiting applicability to officers who became members of the uniformed services before the date of the enactment of the Department of Defense Authorization Act, 1981, and added par. (2).
 
-<b>1963</b>—Subsec. (e). Pub. L. 88–132 substituted “of” for “to which he would be entitled if serving on active duty in” after “21/2 percent of the basic pay”.
+<b>1963</b>—Subsec. (e). Pub. L. 88–132 substituted “of” for “to which he would be entitled if serving on active duty in” after “2½ percent of the basic pay”.
 
 <b>1958</b>—Subsec. (a). Pub. L. 85–861 substituted “first day of any month” for “first day of the month”.
 

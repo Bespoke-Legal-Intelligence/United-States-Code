@@ -30,7 +30,7 @@ The purposes of the program under subsection (b) shall be the following:
 
 The Secretary of Energy shall carry out the program provided for in subsection (b). The program shall be carried out with the participation of representatives of the Department of Defense, the nuclear weapons production facilities, and the national nuclear weapons laboratories.
 
-(Pub. L. 107–314, div. D, title XLII, §4207, formerly Pub. L. 100–456, div. A, title XIV, §1436, Sept. 29, 1988, 102 Stat. 2075; Pub. L. 105–85, div. C, title XXXI, §3152(i), Nov. 18, 1997, 111 Stat. 2042; renumbered Pub. L. 107–314, div. D, title XLII, §4207, and amended Pub. L. 108–136, div. C, title XXXI, §3141(e)(8), Nov. 24, 2003, 117 Stat. 1759.)
+(Pub. L. 107–314, div. D, title XLII, §4207, formerly Pub. L. 100–456, div. A, title XIV, §1436, Sept. 29, 1988, 102 Stat. 2075; Pub. L. 105–85, div. C, title XXXI, §3152(i), Nov. 18, 1997, 111 Stat. 2042; renumbered Pub. L. 107–314, div. D, title XLII, §4207, and amended Pub. L. 108–136, div. C,title XXXI, §3141(e)(8), Nov. 24, 2003, 117 Stat. 1759.)
 
 #### Codification
 
@@ -40,5 +40,5 @@ Section was formerly set out as a note under section 2121 of Title 42, The Publi
 
 <b>2003</b>—Pub. L. 108–136, §3141(e)(8)(D), made technical amendment to section catchline.
 
-<b>1997</b>—Subsec. (e). Pub. L. 105–85 struck out heading and text of subsec. (e). Text read as follows: “The Secretary of Energy shall submit to Congress each year anunclassified report (with a classified annex as necessary) that describes the progress made to the date of the report in achieving the purposes of the program required to be established under subsection (b).”
+<b>1997</b>—Subsec. (e). Pub. L. 105–85 struck out heading and text of subsec. (e). Text read as follows: “The Secretary of Energy shall submit to Congress each year an unclassified report (with a classified annex as necessary) that describes the progress made to the date of the report in achieving the purposes of the program required to be established under subsection (b).”
 

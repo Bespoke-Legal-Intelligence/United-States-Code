@@ -12,7 +12,7 @@ Not sooner than the expiration of the 3-year period beginning on February 10, 19
 
 #### (B) Rural utility loans
 
-&emsp;&emsp;With respect to securities representing an interest in, or obligation backed by, a pool of qualified loans described in section 2279aa(9)(C) of this title owned or guaranteed by the Corporation, losses occur at a rate of default and severity reasonably related to risks in electric and telephone facility loans (as applicable), as determined by the Director.
+&emsp;&emsp;With respect to securities representing an interest in, or obligation backed by, a pool of qualified loans described in section 2279aa(9)(C) of this title owned or guaranteed by the Corporation, losses occur at a rate of default and severity reasonably related to risks in electric and telephone facility loans\(as applicable), as determined by the Director.
 
 #### (2) Interest rate risk
 
@@ -76,9 +76,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (a)(1). Pub. L. 110–246, §5406(d), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–246, §5406(d), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
-1996—Subsec. (a). Pub. L. 104–105, §113(1), in first sentence, substituted “Not sooner than the expiration of the 3-year period beginning on February 10, 1996,” for “Not later than the expiration of the 2-year period beginning on December 13, 1991,”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–105, §113(1), in first sentence, substituted “Not sooner than the expiration of the 3-year period beginning on February 10, 1996,” for “Not later than the expiration of the 2-year period beginning on December 13, 1991,”.
 
 Subsec. (b)(1)(C). Pub. L. 104–105, §109(b)(3), substituted “Director may” for “Director shall” and inserted before semicolon at end “(as in effect before February 10, 1996)”.
 
@@ -86,7 +86,7 @@ Subsec. (b)(2). Pub. L. 104–105, §113(2), substituted “8-year” for “5-y
 
 Subsec. (d). Pub. L. 104–105, §113(3), designated first sentence of existing provisions as par. (1), inserted heading, added subpar. (A), and designated part of first sentence as subpar. (B), designated second sentence of existing provisions as par. (2), inserted heading, and substituted “The regulations referred to in paragraph (1) shall” for “The regulations shall”.
 
-1992—Subsecs. (a), (b)(1)(D). Pub. L. 102–552, §308(b)(3)(A), substituted “December 13, 1991” for “the date of the enactment of this section”.
+<b>1992</b>—Subsecs. (a), (b)(1)(D). Pub. L. 102–552, §308(b)(3)(A), substituted “December 13, 1991” for “the date of the enactment of this section”.
 
 Subsec. (b)(1)(E). Pub. L. 102–552, §308(b)(3)(B), substituted “December 13, 1991” for “the date of the enactment of such Act”.
 

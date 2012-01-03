@@ -60,7 +60,7 @@ Section 211(c) of Pub. L. 95–600 provided that: “The amendments made by this
 
 #### Modification of Penalty for Failure To File Partnership Returns
 
-Pub. L. 110–141, §2, Dec. 19, 2007, 121 Stat. 1802, provided that: “For any return of a partnership required to be filed under section 6031 of the Internal Revenue Code of 1986 for a taxable year beginning in 2008, the dollar amount in effect under section 6698(b)(1) of such Code shall be increased by $1.”
+Pub. L. 110–141, §2, Dec. 19, 2007, 121 Stat. 1802, provided that: “For any return of a partnership required tobe filed under section 6031 of the Internal Revenue Code of 1986 for a taxable year beginning in 2008, the dollar amount in effect under section 6698(b)(1) of such Code shall be increased by $1.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

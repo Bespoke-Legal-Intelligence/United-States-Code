@@ -4,7 +4,7 @@
 
 #### (1) HIPAA
 
-&emsp;Health benefits coverage provided under section 1397aa(a)(1) of this title (and coverageprovided under a waiver under section 1397ee(c)(2)(B) of this title) shall be treated as creditable coverage for purposes of part 7 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1181 et seq.\], title XXVII of the Public Health Service Act \[42 U.S.C. 300gg et seq.\], and subtitle K of the Internal Revenue Code of 1986.
+&emsp;Health benefits coverage provided under section 1397aa(a)(1) of this title (and coverage provided under a waiver under section 1397ee(c)(2)(B) of this title) shall be treated as creditable coverage for purposes of part 7 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1181 et seq.\], title XXVII of the Public Health Service Act \[42 U.S.C. 300gg et seq.\], and subtitle K of the Internal Revenue Code of 1986.
 
 #### (2) ERISA
 
@@ -38,7 +38,7 @@
 
 #### (4) Appropriation
 
-&emsp;Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated $20,000,000 for fiscal year 2009 and each fiscal year thereafter for the purpose of carrying out this subsection (except that only with respect to fiscal year 2008, there are appropriated $20,000,000 for the purpose of carrying out this subsection, to remain available until expended).
+&emsp;Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated $20,000,000 for fiscalyear 2009 and each fiscal year thereafter for the purpose of carrying out this subsection (except that only with respect to fiscal year 2008, there are appropriated $20,000,000 for the purpose of carrying out this subsection, to remain available until expended).
 
 (Aug. 14, 1935, ch. 531, title XXI, §2109, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 567; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §§703(a), 705(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–400, 1501A–403; Pub. L. 110–173, title II, §205, Dec. 29, 2007, 121 Stat. 2514; Pub. L. 111–3, title VI, §602, Feb. 4, 2009, 123 Stat. 98; Pub. L. 111–148, title II, §2102(a)(6), Mar. 23, 2010, 124 Stat. 288.)
 
@@ -46,7 +46,7 @@
 
 The Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(1), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832. Part 7 of subtitle B of title I of the Act is classified generally to part 7 (§1181 et seq.) of subtitle B of subchapter I of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
-The Public Health Service Act, referred to in subsec. (a)(1), is act July 1, 1944, ch. 373, 58 Stat. 682. Title XXVII of the Act is classified generally to subchapterXXV (§300gg et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
+The Public Health Service Act, referred to in subsec. (a)(1), is act July 1, 1944, ch. 373, 58 Stat. 682. Title XXVII of the Act is classified generally to subchapter XXV (§300gg et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
 The Internal Revenue Code of 1986, referred to in subsec. (a)(1), is classified generally to Title 26, Internal Revenue Code. Subtitle K of such Code appears at section 9801 et seq. of Title 26.
 

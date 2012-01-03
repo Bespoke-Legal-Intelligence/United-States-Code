@@ -34,7 +34,7 @@ The Director shall require each enterprise to report the number of rental housin
 
 #### (2) Purchase-money mortgage goals
 
-&emsp;An enterprise shall be considered to be in compliance with a housing goal under subparagraph (A), (B), or (C) of subsection (a)(1) for a year only if, for the type of family described in such subparagraph, the percentageof the number of conventional, conforming, single-family, owner-occupied, purchase money mortgages purchased by the enterprise in such year that serve such families, meets or exceeds the target for the year for such type of family that is established under subsection (e).
+&emsp;An enterprise shall be considered to be in compliance with a housing goal under subparagraph (A), (B), or (C) of subsection (a)(1) for a year only if, for the type of family described in such subparagraph, the percentage of the number of conventional, conforming, single-family, owner-occupied, purchase money mortgages purchased by the enterprise in such year that serve such families, meets or exceeds the target for the year for such type of family that is established under subsection (e).
 
 #### (3) Refinance goal
 
@@ -82,7 +82,7 @@ The Director shall require each enterprise to report the number of rental housin
 
 #### (4) HMDA information
 
-&emsp;The Director shall annually obtain information submitted in compliance with the Home Mortgage Disclosure Act of 1975 \[12 U.S.C. 2801 et seq.\] regarding conventional, conforming, single-family, owner-occupied, purchase money and refinance mortgages originated and purchased for the previous year.
+&emsp;The Director shall annually obtain information submitted in compliance with the Home Mortgage Disclosure Act of 1975 \[12 U.S.C. 2801 et seq.\] regarding conventional, conforming,single-family, owner-occupied, purchase money and refinance mortgages originated and purchased for the previous year.
 
 #### (5) Conforming mortgages
 

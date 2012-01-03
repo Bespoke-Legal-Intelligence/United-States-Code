@@ -2,49 +2,19 @@
 
 #### (a) Developmental disabilities surveillance and research program
 
-To carry out section 280i of this title, there are authorized to be appropriated the following:
-
-&emsp;(1) For fiscal year 2007, $15,000,000.
-
-&emsp;(2) For fiscal year 2008, $16,500,000.
-
-&emsp;(3) For fiscal year 2009, $18,000,000.
-
-&emsp;(4) For fiscal year 2010, $19,500,000.
-
-&emsp;(5) For fiscal year 2011, $21,000,000.
+To carry out section 280i of this title, there is authorized to be appropriated $22,000,000 for each of fiscal years 2012 through 2014.
 
 #### (b) Autism education, early detection, and intervention
 
-To carry out section 280i–1 of this title, there are authorized to be appropriated the following:
-
-&emsp;(1) For fiscal year 2007, $32,000,000.
-
-&emsp;(2) For fiscal year 2008, $37,000,000.
-
-&emsp;(3) For fiscal year 2009, $42,000,000.
-
-&emsp;(4) For fiscal year 2010, $47,000,000.
-
-&emsp;(5) For fiscal year 2011, $52,000,000.
+To carry out section 280i–1 of this title, there is authorized to be appropriated $48,000,000 for each of fiscal years 2011 through 2014.
 
 #### (c) Interagency Autism Coordinating Committee; certain other programs
 
-To carry out section <sup>1</sup> 280i–2, 284g, and section <sup>2</sup> 283j of this title, there are authorized to be appropriated the following:
+To carry out sections 280i–2, 283j, and 284g of this title, there is authorized to be appropriated $161,000,000 for each of fiscal years 2011 through 2014.
 
-&emsp;(1) For fiscal year 2007, $100,000,000.
+(July 1, 1944, ch. 373, title III, §399EE, as added Pub. L. 109–416, §4(a), Dec. 19, 2006, 120 Stat. 2829; amended Pub. L. 112–32, §3, Sept. 30, 2011, 125 Stat. 361.)
 
-&emsp;(2) For fiscal year 2008, $114,500,000.
+#### Amendments
 
-&emsp;(3) For fiscal year 2009, $129,000,000.
-
-&emsp;(4) For fiscal year 2010, $143,500,000.
-
-&emsp;(5) For fiscal year 2011, $158,000,000.
-
-(July 1, 1944, ch. 373, title III, §399EE, as added Pub. L. 109–416, §4(a), Dec. 19, 2006, 120 Stat. 2829.)
-
-<i><sup>1</sup></i><i> So in original. Probably should be “sections”.</i>
-
-<i><sup>2</sup></i><i> So in original. The word “section” probably should not appear.</i>
+<b>2011</b>—Pub. L. 112–32 amended section generally. Prior to amendment, section authorized appropriations for fiscal years 2007 to 2011.
 

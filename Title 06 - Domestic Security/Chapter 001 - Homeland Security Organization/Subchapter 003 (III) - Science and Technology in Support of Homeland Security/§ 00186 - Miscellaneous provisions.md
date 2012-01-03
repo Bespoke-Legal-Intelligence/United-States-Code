@@ -14,7 +14,7 @@ The Secretary, acting through the Under Secretary for Science and Technology, ma
 
 #### (d) Notification of Presidential life sciences designations
 
-Not later than 60 days before effecting any transfer of Department of Energy life sciencesactivities pursuant to section 183(1)(D) of this title, the President shall notify the appropriate congressional committees of the proposed transfer and shall include the reasons for the transfer and a description of the effect of the transfer on the activities of the Department of Energy.
+Not later than 60 days before effecting any transfer of Department of Energy life sciences activities pursuant to section 183(1)(D) of this title, the President shall notify the appropriate congressional committees of the proposed transfer and shall include the reasons for the transfer and a description of the effect of the transfer on the activities of the Department of Energy.
 
 (Pub. L. 107–296, title III, §306, Nov. 25, 2002, 116 Stat. 2168.)
 

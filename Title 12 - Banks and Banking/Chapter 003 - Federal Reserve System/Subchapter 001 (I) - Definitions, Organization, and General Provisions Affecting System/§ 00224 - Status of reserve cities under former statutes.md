@@ -14,7 +14,7 @@ Section is comprised of part of the thirteenth par. of section 2 of act Dec. 23,
 
 #### Amendments
 
-1959—Pub. L. 86–114 struck out “and central reserve cities” after “reserve cities”.
+<b>1959</b>—Pub. L. 86–114 struck out “and central reserve cities” after “reserve cities”.
 
 #### Effective Date of 1959 Amendment
 

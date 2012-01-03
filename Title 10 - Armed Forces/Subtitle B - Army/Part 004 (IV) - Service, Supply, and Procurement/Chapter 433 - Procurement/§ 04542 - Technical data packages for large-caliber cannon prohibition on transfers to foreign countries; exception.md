@@ -84,7 +84,7 @@ Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical section
 
 #### Amendments
 
-<b>1991</b>—Subsec. (b)(1). Pub. L. 102–190, §1086(a), substituted “friendly foreign country” for “member nationof the North Atlantic Treaty Organization or a country designated as a major non-NATO ally”.
+<b>1991</b>—Subsec. (b)(1). Pub. L. 102–190, §1086(a), substituted “friendly foreign country” for “member nation of the North Atlantic Treaty Organization or a country designated as a major non-NATO ally”.
 
 Subsec. (c)(3). Pub. L. 102–190, §§1061(a)(24)(A), 1086(b)(1), amended par. (3) identically, substituting “subsection (f)” for “subsection (d)” in introductory provisions.
 

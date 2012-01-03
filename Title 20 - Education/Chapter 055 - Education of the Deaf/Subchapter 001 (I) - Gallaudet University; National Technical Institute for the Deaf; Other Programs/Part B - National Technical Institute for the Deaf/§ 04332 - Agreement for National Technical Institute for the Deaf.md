@@ -84,6 +84,10 @@ Subsec. (b)(3). Pub. L. 102–421, §121(2), substituted “will prepare and sub
 
 Subsec. (b)(6). Pub. L. 102–421, §121(3), added par. (6).
 
+#### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
@@ -94,5 +98,5 @@ Amendment by Pub. L. 102–421 effective Oct. 1, 1992, see section 161 of Pub. L
 
 #### Establishment of Institute
 
-Pursuant to an agreement entered into between the Secretary and the Rochester Institute of Technologyon Dec. 20, 1966, the National Technical Institute for the Deaf (N.T.I.D.) was established and located at Rochester, New York.
+Pursuant to an agreement entered into between the Secretary and the Rochester Institute of Technology on Dec. 20, 1966, the National Technical Institute for the Deaf (N.T.I.D.) was established and located at Rochester, New York.
 

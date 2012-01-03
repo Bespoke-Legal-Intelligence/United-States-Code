@@ -17,7 +17,7 @@
 - [&sect; 07139 - Office of Science; establishment; appointment of Director; compensation; duties](%C2%A7%2007139%20-%20Office%20of%20Science%3B%20establishment%3B%20appointment%20of%20Director%3B%20compensation%3B%20duties.md)
 - [&sect; 07140 - Leasing Liaison Committee; establishment; composition](%C2%A7%2007140%20-%20Leasing%20Liaison%20Committee%3B%20establishment%3B%20composition.md)
 - [&sect; 07141 - Office of Minority Economic Impact](%C2%A7%2007141%20-%20Office%20of%20Minority%20Economic%20Impact.md)
-- [&sect; 07142 - National Atomic Museum](%C2%A7%2007142%20-%20National%20Atomic%20Museum.md)
+- [&sect; 07142 - National Atomic Museum and National Atomic Testing Museum](%C2%A7%2007142%20-%20National%20Atomic%20Museum%20and%20National%20Atomic%20Testing%20Museum.md)
 - [&sect; 07142a - Designation of American Museum of Science and Energy](%C2%A7%2007142a%20-%20Designation%20of%20American%20Museum%20of%20Science%20and%20Energy.md)
 - [&sect; 07142b - Authority](%C2%A7%2007142b%20-%20Authority.md)
 - [&sect; 07142c - Museum volunteers](%C2%A7%2007142c%20-%20Museum%20volunteers.md)

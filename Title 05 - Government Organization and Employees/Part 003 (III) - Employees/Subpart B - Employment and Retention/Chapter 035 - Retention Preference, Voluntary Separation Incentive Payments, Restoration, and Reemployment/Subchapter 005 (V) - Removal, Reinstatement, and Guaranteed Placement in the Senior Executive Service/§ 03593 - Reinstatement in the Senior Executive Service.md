@@ -24,13 +24,13 @@
 
 #### Amendments
 
-2002—Subsec. (a)(2). Pub. L. 107–296 added par. (2) and struck out former par. (2) which read as follows: “the appointee left the Senior Executive Service for reasons other than misconduct, neglect of duty, malfeasance, less than fully successful executive performance as determined under subchapter II of chapter 43 of this title, or failure to be recertified as a senior executive under section 3393a.”
+<b>2002</b>—Subsec. (a)(2). Pub. L. 107–296 added par. (2) and struck out former par. (2) which read as follows: “the appointee left the Senior Executive Service for reasons other than misconduct, neglect of duty, malfeasance,less than fully successful executive performance as determined under subchapter II of chapter 43 of this title, or failure to be recertified as a senior executive under section 3393a.”
 
-1989—Subsec. (a)(2). Pub. L. 101–194 struck out “or” after “malfeasance,” and inserted “, or failure to be recertified as a senior executive under section 3393a” before period at end.
+<b>1989</b>—Subsec. (a)(2). Pub. L. 101–194 struck out “or” after “malfeasance,” and inserted “, or failure to be recertified as a senior executive under section 3393a” before period at end.
 
-1984—Subsec. (c)(1)(B). Pub. L. 98–615 inserted “before October 1, 1984,”.
+<b>1984</b>—Subsec. (c)(1)(B). Pub. L. 98–615 inserted “before October 1, 1984,”.
 
-1981—Subsec. (c). Pub. L. 97–35 added subsec. (c).
+<b>1981</b>—Subsec. (c). Pub. L. 97–35 added subsec. (c).
 
 #### Effective Date of 2002 Amendment
 

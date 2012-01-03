@@ -10,7 +10,7 @@ As used in this chapter, except as otherwise specified, the following terms shal
 
 (d) The term “renderer” means any person, firm, or corporation engaged in the business of rendering carcasses or parts or products of the carcasses, of cattle, sheep, swine, goats, horses, mules, or other equines, except rendering conducted under inspection or exemption under this subchapter.
 
-(e) The term “animal food manufacturer” means any person, firm, or corporation engaged in the business of manufacturing or processing animal food derived wholly or in part from carcasses, or parts or products of the carcasses, of cattle, sheep, swine, goats, horses, mules, or other equines.
+(e) The term “animal food manufacturer” means any person, firm, or corporation engagedin the business of manufacturing or processing animal food derived wholly or in part from carcasses, or parts or products of the carcasses, of cattle, sheep, swine, goats, horses, mules, or other equines.
 
 (f) The term “State” means any State of the United States and the Commonwealth of Puerto Rico.
 
@@ -62,7 +62,7 @@ As used in this chapter, except as otherwise specified, the following terms shal
 
 &emsp;(4) if its container is so made, formed, or filled as to be misleading;
 
-&emsp;(5) if in a package or other container unless it bears a label showing (A) the name and place of business of the manufacturer, packer, or distributor; and (B) an accurate statement of the quantity of the contents in terms of weight, measure, or numerical count: <i>Provided</i>, That under clause (B) of this subparagraph (5), reasonable variations may be permitted, and exemptions as to small packages may be established, by regulations prescribed by the Secretary;
+&emsp;(5) if in a package or other container unless it bears a label showing (A) the name and place of business of the manufacturer, packer, or distributor; and (B) an accurate statement of the quantity of the contents in terms of weight, measure, or numerical count: <i>Provided</i>,That under clause (B) of this subparagraph (5), reasonable variations may be permitted, and exemptions as to small packages may be established, by regulations prescribed by the Secretary;
 
 &emsp;(6) if any word, statement, or other information required by or under authority of this chapter to appear on the label or other labeling is not prominently placed thereon with such conspicuousness (as compared with other words, statements, designs, or devices, in the labeling) and in such terms as to render it likely to be read and understood by the ordinary individual under customary conditions of purchase and use;
 
@@ -84,7 +84,7 @@ As used in this chapter, except as otherwise specified, the following terms shal
 
 (q) The term “Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\]” means the Act so entitled, approved June 25, 1938 (52 Stat. 1040), and Acts amendatory thereof or supplementary thereto.
 
-(r) The terms “pesticide chemical,” “food additive,” “color additive,” and “raw agriculturalcommodity” shall have the same meanings for purposes of this chapter as under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\].
+(r) The terms “pesticide chemical,” “food additive,” “color additive,” and “raw agricultural commodity” shall have the same meanings for purposes of this chapter as under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\].
 
 (s) The term “official mark” means the official inspection legend or any other symbol prescribed by regulations of the Secretary to identify the status of any article or animal under this chapter.
 
@@ -110,7 +110,7 @@ The Federal Food, Drug, and Cosmetic Act, referred to in pars. (q) and (r), is a
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 
@@ -158,7 +158,7 @@ Pub. L. 95–445, §1, Oct. 10, 1978, 92 Stat. 1069, provided: “That this Act 
 
 #### Short Title
 
-Section 1 of Pub. L. 90–201 provided in part: “That this Act \[enacting this section and sections 602, 624, 641to 645, 661, 671 to 680, and 691 of this title, amending sections 603 to 623 of this title, repealing section 96 of this title and section 1306(b) of Title 19, Customs Duties, and enacting provisions set out as notes under this section\] may be cited as the ‘Wholesome Meat Act’.”
+Section 1 of Pub. L. 90–201 provided in part: “That this Act \[enacting this section and sections 602, 624, 641 to 645, 661, 671 to 680, and 691 of this title, amending sections 603 to 623 of this title, repealing section 96 of this title and section 1306(b) of Title 19, Customs Duties, and enacting provisions set out as notes under this section\] may be cited as the ‘Wholesome Meat Act’.”
 
 Section 1 of Pub. L. 90–201 provided in part that the provisions of act Mar. 4, 1907, as amended, classified to subchapters I to IV–A of this chapter, are designated as the “Federal Meat Inspection Act”.
 

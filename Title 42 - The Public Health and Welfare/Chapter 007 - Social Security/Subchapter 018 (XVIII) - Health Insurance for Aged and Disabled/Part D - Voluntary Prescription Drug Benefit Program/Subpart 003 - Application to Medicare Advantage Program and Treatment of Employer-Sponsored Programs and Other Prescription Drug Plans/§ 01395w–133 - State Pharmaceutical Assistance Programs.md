@@ -40,7 +40,7 @@
 
 #### (5) Part D plan defined
 
-&emsp;For purposes of this section and section 1395w–134 of this title, the term “part D plan” means a prescription drug plan and an MA–PD plan.
+&emsp;For purposes of this section and section 1395w–134 of this title, the term “part D plan”means a prescription drug plan and an MA–PD plan.
 
 #### (b) State Pharmaceutical Assistance Program
 

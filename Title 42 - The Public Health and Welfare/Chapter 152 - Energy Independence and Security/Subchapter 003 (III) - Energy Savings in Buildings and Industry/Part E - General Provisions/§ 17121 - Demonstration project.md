@@ -22,7 +22,7 @@ In accordance with guidelines established by the Federal Director and the Commer
 
 &emsp;&emsp;&emsp;(i) to serve as a model for high-performance green building initiatives, including research and education <sup>2</sup> by achieving the highest rating offered by the high performance green building system identified pursuant to section 17092(h) of this title;
 
-&emsp;&emsp;&emsp;(ii) to identify the most effective ways to use high-performance green building andlandscape technologies to engage and educate undergraduate and graduate students;
+&emsp;&emsp;&emsp;(ii) to identify the most effective ways to use high-performance green building and landscape technologies to engage and educate undergraduate and graduate students;
 
 &emsp;&emsp;&emsp;(iii) to effectively implement a high-performance green building education program for students and occupants;
 
@@ -66,7 +66,7 @@ In accordance with guidelines established by the Federal Director and the Commer
 
 &emsp;&emsp;&emsp;(iv) technological adaptability;
 
-&emsp;&emsp;&emsp;(v) the demonstrated capacity of at least 1 university to replicate lessons learned among nearby or sister universities, preferably by participation in groups or consortia that promote sustainability;
+&emsp;&emsp;&emsp;(v) the demonstrated capacity of at least 1 university to replicate lessons learnedamong nearby or sister universities, preferably by participation in groups or consortia that promote sustainability;
 
 &emsp;&emsp;&emsp;(vi) the demonstrated capacity of at least 1 university to have officially-adopted, institution-wide “high-performance green building” guidelines for all campus building projects; and
 

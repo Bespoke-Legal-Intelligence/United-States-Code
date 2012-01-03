@@ -12,7 +12,7 @@
 
 (f) Each civilian member retired under this section who is reemployed as a civilian member of the teaching staff of the Naval Academy or the Naval Postgraduate School shall, upon his later retirement, be paid annually by the Secretary the difference between the total annual amount computed under section 7085 of this title and the immediate life annuity which the total premiums paid on his annuity contracts would buy.
 
-(g) No person may receive payments from the Secretary of the Navy under this chapter and,for the same period of time, compensation under chapter 81 of title 5.
+(g) No person may receive payments from the Secretary of the Navy under this chapter and, for the same period of time, compensation under chapter 81 of title 5.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 439; Pub. L. 89–718, §40, Nov. 2, 1966, 80 Stat. 1120.)
 

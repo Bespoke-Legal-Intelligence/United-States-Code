@@ -12,7 +12,7 @@ Section was formerly classified to section 671 of Title 31 prior to the general 
 
 #### Amendments
 
-1996—Pub. L. 104–186 substituted “expenses of the House” for “contingent expenses of the House”.
+<b>1996</b>—Pub. L. 104–186 substituted “expenses of the House” for “contingent expenses of the House”.
 
 #### Transfer of Functions
 

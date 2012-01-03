@@ -30,7 +30,7 @@ Not later than 60 days after the date of enactment of any Act, or any portion of
 
 #### (f) Transmittal of final regulations
 
-Concurrently with the publication of any final regulations, the Secretary shall transmit a copy of such final regulations to the Speaker of the House of Representatives and the President pro tempore of the Senate.
+Concurrently with the publication of any final regulations, the Secretary shall transmit a copyof such final regulations to the Speaker of the House of Representatives and the President pro tempore of the Senate.
 
 (Pub. L. 90–247, title IV, §437, formerly §421, as added Pub. L. 91–230, title IV, §401(a)(10), Apr. 13, 1970, 84 Stat. 169; renumbered §431, Pub. L. 92–318, title III, §301(a)(1), June 23, 1972, 86 Stat. 326; amended Pub. L. 93–380, title V, §509(a), Aug. 21, 1974, 88 Stat. 566; Pub. L. 94–142, §7, Nov. 29, 1975, 89 Stat. 796; Pub. L. 94–482, title IV, §405, Oct. 12, 1976, 90 Stat. 2231; Pub. L. 96–374, title XIII, §1302, Oct. 3, 1980, 94 Stat. 1497; Pub. L. 97–35, title V, §533(a)(3), Aug. 13, 1981, 95 Stat. 453; renumbered §437 and amended Pub. L. 103–382, title II, §§212(b)(1), 247, Oct. 20, 1994, 108 Stat. 3913, 3923; Pub. L. 103–437, §7(a)(1), Nov. 2, 1994, 108 Stat. 4587.)
 
@@ -80,6 +80,8 @@ Subsecs. (d) to (g). Pub. L. 93–380, §509(a)(2), added subsecs. (d) to (g).
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+
 #### Effective Date of 1981 Amendment
 
 Section 540(a) of Pub. L. 97–35 provided that the amendment made by Pub. L. 97–35 is effective Oct. 1, 1981.
@@ -96,13 +98,13 @@ Amendment by Pub. L. 94–482 effective 30 days after Oct. 12, 1976, except eith
 
 Section 8 of Pub. L. 94–142 provided that:
 
-“(a) Notwithstanding any other provision of law, the amendments made by sections 2(a), 2(b), and 2(c)\[amending sections 1411 and 1412 of this title as in effect through Sept. 30, 1977, and amending provisions set out as notes under sections 1411 to 1413 of this title\] shall take effect on July 1, 1975.
+“(a) Notwithstanding any other provision of law, the amendments made by sections 2(a), 2(b), and 2(c) \[amending sections 1411 and 1412 of this title as in effect through Sept. 30, 1977, and amending provisions set out as notes under sections 1411 to 1413 of this title\] shall take effect on July 1, 1975.
 
 “(b) The amendments made by sections 2(d), 2(e), 3, 6, and 7 \[enacting sections 1405 and 1406 of this title, amending this section and sections 1412 and 1453 of this title, enacting provisions set out as a note under section 1411 of this title, and amending provisions set out as a note under section 1401 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 29, 1975\].
 
 “(c) The amendments made by sections 4 and 5(a) \[enacting sections 1415 to 1420 of this title and amending sections 1401, 1411, 1412, 1413, and 1414 of this title\] shall take effect on October 1, 1977, except that the provisions of clauses (A), (C), (D), and (E) of paragraph (2) of section 612 of the Act \[section 1412 of this title\], as amended by this Act, section 617(a)(1)(D) of the Act \[section 1417(a)(1)(D) of this title\], as amended by this Act, section 617(b) of the Act \[section 1417(b) of this title\], as amended by this Act, and section 618(a) of the Act \[section 1418(a) of this title\], as amended by this Act, shall take effect on the date of the enactment of this Act \[Nov. 29, 1975\].
 
-“(d) The provisions of section 5(b) \[amending section 1411 of this title and enacting provisions set out as notes under section 1411 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 29, 1975\].”
+“(d) The provisions of section 5(b) \[amending section 1411 of this title and enacting provisions set out as notes under section 1411 of this title\] shall take effecton the date of the enactment of this Act \[Nov. 29, 1975\].”
 
 #### Effective Date of 1974 Amendment
 

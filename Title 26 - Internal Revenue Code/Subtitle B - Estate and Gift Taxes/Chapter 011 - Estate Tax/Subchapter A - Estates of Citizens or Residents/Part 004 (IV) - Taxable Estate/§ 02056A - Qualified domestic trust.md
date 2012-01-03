@@ -42,7 +42,7 @@ For purposes of this section and section 2056(d), the term “qualified domestic
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If the tax imposed on the estate of the decedent under section 2001 is not finally determined before the taxable event, the amount of the tax imposed by paragraph (1) on such event shall be determined by using the highest rate of tax in effect under section 2001 as of the date of the decedent's death.
+&emsp;&emsp;&emsp;If the tax imposed on the estate of the decedent under section 2001 is not finallydetermined before the taxable event, the amount of the tax imposed by paragraph (1) on such event shall be determined by using the highest rate of tax in effect under section 2001 as of the date of the decedent's death.
 
 #### (ii) Refund of excess when tax finally determined
 
@@ -200,7 +200,7 @@ Subsec. (b)(14), (15). Pub. L. 101–508, §11702(g)(2)(B), added pars. (14) and
 
 Subsec. (d). Pub. L. 101–508, §11702(g)(3)(A), inserted at end “No election may be made under this section on any return if such return is filed more than one year after the time prescribed by law (including extensions) for filing such return.”
 
-<b>1989</b>—Subsec. (a)(1). Pub. L. 101–239, §7815(d)(7)(A)(i), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the trust instrument requires that all trustees of the trust be individual citizens of the United States or domestic corporations,”.
+<b>1989</b>—Subsec. (a)(1). Pub. L. 101–239, §7815(d)(7)(A)(i), amended par. (1) generally. Prior to amendment, par.\(1) read as follows: “the trust instrument requires that all trustees of the trust be individual citizens of the United States or domestic corporations,”.
 
 Subsec. (a)(2) to (4). Pub. L. 101–239, §7815(d)(7)(A)(ii), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: “the surviving spouse of the decedent is entitled to all the income from the property in such trust, payable annually or at more frequent intervals,”.
 

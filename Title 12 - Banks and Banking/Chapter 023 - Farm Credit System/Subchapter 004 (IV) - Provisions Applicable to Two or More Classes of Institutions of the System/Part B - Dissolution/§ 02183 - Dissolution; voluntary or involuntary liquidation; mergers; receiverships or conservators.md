@@ -12,11 +12,11 @@ The Farm Credit Administration Board may appoint a conservator or receiver for a
 
 In the case of an involuntary liquidation of an association, regulations of the Farm Credit Administration, among other things, shall direct the supervising bank to institute such measures as it deems appropriate to minimize the adverse effect of the liquidation on those borrowers whose loans are purchased by or otherwise transferred to another System institution.
 
-(Pub. L. 92–181, title IV, §4.12, Dec. 10, 1971, 85 Stat. 612; Pub. L. 99–205, title I, §102, title II, §205(f)(5), title III, §305, Dec. 23, 1985, 99 Stat. 1679, 1706, 1708; Pub. L. 100–233, title III, §306, title IV, §418(a)(4), formerly §415(a)(4), §431(g), title VIII, §805(r), Jan. 6, 1988, 101 Stat. 1622, 1653, 1660, 1716, renumbered §418(a)(4), Pub. L. 100–399, title IV, §409(a), Aug. 17, 1988, 102 Stat. 1003; Pub. L. 100–399, title IX, §901(f), Aug. 17, 1988, 102 Stat. 1007.)
+(Pub. L. 92–181, title IV, §4.12, Dec. 10, 1971, 85 Stat. 612; Pub. L. 99–205, title I, §102, title II,§205(f)(5), title III, §305, Dec. 23, 1985, 99 Stat. 1679, 1706, 1708; Pub. L. 100–233, title III, §306, title IV, §418(a)(4), formerly §415(a)(4), §431(g), title VIII, §805(r), Jan. 6, 1988, 101 Stat. 1622, 1653, 1660, 1716, renumbered §418(a)(4), Pub. L. 100–399, title IV, §409(a), Aug. 17, 1988, 102 Stat. 1003; Pub. L. 100–399, title IX, §901(f), Aug. 17, 1988, 102 Stat. 1007.)
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–399, §901(f), substituted “board of the supervising bank” for “district board”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–399, §901(f), substituted “board of the supervising bank” for “district board”.
 
 Pub. L. 100–233, §415(a)(4), struck out third sentence which provided that Associations may voluntarily merge with other like associations upon the vote of a majority of each of their stockholders present and voting or voting by written proxy at duly authorized meetings, and with the approval of the supervising bank and the Farm Credit Administration, and substituted “Board may require an association to merge with another association” for “may require such merger” in fourth sentence.
 
@@ -26,7 +26,7 @@ Pub. L. 100–233, §306, added cl. (6) and inserted “, and such receiver or 
 
 Pub. L. 100–233, §805(r), substituted “court shall” for “court, shall”.
 
-1985—Subsec. (a). Pub. L. 99–205, §205(f)(5), substituted “Farm Credit Administration” for “Federal Farm Credit Board” in last sentence.
+<b>1985</b>—Subsec. (a). Pub. L. 99–205, §205(f)(5), substituted “Farm Credit Administration” for “Federal Farm Credit Board” in last sentence.
 
 Pub. L. 99–205, §305(a), inserted after first sentence a sentence requiring the regulations, in the case of a voluntary liquidation of an association, to direct the supervising bank to institute appropriate measures to minimize the adverse effect of the liquidation on borrowers whose loans are purchased by or otherwise transferred to another System institution.
 

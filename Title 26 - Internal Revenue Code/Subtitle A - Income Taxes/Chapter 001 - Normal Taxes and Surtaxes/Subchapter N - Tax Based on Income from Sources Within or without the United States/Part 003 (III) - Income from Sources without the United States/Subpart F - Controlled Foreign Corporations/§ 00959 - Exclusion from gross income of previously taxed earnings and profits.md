@@ -104,7 +104,7 @@ Section 1012(bb)(7)(B) of Pub. L. 100–647 provided that: “The amendment made
 
 #### Effective Date of 1986 Amendment
 
-Section 1226(c)(2) of Pub. L. 99–514 provided that: “The amendment made by subsection (b) \[amending this section\] shall apply to distributions after the date of the enactment of this Act \[Oct. 22, 1986\].”
+Section 1226(c)(2) of Pub. L. 99–514 provided that: “The amendment made by subsection (b) \[amendingthis section\] shall apply to distributions after the date of the enactment of this Act \[Oct. 22, 1986\].”
 
 #### Effective Date of 1984 Amendment
 

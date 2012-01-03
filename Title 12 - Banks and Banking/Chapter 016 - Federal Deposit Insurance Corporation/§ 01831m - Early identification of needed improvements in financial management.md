@@ -90,7 +90,7 @@ Each insured depository institution shall prepare—
 
 #### (A) Establishment
 
-&emsp;&emsp;Each insured depository institution (to which this section applies) shall have an independent audit committee entirely made up of outside directors who are independent of management of the institution, except as provided in subparagraph (D), and who satisfy any specific requirements the Corporation may establish.
+&emsp;&emsp;Each insured depository institution (to which this section applies) shall have anindependent audit committee entirely made up of outside directors who are independent of management of the institution, except as provided in subparagraph (D), and who satisfy any specific requirements the Corporation may establish.
 
 #### (B) Duties
 
@@ -168,7 +168,7 @@ Each insured depository institution shall prepare—
 
 #### (A) In general
 
-&emsp;&emsp;Each insured depository institution which has engaged the services of an independentauditor to audit such institution shall transmit to the auditor a copy of the most recent report of condition made by the institution (pursuant to this chapter or any other provision of law) and a copy of the most recent report of examination received by the institution.
+&emsp;&emsp;Each insured depository institution which has engaged the services of an independent auditor to audit such institution shall transmit to the auditor a copy of the most recentreport of condition made by the institution (pursuant to this chapter or any other provision of law) and a copy of the most recent report of examination received by the institution.
 
 #### (B) Additional information
 
@@ -232,11 +232,11 @@ This section shall not apply with respect to any fiscal year of any insured depo
 
 #### Amendments
 
-2006—Subsec. (i)(3). Pub. L. 109–173 substituted “Deposit Insurance Fund” for “affected deposit insurance fund”.
+<b>2006</b>—Subsec. (i)(3). Pub. L. 109–173 substituted “Deposit Insurance Fund” for “affected deposit insurance fund”.
 
 Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(14)(Z). See 1996 Amendment note below.
 
-1996—Subsec. (a)(3). Pub. L. 104–208, §2301(c), inserted at end “Notwithstanding the preceding sentence, the Corporation and the appropriate Federal banking agencies may designate certain information as privileged and confidential and not available to the public.”
+<b>1996</b>—Subsec. (a)(3). Pub. L. 104–208, §2301(c), inserted at end “Notwithstanding the preceding sentence, the Corporation and the appropriate Federal banking agencies may designate certain information as privileged and confidential and not available to the public.”
 
 Subsec. (e). Pub. L. 104–208, §2301(a), inserted “\[Repealed\]” and struck out heading and text of subsec. (e). Text read as follows:
 
@@ -246,7 +246,7 @@ In general—An independent public accountant shall apply procedures agreed upon
 
 “(2)
 
-Attestation requirements—Any attestation pursuant to paragraph (1) shall be made in accordance with generally accepted standards for attestation engagements.”
+Attestation requirements—Any attestation pursuant to paragraph (1) shall be made in accordancewith generally accepted standards for attestation engagements.”
 
 Subsec. (g)(1)(A). Pub. L. 104–208, §2301(b)(1), inserted “, except as provided in subparagraph (D)” after “management of the institution”.
 
@@ -254,7 +254,7 @@ Subsec. (g)(1)(D). Pub. L. 104–208, §2301(b)(2), added subpar. (D).
 
 Subsec. (i)(3). Pub. L. 104–208, §2704(d)(14)(Z), which directed substitution of “Deposit Insurance Fund” for “affected deposit insurance fund”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
-1994—Subsec. (g)(2)(D). Pub. L. 103–325, §314(b), added subpar. (D).
+<b>1994</b>—Subsec. (g)(2)(D). Pub. L. 103–325, §314(b), added subpar. (D).
 
 Subsec. (i). Pub. L. 103–325, §314(a), inserted par. (1) designation and heading before “Except with respect to”, redesignated former par. (1) as subpar. (A) of par. (1), added subpar. (B) of par. (1) and pars. (2) and (3), and struck out former par. (2) which read as follows: “either—
 
@@ -266,7 +266,7 @@ Subsec. (i). Pub. L. 103–325, §314(a), inserted par. (1) designation and head
 
 &emsp;&emsp;“(ii) has a CAMEL composite rating of 1 or 2 under the Uniform Financial Institutions Rating System (or an equivalent rating by any such agency under a comparable rating system) as of the most recent examination of such institution by the Corporation or the appropriate Federal banking agency.”
 
-1992—Subsec. (b)(2)(A)(iii). Pub. L. 102–550, §1603(b)(3)(A), substituted “Corporation and” for “Corporation or”.
+<b>1992</b>—Subsec. (b)(2)(A)(iii). Pub. L. 102–550, §1603(b)(3)(A), substituted “Corporation and” for “Corporation or”.
 
 Subsec. (g)(3)(A)(i). Pub. L. 102–550, §1603(b)(3)(B), substituted “any appropriate” for “an appropriate”.
 

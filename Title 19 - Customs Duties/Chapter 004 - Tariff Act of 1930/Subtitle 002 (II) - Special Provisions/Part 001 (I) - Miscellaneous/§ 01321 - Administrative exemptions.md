@@ -6,7 +6,7 @@ The Secretary of the Treasury, in order to avoid expense and inconvenience to th
 
 &emsp;(1) disregard a difference of an amount specified by the Secretary by regulation, but not less than $20, between the total estimated duties, fees, and taxes deposited, or the total duties, fees, and taxes tentatively assessed, with respect to any entry of merchandise and the total amount of duties, fees, taxes, and interest actually accruing thereon;
 
-&emsp;(2) admit articles free of duty and of any tax imposed on or by reason of importation, but the aggregate fair retail value in the country of shipment of articles imported by one person on one day and exempted from the payment of duty shall not exceed an amount specified bythe Secretary by regulation, but not less than—
+&emsp;(2) admit articles free of duty and of any tax imposed on or by reason of importation, but the aggregate fair retail value in the country of shipment of articles imported by one person on one day and exempted from the payment of duty shall not exceed an amount specified by the Secretary by regulation, but not less than—
 
 &emsp;&emsp;(A) $100 in the case of articles sent as bona fide gifts from persons in foreign countries to persons in the United States ($200 in the case of articles sent as bona fide gifts from persons in the Virgin Islands, Guam, and American Samoa), or
 

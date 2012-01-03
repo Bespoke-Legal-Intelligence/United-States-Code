@@ -1,14 +1,44 @@
 ### §1856m. Definitions
 
-As used in this subchapter—
+In this subchapter:
 
-&emsp;(1) the term “fire organization” means any governmental, public, or private entity having wildfire protection resources;
+#### (1) Assume any and all liability
 
-&emsp;(2) the term “wildfire protection resources” means personnel, supplies, equipment, and other resources required for wildfire presuppression and suppression activities; and
+&emsp;The term “assume any and all liability” means—
 
-&emsp;(3) the term “wildfire” means any forest or range fire.
+&emsp;&emsp;(A) the payment of—
 
-(Pub. L. 100–428, §2, Sept. 9, 1988, 102 Stat. 1615.)
+&emsp;&emsp;&emsp;(i) any judgment, settlement, fine, penalty, or cost assessment (including prevailing party legal fees) associated with the applicable litigation; and
+
+&emsp;&emsp;&emsp;(ii) any cost incurred in handling the applicable litigation (including legal fees); and
+
+&emsp;&emsp;(B) with respect to a Federal firefighter, arranging for, and paying the costs of, representation in the applicable litigation.
+
+#### (2) Federal firefighter
+
+&emsp;The term “Federal firefighter” means an individual furnished by the Secretary of Agriculture or the Secretary of the Interior under an agreement entered into under section 1856n of this title.
+
+#### (3) Foreign fire organization
+
+&emsp;The term “foreign fire organization” means any foreign governmental, public, or private entity that has wildfire protection resources.
+
+#### (4) Foreign firefighter
+
+&emsp;The term “foreign firefighter” means an individual furnished by a foreign fire organization under an agreement entered into under section 1856n of this title.
+
+#### (5) Wildfire
+
+&emsp;The term “wildfire” means any forest or range fire.
+
+#### (6) Wildfire protection resources
+
+&emsp;The term “wildfire protection resources” means any personnel, supplies, equipment, or other resources required for wildfire presuppression and suppression activities.
+
+(Pub. L. 100–428, §2, as added Pub. L. 112–74, div. E, title IV, §411(2), Dec. 23, 2011, 125 Stat. 1039.)
+
+#### Prior Provisions
+
+A prior section 1856m, Pub. L. 100–428, §2, Sept. 9, 1988, 102 Stat. 1615, related to definitions, prior to repeal by Pub. L. 112–74, div. E, title IV, §411(2), Dec. 23, 2011, 125 Stat. 1039.
 
 #### Short Title of 1989 Amendment
 
@@ -16,5 +46,5 @@ Pub. L. 101–11, §1, Apr. 7, 1989, 103 Stat. 15, provided that: “This Act \[
 
 #### Short Title
 
-Section 1 of Pub. L. 100–428 provided: “That this Act \[enacting this subchapter\] may be cited as the ‘Temporary Emergency Wildfire Suppression Act’.”
+Pub. L. 100–428, §1, Sept. 9, 1988, 102 Stat. 1615, as amended by Pub. L. 112–74, div. E, title IV, §411(1), Dec. 23, 2011, 125 Stat. 1039, provided that: “This Act \[enacting this subchapter\] may be cited as the ‘Emergency Wildfire Suppression Act’.”
 

@@ -26,7 +26,7 @@ For purposes of this part, the term “biasply tire” means a pneumatic tire on
 
 For purposes of this part, the term “super single tire” means a single tire greater than 13 inches in cross section width designed to replace 2 tires in a dual fitment. Such term shall not include any tire designed for steering.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 482; June 29, 1956, ch. 462, title II, §204(b), 70 Stat. 389; Pub. L. 98–369, div. A, title VII, §735(c)(3), July 18, 1984, 98 Stat. 982; Pub. L. 108–357, title VIII, §§851(c)(1), 869(b), Oct. 22, 2004, 118 Stat. 1608,1623; Pub. L. 109–58, title XIII, §1364(a), Aug. 8, 2005, 119 Stat. 1060.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 482; June 29, 1956, ch. 462, title II, §204(b), 70 Stat. 389; Pub. L. 98–369, div. A, title VII, §735(c)(3), July 18, 1984, 98 Stat. 982; Pub. L. 108–357, title VIII, §§851(c)(1), 869(b), Oct. 22, 2004, 118 Stat. 1608, 1623; Pub. L. 109–58, title XIII, §1364(a), Aug. 8, 2005, 119 Stat. 1060.)
 
 #### Amendments
 

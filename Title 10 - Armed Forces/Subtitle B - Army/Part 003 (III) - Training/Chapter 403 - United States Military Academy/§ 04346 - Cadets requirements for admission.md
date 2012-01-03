@@ -50,7 +50,7 @@ R.S. 1320.
 
 In subsection (a), the words “Effective January 1, 1951” are omitted as executed. The word “Calendar” is omitted as surplusage. The words “must not have passed his twenty-second birthday” are substituted for the words “not more than twenty-two years of age”, to make it clear that a person whose twenty-second birthday falls on July 1 of the year of admission is eligible (see opinion of the Judge Advocate General of the Army (JAGA 1952/7083, 2 Sept. 1952)).
 
-In subsection (b), the words “To be” are substituted for the words “before they shall be”. The words “must show \* \* \* that he is qualified” are substituted for the words “shall be required to be well versed”. The words “from time to time” are omitted as surplusage.
+In subsection (b), the words “To be” are substituted for the words “before they shall be”. The words “must show \* \* \* that he is qualified” are substituted for thewords “shall be required to be well versed”. The words “from time to time” are omitted as surplusage.
 
 In subsection (c), the word “shall” is substituted for the word “may”, since the nominee is required to appear for the examination. The word “appear” is substituted for the words “present himself”. The words “at a place” are substituted for the words “at West Point, New York, or other prescribed places”.
 
@@ -59,6 +59,46 @@ In subsection (d), the word “county” is omitted as surplusage. The words “
 #### Amendments
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–201 substituted “twenty-third birthday” for “twenty-second birthday”.
+
+#### Temporary Authority To Waive Maximum Age Limitation on Admission to the Military Service Academies
+
+Pub. L. 112–81, div. A, title V, §553, Dec. 31, 2011, 125 Stat. 1413, provided that:
+
+“(a)
+
+Waiver for Certain Enlisted Members.—The Secretary of the military department concerned may waive the maximum age limitation specified in section 4346(a), 6958(a)(1), or 9346(a) of title 10, United States Code, for the admission of an enlisted member of the Armed Forces to the United States Military Academy, the United States Naval Academy, or the United States Air Force Academy if the member—
+
+&emsp;“(1) satisfies the eligibility requirements for admission to that academy (other than the maximum age limitation); and
+
+&emsp;“(2) was or is prevented from being admitted to a military service academy before the member reached the maximum age specified in such sections as a result of service on active duty in a theater of operations for Operation Iraqi Freedom, Operation Enduring Freedom, or Operation New Dawn.
+
+“(b)
+
+Maximum Age for Receipt of Waiver.—A waiver may not be granted under this section if the candidate would pass the candidate's twenty-sixth birthday by July 1 of the year in which the candidate would enter the military service academy pursuant to the waiver.
+
+“(c)
+
+Limitation on Number Admitted Using Waiver.—Not more than five candidates may be admitted to each of the military service academies for an academic year pursuant to a waiver granted under this section.
+
+“(d)
+
+Record Keeping Requirement.—The Secretary of each military department shall maintain records on the number of graduates of the military service academy under the jurisdiction of the Secretary who are admitted pursuant to a waiver granted under this section and who remain in the Armed Forces beyond the active duty service obligation assumed upon graduation. The Secretary shall compare their retention rate to the retention rate of graduates of that academy generally.
+
+“(e)
+
+Reports.—Not later than April 1, 2016, the Secretary of each military department shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report specifying—
+
+&emsp;“(1) the number of applications for waivers received by the Secretary under this section;
+
+&emsp;“(2) the number of waivers granted by the Secretary under this section;
+
+&emsp;“(3) the number of candidates actually admitted to the military service academy under the jurisdiction of the Secretary pursuant to a waiver granted by the Secretary under this section; and
+
+&emsp;“(4) beginning with the class of 2009, the number of graduates of the military service academy under the jurisdiction of the Secretary who, before admission to that academy, were enlisted members of the Armed Forces and who remain in the Armed Forces beyond the active duty service obligation assumed upon graduation.
+
+“(f)
+
+Duration of Waiver Authority.—The authority to grant a waiver under this section expires on September 30, 2016.”
 
 #### Authority To Waive Maximum Age Limitation on Admission to Service Academies for Certain Enlisted Members Who Served During Persian Gulf War
 
@@ -70,7 +110,7 @@ Waiver Authority.—The Secretary of the military department concerned may waive
 
 &emsp;“(1) becomes 22 years of age while serving on active duty in the Persian Gulf area of operations in connection with Operation Desert Storm during the Persian Gulf War; or
 
-&emsp;“(2) was a candidate for admission to the service academy under the jurisdiction of such Secretary in1990, was prevented from being admitted to the academy during that year by reason of the service of such person on active duty in the Persian Gulf area of operations in connection with Operation Desert Storm, and became 22 years of age after July 1, 1990, and before the end of such service in that area of operations.
+&emsp;“(2) was a candidate for admission to the service academy under the jurisdiction of such Secretary in 1990, was prevented from being admitted to the academy during that year by reason of the service of such person on active duty in the Persian Gulf area of operations in connection with Operation Desert Storm, and became 22 years of age after July 1, 1990, and before the end of such service in that area of operations.
 
 “(b)
 

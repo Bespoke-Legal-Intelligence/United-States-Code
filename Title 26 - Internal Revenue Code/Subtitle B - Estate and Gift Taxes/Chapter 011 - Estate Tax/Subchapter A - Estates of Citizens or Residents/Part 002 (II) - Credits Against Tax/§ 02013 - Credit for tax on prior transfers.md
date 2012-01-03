@@ -14,7 +14,7 @@ The tax imposed by section 2001 shall be credited with all or a part of the amou
 
 #### (b) Computation of credit
 
-Subject to the limitation prescribed in subsection (c), the credit provided by this section shall be an amount which bears the same ratio to the estate tax paid (adjusted as indicated hereinafter) with respect to the estate of thetransferor as the value of the property transferred bears to the taxable estate of the transferor (determined for purposes of the estate tax) decreased by any death taxes paid with respect to such estate. For purposes of the preceding sentence, the estate tax paid shall be the Federal estate tax paid increased by any credits allowed against such estate tax under section 2012, or corresponding provisions of prior laws, on account of gift tax, and for any credits allowed against such estate tax under this section on account of prior transfers where the transferor acquired property from a person who died within 10 years before the death of the decedent.
+Subject to the limitation prescribed in subsection (c), the credit provided by this section shall be an amount which bears the same ratio to the estate tax paid (adjusted as indicated hereinafter) with respect to the estate of the transferor as the value of the property transferred bears to the taxable estate of the transferor (determined for purposes of the estate tax) decreased by any death taxes paid with respect to such estate. For purposes of the preceding sentence, the estate tax paid shall be the Federal estate tax paid increased by any credits allowed against such estate tax under section 2012, or corresponding provisions of prior laws, on account of gift tax, and for any credits allowed against such estate tax under this section on account of prior transfers where the transferor acquired property from a person who died within 10 years before the death of the decedent.
 
 #### (c) Limitation on credit
 
@@ -34,7 +34,7 @@ Subject to the limitation prescribed in subsection (c), the credit provided by t
 
 #### (d) Valuation of property transferred
 
-The value of property transferred to the decedent shall be the value used for the purpose of determining the Federal estate tax liability of the estate of the transferor but—
+The value of property transferred to the decedent shall be the value used for the purpose ofdetermining the Federal estate tax liability of the estate of the transferor but—
 
 &emsp;(1) there shall be taken into account the effect of the tax imposed by section 2001 or 2101, or any estate, succession, legacy, or inheritance tax, on the net value to the decedent of such property;
 

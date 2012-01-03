@@ -40,15 +40,17 @@
 
 (3) The Secretary shall allocate all amounts collected under this subsection with respect to a designated geographic service area of the Veterans Health Administration, net of payments to the contractor, to that region.
 
-(4) The authority of the Secretary under this subsection terminates on September 30, 2013.
+(4) The authority of the Secretary under this subsection terminates on September 30, 2020.
 
-(Added Pub. L. 99–272, title XIX, §19012(b)(1), Apr. 7, 1986, 100 Stat. 380, §603; amended Pub. L. 99–166, title I, §102(b)(1), Dec. 3, 1985, 99 Stat. 943; Pub. L. 99–272, title XIX, §19012(c)(5)(A), Apr. 7, 1986, 100 Stat. 382; Pub. L. 100–322, title I, §§101(e)(3), 104, 112(a), May 20, 1988, 102 Stat. 492, 493, 499; Pub. L. 100–687, div. B, title XV, §1503(a)(1), Nov. 18, 1988, 102 Stat. 4133; Pub. L. 102–54, §14(b)(9), June 13, 1991, 105 Stat. 283; renumbered §1703 and amended Pub. L. 102–83, §§4(a)(1), (3)–(5), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 102–585, title V, §501, Nov. 4, 1992, 106 Stat. 4955; Pub. L. 104–262, title I, §104(b), Oct. 9, 1996, 110 Stat. 3184; Pub. L. 108–422, title VI, §601, Nov. 30, 2004, 118 Stat. 2396; Pub. L. 109–13, div. A, title VI, §6080, May 11, 2005, 119 Stat. 302; Pub. L. 110–387, title VIII, §802, Oct. 10, 2008, 122 Stat. 4141.)
+(Added Pub. L. 99–272, title XIX, §19012(b)(1), Apr. 7, 1986, 100 Stat. 380, §603; amended Pub. L. 99–166, title I, §102(b)(1), Dec. 3, 1985, 99 Stat. 943;Pub. L. 99–272, title XIX, §19012(c)(5)(A), Apr. 7, 1986, 100 Stat. 382; Pub. L. 100–322, title I, §§101(e)(3), 104, 112(a), May 20, 1988, 102 Stat. 492, 493, 499; Pub. L. 100–687, div. B, title XV, §1503(a)(1), Nov. 18, 1988, 102 Stat. 4133; Pub. L. 102–54, §14(b)(9), June 13, 1991, 105 Stat. 283; renumbered §1703 and amended Pub. L. 102–83, §§4(a)(1), (3)–(5), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 102–585, title V, §501, Nov. 4, 1992, 106 Stat. 4955; Pub. L. 104–262, title I, §104(b), Oct. 9, 1996, 110 Stat. 3184; Pub. L. 108–422, title VI, §601, Nov. 30, 2004, 118 Stat. 2396; Pub. L. 109–13, div. A, title VI, §6080, May 11, 2005, 119 Stat. 302; Pub. L. 110–387, title VIII, §802, Oct. 10, 2008, 122 Stat. 4141; Pub. L. 112–37, §10(a), Oct. 5, 2011, 125 Stat. 396.)
 
 #### References in Text
 
 Section 115 of the Veterans’ Benefits and Services Act of 1988, referred to in subsec. (c), is set out as a note under section 1712 of this title.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (d)(4). Pub. L. 112–37 substituted “September 30, 2020” for “September 30, 2013”.
 
 <b>2008</b>—Subsec. (d)(4). Pub. L. 110–387 substituted “September 30, 2013” for “September 30, 2008”.
 
@@ -72,7 +74,7 @@ Subsec. (a)(7). Pub. L. 104–262, §104(b)(3), substituted “1712(a)(1)(F)” 
 
 Pub. L. 102–83, §4(a)(5), substituted “non-Department” for “non-Veterans’ Administration” in section catchline.
 
-Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted “1710 or 1712” for “610 or 612” in introductory provisions,“1712(a)(1)(B)” for “612(a)(1)(B)” in par. (2)(A), “1712(a)” for “612(a)” and “1712(a)(5)(B)” for “612(a)(5)(B)” in par. (2)(B), “1712(a)(3)” for “612(a)(3)” in par. (2)(C), “1720” for “620” in par. (3), and “1712(b)(1)(F)” for “612(b)(1)(F)” in par. (7).
+Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted “1710 or 1712” for “610 or 612” in introductory provisions, “1712(a)(1)(B)” for “612(a)(1)(B)” in par. (2)(A), “1712(a)” for “612(a)” and “1712(a)(5)(B)” for “612(a)(5)(B)” in par. (2)(B), “1712(a)(3)” for “612(a)(3)” in par. (2)(C), “1720” for “620” in par. (3), and “1712(b)(1)(F)” for “612(b)(1)(F)” in par. (7).
 
 Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions and in par. (2)(C).
 
@@ -178,7 +180,7 @@ In general.—The Secretary of Veterans Affairs shall conduct a pilot program un
 
 &emsp;“(2)
 
-Commencement.—The Secretary shall commence the conduct of the pilot program on the datethat is 120 days after the date of the enactment of this Act \[Oct. 10, 2008\].
+Commencement.—The Secretary shall commence the conduct of the pilot program on the date that is 120 days after the date of the enactment of this Act \[Oct. 10, 2008\].
 
 &emsp;“(3)
 

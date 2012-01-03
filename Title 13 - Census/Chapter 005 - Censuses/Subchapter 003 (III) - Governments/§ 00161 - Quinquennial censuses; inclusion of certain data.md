@@ -16,5 +16,5 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1957—Pub. L. 85–207 struck out “in the United States and in such of its Territories and possessions as may be determined by the Secretary” in last sentence. Geographical provisions now covered by section 191 of this title.
+<b>1957</b>—Pub. L. 85–207 struck out “in the United States and in such of its Territories and possessions as may be determined by the Secretary” in last sentence. Geographical provisions now covered by section 191 of this title.
 

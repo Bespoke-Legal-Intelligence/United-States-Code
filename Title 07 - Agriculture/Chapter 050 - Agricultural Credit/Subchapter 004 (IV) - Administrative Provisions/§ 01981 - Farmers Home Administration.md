@@ -8,7 +8,7 @@ In accordance with section 2006a of this title, for purposes of this chapter, an
 
 The Secretary may—
 
-&emsp;(1) administer his powers and duties through such national, area, State, or local offices and employees in the United States as he determines to be necessary and may authorize an office to serve the area composed of two or more States if he determines that the volume of business in the area is not sufficient to justify separate State offices, and until January 1, 1975, make contracts for services incident to making, insuring, collecting, and servicing loans and property as determined by the Secretary to be necessary for carrying out the purposes of this chapter; (and the Secretary shall prior to June 30, 1974, report to the Congress through the President on the experience in using such contracts, together with recommendations for such legislation as he may see fit);
+&emsp;(1) administer his powers and duties through such national, area, State, or local offices andemployees in the United States as he determines to be necessary and may authorize an office to serve the area composed of two or more States if he determines that the volume of business in the area is not sufficient to justify separate State offices, and until January 1, 1975, make contracts for services incident to making, insuring, collecting, and servicing loans and property as determined by the Secretary to be necessary for carrying out the purposes of this chapter; (and the Secretary shall prior to June 30, 1974, report to the Congress through the President on the experience in using such contracts, together with recommendations for such legislation as he may see fit);
 
 &emsp;(2) accept and utilize voluntary and uncompensated services, and, with the consent of the agency concerned, utilize the officers, employees, equipment, and information of any agency of the Federal Government, or of any State, territory, or political subdivision;
 
@@ -38,7 +38,7 @@ For definition of “this chapter”, referred to in subsecs. (a) and (b)(1), (3
 
 The Farmers Home Administration Act of 1946, as amended, referred to in subsec. (a), is act Aug. 14, 1946, ch. 964, 60 Stat. 1062, as amended, which was classified to sections 1001 to 1005, 1005a to 1005d, 1007, 1008, 1009, 1015 to 1029, 1030, and 1031 of this title, section 371 of Title 12, Banks and Banking, and section 82h of Title 31, Money and Finance, and in so far as it amended provisions of Title I, II, and IV of the Bankhead-Jones Farm Tenant Act, was repealed by section 341(a) of Pub. L. 87–128, and is covered by this chapter.
 
-The Bankhead-Jones Farm Tenant Act, as amended, referred to in subsec. (a), is act July 22, 1937, ch. 517, 50 Stat. 522, as amended. Title III of act July 22, 1937, as amended, is classified to sections 1010 to 1012 and 1013a of this title. Titles I, II, and IV of act July 22, 1937, as amended, were formerly classified to sections 1001 to1005, 1005a to 1005d, 1006, 1006c to 1006e, 1007, 1008, 1009, 1014 to 1025, 1026, and 1027 to 1029 of this title, respectively, were repealed by section 341(a) of Pub. L. 87–128, and are covered by this chapter.
+The Bankhead-Jones Farm Tenant Act, as amended, referred to in subsec. (a), is act July 22, 1937, ch. 517, 50 Stat. 522, as amended. Title III of act July 22, 1937, as amended, is classified to sections 1010 to 1012 and 1013a of this title. Titles I, II, and IV of act July 22, 1937, as amended, were formerly classified to sections 1001 to 1005, 1005a to 1005d, 1006, 1006c to 1006e, 1007, 1008, 1009, 1014 to 1025, 1026, and 1027 to 1029 of this title, respectively, were repealed by section 341(a) of Pub. L. 87–128, and are covered by this chapter.
 
 Act of August 28, 1937, as amended, referred to in subsec. (a), is act Aug. 28, 1937, ch. 870, 50 Stat. 869, as amended, which was formerly classified to sections 590r to 590x–4 of Title 16, Conservation, was repealed by section 341(a) of Pub. L. 87–128, and is covered by this chapter.
 
@@ -54,7 +54,7 @@ Section 14 of title 6, referred to in subsec. (b)(7), was repealed by Pub. L. 92
 
 #### Amendments
 
-2002—Subsec. (b)(4). Pub. L. 107–171, §5303, substituted “After consultation with a local or area county committee, the Secretary may release” for “The Secretary may release” and “carried out after” for “carried out—
+<b>2002</b>—Subsec. (b)(4). Pub. L. 107–171, §5303, substituted “After consultation with a local or area county committee, the Secretary may release” for “The Secretary may release” and “carried out after” for “carried out—
 
 &emsp;“(A) with respect to farmer program loans, on terms more favorable than those recommended by the appropriate county committee utilized pursuant to section 1982 of this title; or
 
@@ -62,17 +62,17 @@ Section 14 of title 6, referred to in subsec. (b)(7), was repealed by Pub. L. 92
 
 Subsecs. (d), (e). Pub. L. 107–171, §5304(a), struck out subsecs. (d) and (e) which related to temporary authority to enter into contracts, and private collection agency, respectively.
 
-1996—Subsec. (b)(4). Pub. L. 104–127, §748, inserted “(including debts and claims arising from loan guarantees)” after “debts or claims”, substituted “Consolidated Farm Service Agency, Rural Utilities Service, Rural Housing Service, Rural Business-Cooperative Service, or a successor agency, or” for “Farmers Home Administration or”, and inserted “In the case of a security instrument entered into under the Rural Electrification Act of 1936 (7 U.S.C. 901 et seq.), the Secretary shall notify the Attorney General of the intent of the Secretary to exercise the authority of the Secretary under this paragraph.” after “activities under the Housing Act of 1949 \[42 U.S.C. 1441 et seq.\].”
+<b>1996</b>—Subsec. (b)(4). Pub. L. 104–127, §748, inserted “(including debts and claims arising from loan guarantees)” after “debts or claims”, substituted “Consolidated Farm Service Agency, Rural Utilities Service, Rural Housing Service, Rural Business-Cooperative Service, or a successor agency, or” for “Farmers Home Administration or”, and inserted “In the case of a security instrument entered into under the Rural Electrification Act of 1936 (7 U.S.C. 901 et seq.), the Secretary shall notify the Attorney General of the intent of the Secretary to exercise the authority of the Secretary under this paragraph.” after “activities under the Housing Act of 1949 \[42 U.S.C. 1441 et seq.\].”
 
 Subsec. (d). Pub. L. 104–127, §631, added subsec. (d).
 
 Subsec. (e). Pub. L. 104–127, §632, added subsec. (e).
 
-1994—Subsec. (a). Pub. L. 103–354 substituted “assets to such officers or agencies of the Department of Agriculture as the Secretary considers appropriate.” for “assets to the Farmers Home Administration, to be headed by an Administrator, appointed by the President, by and with the advice and consent of the Senate, without regard to the civil service laws or chapter 51 and subchapter III of chapter 53 of title 5, who shall receive basic compensation as provided by law for that office, or may assign and transfer such powers, duties, and assets to the Rural Development Administration as provided by law for that office.”
+<b>1994</b>—Subsec. (a). Pub. L. 103–354 substituted “assets to such officers or agencies of the Department of Agriculture as the Secretary considers appropriate.” for “assets to the Farmers Home Administration, to be headed by an Administrator, appointed by the President, by and with the advice and consent of the Senate, without regard to the civil service laws or chapter 51 and subchapter III of chapter 53 of title 5, who shall receive basic compensation as provided by law for that office, or may assign and transfer such powers, duties, and assets to the Rural Development Administration as provided by law for that office.”
 
 Subsec. (c). Pub. L. 103–248 added subsec. (c).
 
-1991—Pub. L. 102–237, §501(c)(2)(B)(i), amended directory language of Pub. L. 101–624, §2388(d)(1). See 1990 Amendment note below.
+<b>1991</b>—Pub. L. 102–237, §501(c)(2)(B)(i), amended directory language of Pub. L. 101–624, §2388(d)(1). See 1990 Amendment note below.
 
 Subsec. (b)(1), (2). Pub. L. 102–237, §501(c)(2)(B)(iii), (v), amended directory language of Pub. L. 101–624, §2388(d)(1)(A)(vi). See 1990 Amendment note below.
 
@@ -112,7 +112,7 @@ Pub. L. 102–237, §501(c)(2)(A), amended Pub. L. 101–624, §1805(b), and rep
 
 Pars. (i), (j). Pub. L. 102–237, §501(c)(2)(A), amended Pub. L. 101–624, §1805(b), and repealed Pub. L. 101–624, §1805(c)(5). See 1990 Amendment note below.
 
-1990—Pub. L. 101–624, §2388(d)(1), was amended in its directory language by Pub. L. 102–237, §501(c)(2)(B)(i), resulting in no change in text.
+<b>1990</b>—Pub. L. 101–624, §2388(d)(1), was amended in its directory language by Pub. L. 102–237, §501(c)(2)(B)(i), resulting in no change in text.
 
 Subsec. (a). Pub. L. 101–624, §§2303(a)(1), 2388(d)(1)(B), designated first undesignated par. as subsec. (a) and substituted “In accordance with section 2006a of this title, for purposes of this chapter, and” for “For the purposes of this chapter and”, and inserted before period at end “, or may assign and transfer such powers, duties, and assets to the Rural Development Administration as provided by law for that office”.
 
@@ -176,19 +176,19 @@ Pars. (i), (j). Pub. L. 101–624, §1805(c)(5), which redesignated pars. (i) an
 
 Pub. L. 101–624, §1805(b), as amended by Pub. L. 102–237, §501(c)(2)(A), redesignated pars. (i) and (j) as (h) and (i), respectively. Pars. (h) and (i) subsequently redesignated pars. (8) and (9) of subsec. (b). See above.
 
-1988—Par. (d). Pub. L. 100–233 inserted “or debts” before “claims”, and inserted “The Secretary may not require liquidation of property securing any farmer program loan or acceleration of any payment required under any farmer program loan as a prerequisite to initiating an action authorized under this subsection.”
+<b>1988</b>—Par. (d). Pub. L. 100–233 inserted “or debts” before “claims”, and inserted “The Secretary may not require liquidation of property securing any farmer program loan or acceleration of any payment required under any farmer program loan as a prerequisite to initiating an action authorized under this subsection.”
 
-1985—Par. (d). Pub. L. 99–198, §1309, in amending par. (d) generally, substituted provisions authorizing the Secretary to compromise, adjust, reduce, or charge-off claims, and adjust, modify, subordinate, or release the terms of security instruments, leases, contracts, and agreements entered into or administered by the Farmers Home Administration to carry out this chapter for provisions which had authorized the Secretary to compromise, adjust, or reduce claims, and adjust and modify the terms of mortgages, leases, contracts and agreements entered into or administered by the Administration under any of its programs, but not in the event of claims of $25,000 or more without the approval of the Administrator, substituted provisions authorizing the Secretary to release borrowers or others obligated on a debt incurred under this chapter from personal liability with or without consideration at the time of the compromise, adjustment, reduction or charge-off of any claim for provisions authorizing the Secretary to release from personal liability, with or without payment of any consideration at the time of adjustment of the claims, borrowers who transferred the security property to approved applicants, to other than approved applicants, or for amounts less than the indebtedness secured thereby, struck out provisions that compromise, adjustment, or reduction of the claim shall be based on the value of the security and a determination of the debtor's reasonable ability to pay considering his other assets and income, and struck out provisions relating to any claim due and payable for five years or more and to partial releases and subordination of mortgages.
+<b>1985</b>—Par. (d). Pub. L. 99–198, §1309, in amending par. (d) generally, substituted provisions authorizing the Secretary to compromise, adjust, reduce, or charge-off claims, and adjust, modify, subordinate, or release the terms of security instruments, leases, contracts, and agreements entered into or administered by the Farmers Home Administration to carry out this chapter for provisions which had authorized the Secretary to compromise, adjust, or reduce claims, and adjust and modify the terms of mortgages, leases, contracts and agreements entered into or administered by the Administration under any of its programs, but not in the event of claims of $25,000 or more without the approval of the Administrator, substituted provisions authorizing the Secretary to release borrowers or others obligated on a debt incurred under this chapter from personal liability with or without consideration at the time of the compromise, adjustment, reduction or charge-off of any claim for provisions authorizing the Secretary to release from personal liability, with or without payment of any consideration at the time of adjustment of the claims, borrowers who transferred the security property to approved applicants, to other than approved applicants, or for amounts less than the indebtedness secured thereby, struck out provisions that compromise, adjustment, or reduction of the claim shall be based on the value of the security and a determination of thedebtor's reasonable ability to pay considering his other assets and income, and struck out provisions relating to any claim due and payable for five years or more and to partial releases and subordination of mortgages.
 
-1981—Par. (i). Pub. L. 97–98 designated existing provisions following “consent to” as cl. (2) and added cl. (1).
+<b>1981</b>—Par. (i). Pub. L. 97–98 designated existing provisions following “consent to” as cl. (2) and added cl. (1).
 
-1978—Pub. L. 95–334 in par. (a) struck out references to Puerto Rico and the Virgin Islands, in par. (d) substituted “$25,000” for “$15,000”, and added par. (j).
+<b>1978</b>—Pub. L. 95–334 in par. (a) struck out references to Puerto Rico and the Virgin Islands, in par. (d) substituted “$25,000” for “$15,000”, and added par. (j).
 
-1972—Par. (a). Pub. L. 92–419, §124(1), authorized the Secretary of Agriculture, until Jan. 1, 1975, to make contracts for services incident to making, insuring, collecting, and servicing loans and property as determined by the Secretary to be necessary for carrying out the purposes of this chapter, and required the Secretary, prior to June 30, 1974, to report to Congress through the President on the experience in using such contracts, together with recommendations for such legislation as he may see fit.
+<b>1972</b>—Par. (a). Pub. L. 92–419, §124(1), authorized the Secretary of Agriculture, until Jan. 1, 1975, to make contracts for services incident to making, insuring, collecting, and servicing loans and property as determined by the Secretary to be necessary for carrying out the purposes of this chapter, and required the Secretary, prior to June 30, 1974, to report to Congress through the President on the experience in using such contracts, together with recommendations for such legislation as he may see fit.
 
 Pars. (d) to (i). Pub. L. 92–419, §124(2), substituted a semicolon for a period at end of lettered pars. (d), (e) and (f) and added pars. (g) to (i).
 
-1968—Par. (f). Pub. L. 90–488 added par. (f).
+<b>1968</b>—Par. (f). Pub. L. 90–488 added par. (f).
 
 #### Effective Date of 2002 Amendment
 

@@ -6,7 +6,7 @@ The debtor shall file a plan for the adjustment of the debtor's debts. If such a
 
 #### Historical and Revision Notes
 
-I74senate report no. 95–989
+#### senate report no. 95–989
 
 Section 941 gives the debtor the exclusive right to propose a plan, and directs that the debtor propose one either with the petition or within such time as the court directs. The section follows section 90(a) of current law \[section 410(a) of former title 11\].
 

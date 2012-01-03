@@ -32,7 +32,15 @@ Definitions.—As used in this section—
 
 &emsp;(2) the term “WTO member country” has the meaning given that term in section 2(10) of the Uruguay Round Agreements Act.
 
-(July 19, 1952, ch. 950, 66 Stat. 798; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 94–131, §6, Nov. 14, 1975, 89 Stat. 691; Pub. L. 98–622, title IV, §403(a), Nov. 8, 1984, 98 Stat. 3392; Pub. L. 103–182, title III, §331, Dec. 8, 1993, 107 Stat. 2113; Pub. L. 103–465, title V, §531(a), Dec. 8, 1994, 108 Stat. 4982; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
+(July 19, 1952, ch. 950, 66 Stat. 798; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 94–131, §6, Nov. 14, 1975, 89 Stat. 691; Pub. L. 98–622, title IV, §403(a), Nov. 8, 1984, 98 Stat. 3392; Pub. L. 103–182, title III, §331, Dec. 8, 1993, 107 Stat. 2113; Pub. L. 103–465, title V, §531(a), Dec. 8, 1994, 108 Stat. 4982; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; (As amended Pub. L. 112–29, §20(j), Sept. 16, 2011, 125 Stat. 335.)
+
+#### Amendment of Section
+
+<i>Pub. L. 112–29, §20(j), (l), Sept. 16, 2011, 125 Stat. 335, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, this section is amended by striking “of this title” each place that term appears. See 2011 Amendment note below.</i>
+
+#### Repeal of Section
+
+<i>Pub. L. 112–29, §3(d), (n), Sept. 16, 2011, 125 Stat. 287, 293, provided that, effective upon the expiration of the 18-month period beginning on Sept. 16, 2011, and applicable to certain applications for patent and any patents issuing thereon, this section is repealed.</i>
 
 #### Historical and Revision Notes
 
@@ -48,6 +56,8 @@ Section 2(10) of the Uruguay Round Agreements Act, referred to in subsec. (b)(2)
 
 #### Amendments
 
+<b>2011</b>—Subsec. (a)(1). Pub. L. 112–29, 20(j), struck out “of this title” after “365”.
+
 <b>2002</b>—Subsec. (a)(3). Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
 
 <b>1999</b>—Subsec. (a)(3). Pub. L. 106–113, as amended by Pub. L. 107–273, substituted “Director” for “Commissioner”.
@@ -61,6 +71,14 @@ Section 2(10) of the Uruguay Round Agreements Act, referred to in subsec. (b)(2)
 <b>1975</b>—Pub. L. 94–131 inserted in exception provision reference to section 365 of this title relating to priority of applications having benefit of filing date of prior applications.
 
 Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
+
+#### Effective Date of Repeal
+
+Repeal effective upon the expiration of the 18-month period beginning on Sept. 16, 2011, and applicable to certain applications for patent and any patents issuing thereon, see section 3(n) of Pub. L. 112–29, set out as an Effective Date of 2011 Amendment; Savings Provisions note under section 100 of this title.
+
+#### Effective Date of 2011 Amendment
+
+Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(<i>l</i>) of Pub. L. 112–29, set out as a note under section 2 of this title.
 
 #### Effective Date of 1999 Amendment
 

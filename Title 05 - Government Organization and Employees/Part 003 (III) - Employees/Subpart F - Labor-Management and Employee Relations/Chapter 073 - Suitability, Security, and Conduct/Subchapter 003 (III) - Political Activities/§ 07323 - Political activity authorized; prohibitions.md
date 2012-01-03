@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) not a subordinate employee; and
 
-&emsp;&emsp;(C) the solicitation is for a contribution to the multicandidate political committee (as defined under section 315(a)(4) of the Federal Election Campaign Act of 1971 (2 U.S.C. 441a(a)(4))) of such Federal labor organization as defined under section 7103(4) of this title or a Federal employee organization which as of the date of the enactment of theHatch Act Reform Amendments of 1993 had a multicandidate political committee (as defined under section 315(a)(4) of the Federal Election Campaign Act of 1971 (2 U.S.C. 441a(a)(4))); or
+&emsp;&emsp;(C) the solicitation is for a contribution to the multicandidate political committee (as defined under section 315(a)(4) of the Federal Election Campaign Act of 1971 (2 U.S.C. 441a(a)(4))) of such Federal labor organization as defined under section 7103(4) of this title or a Federal employee organization which as of the date of the enactment of the Hatch Act Reform Amendments of 1993 had a multicandidate political committee (as defined under section 315(a)(4) of the Federal Election Campaign Act of 1971 (2 U.S.C. 441a(a)(4))); or
 
 &emsp;(3) run for the nomination or as a candidate for election to a partisan political office; or
 
@@ -76,19 +76,19 @@ A prior section 7323, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 525, prohibited 
 
 #### Amendments
 
-2008—Subsec. (b)(2)(B)(i)(XIII). Pub. L. 110–417 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
+<b>2008</b>—Subsec. (b)(2)(B)(i)(XIII). Pub. L. 110–417 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
-2006—Subsec. (b)(3). Pub. L. 109–177 inserted “or National Security Division” after “Criminal Division”.
+<b>2006</b>—Subsec. (b)(3). Pub. L. 109–177 inserted “or National Security Division” after “Criminal Division”.
 
-2004—Subsec. (b)(2)(B)(i)(XIV). Pub. L. 108–458 added subcl. (XIV).
+<b>2004</b>—Subsec. (b)(2)(B)(i)(XIV). Pub. L. 108–458 added subcl. (XIV).
 
-2002—Subsec. (b)(2)(B)(i)(I). Pub. L. 107–252 inserted “or the Election Assistance Commission” after “Commission”.
+<b>2002</b>—Subsec. (b)(2)(B)(i)(I). Pub. L. 107–252 inserted “or the Election Assistance Commission” after “Commission”.
 
-2000—Subsec. (b)(2)(B)(ii). Pub. L. 106–554 substituted “5372a, or 5372b” for “or 5372a”.
+<b>2000</b>—Subsec. (b)(2)(B)(ii). Pub. L. 106–554 substituted “5372a, or 5372b” for “or 5372a”.
 
-1996—Subsec. (b)(2)(B)(i)(XIII). Pub. L. 104–201 substituted “National Imagery and Mapping Agency” for “Central Imagery Office”.
+<b>1996</b>—Subsec. (b)(2)(B)(i)(XIII). Pub. L. 104–201 substituted “National Imagery and Mapping Agency” for “Central Imagery Office”.
 
-1994—Subsec. (b)(2)(B)(i)(XIII). Pub. L. 103–359 added subcl. (XIII).
+<b>1994</b>—Subsec. (b)(2)(B)(i)(XIII). Pub. L. 103–359 added subcl. (XIII).
 
 #### Effective Date of 2004 Amendment
 

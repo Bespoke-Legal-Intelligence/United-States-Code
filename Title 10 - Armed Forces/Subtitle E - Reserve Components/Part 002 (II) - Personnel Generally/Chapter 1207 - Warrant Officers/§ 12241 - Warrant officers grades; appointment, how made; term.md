@@ -62,7 +62,7 @@ In subsection (c), the words “After July 9, 1952” are omitted as executed. 5
 
 <b>1991</b>—Subsec. (a). Pub. L. 102–190 substituted “section 571(a)” for “section 555(a)”.
 
-<b>1985</b>—Subsec. (b). Pub. L. 99–145 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Reserve chief warrant officers of the Army and the Air Force shall be appointed in those grades, bywarrant, by the Secretary concerned. Permanent reserve chief warrant officers of the Navy, Marine Corps, and Coast Guard shall be appointed in those grades, by commission, by the Secretary concerned. Permanent reserve warrant officers, W-1, shall be appointed in those grades, by warrant, by the Secretary concerned.”
+<b>1985</b>—Subsec. (b). Pub. L. 99–145 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Reserve chief warrant officers of the Army and the Air Force shall be appointed in those grades, by warrant, by the Secretary concerned. Permanent reserve chief warrant officers of the Navy, Marine Corps, and Coast Guard shall be appointed in those grades, by commission, by the Secretary concerned. Permanent reserve warrant officers, W-1, shall be appointed in those grades, by warrant, by the Secretary concerned.”
 
 #### Effective Date of 1991 Amendment
 

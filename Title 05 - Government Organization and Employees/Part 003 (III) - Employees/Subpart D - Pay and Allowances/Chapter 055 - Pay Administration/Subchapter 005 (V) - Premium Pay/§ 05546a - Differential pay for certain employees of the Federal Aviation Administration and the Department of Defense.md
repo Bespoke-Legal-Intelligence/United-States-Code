@@ -1,6 +1,6 @@
 ### §5546a. Differential pay for certain employees of the Federal Aviation Administration and the Department of Defense
 
-(a) The Administrator of the Federal Aviation Administration (hereafter in this section referred to as the “Administrator”) and the Secretary of Defense (hereafter in this section referred to as the “Secretary”) may pay premium pay at the rate of 5 per centum of the applicable rate of basic pay to—
+(a) The Administrator of the Federal Aviation Administration (hereafter in this section referred to as the “Administrator”) and the Secretary of Defense (hereafter in this section referred to as the “Secretary”) may pay premiumpay at the rate of 5 per centum of the applicable rate of basic pay to—
 
 &emsp;(1) any employee of the Federal Aviation Administration or the Department of Defense who is—
 
@@ -44,7 +44,7 @@
 
 #### Amendments
 
-1984—Pub. L. 98–525, §1537(c)(6)(A), inserted “and the Department of Defense” in section catchline.
+<b>1984</b>—Pub. L. 98–525, §1537(c)(6)(A), inserted “and the Department of Defense” in section catchline.
 
 Subsec. (a). Pub. L. 98–525, §1537(c)(1)(A), inserted “and the Secretary of Defense (hereafter in this section referred to as the ‘Secretary’)” in provisions preceding par. (1).
 
@@ -56,7 +56,7 @@ Subsecs. (c)(1), (d), (e)(1), (f)(1). Pub. L. 98–525, §1537(c)(2)–(5)(A), i
 
 Subsec. (f)(2). Pub. L. 98–525, §1537(c)(5)(B), inserted “and the Secretary”.
 
-1982—Subsec. (a)(3). Pub. L. 97–377 added par. (3).
+<b>1982</b>—Subsec. (a)(3). Pub. L. 97–377 added par. (3).
 
 #### Effective Date of 1984 Amendment
 

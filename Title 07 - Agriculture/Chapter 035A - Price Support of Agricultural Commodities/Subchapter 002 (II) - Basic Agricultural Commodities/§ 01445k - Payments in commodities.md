@@ -36,7 +36,7 @@ Section was classified to section 1445b–4 of this title prior to its renumberi
 
 #### Amendments
 
-1990—Subsec. (c). Pub. L. 101–624, §1122(a), added subsec. (c).
+<b>1990</b>—Subsec. (c). Pub. L. 101–624, §1122(a), added subsec. (c).
 
 #### Effective Date of 1990 Amendment
 

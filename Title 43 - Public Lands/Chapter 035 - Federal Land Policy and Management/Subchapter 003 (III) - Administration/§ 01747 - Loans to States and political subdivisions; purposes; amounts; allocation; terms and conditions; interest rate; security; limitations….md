@@ -8,7 +8,7 @@
 
 (4) Loans made pursuant to this section shall be subject to such terms and conditions as the Secretary determines necessary to assure the achievement of the purpose of this section. The Secretary shall promulgate such regulations as may be necessary to carry out the provisions of this section no later than three months after August 20, 1978.
 
-(5) Loans made pursuant to this section shall bear interest equivalent to the lowest interest rate paid on an issue of at least $1,000,000 of tax exempt bonds of such State or any agency thereof within the preceding calendar year.
+(5) Loans made pursuant to this section shall bear interest equivalent to the lowest interest rate paid on an issue of at least $1,000,000 of taxexempt bonds of such State or any agency thereof within the preceding calendar year.
 
 (6) Any loan made pursuant to this section shall be secured only by a pledge of the revenues received by the State or the political subdivision thereof pursuant to section 35 of the Act of February 25, 1920, as amended \[30 U.S.C. 191\], and shall not constitute an obligation upon the general property or taxing authority of such unit of government.
 
@@ -34,7 +34,7 @@ Section is comprised of subsec. (c) of section 317 of Pub. L. 94–579. Subsecs.
 
 #### Amendments
 
-<b>1978</b>—Pars. (1) and (2). Pub. L. 95–352 redesignated par. (1) as pars. (1) and (2), in par. (1) struck out provisionsestablishing interest rate requirements, and in par. (2) struck out exception for Alaska and requirements for repayment. Former par. (2) redesignated (3).
+<b>1978</b>—Pars. (1) and (2). Pub. L. 95–352 redesignated par. (1) as pars. (1) and (2), in par. (1) struck out provisions establishing interest rate requirements, and in par. (2) struck out exception for Alaska and requirements for repayment. Former par. (2) redesignated (3).
 
 Pars. (3) to (11). Pub. L. 95–352 redesignated former pars. (2) and (3) as (3) and (4), respectively, and added pars. (5) to (11).
 

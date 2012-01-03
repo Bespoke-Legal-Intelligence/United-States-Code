@@ -4,11 +4,11 @@
 
 #### (1) In general
 
-&emsp;Each remittance transfer provider shall make disclosures as required under this section and in accordance with rules prescribed by the Board. Disclosures required under this section shall be in addition to any other disclosures applicable under this subchapter.
+&emsp;Each remittance transfer provider shall make disclosures as required under this section and in accordance with rules prescribed by the Bureau. Disclosures required under this section shall be in addition to any other disclosures applicable under this subchapter.
 
 #### (2) Disclosures
 
-&emsp;Subject to rules prescribed by the Board, a remittance transfer provider shall provide, in writing and in a form that the sender may keep, to each sender requesting a remittance transfer, as applicable to the transaction—
+&emsp;Subject to rules prescribed by the Bureau, a remittance transfer provider shall provide, in writing and in a form that the sender may keep, to each sender requesting a remittance transfer, as applicable to the transaction—
 
 &emsp;&emsp;(A) at the time at which the sender requests a remittance transfer to be initiated, and prior to the sender making any payment in connection with the remittance transfer, a disclosure describing—
 
@@ -36,13 +36,13 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) the remittance transfer provider; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the State agency that regulates the remittance transfer provider and the Board, including the toll-free telephone number established under section 5493 of title 12.
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the State agency that regulates the remittance transfer provider and the Bureau, including the toll-free telephone number established under section 5493 of title 12.
 
 #### (3) Requirements relating to disclosures
 
 &emsp;With respect to each disclosure required to be provided under paragraph (2) a remittance transfer provider shall—
 
-&emsp;&emsp;(A) provide an initial notice and receipt, as required by subparagraphs (A) and (B) of paragraph (2), and an error resolution statement, as required by subsection (d), thatclearly and conspicuously describe the information required to be disclosed therein; and
+&emsp;&emsp;(A) provide an initial notice and receipt, as required by subparagraphs (A) and (B) of paragraph (2), and an error resolution statement, as required by subsection (d), that clearly and conspicuously describe the information required to be disclosed therein; and
 
 &emsp;&emsp;(B) with respect to any transaction that a sender conducts electronically, comply with the Electronic Signatures in Global and National Commerce Act (15 U.S.C. 7001 et seq.).
 
@@ -50,7 +50,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to the rules prescribed by the Board, and except as provided under subparagraph (B), the disclosures required regarding the amount of currency that will be received by the designated recipient shall be deemed to be accurate, so long as the disclosures provide a reasonably accurate estimate of the foreign currency to be received. This paragraph shall apply only to a remittance transfer provider who is an insured depository institution, as defined in section 1813 of title 12, or an insured credit union, as defined in section 1752 of title 12, and if—
+&emsp;&emsp;Subject to the rules prescribed by the Bureau, and except as provided under subparagraph (B), the disclosures required regarding the amount of currency that will be received by the designated recipient shall be deemed to be accurate, so long as the disclosures provide a reasonably accurate estimate of the foreign currency to be received. This paragraph shall apply only to a remittance transfer provider who is an insured depository institution, as defined in section 1813 of title 12, or an insured credit union, as defined in section 1752 of title 12, and if—
 
 &emsp;&emsp;&emsp;(i) a remittance transfer is conducted through a demand deposit, savings deposit, or other asset account that the sender holds with such remittance transfer provider; and
 
@@ -58,11 +58,11 @@
 
 #### (B) Deadline
 
-&emsp;&emsp;The application of subparagraph (A) shall terminate 5 years after July 21, 2010, unless the Board determines that termination of such provision would negatively affect the ability of remittance transfer providers described in subparagraph (A) to send remittances to locations in foreign countries, in which case, the Board may, by rule, extend the application of subparagraph (A) to not longer than 10 years after July 21, 2010.
+&emsp;&emsp;The application of subparagraph (A) shall terminate 5 years after July 21, 2010, unless the Bureau determines that termination of such provision would negatively affect the ability of remittance transfer providers described in subparagraph (A) to send remittances to locations in foreign countries, in which case, the Bureau may, by rule, extend the application of subparagraph (A) to not longer than 10 years after July 21, 2010.
 
 #### (5) Exemption authority
 
-&emsp;The Board may, by rule, permit a remittance transfer provider to satisfy the requirements of—
+&emsp;The Bureau may, by rule, permit a remittance transfer provider to satisfy the requirements of—
 
 &emsp;&emsp;(A) paragraph (2)(A) orally, if the transaction is conducted entirely by telephone;
 
@@ -78,23 +78,23 @@
 
 #### (i) Prominent posting
 
-&emsp;&emsp;&emsp;Subject to subparagraph (B), the Board may prescribe rules to require a remittance transfer provider to prominently post, and timely update, a notice describing a model remittance transfer for one or more amounts, as the Board may determine, which notice shall show the amount of currency that will be received by the designated recipient, using the values of the currency into which the funds will be exchanged.
+&emsp;&emsp;&emsp;Subject to subparagraph (B), the Bureau may prescribe rules to require a remittance transfer provider to prominently post, and timely update, a notice describing a model remittance transfer for one or more amounts, as the Bureau may determine, which notice shall show the amount of currency that will be received by the designated recipient, using the values of the currency into which the funds will be exchanged.
 
 #### (ii) Onsite displays
 
-&emsp;&emsp;&emsp;The Board may require the notice prescribed under this subparagraph to be displayed in every physical storefront location owned or controlled by the remittance transfer provider.
+&emsp;&emsp;&emsp;The Bureau may require the notice prescribed under this subparagraph to be displayed in every physical storefront location owned or controlled by the remittance transfer provider.
 
 #### (iii) Internet notices
 
-&emsp;&emsp;&emsp;Subject to paragraph (3), the Board shall prescribe rules to require a remittance transfer provider that provides remittance transfers via the Internet to provide a notice, comparable to a storefront notice described in this subparagraph, located on the home page or landing page (with respect to such remittance transfer services) owned or controlled by the remittance transfer provider.
+&emsp;&emsp;&emsp;Subject to paragraph (3), the Bureau shall prescribe rules to require a remittance transfer provider that provides remittance transfers via the Internet to provide a notice, comparable to a storefront notice described in this subparagraph, located on the home page or landing page (with respect to such remittance transfer services) owned or controlled by the remittance transfer provider.
 
 #### (iv) Rulemaking authority
 
-&emsp;&emsp;&emsp;In prescribing rules under this subparagraph, the Board may impose standards or requirements regarding the provision of the storefront and Internet notices required under this subparagraph and the provision of the disclosures required under paragraphs (2) and (3).
+&emsp;&emsp;&emsp;In prescribing rules under this subparagraph, the Bureau may impose standards or requirements regarding the provision of the storefront and Internet notices required under this subparagraph and the provision of the disclosures required under paragraphs (2) and (3).
 
 #### (B) Study and analysis
 
-&emsp;&emsp;Prior to proposing rules under subparagraph (A), the Board shall undertake appropriate studies and analyses, which shall be consistent with section 1693b(a)(2) of this title, and may include an advanced notice of proposed rulemaking, to determine whether a storefront notice or Internet notice facilitates the ability of a consumer—
+&emsp;&emsp;Prior to proposing rules under subparagraph (A), the Bureau shall undertake appropriate studies and analyses, which shall be consistent with section 1693b(a)(2) of this title, and may include an advanced notice of proposed rulemaking, to determine whether a storefront notice or Internet notice facilitates the ability of a consumer—
 
 &emsp;&emsp;&emsp;(i) to compare prices for remittance transfers; and
 
@@ -106,7 +106,7 @@ The disclosures required under this section shall be made in English and in each
 
 #### (c) Regulations regarding transfers to certain nations
 
-If the Board determines that a recipient nation does not legally allow, or the method by which transactions are made in the recipient country do not allow, a remittance transfer provider to know the amount of currency that will be received by the designated recipient, the Board may prescribe rules (not later than 18 months after July 21, 2010) addressing the issue, which rules shall include standards for a remittance transfer provider to provide—
+If the Bureau determines that a recipient nation does not legally allow, or the method by which transactions are made in the recipient country do not allow, a remittance transfer provider to know the amount of currency that will be received by the designated recipient, the Bureau may prescribe rules (not later than 18 months after July 21, 2010) addressing the issue, which rules shall include standards for a remittance transfer provider to provide—
 
 &emsp;(1) a receipt that is consistent with subsections (a) and (b); and
 
@@ -128,13 +128,13 @@ If the Board determines that a recipient nation does not legally allow, or the m
 
 &emsp;&emsp;&emsp;(ii) make available to the designated recipient, without additional cost to the designated recipient or to the sender, the amount appropriate to resolve the error;
 
-&emsp;&emsp;&emsp;(iii) provide such other remedy, as determined appropriate by rule of the Board for the protection of senders; or
+&emsp;&emsp;&emsp;(iii) provide such other remedy, as determined appropriate by rule of the Bureau for the protection of senders; or
 
 &emsp;&emsp;&emsp;(iv) provide written notice to the sender that there was no error with an explanation responding to the specific complaint of the sender.
 
 #### (2) Rules
 
-&emsp;The Board shall establish, by rule issued not later than 18 months after July 21, 2010, clear and appropriate standards for remittance transfer providers with respect to error resolution relating to remittance transfers, to protect senders from such errors. Standards prescribed under this paragraph shall include appropriate standards regarding record keeping, as required, including documentation—
+&emsp;The Bureau shall establish, by rule issued not later than 18 months after July 21, 2010, clear and appropriate standards for remittance transfer providers with respect to error resolution relating to remittance transfers, to protect senders from such errors. Standards prescribed under this paragraph shall include appropriate standards regarding record keeping, as required, including documentation—
 
 &emsp;&emsp;(A) of the complaint of the sender;
 
@@ -144,7 +144,7 @@ If the Board determines that a recipient nation does not legally allow, or the m
 
 #### (3) Cancellation and refund policy rules
 
-&emsp;Not later than 18 months after July 21, 2010, the Board shall issue final rules regarding appropriate remittance transfer cancellation and refund policies for consumers.
+&emsp;Not later than 18 months after July 21, 2010, the Bureau shall issue final rules regarding appropriate remittance transfer cancellation and refund policies for consumers.
 
 #### (e) Applicability of this subchapter
 
@@ -168,7 +168,7 @@ If the Board determines that a recipient nation does not legally allow, or the m
 
 #### (2) Obligations of remittance transfer providers
 
-&emsp;The Board shall prescribe rules to implement appropriate standards or conditions of, liability of a remittance transfer provider, including a provider who acts through an agent or authorized delegate. An agency charged with enforcing the requirements of this section, or rules prescribed by the Board under this section, may consider, in any action or other proceeding against a remittance transfer provider, the extent to which the provider had established and maintained policies or procedures for compliance, including policies, procedures, or other appropriate oversight measures designed to assure compliance by an agent or authorized delegate acting for such provider.
+&emsp;The Bureau shall prescribe rules to implement appropriate standards or conditions of, liability of a remittance transfer provider, including a provider who acts through an agent or authorized delegate. An agency charged with enforcing the requirements of this section, or rules prescribed by the Bureau under this section, may consider, in any action orother proceeding against a remittance transfer provider, the extent to which the provider had established and maintained policies or procedures for compliance, including policies, procedures, or other appropriate oversight measures designed to assure compliance by an agent or authorized delegate acting for such provider.
 
 #### (g) Definitions
 
@@ -188,10 +188,6 @@ As used in this section—
 
 (Pub. L. 90–321, title IX, §919, as added and amended Pub. L. 111–203, title X, §§1073(a)(4), 1084(1), July 21, 2010, 124 Stat. 2060, 2081.)
 
-#### Amendment of Section
-
-<i>Pub. L. 111–203, title X, §§1084(1), 1100H, July 21, 2010, 124 Stat. 2081, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Board” each place that term appears and inserting “Bureau”. See Effective Date of 2010 Amendment note below.</i>
-
 #### References in Text
 
 The Electronic Signatures in Global and National Commerce Act, referred to in subsec. (a)(3)(B), is Pub. L. 106–229, June 30, 2000, 114 Stat. 464, which is classified principally to chapter 96 (§7001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7001 of this title and Tables.
@@ -203,6 +199,10 @@ Chapter 2 of title I of Public Law 91–508, referred to in subsec. (e)(2)(A), i
 A prior section 919 of Pub. L. 90–321 was renumbered section 921 and is classified to section 1693p of this title.
 
 Another prior section 919 of Pub. L. 90–321 was renumbered section 922 and is classified to section 1693q of this title.
+
+#### Amendments
+
+<b>2010</b>—Pub. L. 111–203, §1084(1), substituted “Bureau” for “Board” wherever appearing.
 
 #### Effective Date of 2010 Amendment
 

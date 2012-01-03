@@ -74,7 +74,7 @@ Dealing With Acquired Property.—Notwithstanding another law related to the Gov
 
 (h)
 
-Transfer of Assets No Longer Needed.—(1) If a recipient of assistance under this chapter decides an asset acquired under this chapter at least in part with that assistance is no longer needed for the purpose for which it was acquired, the Secretary of Transportation may authorize the recipient to transfer the asset to a local governmental authority to be used for a public purpose with no further obligation to the Government. The Secretary may authorize a transfer for a public purpose other than public transportation only if the Secretary decides—
+Transfer of Assets No Longer Needed.—(1) If a recipient of assistance under this chapter decides an asset acquired under this chapter atleast in part with that assistance is no longer needed for the purpose for which it was acquired, the Secretary of Transportation may authorize the recipient to transfer the asset to a local governmental authority to be used for a public purpose with no further obligation to the Government. The Secretary may authorize a transfer for a public purpose other than public transportation only if the Secretary decides—
 
 &emsp;(A) the asset will remain in public use for at least 5 years after the date the asset is transferred;
 

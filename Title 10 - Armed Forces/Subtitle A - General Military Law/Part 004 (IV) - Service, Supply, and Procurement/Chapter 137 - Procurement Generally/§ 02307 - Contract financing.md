@@ -36,7 +36,7 @@ Conditions for Progress Payments.—(1) The Secretary of Defense shall ensure th
 
 (f)
 
-Conditions for Payments for Commercial Items.—(1) Payments under subsection (a) for commercial items may be made under such terms and conditions as the head of the agency determines are appropriate or customary in the commercial marketplace and are in the best interests of the United States. The head of the agency shall obtain adequate security for such payments. If the security is in the form of a lien in favor of the United States, such lien is paramount to all other liens and is effective immediately upon the first payment, without filing, notice, or other action by the United States.
+Conditions for Payments for Commercial Items.—(1) Payments under subsection (a) for commercial items may be made under such terms and conditions as the head of the agency determines are appropriate or customary in the commercial marketplace and are in the best interests of the United States. The head of the agency shall obtain adequate security for suchpayments. If the security is in the form of a lien in favor of the United States, such lien is paramount to all other liens and is effective immediately upon the first payment, without filing, notice, or other action by the United States.
 
 (2) Advance payments made under subsection (a) for commercial items may include payments, in a total amount of not more than 15 percent of the contract price, in advance of any performance of work under the contract.
 
@@ -84,7 +84,7 @@ Action in Case of Fraud.—(1) In any case in which the remedy coordination offi
 
 (10) In this subsection, the term “remedy coordination official”, with respect to an agency, means the person or entity in that agency who coordinates within that agency the administration of criminal, civil, administrative, and contractual remedies resulting from investigations of fraud or corruption related to procurement activities.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 131; Pub. L. 85–800, §9, Aug. 28, 1958, 72 Stat. 967; Pub. L. 93–155, title VIII, §807(c), Nov. 16, 1973, 87 Stat. 616; Pub. L. 100–370, §1(f)(1)(A), July 19, 1988, 102 Stat. 846; Pub. L. 101–510, div. A, title VIII, §836(a), (b), title XIII, §1322(a)(4), Nov. 5, 1990, 104 Stat. 1615, 1616, 1671; Pub. L. 102–25, title VII, §701(d)(4), (j)(2)(A), Apr. 6, 1991, 105 Stat. 114, 116; Pub. L. 102–190, div. A, title X, §1061(a)(10), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. A, titleX, §1052(24), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 103–355, title II, §2001(a)–(g), Oct. 13, 1994, 108 Stat. 3301, 3302; Pub. L. 105–85, div. A, title VIII, §802, Nov. 18, 1997, 111 Stat. 1831; Pub. L. 106–391, title III, §306, Oct. 30, 2000, 114 Stat. 1592.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 131; Pub. L. 85–800, §9, Aug. 28, 1958, 72 Stat. 967; Pub. L. 93–155, title VIII, §807(c), Nov. 16, 1973, 87 Stat. 616; Pub. L. 100–370, §1(f)(1)(A), July 19, 1988, 102 Stat. 846; Pub. L. 101–510, div. A, title VIII, §836(a), (b), title XIII, §1322(a)(4), Nov. 5, 1990, 104 Stat. 1615, 1616, 1671; Pub. L. 102–25, title VII, §701(d)(4), (j)(2)(A), Apr. 6, 1991, 105 Stat. 114, 116; Pub. L. 102–190, div. A, title X, §1061(a)(10), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. A, title X, §1052(24), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 103–355, title II, §2001(a)–(g), Oct. 13, 1994, 108 Stat. 3301, 3302; Pub. L. 105–85, div. A, title VIII, §802, Nov. 18, 1997, 111 Stat. 1831; Pub. L. 106–391, title III, §306, Oct. 30, 2000, 114 Stat. 1592.)
 
 Historical and Revision Notes<br>1956
 
@@ -194,11 +194,11 @@ Section 836(c) of Pub. L. 101–510, as amended by Pub. L. 102–25, title VII, 
 
 #### Relationship of 1994 Amendment to Prompt Payment Requirements
 
-Section 2001(h) of Pub. L. 103–355 provided that: “The amendments made by this section \[amending this section and section 7522 of this title and repealing sections 7312, 7364, and 7521 of this title\] are not intended to impair or modify procedures required by the provisions of chapter 39 of title 31, United States Code, and the regulations issued pursuant to such provisions of law (assuch procedures are in effect on the date of the enactment of this Act \[Oct. 13, 1994\]), except that the Government may accept payment terms offered by a contractor offering a commercial item.”
+Section 2001(h) of Pub. L. 103–355 provided that: “The amendments made by this section \[amending this section and section 7522 of this title and repealing sections 7312, 7364, and 7521 of this title\] are not intended to impair or modify procedures required by the provisions of chapter 39 of title 31, United States Code, and the regulations issued pursuant to such provisions of law (as such procedures are in effect on the date of the enactment of this Act \[Oct. 13, 1994\]), except that the Government may accept payment terms offered by a contractor offering a commercial item.”
 
 #### Limitations on Progress Payments
 
-Pub. L. 99–145, title IX, §916, Nov. 8, 1985, 99 Stat. 688, which required Secretary of Defense to ensure that any progress payment under a defense contract be commensurate with work accomplished at standard of quality in contract, that such payments be limited to 80 percent of work accomplished so long as contract terms are indefinite, that this provision be waived for small purchases, and that this provision apply only to contracts for which solicitations were issued on or after 150 days after Nov. 8, 1985, was repealed and restated in subsec. (e) of this section by Pub. L. 100–370, §1(f)(1), July 19, 1988, 102 Stat. 846.
+Pub. L. 99–145, title IX, §916, Nov. 8, 1985, 99 Stat. 688, which required Secretary of Defense to ensure that anyprogress payment under a defense contract be commensurate with work accomplished at standard of quality in contract, that such payments be limited to 80 percent of work accomplished so long as contract terms are indefinite, that this provision be waived for small purchases, and that this provision apply only to contracts for which solicitations were issued on or after 150 days after Nov. 8, 1985, was repealed and restated in subsec. (e) of this section by Pub. L. 100–370, §1(f)(1), July 19, 1988, 102 Stat. 846.
 
 #### Obligations Entered Into Before November 16, 1973
 

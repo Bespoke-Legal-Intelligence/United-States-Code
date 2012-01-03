@@ -32,7 +32,7 @@ The objectives of the program under subsection (a) shall be—
 
 #### (B) Program integration
 
-&emsp;&emsp;The Secretary shall ensure that fundamental research carried out under this paragraph is appropriately applied to energy technology development activities, the field testing of carbon sequestration, and carbon use activities, including—
+&emsp;&emsp;The Secretary shall ensure that fundamental research carried out under this paragraph is appropriately applied to energy technology development activities, the fieldtesting of carbon sequestration, and carbon use activities, including—
 
 &emsp;&emsp;&emsp;(i) development of new or advanced technologies for the capture and sequestration of carbon dioxide;
 
@@ -108,7 +108,7 @@ The objectives of the program under subsection (a) shall be—
 
 &emsp;&emsp;(A) give preference to proposals from partnerships among industrial, academic, and government entities; and
 
-&emsp;&emsp;(B) require recipients to provide assurances that all laborers and mechanics employed by contractors and subcontractors in the construction, repair, or alteration of new or existing facilities performed in order to carry out a demonstration or commercial application activity authorized under this subsection shall be paid wages at rates not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor in accordance with subchapter IV of chapter 31 of title 40, and the Secretary of Labor shall, with respect to the labor standards in this paragraph, have the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (15 Fed. Reg. 3176; 5 U.S.C. Appendix) and section 3145 of title 40.
+&emsp;&emsp;(B) require recipients to provide assurances that all laborers and mechanics employed by contractors and subcontractors in the construction, repair, or alteration of new or existing facilities performed in order to carry out a demonstration or commercial application activity authorized under thissubsection shall be paid wages at rates not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor in accordance with subchapter IV of chapter 31 of title 40, and the Secretary of Labor shall, with respect to the labor standards in this paragraph, have the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (15 Fed. Reg. 3176; 5 U.S.C. Appendix) and section 3145 of title 40.
 
 #### (5) Cost sharing
 

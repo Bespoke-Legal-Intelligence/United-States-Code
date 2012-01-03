@@ -2,9 +2,11 @@
 
 For purposes of this chapter—
 
-&emsp;(1) the term “mortgage loan” means a loan which is secured by residential real property or a home improvement loan;
+&emsp;(1) the term “Bureau” means the Bureau of Consumer Financial Protection;
 
-&emsp;(2) the term “depository institution”—
+&emsp;(2) the term “mortgage loan” means a loan which is secured by residential real property or a home improvement loan;
+
+&emsp;(3) the term “depository institution”—
 
 &emsp;&emsp;(A) means—
 
@@ -18,23 +20,29 @@ For purposes of this chapter—
 
 &emsp;&emsp;(B) includes any other lending institution (as defined in paragraph (4)) other than any institution described in subparagraph (A);
 
-&emsp;(3) the term “completed application” means an application in which the creditor has received the information that is regularly obtained in evaluating applications for the amount and type of credit requested;
+&emsp;(4) the term “completed application” means an application in which the creditor has received the information that is regularly obtained in evaluating applications for the amount and type of credit requested;
 
-&emsp;(4) the term “other lending institutions” means any person engaged for profit in the business of mortgage lending;
+&emsp;(5) the term “other lending institutions” means any person engaged for profit in the business of mortgage lending;
 
-&emsp;(5) the term “Board” means the Board of Governors of the Federal Reserve System; and
+&emsp;(6) the term “Board” means the Board of Governors of the Federal Reserve System; and
 
-&emsp;(6) the term “Secretary” means the Secretary of Housing and Urban Development.
+&emsp;(7) the term “Secretary” means the Secretary of Housing and Urban Development.
 
-(Pub. L. 94–200, title III, §303, Dec. 31, 1975, 89 Stat. 1125; Pub. L. 100–242, title V, §565(a)(1), Feb. 5, 1988, 101 Stat. 1945; Pub. L. 101–73, title XII, §1211(d), (e), Aug. 9, 1989, 103 Stat. 525.)
+(Pub. L. 94–200, title III, §303, Dec. 31, 1975, 89 Stat. 1125; Pub. L. 100–242, title V, §565(a)(1), Feb. 5, 1988, 101 Stat. 1945; Pub. L. 101–73, title XII, §1211(d), (e), Aug. 9, 1989, 103 Stat. 525; Pub. L. 111–203, title X, §1094(2), July 21, 2010, 124 Stat. 2097.)
 
 #### Amendments
 
-1989—Par. (2). Pub. L. 101–73, §1211(d), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the term ‘depository institution’ means any commercial bank, savings bank, savings and loan association, building and loan association, homestead association (including cooperative banks) or credit union which makes federally related mortgage loans as determined by the Board, mortgage banking subsidiary of a bank holding company or savings and loan holding company, or savings and loan service corporation that originates or purchases mortgage loans;”.
+<b>2010</b>—Pub. L. 111–203 added par. (1) and redesignated former pars. (1) to (6) as (2) to (7), respectively.
+
+<b>1989</b>—Par. (2). Pub. L. 101–73, §1211(d), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the term ‘depository institution’ means any commercial bank, savings bank, savings and loan association, building and loan association, homestead association (including cooperative banks) or credit union which makes federally related mortgage loans as determined by the Board, mortgage banking subsidiary of a bank holding company or savings and loan holding company, or savings and loan service corporation that originates or purchases mortgage loans;”.
 
 Pars. (3) to (6). Pub. L. 101–73, §1211(e), added pars. (3) and (4) and redesignated former pars. (3) and (4) as (5) and (6), respectively.
 
-1988—Par. (2). Pub. L. 100–242 struck out “or” before “homestead association” and inserted before semicolon at end “, mortgage banking subsidiary of a bank holding company or savings and loan holding company, or savings and loan service corporation that originates or purchases mortgage loans”.
+<b>1988</b>—Par. (2). Pub. L. 100–242 struck out “or” before “homestead association” and inserted before semicolon at end “, mortgage banking subsidiary of a bank holding company or savings and loan holding company, or savings and loan service corporation that originates or purchases mortgage loans”.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1989 Amendment
 

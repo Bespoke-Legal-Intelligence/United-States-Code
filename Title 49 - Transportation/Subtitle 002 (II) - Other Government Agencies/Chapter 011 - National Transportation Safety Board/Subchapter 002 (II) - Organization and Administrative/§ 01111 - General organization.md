@@ -54,7 +54,7 @@ Chief Financial Officer.—The Chairman shall designate an officer or employee o
 
 &emsp;(2) direct, manage, and provide policy guidance and oversight on financial management and property and inventory control; and
 
-&emsp;(3) review the fees, rents, and other charges imposed by the Board for services and things of value it provides, and suggest appropriate revisions to those charges to reflect costs incurred by the Board in providing those services and things of value.
+&emsp;(3) review the fees, rents, and other charges imposed by the Board for services and thingsof value it provides, and suggest appropriate revisions to those charges to reflect costs incurred by the Board in providing those services and things of value.
 
 (i)
 
@@ -182,5 +182,5 @@ Pub. L. 109–443, §6, Dec. 21, 2006, 120 Stat. 3300, provided that: “The Nat
 
 #### Improved Audit Procedures
 
-Pub. L. 106–424, §11, Nov. 1, 2000, 114 Stat. 1887, provided that: “The National Transportation Safety Board, in consultation with the Inspector General of the Department of Transportation, shall develop and implement comprehensive internal audit controls for its financial programs based on the findings and recommendations of the private sector audit firm contract entered into by the Board in March, 2000. The improvedinternal audit controls shall, at a minimum, address Board asset management systems, including systems for accounting management, debt collection, travel, and property and inventory management and control.”
+Pub. L. 106–424, §11, Nov. 1, 2000, 114 Stat. 1887, provided that: “The National Transportation Safety Board, in consultation with the Inspector General of the Department of Transportation, shall develop and implement comprehensive internal audit controls for its financial programs based on the findings and recommendations of the private sector audit firm contract entered into by the Board in March, 2000. The improved internal audit controls shall, at a minimum, address Board asset management systems, including systems for accounting management, debt collection, travel, and property and inventory management and control.”
 

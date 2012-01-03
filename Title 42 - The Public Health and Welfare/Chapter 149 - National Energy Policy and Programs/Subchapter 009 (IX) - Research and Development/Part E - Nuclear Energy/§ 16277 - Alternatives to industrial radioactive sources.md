@@ -24,7 +24,7 @@
 
 #### (2) Accelerators
 
-&emsp;Miniaturized particle accelerators for well-logging or other industrial applications and portable accelerators for production of short-lived radioactive materials at an industrial site shall be considered as part of the research and development efforts.
+&emsp;Miniaturized particle accelerators for well-logging or other industrial applications and portable accelerators for production of short-lived radioactive materials at an industrialsite shall be considered as part of the research and development efforts.
 
 #### (3) Report
 

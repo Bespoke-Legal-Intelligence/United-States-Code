@@ -40,7 +40,7 @@
 
 #### (1) Percentage of facilities value
 
-&emsp;If an organizational camp uses a Government-owned facility on National Forest System lands pursuant to section 580d of this title, the Secretary shall charge, in addition to the land use fee imposed under subsection (a), a facility use fee equal to 5 percent of the value of the authorized facilities, as determined by the Secretary.
+&emsp;If an organizational camp uses a Government-owned facility on National Forest System lands pursuant to section 580d of this title, the Secretary shall charge, in addition to the land use fee imposed under subsection (a), a facility use fee equal to 5 percent of thevalue of the authorized facilities, as determined by the Secretary.
 
 #### (2) Reduction in fees prohibited
 

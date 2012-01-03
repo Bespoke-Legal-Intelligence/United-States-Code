@@ -24,7 +24,7 @@ Management of Joint Staff.—The Chairman of the Joint Chiefs of Staff manages t
 
 (d)
 
-Operation of Joint Staff.—The Secretary of Defense shall ensure that the Joint Staff is independently organized and operated so thatthe Joint Staff supports the Chairman of the Joint Chiefs of Staff in meeting the congressional purpose set forth in the last clause of section 2 of the National Security Act of 1947 (50 U.S.C. 401) to provide—
+Operation of Joint Staff.—The Secretary of Defense shall ensure that the Joint Staff is independently organized and operated so that the Joint Staff supports the Chairman of the Joint Chiefs of Staff in meeting the congressional purpose set forth in the last clause of section 2 of the National Security Act of 1947 (50 U.S.C. 401) to provide—
 
 &emsp;(1) for the unified strategic direction of the combatant forces;
 
@@ -120,7 +120,7 @@ Establishment of Positions.—The Secretary of Defense shall establish the follo
 
 Selection.—(1) The Assistant to the Chairman of the Joint Chiefs of Staff for National Guard Matters shall be selected by the Chairman from officers of the Army National Guard of the United States or the Air Guard of the United States who—
 
-&emsp;“(A) are recommended for such selection by their respective Governors or, in the case of the District ofColumbia, the commanding general of the District of Columbia National Guard;
+&emsp;“(A) are recommended for such selection by their respective Governors or, in the case of the District of Columbia, the commanding general of the District of Columbia National Guard;
 
 &emsp;“(B) have had at least 10 years of federally recognized commissioned service in the National Guard; and
 

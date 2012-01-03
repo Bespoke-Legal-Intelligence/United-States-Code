@@ -6,7 +6,7 @@ The Secretary of Health and Human Services may make grants to States, Indian tri
 
 #### (b) Selection factor
 
-In selecting among applicants for grants under subsection (a) of this section, the Secretary shall give priority to applicants with experience in the delivery of services to persons who have been subjected to sexual abuse or commercial sexual exploitation and to applicants who would employ survivors of sexual abuse or commercial sexual exploitation as a part of their proposed project.
+In selecting among applicants for grants under subsection (a) of this section, the Secretary shall give priority to applicants with experience in the delivery of services to persons who have been subjected to sexual abuse or commercial sexual exploitation and to applicants who wouldemploy survivors of sexual abuse or commercial sexual exploitation as a part of their proposed project.
 
 #### (c) Limitation on Federal share
 

@@ -1,7 +1,5 @@
 ### SUBCHAPTER XI—AQUACULTURE
 
-<i><sup>1</sup></i><i> So in original. The word “shall” probably should not appear.</i>
-
 
 ---
 

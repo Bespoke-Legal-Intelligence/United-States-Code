@@ -48,25 +48,25 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–246, §10102, inserted “clementines,” after “nectarines,” in first sentence.
+<b>2008</b>—Subsec. (a). Pub. L. 110–246, §10102, inserted “clementines,” after “nectarines,” in first sentence.
 
-2002—Subsec. (a). Pub. L. 107–171 substituted “apples, or caneberries (including raspberries, blackberries, and loganberries)” for “or apples” in first sentence.
+<b>2002</b>—Subsec. (a). Pub. L. 107–171 substituted “apples, or caneberries (including raspberries, blackberries, and loganberries)” for “or apples” in first sentence.
 
-1990—Subsec. (a). Pub. L. 101–624, §§1307, 1308(1), substituted “Subject to the provisions of subsections (c) and (d) of this section and notwithstanding any other provision of law,” for “Notwithstanding any other provision of law,” and “eggplants, kiwifruit, nectarines, plums, pistachios, or apples” for “or eggplants”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–624, §§1307, 1308(1), substituted “Subject to the provisions of subsections (c) and (d) of this section and notwithstanding any other provision of law,” for “Notwithstanding any other provision of law,” and “eggplants, kiwifruit, nectarines, plums, pistachios, or apples” for “or eggplants”.
 
 Subsecs. (c), (d). Pub. L. 101–624, §1308(2), added subsecs. (c) and (d).
 
-1988—Pub. L. 100–418 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1988</b>—Pub. L. 100–418 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1982—Pub. L. 97–312 extended import prohibition to table grapes.
+<b>1982</b>—Pub. L. 97–312 extended import prohibition to table grapes.
 
-1977—Pub. L. 95–113 extended import prohibition to filberts.
+<b>1977</b>—Pub. L. 95–113 extended import prohibition to filberts.
 
-1971—Pub. L. 91–670 extended import prohibition to raisins, olives (other than Spanish-style green olives), and prunes.
+<b>1971</b>—Pub. L. 91–670 extended import prohibition to raisins, olives (other than Spanish-style green olives), and prunes.
 
-1961—Pub. L. 87–128 extended importation prohibition to oranges, onions, walnuts and dates, other than dates for processing.
+<b>1961</b>—Pub. L. 87–128 extended importation prohibition to oranges, onions, walnuts and dates, other than dates for processing.
 
-1954—Act Aug. 31, 1954, made section applicable to mangoes.
+<b>1954</b>—Act Aug. 31, 1954, made section applicable to mangoes.
 
 #### Effective Date of 2008 Amendment
 

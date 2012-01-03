@@ -14,7 +14,7 @@
 
 #### Amendments
 
-1989—Subsec. (a)(3). Pub. L. 101–73 substituted “Director of the Office of Thrift Supervision” for “Federal Home Loan Bank Board”.
+<b>1989</b>—Subsec. (a)(3). Pub. L. 101–73 substituted “Director of the Office of Thrift Supervision” for “Federal Home Loan Bank Board”.
 
 #### Short Title
 

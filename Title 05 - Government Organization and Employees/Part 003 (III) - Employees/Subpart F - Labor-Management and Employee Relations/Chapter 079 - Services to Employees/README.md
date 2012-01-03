@@ -7,14 +7,17 @@
 | [7903\.](%C2%A7%2007903%20-%20Protective%20clothing%20and%20equipment.md) | Protective clothing and equipment. |
 | [7904\.](%C2%A7%2007904%20-%20Employee%20assistance%20programs%20relating%20to%20drug%20abuse%20and%20alcohol%20abuse.md) | Employee assistance programs relating to drug abuse and alcohol abuse. |
 | [7905\.](%C2%A7%2007905%20-%20Programs%20to%20encourage%20commuting%20by%20means%20other%20than%20single-occupancy%20motor%20vehicles.md) | Programs to encourage commuting by means other than single-occupancy motor vehicles. |
+| [7906\.](%C2%A7%2007906%20-%20Services%20of%20post-combat%20case%20coordinators.md) | Services of post-combat case coordinators. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-1993—Pub. L. 103–172, §2(b), Dec. 2, 1993, 107 Stat. 1996, added item 7905.
+<b>2011</b>—Pub. L. 112–81, div. A, title XI, §1106(b), Dec. 31, 2011, 125 Stat. 1614, added item 7906.
 
-1986—Pub. L. 99–570, title VI, §6004(b), Oct. 27, 1986, 100 Stat. 3207–159, added item 7904.
+<b>1993</b>—Pub. L. 103–172, §2(b), Dec. 2, 1993, 107 Stat. 1996, added item 7905.
+
+<b>1986</b>—Pub. L. 99–570, title VI, §6004(b), Oct. 27, 1986, 100 Stat. 3207–159, added item 7904.
 
 #### State or Local Government Programs Encouraging Employee Use of Public Transportation; Federal Agency Participation
 
@@ -34,3 +37,4 @@ Pub. L. 101–509, title VI, §629, Nov. 5, 1990, 104 Stat. 1478, authorized Fed
 - [&sect; 07903 - Protective clothing and equipment](%C2%A7%2007903%20-%20Protective%20clothing%20and%20equipment.md)
 - [&sect; 07904 - Employee assistance programs relating to drug abuse and alcohol abuse](%C2%A7%2007904%20-%20Employee%20assistance%20programs%20relating%20to%20drug%20abuse%20and%20alcohol%20abuse.md)
 - [&sect; 07905 - Programs to encourage commuting by means other than single-occupancy motor vehicles](%C2%A7%2007905%20-%20Programs%20to%20encourage%20commuting%20by%20means%20other%20than%20single-occupancy%20motor%20vehicles.md)
+- [&sect; 07906 - Services of post-combat case coordinators](%C2%A7%2007906%20-%20Services%20of%20post-combat%20case%20coordinators.md)

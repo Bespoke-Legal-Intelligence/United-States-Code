@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-In the case of an individual who pays qualified higher education expenses during the taxable year, no amount shall be includible in gross income by reason of the redemption during suchyear of any qualified United States savings bond.
+In the case of an individual who pays qualified higher education expenses during the taxable year, no amount shall be includible in gross income by reason of the redemption during such year of any qualified United States savings bond.
 
 #### (b) Limitations
 
@@ -98,7 +98,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) an educational assistance allowance under chapter 30, 31, 32, 34, or 35 of title 38, United States Code,
 
-&emsp;&emsp;(C) a payment (other than a gift, bequest, devise, or inheritance within the meaning ofsection 102(a)) for educational expenses, or attributable to attendance at an eligible educational institution, which is exempt from income taxation by any law of the United States, or
+&emsp;&emsp;(C) a payment (other than a gift, bequest, devise, or inheritance within the meaning of section 102(a)) for educational expenses, or attributable to attendance at an eligible educational institution, which is exempt from income taxation by any law of the United States, or
 
 &emsp;&emsp;(D) a payment, waiver, or reimbursement of qualified higher education expenses under a qualified tuition program (within the meaning of section 529(b)).
 
@@ -216,7 +216,7 @@ Amendment by section 1703(d) of Pub. L. 104–188 effective as if included in th
 
 Amendment by section 1806(b)(1) of Pub. L. 104–188 applicable to taxable years ending after Aug. 20, 1996, with transition rules applicable where States or agencies or instrumentalities thereof maintain on such date programs under which persons may purchase tuition credits or certificates on behalf of, or make contributions for education expenses of, designated beneficiaries, see section 1806(c) of Pub. L. 104–188, set out as an Effective Date note under section 529 of this title.
 
-Amendment by section 1807(c)(2) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1807(e) of Pub. L. 104–188, set out as an Effective Date note under section 36C of this title.
+Amendment by section 1807(c)(2) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1807(e) of Pub. L. 104–188, set out as an Effective Date note under section 23 of this title.
 
 #### Effective Date of 1990 Amendment
 

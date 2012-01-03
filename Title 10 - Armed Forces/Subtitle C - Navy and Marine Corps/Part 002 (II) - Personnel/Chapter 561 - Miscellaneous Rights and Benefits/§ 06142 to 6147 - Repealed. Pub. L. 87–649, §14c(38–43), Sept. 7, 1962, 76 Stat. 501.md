@@ -6,7 +6,7 @@ Section 6143, act Aug. 10, 1956, ch. 1041, 70A Stat. 383, related to discouragem
 
 Section 6144, act Aug. 10, 1956, ch. 1041, 70A Stat. 383, provided for settlement of pay accounts when lost with vessel. See section 902 of Title 37.
 
-Section 6145, act Aug. 10, 1956, ch. 1041, 70A Stat. 383, related to fixing date of loss of a vessel for purpose ofsettling accounts of persons aboard other than officers. See section 902 of Title 37.
+Section 6145, act Aug. 10, 1956, ch. 1041, 70A Stat. 383, related to fixing date of loss of a vessel for purpose of settling accounts of persons aboard other than officers. See section 902 of Title 37.
 
 Section 6146, act Aug. 10, 1956, ch. 1041, 70A Stat. 383, provided for allotments by officers. See section 702 of Title 37.
 

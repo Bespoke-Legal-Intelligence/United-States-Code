@@ -18,5 +18,5 @@ Provisions similar to those in this section were contained in section 781 of thi
 
 #### Amendments
 
-2004—Subsecs. (d), (e). Pub. L. 108–293 added subsecs. (d) and (e).
+<b>2004</b>—Subsecs. (d), (e). Pub. L. 108–293 added subsecs. (d) and (e).
 

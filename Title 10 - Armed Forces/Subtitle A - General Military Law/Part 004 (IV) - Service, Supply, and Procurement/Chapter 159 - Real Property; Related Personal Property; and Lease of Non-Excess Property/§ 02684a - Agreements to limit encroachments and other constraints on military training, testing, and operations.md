@@ -4,13 +4,15 @@
 
 Agreements Authorized.—The Secretary of Defense or the Secretary of a military department may enter into an agreement with an eligible entity or entities described in subsection (b) to address the use or development of real property in the vicinity of, or ecologically related to, a military installation or military airspace for purposes of—
 
-&emsp;(1) limiting any development or use of the property that would be incompatible with the mission of the installation; or
+&emsp;(1) limiting any development or use of the property that would be incompatible with the mission of the installation;
 
 &emsp;(2) preserving habitat on the property in a manner that—
 
 &emsp;&emsp;(A) is compatible with environmental requirements; and
 
-&emsp;&emsp;(B) may eliminate or relieve current or anticipated environmental restrictions that would or might otherwise restrict, impede, or otherwise interfere, whether directly or indirectly, with current or anticipated military training, testing, or operations on the installation.
+&emsp;&emsp;(B) may eliminate or relieve current or anticipated environmental restrictions that would or might otherwise restrict, impede, or otherwise interfere, whether directly or indirectly, with current or anticipated military training, testing, or operations on the installation; or
+
+&emsp;(3) protecting Clear Zone Areas from use or encroachment that is incompatible with the mission of the installation.
 
 (b)
 
@@ -22,7 +24,7 @@ Eligible Entities.—An agreement under this section may be entered into with an
 
 (c)
 
-Inapplicability of Certain Contract Requirements.—Chapter 63 of title 31 shall not apply to any agreement entered into under this section.
+Inapplicability of Certain Contract Requirements.—Notwithstanding chapter 63 of title 31, an agreement under this section that is a cooperative agreement or a grant may be used to acquire property or services for the direct benefit or use of the United States Government.
 
 (d)
 
@@ -32,9 +34,13 @@ Acquisition and Acceptance of Property and Interests.—(1) An agreement with an
 
 &emsp;(B) the sharing by the United States and the entity or entities of the acquisition costs in accordance with paragraph (3).
 
-(2) Property or interests may not be acquired pursuant to the agreement unless the owner ofthe property or interests consents to the acquisition.
+(2) Property or interests may not be acquired pursuant to the agreement unless the owner of the property or interests consents to the acquisition.
 
-(3) An agreement with an eligible entity under this section may provide for the management of natural resources on real property in which the Secretary concerned acquires any right, title, or interest in accordance with this subsection and for the payment by the United States of all or a portion of the costs of such natural resource management if the Secretary concerned determines that there is a demonstrated need to preserve or restore habitat for the purpose described in subsection (a)(2).
+(3) An agreement with an eligible entity under this section may provide for the management of natural resources on, and the monitoring and enforcement of any right, title, real property in which the Secretary concerned acquires any right, title, or interest in accordance with this subsection and for the payment by the United States of all or a portion of the costs of such natural resource management and monitoring and enforcement if the Secretary concerned determines that there is a demonstrated need to preserve or restore habitat for the purpose described in subsection (a)(2). Any such payment by the United States—
+
+&emsp;(A) may be paid in a lump sum and include an amount intended to cover the future costs of natural resource management and monitoring and enforcement; and
+
+&emsp;(B) may be placed by the eligible entity in an interest-bearing account, and any interest shall be applied for the same purposes as the principal.
 
 (4)(A) The Secretary concerned shall determine the appropriate portion of the acquisition costs to be borne by the United States in the sharing of acquisition costs of real property, or an interest in real property, under paragraph (1)(B).
 
@@ -64,7 +70,9 @@ Acquisition and Acceptance of Property and Interests.—(1) An agreement with an
 
 &emsp;(iii) The exchange or donation of real property or any interest in real property.
 
-(5) The agreement shall require the entity or entities to transfer to the United States, upon the request of the Secretary concerned, all or a portion of the property or interest acquired under the agreement or a lesser interest therein. The Secretary shall limit such transfer request to the minimum property or interests necessary to ensure that the property concerned is developed and used in a manner appropriate for purposes of this section.
+(5)(A) The agreement shall require the entity or entities to transfer to the United States, upon the request of the Secretary concerned, all or a portion of the property or interest acquired under the agreement or a lesser interest therein. No such requirement need be included in the agreement if the property or interest is being transferred to a State, or the agreement requires it to be subsequently transferred to a State, and the Secretary concerned determines that the laws and regulations applicable to the future use of such property or interest provide adequate assurance that the property concerned will be developed and used in a manner appropriate for purposes of this section. The Secretary shall limit such transfer request to the minimum property or interests necessary to ensure that the property concerned is developed and used in a manner appropriate for purposes of this section.
+
+(B) Notwithstanding subparagraph (A), if all or a portion of the property or interest acquired under the agreement is subsequently transferred to the United States and administrative jurisdiction over the property is under a Federal official other than a Secretary concerned, the Secretary concerned and that Federal official shall enter into a memorandum of agreement providing, to the satisfaction of the Secretary concerned, for the management of the property or interest concerned in a manner appropriate for purposes of this section. Such memorandum of agreement shall also provide that, should it be proposed that the property or interest concerned be developed or used in a manner not appropriate for purposes of this section, including declaring the property to be excess to the agency's needs or proposing to exchange the property for other property, the Secretary concerned may request that administrative jurisdiction over the property be transferred to the Secretary concerned at no cost, and, upon such a request being made, the administrative jurisdiction over the property shall be transferred accordingly.
 
 (6) The Secretary concerned may accept on behalf of the United States any property or interest to be transferred to the United States under the agreement.
 
@@ -108,11 +116,27 @@ Definitions.—In this section:
 
 &emsp;(2) The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Marianas, and the territories and possessions of the United States.
 
-(Added Pub. L. 107–314, div. B, title XXVIII, §2811(a), Dec. 2, 2002, 116 Stat. 2705; amended Pub. L. 109–163, div. B, title XXVIII, §2822, Jan. 6, 2006, 119 Stat. 3513; Pub. L. 109–364, div. B, title XXVIII, §2811(g), Oct. 17, 2006, 120 Stat. 2473; Pub. L. 110–181, div. B, title XXVIII, §2825, Jan. 28, 2008, 122 Stat. 545; Pub. L. 111–84, div. A, title X, §1073(a)(27), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 111–383, div. A, title X, §1075(b)(43), Jan. 7, 2011, 124 Stat. 4371.)
+&emsp;(3) The term “Clear Zone Area” means an area immediately beyond the end of the runway of an airfield that is needed to ensure the safe and unrestricted passage of aircraft in and over the area.
+
+(Added Pub. L. 107–314, div. B, title XXVIII, §2811(a), Dec. 2, 2002, 116 Stat. 2705; amended Pub. L. 109–163, div. B, title XXVIII, §2822, Jan. 6, 2006, 119 Stat. 3513; Pub. L. 109–364, div. B, title XXVIII, §2811(g), Oct. 17, 2006, 120 Stat. 2473; Pub. L. 110–181, div. B, title XXVIII, §2825, Jan. 28, 2008, 122 Stat. 545; Pub. L. 111–84, div. A, title X, §1073(a)(27), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 111–383, div. A, title X, §1075(b)(43), Jan. 7, 2011, 124 Stat. 4371; Pub. L. 112–81, div. B, title XXVIII, §2813, Dec. 31, 2011, 125 Stat. 1687.)
 
 #### Amendments
 
-<b>2011</b>—Subsec. (g)(1). Pub. L. 111–383 substituted “March 1 each year” for “March 1, 2007, and annually thereafter”.
+<b>2011</b>—Subsec. (a)(3). Pub. L. 112–81, §2813(1), added par. (3).
+
+Subsec. (c). Pub. L. 112–81, §2813(2), amended subsec. (c) generally. Prior to amendment, text read as follows: “Chapter 63 of title 31 shall not apply to any agreement entered into under this section.”
+
+Subsec. (d)(3). Pub. L. 112–81, §2813(3)(A), inserted “, and the monitoring and enforcement of any right,title, or interest in,” after “resources on” and “and monitoring and enforcement” after “natural resource management”, and inserted at end “Any such payment by the United States—
+
+&emsp;“(A) may be paid in a lump sum and include an amount intended to cover the future costs of natural resource management and monitoring and enforcement; and
+
+&emsp;“(B) may be placed by the eligible entity in an interest-bearing account, and any interest shall be applied for the same purposes as the principal.”
+
+Subsec. (d)(5). Pub. L. 112–81, §2813(3)(B), designated existing provisions as subpar. (A), inserted after first sentence “No such requirement need be included in the agreement if the property or interest is being transferred to a State, or the agreement requires it to be subsequently transferred to a State, and the Secretary concerned determines that the laws and regulations applicable to the future use of such property or interest provide adequate assurance that the property concerned will be developed and used in a manner appropriate for purposes of this section.”, and added subpar. (B).
+
+Subsec. (g)(1). Pub. L. 111–383 substituted “March 1 each year” for “March 1, 2007, and annually thereafter”.
+
+Subsec. (i)(3). Pub. L. 112–81, §2813(4), added par. (3).
 
 <b>2009</b>—Subsec. (g)(2). Pub. L. 111–84 substituted “the following” for “the following the following” in introductory provisions.
 

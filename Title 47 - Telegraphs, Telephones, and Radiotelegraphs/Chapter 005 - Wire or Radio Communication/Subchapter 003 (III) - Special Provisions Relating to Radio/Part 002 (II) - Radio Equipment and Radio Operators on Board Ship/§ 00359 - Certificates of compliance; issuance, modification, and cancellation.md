@@ -8,6 +8,8 @@
 
 #### References in Text
 
+This chapter, referred to in subsec. (b), was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934,which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
+
 This part, referred to in subsec. (b), commences with section 351 of this title.
 
 #### Amendments

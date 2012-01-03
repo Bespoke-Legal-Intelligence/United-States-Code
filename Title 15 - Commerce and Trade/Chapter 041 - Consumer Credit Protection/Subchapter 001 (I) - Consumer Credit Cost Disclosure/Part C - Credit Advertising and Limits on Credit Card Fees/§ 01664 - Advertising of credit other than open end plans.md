@@ -6,7 +6,7 @@ Except as provided in subsection (b) of this section, this section applies to an
 
 #### (b) Advertisements of residential real estate
 
-The provisions of this section do not apply to advertisements of residential real estate except to the extent that the Board may by regulation require.
+The provisions of this section do not apply to advertisements of residential real estate except to the extent that the Bureau may by regulation require.
 
 #### (c) Rate of finance charge expressed as annual percentage rate
 
@@ -32,15 +32,13 @@ Each advertisement to which this section applies that relates to a consumer cred
 
 (Pub. L. 90–321, title I, §144, May 29, 1968, 82 Stat. 158; Pub. L. 96–221, title VI, §619(b), Mar. 31, 1980, 94 Stat. 183; Pub. L. 109–8, title XIII, §1302(b)(2), Apr. 20, 2005, 119 Stat. 209; Pub. L. 111–203, title X, §1100A(2), July 21, 2010, 124 Stat. 2107.)
 
-#### Amendment of Section
-
-<i>Pub. L. 111–203, title X, §§1100A(2), 1100H, July 21, 2010, 124 Stat. 2107, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Board” each place that term appears and inserting “Bureau”. See Effective Date of 2010 Amendment note below.</i>
-
 #### Amendments
+
+<b>2010</b>—Subsec. (b). Pub. L. 111–203 substituted “Bureau” for “Board”.
 
 <b>2005</b>—Subsec. (e). Pub. L. 109–8 added subsec. (e).
 
-<b>1980</b>—Subsec. (d). Pub. L. 97–221 substituted items setting forth downpayment, etc., set out in pars. (1) to (3), for items setting forth cash price or amount of loan, etc., set out in pars. (1) to (4).
+<b>1980</b>—Subsec. (d). Pub. L. 97–221 substituted items setting forth downpayment, etc., set out in pars. (1) to (3),for items setting forth cash price or amount of loan, etc., set out in pars. (1) to (4).
 
 #### Effective Date of 2010 Amendment
 

@@ -26,7 +26,7 @@
 
 &emsp;(2) The term “North Atlantic Treaty Organization subsidiary bodies” has the meaning given to it by section 2350 of this title.
 
-(Added Pub. L. 97–252, title XI, §1125(a), Sept. 8, 1982, 96 Stat. 757, §2213; amended Pub. L. 99–145, title XIII, §1304(b), Nov. 8, 1985, 99 Stat. 742; Pub. L. 100–26, §7(k)(2), Apr. 21, 1987, 101 Stat. 284; renumbered §2350c and amended Pub. L. 101–189, div. A, title IX, §931(b)(2), (e)(4), Nov. 29, 1989, 103 Stat. 1534, 1535; Pub. L. 102–484, div. A, title XIII, §1311, Oct. 23, 1992, 106 Stat. 2547; Pub. L. 106–398, §1 \[\[div. A\], title XII, §1222\], Oct. 30, 2000, 114 Stat. 1654, 1654A–328.)
+(Added Pub. L. 97–252, title XI, §1125(a), Sept. 8, 1982, 96 Stat. 757, §2213; amended Pub. L. 99–145, title XIII, §1304(b), Nov. 8, 1985, 99 Stat. 742; Pub. L. 100–26, §7(k)(2), Apr. 21, 1987, 101 Stat. 284; renumbered §2350c and amended Pub. L. 101–189, div. A, title IX, §931(b)(2), (e)(4), Nov. 29, 1989, 103 Stat. 1534, 1535; Pub. L. 102–484, div. A, title XIII,§1311, Oct. 23, 1992, 106 Stat. 2547; Pub. L. 106–398, §1 \[\[div. A\], title XII, §1222\], Oct. 30, 2000, 114 Stat. 1654, 1654A–328.)
 
 #### References in Text
 

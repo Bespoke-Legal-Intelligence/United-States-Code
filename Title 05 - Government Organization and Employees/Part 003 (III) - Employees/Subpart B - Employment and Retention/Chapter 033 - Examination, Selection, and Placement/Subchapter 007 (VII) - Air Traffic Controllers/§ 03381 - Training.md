@@ -30,7 +30,7 @@
 
 (d) The Secretary, without regard to section 3324(a) and (b) of title 31, may pay, or reimburse a controller for, all or part of the necessary expenses of training provided under this section, including expenses authorized to be paid under chapter 41 and subchapter I of chapter 57 of this title, and the costs of other services or facilities directly related to the training of a controller.
 
-(e) Except as provided by subsection (d) of this section, the provisions of chapter 41 of this title, other than sections 4105, 4107(a) and (b),<sup>1</sup> and 4111, shall not apply to training under this section.
+(e) Except as provided by subsection (d) of this section, the provisions of chapter 41 of this title, other than sections 4105, 4107(a) and (b),<sup>1</sup> and4111, shall not apply to training under this section.
 
 (f) The provisions of this section shall not otherwise affect the authority of the Secretary to provide training under chapter 41 of this title or under any other provision of law.
 
@@ -44,11 +44,11 @@ Subsecs. (a) and (b) of section 4107 of this title, referred to in subsec. (e), 
 
 #### Amendments
 
-1994—Subsec. (e). Pub. L. 103–226 substituted “4105,” for “4105(a),”.
+<b>1994</b>—Subsec. (e). Pub. L. 103–226 substituted “4105,” for “4105(a),”.
 
-1982—Subsec. (d). Pub. L. 97–258 substituted “section 3324(a) and (b)” for “section 529”.
+<b>1982</b>—Subsec. (d). Pub. L. 97–258 substituted “section 3324(a) and (b)” for “section 529”.
 
-1980—Subsec. (a). Pub. L. 96–347, §1(b), substituted “Secretary” for “Secretary of Transportation”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–347, §1(b), substituted “Secretary” for “Secretary of Transportation”.
 
 Subsec. (c)(1). Pub. L. 96–347, §1(c)(1), substituted “in the Executive agency in which the controller is employed” for “in the Department of Transportation”.
 

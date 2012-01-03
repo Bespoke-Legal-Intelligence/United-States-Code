@@ -20,7 +20,7 @@ In this chapter:
 
 #### Amendments
 
-2006—Par. (1). Pub. L. 109–356, which directed insertion of “and an employee of the District of Columbia courts” at end of par. (1), was executed by making the insertion before the period to reflect the probable intent of Congress.
+<b>2006</b>—Par. (1). Pub. L. 109–356, which directed insertion of “and an employee of the District of Columbia courts” at end of par. (1), was executed by making the insertion before the period to reflect the probable intent of Congress.
 
 #### Effective Date
 

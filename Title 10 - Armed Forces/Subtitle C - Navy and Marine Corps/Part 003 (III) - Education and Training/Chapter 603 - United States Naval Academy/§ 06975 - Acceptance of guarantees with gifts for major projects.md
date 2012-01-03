@@ -42,7 +42,7 @@ Qualified guarantee.—The term “qualified guarantee”, with respect to a maj
 
 &emsp;(3)
 
-Qualified account control agreement.—The term “qualified account control agreement”, with respect to a guarantee of a donor, means an agreement among the donor, the Secretary of the Navy, and a major United States investment management firm that—
+Qualified account control agreement.—The term “qualified account control agreement”, with respect to a guarantee of a donor, means an agreement among the donor,the Secretary of the Navy, and a major United States investment management firm that—
 
 &emsp;&emsp;(A) ensures the availability of sufficient funds or other financial resources to pay the amount guaranteed during the period of the guarantee;
 
@@ -74,7 +74,7 @@ Major united states investment management firm.—The term “major United State
 
 #### Prior Provisions
 
-A prior section 6975, added Pub. L. 103–337, div. A, title V, §556(b)(1), Oct. 5, 1994, 108 Stat. 2774, related to position of athletic director of Naval Academy and to administration of nonappropriated fund account for athletics program of Naval Academy, prior to repeal byPub. L. 104–106, div. A, title V, §533(b), Feb. 10, 1996, 110 Stat. 315; Pub. L. 105–85, div. A, title X, §1073(d)(1)(C), Nov. 18, 1997, 111 Stat. 1905, effective Oct. 5, 1994.
+A prior section 6975, added Pub. L. 103–337, div. A, title V, §556(b)(1), Oct. 5, 1994, 108 Stat. 2774, related to position of athletic director of Naval Academy and to administration of nonappropriated fund account for athletics program of Naval Academy, prior to repeal by Pub. L. 104–106, div. A, title V, §533(b), Feb. 10, 1996, 110 Stat. 315; Pub. L. 105–85, div. A, title X, §1073(d)(1)(C), Nov. 18, 1997, 111 Stat. 1905, effective Oct. 5, 1994.
 
 #### Amendments
 

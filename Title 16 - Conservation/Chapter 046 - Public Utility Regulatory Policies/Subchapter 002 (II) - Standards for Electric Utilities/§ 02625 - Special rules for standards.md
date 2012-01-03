@@ -84,7 +84,7 @@ The procedures for termination of service referred to in section 2623(b)(4) of t
 
 (1) For purposes of this section and section 2623(b)(5) of this title—
 
-&emsp;(A) The term “advertising” means the commercial use, by an electric utility, of anymedia, including newspaper, printed matter, radio, and television, in order to transmit a message to a substantial number of members of the public or to such utility's electric consumers.
+&emsp;(A) The term “advertising” means the commercial use, by an electric utility, of any media, including newspaper, printed matter, radio, and television, in order to transmit a message to a substantial number of members of the public or to such utility's electric consumers.
 
 &emsp;(B) The term “political advertising” means any advertising for the purpose of influencing public opinion with respect to legislative, administrative, or electoral matters, or with respect to any controversial issue of public importance.
 

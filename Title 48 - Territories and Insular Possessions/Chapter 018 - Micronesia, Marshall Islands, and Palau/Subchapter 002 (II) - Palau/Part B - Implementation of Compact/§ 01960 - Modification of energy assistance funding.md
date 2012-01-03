@@ -10,7 +10,7 @@ The President is authorized to negotiate and conclude an agreement, including th
 
 &emsp;(3) Such economic cost shall reflect the time value of money and be determined using the rate determined for an equivalent loan by the Federal Financing Bank as of the date these funds are advanced, and using an inflation rate consistent with the determinations made under the provisions of section 215 of the Compact.
 
-&emsp;(4) If the Government of Palau has not paid such net economic costs to the United States by the 15th anniversary of the effective date of the Compact, then the United States shall be automatically paid such sums from the fund established under section 211(f) of the Compact.
+&emsp;(4) If the Government of Palau has not paid such net economic costs to the United Statesby the 15th anniversary of the effective date of the Compact, then the United States shall be automatically paid such sums from the fund established under section 211(f) of the Compact.
 
 &emsp;(5) The provision of section 211(b) funds, as appropriated by Public Law 99–349 and pursuant to this subsection, shall be in fulfillment of all United States obligations under such section 211(b) of the Compact and shall be subject to section 236 of the Compact.
 

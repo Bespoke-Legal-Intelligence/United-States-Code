@@ -4,7 +4,7 @@
 
 #### (1) Authority; determination required
 
-&emsp;Upon a determination by the Secretary that there is an inadequate availability of loan capital to meet the demand for loans under sections 1078, 1078–2, or 1078–8 of this title, whether as a result of inadequate liquidity for such loans or for other reasons, the Secretary, in consultation with the Secretary of the Treasury, is authorized to purchase, or enter into forward commitments to purchase, from any eligible lender, as defined by section 1085(d)(1) of this title, loans first disbursed under sections 1078, 1078–2, or 1078–8 of this title on or after October 1, 2003, and before July 1, 2010, on such terms as the Secretary, the Secretary of the Treasury, and the Director of the Office of Management and Budget jointly determine are in the best interest of the United States, except that any purchase under this section shall not result in any net cost to the Federal Government (including the cost of servicing the loans purchased), as determined jointly by the Secretary, the Secretary of the Treasury, and the Director of the Office of Management and Budget.
+&emsp;Upon a determination by the Secretary that there is an inadequate availability of loan capital to meet the demand for loans under sections 1078, 1078–2, or 1078–8 of this title, whether as a result of inadequate liquidity for such loans or for other reasons, the Secretary, in consultation with the Secretary of the Treasury, is authorized to purchase, or enter into forward commitments to purchase, from any eligible lender, as defined by section 1085(d)(1) of this title, loans first disbursed under sections 1078, 1078–2, or 1078–8 of this title on or after October 1, 2003, and before July 1, 2010, on such terms as the Secretary, the Secretary of the Treasury, and the Director of the Office of Management and Budget jointly determine are in the best interest of the United States, except that any purchase under this section shall not result in any net cost to the Federal Government (including the cost of servicing the loans purchased), as determined jointly by the Secretary, the Secretary of the Treasury,and the Director of the Office of Management and Budget.
 
 #### (2) Federal Register notice
 
@@ -56,7 +56,7 @@ Notwithstanding any other provision of this chapter and part C of subchapter I o
 
 &emsp;(1) the guaranty agency that insured such loan shall cease to have any obligations, responsibilities, or rights (including rights to any payment) under this chapter and part C of subchapter I of chapter 34 of title 42 for any activity related to the administration of such loan that is carried out or required to be carried out on or after the date of such purchase; and
 
-&emsp;(2) the insurance issued by such agency pursuant to section 1078(b) of this title for suchloan shall cease to be effective with respect to any default on such loan that occurs on or after the date of such purchase.
+&emsp;(2) the insurance issued by such agency pursuant to section 1078(b) of this title for such loan shall cease to be effective with respect to any default on such loan that occurs on or after the date of such purchase.
 
 #### (e) Reports and cost estimates
 
@@ -68,7 +68,7 @@ The Secretary shall prepare, transmit to the authorizing committees, and make av
 
 &emsp;&emsp;Not later than 60 days after the end of each quarter during the period beginning July 1, 2008, and ending September 30, 2010, a quarterly report on—
 
-&emsp;&emsp;&emsp;(i) the number of loans the Secretary has agreed to purchase, or has purchased, using the authority provided under this section, and the total amount of outstanding principal and accrued interest of such loans, during such period; and
+&emsp;&emsp;&emsp;(i) the number of loans the Secretary has agreed to purchase, or has purchased, using the authority provided under thissection, and the total amount of outstanding principal and accrued interest of such loans, during such period; and
 
 &emsp;&emsp;&emsp;(ii) the number of loans in which the Secretary has purchased a participation interest, and the total amount of outstanding principal and accrued interest of such loans, during such period.
 

@@ -154,7 +154,7 @@ $500,000.
 
 #### (10) Application of this section to interests in partnerships, corporations, and trusts
 
-&emsp;This section shall apply to an interest in a partnership, corporation, or trust if at least 30 percent of the entity is owned (directly or indirectly) by the decedent, as determined under the rules described in section 2057(e)(3).
+&emsp;This section shall apply to an interest in a partnership, corporation, or trust if at least 30percent of the entity is owned (directly or indirectly) by the decedent, as determined under the rules described in section 2057(e)(3).
 
 #### (d) Cross reference
 
@@ -206,7 +206,7 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable to estates of decedents dying after Dec. 31, 1997, see section 508(e)(1)of Pub. L. 105–34, set out as a note under section 1014 of this title.
+Amendment by Pub. L. 105–34 applicable to estates of decedents dying after Dec. 31, 1997, see section 508(e)(1) of Pub. L. 105–34, set out as a note under section 1014 of this title.
 
 #### Effective Date of 1962 Amendment
 

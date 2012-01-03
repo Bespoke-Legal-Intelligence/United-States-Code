@@ -148,7 +148,7 @@ In general.—Notwithstanding subsections (a)(1) and (c) of section 6416 and sec
 
 &emsp;&emsp;&emsp;“(iii) such coal producer files a claim for refund with the Secretary not later than the close of the 30-day period beginning on the date of the enactment of this Act,
 
-&nbsp;&nbsp;then the Secretary shall pay to such coal producer an amount equal to the tax paid under section 4121 of such Code on such coal exported or shipped by the coal producer or a party related to such coal producer, or caused by the coal producer or a party related to such coal producer to be exported or shipped.
+&nbsp;&nbsp;then the Secretary shall pay to such coal producer an amount equal to the tax paid under section 4121 of such Code on such coal exported or shipped bythe coal producer or a party related to such coal producer, or caused by the coal producer or a party related to such coal producer to be exported or shipped.
 
 &emsp;&emsp;“(B)
 

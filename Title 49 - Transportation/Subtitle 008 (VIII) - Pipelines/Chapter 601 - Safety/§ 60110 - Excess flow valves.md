@@ -10,7 +10,7 @@ Application.—This section applies only to—
 
 (b)
 
-Installation Requirements and Considerations.—Not later than April 24, 1994, the Secretary of Transportation shall prescribe standards on the circumstances, if any, under which an operator of a natural gas distribution system must install excess flow valves in the system. The Secretary shall consider—
+Installation Requirements and Considerations.—Not later than April 24, 1994, the Secretary of Transportation shall prescribe standards on the circumstances, if any, under which an operator of a natural gas distribution systemmust install excess flow valves in the system. The Secretary shall consider—
 
 &emsp;(1) the system design pressure;
 

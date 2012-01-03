@@ -46,7 +46,7 @@ Not later than 6 months after receiving an application for naturalization filed 
 
 #### (h) Annual report
 
-The Director of United States Citizenship and Immigration Services shall submit an annual report to the Subcommittee on Immigration, Border Security, and Refugees and the Subcommittee on Homeland Security of the Senate and the Subcommittee on Immigration, Citizenship, Refugees, Border Security, and International Law and the Subcommittee on Homeland Security of the House of Representatives that identifies every application filed under subsection (a), subsection (b) or (d) of section 1430 of this title, section 1440(a) of this title, or section 1440–1 of this title that is not processed and adjudicated within 1 year after it was filed due to delays in conducting required background checks.
+The Director of United States Citizenship and Immigration Services shall submit an annual report to the Subcommittee on Immigration, Border Security, and Refugees and the Subcommittee on Homeland Security <sup>1</sup> of the Senate and the Subcommittee on Immigration, Citizenship, Refugees, Border Security, and International Law and the Subcommittee <sup>2</sup> on Homeland Security of the House of Representatives that identifies every application filed under subsection (a), subsection (b) or (d) of section 1430 of this title, section 1440(a) of this title, or section 1440–1 of this title that is not processed and adjudicated within 1 year after it was filed due to delays in conducting required background checks.
 
 (June 27, 1952, ch. 477, title III, ch. 2, §328, 66 Stat. 249; Pub. L. 90–633, §5, Oct. 24, 1968, 82 Stat. 1344; Pub. L. 97–116, §15(e), Dec. 29, 1981, 95 Stat. 1619; Pub. L. 101–649, title IV, §407(b)(4), (c)(10), (d)(8), Nov. 29, 1990, 104 Stat. 5040–5042; Pub. L. 102–232, title III, §305(c), Dec. 12, 1991, 105 Stat. 1750; Pub. L. 108–136, div. A, title XVII, §1701(a), (b)(1), (c)(1)(A), (f), Nov. 24, 2003, 117 Stat. 1691, 1692; Pub. L. 110–382, §3(a), Oct. 9, 2008, 122 Stat. 4088.)
 
@@ -56,9 +56,9 @@ The Director of United States Citizenship and Immigration Services shall submit 
 
 #### Amendments
 
-2008—Subsecs. (g), (h). Pub. L. 110–382, §§3(a), 4, temporarily added subsecs. (g) and (h). See Termination Date of 2008 Amendment note below.
+<b>2008</b>—Subsecs. (g), (h). Pub. L. 110–382, §§3(a), 4, temporarily added subsecs. (g) and (h). See Termination Date of 2008 Amendment note below.
 
-2003—Subsec. (a). Pub. L. 108–136, §1701(a), substituted “one year,” for “three years,”.
+<b>2003</b>—Subsec. (a). Pub. L. 108–136, §1701(a), substituted “one year,” for “three years,”.
 
 Subsec. (b)(3). Pub. L. 108–136, §1701(f), substituted “Secretary of Homeland Security” for “Attorney General”.
 
@@ -68,9 +68,9 @@ Subsec. (b)(4). Pub. L. 108–136, §1701(b)(1)(B), added par. (4).
 
 Subsec. (f). Pub. L. 108–136, §1701(c)(1)(A), added subsec. (f).
 
-1991—Subsecs. (b), (c). Pub. L. 102–232 amended directory language of Pub. L. 101–649, §407(d)(8). See 1990 Amendment notes below.
+<b>1991</b>—Subsecs. (b), (c). Pub. L. 102–232 amended directory language of Pub. L. 101–649, §407(d)(8). See 1990 Amendment notes below.
 
-1990—Subsec. (a). Pub. L. 101–649, §407(b)(4)(A), (c)(10), substituted “State or district of the Service in the United States” for “State”, “for at least three months” for “for at least six months”, and references to applicant and application for references to petitioner and petition wherever appearing.
+<b>1990</b>—Subsec. (a). Pub. L. 101–649, §407(b)(4)(A), (c)(10), substituted “State or district of the Service in the United States” for “State”, “for at least three months” for “for at least six months”, and references to applicant and application for references to petitioner and petition wherever appearing.
 
 Subsec. (b). Pub. L. 101–649, §407(b)(4)(B), (c)(10), (d)(8), as amended by Pub. L. 102–232, substituted “within a State or district of the Service in the United States” for “within the jurisdiction of the court” in par. (1), “any hearing” for “the final hearing” in par. (3), and references to applicant and application for references to petitioner and petition wherever appearing.
 
@@ -78,9 +78,13 @@ Subsec. (c). Pub. L. 101–649, §407(b)(4)(C), (c)(10), (d)(8), as amended by P
 
 Subsec. (d). Pub. L. 101–649, §407(c)(10), substituted references to applicant and application for references to petitioner and petition wherever appearing.
 
-1981—Subsec. (b)(2). Pub. L. 97–116 struck out “and section 1447(c) of this title” after “relates to deportability” and “and the witnesses” after “petition, the petitioner”.
+<b>1981</b>—Subsec. (b)(2). Pub. L. 97–116 struck out “and section 1447(c) of this title” after “relates to deportability” and “and the witnesses” after “petition, the petitioner”.
 
-1968—Subsec. (b)(2). Pub. L. 90–633 inserted reference to section 1429 of this title as it relates to deportability.
+<b>1968</b>—Subsec. (b)(2). Pub. L. 90–633 inserted reference to section 1429 of this title as it relates to deportability.
+
+#### Change of Name
+
+Subcommittee on Immigration, Citizenship, Refugees, Border Security, and International Law of Committee on the Judiciary of the House of Representatives changed to Subcommittee on Immigration Policy and Enforcement of Committee on the Judiciary of the House of Representatives under Rule V(b) of the Committee's rules of procedure adopted Jan. 19, 2011.
 
 #### Termination Date of 2008 Amendment
 
@@ -111,4 +115,8 @@ Amendment by Pub. L. 97–116 effective Dec. 29, 1981, see section 21(a) of Pub.
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “Committee on Homeland Security and Governmental Affairs”.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “Committee”.</i>
 

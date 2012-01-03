@@ -6,7 +6,7 @@ If and when appropriations are made therefor, the Secretary is authorized and di
 
 #### Amendments
 
-2004—Pub. L. 108–357 substituted “or rice,” for “rice, or tobacco,”.
+<b>2004</b>—Pub. L. 108–357 substituted “or rice,” for “rice, or tobacco,”.
 
 #### Effective Date of 2004 Amendment
 

@@ -18,7 +18,7 @@ Pub. L. 109–248, §506(a)(2), which directed amendment of this section by inse
 
 Pub. L. 109–248, §506(a)(1), inserted “Production and” before “transportation” in section catchline.
 
-<b>1996</b>—Pub. L. 104–104, in first par., substituted “transports or travels in, or uses a facility or means of,” for “transports in”, inserted “or an interactive computer service (as defined in section 230(e)(2) of the Communications Act of 1934) in or affecting such commerce” before “for the purpose of sale”, and substituted “of” for “, or knowingly travels in interstate commerce, or uses a facility or means of interstate commerce for the purpose of transporting obscene material in interstate or foreign commerce,” before “any obscene, lewd, lascivious, or filthy book”.
+<b>1996</b>—Pub. L. 104–104, in first par., substituted “transports or travels in, or uses a facility or means of,” for “transports in”, inserted “or an interactive computer service (as defined in section 230(e)(2) of the Communications Act of 1934) in or affecting such commerce” before “for the purpose of sale”, and substituted “of” for “, or knowingly travels in interstate commerce, oruses a facility or means of interstate commerce for the purpose of transporting obscene material in interstate or foreign commerce,” before “any obscene, lewd, lascivious, or filthy book”.
 
 <b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000” in first par.
 

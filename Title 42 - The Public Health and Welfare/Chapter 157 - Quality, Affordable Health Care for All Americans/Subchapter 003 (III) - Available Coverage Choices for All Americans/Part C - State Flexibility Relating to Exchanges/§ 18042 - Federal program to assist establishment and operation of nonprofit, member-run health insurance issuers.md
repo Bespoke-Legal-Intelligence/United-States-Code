@@ -78,7 +78,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The advisory board under this paragraph shall consist of 15 members appointed by the Comptroller General of the United States from among individuals with qualifications described in section 1395b–6(c)(2) of this title.
+&emsp;&emsp;The advisory board under this paragraph shall consist of 15 members appointed by theComptroller General of the United States from among individuals with qualifications described in section 1395b–6(c)(2) of this title.
 
 #### (B) Rules relating to appointments
 
@@ -170,7 +170,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Nothing in this section shall be construed to limit the application of the antitrust laws to any private purchasing council (whether or not established under this subsection) or to any qualified nonprofit health insurance issuer participating in such a council.
+&emsp;&emsp;Nothing in this section shall be construed to limit the application of the antitrust lawsto any private purchasing council (whether or not established under this subsection) or to any qualified nonprofit health insurance issuer participating in such a council.
 
 #### (B) Antitrust laws
 

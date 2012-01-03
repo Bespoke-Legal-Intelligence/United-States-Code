@@ -2,7 +2,11 @@
 
 The invention disclosed in an application for patent subject to an order made pursuant to section 181 of this title may be held abandoned upon its being established by the Commissioner of Patents that in violation of said order the invention has been published or disclosed or that an application for a patent therefor has been filed in a foreign country by the inventor, his successors, assigns, or legal representatives, or anyone in privity with him or them, without the consent of the Commissioner of Patents. The abandonment shall be held to have occurred as of the time of violation. The consent of the Commissioner of Patents shall not be given without the concurrence of the heads of the departments and the chief officers of the agencies who caused the order to be issued. A holding of abandonment shall constitute forfeiture by the applicant, his successors, assigns, or legal representatives, or anyone in privity with him or them, of all claims against the United States based upon such invention.
 
-(July 19, 1952, ch. 950, 66 Stat. 806; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582.)
+(July 19, 1952, ch. 950, 66 Stat. 806; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 112–29, §20(j), Sept. 16, 2011, 125 Stat. 335.)
+
+#### Amendment of Section
+
+<i>Pub. L. 112–29, §20(j), (l), Sept. 16, 2011, 125 Stat. 335, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, this section is amended by striking “of this title” each place that term appears. See 2011 Amendment note below.</i>
 
 #### Historical and Revision Notes
 
@@ -12,7 +16,13 @@ Language is changed.
 
 #### Amendments
 
+<b>2011</b>—Pub. L. 112–29 struck out “of this title” after “181”.
+
 <b>1999</b>—Pub. L. 106–113 substituted “Commissioner of Patents” for “Commissioner” wherever appearing.
+
+#### Effective Date of 2011 Amendment
+
+Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(<i>l</i>) of Pub. L. 112–29, set out as a note under section 2 of this title.
 
 #### Effective Date of 1999 Amendment
 

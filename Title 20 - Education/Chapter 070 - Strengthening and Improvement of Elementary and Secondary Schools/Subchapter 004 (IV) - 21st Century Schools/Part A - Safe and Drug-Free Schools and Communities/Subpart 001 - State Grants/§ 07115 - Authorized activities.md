@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(D) be based on an analysis of the data reasonably available at the time, of the prevalence of risk factors, including high or increasing rates of reported cases of child abuse and domestic violence; protective factors, buffers, assets; or other variables in schools and communities in the State identified through scientifically based research; and
 
-&emsp;&emsp;(E) include meaningful and ongoing consultation with and input from parents in the development of the application and administration of the program or activity.
+&emsp;&emsp;(E) include meaningful and ongoing consultation with and input from parents in thedevelopment of the application and administration of the program or activity.
 
 #### (2) Periodic evaluation
 
@@ -34,7 +34,7 @@
 
 #### (1) Program requirements
 
-&emsp;A local educational agency shall use funds made available under section 7114 of this titleto develop, implement, and evaluate comprehensive programs and activities, which are coordinated with other school and community-based services and programs, that shall—
+&emsp;A local educational agency shall use funds made available under section 7114 of this title to develop, implement, and evaluate comprehensive programs and activities, which are coordinated with other school and community-based services and programs, that shall—
 
 &emsp;&emsp;(A) foster a safe and drug-free learning environment that supports academic achievement;
 
@@ -94,13 +94,13 @@
 
 &emsp;&emsp;&emsp;(vi) The hiring and mandatory training, based on scientific research, of school security personnel (including school resource officers) who interact with students in support of youth drug and violence prevention activities under this part that are implemented in the school.
 
-&emsp;&emsp;&emsp;(vii) Expanded and improved school-based mental health services related to illegal drug use and violence, including early identification of violence and illegal drug use, assessment, and direct or group counseling services provided to students, parents, families, and school personnel by qualified school-based mental health service providers.
+&emsp;&emsp;&emsp;(vii) Expanded and improved school-based mental health services related to illegal drug use and violence, including early identification of violence and illegal drug use, assessment, and direct or groupcounseling services provided to students, parents, families, and school personnel by qualified school-based mental health service providers.
 
 &emsp;&emsp;&emsp;(viii) Conflict resolution programs, including peer mediation programs that educate and train peer mediators and a designated faculty supervisor, and youth anti-crime and anti-drug councils and activities.
 
 &emsp;&emsp;&emsp;(ix) Alternative education programs or services for violent or drug abusing students that reduce the need for suspension or expulsion or that serve students who have been suspended or expelled from the regular educational settings, including programs or services to assist students to make continued progress toward meeting the State academic achievement standards and to reenter the regular education setting.
 
-&emsp;&emsp;&emsp;(x) Counseling, mentoring, referral services, and other student assistance practices and programs, including assistance provided by qualified school-based mental health services providers and the training of teachers by school-based mental health services providers in appropriate identification and intervention techniques forstudents at risk of violent behavior and illegal use of drugs.
+&emsp;&emsp;&emsp;(x) Counseling, mentoring, referral services, and other student assistance practices and programs, including assistance provided by qualified school-based mental health services providers and the training of teachers by school-based mental health services providers in appropriate identification and intervention techniques for students at risk of violent behavior and illegal use of drugs.
 
 &emsp;&emsp;&emsp;(xi) Programs that encourage students to seek advice from, and to confide in, a trusted adult regarding concerns about violence and illegal drug use.
 

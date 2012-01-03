@@ -316,13 +316,13 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (a)(2)(F)(ii). Pub. L. 110–246, §4115(c)(2)(D)(i), substituted “section 3(j)” for “section 3(r)”.
+<b>2008</b>—Subsec. (a)(2)(F)(ii). Pub. L. 110–246, §4115(c)(2)(D)(i), substituted “section 3(j)” for “section 3(r)”.
 
 Subsec. (a)(2)(M). Pub. L. 110–328 added subpar. (M).
 
 Subsec. (a)(3)(B). Pub. L. 110–246, §4115(c)(2)(D)(ii), substituted “section 3(<i>l</i>)” for “section 3(h)”.
 
-2002—Subsec. (a)(2)(F). Pub. L. 107–171, §4401(a), added cl. (i), substituted “(ii) in the case” for “(II) in the case”, and struck out former cls. (i) and (ii)(I) which read as follows:
+<b>2002</b>—Subsec. (a)(2)(F). Pub. L. 107–171, §4401(a), added cl. (i), substituted “(ii) in the case” for “(II) in the case”, and struck out former cls. (i) and (ii)(I) which read as follows:
 
 “(i) was lawfully residing in the United States on August 22, 1996; and
 
@@ -336,7 +336,7 @@ Subsec. (a)(2)(J). Pub. L. 107–171, §4401(b)(1), substituted “who is under 
 
 Subsec. (a)(2)(L). Pub. L. 107–171, §4401(c)(1), added subpar. (L).
 
-1998—Subsec. (a)(2)(A). Pub. L. 105–185, §503, struck out cl. (i) designation and heading after subpar. (A) heading, substituted “programs described in paragraph (3)” for “program described in paragraph (3)(A)” in introductory provisions, redesignated subcls. (I) to (V) as cls. (i) to (v), respectively, and realigned their margins, and struck out heading and text of former cl. (ii) which related to eligibility of certain aliens for the food stamp program.
+<b>1998</b>—Subsec. (a)(2)(A). Pub. L. 105–185, §503, struck out cl. (i) designation and heading after subpar. (A) heading, substituted “programs described in paragraph (3)” for “program described in paragraph (3)(A)” in introductory provisions, redesignated subcls. (I) to (V) as cls. (i) to (v), respectively, and realigned their margins, and struck out heading and text of former cl. (ii) which related to eligibility of certain aliens for the food stamp program.
 
 Subsec. (a)(2)(F). Pub. L. 105–185, §504(1), substituted “specified Federal programs described in paragraph (3)” for “program defined in paragraph (3)(A) (relating to the supplemental security income program)” in introductory provisions.
 
@@ -350,7 +350,7 @@ Subsec. (a)(2)(J). Pub. L. 105–185, §507, added subpar. (J).
 
 Subsec. (a)(2)(K). Pub. L. 105–185, §508, added subpar. (K).
 
-1997—Subsec. (a)(2)(A). Pub. L. 105–33, §5302(a), amended heading and text of subpar. (A) generally. Prior to amendment, text read as follows: “Paragraph (1) shall not apply to an alien until 5 years after the date—
+<b>1997</b>—Subsec. (a)(2)(A). Pub. L. 105–33, §5302(a), amended heading and text of subpar. (A) generally. Prior to amendment, text read as follows: “Paragraph (1) shall not apply to an alien until 5 years after the date—
 
 &emsp;“(i) an alien is admitted to the United States as a refugee under section 207 of the Immigration and Nationality Act;
 
@@ -414,7 +414,7 @@ Subsec. (b)(2)(E). Pub. L. 105–33, §5303(b), added subpar. (E).
 
 Subsec. (b)(2)(F). Pub. L. 105–33, §5305(b), added subpar. (F).
 
-1996—Subsec. (a)(2)(D)(ii)(I). Pub. L. 104–208 amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: “With respect to the specified Federal program described in paragraph (3)(B), during the period beginning on August 22, 1996, and ending on the date which is 1 year after August 22, 1996, the State agency shall, at the time of the recertification, recertify the eligibility of any individual who is receiving benefits under such program as of August 22, 1996, and whose eligibility for such benefits may terminate by reason of the provisions of this subsection.”
+<b>1996</b>—Subsec. (a)(2)(D)(ii)(I). Pub. L. 104–208 amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: “With respect to the specified Federal program described in paragraph (3)(B), during the period beginning on August 22, 1996, and ending on the date which is 1 year after August 22, 1996, the State agency shall, at the time of the recertification, recertify the eligibility of any individual who is receiving benefits under such program as of August 22, 1996, and whose eligibility for such benefits may terminate by reason of the provisions of this subsection.”
 
 #### Change of Name
 

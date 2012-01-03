@@ -218,7 +218,7 @@ The General Schedule, referred to in text, is set out under section 5332 of this
 
 #### Amendments
 
-1990—Pub. L. 101–509 struck out “18” before “grades” in introductory provisions and struck out pars. (16) to (18) which described grades GS–16 to GS–18.
+<b>1990</b>—Pub. L. 101–509 struck out “18” before “grades” in introductory provisions and struck out pars. (16) to (18) which described grades GS–16 to GS–18.
 
 #### Effective Date of 1990 Amendment
 
@@ -284,7 +284,7 @@ Sec. 303. The Civil Service Commission is authorized to secure directly from any
 
 “
 
-Sec. 304. (a) Within one year after the date of enactment of this Act, the Commission shall submit to thePresident and the Congress an interim progress report on the current status and results of its activities under this Act, together with its current findings.
+Sec. 304. (a) Within one year after the date of enactment of this Act, the Commission shall submit to the President and the Congress an interim progress report on the current status and results of its activities under this Act, together with its current findings.
 
 “(b) Within two years after the date of enactment of this Act \[Mar. 17, 1970\]—
 

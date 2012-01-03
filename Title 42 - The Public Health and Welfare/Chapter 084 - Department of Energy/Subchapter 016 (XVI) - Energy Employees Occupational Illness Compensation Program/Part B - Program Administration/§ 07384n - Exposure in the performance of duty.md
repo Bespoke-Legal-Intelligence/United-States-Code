@@ -52,7 +52,7 @@ An individual with cancer specified in subclause (I), (II), or (III) of section 
 
 #### (e) Information on radiation doses
 
-(1) The Secretary of Energy shall provide, to each covered employee with cancer specified in section 7384<i>l</i>(9)(B) of this title, information specifying the estimated radiation dose of that employee during each employment specified in section 7384<i>l</i>(9)(B) of this title, whether established by a dosimetry reading, by a method established under subsection (d) of this section, or by both a dosimetry reading and such method.
+(1) The Secretary of Energy shall provide, to each covered employee with cancer specified insection 7384<i>l</i>(9)(B) of this title, information specifying the estimated radiation dose of that employee during each employment specified in section 7384<i>l</i>(9)(B) of this title, whether established by a dosimetry reading, by a method established under subsection (d) of this section, or by both a dosimetry reading and such method.
 
 (2) The Secretary of Health and Human Services and the Secretary of Energy shall each make available to researchers and the general public information on the assumptions, methodology, and data used in establishing radiation doses under subsection (d) of this section. The actions taken under this paragraph shall be consistent with the protection of private medical records.
 

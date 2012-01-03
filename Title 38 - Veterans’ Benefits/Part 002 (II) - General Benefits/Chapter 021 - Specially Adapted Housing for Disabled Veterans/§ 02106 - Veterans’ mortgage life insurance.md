@@ -48,7 +48,7 @@ Subsec. (i). Pub. L. 110–289, §2602(b)(6)(E), (F), substituted “the individ
 
 <b>2002</b>—Subsec. (a). Pub. L. 107–330, §302(1), inserted “age 69 or younger” after “any eligible veteran”.
 
-Subsec. (i)(2) to (4). Pub. L. 107–330, §302(2), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: “The veteran's seventieth birthday.”
+Subsec. (i)(2) to (4). Pub. L. 107–330, §302(2), redesignated pars. (3) and (4) as (2) and (3), respectively, andstruck out former par. (2) which read as follows: “The veteran's seventieth birthday.”
 
 <b>1998</b>—Subsec. (e). Pub. L. 105–368 substituted “deposited in the Veterans Housing Benefit Program Fund established by section 3722 of this title” for “, as appropriate, deposited in either the direct loan or loan guaranty revolving fund established by section 3723 or 3724 of this title, respectively”.
 

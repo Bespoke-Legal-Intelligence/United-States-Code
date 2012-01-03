@@ -52,7 +52,7 @@ Reimbursement for costs.—For space allotted under subsection (b), if there is 
 
 (d)
 
-Payment of Other Costs.—If an agency has a child care facility in its space, or is asponsoring agency for a child care facility in other federal or leased space, the agency or the Administration may—
+Payment of Other Costs.—If an agency has a child care facility in its space, or is a sponsoring agency for a child care facility in other federal or leased space, the agency or the Administration may—
 
 &emsp;(1) pay accreditation fees, including renewal fees, for the child care facility to be accredited by a nationally recognized early-childhood professional organization;
 

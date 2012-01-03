@@ -18,7 +18,7 @@ In the case of an individual who is a first-time homebuyer of a principal reside
 
 #### (C) Other individuals
 
-&emsp;&emsp;If two or more individuals who are not married purchase a principal residence, the amount of the credit allowed under subsection (a) shall be allocated among such individuals in such manner as the Secretary may prescribe, except that the total amount of the credits allowed to all such individuals shall not exceed $8,000.
+&emsp;&emsp;If two or more individuals who are not married purchase a principal residence, theamount of the credit allowed under subsection (a) shall be allocated among such individuals in such manner as the Secretary may prescribe, except that the total amount of the credits allowed to all such individuals shall not exceed $8,000.
 
 #### (D) Special rule for long-time residents of same principal residence
 
@@ -90,7 +90,7 @@ For purposes of this section—
 
 #### (6) Exception for long-time residents of same principal residence
 
-&emsp;In the case of an individual (and, if married, such individual's spouse) who has owned andused the same residence as such individual's principal residence for any 5-consecutive-year period during the 8-year period ending on the date of the purchase of a subsequent principal residence, such individual shall be treated as a first-time homebuyer for purposes of this section with respect to the purchase of such subsequent residence.
+&emsp;In the case of an individual (and, if married, such individual's spouse) who has owned and used the same residence as such individual's principal residence for any 5-consecutive-year period during the 8-year period ending on the date of the purchase of a subsequent principal residence, such individual shall be treated as a first-time homebuyer for purposes of this section with respect to the purchase of such subsequent residence.
 
 #### (d) Exceptions
 

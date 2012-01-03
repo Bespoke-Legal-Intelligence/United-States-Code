@@ -58,9 +58,9 @@
 
 #### Amendments
 
-1991—Subsec. (d)(1). Pub. L. 102–237 struck out “insured” before “System”.
+<b>1991</b>—Subsec. (d)(1). Pub. L. 102–237 struck out “insured” before “System”.
 
-1990—Subsec. (d)(1). Pub. L. 101–624, §1837(1), substituted “insured System institution” for “insured System bank”.
+<b>1990</b>—Subsec. (d)(1). Pub. L. 101–624, §1837(1), substituted “insured System institution” for “insured System bank”.
 
 Subsec. (d)(2). Pub. L. 101–624, §1837(2), substituted “institution” for “bank”.
 

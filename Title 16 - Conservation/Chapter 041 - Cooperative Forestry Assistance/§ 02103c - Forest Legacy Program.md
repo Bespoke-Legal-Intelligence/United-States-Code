@@ -10,7 +10,7 @@ The Secretary shall exercise the authority under subsection (a) of this section 
 
 #### (c) Interests in land
 
-In addition to the authorities granted under section 515 of this title and section 428a(a) of title 7, the Secretary may acquire from willing landowners lands and interests therein, including conservation easements and rights of public access, for Forest Legacy Program purposes. The Secretary shall not acquire conservation easements with title held in common ownership with any other entity.
+In addition to the authorities granted under section 515 of this title and section 428a(a) oftitle 7, the Secretary may acquire from willing landowners lands and interests therein, including conservation easements and rights of public access, for Forest Legacy Program purposes. The Secretary shall not acquire conservation easements with title held in common ownership with any other entity.
 
 #### (d) Implementation
 
@@ -62,7 +62,7 @@ Under the terms of a conservation easement or other property interest acquired u
 
 #### (1) Reserved interest deeds
 
-&emsp;As used in this section, the term “conservation easement” includes an easement utilizing a reserved interest deed where the grantee acquires all rights, title, and interests in a property, except those rights, title, and interests that may run with the land that are expressly reserved by a grantor.
+&emsp;As used in this section, the term “conservation easement” includes an easement utilizinga reserved interest deed where the grantee acquires all rights, title, and interests in a property, except those rights, title, and interests that may run with the land that are expressly reserved by a grantor.
 
 #### (2) Prohibitions on limitations
 

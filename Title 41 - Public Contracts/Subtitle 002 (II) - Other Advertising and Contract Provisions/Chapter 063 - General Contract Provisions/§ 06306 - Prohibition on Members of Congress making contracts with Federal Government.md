@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—A Member of Congress may not enter into or benefit from a contract oragreement or any part of a contract or agreement with the Federal Government.
+In General.—A Member of Congress may not enter into or benefit from a contract or agreement or any part of a contract or agreement with the Federal Government.
 
 (b)
 

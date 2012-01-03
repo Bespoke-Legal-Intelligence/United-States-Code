@@ -12,7 +12,7 @@
 
 &emsp;(i) the impact which will likely result from such taking;
 
-&emsp;(ii) what steps the applicant will take to minimize and mitigate such impacts, and the funding that will be available to implement such steps;
+&emsp;(ii) what steps the applicant will take to minimize and mitigate such impacts, and thefunding that will be available to implement such steps;
 
 &emsp;(iii) what alternative actions to such taking the applicant considered and the reasons why such alternatives are not being utilized; and
 
@@ -72,7 +72,7 @@ The Secretary may grant exceptions under subsections (a)(1)(A) and (b) of this s
 
 &emsp;(i) The term “subsistence” includes selling any edible portion of fish or wildlife in native villages and towns in Alaska for native consumption within native villages or towns; and
 
-&emsp;(ii) The term “authentic native articles of handicrafts and clothing” means items composed wholly or in some significant respect ofnatural materials, and which are produced, decorated, or fashioned in the exercise of traditional native handicrafts without the use of pantographs, multiple carvers, or other mass copying devices. Traditional native handicrafts include, but are not limited to, weaving, carving, stitching, sewing, lacing, beading, drawing, and painting.
+&emsp;(ii) The term “authentic native articles of handicrafts and clothing” means items composed wholly or in some significant respect of natural materials, and which are produced, decorated, or fashioned in the exercise of traditional native handicrafts without the use of pantographs, multiple carvers, or other mass copying devices. Traditional native handicrafts include, but are not limited to, weaving, carving, stitching, sewing, lacing, beading, drawing, and painting.
 
 (4) Notwithstanding the provisions of paragraph (1) of this subsection, whenever the Secretary determines that any species of fish or wildlife which is subject to taking under the provisions of this subsection is an endangered species or threatened species, and that such taking materially and negatively affects the threatened or endangered species, he may prescribe regulations upon the taking of such species by any such Indian, Aleut, Eskimo, or non-Native Alaskan resident of an Alaskan native village. Such regulations may be established with reference to species, geographical description of the area included, the season for taking, or any other factors related to the reason for establishing such regulations and consistent with the policy of this chapter. Such regulations shall be prescribed after a notice and hearings in the affected judicial districts of Alaska and as otherwise required by section 1373 of this title, and shall be removed as soon as the Secretary determines that the need for their impositions has disappeared.
 
@@ -232,7 +232,7 @@ Subsec. (f)(9). Pub. L. 100–478, §1011(d), struck out par. (9) which provided
 
 Subsec. (d). Pub. L. 97–304, §6(2), substituted “subsections (a)(1)(A) and (b) of this section” for “subsections (a) and (b) of this section”.
 
-Subsec. (f)(1)(B). Pub. L. 97–304, §6(3)(A), substituted “involves the substantial etching or engraving of designs upon, or the substantial carving of figures” for “involves the etching or engraving of designs upon, or the carving of figures” and inserted provision that, for purposes of this subsection, polishing or the adding of minor superficial markings does not constitute substantial etching, engraving, or carving.
+Subsec. (f)(1)(B). Pub. L. 97–304, §6(3)(A), substituted “involves the substantial etching or engraving of designs upon, or the substantial carving of figures” for “involves the etching or engraving of designs upon, orthe carving of figures” and inserted provision that, for purposes of this subsection, polishing or the adding of minor superficial markings does not constitute substantial etching, engraving, or carving.
 
 Subsec. (f)(9). Pub. L. 97–304, §6(3)(B), added par. (9).
 

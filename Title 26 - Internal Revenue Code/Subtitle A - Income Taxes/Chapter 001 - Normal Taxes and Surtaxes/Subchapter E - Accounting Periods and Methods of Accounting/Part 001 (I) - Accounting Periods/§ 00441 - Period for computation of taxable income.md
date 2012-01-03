@@ -96,7 +96,7 @@ Except as provided in section 443 (relating to returns for periods of less than 
 
 #### (4) Voting power determined
 
-&emsp;For purposes of this subsection, voting power shall be determined on the basis of totalcombined voting power of all classes of stock of the corporation entitled to vote.
+&emsp;For purposes of this subsection, voting power shall be determined on the basis of total combined voting power of all classes of stock of the corporation entitled to vote.
 
 #### (i) Taxable year of personal service corporations
 

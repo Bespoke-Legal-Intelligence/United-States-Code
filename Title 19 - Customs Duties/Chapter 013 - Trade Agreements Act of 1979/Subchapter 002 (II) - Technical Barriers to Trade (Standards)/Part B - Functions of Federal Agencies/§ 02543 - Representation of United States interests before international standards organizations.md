@@ -34,7 +34,7 @@ The Secretary concerned shall—
 
 #### (4) Action by organization member
 
-&emsp;If within the 90-day period after the date on which notification is received under paragraph (3) (or such shorter period as the Secretary concerned determines to be necessary in extraordinary circumstances), the organization member demonstrates to the Secretary concerned its willingness and ability to represent adequately United States interests before theprivate international standards organization, the Secretary concerned shall take no further action under this subsection.
+&emsp;If within the 90-day period after the date on which notification is received under paragraph (3) (or such shorter period as the Secretary concerned determines to be necessary in extraordinary circumstances), the organization member demonstrates to the Secretary concerned its willingness and ability to represent adequately United States interests before the private international standards organization, the Secretary concerned shall take no further action under this subsection.
 
 #### (5) Action by Secretary concerned
 

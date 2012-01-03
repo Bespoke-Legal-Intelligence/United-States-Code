@@ -28,7 +28,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 1102(a) of the House amendment adopts a compromise between the House bill and Senate amendment requiring appointment of a committee of creditors holding unsecured claims by the court; the alternative of creditor committee election is rejected.
 
@@ -58,19 +58,19 @@ Section 3(a)(1) of the Small Business Act, referred to in subsec. (a)(4), is cla
 
 #### Amendments
 
-2005—Subsec. (a)(3). Pub. L. 109–8, §432(b), inserted “debtor” after “small business”.
+<b>2005</b>—Subsec. (a)(3). Pub. L. 109–8, §432(b), inserted “debtor” after “small business”.
 
 Subsec. (a)(4). Pub. L. 109–8, §405(a), added par. (4).
 
 Subsec. (b)(3). Pub. L. 109–8, §405(b), added par. (3).
 
-1994—Subsec. (a). Pub. L. 103–394 substituted “Except as provided in paragraph (3), as” for “As” in par. (1) and added par. (3).
+<b>1994</b>—Subsec. (a). Pub. L. 103–394 substituted “Except as provided in paragraph (3), as” for “As” in par. (1) and added par. (3).
 
-1986—Subsec. (a). Pub. L. 99–554, §221(1), amended subsec. (a) generally, substituting “chapter 11 of this title, the United States trustee shall appoint a committee of creditors holding unsecured claims and may appoint additional committees of creditors or of equity security holders as the United States trustee deems appropriate” for “this chapter, the court shall appoint a committee of creditors holding unsecured claims” in par. (1) and “United States trustee” for “court” in par. (2).
+<b>1986</b>—Subsec. (a). Pub. L. 99–554, §221(1), amended subsec. (a) generally, substituting “chapter 11 of this title, the United States trustee shall appoint a committee of creditors holding unsecured claims and may appoint additional committees of creditors or of equity security holders as the United States trustee deems appropriate” for “this chapter, the court shall appoint a committee of creditors holding unsecured claims” in par. (1) and “United States trustee” for “court” in par. (2).
 
 Subsec. (c). Pub. L. 99–554, §221(2), struck out subsec. (c) which read as follows: “On request of a party in interest and after notice and a hearing, the court may change the membership or the size of a committee appointed under subsection (a) of this section if the membership of such committee is not representative of the different kinds of claims or interests to be represented.”
 
-1984—Subsec. (b)(1). Pub. L. 98–353 substituted “commencement of the case” for “order for relief”.
+<b>1984</b>—Subsec. (b)(1). Pub. L. 98–353 substituted “commencement of the case” for “order for relief”.
 
 #### Effective Date of 2005 Amendment
 

@@ -98,11 +98,11 @@ Funds authorized in section 22 of the Act of June 29, 1935 (49 Stat. 439, chapte
 
 &emsp;&emsp;(A) promote and strengthen secondary education and 2-year postsecondary education in agriscience and agribusiness in order to help ensure the existence in the United States of a qualified workforce to serve the food and agricultural sciences system; and
 
-&emsp;&emsp;(B) promote complementary and synergistic linkages among secondary, 2-year postsecondary, and higher education programs in the food and agricultural sciences in order to promote excellence in education and encourage more young Americans to pursue and complete a baccalaureate or higher degree in the food and agricultural sciences.
+&emsp;&emsp;(B) promote complementary and synergistic linkages among secondary, 2-year postsecondary, and higher education programs in the food and agricultural sciences in order to promote excellence in education and encourage more young Americans to pursue and complete a baccalaureate orhigher degree in the food and agricultural sciences.
 
 #### (3) Grants
 
-&emsp;The Secretary may make competitive or noncompetitive grants, for grant periods not to exceed 5 years, to public secondary schools,institutions of higher education that award an associate's degree, other institutions of higher education, and nonprofit organizations, that the Secretary determines have made a commitment to teaching agriscience and agribusiness—
+&emsp;The Secretary may make competitive or noncompetitive grants, for grant periods not to exceed 5 years, to public secondary schools, institutions of higher education that award an associate's degree, other institutions of higher education, and nonprofit organizations, that the Secretary determines have made a commitment to teaching agriscience and agribusiness—
 
 &emsp;&emsp;(A) to enhance curricula in agricultural education;
 
@@ -146,7 +146,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (b). Pub. L. 110–246, §7106(1), inserted “(including the University of the District of Columbia)” after “land-grant colleges and universities” in introductory provisions.
+<b>2008</b>—Subsec. (b). Pub. L. 110–246, §7106(1), inserted “(including the University of the District of Columbia)” after “land-grant colleges and universities” in introductory provisions.
 
 Subsec. (b)(4). Pub. L. 110–246, §7107, substituted “teaching, research, and extension” for “teaching and research”.
 
@@ -166,7 +166,7 @@ Subsec. (<i>l</i>). Pub. L. 110–246, §7109(b)(2), added subsec. (<i>l</i>). F
 
 Subsec. (m). Pub. L. 110–246, §7109(b)(1), (c), redesignated subsec. (<i>l</i>) as (m) and substituted “2012” for “2007”.
 
-2002—Subsec. (a). Pub. L. 107–171, §7102(1), struck out “and” after “home economics,” and inserted “, and rural economic, community, and business development” before period at end.
+<b>2002</b>—Subsec. (a). Pub. L. 107–171, §7102(1), struck out “and” after “home economics,” and inserted “, and rural economic, community, and business development” before period at end.
 
 Subsec. (b)(1), (2). Pub. L. 107–171, §7102(2)(A), (B), inserted “, or in rural economic, community, and business development” before semicolon.
 
@@ -184,7 +184,7 @@ Subsec. (j)(1)(B). Pub. L. 107–110 substituted “7801” for “8801(25)”.
 
 Subsec. (<i>l</i>). Pub. L. 107–171, §7102(4), substituted “2007” for “2002”.
 
-1998—Subsecs. (c), (d). Pub. L. 105–185, §223(1), (2), added subsec. (c) and redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (f).
+<b>1998</b>—Subsecs. (c), (d). Pub. L. 105–185, §223(1), (2), added subsec. (c) and redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (f).
 
 Subsec. (e). Pub. L. 105–185, §223(3), added subsec. (e). Former subsec. (e) redesignated (g).
 
@@ -200,7 +200,7 @@ Subsec. (<i>l</i>). Pub. L. 105–185, §301(a)(1), substituted “2002” for �
 
 Pub. L. 105–185, §223(1), redesignated subsec. (j) as (<i>l</i>).
 
-1996—Subsec. (b)(4). Pub. L. 104–127, §805(a), added par. (4) and struck out former par. (4) which read as follows: “to design and implement innovative food and agricultural educational programs;”.
+<b>1996</b>—Subsec. (b)(4). Pub. L. 104–127, §805(a), added par. (4) and struck out former par. (4) which read as follows: “to design and implement innovative food and agricultural educational programs;”.
 
 Subsec. (c)(3). Pub. L. 104–127, §805(b), added par. (3).
 
@@ -212,11 +212,11 @@ Pub. L. 104–127, §805(c), substituted “1997” for “1995”.
 
 Subsec. (j). Pub. L. 104–127, §805(d)(1), redesignated subsec. (i) as (j).
 
-1991—Subsec. (i). Pub. L. 102–237 struck out at end “Of amounts appropriated to carry out this section for a fiscal year, not less than $10,000,000 shall be used for the national needs graduate fellowship program referred to in subsection (b)(6) of this section.”
+<b>1991</b>—Subsec. (i). Pub. L. 102–237 struck out at end “Of amounts appropriated to carry out this section for a fiscal year, not less than $10,000,000 shall be used for the national needs graduate fellowship program referred to in subsection (b)(6) of this section.”
 
-1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions which established grant categories for promotion and development of higher education in food and agricultural sciences, provided for program of predoctoral and postdoctoral fellowships in food and agricultural sciences, provided for transfer of funds, functions and duties to Secretary of Agriculture, authorized appropriations to carry out the section, and provided for nonapplicability of certain Federal laws to any panel or board created to review applications submitted under the section.
+<b>1990</b>—Pub. L. 101–624 amended section generally, substituting present provisions for provisions which established grant categories for promotion and development of higher education in food and agricultural sciences, provided for program of predoctoral and postdoctoral fellowships in food and agricultural sciences, provided for transfer of funds, functions and duties to Secretary of Agriculture, authorized appropriations to carry out the section, and provided for nonapplicability of certain Federal laws to any panel or board created to review applications submitted under the section.
 
-1985—Subsec. (a)(2). Pub. L. 99–198, §1412(a)(1), substituted “Each” for “Such grants shall be made without regard to matching funds, but each”.
+<b>1985</b>—Subsec. (a)(2). Pub. L. 99–198, §1412(a)(1), substituted “Each” for “Such grants shall be made without regard to matching funds, but each”.
 
 Subsec. (a)(3). Pub. L. 99–198, §1412(a)(2), substituted “Each recipient institution shall have a significant ongoing commitment to the food and agricultural sciences generally and to the specific subject area for which such grant is to be used.” for “Such grants shall be made without regard to matching funds provided by recipients.”
 
@@ -224,7 +224,7 @@ Subsec. (d). Pub. L. 99–198, §1412(b), amended subsec. (d) generally. Prior t
 
 Subsec. (e). Pub. L. 99–198, §1412(c), added subsec. (e).
 
-1981—Subsec. (a). Pub. L. 97–98, §1418(a), substituted provisions authorizing the Secretary to promote and develop higher education in the food and agricultural science by formulating and administering higher education programs, to make grants to land-grant colleges and universities and other institutions capable of teaching food and agricultural education for specified purposes for a period not to exceed five years without regard to matching funds and to make competitive grants to colleges and universities to develop or administer programs to meet unique food and agricultural educational problems, and to administer and conduct specialized programs and graduate fellowship programs for a period not to exceed five years without regard to matching funds for provisions relating to competitive grants to all colleges and universities for the purpose of furthering education in the food and agricultural sciences in two specified categories.
+<b>1981</b>—Subsec. (a). Pub. L. 97–98, §1418(a), substituted provisions authorizing the Secretary to promote and develop higher education in the food and agricultural science by formulating and administering higher education programs, to make grants to land-grant colleges and universities and other institutions capable of teaching food and agricultural education for specified purposes for a period not to exceed five years without regard to matching funds and to make competitive grants to colleges and universities to develop or administer programs to meet unique food and agricultural educational problems, and to administer and conduct specialized programs and graduate fellowship programs for a period not to exceed five years without regard to matching funds for provisions relating to competitive grants to all colleges and universities for the purpose of furthering education in the food and agricultural sciences in two specified categories.
 
 Subsec. (c). Pub. L. 97–98 inserted provisions relating to the transfer to the Secretary of all the functions and duties of the Secretary of Education under the act of June 29, 1935, applicable to the activities and programs for which funds are made available under section 329 of this title.
 

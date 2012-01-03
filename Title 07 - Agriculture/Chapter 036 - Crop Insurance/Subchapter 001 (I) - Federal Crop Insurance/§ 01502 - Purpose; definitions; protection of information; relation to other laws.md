@@ -14,7 +14,7 @@ As used in this subchapter:
 
 #### (2) Approved insurance provider
 
-&emsp;The term “approved insurance provider” means a private insurance provider that has been approved by the Corporation to provide insurance coverage to producers participating in the Federal crop insurance program established under this subchapter.
+&emsp;The term “approved insurance provider” means a private insurance provider that hasbeen approved by the Corporation to provide insurance coverage to producers participating in the Federal crop insurance program established under this subchapter.
 
 #### (3) Board
 
@@ -30,7 +30,7 @@ As used in this subchapter:
 
 #### (6) Loss ratio
 
-&emsp;The term “loss ratio” means the ratio of all sums paid by the Corporation as indemnities under any eligible crop insurance policy tothat portion of the premium designated for anticipated losses and a reasonable reserve, other than that portion of the premium designated for operating and administrative expenses.
+&emsp;The term “loss ratio” means the ratio of all sums paid by the Corporation as indemnities under any eligible crop insurance policy to that portion of the premium designated for anticipated losses and a reasonable reserve, other than that portion of the premium designated for operating and administrative expenses.
 
 #### (7) Organic crop
 
@@ -94,19 +94,19 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Pub. L. 110–246, §12033(c)(2)(B), substituted “this subchapter” for “this chapter” wherever appearing.
+<b>2008</b>—Pub. L. 110–246, §12033(c)(2)(B), substituted “this subchapter” for “this chapter” wherever appearing.
 
 Subsec. (b)(7) to (9). Pub. L. 110–246, §12001, added par. (7) and redesignated former pars. (7) and (8) as (8) and (9), respectively.
 
-2000—Subsec. (c). Pub. L. 106–224, §122, added subsec. (c).
+<b>2000</b>—Subsec. (c). Pub. L. 106–224, §122, added subsec. (c).
 
 Subsec. (d). Pub. L. 106–224, §141, added subsec. (d).
 
-1994—Pub. L. 103–354 substituted “Purpose and definitions” for “Declaration of purpose” in section catchline, designated existing text as subsec. (a) and added heading, and added subsec. (b).
+<b>1994</b>—Pub. L. 103–354 substituted “Purpose and definitions” for “Declaration of purpose” in section catchline, designated existing text as subsec. (a) and added heading, and added subsec. (b).
 
-1947—Act Aug. 1, 1947, amended section generally, restating purpose of chapter to improve all agriculture by crop insurance instead of being limited only to wheat.
+<b>1947</b>—Act Aug. 1, 1947, amended section generally, restating purpose of chapter to improve all agriculture by crop insurance instead of being limited only to wheat.
 
-1941—Act June 21, 1941, substituted “crop” for “wheat-crop” and “agricultural commodities” for “wheat”.
+<b>1941</b>—Act June 21, 1941, substituted “crop” for “wheat-crop” and “agricultural commodities” for “wheat”.
 
 #### Effective Date of 2008 Amendment
 

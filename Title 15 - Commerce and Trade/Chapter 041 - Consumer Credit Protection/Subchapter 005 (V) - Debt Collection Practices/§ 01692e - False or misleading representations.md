@@ -26,7 +26,7 @@ A debt collector may not use any false, deceptive, or misleading representation 
 
 &emsp;(8) Communicating or threatening to communicate to any person credit information which is known or which should be known to be false, including the failure to communicate that a disputed debt is disputed.
 
-&emsp;(9) The use or distribution of any written communication which simulates or is falsely represented to be a document authorized, issued, or approved by any court, official, or agency of the United States or any State, or which creates a false impression as to its source, authorization, or approval.
+&emsp;(9) The use or distribution of any written communication which simulates or is falsely represented to be a document authorized, issued, or approved by any court, official, or agency of the United States or any State, orwhich creates a false impression as to its source, authorization, or approval.
 
 &emsp;(10) The use of any false representation or deceptive means to collect or attempt to collect any debt or to obtain information concerning a consumer.
 

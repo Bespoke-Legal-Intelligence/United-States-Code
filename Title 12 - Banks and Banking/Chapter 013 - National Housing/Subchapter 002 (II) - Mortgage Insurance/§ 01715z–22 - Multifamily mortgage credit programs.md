@@ -26,7 +26,7 @@ The Secretary of Housing and Urban Development (hereinafter referred to as the �
 
 #### (D) Reimbursement capacity
 
-&emsp;&emsp;Agreements entered into under this subsection between the Secretary and a qualified participating entity shall provide evidence acceptable to the Secretary of the capacity of such entity to fulfill any reimbursement obligations made pursuant to this subsection. Evidence of such capacity whichmay be considered by the Secretary may include—
+&emsp;&emsp;Agreements entered into under this subsection between the Secretary and a qualified participating entity shall provide evidence acceptable to the Secretary of the capacity of such entity to fulfill any reimbursement obligations made pursuant to this subsection. Evidence of such capacity which may be considered by the Secretary may include—
 
 &emsp;&emsp;&emsp;(i) a pledge of the full faith and credit of a qualified participating entity to fulfill any obligations entered into by the entity;
 
@@ -42,7 +42,7 @@ The Secretary of Housing and Urban Development (hereinafter referred to as the �
 
 #### (F) Authority of Secretary
 
-&emsp;&emsp;The Secretary, upon request of a qualified participating entity, may insure or reinsure and make commitments to insure or reinsure under this section any mortgage, advance, loan, or pool of mortgages otherwise eligible under this section, pursuant to a risk-sharing agreement providing that the qualified participating entity will carry out (under a delegation or otherwise, and with or without compensation, but subject to audit, exception, or review requirements) such credit approval, appraisal, inspection, issuance of commitments, approval of insurance of advances, cost certification, servicing, property disposition, or other functions as the Secretary shall approve as consistent with the purpose of this section. All appraisals of property for mortgage insurance under this section shall be completed by a Certified General Appraiser in accordance with the Uniform Standards of Professional Appraisal Practice.
+&emsp;&emsp;The Secretary, upon request of a qualified participating entity, may insure or reinsure and make commitments to insure or reinsure under this section any mortgage, advance, loan, or pool of mortgages otherwise eligible under this section, pursuant to a risk-sharing agreement providing that the qualified participating entity will carry out (under a delegation or otherwise, and with or without compensation, but subject to audit, exception, or review requirements) such credit approval, appraisal, inspection, issuance of commitments, approval of insurance of advances, cost certification, servicing, property disposition, or other functions as the Secretary shall approve as consistent with the purpose of this section. All appraisals of property for mortgage insurance underthis section shall be completed by a Certified General Appraiser in accordance with the Uniform Standards of Professional Appraisal Practice.
 
 #### (G) Disclosure of records
 
@@ -78,7 +78,7 @@ The Secretary of Housing and Urban Development (hereinafter referred to as the �
 
 #### (7) Non-Federal participation
 
-&emsp;The Secretary shall carry out this subsection, to the maximum extent practicable, with the participation of well-established residential mortgage originators, financial institutions that invest in multifamily housingmortgages, multifamily housing sponsors, and such other private sector experts in multifamily housing finance as the Secretary determines to be appropriate.
+&emsp;The Secretary shall carry out this subsection, to the maximum extent practicable, with the participation of well-established residential mortgage originators, financial institutions that invest in multifamily housing mortgages, multifamily housing sponsors, and such other private sector experts in multifamily housing finance as the Secretary determines to be appropriate.
 
 #### (8) Prohibition on Ginnie Mae securitization
 
@@ -106,7 +106,7 @@ The Secretary of Housing and Urban Development (hereinafter referred to as the �
 
 #### (A) In general
 
-&emsp;&emsp;In carrying out the program authorized under this subsection, the Secretary shall enter into risk-sharing agreements with qualified housing finance agencies.
+&emsp;&emsp;In carrying out the program authorized under this subsection, the Secretary shallenter into risk-sharing agreements with qualified housing finance agencies.
 
 #### (B) Mortgage insurance
 
@@ -168,7 +168,7 @@ The Secretary of Housing and Urban Development (hereinafter referred to as the �
 
 &emsp;&emsp;&emsp;(I) In order to assure that the policies of the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and other provisions of law which further the purposes of such Act (as specified in regulations issued by the Secretary) are most effectively implemented in connection with the insurance of mortgages under subsection (c)(2) of this section, and to assure to the public undiminished protection of the environment, the Secretary may, under such regulations, in lieu of the environmental protection procedures otherwise applicable, provide for agreements to endorse for insurance mortgages under subsection (c)(2) of this section upon the request of qualified housing finance agencies under this subsection, if the State or unit of general local government, as designated by the Secretary in accordance with regulations, assumes all of the responsibilities for environmental review, decisionmaking, and action pursuant to such Act, and such other provisions of law as the regulations of the Secretary may specify, that would otherwise apply to the Secretary with respect to the insurance of mortgages on particular properties.
 
-&emsp;&emsp;&emsp;(II) The Secretary shall issue regulations to carry out this subparagraph only after consultation with the Council on Environmental Quality. Such regulations shall, among other matters, provide—
+&emsp;&emsp;&emsp;(II) The Secretary shall issue regulations to carry out this subparagraph only afterconsultation with the Council on Environmental Quality. Such regulations shall, among other matters, provide—
 
 &emsp;&emsp;&emsp;&emsp;(aa) for the monitoring of the performance of environmental reviews under this subparagraph;
 
@@ -248,7 +248,7 @@ Section was enacted as part of the Multifamily Housing Finance Improvement Act a
 
 #### Amendments
 
-2000—Pub. L. 106–377, §1(a)(1) \[title II, §235(6)\], substituted “programs” for “demonstrations” in section catchline.
+<b>2000</b>—Pub. L. 106–377, §1(a)(1) \[title II, §235(6)\], substituted “programs” for “demonstrations” in section catchline.
 
 Subsec. (a). Pub. L. 106–377, §1(a)(1) \[title II, §235(1)\], substituted “provide” for “demonstrate the effectiveness of providing” in first sentence and “the programs” for “demonstration programs” in second sentence.
 
@@ -268,25 +268,25 @@ Subsec. (c)(2). Pub. L. 106–377, §1(a)(1) \[title II, §235(5)\], struck out 
 
 Subsec. (c)(2)(A). Pub. L. 106–377, §1(a)(1) \[title II, §235(5)\], struck out “pilot” before “program”.
 
-Subsec. (c)(4). Pub. L. 106–377, §1(a)(1) \[title II, §235(3)(B)\], added par. (4) and struck out heading and text of former par. (4). Text read as follows: “Using any authority provided by appropriations Acts to insure mortgages under the National Housing Act, the Secretary may enter into commitments under this subsection with respect to mortgages on not more than 12,000 units during fiscal year 1996, not more than anadditional 7,500 units during fiscal year 1997 and not more than an additional 25,000 units in each of fiscal years 1999 and 2000. The demonstration authorized under this subsection shall not be expanded until the reports required under subsection (d) of this section are submitted to the Congress.”
+Subsec. (c)(4). Pub. L. 106–377, §1(a)(1) \[title II, §235(3)(B)\], added par. (4) and struck out heading and text of former par. (4). Text read as follows: “Using any authority provided by appropriations Acts to insure mortgages under the National Housing Act, the Secretary may enter into commitments under this subsection with respect to mortgages on not more than 12,000 units during fiscal year 1996, not more than an additional 7,500 units during fiscal year 1997 and not more than an additional 25,000 units in each of fiscal years 1999 and 2000. The demonstration authorized under this subsection shall not be expanded until the reports required under subsection (d) of this section are submitted to the Congress.”
 
 Subsec (d). Pub. L. 106–377, §1(a)(1) \[title II, §235(4)\], struck out heading and text of subsec. (d) which related to independent studies and reports.
 
-1999—Subsec. (b)(5). Pub. L. 106–74, §226(1), as added by 106–113, §175(d), substituted “in each of the fiscal years 1999 and 2000” for “during fiscal year 1999”.
+<b>1999</b>—Subsec. (b)(5). Pub. L. 106–74, §226(1), as added by 106–113, §175(d), substituted “in each of the fiscal years 1999 and 2000” for “during fiscal year 1999”.
 
 Subsec. (c)(4). Pub. L. 106–74, §226(2), as added by Pub. L. 106–113, §175(d), substituted “in each of fiscal years 1999 and 2000” for “during fiscal year 1999”.
 
-1998—Subsec. (b)(5). Pub. L. 105–276, §211(1), inserted before period at end “, and not more than an additional 25,000 units during fiscal year 1999”.
+<b>1998</b>—Subsec. (b)(5). Pub. L. 105–276, §211(1), inserted before period at end “, and not more than an additional 25,000 units during fiscal year 1999”.
 
 Subsec. (c)(4). Pub. L. 105–276, §211(2), substituted “1996,” for “1996 and” and inserted “and not more than an additional 25,000 units during fiscal year 1999” after “fiscal year 1997”.
 
-1997—Subsec. (c)(4). Pub. L. 105–18 substituted “on not more than 12,000 units during fiscal year 1996 and not more than an additional 7,500 units during fiscal year 1997” for “on not more than 12,000 units during fiscal year 1996”.
+<b>1997</b>—Subsec. (c)(4). Pub. L. 105–18 substituted “on not more than 12,000 units during fiscal year 1996 and not more than an additional 7,500 units during fiscal year 1997” for “on not more than 12,000 units during fiscal year 1996”.
 
-1996—Subsec. (b)(5). Pub. L. 104–120, §8(a), and Pub. L. 104–134, §101(e) \[title II, §205(a)\], amended par. (5) identically, substituting “on not more than 7,500 units during fiscal year 1996” for “on not more than 15,000 units over fiscal years 1993 and 1994”.
+<b>1996</b>—Subsec. (b)(5). Pub. L. 104–120, §8(a), and Pub. L. 104–134, §101(e) \[title II, §205(a)\], amended par. (5) identically, substituting “on not more than 7,500 units during fiscal year 1996” for “on not more than 15,000 units over fiscal years 1993 and 1994”.
 
 Subsec. (c)(4). Pub. L. 104–120, §8(b), and Pub. L. 104–134, §101(e) \[title II, §205(b)\], amended par. (4) identically, substituting “on not more than 12,000 units during fiscal year 1996” for “on not to exceed 30,000 units over fiscal years 1993, 1994, and 1995”.
 
-1994—Subsec. (b)(1), (2). Pub. L. 103–233, §307(a)(1), added pars. (1) and (2) and struck out headings and text of former pars. (1) and (2) relating to authority of Secretary for carrying out risk-sharing pilot program and authority of Secretary for reinsurance agreements, respectively.
+<b>1994</b>—Subsec. (b)(1), (2). Pub. L. 103–233, §307(a)(1), added pars. (1) and (2) and struck out headings and text of former pars. (1) and (2) relating to authority of Secretary for carrying out risk-sharing pilot program and authority of Secretary for reinsurance agreements, respectively.
 
 Subsec. (b)(4). Pub. L. 103–233, §307(a)(2), substituted “eligibility under this subsection of qualified participating entities” for “financial institutions and entities to be eligible to enter into reinsurance agreements”.
 
@@ -296,7 +296,7 @@ Subsec. (b)(9), (10). Pub. L. 103–233, §307(a)(4), added pars. (9) and (10).
 
 Subsec. (b)(11). Pub. L. 103–233, §307(a)(3), added par. (11).
 
-Subsec. (c)(1). Pub. L. 103–233, §307(b)(1), inserted “(including entities established by States that provide mortgage insurance)” after “qualified housing finance agencies”.
+Subsec. (c)(1). Pub. L. 103–233, §307(b)(1), inserted “(including entities established by States that providemortgage insurance)” after “qualified housing finance agencies”.
 
 Subsec. (c)(2)(C). Pub. L. 103–233, §307(b)(2)(A), substituted “Such agreements shall specify that the qualified housing finance agency and the Secretary shall share any loss in accordance with the risk-sharing agreement.” for “Such agreements shall specify that the qualified housing finance agency and the Secretary shall share equally the full amount of any loss on the insured mortgage.”
 

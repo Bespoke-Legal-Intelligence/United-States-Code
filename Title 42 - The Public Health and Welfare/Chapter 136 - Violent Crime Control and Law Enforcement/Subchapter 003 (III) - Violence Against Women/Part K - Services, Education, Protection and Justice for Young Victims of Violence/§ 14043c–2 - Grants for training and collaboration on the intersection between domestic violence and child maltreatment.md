@@ -28,7 +28,7 @@ The Secretary shall award grants under this section for periods of not more than
 
 #### (f) Uses of funds
 
-Entities receiving grants under this section shall use amounts provided to develop collaborative responses and services and provide cross-training to enhance community responses to families where there is both child maltreatment and domestic violence or dating violence. Amounts distributed under this section may only be used for programs and activities described in subsection (g) of this section.
+Entities receiving grants under this section shall use amounts provided to develop collaborative responses and services and provide cross-training to enhance community responses tofamilies where there is both child maltreatment and domestic violence or dating violence. Amounts distributed under this section may only be used for programs and activities described in subsection (g) of this section.
 
 #### (g) Programs and activities
 

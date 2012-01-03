@@ -2,7 +2,7 @@
 
 #### (a) Definition of eligible participant
 
-In this section, the term “eligible participant” means a producer, landowner, or entity that is participating in, or seeking to participate in, programs for which the producer, landowner, or entity is otherwise eligible to participate in under this chapter or the agricultural management assistance program under section 1524 of title 7.
+In this section, the term “eligible participant” means a producer, landowner, or entity that isparticipating in, or seeking to participate in, programs for which the producer, landowner, or entity is otherwise eligible to participate in under this chapter or the agricultural management assistance program under section 1524 of title 7.
 
 #### (b) Purpose of technical assistance
 

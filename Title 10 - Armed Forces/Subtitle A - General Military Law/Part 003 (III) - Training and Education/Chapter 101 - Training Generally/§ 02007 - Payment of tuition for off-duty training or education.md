@@ -20,7 +20,7 @@
 
 (4) The Secretary concerned may not pay charges under paragraph (2) for tuition or expenses of an officer of the Individual Ready Reserve unless the officer enters into an agreement to remain in the Selected Reserve or Individual Ready Reserve for at least 4 years after completion of the education or training for which the charges are paid.
 
-(5) The Secretary of a military department may require an enlisted member of the SelectedReserve or Individual Ready Reserve to enter into an agreement to serve for up to 4 years in the Selected Reserve or Individual Ready Reserve, as the case may be, after completion of the education or training for which tuition or expenses are paid under paragraph (1) or (2), as applicable.
+(5) The Secretary of a military department may require an enlisted member of the Selected Reserve or Individual Ready Reserve to enter into an agreement to serve for up to 4 years in the Selected Reserve or Individual Ready Reserve, as the case may be, after completion of the education or training for which tuition or expenses are paid under paragraph (1) or (2), as applicable.
 
 (d)(1) A member of the armed forces who is entitled to basic educational assistance under chapter 30 of title 38 may use such entitlement for purposes of paying any portion of the charges described in subsection (a) or (c) that are not paid for by the Secretary of the military department concerned under such subsection.
 

@@ -22,7 +22,7 @@ No owner or employee of any entity that serves as a medium in which an advertise
 
 #### (1) In general
 
-&emsp;An advertisement by radio broadcast to aid, promote, or assist, directly or indirectly, any consumer lease shall be deemed to be in compliance with the requirements of subsection (a) of this section if such advertisement clearly and conspicuously—
+&emsp;An advertisement by radio broadcast to aid, promote, or assist, directly or indirectly, any consumer lease shall be deemed to be in compliance with the requirements of subsection\(a) of this section if such advertisement clearly and conspicuously—
 
 &emsp;&emsp;(A) states the information required by paragraphs (1) and (2) of subsection (a) of this section;
 
@@ -42,7 +42,7 @@ No owner or employee of any entity that serves as a medium in which an advertise
 
 &emsp;&emsp;&emsp;(ii) the name and dates of any publication referred to in clause (i)(II); and
 
-&emsp;&emsp;(D) includes any other information which the Board determines necessary to carry out this part.
+&emsp;&emsp;(D) includes any other information which the Bureau determines necessary to carry out this part.
 
 #### (2) Establishment of toll-free number
 
@@ -50,7 +50,7 @@ No owner or employee of any entity that serves as a medium in which an advertise
 
 &emsp;&emsp;In the case of a radio broadcast advertisement described in paragraph (1) that includes a referral to a toll-free telephone number, the lessor who offers the consumer lease shall—
 
-&emsp;&emsp;&emsp;(i) establish such a toll-free telephone number not later than the date on whichthe advertisement including the referral is broadcast;
+&emsp;&emsp;&emsp;(i) establish such a toll-free telephone number not later than the date on which the advertisement including the referral is broadcast;
 
 &emsp;&emsp;&emsp;(ii) maintain such telephone number for a period of not less than 10 days, beginning on the date of any such broadcast; and
 
@@ -66,17 +66,9 @@ No owner or employee of any entity that serves as a medium in which an advertise
 
 (Pub. L. 90–321, title I, §184, as added Pub. L. 94–240, §3, Mar. 23, 1976, 90 Stat. 259; amended Pub. L. 103–325, title III, §336(a), Sept. 23, 1994, 108 Stat. 2234; Pub. L. 104–208, div. A, title II, §2605(c), Sept. 30, 1996, 110 Stat. 3009–473; Pub. L. 111–203, title X, §1100A(2), (10)(A), July 21, 2010, 124 Stat. 2107, 2109.)
 
-#### Amendment of Section
-
-<i>Pub. L. 111–203, title X, §§1100A(2), (10)(B), 1100H, July 21, 2010, 124 Stat. 2107, 2109, 2113, provided that, effective on the designated transfer date, this section is amended as follows:</i>
-
-<i>(1) by striking “Board” each place that term appears and inserting “Bureau”; and</i>
-
-<i>(2) by striking “The Board” each place that term appears and inserting “The Bureau”.</i>
-
-<i>See Effective Date of 2010 Amendment note below.</i>
-
 #### Amendments
+
+<b>2010</b>—Subsec. (c)(1)(D). Pub. L. 111–203, §1100A(2), (10)(A), made similar amendments, resulting in the substitution of “the Bureau” for “the Board”.
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–208, §2605(c)(1), (3), added subsec. (a) and struck out former subsec. (a) consisting of introductory provisions and 5 pars. relating to contents of lease agreements required if consumer lease advertisement stated amount of payment, number of required payments, or that any or no payments were required at lease inception.
 

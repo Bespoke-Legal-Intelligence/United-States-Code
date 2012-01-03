@@ -150,8 +150,6 @@ The automated system required by this section shall be used, to the maximum exte
 
 The Internal Revenue Code of 1986, referred to in subsecs. (d)(4) and (f), is classified generally to Title 26, Internal Revenue Code.
 
-Part A of this subchapter, referred to in subsec. (f)(3), (5), is classified to section 601 et seq. of this title.
-
 #### Amendments
 
 <b>1999</b>—Subsec. (f)(5). Pub. L. 106–113 added par. (5).

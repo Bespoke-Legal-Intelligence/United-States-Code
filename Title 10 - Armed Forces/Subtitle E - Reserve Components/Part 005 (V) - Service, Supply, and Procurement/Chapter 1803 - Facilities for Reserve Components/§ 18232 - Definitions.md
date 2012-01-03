@@ -4,7 +4,7 @@ In this chapter:
 
 &emsp;(1) The term “State” means any of the States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and each territory and possession of the United States and includes political subdivisions and military units thereof and tax-supported agencies therein.
 
-&emsp;(2) The term “facility” includes any (A) interest in land, (B) armory, readiness center, orother structure, and (C) storage or other facility normally needed for the administration and training of any unit of the reserve components of the armed forces.
+&emsp;(2) The term “facility” includes any (A) interest in land, (B) armory, readiness center, or other structure, and (C) storage or other facility normally needed for the administration and training of any unit of the reserve components of the armed forces.
 
 &emsp;(3) The terms “armory” and “readiness center” mean a structure that houses one or more units of a reserve component and is used for training and administering those units. Such terms include a structure that is appurtenant to such a structure and houses equipment used for that training and administration.
 
@@ -54,7 +54,7 @@ Par. (3). Pub. L. 106–398, §1 \[div. B, title XXVIII, §2807(a)\], substitute
 
 <b>1994</b>—Pub. L. 103–337 renumbered section 2232 of this title as this section.
 
-<b>1987</b>—Pub. L. 100–26 inserted “The term” after each par. designation and struck out uppercase letter of first word after first quotation marks in pars. (2) and (3) and substituted lowercase letter.
+<b>1987</b>—Pub. L. 100–26 inserted “The term” after each par. designation and struck out uppercase letter of firstword after first quotation marks in pars. (2) and (3) and substituted lowercase letter.
 
 <b>1982</b>—Cl. (1). Pub. L. 97–214 substituted provision defining “State” as any State of the United States, the District of Columbia, Puerto Rico, and each territory and possession of the United States including political subdivisions and military units thereof and tax-supported agencies therein for provision defining “State” and “Territory” as including political subdivisions and military units thereof and tax-supported agencies therein.
 

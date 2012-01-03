@@ -90,5 +90,5 @@ Section 1482(d) of Pub. L. 101–510 provided that: “The amendments made by th
 
 #### Initial Reports on Special Access Programs
 
-Pub. L. 100–180, div. A, title XI, §1132(b), (c), Dec. 4, 1987, 101 Stat. 1152, required that the first report under subsec. (a) of this section set forth the amount that had been requested in the President's budget for each of the five previous fiscal years for special access programs of the Department of Defense and the amount appropriated for each such year for such programs, and required that the first report under subsec. (b) of this section cover existing special access programs.
+Pub. L. 100–180, div. A, title XI, §1132(b), (c), Dec. 4, 1987, 101 Stat. 1152, required that the first report undersubsec. (a) of this section set forth the amount that had been requested in the President's budget for each of the five previous fiscal years for special access programs of the Department of Defense and the amount appropriated for each such year for such programs, and required that the first report under subsec. (b) of this section cover existing special access programs.
 

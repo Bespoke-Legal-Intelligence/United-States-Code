@@ -18,7 +18,7 @@ In general.—The Secretary, in consultation with the Secretary of the Interior,
 
 &emsp;&emsp;&emsp;(i) ensuring access to all, including persons with disabilities;
 
-&emsp;&emsp;&emsp;(ii) improving conservation and park and public land opportunities in urban areasthrough partnering with State and local governments; and
+&emsp;&emsp;&emsp;(ii) improving conservation and park and public land opportunities in urban areas through partnering with State and local governments; and
 
 &emsp;&emsp;&emsp;(iii) improving park and public land transportation infrastructure.
 
@@ -120,7 +120,7 @@ In general.—The Secretary, in consultation with the Secretary of the Interior,
 
 &emsp;(2)
 
-Additional amounts.—Amounts made available under this subsection are in additionto amounts otherwise available to the Secretary to carry out planning, research, and technical assistance under this chapter or any other provision of law.
+Additional amounts.—Amounts made available under this subsection are in addition to amounts otherwise available to the Secretary to carry out planning, research, and technical assistance under this chapter or any other provision of law.
 
 &emsp;(3)
 
@@ -172,7 +172,7 @@ Considerations.—In establishing the Government's share of the net project cost
 
 &emsp;&emsp;(B) the extent to which the qualified participant coordinates with a public transportation authority or private entity engaged in public transportation;
 
-&emsp;&emsp;(C) private investment in the qualified project, including the provision of contract services, joint development activities, and the use of innovative financing mechanisms;
+&emsp;&emsp;(C) private investment in the qualified project, including the provision of contractservices, joint development activities, and the use of innovative financing mechanisms;
 
 &emsp;&emsp;(D) the clear and direct benefit to the qualified participant; and
 

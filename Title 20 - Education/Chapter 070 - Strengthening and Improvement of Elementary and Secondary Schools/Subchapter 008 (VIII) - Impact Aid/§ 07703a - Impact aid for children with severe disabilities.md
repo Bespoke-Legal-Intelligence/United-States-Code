@@ -28,7 +28,7 @@ No payment shall be made under subsection (a) of this section on behalf of a chi
 
 #### (d) Ratable reduction
 
-If the amount available for a fiscal year for payments under subsection (a) of this section isinsufficient to pay the full amount all local educational agencies are eligible to receive under such subsection, the Secretary of Defense shall ratably reduce the amounts of the payments made under such subsection to all local educational agencies by an equal percentage.
+If the amount available for a fiscal year for payments under subsection (a) of this section is insufficient to pay the full amount all local educational agencies are eligible to receive under such subsection, the Secretary of Defense shall ratably reduce the amounts of the payments made under such subsection to all local educational agencies by an equal percentage.
 
 #### (e) Report
 

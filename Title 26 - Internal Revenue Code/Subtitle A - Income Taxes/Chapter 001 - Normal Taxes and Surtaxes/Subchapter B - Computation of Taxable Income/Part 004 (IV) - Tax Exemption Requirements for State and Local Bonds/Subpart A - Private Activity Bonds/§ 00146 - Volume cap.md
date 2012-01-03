@@ -418,7 +418,7 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
 Amendment by section 1013(a)(9), (10), (28), (40) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Amendment by section 6180(b)(3) of Pub. L. 100–647 applicable to bonds issued after Nov. 10, 1988, see section6180(c) of Pub. L. 100–647, set out as a note under section 142 of this title.
+Amendment by section 6180(b)(3) of Pub. L. 100–647 applicable to bonds issued after Nov. 10, 1988, see section 6180(c) of Pub. L. 100–647, set out as a note under section 142 of this title.
 
 #### Effective Date of 1987 Amendment
 

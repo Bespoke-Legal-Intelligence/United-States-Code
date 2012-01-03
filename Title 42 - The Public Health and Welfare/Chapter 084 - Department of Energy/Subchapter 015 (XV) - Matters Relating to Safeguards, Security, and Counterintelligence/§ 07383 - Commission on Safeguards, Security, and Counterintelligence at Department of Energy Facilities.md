@@ -46,7 +46,7 @@ There is hereby established a commission to be known as the Commission on Safegu
 
 #### (c) Duties
 
-(1) The Commission shall, in accordance with this section, review the safeguards, security, and counterintelligence activities (including activities relating to information management, computer security, and personnel security) at Department of Energy facilities to—
+(1) The Commission shall, in accordance with this section, review the safeguards, security,and counterintelligence activities (including activities relating to information management, computer security, and personnel security) at Department of Energy facilities to—
 
 &emsp;(A) determine the adequacy of those activities to ensure the security of sensitive information, processes, and activities under the jurisdiction of the Department against threats to the disclosure of such information, processes, and activities; and
 
@@ -106,7 +106,7 @@ The provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall not a
 
 #### References in Text
 
-The Federal Advisory Committee Act, referred to in subsec. (f), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770,which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (f), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 Sections 3101 and 3103, referred to in subsec. (g), are sections 3101 and 3103 of Pub. L. 106–65, div. C, title XXXI, Oct. 5, 1999, 113 Stat. 915, 919, which are not classified to the Code.
 
@@ -116,7 +116,7 @@ Section is comprised of section 3142 of Pub. L. 106–65. Subsec. (h)(1) of sect
 
 #### Change of Name
 
-Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in theDirector's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
 
 #### Short Title
 

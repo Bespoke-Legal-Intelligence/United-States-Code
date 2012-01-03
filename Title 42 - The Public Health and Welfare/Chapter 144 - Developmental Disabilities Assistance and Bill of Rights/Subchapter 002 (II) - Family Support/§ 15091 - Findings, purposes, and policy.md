@@ -12,7 +12,7 @@ Congress makes the following findings:
 
 &emsp;(4) Medical advances and improved health care have increased the life span of many people with disabilities, and the combination of the longer life spans and the aging of family caregivers places a continually increasing demand on the finite service delivery systems of the States.
 
-&emsp;(5) In 1996, 49 States provided family support initiatives in response to the needs of families of children with disabilities. Such initiatives included the provision of cash subsidies, respite care, and other forms of support. There is a need in each State, however, to strengthen, expand, and coordinate the activities of a system of family support services for families of children with disabilities that is easily accessible, avoids duplication, uses resources efficiently, and prevents gaps in services to families in all areas of the State.
+&emsp;(5) In 1996, 49 States provided family support initiatives in response to the needs of families of children with disabilities. Such initiatives included the provision of cash subsidies, respite care, and other forms of support. There is a need in each State, however, to strengthen,expand, and coordinate the activities of a system of family support services for families of children with disabilities that is easily accessible, avoids duplication, uses resources efficiently, and prevents gaps in services to families in all areas of the State.
 
 &emsp;(6) The goals of the Nation properly include the goal of providing to families of children with disabilities the family support services necessary—
 

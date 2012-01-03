@@ -4,5 +4,5 @@ Section, acts Aug. 10, 1956, ch. 1041, 70A Stat. 127; Dec. 1, 1981, Pub. L. 97�
 
 #### Effective Date of Repeal
 
-For effective date and applicability of repeal, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under section 2302 of this title 41.
+For effective date and applicability of repeal, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under section 2302 of this title.
 

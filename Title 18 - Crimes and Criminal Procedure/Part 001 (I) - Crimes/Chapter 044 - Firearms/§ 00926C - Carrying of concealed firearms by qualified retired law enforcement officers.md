@@ -56,7 +56,7 @@
 
 &emsp;&emsp;&emsp;(iii) any destructive device (as defined in section 921 of this title); and
 
-&emsp;(2) the term “service with a public agency as a law enforcement officer” includes service as a law enforcement officer of the Amtrak Police Department, service as a law enforcement officer of the Federal Reserve, or service as a law enforcement or police officer of the executive branch of the Federal Government.
+&emsp;(2) the term “service with a public agency as a law enforcement officer” includes service asa law enforcement officer of the Amtrak Police Department, service as a law enforcement officer of the Federal Reserve, or service as a law enforcement or police officer of the executive branch of the Federal Government.
 
 (Added Pub. L. 108–277, §3(a), July 22, 2004, 118 Stat. 866; amended Pub. L. 111–272, §2(c), Oct. 12, 2010, 124 Stat. 2855.)
 

@@ -10,7 +10,7 @@ Appropriations made under this authorization, within the limit prescribed in suc
 
 #### Amendments
 
-1944—Act Sept. 21, 1944, added last par.
+<b>1944</b>—Act Sept. 21, 1944, added last par.
 
 #### Effective Date
 

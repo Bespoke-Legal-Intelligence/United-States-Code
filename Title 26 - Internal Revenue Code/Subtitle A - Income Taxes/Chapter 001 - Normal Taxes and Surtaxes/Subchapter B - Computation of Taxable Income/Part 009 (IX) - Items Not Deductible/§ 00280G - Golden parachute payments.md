@@ -30,7 +30,7 @@ For purposes of this section—
 
 #### (B) Agreements
 
-&emsp;&emsp;The term “parachute payment” shall also include any payment in the nature of compensation to (or for the benefit of) a disqualified individual if such payment is made pursuant to an agreement which violates any generally enforced securities laws or regulations. In any proceeding involving the issue of whether any payment made to a disqualified individual is a parachute payment on account of a violation of any generally enforced securities laws or regulations, the burden of proof with respect to establishing the occurrence of a violation of such a law or regulation shall be upon the Secretary.
+&emsp;&emsp;The term “parachute payment” shall also include any payment in the nature of compensation to (or for the benefit of) a disqualified individual if such payment is made pursuant to an agreement which violates any generally enforced securities laws orregulations. In any proceeding involving the issue of whether any payment made to a disqualified individual is a parachute payment on account of a violation of any generally enforced securities laws or regulations, the burden of proof with respect to establishing the occurrence of a violation of such a law or regulation shall be upon the Secretary.
 
 #### (C) Treatment of certain agreements entered into within 1 year before change of ownership
 
@@ -190,7 +190,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) to apply this section and section 4999 in cases where one or more payments with respect to any individual are treated as parachute payments by reason of this subsection, and other payments with respect to such individual are treated as parachute payments under this section without regard to this subsection, and
 
-&emsp;&emsp;&emsp;&emsp;(III) to prevent the avoidance of the application of this section through the mischaracterization of a severance from employment as other than an applicable severance from employment.
+&emsp;&emsp;&emsp;&emsp;(III) to prevent the avoidance of the application of this section through themischaracterization of a severance from employment as other than an applicable severance from employment.
 
 #### (f) Regulations
 

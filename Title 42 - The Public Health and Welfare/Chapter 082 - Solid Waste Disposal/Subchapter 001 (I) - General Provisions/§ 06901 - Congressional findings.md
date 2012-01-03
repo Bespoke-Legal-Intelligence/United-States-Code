@@ -100,7 +100,7 @@ Section 1 of Pub. L. 98–616 provided that: “This Act \[enacting sections 691
 
 Pub. L. 96–482, §1, Oct. 21, 1980, 94 Stat. 2334, provided: “This Act \[enacting sections 6933, 6934, 6941a, 6955, and 6956 of this title, amending sections 6903, 6905, 6911, 6912, 6916, 6921, 6922, 6924, 6925, 6927 to 6931, 6941 to 6943, 6945, 6946, 6948, 6949, 6952, 6953, 6962, 6963, 6964, 6971, 6973, 6974, 6976, 6979, and 6982 of this title; and enacting and repealing provisions set out as a note under section 6981 of this title\] may be cited as the ‘Solid Waste Disposal Act Amendments of 1980’.”
 
-Pub. L. 96–463, §1, Oct. 15, 1980, 94 Stat. 2055, provided: “This Act \[enacting sections 6901a, 6914a and 6932 of this title, amending sections 6903, 6943 and 6948 of this title, and enacting provisions set out as notes under sections 6363 and 6932 of this title\] may be cited as the ‘Used Oil Recycling Act of 1980’.”
+Pub. L. 96–463, §1, Oct. 15, 1980, 94 Stat. 2055, provided: “This Act \[enacting sections 6901a, 6914a and 6932 of this title, amending sections 6903, 6943 and 6948 of this title, and enacting provisions set out as notes undersections 6363 and 6932 of this title\] may be cited as the ‘Used Oil Recycling Act of 1980’.”
 
 #### Short Title of 1976 Amendment
 
@@ -116,5 +116,5 @@ For provisions relating to the responsibility of the head of each Executive agen
 
 #### National Commission on Materials Policy
 
-Pub. L. 91–512, title II, §§201–206, Oct. 26, 1970, 84 Stat. 1234, known as the “National Materials Policy Act of 1970”, provided for the establishment of the National Commission on Materials Policy to make a full investigation and study for the purpose of developing a national materials policy to utilize present resources and technology more efficiently and to anticipate the future materials requirements of the Nation and the world, the Commission to submit to the President andCongress a report on its findings and recommendations no later than June 30, 1973, ninety days after the submission of which it should cease to exist.
+Pub. L. 91–512, title II, §§201–206, Oct. 26, 1970, 84 Stat. 1234, known as the “National Materials Policy Act of 1970”, provided for the establishment of the National Commission on Materials Policy to make a full investigation and study for the purpose of developing a national materials policy to utilize present resources and technology more efficiently and to anticipate the future materials requirements of the Nation and the world, the Commission to submit to the President and Congress a report on its findings and recommendations no later than June 30, 1973, ninety days after the submission of which it should cease to exist.
 

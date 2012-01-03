@@ -34,7 +34,7 @@ Subsec. (b)(4). Pub. L. 92–549, §107(b), added cl. (4).
 
 Section 195(a), (b), (d) of Pub. L. 98–573 provided that:
 
-“(a) Except as provided in section 126 and in subsections (b) and (c), the amendments made by subtitles B, C, and D \[amending this section and sections 1202 and 1504 of this title\] shall apply with respect to articles entered on or after the 15th day after the date of the enactment of this Act \[Oct. 30, 1984\].
+“(a) Except as provided in section 126 and in subsections (b) and (c), the amendments made by subtitlesB, C, and D \[amending this section and sections 1202 and 1504 of this title\] shall apply with respect to articles entered on or after the 15th day after the date of the enactment of this Act \[Oct. 30, 1984\].
 
 “(b)(1) The amendment made by sections 117 and 124 \[amending this section\] shall apply with respect to articles entered on or after January 1, 1985.
 

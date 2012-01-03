@@ -6,7 +6,7 @@ The President is authorized to consult with representatives of small-business co
 
 #### (b) Exemption from certain laws; findings and requests; filing and publication
 
-No act or omission to act pursuant to this chapter which occurs while this chapter is in effect, if requested by the President pursuant to a voluntary agreement or program approved under subsection (a) of this section and found by the President to be in the public interest as contributing to the national defense, shall be construed to be within the prohibitions of the antitrust laws or the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\] of the United States. A copy of each such request intended to be within the coverage of this section, and any modification or withdrawal thereof, shall be furnished to the Attorney General and the Chairman of the Federal Trade Commission when made, and it shall be published in the Federal Register unless publication thereof would, in the opinion of the President, endanger the national security.
+No act or omission to act pursuant to this chapter which occurs while this chapter is in effect, if requested by the President pursuant to a voluntary agreement or program approved under subsection (a) of this section and found by thePresident to be in the public interest as contributing to the national defense, shall be construed to be within the prohibitions of the antitrust laws or the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\] of the United States. A copy of each such request intended to be within the coverage of this section, and any modification or withdrawal thereof, shall be furnished to the Attorney General and the Chairman of the Federal Trade Commission when made, and it shall be published in the Federal Register unless publication thereof would, in the opinion of the President, endanger the national security.
 
 #### (c) Delegation of authority; consultation; approval of requests
 
@@ -24,7 +24,7 @@ The Federal Trade Commission Act, referred to in subsec. (b), is act Sept. 26, 1
 
 #### Prior Provisions
 
-Prior similar provisions were contained in section 217 of act July 30, 1953, ch. 282, title II, 67 Stat. 239, whichwas previously classified to section 646 of this title. The provisions of section 211 of act July 30, 1953, formerly classified to this section, were transferred to section 2\[10\] of Pub. L. 85–536, and are classified to section 639(d), (f) of this title. See Codification note set out under section 631 of this title.
+Prior similar provisions were contained in section 217 of act July 30, 1953, ch. 282, title II, 67 Stat. 239, which was previously classified to section 646 of this title. The provisions of section 211 of act July 30, 1953, formerly classified to this section, were transferred to section 2\[10\] of Pub. L. 85–536, and are classified to section 639(d), (f) of this title. See Codification note set out under section 631 of this title.
 
 #### Ex. Ord. No. 10493. Delegation of Functions
 

@@ -16,13 +16,13 @@ Notwithstanding any other provision of law, no person shall use for the purposes
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–472 struck out “but at least annually and” before “under such regulations” in first sentence.
+<b>2000</b>—Subsec. (a). Pub. L. 106–472 struck out “but at least annually and” before “under such regulations” in first sentence.
 
-1994—Pub. L. 103–354 substituted “Secretary” for “Administrator” and “Service” wherever appearing.
+<b>1994</b>—Pub. L. 103–354 substituted “Secretary” for “Administrator” and “Service” wherever appearing.
 
-1993—Subsec. (a). Pub. L. 103–156, which directed amendment of “Section 7B(a)” by substituting “as the Administrator deems necessary” for “as he deems necessary”, without specifying the name of the Act being amended, was executed to this section, which is section 7B of the United States Grain Standards Act, to reflect the probable intent of Congress.
+<b>1993</b>—Subsec. (a). Pub. L. 103–156, which directed amendment of “Section 7B(a)” by substituting “as the Administrator deems necessary” for “as he deems necessary”, without specifying the name of the Act being amended, was executed to this section, which is section 7B of the United States Grain Standards Act, to reflect the probable intent of Congress.
 
-1977—Subsec. (a). Pub. L. 95–113, §1604(f)(1), (2), substituted “and weighing for the purpose of official inspection, official weighing, or supervision of weighing of grain located at all grain elevators” for “and weighing of grain located at all grain elevators” and inserted provisions that regulations provide for the charging and collection of reasonable fees to cover the estimated costs to the Service incident to the performance of testing by employees of the Service and that the fees be deposited into the fund created by section 79(j) of this title.
+<b>1977</b>—Subsec. (a). Pub. L. 95–113, §1604(f)(1), (2), substituted “and weighing for the purpose of official inspection, official weighing, or supervision of weighing of grain located at all grain elevators” for “and weighing of grain located at all grain elevators” and inserted provisions that regulations provide for the charging and collection of reasonable fees to cover the estimated costs to the Service incident to the performance of testing by employees of the Service and that the fees bedeposited into the fund created by section 79(j) of this title.
 
 Subsec. (c). Pub. L. 95–113, §1604(f)(3), substituted “shall use for the purposes of this chapter” for “shall use”.
 

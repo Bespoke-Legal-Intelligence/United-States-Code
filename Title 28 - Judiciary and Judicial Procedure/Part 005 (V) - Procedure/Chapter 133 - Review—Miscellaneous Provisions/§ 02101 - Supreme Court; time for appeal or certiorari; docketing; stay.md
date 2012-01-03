@@ -14,7 +14,7 @@
 
 (g) The time for application for a writ of certiorari to review a decision of the United States Court of Appeals for the Armed Forces shall be as prescribed by rules of the Supreme Court.
 
-(June 25, 1948, ch. 646, 62 Stat. 961; May 24, 1949, ch. 139, §106, 63 Stat. 104; Pub. L. 98–209, §10(b), Dec. 6, 1983, 97 Stat. 1406; Pub. L. 100–352, §5(b),June 27, 1988, 102 Stat. 663; Pub. L. 103–337, div. A, title IX, §924(d)(1)(C), Oct. 5, 1994, 108 Stat. 2832.)
+(June 25, 1948, ch. 646, 62 Stat. 961; May 24, 1949, ch. 139, §106, 63 Stat. 104; Pub. L. 98–209, §10(b), Dec. 6, 1983, 97 Stat. 1406; Pub. L. 100–352, §5(b), June 27, 1988, 102 Stat. 663; Pub. L. 103–337, div. A, title IX, §924(d)(1)(C), Oct. 5, 1994, 108 Stat. 2832.)
 
 #### Historical and Revision Notes
 

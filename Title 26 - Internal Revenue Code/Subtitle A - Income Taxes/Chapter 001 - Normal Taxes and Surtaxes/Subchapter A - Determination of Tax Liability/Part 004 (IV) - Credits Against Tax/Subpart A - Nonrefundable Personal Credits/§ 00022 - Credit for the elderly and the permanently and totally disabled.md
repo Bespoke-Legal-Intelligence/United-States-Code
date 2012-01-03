@@ -42,7 +42,7 @@ For purposes of subsection (a)—
 
 &emsp;&emsp;&emsp;In the case of a joint return where both spouses are qualified individuals and at least one spouse has not attained age 65 before the close of the taxable year—
 
-&emsp;&emsp;&emsp;&emsp;(I) if both spouses have not attained age 65 before the close of the taxable year, the initial amount shall not exceed the sum of such spouses’ disability income, or
+&emsp;&emsp;&emsp;&emsp;(I) if both spouses have not attained age 65 before the close of the taxable year, the initial amount shall not exceedthe sum of such spouses’ disability income, or
 
 &emsp;&emsp;&emsp;&emsp;(II) if one spouse has attained age 65 before the close of the taxable year, the initial amount shall not exceed the sum of $5,000 plus the disability income for the taxable year of the spouse who has not attained age 65 before the close of the taxable year.
 
@@ -124,7 +124,7 @@ Subsec. (c). Pub. L. 98–369, §474(d)(2), substituted “Section 22 amount” 
 
 Subsec. (c)(1). Pub. L. 98–369, §474(d)(1), substituted “section 22 amount” for “section 37 amount”.
 
-Subsec. (d). Pub. L. 98–369, §474(d)(3), amended subsec. (d) generally, striking out heading “Limitations” and designation “(1)” before “Adjusted gross income limitation” thereby making existing par. (1) the entire subsec. (d), redesignating existing subpars. (A), (B), and (C) as pars. (1), (2), and (3), respectively, and striking out provisions, formerly comprising par. (2), which had limited the amount of the credit allowed by this section for the taxable year to the amount of the tax imposed by this chapter for such taxable year.
+Subsec. (d). Pub. L. 98–369, §474(d)(3), amended subsec. (d) generally, striking out heading “Limitations” anddesignation “(1)” before “Adjusted gross income limitation” thereby making existing par. (1) the entire subsec. (d), redesignating existing subpars. (A), (B), and (C) as pars. (1), (2), and (3), respectively, and striking out provisions, formerly comprising par. (2), which had limited the amount of the credit allowed by this section for the taxable year to the amount of the tax imposed by this chapter for such taxable year.
 
 <b>1983</b>—Pub. L. 98–21 inserted reference to permanently and totally disabled in section catchline.
 
@@ -212,7 +212,7 @@ Amendment by Pub. L. 93–406 effective Jan. 1, 1974, see section 2002(i)(2) of 
 
 Amendment by section 113(a) of Pub. L. 88–272, except for purposes of section 21 \[now 15\] of this title, effective with respect to taxable years beginning after Dec. 31, 1963, see section 131 of Pub. L. 88–272, set out as a note under section 1 of this title.
 
-Section 201(e) of Pub. L. 88–272 provided that: “The amendments made by subsection (a) \[amending section 34 of this title\] shall apply with respect to taxable years ending after December 31, 1963. The amendment made by subsection (b) \[repealing section 34 of this title\] shall apply with respect to taxable years ending after December 31, 1964. The amendment made by subsection (c) \[amending section 116 of this title\] shall apply with respect to taxable years beginning after December 31, 1963. The amendments made by subsection (d) \[amending sections 35, 37 \[now 22\], 46, 116, 584, 642, 702, 854, 857, 871, 1375, and 6014 of this title\] shall applywith respect to dividends received after December 31, 1964, in taxable years ending after such date”.
+Section 201(e) of Pub. L. 88–272 provided that: “The amendments made by subsection (a) \[amending section 34 of this title\] shall apply with respect to taxable years ending after December 31, 1963. The amendment made by subsection (b) \[repealing section 34 of this title\] shall apply with respect to taxable years ending after December 31, 1964. The amendment made by subsection (c) \[amending section 116 of this title\] shall apply with respect to taxable years beginning after December 31, 1963. The amendments made by subsection (d) \[amending sections 35, 37 \[now 22\], 46, 116, 584, 642, 702, 854, 857, 871, 1375, and 6014 of this title\] shall apply with respect to dividends received after December 31, 1964, in taxable years ending after such date”.
 
 Section 202(b) of Pub. L. 88–272 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1963.”
 

@@ -28,11 +28,11 @@
 
 (2) Each report under this subsection shall be submitted in unclassified form.
 
-(Pub. L. 95–511, title V, §502, as added Pub. L. 107–56, title II, §215, Oct. 26, 2001, 115 Stat. 288; amended Pub. L. 107–108, title III, §314(a)(7), Dec. 28, 2001, 115 Stat. 1402; Pub. L. 109–177, title I, §§102(b)(1), 106(h), Mar. 9, 2006, 120 Stat. 195, 199; Pub. L. 111–118, div. B, §1004(a), Dec. 19, 2009, 123 Stat. 3470; Pub. L. 111–141, §1(a), Feb. 27, 2010, 124 Stat. 37; Pub. L. 111–259, title VIII, §801(6), Oct. 7, 2010, 124 Stat. 2746.)
+(Pub. L. 95–511, title V, §502, as added Pub. L. 107–56, title II, §215, Oct. 26, 2001, 115 Stat. 288; amended Pub. L. 107–108, title III, §314(a)(7), Dec. 28, 2001, 115 Stat. 1402; Pub. L. 109–177, title I, §§102(b)(1), 106(h), Mar. 9, 2006, 120 Stat. 195, 199; Pub. L. 111–118, div. B, §1004(a), Dec. 19, 2009, 123 Stat. 3470; Pub. L. 111–141, §1(a), Feb. 27, 2010, 124 Stat. 37; Pub. L. 111–259, title VIII, §801(6), Oct. 7, 2010, 124 Stat. 2746; Pub. L. 112–3, §2(a), Feb. 25, 2011, 125 Stat. 5; Pub. L. 112–14, §2(a), May 26, 2011, 125 Stat. 216.)
 
 #### Amendment of Section
 
-<i>Pub. L. 109–177, title I, §102(b), Mar. 9, 2006, 120 Stat. 195, as amended by Pub. L. 111–118, div. B, §1004(a), Dec. 19, 2009, 123 Stat. 3470; Pub. L. 111–141, §1(a), Feb. 27, 2010, 124 Stat. 37, provided that, effective Feb. 28, 2011, with certain exceptions, this section is amended to read as it read on Oct. 25, 2001:</i>
+<i>Pub. L. 109–177, title I, §102(b), Mar. 9, 2006, 120 Stat. 195, as amended by Pub. L. 111–118, div. B, §1004(a), Dec. 19, 2009, 123 Stat. 3470; Pub. L. 111–141, §1(a), Feb. 27, 2010, 124 Stat. 37; Pub. L. 112–3, §2(a), Feb. 25, 2011, 125 Stat. 5; Pub. L. 112–14, §2(a), May 26, 2011, 125 Stat. 216, provided that, effective June 1, 2015, with certain exceptions, this section is amended to read as it read on Oct. 25, 2001:</i>
 
 #### §1862. Access to certain business records for foreign intelligence and international terrorism investigations
 
@@ -68,15 +68,27 @@
 
 <i>(2) No common carrier, public accommodation facility, physical storage facility, or vehicle rental facility, or officer, employee, or agent thereof, shall disclose to any person (other than those officers, agents, or employees of such common carrier, public accommodation facility, physical storage facility, or vehicle rental facility necessary to fulfill the requirement to disclose information to the Federal Bureau of Investigation under this section) that the Federal Bureau of Investigation has sought or obtained records pursuant to an order under this section.</i>
 
+<i>See 2006, 2009, 2010, and 2011 Amendment notes below.</i>
+
 #### Prior Provisions
 
-A prior section 1862, Pub. L. 95–511, title V, §502, as added Pub. L. 105–272, title VI, §602, Oct. 20, 1998, 112 Stat. 2411, related to access to certain business records for foreign intelligence and international terrorism investigations, prior to repeal by Pub. L. 107–56, title II, §215, Oct. 26, 2001, 115 Stat. 287. See section 1861 of this title and see Amendment of Section note above.
+A prior section 1862, Pub. L. 95–511, title V, §502, as added Pub. L. 105–272, title VI, §602, Oct. 20, 1998, 112 Stat. 2411, which related to access to certain business records for foreign intelligence and international terrorism investigations, was repealed by Pub. L. 107–56, title II, §215, Oct. 26, 2001, 115 Stat. 287. See section 1861 of this title and see Amendment of Section note above.
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–259 substituted “an annual” for “a annual”.
+<b>2011</b>—Pub. L. 112–14 amended directory language of Pub. L. 109–177, §102(b)(1). See 2006 Amendment note below.
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–177, §106(h)(1), substituted “annual basis” for “semiannual basis” and inserted “and the Committee on the Judiciary” after “and the Select Committee on Intelligence”.
+Pub. L. 112–3 amended directory language of Pub. L. 109–177, §102(b)(1). See 2006 Amendment note below.
+
+<b>2010</b>—Pub. L. 111–141 amended directory language of Pub. L. 109–177, §102(b)(1). See 2006 Amendment note below.
+
+Subsec. (a). Pub. L. 111–259 substituted “an annual” for “a annual”.
+
+<b>2009</b>—Pub. L. 111–118 amended directory language of Pub. L. 109–177, §102(b)(1). See 2006 Amendment note below.
+
+<b>2006</b>—Pub. L. 109–177, §102(b)(1), as amended by Pub. L. 111–118, Pub. L. 111–141, Pub. L. 112–3, and Pub. L. 112–14, amended section effective June 1, 2015, so as to read as it read on Oct. 25, 2001. Prior to amendment, section related to reports to Congressional committees concerning requests for the production of tangible things under section 1861 of this title.
+
+Subsec. (a). Pub. L. 109–177, §106(h)(1), substituted “annual basis” for “semiannual basis” and inserted “and the Committee on the Judiciary” after “and the Select Committee on Intelligence”.
 
 Subsec. (b). Pub. L. 109–177, §106(h)(2)(A), in introductory provisions, substituted “In April of each year, the Attorney General shall submit to the House and Senate Committees on the Judiciary and the House Permanent Select Committee on Intelligence and the Senate Select Committee on Intelligence a report setting forth with respect to the preceding calendar year” for “On a semiannual basis, the Attorney General shall provide to the Committees on the Judiciary of the House of Representatives and the Senate a report setting forth with respect to the preceding 6-month period”.
 
@@ -88,5 +100,5 @@ Subsec. (c). Pub. L. 109–177, §106(h)(3), added subsec. (c).
 
 #### Effective Date of 2006 Amendment
 
-Amendment by section 102(b)(1) of Pub. L. 109–177 effective Feb. 28, 2011, except that former provisions to continue in effect with respect to any particular foreign intelligence investigation that began before Feb. 28, 2011, or with respect to any particular offense or potential offense that began or occurred before Feb. 28, 2011, see section 102(b) of Pub. L. 109–177, set out as a note under section 1805 of this title.
+Amendment by section 102(b)(1) of Pub. L. 109–177 effective June 1, 2015, except that former provisions to continue in effect with respect to any particular foreign intelligence investigation that began before June 1, 2015, or with respect to any particular offense or potential offense that began or occurred before June 1, 2015, see section 102(b) of Pub. L. 109–177, set out as a note under section 1805 of this title.
 

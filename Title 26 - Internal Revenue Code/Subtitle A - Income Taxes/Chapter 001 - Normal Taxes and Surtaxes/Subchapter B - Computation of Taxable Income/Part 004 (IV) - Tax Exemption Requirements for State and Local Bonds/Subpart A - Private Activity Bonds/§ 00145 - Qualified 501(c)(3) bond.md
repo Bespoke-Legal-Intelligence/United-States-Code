@@ -4,7 +4,7 @@
 
 For purposes of this part, except as otherwise provided in this section, the term “qualified 501(c)(3) bond” means any private activity bond issued as part of an issue if—
 
-&emsp;(1) all property which is to be provided by the net proceeds of the issue is to be owned by a 501(c)(3) organization or a governmental unit, and
+&emsp;(1) all property which is to be provided by the net proceeds of the issue is to be owned bya 501(c)(3) organization or a governmental unit, and
 
 &emsp;(2) such bond would not be a private activity bond if—
 
@@ -64,7 +64,7 @@ For purposes of this part, except as otherwise provided in this section, the ter
 
 #### (c) Qualified hospital bond
 
-For purposes of this section, the term “qualified hospital bond” means any bond issued aspart of an issue 95 percent or more of the net proceeds of which are to be used with respect to a hospital.
+For purposes of this section, the term “qualified hospital bond” means any bond issued as part of an issue 95 percent or more of the net proceeds of which are to be used with respect to a hospital.
 
 #### (d) Restrictions on bonds used to provide residential rental housing for family units
 
@@ -166,7 +166,7 @@ Amendment by Pub. L. 101–508 applicable to property placed in service after De
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision ofthe Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
+Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -198,7 +198,7 @@ Exception for construction or binding agreement.—
 
 Refundings.—The amendments made by this section shall not apply to any bond issued to refund (or which is part of a series of bonds issued to refund) a bond issued before July 15, 1988, if—
 
-&emsp;“(A) the average maturity date of the issue of which the refunding bond is a part is not later than the average maturity date of the bonds to be refunded by such issue,
+&emsp;“(A) the average maturity date of the issue of which the refunding bond is a part is not later thanthe average maturity date of the bonds to be refunded by such issue,
 
 &emsp;“(B) the amount of the refunding bond does not exceed the outstanding amount of the refunded bond, and
 

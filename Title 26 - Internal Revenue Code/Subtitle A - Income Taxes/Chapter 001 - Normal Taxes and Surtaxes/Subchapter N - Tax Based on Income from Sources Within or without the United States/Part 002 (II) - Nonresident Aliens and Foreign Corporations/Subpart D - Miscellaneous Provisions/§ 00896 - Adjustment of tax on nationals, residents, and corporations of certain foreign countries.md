@@ -6,7 +6,7 @@ Whenever the President finds that—
 
 &emsp;(1) under the laws of any foreign country, considering the tax system of such foreign country, citizens of the United States not residents of such foreign country or domestic corporations are being subjected to more burdensome taxes, on any item of income received by such citizens or corporations from sources within such foreign country, than taxes imposed by the provisions of this subtitle on similar income derived from sources within the United States by residents or corporations of such foreign country,
 
-&emsp;(2) such foreign country, when requested by the United States to do so, has not acted to revise or reduce such taxes so that they are no more burdensome than taxes imposed by the provisions of this subtitle on similar incomederived from sources within the United States by residents or corporations of such foreign country, and
+&emsp;(2) such foreign country, when requested by the United States to do so, has not acted to revise or reduce such taxes so that they are no more burdensome than taxes imposed by the provisions of this subtitle on similar income derived from sources within the United States by residents or corporations of such foreign country, and
 
 &emsp;(3) it is in the public interest to apply pre-1967 tax provisions in accordance with the provisions of this subsection to residents or corporations of such foreign country,
 

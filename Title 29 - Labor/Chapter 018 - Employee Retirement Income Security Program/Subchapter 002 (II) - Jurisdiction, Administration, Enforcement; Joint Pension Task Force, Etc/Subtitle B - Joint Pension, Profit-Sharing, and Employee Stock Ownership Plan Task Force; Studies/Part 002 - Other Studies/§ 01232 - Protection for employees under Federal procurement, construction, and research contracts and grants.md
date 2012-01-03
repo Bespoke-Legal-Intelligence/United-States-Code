@@ -6,7 +6,7 @@ The Secretary of Labor shall, during the 2–year period beginning on September 
 
 #### (b) Consultation
 
-In the course of conducting the study and investigation described in subsection (a) of thissection, and in developing the regulations referred to in subsection (c) of this section, the Secretary of Labor shall consult—
+In the course of conducting the study and investigation described in subsection (a) of this section, and in developing the regulations referred to in subsection (c) of this section, the Secretary of Labor shall consult—
 
 &emsp;(1) with appropriate professional societies, business organizations, and labor organizations, and
 
@@ -26,7 +26,7 @@ Within 1 year after the date on which he submits his report to the Congress unde
 
 (2) For purposes of this subsection, the term “resolution of disapproval” means only a resolution of either House of Congress, the matter after the resolving clause of which is as follows: “That the \_\_\_\_ does not favor the taking effect of the regulations transmitted to the Congress by the Secretary of Labor on \_\_\_\_”, the first blank space therein being filled with the name of the resolving House and the second blank space therein being filled with the day and year.
 
-(3) A resolution of disapproval in the House of Representatives shall be referred to the Committee on Education and Labor. A resolution of disapproval in the Senate shall be referred to the Committee on Labor and Public Welfare.
+(3) A resolution of disapproval in the House of Representatives shall be referred to the Committee on Education and Labor. A resolution ofdisapproval in the Senate shall be referred to the Committee on Labor and Public Welfare.
 
 (4)(A) If the committee to which a resolution of disapproval has been referred has not reported it at the end of 7 calendar days after its introduction, it is in order to move either to discharge the committee from further consideration of the resolution or to discharge the committee from further consideration of any other resolution of disapproval which has been referred to the committee.
 
@@ -59,6 +59,8 @@ Within 1 year after the date on which he submits his report to the Congress unde
 (Pub. L. 93–406, title III, §3032, Sept. 2, 1974, 88 Stat. 1000.)
 
 #### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 Committee on Labor and Public Welfare of Senate abolished and replaced by Committee on Human Resources of Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of Senate, as amended by Senate Resolution No. 4 (popularly cited as the “Committee System Reorganization Amendments of 1977”), approved Feb. 4, 1977. Committee on Human Resources of Senate changed to Committee on Labor and Human Resources of Senate, effective Mar. 7, 1979, by Senate Resolution No. 30, 96th Congress. See, also, Rule XXV of Standing Rules of Senate adopted Nov. 14, 1979. Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 

@@ -54,7 +54,7 @@ Report.—Not later than February 1, 2005, the Secretary shall submit to Congres
 
 #### Pilot Program To Use National Guard Personnel in Medically Underserved Communities
 
-Pub. L. 102–484, div. A, title III, §376, Oct. 23, 1992, 106 Stat. 2385, as amended by Pub. L. 103–160, div. A, title III, §365, Nov. 30, 1993, 107 Stat. 1629; Pub. L. 103–337, div. A, title III, §384, Oct. 5, 1994, 108 Stat. 2741, provided that:
+Pub. L. 102–484, div. A, title III, §376, Oct. 23, 1992, 106 Stat. 2385, as amended by Pub. L. 103–160, div. A, titleIII, §365, Nov. 30, 1993, 107 Stat. 1629; Pub. L. 103–337, div. A, title III, §384, Oct. 5, 1994, 108 Stat. 2741, provided that:
 
 “(a)
 
@@ -196,7 +196,7 @@ Status of Participants.—(1) A person receiving training under the pilot progra
 
 &emsp;“(A) Subchapter I of chapter 81 of title 5, United States Code (relating to compensation of Federal employees for work injuries).
 
-&emsp;“(B) Section 1346(b) and chapter 171 of title 28, United States Code, and any other provision of lawrelating to the liability of the United States for tortious conduct of employees of the United States.
+&emsp;“(B) Section 1346(b) and chapter 171 of title 28, United States Code, and any other provision of law relating to the liability of the United States for tortious conduct of employees of the United States.
 
 “(2) In the application of the provisions of law referred to in paragraph (1)(A) to a person referred to in paragraph (1)—
 

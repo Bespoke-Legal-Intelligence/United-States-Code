@@ -10,7 +10,7 @@
 
 &emsp;(A) in the case of a lease by the Secretary of a military department, subject to regulations prescribed by the Secretary of Defense; and
 
-&emsp;(B) in the case of a lease by the Secretary of Homeland Security with respect to the CoastGuard when it is not operating as a service in the Navy, subject to regulations prescribed by that Secretary.
+&emsp;(B) in the case of a lease by the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, subject to regulations prescribed by that Secretary.
 
 (Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 162; amended Pub. L. 99–348, title III, §304(a)(4), July 1, 1986, 100 Stat. 703; Pub. L. 100–180, div. A, title VI, §632(a), Dec. 4, 1987, 101 Stat. 1105; Pub. L. 105–85, div. A, title VI, §603(d)(2)(B), Nov. 18, 1997, 111 Stat. 1782; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 

@@ -18,5 +18,5 @@ Minor changes in phraseology were made.
 
 <b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
 
-<b>1967</b>—Pub. L. 90–19 included reference to Department of Housing and Urban Development in section catchline and substituted in text “Department of Housing and Urban Development” for “Federal Housing Administration” and “Department” for “Administration” in two places, respectively.
+<b>1967</b>—Pub. L. 90–19 included reference to Department of Housing and Urban Development in section catchlineand substituted in text “Department of Housing and Urban Development” for “Federal Housing Administration” and “Department” for “Administration” in two places, respectively.
 

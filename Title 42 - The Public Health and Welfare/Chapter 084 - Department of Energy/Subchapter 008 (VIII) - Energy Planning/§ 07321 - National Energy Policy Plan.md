@@ -12,7 +12,7 @@ The President shall—
 
 &emsp;&emsp;(A) areas outside standard metropolitan statistical areas; and
 
-&emsp;&emsp;(B) areas within standard metropolitan statistical areas which are unincorporated or are specified by the Bureau of the Census, Department of Commerce, as rural areas.
+&emsp;&emsp;(B) areas within standard metropolitan statistical areas which are unincorporatedor are specified by the Bureau of the Census, Department of Commerce, as rural areas.
 
 #### (b) Biennial transmittal to Congress; contents
 

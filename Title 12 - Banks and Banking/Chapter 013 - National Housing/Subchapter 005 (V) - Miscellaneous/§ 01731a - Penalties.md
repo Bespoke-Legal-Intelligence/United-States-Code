@@ -14,19 +14,19 @@ A prior section 512 of act of June 27, 1934, related to offenses and penalties, 
 
 #### Amendments
 
-1991—Pub. L. 102–54 substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
+<b>1991</b>—Pub. L. 102–54 substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
 
-1989—Pub. L. 101–235 struck out reference to subchapter IX–A after reference to subchapter VIII.
+<b>1989</b>—Pub. L. 101–235 struck out reference to subchapter IX–A after reference to subchapter VIII.
 
-1984—Pub. L. 98–479 substituted “Penalties” for “Denial of benefits in cases of abuses; determination by Secretary; notice and hearing” in section catchline.
+<b>1984</b>—Pub. L. 98–479 substituted “Penalties” for “Denial of benefits in cases of abuses; determination by Secretary; notice and hearing” in section catchline.
 
-1967—Pub. L. 90–16 substituted “Secretary” for “Commissioner” wherever appearing, and “Secretary's” for “Commissioner's”.
+<b>1967</b>—Pub. L. 90–16 substituted “Secretary” for “Commissioner” wherever appearing, and “Secretary's” for “Commissioner's”.
 
-1966—Pub. L. 89–754 inserted references to subchapters IX–A and IX–B of this chapter.
+<b>1966</b>—Pub. L. 89–754 inserted references to subchapters IX–A and IX–B of this chapter.
 
-1959—Pub. L. 86–372 provided that for purposes of compliance with this section the Commissioner's notice of a proposed determination under this section shall be considered to have been received by the interested person or firm if the notice is properly mailed to the last known address of such person or firm.
+<b>1959</b>—Pub. L. 86–372 provided that for purposes of compliance with this section the Commissioner's notice of a proposed determination under this section shall be considered to have been received by the interested person or firm if the notice is properly mailed to the last known address of such person or firm.
 
-1958—Pub. L. 85–857 inserted references to chapter 37 of title 38.
+<b>1958</b>—Pub. L. 85–857 inserted references to chapter 37 of title 38.
 
 #### Effective Date of 1958 Amendment
 

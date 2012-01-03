@@ -6,5 +6,5 @@ The committee may allow any party reimbursement from the applicable accounts of 
 
 #### Amendments
 
-1996—Pub. L. 104–186 substituted “applicable accounts” for “contingent fund”.
+<b>1996</b>—Pub. L. 104–186 substituted “applicable accounts” for “contingent fund”.
 

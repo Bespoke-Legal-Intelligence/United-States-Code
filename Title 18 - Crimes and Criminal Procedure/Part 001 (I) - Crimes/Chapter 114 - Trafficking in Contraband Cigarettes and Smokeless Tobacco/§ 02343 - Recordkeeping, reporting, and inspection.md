@@ -32,7 +32,7 @@
 
 (e) In this section, the term “delivery sale” means any sale of cigarettes or smokeless tobacco in interstate commerce to a consumer if—
 
-&emsp;(1) the consumer submits the order for such sale by means of a telephone or other method of voice transmission, the mails, or the Internet or other online service, or by any othermeans where the consumer is not in the same physical location as the seller when the purchase or offer of sale is made; or
+&emsp;(1) the consumer submits the order for such sale by means of a telephone or other method of voice transmission, the mails, or the Internet or other online service, or by any other means where the consumer is not in the same physical location as the seller when the purchase or offer of sale is made; or
 
 &emsp;(2) the cigarettes or smokeless tobacco are delivered by use of the mails, common carrier, private delivery service, or any other means where the consumer is not in the same physical location as the seller when the consumer obtains physical possession of the cigarettes or smokeless tobacco.
 

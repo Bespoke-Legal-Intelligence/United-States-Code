@@ -16,9 +16,9 @@
 
 &emsp;&emsp;(ii) are owned separately by two or more owners.
 
-(b)(1)(A) Whenever the interest of the United States in a tract of real property or easement referred to in subsection (a) is available for disposition under this section, the Administrator shall transmit a notice of the availability of thereal property or easement to each person described in subsection (a)(2)(D)(i) who owns lands adjacent to that real property or easement.
+(b)(1)(A) Whenever the interest of the United States in a tract of real property or easement referred to in subsection (a) is available for disposition under this section, the Administrator shall transmit a notice of the availability of the real property or easement to each person described in subsection (a)(2)(D)(i) who owns lands adjacent to that real property or easement.
 
-(B) The Administrator shall convey, for fair market value, the interest of the United States in a tract of land referred to in subsection (a), or in any easement in connection with such a tract of land, to any person or persons described in subsection (a)(2)(D)(i) who, with respect to such land, are ready, willing, and able to purchase such interest for the fair market value of such interest.
+(B) The Administrator shall convey, for fair market value, the interest of the United States in a tract of land referred to in subsection (a), or in any easement in connection with such a tract of land, to any person or persons described in subsection (a)(2)(D)(i) who, with respect to suchland, are ready, willing, and able to purchase such interest for the fair market value of such interest.
 
 (2)(A) In the case of a tract of real property referred to in subsection (a) that is surrounded by adjacent lands that are owned separately by two or more owners, the Administrator shall dispose of that tract of real property in accordance with this paragraph. In disposing of the real property, the Administrator shall satisfy the requirements specified in paragraph (1) regarding notice to owners, sale at fair market value, and the determination of the qualifications of the purchaser.
 

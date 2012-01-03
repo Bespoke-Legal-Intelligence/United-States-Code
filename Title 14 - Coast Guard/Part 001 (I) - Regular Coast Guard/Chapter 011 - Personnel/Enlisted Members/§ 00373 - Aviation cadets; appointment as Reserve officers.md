@@ -8,5 +8,5 @@
 
 #### Amendments
 
-1976—Subsec. (a). Pub. L. 94–546 substituted reference to section 2003 of title 10 for reference to section 6023(b) of title 10.
+<b>1976</b>—Subsec. (a). Pub. L. 94–546 substituted reference to section 2003 of title 10 for reference to section 6023(b) of title 10.
 

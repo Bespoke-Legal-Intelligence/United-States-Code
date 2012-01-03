@@ -6,11 +6,11 @@ Notwithstanding section 365(d)(1) of this title, the trustee shall assume or rej
 
 #### Historical and Revision Notes
 
-I74senate report no. 95–989
+#### senate report no. 95–989
 
 Section 744 instructs the court to give the trustee a reasonable time, not to exceed 30 days, to assume or reject any executory contract of the stockbroker to buy or sell securities. Any contract not assumed within the time fixed by the court is considered to be rejected.
 
 #### Amendments
 
-1982—Pub. L. 97–222 inserted “but” after “relief,”.
+<b>1982</b>—Pub. L. 97–222 inserted “but” after “relief,”.
 

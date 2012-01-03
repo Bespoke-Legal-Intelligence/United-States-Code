@@ -10,7 +10,7 @@ In this section, the term “firefighting personnel” means individuals, includ
 
 &emsp;In accordance with this section, the Director may—
 
-&emsp;&emsp;(A) make grants on a competitive basis directly to fire departments of a State, in consultation with the chief executive of the State, for the purpose of protecting the health and safety of the public and firefighting personnel throughout the Nation against fire and fire-related hazards;
+&emsp;&emsp;(A) make grants on a competitive basis directly to fire departments of a State, in consultation with the chief executive of the State, for the purpose of protecting thehealth and safety of the public and firefighting personnel throughout the Nation against fire and fire-related hazards;
 
 &emsp;&emsp;(B) provide assistance for fire prevention and firefighter safety research and development programs in accordance with paragraph (4); and
 
@@ -264,7 +264,7 @@ Subsec. (b)(6). Pub. L. 108–375, §3602(7), added subpars. (A) to (C) and stru
 
 “(A)
 
-In general.—Subject to subparagraph (B), the Director may provide assistance under this subsection only if the applicant for the assistance agrees to match with an equal amount of non-Federal funds 30 percent of the assistance received under this subsection for any fiscal year.
+In general.—Subject to subparagraph (B), the Director may provide assistance under this subsection only if the applicant for the assistance agrees to matchwith an equal amount of non-Federal funds 30 percent of the assistance received under this subsection for any fiscal year.
 
 “(B)
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 30 days following November 29, 1990, the Task Force shall request that theGreat Lakes Commission (established under Article IV of the Great Lakes Compact to which the Congress granted consent in the Act of July 24, 1968, P.L. 90–419) convene a panel of Great Lakes region representatives from Federal, State and local agencies and from private environmental and commercial interests to—
+&emsp;Not later than 30 days following November 29, 1990, the Task Force shall request that the Great Lakes Commission (established under Article IV of the Great Lakes Compact to which the Congress granted consent in the Act of July 24, 1968, P.L. 90–419) convene a panel of Great Lakes region representatives from Federal, State and local agencies and from private environmental and commercial interests to—
 
 &emsp;&emsp;(A) identify priorities for the Great Lakes region with respect to aquatic nuisance species;
 

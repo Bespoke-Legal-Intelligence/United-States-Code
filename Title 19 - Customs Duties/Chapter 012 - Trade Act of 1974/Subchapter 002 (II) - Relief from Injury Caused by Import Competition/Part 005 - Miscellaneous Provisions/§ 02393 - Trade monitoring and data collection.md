@@ -2,7 +2,7 @@
 
 #### (a) Monitoring programs
 
-The Secretary of Commerce and the Secretary of Labor shall establish and maintain a program to monitor imports of articles and services into the United States which will reflect changes inthe volume of such imports, the relation of such imports to changes in domestic production and domestic supply of services, changes in employment within domestic industries producing articles or supplying services like or directly competitive with such imports, and the extent to which such changes in production, or supply of services, and employment are concentrated in specific geographic regions of the United States. A summary of the information gathered under this section shall be published regularly and provided to the Adjustment Assistance Coordinating Committee, the International Trade Commission, and to the Congress.
+The Secretary of Commerce and the Secretary of Labor shall establish and maintain a program to monitor imports of articles and services into the United States which will reflect changes in the volume of such imports, the relation of such imports to changes in domestic production and domestic supply of services, changes in employment within domestic industries producing articles or supplying services like or directly competitive with such imports, and the extent to which such changes in production, or supply of services, and employment are concentrated in specific geographic regions of the United States. A summary of the information gathered under this section shall be published regularly and provided to the Adjustment Assistance Coordinating Committee, the International Trade Commission, and to the Congress.
 
 #### (b) Collection of data and reports on service sector
 
@@ -14,17 +14,27 @@ The Secretary of Commerce and the Secretary of Labor shall establish and maintai
 
 &emsp;Not later than 1 year after February 17, 2009, the Secretary of Commerce shall, in consultation with the Secretary of Labor, conduct a study and submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives a report on ways to improve the timeliness and coverage of data on trade in services, including methods to identify increased imports due to the relocation of United States firms to foreign countries, and increased imports due to United States firms acquiring services from firms in foreign countries.
 
-(Pub. L. 93–618, title II, §282, Jan. 3, 1975, 88 Stat. 2040; Pub. L. 111–5, div. B, title I, §1804(a), Feb. 17, 2009, 123 Stat. 372.)
+(Pub. L. 93–618, title II, §282, Jan. 3, 1975, 88 Stat. 2040; Pub. L. 111–5, div. B, title I, §1804(a), Feb. 17, 2009, 123 Stat. 372; Pub. L. 112–40, title II, §201(b), (c), Oct. 21, 2011, 125 Stat. 403.)
 
-#### Amendment of Section
+#### Reversion to Provisions in Effect on February 13, 2011
 
-<i>For termination of amendment by section 1893 of Pub. L. 111–5, see Effective and Termination Dates of 2009 Amendment note below.</i>
+<i>For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to section 233(b) of Pub. L. 112–40, see Codification and Effective and Termination Dates of 2011 Revival notes below.</i>
+
+#### Codification
+
+Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination of amendment by Pub. L. 111–5, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, and the provisions of this section, as amended by Pub. L. 111–5 and as in effect on Feb. 12, 2011, were temporarily revived, effective Oct. 21, 2011, until Jan. 1, 2014, by Pub. L. 112–40, §§201(b), (c), 233. See 2009 and 2011 Amendment notes, Effective and Termination Dates of 2009 Amendment notes, and Effective and Termination Dates of 2011 Revival note below.
 
 #### Amendments
 
-<b>2009</b>—Pub. L. 111–5, §§1804(a)(1), 1893, temporarily substituted “and data collection” for “system” in section catchline. See Effective and Termination Dates of 2009 Amendment note below.
+<b>2011</b>—Pub. L. 112–40, §§201(b), (c), 233, temporarily revived the provisions of this section, as in effect on Feb. 12, 2011. See Codification note above and 2009 Amendment and Effective and Termination Dates of 2011 Revival notes below.
 
-Pub. L. 111–5, §§1804(a)(2), (3), 1893, temporarily designated existing provisions as subsec. (a), inserted heading, inserted “and services” after “imports of articles”, “and domestic supply of services” after “domestic production”, “or supplying services” after “producing articles”, and “, or supply of services,” after “changes in production”, and added subsec. (b). See Effective and Termination Dates of 2009 Amendment note below.
+<b>2009</b>—Pub. L. 111–5, §§1804(a)(1), 1893, temporarily substituted “and data collection” for “system” in section catchline. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+
+Pub. L. 111–5, §§1804(a)(2), (3), 1893, temporarily designated existing provisions as subsec. (a), inserted heading, inserted “and services” after “imports of articles”, “and domestic supply of services” after “domestic production”, “or supplying services” after “producing articles”, and “, or supply of services,” after “changes in production”, and added subsec. (b). See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+
+#### Effective and Termination Dates of 2011 Revival
+
+For temporary revival and applicability of provisions as in effect on Feb. 12, 2011, see sections 201(b), (c) and233 of Pub. L. 112–40, set out as notes preceding section 2271 of this title. For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to section 233(b) of Pub. L. 112–40, see section 233 of Pub. L. 112–40, set out as a note preceding section 2271 of this title.
 
 #### Effective and Termination Dates of 2009 Amendment
 
@@ -32,5 +42,5 @@ Pub. L. 111–5, div. B, title I, §1804(c), Feb. 17, 2009, 123 Stat. 373, provi
 
 Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title.
 
-Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and this section to be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
+Section 1893 of Pub. L. 111–5, which provided that, except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and that this section be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403. See Codification note above.
 

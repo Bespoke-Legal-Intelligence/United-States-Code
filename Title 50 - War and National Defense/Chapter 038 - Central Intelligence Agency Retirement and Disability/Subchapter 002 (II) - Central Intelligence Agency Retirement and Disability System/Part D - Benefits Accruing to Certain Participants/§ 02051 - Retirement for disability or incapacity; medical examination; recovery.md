@@ -32,7 +32,7 @@
 
 #### (2) Coordination with military retired pay and veterans’ compensation and pension
 
-&emsp;If a participant retiring under this section is receiving retired pay or retainer pay for military service (except that specified in section 2082(e)(3) of this title) or Department of Veterans Affairs compensation or pension in lieu ofsuch retired or retainer pay, the annuity of that participant shall be computed under section 2031(a) of this title, excluding credit for such military service from that computation. If the amount of the annuity so computed, plus the retired or retainer pay which is received, or which would be received but for the application of the limitation in section 5532 <sup>1</sup> of title 5, or the Department of Veterans Affairs compensation or pension in lieu of such retired or retainer pay, is less than the annuity that would be payable under this section in the absence of the previous sentence, an amount equal to the difference shall be added to the annuity payable under section 2031(a) of this title.
+&emsp;If a participant retiring under this section is receiving retired pay or retainer pay for military service (except that specified in section 2082(e)(3) of this title) or Department of Veterans Affairs compensation or pension in lieu of such retired or retainer pay, the annuity of that participant shall be computed under section 2031(a) of this title, excluding credit for such military service from that computation. If the amount of the annuity so computed, plus the retired or retainer pay which is received, or which would be received but for the application of the limitation in section 5532 <sup>1</sup> of title 5, or the Department of Veterans Affairs compensation or pension in lieu of such retired or retainer pay, is less than the annuity that would be payable under this section in the absence of the previous sentence, an amount equal to the difference shall be added to the annuity payable under section 2031(a) of this title.
 
 #### (c) Medical examinations
 
@@ -100,7 +100,7 @@
 
 #### (1) Refund to Department of Labor
 
-&emsp;If an individual is entitled to an annuity under this subchapter and the individual receives a lump-sum payment for compensation under section 8135 of title 5 based on the disability or death of the same person, so much of the compensation as has been paid for a period extended beyond the date payment of the annuity commences, as determined by the Secretary of Labor, shall be refunded to the Department for credit to the Employees’ Compensation Fund. Before the individual may receive the annuity, the individual shall—
+&emsp;If an individual is entitled to an annuity under this subchapter and the individual receives a lump-sum payment for compensation under section 8135 of title 5 based on the disability or death of the same person, so muchof the compensation as has been paid for a period extended beyond the date payment of the annuity commences, as determined by the Secretary of Labor, shall be refunded to the Department for credit to the Employees’ Compensation Fund. Before the individual may receive the annuity, the individual shall—
 
 &emsp;&emsp;(A) refund to the Secretary of Labor the amount representing the commuted compensation payments for the extended period; or
 

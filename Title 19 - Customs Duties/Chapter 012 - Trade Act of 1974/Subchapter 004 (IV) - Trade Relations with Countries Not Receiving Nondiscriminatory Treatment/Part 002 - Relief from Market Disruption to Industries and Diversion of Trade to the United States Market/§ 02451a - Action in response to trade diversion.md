@@ -76,7 +76,7 @@ Report by Commission.—
 
 &emsp;&emsp;&emsp;(I) the short- and long-term effects that implementation of the action recommended under clause (ii) is likely to have on the petitioning domestic industry, on other domestic industries, and on consumers; and
 
-&emsp;&emsp;&emsp;(II) the short- and long-term effects of not taking the recommended action on thepetitioning domestic industry, its workers and the communities where production facilities of such industry are located, and on other domestic industries.
+&emsp;&emsp;&emsp;(II) the short- and long-term effects of not taking the recommended action on the petitioning domestic industry, its workers and the communities where production facilities of such industry are located, and on other domestic industries.
 
 &emsp;(C) The Commission, after submitting a report to the President under subparagraph (A), shall promptly make it available to the public (with the exception of confidential business information) and cause a summary thereof to be published in the Federal Register.
 

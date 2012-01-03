@@ -4,19 +4,23 @@
 
 &emsp;(1) citizens of different States;
 
-&emsp;(2) citizens of a State and citizens or subjects of a foreign state;
+&emsp;(2) citizens of a State and citizens or subjects of a foreign state, except that the district courts shall not have original jurisdiction under this subsection of an action between citizens of a State and citizens or subjects of a foreign state who are lawfully admitted for permanent residence in the United States and are domiciled in the same State;
 
 &emsp;(3) citizens of different States and in which citizens or subjects of a foreign state are additional parties; and
 
 &emsp;(4) a foreign state, defined in section 1603(a) of this title, as plaintiff and citizens of a State or of different States.
 
-> For the purposes of this section, section 1335, and section 1441, an alien admitted to the United States for permanent residence shall be deemed a citizen of the State in which such alien is domiciled.
-
 (b) Except when express provision therefor is otherwise made in a statute of the United States, where the plaintiff who files the case originally in the Federal courts is finally adjudged to be entitled to recover less than the sum or value of $75,000, computed without regard to any setoff or counterclaim to which the defendant may be adjudged to be entitled, and exclusive of interest and costs, the district court may deny costs to the plaintiff and, in addition, may impose costs on the plaintiff.
 
 (c) For the purposes of this section and section 1441 of this title—
 
-&emsp;(1) a corporation shall be deemed to be a citizen of any State by which it has been incorporated and of the State where it has its principal place of business, except that in any direct action against the insurer of a policy or contract of liability insurance, whether incorporated or unincorporated, to which action the insured is not joined as a party-defendant, such insurer shall be deemed a citizen of the State of which the insured is a citizen, as well as of any State by which the insurer has been incorporated and of the State where it has its principal place of business; and
+&emsp;(1) a corporation shall be deemed to be a citizen of every State and foreign state by which it has been incorporated and of the State or foreign state where it has its principal place of business, except that in any direct action against the insurer of a policy or contract of liability insurance, whether incorporated or unincorporated, to which action the insured is not joined as a party-defendant, such insurer shall be deemed a citizen of—
+
+&emsp;&emsp;(A) every State and foreign state of which the insured is a citizen;
+
+&emsp;&emsp;(B) every State and foreign state by which the insurer has been incorporated; and
+
+&emsp;&emsp;(C) the State or foreign state where the insurer has its principal place of business; and
 
 &emsp;(2) the legal representative of the estate of a decedent shall be deemed to be a citizen only of the same State as the decedent, and the legal representative of an infant or incompetent shall be deemed to be a citizen only of the same State as the infant or incompetent.
 
@@ -96,7 +100,7 @@
 
 (11)(A) For purposes of this subsection and section 1453, a mass action shall be deemed to be a class action removable under paragraphs (2) through (10) if it otherwise meets the provisions of those paragraphs.
 
-(B)(i) As used in subparagraph (A), the term “mass action” means any civil action (except a civil action within the scope of section 1711(2))in which monetary relief claims of 100 or more persons are proposed to be tried jointly on the ground that the plaintiffs’ claims involve common questions of law or fact, except that jurisdiction shall exist only over those plaintiffs whose claims in a mass action satisfy the jurisdictional amount requirements under subsection (a).
+(B)(i) As used in subparagraph (A), the term “mass action” means any civil action (except a civil action within the scope of section 1711(2)) in which monetary relief claims of 100 or more persons are proposed to be tried jointly on the ground that the plaintiffs’ claims involve common questions of law or fact, except that jurisdiction shall exist only over those plaintiffs whose claims in a mass action satisfy the jurisdictional amount requirements under subsection (a).
 
 (ii) As used in subparagraph (A), the term “mass action” shall not include any civil action in which—
 
@@ -120,7 +124,7 @@
 
 (e) The word “States”, as used in this section, includes the Territories, the District of Columbia, and the Commonwealth of Puerto Rico.
 
-(June 25, 1948, ch. 646, 62 Stat. 930; July 26, 1956, ch. 740, 70 Stat. 658; Pub. L. 85–554, §2, July 25, 1958, 72 Stat. 415; Pub. L. 88–439, §1, Aug. 14, 1964, 78 Stat. 445; Pub. L. 94–583, §3, Oct. 21, 1976, 90 Stat. 2891; Pub. L. 100–702, title II, §§201(a), 202(a), 203(a), Nov. 19, 1988, 102 Stat. 4646; Pub. L. 104–317, title II, §205(a), Oct. 19, 1996, 110 Stat. 3850; Pub. L. 109–2, §4(a), Feb. 18, 2005, 119 Stat. 9.)
+(June 25, 1948, ch. 646, 62 Stat. 930; July 26, 1956, ch. 740, 70 Stat. 658; Pub. L. 85–554, §2, July 25, 1958, 72 Stat. 415; Pub. L. 88–439, §1, Aug. 14, 1964, 78 Stat. 445; Pub. L. 94–583, §3, Oct. 21, 1976, 90 Stat. 2891; Pub. L. 100–702, title II, §§201(a), 202(a), 203(a), Nov. 19, 1988, 102 Stat. 4646; Pub. L. 104–317, title II, §205(a), Oct. 19, 1996, 110 Stat. 3850; Pub. L. 109–2, §4(a), Feb. 18, 2005, 119 Stat. 9; Pub. L. 112–63, title I, §§101, 102, Dec. 7, 2011, 125 Stat. 758.)
 
 #### Historical and Revision Notes
 
@@ -806,6 +810,12 @@ Rule 23 of the Federal Rules of Civil Procedure, referred to in subsec. (d)(1)(B
 
 #### Amendments
 
+<b>2011</b>—Subsec. (a). Pub. L. 112–63, §101(1), struck out concluding provisions which read as follows: “For the purposes of this section, section 1335, and section 1441, an alien admitted to the United States for permanent residence shall be deemed a citizen of the State in which such alien is domiciled.”
+
+Subsec. (a)(2). Pub. L. 112–63, §101(2), inserted before semicolon at end “, except that the district courts shall not have original jurisdiction under this subsection of an action between citizens of a State and citizens or subjects of a foreign state who are lawfully admitted for permanent residence in the United States and are domiciled in the same State”.
+
+Subsec. (c)(1). Pub. L. 112–63, §102, substituted “every State and foreign state” for “any State”, “it has been incorporated and of the State or foreign state” for “it has been incorporated and of the State”, and “such insurer shall be deemed a citizen of—” for “such insurer shall be deemed a citizen of the State of which the insured is a citizen, as well as of any State by which the insurer has been incorporated and of the State where it has its principal place of business; and” and added subpars. (A) to (C).
+
 <b>2005</b>—Subsecs. (d), (e). Pub. L. 109–2 added subsec. (d) and redesignated former subsec. (d) as (e).
 
 <b>1996</b>—Subsecs. (a), (b). Pub. L. 104–317 substituted “$75,000” for “$50,000”.
@@ -833,6 +843,18 @@ Subsec. (a). Pub. L. 85–554 substituted “$10,000” for “$3,000”.
 Subsecs. (b) to (d). Pub. L. 85–554 added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
 
 <b>1956</b>—Subsec. (b). Act July 26, 1956, included the Commonwealth of Puerto Rico.
+
+#### Effective Date of 2011 Amendment
+
+Pub. L. 112–63, title I, §105, Dec. 7, 2011, 125 Stat. 762, provided that:
+
+“(a)
+
+In General.—Subject to subsection (b), the amendments made by this title \[enacting section 1455 of this title and amending this section and sections 1441, 1446, and 1453 of this title\] shall take effect upon the expiration of the 30-day period beginning on the date of the enactment of this Act \[Dec. 7, 2011\], and shall apply to any action or prosecution commenced on or after such effective date.
+
+“(b)
+
+Treatment of Cases Removed to Federal Court.—For purposes of subsection (a), an action or prosecution commenced in State court and removed to Federal court shall be deemed to commence on the date the action or prosecution was commenced, within the meaning of State law, in State court.”
 
 #### Effective Date of 2005 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) Year in which partnership income is includible
 
-In computing the taxable income of a partner for a taxable year, the inclusions required by section 702 and section 707(c) with respect to a partnership shall be based on the income, gain, loss, deduction, or credit of the partnership for any taxable year of the partnership ending within or with the taxable year of the partner.
+In computing the taxable income of a partner for a taxable year, the inclusions required bysection 702 and section 707(c) with respect to a partnership shall be based on the income, gain, loss, deduction, or credit of the partnership for any taxable year of the partnership ending within or with the taxable year of the partner.
 
 #### (b) Taxable year
 
@@ -162,7 +162,7 @@ Subsec. (b)(4). Pub. L. 100–647, §1008(e)(1)(B), substituted “Majority inte
 
 &emsp;“(B) if the partnership has not been in existence during all of such 3-taxable year period, the taxable years of such partner or partners ending with or within the period of existence.
 
-> This paragraph shall apply without regard to whether the same partners or interests are taken into account in determining the 50 percent interest during any period.”
+> This paragraph shall apply without regard to whether the same partners or interests are taken into accountin determining the 50 percent interest during any period.”
 
 Subsec. (b)(5). Pub. L. 100–647, §1008(e)(3), added par. (5).
 

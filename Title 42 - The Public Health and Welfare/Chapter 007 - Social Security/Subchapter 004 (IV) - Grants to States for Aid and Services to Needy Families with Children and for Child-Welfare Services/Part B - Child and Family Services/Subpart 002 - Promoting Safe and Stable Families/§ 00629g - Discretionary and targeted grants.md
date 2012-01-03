@@ -2,7 +2,7 @@
 
 #### (a) Limitations on authorization of appropriations
 
-In addition to any amount appropriated pursuant to section 629f of this title, there are authorized to be appropriated to carry out this section $200,000,000 for each of fiscal years 2007 through 2011.
+In addition to any amount appropriated pursuant to section 629f of this title, there are authorized to be appropriated to carry out this section $200,000,000 for each of fiscal years 2012 through 2016.
 
 #### (b) Reservation of certain amounts
 
@@ -46,11 +46,11 @@ The Secretary may make a grant to a State which has a plan approved under this s
 
 The rules of subsections (b) and (c) of section 629d of this title shall apply in like manner tothe amounts made available pursuant to subsection (a).
 
-#### (f) Targeted grants to increase the well-being of, and to improve the permanency outcomes for, children affected by methamphetamine or other substance abuse
+#### (f) Targeted grants to increase the well-being of, and to improve the permanency outcomes for, children affected by substance abuse
 
 #### (1) Purpose
 
-&emsp;The purpose of this subsection is to authorize the Secretary to make competitive grants to regional partnerships to provide, through interagency collaboration and integration of programs and services, services and activities that are designed to increase the well-being of, improve permanency outcomes for, and enhance the safety of children who are in an out-of-home placement or are at risk of being placed in an out-of-home placement as a result of a parent's or caretaker's methamphetamine or other substance abuse.
+&emsp;The purpose of this subsection is to authorize the Secretary to make competitive grants to regional partnerships to provide, through interagency collaboration and integration of programs and services, services and activities that are designed to increase the well-being of, improve permanency outcomes for, and enhance the safety of children who are in an out-of-home placement or are at risk of being placed in an out-of-home placement as a result of a parent's or caretaker's substance abuse.
 
 #### (2) Regional partnership defined
 
@@ -106,17 +106,27 @@ The rules of subsections (b) and (c) of section 629d of this title shall apply i
 
 #### (A) In general
 
-&emsp;&emsp;In addition to amounts authorized to be appropriated to carry out this section, the Secretary shall award grants under this subsection, from the amounts reserved for each of fiscal years 2007 through 2011 under section 629f(b)(5) of this title, to regional partnerships that satisfy the requirements of this subsection, in amounts that are not less than $500,000 and not more than $1,000,000 per grant per fiscal year.
+&emsp;&emsp;In addition to amounts authorized to be appropriated to carry out this section, the Secretary shall award grants under this subsection, from the amounts reserved for each of fiscal years 2012 through 2016 under section 629f(b)(5) of this title, to regional partnerships that satisfy the requirements of this subsection, in amounts that are not less than $500,000 and not more than $1,000,000 per grant per fiscal year.
 
 #### (B) Required minimum period of approval
 
-&emsp;&emsp;A grant shall be awarded under this subsection for a period of not less than 2, and not more than 5, fiscal years.
+#### (i) In general
+
+&emsp;&emsp;&emsp;A grant shall be awarded under this subsection for a period of not less than 2, and not more than 5, fiscal years, subject to clause (ii).
+
+#### (ii) Extension of grant
+
+&emsp;&emsp;&emsp;On application of the grantee, the Secretary may extend for not more than 2 fiscal years the period for which a grant is awarded under this subsection.
+
+#### (C) Multiple grants allowed
+
+&emsp;&emsp;This subsection shall not be interpreted to prevent a grantee from applying for, or being awarded, separate grants under this subsection.
 
 #### (4) Application requirements
 
 &emsp;To be eligible for a grant under this subsection, a regional partnership shall submit to the Secretary a written application containing the following:
 
-&emsp;&emsp;(A) Recent evidence demonstrating that methamphetamine or other substance abuse has had a substantial impact on the number of out-of-home placements for children, or the number of children who are at risk of being placed in an out-of-home placement, in the partnership region.
+&emsp;&emsp;(A) Recent evidence demonstrating that substance abuse has had a substantial impact on the number of out-of-home placements for children, or the number of children who are at risk of being placed in an out-of-home placement, in the partnership region.
 
 &emsp;&emsp;(B) A description of the goals and outcomes to be achieved during the funding period for the grant that will—
 
@@ -124,7 +134,7 @@ The rules of subsections (b) and (c) of section 629d of this title shall apply i
 
 &emsp;&emsp;&emsp;(ii) lead to safety and permanence for such children; and
 
-&emsp;&emsp;&emsp;(iii) decrease the number of out-of-home placements for children, or the number of children who are at risk of being placed in an out-of-home placement, in the partnership region.
+&emsp;&emsp;&emsp;(iii) decrease the number of out-of-home placements for children, or the number of children who are at risk of being placed inan out-of-home placement, in the partnership region.
 
 &emsp;&emsp;(C) A description of the joint activities to be funded in whole or in part with the funds provided under the grant, including the sequencing of the activities proposed to be conducted under the funding period for the grant.
 
@@ -168,9 +178,13 @@ The rules of subsections (b) and (c) of section 629d of this title shall apply i
 
 &emsp;&emsp;&emsp;(i) 85 percent for the first and second fiscal years for which the grant is awarded to a recipient;
 
-&emsp;&emsp;&emsp;(ii) 80 percent for the third and fourth such fiscal years; and
+&emsp;&emsp;&emsp;(ii) 80 percent for the third and fourth such fiscal years;
 
-&emsp;&emsp;&emsp;(iii) 75 percent for the fifth such fiscal year.
+&emsp;&emsp;&emsp;(iii) 75 percent for the fifth such fiscal year;
+
+&emsp;&emsp;&emsp;(iv) 70 percent for the sixth such fiscal year; and
+
+&emsp;&emsp;&emsp;(v) 65 percent for the seventh such fiscal year.
 
 #### (B) Non-Federal share
 
@@ -178,19 +192,15 @@ The rules of subsections (b) and (c) of section 629d of this title shall apply i
 
 #### (7) Considerations in awarding grants
 
-&emsp;In awarding grants under this subsection, the Secretary shall—
+&emsp;In awarding grants under this subsection, the Secretary shall take into consideration the extent to which applicant regional partnerships—
 
-&emsp;&emsp;(A) take into consideration the extent to which applicant regional partnerships—
+&emsp;&emsp;(A) demonstrate that substance abuse by parents or caretakers has had a substantial impact on the number of out-of-home placements for children, or the number of children who are at risk of being placed in an out-of-home placement, in the partnership region;
 
-&emsp;&emsp;&emsp;(i) demonstrate that methamphetamine or other substance abuse by parents or caretakers has had a substantial impact on the number of out-of-home placements for children, or the number of children who are at risk of being placed in an out-of-home placement, in the partnership region;
+&emsp;&emsp;(B) have limited resources for addressing the needs of children affected by such abuse;
 
-&emsp;&emsp;&emsp;(ii) have limited resources for addressing the needs of children affected by such abuse;
+&emsp;&emsp;(C) have a lack of capacity for, or access to, comprehensive family treatment services; and
 
-&emsp;&emsp;&emsp;(iii) have a lack of capacity for, or access to, comprehensive family treatment services; and
-
-&emsp;&emsp;&emsp;(iv) demonstrate a plan for sustaining the services provided by or activities funded under the grant after the conclusion of the grant period; and
-
-&emsp;&emsp;(B) after taking such factors into consideration, give greater weight to awarding grants to regional partnerships that propose to address methamphetamine abuse and addiction in the partnership region (alone or in combination with other drug abuse and addiction) and which demonstrate that methamphetamine abuse and addiction (alone or in combination with other drug abuse and addiction) is adversely affecting child welfare in the partnership region.
+&emsp;&emsp;(D) demonstrate a plan for sustaining the services provided by or activities funded under the grant after the conclusion of the grant period.
 
 #### (8) Performance indicators
 
@@ -216,7 +226,7 @@ The rules of subsections (b) and (c) of section 629d of this title shall apply i
 
 #### (i) Annual report
 
-&emsp;&emsp;&emsp;Not later than September 30 of the first fiscal year in which a recipient of a grant under this subsection is paid funds under the grant, and annually thereafter until September 30 of the last fiscal year in which the recipient is paid funds under the grant, the recipient shall submit to the Secretary a report on the services provided or activities carried out during that fiscal year with such funds. The report shall contain such information as the Secretary determines is necessary to provide an accurate description of the services provided or activities conducted with such funds.
+&emsp;&emsp;&emsp;Not later than September 30 of the first fiscal year in which a recipient of a grant under this subsection is paid funds under the grant, and annually thereafter until September 30 of the last fiscal year in which the recipient is paid funds under the grant, the recipient shall submit to the Secretary a report on the services provided or activities carried out during that fiscalyear with such funds. The report shall contain such information as the Secretary determines is necessary to provide an accurate description of the services provided or activities conducted with such funds.
 
 #### (ii) Incorporation of information related to performance indicators
 
@@ -230,13 +240,15 @@ The rules of subsections (b) and (c) of section 629d of this title shall apply i
 
 &emsp;&emsp;&emsp;(ii) the performance indicators established under paragraph (8); and
 
-&emsp;&emsp;&emsp;(iii) the progress that has been made in addressing the needs of families with methamphetamine or other substance abuse problems who come to the attention of the child welfare system and in achieving the goals of child safety, permanence, and family stability.
+&emsp;&emsp;&emsp;(iii) the progress that has been made in addressing the needs of families with substance abuse problems who come to the attention of the child welfare system and in achieving the goals of child safety, permanence, and family stability.
 
-(Aug. 14, 1935, ch. 531, title IV, §437, as added Pub. L. 107–133, title I, §106(b), Jan. 17, 2002, 115 Stat. 2417; amended Pub. L. 109–288, §§3(b), 4(b)(2), 5(a)(2), (b)(2), 6(f)(5), Sept. 28, 2006, 120 Stat. 1234, 1238, 1242, 1243, 1247; Pub. L. 110–234, title IV, §4002(b)(1)(D), (2)(V), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(D), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858.)
+#### (10) Limitation on use of funds for administrative expenses of the Secretary
+
+&emsp;Not more than 5 percent of the amounts appropriated or reserved for awarding grants under this subsection for each of fiscal years 2012 through 2016 may be used by the Secretary for salaries and Department of Health and Human Services administrative expenses in administering this subsection.
+
+(Aug. 14, 1935, ch. 531, title IV, §437, as added Pub. L. 107–133, title I, §106(b), Jan. 17, 2002, 115 Stat. 2417; amended Pub. L. 109–288, §§3(b), 4(b)(2), 5(a)(2), (b)(2), 6(f)(5), Sept. 28, 2006, 120 Stat. 1234, 1238, 1242, 1243, 1247; Pub. L. 110–234, title IV, §4002(b)(1)(D), (2)(V), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(D), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 112–34, title I, §§102(a)(2), 103(c)(1), (2), Sept. 30, 2011, 125 Stat. 371, 373.)
 
 #### References in Text
-
-Part E, referred to in subsec. (f)(2)(A)(i), (B)(i), is classified to section 670 et seq. of this title.
 
 The Public Health Service Act, referred to in subsec. (f)(2)(A)(ii), is act July 1, 1944, ch. 373, 58 Stat. 682. Subpart II of part B of title XIX of the Act is classified generally to subpart II (§300x–21 et seq.) of part B of subchapter XVII of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
@@ -249,6 +261,28 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 A prior section 437 of act Aug. 14, 1935, was classified to section 637 of this title prior to repeal by Pub. L. 100–485.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (a). Pub. L. 112–34, §102(a)(2), substituted “2012 through 2016” for “2007 through 2011”.
+
+Subsec. (f). Pub. L. 112–34, §103(c)(2)(A), struck out “methamphetamine or other” before “substance abuse” in heading.
+
+Subsec. (f)(1). Pub. L. 112–34, §103(c)(2)(B), struck out “methamphetamine or other” before “substance abuse”.
+
+Subsec. (f)(3)(A). Pub. L. 112–34, §103(c)(1), substituted “2012 through 2016” for “2007 through 2011”.
+
+Subsec. (f)(3)(B), (C). Pub. L. 112–34, §103(c)(2)(C), added subpars. (B) and (C) and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: “A grant shall be awarded under this subsection for a period of not less than 2, and not more than 5, fiscal years.”
+
+Subsec. (f)(4)(A). Pub. L. 112–34, §103(c)(2)(B), struck out “methamphetamine or other” before “substance abuse”.
+
+Subsec. (f)(6)(A)(iv), (v). Pub. L. 112–34, §103(c)(2)(D), added cls. (iv) and (v).
+
+Subsec. (f)(7). Pub. L. 112–34, §103(c)(2)(E), substituted “shall” for “shall—”, struck out subpar. (A) designation before “take”, substituted period for “; and” at end of cl. (iv), redesignated cls. (i) to (iv) of former subpar. (A) as subpars. (A) to (D), respectively, of par. (7) and realigned margins, and struck out subpar. (B) which read as follows: “after taking such factors into consideration, give greater weight to awarding grants to regional partnerships that propose to address methamphetamine abuse and addiction in the partnership region (alone or in combination with other drug abuse and addiction) and which demonstrate that methamphetamine abuse and addiction (alone or in combination with other drug abuse and addiction) is adversely affecting child welfare in the partnership region.”
+
+Subsec. (f)(7)(A)(i). Pub. L. 112–34, §103(c)(2)(B), struck out “methamphetamine or other” before “substance abuse”.
+
+Subsec. (f)(9)(B)(iii). Pub. L. 112–34, §103(c)(2)(B), struck out “methamphetamine or other” before “substance abuse”.
+
+Subsec. (f)(10). Pub. L. 112–34, §103(c)(2)(F), added par. (10).
 
 <b>2008</b>—Subsec. (c)(3). Pub. L. 110–246, §4002(b)(1)(D), (2)(V), substituted “supplemental nutrition assistance program benefits” for “food stamp”.
 
@@ -267,6 +301,10 @@ Subsec. (c)(2). Pub. L. 109–288, §6(f)(5), substituted “section 623” for 
 Subsec. (e). Pub. L. 109–288, §4(b)(2)(B)(ii), substituted “subsection (a)” for “this section”.
 
 Subsec. (f). Pub. L. 109–288, §4(b)(2)(A), added subsec. (f).
+
+#### Effective Date of 2011 Amendment
+
+Amendment by Pub. L. 112–34 effective Oct. 1, 2011, and applicable to payments under this part and part E of this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meetadditional requirements, see section 107 of Pub. L. 112–34, set out as a note under section 622 of this title.
 
 #### Effective Date of 2008 Amendment
 

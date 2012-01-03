@@ -28,7 +28,7 @@ The programs described in subsection (b) of this section should, to the extent f
 
 United States assistance authorized by subsection (a) of this section may not be provided unless the President certifies to the Congress, on an annual basis, that the proposed recipient country is committed to—
 
-&emsp;(1) making a substantial investment of its resources for dismantling or destroying such weapons of mass destruction, if such recipient has an obligation under a treaty or otheragreement to destroy or dismantle any such weapons;
+&emsp;(1) making a substantial investment of its resources for dismantling or destroying such weapons of mass destruction, if such recipient has an obligation under a treaty or other agreement to destroy or dismantle any such weapons;
 
 &emsp;(2) forgoing any military modernization program that exceeds legitimate defense requirements and forgoing the replacement of destroyed weapons of mass destruction;
 

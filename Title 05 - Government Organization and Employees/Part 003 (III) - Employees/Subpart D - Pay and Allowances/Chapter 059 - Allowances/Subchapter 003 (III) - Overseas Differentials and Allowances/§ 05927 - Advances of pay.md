@@ -28,7 +28,7 @@ Sections 303, 311, and 408 of the Foreign Service Act of 1980, referred to in su
 
 #### Amendments
 
-2002—Subsec. (a)(3). Pub. L. 107–228, §320(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “to a foreign national employee appointed under section 303 of the Foreign Service Act of 1980, or a nonfamily member United States citizen appointed under such section 303 (and employed under section 311 of such Act) for service at such nonfamily member's post of residence, who—
+<b>2002</b>—Subsec. (a)(3). Pub. L. 107–228, §320(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “to a foreign national employee appointed under section 303 of the Foreign Service Act of 1980, or a nonfamily member United States citizen appointed under such section 303 (and employed under section 311 of such Act) for service at such nonfamily member's post of residence, who—
 
 &emsp;“(A) is located outside the country of employment of such foreign national employee or nonfamily member (as the case may be) pursuant to Government authorization; and
 
@@ -36,7 +36,7 @@ Sections 303, 311, and 408 of the Foreign Service Act of 1980, referred to in su
 
 Subsec. (b). Pub. L. 107–228, §320(2), substituted “hired” for “appointed”.
 
-1999—Pub. L. 106–113 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “Up to three months’ pay may be paid in advance to an employee upon the assignment of the employee to a post in a foreign area.”
+<b>1999</b>—Pub. L. 106–113 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “Up to three months’ pay may be paid in advance to an employee upon the assignment of the employee to a post in a foreign area.”
 
 #### Effective Date
 

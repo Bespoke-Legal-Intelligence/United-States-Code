@@ -76,7 +76,7 @@ Effective October 1, 1979, the aggregate principal amount of loans under the pro
 
 &emsp;&emsp;&emsp;(i) beginning on August 1 of each fiscal year, the Secretary shall use available unsubsidized guaranteed farm operating loan funds to provide direct farm ownership loans approved by the Secretary to qualified beginning farmers and ranchers under the down payment loan program established under section 1935 of this title, if sufficient direct farm ownership loan funds are not otherwise available; and
 
-&emsp;&emsp;&emsp;(ii) beginning on September 1 of each fiscal year, the Secretary shall use available unsubsidized guaranteed farm operating loan funds to provide direct farm ownership loans approved by the Secretary to qualified beginning farmers and ranchers, if sufficient direct farm ownership loan funds are not otherwise available.
+&emsp;&emsp;&emsp;(ii) beginning on September 1 of each fiscal year, the Secretary shall use available unsubsidized guaranteed farm operating loan funds to provide direct farm ownership loans approved by the Secretary toqualified beginning farmers and ranchers, if sufficient direct farm ownership loan funds are not otherwise available.
 
 #### (B) Limitation
 
@@ -90,7 +90,7 @@ Effective October 1, 1979, the aggregate principal amount of loans under the pro
 
 #### (B) Supplemental appropriations
 
-&emsp;&emsp;The transfer authority provided under subparagraph (A) shall not apply to any fundsmade available to the Secretary for any fiscal year under an Act making supplemental appropriations.
+&emsp;&emsp;The transfer authority provided under subparagraph (A) shall not apply to any funds made available to the Secretary for any fiscal year under an Act making supplemental appropriations.
 
 #### (C) Limitation
 
@@ -118,7 +118,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (b)(1). Pub. L. 110–246, §5303(1), substituted “$4,226,000,000 for each of fiscal years 2008 through 2012” for “$3,796,000,000 for each of fiscal years 2003 through 2007” in introductory provisions.
+<b>2008</b>—Subsec. (b)(1). Pub. L. 110–246, §5303(1), substituted “$4,226,000,000 for each of fiscal years 2008 through 2012” for “$3,796,000,000 for each of fiscal years 2003 through 2007” in introductory provisions.
 
 Subsec. (b)(1)(A). Pub. L. 110–246, §5303(2), in introductory provisions, substituted “$1,200,000,000” for “$770,000,000”, in cl. (i), substituted “$350,000,000” for “$205,000,000”, and, in cl. (ii), substituted “$850,000,000” for “$565,000,000”.
 
@@ -128,37 +128,37 @@ Subsec. (b)(2)(A)(ii)(III). Pub. L. 110–246, §5302(b)(1)(B), substituted “2
 
 Subsec. (b)(2)(B)(i). Pub. L. 110–246, §5302(b)(2), substituted “an amount that is not less than 40 percent of the total amount” for “25 percent”.
 
-2002—Subsec. (b)(1). Pub. L. 107–171, §5311, reenacted heading without change and amended text generally. Prior to amendment, text related to guaranteed loans under subchapters I and II of this chapter from the Agricultural Credit Insurance Fund provided for in section 1929 of this title for fiscal years 1996 to 2002.
+<b>2002</b>—Subsec. (b)(1). Pub. L. 107–171, §5311, reenacted heading without change and amended text generally. Prior to amendment, text related to guaranteed loans under subchapters I and II of this chapter from the Agricultural Credit Insurance Fund provided for in section 1929 of this title for fiscal years 1996 to 2002.
 
 Subsec. (b)(2)(A)(ii)(III). Pub. L. 107–171, §5312, substituted “2003 through 2007” for “2000 through 2002”.
 
-1996—Subsec. (a). Pub. L. 104–127, §641(1), in second sentence, struck out “with or without authority for the Secretary to transfer amounts between such categories within a given program for more effective administration” before period at end.
+<b>1996</b>—Subsec. (a). Pub. L. 104–127, §641(1), in second sentence, struck out “with or without authority for the Secretary to transfer amounts between such categories within a given program for more effective administration” before period at end.
 
 Subsec. (b). Pub. L. 104–127, §641(2), added subsec. (b) and struck out former subsec. (b), which set forth maximum amounts for direct and guaranteed loans under the Agricultural Credit Insurance Fund for fiscal years 1991 to 1995.
 
-1992—Subsec. (b)(2). Pub. L. 102–554, §20(b), inserted sentence at end.
+<b>1992</b>—Subsec. (b)(2). Pub. L. 102–554, §20(b), inserted sentence at end.
 
 Subsec. (b)(3)(D) to (G). Pub. L. 102–554, §20(c), (d), added subpars. (D) to (G).
 
 Subsec. (b)(5), (6). Pub. L. 102–554, §20(a), (e), added pars. (5) and (6).
 
-1991—Subsec. (b). Pub. L. 102–237, §702(i), repealed Pub. L. 101–624, §2388(i). See 1990 Amendment note below.
+<b>1991</b>—Subsec. (b). Pub. L. 102–237, §702(i), repealed Pub. L. 101–624, §2388(i). See 1990 Amendment note below.
 
 Subsec. (b)(3)(C). Pub. L. 102–237, §701(h)(1)(F), substituted “this chapter” for “this Act” in two places.
 
-1990—Subsec. (b). Pub. L. 101–624, §2388(i), which amended subsec. (b), in par. (1)(B), by striking “subparagraph (C)” and inserting “paragraph (3)”; in par. (1)(C), by striking “subparagraph (A)” and inserting “paragraph (1)”; by redesignating pars. (1)(A), (B), (C),\(D)(i), and (E) as (1), (2), (3), (4), and (5), respectively; in par. (2), by redesignating cls. (i), (ii), and (iii) as subpars. (A), (B), and (C), respectively; in subpars. (A) to (C) of par. (2), by redesignating subcls. (I) and (II) as cls. (i) and (ii), respectively; and in par. (5), by redesignating cls. (i), (ii), and (iii) as subpars. (A), (B), and (C), respectively, was repealed by Pub. L. 102–237, §702(i). See Construction of 1990 Amendment note below.
+<b>1990</b>—Subsec. (b). Pub. L. 101–624, §2388(i), which amended subsec. (b), in par. (1)(B), by striking “subparagraph (C)” and inserting “paragraph (3)”; in par. (1)(C), by striking “subparagraph (A)” and inserting “paragraph (1)”; by redesignating pars. (1)(A), (B), (C), (D)(i), and (E) as (1), (2), (3), (4), and (5), respectively; in par. (2), by redesignating cls. (i), (ii), and (iii) as subpars. (A), (B), and (C), respectively; in subpars. (A) to (C) of par. (2), by redesignating subcls. (I) and (II) as cls. (i) and (ii), respectively; and in par. (5), by redesignating cls. (i), (ii), and (iii) as subpars. (A), (B), and (C), respectively, was repealed by Pub. L. 102–237, §702(i). See Construction of 1990 Amendment note below.
 
 Pub. L. 101–508, §1202(a), amended subsec. (b) generally, substituting present provisions for provisions relating to maximum amounts for loans under the Agricultural Credit Insurance Fund and the Rural Development Insurance Fund for fiscal years 1986 through 1988.
 
-1985—Subsec. (b). Pub. L. 99–198, §1317(a), amended subsec. (b) generally, substituting provisions setting maximum amounts for loans under the Agricultural Credit Insurance Fund and the Rural Development Insurance Fund for each of fiscal years ending September 30, 1986, through September 30, 1988, for provisions setting such amounts for each of fiscal years 1980, 1981, and 1982.
+<b>1985</b>—Subsec. (b). Pub. L. 99–198, §1317(a), amended subsec. (b) generally, substituting provisions setting maximum amounts for loans under the Agricultural Credit Insurance Fund and the Rural Development Insurance Fund for each of fiscal years ending September 30, 1986, through September 30, 1988, for provisions setting such amounts for each of fiscal years 1980, 1981, and 1982.
 
 Subsecs. (d), (e). Pub. L. 99–198, §1317, struck out subsec. (d) which authorized special amounts for fiscal year 1982, redesignated subsec. (e) as (d), and in par. (1) substituted “25 per centum” for “20 per centum” wherever appearing and “each fiscal year” for “fiscal year 1984”.
 
-1984—Subsec. (e). Pub. L. 98–258 added subsec. (e).
+<b>1984</b>—Subsec. (e). Pub. L. 98–258 added subsec. (e).
 
-1981—Subsec. (d). Pub. L. 97–35 added subsec. (d).
+<b>1981</b>—Subsec. (d). Pub. L. 97–35 added subsec. (d).
 
-1980—Pub. L. 96–438 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
+<b>1980</b>—Pub. L. 96–438 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
 #### Effective Date of 2008 Amendment
 

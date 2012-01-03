@@ -16,7 +16,7 @@ Except as provided in subsection (c) of this section, no institution shall accep
 
 #### (c) Authorization for special ratio limit; foreign banks
 
-The Board, under such conditions as it may prescribe, may authorize, by regulation or order, any institution to accept such bills, or be obligated for a participation share in such bills, in an amount not exceeding at any time in the aggregate 200 per centum of its paid up and unimpaired capital stock and surplus or, in the caseof a United States branch or agency of a foreign bank, its dollar equivalent as determined by the Board under subsection (h) of this section.
+The Board, under such conditions as it may prescribe, may authorize, by regulation or order, any institution to accept such bills, or be obligated for a participation share in such bills, in an amount not exceeding at any time in the aggregate 200 per centum of its paid up and unimpaired capital stock and surplus or, in the case of a United States branch or agency of a foreign bank, its dollar equivalent as determined by the Board under subsection (h) of this section.
 
 #### (d) Ratio limit for domestic transactions
 
@@ -42,7 +42,7 @@ Any limitation or restriction in this section based on paid-up and unimpaired ca
 
 #### References in Text
 
-Section 3105 of this title, referred to in subsec. (a), was in the original a reference to section 7 of the International Banking Act of 1978, Pub. L. 95–369, Sept. 17, 1978, 92 Stat. 620, which enacted 3105 of this title and amended section 13 of the Federal Reserve Act (12 U.S.C. 347d).
+Section 3105 of this title, referred to in subsec. (a), was in the original a reference to section 7 of the International Banking Act of 1978, Pub. L. 95–369, Sept. 17, 1978, 92 Stat. 620, which enacted sections 347d and 3105 of this title.
 
 #### Codification
 
@@ -52,7 +52,7 @@ The seventh par. of section 13 of the Federal Reserve Act \[this section\] as am
 
 #### Amendments
 
-1982—Subsec. (a). Pub. L. 97–290 designated first sentence of existing provisions as subsec. (a), inserted reference to foreign banks and their subdivisions, further designated the specifications for drafts or bills as cl. (i)–(iii), and in cl. (ii) as so designated, struck out requirement that shipping documents conveying or securing title be attached at acceptance.
+<b>1982</b>—Subsec. (a). Pub. L. 97–290 designated first sentence of existing provisions as subsec. (a), inserted reference to foreign banks and their subdivisions, further designated the specifications for drafts or bills as cl. (i)–(iii), and in cl. (ii) as so designated, struck out requirement that shipping documents conveying or securing title be attached at acceptance.
 
 Subsec. (b). Pub. L. 97–290 designated second independent clause of second sentence of existing provisions as subsec. (b), substituted “no institution shall accept such bills, or be obligated for a participation share in such bills, in an amount equal at any time in the aggregate to more than 150 per centum of its paid up and unimpaired capital stock and surplus” for “no bank shall accept such bills to an amount equal at any time in the aggregate to more than one-half of its paid-up and unimpaired capital stock and surplus” and inserted provisions relating to a United States branch or agency of a foreign bank.
 

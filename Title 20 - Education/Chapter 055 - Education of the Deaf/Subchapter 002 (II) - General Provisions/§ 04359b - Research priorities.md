@@ -6,7 +6,7 @@ Gallaudet University and the National Technical Institute for the Deaf shall eac
 
 #### (b) Research reports
 
-The University and NTID shall each prepare and submit an annual research report, to the Secretary, the Committee on Education and Labor of the House of Representatives, and the Committee on Health, Education, Labor, and Pensions of the Senate, not later than January 10 of each year, that shall include—
+The University and NTID shall each prepare and submit an annual research report, to the Secretary, the Committee on Education and Labor of the House of Representatives, and theCommittee on Health, Education, Labor, and Pensions of the Senate, not later than January 10 of each year, that shall include—
 
 &emsp;(1) a summary of the public input received as part of the establishment and dissemination of priorities required by subsection (a) of this section, and the University's and NTID's response to the input; and
 
@@ -23,6 +23,10 @@ Another prior section 210 of title II of Pub. L. 99–371, formerly title IV, §
 #### Amendments
 
 <b>2008</b>—Subsec. (b). Pub. L. 110–315 substituted “Committee on Education and Labor of the House of Representatives, and the Committee on Health, Education, Labor, and Pensions of the Senate” for “Committee on Education and the Workforce of the House of Representatives, and the Committee on Labor and Human Resources of the Senate”.
+
+#### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Effective Date
 

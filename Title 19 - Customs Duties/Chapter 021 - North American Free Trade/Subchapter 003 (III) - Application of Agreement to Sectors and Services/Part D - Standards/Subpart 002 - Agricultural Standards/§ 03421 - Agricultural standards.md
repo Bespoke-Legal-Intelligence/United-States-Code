@@ -68,7 +68,7 @@
 
 &emsp;&emsp;(B) any change in the level or types of inspections of imports in each NAFTA country during the prior year;
 
-&emsp;&emsp;(C) in any case in which the Secretary has determined that the inspection system of another NAFTA country is equivalent to the inspection system of the United States, the reasons supporting the determination of the Secretary;
+&emsp;&emsp;(C) in any case in which the Secretary has determined that the inspection system of another NAFTA country is equivalent to theinspection system of the United States, the reasons supporting the determination of the Secretary;
 
 &emsp;&emsp;(D) the incidence of violations of inspection requirements by imports from NAFTA countries during the prior year—
 

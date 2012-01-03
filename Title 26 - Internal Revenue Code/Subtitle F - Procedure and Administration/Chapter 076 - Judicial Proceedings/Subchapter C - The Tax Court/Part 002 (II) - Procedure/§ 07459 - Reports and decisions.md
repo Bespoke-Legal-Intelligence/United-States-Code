@@ -62,7 +62,7 @@ Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning 
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1306(b)(2) of Pub. L. 94–455 applicable with respect to pleadings filed with the United States Tax Court, the district court of the United States for the District of Columbia, or the United States Court of Claims more than 6 months after Oct. 4, 1976 but only with respect to determinations (or requests for determinations) made after Jan. 1, 1976, see section 1306(c) of Pub. L. 94–455, set out as an Effective Date note under section 7428 of this title.
+Amendment by section 1306(b)(2) of Pub. L. 94–455 applicable with respect to pleadings filed with the United States Tax Court, the district court of the United States for the District of Columbia, or the UnitedStates Court of Claims more than 6 months after Oct. 4, 1976 but only with respect to determinations (or requests for determinations) made after Jan. 1, 1976, see section 1306(c) of Pub. L. 94–455, set out as an Effective Date note under section 7428 of this title.
 
 #### Effective Date of 1974 Amendment
 

@@ -68,7 +68,7 @@ Staff.—The Board shall be supported by a staff consisting of one full-time off
 
 Relationship to Service Reserve Policy Committees and Boards.—This section does not affect the committees and boards prescribed within the military departments by sections 10302 through 10305 of this title, and a member of such a committee or board may, if otherwise eligible, be a member of the Board.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1661(b)(1), Oct. 5, 1994, 108 Stat. 2980; amendedPub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title V, §515(b)(1)(CC), Jan. 6, 2006, 119 Stat. 3233; Pub. L. 111–383, div. A, title V, §514(a)(1), Jan. 7, 2011, 124 Stat. 4211.)
+(Added Pub. L. 103–337, div. A, title XVI, §1661(b)(1), Oct. 5, 1994, 108 Stat. 2980; amended Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title V, §515(b)(1)(CC), Jan. 6, 2006, 119 Stat. 3233; Pub. L. 111–383, div. A, title V, §514(a)(1), Jan. 7, 2011, 124 Stat. 4211.)
 
 #### Prior Provisions
 

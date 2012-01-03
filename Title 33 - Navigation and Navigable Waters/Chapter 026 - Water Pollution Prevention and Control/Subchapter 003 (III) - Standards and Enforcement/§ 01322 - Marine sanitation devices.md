@@ -30,7 +30,7 @@ For the purpose of this section, the term—
 
 &emsp;&emsp;(A) means a discharge, including—
 
-&emsp;&emsp;&emsp;(i) graywater, bilge water, cooling water, weather deck runoff, ballast water, oil water separator effluent, and any other pollutant discharge from the operation of a marine propulsion system, shipboard maneuvering system, crew habitability system, or installed major equipment, such as an aircraft carrier elevator or a catapult,or from a protective, preservative, or absorptive application to the hull of the vessel; and
+&emsp;&emsp;&emsp;(i) graywater, bilge water, cooling water, weather deck runoff, ballast water, oil water separator effluent, and any other pollutant discharge from the operation of a marine propulsion system, shipboard maneuvering system, crew habitability system, or installed major equipment, such as an aircraft carrier elevator or a catapult, or from a protective, preservative, or absorptive application to the hull of the vessel; and
 
 &emsp;&emsp;&emsp;(ii) a discharge in connection with the testing, maintenance, and repair of a system described in clause (i) whenever the vessel is waterborne; and
 
@@ -56,7 +56,7 @@ For the purpose of this section, the term—
 
 #### (b) Federal standards of performance
 
-(1) As soon as possible, after October 18, 1972, and subject to the provisions of section 1254(j) of this title, the Administrator, after consultation with the Secretary of the department in which the Coast Guard is operating, after giving appropriate consideration to the economic costs involved, and within the limits of available technology, shall promulgate Federal standards of performance for marine sanitation devices (hereafter in this section referred to as “standards”) which shall be designed to prevent the discharge of untreated or inadequately treated sewage into or upon the navigable waters from new vessels and existing vessels, except vessels not equipped with installed toilet facilities. Such standards and standards established under subsection (c)(1)(B) of this section shall be consistent with maritime safety and the marine and navigation laws and regulations and shall be coordinated with the regulations issued under this subsection by the Secretary of the department in which the Coast Guard is operating. The Secretary of the department in which the Coast Guard is operating shall promulgate regulations, which are consistent with standards promulgated under this subsection and subsection (c) of this section and with maritime safety and the marine and navigation laws and regulations governing the design, construction, installation, and operation of any marine sanitation device on board such vessels.
+(1) As soon as possible, after October 18, 1972, and subject to the provisions of section 1254(j) of this title, the Administrator, after consultation with the Secretary of the department in which the Coast Guard is operating, after giving appropriate consideration to the economic costs involved, and within the limits of available technology, shall promulgate Federal standards of performance for marine sanitation devices (hereafter in this section referred to as “standards”) which shall be designed to prevent the discharge of untreated or inadequately treated sewage into or upon the navigable waters from new vessels and existing vessels, except vessels not equipped with installed toilet facilities. Such standards and standards established under subsection (c)(1)(B) of this section shall be consistent with maritime safety and the marine and navigation laws and regulations and shall be coordinated with the regulations issued under this subsection by the Secretary of the department in which the Coast Guard is operating. The Secretary of the department in which the Coast Guard is operating shall promulgate regulations, which are consistent with standards promulgated under this subsection and subsection (c) of this section and with maritime safety andthe marine and navigation laws and regulations governing the design, construction, installation, and operation of any marine sanitation device on board such vessels.
 
 (2) Any existing vessel equipped with a marine sanitation device on the date of promulgation of initial standards and regulations under this section, which device is in compliance with such initial standards and regulations, shall be deemed in compliance with this section until such time as the device is replaced or is found not to be in compliance with such initial standards and regulations.
 
@@ -74,7 +74,7 @@ The provisions of this section and the standards and regulations promulgated her
 
 #### (e) Pre-promulgation consultation
 
-Before the standards and regulations under this section are promulgated, the Administrator and the Secretary of the department in which the Coast Guard is operating shall consult with the Secretary of State; the Secretary of Health and Human Services; the Secretary of Defense; the Secretary of the Treasury; the Secretary ofCommerce; other interested Federal agencies; and the States and industries interested; and otherwise comply with the requirements of section 553 of title 5.
+Before the standards and regulations under this section are promulgated, the Administrator and the Secretary of the department in which the Coast Guard is operating shall consult with the Secretary of State; the Secretary of Health and Human Services; the Secretary of Defense; the Secretary of the Treasury; the Secretary of Commerce; other interested Federal agencies; and the States and industries interested; and otherwise comply with the requirements of section 553 of title 5.
 
 #### (f) Regulation by States or political subdivisions thereof; complete prohibition upon discharge of sewage
 
@@ -266,7 +266,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 #### (ii) Approval or disapproval
 
-&emsp;&emsp;&emsp;The Administrator shall approve or disapprove an application submitted under clause (i) not later than 90 days after the date on which the application is submitted to the Administrator. Notwithstanding clause (i)(II), the Administrator shall not disapprove an application for the sole reason that there are not adequate facilities to remove any discharge incidental to the normal operation of a vessel from vessels of the Armed Forces.
+&emsp;&emsp;&emsp;The Administrator shall approve or disapprove an application submitted underclause (i) not later than 90 days after the date on which the application is submitted to the Administrator. Notwithstanding clause (i)(II), the Administrator shall not disapprove an application for the sole reason that there are not adequate facilities to remove any discharge incidental to the normal operation of a vessel from vessels of the Armed Forces.
 
 #### (C) Applicability to foreign flagged vessels
 
@@ -402,7 +402,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 #### (6) Prohibition relating to recreational vessels
 
-&emsp;After the effective date of the regulations promulgated by the Secretary of the department in which the Coast Guard is operating under paragraph (4), the owner or operator of a recreational vessel shall neither operate in nor discharge any discharge incidental to the normal operation of the vessel into, the watersof the United States or the waters of the contiguous zone, if the owner or operator of the vessel is not using any applicable management practice meeting standards established under this subsection.
+&emsp;After the effective date of the regulations promulgated by the Secretary of the department in which the Coast Guard is operating under paragraph (4), the owner or operator of a recreational vessel shall neither operate in nor discharge any discharge incidental to the normal operation of the vessel into, the waters of the United States or the waters of the contiguous zone, if the owner or operator of the vessel is not using any applicable management practice meeting standards established under this subsection.
 
 (June 30, 1948, ch. 758, title III, §312, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 871; amended Pub. L. 95–217, §59, Dec. 27, 1977, 91 Stat. 1596; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 100–4, title III, §311, Feb. 4, 1987, 101 Stat. 42; Pub. L. 104–106, div. A, title III, §325(b)–(c)(2), Feb. 10, 1996, 110 Stat. 254–259; Pub. L. 110–288, §4, July 29, 2008, 122 Stat. 2650.)
 
@@ -622,7 +622,7 @@ Issuance of Guidance.—Not later than 3 months after the date of the enactment 
 
 &emsp;“(5) guidance on the waters most likely to be affected by the discharge of sewage from vessels; and
 
-&emsp;“(6) other information that is considered necessary to promote the establishment of pumpout facilitiesto reduce sewage discharges from vessels and to protect United States waters.
+&emsp;“(6) other information that is considered necessary to promote the establishment of pumpout facilities to reduce sewage discharges from vessels and to protect United States waters.
 
 “(b)
 
@@ -676,7 +676,7 @@ Notification.—Not later than one month after the guidance issued under subsect
 
 &emsp;&emsp;“(B) leased, rented, or chartered to another for the latter's pleasure; and
 
-&emsp;“(8) ‘waste reception facility’ means a facility specifically designed to receive wastes from portable toilets carried on vessels, and does not include lavatories.”
+&emsp;“(8) ‘waste reception facility’ means a facility specifically designed to receive wastes from portabletoilets carried on vessels, and does not include lavatories.”
 
 #### Contiguous Zone of United States
 

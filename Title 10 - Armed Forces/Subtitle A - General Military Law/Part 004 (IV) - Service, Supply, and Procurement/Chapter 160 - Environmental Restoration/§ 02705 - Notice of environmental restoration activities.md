@@ -46,7 +46,7 @@ Technical Assistance.—(1) The Secretary may, upon the request of the technical
 
 (2) The commander of an installation (or, if there is no such commander, an appropriate official of the Department of Defense designated by the Secretary) may obtain technical assistance under paragraph (1) for a technical review committee or restoration advisory board only if—
 
-&emsp;(A) the technical review committee or restoration advisory board demonstrates that the Federal, State, and local agencies responsible for overseeing environmental restoration at the installation, and available Department of Defense personnel, do not have the technicalexpertise necessary for achieving the objective for which the technical assistance is to be obtained; or
+&emsp;(A) the technical review committee or restoration advisory board demonstrates that the Federal, State, and local agencies responsible for overseeing environmental restoration at the installation, and available Department of Defense personnel, do not have the technical expertise necessary for achieving the objective for which the technical assistance is to be obtained; or
 
 &emsp;(B) the technical assistance—
 
@@ -126,7 +126,7 @@ Pub. L. 108–136, div. A, title III, §317(a), Nov. 24, 2003, 117 Stat. 1432, p
 
 &emsp;“(3) Timely notice of each meeting of a restoration advisory board shall be published in a local newspaper of general circulation.
 
-&emsp;“(4) Interested persons may appear before or file statements with a restoration advisory board, subjectto such reasonable restrictions as the Secretary may prescribe.
+&emsp;“(4) Interested persons may appear before or file statements with a restoration advisory board, subject to such reasonable restrictions as the Secretary may prescribe.
 
 &emsp;“(5) Subject to section 552 of title 5, United States Code, the records, reports, minutes, appendixes, working papers, drafts, studies, agenda, or other documents that were made available to, prepared for, or prepared by each restoration advisory board shall be available for public inspection and copying at a single, publicly accessible location, such as a public library or an appropriate office of the military installation for which the restoration advisory board is established, at least until the restoration advisory board is terminated.
 

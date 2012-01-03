@@ -32,7 +32,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) the prospective borrower may qualify for loans or other assistance under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the terms and conditions of loans made, insured, or guaranteed under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42 may be more favorable than the provisions of private education loans; and
+&emsp;&emsp;&emsp;&emsp;(II) the terms and conditions of loans made, insured, or guaranteed under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42 maybe more favorable than the provisions of private education loans; and
 
 &emsp;&emsp;&emsp;(iii) ensure that information regarding private education loans is presented in such a manner as to be distinct from information regarding loans that are made, insured, or guaranteed under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42.
 

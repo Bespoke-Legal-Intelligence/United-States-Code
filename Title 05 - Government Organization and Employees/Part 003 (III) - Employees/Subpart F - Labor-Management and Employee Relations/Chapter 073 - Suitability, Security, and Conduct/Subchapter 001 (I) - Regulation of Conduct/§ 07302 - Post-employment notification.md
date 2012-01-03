@@ -16,3 +16,5 @@ The date of the enactment of that Act, referred to in subsec. (a), is the date o
 
 Section effective on first day of first pay period beginning on or after Jan. 1, 2004, see section 1125(c)(1) of Pub. L. 108–136, set out as an Effective Date of 2003 Amendment note under section 5304 of this title.
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

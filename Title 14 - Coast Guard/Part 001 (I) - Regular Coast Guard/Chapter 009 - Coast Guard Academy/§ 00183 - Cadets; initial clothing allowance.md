@@ -14,5 +14,5 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### Amendments
 
-1951—Act Aug. 22, 1951, substituted provision that the Secretary may prescribe the sum to be credited for the former prescribed sum of $250, and inserted second sentence.
+<b>1951</b>—Act Aug. 22, 1951, substituted provision that the Secretary may prescribe the sum to be credited for the former prescribed sum of $250, and inserted second sentence.
 

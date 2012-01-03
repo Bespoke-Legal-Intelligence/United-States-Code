@@ -8,7 +8,7 @@ The Secretary, acting through the Administrator of the Health Resources and Serv
 
 The Secretary shall require each recipient of a grant under this section to use the grant to recruit, assign, train, and employ patient navigators who have direct knowledge of the communities they serve to facilitate the care of individuals, including by performing each of the following duties:
 
-&emsp;(1) Acting as contacts, including by assisting in the coordination of health care services and provider referrals, for individuals who are seeking prevention or early detection services for, or who following a screening or early detection service are found to have a symptom, abnormal finding, or diagnosis of, cancer or other chronic disease.
+&emsp;(1) Acting as contacts, including by assisting in the coordination of health care services and provider referrals, for individuals who areseeking prevention or early detection services for, or who following a screening or early detection service are found to have a symptom, abnormal finding, or diagnosis of, cancer or other chronic disease.
 
 &emsp;(2) Facilitating the involvement of community organizations in assisting individuals who are at risk for or who have cancer or other chronic diseases to receive better access to high-quality health care services (such as by creating partnerships with patient advocacy groups, charities, health care centers, community hospice centers, other health care providers, or other organizations in the targeted community).
 
@@ -124,7 +124,7 @@ In this section:
 
 #### Prior Provisions
 
-A prior section 256a, act July 1, 1944, ch. 373, title III, §340A, as added Nov. 6, 1990, Pub. L. 101–527, §3, 104 Stat.2314; amended Oct. 27, 1992, Pub. L. 102–531, title III, §309(d), 106 Stat. 3502, related to health services for residents of public housing, prior to repeal by Pub. L. 104–299, §§4(a)(3), 5, Oct. 11, 1996, 110 Stat. 3645, effective Oct. 1, 1996.
+A prior section 256a, act July 1, 1944, ch. 373, title III, §340A, as added Nov. 6, 1990, Pub. L. 101–527, §3, 104 Stat. 2314; amended Oct. 27, 1992, Pub. L. 102–531, title III, §309(d), 106 Stat. 3502, related to health services for residents of public housing, prior to repeal by Pub. L. 104–299, §§4(a)(3), 5, Oct. 11, 1996, 110 Stat. 3645, effective Oct. 1, 1996.
 
 Another prior section 256a, act July 1, 1944, ch. 373, title III, §340A, as added Nov. 10, 1978, Pub. L. 95–626, title I, §106(a), 92 Stat. 3560, related to technical assistance demonstration grants and contracts, prior to repeal by Pub. L. 100–77, title VI, §601, July 22, 1987, 101 Stat. 511.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary is authorized to make insured loans under this subchapter and at the interest rates hereinafter provided to the full extent of the assets available in the fund, subject only to limitations as to amounts authorized for loans and advances as may be from time to time imposed by the Congress of the United States for loans to be made in any one year, which amounts shall remain available until expended: <i>Provided</i>, That the Congress in the annual appropriation Act may also authorize the transfer of any excess cash in the fund for deposit into the Treasury as miscellaneous receipts: <i>And provided further</i>, That any such loans and advances shall not be included in the totals of the budget of the United States Government and shall be exempt from any general limitation imposed by statute on expenditures and net lending (budget outlays) of the United States.
+The Secretary is authorized to make insured loans under this subchapter and at the interest rates hereinafter provided to the full extent of the assets available in the fund, subject only to limitations as to amounts authorized for loans and advances as may be from time to time imposed by the Congress of the United States for loans to be made in any one year, which amounts shall remain available until expended: <i>Provided</i>, That the Congress in the annual appropriation Act may also authorize the transfer of any excess cash in the fund for deposit into the Treasury as miscellaneous receipts: <i>And provided further</i>, That any such loans and advances shall not be included in the totals of the budget of theUnited States Government and shall be exempt from any general limitation imposed by statute on expenditures and net lending (budget outlays) of the United States.
 
 #### (b) Insured loans
 
@@ -66,7 +66,7 @@ Loans made under this section shall be insured by the Secretary when purchased b
 
 #### (iii) Exception
 
-&emsp;&emsp;&emsp;Clause (ii) shall not apply to a loan to be made to an applicant for the purpose of furnishing or improving electric service to consumers located in an urban area (as defined by the Bureau of the Census) if the average number of consumers per mile of line of the total electric system of the applicant exceeds 17.
+&emsp;&emsp;&emsp;Clause (ii) shall not apply to a loan to be made to an applicant for the purpose offurnishing or improving electric service to consumers located in an urban area (as defined by the Bureau of the Census) if the average number of consumers per mile of line of the total electric system of the applicant exceeds 17.
 
 #### (C) Loan term
 
@@ -178,9 +178,9 @@ Loans made under this section shall be insured by the Secretary when purchased b
 
 #### Amendments
 
-1994—Pub. L. 103–354 substituted “Secretary” for “Administrator” in heading for subsec. (c)(2)(C)(ii)(II) and wherever appearing in text.
+<b>1994</b>—Pub. L. 103–354 substituted “Secretary” for “Administrator” in heading for subsec. (c)(2)(C)(ii)(II) and wherever appearing in text.
 
-1993—Pub. L. 103–129, §2(c)(6)(A), amended section catchline generally.
+<b>1993</b>—Pub. L. 103–129, §2(c)(6)(A), amended section catchline generally.
 
 Subsec. (a). Pub. L. 103–129, §2(c)(6)(A), inserted heading.
 
@@ -194,11 +194,11 @@ Subsec. (c). Pub. L. 103–129, §2(a)(1)(C), added subsec. (c). Former subsec. 
 
 Subsec. (d). Pub. L. 103–129, §2(a)(1)(A), (C), added subsec. (d) and struck out former subsec. (d) which read as follows: “The Administrator shall make a telephone loan under this subchapter to an applicant therefor who is otherwise qualified to receive such a loan at the highest interest rate (but not less than the lowest interest rate, nor higher than the highest interest rate, specified in subsection (b) of this section) at which the borrower would be capable of producing net income or margins before interest payments of at least 100 percent (but not more than 150 percent) of the interest requirements on all of the applicant's outstanding and proposed loans.”
 
-1990—Subsec. (d). Pub. L. 101–624 added subsec. (d).
+<b>1990</b>—Subsec. (d). Pub. L. 101–624 added subsec. (d).
 
-1981—Subsec. (b). Pub. L. 97–35 substituted provisions establishing an interest rate at 5 per centum per annum and a lower rate, but not less than 2 per cent, under the enumerated criteria, for provisions establishing standard and special rates, with special rates applicable under enumerated criteria.
+<b>1981</b>—Subsec. (b). Pub. L. 97–35 substituted provisions establishing an interest rate at 5 per centum per annum and a lower rate, but not less than 2 per cent, under the enumerated criteria, for provisions establishing standard and special rates, with special rates applicable under enumerated criteria.
 
-1976—Subsec. (b). Pub. L. 94–570 struck out from introductory text “meets either of the following conditions” after “borrower which”; limited par. (1) to the telephone borrowers, substituting provision for an average subscriber density of three or fewer per mile at the end of the most recent calendar year ending at least six months before approval of the loan for prior provision for an average consumer or subscriber density of two or fewer per mile; substituted in par. (2) provision, limited to electric borrowers, respecting having an average consumer density of two or fewer per mile or an average adjusted plant revenue ratio of over 9.0 at end of the most recent calendar year ending at least six months before approval of the loan, determination of such ratio, and defining sum of distribution plant and general plant, gross revenue, and cost of power for prior provision for and average gross revenue per mile which is at least $450 below the average gross revenue per mile of REA-financed electric systems, in the case of electric borrowers, or at least $300 below the average gross revenue per mile of REA-financed telephone systems, in the case of telephone borrowers; and inserted in proviso of par. (2) “to a telephone or electric borrower” after “make a loan”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–570 struck out from introductory text “meets either of the following conditions” after “borrower which”; limited par. (1) to the telephone borrowers, substituting provision for an average subscriber density of three or fewer per mile at the end of the most recent calendar year ending at least six months before approval of the loan for prior provision for an average consumer or subscriber density of two or fewer per mile; substituted in par. (2) provision, limited to electric borrowers, respecting having an average consumer density of two or fewer per mile or an average adjusted plant revenue ratio of over 9.0 at end of the most recent calendar year ending at least six months before approval of the loan, determination of such ratio, and defining sum of distribution plantand general plant, gross revenue, and cost of power for prior provision for and average gross revenue per mile which is at least $450 below the average gross revenue per mile of REA-financed electric systems, in the case of electric borrowers, or at least $300 below the average gross revenue per mile of REA-financed telephone systems, in the case of telephone borrowers; and inserted in proviso of par. (2) “to a telephone or electric borrower” after “make a loan”.
 
 #### Effective Date of 1981 Amendment
 

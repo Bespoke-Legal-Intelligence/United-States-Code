@@ -52,7 +52,7 @@ There is established in the Treasury of the United States the following accounts
 
 #### (c) Purpose of FLAME Funds
 
-The FLAME Funds shall be available to cover the costs of large or complex wildfire events andas a reserve when amounts provided for wildfire suppression and Federal emergency response in the Wildland Fire Management appropriation accounts are exhausted.
+The FLAME Funds shall be available to cover the costs of large or complex wildfire events and as a reserve when amounts provided for wildfire suppression and Federal emergency response in the Wildland Fire Management appropriation accounts are exhausted.
 
 #### (d) Funding
 
@@ -90,7 +90,7 @@ The FLAME Funds shall be available to cover the costs of large or complex wildfi
 
 #### (4) Notice of insufficient funds
 
-&emsp;The Secretary concerned shall notify the relevant congressional committees if the Secretary estimates that only 60 days worth of funds remain in the FLAME Fund administered by that Secretary.
+&emsp;The Secretary concerned shall notify the relevant congressional committees if the Secretary estimates that only 60 days worth offunds remain in the FLAME Fund administered by that Secretary.
 
 #### (5) Transfer authority
 
@@ -130,7 +130,7 @@ For fiscal year 2011 and subsequent fiscal years, the Secretary concerned shall 
 
 #### (g) Prohibition on other transfers
 
-The Secretary concerned may not transfer funds from non-fire accounts to the WildlandFire Management appropriation account of that Secretary unless amounts in the FLAME Fund of that Secretary and any amounts appropriated to that Secretary for the purpose of wildfire suppression will be exhausted within 30 days.
+The Secretary concerned may not transfer funds from non-fire accounts to the Wildland Fire Management appropriation account of that Secretary unless amounts in the FLAME Fund of that Secretary and any amounts appropriated to that Secretary for the purpose of wildfire suppression will be exhausted within 30 days.
 
 #### (h) Accounting and reports
 

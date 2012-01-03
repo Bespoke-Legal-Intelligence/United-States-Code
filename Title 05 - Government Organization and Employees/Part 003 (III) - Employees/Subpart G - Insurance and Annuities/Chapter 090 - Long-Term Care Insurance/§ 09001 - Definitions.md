@@ -92,11 +92,11 @@ Section 7702B of the Internal Revenue Code of 1986, referred to in par. (9), is 
 
 #### Amendments
 
-2006—Par. (1)(E). Pub. L. 109–356 added subpar. (E).
+<b>2006</b>—Par. (1)(E). Pub. L. 109–356 added subpar. (E).
 
 Par. (10)(B). Pub. L. 109–241 substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
 
-2003—Par. (1). Pub. L. 108–136, §561(a), substituted a period for a comma at end of subpar. (D) and struck out concluding provisions which read: “but does not include an individual employed by the government of the District of Columbia (other than an employee of the District of Columbia Courts).”
+<b>2003</b>—Par. (1). Pub. L. 108–136, §561(a), substituted a period for a comma at end of subpar. (D) and struck out concluding provisions which read: “but does not include an individual employed by the government of the District of Columbia (other than an employee of the District of Columbia Courts).”
 
 Pub. L. 108–7 inserted “(other than an employee of the District of Columbia Courts)” before period at end of concluding provisions.
 
@@ -106,9 +106,9 @@ Par. (2)(C). Pub. L. 108–136, §561(b), added subpar. (C).
 
 Par. (4). Pub. L. 108–136, §561(c), substituted “and a member who has been transferred to the Retired Reserve and who would be entitled to retired pay under chapter 1223 of title 10 but for not having” for “including a member or former member retired under chapter 1223 of title 10 who has”.
 
-2002—Par. (1)(D). Pub. L. 107–314 added subpar. (D).
+<b>2002</b>—Par. (1)(D). Pub. L. 107–314 added subpar. (D).
 
-2001—Par. (2). Pub. L. 107–104 amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “The term ‘annuitant’ has the meaning such term would have under paragraph (3) of section8901 if, for purposes of such paragraph, the term ‘employee’ were considered to have the meaning given to it under paragraph (1) of this subsection.”
+<b>2001</b>—Par. (2). Pub. L. 107–104 amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “The term ‘annuitant’ has the meaning such term would have under paragraph (3) of section 8901 if, for purposes of such paragraph, the term ‘employee’ were considered to have the meaning given to it under paragraph (1) of this subsection.”
 
 Par. (3)(A). Pub. L. 107–107 substituted “or” for “and” after semicolon.
 

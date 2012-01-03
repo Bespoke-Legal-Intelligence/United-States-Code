@@ -6,5 +6,5 @@ The Assistant Secretary for Infrastructure Protection may establish a national t
 
 #### Amendments
 
-2007—Pub. L. 110–53 substituted “Assistant Secretary for Infrastructure Protection” for “Under Secretary for Information Analysis and Infrastructure Protection”.
+<b>2007</b>—Pub. L. 110–53 substituted “Assistant Secretary for Infrastructure Protection” for “Under Secretary for Information Analysis and Infrastructure Protection”.
 

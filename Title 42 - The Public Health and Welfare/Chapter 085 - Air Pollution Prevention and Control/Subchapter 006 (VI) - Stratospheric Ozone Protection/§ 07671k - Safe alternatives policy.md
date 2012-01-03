@@ -32,7 +32,7 @@ Any person may petition the Administrator to add a substance to the lists under 
 
 #### (e) Studies and notification
 
-The Administrator shall require any person who produces a chemical substitute for a class I substance to provide the Administrator with such person's unpublished health and safety studies on such substitute and require producers to notify the Administrator not less than 90 days before new or existing chemicals are introduced into interstate commerce for significantnew uses as substitutes for a class I substance. This subsection shall be subject to section 7414(c) of this title.
+The Administrator shall require any person who produces a chemical substitute for a class I substance to provide the Administrator with such person's unpublished health and safety studies on such substitute and require producers to notify the Administrator not less than 90 days before new or existing chemicals are introduced into interstate commerce for significant new uses as substitutes for a class I substance. This subsection shall be subject to section 7414(c) of this title.
 
 (July 14, 1955, ch. 360, title VI, §612, as added Pub. L. 101–549, title VI, §602(a), Nov. 15, 1990, 104 Stat. 2667.)
 

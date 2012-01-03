@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(A) a tax on or measured by income or gross receipts for a taxable year ending on or before the date of the filing of the petition—
 
-&emsp;&emsp;&emsp;(i) for which a return, if required, is last due, including extensions, after three years before the date of the filing of the petition;
+&emsp;&emsp;&emsp;(i) for which a return, if required, is last due, including extensions, after threeyears before the date of the filing of the petition;
 
 &emsp;&emsp;&emsp;(ii) assessed within 240 days before the date of the filing of the petition, exclusive of—
 
@@ -52,7 +52,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) any time during which a stay of proceedings against collections was in effect in a prior case under this title during that 240-day period, plus 90 days; or
 
-&emsp;&emsp;&emsp;(iii) other than a tax of a kind specified in section 523(a)(1)(B) or 523(a)(1)(C) of this title, not assessed before, but assessable,under applicable law or by agreement, after, the commencement of the case;
+&emsp;&emsp;&emsp;(iii) other than a tax of a kind specified in section 523(a)(1)(B) or 523(a)(1)(C) of this title, not assessed before, but assessable, under applicable law or by agreement, after, the commencement of the case;
 
 &emsp;&emsp;(B) a property tax incurred before the commencement of the case and last payable without penalty after one year before the date of the filing of the petition;
 
@@ -96,15 +96,15 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
-Section 507(a)(3) of the House amendment represents a compromise dollar amount and date for the priority between similar provisions contained in H.R. 8200 as passed by the House and the Senate amendments. A similar compromise is contained in section 507(a)(4).
+Section 507(a)(3) of the House amendment represents a compromise dollar amount and date for the prioritybetween similar provisions contained in H.R. 8200 as passed by the House and the Senate amendments. A similar compromise is contained in section 507(a)(4).
 
 Section 507(a)(5) represents a compromise on amount between the priority as contained in H.R. 8200 as passed by the House and the Senate amendment. The Senate provision for limiting the priority to consumers having less than a fixed gross income is deleted.
 
 Section 507(a)(6) of the House amendment represents a compromise between similar provisions contained in H.R. 8200 as passed by the House and the Senate amendment.
 
-Section 507(b) of the House amendment is new and is derived from the compromise contained in the House amendment with respect to adequate protection under section 361. Subsection (b) provides that to the extentadequate protection of the interest of a holder of a claim proves to be inadequate, then the creditor's claim is given priority over every other allowable claim entitled to distribution under section 507(a). Section 507(b) of the Senate amendment is deleted.
+Section 507(b) of the House amendment is new and is derived from the compromise contained in the House amendment with respect to adequate protection under section 361. Subsection (b) provides that to the extent adequate protection of the interest of a holder of a claim proves to be inadequate, then the creditor's claim is given priority over every other allowable claim entitled to distribution under section 507(a). Section 507(b) of the Senate amendment is deleted.
 
 Section 507(c) of the House amendment is new. Section 507(d) of the House amendment prevents subrogation with respect to priority for certain priority claims. Subrogation with respect to priority is intended to be permitted for administrative claims and claims arising during the gap period.
 
@@ -134,7 +134,7 @@ Third. Income and gross receipts taxes not assessed before the petition date but
 
 In light of the above categories of the sixth priority, and tax liability of the debtor (under the Internal Revenue Code \[title 26\] or State or local law) as a transferee of property from another person will receive sixth priority without the limitations contained in the Senate amendment so long as the transferee liability had not been assessed by the tax authority by the petition date but could still have been assessed by that date under the applicable tax statute of limitations or, if the transferee liability had been assessed before the petition, the assessment was made no more than 240 days before the petition date.
 
-Also in light of the above categories, the treatment of prepetition tax liabilities arising from an excessive allowance to the debtor of a tentative carryback adjustment, such as a “quickie refund” under section 6411 of the Internal Revenue Code \[title 26\] is revised as follows: If the tax authority has assessed the additional tax before the petition, the tax liability will receivepriority if the date of assessment was within 240 days before the petition date. If the tax authority had not assessed the additional tax by the petition, the tax liability will still receive priority so long as, on the petition date, assessment of the liability is not barred by the statute of limitations.
+Also in light of the above categories, the treatment of prepetition tax liabilities arising from an excessive allowance to the debtor of a tentative carryback adjustment, such as a “quickie refund” under section 6411 of the Internal Revenue Code \[title 26\] is revised as follows: If the tax authority has assessed the additional tax before the petition, the tax liability will receive priority if the date of assessment was within 240 days before the petition date. If the tax authority had not assessed the additional tax by the petition, the tax liability will still receive priority so long as, on the petition date, assessment of the liability is not barred by the statute of limitations.
 
 Fourth. Any property tax assessed before the commencement of the case and last payable without penalty within 1 year before the petition, or thereafter.
 
@@ -162,7 +162,7 @@ The House amendment deletes the express provision of the Senate amendment that a
 
 The House amendment deletes from the express priority categories of the Senate amendment the priority for a debtor's liability as a third party for failing to surrender property or to pay an obligation in response to a levy for taxes of another, and the priority for amounts provided for under deferred payment agreements between a debtor and the tax authority.
 
-The House amendment also adopts the substance of the definition in section 346(a) the Senate amendment of when taxes are to be considered “incurred” except that the House amendment applies these definitions solely for purposes of determining which category of section 507 tests the priority of a particular tax liability. Thus, for example, the House amendment contains a special rule for the treatment of taxes under the 45-day exception to the preference rules under section 547 and the definitions of when a tax is incurred for priority purposes are not to apply to such preference rules. Under the House amendment, for purposes of the priority rules, a tax on income for a particular period is to be considered “incurred” on the last day of the period. A tax on or measured by some event, such as the payment of wages or a transfer by reason of death or gift, or an excise tax on a sale or other transaction, is to be considered “incurred” on the date of the transaction or event.
+The House amendment also adopts the substance of the definition in section 346(a) the Senate amendmentof when taxes are to be considered “incurred” except that the House amendment applies these definitions solely for purposes of determining which category of section 507 tests the priority of a particular tax liability. Thus, for example, the House amendment contains a special rule for the treatment of taxes under the 45-day exception to the preference rules under section 547 and the definitions of when a tax is incurred for priority purposes are not to apply to such preference rules. Under the House amendment, for purposes of the priority rules, a tax on income for a particular period is to be considered “incurred” on the last day of the period. A tax on or measured by some event, such as the payment of wages or a transfer by reason of death or gift, or an excise tax on a sale or other transaction, is to be considered “incurred” on the date of the transaction or event.
 
 #### senate report no. 95–989
 
@@ -184,7 +184,7 @@ Employment taxes and transfer taxes (including gift, estate, sales, use and othe
 
 Priority is given to income taxes and other taxes of a kind described in section 507(a)(6)(A)(i) and (ii) which the Federal, State, or local tax authority had assessed within 3 years after the last due date of the return, that is, including any extension of time to file the return, if the debtor filed in title 11 within 240 days after the assessment was made (§507(a)(6)(B)(i)). This rule may bring into the sixth priority the debtor's tax liability for some taxable years which would not qualify for priority under the general three-year rule of section 507(a)(6)(A).
 
-The sixth priority category also includes taxes which the tax authority was barred by law from assessing or collecting at any time during the 300 days before the petition under title 11 was filed (§507(a)(6)(B)(ii)). In the case of certain Federal taxes, this preserves a priority for tax liabilities for years more than three years before the filing of the petition where the debtor and the Internal Revenue Service were negotiating over an audit of the debtor's returns or were engaged in litigation in the Tax Court. In such situations, the tax law prohibits the service's right to assess a tax deficiency until ninety days after the service sends the taxpayer a deficiency letter or, if the taxpayer files a petition in the Tax Court during that 90-day period, until the outcome of the litigation. A similar priority exists in present law, except that the taxing authority is allowed no time to assess and collect the taxes after the restrictions on assessment (discussed above) are lifted. Some taxpayers have exploited this loophole by filing in bankruptcy immediately after the end of the 90-day period or immediately after the close of Tax Court proceedings. The bill remedies this defect by preserving a priority for taxes the assessment of which was barred by law by giving the tax authority 300 days within which to make the assessment after the lifting of the bar and then to collect or file public notice of its tax lien. Thus, if a taxpayer files a title 11 petition at any time during that 300-day period, the tax deficiency will be entitled to priority. If the petition is filed more than 300 days after the restriction on assessment was lifted, the taxing authority will not have priority for the tax deficiency.
+The sixth priority category also includes taxes which the tax authority was barred by law from assessing or collecting at any time during the 300 days before the petition under title 11 was filed (§507(a)(6)(B)(ii)). In the case of certain Federal taxes, this preserves a priority for tax liabilities for years more than three years before the filing of the petition where the debtor and the Internal Revenue Service were negotiating over an audit of the debtor's returns or were engaged in litigation in the Tax Court. In such situations, the tax law prohibits the service's right to assess a tax deficiency until ninety days after the service sends the taxpayer a deficiency letter or, if the taxpayer files a petition in the Tax Court during that 90-day period, until the outcome of the litigation. A similar priority exists in present law, except that the taxing authority is allowed no time to assess and collect the taxes after the restrictions on assessment (discussed above) are lifted. Some taxpayers have exploited this loophole by filing in bankruptcy immediately after the end of the 90-day period or immediately after the close of Tax Court proceedings. The bill remedies this defect by preserving a priority for taxes the assessment of which was barred by law by giving the tax authority 300 days within which to make the assessment after the lifting of the bar and then to collect or file public notice of its tax lien. Thus, if a taxpayer files a title 11 petition at any time during that 300-day period, the tax deficiency will be entitled to priority. If the petition is filed more than 300 days after the restriction on assessment was lifted,the taxing authority will not have priority for the tax deficiency.
 
 Taxes for which an offer in compromise was withdrawn by the debtor, or rejected by a governmental unit, within 240 days before the petition date (§507(a)(6)(B)(iii)) will also receive sixth priority. This rule closes a loophole under present law under which, following an assessment of tax, some taxpayers have submitted a formal offer in compromise, dragged out negotiations with the taxing authority until the tax liability would lose priority under the three-year priority period of present law, and then filed in bankruptcy before the governmental unit could take collection steps.
 
@@ -214,7 +214,7 @@ Subsection (a) of this section also provides specifically that interest on sixth
 
 Subsection (b) of this section provides that any fine or penalty which represents compensation for actual pecuniary loss of a governmental unit, and which involves a tax liability entitled to sixth priority, is to receive the same priority.
 
-Subsection (b) also provides that a claim arising from an erroneous refund or credit of tax is to be given the same priority as the tax to which the refund or credit relates.
+Subsection (b) also provides that a claim arising from an erroneous refund or credit of tax is to be given thesame priority as the tax to which the refund or credit relates.
 
 #### References in Text
 
@@ -222,11 +222,11 @@ Section 13(3) of the Federal Reserve Act, referred to in subsec. (a)(2), is clas
 
 #### Amendments
 
-2010—Subsec. (a)(2). Pub. L. 111–203 inserted “unsecured claims of any Federal reserve bank related to loans made through programs or facilities authorized under section 13(3) of the Federal Reserve Act (12 U.S.C. 343),” after “this title,”.
+<b>2010</b>—Subsec. (a)(2). Pub. L. 111–203 inserted “unsecured claims of any Federal reserve bank related to loans made through programs or facilities authorized under section 13(3) of the Federal Reserve Act (12 U.S.C. 343),” after “this title,”.
 
 Subsec. (a)(8)(A)(ii)(II). Pub. L. 111–327 substituted “; or” for period at end.
 
-2005—Subsec. (a)(1). Pub. L. 109–8, §212(9), added par. (1). Former par. (1) redesignated (2).
+<b>2005</b>—Subsec. (a)(1). Pub. L. 109–8, §212(9), added par. (1). Former par. (1) redesignated (2).
 
 Subsec. (a)(2). Pub. L. 109–8, §212(2), (3), redesignated par. (1) as (2) and substituted “Second” for “First”. Former par. (2) redesignated (3).
 
@@ -268,7 +268,7 @@ Subsec. (b). Pub. L. 109–8, §1502(a)(1)(B), substituted “subsection (a)(2)�
 
 Subsec. (d). Pub. L. 109–8, §1502(a)(1)(C), substituted “subsection (a)(1)” for “subsection (a)(3)”.
 
-1994—Subsec. (a)(3). Pub. L. 103–394, §207, amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Third, allowed unsecured claims for wages, salaries, or commissions, including vacation, severance, and sick leave pay—
+<b>1994</b>—Subsec. (a)(3). Pub. L. 103–394, §207, amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Third, allowed unsecured claims for wages, salaries, or commissions, including vacation, severance, and sick leave pay—
 
 &emsp;“(A) earned by an individual within 90 days before the date of the filing of the petition or the date of the cessation of the debtor's business, whichever occurs first; but only
 
@@ -288,9 +288,9 @@ Subsec. (a)(9). Pub. L. 103–394, §§304(c)(1), 501(d)(11)(A), redesignated pa
 
 Subsec. (d). Pub. L. 103–394, §501(d)(11)(B), substituted “(a)(6), (a)(7), (a)(8), or (a)(9)” for “or (a)(6)”.
 
-1990—Subsec. (a)(8). Pub. L. 101–647 added par. (8).
+<b>1990</b>—Subsec. (a)(8). Pub. L. 101–647 added par. (8).
 
-1984—Subsec. (a)(3). Pub. L. 98–353, §449(a)(1), inserted a comma after “severance”.
+<b>1984</b>—Subsec. (a)(3). Pub. L. 98–353, §449(a)(1), inserted a comma after “severance”.
 
 Subsec. (a)(4). Pub. L. 98–353, §449(a)(2), substituted “an employee benefit plan” for “employee benefit plans” in provisions preceding subpar. (A).
 
@@ -314,7 +314,7 @@ Pub. L. 109–8, title XIV, §1406, Apr. 20, 2005, 119 Stat. 215, as amended by 
 
 “(a)
 
-Effective Date.—Except as provided in subsection (b), this title \[amending this section and sections 523, 548, 1104, and 1114 of this title and enacting provisions set out as a note under section 523 of this title\] and the amendments made by this title shall takeeffect on the date of the enactment of this Act \[Apr. 20, 2005\].
+Effective Date.—Except as provided in subsection (b), this title \[amending this section and sections 523, 548, 1104, and 1114 of this title and enacting provisions set out as a note under section 523 of this title\] and the amendments made by this title shall take effect on the date of the enactment of this Act \[Apr. 20, 2005\].
 
 “(b)
 

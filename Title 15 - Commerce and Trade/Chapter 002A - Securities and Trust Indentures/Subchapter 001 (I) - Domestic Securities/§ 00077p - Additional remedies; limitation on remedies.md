@@ -52,7 +52,7 @@ Any covered class action brought in any State court involving a covered security
 
 #### (4) Remand of removed actions
 
-&emsp;In an action that has been removed from a State court pursuant to subsection (c) of this section, if the Federal court determines that the action may be maintained in State court pursuant to this subsection, the Federal court shall remand such action to such State court.
+&emsp;In an action that has been removed from a State court pursuant to subsection (c) of thissection, if the Federal court determines that the action may be maintained in State court pursuant to this subsection, the Federal court shall remand such action to such State court.
 
 #### (e) Preservation of State jurisdiction
 

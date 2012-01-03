@@ -36,17 +36,17 @@ Two or more associations within the same district, whether or not organized unde
 
 &emsp;In accordance with section 2154a of this title, each merged association shall provide, through bylaws and subject to Farm Credit Administration regulations, for the capitalization of the association and the manner in which association stock shall be issued, held, transferred, and retired, and association earnings shall be distributed.
 
-(Pub. L. 92–181, title VII, §7.8, as added Pub. L. 100–233, title IV, §416, Jan. 6, 1988, 101 Stat. 1647; amended Pub. L. 100–399, title IV, §408(k), (<i>l</i>), Aug. 17, 1988, 102 Stat. 1002.)
+(Pub. L. 92–181, title VII, §7.8, as added Pub. L. 100–233, title IV, §416, Jan. 6, 1988, 101 Stat. 1647;amended Pub. L. 100–399, title IV, §408(k), (<i>l</i>), Aug. 17, 1988, 102 Stat. 1002.)
 
 #### Amendments
 
-1988—Subsec. (b)(2). Pub. L. 100–399, §408(k), struck out second sentence, which directed that, following a merger under subsection (a) of this section, the provisions of section 2154a of this title were to be applicable to the merged association.
+<b>1988</b>—Subsec. (b)(2). Pub. L. 100–399, §408(k), struck out second sentence, which directed that, following a merger under subsection (a) of this section, the provisions of section 2154a of this title were to be applicable to the merged association.
 
 Subsec. (c)(2). Pub. L. 100–399, §408(<i>l</i>), substituted “Capitalization” for “Plan of capitalization” as par. (2) heading and amended text generally. Prior to amendment, text read as follows: “The number of shares of capital stock, and the rights and privileges thereof, issued by a merged association after a merger shall be determined by the Board of Directors of the merged association, with the approval of the supervising bank, and shall be consistent with section 2154a of this title and the regulations issued by the Farm Credit Administration.”
 
 Subsec. (c)(3). Pub. L. 100–399, §408(<i>l</i>), struck out par. (3) which read as follows: “Voting stock of a merged association shall be issued to and held by farmers, ranchers, or producers or harvesters of aquatic products who are or were, immediately prior to the merger, direct borrowers from one of the associations forming the merged association or the supervising bank of such merged association.”
 
-Subsec. (d). Pub. L. 100–399, §408(<i>l</i>), struck out subsec. (d) which read as follows: “The plan of merger shallprovide for the issuance, transfer, and retirement of stock and the distribution of earnings in accordance with the provisions of section 2154a of this title.”
+Subsec. (d). Pub. L. 100–399, §408(<i>l</i>), struck out subsec. (d) which read as follows: “The plan of merger shall provide for the issuance, transfer, and retirement of stock and the distribution of earnings in accordance with the provisions of section 2154a of this title.”
 
 #### Effective Date of 1988 Amendment
 

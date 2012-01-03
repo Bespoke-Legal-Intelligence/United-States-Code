@@ -106,7 +106,7 @@ Each State that receives assistance under this part shall establish and maintain
 
 #### (4) State plan development
 
-&emsp;The Council shall develop the State plan and submit the State plan to the Secretary after consultation with the designated State agency under the State plan. Such consultation shallbe solely for the purposes of obtaining State assurances and ensuring consistency of the plan with State law.
+&emsp;The Council shall develop the State plan and submit the State plan to the Secretary after consultation with the designated State agency under the State plan. Such consultation shall be solely for the purposes of obtaining State assurances and ensuring consistency of the plan with State law.
 
 #### (5) State plan implementation
 
@@ -144,7 +144,7 @@ Each State that receives assistance under this part shall establish and maintain
 
 &emsp;&emsp;The Council may support and conduct activities to enhance coordination of services with—
 
-&emsp;&emsp;&emsp;(i) other councils, entities, or committees, authorized by Federal or State law, concerning individuals with disabilities (such as the State interagency coordinating council established under part C of the Individuals with Disabilities Education Act (20 U.S.C. 1431 et seq.), the State Rehabilitation Council and the Statewide Independent Living Council established under the Rehabilitation Act of 1973 (29 U.S.C. 701 et seq.), the State mental health planning council established under subtitle B <sup>1</sup> of title XIX of the Public Health Service Act \[42 U.S.C. 300x et seq.\], and the activities authorized under section 3003 or 3004 of title 29, and entities carrying out other similar councils, entities, or committees);
+&emsp;&emsp;&emsp;(i) other councils, entities, or committees, authorized by Federal or State law, concerning individuals with disabilities (such as the State interagency coordinating council established under part C of the Individuals with Disabilities Education Act (20 U.S.C. 1431 et seq.), the State Rehabilitation Council and the Statewide Independent Living Council established under the Rehabilitation Act of 1973 (29 U.S.C. 701 et seq.), the State mental health planning council established under subtitle B <sup>1</sup> of title XIX of the PublicHealth Service Act \[42 U.S.C. 300x et seq.\], and the activities authorized under section 3003 or 3004 of title 29, and entities carrying out other similar councils, entities, or committees);
 
 &emsp;&emsp;&emsp;(ii) parent training and information centers under part D of the Individuals with Disabilities Education Act (20 U.S.C. 1451 et seq.) and other entities carrying out federally funded projects that assist parents of children with disabilities; and
 
@@ -226,7 +226,7 @@ Each State that receives assistance under this part shall establish and maintain
 
 &emsp;&emsp;&emsp;(IV) carrying out appropriate subcontracting activities;
 
-&emsp;&emsp;(B) hiring and maintaining such numbers and types of staff (qualified by training and experience) and obtaining the services of such professional, consulting, technical, and clerical staff (qualified by training and experience), consistent with State law, as theCouncil determines to be necessary to carry out the functions of the Council under this part, except that such State shall not apply hiring freezes, reductions in force, prohibitions on travel, or other policies to the staff of the Council, to the extent that such policies would impact the staff or functions funded with Federal funds, or would prevent the Council from carrying out the functions of the Council under this part; and
+&emsp;&emsp;(B) hiring and maintaining such numbers and types of staff (qualified by training and experience) and obtaining the services of such professional, consulting, technical, and clerical staff (qualified by training and experience), consistent with State law, as the Council determines to be necessary to carry out the functions of the Council under this part, except that such State shall not apply hiring freezes, reductions in force, prohibitions on travel, or other policies to the staff of the Council, to the extent that such policies would impact the staff or functions funded with Federal funds, or would prevent the Council from carrying out the functions of the Council under this part; and
 
 &emsp;&emsp;(C) directing the expenditure of funds for grants, contracts, interagency agreements that are binding contracts, and other activities authorized by the State plan approved under section 15024 of this title.
 

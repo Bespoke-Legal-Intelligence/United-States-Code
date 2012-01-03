@@ -14,7 +14,7 @@ Sections 3789d(c), 3789f(a), 3789f(b), 3789f(c), 3789g(a), 3789g(b), and 3789g(d
 
 #### (c) Certain other crime control provisions applicable
 
-Sections 3782(a), 3782(c), and 3787 of this title shall apply with respect to the administration of and compliance with this chapter, except that for purposes of this chapter—
+Sections 3782(a), 3782(c), and 3787 of this title shall apply with respect to the administration ofand compliance with this chapter, except that for purposes of this chapter—
 
 &emsp;(1) any reference to the Attorney General, the Assistant Attorney General who heads the Office of Justice Programs, the Director of the National Institute of Justice, the Director of the Bureau of Justice Statistics, or the Director of the Bureau of Justice Assistance shall be deemed to be a reference to the Administrator;
 
@@ -24,7 +24,7 @@ Sections 3782(a), 3782(c), and 3787 of this title shall apply with respect to th
 
 #### (d) Rules, regulations, and procedures
 
-The Administrator is authorized, after appropriate consultation with representatives of States and units of local government, to establish such rules, regulations, and procedures asare necessary for the exercise of the functions of the Office and only to the extent necessary to ensure that there is compliance with the specific requirements of this subchapter or to respond to requests for clarification and guidance relating to such compliance.
+The Administrator is authorized, after appropriate consultation with representatives of States and units of local government, to establish such rules, regulations, and procedures as are necessary for the exercise of the functions of the Office and only to the extent necessary to ensure that there is compliance with the specific requirements of this subchapter or to respond to requests for clarification and guidance relating to such compliance.
 
 #### (e) Presumption of State compliance
 

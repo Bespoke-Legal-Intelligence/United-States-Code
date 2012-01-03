@@ -20,7 +20,7 @@ The determination referred to in subsection (a) is a determination by the Presid
 
 &emsp;(1) India has provided the United States and the IAEA with a credible plan to separate civil and military nuclear facilities, materials, and programs, and has filed a declaration regarding its civil facilities and materials with the IAEA.
 
-&emsp;(2) India and the IAEA have concluded all legal steps required prior to signature by theparties of an agreement requiring the application of IAEA safeguards in perpetuity in accordance with IAEA standards, principles, and practices (including IAEA Board of Governors Document GOV/1621 (1973)) to India's civil nuclear facilities, materials, and programs as declared in the plan described in paragraph (1), including materials used in or produced through the use of India's civil nuclear facilities.
+&emsp;(2) India and the IAEA have concluded all legal steps required prior to signature by the parties of an agreement requiring the application of IAEA safeguards in perpetuity in accordance with IAEA standards, principles, and practices (including IAEA Board of Governors Document GOV/1621 (1973)) to India's civil nuclear facilities, materials, and programs as declared in the plan described in paragraph (1), including materials used in or produced through the use of India's civil nuclear facilities.
 
 &emsp;(3) India and the IAEA are making substantial progress toward concluding an Additional Protocol consistent with IAEA principles, practices, and policies that would apply to India's civil nuclear program.
 
@@ -148,7 +148,7 @@ The determination referred to in subsection (a) is a determination by the Presid
 
 &emsp;&emsp;&emsp;&emsp;(II) the nuclear technology identified for transfer will be used only for peaceful safeguarded nuclear activities and will not be used for any military or nuclear explosive purpose; and
 
-&emsp;&emsp;&emsp;&emsp;(III) the nuclear technology identified for transfer will not be retransferred without the prior consent of the United States, and facilities, equipment, or materials derived through the use of transferred technology will not be transferred without the prior consent of the United States.
+&emsp;&emsp;&emsp;&emsp;(III) the nuclear technology identified for transfer will not be retransferred without the prior consent of the UnitedStates, and facilities, equipment, or materials derived through the use of transferred technology will not be transferred without the prior consent of the United States.
 
 &emsp;&emsp;&emsp;(iii) In the event the IAEA is unable to implement safeguards as required by an agreement for cooperation arranged pursuant to section 2153 of title 42, appropriate assurance that arrangements will be put in place expeditiously that are consistent with the requirements of section 2153(a)(1) of title 42 regarding the maintenance of safeguards as set forth in the agreement regardless of whether the agreement is terminated or suspended for any reason.
 
@@ -224,7 +224,7 @@ The authority provided under subsection (a)(1) to exempt an agreement shall term
 
 &emsp;&emsp;&emsp;(i) is not consistent with applicable guidelines or decisions of the NSG; or
 
-&emsp;&emsp;&emsp;(ii) would not meet the standards applied to exports or reexports of such material, equipment, or technology of United States origin;
+&emsp;&emsp;&emsp;(ii) would not meet the standards applied to exports or reexports of such material,equipment, or technology of United States origin;
 
 &emsp;&emsp;(D) either—
 
@@ -298,7 +298,7 @@ The authority provided under subsection (a)(1) to exempt an agreement shall term
 
 &emsp;&emsp;&emsp;(i) a listing of—
 
-&emsp;&emsp;&emsp;&emsp;(I) all provision of sensitive nuclear technology to India, and other such information as may be so designated by the United States or India under Article 1(Q); and
+&emsp;&emsp;&emsp;&emsp;(I) all provision of sensitive nuclear technology to India, and other such information as may be so designated bythe United States or India under Article 1(Q); and
 
 &emsp;&emsp;&emsp;&emsp;(II) all facilities in India notified pursuant to Article 7(1) of the Agreement;
 
@@ -366,11 +366,11 @@ Subsec. (g)(2)(M). Pub. L. 110–369, §105(b), added subpar. (M).
 
 #### Proposed Agreement for Cooperation Between the Government of the United States of America and the Government of India Concerning Peaceful Uses of Nuclear Energy
 
-Determination of the President of the United States, No. 2008–26, Sept. 10, 2008, 73 F.R. 54287, provided:
+Determination of President of the United States, No. 2008–26, Sept. 10, 2008, 73 F.R. 54287, provided:
 
 Memorandum for the Secretary of State \[and\] the Secretary of Energy
 
-I have considered the Proposed Agreement for Cooperation Between the Government of the UnitedStates of America and the Government of India Concerning Peaceful Uses of Nuclear Energy, along with the views, recommendations, and statements of interested agencies.
+I have considered the Proposed Agreement for Cooperation Between the Government of the United States of America and the Government of India Concerning Peaceful Uses of Nuclear Energy, along with the views, recommendations, and statements of interested agencies.
 
 I have determined that the performance of the Agreement will promote, and will not constitute an unreasonable risk to, the common defense and security. Pursuant to section 123 b. of the Atomic Energy Act of 1954, as amended (42 U.S.C. 2153(B) \[sic\]), I hereby approve the proposed agreement and authorize the Secretary of State to arrange for its execution.
 
@@ -378,7 +378,7 @@ In addition, pursuant to the authority vested in me by the Constitution and the 
 
 1\. India has provided the United States and the IAEA with a credible plan to separate civil and military nuclear facilities, materials, and programs, and has filed a declaration regarding its civil facilities and materials with the IAEA;
 
-2\. India and the IAEA have concluded all legal steps required prior to signature by the parties of an agreement requiring the application of IAEA safeguards in perpetuity in accordance with IAEA standards, principles, and practices (including IAEA Board of Governors Document GOV/1621 (1973)) to India's civil nuclear facilities, materials, and programs as declared in the plan described in paragraph (1), including materials used in or produced through the use of India's civil nuclear facilities;
+2\. India and the IAEA have concluded all legal steps required prior to signature by the parties of an agreement requiring the application of IAEA safeguards in perpetuity in accordance with IAEA standards, principles, and practices (including IAEA Board of Governors Document GOV/1621 (1973)) to India's civil nuclear facilities, materials, and programs as declared in the plan described in paragraph (1), including materialsused in or produced through the use of India's civil nuclear facilities;
 
 3\. India and the IAEA are making substantial progress toward concluding an Additional Protocol consistent with IAEA principles, practices, and policies that would apply to India's civil nuclear program;
 

@@ -70,9 +70,9 @@ In subsection (a), the words “An employee who performs work . . . is entitle
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–277 inserted at end “For employees serving outside the United States in areas where Sunday is a routine workday and another day of the week is officially recognized as the day of rest and worship, the Secretary of State may designate the officially recognized day of rest and worship as the day with respect to which the preceding sentence shall apply instead of Sunday.”
+<b>1998</b>—Subsec. (a). Pub. L. 105–277 inserted at end “For employees serving outside the United States in areas where Sunday is a routine workday and another day of the week is officially recognized as the day of rest and worship, the Secretary of State may designate the officially recognized day of rest and worship as the day with respect to which the preceding sentence shall apply instead of Sunday.”
 
-1968—Subsec. (b). Pub. L. 90–623, §1(13)(A), substituted “District of Columbia Council” for “Board of Commissioners of the District of Columbia”.
+<b>1968</b>—Subsec. (b). Pub. L. 90–623, §1(13)(A), substituted “District of Columbia Council” for “Board of Commissioners of the District of Columbia”.
 
 Subsec. (d). Pub. L. 90–623, §1(13)(B), substituted “5542(a)” for “5442(a)”.
 

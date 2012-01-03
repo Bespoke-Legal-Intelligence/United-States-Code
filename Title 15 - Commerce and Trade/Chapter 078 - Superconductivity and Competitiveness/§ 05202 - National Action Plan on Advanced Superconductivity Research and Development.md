@@ -32,7 +32,3 @@ The Office of Science and Technology Policy, with the assistance of the National
 
 The National Critical Materials Act of 1984, referred to in subsec. (d), is title II of Pub. L. 98–373, July 31, 1984, 98 Stat. 1248, as amended, which is classified generally to chapter 30 (§1801 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 30 and Tables.
 
-#### Change of Name
-
-Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
-

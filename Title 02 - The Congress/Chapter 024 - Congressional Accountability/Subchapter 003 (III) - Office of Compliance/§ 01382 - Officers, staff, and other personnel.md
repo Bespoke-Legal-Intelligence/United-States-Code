@@ -124,7 +124,7 @@
 
 #### (d) Other staff
 
-The Executive Director shall appoint, and fix the compensation of, and may remove, suchother additional staff, including hearing officers, but not including attorneys employed in the office of the General Counsel, as may be necessary to enable the Office to perform its duties.
+The Executive Director shall appoint, and fix the compensation of, and may remove, such other additional staff, including hearing officers, but not including attorneys employed in the office of the General Counsel, as may be necessary to enable the Office to perform its duties.
 
 #### (e) Detailed personnel
 
@@ -142,7 +142,7 @@ This chapter, referred to in subsecs. (a)(4) and (c)(3), was in the original “
 
 #### Amendments
 
-2007—Subsec. (a)(2). Pub. L. 110–161, §1101(b)(1), added par. (2) and struck out heading and text of former par. (2). Text read as follows: “The Chair may fix the compensation of the Executive Director. The rate of pay for the Executive Director may not exceed the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of title 5.”
+<b>2007</b>—Subsec. (a)(2). Pub. L. 110–161, §1101(b)(1), added par. (2) and struck out heading and text of former par. (2). Text read as follows: “The Chair may fix the compensation of the Executive Director. The rate of pay for the Executive Director may not exceed the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of title 5.”
 
 Subsec. (a)(3). Pub. L. 110–164, §2(a)(1), substituted “not more than 2 terms” for “a single term” the first time appearing.
 

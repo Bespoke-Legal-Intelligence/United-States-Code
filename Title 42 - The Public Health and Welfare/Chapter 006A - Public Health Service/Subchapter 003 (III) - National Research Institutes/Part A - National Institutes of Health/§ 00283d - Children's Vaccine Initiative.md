@@ -8,7 +8,7 @@ The Secretary, in consultation with the Director of the National Vaccine Program
 
 In the report required in section 300aa–4 <sup>1</sup> of this title, the Secretary, acting through the Director of the National Vaccine Program under subchapter XIX of this chapter, shall include information with respect to activities and the progress made in implementing the provisions of this section and achieving its goals.
 
-(July 1, 1944, ch. 373, title IV, §404B, as added Pub. L. 103–43, title II, §204, June 10, 1993, 107 Stat. 146; amended Pub. L. 109–482, title I, §103(b)(3), Jan. 15, 2007, 120 Stat. 3687; Pub. L. 110–154, §1(b)(2), Dec. 21, 2007, 121 Stat. 1827.)
+(July 1, 1944, ch. 373, title IV, §404B, as added Pub. L. 103–43, title II, §204, June 10, 1993, 107Stat. 146; amended Pub. L. 109–482, title I, §103(b)(3), Jan. 15, 2007, 120 Stat. 3687; Pub. L. 110–154, §1(b)(2), Dec. 21, 2007, 121 Stat. 1827.)
 
 #### References in Text
 
@@ -18,7 +18,7 @@ Section 300aa–4 of this title, referred to in subsec. (b), was repealed by Pub
 
 <b>2007</b>—Subsec. (a). Pub. L. 110–154 substituted “Eunice Kennedy Shriver National Institute of Child Health and Human Development” for “National Institute for Child Health and Human Development”.
 
-Subsec. (c). Pub. L. 109–482 struck out heading and text of subsec. (c). Text read as follows: “In addition to any other amounts authorized to be appropriated for activities of the type described in this section, there are authorized to be appropriated to carry out this section $20,000,000 for fiscal year 1994, and such sums asmay be necessary for each of the fiscal years 1995 and 1996.”
+Subsec. (c). Pub. L. 109–482 struck out heading and text of subsec. (c). Text read as follows: “In addition to any other amounts authorized to be appropriated for activities of the type described in this section, there are authorized to be appropriated to carry out this section $20,000,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 and 1996.”
 
 #### Effective Date of 2007 Amendment
 

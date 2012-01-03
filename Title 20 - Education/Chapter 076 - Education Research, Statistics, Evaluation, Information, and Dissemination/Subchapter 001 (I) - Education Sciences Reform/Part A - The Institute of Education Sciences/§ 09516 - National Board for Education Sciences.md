@@ -154,7 +154,7 @@ The duties of the Board shall be the following:
 
 &emsp;&emsp;(B) ex officio members of the Board; and
 
-&emsp;&emsp;(C) policymakers and expert practitioners with knowledge of, and experience using, the results of research, evaluation, and statistics who are not members of the Board, but who may have been recommended by the Commissioner of the appropriate National Education Center and approved by the Board.
+&emsp;&emsp;(C) policymakers and expert practitioners with knowledge of, and experience using, the results of research, evaluation, and statistics who are not members of the Board, but who may have been recommended by the Commissioner of the appropriate NationalEducation Center and approved by the Board.
 
 #### (3) Duties
 

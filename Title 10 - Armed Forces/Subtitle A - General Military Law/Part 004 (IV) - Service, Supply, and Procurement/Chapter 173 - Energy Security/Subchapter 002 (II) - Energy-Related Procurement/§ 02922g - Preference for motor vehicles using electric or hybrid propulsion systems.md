@@ -16,15 +16,11 @@ Exception.—Subsection (a) does not apply with respect to tactical vehicles des
 
 Relation to Other Vehicle Technologies That Reduce Consumption of Fossil Fuels.—The preference required by subsection (a) does not preclude the Secretary of Defense from authorizing the Secretary of a military department or head of a Defense Agency to provide a preference for another vehicle technology that reduces the consumption of fossil fuels if the Secretary of Defense determines that the technology is consistent with the energy performance goals and plan of the Department required by section 2911 of this title.
 
-(d)
+(Added Pub. L. 111–84, div. B, title XXVIII, §2844(a), Oct. 28, 2009, 123 Stat. 2682; amended Pub. L. 112–81, div. B, title XXVIII, §2821(b)(3), Dec. 31, 2011, 125 Stat. 1691.)
 
-Hybrid Defined.—In this section, the term “hybrid”, with respect to a motor vehicle, means a motor vehicle that draws propulsion energy from onboard sources of stored energy that are both—
+#### Amendments
 
-&emsp;(1) an internal combustion or heat engine using combustible fuel; and
-
-&emsp;(2) a rechargeable energy storage system.
-
-(Added Pub. L. 111–84, div. B, title XXVIII, §2844(a), Oct. 28, 2009, 123 Stat. 2682.)
+<b>2011</b>—Subsec. (d). Pub. L. 112–81 struck out subsec. (d), which defined “hybrid”.
 
 #### Regulations
 

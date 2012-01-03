@@ -78,7 +78,7 @@ In the case of a plan maintained by more than one employer—
 
 #### (B) Other plans
 
-&emsp;&emsp;In the case of a plan not described in subparagraph (A), the requirements of section 412 shall be determined as if all participants in the plan were employed by a single employer unless the plan administrator elects not later than the close of the first plan yearof the plan beginning after the date of enactment of the Technical and Miscellaneous Revenue Act of 1988 to have the provisions of subparagraph (A) apply. An election under the preceding sentence shall take effect for the plan year in which made and, once made, may be revoked only with the consent of the Secretary.
+&emsp;&emsp;In the case of a plan not described in subparagraph (A), the requirements of section 412 shall be determined as if all participants in the plan were employed by a single employer unless the plan administrator elects not later than the close of the first plan year of the plan beginning after the date of enactment of the Technical and Miscellaneous Revenue Act of 1988 to have the provisions of subparagraph (A) apply. An election under the preceding sentence shall take effect for the plan year in which made and, once made, may be revoked only with the consent of the Secretary.
 
 #### (5) Liability for funding tax
 
@@ -122,7 +122,7 @@ The last sentence of section 4971(a), referred to in subsec. (b)(6), was struck 
 
 The Employee Retirement Income Security Act of 1974, referred to in subsec. (b)(6), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended. Part 1 of subtitle E of title IV of the Employee Retirement Income Security Act of 1974 is classified generally to part 1 (§1381 et seq.) of subtitle E of subchapter III of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
-The date of enactment of the Technical and Miscellaneous Revenue Act of 1988, referred to in subsec. (c)(4)(B), is the date of enactment of Pub. L. 100–647, which was approved Nov. 10, 1988.
+The date of enactment of the Technical and Miscellaneous Revenue Act of 1988, referred to in subsec.\(c)(4)(B), is the date of enactment of Pub. L. 100–647, which was approved Nov. 10, 1988.
 
 #### Amendments
 
@@ -146,7 +146,7 @@ Subsec. (c)(7). Pub. L. 100–647, §6058(c), added par. (7).
 
 Amendment by section 1011(h)(10) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Section 6058(d) of Pub. L. 100–647 provided that: “Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shallapply to plan years beginning after the date of the enactment of this Act \[Nov. 10, 1988\].”
+Section 6058(d) of Pub. L. 100–647 provided that: “Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to plan years beginning after the date of the enactment of this Act \[Nov. 10, 1988\].”
 
 #### Effective Date of 1980 Amendment
 

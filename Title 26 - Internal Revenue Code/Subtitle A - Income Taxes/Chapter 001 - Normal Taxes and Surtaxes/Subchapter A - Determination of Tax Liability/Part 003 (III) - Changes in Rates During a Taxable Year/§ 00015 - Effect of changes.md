@@ -22,7 +22,7 @@ For purposes of subsections (a) and (b)—
 
 &emsp;(1) if the rate changes for taxable years “beginning after” or “ending after” a certain date, the following day shall be considered the effective date of the change; and
 
-&emsp;(2) if a rate changes for taxable years “beginning on or after” a certain date, that date shall be considered the effective date of the change.
+&emsp;(2) if a rate changes for taxable years “beginning on or after” a certain date, that dateshall be considered the effective date of the change.
 
 #### (d) Section not to apply to inflation adjustments
 
@@ -100,7 +100,7 @@ Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31
 
 #### Effective Date of 1976 Amendment
 
-Amendment by Pub. L. 94–455 applicable with respect to taxable years ending after Dec. 31, 1975, see section 901(d) of Pub. L. 94–455, set out as a note under section 11 of this title.
+Amendment by Pub. L. 94–455 applicable with respect to taxable years ending after Dec. 31, 1975, see section901(d) of Pub. L. 94–455, set out as a note under section 11 of this title.
 
 #### Effective Date of 1975 Amendment
 

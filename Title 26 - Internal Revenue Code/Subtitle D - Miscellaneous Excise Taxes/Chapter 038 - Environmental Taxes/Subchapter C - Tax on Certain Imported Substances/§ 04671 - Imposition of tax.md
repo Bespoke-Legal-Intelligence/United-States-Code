@@ -12,7 +12,7 @@ There is hereby imposed a tax on any taxable substance sold or used by the impor
 
 #### (2) Rate where importer does not furnish information to Secretary
 
-&emsp;If the importer does not furnish to the Secretary (at such time and in such manner asthe Secretary shall prescribe) sufficient information to determine under paragraph (1) the amount of the tax imposed by subsection (a) on any taxable substance, the amount of the tax imposed on such taxable substance shall be 5 percent of the appraised value of such substance as of the time such substance was entered into the United States for consumption, use, or warehousing.
+&emsp;If the importer does not furnish to the Secretary (at such time and in such manner as the Secretary shall prescribe) sufficient information to determine under paragraph (1) the amount of the tax imposed by subsection (a) on any taxable substance, the amount of the tax imposed on such taxable substance shall be 5 percent of the appraised value of such substance as of the time such substance was entered into the United States for consumption, use, or warehousing.
 
 #### (3) Authority to prescribe rate in lieu of paragraph (2) rate
 

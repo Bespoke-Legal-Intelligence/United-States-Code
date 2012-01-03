@@ -60,7 +60,7 @@ The overall trade negotiating objectives of the United States for agreements sub
 
 &emsp;&emsp;&emsp;(iii) procedures to enhance opportunities for public input into the formulation of government positions; and
 
-&emsp;&emsp;&emsp;(iv) providing for an appellate body or similar mechanism to provide coherence tothe interpretations of investment provisions in trade agreements; and
+&emsp;&emsp;&emsp;(iv) providing for an appellate body or similar mechanism to provide coherence to the interpretations of investment provisions in trade agreements; and
 
 &emsp;&emsp;(H) ensuring the fullest measure of transparency in the dispute settlement mechanism, to the extent consistent with the need to protect information that is classified or business confidential, by—
 
@@ -116,7 +116,7 @@ The overall trade negotiating objectives of the United States for agreements sub
 
 #### (7) Improvement of the WTO and multilateral trade agreements
 
-&emsp;The principal negotiating objectives of the United States regarding the improvement of the World Trade Organization, the Uruguay Round Agreements, and other multilateral and bilateral trade agreements are—
+&emsp;The principal negotiating objectives of the United States regarding the improvement ofthe World Trade Organization, the Uruguay Round Agreements, and other multilateral and bilateral trade agreements are—
 
 &emsp;&emsp;(A) to achieve full implementation and extend the coverage of the World Trade Organization and such agreements to products, sectors, and conditions of trade not adequately covered; and
 
@@ -196,7 +196,7 @@ The overall trade negotiating objectives of the United States for agreements sub
 
 &emsp;&emsp;(xiii) otherwise ensuring that countries that accede to the World Trade Organization have made meaningful market liberalization commitments in agriculture;
 
-&emsp;&emsp;(xiv) taking into account the impact that agreements covering agriculture to whichthe United States is a party, including the North American Free Trade Agreement, have on the United States agricultural industry;
+&emsp;&emsp;(xiv) taking into account the impact that agreements covering agriculture to which the United States is a party, including the North American Free Trade Agreement, have on the United States agricultural industry;
 
 &emsp;&emsp;(xv) maintaining bona fide food assistance programs and preserving United States market development and export credit programs; and
 
@@ -232,7 +232,7 @@ The overall trade negotiating objectives of the United States for agreements sub
 
 &emsp;&emsp;(A) to seek provisions in trade agreements providing for resolution of disputes between governments under those trade agreements in an effective, timely, transparent, equitable, and reasoned manner, requiring determinations based on facts and the principles of the agreements, with the goal of increasing compliance with the agreements;
 
-&emsp;&emsp;(B) to seek to strengthen the capacity of the Trade Policy Review Mechanism of the World Trade Organization to review compliance with commitments;
+&emsp;&emsp;(B) to seek to strengthen the capacity of the Trade Policy Review Mechanism of theWorld Trade Organization to review compliance with commitments;
 
 &emsp;&emsp;(C) to seek adherence by panels convened under the Dispute Settlement Understanding and by the Appellate Body to the standard of review applicable under the Uruguay Round Agreement involved in the dispute, including greater deference, where appropriate, to the fact-finding and technical expertise of national investigating authorities;
 

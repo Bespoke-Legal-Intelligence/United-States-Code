@@ -38,7 +38,7 @@ As used in this subchapter:
 
 > &emsp;&emsp;applicable to the child care services it provides; or
 
-&emsp;&emsp;(B) a child care provider that is 18 years of age or older who provides child care services only to eligible children who are, by affinityor consanguinity, or by court decree, the grandchild, great grandchild, sibling (if such provider lives in a separate residence), niece, or nephew of such provider, if such provider complies with any applicable requirements that govern child care provided by the relative involved.
+&emsp;&emsp;(B) a child care provider that is 18 years of age or older who provides child care services only to eligible children who are, by affinity or consanguinity, or by court decree, the grandchild, great grandchild, sibling (if such provider lives in a separate residence), niece, or nephew of such provider, if such provider complies with any applicable requirements that govern child care provided by the relative involved.
 
 #### (6) Family child care provider
 
@@ -80,7 +80,7 @@ As used in this subchapter:
 
 &emsp;&emsp;Such term includes a Native Hawaiian Organization, as defined in section 4909(4) <sup>1</sup> of title 20 and a private nonprofit organization established for the purpose of serving youth who are Indians or Native Hawaiians.
 
-(Pub. L. 97–35, title VI, §658P, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–248; amended Pub. L. 102–401, §3, Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c), Nov. 4, 1992, 106 Stat. 5036; Pub. L. 103–171, §8, Dec. 2, 1993, 107 Stat. 1994; Pub. L. 104–193, title VI, §614, Aug. 22, 1996, 110 Stat. 2287; Pub. L. 105–33, title V, §5602(5), Aug. 5, 1997, 111 Stat. 646.)
+(Pub. L. 97–35, title VI, §658P, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–248; amended Pub. L. 102–401, §3, Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c), Nov. 4, 1992, 106 Stat. 5036; Pub. L. 103–171, §8, Dec. 2, 1993, 107Stat. 1994; Pub. L. 104–193, title VI, §614, Aug. 22, 1996, 110 Stat. 2287; Pub. L. 105–33, title V, §5602(5), Aug. 5, 1997, 111 Stat. 646.)
 
 #### References in Text
 

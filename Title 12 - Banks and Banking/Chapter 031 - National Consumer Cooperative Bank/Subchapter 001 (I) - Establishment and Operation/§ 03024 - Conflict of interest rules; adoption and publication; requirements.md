@@ -14,7 +14,7 @@ Executive Order Numbered 11222, referred to in text, which was formerly set out 
 
 #### Amendments
 
-1981—Pub. L. 97–35 struck out provisions authorizing section to remain in effect until the Final Government Equity Redemption Date.
+<b>1981</b>—Pub. L. 97–35 struck out provisions authorizing section to remain in effect until the Final Government Equity Redemption Date.
 
 #### Effective Date of 1981 Amendment
 

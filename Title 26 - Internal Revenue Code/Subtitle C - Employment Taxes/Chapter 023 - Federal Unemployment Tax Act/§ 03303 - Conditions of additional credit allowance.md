@@ -10,7 +10,7 @@ A taxpayer shall be allowed an additional credit under section 3302(b) with resp
 
 &emsp;&emsp;(A) the guaranty of remuneration was fulfilled in the year preceding the computation date; and
 
-&emsp;&emsp;(B) the balance of such account amounts to not less than 21/2 percent of that part of the payroll or payrolls for the 3 years preceding the computation date by which contributions to such account were measured; and
+&emsp;&emsp;(B) the balance of such account amounts to not less than 2½ percent of that part of the payroll or payrolls for the 3 years preceding the computation date by which contributions to such account were measured; and
 
 &emsp;&emsp;(C) such contributions were payable to such account with respect to 3 years preceding the computation date;
 
@@ -20,7 +20,7 @@ A taxpayer shall be allowed an additional credit under section 3302(b) with resp
 
 &emsp;&emsp;(B) the balance of such account amounts to not less than five times the largest amount of compensation paid from such account within any 1 of the 3 years preceding such date, and
 
-&emsp;&emsp;(C) the balance of such account amounts to not less than 21/2 percent of that part of the payroll or payrolls for the 3 years preceding such date by which contributions to such account were measured, and
+&emsp;&emsp;(C) the balance of such account amounts to not less than 2½ percent of that part of the payroll or payrolls for the 3 years preceding such date by which contributions to such account were measured, and
 
 &emsp;&emsp;(D) such contributions were payable to such account with respect to the 3 years preceding the computation date.
 
@@ -98,7 +98,27 @@ To facilitate the orderly transition to coverage of service to which section 330
 
 &emsp;(2) the unemployment compensation for the same period which was charged to the experience-rating account of such organization (or group) or paid under the State law on the basis of such service performed in its employ or wages paid for such service, whichever is appropriate.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 440; Sept. 1, 1954, ch. 1212, §2, 68 Stat. 1130; Pub. L. 91–373, title I, §§104(c), 122(a), 142(c)–(e), Aug. 10, 1970, 84 Stat. 699, 702, 707; Pub. L. 94–455, title XIX, §§1903(a)(13), 1906(b)(13)(C), Oct. 4, 1976, 90 Stat. 1809, 1834; Pub. L. 94–566, title I, §122(a), (b), Oct. 20, 1976, 90 Stat. 2675, 2676.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 440; Sept. 1, 1954, ch. 1212, §2, 68 Stat. 1130; Pub. L. 91–373, title I, §§104(c), 122(a), 142(c)–(e), Aug. 10, 1970, 84 Stat. 699, 702, 707; Pub. L. 94–455, title XIX, §§1903(a)(13), 1906(b)(13)(C), Oct. 4, 1976, 90 Stat. 1809, 1834; Pub. L. 94–566, title I, §122(a), (b), Oct. 20, 1976, 90 Stat. 2675, 2676; Pub. L. 112–40, title II, §252(a), Oct. 21, 2011, 125 Stat. 421.)
+
+#### Amendment of Section
+
+<i>Pub. L. 112–40, title II, §252, Oct. 21, 2011, 125 Stat. 421, 422, provided that, applicable to erroneous payments established after the end of the 2-year period beginning on Oct. 21, 2011, with certain exceptions, this section is amended by striking subsections (f) and (g) and adding the following new subsection:</i>
+
+#### <i>(f) Prohibition on noncharging due to employer fault</i>
+
+#### <i>(1) In general</i>
+
+&emsp;<i>A State law shall be treated as meeting the requirements of subsection (a)(1) only if such law provides that an employer's account shall not be relieved of charges relating to a payment from the State unemployment fund if the State agency determines that—</i>
+
+&emsp;&emsp;<i>(A) the payment was made because the employer, or an agent of the employer, was at fault for failing to respond timely or adequately to the request of the agency for information relating to the claim for compensation; and</i>
+
+&emsp;&emsp;<i>(B) the employer or agent has established a pattern of failing to respond timely or adequately to such requests.</i>
+
+#### <i>(2) State authority to impose stricter standards</i>
+
+&emsp;<i>Nothing in paragraph (1) shall limit the authority of a State to provide that an employer's account not be relieved of charges relating to a payment from the State unemployment fund for rea</i><i>sons other than the reasons described in subparagraphs (A) and (B) of such paragraph, such as after the first instance of a failure to respond timely or adequately to requests described in paragraph (1)(A).</i>
+
+<i>See 2011 Amendment notes below.</i>
 
 #### References in Text
 
@@ -107,6 +127,8 @@ The Unemployment Compensation Amendments of 1976, referred to in subsec. (g), is
 The date of enactment of this subsection, referred to in subsec. (g), is the date of enactment of Pub. L. 94–566, which was approved Oct. 20, 1976.
 
 #### Amendments
+
+<b>2011</b>—Subsecs. (f), (g). Pub. L. 112–40 added subsec. (f) and struck out former subsecs. (f) and (g) which contained transitional provisions enacted by prior amendments.
 
 <b>1976</b>—Subsec. (b)(1) to (3). Pub. L. 94–455 substituted reference to Secretary of the Treasury for reference to Secretary and reference to 12–month period for reference to 12 or 10-month period, as the case may be, and struck out reference to (10-month period in the case of Oct. 31, 1972) following provisions relating to 12–month period ending Oct. 31.
 
@@ -121,6 +143,18 @@ Subsec. (b). Pub. L. 91–373, §142(c)–(e), changed the certification date re
 Subsecs. (e), (f). Pub. L. 91–373, §104(c), added subsecs. (e) and (f).
 
 <b>1954</b>—Subsec. (a). Act Sept. 1, 1954, inserted sentence relating to reduced rates for new employers.
+
+#### Effective Date of 2011 Amendment
+
+Pub. L. 112–40, title II, §252(b), Oct. 21, 2011, 125 Stat. 422, provided that:
+
+“(1)
+
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to erroneous payments established after the end of the 2-year period beginning on the date of the enactment of this Act \[Oct. 21, 2011\].
+
+“(2)
+
+Authority.—A State may amend its State law to apply such amendments to erroneous payments established prior to the end of the period described in paragraph (1).”
 
 #### Effective Date of 1976 Amendments
 

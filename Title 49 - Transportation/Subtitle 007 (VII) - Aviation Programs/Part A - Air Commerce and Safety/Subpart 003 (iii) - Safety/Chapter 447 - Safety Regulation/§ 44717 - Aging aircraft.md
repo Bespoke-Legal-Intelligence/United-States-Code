@@ -6,7 +6,7 @@ Inspections and Reviews.—The Administrator of the Federal Aviation Administrat
 
 &emsp;(1) at least shall require the Administrator to make inspections, and review the maintenance and other records, of each aircraft an air carrier uses to provide air transportation that the Administrator decides may be necessary to enable the Administrator to decide whether the aircraft is in safe condition and maintained properly for operation in air transportation;
 
-&emsp;(2) at least shall require an air carrier to demonstrate to the Administrator, as part ofthe inspection, that maintenance of the aircraft's age-sensitive parts and components has been adequate and timely enough to ensure the highest degree of safety;
+&emsp;(2) at least shall require an air carrier to demonstrate to the Administrator, as part of the inspection, that maintenance of the aircraft's age-sensitive parts and components has been adequate and timely enough to ensure the highest degree of safety;
 
 &emsp;(3) shall require the air carrier to make available to the Administrator the aircraft and any records about the aircraft that the Administrator requires to carry out a review; and
 
@@ -80,7 +80,7 @@ Oct. 28, 1991, Pub. L. 102–143, §404, 105 Stat. 952.
 
 In subsections (a) and (c), before clause (1), the words “Not later than 180 days after the date of the enactment of this title” are omitted as obsolete.
 
-In subsection (a), before clause (1), the text of section 405 of the Department of Transportation and Related Agencies Appropriations Act, 1992 (Public Law 102–143, 105 Stat. 952) is omitted as surplus because the complete name of the Administrator of the Federal Aviation Administration is used the first time the term appears in a section. The word “regulations” is substituted for “rule” because the terms are synonymous. In clauses (2)–(4), the words “required by the rule” are omitted as surplus. In clause (2), the words “structure, skin, and other” are omitted as surplus. In clause (3), the words “inspection, maintenance, and other” are omitted as surplus.
+In subsection (a), before clause (1), the text of section 405 of the Department of Transportation and Related Agencies Appropriations Act, 1992 (Public Law 102–143, 105 Stat. 952) is omitted as surplus because the complete name of the Administrator of the Federal Aviation Administration is used the first time the term appears in a section. The word “regulations” is substituted for “rule” because the terms are synonymous.In clauses (2)–(4), the words “required by the rule” are omitted as surplus. In clause (2), the words “structure, skin, and other” are omitted as surplus. In clause (3), the words “inspection, maintenance, and other” are omitted as surplus.
 
 In subsection (c)(1), the word “Administrator” is substituted for “Federal Aviation Administration” for consistency in the revised title.
 

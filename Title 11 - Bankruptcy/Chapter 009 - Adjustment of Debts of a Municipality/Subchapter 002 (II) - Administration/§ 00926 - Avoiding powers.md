@@ -8,7 +8,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 926 of the House amendment is derived from section 928 of the Senate bill. The provision enables creditors to request the court to appoint a trustee to pursue avoiding powers if the debtor refuses to exercise those powers. Section 901 of the House amendment makes a corresponding change to incorporate avoiding powers included in the Senate amendment, but excluded from the House bill.
 
@@ -22,7 +22,7 @@ Incorporated by reference also is the power to accept or reject executory contra
 
 #### Amendments
 
-1988—Pub. L. 100–597 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1988</b>—Pub. L. 100–597 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 1988 Amendment
 

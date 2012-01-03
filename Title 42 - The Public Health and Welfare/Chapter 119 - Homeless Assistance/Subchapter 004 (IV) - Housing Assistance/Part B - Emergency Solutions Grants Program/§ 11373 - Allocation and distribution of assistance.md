@@ -34,7 +34,7 @@ A prior section 414 of Pub. L. 100–77 was classified to section 11374 of this 
 
 <b>2009</b>—Subsec. (b). Pub. L. 111–22, §1201(5), substituted “amounts appropriated under section 11364 of this title and made available to carry out this part for any” for “amounts appropriated to carry out this part for any”.
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–330, §506(a)(3)(A), struck out “, and to Indian tribes,” after “in the States)” and“, or for Indian tribes” after “or urban county” in two places.
+<b>1996</b>—Subsec. (a). Pub. L. 104–330, §506(a)(3)(A), struck out “, and to Indian tribes,” after “in the States)” and “, or for Indian tribes” after “or urban county” in two places.
 
 Subsec. (c). Pub. L. 104–330, §506(a)(3)(B), struck out “or Indian tribe” after “Any local government”.
 

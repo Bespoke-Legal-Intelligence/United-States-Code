@@ -34,7 +34,7 @@
 
 &emsp;&emsp;Big Sandy River
 
-(2) Submit each planning report on the units named in paragraph (1) of this subsection promptly to the Colorado River Basin States and to such other parties as the Secretary deems appropriate for their review and comments. After receipt of comments on a unit and careful consideration thereof, the Secretary shall submit each final report with his recommendations, simultaneously, to the President, other concerned Federal departments and agencies, the Congress, and the Colorado River Basin States.
+(2) Submit each planning report on the units named in paragraph (1) of this subsection promptly to the Colorado River Basin Statesand to such other parties as the Secretary deems appropriate for their review and comments. After receipt of comments on a unit and careful consideration thereof, the Secretary shall submit each final report with his recommendations, simultaneously, to the President, other concerned Federal departments and agencies, the Congress, and the Colorado River Basin States.
 
 (b) The Secretary is directed—
 
@@ -44,7 +44,7 @@
 
 &emsp;(3) to develop a comprehensive program for minimizing salt contributions to the Colorado River from lands administered by the Bureau of Land Management and submit a report which describes the program and recommended implementation actions to the Congress and to the members of the advisory council established by section 1594(a) of this title by July 1, 1987;
 
-&emsp;(4) to undertake feasibility investigations of saline water use and disposal opportunities,including measures and all necessary appurtenant and associated works, to demonstrate saline water use technology and to beneficially use and dispose of saline and brackish waters of the Colorado River Basin in joint ventures with current and future industrial water users, using, but not limited to, the concepts generally described in the Bureau of Reclamation Special Report of September 1981, entitled “Saline water use and disposal opportunities”; and
+&emsp;(4) to undertake feasibility investigations of saline water use and disposal opportunities, including measures and all necessary appurtenant and associated works, to demonstrate saline water use technology and to beneficially use and dispose of saline and brackish waters of the Colorado River Basin in joint ventures with current and future industrial water users, using, but not limited to, the concepts generally described in the Bureau of Reclamation Special Report of September 1981, entitled “Saline water use and disposal opportunities”; and
 
 &emsp;(5) to undertake advance planning activities on the Sinbad Valley Unit, Colorado, as described in the Bureau of Land Management Salinity Status Report, covering the period 1978–1979 and dated February 1980.
 

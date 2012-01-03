@@ -1,5 +1,5 @@
 
-1 U.S.C.<br>United States Code, 2010 Edition<br>Title 1 - GENERAL PROVISIONS<br>From the U.S. Government Publishing Office, www.gpo.gov
+1 U.S.C.<br>United States Code, 2011 Edition<br>Title 1 - GENERAL PROVISIONS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 1—GENERAL PROVISIONS
 
@@ -141,7 +141,11 @@ Mar. 3, 1933, ch. 202, §3, 47 Stat. 1431
 
 111
 
-30DJan. 12, 1895, ch. 23, §73, 28 Stat. 615D112
+30
+
+Jan. 12, 1895, ch. 23, §73, 28 Stat. 615
+
+112
 
 June 20, 1936, ch. 630, §9, 49 Stat. 1551.
 

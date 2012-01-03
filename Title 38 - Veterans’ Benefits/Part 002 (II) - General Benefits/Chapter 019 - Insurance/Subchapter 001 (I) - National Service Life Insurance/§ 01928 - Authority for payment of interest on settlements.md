@@ -14,5 +14,5 @@
 
 #### Effective Date
 
-Section 1401(a)(3) of Pub. L. 100–687 provided that: “The amendments made by this subsection \[enactingthis section and section 763 \[now 1963\] of this title\] shall take effect with respect to insurance policies maturing after the date of the enactment of this Act \[Nov. 18, 1988\].”
+Section 1401(a)(3) of Pub. L. 100–687 provided that: “The amendments made by this subsection \[enacting this section and section 763 \[now 1963\] of this title\] shall take effect with respect to insurance policies maturing after the date of the enactment of this Act \[Nov. 18, 1988\].”
 

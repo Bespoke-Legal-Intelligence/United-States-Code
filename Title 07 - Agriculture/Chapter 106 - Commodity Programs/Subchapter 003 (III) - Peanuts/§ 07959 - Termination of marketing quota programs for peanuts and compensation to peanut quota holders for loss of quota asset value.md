@@ -48,7 +48,7 @@ The provisions of section 590h(g) of title 16, relating to assignment of payment
 
 #### (2) Effect of purchase contract
 
-&emsp;If there was a written contract for the purchase of all or a portion of a farm described in paragraph (1) as of May 13, 2002, and the parties to the sale are unable to agree to the disposition of eligibility for payments under this section, the Secretary, taking into account any incomplete permanent transfer of quota that has otherwise been agreed to, shall provide for the equitable division of the payments among the parties by adjusting the determination of who is the eligible peanut quota holder with respect to particular pounds of the quota.
+&emsp;If there was a written contract for the purchase of all or a portion of a farm described in paragraph (1) as of May 13, 2002, and the parties to the sale are unable to agree to the disposition of eligibility for payments under this section, the Secretary, taking into account any incomplete permanent transfer of quota that has otherwise been agreed to, shall provide for the equitable division of the paymentsamong the parties by adjusting the determination of who is the eligible peanut quota holder with respect to particular pounds of the quota.
 
 #### (3) Effect of agreement for permanent quota transfer
 

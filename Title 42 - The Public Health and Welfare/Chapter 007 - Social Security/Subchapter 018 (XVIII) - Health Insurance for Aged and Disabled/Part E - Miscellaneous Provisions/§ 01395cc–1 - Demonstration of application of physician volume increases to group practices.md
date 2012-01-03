@@ -86,10 +86,6 @@
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1866A, as added Pub. L. 106–554, §1(a)(6) \[title IV, §412(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–509.)
 
-#### References in Text
-
-Parts A and B of this subchapter, referred to in subsecs. (a)(1)(A) and (d)(1)(A), are classified to sections 1395c et seq. and 1395j et seq., respectively, of this title.
-
 #### GAO Report
 
 Pub. L. 106–554, §1(a)(6) \[title IV, §412(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–515, provided that: “Not later than 2 years after the date on which the demonstration project under section 1866A of the Social Security Act \[this section\], as added by subsection (a), is implemented, the Comptroller General of the United States shall submit to Congress a report on such demonstration project. The report shall include such recommendations with respect to changes to the demonstration project that the Comptroller General determines appropriate.”

@@ -44,7 +44,7 @@ Compliance protocol.—The term ‘compliance protocol’ means that segment of 
 
 &emsp;“(3)
 
-Industry.—The term ‘industry’ means any corporate or private sector entity engaged in the research, development, production, import, and export of peaceful pharmaceuticals and bio-technological and related products.
+Industry.—The term ‘industry’ means any corporate or private sector entity engaged in the research, development, production, import, and exportof peaceful pharmaceuticals and bio-technological and related products.
 
 #### “SEC. 1123. FINDINGS.
 

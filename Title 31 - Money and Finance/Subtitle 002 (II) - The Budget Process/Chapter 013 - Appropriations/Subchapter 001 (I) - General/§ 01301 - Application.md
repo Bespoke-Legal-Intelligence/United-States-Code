@@ -88,7 +88,7 @@ Sec. 2. <i>Duties of Agency Heads</i>. (a) With respect to all appropriations la
 
 (i) agency decisions to commit, obligate, or expend funds for any earmark are based on the text of laws, and in particular, are not based on language in any report of a committee of Congress, joint explanatory statement of a committee of conference of the Congress, statement of managers concerning a bill in the Congress, or any other non-statutory statement or indication of views of the Congress, or a House, committee, Member, officer, or staff thereof;
 
-(ii) agency decisions to commit, obligate, or expend funds for any earmark are based on authorized, transparent, statutory criteria and merit-based decision making, in the manner set forth in section II of OMBMemorandum M–07–10, dated February 15, 2007, to the extent consistent with applicable law; and
+(ii) agency decisions to commit, obligate, or expend funds for any earmark are based on authorized, transparent, statutory criteria and merit-based decision making, in the manner set forth in section II of OMB Memorandum M–07–10, dated February 15, 2007, to the extent consistent with applicable law; and
 
 (iii) no oral or written communications concerning earmarks shall supersede statutory criteria, competitive awards, or merit-based decisionmaking.
 

@@ -20,7 +20,7 @@ The Congress finds that—
 
 &emsp;(6) under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.) manufacturers of medical devices are required to demonstrate that the medical devices are safe and effective, including demonstrating that the products are properly designed and have adequate warnings or instructions;
 
-&emsp;(7) notwithstanding the fact that raw materials and component parts suppliers do not design, produce, or test a final medical device, the suppliers have been the subject of actions alleging inadequate—
+&emsp;(7) notwithstanding the fact that raw materials and component parts suppliers do not design, produce, or test a final medical device,the suppliers have been the subject of actions alleging inadequate—
 
 &emsp;&emsp;(A) design and testing of medical devices manufactured with materials or parts supplied by the suppliers; or
 

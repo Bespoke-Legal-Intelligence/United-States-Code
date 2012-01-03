@@ -36,7 +36,7 @@ In this division:
 
 &emsp;&emsp;&emsp;(i) assisting the State educational agency in making adequate yearly progress, as defined under section 6311(b)(2) of this title; and
 
-&emsp;&emsp;&emsp;(ii) aligning State and local reforms and assisting the local educational agencies that enter into performance agreements with the State educational agency under paragraph (2) in making such adequate yearly progress;
+&emsp;&emsp;&emsp;(ii) aligning State and local reforms and assisting the local educational agencies that enter into performance agreements with the State educational agency underparagraph (2) in making such adequate yearly progress;
 
 &emsp;&emsp;(B) the performance agreements that the State educational agency proposes to enter into with eligible local educational agencies under paragraph (2);
 
@@ -110,7 +110,7 @@ The Secretary shall—
 
 #### (B) Expansion of scope of the grant of authority
 
-&emsp;&emsp;Not later than 1 year after receiving a grant of flexibility authority, the State educational agency seeks to amend the grant of authority to include in the scope of the grant of authority any additional programdescribed in section 7315a(b) of this title or any additional achievement indicators for which the State will be held accountable.
+&emsp;&emsp;Not later than 1 year after receiving a grant of flexibility authority, the State educational agency seeks to amend the grant of authority to include in the scope of the grant of authority any additional program described in section 7315a(b) of this title or any additional achievement indicators for which the State will be held accountable.
 
 #### (C) Changes with respect to number of performance agreements
 

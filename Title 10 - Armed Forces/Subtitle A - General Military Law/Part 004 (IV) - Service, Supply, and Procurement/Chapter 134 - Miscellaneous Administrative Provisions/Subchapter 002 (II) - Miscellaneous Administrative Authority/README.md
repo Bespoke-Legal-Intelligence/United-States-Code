@@ -6,6 +6,7 @@
 | [2252\.](%C2%A7%2002252%20-%20Rewards%20missing%20property.md) | Rewards: missing property. |
 | [2253\.](%C2%A7%2002253%20-%20Motor%20vehicles.md) | Motor vehicles. |
 | [2254\.](%C2%A7%2002254%20-%20Treatment%20of%20reports%20of%20aircraft%20accident%20investigations.md) | Treatment of reports of aircraft accident investigations. |
+| [2254a.](%C2%A7%2002254a%20-%20Data%20files%20of%20military%20flight%20operations%20quality%20assurance%20systems%20exemption%20from%20disclosure%20under%20Freedom%20of%20Information%20Act.md) | Data files of military flight operations quality assurance systems: exemption from disclosure under Freedom of Information Act. |
 | [2255\.](%C2%A7%2002255%20-%20Aircraft%20accident%20investigation%20boards%20composition%20requirements.md) | Aircraft accident investigation boards: composition requirements. |
 | [2257\.](%C2%A7%2002257%20-%20Use%20of%20recruiting%20materials%20for%20public%20relations.md) | Use of recruiting materials for public relations. |
 | [2259\.](%C2%A7%2002259%20-%20Transit%20pass%20program%20personnel%20in%20poor%20air%20quality%20areas.md) | Transit pass program: personnel in poor air quality areas. |
@@ -17,6 +18,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2011</b>—Pub. L. 112–81, div. A, title X, §1082(a)(2), Dec. 31, 2011, 125 Stat. 1601, added item 2254a.
 
 <b>2008</b>—Pub. L. 110–417, \[div. A\], title X, §1004(a)(2), Oct. 14, 2008, 122 Stat. 4583, added item 2263.
 
@@ -43,6 +46,7 @@ Pub. L. 109–163, div. A, title V, §589(a)(2), Jan. 6, 2006, 119 Stat. 3279, a
 - [&sect; 02252 - Rewards missing property](%C2%A7%2002252%20-%20Rewards%20missing%20property.md)
 - [&sect; 02253 - Motor vehicles](%C2%A7%2002253%20-%20Motor%20vehicles.md)
 - [&sect; 02254 - Treatment of reports of aircraft accident investigations](%C2%A7%2002254%20-%20Treatment%20of%20reports%20of%20aircraft%20accident%20investigations.md)
+- [&sect; 02254a - Data files of military flight operations quality assurance systems exemption from disclosure under Freedom of Information Act](%C2%A7%2002254a%20-%20Data%20files%20of%20military%20flight%20operations%20quality%20assurance%20systems%20exemption%20from%20disclosure%20under%20Freedom%20of%20Information%20Act.md)
 - [&sect; 02255 - Aircraft accident investigation boards composition requirements](%C2%A7%2002255%20-%20Aircraft%20accident%20investigation%20boards%20composition%20requirements.md)
 - [&sect; 02257 - Use of recruiting materials for public relations](%C2%A7%2002257%20-%20Use%20of%20recruiting%20materials%20for%20public%20relations.md)
 - [&sect; 02259 - Transit pass program personnel in poor air quality areas](%C2%A7%2002259%20-%20Transit%20pass%20program%20personnel%20in%20poor%20air%20quality%20areas.md)

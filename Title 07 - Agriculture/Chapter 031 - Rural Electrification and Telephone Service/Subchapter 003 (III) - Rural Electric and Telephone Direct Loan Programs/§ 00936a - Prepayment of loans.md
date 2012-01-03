@@ -18,7 +18,7 @@ No sums in addition to the payment of the outstanding principal balance due on t
 
 (1) A borrower will not qualify for prepayment under this section if, in the opinion of the Secretary of the Treasury, to prepay in such borrower's case would adversely affect the operation of the Federal Financing Bank.
 
-(2) Paragraph (1) shall be effective in fiscal year 1987 only for any loan the prepayment of the principal amount of which will cause the cumulative amount of net proceeds from all suchprepayments made during such year to exceed $2,017,500,000.
+(2) Paragraph (1) shall be effective in fiscal year 1987 only for any loan the prepayment of the principal amount of which will cause the cumulative amount of net proceeds from all such prepayments made during such year to exceed $2,017,500,000.
 
 #### (d) Amount of permissible prepayments; establishment of eligibility criteria
 
@@ -42,7 +42,7 @@ Public Law 99–349, referred to in subsec. (d)(1), is Pub. L. 99–349, July 2,
 
 #### Amendments
 
-1994—Pub. L. 103–354 substituted “Secretary” for “Rural Electrification Administration” in subsec. (b) and “Secretary” for “Administrator” wherever appearing in subsecs. (d) and (e).
+<b>1994</b>—Pub. L. 103–354 substituted “Secretary” for “Rural Electrification Administration” in subsec. (b) and “Secretary” for “Administrator” wherever appearing in subsecs. (d) and (e).
 
 #### Prepayment of Rural Electrification Loans During Fiscal Year 1988
 

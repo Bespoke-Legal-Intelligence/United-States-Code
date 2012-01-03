@@ -16,11 +16,11 @@ In order to be an eligible institution for the purposes of any program authorize
 
 &emsp;&emsp;(C) the appropriate accrediting agency or association.
 
-&emsp;(4) The institution will comply with the provisions of subsection (c) of this section and theregulations prescribed under that subsection, relating to fiscal eligibility.
+&emsp;(4) The institution will comply with the provisions of subsection (c) of this section and the regulations prescribed under that subsection, relating to fiscal eligibility.
 
 &emsp;(5) The institution will submit reports to the Secretary and, in the case of an institution participating in a program under part B or part D of this subchapter, to holders of loans made to the institution's students under such parts at such times and containing such information as the Secretary may reasonably require to carry out the purpose of this subchapter and part C of subchapter I of chapter 34 of title 42.
 
-&emsp;(6) The institution will not provide any student with any statement or certification to any lender under part B of this subchapter that qualifies the student for a loan or loans in excess of the amount that student is eligible to borrow in accordance with sections 1075(a), 1078(a)(2), and 1078(b)(1)(A) and (B) of this title.
+&emsp;(6) The institution will not provide any student with any statement or certification to any lender under part B of this subchapter that qualifies the student for a loan or loansin excess of the amount that student is eligible to borrow in accordance with sections 1075(a), 1078(a)(2), and 1078(b)(1)(A) and (B) of this title.
 
 &emsp;(7) The institution will comply with the requirements of section 1092 of this title.
 
@@ -60,7 +60,7 @@ In order to be an eligible institution for the purposes of any program authorize
 
 &emsp;(18) The institution will meet the requirements established pursuant to section 1092(g) of this title.
 
-&emsp;(19) The institution will not impose any penalty, including the assessment of late fees, the denial of access to classes, libraries, or other institutional facilities, or the requirement that the student borrow additional funds, on any student because of the student's inability to meet his or her financial obligations to the institution as a result of the delayed disbursement of the proceeds of a loan made under this subchapter and part C of subchapter I of chapter 34 of title 42 due to compliance with the provisions of this subchapter and part C of subchapter I of chapter 34 of title 42, or delays attributable to the institution.
+&emsp;(19) The institution will not impose any penalty, including the assessment of late fees, the denial of access to classes, libraries, or other institutional facilities, or the requirement that the student borrow additional funds, on any student because of the student's inabilityto meet his or her financial obligations to the institution as a result of the delayed disbursement of the proceeds of a loan made under this subchapter and part C of subchapter I of chapter 34 of title 42 due to compliance with the provisions of this subchapter and part C of subchapter I of chapter 34 of title 42, or delays attributable to the institution.
 
 &emsp;(20) The institution will not provide any commission, bonus, or other incentive payment based directly or indirectly on success in securing enrollments or financial aid to any persons or entities engaged in any student recruiting or admission activities or in making decisions regarding the award of student financial assistance, except that this paragraph shall not apply to the recruitment of foreign students residing in foreign countries who are not eligible to receive Federal student assistance.
 
@@ -100,7 +100,7 @@ In order to be an eligible institution for the purposes of any program authorize
 
 &emsp;(29) The institution certifies that the institution—
 
-&emsp;&emsp;(A) has developed plans to effectively combat the unauthorized distribution of copyrighted material, including through the use of a variety of technology-based deterrents; and
+&emsp;&emsp;(A) has developed plans to effectively combat the unauthorized distribution of copyrighted material, including through the useof a variety of technology-based deterrents; and
 
 &emsp;&emsp;(B) will, to the extent practicable, offer alternatives to illegal downloading or peer-to-peer distribution of intellectual property, as determined by the institution in consultation with the chief technology officer or other designated officer of the institution.
 
@@ -126,7 +126,7 @@ In order to be an eligible institution for the purposes of any program authorize
 
 &emsp;(ii) with regard to a third party servicer that is audited under chapter 75 of title 31, such audit shall be deemed to satisfy the requirements of clause (i) for the period covered by such audit;
 
-&emsp;(D)(i) a compliance audit of a secondary market with regard to its transactions involving, and its servicing and collection of, loansmade under this subchapter and part C of subchapter I of chapter 34 of title 42, at least once a year and covering the period since the most recent audit, conducted by a qualified, independent organization or person in accordance with standards established by the Comptroller General for the audit of governmental organizations, programs, and functions, and as prescribed in regulations of the Secretary, the results of which shall be submitted to the Secretary; or
+&emsp;(D)(i) a compliance audit of a secondary market with regard to its transactions involving, and its servicing and collection of, loans made under this subchapter and part C of subchapter I of chapter 34 of title 42, at least once a year and covering the period since the most recent audit, conducted by a qualified, independent organization or person in accordance with standards established by the Comptroller General for the audit of governmental organizations, programs, and functions, and as prescribed in regulations of the Secretary, the results of which shall be submitted to the Secretary; or
 
 &emsp;(ii) with regard to a secondary market that is audited under chapter 75 of title 31, such audit shall be deemed to satisfy the requirements of clause (i) for the period covered by the audit;
 
@@ -154,9 +154,9 @@ In order to be an eligible institution for the purposes of any program authorize
 
 &emsp;&emsp;(iii) determines that the likelihood of loss outweighs the importance of the procedures prescribed under subparagraph (F), for limitation, suspension, or termination,
 
-> &emsp;except that an emergency action shall not exceed 30 days unless the limitation, suspension,or termination proceedings are initiated by the Secretary against the individual or organization within that period of time, and except that the Secretary shall provide the individual or organization an opportunity to show cause, if it so requests, that the emergency action is unwarranted.
+> &emsp;except that an emergency action shall not exceed 30 days unless the limitation, suspension, or termination proceedings are initiated by the Secretary against the individual or organization within that period of time, and except that the Secretary shall provide the individual or organization an opportunity to show cause, if it so requests, that the emergency action is unwarranted.
 
-(2) If an individual who, or entity that, exercises substantial control, as determined by the Secretary in accordance with the definition of substantial control in subpart 3 of part G of this subchapter, over one or more institutions participating in any program under this subchapter and part C of subchapter I of chapter 34 of title 42, or, for purposes of paragraphs (1)(H) and (I), over one or more organizations that contract with an institution to administer any aspect of the institution's student assistance program under this subchapter and part C of subchapter I of chapter 34 of title 42, is determined to have committed one or more violations of the requirements of any program under this subchapter and part C of subchapter I of chapter 34 of title 42, or has been suspended or debarred in accordance with the regulations of the Secretary, the Secretary may use such determination, suspension, or debarment as the basis for imposing an emergency action on, or limiting, suspending, or terminating, in a single proceeding, the participation of any or all institutions under the substantial control of that individual or entity.
+(2) If an individual who, or entity that, exercises substantial control, as determined by the Secretary in accordance with the definition of substantial control in subpart 3 of part G of this subchapter, over one or more institutions participating in any program under this subchapter and part C of subchapter I of chapter 34 of title42, or, for purposes of paragraphs (1)(H) and (I), over one or more organizations that contract with an institution to administer any aspect of the institution's student assistance program under this subchapter and part C of subchapter I of chapter 34 of title 42, is determined to have committed one or more violations of the requirements of any program under this subchapter and part C of subchapter I of chapter 34 of title 42, or has been suspended or debarred in accordance with the regulations of the Secretary, the Secretary may use such determination, suspension, or debarment as the basis for imposing an emergency action on, or limiting, suspending, or terminating, in a single proceeding, the participation of any or all institutions under the substantial control of that individual or entity.
 
 (3)(A) Upon determination, after reasonable notice and opportunity for a hearing, that an eligible institution has engaged in substantial misrepresentation of the nature of its educational program, its financial charges, or the employability of its graduates, the Secretary may suspend or terminate the eligibility status for any or all programs under this subchapter and part C of subchapter I of chapter 34 of title 42 of any otherwise eligible institution, in accordance with procedures specified in paragraph (1)(D) of this subsection, until the Secretary finds that such practices have been corrected.
 
@@ -252,9 +252,9 @@ In order to be an eligible institution for the purposes of any program authorize
 
 #### (B) Additional enforcement
 
-&emsp;&emsp;In addition to such other means of enforcing the requirements of this subchapter and part C of subchapter I of chapter 34 of title 42 as may be available to the Secretary, if aproprietary institution of higher education fails to meet a requirement of subsection (a)(24) for any institutional fiscal year, then the institution's eligibility to participate in the programs authorized by this subchapter and part C of subchapter I of chapter 34 of title 42 becomes provisional for the two institutional fiscal years after the institutional fiscal year in which the institution failed to meet the requirement of subsection (a)(24), except that such provisional eligibility shall terminate—
+&emsp;&emsp;In addition to such other means of enforcing the requirements of this subchapter and part C of subchapter I of chapter 34 of title 42 as may be available to the Secretary, if a proprietary institution of higher education fails to meet a requirement of subsection (a)(24) for any institutional fiscal year, then the institution's eligibility to participate in the programs authorized by this subchapter and part C of subchapter I of chapter 34 of title 42 becomes provisional for the two institutional fiscal years after the institutional fiscal year in which the institution failed to meet the requirement of subsection (a)(24), except that such provisional eligibility shall terminate—
 
-&emsp;&emsp;&emsp;(i) on the expiration date of the institution's program participation agreement under this subsection that is in effect on the date the Secretary determines that the institution failed to meet the requirement of subsection (a)(24); or
+&emsp;&emsp;&emsp;(i) on the expiration date of the institution's program participation agreement under this subsection that is in effect on the date the Secretary determines that theinstitution failed to meet the requirement of subsection (a)(24); or
 
 &emsp;&emsp;&emsp;(ii) in the case that the Secretary determines that the institution failed to meet a requirement of subsection (a)(24) for two consecutive institutional fiscal years, on the date the institution is determined ineligible in accordance with subparagraph (A).
 
@@ -326,7 +326,7 @@ An institution of higher education's code of conduct, as required under subsecti
 
 #### (iii) Rule for gifts to family members
 
-&emsp;&emsp;&emsp;For purposes of this paragraph, a gift to a family member of an officer or employee of an institution, to a family member of an agent, or to any other individual based on that individual's relationship with the officer, employee, or agent, shall be considered a gift to the officer, employee, or agent if—
+&emsp;&emsp;&emsp;For purposes of this paragraph, a gift to a family member of an officer or employeeof an institution, to a family member of an agent, or to any other individual based on that individual's relationship with the officer, employee, or agent, shall be considered a gift to the officer, employee, or agent if—
 
 &emsp;&emsp;&emsp;&emsp;(I) the gift is given with the knowledge and acquiescence of the officer, employee, or agent; and
 
@@ -384,13 +384,13 @@ An institution of higher education's code of conduct, as required under subsecti
 
 &emsp;&emsp;&emsp;(i) professional development training for financial aid administrators;
 
-&emsp;&emsp;&emsp;(ii) providing educational counseling materials, financial literacy materials, or debt management materials to borrowers, provided that such materials disclose toborrowers the identification of any lender that assisted in preparing or providing such materials; or
+&emsp;&emsp;&emsp;(ii) providing educational counseling materials, financial literacy materials, or debt management materials to borrowers, provided that such materials disclose to borrowers the identification of any lender that assisted in preparing or providing such materials; or
 
 &emsp;&emsp;&emsp;(iii) staffing services on a short-term, nonrecurring basis to assist the institution with financial aid-related functions during emergencies, including State-declared or federally declared natural disasters, federally declared national disasters, and other localized disasters and emergencies identified by the Secretary.
 
 #### (7) Advisory board compensation
 
-&emsp;Any employee who is employed in the financial aid office of the institution, or who otherwise has responsibilities with respect to education loans or other student financial aid of the institution, and who serves on an advisory board, commission, or group established by a lender, guarantor, or group of lenders or guarantors, shall be prohibited from receiving anything of value from the lender, guarantor, or group of lenders or guarantors, except that the employee may be reimbursed for reasonable expenses incurred in serving on such advisory board, commission, or group.
+&emsp;Any employee who is employed in the financial aid office of the institution, or who otherwise has responsibilities with respect to education loans or other student financial aid ofthe institution, and who serves on an advisory board, commission, or group established by a lender, guarantor, or group of lenders or guarantors, shall be prohibited from receiving anything of value from the lender, guarantor, or group of lenders or guarantors, except that the employee may be reimbursed for reasonable expenses incurred in serving on such advisory board, commission, or group.
 
 #### (f) Institutional requirements for teach-outs
 
@@ -446,7 +446,7 @@ The Inspector General of the Department shall—
 
 &emsp;&emsp;(D) exercise a duty of care and a duty of loyalty to compile the preferred lender list under this paragraph without prejudice and for the sole benefit of the students attending the institution, or the families of such students;
 
-&emsp;&emsp;(E) not deny or otherwise impede the borrower's choice of a lender or cause unnecessary delay in loan certification under this subchapter and part C of subchapter I ofchapter 34 of title 42 for those borrowers who choose a lender that is not included on the preferred lender list; and
+&emsp;&emsp;(E) not deny or otherwise impede the borrower's choice of a lender or cause unnecessary delay in loan certification under this subchapter and part C of subchapter I of chapter 34 of title 42 for those borrowers who choose a lender that is not included on the preferred lender list; and
 
 &emsp;&emsp;(F) comply with such other requirements as the Secretary may prescribe by regulation.
 
@@ -528,7 +528,7 @@ Subsec. (c)(1)(A)(i). Pub. L. 110–315, §493(b), inserted before semicolon at 
 
 Subsecs. (d) to (h). Pub. L. 110–315, §493(c)(2), added subsecs. (d) to (h). Former subsecs. (d) and (e) were redesignated (i) and (j), respectively.
 
-Subsec. (i). Pub. L. 110–315, §493(c)(1), (d), redesignated subsec. (d) as (i), substituted “Definitions” for“Definition of eligible institution” in heading, added pars. (1) to (3), inserted par. (4) designation and heading before definition of “eligible institution”, and added pars. (5) and (6).
+Subsec. (i). Pub. L. 110–315, §493(c)(1), (d), redesignated subsec. (d) as (i), substituted “Definitions” for “Definition of eligible institution” in heading, added pars. (1) to (3), inserted par. (4) designation and heading before definition of “eligible institution”, and added pars. (5) and (6).
 
 Subsec. (j). Pub. L. 110–315, §493(c)(1), redesignated subsec. (e) as (j).
 

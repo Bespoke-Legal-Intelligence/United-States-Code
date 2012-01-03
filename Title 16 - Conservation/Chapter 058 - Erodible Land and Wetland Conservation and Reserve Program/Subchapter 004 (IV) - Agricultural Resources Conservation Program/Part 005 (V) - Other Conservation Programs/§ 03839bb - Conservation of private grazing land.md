@@ -112,7 +112,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(ii) will promote sound grazing practices; and
 
-&emsp;&emsp;&emsp;(iii) contains provisions similar to the provisions contained in the beef promotion and research order issued under section 2903 of title 7 in effect on April 4, 1996.
+&emsp;&emsp;&emsp;(iii) contains provisions similar to the provisions contained in the beef promotionand research order issued under section 2903 of title 7 in effect on April 4, 1996.
 
 #### (D) Area included
 

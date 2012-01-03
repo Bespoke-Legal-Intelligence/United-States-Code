@@ -16,7 +16,7 @@ The Congress finds that—
 
 &emsp;(4) the Congress, through treaties, statutes, and the general course of dealing with Indian tribes, has assumed a trust responsibility for the protection and preservation of Indian tribes and for working with tribes and their members to improve their housing conditions and socioeconomic status so that they are able to take greater responsibility for their own economic condition;
 
-&emsp;(5) providing affordable homes in safe and healthy environments is an essential element in the special role of the United States in helping tribes and their members to improve their housing conditions and socioeconomic status;
+&emsp;(5) providing affordable homes in safe and healthy environments is an essential element in the special role of the United States inhelping tribes and their members to improve their housing conditions and socioeconomic status;
 
 &emsp;(6) the need for affordable homes in safe and healthy environments on Indian reservations, in Indian communities, and in Native Alaskan villages is acute and the Federal Government shall work not only to provide housing assistance, but also, to the extent practicable, to assist in the development of private housing finance mechanisms on Indian lands to achieve the goals of economic self-sufficiency and self-determination for tribes and their members; and
 
@@ -34,7 +34,7 @@ Public Law 93–638, referred to in par. (7), is Pub. L. 93–638, Jan. 4, 1975,
 
 #### Effective Date
 
-Section 107 of Pub. L. 104–330 provided that: “Except as otherwise expressly provided in this Act \[see ShortTitle note below\], this Act and the amendments made by this Act shall take effect on October 1, 1997.”
+Section 107 of Pub. L. 104–330 provided that: “Except as otherwise expressly provided in this Act \[see Short Title note below\], this Act and the amendments made by this Act shall take effect on October 1, 1997.”
 
 #### Short Title of 2010 Amendment
 

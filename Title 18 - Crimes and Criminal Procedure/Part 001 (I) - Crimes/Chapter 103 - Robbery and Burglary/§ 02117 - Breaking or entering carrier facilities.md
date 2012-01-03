@@ -22,7 +22,7 @@ This section \[section 44\] conforms section 2117 of title 18, U.S.C., more clos
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–322, which directed the amendment of section 2217 of this title by substituting “under thistitle” for “not more than $5,000”, was executed by making the substitution in the first par. of this section, to reflect the probable intent of Congress, because this title does not contain a section 2217.
+<b>1994</b>—Pub. L. 103–322, which directed the amendment of section 2217 of this title by substituting “under this title” for “not more than $5,000”, was executed by making the substitution in the first par. of this section, to reflect the probable intent of Congress, because this title does not contain a section 2217.
 
 <b>1966</b>—Pub. L. 89–654 substituted “Breaking or entering carrier facilities” for “Railroad car entered or seal broken” as section catchline, inserted reference to “pipeline system”, substituted “freight or express or other property” for “freight or express”, and prohibited any construction which might indicate a Congressional intent to occupy the field or invalidate State law.
 

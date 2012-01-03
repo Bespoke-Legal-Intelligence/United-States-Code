@@ -6,7 +6,7 @@ Within 360 days after October 22, 1986, the Administrator shall promulgate regul
 
 #### (b) Inspection
 
-The Administrator shall promulgate regulations which prescribe procedures, including the use of personnel accredited under section 2646(b) or (c) of this title and laboratories accredited under section 2646(d) of this title, for determining whether asbestos-containing material is present in a school building under the authority of a local educational agency. The regulations shall provide for the exclusion of any school building, or portion of a school building, if (1) an inspection of such school building (or portion) was completed before the effective date of the regulations, and (2) the inspection meets the procedures and other requirements of the regulations under this subchapter or of the “Guidance for Controlling Asbestos-Containing Materials in Buildings” (unless the Administrator determines that an inspection in accordance with the guidance document is inadequate). The regulations shall require inspection of any school building (or portion of a school building) that is not excluded by the preceding sentence.
+The Administrator shall promulgate regulations which prescribe procedures, including the use of personnel accredited under section 2646(b) or (c) of this title and laboratories accredited under section 2646(d) of this title, for determining whether asbestos-containing material is present in a school building under the authorityof a local educational agency. The regulations shall provide for the exclusion of any school building, or portion of a school building, if (1) an inspection of such school building (or portion) was completed before the effective date of the regulations, and (2) the inspection meets the procedures and other requirements of the regulations under this subchapter or of the “Guidance for Controlling Asbestos-Containing Materials in Buildings” (unless the Administrator determines that an inspection in accordance with the guidance document is inadequate). The regulations shall require inspection of any school building (or portion of a school building) that is not excluded by the preceding sentence.
 
 #### (c) Circumstances requiring response actions
 
@@ -62,7 +62,7 @@ The Administrator shall promulgate regulations which prescribe procedures, inclu
 
 #### (6) “Preventive measures” defined
 
-&emsp;For purposes of this section, the term “preventive measures” means actions which eliminate the reasonable likelihood of asbestos-containing material becoming damaged, deteriorated, or delaminated, or significantly damaged <sup>1</sup> deteriorated, or delaminated (as thecase may be) or which protect human health and the environment.
+&emsp;For purposes of this section, the term “preventive measures” means actions which eliminate the reasonable likelihood of asbestos-containing material becoming damaged, deteriorated, or delaminated, or significantly damaged <sup>1</sup> deteriorated, or delaminated (as the case may be) or which protect human health and the environment.
 
 #### (7) EPA information or advisory
 
@@ -74,7 +74,7 @@ The Administrator shall promulgate regulations which prescribe procedures, inclu
 
 &emsp;&emsp;(C) describe the circumstances in which asbestos removal is necessary to protect human health.
 
-&emsp;Such information or advisory shall be based on the best available scientific evidence and shall be revised, republished, and redistributed as appropriate, to reflect new scientific findings.
+&emsp;Such information or advisory shall be based on the best available scientific evidence andshall be revised, republished, and redistributed as appropriate, to reflect new scientific findings.
 
 #### (e) Implementation
 
@@ -126,7 +126,7 @@ The Administrator shall promulgate regulations which prescribe standards for tra
 
 &emsp;&emsp;&emsp;(ii) A statement that the local educational agency used (or will use) persons who have been accredited by another State which has adopted a contractor accreditation plan under section 2646(b) of this title or is accredited pursuant to an Administrator-approved course under section 2646(c) of this title.
 
-&emsp;&emsp;(G) A list of the laboratories that analyzed any bulk samples of asbestos-containing material found in the school building or airsamples taken to detect asbestos in the school building and a statement that each laboratory has been accredited pursuant to the accreditation program under section 2646(d) of this title.
+&emsp;&emsp;(G) A list of the laboratories that analyzed any bulk samples of asbestos-containing material found in the school building or air samples taken to detect asbestos in the school building and a statement that each laboratory has been accredited pursuant to the accreditation program under section 2646(d) of this title.
 
 &emsp;&emsp;(H) With respect to each consultant who contributed to the management plan, the name of the consultant and one of the following statements:
 
@@ -134,7 +134,7 @@ The Administrator shall promulgate regulations which prescribe standards for tra
 
 &emsp;&emsp;&emsp;(ii) A statement that the contractor is accredited by another State which has adopted a contractor accreditation plan under section 2646(b) of this title or is accredited pursuant to an Administrator-approved course under section 2646(c) of this title.
 
-&emsp;&emsp;(I) An evaluation of resources needed to successfully complete response actions and carry out reinspection, surveillance, and operation and maintenance activities.
+&emsp;&emsp;(I) An evaluation of resources needed to successfully complete response actions andcarry out reinspection, surveillance, and operation and maintenance activities.
 
 #### (2) Statement by contractor
 

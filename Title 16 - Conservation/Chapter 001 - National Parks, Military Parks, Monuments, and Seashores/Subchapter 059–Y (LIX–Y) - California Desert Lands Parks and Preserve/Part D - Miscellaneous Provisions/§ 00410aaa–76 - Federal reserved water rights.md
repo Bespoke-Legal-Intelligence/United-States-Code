@@ -10,7 +10,7 @@ The Secretary and all other officers of the United States shall take all steps n
 
 #### (c) Relinquishment or reduction of rights
 
-Nothing in this Act shall be construed as a relinquishment or reduction of any water rights reserved or appropriated by the United States in the State of California on or before October 31, 1994.
+Nothing in this Act shall be construed as a relinquishment or reduction of any water rights reserved or appropriated by the United States inthe State of California on or before October 31, 1994.
 
 #### (d) Specific reservation
 

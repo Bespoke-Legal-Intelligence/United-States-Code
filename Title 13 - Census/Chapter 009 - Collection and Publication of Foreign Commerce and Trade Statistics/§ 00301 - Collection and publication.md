@@ -1,6 +1,6 @@
 ### §301. Collection and publication
 
-(a) The Secretary is authorized to collect information from all persons exporting from, or importing into, the United States and the noncontiguous areas over which the United States exercises sovereignty, jurisdiction, or control, and from all persons engaged in trade between the United States and such noncontiguous areas and between those areas, or from the owners, oroperators of carriers engaged in such foreign commerce or trade, and shall compile and publish such information pertaining to exports, imports, trade, and transportation relating thereto, as he deems necessary or appropriate to enable him to foster, promote, develop, and further the commerce, domestic and foreign, of the United States and for other lawful purposes.
+(a) The Secretary is authorized to collect information from all persons exporting from, or importing into, the United States and the noncontiguous areas over which the United States exercises sovereignty, jurisdiction, or control, and from all persons engaged in trade between the United States and such noncontiguous areas and between those areas, or from the owners, or operators of carriers engaged in such foreign commerce or trade, and shall compile and publish such information pertaining to exports, imports, trade, and transportation relating thereto, as he deems necessary or appropriate to enable him to foster, promote, develop, and furtherthe commerce, domestic and foreign, of the United States and for other lawful purposes.
 
 (b) The Secretary shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate, on quarterly and cumulative bases, statistics on United States imports for consumption and United States exports by country and by product. Statistics on United States imports shall be submitted in accordance with the Harmonized Tariff Schedule of the United States Annotated for Statistical Reporting Purposes and general statistical note 1 thereof, in detail as follows:
 
@@ -54,11 +54,11 @@ The Foreign Assistance Act of 1961, referred to in subsecs. (c)(2), (d)(2), is P
 
 #### Amendments
 
-2008—Subsecs. (c)(1)(A), (d)(1). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
+<b>2008</b>—Subsecs. (c)(1)(A), (d)(1). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
 
-1999—Subsec. (h). Pub. L. 106–113 added subsec. (h).
+<b>1999</b>—Subsec. (h). Pub. L. 106–113 added subsec. (h).
 
-1988—Subsec. (b). Pub. L. 100–418, §1214(a)(2)(A), substituted “Harmonized Tariff Schedule of the United States Annotated for Statistical Reporting Purposes and general statistical note 1 thereof” for “Tariff Schedules of the United States Annotated and general statistical headnote 1 thereof”.
+<b>1988</b>—Subsec. (b). Pub. L. 100–418, §1214(a)(2)(A), substituted “Harmonized Tariff Schedule of the United States Annotated for Statistical Reporting Purposes and general statistical note 1 thereof” for “TariffSchedules of the United States Annotated and general statistical headnote 1 thereof”.
 
 Subsec. (e). Pub. L. 100–418, §1932, inserted at end “The information required to be reported under this subsection shall be reported in a form that is adjusted for economic inflation or deflation (on a constant dollar basis consistent with the reporting of the National Income and Product Accounts), and in a form that is not so adjusted.”
 
@@ -68,11 +68,11 @@ Pub. L. 100–418, §1214(a)(2)(B), substituted “heading or subheading in the 
 
 Subsec. (f). Pub. L. 100–418, §1214(a)(2)(C), substituted “heading or subheading in the Harmonized Tariff Schedule of the United States Annotated for Statistical Reporting Purposes” for “item of the Tariff Schedules of the United States Annotated” and “under that heading or subheading” for “under that item”, in two places.
 
-1980—Subsec. (g). Pub. L. 96–275 added subsec. (g).
+<b>1980</b>—Subsec. (g). Pub. L. 96–275 added subsec. (g).
 
-1979—Subsecs. (e), (f). Pub. L. 96–39 added subsecs. (e) and (f).
+<b>1979</b>—Subsecs. (e), (f). Pub. L. 96–39 added subsecs. (e) and (f).
 
-1975—Pub. L. 93–618 designated existing provisions as subsec. (a) and added subsecs. (b) to (d).
+<b>1975</b>—Pub. L. 93–618 designated existing provisions as subsec. (a) and added subsecs. (b) to (d).
 
 #### Effective Date of 2008 Amendment
 
@@ -88,7 +88,7 @@ Amendment by section 1214(a)(2) of Pub. L. 100–418 effective Jan. 1, 1989, and
 
 #### Effective Date of 1980 Amendment
 
-Section 4 of Pub. L. 96–275 provided that:
+Pub. L. 96–275, §4, June 17, 1980, 94 Stat. 540, provided that:
 
 “(a) Except as provided in subsection (b), this Act, and the amendments made by this Act \[amending this section and enacting provisions set out as a note under this section\], shall become effective on the later of July 1, 1980, or the date of enactment of this Act \[June 17, 1980\].
 
@@ -96,15 +96,15 @@ Section 4 of Pub. L. 96–275 provided that:
 
 #### Effective Date of 1979 Amendment
 
-Section 1108(b) of Pub. L. 96–39 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to reports made after December 31, 1979.”
+Pub. L. 96–39, title XI, §1108(b), July 26, 1979, 93 Stat. 314, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to reports made after December 31, 1979.”
 
 #### Effective Date of 1975 Amendment
 
-Section 609(b) of Pub. L. 93–618 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on January 1, 1975.”
+Pub. L. 93–618, title VI, §609(b), Jan. 3, 1975, 88 Stat. 2075, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on January 1, 1975.”
 
 #### Effective Date
 
-Section 4 of Pub. L. 87–826 provided that: “The provisions of this Act \[enacting section 301 et seq. of this title and repealing sections 173, 174, 177, 179, 181, 184 to 187, and 193 of Title 15, Commerce and Trade, sections 92 and 95 of former Title 46, Shipping, and section 1486 of Title 48, Territories and Insular Possessions\] shall take effect one hundred and eighty days after approval \[Oct. 15, 1962\], except that the last sentence of section 337, “Fifth” of the Revised Statutes \[section 174 of Title 15\], and the requirement for oaths as found in section 4200 of the Revised Statutes \[section 92 of former Title 46\] shall be repealed effective on the date this Act is approved \[Oct. 15, 1962\].”
+Pub. L. 87–826, §4, Oct. 15, 1962, 76 Stat. 953, provided that: “The provisions of this Act \[enacting section 301 et seq. of this title and repealing sections 173, 174, 177, 179, 181, 184 to 187, and 193 of Title 15, Commerce and Trade, sections 92 and 95 of former Title 46, Shipping, and section 1486 of Title 48, Territories and Insular Possessions\] shall take effect one hundred and eighty days after approval \[Oct. 15, 1962\], except that the last sentence of section 337, ‘Fifth’ of the Revised Statutes \[section 174 of Title 15\], and the requirement for oaths as found in section 4200 of the Revised Statutes \[section 92 of former Title 46\] shall be repealed effective on the date this Act is approved \[Oct. 15, 1962\].”
 
 #### Regulations
 
@@ -154,7 +154,7 @@ Requirement for Information Sharing.—The Secretary \[of State\] shall conclude
 
 #### Volumetric Index
 
-Section 1931(b) of Pub. L. 100–418 provided that:
+Pub. L. 100–418, title I, §1931(b), Aug. 23, 1988, 102 Stat. 1320, provided that:
 
 “(1) The Director of the Census, in consultation with the Director of the Bureau of Economic Analysis and the Commissioner of Labor Statistics, shall conduct a study to determine the feasibility of developing, and of publishing, an index that measures the real volume of merchandise trade on a monthly basis, which would be reported simultaneously with the balance of merchandise trade for the United States.
 
@@ -162,7 +162,7 @@ Section 1931(b) of Pub. L. 100–418 provided that:
 
 #### Congressional Access to Information
 
-Section 3 of Pub. L. 96–275 provided that: “Nothing in this Act \[enacting subsec. (g) of this section, amending section 93 of former Title 46, Shipping, and enacting provisions set out as notes under this section\] shall be construed as authorizing the withholding of information from Congress.”
+Pub. L. 96–275, §3, June 17, 1980, 94 Stat. 540, provided that: “Nothing in this Act \[enacting subsec. (g) of this section, amending section 93 of former Title 46, Shipping, and enacting provisions set out as notes under this section\] shall be construed as authorizing the withholding of information from Congress.”
 
 #### Definitions
 

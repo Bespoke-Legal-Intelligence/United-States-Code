@@ -112,7 +112,7 @@ Procedures for patent term adjustment determination.—
 
 Appeal of patent term adjustment determination.—
 
-&emsp;&emsp;(A) An applicant dissatisfied with a determination made by the Director under paragraph (3) shall have remedy by a civil action against the Director filed in the United States District Court for the District of Columbia within 180 days after the grant of the patent. Chapter 7 of title 5 shall apply to such action. Any final judgment resulting in a change to the period of adjustment of the patent term shall be served on the Director, and the Director shall thereafter alter the term of the patent to reflect such change.
+&emsp;&emsp;(A) An applicant dissatisfied with a determination made by the Director under paragraph (3) shall have remedy by a civil action against the Director filed in the United States District Court for the Eastern District of Virginia within 180 days after the grant of the patent. Chapter 7 of title 5 shall apply to such action. Any final judgment resulting in a change to the period of adjustment of the patent term shall be served on the Director, and the Director shall thereafter alter the term of the patent to reflect such change.
 
 &emsp;&emsp;(B) The determination of a patent term adjustment under this subsection shall not be subject to appeal or challenge by a third party prior to the grant of the patent.
 
@@ -134,7 +134,7 @@ Remedies.—The remedies of sections 283, 284, and 285 of this title shall not a
 
 &emsp;(3)
 
-Remuneration.—The acts referred to in paragraph (2) may be continued only upon thepayment of an equitable remuneration to the patentee that is determined in an action brought under chapter 28 and chapter 29 (other than those provisions excluded by paragraph (2)) of this title.<sup>1</sup>
+Remuneration.—The acts referred to in paragraph (2) may be continued only upon the payment of an equitable remuneration to the patentee that is determined in an action brought under chapter 28 and chapter 29 (other than those provisions excluded by paragraph (2)) of this title.
 
 (d)
 
@@ -170,7 +170,21 @@ Effective date.—The right under paragraph (1) to obtain a reasonable royalty b
 
 Copies.—The Director may require the applicant to provide a copy of the international application and a translation thereof.
 
-(July 19, 1952, ch. 950, 66 Stat. 804; Pub. L. 89–83, §5, July 24, 1965, 79 Stat. 261; Pub. L. 96–517, §4, Dec. 12, 1980, 94 Stat. 3018; Pub. L. 100–418, title IX, §9002, Aug. 23, 1988, 102 Stat. 1563; Pub. L. 103–465, title V, §532(a)(1), Dec. 8, 1994, 108 Stat. 4983; Pub. L. 104–295, §20(e)(1), Oct. 11, 1996, 110 Stat. 3529; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4402(a), 4504\], Nov. 29, 1999, 113 Stat. 1536, 1501A–557, 1501A–564; Pub. L. 107–273, div. C, title III, §§13204, 13206(a)(8), Nov. 2, 2002, 116 Stat. 1902, 1904.)
+(July 19, 1952, ch. 950, 66 Stat. 804; Pub. L. 89–83, §5, July 24, 1965, 79 Stat. 261; Pub. L. 96–517, §4, Dec. 12, 1980, 94 Stat. 3018; Pub. L. 100–418, title IX, §9002, Aug. 23, 1988, 102 Stat. 1563; Pub. L. 103–465, title V, §532(a)(1), Dec. 8, 1994, 108 Stat. 4983; Pub. L. 104–295, §20(e)(1), Oct. 11, 1996, 110 Stat. 3529; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4402(a), 4504\], Nov. 29, 1999, 113 Stat. 1536, 1501A–557, 1501A–564; Pub. L. 107–273, div. C, title III, §§13204, 13206(a)(8), Nov. 2, 2002, 116 Stat. 1902, 1904; Pub. L. 112–29, §§3(j)(1), (2)(B), 9(a), 20(j), Sept. 16, 2011, 125 Stat. 290, 316, 335.)
+
+#### Amendment of Section
+
+<i>Pub. L. 112–29, §20(j), (l), Sept. 16, 2011, 125 Stat. 335, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, this section is amended by striking “of this title” each place that term appears. See 2011 Amendment notes below.</i>
+
+<i>Pub. L. 112–29, §3(j)(1), (2)(B), (n), Sept. 16, 2011, 125 Stat. 290, 293, provided that, effective</i><i>upon the expiration of the 18-month period beginning on Sept. 16, 2011, and applicable to certain applications for patent and any patents issuing thereon:</i>
+
+<i>(1) this section is amended by striking “Board of Patent Appeals and Interferences” each place it appears and inserting “Patent Trial and Appeal Board”; and</i>
+
+<i>(2) the heading for subparagraph (C) of subsection (b)(1) of this section is amended to read as follows: “</i>
+
+<i>Guarantee of adjustments for delays due to derivation proceedings, secrecy orders, and appeals.—”.</i>
+
+<i>See 2011 Amendment notes below.</i>
 
 #### Historical and Revision Notes
 
@@ -187,6 +201,28 @@ The wording of the granting clause is changed to “the right to exclude others 
 The date of the enactment of the Uruguay Round Agreements Act, referred to in subsec. (c)(1), (2)(A), is the date of enactment of Pub. L. 103–465, which was approved Dec. 8, 1994.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (a)(2). Pub. L. 112–29, §20(j), struck out “of this title” after “365(c)”.
+
+Subsec. (a)(3). Pub. L. 112–29, §20(j), struck out “of this title” after “365(b)”.
+
+Subsec. (b)(1)(A)(i). Pub. L. 112–29, §20(j), in introductory provisions, struck out “of this title” after “132” and after “151”.
+
+Subsec. (b)(1)(A)(i)(I). Pub. L. 112–29, §20(j), struck out “of this title” after “111(a)”.
+
+Subsec. (b)(1)(A)(i)(II). Pub. L. 112–29, §20(j), struck out “of this title” after “371”.
+
+Subsec. (b)(1)(A)(iii), (B)(ii). Pub. L. 112–29, §3(j)(1), substituted “Patent Trial and Appeal Board” for “Board of Patent Appeals and Interferences”.
+
+Subsec. (b)(1)(C). Pub. L. 112–29, §3(j)(2)(B), amended heading generally. Prior to amendment, heading read as follows: “Guarantee or adjustments for delays due to interferences, secrecy orders, and appeals”.
+
+Subsec. (b)(1)(C)(iii). Pub. L. 112–29, §3(j)(1), substituted “Patent Trial and Appeal Board” for “Board of Patent Appeals and Interferences”.
+
+Subsec. (b)(4)(A). Pub. L. 112–29, §9(a), substituted “United States District Court for the Eastern District of Virginia” for “United States District Court for the District of Columbia”.
+
+Subsec. (c)(2). Pub. L. 112–29, §20(j), in introductory provisions, struck out “of this title” after “285”.
+
+Subsec. (c)(3). Pub. L. 112–29, §20(j), struck out “of this title” after “excluded by paragraph (2))”.
 
 <b>2002</b>—Subsec. (b)(4)(A). Pub. L. 107–273, §13206(a)(8), struck out “, United States Code,” after “title 5”.
 
@@ -208,6 +244,14 @@ Subsec. (d). Pub. L. 106–113, §1000(a)(9) \[title IV, §4504(2)\], added subs
 
 <b>1965</b>—Pub. L. 89–83 added “subject to the payment of issue fees as provided for in this title”.
 
+#### Effective Date of 2011 Amendment
+
+Amendment by section 3(j)(1), (2)(B) of Pub. L. 112–29 effective upon the expiration of the 18-month period beginning on Sept. 16, 2011, and applicable to certain applications for patent and any patents issuing thereon, see section 3(n) of Pub. L. 112–29, set out as an Effective Date of 2011 Amendment; Savings Provisions note under section 100 of this title.
+
+Amendment by section 9(a) of Pub. L. 112–29 effective Sept. 16, 2011, and applicable to any civil action commenced on or after that date, see section 9(b) of Pub. L. 112–29, set out as a note under section 1071 of Title 15, Commerce and Trade.
+
+Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(<i>l</i>) of Pub. L. 112–29, set out as a note under section 2 of this title.
+
 #### Effective Date of 1999 Amendment
 
 Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4405(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–560, provided that: “The amendments made by sections 4402 and 4404 \[amending this section, sections 156 and 282 of this title, and section 1295 of Title 28, Judiciary and Judicial Procedure\] shall take effect on the date that is 6 months after the date of the enactment of this Act \[Nov. 29, 1999\] and, except for a design patent application filed under chapter 16 of title 35, United States Code, shall apply to any application filed on or after the date that is 6 months after the date of the enactment of this Act.”
@@ -220,7 +264,7 @@ Section 534 of title V of Pub. L. 103–465 provided that:
 
 “(a)
 
-In General.—Subject to subsection (b), the amendments made by this subtitle \[subtitle C (§§531–534) of title V of Pub. L. 103–465, amending this section and sections 41, 104, 111, 119, 156, 172, 173, 252, 262, 271, 272, 287, 292, 295, 307, 365, and 373 of this title\] take effect on the date that is one year after the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\].
+In General.—Subject to subsection (b), the amendments made by this subtitle \[subtitle C\(§§531–534) of title V of Pub. L. 103–465, amending this section and sections 41, 104, 111, 119, 156, 172, 173, 252, 262, 271, 272, 287, 292, 295, 307, 365, and 373 of this title\] take effect on the date that is one year after the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\].
 
 “(b)
 
@@ -255,6 +299,4 @@ Amendment by Pub. L. 89–83 effective three months after July 24, 1965, see sec
 #### Regulations
 
 Section 532(a)(2) of Pub. L. 103–465 authorized the Commissioner of Patents and Trademarks to prescribe regulations for further limited reexamination of applications pending 2 years or longer and for examination of more than 1 independent and distinct invention in applications pending 3 years or longer, as of the effective date of section 154(a)(2) of this title, and to establish appropriate related fees.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “subsection.”</i>
 

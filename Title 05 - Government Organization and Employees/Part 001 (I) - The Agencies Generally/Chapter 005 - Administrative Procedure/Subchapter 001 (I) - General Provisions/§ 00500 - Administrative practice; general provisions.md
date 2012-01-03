@@ -60,7 +60,7 @@ In subsection (d)(3), the word “employee” is substituted for “officer or e
 
 #### Amendments
 
-1999—Subsec. (e). Pub. L. 106–113 substituted “United States Patent and Trademark Office” for “Patent Office”.
+<b>1999</b>—Subsec. (e). Pub. L. 106–113 substituted “United States Patent and Trademark Office” for “Patent Office”.
 
 #### Effective Date of 1999 Amendment
 

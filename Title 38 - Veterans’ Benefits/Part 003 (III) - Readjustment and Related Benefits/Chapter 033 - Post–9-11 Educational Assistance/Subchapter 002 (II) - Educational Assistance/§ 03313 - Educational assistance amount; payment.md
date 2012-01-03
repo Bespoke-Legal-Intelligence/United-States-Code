@@ -6,7 +6,7 @@ Payment.—The Secretary shall pay to each individual entitled to educational as
 
 (b)
 
-Approved Programs of Education.—A program of education is an approved program of education for purposes of this chapter if the program of education is approved for purposes of chapter 30 (including approval by the State approving agency concerned).
+Approved Programs of Education.—A program of education is an approved program of education for purposes of this chapter if the program of education is approved for purposes ofchapter 30 (including approval by the State approving agency concerned).
 
 (c)
 
@@ -20,7 +20,7 @@ Programs of Education Leading to a Degree Pursued at Institutions of Higher Lear
 
 &emsp;&emsp;&emsp;&emsp;(I) any waiver of, or reduction in, tuition and fees; and
 
-&emsp;&emsp;&emsp;&emsp;(II) any scholarship, or other Federal, State, institutional, or employer-based aid or assistance (other than loans and any funds provided under section 401(b) of the Higher Education Act of 1965 (20 U.S.C. 1070a)) <sup>1</sup> that is provided directlyto the institution and specifically designated for the sole purpose of defraying tuition and fees.
+&emsp;&emsp;&emsp;&emsp;(II) any scholarship, or other Federal, State, institutional, or employer-based aid or assistance (other than loans and any funds provided under section 401(b) of the Higher Education Act of 1965 (20 U.S.C. 1070a)) <sup>1</sup> that is provided directly to the institution and specifically designated for the sole purpose of defraying tuition and fees.
 
 &emsp;&emsp;&emsp;(ii) In the case of a program of education pursued at a non-public or foreign institution of higher learning, the lesser of—
 
@@ -68,7 +68,7 @@ Programs of Education Leading to a Degree Pursued at Institutions of Higher Lear
 
 &emsp;(2) In the case of an individual entitled to educational assistance under this chapter by reason of section 3311(b)(3), amounts equal to 90 percent of the amounts that would be payable to the individual under paragraph (1) for the program of education if the individual were entitled to amounts for the program of education under paragraph (1) rather than this paragraph.
 
-&emsp;(3) In the case of an individual entitled to educational assistance under this chapter by reason of section 3311(b)(4), amounts equal to 80 percent of the amounts that would be payable to the individual under paragraph (1) for the program of education if the individual were entitled to amounts for the program of education under paragraph (1) rather than this paragraph.
+&emsp;(3) In the case of an individual entitled to educational assistance under this chapter byreason of section 3311(b)(4), amounts equal to 80 percent of the amounts that would be payable to the individual under paragraph (1) for the program of education if the individual were entitled to amounts for the program of education under paragraph (1) rather than this paragraph.
 
 &emsp;(4) In the case of an individual entitled to educational assistance under this chapter by reason of section 3311(b)(5), amounts equal to 70 percent of the amounts that would be payable to the individual under paragraph (1) for the program of education if the individual were entitled to amounts for the program of education under paragraph (1) rather than this paragraph.
 
@@ -130,7 +130,7 @@ Amount of assistance.—The amounts of educational assistance payable under this
 
 &emsp;&emsp;&emsp;(iii) the amount of the charges of the educational institution as elected by the individual in the manner specified in section 3014(b)(1)..<sup>2</sup>
 
-&emsp;&emsp;(B) Subject to subparagraph (C), for the first month of each quarter, semester, or term, as applicable, of the program of education pursued by the individual, a lump sum amount for books, supplies, equipment, and other educational costs with respect to such quarter, semester, or term in the amount equal to—
+&emsp;&emsp;(B) Subject to subparagraph (C), for the first month of each quarter, semester, or term, as applicable, of the program of education pursued by the individual, a lump sum amount for books, supplies, equipment, and other educational costs with respect tosuch quarter, semester, or term in the amount equal to—
 
 &emsp;&emsp;&emsp;(i) $1,000, multiplied by
 
@@ -144,7 +144,7 @@ Quarter, semester, or term payments.—Payment of the amount payable under parag
 
 &emsp;(4)
 
-Monthly payments.—For each month (as determined pursuant to the methods prescribed under subsection (d)(3)) for which amounts are paid an individual under this subsection, the entitlement of the individual toeducational assistance under this chapter shall be charged at the rate of one month for each such month.
+Monthly payments.—For each month (as determined pursuant to the methods prescribed under subsection (d)(3)) for which amounts are paid an individual under this subsection, the entitlement of the individual to educational assistance under this chapter shall be charged at the rate of one month for each such month.
 
 (f)
 
@@ -206,7 +206,7 @@ Amount of assistance.—The amounts of educational assistance payable under this
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) any waiver of, or reduction in, tuition and fees; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) any scholarship, or other Federal, State, institutional, or employer-based aid or assistance (other than loans and any funds provided under section 401(b) of the Higher Education Act of 1965 (20 U.S.C. 1070a)) <sup>1</sup> that is provided directly to the institution and specifically designated for the sole purpose of defraying tuition and fees; or
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) any scholarship, or other Federal, State, institutional, or employer-based aid or assistance (other than loans and any funds provided under section 401(b) of the Higher Education Act of 1965 (20 U.S.C. 1070a)) <sup>1</sup> that is provided directly to the institutionand specifically designated for the sole purpose of defraying tuition and fees; or
 
 &emsp;&emsp;&emsp;&emsp;(II) the amount equal to—
 
@@ -272,7 +272,7 @@ Amount of assistance.—The amounts of educational assistance payable under this
 
 &emsp;&emsp;&emsp;&emsp;(I) in the case of an individual entitled to educational assistance by reason of paragraphs (1), (2), or (9) of section 3311(b), 100 percent; or
 
-&emsp;&emsp;&emsp;&emsp;(II) in the case of an individual entitled to educational assistance by reason of paragraphs (3) through (8) of section 3311(b), the same percentage as would otherwise apply to the monthly amountspayable to the individual under paragraphs (2) through (7) of subsection (c).
+&emsp;&emsp;&emsp;&emsp;(II) in the case of an individual entitled to educational assistance by reason of paragraphs (3) through (8) of section 3311(b), the same percentage as would otherwise apply to the monthly amounts payable to the individual under paragraphs (2) through (7) of subsection (c).
 
 &emsp;&emsp;(D) In the case of an individual enrolled in a program of education that is pursued exclusively by correspondence (regardless of the institution providing such program of education), an amount equal to—
 
@@ -338,7 +338,7 @@ Pro rata adjustment based on certain eligibility.—If the amount otherwise paya
 
 (h)
 
-Payment of Established Charges to Educational Institutions.—Amounts payable under subsections (c)(1)(A) (and of similar amounts payable under paragraphs (2) through (7) of subsection (c)), (e)(2), and (f)(2)(A), and under subparagraphs (A)(i), (C), and (D) of subsection (g)(3), shall be paid directly to the educational institution concerned.
+Payment of Established Charges to Educational Institutions.—Amounts payable undersubsections (c)(1)(A) (and of similar amounts payable under paragraphs (2) through (7) of subsection (c)), (e)(2), and (f)(2)(A), and under subparagraphs (A)(i), (C), and (D) of subsection (g)(3), shall be paid directly to the educational institution concerned.
 
 (i)
 
@@ -416,7 +416,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 “(2)
 
-Stipend for distance learning on more than half-time basis.—Clause (iii) of section 3313(c)(1)(B) of title 38, United States Code (as added by subsection (b)(2) of this section), shall take effect on October 1, 2011, and shall apply with respect to amounts payable for educational assistance for pursuit of programs of education as covered by such clause on or after that date.”
+Stipend for distance learning on more than half-time basis.—Clause (iii) of section 3313(c)(1)(B) of title 38, United States Code (as added by subsection (b)(2) of this section), shall take effect on October 1, 2011, and shall apply with respect to amounts payable for educational assistance for pursuit of programs ofeducation as covered by such clause on or after that date.”
 
 Pub. L. 111–377, title I, §103(c), Jan. 4, 2011, 124 Stat. 4112, provided that:
 
@@ -437,6 +437,36 @@ Pub. L. 111–377, title I, §106(b), Jan. 4, 2011, 124 Stat. 4118, provided tha
 #### Effective Date of 2009 Amendment
 
 Amendment by Pub. L. 111–32 effective Aug. 1, 2009, see section 1002(d)(1) of Pub. L. 111–32, set out as a note under section 3311 of this title.
+
+#### Preservation of Higher Rates for Tuition and Fees for Programs of Education at Non-Public Institutions of Higher Learning Pursued by Individuals Enrolled in Such Programs Prior to Change in Maximum Amount
+
+Pub. L. 112–26, §2, Aug. 3, 2011, 125 Stat. 268, provided that:
+
+“(a)
+
+In General.—Notwithstanding paragraph (1)(A)(ii) of section 3313(c) of title 38, United States Code (as amended by the Post-9/11 Veterans Educational Assistance Improvements Act of 2010 (Public Law 111–377)), the amount payable under that paragraph (or as appropriately adjusted under paragraphs (2) through (7) of that section) for tuition and fees for pursuit by an individual described in subsection (b) of an approved program of education at a non-public institution of higher learning during the period beginning on August 1, 2011, and ending on July 31, 2014, shall be the greater of—
+
+&emsp;“(1) $17,500; or
+
+&emsp;“(2) the established charges payable for the program of education determined using the table of the Department of Veterans Affairs entitled ‘Post-9/11 GI Bill 2010–2011 Tuition and Fee In-State Maximums’, published October 27, 2010 (75 Fed. Reg. 66193), as if that table applied to the pursuit of the program of education by that individual during that period.
+
+“(b)
+
+Covered Individuals.—An individual described in this subsection is an individual entitled to educational assistance under chapter 33 of title 38, United States Code, who, since January 4, 2011, has been enrolled in the same non-public institution of higher learning in a State in which—
+
+&emsp;“(1) the maximum amount of tuition per credit in the 2010–2011 academic year, as determined pursuant to the table referred to in subsection (a)(2), exceeded $700; and
+
+&emsp;“(2) the combined amount of tuition and fees for full-time attendance in the program of education in such academic year exceeded $17,500.
+
+“(c)
+
+Definitions.—In this section:
+
+&emsp;“(1) The term ‘approved program of education’ has the meaning given that term in section 3313(b) of title 38, United States Code.
+
+&emsp;“(2) The term ‘established charges’, with respect to a program of education, means the actual charges (as determined pursuant to regulations prescribed by the Secretary of Veterans Affairs on the basis of a full academic year) for tuition and fees which similarly circumstanced nonveterans enrolled in the program of education would be required to pay.
+
+&emsp;“(3) The term ‘institution of higher learning’ has the meaning given that term in section 3452(f) of title 38, United States Code.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “(20 U.S.C. 1070a(b)))”.</i>
 

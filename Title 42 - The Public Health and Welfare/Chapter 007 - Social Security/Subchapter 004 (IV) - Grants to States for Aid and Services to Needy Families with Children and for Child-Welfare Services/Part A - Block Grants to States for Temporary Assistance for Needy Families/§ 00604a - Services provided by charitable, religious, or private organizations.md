@@ -34,7 +34,7 @@ In the event a State exercises its authority under subsection (a) of this sectio
 
 #### (1) Religious organizations
 
-&emsp;A religious organization with a contract described in subsection (a)(1)(A) of this section,or which accepts certificates, vouchers, or other forms of disbursement under subsection (a)(1)(B) of this section, shall retain its independence from Federal, State, and local governments, including such organization's control over the definition, development, practice, and expression of its religious beliefs.
+&emsp;A religious organization with a contract described in subsection (a)(1)(A) of this section, or which accepts certificates, vouchers, or other forms of disbursement under subsection (a)(1)(B) of this section, shall retain its independence from Federal, State, and local governments, including such organization's control over the definition, development, practice, and expression of its religious beliefs.
 
 #### (2) Additional safeguards
 

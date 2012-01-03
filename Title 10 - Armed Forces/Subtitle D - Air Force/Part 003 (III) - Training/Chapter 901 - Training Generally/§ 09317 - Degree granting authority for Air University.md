@@ -38,7 +38,7 @@ Subsec. (a). Pub. L. 108–375, §556(a), substituted “may confer academic deg
 
 <b>1999</b>—Pub. L. 106–65, §543(b)(1), substituted “graduate-level degrees” for “master of airpower art and science” in section catchline.
 
-Subsec. (a). Pub. L. 106–65, §543(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “Upon the recommendation of the faculty of the School of Advanced Airpower Studies of the Air University, the Commander of the university may confer the degree of master of airpower art and science upon graduates of the school who fulfill the requirements for the degree.”
+Subsec. (a). Pub. L. 106–65, §543(a), amended heading and text of subsec. (a) generally. Prior to amendment,text read as follows: “Upon the recommendation of the faculty of the School of Advanced Airpower Studies of the Air University, the Commander of the university may confer the degree of master of airpower art and science upon graduates of the school who fulfill the requirements for the degree.”
 
 #### Effective Date of 2008 Amendment
 

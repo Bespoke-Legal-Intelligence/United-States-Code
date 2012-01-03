@@ -22,7 +22,7 @@ The Congress finds that it is in the national security interest of the United St
 
 #### Short Title of 2003 Amendment
 
-Pub. L. 108–136, div. C, title XXXVI, §3601, Nov. 24, 2003, 117 Stat. 1822, provided that: “This title \[enacting provisions set out as notes under this section and sections 1928, 5959, and 6321 of this title\] may be cited as the ‘Nuclear Security Initiative Act of 2003’.”
+Pub. L. 108–136, div. C, title XXXVI, §3601, Nov. 24, 2003, 117 Stat. 1822, provided that: “This title \[enactingprovisions set out as notes under this section and sections 1928, 5959, and 6321 of this title\] may be cited as the ‘Nuclear Security Initiative Act of 2003’.”
 
 #### Short Title
 

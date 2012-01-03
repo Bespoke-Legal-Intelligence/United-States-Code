@@ -8,7 +8,7 @@ There are authorized to be appropriated $42,000,000 for each of the fiscal years
 
 <b>1992</b>—Pub. L. 102–356 substituted provisions authorizing appropriations of $42,000,000 for each of the fiscal years 1992, 1993, and 1994 for provisions authorizing appropriations of $40,000,000 for each of the fiscal years 1979, 1980, and 1981, $20,000,000 for fiscal year 1982, $15,000,000 for fiscal year 1983, $12,000,000 for fiscal year 1984, $24,000,000 for fiscal year 1986, $28,000,000 for fiscal year 1987, $32,000,000 for fiscal year 1988, $36,000,000 for fiscal year 1989, $39,000,000 for fiscal year 1990, and $42,000,000 for fiscal year 1991.
 
-<b>1988</b>—Pub. L. 100–626 struck out “and” after “fiscal year 1987,” and inserted “$36,000,000 for fiscal year 1989, $39,000,000 for fiscal year 1990, and $42,000,000 for fiscal year 1991,” after “fiscal year 1988,”.
+<b>1988</b>—Pub. L. 100–626 struck out “and” after “fiscal year 1987,” and inserted “$36,000,000 for fiscal year 1989,$39,000,000 for fiscal year 1990, and $42,000,000 for fiscal year 1991,” after “fiscal year 1988,”.
 
 <b>1986</b>—Pub. L. 99–272 struck out “and” after “1983,” and inserted “, $24,000,000 for fiscal year 1986, $28,000,000 for fiscal year 1987, and $32,000,000 for fiscal year 1988,” after “1984,”.
 
@@ -28,7 +28,7 @@ There are authorized to be appropriated $42,000,000 for each of the fiscal years
 
 #### Effective Date of 1988 Amendment
 
-Section 12 of Pub. L. 100–626 provided that: “This Act and the amendments made by this Act \[amending thissection and sections 396, 398, 399, and 605 of this title and enacting provisions set out as notes under sections 396 and 609 of this title\] are effective on the date of enactment of this Act \[Nov. 7, 1988\], except that the amendments made by sections 6 and 7(d) \[amending section 396 of this title\] are effective on October 1, 1989.”
+Section 12 of Pub. L. 100–626 provided that: “This Act and the amendments made by this Act \[amending this section and sections 396, 398, 399, and 605 of this title and enacting provisions set out as notes under sections 396 and 609 of this title\] are effective on the date of enactment of this Act \[Nov. 7, 1988\], except that the amendments made by sections 6 and 7(d) \[amending section 396 of this title\] are effective on October 1, 1989.”
 
 #### Effective Date of 1978 Amendment
 

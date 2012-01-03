@@ -4,7 +4,7 @@ Prisoners shall be transported by agents designated by the Attorney General or h
 
 The reasonable expense of transportation, necessary subsistence, and hire and transportation of guards and agents shall be paid by the Attorney General from such appropriation for the Department of Justice as he shall direct.
 
-Upon conviction by a consular court or court martial the prisoner shall be transported fromthe court to the place of confinement by agents of the Department of State, the Army, Navy, or Air Force, as the case may be, the expense to be paid out of the Treasury of the United States in the manner provided by law.
+Upon conviction by a consular court or court martial the prisoner shall be transported from the court to the place of confinement by agents of the Department of State, the Army, Navy, or Air Force, as the case may be, the expense to be paid out of the Treasury of the United States in the manner provided by law.
 
 (June 25, 1948, ch. 645, 62 Stat. 849; May 24, 1949, ch. 139, §61, 63 Stat. 98.)
 

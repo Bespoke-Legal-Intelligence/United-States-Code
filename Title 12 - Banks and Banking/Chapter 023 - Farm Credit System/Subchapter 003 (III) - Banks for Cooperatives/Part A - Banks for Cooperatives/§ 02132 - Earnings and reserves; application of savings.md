@@ -6,7 +6,7 @@ At the end of each fiscal year, the net savings shall, under regulations prescri
 
 #### (b) Patronage refunds
 
-The net savings of each district bank for cooperatives, after the earnings for the fiscal year have been applied in accordance with subsection\(a) of this section shall be paid in stock, participation certificates, or cash, or in any of them, as determined by its board, as patronage refunds to borrowers to whom such refunds are payable who are borrowers of the fiscal year for which such patronage refunds are distributed. Except as provided in subsection (c) below, all patronage refunds shall be paid in proportion that the amount of interest and service fees on the loans to each borrower during the year bears to the interest and service fees on the loans of all borrowers during the year or on such other proportionate patronage basis as may be approved by the board of directors.
+The net savings of each district bank for cooperatives, after the earnings for the fiscal year have been applied in accordance with subsection (a) of this section shall be paid in stock, participation certificates, or cash, or in any of them, as determined by its board, as patronage refunds to borrowers to whom such refunds are payable who are borrowers of the fiscal year for which such patronage refunds are distributed. Except as provided in subsection (c) below, all patronage refunds shall be paid in proportion that the amount of interest and service fees on the loans to each borrower during the year bears to the interest and service fees on the loans of all borrowers during the year or on such other proportionate patronage basis as may be approved by the board of directors.
 
 #### (c) Savings of Central Bank for Cooperatives
 
@@ -28,7 +28,7 @@ A bank for cooperatives may pay in cash such portion of its patronage refunds as
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–233, §§802(r)(1), 805(n)(1), (5), redesignated subsec. (b) as (a), substituted “(b) and (c)” for “(c) and (d)”, struck out “as may be approved by the Farm Credit Administration” after “payment of operating expenses”, and struck out at end “If during the fiscal year but not at the end thereof a bank shall have had outstanding capital stock held by the United States, provision will be made for payment of franchise taxes required in section 2151 of this title.”
+<b>1988</b>—Subsec. (a). Pub. L. 100–233, §§802(r)(1), 805(n)(1), (5), redesignated subsec. (b) as (a), substituted “(b) and (c)” for “(c) and (d)”, struck out “as may be approved by the Farm Credit Administration” after “payment of operating expenses”, and struck out at end “If during the fiscal year but not at the end thereof a bank shall have had outstanding capital stock held by the United States, provision will be made for payment of franchise taxes required in section 2151 of this title.”
 
 Subsec. (b). Pub. L. 100–233, §§802(r)(2), 805(n)(2), (5), redesignated subsec. (c) as (b) and substituted “(a) of this section” for “(b) of this section, whichever is applicable,”, “(c) below” for “(d) below”, and “may be approved by the board of directors” for “the Farm Credit Administration may approve”. Former subsec. (b) redesignated (a).
 
@@ -38,13 +38,13 @@ Subsecs. (d), (e). Pub. L. 100–233, §805(n)(5), redesignated subsecs. (e) and
 
 Subsecs. (f), (g). Pub. L. 100–233, §805(n)(4), (5), redesignated subsec. (g) as (f), substituted “A bank for cooperatives” for “For any year that a bank for cooperatives is subject to Federal income tax, it”, and struck out “or (b)” after “subsection (a)”. Former subsec. (f) redesignated (e).
 
-1985—Subsec. (a). Pub. L. 99–205, §205(e)(7), struck out subsec. (a) which provided for application of savings when bank for cooperatives has outstanding stock held by the Governor.
+<b>1985</b>—Subsec. (a). Pub. L. 99–205, §205(e)(7), struck out subsec. (a) which provided for application of savings when bank for cooperatives has outstanding stock held by the Governor.
 
-Subsec. (b). Pub. L. 99–205, §205(e)(8)(A), substituted “At the end of each fiscal year, the net” for “Whenever at the end of any fiscal year a bank for cooperatives shall have no outstanding capital stock held by the Governor of the Farm Credit Administration, the net”.
+Subsec. (b). Pub. L. 99–205, §205(e)(8)(A), substituted “At the end of each fiscal year, the net” for “Wheneverat the end of any fiscal year a bank for cooperatives shall have no outstanding capital stock held by the Governor of the Farm Credit Administration, the net”.
 
 Subsecs. (c), (d). Pub. L. 99–205, §205(e)(8)(B), substituted “subsection (b) of this section” for “subsection (a) or (b) of this section”.
 
-1980—Subsec. (b). Pub. L. 96–592, §308(1), struck out provisions relating to 25 per centum requirement for net savings.
+<b>1980</b>—Subsec. (b). Pub. L. 96–592, §308(1), struck out provisions relating to 25 per centum requirement for net savings.
 
 Subsec. (c). Pub. L. 96–592, §308(2), inserted applicability to participation certificates and to borrowers to whom refunds are payable.
 

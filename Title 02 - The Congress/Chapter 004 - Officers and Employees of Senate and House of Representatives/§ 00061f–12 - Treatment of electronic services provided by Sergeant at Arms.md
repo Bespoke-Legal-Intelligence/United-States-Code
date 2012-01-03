@@ -16,7 +16,7 @@ Section is from the Legislative Branch Appropriations Act, 2005, which is div. G
 
 #### Amendments
 
-2007—Pub. L. 109–289, §20701(c)(1), as added by Pub. L. 110–5, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>2007</b>—Pub. L. 109–289, §20701(c)(1), as added by Pub. L. 110–5, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 #### Effective Date of 2007 Amendment
 

@@ -6,7 +6,7 @@ Federal Information Technology.—The Director of the Office of Management and B
 
 (b)
 
-Use of Information Technology in Federal Programs.—The Director shall promoteand improve the acquisition, use, security, and disposal of information technology by the Federal Government to improve the productivity, efficiency, and effectiveness of federal programs, including through dissemination of public information and the reduction of information collection burdens on the public.
+Use of Information Technology in Federal Programs.—The Director shall promote and improve the acquisition, use, security, and disposal of information technology by the Federal Government to improve the productivity, efficiency, and effectiveness of federal programs, including through dissemination of public information and the reduction of information collection burdens on the public.
 
 (c)
 
@@ -108,5 +108,5 @@ Definitions.—In this section:
 
 &emsp;“(2) The term ‘information technology’ has the meaning given that term in section 5002(3) of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401(3)) \[now 40 U.S.C. 11101(6)\].
 
-&emsp;“(3) The term ‘performance-based’, with respect to a contract, means that the contract includes the useof performance work statements that set forth contract requirements in clear, specific, and objective terms with measurable outcomes.”
+&emsp;“(3) The term ‘performance-based’, with respect to a contract, means that the contract includes the use of performance work statements that set forth contract requirements in clear, specific, and objective terms with measurable outcomes.”
 

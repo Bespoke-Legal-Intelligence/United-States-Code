@@ -14,7 +14,7 @@ Withholding accrued payments due on contracts.—The total amount determined und
 
 &emsp;(2)
 
-Bringing actions against contractors.—If the accrued payments withheld under the terms of the contract are insufficient to reimburse a service employee with respect to whom there has been a failure to pay the compensation required pursuant to thischapter, the Federal Government may bring action against the contractor, subcontractor, or any sureties in any court of competent jurisdiction to recover the remaining amount of underpayment. Any amount recovered shall be held in the deposit fund and shall be paid, on order of the Secretary, directly to the underpaid employee. Any amount not paid to an employee because of inability to do so within 3 years shall be covered into the Treasury as miscellaneous receipts.
+Bringing actions against contractors.—If the accrued payments withheld under the terms of the contract are insufficient to reimburse a service employee with respect to whom there has been a failure to pay the compensation required pursuant to this chapter, the Federal Government may bring action against the contractor, subcontractor, or any sureties in any court of competent jurisdiction to recover the remaining amount of underpayment. Any amount recovered shall be held in the deposit fund and shall be paid, on order of the Secretary, directly to the underpaid employee. Any amount not paid to an employee because of inability to do so within 3 years shall be covered into the Treasury as miscellaneous receipts.
 
 (c)
 

@@ -74,7 +74,7 @@ Pub. L. 109–14, §4(a)(10)(C), substituted “$1,950,000,000” for “$1,733,
 
 <b>2004</b>—Subsec. (a)(1)(F). Pub. L. 108–280, §4(a)(10)(A), added subpar. (F) and struck out former subpar. (F) which read as follows: “$116,666,667 for the period of October 1, 2003, through July 31, 2004.”
 
-Pub. L. 108–263, §4(a)(10)(A), added subpar. (F) and struck out former subpar. (F) which read as follows:“$105,000,000 for the period of October 1, 2003, through June 30, 2004.”
+Pub. L. 108–263, §4(a)(10)(A), added subpar. (F) and struck out former subpar. (F) which read as follows: “$105,000,000 for the period of October 1, 2003, through June 30, 2004.”
 
 Pub. L. 108–224, §4(a)(10)(A), added subpar. (F) and struck out former subpar. (F) which read as follows: “$81,666,666 for the period of October 1, 2003, through April 30, 2004.”
 

@@ -18,9 +18,9 @@ As used in this subchapter:
 
 #### Amendments
 
-1999—Par. (1). Pub. L. 106–113 substituted “natural resources” for “forestry”.
+<b>1999</b>—Par. (1). Pub. L. 106–113 substituted “natural resources” for “forestry”.
 
-1993—Par. (3). Pub. L. 103–115 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The term ‘rural community’ means—
+<b>1993</b>—Par. (3). Pub. L. 103–115 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The term ‘rural community’ means—
 
 &emsp;“(A) any town, township, municipality, or other similar unit of general purpose local government having a population of not more than 10,000 individuals (according to the latest decennial census) that is located in a county where at least 15 percent of the total primary and secondary labor and proprietor income is derived from forestry, wood products, and forest-related industries such as recreation and tourism; or
 

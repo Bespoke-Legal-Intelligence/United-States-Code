@@ -14,7 +14,7 @@ Notwithstanding any other provision of law and subject to the provisions of para
 
 #### (c) Playground equipment; required approval
 
-Nothing in this or any other Act shall be construed as prohibiting any day care center referred to in subsection (a) of this section from placing playground equipment within an area designated pursuant to subsection (a) of this section for use solely in connection with the operation of such center, subject to, in the case of a day care center established for the benefit ofchildren of Members and employees of the Senate, the approval of the Senate Committee on Rules and Administration, and in the case of such a center established for the benefit of children of Members and employees of the House of Representatives, the approval of the House Committee on House Oversight, with the concurrence of the House Office Building Commission.
+Nothing in this or any other Act shall be construed as prohibiting any day care center referred to in subsection (a) of this section from placing playground equipment within an area designated pursuant to subsection (a) of this section for use solely in connection with the operation of such center, subject to, in the case of a day care center established for the benefit of children of Members and employees of the Senate, the approval of the Senate Committee on Rules and Administration, and in the case of such a center established for the benefit of children of Members and employees of the House of Representatives, the approval of the House Committee on House Oversight, with the concurrence of the House Office Building Commission.
 
 #### (d) Day care center
 
@@ -40,7 +40,7 @@ Section was classified to section 214b of former Title 40, prior to the enactmen
 
 #### Amendments
 
-1996—Subsecs. (b)(1), (c). Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
+<b>1996</b>—Subsecs. (b)(1), (c). Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
 
 #### Change of Name
 

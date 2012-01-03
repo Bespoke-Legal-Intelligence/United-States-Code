@@ -8,7 +8,7 @@ The President may prescribe rules governing the competitive service. The rules s
 
 > Each officer and individual employed in an agency to which the rules apply shall aid in carrying out the rules.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 417; Pub. L. 95–228, §2(b), Feb. 10, 1978, 92 Stat. 25; Pub. L. 95–454, title VII, §703(c)(1), Oct. 13, 1978, 92 Stat. 1217; Pub. L. 96–54, §2(a)(16), Aug. 14, 1979, 93 Stat. 382; Pub. L. 103–94, §2(b)(1), Oct. 6, 1993, 107 Stat. 1004.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 417; Pub. L. 95–228, §2(b), Feb. 10, 1978, 92 Stat. 25; Pub. L.95–454, title VII, §703(c)(1), Oct. 13, 1978, 92 Stat. 1217; Pub. L. 96–54, §2(a)(16), Aug. 14, 1979, 93 Stat. 382; Pub. L. 103–94, §2(b)(1), Oct. 6, 1993, 107 Stat. 1004.)
 
 Historical and Revision Notes
 
@@ -30,13 +30,13 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1993—Par. (2). Pub. L. 103–94 substituted “and 7203” for “7203, 7321, and 7322”.
+<b>1993</b>—Par. (2). Pub. L. 103–94 substituted “and 7203” for “7203, 7321, and 7322”.
 
-1979—Par. (2). Pub. L. 96–54 amended par. (2) in same manner as amendment by section 703(c)(1) of Pub. L. 95–454. See 1978 Amendment note below.
+<b>1979</b>—Par. (2). Pub. L. 96–54 amended par. (2) in same manner as amendment by section 703(c)(1) of Pub. L. 95–454. See 1978 Amendment note below.
 
-1978—Par. (2). Pub. L. 95–454 substituted “7202, 7203” for “7152, 7153”.
+<b>1978</b>—Par. (2). Pub. L. 95–454 substituted “7202, 7203” for “7152, 7153”.
 
-Pub. L. 95–228 struck out reference to section 3306(a)(1) of this title. Amendments by section 703(c)(1) and (c)(2) of Pub. L. 95–454 appear to have been inadvertently reversed. Subsec. (c)(1) purported to amend subsec. (c)(1) of section 2105 of this title, and subsec. (c)(2) purported to amend par. (2) of this section. However, the amendments specified by Pub. L. 95–454,§703(c)(1) and (2), were impossible to execute literally. Thus, amendment by Pub. L. 95–454, §703(c)(2) was executed to section 2105 of this title, and amendment by section 703(c)(1) was executed to this section as the probable intent of Congress.
+Pub. L. 95–228 struck out reference to section 3306(a)(1) of this title. Amendments by section 703(c)(1) and (c)(2) of Pub. L. 95–454 appear to have been inadvertently reversed. Subsec. (c)(1) purported to amend subsec. (c)(1) of section 2105 of this title, and subsec. (c)(2) purported to amend par. (2) of this section. However, the amendments specified by Pub. L. 95–454, §703(c)(1) and (2), were impossible to execute literally. Thus, amendment by Pub. L. 95–454, §703(c)(2) was executed to section 2105 of this title, and amendment by section 703(c)(1) was executed to this section as the probable intent of Congress.
 
 #### Effective Date of 1993 Amendment; Savings Provision
 

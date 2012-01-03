@@ -28,7 +28,7 @@ Delegation.—Under conditions the Commission may prescribe, the Commission may 
 
 (e)
 
-Solicitation and Receipt of Contributions.—(1) The Commission may solicit and receive funds and in-kind donations and gifts from any State, municipal, or private source to carry out the purposes of this chapter. The Commission shall deposit such funds in a separate account in the Treasury. Funds from that account shall be disbursed upon vouchers approved by the Chairman of the Commission.
+Solicitation and Receipt of Contributions.—(1) The Commission may solicit and receive funds and in-kind donations and gifts fromany State, municipal, or private source to carry out the purposes of this chapter. The Commission shall deposit such funds in a separate account in the Treasury. Funds from that account shall be disbursed upon vouchers approved by the Chairman of the Commission.
 
 (2) The Commission shall establish written guidelines setting forth the criteria to be used in determining whether the acceptance of funds and in-kind donations and gifts under paragraph (1) would—
 

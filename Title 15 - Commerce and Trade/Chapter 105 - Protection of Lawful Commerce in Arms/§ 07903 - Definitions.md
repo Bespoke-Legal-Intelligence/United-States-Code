@@ -8,7 +8,7 @@ In this chapter:
 
 #### (2) Manufacturer
 
-&emsp;The term “manufacturer” means, with respect to a qualified product, a person who is engaged in the business of manufacturing the product in interstate or foreign commerce and who is licensed to engage in business as such a manufacturer under chapter 44 of title 18.
+&emsp;The term “manufacturer” means, with respect to a qualified product, a person who isengaged in the business of manufacturing the product in interstate or foreign commerce and who is licensed to engage in business as such a manufacturer under chapter 44 of title 18.
 
 #### (3) Person
 

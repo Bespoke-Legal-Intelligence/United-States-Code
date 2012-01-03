@@ -60,7 +60,7 @@
 
 &emsp;&emsp;&emsp;(II) has taken steps to repudiate or nullify an existing contract or agreement with a United States citizen or a corporation, partnership, or association which is 50 percent or more beneficially owned by United States citizens, the effect of which is to nationalize, expropriate, or otherwise seize ownership or control of property, including patents, trademarks, or copyrights, so owned, or
 
-&emsp;&emsp;&emsp;(III) has imposed or enforced taxes or other exactions, restrictive maintenanceor operational conditions, or other measures with respect to property, including patents, trademarks, or copyrights, so owned, the effect of which is to nationalize, expropriate, or otherwise seize ownership or control of such property,
+&emsp;&emsp;&emsp;(III) has imposed or enforced taxes or other exactions, restrictive maintenance or operational conditions, or other measures with respect to property, including patents, trademarks, or copyrights, so owned, the effect of which is to nationalize, expropriate, or otherwise seize ownership or control of such property,
 
 > &emsp;&emsp;unless clause (ii) applies.
 
@@ -118,7 +118,7 @@ In determining whether to designate any country as a beneficiary developing coun
 
 #### (3) Advice to Congress
 
-&emsp;The President shall, as necessary, advise the Congress on the application of section 2461 of this title and subsection (c) of this section, and the actions the President has taken to withdraw, to suspend, or to limit the application of duty-free treatment with respect to any country which has failed to adequatelytake the actions described in subsection (c) of this section.
+&emsp;The President shall, as necessary, advise the Congress on the application of section 2461 of this title and subsection (c) of this section, and the actions the President has taken to withdraw, to suspend, or to limit the application of duty-free treatment with respect to any country which has failed to adequately take the actions described in subsection (c) of this section.
 
 #### (e) Mandatory graduation of beneficiary developing countries
 
@@ -138,7 +138,7 @@ If the President determines that a beneficiary developing country has become a �
 
 #### (2) Notification of termination
 
-&emsp;If the President has designated any country as a beneficiary developing country under this subchapter, the President shall not terminate such designation unless, at least 60 days before such termination, the President has notified the Congress and has notified such country of the President's intention to terminate such designation, together with the considerations entering into such decision.
+&emsp;If the President has designated any country as a beneficiary developing country under thissubchapter, the President shall not terminate such designation unless, at least 60 days before such termination, the President has notified the Congress and has notified such country of the President's intention to terminate such designation, together with the considerations entering into such decision.
 
 (Pub. L. 93–618, title V, §502, as added Pub. L. 104–188, title I, §1952(a), Aug. 20, 1996, 110 Stat. 1917; amended Pub. L. 104–295, §35(a), Oct. 11, 1996, 110 Stat. 3538; Pub. L. 106–200, title IV, §412(a), May 18, 2000, 114 Stat. 298; Pub. L. 107–210, div. D, title XLI, §4102(a), Aug. 6, 2002, 116 Stat. 1040.)
 

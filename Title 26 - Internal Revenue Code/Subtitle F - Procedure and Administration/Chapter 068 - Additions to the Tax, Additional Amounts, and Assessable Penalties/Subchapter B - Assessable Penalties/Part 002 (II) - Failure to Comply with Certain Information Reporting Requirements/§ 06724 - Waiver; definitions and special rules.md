@@ -74,7 +74,7 @@ For purposes of this part—
 
 &emsp;&emsp;&emsp;(xvi) section 6053(c)(1) (relating to reporting with respect to certain tips),
 
-&emsp;&emsp;&emsp;(xvii) subsection (b) or (e) of section 1060 (relating to reporting requirements of transferors and transferees in certain asset acquisitions),
+&emsp;&emsp;&emsp;(xvii) subsection (b) or (e) of section 1060 (relating to reporting requirements oftransferors and transferees in certain asset acquisitions),
 
 &emsp;&emsp;&emsp;(xviii) section 4101(d) (relating to information reporting with respect to fuels taxes),
 
@@ -158,8 +158,6 @@ For purposes of this part—
 
 &emsp;&emsp;(CC) section 264(f)(5)(A)(iv) (relating to reporting with respect to certain life insurance and annuity contracts),
 
-### \[See main edition for text of (L) to (AA)\]
-
 &emsp;&emsp;(DD) section 6050T (relating to returns relating to credit for health insurance costs of eligible individuals) <sup>6</sup>
 
 &emsp;&emsp;(EE) section 6050U (relating to charges or payments for qualified long-term care insurance contracts under combined arrangements), or
@@ -208,7 +206,7 @@ If any partnership return under section 6031(a) is required under section 6011(e
 
 <i>Pub. L. 111–148, title I, §1502(b), (e), Mar. 23, 2010, 124 Stat. 251, 252, provided that, applicable to calendar years beginning after 2013, subsection (d) of this section is amended:</i>
 
-<i>(1) in subparagraph (B) of paragraph (1), by striking “or” at the end of clause (xxii), by striking “and” at the end of clause (xxiii) and</i><i>inserting “or”, and by inserting after clause (xxiii) the following new clause:</i>
+<i>(1) in subparagraph (B) of paragraph (1), by striking “or” at the end of clause (xxii), by striking “and” at the end of clause (xxiii) and inserting “or”, and by inserting after clause (xxiii) the following new clause:</i>
 
 &emsp;&emsp;&emsp;<i>“(xxiv) section 6055 (relating to returns relating to information regarding health insurance coverage), and”; and</i>
 
@@ -226,7 +224,7 @@ If any partnership return under section 6031(a) is required under section 6011(e
 
 &emsp;&emsp;<i>“(HH) section 6056(c) (relating to statements relating to certain employers required to report on health insurance coverage).”</i>
 
-<i>Pub. L. 111–147, title V, §501(c)(6), (7), (d)(1), (2), Mar. 18, 2010, 124 Stat. 106, provided that, applicable to payments made after Dec. 31, 2012, with certain exceptions, subsection (d) of this section is amended (1) by inserting “under chapter 4 or” after “filed with the Secretary” in the last sentence of paragraph (1); and (2) by inserting “or 4” after “chapter 3” in paragraph (2).</i>
+<i>Pub. L. 111–147, title V, §501(c)(6), (7), (d)(1), (2), Mar. 18, 2010, 124 Stat. 106, provided that, applicable to payments made after Dec. 31, 2012,</i><i>with certain exceptions, subsection (d) of this section is amended (1) by inserting “under chapter 4 or” after “filed with the Secretary” in the last sentence of paragraph (1); and (2) by inserting “or 4” after “chapter 3” in paragraph (2).</i>
 
 #### Codification
 
@@ -237,6 +235,22 @@ Amendments to subsec. (d)(2) of this section by section 1901(c)(1) of Pub. L. 10
 #### Amendments
 
 <b>2010</b>—Subsec. (c). Pub. L. 111–147, §522(b), inserted before period at end “or with respect to a return described in section 6011(e)(4)”.
+
+Subsec. (d)(1). Pub. L. 111–147, §501(c)(6), inserted “under chapter 4 or” after “filed with the Secretary” in concluding provisions.
+
+Subsec. (d)(1)(B)(xxiv). Pub. L. 111–148, §1502(b)(1), added cl. (xxiv).
+
+Subsec. (d)(1)(B)(xxv). Pub. L. 111–148, §10108(j)(3)(E), substituted “certain” for “large”.
+
+Pub. L. 111–148, §1514(b)(1), added cl. (xxv).
+
+Subsec. (d)(2). Pub. L. 111–147, §501(c)(7), inserted “or 4” after “chapter 3” in concluding provisions.
+
+Subsec. (d)(2)(GG). Pub. L. 111–148, §1502(b)(2), added subpar. (GG).
+
+Subsec. (d)(2)(HH). Pub. L. 111–148, §10108(j)(3)(F), substituted “certain” for “large”.
+
+. Pub. L. 111–148, §1514(b)(2), added subpar. (HH).
 
 <b>2008</b>—Subsec. (d)(1)(B)(iv) to (xviii). Pub. L. 110–343, §403(d)(2)(A), added cl. (iv) and redesignated former cls. (iv) to (xvii) as (v) to (xviii), respectively. Former cl. (xviii) redesignated (xix).
 
@@ -530,7 +544,7 @@ Amendment by Pub. L. 110–172 effective as if included in the provisions of the
 
 Amendment by Pub. L. 109–432 applicable to calendar years beginning after Dec. 20, 2006, see section 403(d) of Pub. L. 109–432, set out as a note under section 6039 of this title.
 
-Amendment by section 844(d)(2) of Pub. L. 109–280 applicable to contracts issued after Dec. 31, 1996, but only with respect to taxable years beginning after Dec. 31, 2009, and to charges made after Dec. 31, 2009, see section 844(g)(1), (3) of Pub. L. 109–280, set out as a note under section 72 of this title.
+Amendment by section 844(d)(2) of Pub. L. 109–280 applicable to contracts issued after Dec. 31, 1996, but onlywith respect to taxable years beginning after Dec. 31, 2009, and to charges made after Dec. 31, 2009, see section 844(g)(1), (3) of Pub. L. 109–280, set out as a note under section 72 of this title.
 
 Amendment by section 1211(b)(1) of Pub. L. 109–280 applicable to acquisitions of contracts after Aug. 17, 2006, see section 1211(d) of Pub. L. 109–280, set out as an Effective Date note under section 6050V of this title.
 

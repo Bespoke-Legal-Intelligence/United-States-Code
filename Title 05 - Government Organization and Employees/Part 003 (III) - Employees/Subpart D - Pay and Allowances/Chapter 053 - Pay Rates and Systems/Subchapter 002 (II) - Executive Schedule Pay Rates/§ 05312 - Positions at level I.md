@@ -68,43 +68,43 @@ Paragraph designation for the position added by Pub. L. 96–88 has been omitted
 
 #### Amendments
 
-2004—Pub. L. 108–458 inserted item relating to Director of National Intelligence.
+<b>2004</b>—Pub. L. 108–458 inserted item relating to Director of National Intelligence.
 
-2002—Pub. L. 107–296 inserted item relating to Secretary of Homeland Security.
+<b>2002</b>—Pub. L. 107–296 inserted item relating to Secretary of Homeland Security.
 
-2000—Pub. L. 106–569 inserted item relating to Chairman, Board of Governors of the Federal Reserve System.
+<b>2000</b>—Pub. L. 106–569 inserted item relating to Chairman, Board of Governors of the Federal Reserve System.
 
-1998—Pub. L. 105–277 inserted item relating to Director of National Drug Control Policy.
+<b>1998</b>—Pub. L. 105–277 inserted item relating to Director of National Drug Control Policy.
 
-1994—Pub. L. 103–296 inserted item relating to Commissioner of Social Security, Social Security Administration.
+<b>1994</b>—Pub. L. 103–296 inserted item relating to Commissioner of Social Security, Social Security Administration.
 
-1988—Pub. L. 100–690, §§1003(a)(4)(A), 1009, temporarily inserted item relating to Director of National Drug Control Policy. See Effective and Termination Dates of 1988 Amendments note below.
+<b>1988</b>—Pub. L. 100–690, §§1003(a)(4)(A), 1009, temporarily inserted item relating to Director of National Drug Control Policy. See Effective and Termination Dates of 1988 Amendments note below.
 
 Pub. L. 100–679 inserted item relating to Director of Office of Management and Budget.
 
 Pub. L. 100–527 inserted item relating to Secretary of Veterans Affairs.
 
-1986—Pub. L. 99–260 struck out item relating to Special Assistant for Agricultural Trade and Food Aid.
+<b>1986</b>—Pub. L. 99–260 struck out item relating to Special Assistant for Agricultural Trade and Food Aid.
 
-1985—Pub. L. 99–198 inserted item relating to Special Assistant for Agricultural Trade and Food Aid.
+<b>1985</b>—Pub. L. 99–198 inserted item relating to Special Assistant for Agricultural Trade and Food Aid.
 
-1983—Pub. L. 97–456, §3(d)(5), substituted “United States Trade Representative” for “Special Representative for Trade Negotiations”.
+<b>1983</b>—Pub. L. 97–456, §3(d)(5), substituted “United States Trade Representative” for “Special Representative for Trade Negotiations”.
 
-1979—Pub. L. 96–88, §508(g), substituted “Health and Human Services” for “Health, Education, and Welfare” in item relating to the Secretary of Health and Human Services.
+<b>1979</b>—Pub. L. 96–88, §508(g), substituted “Health and Human Services” for “Health, Education, and Welfare” in item relating to the Secretary of Health and Human Services.
 
 Pars. (1) to (14). Pub. L. 96–54 struck out paragraph designations for positions listed herein.
 
 Par. (15). Pub. L. 96–88, §508(c), added par. (15) relating to Secretary of Education. See Codification note set out above.
 
-1977—Par. (14). Pub. L. 95–91 added par. (14) relating to Secretary of Energy.
+<b>1977</b>—Par. (14). Pub. L. 95–91 added par. (14) relating to Secretary of Energy.
 
-1975—Pub. L. 94–82 substituted provisions applying level I of Executive Schedule to positions for which annual rate of basic pay shall be rate determined with respect to such level under chapter 11 of title 2, as adjusted by section 5318 of this title for provisions applying such level I to positions for which annual rate of basic pay is $35,000.
+<b>1975</b>—Pub. L. 94–82 substituted provisions applying level I of Executive Schedule to positions for which annual rate of basic pay shall be rate determined with respect to such level under chapter 11 of title 2, as adjusted by section 5318 of this title for provisions applying such level I to positions for which annual rate of basic pay is $35,000.
 
 Par. (13). Pub. L. 93–618 added par. (13) relating to Special Representative for Trade Negotiations.
 
-1970—Par. (5). Pub. L. 91–375 struck out par. (5) relating to Postmaster General.
+<b>1970</b>—Par. (5). Pub. L. 91–375 struck out par. (5) relating to Postmaster General.
 
-1966—Pub. L. 89–670 added par. (11) relating to Secretary of Housing and Urban Development, and par. (12) relating to Secretary of Transportation.
+<b>1966</b>—Pub. L. 89–670 added par. (11) relating to Secretary of Housing and Urban Development, and par. (12) relating to Secretary of Transportation.
 
 #### Effective Date of 2004 Amendment
 
@@ -114,7 +114,7 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out asan Effective Date note under section 101 of Title 6, Domestic Security.
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
 #### Effective Date of 2000 Amendment
 
@@ -220,7 +220,7 @@ Effective Date.—This joint resolution shall take effect at 12:00 p.m. on Janua
 
 #### Compensation and Emoluments of Secretary of the Treasury at Level in Effect on January 1, 1989
 
-For provisions limiting compensation and emoluments of Secretary of the Treasury at levels in effect on Jan. 1, 1989, see section 1(a) of Pub. L. 103–2, set out as a note under section 301 of Title 31, Money and Finance.
+For provisions limiting compensation and emoluments of Secretary of the Treasury at levels in effect on Jan. 1, 1989, see section 1(a) of Pub. L. 103–2, set outas a note under section 301 of Title 31, Money and Finance.
 
 #### Compensation and Emoluments of Secretary of State; Fixing at Level in Effect on January 1, 1977
 

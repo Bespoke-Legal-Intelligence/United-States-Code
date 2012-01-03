@@ -36,7 +36,7 @@ Section 410(c) of the Agricultural Credit Act of 1987, referred to in subsec. (d
 
 #### Amendments
 
-1988—Subsecs. (a)(1) to (3), (c). Pub. L. 100–399, §201(e), struck out “the appropriate provision of” after “under” wherever appearing.
+<b>1988</b>—Subsecs. (a)(1) to (3), (c). Pub. L. 100–399, §201(e), struck out “the appropriate provision of” after “under” wherever appearing.
 
 Subsec. (d). Pub. L. 100–399, §201(d), substituted “Except as provided in section 410(c) of the Agricultural Credit Act of 1987, no” for “No”.
 

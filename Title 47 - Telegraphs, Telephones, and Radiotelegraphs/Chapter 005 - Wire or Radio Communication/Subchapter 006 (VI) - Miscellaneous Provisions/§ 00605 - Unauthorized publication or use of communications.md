@@ -68,7 +68,7 @@ For purposes of this section—
 
 (5) The penalties under this subsection shall be in addition to those prescribed under any other provision of this subchapter.
 
-(6) Nothing in this subsection shall prevent any State, or political subdivision thereof, from enacting or enforcing any laws with respect to the importation, sale, manufacture, or distribution of equipment by any person with the intent of its use to assist in the interception or receipt of radio communications prohibited by subsection (a) of this section.
+(6) Nothing in this subsection shall prevent any State, or political subdivision thereof, fromenacting or enforcing any laws with respect to the importation, sale, manufacture, or distribution of equipment by any person with the intent of its use to assist in the interception or receipt of radio communications prohibited by subsection (a) of this section.
 
 #### (f) Rights, obligations, and liabilities under other laws unaffected
 

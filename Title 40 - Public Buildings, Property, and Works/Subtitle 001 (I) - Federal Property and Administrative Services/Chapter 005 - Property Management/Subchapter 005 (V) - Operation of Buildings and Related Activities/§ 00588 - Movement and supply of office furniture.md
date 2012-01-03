@@ -26,7 +26,7 @@ Control of Furniture Not Moved.—
 
 &emsp;(1)
 
-In general.—If furniture and furnishings for a new controlled space are provided from stocks available to the Administrator, the furniture and furnishings that were previously used by the moving agency (or unit of the agency) pass to the control of the Administrator.
+In general.—If furniture and furnishings for a new controlled space are provided from stocks available to the Administrator, the furniture and furnishings that were previously used by the moving agency (or unit of theagency) pass to the control of the Administrator.
 
 &emsp;(2)
 

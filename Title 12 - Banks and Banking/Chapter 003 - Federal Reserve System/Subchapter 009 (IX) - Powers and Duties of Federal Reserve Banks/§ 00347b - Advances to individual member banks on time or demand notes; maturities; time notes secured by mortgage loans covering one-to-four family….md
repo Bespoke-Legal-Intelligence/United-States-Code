@@ -48,7 +48,7 @@ Notwithstanding the foregoing, any Federal Reserve bank, under rules and regulat
 
 &emsp;&emsp;&emsp;(i) in the case of any critically undercapitalized depository institution—
 
-&emsp;&emsp;&emsp;&emsp;(I) any advance under this section to such institution is outstanding without payment having been demanded as of the end of the 5-day period beginning on the date the institution becomes a critically undercapitalized depository institution; or
+&emsp;&emsp;&emsp;&emsp;(I) any advance under this section to such institution is outstanding without payment having been demanded as of the end of the 5-day period beginning on thedate the institution becomes a critically undercapitalized depository institution; or
 
 &emsp;&emsp;&emsp;&emsp;(II) any new advance is made to such institution under this section after the end of such period; and
 
@@ -116,21 +116,21 @@ This chapter, referred to in subsec. (b)(4), was in the original “this Act”,
 
 #### Amendments
 
-2006—Subsec. (b)(3)(A)(ii). Pub. L. 109–173 substituted “the Deposit Insurance Fund of” for “any deposit insurance fund in”.
+<b>2006</b>—Subsec. (b)(3)(A)(ii). Pub. L. 109–173 substituted “the Deposit Insurance Fund of” for “any deposit insurance fund in”.
 
 Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(9). See 1996 Amendment note below.
 
-1996—Subsec. (b)(3)(A)(ii). Pub. L. 104—208, §2704(d)(9), which directed the amendment of cl. (ii) by substituting “the Deposit Insurance Fund of” for “any deposit insurance fund in”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+<b>1996</b>—Subsec. (b)(3)(A)(ii). Pub. L. 104—208, §2704(d)(9), which directed the amendment of cl. (ii) by substituting “the Deposit Insurance Fund of” for “any deposit insurance fund in”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
-1991—Pub. L. 102–242, §142(b), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>1991</b>—Pub. L. 102–242, §142(b), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-1980—Pub. L. 96–221 struck out second sentence of first par. relating to interest on notes under this section.
+<b>1980</b>—Pub. L. 96–221 struck out second sentence of first par. relating to interest on notes under this section.
 
-1974—Pub. L. 93–449 inserted provisions relating to advances on time notes secured by mortgage loans covering one-to-four family residences.
+<b>1974</b>—Pub. L. 93–449 inserted provisions relating to advances on time notes secured by mortgage loans covering one-to-four family residences.
 
-1935—Act Aug. 23, 1935, struck out provision prescribing termination date of section.
+<b>1935</b>—Act Aug. 23, 1935, struck out provision prescribing termination date of section.
 
-1933—Act Mar. 9, 1933, struck out proviso which extended applicability to member banks regardless of their capital, and empowered President to extend termination date one year beyond March 3, 1934.
+<b>1933</b>—Act Mar. 9, 1933, struck out proviso which extended applicability to member banks regardless of their capital, and empowered President to extend termination date one year beyond March 3, 1934.
 
 Act Feb. 3, 1933, extended termination date from “March 3, 1933” to “March 3, 1934”.
 

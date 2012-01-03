@@ -12,7 +12,7 @@
 
 (c) Any funds expended under the authority of subsection (a) shall be reported to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives pursuant to the provisions of title V of the National Security Act of 1947 (50 U.S.C. 413 et seq.). Funds expended under the authority of subsection (b) shall be reported pursuant to procedures jointly agreed upon by such committees and the Secretary of Defense.
 
-(Added Pub. L. 96–450, title IV, §401(a), Oct. 14, 1980, 94 Stat. 1977, §140a; amended Pub. L. 97–258, §3(b)(2), Sept. 13, 1982, 96 Stat. 1063; renumbered §128 and amended Pub. L. 99–433, title I, §§101(a)(3), 110(d)(5), Oct. 1, 1986, 100 Stat. 994, 1002; renumbered §421, Pub. L. 100–26, §9(a)(2), Apr. 21, 1987, 101 Stat. 287; Pub. L. 100–453, title VII, §701(a), Sept. 29, 1988, 102 Stat. 1911; Pub. L. 101–189, div. A, title XVI, §1622(c)(3), Nov. 29, 1989, 103 Stat. 1604.)
+(Added Pub. L. 96–450, title IV, §401(a), Oct. 14, 1980, 94 Stat. 1977, §140a; amended Pub. L. 97–258, §3(b)(2), Sept. 13, 1982, 96 Stat. 1063; renumbered §128 and amended Pub. L. 99–433, title I, §§101(a)(3), 110(d)(5), Oct. 1, 1986, 100 Stat. 994, 1002; renumbered §421, Pub. L. 100–26, §9(a)(2),Apr. 21, 1987, 101 Stat. 287; Pub. L. 100–453, title VII, §701(a), Sept. 29, 1988, 102 Stat. 1911; Pub. L. 101–189, div. A, title XVI, §1622(c)(3), Nov. 29, 1989, 103 Stat. 1604.)
 
 #### References in Text
 

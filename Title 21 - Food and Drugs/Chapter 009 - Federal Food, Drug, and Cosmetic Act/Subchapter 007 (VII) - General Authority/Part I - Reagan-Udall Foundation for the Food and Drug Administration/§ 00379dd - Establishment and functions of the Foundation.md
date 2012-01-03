@@ -62,7 +62,7 @@ The Foundation shall—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The ex officio members of the Board under subparagraph (B) shall, by majority vote, appoint to the Board 14 individuals, of which 9 shall be from a list of candidates to be provided by the National Academy of Sciences and 5 shall be from lists of candidates provided by patient and consumer advocacy groups, professional scientific and medical societies, and industry trade organizations. Of such appointed members—
+&emsp;&emsp;&emsp;The ex officio members of the Board under subparagraph (B) shall, by majority vote, appoint to the Board 14 individuals, of which 9 shall be from a list of candidates to be provided by the National Academy of Sciences and 5 shall be fromlists of candidates provided by patient and consumer advocacy groups, professional scientific and medical societies, and industry trade organizations. Of such appointed members—
 
 &emsp;&emsp;&emsp;&emsp;(I) 4 shall be representatives of the general pharmaceutical, device, food, cosmetic, and biotechnology industries;
 
@@ -118,7 +118,7 @@ The Foundation shall—
 
 &emsp;&emsp;&emsp;(iii) establish policies, including ethical standards, for the acceptance, solicitation, and disposition of donations and grants to the Foundation and for the disposition of the assets of the Foundation, including appropriate limits on the ability of donors to designate, by stipulation or restriction, the use or recipient of donated funds;
 
-&emsp;&emsp;&emsp;(iv) establish policies that would subject all employees, fellows, and trainees of theFoundation to the conflict of interest standards under section 208 of title 18;
+&emsp;&emsp;&emsp;(iv) establish policies that would subject all employees, fellows, and trainees of the Foundation to the conflict of interest standards under section 208 of title 18;
 
 &emsp;&emsp;&emsp;(v) establish licensing, distribution, and publication policies that support the widest and least restrictive use by the public of information and inventions developed by the Foundation or with Foundation funds to carry out the duties described in paragraphs (6) and (7) of subsection (c), and may include charging cost-based fees for published material produced by the Foundation;
 
@@ -144,7 +144,7 @@ The Foundation shall—
 
 #### (A) Term
 
-&emsp;&emsp;The term of office of each member of the Board appointed under paragraph (1)(C) shall be 4 years, except that the terms of offices for the initial appointed members of the Board shall expire on a staggered basis as determined by the ex officio members.
+&emsp;&emsp;The term of office of each member of the Board appointed under paragraph (1)(C) shallbe 4 years, except that the terms of offices for the initial appointed members of the Board shall expire on a staggered basis as determined by the ex officio members.
 
 #### (B) Vacancy
 
@@ -204,7 +204,7 @@ In carrying out this part, the Board, acting through the Executive Director, may
 
 &emsp;&emsp;(C) the privileges granted to the Board by law are exercised and enjoyed;
 
-&emsp;(4) with the consent of the applicable executive department or independent agency, usethe information, services, and facilities of such department or agencies in carrying out this section;
+&emsp;(4) with the consent of the applicable executive department or independent agency, use the information, services, and facilities of such department or agencies in carrying out this section;
 
 &emsp;(5) enter into contracts with public and private organizations for the writing, editing, printing, and publishing of books and other material;
 
@@ -234,7 +234,7 @@ Federal Government employees may serve on committees advisory to the Foundation 
 
 #### (1) Detail from Federal agencies
 
-&emsp;Federal Government employees may be detailed from Federal agencies with or without reimbursement to those agencies to the Foundation at any time, and such detail shall be without interruption or loss of civil service status or privilege. Each such employee shall abide by the statutory, regulatory, ethical, and procedural standards applicable to the employees of the agency from which such employee is detailed and those of the Foundation.
+&emsp;Federal Government employees may be detailed from Federal agencies with or without reimbursement to those agencies to the Foundation at any time, and such detail shall be without interruption or loss of civil service status or privilege. Each such employee shall abide by the statutory, regulatory, ethical,and procedural standards applicable to the employees of the agency from which such employee is detailed and those of the Foundation.
 
 #### (2) Voluntary service; acceptance of Federal employees
 

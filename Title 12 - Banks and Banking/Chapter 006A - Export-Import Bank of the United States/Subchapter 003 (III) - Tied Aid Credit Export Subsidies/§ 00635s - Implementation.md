@@ -10,7 +10,7 @@
 
 #### Amendments
 
-1992—Subsec. (b). Pub. L. 102–549 substituted “Development Agency” for “Development Program” in two places.
+<b>1992</b>—Subsec. (b). Pub. L. 102–549 substituted “Development Agency” for “Development Program” in two places.
 
-1988—Subsec. (b). Pub. L. 100–418 added subsec. (b).
+<b>1988</b>—Subsec. (b). Pub. L. 100–418 added subsec. (b).
 

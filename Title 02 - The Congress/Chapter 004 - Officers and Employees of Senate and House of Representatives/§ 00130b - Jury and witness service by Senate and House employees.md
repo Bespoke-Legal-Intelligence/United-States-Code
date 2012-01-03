@@ -58,11 +58,11 @@ For definition of Canal Zone, referred to in subsec. (b), see section 3602(b) of
 
 #### Amendments
 
-1996—Subsec. (a)(1). Pub. L. 104–186, §204(74), substituted “Chief Administrative Officer” for “Clerk”.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–186, §204(74), substituted “Chief Administrative Officer” for “Clerk”.
 
 Subsec. (f). Pub. L. 104–186, §204(75), substituted “House Oversight” for “House Administration”.
 
-1976—Subsec. (b)(2). Pub. L. 94–310 substituted “other than as provided in subsection (c) of this section, as a witness on behalf of any party in connection with any judicial proceeding to which the United States, the District of Columbia, or a State or local government is a party” for “as a witness on behalf of a party other than the United States, the District of Columbia, or a private party”.
+<b>1976</b>—Subsec. (b)(2). Pub. L. 94–310 substituted “other than as provided in subsection (c) of this section, as a witness on behalf of any party in connection with any judicial proceeding to which the United States, the District of Columbia, or a State or local government is a party” for “as a witness on behalf of a party other than the United States, the District of Columbia, or a private party”.
 
 #### Change of Name
 
@@ -70,7 +70,7 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 #### Effective Date of 1976 Amendment
 
-Section 4 of Pub. L. 94–310 provided that: “The amendments made by this Act \[amending this section and sections 6322 and 8906 of Title 5, Government Organization and Employees\] shall take effect on October 1,1976, or on the date of the enactment of this Act \[June 15, 1976\], whichever date is later.”
+Section 4 of Pub. L. 94–310 provided that: “The amendments made by this Act \[amending this section and sections 6322 and 8906 of Title 5, Government Organization and Employees\] shall take effect on October 1, 1976, or on the date of the enactment of this Act \[June 15, 1976\], whichever date is later.”
 
 #### Termination of Trust Territory of the Pacific Islands
 

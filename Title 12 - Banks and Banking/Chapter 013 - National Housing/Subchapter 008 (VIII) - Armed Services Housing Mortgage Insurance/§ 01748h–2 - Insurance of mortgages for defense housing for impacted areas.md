@@ -44,7 +44,7 @@ The provisions of subsections (d), (e), (g), (h), (i), (j), (k), (<i>l</i>), and
 
 The provisions of sections 1748, 1748a,<sup>1</sup> 1748b(c), 1748b(i), 1748b(j), 1748c(a), 1748c(b),<sup>1</sup> and 1748f of this title and the provisions of section 1748b(a) of this title relating to the aggregate amount of all mortgages insured under this subchapter shall be applicable to mortgages insured under this section.
 
-(June 27, 1934, ch. 847, title VIII, §810, as added Pub. L. 86–372, title VII, §704(a), Sept. 23, 1959, 73 Stat. 683; amended Pub. L. 87–70, title VI, §611(a), June 30, 1961, 75 Stat. 180; Pub. L. 87–623, §3, Aug. 31, 1962, 76 Stat. 418; Pub. L. 88–127, §2, Sept. 23, 1963, 77 Stat. 163; Pub. L. 88–560, title I, §107(f), Sept. 2, 1964, 78 Stat. 776; Pub. L. 89–117, title II, §202(c), title XI, §1108(w), Aug. 10, 1965, 79 Stat. 466, 506; Pub. L. 90–19, §1(a)(3), May 25, 1967, 81 Stat. 17; Pub. L. 90–448, title XVII, §1722(f), Aug. 1, 1968, 82 Stat. 611; Pub. L. 91–78, §2(e), Sept. 30, 1969, 83 Stat. 125; Pub. L. 91–152, title I, §101(g), Dec. 24, 1969, 83 Stat. 379; Pub. L. 91–432, §1(e), Oct. 2, 1970, 84 Stat. 887; Pub. L. 91–473, §1(e), Oct. 21, 1970, 84 Stat. 1065; Pub. L. 91–525, §1(e), Dec. 1, 1970, 84 Stat. 1384; Pub. L. 91–609, title I, §101(g), Dec. 31, 1970, 84 Stat. 1770; Pub. L. 92–503, §1(g), Oct. 18, 1972, 86 Stat. 906; Pub. L. 93–85, §1(g), Aug. 10, 1973, 87 Stat. 220; Pub. L. 93–117, §1(g), Oct. 2, 1973, 87 Stat. 421; Pub. L. 93–383, title III, §§304(j), 316(e), Aug. 22, 1974, 88 Stat. 678, 685; Pub. L. 95–60, §1(f), June 30, 1977, 91 Stat. 257; Pub. L. 95–80, §1(f), July 31, 1977, 91 Stat. 339; Pub. L. 95–128, title III, §301(i), Oct. 12, 1977, 91 Stat. 1131; Pub. L. 95–406, §1(i), Sept. 30, 1978, 92 Stat. 879; Pub. L. 95–557, title III, §301(i), Oct. 31, 1978, 92 Stat. 2096; Pub. L. 96–71, §1(i), Sept. 28, 1979, 93 Stat. 501; Pub. L. 96–105, §1(i), Nov. 8, 1979, 93 Stat. 794; Pub. L. 96–153, title III, §301(i), Dec. 21, 1979, 93 Stat. 1112; Pub. L. 96–372, §1(i), Oct. 3, 1980, 94 Stat. 1363; Pub. L. 96–399, title III, §301(i), Oct. 8, 1980, 94 Stat. 1639; Pub. L. 97–35, title III, §331(h)(2), Aug. 13, 1981, 95 Stat. 413; Pub. L. 97–289, §1(i), Oct. 6, 1982, 96 Stat. 1230; Pub. L. 98–35, §1(i), May 26, 1983, 97 Stat. 197; Pub. L. 98–109, §1(i), Oct. 1, 1983, 97 Stat. 745; Pub. L. 98–181, title IV, §401(h), Nov. 30, 1983, 97 Stat. 1208; Pub. L. 99–120, §1(h)(2), Oct. 8, 1985, 99 Stat. 503; Pub. L. 99–156, §1(h)(2), Nov. 15, 1985, 99 Stat. 816; Pub. L. 99–219, §1(h)(2), Dec. 26, 1985, 99 Stat. 1731; Pub. L. 99–267, §1(i)(2), Mar. 27, 1986, 100 Stat. 74; Pub. L. 99–272, title III, §3007(h)(2), Apr. 7, 1986, 100 Stat. 105; Pub. L. 99–289, §1(b), May 2, 1986, 100 Stat. 412; Pub. L. 99–345, §1, June 24, 1986, 100 Stat. 673; Pub. L. 99–430, Sept. 30, 1986, 100 Stat. 986; Pub. L. 100–122, §1, Sept. 30, 1987, 101 Stat. 793; Pub. L. 100–154, Nov. 5, 1987, 101 Stat. 890; Pub. L. 100–170, Nov. 17, 1987, 101 Stat. 914; Pub. L. 100–179, Dec. 3, 1987, 101 Stat. 1018; Pub. L. 100–200, Dec. 21, 1987, 101 Stat. 1327; Pub. L. 100–242, title IV, §§401(a)(6), 429(k), Feb. 5, 1988, 101 Stat. 1898, 1919.)
+(June 27, 1934, ch. 847, title VIII, §810, as added Pub. L. 86–372, title VII, §704(a), Sept. 23, 1959, 73 Stat. 683; amended Pub. L. 87–70, title VI, §611(a), June 30, 1961, 75 Stat. 180; Pub. L. 87–623, §3, Aug. 31, 1962, 76 Stat. 418; Pub. L. 88–127, §2, Sept. 23, 1963, 77 Stat. 163; Pub. L. 88–560, title I, §107(f), Sept. 2, 1964, 78 Stat. 776; Pub. L. 89–117, title II, §202(c), title XI, §1108(w), Aug. 10, 1965, 79 Stat. 466, 506; Pub. L. 90–19, §1(a)(3), May 25, 1967, 81 Stat. 17; Pub. L. 90–448, title XVII, §1722(f), Aug. 1, 1968, 82 Stat. 611; Pub. L. 91–78, §2(e), Sept. 30, 1969, 83 Stat. 125; Pub. L. 91–152, title I, §101(g), Dec. 24, 1969, 83 Stat. 379; Pub. L. 91–432, §1(e), Oct. 2, 1970, 84 Stat. 887; Pub. L. 91–473, §1(e), Oct. 21, 1970, 84 Stat. 1065; Pub. L. 91–525, §1(e), Dec. 1, 1970, 84 Stat. 1384; Pub. L. 91–609, title I, §101(g), Dec. 31, 1970, 84 Stat. 1770; Pub. L. 92–503, §1(g), Oct. 18, 1972, 86 Stat. 906; Pub. L. 93–85, §1(g), Aug. 10, 1973, 87 Stat. 220; Pub. L. 93–117, §1(g), Oct. 2, 1973, 87 Stat. 421; Pub. L. 93–383, title III, §§304(j), 316(e), Aug. 22,1974, 88 Stat. 678, 685; Pub. L. 95–60, §1(f), June 30, 1977, 91 Stat. 257; Pub. L. 95–80, §1(f), July 31, 1977, 91 Stat. 339; Pub. L. 95–128, title III, §301(i), Oct. 12, 1977, 91 Stat. 1131; Pub. L. 95–406, §1(i), Sept. 30, 1978, 92 Stat. 879; Pub. L. 95–557, title III, §301(i), Oct. 31, 1978, 92 Stat. 2096; Pub. L. 96–71, §1(i), Sept. 28, 1979, 93 Stat. 501; Pub. L. 96–105, §1(i), Nov. 8, 1979, 93 Stat. 794; Pub. L. 96–153, title III, §301(i), Dec. 21, 1979, 93 Stat. 1112; Pub. L. 96–372, §1(i), Oct. 3, 1980, 94 Stat. 1363; Pub. L. 96–399, title III, §301(i), Oct. 8, 1980, 94 Stat. 1639; Pub. L. 97–35, title III, §331(h)(2), Aug. 13, 1981, 95 Stat. 413; Pub. L. 97–289, §1(i), Oct. 6, 1982, 96 Stat. 1230; Pub. L. 98–35, §1(i), May 26, 1983, 97 Stat. 197; Pub. L. 98–109, §1(i), Oct. 1, 1983, 97 Stat. 745; Pub. L. 98–181, title IV, §401(h), Nov. 30, 1983, 97 Stat. 1208; Pub. L. 99–120, §1(h)(2), Oct. 8, 1985, 99 Stat. 503; Pub. L. 99–156, §1(h)(2), Nov. 15, 1985, 99 Stat. 816; Pub. L. 99–219, §1(h)(2), Dec. 26, 1985, 99 Stat. 1731; Pub. L. 99–267, §1(i)(2), Mar. 27, 1986, 100 Stat. 74; Pub. L. 99–272, title III, §3007(h)(2), Apr. 7, 1986, 100 Stat. 105; Pub. L. 99–289, §1(b), May 2, 1986, 100 Stat. 412; Pub. L. 99–345, §1, June 24, 1986, 100 Stat. 673; Pub. L. 99–430, Sept. 30, 1986, 100 Stat. 986; Pub. L. 100–122, §1, Sept. 30, 1987, 101 Stat. 793; Pub. L. 100–154, Nov. 5, 1987, 101 Stat. 890; Pub. L. 100–170, Nov. 17, 1987, 101 Stat. 914; Pub. L. 100–179, Dec. 3, 1987, 101 Stat. 1018; Pub. L. 100–200, Dec. 21, 1987, 101 Stat. 1327; Pub. L. 100–242, title IV, §§401(a)(6), 429(k), Feb. 5, 1988, 101 Stat. 1898, 1919.)
 
 #### References in Text
 
@@ -62,11 +62,11 @@ A prior section 810 of title VIII of act June 27, 1934, ch. 847, as added Sept. 
 
 #### Amendments
 
-1988—Subsec. (h). Pub. L. 100–242, §429(k), substituted “at such rate as may be agreed upon by the mortgagor and the mortgagee” for “(exclusive of premium charges for insurance) at not to exceed the rate applicable to mortgages insured under section 1713 of this title” and “such rate as may be agreed upon by the mortgagor and the mortgagee” for “not to exceed the rate applicable to mortgages insured under section 1709 of this title”.
+<b>1988</b>—Subsec. (h). Pub. L. 100–242, §429(k), substituted “at such rate as may be agreed upon by the mortgagor and the mortgagee” for “(exclusive of premium charges for insurance) at not to exceed the rate applicable to mortgages insured under section 1713 of this title” and “such rate as may be agreed upon by the mortgagor and the mortgagee” for “not to exceed the rate applicable to mortgages insured under section 1709 of this title”.
 
 Subsec. (k). Pub. L. 100–242, §401(a)(6), struck out “No more mortgages shall be insured under this section after March 15, 1988, except pursuant to a commitment to insure before such date.”
 
-1987—Subsec. (k). Pub. L. 100–200 substituted “March 15, 1988” for “December 16, 1987”.
+<b>1987</b>—Subsec. (k). Pub. L. 100–200 substituted “March 15, 1988” for “December 16, 1987”.
 
 Pub. L. 100–179 substituted “December 16, 1987” for “December 2, 1987”.
 
@@ -76,7 +76,7 @@ Pub. L. 100–154 substituted “November 15, 1987” for “October 31, 1987”
 
 Pub. L. 100–122 substituted “October 31, 1987” for “September 30, 1987”.
 
-1986—Subsec. (k). Pub. L. 99–430 substituted “September 30, 1987” for “September 30, 1986”.
+<b>1986</b>—Subsec. (k). Pub. L. 99–430 substituted “September 30, 1987” for “September 30, 1986”.
 
 Pub. L. 99–345 substituted “September 30, 1986” for “June 6, 1986”.
 
@@ -86,55 +86,55 @@ Pub. L. 99–272 made amendment identical to Pub. L. 99–219. See 1985 Amendmen
 
 Pub. L. 99–267 substituted “April 30, 1986” for “March 17, 1986”.
 
-1985—Subsec. (k). Pub. L. 99–219 substituted “March 17, 1986” for “December 15, 1985”.
+<b>1985</b>—Subsec. (k). Pub. L. 99–219 substituted “March 17, 1986” for “December 15, 1985”.
 
 Pub. L. 99–156 substituted “December 15, 1985” for “November 14, 1985”.
 
 Pub. L. 99–120 substituted “November 14, 1985” for “September 30, 1985”.
 
-1983—Subsec. (k). Pub. L. 98–181 substituted “September 30, 1985” for “November 30, 1983”.
+<b>1983</b>—Subsec. (k). Pub. L. 98–181 substituted “September 30, 1985” for “November 30, 1983”.
 
 Pub. L. 98–109 substituted “November 30, 1983” for “September 30, 1983”.
 
 Pub. L. 98–35 substituted “September 30, 1983” for “May 20, 1983”.
 
-1982—Subsec. (k). Pub. L. 97–289 substituted “May 20, 1983” for “September 30, 1982”.
+<b>1982</b>—Subsec. (k). Pub. L. 97–289 substituted “May 20, 1983” for “September 30, 1982”.
 
-1981—Subsec. (k). Pub. L. 97–35 substituted “1982” for “1981”.
+<b>1981</b>—Subsec. (k). Pub. L. 97–35 substituted “1982” for “1981”.
 
-1980—Subsec. (k). Pub. L. 96–399 substituted “September 30, 1981” for “October 15, 1980”.
+<b>1980</b>—Subsec. (k). Pub. L. 96–399 substituted “September 30, 1981” for “October 15, 1980”.
 
 Pub. L. 96–372 substituted “October 15, 1980” for “September 30, 1980”.
 
-1979—Subsec. (k). Pub. L. 96–153 substituted “September 30, 1980” for “November 30, 1979”.
+<b>1979</b>—Subsec. (k). Pub. L. 96–153 substituted “September 30, 1980” for “November 30, 1979”.
 
 Pub. L. 96–105 substituted “November 30, 1979” for “October 31, 1979”.
 
 Pub. L. 96–71 substituted “October 31, 1979” for “September 30, 1979”.
 
-1978—Subsec. (k). Pub. L. 95–557 substituted “September 30, 1979” for “October 31, 1978”.
+<b>1978</b>—Subsec. (k). Pub. L. 95–557 substituted “September 30, 1979” for “October 31, 1978”.
 
 Pub. L. 95–406 substituted “October 31, 1978” for “September 30, 1978”.
 
-1977—Subsec. (k). Pub. L. 95–128 substituted “September 30, 1978” for “September 30, 1977”.
+<b>1977</b>—Subsec. (k). Pub. L. 95–128 substituted “September 30, 1978” for “September 30, 1977”.
 
 Pub. L. 95–80 substituted “September 30, 1977” for “July 31, 1977”.
 
 Pub. L. 95–60 substituted “July 31, 1977” for “June 30, 1977”.
 
-1974—Subsec. (f). Pub. L. 93–383, §304(j)(1), struck out “(1) not to exceed $5,000,000 or (2)” after “in an amount”.
+<b>1974</b>—Subsec. (f). Pub. L. 93–383, §304(j)(1), struck out “(1) not to exceed $5,000,000 or (2)” after “in an amount”.
 
 Subsec. (g). Pub. L. 93–383, §304(j)(2), struck out “not to exceed $5,000,000 and” after “in an amount”.
 
 Subsec. (k). Pub. L. 93–383, §316(e), substituted “June 30, 1977” for “October 1, 1974”.
 
-1973—Subsec. (k). Pub. L. 93–117 substituted “October 1, 1974” for “October 1, 1973”.
+<b>1973</b>—Subsec. (k). Pub. L. 93–117 substituted “October 1, 1974” for “October 1, 1973”.
 
 Pub. L. 93–85 substituted “October 1, 1973” for “June 30, 1973”.
 
-1972—Subsec. (k). Pub. L. 92–503 substituted “June 30, 1973” for “October 1, 1972”.
+<b>1972</b>—Subsec. (k). Pub. L. 92–503 substituted “June 30, 1973” for “October 1, 1972”.
 
-1970—Subsec. (k). Pub. L. 91–609 substituted “October 1, 1972” for “January 1, 1971”.
+<b>1970</b>—Subsec. (k). Pub. L. 91–609 substituted “October 1, 1972” for “January 1, 1971”.
 
 Pub. L. 91–525 substituted “January 1, 1971” for “December 1, 1970”.
 
@@ -142,31 +142,31 @@ Pub. L. 91–473 substituted “December 1, 1970” for “November 1, 1970”.
 
 Pub. L. 91–432 substituted “November 1, 1970” for “October 1, 1970”.
 
-1969—Subsec. (k). Pub. L. 91–152 substituted “October 1, 1970” for “January 1, 1970”.
+<b>1969</b>—Subsec. (k). Pub. L. 91–152 substituted “October 1, 1970” for “January 1, 1970”.
 
 Pub. L. 91–78 substituted “January 1, 1970” for “October 1, 1969”.
 
-1968—Subsec. (e). Pub. L. 90–448 substituted “mortgagor approved by the Secretary” for “private corporation, association, cooperative society, or trust” in first sentence, and “mortgagor” for “corporation, association, cooperative society, or trust” in third and fourth sentences.
+<b>1968</b>—Subsec. (e). Pub. L. 90–448 substituted “mortgagor approved by the Secretary” for “private corporation, association, cooperative society, or trust” in first sentence, and “mortgagor” for “corporation, association, cooperative society, or trust” in third and fourth sentences.
 
-1967—Pub. L. 90–19 substituted “Secretary” for “Commissioner” wherever appearing in subsecs. (a), (c) to (f), and (h).
+<b>1967</b>—Pub. L. 90–19 substituted “Secretary” for “Commissioner” wherever appearing in subsecs. (a), (c) to (f), and (h).
 
-1965—Subsec. (e). Pub. L. 89–117, §1108(w)(1), substituted “General Insurance Fund” for “Armed Services Housing Mortgage Insurance Fund”.
+<b>1965</b>—Subsec. (e). Pub. L. 89–117, §1108(w)(1), substituted “General Insurance Fund” for “Armed Services Housing Mortgage Insurance Fund”.
 
 Subsec. (j). Pub. L. 89–117, §1108(w)(2), (3), struck out reference to subsecs. (m) and (p) of section 1713 of this title and, in proviso, substituted “General Insurance Fund” for “Armed Services Housing Mortgage Insurance Fund” and struck out reference to the appearance of “Housing Insurance Fund” in sections 1710 and 1713 of this title and the appearance of “Fund” or “Mutual Mortgage Insurance Fund” in section 1713 of this title.
 
 Subsec. (k). Pub. L. 89–117, §202(c), substituted “October 1, 1969” for “October 1, 1965”.
 
-1964—Subsec. (f). Pub. L. 88–560 changed limits on mortgages for multifamily rental property or project, in cl. (2) of the first sentence from “$2,500 per room (or $9,000 per family unit if the number of rooms in such property or project is less than four per family unit)” to “$9,000 per family unit without a bedroom, $12,500 per family unit with one bedroom, $15,000 per family unit with two bedrooms, and $18,500 per family unit with three or more bedrooms”; and, in the second sentence, inserted “, by regulation,” and substituted provisions authorizing an increase “by not to exceed 45 per centum” of any of such limits because of cost levels for former provision authorizing such an increase “by not to exceed $1,000 per room”, respectively.
+<b>1964</b>—Subsec. (f). Pub. L. 88–560 changed limits on mortgages for multifamily rental property or project, in cl. (2) of the first sentence from “$2,500 per room (or $9,000 per family unit if the number of rooms in such property or project is less than four per family unit)” to “$9,000 per family unit without a bedroom, $12,500 per family unit with one bedroom, $15,000 per family unit with two bedrooms, and $18,500 per family unit with three or more bedrooms”; and, in the second sentence, inserted “, by regulation,” and substituted provisions authorizing an increase “by not to exceed 45 per centum” of any of such limits because of cost levels for former provision authorizing such an increase “by not to exceed $1,000 per room”, respectively.
 
-1963—Subsec. (b)(1). Pub. L. 88–127, §2(1), included essential personnel employed or assigned to duty at or in connection with any research or development installation of the National Aeronautics and Space Administration or of the Atomic Energy Commission.
+<b>1963</b>—Subsec. (b)(1). Pub. L. 88–127, §2(1), included essential personnel employed or assigned to duty at or in connection with any research or development installation of the National Aeronautics and Space Administration or of the Atomic Energy Commission.
 
 Subsec. (d). Pub. L. 88–127, §2(2), included persons described in cl. (1)(B) of subsec. (b) of this section.
 
 Subsec. (k). Pub. L. 88–127, §2(3), substituted “October 1, 1965” for “October 1, 1963”.
 
-1962—Subsec. (k). Pub. L. 87–623 provided that no mortgages shall be insured under this section after October 1, 1963, except pursuant to a commitment before such date, and struck out “and the expiration date of the Commissioner's authority to insure” after “amount of all mortgages insured”.
+<b>1962</b>—Subsec. (k). Pub. L. 87–623 provided that no mortgages shall be insured under this section after October 1, 1963, except pursuant to a commitment before such date, and struck out “and the expiration date of the Commissioner's authority to insure” after “amount of all mortgages insured”.
 
-1961—Subsec. (b). Pub. L. 87–70, §611(a)(1), struck out provisions which required certification by Secretary of Defense or his designee.
+<b>1961</b>—Subsec. (b). Pub. L. 87–70, §611(a)(1), struck out provisions which required certification by Secretary of Defense or his designee.
 
 Subsec. (d). Pub. L. 87–70, §611(a)(2), struck out provisions which related to certification and advice of Secretary of Defense or his designee.
 

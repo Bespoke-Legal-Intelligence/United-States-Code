@@ -18,15 +18,21 @@ The Secretary may provide a firm, on terms and conditions as the Secretary deter
 
 (3) The Secretary may make grants to intermediary organizations in order to defray up to 100 percent of administrative expenses incurred in providing such technical assistance to a firm.
 
-(Pub. L. 93–618, title II, §253, Jan. 3, 1975, 88 Stat. 2031; Pub. L. 97–35, title XXV, §2521, Aug. 13, 1981, 95 Stat. 890; Pub. L. 99–272, title XIII, §13006(a)(3), Apr. 7, 1986, 100 Stat. 304; Pub. L. 111–5, div. B, title I, §1867(b), Feb. 17, 2009, 123 Stat. 400.)
+(Pub. L. 93–618, title II, §253, Jan. 3, 1975, 88 Stat. 2031; Pub. L. 97–35, title XXV, §2521, Aug. 13, 1981, 95 Stat. 890; Pub. L. 99–272, title XIII, §13006(a)(3), Apr. 7, 1986, 100 Stat. 304; Pub. L. 111–5, div. B, title I, §1867(b), Feb. 17, 2009, 123 Stat. 400; Pub. L. 112–40, title II, §201(b), (c), Oct. 21, 2011, 125 Stat. 403.)
 
-#### Amendment of Section
+#### Reversion to Provisions in Effect on February 13, 2011
 
-<i>For termination of amendment by section 1893 of Pub. L. 111–5, see Effective and Termination Dates of 2009 Amendment note below.</i>
+<i>For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to section 233(b) of Pub. L. 112–40, see Codification and Effective and Termination Dates of 2011 Revival notes below.</i>
+
+#### Codification
+
+Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination of amendment by Pub. L. 111–5, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, and the provisions of this section, as amended by Pub. L. 111–5 and as in effect on Feb. 12, 2011, were temporarily revived, effective Oct. 21, 2011, until Jan. 1, 2014, by Pub. L. 112–40, §§201(b), (c), 233. See 2009 and 2011 Amendment notes, Effective and Termination Dates of 2009 Amendment notes, and Effective and Termination Dates of 2011 Revival note below.
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a)(3). Pub. L. 111–5, §§1867(b), 1893, which directed the temporary substitution of “to a certified firm” for “of a certified firm”, could not be executed because “of a certified firm” did not appear. See Effective and Termination Dates of 2009 Amendment note below.
+<b>2011</b>—Pub. L. 112–40, §§201(b), (c), 233, temporarily revived the provisions of this section, as in effect on Feb. 12, 2011. See Codification note above and 2009 Amendment and Effective and Termination Dates of 2011 Revival notes below.
+
+<b>2009</b>—Subsec. (a)(3). Pub. L. 111–5, §§1867(b), 1893, which directed the temporary substitution of “to a certified firm” for “of a certified firm”, could not be executed because “of a certified firm” did not appear. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
 <b>1986</b>—Subsec. (b)(2). Pub. L. 99–272 substituted “such cost for assistance described in paragraph (2) or (3) of subsection (a) of this section” for “such cost”.
 
@@ -36,15 +42,19 @@ Subsec. (b). Pub. L. 97–35 amended subsec. (b) generally, incorporating in par
 
 Subsec. (c). Pub. L. 97–35 struck out subsec. (c) and transferred the provisions to subsec. (b)(1) and (2).
 
+#### Effective and Termination Dates of 2011 Revival
+
+For temporary revival and applicability of provisions as in effect on Feb. 12, 2011, see sections 201(b), (c) and 233 of Pub. L. 112–40, set out as notes preceding section 2271 of this title. For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to section 233(b) of Pub. L. 112–40, see section 233 of Pub. L. 112–40, set out as a note preceding section 2271 of this title.
+
 #### Effective and Termination Dates of 2009 Amendment
 
 Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title.
 
-Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and this section to be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
+Section 1893 of Pub. L. 111–5, which provided that, except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and that this section be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403. See Codification note above.
 
 #### Effective Date of 1981 Amendment
 
-Section 2529 of Pub. L. 97–35 provided that:
+Pub. L. 97–35, title XXV, §2529, Aug. 13, 1981, 95 Stat. 893, provided that:
 
 “(a) Subject to subsection (b), the amendments made by this subtitle \[subtitle B (§§2521–2529) of title XXV of Pub. L. 97–35, enacting section 2355 of this title, amending this section and sections 2344 to 2347 of this title, and repealing section 2353 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 13, 1981\].
 
@@ -52,5 +62,5 @@ Section 2529 of Pub. L. 97–35 provided that:
 
 #### Termination Date
 
-Except as otherwise provided, technical assistance and grants may not be provided under this section after Feb. 12, 2011, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
+Except as otherwise provided, technical assistance and grants may not be provided under this section after Dec. 31, 2013, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 

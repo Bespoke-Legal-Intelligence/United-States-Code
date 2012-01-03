@@ -1,0 +1,64 @@
+### §30102. Working capital fund
+
+(a)
+
+Establishment.—There is hereby established in the United States Treasury an Administration working capital fund.
+
+(b)
+
+Availability of Amounts.—
+
+&emsp;(1)
+
+In general.—Amounts in the fund are available for financing activities, services, equipment, information, and facilities as authorized by law to be provided—
+
+&emsp;&emsp;(A) within the Administration;
+
+&emsp;&emsp;(B) to other agencies or instrumentalities of the United States;
+
+&emsp;&emsp;(C) to any State, territory, or possession or political subdivision thereof;
+
+&emsp;&emsp;(D) to other public or private agencies; or
+
+&emsp;&emsp;(E) to any person, firm, association, corporation, or educational institution on a reimbursable basis.
+
+&emsp;(2)
+
+Capital repairs.—The fund shall also be available for the purpose of funding capital repairs, renovations, rehabilitation, sustainment, demolition, or replacement of Administration real property, on a reimbursable basis within the Administration.
+
+&emsp;(3)
+
+No fiscal year limitation.—Amounts in the fund are available without regard to fiscal year limitation.
+
+(c)
+
+Contents.—The capital of the fund consists of—
+
+&emsp;(1) amounts appropriated to the fund;
+
+&emsp;(2) the reasonable value of stocks of supplies, equipment, and other assets and inventories on order that the Administrator transfers to the fund, less the related liabilities and unpaid obligations; and
+
+&emsp;(3) payments received for loss or damage to property of the fund.
+
+(d)
+
+Reimbursement.—The fund shall be reimbursed, in advance, for supplies and services at rates that will approximate the expenses of operation, such as the accrual of annual leave, depreciation of plant, property, and equipment, and overhead.
+
+(Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3357.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+30102
+
+42 U.S.C. 2459i.
+
+Pub. L. 108–7, div. K, title III, (last par. under heading “Administrative Provisions”, at 117 Stat. 520), Feb. 20, 2003, 117 Stat. 520.
+

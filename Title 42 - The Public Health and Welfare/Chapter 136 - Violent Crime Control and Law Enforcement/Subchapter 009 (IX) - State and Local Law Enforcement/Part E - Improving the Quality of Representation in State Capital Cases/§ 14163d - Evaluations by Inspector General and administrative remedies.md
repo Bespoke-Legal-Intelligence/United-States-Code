@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a report evaluating the compliance by the State with the terms and conditions of the grant; and
 
-&emsp;&emsp;(B) if the Inspector General concludes that the State is not in compliance with the terms and conditions of the grant, specify any deficiencies and make recommendations to the Attorney General for corrective action.
+&emsp;&emsp;(B) if the Inspector General concludes that the State is not in compliance with the terms and conditions of the grant, specify any deficiencies and make recommendationsto the Attorney General for corrective action.
 
 #### (2) Priority
 
@@ -16,7 +16,7 @@
 
 #### (3) Determination for statutory procedure States
 
-&emsp;For each State that employs a statutory procedure described in section 14163(e)(1)(C) of this title, the Inspector General shall submit to the Committee on the Judiciary of theHouse of Representatives and the Committee on the Judiciary of the Senate, not later than the end of the first fiscal year for which such State receives funds, a determination as to whether the State is in substantial compliance with the requirements of the applicable State statute.
+&emsp;For each State that employs a statutory procedure described in section 14163(e)(1)(C) of this title, the Inspector General shall submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate, not later than the end of the first fiscal year for which such State receives funds, a determination as to whether the State is in substantial compliance with the requirements of the applicable State statute.
 
 #### (4) Comments from public
 

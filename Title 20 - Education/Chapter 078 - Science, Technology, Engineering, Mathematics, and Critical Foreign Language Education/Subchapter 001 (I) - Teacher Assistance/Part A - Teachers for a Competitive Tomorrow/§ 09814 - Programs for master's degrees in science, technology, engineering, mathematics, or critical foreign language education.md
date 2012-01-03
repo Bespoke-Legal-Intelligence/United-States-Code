@@ -2,7 +2,7 @@
 
 #### (a) Program authorized
 
-From the amounts made available to carry out this section under section 9816(2) of this title and not reserved under section 9815(d) of this title for a fiscal year, the Secretary is authorized to award grants, on a competitive basis, to eligible recipients to enable the partnerships served by the eligible recipients to develop and implement—
+From the amounts made available to carry out this section under section 9816(2) of this title and not reserved under section 9815(d) of this title for a fiscal year, the Secretary is authorized to award grants, on a competitive basis, toeligible recipients to enable the partnerships served by the eligible recipients to develop and implement—
 
 &emsp;(1) 2- or 3-year part-time master's degree programs in science, technology, engineering, mathematics, or critical foreign language education for teachers in order to enhance the teacher's content knowledge and teaching skills; or
 
@@ -56,7 +56,7 @@ Each eligible recipient receiving a grant under this section shall use the grant
 
 &emsp;(7) encourage the participation of—
 
-&emsp;&emsp;(A) individuals who are members of groups that are underrepresented in the teaching ofscience, technology, engineering, mathematics, or critical foreign languages;
+&emsp;&emsp;(A) individuals who are members of groups that are underrepresented in the teaching of science, technology, engineering, mathematics, or critical foreign languages;
 
 &emsp;&emsp;(B) members of the Armed Forces who are transitioning to civilian life; and
 

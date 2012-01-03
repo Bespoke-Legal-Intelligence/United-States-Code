@@ -38,7 +38,7 @@ There is established the United States Commission on International Religious Fre
 
 #### (1) In general
 
-&emsp;The term of office of each member of the Commission shall be 2 years. The term of each member of the Commission appointed to the first two-year term of the Commission shall be considered to have begun on May 15, 1999, and shall end on May 14, 2001, regardless of thedate of appointment to the Commission. The term of each member of the Commission appointed to the second two-year term of the Commission shall begin on May 15, 2001, and shall end on May 14, 2003, regardless of the date of appointment to the Commission. In the case in which a vacancy in the membership of the Commission is filled during a two-year term of the Commission, such membership on the Commission shall terminate at the end of that two-year term of the Commission. Members of the Commission shall be eligible for reappointment to a second term.
+&emsp;The term of office of each member of the Commission shall be 2 years. An individual, including any member appointed to the Commission prior to December 23, 2011, shall not serve more than 2 terms as a member of the Commission under any circumstance. For any member serving on the Commission on such date who has completed at least 2 full terms on the Commission, such member's term shall expire 90 days after such date. A member of the Commission may not serve after the expiration of that member's term.
 
 #### (2) Establishment of staggered terms
 
@@ -66,9 +66,13 @@ There is established the United States Commission on International Religious Fre
 
 &emsp;&emsp;Each appointment of a member to a two-year term shall identify the member succeeded thereby, and each such term shall end on May 14 of the year that is at least two years after the expiration of the previous term, regardless of the date of the appointment to the Commission.
 
+#### (3) Ineligibility for reappointment
+
+&emsp;If a member of the Commission attends, by being physically present or by conference call, less than 75 percent of the meetings of the Commission during one of that member's terms on the Commission, the member shall not be eligible for reappointment to the Commission.
+
 #### (d) Election of Chair
 
-At the first meeting of the Commission after May 30 of each year, a majority of the members of the Commission present and voting shall elect the Chair of the Commission.
+At the first meeting of the Commission after May 30 of each year, a majority of the members of the Commission present and voting shall elect the Chair of the Commission. No member of the Commission is eligible to be elected as Chair of the Commission for a second, consecutive term.
 
 #### (e) Quorum
 
@@ -88,11 +92,19 @@ The Administrator of General Services shall provide to the Commission on a reimb
 
 #### (i) Funding
 
-Members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5 while away from their homes or regular places of business in the performance of services for the Commission.
+Members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5 while away from their homes or regular places of business in the performance of services for the Commission. Members of the Commission are subject to the requirements set forth in chapters 300 through 304 of title 41, Code of Federal Regulations (commonly known as the “Federal Travel Regulation”) and the Department of State Standardized Regulations governing authorized travel at government expense, including regulations concerning the mode of travel, lodging and per diem expenditures, reimbursement payments, and expense reporting and documentation requirements.
 
-(Pub. L. 105–292, title II, §201, Oct. 27, 1998, 112 Stat. 2797; Pub. L. 106–55, §§1(a), 2(b), Aug. 17, 1999, 113 Stat. 401, 406; Pub. L. 107–228, div. A, title VI, §681(b)–(d), Sept. 30, 2002, 116 Stat. 1408, 1409.)
+(Pub. L. 105–292, title II, §201, Oct. 27, 1998, 112 Stat. 2797; Pub. L. 106–55, §§1(a), 2(b), Aug. 17, 1999, 113 Stat. 401, 406; Pub. L. 107–228, div. A, title VI, §681(b)–(d), Sept. 30, 2002, 116 Stat. 1408, 1409; Pub. L. 112–75, §2, Dec. 23, 2011, 125 Stat. 1272.)
 
 #### Amendments
+
+<b>2011</b>—Subsec. (c)(1). Pub. L. 112–75, §2(a)(1), added par. (1) and struck out former par. (1) which read as follows: “The term of office of each member of the Commission shall be 2 years. The term of each member of the Commission appointed to the first two-year term of the Commission shall be considered to have begun on May 15, 1999, and shall end on May 14, 2001, regardless of the date of appointment to the Commission. The term of each member of the Commission appointed to the second two-year term of the Commission shall begin on May 15, 2001, and shall end on May 14, 2003, regardless of the date of appointment to the Commission. In the case in which a vacancy in the membership of the Commission is filled during a two-year term of the Commission, such membership on the Commission shall terminate at the end of that two-year term of the Commission. Members of the Commission shall be eligible for reappointment to a second term.”
+
+Subsec. (c)(3). Pub. L. 112–75, §2(a)(2), added par. (3).
+
+Subsec. (d). Pub. L. 112–75, §2(b), inserted at end “No member of the Commission is eligible to be elected as Chair of the Commission for a second, consecutive term.”
+
+Subsec. (i). Pub. L. 112–75, §2(c), inserted at end “Members of the Commission are subject to the requirements set forth in chapters 300 through 304 of title 41, Code of Federal Regulations (commonly known as the ‘Federal Travel Regulation’) and the Department of State Standardized Regulations governing authorized travel at government expense, including regulations concerning the mode of travel, lodging and per diem expenditures, reimbursement payments, and expense reporting and documentation requirements.”
 
 <b>2002</b>—Subsec. (c)(2). Pub. L. 107–228, §681(b), added par. (2).
 
@@ -100,7 +112,7 @@ Subsec. (d). Pub. L. 107–228, §681(c), substituted “after May 30 of each”
 
 Subsec. (g). Pub. L. 107–228, §681(d), inserted at end “A member may serve after the expiration of that member's term until a successor has taken office. Any member appointed to fill a vacancy occurring before the expiration of the term for which the member's predecessor was appointed shall be appointed only for the remainder of that term.”
 
-<b>1999</b>—Pub. L. 106–55, §1(a)(2), which directed amendment of section by inserting after first sentence “The term of each member of the Commission appointed to the first two-year term of the Commission shall be considered to have begun on May 15, 1999, and shall end onMay 14, 2001, regardless of the date of appointment to the Commission. The term of each member of the Commission appointed to the second two-year term of the Commission shall begin on May 15, 2001, and shall end on May 14, 2003, regardless of the date of appointment to the Commission. In the case in which a vacancy in the membership of the Commission is filled during a two-year term of the Commission, such membership on the Commission shall terminate at the end of that two-year term of the Commission.”, was executed by making the insertion after the first sentence of subsec. (c)(1) to reflect the probable intent of Congress.
+<b>1999</b>—Pub. L. 106–55, §1(a)(2), which directed amendment of section by inserting after first sentence “The term of each member of the Commission appointed to the first two-year term of the Commission shall be considered to have begun on May 15, 1999, and shall end on May 14, 2001, regardless of the date of appointment to the Commission. The term of each member of the Commission appointed to the second two-year term of the Commission shall begin on May 15, 2001, and shall end on May 14, 2003, regardless of the date of appointment to the Commission. In the case in which a vacancy in the membership of the Commission is filled during a two-year term of the Commission, such membership on the Commission shall terminate at the end of that two-year term of the Commission.”, was executed by making the insertion after the first sentence of subsec. (c)(1) to reflect the probable intent of Congress.
 
 Subsec. (b)(1)(B)(iii). Pub. L. 106–55, §2(b), substituted “Three” for “three”.
 

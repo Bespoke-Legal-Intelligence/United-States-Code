@@ -6,7 +6,7 @@ All tobacco products, processed tobacco, and cigarette papers and tubes shall, b
 
 #### (b) Marks, labels, and notices
 
-Every package of tobacco products, processed tobacco, or cigarette papers or tubes shall, before removal, bear the marks, labels, and notices if any, that the Secretary by regulation prescribes.
+Every package of tobacco products, processed tobacco, or cigarette papers or tubes shall, before removal, bear the marks, labels, and noticesif any, that the Secretary by regulation prescribes.
 
 #### (c) Lottery features
 

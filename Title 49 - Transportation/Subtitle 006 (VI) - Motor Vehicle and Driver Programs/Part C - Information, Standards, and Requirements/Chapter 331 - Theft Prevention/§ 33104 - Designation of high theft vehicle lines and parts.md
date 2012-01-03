@@ -8,7 +8,7 @@ Designation, Nonapplication, Selection, and Procedures.—(1) For purposes of th
 
 &emsp;(B) a passenger motor vehicle line initially introduced into commerce in the United States after December 31, 1989, that is selected under paragraph (3) of this subsection as likely to have a theft rate greater than the median theft rate referred to in clause (A) of this paragraph.
 
-&emsp;(C) subject to paragraph (2) of this subsection, a passenger motor vehicle line having (for existing lines) or likely to have (for new lines) a theft rate below the median theft rate referred to in clause (A) of this paragraph, if the major parts in the vehicles are selected under paragraph (3) of this subsection as interchangeable with the majority of the major parts that are subject to the standard and are contained in the motor vehicles of a line described in clause (A) or (B) of this paragraph.
+&emsp;(C) subject to paragraph (2) of this subsection, a passenger motor vehicle line having\(for existing lines) or likely to have (for new lines) a theft rate below the median theft rate referred to in clause (A) of this paragraph, if the major parts in the vehicles are selected under paragraph (3) of this subsection as interchangeable with the majority of the major parts that are subject to the standard and are contained in the motor vehicles of a line described in clause (A) or (B) of this paragraph.
 
 (2) The standard may not apply to any major part of a line described in paragraph (1)(C) of this subsection if all the passenger motor vehicles of lines that are, or are likely to be, below the median theft rate, and that contain parts interchangeable with the major parts of the line involved, account (for existing lines), or the Secretary of Transportation determines they are likely to account (for new lines), for more than 90 percent of the total annual production of all lines of that manufacturer containing those interchangeable parts.
 
@@ -28,7 +28,7 @@ Determining Theft Rate for Passenger Vehicles.—(1) In this subsection, “new 
 
 &emsp;(A) the numerator of which is the number of new passenger motor vehicle thefts for that line during the 2-year period referred to in subsection (a)(1)(A) of this section; and
 
-&emsp;(B) the denominator of which is the sum of the respective production volumes of all passenger motor vehicles of that line (as reported to the Administrator of the Environmental Protection Agency under chapter 329 of thistitle) that are of model years 1990 and 1991 and are distributed for sale in commerce in the United States.
+&emsp;(B) the denominator of which is the sum of the respective production volumes of all passenger motor vehicles of that line (as reported to the Administrator of the Environmental Protection Agency under chapter 329 of this title) that are of model years 1990 and 1991 and are distributed for sale in commerce in the United States.
 
 (3) Under subsection (a) of this section, the median theft rate for all new passenger motor vehicle thefts during that 2-year period is the theft rate midway between the highest and the lowest theft rates determined under paragraph (2) of this subsection. If there is an even number of theft rates determined under paragraph (2), the median theft rate is the arithmetic average of the 2 adjoining theft rates midway between the highest and the lowest of those theft rates.
 

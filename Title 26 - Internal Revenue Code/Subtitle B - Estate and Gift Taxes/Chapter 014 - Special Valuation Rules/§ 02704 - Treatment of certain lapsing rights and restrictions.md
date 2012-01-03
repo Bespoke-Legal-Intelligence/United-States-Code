@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) there is a lapse of any voting or liquidation right in a corporation or partnership, and
 
-&emsp;&emsp;(B) the individual holding such right immediately before the lapse and members of such individual's family hold, both before and after the lapse, control of the entity,
+&emsp;&emsp;(B) the individual holding such right immediately before the lapse and members ofsuch individual's family hold, both before and after the lapse, control of the entity,
 
 > &emsp;such lapse shall be treated as a transfer by such individual by gift, or a transfer which is includible in the gross estate of the decedent, whichever is applicable, in the amount determined under paragraph (2).
 
@@ -58,7 +58,7 @@
 
 #### (4) Other restrictions
 
-&emsp;The Secretary may by regulations provide that other restrictions shall be disregarded indetermining the value of the transfer of any interest in a corporation or partnership to a member of the transferor's family if such restriction has the effect of reducing the value of the transferred interest for purposes of this subtitle but does not ultimately reduce the value of such interest to the transferee.
+&emsp;The Secretary may by regulations provide that other restrictions shall be disregarded in determining the value of the transfer of any interest in a corporation or partnership to a member of the transferor's family if such restriction has the effect of reducing the value of the transferred interest for purposes of this subtitle but does not ultimately reduce the value of such interest to the transferee.
 
 #### (c) Definitions and special rules
 

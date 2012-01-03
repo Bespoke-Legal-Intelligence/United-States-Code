@@ -24,7 +24,7 @@ General repealer of provisions inconsistent with Pub. L. 92–392 as not repeali
 
 #### Voluntary Separation Incentives
 
-Pub. L. 105–275, title III, §309, Oct. 21, 1998, 112 Stat. 2454, as amended by Pub. L. 107–68, title II, §210(a), Nov. 12, 2001, 115 Stat. 590, provided that:
+Pub. L. 105–275, title III, §309, Oct. 21, 1998, 112 Stat. 2454, as amended by Pub. L. 107–68, title II, §210(a), Nov. 12, 2001, 115 Stat. 590; Pub. L. 112–10, div. B, title IX, §1926(a), Apr. 15, 2011, 125 Stat. 172, provided that:
 
 “(a)
 
@@ -70,13 +70,7 @@ Voluntary Separation Incentive Payments.—(1) In this subsection, the term ‘e
 
 &emsp;“(iii) a description of how the Government Printing Office will operate without the eliminated positions and functions.
 
-“(5)(A) In addition to any other payments which the Public Printer is required to make under subchapter III of chapter 83 of title 5, United States Code, the Public Printer shall remit to the Office of Personnel Management for deposit in the Treasury of the United States to the credit of the Civil Service Retirement and Disability Fund an amount equal to 15 percent of the final basic pay of each employee who is covered under subchapter III of chapter 83 or chapter 84 of title 5, United States Code, to whom a voluntary separation incentive has been paid under this section.
-
-“(B) For the purpose of this paragraph, the term ‘final basic pay’, with respect to an employee—
-
-&emsp;“(i) means the total amount of basic pay which would be payable for a year of service by such employee, computed using the employee's final rate of basic pay; and
-
-&emsp;“(ii) includes an appropriate adjustment to the amount computed under clause (i) if the employee is last serving on other than a full-time basis.
+“\[(5) Repealed. Pub. L. 112–10, div. B, title IX, §1926(a), Apr. 15, 2011, 125 Stat. 172.\]
 
 “(6)(A) Subject to subparagraph (B), an employee who has received a voluntary separation incentive payment under this section and accepts employment with the Government of the United States within 5 years after the date of the separation on which the payment is based shall be required to repay the entire amount of the incentive payment to the agency that paid the incentive payment.
 
@@ -127,6 +121,8 @@ Administrative Provisions.—(1) The Public Printer—
 “(2) Funds to carry out subsections (a) and (c) may be expended only from funds available for the basic pay of the employee who is receiving the applicable payment.
 
 “(3) Funds to carry out subsection (d) may be expended from any funds made available to the Public Printer.”
+
+\[Pub. L. 112–10, div. B, title IX, §1926(b), Apr. 15, 2011, 125 Stat. 172, provided that: “The amendment made by subsection (a) \[amending section 309 of Pub. L. 105–275, set out above\] shall take effect as if included in the enactment of the Legislative Branch Appropriations Act, 1999 \[Pub. L. 105–275\].”\]
 
 \[Pub. L. 107–68, title II, §210(b), Nov. 12, 2001, 115 Stat. 590, provided that: “The amendments made by this section \[amending section 309 of Pub. L. 105–275, set out above\] shall take effect as if included in the enactment of the Legislative Branch Appropriations Act, 1999 \[Pub. L. 105–275\].”\]
 

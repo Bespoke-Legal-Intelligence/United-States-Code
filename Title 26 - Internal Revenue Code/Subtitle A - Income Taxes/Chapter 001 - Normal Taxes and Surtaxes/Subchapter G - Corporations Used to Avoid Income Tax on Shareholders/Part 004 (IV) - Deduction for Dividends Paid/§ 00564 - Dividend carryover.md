@@ -8,7 +8,7 @@ For purposes of computing the dividends paid deduction under section 561, in the
 
 The dividend carryover to the taxable year shall be determined as follows:
 
-&emsp;(1) For each of the 2 preceding taxable years there shall be determined the taxable income computed with the adjustments provided in section 545 (whether or not the taxpayer was a personal holding company for either of such preceding taxable years), and there shall also be determined for each such year the deduction for dividends paid during such year as provided in section 561 (but determined without regard to the dividend carryover to such year).
+&emsp;(1) For each of the 2 preceding taxable years there shall be determined the taxable incomecomputed with the adjustments provided in section 545 (whether or not the taxpayer was a personal holding company for either of such preceding taxable years), and there shall also be determined for each such year the deduction for dividends paid during such year as provided in section 561 (but determined without regard to the dividend carryover to such year).
 
 &emsp;(2) There shall be determined for each such taxable year whether there is an excess of such taxable income over such deduction for dividends paid or an excess of such deduction for dividends paid over such taxable income, and the amount of each such excess.
 

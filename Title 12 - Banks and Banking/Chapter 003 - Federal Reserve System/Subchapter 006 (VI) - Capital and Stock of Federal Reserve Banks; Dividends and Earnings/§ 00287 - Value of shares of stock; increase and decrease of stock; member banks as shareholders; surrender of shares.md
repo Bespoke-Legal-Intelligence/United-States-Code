@@ -6,7 +6,7 @@ The capital stock of each Federal reserve bank shall be divided into shares of $
 
 #### Amendments
 
-1935—Act Aug. 23, 1935, §319(a), amended last four sentences.
+<b>1935</b>—Act Aug. 23, 1935, §319(a), amended last four sentences.
 
 #### Change of Name
 

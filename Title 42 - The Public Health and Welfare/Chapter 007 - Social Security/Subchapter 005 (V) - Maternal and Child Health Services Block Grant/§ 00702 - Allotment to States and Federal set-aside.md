@@ -2,7 +2,7 @@
 
 #### (a) Special projects
 
-(1) Of the amounts appropriated under section 701(a) of this title for a fiscal year that are not in excess of $600,000,000, the Secretary shall retain an amount equal to 15 percent for the purpose of carrying out activities described in section 701(a)(2) of this title. The authority of theSecretary to enter into any contracts under this subchapter is effective for any fiscal year only to such extent or in such amounts as are provided in appropriations Acts.
+(1) Of the amounts appropriated under section 701(a) of this title for a fiscal year that are not in excess of $600,000,000, the Secretary shall retain an amount equal to 15 percent for the purpose of carrying out activities described in section 701(a)(2) of this title. The authority of the Secretary to enter into any contracts under this subchapter is effective for any fiscal year only to such extent or in such amounts as are provided in appropriations Acts.
 
 (2) For purposes of paragraph (1)—
 
@@ -16,7 +16,7 @@
 
 (1)(A) Of the amounts appropriated under section 701(a) of this title for a fiscal year in excess of $600,000,000 the Secretary shall retain an amount equal to 12¾ percent thereof for the projects described in subparagraphs (A) through (F) of section 701(a)(3) of this title.
 
-(B) Any amount appropriated under section 701(a) of this title for a fiscal year in excess of $600,000,000 that remains after the Secretary has retained the applicable amount (if any) under subparagraph (A) shall be retained by the Secretary in accordance with subsection (a) of this section and allocated to the States in accordance with subsection (c) of this section.
+(B) Any amount appropriated under section 701(a) of this title for a fiscal year in excess of $600,000,000 that remains after the Secretary hasretained the applicable amount (if any) under subparagraph (A) shall be retained by the Secretary in accordance with subsection (a) of this section and allocated to the States in accordance with subsection (c) of this section.
 
 (2)(A) Of the amounts retained for the purpose of carrying out activities described in section 701(a)(3)(A), (B), (C), (D) and (E) of this title, the Secretary shall provide preference to qualified applicants which demonstrate that the activities to be carried out with such amounts shall be in areas with a high infant mortality rate (relative to the average infant mortality rate in the United States or in the State in which the area is located).
 
@@ -48,7 +48,7 @@ From the remaining amounts appropriated under section 701(a) of this title for a
 
 (2) To the extent that all the funds appropriated under this subchapter for a fiscal year are not otherwise allotted to States because some State allotments are offset under section 706(b)(2) of this title, such excess shall be allotted among the remaining States in proportion to the amount otherwise allotted to such States for the fiscal year without regard to this paragraph.
 
-(Aug. 14, 1935, ch. 531, title V, §502, as added Pub. L. 97–35, title XXI, §2192(a), Aug. 13, 1981, 95 Stat. 819; amended Pub. L. 99–272, title IX, §9527(d),Apr. 7, 1986, 100 Stat. 219; Pub. L. 99–509, title IX, §9441(b), Oct. 21, 1986, 100 Stat. 2071; Pub. L. 101–239, title VI, §§6502(a), 6503(c)(1), (4), Dec. 19, 1989, 103 Stat. 2275, 2278.)
+(Aug. 14, 1935, ch. 531, title V, §502, as added Pub. L. 97–35, title XXI, §2192(a), Aug. 13, 1981, 95 Stat. 819; amended Pub. L. 99–272, title IX, §9527(d), Apr. 7, 1986, 100 Stat. 219; Pub. L. 99–509, title IX, §9441(b), Oct. 21, 1986, 100 Stat. 2071; Pub. L. 101–239, title VI, §§6502(a), 6503(c)(1), (4), Dec. 19, 1989, 103 Stat. 2275, 2278.)
 
 #### Prior Provisions
 

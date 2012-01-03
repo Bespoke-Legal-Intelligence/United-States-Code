@@ -6,7 +6,7 @@ It may be a defense to a charge of discrimination under this chapter that an all
 
 #### (b) Qualification standards
 
-The term “qualification standards” may include a requirement that an individual shall notpose a direct threat to the health or safety of other individuals in the workplace.
+The term “qualification standards” may include a requirement that an individual shall not pose a direct threat to the health or safety of other individuals in the workplace.
 
 #### (c) Qualification standards and tests related to uncorrected vision
 

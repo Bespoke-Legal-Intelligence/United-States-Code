@@ -116,7 +116,7 @@ Section 1034 of Pub. L. 93–406, as amended by Pub. L. 99–514, §2, Oct. 22, 
 
 &emsp;“(2) the requirements of section 6057 of such Code shall apply only with respect to plan years beginning after December 31, 1975,
 
-&emsp;“(3) the requirements of section 6058(a) of such Code shall apply only with respect to plan years beginning after the date of the enactment of this Act \[Sept. 2, 1974\], and
+&emsp;“(3) the requirements of section 6058(a) of such Code shall apply only with respect to plan years beginningafter the date of the enactment of this Act \[Sept. 2, 1974\], and
 
 &emsp;“(4) the amendments made by section 1032 \[enacting section 1320b–1 of Title 42\] shall take effect on January 1, 1978.”
 

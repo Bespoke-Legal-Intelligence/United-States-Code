@@ -44,7 +44,7 @@ Jurisdiction is vested in the Federal district courts of the United States over 
 
 <b>1998</b>—Subsec. (c)(2). Pub. L. 105–388 substituted “section 6295(n)” for “section 6295(k)”.
 
-<b>1987</b>—Subsec. (a). Pub. L. 100–12 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Rules under sections 6293, 6294, 6295(a), 6297(b), or 6298 of this title shall be prescribed in accordance with section 553 of title 5, except that—
+<b>1987</b>—Subsec. (a). Pub. L. 100–12 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Rules under sections 6293, 6294, 6295(a), 6297(b), or6298 of this title shall be prescribed in accordance with section 553 of title 5, except that—
 
 &emsp;“(1) interested persons shall be afforded an opportunity to present written and oral data, views, and arguments with respect to any proposed rule, and
 

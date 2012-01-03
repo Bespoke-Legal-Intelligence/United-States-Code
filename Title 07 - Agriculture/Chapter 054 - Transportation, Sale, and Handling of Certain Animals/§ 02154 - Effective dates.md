@@ -12,5 +12,5 @@ Subsections (b), (c), and (d) of section 2143 of this title, referred to in text
 
 #### Amendments
 
-1976—Pub. L. 94–279 inserted provisions setting particular effective dates of compliance for intermediate handlers and carriers and for dealers, exhibitors, operators of auction sales, and research facilities with respect to the amendments made by the Animal Welfare Act Amendments of 1976.
+<b>1976</b>—Pub. L. 94–279 inserted provisions setting particular effective dates of compliance for intermediate handlers and carriers and for dealers, exhibitors, operators of auction sales, and research facilities with respect to the amendments made by the Animal Welfare Act Amendments of 1976.
 

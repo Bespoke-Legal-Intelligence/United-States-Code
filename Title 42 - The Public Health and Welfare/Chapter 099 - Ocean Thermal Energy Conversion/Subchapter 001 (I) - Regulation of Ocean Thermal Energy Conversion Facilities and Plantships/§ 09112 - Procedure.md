@@ -22,7 +22,7 @@ Not later than 60 days after August 3, 1980, the Secretary of Energy, the Admini
 
 (1) At the time notice of an application for an ocean thermal energy conversion facility is published pursuant to subsection (d) of this section, the Administrator shall publish a description in the Federal Register of an application area encompassing the site proposed in the application for such facility and within which the thermal plume of one ocean thermal energy conversion facility might be expected to impinge on so as to degrade the thermal gradient used by another ocean thermal energy conversion facility, unless the application is for a license for an ocean thermal energy conversion facility to be located within an application area which has already been designated.
 
-(2) The Administrator shall accompany such publication with a call for submission of any other applications for licenses for the ownership, construction, and operation of an ocean thermal energy conversion facility within the designated application area. Any person intending to file such an application shall submit a notice of intent to file an application to the Administrator not later than 60 days after the publication of notice pursuant to subsection (d) of this section, and shall submit the completed application no later than 90 days after publication of such notice. The Administrator shall publishnotice of any such application received in accordance with subsection (d) of this section. No application for a license for the ownership, construction, and operation of an ocean thermal energy conversion facility within the designated application area for which a notice of intent to file was received after such 60-day period, or which is received after such 90-day period has elapsed, shall be considered until action has been completed on all timely filed applications pending with respect to such application area.
+(2) The Administrator shall accompany such publication with a call for submission of any other applications for licenses for the ownership, construction, and operation of an ocean thermal energy conversion facility within the designated application area. Any person intending to file such an application shall submit a notice of intent to file an application to the Administrator not later than 60 days after the publication of notice pursuant to subsection (d) of this section, and shall submit the completed application no later than 90 days after publication of such notice. The Administrator shall publish notice of any such application received in accordance with subsection (d) of this section. No application for a license for the ownership, construction, and operation of an ocean thermal energy conversion facility within the designated application area for which a notice of intent to file was received after such 60-day period, or which is received after such 90-day period haselapsed, shall be considered until action has been completed on all timely filed applications pending with respect to such application area.
 
 #### (f) Copies of application to other agencies
 
@@ -52,13 +52,13 @@ The Administrator shall not take final action on any application unless the appl
 
 &emsp;(D) any significant differences between anticipated dates and commencement of operation of the proposed ocean thermal energy conversion facilities; and
 
-&emsp;(E) any differences in costs of construction and operation of the proposed ocean thermal energy conversion facilities, to the extent thatsuch differentials may significantly affect the ultimate cost of energy or products to the consumer.
+&emsp;(E) any differences in costs of construction and operation of the proposed ocean thermal energy conversion facilities, to the extent that such differentials may significantly affect the ultimate cost of energy or products to the consumer.
 
 (Pub. L. 96–320, title I, §102, Aug. 3, 1980, 94 Stat. 979; Pub. L. 98–623, title VI, §602(f), Nov. 8, 1984, 98 Stat. 3412.)
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) to (c) and (i)(1), (2), was in the original “this Act”, meaning Pub. L. 96–320, Aug. 3, 1980, 94 Stat. 974, known as the Ocean Thermal Energy Conversion Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9101 of this title and Tables.
+This chapter, referred to in subsecs. (a) to (c) and (i)(1), (2), was in the original “this Act”, meaning Pub.L. 96–320, Aug. 3, 1980, 94 Stat. 974, known as the Ocean Thermal Energy Conversion Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9101 of this title and Tables.
 
 #### Amendments
 

@@ -1,6 +1,6 @@
 ### §182. Cadets; number, appointment, obligation to serve
 
-(a) The number of cadets appointed annually to the Academy shall be as determined by the Secretary but the number appointed in any one year shall not exceed six hundred. Appointments to cadetships shall be made under regulations prescribed by the Secretary, who shall determine age limits, methods of selection of applicants, term of service as a cadet before graduation, and all other matters affecting such appointments. All such appointments shall be made without regard to the sex, race, color, or religious beliefs of an applicant. In the administration of this chapter, the Secretary shall takesuch action as may be necessary and appropriate to insure that female individuals shall be eligible for appointment and admission to the Coast Guard Academy, and that the relevant standards required for appointment, admission, training, graduation, and commissioning of female individuals shall be the same as those required for male individuals, except for those minimum essential adjustments in such standards required because of physiological differences between male and female individuals. The Secretary may summarily dismiss from the Coast Guard any cadet who, during his cadetship, is found unsatisfactory in either studies or conduct, or may be deemed not adapted for a career in the Coast Guard. Cadets shall be subject to rules governing discipline prescribed by the Commandant.
+(a) The number of cadets appointed annually to the Academy shall be as determined by the Secretary but the number appointed in any one year shall not exceed six hundred. Appointments to cadetships shall be made under regulations prescribed by the Secretary, who shall determine age limits, methods of selection of applicants, term of service as a cadet before graduation, and all other matters affecting such appointments. In the administration of this chapter, the Secretary shall take such action as may be necessary and appropriate to insure that female individuals shall be eligible for appointment and admission to the Coast Guard Academy, and that the relevant standards required for appointment, admission, training, graduation, and commissioning of female individuals shall be the same as those required for male individuals, except for those minimum essential adjustments in such standards required because of physiological differences between male and female individuals. The Secretary may summarily dismiss from the Coast Guard any cadet who, during his cadetship, is found unsatisfactory in either studies or conduct, or may be deemed not adapted for a career in the Coast Guard. Cadets shall be subject to rules governing discipline prescribed by the Commandant.
 
 (b) Each cadet shall sign an agreement with respect to the cadet's length of service in the Coast Guard. The agreement shall provide that the cadet agrees to the following:
 
@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(B) will serve on active duty for at least five years immediately after such appointment.
 
-&emsp;(3) That if an appointment described in paragraph (2) is not tendered or if the cadet is permitted to resign as a regular officer before the completion of the commissioned service obligation of the cadet, the cadet—
+&emsp;(3) That if an appointment described in paragraph (2) is not tendered or if the cadet is permitted to resign as a regular officer before thecompletion of the commissioned service obligation of the cadet, the cadet—
 
 &emsp;&emsp;(A) will accept an appointment as a commissioned officer in the Coast Guard Reserve; and
 
@@ -40,7 +40,7 @@
 
 (g) A cadet or former cadet who does not fulfill the terms of the obligation to serve as specified under section (b), or the alternative obligation imposed under subsection (c), shall be subject to the repayment provisions of section 303a(e) of title 37.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 508; Pub. L. 88–276, §5(b), Mar. 3, 1964, 78 Stat. 153; Pub. L. 89–444, §1(8), June 9, 1966, 80 Stat. 195; Pub. L. 91–278, §1(4), June 12, 1970, 84 Stat. 304; Pub. L. 94–572, §1, Oct. 21, 1976, 90 Stat. 2708; Pub. L. 97–295, §2(8), Oct. 12, 1982, 96 Stat. 1302; Pub. L. 100–448, §12, Sept. 28, 1988, 102 Stat. 1843; Pub. L. 109–163, div. A, title VI, §687(d), Jan. 6, 2006, 119 Stat. 3336.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 508; Pub. L. 88–276, §5(b), Mar. 3, 1964, 78 Stat. 153; Pub. L. 89–444, §1(8), June 9, 1966, 80 Stat. 195; Pub. L. 91–278, §1(4), June 12, 1970, 84 Stat. 304; Pub. L. 94–572, §1, Oct. 21, 1976, 90 Stat. 2708; Pub. L. 97–295, §2(8), Oct. 12, 1982, 96 Stat. 1302; Pub. L. 100–448, §12, Sept. 28, 1988, 102 Stat. 1843; Pub. L. 109–163, div. A, title VI, §687(d), Jan. 6, 2006, 119 Stat. 3336; Pub. L. 111–281, title IX, §903(b)(4), Oct. 15, 2010, 124 Stat. 3011.)
 
 #### Historical and Revision Notes
 
@@ -56,21 +56,23 @@ The period of required service after graduation is increased from 3 to 4 years, 
 
 #### Amendments
 
-2006—Subsec. (g). Pub. L. 109–163 added subsec. (g).
+<b>2010</b>—Subsec. (a). Pub. L. 111–281 struck out “All such appointments shall be made without regard to the sex, race, color, or religious beliefs of an applicant.” before “In the administration”.
 
-1988—Subsec. (a). Pub. L. 100–448, §12(1), struck out before last sentence “Previous to his admission each cadet shall obligate himself, in such manner as the Secretary shall prescribe, to complete the course of instruction at the Coast Guard Academy and to serve at least five years as an officer in the Coast Guard after graduation, if his service be so long required.”
+<b>2006</b>—Subsec. (g). Pub. L. 109–163 added subsec. (g).
 
-Subsecs. (b) to (f). Pub. L. 100–448, §12(2), added subsecs. (b) to (f) and struck out former subsec. (b) which read as follows: “A cadet who does not fulfill his obligation to complete the course of instruction or refuses toaccept an appointment as an officer in the Coast Guard may be transferred by the Secretary to the Coast Guard Reserve in an appropriate enlisted grade or rating, and, notwithstanding section 651 of title 10, may be ordered to active duty to serve in that grade or rating for such period of time as the Secretary prescribes, but not for more than four years.”
+<b>1988</b>—Subsec. (a). Pub. L. 100–448, §12(1), struck out before last sentence “Previous to his admission each cadet shall obligate himself, in such manner as the Secretary shall prescribe, to complete the course of instruction at the Coast Guard Academy and to serve at least five years as an officer in the Coast Guard after graduation, if his service be so long required.”
 
-1982—Subsec. (b). Pub. L. 97–295 struck out “United States Code,” after “title 10,”.
+Subsecs. (b) to (f). Pub. L. 100–448, §12(2), added subsecs. (b) to (f) and struck out former subsec. (b) which read as follows: “A cadet who does not fulfill his obligation to complete the course of instruction or refuses to accept an appointment as an officer in the Coast Guard may be transferred by the Secretary to the Coast Guard Reserve in an appropriate enlisted grade or rating, and, notwithstanding section 651 of title 10, may be ordered to active duty to serve in that grade or rating for such period of time as the Secretary prescribes, but not for more than four years.”
 
-1976—Subsec. (a). Pub. L. 94–572 inserted provisions for nondiscriminatory appointment of cadets to the Coast Guard Academy.
+<b>1982</b>—Subsec. (b). Pub. L. 97–295 struck out “United States Code,” after “title 10,”.
 
-1970—Pub. L. 91–278 substituted “six hundred” for “four hundred” in first sentence, required each cadet to obligate himself to complete the course of instruction at the Academy, designated existing provisions as subsec. (a), and added subsec. (b).
+<b>1976</b>—Subsec. (a). Pub. L. 94–572 inserted provisions for nondiscriminatory appointment of cadets to the Coast Guard Academy.
 
-1966—Pub. L. 89–444 substituted “four hundred” for “three hundred” in first sentence.
+<b>1970</b>—Pub. L. 91–278 substituted “six hundred” for “four hundred” in first sentence, required each cadet to obligate himself to complete the course of instruction at the Academy, designated existing provisions as subsec. (a), and added subsec. (b).
 
-1964—Pub. L. 88–276 substituted “five” for “four” in fourth sentence.
+<b>1966</b>—Pub. L. 89–444 substituted “four hundred” for “three hundred” in first sentence.
+
+<b>1964</b>—Pub. L. 88–276 substituted “five” for “four” in fourth sentence.
 
 #### Effective Date of 1964 Amendment; Obligated Period of Service
 

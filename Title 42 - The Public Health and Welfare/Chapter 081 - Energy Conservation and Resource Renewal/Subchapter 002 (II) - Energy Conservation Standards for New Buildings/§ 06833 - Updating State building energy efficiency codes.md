@@ -2,7 +2,7 @@
 
 #### (a) Consideration and determination respecting residential building energy codes
 
-(1) Not later than 2 years after October 24, 1992, each State shall certify to the Secretarythat it has reviewed the provisions of its residential building code regarding energy efficiency and made a determination as to whether it is appropriate for such State to revise such residential building code provisions to meet or exceed CABO Model Energy Code, 1992.
+(1) Not later than 2 years after October 24, 1992, each State shall certify to the Secretary that it has reviewed the provisions of its residential building code regarding energy efficiency and made a determination as to whether it is appropriate for such State to revise such residential building code provisions to meet or exceed CABO Model Energy Code, 1992.
 
 (2) The determination referred to in paragraph (1) shall be—
 
@@ -52,7 +52,7 @@ The Secretary shall provide technical assistance to States to implement the requ
 
 &emsp;&emsp;(i) a residential building energy efficiency code that meets or exceeds the requirements of the 2004 International Energy Conservation Code, or any succeeding version of that code that has received an affirmative determination from the Secretary under subsection (a)(5)(A) of this section; and
 
-&emsp;&emsp;(ii) a commercial building energy efficiency code that meets or exceeds the requirements of the ASHRAE Standard90.1–2004, or any succeeding version of that standard that has received an affirmative determination from the Secretary under subsection (b)(2)(A) of this section; or
+&emsp;&emsp;(ii) a commercial building energy efficiency code that meets or exceeds the requirements of the ASHRAE Standard 90.1–2004, or any succeeding version of that standard that has received an affirmative determination from the Secretary under subsection (b)(2)(A) of this section; or
 
 &emsp;(B) in a State in which there is no statewide energy code either for residential buildings or for commercial buildings, to a local government that has adopted and is implementing residential and commercial building energy efficiency codes, as described in subparagraph (A).
 

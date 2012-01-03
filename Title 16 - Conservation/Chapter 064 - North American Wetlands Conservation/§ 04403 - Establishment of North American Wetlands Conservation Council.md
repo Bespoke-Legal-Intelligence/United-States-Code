@@ -28,7 +28,7 @@
 
 (3) Of the Council members first appointed under subsection (a)(1)(D) of this section after December 13, 1989, one shall be appointed for a term of one year, one shall be appointed for a term of two years, and one shall be appointed for a term of three years.
 
-(4) Whenever a vacancy occurs among members of the Council appointed under subsection\(a)(1)(C) or subsection (a)(1)(D) of this section, the Secretary shall appoint an individual in accordance with either such subsection to fill that vacancy for the remainder of the applicable term.
+(4) Whenever a vacancy occurs among members of the Council appointed under subsection (a)(1)(C) or subsection (a)(1)(D) of this section, the Secretary shall appoint an individual in accordance with either such subsection to fill that vacancy for the remainder of the applicable term.
 
 #### (c) Ex officio Council members
 
@@ -62,7 +62,7 @@ The Director of the United States Fish and Wildlife Service shall appoint an ind
 
 &emsp;(3) who shall be compensated with the funds available under section 4407(a)(1) of this title for administering this chapter.
 
-(Pub. L. 101–233, §4, Dec. 13, 1989, 103 Stat. 1970; Pub. L. 101–593, title I, §112(1)–(3), Nov. 16, 1990, 104 Stat. 2962; Pub. L. 107–308, §8(a)(6), (7), (b)(1), Dec. 2, 2002, 116 Stat. 2447, 2448.)
+(Pub. L. 101–233, §4, Dec. 13, 1989, 103 Stat. 1970; Pub. L. 101–593, title I, §112(1)–(3), Nov. 16, 1990,104 Stat. 2962; Pub. L. 107–308, §8(a)(6), (7), (b)(1), Dec. 2, 2002, 116 Stat. 2447, 2448.)
 
 #### References in Text
 

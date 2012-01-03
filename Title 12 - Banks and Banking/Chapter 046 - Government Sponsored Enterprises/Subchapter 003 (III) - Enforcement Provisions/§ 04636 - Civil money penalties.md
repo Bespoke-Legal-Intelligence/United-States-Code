@@ -82,7 +82,7 @@ The Director may impose a civil money penalty in accordance with this section on
 
 #### (d) Action to collect penalty
 
-If a regulated entity, executive officer, director, or entity-affiliated party fails to comply with an order of the Director imposing a civil money penalty under this section, after the order is no longer subject to review as provided under subsection (c)(1), the Director may bring an action in the United States District Court for the District of Columbia, or the United States district court within the jurisdiction of which the headquarters of the regulated entity is located, to obtain a monetary judgment against the regulated entity, executive officer, director, or entity-affiliated party and such other relief as may be available. The monetary judgment may, in the discretion of the court, include any attorneys fees and other expenses incurred by the United States in connection with the action. In an action under this subsection, the validity and appropriateness of the order of the Director imposing the penalty shall not be subject to review.
+If a regulated entity, executive officer, director, or entity-affiliated party fails to comply with an order of the Director imposing a civil money penalty under this section, after the order is no longer subject to review as provided under subsection (c)(1), the Director may bring an action in the United States District Court for the District of Columbia, or the United States district court within the jurisdiction of whichthe headquarters of the regulated entity is located, to obtain a monetary judgment against the regulated entity, executive officer, director, or entity-affiliated party and such other relief as may be available. The monetary judgment may, in the discretion of the court, include any attorneys fees and other expenses incurred by the United States in connection with the action. In an action under this subsection, the validity and appropriateness of the order of the Director imposing the penalty shall not be subject to review.
 
 #### (e) Settlement by Director
 
@@ -112,7 +112,7 @@ This chapter, referred to in subsec. (b)(1)(A), (B), was in the original “this
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–289, §1155(1), added subsec. (a) and struck out former subsec. (a) which related to violations or conduct for which the Director could impose a civil money penalty in accordance with this section.
+<b>2008</b>—Subsec. (a). Pub. L. 110–289, §1155(1), added subsec. (a) and struck out former subsec. (a) which related to violations or conduct for which the Director could impose a civil money penalty in accordance with this section.
 
 Subsec. (b). Pub. L. 110–289, §1155(2), added subsec. (b) and struck out former subsec. (b) which related to the amount of penalty the Director could impose for violations or conduct described in former subsection (a).
 

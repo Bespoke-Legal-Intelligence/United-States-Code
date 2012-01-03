@@ -154,7 +154,7 @@ Transit enhancement.—The term “transit enhancement” means, with respect to
 
 &emsp;(16)
 
-Urban area.—The term “urban area” means an area that includes a municipality or other built-up place that the Secretary, after considering local patterns and trends of urban growth, decides is appropriate for a local public transportation system to serve individuals in the locality.
+Urban area.—The term “urban area” means an area that includes a municipality orother built-up place that the Secretary, after considering local patterns and trends of urban growth, decides is appropriate for a local public transportation system to serve individuals in the locality.
 
 &emsp;(17)
 
@@ -262,7 +262,7 @@ Subsection (b) applies to section 5307(d)(1)(D) of the revised title because of 
 
 #### References in Text
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (a)(1)(I), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (a)(1)(I), is Pub. L. 101–336, July 26, 1990,104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 Subsec. (b) of section 5334, referred to in subsec. (a)(3)(A), was redesignated subsec. (c) by Pub. L. 109–59, title III, §3023(3), Aug. 10, 2005, 119 Stat. 1626.
 

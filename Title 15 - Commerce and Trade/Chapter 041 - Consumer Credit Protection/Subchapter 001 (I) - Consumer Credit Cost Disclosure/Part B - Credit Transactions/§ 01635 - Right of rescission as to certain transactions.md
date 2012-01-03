@@ -2,7 +2,7 @@
 
 #### (a) Disclosure of obligor's right to rescind
 
-Except as otherwise provided in this section, in the case of any consumer credit transaction (including opening or increasing the credit limit for an open end credit plan) in which a security interest, including any such interest arising by operation of law, is or will be retained or acquired in any property which is used as the principal dwelling of the person to whom credit is extended, the obligor shall have the right to rescind the transaction until midnight of the third business day following the consummation of the transaction or the delivery of the information and rescission forms required under this section together with a statement containing the material disclosures required under this subchapter, whichever is later, by notifying the creditor, in accordance with regulations of the Board, of his intention to do so. The creditor shall clearly and conspicuously disclose, in accordance with regulations of the Board, to any obligor in a transaction subject to this section the rights of the obligor under this section. The creditor shall also provide, in accordance with regulations of the Board, appropriate forms for the obligor to exercise his right to rescind any transaction subject to this section.
+Except as otherwise provided in this section, in the case of any consumer credit transaction (including opening or increasing the credit limit for an open end credit plan) in which a security interest, including any such interest arising by operation of law, is or will be retained or acquired in any property which is used as the principal dwelling of the person to whom credit is extended, the obligor shall have the right to rescind the transaction until midnight of the third business day following the consummation of the transaction or the delivery of the information and rescission forms required under this section together with a statement containing the material disclosures required under this subchapter, whichever is later, by notifying the creditor, in accordance with regulations of the Bureau, of his intention to do so. The creditor shall clearly and conspicuously disclose, in accordance with regulations of the Bureau, to any obligor in a transaction subject to this section the rights of the obligor under this section. The creditor shall also provide, in accordance with regulations of the Bureau, appropriate forms for the obligor to exercise his right to rescind any transaction subject to this section.
 
 #### (b) Return of money or property following rescission
 
@@ -14,13 +14,13 @@ Notwithstanding any rule of evidence, written acknowledgment of receipt of any d
 
 #### (d) Modification and waiver of rights
 
-The Board may, if it finds that such action is necessary in order to permit homeowners to meet bona fide personal financial emergencies, prescribe regulations authorizing the modification or waiver of any rights created under this section to the extent and under the circumstances set forth in those regulations.
+The Bureau may, if it finds that such action is necessary in order to permit homeowners to meet bona fide personal financial emergencies, prescribe regulations authorizing the modification or waiver of any rights created under this section to the extent and under the circumstances set forth in those regulations.
 
 #### (e) Exempted transactions; reapplication of provisions
 
 This section does not apply to—
 
-&emsp;(1) a residential mortgage transaction as defined in section 1602(w) of this title;
+&emsp;(1) a residential mortgage transaction as defined in section 1602(w) <sup>1</sup> of this title;
 
 &emsp;(2) a transaction which constitutes a refinancing or consolidation (with no new advances) of the principal balance then due and any accrued and unpaid finance charges of an existing extension of credit by the same creditor secured by an interest in the same property;
 
@@ -30,7 +30,7 @@ This section does not apply to—
 
 #### (f) Time limit for exercise of right
 
-An obligor's right of rescission shall expire three years after the date of consummation of the transaction or upon the sale of the property, whichever occurs first, notwithstanding the fact that the information and forms required under this section or any other disclosures required under this part have not been delivered to the obligor, except that if (1) any agency empowered to enforce the provisions of this subchapter institutes a proceeding to enforce the provisions of this section within three years after the date of consummation of the transaction, (2) such agency finds a violation of this section, and (3) the obligor's right to rescind is based in whole or in part on any matter involved in such proceeding, then the obligor's right of rescission shall expire three years after the date of consummation of the transaction or upon the earlier sale of the property, or upon the expiration of one year following the conclusion of the proceeding, or any judicial review or period for judicial review thereof, whichever is later.
+An obligor's right of rescission shall expire three years after the date of consummation ofthe transaction or upon the sale of the property, whichever occurs first, notwithstanding the fact that the information and forms required under this section or any other disclosures required under this part have not been delivered to the obligor, except that if (1) any agency empowered to enforce the provisions of this subchapter institutes a proceeding to enforce the provisions of this section within three years after the date of consummation of the transaction, (2) such agency finds a violation of this section, and (3) the obligor's right to rescind is based in whole or in part on any matter involved in such proceeding, then the obligor's right of rescission shall expire three years after the date of consummation of the transaction or upon the earlier sale of the property, or upon the expiration of one year following the conclusion of the proceeding, or any judicial review or period for judicial review thereof, whichever is later.
 
 #### (g) Additional relief
 
@@ -38,7 +38,7 @@ In any action in which it is determined that a creditor has violated this sectio
 
 #### (h) Limitation on rescission
 
-An obligor shall have no rescission rights arising solely from the form of written notice used by the creditor to inform the obligor of the rights of the obligor under this section, if the creditor provided the obligor the appropriate form of written notice published and adopted by the Board, or a comparable written notice of the rights of the obligor, that was properly completed by the creditor, and otherwise complied with all other requirements of this section regarding notice.
+An obligor shall have no rescission rights arising solely from the form of written notice used by the creditor to inform the obligor of the rights of the obligor under this section, if the creditor provided the obligor the appropriate form of written notice published and adopted by the Bureau, or a comparable written notice of the rights of the obligor, that was properly completed by the creditor, and otherwise complied with all other requirements of this section regarding notice.
 
 #### (i) Rescission rights in foreclosure
 
@@ -48,7 +48,7 @@ An obligor shall have no rescission rights arising solely from the form of writt
 
 &emsp;&emsp;(A) a mortgage broker fee is not included in the finance charge in accordance with the laws and regulations in effect at the time the consumer credit transaction was consummated; or
 
-&emsp;&emsp;(B) the form of notice of rescission for the transaction is not the appropriate form of written notice published and adopted by the Board or a comparable written notice, and otherwise complied with all the requirements of this section regarding notice.
+&emsp;&emsp;(B) the form of notice of rescission for the transaction is not the appropriate form of written notice published and adopted by the Bureau or a comparable written notice, and otherwise complied with all the requirements of this section regarding notice.
 
 #### (2) Tolerance for disclosures
 
@@ -64,11 +64,13 @@ An obligor shall have no rescission rights arising solely from the form of writt
 
 (Pub. L. 90–321, title I, §125, May 29, 1968, 82 Stat. 153; Pub. L. 93–495, title IV, §§404, 405, 412, Oct. 28, 1974, 88 Stat. 1517, 1519; Pub. L. 96–221, title VI, §612(a)(1), (3)–(6), Mar. 31, 1980, 94 Stat. 175, 176; Pub. L. 98–479, title II, §205, Oct. 17, 1984, 98 Stat. 2234; Pub. L. 104–29, §§5, 8, Sept. 30, 1995, 109 Stat. 274, 275; Pub. L. 111–203, title X, §1100A(2), July 21, 2010, 124 Stat. 2107.)
 
-#### Amendment of Section
+#### References in Text
 
-<i>Pub. L. 111–203, title X, §§1100A(2), 1100H, July 21, 2010, 124 Stat. 2107, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Board” each place that term appears and inserting “Bureau”. See Effective Date of 2010 Amendment note below.</i>
+Section 1602(w) of this title, referred to in subsec. (e)(1), was redesignated section 1602(x) of this title by Pub. L. 111–203, title X, §1100A(1)(A), July 21, 2010, 124 Stat. 2107.
 
 #### Amendments
+
+<b>2010</b>—Subsecs. (a), (d), (h), (i)(1)(B). Pub. L. 111–203 substituted “Bureau” for “Board” wherever appearing.
 
 <b>1995</b>—Subsec. (h). Pub. L. 104–29, §5, added subsec. (h).
 
@@ -84,7 +86,7 @@ Subsec. (c). Pub. L. 96–221, §612(a)(5), inserted “information, forms, and�
 
 Subsec. (e). Pub. L. 96–221, §612(a)(6), substituted provisions relating to nonapplicability to residential mortgage transactions, refinancing or consolidation transactions, etc., for provisions relating to nonapplicability to creation or retention of first liens.
 
-Subsec. (f). Pub. L. 96–221, §612(a)(6), substituted provisions setting forth duration of right of rescission where the required information and forms or other disclosures required under this part have not been delivered to the obligor, and exceptions to such term, for provisions setting forth duration of right of rescission where the required disclosures or any other material disclosures required under this part have not been delivered to the obligor.
+Subsec. (f). Pub. L. 96–221, §612(a)(6), substituted provisions setting forth duration of right of rescission where the required information and forms or other disclosures required under this part have not been delivered to the obligor, and exceptions to such term, for provisions setting forth duration of right of rescissionwhere the required disclosures or any other material disclosures required under this part have not been delivered to the obligor.
 
 Subsec. (g). Pub. L. 96–221, §612(a)(6), added subsec. (g).
 
@@ -105,4 +107,6 @@ Amendment by Pub. L. 96–221 effective on expiration of two years and six month
 #### Effective Date of 1974 Amendment
 
 Amendment by Pub. L. 93–495 effective Oct. 28, 1974, see section 416 of Pub. L. 93–495, set out as an Effective Date note under section 1665a of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

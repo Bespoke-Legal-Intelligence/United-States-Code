@@ -330,7 +330,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (a)(4). Pub. L. 110–246, §6026(b)(1), added par. (4).
+<b>2008</b>—Subsec. (a)(4). Pub. L. 110–246, §6026(b)(1), added par. (4).
 
 Subsec. (c)(3)(B). Pub. L. 110–246, §6026(c)(2)(A), made technical amendment to reference in original act which appears in text as reference to section 2009bb–8 of this title.
 

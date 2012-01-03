@@ -94,7 +94,7 @@ Nothing in this section shall be construed to limit the authority of the Secreta
 
 #### Amendments
 
-2007—Subsec. (a). Pub. L. 110–53, §407(1)(A), struck out “coordinating, primary, or supporting” before “responsibilities” in introductory provisions.
+<b>2007</b>—Subsec. (a). Pub. L. 110–53, §407(1)(A), struck out “coordinating, primary, or supporting” before “responsibilities” in introductory provisions.
 
 Subsec. (a)(2). Pub. L. 110–53, §407(1)(B), inserted “, including credentialing of personnel and typing of resources likely needed to respond to a natural disaster, act of terrorism, or other man-made disaster in accordance with section 320 of this title” before semicolon at end.
 

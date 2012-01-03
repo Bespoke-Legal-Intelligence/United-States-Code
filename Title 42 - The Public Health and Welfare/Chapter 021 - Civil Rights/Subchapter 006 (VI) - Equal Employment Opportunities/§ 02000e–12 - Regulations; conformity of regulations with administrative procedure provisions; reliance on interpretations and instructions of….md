@@ -12,9 +12,11 @@ In subsec. (a), “subchapter II of chapter 5 of title 5” substituted for “t
 
 #### Equal Employment Opportunity Commission Guidelines on Religious Harassment
 
-Pub. L. 111–117, div. B, title V, §506, Dec. 16, 2009, 123 Stat. 3150, provided that: “Hereafter, none of the funds made available in this or any other Act may be used to implement, administer, or enforce any guidelines of the Equal Employment Opportunity Commission covering harassment based on religion, when it is made known to the Federal entity or official to which such funds are made available that such guidelines do not differ in any respect from the proposed guidelines published by the Commission on October 1, 1993 (58 Fed. Reg. 51266).”
+Pub. L. 112–55, div. B, title V, §506, Nov. 18, 2011, 125 Stat. 631, provided that: “During the current fiscal year and in each fiscal year thereafter, none of the funds made available in this or any other Act may be used to implement, administer, or enforce any guidelines of the Equal Employment Opportunity Commission covering harassment based on religion, when it is made known to the Federal entity or official to which such funds are made available that such guidelines do not differ in any respect from the proposed guidelines published by the Commission on October 1, 1993 (58 Fed. Reg. 51266).”
 
-Similar provisions were contained in the following prior appropriation act:
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 111–117, div. B, title V, §506, Dec. 16, 2009, 123 Stat. 3150.
 
 Pub. L. 111–8, div. B, title V, §506, Mar. 11, 2009, 123 Stat. 595.
 

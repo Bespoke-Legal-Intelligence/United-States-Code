@@ -26,11 +26,11 @@ As used in this part, the term “eligible State” means, with respect to a fis
 
 &emsp;&emsp;(i) The document shall indicate whether the State intends to treat families moving into the State from another State differently than other families under the program, and if so, how the State intends to treat such families under the program.
 
-&emsp;&emsp;(ii) The document shall indicate whether the State intends to provide assistance under the program to individuals who are not citizens of the United States, and if so, shall include an overview of such assistance.
+&emsp;&emsp;(ii) The document shall indicate whether the State intends to provide assistance under the program to individuals who arenot citizens of the United States, and if so, shall include an overview of such assistance.
 
 &emsp;&emsp;(iii) The document shall set forth objective criteria for the delivery of benefits and the determination of eligibility and for fair and equitable treatment, including an explanation of how the State will provide opportunities for recipients who have been adversely affected to be heard in a State administrative or appeal process.
 
-&emsp;&emsp;(iv) Not later than 1 year after August 22, 1996, unless the chief executive officer of the State opts out of this provision by notifying the Secretary, a State shall, consistent withthe exception provided in section 607(e)(2) of this title, require a parent or caretaker receiving assistance under the program who, after receiving such assistance for 2 months is not exempt from work requirements and is not engaged in work, as determined under section 607(c) of this title, to participate in community service employment, with minimum hours per week and tasks to be determined by the State.
+&emsp;&emsp;(iv) Not later than 1 year after August 22, 1996, unless the chief executive officer of the State opts out of this provision by notifying the Secretary, a State shall, consistent with the exception provided in section 607(e)(2) of this title, require a parent or caretaker receiving assistance under the program who, after receiving such assistance for 2 months is not exempt from work requirements and is not engaged in work, as determined under section 607(c) of this title, to participate in community service employment, with minimum hours per week and tasks to be determined by the State.
 
 &emsp;&emsp;(v) The document shall indicate whether the State intends to assist individuals to train for, seek, and maintain employment—
 
@@ -92,9 +92,7 @@ The State shall make available to the public a summary of any plan or plan amend
 
 #### References in Text
 
-Section 603(a)(2) of this title, referred to in subsec. (a)(1)(A)(v), was amended generally by Pub. L. 109–171,title VII, §7103(a), Feb. 8, 2006, 120 Stat. 138, and, as so amended, no longer defines “illegitimacy ratio”.
-
-Parts D and E of this subchapter, referred to in subsec. (a)(2), (3), are classified to sections 651 et seq. and 670 et seq., respectively, of this title.
+Section 603(a)(2) of this title, referred to in subsec. (a)(1)(A)(v), was amended generally by Pub. L. 109–171, title VII, §7103(a), Feb. 8, 2006, 120 Stat. 138, and, as so amended, no longer defines “illegitimacy ratio”.
 
 #### Prior Provisions
 
@@ -140,11 +138,11 @@ Section effective July 1, 1997, with transition rules relating to State options 
 
 #### Demonstration of Family Independence Program
 
-Section 9121 of Pub. L. 100–203 authorized State of Washington, upon application of State and approval by Secretary of Health and Human Services, to conduct demonstration project for purpose of testing whether operation of its Family Independence Program enacted in May 1987, as alternative to AFDC program under this subchapter, would more effectively break the cycle of poverty and provide families with opportunities for economic independence and strengthened family functioning, prior to repeal by Pub. L. 104–193, title I, §110(b), Aug. 22, 1996, 110 Stat. 2171.
+Section 9121 of Pub. L. 100–203 authorized State of Washington, upon application of State and approval by Secretary of Health and Human Services, to conduct demonstration project for purpose of testing whether operation of its Family Independence Program enactedin May 1987, as alternative to AFDC program under this subchapter, would more effectively break the cycle of poverty and provide families with opportunities for economic independence and strengthened family functioning, prior to repeal by Pub. L. 104–193, title I, §110(b), Aug. 22, 1996, 110 Stat. 2171.
 
 #### Child Support Demonstration Program in New York State
 
-Section 9122 of Pub. L. 100–203 authorized State of New York, upon application by State and approval bySecretary of Health and Human Services, to conduct demonstration program in accordance with this section for purpose of testing State's Child Support Supplemental Program as alternative to the program of Aid to Families with Dependent Children under this subchapter, prior to repeal by Pub. L. 104–193, title I, §110(c), Aug. 22, 1996, 110 Stat. 2171.
+Section 9122 of Pub. L. 100–203 authorized State of New York, upon application by State and approval by Secretary of Health and Human Services, to conduct demonstration program in accordance with this section for purpose of testing State's Child Support Supplemental Program as alternative to the program of Aid to Families with Dependent Children under this subchapter, prior to repeal by Pub. L. 104–193, title I, §110(c), Aug. 22, 1996, 110 Stat. 2171.
 
 #### Utility Payments Made by Tenants in Assisted Housing
 

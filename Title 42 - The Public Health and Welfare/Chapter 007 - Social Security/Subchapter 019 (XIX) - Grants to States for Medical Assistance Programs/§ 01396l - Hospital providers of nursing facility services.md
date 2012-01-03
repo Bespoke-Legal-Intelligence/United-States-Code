@@ -8,7 +8,7 @@
 
 (3) Payment to all such hospitals, for any nursing facility services furnished pursuant to subsection (a) of this section, may be made at a payment rate established by the State in accordance with the requirements of section 1396a(a)(13)(A) of this title.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1913, as added Pub. L. 96–499, title IX, §904(b), Dec. 5, 1980, 94 Stat. 2617; amended Pub. L. 98–369, div. B, title III, §2369(a), July 18, 1984, 98 Stat. 1110; Pub. L. 100–203, title IV, §4211(h)(9), Dec. 22, 1987, 101 Stat. 1330–206.)
+(Aug. 14, 1935, ch. 531, title XIX, §1913, as added Pub. L. 96–499, title IX, §904(b), Dec. 5, 1980, 94 Stat. 2617; amended Pub. L. 98–369, div. B, title III, §2369(a), July 18, 1984, 98 Stat. 1110; Pub. L.100–203, title IV, §4211(h)(9), Dec. 22, 1987, 101 Stat. 1330–206.)
 
 #### Amendments
 

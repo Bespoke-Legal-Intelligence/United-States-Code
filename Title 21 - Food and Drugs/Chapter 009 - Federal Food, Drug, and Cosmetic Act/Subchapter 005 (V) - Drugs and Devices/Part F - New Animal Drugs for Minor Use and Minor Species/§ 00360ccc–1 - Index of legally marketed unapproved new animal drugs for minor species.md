@@ -114,7 +114,7 @@ Any person intending to file a request under this section shall be entitled to o
 
 &emsp;(A) the expert panel failed to meet the requirements as set forth by the Secretary by regulation;
 
-&emsp;(B) on the basis of new information before the Secretary, evaluated together with the evidence available to the Secretary when the new animal drug was listed in the index, the benefits of using the new animal drug for theindexed use do not outweigh its risks to the target animal;
+&emsp;(B) on the basis of new information before the Secretary, evaluated together with the evidence available to the Secretary when the new animal drug was listed in the index, the benefits of using the new animal drug for the indexed use do not outweigh its risks to the target animal;
 
 &emsp;(C) the conditions of subsection (c)(2) of this section are no longer satisfied;
 
@@ -140,7 +140,7 @@ Any person intending to file a request under this section shall be entitled to o
 
 #### (g) Regulations concerning exemptions for investigational use
 
-For purposes of indexing new animal drugs under this section, to the extent consistent with the public health, the Secretary shall promulgate regulations for exempting from the operation of section 360b of this title minor species new animal drugs and animal feeds bearing or containing new animal drugs intended solely for investigational use by experts qualified by scientific training and experience to investigate the safety and effectiveness of minor species animal drugs. Such regulations may, at the discretion of the Secretary, among other conditions relating to the protection of the public health, provide for conditioning such exemption upon the establishment and maintenance of such records, and the making of such reports to the Secretary, by the manufacturer or the sponsor of the investigation of such article, of data (including but not limited to analytical reports by investigators) obtained as a result of such investigational use of such article, as the Secretary finds will enable the Secretary to evaluate the safety and effectiveness of such article in the event of the filing of a request for an index listing pursuant to this section.
+For purposes of indexing new animal drugs under this section, to the extent consistent withthe public health, the Secretary shall promulgate regulations for exempting from the operation of section 360b of this title minor species new animal drugs and animal feeds bearing or containing new animal drugs intended solely for investigational use by experts qualified by scientific training and experience to investigate the safety and effectiveness of minor species animal drugs. Such regulations may, at the discretion of the Secretary, among other conditions relating to the protection of the public health, provide for conditioning such exemption upon the establishment and maintenance of such records, and the making of such reports to the Secretary, by the manufacturer or the sponsor of the investigation of such article, of data (including but not limited to analytical reports by investigators) obtained as a result of such investigational use of such article, as the Secretary finds will enable the Secretary to evaluate the safety and effectiveness of such article in the event of the filing of a request for an index listing pursuant to this section.
 
 #### (h) Labeling contents
 
@@ -176,7 +176,7 @@ Not approved by fda.—Legally marketed as an FDA indexed product. Extra-label u
 
 &emsp;(A) for the purpose of, or as part of a plan, scheme, or device for, obtaining the right to make, use, or market, or making, using, or marketing, outside the United States, the drug identified in the request for indexing; and
 
-&emsp;(B) without obtaining from any person to whom the data and information are disclosed an identical verified statement, a copy of which is to be provided by such person to theSecretary, which meets the requirements of this paragraph.
+&emsp;(B) without obtaining from any person to whom the data and information are disclosed an identical verified statement, a copy of which is to be provided by such person to the Secretary, which meets the requirements of this paragraph.
 
 (June 25, 1938, ch. 675, §572, as added Pub. L. 108–282, title I, §102(b)(4), Aug. 2, 2004, 118 Stat. 896.)
 

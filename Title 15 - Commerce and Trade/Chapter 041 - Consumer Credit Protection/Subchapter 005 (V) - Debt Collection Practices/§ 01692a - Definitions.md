@@ -2,7 +2,7 @@
 
 As used in this subchapter—
 
-&emsp;(1) The term “Commission” means the Federal Trade Commission.
+&emsp;(1) The term “Bureau” means the Bureau of Consumer Financial Protection.
 
 &emsp;(2) The term “communication” means the conveying of information regarding a debt directly or indirectly to any person through any medium.
 
@@ -32,15 +32,9 @@ As used in this subchapter—
 
 (Pub. L. 90–321, title VIII, §803, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 875; amended Pub. L. 99–361, July 9, 1986, 100 Stat. 768; Pub. L. 111–203, title X, §1089(2), July 21, 2010, 124 Stat. 2092.)
 
-#### Amendment of Section
-
-<i>Pub. L. 111–203, title X, §§1089(2), 1100H, July 21, 2010, 124 Stat. 2092, 2113, provided that, effective on the designated transfer date, this section is amended by striking paragraph (1) and inserting the following:</i>
-
-&emsp;<i>“(1) The term ‘Bureau’ means the Bureau of Consumer Financial Protection.”</i>
-
-<i>See Effective Date of 2010 Amendment note below.</i>
-
 #### Amendments
+
+<b>2010</b>—Par. (1). Pub. L. 111–203 added par. (1) and struck out former par. (1) which read as follows: “The term ‘Commission’ means the Federal Trade Commission.”
 
 <b>1986</b>—Par. (6). Pub. L. 99–361 in provision preceding cl. (A) substituted “clause (F)” for “clause (G)”, struck out cl. (F) which excluded any attorney-at-law collecting a debt as an attorney on behalf of and in the name of a client from term “debt collector”, and redesignated cl. (G) as (F).
 

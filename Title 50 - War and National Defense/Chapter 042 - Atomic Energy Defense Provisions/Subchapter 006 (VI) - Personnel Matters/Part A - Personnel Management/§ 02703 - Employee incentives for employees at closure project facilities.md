@@ -26,7 +26,7 @@ The incentives that the Secretary may provide under this section are the followi
 
 &emsp;(1) The right to accumulate annual leave provided by section 6303 of title 5 for use in succeeding years until it totals not more than 90 days, or not more than 720 hours based on a standard work week, at the beginning of the first full biweekly pay period, or corresponding period for an employee who is not paid on the basis of biweekly pay periods, occurring in a year, except that—
 
-&emsp;&emsp;(A) any annual leave that remains unused when an employee transfers to a position in a department or agency of the Federal Government shall be liquidated upon the transfer by payment to the employee of a lump sum for leave in excess of 30 days, or in excess of 240 hours based on a standard work week; and
+&emsp;&emsp;(A) any annual leave that remains unused when an employee transfers to a position ina department or agency of the Federal Government shall be liquidated upon the transfer by payment to the employee of a lump sum for leave in excess of 30 days, or in excess of 240 hours based on a standard work week; and
 
 &emsp;&emsp;(B) upon separation from service, annual leave accumulated under this paragraph shall be treated as any other accumulated annual leave is treated.
 

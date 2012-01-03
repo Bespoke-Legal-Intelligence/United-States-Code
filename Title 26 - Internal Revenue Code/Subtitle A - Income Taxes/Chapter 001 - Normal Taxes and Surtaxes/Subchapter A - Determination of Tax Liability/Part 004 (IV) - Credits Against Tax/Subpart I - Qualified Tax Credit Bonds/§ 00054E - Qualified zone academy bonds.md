@@ -68,7 +68,7 @@ For purposes of this section—
 
 &emsp;&emsp;(C) the comprehensive education plan of such public school or program is approved by the eligible local education agency, and
 
-&emsp;&emsp;(D)(i) such public school is located in an empowerment zone or enterprise community\(including any such zone or community designated after the date of the enactment of this section), or
+&emsp;&emsp;(D)(i) such public school is located in an empowerment zone or enterprise community (including any such zone or community designated after the date of the enactment of this section), or
 
 &emsp;&emsp;(ii) there is a reasonable expectation (as of the date of issuance of the bonds) that at least 35 percent of the students attending such school or participating in such program (as the case may be) will be eligible for free or reduced-cost lunches under the school lunch program established under the National School Lunch Act.
 

@@ -1,5 +1,5 @@
 
-3 U.S.C.<br>United States Code, 2010 Edition<br>Title 3 - THE PRESIDENT<br>From the U.S. Government Publishing Office, www.gpo.gov
+3 U.S.C.<br>United States Code, 2011 Edition<br>Title 3 - THE PRESIDENT<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 3—THE PRESIDENT
 
@@ -22,9 +22,9 @@
 
 #### Amendments
 
-1996—Pub. L. 104–331, §2(c), Oct. 26, 1996, 110 Stat. 4068, added item for chapter 5.
+<b>1996</b>—Pub. L. 104–331, §2(c), Oct. 26, 1996, 110 Stat. 4068, added item for chapter 5.
 
-1951—Act Oct. 31, 1951, ch. 655, §4, 65 Stat. 711, added item for chapter 4.
+<b>1951</b>—Act Oct. 31, 1951, ch. 655, §4, 65 Stat. 711, added item for chapter 4.
 
 #### Positive Law; Citation
 
@@ -465,6 +465,8 @@ Sept. 14, 1922, ch. 308, §7, 42 Stat. 843
 208
 
 May 14, 1930, ch. 277, §4, 46 Stat. 329.
+
+<i><sup>1</sup></i><i> Chapter repealed by Pub. L. 109–177 without a corresponding amendment of chapter analysis.</i>
 
 
 ---

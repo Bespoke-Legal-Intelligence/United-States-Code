@@ -26,7 +26,7 @@ The Office shall—
 
 #### Catalog of Programs To Assist Rural Small Business Concerns
 
-Section 304 of Pub. L. 101–574 provided that:
+Pub. L. 101–574, title III, §304, Nov. 15, 1990, 104 Stat. 2829, provided that:
 
 “(a)
 
@@ -42,7 +42,7 @@ Biannual Update.—The Small Business Administration shall issue updates of the 
 
 #### Rural Small Business Conferences
 
-Section 306 of Pub. L. 101–574 provided that:
+Pub. L. 101–574, title III, §306, Nov. 15, 1990, 104 Stat. 2829, provided that:
 
 “(a)
 
@@ -78,5 +78,5 @@ Report.—The Chief Counsel for Advocacy shall prepare a summary of the findings
 
 #### Rural Tourism Training Program
 
-Section 311 of Pub. L. 101–574 provided that: “The Chief Counsel for Advocacy of the Small Business Administration shall conduct training sessions on the types of Federal assistance available for the development of rural small businesses engaged in tourism and tourism-related activities. Such training sessions shall be conducted in conjunction with the Office of Rural Affairs (established pursuant to section 26 of the Small Business Act \[15 U.S.C. 653\]) and appropriate personnel designated by each district office of the Administration.”
+Pub. L. 101–574, title III, §311, Nov. 15, 1990, 104 Stat. 2832, provided that: “The Chief Counsel for Advocacy of the Small Business Administration shall conduct training sessions on the types of Federal assistance available for the development of rural small businesses engaged in tourism and tourism-related activities. Such training sessions shall be conducted in conjunction with the Office of Rural Affairs (established pursuant to section 26 of the Small Business Act \[15 U.S.C. 653\]) and appropriate personnel designated by each district office of the Administration.”
 

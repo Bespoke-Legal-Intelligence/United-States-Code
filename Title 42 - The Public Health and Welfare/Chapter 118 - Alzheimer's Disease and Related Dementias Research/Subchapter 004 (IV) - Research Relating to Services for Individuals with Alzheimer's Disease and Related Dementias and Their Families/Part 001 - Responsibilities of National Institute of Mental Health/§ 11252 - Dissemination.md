@@ -2,7 +2,7 @@
 
 The Director of the National Institute of Mental Health shall disseminate the results of research conducted under this part to appropriate professional entities and to the public.
 
-(Pub. L. 99–660, title IX, §932, formerly §945, Nov. 14, 1986, 100 Stat. 3810; renumbered §932, Pub. L. 100–607, title I, §142(c)(2)(B), Nov. 4, 1988, 102 Stat. 3057.)
+(Pub. L. 99–660, title IX, §932, formerly §945, Nov. 14, 1986, 100 Stat. 3810; renumbered §932, Pub. L.100–607, title I, §142(c)(2)(B), Nov. 4, 1988, 102 Stat. 3057.)
 
 #### Prior Provisions
 

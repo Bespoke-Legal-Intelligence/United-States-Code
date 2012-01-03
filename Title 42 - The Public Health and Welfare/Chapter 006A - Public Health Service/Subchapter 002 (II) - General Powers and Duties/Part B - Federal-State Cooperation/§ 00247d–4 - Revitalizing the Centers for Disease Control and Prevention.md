@@ -108,7 +108,7 @@
 
 #### (1) In general
 
-&emsp;To implement the network described in subsection (d), the Secretary may award grants to States or consortia of States to enhance the ability of such States or consortia of States to establish or operate a coordinated public health situational awareness system for regional or Statewide early detection of, rapid response to, and management of potentially catastrophic infectious disease outbreaks and public health emergencies, in collaboration with appropriate public health agencies, sentinel hospitals, clinical laboratories, pharmacies, poison control centers, other healthcare organizations, and animal health organizations within such States.
+&emsp;To implement the network described in subsection (d), the Secretary may award grants to States or consortia of States to enhance the ability of such States or consortia of States to establish or operate a coordinated public health situational awareness system for regional or Statewide early detection of, rapid response to, and management of potentially catastrophic infectious disease outbreaks and public health emergencies, in collaboration with appropriate public health agencies, sentinel hospitals, clinical laboratories, pharmacies, poison control centers, other health care organizations, and animal health organizations within such States.
 
 #### (2) Eligibility
 
@@ -140,7 +140,7 @@
 
 #### (5) Independent evaluation
 
-&emsp;Not later than 4 years after December 19, 2006, the Government Accountability Office shall conduct an independent evaluation, and submit to the Secretary and the appropriate committees of Congress a report concerning the activities conducted under this subsection and subsection (d).
+&emsp;Not later than 4 years after December 19, 2006, the Government Accountability Office shall conduct an independent evaluation, and submit to the Secretary and the appropriatecommittees of Congress a report concerning the activities conducted under this subsection and subsection (d).
 
 #### (f) Telehealth enhancements for emergency response
 

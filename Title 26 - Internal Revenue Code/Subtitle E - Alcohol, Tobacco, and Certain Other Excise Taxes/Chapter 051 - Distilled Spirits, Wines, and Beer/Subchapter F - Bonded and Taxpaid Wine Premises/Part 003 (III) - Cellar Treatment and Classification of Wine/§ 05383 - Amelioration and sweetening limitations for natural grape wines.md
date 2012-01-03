@@ -18,7 +18,7 @@ Any natural grape wine may be sweetened after fermentation and before taxpayment
 
 &emsp;Wine spirits may be added (whether or not wine spirits were previously added) to wine produced under this subsection only if the wine contains not more than 14 percent of alcohol by volume derived from fermentation.
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1384; amended Pub. L. 89–44, title VIII,§806(b)(1), June 21, 1965, 79 Stat. 162; Pub. L. 90–619, §3, Oct. 22, 1968, 82 Stat. 1237.)
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1384; amended Pub. L. 89–44, title VIII, §806(b)(1), June 21, 1965, 79 Stat. 162; Pub. L. 90–619, §3, Oct. 22, 1968, 82 Stat. 1237.)
 
 #### Prior Provisions
 

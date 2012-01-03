@@ -88,7 +88,7 @@ In the case of any controlled foreign corporation, the amount determined under t
 
 &emsp;&emsp;(H) an amount of assets of the controlled foreign corporation equal to the earnings and profits accumulated after December 31, 1962, and excluded from subpart F income under section 952(b);
 
-&emsp;&emsp;(I) deposits of cash or securities made or received on commercial terms in the ordinary course of a United States or foreign person's business as a dealer in securities or in commodities, but only to the extent such deposits are made or received as collateral or margin for (i) a securities loan, notional principal contract, options contract, forwardcontract, or futures contract, or (ii) any other financial transaction in which the Secretary determines that it is customary to post collateral or margin;
+&emsp;&emsp;(I) deposits of cash or securities made or received on commercial terms in the ordinary course of a United States or foreign person's business as a dealer in securities or in commodities, but only to the extent such deposits are made or received as collateral or margin for (i) a securities loan, notional principal contract, options contract, forward contract, or futures contract, or (ii) any other financial transaction in which the Secretary determines that it is customary to post collateral or margin;
 
 &emsp;&emsp;(J) an obligation of a United States person to the extent the principal amount of the obligation does not exceed the fair market value of readily marketable securities sold or purchased pursuant to a sale and repurchase agreement or otherwise posted or received as collateral for the obligation in the ordinary course of its business by a United States or foreign person which is a dealer in securities or commodities;
 
@@ -136,7 +136,7 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 #### References in Text
 
-Section 953(a)(1), referred to in subsec. (c)(2)(E), was subsequently amended, and section 953(a)(1) no longer describes contracts. However, contracts are described elsewhere in that section.
+Section 953(a)(1), referred to in subsec. (c)(2)(E), was subsequently amended, and section 953(a)(1) no longerdescribes contracts. However, contracts are described elsewhere in that section.
 
 #### Amendments
 
@@ -156,7 +156,7 @@ Subsec. (c)(2). Pub. L. 105–34, §1173(a), added subpars. (J) and (K) and conc
 
 <b>1996</b>—Subsec. (b)(1). Pub. L. 104–188, §1501(b)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “For purposes of this section, the term ‘applicable earnings’ has the meaning given to such term by section 956A(b), except that the provisions of such section excluding earnings and profits accumulated in taxable years beginning before October 1, 1993, shall be disregarded.”
 
-Subsec. (b)(3). Pub. L. 104–188, §1501(b)(3), reenacted heading without change and amended text generally.Prior to amendment, text read as follows: “Rules similar to the rules of section 956A(e) shall apply for purposes of this section.”
+Subsec. (b)(3). Pub. L. 104–188, §1501(b)(3), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Rules similar to the rules of section 956A(e) shall apply for purposes of this section.”
 
 <b>1993</b>—Subsec. (a). Pub. L. 103–66, §13232(a)(2), added subsec. (a) and struck out former subsec. (a) which consisted of introductory provisions and pars. (1) to (3) setting out general rules for calculating amount of earnings of a controlled foreign corporation invested in United States and pro rata share of the increase for any taxable year in earnings of such a corporation invested in United States property.
 
@@ -184,7 +184,7 @@ Pub. L. 108–357, title VIII, §837(b), Oct. 22, 2004, 118 Stat. 1596, provided
 
 Section 1173(b) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years of foreign corporations beginning after December 31, 1997, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end.”
 
-Amendment by section 1601(e) of Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 36C of this title.
+Amendment by section 1601(e) of Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 23 of this title.
 
 #### Effective Date of 1996 Amendment
 

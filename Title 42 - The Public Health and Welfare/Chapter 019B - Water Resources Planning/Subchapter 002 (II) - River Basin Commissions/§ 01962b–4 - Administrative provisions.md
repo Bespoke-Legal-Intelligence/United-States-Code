@@ -26,7 +26,7 @@ The chairman of a river basin commission, or any member of such commission desig
 
 #### (c) Records; public inspection
 
-To the extent permitted by law, all appropriate records and papers of each river basincommission shall be made available for public inspection during ordinary office hours.
+To the extent permitted by law, all appropriate records and papers of each river basin commission shall be made available for public inspection during ordinary office hours.
 
 #### (d) Information and personnel from other Federal agencies
 

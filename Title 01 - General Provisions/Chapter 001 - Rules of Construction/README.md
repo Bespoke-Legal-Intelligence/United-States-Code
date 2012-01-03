@@ -20,9 +20,9 @@
 
 #### Amendments
 
-2002—Pub. L. 107–207, §2(b), Aug. 5, 2002, 116 Stat. 926, added item 8.
+<b>2002</b>—Pub. L. 107–207, §2(b), Aug. 5, 2002, 116 Stat. 926, added item 8.
 
-1996—Pub. L. 104–199, §3(b), Sept. 21, 1996, 110 Stat. 2420, added item 7.
+<b>1996</b>—Pub. L. 104–199, §3(b), Sept. 21, 1996, 110 Stat. 2420, added item 7.
 
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 

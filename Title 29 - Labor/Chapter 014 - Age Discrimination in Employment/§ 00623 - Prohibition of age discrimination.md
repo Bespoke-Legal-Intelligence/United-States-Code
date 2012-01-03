@@ -30,7 +30,7 @@ It shall be unlawful for an employer to discriminate against any of his employee
 
 #### (e) Printing or publication of notice or advertisement indicating preference, limitation, etc.
 
-It shall be unlawful for an employer, labor organization, or employment agency to print or publish, or cause to be printed or published, any notice or advertisement relating to employment by such an employer or membership in or any classification or referral for employment by such a labor organization, or relating to any classification or referral for employment bysuch an employment agency, indicating any preference, limitation, specification, or discrimination, based on age.
+It shall be unlawful for an employer, labor organization, or employment agency to print or publish, or cause to be printed or published, any notice or advertisement relating to employment by such an employer or membership in or any classification or referral for employment by such a labor organization, or relating to any classification or referral for employment by such an employment agency, indicating any preference, limitation, specification, or discrimination, based on age.
 
 #### (f) Lawful practices; age an occupational qualification; other reasonable factors; laws of foreign workplace; seniority system; employee benefit plans; discharge or discipline for good cause
 
@@ -48,7 +48,7 @@ It shall not be unlawful for an employer, employment agency, or labor organizati
 
 &emsp;&emsp;&emsp;(ii) that is a voluntary early retirement incentive plan consistent with the relevant purpose or purposes of this chapter.
 
-> &emsp;Notwithstanding clause (i) or (ii) of subparagraph (B), no such employee benefit plan or voluntary early retirement incentive plan shall excuse the failure to hire any individual, and no such employee benefit plan shall require or permit the involuntary retirement of any individual specified by section 631(a) of this title, because of the age of such individual. An employer, employment agency, or labor organization acting under subparagraph (A), or under clause (i) or (ii) of subparagraph (B), shall have the burden of proving that such actions are lawful in any civil enforcement proceeding brought under this chapter; or
+> &emsp;Notwithstanding clause (i) or (ii) of subparagraph (B), no such employee benefit plan orvoluntary early retirement incentive plan shall excuse the failure to hire any individual, and no such employee benefit plan shall require or permit the involuntary retirement of any individual specified by section 631(a) of this title, because of the age of such individual. An employer, employment agency, or labor organization acting under subparagraph (A), or under clause (i) or (ii) of subparagraph (B), shall have the burden of proving that such actions are lawful in any civil enforcement proceeding brought under this chapter; or
 
 &emsp;(3) to discharge or otherwise discipline an individual for good cause.
 
@@ -86,7 +86,7 @@ It shall not be unlawful for an employer, employment agency, or labor organizati
 
 &emsp;(A) if distribution of benefits under such plan with respect to such employee has commenced as of the end of such plan year, then any requirement of this subsection for continued accrual of benefits under such plan with respect to such employee during such plan year shall be treated as satisfied to the extent of the actuarial equivalent of in-service distribution of benefits, and
 
-&emsp;(B) if distribution of benefits under such plan with respect to such employee has not commenced as of the end of such year in accordance with section 1056(a)(3) of this title and section 401(a)(14)(C) of title 26, and the payment of benefits under such plan with respect to such employee is not suspended during such plan year pursuant to section 1053(a)(3)(B) of this title or section 411(a)(3)(B) of title 26, then any requirement of this subsection for continued accrual of benefits undersuch plan with respect to such employee during such plan year shall be treated as satisfied to the extent of any adjustment in the benefit payable under the plan during such plan year attributable to the delay in the distribution of benefits after the attainment of normal retirement age.
+&emsp;(B) if distribution of benefits under such plan with respect to such employee has not commenced as of the end of such year in accordance with section 1056(a)(3) of this title and section 401(a)(14)(C) of title 26, and the payment of benefits under such plan with respect to such employee is not suspended during such plan year pursuant to section 1053(a)(3)(B) of this title or section 411(a)(3)(B) of title 26, then any requirement of this subsection for continued accrual of benefits under such plan with respect to such employee during such plan year shall be treated as satisfied to the extent of any adjustment in the benefit payable under the plan during such plan year attributable to the delay in the distribution of benefits after the attainment of normal retirement age.
 
 > The provisions of this paragraph shall apply in accordance with regulations of the Secretary of the Treasury. Such regulations shall provide for the application of the preceding provisions of this paragraph to all employee pension benefit plans subject to this subsection and may provide for the application of such provisions, in the case of any such employee, with respect to any period of time within a plan year.
 
@@ -152,7 +152,7 @@ Market rate of return.—The Secretary of the Treasury may provide by regulation
 
 &emsp;&emsp;(ii)
 
-Special rule for plan conversions.—If, after June 29, 2005, an applicable planamendment is adopted, the plan shall be treated as failing to meet the requirements of paragraph (1)(H) unless the requirements of clause (iii) are met with respect to each individual who was a participant in the plan immediately before the adoption of the amendment.
+Special rule for plan conversions.—If, after June 29, 2005, an applicable plan amendment is adopted, the plan shall be treated as failing to meet the requirements of paragraph (1)(H) unless the requirements of clause (iii) are met with respect to each individual who was a participant in the plan immediately before the adoption of the amendment.
 
 &emsp;&emsp;(iii)
 
@@ -176,7 +176,7 @@ In general.—The term “applicable plan amendment” means an amendment to a d
 
 &emsp;&emsp;&emsp;(II)
 
-Special rule for coordinated benefits.—If the benefits of 2 or more defined benefit plans established or maintained by an employer are coordinated in such a manner as to have the effect of the adoption of an amendment described in subclause (I), the sponsor of the defined benefit plan or plans providing for such coordination shall be treated as having adopted such a plan amendment as of the date such coordination begins.
+Special rule for coordinated benefits.—If the benefits of 2 or more defined benefit plans established or maintained by an employer are coordinated in such amanner as to have the effect of the adoption of an amendment described in subclause (I), the sponsor of the defined benefit plan or plans providing for such coordination shall be treated as having adopted such a plan amendment as of the date such coordination begins.
 
 &emsp;&emsp;&emsp;(III)
 
@@ -298,7 +298,7 @@ Notwithstanding clause (i) or (ii) of subsection (f)(2)(B) of this section—
 
 &emsp;&emsp;(i) the package of benefits provided by the employer for the retirees who are below age 65 is at least comparable to benefits provided under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.);
 
-&emsp;&emsp;(ii) the package of benefits provided by the employer for the retirees who are age 65 andabove is at least comparable to that offered under a plan that provides a benefit package with one-fourth the value of benefits provided under title XVIII of such Act; or
+&emsp;&emsp;(ii) the package of benefits provided by the employer for the retirees who are age 65 and above is at least comparable to that offered under a plan that provides a benefit package with one-fourth the value of benefits provided under title XVIII of such Act; or
 
 &emsp;&emsp;(iii) the package of benefits provided by the employer is as described in clauses (i) and (ii).
 
@@ -312,7 +312,7 @@ Notwithstanding clause (i) or (ii) of subsection (f)(2)(B) of this section—
 
 &emsp;(F) If an employer that has implemented a deduction pursuant to subparagraph (A) fails to fulfill the obligation described in subparagraph (E), any aggrieved individual may bring an action for specific performance of the obligation described in subparagraph (E). The relief shall be in addition to any other remedies provided under Federal or State law.
 
-&emsp;(3) It shall not be a violation of subsection (a), (b), (c), or (e) of this section solely because an employer provides a bona fide employee benefit plan or plans under which long-term disability benefits received by an individual are reduced by any pension benefits (other than those attributable to employee contributions)—
+&emsp;(3) It shall not be a violation of subsection (a), (b), (c), or (e) of this section solely because an employer provides a bona fide employeebenefit plan or plans under which long-term disability benefits received by an individual are reduced by any pension benefits (other than those attributable to employee contributions)—
 
 &emsp;&emsp;(A) paid to the individual that the individual voluntarily elects to receive; or
 
@@ -342,7 +342,7 @@ The Social Security Act, referred to in subsec. (<i>l</i>)(1)(A)(ii)(II), (2)(D)
 
 #### Amendments
 
-<b>2008</b>—Subsec. (i)(10)(B)(i)(III). Pub. L. 110–458 inserted at end “In the case of a governmental plan (as defined in the first sentence of section 414(d) of title 26), a rate of return or a method of crediting interest establishedpursuant to any provision of Federal, State, or local law (including any administrative rule or policy adopted in accordance with any such law) shall be treated as a market rate of return for purposes of subclause (I) and a permissible method of crediting interest for purposes of meeting the requirements of subclause (I), except that this sentence shall only apply to a rate of return or method of crediting interest if such rate or method does not violate any other requirement of this chapter.”
+<b>2008</b>—Subsec. (i)(10)(B)(i)(III). Pub. L. 110–458 inserted at end “In the case of a governmental plan (as defined in the first sentence of section 414(d) of title 26), a rate of return or a method of crediting interest established pursuant to any provision of Federal, State, or local law (including any administrative rule or policy adopted in accordance with any such law) shall be treated as a market rate of return for purposes of subclause (I) and a permissible method of crediting interest for purposes of meeting the requirements of subclause (I), except that this sentence shall only apply to a rate of return or method of crediting interest if such rate or method does not violate any other requirement of this chapter.”
 
 <b>2006</b>—Subsec. (i)(10). Pub. L. 109–280, §701(c), added par. (10).
 
@@ -366,7 +366,7 @@ Subsec. (j)(1). Pub. L. 104–208, §101(a) \[title I, §119\[1(b)(2)\]\], subst
 
 &emsp;&emsp;“(II) age 55; and” for “and the individual has attained the age of hiring or retirement in effect under applicable State or local law on March 3, 1983, and”.
 
-<b>1990</b>—Subsec. (f)(2). Pub. L. 101–433, §103(1), added par. (2) and struck out former par. (2) which read as follows: “to observe the terms of a bona fide seniority system or any bona fide employee benefit plan such as a retirement, pension, or insurance plan, which is not a subterfuge to evade the purposes of this chapter, except that no such employee benefit plan shall excuse the failure to hire any individual, and no such seniority system or employee benefit plan shall require or permit the involuntary retirement of any individual specified by section 631(a) of this title because of the age of such individual; or”.
+<b>1990</b>—Subsec. (f)(2). Pub. L. 101–433, §103(1), added par. (2) and struck out former par. (2) which read as follows: “to observe the terms of a bona fide seniority system or any bona fide employee benefit plan such as a retirement, pension, or insurance plan, which is not a subterfuge to evade the purposes of this chapter, except thatno such employee benefit plan shall excuse the failure to hire any individual, and no such seniority system or employee benefit plan shall require or permit the involuntary retirement of any individual specified by section 631(a) of this title because of the age of such individual; or”.
 
 Subsecs. (i), (j). Pub. L. 101–433, §103(2), redesignated subsec. (i), relating to employment as firefighter or law enforcement officer, as (j).
 
@@ -422,7 +422,7 @@ Pub. L. 105–244, title IX, §941(d), Oct. 7, 1998, 112 Stat. 1835, provided th
 
 “(1)
 
-In general.—This section \[amending this section and enacting provisions set out as a note below\] shalltake effect on the date of enactment of this Act \[Oct. 7, 1998\].
+In general.—This section \[amending this section and enacting provisions set out as a note below\] shall take effect on the date of enactment of this Act \[Oct. 7, 1998\].
 
 “(2)
 
@@ -460,7 +460,7 @@ Collectively Bargained Agreements.—With respect to any employee benefits provi
 
 &emsp;“(2) that terminates after such date of enactment;
 
-&emsp;“(3) any provision of which was entered into by a labor organization (as defined by section 6(d)(4) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(d)(4))); and
+&emsp;“(3) any provision of which was entered into by a labor organization (as defined by section 6(d)(4) of theFair Labor Standards Act of 1938 (29 U.S.C. 206(d)(4))); and
 
 &emsp;“(4) that contains any provision that would be superseded (in whole or part) by this title \[amending this section and section 630 of this title and enacting provisions set out as notes under this section and section 621 of this title\] and the amendments made by this title, but for the operation of this section,
 
@@ -562,7 +562,7 @@ In General.—Except as provided in subsection (b), this Act and the amendments 
 
 Effect on Existing Causes of Action.—The amendments made by sections 3 and 4 of this Act \[amending this section and section 630 of this title and enacting provisions set out as a note below\] shall not apply with respect to any cause of action arising under the Age Discrimination in Employment Act of 1967 \[29 U.S.C. 621 et seq.\] as in effect before January 1, 1987.”
 
-Section 3(b) of Pub. L. 99–592 which provided that the amendment made by section 3(a) of Pub. L. 99–592, which amended this section, was repealed Dec. 31, 1993, was itself repealed, effective Dec. 31, 1993, by Pub. L. 104–208, div. A, title I, §101(a) \[title I, §119\[1(a)\]\], Sept. 30, 1996, 110 Stat. 3009, 3009–23.
+Section 3(b) of Pub. L. 99–592 which provided that the amendment made by section 3(a) of Pub. L. 99–592, which amended this section, was repealed Dec. 31, 1993,was itself repealed, effective Dec. 31, 1993, by Pub. L. 104–208, div. A, title I, §101(a) \[title I, §119\[1(a)\]\], Sept. 30, 1996, 110 Stat. 3009, 3009–23.
 
 Section 9204 of subtitle C (§§9201–9204) of title IX of Pub. L. 99–509 provided that:
 
@@ -622,7 +622,7 @@ Section 116(c) of Pub. L. 97–248 provided that: “The amendment made by subse
 
 #### Effective Date of 1978 Amendment
 
-Section 2(b) of Pub. L. 95–256 provided that: “The amendment made by subsection (a) of this section \[amending this section\] shall take effect on the date of enactment of this Act \[Apr. 6, 1978\], except that, in the case of employees covered by a collective bargainingagreement which is in effect on September 1, 1977, which was entered into by a labor organization (as defined by section 6(d)(4) of the Fair Labor Standards Act of 1938 \[section 206(d)(4) of this title\]), and which would otherwise be prohibited by the amendment made by section 3(a) of this Act \[amending section 631 of this title\], the amendment made by subsection (a) of this section \[amending this section\] shall take effect upon the termination of such agreement or on January 1, 1980, whichever occurs first.”
+Section 2(b) of Pub. L. 95–256 provided that: “The amendment made by subsection (a) of this section \[amending this section\] shall take effect on the date of enactment of this Act \[Apr. 6, 1978\], except that, in the case of employees covered by a collective bargaining agreement which is in effect on September 1, 1977, which was entered into by a labor organization (as defined by section 6(d)(4) of the Fair Labor Standards Act of 1938 \[section 206(d)(4) of this title\]), and which would otherwise be prohibited by the amendment made by section 3(a) of this Act \[amending section 631 of this title\], the amendment made by subsection (a) of this section \[amending this section\] shall take effect upon the termination of such agreement or on January 1, 1980, whichever occurs first.”
 
 #### Regulations
 
@@ -648,7 +648,7 @@ Section 101(a) \[title I, §119\[1(c)\]\] of Pub. L. 104–208 provided that: �
 
 #### Transfer of Functions
 
-Functions vested by this section in Secretary of Labor or Civil Service Commission transferred to Equal Employment Opportunity Commission by Reorg. Plan No. 1 of 1978, §2, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
+Functions vested by this section in Secretary of Labor or Civil Service Commission transferred to EqualEmployment Opportunity Commission by Reorg. Plan No. 1 of 1978, §2, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
 
 #### Study and Guidelines for Performance Tests
 

@@ -72,7 +72,7 @@ Subsec. (e). Pub. L. 103–355, §3032(8), inserted heading and substituted “e
 
 Pub. L. 103–355, §3032(5), redesignated subsec. (b) of section 9513 of this title as subsec. (e) of this section. See Codification note above.
 
-<b>1989</b>—Pub. L. 101–189 substituted “Contracts for the inclusion or incorporation of defense features” for“Contracts to modify aircraft: cargo-convertible features” as section catchline and amended text generally, substituting subsecs. (a) to (c) for former subsecs. (a) to (e).
+<b>1989</b>—Pub. L. 101–189 substituted “Contracts for the inclusion or incorporation of defense features” for “Contracts to modify aircraft: cargo-convertible features” as section catchline and amended text generally, substituting subsecs. (a) to (c) for former subsecs. (a) to (e).
 
 <b>1984</b>—Subsec. (b)(1). Pub. L. 98–525 substituted “App. 1401” for “1401”.
 

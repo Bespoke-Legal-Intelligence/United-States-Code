@@ -40,7 +40,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (b)(2)(C). Pub. L. 110–246, §6010(1), substituted “$11,000” for “$8,000”.
+<b>2008</b>—Subsec. (b)(2)(C). Pub. L. 110–246, §6010(1), substituted “$11,000” for “$8,000”.
 
 Subsec. (d). Pub. L. 110–246, §6010(2), substituted “2008 through 2012” for “2003 through 2007”.
 

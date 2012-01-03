@@ -38,6 +38,44 @@ The programs described in subsection (b) of this section should, to the extent f
 
 <b>2002</b>—Subsec. (d). Pub. L. 107–314, §1306(c), formerly §1306(e), as renumbered by Pub. L. 109–163, in introductory provisions, substituted “any fiscal year” for “any year” and “such fiscal year” for “that year”.
 
+#### Sharing of Classified United States Ballistic Missile Defense Information With the Russian Federation
+
+Pub. L. 112–81, div. A, title XII, §1244, Dec. 31, 2011, 125 Stat. 1646, provided that:
+
+“(a)
+
+Notification.—No classified United States ballistic missile defense information may be made available to the Russian Federation unless, 60 days prior to any instance in which the United States Government plans to provide such information to the Russian Federation, the President provides notification thereof to the appropriate congressional committees.
+
+“(b)
+
+Elements of Notification.—Each notification provided pursuant to subsection (a) shall include the following:
+
+&emsp;“(1) A detailed description of the classified United States ballistic missile defense information to be provided.
+
+&emsp;“(2) An explanation of the national security interest in providing the information to the Russian Federation and any provisions for reciprocal sharing by the Russian Federation with the United States on its defensive systems.
+
+&emsp;“(3) A certification that providing the information is consistent with United States national disclosure policy as of the date of enactment of this Act \[Dec. 31, 2011\] and that the decision to provide the information was made pursuant to a national disclosure policy review.
+
+&emsp;“(4) If applicable, a detailed explanation of whether any exceptions to national disclosure policy were required in order to provide the information to the Russian Federation and why such exceptions were required.
+
+&emsp;“(5) A certification that adequate measures are in place to protect the information from unauthorized disclosure. The certification shall include a description of the manner in which the information will be protected from unauthorized sharing or transfer to third parties as well as an analysis of the risks to the capabilities of the United States ballistic missile defense system if the information is shared or transferred to an unauthorized third party.
+
+“(c)
+
+Form.—Each notification provided pursuant to subsection (a) shall be submitted in unclassified form, but may include a classified annex.
+
+“(d)
+
+Appropriate Congressional Committees Defined.—For the purposes of this section, the term ‘appropriate congressional committees’ means—
+
+&emsp;“(1) the Committee on Armed Services and the Committee on Foreign Relations of the Senate; and
+
+&emsp;“(2) the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives.
+
+“(e)
+
+Classified United States Ballistic Missile Defense Information Defined.—For the purposes of this section, the term ‘classified United States ballistic missile defense information’ means information related to United States ballistic missile defenses that is classified as of, or after, the date of enactment of this Act \[Dec. 31, 2011\].”
+
 #### Utilization of Contributions to the Cooperative Threat Reduction Program
 
 Pub. L. 111–84, div. A, title XIII, §1303, Oct. 28, 2009, 123 Stat. 2557, provided that:
@@ -220,7 +258,7 @@ Transfer of Assets.—(1) Notwithstanding any restriction or limitation in law o
 
 &emsp;“(B) Fiscal year 2001 Cooperative Threat Reduction funds, as specified in section 1301(b) of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by Public Law 106–398; 114 Stat. 1654A–339; 22 U.S.C. 5959 note).
 
-&emsp;“(C) Fiscal year 2000 Cooperative Threat Reduction funds, as specified in section 1301(b) of the NationalDefense Authorization Act for Fiscal Year 2000 (Public Law 106–65; 113 Stat. 792; 22 U.S.C. 5952 note).
+&emsp;“(C) Fiscal year 2000 Cooperative Threat Reduction funds, as specified in section 1301(b) of the National Defense Authorization Act for Fiscal Year 2000 (Public Law 106–65; 113 Stat. 792; 22 U.S.C. 5952 note).
 
 “(c)
 
@@ -330,7 +368,7 @@ Coordination.—The provision of assistance under subsection (b) shall be closel
 
 #### Russian Federation Debt Reduction for Nonproliferation
 
-Pub. L. 107–228, div. B, title XIII, subtitle B, Sept. 30, 2002, 116 Stat. 1442, as amended by Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814, provided that:
+Pub. L. 107–228, div. B, title XIII, subtitle B, Sept. 30, 2002, 116 Stat. 1442, as amended by Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 112–74, div. I, title VII, §7034(n), Dec. 23, 2011, 125 Stat. 1217, provided that:
 
 #### “SEC. 1311. SHORT TITLE.
 
@@ -380,7 +418,7 @@ Findings.—Congress finds the following:
 
 &emsp;“(10) Most of the Russian Federation's official bilateral debt is held by United States allies that are advanced industrial democracies. Since the issues described pose threats to United States allies as well, United States leadership that results in a larger contribution from United States allies to cooperative threat reduction activities will be needed.
 
-&emsp;“(11) At the June 2002 meeting of the G–8 countries, agreement was achieved on a G–8 Global Partnership against the Spread of Weapons and Materials of Mass Destruction, under which the advanced industrial democracies committed to contribute $20,000,000,000 to nonproliferation programs in the Russian Federation during a 10-year period, with each contributing country having the option to fund some or all of its contribution through reduction in the Russian Federation's official debt to that country.
+&emsp;“(11) At the June 2002 meeting of the G–8 countries, agreement was achieved on a G–8 Global Partnershipagainst the Spread of Weapons and Materials of Mass Destruction, under which the advanced industrial democracies committed to contribute $20,000,000,000 to nonproliferation programs in the Russian Federation during a 10-year period, with each contributing country having the option to fund some or all of its contribution through reduction in the Russian Federation's official debt to that country.
 
 &emsp;“(12) The Russian Federation's Soviet-era official debt to the United States is estimated to be $480,000,000 in Lend-Lease debt and $2,250,000,000 in debt as a result of credits extended under title I of the Agricultural Trade Development and Assistance Act of 1954 \[now Food for Peace Act\] (7 U.S.C. 1701 et seq.).
 
@@ -520,7 +558,7 @@ Content of the Agreement.—The Russian Federation Nonproliferation Investment A
 
 “(c)
 
-Use of Existing Mechanisms.—It is the sense of Congress that, to the extent practicable, the boards andadministrative mechanisms of existing threat reduction and nonproliferation programs should be used in the administration and oversight of programs and projects under the Agreement.
+Use of Existing Mechanisms.—It is the sense of Congress that, to the extent practicable, the boards and administrative mechanisms of existing threat reduction and nonproliferation programs should be used in the administration and oversight of programs and projects under the Agreement.
 
 “(d)
 
@@ -546,7 +584,7 @@ Proliferation to State Sponsors of Terrorism.—Subject to the provisions of sub
 
 “(b)
 
-Annual Determination.—If, in any annual report to Congress submitted pursuant to section 1321, the President cannot certify that the Russian Federation continues to meet the condition required in subsection (a), then, subject to the provisions of subsection (c), the debt reduction authority provided by section 1314 may not be exercised unless and until such certification is made to the appropriate congressional committees.
+Annual Determination.—If, in any annual report to Congress submitted pursuant to \[former\] section 1321, the President cannot certify that the Russian Federation continues to meet the condition required in subsection (a), then, subject to the provisions of subsection (c), the debt reduction authority provided by section 1314 may not be exercised unless and until such certification is made to the appropriate congressional committees.
 
 “(c)
 
@@ -572,23 +610,7 @@ Presidential Waiver.—The President may waive the requirements of subsection (a
 
 “The President shall consult with the appropriate congressional committees on a periodic basis to review the implementation of this subtitle and the Russian Federation's eligibility for debt reduction pursuant to this subtitle.
 
-#### “SEC. 1321. ANNUAL REPORTS TO CONGRESS.
-
-“Not later than December 31, 2003, and not later than December 31 of each year thereafter, the President shall prepare and transmit to Congress a report concerning actions taken to implement this subtitle during the fiscal year preceding the fiscal year in which the report is transmitted. The report on a fiscal year shall include—
-
-&emsp;“(1) a description of the activities undertaken pursuant to this subtitle during the fiscal year;
-
-&emsp;“(2) a description of the nature and amounts of the loans reduced pursuant to this subtitle during the fiscal year;
-
-&emsp;“(3) a description of any agreement entered into under this subtitle;
-
-&emsp;“(4) a description of the progress during the fiscal year of any projects funded pursuant to this subtitle;
-
-&emsp;“(5) a summary of the results of relevant audits performed in the fiscal year; and
-
-&emsp;“(6) a certification, if appropriate, that the Russian Federation continued to meet the condition required by section 1317(a), and an explanation of why the certification was or was not made.”
-
-\[Functions of President under section 1321 of Pub. L. 107–228, set out in the note above, delegated to Secretary of State by Memorandum of President of the United States, July 18, 2006, 71 F.R. 42747.\]
+#### “\[SEC. 1321. Repealed. Pub. L. 112–74, div. I, title VII, §7034(n), Dec. 23, 2011, 125 Stat. 1217.\]”
 
 #### Plan for Securing Nuclear Weapons, Material, and Expertise of the States of the Former Soviet Union
 
@@ -682,7 +704,7 @@ Expiration of Authority.—The authority under paragraph (a) shall expire Januar
 
 Pub. L. 106–398, §1 \[\[div. A\], title XIII, §1303\], Oct. 30, 2000, 114 Stat. 1654, 1654A–340, provided that: “No fiscal year 2001 Cooperative Threat Reduction funds and no funds appropriated for Cooperative Threat Reduction programs for any other fiscal year, may be obligated or expended for elimination of conventional weapons or the delivery vehicles primarily intended to deliver such weapons.” \[For definitions, see section 1 \[\[div. A\], title XIII, §1301(a)\] of Pub. L. 106–398, set out as a note under section 5959 of this title.\]
 
-Pub. L. 106–398, §1 \[\[div. A\], title XIII, §1304\], Oct. 30, 2000, 114 Stat. 1654, 1654A–340, as amended by Pub. L. 107–107, div. A, title XIII, §1305(b), Dec. 28, 2001, 115 Stat. 1255, provided that: “Out of funds authorized to be appropriated for Cooperative Threat Reduction programs \[for definition, see section 1 \[\[div. A\], title XIII, §1301(a)\] of Pub. L. 106–398, set out as a note under section 5959 of this title\] for fiscal year 2001 or any other fiscal year, not more than $412,600,000 may be used for planning, design, or construction of the first wing forthe storage facility for Russian fissile material referred to in section 1302(a)(5) \[114 Stat. 1654–339\] other than planning, design, or construction to improve security at such first wing.”
+Pub. L. 106–398, §1 \[\[div. A\], title XIII, §1304\], Oct. 30, 2000, 114 Stat. 1654, 1654A–340, as amended by Pub. L. 107–107, div. A, title XIII, §1305(b), Dec. 28, 2001, 115 Stat. 1255, provided that: “Out of funds authorized to be appropriated for Cooperative Threat Reduction programs \[for definition, see section 1 \[\[div. A\], title XIII, §1301(a)\] of Pub. L. 106–398, set out as a note under section 5959 of this title\] for fiscal year 2001 or any other fiscal year, not more than $412,600,000 may be used for planning, design, or construction of the first wing for the storage facility for Russian fissile material referred to in section 1302(a)(5) \[114 Stat. 1654–339\] other than planning, design, or construction to improve security at such first wing.”
 
 Pub. L. 106–65, div. A, title XIII, §§1303–1305, Oct. 5, 1999, 113 Stat. 793, 794, as amended by Pub. L. 107–107, div. A, title XIII, §1308, Dec. 28, 2001, 115 Stat. 1256; Pub. L. 107–314, div. A, title X, §1062(j)(2), Dec. 2, 2002, 116 Stat. 2651; Pub. L. 110–53, title XVIII, §1811(3), Aug. 3, 2007, 121 Stat. 492; Pub. L. 110–181, div. A, title XIII, §1304(a)(3), Jan. 28, 2008, 122 Stat. 412, provided that:
 
@@ -782,7 +804,7 @@ Pub. L. 104–106, div. A, title XII, §1209, Feb. 10, 1996, 110 Stat. 472.
 
 #### Requirement To Submit Summary of Amounts Requested by Project Category
 
-Pub. L. 105–261, div. A, title XIII, §1307, Oct. 17, 1998, 112 Stat. 2165, as amended by Pub. L. 108–375, div. A, title XIII, §1304, Oct. 28, 2004, 118 Stat. 2094, provided that:
+Pub. L. 105–261, div. A, title XIII, §1307, Oct. 17, 1998, 112 Stat. 2165, as amended by Pub. L. 108–375, div. A,title XIII, §1304, Oct. 28, 2004, 118 Stat. 2094, provided that:
 
 “(a)
 
@@ -864,7 +886,7 @@ Determination of President of the United States, No. 2005–09, Dec. 6, 2004, 69
 
 Memorandum for the Secretary of State
 
-Consistent with the authority vested in me by section 1306 of the \[Bob Stump\] national \[National\] Defense Authorization Act for Fiscal Year 2003 (Public Law 107–314) \[amending this section and enacting provisions set out as a note above\], I hereby certify thatwaiving the restrictions contained in subsection (d) of section 1203 of the Cooperative Threat Reduction Act of 1993 (22 U.S.C. 5952), as amended, and the requirements contained in section 502 of the FREEDOM Support Act (22 U.S.C. 5852) during Fiscal Year 2005 with respect to the Russian Federation is important to the national security interests of the United States.
+Consistent with the authority vested in me by section 1306 of the \[Bob Stump\] national \[National\] Defense Authorization Act for Fiscal Year 2003 (Public Law 107–314) \[amending this section and enacting provisions set out as a note above\], I hereby certify that waiving the restrictions contained in subsection (d) of section 1203 of the Cooperative Threat Reduction Act of 1993 (22 U.S.C. 5952), as amended, and the requirements contained in section 502 of the FREEDOM Support Act (22 U.S.C. 5852) during Fiscal Year 2005 with respect to the Russian Federation is important to the national security interests of the United States.
 
 You are authorized and directed to transmit to the Congress this certification and the associated report (including its classified annex) \[not set out in the Code\] that has been prepared by my Administration consistent with section 1306(b) of Public Law 107–314. You are further authorized and directed to arrange for the publication of this certification in the Federal Register.
 
@@ -954,7 +976,7 @@ Pub. L. 106–65, div. A, title XIII, §1301(a), (b), Oct. 5, 1999, 113 Stat. 79
 
 “(a)
 
-Specification of CTR Programs.—For purposes of section 301 \[113 Stat. 556\] and other provisions of thisAct \[see Tables for classification\], Cooperative Threat Reduction programs are the programs specified in section 1501(b) of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; 110 Stat. 2731; 50 U.S.C. 2362 note).
+Specification of CTR Programs.—For purposes of section 301 \[113 Stat. 556\] and other provisions of this Act \[see Tables for classification\], Cooperative Threat Reduction programs are the programs specified in section 1501(b) of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; 110 Stat. 2731; 50 U.S.C. 2362 note).
 
 “(b)
 

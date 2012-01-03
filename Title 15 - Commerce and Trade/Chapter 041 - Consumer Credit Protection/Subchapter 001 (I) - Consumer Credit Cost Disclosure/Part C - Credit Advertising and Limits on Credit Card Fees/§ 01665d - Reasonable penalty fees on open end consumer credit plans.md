@@ -6,11 +6,11 @@ The amount of any penalty fee or charge that a card issuer may impose with respe
 
 #### (b) Rulemaking required
 
-The Board, in consultation with the Comptroller of the Currency, the Board of Directors of the Federal Deposit Insurance Corporation, the Director of the Office of Thrift Supervision, and the National Credit Union Administration Board, shall issue final rules not later than 9 months after May 22, 2009, to establish standards for assessing whether the amount of any penalty fee or charge described under subsection (a) isreasonable and proportional to the omission or violation to which the fee or charge relates. Subsection (a) shall become effective 15 months after May 22, 2009.
+The Bureau, in consultation with the Comptroller of the Currency, the Board of Directors of the Federal Deposit Insurance Corporation, the Director of the Office of Thrift Supervision, and the National Credit Union Administration Board, shall issue final rules not later than 9 months after May 22, 2009, to establish standards for assessing whether the amount of any penalty fee or charge described under subsection (a) is reasonable and proportional to the omission or violation to which the fee or charge relates. Subsection (a) shall become effective 15 months after May 22, 2009.
 
 #### (c) Considerations
 
-In issuing rules required by this section, the Board shall consider—
+In issuing rules required by this section, the Bureau shall consider—
 
 &emsp;(1) the cost incurred by the creditor from such omission or violation;
 
@@ -18,21 +18,21 @@ In issuing rules required by this section, the Board shall consider—
 
 &emsp;(3) the conduct of the cardholder; and
 
-&emsp;(4) such other factors as the Board may deem necessary or appropriate.
+&emsp;(4) such other factors as the Bureau may deem necessary or appropriate.
 
 #### (d) Differentiation permitted
 
-In issuing rules required by this subsection, the Board may establish different standards for different types of fees and charges, as appropriate.
+In issuing rules required by this subsection, the Bureau may establish different standards for different types of fees and charges, as appropriate.
 
 #### (e) Safe harbor rule authorized
 
-The Board, in consultation with the Comptroller of the Currency, the Board of Directors of the Federal Deposit Insurance Corporation, the Director of the Office of Thrift Supervision, and the National Credit Union Administration Board, may issue rules to provide an amount for any penalty fee or charge described under subsection (a) that is presumed to be reasonable and proportional to the omission or violation to which the fee or charge relates.
+The Bureau, in consultation with the Comptroller of the Currency, the Board of Directors of the Federal Deposit Insurance Corporation, the Director of the Office of Thrift Supervision, and the National Credit Union Administration Board, may issue rules to provide an amount for any penalty fee or charge described under subsection (a) that is presumed to be reasonable and proportional to the omission or violation to which the fee or charge relates.
 
 (Pub. L. 90–321, title I, §149, as added Pub. L. 111–24, title I, §102(b)(1), May 22, 2009, 123 Stat. 1740; amended Pub. L. 111–203, title X, §1100A(2), July 21, 2010, 124 Stat. 2107.)
 
-#### Amendment of Section
+#### Amendments
 
-<i>Pub. L. 111–203, title X, §§1100A(2), 1100H, July 21, 2010, 124 Stat. 2107, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Board” each place that term appears and inserting “Bureau”. See Effective Date of 2010 Amendment note below.</i>
+<b>2010</b>—Subsecs. (b) to (e). Pub. L. 111–203, §1100A(2), which directed amendment of this section by substituting “Bureau” for “Board” wherever appearing, was executed by making the substitution for “Board” the first time appearing in subsecs. (b) and (e), and wherever appearing in subsecs. (c) and (d), to reflect the probable intent of Congress.
 
 #### Effective Date of 2010 Amendment
 

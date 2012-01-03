@@ -36,7 +36,7 @@ Before the Attorney General or the Secretary obligates any resources for volunta
 
 #### (c) Authority
 
-The Attorney General and the Secretary may, to the extent necessary to help carry out their respective strategic restructuring plan described in subsection (b) of this section, make voluntaryseparation incentive payments to employees. Any such payment—
+The Attorney General and the Secretary may, to the extent necessary to help carry out their respective strategic restructuring plan described in subsection (b) of this section, make voluntary separation incentive payments to employees. Any such payment—
 
 &emsp;(1) shall be paid to the employee, in a lump sum, after the employee has separated from service;
 

@@ -88,7 +88,7 @@ For purposes of this section the following definitions shall apply:
 
 #### (2) Metropolitan area
 
-&emsp;The term “metropolitan area” means any primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area, as defined by the Director of the Office of Management and Budget, with a population of 250,000 or more,and any other area designated as such by the appropriate Federal financial supervisory agency.
+&emsp;The term “metropolitan area” means any primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area, as defined by the Director of the Office of Management and Budget, with a population of 250,000 or more, and any other area designated as such by the appropriate Federal financial supervisory agency.
 
 #### (3) State
 
@@ -102,11 +102,11 @@ This chapter, referred to in subsecs. (b)(1)(A)(i) and (c)(3), was in the origin
 
 #### Amendments
 
-1994—Subsec. (b)(1). Pub. L. 103–328, §110(b), redesignated existing provisions as subpar. (A) and former subpars. (A) to (C) as cls. (i) to (iii), respectively, of subpar. (A), inserted subpar. (A) heading, and added subpar. (B).
+<b>1994</b>—Subsec. (b)(1). Pub. L. 103–328, §110(b), redesignated existing provisions as subpar. (A) and former subpars. (A) to (C) as cls. (i) to (iii), respectively, of subpar. (A), inserted subpar. (A) heading, and added subpar. (B).
 
 Subsecs. (d), (e). Pub. L. 103–328, §110(a), added subsecs. (d) and (e).
 
-1991—Subsec. (a)(1). Pub. L. 102–242, §222(b)(1), substituted “financial supervisory” for “depository institutions regulatory”.
+<b>1991</b>—Subsec. (a)(1). Pub. L. 102–242, §222(b)(1), substituted “financial supervisory” for “depository institutions regulatory”.
 
 Subsec. (b)(1)(A). Pub. L. 102–242, §222(b)(2), substituted “financial supervisory” for “depository institutions regulatory” in two places.
 

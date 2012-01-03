@@ -48,7 +48,7 @@ Each Federal land bank association shall continue as a federally chartered instr
 
 #### (c) FCA authority on organization
 
-The Farm Credit Administration shall have power, in the terms of the charter, under rules and regulations prescribed by the Farm Credit Administration—
+The Farm Credit Administration shall have power, in the terms of the charter, under rulesand regulations prescribed by the Farm Credit Administration—
 
 &emsp;(1) to provide for the organization of the association;
 
@@ -66,7 +66,7 @@ A prior section 2091, Pub. L. 92–181, title II, §2.10, Dec. 10, 1971, 85 Stat
 
 #### Amendments
 
-1988—Subsec. (b)(1). Pub. L. 100–399, §401(s)(1), inserted “under section 2015(a) of this title” after “a Farm Credit Bank”.
+<b>1988</b>—Subsec. (b)(1). Pub. L. 100–399, §401(s)(1), inserted “under section 2015(a) of this title” after “a Farm Credit Bank”.
 
 Subsec. (b)(2)(D)(i). Pub. L. 100–399, §401(s)(2), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “the individual's eligibility for, and request or need of the individual of a Farm Credit Bank loan;”.
 

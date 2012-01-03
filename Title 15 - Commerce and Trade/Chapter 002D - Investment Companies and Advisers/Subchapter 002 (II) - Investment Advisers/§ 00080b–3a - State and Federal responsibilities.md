@@ -10,7 +10,25 @@
 
 &emsp;&emsp;(B) is an adviser to an investment company registered under subchapter I of this chapter.
 
-#### (2) “Assets under management” defined
+#### (2) Treatment of mid-sized investment advisers
+
+#### (A) In general
+
+&emsp;&emsp;No investment adviser described in subparagraph (B) shall register under section 80b–3 of this title, unless the investment adviser is an adviser to an investment company registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\], or a company which has elected to be a business development company pursuant to section 54 of the Investment Company Act of 1940 \[15 U.S.C. 80a–53\], and has not withdrawn the election, except that, if by effect of this paragraph an investment adviser would be required to register with 15 or more States, then the adviser may register under section 80b–3 of this title.
+
+#### (B) Covered persons
+
+&emsp;&emsp;An investment adviser described in this subparagraph is an investment adviser that—
+
+&emsp;&emsp;&emsp;(i) is required to be registered as an investment adviser with the securities commissioner (or any agency or office performing like functions) of the State in which it maintains its principal office and place of business and, if registered, would be subject to examination as an investment adviser by any such commissioner, agency, or office; and
+
+&emsp;&emsp;&emsp;(ii) has assets under management between—
+
+&emsp;&emsp;&emsp;&emsp;(I) the amount specified under subparagraph (A) of paragraph (1), as such amount may have been adjusted by the Commission pursuant to that subparagraph; and
+
+&emsp;&emsp;&emsp;&emsp;(II) $100,000,000, or such higher amount as the Commission may, by rule, deem appropriate in accordance with the purposes of this subchapter.
+
+#### (3) “Assets under management” defined
 
 &emsp;For purposes of this subsection, the term “assets under management” means the securities portfolios with respect to which an investment adviser provides continuous and regular supervisory or management services.
 
@@ -38,35 +56,13 @@ Upon request of the securities commissioner (or any agency or officer performing
 
 (Aug. 22, 1940, ch. 686, title II, §203A, as added Pub. L. 104–290, title III, §303(a), Oct. 11, 1996, 110 Stat. 3437; amended Pub. L. 109–290, §7(b)(1), Sept. 29, 2006, 120 Stat. 1321; Pub. L. 111–203, title IV, §410, July 21, 2010, 124 Stat. 1576.)
 
-#### Amendment of Subsection (a)
+#### References in Text
 
-<i>Pub. L. 111–203, title IV, §§410, 419, July 21, 2010, 124 Stat. 1576, 1580, provided that, effective 1 year after July 21, 2010, except that any investment adviser may, at the discretion of the investment adviser, register with the Commission under the Investment Advisers Act of 1940 during that 1-year period, subject to the rules of the Commission, and except as otherwise provided, subsection (a) of this section is amended—</i>
-
-<i>(1) by redesignating paragraph (2) as paragraph (3); and</i>
-
-<i>(2) by inserting after paragraph (1) the following:</i>
-
-#### <i>“(2) Treatment of mid-sized investment advisers</i>
-
-#### <i>“(A) In general</i>
-
-&emsp;&emsp;<i>“No investment adviser described in subparagraph (B) shall register under section 80b–3 of this title, unless the investment adviser is an adviser to an investment company registered under the Investment Company Act of 1940, or a company which has elected to be a business development company pursuant to section 54 of the Investment Company Act of 1940, and has not withdrawn the election, except that, if by effect of this paragraph an investment adviser would be required to register with 15 or more States, then the adviser may register under section 80b–3 of this title.</i>
-
-#### <i>“(B) Covered persons</i>
-
-&emsp;&emsp;<i>“An investment adviser described in this subparagraph is an investment adviser that—</i>
-
-&emsp;&emsp;&emsp;<i>“(i) is required to be registered as an investment adviser with the securities commissioner (or any agency or office performing like functions) of the State in which it maintains its principal office and place of business and, if registered, would be subject to examination as an investment adviser by any such commissioner, agency, or office; and</i>
-
-&emsp;&emsp;&emsp;<i>“(ii) has assets under management between—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>“(I) the amount specified under subparagraph (A) of paragraph (1), as such amount may have been adjusted by the Commission pursuant to that subparagraph; and</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>“(II) $100,000,000, or such higher amount as the Commission may, by rule, deem appropriate in accordance with the purposes of this subchapter.”</i>
-
-<i>See Effective Date of 2010 Amendment note below.</i>
+The Investment Company Act of 1940, referred to in subsec. (a)(2)(A), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§80a–1 et seq.) of this chapter. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
 
 #### Amendments
+
+<b>2010</b>—Subsec. (a)(2), (3). Pub. L. 111–203 added par. (2) and redesignated former par. (2) as (3).
 
 <b>2006</b>—Subsecs. (d), (e). Pub. L. 109–290 redesignated subsec. (e) as (d) and struck out heading and text of former subsec. (d). Text read as follows: “The Commission may, by rule, require an investment adviser—
 
@@ -84,7 +80,7 @@ Section effective 270 days after Oct. 11, 1996, see section 308(a) of Pub. L. 10
 
 #### Continued State Authority
 
-Section 307 of title III of Pub. L. 104–290 provided that:
+Pub. L. 104–290, title III, §307, Oct. 11, 1996, 110 Stat. 3440, provided that:
 
 “(a)
 

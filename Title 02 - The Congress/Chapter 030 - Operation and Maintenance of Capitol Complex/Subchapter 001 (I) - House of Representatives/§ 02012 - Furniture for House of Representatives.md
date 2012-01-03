@@ -12,5 +12,5 @@ Section is based on par. from act Apr. 28, 1902, popularly known as the “Legis
 
 #### Amendments
 
-2010—Pub. L. 111–248 amended section generally. Prior to amendment, text read as follows: “The Architect of the Capitol shall supervise and direct the care and repair of all furniture in the Hall, cloakrooms, lobby, committee rooms, and offices of the House, and all furniture required for the House of Representatives or for any of its committee rooms or offices shall be procured on designs and specifications made or approved by the said Architect.”
+<b>2010</b>—Pub. L. 111–248 amended section generally. Prior to amendment, text read as follows: “The Architect of the Capitol shall supervise and direct the care and repair of all furniture in the Hall, cloakrooms, lobby, committee rooms, and offices of the House, and all furniture required for the House of Representatives or for any of its committee rooms or offices shall be procured on designs and specifications made or approved by the said Architect.”
 

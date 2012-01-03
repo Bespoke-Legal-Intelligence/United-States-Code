@@ -6,7 +6,7 @@ Notwithstanding section 365 of this title, neither the court nor the trustee may
 
 #### Historical and Revision Notes
 
-I74senate report no. 95–989
+#### senate report no. 95–989
 
 Section 1176 \[enacted as section 1167\] is derived from present section 77(n) \[section 205(n) of former title 11\]. It provides that notwithstanding the general section governing the rejection of executory contracts (section 365), neither the court nor the trustee may change thewages or working conditions of employees of the debtor established by a collective bargaining agreement that is subject to the Railway Labor Act \[45 U.S.C. 151 et seq.\], except in accordance with section 6 of that Act \[45 U.S.C. 156\]. As reported by the subcommittee this section provided that wages and salaries of rail employees could not be affected by the trustee, but that work rules could be rejected by the trustee. The reorganization court was given the authority to review the trustee's decisions and to settle any disputes arising from the rejection. This provision was withdrawn by the full committee, and hearings will be conducted next year by the Human Resources Committee in the area of rail labor contracts and the trustee's ability to reject them in a bankruptcy situation.
 
@@ -20,7 +20,7 @@ The Railway Labor Act, referred to in text, is act May 20, 1926, ch. 347, 44 Sta
 
 #### Amendments
 
-1994—Pub. L. 103–394 struck out “(45 U.S.C. 151 et seq.)” after “Railway Labor Act” and “(45 U.S.C. 156)” after “such Act”.
+<b>1994</b>—Pub. L. 103–394 struck out “(45 U.S.C. 151 et seq.)” after “Railway Labor Act” and “(45 U.S.C. 156)” after “such Act”.
 
 #### Effective Date of 1994 Amendment
 

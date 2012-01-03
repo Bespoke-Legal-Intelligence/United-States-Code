@@ -56,11 +56,11 @@ A prior section 306 of act July 10, 1954, ch. 469, title III, as added Sept. 21,
 
 #### Amendments
 
-1996—Subsec. (b). Pub. L. 104–127 amended heading and struck out “indigenous” before “nongovernmental” in text.
+<b>1996</b>—Subsec. (b). Pub. L. 104–127 amended heading and struck out “indigenous” before “nongovernmental” in text.
 
-1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions requiring submission of annual report by recipient countries to President on activities and progress of Food for Development Program.
+<b>1990</b>—Pub. L. 101–624 amended section generally, substituting present provisions for provisions requiring submission of annual report by recipient countries to President on activities and progress of Food for Development Program.
 
-1979—Pub. L. 96–53 inserted provisions relating to detailed description of the use of the commodities.
+<b>1979</b>—Pub. L. 96–53 inserted provisions relating to detailed description of the use of the commodities.
 
 #### Effective Date of 1990 Amendment
 

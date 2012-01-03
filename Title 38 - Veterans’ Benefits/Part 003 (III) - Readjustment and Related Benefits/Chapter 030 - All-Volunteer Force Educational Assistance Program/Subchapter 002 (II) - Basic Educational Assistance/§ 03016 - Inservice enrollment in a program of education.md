@@ -36,7 +36,7 @@
 
 #### References in Text
 
-Section 3011(a)(1)(A)(i), referred to in subsec. (a), was amended generally by Pub. L. 106–419, title I,§103(a)(1)(A), Nov. 1, 2000, 114 Stat. 1825, and, as so amended, does not contain a subcl. (I).
+Section 3011(a)(1)(A)(i), referred to in subsec. (a), was amended generally by Pub. L. 106–419, title I, §103(a)(1)(A), Nov. 1, 2000, 114 Stat. 1825, and, as so amended, does not contain a subcl. (I).
 
 #### Amendments
 

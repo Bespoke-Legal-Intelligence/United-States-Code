@@ -16,7 +16,7 @@ Whenever a registration, or a cancellation or suspension of the registration of 
 
 #### (c) Importation of pesticides and devices
 
-The Secretary of the Treasury shall notify the Administrator of the arrival of pesticides and devices and shall deliver to the Administrator, upon the Administrator's request, samples of pesticides or devices which are being imported into the United States, giving notice to the owner or consignee, who may appear before the Administrator and have the right to introduce testimony. If it appears from the examination of a sample that it is adulterated, or misbranded or otherwise violates the provisions set forth in this subchapter, or is otherwise injurious to health or the environment, the pesticide or device may be refused admission, and the Secretary of the Treasury shall refuse delivery to the consignee and shall cause the destruction of any pesticide or device refused delivery which shall not be exported by the consignee within 90 days from the date of notice of such refusal under such regulations as the Secretary of the Treasury may prescribe. The Secretary of the Treasury may deliver to the consignee such pesticide or device pending examination and decision in the matter on execution of bond for the amount of the full invoice value of such pesticide or device, together with the duty thereon, and on refusal to return such pesticide or device for any cause to the custody of the Secretary of the Treasury, when demanded, for the purpose of excluding them from the country, or for any other purpose, said consignee shall forfeit the full amount of said bond. All charges for storage, cartage, and labor on pesticides or devices which are refused admission or delivery shall be paid by the owner or consignee, and in default of such payment shall constitute a lien against any future importation made by such owner or consignee.
+The Secretary of the Treasury shall notify the Administrator of the arrival of pesticides and devices and shall deliver to the Administrator, upon the Administrator's request, samples of pesticides or devices which are being imported into the United States, giving notice to the owner or consignee, who may appear before the Administrator and have the right to introduce testimony. If it appears from the examination of a sample that it is adulterated, or misbranded or otherwise violates the provisions set forth in this subchapter, or is otherwise injurious to health or the environment, the pesticide or device may be refused admission, and the Secretary of the Treasury shall refuse delivery to the consignee and shall cause the destruction of any pesticide or device refused delivery which shall not be exported by the consignee within 90 days from the date of notice of such refusal under such regulations as the Secretary of the Treasury may prescribe. The Secretary of the Treasury may deliver to the consignee such pesticide or device pending examination and decision in the matter on execution of bond for the amount of the full invoice value of such pesticide or device, together with the duty thereon, and on refusal to return such pesticide or device for any cause to the custody of the Secretary of the Treasury, when demanded, for the purpose of excluding them from the country, or for anyother purpose, said consignee shall forfeit the full amount of said bond. All charges for storage, cartage, and labor on pesticides or devices which are refused admission or delivery shall be paid by the owner or consignee, and in default of such payment shall constitute a lien against any future importation made by such owner or consignee.
 
 #### (d) Cooperation in international efforts
 
@@ -40,15 +40,15 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (d). Pub. L. 110–246, §14209(a), designated existing provisions as par. (1), inserted heading, and added par. (2).
+<b>2008</b>—Subsec. (d). Pub. L. 110–246, §14209(a), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-1991—Subsec. (a). Pub. L. 102–237, §1006(a)(9), removed last sentence from par. (2) and placed it as a full measure sentence under par. (2).
+<b>1991</b>—Subsec. (a). Pub. L. 102–237, §1006(a)(9), removed last sentence from par. (2) and placed it as a full measure sentence under par. (2).
 
 Subsec. (c). Pub. L. 102–237, §1006(b)(2), substituted “the Administrator's” for “his”.
 
-1988—Subsec. (c). Pub. L. 100–532 substituted “prescribe. The Secretary” for “prescribe: <i>Provided</i>, That the Secretary” and “bond. All” for “bond: <i>And provided further</i>, That all”.
+<b>1988</b>—Subsec. (c). Pub. L. 100–532 substituted “prescribe. The Secretary” for “prescribe: <i>Provided</i>, That the Secretary” and “bond. All” for “bond: <i>And provided further</i>, That all”.
 
-1978—Subsec. (a). Pub. L. 95–396, §18(a)(1), amended subsec. (a) generally.
+<b>1978</b>—Subsec. (a). Pub. L. 95–396, §18(a)(1), amended subsec. (a) generally.
 
 Subsec. (b). Pub. L. 95–396, §18(a)(2), inserted sentence at end relating to information to be included in notification.
 

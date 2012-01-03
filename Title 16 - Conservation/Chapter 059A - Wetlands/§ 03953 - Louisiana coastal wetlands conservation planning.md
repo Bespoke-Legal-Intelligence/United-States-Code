@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(ii) designate a single agency of the State to develop the conservation plan;
 
-&emsp;&emsp;(iii) assure an opportunity for participation in the development of the conservation plan, during the planning period, by the public and by Federal and State agencies;
+&emsp;&emsp;(iii) assure an opportunity for participation in the development of the conservationplan, during the planning period, by the public and by Federal and State agencies;
 
 &emsp;&emsp;(iv) obligate the State, not later than three years after the date of signing the agreement, unless extended by the parties thereto, to submit the conservation plan to the Secretary, the Director, and the Administrator for their approval; and
 
@@ -96,7 +96,7 @@ A conservation plan approved under this section shall be implemented as provided
 
 #### (1) Initial report to Congress
 
-&emsp;Within one hundred and eighty days after entering into the agreement required under subsection (a) of this section, the Secretary, the Director, and the Administrator shall report to the Congress as to the status of a conservation plan approved under this section and the progress of the State in carrying out such a plan, including and <sup>1</sup> accounting, as required under subsection (c) of this section, of the gains and losses of coastal wetlands as a result of development activities.
+&emsp;Within one hundred and eighty days after entering into the agreement required undersubsection (a) of this section, the Secretary, the Director, and the Administrator shall report to the Congress as to the status of a conservation plan approved under this section and the progress of the State in carrying out such a plan, including and <sup>1</sup> accounting, as required under subsection (c) of this section, of the gains and losses of coastal wetlands as a result of development activities.
 
 #### (2) Report to Congress
 

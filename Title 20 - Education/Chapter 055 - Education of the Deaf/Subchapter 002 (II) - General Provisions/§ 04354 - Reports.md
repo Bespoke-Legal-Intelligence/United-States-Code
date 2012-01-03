@@ -56,7 +56,11 @@ Par. (3). Pub. L. 103–73, §204(c)(3), amended par. (3) generally. Prior to am
 
 Par. (6). Pub. L. 103–73, §204(c)(4), substituted “Program funds are” for “Program is”.
 
-<b>1992</b>—Pub. L. 102–421, §134, amended section generally, substituting present provisions for provisions requiring annual reports from Board of Trustees of Gallaudet University and National Technical Institute for theDeaf and providing for an annual monitoring and evaluation report.
+<b>1992</b>—Pub. L. 102–421, §134, amended section generally, substituting present provisions for provisions requiring annual reports from Board of Trustees of Gallaudet University and National Technical Institute for the Deaf and providing for an annual monitoring and evaluation report.
+
+#### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Effective Date of 1998 Amendment
 

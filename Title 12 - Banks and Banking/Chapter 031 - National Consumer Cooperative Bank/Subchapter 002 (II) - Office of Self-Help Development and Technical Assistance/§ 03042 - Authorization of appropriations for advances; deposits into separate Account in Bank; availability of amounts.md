@@ -6,7 +6,7 @@ There are hereby authorized to be appropriated to the Office for the purpose of 
 
 #### Amendments
 
-1981—Pub. L. 97–35 substituted provisions authorizing appropriations for fiscal year 1982, for provisions authorizing appropriations for the fiscal year ending Sept. 30, 1979, and the next two succeeding fiscal years.
+<b>1981</b>—Pub. L. 97–35 substituted provisions authorizing appropriations for fiscal year 1982, for provisions authorizing appropriations for the fiscal year ending Sept. 30, 1979, and the next two succeeding fiscal years.
 
 #### Effective Date of 1981 Amendment
 

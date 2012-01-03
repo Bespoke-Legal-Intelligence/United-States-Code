@@ -42,7 +42,7 @@ Pub. L. 93–86, §6, formerly §5, Aug. 10, 1973, 87 Stat. 250, as renumbered P
 
 #### Short Title of 1970 Amendment
 
-Pub. L. 91–524, §1, Nov. 30, 1970, 84 Stat. 1358, provided: “That this Act \[as amended by section 1 of Pub. L. 93–86, enacting sections 428b, 612c–2, 612c-3, 1282a, 1307, 1334a–1, 1339d, 1342a, 1350a, 1427a, 1434, 1441a, 1736e, 1787, 1930, and 2119 of this title, sections 590q–2 and 1501 to 1510 of Title 16, Conservation, and section 3122 of Title 42, The Public Health and Welfare, amending sections 450j, 450<i>l</i>, 608c, 1301, 1305, 1306, 1344b, 1350, 1374, 1378, 1379, 1379b, 1379c, 1379d, 1379e, 1379g, 1385, 1427, 1428, 1444, 1444a, 1444b, 1445a, 1446, 1446a, 1703, 1704, 1736, 1736c, 1782, 1787, 1925, 1926, 1932, 2651, and 2654 of this title and section 590p of Title 16, Conservation, and enacting provisions set out as notes under sections 135b, 608c, 624, 1301, 1305, 1306, 1330, 1331, 1332, 1333, 1334, 1335, 1336, 1338, 1339, 1342, 1342a, 1343, 1344, 1344b, 1345, 1346, 1350, 1359, 1377, 1378, 1379, 1379b to 1379j, 1385, 1427, 1428, 1441, 1444, 1444b, 1445, 1445a, 1446, and 1446d of this title, section 142 of Title 13, Census, and section 71 of Title 45 Railroads\] may be cited as the ‘Agricultural Act of 1970’.”
+Pub. L. 91–524, §1, Nov. 30, 1970, 84 Stat. 1358, provided: “That this Act \[as amended by section 1 of Pub. L. 93–86, enacting sections 428b, 612c–2, 612c-3, 1282a, 1307, 1334a–1, 1339d, 1342a, 1350a, 1427a, 1434, 1441a, 1736e, 1787, 1930, and 2119 of this title, sections 590q–2 and 1501 to 1510 of Title 16, Conservation, and section 3122 of Title 42, The Public Health and Welfare, amending sections 450j, 450<i>l</i>, 608c, 1301, 1305, 1306, 1344b, 1350, 1374, 1378, 1379, 1379b, 1379c, 1379d, 1379e, 1379g, 1385, 1427, 1428, 1444, 1444a, 1444b, 1445a, 1446, 1446a, 1703, 1704, 1736, 1736c, 1782, 1787, 1925, 1926, 1932, 2651, and 2654 of this title and section 590p of Title 16, Conservation, and enacting provisions set out as notes under sections 135b, 608c, 624, 1301, 1305, 1306, 1330, 1331, 1332, 1333, 1334, 1335, 1336, 1338, 1339, 1342, 1342a, 1343, 1344, 1344b, 1345, 1346, 1350, 1359, 1377, 1378, 1379, 1379b to 1379j, 1385, 1427, 1428, 1441, 1444, 1444b, 1445, 1445a, 1446, and 1446d of this title, section 142of Title 13, Census, and section 71 of Title 45 Railroads\] may be cited as the ‘Agricultural Act of 1970’.”
 
 #### Short Title of 1964 Amendment
 
@@ -50,7 +50,7 @@ Pub. L. 88–297, §1, Apr. 11, 1964, 78 Stat. 173, provided: “That this Act \
 
 #### Short Title of 1963 Amendment
 
-Pub. L. 88–26, §1, May 20, 1963, 77 Stat. 44, provided: “That this Act \[amending section 1339a of this title andsection 590p of Title 16, Conservation, and provisions set out as note under section 1441 of this title\] may be cited as the ‘Feed Grain Act of 1963’.”
+Pub. L. 88–26, §1, May 20, 1963, 77 Stat. 44, provided: “That this Act \[amending section 1339a of this title and section 590p of Title 16, Conservation, and provisions set out as note under section 1441 of this title\] may be cited as the ‘Feed Grain Act of 1963’.”
 
 #### Short Title of 1962 Amendment
 

@@ -6,9 +6,13 @@
 
 (c) Of the amounts appropriated pursuant to subsection (a) of this section for fiscal year 1991, such sums as may be necessary not to exceed $2,000,000 shall be expended for upgrading and modernizing equipment at the Commission's electronic emissions test laboratory located in Laurel, Maryland.
 
-(d) Of the sum appropriated in any fiscal year under this section, a portion, in an amount determined under section 159(b) of this title, shallbe derived from fees authorized by section 159 of this title.
+(d) Of the sum appropriated in any fiscal year under this section, a portion, in an amount determined under section 159(b) of this title, shall be derived from fees authorized by section 159 of this title.
 
 (June 19, 1934, ch. 652, title I, §6, as added Pub. L. 97–35, title XII, §1251(a), Aug. 13, 1981, 95 Stat. 738; amended Pub. L. 98–214, §2(a), Dec. 8, 1983, 97 Stat. 1467; Pub. L. 99–272, title V, §5002(a)(1), Apr. 7, 1986, 100 Stat. 117; Pub. L. 100–594, §2(a), Nov. 3, 1988, 102 Stat. 3021; Pub. L. 101–396, §2(a), Sept. 28, 1990, 104 Stat. 848; Pub. L. 103–66, title VI, §6003(b), Aug. 10, 1993, 107 Stat. 401.)
+
+#### References in Text
+
+This chapter, referred to in subsec. (a), was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
 #### Amendments
 

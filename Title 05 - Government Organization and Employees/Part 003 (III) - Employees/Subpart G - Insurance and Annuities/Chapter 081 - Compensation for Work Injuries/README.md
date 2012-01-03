@@ -89,19 +89,21 @@
 
 #### Amendments
 
-2008—Pub. L. 110–181, div. A, title XI, §1105(b), Jan. 28, 2008, 122 Stat. 349, added item 8102a.
+<b>2008</b>—Pub. L. 110–181, div. A, title XI, §1105(b), Jan. 28, 2008, 122 Stat. 349, added item 8102a.
 
-1995—Pub. L. 104–66, title I, §1102(b)(3)(B), Dec. 21, 1995, 109 Stat. 723, added item 8152.
+<b>1995</b>—Pub. L. 104–66, title I, §1102(b)(3)(B), Dec. 21, 1995, 109 Stat. 723, added item 8152.
 
-1994—Pub. L. 103–333, title I, §101(a)(2), Sept. 30, 1994, 108 Stat. 2547, added item 8148.
+<b>1994</b>—Pub. L. 103–333, title I, §101(a)(2), Sept. 30, 1994, 108 Stat. 2547, added item 8148.
 
-1979—Pub. L. 96–70, title III, §3302(e)(12), Sept. 27, 1979, 93 Stat. 499, substituted “Panama Canal Commission” for “Canal Zone” in item 8146.
+<b>1979</b>—Pub. L. 96–70, title III, §3302(e)(12), Sept. 27, 1979, 93 Stat. 499, substituted “Panama Canal Commission” for “Canal Zone” in item 8146.
 
-1974—Pub. L. 93–416, §§12(b), 23(a), Sept. 7, 1974, 88 Stat. 1146, 1150, substituted “Notice of injury or death” for “Notice of injury; failure to give” in item 8119, and added item 8151.
+<b>1974</b>—Pub. L. 93–416, §§12(b), 23(a), Sept. 7, 1974, 88 Stat. 1146, 1150, substituted “Notice of injury or death” for “Notice of injury; failure to give” in item 8119, and added item 8151.
 
-1968—Pub. L. 90–291, §1(b), Apr. 19, 1968, 82 Stat. 100, added subchapter III consisting of items 8191, 8192, and 8193.
+<b>1968</b>—Pub. L. 90–291, §1(b), Apr. 19, 1968, 82 Stat. 100, added subchapter III consisting of items 8191, 8192, and 8193.
 
-1967—Pub. L. 90–83, §1(59), (66)(B), (67)(B), (70), Sept. 11, 1967, 81 Stat. 211, 212, 213, inserted “; hearings” in item 8124, added item 8143a relating to members of the National Teachers Corps and item 8146a relating to cost-of-living adjustment of compensation, and struck out item 8148 relating to reports.
+<b>1967</b>—Pub. L. 90–83, §1(59), (66)(B), (67)(B), (70), Sept. 11, 1967, 81 Stat. 211, 212, 213, inserted “; hearings” in item 8124, added item 8143a relating to members of the National Teachers Corps and item 8146a relating to cost-of-living adjustment of compensation, and struck out item 8148 relating to reports.
+
+<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 
 ---

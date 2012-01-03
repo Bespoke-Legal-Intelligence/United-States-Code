@@ -22,7 +22,7 @@ This section amends various sections \[§§2101, 4102, 4109, 5541, 8101\] of tit
 
 #### Amendments
 
-1979—Par. (3). Pub. L. 96–54 substituted “National Oceanic and Atmospheric” for “Environmental Science Services”.
+<b>1979</b>—Par. (3). Pub. L. 96–54 substituted “National Oceanic and Atmospheric” for “Environmental Science Services”.
 
 #### Effective Date of 1979 Amendment
 

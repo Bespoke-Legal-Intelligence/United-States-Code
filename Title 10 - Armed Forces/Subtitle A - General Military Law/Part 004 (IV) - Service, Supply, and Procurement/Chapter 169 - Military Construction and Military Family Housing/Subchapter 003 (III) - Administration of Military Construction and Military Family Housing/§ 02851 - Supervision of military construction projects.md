@@ -40,7 +40,7 @@ Maintenance of Military Construction Information on Internet; Access.—(1) The 
 
 (3) The information required to be provided for each project described in paragraph (1) shall be made available on the Internet site required by such paragraph not later than 90 days after the award of a contract or delivery order for the project. The Secretary of Defense shall update the required information as promptly as practicable, but not less frequently than once a month, to ensure that the information is available in a timely manner.
 
-(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 163; amended Pub. L. 109–163, div. B, title XXVIII, §2803(a), (c), Jan. 6, 2006, 119 Stat. 3505, 3506; Pub. L. 111–383, div. B, title XXVIII, §2801, Jan. 7, 2011, 124 Stat. 4458.)
+(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 163; amended Pub. L. 109–163, div. B, title XXVIII, §2803(a), (c), Jan. 6, 2006, 119 Stat. 3505,3506; Pub. L. 111–383, div. B, title XXVIII, §2801, Jan. 7, 2011, 124 Stat. 4458.)
 
 #### Amendments
 
@@ -68,29 +68,5 @@ Pub. L. 109–163, div. B, title XXVIII, §2803(b), Jan. 6, 2006, 119 Stat. 3506
 
 #### Identification of Requirements To Reduce Backlog in Maintenance and Repair of Defense Facilities
 
-Pub. L. 106–398, §1 \[\[div. A\], title III, §374\], Oct. 30, 2000, 114 Stat. 1654, 1654A–81, provided that:
-
-“(a)
-
-Report To Address Maintenance and Repair Backlog.—Not later than March 15, 2001, the Secretary of Defense shall submit to Congress a report identifying a list of requirements to reduce the backlog in maintenance and repair needs of facilities and infrastructure under the jurisdiction of the Department of Defense or a military department.
-
-“(b)
-
-Elements of Report.—At a minimum, the report shall include or address the following:
-
-&emsp;“(1) The extent of the work necessary to repair and revitalize facilities and infrastructure, or to demolish and replace unusable facilities, carried as backlog by the Secretary of Defense or the Secretary of a military department.
-
-&emsp;“(2) Measurable goals, over specified time frames, for addressing all of the identified requirements.
-
-&emsp;“(3) Expected funding for each military department and Defense Agency to address the identified requirements during the period covered by the most recent future-years defense program submitted to Congress pursuant to section 221 of title 10, United States Code.
-
-&emsp;“(4) The cost of the current backlog in maintenance and repair for each military department and Defense Agency, which shall be determined using the standard costs to standard facility categories in the Department of Defense Facilities Cost Factors Handbook, shown both in the aggregate and individually for each major military installation.
-
-&emsp;“(5) The total number of square feet of building space of each military department and Defense Agency to be demolished or proposed for demolition, shown both in the aggregate and individually for each major military installation.
-
-&emsp;“(6) The initiatives underway to identify facility and infrastructure requirements at military installations to accommodate new and developing weapons systems and to prepare installations to accommodate these systems.
-
-“(c)
-
-Annual Updates.—The Secretary of Defense shall update the report required under subsection (a) annually. The annual updates shall be submitted to Congress at or about the time that the budget is submitted to Congress for a fiscal year under section 1105(a) of title 31, United States Code.”
+Pub. L. 106–398, §1 \[\[div. A\], title III, §374\], Oct. 30, 2000, 114 Stat. 1654, 1654A–81, which required the Secretary of Defense to submit to Congress, not later than March 15, 2001, a report identifying a list of requirements to reduce the backlog in maintenance and repair needs of facilities and infrastructure under the jurisdiction of the Department of Defense or a military department, which report was to be updated annually, was repealed by Pub. L. 112–81, div. A, title X, §1062(i)(1), Dec. 31, 2011, 125 Stat. 1585.
 

@@ -130,7 +130,7 @@ Subsection (a) of this section applies on the condition that—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) publishing the notice described in clause (i) at least 2 times in a newspaper of general circulation in the county or counties where the subject parcel of land is located or, if there is an Indian tribe with jurisdiction over the parcel of land and that tribe publishes a tribal newspaper or newsletter at least once every month, 1 time in such newspaper of general circulation and 1 time in such tribal newspaper or newsletter;
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) posting such notice in a conspicuous place in the tribal headquarters or administration building (orsuch other tribal building determined by the Secretary to be most appropriate for giving public notice) of the Indian tribe with jurisdiction over the parcel of land, if any; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) posting such notice in a conspicuous place in the tribal headquarters or administration building (or such other tribal building determined by the Secretary to be most appropriate for giving public notice) of the Indian tribe with jurisdiction over the parcel of land, if any; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(cc) in addition to the foregoing, in the Secretary's discretion, publishing notice in any other place or means that the Secretary determines to be appropriate.
 
@@ -254,7 +254,7 @@ Subsection (a) of this section applies on the condition that—
 
 &emsp;&emsp;&emsp;(i) commence a civil action in the United States district court for the district in which the parcel of land is located; and
 
-&emsp;&emsp;&emsp;(ii) request that the court issue an order for ejectment or any other appropriate remedy necessary for the partition of the land by sale.
+&emsp;&emsp;&emsp;(ii) request that the court issue an order for ejectment or any other appropriateremedy necessary for the partition of the land by sale.
 
 #### (B) Federal role
 

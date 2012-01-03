@@ -10,13 +10,13 @@ On request of a party in interest at any time before 180 days after the date of 
 
 #### Historical and Revision Notes
 
-I74senate report no. 95–989
+#### senate report no. 95–989
 
 If an order of confirmation was procured by fraud, then the court may revoke the order on request of a party in interest if the request is made before 180 days after the date of the entry of the order of confirmation. The order revoking the order of confirmation must revoke the discharge of the debtor, and contain such provisions as are necessary to protect any entity acquiring rights in good faith reliance on the order of confirmation.
 
 #### Amendments
 
-1984—Pub. L. 98–353 inserted “if and only” after “revoke such order”.
+<b>1984</b>—Pub. L. 98–353 inserted “if and only” after “revoke such order”.
 
 #### Effective Date of 1984 Amendment
 

@@ -12,7 +12,7 @@
 
 Based on title 28, U.S.C., 1940 ed., §41(27), (28) (Mar. 3, 1911, ch. 231, §§24(27), (28), 207, 36 Stat. 1091, 1148; Oct. 22, 1913, ch. 32, 38 Stat. 219).
 
-Words “Except as otherwise provided by enactment of Congress” were inserted because of certain similarcases of which the courts of appeals are given jurisdiction. (See, for example, section 21 of title 15, U.S.C., 1940 ed., Commerce and Trade.)
+Words “Except as otherwise provided by enactment of Congress” were inserted because of certain similar cases of which the courts of appeals are given jurisdiction. (See, for example, section 21 of title 15, U.S.C., 1940 ed., Commerce and Trade.)
 
 Words “any civil action” were substituted for “all cases” and “cases” in view of Rule 2 of the Federal Rules of Civil Procedure.
 

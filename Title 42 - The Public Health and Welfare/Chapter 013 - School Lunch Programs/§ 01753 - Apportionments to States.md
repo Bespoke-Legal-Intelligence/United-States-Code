@@ -20,7 +20,7 @@ Regulations.—
 
 &emsp;&emsp;(i)
 
-Proposed regulations.—Notwithstanding section 1758(f) of this title, not later than 18 months after December 13, 2010, the Secretary shall promulgate proposed regulations to update the meal patterns and nutrition standards for the school lunch program authorized under this chapter and the school breakfast program established by section 1773 of this title based on recommendations made by the Food and Nutrition Board of the National Research Council of the National Academy of Sciences.
+Proposed regulations.—Notwithstanding section 1758(f) of this title, not later than18 months after December 13, 2010, the Secretary shall promulgate proposed regulations to update the meal patterns and nutrition standards for the school lunch program authorized under this chapter and the school breakfast program established by section 1773 of this title based on recommendations made by the Food and Nutrition Board of the National Research Council of the National Academy of Sciences.
 
 &emsp;&emsp;(ii)
 
@@ -174,7 +174,7 @@ Section 820(c) of title VIII of Pub. L. 97–35 provided that: “Not later than
 
 #### Reduction in General Reimbursement for Fiscal Year Ending September 30, 1981
 
-Pub. L. 96–499, title II, §201(a), Dec. 5, 1980, 94 Stat. 2599, provided that the national average payment per lunch under this chapter shall be reduced by 2½ cents for certain school food authorities for fiscal year ending Sept. 30, 1981, and that the amount of reimbursements under section 1776 of this title for fiscal year ending Sept. 30, 1983, and the amount of State revenues appropriated or used for meeting the requirements under section 1756 of this title for the school year ending June 30, 1982, shall not be reduced because of a reduction in the amount of Federal funds expended, prior to repeal by Pub. L. 97–35, title VIII, §820(b)(1), Aug. 13, 1981, 95 Stat. 535, effective Sept. 1, 1981, or the first day of the first month following Aug. 1981, whichever is earlier.
+Pub. L. 96–499, title II, §201(a), Dec. 5, 1980, 94 Stat. 2599, provided that the national average payment per lunch under this chapter shall be reduced by 2½ cents for certain school food authorities for fiscal year ending Sept. 30, 1981, and that the amount of reimbursements under section 1776 of this title for fiscal yearending Sept. 30, 1983, and the amount of State revenues appropriated or used for meeting the requirements under section 1756 of this title for the school year ending June 30, 1982, shall not be reduced because of a reduction in the amount of Federal funds expended, prior to repeal by Pub. L. 97–35, title VIII, §820(b)(1), Aug. 13, 1981, 95 Stat. 535, effective Sept. 1, 1981, or the first day of the first month following Aug. 1981, whichever is earlier.
 
 #### Use of Funds Appropriated Under Section 612c of Title 7 for Implementing This Section and Reimbursement of Such Funds
 

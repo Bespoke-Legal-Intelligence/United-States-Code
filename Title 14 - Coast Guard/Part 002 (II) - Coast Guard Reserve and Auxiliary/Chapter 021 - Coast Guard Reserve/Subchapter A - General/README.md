@@ -2,10 +2,6 @@
 
 general
 
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
-
-<i><sup>2</sup></i><i> So in original. Does not conform to section catchline.</i>
-
 
 ---
 

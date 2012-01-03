@@ -26,7 +26,7 @@ The Director shall, in consultation with the Board—
 
 #### Amendments
 
-2010—Subsec. (c)(1). Pub. L. 111–200, §2(c)(1), which directed substitution of “in any fiscal year” for “, in any calendar year,” in third sentence, was executed by making the substitution for “, for any calendar year,” to reflect the probable intent of Congress.
+<b>2010</b>—Subsec. (c)(1). Pub. L. 111–200, §2(c)(1), which directed substitution of “in any fiscal year” for “, in any calendar year,” in third sentence, was executed by making the substitution for “, for any calendar year,” to reflect the probable intent of Congress.
 
 Subsec. (c)(2). Pub. L. 111–200, §2(c)(2), added par. (2) and struck out former par. (2) which read as follows:
 
@@ -34,11 +34,11 @@ Subsec. (c)(2). Pub. L. 111–200, §2(c)(2), added par. (2) and struck out form
 
 “(B) If the Director fails to substantially comply with paragraph (1), the Board shall take such actions as may be necessary to prepare, pursuant to section 808 of this title, for the orderly cessation of the activities of the Board.”
 
-2005—Subsec. (c)(2)(A). Pub. L. 109–143 inserted comma after “1993” and substituted “2004, 2005, 2006, 2007, 2008, and 2009” for “and 2004”.
+<b>2005</b>—Subsec. (c)(2)(A). Pub. L. 109–143 inserted comma after “1993” and substituted “2004, 2005, 2006, 2007, 2008, and 2009” for “and 2004”.
 
-1999—Subsec. (c)(2)(A). Pub. L. 106–63 substituted “1998, 1999, 2000, 2001, 2002, 2003, and 2004” for “and 1998”.
+<b>1999</b>—Subsec. (c)(2)(A). Pub. L. 106–63 substituted “1998, 1999, 2000, 2001, 2002, 2003, and 2004” for “and 1998”.
 
-1996—Subsec. (c)(2)(A). Pub. L. 104–208 substituted “1994, 1995, 1996, 1997, and 1998” for “and 1994”.
+<b>1996</b>—Subsec. (c)(2)(A). Pub. L. 104–208 substituted “1994, 1995, 1996, 1997, and 1998” for “and 1994”.
 
-1992—Subsec. (c). Pub. L. 102–457 added subsec. (c).
+<b>1992</b>—Subsec. (c). Pub. L. 102–457 added subsec. (c).
 

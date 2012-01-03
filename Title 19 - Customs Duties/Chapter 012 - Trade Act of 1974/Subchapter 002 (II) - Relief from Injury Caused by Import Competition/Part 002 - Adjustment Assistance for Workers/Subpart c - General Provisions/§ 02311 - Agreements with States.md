@@ -18,7 +18,7 @@ Each agreement under this subpart shall—
 
 #### (d) Unemployment insurance
 
-Each agreement under this subpart shall provide that unemployment insurance otherwisepayable to any adversely affected worker will not be denied or reduced for any week by reason of any right to payments under this part.
+Each agreement under this subpart shall provide that unemployment insurance otherwise payable to any adversely affected worker will not be denied or reduced for any week by reason of any right to payments under this part.
 
 #### (e) Review
 
@@ -78,11 +78,13 @@ In order to promote the coordination of workforce investment activities in each 
 
 &emsp;&emsp;The core indicators of performance described in this paragraph are—
 
-&emsp;&emsp;&emsp;(i) the percentage of workers receiving benefits under this part who are employed during the second calendar quarter following the calendar quarter in which the workers cease receiving such benefits;
+&emsp;&emsp;&emsp;(i) the percentage of workers receiving benefits under this part who are employed during the first or second calendar quarter following the calendar quarter in which the workers cease receiving such benefits;
 
-&emsp;&emsp;&emsp;(ii) the percentage of such workers who are employed in each of the third and fourth calendar quarters following the calendar quarter in which the workers cease receiving such benefits; and
+&emsp;&emsp;&emsp;(ii) the percentage of such workers who are employed during the 2 calendar quarters following the earliest calendar quarter during which the worker was employed as described in clause (i);
 
-&emsp;&emsp;&emsp;(iii) the earnings of such workers in each of the third and fourth calendar quarters following the calendar quarter in which the workers cease receiving such benefits.
+&emsp;&emsp;&emsp;(iii) the average earnings of such workers who are employed during the 2 calendar quarters described in clause (ii); and
+
+&emsp;&emsp;&emsp;(iv) the percentage of such workers who obtain a recognized postsecondary credential, including an industry-recognized credential, or a secondary school diploma or its recognized equivalent if combined with employment under clause (i), while receiving benefits under this part or during the 1-year period after such workers cease receiving such benefits.
 
 #### (B) Additional indicators
 
@@ -102,11 +104,11 @@ In order to promote the coordination of workforce investment activities in each 
 
 &emsp;The Secretary shall establish procedures to ensure the uniform application by the States of the requirements of this subsection.
 
-(Pub. L. 93–618, title II, §239, Jan. 3, 1975, 88 Stat. 2024; Pub. L. 97–35, title XXV, §2513(d)(6), Aug. 13, 1981, 95 Stat. 889; Pub. L. 99–272, title XIII, §§13003(a)(3), 13004(c), Apr. 7, 1986, 100 Stat. 301, 303; Pub. L. 100–418, title I, §§1423(a)(4), 1424(d)(1)(B), (2), Aug. 23, 1988, 102 Stat. 1246, 1250; Pub. L. 105–220, title III, §321, Aug. 7, 1998, 112 Stat. 1087; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(14)(B), (f)(11)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–421, 2681–431; Pub. L. 111–5, div. B, title I, §§1852, 1853, Feb. 17, 2009, 123 Stat. 390, 392.)
+(Pub. L. 93–618, title II, §239, Jan. 3, 1975, 88 Stat. 2024; Pub. L. 97–35, title XXV, §2513(d)(6), Aug. 13, 1981, 95 Stat. 889; Pub. L. 99–272, title XIII, §§13003(a)(3), 13004(c), Apr. 7, 1986, 100 Stat. 301, 303; Pub. L. 100–418, title I, §§1423(a)(4), 1424(d)(1)(B), (2), Aug. 23, 1988, 102 Stat. 1246, 1250; Pub. L. 105–220, title III, §321, Aug. 7, 1998, 112 Stat. 1087; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(14)(B), (f)(11)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–421, 2681–431; Pub. L. 111–5, div. B, title I, §§1852, 1853, Feb. 17, 2009, 123 Stat. 390, 392; Pub. L. 112–40, title II, §§201(b), (c), 216(a)(1), Oct. 21, 2011, 125 Stat. 403, 407.)
 
-#### Amendment of Section
+#### Reversion to Provisions in Effect on February 13, 2011
 
-<i>For termination of amendment by section 1893 of Pub. L. 111–5, see Effective and Termination Dates of 2009 Amendment note below.</i>
+<i>For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to section 233(b) of Pub. L. 112–40, see Codification and Effective and Termination Dates of 2011 Revival notes below.</i>
 
 #### References in Text
 
@@ -120,29 +122,43 @@ Section is comprised of subsecs. (a) to (k) of section 239 of Pub. L. 93–618. 
 
 Amendment by section 1852(b)(1) of Pub. L. 111–5, which directed the temporary redesignation of subsecs. (c) through (g) of section 239 of Pub. L. 93–618 as subsecs. (d) through (h), respectively, was executed by redesignating subsecs. (c) to (g) set out in this section and not redesignating the subsec. (e) that amended section 3302 of Title 26, Internal Revenue Code, to reflect the probable intent of Congress.
 
+Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination of amendment by Pub. L. 111–5, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, and the provisions of this section, as amended by Pub. L. 111–5 and as in effect on Feb. 12, 2011, were temporarily revived, effective Oct. 21, 2011, until Jan. 1, 2014, by Pub. L. 112–40, §§201(b), (c), 233. See 2009 and 2011 Amendment notes, Effective and Termination Dates of 2009 Amendment notes, and Effective and Termination Dates of 2011 Revival note below.
+
 Amendment by section 1424(d)(1)(B) of Pub. L. 100–418, which directed amendment of subsec. (e) of section 239 of Pub. L. 93–618, was executed to the subsec. (e) (now subsec. (f)) set out in this section and not the subsec. (e) that amended section 3302 of Title 26, Internal Revenue Code, to reflect the probable intent of Congress.
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a)(1). Pub. L. 111–5, §§1852(a)(2), 1893, temporarily substituted “shall” for “will” in two places. See Effective and Termination Dates of 2009 Amendment note below.
+<b>2011</b>—Pub. L. 112–40, §§201(b), (c), 233, temporarily revived the provisions of this section, as in effect on Feb. 12, 2011. See Codification note above and 2009 Amendment and Effective and Termination Dates of 2011 Revival notes below.
 
-Subsec. (a)(2). Pub. L. 111–5, §§1852(a)(1), 1893, temporarily amended cl. (2) generally. Prior to amendment, cl. (2) read as follows: “where appropriate, but in accordance with subsection (f) of this section, will afford adversely affected workers testing, counseling, referral to training and job search programs, and placement services,”. See Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (j)(2)(A). Pub. L. 112–40, §§216(a)(1), 233, temporarily amended subpar. (A) generally. Prior to amendment, text read as follows: “The core indicators of performance described in this paragraph are—
 
-Subsec. (a)(3), (4). Pub. L. 111–5, §§1852(a)(2), 1893, temporarily substituted “shall” for “will”. See Effective and Termination Dates of 2009 Amendment note below.
+&emsp;“(i) the percentage of workers receiving benefits under this part who are employed during the second calendar quarter following the calendar quarter in which the workers cease receiving such benefits;
 
-Subsecs. (c) to (f). Pub. L. 111–5, §§1852(b), 1893, temporarily added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively. Former subsec. (f) temporarily redesignated (g). See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+&emsp;“(ii) the percentage of such workers who are employed in each of the third and fourth calendar quarters following the calendar quarter in which the workers cease receiving such benefits; and
 
-Subsec. (g). Pub. L. 111–5, §§1852(b)(1), 1893, temporarily redesignated subsec. (f) as (g). Former subsec. (g) temporarily redesignated (h). See Effective and Termination Dates of 2009 Amendment note below.
+&emsp;“(iii) the earnings of such workers in each of the third and fourth calendar quarters following the calendar quarter in which the workers cease receiving such benefits.”
 
-Subsec. (g)(3). Pub. L. 111–5, §§1852(c)(1), 1893, temporarily struck out “and” at end. See Effective and Termination Dates of 2009 Amendment note below.
+> See Codification note above and Effective and Termination Dates of 2011 Revival note below.
 
-Subsec. (g)(4). Pub. L. 111–5, §§1852(c)(2), 1893, temporarily amended par. (4) generally. Prior to amendment, par. (4) read as follows: “as soon as practicable, interview the adversely affected worker regarding suitable training opportunities available to the worker under section 2296 of this title and review such opportunities with the worker.” See Effective and Termination Dates of 2009 Amendment note below.
+<b>2009</b>—Subsec. (a)(1). Pub. L. 111–5, §§1852(a)(2), 1893, temporarily substituted “shall” for “will” in two places. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (g)(5). Pub. L. 111–5, §§1852(c)(3), 1893, temporarily added par. (5). See Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (a)(2). Pub. L. 111–5, §§1852(a)(1), 1893, temporarily amended cl. (2) generally. Prior to amendment, cl. (2) read as follows: “where appropriate, but in accordance with subsection (f) of this section, will afford adversely affected workers testing, counseling, referral to training and job search programs, and placement services,”. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (h). Pub. L. 111–5, §§1852(b)(1), (d), 1893, temporarily redesignated subsec. (g) as (h) and substituted “1998 (29 U.S.C. 2822(b)) and a description of the State's rapid response activities under section 2271(a)(2)(A) of this title.” for “1998.” See Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (a)(3), (4). Pub. L. 111–5, §§1852(a)(2), 1893, temporarily substituted “shall” for “will”. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsecs. (i) to (k). Pub. L. 111–5, §§1852(e), 1853, 1893, temporarily added subsecs. (i) to (k). See Effective and Termination Dates of 2009 Amendment note below.
+Subsecs. (c) to (f). Pub. L. 111–5, §§1852(b), 1893, temporarily added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively. Former subsec. (f) temporarily redesignated (g). See Codification notes above and Effective and Termination Dates of 2009 Amendment note below.
+
+Subsec. (g). Pub. L. 111–5, §§1852(b)(1), 1893, temporarily redesignated subsec. (f) as (g). Former subsec. (g) temporarily redesignated (h). See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+
+Subsec. (g)(3). Pub. L. 111–5, §§1852(c)(1), 1893, temporarily struck out “and” at end. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+
+Subsec. (g)(4). Pub. L. 111–5, §§1852(c)(2), 1893, temporarily amended par. (4) generally. Prior to amendment, par. (4) read as follows: “as soon as practicable, interview the adversely affected worker regarding suitabletraining opportunities available to the worker under section 2296 of this title and review such opportunities with the worker.” See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+
+Subsec. (g)(5). Pub. L. 111–5, §§1852(c)(3), 1893, temporarily added par. (5). See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+
+Subsec. (h). Pub. L. 111–5, §§1852(b)(1), (d), 1893, temporarily redesignated subsec. (g) as (h) and substituted “1998 (29 U.S.C. 2822(b)) and a description of the State's rapid response activities under section 2271(a)(2)(A) of this title.” for “1998.” See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+
+Subsecs. (i) to (k). Pub. L. 111–5, §§1852(e), 1853, 1893, temporarily added subsecs. (i) to (k). See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
 <b>1998</b>—Subsec. (e). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(11)(B)\], struck out “title III of the Job Training Partnership Act or” before “title I of the”.
 
@@ -176,11 +192,23 @@ Subsecs. (e), (f). Pub. L. 99–272, §13004(c)(2), added subsecs. (e) and (f).
 
 <b>1981</b>—Subsec. (a). Pub. L. 97–35 struck out provisions respecting persons applying for payments under this part.
 
+#### Effective and Termination Dates of 2011 Revival
+
+For temporary revival and applicability of provisions as in effect on Feb. 12, 2011, see sections 201(b), (c) and 233 of Pub. L. 112–40, set out as notes preceding section 2271 of this title. For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to section 233(b) of Pub. L. 112–40, see section 233 of Pub. L. 112–40, set out as a note preceding section 2271 of this title.
+
+#### Effective Date of 2011 Amendment
+
+Pub. L. 112–40, title II, §216(a)(2), Oct. 21, 2011, 125 Stat. 407, provided that: “The amendment made by paragraph (1) \[amending this section\] shall—
+
+&emsp;“(A) take effect on October 1, 2011; and
+
+&emsp;“(B) apply with respect to agreements under section 239 of the Trade Act of 1974 (19 U.S.C. 2311) entered into before, on, or after October 1, 2011.”
+
 #### Effective and Termination Dates of 2009 Amendment
 
 Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title.
 
-Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and this section to be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
+Section 1893 of Pub. L. 111–5, which provided that, except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and that this section be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403. See Codification note above.
 
 #### Effective Date of 1998 Amendment
 
@@ -200,7 +228,7 @@ Amendment by Pub. L. 97–35 effective Aug. 1981, with transition provisions app
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after Feb. 12, 2011, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after Dec. 31, 2013, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

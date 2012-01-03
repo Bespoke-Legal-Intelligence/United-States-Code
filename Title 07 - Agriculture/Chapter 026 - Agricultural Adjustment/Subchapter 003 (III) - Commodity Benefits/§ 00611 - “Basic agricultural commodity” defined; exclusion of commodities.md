@@ -6,9 +6,9 @@ As used in this chapter, the term “basic agricultural commodity” means wheat
 
 #### Amendments
 
-1935—Act Aug. 24, 1935, inserted “, potatoes” after “rice” and last sentence defining potatoes.
+<b>1935</b>—Act Aug. 24, 1935, inserted “, potatoes” after “rice” and last sentence defining potatoes.
 
-1934—Act May 9, 1934, inserted “, sugar beets and sugarcane” after “tobacco”.
+<b>1934</b>—Act May 9, 1934, inserted “, sugar beets and sugarcane” after “tobacco”.
 
 Act Apr. 7, 1934, inserted “, cattle” after “hogs”, “, peanuts” after “tobacco”, “, rye, flax, barley” after “wheat”, and “, grain sorghums” after “field corn”.
 

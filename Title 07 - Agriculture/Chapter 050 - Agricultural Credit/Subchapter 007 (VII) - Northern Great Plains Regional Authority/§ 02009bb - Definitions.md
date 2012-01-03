@@ -36,7 +36,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Par. (4). Pub. L. 110–246, §6026(a), inserted “Missouri (other than counties included in the Delta Regional Authority),” after “Minnesota,”.
+<b>2008</b>—Par. (4). Pub. L. 110–246, §6026(a), inserted “Missouri (other than counties included in the Delta Regional Authority),” after “Minnesota,”.
 
 #### Effective Date of 2008 Amendment
 

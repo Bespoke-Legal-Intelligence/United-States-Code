@@ -24,7 +24,7 @@ When used in subchapter II of this chapter:
 
 #### (A) In general
 
-&emsp;&emsp;The term “surviving spouse” means the surviving wife or husband of a participant or retired participant who (i) was married to the participant or retired participant for at least 9 months immediately preceding the participant's or retired participant's death, or (ii) who is the parent of a child born of the marriage.
+&emsp;&emsp;The term “surviving spouse” means the surviving wife or husband of a participant orretired participant who (i) was married to the participant or retired participant for at least 9 months immediately preceding the participant's or retired participant's death, or (ii) who is the parent of a child born of the marriage.
 
 #### (B) Treatment when participant dies less than 9 months after marriage
 
@@ -108,7 +108,7 @@ For purposes of sections 2031 and 2052 of this title:
 
 #### (A) Extension of age termination of status as “child”
 
-&emsp;&emsp;For purposes of this subsection, a child whose 22nd birthday occurs before July 1 or after August 31 of a calendar year, and while regularly pursuing such a course of study or training, shall be treated as having attained the age of 22 on the first day of July following that birthday.
+&emsp;&emsp;For purposes of this subsection, a child whose 22nd birthday occurs before July 1 orafter August 31 of a calendar year, and while regularly pursuing such a course of study or training, shall be treated as having attained the age of 22 on the first day of July following that birthday.
 
 #### (B) Treatment of interim period between school years
 

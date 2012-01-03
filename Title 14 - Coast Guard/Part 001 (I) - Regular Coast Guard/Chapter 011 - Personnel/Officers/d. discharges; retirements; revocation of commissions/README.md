@@ -18,7 +18,7 @@ d. discharges; retirements; revocation of commissions
 - [&sect; 00290 - Rear admirals and rear admirals (lower half); continuation on active duty; involuntary retirement](%C2%A7%2000290%20-%20Rear%20admirals%20and%20rear%20admirals%20%28lower%20half%29%3B%20continuation%20on%20active%20duty%3B%20involuntary%20retirement.md)
 - [&sect; 00291 - Voluntary retirement after twenty years&#8217; service](%C2%A7%2000291%20-%20Voluntary%20retirement%20after%20twenty%20years%E2%80%99%20service.md)
 - [&sect; 00292 - Voluntary retirement after thirty years&#8217; service](%C2%A7%2000292%20-%20Voluntary%20retirement%20after%20thirty%20years%E2%80%99%20service.md)
-- [&sect; 00293 - Compulsory retirement at age of sixty-two](%C2%A7%2000293%20-%20Compulsory%20retirement%20at%20age%20of%20sixty-two.md)
+- [&sect; 00293 - Compulsory retirement](%C2%A7%2000293%20-%20Compulsory%20retirement.md)
 - [&sect; 00294 - Retirement for physical disability after selection for promotion; grade in which retired](%C2%A7%2000294%20-%20Retirement%20for%20physical%20disability%20after%20selection%20for%20promotion%3B%20grade%20in%20which%20retired.md)
 - [&sect; 00295 - Deferment of retirement or separation for medical reasons](%C2%A7%2000295%20-%20Deferment%20of%20retirement%20or%20separation%20for%20medical%20reasons.md)
 - [&sect; 00301, 302 - Repealed. Pub. L. 88&#8211;130, &sect;1(10)(A), Sept. 24, 1963, 77 Stat. 177](%C2%A7%2000301%2C%20302%20-%20Repealed.%20Pub.%20L.%2088%E2%80%93130%2C%20%C2%A71%2810%29%28A%29%2C%20Sept.%2024%2C%201963%2C%2077%20Stat.%20177.md)

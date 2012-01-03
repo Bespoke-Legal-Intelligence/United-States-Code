@@ -6,9 +6,9 @@ Any transfer avoided under section 522, 544, 545, 547, 548, 549, or 724(a) of th
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
-Section 551 is adopted from the House bill and the alternative in the Senate amendment is rejected. The section is clarified to indicate that a transfer avoidedor a lien that is void is preserved for the benefit of the estate, but only with respect to property of the estate. This prevents the trustee from asserting an avoided tax lien against after acquired property of the debtor.
+Section 551 is adopted from the House bill and the alternative in the Senate amendment is rejected. The section is clarified to indicate that a transfer avoided or a lien that is void is preserved for the benefit of the estate, but only with respect to property of the estate. This prevents the trustee from asserting an avoided tax lien against after acquired property of the debtor.
 
 #### senate report no. 95–989
 

@@ -10,11 +10,11 @@ A Commission shall—
 
 &emsp;(4)(A) enhance the capacity of, and provide support for, local development districts in its region; or
 
-&emsp;(B) if no local development district exists in an area in a participating State in the region, foster the creation of a local development district;
+&emsp;(B) if no local development district exists in an area in a participating State in the region,foster the creation of a local development district;
 
 &emsp;(5) encourage private investment in industrial, commercial, and other economic development projects in its region;
 
-&emsp;(6) cooperate with and assist State governments with the preparation of economic andinfrastructure development plans and programs for participating States;
+&emsp;(6) cooperate with and assist State governments with the preparation of economic and infrastructure development plans and programs for participating States;
 
 &emsp;(7) formulate and recommend to the Governors and legislatures of States that participate in the Commission forms of interstate cooperation and, where appropriate, international cooperation; and
 

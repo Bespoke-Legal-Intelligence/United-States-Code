@@ -170,7 +170,7 @@ Notwithstanding any other provision of law, at the election of the school board 
 
 #### (1) In general
 
-&emsp;Tuition for the instruction of each out-of-State Indian student in a home-living situation at the Richfield dormitory in Richfield, Utah, who attends Sevier County high schools in Richfield, Utah, for an academic year, shall be paid from Indian school equalization program funds authorized in this section and section 2009 <sup>2</sup> of this title, at a rate not to exceed the weighted amount provided for under subsection (b) of this section for a student for that year.
+&emsp;Tuition for the instruction of each out-of-State Indian student in a home-living situation at the Richfield dormitory in Richfield, Utah, who attends Sevier County high schools in Richfield, Utah, for an academic year, shall be paid from Indian school equalization program funds authorized in this section and section 2009 <sup>2</sup> of this title, at a rate not to exceedthe weighted amount provided for under subsection (b) of this section for a student for that year.
 
 #### (2) No administrative cost funds
 

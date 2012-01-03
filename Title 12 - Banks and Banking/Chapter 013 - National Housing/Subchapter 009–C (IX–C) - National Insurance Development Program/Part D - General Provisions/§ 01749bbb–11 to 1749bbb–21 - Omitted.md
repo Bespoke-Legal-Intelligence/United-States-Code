@@ -2,7 +2,7 @@
 
 #### Codification
 
-Sections 1749bbb–11 to 1749bbb–21, comprising part D of this subchapter, terminated on Sept. 30, 1995, with certain exceptions, pursuant to former section 1749bbb(b) of this title.
+Sections 1749bbb–11 to 1749bbb–21, comprising part D of this subchapter, terminated on Sept. 30, 1995, withcertain exceptions, pursuant to former section 1749bbb(b) of this title.
 
 Section 1749bbb–11, act June 27, 1934, ch. 847, title XII, §1241, formerly §1231, as added Pub. L. 90–448, title XI, §1103, Aug. 1, 1968, 82 Stat. 563; renumbered §1241 and amended Pub. L. 91–609, title VI, §602(d), (g), (h), Dec. 31, 1970, 84 Stat. 1789, 1790; Pub. L. 98–181, title IV, §452(b)(1), Nov. 30, 1983, 97 Stat. 1230, related to submission of claims, judicial review, jurisdiction, and statute of limitations.
 

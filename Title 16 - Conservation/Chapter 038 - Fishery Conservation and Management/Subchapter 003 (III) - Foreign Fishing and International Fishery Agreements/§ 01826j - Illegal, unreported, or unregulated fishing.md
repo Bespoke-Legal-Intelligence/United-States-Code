@@ -56,7 +56,7 @@ No later than 60 days after submitting a report to Congress under section 1826h 
 
 &emsp;&emsp;&emsp;(i) to the extent that such provisions would apply to sport fishing equipment or to fish or fish products not managed under the applicable international fishery agreement; or
 
-&emsp;&emsp;&emsp;(ii) if there is no applicable international fishery agreement, to the extent that suchprovisions would apply to fish or fish products caught by vessels not engaged in illegal, unreported, or unregulated fishing.
+&emsp;&emsp;&emsp;(ii) if there is no applicable international fishery agreement, to the extent that such provisions would apply to fish or fish products caught by vessels not engaged in illegal, unreported, or unregulated fishing.
 
 #### (e) Illegal, unreported, or unregulated fishing defined
 
@@ -76,7 +76,7 @@ No later than 60 days after submitting a report to Congress under section 1826h 
 
 &emsp;&emsp;(B) overfishing of fish stocks shared by the United States, for which there are no applicable international conservation or management measures or in areas with no applicable international fishery management organization or agreement, that has adverse impacts on such stocks; and
 
-&emsp;&emsp;(C) fishing activity that has an adverse impact on seamounts, hydrothermal vents, and cold water corals located beyond national jurisdiction, for which there are no applicable conservation or management measures or in areas with no applicable international fishery management organization or agreement.
+&emsp;&emsp;(C) fishing activity that has an adverse impact on seamounts, hydrothermal vents, and cold water corals located beyond nationaljurisdiction, for which there are no applicable conservation or management measures or in areas with no applicable international fishery management organization or agreement.
 
 #### (f) Authorization of appropriations
 

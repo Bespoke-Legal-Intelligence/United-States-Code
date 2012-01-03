@@ -50,7 +50,7 @@
 
 #### (1) In general
 
-&emsp;From amounts made available under section 7103(2) of this title to carry out this subpart, the Secretary, in consultation with the Advisory Committee, shall carry out scientifically based research programs to strengthen the accountability and effectiveness of the State, chief executive officer's, and national programs under this part.
+&emsp;From amounts made available under section 7103(2) of this title to carry out this subpart,the Secretary, in consultation with the Advisory Committee, shall carry out scientifically based research programs to strengthen the accountability and effectiveness of the State, chief executive officer's, and national programs under this part.
 
 #### (2) Grants, contracts or cooperative agreements
 
@@ -64,7 +64,7 @@
 
 &emsp;Activities that may be carried out under programs funded under this section may include—
 
-&emsp;&emsp;(A) the provision of technical assistance and training, in collaboration with other Federal agencies utilizing their expertiseand national and regional training systems, for Governors, State educational agencies and local educational agencies to support high quality, effective programs that—
+&emsp;&emsp;(A) the provision of technical assistance and training, in collaboration with other Federal agencies utilizing their expertise and national and regional training systems, for Governors, State educational agencies and local educational agencies to support high quality, effective programs that—
 
 &emsp;&emsp;&emsp;(i) provide a thorough assessment of the substance abuse and violence problem;
 

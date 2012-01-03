@@ -8,7 +8,7 @@ Section 857–1, Pub. L. 91–621, §1, Dec. 31, 1970, 84 Stat. 1863, related to
 
 Section 857–2, Pub. L. 91–621, §2, Dec. 31, 1970, 84 Stat. 1863, related to retirement grade and pay. See section 3046 of this title.
 
-Section 857–3, Pub. L. 91–621, §3, Dec. 31, 1970, 84 Stat. 1863; Pub. L. 98–498, title III, §310(a), Oct. 19, 1984, 98 Stat. 2306; Pub. L. 102–54, §13(m)(3), June 13, 1991, 105 Stat. 277, related to service for purposes of certain statutory rights, privileges, immunities, and benefits and provision of medical and dental care. See sections 3072 and 3073 of this title.
+Section 857–3, Pub. L. 91–621, §3, Dec. 31, 1970, 84 Stat. 1863; Pub. L. 98–498, title III, §310(a), Oct. 19, 1984, 98 Stat. 2306; Pub. L. 102–54, §13(m)(3), June 13, 1991, 105 Stat. 277, related to service for purposes of certain statutory rights, privileges, immunities, and benefits andprovision of medical and dental care. See sections 3072 and 3073 of this title.
 
 Section 857–4, Pub. L. 91–621, §4, Dec. 31, 1970, 84 Stat. 1863, related to commissary privileges. See section 3074 of this title.
 

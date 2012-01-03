@@ -26,7 +26,7 @@ The election of the Chairman and Vice Chairman of the Board shall take place at 
 
 #### (g) Appointment and assignment of staff; compensation; security requirements
 
-The Board may, with the concurrence of a majority of its members, permit the appointmentof a staff consisting of professional staff members, technical and professional personnel on leave of absence from academic, industrial, or research institutions for a limited term, and such operations and support staff members as may be necessary. Such staff shall be appointed by the Chairman and assigned at the direction of the Board. The professional members and limited term technical and professional personnel of such staff may be appointed without regard to the provisions of title 5 governing appointments in the competitive service, and the provisions of chapter 51 of such title relating to classification, and shall be compensated at a rate not exceeding the maximum rate payable under section 5376 of such title, as may be necessary to provide for the performance of such duties as may be prescribed by the Board in connection with the exercise of its powers and functions under this chapter. Section 1873(a)(3) of this title shall apply to each limited term appointment of technical and professional personnel under this subsection. Each appointment under this subsection shall be subject to the same security requirements as those required for personnel of the Foundation appointed under section 1873(a) of this title.
+The Board may, with the concurrence of a majority of its members, permit the appointment of a staff consisting of professional staff members, technical and professional personnel on leave of absence from academic, industrial, or research institutions for a limited term, and such operations and support staff members as may be necessary. Such staff shall be appointed by the Chairman and assigned at the direction of the Board. The professional members and limited term technical and professional personnel of such staff may be appointed without regard to the provisions of title 5 governing appointments in the competitive service, and the provisions of chapter 51 of such title relating to classification, and shall be compensated at a rate not exceeding the maximum rate payable under section 5376 of such title, as may be necessary to provide for the performance of such duties as may be prescribed by the Board in connection with the exercise of its powers and functions under this chapter. Section 1873(a)(3) of this title shall apply to each limited term appointment of technical and professional personnel under this subsection. Each appointment under this subsection shall be subject to the same security requirements as those required for personnel of the Foundation appointed under section 1873(a) of this title.
 
 #### (h) Special commissions
 
@@ -78,7 +78,7 @@ Subsecs. (k), (<i>l</i>). Pub. L. 105–207, §202(a)(1)(B), redesignated subsec
 
 Pub. L. 100–570, §105(a), added subsec. (k) relating to closed meetings.
 
-<b>1985</b>—Subsec. (c). Pub. L. 99–159, §110(a)(12), inserted “and engineering”, “and engineers”, and “the NationalAcademy of Engineering,” and inserted “, engineering,” after “other scientific”.
+<b>1985</b>—Subsec. (c). Pub. L. 99–159, §110(a)(12), inserted “and engineering”, “and engineers”, and “the National Academy of Engineering,” and inserted “, engineering,” after “other scientific”.
 
 Subsec. (e). Pub. L. 99–159, §109(a), struck out requirement that notice be made to members by registered or certified mail mailed to the last known address of record.
 
@@ -102,7 +102,7 @@ Subsecs. (h) to (j). Pub. L. 94–282 redesignated subsecs. (h) to (j) as (g) to
 
 Subsec. (b). Pub. L. 90–407 added subsec. (b). Former subsec. (b) redesignated (d).
 
-Subsec. (c). Pub. L. 90–407 redesignated provisions of former subsec. (a) as (c) and added social science and research management to the enumerated fields of eminence, and substituted “the National Association of State Universities and Land Grant Colleges, the Association of American Universities, the Association of American Colleges, the Association of State Colleges and Universities” for “the Association of Land Grant Colleges and Universities, the National Association of State Universities, the Association of American Colleges”. Former subsec. (c), which provided that “The President shall call the first meeting of the Board, at which the first order of business shall be the election of a chairman and a vice chairman”, was struck out as executed.
+Subsec. (c). Pub. L. 90–407 redesignated provisions of former subsec. (a) as (c) and added social science and research management to the enumerated fields of eminence, and substituted “the National Association of State Universities and Land Grant Colleges, the Association of American Universities, the Association of American Colleges, the Association of State Colleges and Universities” for “the Association of Land Grant Colleges and Universities, the National Association of State Universities, the Association of American Colleges”. Former subsec. (c), which provided that “The President shall call the first meeting of the Board, atwhich the first order of business shall be the election of a chairman and a vice chairman”, was struck out as executed.
 
 Subsec. (d). Pub. L. 90–407 redesignated former subsec. (b) as (d), substituted “term of office of each member” for “term of office of each voting member”, struck out “the terms of office of the members first taking office after May 10, 1950, shall expire, as designated by the President at the time of appointment, eight at the end of two years, eight at the end of four years, and eight at the end of six years, after May 10, 1950”, and provided for exemption of Director from prohibition against reappointment within two years following twelve consecutive years of Board membership. Former subsec. (d) redesignated (e).
 
@@ -120,7 +120,7 @@ Subsec. (e). Pub. L. 86–232 substituted provision for an election of a Chairma
 
 #### References to Maximum Rate Under 5 U.S.C. 5376
 
-Except as otherwise provided, reference to maximum rate under section 5376 of Title 5, Government Organization and Employees, before first day of first pay period beginning on or after 180th day after Oct. 8, 2008, considered reference to basic pay rate for level IV of Executive Schedule (5 U.S.C. 5315) and reference to maximum rate on or after first day of first pay period beginning on or after 180th day after Oct. 8, 2008, considered reference to basic pay rate for level III of Executive Schedule (5 U.S.C. 5314), or for level II of the Executive Schedule (5 U.S.C. 5313) for certain employees, see section 2(d)(3) of Pub. L. 110–372, set out as an Effective Date of 2008 Amendment note under section 5376 of Title 5.
+For reference to maximum rate under section 5376 of Title 5, Government Organization and Employees, see section 2(d)(3) of Pub. L. 110–372, set out as an Effective Date of 2008 Amendment note under section 5376 of Title 5.
 
 #### Termination of Advisory Committees
 

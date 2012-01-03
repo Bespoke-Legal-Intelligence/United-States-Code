@@ -72,7 +72,7 @@ In the case of a corporation, there shall be allowed as a deduction an amount eq
 
 #### (2) 20-percent owned corporation
 
-&emsp;For purposes of this section, the term “20-percent owned corporation” means any corporation if 20 percent or more of the stock of such corporation (by vote and value) is owned by the taxpayer. For purposes of the preceding sentence, stock described in section 1504(a)(4) shall not be taken into account.
+&emsp;For purposes of this section, the term “20-percent owned corporation” means any corporation if 20 percent or more of the stock ofsuch corporation (by vote and value) is owned by the taxpayer. For purposes of the preceding sentence, stock described in section 1504(a)(4) shall not be taken into account.
 
 #### (d) Special rules for certain distributions
 
@@ -232,7 +232,7 @@ Presumption of election under section 617.—For purposes of section 617 of the 
 
 #### Effective Date of 1968 Amendment
 
-Section 103(f) of Pub. L. 90–364 provided that: “Except as provided by section 104 \[formerly set out as notes under sections 51 and 6154 of this title\], the amendments made by this section \[enacting section 6425, amending this section and sections 6020, 6154, 6651, 6655, 7203, and 7701, and repealing sections 6016 and 6074 of this title\] shall apply with respect to taxable years beginning after December 31, 1967.”
+Section 103(f) of Pub. L. 90–364 provided that: “Except as provided by section 104 \[formerly set out as notesunder sections 51 and 6154 of this title\], the amendments made by this section \[enacting section 6425, amending this section and sections 6020, 6154, 6651, 6655, 7203, and 7701, and repealing sections 6016 and 6074 of this title\] shall apply with respect to taxable years beginning after December 31, 1967.”
 
 #### Effective Date of 1964 Amendment
 
@@ -246,7 +246,7 @@ Amendment by section 10(g) of Pub. L. 86–779 applicable with respect to taxabl
 
 #### Effective Date of 1958 Amendment
 
-Section 57(d) of Pub. L. 85–866 provided that: “The amendments made by this section \[enacting sections 1242 and 1243 and amending this section and sections 165and 246 of this title\] shall apply with respect to taxable years beginning after the date of the enactment of this Act \[Sept. 2, 1958\].”
+Section 57(d) of Pub. L. 85–866 provided that: “The amendments made by this section \[enacting sections 1242 and 1243 and amending this section and sections 165 and 246 of this title\] shall apply with respect to taxable years beginning after the date of the enactment of this Act \[Sept. 2, 1958\].”
 
 #### Savings Provision
 

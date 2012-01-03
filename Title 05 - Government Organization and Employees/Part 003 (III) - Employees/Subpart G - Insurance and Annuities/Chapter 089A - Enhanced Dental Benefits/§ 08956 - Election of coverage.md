@@ -1,6 +1,6 @@
 ### §8956. Election of coverage
 
-(a) An eligible individual may enroll in a dental benefits plan for self-only, self plus one, or for self and family. If an eligible individual has a spouse who is also eligible to enroll, either spouse, but not both, may enroll for self plus one or self and family. An individual may not be enrolled both as an employee, annuitant, or other individual eligible to enroll and as a member of the family.
+(a) An eligible individual may enroll in a dental benefits plan for self-only, self plus one, or for self and family. If an eligible individual hasa spouse who is also eligible to enroll, either spouse, but not both, may enroll for self plus one or self and family. An individual may not be enrolled both as an employee, annuitant, or other individual eligible to enroll and as a member of the family.
 
 (b) The Office shall prescribe regulations under which—
 
@@ -10,7 +10,7 @@
 
 (c)(1) Regulations under subsection (b) shall permit an eligible individual to cancel or transfer the enrollment of that individual to another dental benefits plan—
 
-&emsp;(A) before the start of any contract term in which there is a change in rates charged orbenefits provided, in which a new plan is offered, or in which an existing plan is terminated; or
+&emsp;(A) before the start of any contract term in which there is a change in rates charged or benefits provided, in which a new plan is offered, or in which an existing plan is terminated; or
 
 &emsp;(B) during other times and under other circumstances specified by the Office.
 

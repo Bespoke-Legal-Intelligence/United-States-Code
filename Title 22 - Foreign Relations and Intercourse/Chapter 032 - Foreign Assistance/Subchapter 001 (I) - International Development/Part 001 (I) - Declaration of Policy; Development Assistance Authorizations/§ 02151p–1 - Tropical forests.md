@@ -38,7 +38,7 @@ In providing assistance to developing countries, the President shall do the foll
 
 &emsp;(4) To the fullest extent feasible, support training programs, educational efforts, and the establishment or strengthening of institutions which increase the capacity of developing countries to formulate forest policies, engage in relevant land-use planning, and otherwise improve the management of their forests.
 
-&emsp;(5) To the fullest extent feasible, help end destructive slash-and-burn agriculture by supporting stable and productive farming practices in areas already cleared or degraded and on lands which inevitably will be settled, with special emphasis on demonstrating the feasibility of agroforestry and other techniqueswhich use technologies and methods suited to the local environment and traditional agricultural techniques and feature close consultation with and involvement of local people.
+&emsp;(5) To the fullest extent feasible, help end destructive slash-and-burn agriculture by supporting stable and productive farming practices in areas already cleared or degraded and on lands which inevitably will be settled, with special emphasis on demonstrating the feasibility of agroforestry and other techniques which use technologies and methods suited to the local environment and traditional agricultural techniques and feature close consultation with and involvement of local people.
 
 &emsp;(6) To the fullest extent feasible, help conserve forests which have not yet been degraded, by helping to increase production on lands already cleared or degraded through support of reforestation, fuelwood, and other sustainable forestry projects and practices, making sure that local people are involved at all stages of project design and implementation.
 

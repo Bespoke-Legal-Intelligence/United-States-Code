@@ -86,15 +86,15 @@ A prior section 1204 was renumbered section 1211(b) of this title by Pub. L. 101
 
 #### Amendments
 
-1994—Subsec. (a)(1). Pub. L. 103–446, which directed the amendment of par. (1) by substituting “section 4303” for “section 4323” could not be executed because the phrase “section 4323” does not appear in text subsequent to the intervening amendment by Pub. L. 103–353 substituting “chapter 43” for “section 4323”. See below.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–446, which directed the amendment of par. (1) by substituting “section 4303” for “section 4323” could not be executed because the phrase “section 4323” does not appear in text subsequent to the intervening amendment by Pub. L. 103–353 substituting “chapter 43” for “section 4323”. See below.
 
 Pub. L. 103–353 substituted “chapter 43” for “section 4323”.
 
 Subsec. (m). Pub. L. 103–424 added subsec. (m).
 
-1992—Subsec. (a)(1). Pub. L. 102–568 substituted “4323” for “2023”.
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–568 substituted “4323” for “2023”.
 
-1989—Pub. L. 101–12, §3(a)(7), renumbered section 1205 of this title as this section.
+<b>1989</b>—Pub. L. 101–12, §3(a)(7), renumbered section 1205 of this title as this section.
 
 Pub. L. 101–12, §3(a)(7)(A), struck out “and Special Counsel” after “Board” in section catchline.
 
@@ -136,7 +136,7 @@ Subsec. (j). Pub. L. 101–12, §3(a)(7)(F), (I), redesignated former subsec. (i
 
 Subsecs. (k), (<i>l</i>). Pub. L. 101–12, §3(a)(7)(F), redesignated former subsecs. (j) and (k) as (k) and (<i>l</i>), respectively.
 
-1982—Subsec. (j). Pub. L. 97–258 substituted “section 1105 of title 31” for “section 201 of the Budget and Accounting Act, 1921 (31 U.S.C. 11)”.
+<b>1982</b>—Subsec. (j). Pub. L. 97–258 substituted “section 1105 of title 31” for “section 201 of the Budget and Accounting Act, 1921 (31 U.S.C. 11)”.
 
 #### Effective Date of 1994 Amendments
 

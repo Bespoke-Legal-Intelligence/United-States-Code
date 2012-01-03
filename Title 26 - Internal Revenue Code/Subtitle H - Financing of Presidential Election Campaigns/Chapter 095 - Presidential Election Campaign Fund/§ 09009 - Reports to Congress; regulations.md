@@ -30,7 +30,7 @@ The Commission is authorized to prescribe such rules and regulations in accordan
 
 (3) For purposes of this subsection, the term “legislative days” does not include any calendar day on which both Houses of the Congress are not in session.
 
-(4) For purposes of this subsection, the term “rule or regulation” means a provision or seriesof interrelated provisions stating a single separable rule of law.
+(4) For purposes of this subsection, the term “rule or regulation” means a provision or series of interrelated provisions stating a single separable rule of law.
 
 (Added Pub. L. 92–178, title VIII, §801, Dec. 10, 1971, 85 Stat. 569; amended Pub. L. 93–443, title IV, §§404(c)(12), (13), 406(b)(1), 409, Oct. 15, 1974, 88 Stat. 1292, 1293, 1296, 1303; Pub. L. 94–283, title III, §304(a), May 11, 1976, 90 Stat. 498.)
 

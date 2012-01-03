@@ -1,12 +1,18 @@
 ### §4312. Effect on State law
 
-The provisions of this chapter do not supersede any provisions of the law of any State relating to the disclosure of yields payable or terms for accounts to the extent such State law requires the disclosure of such yields or terms for accounts, except to the extent that those laws are inconsistent with the provisions of this chapter, and then only to the extent of the inconsistency. The Board may determine whether such inconsistencies exist.
+The provisions of this chapter do not supersede any provisions of the law of any State relating to the disclosure of yields payable or terms for accounts to the extent such State law requires the disclosure of such yields or terms for accounts, except to the extent that those laws are inconsistent with the provisions of this chapter, and then only to the extent of the inconsistency. The Bureau may determine whether such inconsistencies exist.
 
-(Pub. L. 102–242, title II, §273, Dec. 19, 1991, 105 Stat. 2342; Pub. L. 102–550, title XVI, §1604(e)(2)(R), Oct. 28, 1992, 106 Stat. 4084.)
+(Pub. L. 102–242, title II, §273, Dec. 19, 1991, 105 Stat. 2342; Pub. L. 102–550, title XVI, §1604(e)(2)(R), Oct. 28, 1992, 106 Stat. 4084; Pub. L. 111–203, title X, §1100B(1), July 21, 2010, 124 Stat. 2109.)
 
 #### Amendments
 
-1992—Pub. L. 102–550 made technical amendment to references to “this chapter” wherever appearing to reflect correction of corresponding provision of original act.
+<b>2010</b>—Pub. L. 111–203 substituted “Bureau” for “Board”.
+
+<b>1992</b>—Pub. L. 102–550 made technical amendment to references to “this chapter” wherever appearing to reflect correction of corresponding provision of original act.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1992 Amendment
 

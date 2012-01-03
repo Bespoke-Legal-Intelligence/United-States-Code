@@ -4,7 +4,7 @@
 
 In order to maintain existing conformity between the Civil Service Retirement and Disability System under subchapter III of chapter 83 of title 5, and the Foreign Service Retirement and Disability System, whenever a law of general applicability is enacted which—
 
-&emsp;(1) affects the treatment of current or former participants, annuitants, or survivorsunder the Civil Service Retirement and Disability System; and
+&emsp;(1) affects the treatment of current or former participants, annuitants, or survivors under the Civil Service Retirement and Disability System; and
 
 &emsp;(2) affects treatment which, immediately prior to the enactment of such law, was substantially identical to the treatment accorded to participants, former participants, annuitants, or survivors under the Foreign Service Retirement and Disability System;
 
@@ -60,7 +60,7 @@ Section 1. (a) Section 826(c) of the Foreign Service Act of 1980 (22 U.S.C. 4066
 
 Sec. 2. Section 808(a) of the Foreign Service Act of 1980 (22 U.S.C. 4048(a)) is deemed to be amended by adding at the end thereof the following:
 
-“However, if a participant retiring under this section is receiving retired pay or retainer pay for military service (except that specified in Section 8332(c)(1) or (2) of title 5 of the United States Code) or Department of Veterans Affairs pension or compensation in lieu of such retired or retainer pay, the annuity of that participant shall be computed under this chapter excluding extra credit authorized by this subsection and excluding credit for military service from that computation. If the amount of the annuity so computed, plus the retired or retainer pay which is received, or which would be received but for the application of the limitation in Section 5532 of title 5 of the United States Code, or the Department of Veterans Affairs pension or compensation in lieu of such retired pay or retainer pay, is less than the annuity that would be payable under this chapter in the absence of the previous sentence, an amount equal to the difference shall be added to the annuity computed under this chapter.”.
+“However, if a participant retiring under this section is receiving retired pay or retainer pay for military service (except that specified in Section 8332(c)(1) or (2) of title 5 of the United States Code) or Department of Veterans Affairs pension or compensation in lieu of such retired or retainer pay, the annuity of that participant shall be computed under this chapter excluding extra credit authorized by this subsection and excluding credit for military service from that computation. If the amount of the annuity so computed, plus the retired or retainer pay which is received, or which would be received but for the application of the limitation in Section 5532 of title 5 of the United States Code, or the Department of Veterans Affairs pension or compensation in lieu of such retired pay or retainer pay, isless than the annuity that would be payable under this chapter in the absence of the previous sentence, an amount equal to the difference shall be added to the annuity computed under this chapter.”.
 
 Sec. 3. The amendments to be deemed made by this Order shall take effect as of February 15, 1981.
 
@@ -68,7 +68,7 @@ Sec. 3. The amendments to be deemed made by this Order shall take effect as of F
 
 Ex. Ord. No. 12446, Oct. 17, 1983, 48 F.R. 48443, provided:
 
-By the authority vested in me as President of the United States of America by Section 827 of the ForeignService Act of 1980 (22 U.S.C. 4067) (hereafter referred to as “the Act” \[this chapter\]), and in order to conform further the Foreign Service Retirement and Disability System to the Civil Service Retirement and Disability System, it is hereby ordered as follows:
+By the authority vested in me as President of the United States of America by Section 827 of the Foreign Service Act of 1980 (22 U.S.C. 4067) (hereafter referred to as “the Act” \[this chapter\]), and in order to conform further the Foreign Service Retirement and Disability System to the Civil Service Retirement and Disability System, it is hereby ordered as follows:
 
 Section 1. <i>Interest Rates, Deposits, Refunds, and Redeposits</i>. (a) The second sentence of Section 805(d)(3) of the Act (22 U.S.C. 4045(d)(3)), the first sentence of Section 815(h) (22 U.S.C. 4055(h)), and the first sentence of Section 825(a) (22 U.S.C. 4065(a)), are deemed to be amended to provide that interest shall be compounded at at the annual rate of 3 percent per annum through December 31, 1984, and thereafter at a rate equal to the overall average yield to the Fund during the preceding fiscal year from all obligations purchased by the Secretary of the Treasury during such fiscal year under section 819 \[22 U.S.C. 4059\], as determined by the Secretary of the Treasury.
 
@@ -198,7 +198,7 @@ Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 13105, Nov. 2, 1998, 63 F.R. 60201, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 827 of the Foreign Service Act of 1980 (22 U.S.C. 4067) and section 292 of the Central Intelligence Agency Retirement Act of 1964 (50 U.S.C.2141), and in order to conform further the Foreign Service Retirement and Disability System and the Central Intelligence Agency Retirement and Disability System to the Civil Service Retirement and Disability System, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 827 of the Foreign Service Act of 1980 (22 U.S.C. 4067) and section 292 of the Central Intelligence Agency Retirement Act of 1964 (50 U.S.C. 2141), and in order to conform further the Foreign Service Retirement and Disability System and the Central Intelligence Agency Retirement and Disability System to the Civil Service Retirement and Disability System, it is hereby ordered as follows:
 
 Section 1. In conjunction with section 860 of the Foreign Service Act of 1980 (22 U.S.C. 4071i), the Secretary of State shall issue regulations providing for an open enrollment period from November 1, 1998, to April 30, 1999, during which employee participants in the Foreign Service Retirement and Disability System may elect to become subject to the Foreign Service Pension System.
 

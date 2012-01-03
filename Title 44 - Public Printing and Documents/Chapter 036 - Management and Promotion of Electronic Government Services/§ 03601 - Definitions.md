@@ -8,7 +8,7 @@ In this chapter, the definitions under section 3502 shall apply, and the term—
 
 &emsp;(3) “electronic Government” means the use by the Government of web-based Internet applications and other information technologies, combined with processes that implement these technologies, to—
 
-&emsp;&emsp;(A) enhance the access to and delivery of Government information and services to the public, other agencies, and other Government entities; or
+&emsp;&emsp;(A) enhance the access to and delivery of Government information and services to thepublic, other agencies, and other Government entities; or
 
 &emsp;&emsp;(B) bring about improvements in Government operations that may include effectiveness, efficiency, service quality, or transformation;
 
@@ -98,7 +98,7 @@ Findings.—Congress finds the following:
 
 &emsp;“(1) The use of computers and the Internet is rapidly transforming societal interactions and the relationships among citizens, private businesses, and the Government.
 
-&emsp;“(2) The Federal Government has had uneven success in applying advances in information technology to enhance governmental functions and services, achieve more efficient performance, increase access to Government information, and increase citizen participation in Government.
+&emsp;“(2) The Federal Government has had uneven success in applying advances in information technologyto enhance governmental functions and services, achieve more efficient performance, increase access to Government information, and increase citizen participation in Government.
 
 &emsp;“(3) Most Internet-based services of the Federal Government are developed and presented separately, according to the jurisdictional boundaries of an individual department or agency, rather than being integrated cooperatively according to function or topic.
 

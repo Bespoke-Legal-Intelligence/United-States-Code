@@ -70,7 +70,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(A) is a law enforcement officer within the meaning of section 8331(20) or 8401(17);
 
-&emsp;&emsp;(B) in the case of an employee who holds a supervisory or administrative position and is subject to subchapter III of chapter 83, but who does not qualify to be considered a law enforcement officer within the meaning of section 8331(20), would so qualify if such employee had transferred directly to such position after serving as a law enforcement officer within the meaning of such section;
+&emsp;&emsp;(B) in the case of an employee who holds a supervisory or administrative position and is subject to subchapter III of chapter 83, butwho does not qualify to be considered a law enforcement officer within the meaning of section 8331(20), would so qualify if such employee had transferred directly to such position after serving as a law enforcement officer within the meaning of such section;
 
 &emsp;&emsp;(C) in the case of an employee who holds a supervisory or administrative position and is subject to chapter 84, but who does not qualify to be considered a law enforcement officer within the meaning of section 8401(17), would so qualify if such employee had transferred directly to such position after performing duties described in section 8401(17)(A) and (B) for at least 3 years; and
 
@@ -140,37 +140,37 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-2010—Par. (2)(iv)(II). Pub. L. 111–282 struck out “a member of the United States Secret Service Uniformed Division,” before “a member of the United States Park Police”.
+<b>2010</b>—Par. (2)(iv)(II). Pub. L. 111–282 struck out “a member of the United States Secret Service Uniformed Division,” before “a member of the United States Park Police”.
 
-2008—Par. (2)(xi). Pub. L. 110–181 substituted “section 5544 or 5550b” for “section 5544”.
+<b>2008</b>—Par. (2)(xi). Pub. L. 110–181 substituted “section 5544 or 5550b” for “section 5544”.
 
-1996—Par. (2)(xii). Pub. L. 104–201 inserted “or” after “Services Administration,” and struck out “, or a vessel employee of the Panama Canal Commission” after “Interior”.
+<b>1996</b>—Par. (2)(xii). Pub. L. 104–201 inserted “or” after “Services Administration,” and struck out “, or a vessel employee of the Panama Canal Commission” after “Interior”.
 
-1992—Par. (3). Pub. L. 102–378 added par. (3).
+<b>1992</b>—Par. (3). Pub. L. 102–378 added par. (3).
 
-1990—Par. (2)(iv). Pub. L. 101–509 amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: “a member of the Metropolitan Police, the Fire Department of the District of Columbia, the United States Park Police, or the Executive Protective Service;”.
+<b>1990</b>—Par. (2)(iv). Pub. L. 101–509 amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: “a member of the Metropolitan Police, the Fire Department of the District of Columbia, the United States Park Police, or the Executive Protective Service;”.
 
-1988—Par. (2)(xvii). Pub. L. 100–325 added cl. (xvii).
+<b>1988</b>—Par. (2)(xvii). Pub. L. 100–325 added cl. (xvii).
 
-1980—Par. (2)(xiv). Pub. L. 96–465 struck out “within the meaning of section 401 of the Foreign Service Act of 1946” after “officer”.
+<b>1980</b>—Par. (2)(xiv). Pub. L. 96–465 struck out “within the meaning of section 401 of the Foreign Service Act of 1946” after “officer”.
 
 Par. (2)(xv). Pub. L. 96–465 substituted “a member of the Senior Foreign Service” for “a ‘Foreign Service information officer’ as provided for by the first section of the Act entitled ‘An Act to promote the foreign policy of the United States by strengthening and improving the Foreign Service personnel system of the International Communication Agency through establishment of a Foreign Service Information Officer Corps’, approved August 20, 1968”.
 
-1979—Par. (2)(xii). Pub. L. 96–70 substituted “Commission” for “Company”.
+<b>1979</b>—Par. (2)(xii). Pub. L. 96–70 substituted “Commission” for “Company”.
 
-1978—Par. (2)(xvi). Pub. L. 95–454 added cl. (xvi).
+<b>1978</b>—Par. (2)(xvi). Pub. L. 95–454 added cl. (xvi).
 
 Par. (2)(xv). Pub. L. 95–426 substituted “International Communication Agency” for “United States Information Agency”.
 
-1977—Par. (2)(xiv), (xv). Pub. L. 95–105 added cls. (xiv) and (xv).
+<b>1977</b>—Par. (2)(xiv), (xv). Pub. L. 95–105 added cls. (xiv) and (xv).
 
-1975—Par. (2)(iv). Pub. L. 94–183 substituted “Executive Protective Service” for “White House Police”.
+<b>1975</b>—Par. (2)(iv). Pub. L. 94–183 substituted “Executive Protective Service” for “White House Police”.
 
-1972—Par. (2)(xi). Pub. L. 92–392 substituted “pay” for “basic pay” and provided for determination of pay under subchapter IV of chapter 53 of this title.
+<b>1972</b>—Par. (2)(xi). Pub. L. 92–392 substituted “pay” for “basic pay” and provided for determination of pay under subchapter IV of chapter 53 of this title.
 
-1970—Par. (2)(vi). Pub. L. 91–375 repealed cl. (vi) which excluded an employee in the postal field service from definition of “employee”.
+<b>1970</b>—Par. (2)(vi). Pub. L. 91–375 repealed cl. (vi) which excluded an employee in the postal field service from definition of “employee”.
 
-1967—Par. (2)(xii). Pub. L. 90–83 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey”. See Historical and Revision Notes under section 2101 of this title.
+<b>1967</b>—Par. (2)(xii). Pub. L. 90–83 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey”. See Historical and Revision Notes under section 2101 of this title.
 
 #### Effective Date of 2010 Amendment
 

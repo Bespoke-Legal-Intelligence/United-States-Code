@@ -40,7 +40,7 @@ Not later than 90 days after March 23, 2010, the Secretary shall establish a tem
 
 &emsp;&emsp;&emsp;(i) in which the issuer's share of the total allowed costs of benefits provided under such coverage is not less than 65 percent of such costs; and
 
-&emsp;&emsp;&emsp;(ii) that has an out of pocket limit not greater than the applicable amount described in section 223(c)(2) of title 26 forthe year involved, except that the Secretary may modify such limit if necessary to ensure the pool meets the actuarial value limit under clause (i);
+&emsp;&emsp;&emsp;(ii) that has an out of pocket limit not greater than the applicable amount described in section 223(c)(2) of title 26 for the year involved, except that the Secretary may modify such limit if necessary to ensure the pool meets the actuarial value limit under clause (i);
 
 &emsp;&emsp;(C) ensures that with respect to the premium rate charged for health insurance coverage offered to eligible individuals through the high risk pool, such rate shall—
 
@@ -78,7 +78,7 @@ An individual shall be deemed to be an eligible individual for purposes of this 
 
 &emsp;&emsp;&emsp;(i) the provision by the issuer or plan of money or other financial consideration for disenrolling from the coverage; or
 
-&emsp;&emsp;&emsp;(ii) in the case of an individual whose premium for the prior coverage exceeded the premium required by the program (adjusted based on the age factors applied to the prior coverage)—
+&emsp;&emsp;&emsp;(ii) in the case of an individual whose premium for the prior coverage exceededthe premium required by the program (adjusted based on the age factors applied to the prior coverage)—
 
 &emsp;&emsp;&emsp;&emsp;(I) the prior coverage is a policy that is no longer being actively marketed (as defined by the Secretary) by the issuer; or
 

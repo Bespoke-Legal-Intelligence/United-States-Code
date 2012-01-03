@@ -1,6 +1,6 @@
 ### §1856. Transfer of bartered materials to supplemental stockpile; limitation of acquisition to certain programs; authorization of appropriations
 
-(a) Strategic and other materials acquired by the Commodity Credit Corporation as a result of barter or exchange of agricultural commodities or products, unless acquired for the nationalstockpile established pursuant to the Strategic and Critical Materials Stock Piling Act \[50 U.S.C. 98 et seq.\], or for other purposes shall be transferred to the supplemental stockpile established by section 1704(b) <sup>1</sup> of this title; but no strategic or critical material shall be acquired by the Commodity Credit Corporation as a result of such barter or exchange except for such national stockpile, for such supplemental stockpile, for foreign economic or military aid or assistance programs, or for offshore construction programs, or to meet requirements of Government agencies.
+(a) Strategic and other materials acquired by the Commodity Credit Corporation as a result of barter or exchange of agricultural commodities or products, unless acquired for the national stockpile established pursuant to the Strategic and Critical Materials Stock Piling Act \[50 U.S.C. 98 et seq.\], or for other purposes shall be transferred to the supplemental stockpile established by section 1704(b) <sup>1</sup> of this title; but no strategic or critical material shall be acquired by the Commodity Credit Corporation as a result of such barter or exchange except for such national stockpile, for such supplemental stockpile, for foreign economic or military aid or assistance programs, or for offshore construction programs, or to meet requirements of Government agencies.
 
 (b) Repealed. Pub. L. 87–456, title III, §303(c), May 24, 1962, 76 Stat. 78.
 
@@ -16,13 +16,13 @@ Section 1704(b) of this title, referred to in subsec. (a), was amended generally
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–246 made technical amendment to reference in original act which appears in text as reference to section 1704(b) of this title.
+<b>2008</b>—Subsec. (a). Pub. L. 110–246 made technical amendment to reference in original act which appears in text as reference to section 1704(b) of this title.
 
-1962—Subsec. (b). Pub. L. 87–456 repealed subsec. (b) which permitted strategic materials acquired by Commodity Credit Corporation as a result of barter or exchange of agricultural commodities or products to be entered, or withdrawn from warehouse, free of duty.
+<b>1962</b>—Subsec. (b). Pub. L. 87–456 repealed subsec. (b) which permitted strategic materials acquired by Commodity Credit Corporation as a result of barter or exchange of agricultural commodities or products to be entered, or withdrawn from warehouse, free of duty.
 
-1959—Subsec. (a). Pub. L. 86–341 authorized acquisition of strategic and critical materials for national stockpile to meet requirements of Government agencies.
+<b>1959</b>—Subsec. (a). Pub. L. 86–341 authorized acquisition of strategic and critical materials for national stockpile to meet requirements of Government agencies.
 
-1958—Subsec. (a). Pub. L. 85–931 limited acquisition of strategic and critical materials for national stockpile, supplemental stockpile, foreign economic or military aid or assistance programs and offshore construction programs.
+<b>1958</b>—Subsec. (a). Pub. L. 85–931 limited acquisition of strategic and critical materials for national stockpile, supplemental stockpile, foreign economic or military aid or assistance programs and offshore construction programs.
 
 #### Effective Date of 2008 Amendment
 

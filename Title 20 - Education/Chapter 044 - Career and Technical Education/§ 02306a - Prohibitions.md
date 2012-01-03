@@ -18,7 +18,7 @@ Nothing in this section shall be construed to affect the requirements under sect
 
 #### (e) Coherent and rigorous content
 
-For the purposes of this chapter, coherent and rigorous content shall be determined by theState consistent with section 6311(b)(1)(D) of this title.
+For the purposes of this chapter, coherent and rigorous content shall be determined by the State consistent with section 6311(b)(1)(D) of this title.
 
 (Pub. L. 88–210, §8, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 690.)
 

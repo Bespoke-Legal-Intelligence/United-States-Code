@@ -20,7 +20,7 @@
 
 #### (3) Power of Corporation
 
-&emsp;Notwithstanding any other provision of law, the Corporation is empowered, in connection with any guarantee under this subsection, whether before or after any default, to provide by contract with the facility for the extinguishment, on default by the facility, of any redemption, equitable, legal, or other right, title, or interest of the facility in any mortgage or mortgages constituting the pool against which the guaranteed securities are issued. With respect to any issue of guaranteed securities, in the event of default and pursuant otherwise to the terms of the contract, the mortgages that constitute such pool shall become the absolute property of the Corporation subject only to the unsatisfied rights of the holders of the securities based on and backed by such pool.
+&emsp;Notwithstanding any other provision of law, the Corporation is empowered, in connection with any guarantee under this subsection, whether before or after any default, to provideby contract with the facility for the extinguishment, on default by the facility, of any redemption, equitable, legal, or other right, title, or interest of the facility in any mortgage or mortgages constituting the pool against which the guaranteed securities are issued. With respect to any issue of guaranteed securities, in the event of default and pursuant otherwise to the terms of the contract, the mortgages that constitute such pool shall become the absolute property of the Corporation subject only to the unsatisfied rights of the holders of the securities based on and backed by such pool.
 
 #### (b) Other responsibilities of and limitations on certified facilities
 
@@ -108,9 +108,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (a)(1)(A), (B)(i). Pub. L. 110–246, §5406(b), inserted “applicable” before “standards”.
+<b>2008</b>—Subsec. (a)(1)(A), (B)(i). Pub. L. 110–246, §5406(b), inserted “applicable” before “standards”.
 
-1996—Subsec. (a)(1). Pub. L. 104–105, §107(1), designated part of existing text as subpar. (A) and added subpar. (B).
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–105, §107(1), designated part of existing text as subpar. (A) and added subpar. (B).
 
 Subsec. (a)(2). Pub. L. 104–105, §108(c)(2), struck out “subject to the provisions of subsection (b) of this section” after “paragraph (1),”.
 
@@ -138,9 +138,9 @@ Subsec. (g). Pub. L. 104–105, §109(a)(2), redesignated subsec. (g) as (e).
 
 Subsec. (g)(2). Pub. L. 104–105, §107(3), substituted “2279aa(9) of this title” for “2279aa(9)(B) of this title”.
 
-1991—Subsec. (g). Pub. L. 102–237 added subsec. (g).
+<b>1991</b>—Subsec. (g). Pub. L. 102–237 added subsec. (g).
 
-1988—Subsec. (a)(1). Pub. L. 100–399, §601(f), substituted “represents interests solely in, or obligations fully backed by, any pool consisting solely of qualified loans which meet the standards established under section 2279aa–8 of this title and which are” for “represents interests in, or obligations backed by, any pool of qualified loans”.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–399, §601(f), substituted “represents interests solely in, or obligations fully backed by, any pool consisting solely of qualified loans which meet the standards established under section 2279aa–8 of this title and which are” for “represents interests in, or obligations backed by, any pool of qualified loans”.
 
 Subsec. (e). Pub. L. 100–399, §601(g), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “registration requirements (if any) with respect to such securities; and”.
 

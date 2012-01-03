@@ -86,9 +86,9 @@ A prior section 2013, Pub. L. 92–181, title I, §1.5, Dec. 10, 1971, 85 Stat. 
 
 #### Amendments
 
-1996—Par. (13). Pub. L. 104–105 struck out “, and the appointment and compensation of the chief executive officer thereof,” after “in its district”.
+<b>1996</b>—Par. (13). Pub. L. 104–105 struck out “, and the appointment and compensation of the chief executive officer thereof,” after “in its district”.
 
-1988—Par. (9). Pub. L. 100–399, §401(d)(1), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “prescribe by its board of directors—
+<b>1988</b>—Par. (9). Pub. L. 100–399, §401(d)(1), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “prescribe by its board of directors—
 
 &emsp;“(A) the bylaws of such bank that shall not be inconsistent with law, providing for the classes of the stock of the bank and the manner in which such stock shall be issued, transferred, and retired;
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Subject to the succeeding provisions of this part, each part D eligible individual (as defined in paragraph (3)(A)) is entitled to obtainqualified prescription drug coverage (described in section 1395w–102(a) of this title) as follows:
+&emsp;Subject to the succeeding provisions of this part, each part D eligible individual (as defined in paragraph (3)(A)) is entitled to obtain qualified prescription drug coverage (described in section 1395w–102(a) of this title) as follows:
 
 #### (A) Fee-for-service enrollees may receive coverage through a prescription drug plan
 
@@ -224,12 +224,6 @@
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1860D–1, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2071; amended Pub. L. 109–432, div. B, title II, §206(b), Dec. 20, 2006, 120 Stat. 2990; Pub. L. 111–148, title III, §3303(b), Mar. 23, 2010, 124 Stat. 469.)
 
-#### References in Text
-
-Part A of this subchapter, referred to in subsecs. (a)(3)(A) and (b)(2)(B), is classified to section 1395c et seq. of this title.
-
-Part B of this subchapter, referred to in subsecs. (a)(3)(A) and (b)(2)(B), (3)(B), is classified to section 1395j et seq. of this title.
-
 #### Amendments
 
 <b>2010</b>—Subsec. (b)(1)(C). Pub. L. 111–148, §3303(b)(1), inserted “except as provided in subparagraph (D),” after “shall include,”.
@@ -372,7 +366,7 @@ Composition.—The Commission shall include the following:
 
 &emsp;“(1) A representative of each Governor of each State that the Secretary \[of Health and Human Services\] identifies as operating on a statewide basis a State pharmaceutical assistance program that provides for eligibility and benefits that are comparable or more generous than the low-income assistance eligibility and benefits offered under section 1860D–14 of the Social Security Act \[section 1395w–114 of this title\].
 
-&emsp;“(2) Representatives from other States that the Secretary identifies have in operation other Statepharmaceutical assistance programs, as appointed by the Secretary.
+&emsp;“(2) Representatives from other States that the Secretary identifies have in operation other State pharmaceutical assistance programs, as appointed by the Secretary.
 
 &emsp;“(3) Representatives of organizations that have an inherent interest in program participants or the program itself, as appointed by the Secretary but not to exceed the number of representatives under paragraphs (1) and (2).
 

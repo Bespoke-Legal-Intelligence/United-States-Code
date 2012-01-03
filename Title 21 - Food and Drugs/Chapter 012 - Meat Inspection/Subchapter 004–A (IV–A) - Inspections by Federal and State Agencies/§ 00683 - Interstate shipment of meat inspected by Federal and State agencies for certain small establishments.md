@@ -8,7 +8,7 @@
 
 #### (2) Designated personnel
 
-&emsp;The term “designated personnel” means inspection personnel of a State agency that have undergone all necessary inspection training and certification to assist the Secretary in the administration and enforcement of this chapter, including rules and regulations issued under this chapter.
+&emsp;The term “designated personnel” means inspection personnel of a State agency that haveundergone all necessary inspection training and certification to assist the Secretary in the administration and enforcement of this chapter, including rules and regulations issued under this chapter.
 
 #### (3) Eligible establishment
 
@@ -108,7 +108,7 @@ The Secretary shall reimburse a State for costs related to the inspection of sel
 
 #### (B) Quarterly reports
 
-&emsp;&emsp;A State coordinator shall, on a quarterly basis, submit to the Secretary a report that describes the status of each selected establishment that is under the jurisdiction of the State coordinator with respect to the level of compliance of each selected establishment with the requirements of this chapter.
+&emsp;&emsp;A State coordinator shall, on a quarterly basis, submit to the Secretary a report thatdescribes the status of each selected establishment that is under the jurisdiction of the State coordinator with respect to the level of compliance of each selected establishment with the requirements of this chapter.
 
 #### (C) Immediate notification requirement
 
@@ -156,7 +156,7 @@ The Secretary shall reimburse a State for costs related to the inspection of sel
 
 #### (g) Transition grants
 
-The Secretary may provide grants to appropriate State agencies to assist the appropriateState agencies in helping establishments covered by subchapter III to transition to selected establishments.
+The Secretary may provide grants to appropriate State agencies to assist the appropriate State agencies in helping establishments covered by subchapter III to transition to selected establishments.
 
 #### (h) Violations
 

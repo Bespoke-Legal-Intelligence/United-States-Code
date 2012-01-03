@@ -12,7 +12,7 @@ The Secretary and the State concerned, acting in the best interests of the Unite
 
 &emsp;&emsp;(A) provide for prepayment that does not result in a loss of revenue to the United States in present value terms;
 
-&emsp;&emsp;(B) include provisions for receiving additional prepayments or royalties for developments in the lease or leases or well or wellsthat deviate significantly from the assumptions and facts on which the valuation is determined; and
+&emsp;&emsp;(B) include provisions for receiving additional prepayments or royalties for developments in the lease or leases or well or wells that deviate significantly from the assumptions and facts on which the valuation is determined; and
 
 &emsp;&emsp;(C) require the lessee or its designee to provide such periodic production reports as may be necessary to allow the Secretary and the State concerned to monitor production for the purposes of subparagraph (B).
 

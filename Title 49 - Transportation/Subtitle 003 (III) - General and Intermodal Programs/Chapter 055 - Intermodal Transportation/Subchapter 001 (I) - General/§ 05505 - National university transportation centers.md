@@ -54,7 +54,7 @@ Grants.—The Secretary shall make a grant under this section to each eligible n
 
 Subsec. (i). Pub. L. 105–178, §5110(d)(2), as added by Pub. L. 105–206, inserted “Subject to section 5338(e):” before par. (1) and substituted “institutions or groups of institutions” for “institutions” wherever appearing.
 
-Subsec. (j)(4)(B). Pub. L. 105–178, §5110(d)(3), as added by Pub. L. 105–206, substituted “on behalf of a consortium which may also include West Virginia University Institute of Technology, the College of West Virginia,and Bluefield State College” for “on behalf of a consortium of West Virginia colleges and universities”.
+Subsec. (j)(4)(B). Pub. L. 105–178, §5110(d)(3), as added by Pub. L. 105–206, substituted “on behalf of a consortium which may also include West Virginia University Institute of Technology, the College of West Virginia, and Bluefield State College” for “on behalf of a consortium of West Virginia colleges and universities”.
 
 #### Effective Date of 1998 Amendment
 

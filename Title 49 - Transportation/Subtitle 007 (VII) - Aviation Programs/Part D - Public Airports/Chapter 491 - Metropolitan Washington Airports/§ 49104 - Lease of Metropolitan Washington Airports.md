@@ -58,7 +58,7 @@ General.—The lease between the Secretary of Transportation and the Metropolita
 
 (b)
 
-Payments.—Under the lease, the Airports Authority must pay to the general fund of the Treasury annually an amount, computed using the GNP Price Deflator, equal to $3,000,000 in 1987 dollars. The Secretary and the Airports Authority may renegotiate the level of lease payments attributable to inflation costs every 10 years.
+Payments.—Under the lease, the Airports Authority must pay to the general fund of the Treasury annually an amount, computed usingthe GNP Price Deflator, equal to $3,000,000 in 1987 dollars. The Secretary and the Airports Authority may renegotiate the level of lease payments attributable to inflation costs every 10 years.
 
 (c)
 

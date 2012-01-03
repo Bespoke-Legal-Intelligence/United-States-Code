@@ -8,7 +8,7 @@ If—
 
 &emsp;(2) the portion of the recovery received in money is less than 25 percent of the amount of such recovery (as defined in section 1351(c)) and is not greater than the tax attributable to such recovery,
 
-> the tax attributable to such recovery shall, at the election of the taxpayer, be payable in 10 equal installments on the 15th day of the third month of each of the taxable years following the taxable year of the recovery. Such election shall be made at such time and in such manner as the Secretary may prescribe by regulations. If an election is made under this subsection, the provisions of this subtitle shall apply as though the Secretary were extending the time for payment of such tax.
+> the tax attributable to such recovery shall, at the election of the taxpayer, be payable in 10 equal installments on the 15th day of the third month of each of the taxable years following the taxable year of the recovery. Such election shall be made at such time and in such manner as the Secretary may prescribe by regulations. If anelection is made under this subsection, the provisions of this subtitle shall apply as though the Secretary were extending the time for payment of such tax.
 
 #### (b) Extension permitted by Secretary
 
@@ -38,7 +38,7 @@ If—
 
 #### (d) Proration of deficiency to installments
 
-If an election is made under subsection (a), and a deficiency attributable to the recovery of a foreign expropriation loss has been assessed, the deficiency shall be prorated to such installments. The part of the deficiency so prorated to any installment the date for payment of which has not arrived shall be collected at the sametime as, and as part of, such installment. The part of the deficiency so prorated to any installment the date for payment of which has arrived shall be paid upon notice and demand from the Secretary. This subsection shall not apply if the deficiency is due to negligence, to intentional disregard of rules and regulations, or to fraud with intent to evade tax.
+If an election is made under subsection (a), and a deficiency attributable to the recovery of a foreign expropriation loss has been assessed, the deficiency shall be prorated to such installments. The part of the deficiency so prorated to any installment the date for payment of which has not arrived shall be collected at the same time as, and as part of, such installment. The part of the deficiency so prorated to any installment the date for payment of which has arrived shall be paid upon notice and demand from the Secretary. This subsection shall not apply if the deficiency is due to negligence, to intentional disregard of rules and regulations, or to fraud with intent to evade tax.
 
 #### (e) Time for payment of interest
 
@@ -80,7 +80,7 @@ Amendment by section 1902(b)(2)(B) of Pub. L. 94–455 applicable to estates of 
 
 #### Effective Date of 1975 Amendment
 
-Amendment by Pub. L. 93–625 effective July 1, 1975, and applicable to amounts outstanding on such date or arising thereafter, see section 7(e) of Pub. L. 93–625, set out as an Effective Date note under section 6621 of this title.
+Amendment by Pub. L. 93–625 effective July 1, 1975, and applicable to amounts outstanding on such date orarising thereafter, see section 7(e) of Pub. L. 93–625, set out as an Effective Date note under section 6621 of this title.
 
 #### Effective Date
 

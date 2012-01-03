@@ -100,7 +100,7 @@ The Administrator may, wherever he determines necessary, extend the period for s
 
 (1) The Administrator shall promulgate a Federal implementation plan at any time within 2 years after the Administrator—
 
-&emsp;(A) finds that a State has failed to make a required submission or finds that the plan orplan revision submitted by the State does not satisfy the minimum criteria established under subsection (k)(1)(A) of this section, or
+&emsp;(A) finds that a State has failed to make a required submission or finds that the plan or plan revision submitted by the State does not satisfy the minimum criteria established under subsection (k)(1)(A) of this section, or
 
 &emsp;(B) disapproves a State implementation plan submission in whole or in part,
 
@@ -108,7 +108,7 @@ The Administrator may, wherever he determines necessary, extend the period for s
 
 (2)(A) Repealed. Pub. L. 101–549, title I, §101(d)(3)(A), Nov. 15, 1990, 104 Stat. 2409.
 
-(B) No parking surcharge regulation may be required by the Administrator under paragraph (1) of this subsection as a part of an applicable implementation plan. All parking surcharge regulations previously required by the Administrator shall be void upon June 22, 1974. This subparagraph shall not prevent the Administrator from approving parking surcharges if they are adopted and submitted by a State as part of an applicable implementation plan. The Administrator may not condition approval of any implementation plan submitted by a State on such plan's including a parking surcharge regulation.
+(B) No parking surcharge regulation may be required by the Administrator under paragraph (1) of this subsection as a part of an applicable implementation plan. All parking surcharge regulations previously required by the Administrator shall be void upon June 22, 1974. This subparagraph shall not prevent the Administratorfrom approving parking surcharges if they are adopted and submitted by a State as part of an applicable implementation plan. The Administrator may not condition approval of any implementation plan submitted by a State on such plan's including a parking surcharge regulation.
 
 (C) Repealed. Pub. L. 101–549, title I, §101(d)(3)(B), Nov. 15, 1990, 104 Stat. 2409.
 
@@ -234,13 +234,13 @@ Each revision to an implementation plan submitted by a State under this chapter 
 
 #### (m) Sanctions
 
-The Administrator may apply any of the sanctions listed in section 7509(b) of this title at any time (or at any time after) the Administrator makes a finding, disapproval, or determination under paragraphs (1) through (4), respectively, of section 7509(a) of this title in relation to any plan or plan item (as that term is defined by the Administrator) required under this chapter,with respect to any portion of the State the Administrator determines reasonable and appropriate, for the purpose of ensuring that the requirements of this chapter relating to such plan or plan item are met. The Administrator shall, by rule, establish criteria for exercising his authority under the previous sentence with respect to any deficiency referred to in section 7509(a) of this title to ensure that, during the 24-month period following the finding, disapproval, or determination referred to in section 7509(a) of this title, such sanctions are not applied on a statewide basis where one or more political subdivisions covered by the applicable implementation plan are principally responsible for such deficiency.
+The Administrator may apply any of the sanctions listed in section 7509(b) of this title at any time (or at any time after) the Administrator makes a finding, disapproval, or determination under paragraphs (1) through (4), respectively, of section 7509(a) of this title in relation to any plan or plan item (as that term is defined by the Administrator) required under this chapter, with respect to any portion of the State the Administrator determines reasonable and appropriate, for the purpose of ensuring that the requirements of this chapter relating to such plan or plan item are met. The Administrator shall, by rule, establish criteria for exercising his authority under the previous sentence with respect to any deficiency referred to in section 7509(a) of this title to ensure that, during the 24-month period following the finding, disapproval, or determination referred to in section 7509(a) of this title, such sanctions are not applied on a statewide basis where one or more political subdivisions covered by the applicable implementation plan are principally responsible for such deficiency.
 
 #### (n) Savings clauses
 
 #### (1) Existing plan provisions
 
-&emsp;Any provision of any applicable implementation plan that was approved or promulgated by the Administrator pursuant to this section as in effect before November 15, 1990, shall remain in effect as part of such applicable implementation plan, except to the extent that a revision to such provision is approved or promulgated by the Administrator pursuant to this chapter.
+&emsp;Any provision of any applicable implementation plan that was approved or promulgated bythe Administrator pursuant to this section as in effect before November 15, 1990, shall remain in effect as part of such applicable implementation plan, except to the extent that a revision to such provision is approved or promulgated by the Administrator pursuant to this chapter.
 
 #### (2) Attainment dates
 
@@ -272,7 +272,7 @@ The Energy Supply and Environmental Coordination Act of 1974, referred to in sub
 
 Section 7413 of this title, referred to in subsecs. (a)(3)(C), (6), (f)(5), (g)(3), and (i), was amended generally by Pub. L. 101–549, title VII, §701, Nov. 15, 1990, 104 Stat. 2672, and, as so amended, subsecs. (d) and (e) of section 7413 no longer relates to final compliance orders and steel industry compliance extension, respectively.
 
-Section 1857c–10 of this title, as in effect before August 7, 1977, referred to in subsecs. (f)(5) and (g)(3), was in the original “section 119, as in effect before the date of the enactment of this paragraph”, meaning section 119 of act July 14, 1955, ch. 360, title I, as added June 22, 1974, Pub. L. 93–319, §3, 88 Stat. 248, (which was classified to section 1857c–10 of this title) as in effect prior to the enactment of subsecs. (f)(5) and (g)(3) of this section by Pub. L. 95–95, §107, Aug. 7, 1977, 91 Stat. 691, effective Aug. 7, 1977. Section 112(b)(1) of Pub. L. 95–95 repealed section 119 of act July 14, 1955, ch. 360, title I, as added by Pub. L. 93–319, and provided that all references tosuch section 119 in any subsequent enactment which supersedes Pub. L. 93–319 shall be construed to refer to section 113(d) of the Clean Air Act and to paragraph (5) thereof in particular which is classified to section 7413(d)(5) of this title. Section 7413 of this title was subsequently amended generally by Pub. L. 101–549, title VII, §701, Nov. 15, 1990, 104 Stat. 2672, see note above. Section 117(b) of Pub. L. 95–95 added a new section 119 of act July 14, 1955, which is classified to section 7419 of this title.
+Section 1857c–10 of this title, as in effect before August 7, 1977, referred to in subsecs. (f)(5) and (g)(3), was in the original “section 119, as in effect before the date of the enactment of this paragraph”, meaning section 119 of act July 14, 1955, ch. 360, title I, as added June 22, 1974, Pub. L. 93–319, §3, 88 Stat. 248, (which was classified to section 1857c–10 of this title) as in effect prior to the enactment of subsecs. (f)(5) and (g)(3) of this section by Pub. L. 95–95, §107, Aug. 7, 1977, 91 Stat. 691, effective Aug. 7, 1977. Section 112(b)(1) of Pub. L. 95–95 repealed section 119 of act July 14, 1955, ch. 360, title I, as added by Pub. L. 93–319, and provided that all references to such section 119 in any subsequent enactment which supersedes Pub. L. 93–319 shall be construed to refer to section 113(d) of the Clean Air Act and to paragraph (5) thereof in particular which is classified to section 7413(d)(5) of this title. Section 7413 of this title was subsequently amended generally by Pub. L. 101–549, title VII, §701, Nov. 15, 1990, 104 Stat. 2672, see note above. Section 117(b) of Pub. L. 95–95 added a new section 119 of act July 14, 1955, which is classified to section 7419 of this title.
 
 #### Codification
 

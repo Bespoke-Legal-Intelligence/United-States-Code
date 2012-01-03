@@ -30,7 +30,7 @@ On January 6, 1988, the Corporation shall become a body corporate and as such sh
 
 #### (D) Agent for service of process
 
-&emsp;&emsp;The Board of Directors shall designate an agent on whom service of process may be made in any State or jurisdiction in which any insured System bank is located.
+&emsp;&emsp;The Board of Directors shall designate an agent on whom service of process may bemade in any State or jurisdiction in which any insured System bank is located.
 
 #### (5) Officers and employees
 
@@ -48,7 +48,7 @@ On January 6, 1988, the Corporation shall become a body corporate and as such sh
 
 #### (7) Incidental powers
 
-&emsp;The Corporation may exercise by its Board of Directors, or duly authorized officers oragents, all powers specifically granted by the provisions of this part, and such incidental powers as shall be necessary to carry out the powers so granted.
+&emsp;The Corporation may exercise by its Board of Directors, or duly authorized officers or agents, all powers specifically granted by the provisions of this part, and such incidental powers as shall be necessary to carry out the powers so granted.
 
 #### (8) Information
 
@@ -70,15 +70,15 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Par. (10). Pub. L. 110–246, §5401(b), inserted “and section 2020(b) of this title” after “this part”.
+<b>2008</b>—Par. (10). Pub. L. 110–246, §5401(b), inserted “and section 2020(b) of this title” after “this part”.
 
-1996—Par. (9). Pub. L. 104–105 added par. (9) and struck out heading and text of former par. (9). Text read as follows: “The Corporation may act as receiver.”
+<b>1996</b>—Par. (9). Pub. L. 104–105 added par. (9) and struck out heading and text of former par. (9). Text read as follows: “The Corporation may act as receiver.”
 
-1992—Par. (2). Pub. L. 102–552 inserted at end “The Corporation shall succeed to the rights of the Farm Credit System Assistance Board under agreements between the Farm Credit System Assistance Board and System institutions certifying the institutions as eligible to issue preferred stock pursuant to subchapter VI of this chapter on the termination of the Assistance Board on the date provided in section 2278a–12 of this title.”
+<b>1992</b>—Par. (2). Pub. L. 102–552 inserted at end “The Corporation shall succeed to the rights of the Farm Credit System Assistance Board under agreements between the Farm Credit System Assistance Board and System institutions certifying the institutions as eligible to issue preferred stock pursuant to subchapter VI of this chapter on the termination of the Assistance Board on the date provided in section 2278a–12 of this title.”
 
-1991—Par. (4)(B). Pub. L. 102–237 inserted “in any capacity,” after “and the Corporation,”.
+<b>1991</b>—Par. (4)(B). Pub. L. 102–237 inserted “in any capacity,” after “and the Corporation,”.
 
-1988—Par. (5)(A). Pub. L. 100–399 struck out “to” before “define” and “dismiss”.
+<b>1988</b>—Par. (5)(A). Pub. L. 100–399 struck out “to” before “define” and “dismiss”.
 
 #### Effective Date of 2008 Amendment
 

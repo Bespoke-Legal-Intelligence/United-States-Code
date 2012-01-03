@@ -4,7 +4,7 @@
 
 (b) Any person charged with a misdemeanor, other than a petty offense may elect, however, to be tried before a district judge for the district in which the offense was committed. The magistrate judge shall carefully explain to the defendant that he has a right to trial, judgment, and sentencing by a district judge and that he may have a right to trial by jury before a district judge or magistrate judge. The magistrate judge may not proceed to try the case unless the defendant, after such explanation, expressly consents to be tried before the magistrate judge and expressly and specifically waives trial, judgment, and sentencing by a district judge. Any such consent and waiver shall be made in writing or orally on the record.
 
-(c) A magistrate judge who exercises trial jurisdiction under this section, and before whom a person is convicted or pleads either guilty or nolo contendere, may, with the approval of a judge of the district court, direct the probation service of the court to conduct a presentence investigation on that person and render a report to the magistrate judge prior to the imposition of sentence.
+(c) A magistrate judge who exercises trial jurisdiction under this section, and before whom a person is convicted or pleads either guilty or nolo contendere, may, with the approval of a judge of the district court, direct the probationservice of the court to conduct a presentence investigation on that person and render a report to the magistrate judge prior to the imposition of sentence.
 
 (d) The probation laws shall be applicable to persons tried by a magistrate judge under this section, and such officer shall have power to grant probation and to revoke, modify, or reinstate the probation of any person granted probation by a magistrate judge.
 
@@ -18,7 +18,7 @@
 
 (i) A district judge may designate a magistrate judge to conduct hearings to modify, revoke, or terminate supervised release, including evidentiary hearings, and to submit to the judge proposed findings of fact and recommendations for such modification, revocation, or termination by the judge, including, in the case of revocation, a recommended disposition under section 3583(e) of this title. The magistrate judge shall file his or her proposed findings and recommendations.
 
-(June 25, 1948, ch. 645, 62 Stat. 830; Pub. L. 85–508, §12(j), July 7, 1958, 72 Stat. 348; Pub. L. 90–578, title III, §302(a), Oct. 17, 1968, 82 Stat. 1115; Pub. L. 96–82, §7(a), (b), Oct. 10, 1979, 93 Stat. 645, 646; Pub. L. 98–473, title II, §223(j), Oct. 12, 1984, 98 Stat. 2029; Pub. L. 100–690, title VII, §7072(a), Nov. 18, 1988, 102 Stat. 4405; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 102–572, title I, §103, Oct. 29, 1992, 106 Stat. 4507;Pub. L. 104–317, title II, §202(a), Oct. 19, 1996, 110 Stat. 3848; Pub. L. 106–518, title II, §203(a), Nov. 13, 2000, 114 Stat. 2414.)
+(June 25, 1948, ch. 645, 62 Stat. 830; Pub. L. 85–508, §12(j), July 7, 1958, 72 Stat. 348; Pub. L. 90–578, title III, §302(a), Oct. 17, 1968, 82 Stat. 1115; Pub. L. 96–82, §7(a), (b), Oct. 10, 1979, 93 Stat. 645, 646; Pub. L. 98–473, title II, §223(j), Oct. 12, 1984, 98 Stat. 2029; Pub. L. 100–690, title VII, §7072(a), Nov. 18, 1988, 102 Stat. 4405; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 102–572, title I, §103, Oct. 29, 1992, 106 Stat. 4507; Pub. L. 104–317, title II, §202(a), Oct. 19, 1996, 110 Stat. 3848; Pub. L. 106–518, title II, §203(a), Nov. 13, 2000, 114 Stat. 2414.)
 
 #### Historical and Revision Notes
 
@@ -42,7 +42,7 @@ Subsec. (g). Pub. L. 104–317, §202(a)(2), substituted “The magistrate judge
 
 Subsecs. (h), (i). Pub. L. 102–572, §103(2), added subsecs. (h) and (i).
 
-<b>1988</b>—Subsec. (g). Amendment by Pub. L. 100–690 directing that “and section 4216” be struck out after “under chapter 402” in subsec. (g), was executed to subsec. (g) applicable to offenses committed prior to Nov. 1, 1987, as the probable intent of Congress, in view of the amendment by section 223(j) of Pub. L. 98–473. See 1984 Amendment notes below.
+<b>1988</b>—Subsec. (g). Amendment by Pub. L. 100–690 directing that “and section 4216” be struck out after “under chapter 402” in subsec. (g), was executed to subsec. (g) applicable to offenses committed prior to Nov. 1, 1987, as the probable intent of Congress, in view ofthe amendment by section 223(j) of Pub. L. 98–473. See 1984 Amendment notes below.
 
 <b>1984</b>—Subsecs. (g), (h). Pub. L. 98–473, §223(j)(1), redesignated subsec. (h) as (g) and struck out former subsec. (g) which related to powers of magistrate in case involving youthful offender. Former subsec. (g), as amended by Pub. L. 100–690, read as follows: “The magistrate may, in a case involving a youth offender in which consent to trial before a magistrate has been filed under subsection (b) of this section, impose sentence and exercise the other powers granted to the district court under chapter 402 of this title, except that—
 

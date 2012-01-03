@@ -44,9 +44,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1998—Subsec. (b). Pub. L. 105–264 substituted “Government” for “United States”.
+<b>1998</b>—Subsec. (b). Pub. L. 105–264 substituted “Government” for “United States”.
 
-1996—Subsec. (a). Pub. L. 104–201 substituted “in accordance with regulations prescribed under section 5738 of this title” for “in accordance with regulations prescribed by the President”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–201 substituted “in accordance with regulations prescribed under section 5738 of this title” for “in accordance with regulations prescribed by the President”.
 
 #### Effective Date of 1996 Amendment
 

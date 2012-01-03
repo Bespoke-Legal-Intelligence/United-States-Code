@@ -72,7 +72,7 @@ In this subchapter, the term “nursing facility” means an institution (or a d
 
 #### (iii) Use of independent assessors
 
-&emsp;&emsp;&emsp;If a State determines, under a survey under subsection (g) of this section or otherwise, that there has been a knowing and willful certification of false assessments under this paragraph, the State may require (for a period specified by the State) that resident assessments under this paragraph be conducted and certified by individuals who are independent of the facility and who are approved by the State.
+&emsp;&emsp;&emsp;If a State determines, under a survey under subsection (g) of this section orotherwise, that there has been a knowing and willful certification of false assessments under this paragraph, the State may require (for a period specified by the State) that resident assessments under this paragraph be conducted and certified by individuals who are independent of the facility and who are approved by the State.
 
 #### (C) Frequency
 
@@ -194,7 +194,7 @@ In this subchapter, the term “nursing facility” means an institution (or a d
 
 #### (F) “Nurse aide” defined
 
-&emsp;&emsp;In this paragraph, the term “nurse aide” means any individual providing nursing ornursing-related services to residents in a nursing facility, but does not include an individual—
+&emsp;&emsp;In this paragraph, the term “nurse aide” means any individual providing nursing or nursing-related services to residents in a nursing facility, but does not include an individual—
 
 &emsp;&emsp;&emsp;(i) who is a licensed health professional (as defined in subparagraph (G)) or a registered dietician, or
 
@@ -336,7 +336,7 @@ In this subchapter, the term “nursing facility” means an institution (or a d
 
 &emsp;&emsp;&emsp;(vi) the facility ceases to operate.
 
-> &emsp;&emsp;In each of the cases described in clauses (i) through (iv), the basis for the transfer or discharge must be documented in the resident's clinical record. In the cases described in clauses (i) and (ii), the documentation mustbe made by the resident's physician, and in the case described in clause (iv) the documentation must be made by a physician. For purposes of clause (v), in the case of a resident who becomes eligible for assistance under this subchapter after admission to the facility, only charges which may be imposed under this subchapter shall be considered to be allowable.
+> &emsp;&emsp;In each of the cases described in clauses (i) through (iv), the basis for the transfer or discharge must be documented in the resident's clinical record. In the cases described in clauses (i) and (ii), the documentation must be made by the resident's physician, and in the case described in clause (iv) the documentation must be made by a physician. Forpurposes of clause (v), in the case of a resident who becomes eligible for assistance under this subchapter after admission to the facility, only charges which may be imposed under this subchapter shall be considered to be allowable.
 
 #### (B) Pre-transfer and pre-discharge notice
 

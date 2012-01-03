@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;All consumer reporting agencies described in subsections (p) and (w) of section 1681a of this title shall make all disclosures pursuant to section 1681g of this title once during any 12-month period upon request of the consumer and without charge to the consumer.
+&emsp;&emsp;All consumer reporting agencies described in subsections (p) and (w) <sup>1</sup> of section 1681a of this title shall make all disclosures pursuant to section 1681g of this title once during any 12-month period upon request of the consumer and without charge to the consumer.
 
 #### (B) Centralized source
 
@@ -16,11 +16,11 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Commission shall prescribe regulations applicable to each consumer reporting agency described in section 1681a(w) of this title to require the establishment of a streamlined process for consumers to request consumer reports under subparagraph (A), which shall include, at a minimum, the establishment by each such agency of a toll-free telephone number for such requests.
+&emsp;&emsp;&emsp;The Commission <sup>2</sup> shall prescribe regulations applicable to each consumer reporting agency described in section 1681a(w) <sup>1</sup> of this title to require the establishment of a streamlined process for consumers to request consumer reports under subparagraph (A), which shall include, at a minimum, the establishment by each such agency of a toll-free telephone number for such requests.
 
 #### (ii) Considerations
 
-&emsp;&emsp;&emsp;In prescribing regulations under clause (i), the Commission shall consider—
+&emsp;&emsp;&emsp;In prescribing regulations under clause (i), the Bureau shall consider—
 
 &emsp;&emsp;&emsp;&emsp;(I) the significant demands that may be placed on consumer reporting agencies in providing such consumer reports;
 
@@ -30,15 +30,15 @@
 
 #### (iii) Date of issuance
 
-&emsp;&emsp;&emsp;The Commission shall issue the regulations required by this subparagraph in final form not later than 6 months after December 4, 2003.
+&emsp;&emsp;&emsp;The Commission <sup>2</sup> shall issue the regulations required by this subparagraph in final form not later than 6 months after December 4, 2003.
 
 #### (iv) Consideration of ability to comply
 
-&emsp;&emsp;&emsp;The regulations of the Commission under this subparagraph shall establish an effective date by which each nationwide specialty consumer reporting agency (as defined in section 1681a(w) of this title) shall be required to comply with subsection (a) of this section, which effective date—
+&emsp;&emsp;&emsp;The regulations of the Bureau under this subparagraph shall establish an effective date by which each nationwide specialty consumer reporting agency (as defined in section 1681a(w) <sup>1</sup> of this title) shall be required to comply with subsection (a) of this section, which effective date—
 
 &emsp;&emsp;&emsp;&emsp;(I) shall be established after consideration of the ability of each nationwide specialty consumer reporting agency to comply with subsection (a) of this section; and
 
-&emsp;&emsp;&emsp;&emsp;(II) shall be not later than 6 months after the date on which such regulations are issued in final form (or such additional period not to exceed 3 months, as the Commission determines appropriate).
+&emsp;&emsp;&emsp;&emsp;(II) shall be not later than 6 months after the date on which such regulations are issued in final form (or such additional period not to exceed 3 months, as the Bureau determines appropriate).
 
 #### (2) Timing
 
@@ -94,7 +94,7 @@ A consumer reporting agency shall not impose any charge on a consumer for provid
 
 #### (2) Modification of amount
 
-&emsp;The Federal Trade Commission shall increase the amount referred to in paragraph (1)(A)(i) on January 1 of each year, based proportionally on changes in the Consumer Price Index, with fractional changes rounded to the nearest fifty cents.
+&emsp;The Bureau shall increase the amount referred to in paragraph (1)(A)(i) on January 1 of each year, based proportionally on changes in the Consumer Price Index, with fractional changes rounded to the nearest fifty cents.
 
 #### (g) Prevention of deceptive marketing of credit reports
 
@@ -104,27 +104,23 @@ A consumer reporting agency shall not impose any charge on a consumer for provid
 
 #### (2) Television and radio advertisement
 
-&emsp;In the case of an advertisement broadcast by television, the disclosures required under paragraph (1) shall be included in the audio and visual part of such advertisement. In the case of an advertisement broadcast by televison <sup>2</sup> or radio, the disclosure required under paragraph (1) shall consist only of the following: “This is not the free credit report provided for by Federal law”.
+&emsp;In the case of an advertisement broadcast by television, the disclosures required under paragraph (1) shall be included in the audio and visual part of such advertisement. In the case of an advertisement broadcast by televison <sup>3</sup> or radio, the disclosure required under paragraph (1) shall consist only of the following: “This is not the free credit report provided for by Federal law”.
 
 (Pub. L. 90–321, title VI, §612, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1132; amended Pub. L. 104–208, div. A, title II, §2410, Sept. 30, 1996, 110 Stat. 3009–442; Pub. L. 108–159, title II, §211(a), Dec. 4, 2003, 117 Stat. 1968; Pub. L. 111–24, title II, §205(a), May 22, 2009, 123 Stat. 1747; Pub. L. 111–203, title X, §1088(a)(2)(A), (C), July 21, 2010, 124 Stat. 2087.)
 
-#### Amendment of Section
-
-<i>Pub. L. 111–203, title X, §§1088(a)(2)(A), (C), 1100H, July 21, 2010, 124 Stat. 2087, 2113, provided that, effective on the designated transfer date, this section is amended as follows:</i>
-
-<i>(1) by striking “Federal Trade Commission” each place that term appears and inserting “Bureau”; and</i>
-
-<i>(2) by striking “the Commission” each place that term appears and inserting “the Bureau”.</i>
-
-<i>See Effective Date of 2010 Amendment note below.</i>
-
 #### References in Text
+
+Section 1681a(w) of this title, referred to in subsec. (a)(1)(A), (C)(i), (iv), was redesignated section 1681a(x) of this title by Pub. L. 111–203, title X, §1088(a)(1), July 21, 2010, 124 Stat. 2086.
 
 Section 211(c) of the Fair and Accurate Credit Transactions Act of 2003, referred to in subsec. (a)(1)(B), probably means section 211(d) of Pub. L. 108–159, which is set out as a note below and relates to the establishment of a centralized source. Section 211(c) of Pub. L. 108–159 amended section 1681g of this title.
 
 Section 205(b) of the Credit CARD Act of 2009, referred to in subsec. (g), is section 205(b) of Pub. L. 111–24, which is set out as a note below.
 
 #### Amendments
+
+<b>2010</b>—Subsec. (a)(1)(C). Pub. L. 111–203, §1088(a)(2)(C), substituted “the Bureau” for “the Commission” wherever appearing.
+
+Subsec. (f)(2). Pub. L. 111–203, §1088(a)(2)(A), substituted “Bureau” for “Federal Trade Commission”.
 
 <b>2009</b>—Subsec. (g). Pub. L. 111–24 added subsec. (g).
 
@@ -136,7 +132,7 @@ Subsec. (e). Pub. L. 108–159, §211(a)(3), (5), redesignated subsec. (d) as (e
 
 Subsec. (f). Pub. L. 108–159, §211(a)(1), (6), redesignated subsec. (a) as (f) and substituted “In the case of a request from a consumer other than a request that is covered by any of subsections (a) through (d) of this section, a” for “Except as provided in subsections (b), (c), and (d) of this section, a” in par. (1).
 
-<b>1996</b>—Pub. L. 104–208 amended section generally. Prior to amendment, section read as follows: “A consumer reporting agency shall make all disclosures pursuant to section 1681g of this title and furnish all consumer reports pursuant to section 1681i(d) of this title without charge to the consumer if, within thirty days after receipt by such consumer of a notification pursuant to section 1681m of this title or notification from a debt collection agency affiliated with such consumer reporting agency stating that the consumer's credit rating may be or has been adversely affected, the consumer makes a request under section 1681g or 1681i(d) of this title. Otherwise, the consumer reporting agency may impose a reasonable charge on the consumer for making disclosure to such consumer pursuant to section 1681g of this title, the charge for which shall be indicated to the consumer prior to making disclosure; and for furnishing notifications, statements, summaries, or codifications to person designated by the consumer pursuant to section 1681i(d) of this title, the charge for which shall be indicated to the consumer prior to furnishing such information and shall not exceed the charge that the consumer reporting agency would impose on each designated recipient for a consumer report except that no charge may be made for notifying such persons of the deletion of information which is found to be inaccurate or which can no longer be verified.”
+<b>1996</b>—Pub. L. 104–208 amended section generally. Prior to amendment, section read as follows: “A consumer reporting agency shall make all disclosures pursuant to section 1681g of this title and furnish all consumer reports pursuant to section 1681i(d) of this title withoutcharge to the consumer if, within thirty days after receipt by such consumer of a notification pursuant to section 1681m of this title or notification from a debt collection agency affiliated with such consumer reporting agency stating that the consumer's credit rating may be or has been adversely affected, the consumer makes a request under section 1681g or 1681i(d) of this title. Otherwise, the consumer reporting agency may impose a reasonable charge on the consumer for making disclosure to such consumer pursuant to section 1681g of this title, the charge for which shall be indicated to the consumer prior to making disclosure; and for furnishing notifications, statements, summaries, or codifications to person designated by the consumer pursuant to section 1681i(d) of this title, the charge for which shall be indicated to the consumer prior to furnishing such information and shall not exceed the charge that the consumer reporting agency would impose on each designated recipient for a consumer report except that no charge may be made for notifying such persons of the deletion of information which is found to be inaccurate or which can no longer be verified.”
 
 #### Effective Date of 2010 Amendment
 
@@ -178,7 +174,7 @@ Pub. L. 108–159, title II, §211(d), Dec. 4, 2003, 117 Stat. 1972, as amended 
 
 “(1)
 
-In general.—The Bureau shall prescribe regulations applicable to consumer reporting agencies described in section 603(p) of the Fair Credit Reporting Act \[15 U.S.C. 1681a(p)\], to require the establishment of—
+In general.—The Bureau \[probably means the Bureau of Consumer Financial Protection\] shall prescribe regulations applicable to consumer reporting agencies described in section 603(p) of the Fair Credit Reporting Act \[15 U.S.C. 1681a(p)\], to require the establishment of—
 
 &emsp;“(A) a centralized source through which consumers may obtain a consumer report from each such consumer reporting agency, using a single request, and without charge to the consumer, as provided in section 612(a) of the Fair Credit Reporting Act \[15 U.S.C. 1681j(a)\] (as amended by this section); and
 
@@ -232,7 +228,7 @@ In general.—The Bureau shall, by rule, determine whether to require a consumer
 
 Considerations.—Before making any determination under subparagraph (A), the Bureau shall consider—
 
-&emsp;&emsp;“(i) the number of requests for consumer reports to, and the number of consumer reports generated by, the consumer reporting agency, in comparison with consumer reporting agencies described in subsections (p) and (w) of section 603 of the Fair Credit Reporting Act \[15 U.S.C. 1681a(p), (w)\];
+&emsp;&emsp;“(i) the number of requests for consumer reports to, and the number of consumer reports generated by, the consumer reporting agency, in comparison with consumer reporting agencies described in subsections (p) and (w) \[now (x)\] of section 603 of the Fair Credit Reporting Act \[15 U.S.C. 1681a(p), (w) \[x\]\];
 
 &emsp;&emsp;“(ii) the overall scope of the operations of the consumer reporting agency;
 
@@ -246,5 +242,7 @@ Considerations.—Before making any determination under subparagraph (A), the Bu
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “television”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be “Bureau”.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be “television”.</i>
 

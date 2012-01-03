@@ -10,7 +10,7 @@ Any money realized by proceedings under this subchapter (whether by seizure, by 
 
 #### (2) Specific tax liability on seized property
 
-&emsp;If the property seized and sold is subject to a tax imposed by any internal revenue law which has not been paid, the amount remaining after applying paragraph (1) shall then be applied against such tax liability (and, if such tax was not previously assessed, it shall then be assessed);
+&emsp;If the property seized and sold is subject to a tax imposed by any internal revenue lawwhich has not been paid, the amount remaining after applying paragraph (1) shall then be applied against such tax liability (and, if such tax was not previously assessed, it shall then be assessed);
 
 #### (3) Liability of delinquent taxpayer
 

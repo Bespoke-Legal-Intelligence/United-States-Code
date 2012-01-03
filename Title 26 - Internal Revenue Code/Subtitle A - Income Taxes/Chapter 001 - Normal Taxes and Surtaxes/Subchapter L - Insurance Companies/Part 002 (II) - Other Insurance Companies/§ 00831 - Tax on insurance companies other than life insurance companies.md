@@ -118,7 +118,7 @@ Treatment of amounts in protection against loss account.—In the case of any in
 
 “(2)
 
-Transitional rule for unused loss carryover under section 825.—Any unused loss carryover under section 825 of the Internal Revenue Code of 1954 (as ineffect on the day before the date of the enactment of this Act \[Oct. 22, 1986\]) which—
+Transitional rule for unused loss carryover under section 825.—Any unused loss carryover under section 825 of the Internal Revenue Code of 1954 (as in effect on the day before the date of the enactment of this Act \[Oct. 22, 1986\]) which—
 
 &emsp;“(A) is from a taxable year beginning before January 1, 1987, and
 

@@ -192,7 +192,7 @@ Consistent With Safe Water and Sanitation Policy.—The strategy required by sub
 
 Content.—The strategy required by subsection (a) shall include—
 
-&emsp;“(1) an assessment of the activities that have been carried out, or that are planned to be carried out, by all appropriate Federal departments and agencies to improve affordable and equitable access to safe water and sanitation in all countries that receive assistance from the United States;
+&emsp;“(1) an assessment of the activities that have been carried out, or that are planned to be carried out, byall appropriate Federal departments and agencies to improve affordable and equitable access to safe water and sanitation in all countries that receive assistance from the United States;
 
 &emsp;“(2) specific and measurable goals, benchmarks, and timetables to achieve the objective described in subsection (a);
 
@@ -260,7 +260,7 @@ Definition.—In this subsection, the term ‘appropriate congressional committe
 
 “(a)
 
-Sense of Congress.—It is the sense of Congress that United States programs to support and encourageefforts around the world to develop river basin, aquifer, and other watershed-wide mechanisms for governance and cooperation are critical components of long-term United States national security and should be expanded.
+Sense of Congress.—It is the sense of Congress that United States programs to support and encourage efforts around the world to develop river basin, aquifer, and other watershed-wide mechanisms for governance and cooperation are critical components of long-term United States national security and should be expanded.
 
 “(b)
 

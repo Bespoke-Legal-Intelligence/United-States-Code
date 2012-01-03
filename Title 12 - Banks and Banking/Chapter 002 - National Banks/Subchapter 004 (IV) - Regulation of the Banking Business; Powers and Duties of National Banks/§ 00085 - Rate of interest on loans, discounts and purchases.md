@@ -6,7 +6,7 @@ Any association may take, receive, reserve, and charge on any loan or discount m
 
 #### References in Text
 
-Title 62 of the Revised Statutes, referred to in text, was in the original “this Title” meaning title LXII of the Revised Statutes, consisting of R.S. §§5133 to 5244, which are classified to sections 21, 22 to 24a, 25a, 26, 27, 29, 35 to 37, 39, 43, 52, 53, 55 to 57, 59 to 62, 66, 71, 72 to 76, 81, 83 to 86, 90, 91, 93, 93a, 94, 141 to 144, 161, 164, 181, 182, 192 to 194, 196, 215c, 481 to 485, 501, 541, 548, and 582 of this title. See, also, sections 8, 333, 334, 475, 656, 709, 1004, and 1005 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§5133 to 5244 to the Code, see Tables.
+Title 62 of the Revised Statutes, referred to in text, was in the original “this Title” meaning title LXII of the Revised Statutes, consisting of R.S. §§5133 to 5244, which are classified to this section and sections 16, 21, 22 to 24a, 25a, 25b, 26, 27, 29, 35 to 37, 39, 43, 52, 53, 55 to 57, 59 to 62, 66, 71, 72 to 76, 81, 83, 84, 86, 90, 91, 93, 93a, 94, 141 to 144, 161, 164, 181, 182, 192 to 194, 196, 215c, 481 to 485, 501, 541, 548, and 582 of this title. See, also, sections 8, 333, 334, 475, 656, 709, 1004, and 1005 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§5133 to 5244 to the Code, see Tables.
 
 #### Codification
 
@@ -20,17 +20,17 @@ Section 201 of Pub. L. 93–501, cited as a credit to this section, was repealed
 
 #### Amendments
 
-1980—Pub. L. 96–221 repealed Pub. L. 96–104 and title II of Pub. L. 96–161, resulting in the striking out of “or in the case of business or agricultural loans in the amount of $25,000 or more, at a rate of 5 per centum in excess of the discount rate on ninety-day commercial paper in effect at the Federal Reserve bank in the Federal Reserve district where the bank is located,” before “whichever may be the greater” in two places. SeeCodification and 1979 Amendment notes under this section.
+<b>1980</b>—Pub. L. 96–221 repealed Pub. L. 96–104 and title II of Pub. L. 96–161, resulting in the striking out of “or in the case of business or agricultural loans in the amount of $25,000 or more, at a rate of 5 per centum in excess of the discount rate on ninety-day commercial paper in effect at the Federal Reserve bank in the Federal Reserve district where the bank is located,” before “whichever may be the greater” in two places. See Codification and 1979 Amendment notes under this section.
 
-1979—Pub. L. 96–161 inserted provisions relating to a 5 per centum interest rate on business or agricultural loans in the amount of $25,000 or more that were identical to provisions inserted earlier by Pub. L. 96–104. See Codification note above.
+<b>1979</b>—Pub. L. 96–161 inserted provisions relating to a 5 per centum interest rate on business or agricultural loans in the amount of $25,000 or more that were identical to provisions inserted earlier by Pub. L. 96–104. See Codification note above.
 
 Pub. L. 96–104 substituted “or in the case of business or agricultural loans in the amount of $25,000 or more, at a rate of 5 per centum in excess of the discount rate on ninety-day commercial paper in effect at the Federal Reserve bank in the Federal Reserve district where the bank is located, whichever may be the greater” for “whichever may be the greater” in two places. See Codification note above.
 
-1974—Pub. L. 93–501 substituted “or in the case of business or agricultural loans in the amount of $25,000 or more, at a rate of 5 per centum in excess of the discount rate on ninety-day commercial paper in effect at the Federal Reserve bank in the Federal Reserve district where the bank is located, whichever may be the greater” for “whichever may be the greater” in two places.
+<b>1974</b>—Pub. L. 93–501 substituted “or in the case of business or agricultural loans in the amount of $25,000 or more, at a rate of 5 per centum in excess of the discount rate on ninety-day commercial paper in effect at the Federal Reserve bank in the Federal Reserve district where the bank is located, whichever may be the greater” for “whichever may be the greater” in two places.
 
-1935—Act Aug. 23, 1935, inserted third sentence.
+<b>1935</b>—Act Aug. 23, 1935, inserted third sentence.
 
-1933—Act June 16, 1933, authorized interest at the alternative rate of 1 per centum in excess of the discount rate on ninety-day commercial paper in effect at the federal reserve bank in the Federal reserve district where the bank is located if greater.
+<b>1933</b>—Act June 16, 1933, authorized interest at the alternative rate of 1 per centum in excess of the discount rate on ninety-day commercial paper in effect at the federal reserve bank in the Federal reserve district where the bank is located if greater.
 
 #### Effective Date of 1980 Amendment
 
@@ -50,7 +50,7 @@ Section 206 of Pub. L. 93–501, which provided that amendment by Pub. L. 93–5
 
 Section 529 of Pub. L. 96–221 provided in part that, notwithstanding the repeal of Pub. L. 96–104 and title II of Pub. L. 96–161, the provisions added to this section by those repealed laws shall continue to apply to any loan made, any deposit made, or any obligation issued in any State during any period when those provisions were in effect in such State.
 
-Section 212 of Pub. L. 96–161 provided in part that, notwithstanding the repeal, effective at the close of Dec. 27, 1979, of Pub. L. 96–104 \[which had enacted sections 86a, 371b–1, 1730e, and 1831a of this title, amended sections 85, 1425b, and 1828 of this title and section 687 of Title 15, Commerce and Trade, repealed sections 371b–1, 1730e, and 1831a of this title and notes set out under sections 371b–1 and 1831a of this title, and enacted provisions set out as notes under this section and sections 86a, 371b–1, and 1831a of this title\], the amendment which had been made by title I of Pub. L. 96–104 and the provisions of that title would continue to apply to any loan made in any State on or after Nov. 5, 1979, but prior to the repeal of Pub. L. 96–104, and that the amendments made by title II of Pub. L. 96–104 would continue to apply to any deposit made or obligation issued in any State on or after Nov. 5, 1979, but prior to the repeal of Pub. L. 96–104.
+Section 212 of Pub. L. 96–161 provided in part that, notwithstanding the repeal, effective at the close of Dec. 27, 1979, of Pub. L. 96–104 \[which had enacted sections 86a, 371b–1, 1730e, and 1831a of this title, amended sections 85, 1425b, and 1828 of this title and section 687 of Title 15, Commerce and Trade, repealed sections371b–1, 1730e, and 1831a of this title and notes set out under sections 371b–1 and 1831a of this title, and enacted provisions set out as notes under this section and sections 86a, 371b–1, and 1831a of this title\], the amendment which had been made by title I of Pub. L. 96–104 and the provisions of that title would continue to apply to any loan made in any State on or after Nov. 5, 1979, but prior to the repeal of Pub. L. 96–104, and that the amendments made by title II of Pub. L. 96–104 would continue to apply to any deposit made or obligation issued in any State on or after Nov. 5, 1979, but prior to the repeal of Pub. L. 96–104.
 
 Section 1 of Pub. L. 96–104 provided in part that, notwithstanding the repeal of titles II and III of Pub. L. 93–501 \[which had enacted sections 371b–1, 1730e, and 1831a of this title, amended sections 85, 1425b, and 1828 of this title, and section 687 of Title 15, Commerce and Trade, and enacted provisions set out as notes under sections 371b–1 and 1831a of this title\], the amendments which had been made by title II of that Act and the provisions of such title would continue to apply to any loan made in any State during the period specified in section 206 of such Act \[set out as a note under section 1831a of this title\] and that the amendments which had been made by title III of such Act would continue to apply to any deposit made or obligation issued in any State during the period specified in section 304 of such Act \[set out as a note under section 371b–1 of this title\].
 

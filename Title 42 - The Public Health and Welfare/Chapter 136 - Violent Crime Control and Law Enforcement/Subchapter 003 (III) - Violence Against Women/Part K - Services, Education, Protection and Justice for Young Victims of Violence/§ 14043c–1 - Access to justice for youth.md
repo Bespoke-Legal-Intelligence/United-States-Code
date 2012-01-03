@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-It is the purpose of this section to encourage cross training and collaboration between the courts, domestic violence and sexual assault service providers, youth organizations and service providers, violence prevention programs, and law enforcement agencies, so that communities can establish and implement policies, procedures, and practices to protect and more comprehensively and effectively serve young victims of dating violence, domestic violence, sexual assault, and stalking who are between the ages of 12 and 24, and to engage, where necessary, other entities addressing the safety, health, mental health, social service, housing, and economic needs of young victims of domestic violence, dating violence, sexual assault, and stalking, including community-based supports such as schools, local health centers, community action groups, and neighborhood coalitions.
+It is the purpose of this section to encourage cross training and collaboration between thecourts, domestic violence and sexual assault service providers, youth organizations and service providers, violence prevention programs, and law enforcement agencies, so that communities can establish and implement policies, procedures, and practices to protect and more comprehensively and effectively serve young victims of dating violence, domestic violence, sexual assault, and stalking who are between the ages of 12 and 24, and to engage, where necessary, other entities addressing the safety, health, mental health, social service, housing, and economic needs of young victims of domestic violence, dating violence, sexual assault, and stalking, including community-based supports such as schools, local health centers, community action groups, and neighborhood coalitions.
 
 #### (b) Grant authority
 
@@ -70,7 +70,7 @@ To be eligible for a grant under this section, the entities that are members of 
 
 #### (e) Priority
 
-In awarding grants under this section, the Director shall give priority to entities that have submitted applications in partnership with community organizations and service providers that work primarily with youth, especially teens, and who have demonstrated a commitment to coalition building and cooperative problem solving in dealing with problems of dating violence, domestic violence, sexual assault, and stalking in teen populations.
+In awarding grants under this section, the Director shall give priority to entities that havesubmitted applications in partnership with community organizations and service providers that work primarily with youth, especially teens, and who have demonstrated a commitment to coalition building and cooperative problem solving in dealing with problems of dating violence, domestic violence, sexual assault, and stalking in teen populations.
 
 #### (f) Distribution
 

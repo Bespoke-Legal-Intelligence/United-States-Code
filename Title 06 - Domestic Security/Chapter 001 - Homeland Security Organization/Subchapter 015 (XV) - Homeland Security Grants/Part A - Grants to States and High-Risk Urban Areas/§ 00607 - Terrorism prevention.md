@@ -30,7 +30,7 @@
 
 #### (3) Participation of underrepresented communities in fusion centers
 
-&emsp;The Administrator shall ensure that grant funds described in paragraph (1) are used to support the participation, as appropriate, of law enforcement and other emergency response providers from rural and other underrepresented communities at risk from acts of terrorism in fusion centers.
+&emsp;The Administrator shall ensure that grant funds described in paragraph (1) are used tosupport the participation, as appropriate, of law enforcement and other emergency response providers from rural and other underrepresented communities at risk from acts of terrorism in fusion centers.
 
 #### (b) Office for State and Local Law Enforcement
 

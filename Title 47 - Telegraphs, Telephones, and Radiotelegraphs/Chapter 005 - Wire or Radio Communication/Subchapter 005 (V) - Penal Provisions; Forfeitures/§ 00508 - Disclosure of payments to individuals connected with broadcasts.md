@@ -18,11 +18,11 @@ The provisions of this section requiring the disclosure of information shall not
 
 #### (e) Announcement under section 317 as sufficient disclosure
 
-The inclusion in the program of the announcement required by section 317 of this title shall constitute the disclosure required by this section.
+The inclusion in the program of the announcement required by section 317 of this title shallconstitute the disclosure required by this section.
 
 #### (f) “Service or other valuable consideration” defined
 
-The term “service or other valuable consideration” as used in this section shall not include any service or property furnished without charge or at a nominal charge for use on, or in connection with, a broadcast, or for use on a program which is intended for broadcasting over any radio station, unless it is so furnished in consideration for an identification in such broadcast or in such program of any person,product, service, trademark, or brand name beyond an identification which is reasonably related to the use of such service or property in such broadcast or such program.
+The term “service or other valuable consideration” as used in this section shall not include any service or property furnished without charge or at a nominal charge for use on, or in connection with, a broadcast, or for use on a program which is intended for broadcasting over any radio station, unless it is so furnished in consideration for an identification in such broadcast or in such program of any person, product, service, trademark, or brand name beyond an identification which is reasonably related to the use of such service or property in such broadcast or such program.
 
 #### (g) Penalties
 

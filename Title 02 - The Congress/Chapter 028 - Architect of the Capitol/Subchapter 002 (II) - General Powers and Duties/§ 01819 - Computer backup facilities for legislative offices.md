@@ -20,7 +20,7 @@ Any building or facility acquired by the Architect of the Capitol pursuant to su
 
 #### (d) Lease of buildings and facilities
 
-In the case of a building or facility acquired through purchase pursuant to subsection (a) of this section, the Architect of the Capitol may enter into or assume a lease with another personfor the use of any portion of the building or facility that the Architect of the Capitol determines is not required to be used to carry out the purposes of this section, subject to the approval of the entity which approved the acquisition of such building or facility under subsection (b) of this section.
+In the case of a building or facility acquired through purchase pursuant to subsection (a) of this section, the Architect of the Capitol may enter into or assume a lease with another person for the use of any portion of the building or facility that the Architect of the Capitol determines is not required to be used to carry out the purposes of this section, subject to the approval of the entity which approved the acquisition of such building or facility under subsection (b) of this section.
 
 #### (e) Effective date
 
@@ -38,7 +38,7 @@ Section was classified to section 166k of former Title 40, prior to the enactmen
 
 #### Amendments
 
-2005—Subsecs. (d), (e). Pub. L. 109–55 added subsec. (d) and redesignated former subsec. (d) as (e).
+<b>2005</b>—Subsecs. (d), (e). Pub. L. 109–55 added subsec. (d) and redesignated former subsec. (d) as (e).
 
 #### Effective Date of 2005 Amendment
 

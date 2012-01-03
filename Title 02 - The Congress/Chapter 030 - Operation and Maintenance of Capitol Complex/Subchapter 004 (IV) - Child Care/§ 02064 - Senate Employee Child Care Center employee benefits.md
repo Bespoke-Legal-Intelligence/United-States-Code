@@ -38,7 +38,7 @@ The Office of Personnel Management shall accept the certification of the Secreta
 
 #### (h) Payment to center of amounts equal to Federal tax on employers
 
-(1) Subject to the provisions of paragraph (2), the Secretary of the Senate shall pay such amounts to the Senate day care center equal to the tax on employers under section 3111 of title 26 with respect to each employee of the Senate day care center. Such payments shall be made from the appropriations account, within the contingent fund of the Senate, “Miscellaneous Items”.
+(1) Subject to the provisions of paragraph (2), the Secretary of the Senate shall pay such amounts to the Senate day care center equal tothe tax on employers under section 3111 of title 26 with respect to each employee of the Senate day care center. Such payments shall be made from the appropriations account, within the contingent fund of the Senate, “Miscellaneous Items”.
 
 (2) The Senate day care center shall provide appropriate documentation to the Secretary of the Senate of payment by such center of the tax described under paragraph (1), before the Secretary of the Senate may pay any amount to such center as provided under paragraph (1).
 
@@ -70,7 +70,7 @@ Section was classified to section 214d of former Title 40, prior to the enactmen
 
 #### Amendments
 
-1993—Subsec. (b)(1). Pub. L. 103–50, §1203(b)(1), substituted “January 1, 1993” for “October 6, 1992”.
+<b>1993</b>—Subsec. (b)(1). Pub. L. 103–50, §1203(b)(1), substituted “January 1, 1993” for “October 6, 1992”.
 
 Subsecs. (h) to (j). Pub. L. 103–50, §1203(a)(1), added subsec. (h) and redesignated former subsecs. (h) and (i) as (i) and (j), respectively.
 

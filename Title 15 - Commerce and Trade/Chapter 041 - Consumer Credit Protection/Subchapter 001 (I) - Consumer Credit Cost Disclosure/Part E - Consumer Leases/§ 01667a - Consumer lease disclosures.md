@@ -16,7 +16,7 @@ Each lessor shall give a lessee prior to the consummation of the lease a dated w
 
 &emsp;(7) A brief description of insurance provided or paid for by the lessor or required of the lessee, including the types and amounts of the coverages and costs;
 
-&emsp;(8) A description of any security interest held or to be retained by the lessor in connection with the lease and a clear identification of the property to which the security interest relates;
+&emsp;(8) A description of any security interest held or to be retained by the lessor in connection with the lease and a clear identificationof the property to which the security interest relates;
 
 &emsp;(9) The number, amount, and due dates or periods of payments under the lease and the total amount of such periodic payments;
 
@@ -24,19 +24,13 @@ Each lessor shall give a lessee prior to the consummation of the lease a dated w
 
 &emsp;(11) A statement of the conditions under which the lessee or lessor may terminate the lease prior to the end of the term and the amount or method of determining any penalty or other charge for delinquency, default, late payments, or early termination.
 
-> The disclosures required under this section may be made in the lease contract to be signed by the lessee. The Board may provide by regulation that any portion of the information required to be disclosed under this section may be given in the form of estimates where the lessor is not in a position to know exact information.
+> The disclosures required under this section may be made in the lease contract to be signed by the lessee. The Bureau may provide by regulation that any portion of the information required to be disclosed under this section may be given in the form of estimates where the lessor is not in a position to know exact information.
 
 (Pub. L. 90–321, title I, §182, as added Pub. L. 94–240, §3, Mar. 23, 1976, 90 Stat. 258; amended Pub. L. 111–203, title X, §1100A(2), (10)(B), July 21, 2010, 124 Stat. 2107, 2109.)
 
-#### Amendment of Section
+#### Amendments
 
-<i>Pub. L. 111–203, title X, §§1100A(2), (10)(B), 1100H, July 21, 2010, 124 Stat. 2107, 2109, 2113, provided that, effective on the designated transfer date, this section is amended as follows:</i>
-
-<i>(1) by striking “Board” each place that term appears and inserting “Bureau”; and</i>
-
-<i>(2) by striking “The Board” each place that term appears and inserting “The Bureau”.</i>
-
-<i>See Effective Date of 2010 Amendment note below.</i>
+<b>2010</b>—Pub. L. 111–203, §1100A(2), (10)(B), made similar amendments, resulting in the substitution of “The Bureau” for “The Board” in concluding provisions.
 
 #### Effective Date of 2010 Amendment
 

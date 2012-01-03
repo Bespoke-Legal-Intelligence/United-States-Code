@@ -10,7 +10,7 @@ It is the purpose of this part—
 
 &emsp;&emsp;(B) achieve a passing score on an examination administered by the International Baccalaureate Organization in such a subject;
 
-&emsp;(3) to increase the availability of, and enrollment in, Advanced Placement or International Baccalaureate courses in mathematics, science, and critical foreign languages, and pre-Advanced Placement or pre-International Baccalaureate courses in such subjects, in high-need schools; and
+&emsp;(3) to increase the availability of, and enrollment in, Advanced Placement or International Baccalaureate courses in mathematics,science, and critical foreign languages, and pre-Advanced Placement or pre-International Baccalaureate courses in such subjects, in high-need schools; and
 
 &emsp;(4) to support statewide efforts to increase the availability of, and enrollment in, Advanced Placement or International Baccalaureate courses in mathematics, science, and critical foreign languages, and pre-Advanced Placement or pre-International Baccalaureate courses in such subjects, in high-need schools.
 

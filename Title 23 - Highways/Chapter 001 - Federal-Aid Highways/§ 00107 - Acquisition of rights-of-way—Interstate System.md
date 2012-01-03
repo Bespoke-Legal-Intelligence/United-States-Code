@@ -4,7 +4,7 @@
 
 &emsp;(1) the Secretary has determined either that the State is unable to acquire necessary lands or interests in lands, or is unable to acquire such lands or interests in lands with sufficient promptness; and
 
-&emsp;(2) the State has agreed with the Secretary to pay, at such time as may be specified by the Secretary an amount equal to 10 per centum of the costs incurred by the Secretary, in acquiring such lands or interests in lands, or such lesser percentage which represents the State's pro rata share of project costs as determined in accordance with subsection (c) <sup>1</sup> of section 120 of this title.
+&emsp;(2) the State has agreed with the Secretary to pay, at such time as may be specified by theSecretary an amount equal to 10 per centum of the costs incurred by the Secretary, in acquiring such lands or interests in lands, or such lesser percentage which represents the State's pro rata share of project costs as determined in accordance with subsection (c) <sup>1</sup> of section 120 of this title.
 
 The authority granted by this section shall also apply to lands and interests in lands received as grants of land from the United States and owned or held by railroads or other corporations.
 

@@ -244,7 +244,7 @@ A prior section 10 of act July 31, 1945, ch. 341, repealed section 713b of Title
 
 #### Amendments
 
-2006—Subsec. (a)(6). Pub. L. 109–438, §10(b)(1)(A), inserted “, including those that are not a party to the Arrangement,” after “countries” in introductory provisions.
+<b>2006</b>—Subsec. (a)(6). Pub. L. 109–438, §10(b)(1)(A), inserted “, including those that are not a party to the Arrangement,” after “countries” in introductory provisions.
 
 Subsec. (a)(6)(C). Pub. L. 109–438, §10(b)(1)(B), (C), added subpar. (C).
 
@@ -254,7 +254,7 @@ Subsec. (b)(5)(B)(i)(III). Pub. L. 109–438, §10(b)(2)(A)(ii), inserted at end
 
 Subsec. (b)(5)(B)(ii). Pub. L. 109–438, §10(a), amended cl. (ii) heading and text generally. Prior to amendment, text read as follows: “Once the principles, process and standards referred to in subparagraph (A) are followed, the final case-by-case decisions on the use of the Tied Aid Credit Fund shall be made by the Bank: <i>Provided however</i>, That the Bank shall not approve the extension of a proposed tied aid credit if the President of the United States determines, after consulting with the President of the Bank and the Secretary of the Treasury, that the extension of the tied aid credit would materially impede achieving the purposes described in subsection (a)(6) of this section.”
 
-2002—Subsec. (a)(4). Pub. L. 107–189, §10(c)(1), struck out “and” at end.
+<b>2002</b>—Subsec. (a)(4). Pub. L. 107–189, §10(c)(1), struck out “and” at end.
 
 Subsec. (a)(5). Pub. L. 107–189, §10(c)(3), added par. (5). Former par. (5) redesignated (6).
 
@@ -272,13 +272,13 @@ Subsec. (g)(1). Pub. L. 107–189, §24(a)(2)(E), substituted “Committee on Fi
 
 Subsec. (h)(7). Pub. L. 107–189, §10(d), added par. (7).
 
-2000—Subsec. (g)(1). Pub. L. 106–569 substituted “The Bank” for “On or before October 15, 1992, and every 6 months thereafter, the Bank” and “submit an annual report” for “submit a report”.
+<b>2000</b>—Subsec. (g)(1). Pub. L. 106–569 substituted “The Bank” for “On or before October 15, 1992, and every 6 months thereafter, the Bank” and “submit an annual report” for “submit a report”.
 
-1997—Subsec. (c)(2). Pub. L. 105–121, §3(a), struck out “through September 30, 1997” after “authorized by the Bank”.
+<b>1997</b>—Subsec. (c)(2). Pub. L. 105–121, §3(a), struck out “through September 30, 1997” after “authorized by the Bank”.
 
 Subsec. (e). Pub. L. 105–121, §3(b), amended first sentence generally. Prior to amendment first sentence read as follows: “There are authorized to be appropriated to the Fund such sums as may be necessary for each of fiscal years 1996 and 1997.”
 
-1996—Subsec. (c)(2). Pub. L. 104–107, §579(a), which directed substitution of “1997” for “1995”, could not be executed because “1995” does not appear in text after amendment by Pub. L. 104–97. See below.
+<b>1996</b>—Subsec. (c)(2). Pub. L. 104–107, §579(a), which directed substitution of “1997” for “1995”, could not be executed because “1995” does not appear in text after amendment by Pub. L. 104–97. See below.
 
 Pub. L. 104–97, §1(a), substituted “1997” for “1995”.
 
@@ -286,7 +286,7 @@ Subsec. (e). Pub. L. 104–107, §579(b), which directed substitution of “1996
 
 Pub. L. 104–97, §1(b), substituted “There are authorized to be appropriated to the Fund such sums as may be necessary for each of fiscal years 1996 and 1997.” for “There are authorized to be appropriated to the Fund $500,000,000 for each of fiscal years 1993, 1994, and 1995.”
 
-1992—Subsec. (a). Pub. L. 102–429, §103(c)(1), (2), substituted “predatory” for “predacious” in par. (1), struck out “temporary” before “tied aid program” in introductory provisions of par. (5), and substituted “existing Arrangement” for “existing arrangement” in par. (5)(A).
+<b>1992</b>—Subsec. (a). Pub. L. 102–429, §103(c)(1), (2), substituted “predatory” for “predacious” in par. (1), struck out “temporary” before “tied aid program” in introductory provisions of par. (5), and substituted “existing Arrangement” for “existing arrangement” in par. (5)(A).
 
 Subsec. (b)(1). Pub. L. 102–429, §103(c)(3)(A), substituted “The” for “To carry out the purposes of subsection (a)(5) of this section, the”.
 
@@ -322,11 +322,11 @@ Contents of report.—Each report required by paragraph (1) shall contain a desc
 
 Subsec. (h). Pub. L. 102–429, §103(c)(8), substituted “For purposes of this section, the following definitions shall apply:” for “For the purpose of this section—” in introductory provisions and added par. (6).
 
-1990—Subsec. (c)(2). Pub. L. 101–513, §562(d)(2), substituted “1992” for “1991”.
+<b>1990</b>—Subsec. (c)(2). Pub. L. 101–513, §562(d)(2), substituted “1992” for “1991”.
 
 Subsec. (e)(1). Pub. L. 101–513, §562(d)(1), substituted “for fiscal year 1990, $300,000,000, and for each of fiscal years 1991 and 1992, $500,000,000” for “and for fiscal years 1990 and 1991, $300,000,000”.
 
-1989—Subsec. (a)(5). Pub. L. 101–240, §101(b)(1), substituted “for the purposes of—”, pars. (A) and (B), and concluding provisions for “for the purpose of facilitating the negotiation of a comprehensive international arrangement restricting the use of tied aid and partially untied aid credits for commercial purposes, and such program should be aggressively used until such an arrangement is established.”
+<b>1989</b>—Subsec. (a)(5). Pub. L. 101–240, §101(b)(1), substituted “for the purposes of—”, pars. (A) and (B), and concluding provisions for “for the purpose of facilitating the negotiation of a comprehensive international arrangement restricting the use of tied aid and partially untied aid credits for commercial purposes, and such program should be aggressively used until such an arrangement is established.”
 
 Subsec. (b)(1). Pub. L. 101–240, §101(b)(2), inserted introductory provisions and struck out former introductory provisions which read as follows: “For the purpose of facilitating the negotiation of a comprehensive international arrangement restricting the use of tied aid and partially untied aid credits for commercial purposes, the Bank shall establish a tied aid credit program under which grants shall be made from funds available in the Tied Aid Credit Fund established under subsection (c) of this section—”.
 
@@ -340,9 +340,9 @@ Pub. L. 101–240, §101(b)(5), inserted “, and for fiscal years 1990 and 199
 
 Subsec. (g)(2)(E). Pub. L. 101–240, §101(b)(6), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “any progress achieved in negotiations to establish a comprehensive international arrangement restricting the use of tied aid and partially untied credits for commercial purposes.”
 
-1988—Subsecs. (c)(2), (e)(1). Pub. L. 100–418 substituted “1988, and 1989” for “and 1988”.
+<b>1988</b>—Subsecs. (c)(2), (e)(1). Pub. L. 100–418 substituted “1988, and 1989” for “and 1988”.
 
-1987—Subsec. (c)(2). Pub. L. 100–217 substituted “during fiscal years 1986, 1987, and 1988” for “during fiscal year 1986”.
+<b>1987</b>—Subsec. (c)(2). Pub. L. 100–217 substituted “during fiscal years 1986, 1987, and 1988” for “during fiscal year 1986”.
 
 #### Use of Fund To Discourage Predatory Financing Practices
 

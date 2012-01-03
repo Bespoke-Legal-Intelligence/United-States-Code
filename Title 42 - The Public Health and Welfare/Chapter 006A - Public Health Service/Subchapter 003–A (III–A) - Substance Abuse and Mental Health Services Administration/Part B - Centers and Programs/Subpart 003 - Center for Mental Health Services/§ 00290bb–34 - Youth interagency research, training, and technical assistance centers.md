@@ -10,7 +10,7 @@ The Secretary, acting through the Administrator of the Substance Abuse and Menta
 
 #### (b) Application
 
-A public or private nonprofit entity desiring a grant or contract under subsection (a) of thissection shall prepare and submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
+A public or private nonprofit entity desiring a grant or contract under subsection (a) of this section shall prepare and submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
 
 #### (c) Authorized activities
 

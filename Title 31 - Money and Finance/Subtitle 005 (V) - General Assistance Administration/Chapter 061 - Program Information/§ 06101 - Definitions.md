@@ -578,7 +578,7 @@ Definitions.—In this section:
 
 #### Transfer of Personnel, Property, Records, and Appropriations
 
-Section 7 of Pub. L. 98–169 provided that: “The Director of the Office of Management and Budget shall transfer to the Administrator of General Services suchpersonnel, property, records, and unexpended balances of appropriations available in connection with any authorities and responsibilities so transferred, as the Director of the Office of Management and Budget determines are necessary to carry out the responsibilities transferred pursuant to this Act \[enacting sections 6105 and 6106 of this title, amending sections 6101 to 6104 of this title and repealing section 6105 of this title\].”
+Section 7 of Pub. L. 98–169 provided that: “The Director of the Office of Management and Budget shall transfer to the Administrator of General Services such personnel, property, records, and unexpended balances of appropriations available in connection with any authorities and responsibilities so transferred, as the Director of the Office of Management and Budget determines are necessary to carry out the responsibilities transferred pursuant to this Act \[enacting sections 6105 and 6106 of this title, amending sections 6101 to 6104 of this title and repealing section 6105 of this title\].”
 
 #### Ex. Ord. No. 12549. Debarment and Suspension of Participants in Federal Programs
 
@@ -636,7 +636,7 @@ Sec. 3. <i>Implementation.</i>
 
 (a) The Office of Management and Budget may assist Federal agencies in resolving differences between the provisions contained in the Federal Acquisition Regulation and in regulations issued pursuant to Executive Order No. 12549. The Office of Management and Budget may determine the date of resolution of differences and then shall notify affected agencies of that date.
 
-(b) To implement this order, proposed regulations amending the Federal Acquisition Regulation and theagency regulations issued pursuant to Executive Order No. 12549 shall be published simultaneously within 6 months of the resolution of differences.
+(b) To implement this order, proposed regulations amending the Federal Acquisition Regulation and the agency regulations issued pursuant to Executive Order No. 12549 shall be published simultaneously within 6 months of the resolution of differences.
 
 (c) Final regulations shall be published simultaneously within 12 months of the publication of the proposed regulations, to be effective 30 days thereafter.
 

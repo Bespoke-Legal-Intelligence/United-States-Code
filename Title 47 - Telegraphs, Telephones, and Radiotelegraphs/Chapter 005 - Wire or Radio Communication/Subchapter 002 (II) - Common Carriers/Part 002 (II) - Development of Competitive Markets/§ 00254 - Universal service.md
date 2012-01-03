@@ -78,7 +78,7 @@ A State may adopt regulations not inconsistent with the Commission's rules to pr
 
 #### (g) Interexchange and interstate services
 
-Within 6 months after February 8, 1996, the Commission shall adopt rules to require that the rates charged by providers of interexchange telecommunications services to subscribers in rural and high cost areas shall be no higher than the rates charged by each such provider to its subscribers in urban areas. Such rules shall also require that a provider of interstate interexchange telecommunications services shall provide such services to its subscribers in each State at rates no higher than the rates charged to its subscribers in any other State.
+Within 6 months after February 8, 1996, the Commission shall adopt rules to require that therates charged by providers of interexchange telecommunications services to subscribers in rural and high cost areas shall be no higher than the rates charged by each such provider to its subscribers in urban areas. Such rules shall also require that a provider of interstate interexchange telecommunications services shall provide such services to its subscribers in each State at rates no higher than the rates charged to its subscribers in any other State.
 
 #### (h) Telecommunications services for certain providers
 
@@ -186,7 +186,7 @@ Within 6 months after February 8, 1996, the Commission shall adopt rules to requ
 
 &emsp;&emsp;&emsp;&emsp;A school covered by clause (i) that does not have in place an Internet safety policy and technology protection measures meeting the requirements necessary for certification under subparagraphs (B) and (C)—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) for the first program year after the effective date of this subsection in which it is applying for funds under this subsection, shall certify that it is undertaking such actions, includingany necessary procurement procedures, to put in place an Internet safety policy and technology protection measures meeting the requirements necessary for certification under subparagraphs (B) and (C); and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) for the first program year after the effective date of this subsection in which it is applying for funds under this subsection, shall certify that it is undertaking such actions, including any necessary procurement procedures, to put in place an Internet safety policy and technology protection measures meeting the requirements necessary for certification under subparagraphs (B) and (C); and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) for the second program year after the effective date of this subsection in which it is applying for funds under this subsection, shall certify that it is in compliance with subparagraphs (B) and (C).
 
@@ -194,7 +194,7 @@ Within 6 months after February 8, 1996, the Commission shall adopt rules to requ
 
 #### (III) Waivers
 
-&emsp;&emsp;&emsp;&emsp;Any school subject to subclause (II) that cannot come into compliance with subparagraphs (B) and (C) in such second year program may seek a waiver of subclause (II)(bb) if State or local procurement rules or regulations or competitive bidding requirements prevent the making of the certification otherwise required by such subclause. A school, school board, local educational agency, or other authority with responsibility for administration of the school shall notify the Commission of the applicability of such subclause to the school. Such notice shall certify that the school in question will be brought into compliance before the start of the third program year after the effective date of this subsection in which the school is applying for funds under this subsection.
+&emsp;&emsp;&emsp;&emsp;Any school subject to subclause (II) that cannot come into compliance with subparagraphs (B) and (C) in such second year program may seek a waiver of subclause (II)(bb) if State or local procurement rules or regulations or competitivebidding requirements prevent the making of the certification otherwise required by such subclause. A school, school board, local educational agency, or other authority with responsibility for administration of the school shall notify the Commission of the applicability of such subclause to the school. Such notice shall certify that the school in question will be brought into compliance before the start of the third program year after the effective date of this subsection in which the school is applying for funds under this subsection.
 
 #### (F) Noncompliance
 
@@ -316,7 +316,7 @@ Within 6 months after February 8, 1996, the Commission shall adopt rules to requ
 
 #### (II) Failure to comply
 
-&emsp;&emsp;&emsp;&emsp;A library that has failed to comply with a certification as described inclause (ii) may remedy the failure by ensuring the use of its computers in accordance with such certification. Upon submittal to the Commission of a certification or other appropriate evidence of such remedy, the library shall be eligible for services at discount rates under this subsection.
+&emsp;&emsp;&emsp;&emsp;A library that has failed to comply with a certification as described in clause (ii) may remedy the failure by ensuring the use of its computers in accordance with such certification. Upon submittal to the Commission of a certification or other appropriate evidence of such remedy, the library shall be eligible for services at discount rates under this subsection.
 
 #### (7) Definitions
 
@@ -432,6 +432,8 @@ A telecommunications carrier may not use services that are not competitive to su
 
 #### References in Text
 
+This chapter, referred to in subsec. (b)(7), was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
+
 The Library Services and Technology Act, referred to in subsec. (h)(4), is subtitle B (§§211–263) of title II of Pub. L. 94–462, as added by Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–295, which is classified generally to subchapter II (§9121 et seq.) of chapter 72 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 9101 of Title 20 and Tables.
 
 Section 8801 of title 20, referred to in subsec. (h)(5)(A)(iii), was repealed by Pub. L. 107–110, title X, §1011(5)(C), Jan. 8, 2002, 115 Stat. 1986. See section 7801 of Title 20, Education.
@@ -508,7 +510,7 @@ Three-Judge District Court Hearing.—Notwithstanding any other provision of law
 
 “(b)
 
-Appellate Review.—Notwithstanding any other provision of law, an interlocutory or final judgment, decree, or order of the court of three judges in an action under subsection (a) holding this title or an amendment made by this title, or any provision thereof, unconstitutional shall be reviewable as a matter of right by direct appeal to the Supreme Court. Any such appeal shall be filed not more than 20 days after entry of such judgment, decree, or order.”
+Appellate Review.—Notwithstanding any other provision of law, an interlocutory or final judgment, decree, or order of the court of three judges in an action under subsection (a) holding this title or an amendment made by this title, or any provision thereof, unconstitutional shall be reviewable as a matter ofright by direct appeal to the Supreme Court. Any such appeal shall be filed not more than 20 days after entry of such judgment, decree, or order.”
 
 #### Universal Service Fund Payment Schedule
 

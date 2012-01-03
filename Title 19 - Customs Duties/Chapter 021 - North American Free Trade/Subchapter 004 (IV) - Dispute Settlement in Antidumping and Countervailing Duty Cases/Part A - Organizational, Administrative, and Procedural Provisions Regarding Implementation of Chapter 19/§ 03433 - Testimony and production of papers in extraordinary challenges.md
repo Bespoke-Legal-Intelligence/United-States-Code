@@ -20,7 +20,7 @@ The attendance of witnesses who are authorized to be summoned, and the productio
 
 #### (c) Mandamus
 
-Any court referred to in subsection (b) of this section shall have jurisdiction to issue writs of mandamus commanding compliance with the provisions of this section or any order of the committee made in pursuance thereof.
+Any court referred to in subsection (b) of this section shall have jurisdiction to issue writs ofmandamus commanding compliance with the provisions of this section or any order of the committee made in pursuance thereof.
 
 #### (d) Depositions
 

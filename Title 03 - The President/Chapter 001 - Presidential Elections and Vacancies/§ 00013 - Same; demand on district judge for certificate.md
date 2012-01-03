@@ -6,9 +6,9 @@ When no certificates of votes from any State shall have been received at the sea
 
 #### Amendments
 
-1984—Pub. L. 98–497 substituted “Archivist of the United States” for “Administrator of General Services”.
+<b>1984</b>—Pub. L. 98–497 substituted “Archivist of the United States” for “Administrator of General Services”.
 
-1951—Act Oct. 31, 1951, substituted “Administrator of General Services” for “Secretary of State”.
+<b>1951</b>—Act Oct. 31, 1951, substituted “Administrator of General Services” for “Secretary of State”.
 
 #### Effective Date of 1984 Amendment
 

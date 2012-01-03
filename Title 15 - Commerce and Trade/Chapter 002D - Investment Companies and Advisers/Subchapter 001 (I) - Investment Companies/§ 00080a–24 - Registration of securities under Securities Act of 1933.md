@@ -60,7 +60,7 @@ In addition to any prospectus permitted or required by section 10(a) of the Secu
 
 #### References in Text
 
-The Securities Act of 1933, referred to in subsecs. (a), (c), and (e), is act May 27, 1933, ch. 38, title I, 48 Stat.74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
+The Securities Act of 1933, referred to in subsecs. (a), (c), and (e), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
 For the effective date of this subchapter, referred to in subsec. (c), see section 80a–52 of this title.
 
@@ -88,7 +88,7 @@ Subsec. (e). Act Aug. 10, 1954, §403, added subsec. (e).
 
 #### Effective Date of 1996 Amendment
 
-Section 203(c) of Pub. L. 104–290 provided that: “The amendments made by this section \[amending this section\] shall become effective on the earlier of—
+Pub. L. 104–290, title II, §203(c), Oct. 11, 1996, 110 Stat. 3428, provided that: “The amendments made by this section \[amending this section\] shall become effective on the earlier of—
 
 &emsp;“(1) 1 year after the date of enactment of this Act \[Oct. 11, 1996\]; or
 

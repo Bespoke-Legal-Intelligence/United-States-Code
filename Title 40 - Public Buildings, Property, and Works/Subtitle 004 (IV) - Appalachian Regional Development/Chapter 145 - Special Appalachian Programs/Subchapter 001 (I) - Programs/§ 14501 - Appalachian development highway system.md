@@ -38,7 +38,7 @@ Indigenous materials and products.—In the construction of highways and roads a
 
 &emsp;(2)
 
-Coal derivatives.—For research and development in the use of coal and coal products in highway construction and maintenance, the Secretary may require each participating State, to the maximum extent possible, to use coal derivatives in the construction of not more than 10 percent of the roads authorized under this subtitle.
+Coal derivatives.—For research and development in the use of coal and coal products in highway construction and maintenance, theSecretary may require each participating State, to the maximum extent possible, to use coal derivatives in the construction of not more than 10 percent of the roads authorized under this subtitle.
 
 (e)
 

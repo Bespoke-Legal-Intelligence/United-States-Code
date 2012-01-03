@@ -10,7 +10,7 @@ Every official agency, every State agency delegated authority under this chapter
 
 #### (c) Access to records; audits
 
-Every official agency, every State agency delegated authority under this chapter, and everyperson licensed to perform any official inspection or official weighing or supervision of weighing function under this chapter required to maintain records under this section shall permit any authorized representative of the Secretary or the Comptroller General of the United States to have access to, and to copy, such records at all reasonable times. The Secretary shall, from time to time, perform audits of official agencies and State agencies delegated authority of this chapter in such manner and at such periodic intervals as the Secretary deems appropriate.
+Every official agency, every State agency delegated authority under this chapter, and every person licensed to perform any official inspection or official weighing or supervision of weighing function under this chapter required to maintain records under this section shall permit any authorized representative of the Secretary or the Comptroller General of the United States to have access to, and to copy, such records at all reasonable times. The Secretary shall, from time to time, perform audits of official agencies and State agencies delegated authority of this chapter in such manner and at such periodic intervals as the Secretary deems appropriate.
 
 #### (d) Maintenance of records by persons or entities receiving official inspection or weighing services; access to records and facilities
 
@@ -24,21 +24,21 @@ A prior section 12 of act Aug. 11, 1916, ch. 313, pt. B, 39 Stat. 485, which app
 
 #### Amendments
 
-1994—Pub. L. 103–354 struck out “or Administrator” after “representative of the Secretary” in subsec. (c), struck out “or the Administrator” after “representative of the Secretary” in subsec. (d), and substituted “Secretary” for “Administrator” wherever appearing.
+<b>1994</b>—Pub. L. 103–354 struck out “or Administrator” after “representative of the Secretary” in subsec. (c), struck out “or the Administrator” after “representative of the Secretary” in subsec. (d), and substituted “Secretary” for “Administrator” wherever appearing.
 
-1993—Pub. L. 103–156, §12(k), which directed amendment of “Section 12”, without specifying the name of the Act being amended, was executed to this section, which is section 12 of the United States Grain Standards Act, to reflect the probable intent of Congress.
+<b>1993</b>—Pub. L. 103–156, §12(k), which directed amendment of “Section 12”, without specifying the name of the Act being amended, was executed to this section, which is section 12 of the United States Grain Standards Act, to reflect the probable intent of Congress.
 
 Subsec. (b). Pub. L. 103–156, §12(k)(1), substituted “the judgment of the Administrator” for “his judgment”.
 
 Subsec. (c). Pub. L. 103–156, §12(k)(2), substituted “the Administrator” for “he”.
 
-1977—Subsecs. (a), (b). Pub. L. 95–113, §1604(i)(1), inserted “, every State agency delegated authority under this chapter,” after “official agency”.
+<b>1977</b>—Subsecs. (a), (b). Pub. L. 95–113, §1604(i)(1), inserted “, every State agency delegated authority under this chapter,” after “official agency”.
 
 Subsec. (c). Pub. L. 95–113, §1604(i)(1), (2), inserted “, every State delegated authority under this chapter,” after “official agency” and corrected a typographical error in Pub. L. 94–582 under which “delegate authority of this chapter” had been erroneously used instead of “delegated authority under this chapter”.
 
 Subsec. (d). Pub. L. 95–113, §1601, substituted “shall maintain such complete and accurate records for such period of time as the Administrator may, by regulation, prescribe for the purpose of the administration and enforcement of this chapter” for “shall, within the five-year period thereafter, maintain complete and accurate records of purchases, sales, transportation, storage, weighing, handling, treating, cleaning, drying, blending, and other processing, and official inspection and official weighing of grain,”.
 
-1976—Subsec. (a). Pub. L. 94–582 substituted “official agency” for “official inspection agency” and “Administrator” for “Secretary” and inserted reference to licensed performance of official weighing or supervision of weighing function.
+<b>1976</b>—Subsec. (a). Pub. L. 94–582 substituted “official agency” for “official inspection agency” and “Administrator” for “Secretary” and inserted reference to licensed performance of official weighing or supervision of weighing function.
 
 Subsec. (b). Pub. L. 94–582 substituted “Every official agency and every person licensed to perform any official inspection or official weighing or supervision of weighing function under this chapter” for “Every official inspection agency” and “Administrator” for “Secretary” in two places, increased from two to five years the period of time for keeping the records, and inserted provision for keeping the records after the weighing.
 

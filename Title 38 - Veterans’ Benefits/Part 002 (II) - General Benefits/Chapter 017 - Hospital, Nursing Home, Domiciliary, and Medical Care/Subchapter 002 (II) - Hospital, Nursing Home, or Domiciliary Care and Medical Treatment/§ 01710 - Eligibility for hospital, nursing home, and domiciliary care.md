@@ -36,7 +36,7 @@
 
 &emsp;(B) Any veteran who the Secretary determines has no adequate means of support.
 
-(c) While any veteran is receiving hospital care or nursing home care in any Department facility, the Secretary may, within the limits of Department facilities, furnish medical services to correct or treat any non-service-connected disability of such veteran, in addition to treatment incident to the disability for which such veteran is hospitalized, if the veteran is willing, and the Secretary finds such services to be reasonably necessary to protect the health of such veteran. The Secretary may furnish dental services and treatment, and related dental appliances, under this subsection for a non-service-connected dental condition or disability of a veteran only (1) to the extent that the Secretary determines that the dental facilities of the Department to be used to furnish such services, treatment, or appliances are not needed to furnish services, treatment, or appliances for dental conditions or disabilities described in section 1712(a) of this title, or (2) if (A) such non-service-connected dental condition or disability is associated with or aggravating a disability for which such veteran is receiving hospital care, or (B) a compelling medical reason or a dental emergency requires furnishing dental services, treatment, or appliances (excluding the furnishing of such services, treatment, or appliances of a routine nature) to such veteran during the period of hospitalization under this section.
+(c) While any veteran is receiving hospital care or nursing home care in any Department facility, the Secretary may, within the limits of Department facilities, furnish medical services to correct or treat any non-service-connected disability of such veteran, in addition to treatment incident to the disability for which such veteran is hospitalized, if the veteran is willing, and the Secretary finds such services to be reasonably necessary to protect the health of such veteran. The Secretary may furnish dental services and treatment, and related dental appliances, under this subsection for a non-service-connected dental condition or disability of aveteran only (1) to the extent that the Secretary determines that the dental facilities of the Department to be used to furnish such services, treatment, or appliances are not needed to furnish services, treatment, or appliances for dental conditions or disabilities described in section 1712(a) of this title, or (2) if (A) such non-service-connected dental condition or disability is associated with or aggravating a disability for which such veteran is receiving hospital care, or (B) a compelling medical reason or a dental emergency requires furnishing dental services, treatment, or appliances (excluding the furnishing of such services, treatment, or appliances of a routine nature) to such veteran during the period of hospitalization under this section.
 
 (d) In no case may nursing home care be furnished in a hospital not under the direct jurisdiction of the Secretary except as provided in section 1720 of this title.
 
@@ -74,7 +74,7 @@
 
 &emsp;(B) The term “radiation-exposed veteran” has the meaning given that term in section 1112(c)(3) of this title.
 
-(5) When the Secretary first provides care for veterans using the authority provided in paragraph (1)(D), the Secretary shall establish a system for collection and analysis of information on the general health status and health care utilization patterns of veterans receiving care under that paragraph. Not later than 18 months after first providing care under such authority, the Secretary shall submit to Congress a report on the experience under that authority. The Secretary shall include in the report any recommendations of the Secretary for extension of that authority.
+(5) When the Secretary first provides care for veterans using the authority provided in paragraph (1)(D), the Secretary shall establish a system for collection and analysis of information on the general health status and health care utilization patterns of veterans receiving care under that paragraph. Not later than 18 monthsafter first providing care under such authority, the Secretary shall submit to Congress a report on the experience under that authority. The Secretary shall include in the report any recommendations of the Secretary for extension of that authority.
 
 (f)(1) The Secretary may not furnish hospital care or nursing home care (except if such care constitutes hospice care) under this section to a veteran who is eligible for such care under subsection (a)(3) of this section unless the veteran agrees to pay to the United States the applicable amount determined under paragraph (2) or (4) of this subsection.
 
@@ -96,7 +96,7 @@
 
 (B) In the case of nursing home care furnished during any 365-day period, the amount referred to in paragraph (2)(A)(ii) of this subsection is the amount of the inpatient Medicare deductible for each 90 days of such care (or fraction thereof) during such 365-day period.
 
-(C)(i) Except as provided in clause (ii) of this subparagraph, in the case of a veteran who is admitted for nursing home care under this section after being furnished, during the preceding 365-day period, hospital care for which the veteran has paid the amount of the inpatient Medicaredeductible under this subsection and who has not been furnished 90 days of hospital care in connection with such payment, the veteran shall not incur any liability under paragraph (2) of this subsection with respect to such nursing home care until—
+(C)(i) Except as provided in clause (ii) of this subparagraph, in the case of a veteran who is admitted for nursing home care under this section after being furnished, during the preceding 365-day period, hospital care for which the veteran has paid the amount of the inpatient Medicare deductible under this subsection and who has not been furnished 90 days of hospital care in connection with such payment, the veteran shall not incur any liability under paragraph (2) of this subsection with respect to such nursing home care until—
 
 &emsp;(I) the veteran has been furnished, beginning with the first day of such hospital care furnished in connection with such payment, a total of 90 days of hospital care and nursing home care; or
 
@@ -286,7 +286,7 @@ Subsec. (f)(3)(E). Pub. L. 104–262, §101(d)(4)(B), substituted “paragraph (
 
 Subsec. (f)(3)(F). Pub. L. 104–262, §101(d)(4)(C), substituted “subsection (g)” for “section 1712(f) of this title”.
 
-Subsec. (g). Pub. L. 104–262, §101(b)(2), redesignated subsec. (f) of section 1712 of this title as subsec. (g) ofthis section and substituted “subsection (a)(3) of this section” for “section 1710(a)(2) of this title” in par. (1). See Codification note above.
+Subsec. (g). Pub. L. 104–262, §101(b)(2), redesignated subsec. (f) of section 1712 of this title as subsec. (g) of this section and substituted “subsection (a)(3) of this section” for “section 1710(a)(2) of this title” in par. (1). See Codification note above.
 
 Pub. L. 104–262, §101(b)(1), redesignated subsec. (g) as (h).
 
@@ -360,7 +360,7 @@ Subsec. (f)(1), (2). Pub. L. 101–508, §8013(a)(2)(A), added pars. (1) and (2)
 
 “(1) The Administrator may not furnish hospital care or nursing home care under this section to a veteran who is eligible for such care by reason of subsection (a)(2)(B) of this section unless the veteran agrees to pay to the United States the applicable amount determined under paragraph (2) of this subsection.
 
-“(2) A veteran who is furnished hospital care or nursing home care under this section and who is required under paragraph (1) of this subsection to agree to pay an amount to the United States in order to be furnished such care shall be liable to the United States for an amount equal to the lesser of—
+“(2) A veteran who is furnished hospital care or nursing home care under this section and who is requiredunder paragraph (1) of this subsection to agree to pay an amount to the United States in order to be furnished such care shall be liable to the United States for an amount equal to the lesser of—
 
 &emsp;“(A) the cost of furnishing such care, as determined by the Administrator; and
 
@@ -452,7 +452,7 @@ Amendment by section 202(b) of Pub. L. 107–135 effective Oct. 1, 2002, see sec
 
 #### Effective Date of 1999 Amendment
 
-Amendment by section 101(f) of Pub. L. 106–117 effective Nov. 30, 1999, with provisions of subsec. (f) of this section not applicable to any day of nursing home care on or after the effective date of regulations under section 101(h)(2) of Pub. L. 106–117, see section 101(h) of Pub. L. 106–117, set out as an Effective Date note under section 1710B of this title.
+Amendment by section 101(f) of Pub. L. 106–117 effective Nov. 30, 1999, with provisions of subsec. (f) of thissection not applicable to any day of nursing home care on or after the effective date of regulations under section 101(h)(2) of Pub. L. 106–117, see section 101(h) of Pub. L. 106–117, set out as an Effective Date note under section 1710B of this title.
 
 Pub. L. 106–117, title II, §201(c), as added by Pub. L. 106–419, title II, §224(c), Nov. 1, 2000, 114 Stat. 1846, provided that: “The amendments made by subsection (b) \[amending this section\] shall apply with respect to medical services furnished under section 1710(a) of title 38, United States Code, on or after the effective date of the regulations prescribed by the Secretary of Veterans Affairs to establish the amounts required to be established under paragraphs (1) and (2) of section 1710(g) of that title, as amended by subsection (b).”
 
@@ -476,7 +476,7 @@ Section 1(c)(1) of Pub. L. 103–210 provided that: “The amendments made by su
 
 Pub. L. 102–145, §111, Oct. 28, 1991, 105 Stat. 970, provided that: “Notwithstanding any other provision of this joint resolution or any other law, the amendments made by sections 8012 and 8013 of the Omnibus Budget Reconciliation Act of 1990 (Public Law 101–508) \[enacting section 622A \[now 1722A\] of this title and amending this section and sections 612 \[now 1712\] and 622 \[now 1722\] of this title\] shall remain in effect through the period covered by this joint resolution \[see section 106 of Pub. L. 102–145, 105 Stat. 970, as amended by Pub. L. 102–163, 105 Stat. 1048\].”
 
-Pub. L. 102–109, §111, Sept. 30, 1991, 105 Stat. 553, provided that: “Notwithstanding any other provision ofthis joint resolution or any other law, the amendments made by sections 8012 and 8013 of the Omnibus Budget Reconciliation Act of 1990 (Public Law 101–508) \[enacting section 622A \[now 1722A\] of this title and amending this section and sections 612 \[now 1712\] and 622 \[now 1722\] of this title\] shall remain in effect through the period covered by this joint resolution \[see section 106 of Pub. L. 102–109, 105 Stat. 553\].”
+Pub. L. 102–109, §111, Sept. 30, 1991, 105 Stat. 553, provided that: “Notwithstanding any other provision of this joint resolution or any other law, the amendments made by sections 8012 and 8013 of the Omnibus Budget Reconciliation Act of 1990 (Public Law 101–508) \[enacting section 622A \[now 1722A\] of this title and amending this section and sections 612 \[now 1712\] and 622 \[now 1722\] of this title\] shall remain in effect through the period covered by this joint resolution \[see section 106 of Pub. L. 102–109, 105 Stat. 553\].”
 
 Section 8013(d) and (e) of Pub. L. 101–508, as amended by Pub. L. 102–139, title V, §518(b), Oct. 28, 1991, 105 Stat. 779; Pub. L. 102–568, title VI, §606(b), Oct. 29, 1992, 106 Stat. 4343; Pub. L. 103–66, title XII, §12002(a), Aug. 10, 1993, 107 Stat. 414; Pub. L. 105–33, title VIII, §8021(a)(2), Aug. 5, 1997, 111 Stat. 665, provided that:
 
@@ -676,7 +676,7 @@ Report.—Not later than 180 days after the date of the enactment of this Act, t
 
 “(c)
 
-Authority To Provide System.—If the Secretary concludes in the report under subsection (b) that a personal emergency response system should be provided by the Department of Veterans Affairs to veterans with service-connected disabilities—
+Authority To Provide System.—If the Secretary concludes in the report under subsection (b) thata personal emergency response system should be provided by the Department of Veterans Affairs to veterans with service-connected disabilities—
 
 &emsp;“(1) the Secretary may provide such a system, without charge, to any veteran with a service-connected disability who is enrolled under section 1705 of title 38, United States Code, and who submits an application for such a system under subsection (d); and
 
@@ -874,7 +874,7 @@ General Authority.—In furnishing hospital care and medical services under chap
 
 “(b)
 
-Responsibilities of Directors of Facilities.—The Secretary shall ensure that directors of medical facilities of the Department identify and assess opportunities under the authority provided in title II of this Act \[38 U.S.C. 8111 note\] to (1) expand the availability of, and access to, health care services for women veterans under sections 1710 and 1712 of title 38, United States Code, and (2) provide counseling, care, and services authorized by this title \[see Short Title of 1992 Amendment note set out under section 101 of this title\].”
+Responsibilities of Directors of Facilities.—The Secretary shall ensure that directors of medical facilities of the Department identify and assess opportunities under the authority provided in title II of this Act \[38 U.S.C. 8111 note\] to (1) expand the availability of, and access to, health care services for women veterans under sections 1710 and 1712 of title 38, United States Code, and (2) provide counseling, care, and services authorized by this title \[see Short Title of 1992Amendment note set out under section 101 of this title\].”
 
 #### Report on Health Care and Research
 

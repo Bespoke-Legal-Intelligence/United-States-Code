@@ -1,15 +1,5 @@
 ### SUBCHAPTER I—GENERAL PROVISIONS
 
-<i><sup>1</sup></i><i> So in original. Does not conform to chapter heading.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be capitalized.</i>
-
-<i><sup>1</sup></i><i> Section repealed by Pub. L. 86–682 without corresponding amendment of chapter analysis.</i>
-
-<i><sup>2</sup></i><i> So in original. Does not conform to section catchline.</i>
-
-<i><sup>3</sup></i><i> Section catchline amended by Pub. L. 86–769 without corresponding amendment of chapter analysis.</i>
-
 
 ---
 

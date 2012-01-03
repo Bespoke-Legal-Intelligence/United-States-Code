@@ -4,7 +4,7 @@
 
 #### (1) Benefits through enrollment in a PACE program
 
-&emsp;In accordance with this section, in the case of an individual who is entitled to benefits under part A of this subchapter or enrolledunder part B of this subchapter and who is a PACE program eligible individual (as defined in paragraph (5)) with respect to a PACE program offered by a PACE provider under a PACE program agreement—
+&emsp;In accordance with this section, in the case of an individual who is entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter and who is a PACE program eligible individual (as defined in paragraph (5)) with respect to a PACE program offered by a PACE provider under a PACE program agreement—
 
 &emsp;&emsp;(A) the individual may enroll in the program under this section; and
 
@@ -292,7 +292,7 @@
 
 #### (C) Disclosure
 
-&emsp;&emsp;The results of reviews under this paragraph shall be reported promptly to thePACE provider, along with any recommendations for changes to the provider's program, and shall be made available to the public upon request.
+&emsp;&emsp;The results of reviews under this paragraph shall be reported promptly to the PACE provider, along with any recommendations for changes to the provider's program, and shall be made available to the public upon request.
 
 #### (5) Termination of PACE provider agreements
 
@@ -334,7 +334,7 @@
 
 #### (B) Application of intermediate sanctions
 
-&emsp;&emsp;Under regulations, the Secretary may provide for the application against a PACE provider of remedies described in section 1395w–27(g)(2) (or, for periods before January 1, 1999, section 1395mm(i)(6)(B) of this title) or 1396b(m)(5)(B) of this title in the case of violations by the provider of the type described in section 1395w–27(g)(1) (or section 1395mm(i)(6)(A) of this title for such periods) or 1396b(m)(5)(A) of this title, respectively (in relation to agreements, enrollees, and requirements under this section or section 1396u–4 of this title, respectively).
+&emsp;&emsp;Under regulations, the Secretary may provide for the application against a PACE provider of remedies described in section 1395w–27(g)(2) (or, for periods before January1, 1999, section 1395mm(i)(6)(B) of this title) or 1396b(m)(5)(B) of this title in the case of violations by the provider of the type described in section 1395w–27(g)(1) (or section 1395mm(i)(6)(A) of this title for such periods) or 1396b(m)(5)(A) of this title, respectively (in relation to agreements, enrollees, and requirements under this section or section 1396u–4 of this title, respectively).
 
 #### (7) Procedures for termination or imposition of sanctions
 
@@ -392,7 +392,7 @@
 
 #### (4) Construction
 
-&emsp;Nothing in this subsection shall be construed as preventing the Secretary from including in regulations provisions to ensure the health and safety of individuals enrolled in a PACE program under this section that are in addition to those otherwise provided under paragraphs (2) and (3).
+&emsp;Nothing in this subsection shall be construed as preventing the Secretary from including in regulations provisions to ensure the health and safety of individuals enrolled in aPACE program under this section that are in addition to those otherwise provided under paragraphs (2) and (3).
 
 #### (g) Waivers of requirements
 
@@ -428,11 +428,9 @@ With respect to carrying out a PACE program under this section, the following re
 
 Nothing in this section or section 1396u–4 of this title shall be construed as preventing a PACE provider from entering into contracts with other governmental or nongovernmental payers for the care of PACE program eligible individuals who are not eligible for benefits under part A of this subchapter, or enrolled under part B of this subchapter, or eligible for medical assistance under subchapter XIX of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1894, as added Pub. L. 105–33, title IV, §4801, Aug. 5, 1997, 111 Stat. 528; amended Pub. L. 106–554, §1(a)(6) \[title IX, §902(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–582; Pub. L. 108–173, title II, §236(a)(2), Dec. 8, 2003, 117 Stat. 2210; Pub. L. 110–275, title I, §161(c), July 15, 2008, 122 Stat. 2569; Pub. L. 111–148, title III, §3201(i)(1), Mar. 23, 2010, 124Stat. 453; Pub. L. 111–152, title I, §1102(a), Mar. 30, 2010, 124 Stat. 1040.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1894, as added Pub. L. 105–33, title IV, §4801, Aug. 5, 1997, 111 Stat. 528; amended Pub. L. 106–554, §1(a)(6) \[title IX, §902(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–582; Pub. L. 108–173, title II, §236(a)(2), Dec. 8, 2003, 117 Stat. 2210; Pub. L. 110–275, title I, §161(c), July 15, 2008, 122 Stat. 2569; Pub. L. 111–148, title III, §3201(i)(1), Mar. 23, 2010, 124 Stat. 453; Pub. L. 111–152, title I, §1102(a), Mar. 30, 2010, 124 Stat. 1040.)
 
 #### References in Text
-
-Parts A, B, and C of this subchapter, referred to in subsecs. (a)(1), (e)(7), (f)(3), and (i), are classified to sections 1395c et seq., 1395j et seq., and 1395w–21 et seq., respectively, of this title.
 
 The Internal Revenue Code of 1986, referred to in subsec. (a)(3)(A)(i), is classified generally to Title 26, Internal Revenue Code.
 
@@ -480,7 +478,7 @@ Repeal of section 3201 of Pub. L. 111–148 and the amendments made by such sect
 
 #### Effective Date of 2003 Amendment
 
-Amendment by Pub. L. 108–173 applicable to services furnished on or after Jan. 1, 2004, see section 236(c) of Pub. L. 108–173, set out as a note under section 1395cc of this title.
+Amendment by Pub. L. 108–173 applicable to services furnished on or after Jan. 1, 2004, see section 236(c) ofPub. L. 108–173, set out as a note under section 1395cc of this title.
 
 #### Effective Date of 2000 Amendment
 
@@ -632,7 +630,7 @@ Costs incurred per provider.—No rural PACE pilot site may receive more than $5
 
 &emsp;&emsp;“(C)
 
-Limitation of outlier cost reimbursement period.—A rural PACE pilot site shall only receive outlier expense payments under this subsection with respect to costs incurred during the first 3 years of the site's operation.
+Limitation of outlier cost reimbursement period.—A rural PACE pilot site shall only receive outlier expense payments under this subsectionwith respect to costs incurred during the first 3 years of the site's operation.
 
 &emsp;“(5)
 
@@ -786,7 +784,7 @@ In general.—Not later than 4 years after the date of the enactment of this Act
 
 Treatment of private, for-profit providers.—The report shall include specific findings on whether any of the following findings is true:
 
-&emsp;&emsp;“(A) The number of covered lives enrolled with entities operating under demonstration projectwaivers under sections 1894(h) and 1934(h) of the Social Security Act is fewer than 800 (or such lesser number as the Secretary may find statistically sufficient to make determinations respecting findings described in the succeeding subparagraphs).
+&emsp;&emsp;“(A) The number of covered lives enrolled with entities operating under demonstration project waivers under sections 1894(h) and 1934(h) of the Social Security Act is fewer than 800 (or such lesser number as the Secretary may find statistically sufficient to make determinations respecting findings described in the succeeding subparagraphs).
 
 &emsp;&emsp;“(B) The population enrolled with such entities is less frail than the population enrolled with other PACE providers.
 

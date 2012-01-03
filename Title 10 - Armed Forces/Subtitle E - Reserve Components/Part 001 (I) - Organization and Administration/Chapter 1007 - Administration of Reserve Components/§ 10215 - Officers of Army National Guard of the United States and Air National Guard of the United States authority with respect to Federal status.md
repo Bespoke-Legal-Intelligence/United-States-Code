@@ -14,7 +14,7 @@
 
 (b) Officers of the Army National Guard of the United States or the Air National Guard of the United States who are not on active duty—
 
-&emsp;(1) may enlist, reenlist, or extend the enlistments of persons as Reserves of the Army or Reserves of the Air Force for service in the Army National Guard of the United States or the Air National Guard of the United States, as the case may be; and
+&emsp;(1) may enlist, reenlist, or extend the enlistments of persons as Reserves of the Army orReserves of the Air Force for service in the Army National Guard of the United States or the Air National Guard of the United States, as the case may be; and
 
 &emsp;(2) with respect to their Federal status, may promote or discharge persons enlisted or reenlisted as Reserves of the Army or Reserves of the Air Force for that service.
 

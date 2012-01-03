@@ -43,17 +43,17 @@
 
 #### Amendments
 
-2000—Pub. L. 106–252, §2(b), July 28, 2000, 114 Stat. 633, added items 116 to 126.
+<b>2000</b>—Pub. L. 106–252, §2(b), July 28, 2000, 114 Stat. 633, added items 116 to 126.
 
-1998—Pub. L. 105–261, div. A, title X, §1075(a)(2), Oct. 17, 1998, 112 Stat. 2138, added item 115.
+<b>1998</b>—Pub. L. 105–261, div. A, title X, §1075(a)(2), Oct. 17, 1998, 112 Stat. 2138, added item 115.
 
-1996—Pub. L. 104–95, §1(b), Jan. 10, 1996, 109 Stat. 980, added item 114.
+<b>1996</b>—Pub. L. 104–95, §1(b), Jan. 10, 1996, 109 Stat. 980, added item 114.
 
-1977—Pub. L. 95–67, §1(b), July 19, 1977, 91 Stat. 271, added item 113.
+<b>1977</b>—Pub. L. 95–67, §1(b), July 19, 1977, 91 Stat. 271, added item 113.
 
-1966—Pub. L. 89–554, §2(b), Sept. 6, 1966, 80 Stat. 608, added item 111 and redesignated former item 111 as 112.
+<b>1966</b>—Pub. L. 89–554, §2(b), Sept. 6, 1966, 80 Stat. 608, added item 111 and redesignated former item 111 as 112.
 
-1949—Act May 24, 1949, ch. 139, §129(a), 63 Stat. 107, added item 111.
+<b>1949</b>—Act May 24, 1949, ch. 139, §129(a), 63 Stat. 107, added item 111.
 
 #### Civil and Criminal Jurisdiction over Indians
 

@@ -20,7 +20,7 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 #### Effective Date of 1996 Amendment
 
-Section 814(e)(2) of div. I of Pub. L. 104–333 provided that: “The amendment made by subsection (a) \[probably should be “paragraph (1)”, which amended this section\] shall take effect on February 1, 1997, and shall apply with respect to the individual (if any) serving as the Director of the National Park Service on that date.”
+Pub. L. 104–333, div. I, title VIII, §814(e)(2), Nov. 12, 1996, 110 Stat. 4197, provided that: “The amendment made by subsection (a) \[probably should be “paragraph (1)”, which amended this section\] shall take effect on February 1, 1997, and shall apply with respect to the individual (if any) serving as the Director of the National Park Service on that date.”
 
 #### Short Title of 2009 Amendment
 
@@ -50,7 +50,7 @@ Pub. L. 105–391, title III, §301, Nov. 13, 1998, 112 Stat. 3501, provided tha
 
 #### Short Title of 1996 Amendment
 
-Section 1 of Pub. L. 104–333 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Omnibus Parks and Public Lands Management Act of 1996’.”
+Pub. L. 104–333, §1, Nov. 12, 1996, 110 Stat. 4093, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Omnibus Parks and Public Lands Management Act of 1996’.”
 
 #### Short Title of 1983 Amendment
 

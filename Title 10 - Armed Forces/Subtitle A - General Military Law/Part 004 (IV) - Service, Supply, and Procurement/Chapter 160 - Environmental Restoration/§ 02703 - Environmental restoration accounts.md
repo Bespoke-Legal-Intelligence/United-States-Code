@@ -76,7 +76,7 @@ Pub. L. 109–163, §312(b)(2), added subsec. (h).
 
 Subsec. (c)(2). Pub. L. 108–136, §313(a)(3), redesignated par. (4) as (2) and struck out second sentence which read as follows: “Not more than 5 percent of the funds deposited in an account under subsection (a) for a fiscal year may be used to pay relocation costs under paragraph (1)(B).”
 
-Pub. L. 108–136, §313(a)(2), struck out par. (2) which read as follows: “The authority provided by paragraph (1)(B) expires September 30, 2003. The Secretary of Defense or the Secretary of a military department may not pay the costs of permanently relocating a facility under such paragraph unless the Secretary—
+Pub. L. 108–136, §313(a)(2), struck out par. (2) which read as follows: “The authority provided by paragraph\(1)(B) expires September 30, 2003. The Secretary of Defense or the Secretary of a military department may not pay the costs of permanently relocating a facility under such paragraph unless the Secretary—
 
 &emsp;“(A) determines that permanent relocation—
 

@@ -70,7 +70,7 @@ The treasurer shall preserve all records required to be kept by this section and
 
 #### (h) Campaign depositories; designations, maintenance of accounts, etc.; petty cash fund for disbursements; record of disbursements
 
-(1) Each political committee shall designate one or more State banks, federally chartered depository institutions, or depository institutions the deposits or accounts of which are insured by the Federal Deposit Insurance Corporation, the Federal Savings and Loan Insurance Corporation, or the National Credit Union Administration, as its campaign depository or depositories. Each political committee shall maintain at least one checking account and such other accounts as the committee determines at a depository designated by such committee. All receipts received by such committee shall be deposited in such accounts. No disbursements may be made (other than petty cash disbursements under paragraph (2)) by such committee except by check drawn on such accounts in accordance with this section.
+(1) Each political committee shall designate one or more State banks, federally chartered depository institutions, or depository institutions the deposits or accounts of which are insured by the Federal Deposit Insurance Corporation, the Federal Savings and Loan Insurance Corporation, or the National Credit Union Administration, as its campaign depository or depositories. Each political committee shall maintain at least one checking account and such other accounts as the committee determines at a depository designated by such committee. All receipts received by such committee shall be deposited insuch accounts. No disbursements may be made (other than petty cash disbursements under paragraph (2)) by such committee except by check drawn on such accounts in accordance with this section.
 
 (2) A political committee may maintain a petty cash fund for disbursements not in excess of $100 to any person in connection with a single purchase or transaction. A record of all petty cash disbursements shall be maintained in accordance with subsection (c)(5) of this section.
 
@@ -86,11 +86,11 @@ This Act, referred to in text, means the Federal Election Campaign Act of 1971, 
 
 #### Amendments
 
-2004—Subsec. (e)(3)(B). Pub. L. 108–447 substituted “$2,000” for “$1,000”.
+<b>2004</b>—Subsec. (e)(3)(B). Pub. L. 108–447 substituted “$2,000” for “$1,000”.
 
-1997—Subsec. (g)(1). Pub. L. 105–55 struck out “and” after “Senator,” and inserted “and by the Republican and Democratic Senatorial Campaign Committees” after “candidate,”.
+<b>1997</b>—Subsec. (g)(1). Pub. L. 105–55 struck out “and” after “Senator,” and inserted “and by the Republican and Democratic Senatorial Campaign Committees” after “candidate,”.
 
-1995—Subsec. (d). Pub. L. 104–79, §1(b), inserted at end “For any report filed in electronic format under section 434(a)(11) of this title, the treasurer shall retain a machine-readable copy of the report as the copy preserved under the preceding sentence.”
+<b>1995</b>—Subsec. (d). Pub. L. 104–79, §1(b), inserted at end “For any report filed in electronic format under section 434(a)(11) of this title, the treasurer shall retain a machine-readable copy of the report as the copy preserved under the preceding sentence.”
 
 Subsec. (g)(1). Pub. L. 104–79, §3(a)(1), (2), redesignated par. (2) as (1) and struck out former par. (1) which read as follows: “Designations, statements, and reports required to be filed under this Act by a candidate or by an authorized committee of a candidate for the office of Representative in, or Delegate or Resident Commissioner to, the Congress, and by the principal campaign committee of such a candidate, shall be filed with the Clerk of the House of Representatives, who shall receive such designations, statements, and reports as custodian for the Commission.”
 
@@ -102,9 +102,9 @@ Subsec. (g)(4). Pub. L. 104–79, §3(a)(2), (5), redesignated par. (5) as (4) a
 
 Subsec. (g)(5). Pub. L. 104–79, §3(a)(2), redesignated par. (5) as (4).
 
-1986—Subsec. (i). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsec. (i). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-1980—Subsec. (a). Pub. L. 96–187 struck out reference to the chairman as a person authorized to accept or make a contribution on behalf of a political committee.
+<b>1980</b>—Subsec. (a). Pub. L. 96–187 struck out reference to the chairman as a person authorized to accept or make a contribution on behalf of a political committee.
 
 Subsec. (b). Pub. L. 96–187 redesignated subsec. (b) as par. (1) of subsec. (b), substituted “for an authorized political committee shall, no later than 10 days after receiving such contribution, forward to the treasurer such contribution, and if the amount of the contribution is in excess of $50 the name and address of the person making the contribution and the date of the receipt.” for “in excess of $50 for a political committee shall, on demand of the treasurer, and in any event within five days after receipt of such contribution, render to the treasurer a detailed account thereof, including the amount of the contribution and the identification of the person making such contribution, and the date on which received. All funds of a political committee shall be segregated from, and may not be commingled with, any personal funds of officers, members, or associates of such committee.”, and added pars. (2) and (3).
 
@@ -112,17 +112,17 @@ Subsec. (c). Pub. L. 96–187 substituted “The treasurer of a political commit
 
 Subsec. (d). Pub. L. 96–187 substituted provisions requiring the treasurer to preserve all records required by this section and copies of all reports to be filed by this subchapter for 3 years after the filing of the report for provisions requiring the treasurer to keep receipted bills for expenditures in excess of $100, and for expenditures of lesser amounts if the aggregate amount to the same person during a calendar year exceeds $100, such receipts to be kept for a period to be determined by the Secretary.
 
-Subsec. (e). Pub. L. 96–187 in par. (1) substituted provisions requiring a written designation of a political committee no later than 15 days after becoming a candidate, with the designation of additional committees to be filed with the principal committee, for provisions prohibiting the designation of a committee as the principal campaign committee of more than one candidate except that the presidential candidate may nominate the national committee of a political party as his principal campaign committee; in par. (2) substituted provisions considering any candidate receiving a contribution or loan or making a disbursement as an agent of the authorized committees for provisions requiring the filing of any report or statement of contributions required to be filed with the Commission to be filed instead with the principal campaign committee; in par. (3) redesignated existing provisions as introductory clause of par. (3)(A), and in such clause as so redesignated, substituted provision that no political committee which supports or has supported more than one candidate may be designated as an authorized committee for provisions requiring principal committee to receive reports and statements and to compile and file such reports and statements together with its own reports and statements with the Commission, and added pars. (3)(A)(i), (ii), (4) and (5).
+Subsec. (e). Pub. L. 96–187 in par. (1) substituted provisions requiring a written designation of a political committee no later than 15 days after becoming a candidate, with the designation of additional committees to be filed with the principal committee, for provisions prohibiting the designation of a committee as the principal campaign committee of more than one candidate except that the presidential candidate may nominate the national committee of a political party as his principal campaign committee; in par. (2) substituted provisions considering any candidate receiving a contribution or loan or making a disbursement as an agent of the authorized committees for provisions requiring the filing of any report or statement of contributions required to be filed with the Commission to be filed instead with the principal campaign committee; in par.\(3) redesignated existing provisions as introductory clause of par. (3)(A), and in such clause as so redesignated, substituted provision that no political committee which supports or has supported more than one candidate may be designated as an authorized committee for provisions requiring principal committee to receive reports and statements and to compile and file such reports and statements together with its own reports and statements with the Commission, and added pars. (3)(A)(i), (ii), (4) and (5).
 
 Subsecs. (f) to (i). Pub. L. 96–187 added subsecs. (f) to (i).
 
-1976—Subsec. (b). Pub. L. 94–283, §103(a), substituted “$50” for “$10”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–283, §103(a), substituted “$50” for “$10”.
 
 Subsec. (c)(2). Pub. L. 94–283, §103(b), substituted “$50” for “$10”.
 
 Subsecs. (e), (f). Pub. L. 94–283, §103(c), (d), redesignated subsec. (f) as (e) and in par. (1) of subsec. (e) as so redesignated inserted provision that occasional, isolated, or incidental support of a candidate not be construed as support for such a candidate for purposes of determining whether a political committee supports more than one candidate. Former subsec. (e) providing for the giving of notice by a candidate that a political committee soliciting funds on his behalf is not authorized to do so and that he is not responsible for the activities of that committee was eliminated.
 
-1974—Subsec. (b). Pub. L. 93–443, §202(a)(1), substituted “of the contribution and the identification” for “, the name and address (occupation and principal place of business, if any)”.
+<b>1974</b>—Subsec. (b). Pub. L. 93–443, §202(a)(1), substituted “of the contribution and the identification” for “, the name and address (occupation and principal place of business, if any)”.
 
 Subsec. (c)(2). Pub. L. 93–443, §202(a)(2), (3), substituted “identification” for “full name and mailing address (occupation and the principal place of business, if any)” before “of every person” and inserted end text reading “and, if a person's contributions aggregate more than $100, the account shall include occupation, and the principal place of business (if any)”.
 

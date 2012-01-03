@@ -2,15 +2,15 @@
 
 This subpart shall apply to the publication and review of farm marketing quotas established for corn, wheat, cotton, and rice, established under part B of this subchapter.
 
-(Feb. 16, 1938, ch. 30, title III, §361, 52 Stat. 62; Apr. 3, 1941, ch. 39, §4, 55 Stat. 92; Pub. L. 107–171, title I, §1309(h)(1), May 13, 2002, 116 Stat. 181; Pub. L. 108–357, title VI, §611(h), Oct. 22, 2004, 118 Stat. 1522.)
+(Feb. 16, 1938, ch. 30, title III, §361, 52 Stat. 62; Apr. 3, 1941, ch. 39, §4, 55 Stat. 92; Pub. L. 107–171,title I, §1309(h)(1), May 13, 2002, 116 Stat. 181; Pub. L. 108–357, title VI, §611(h), Oct. 22, 2004, 118 Stat. 1522.)
 
 #### Amendments
 
-2004—Pub. L. 108–357 struck out “tobacco,” after “established for”.
+<b>2004</b>—Pub. L. 108–357 struck out “tobacco,” after “established for”.
 
-2002—Pub. L. 107–171 struck out “peanuts,” after “cotton,”.
+<b>2002</b>—Pub. L. 107–171 struck out “peanuts,” after “cotton,”.
 
-1941—Act Apr. 3, 1941, inserted “peanuts,” after “cotton,”.
+<b>1941</b>—Act Apr. 3, 1941, inserted “peanuts,” after “cotton,”.
 
 #### Effective Date of 2004 Amendment
 

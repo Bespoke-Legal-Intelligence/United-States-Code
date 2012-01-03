@@ -30,9 +30,9 @@ The Secretary shall carry out the special program through the Commodity Credit C
 
 #### Amendments
 
-1985—Subsec. (a). Pub. L. 99–198 substituted “1990” for “1985”.
+<b>1985</b>—Subsec. (a). Pub. L. 99–198 substituted “1990” for “1985”.
 
-1981—Subsec. (a). Pub. L. 97–98, §1110(1), (2), substituted “1985” for “1981” and “If a special program is implemented” for “Under the special program”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–98, §1110(1), (2), substituted “1985” for “1981” and “If a special program is implemented” for “Under the special program”.
 
 Subsec. (d). Pub. L. 97–98, §1110(3), inserted “, reduced acreage, or land diversion”.
 

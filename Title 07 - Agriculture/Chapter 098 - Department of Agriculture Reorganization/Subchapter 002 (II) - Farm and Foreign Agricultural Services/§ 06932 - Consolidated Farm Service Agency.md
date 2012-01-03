@@ -12,7 +12,7 @@ If the Secretary establishes the Consolidated Farm Service Agency under subsecti
 
 &emsp;(2) Repealed. Pub. L. 104–127, title I, §194(c), Apr. 4, 1996, 110 Stat. 946.
 
-&emsp;(3) Agricultural credit programs assigned before October 13, 1994, by law to the Farmers Home Administration (including farm ownership and operating, emergency, and disaster loan programs) and other lending programs for agricultural producers and others engaged in the production of agricultural commodities.
+&emsp;(3) Agricultural credit programs assigned before October 13, 1994, by law to the Farmers Home Administration (including farm ownership and operating, emergency, and disaster loan programs) and other lending programs foragricultural producers and others engaged in the production of agricultural commodities.
 
 &emsp;(4) Subchapter B of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 \[16 U.S.C. 3831 et seq.\].
 
@@ -94,7 +94,7 @@ Section is comprised of section 226 of Pub. L. 103–354. Subsec. (h) of section
 
 #### Amendments
 
-1996—Subsec. (b)(2). Pub. L. 104–127, §194(c), struck out par. (2) which read as follows: “General supervision of the Federal Crop Insurance Corporation.”
+<b>1996</b>—Subsec. (b)(2). Pub. L. 104–127, §194(c), struck out par. (2) which read as follows: “General supervision of the Federal Crop Insurance Corporation.”
 
 Subsec. (b)(4). Pub. L. 104–127, §336(a)(2)(C), struck out before period at end “and the agricultural conservation program under the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590g et seq.)”.
 

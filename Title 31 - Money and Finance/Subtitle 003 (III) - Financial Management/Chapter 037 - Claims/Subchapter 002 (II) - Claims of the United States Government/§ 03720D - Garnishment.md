@@ -6,7 +6,7 @@
 
 &emsp;(1) The amount deducted under this section for any pay period may not exceed 15 percent of disposable pay, except that a greater percentage may be deducted with the written consent of the individual.
 
-&emsp;(2) The individual shall be provided written notice, sent by mail to the individual's last known address, a minimum of 30 days prior to the initiation of proceedings, from the head of the executive, judicial, or legislative agency, informing the individual of—
+&emsp;(2) The individual shall be provided written notice, sent by mail to the individual's lastknown address, a minimum of 30 days prior to the initiation of proceedings, from the head of the executive, judicial, or legislative agency, informing the individual of—
 
 &emsp;&emsp;(A) the nature and amount of the debt to be collected;
 

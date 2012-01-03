@@ -8,7 +8,7 @@ The purpose of this section is to provide assistance to prepare educators to imp
 
 &emsp;(2) incorporating curricula and resources concerning appropriate and effective instruction and assessment methodologies specific to limited English proficient children into preservice and inservice professional development programs;
 
-&emsp;(3) upgrading the qualifications and skills of non-certified educational personnel, including paraprofessionals, to enable such personnel to meet high professional standards for educating limited English proficient children;
+&emsp;(3) upgrading the qualifications and skills of non-certified educational personnel, includingparaprofessionals, to enable such personnel to meet high professional standards for educating limited English proficient children;
 
 &emsp;(4) improving the quality of professional development programs in schools or departments of education at institutions of higher education, for educational personnel serving, or preparing to serve, limited English proficient children; and
 

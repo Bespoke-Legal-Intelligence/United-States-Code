@@ -4,6 +4,10 @@ Nothing in this chapter shall be understood or construed to give the Commission 
 
 (June 19, 1934, ch. 652, title III, §326, 48 Stat. 1091; June 25, 1948, ch. 645, §21, 62 Stat. 862.)
 
+#### References in Text
+
+This chapter, referred to in text, was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
+
 #### Amendments
 
 <b>1948</b>—Act June 25, 1948, repealed last sentence relating to use of indecent language. See section 1464 of Title 18, Crimes and Criminal Procedure.

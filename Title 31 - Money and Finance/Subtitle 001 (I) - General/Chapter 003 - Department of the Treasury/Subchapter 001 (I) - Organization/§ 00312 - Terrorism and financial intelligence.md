@@ -152,13 +152,13 @@ Section 9703 of title 31, referred to in subsec. (d), probably means the section
 
 A prior section 312 was renumbered section 315 of this title.
 
-#### Change of Name
-
-Reference to Community Management Staff deemed to be a reference to the staff of the Office of the Director of National Intelligence, see section 1081(c) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
-
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–203 renumbered section 313 of this title as this section.
+
+#### Change of Name
+
+Reference to Community Management Staff deemed to be a reference to the staff of the Office of the Director of National Intelligence, see section 1081(c) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
 
 #### Effective Date of 2010 Amendment
 

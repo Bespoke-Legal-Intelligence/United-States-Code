@@ -60,5 +60,9 @@ Section 1036 of the National Defense Authorization Act for Fiscal Year 2010, ref
 
 #### Amendments
 
-2010—Subsec. (a)(1)(C). Pub. L. 111–140 added subpar. (C).
+<b>2010</b>—Subsec. (a)(1)(C). Pub. L. 111–140 added subpar. (C).
+
+#### Change of Name
+
+Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 

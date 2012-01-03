@@ -38,7 +38,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 1125 of the House amendment is derived from section 1125 of the House bill and Senate amendmentexcept with respect to section 1125(f) of the Senate amendment. It will not be necessary for the court to consider the report of the examiner prior to approval of a disclosure statement. The investigation of the examiner is to proceed on an independent basis from the procedure of the reorganization under chapter 11. In order to ensure that the examiner's report will be expeditious and fair, the examiner is precluded from serving as a trustee in the case or from representing a trustee if a trustee is appointed, whether the case remains in chapter 11 or is converted to chapter 7 or 13.
 
@@ -86,7 +86,7 @@ Subsection (e) is a safe harbor provision, and is necessary to make the exemptio
 
 #### Amendments
 
-2005—Subsec. (a)(1). Pub. L. 109–8, §717, inserted “including a discussion of the potential material Federal tax consequences of the plan to the debtor, any successor to the debtor, and a hypothetical investor typical of the holders of claims or interests in the case,” after “records,” and substituted “such a hypothetical investor” for “a hypothetical reasonable investor typical of holders of claims or interests”.
+<b>2005</b>—Subsec. (a)(1). Pub. L. 109–8, §717, inserted “including a discussion of the potential material Federal tax consequences of the plan to the debtor, any successor to the debtor, and a hypothetical investor typical of the holders of claims or interests in the case,” after “records,” and substituted “such a hypothetical investor” for “a hypothetical reasonable investor typical of holders of claims or interests”.
 
 Pub. L. 109–8, §431(1), inserted before semicolon “and in determining whether a disclosure statement provides adequate information, the court shall consider the complexity of the case, the benefit of additional information to creditors and other parties in interest, and the cost of providing additional information”.
 
@@ -100,9 +100,9 @@ Subsec. (f). Pub. L. 109–8, §431(2), added subsec. (f) and struck out former 
 
 Subsec. (g). Pub. L. 109–8, §408, added subsec. (g).
 
-1994—Subsec. (f). Pub. L. 103–394 added subsec. (f).
+<b>1994</b>—Subsec. (f). Pub. L. 103–394 added subsec. (f).
 
-1984—Subsec. (a)(1). Pub. L. 98–353, §509(a)(1), inserted “, but adequate information need not include such information about any other possible or proposed plan”.
+<b>1984</b>—Subsec. (a)(1). Pub. L. 98–353, §509(a)(1), inserted “, but adequate information need not include such information about any other possible or proposed plan”.
 
 Subsec. (a)(2)(B). Pub. L. 98–353, §509(a)(2), inserted “the” after “with”.
 

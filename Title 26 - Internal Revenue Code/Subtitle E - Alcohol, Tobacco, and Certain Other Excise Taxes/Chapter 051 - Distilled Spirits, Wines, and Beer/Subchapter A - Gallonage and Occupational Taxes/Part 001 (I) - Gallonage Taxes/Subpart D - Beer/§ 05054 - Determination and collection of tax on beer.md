@@ -20,7 +20,7 @@
 
 #### (4) Unlawfully imported beer
 
-&emsp;Beer smuggled or brought into the United States unlawfully shall, for purposes of thischapter, be held to be imported into the United States, and the internal revenue tax shall be due and payable at the time of such importation.
+&emsp;Beer smuggled or brought into the United States unlawfully shall, for purposes of this chapter, be held to be imported into the United States, and the internal revenue tax shall be due and payable at the time of such importation.
 
 #### (b) Tax on returned beer
 

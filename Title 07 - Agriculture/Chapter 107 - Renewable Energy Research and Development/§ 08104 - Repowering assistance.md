@@ -42,7 +42,7 @@ To be eligible to receive a payment under this section, a biorefinery shall demo
 
 #### References in Text
 
-The date of enactment of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (a), is the dateof enactment of Pub. L. 110–246, which was approved June 18, 2008.
+The date of enactment of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (a), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
 #### Codification
 

@@ -24,7 +24,7 @@ A certificate of registration of a mark may be issued to the assignee of the app
 
 #### (e) Surrender, cancellation, or amendment by owner
 
-Upon application of the owner the Director may permit any registration to be surrendered for cancellation, and upon cancellation appropriate entry shall be made in the records of the United States Patent and Trademark Office. Upon application of the owner and payment of the prescribed fee, the Director for good cause may permit any registration to be amended or to be disclaimed in part: <i>Provided</i>, That the amendment or disclaimer does not alter materially the character of the mark. Appropriate entry shall be made in the records of the United States Patent and Trademark Office and upon the certificate of registration.
+Upon application of the owner the Director may permit any registration to be surrendered for cancellation, and upon cancellation appropriate entry shall be made in the records of the United States Patent and Trademark Office.Upon application of the owner and payment of the prescribed fee, the Director for good cause may permit any registration to be amended or to be disclaimed in part: <i>Provided</i>, That the amendment or disclaimer does not alter materially the character of the mark. Appropriate entry shall be made in the records of the United States Patent and Trademark Office and upon the certificate of registration.
 
 #### (f) Copies of United States Patent and Trademark Office records as evidence
 
@@ -82,7 +82,7 @@ Subsec. (h). Pub. L. 100–667, §109(2), (6), redesignated former subsec. (g) a
 
 <b>1975</b>—Subsecs. (a), (c) to (f). Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
 
-<b>1962</b>—Subsec. (a). Pub. L. 87–772 substituted “signature placed” for “name printed”, and struck out provisions requiring an attestation by an assistant commissioner or by one of the law examiners designated by the Commissioner, together with printed copies of the drawing and statement of the applicant, to be kept in books for that purpose.
+<b>1962</b>—Subsec. (a). Pub. L. 87–772 substituted “signature placed” for “name printed”, and struck out provisions requiring an attestation by an assistant commissioner or by one of the law examiners designated by the Commissioner, together with printed copies of thedrawing and statement of the applicant, to be kept in books for that purpose.
 
 Subsec. (d). Pub. L. 87–772, among other charges, removed the requirement of a fee in connection with the voluntary surrender or cancellation of a registration.
 

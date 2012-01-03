@@ -10,7 +10,7 @@ The Council shall consist of fifteen members, at least twelve of whom shall be m
 
 #### (c) Terms of office
 
-Each member of the Council shall hold office for a term of four years, except that (1) any member appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term; and (2) the terms of the members first taking office after July 29, 1975, shall expire as follows: four shall expire four years after such date, four shall expire three years after such date, four shall expire two years after such date, and three shall expire one year after such date, as designated by the Secretary at the time of appointment.
+Each member of the Council shall hold office for a term of four years, except that (1) anymember appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term; and (2) the terms of the members first taking office after July 29, 1975, shall expire as follows: four shall expire four years after such date, four shall expire three years after such date, four shall expire two years after such date, and three shall expire one year after such date, as designated by the Secretary at the time of appointment.
 
 #### (d) Applicability of section 14(a) of Federal Advisory Committee Act
 
@@ -122,7 +122,7 @@ Section 211(b) of Pub. L. 93–348, as amended by Pub. L. 94–278, title III, �
 
 #### Effective Date of 1972 Amendment
 
-Section 9 of Pub. L. 92–423 provided that: “This Act and the amendments made by this Act \[see Short Title of 1972 Amendment note under section 201 of this title\] shall take effect sixty days after the date of enactmentof this Act \[Sept. 19, 1972\] or on such prior date after the date of enactment of this Act as the President shall prescribe and publish in the Federal Register.”
+Section 9 of Pub. L. 92–423 provided that: “This Act and the amendments made by this Act \[see Short Title of 1972 Amendment note under section 201 of this title\] shall take effect sixty days after the date of enactment of this Act \[Sept. 19, 1972\] or on such prior date after the date of enactment of this Act as the President shall prescribe and publish in the Federal Register.”
 
 #### Effective Date of 1971 Amendment
 

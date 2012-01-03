@@ -6,7 +6,7 @@ Every person who makes payments of unemployment compensation aggregating $10 or 
 
 #### (b) Statements to be furnished to individuals with respect to whom information is required
 
-Every person required to make a return under subsection (a) shall furnish to each individual whose name is required to be set forth in such return a written statement showing—
+Every person required to make a return under subsection (a) shall furnish to each individualwhose name is required to be set forth in such return a written statement showing—
 
 &emsp;(1) the name, address, and phone number of the information contact of the person required to make such return, and
 

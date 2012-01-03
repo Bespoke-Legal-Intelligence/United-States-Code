@@ -34,7 +34,7 @@ In this section, the following definitions apply:
 
 #### (4) Great Lakes State
 
-&emsp;The term “Great Lakes State” means each of the States of Illinois, Indiana, Michigan,Minnesota, Ohio, Pennsylvania, New York, and Wisconsin.
+&emsp;The term “Great Lakes State” means each of the States of Illinois, Indiana, Michigan, Minnesota, Ohio, Pennsylvania, New York, and Wisconsin.
 
 #### (c) Great Lakes fishery and ecosystem restoration
 
@@ -76,7 +76,7 @@ In this section, the following definitions apply:
 
 #### (B) Studies
 
-&emsp;&emsp;Evaluations under subparagraph (A) shall be conducted in consultation with the Great Lakes Fishery Commission and appropriate Federal, State, and local agencies.
+&emsp;&emsp;Evaluations under subparagraph (A) shall be conducted in consultation with the GreatLakes Fishery Commission and appropriate Federal, State, and local agencies.
 
 #### (d) Cooperative agreements
 

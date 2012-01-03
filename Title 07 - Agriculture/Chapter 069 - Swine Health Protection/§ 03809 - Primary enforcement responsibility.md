@@ -34,5 +34,5 @@ Nothing in this section shall limit the authority of the Secretary to enforce th
 
 #### Amendments
 
-1996—Subsecs. (c), (d). Pub. L. 104–127 added subsec. (c) and redesignated former subsec. (c) as (d).
+<b>1996</b>—Subsecs. (c), (d). Pub. L. 104–127 added subsec. (c) and redesignated former subsec. (c) as (d).
 

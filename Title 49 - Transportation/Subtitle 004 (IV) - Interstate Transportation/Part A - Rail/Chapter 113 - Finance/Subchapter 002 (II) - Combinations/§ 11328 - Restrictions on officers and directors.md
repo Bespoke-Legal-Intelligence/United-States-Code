@@ -14,7 +14,7 @@ Prior sections 11341 to 11351 and 11361 to 11367 were omitted in the general ame
 
 Section 11341, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1434; Pub. L. 97–261, §21(a), Sept. 20, 1982, 96 Stat. 1122, related to exclusive authority of Interstate Commerce Commission under former sections 11341 to 11351 of this title. See sections 11321, 14302, and 14303 of this title.
 
-Section 11342, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1434; Pub. L. 96–296, §20, July 1, 1980, 94 Stat. 811; Pub.L. 96–454, §5(c), Oct. 15, 1980, 94 Stat. 2014, related to limitation on pooling and division of transportation or earnings. See sections 11322 and 14302 of this title.
+Section 11342, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1434; Pub. L. 96–296, §20, July 1, 1980, 94 Stat. 811; Pub. L. 96–454, §5(c), Oct. 15, 1980, 94 Stat. 2014, related to limitation on pooling and division of transportation or earnings. See sections 11322 and 14302 of this title.
 
 Section 11343, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1434; Pub. L. 96–296, §18(b), July 1, 1980, 94 Stat. 811; Pub. L. 97–261, §21(b), Sept. 20, 1982, 96 Stat. 1122, related to consolidation, merger, and acquisition of control. See sections 11323 and 14303 of this title.
 

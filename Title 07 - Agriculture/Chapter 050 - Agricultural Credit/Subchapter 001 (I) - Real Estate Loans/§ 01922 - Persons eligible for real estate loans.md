@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary may make and insure loans under this subchapter to farmers and ranchers in the United States, and to farm cooperatives and private domestic corporations, partnerships, joint operations, trusts, and limited liability companies that are controlled by farmers and ranchers and engaged primarily and directly in farming or ranching in the United States, subject to the conditions specified in this section. To be eligible for such loans, applicants who are individuals, or, in the case of cooperatives, corporations, partnerships, joint operations, trusts, and limited liability companies, individuals holding a majority interest in such entity, must (1) be citizens of the United States, (2) for direct loans only, have either training or farming experience that the Secretary determines is sufficient to assure reasonable prospects of success in the proposed farming operations, taking into consideration all farming experience of the applicant, without regard to any lapse between farming experiences, (3) be or will become owner-operators of not larger than family farms (or in the case of cooperatives, corporations, partnerships, joint operations, trusts, and limited liability companies in which a majority interest is held by individuals who are related by blood or marriage, as defined by the Secretary, such individuals must be or will become either owners or operators of not larger than a family farm and at least one such individual must be or will become an operator of not larger than a family farm or, in the case of holders of the entire interest who are related by blood or marriage and all of whom are or will become farm operators, the ownership interest of each such holder separately constitutes not larger than a family farm, even if their interests collectively constitute larger than a family farm, as defined by the Secretary), and (4) be unable to obtain sufficient credit elsewhere to finance their actual needs at reasonable rates and terms, taking into consideration prevailing private and cooperative rates and terms in the community in or near which the applicant resides for loans forsimilar purposes and periods of time. In addition to the foregoing requirements of this section, in the case of corporations, partnerships, joint operations, trusts, and limited liability companies, the family farm requirement of clause (3) of the preceding sentence shall apply as well to the farm or farms in which the entity has an ownership and operator interest and the requirement of clause (4) of the preceding sentence shall apply as well to the entity in the case of cooperatives, corporations, partnerships, joint operations, trusts, and limited liability companies.
+The Secretary may make and insure loans under this subchapter to farmers and ranchers in the United States, and to farm cooperatives and private domestic corporations, partnerships, joint operations, trusts, and limited liability companies that are controlled by farmers and ranchers and engaged primarily and directly in farming or ranching in the United States, subject to the conditions specified in this section. To be eligible for such loans, applicants who are individuals, or, in the case of cooperatives, corporations, partnerships, joint operations, trusts,and limited liability companies, individuals holding a majority interest in such entity, must (1) be citizens of the United States, (2) for direct loans only, have either training or farming experience that the Secretary determines is sufficient to assure reasonable prospects of success in the proposed farming operations, taking into consideration all farming experience of the applicant, without regard to any lapse between farming experiences, (3) be or will become owner-operators of not larger than family farms (or in the case of cooperatives, corporations, partnerships, joint operations, trusts, and limited liability companies in which a majority interest is held by individuals who are related by blood or marriage, as defined by the Secretary, such individuals must be or will become either owners or operators of not larger than a family farm and at least one such individual must be or will become an operator of not larger than a family farm or, in the case of holders of the entire interest who are related by blood or marriage and all of whom are or will become farm operators, the ownership interest of each such holder separately constitutes not larger than a family farm, even if their interests collectively constitute larger than a family farm, as defined by the Secretary), and (4) be unable to obtain sufficient credit elsewhere to finance their actual needs at reasonable rates and terms, taking into consideration prevailing private and cooperative rates and terms in the community in or near which the applicant resides for loans for similar purposes and periods of time. In addition to the foregoing requirements of this section, in the case of corporations, partnerships, joint operations, trusts, and limited liability companies, the family farm requirement of clause (3) of the preceding sentence shall apply as well to the farm or farms in which the entity has an ownership and operator interest and the requirement of clause (4) of the preceding sentence shall apply as well to the entity in the case of cooperatives, corporations, partnerships, joint operations, trusts, and limited liability companies.
 
 #### (b) Direct loans
 
@@ -46,21 +46,21 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Pub. L. 110–246, §5001(1), inserted “real estate” before “loans” in section catchline.
+<b>2008</b>—Pub. L. 110–246, §5001(1), inserted “real estate” before “loans” in section catchline.
 
 Subsec. (a). Pub. L. 110–246, §5001, inserted subsec. heading, substituted “The Secretary may” for “The Secretary is authorized to” in introductory provisions, and inserted “, taking into consideration all farming experience of the applicant, without regard to any lapse between farming experiences” after “farming operations” in cl. (2).
 
-2002—Subsec. (a). Pub. L. 107–171, §5302(a), substituted “joint operations, trusts, and limited liability companies” for “and joint operations” wherever appearing.
+<b>2002</b>—Subsec. (a). Pub. L. 107–171, §5302(a), substituted “joint operations, trusts, and limited liability companies” for “and joint operations” wherever appearing.
 
 Subsec. (b)(1). Pub. L. 107–171, §5001, substituted “participated in the business operations of” for “operated” in introductory provisions.
 
-1998—Subsec. (a). Pub. L. 105–277, §101(a) \[title VIII, §805(1)\], inserted “for direct loans only,” before “have either” in cl. (2).
+<b>1998</b>—Subsec. (a). Pub. L. 105–277, §101(a) \[title VIII, §805(1)\], inserted “for direct loans only,” before “have either” in cl. (2).
 
 Subsec. (b)(3)(D). Pub. L. 105–277, §101(a) \[title VIII, §804\], added subpar. (D).
 
-1996—Subsec. (b). Pub. L. 104–127 added subsec. (b) and struck out former subsec. (b) which read as follows: “The Secretary may not restrict eligibility for loans made or insured under this subchapter for purposes set forth in section 1923 of this title solely to borrowers of loans that are outstanding on December 23, 1985.”
+<b>1996</b>—Subsec. (b). Pub. L. 104–127 added subsec. (b) and struck out former subsec. (b) which read as follows: “The Secretary may not restrict eligibility for loans made or insured under this subchapter for purposes set forth in section 1923 of this title solely to borrowers of loans that are outstanding on December 23, 1985.”
 
-1985—Subsec. (a). Pub. L. 99–198, §§1301(a), 1302(a)(1), designated existing provisions as subsec. (a) and substituted—
+<b>1985</b>—Subsec. (a). Pub. L. 99–198, §§1301(a), 1302(a)(1), designated existing provisions as subsec. (a) and substituted—
 
 &emsp;(1) “, partnerships, and joint operations” for “and partnerships” wherever appearing after “corporations”;
 
@@ -72,11 +72,11 @@ Pub. L. 99–198, §1303, in cl. (3) parenthetical, inserted provision treating 
 
 Subsec. (b). Pub. L. 99–198, §1302(a)(2), added subsec. (b).
 
-1981—Pub. L. 97–98 substituted “corporations and partnerships, the family farm” for “cooperatives, corporations, and partnerships, the family farm”, and inserted “in the case of cooperatives, corporations, and partnerships” at end.
+<b>1981</b>—Pub. L. 97–98 substituted “corporations and partnerships, the family farm” for “cooperatives, corporations, and partnerships, the family farm”, and inserted “in the case of cooperatives, corporations, and partnerships” at end.
 
-1978—Pub. L. 95–334 substituted provisions setting forth eligibility criteria for loans to farmers and ranchers in the United States, and to farm cooperatives and private domestic corporations and partnerships controlled by farmers and ranchers and engaged primarily and directly in farming or ranching in the United States, for provisions setting forth eligibility criteria for loans to farmers and ranchers in the United States, Puerto Rico, and the Virgin Islands.
+<b>1978</b>—Pub. L. 95–334 substituted provisions setting forth eligibility criteria for loans to farmers and ranchers in the United States, and to farm cooperatives and private domestic corporations and partnerships controlled by farmers and ranchers and engaged primarily and directly in farming or ranching in the United States, for provisions setting forth eligibility criteria for loans to farmers and ranchers in the United States, Puerto Rico, and the Virgin Islands.
 
-1970—Pub. L. 91–620 provided that with respect to veterans as defined in section 1983(e) of this title, a farm background shall not be required as a condition precedent to obtaining any loan.
+<b>1970</b>—Pub. L. 91–620 provided that with respect to veterans as defined in section 1983(e) of this title, a farm background shall not be required as a condition precedent to obtaining any loan.
 
 #### Effective Date of 2008 Amendment
 

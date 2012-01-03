@@ -2,7 +2,7 @@
 
 (a)
 
-Time for Dissemination.—The names of the officers recommended for promotion in the report of a selection board shall be disseminated to the armed force concerned as follows:
+Time for Dissemination.—The names of the officers recommended for promotion in thereport of a selection board shall be disseminated to the armed force concerned as follows:
 
 &emsp;(1) In the case of officers recommended for promotion to a grade below brigadier general or rear admiral (lower half), such names may be disseminated upon, or at any time after, the transmittal of the report to the President.
 
@@ -30,5 +30,5 @@ Provisions similar to those in this section were contained in section 5898(d) of
 
 #### Amendments
 
-<b>2000</b>—Pub. L. 106–398 amended text generally. Prior to amendment, text read as follows: “Upon approval bythe President of the report of a promotion board, the names of the officers recommended for promotion by the promotion board (other than any name removed by the President) may be disseminated to the armed force concerned. If those names have not been sooner disseminated, those names (other than the name of any officer whose promotion the Senate failed to confirm) shall be promptly disseminated to the armed force concerned upon confirmation by the Senate.”
+<b>2000</b>—Pub. L. 106–398 amended text generally. Prior to amendment, text read as follows: “Upon approval by the President of the report of a promotion board, the names of the officers recommended for promotion by the promotion board (other than any name removed by the President) may be disseminated to the armed force concerned. If those names have not been sooner disseminated, those names (other than the name of any officer whose promotion the Senate failed to confirm) shall be promptly disseminated to the armed force concerned upon confirmation by the Senate.”
 

@@ -14,7 +14,7 @@ The following items shall not be included in gross income of a foreign corporati
 
 #### (3) Railroad rolling stock of foreign corporations
 
-&emsp;Earnings derived from payments by a common carrier for the use on a temporary basis (not expected to exceed a total of 90 days in any taxable year) of railroad rolling stock owned by a corporation of a foreign country which grants an equivalent exemption to corporations organized in the United States.
+&emsp;Earnings derived from payments by a common carrier for the use on a temporary basis\(not expected to exceed a total of 90 days in any taxable year) of railroad rolling stock owned by a corporation of a foreign country which grants an equivalent exemption to corporations organized in the United States.
 
 #### (4) Special rules
 
@@ -32,7 +32,7 @@ The earnings derived from the ownership or operation of a communications satelli
 
 #### (1) In general
 
-&emsp;Paragraph (1) or (2) of subsection (a) (as the case may be) shall not apply to any foreigncorporation if 50 percent or more of the value of the stock of such corporation is owned by individuals who are not residents of such foreign country or another foreign country meeting the requirements of such paragraph.
+&emsp;Paragraph (1) or (2) of subsection (a) (as the case may be) shall not apply to any foreign corporation if 50 percent or more of the value of the stock of such corporation is owned by individuals who are not residents of such foreign country or another foreign country meeting the requirements of such paragraph.
 
 #### (2) Treatment of controlled foreign corporations
 

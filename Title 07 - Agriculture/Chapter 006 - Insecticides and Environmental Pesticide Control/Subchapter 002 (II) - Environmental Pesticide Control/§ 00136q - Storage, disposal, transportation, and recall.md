@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) the registrant or applicant for registration of a pesticide submit or cite data or information regarding methods for the safe storage and disposal of excess quantities of the pesticide to support the registration or continued registration of a pesticide;
 
-&emsp;&emsp;(B) the labeling of a pesticide contain requirements and procedures for the transportation, storage, and disposal of the pesticide, any container of the pesticide, any rinsate containing the pesticide, or any other material used to contain or collect excess or spilled quantities of the pesticide; and
+&emsp;&emsp;(B) the labeling of a pesticide contain requirements and procedures for the transportation, storage, and disposal of the pesticide,any container of the pesticide, any rinsate containing the pesticide, or any other material used to contain or collect excess or spilled quantities of the pesticide; and
 
 &emsp;&emsp;(C) the registrant of a pesticide provide evidence of sufficient financial and other resources to carry out a recall plan under subsection (b) of this section, and provide for the disposition of the pesticide, in the event of suspension and cancellation of the pesticide.
 
@@ -48,7 +48,7 @@
 
 #### (3) Mandatory recall
 
-&emsp;If, after determining under paragraph (1) that a recall is necessary, the Administrator does not request the submission of a plan under paragraph (2) or finds such a plan to be inadequate, the Administrator shall issue aregulation that prescribes a plan for the recall of the pesticide. A regulation issued under this paragraph may apply to any person who is or was a registrant, distributor, or seller of the pesticide, or any successor in interest to such a person.
+&emsp;If, after determining under paragraph (1) that a recall is necessary, the Administrator does not request the submission of a plan under paragraph (2) or finds such a plan to be inadequate, the Administrator shall issue a regulation that prescribes a plan for the recall of the pesticide. A regulation issued under this paragraph may apply to any person who is or was a registrant, distributor, or seller of the pesticide, or any successor in interest to such a person.
 
 #### (4) Recall procedure
 
@@ -72,7 +72,7 @@
 
 #### (6) Requirements or procedures
 
-&emsp;No requirement or procedure imposed in accordance with paragraph (2) of subsection (a) of this section may require the recall of existing stocks of the pesticide except as provided by this subsection.
+&emsp;No requirement or procedure imposed in accordance with paragraph (2) of subsection (a)of this section may require the recall of existing stocks of the pesticide except as provided by this subsection.
 
 #### (c) Storage costs
 
@@ -204,11 +204,11 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (a)(4). Pub. L. 110–246, §14209(b), added par. (4).
+<b>2008</b>—Subsec. (a)(4). Pub. L. 110–246, §14209(b), added par. (4).
 
-1996—Subsec. (h). Pub. L. 104–170 designated existing provisions as par. (1), inserted heading, and added par. (2).
+<b>1996</b>—Subsec. (h). Pub. L. 104–170 designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-1988—Pub. L. 100–532, §401, amended section generally, in subsec. (a) substituting provisions which related to storage, disposal, and transportation, for provisions which directed Secretary to establish procedures for disposal or storage, in subsec. (b) substituting provisions which related to recalls, for provisions which directed Administrator to provide advice to Secretary of Transportation, in subsec. (c) substituting provisions which related to storage costs, for provisions which related to disposal of unused quantities, and adding subsec. (d).
+<b>1988</b>—Pub. L. 100–532, §401, amended section generally, in subsec. (a) substituting provisions which related to storage, disposal, and transportation, for provisions which directed Secretary to establish procedures for disposal or storage, in subsec. (b) substituting provisions which related to recalls, for provisions which directed Administrator to provide advice to Secretary of Transportation, in subsec. (c) substituting provisions which related to storage costs, for provisions which related to disposal of unused quantities, and adding subsec. (d).
 
 Subsec. (a)(3). Pub. L. 100–532, §402, added par. (3).
 
@@ -218,7 +218,7 @@ Subsec. (f)(2). Pub. L. 100–532, §801(q)(1)(D), substituted “136i” for �
 
 Subsecs. (g), (h). Pub. L. 100–532, §403, added subsecs. (g) and (h).
 
-1978—Subsec. (c). Pub. L. 95–396 added subsec. (c).
+<b>1978</b>—Subsec. (c). Pub. L. 95–396 added subsec. (c).
 
 #### Effective Date of 2008 Amendment
 

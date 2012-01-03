@@ -18,5 +18,5 @@ Provisions similar to those comprising this section were contained in section 5 
 
 #### Amendments
 
-2006—Par. (1). Pub. L. 109–351 and 109–356 amended par. (1) identically, striking out “(except a national banking association located in the District of Columbia)” before semicolon at end.
+<b>2006</b>—Par. (1). Pub. L. 109–351 and 109–356 amended par. (1) identically, striking out “(except a national banking association located in the District of Columbia)” before semicolon at end.
 

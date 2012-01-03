@@ -14,11 +14,15 @@ Source of Funds for Reimbursement to Secretary of Health and Human Services.—T
 
 (d)
 
-Expiration of Authority.—The authority under this section shall expire on September 30, 2011.
+Expiration of Authority.—The authority under this section shall expire on November 18, 2011.
 
-(Added Pub. L. 110–157, title III, §301(b)(1), Dec. 26, 2007, 121 Stat. 1835.)
+(Added Pub. L. 110–157, title III, §301(b)(1), Dec. 26, 2007, 121 Stat. 1835; amended Pub. L. 112–37, §17(a), Oct. 5, 2011, 125 Stat. 398.)
 
 #### References in Text
 
 Section 453 of the Social Security Act, referred to in subsecs. (a) and (c), is classified to section 653 of Title 42, The Public Health and Welfare.
+
+#### Amendments
+
+<b>2011</b>—Subsec. (d). Pub. L. 112–37 substituted “November 18, 2011” for “September 30, 2011”.
 

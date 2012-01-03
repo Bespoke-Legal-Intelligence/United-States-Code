@@ -10,11 +10,11 @@
 
 &emsp;(C) The annual report on the acquisition of technology relating to weapons of mass destruction and advanced conventional munitions required by section 2366 of this title.
 
-&emsp;(D) The annual report on commercial activities as security for intelligence collection required by section 437(c) of title 10.
+&emsp;(D) The annual report on commercial activities as security for intelligence collection required by section 437(c) <sup>1</sup> of title 10.
 
 &emsp;(E) The annual report on certifications for immunity in interdiction of aircraft engaged in illicit drug trafficking required by section 2291–4(c)(2) of title 22.
 
-&emsp;(F) The annual report on activities under the David L. Boren National Security Education Act of 1991 (title VIII of Public Law 102–183; 50U.S.C. 1901 et seq.) required by section 806(a) of that Act (50 U.S.C. 1906(a)).
+&emsp;(F) The annual report on activities under the David L. Boren National Security Education Act of 1991 (title VIII of Public Law 102–183; 50 U.S.C. 1901 et seq.) required by section 806(a) of that Act (50 U.S.C. 1906(a)).
 
 &emsp;(G) The annual report on hiring and retention of minority employees in the intelligence community required by section 404i(c) of this title.
 
@@ -73,6 +73,8 @@ The dates for the submittal to the congressional intelligence committees of the 
 #### References in Text
 
 Section 8H(g) of the Inspector General Act of 1978, referred to in subsec. (a)(1)(B), is section 8H(g) of Pub. L. 95–452, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+Section 437(c) of title 10, referred to in subsec. (a)(1)(D), was repealed by Pub. L. 112–81, div. A, title X, §1061(5), Dec. 31, 2011, 125 Stat. 1583.
 
 The David L. Boren National Security Education Act of 1991, referred to in subsec. (a)(1)(F), is title VIII of Pub. L. 102–183, Dec. 4, 1991, 105 Stat. 1271, which is classified generally to chapter 37 (§1901 et seq.) of this title. For complete classification of this Act to the Code, see section 1901(a) of this title and Tables.
 

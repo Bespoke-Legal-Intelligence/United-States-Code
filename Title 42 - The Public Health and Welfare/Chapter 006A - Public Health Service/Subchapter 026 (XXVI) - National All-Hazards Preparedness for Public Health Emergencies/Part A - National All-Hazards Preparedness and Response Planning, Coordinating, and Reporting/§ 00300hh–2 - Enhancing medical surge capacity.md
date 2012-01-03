@@ -12,7 +12,7 @@ As part of the joint review described in section 300hh–11(b) of this title, th
 
 #### (b) Authority to acquire and operate mobile medical assets
 
-In addition to any other authority to acquire, deploy, and operate mobile medical assets, the Secretary may acquire, deploy, and operate mobile medical assets if, taking into consideration the evaluation conducted under subsection (a), such acquisition, deployment, and operation is determined to be beneficial and feasible in improving the capacity of the Department of Health and Human Services to provide additional medical surge capacity to local communities in the event of a public health emergency.
+In addition to any other authority to acquire, deploy, and operate mobile medical assets, theSecretary may acquire, deploy, and operate mobile medical assets if, taking into consideration the evaluation conducted under subsection (a), such acquisition, deployment, and operation is determined to be beneficial and feasible in improving the capacity of the Department of Health and Human Services to provide additional medical surge capacity to local communities in the event of a public health emergency.
 
 #### (c) Using Federal facilities to enhance medical surge capacity
 

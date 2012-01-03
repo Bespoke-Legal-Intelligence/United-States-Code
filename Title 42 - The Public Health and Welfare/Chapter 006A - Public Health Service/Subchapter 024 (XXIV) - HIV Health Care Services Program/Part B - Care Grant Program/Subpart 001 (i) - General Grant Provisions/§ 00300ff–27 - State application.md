@@ -112,7 +112,7 @@ The application submitted under subsection (a) of this section shall contain—
 
 &emsp;&emsp;(C) describing activities undertaken by the State to find the individuals described in subparagraph (A) and to make such individuals aware of their status;
 
-&emsp;&emsp;(D) describing the manner in which the State will provide undiagnosed individuals who are made aware of their status with access to medical treatment for their HIV/AIDS; and
+&emsp;&emsp;(D) describing the manner in which the State will provide undiagnosed individualswho are made aware of their status with access to medical treatment for their HIV/AIDS; and
 
 &emsp;&emsp;(E) describing efforts to remove legal barriers, including State laws and regulations, to routine testing.
 
@@ -204,7 +204,7 @@ The application submitted under subsection (a) of this section shall contain—
 
 &emsp;With respect to a State that does not make available the entire amount of the non-Federal contribution referred to in paragraph (1), the State shall continue to be eligible to receive Federal funds under a grant under section 300ff–21 of this title, except that the Secretary in providing Federal funds under the grant shall provide such funds (in accordance with the ratios prescribed in paragraph (1)) only with respect to the amount of funds contributed by such State.
 
-(July 1, 1944, ch. 373, title XXVI, §2617, as added Pub. L. 101–381, title II, §201, Aug. 18, 1990, 104 Stat. 590; amended Pub. L. 102–531, title III, §312(d)(29), Oct. 27, 1992, 106 Stat. 3506; Pub. L. 104–146, §§3(c)(4), 12(c)(3), May 20, 1996, 110 Stat. 1355, 1373; Pub. L. 106–345, title II, §205, Oct. 20, 2000, 114 Stat. 1332; Pub. L. 109–415, title II, §204(a), (c), (d), title VII, §§702(3), 703, Dec. 19,2006, 120 Stat. 2796, 2797, 2820; Pub. L. 111–87, §§2(a)(1), (3)(A), 9, Oct. 30, 2009, 123 Stat. 2885, 2895.)
+(July 1, 1944, ch. 373, title XXVI, §2617, as added Pub. L. 101–381, title II, §201, Aug. 18, 1990, 104 Stat. 590; amended Pub. L. 102–531, title III, §312(d)(29), Oct. 27, 1992, 106 Stat. 3506; Pub. L. 104–146, §§3(c)(4), 12(c)(3), May 20, 1996, 110 Stat. 1355, 1373; Pub. L. 106–345, title II, §205, Oct. 20, 2000, 114 Stat. 1332; Pub. L. 109–415, title II, §204(a), (c), (d), title VII, §§702(3), 703, Dec. 19, 2006, 120 Stat. 2796, 2797, 2820; Pub. L. 111–87, §§2(a)(1), (3)(A), 9, Oct. 30, 2009, 123 Stat. 2885, 2895.)
 
 #### References in Text
 

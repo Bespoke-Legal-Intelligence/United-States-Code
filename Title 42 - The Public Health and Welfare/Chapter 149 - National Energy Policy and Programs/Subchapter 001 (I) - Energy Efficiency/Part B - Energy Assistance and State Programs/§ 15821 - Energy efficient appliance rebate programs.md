@@ -38,7 +38,7 @@ A State shall be eligible to receive an allocation under subsection (c) if the S
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), for each fiscal year, the Secretary shall allocate to the State energy office of each eligible State to carry out subsection (d) an amount equal to the product obtained by multiplying the amountmade available under subsection (f) for the fiscal year by the ratio that the population of the State in the most recent calendar year for which data are available bears to the total population of all eligible States in that calendar year.
+&emsp;Subject to paragraph (2), for each fiscal year, the Secretary shall allocate to the State energy office of each eligible State to carry out subsection (d) an amount equal to the product obtained by multiplying the amount made available under subsection (f) for the fiscal year by the ratio that the population of the State in the most recent calendar year for which data are available bears to the total population of all eligible States in that calendar year.
 
 #### (2) Minimum allocations
 

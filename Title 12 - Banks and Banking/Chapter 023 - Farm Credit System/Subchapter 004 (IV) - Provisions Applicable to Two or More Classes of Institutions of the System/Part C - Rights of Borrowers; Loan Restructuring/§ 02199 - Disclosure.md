@@ -10,7 +10,7 @@ In accordance with regulations of the Farm Credit Administration, qualified lend
 
 &emsp;(3) the effect, as shown by a representative example or examples, of any loan origination charges or purchases of stock or participation certificates on the effective rate of interest;
 
-&emsp;(4) any change in the interest rate applicable to the borrower's loan, and notice to the borrower of a change in the interest rate applicable to the loan of the borrower may be made within a reasonable time after the effective date of an increase or decrease in the interest rate;
+&emsp;(4) any change in the interest rate applicable to the borrower's loan, and notice to the borrower of a change in the interest rate applicable to the loan of the borrower may be made within a reasonable time after the effectivedate of an increase or decrease in the interest rate;
 
 &emsp;(5) except with respect to stock guaranteed under section 2162 of this title, a statement indicating that stock that is purchased is at risk; and
 
@@ -34,13 +34,13 @@ The Truth in Lending Act, referred to in subsec. (a), is title I of Pub. L. 90�
 
 #### Prior Provisions
 
-A prior section 4.13 of Pub. L. 92–181, title IV, Dec. 10, 1971, 85 Stat. 613, was renumbered section 4.13B by Pub.L. 99–205, title III, §301(a), Dec. 23, 1985, 99 Stat. 1707, and is classified to section 2201 of this title.
+A prior section 4.13 of Pub. L. 92–181, title IV, Dec. 10, 1971, 85 Stat. 613, was renumbered section 4.13B by Pub. L. 99–205, title III, §301(a), Dec. 23, 1985, 99 Stat. 1707, and is classified to section 2201 of this title.
 
 #### Amendments
 
-1996—Subsec. (a)(4). Pub. L. 104–105 inserted before semicolon at end “, and notice to the borrower of a change in the interest rate applicable to the loan of the borrower may be made within a reasonable time after the effective date of an increase or decrease in the interest rate”.
+<b>1996</b>—Subsec. (a)(4). Pub. L. 104–105 inserted before semicolon at end “, and notice to the borrower of a change in the interest rate applicable to the loan of the borrower may be made within a reasonable time after the effective date of an increase or decrease in the interest rate”.
 
-1988—Pub. L. 100–233, §109, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>1988</b>—Pub. L. 100–233, §109, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 Pub. L. 100–233, §103, amended section generally, substituting introductory provisions and cls. (1) to (6) for former subsecs. (a) and (b).
 

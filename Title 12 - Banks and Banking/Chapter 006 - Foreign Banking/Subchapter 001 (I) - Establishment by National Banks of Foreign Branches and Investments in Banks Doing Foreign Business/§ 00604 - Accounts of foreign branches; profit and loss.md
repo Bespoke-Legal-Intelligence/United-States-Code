@@ -12,5 +12,5 @@ The words “national banking association operating foreign branches” were in 
 
 #### Amendments
 
-1916—Act Sept. 7, 1916, substituted “accrued” for “accruing”.
+<b>1916</b>—Act Sept. 7, 1916, substituted “accrued” for “accruing”.
 

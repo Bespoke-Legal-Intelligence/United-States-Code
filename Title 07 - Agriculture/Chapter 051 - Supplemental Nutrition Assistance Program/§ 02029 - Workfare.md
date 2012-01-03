@@ -2,7 +2,7 @@
 
 #### (a) Program plan; guidelines; compliance
 
-(1) The Secretary shall permit any political subdivision, in any State, that applies and submits a plan to the Secretary in compliance with guidelines promulgated by the Secretary to operate a workfare program pursuant to which every member of a household participating in the supplemental nutrition assistance program who is not exempt by virtue of the provisions of subsection (b) of this section shall accept an offer from such subdivision to perform work on its behalf, or may seek an offer to perform work, in return for compensation consisting of the allotment to which the household is entitled under section 2017(a) of this title, with each hour of such work entitling that household to a portion of its allotment equal in value to 100 percentum of the higher of the applicable State minimum wage or the Federal minimum hourly rate under the Fair Labor Standards Act of 1938 \[29 U.S.C. 201 et seq.\].
+(1) The Secretary shall permit any political subdivision, in any State, that applies and submits a plan to the Secretary in compliance with guidelines promulgated by the Secretary to operate a workfare program pursuant to which every member of a household participating in the supplemental nutrition assistance program who is not exempt by virtue of the provisions of subsection (b) of this section shall accept an offer from such subdivision to perform work on its behalf, or may seek an offer to perform work, in return for compensation consisting of the allotment to which the household is entitled under section 2017(a) of this title, with each hour of such work entitling that household to a portion of its allotment equal in value to 100 per centum of the higher of the applicable State minimum wage or the Federal minimum hourly rate under the Fair Labor Standards Act of 1938 \[29 U.S.C. 201 et seq.\].
 
 (2)(A) The Secretary shall promulgate guidelines pursuant to paragraph (1) which, to the maximum extent practicable, enable a political subdivision to design and operate a workfare program under this section which is compatible and consistent with similar workfare programs operated by the subdivision.
 
@@ -74,9 +74,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsecs. (a)(1), (f). Pub. L. 110–246, §4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
+<b>2008</b>—Subsecs. (a)(1), (f). Pub. L. 110–246, §4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
 
-1996—Subsec. (a)(2)(B). Pub. L. 104–193, §109(e)(1), substituted “operating any” for “operating—
+<b>1996</b>—Subsec. (a)(2)(B). Pub. L. 104–193, §109(e)(1), substituted “operating any” for “operating—
 
 &emsp;“(i) a workfare program pursuant to title IV of the Social Security Act (42 U.S.C. 601 et seq.); or
 
@@ -96,11 +96,11 @@ Subsec. (b). Pub. L. 104–193, §109(e)(2), struck out “(1)” before “A ho
 
 Subsec. (f). Pub. L. 104–193, §815(b)(2), added subsec. (f) and struck out former subsec. (f) which read as follows: “In the event that any person fails to comply with the requirements of this section, neither that person nor the household to which that person belongs shall be eligible to participate in the food stamp program for two months, unless that person or another person in the household satisfies all outstanding workfare obligations prior to the end of the two-month disqualification period.”
 
-1991—Subsec. (g)(2). Pub. L. 102–237 realigned the margins of subpars. (A) and (B) and cls. (i) and (ii) of subpar. (B).
+<b>1991</b>—Subsec. (g)(2). Pub. L. 102–237 realigned the margins of subpars. (A) and (B) and cls. (i) and (ii) of subpar. (B).
 
-1985—Subsec. (b). Pub. L. 99–198 in amending subsec. (b) generally, designated existing provisions of subsec. (b) as par. (1), reorganized and expanded provisions of par. (1) as thus designated, lowered minimum age for exempted household members from eighteen years to sixteen years, and added par. (2).
+<b>1985</b>—Subsec. (b). Pub. L. 99–198 in amending subsec. (b) generally, designated existing provisions of subsec. (b) as par. (1), reorganized and expanded provisions of par. (1) as thus designated, lowered minimum age for exempted household members from eighteen years to sixteen years, and added par. (2).
 
-1982—Subsec. (a). Pub. L. 97–253, §185, redesignated existing provisions, formerly undesignated, as par. (1), and added par. (2).
+<b>1982</b>—Subsec. (a). Pub. L. 97–253, §185, redesignated existing provisions, formerly undesignated, as par. (1), and added par. (2).
 
 Subsec. (b)(4). Pub. L. 97–253, §186, substituted “at the option of the operating agency, subject to and currently actively and satisfactorily participating” for “subject to and currently involved”.
 

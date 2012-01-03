@@ -32,7 +32,7 @@ As used in this section, the term “energy efficient mortgage” has the same m
 
 #### (1) In general
 
-&emsp;The Secretary of Housing and Urban Development, in consultation and coordination with the Secretary of Energy, the Administrator of the Environmental Protection Agency, and State Energy and Housing Finance Directors, shall carry out an education and outreach campaign to inform and educate consumers, home builders, residential lenders, and other real estate professionals on the availability, benefits, and advantages of—
+&emsp;The Secretary of Housing and Urban Development, in consultation and coordination with the Secretary of Energy, the Administrator of the Environmental Protection Agency, and State Energy and Housing Finance Directors, shall carry out an education and outreach campaign to inform and educate consumers,home builders, residential lenders, and other real estate professionals on the availability, benefits, and advantages of—
 
 &emsp;&emsp;(A) improved energy efficiency in housing; and
 

@@ -50,15 +50,41 @@ Beginning on the date that is 180 days after August 14, 2008, it shall be unlawf
 
 &emsp;&emsp;(B) evaluate the findings and recommendations of the Chronic Hazard Advisory Panel and declare any children's product containing any phthalates to be a banned hazardous product under section 8 of the Consumer Product Safety Act (15 U.S.C. 2057), as the Commission determines necessary to protect the health of children.
 
-#### (c) Treatment of violation
+#### (c) Application
+
+Effective on August 12, 2011,<sup>1</sup> subsections (a) and (b)(1) and any rule promulgated under subsection (b)(3) shall apply to any plasticized component part of a children's toy or child care article or any other component part of a children's toy or child care article that is made of other materials that may contain phthalates.
+
+#### (d) Exclusion for inaccessible component parts
+
+#### (1) In general
+
+&emsp;The prohibitions established under subsections (a) and (b) shall not apply to any component part of a children's toy or child care article that is not accessible to a child through normal and reasonably foreseeable use and abuse of such product, as determined by the Commission. A component part is not accessible under this paragraph if such component part is not physically exposed by reason of a sealed covering or casing and does not become physically exposed through reasonably foreseeable use and abuse of the product. Reasonably foreseeable use and abuse shall include swallowing, mouthing, breaking, or other children's activities, and the aging of the product.
+
+#### (2) Limitation
+
+&emsp;The Commission may revoke an exclusion or all exclusions granted under paragraph (1) at any time and require that any or all component parts manufactured after such exclusion is revoked comply with the prohibitions established under subsections (a) and (b) if the Commission finds, based on scientific evidence, that such compliance is necessary to protect the public health or safety.
+
+#### (3) Inaccessibility proceeding
+
+&emsp;Within 1 year after August 12, 2011, the Commission shall—
+
+&emsp;&emsp;(A) promulgate a rule providing guidance with respect to what product components, or classes of components, will be considered to be inaccessible for purposes of paragraph (1); or
+
+&emsp;&emsp;(B) adopt the same guidance with respect to inaccessibility that was adopted by the Commission with regards to accessibility of lead under section 1278a(b)(2)(B) of this title, with additional consideration, as appropriate, of whether such component can be placed in a child's mouth.
+
+#### (4) Application pending commission guidance
+
+&emsp;Until the Commission promulgates a rule pursuant to paragraph (3), the determination of whether a product component is inaccessible to a child shall be made in accordance with the requirements laid out in paragraph (1) for considering a component to be inaccessible to a child.
+
+#### (e) Treatment of violation
 
 A violation of subsection (a) or (b)(1) or any rule promulgated by the Commission under subsection (b)(3) shall be treated as a violation of section 19(a)(1) of the Consumer Product Safety Act (15 U.S.C. 2068(a)(1)).
 
-#### (d) Treatment as consumer product safety standards; effect on State laws
+#### (f) Treatment as consumer product safety standards; effect on State laws
 
-Subsections (a) and (b)(1) and any rule promulgated under subsection (b)(3) shall be consideredconsumer product safety standards under the Consumer Product Safety Act \[15 U.S.C. 2051 et seq.\]. Nothing in this section or the Consumer Product Safety Act (15 U.S.C. 2051 et seq.) shall be construed to preempt or otherwise affect any State requirement with respect to any phthalate alternative not specifically regulated in a consumer product safety standard under the Consumer Product Safety Act.
+Subsections (a) and (b)(1) and any rule promulgated under subsection (b)(3) shall be considered consumer product safety standards under the Consumer Product Safety Act \[15 U.S.C. 2051 et seq.\]. Nothing in this section or the Consumer Product Safety Act (15 U.S.C. 2051 et seq.) shall be construed to preempt or otherwise affect any State requirement with respect to any phthalate alternative not specifically regulated in a consumer product safety standard under the Consumer Product Safety Act.
 
-#### (e) Definitions
+#### (g) Definitions
 
 #### (1) Defined terms
 
@@ -90,17 +116,25 @@ Subsections (a) and (b)(1) and any rule promulgated under subsection (b)(3) shal
 
 &emsp;&emsp;For purposes of this section a toy can be placed in a child's mouth if any part of the toy can actually be brought to the mouth and kept in the mouth by a child so that it can be sucked and chewed. If the children's product can only be licked, it is not regarded as able to be placed in the mouth. If a toy or part of a toy in one dimension is smaller than 5 centimeters, it can be placed in the mouth.
 
-(Pub. L. 110–314, title I, §108, Aug. 14, 2008, 122 Stat. 3036.)
+(Pub. L. 110–314, title I, §108, Aug. 14, 2008, 122 Stat. 3036; Pub. L. 112–28, §5(a), Aug. 12, 2011, 125 Stat. 280.)
 
 #### References in Text
 
-The Consumer Product Safety Act, referred to in subsec. (d), is Pub. L. 92–573, Oct. 27, 1972, 86 Stat. 1207, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2051 of this title and Tables.
+August 12, 2011, referred to in subsec. (c), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 112–28, which enacted subsec. (c), to reflect the probable intent of Congress.
+
+The Consumer Product Safety Act, referred to in subsec. (f), is Pub. L. 92–573, Oct. 27, 1972, 86 Stat. 1207, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2051 of this title and Tables.
 
 #### Codification
 
 Section was enacted as part of the Consumer Product Safety Improvement Act of 2008, and not as part of the Consumer Product Safety Act which comprises this chapter.
 
+#### Amendments
+
+<b>2011</b>—Subsecs. (c) to (g). Pub. L. 112–28 added subsecs. (c) and (d) and redesignated former subsecs. (c) to (e) as (e) to (g), respectively.
+
 #### Definition
 
 For definition of “Commission” used in this section, see section 2(a) of Pub. L. 110–314, set out as a note under section 2051 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-An application by a public or private entity for a grant under section 5711(a) of this titlemay be approved by the Secretary after taking into consideration, with respect to the State in which such entity proposes to provide services under this part—
+An application by a public or private entity for a grant under section 5711(a) of this title may be approved by the Secretary after taking into consideration, with respect to the State in which such entity proposes to provide services under this part—
 
 &emsp;(1) the geographical distribution in such State of the proposed services under this part for which all grant applicants request approval; and
 

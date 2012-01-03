@@ -50,7 +50,7 @@ Building Codes.—The real property and improvements acquired in accordance with
 
 “(d)
 
-Repairs; Expenditures.—The Architect of the Capitol is authorized, without regard to the provisions of section 3709 of the Revised Statutes of the United States \[now 41 U.S.C. 6101\], to enter into contracts andto make expenditures for (1) necessary repairs to, and refurbishment of, the real property and the improvements on such real property acquired in accordance with subsection (a), including expenditures for personal and other services as may be necessary to carry out the purposes of this Act; and (2) for the construction on such real property of any facilities thereon as authorized under subsection (f). In no event shall the aggregate value of contracts and expenditures under this subsection exceed an amount equal to that authorized to be appropriated pursuant to subsection (e).
+Repairs; Expenditures.—The Architect of the Capitol is authorized, without regard to the provisions of section 3709 of the Revised Statutes of the United States \[see 41 U.S.C. 6101\], to enter into contracts and to make expenditures for (1) necessary repairs to, and refurbishment of, the real property and the improvements on such real property acquired in accordance with subsection (a), including expenditures for personal and other services as may be necessary to carry out the purposes of this Act; and (2) for the construction on such real property of any facilities thereon as authorized under subsection (f). In no event shall the aggregate value of contracts and expenditures under this subsection exceed an amount equal to that authorized to be appropriated pursuant to subsection (e).
 
 “(e)
 

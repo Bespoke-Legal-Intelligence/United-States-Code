@@ -20,9 +20,9 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### Amendments
 
-1984—Subsec. (a). Pub. L. 98–557 substituted reference to members for reference to officers and enlisted men in two places.
+<b>1984</b>—Subsec. (a). Pub. L. 98–557 substituted reference to members for reference to officers and enlisted men in two places.
 
-1976—Subsec. (a). Pub. L. 94–546, §1(10)(a), substituted “at the request of the Secretary” for “at the request of the Secretary of the Treasury”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–546, §1(10)(a), substituted “at the request of the Secretary” for “at the request of the Secretary of the Treasury”.
 
 Subsec. (c). Pub. L. 94–546, §1(10)(b), substituted “Secretary of the Army” for “Chief of Ordnance”.
 

@@ -18,7 +18,7 @@ Activities That May Be Recognized.—Activities that may be recognized under sub
 
 (c)
 
-Limitation.—Expenditures for the purchase or production of mementos for award under this section may not exceed the minimal value in effect under section 7342(a)(5) of title 5.
+Limitation.—Expenditures for the purchase or production of mementos for award under thissection may not exceed the minimal value in effect under section 7342(a)(5) of title 5.
 
 (Added Pub. L. 108–136, div. A, title XII, §1222(a), Nov. 24, 2003, 117 Stat. 1652.)
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The procedures applicable to the regulations of the Board issued for the implementation of this chapter, which shall include regulationsthe Board is required to issue under subchapter II of this chapter (including regulations on the appropriate application of exemptions under the laws made applicable in subchapter II of this chapter) are as prescribed in this section.
+&emsp;The procedures applicable to the regulations of the Board issued for the implementation of this chapter, which shall include regulations the Board is required to issue under subchapter II of this chapter (including regulations on the appropriate application of exemptions under the laws made applicable in subchapter II of this chapter) are as prescribed in this section.
 
 #### (2) Rulemaking procedure
 
@@ -56,7 +56,7 @@ The Board shall adopt the regulations referred to in subsection (a)(1) of this s
 
 #### (4) One-House resolution or concurrent resolution
 
-&emsp;In the case of a resolution of the House of Representatives or the Senate or a concurrent resolution referred to in paragraph (1), the matter after the resolving clause shall be the following: “The following regulations issued by the Office of Compliance on \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ are hereby approved:” (the blank space being appropriately filled in, and the text of the regulations being set forth).
+&emsp;In the case of a resolution of the House of Representatives or the Senate or a concurrent resolution referred to in paragraph (1), the matter after the resolving clause shall be the following: “The following regulations issued by the Office of Compliance on \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ are hereby approved:” (the blank space beingappropriately filled in, and the text of the regulations being set forth).
 
 #### (5) Joint resolution
 

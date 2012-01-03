@@ -30,7 +30,7 @@ The Commission, or upon the authorization and direction of the Commission, a reg
 
 &emsp;(4) whether the securities analyst received compensation with respect to a research report, based upon (among any other factors) the investment banking revenues (either generally or specifically earned from the issuer being analyzed) of the registered broker or dealer; and
 
-&emsp;(5) such other disclosures of conflicts of interest that are material to investors, research analysts, or the broker or dealer as the Commission, or such association or exchange, determines appropriate.
+&emsp;(5) such other disclosures of conflicts of interest that are material to investors, researchanalysts, or the broker or dealer as the Commission, or such association or exchange, determines appropriate.
 
 #### (c) Definitions
 

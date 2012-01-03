@@ -4,7 +4,7 @@ Section, acts July 22, 1932, ch. 522, §17, 47 Stat. 736; 1947 Reorg. Plan No. 3
 
 #### Transfer of Functions, Personnel, and Property of Federal Savings and Loan Insurance Corporation and Federal Home Loan Bank Board
 
-Pub. L. 101–73, title IV, §§401–406, Aug. 9, 1989, 103 Stat. 354–363, as amended by Pub. L. 102–233, title III, §313, Dec. 12, 1991, 105 Stat. 1770, provided that:
+Pub. L. 101–73, title IV, §§401–406, Aug. 9, 1989, 103 Stat. 354–363, as amended by Pub. L. 102–233, title III, §313, Dec. 12, 1991, 105 Stat. 1770; Pub. L. 111–203, title III, §367(5), July 21, 2010, 124 Stat. 1556, provided that:
 
 #### “SEC. 401. FSLIC AND FEDERAL HOME LOAN BANK BOARD ABOLISHED.
 
@@ -12,7 +12,7 @@ Pub. L. 101–73, title IV, §§401–406, Aug. 9, 1989, 103 Stat. 354–363, as
 
 In general.—
 
-&emsp;“(1) FSLIC.—Effective on the date of the enactment of this Act \[Aug. 9, 1989\], the Federal Savings andLoan Insurance Corporation established under section 402 of the National Housing Act \[former 12 U.S.C. 1725\] is abolished.
+&emsp;“(1) FSLIC.—Effective on the date of the enactment of this Act \[Aug. 9, 1989\], the Federal Savings and Loan Insurance Corporation established under section 402 of the National Housing Act \[former 12 U.S.C. 1725\] is abolished.
 
 &emsp;“(2) FHLBB.—Effective at the end of the 60-day period beginning on the date of the enactment of this Act, the Federal Home Loan Bank Board and the position of Chairman of the Federal Home Loan Bank Board are abolished.
 
@@ -90,7 +90,7 @@ Continuation of Services.—
 
 &emsp;“(1)
 
-In general.—The Director of the Office of Thrift Supervision, the Chairperson of the Oversight Board of the Resolution Trust Corporation, the Chairperson of the Federal Deposit Insurance Corporation, and the Chairperson of the Federal Housing Finance Board may use the services of employees and other personnel and the property of the Federal Home Loan Bank Board and the Federal Savings and Loan Insurance Corporation, on a reimbursable basis, to perform functions which have been transferred to such agencies for such time as is reasonable to facilitate the orderly transfer of functions transferred pursuant to any other provision of this Act \[see Tables for classification\] or any amendment made by this Act to any other provision of law.
+In general.—The Director of the Office of Thrift Supervision, the Chairperson of the Oversight Board of the Resolution Trust Corporation, the Chairperson of the Federal Deposit Insurance Corporation, and the Chairperson of the Federal Housing Finance Board may use the services of employees and other personnel and the property of the Federal Home Loan Bank Board and the Federal Savings and Loan Insurance Corporation, on a reimbursable basis, to perform functions which have been transferred to such agencies for such time as is reasonable to facilitate the orderly transfer of functions transferred pursuant to any other provision of this Act \[see Tablesfor classification\] or any amendment made by this Act to any other provision of law.
 
 &emsp;“(2)
 
@@ -184,7 +184,7 @@ Procedure for Differences in Deposit Insurance Coverage Between FSLIC and FDIC.�
 
 &emsp;“(1)
 
-Transition rule.—Until the effective date of regulations prescribed under paragraph (3)(B), any determination of the amount of any insured deposit in any depository institution which becomes an insured depository institution as a result of the amendment made to section 4(a) of the Federal Deposit Insurance Act \[12 U.S.C. 1814(a)\] by section 205(1) of this Act shall be made in accordance with the regulations and interpretations of the Federal Savings and Loan Insurance Corporation for determining the amount of an insured account which were in effect on the day before the date of the enactment of this Act \[Aug. 9, 1989\].
+Transition rule.—Until the effective date of regulations prescribed under paragraph (3)(B), any determination of the amount of any insured deposit in any depository institution which becomes an insured depository institution as a result of the amendment made to section 4(a) of the Federal Deposit Insurance Act \[12 U.S.C. 1814(a)\] by section 205(1) of this Act shall be made in accordance with the regulations andinterpretations of the Federal Savings and Loan Insurance Corporation for determining the amount of an insured account which were in effect on the day before the date of the enactment of this Act \[Aug. 9, 1989\].
 
 &emsp;“(2)
 
@@ -280,7 +280,7 @@ Functions and Employees Transferred.—
 
 &emsp;“(1)
 
-In general.—The Director of the Office of Thrift Supervision, the Chairperson of the Oversight Board of the Resolution Trust Corporation, the Chairperson of the Federal Deposit Insurance Corporation, the Chairperson of the Federal Housing Finance Board, and the Chairman of the Federal Home Loan Bank Board (as of the day before the date of the enactment of this Act \[Aug. 9, 1989\]) shall jointly determine the functions or activities of the Federal Home Loan Bank Board and the Federal Savings and Loan Insurance Corporation, and the number of employees of such Board and Corporation necessary to perform or support such functions or activities, which are transferred from the Federal Home Loan Bank Board and the Federal Savings and Loan Insurance Corporation to the Office of Thrift Supervision, the Resolution Trust Corporation, the Federal Deposit Insurance Corporation, or the Federal Housing Finance Board, as the case may be.
+In general.—The Director of the Office of Thrift Supervision, the Chairperson of the OversightBoard of the Resolution Trust Corporation, the Chairperson of the Federal Deposit Insurance Corporation, the Chairperson of the Federal Housing Finance Board, and the Chairman of the Federal Home Loan Bank Board (as of the day before the date of the enactment of this Act \[Aug. 9, 1989\]) shall jointly determine the functions or activities of the Federal Home Loan Bank Board and the Federal Savings and Loan Insurance Corporation, and the number of employees of such Board and Corporation necessary to perform or support such functions or activities, which are transferred from the Federal Home Loan Bank Board and the Federal Savings and Loan Insurance Corporation to the Office of Thrift Supervision, the Resolution Trust Corporation, the Federal Deposit Insurance Corporation, or the Federal Housing Finance Board, as the case may be.
 
 &emsp;“(2)
 
@@ -322,7 +322,7 @@ FSLIC Employees Engaged in Conservatorship or Receivership Functions.—Individu
 
 &emsp;“(8) Transferring employees shall receive notice of their position assignments not later than 120 days after the effective date of their transfer.
 
-&emsp;“(9) Upon the termination of the Resolution Trust Corporation pursuant to section 21A(m)\[(<i>o</i>)\] of the Federal Home Loan Bank Act \[12 U.S.C. 1441a(<i>o</i>)\], any employee of the Federal Deposit Insurance Corporation assigned to the Resolution Trust Corporation shall be reassigned to a position within the Federal Deposit Insurance Corporation in accordance with the provisions of paragraphs (2) and (4) through (7) of this section, except that the liability for any difference in the costs of benefits described in paragraph (5) shall be a liability of the Resolution Trust Corporation and not the Office of Thrift Supervision.
+&emsp;“(9) Upon the termination of the Resolution Trust Corporation pursuant to section 21A(m)\[(<i>o</i>)\] of the Federal Home Loan Bank Act \[former 12 U.S.C. 1441a(<i>o</i>)\], any employee of the Federal Deposit Insurance Corporation assigned to the Resolution Trust Corporation shall be reassigned to a position withinthe Federal Deposit Insurance Corporation in accordance with the provisions of paragraphs (2) and (4) through (7) of this section, except that the liability for any difference in the costs of benefits described in paragraph (5) shall be a liability of the Resolution Trust Corporation and not the Office of Thrift Supervision.
 
 #### “SEC. 405. DIVISION OF PROPERTY AND FACILITIES.
 
@@ -331,6 +331,20 @@ FSLIC Employees Engaged in Conservatorship or Receivership Functions.—Individu
 #### “SEC. 406. REPORT.
 
 “Before the end of the 60-day period beginning on the date of the enactment of this Act \[Aug. 9, 1989\], the Chairman of the Federal Home Loan Bank Board shall provide by written report to the Secretary of the Treasury, the Director of the Office of Management and Budget, and the Congress, a final accounting of the finances and operations of the Federal Savings and Loan Insurance Corporation.”
+
+\[Pub. L. 111–203, title III, §§351, 367(5), July 21, 2010, 124 Stat. 1546, 1556, effective on the transfer date (defined in section 5301 of this title), section 402 of Pub. L. 101–73, set out above, is amended:
+
+(A) in subsection (a), by striking “Director of the Office of Thrift Supervision” and inserting “Comptroller of the Currency”;
+
+(B) by striking subsection (b);
+
+(C) in subsection (e)—
+
+&emsp;(i) in paragraph (1), by striking “Office of Thrift Supervision” and inserting “Comptroller of the Currency”; and
+
+&emsp;(ii) in each of paragraphs (2), (3), and (4), by striking “Director of the Office of Thrift Supervision” each place that term appears and inserting “Comptroller of the Currency”; and
+
+(D) by striking “Federal Housing Finance Board” each place that term appears and inserting “Federal Housing Finance Agency”.\]
 
 #### Transferred Employees of Federal Home Loan Banks and Joint Offices
 
@@ -436,7 +450,7 @@ Definitions.—For purposes of subsections (a) and (b)—
 
 Thrift institution.—The term ‘thrift institution’ means—
 
-&emsp;&emsp;“(A) any association (within the meaning given to such term in section 2(d) of the Home Owners’ Loan Act of 1933 \[12 U.S.C. 1462(d)\]);
+&emsp;&emsp;“(A) any association (within the meaning given to such term in section 2(d) of the Home Owners’ Loan Act of 1933 \[former 12 U.S.C. 1462(d)\]);
 
 &emsp;&emsp;“(B) any insured institution (within the meaning given to such term in section 401(a) of the National Housing Act \[12 U.S.C. 1724(a)\]); and
 
@@ -468,7 +482,7 @@ Effective Date.—The guidelines required to be promulgated under subsection (a)
 
 #### Guidelines for Asset Disposition
 
-Pub. L. 100–86, title IV, §411, Aug. 10, 1987, 101 Stat. 620, which directed Federal Home Loan Bank Board to submit, not later than 6 months after Aug. 10, 1987, to congressional committees a report containing appropriate new guidelines to prevent dumping of assets over which it had direct or indirect control and which the Board was to promulgate at end of such period, ceased to be effective on date that notice of completion of all net new borrowing by Financing Corporation is published in Federal Register (Mar. 30, 1992). See section 416 of Pub. L. 100–86, set out as a Sunset and Savings Provision note under section 1441 of this title.
+Pub. L. 100–86, title IV, §411, Aug. 10, 1987, 101 Stat. 620, which directed Federal Home Loan Bank Board tosubmit, not later than 6 months after Aug. 10, 1987, to congressional committees a report containing appropriate new guidelines to prevent dumping of assets over which it had direct or indirect control and which the Board was to promulgate at end of such period, ceased to be effective on date that notice of completion of all net new borrowing by Financing Corporation is published in Federal Register (Mar. 30, 1992). See section 416 of Pub. L. 100–86, set out as a Sunset and Savings Provision note under section 1441 of this title.
 
 #### Expansion of Use of Underutilized Minority Thrift Institutions
 
@@ -550,7 +564,7 @@ Prior Reports to Congress on Changes To Direct Investment Regulations.—
 
 &emsp;“(1)
 
-In general.—Not less than 90 days before final approval is given by the Federal Home Loan Bank Board to any regulation which repeals or modifies (or has the effect of repealing or modifying) any regulation limiting direct investment activities, the Board shall submit to the Committee on Banking, Finance and Urban Affairs \[now Committee on Financial Services\] of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report describing the proposed regulation and the reasons for the proposed regulation, including the effect of such regulation on the insurance fund.
+In general.—Not less than 90 days before final approval is given by the Federal Home Loan BankBoard to any regulation which repeals or modifies (or has the effect of repealing or modifying) any regulation limiting direct investment activities, the Board shall submit to the Committee on Banking, Finance and Urban Affairs \[now Committee on Financial Services\] of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report describing the proposed regulation and the reasons for the proposed regulation, including the effect of such regulation on the insurance fund.
 
 &emsp;“(2)
 

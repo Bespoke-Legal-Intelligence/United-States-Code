@@ -24,7 +24,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary may make grants to, and enter into contracts with, schools of medicine, schools of osteopathic medicine, teaching hospitals, and graduate medical education programs, for the purpose of providing support (including residencies, traineeships, and fellowships) for geriatric training projects to train physicians, dentists and behavioral and mental health professionals who plan to teach geriatric medicine, geriatric behavioral or mental health, or geriatric dentistry.
+&emsp;The Secretary may make grants to, and enter into contracts with, schools of medicine,schools of osteopathic medicine, teaching hospitals, and graduate medical education programs, for the purpose of providing support (including residencies, traineeships, and fellowships) for geriatric training projects to train physicians, dentists and behavioral and mental health professionals who plan to teach geriatric medicine, geriatric behavioral or mental health, or geriatric dentistry.
 
 #### (2) Requirements
 
@@ -106,7 +106,7 @@
 
 #### (4) Maintenance of effort
 
-&emsp;An eligible individual that receives an Award under paragraph (1) shall provide assurances to the Secretary that funds provided to the eligible individual under this subsectionwill be used only to supplement, not to supplant, the amount of Federal, State, and local funds otherwise expended by the eligible individual.
+&emsp;An eligible individual that receives an Award under paragraph (1) shall provide assurances to the Secretary that funds provided to the eligible individual under this subsection will be used only to supplement, not to supplant, the amount of Federal, State, and local funds otherwise expended by the eligible individual.
 
 #### (5) Amount and term
 
@@ -164,7 +164,7 @@
 
 #### (A) Family caregiver and direct care provider training
 
-&emsp;&emsp;A geriatric education center that receives an award under this subsection shall offer at least 2 courses each year, at no charge or nominal cost, to family caregivers and direct care providers that are designed to provide practical training for supporting frail elders and individuals with disabilities. The Secretary shall require such Centers to work with appropriate community partners to develop training program content and to publicize the availability of training courses in their service areas. All family caregiver and direct care provider training programs shall include instruction on the management of psychological and behavioral aspects of dementia, communication techniques for working with individuals who have dementia, and the appropriate, safe, and effective use of medications for older adults.
+&emsp;&emsp;A geriatric education center that receives an award under this subsection shall offer atleast 2 courses each year, at no charge or nominal cost, to family caregivers and direct care providers that are designed to provide practical training for supporting frail elders and individuals with disabilities. The Secretary shall require such Centers to work with appropriate community partners to develop training program content and to publicize the availability of training courses in their service areas. All family caregiver and direct care provider training programs shall include instruction on the management of psychological and behavioral aspects of dementia, communication techniques for working with individuals who have dementia, and the appropriate, safe, and effective use of medications for older adults.
 
 #### (B) Incorporation of best practices
 

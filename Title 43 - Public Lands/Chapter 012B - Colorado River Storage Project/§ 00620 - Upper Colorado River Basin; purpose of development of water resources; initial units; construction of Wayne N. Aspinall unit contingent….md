@@ -147,7 +147,7 @@ Rights of the nation.—The Nation may, under the Contract—
 
 &emsp;&emsp;“(B) change a point of diversion, change a purpose or place of use, and transfer a right for depletion under this subtitle (except for a point of diversion, purpose or place of use, or right for depletion for use in the State of Arizona under section 10603(b)(2)(D) \[123 Stat. 1383\]), to another use, purpose, place, or depletion in the State of New Mexico to meet a water resource or economic need of the Nation if—
 
-&emsp;&emsp;&emsp;“(i) the change or transfer is subject to and consistent with the terms of the Agreement, the Partial Final Decree described in paragraph 3.0 of theAgreement, the Contract, and any other applicable law; and
+&emsp;&emsp;&emsp;“(i) the change or transfer is subject to and consistent with the terms of the Agreement, the Partial Final Decree described in paragraph 3.0 of the Agreement, the Contract, and any other applicable law; and
 
 &emsp;&emsp;&emsp;“(ii) a change or transfer of water use by the Nation does not alter any obligation of the United States, the Nation, or another party to pay or repay project construction, operation, maintenance, or replacement costs under this subtitle and the Contract.
 

@@ -10,13 +10,13 @@ The standards shall be designed to reduce the risk of loss of life to building o
 
 #### (c) Consultation
 
-In carrying out this section, the Secretary shall consult with the Administrator of the Federal Emergency Management Agency and mayutilize the resources under the National Earthquake Hazards Reduction Program (established under the Earthquake Hazards Reduction Act of 1977 \[42 U.S.C. 7701 et seq.\]) and any other resources as may be required to carry out the activities under this section.
+In carrying out this section, the Secretary shall consult with the Administrator of the Federal Emergency Management Agency and may utilize the resources under the National Earthquake Hazards Reduction Program (established under the Earthquake Hazards Reduction Act of 1977 \[42 U.S.C. 7701 et seq.\]) and any other resources as may be required to carry out the activities under this section.
 
 (Pub. L. 101–625, title IX, §947, Nov. 28, 1990, 104 Stat. 4416; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410.)
 
 #### References in Text
 
-The Earthquake Hazards Reduction Act of 1977, referred to in subsec. (c), is Pub. L. 95–124, Oct. 7, 1977, 91 Stat. 1098, as amended, which is classified generally to this chapter (§7701 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 7701 of this title and Tables.
+The Earthquake Hazards Reduction Act of 1977, referred to in subsec. (c), is Pub. L. 95–124, Oct. 7, 1977, 91Stat. 1098, as amended, which is classified generally to this chapter (§7701 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 7701 of this title and Tables.
 
 #### Codification
 

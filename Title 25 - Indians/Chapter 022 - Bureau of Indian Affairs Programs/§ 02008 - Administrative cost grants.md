@@ -180,7 +180,7 @@ In applying this section and section 106 of the Indian Self-Determination and Ed
 
 &emsp;&emsp;(B) conduct a study to determine—
 
-&emsp;&emsp;&emsp;(i) a maximum base rate which ensures that the amount of the grants providedunder this section will provide adequate (but not excessive) funding of the administrative costs of the smallest tribal elementary or secondary educational programs;
+&emsp;&emsp;&emsp;(i) a maximum base rate which ensures that the amount of the grants provided under this section will provide adequate (but not excessive) funding of the administrative costs of the smallest tribal elementary or secondary educational programs;
 
 &emsp;&emsp;&emsp;(ii) a minimum base rate which ensures that the amount of the grants provided under this section will provide adequate (but not excessive) funding of the administrative costs of the largest tribal elementary or secondary educational programs; and
 
@@ -222,7 +222,7 @@ In applying this section and section 106 of the Indian Self-Determination and Ed
 
 #### (6) Projection of costs
 
-&emsp;The Secretary shall include in the Bureau's justification for each appropriations request beginning in the first fiscal year after the completion of the studies conducted under paragraph (1), a projection of the overall costs associated with the formula set forth in subsection (c) of this section for all tribal elementary or secondary education programs which the Secretary expects to be funded in the fiscal year for which the appropriations are sought.
+&emsp;The Secretary shall include in the Bureau's justification for each appropriations request beginning in the first fiscal year after the completion of the studies conducted under paragraph (1), a projection of the overall costs associated with the formula set forth in subsection (c) of this section for all tribal elementary or secondary education programs whichthe Secretary expects to be funded in the fiscal year for which the appropriations are sought.
 
 #### (7) Determination of program size
 
@@ -236,7 +236,7 @@ In applying this section and section 106 of the Indian Self-Determination and Ed
 
 #### (2) Reductions
 
-&emsp;If the total amount of funds necessary to provide grants to tribes and tribal organizations in the amounts determined under subsection (c) of this section for a fiscal year exceeds the amount of funds appropriated to carry out this section for such fiscal year, the Secretary shall reduce the amount of each grant determined under subsection (c) of this section for such fiscal year by an amount that bears the same relationship to such excess asthe amount of such grants determined under subsection (c) of this section bears to the total of all grants determined under subsection (c) section <sup>1</sup> for all tribes and tribal organizations for such fiscal year.
+&emsp;If the total amount of funds necessary to provide grants to tribes and tribal organizations in the amounts determined under subsection (c) of this section for a fiscal year exceeds the amount of funds appropriated to carry out this section for such fiscal year, the Secretary shall reduce the amount of each grant determined under subsection (c) of this section for such fiscal year by an amount that bears the same relationship to such excess as the amount of such grants determined under subsection (c) of this section bears to the total of all grants determined under subsection (c) section <sup>1</sup> for all tribes and tribal organizations for such fiscal year.
 
 #### (k) Applicability to schools operating under Tribally Controlled Schools Act of 1988
 

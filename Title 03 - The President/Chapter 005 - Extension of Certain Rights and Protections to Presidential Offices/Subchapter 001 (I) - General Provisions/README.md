@@ -1,7 +1,5 @@
 ### SUBCHAPTER I—GENERAL PROVISIONS
 
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
-
 
 ---
 

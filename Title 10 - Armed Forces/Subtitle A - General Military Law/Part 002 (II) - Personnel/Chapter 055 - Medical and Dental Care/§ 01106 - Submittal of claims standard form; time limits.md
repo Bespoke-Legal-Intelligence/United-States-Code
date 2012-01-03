@@ -6,11 +6,17 @@ Standard Form.—The Secretary of Defense, after consultation with the other adm
 
 (b)
 
-Time for Submission.—A claim for payment for services provided under this chapter shall be submitted as provided in such regulations not later than one year after the services are provided.
+Time for Submission.—A claim for payment for services provided under this chapter shall be submitted as provided in such regulations as follows:
 
-(Added Pub. L. 102–190, div. A, title VII, §716(a)(1), Dec. 5, 1991, 105 Stat. 1403; amended Pub. L. 105–85, div. A, title VII, §738(a), Nov. 18, 1997, 111 Stat. 1815.)
+&emsp;(1) In the case of services provided outside the United States, the Commonwealth of Puerto Rico, or the possessions of the United States, by not later than three years after the services are provided.
+
+&emsp;(2) In the case of any other services, by not later than one year after the services are provided.
+
+(Added Pub. L. 102–190, div. A, title VII, §716(a)(1), Dec. 5, 1991, 105 Stat. 1403; amended Pub. L. 105–85, div. A, title VII, §738(a), Nov. 18, 1997, 111 Stat. 1815; Pub. L. 112–81, div. A, title VII, §712, Dec. 31, 2011, 125 Stat. 1476.)
 
 #### Amendments
+
+<b>2011</b>—Subsec. (b). Pub. L. 112–81 substituted “as follows:” for “not later than one year after the services are provided.” and added pars. (1) and (2).
 
 <b>1997</b>—Pub. L. 105–85 substituted “: standard form; time limits” for “under CHAMPUS” in section catchline and amended text generally. Prior to amendment, text read as follows:
 
@@ -64,7 +70,7 @@ System Functions.—The claims processing system shall include at least the foll
 
 &emsp;&emsp;“(C) the services available to beneficiaries under each insurance plan, medical service plan, or health plan, and the payment required of the beneficiaries and the insurer, medical service, or health plan for such services under the plan.
 
-&emsp;“(2) The ability to receive in electronic or written form claims submitted by insurers, medical services,and health plans for services provided to covered beneficiaries.
+&emsp;“(2) The ability to receive in electronic or written form claims submitted by insurers, medical services, and health plans for services provided to covered beneficiaries.
 
 &emsp;“(3) The ability to process, adjudicate, and pay (by electronic or other means) such claims.
 

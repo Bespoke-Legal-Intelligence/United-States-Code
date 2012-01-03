@@ -42,7 +42,7 @@
 
 #### (C) Preference for enterprise communities and empowerment zones
 
-&emsp;&emsp;With respect to the first 20 designations made under this section, a preference shall be provided to those nominated areas which are enterprise communities or empowerment zones (and are otherwise eligible for designation under this section).
+&emsp;&emsp;With respect to the first 20 designations made under this section, a preference shallbe provided to those nominated areas which are enterprise communities or empowerment zones (and are otherwise eligible for designation under this section).
 
 #### (4) Limitation on designations
 
@@ -62,7 +62,7 @@
 
 #### (C) Procedural rules
 
-&emsp;&emsp;The Secretary of Housing and Urban Development shall not make any designationof a nominated area as a renewal community under paragraph (2) unless—
+&emsp;&emsp;The Secretary of Housing and Urban Development shall not make any designation of a nominated area as a renewal community under paragraph (2) unless—
 
 &emsp;&emsp;&emsp;(i) the local governments and the States in which the nominated area is located have the authority—
 
@@ -134,7 +134,7 @@
 
 &emsp;&emsp;(A) the area is one of pervasive poverty, unemployment, and general distress,
 
-&emsp;&emsp;(B) the unemployment rate in the area, as determined by the most recent available data, was at least 11/2 times the national unemployment rate for the period to which such data relate,
+&emsp;&emsp;(B) the unemployment rate in the area, as determined by the most recent available data, was at least 1½ times the national unemployment rate for the period to which such data relate,
 
 &emsp;&emsp;(C) the poverty rate for each population census tract within the nominated area is at least 20 percent, and
 
@@ -156,7 +156,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary of Housing and Urban Development may designate any nominated area asa renewal community under subsection (a) only if—
+&emsp;The Secretary of Housing and Urban Development may designate any nominated area as a renewal community under subsection (a) only if—
 
 &emsp;&emsp;(A) the local government and the State in which the area is located agree in writing that, during any period during which the area is a renewal community, such governments will follow a specified course of action which meets the requirements of paragraph (2) and is designed to reduce the various burdens borne by employers or employees in such area, and
 

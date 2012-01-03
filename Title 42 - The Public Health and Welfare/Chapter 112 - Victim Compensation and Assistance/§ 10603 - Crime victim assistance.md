@@ -10,7 +10,7 @@
 
 &emsp;(B) certify that funds shall be made available for grants to programs which serve previously underserved populations of victims of violent crime. The Director, after consultation with State and local officials and representatives from private organizations, shall issue guidelines to implement this section that provide flexibility to the States in determining the populations of victims of violent crimes that may be underserved in their respective States;
 
-&emsp;(C) certify that funds awarded to eligible crime victim assistance programs will not beused to supplant State and local funds otherwise available for crime victim assistance; and
+&emsp;(C) certify that funds awarded to eligible crime victim assistance programs will not be used to supplant State and local funds otherwise available for crime victim assistance; and
 
 &emsp;(D) provide such other information and assurances related to the purposes of this section as the Director may reasonably require.
 
@@ -94,7 +94,7 @@
 
 As used in this section—
 
-&emsp;(1) the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, and anyother territory or possession of the United States; and
+&emsp;(1) the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, and any other territory or possession of the United States; and
 
 &emsp;(2) the term “services to victims of crime” includes—
 

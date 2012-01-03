@@ -24,7 +24,7 @@ Any person who knowingly destroys or causes physical damage to—
 
 Any person who knowingly causes an interruption of normal operation of any such facility through the unauthorized use of or tampering with the machinery, components, or controls of any such facility, or attempts or conspires to do such an act, shall be fined not more than $10,000 or imprisoned for not more than 20 years, or both, and, if death results to any person, shall be imprisoned for any term of years or for life.
 
-(Aug. 1, 1946, ch. 724, title I, §236, as added Pub. L. 96–295, title II, §204(a), June 30, 1980, 94 Stat. 787; amended Pub. L. 97–415, §16, Jan. 4, 1983, 96 Stat. 2076; Pub. L. 101–575, §5(d), Nov. 15, 1990, 104Stat. 2835; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; amended Pub. L. 107–56, title VIII, §§810(f), 811(h), Oct. 26, 2001, 115 Stat. 380, 381; Pub. L. 109–58, title VI, §655, Aug. 8, 2005, 119 Stat. 813.)
+(Aug. 1, 1946, ch. 724, title I, §236, as added Pub. L. 96–295, title II, §204(a), June 30, 1980, 94 Stat. 787; amended Pub. L. 97–415, §16, Jan. 4, 1983, 96 Stat. 2076; Pub. L. 101–575, §5(d), Nov. 15, 1990, 104 Stat. 2835; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; amended Pub. L. 107–56, title VIII, §§810(f), 811(h), Oct. 26, 2001, 115 Stat. 380, 381; Pub. L. 109–58, title VI, §655, Aug. 8, 2005, 119 Stat. 813.)
 
 #### Amendments
 

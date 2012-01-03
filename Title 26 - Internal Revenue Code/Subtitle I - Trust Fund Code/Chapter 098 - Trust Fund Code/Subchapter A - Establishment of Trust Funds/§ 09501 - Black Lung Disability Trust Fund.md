@@ -166,6 +166,8 @@ Pub. L. 111–8, div. F, title I, Mar. 11, 2009, 123 Stat. 757, provided in part
 
 Similar provisions were contained in the following appropriation acts:
 
+Pub. L. 112–74, div. F, title I, Dec. 23, 2011, 125 Stat. 1058.
+
 Pub. L. 111–117, div. D, title I, Dec. 16, 2009, 123 Stat. 3233.
 
 Pub. L. 110–161, div. G, title I, Dec. 26, 2007, 121 Stat. 2162.

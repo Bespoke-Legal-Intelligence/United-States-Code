@@ -98,7 +98,7 @@ In this subchapter—
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 741(6) of the House bill and Senate amendment is deleted by the House amendment since the defined term is used only in section 741(4)(A)(iii). A corresponding change is made in that section.
 
@@ -128,7 +128,7 @@ The Securities Exchange Act of 1934, referred to in par. (4)(A)(iii), is act Jun
 
 #### Amendments
 
-2006—Par. (7)(A)(i). Pub. L. 109–390, §5(a)(3)(A), substituted “a mortgage loan,” for “a mortgage loan or” and inserted “(whether or not such repurchase or reverse repurchase transaction is a ‘repurchase agreement’, as defined in section 101)” before semicolon at end.
+<b>2006</b>—Par. (7)(A)(i). Pub. L. 109–390, §5(a)(3)(A), substituted “a mortgage loan,” for “a mortgage loan or” and inserted “(whether or not such repurchase or reverse repurchase transaction is a ‘repurchase agreement’, as defined in section 101)” before semicolon at end.
 
 Par. (7)(A)(iii). Pub. L. 109–390, §5(a)(3)(B), inserted “(including by novation)” after “the guarantee” and “(whether or not such settlement is in connection with any agreement or transaction referred to in clauses (i) through (xi))” before semicolon at end.
 
@@ -140,11 +140,11 @@ Pub. L. 109–390, §5(a)(3)(C), substituted “(vii), (viii), or (ix)” for �
 
 Par. (7)(A)(ix) to (xi). Pub. L. 109–390, §5(a)(3)(D), redesignated cls. (vii) to (ix) as (ix) to (xi), respectively.
 
-2005—Par. (7). Pub. L. 109–8 added par. (7) and struck out former par. (7) which read as follows: “ ‘securitiescontract’ means contract for the purchase, sale, or loan of a security, including an option for the purchase or sale of a security, certificate of deposit, or group or index of securities (including any interest therein or based on the value thereof), or any option entered into on a national securities exchange relating to foreign currencies, or the guarantee of any settlement of cash or securities by or to a securities clearing agency;”.
+<b>2005</b>—Par. (7). Pub. L. 109–8 added par. (7) and struck out former par. (7) which read as follows: “ ‘securities contract’ means contract for the purchase, sale, or loan of a security, including an option for the purchase or sale of a security, certificate of deposit, or group or index of securities (including any interest therein or based on the value thereof), or any option entered into on a national securities exchange relating to foreign currencies, or the guarantee of any settlement of cash or securities by or to a securities clearing agency;”.
 
-1994—Par. (4)(A)(iii). Pub. L. 103–394 struck out “(15 U.S.C. 78a et seq.)” after “Act of 1934”.
+<b>1994</b>—Par. (4)(A)(iii). Pub. L. 103–394 struck out “(15 U.S.C. 78a et seq.)” after “Act of 1934”.
 
-1984—Par. (2)(A). Pub. L. 98–353, §482(1), substituted “with whom a person deals” for “with whom the debtor deals”, “that has a claim” for “that holds a claim”, “against such person” for “against the debtor”, “held by such person” for “held by the debtor”, and “such person's business as a stockbroker,” for “business as a stockbroker”.
+<b>1984</b>—Par. (2)(A). Pub. L. 98–353, §482(1), substituted “with whom a person deals” for “with whom the debtor deals”, “that has a claim” for “that holds a claim”, “against such person” for “against the debtor”, “held by such person” for “held by the debtor”, and “such person's business as a stockbroker,” for “business as a stockbroker”.
 
 Par. (2)(B). Pub. L. 98–353, §482(2)(A), (B), substituted “has a claim” for “holds a claim” and “against a person” for “against the debtor” in provisions preceding cl. (i).
 
@@ -158,7 +158,7 @@ Par. (7). Pub. L. 98–353, §482(5), amended par. (7) generally, inserting prov
 
 Par. (8). Pub. L. 98–353, §482(6), inserted “a final settlement payment,”.
 
-1982—Par. (4). Pub. L. 97–222, §8(1), struck out “at any time” after “security, or property,” in provisions preceding subpar. (A), and inserted “of a customer” after “claim” in subpar. (A)(ii).
+<b>1982</b>—Par. (4). Pub. L. 97–222, §8(1), struck out “at any time” after “security, or property,” in provisions preceding subpar. (A), and inserted “of a customer” after “claim” in subpar. (A)(ii).
 
 Par. (5). Pub. L. 97–222, §8(3), added par. (5). Former par. (5) redesignated (6).
 

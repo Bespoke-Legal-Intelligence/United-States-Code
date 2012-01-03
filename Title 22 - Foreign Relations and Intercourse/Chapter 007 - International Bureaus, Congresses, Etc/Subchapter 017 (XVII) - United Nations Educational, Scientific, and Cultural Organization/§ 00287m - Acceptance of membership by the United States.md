@@ -94,7 +94,7 @@ The Organisation shall include a General Conference, an Executive Board and a Se
 
 #### <i>C. Voting</i>
 
-8\. Each Member State shall have one vote in the General Conference. Decisions shall be made by a simple majority except in cases in which a two-thirds majority is required by the provisions of this Constitution. A majority shall be a majority of the Members present and voting.
+8\. Each Member State shall have one vote in the General Conference. Decisions shall be made by a simple majority except in cases in which a two-thirds majorityis required by the provisions of this Constitution. A majority shall be a majority of the Members present and voting.
 
 #### <i>D. Procedure</i>
 
@@ -134,7 +134,7 @@ The Organisation shall include a General Conference, an Executive Board and a Se
 
 8\. The Executive Board shall meet in regular session at least twice a year and may meet in special session if convoked by the Chairman on his own initiative or upon the request of six members of the Board.
 
-9\. The Chairman of the Executive Board shall present to the General Conference, with or without comment,the annual report of the Director-General on the activities of the Organisation, which shall have been previously submitted to the Board.
+9\. The Chairman of the Executive Board shall present to the General Conference, with or without comment, the annual report of the Director-General on the activities of the Organisation, which shall have been previously submitted to the Board.
 
 10\. The Executive Board shall make all necessary arrangements to consult the representatives of international organisations or qualified persons concerned with questions within its competence.
 
@@ -170,7 +170,7 @@ The Organisation shall include a General Conference, an Executive Board and a Se
 
 #### <i>Reports by Member States</i>
 
-Each Member State shall report periodically to the Organisation, in a manner to be determined by the General Conference, on its laws, regulations and statistics relating to educational, scientific and cultural life and institutions, and on the action taken upon the recommendations and conventions referred to in Article IV, paragraph 4.
+Each Member State shall report periodically to the Organisation, in a manner to be determined by the General Conference, on its laws, regulations and statistics relating to educational, scientific and cultural lifeand institutions, and on the action taken upon the recommendations and conventions referred to in Article IV, paragraph 4.
 
 #### article ix.
 
@@ -204,7 +204,7 @@ This Organisation shall be brought into relation with the United Nations Organis
 
 #### <i>Legal status of the Organisation</i>
 
-The provisions of Articles 104 and 105 of the Charter of the United Nations Organisation concerning thelegal status of that Organisation, its privileges and immunities shall apply in the same way to this Organisation.
+The provisions of Articles 104 and 105 of the Charter of the United Nations Organisation concerning the legal status of that Organisation, its privileges and immunities shall apply in the same way to this Organisation.
 
 #### article xiii.
 

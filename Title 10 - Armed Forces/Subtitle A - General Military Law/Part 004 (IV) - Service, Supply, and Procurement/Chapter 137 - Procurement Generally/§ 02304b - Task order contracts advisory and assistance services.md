@@ -158,7 +158,7 @@ Comptroller General Review.—
 
 &emsp;“(1)
 
-Report requirement.—Not later than one year after the date of the enactment of this Act \[Oct. 17,2006\], the Comptroller General shall submit to the committees described in paragraph (3) a report on the use of advisory and assistance services contracts by the Federal Government.
+Report requirement.—Not later than one year after the date of the enactment of this Act \[Oct. 17, 2006\], the Comptroller General shall submit to the committees described in paragraph (3) a report on the use of advisory and assistance services contracts by the Federal Government.
 
 &emsp;“(2)
 

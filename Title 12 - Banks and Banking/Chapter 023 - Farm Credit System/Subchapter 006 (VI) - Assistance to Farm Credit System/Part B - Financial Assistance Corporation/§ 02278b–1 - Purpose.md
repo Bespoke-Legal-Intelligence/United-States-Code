@@ -6,5 +6,5 @@ The purpose of the Financial Assistance Corporation shall be to carry out a prog
 
 #### Amendments
 
-1992—Pub. L. 102–552 inserted before period at end “and to assist, pursuant to section 2278a–9(e) of this title and subsections (c) through (g) of section 2278b–6 of this title, in the repayment by System institutions to those persons who provided funds in connection with the program”.
+<b>1992</b>—Pub. L. 102–552 inserted before period at end “and to assist, pursuant to section 2278a–9(e) of this title and subsections (c) through (g) of section 2278b–6 of this title, in the repayment by System institutions to those persons who provided funds in connection with the program”.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, acting through the Administrator of the Health Resources and Services Administration (referred to in this part as the “Administrator”), in consultation with the Director of the Centers for Disease Control and Prevention and the Director of the National Institutes of Health, shall establish and maintain a central clearinghouse of current educational and familysupport and services information, materials, resources, research, and data on newborn screening to—
+The Secretary, acting through the Administrator of the Health Resources and Services Administration (referred to in this part as the “Administrator”), in consultation with the Director of the Centers for Disease Control and Prevention and the Director of the National Institutes of Health, shall establish and maintain a central clearinghouse of current educational and family support and services information, materials, resources, research, and data on newborn screening to—
 
 &emsp;(1) enable parents and family members of newborns, health professionals, industry representatives, and other members of the public to increase their awareness, knowledge, and understanding of newborn screening;
 

@@ -28,7 +28,7 @@
 
 #### (c) Approval of State plans
 
-(1) As soon as practicable after the date of the receipt of any State plan, but in no event laterthan 30 days after such date, the Secretary shall review such plan and shall approve it unless the Secretary finds—
+(1) As soon as practicable after the date of the receipt of any State plan, but in no event later than 30 days after such date, the Secretary shall review such plan and shall approve it unless the Secretary finds—
 
 &emsp;(A) that, taken as a whole, the plan is not likely to achieve the emergency conservation target established for that State under section 8511(a) of this title for each energy source involved,
 
@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(iii) a tax, tariff, or user fee not authorized by State law.
 
-(2) Any measure contained in a State plan shall become effective in that State on the date the Secretary approves the plan under this subsection or such later date as may be prescribed in, or pursuant to, the plan.
+(2) Any measure contained in a State plan shall become effective in that State on the datethe Secretary approves the plan under this subsection or such later date as may be prescribed in, or pursuant to, the plan.
 
 #### (d) State administration and enforcement
 

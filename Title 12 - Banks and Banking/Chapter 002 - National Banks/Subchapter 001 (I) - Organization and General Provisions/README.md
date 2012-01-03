@@ -13,6 +13,7 @@
 - [&sect; 00024a - Financial subsidiaries of national banks](%C2%A7%2000024a%20-%20Financial%20subsidiaries%20of%20national%20banks.md)
 - [&sect; 00025 - Omitted](%C2%A7%2000025%20-%20Omitted.md)
 - [&sect; 00025a - Participation by national banks in lotteries and related activities](%C2%A7%2000025a%20-%20Participation%20by%20national%20banks%20in%20lotteries%20and%20related%20activities.md)
+- [&sect; 00025b - State law preemption standards for national banks and subsidiaries clarified](%C2%A7%2000025b%20-%20State%20law%20preemption%20standards%20for%20national%20banks%20and%20subsidiaries%20clarified.md)
 - [&sect; 00026 - Comptroller to determine if association can commence business](%C2%A7%2000026%20-%20Comptroller%20to%20determine%20if%20association%20can%20commence%20business.md)
 - [&sect; 00027 - Certificate of authority to commence banking](%C2%A7%2000027%20-%20Certificate%20of%20authority%20to%20commence%20banking.md)
 - [&sect; 00028 - Repealed. Pub. L. 103&#8211;325, title VI, &sect;602(e)(1), Sept. 23, 1994, 108 Stat. 2291](%C2%A7%2000028%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93325%2C%20title%20VI%2C%20%C2%A7602%28e%29%281%29%2C%20Sept.%2023%2C%201994%2C%20108%20Stat.%202291.md)

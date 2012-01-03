@@ -6,7 +6,7 @@ Funds appropriated to carry out this part are authorized to be made available un
 
 #### Prior Provisions
 
-A prior section 2294, Pub. L. 87–195, pt. I, §497, as added Pub. L. 95–92, §4, Aug. 4, 1977, 91 Stat. 614, related to balance of payments loan for Portugal, prior to repeal by Pub. L. 99–83, title XII, §1211(a)(4), Aug. 8, 1985, 99 Stat. 279, effective Oct. 1, 1985.
+A prior section 2294, Pub. L. 87–195, pt. I, §497, as added Pub. L. 95–92, §4, Aug. 4, 1977, 91 Stat. 614, relatedto balance of payments loan for Portugal, prior to repeal by Pub. L. 99–83, title XII, §1211(a)(4), Aug. 8, 1985, 99 Stat. 279, effective Oct. 1, 1985.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

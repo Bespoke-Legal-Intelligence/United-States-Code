@@ -84,19 +84,19 @@ This section amends 5 U.S.C. 5504 to reflect the amendment to 5 U.S.C. 6101 by s
 
 #### Amendments
 
-2003—Subsecs. (a), (b). Pub. L. 108–136, §1124(a)(2), struck out last sentence which defined “employee”.
+<b>2003</b>—Subsecs. (a), (b). Pub. L. 108–136, §1124(a)(2), struck out last sentence which defined “employee”.
 
 Subsec. (c). Pub. L. 108–136, §1124(a)(3), added subsec. (c). Former subsec. (c) redesignated (d).
 
 Subsec. (d). Pub. L. 108–136, §1124(a)(1), (b), redesignated subsec. (c) as (d), inserted “(1)” after “(d)”, and added par. (2).
 
-1986—Subsec. (b). Pub. L. 99–272 struck out first sentence which provided that for pay computation purposes affecting an employee, the annual rate of basic pay established by or under statute is deemed payment for employment during 52 basic administrative workweeks of 40 hours, inserted “, in the case of an employee,” after “When” in second sentence, substituted “2,087” for “2,080” in par. (1), and inserted “other than an employee or individual excluded by section 5541(2)(xvi) of this title” at end of last sentence.
+<b>1986</b>—Subsec. (b). Pub. L. 99–272 struck out first sentence which provided that for pay computation purposes affecting an employee, the annual rate of basic pay established by or under statute is deemed payment for employment during 52 basic administrative workweeks of 40 hours, inserted “, in the case of an employee,” after “When” in second sentence, substituted “2,087” for “2,080” in par. (1), and inserted “other than an employee or individual excluded by section 5541(2)(xvi) of this title” at end of last sentence.
 
-1979—Subsec. (a)(A). Pub. L. 96–70 substituted “Panama Canal Commission” for “Canal Zone Government or the Panama Canal Company”.
+<b>1979</b>—Subsec. (a)(A). Pub. L. 96–70 substituted “Panama Canal Commission” for “Canal Zone Government or the Panama Canal Company”.
 
 Subsec. (a)(B). Pub. L. 96–54 substituted “(xvi) of this title” for “(xvi) of this section”.
 
-1978—Subsec. (a). Pub. L. 95–454, §408(a)(1), in par. (B) inserted reference to an employee or individual excluded by section 5541(2)(xvi).
+<b>1978</b>—Subsec. (a). Pub. L. 95–454, §408(a)(1), in par. (B) inserted reference to an employee or individual excluded by section 5541(2)(xvi).
 
 Subsec. (c). Pub. L. 95–454, §906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
 

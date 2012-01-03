@@ -68,7 +68,7 @@ The following consumer products, excluding those consumer products designed sole
 
 #### References in Text
 
-This chapter, referred to in subsec. (b)(1)(A), was in the original “this Act”, meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
+This chapter, referred to in subsec. (b)(1)(A), was in the original “this Act”, meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, known as the Energy Policy and Conservation Act. For complete classificationof this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
 #### Amendments
 
@@ -126,7 +126,7 @@ Section 121 of Pub. L. 102–486 provided that:
 
 “(a)
 
-In General.—(1) The Secretary shall, after consulting with the National Fenestration Rating Council,industry representatives, and other appropriate organizations, provide financial assistance to support a voluntary national window rating program that will develop energy ratings and labels for windows and window systems.
+In General.—(1) The Secretary shall, after consulting with the National Fenestration Rating Council, industry representatives, and other appropriate organizations, provide financial assistance to support a voluntary national window rating program that will develop energy ratings and labels for windows and window systems.
 
 “(2) Such rating program shall include—
 
@@ -174,7 +174,7 @@ Monitoring.—The Secretary shall monitor and evaluate the efforts to develop th
 
 “(c)
 
-Alternative System.—(1) If the Secretary makes a determination under subsection (b) that a voluntary national testing and information program for commercial office equipment consistent with the objectives of subsection (a) has not been developed, the Secretary shall, after consultation with the National Institute of Standards and Technology, develop, not later than two years after such determination, test procedures under section 323 of the Energy Policy and Conservation Act (42 U.S.C. 6293) for such commercial office equipment.
+Alternative System.—(1) If the Secretary makes a determination under subsection (b) that a voluntary national testing and information program for commercial office equipment consistent with the objectives of subsection (a) has not been developed, the Secretary shall, after consultation with the National Institute of Standards and Technology, develop, not laterthan two years after such determination, test procedures under section 323 of the Energy Policy and Conservation Act (42 U.S.C. 6293) for such commercial office equipment.
 
 “(2) Not later than one year after the Secretary develops test procedures under paragraph (1), the Federal Trade Commission (hereafter in this section referred to as the ‘Commission’) shall prescribe labeling rules under section 324 of such Act (42 U.S.C. 6294) for commercial office equipment for which the Secretary has prescribed test procedures under paragraph (1) except that, with respect to any type of commercial office equipment (or class thereof), the Secretary may determine that such labeling is not technologically feasible or economically justified or is not likely to assist consumers in making purchasing decisions.
 
@@ -202,7 +202,7 @@ In General.—(1) The Secretary shall, after consulting with the National Electr
 
 “(b)
 
-Monitoring.—The Secretary shall monitor and evaluate the efforts to develop the program describedin subsection (a) and, not later than three years after the date of the enactment of this Act \[Oct. 24, 1992\], shall make a determination as to whether the program developed is consistent with the objectives of subsection (a).
+Monitoring.—The Secretary shall monitor and evaluate the efforts to develop the program described in subsection (a) and, not later than three years after the date of the enactment of this Act \[Oct. 24, 1992\], shall make a determination as to whether the program developed is consistent with the objectives of subsection (a).
 
 “(c)
 
@@ -250,5 +250,5 @@ Recommendations and Proposals.—The report submitted under subsection (a) shall
 
 #### Evaluation of Utility Early Replacement Programs for Appliances
 
-Section 128 of Pub. L. 102–486 provided that: “Within 18 months after the date of the enactment of this Act \[Oct. 24, 1992\], the Secretary, in consultation with the Administrator of the Environmental Protection Agency, utilities, and appliance manufacturers, shall evaluate and report to the Congress on the energy savings and environmental benefits of programs which are directed to the early replacement of older, less efficient appliances presently in use by consumers with existing products which are more efficient than required by Federal law. For the purposes of this section, the term ‘appliance’ means those consumer products specified in section 322(a) \[42 U.S.C. 6292(a)\].”
+Section 128 of Pub. L. 102–486 provided that: “Within 18 months after the date of the enactment of this Act \[Oct. 24, 1992\], the Secretary, in consultation with the Administrator of the Environmental Protection Agency, utilities, and appliance manufacturers, shall evaluate and report to the Congress on the energy savings and environmental benefits of programs which are directed to the early replacement of older, less efficient appliances presently in use by consumers with existingproducts which are more efficient than required by Federal law. For the purposes of this section, the term ‘appliance’ means those consumer products specified in section 322(a) \[42 U.S.C. 6292(a)\].”
 

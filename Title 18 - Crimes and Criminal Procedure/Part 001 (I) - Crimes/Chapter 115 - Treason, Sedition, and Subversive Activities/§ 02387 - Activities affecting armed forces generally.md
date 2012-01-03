@@ -10,7 +10,7 @@ Shall be fined under this title or imprisoned not more than ten years, or both, 
 
 (b) For the purposes of this section, the term “military or naval forces of the United States” includes the Army of the United States, the Navy, Air Force, Marine Corps, Coast Guard, Navy Reserve, Marine Corps Reserve, and Coast Guard Reserve of the United States; and, when any merchant vessel is commissioned in the Navy or is in the service of the Army or the Navy, includes the master, officers, and crew of such vessel.
 
-(June 25, 1948, ch. 645, 62 Stat. 811; May 24, 1949, ch. 139, §46, 63 Stat. 96; Pub. L. 103–322, titleXXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 109–163, div. A, title V, §515(f)(2), Jan. 6, 2006, 119 Stat. 3236.)
+(June 25, 1948, ch. 645, 62 Stat. 811; May 24, 1949, ch. 139, §46, 63 Stat. 96; Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 109–163, div. A, title V, §515(f)(2), Jan. 6, 2006, 119 Stat. 3236.)
 
 #### Historical and Revision Notes
 
@@ -46,5 +46,5 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 Coast Guard transferred to Department of Transportation and functions, powers, and duties, relating to Coast Guard, of Secretary of the Treasury and of other offices and officers of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, Oct. 15, 1966, 80 Stat. 931, which created Department of Transportation. See section 108 of Title 49, Transportation.
 
-Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26, of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5, Government Organization and Employees. Such plan excepted from transfer functions of Coast Guard and Commandant thereof when Coast Guard is operating as a part of the Navy under section 1 and 3 of Title 14, Coast Guard.
+Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any ofhis functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26, of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5, Government Organization and Employees. Such plan excepted from transfer functions of Coast Guard and Commandant thereof when Coast Guard is operating as a part of the Navy under section 1 and 3 of Title 14, Coast Guard.
 

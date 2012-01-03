@@ -26,7 +26,7 @@ The Secretary shall approve and disburse assistance under section 4143 of this t
 
 #### (4) Geographic coverage
 
-&emsp;The Secretary may select more than 1 State or regional intermediary for a single State or region. The number of intermediaries chosenfor each State or region may be based on the number of eligible low-income housing projects in the State or region, provided there is no duplication of geographic coverage by intermediaries in the administration of the direct assistance grant program.
+&emsp;The Secretary may select more than 1 State or regional intermediary for a single State or region. The number of intermediaries chosen for each State or region may be based on the number of eligible low-income housing projects in the State or region, provided there is no duplication of geographic coverage by intermediaries in the administration of the direct assistance grant program.
 
 #### (5) National nonprofit intermediaries
 

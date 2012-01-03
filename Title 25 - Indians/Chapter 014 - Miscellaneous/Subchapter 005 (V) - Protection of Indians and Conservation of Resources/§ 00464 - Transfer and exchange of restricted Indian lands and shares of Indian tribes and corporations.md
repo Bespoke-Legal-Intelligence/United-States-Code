@@ -20,7 +20,7 @@ The Indian Land Consolidation Act, referred to in text, is title II of Pub. L. 9
 
 Pub. L. 108–374, §6(d)(3), which directed insertion of “in accordance with the Indian Land Consolidation Act (25 U.S.C. 2201 et seq.) (including a tribal probate code approved under that Act or regulations promulgated under that Act):” in first proviso without specifying where the insertion was to be made, was executed by making the insertion at end of first proviso, to reflect the probable intent of Congress.
 
-<b>2000</b>—Pub. L. 106–462, which directed the amendment of this section by substituting “member or, except as provided by the Indian Land Consolidation Act,” for“member or:”, was executed by making the substitution for “member or” before “any other Indian person” to reflect the probable intent of Congress because the phrase “member or:” did not appear in text.
+<b>2000</b>—Pub. L. 106–462, which directed the amendment of this section by substituting “member or, except as provided by the Indian Land Consolidation Act,” for “member or:”, was executed by making the substitution for “member or” before “any other Indian person” to reflect the probable intent of Congress because the phrase “member or:” did not appear in text.
 
 <b>1980</b>—Pub. L. 96–363, which directed the amendment of the first proviso of this section by substituting “or any heirs or lineal descendants of such member or any other Indian person for whom the Secretary of the Interior determines that the United States may hold land in trust” for “or any heirs of such members”, was executed by making the substitution for “or any heirs of such member” to reflect the probable intent of Congress.
 

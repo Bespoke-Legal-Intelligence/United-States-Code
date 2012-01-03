@@ -26,7 +26,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1976—Pub. L. 94–566 struck out “or to the Virgin Islands, as the case may be,” after “shall be assigned to the State”.
+<b>1976</b>—Pub. L. 94–566 struck out “or to the Virgin Islands, as the case may be,” after “shall be assigned to the State”.
 
 #### Effective Date of 1976 Amendment
 

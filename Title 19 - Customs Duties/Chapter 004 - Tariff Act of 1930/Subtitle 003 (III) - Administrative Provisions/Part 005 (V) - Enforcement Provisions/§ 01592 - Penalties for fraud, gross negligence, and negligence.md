@@ -50,7 +50,7 @@
 
 #### (2) Penalty claim
 
-&emsp;After considering representations, if any, made by the person concerned pursuant to the notice issued under paragraph (1), the Customs Service shall determine whether any violationof subsection (a) of this section, as alleged in the notice, has occurred. If the Customs Service determines that there was no violation, it shall promptly issue a written statement of the determination to the person to whom the notice was sent. If the Customs Service determines that there was a violation, it shall issue a written penalty claim to such person. The written penalty claim shall specify all changes in the information provided under clauses (i) through (vi) of paragraph (1)(A). Such person shall have a reasonable opportunity under section 1618 of this title to make representations, both oral and written, seeking remission or mitigation of the monetary penalty. At the conclusion of any proceeding under such section 1618, the Customs Service shall provide to the person concerned a written statement which sets forth the final determination and the findings of fact and conclusions of law on which such determination is based.
+&emsp;After considering representations, if any, made by the person concerned pursuant to the notice issued under paragraph (1), the Customs Service shall determine whether any violation of subsection (a) of this section, as alleged in the notice, has occurred. If the Customs Service determines that there was no violation, it shall promptly issue a written statement of the determination to the person to whom the notice was sent. If the Customs Service determines that there was a violation, it shall issue a written penalty claim to such person. The written penalty claim shall specify all changes in the information provided under clauses (i) through (vi) of paragraph (1)(A). Such person shall have a reasonable opportunity under section 1618 of this title to make representations, both oral and written, seeking remission or mitigation of the monetary penalty. At the conclusion of any proceeding under such section 1618, the Customs Service shall provide to the person concerned a written statement which sets forth the final determination and the findings of fact and conclusions of law on which such determination is based.
 
 #### (c) Maximum penalties
 
@@ -132,7 +132,19 @@
 
 &emsp;An importer shall not be subject to penalties under subsection (a) for making an incorrect claim that a good qualifies as an originating good under section 203 of the United States-Peru Trade Promotion Agreement Implementation Act if the importer, in accordance with regulations issued by the Secretary of the Treasury, promptly and voluntarily makes a corrected declaration and pays any duties owing with respect to that good.
 
-#### (11) Seizure
+#### (11) Prior disclosure regarding claims under the United States–Korea Free Trade Agreement
+
+&emsp;An importer shall not be subject to penalties under subsection (a) for making an incorrect claim that a good qualifies as an originating good under section 202 of the United States–Korea Free Trade Agreement Implementation Act if the importer, in accordance with regulations issued by the Secretary of the Treasury, promptly and voluntarily makes a corrected declaration and pays any duties owing with respect to that good.
+
+#### (12) Prior disclosure regarding claims under the United States–Colombia Trade Promotion Agreement
+
+&emsp;An importer shall not be subject to penalties under subsection (a) for making an incorrect claim that a good qualifies as an originating good under section 203 of the United States–Colombia Trade Promotion Agreement Implementation Act if the importer, in accordance with regulations issued by the Secretary of the Treasury, promptly and voluntarily makes a corrected declaration and pays any duties owing with respect to that good.
+
+#### (13) Prior disclosure regarding claims under the United States–Panama Trade Promotion Agreement
+
+&emsp;An importer shall not be subject to penalties under subsection (a) for making an incorrect claim that a good qualifies as an originatinggood under section 203 of the United States–Panama Trade Promotion Agreement Implementation Act if the importer, in accordance with regulations issued by the Secretary of the Treasury, promptly and voluntarily makes a corrected declaration and pays any duties owing with respect to that good.
+
+#### (14) Seizure
 
 &emsp;If the Secretary has reasonable cause to believe that a person has violated the provisions of subsection (a) of this section and that such person is insolvent or beyond the jurisdiction of the United States or that seizure is otherwise essential to protect the revenue of the United States or to prevent the introduction of prohibited or restricted merchandise into the customs territory of the United States, then such merchandise may be seized and, upon assessment of a monetary penalty, forfeited unless the monetary penalty is paid within the time specified by law. Within a reasonable time after any such seizure is made, the Secretary shall issue to the person concerned a written statement containing the reasons for the seizure. After seizure of merchandise under this subsection, the Secretary may, in the case of restricted merchandise, and shall, in the case of any other merchandise (other than prohibited merchandise), return such merchandise upon the deposit of security not to exceed the maximum monetary penalty which may be assessed under subsection (c) of this section.
 
@@ -228,9 +240,69 @@ Notwithstanding any other provision of law, in any proceeding commenced by the U
 
 &emsp;&emsp;(B) the person promptly and voluntarily provides written notice of the change in circumstances to all persons to whom the person provided the certification.
 
-(June 17, 1930, ch. 497, title IV, §592, 46 Stat. 750; Aug. 5, 1935, ch. 438, title III, §304(b), 49 Stat. 527; Pub. L. 95–410, title I, §110(a), Oct. 3, 1978, 92 Stat. 893; Pub. L. 96–417, title VI, §609, Oct. 10, 1980, 94 Stat. 1746; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–182, title II, §205(c), title VI, §621, Dec. 8, 1993, 107 Stat. 2095, 2180; Pub. L. 104–295, §§3(a)(4), (5), 21(e)(12), (13), Oct. 11, 1996, 110 Stat. 3515, 3531; Pub. L. 106–36, title I, §1001(b)(8), June 25, 1999, 113 Stat. 132; Pub. L. 108–77, title II, §205(a), Sept. 3, 2003, 117 Stat. 930; Pub. L. 108–78, title II, §204, Sept. 3, 2003, 117 Stat. 961; Pub. L. 108–286, title II, §205, Aug. 3, 2004, 118 Stat. 939; Pub. L. 109–53, title II, §206(a), Aug. 2, 2005, 119 Stat. 484; Pub. L. 110–138, title II, §205(a), Dec. 14, 2007, 121 Stat. 1475.)
+#### (j) False certifications of origin under the United States–Korea Free Trade Agreement
+
+#### (1) In general
+
+&emsp;Subject to paragraph (2), it is unlawful for any person to certify falsely, by fraud, gross negligence, or negligence, in a KFTA certification of origin (as defined in section 1508 of this title) that a good exported from the United States qualifies as an originating good under the rules of origin provided for in section 202 of the United States–Korea Free Trade Agreement Implementation Act. The procedures and penalties of this section that apply to a violation of subsection (a) also apply to a violation of this subsection.
+
+#### (2) Prompt and voluntary disclosure of incorrect information
+
+&emsp;No penalty shall be imposed under this subsection if, promptly after an exporter or producer that issued a KFTA certification of origin has reason to believe that such certification contains or is based on incorrect information, the exporter or producer voluntarily provides written notice of such incorrect information to every person to whom the certification was issued.
+
+#### (3) Exception
+
+&emsp;A person shall not be considered to have violated paragraph (1) if—
+
+&emsp;&emsp;(A) the information was correct at the time it was provided in a KFTA certification of origin but was later rendered incorrect due to a change in circumstances; and
+
+&emsp;&emsp;(B) the person promptly and voluntarily provides written notice of the change in circumstances to all persons to whom the person provided the certification.
+
+#### (k) False certifications of origin under the United States–Colombia Trade Promotion Agreement
+
+#### (1) In general
+
+&emsp;Subject to paragraph (2), it is unlawful for any person to certify falsely, by fraud, gross negligence, or negligence, in a CTPA certification of origin (as defined in section 1508 of this title) that a good exported from the United States qualifies as an originating good under the rules of origin provided for in section 203 of the United States–Colombia Trade Promotion Agreement Implementation Act. The procedures and penalties of this section that apply to a violation of subsection (a) also apply to a violation of this subsection.
+
+#### (2) Prompt and voluntary disclosure of incorrect information
+
+&emsp;No penalty shall be imposed under this subsection if, promptly after an exporter or producer that issued a CTPA certification of origin has reason to believe that such certification contains or is based on incorrect information, the exporter or producer voluntarily provides written notice of such incorrect information to every person to whom the certification was issued.
+
+#### (3) Exception
+
+&emsp;A person shall not be considered to have violated paragraph (1) if—
+
+&emsp;&emsp;(A) the information was correct at the time it was provided in a CTPA certification of origin but was later rendered incorrect due to a change in circumstances; and
+
+&emsp;&emsp;(B) the person promptly and voluntarily provides written notice of the change in circumstances to all persons to whom the person provided the certification.
+
+#### (<i>l</i>) False certifications of origin under the United States–Panama Trade Promotion Agreement
+
+#### (1) In general
+
+&emsp;Subject to paragraph (2), it is unlawful for any person to certify falsely, by fraud, gross negligence, or negligence, in a Panama TPA certification of origin (as defined in section 1508 of this title) that a good exported from the United States qualifies as an originating good under the rules of origin provided for in section 203 of the United States–Panama Trade Promotion Agreement Implementation Act. The procedures and penalties of this section that apply to a violation of subsection (a) also apply to a violation of this subsection.
+
+#### (2) Prompt and voluntary disclosure of incorrect information
+
+&emsp;No penalty shall be imposed under this subsection if, promptly after an exporter or producer that issued a Panama TPA certification of origin has reason to believe that such certification contains or is based on incorrect information, the exporter or producer voluntarily provides written notice of such incorrect information to every person to whom the certification was issued.
+
+#### (3) Exception
+
+&emsp;A person shall not be considered to have violated paragraph (1) if—
+
+&emsp;&emsp;(A) the information was correct at the time it was provided in a Panama TPA certification of origin but was later rendered incorrect due to a change in circumstances; and
+
+&emsp;&emsp;(B) the person promptly and voluntarily provides written notice of the change in circumstances to all persons to whom the person provided the certification.
+
+(June 17, 1930, ch. 497, title IV, §592, 46 Stat. 750; Aug. 5, 1935, ch. 438, title III, §304(b), 49 Stat. 527; Pub. L. 95–410, title I, §110(a), Oct. 3, 1978, 92 Stat. 893; Pub. L. 96–417, title VI, §609, Oct. 10, 1980, 94 Stat. 1746; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–182, title II, §205(c), title VI, §621, Dec. 8, 1993, 107 Stat. 2095, 2180; Pub. L. 104–295, §§3(a)(4), (5), 21(e)(12), (13), Oct. 11, 1996, 110 Stat. 3515, 3531; Pub. L. 106–36, title I, §1001(b)(8), June 25, 1999, 113 Stat. 132; Pub. L. 108–77, title II, §205(a), Sept. 3, 2003, 117 Stat. 930; Pub. L. 108–78, title II, §204, Sept. 3, 2003, 117 Stat. 961; Pub. L. 108–286, title II, §205, Aug. 3, 2004, 118 Stat. 939; Pub. L. 109–53, title II, §206(a), Aug. 2, 2005, 119 Stat. 484; Pub. L. 110–138, title II, §205(a), Dec. 14, 2007, 121 Stat. 1475; Pub. L. 112–41, title II, §204(a), Oct. 21, 2011, 125 Stat. 448; Pub. L. 112–42, title II, §205(a), Oct. 21, 2011, 125 Stat. 483; Pub. L. 112–43, title II, §205(a), Oct. 21, 2011, 125 Stat. 518.)
 
 #### Amendment of Section
+
+<i>For termination of amendment by section 107(c) of Pub. L. 112–43, see Effective and Termination Dates of 2011 Amendment note below.</i>
+
+<i>For termination of amendment by section 107(c) of Pub. L. 112–42, see Effective and Termination Dates of 2011 Amendment note below.</i>
+
+<i>For termination of amendment by section 107(c) of Pub. L. 112–41, see Effective and Termination Dates of 2011 Amendment note below.</i>
 
 <i>For termination of amendment by section 107(c) of Pub. L. 110–138, see Effective and Termination Dates of 2007 Amendment note below.</i>
 
@@ -252,6 +324,12 @@ Section 203 of the United States-Australia Free Trade Agreement Implementation A
 
 Section 203 of the United States-Peru Trade Promotion Agreement Implementation Act, referred to in subsecs. (c)(10) and (i)(1), is section 203 of Pub. L. 110–138, which is set out in a note under section 3805 of this title.
 
+Section 202 of the United States–Korea Free Trade Agreement Implementation Act, referred to in subsecs. (c)(11) and (j)(1), is section 202 of Pub. L. 112–41, which is set out in a note under section 3805 of this title.
+
+Section 203 of the United States–Colombia Trade Promotion Agreement Implementation Act, referred to in subsecs. (c)(12) and (k)(1), is section 203 of Pub. L. 112–42, which is set out in a note under section 3805 of this title.
+
+Section 203 of the United States–Panama Trade Promotion Agreement Implementation Act, referred to in subsecs. (c)(13) and (<i>l</i>)(1), is section 203 of Pub. L. 112–43, which is set out in a note under section 3805 of this title.
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in act Oct. 3, 1913, ch. 16, §III, H, 38 Stat. 183, which was superseded by act Sept. 21, 1922, ch. 356, title IV, §592, 42 Stat. 982, and was repealed by section 643 thereof. Section 592 of the 1922 act was superseded by section 592 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
@@ -265,6 +343,24 @@ R.S. §2839 provided for forfeiture of merchandise entered, but not invoiced acc
 Act June 22, 1874, ch. 391, §16, 18 Stat. 189, required special findings as to fraud in actions, etc., to enforce forfeitures, etc., prior to repeal by Customs Administrative Act of June 10, 1890, ch. 407, §29, 26 Stat. 141.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (c)(11). Pub. L. 112–41, §§107(c), 204(a)(1)(B), temporarily added par. (11). Former par. (11) redesignated (12). See Effective and Termination Dates of 2011 Amendment note below.
+
+Subsec. (c)(12). Pub. L. 112–42, §§107(c), 205(a)(1)(B), temporarily added par. (12). Former par. (12) redesignated (13). See Effective and Termination Dates of 2011 Amendment note below.
+
+Pub. L. 112–41, §§107(c), 204(a)(1)(A), temporarily redesignated par. (11) as (12). See Effective and Termination Dates of 2011 Amendment note below.
+
+Subsec. (c)(13). Pub. L. 112–43, §§107(c), 205(a)(1)(B), temporarily added par. (13). Former par. (13) redesignated (14). See Effective and Termination Dates of 2011 Amendment note below.
+
+Pub. L. 112–42, §§107(c), 205(a)(1)(A), temporarily redesignated par. (12) as (13). See Effective and Termination Dates of 2011 Amendment note below.
+
+Subsec. (c)(14). Pub. L. 112–43, §§107(c), 205(a)(1)(A), temporarily redesignated par. (13) as (14). See Effective and Termination Dates of 2011 Amendment note below.
+
+Subsec. (j). Pub. L. 112–41, §§107(c), 204(a)(2), temporarily added subsec. (j). See Effective and Termination Dates of 2011 Amendment note below.
+
+Subsec. (k). Pub. L. 112–42, §§107(c), 205(a)(2), temporarily added subsec. (k). See Effective and Termination Dates of 2011 Amendment note below.
+
+Subsec. (<i>l</i>). Pub. L. 112–43, §§107(c), 205(a)(2), temporarily added subsec. (<i>l</i>). See Effective and Termination Dates of 2011 Amendment note below.
 
 <b>2007</b>—Subsec. (c)(10), (11). Pub. L. 110–138, §§107(c), 205(a)(1), temporarily added par. (10) and redesignated former par. (10) as (11). See Effective and Termination Dates of 2007 Amendment note below.
 
@@ -306,7 +402,7 @@ Subsec. (a)(2). Pub. L. 103–182, §621(2), inserted at end “The mere noninte
 
 Subsec. (b)(1)(A). Pub. L. 103–182, §621(3)(A), substituted “the Customs Service” for “the appropriate customs officer”, “it shall issue” for “he shall issue” and “its intention” for “his intention” in introductory provisions.
 
-Subsec. (b)(2). Pub. L. 103–182, §621(3)(B), substituted “the Customs Service shall determine” for “the appropriate customs officer shall determine”, “the Customs Service determines” for “such officer determines” intwo places, “it shall” for “he shall” in two places, and “the Customs Service shall provide” for “the appropriate customs officer shall provide”.
+Subsec. (b)(2). Pub. L. 103–182, §621(3)(B), substituted “the Customs Service shall determine” for “the appropriate customs officer shall determine”, “the Customs Service determines” for “such officer determines” in two places, “it shall” for “he shall” in two places, and “the Customs Service shall provide” for “the appropriate customs officer shall provide”.
 
 Subsec. (c)(4). Pub. L. 103–182, §621(4)(B), inserted at end “For purposes of this section, a formal investigation of a violation is considered to be commenced with regard to the disclosing party and the disclosed information on the date recorded in writing by the Customs Service as the date on which facts and circumstances were discovered or information was received which caused the Customs Service to believe that a possibility of a violation of subsection (a) of this section existed.”
 
@@ -327,6 +423,14 @@ Subsec. (f). Pub. L. 103–182, §205(c)(2), added subsec. (f).
 <b>1978</b>—Pub. L. 95–410 substituted subsecs. (a) to (e) relating to penalties for fraud, gross negligence, and negligence for prior provisions which: provided for forfeiture of merchandise, or recovery of value thereof, where entry or attempted entry of the merchandise was made using fraudulent or false invoice, declaration, affidavit, letter, paper, or false statement, written or verbal, false or fraudulent practice or appliance, or false statement in a declaration on entry without reasonable cause to believe the truth of the statement or aided or procured the making any such false statement as to any material matter without reasonable cause to believe the truth of the statement, regardless of deprivation of lawful duties, or guilty of any willful act or omission when there was a deprivation of such duties; made the forfeiture applicable to the whole of the merchandise or the value thereof where package contained the particular articles to which the fraud or false paper or statement related; and defined attempt to enter the merchandise without an actual entry having been made or offered.
 
 <b>1935</b>—Act Aug. 5, 1935, inserted “whether or not the United States shall or may be deprived of the lawful duties, or any portion thereof, accruing upon the merchandise, or any portion thereof, embraced or referred to in such invoice, declaration, affidavit, letter, paper, or statement;”.
+
+#### Effective and Termination Dates of 2011 Amendment
+
+Amendment by Pub. L. 112–43 effective Oct. 21, 2011, applicable with respect to Panama on the date the United States–Panama Trade Promotion Agreement enters into force, and to cease to be effective on the date the Agreement terminates, see section 107(b), (c) of Pub. L. 112–43, set out in a note under section 3805 of this title.
+
+Amendment by Pub. L. 112–42 effective Oct. 21, 2011, applicable with respect to Colombia on the date the United States–Columbia Trade Promotion Agreement enters into force, and to cease to be effective on the date the Agreement terminates, see section 107(b), (c) of Pub. L. 112–42, set out in a note under section 3805 of this title.
+
+Amendment by Pub. L. 112–41 effective Oct. 21, 2011, applicable with respect to Korea on the date the United States–Korea Free Trade Agreement enters into force (Mar. 15, 2012), and to cease to be effective on the date the Agreement terminates, see section 107(b), (c) of Pub. L. 112–41, set out in a note under section 3805 of this title.
 
 #### Effective and Termination Dates of 2007 Amendment
 

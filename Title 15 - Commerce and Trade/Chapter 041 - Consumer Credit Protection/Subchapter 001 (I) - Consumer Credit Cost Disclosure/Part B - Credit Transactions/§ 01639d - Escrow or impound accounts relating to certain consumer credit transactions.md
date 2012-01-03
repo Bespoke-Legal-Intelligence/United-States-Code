@@ -6,7 +6,7 @@ Except as provided in subsection (b), (c), (d), or (e), a creditor, in connectio
 
 #### (b) When required
 
-No impound, trust, or other type of account for the payment of property taxes, insurancepremiums, or other purposes relating to the property may be required as a condition of a real property sale contract or a loan secured by a first deed of trust or mortgage on the principal dwelling of the consumer, other than a consumer credit transaction under an open end credit plan or a reverse mortgage, except when—
+No impound, trust, or other type of account for the payment of property taxes, insurance premiums, or other purposes relating to the property may be required as a condition of a real property sale contract or a loan secured by a first deed of trust or mortgage on the principal dwelling of the consumer, other than a consumer credit transaction under an open end credit plan or a reverse mortgage, except when—
 
 &emsp;(1) any such impound, trust, or other type of escrow or impound account for such purposes is required by Federal or State law;
 
@@ -14,7 +14,7 @@ No impound, trust, or other type of account for the payment of property taxes, i
 
 &emsp;(3) the transaction is secured by a first mortgage or lien on the consumer's principal dwelling having an original principal obligation amount that—
 
-&emsp;&emsp;(A) does not exceed the amount of the maximum limitation on the original principal obligation of mortgage in effect for a residence of the applicable size, as of the date such interest rate set, pursuant to the sixth sentence of section 1454(a)(2) of title 12, and the annual percentage rate will exceed the average prime offer rate as defined in section 1639c of this title by 1.5 or more percentage points; or
+&emsp;&emsp;(A) does not exceed the amount of the maximum limitation on the original principal obligation of mortgage in effect for a residence of the applicable size, as of thedate such interest rate set, pursuant to the sixth sentence of section 1454(a)(2) of title 12, and the annual percentage rate will exceed the average prime offer rate as defined in section 1639c of this title by 1.5 or more percentage points; or
 
 &emsp;&emsp;(B) exceeds the amount of the maximum limitation on the original principal obligation of mortgage in effect for a residence of the applicable size, as of the date such interest rate set, pursuant to the sixth sentence of section 1454(a)(2) of title 12, and the annual percentage rate will exceed the average prime offer rate as defined in section 1639c of this title by 2.5 or more percentage points; or
 
@@ -62,7 +62,7 @@ For mortgages not covered by the requirements of subsection (b), no provision of
 
 #### (1) In general
 
-&emsp;Except as may otherwise be provided for in this title or in regulations prescribed by the Bureau, escrow or impound accounts established pursuant to subsection (b) shall be established in a federally insured depository institution or credit union.
+&emsp;Except as may otherwise be provided for in this subchapter or in regulations prescribed by the Bureau, escrow or impound accounts established pursuant to subsection (b) shall be established in a federally insured depository institution or credit union.
 
 #### (2) Administration
 
@@ -80,7 +80,7 @@ For mortgages not covered by the requirements of subsection (b), no provision of
 
 #### (4) Penalty coordination with RESPA
 
-&emsp;Any action or omission on the part of any person which constitutes a violation of the Real Estate Settlement Procedures Act of 1974 or any regulation prescribed under such Actfor which the person has paid any fine, civil money penalty, or other damages shall not give rise to any additional fine, civil money penalty, or other damages under this section, unless the action or omission also constitutes a direct violation of this section.
+&emsp;Any action or omission on the part of any person which constitutes a violation of the Real Estate Settlement Procedures Act of 1974 or any regulation prescribed under such Act for which the person has paid any fine, civil money penalty, or other damages shall not give rise to any additional fine, civil money penalty, or other damages under this section, unless the action or omission also constitutes a direct violation of this section.
 
 #### (h) Disclosures relating to mandatory escrow or impound account
 
@@ -156,7 +156,7 @@ Subsec. (j). Pub. L. 111–203, §1462, added subsec. (j).
 
 Amendment by section 1100A(2) of Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
-Amendment by section 1462 of Pub. L. 111–203 effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as a note under section 1601 of this title.
+Amendment by section 1462 of Pub. L. 111–203 effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if suchregulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as a note under section 1601 of this title.
 
 #### Effective Date
 

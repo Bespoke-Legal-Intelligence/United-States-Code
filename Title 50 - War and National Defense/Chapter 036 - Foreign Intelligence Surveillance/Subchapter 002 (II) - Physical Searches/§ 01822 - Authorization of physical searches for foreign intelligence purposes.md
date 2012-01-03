@@ -54,7 +54,7 @@ Judicial proceedings under this subchapter shall be concluded as expeditiously a
 
 <b>2008</b>—Subsec. (c). Pub. L. 110–261 inserted “(except when sitting en banc)” after “except that no judge”.
 
-<b>2004</b>—Subsecs. (a)(3), (4)(A)(ii), (e). Pub. L. 108–458, as amended by Pub. L. 111–259, substituted “Director ofNational Intelligence” for “Director of Central Intelligence”.
+<b>2004</b>—Subsecs. (a)(3), (4)(A)(ii), (e). Pub. L. 108–458, as amended by Pub. L. 111–259, substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
 #### Effective Date of 2008 Amendment
 

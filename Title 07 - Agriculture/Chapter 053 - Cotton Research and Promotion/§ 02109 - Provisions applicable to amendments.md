@@ -20,7 +20,7 @@ The disapproval of any amendment to an order issued under this chapter shall not
 
 #### Amendments
 
-1991—Subsec. (b)(1). Pub. L. 102–237 substituted “subsection (b) or (c) of section 2107” for “section 2107(b) or 2107(c)”.
+<b>1991</b>—Subsec. (b)(1). Pub. L. 102–237 substituted “subsection (b) or (c) of section 2107” for “section 2107(b) or 2107(c)”.
 
-1990—Pub. L. 101–624 amended section generally. Prior to amendment, section read as follows: “The provisions of this chapter applicable to orders shall be applicable to amendments to orders.”
+<b>1990</b>—Pub. L. 101–624 amended section generally. Prior to amendment, section read as follows: “The provisions of this chapter applicable to orders shall be applicable to amendments to orders.”
 

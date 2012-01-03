@@ -6,7 +6,7 @@ Congress finds that—
 
 &emsp;(1) in 1996, Congress authorized the establishment and construction of a center—
 
-&emsp;&emsp;(A) to facilitate the interpretation of the Siege and Battle of Corinth and other Civil War actions in the area in and around the city of Corinth, Mississippi; and
+&emsp;&emsp;(A) to facilitate the interpretation of the Siege and Battle of Corinth and other CivilWar actions in the area in and around the city of Corinth, Mississippi; and
 
 &emsp;&emsp;(B) to enhance public understanding of the significance of the Corinth campaign and the Civil War relative to the western theater of operations, in cooperation with—
 
@@ -24,7 +24,7 @@ Congress finds that—
 
 &emsp;&emsp;(A) have the authority to prevent or minimize adverse uses of these historic resources; and
 
-&emsp;&emsp;(B) can play a significant role in the protection of the historic resources related tothe Civil War battles fought in the area in and around the city of Corinth.
+&emsp;&emsp;(B) can play a significant role in the protection of the historic resources related to the Civil War battles fought in the area in and around the city of Corinth.
 
 #### (b) Purposes
 

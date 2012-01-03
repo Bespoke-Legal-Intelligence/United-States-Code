@@ -14,7 +14,7 @@ In general.—The Secretary shall make a single grant to each State that either�
 
 &emsp;&emsp;(A) enacts for the first time after December 31, 2002, and has in effect and is enforcing a conforming primary safety belt use law for all passenger motor vehicles; or
 
-&emsp;&emsp;(B) in the case of a State that does not have such a primary safety belt use law, has after December 31, 2005, a State safety belt use rate of 85 percent or more for each of the2 calendar years immediately preceding the fiscal year of a grant, as measured under criteria determined by the Secretary.
+&emsp;&emsp;(B) in the case of a State that does not have such a primary safety belt use law, has after December 31, 2005, a State safety belt use rate of 85 percent or more for each of the 2 calendar years immediately preceding the fiscal year of a grant, as measured under criteria determined by the Secretary.
 
 &emsp;(2)
 
@@ -48,7 +48,7 @@ Laws.—
 
 &emsp;(1)
 
-In general.—To the extent that amounts made available for grants under this section for any of fiscal years 2006 through 2009 exceed the total amount of grants to be awarded under subsection (b) for the fiscal year, including amounts to be awarded for catch-up grants under subsection (b)(5), the Secretary shall make a single grant to each State that enacted, has in effect, and is enforcing a conforming primary safety belt use law for all passenger motor vehicles that was in effect before January 1, 2003.
+In general.—To the extent that amounts made available for grants under this section for any of fiscal years 2006 through 2009 exceed the total amount of grants to be awarded under subsection (b) for the fiscal year, including amounts to be awarded for catch-up grants under subsection (b)(5), the Secretary shallmake a single grant to each State that enacted, has in effect, and is enforcing a conforming primary safety belt use law for all passenger motor vehicles that was in effect before January 1, 2003.
 
 &emsp;(2)
 

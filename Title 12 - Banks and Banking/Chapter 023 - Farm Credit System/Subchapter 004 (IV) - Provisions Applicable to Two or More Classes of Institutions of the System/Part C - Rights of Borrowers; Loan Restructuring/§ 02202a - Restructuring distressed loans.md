@@ -110,7 +110,7 @@ On determination by a qualified lender that a loan made by the lender is or has 
 
 #### (1) In general
 
-&emsp;When a qualified lender receives an application for restructuring from a borrower, thequalified lender shall determine whether or not to restructure the loan, taking into consideration—
+&emsp;When a qualified lender receives an application for restructuring from a borrower, the qualified lender shall determine whether or not to restructure the loan, taking into consideration—
 
 &emsp;&emsp;(A) whether the cost to the lender of restructuring the loan is equal to or less than the cost of foreclosure;
 
@@ -194,9 +194,9 @@ Each Farm Credit Bank, on request of any production credit association, may assi
 
 #### Amendments
 
-1996—Subsec. (a)(5). Pub. L. 104–105 designated existing provisions as subpar. (A), inserted subpar. heading, substituted “Subject to subparagraph (B), the term” for “The term”, and added subpar. (B).
+<b>1996</b>—Subsec. (a)(5). Pub. L. 104–105 designated existing provisions as subpar. (A), inserted subpar. heading, substituted “Subject to subparagraph (B), the term” for “The term”, and added subpar. (B).
 
-1988—Subsec. (a). Pub. L. 100–399, §102(a), struck out “(other than in sections 2205 and 2206 of this title)” after “in this part”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–399, §102(a), struck out “(other than in sections 2205 and 2206 of this title)” after “in this part”.
 
 Subsec. (a)(6)(B). Pub. L. 100–399, §102(b), substituted “section 2015(b)(1)(B) of this title” for “section 2074(a)(2) of this title” and “section 2015(b)(1) of this title” for “section 2074(a) of this title”.
 

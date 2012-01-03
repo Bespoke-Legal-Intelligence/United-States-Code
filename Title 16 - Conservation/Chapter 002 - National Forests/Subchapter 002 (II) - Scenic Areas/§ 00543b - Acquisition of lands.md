@@ -6,13 +6,13 @@ The Secretary is authorized to acquire all lands and interests therein within th
 
 &emsp;(1) any lands or interests therein within the boundary of the Scenic Area which are owned by the State of California or any political subdivision thereof (including the city of Los Angeles) may be acquired only by donation or exchange; and
 
-&emsp;(2) lands or interests therein within the boundary of the Scenic Area which are not owned by the State of California or any political subdivision thereof (including the city of Los Angeles) may be acquired only with theconsent of the owner thereof unless the Secretary determines, after written notice to the owner and after opportunity for comment, that the property is being developed, or proposed to be developed, in a manner which is detrimental to the integrity of the Scenic Area or which is otherwise incompatible with the purposes of sections 543 to 543h of this title.
+&emsp;(2) lands or interests therein within the boundary of the Scenic Area which are not owned by the State of California or any political subdivision thereof (including the city of Los Angeles) may be acquired only with the consent of the owner thereof unless the Secretary determines, after written notice to the owner and after opportunity for comment, that the property is being developed, or proposed to be developed, in a manner which is detrimental to the integrity of the Scenic Area or which is otherwise incompatible with the purposes of sections 543 to 543h of this title.
 
 #### (b) Guidelines; detrimental or incompatible use
 
 (1) Not later than six months after September 28, 1984, the Secretary shall publish specific guidelines under which determinations shall be made under paragraph (2) of subsection (a) of this section. No use which existed prior to June 1, 1984, within the area included in the Scenic Area shall be treated under such guidelines as a detrimental or incompatible use within the meaning of such paragraph (2).
 
-(2) For purposes of subsection (a)(2) of this section, any development or proposed development of private property within the boundary of the Scenic Area that is significantly different from, or a significant expansion of, development existing as of June 1, 1984, shall be considered by the Secretary as detrimental to the integrity of the Scenic Area. No reconstruction or expansion of a private or commercial building, including—
+(2) For purposes of subsection (a)(2) of this section, any development or proposed developmentof private property within the boundary of the Scenic Area that is significantly different from, or a significant expansion of, development existing as of June 1, 1984, shall be considered by the Secretary as detrimental to the integrity of the Scenic Area. No reconstruction or expansion of a private or commercial building, including—
 
 &emsp;(A) reconstruction of an existing building,
 

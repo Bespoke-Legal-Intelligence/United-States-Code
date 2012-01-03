@@ -6,7 +6,7 @@ Upon September 18, 1978, the Secretary and the Secretary of the Department in wh
 
 #### (b) Use of best available and safest economically feasible technologies
 
-In exercising their respective responsibilities for the artificial islands, installations, and other devices referred to in section 1333(a)(1) of this title, the Secretary, and the Secretary of the Department in which the Coast Guard is operating, shall require, on all new drilling and production operations and, wherever practicable, on existing operations, the use of the best available and safest technologies which the Secretary determines to be economically feasible, wherever failure of equipment would have a significant effect on safety, health, or the environment, except where the Secretary determines that the incremental benefits are clearly insufficient to justify the incremental costs of utilizing such technologies.
+In exercising their respective responsibilities for the artificial islands, installations, and other devices referred to in section 1333(a)(1) of this title, the Secretary, and the Secretary of the Department in which the Coast Guard is operating, shall require, on all new drilling and production operations and, wherever practicable, on existing operations, the use of the best available and safest technologies which the Secretary determines to be economically feasible, whereverfailure of equipment would have a significant effect on safety, health, or the environment, except where the Secretary determines that the incremental benefits are clearly insufficient to justify the incremental costs of utilizing such technologies.
 
 #### (c) Regulations applying to unregulated hazardous working conditions
 
@@ -18,7 +18,7 @@ Nothing in this subchapter shall affect the authority provided by law to the Sec
 
 #### (e) Studies of underwater diving techniques and equipment
 
-The Secretary of Commerce, in cooperation with the Secretary of the Department in whichthe Coast Guard is operating, and the Director of the National Institute of Occupational Safety and Health, shall conduct studies of underwater diving techniques and equipment suitable for protection of human safety and improvement of diver performance. Such studies shall include, but need not be limited to, decompression and excursion table development and improvement and all aspects of diver physiological restraints and protective gear for exposure to hostile environments.
+The Secretary of Commerce, in cooperation with the Secretary of the Department in which the Coast Guard is operating, and the Director of the National Institute of Occupational Safety and Health, shall conduct studies of underwater diving techniques and equipment suitable for protection of human safety and improvement of diver performance. Such studies shall include, but need not be limited to, decompression and excursion table development and improvement and all aspects of diver physiological restraints and protective gear for exposure to hostile environments.
 
 #### (f) Coordination and consultation with Federal departments and agencies; availability to interested persons of compilation of safety regulations
 

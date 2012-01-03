@@ -2,7 +2,7 @@
 
 (a)
 
-Unified and Specified Combatant Commands.—With the advice and assistance of theChairman of the Joint Chiefs of Staff, the President, through the Secretary of Defense, shall—
+Unified and Specified Combatant Commands.—With the advice and assistance of the Chairman of the Joint Chiefs of Staff, the President, through the Secretary of Defense, shall—
 
 &emsp;(1) establish unified combatant commands and specified combatant commands to perform military missions; and
 
@@ -41,4 +41,32 @@ Pub. L. 104–201, div. A, title IX, §905, Sept. 23, 1996, 110 Stat. 2619, requ
 #### Initial Review of Combatant Commands
 
 Section 212 of Pub. L. 99–433 set out 10 areas to be covered in first review of missions, responsibilities, and force structure of unified combatant commands under subsec. (b) of this section, and directed that first report to President be made not later than Oct. 1, 1987.
+
+#### Disestablishment of United States Joint Forces Command
+
+Memorandum of President of the United States, Jan. 6, 2011, 76 F.R. 1977, provided:
+
+Memorandum for the Secretary of Defense
+
+Pursuant to my authority as Commander in Chief and under 10 U.S.C. 161, I hereby accept the recommendations of the Secretary of Defense and Chairman of the Joint Chiefs of Staff and approve the disestablishment of United States Joint Forces Command, effective on a date to be determined by the Secretary of Defense. I direct this action be reflected in the 2010 Unified Command Plan.
+
+Pursuant to 10 U.S.C. 161(b)(2) and 3 U.S.C. 301, you are directed to notify the Congress on my behalf.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Unified Command Plan 2011
+
+Memorandum of President of the United States, Apr. 6, 2011, 76 F.R. 19893, provided:
+
+Memorandum for the Secretary of Defense
+
+Pursuant to my authority as Commander in Chief, I hereby approve and direct the implementation of the revised Unified Command Plan.
+
+Consistent with title 10, United States Code, section 161(b)(2) and title 3, United States Code, section 301, you are directed to notify the Congress on my behalf.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

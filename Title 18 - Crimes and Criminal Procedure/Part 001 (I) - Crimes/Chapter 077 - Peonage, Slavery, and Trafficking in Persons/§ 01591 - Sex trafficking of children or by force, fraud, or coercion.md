@@ -50,7 +50,7 @@ Subsecs. (c), (d). Pub. L. 110–457, §222(b)(5)(D), added subsecs. (c) and (d)
 
 Subsec. (e). Pub. L. 110–457, §222(b)(5)(B), (E), redesignated subsec. (c) as (e), added pars. (1) and (4), and redesignated former pars. (1) and (3) as (3) and (5), respectively.
 
-<b>2006</b>—Subsec. (b)(1). Pub. L. 109–248, §208(1), substituted “and imprisonment for any term of years notless than 15 or for life” for “or imprisonment for any term of years or for life, or both”.
+<b>2006</b>—Subsec. (b)(1). Pub. L. 109–248, §208(1), substituted “and imprisonment for any term of years not less than 15 or for life” for “or imprisonment for any term of years or for life, or both”.
 
 Subsec. (b)(2). Pub. L. 109–248, §208(2)(B), which directed amendment of subsec. (b)(2) by striking out “, or both”, could not be executed because that language did not appear in text subsequent to amendment by Pub. L. 109–248, §208(2)(A). See below.
 

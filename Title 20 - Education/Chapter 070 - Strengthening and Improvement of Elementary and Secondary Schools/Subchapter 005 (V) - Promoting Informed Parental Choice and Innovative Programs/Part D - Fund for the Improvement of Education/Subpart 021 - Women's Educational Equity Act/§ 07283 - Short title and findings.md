@@ -12,7 +12,7 @@ Congress finds that—
 
 &emsp;(2) because of funding provided under the Women's Educational Equity Act of 2001 \[20 U.S.C. 7283 et seq.\], more curricula, training, and other educational materials concerning educational equity for women and girls are available for national dissemination;
 
-&emsp;(3) teaching and learning practices in the United States are frequently inequitable as such practices relate to women and girls, for example—
+&emsp;(3) teaching and learning practices in the United States are frequently inequitable assuch practices relate to women and girls, for example—
 
 &emsp;&emsp;(A) sexual harassment, particularly that experienced by girls, undermines the ability of schools to provide a safe and equitable learning or workplace environment;
 

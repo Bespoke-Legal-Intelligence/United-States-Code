@@ -6,7 +6,7 @@ The Secretary may guarantee the timely payment of principal and interest, as sch
 
 #### (b) Terms and conditions
 
-The Secretary may make guarantees under this section on such terms and conditions as theSecretary considers appropriate, except that the term of any debenture guaranteed under this section shall not exceed 15 years.
+The Secretary may make guarantees under this section on such terms and conditions as the Secretary considers appropriate, except that the term of any debenture guaranteed under this section shall not exceed 15 years.
 
 #### (c) Full faith and credit of the United States
 

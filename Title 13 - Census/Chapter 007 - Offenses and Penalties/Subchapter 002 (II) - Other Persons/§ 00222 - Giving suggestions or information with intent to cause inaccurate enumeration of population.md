@@ -24,5 +24,5 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1957—Pub. L. 85–207 substituted “II, IV, or V” for “II or IV”.
+<b>1957</b>—Pub. L. 85–207 substituted “II, IV, or V” for “II or IV”.
 

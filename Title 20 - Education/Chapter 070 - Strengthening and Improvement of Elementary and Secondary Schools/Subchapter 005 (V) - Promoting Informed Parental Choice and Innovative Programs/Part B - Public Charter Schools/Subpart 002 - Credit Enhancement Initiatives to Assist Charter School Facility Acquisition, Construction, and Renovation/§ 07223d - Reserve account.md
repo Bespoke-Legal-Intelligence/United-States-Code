@@ -10,7 +10,7 @@ To assist charter schools to accomplish the objectives described in section 7223
 
 &emsp;(3) Facilitating financing by identifying potential lending sources, encouraging private lending, and other similar activities that directly promote lending to, or for the benefit of, charter schools.
 
-&emsp;(4) Facilitating the issuance of bonds by charter schools, or by other public entities for the benefit of charter schools, by providing technical, administrative, and other appropriate assistance (including the recruitment of bond counsel, underwriters, and potential investors and the consolidation of multiple charter school projects within a single bond issue).
+&emsp;(4) Facilitating the issuance of bonds by charter schools, or by other public entities forthe benefit of charter schools, by providing technical, administrative, and other appropriate assistance (including the recruitment of bond counsel, underwriters, and potential investors and the consolidation of multiple charter school projects within a single bond issue).
 
 #### (b) Investment
 

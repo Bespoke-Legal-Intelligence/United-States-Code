@@ -12,7 +12,7 @@
 
 #### (3) Civil penalties
 
-&emsp;Any person or entity who willfully violates the management plan or any land use ordinance or any implementation measure or anyorder issued by the Commission pursuant to sections 544 to 544p of this title may be assessed a civil penalty by the Commission not to exceed $10,000 for each violation. No penalty may be assessed under this subsection unless such person or entity is given notice and opportunity for a public hearing with respect to such violation. The Commission may compromise, modify, or remit, with or without conditions, any penalty imposed under this subsection, taking into consideration the nature and seriousness of the violation and the efforts of the violator to remedy the violation in a timely manner.
+&emsp;Any person or entity who willfully violates the management plan or any land use ordinance or any implementation measure or any order issued by the Commission pursuant to sections 544 to 544p of this title may be assessed a civil penalty by the Commission not to exceed $10,000 for each violation. No penalty may be assessed under this subsection unless such person or entity is given notice and opportunity for a public hearing with respect to such violation. The Commission may compromise, modify, or remit, with or without conditions, any penalty imposed under this subsection, taking into consideration the nature and seriousness of the violation and the efforts of the violator to remedy the violation in a timely manner.
 
 #### (b) Judicial remedies
 
@@ -72,7 +72,7 @@
 
 &emsp;&emsp;(A) to review any appeals taken to the Commission pursuant to subsection (a)(2) of this section;
 
-&emsp;&emsp;(B) over any civil action brought by the Commission pursuant to subsection (b)(1) of this section or against the Commission, a State, or a county pursuant to subsection (b)(2) of this section;
+&emsp;&emsp;(B) over any civil action brought by the Commission pursuant to subsection (b)(1) ofthis section or against the Commission, a State, or a county pursuant to subsection (b)(2) of this section;
 
 &emsp;&emsp;(C) over any appeal of any order, regulation, or other action of the Commission or a county taken pursuant to paragraph 4 <sup>2</sup> of this subsection; or
 

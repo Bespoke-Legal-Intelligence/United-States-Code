@@ -10,7 +10,7 @@ The Secretary may enter into agreements with any State for the administration an
 
 #### (c) Cooperative agreements
 
-(1) In furtherance of the purposes of this chapter, the Secretary is authorized to enter into a cooperative agreement in accordance with this section with any State which establishes and maintains an adequate and active program for the conservation of endangered species and threatened species. Within one hundred and twenty days after the Secretary receives a certified copy of such a proposed State program, he shall make a determination whether such program is in accordance with this chapter. Unless he determines, pursuant to this paragraph, that the State program is not in accordance with this chapter, he shall enter into a cooperative agreement with the State for the purpose of assisting in implementation of the State program. In order for a State program to be deemed an adequate and active program for the conservation of endangered species and threatened species, the Secretary must find, and annually thereafter reconfirm such finding, that under the State program—
+(1) In furtherance of the purposes of this chapter, the Secretary is authorized to enter into a cooperative agreement in accordance with this section with any State which establishes and maintains an adequate and active program for the conservation of endangered species and threatened species. Within one hundred and twenty days after the Secretary receives a certified copy of such a proposed State program, he shall make a determination whether such program is in accordance with this chapter. Unless he determines, pursuant to this paragraph, that the State program is not in accordance with this chapter, he shall enter into a cooperative agreement with the State for the purpose of assisting in implementation of the State program. In order for a State program to be deemed an adequate and active program for the conservationof endangered species and threatened species, the Secretary must find, and annually thereafter reconfirm such finding, that under the State program—
 
 &emsp;(A) authority resides in the State agency to conserve resident species of fish or wildlife determined by the State agency or the Secretary to be endangered or threatened;
 
@@ -58,7 +58,7 @@ The Secretary may enter into agreements with any State for the administration an
 
 &emsp;(E) the relative urgency to initiate a program to restore and protect an endangered species or threatened species in terms of survival of the species;
 
-&emsp;(F) the importance of monitoring the status of candidate species within a State to prevent a significant risk to the well being of any such species; and
+&emsp;(F) the importance of monitoring the status of candidate species within a State to preventa significant risk to the well being of any such species; and
 
 &emsp;(G) the importance of monitoring the status of recovered species within a State to assure that such species do not return to the point at which the measures provided pursuant to this chapter are again necessary.
 
@@ -102,7 +102,7 @@ The Secretary is authorized to promulgate such regulations as may be appropriate
 
 (1) To carry out the provisions of this section for fiscal years after September 30, 1988, there shall be deposited into a special fund known as the cooperative endangered species conservation fund, to be administered by the Secretary, an amount equal to 5 percent of the combined amounts covered each fiscal year into the Federal aid to wildlife restoration fund under section 669b of this title, and paid, transferred, or otherwise credited each fiscal year to the Sport Fishing Restoration Account established under 1016 of the Act of July 18, 1984.
 
-(2) Amounts deposited into the special fund are authorized to be appropriated annually and allocated in accordance with subsection (d) of this section.
+(2) Amounts deposited into the special fund are authorized to be appropriated annually andallocated in accordance with subsection (d) of this section.
 
 (Pub. L. 93–205, §6, Dec. 28, 1973, 87 Stat. 889; Pub. L. 95–212, Dec. 19, 1977, 91 Stat. 1493; Pub. L. 95–632, §10, Nov. 10, 1978, 92 Stat. 3762; Pub. L. 96–246, May 23, 1980, 94 Stat. 348; Pub. L. 97–304, §§3, 8(b), Oct. 13, 1982, 96 Stat. 1416, 1426; Pub. L. 100–478, title I, §1005, Oct. 7, 1988, 102 Stat. 2307.)
 

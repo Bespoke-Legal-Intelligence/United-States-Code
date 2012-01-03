@@ -42,7 +42,7 @@ Provisions in section 11–202 of the District of Columbia Code, 1940 ed., and s
 
 The exception in subsection (c) extends to circuit judges in the District of Columbia the effect of the recent decision in <i>U.S. ex rel. Laughlin v. Eicher</i>, D.C. 1944, 56 F.Supp. 972, holding that residence requirement of section 1 of title 28, U.S.C., 1940 ed., did not apply to district judges in the District of Columbia. (See Reviser's Note under section 134 of this title.)
 
-The provision in section 213 of the title 28, U.S.C., 1940 ed., that “it shall be the duty of each circuit judge in each circuit to sit as one of the judges of the circuit court of appeals in that circuit from time to time according to law,” was omitted as unnecessary since the duty to serve is implied by the creation and composition of the court in section 43 of this title.
+The provision in section 213 of the title 28, U.S.C., 1940 ed., that “it shall be the duty of each circuit judgein each circuit to sit as one of the judges of the circuit court of appeals in that circuit from time to time according to law,” was omitted as unnecessary since the duty to serve is implied by the creation and composition of the court in section 43 of this title.
 
 Last sentence, providing that nothing in section 213 of title 28, U.S.C., 1940 ed., should prevent a circuit judge from holding district court as provided by law, was omitted as unnecessary. (See section 291 of this title authorizing assignments to district courts.)
 
@@ -165,7 +165,7 @@ Amendment by act Mar. 2, 1955, effective Mar. 1, 1955, see section 5 of act Mar.
 
 #### Nomination to Federal Judgeship on Nondiscriminatory Basis
 
-Section 211 of Pub. L. 98–353 provided that: “It is the sense of the Congress that the President, in selectingindividuals for nomination to the Federal judgeships created by this Act \[see Short Title of 1984 Amendment note set out under section 151 of this title\], shall give due consideration to qualified individuals without regard to race, color, sex, religion, or national origin.”
+Section 211 of Pub. L. 98–353 provided that: “It is the sense of the Congress that the President, in selecting individuals for nomination to the Federal judgeships created by this Act \[see Short Title of 1984 Amendment note set out under section 151 of this title\], shall give due consideration to qualified individuals without regard to race, color, sex, religion, or national origin.”
 
 #### Continued Service of Judges
 
@@ -233,7 +233,7 @@ Section 3(a) of Pub. L. 95–486 provided that: “The President shall appoint, 
 
 Section 201(a) of Pub. L. 98–353 provided that:
 
-“(1) Subject to the provisions of paragraph (2), the President shall appoint, by and with the advice and consent of the Senate, two additional circuit judges for the first circuit court of appeals, two additional circuit judges for the second circuit court of appeals, two additional circuit judges for the third circuit court of appeals, one additional circuit judge for the fourth circuit court of appeals, two additional circuit judges for the fifth circuit court of appeals, four additional circuit judges for the sixth circuit court of appeals, two additional circuit judges for the seventh circuit court of appeals, one additional circuit judge for the eighth circuit court of appeals, five additional circuit judges forthe ninth circuit court of appeals, two additional circuit judges for the tenth circuit court of appeals, and one additional circuit judge for the District of Columbia circuit court of appeals.
+“(1) Subject to the provisions of paragraph (2), the President shall appoint, by and with the advice and consent of the Senate, two additional circuit judges for the first circuit court of appeals, two additional circuit judges for the second circuit court of appeals, two additional circuit judges for the third circuit court of appeals, one additional circuit judge for the fourth circuit court of appeals, two additional circuit judges for the fifth circuit court of appeals, four additional circuitjudges for the sixth circuit court of appeals, two additional circuit judges for the seventh circuit court of appeals, one additional circuit judge for the eighth circuit court of appeals, five additional circuit judges for the ninth circuit court of appeals, two additional circuit judges for the tenth circuit court of appeals, and one additional circuit judge for the District of Columbia circuit court of appeals.
 
 “(2) The President shall appoint, by and with the advice and consent of the Senate, no more than 11 of such judges prior to January 21, 1985.”
 

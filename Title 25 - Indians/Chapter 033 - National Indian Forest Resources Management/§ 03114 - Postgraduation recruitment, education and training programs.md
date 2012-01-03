@@ -10,7 +10,7 @@ For the purposes of training, skill development and orientation of Indian, Alask
 
 &emsp;(1) for agencies within the Department of the Interior—
 
-&emsp;&emsp;(A) provide for the internship of Bureau of Indian Affairs, Alaska Native, and Indian forestry employees in the forestry-related programs of other agencies of the Department of the Interior, and
+&emsp;&emsp;(A) provide for the internship of Bureau of Indian Affairs, Alaska Native, and Indian forestry employees in the forestry-relatedprograms of other agencies of the Department of the Interior, and
 
 &emsp;&emsp;(B) provide for the internship of forestry personnel from other Department of the Interior agencies within the Bureau of Indian Affairs and, with the consent of the tribe, within tribal forestry programs;
 

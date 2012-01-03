@@ -52,9 +52,9 @@ The Foreign Service Act of 1980, referred to in par. (7), is Pub. L. 96–465, O
 
 #### Amendments
 
-2007—Par. (1)(G) to (I). Pub. L. 110–161 added subpar. (G) and redesignated former subpars. (G) and (H) as (H) and (I), respectively.
+<b>2007</b>—Par. (1)(G) to (I). Pub. L. 110–161 added subpar. (G) and redesignated former subpars. (G) and (H) as (H) and (I), respectively.
 
-1998—Pars. (6), (7). Pub. L. 105–264 added pars. (6) and (7).
+<b>1998</b>—Pars. (6), (7). Pub. L. 105–264 added pars. (6) and (7).
 
-1982—Par. (5). Pub. L. 97–258 substituted “section 9104” for “section 849”.
+<b>1982</b>—Par. (5). Pub. L. 97–258 substituted “section 9104” for “section 849”.
 

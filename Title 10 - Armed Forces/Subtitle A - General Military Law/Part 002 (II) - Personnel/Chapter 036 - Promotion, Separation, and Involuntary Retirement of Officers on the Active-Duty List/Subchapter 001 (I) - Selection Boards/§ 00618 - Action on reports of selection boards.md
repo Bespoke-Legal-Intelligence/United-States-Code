@@ -1,6 +1,6 @@
 ### §618. Action on reports of selection boards
 
-(a)(1) Upon receipt of the report of a selection board submitted to him under section 617(a) ofthis title, the Secretary of the military department concerned shall review the report to determine whether the board has acted contrary to law or regulation or to guidelines furnished the board under section 615(b) of this title. Following such review, unless the Secretary concerned makes a determination as described in paragraph (2), the Secretary shall submit the report as required by subsection (b) or (c), as appropriate.
+(a)(1) Upon receipt of the report of a selection board submitted to him under section 617(a) of this title, the Secretary of the military department concerned shall review the report to determine whether the board has acted contrary to law or regulation or to guidelines furnished the board under section 615(b) of this title. Following such review, unless the Secretary concerned makes a determination as described in paragraph (2), the Secretary shall submit the report as required by subsection (b) or (c), as appropriate.
 
 (2) If, on the basis of a review of the report under paragraph (1), the Secretary of the military department concerned determines that the board acted contrary to law or regulation or to guidelines furnished the board under section 615(b) of this title, the Secretary shall return the report, together with a written explanation of the basis for such determination, to the board for further proceedings. Upon receipt of a report returned by the Secretary concerned under this paragraph, the selection board (or a subsequent selection board convened under section 611(a) of this title for the same grade and competitive category) shall conduct such proceedings as may be necessary in order to revise the report to be consistent with law, regulation, and such guidelines and shall resubmit the report, as revised, to the Secretary in accordance with section 617 of this title.
 
@@ -24,7 +24,7 @@
 
 (5) If, after completion of all actions taken under paragraph (4), the Secretary concerned and the Chairman remain in disagreement with respect to the report of a selection board, the Secretary concerned shall indicate such disagreement, and the reasons for such disagreement, as part of his transmittal of the report of the selection board to the Secretary of Defense under subsection (c). Such transmittal shall include any comments submitted by the Chairman.
 
-(c)(1) After his final review of the report of a selection board, the Secretary concerned shall submit the report, with his recommendations thereon, to the Secretary of Defense for transmittal to the President for his approval or disapproval. The Secretary of Defense shall, before transmitting the report of a selection board to the President, take appropriate action to resolve any disagreement between the Secretary concerned and the Chairman transmitted to him under subsection (b)(5). If the authority of the President under this paragraph to approve or disapprove the report of a selection board is delegated to the Secretary of Defense, it may not be redelegated except to an official in the Office of the Secretary of Defense.
+(c)(1) After his final review of the report of a selection board, the Secretary concerned shall submit the report, with his recommendations thereon, to the Secretary of Defense for transmittal to the President for his approval or disapproval. The Secretary of Defense shall, before transmitting the report of a selection board tothe President, take appropriate action to resolve any disagreement between the Secretary concerned and the Chairman transmitted to him under subsection (b)(5). If the authority of the President under this paragraph to approve or disapprove the report of a selection board is delegated to the Secretary of Defense, it may not be redelegated except to an official in the Office of the Secretary of Defense.
 
 (2) If the report of a selection board names an officer as having a record which indicates that the officer should be required to show cause for his retention on active duty, the Secretary concerned may provide for the review of the record of that officer as provided for under regulations prescribed under section 1181 of this title.
 
@@ -42,7 +42,7 @@
 
 (2) A list of names of officers disseminated under paragraph (1) may not include—
 
-&emsp;(A) any name removed by the President from the report of the selection board containingthat name, if dissemination is under the authority of subparagraph (B) of such paragraph; or
+&emsp;(A) any name removed by the President from the report of the selection board containing that name, if dissemination is under the authority of subparagraph (B) of such paragraph; or
 
 &emsp;(B) the name of any officer whose promotion the Senate failed to confirm, if dissemination is under the authority of subparagraph (C) of such paragraph.
 
@@ -98,7 +98,7 @@ Amendment by Pub. L. 100–456 effective 60 days after Sept. 29, 1988, and appli
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–433 effective with respect to selection boards convened under section 611(a) ofthis title after end of 120-day period beginning on Oct. 1, 1986, see section 406(f) of Pub. L. 99–433, set out as a note under section 612 of this title.
+Amendment by Pub. L. 99–433 effective with respect to selection boards convened under section 611(a) of this title after end of 120-day period beginning on Oct. 1, 1986, see section 406(f) of Pub. L. 99–433, set out as a note under section 612 of this title.
 
 #### Delegation of Functions
 

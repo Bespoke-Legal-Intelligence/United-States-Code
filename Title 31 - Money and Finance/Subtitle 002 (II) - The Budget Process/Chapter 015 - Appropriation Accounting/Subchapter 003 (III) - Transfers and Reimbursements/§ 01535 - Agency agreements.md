@@ -10,7 +10,7 @@
 
 &emsp;(4) the head of the agency decides ordered goods or services cannot be provided by contract as conveniently or cheaply by a commercial enterprise.
 
-(b) Payment shall be made promptly by check on the written request of the agency or unit filling the order. Payment may be in advance or on providing the goods or services ordered and shall be for any part of the estimated or actual cost as determined by the agency or unit filling the order. A bill submitted or a request for payment is not subject to audit or certification in advance of payment. Proper adjustment of amounts paid in advance shall be made as agreed to by the heads of the agencies or units on the basis of the actual cost of goods or services provided.
+(b) Payment shall be made promptly by check on the written request of the agency or unit filling the order. Payment may be in advance or on providing the goods or services ordered and shall be for any part of the estimated or actual cost as determined by the agency or unit filling the order. A bill submitted or a request for payment is not subject to audit or certification in advance of payment. Proper adjustment ofamounts paid in advance shall be made as agreed to by the heads of the agencies or units on the basis of the actual cost of goods or services provided.
 
 (c) A condition or limitation applicable to amounts for procurement of an agency or unit placing an order or making a contract under this section applies to the placing of the order or the making of the contract.
 
@@ -178,7 +178,7 @@ Definitions.—In this section:
 
 &emsp;“(3) The term ‘interagency acquisition’ means a procedure by which an executive agency needing supplies or services (the requesting agency) obtains them from another executive agency (the servicing agency). The term includes acquisitions under section 1535 of title 31, United States Code (commonly referred to as the ‘Economy Act’), Federal Supply Schedules above $500,000, and Governmentwide acquisition contracts.
 
-&emsp;“(4) The term ‘multi-agency contract’ means a task or delivery order contract established for use by more than one executive agency to obtain supplies and services, consistent with section 1535 of title 31,United States Code (commonly referred to as the ‘Economy Act’).”
+&emsp;“(4) The term ‘multi-agency contract’ means a task or delivery order contract established for use by more than one executive agency to obtain supplies and services, consistent with section 1535 of title 31, United States Code (commonly referred to as the ‘Economy Act’).”
 
 #### Review and Enhancement of Existing Authorities for Using Air Force and Air National Guard Modular Airborne Fire-Fighting Systems and Other Department of Defense Assets To Fight Wildfires
 
@@ -214,7 +214,7 @@ Reporting Requirement.—Not later than 120 days after the date of the enactment
 
 “(f)
 
-Delayed Implementation.—The modifications described in the report prepared under subsection (e) to be made to existing authorities under subsection (c) or (d) shall not take effect until the end of the 30-day period beginning on the date on which the report is transmitted to Congress.”
+Delayed Implementation.—The modifications described in the report prepared under subsection (e) to be made to existing authorities under subsection (c) or\(d) shall not take effect until the end of the 30-day period beginning on the date on which the report is transmitted to Congress.”
 
 #### Placement of Orders by Chief Administrative Officer of the House of Representatives
 
@@ -232,11 +232,11 @@ Pub. L. 103–160, div. A, title VIII, §844, Nov. 30, 1993, 107 Stat. 1720, dir
 
 #### Acquisition of Goods, Services, or Space by Secretary of Senate and Sergeant at Arms and Doorkeeper of Senate
 
-Pub. L. 101–163, title I, §8, Nov. 21, 1989, 103 Stat. 1046, provided that:
+Pub. L. 101–163, title I, §8, Nov. 21, 1989, 103 Stat. 1046, as amended by Pub. L. 112–10, div. B, title IX, §1904, Apr. 15, 2011, 125 Stat. 170, provided that:
 
 “(1) The Secretary of the Senate and the Sergeant at Arms and Doorkeeper of the Senate are authorized to acquire goods, services, or space from government agencies and units by agreement under the provisions of the Economy Act, 31 U.S.C. 1535, and to make advance payments in conjunction therewith, if required by the providing agency or establishment.
 
 “(2) No advance payment may be made under paragraph (1) unless specifically provided for in the agreement. No agreement providing for advance payment may be entered into unless it contains a provision requiring the refund of any unobligated balance of the advance.
 
-“(3) No agreement may be entered into under paragraph (1) without the approval of the Senate Committee on Rules and Administration and the Senate Committee on Appropriations.”
+“(3) Agreement under paragraph (1) shall be in accordance with regulations prescribed by the Committee on Rules and Administration of the Senate.”
 

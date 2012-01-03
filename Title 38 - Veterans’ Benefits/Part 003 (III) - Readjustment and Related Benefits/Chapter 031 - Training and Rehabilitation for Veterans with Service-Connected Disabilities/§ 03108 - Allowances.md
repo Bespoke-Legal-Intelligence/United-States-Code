@@ -4,7 +4,7 @@
 
 (2) In any case in which the Secretary determines, at the conclusion of such veteran's pursuit of a vocational rehabilitation program under this chapter, that such veteran has been rehabilitated to the point of employability, such veteran shall be paid a subsistence allowance, as prescribed in this section for full-time training for the type of program that the veteran was pursuing, for two months while satisfactorily following a program of employment services provided under section 3104(a)(5) of this title.
 
-(3) A subsistence allowance may not be paid under this chapter to a veteran for any period during which such veteran is being provided with an initial evaluation under section 3106(a) of this title or during which such veteran isbeing provided only with counseling or with placement or postplacement services under section 3105(b) of this title.
+(3) A subsistence allowance may not be paid under this chapter to a veteran for any period during which such veteran is being provided with an initial evaluation under section 3106(a) of this title or during which such veteran is being provided only with counseling or with placement or postplacement services under section 3105(b) of this title.
 
 (b)(1) Except as otherwise provided in this section, the Secretary shall determine the subsistence allowance to be paid to a veteran under this chapter in accordance with the following table, which shall be the monthly amount shown in column II, III, IV, or V (whichever is applicable as determined by the veteran's dependency status) opposite the appropriate type of program being pursued as specified in column I:
 

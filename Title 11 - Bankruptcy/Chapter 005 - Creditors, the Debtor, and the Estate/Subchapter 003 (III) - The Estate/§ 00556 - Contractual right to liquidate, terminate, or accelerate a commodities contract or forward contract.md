@@ -12,13 +12,13 @@ The Federal Deposit Insurance Corporation Improvement Act of 1991, referred to i
 
 #### Amendments
 
-2005—Pub. L. 109–8, §907(<i>o</i>)(8), inserted “, financial participant,” after “commodity broker” in first sentence.
+<b>2005</b>—Pub. L. 109–8, §907(<i>o</i>)(8), inserted “, financial participant,” after “commodity broker” in first sentence.
 
 Pub. L. 109–8, §907(h), substituted “Contractual right to liquidate, terminate, or accelerate a commodities contract or forward contract” for “Contractual right to liquidate a commodities contract or forward contract” in section catchline, “liquidation, termination, or acceleration” for “liquidation” in first sentence, and “As used in this section, the term ‘contractual right’ includes a right set forth in a rule or bylaw of a derivatives clearing organization (as defined in the Commodity Exchange Act), a multilateral clearing organization (as defined in the Federal Deposit Insurance Corporation Improvement Act of 1991), a national securities exchange, a national securities association, a securities clearing agency, a contract market designated under the Commodity Exchange Act, a derivatives transaction execution facility registered under the Commodity Exchange Act, or a board of trade (as defined in the Commodity Exchange Act) or in a resolution of the governing board thereof and a right,” for “As used in this section, the term ‘contractual right’ includes a right set forth in a rule or bylaw of a clearing organization or contract market or in a resolution of the governing board thereof and a right,” in second sentence.
 
-1994—Pub. L. 103–394 substituted “section 761 of this title” for “section 761(4)”.
+<b>1994</b>—Pub. L. 103–394 substituted “section 761 of this title” for “section 761(4)”.
 
-1990—Pub. L. 101–311 inserted before period at end “and a right, whether or not evidenced in writing, arising under common law, under law merchant or by reason of normal business practice”.
+<b>1990</b>—Pub. L. 101–311 inserted before period at end “and a right, whether or not evidenced in writing, arising under common law, under law merchant or by reason of normal business practice”.
 
 #### Effective Date of 2005 Amendment
 

@@ -68,7 +68,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 109(b) of the House amendment adopts a provision contained in H.R. 8200 as passed by the House. Railroad liquidations will occur under chapter 11, not chapter 7.
 
@@ -114,13 +114,13 @@ Section 1(b) of the International Banking Act of 1978, referred to in subsec. (b
 
 #### Amendments
 
-2010—Subsec. (b)(3)(B). Pub. L. 111–327, §2(a)(6)(A), inserted closing parenthesis after “1978”.
+<b>2010</b>—Subsec. (b)(3)(B). Pub. L. 111–327, §2(a)(6)(A), inserted closing parenthesis after “1978”.
 
 Subsec. (h)(1). Pub. L. 111–327, §2(a)(6)(B), inserted “other than paragraph (4) of this subsection” after “this section” and substituted “ending on” for “preceding”.
 
-2009—Subsec. (h)(3)(A)(ii). Pub. L. 111–16 substituted “7-day” for “5-day”.
+<b>2009</b>—Subsec. (h)(3)(A)(ii). Pub. L. 111–16 substituted “7-day” for “5-day”.
 
-2005—Subsec. (b)(2). Pub. L. 109–8, §1204(1), struck out “subsection (c) or (d) of” before “section 301”.
+<b>2005</b>—Subsec. (b)(2). Pub. L. 109–8, §1204(1), struck out “subsection (c) or (d) of” before “section 301”.
 
 Subsec. (b)(3). Pub. L. 109–8, §802(d)(1), added par. (3) and struck out former par. (3) which read as follows: “a foreign insurance company, bank, savings bank, cooperative bank, savings and loan association, building and loan association, homestead association, or credit union, engaged in such business in the United States.”
 
@@ -128,25 +128,25 @@ Subsec. (f). Pub. L. 109–8, §1007(b), inserted “or family fisherman” afte
 
 Subsec. (h). Pub. L. 109–8, §106(a), added subsec. (h).
 
-2000—Subsec. (b)(2). Pub. L. 106–554, §1(a)(8) \[§1(e)\], inserted “a New Markets Venture Capital company as defined in section 351 of the Small Business Investment Act of 1958,” after “homestead association,”.
+<b>2000</b>—Subsec. (b)(2). Pub. L. 106–554, §1(a)(8) \[§1(e)\], inserted “a New Markets Venture Capital company as defined in section 351 of the Small Business Investment Act of 1958,” after “homestead association,”.
 
 Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(1)\], substituted “, except that an uninsured State member bank, or a corporation organized under section 25A of the Federal Reserve Act, which operates, or operates as, a multilateral clearing organization pursuant to section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991 may be a debtor if a petition is filed at the direction of the Board of Governors of the Federal Reserve System; or” for “; or”.
 
 Subsec. (d). Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(2)\], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Only a person that may be a debtor under chapter 7 of this title, except a stockbroker or a commodity broker, and a railroad may be a debtor under chapter 11 of this title.”
 
-1994—Subsec. (b)(2). Pub. L. 103–394, §§220, 501(d)(2), inserted “a small business investment company licensed by the Small Business Administration under subsection (c) or (d) of section 301 of the Small Business Investment Act of 1958,” after “homestead association,” and struck out “(12 U.S.C. 1813(h))” after “Insurance Act”.
+<b>1994</b>—Subsec. (b)(2). Pub. L. 103–394, §§220, 501(d)(2), inserted “a small business investment company licensed by the Small Business Administration under subsection (c) or (d) of section 301 of the Small Business Investment Act of 1958,” after “homestead association,” and struck out “(12 U.S.C. 1813(h))” after “Insurance Act”.
 
 Subsec. (c)(2). Pub. L. 103–394, §402, substituted “specifically authorized, in its capacity as a municipality or by name,” for “generally authorized”.
 
 Subsec. (e). Pub. L. 103–394, §108(a), substituted “$250,000” and “$750,000” for “$100,000” and “$350,000”, respectively, in two places.
 
-1988—Subsec. (c)(3). Pub. L. 100–597 struck out “or unable to meet such entity's debts as such debts mature” after “insolvent”.
+<b>1988</b>—Subsec. (c)(3). Pub. L. 100–597 struck out “or unable to meet such entity's debts as such debts mature” after “insolvent”.
 
-1986—Subsec. (f). Pub. L. 99–554, §253(1)(B), (2), added subsec. (f) and redesignated former subsec. (f) as (g).
+<b>1986</b>—Subsec. (f). Pub. L. 99–554, §253(1)(B), (2), added subsec. (f) and redesignated former subsec. (f) as (g).
 
 Subsec. (g). Pub. L. 99–554, §253(1), redesignated former subsec. (f) as (g) and inserted reference to family farmer.
 
-1984—Subsec. (a). Pub. L. 98–353, §425(a), struck out “in the United States,” after “only a person that resides”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–353, §425(a), struck out “in the United States,” after “only a person that resides”.
 
 Subsec. (c)(5)(D). Pub. L. 98–353, §425(b), substituted “transfer that is avoidable under section 547 of this title” for “preference”.
 
@@ -154,7 +154,7 @@ Subsec. (d). Pub. L. 98–353, §425(c), substituted “stockbroker” for “st
 
 Subsec. (f). Pub. L. 98–353, §301, added subsec. (f).
 
-1982—Subsec. (b)(2). Pub. L. 97–320 inserted reference to industrial banks or similar institutions which are insured banks as defined in section 3(h) of the Federal Deposit Insurance Act (12 U.S.C. 1813(h)).
+<b>1982</b>—Subsec. (b)(2). Pub. L. 97–320 inserted reference to industrial banks or similar institutions which are insured banks as defined in section 3(h) of the Federal Deposit Insurance Act (12 U.S.C. 1813(h)).
 
 #### Effective Date of 2009 Amendment
 

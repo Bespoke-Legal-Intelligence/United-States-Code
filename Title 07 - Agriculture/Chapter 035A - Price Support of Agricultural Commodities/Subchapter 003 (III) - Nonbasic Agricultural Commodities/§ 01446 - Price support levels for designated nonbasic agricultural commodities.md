@@ -22,13 +22,13 @@
 
 &emsp;&emsp;(I) the milk production termination program under paragraph (3) achieved a reduction in the production of milk by participants in the program of at least 12,000,000,000 pounds during the 18 months of the program; or
 
-&emsp;&emsp;(II) the Secretary submits to Congress a certification, including a statement of facts in support of the certification of the Secretary, that reasonable contract offers were extended by the Secretary under such program but such offers were not accepted by a sufficient number of producers making reasonable bids for contracts to achieve such a reduction in production.
+&emsp;&emsp;(II) the Secretary submits to Congress a certification, including a statement of factsin support of the certification of the Secretary, that reasonable contract offers were extended by the Secretary under such program but such offers were not accepted by a sufficient number of producers making reasonable bids for contracts to achieve such a reduction in production.
 
 &emsp;(E) If for any of the calendar years 1988, 1989, and 1990, the level of purchases of milk and the products of milk under this subsection (less sales under section 1427 of this title for unrestricted use), as estimated by the Secretary on January 1 of such calendar year, will not exceed 2,500,000,000 pounds (milk equivalent), the Secretary shall increase by 50 cents the rate of price support for milk in effect on such date.
 
 &emsp;(F) The price of milk shall be supported through the purchase of milk and the products of milk.
 
-&emsp;(2)(A) Beginning after March 31, 1986, the Secretary shall provide for a reduction to bemade in the price received by producers for all milk produced in the United States and marketed by producers for commercial use.
+&emsp;(2)(A) Beginning after March 31, 1986, the Secretary shall provide for a reduction to be made in the price received by producers for all milk produced in the United States and marketed by producers for commercial use.
 
 &emsp;(B) Except as provided in subparagraphs (E) and (F), the amount of the reduction under subparagraph (A) in the price received by producers shall be—
 
@@ -54,7 +54,7 @@
 
 &emsp;(ii) The aggregate amount of any reduction under subparagraph (A) resulting from the operation of clause (i) may not exceed the aggregate amount of the reduction in budget outlays under the milk price-support program, as estimated by the Secretary, that otherwise would have been achieved under either such order by reducing payments made by the Secretary for the purchase of milk or the products of milk under this subsection during such fiscal year.
 
-&emsp;(F) <sup>2</sup> During calendar year 1988, the Secretary shall provide for a reduction of 21/2 cents per hundredweight to be made in the price received by producers for all milk produced in the United States and marketed by producers for commercial use.
+&emsp;(F) <sup>2</sup> During calendar year 1988, the Secretary shall provide for a reduction of 2½ cents per hundredweight to be made in the price received by producers for all milk produced in the United States and marketed by producers for commercial use.
 
 &emsp;(3)(A)(i) The Secretary shall establish and carry out under this paragraph a milk production termination program for the 18-month period beginning April 1, 1986.
 
@@ -64,7 +64,7 @@
 
 &emsp;&emsp;(I) as soon as practicable, determine the total number of dairy cattle the Secretary estimates will be marketed for slaughter as a result of such program; and
 
-&emsp;&emsp;(II) by regulation specify marketing procedures to ensure that greater numbers of dairy cattle slaughtered as a result of the production termination program provided for in this section shall be slaughtered in each of the periods of April through August 1986, and March through August 1987 than for the other months of the program. Such procedures also shall ensure that such sales of dairy cattle for slaughter shall occur on a basis estimated by the Secretary that maintains historical seasonal marketing patterns. During such 18-month period, the Secretary shall limit the total number of dairy cattle marketed for slaughter under the program in excess of the historical dairy herdculling rate to no more than 7 percent of the national dairy herd per calendar year.
+&emsp;&emsp;(II) by regulation specify marketing procedures to ensure that greater numbers of dairy cattle slaughtered as a result of the production termination program provided for in this section shall be slaughtered in each of the periods of April through August 1986, and March through August 1987 than for the other months of the program. Such procedures also shall ensure that such sales of dairy cattle for slaughter shall occur on a basis estimated by the Secretary that maintains historical seasonal marketing patterns. During such 18-month period, the Secretary shall limit the total number of dairy cattle marketed for slaughter under the program in excess of the historical dairy herd culling rate to no more than 7 percent of the national dairy herd per calendar year.
 
 &emsp;(iv) Each contract made under this subparagraph shall provide that—
 
@@ -98,7 +98,7 @@
 
 &emsp;(N) If the provisions for reductions in the price received for milk marketed for commercial use as provided for in paragraph (2) are held to be invalid by any court, or the Secretary is restrained or enjoined by any court from implementing such provisions, the Secretary shall immediately suspend making any diversion payments under this paragraph for the period beginning with the date of such court action and shall resume making such payments only if such court action is overruled, stayed, or terminated.
 
-&emsp;(4) Each producer who markets milk and each person required to make payment to the Corporation under this subsection shall keep such records and make such reports, in such manner, as the Secretary determines necessary to carry out this subsection. The Secretary may make such investigations as the Secretary deems necessary for the effective administration of this subsection or to determine whether any person subject to the provisions of this subsection has engaged or is engaged or is about to engage in any act or practice that constitutes or will constitute a violation of any provision of this subsection or regulation issued under this subsection. For the purpose of such investigation, the Secretary may administer oaths and affirmations, subpena witnesses, compel their attendance, take evidence, and require the production of any records that are relevant to the inquiry. Such attendance of witnesses and the production of any such records may be required from any place in the United States. In case of contumacy by, or refusal to obey a subpena to, any person, the Secretary may invoke the aid of any court of the United States within the jurisdiction of which such investigation or proceeding is carried on, or where such person resides or carries on business, in requiring the attendance and testimony of witnesses and the production of records. Such court may issue an order requiring such person to appear before the Secretary to produce records or to give testimony on the matter under investigation. Any failure to obey such order of the court may be punished by such court as a contempt thereof. All process in any such casemay be served in the judicial district of which such person is an inhabitant or wherever such person may be found.
+&emsp;(4) Each producer who markets milk and each person required to make payment to the Corporation under this subsection shall keep such records and make such reports, in such manner, as the Secretary determines necessary to carry out this subsection. The Secretary may make such investigations as the Secretary deems necessary for the effective administration of this subsection or to determine whether any person subject to the provisions of this subsection has engaged or is engaged or is about to engage in any act or practice that constitutes or will constitute a violation of any provision of this subsection or regulation issued under this subsection. For the purpose of such investigation, the Secretary may administer oaths and affirmations, subpena witnesses, compel their attendance, takeevidence, and require the production of any records that are relevant to the inquiry. Such attendance of witnesses and the production of any such records may be required from any place in the United States. In case of contumacy by, or refusal to obey a subpena to, any person, the Secretary may invoke the aid of any court of the United States within the jurisdiction of which such investigation or proceeding is carried on, or where such person resides or carries on business, in requiring the attendance and testimony of witnesses and the production of records. Such court may issue an order requiring such person to appear before the Secretary to produce records or to give testimony on the matter under investigation. Any failure to obey such order of the court may be punished by such court as a contempt thereof. All process in any such case may be served in the judicial district of which such person is an inhabitant or wherever such person may be found.
 
 &emsp;(5)(A) The district courts of the United States are vested with jurisdiction specifically to enforce, and to prevent and restrain any person from violating, any provision of this subsection or any regulation issued under this subsection. Any such civil action authorized to be brought under this subsection shall be referred to the Attorney General for appropriate action. The Secretary is not required, however, to refer to the Attorney General minor violations of this subsection whenever the Secretary believes that the administration and enforcement of this subsection would be adequately served by suitable written notice or warning to any person committing such violation.
 
@@ -128,7 +128,7 @@
 
 &emsp;(7) The Secretary shall carry out this subsection through the Commodity Credit Corporation.
 
-(Oct. 31, 1949, ch. 792, title II, §201, 63 Stat. 1052; Aug. 28, 1954, ch. 1041, title II, §§203(a), 204(b), title VII, §709, 68 Stat. 899, 912; Apr. 2, 1956, ch. 159, §1, 70 Stat. 86; July 20, 1956, ch. 661, 70 Stat. 596; Pub. L. 85–835, title V, §503, Aug. 28, 1958, 72 Stat. 996; Pub. L. 86–799, Sept. 16, 1960, 74 Stat. 1054; Pub. L. 91–524, title II, §202, Nov. 30, 1970, 84 Stat. 1361; Pub. L. 93–86, §1(3), Aug. 10, 1973, 87 Stat. 222; Pub. L. 93–225, Dec. 29, 1973, 87 Stat. 942; Pub. L. 95–113, title II, §203, title IX, §§901, 902, Sept. 29, 1977, 91 Stat. 920, 949; Pub. L. 96–127, §1, Nov. 28, 1979, 93 Stat. 981; Pub. L. 96–494, title II, §202(c), Dec. 3, 1980, 94 Stat. 2570; Pub. L. 97–6, Mar. 31, 1981, 95 Stat. 8; Pub. L. 97–35, title I, §150, Aug. 13, 1981, 95 Stat. 369; Pub. L. 97–98, title I, §103, title VIII, §801, title IX, §901, Dec. 22, 1981, 95 Stat. 1219, 1256, 1257; Pub. L. 97–253, title I, §101, Sept. 8, 1982, 96 Stat. 763; Pub. L. 98–180, title I, §102(a), Nov. 29, 1983, 97 Stat. 1128; Pub. L. 99–114, §1, Oct. 1, 1985, 99 Stat. 488; Pub.L. 99–157, §1, Nov. 15, 1985, 99 Stat. 818; Pub. L. 99–182, §1, Dec. 13, 1985, 99 Stat. 1173; Pub. L. 99–198, title I, §101(a)–(e), title VIII, §801, title IX, §901, title X, §§1008, 1041, Dec. 23, 1985, 99 Stat. 1362–1365, 1441, 1443, 1452, 1464; Pub. L. 99–260, §10, Mar. 20, 1986, 100 Stat. 52; Pub. L. 100–45, §15(a), May 27, 1987, 101 Stat. 325; Pub. L. 100–202, §101(k) \[title VI, §638\], Dec. 22, 1987, 101 Stat. 1329–322, 1329–357; Pub. L. 100–203, title I, §1104(c)–(e), Dec. 22, 1987, 101 Stat. 1330–4; Pub. L. 100–387, title I, §102(a), Aug. 11, 1988, 102 Stat. 932; Pub. L. 101–239, title I, §1007, Dec. 19, 1989, 103 Stat. 2110; Pub. L. 101–624, title VII, §701(1), title IX, §901(1), title XI, §1161(b), title XXII, §2236(a), Nov. 28, 1990, 104 Stat. 3457, 3478, 3520, 3961; Pub. L. 102–237, title I, §113(8), Dec. 13, 1991, 105 Stat. 1838.)
+(Oct. 31, 1949, ch. 792, title II, §201, 63 Stat. 1052; Aug. 28, 1954, ch. 1041, title II, §§203(a), 204(b),title VII, §709, 68 Stat. 899, 912; Apr. 2, 1956, ch. 159, §1, 70 Stat. 86; July 20, 1956, ch. 661, 70 Stat. 596; Pub. L. 85–835, title V, §503, Aug. 28, 1958, 72 Stat. 996; Pub. L. 86–799, Sept. 16, 1960, 74 Stat. 1054; Pub. L. 91–524, title II, §202, Nov. 30, 1970, 84 Stat. 1361; Pub. L. 93–86, §1(3)(B), (C), Aug. 10, 1973, 87 Stat. 222, 223; Pub. L. 93–225, Dec. 29, 1973, 87 Stat. 942; Pub. L. 95–113, title II, §203, title IX, §§901, 902, Sept. 29, 1977, 91 Stat. 920, 949; Pub. L. 96–127, §1, Nov. 28, 1979, 93 Stat. 981; Pub. L. 96–494, title II, §202(c), Dec. 3, 1980, 94 Stat. 2570; Pub. L. 97–6, Mar. 31, 1981, 95 Stat. 8; Pub. L. 97–35, title I, §150, Aug. 13, 1981, 95 Stat. 369; Pub. L. 97–98, title I, §103, title VIII, §801, title IX, §901, Dec. 22, 1981, 95 Stat. 1219, 1256, 1257; Pub. L. 97–253, title I, §101, Sept. 8, 1982, 96 Stat. 763; Pub. L. 98–180, title I, §102(a), Nov. 29, 1983, 97 Stat. 1128; Pub. L. 99–114, §1, Oct. 1, 1985, 99 Stat. 488; Pub. L. 99–157, §1, Nov. 15, 1985, 99 Stat. 818; Pub. L. 99–182, §1, Dec. 13, 1985, 99 Stat. 1173; Pub. L. 99–198, title I, §101(a)–(e), title VIII, §801, title IX, §901, title X, §§1008, 1041, Dec. 23, 1985, 99 Stat. 1362–1365, 1441, 1443, 1452, 1464; Pub. L. 99–260, §10, Mar. 20, 1986, 100 Stat. 52; Pub. L. 100–45, §15(a), May 27, 1987, 101 Stat. 325; Pub. L. 100–202, §101(k) \[title VI, §638\], Dec. 22, 1987, 101 Stat. 1329–322, 1329–357; Pub. L. 100–203, title I, §1104(c)–(e), Dec. 22, 1987, 101 Stat. 1330–4; Pub. L. 100–387, title I, §102(a), Aug. 11, 1988, 102 Stat. 932; Pub. L. 101–239, title I, §1007, Dec. 19, 1989, 103 Stat. 2110; Pub. L. 101–624, title VII, §701(1), title IX, §901(1), title XI, §1161(b), title XXII, §2236(a), Nov. 28, 1990, 104 Stat. 3457, 3478, 3520, 3961; Pub. L. 102–237, title I, §113(8), Dec. 13, 1991, 105 Stat. 1838.)
 
 #### References in Text
 
@@ -144,21 +144,21 @@ The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in su
 
 #### Amendments
 
-1991—Subsecs. (b), (c). Pub. L. 102–237 redesignated subsec. (b), relating to price supports for milk, as (c).
+<b>1991</b>—Subsecs. (b), (c). Pub. L. 102–237 redesignated subsec. (b), relating to price supports for milk, as (c).
 
-1990—Subsec. (a). Pub. L. 101–624, §§701(1), 901(1), 1161(b)(1), designated opening paragraph as subsec. (a) and substituted “oilseeds (including soybeans, sunflower seed, canola, rapeseed, safflower, flaxseed, mustard seed, and such other oilseeds as the Secretary may determine),” for “tung nuts,”, “honey, milk, sugar beets, and sugarcane” for “honey, and milk”, and “in accordance with this subchapter.” for “as follows:”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–624, §§701(1), 901(1), 1161(b)(1), designated opening paragraph as subsec. (a) and substituted “oilseeds (including soybeans, sunflower seed, canola, rapeseed, safflower, flaxseed, mustard seed, and such other oilseeds as the Secretary may determine),” for “tung nuts,”, “honey, milk, sugar beets, and sugarcane” for “honey, and milk”, and “in accordance with this subchapter.” for “as follows:”.
 
 Subsecs. (b), (c). Pub. L. 101–624, §1161(b)(2), (3), redesignated subsec. (c) as (b) and substituted reference to section 1446e of this title for reference to subsection (d) of this section.
 
 Subsec. (k)(2). Pub. L. 101–624, §2236(a), temporarily designated existing text as subpar. (A) and added subpar. (B). See Effective and Termination Dates of 1990 Amendment note below.
 
-1989—Subsec. (d)(1)(C)(ii), (iii). Pub. L. 101–239, §1007(1), temporarily inserted in cl. (ii) “clause (iii) and” after “Except as provided in” and added cl. (iii). See Effective and Termination Dates of 1989 Amendment note below.
+<b>1989</b>—Subsec. (d)(1)(C)(ii), (iii). Pub. L. 101–239, §1007(1), temporarily inserted in cl. (ii) “clause (iii) and” after “Except as provided in” and added cl. (iii). See Effective and Termination Dates of 1989 Amendment note below.
 
 Subsec. (d)(1)(D)(i). Pub. L. 101–239, §1007(2), temporarily substituted “calendar year 1990” for “each of the calendar years 1988 and 1990” and “may reduce by not more than” for “shall reduce by”. See Effective and Termination Dates of 1989 Amendment note below.
 
-1988—Subsec. (d)(1)(D). Pub. L. 100–387 substituted “if for each of the calendar years 1988 and 1990” for “if for any of the calendar years 1988, 1989, and 1990”.
+<b>1988</b>—Subsec. (d)(1)(D). Pub. L. 100–387 substituted “if for each of the calendar years 1988 and 1990” for “if for any of the calendar years 1988, 1989, and 1990”.
 
-1987—Pub. L. 100–45, §15(a)(1), temporarily inserted “sunflower seeds,” after “soybeans,” in first sentence. See Effective and Termination Dates of 1987 Amendments note below.
+<b>1987</b>—Pub. L. 100–45, §15(a)(1), temporarily inserted “sunflower seeds,” after “soybeans,” in first sentence. See Effective and Termination Dates of 1987 Amendments note below.
 
 Subsec. (b)(1)(D). Pub. L. 100–203, §1104(c), temporarily added subpar. (D). See Effective and Termination Dates of 1987 Amendments note below.
 
@@ -168,7 +168,7 @@ Subsec. (d)(2)(B). Pub. L. 100–202, §101(k) \[title VI, §638(2)\], substitut
 
 Subsec. (d)(2)(C). Pub. L. 100–203, §1104(d)(1), substituted “this paragraph” for “subparagraph (A)”.
 
-Subsec. (d)(2)(F). Pub. L. 100–203, §1104(d)(2), added subpar. (F) directing Secretary to provide for reduction of 21/2 cents per hundredweight in price received by producers during calendar year 1988.
+Subsec. (d)(2)(F). Pub. L. 100–203, §1104(d)(2), added subpar. (F) directing Secretary to provide for reduction of 2½ cents per hundredweight in price received by producers during calendar year 1988.
 
 Pub. L. 100–202, §101(k) \[title VI, §638(3)\], added subpar. (F) directing Secretary to provide for reduction under subpar. (A) as the sole means of achieving any reduction in budget outlays in milk price-support system under Presidential budget-cutting orders.
 
@@ -176,11 +176,11 @@ Subsec. (j)(7). Pub. L. 100–203, §1104(e), added par. (7).
 
 Subsec. (<i>l</i>). Pub. L. 100–45, §15(a)(2), temporarily added subsec. (<i>l</i>). See Effective and Termination Dates of 1987 Amendments note below.
 
-1986—Subsec. (d)(2)(B). Pub. L. 99–260, §10(1), substituted “Except as provided in subparagraph (E), the” for “The”.
+<b>1986</b>—Subsec. (d)(2)(B). Pub. L. 99–260, §10(1), substituted “Except as provided in subparagraph (E), the” for “The”.
 
 Subsec. (d)(2)(E). Pub. L. 99–260, §10(2), added subpar. (E).
 
-1985—Pub. L. 99–198, §§801(1), 901(1), in provisions preceding subsec. (a), temporarily reenacted without change the amendments made in 1977 by sections 901(1) and 902(1) of Pub. L. 95–113 and in 1981 by sections 801(1) and 901(1) of Pub. L. 97–98, which inserted references to soybeans, sugar beets, and sugar cane. See Effective and Termination Dates of Amendments notes for 1985, 1981, and 1977, respectively, set out below.
+<b>1985</b>—Pub. L. 99–198, §§801(1), 901(1), in provisions preceding subsec. (a), temporarily reenacted without change the amendments made in 1977 by sections 901(1) and 902(1) of Pub. L. 95–113 and in 1981 by sections 801(1) and 901(1) of Pub. L. 97–98, which inserted references to soybeans, sugar beets, and sugar cane. See Effective and Termination Dates of Amendments notes for 1985, 1981, and 1977, respectively, set out below.
 
 Subsec. (b). Pub. L. 99–198, §1041, amended subsec. (b) generally, temporarily substituting provisions for loans, purchases and other price supports for the 1986 through 1990 crops of honey, and repayment of loans under this subsection, as well as penalties for pledging adulterated or imported honey as collateral to secure such loans, for provisions for support of the price of honey through loans, purchases or other operations, without any crop year restrictions, at a level not in excess of 90 per centum nor less than 60 per centum of the parity price thereof, and struck out provisions for price support for tung nuts through the 1976 crop year. See Effective and Termination Dates of 1985 Amendments note below.
 
@@ -228,13 +228,13 @@ Subsec. (d)(7). Pub. L. 99–198, §101(e), added par. (7).
 
 Subsecs. (i) to (k). Pub. L. 99–198, §§801(2), 901(2), 1008, temporarily added subsecs. (i) to (k). See Effective and Termination Dates of 1985 Amendment note below.
 
-1983—Subsec. (d). Pub. L. 98–180 amended subsec. (d) generally, substituting provision designed to adjust milk production to levels consistent with the national demand for milk and milk products by reducing the price support to $12.60 per hundredweight, with provision for further increase or decrease depending on volume, providing a 50 cents reduction per hundredweight in the price on all milk produced in the United States and marketed by producers for commercial use, and establishing a milk diversion program to reduce milk production for provision which kept the price support at $13.10 per hundredweight and authorized Secretary to collect $1.00 from farmers for every hundredweight of production sold, with the first 50 cents, payable beginning Oct. 1, 1982, to be nonrefundable, and the second 50 cents, payable beginning Apr. 1, 1983, refundable if the farmer could demonstrate reduced commercial marketings from such marketings during a defined base period.
+<b>1983</b>—Subsec. (d). Pub. L. 98–180 amended subsec. (d) generally, substituting provision designed to adjust milk production to levels consistent with the national demand for milk and milk products by reducing the price support to $12.60 per hundredweight, with provision for further increase or decrease depending on volume, providing a 50 cents reduction per hundredweight in the price on all milk produced in the United States and marketed by producers for commercial use, and establishing a milk diversion program to reduce milk production for provision which kept the price support at $13.10 per hundredweight and authorized Secretary to collect $1.00 from farmers for every hundredweight of production sold, with the first 50 cents, payable beginning Oct. 1, 1982, to be nonrefundable, and the second 50 cents, payable beginning Apr. 1, 1983, refundable if the farmer could demonstrate reduced commercial marketings from such marketings during a defined base period.
 
-1982—Subsec. (c). Pub. L. 97–253, §101(1), struck out provision specifying milk price supports for the period beginning Dec. 22, 1981, and ending Sept. 30, 1982, and for fiscal years ending Sept. 30, 1983, 1984, and 1985, with authority for Secretary to set milk price supports if he estimated that for such a fiscal year the net cost of Government price support purchases would be less than $1,000,000,000 for that fiscal year or if he estimated that the net Government price support purchases would be less than a specified poundage per fiscal year.
+<b>1982</b>—Subsec. (c). Pub. L. 97–253, §101(1), struck out provision specifying milk price supports for the period beginning Dec. 22, 1981, and ending Sept. 30, 1982, and for fiscal years ending Sept. 30, 1983, 1984, and 1985, with authority for Secretary to set milk price supports if he estimated that for such a fiscal year the net cost of Government price support purchases would be less than $1,000,000,000 for that fiscal year or if he estimated that the net Government price support purchases would be less than a specified poundage per fiscal year.
 
 Subsec. (d). Pub. L. 97–253, §101(2), added subsec. (d).
 
-1981—Pub. L. 97–98, §§801(1), 901(1), temporarily inserted reference in provision preceding subsec. (a) to soybeans, sugar beets, and sugarcane. See Effective and Termination Dates of 1981 Amendment note below.
+<b>1981</b>—Pub. L. 97–98, §§801(1), 901(1), temporarily inserted reference in provision preceding subsec. (a) to soybeans, sugar beets, and sugarcane. See Effective and Termination Dates of 1981 Amendment note below.
 
 Subsec. (c). Pub. L. 97–98, §103(1), substituted provision specifying milk price supports for the period beginning Dec. 22, 1981, and ending Sept. 30, 1982, and for fiscal years ending Sept. 30, 1983, 1984, and 1985, with authority for Secretary to set milk price supports if he estimates that for such a fiscal year the net cost of Government price support purchases will be less than $1,000,000,000 for that fiscal year or if he estimates that the net Government price support purchases will be less than a specified poundage per fiscal year for provision specifying the procedure and setting a schedule to be used to determine milk price supports for the period beginning Oct. 1, 1981, and ending Sept. 30, 1985.
 
@@ -248,13 +248,13 @@ Pub. L. 97–6 struck out subsec. (d) which required that, for the period Oct. 1
 
 Subsecs. (g), (h). Pub. L. 97–98, §§801(2), 901(2), temporarily added subsecs. (g) and (h). See Effective and Termination Dates of 1981 Amendments note below.
 
-1980—Subsec. (e). Pub. L. 96–494 inserted proviso that 1981 crop of soybeans shall be supported through loans and purchases at not less than $5.02 per bushel.
+<b>1980</b>—Subsec. (e). Pub. L. 96–494 inserted proviso that 1981 crop of soybeans shall be supported through loans and purchases at not less than $5.02 per bushel.
 
-1979—Subsec. (c). Pub. L. 96–127, §1(a), substituted Sept. 30, 1981, for Mar. 31, 1979.
+<b>1979</b>—Subsec. (c). Pub. L. 96–127, §1(a), substituted Sept. 30, 1981, for Mar. 31, 1979.
 
 Subsec. (d). Pub. L. 96–127, §1(b), substituted Sept. 30, 1981, for Mar. 31, 1981.
 
-1977—Pub. L. 95–113, §§901(1), 902(1), temporarily inserted references to soybeans, sugar beets, and sugar cane in provisions preceding subsec. (a). See Effective and Termination Dates of 1977 Amendment note below.
+<b>1977</b>—Pub. L. 95–113, §§901(1), 902(1), temporarily inserted references to soybeans, sugar beets, and sugar cane in provisions preceding subsec. (a). See Effective and Termination Dates of 1977 Amendment note below.
 
 Subsec. (c). Pub. L. 95–113, §203(1), substituted the period Oct. 1, 1977, through Mar. 31, 1979, for the period Aug. 10, 1973, through Mar. 31, 1975, as the period during which the price of milk shall be supported at not less than 80 per centum of parity.
 
@@ -262,21 +262,21 @@ Subsec. (d). Pub. L. 95–113, §203(2), added subsec. (d).
 
 Subsecs. (e), (f). Pub. L. 95–113, §§901(2), 902(2), temporarily added subsecs. (e) and (f). See Effective and Termination Dates of 1977 Amendment note below.
 
-1973—Subsec. (b). Pub. L. 93–225 limited tung nuts price support level provisions to tung nuts through the 1976 crop year. Prior provisions were applicable to tung nuts without any crop year restriction.
+<b>1973</b>—Subsec. (b). Pub. L. 93–225 limited tung nuts price support level provisions to tung nuts through the 1976 crop year. Prior provisions were applicable to tung nuts without any crop year restriction.
 
 Subsec. (c). Pub. L. 93–86 inserted “of pure and wholesome milk to meet current needs, reflect changes in the cost of production, and assure a level of farm income adequate to maintain productive capacity sufficient to meet anticipated future needs” after “necessary in order to assure an adequate supply” and inserted provision that for the period August 10, 1973, through March 31, 1975, the price of milk shall be supported at not less than 80 per centum of the parity price therefor.
 
-1970—Pub. L. 91–524 substituted “and milk” for “milk, butterfat, and products of milk and butterfat” in provisions preceding subsec. (a) and struck out provisions for butterfat price supports in subsec. (c).
+<b>1970</b>—Pub. L. 91–524 substituted “and milk” for “milk, butterfat, and products of milk and butterfat” in provisions preceding subsec. (a) and struck out provisions for butterfat price supports in subsec. (c).
 
-1960—Subsec. (c). Pub. L. 86–799 inserted “Notwithstanding the foregoing provisions, for the period beginning with September 16, 1960, and ending March 31, 1961, the price of milk for manufacturing purposes and the price of butterfat shall be supported at not less than $3.22 per hundredweight and 59.6 cents per pound, respectively.”
+<b>1960</b>—Subsec. (c). Pub. L. 86–799 inserted “Notwithstanding the foregoing provisions, for the period beginning with September 16, 1960, and ending March 31, 1961, the price of milk for manufacturing purposes and the price of butterfat shall be supported at not less than $3.22 per hundredweight and 59.6 cents per pound, respectively.”
 
-1958—Subsec. (b). Pub. L. 85–835 required minimum support level of tung oil to be 65 per centum of parity whenever domestic production is less than anticipated domestic demand.
+<b>1958</b>—Subsec. (b). Pub. L. 85–835 required minimum support level of tung oil to be 65 per centum of parity whenever domestic production is less than anticipated domestic demand.
 
-1956—Subsec. (c). Act July 20, 1956, struck out “as are” before “devoted,” and substituted “children” for “underprivileged children on a public welfare or charitable basis”.
+<b>1956</b>—Subsec. (c). Act July 20, 1956, struck out “as are” before “devoted,” and substituted “children” for “underprivileged children on a public welfare or charitable basis”.
 
 Act Apr. 2, 1956 increased amount authorized for fiscal year 1956 from $50,000,000 to $60,000,000, to authorize $75,000,000 for each of fiscal years 1957 and 1958, and permitted certain institutions devoted to care and training of underprivileged children on a public welfare or charitable basis to share in the program.
 
-1954—Act Aug. 28, 1954, §§203(a), 709, removed Irish potatoes and wool (including mohair) from price support list in provisions preceding subsec. (a).
+<b>1954</b>—Act Aug. 28, 1954, §§203(a), 709, removed Irish potatoes and wool (including mohair) from price support list in provisions preceding subsec. (a).
 
 Subsec. (a). Act Aug. 28, 1954, §709, struck out subsec. (a) relating to support of wool and mohair.
 
@@ -380,7 +380,7 @@ Pub. L. 100–418, title IV, §4302, Aug. 23, 1988, 102 Stat. 1397, directed Sec
 
 Pub. L. 101–7, §1, Mar. 29, 1989, 103 Stat. 9, provided for allocation of price support increases and decreases between non-fat dry milk and butter with respect to purchases of butter and non-fat dry milk made under subsec. (d) of this section, in carrying out temporary $0.50 per hundredweight increase in rate of price support for milk provided for in section 102(b) of Pub. L. 100–387 (formerly set out below) and in implementing $0.50 per hundredweight decrease in rate of price support for milk scheduled to occur on July 1, 1989, as provided in such section 102(b).
 
-Section 102(b) of Pub. L. 100–387 provided that notwithstanding subsec. (d)(1) of this section, the rate of price support for milk in effect under such subsection immediately before Apr. 1, 1989, shall be increased by 50 cents throughout the period beginning on Apr. 1, 1989, and ending on June 30, 1989.
+Section 102(b) of Pub. L. 100–387 provided that notwithstanding subsec. (d)(1) of this section, the rate ofprice support for milk in effect under such subsection immediately before Apr. 1, 1989, shall be increased by 50 cents throughout the period beginning on Apr. 1, 1989, and ending on June 30, 1989.
 
 #### Report to Committees of Congress
 
@@ -388,7 +388,7 @@ Section 301(a)(2) of Pub. L. 100–387, directed Secretary of Agriculture, not e
 
 #### Sense of Congress
 
-Section 15(b) of Pub. L. 100–45 stated sense of Congress that, if producers were permitted to repay loans for a crop of soybeans under subsec. (i) of this section at a level that is less than the full amount of the loan,the Secretary should make loans and purchases available for such crop of sunflowers in accordance with subsec. (<i>l</i>)(1) of this section and permit producers to repay such loans in accordance with subsec. (<i>l</i>)(2) of this section.
+Section 15(b) of Pub. L. 100–45 stated sense of Congress that, if producers were permitted to repay loans for a crop of soybeans under subsec. (i) of this section at a level that is less than the full amount of the loan, the Secretary should make loans and purchases available for such crop of sunflowers in accordance with subsec. (<i>l</i>)(1) of this section and permit producers to repay such loans in accordance with subsec. (<i>l</i>)(2) of this section.
 
 #### Application of Support Price for Milk
 

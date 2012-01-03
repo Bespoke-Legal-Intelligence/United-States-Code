@@ -44,7 +44,7 @@ In this title— <sup>1</sup>
 
 This title, referred to in text, is title VI of Pub. L. 109–295, Oct. 4, 2006, 120 Stat. 1355, known as the Post-Katrina Emergency Management Reform Act of 2006. For complete classification of title VI to the Code, see Short Title note set out below and Tables.
 
-Section 314(a)(6) of this title, referred to in par. (13), was in the original “section 502(a)(6) of the Homeland Security Act 2002” and was translated as meaning section 502 of Pub. L. 107–296 prior to its redesignation as section 504 by Pub. L. 109–295, §611(8), and not section 506 of Pub. L. 107–296 which was redesignated section 502 by Pub. L. 109–295, §611(9), and is classified to section 312 of this title, to reflect the probable intent of Congress.
+Section 314(a)(6) of this title, referred to in par. (13), was in the original “section 502(a)(6) of the Homeland Security Act 2002” and was translated as meaning section 502 of Pub. L. 107–296 prior to its redesignation as section 504 by Pub. L. 109–295, §611(8), and not section 506 of Pub. L. 107–296 which was redesignated section 502 by Pub. L. 109–295, §611(9), and is classified to section312 of this title, to reflect the probable intent of Congress.
 
 #### Change of Name
 
@@ -87,4 +87,6 @@ Pub. L. 109–295, title VI, §613, Oct. 4, 2006, 120 Stat. 1411, provided that:
 #### References in Pub. L. 109–295
 
 Pub. L. 109–295, title VI, §699A, Oct. 4, 2006, 120 Stat. 1463, provided that: “Except as expressly provided otherwise, any reference to ‘this Act’ contained in this title \[see Tables for classification\] shall be treated as referring only to the provisions of this title.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

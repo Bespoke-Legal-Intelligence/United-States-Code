@@ -20,7 +20,7 @@ The benefits of this subchapter are available as provided in this subchapter to 
 
 #### Amendments
 
-1968—Pub. L. 90–623 substituted “For the purposes of this subchapter” for “For the purposes of this Act”.
+<b>1968</b>—Pub. L. 90–623 substituted “For the purposes of this subchapter” for “For the purposes of this Act”.
 
 #### Effective Date of 1968 Amendment
 

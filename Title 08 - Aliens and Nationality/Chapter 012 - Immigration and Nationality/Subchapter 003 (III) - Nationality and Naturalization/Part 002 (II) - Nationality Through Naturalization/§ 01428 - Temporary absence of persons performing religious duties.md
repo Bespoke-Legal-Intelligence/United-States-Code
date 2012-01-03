@@ -6,7 +6,7 @@ Any person who is authorized to perform the ministerial or priestly functions of
 
 #### Amendments
 
-1990—Pub. L. 101–649, §407(d)(2), struck out “and the naturalization court” after “Attorney General”.
+<b>1990</b>—Pub. L. 101–649, §407(d)(2), struck out “and the naturalization court” after “Attorney General”.
 
 Pub. L. 101–649, §407(c)(3), substituted “application” for “petition”.
 

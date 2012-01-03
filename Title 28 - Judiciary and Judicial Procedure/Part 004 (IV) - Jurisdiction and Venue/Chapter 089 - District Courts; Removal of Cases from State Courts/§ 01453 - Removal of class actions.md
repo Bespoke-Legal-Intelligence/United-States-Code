@@ -6,7 +6,7 @@ Definitions.—In this section, the terms “class”, “class action”, “cl
 
 (b)
 
-In General.—A class action may be removed to a district court of the United States in accordance with section 1446 (except that the 1-year limitation under section 1446(b) shall not apply), without regard to whether any defendant is a citizen of the State in which the action is brought, except that such action may be removed by any defendant without the consent of all defendants.
+In General.—A class action may be removed to a district court of the United States in accordance with section 1446 (except that the 1-year limitation under section 1446(c)(1) shall not apply), without regard to whether any defendant is a citizen of the State in which the action is brought, except that such action may be removed by any defendant without the consent of all defendants.
 
 (c)
 
@@ -42,11 +42,17 @@ Exception.—This section shall not apply to any class action that solely involv
 
 &emsp;(3) a claim that relates to the rights, duties (including fiduciary duties), and obligations relating to or created by or pursuant to any security (as defined under section 2(a)(1) of the Securities Act of 1933 (15 U.S.C. 77b(a)(1)) and the regulations issued thereunder).
 
-(Added Pub. L. 109–2, §5(a), Feb. 18, 2005, 119 Stat. 12; amended Pub. L. 111–16, §6(2), May 7, 2009, 123 Stat. 1608.)
+(Added Pub. L. 109–2, §5(a), Feb. 18, 2005, 119 Stat. 12; amended Pub. L. 111–16, §6(2), May 7, 2009, 123 Stat. 1608; Pub. L. 112–63, title I, §103(d)(2), Dec. 7, 2011, 125 Stat. 762.)
 
 #### Amendments
 
+<b>2011</b>—Subsec. (b). Pub. L. 112–63 substituted “1446(c)(1)” for “1446(b)”.
+
 <b>2009</b>—Subsec. (c)(1). Pub. L. 111–16 substituted “not more than 10 days” for “not less than 7 days”.
+
+#### Effective Date of 2011 Amendment
+
+Amendment by Pub. L. 112–63 effective upon the expiration of the 30-day period beginning on Dec. 7, 2011, and applicable to any action or prosecution commenced on or after such effective date, with provisions for treatment of cases removed to Federal court, see section 105 of Pub. L. 112–63, set out as a note under section 1332 of this title.
 
 #### Effective Date of 2009 Amendment
 

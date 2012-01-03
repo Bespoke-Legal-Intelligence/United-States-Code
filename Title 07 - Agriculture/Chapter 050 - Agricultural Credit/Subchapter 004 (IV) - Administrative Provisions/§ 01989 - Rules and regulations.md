@@ -26,7 +26,7 @@ Notwithstanding subsection (a) of this section, in providing farmer program loan
 
 #### (3) Condition of certification
 
-&emsp;As a condition of the certification, the Secretary shall require the institution to undertake to service the loans guaranteed by the Secretary under this subsection, using standards that are not less stringent than generally accepted banking standards concerning loan servicing employed by prudent commercial or cooperative lenders. The Secretary shall, at least annually, monitor the performance of each certified lender to ensure that the conditions of the certification are being met.
+&emsp;As a condition of the certification, the Secretary shall require the institution to undertake to service the loans guaranteed by the Secretary under this subsection, using standards that are not less stringent than generally accepted banking standards concerning loan servicing employed by prudent commercial or cooperative lenders. The Secretary shall, at least annually, monitor the performance ofeach certified lender to ensure that the conditions of the certification are being met.
 
 #### (4) Effect of certification
 
@@ -90,11 +90,11 @@ For definition of “this chapter”, referred to in text, see note set out unde
 
 #### Amendments
 
-2002—Subsec. (e). Pub. L. 107–171 added subsec. (e).
+<b>2002</b>—Subsec. (e). Pub. L. 107–171 added subsec. (e).
 
-1999—Subsec. (b)(3). Pub. L. 106–31 struck out “, including expenses of replacing capital items (determined after taking into account depreciation of the items)” after “paragraph (1)”.
+<b>1999</b>—Subsec. (b)(3). Pub. L. 106–31 struck out “, including expenses of replacing capital items (determined after taking into account depreciation of the items)” after “paragraph (1)”.
 
-1992—Pub. L. 102–554, inserted section catchline, designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) to (d).
+<b>1992</b>—Pub. L. 102–554, inserted section catchline, designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) to (d).
 
 #### Regulations
 

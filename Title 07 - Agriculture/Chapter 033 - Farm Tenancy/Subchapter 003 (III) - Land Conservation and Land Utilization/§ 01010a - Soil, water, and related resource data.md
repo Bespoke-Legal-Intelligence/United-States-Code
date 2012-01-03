@@ -10,5 +10,5 @@ Section was not enacted as part of the Bankhead-Jones Farm Tenant Act which cons
 
 #### Amendments
 
-1980—Pub. L. 96–470 struck out provision that the Secretary issue at not less than five-year intervals a land inventory report reflecting soil, water, and related resource conditions.
+<b>1980</b>—Pub. L. 96–470 struck out provision that the Secretary issue at not less than five-year intervals a land inventory report reflecting soil, water, and related resource conditions.
 

@@ -12,7 +12,7 @@
 
 #### Amendments
 
-2004—Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814, substituted “Government Accountability Office” for “General Accounting Office” in item 2304.
+<b>2004</b>—Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814, substituted “Government Accountability Office” for “General Accounting Office” in item 2304.
 
 
 ---

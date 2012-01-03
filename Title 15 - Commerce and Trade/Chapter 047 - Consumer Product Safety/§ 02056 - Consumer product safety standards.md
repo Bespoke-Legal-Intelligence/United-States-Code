@@ -24,7 +24,7 @@ The Commission may promulgate consumer product safety standards in accordance wi
 
 #### (c) Contribution of Commission to development cost
 
-If any person participates with the Commission in the development of a consumer productsafety standard, the Commission may agree to contribute to the person's cost with respect to such participation, in any case in which the Commission determines that such contribution is likely to result in a more satisfactory standard than would be developed without such contribution, and that the person is financially responsible. Regulations of the Commission shall set forth the items of cost in which it may participate, and shall exclude any contribution to the acquisition of land or buildings. Payments under agreements entered into under this subsection may be made without regard to section 3324(a) and (b) of title 31.
+If any person participates with the Commission in the development of a consumer product safety standard, the Commission may agree to contribute to the person's cost with respect to such participation, in any case in which the Commission determines that such contribution is likely to result in a more satisfactory standard than would be developed without such contribution, and that the person is financially responsible. Regulations of the Commission shall set forth the items of cost in which it may participate, and shall exclude any contribution to the acquisition of land or buildings. Paymentsunder agreements entered into under this subsection may be made without regard to section 3324(a) and (b) of title 31.
 
 (Pub. L. 92–573, §7, Oct. 27, 1972, 86 Stat. 1212; Pub. L. 94–284, §§6, 7, 8(a), May 11, 1976, 90 Stat. 505, 506; Pub. L. 95–631, §§3, 4(a)–(c), 5, Nov. 10, 1978, 92 Stat. 3742–3744; Pub. L. 97–35, title XII, §1202, Aug. 13, 1981, 95 Stat. 703; Pub. L. 101–608, title I, §107(a), Nov. 16, 1990, 104 Stat. 3111.)
 
@@ -92,7 +92,7 @@ Consumer Product Safety Rule.—The provision of subsection (b) shall be conside
 
 “(b)
 
-Requirements.—Effective 6 months after the date of enactment of this Act \[July 17, 2008\], each portable gasoline container manufactured on or after that date for sale in the United States shall conform to the child-resistance requirements for closures on portable gasoline containers specified in the standard ASTM F2517-05, issued by ASTM International.
+Requirements.—Effective 6 months after the date of enactment of this Act \[July 17, 2008\], each portable gasoline container manufactured on or after that date for sale in the United States shall conform to thechild-resistance requirements for closures on portable gasoline containers specified in the standard ASTM F2517-05, issued by ASTM International.
 
 “(c)
 

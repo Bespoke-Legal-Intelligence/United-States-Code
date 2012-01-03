@@ -6,5 +6,5 @@ Any person who violates any provision of section 281 of this title or any regula
 
 #### Amendments
 
-1976—Pub. L. 94–319 inserted reference to regulations, substituted characterization of violation as offense against the United States for characterization as a misdemeanor, increased maximum fine to $1,000 from $500 and struck out provision relating to discretion of the court.
+<b>1976</b>—Pub. L. 94–319 inserted reference to regulations, substituted characterization of violation as offense against the United States for characterization as a misdemeanor, increased maximum fine to $1,000 from $500 and struck out provision relating to discretion of the court.
 

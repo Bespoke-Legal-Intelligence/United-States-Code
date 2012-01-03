@@ -76,7 +76,7 @@ Amendment by Pub. L. 110–317 applicable with respect to any sole survivorship 
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–288, §2(b)(3), Nov. 7, 2002, 116 Stat. 2036, provided that: “The amendments made by this subsection \[amending this section and section 4212 of thistitle\] shall apply with respect to contracts entered into on or after the first day of the first month that begins 12 months after the date of the enactment of this Act \[Nov. 7, 2002\].”
+Pub. L. 107–288, §2(b)(3), Nov. 7, 2002, 116 Stat. 2036, provided that: “The amendments made by this subsection \[amending this section and section 4212 of this title\] shall apply with respect to contracts entered into on or after the first day of the first month that begins 12 months after the date of the enactment of this Act \[Nov. 7, 2002\].”
 
 #### Effective Date of 1996 Amendment
 

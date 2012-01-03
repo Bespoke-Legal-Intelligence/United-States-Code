@@ -466,11 +466,9 @@
 
 #### SUBCHAPTER VI—CRIMES AGAINST CHILDREN
 
-|  |  |
-| :--- | ---: |
-| 14071\. | Jacob Wetterling Crimes Against Children and Sexually Violent Offender Registration Program. |
-| 14072\. | FBI database. |
-| 14073\. | Immunity for good faith conduct. |
+|  |
+| :--- |
+| 14071 to 14073. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

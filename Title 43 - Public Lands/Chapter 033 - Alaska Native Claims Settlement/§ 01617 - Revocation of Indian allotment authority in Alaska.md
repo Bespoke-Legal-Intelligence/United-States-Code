@@ -18,7 +18,7 @@ Any allotments approved pursuant to this section during the four years following
 
 &emsp;(iii) the Commissioner of the Department of Natural Resources for the State of Alaska, acting under the authority of State law, has agreed to reconvey or relinquish to the United States the land, or interest in land, described in the amended application.
 
-(B) If an application pending before the Department of the Interior as described in subparagraph (A) describes land selected by, but not tentatively approved to or patented to, the State of Alaska, the concurrence of the Secretary of the Interior shall be required in order for an application to proceed under this section.
+(B) If an application pending before the Department of the Interior as described in subparagraph (A) describes land selected by, but nottentatively approved to or patented to, the State of Alaska, the concurrence of the Secretary of the Interior shall be required in order for an application to proceed under this section.
 
 (2)(A) The Secretary shall accept reconveyance or relinquishment from the State of Alaska of the land described in an amended application pursuant to paragraph (1)(A), except where the land described in the amended application is State-owned land within the boundaries of a conservation system unit as defined in the Alaska National Interest Lands Conservation Act. Upon acceptance, the Secretary shall issue a Native Allotment certificate to the applicant for the land reconveyed or relinquished by the State of Alaska to the United States.
 

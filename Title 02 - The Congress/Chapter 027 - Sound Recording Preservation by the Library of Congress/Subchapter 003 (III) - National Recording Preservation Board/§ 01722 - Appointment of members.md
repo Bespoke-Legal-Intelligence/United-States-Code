@@ -60,7 +60,7 @@ The Librarian shall appoint one member of the Board to serve as Chair.
 
 #### (2) Removal of members
 
-&emsp;The Librarian shall have the authority to remove any member of the Board if the member fails, after receiving proper notification, to attend (or send a designated alternate to attend) a regularly scheduled Board meeting, or if themember is determined by the Librarian to have substantially failed to fulfill the member's responsibilities as a member of the Board.
+&emsp;The Librarian shall have the authority to remove any member of the Board if the member fails, after receiving proper notification, to attend (or send a designated alternate to attend) a regularly scheduled Board meeting, or if the member is determined by the Librarian to have substantially failed to fulfill the member's responsibilities as a member of the Board.
 
 #### (3) Vacancies
 
@@ -70,5 +70,5 @@ The Librarian shall appoint one member of the Board to serve as Chair.
 
 #### Amendments
 
-2008—Subsec. (d)(2). Pub. L. 110–336 amended par. (2) generally. Prior to amendment, text of par. (2) read as follows: “The Librarian shall have the authority to remove any member of the Board (or, in the case of a member appointed under subsection (a)(1) of this section, the organization that such member represents) if the member or organization over any consecutive 2-year period fails to attend at least one regularly scheduled Board meeting.”
+<b>2008</b>—Subsec. (d)(2). Pub. L. 110–336 amended par. (2) generally. Prior to amendment, text of par. (2) read as follows: “The Librarian shall have the authority to remove any member of the Board (or, in the case of a member appointed under subsection (a)(1) of this section, the organization that such member represents) if the member or organization over any consecutive 2-year period fails to attend at least one regularly scheduled Board meeting.”
 

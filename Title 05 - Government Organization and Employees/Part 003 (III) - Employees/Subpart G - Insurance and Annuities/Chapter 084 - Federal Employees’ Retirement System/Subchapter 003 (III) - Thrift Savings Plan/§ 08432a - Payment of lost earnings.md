@@ -28,7 +28,7 @@
 
 #### Amendments
 
-1996—Subsec. (c). Pub. L. 104–186 substituted “Chief Administrative Officer of the House of Representatives, the Chief Administrative Officer may pay from the applicable accounts” for “Clerk of the House of Representatives, the Clerk may pay from the contingent fund”.
+<b>1996</b>—Subsec. (c). Pub. L. 104–186 substituted “Chief Administrative Officer of the House of Representatives, the Chief Administrative Officer may pay from the applicable accounts” for “Clerk of the House of Representatives, the Clerk may pay from the contingent fund”.
 
 #### Effective Date
 

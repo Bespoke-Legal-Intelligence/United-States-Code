@@ -230,7 +230,7 @@ To be considered for designation renewal, an entity shall submit an application 
 
 #### (2) Exception
 
-&emsp;In a community in which there is no Indian Head Start agency available for designation to carry out an Indian Head Start program, a non-Indian Head Start agency may receive a grant to carry out an Indian Head Start program but only until such time as an Indian Head Start agency in such community becomes available and is designated pursuant to this section.
+&emsp;In a community in which there is no Indian Head Start agency available for designation to carry out an Indian Head Start program, anon-Indian Head Start agency may receive a grant to carry out an Indian Head Start program but only until such time as an Indian Head Start agency in such community becomes available and is designated pursuant to this section.
 
 #### (f) Interim provider
 
@@ -290,7 +290,7 @@ Subsec. (d)(7). Pub. L. 105–285, §107(4)(D), amended par. (7) generally. Prio
 
 Subsec. (d)(8) to (10). Pub. L. 105–285, §107(4)(E)–(G), added pars. (8) and (10) and redesignated former par. (8) as (9).
 
-Subsec. (e). Pub. L. 105–285, §107(5), added subsec. (e) and struck out former subsec. (e) which read as follows: “If, in a community served by a Head Start program, there is no applicant qualified for designation as a Head Start agency to carry out such program, the Secretary may appoint an interim grantee to carry out such program until a qualified applicant is so designated.”
+Subsec. (e). Pub. L. 105–285, §107(5), added subsec. (e) and struck out former subsec. (e) which read as follows: “If, in a community served by a Head Start program,there is no applicant qualified for designation as a Head Start agency to carry out such program, the Secretary may appoint an interim grantee to carry out such program until a qualified applicant is so designated.”
 
 Subsec. (g). Pub. L. 105–285, §107(6), added subsec. (g).
 
@@ -318,7 +318,7 @@ Subsec. (c)(3). Pub. L. 103–252, §107(b)(1), (5), redesignated concluding pro
 
 Subsec. (c)(4). Pub. L. 103–252, §107(b)(1), struck out par. (4) which read as follows: “The results of a review conducted under this subsection shall not be sufficient alone for the purpose of determining whether to continue, or to discontinue, providing funds to a particular Head Start agency.”
 
-Subsec. (d). Pub. L. 103–252, §107(c)(1)–(3)(A), in introductory provisions substituted “If no entity in a community is entitled to the priority specified in subsection (c) of this section,” for “If there is no Head Start agency as described in subsection (c)(2) of this section, and no existing Head Start program serving a community,” and struck out “Any such designationshall be governed by the program and fiscal requirements, criteria, and standards applicable on September 1, 1983, to then existing Head Start agencies.” after first sentence and “subject to the preceding sentence” after “as a Head Start agency”.
+Subsec. (d). Pub. L. 103–252, §107(c)(1)–(3)(A), in introductory provisions substituted “If no entity in a community is entitled to the priority specified in subsection (c) of this section,” for “If there is no Head Start agency as described in subsection (c)(2) of this section, and no existing Head Start program serving a community,” and struck out “Any such designation shall be governed by the program and fiscal requirements, criteria, and standards applicable on September 1, 1983, to then existing Head Start agencies.” after first sentence and “subject to the preceding sentence” after “as a Head Start agency”.
 
 Subsec. (d)(3). Pub. L. 103–252, §107(c)(3)(B), inserted “, including Even Start programs under part B of chapter 1 of title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 2741 et seq.),” after “preschool programs”.
 
@@ -359,6 +359,10 @@ Subsec. (c)(1). Pub. L. 98–558, §104(b)(2), (3), substituted “makes a findi
 Subsec. (c)(2). Pub. L. 98–558, §104(b)(4), inserted “except that” before “if”.
 
 Subsecs. (d) to (f). Pub. L. 98–558, §104(c), added subsecs. (d) and (e) and redesignated former subsec. (d) as (f).
+
+#### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Effective Date of 1994 Amendment
 

@@ -208,7 +208,7 @@ Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, s
 
 #### Effective Date
 
-Section 202 of Pub. L. 94–435 provided that: “The amendment made by section 201 of this Act \[enacting this section\] shall take effect 150 days after the date of enactment of this Act \[Sept. 30, 1976\], except that subsection (d) of section 7A of the Clayton Act \[subsec. (d)of this section\] (as added by section 201 of this Act) shall take effect on the date of enactment of this Act.”
+Pub. L. 94–435, title II, §202, Sept. 30, 1976, 90 Stat. 1394, provided that: “The amendment made by section 201 of this Act \[enacting this section\] shall take effect 150 days after the date of enactment of this Act \[Sept. 30, 1976\], except that subsection (d) of section 7A of theClayton Act \[subsec. (d) of this section\] (as added by section 201 of this Act) shall take effect on the date of enactment of this Act.”
 
 #### Assessment and Collection of Filing Fees
 

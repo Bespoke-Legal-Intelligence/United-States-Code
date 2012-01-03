@@ -6,7 +6,7 @@ The National Science Foundation is authorized to establish the Alan T. Waterman 
 
 #### (b) Purpose
 
-Awards under this section shall be made to recognize and encourage the work of younger scientists whose capabilities and accomplishments show exceptional promise of significant future achievement.
+Awards under this section shall be made to recognize and encourage the work of youngerscientists whose capabilities and accomplishments show exceptional promise of significant future achievement.
 
 #### (c) Number
 

@@ -30,5 +30,5 @@ A prior section 551 of Pub. L. 95–619 was classified to section 8261 of this t
 
 <b>1998</b>—Par. (8). Pub. L. 105–388 substituted “geothermal” for “goethermal”.
 
-<b>1988</b>—Pub. L. 100–615 amended section generally, substituting provisions relating to definitions for Federalenergy management for former provision relating to budget treatment of energy conserving improvements by Federal agencies.
+<b>1988</b>—Pub. L. 100–615 amended section generally, substituting provisions relating to definitions for Federal energy management for former provision relating to budget treatment of energy conserving improvements by Federal agencies.
 

@@ -14,7 +14,7 @@ The Secretary shall establish a Medicare coverage gap discount program (in this 
 
 #### (B) Provision of discounted prices at the point-of-sale
 
-&emsp;&emsp;Except as provided in subsection (c)(1)(A)(iii), such discounted prices shall be provided to the applicable beneficiary at thepharmacy or by the mail order service at the point-of-sale of an applicable drug.
+&emsp;&emsp;Except as provided in subsection (c)(1)(A)(iii), such discounted prices shall be provided to the applicable beneficiary at the pharmacy or by the mail order service at the point-of-sale of an applicable drug.
 
 #### (C) Timing of agreement
 
@@ -138,7 +138,7 @@ The Secretary shall establish a Medicare coverage gap discount program (in this 
 
 #### (4) Performance requirements
 
-&emsp;The Secretary shall establish performance requirements for a third party with a contract under paragraph (3) and safeguards to protect the independence and integrity of the activities carried out by the third party under the program under this section.
+&emsp;The Secretary shall establish performance requirements for a third party with a contractunder paragraph (3) and safeguards to protect the independence and integrity of the activities carried out by the third party under the program under this section.
 
 #### (5) Implementation
 
@@ -166,7 +166,7 @@ The Secretary shall establish a Medicare coverage gap discount program (in this 
 
 #### (B) Application
 
-&emsp;&emsp;The provisions of section 1320a–7a of this title (other than subsections (a) and (b))shall apply to a civil money penalty under this paragraph in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
+&emsp;&emsp;The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under this paragraph in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
 
 #### (f) Clarification regarding availability of other covered part D drugs
 
@@ -228,7 +228,7 @@ In this section:
 
 #### (5) Manufacturer
 
-&emsp;The term “manufacturer” means any entity which is engaged in the production, preparation, propagation, compounding, conversion, or processing of prescription drug products, either directly or indirectly by extraction from substances of natural origin, or independently by means of chemical synthesis, or by a combination of extraction and chemical synthesis. Such term does not include a wholesale distributor of drugs or a retail pharmacy licensed under State law.
+&emsp;The term “manufacturer” means any entity which is engaged in the production, preparation, propagation, compounding, conversion, or processing of prescription drug products, either directly or indirectly by extraction fromsubstances of natural origin, or independently by means of chemical synthesis, or by a combination of extraction and chemical synthesis. Such term does not include a wholesale distributor of drugs or a retail pharmacy licensed under State law.
 
 #### (6) Negotiated price
 
@@ -248,7 +248,7 @@ Subsec. (b)(1)(C)(i). Pub. L. 111–152, §1101(b)(2)(B)(i), which directed the 
 
 Pub. L. 111–152, §1101(b)(2)(B)(ii), (iii), substituted “January 1, 2011” for “July 1, 2010” and “not later than 30 days after the date of the establishment of a model agreement under subsection (a)” for “May 1, 2010”.
 
-Subsec. (c)(1)(A)(iii). Pub. L. 111–152, §1101(b)(2)(C)(i), substituted “January 1, 2011, and ending on December31, 2011” for “July 1, 2010, and ending on December 31, 2011”.
+Subsec. (c)(1)(A)(iii). Pub. L. 111–152, §1101(b)(2)(C)(i), substituted “January 1, 2011, and ending on December 31, 2011” for “July 1, 2010, and ending on December 31, 2011”.
 
 Subsec. (c)(2). Pub. L. 111–152, §1101(b)(2)(C)(ii), substituted “2011” for “2010”.
 

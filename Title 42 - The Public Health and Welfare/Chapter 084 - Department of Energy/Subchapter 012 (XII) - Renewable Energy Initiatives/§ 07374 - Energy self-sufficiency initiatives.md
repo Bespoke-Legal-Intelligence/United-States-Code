@@ -14,11 +14,11 @@ As a part of the pilot program, the Secretary shall establish such subprograms a
 
 &emsp;(3) to stimulate private industry participation in the realization of the objective stated in subsection (a) of this section; and
 
-&emsp;(4) to stimulate the utilization of abandoned or underutilized industrial facilities for thegeneration of energy from any locally available renewable resource, such as municipal solid waste, agricultural waste, or forest products waste.
+&emsp;(4) to stimulate the utilization of abandoned or underutilized industrial facilities for the generation of energy from any locally available renewable resource, such as municipal solid waste, agricultural waste, or forest products waste.
 
 #### (c) Implementation of subprograms; preparation of plan of program and additional Federal actions
 
-In carrying out the provisions of this section, the Secretary is authorized to assign to an existing office in the Department of Energy the responsibility of undertaking and carrying out the subprograms established under subsection (b) of this section. In addition, the Secretary shall prepare a detailed plan within one hundred eighty days of June 30, 1980, setting forth (1) the 3-year pilot program itself, and (2) any additional Federal actions needed to encourage and promote the adoption of programs for energy self-sufficiency.
+In carrying out the provisions of this section, the Secretary is authorized to assign to an existing office in the Department of Energy the responsibility of undertaking and carrying out the subprograms established under subsection (b) of this section. In addition, the Secretary shall prepare a detailed plan within one hundredeighty days of June 30, 1980, setting forth (1) the 3-year pilot program itself, and (2) any additional Federal actions needed to encourage and promote the adoption of programs for energy self-sufficiency.
 
 #### (d) Submission of plan and implementation report to Congress
 

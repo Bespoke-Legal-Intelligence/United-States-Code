@@ -20,6 +20,7 @@
 | [1074j.](%C2%A7%2001074j%20-%20Sub-acute%20care%20program.md) | Sub-acute care program. |
 | [1074k.](%C2%A7%2001074k%20-%20Long-term%20care%20insurance.md) | Long-term care insurance. |
 | 1074<i>l.</i> | Notification to Congress of hospitalization of combat wounded members. |
+| [1074m.](%C2%A7%2001074m%20-%20Mental%20health%20assessments%20for%20members%20of%20the%20armed%20forces%20deployed%20in%20support%20of%20a%20contingency%20operation.md) | Mental health assessments for members of the armed forces deployed in support of a contingency operation. |
 | \[1075. | Repealed.\] |
 | [1076\.](%C2%A7%2001076%20-%20Medical%20and%20dental%20care%20for%20dependents%20general%20rule.md) | Medical and dental care for dependents: general rule. |
 | [1076a.](%C2%A7%2001076a%20-%20TRICARE%20dental%20program.md) | TRICARE dental program. |
@@ -30,6 +31,7 @@
 | [1077\.](%C2%A7%2001077%20-%20Medical%20care%20for%20dependents%20authorized%20care%20in%20facilities%20of%20uniformed%20services.md) | Medical care for dependents: authorized care in facilities of uniformed services. |
 | [1078\.](%C2%A7%2001078%20-%20Medical%20and%20dental%20care%20for%20dependents%20charges.md) | Medical and dental care for dependents: charges. |
 | [1078a.](%C2%A7%2001078a%20-%20Continued%20health%20benefits%20coverage.md) | Continued health benefits coverage. |
+| [1078b.](%C2%A7%2001078b%20-%20Provision%20of%20food%20to%20certain%20members%20and%20dependents%20not%20receiving%20inpatient%20care%20in%20military%20medical%20treatment%20facilities.md) | Provision of food to certain members and dependents not receiving inpatient care in military medical treatment facilities. |
 | [1079\.](%C2%A7%2001079%20-%20Contracts%20for%20medical%20care%20for%20spouses%20and%20children%20plans.md) | Contracts for medical care for spouses and children: plans. |
 | [1079a.](%C2%A7%2001079a%20-%20CHAMPUS%20treatment%20of%20refunds%20and%20other%20amounts%20collected.md) | CHAMPUS: treatment of refunds and other amounts collected. |
 | [1079b.](%C2%A7%2001079b%20-%20Procedures%20for%20charging%20fees%20for%20care%20provided%20to%20civilians%3B%20retention%20and%20use%20of%20fees%20collected.md) | Procedures for charging fees for care provided to civilians; retention and use of fees collected. |
@@ -46,6 +48,7 @@
 | [1088\.](%C2%A7%2001088%20-%20Air%20evacuation%20patients%20furnished%20subsistence.md) | Air evacuation patients: furnished subsistence. |
 | [1089\.](%C2%A7%2001089%20-%20Defense%20of%20certain%20suits%20arising%20out%20of%20medical%20malpractice.md) | Defense of certain suits arising out of medical malpractice. |
 | [1090\.](%C2%A7%2001090%20-%20Identifying%20and%20treating%20drug%20and%20alcohol%20dependence.md) | Identifying and treating drug and alcohol dependence. |
+| [1090a.](%C2%A7%2001090a%20-%20Commanding%20officer%20and%20supervisor%20referrals%20of%20members%20for%20mental%20health%20evaluations.md) | Commanding officer and supervisor referrals of members for mental health evaluations. |
 | [1091\.](%C2%A7%2001091%20-%20Personal%20services%20contracts.md) | Personal services contracts. |
 | [1092\.](%C2%A7%2001092%20-%20Studies%20and%20demonstration%20projects%20relating%20to%20delivery%20of%20health%20and%20medical%20care.md) | Studies and demonstration projects relating to delivery of health and medical care. |
 | [1092a.](%C2%A7%2001092a%20-%20Persons%20entering%20the%20armed%20forces%20baseline%20health%20data.md) | Persons entering the armed forces: baseline health data. |
@@ -85,7 +88,9 @@
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 111–383, div. A, title VII, §702(a)(2), Jan. 7, 2011, 124 Stat. 4245, added item 1110b.
+<b>2011</b>—Pub. L. 112–81, div. A, title VII, §§702(a)(2), 704(b), 711(a)(2), Dec. 31, 2011, 125 Stat. 1471, 1473, 1476, added items 1074m, 1078b, and 1090a.
+
+Pub. L. 111–383, div. A, title VII, §702(a)(2), Jan. 7, 2011, 124 Stat. 4245, added item 1110b.
 
 <b>2009</b>—Pub. L. 111–84, div. A, title VII, §§705(b), 707(b), Oct. 28, 2009, 123 Stat. 2375, 2376, added items 1076e and 1110a.
 
@@ -117,7 +122,7 @@ Pub. L. 108–106, title I, §1115(b), Nov. 6, 2003, 117 Stat. 1218, added item 
 
 Pub. L. 104–106, div. A, title VII, §§705(a)(2), 735(d)(2), 738(b)(2), Feb. 10, 1996, 110 Stat. 373, 383, added item 1076b and substituted “Performance of abortions: restrictions” for “Restriction on use of funds for abortions” in item 1093 and “Defense Health Program Account” for “Military Health Care Account” in item 1100.
 
-<b>1993</b>—Pub. L. 103–160, div. A, title VII, §§701(a)(2), 712(a)(2), 714(b)(2), 716(a)(2), Nov. 30, 1993, 107 Stat. 1686, 1689, 1690, 1692, added item 1074d, substituted “Personal services contracts” for “Contracts for direct health care providers” in item 1091 and “Resource allocation methods: capitation or diagnosis-related groups” for “Diagnosis-related groups” in item 1101, added item 1105, and struck out former item 1105 “Issuance of nonavailability of health care statements”.
+<b>1993</b>—Pub. L. 103–160, div. A, title VII, §§701(a)(2), 712(a)(2), 714(b)(2), 716(a)(2), Nov. 30, 1993, 107 Stat. 1686, 1689, 1690, 1692, added item 1074d, substituted “Personal services contracts” for “Contracts for direct healthcare providers” in item 1091 and “Resource allocation methods: capitation or diagnosis-related groups” for “Diagnosis-related groups” in item 1101, added item 1105, and struck out former item 1105 “Issuance of nonavailability of health care statements”.
 
 <b>1992</b>—Pub. L. 102–484, div. D, title XLIV, §4408(a)(2), Oct. 23, 1992, 106 Stat. 2712, added item 1078a.
 
@@ -180,6 +185,7 @@ Pub. L. 99–272, title II, §2001(a)(2), Apr. 7, 1986, 100 Stat. 101, added ite
 - [&sect; 01074j - Sub-acute care program](%C2%A7%2001074j%20-%20Sub-acute%20care%20program.md)
 - [&sect; 01074k - Long-term care insurance](%C2%A7%2001074k%20-%20Long-term%20care%20insurance.md)
 - [&sect; 01074l - Notification to Congress of hospitalization of combat wounded members](%C2%A7%2001074l%20-%20Notification%20to%20Congress%20of%20hospitalization%20of%20combat%20wounded%20members.md)
+- [&sect; 01074m - Mental health assessments for members of the armed forces deployed in support of a contingency operation](%C2%A7%2001074m%20-%20Mental%20health%20assessments%20for%20members%20of%20the%20armed%20forces%20deployed%20in%20support%20of%20a%20contingency%20operation.md)
 - [&sect; 01075 - Repealed. Pub. L. 108&#8211;375, div. A, title VI, &sect;607(a)(1), Oct. 28, 2004, 118 Stat. 1946](%C2%A7%2001075%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93375%2C%20div.%20A%2C%20title%20VI%2C%20%C2%A7607%28a%29%281%29%2C%20Oct.%2028%2C%202004%2C%20118%20Stat.%201946.md)
 - [&sect; 01076 - Medical and dental care for dependents general rule](%C2%A7%2001076%20-%20Medical%20and%20dental%20care%20for%20dependents%20general%20rule.md)
 - [&sect; 01076a - TRICARE dental program](%C2%A7%2001076a%20-%20TRICARE%20dental%20program.md)
@@ -190,6 +196,7 @@ Pub. L. 99–272, title II, §2001(a)(2), Apr. 7, 1986, 100 Stat. 101, added ite
 - [&sect; 01077 - Medical care for dependents authorized care in facilities of uniformed services](%C2%A7%2001077%20-%20Medical%20care%20for%20dependents%20authorized%20care%20in%20facilities%20of%20uniformed%20services.md)
 - [&sect; 01078 - Medical and dental care for dependents charges](%C2%A7%2001078%20-%20Medical%20and%20dental%20care%20for%20dependents%20charges.md)
 - [&sect; 01078a - Continued health benefits coverage](%C2%A7%2001078a%20-%20Continued%20health%20benefits%20coverage.md)
+- [&sect; 01078b - Provision of food to certain members and dependents not receiving inpatient care in military medical treatment facilities](%C2%A7%2001078b%20-%20Provision%20of%20food%20to%20certain%20members%20and%20dependents%20not%20receiving%20inpatient%20care%20in%20military%20medical%20treatment%20facilities.md)
 - [&sect; 01079 - Contracts for medical care for spouses and children plans](%C2%A7%2001079%20-%20Contracts%20for%20medical%20care%20for%20spouses%20and%20children%20plans.md)
 - [&sect; 01079a - CHAMPUS treatment of refunds and other amounts collected](%C2%A7%2001079a%20-%20CHAMPUS%20treatment%20of%20refunds%20and%20other%20amounts%20collected.md)
 - [&sect; 01079b - Procedures for charging fees for care provided to civilians; retention and use of fees collected](%C2%A7%2001079b%20-%20Procedures%20for%20charging%20fees%20for%20care%20provided%20to%20civilians%3B%20retention%20and%20use%20of%20fees%20collected.md)
@@ -206,6 +213,7 @@ Pub. L. 99–272, title II, §2001(a)(2), Apr. 7, 1986, 100 Stat. 101, added ite
 - [&sect; 01088 - Air evacuation patients furnished subsistence](%C2%A7%2001088%20-%20Air%20evacuation%20patients%20furnished%20subsistence.md)
 - [&sect; 01089 - Defense of certain suits arising out of medical malpractice](%C2%A7%2001089%20-%20Defense%20of%20certain%20suits%20arising%20out%20of%20medical%20malpractice.md)
 - [&sect; 01090 - Identifying and treating drug and alcohol dependence](%C2%A7%2001090%20-%20Identifying%20and%20treating%20drug%20and%20alcohol%20dependence.md)
+- [&sect; 01090a - Commanding officer and supervisor referrals of members for mental health evaluations](%C2%A7%2001090a%20-%20Commanding%20officer%20and%20supervisor%20referrals%20of%20members%20for%20mental%20health%20evaluations.md)
 - [&sect; 01091 - Personal services contracts](%C2%A7%2001091%20-%20Personal%20services%20contracts.md)
 - [&sect; 01092 - Studies and demonstration projects relating to delivery of health and medical care](%C2%A7%2001092%20-%20Studies%20and%20demonstration%20projects%20relating%20to%20delivery%20of%20health%20and%20medical%20care.md)
 - [&sect; 01092a - Persons entering the armed forces baseline health data](%C2%A7%2001092a%20-%20Persons%20entering%20the%20armed%20forces%20baseline%20health%20data.md)

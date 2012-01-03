@@ -28,11 +28,11 @@ An applicant for naturalization who moves from the district of the Service in th
 
 #### Amendments
 
-1991—Subsec. (b). Pub. L. 102–232 substituted “district court” for “District Court”.
+<b>1991</b>—Subsec. (b). Pub. L. 102–232 substituted “district court” for “District Court”.
 
-1990—Pub. L. 101–649, §407(d)(13)(A), substituted “Investigation of applicants; examination of applications” for “Investigation of petitioners” in section catchline.
+<b>1990</b>—Pub. L. 101–649, §407(d)(13)(A), substituted “Investigation of applicants; examination of applications” for “Investigation of petitioners” in section catchline.
 
-Subsec. (a). Pub. L. 101–649, §407(c)(16), (d)(13)(B), substituted “Before a person may be naturalized” for “At any time prior to the holding of the final hearing on a petition for naturalization provided for by section 1447(a) of this title”, “applying” for “petitioning”, and “application” for “petition”.
+Subsec. (a). Pub. L. 101–649, §407(c)(16), (d)(13)(B), substituted “Before a person may be naturalized” for “At any time prior to the holding of the final hearing on apetition for naturalization provided for by section 1447(a) of this title”, “applying” for “petitioning”, and “application” for “petition”.
 
 Subsec. (b). Pub. L. 101–649, §407(c)(16), (d)(13)(C), substituted “applications” for “petitions” and “applicant” for “petitioner” wherever appearing, struck out “preliminary” before “examinations” and before “examination”, struck out “to any naturalization court and to make recommendations thereon to such court” before period at end of first sentence, substituted “any District Court of the United States” for “any court exercising naturalization jurisdiction as specified in section 1421 of this title”, and substituted “hearing conducted by an immigration officer under section 1447(a) of this title” for “final hearing conducted by a naturalization court designated in section 1421 of this title”.
 
@@ -42,11 +42,11 @@ Subsec. (c). Pub. L. 101–649, §407(c)(16), (d)(13)(D), struck out “prelimin
 
 Subsecs. (d) to (f). Pub. L. 101–649, §407(d)(13)(E), amended subsecs. (d) to (f) generally, substituting provisions relating to determinations, withdrawal of application, and transfer of application, for provisions relating to recommendations, withdrawal of petition, and transfer of petition, respectively.
 
-1988—Subsec. (d). Pub. L. 100–525, §9(aa), substituted “approves” for “approve” in fourth sentence.
+<b>1988</b>—Subsec. (d). Pub. L. 100–525, §9(aa), substituted “approves” for “approve” in fourth sentence.
 
 Subsec. (f)(2). Pub. L. 100–525, §9(bb), struck out before period at end “, except that the court to which the petition is transferred may in its discretion, require the production of two credible United States citizen witnesses to testify as to the petitioner's qualifications for naturalization since the date of such transfer”.
 
-1981—Subsec. (b). Pub. L. 97–116, §15(c)(1), struck out “and the oaths of petitioner's witnesses to the petition for naturalization” after “oath of the petitioner for naturalization”.
+<b>1981</b>—Subsec. (b). Pub. L. 97–116, §15(c)(1), struck out “and the oaths of petitioner's witnesses to the petition for naturalization” after “oath of the petitioner for naturalization”.
 
 Subsec. (f). Pub. L. 97–116, §15(c)(2), (3), redesignated subsec. (i) as (f) and struck out former subsec. (f) which required affidavits of at least two credible witnesses, citizens of the United States, concerning the residency and the good moral character, etc., of the petitioner.
 

@@ -22,15 +22,15 @@ Any seven or more natural persons who desire to form a Federal credit union shal
 
 #### Amendments
 
-1982—Pub. L. 97–320, §503, substituted “each subscribe either individually or collectively” for “subscribe”.
+<b>1982</b>—Pub. L. 97–320, §503, substituted “each subscribe either individually or collectively” for “subscribe”.
 
 Par. (4). Pub. L. 97–320, §504, substituted “the initial par value of the shares” for “the par value of the shares, which shall be $5 each”.
 
-1978—Pub. L. 95–630 substituted “Board” for “Administrator”.
+<b>1978</b>—Pub. L. 95–630 substituted “Board” for “Administrator”.
 
-1970—Pub. L. 91–206 substituted “Administrator” for “Director”.
+<b>1970</b>—Pub. L. 91–206 substituted “Administrator” for “Director”.
 
-1959—Pub. L. 86–354 changed “The” to “the” in subsecs. (1) to (7) and the period to a semicolon in subsecs. (1) to (6) and inserted “and” at end of subsec. (6).
+<b>1959</b>—Pub. L. 86–354 changed “The” to “the” in subsecs. (1) to (7) and the period to a semicolon in subsecs. (1) to (6) and inserted “and” at end of subsec. (6).
 
 #### Effective Date of 1978 Amendment
 

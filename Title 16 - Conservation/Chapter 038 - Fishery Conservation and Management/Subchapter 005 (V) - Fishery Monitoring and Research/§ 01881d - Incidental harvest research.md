@@ -34,7 +34,7 @@ The Secretary shall, within one year of completing the programs required by this
 
 #### (f) Implementation criteria
 
-To the extent practicable, any conservation and management measure implemented underthis chapter to reduce the incidental mortality of bycatch in the course of shrimp trawl fishing shall be consistent with—
+To the extent practicable, any conservation and management measure implemented under this chapter to reduce the incidental mortality of bycatch in the course of shrimp trawl fishing shall be consistent with—
 
 &emsp;(1) measures applicable to fishing throughout the range in United States waters of the bycatch species concerned; and
 

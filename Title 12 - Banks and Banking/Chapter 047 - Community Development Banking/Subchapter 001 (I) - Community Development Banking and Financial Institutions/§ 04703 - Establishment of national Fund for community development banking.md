@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(A) appoint and terminate the individuals referred to in paragraphs (2) and (3) without regard to the civil service laws and regulations; and
 
-&emsp;&emsp;(B) fix the compensation of the individuals referred to in paragraph (3) without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5 relating to classification of positions and General Schedule pay rates, except that the rate ofpay for such individuals may not exceed the rate payable for level V of the Executive Schedule under section 5316 of such title.
+&emsp;&emsp;(B) fix the compensation of the individuals referred to in paragraph (3) without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5 relating to classification of positions and General Schedule pay rates, except that the rate of pay for such individuals may not exceed the rate payable for level V of the Executive Schedule under section 5316 of such title.
 
 #### (c) General powers
 
@@ -86,7 +86,7 @@ In carrying out the functions of the Fund, the Administrator—
 
 #### (3) Chairperson
 
-&emsp;The members of the Board specified in paragraph (2)(G) shall select, by majority vote, a chairperson of the Board, who shall serve for a term of 2 years.
+&emsp;The members of the Board specified in paragraph (2)(G) shall select, by majority vote, achairperson of the Board, who shall serve for a term of 2 years.
 
 #### (4) Board function
 
@@ -180,11 +180,7 @@ A community development financial institution or other organization that receive
 
 #### References in Text
 
-The civil service laws, referred to in subsecs. (b)(4)(A) and (k)(4)(A), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
-
 The Federal Advisory Committee Act, referred to in subsec. (d)(1), (7), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5.
-
-Federal tax law, referred to in subsec. (g), is classified generally to Title 26, Internal Revenue Code.
 
 #### Codification
 

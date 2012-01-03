@@ -12,7 +12,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 764 of the House amendment is derived from the House bill.
 
@@ -30,11 +30,11 @@ Subsection (c) insulates variation margin payments and other deposits from the a
 
 #### Amendments
 
-2009—Subsec. (b). Pub. L. 111–16 substituted “seven days” for “five days” in introductory provisions.
+<b>2009</b>—Subsec. (b). Pub. L. 111–16 substituted “seven days” for “five days” in introductory provisions.
 
-1984—Subsec. (a). Pub. L. 98–353 substituted “any transfer by the debtor” for “any transfer”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–353 substituted “any transfer by the debtor” for “any transfer”.
 
-1982—Subsec. (a). Pub. L. 97–222, §17(a), substituted “but” for “except”, inserted “such property” after “trustee, and”, and substituted “shall be” for “is” wherever appearing.
+<b>1982</b>—Subsec. (a). Pub. L. 97–222, §17(a), substituted “but” for “except”, inserted “such property” after “trustee, and”, and substituted “shall be” for “is” wherever appearing.
 
 Subsec. (b). Pub. L. 97–222, §17(b), substituted “order for relief” for “date of the filing of the petition”.
 

@@ -1,6 +1,6 @@
 ### \[§1071. Repealed. Pub. L. 104–7, §2(a), Apr. 11, 1995, 109 Stat. 93\]
 
-Section, acts Aug. 16, 1954, ch. 736, 68A Stat. 311; Sept. 2, 1958, Pub. L. 85–866, title I, §48(a), 72 Stat. 1642; Oct. 4, 1976, Pub. L. 94–455, title XIX, §§1901(b)(31)(E), 1906(b)(13)(A), 90 Stat. 1800, 1834, provided for nonrecognition on FCC certified sales and exchanges.
+Section, acts Aug. 16, 1954, ch. 736, 68A Stat. 311; Sept. 2, 1958, Pub. L. 85–866, title I, §48(a), 72 Stat. 1642; Oct. 4, 1976, Pub. L. 94–455, title XIX, §§1901(b)(31)(E),1906(b)(13)(A), 90 Stat. 1800, 1834, provided for nonrecognition on FCC certified sales and exchanges.
 
 #### Effective Date of Repeal
 
@@ -28,7 +28,7 @@ Sales contingent on issuance of certificate.—
 
 &emsp;&emsp;“(i)
 
-In general.—A contract shall be treated as not binding for purposes of subparagraph (A) if thesale or exchange pursuant to such contract, or the material terms of such contract, were contingent, at any time on January 16, 1995, on the issuance of an FCC tax certificate. The preceding sentence shall not apply if the FCC tax certificate for such sale or exchange is issued on or before January 16, 1995.
+In general.—A contract shall be treated as not binding for purposes of subparagraph (A) if the sale or exchange pursuant to such contract, or the material terms of such contract, were contingent, at any time on January 16, 1995, on the issuance of an FCC tax certificate. The preceding sentence shall not apply if the FCC tax certificate for such sale or exchange is issued on or before January 16, 1995.
 
 &emsp;&emsp;“(ii)
 

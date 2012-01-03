@@ -28,7 +28,7 @@ A summons issued under section 6420(e)(2), 6421(g)(2), 6427(j)(2), or 7602 shall
 
 &emsp;&emsp;(G) any barter exchange (as defined in section 6045(c)(3)),
 
-&emsp;&emsp;(H) any regulated investment company (as defined in section 851) and any agent of suchregulated investment company when acting as an agent thereof,
+&emsp;&emsp;(H) any regulated investment company (as defined in section 851) and any agent of such regulated investment company when acting as an agent thereof,
 
 &emsp;&emsp;(I) any enrolled agent, and
 

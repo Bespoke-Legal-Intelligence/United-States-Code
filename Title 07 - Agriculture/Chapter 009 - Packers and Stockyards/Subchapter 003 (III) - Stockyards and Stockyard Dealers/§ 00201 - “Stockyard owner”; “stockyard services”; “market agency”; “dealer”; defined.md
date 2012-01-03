@@ -14,7 +14,7 @@ When used in this chapter—
 
 #### Amendments
 
-1976—Subsecs. (b) to (d). Pub. L. 94–410 substituted “livestock” for “live stock”.
+<b>1976</b>—Subsecs. (b) to (d). Pub. L. 94–410 substituted “livestock” for “live stock”.
 
-1958—Subsecs. (c), (d). Pub. L. 85–909 struck out “at a stockyard” after “livestock”.
+<b>1958</b>—Subsecs. (c), (d). Pub. L. 85–909 struck out “at a stockyard” after “livestock”.
 

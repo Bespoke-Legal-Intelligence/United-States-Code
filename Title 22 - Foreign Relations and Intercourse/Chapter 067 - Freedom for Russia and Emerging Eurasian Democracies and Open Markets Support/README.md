@@ -13,7 +13,7 @@
 | [5811\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2005811%20-%20Findings.md) | Findings. |
 | [5812\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2005812%20-%20Program%20coordination%2C%20implementation%2C%20and%20oversight.md) | Program coordination, implementation, and oversight. |
 | [5813\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2005813%20-%20Report%20on%20overall%20assistance%20and%20economic%20cooperation%20strategy.md) | Report on overall assistance and economic cooperation strategy. |
-| [5814\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2005814%20-%20Annual%20report.md) | Annual report. |
+| [5814\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2005814%20-%20Repealed.%20Pub.%20L.%20112%E2%80%9374%2C%20div.%20I%2C%20title%20VII%2C%20%C2%A77034%28n%29%2C%20Dec.%2023%2C%202011%2C%20125%20Stat.%201217.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

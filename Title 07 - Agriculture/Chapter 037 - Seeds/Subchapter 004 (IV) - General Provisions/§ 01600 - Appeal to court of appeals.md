@@ -18,9 +18,9 @@ If the court of appeals affirms or modifies the order of the Secretary, its decr
 
 #### Amendments
 
-1984—Pub. L. 98–620 in fourth par., struck out provisions requiring proceedings in such cases in the court of appeals to be made a preferred cause and expedited in every way.
+<b>1984</b>—Pub. L. 98–620 in fourth par., struck out provisions requiring proceedings in such cases in the court of appeals to be made a preferred cause and expedited in every way.
 
-1958—Pub. L. 85–791 substituted, in first sentence of second par., “thereupon file in the court the record in such proceedings as provided in section 2112 of title 28” for “forthwith prepare, certify, and file in the court a full and accurate transcript of the record in such proceedings, including the complaint, the evidence, and the report and order”, substituted, in second sentence of second par., “record” for “transcript”, substituted in third par., “petition” for “transcript”, and struck out, in fourth par., “, duly certified” after “admitted”.
+<b>1958</b>—Pub. L. 85–791 substituted, in first sentence of second par., “thereupon file in the court the record in such proceedings as provided in section 2112 of title 28” for “forthwith prepare, certify, and file in the court a full and accurate transcript of the record in such proceedings, including the complaint, the evidence, and the report and order”, substituted, in second sentence of second par., “record” for “transcript”, substituted in third par., “petition” for “transcript”, and struck out, in fourth par., “, duly certified” after “admitted”.
 
 #### Change of Name
 

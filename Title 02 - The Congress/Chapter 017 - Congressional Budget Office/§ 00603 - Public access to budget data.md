@@ -18,7 +18,7 @@ Subsection (a) of this section shall not apply to information, data, estimates, 
 
 &emsp;&emsp;(A) matters necessary to be kept secret in the interests of national defense or the confidential conduct of the foreign relations of the United States;
 
-&emsp;&emsp;(B) information relating to trade secrets or financial or commercial information pertaining specifically to a given person if the information has been obtained by the Government on a confidential basis, other than through an application by such person for a specific financial or other benefit, and is required to be kept secret in order to prevent undue injury to the competitive position of such person; or
+&emsp;&emsp;(B) information relating to trade secrets or financial or commercial information pertaining specifically to a given person if the information has been obtained by the Government on a confidential basis, other thanthrough an application by such person for a specific financial or other benefit, and is required to be kept secret in order to prevent undue injury to the competitive position of such person; or
 
 &emsp;&emsp;(C) personnel or medical data or similar data the disclosure of which would constitute a clearly unwarranted invasion of personal privacy;
 
@@ -30,13 +30,13 @@ Subsection (a) of this section shall apply to any information, data, estimates, 
 
 #### (e) Level of confidentiality
 
-With respect to information, data, estimates, and statistics obtained under sections 601(d) and 601(e) of this title, the Director shall maintain the same level of confidentiality as is required by law of the department, agency, establishment, or regulatory agency or commission from which it is obtained. Officers and employees of the Congressional Budget Office shall be subject to the same statutory penalties for unauthorizeddisclosure or use as officers or employees of the department, agency, establishment, or regulatory agency or commission from which it is obtained.
+With respect to information, data, estimates, and statistics obtained under sections 601(d) and 601(e) of this title, the Director shall maintain the same level of confidentiality as is required by law of the department, agency, establishment, or regulatory agency or commission from which it is obtained. Officers and employees of the Congressional Budget Office shall be subject to the same statutory penalties for unauthorized disclosure or use as officers or employees of the department, agency, establishment, or regulatory agency or commission from which it is obtained.
 
 (Pub. L. 93–344, title II, §203, July 12, 1974, 88 Stat. 305; Pub. L. 106–554, §1(a)(7) \[title III, §310(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–639.)
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–554, §1(a)(7) \[title III, §310(b)(2)\], substituted “subsections (c), (d), and (e)” for “subsections (c) and (d)”.
+<b>2000</b>—Subsec. (a). Pub. L. 106–554, §1(a)(7) \[title III, §310(b)(2)\], substituted “subsections (c), (d), and (e)” for “subsections (c) and (d)”.
 
 Subsec. (e). Pub. L. 106–554, §1(a)(7) \[title III, §310(b)(1)\], added subsec. (e).
 

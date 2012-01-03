@@ -27,9 +27,10 @@
 | 1701<i>o.</i> | Annual report of Secretary. |
 | [1701p.](%C2%A7%2001701p%20-%20Contents%20of%20report%20to%20President%20and%20Congress.md) | Contents of report to President and Congress. |
 | 1701p–1. | Periodic report on residential mortgage delinquencies and foreclosures. |
+| 1701p–2. | Default and foreclosure database. |
 | [1701q.](%C2%A7%2001701q%20-%20Supportive%20housing%20for%20the%20elderly.md) | Supportive housing for the elderly. |
 | 1701q–1. | Civil money penalties against mortgagors under section 1701q of this title. |
-| 1701q–2. | Grants for conversion of elderly housing to assisted living facilities. |
+| 1701q–2. | Grants for conversion of elderly housing to assisted living facilities and other purposes. |
 | 1701q–3. | Funds for housing for elderly and persons with disabilities available for cost of maintenance and disposal of such properties. |
 | [1701r.](%C2%A7%2001701r%20-%20Congressional%20findings%20respecting%20housing%20for%20senior%20citizens.md) | Congressional findings respecting housing for senior citizens. |
 | 1701r–1. | Pet ownership in assisted rental housing for the elderly or handicapped. |
@@ -39,6 +40,8 @@
 | [1701v.](%C2%A7%2001701v%20-%20Congressional%20findings%20and%20declaration%20for%20improved%20architectural%20design%20in%20Government%20housing%20programs.md) | Congressional findings and declaration for improved architectural design in Government housing programs. |
 | [1701w.](%C2%A7%2001701w%20-%20Budget%2C%20debt%20management%2C%20and%20related%20counseling%20services%20for%20mortgagors%3B%20authorization%20of%20appropriations.md) | Budget, debt management, and related counseling services for mortgagors; authorization of appropriations. |
 | [1701x.](%C2%A7%2001701x%20-%20Assistance%20with%20respect%20to%20housing%20for%20low-%20and%20moderate-income%20families.md) | Assistance with respect to housing for low- and moderate-income families. |
+| 1701x–1. | Home inspection counseling. |
+| 1701x–2. | Legal assistance for foreclosure-related issues. |
 | [1701y.](%C2%A7%2001701y%20-%20National%20Homeownership%20Foundation.md) | National Homeownership Foundation. |
 | [1701z.](%C2%A7%2001701z%20-%20New%20technologies%20in%20the%20development%20of%20housing%20for%20lower%20income%20families.md) | New technologies in the development of housing for lower income families. |
 | 1701z–1. | Research and demonstrations; authorization of appropriations; continuing availability of funds. |
@@ -387,8 +390,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
 
 ---
 
@@ -426,9 +427,10 @@
 - [&sect; 01701o - Annual report of Secretary](%C2%A7%2001701o%20-%20Annual%20report%20of%20Secretary.md)
 - [&sect; 01701p - Contents of report to President and Congress](%C2%A7%2001701p%20-%20Contents%20of%20report%20to%20President%20and%20Congress.md)
 - [&sect; 01701p&#8211;1 - Periodic report on residential mortgage delinquencies and foreclosures](%C2%A7%2001701p%E2%80%931%20-%20Periodic%20report%20on%20residential%20mortgage%20delinquencies%20and%20foreclosures.md)
+- [&sect; 01701p&#8211;2 - Default and foreclosure database](%C2%A7%2001701p%E2%80%932%20-%20Default%20and%20foreclosure%20database.md)
 - [&sect; 01701q - Supportive housing for the elderly](%C2%A7%2001701q%20-%20Supportive%20housing%20for%20the%20elderly.md)
 - [&sect; 01701q&#8211;1 - Civil money penalties against mortgagors under section 1701q of this title](%C2%A7%2001701q%E2%80%931%20-%20Civil%20money%20penalties%20against%20mortgagors%20under%20section%201701q%20of%20this%20title.md)
-- [&sect; 01701q&#8211;2 - Grants for conversion of elderly housing to assisted living facilities](%C2%A7%2001701q%E2%80%932%20-%20Grants%20for%20conversion%20of%20elderly%20housing%20to%20assisted%20living%20facilities.md)
+- [&sect; 01701q&#8211;2 - Grants for conversion of elderly housing to assisted living facilities and other purposes](%C2%A7%2001701q%E2%80%932%20-%20Grants%20for%20conversion%20of%20elderly%20housing%20to%20assisted%20living%20facilities%20and%20other%20purposes.md)
 - [&sect; 01701q&#8211;3 - Funds for housing for elderly and persons with disabilities available for cost of maintenance and disposal of such properties](%C2%A7%2001701q%E2%80%933%20-%20Funds%20for%20housing%20for%20elderly%20and%20persons%20with%20disabilities%20available%20for%20cost%20of%20maintenance%20and%20disposal%20of%20such%20properties.md)
 - [&sect; 01701r - Congressional findings respecting housing for senior citizens](%C2%A7%2001701r%20-%20Congressional%20findings%20respecting%20housing%20for%20senior%20citizens.md)
 - [&sect; 01701r&#8211;1 - Pet ownership in assisted rental housing for the elderly or handicapped](%C2%A7%2001701r%E2%80%931%20-%20Pet%20ownership%20in%20assisted%20rental%20housing%20for%20the%20elderly%20or%20handicapped.md)
@@ -438,6 +440,8 @@
 - [&sect; 01701v - Congressional findings and declaration for improved architectural design in Government housing programs](%C2%A7%2001701v%20-%20Congressional%20findings%20and%20declaration%20for%20improved%20architectural%20design%20in%20Government%20housing%20programs.md)
 - [&sect; 01701w - Budget, debt management, and related counseling services for mortgagors; authorization of appropriations](%C2%A7%2001701w%20-%20Budget%2C%20debt%20management%2C%20and%20related%20counseling%20services%20for%20mortgagors%3B%20authorization%20of%20appropriations.md)
 - [&sect; 01701x - Assistance with respect to housing for low- and moderate-income families](%C2%A7%2001701x%20-%20Assistance%20with%20respect%20to%20housing%20for%20low-%20and%20moderate-income%20families.md)
+- [&sect; 01701x&#8211;1 - Home inspection counseling](%C2%A7%2001701x%E2%80%931%20-%20Home%20inspection%20counseling.md)
+- [&sect; 01701x&#8211;2 - Legal assistance for foreclosure-related issues](%C2%A7%2001701x%E2%80%932%20-%20Legal%20assistance%20for%20foreclosure-related%20issues.md)
 - [&sect; 01701y - National Homeownership Foundation](%C2%A7%2001701y%20-%20National%20Homeownership%20Foundation.md)
 - [&sect; 01701z - New technologies in the development of housing for lower income families](%C2%A7%2001701z%20-%20New%20technologies%20in%20the%20development%20of%20housing%20for%20lower%20income%20families.md)
 - [&sect; 01701z&#8211;1 - Research and demonstrations; authorization of appropriations; continuing availability of funds](%C2%A7%2001701z%E2%80%931%20-%20Research%20and%20demonstrations%3B%20authorization%20of%20appropriations%3B%20continuing%20availability%20of%20funds.md)

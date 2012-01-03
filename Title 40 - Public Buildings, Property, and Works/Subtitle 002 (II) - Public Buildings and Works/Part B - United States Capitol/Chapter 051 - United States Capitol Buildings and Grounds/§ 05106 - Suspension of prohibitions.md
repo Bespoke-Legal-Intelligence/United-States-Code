@@ -10,7 +10,7 @@ Power To Suspend Prohibitions in Absence of President or Speaker.—If either th
 
 (c)
 
-Authority of Mayor To Permit Use of Louisiana Avenue.—Notwithstanding subsection (a) and section 5104(f) of this title, the Capitol Police Board may grant the Mayor ofthe District of Columbia authority to permit the use of Louisiana Avenue for any of the purposes prohibited by section 5104(f).
+Authority of Mayor To Permit Use of Louisiana Avenue.—Notwithstanding subsection (a) and section 5104(f) of this title, the Capitol Police Board may grant the Mayor of the District of Columbia authority to permit the use of Louisiana Avenue for any of the purposes prohibited by section 5104(f).
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1178.)
 

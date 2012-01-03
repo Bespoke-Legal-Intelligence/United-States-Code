@@ -18,7 +18,7 @@ National Security Objectives for National Technology and Industrial Base.—It i
 
 &emsp;(4) Reconstituting within a reasonable period the capability to develop, produce, and support supplies and equipment, including technologically advanced systems, in sufficient quantities to prepare fully for a war, national emergency, or mobilization of the armed forces before the commencement of that war, national emergency, or mobilization.
 
-&emsp;(5) Providing for the development, manufacture, and supply of items and technologies critical to the production and sustainment ofadvanced military weapon systems within the national technology and industrial base.
+&emsp;(5) Providing for the development, manufacture, and supply of items and technologies critical to the production and sustainment of advanced military weapon systems within the national technology and industrial base.
 
 &emsp;(6) Providing for the generation of services capabilities that are not core functions of the armed forces and that are critical to military operations within the national technology and industrial base.
 
@@ -114,7 +114,7 @@ Roles, Responsibilities, and Authorities.—
 
 &emsp;“(1)
 
-Establishment.—Not later than one year after the date of the enactment of this Act \[Oct. 14, 2008\],and in accordance with Directive 5101.1, the Secretary of Defense shall prescribe the roles, responsibilities, and authorities of the executive agent designated under subsection (a).
+Establishment.—Not later than one year after the date of the enactment of this Act \[Oct. 14, 2008\], and in accordance with Directive 5101.1, the Secretary of Defense shall prescribe the roles, responsibilities, and authorities of the executive agent designated under subsection (a).
 
 &emsp;“(2)
 
@@ -146,7 +146,7 @@ Pub. L. 109–163, div. A, title II, §253(c), Jan. 6, 2006, 119 Stat. 3180, pro
 
 #### Essential Items Identification and Domestic Production Capabilities Improvement Program
 
-Pub. L. 108–136, div. A, title VIII, subtitle B, part I, Nov. 24, 2003, 117 Stat. 1542, as amended by Pub. L. 109–364, div. A, title VIII, §841, Oct. 17, 2006, 120 Stat. 2335; Pub. L. 111–84, div. A, title VIII, §846, Oct. 28, 2009, 123 Stat. 2420, provided that:
+Pub. L. 108–136, div. A, title VIII, subtitle B, part I, Nov. 24, 2003, 117 Stat. 1542, as amended by Pub. L. 109–364, div. A, title VIII, §841, Oct. 17, 2006, 120 Stat. 2335; Pub. L. 111–84, div. A, title VIII, §846, Oct. 28, 2009, 123 Stat. 2420; Pub. L. 112–81, div. A, title X, §1062(g)(2), Dec. 31, 2011, 125 Stat. 1585, provided that:
 
 #### “SEC. 811. CONSISTENCY WITH UNITED STATES OBLIGATIONS UNDER INTERNATIONAL AGREEMENTS.
 
@@ -182,37 +182,7 @@ Use of Existing Data.—(1) At a minimum, with respect to each prime contract wi
 
 “(4) For purposes of meeting the requirements set forth in this section, the Secretary of Defense may not require the provision of information beyond the information that is currently provided to the Department of Defense through existing data collection systems by non-Federal entities with respect to contracts and subcontracts with the Department of Defense or any military department.
 
-“(c)
-
-Annual Report.—(1) Not later than February 1 of each year, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the assessment program covering the preceding fiscal year. The first report under this subsection shall cover fiscal year 2004 and shall be submitted to the Committees no later than February 1, 2005.
-
-“(2)(A) The report shall include the following with respect to contracts described in subsection (b):
-
-&emsp;“(i) The total number and value of such contracts awarded by the Department of Defense.
-
-&emsp;“(ii) The total number and value of such contracts awarded on a sole source basis.
-
-&emsp;“(iii) The total number and value of contracts described in clause (ii) awarded to foreign contractors, summarized by country.
-
-&emsp;“(iv) The total number and value of contracts awarded to foreign contractors through competitive procedures, summarized by country.
-
-&emsp;“(v) The dollar value of any articles, materials, or supplies purchased that were manufactured outside of the United States.
-
-&emsp;“(vi) An itemized list of all waivers granted with respect to such articles, materials, or supplies under the Buy American Act (\[former\] 41 U.S.C. 10a et seq.) \[see 41 U.S.C. 8301 et seq.\].
-
-&emsp;“(vii) A summary of—
-
-&emsp;&emsp;“(I) the total procurement funds expended on articles, materials, and supplies manufactured inside the United States; and
-
-&emsp;&emsp;“(II) the total procurement funds expended on articles, materials, and supplies manufactured outside the United States.
-
-“(B) The report also shall include—
-
-&emsp;“(i) the status of the matters described in subparagraphs (A) and (B) of subsection (a)(1);
-
-&emsp;“(ii) the status of implementation of successor procurement data management systems; and
-
-&emsp;“(iii) such other matters as the Secretary considers appropriate.
+“\[(c) Repealed. Pub. L. 112–81, div. A, title X, §1062(g)(2), Dec. 31, 2011, 125 Stat. 1585.\]
 
 “(d)
 
@@ -228,7 +198,7 @@ Applicability.—This section shall not apply to acquisitions made by an agency,
 
 “(a)
 
-Establishment of Fund.—There is established in the Treasury of the United States a separate fund to be known as the Defense Industrial Base Capabilities Fund (hereafter in this section referred to as the ‘Fund’).
+Establishment of Fund.—There is established in the Treasury of the United States a separate fund tobe known as the Defense Industrial Base Capabilities Fund (hereafter in this section referred to as the ‘Fund’).
 
 “(b)
 
@@ -314,7 +284,7 @@ Requirement.—The Secretary of the Air Force, in cooperation with the National 
 
 Matters Studied.—(1) The study shall review and assess whether such changes as a whole are sufficient to ensure the following:
 
-&emsp;“(A) That the concerns about the management of the science and technology program that have been raised by Congress, the Defense Science Board, theAir Force Science Advisory Board, and the Air Force Association have been adequately addressed.
+&emsp;“(A) That the concerns about the management of the science and technology program that have been raised by Congress, the Defense Science Board, the Air Force Science Advisory Board, and the Air Force Association have been adequately addressed.
 
 &emsp;“(B) That appropriate and sufficient technology is available to ensure the military superiority of the United States and counter future high-risk threats.
 
@@ -330,7 +300,7 @@ Matters Studied.—(1) The study shall review and assess whether such changes as
 
 &emsp;“(B) Whether the applied technology councils are effective in contributing the input of all levels beneath the senior leadership into the coordination, focus, and content of the science and technology program.
 
-&emsp;“(C) Whether the designation of the commander of the Air Force Materiel Command as the science and technology budget advocate is effective to ensure that an adequate Air Force science and technology budget is requested.
+&emsp;“(C) Whether the designation of the commander of the Air Force Materiel Command as the science andtechnology budget advocate is effective to ensure that an adequate Air Force science and technology budget is requested.
 
 &emsp;“(D) Whether the revised development planning process is effective to aid in the coordination of the needs of the Air Force warfighters with decisions on science and technology investments and the establishment of priorities among different science and technology programs.
 
@@ -422,7 +392,7 @@ Comptroller General Review.—(1) Not later than 90 days after the Secretary of 
 
 #### Report by Under Secretary of Defense for Acquisition, Technology, and Logistics
 
-Pub. L. 106–65, div. A, title II, §243, Oct. 5, 1999, 113 Stat. 551, required the Under Secretary of Defense for Acquisition, Technology, and Logistics to submit to the congressional defense committees a report on the actions necessary to promote the research base and technological development needed for ensuring that the Armed Forces had the military capabilities necessary for meeting national security requirements over the next two to three decades.
+Pub. L. 106–65, div. A, title II, §243, Oct. 5, 1999, 113 Stat. 551, required the Under Secretary of Defense for Acquisition, Technology, and Logistics to submit tothe congressional defense committees a report on the actions necessary to promote the research base and technological development needed for ensuring that the Armed Forces had the military capabilities necessary for meeting national security requirements over the next two to three decades.
 
 #### Sense of Congress on Defense Science and Technology Program
 
@@ -596,7 +566,7 @@ Financial Commitment of Non-Federal Government Participants.—
 
 &emsp;“(1)
 
-Maximum department of defense share.—The Secretary of Defense shall ensure that the amount of funds provided by the Secretary to a non-Federal government participant does not exceed 50 percent of the total cost of technology development and technology transfer activities.
+Maximum department of defense share.—The Secretary of Defense shall ensure that the amount offunds provided by the Secretary to a non-Federal government participant does not exceed 50 percent of the total cost of technology development and technology transfer activities.
 
 &emsp;“(2)
 
@@ -656,7 +626,7 @@ Contractor Notice to Employees and State Dislocated Worker Unit.—Not later tha
 
 “(d)
 
-Constructive Notice.—The notice of termination of, or substantial reduction in, a defense contract provided under subsection (c)(1) to an employee ofa contractor shall have the same effect as a notice of termination to such employee for the purposes of determining whether such employee is eligible to participate in employment and training activities carried out under title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\], except in a case in which the employer has specified that the termination of, or substantial reduction in, the contract is not likely to result in plant closure or mass layoff.
+Constructive Notice.—The notice of termination of, or substantial reduction in, a defense contract provided under subsection (c)(1) to an employee of a contractor shall have the same effect as a notice of termination to such employee for the purposes of determining whether such employee is eligible to participate in employment and training activities carried out under title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\], except in a case in which the employer has specified that the termination of, or substantial reduction in, the contract is not likely to result in plant closure or mass layoff.
 
 “(e)
 

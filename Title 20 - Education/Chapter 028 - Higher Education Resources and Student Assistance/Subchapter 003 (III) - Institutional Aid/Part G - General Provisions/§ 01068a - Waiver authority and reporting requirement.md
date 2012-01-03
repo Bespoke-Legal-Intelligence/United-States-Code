@@ -26,7 +26,7 @@ The Secretary may waive the requirements set forth in section 1058(b)(1)(A) of t
 
 &emsp;(A) identify the factors referred to in paragraph (1) which were considered by the Secretary as factors that distorted the determination of compliance with subparagraphs (A) and (B) of section 1058(b)(1) of this title; and
 
-&emsp;(B) contain a list of each institution determined to be an eligible institution under part A including a statement of the reasons for each such determination.
+&emsp;(B) contain a list of each institution determined to be an eligible institution under partA including a statement of the reasons for each such determination.
 
 (3) The Secretary may waive the requirement set forth in section 1058(b)(1)(E) <sup>2</sup> of this title in the case of an institution located on or near an Indian reservation or a substantial population of Indians, if the Secretary determines that the waiver will substantially increase higher education opportunities appropriate to the needs of American Indians.
 

@@ -96,7 +96,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary shall provide for the development, adoption, or recognition of standards relating to a standardized format for the card or other technology required under subparagraph (A). Such standards shall be compatible with part C of subchapter XI of this chapter and maybe based on standards developed by an appropriate standard setting organization.
+&emsp;&emsp;&emsp;The Secretary shall provide for the development, adoption, or recognition of standards relating to a standardized format for the card or other technology required under subparagraph (A). Such standards shall be compatible with part C of subchapter XI of this chapter and may be based on standards developed by an appropriate standard setting organization.
 
 #### (ii) Consultation
 
@@ -140,7 +140,7 @@
 
 #### (ii) Model guidelines
 
-&emsp;&emsp;&emsp;The Secretary shall request the United States Pharmacopeia to develop, in consultation with pharmaceutical benefit managers and other interested parties, a list of categories and classes that may be used by prescription drug plans under this paragraph and to revise such classification from time to time to reflect changes in therapeutic uses of covered part D drugs and the additions of new covered part D drugs.
+&emsp;&emsp;&emsp;The Secretary shall request the United States Pharmacopeia to develop, in consultation with pharmaceutical benefit managers and other interested parties, a list of categories and classes that may be used by prescription drug plans under this paragraph and to revise such classificationfrom time to time to reflect changes in therapeutic uses of covered part D drugs and the additions of new covered part D drugs.
 
 #### (iii) Limitation on changes in therapeutic classification
 
@@ -174,7 +174,7 @@
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Subject to clause (iv), the Secretary shall identify, as appropriate, categoriesand classes of drugs for which the Secretary determines are of clinical concern.
+&emsp;&emsp;&emsp;&emsp;Subject to clause (iv), the Secretary shall identify, as appropriate, categories and classes of drugs for which the Secretary determines are of clinical concern.
 
 #### (II) Criteria
 
@@ -230,7 +230,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A medication therapy management program described in this paragraph is a program of drug therapy management that may be furnished by a pharmacist and that is designed to assure, with respect to targeted beneficiaries described in clause (ii), that covered part D drugs under the prescription drug plan are appropriately used to optimize therapeutic outcomes through improved medication use, and to reduce the risk of adverse events, including adverse drug interactions. Such a program may distinguish between services in ambulatory and institutional settings.
+&emsp;&emsp;&emsp;A medication therapy management program described in this paragraph is a program of drug therapy management that may be furnished by a pharmacist and thatis designed to assure, with respect to targeted beneficiaries described in clause (ii), that covered part D drugs under the prescription drug plan are appropriately used to optimize therapeutic outcomes through improved medication use, and to reduce the risk of adverse events, including adverse drug interactions. Such a program may distinguish between services in ambulatory and institutional settings.
 
 #### (ii) Targeted beneficiaries described
 
@@ -450,7 +450,7 @@ In order to provide for comparative information under section 1395w–101(c)(3)(
 
 #### (f) Grievance mechanism
 
-Each PDP sponsor shall provide meaningful procedures for hearing and resolving grievances between the sponsor (including any entity or individual through which the sponsor provides covered benefits) and enrollees with prescription drug plans of the sponsor under this part in accordance with section 1395w–22(f) of this title.
+Each PDP sponsor shall provide meaningful procedures for hearing and resolving grievances between the sponsor (including any entity or individual through which the sponsor providescovered benefits) and enrollees with prescription drug plans of the sponsor under this part in accordance with section 1395w–22(f) of this title.
 
 #### (g) Coverage determinations and reconsiderations
 
@@ -470,7 +470,7 @@ Each PDP sponsor shall provide meaningful procedures for hearing and resolving g
 
 #### (2) Limitation in cases on nonformulary determinations
 
-&emsp;A part D eligible individual who is enrolled in a prescription drug plan offered by a PDPsponsor may appeal under paragraph (1) a determination not to provide for coverage of a covered part D drug that is not on the formulary under the plan only if the prescribing physician determines that all covered part D drugs on any tier of the formulary for treatment of the same condition would not be as effective for the individual as the nonformulary drug, would have adverse effects for the individual, or both.
+&emsp;A part D eligible individual who is enrolled in a prescription drug plan offered by a PDP sponsor may appeal under paragraph (1) a determination not to provide for coverage of a covered part D drug that is not on the formulary under the plan only if the prescribing physician determines that all covered part D drugs on any tier of the formulary for treatment of the same condition would not be as effective for the individual as the nonformulary drug, would have adverse effects for the individual, or both.
 
 #### (3) Treatment of nonformulary determinations
 
@@ -521,10 +521,6 @@ The following provisions shall apply to a PDP sponsor (and the agents, brokers, 
 (Aug. 14, 1935, ch. 531, title XVIII, §1860D–4, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2082; amended Pub. L. 110–275, title I, §§103(a)(2), (b)(2), (c)(2), (d)(2), 176, July 15, 2008, 122 Stat. 2499–2501, 2581; Pub. L. 111–148, title III, §§3307(a), 3310(a), 3312(a), title X, §10328(a), Mar. 23, 2010, 124 Stat. 471, 475, 476, 964.)
 
 #### References in Text
-
-Part C of subchapter XI of this chapter, referred to in subsecs. (b)(2)(B)(i) and (e)(3)(C)(ii), is classified to section 1320d et seq. of this title.
-
-Part C of this subchapter, referred to in subsecs. (d), (g)(1), and (h)(1), is classified to section 1395w–21 et seq. of this title.
 
 Section 264(c) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (e)(2)(C), is section 264(c) of Pub. L. 104–191, which is set out as a note under section 1320d–2 of this title.
 
@@ -630,7 +626,7 @@ Audit.—The Secretary shall conduct appropriate audits of grants under this sec
 
 &emsp;“(5)
 
-Matching requirement.—The applicant for a grant under this section shall agree, with respect to the costs to be incurred by the applicant in implementing an electronic prescription drug program, to make available (directly or through donations from public or private entities) non-Federal contributions toward such costs in an amount that is not less than 50 percent of such costs. Non-Federal contributions under the previous sentence may be in cash or in kind, fairly evaluated, including plant, equipment, or services. Amounts provided by the Federal Government, or services assisted or subsidized to any significant extent by the Federal Government, may not be included in determining the amount of such contributions.
+Matching requirement.—The applicant for a grant under this section shall agree, with respect to the costs to be incurred by the applicant in implementing an electronic prescription drug program, to make available (directly or through donations from public or private entities) non-Federal contributions toward such costs in an amount that is not less than 50 percent of such costs. Non-Federal contributionsunder the previous sentence may be in cash or in kind, fairly evaluated, including plant, equipment, or services. Amounts provided by the Federal Government, or services assisted or subsidized to any significant extent by the Federal Government, may not be included in determining the amount of such contributions.
 
 “(d)
 

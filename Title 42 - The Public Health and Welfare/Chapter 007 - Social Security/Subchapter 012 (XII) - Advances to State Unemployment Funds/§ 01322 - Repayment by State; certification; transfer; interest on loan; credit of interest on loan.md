@@ -44,7 +44,7 @@ The Governor of any State may at any time request that funds be transferred from
 
 (7) This subsection shall only apply to advances made on or after April 1, 1982.
 
-(8)(A) With respect to interest due under this section on September 30 of 1983, 1984, or 1985 (other than interest previously deferred under paragraph (3)(C)), a State may pay 80 percent of such interest in four annual installments of at least 20 percent beginning with the year after the year in which it is otherwise due, if such State meets the criteria of subparagraph (B). No interest shall accrue on such deferred interest.
+(8)(A) With respect to interest due under this section on September 30 of 1983, 1984, or 1985 (other than interest previously deferred under paragraph (3)(C)), a State may pay 80 percent of such interest in four annual installments of atleast 20 percent beginning with the year after the year in which it is otherwise due, if such State meets the criteria of subparagraph (B). No interest shall accrue on such deferred interest.
 
 (B) To meet the criteria of this subparagraph a State must—
 
@@ -76,7 +76,7 @@ The Governor of any State may at any time request that funds be transferred from
 
 Interest paid by States in accordance with this section shall be credited to the Federal unemployment account established by section 1104(g) of this title in the Unemployment Trust Fund.
 
-(Aug. 14, 1935, ch. 531, title XII, §1202, as added Aug. 5, 1954, ch. 657, §3, 68 Stat. 672; amended Pub. L. 86–778, title V, §522(a), Sept. 13, 1960, 74 Stat. 979; Pub. L. 97–35, title XXIV, §2407(a), (b)(2), Aug. 13, 1981, 95 Stat. 879, 880; Pub. L. 97–248, title II, §274(a), Sept. 3, 1982, 96 Stat. 557; Pub. L. 98–21, title V, §§511, 514, Apr. 20, 1983, 97 Stat. 144, 147; Pub. L. 98–118, §5(a), Oct. 11, 1983, 97 Stat. 804; Pub. L. 99–514, §2, Oct. 22, 1986, 100Stat. 2095; Pub. L. 100–203, title IX, §9156(a), Dec. 22, 1987, 101 Stat. 1330–327; Pub. L. 105–33, title V, §5404(a), Aug. 5, 1997, 111 Stat. 604; Pub. L. 111–5, div. B, title II, §2004, Feb. 17, 2009, 123 Stat. 443.)
+(Aug. 14, 1935, ch. 531, title XII, §1202, as added Aug. 5, 1954, ch. 657, §3, 68 Stat. 672; amended Pub. L. 86–778, title V, §522(a), Sept. 13, 1960, 74 Stat. 979; Pub. L. 97–35, title XXIV, §2407(a), (b)(2), Aug. 13, 1981, 95 Stat. 879, 880; Pub. L. 97–248, title II, §274(a), Sept. 3, 1982, 96 Stat. 557; Pub. L. 98–21, title V, §§511, 514, Apr. 20, 1983, 97 Stat. 144, 147; Pub. L. 98–118, §5(a), Oct. 11, 1983, 97 Stat. 804; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–203, title IX, §9156(a), Dec. 22, 1987, 101 Stat. 1330–327; Pub. L. 105–33, title V, §5404(a), Aug. 5, 1997, 111 Stat. 604; Pub. L. 111–5, div. B, title II, §2004, Feb. 17, 2009, 123 Stat. 443.)
 
 #### References in Text
 

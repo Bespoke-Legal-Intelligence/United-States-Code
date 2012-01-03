@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Except as otherwise provided in this section or section 337, gain or loss shall be recognized to a liquidating corporation on the distribution ofproperty in complete liquidation as if such property were sold to the distributee at its fair market value.
+Except as otherwise provided in this section or section 337, gain or loss shall be recognized to a liquidating corporation on the distribution of property in complete liquidation as if such property were sold to the distributee at its fair market value.
 
 #### (b) Treatment of liabilities
 
@@ -72,7 +72,7 @@ Under regulations prescribed by the Secretary, if—
 
 > an election may be made to treat such sale, exchange, or distribution as a disposition of all of the assets of such other corporation, and no gain or loss shall be recognized on the sale, exchange, or distribution of such stock.
 
-(Added Pub. L. 99–514, title VI, §631(a), Oct. 22, 1986, 100 Stat. 2269; amended Pub. L. 100–647, title I, §§1006(e)(1)–(3), (21)(A), 1018(d)(5)(D), Nov. 10, 1988, 102 Stat. 3400, 3403, 3580.)
+(Added Pub. L. 99–514, title VI, §631(a), Oct. 22, 1986, 100 Stat. 2269; amended Pub. L. 100–647, titleI, §§1006(e)(1)–(3), (21)(A), 1018(d)(5)(D), Nov. 10, 1988, 102 Stat. 3400, 3403, 3580.)
 
 #### Prior Provisions
 

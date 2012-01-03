@@ -10,7 +10,7 @@ Whenever benefit amounts under subchapter II of this chapter are increased by an
 
 &emsp;&emsp;(B) the amount in effect for such month under such subsection; and
 
-&emsp;(2) the amount obtained under paragraph (1) with respect to each subsection shall be further increased by the same percentage by which benefit amounts under subchapter II ofthis chapter are increased for such month, or, if greater (in any case where the increase under subchapter II of this chapter was determined on the basis of the wage increase percentage rather than the CPI increase percentage), the percentage by which benefit amounts under subchapter II of this chapter would be increased for such month if the increase had been determined on the basis of the CPI increase percentage, (and rounded, when not a multiple of $12, to the next lower multiple of $12), effective with respect to benefits for months after such month.
+&emsp;(2) the amount obtained under paragraph (1) with respect to each subsection shall be further increased by the same percentage by which benefit amounts under subchapter II of this chapter are increased for such month, or, if greater (in any case where the increase under subchapter II of this chapter was determined on the basis of the wage increase percentage rather than the CPI increase percentage), the percentage by which benefit amounts under subchapter II of this chapter would be increased for such month if the increase had been determined on the basis of the CPI increase percentage, (and rounded, when not a multiple of $12, to the next lower multiple of $12), effective with respect to benefits for months after such month.
 
 #### (b) Publication in Federal Register of new dollar amounts
 
@@ -22,7 +22,7 @@ Effective July 1, 1983—
 
 &emsp;(1) each of the dollar amounts in effect under subsections (a)(1)(A) and (b)(1) of section 1382 of this title, as previously increased under this section, shall be increased by $240 (and the dollar amount in effect under subsection (a)(1)(A) of section 211 of Public Law 93-66, as previously so increased, shall be increased by $120); and
 
-&emsp;(2) each of the dollar amounts in effect under subsections (a)(2)(A) and (b)(2) of section 1382 of this title, as previously increased under this section, shall be increased by $360.
+&emsp;(2) each of the dollar amounts in effect under subsections (a)(2)(A) and (b)(2) of section 1382of this title, as previously increased under this section, shall be increased by $360.
 
 (Aug. 14, 1935, ch. 531, title XVI, §1617, as added Pub. L. 93–368, §6(b), Aug. 7, 1974, 88 Stat. 421; amended Pub. L. 97–248, title I, §182(a), Sept. 3, 1982, 96 Stat. 404; Pub. L. 98–21, title IV, §401, Apr. 20, 1983, 97 Stat. 138.)
 

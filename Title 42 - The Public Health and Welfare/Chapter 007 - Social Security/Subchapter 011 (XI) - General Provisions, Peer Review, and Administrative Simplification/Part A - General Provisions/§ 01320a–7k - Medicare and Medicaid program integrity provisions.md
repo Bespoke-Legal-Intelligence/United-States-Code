@@ -8,7 +8,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Integrated Data Repository of the Centers for Medicare \& Medicaid Services shall include, at a minimum, claims and payment data from the following:
+&emsp;&emsp;&emsp;The Integrated Data Repository of the Centers for Medicare \& Medicaid Servicesshall include, at a minimum, claims and payment data from the following:
 
 &emsp;&emsp;&emsp;&emsp;(I) The programs under subchapters XVIII and XIX (including parts A, B, C, and D of subchapter XVIII).
 
@@ -30,7 +30,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary shall enter into agreements with the individuals described in clause (ii) under which such individuals share and match data in the system of records of the respective agencies of suchindividuals with data in the system of records of the Department of Health and Human Services for the purpose of identifying potential fraud, waste, and abuse under the programs under subchapters XVIII and XIX.
+&emsp;&emsp;&emsp;The Secretary shall enter into agreements with the individuals described in clause (ii) under which such individuals share and match data in the system of records of the respective agencies of such individuals with data in the system of records of the Department of Health and Human Services for the purpose of identifying potential fraud, waste, and abuse under the programs under subchapters XVIII and XIX.
 
 #### (ii) Individuals described
 

@@ -1,6 +1,6 @@
 ### §1115. Additional compensation for dependents
 
-Any veteran entitled to compensation at the rates provided in section 1114 of this title, andwhose disability is rated not less than 30 percent, shall be entitled to additional compensation for dependents in the following monthly amounts:
+Any veteran entitled to compensation at the rates provided in section 1114 of this title, and whose disability is rated not less than 30 percent, shall be entitled to additional compensation for dependents in the following monthly amounts:
 
 &emsp;(1) If and while rated totally disabled and—
 
@@ -314,7 +314,7 @@ Par. (2). Pub. L. 97–253, §404(b), substituted provisions that the amounts pa
 
 <b>1980</b>—Par. (1)(A) to (J). Pub. L. 96–385, §102(1)–(10), increased additional compensation in subpar. (A) from $54 to $62, in subpar. (B) from $91 to $104, in subpar. (C) from $121 to $138, in subpar. (D) from $151 and $30 to $173 and $34, respectively, in subpar. (E) from $37 to $42, in subpar. (F) from $67 to $77, in subpar. (G) from $97 and $30 to $111 and $34, respectively, in subpar. (H) from $44 to $50, in subpar. (I) from $98 to $112, and in subpar. (J) from $82 to $94.
 
-<b>1979</b>—Par. (1)(A) to (H). Pub. L. 96–128, §102(a)(1)–(8), increased additional compensation in subpar. (A) from $49 to $54, in subpar. (B) from $83 to $91, in subpar. (C) from $110 to $121, in subpar. (D) from $137 and $27 to $151 and $30, respectively, in subpar. (E) from $34 to $37, in subpar. (F) from $61 to $67, in subpar. (G) from $88 and $27 to $97 and $30, respectively, and in subpar. (H) from $40 to $44.
+<b>1979</b>—Par. (1)(A) to (H). Pub. L. 96–128, §102(a)(1)–(8), increased additional compensation in subpar. (A) from $49 to $54, in subpar. (B) from $83 to $91, in subpar. (C) from $110 to $121, in subpar. (D) from $137 and $27 to $151and $30, respectively, in subpar. (E) from $34 to $37, in subpar. (F) from $61 to $67, in subpar. (G) from $88 and $27 to $97 and $30, respectively, and in subpar. (H) from $40 to $44.
 
 Par. (1)(I). Pub. L. 96–128, §102(a)(9), (b)(1)(A), substituted “paragraph” for “subsection”, “(i)” for “(1)”, “(ii)” for “(2)”, “$98” for “$89”, and “section” for “subsection”.
 

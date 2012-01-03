@@ -28,15 +28,15 @@ Section was formerly classified to section 555 of this title.
 
 #### Amendments
 
-1995—Subsec. (a). Pub. L. 104–48, §8(b), inserted “(including any handling fee paid by the injured person or persons under section 499f(a)(2) of this title)” after “damages”.
+<b>1995</b>—Subsec. (a). Pub. L. 104–48, §8(b), inserted “(including any handling fee paid by the injured person or persons under section 499f(a)(2) of this title)” after “damages”.
 
 Subsec. (c)(3). Pub. L. 104–48, §6(a), (b), struck out “and has filed such notice with the Secretary” before “within thirty calendar days” in first sentence and inserted after first sentence “The written notice to the commission merchant, dealer, or broker shall set forth information in sufficient detail to identify the transaction subject to the trust.”
 
 Subsec. (c)(4), (5). Pub. L. 104–48, §6(c), added par. (4) and redesignated former par. (4) as (5).
 
-1991—Subsec. (c)(2). Pub. L. 102–237 substituted “, as” for “(as” before “defined”.
+<b>1991</b>—Subsec. (c)(2). Pub. L. 102–237 substituted “, as” for “(as” before “defined”.
 
-1984—Subsec. (c). Pub. L. 98–273 added subsec. (c).
+<b>1984</b>—Subsec. (c). Pub. L. 98–273 added subsec. (c).
 
-1937—Subsec. (a). Act Aug. 20, 1937, struck out “paragraph (1), (2), (3), or (4) of” after “provisions of”.
+<b>1937</b>—Subsec. (a). Act Aug. 20, 1937, struck out “paragraph (1), (2), (3), or (4) of” after “provisions of”.
 

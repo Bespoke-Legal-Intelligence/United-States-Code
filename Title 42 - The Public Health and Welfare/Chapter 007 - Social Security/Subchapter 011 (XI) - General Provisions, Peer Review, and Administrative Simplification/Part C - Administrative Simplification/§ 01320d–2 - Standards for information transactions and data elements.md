@@ -64,7 +64,7 @@
 
 &emsp;&emsp;&emsp;(i) whether there could be greater uniformity in financial and administrative activities and items, as determined appropriate by the Secretary; and
 
-&emsp;&emsp;&emsp;(ii) whether such activities should be considered financial and administrative transactions (as described in paragraph (1)(B)) for which the adoption of standardsand operating rules would improve the operation of the health care system and reduce administrative costs.
+&emsp;&emsp;&emsp;(ii) whether such activities should be considered financial and administrative transactions (as described in paragraph (1)(B)) for which the adoption of standards and operating rules would improve the operation of the health care system and reduce administrative costs.
 
 #### (B) Solicitation of input
 
@@ -176,7 +176,7 @@ The Secretary shall adopt standards for transferring among health plans appropri
 
 &emsp;&emsp;(C) determine whether such operating rules represent a consensus view of the health care stakeholders and are consistent with and do not conflict with other existing standards;
 
-&emsp;&emsp;(D) evaluate whether such operating rules are consistent with electronic standards adopted for health information technology; and
+&emsp;&emsp;(D) evaluate whether such operating rules are consistent with electronic standardsadopted for health information technology; and
 
 &emsp;&emsp;(E) submit to the Secretary a recommendation as to whether the Secretary should adopt such operating rules.
 
@@ -296,9 +296,9 @@ The Secretary shall adopt standards for transferring among health plans appropri
 
 &emsp;&emsp;&emsp;(ii) any appropriate committee as determined by the Secretary.
 
-#### (B) Coordination of hit standards
+#### (B) Coordination of HIT standards
 
-&emsp;&emsp;In developing recommendations under this subsection, the review committee shall ensure coordination, as appropriate, with thestandards that support the certified electronic health record technology approved by the Office of the National Coordinator for Health Information Technology.
+&emsp;&emsp;In developing recommendations under this subsection, the review committee shall ensure coordination, as appropriate, with the standards that support the certified electronic health record technology approved by the Office of the National Coordinator for Health Information Technology.
 
 #### (5) Operating rules for other standards adopted by the Secretary
 
@@ -314,7 +314,7 @@ The Secretary shall adopt standards for transferring among health plans appropri
 
 &emsp;&emsp;&emsp;(i) the standards and associated operating rules described under paragraph (1) of such subsection; and
 
-&emsp;&emsp;&emsp;(ii) a standard (as described under subsection (a)(1)(B)) and associated operating rules (as described under subsection (i)(5)) for any other financial and administrative transactions.
+&emsp;&emsp;&emsp;(ii) a standard (as described under subsection (a)(1)(B)) and associated operatingrules (as described under subsection (i)(5)) for any other financial and administrative transactions.
 
 #### (B) Fee amount
 
@@ -518,7 +518,7 @@ Sec. 3. <i>Implementation.</i>
 
 (a) Protected health information concerning an individual patient discovered during the course of health oversight activities shall not be used against that individual patient in an unrelated civil, administrative, or criminal investigation of a non-health oversight matter unless the Deputy Attorney General of the U.S Department of Justice, or insofar as the protected health information involves members of the Armed Forces, the General Counsel of the U.S. Department of Defense, has authorized such use.
 
-(b) In assessing whether protected health information should be used under subparagraph (a) of this section, the Deputy Attorney General shall permit such use upon concluding that the balance of relevant factorsweighs clearly in favor of its use. That is, the Deputy Attorney General shall permit disclosure if the public interest and the need for disclosure clearly outweigh the potential for injury to the patient, to the physician-patient relationship, and to the treatment services.
+(b) In assessing whether protected health information should be used under subparagraph (a) of this section, the Deputy Attorney General shall permit such use upon concluding that the balance of relevant factors weighs clearly in favor of its use. That is, the Deputy Attorney General shall permit disclosure if the public interest and the need for disclosure clearly outweigh the potential for injury to the patient, to the physician-patient relationship, and to the treatment services.
 
 (c) Upon the decision to use protected health information under subparagraph (a) of this section, the Deputy Attorney General, in determining the extent to which this information should be used, shall impose appropriate safeguards against unauthorized use.
 
@@ -532,7 +532,7 @@ Sec. 3. <i>Implementation.</i>
 
 (iv) the uses for which the protected health information was authorized.
 
-(e) The General Counsel of the U.S. Department of Defense will comply with the requirements of subparagraphs (b), (c), and (d), above. The General Counsel also will prepare a report, consistent with the requirements of subparagraphs (d)(i) through (d)(iv), above, and will forward it to the Department of Justice where it will be incorporated into the Department's annual report to the President.
+(e) The General Counsel of the U.S. Department of Defense will comply with the requirements of subparagraphs (b), (c), and (d), above. The General Counsel also will prepare a report, consistent with the requirements of subparagraphs (d)(i) through (d)(iv), above, and willforward it to the Department of Justice where it will be incorporated into the Department's annual report to the President.
 
 Sec. 4. <i>Exceptions.</i>
 

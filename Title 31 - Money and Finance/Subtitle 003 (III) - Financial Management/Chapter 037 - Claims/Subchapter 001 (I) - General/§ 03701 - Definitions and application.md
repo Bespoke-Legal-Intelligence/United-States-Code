@@ -232,7 +232,7 @@ Section 31001(b) of Pub. L. 104–134 provided that: “The purposes of this sec
 
 &emsp;“(3) To reduce losses arising from debt management activities by requiring proper screening of potential borrowers, aggressive monitoring of all accounts, and sharing of information within and among Federal agencies.
 
-&emsp;“(4) To ensure that the public is fully informed of the Federal Government's debt collection policies and that debtors are cognizant of their financial obligations to repay amounts owed to the Federal Government.
+&emsp;“(4) To ensure that the public is fully informed of the Federal Government's debt collection policiesand that debtors are cognizant of their financial obligations to repay amounts owed to the Federal Government.
 
 &emsp;“(5) To ensure that debtors have all appropriate due process rights, including the ability to verify, challenge, and compromise claims, and access to administrative appeals procedures which are both reasonable and protect the interests of the United States.
 

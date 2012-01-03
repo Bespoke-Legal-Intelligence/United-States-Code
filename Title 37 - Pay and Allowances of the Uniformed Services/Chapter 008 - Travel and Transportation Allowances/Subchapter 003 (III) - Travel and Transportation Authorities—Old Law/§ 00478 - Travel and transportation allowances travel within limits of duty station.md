@@ -1,0 +1,58 @@
+### §478. Travel and transportation allowances: travel within limits of duty station
+
+(a) A member of a uniformed service may be directed, by regulations of the head of the department or agency in which he is serving, to procure transportation necessary for conducting official business of the United States within the limits of his station. Expenses so incurred by the member for train, bus, streetcar, taxicab, ferry, bridge, and similar fares and tolls, or for the use of privately owned vehicles at a fixed rate a mile plus parking fees, shall be defrayed by the department or agency under which he is serving, or the member is entitled to be reimbursed for the expense.
+
+(b)(1) Under regulations prescribed by the Secretary concerned, a member of a uniformed service who performs emergency duty described in paragraph (2) is entitled to travel and transportation allowances under section 474 of this title for that duty.
+
+(2) The emergency duty referred to in paragraph (1) is duty that—
+
+&emsp;(A) is performed by a member under emergency circumstances that threaten injury to property of the Federal Government or human life;
+
+&emsp;(B) is performed at a location within the limits of the member's station (other than at the residence or normal duty location of the member);
+
+&emsp;(C) is performed pursuant to the direction of competent authority; and
+
+&emsp;(D) requires the member's use of overnight accommodations.
+
+(c) No travel or transportation allowance, payment, or reimbursement may be provided under this section for travel that begins after the travel authorities transition expiration date.
+
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 475, §408; Pub. L. 99–145, title VI, §619(a), Nov. 8, 1985, 99 Stat. 642; Pub. L. 100–26, §8(d)(6), Apr. 21, 1987, 101 Stat. 285; Pub. L. 102–190, div. A, title VI, §623, Dec. 5, 1991, 105 Stat. 1379; renumbered §478 and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(11), (f)(4)(A), Dec. 31, 2011, 125 Stat. 1460, 1462, 1465.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+408
+
+40:491(m).
+
+June 30, 1949, ch. 288, §211(m); added Sept. 1, 1954, ch. 1211, §2 (13th par.), 68 Stat. 1126.
+
+The words “(as defined in the Career Compensation Act of 1949, as amended)” and “so directed” are omitted as surplusage. The words “official business of the United States” are substituted for the words “official Government business”.
+
+#### Codification
+
+Section 631(f)(4)(A) of Pub. L. 112–81, which directed that this title be amended by conforming any references to sections of this title which were transferred and redesignated by “subsection (c)” of section 631, was executed by conforming the references to those sections as transferred and redesignated by subsection (d) of section 631, to reflect the probable intent of Congress.
+
+#### Amendments
+
+<b>2011</b>—Pub. L. 112–81, §631(d)(2), renumbered section 408 of this title as this section.
+
+Subsec. (b)(1). Pub. L. 112–81, §631(f)(4)(A), substituted “474” for “404”. See Codification note above.
+
+Subsec. (c). Pub. L. 112–81, §631(e)(11), added subsec. (c).
+
+<b>1991</b>—Pub. L. 102–190 designated existing provisions as subsec. (a) and added subsec. (b).
+
+<b>1987</b>—Pub. L. 100–26 substituted “privately owned” for “privately-owned”.
+
+<b>1985</b>—Pub. L. 99–145 inserted “plus parking fees” after “fixed rate a mile”.
+
+#### Effective Date of 1985 Amendment
+
+Section 619(b) of Pub. L. 99–145 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to parking fees incurred after September 30, 1985.”
+

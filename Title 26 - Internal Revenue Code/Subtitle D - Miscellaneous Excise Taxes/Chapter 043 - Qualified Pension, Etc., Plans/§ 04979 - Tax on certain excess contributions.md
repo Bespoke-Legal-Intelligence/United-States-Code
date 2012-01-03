@@ -40,7 +40,7 @@ For purposes of this section, the term “plan” means—
 
 #### (1) In general
 
-&emsp;No tax shall be imposed under this section on any excess contribution or excess aggregate contribution, as the case may be, to the extent such contribution (together with any income allocable thereto through the end of the plan year for which the contribution was made) is distributed (or, if forfeitable, is forfeited) before the close of the first 21/2 months (6 months in the case of an excess contribution or excess aggregate contribution to an eligible automatic contribution arrangement (as defined in section 414(w)(3))) of the following plan year.
+&emsp;No tax shall be imposed under this section on any excess contribution or excess aggregate contribution, as the case may be, to the extent such contribution (together with any income allocable thereto through the end of the plan year for which the contribution was made) is distributed (or, if forfeitable, is forfeited) before the close of the first 2½ months (6 months in the case of an excess contribution or excess aggregate contribution to an eligible automatic contribution arrangement (as defined in section 414(w)(3))) of the following plan year.
 
 #### (2) Year of inclusion
 
@@ -50,9 +50,9 @@ For purposes of this section, the term “plan” means—
 
 #### Amendments
 
-<b>2006</b>—Subsec. (f). Pub. L. 109–280, §902(e)(1)(B), substituted “specified period after” for “21/2 months of” in heading.
+<b>2006</b>—Subsec. (f). Pub. L. 109–280, §902(e)(1)(B), substituted “specified period after” for “2½ months of” in heading.
 
-Subsec. (f)(1). Pub. L. 109–280, §902(e)(1)(A), (3)(A), inserted “through the end of the plan year for which the contribution was made” after “thereto” and “(6 months in the case of an excess contribution or excess aggregate contribution to an eligible automatic contribution arrangement (as defined in section 414(w)(3)))” after “21/2 months”.
+Subsec. (f)(1). Pub. L. 109–280, §902(e)(1)(A), (3)(A), inserted “through the end of the plan year for which the contribution was made” after “thereto” and “(6 months in the case of an excess contribution or excess aggregate contribution to an eligible automatic contribution arrangement (as defined in section 414(w)(3)))” after “2½ months”.
 
 Subsec. (f)(2). Pub. L. 109–280, §902(e)(2), reenacted heading without change and amended text of par. (2) generally. Prior to amendment, text read as follows:
 

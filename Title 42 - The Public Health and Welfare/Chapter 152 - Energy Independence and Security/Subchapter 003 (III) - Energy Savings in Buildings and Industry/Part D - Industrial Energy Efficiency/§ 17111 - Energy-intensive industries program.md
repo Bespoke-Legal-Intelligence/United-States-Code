@@ -100,7 +100,7 @@ The Secretary shall establish a program under which the Secretary, in cooperatio
 
 &emsp;&emsp;&emsp;(ii) conduct energy savings assessments;
 
-&emsp;&emsp;(E) the incorporation of technologies and innovations that would significantly improve the energy efficiency and utilization of energy-intensive commercial applications; and
+&emsp;&emsp;(E) the incorporation of technologies and innovations that would significantly improve the energy efficiency and utilizationof energy-intensive commercial applications; and
 
 &emsp;&emsp;(F) any other activities that the Secretary determines to be appropriate.
 

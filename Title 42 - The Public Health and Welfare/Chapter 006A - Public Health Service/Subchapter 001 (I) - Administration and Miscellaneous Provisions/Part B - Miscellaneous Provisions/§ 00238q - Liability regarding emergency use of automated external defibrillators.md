@@ -50,7 +50,7 @@ Immunity under subsection (a) of this section does not apply to a person if—
 
 #### (B) Federal areas adopting State law
 
-&emsp;&emsp;If a geographic area is under Federal jurisdiction and is located within a State but out of the jurisdiction of the State, and if, pursuant to Federal law, the law of the State applies in such area regarding matters for which there is no applicable Federal law, then an action for civil liability described in subsection (a) of this section that in such area arises under the law of the State is subject to subsections (a) through (c) of this section in lieu of any related State law that would apply in such area in the absence of this subparagraph.
+&emsp;&emsp;If a geographic area is under Federal jurisdiction and is located within a State but out of the jurisdiction of the State, and if, pursuant to Federal law, the law of the State applies in such area regarding matters forwhich there is no applicable Federal law, then an action for civil liability described in subsection (a) of this section that in such area arises under the law of the State is subject to subsections (a) through (c) of this section in lieu of any related State law that would apply in such area in the absence of this subparagraph.
 
 #### (d) Federal jurisdiction
 

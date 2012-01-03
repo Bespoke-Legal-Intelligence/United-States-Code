@@ -52,7 +52,7 @@ For purposes of this section—
 
 #### (1) Distributions from qualified Indian entity
 
-&emsp;For purposes of this section, any distribution with respect to an equity interest in a qualified Indian entity of an Indian tribe to a member of such tribe shall be treated as derived by such member from a fishing rights-related activity of such tribe to the extent such distribution is attributable to income derived by such entity from a fishing rights-related activity of such tribe.
+&emsp;For purposes of this section, any distribution with respect to an equity interest in aqualified Indian entity of an Indian tribe to a member of such tribe shall be treated as derived by such member from a fishing rights-related activity of such tribe to the extent such distribution is attributable to income derived by such entity from a fishing rights-related activity of such tribe.
 
 #### (2) De minimis unrelated amounts may be excluded
 

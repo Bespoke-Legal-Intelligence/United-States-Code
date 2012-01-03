@@ -6,7 +6,7 @@ The Congress finds and declares—
 
 &emsp;(2) that the development or preservation of such resources is a significant and necessary factor in restoring and maintaining the vitality of the urban environment, and can serve as a catalyst for improving decaying or deteriorated urban communities and expanding economic opportunities, and for creating a sense of community identity, spirit, and pride; and
 
-&emsp;(3) that the encouragement and support of local initiatives to develop or preserve such resources, particularly in connection with federally assisted housing or community development activities or in communities with a high proportion of low-income residents, is an appropriate function of the Federal Government.
+&emsp;(3) that the encouragement and support of local initiatives to develop or preserve suchresources, particularly in connection with federally assisted housing or community development activities or in communities with a high proportion of low-income residents, is an appropriate function of the Federal Government.
 
 (Pub. L. 95–557, title VIII, §802, Oct. 31, 1978, 92 Stat. 2122.)
 

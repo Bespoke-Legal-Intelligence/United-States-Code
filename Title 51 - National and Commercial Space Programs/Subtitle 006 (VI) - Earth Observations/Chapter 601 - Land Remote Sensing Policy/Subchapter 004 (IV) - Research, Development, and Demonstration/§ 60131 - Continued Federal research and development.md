@@ -1,0 +1,54 @@
+### §60131. Continued Federal research and development
+
+(a)
+
+Roles of Administration and Department of Defense.—
+
+&emsp;(1)
+
+In general.—The Administrator and the Secretary of Defense are directed to continue and to enhance programs of remote sensing research and development.
+
+&emsp;(2)
+
+Administration activities authorized and encouraged.—The Administrator is authorized and encouraged to—
+
+&emsp;&emsp;(A) conduct experimental space remote sensing programs (including applications demonstration programs and basic research at universities);
+
+&emsp;&emsp;(B) develop remote sensing technologies and techniques, including those needed for monitoring the Earth and its environment; and
+
+&emsp;&emsp;(C) conduct such research and development in cooperation with other United States Government agencies and with public andprivate research entities (including private industry, universities, non-profit organizations, State and local governments, foreign governments, and international organizations) and to enter into arrangements (including joint ventures) which will foster such cooperation.
+
+(b)
+
+Roles of Department of Agriculture and Department of the Interior.—
+
+&emsp;(1)
+
+In general.—In order to enhance the ability of the United States to manage and utilize its renewable and nonrenewable resources, the Secretary of Agriculture and the Secretary of the Interior are authorized and encouraged to conduct programs of research and development in the applications of remote sensing using funds appropriated for such purposes.
+
+&emsp;(2)
+
+Activities that may be included.—Such programs may include basic research at universities, demonstrations of applications, and cooperative activities involving other Government agencies, private sector parties, and foreign and international organizations.
+
+(c)
+
+Role of Other Federal Agencies.—Other United States Government agencies are authorized and encouraged to conduct research and development on the use of remote sensing in the fulfillment of their authorized missions, using funds appropriated for such purposes.
+
+(Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3417.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+60131
+
+15 U.S.C. 5631.
+
+Pub. L. 102–555, title III, §301, Oct. 28, 1992, 106 Stat. 4174.
+

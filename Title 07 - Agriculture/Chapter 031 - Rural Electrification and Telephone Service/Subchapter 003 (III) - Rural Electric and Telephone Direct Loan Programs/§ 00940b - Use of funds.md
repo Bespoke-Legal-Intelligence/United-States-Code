@@ -6,5 +6,5 @@ A borrower of an insured or guaranteed electric loan under this chapter may, wit
 
 #### Amendments
 
-1994—Pub. L. 103–354 substituted “Secretary” for “Administrator”.
+<b>1994</b>—Pub. L. 103–354 substituted “Secretary” for “Administrator”.
 

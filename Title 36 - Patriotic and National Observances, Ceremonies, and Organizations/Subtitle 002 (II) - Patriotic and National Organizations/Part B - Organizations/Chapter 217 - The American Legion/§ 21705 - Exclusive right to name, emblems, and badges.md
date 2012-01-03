@@ -26,5 +26,5 @@ Sept. 16, 1919, ch. 59, §§4 (words between 4th and 5th semicolons), 8, 41 Stat
 
 &nbsp;
 
-The word “sole” is omitted as included in “exclusive”. The words “to have and”, “in carrying out itspurposes”, and “in carrying out the purposes of the corporation” are omitted as unnecessary.
+The word “sole” is omitted as included in “exclusive”. The words “to have and”, “in carrying out its purposes”, and “in carrying out the purposes of the corporation” are omitted as unnecessary.
 

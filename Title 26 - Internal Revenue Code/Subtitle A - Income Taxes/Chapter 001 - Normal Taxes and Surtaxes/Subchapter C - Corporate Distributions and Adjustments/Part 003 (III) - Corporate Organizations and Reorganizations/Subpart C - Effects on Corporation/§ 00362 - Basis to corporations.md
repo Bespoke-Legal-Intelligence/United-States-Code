@@ -82,13 +82,13 @@ If property was acquired by a corporation in connection with a reorganization to
 
 &emsp;&emsp;&emsp;(i) property is transferred by a transferor in any transaction which is described in subsection (a) and which is not described in paragraph (1) of this subsection, and
 
-&emsp;&emsp;&emsp;(ii) the transferee's aggregate adjusted bases of such property so transferred would (but for this paragraph) exceed the fair market value of such property immediately after such transaction,
+&emsp;&emsp;&emsp;(ii) the transferee's aggregate adjusted bases of such property so transferredwould (but for this paragraph) exceed the fair market value of such property immediately after such transaction,
 
 > &emsp;&emsp;then, notwithstanding subsection (a), the transferee's aggregate adjusted bases of the property so transferred shall not exceed the fair market value of such property immediately after such transaction.
 
 #### (B) Allocation of basis reduction
 
-&emsp;&emsp;The aggregate reduction in basis by reason of subparagraph (A) shall be allocatedamong the property so transferred in proportion to their respective built-in losses immediately before the transaction.
+&emsp;&emsp;The aggregate reduction in basis by reason of subparagraph (A) shall be allocated among the property so transferred in proportion to their respective built-in losses immediately before the transaction.
 
 #### (C) Election to apply limitation to transferor's stock basis
 

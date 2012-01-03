@@ -14,3 +14,5 @@ Any person who serves as a Governor of the Bank or as an alternate for the Gover
 
 Subsecs. (a) and (b) were in the original (A) and (B), respectively, and were editorially redesignated for purposes of codification.
 
+Another section 562(c)(3) of Pub. L. 101–513 is set out as a note under section 2293 of this title.
+

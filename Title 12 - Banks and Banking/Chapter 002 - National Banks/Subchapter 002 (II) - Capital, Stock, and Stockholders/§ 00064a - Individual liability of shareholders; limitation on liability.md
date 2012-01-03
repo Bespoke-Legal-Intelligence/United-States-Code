@@ -10,9 +10,9 @@ Sections 63 and 64 of this title, referred to in text, were repealed by Pub. L. 
 
 #### Amendments
 
-1953—Act May 18, 1953, provided for termination of the additional liability, referred to in the section, by action of the Comptroller of the Currency with regard to those associations which had not, prior to May 18, 1953, caused notice of termination to be published.
+<b>1953</b>—Act May 18, 1953, provided for termination of the additional liability, referred to in the section, by action of the Comptroller of the Currency with regard to those associations which had not, prior to May 18, 1953, caused notice of termination to be published.
 
-1935—Act Aug. 23, 1935, added second and third sentences.
+<b>1935</b>—Act Aug. 23, 1935, added second and third sentences.
 
 #### Exception as to Transfer of Functions
 

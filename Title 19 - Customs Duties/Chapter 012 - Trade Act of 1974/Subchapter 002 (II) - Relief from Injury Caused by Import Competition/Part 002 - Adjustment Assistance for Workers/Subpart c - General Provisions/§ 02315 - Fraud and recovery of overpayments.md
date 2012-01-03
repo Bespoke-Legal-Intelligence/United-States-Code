@@ -28,17 +28,23 @@ Except for overpayments determined by a court of competent jurisdiction, no repa
 
 Any amount recovered under this section shall be returned to the Treasury of the United States.
 
-(Pub. L. 93–618, title II, §243, Jan. 3, 1975, 88 Stat. 2026; Pub. L. 97–35, title XXV, §2509, Aug. 13, 1981, 95 Stat. 887; Pub. L. 111–5, div. B, title I, §1855, Feb. 17, 2009, 123 Stat. 394.)
+(Pub. L. 93–618, title II, §243, Jan. 3, 1975, 88 Stat. 2026; Pub. L. 97–35, title XXV, §2509, Aug. 13, 1981, 95 Stat. 887; Pub. L. 111–5, div. B, title I, §1855, Feb. 17, 2009, 123 Stat. 394; Pub. L. 112–40, title II, §201(b), (c), Oct. 21, 2011, 125 Stat. 403.)
 
-#### Amendment of Section
+#### Reversion to Provisions in Effect on February 13, 2011
 
-<i>For termination of amendment by section 1893 of Pub. L. 111–5, see Effective and Termination Dates of 2009 Amendment note below.</i>
+<i>For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to section 233(b) of Pub. L. 112–40, see Codification and Effective and Termination Dates of 2011 Revival notes below.</i>
+
+#### Codification
+
+Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination of amendment by Pub. L. 111–5, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, and the provisions of this section, as amended by Pub. L. 111–5 and as in effect on Feb. 12, 2011, were temporarily revived, effective Oct. 21, 2011, until Jan. 1, 2014, by Pub. L. 112–40, §§201(b), (c), 233. See 2009 and 2011 Amendment notes, Effective and Termination Dates of 2009 Amendment notes, and Effective and Termination Dates of 2011 Revival note below.
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a)(1). Pub. L. 111–5, §§1855(1), 1893, in introductory provisions, temporarily substituted “shall waive” for “may waive” and struck out “, in accordance with guidelines prescribed by the Secretary,” before “that—”. See Effective and Termination Dates of 2009 Amendment note below.
+<b>2011</b>—Pub. L. 112–40, §§201(b), (c), 233, temporarily revived the provisions of this section, as in effect on Feb. 12, 2011. See Codification note above and 2009 Amendment and Effective and Termination Dates of 2011 Revival notes below.
 
-Subsec. (a)(1)(B). Pub. L. 111–5, §§1855(2), 1893, temporarily substituted “would cause a financial hardship for the individual (or the individual's household, if applicable) when taking into consideration the income and resources reasonably available to the individual (or household) and other ordinary living expenses of the individual (or household)” for “would be contrary to equity and good conscience”. See Effective and Termination Dates of 2009 Amendment note below.
+<b>2009</b>—Subsec. (a)(1). Pub. L. 111–5, §§1855(1), 1893, in introductory provisions, temporarily substituted “shall waive” for “may waive” and struck out “, in accordance with guidelines prescribed by the Secretary,” before “that—”. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+
+Subsec. (a)(1)(B). Pub. L. 111–5, §§1855(2), 1893, temporarily substituted “would cause a financial hardship for the individual (or the individual's household, if applicable) when taking into consideration the income and resources reasonably available to the individual (or household) and other ordinary living expenses of the individual (or household)” for “would be contrary to equity and good conscience”. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
 <b>1981</b>—Subsec. (a). Pub. L. 97–35 designated existing provisions as par. (1), revised provisions, made changes in nomenclature and, among other changes, inserted provisions respecting waiver, and added par. (2).
 
@@ -46,11 +52,15 @@ Subsec. (b). Pub. L. 97–35 substituted provisions relating to ineligibility fo
 
 Subsecs. (c), (d). Pub. L. 97–35 added subsecs. (c) and (d).
 
+#### Effective and Termination Dates of 2011 Revival
+
+For temporary revival and applicability of provisions as in effect on Feb. 12, 2011, see sections 201(b), (c) and 233 of Pub. L. 112–40, set out as notes preceding section 2271 of this title. For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to section 233(b) of Pub. L. 112–40, see section 233 of Pub. L. 112–40, set out as a note preceding section 2271 of this title.
+
 #### Effective and Termination Dates of 2009 Amendment
 
 Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title.
 
-Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and this section to be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
+Section 1893 of Pub. L. 111–5, which provided that, except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and that this section be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403. See Codification note above.
 
 #### Effective Date of 1981 Amendment and Transition Provisions
 
@@ -58,5 +68,5 @@ Amendment by Pub. L. 97–35 effective Aug. 13, 1981, with transition provisions
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after Feb. 12, 2011, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after Dec. 31, 2013, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 

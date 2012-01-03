@@ -20,7 +20,7 @@ The provisions of sections 254<i>l</i>–1, 254m, and 254<i>o</i> of this title 
 
 #### (2) Availability of funds
 
-&emsp;Amounts made available to carry out this section shall remain available until the expiration of the second fiscal year beginning after the fiscal year for which such amounts were made available.
+&emsp;Amounts made available to carry out this section shall remain available until the expiration of the second fiscal year beginning afterthe fiscal year for which such amounts were made available.
 
 (July 1, 1944, ch. 373, title IV, §487F, as added Pub. L. 106–310, div. A, title X, §1002(b), Oct. 17, 2000, 114 Stat. 1129; amended Pub. L. 110–85, title V, §503(b), Sept. 27, 2007, 121 Stat. 890.)
 

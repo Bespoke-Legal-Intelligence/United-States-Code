@@ -6,7 +6,7 @@ The Office for Domestic Preparedness shall be within the Directorate of Border a
 
 #### (b) Director
 
-There shall be a Director of the Office for Domestic Preparedness, who shall be appointed by the President, by and with the advice and consent of the Senate. The Director of the Office for Domestic Preparedness shall report directly to the Under Secretary for Border and Transportation Security.
+There shall be a Director of the Office for Domestic Preparedness, who shall be appointed bythe President, by and with the advice and consent of the Senate. The Director of the Office for Domestic Preparedness shall report directly to the Under Secretary for Border and Transportation Security.
 
 #### (c) Responsibilities
 
@@ -38,5 +38,5 @@ During fiscal year 2003 and fiscal year 2004, the Director of the Office for Dom
 
 #### Amendments
 
-2004—Subsec. (c)(9). Pub. L. 108–458 added par. (9).
+<b>2004</b>—Subsec. (c)(9). Pub. L. 108–458 added par. (9).
 

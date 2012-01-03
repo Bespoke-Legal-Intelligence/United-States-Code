@@ -140,7 +140,7 @@ For purposes of this chapter, the term “enactment date” means the date of th
 
 #### References in Text
 
-Section 9713A, referred to in subsec. (a)(4), probably should be a reference to section 9712 which provided forthe establishment of the United Mine Workers of America 1992 Benefit Plan, referred to in that section as the “1992 UMWA Benefit Plan”. No section 9713A of this title has been enacted.
+Section 9713A, referred to in subsec. (a)(4), probably should be a reference to section 9712 which provided for the establishment of the United Mine Workers of America 1992 Benefit Plan, referred to in that section as the “1992 UMWA Benefit Plan”. No section 9713A of this title has been enacted.
 
 The date of the enactment of this chapter, referred to in subsec. (d), is the date of the enactment of Pub. L. 102–486, which was approved Oct. 24, 1992.
 

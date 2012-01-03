@@ -6,7 +6,7 @@ Nothing in this chapter shall be construed to apply to (or to authorize any Stat
 
 #### (b) Integration with other Acts
 
-(1) The Administrator shall integrate all provisions of this chapter for purposes of administration and enforcement and shall avoid duplication, to the maximum extent practicable, with the appropriate provisions of the Clean Air Act \[42 U.S.C. 7401 et seq.\], the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\], the Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C. 136 et seq.\], the Safe Drinking Water Act \[42 U.S.C. 300f et seq.\], the Marine Protection, Research and Sanctuaries Act of 1972 \[16 U.S.C. 1431 et seq., 1447 et seq., 33 U.S.C. 1401 etseq., 2801 et seq.\], and such other Acts of Congress as grant regulatory authority to the Administrator. Such integration shall be effected only to the extent that it can be done in a manner consistent with the goals and policies expressed in this chapter and in the other acts referred to in this subsection.
+(1) The Administrator shall integrate all provisions of this chapter for purposes of administration and enforcement and shall avoid duplication, to the maximum extent practicable, with the appropriate provisions of the Clean Air Act \[42 U.S.C. 7401 et seq.\], the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\], the Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C. 136 et seq.\], the Safe Drinking Water Act \[42 U.S.C. 300f et seq.\], the Marine Protection, Research and Sanctuaries Act of 1972 \[16 U.S.C. 1431 et seq., 1447 et seq., 33 U.S.C. 1401 et seq., 2801 et seq.\], and such other Acts of Congress as grant regulatory authority to the Administrator. Such integration shall be effected only to the extent that it can be done in a manner consistent with the goals and policies expressed in this chapter and in the other acts referred to in this subsection.
 
 (2)(A) As promptly as practicable after November 8, 1984, the Administrator shall submit a report describing—
 
@@ -38,7 +38,7 @@ The Marine Protection, Research and Sanctuaries Act of 1972, referred to in subs
 
 The Safe Drinking Water Act, referred to in subsecs. (a) and (b), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1660, as amended, which is classified generally to subchapter XII (§300f et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
-The Clean Air Act, referred to in subsec. (b)(1), (2)(B), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
+The Clean Air Act, referred to in subsec. (b)(1), (2)(B), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of this title. For complete classification of this Act tothe Code, see Short Title note set out under section 7401 of this title and Tables.
 
 The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (b), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
 
@@ -58,7 +58,7 @@ Subsec. (b)(3). Pub. L. 98–616, §501(f)(2), added par. (3).
 
 #### Transfer of Functions
 
-For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural GasTransportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 6903 of this title.
+For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 6903 of this title.
 
 #### Uranium Mill Tailings
 

@@ -74,7 +74,7 @@ The Plant Variety Protection Act Amendments of 1994, referred to in subsec. (b)(
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–349, §9(1)(A), substituted “protected” for “novel” in two places in introductory provisions.
+<b>1994</b>—Subsec. (a). Pub. L. 103–349, §9(1)(A), substituted “protected” for “novel” in two places in introductory provisions.
 
 Subsec. (a)(1). Pub. L. 103–349, §9(1)(B), substituted “or market the protected” for “the novel”.
 
@@ -96,9 +96,9 @@ Subsecs. (b) to (e). Pub. L. 103–349, §9(3), added subsecs. (b) to (e). Forme
 
 Subsec. (f). Pub. L. 103–349, §§9(2), 13(q), redesignated subsec. (b) as (f) and in first sentence substituted “the official capacity of the officer or employee” for “his official capacity”.
 
-1992—Pub. L. 102–560 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1992</b>—Pub. L. 102–560 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1980—Par. (5). Pub. L. 96–574 substituted “ ‘Unauthorized Propagation Prohibited’ or ‘Unauthorized Seed Multiplication Prohibited’ ” for “ ‘propagation prohibited’ ”.
+<b>1980</b>—Par. (5). Pub. L. 96–574 substituted “ ‘Unauthorized Propagation Prohibited’ or ‘Unauthorized Seed Multiplication Prohibited’ ” for “ ‘propagation prohibited’ ”.
 
 #### Effective Date of 1994 Amendment
 

@@ -28,7 +28,7 @@ Use of Property.—Any contribution of property received under this section may 
 
 (e)
 
-Reporting Requirement.—(1) Not later than 30 days after the end of each quarter of each fiscal year, the Secretary of Defense shall submit to Congress a report on contributions of property accepted by the Secretary under this section during the preceding quarter. The Secretary shall include in each such report a description of all property having a value of more than $1,000,000.
+Reporting Requirement.—(1) Not later than 30 days after the end of the second quarter and the fourth quarter of each fiscal year, the Secretary of Defense shall submit to Congress a report on contributions of property accepted by the Secretary under this section during the preceding two quarters. The Secretary shall include in each such report a description of all property having a value of more than $1,000,000.
 
 (2) In computing the value of any property referred to in paragraph (1), the Secretary shall aggregate the value of—
 
@@ -62,9 +62,11 @@ Items Included as Contributions.—In this section, the term “contribution” 
 
 Regulations.—The Secretary of Defense shall prescribe regulations to carry out this section.
 
-(Added Pub. L. 101–403, title II, §202(a)(1), Oct. 1, 1990, 104 Stat. 872; amended Pub. L. 102–190, div. A, title X, §1061(a)(16), Dec. 5, 1991, 105 Stat. 1473; Pub. L. 103–160, div. A, title XI, §1105(b)(1), (2), Nov. 30, 1993, 107 Stat. 1750; Pub. L. 104–201, div. A, title X, §1063, Sept. 23, 1996, 110 Stat. 2652.)
+(Added Pub. L. 101–403, title II, §202(a)(1), Oct. 1, 1990, 104 Stat. 872; amended Pub. L. 102–190, div. A, title X, §1061(a)(16), Dec. 5, 1991, 105 Stat. 1473; Pub. L. 103–160, div. A, title XI, §1105(b)(1), (2), Nov. 30, 1993, 107 Stat. 1750; Pub. L. 104–201, div. A, title X, §1063, Sept. 23, 1996, 110 Stat. 2652; Pub. L. 112–81, div. A, title X, §1064(7), Dec. 31, 2011, 125 Stat. 1587.)
 
 #### Amendments
+
+<b>2011</b>—Subsec. (e)(1). Pub. L. 112–81 substituted “the second quarter and the fourth quarter” for “each quarter” and “the preceding two quarters” for “the preceding quarter”.
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–201 inserted before period at end “and may accept from any foreign government or international organization any contribution of services made by such foreign government or international organization for use by the Department of Defense”.
 

@@ -14,21 +14,21 @@ Section was not enacted as part of the Agricultural Adjustment Act which compris
 
 #### Amendments
 
-2002—Pub. L. 107–171, which directed amendment of second undesignated par. by substituting “$500,000,000” for “$300,000,000”, was executed by making the substitution in text to reflect the probable intent of Congress, because section does not contain a second undesignated par.
+<b>2002</b>—Pub. L. 107–171, which directed amendment of second undesignated par. by substituting “$500,000,000” for “$300,000,000”, was executed by making the substitution in text to reflect the probable intent of Congress, because section does not contain a second undesignated par.
 
-1985—Pub. L. 99–198 inserted sentence authorizing a public or private nonprofit organization that receives agricultural commodities or the products thereof under clause (2) of the second sentence to transfer such commodities or products to another public or private nonprofit organization that agrees to use such commodities or products to provide, without cost or waste, nutrition assistance to individuals in low-income groups.
+<b>1985</b>—Pub. L. 99–198 inserted sentence authorizing a public or private nonprofit organization that receives agricultural commodities or the products thereof under clause (2) of the second sentence to transfer such commodities or products to another public or private nonprofit organization that agrees to use such commodities or products to provide, without cost or waste, nutrition assistance to individuals in low-income groups.
 
-1954—Act Jan. 30, 1954, substituted “(other than those receiving price support under section 1446 of this title)” for “(other than those designated in section 1446 of this title),” in next to last sentence.
+<b>1954</b>—Act Jan. 30, 1954, substituted “(other than those receiving price support under section 1446 of this title)” for “(other than those designated in section 1446 of this title),” in next to last sentence.
 
-1949—Act Oct. 31, 1949, inserted sentence relating to perishable nonbasic agricultural commodities.
+<b>1949</b>—Act Oct. 31, 1949, inserted sentence relating to perishable nonbasic agricultural commodities.
 
-1948—Act July 3, 1948, inserted sentence providing for the accumulation of funds up to $300,000,000.
+<b>1948</b>—Act July 3, 1948, inserted sentence providing for the accumulation of funds up to $300,000,000.
 
-1939—Act June 30, 1939, in cl. (2), inserted “or by increasing their utilization through benefits, indemnities, donations or by other means, among persons in low income groups as determined by the Secretary of Agriculture”.
+<b>1939</b>—Act June 30, 1939, in cl. (2), inserted “or by increasing their utilization through benefits, indemnities, donations or by other means, among persons in low income groups as determined by the Secretary of Agriculture”.
 
-1938—Act Feb. 16, 1938, inserted “Notwithstanding any other provision of this section, the amount that may be devoted, during any fiscal year after June 30, 1939, to any one agricultural commodity or the products thereof in such fiscal year, shall not exceed 25 per centum of the funds available under this section for such fiscal year.”
+<b>1938</b>—Act Feb. 16, 1938, inserted “Notwithstanding any other provision of this section, the amount that may be devoted, during any fiscal year after June 30, 1939, to any one agricultural commodity or the products thereof in such fiscal year, shall not exceed 25 per centum of the funds available under this section for such fiscal year.”
 
-1936—Act Feb. 29, 1936, struck out cl. (3) and inserted in lieu thereof immediately preceding second proviso “(3) reestablish farmers’ purchasing power by making payments in connection with the normal production of any agricultural commodity for domestic consumption. Determinations by the Secretary as to what constitutes diversion and what constitutes normal channels of trade and commerce and what constitutes normal production for domestic consumption shall be final. The sums appropriated under this section shall be expended for such one or more of the above-specified purposes, and at such times, in such manner, and in such amounts as the Secretary of Agriculture finds will effectuate substantial accomplishment of any one or more of the purposes of this section.”
+<b>1936</b>—Act Feb. 29, 1936, struck out cl. (3) and inserted in lieu thereof immediately preceding second proviso “(3) reestablish farmers’ purchasing power by making payments in connection with the normal production of any agricultural commodity for domestic consumption. Determinations by the Secretary as to what constitutes diversion and what constitutes normal channels of trade and commerce and what constitutes normal production for domestic consumption shall be final. The sums appropriated under this section shall be expended for such one or more of the above-specified purposes, and at such times, in such manner, and in such amounts as the Secretary of Agriculture finds will effectuate substantial accomplishment of any one or more of the purposes of this section.”
 
 #### Effective Date of 1948 Amendment
 
@@ -220,7 +220,7 @@ Advisory council.—(A) The Secretary shall establish an advisory council on the
 
 &emsp;“(C) Members of the council shall serve without compensation but shall receive reimbursement for necessary travel and subsistence expenses incurred by them in the performance of the duties of the committee.
 
-&emsp;“(D) The council shall report annually to the Secretary of Agriculture, the Committee on Education and Labor and the Committee on Agriculture of the House of Representatives, and the Committee on Agriculture, Nutrition, and Forestry of the Senate.
+&emsp;“(D) The council shall report annually to the Secretary of Agriculture, the Committee on Education and Labor \[now Education and the Workforce\] and the Committee on Agriculture of the House of Representatives, and the Committee on Agriculture, Nutrition, and Forestry of the Senate.
 
 &emsp;“(E) The council shall expire on September 30, 1996.
 
@@ -296,7 +296,7 @@ Duties of State Distribution Agencies.—On or before July 1, 1992, the Secretar
 
 &emsp;“(4) consider the preparation and storage capabilities of recipient agencies when ordering donated commodities, including capabilities of such agencies to handle commodity product forms, quality, packaging, and quantities; and
 
-&emsp;“(5) in the case of any such agency that enters into a contract with respect to processing of agricultural commodities and their products for recipient agencies—
+&emsp;“(5) in the case of any such agency that enters into a contract with respect to processing of agriculturalcommodities and their products for recipient agencies—
 
 &emsp;&emsp;“(A) test the product of such processing with the recipient agencies before entering into a contract for such processing; and
 
@@ -398,7 +398,7 @@ Uniform Interpretation.—The Secretary shall take such actions as are necessary
 
 “(k)
 
-Report.—Not later than January 1, 1989, the Secretary shall submit to the Committee on Education and Labor and the Committee on Agriculture of the House of Representatives and to the Committee on Agriculture, Nutrition, and Forestry of the Senate a report on the implementation and operation of this section.
+Report.—Not later than January 1, 1989, the Secretary shall submit to the Committee on Education and Labor \[now Education and the Workforce\] and the Committee on Agriculture of the House of Representatives and to the Committee on Agriculture, Nutrition, and Forestry of the Senate a report on the implementation and operation of this section.
 
 #### “SEC. 3A. ADVANCE FUNDING FOR STATE OPTION CONTRACTS.
 
@@ -418,7 +418,7 @@ Community Food Banks.—The Secretary shall carry out no less than one demonstra
 
 “(b)
 
-Recordkeeping and Monitoring.—Each food bank participating in the demonstration projects under this section shall establish a recordkeeping system and internal procedures to monitor the use of agriculturalcommodities and food products provided under this section. The Secretary shall develop standards by which the feasibility and effectiveness of the projects shall be measured, and shall conduct an ongoing review of the effectiveness of the projects.
+Recordkeeping and Monitoring.—Each food bank participating in the demonstration projects underthis section shall establish a recordkeeping system and internal procedures to monitor the use of agricultural commodities and food products provided under this section. The Secretary shall develop standards by which the feasibility and effectiveness of the projects shall be measured, and shall conduct an ongoing review of the effectiveness of the projects.
 
 “(c)
 
@@ -436,7 +436,7 @@ Assessment.—The Comptroller General of the United States shall monitor and ass
 
 “(b)
 
-Report.—Before the expiration of the 18-month period beginning on the date of the enactment of this Act \[Jan. 8, 1988\], the Comptroller General shall submit to the Committee on Education and Labor and the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report of the findings of the assessment conducted as required by subsection (a).
+Report.—Before the expiration of the 18-month period beginning on the date of the enactment of this Act \[Jan. 8, 1988\], the Comptroller General shall submit to the Committee on Education and Labor \[now Education and the Workforce\] and the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report of the findings of the assessment conducted as required by subsection (a).
 
 #### “SEC. 13. AUTHORITY TO TRANSFER COMMODITIES BETWEEN PROGRAMS.
 
@@ -592,7 +592,7 @@ Pub. L. 98–8, title II, Mar. 24, 1983, 97 Stat. 35, as amended by Pub. L. 98�
 
 Pub. L. 97–253, title I, §135, Sept. 8, 1982, 96 Stat. 772, authorized Secretary of Agriculture, for each of fiscal years 1983, 1984, and 1985, to use up to $190,000,000 of Commodity Credit Corporation funds to carry out export activities through Commodity Credit Corporation under provisions of law in effect on Sept. 8, 1982, including activities authorized under amendments made by section 405(d) of Pub. L. 98–623 to sections 1707a and 1732 of this title and section 714c(f) of Title 15, Commerce and Trade, even if those export activities were not included in budget program of Corporation.
 
-\[Amendments made by section 405(d) of Pub. L. 98–623, amending sections 1707a and 1732 of this title and section 714c(f) of Title 15, Commerce and Trade, to be considered as having taken effect before Sept. 8, 1982,for purposes of section 135 of Pub. L. 97–253, set out above, see section 405(d) of Pub. L. 98–623, set out as an Effective Date of 1984 Amendment note under section 714c of Title 15, Commerce and Trade.\]
+\[Amendments made by section 405(d) of Pub. L. 98–623, amending sections 1707a and 1732 of this title and section 714c(f) of Title 15, Commerce and Trade, to beconsidered as having taken effect before Sept. 8, 1982, for purposes of section 135 of Pub. L. 97–253, set out above, see section 405(d) of Pub. L. 98–623, set out as an Effective Date of 1984 Amendment note under section 714c of Title 15, Commerce and Trade.\]
 
 #### Distribution of Commodities to Individuals in Cases of Hardship
 

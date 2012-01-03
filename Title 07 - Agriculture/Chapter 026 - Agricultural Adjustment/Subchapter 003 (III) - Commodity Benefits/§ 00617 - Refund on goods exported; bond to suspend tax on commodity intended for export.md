@@ -16,13 +16,13 @@ References to the Philippine Islands in subsec. (a) were omitted from the Code a
 
 #### Amendments
 
-1936—Subsec. (a). Act June 22, 1936, reenacted subsec. (a) for refund purposes only.
+<b>1936</b>—Subsec. (a). Act June 22, 1936, reenacted subsec. (a) for refund purposes only.
 
-1935—Subsec. (a). Act Aug. 24, 1935, struck out first two sentences and substituted “Upon the exportation to any foreign country (and/or to the Philippine Islands, the Virgin Islands, American Samoa, the Canal Zone, and the island of Guam) of any product processed wholly or partly from a commodity with respect to which product or commodity a tax has been paid or is payable under this chapter, the tax due and payable or due and paid shall be credited or refunded. Under regulations prescribed by the Commissioner of InternalRevenue, with the approval of the Secretary of the Treasury, the credit or refund shall be allowed to the consignor named in the bill of lading under which the product is exported or to the shipper or to the person liable for the tax provided the consignor waives any claim thereto in favor of such shipper or person liable for the tax.”
+<b>1935</b>—Subsec. (a). Act Aug. 24, 1935, struck out first two sentences and substituted “Upon the exportation to any foreign country (and/or to the Philippine Islands, the Virgin Islands, American Samoa, the Canal Zone, and the island of Guam) of any product processed wholly or partly from a commodity with respect to which product or commodity a tax has been paid or is payable under this chapter, the tax due and payable or due and paid shall be credited or refunded. Under regulations prescribed by the Commissioner of Internal Revenue, with the approval of the Secretary of the Treasury, the credit or refund shall be allowed to the consignor named in the bill of lading under which the product is exported or to the shipper or to the person liable for the tax provided the consignor waives any claim thereto in favor of such shipper or person liable for the tax.”
 
 Act Mar. 18, 1935, inserted third sentence.
 
-1934—Subsec. (a). Act May 9, 1934, amended subsec. (a) generally.
+<b>1934</b>—Subsec. (a). Act May 9, 1934, amended subsec. (a) generally.
 
 Subsec. (b). Act May 9, 1934, §13, substituted “partly” for “in chief value”.
 

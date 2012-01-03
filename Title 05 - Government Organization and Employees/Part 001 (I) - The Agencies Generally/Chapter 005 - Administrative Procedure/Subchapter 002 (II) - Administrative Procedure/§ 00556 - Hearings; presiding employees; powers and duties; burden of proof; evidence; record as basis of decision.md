@@ -62,13 +62,13 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1990—Subsec. (c)(6). Pub. L. 101–552, §4(a)(1), inserted before semicolon at end “or by the use of alternative means of dispute resolution as provided in subchapter IV of this chapter”.
+<b>1990</b>—Subsec. (c)(6). Pub. L. 101–552, §4(a)(1), inserted before semicolon at end “or by the use of alternative means of dispute resolution as provided in subchapter IV of this chapter”.
 
 Subsec. (c)(7) to (11). Pub. L. 101–552, §4(a)(2), added pars. (7) and (8) and redesignated former pars. (7) and (8) and redesignated former pars. (7) to (9) as (9) to (11), respectively.
 
-1978—Subsec. (b)(3). Pub. L. 95–251 substituted “administrative law judges” for “hearing examiners”.
+<b>1978</b>—Subsec. (b)(3). Pub. L. 95–251 substituted “administrative law judges” for “hearing examiners”.
 
-1976—Subsec. (d). Pub. L. 94–409 inserted provisions relating to consideration by agency of a violation under section 557(d) of this title.
+<b>1976</b>—Subsec. (d). Pub. L. 94–409 inserted provisions relating to consideration by agency of a violation under section 557(d) of this title.
 
 #### Effective Date of 1976 Amendment
 
@@ -88,11 +88,11 @@ Functions vested by this subchapter in hearing examiners employed by Department 
 
 #### Hearing Examiners Employed by Department of Justice
 
-Functions vested by this subchapter in hearing examiners employed by Department of Justice not included in functions of officers, agencies, and employees of that Department transferred to Attorney General by 1950 Reorg. Plan No. 2, §1, eff. May 24, 1950, 15 F.R. 3173, 64 Stat. 1261, set out in the Appendix to this title.
+Functions vested by this subchapter in hearing examiners employed by Department of Justice not included in functions of officers, agencies, and employees of thatDepartment transferred to Attorney General by 1950 Reorg. Plan No. 2, §1, eff. May 24, 1950, 15 F.R. 3173, 64 Stat. 1261, set out in the Appendix to this title.
 
 #### Hearing Examiners Employed by Department of Labor
 
-Functions vested by this subchapter in hearing examiners employed by Department of Labor not included in functions of officers, agencies, and employees of thatDepartment transferred to Secretary of Labor by 1950 Reorg. Plan No. 6, §1, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to this title.
+Functions vested by this subchapter in hearing examiners employed by Department of Labor not included in functions of officers, agencies, and employees of that Department transferred to Secretary of Labor by 1950 Reorg. Plan No. 6, §1, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to this title.
 
 #### Hearing Examiners Employed by Department of the Treasury
 

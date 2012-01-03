@@ -116,7 +116,7 @@ Readiness of National Guard to Perform Civil Support Missions.—(1) Each report
 
 (2) Any information in an assessment under this subsection that is relevant to the National Guard of a particular State shall also be made available to the Governor of that State.
 
-(3) The Secretary shall ensure that each State Governor has an opportunity to provide to theSecretary an independent evaluation of that State's National Guard, which the Secretary shall include with each assessment submitted under this subsection.
+(3) The Secretary shall ensure that each State Governor has an opportunity to provide to the Secretary an independent evaluation of that State's National Guard, which the Secretary shall include with each assessment submitted under this subsection.
 
 (g)
 

@@ -16,7 +16,7 @@ The amount of the grant to be made to a State under this section for a fiscal ye
 
 #### (1) In general
 
-&emsp;The allotment of a State for a fiscal year is the amount that bears the same ratio to $10,000,000 for grants under this section for the fiscal year as the number of children in the State living with only 1 biological parent bears to the total number of such children in all States.
+&emsp;The allotment of a State for a fiscal year is the amount that bears the same ratio to $10,000,000 for grants under this section for thefiscal year as the number of children in the State living with only 1 biological parent bears to the total number of such children in all States.
 
 #### (2) Minimum allotment
 

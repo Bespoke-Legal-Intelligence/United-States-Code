@@ -50,7 +50,7 @@ Pub. L. 105–174, title III, §3006, May 1, 1998, 112 Stat. 85, provided that:
 
 “(C) Any State which receives payments required by subsection (b)(2)(A) shall expend such funds only in the manner, and for the purposes, prescribed in section 500 of title 16, United States Code.
 
-“(c)(1) During the term of the moratorium referred to in subsection (a)(2), the Chief shall prepare and submit to the Committees on Appropriations of the House ofRepresentatives and the Senate a report on each of the following—
+“(c)(1) During the term of the moratorium referred to in subsection (a)(2), the Chief shall prepare and submit to the Committees on Appropriations of the House of Representatives and the Senate a report on each of the following—
 
 &emsp;“(A) a study of whether standards and guidelines in existing land and resource management plans compel or encourage entry into roadless areas within the National Forest System for the purpose of constructing roads or undertaking any other ground-disturbing activities;
 

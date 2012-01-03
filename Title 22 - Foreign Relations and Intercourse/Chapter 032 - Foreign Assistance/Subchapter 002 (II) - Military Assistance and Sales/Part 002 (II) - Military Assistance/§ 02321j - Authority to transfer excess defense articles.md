@@ -2,7 +2,7 @@
 
 #### (a) Authorization
 
-The President is authorized to transfer excess defense articles under this section to countries for which receipt of such articles was justified pursuant to the annual congressional presentation documents for military assistance programs, or for programs under part VIII of subchapter I of this chapter, submitted under section 2394 of this title, or for which receipt of such articles was separately justified to the Congress, for the fiscal year in which the transfer is authorized.
+The President is authorized to transfer excess defense articles under this section to countriesfor which receipt of such articles was justified pursuant to the annual congressional presentation documents for military assistance programs, or for programs under part VIII of subchapter I of this chapter, submitted under section 2394 of this title, or for which receipt of such articles was separately justified to the Congress, for the fiscal year in which the transfer is authorized.
 
 #### (b) Limitations on transfers
 
@@ -58,7 +58,7 @@ Section 2392(d) of this title shall not apply with respect to transfers of exces
 
 #### (1) In general
 
-&emsp;The President may not transfer excess defense articles that are significant military equipment (as defined in section 47(9) of the Arms Export Control Act \[22 U.S.C. 2794(9)\]) or excess defense articles valued (in terms of original acquisition cost) at $7,000,000 or more, under this section or under the Arms Export Control Act (22 U.S.C. 2751 et seq.) until 30 days after the date on which the President has provided notice of the proposed transfer to the congressional committees specified in section2394–1(a) of this title in accordance with procedures applicable to reprogramming notifications under that section.
+&emsp;The President may not transfer excess defense articles that are significant military equipment (as defined in section 47(9) of the Arms Export Control Act \[22 U.S.C. 2794(9)\]) or excess defense articles valued (in terms of original acquisition cost) at $7,000,000 or more, under this section or under the Arms Export Control Act (22 U.S.C. 2751 et seq.) until 30 days after the date on which the President has provided notice of the proposed transfer to the congressional committees specified in section 2394–1(a) of this title in accordance with procedures applicable to reprogramming notifications under that section.
 
 #### (2) Contents
 
@@ -68,7 +68,7 @@ Section 2392(d) of this title shall not apply with respect to transfers of exces
 
 &emsp;&emsp;(B) an assessment of the impact of the transfer on the military readiness of the United States;
 
-&emsp;&emsp;(C) an assessment of the impact of the transfer on the national technology and industrial base and, particularly, the impact on opportunities of entities in the national technology and industrial base to sell new or used equipment to the countries to which such articles are to be transferred; and
+&emsp;&emsp;(C) an assessment of the impact of the transfer on the national technology and industrial base and, particularly, the impact on opportunities of entities in the national technology and industrial base to sell new orused equipment to the countries to which such articles are to be transferred; and
 
 &emsp;&emsp;(D) a statement describing the current value of such article and the value of such article at acquisition.
 
@@ -242,7 +242,7 @@ Maintenance of Military Balance in Eastern Mediterranean.—
 
 &emsp;“(1)
 
-United states policy.—The Congress intends that excess defense articles be made available under this section consistent with the United States policy, established by section 841 of the International Cooperation Act of 1989 \[probably means section 841 of H.R. 2655, 101st Congress, which was not enacted\], of maintaining the military balance in the Eastern Mediterranean.
+United states policy.—The Congress intends that excess defense articles be made available underthis section consistent with the United States policy, established by section 841 of the International Cooperation Act of 1989 \[probably means section 841 of H.R. 2655, 101st Congress, which was not enacted\], of maintaining the military balance in the Eastern Mediterranean.
 
 &emsp;“(2)
 

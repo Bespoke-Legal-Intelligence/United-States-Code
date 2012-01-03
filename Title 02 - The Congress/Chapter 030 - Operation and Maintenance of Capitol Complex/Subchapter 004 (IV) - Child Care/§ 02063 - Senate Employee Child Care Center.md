@@ -26,7 +26,7 @@ The Center shall—
 
 #### (e) Government contributions
 
-Government contributions for individuals receiving benefits under this section, as computedunder section 8906 of title 5, shall be made by the Secretary of the Senate from the appropriations account, within the contingent fund of the Senate, “miscellaneous items”.
+Government contributions for individuals receiving benefits under this section, as computed under section 8906 of title 5, shall be made by the Secretary of the Senate from the appropriations account, within the contingent fund of the Senate, “miscellaneous items”.
 
 #### (f) Regulations
 

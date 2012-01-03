@@ -578,7 +578,7 @@ The order shall provide terms and conditions, not inconsistent with the provisio
 
 #### Amendments
 
-1991—Subsec. (g)(2)(A)(ii). Pub. L. 102–237, §806(1)(A), substituted “Agricultural” for “Argicultural”.
+<b>1991</b>—Subsec. (g)(2)(A)(ii). Pub. L. 102–237, §806(1)(A), substituted “Agricultural” for “Argicultural”.
 
 Subsec. (<i>l</i>)(2)(F)(vii)(V). Pub. L. 102–237, §806(1)(B), substituted “that request” for “that requests”.
 

@@ -16,7 +16,7 @@ Not later than 120 days after August 8, 2005, the Secretary shall enter into an 
 
 #### (c) Grant and technical assistance program
 
-Consistent with subsection (b) and section 12(d) of the National Technology Transfer and Advancement Act of 1995 (15 U.S.C. 272 note), the Secretary shall establish a grant and technical assistance program to support the development of voluntary consensus-based standards for high performance buildings.
+Consistent with subsection (b) and section 12(d) of the National Technology Transfer andAdvancement Act of 1995 (15 U.S.C. 272 note), the Secretary shall establish a grant and technical assistance program to support the development of voluntary consensus-based standards for high performance buildings.
 
 (Pub. L. 109–58, title IX, §914, Aug. 8, 2005, 119 Stat. 861.)
 

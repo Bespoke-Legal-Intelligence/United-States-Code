@@ -68,7 +68,7 @@
 
 #### (D) Other reporting requirements
 
-&emsp;&emsp;The Secretary may, as the Secretary determines appropriate, incorporate reporting requirements and incentive payments related to the physician quality reporting initiative (PQRI) under section 1395w–4 of this title, including such requirements and such payments related to electronic prescribing, electronic health records, and other similar initiatives under section 1395w–4 of this title, and may use alternative criteria than would otherwise apply under such section for determining whether to make such payments. The incentive payments described in the preceding sentence shall not be taken into consideration when calculating any payments otherwise made under subsection (d).
+&emsp;&emsp;The Secretary may, as the Secretary determines appropriate, incorporate reportingrequirements and incentive payments related to the physician quality reporting initiative (PQRI) under section 1395w–4 of this title, including such requirements and such payments related to electronic prescribing, electronic health records, and other similar initiatives under section 1395w–4 of this title, and may use alternative criteria than would otherwise apply under such section for determining whether to make such payments. The incentive payments described in the preceding sentence shall not be taken into consideration when calculating any payments otherwise made under subsection (d).
 
 #### (4) No duplication in participation in shared savings programs
 
@@ -170,7 +170,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), a model described in this paragraph is a partial capitation model in which an ACO is at financial risk for some, but not all, of the items and services covered under parts A and B, such as at risk for some or all physicians’ services or all items and services under part B. The Secretary may limit a partial capitationmodel to ACOs that are highly integrated systems of care and to ACOs capable of bearing risk, as determined to be appropriate by the Secretary.
+&emsp;&emsp;Subject to subparagraph (B), a model described in this paragraph is a partial capitation model in which an ACO is at financial risk for some, but not all, of the items and services covered under parts A and B, such as at risk for some or all physicians’ services or all items and services under part B. The Secretary may limit a partial capitation model to ACOs that are highly integrated systems of care and to ACOs capable of bearing risk, as determined to be appropriate by the Secretary.
 
 #### (B) No additional program expenditures
 

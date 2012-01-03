@@ -42,7 +42,7 @@ The Secretary, not later than 120 days after the effective date of this chapter,
 
 &emsp;&emsp;(A) A determination of whether the transfers of functions made by parts D and E of this subchapter have been completed, and if a transfer of functions has not taken place, identifying the reasons why the transfer has not taken place.
 
-&emsp;&emsp;(B) If the transfers of functions made by parts D and E of this subchapter have beencompleted, an identification of any issues that have arisen due to the completed transfers.
+&emsp;&emsp;(B) If the transfers of functions made by parts D and E of this subchapter have been completed, an identification of any issues that have arisen due to the completed transfers.
 
 &emsp;&emsp;(C) An identification of any issues that may arise due to any future transfer of functions.
 

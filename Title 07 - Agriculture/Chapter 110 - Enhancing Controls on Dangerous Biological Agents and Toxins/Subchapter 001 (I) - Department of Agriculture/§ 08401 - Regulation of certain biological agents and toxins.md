@@ -354,7 +354,7 @@ The Plant Protection Act, referred to in subsec. (i)(2), is title IV of Pub. L. 
 
 #### Amendments
 
-2002—Subsec. (e)(1). Pub. L. 107–296 substituted “collaboration with the Secretary of Homeland Security and” for “consultation with”.
+<b>2002</b>—Subsec. (e)(1). Pub. L. 107–296 substituted “collaboration with the Secretary of Homeland Security and” for “consultation with”.
 
 #### Effective Date of 2002 Amendment
 
@@ -387,4 +387,14 @@ Date Certain for Promulgation; Effective Date Regarding Criminal and Civil Penal
 “(d)
 
 Transitional Provision Regarding Current Research and Education.—The interim final rule under subsection (c) shall include time frames for the applicability of the rule that minimize disruption of research or educational projects that involve biological agents and toxins listed pursuant to section 212(a)(1) \[7 U.S.C. 8401(a)(1)\] and that were underway as of the effective date of such rule.”
+
+<i><sup>1</sup></i><i> So in original.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “judicial”.</i>
+
+<i><sup>3</sup></i><i> See References in Text note below.</i>
+
+<i><sup>4</sup></i><i> So in original. Probably should be preceded by “section”.</i>
+
+<i><sup>5</sup></i><i> So in original. Probably should be “section”.</i>
 

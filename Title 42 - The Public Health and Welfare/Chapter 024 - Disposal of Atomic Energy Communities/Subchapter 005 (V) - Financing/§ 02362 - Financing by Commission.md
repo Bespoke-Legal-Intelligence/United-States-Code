@@ -6,7 +6,7 @@ In the event that the Commission finds that financing on reasonable terms is not
 
 #### (b) Advances
 
-In connection with the sale of residential property financed under subsection (a) of thissection, the Commission is authorized to make advances for necessary repairs, or for the rehabilitation, modernization, rebuilding or enlargement of single and duplex residential properties to priority purchasers, and to include such advances in the amount of the note secured by the mortgage on such property.
+In connection with the sale of residential property financed under subsection (a) of this section, the Commission is authorized to make advances for necessary repairs, or for the rehabilitation, modernization, rebuilding or enlargement of single and duplex residential properties to priority purchasers, and to include such advances in the amount of the note secured by the mortgage on such property.
 
 #### (c) Acceptance of commercial property notes
 

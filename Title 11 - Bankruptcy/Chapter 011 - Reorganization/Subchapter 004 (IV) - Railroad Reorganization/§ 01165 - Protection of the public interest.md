@@ -6,7 +6,7 @@ In applying sections 1166, 1167, 1169, 1170, 1171, 1172, 1173, and 1174 of this 
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 1165 of the House amendment represents a modification of sections 1165 and 1167 of the Senate amendment requiring the court and the trustee to consider the broad, general public interest in addition to the interests of the debtor, creditors, and equity security holders in applying specific sections of the subchapter.
 

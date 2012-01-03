@@ -4,7 +4,7 @@
 
 When used in this subchapter, unless the context otherwise requires—
 
-&emsp;(1) “Advisory board” means a board, whether elected or appointed, which is distinct from the board of directors or board of trustees, of an investment company, and which is composed solely of persons who do not serve such company in any other capacity, whether or not the functions of such board are such as to render its members “directors” within the definition of that term, which board has advisory functions as to investments but has no power to determine that any security or other investment shall be purchased or sold by such company.
+&emsp;(1) “Advisory board” means a board, whether elected or appointed, which is distinct from the board of directors or board of trustees, of an investment company, and which is composed solely of persons who do not serve such company in any other capacity, whether or not the functions of such board are such as to render its members “directors” within the definition of that term, which board has advisoryfunctions as to investments but has no power to determine that any security or other investment shall be purchased or sold by such company.
 
 &emsp;(2) “Affiliated company” means a company which is an affiliated person.
 
@@ -28,7 +28,7 @@ When used in this subchapter, unless the context otherwise requires—
 
 &emsp;(11) The term “dealer” has the same meaning as given in the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], but does not include an insurance company or investment company.
 
-&emsp;(12) “Director” means any director of a corporation or any person performing similarfunctions with respect to any organization, whether incorporated or unincorporated, including any natural person who is a member of a board of trustees of a management company created as a common-law trust.
+&emsp;(12) “Director” means any director of a corporation or any person performing similar functions with respect to any organization, whether incorporated or unincorporated, including any natural person who is a member of a board of trustees of a management company created as a common-law trust.
 
 &emsp;(13) “Employees’ securities company” means any investment company or similar issuer all of the outstanding securities of which (other than short-term paper) are beneficially owned (A) by the employees or persons on retainer of a single employer or of two or more employers each of which is an affiliated company of the other, (B) by former employees of such employer or employers, (C) by members of the immediate family of such employees, persons on retainer, or former employees, (D) by any two or more of the foregoing classes of persons, or (E) by such employer or employers together with any one or more of the foregoing classes of persons.
 
@@ -72,7 +72,7 @@ When used in this subchapter, unless the context otherwise requires—
 
 &emsp;&emsp;&emsp;(vii) any natural person whom the Commission by order shall have determined to be an interested person by reason of having had, at any time since the beginning of the last two completed fiscal years of such company, a material business or professional relationship with such company or with the principal executive officer of such company or with any other investment company having the same investment adviser or principal underwriter or with the principal executive officer of such other investment company:
 
-> &emsp;&emsp;<i>Provided</i>, That no person shall be deemed to be an interested person of an investment company solely by reason of (aa) his being a member of its board of directors or advisory board or an owner of its securities, or (bb) his membership in the immediate family ofany person specified in clause (aa) of this proviso; and
+> &emsp;&emsp;<i>Provided</i>, That no person shall be deemed to be an interested person of an investment company solely by reason of (aa) his being a member of its board of directors or advisory board or an owner of its securities, or (bb) his membership in the immediate family of any person specified in clause (aa) of this proviso; and
 
 &emsp;&emsp;(B) when used with respect to an investment adviser of or principal underwriter for any investment company—
 
@@ -110,7 +110,7 @@ When used in this subchapter, unless the context otherwise requires—
 
 &emsp;(22) “Issuer” means every person who issues or proposes to issue any security, or has outstanding any security which it has issued.
 
-&emsp;(23) “Lend” includes a purchase coupled with an agreement by the vendor to repurchase;“borrow” includes a sale coupled with a similar agreement.
+&emsp;(23) “Lend” includes a purchase coupled with an agreement by the vendor to repurchase; “borrow” includes a sale coupled with a similar agreement.
 
 &emsp;(24) “Majority-owned subsidiary” of a person means a company 50 per centum or more of the outstanding voting securities of which are owned by such person, or by a company which, within the meaning of this paragraph, is a majority-owned subsidiary of such person.
 
@@ -118,7 +118,7 @@ When used in this subchapter, unless the context otherwise requires—
 
 &emsp;(26) “National securities exchange” means an exchange registered under section 6 of the Securities Exchange Act of 1934 \[15 U.S.C. 78f\].
 
-&emsp;(27) “Periodic payment plan certificate” means (A) any certificate, investment contract, or other security providing for a series of periodic payments by the holder, and representing an undivided interest in certain specified securities or in a unit or fund of securities purchased wholly or partly with the proceeds of such payments, and (B) any security the issuer of which is also issuing securities of the character described in clause (A) of this paragraph and the holder of which has substantially the same rights and privileges as those which holders of securities of the character described in said clause (A) have upon completing the periodic payments for which such securities provide.
+&emsp;(27) “Periodic payment plan certificate” means (A) any certificate, investment contract, or other security providing for a series of periodic payments by the holder, and representing an undivided interest in certainspecified securities or in a unit or fund of securities purchased wholly or partly with the proceeds of such payments, and (B) any security the issuer of which is also issuing securities of the character described in clause (A) of this paragraph and the holder of which has substantially the same rights and privileges as those which holders of securities of the character described in said clause (A) have upon completing the periodic payments for which such securities provide.
 
 &emsp;(28) “Person” means a natural person or a company.
 
@@ -136,9 +136,9 @@ When used in this subchapter, unless the context otherwise requires—
 
 &emsp;(35) “Sales load” means the difference between the price of a security to the public and that portion of the proceeds from its sale which is received and invested or held for investment by the issuer (or in the case of a unit investment trust, by the depositor or trustee), less any portion of such difference deducted for trustee's or custodian's fees, insurance premiums, issue taxes, or administrative expenses or fees which are not properly chargeable to sales or promotional activities. In the case of a periodic payment plan certificate, “sales load” includes the sales load on any investment company securities in which the payments made on such certificate are invested, as well as the sales load on the certificate itself.
 
-&emsp;(36) “Security” means any note, stock, treasury stock, security future, bond, debenture, evidence of indebtedness, certificate of interest or participation in any profit-sharing agreement, collateral-trust certificate, preorganization certificate or subscription, transferable share, investment contract, voting-trust certificate, certificate of deposit for a security, fractional undivided interest in oil,gas, or other mineral rights, any put, call, straddle, option, or privilege on any security (including a certificate of deposit) or on any group or index of securities (including any interest therein or based on the value thereof), or any put, call, straddle, option, or privilege entered into on a national securities exchange relating to foreign currency, or, in general, any interest or instrument commonly known as a “security”, or any certificate of interest or participation in, temporary or interim certificate for, receipt for, guarantee of, or warrant or right to subscribe to or purchase, any of the foregoing.
+&emsp;(36) “Security” means any note, stock, treasury stock, security future, bond, debenture, evidence of indebtedness, certificate of interest or participation in any profit-sharing agreement, collateral-trust certificate, preorganization certificate or subscription, transferable share, investment contract, voting-trust certificate, certificate of deposit for a security, fractional undivided interest in oil, gas, or other mineral rights, any put, call, straddle, option, or privilege on any security (including a certificate of deposit) or on any group or index of securities (including any interest therein or based on the value thereof), or any put, call, straddle, option, or privilege entered into on a national securities exchange relating to foreign currency, or, in general, any interest or instrument commonly known as a “security”, or any certificate of interest or participation in, temporary or interim certificate for, receipt for, guarantee of, or warrant or right to subscribe to or purchase, any of the foregoing.
 
-&emsp;(37) “Separate account” means an account established and maintained by an insurance company pursuant to the laws of any State or territory of the United States, or of Canada or any province thereof, under which income, gains and losses, whether or not realized, from assets allocated to such account, are, in accordance with the applicable contract, credited to or charged against such account without regard to other income, gains, or losses of the insurance company.
+&emsp;(37) “Separate account” means an account established and maintained by an insurance company pursuant to the laws of any State or territory of the United States, or of Canada or any province thereof, under which income,gains and losses, whether or not realized, from assets allocated to such account, are, in accordance with the applicable contract, credited to or charged against such account without regard to other income, gains, or losses of the insurance company.
 
 &emsp;(38) “Short-term paper” means any note, draft, bill of exchange, or banker's acceptance payable on demand or having a maturity at the time of issuance of not exceeding nine months, exclusive of days of grace, or any renewal thereof payable on demand or having a maturity likewise limited; and such other classes of securities, of a commercial rather than an investment character, as the Commission may designate by rules and regulations.
 
@@ -158,11 +158,11 @@ When used in this subchapter, unless the context otherwise requires—
 
 &emsp;The foregoing definition shall not derogate from the authority of the Commission with respect to the reports, information, and documents to be filed with the Commission by any registered company, or with respect to the accounting policies and principles to be followed by any such company, as provided in sections 80a–8, 80a–29, and 80a–30 of this title.
 
-&emsp;(42) “Voting security” means any security presently entitling the owner or holder thereof to vote for the election of directors of a company. A specified percentage of the outstanding voting securities of a company means such amount of its outstanding voting securities as entitles the holder or holders thereof to cast said specified percentage of the aggregate votes which the holders of all the outstanding voting securities of such company are entitled to cast. The vote of a majority of the outstanding voting securities of a company means the vote, at the annual or a special meeting ofthe security holders of such company duly called, (A) of 67 per centum or more of the voting securities present at such meeting, if the holders of more than 50 per centum of the outstanding voting securities of such company are present or represented by proxy; or (B) of more than 50 per centum of the outstanding voting securities of such company, whichever is the less.
+&emsp;(42) “Voting security” means any security presently entitling the owner or holder thereof to vote for the election of directors of a company. A specified percentage of the outstanding voting securities of a company means such amount of its outstanding voting securities as entitles the holder or holders thereof to cast said specified percentage of the aggregate votes which the holders of all the outstanding voting securities of such company are entitled to cast. The vote of a majority of the outstanding voting securities of a company means the vote, at the annual or a special meeting of the security holders of such company duly called, (A) of 67 per centum or more of the voting securities present at such meeting, if the holders of more than 50 per centum of the outstanding voting securities of such company are present or represented by proxy; or (B) of more than 50 per centum of the outstanding voting securities of such company, whichever is the less.
 
 &emsp;(43) “Wholly-owned subsidiary” of a person means a company 95 per centum or more of the outstanding voting securities of which are owned by such person, or by a company which, within the meaning of this paragraph, is a wholly-owned subsidiary of such person.
 
-&emsp;(44) “Securities Act of 1933” \[15 U.S.C. 77a et seq.\], “Securities Exchange Act of 1934” \[15 U.S.C. 78a et seq.\], and “Trust Indenture Act of 1939” \[15 U.S.C. 77aaa et seq.\] mean those acts, respectively, as heretofore or hereafter amended.
+&emsp;(44) “Securities Act of 1933” \[15 U.S.C. 77a et seq.\], “Securities Exchange Act of 1934” \[15 U.S.C. 78a et seq.\], and “Trust Indenture Act of 1939” \[15 U.S.C. 77aaa et seq.\] mean thoseacts, respectively, as heretofore or hereafter amended.
 
 &emsp;(45) “Savings and loan association” means a savings and loan association, building and loan association, cooperative bank, homestead association, or similar institution, which is supervised and examined by State or Federal authority having supervision over any such institution, and a receiver, conservator, or other liquidating agent of any such institution.
 
@@ -202,7 +202,7 @@ When used in this subchapter, unless the context otherwise requires—
 
 &emsp;(49) “Foreign securities authority” means any foreign government or any governmental body or regulatory organization empowered by a foreign government to administer or enforce its laws as they relate to securities matters.
 
-&emsp;(50) “Foreign financial regulatory authority” means any (A) foreign securities authority, (B) other governmental body or foreign equivalent of a self-regulatory organization empowered by a foreign government to administer or enforce its laws relating to the regulation of fiduciaries, trusts, commercial lending, insurance, trading in contracts of sale of a commodity for future delivery, or other instruments traded on or subject to the rules of a contract market, board of trade or foreign equivalent, or other financial activities, or (C) membership organization a function of which is to regulate the participation of its members in activities listed above.
+&emsp;(50) “Foreign financial regulatory authority” means any (A) foreign securities authority, (B) other governmental body or foreign equivalent of a self-regulatory organizationempowered by a foreign government to administer or enforce its laws relating to the regulation of fiduciaries, trusts, commercial lending, insurance, trading in contracts of sale of a commodity for future delivery, or other instruments traded on or subject to the rules of a contract market, board of trade or foreign equivalent, or other financial activities, or (C) membership organization a function of which is to regulate the participation of its members in activities listed above.
 
 &emsp;(51)(A) “Qualified purchaser” means—
 
@@ -222,6 +222,8 @@ When used in this subchapter, unless the context otherwise requires—
 
 &emsp;(53) The term “credit rating agency” has the same meaning as in section 3 of the Securities Exchange Act of 1934 \[15 U.S.C. 78c\].
 
+&emsp;(54) The terms “commodity pool”, “commodity pool operator”, “commodity trading advisor”, “major swap participant”, “swap”, “swap dealer”, and “swap execution facility” have the same meanings as in section 1a of title 7.
+
 #### (b) Applicability to government
 
 No provision in this subchapter shall apply to, or be deemed to include, the United States, a State, or any political subdivision of a State, or any agency, authority, or instrumentality of any one or more of the foregoing, or any corporation which is wholly owned directly or indirectly by any one or more of the foregoing, or any officer, agent, or employee of any of the foregoing acting as such in the course of his official duty, unless such provision makes specific reference thereto.
@@ -230,13 +232,11 @@ No provision in this subchapter shall apply to, or be deemed to include, the Uni
 
 Whenever pursuant to this subchapter the Commission is engaged in rulemaking and is required to consider or determine whether an action is consistent with the public interest, the Commission shall also consider, in addition to the protection of investors, whether the action will promote efficiency, competition, and capital formation.
 
-(Aug. 22, 1940, ch. 686, title I, §2, 54 Stat. 790; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, 60 Stat. 1352; Aug. 10, 1954, ch. 667, title IV, §401, 68 Stat. 688; Pub. L. 86–70, §12(d), June 25, 1959, 73 Stat. 143; Pub. L. 86–624, §7(c), July 12, 1960, 74 Stat. 412; Pub. L. 91–547, §2(a), Dec. 14, 1970, 84 Stat. 1413; Pub. L. 95–598, title III, §310(a), Nov. 6, 1978, 92 Stat. 2676; Pub. L. 96–477, title I, §101, Oct. 21, 1980, 94 Stat. 2275; Pub. L. 97–303, §5, Oct. 13, 1982, 96 Stat. 1409; Pub. L. 100–181, title VI, §§601–603, Dec. 4, 1987, 101 Stat. 1260; Pub. L. 101–550, title II, §206(a), Nov. 15, 1990, 104 Stat. 2720; Pub. L. 104–290, title I, §106(c), title II, §209(b), title V, §§503, 504, Oct. 11, 1996, 110 Stat. 3425, 3434, 3445; Pub. L. 105–353, title III, §301(c)(1), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 106–102, title II, §§213(a), (b), 215, 216, 223, Nov. 12,1999, 113 Stat. 1397, 1399, 1401; Pub. L. 106–554, §1(a)(5) \[title II, §209(a)(1), (3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–435, 2763A–436; Pub. L. 109–291, §4(b)(2)(A), Sept. 29, 2006, 120 Stat. 1337; Pub. L. 111–203, title VII, §769, title IX, §§985(d)(1), 986(c)(1), July 21, 2010, 124 Stat. 1801, 1934, 1936.)
+(Aug. 22, 1940, ch. 686, title I, §2, 54 Stat. 790; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, 60 Stat. 1352; Aug. 10, 1954, ch. 667, title IV, §401, 68 Stat. 688; Pub. L. 86–70, §12(d), June 25, 1959, 73 Stat. 143; Pub. L. 86–624, §7(c), July 12, 1960, 74 Stat. 412; Pub. L. 91–547, §2(a), Dec. 14, 1970, 84 Stat. 1413; Pub. L. 95–598, title III, §310(a), Nov. 6, 1978, 92 Stat. 2676; Pub. L. 96–477, title I, §101, Oct. 21, 1980, 94 Stat. 2275; Pub. L. 97–303, §5, Oct. 13, 1982, 96 Stat. 1409; Pub. L. 100–181, title VI, §§601–603, Dec. 4, 1987, 101 Stat. 1260; Pub. L. 101–550, title II, §206(a), Nov. 15, 1990, 104 Stat. 2720; Pub. L. 104–290, title I, §106(c), title II, §209(b), title V, §§503, 504, Oct. 11, 1996, 110 Stat. 3425, 3434, 3445; Pub. L. 105–353, title III, §301(c)(1), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 106–102, title II, §§213(a), (b), 215, 216, 223, Nov. 12, 1999, 113 Stat. 1397, 1399, 1401; Pub. L. 106–554, §1(a)(5) \[title II, §209(a)(1), (3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–435, 2763A–436; Pub. L. 109–291, §4(b)(2)(A), Sept. 29, 2006, 120 Stat. 1337; Pub. L. 111–203, title VII, §769, title IX, §§985(d)(1), 986(c)(1), July 21, 2010, 124 Stat. 1801, 1934, 1936.)
 
-#### Amendment of Subsection (a)
+#### Amendment of Section
 
-<i>Pub. L. 111–203, title VII, §§769, 774, July 21, 2010, 124 Stat. 1801, 1802, provided that, effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B (§§761–774) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, subsection (a) of this section is amended by adding at the end the following:</i>
-
-&emsp;<i>(54) The terms “commodity pool”, “commodity pool operator”, “commodity trading advisor”, “major swap participant”, “swap”, “swap dealer”, and “swap execution facility” have the same meanings as in section 1a of title 7.</i>
+<i>Unless otherwise provided, amendment by subtitle B (§§761–774) of title VII of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B requires a rulemaking, not less than 60 days after publication of the final rule or</i><i>regulation implementing such provision of subtitle B, see 2010 Amendment notes and Effective Date of 2010 Amendment note below.</i>
 
 #### References in Text
 
@@ -259,6 +259,8 @@ Words “Philippine Islands” deleted from definition of term “State” under
 Subsec. (a)(19)(A)(vi)(III), (B)(vi)(III). Pub. L. 111–203, §985(d)(1)(B), inserted “and” at end.
 
 Subsec. (a)(44). Pub. L. 111–203, §986(c)(1), struck out “ ‘Public Utility Holding Company Act of 1935’,” after “ ‘Securities Exchange Act of 1934’,”.
+
+Subsec. (a)(54). Pub. L. 111–203, §769, added par. (54).
 
 <b>2006</b>—Subsec. (a)(53). Pub. L. 109–291 added par. (53).
 
@@ -334,7 +336,7 @@ Amendment by Pub. L. 106–102 effective 18 months after Nov. 12, 1999, see sect
 
 #### Effective Date of 1996 Amendment
 
-Section 209(e) of Pub. L. 104–290 provided that: “The amendments made by this section \[amending this section and section 80a–3 of this title\] shall take effect on the earlier of—
+Pub. L. 104–290, title II, §209(e), Oct. 11, 1996, 110 Stat. 3436, provided that: “The amendments made by this section \[amending this section and section 80a–3 of this title\] shall take effect on the earlier of—
 
 &emsp;“(1) 180 days after the date of enactment of this Act \[Oct. 11, 1996\]; or
 
@@ -354,7 +356,7 @@ Amendment by act Aug. 10, 1954, effective 60 days after Aug. 10, 1954, see note 
 
 #### Regulations
 
-Section 209(d)(2) of Pub. L. 104–290 provided that: “Not later than 180 days after the date of enactment of this Act \[Oct. 11, 1996\], the Commission shall prescribe rules defining the term, or otherwise identifying, ‘investments’ for purposes of section 2(a)(51) of the Investment Company Act of 1940 \[15 U.S.C. 80a–2(a)(51)\], as added by this Act.”
+Pub. L. 104–290, title II, §209(d)(2), Oct. 11, 1996, 110 Stat. 3435, provided that: “Not later than 180 days after the date of enactment of this Act \[Oct. 11, 1996\], the Commission shall prescribe rules defining the term, or otherwise identifying, ‘investments’ for purposes of section 2(a)(51) of the Investment Company Act of 1940 \[15 U.S.C. 80a–2(a)(51)\], as added by this Act.”
 
 #### Transfer of Functions
 

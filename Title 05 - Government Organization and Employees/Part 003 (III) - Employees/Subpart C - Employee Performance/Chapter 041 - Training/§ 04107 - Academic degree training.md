@@ -72,15 +72,15 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-2002—Pub. L. 107–296 amended section catchline and text generally, substituting provisions authorizing selection and assignment of employees for academic degree training and payment or reimbursement of costs, for provisions relating to restrictions on degree training or the payment or reimbursement of the costs of training and provisions setting forth exceptions and special rules with respect to employees of the Department of Defense.
+<b>2002</b>—Pub. L. 107–296 amended section catchline and text generally, substituting provisions authorizing selection and assignment of employees for academic degree training and payment or reimbursement of costs, for provisions relating to restrictions on degree training or the payment or reimbursement of the costs of training and provisions setting forth exceptions and special rules with respect to employees of the Department of Defense.
 
-2000—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1121(1)\], substituted “subsections (b) and (c)” for “subsection (b)” in introductory provisions.
+<b>2000</b>—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1121(1)\], substituted “subsections (b) and (c)” for “subsection (b)” in introductory provisions.
 
 Subsec. (b)(1). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1121(2)\], substituted “subsection (a) or (c)” for “subsection (a)”.
 
 Subsec. (c). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1121(3)\], added subsec. (c).
 
-1994—Pub. L. 103–226, §2(a)(5)(A), substituted “Restriction on degree training” for “Non-Government facilities; restrictions” in section catchline.
+<b>1994</b>—Pub. L. 103–226, §2(a)(5)(A), substituted “Restriction on degree training” for “Non-Government facilities; restrictions” in section catchline.
 
 Subsec. (a). Pub. L. 103–226, §2(a)(5)(B), (C), redesignated subsec. (c) as (a), in introductory provisions substituted “subsection (b)” for “subsection (d)” and struck out “by, in, or through a non-Government facility” after “employee for training”, and struck out former subsec. (a) which read as follows: “Appropriations or other funds available to an agency are not available for payment for training an employee—
 
@@ -96,7 +96,7 @@ Subsec. (b). Pub. L. 103–226, §2(a)(5)(B), (D), redesignated subsec. (d) as (
 
 Subsecs. (c), (d). Pub. L. 103–226, §2(a)(5)(B), redesignated subsecs. (c) and (d) as (a) and (b), respectively.
 
-1990—Subsec. (c). Pub. L. 101–510, §1206(a)(1), substituted “Except as provided in subsection (d) of this section, this” for “This” in introductory provisions.
+<b>1990</b>—Subsec. (c). Pub. L. 101–510, §1206(a)(1), substituted “Except as provided in subsection (d) of this section, this” for “This” in introductory provisions.
 
 Subsec. (d). Pub. L. 101–510, §1206(a)(2), added subsec. (d).
 

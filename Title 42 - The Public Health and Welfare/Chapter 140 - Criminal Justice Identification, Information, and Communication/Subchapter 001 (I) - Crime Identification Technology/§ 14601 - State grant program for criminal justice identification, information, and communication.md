@@ -62,7 +62,7 @@ Grants under this section may be used for programs to establish, develop, update
 
 &emsp;(16) multiagency, multijurisdictional communications systems among the States to share routine and emergency information among Federal, State, and local law enforcement agencies;
 
-&emsp;(17) the capability of the criminal justice system to deliver timely, accurate, and complete criminal history record information to child welfare agencies, organizations, and programs that are engaged in the assessment of risk and other activities related to the protection of children, including protection againstchild sexual abuse, and placement of children in foster care; and
+&emsp;(17) the capability of the criminal justice system to deliver timely, accurate, and complete criminal history record information to child welfare agencies, organizations, and programs that are engaged in the assessment of risk and other activities related to the protection of children, including protection against child sexual abuse, and placement of children in foster care; and
 
 &emsp;(18) notwithstanding subsection (c) of this section, antiterrorism purposes as they relate to any other uses under this section or for other antiterrorism programs.
 
@@ -112,7 +112,7 @@ The Federal share of a grant received under this subchapter may not exceed 90 pe
 
 #### (f) Grants to Indian tribes
 
-Notwithstanding any other provision of this section, the Attorney General may use amounts made available under this section to make grants to Indian tribes for use in accordance with this section.
+Notwithstanding any other provision of this section, the Attorney General may use amounts made available under this section to makegrants to Indian tribes for use in accordance with this section.
 
 (Pub. L. 105–251, title I, §102, Oct. 9, 1998, 112 Stat. 1871; Pub. L. 106–177, title I, §102, Mar. 10, 2000, 114 Stat. 35; Pub. L. 106–561, §2(c)(4), Dec. 21, 2000, 114 Stat. 2791; Pub. L. 107–56, title X, §1015, Oct. 26, 2001, 115 Stat. 400; Pub. L. 109–162, title XI, §1111(c)(1), Jan. 5, 2006, 119 Stat. 3101.)
 

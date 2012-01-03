@@ -36,7 +36,7 @@
 
 #### (3) Determination of net income
 
-&emsp;For purposes of paragraph (1), the term “net income derived from prohibited transactions” means the excess of the gross income fromprohibited transactions over the deductions allowed by this chapter which are directly connected with such transactions; except that there shall not be taken into account any item attributable to any prohibited transaction for which there was a loss.
+&emsp;For purposes of paragraph (1), the term “net income derived from prohibited transactions” means the excess of the gross income from prohibited transactions over the deductions allowed by this chapter which are directly connected with such transactions; except that there shall not be taken into account any item attributable to any prohibited transaction for which there was a loss.
 
 #### (4) Qualified liquidation
 
@@ -140,7 +140,7 @@ Subsec. (a)(2)(D). Pub. L. 100–647, §1006(t)(3)(C), struck out “described i
 
 Subsec. (a)(5). Pub. L. 100–647, §1006(t)(3)(B)(ii), added par. (5).
 
-Subsec. (b)(1)(A). Pub. L. 100–647, §1006(t)(4), substituted “the transfer of any property to a REMIC in exchange for regular or residual interests in such REMIC” for “the transfer of any property to a REMIC”.
+Subsec. (b)(1)(A). Pub. L. 100–647, §1006(t)(4), substituted “the transfer of any property to a REMIC inexchange for regular or residual interests in such REMIC” for “the transfer of any property to a REMIC”.
 
 Subsec. (b)(1)(C)(ii). Pub. L. 100–647, §1006(t)(22)(D), substituted “REMIC” for “real estate mortgage pool”.
 

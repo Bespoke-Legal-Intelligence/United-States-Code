@@ -12,6 +12,8 @@ The following forfeitures shall apply to this part, in addition to the penalties
 
 This part, referred to in text, commences with section 351 of this title.
 
+This chapter, referred to in subsec. (b), was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
+
 #### Amendments
 
 <b>1989</b>—Subsec. (a). Pub. L. 101–239, §3002(g)(1), substituted “$5,000” for “$500”.

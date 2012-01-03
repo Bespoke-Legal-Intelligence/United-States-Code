@@ -8,7 +8,7 @@ The Corporation—
 
 &emsp;(2) may adopt, alter, and use a seal, which shall be judicially noticed;
 
-&emsp;(3) may make and perform such contracts, grants, and other agreements with any personor government however designated and wherever situated, as may be necessary for carrying out the functions of the Corporation;
+&emsp;(3) may make and perform such contracts, grants, and other agreements with any person or government however designated and wherever situated, as may be necessary for carrying out the functions of the Corporation;
 
 &emsp;(4) may determine and prescribe the manner in which its obligations shall be incurred and its expenses allowed and paid, including expenses for representation;
 
@@ -86,5 +86,5 @@ The Foreign Assistance Act of 1961, referred to in subsec. (d), is Pub. L. 87–
 
 #### Codification
 
-Section is comprised of section 614 of div. D of Pub. L. 108–199. Subsec. (e)(2) of section 614 of div. D of Pub.L. 108–199 amended section 9101 of Title 31, Money and Finance.
+Section is comprised of section 614 of div. D of Pub. L. 108–199. Subsec. (e)(2) of section 614 of div. D of Pub. L. 108–199 amended section 9101 of Title 31, Money and Finance.
 

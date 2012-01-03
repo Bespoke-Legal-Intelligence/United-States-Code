@@ -4,7 +4,7 @@
 
 (2) The Secretary of the Air Force, upon approval by the Secretary of Defense, shall determine the countries from which persons may be selected for appointment under this section and the number of persons that may be selected from each country. The Secretary of the Air Force may establish entrance qualifications and methods of competition for selection among individual applicants under this section and shall select those persons who will be permitted to receive instruction at the Academy under this section.
 
-(3) In selecting persons to receive instruction under this section from among applicants from the countries approved under paragraph (2), the Secretary of the Air Force shall give a priority to persons who have a national service obligation to their countries upon graduation from the Academy.
+(3) In selecting persons to receive instruction under this section from among applicants fromthe countries approved under paragraph (2), the Secretary of the Air Force shall give a priority to persons who have a national service obligation to their countries upon graduation from the Academy.
 
 (b)(1) A person receiving instruction under this section is entitled to the pay, allowances, and emoluments of a cadet appointed from the United States, and from the same appropriations.
 
@@ -46,7 +46,7 @@ June 26, 1946, ch. 493, §1, 60 Stat. 311; June 1, 1948, ch. 357, §2, 62 Stat. 
 
 In subsection (a), the words “at West Point, New York” are omitted as inapplicable to the Air Force.
 
-In subsection (b), the words “is entitled to” are substituted for the words “shall receive”. The words “performed in proceeding” are omitted as surplusage. The words “continental limits” are omitted, since section101(1) of this title defines the United States to include only the States and the District of Columbia.
+In subsection (b), the words “is entitled to” are substituted for the words “shall receive”. The words “performed in proceeding” are omitted as surplusage. The words “continental limits” are omitted, since section 101(1) of this title defines the United States to include only the States and the District of Columbia.
 
 In subsection (c), the words “to any office or position” are omitted as surplusage; 10:1093c (proviso of last sentence) is omitted, since 10:1099 is inapplicable to the Air Force and section 1321 of the Revised Statutes, previously codified in 10:1101, was repealed by section 6(b) of the Act of June 30, 1950, ch. 421, 64 Stat. 305.
 
@@ -78,7 +78,7 @@ Subsec. (d). Pub. L. 98–94, in amending section generally, added subsec. (d).
 
 #### Effective Date of 2001 Amendment
 
-Pub. L. 107–107, div. A, title V, §533(c)(3), Dec. 28, 2001, 115 Stat. 1106, provided that: “The amendments made by paragraph (2) \[amending this section\] shall not apply with respect to any person who entered the United States Air Force Academy to receive instruction under section 9344 of title 10, United States Code, before the date of the enactment of this Act \[Dec. 28, 2001\].”
+Pub. L. 107–107, div. A, title V, §533(c)(3), Dec. 28, 2001, 115 Stat. 1106, provided that: “The amendments made by paragraph (2) \[amending this section\] shall not apply with respect to any person who entered the United States Air Force Academy to receive instruction under section 9344 of title 10, United States Code,before the date of the enactment of this Act \[Dec. 28, 2001\].”
 
 Amendment by Pub. L. 107–107 inapplicable with respect to any academic year that began before Dec. 28, 2001, see section 533(d) of Pub. L. 107–107, set out as a note under section 4344 of this title.
 

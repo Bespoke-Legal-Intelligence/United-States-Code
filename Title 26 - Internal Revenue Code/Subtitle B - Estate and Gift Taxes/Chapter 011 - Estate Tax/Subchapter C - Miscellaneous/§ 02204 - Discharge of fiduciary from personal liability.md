@@ -10,7 +10,7 @@ If a fiduciary (not including a fiduciary in respect of the estate of a nonresid
 
 #### (c) Special lien under section 6324A
 
-For purposes of the second sentence of subsection (a) and the last sentence of subsection (b), an agreement which meets the requirements of section 6324A (relating to special lien for estate tax deferred under section 6166) shall be treated as the furnishing of bond with respect to the amount for which the time for payment has been extended under section 6166.
+For purposes of the second sentence of subsection (a) and the last sentence of subsection\(b), an agreement which meets the requirements of section 6324A (relating to special lien for estate tax deferred under section 6166) shall be treated as the furnishing of bond with respect to the amount for which the time for payment has been extended under section 6166.
 
 #### (d) Good faith reliance on gift tax returns
 
@@ -52,7 +52,7 @@ Section 702(p)(2) of Pub. L. 95–600 provided that: “The amendment made by pa
 
 Amendment by section 1902(a)(9) of Pub. L. 94–455 applicable in the case of estates of decedents dying after Dec. 31, 1970, see section 1902(c)(1) of Pub. L. 94–455, set out as a note under section 2011 of this title.
 
-Amendment by section 2004(d)(4) of Pub. L. 94–455 applicable to estates of decedents dying after Dec. 31,1976, see section 2004(g) of Pub. L. 94–455, set out as a note under section 6166 of this title.
+Amendment by section 2004(d)(4) of Pub. L. 94–455 applicable to estates of decedents dying after Dec. 31, 1976, see section 2004(g) of Pub. L. 94–455, set out as a note under section 6166 of this title.
 
 #### Effective Date of 1970 Amendment
 

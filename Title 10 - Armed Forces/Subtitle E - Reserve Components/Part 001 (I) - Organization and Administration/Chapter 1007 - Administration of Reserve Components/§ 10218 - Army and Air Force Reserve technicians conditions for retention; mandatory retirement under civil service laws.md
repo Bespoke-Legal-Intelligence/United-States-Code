@@ -8,7 +8,7 @@ Separation and Retirement of Military Technicians (Dual Status).—(1) An indivi
 
 (3)(A) If a technician described in paragraph (1) is not eligible at the time dual status is lost for an unreduced annuity or is under age 60 at that time, the technician shall be offered the opportunity to—
 
-&emsp;(i) reapply for, and if qualified be appointed to, a position as a military technician (dual status); or
+&emsp;(i) reapply for, and if qualified may be appointed to, a position as a military technician (dual status); or
 
 &emsp;(ii) apply for a civil service position that is not a technician position.
 
@@ -30,7 +30,7 @@ Separation and Retirement of Military Technicians (Dual Status).—(1) An indivi
 
 (b)
 
-Non-Dual Status Technicians.—(1) An individual who on October 5, 1999, is employed bythe Army Reserve or the Air Force Reserve as a non-dual status technician and who on that date is eligible for an unreduced annuity and is age 60 or older shall be separated not later than April 5, 2000.
+Non-Dual Status Technicians.—(1) An individual who on October 5, 1999, is employed by the Army Reserve or the Air Force Reserve as a non-dual status technician and who on that date is eligible for an unreduced annuity and is age 60 or older shall be separated not later than April 5, 2000.
 
 (2)(A) An individual who on October 5, 1999, is employed by the Army Reserve or the Air Force Reserve as a non-dual status technician and who on that date is not eligible for an unreduced annuity or is under age 60 shall be offered the opportunity to—
 
@@ -62,9 +62,11 @@ Voluntary Personnel Action Defined.—In this section, the term “voluntary per
 
 &emsp;(2) Promotion to a higher grade if the technician is in a position for which the Secretary concerned has established a requirement that the person occupying the position be a military technician (dual status).
 
-(Added Pub. L. 106–65, div. A, title V, §522(a)(1), Oct. 5, 1999, 113 Stat. 595; amended Pub. L. 106–398, §1 \[\[div. A\], title V, §525(a), title X, §1087(a)(20)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–108, 1654A–291.)
+(Added Pub. L. 106–65, div. A, title V, §522(a)(1), Oct. 5, 1999, 113 Stat. 595; amended Pub. L. 106–398, §1 \[\[div. A\], title V, §525(a), title X, §1087(a)(20)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–108, 1654A–291; Pub. L. 112–81, div. A, title V, §514(b), Dec. 31, 2011, 125 Stat. 1394.)
 
 #### Amendments
+
+<b>2011</b>—Subsec. (a)(3)(A)(i). Pub. L. 112–81 substituted “if qualified may be appointed” for “if qualified be appointed”.
 
 <b>2000</b>—Subsec. (a)(1). Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(20)(A)\], substituted “October 5, 1999,” for “the date of the enactment of this section”.
 

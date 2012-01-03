@@ -38,9 +38,9 @@ The Commission shall take into consideration the public interest to be protected
 
 #### Amendments
 
-2000—Pub. L. 106–554 inserted section catchline, added subsec. (a), designated existing provisions as subsec. (b), and inserted subsec. (b) heading.
+<b>2000</b>—Pub. L. 106–554 inserted section catchline, added subsec. (a), designated existing provisions as subsec. (b), and inserted subsec. (b) heading.
 
-1992—Pub. L. 102–546 substituted “regulation (including any exemption under section 6(c) or 6c(b) of this title)” for “regulation”.
+<b>1992</b>—Pub. L. 102–546 substituted “regulation (including any exemption under section 6(c) or 6c(b) of this title)” for “regulation”.
 
 #### Effective Date
 

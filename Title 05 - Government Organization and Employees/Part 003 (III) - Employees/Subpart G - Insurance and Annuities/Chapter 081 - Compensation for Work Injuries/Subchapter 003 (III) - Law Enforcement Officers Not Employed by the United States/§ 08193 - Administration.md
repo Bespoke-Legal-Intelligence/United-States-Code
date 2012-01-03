@@ -50,7 +50,7 @@ Appropriations.—There are authorized to be appropriated such sums as may be ne
 
 #### Amendments
 
-1975—Subsec. (f). Pub. L. 94–183 redesignated subsec. (e), relating to appropriations, as subsec. (f).
+<b>1975</b>—Subsec. (f). Pub. L. 94–183 redesignated subsec. (e), relating to appropriations, as subsec. (f).
 
 #### Effective Date
 

@@ -94,7 +94,7 @@ Reorganization Plan Numbered 4 of 1970, referred to in subsec. (c)(A), is Reorg.
 
 <b>1996</b>—Subsec. (a)(2). Pub. L. 104–208 made technical amendment to reference in original act which appears in text as reference to section 1852 of this title.
 
-<b>1985</b>—Subsec. (a)(2). Pub. L. 99–198, §1734(1)(A), (B), substituted “Secretary” for “Secretaries” wherever appearing and inserted provisions requiring consultationswith the Secretary of Commerce and the Secretary of the Interior.
+<b>1985</b>—Subsec. (a)(2). Pub. L. 99–198, §1734(1)(A), (B), substituted “Secretary” for “Secretaries” wherever appearing and inserted provisions requiring consultations with the Secretary of Commerce and the Secretary of the Interior.
 
 Subsec. (a)(3). Pub. L. 99–198, §1734(1)(C), struck out par. (3) which provided for the establishment of an advisory committee to assist in the initial development of the Plan.
 

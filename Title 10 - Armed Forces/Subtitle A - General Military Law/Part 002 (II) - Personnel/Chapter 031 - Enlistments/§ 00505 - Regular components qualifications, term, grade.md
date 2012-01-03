@@ -36,7 +36,7 @@ Subsec. (c). Pub. L. 109–163, §544, substituted “eight years” for “six 
 
 <b>1974</b>—Subsec. (a). Pub. L. 93–290, §1, struck out provisions which prohibited the Secretary from accepting original enlistments from female persons less than 18 years of age, and which required consent of the parent or guardian for an original enlistment of a female person under 21 years of age.
 
-Subsec. (c). Pub. L. 93–290, §2, substituted provisions permitting the Secretary to accept original enlistments of persons for the duration of their minority or for a period of two, three, four, five, or six years, for provisions which limited the Secretary to accept original enlistments from male persons for the duration of their minority or for a period of two, three, four, five, or six years, and from female persons for a period of two, three, four, five, or six years.
+Subsec. (c). Pub. L. 93–290, §2, substituted provisions permitting the Secretary to accept original enlistments of persons for the duration of their minority or for a period of two, three, four, five, or six years, for provisions which limited the Secretary to accept original enlistments from male persons for the duration oftheir minority or for a period of two, three, four, five, or six years, and from female persons for a period of two, three, four, five, or six years.
 
 #### Transfer of Functions
 

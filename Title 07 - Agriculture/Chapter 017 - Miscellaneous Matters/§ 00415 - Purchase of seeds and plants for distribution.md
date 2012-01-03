@@ -6,5 +6,5 @@ Purchase and distribution of vegetable, field, and flower seeds, plants, shrubs,
 
 #### Amendments
 
-1896—Act Apr. 25, 1896, struck out “by the Department of Agriculture” and “trees”, and inserted “vegetable, field, and flower seeds” and “bulbs”.
+<b>1896</b>—Act Apr. 25, 1896, struck out “by the Department of Agriculture” and “trees”, and inserted “vegetable, field, and flower seeds” and “bulbs”.
 

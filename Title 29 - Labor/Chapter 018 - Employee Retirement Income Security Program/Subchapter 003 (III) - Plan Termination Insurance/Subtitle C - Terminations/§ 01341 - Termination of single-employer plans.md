@@ -204,7 +204,7 @@
 
 &emsp;&emsp;&emsp;The requirements of this clause are met by a person if—
 
-&emsp;&emsp;&emsp;&emsp;(I) such person has filed or has had filed against such person, as of the proposed termination date, a petition seeking liquidation in a case under title 11 or under any similar Federal law or law ofa State or political subdivision of a State (or a case described in clause (ii) filed by or against such person has been converted, as of such date, to a case in which liquidation is sought), and
+&emsp;&emsp;&emsp;&emsp;(I) such person has filed or has had filed against such person, as of the proposed termination date, a petition seeking liquidation in a case under title 11 or under any similar Federal law or law of a State or political subdivision of a State (or a case described in clause (ii) filed by or against such person has been converted, as of such date, to a case in which liquidation is sought), and
 
 &emsp;&emsp;&emsp;&emsp;(II) such case has not, as of the proposed termination date, been dismissed.
 
@@ -218,7 +218,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) such person timely submits to the corporation any request for the approval of the bankruptcy court (or other appropriate court in a case under such similar law of a State or political subdivision) of the plan termination, and
 
-&emsp;&emsp;&emsp;&emsp;(IV) the bankruptcy court (or such other appropriate court) determines that, unless the plan is terminated, such person will be unable to pay all its debts pursuant to a plan of reorganization and will be unable to continue in business outside the chapter 11 reorganization process and approves the termination.
+&emsp;&emsp;&emsp;&emsp;(IV) the bankruptcy court (or such other appropriate court) determinesthat, unless the plan is terminated, such person will be unable to pay all its debts pursuant to a plan of reorganization and will be unable to continue in business outside the chapter 11 reorganization process and approves the termination.
 
 #### (iii) Termination required to enable payment of debts while staying in business or to avoid unreasonably burdensome pension costs caused by declining workforce
 
@@ -288,7 +288,7 @@
 
 #### (ii) Cases of sufficiency for guaranteed benefits without a finding of sufficiency for benefit liabilities
 
-&emsp;&emsp;&emsp;In any case in which the corporation determines that the plan is sufficient for guaranteed benefits, but further determines that it is unable to determine that the plan is sufficient for benefit liabilities on the basis of the information made available to it, the plan administrator shall proceed to distribute the plan's assets in the manner described in subsection (b)(3) of this section, make certification to the corporation that the distribution has occurred, and take such actions as may be appropriate to carry out the termination of the plan.
+&emsp;&emsp;&emsp;In any case in which the corporation determines that the plan is sufficient for guaranteed benefits, but further determines that it is unable to determine that the plan is sufficient for benefit liabilities on the basis of the information made available to it, the plan administratorshall proceed to distribute the plan's assets in the manner described in subsection (b)(3) of this section, make certification to the corporation that the distribution has occurred, and take such actions as may be appropriate to carry out the termination of the plan.
 
 #### (iii) Cases without any finding of sufficiency
 
@@ -414,7 +414,7 @@ Subsec. (b)(3)(A)(ii). Pub. L. 100–203, §9313(a)(2)(C)(i), added cl. (ii) and
 
 Pub. L. 100–203, §9313(a)(2)(A), substituted “benefit liabilities” for “benefit commitments”.
 
-Subsec. (b)(3)(B). Pub. L. 100–203, §9313(a)(2)(C)(ii), substituted “so as to pay all benefit liabilities underthe plan” for “so as to pay the benefit liabilities under the plan and all other benefits under the plan to which assets are required to be allocated under section 1344 of this title.”
+Subsec. (b)(3)(B). Pub. L. 100–203, §9313(a)(2)(C)(ii), substituted “so as to pay all benefit liabilities under the plan” for “so as to pay the benefit liabilities under the plan and all other benefits under the plan to which assets are required to be allocated under section 1344 of this title.”
 
 Pub. L. 100–203, §9313(a)(2)(A), substituted “benefit liabilities” for “benefit commitments”.
 
@@ -574,7 +574,7 @@ In general.—In the case of a plan termination described in paragraph (1) with 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II)
 
-Special notice regarding sufficiency for terminations for which notices of sufficiency have not been issued as of date of enactment.—In the case of a plan termination described in paragraph (1) with respect to whichthe Corporation has been provided the notification described in subparagraph (A)(i) and with respect to which a notice of sufficiency has not been issued by the Corporation before the date of the enactment of this Act, the Corporation shall make the determinations described in section 4041(c)(3)(A)(i) and (ii) (as amended by this title) and notify the plan administrator of such determinations as provided in section 4041(c)(3)(A)(iii) (as amended by this title).
+Special notice regarding sufficiency for terminations for which notices of sufficiency have not been issued as of date of enactment.—In the case of a plan termination described in paragraph (1) with respect to which the Corporation has been provided the notification described in subparagraph (A)(i) and with respect to which a notice of sufficiency has not been issued by the Corporation before the date of the enactment of this Act, the Corporation shall make the determinations described in section 4041(c)(3)(A)(i) and (ii) (as amended by this title) and notify the plan administrator of such determinations as provided in section 4041(c)(3)(A)(iii) (as amended by this title).
 
 &emsp;&emsp;&emsp;“(ii)
 
@@ -660,7 +660,7 @@ General rule.—Except as provided in subparagraph (B), the Corporation shall no
 
 &emsp;“(B)
 
-Exception in cases of substantial business hardship.—Except in the case of an acquisition, takeover, or leveraged buyout, the preceding provisions of this subsection shall not apply if the contributing sponsor demonstrates to the satisfaction of the Corporation that the contributing sponsor is experiencing substantial business hardship. For purposes ofthis subparagraph, a contributing sponsor shall be considered as experiencing substantial business hardship if the contributing sponsor has been operating, and can demonstrate that the contributing sponsor will continue to operate, at an economic loss.”
+Exception in cases of substantial business hardship.—Except in the case of an acquisition, takeover, or leveraged buyout, the preceding provisions of this subsection shall not apply if the contributing sponsor demonstrates to the satisfaction of the Corporation that the contributing sponsor is experiencing substantial business hardship. For purposes of this subparagraph, a contributing sponsor shall be considered as experiencing substantial business hardship if the contributing sponsor has been operating, and can demonstrate that the contributing sponsor will continue to operate, at an economic loss.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

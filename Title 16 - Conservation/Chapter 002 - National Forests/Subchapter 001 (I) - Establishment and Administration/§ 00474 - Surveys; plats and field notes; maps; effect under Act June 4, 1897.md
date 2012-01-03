@@ -10,7 +10,7 @@ Act June 4, 1897, chapter 2, section 1, referred to in text, is act June 4, 1897
 
 #### Change of Name
 
-“United States Geological Survey” substituted in text for “Geological Survey” pursuant to provision oftitle I of Pub. L. 102–154, set out as a note under section 31 of Title 43, Public Lands.
+“United States Geological Survey” substituted in text for “Geological Survey” pursuant to provision of title I of Pub. L. 102–154, set out as a note under section 31 of Title 43, Public Lands.
 
 #### Transfer of Functions
 

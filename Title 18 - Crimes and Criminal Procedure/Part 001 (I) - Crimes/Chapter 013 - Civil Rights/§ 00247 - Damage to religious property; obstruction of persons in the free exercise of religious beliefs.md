@@ -68,7 +68,7 @@ Subsec. (g). Pub. L. 104–155, §3(6), added subsec. (g).
 
 Pub. L. 103–322, §60006(d), inserted “, or may be sentenced to death” after “or both”.
 
-Subsec. (c)(2). Pub. L. 103–322, §320103(d)(2), struck out “serious” before “bodily” and inserted “from the actscommitted in violation of this section or if such acts include the use, attempted use, or threatened use of a dangerous weapon, explosives, or fire” after “injury results”.
+Subsec. (c)(2). Pub. L. 103–322, §320103(d)(2), struck out “serious” before “bodily” and inserted “from the acts committed in violation of this section or if such acts include the use, attempted use, or threatened use of a dangerous weapon, explosives, or fire” after “injury results”.
 
 Subsec. (e). Pub. L. 103–322, §320103(d)(3), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “As used in this section—
 

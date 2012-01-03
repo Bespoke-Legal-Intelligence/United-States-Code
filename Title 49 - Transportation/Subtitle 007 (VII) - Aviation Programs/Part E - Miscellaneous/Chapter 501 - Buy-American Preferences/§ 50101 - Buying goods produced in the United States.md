@@ -76,7 +76,7 @@ Pub. L. 103–305, title III, §305, Aug. 23, 1994, 108 Stat. 1592, provided tha
 
 Prohibition Against Fraudulent Use of ‘Made in America’ Labels.—(1) A person shall not intentionally affix a label bearing the inscription of ‘Made in America’, or any inscription with that meaning, to any product sold in or shipped to the United States, if that product is not a domestic product.
 
-“(2) A person who violates paragraph (1) shall not be eligible for any contract for a procurement carried out with amounts authorized under this title \[enacting section 47509 of this title, amending sections 44505 and 48102 of this title, and enacting provisions set out as notes under this section and section 40101 of this title\], including any subcontract under such a contract pursuant to the debarment, suspension, and ineligibility procedures in subpart 9.4 of chapter 1 of title 48, Code of Federal Regulations, or any successor procedures thereto.
+“(2) A person who violates paragraph (1) shall not be eligible for any contract for a procurement carried out with amounts authorized under this title \[enacting section 47509 of this title, amending sections 44505 and 48102 of this title, and enacting provisions set out as notes under this section and section 40101 of this title\], including any subcontract under such a contract pursuant to the debarment, suspension, and ineligibility procedures in subpart 9.4 of chapter 1 of title 48, Code ofFederal Regulations, or any successor procedures thereto.
 
 “(b)
 

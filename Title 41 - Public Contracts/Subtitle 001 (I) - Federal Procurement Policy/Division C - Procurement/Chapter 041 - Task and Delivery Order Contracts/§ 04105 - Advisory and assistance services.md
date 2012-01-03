@@ -78,7 +78,7 @@ Contract Extensions.—
 
 &emsp;(1)
 
-When contract may be extended.—Notwithstanding the limitation on the contract period set forth in subsection (c) or in a solicitation or contract pursuant to subsection (f), a contract entered into by the head of an executive agency under this section may be extended on a sole-source basis for a period notexceeding 6 months if the head of the executive agency determines that—
+When contract may be extended.—Notwithstanding the limitation on the contract period set forth in subsection (c) or in a solicitation or contract pursuant to subsection (f), a contract entered into by the head of an executive agency under this section may be extended on a sole-source basis for a period not exceeding 6 months if the head of the executive agency determines that—
 
 &emsp;&emsp;(A) the award of a follow-on contract has been delayed by circumstances that were not reasonably foreseeable at the time the initial contract was entered into; and
 

@@ -26,7 +26,7 @@ Subsec. (c). Pub. L. 102–83, §5(c)(1), substituted “3684(c)” for “1784(
 
 Subsec. (d). Pub. L. 102–40 substituted “5302” for “3102”.
 
-<b>1989</b>—Subsecs. (a), (b). Pub. L. 101–237 substituted “Secretary” and “Department of Veterans Affairs” for“Administrator” and “Veterans’ Administration”, respectively, wherever appearing.
+<b>1989</b>—Subsecs. (a), (b). Pub. L. 101–237 substituted “Secretary” and “Department of Veterans Affairs” for “Administrator” and “Veterans’ Administration”, respectively, wherever appearing.
 
 <b>1980</b>—Pub. L. 96–466 designated existing provisions as subsecs. (b), (c), and (e), with minor changes in language, and added subsecs. (a) and (d).
 

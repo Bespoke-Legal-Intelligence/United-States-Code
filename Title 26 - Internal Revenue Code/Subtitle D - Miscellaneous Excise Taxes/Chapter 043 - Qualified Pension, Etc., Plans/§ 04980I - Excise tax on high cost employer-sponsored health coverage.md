@@ -32,7 +32,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The annual limitation under this paragraph for any calendar year is the dollarlimit determined under subparagraph (C) for the calendar year.
+&emsp;&emsp;The annual limitation under this paragraph for any calendar year is the dollar limit determined under subparagraph (C) for the calendar year.
 
 #### (B) Applicable annual limitation
 
@@ -186,7 +186,7 @@ For purposes of this section—
 
 #### (C) Archer MSAs and HSAs
 
-&emsp;&emsp;In the case of applicable employer-sponsored coverage consisting of coverage under an arrangement under which the employer makes contributions described in subsection (b) or (d) of section 106, the cost of the coverage shall be equal to the amount of employer contributions under the arrangement.
+&emsp;&emsp;In the case of applicable employer-sponsored coverage consisting of coverage underan arrangement under which the employer makes contributions described in subsection (b) or (d) of section 106, the cost of the coverage shall be equal to the amount of employer contributions under the arrangement.
 
 #### (D) Allocation on a monthly basis
 

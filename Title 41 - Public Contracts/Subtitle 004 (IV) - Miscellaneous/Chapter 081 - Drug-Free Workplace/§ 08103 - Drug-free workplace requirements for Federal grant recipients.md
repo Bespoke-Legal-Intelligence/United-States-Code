@@ -20,7 +20,7 @@ Persons other than individuals.—A person other than an individual shall not re
 
 &emsp;&emsp;&emsp;(iv) the penalties that may be imposed on employees for drug abuse violations;
 
-&emsp;&emsp;(C) making it a requirement that each employee to be engaged in the performance ofthe grant be given a copy of the statement required by subparagraph (A);
+&emsp;&emsp;(C) making it a requirement that each employee to be engaged in the performance of the grant be given a copy of the statement required by subparagraph (A);
 
 &emsp;&emsp;(D) notifying the employee in the statement required by subparagraph (A) that as a condition of employment in the grant the employee will—
 

@@ -24,19 +24,19 @@ Section was formerly classified to section 557 of this title.
 
 #### Amendments
 
-1991—Subsecs. (a) to (c). Pub. L. 102–237 substituted periods for semicolons at end of subsecs. (a) to (c).
+<b>1991</b>—Subsecs. (a) to (c). Pub. L. 102–237 substituted periods for semicolons at end of subsecs. (a) to (c).
 
-1972—Subsec. (a). Pub. L. 92–231 directed the Secretary to order commission merchants, dealers, or brokers who are the losing party to pay the prevailing party, as reparation or additional reparation, reasonable fees and expenses incurred in connection with hearings.
+<b>1972</b>—Subsec. (a). Pub. L. 92–231 directed the Secretary to order commission merchants, dealers, or brokers who are the losing party to pay the prevailing party, as reparation or additional reparation, reasonable fees and expenses incurred in connection with hearings.
 
-1962—Subsec. (c). Pub. L. 87–725, §9, limited time for filing the bond to within 30 days from and after the date of the reparation order, and required such bond to be in cash, negotiable securities having a market value of at least equivalent to the amount of bond prescribed or the undertaking of a surety company on the approved list of sureties issued by the Treasury Department.
+<b>1962</b>—Subsec. (c). Pub. L. 87–725, §9, limited time for filing the bond to within 30 days from and after the date of the reparation order, and required such bond to be in cash, negotiable securities having a market value of at least equivalent to the amount of bond prescribed or the undertaking of a surety company on the approved list of sureties issued by the Treasury Department.
 
 Subsec. (d). Pub. L. 87–725, §10, lengthened period upon the expiration of which the license is suspended from ten to thirty days, and provided that if the judgment is stayed by a court of competent jurisdiction the suspension becomes effective ten days after the expiration of such stay.
 
-1940—Subsec. (c). Act May 14, 1940, inserted proviso in first sentence.
+<b>1940</b>—Subsec. (c). Act May 14, 1940, inserted proviso in first sentence.
 
-1938—Subsec. (a). Act June 23, 1938, inserted last two sentences.
+<b>1938</b>—Subsec. (a). Act June 23, 1938, inserted last two sentences.
 
-1937—Subsec. (a). Act Aug. 20, 1937, among other changes, inserted “or without hearing as provided in section 499f of this title, paragraphs (c) and (d), or upon failure of the party complained against to answer a complaint duly served within the time prescribed, or to appear at a hearing after being duly notified” after “section 499f”.
+<b>1937</b>—Subsec. (a). Act Aug. 20, 1937, among other changes, inserted “or without hearing as provided in section 499f of this title, paragraphs (c) and (d), or upon failure of the party complained against to answer a complaint duly served within the time prescribed, or to appear at a hearing after being duly notified” after “section 499f”.
 
 Subsec. (b). Act Aug. 20, 1937, among other changes, substituted “pay the reparation award” for “comply with an order for the payment of money”.
 
@@ -44,9 +44,9 @@ Subsec. (c). Act Aug. 20, 1937, inserted “together with a bond in double the a
 
 Subsec. (d). Act Aug. 20, 1937, inserted proviso.
 
-1936—Subsec. (c). Act June 19, 1936, inserted proviso in first sentence and “by registered mail” after “adverse party”.
+<b>1936</b>—Subsec. (c). Act June 19, 1936, inserted proviso in first sentence and “by registered mail” after “adverse party”.
 
-1934—Subsec. (b). Act Apr. 13, 1934, §11, inserted after first sentence “The orders, writs and processes of the district courts may in these cases run, be served, and be returnable anywhere in the United States.”
+<b>1934</b>—Subsec. (b). Act Apr. 13, 1934, §11, inserted after first sentence “The orders, writs and processes of the district courts may in these cases run, be served, and be returnable anywhere in the United States.”
 
 Subsecs. (c), (d). Act Apr. 13, 1934, §§12, 13, added subsecs. (c) and (d).
 

@@ -50,7 +50,7 @@ A loan may be guaranteed under this section only if the loan is used for the dev
 
 Each loan guaranteed pursuant to this section shall—
 
-&emsp;(1) be made for a period of not less than 25 nor greater than 40 years from the date the loan was made and may provide for amortization of the loan over a period of not to exceed 40 years with a final payment of the balance due at the end of the loan term;
+&emsp;(1) be made for a period of not less than 25 nor greater than 40 years from the date theloan was made and may provide for amortization of the loan over a period of not to exceed 40 years with a final payment of the balance due at the end of the loan term;
 
 &emsp;(2) involve a rate of interest agreed upon by the borrower and the lender that does not exceed the maximum allowable rate established by the Secretary for purposes of this section and is fixed over the term of the loan;
 
@@ -64,7 +64,7 @@ Each loan guaranteed pursuant to this section shall—
 
 &emsp;(4) be secured by a first mortgage on the housing and related facilities for which the loan is made, or otherwise, as the Secretary may determine necessary to ensure repayment of the obligation; and
 
-&emsp;(5) for at least 20 percent of the loans made under this section, the Secretary shall providethe borrower with assistance in the form of credits pursuant to section 1490a(a)(1)(B) of this title to the extent necessary to reduce the rate of interest under paragraph (2) to the applicable Federal rate, as such term is used in section 42(i)(2)(D) <sup>2</sup> of title 26.
+&emsp;(5) for at least 20 percent of the loans made under this section, the Secretary shall provide the borrower with assistance in the form of credits pursuant to section 1490a(a)(1)(B) of this title to the extent necessary to reduce the rate of interest under paragraph (2) to the applicable Federal rate, as such term is used in section 42(i)(2)(D) <sup>2</sup> of title 26.
 
 #### (g) Guarantee fee
 
@@ -114,7 +114,7 @@ Any loan guaranteed under this section may be refinanced and extended in accorda
 
 #### (1) Study
 
-&emsp;The Secretary shall provide for an independent entity to conduct a study to determine theextent to which borrowers in the United States will utilize loan guarantees under this section, the rural areas in the United States in which borrowers can best utilize and most need loans guaranteed under this section, and the rural areas in the United States in which housing of the type eligible for a loan guarantee under this section is most needed by low- and moderate-income families. The Secretary shall require the independent entity conducting the study to submit a report to the Secretary and to the Congress describing the results of the study not later than the expiration of the 90-day period beginning on March 28, 1996.
+&emsp;The Secretary shall provide for an independent entity to conduct a study to determine the extent to which borrowers in the United States will utilize loan guarantees under this section, the rural areas in the United States in which borrowers can best utilize and most need loans guaranteed under this section, and the rural areas in the United States in which housing of the type eligible for a loan guarantee under this section is most needed by low- and moderate-income families. The Secretary shall require the independent entity conducting the study to submit a report to the Secretary and to the Congress describing the results of the study not later than the expiration of the 90-day period beginning on March 28, 1996.
 
 #### (2) Targeting
 
@@ -156,7 +156,7 @@ The standards established under section 1485(m) of this title for housing and re
 
 &emsp;&emsp;(B) analyze the financial viability of the housing provided with loans guaranteed under this section and the need for project-based rental assistance for such housing;
 
-&emsp;&emsp;(C) include any recommendations of the Secretary for expanding or improving the program under this section for guaranteeing loans; and
+&emsp;&emsp;(C) include any recommendations of the Secretary for expanding or improving theprogram under this section for guaranteeing loans; and
 
 &emsp;&emsp;(D) include any other information regarding the program for guaranteeing loans under this section that the Secretary considers appropriate.
 
@@ -220,7 +220,7 @@ Subsec. (f)(1). Pub. L. 106–569, §707(2), added par. (1) and struck out forme
 
 Subsec. (i)(2). Pub. L. 106–569, §707(3), substituted “(A) submission to the Secretary of a claim for payment under the guarantee, and (B) assignment” for “(A) conveyance to the Secretary of title to the security property, (B) submission to the Secretary of a claim for payment under the guarantee, and (C) assignment”.
 
-Subsec. (<i>l</i>). Pub. L. 106–569, §707(6), (7), redesignated subsec. (m) as (<i>l</i>) and struck out heading and text of former subsec. (<i>l</i>). Text read as follows: “The borrower under a loan that is guaranteed under this section and under which any portion of the principal obligation or interest remains outstanding may not be relieved of liability with respect to the loan, notwithstanding the transfer of property for which the loan was made.”
+Subsec. (<i>l</i>). Pub. L. 106–569, §707(6), (7), redesignated subsec. (m) as (<i>l</i>) and struck out heading and text of former subsec. (<i>l</i>). Text read as follows: “The borrower under a loan that is guaranteed under this section andunder which any portion of the principal obligation or interest remains outstanding may not be relieved of liability with respect to the loan, notwithstanding the transfer of property for which the loan was made.”
 
 Subsecs. (m) to (r). Pub. L. 106–569, §707(7), redesignated subsecs. (n) to (s) as (m) to (r), respectively. Former subsec. (m) redesignated (<i>l</i>).
 

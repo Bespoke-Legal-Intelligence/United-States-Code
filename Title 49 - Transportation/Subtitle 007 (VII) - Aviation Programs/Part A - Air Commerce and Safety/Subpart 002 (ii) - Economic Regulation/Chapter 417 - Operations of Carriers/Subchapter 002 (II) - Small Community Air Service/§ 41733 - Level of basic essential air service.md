@@ -32,7 +32,7 @@ Compensation Payments.—The Secretary shall pay compensation under this section
 
 (e)
 
-Review.—The Secretary shall review periodically the level of basic essential air service for each eligible place. Based on the review and consultations with an interested community and the appropriate State authority of the State in which the community is located, the Secretary may make appropriate adjustments in the level of service, to the extent such adjustments are to a level not less than the basic essential air service level established under subsection (a) for the airport that serves the community.
+Review.—The Secretary shall review periodically the level of basic essential air service for each eligible place. Based on the review andconsultations with an interested community and the appropriate State authority of the State in which the community is located, the Secretary may make appropriate adjustments in the level of service, to the extent such adjustments are to a level not less than the basic essential air service level established under subsection (a) for the airport that serves the community.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1145; Pub. L. 106–181, title II, §209(b), Apr. 5, 2000, 114 Stat. 95.)
 

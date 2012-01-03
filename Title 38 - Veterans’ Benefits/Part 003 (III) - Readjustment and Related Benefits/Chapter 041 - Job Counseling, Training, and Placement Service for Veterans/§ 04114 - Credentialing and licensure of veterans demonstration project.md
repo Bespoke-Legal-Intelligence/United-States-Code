@@ -2,13 +2,13 @@
 
 (a)
 
-Demonstration Project Authorized.—The Assistant Secretary for Veterans’ Employment and Training may carry out a demonstration project on credentialing in accordance with this section for the purpose of facilitating the seamless transition of members of the Armed Forces from service on active duty to civilian employment.
+Demonstration Project Authorized.—The Assistant Secretary for Veterans’ Employment and Training shall carry out a demonstration project on credentialing in accordance with this section for the purpose of facilitating the seamless transition of members of the Armed Forces from service on active duty to civilian employment.
 
 (b)
 
-Identification of Military Occupational Specialties and Associated Credentials and Licenses.—(1) The Assistant Secretary shall select not less than 10 military occupational specialties for purposes of the demonstration project. Each specialty so selected by the Assistant Secretary shall require a skill or set of skills that is required for civilian employment in an industry with high growth or high worker demand.
+Identification of Military Occupational Specialties and Associated Credentials and Licenses.—(1) The Assistant Secretary for Veterans’ Employment and Training shall, in consultation with the Assistant Secretary for Employment and Training, select not more than five military occupational specialties for purposes of the demonstration project. Each specialty so selected by the Assistant Secretary for Veterans’ Employment and Training shall require a skill or set of skills that is required for civilian employment in an industry with high growth or high worker demand.
 
-(2) The Assistant Secretary shall consult with appropriate Federal, State, and industry officials to identify requirements for credentials, certifications, and licenses that require a skill or set of skills required by a military occupational specialty selected under paragraph (1).
+(2) The Assistant Secretary shall enter into a contract with an appropriate entity representing a coalition of State governors to consult with appropriate Federal, State, and industry officials and identify requirements for credentials, certifications, and licenses that require a skill or set of skills required by a military occupational specialty selected under paragraph (1).
 
 (3) The Assistant Secretary shall analyze the requirements identified under paragraph (2) to determine which requirements may be satisfied by the skills, training, or experience acquired by members of the Armed Forces with the military occupational specialties selected under paragraph (1).
 
@@ -18,41 +18,25 @@ Elimination of Barriers to Credentialing and Licensure.—The Assistant Secretar
 
 (d)
 
-Task Force.—The Assistant Secretary may establish a task force of individuals with appropriate expertise to provide assistance to the Assistant Secretary in carrying out this section.
+Period of Project.—The period during which the Assistant Secretary shall carry out the demonstration project under this section shall be the two-year period beginning on the date of the enactment of the VOW to Hire Heroes Act of 2011.
 
-(e)
-
-Consultation.—In carrying out this section, the Assistant Secretary shall consult with the Secretary of Defense, the Secretary of Veterans Affairs, appropriate Federal and State officials, private-sector employers, labor organizations, and industry trade associations.
-
-(f)
-
-Contract Authority.—For purposes of carrying out any part of the demonstration project under this section, the Assistant Secretary may enter into a contract with a public or private entity with appropriate expertise.
-
-(g)
-
-Period of Project.—The period during which the Assistant Secretary may carry out the demonstration project under this section shall be the period beginning on the date that is 60 days after the date of the enactment of the Veterans Benefits, Health Care, and Information Technology Act of 2006 and ending on September 30, 2009.
-
-(h)
-
-Funding.—The Assistant Secretary may carry out the demonstration project under this section utilizing unobligated funds that are appropriated in accordance with the authorization set forth in section 4106 of this title.
-
-(Added Pub. L. 109–461, title VI, §604(a)(1), Dec. 22, 2006, 120 Stat. 3437.)
+(Added Pub. L. 109–461, title VI, §604(a)(1), Dec. 22, 2006, 120 Stat. 3437; amended Pub. L. 112–56, title II, §237(a), Nov. 21, 2011, 125 Stat. 725.)
 
 #### References in Text
 
-The date of the enactment of the Veterans Benefits, Health Care, and Information Technology Act of 2006, referred to in subsec. (g), is the date of enactment of Pub. L. 109–461, which was approved Dec. 22, 2006.
+The date of the enactment of the VOW to Hire Heroes Act of 2011, referred to in subsec. (d), is the date of enactment of Pub. L. 112–56, which was approved Nov. 21, 2011.
 
 #### Prior Provisions
 
 Prior sections 4114 to 4119 were repealed by Pub. L. 102–40, title IV, §401(a)(3), May 7, 1991, 105 Stat. 210.
 
-Section 4114, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1247; Pub. L. 87–574, §4(2), Aug. 6, 1962, 76 Stat. 309; Pub. L. 89–785, title I, §111(a)–(c), Nov. 7, 1966, 80 Stat. 1371; Pub. L. 91–496, §§1, 3, Oct. 22, 1970, 84 Stat. 1092; Pub. L. 93–82, title II, §206, Aug. 2, 1973, 87 Stat. 192; Pub. L. 94–581, title I, §§109, 110(10), title II, §§205(g), 209(a)(6), (c)(6), 210(c)(7), Oct. 21, 1976, 90 Stat. 2848, 2849, 2859, 2860, 2862, 2864; Pub. L. 95–201, §4(a)(2), Nov. 23, 1977, 91 Stat. 1430; Pub. L. 96–330, title I, §116(b), Aug. 26, 1980, 94 Stat. 1039; Pub. L. 97–295, §4(85), Oct. 12, 1982, 96 Stat. 1312; Pub. L. 99–166, title II, §203, Dec. 3, 1985, 99 Stat. 950; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–576, title II, §214, Oct. 28, 1986, 100 Stat. 3258; Pub. L. 100–322, title II, §223, May 20, 1988, 102 Stat. 531; Pub. L. 100–687, div. B, title XV, §1503(a)(2), Nov. 18, 1988, 102 Stat. 4133; Pub. L. 101–366, title II, §203, Aug. 15, 1990, 104 Stat. 439, related to temporary full-time, part-time, and without compensation appointments and residencies or internships. See sections 7405 to 7407 of this title.
+Section 4114, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1247; Pub. L. 87–574, §4(2), Aug. 6, 1962, 76 Stat. 309; Pub. L. 89–785, title I, §111(a)–(c), Nov. 7, 1966, 80 Stat. 1371; Pub. L. 91–496, §§1, 3, Oct. 22, 1970, 84 Stat. 1092; Pub. L. 93–82, title II, §206, Aug. 2, 1973, 87 Stat. 192; Pub. L. 94–581, title I, §§109, 110(10), title II, §§205(g), 209(a)(6), (c)(6), 210(c)(7), Oct. 21, 1976, 90 Stat. 2848, 2849, 2859, 2860, 2862, 2864; Pub. L. 95–201, §4(a)(2), Nov. 23, 1977, 91 Stat. 1430; Pub. L. 96–330, title I, §116(b), Aug. 26, 1980, 94 Stat. 1039; Pub. L. 97–295, §4(85), Oct. 12, 1982, 96 Stat. 1312; Pub. L. 99–166, title II, §203, Dec. 3, 1985, 99 Stat. 950; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–576, title II, §214, Oct. 28, 1986, 100 Stat. 3258; Pub. L. 100–322, title II, §223, May 20, 1988, 102 Stat. 531; Pub. L. 100–687, div. B, title XV, §1503(a)(2), Nov. 18, 1988, 102 Stat. 4133; Pub. L. 101–366, title II, §203, Aug. 15, 1990, 104 Stat. 439,related to temporary full-time, part-time, and without compensation appointments and residencies or internships. See sections 7405 to 7407 of this title.
 
 Section 4115, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1248, related to regulations. See section 7304 of this title.
 
 Section 4116, added Pub. L. 89–311, §6(a), Oct. 31, 1965, 79 Stat. 1156; amended Pub. L. 89–506, §5(b), July 18, 1966, 80 Stat. 307; Pub. L. 93–82, title II, §207, Aug. 2, 1973, 87 Stat. 193; Pub. L. 94–581, title I, §110(11), title II, §§209(a)(7), 210(c)(8), Oct. 21, 1976, 90 Stat. 2849, 2861, 2864; Pub. L. 100–322, title II, §203(a)(1), May 20, 1988, 102 Stat. 509, related to defense of certain malpractice and negligence suits. See section 7316 of this title.
 
-Section 4117, added Pub. L. 89–785, title I, §112(a), Nov. 7, 1966, 80 Stat. 1371; amended Pub. L. 93–82, title II, §208, Aug. 2, 1973, 87 Stat. 194; Pub. L. 94–581, title I,§110(12), title II, §209(a)(1), (8), Oct. 21, 1976, 90 Stat. 2849, 2860, 2861, related to contracts for scarce medical specialist services. See section 7409 of this title.
+Section 4117, added Pub. L. 89–785, title I, §112(a), Nov. 7, 1966, 80 Stat. 1371; amended Pub. L. 93–82, title II, §208, Aug. 2, 1973, 87 Stat. 194; Pub. L. 94–581, title I, §110(12), title II, §209(a)(1), (8), Oct. 21, 1976, 90 Stat. 2849, 2860, 2861, related to contracts for scarce medical specialist services. See section 7409 of this title.
 
 Section 4118, added Pub. L. 94–123, §2(d)(1), Oct. 22, 1975, 89 Stat. 670; amended Pub. L. 95–201, §3(a), Nov. 23, 1977, 91 Stat. 1429; Pub. L. 96–330, title I, §§102(a)(1), (b)–(d), 103(a), 104(a), title II, §202, Aug. 26, 1980, 94 Stat. 1030, 1031, 1034, 1035, 1047; Pub. L. 97–258, §3(k)(6), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 97–295, §4(86), Oct. 12, 1982, 96 Stat. 1312; Pub. L. 99–576, title II, §231(a), Oct. 28, 1986, 100 Stat. 3263; Pub. L. 100–238, title I, §126, Jan. 8, 1988, 101 Stat. 1757, related to special pay for physicians and dentists. See sections 7431 to 7440 of this title.
 
@@ -99,4 +83,14 @@ Section 4151, added Pub. L. 99–166, title II, §204(a)(1), Dec. 3, 1985, 99 St
 Section 4152, added Pub. L. 99–166, title II, §204(a)(1), Dec. 3, 1985, 99 Stat. 951, related to quality-assurance reports. See section 7311 of this title.
 
 Prior sections 4161 to 4168 were renumbered sections 7361 to 7368 of this title, respectively.
+
+#### Amendments
+
+<b>2011</b>—Subsec. (a). Pub. L. 112–56, §237(a)(1), substituted “shall” for “may”.
+
+Subsec. (b)(1). Pub. L. 112–56, §237(a)(2)(A), substituted “Assistant Secretary for Veterans’ Employment and Training shall, in consultation with the Assistant Secretary for Employment and Training,” for “Assistant Secretary shall” and “not more than five military” for “not less than 10 military” and inserted “for Veterans’ Employment and Training” after “selected by the Assistant Secretary”.
+
+Subsec. (b)(2). Pub. L. 112–56, §237(a)(2)(B), substituted “enter into a contract with an appropriate entity representing a coalition of State governors to consult with appropriate Federal, State, and industry officials and” for “consult with appropriate Federal, State, and industry officials to”.
+
+Subsecs. (d) to (h). Pub. L. 112–56, §237(a)(3), added subsec. (d) and struck out former subsecs. (d) to (h) which related to task force, consultation, contract authority, period of project, and funding, respectively.
 

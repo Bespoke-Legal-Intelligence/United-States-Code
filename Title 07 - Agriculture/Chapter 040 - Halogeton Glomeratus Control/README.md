@@ -1,7 +1,5 @@
 ### <b>CHAPTER 40—HALOGETON GLOMERATUS CONTROL</b>
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
 
 ---
 

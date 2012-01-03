@@ -24,7 +24,7 @@ Section is based on section 3 of House Resolution No. 234, Ninety-eighth Congres
 
 #### Amendments
 
-1996—Subsec. (a)(1)(B). Pub. L. 104–186, §204(40)(C), substituted “semester or two full semesters” for “term or two full terms”.
+<b>1996</b>—Subsec. (a)(1)(B). Pub. L. 104–186, §204(40)(C), substituted “semester or two full semesters” for “term or two full terms”.
 
 Subsec. (b)(1). Pub. L. 104–186, §204(40)(D), substituted “except that no appointment may be made under this paragraph for service to begin on or after October 1 with respect to the first semester or on or after March 1 with respect to the second semester” for “but no appointment to fill that vacancy shall be for a period of less than two months”.
 

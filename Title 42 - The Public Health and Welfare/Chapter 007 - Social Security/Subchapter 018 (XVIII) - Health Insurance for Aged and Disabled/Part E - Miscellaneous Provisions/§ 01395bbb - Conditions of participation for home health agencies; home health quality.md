@@ -116,7 +116,7 @@ It is the duty and responsibility of the Secretary to assure that the conditions
 
 &emsp;&emsp;(III) who has no personal or familial financial interest in the home health agency surveyed.
 
-(D) Each home health agency that is found, under a standard survey, to have provided substandard care shall be subject to an extended survey to review and identify the policies and procedures which produced such substandardcare and to determine whether the agency has complied with the conditions of participation specified in or pursuant to section 1395x(<i>o</i>) of this title or subsection (a) of this section. Any other agency may, at the Secretary's or State's discretion, be subject to such an extended survey (or a partial extended survey). The extended survey shall be conducted immediately after the standard survey (or, if not practical, not later than 2 weeks after the date of completion of the standard survey).
+(D) Each home health agency that is found, under a standard survey, to have provided substandard care shall be subject to an extended survey to review and identify the policies and procedures which produced such substandard care and to determine whether the agency has complied with the conditions of participation specified in or pursuant to section 1395x(<i>o</i>) of this title or subsection (a) of this section. Any other agency may, at the Secretary's or State's discretion, be subject to such an extended survey (or a partial extended survey). The extended survey shall be conducted immediately after the standard survey (or, if not practical, not later than 2 weeks after the date of completion of the standard survey).
 
 (E) Nothing in this paragraph shall be construed as requiring an extended (or partial extended) survey as a prerequisite to imposing a sanction against an agency under subsection (e) of this section on the basis of the findings of a standard survey.
 
@@ -224,7 +224,7 @@ Amendment by Pub. L. 105–33 applicable to cost reporting periods beginning on 
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 4206(d)(2) of Pub. L. 101–508 applicable with respect to services furnished on or after the first day of the first month beginning more than 1 year after Nov. 5, 1990, see section 4206(e)(1) of Pub. L.101–508, set out as a note under section 1395i–3 of this title.
+Amendment by section 4206(d)(2) of Pub. L. 101–508 applicable with respect to services furnished on or after the first day of the first month beginning more than 1 year after Nov. 5, 1990, see section 4206(e)(1) of Pub. L. 101–508, set out as a note under section 1395i–3 of this title.
 
 Section 4207(i)(1), formerly 4027(i)(1), of Pub. L. 101–508, as renumbered by Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444, provided that the amendment made by that section is effective as if included in the enactment of the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203.
 
@@ -254,7 +254,7 @@ Section 4023(b) of Pub. L. 100–203, as amended by Pub. L. 100–360, title IV,
 
 #### Effective Date
 
-Section applicable to home health agencies as of the first day of the 18th calendar month that begins after Dec. 22, 1987, except as otherwise provided, see section 4021(c) of Pub. L. 100–203, set out as an Effective Date of 1987 Amendment note under section 1395x of this title.
+Section applicable to home health agencies as of the first day of the 18th calendar month that begins after Dec. 22, 1987, except as otherwise provided, see section 4021(c) of Pub. L. 100–203, set out as an Effective Dateof 1987 Amendment note under section 1395x of this title.
 
 #### Treatment of Branch Offices; GAO Study on Supervision of Home Health Care Provided in Isolated Rural Areas
 

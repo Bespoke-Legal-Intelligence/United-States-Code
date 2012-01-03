@@ -84,9 +84,9 @@ Section 2(c) of the Retirement and Survivors’ Annuities for Bankruptcy Judges 
 
 #### Amendments
 
-2006—Subsec. (c)(1). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
+<b>2006</b>—Subsec. (c)(1). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
 
-1999—Subsec. (b)(2)(A). Pub. L. 106–168, §202(b)(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “any employee or Member who has separated from the service after—
+<b>1999</b>—Subsec. (b)(2)(A). Pub. L. 106–168, §202(b)(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “any employee or Member who has separated from the service after—
 
 &emsp;“(i) having been subject to subchapter III of chapter 83 of this title, or subchapter I of chapter 8 of the Foreign Service Act of 1980; and
 
@@ -94,31 +94,31 @@ Section 2(c) of the Retirement and Survivors’ Annuities for Bankruptcy Judges 
 
 Subsec. (d). Pub. L. 106–168, §202(b)(2), amended subsec. (d) generally. Prior to amendment, text read as follows: “Paragraph (2) of subsection (b) shall not apply to an individual who becomes subject to subchapter II of chapter 8 of title I of the Foreign Service Act of 1980 (relating to the Foreign Service Pension System) pursuant to an election and who subsequently enters a position in which, but for such paragraph (2), he would be subject to this chapter.”
 
-1998—Subsec. (c)(9). Pub. L. 105–274 added par. (9).
+<b>1998</b>—Subsec. (c)(9). Pub. L. 105–274 added par. (9).
 
-1996—Subsec. (c)(5). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk” in introductory provisions and subpar. (B).
+<b>1996</b>—Subsec. (c)(5). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk” in introductory provisions and subpar. (B).
 
-1995—Subsec. (c)(7), (8). Pub. L. 104–53 added par. (7) and redesignated former par. (7) as (8).
+<b>1995</b>—Subsec. (c)(7), (8). Pub. L. 104–53 added par. (7) and redesignated former par. (7) as (8).
 
-1992—Subsec. (g). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Subsec. (g). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-1991—Subsec. (f). Pub. L. 102–40 substituted “section 7296 of title 38” for “section 4096 of title 38”.
+<b>1991</b>—Subsec. (f). Pub. L. 102–40 substituted “section 7296 of title 38” for “section 4096 of title 38”.
 
 Subsec. (g). Pub. L. 102–198 inserted a comma after “such chapter”.
 
-1990—Subsec. (c)(7). Pub. L. 101–474 added par. (7).
+<b>1990</b>—Subsec. (c)(7). Pub. L. 101–474 added par. (7).
 
 Subsec. (g). Pub. L. 101–650 added subsec. (g).
 
-1989—Subsec. (f). Pub. L. 101–94 added subsec. (f).
+<b>1989</b>—Subsec. (f). Pub. L. 101–94 added subsec. (f).
 
-1988—Subsec. (b)(2). Pub. L. 100–238, §130(1), inserted “subsection (d) of this section or” before “title III” in concluding provisions.
+<b>1988</b>—Subsec. (b)(2). Pub. L. 100–238, §130(1), inserted “subsection (d) of this section or” before “title III” in concluding provisions.
 
 Subsec. (d). Pub. L. 100–238, §130(2), added subsec. (d).
 
 Subsec. (e). Pub. L. 100–659 added subsec. (e).
 
-1986—Subsec. (c)(5), (6). Pub. L. 99–556 added pars. (5) and (6).
+<b>1986</b>—Subsec. (c)(5), (6). Pub. L. 99–556 added pars. (5) and (6).
 
 #### Change of Name
 

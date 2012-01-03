@@ -6,7 +6,7 @@ This chapter shall cease to be in effect whenever the President finds and procla
 
 #### Amendments
 
-1935—Act Aug. 24, 1935, substituted “on December 31, 1937” for “at the end of three years after the adoption of this amendment”.
+<b>1935</b>—Act Aug. 24, 1935, substituted “on December 31, 1937” for “at the end of three years after the adoption of this amendment”.
 
-1934—Act May 9, 1934, inserted second sentence relating to taxes on sugar beets and sugarcane.
+<b>1934</b>—Act May 9, 1934, inserted second sentence relating to taxes on sugar beets and sugarcane.
 

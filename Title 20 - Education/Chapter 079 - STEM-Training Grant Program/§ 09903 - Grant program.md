@@ -54,7 +54,7 @@ To be eligible to apply for a grant under this section, an institution of higher
 
 An institution of higher education seeking a grant under the program shall submit an application to the Director in such form, at such time, and containing such information and assurances as the Director may require, including—
 
-&emsp;(1) a description of the current rate at which individuals majoring in science, technology, engineering, and mathematics become certified as elementary and secondary teachers;
+&emsp;(1) a description of the current rate at which individuals majoring in science, technology,engineering, and mathematics become certified as elementary and secondary teachers;
 
 &emsp;(2) a description for the institution's plan for increasing the numbers of students enrolled in and graduating from the program supported under this chapter;
 

@@ -16,7 +16,7 @@ The President shall take appropriate actions to inform and assist covered employ
 
 &emsp;(2) provide such covered employees and other potential claimants with information and other support necessary for making claims, including—
 
-&emsp;&emsp;(A) medical protocols for medical testing and diagnosis to establish the existence of acovered beryllium illness, chronic silicosis, or cancer; and
+&emsp;&emsp;(A) medical protocols for medical testing and diagnosis to establish the existence of a covered beryllium illness, chronic silicosis, or cancer; and
 
 &emsp;&emsp;(B) lists of vendors approved for providing laboratory services related to such medical testing and diagnosis; and
 
@@ -24,7 +24,7 @@ The President shall take appropriate actions to inform and assist covered employ
 
 #### (c) Information from beryllium vendors and other contractors
 
-As part of the assistance program provided under subsections (a) and (b) of this section, and as permitted by law, the Secretary of Energy shall, upon the request of the President, require a beryllium vendor or other Department of Energy contractor or subcontractor to provide information relevant to a claim or potential claim under the compensation program to the President.
+As part of the assistance program provided under subsections (a) and (b) of this section, andas permitted by law, the Secretary of Energy shall, upon the request of the President, require a beryllium vendor or other Department of Energy contractor or subcontractor to provide information relevant to a claim or potential claim under the compensation program to the President.
 
 (Pub. L. 106–398, §1 \[div. C, title XXXVI, §3631\], Oct. 30, 2000, 114 Stat. 1654, 1654A–508.)
 

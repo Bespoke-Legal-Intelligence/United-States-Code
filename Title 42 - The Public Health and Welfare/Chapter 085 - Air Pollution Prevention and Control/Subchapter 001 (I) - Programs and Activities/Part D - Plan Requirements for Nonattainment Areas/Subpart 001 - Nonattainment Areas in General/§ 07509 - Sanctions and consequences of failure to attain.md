@@ -14,7 +14,7 @@ For any implementation plan or plan revision required under this part (or requir
 
 &emsp;(4) finds that any requirement of an approved plan (or approved part of a plan) is not being implemented,
 
-> unless such deficiency has been corrected within 18 months after the finding, disapproval, or determination referred to in paragraphs (1), (2), (3), and (4), one of the sanctions referred to in subsection (b) of this section shall apply, as selected by the Administrator, until the Administrator determines that the State has come into compliance, except that if the Administrator finds a lack of good faith, sanctions under both paragraph (1) and paragraph (2) of subsection (b) of this section shall apply until the Administrator determines that the State has come into compliance. If the Administrator has selected one of such sanctions and the deficiency has not been corrected within 6 months thereafter, sanctions under both paragraph (1) and paragraph (2) of subsection (b) of this section shall apply until the Administrator determines that the State has come into compliance. In addition to any other sanction applicable as provided in this section, the Administrator may withhold all or part of the grants for support of air pollution planning and control programs that the Administrator may award under section 7405 of this title.
+> unless such deficiency has been corrected within 18 months after the finding, disapproval, or determination referred to in paragraphs (1), (2), (3), and (4), one of the sanctions referred to in subsection (b) of this section shall apply, as selected by the Administrator, until the Administrator determines that the State has come intocompliance, except that if the Administrator finds a lack of good faith, sanctions under both paragraph (1) and paragraph (2) of subsection (b) of this section shall apply until the Administrator determines that the State has come into compliance. If the Administrator has selected one of such sanctions and the deficiency has not been corrected within 6 months thereafter, sanctions under both paragraph (1) and paragraph (2) of subsection (b) of this section shall apply until the Administrator determines that the State has come into compliance. In addition to any other sanction applicable as provided in this section, the Administrator may withhold all or part of the grants for support of air pollution planning and control programs that the Administrator may award under section 7405 of this title.
 
 #### (b) Sanctions
 
@@ -42,7 +42,7 @@ The sanctions available to the Administrator as provided in subsection (a) of th
 
 &emsp;&emsp;(viii) such other transportation-related programs as the Administrator, in consultation with the Secretary of Transportation, finds would improve air quality and would not encourage single occupancy vehicle capacity.
 
-> &emsp;In considering such measures, the State should seek to ensure adequate access todowntown, other commercial, and residential areas, and avoid increasing or relocating emissions and congestion rather than reducing them.
+> &emsp;In considering such measures, the State should seek to ensure adequate access to downtown, other commercial, and residential areas, and avoid increasing or relocating emissions and congestion rather than reducing them.
 
 #### (2) Offsets
 

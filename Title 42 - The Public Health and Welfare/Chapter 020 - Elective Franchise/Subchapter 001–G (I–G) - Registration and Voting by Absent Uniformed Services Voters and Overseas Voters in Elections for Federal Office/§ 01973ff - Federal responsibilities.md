@@ -204,7 +204,7 @@ By virtue of the authority vested in me as President by the Constitution and law
 
 Section 1. The Secretary of Defense is hereby designated as the “Presidential designee” under Title I of the Act \[42 U.S.C. 1973ff et seq.\].
 
-Sec. 2. In order to effectuate the purposes of the Act \[see Short Title note above\], the Secretary of Defense is hereby authorized to delegate any or all of the functions, responsibilities, powers, authority, or discretion devolving upon him in consequence of this Order to any person or persons within the Department of Defense.
+Sec. 2. In order to effectuate the purposes of the Act \[see Short Title note above\], the Secretary of Defenseis hereby authorized to delegate any or all of the functions, responsibilities, powers, authority, or discretion devolving upon him in consequence of this Order to any person or persons within the Department of Defense.
 
 Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

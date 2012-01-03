@@ -90,11 +90,11 @@ This chapter, referred to in subsecs. (b) and (c), was in the original, “this 
 
 #### Amendments
 
-2006—Subsecs. (h), (i). Pub. L. 109–271 redesignated subsec. (i) as (h).
+<b>2006</b>—Subsecs. (h), (i). Pub. L. 109–271 redesignated subsec. (i) as (h).
 
 Subsec. (i). Pub. L. 109–162, which directed the amendment of this section “as amended by section 726” by adding cl. (i) at end, was executed by adding subsec. (i) at end to reflect the probable intent of Congress. Pub. L. 109–162 does not contain a section 726.
 
-1996—Subsec. (a)(2), (4). Pub. L. 104–208, §308(d)(4)(L)(i), substituted “expulsion, or removal” for “or expulsion”.
+<b>1996</b>—Subsec. (a)(2), (4). Pub. L. 104–208, §308(d)(4)(L)(i), substituted “expulsion, or removal” for “or expulsion”.
 
 Subsec. (c). Pub. L. 104–208, §308(d)(4)(L)(ii), substituted “denial of admission to” for “exclusion from”.
 
@@ -104,21 +104,21 @@ Subsec. (g). Pub. L. 104–208, §308(e)(1)(M), which directed amendment of subs
 
 Pub. L. 104–208, §133, added subsec. (g).
 
-1991—Subsec. (a)(4). Pub. L. 102–232 substituted a semicolon for comma at end.
+<b>1991</b>—Subsec. (a)(4). Pub. L. 102–232 substituted a semicolon for comma at end.
 
-1990—Subsec. (a). Pub. L. 101–649, §503(a), struck out “and” at end of par. (3), substituted “United States, and” for “United States. Any such employee shall alsohave the power to execute any warrant or other process issued by any officer under any law regulating the admission, exclusion, or expulsion of aliens.” at end of par. (4), and added par. (5) and concluding provisions.
+<b>1990</b>—Subsec. (a). Pub. L. 101–649, §503(a), struck out “and” at end of par. (3), substituted “United States, and” for “United States. Any such employee shall alsohave the power to execute any warrant or other process issued by any officer under any law regulating the admission, exclusion, or expulsion of aliens.” at end of par. (4), and added par. (5) and concluding provisions.
 
 Subsec. (f). Pub. L. 101–649, §503(b)(1), added subsec. (f).
 
-1988—Subsec. (d). Pub. L. 100–525, §5, added par. (3) and closing provisions and struck out former par. (3) which read as follows: “requests the Service to determine promptly whether or not to issue a detainer to detain the alien, the officer or employee of the Service shall promptly determine whether or not to issue such a detainer. If such a detainer is issued and the alien is not otherwise detained by Federal, State, or local officials, the Attorney General shall effectively and expeditiously take custody of the alien.”
+<b>1988</b>—Subsec. (d). Pub. L. 100–525, §5, added par. (3) and closing provisions and struck out former par. (3) which read as follows: “requests the Service to determine promptly whether or not to issue a detainer to detain the alien, the officer or employee of the Service shall promptly determine whether or not to issue such a detainer. If such a detainer is issued and the alien is not otherwise detained by Federal, State, or local officials, the Attorney General shall effectively and expeditiously take custody of the alien.”
 
 Subsec. (e). Pub. L. 100–525, §2(e)(2), made technical amendment to directory language of Pub. L. 99–603, §116, and redesignated the subsec. (d) added by such §116, as (e). See 1986 Amendment note below.
 
-1986—Subsec. (d). Pub. L. 99–570 added subsec. (d).
+<b>1986</b>—Subsec. (d). Pub. L. 99–570 added subsec. (d).
 
 Subsec. (e). Pub. L. 99–603, as amended by Pub. L. 100–525, §2(e), added subsec. (e), which prior to amendment by Pub. L. 100–525, was designated as a second subsec. (d) of this section.
 
-1976—Subsec. (b). Pub. L. 94–550 inserted “(or who has executed an unsworn declaration, certificate, verification, or statement under penalty of perjury as permitted under section 1746 of title 28)” after “to whom such oath has been administered” and “(or subscribe under penalty of perjury as permitted under section 1746 of title 28)” after “give false evidence or swear”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–550 inserted “(or who has executed an unsworn declaration, certificate, verification, or statement under penalty of perjury as permitted under section 1746 of title 28)” after “to whom such oath has been administered” and “(or subscribe under penalty of perjury as permitted under section 1746 of title 28)” after “give false evidence or swear”.
 
 #### Effective Date of 1996 Amendment
 

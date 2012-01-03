@@ -26,7 +26,7 @@ For the purposes of this chapter—
 
 &emsp;(12) the term “national senior volunteer” means a volunteer in the National Senior Service Corps;
 
-&emsp;(13) the term “National Senior Service Corps” means the programs established underparts A, B, C, and E of subchapter II of this chapter;
+&emsp;(13) the term “National Senior Service Corps” means the programs established under parts A, B, C, and E of subchapter II of this chapter;
 
 &emsp;(14) the term “Retired and Senior Volunteer Program” means the program established under part A of subchapter II of this chapter;
 
@@ -85,6 +85,10 @@ Par. (7). Pub. L. 101–204, §502(b), added par. (7).
 <b>1986</b>—Par. (1). Pub. L. 99–551, §10(h), substituted “Agency” for “agency”.
 
 Par. (5). Pub. L. 99–551, §6(b), added par. (5).
+
+#### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Effective Date of 2009 Amendment
 

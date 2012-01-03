@@ -32,7 +32,7 @@ Circumstances.—The circumstances referred to in subsection (a) are—
 
 &emsp;&emsp;(C) the victim, or intended victim, is the United States Government, a member of the uniformed services, or any official, officer, employee, or agent of the legislative, executive, or judicial branches, or of any department or agency, of the United States;
 
-&emsp;&emsp;(D) the structure, conveyance, or other real or personal property is, in whole or in part, owned, possessed, or leased to the United States, or any department or agency of the United States;
+&emsp;&emsp;(D) the structure, conveyance, or other real or personal property is, in whole or inpart, owned, possessed, or leased to the United States, or any department or agency of the United States;
 
 &emsp;&emsp;(E) the offense is committed in the territorial sea (including the airspace above and the seabed and subsoil below, and artificial islands and fixed structures erected thereon) of the United States; or
 
@@ -154,7 +154,7 @@ Subsec. (g)(5)(B)(i). Pub. L. 104–294, §601(s)(3), inserted “930(c),” bef
 
 #### Termination Date of 2004 Amendment
 
-Pub. L. 108–458, title VI, §6603(g), Dec. 17, 2004, 118 Stat. 3764, which provided that section 6603 of Pub. L. 108–458 (amending this section and sections 2339A and 2339B of this title) and the amendments made by section 6603 would cease to be effective on Dec. 31, 2006, with certain exceptions, was repealed by Pub. L. 109–177, title I, §104, Mar. 9, 2006, 120 Stat. 195.
+Pub. L. 108–458, title VI, §6603(g), Dec. 17, 2004, 118 Stat. 3764, which provided that section 6603 of Pub. L.108–458 (amending this section and sections 2339A and 2339B of this title) and the amendments made by section 6603 would cease to be effective on Dec. 31, 2006, with certain exceptions, was repealed by Pub. L. 109–177, title I, §104, Mar. 9, 2006, 120 Stat. 195.
 
 #### Transfer of Functions
 

@@ -42,7 +42,7 @@ Section is comprised of section 901 of Pub. L. 107–117. Subsec. (c)(2) of sect
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–206 substituted “buildings and facilities, subject to the availability of appropriations,” for “buildings and facilities”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–206 substituted “buildings and facilities, subject to the availability of appropriations,” for “buildings and facilities”.
 
 #### Effective Date of 2002 Amendment
 

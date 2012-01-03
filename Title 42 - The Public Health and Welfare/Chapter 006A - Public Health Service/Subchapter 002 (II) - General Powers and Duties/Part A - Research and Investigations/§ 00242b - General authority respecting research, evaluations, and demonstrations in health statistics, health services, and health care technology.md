@@ -48,7 +48,7 @@ Subsec. (b). Pub. L. 101–239, §6103(e)(1)(C), substituted “subsection (a) o
 
 Subsec. (c)(1), (2). Pub. L. 101–239, §6103(e)(1)(D), substituted “the Agency for Health Care Policy and Research” for “the National Center for Health Services Research and Health Care Technology Assessment”.
 
-<b>1984</b>—Subsec. (a)(1). Pub. L. 98–551, §5(c)(1), (2), substituted “the National Center for Health Services Research and Health Care Technology Assessment and the National Center for Health Statistics” for “the National Center for Health Services Research, the National Center for Health Statistics, and the National Center for Health Care Technology”.
+<b>1984</b>—Subsec. (a)(1). Pub. L. 98–551, §5(c)(1), (2), substituted “the National Center for Health Services Research and Health Care Technology Assessment and theNational Center for Health Statistics” for “the National Center for Health Services Research, the National Center for Health Statistics, and the National Center for Health Care Technology”.
 
 Subsec. (a)(3). Pub. L. 98–551, §5(c)(1), (3), substituted “the National Center for Health Services Research and Health Care Technology Assessment or the National Center for Health Statistics” for “the National Center for Health Services Research, the National Center for Health Statistics, or the National Center for Health Care Technology”.
 
@@ -80,7 +80,7 @@ Subsec. (c). Pub. L. 95–623, §3(c), designated existing text as par. (1), sub
 
 Subsec. (d). Pub. L. 95–623, §7, as amended by Pub. L. 96–32, §5(c), added subsec. (d).
 
-<b>1974</b>—Pub. L. 93–353, in revising generally provisions of subsecs. (a) to (c), provided for general authority respecting health statistics and health services research, evaluation, and demonstrations, subsec. (a) relating to scope of activities, subsec. (b) relating to additional authority and scope of activities, and subsec. (c) relating to coordination of activities through units of the Department. Former provisions related to research and demonstrations relating to health facilities and services, subsec. (a) relating to grants and contracts for projects for research, experiments, or demonstrations and related training, cost limitation, wage rates, labor standards, and other conditions, and payments (former subsec. (a)(2) and (3) now being covered by section 242m(h) and (e), respectively), subsec. (b) relating to systems analysis of national health care plans, and costand coverage report on existing legislative proposals, and subsec. (c) relating to authorization of appropriations.
+<b>1974</b>—Pub. L. 93–353, in revising generally provisions of subsecs. (a) to (c), provided for general authority respecting health statistics and health services research, evaluation, and demonstrations, subsec. (a) relating to scope of activities, subsec. (b) relating to additional authority and scope of activities, and subsec. (c) relating to coordination of activities through units of the Department. Former provisions related to research and demonstrations relating to health facilities and services, subsec. (a) relating to grants and contracts for projects for research, experiments, or demonstrations and related training, cost limitation, wage rates, labor standards, and other conditions, and payments (former subsec. (a)(2) and (3) now being covered by section 242m(h) and (e), respectively), subsec. (b) relating to systems analysis of national health care plans, and cost and coverage report on existing legislative proposals, and subsec. (c) relating to authorization of appropriations.
 
 <b>1973</b>—Subsec. (c)(1). Pub. L. 93–45 authorized appropriations of $42,617,000 for fiscal year ending June 30, 1974.
 
@@ -102,7 +102,7 @@ Pub. L. 91–296 struck out provisions authorizing use of appropriated funds for
 
 #### Effective Date of 1970 Amendments
 
-Section 201(d) of Pub. L. 91–515 provided that: “The amendments made by subsection (c) of this section \[amending this section\] shall be effective only with respect to fiscal years ending after June 30, 1970.”
+Section 201(d) of Pub. L. 91–515 provided that: “The amendments made by subsection (c) of this section\[amending this section\] shall be effective only with respect to fiscal years ending after June 30, 1970.”
 
 Section 401(b)(1) of Pub. L. 91–296 provided that the amendment made by that section is effective with respect to appropriations for fiscal years beginning after June 30, 1970.
 

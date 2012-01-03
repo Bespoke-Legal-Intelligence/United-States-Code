@@ -10,7 +10,7 @@ For the purpose of this chapter—
 
 &emsp;(4) The term “Indian” means any person who is a member of an Indian tribe.
 
-&emsp;(5) The term “Indian tribe” means any tribe, band, nation, or other organized group or community of Indians, including any Alaska Native village (as defined in, or established pursuant to, the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\]), which is recognized as eligible for special programs and services provided by the United States to Indians because of their status as Indians.
+&emsp;(5) The term “Indian tribe” means any tribe, band, nation, or other organized group or community of Indians, including any Alaska Native village (as defined in, or established pursuant to, the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\]), which is recognized as eligible for special programs andservices provided by the United States to Indians because of their status as Indians.
 
 &emsp;(6) The term “Native Hawaiian” means any descendent of a person who, prior to 1778, was a native of the Hawaiian Islands.
 

@@ -70,7 +70,7 @@ The Secretary shall provide—
 
 &emsp;&emsp;&emsp;(iii) a certification that policies are in effect and are available for review by the Secretary and the public governing the eligibility, admission, and occupancy of families for housing assisted with grant amounts provided under this chapter;
 
-&emsp;&emsp;&emsp;(iv) a certification that policies are in effect and are available for review by theSecretary and the public governing rents and homebuyer payments charged, including the methods by which the rents or homebuyer payments are determined, for housing assisted with grant amounts provided under this chapter;
+&emsp;&emsp;&emsp;(iv) a certification that policies are in effect and are available for review by the Secretary and the public governing rents and homebuyer payments charged, including the methods by which the rents or homebuyer payments are determined, for housing assisted with grant amounts provided under this chapter;
 
 &emsp;&emsp;&emsp;(v) a certification that policies are in effect and are available for review by the Secretary and the public governing the management and maintenance of housing assisted with grant amounts provided under this chapter; and
 
@@ -128,7 +128,7 @@ Separate requirements.—The Secretary may—
 
 “(2)
 
-Small tribes.—The Secretary may define small Indian tribes and small tribally designated housing entities based on the number of dwelling units assisted under this subchapter by the tribe or housing entity or owned or operated pursuant to a contract under the United States Housing Act of 1937 between the Secretary and the Indian housing authority for the tribe.”
+Small tribes.—The Secretary may define small Indian tribes and small tribally designated housing entities based on the number of dwelling units assisted under this subchapter by the tribe or housing entity orowned or operated pursuant to a contract under the United States Housing Act of 1937 between the Secretary and the Indian housing authority for the tribe.”
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–276 redesignated par. (1) as (1)(A), par. (2) as (1)(B), and par. (3) as (2), and inserted “or” at end of par. (1)(A).
 

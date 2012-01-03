@@ -2,9 +2,7 @@
 
 (a)
 
-Private Operation.—(1) Under such regulations as the Secretary of Defense may approve, private persons may operate selected commissary store functions, except that such functions may not include functions relating to the procurement of products to be sold in a commissary store or functions relating to the overall management of a commissary system or the management of a commissary store. Such functions shall be carried out by personnel of the Department of Defense under regulations approved by the Secretary of Defense.
-
-(2) Any change to private operation of a commissary store function that is being performed by more than 10 Department of Defense civilian employees shall not take effect until the end of the 75-day period beginning on the date on which the Secretary of Defense submits to Congress written notice of the change. Until December 31, 2008, the Defense Commissary Agency is not required to conduct any cost-comparison study under the policies and procedures of Office of Management and Budget Circular A–76 relating to the possible contracting out of commissary store functions.
+Private Operation.—Under such regulations as the Secretary of Defense may approve, private persons may operate selected commissary store functions, except that such functions may not include functions relating to the procurement of products to be sold in a commissary store or functions relating to the overall management of a commissary system or the management of a commissary store. Such functions shall be carried out by personnel of the Department of Defense under regulations approved by the Secretary of Defense.
 
 (b)
 
@@ -102,15 +100,15 @@ Release of Certain Commercially Valuable Information to Public.—(1) The Secret
 
 (C) The Secretary of Defense shall establish performance benchmarks and shall submit information on customer satisfaction and performance data to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives.
 
-(D) The Secretary of Defense may, by contract entered into with a business, grant to the business a license to use business programs referredto in paragraph (2)(B), including software used in or comprising any such program. The fee charged for the license shall be based on the costs of similar programs developed and marketed by businesses in the private sector, determined by means of surveys.
+(D) The Secretary of Defense may, by contract entered into with a business, grant to the business a license to use business programs referred to in paragraph (2)(B), including software used in or comprising any such program. The fee charged for the license shall be based on the costs of similar programs developed and marketed by businesses in the private sector, determined by means of surveys.
 
-(E) Each contract entered into under this paragraph shall specify the amount to be paid for information released or a license granted under the contract, as the case may be.
+(E) Each contract entered into under this paragraph shall specify the amount to be paidfor information released or a license granted under the contract, as the case may be.
 
 (4) Information described in paragraph (2) may not be released, under paragraph (3) or otherwise, in a form that identifies any customer or that provides information making it possible to identify any customer.
 
 (5) Amounts received by the Secretary under this section shall be credited to funds derived from commissary surcharges applied under section 2484(e) of this title, shall be merged with those funds, and shall be available for the same purposes as the funds with which merged.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 141, §2482; Pub. L. 100–456, div. A, title III, §321, Sept. 29, 1988, 102 Stat. 1952; Pub. L. 104–106, div. A, title III, §331(a), Feb. 10, 1996, 110 Stat. 260; Pub. L. 104–201, div. A, title III, §341(b), Sept. 23, 1996, 110 Stat. 2489; Pub. L. 105–261, div. A, title III, §§361(b), 363(a), Oct. 17, 1998, 112 Stat. 1984, 1985; Pub. L. 108–136, div. A, title VI, §653, Nov. 24, 2003, 117 Stat. 1522; renumbered §2485 and amended Pub. L. 108–375, div. A, title VI, §651(a)(2), (6), (7), Oct. 28, 2004, 118 Stat. 1964, 1968; Pub. L. 109–163, div. A, title VI, §672, Jan. 6, 2006, 119 Stat. 3319; Pub. L. 111–350, §5(b)(35), Jan. 4, 2011, 124 Stat. 3845.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 141, §2482; Pub. L. 100–456, div. A, title III, §321, Sept. 29, 1988, 102 Stat. 1952; Pub. L. 104–106, div. A, title III, §331(a), Feb. 10, 1996, 110 Stat. 260; Pub. L. 104–201, div. A, title III, §341(b), Sept. 23, 1996, 110 Stat. 2489; Pub. L. 105–261, div. A, title III, §§361(b), 363(a), Oct. 17, 1998, 112 Stat. 1984, 1985; Pub. L. 108–136, div. A, title VI, §653, Nov. 24, 2003, 117 Stat. 1522; renumbered §2485 and amended Pub. L. 108–375, div. A, title VI, §651(a)(2), (6), (7), Oct. 28, 2004, 118 Stat. 1964, 1968; Pub. L. 109–163, div. A, title VI, §672, Jan. 6, 2006, 119 Stat. 3319; Pub. L. 111–350, §5(b)(35), Jan. 4, 2011, 124 Stat. 3845; Pub. L. 112–81, div. A, title X, §1061(16), Dec. 31, 2011, 125 Stat. 1583.)
 
 Historical and Revision Notes
 
@@ -136,7 +134,9 @@ A prior section 2486 was renumbered section 2484 of this title.
 
 #### Amendments
 
-<b>2011</b>—Subsec. (b)(1). Pub. L. 111–350 substituted “section 107 of title 41” for “section 4(6) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(6))”.
+<b>2011</b>—Subsec. (a). Pub. L. 112–81 struck out par. (1) designation before “Under such regulations” and struck out par. (2) which read as follows: “Any change to private operation of a commissary store function that is being performed by more than 10 Department of Defense civilian employees shall not take effect until the end of the 75-day period beginning on the date on which the Secretary of Defense submits to Congress written notice of the change. Until December 31, 2008, the Defense Commissary Agency is not required to conduct any cost-comparison study under the policies and procedures of Office of Management and Budget Circular A–76 relating to the possible contracting out of commissary store functions.”
+
+Subsec. (b)(1). Pub. L. 111–350 substituted “section 107 of title 41” for “section 4(6) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(6))”.
 
 <b>2006</b>—Subsec. (a)(2). Pub. L. 109–163 inserted at end “Until December 31, 2008, the Defense Commissary Agency is not required to conduct any cost-comparison study under the policies and procedures of Office of Management and Budget Circular A–76 relating to the possible contracting out of commissary store functions.”
 
@@ -166,5 +166,5 @@ Pub. L. 105–261, div. A, title III, §363(b), Oct. 17, 1998, 112 Stat. 1986, p
 
 #### Demonstration Program for Operation of Certain Commissary Stores by Nonappropriated Fund Instrumentalities
 
-Pub. L. 102–484, div. A, title III, §363, Oct. 23, 1992, 106 Stat. 2380, required the Secretary of Defense to establish a demonstration program to determine the feasibility of having nonappropriated fund instrumentalities operate commissary stores at military installations and provided for termination of the program and submission of a report on its implementation, not later than the expiration of the one-year period beginning on Oct. 23, 1992.
+Pub. L. 102–484, div. A, title III, §363, Oct. 23, 1992, 106 Stat. 2380, required the Secretary of Defense to establish a demonstration program to determine the feasibility of having nonappropriated fund instrumentalities operate commissary stores at military installations and provided for termination of the program and submission of a report on its implementation, not laterthan the expiration of the one-year period beginning on Oct. 23, 1992.
 

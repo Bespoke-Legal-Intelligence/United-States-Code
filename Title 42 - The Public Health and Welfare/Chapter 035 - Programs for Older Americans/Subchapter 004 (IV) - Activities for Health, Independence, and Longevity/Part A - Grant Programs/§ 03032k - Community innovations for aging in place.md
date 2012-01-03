@@ -42,7 +42,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;To be eligible to receive a grant under subsection (b) for a project, an entity shall submit an application to the Assistant Secretary at such time, in such manner, and containing such information as the Assistant Secretary may require.
+&emsp;To be eligible to receive a grant under subsection (b) for a project, an entity shall submit an application to the Assistant Secretary at such time, in such manner, and containingsuch information as the Assistant Secretary may require.
 
 #### (2) Contents
 
@@ -104,7 +104,7 @@ In this section:
 
 #### (3) Preference
 
-&emsp;In carrying out an aging in place project, an eligible entity shall, to the extent practicable,serve a community of low-income individuals and operate or locate the project and services in or in close proximity to a location where a large concentration of older individuals has aged in place and resided, such as a Naturally Occurring Retirement Community.
+&emsp;In carrying out an aging in place project, an eligible entity shall, to the extent practicable, serve a community of low-income individuals and operate or locate the project and services in or in close proximity to a location where a large concentration of older individuals has aged in place and resided, such as a Naturally Occurring Retirement Community.
 
 #### (4) Supplement not supplant
 

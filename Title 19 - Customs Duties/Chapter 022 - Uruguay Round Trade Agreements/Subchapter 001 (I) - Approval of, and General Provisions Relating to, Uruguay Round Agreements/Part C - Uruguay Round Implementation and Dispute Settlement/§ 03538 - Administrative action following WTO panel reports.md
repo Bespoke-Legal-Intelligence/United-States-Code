@@ -46,7 +46,7 @@
 
 #### (4) Implementation of determination
 
-&emsp;The Trade Representative may, after consulting with the administering authority and the congressional committees under paragraph (3), direct the administering authority to implement, in whole or in part, the determination made under paragraph (2).
+&emsp;The Trade Representative may, after consulting with the administering authority andthe congressional committees under paragraph (3), direct the administering authority to implement, in whole or in part, the determination made under paragraph (2).
 
 #### (c) Effects of determinations; notice of implementation
 
@@ -56,7 +56,7 @@
 
 &emsp;&emsp;(A) in the case of a determination by the Commission under subsection (a)(4) of this section, the date on which the Trade Representative directs the administering authority under subsection (a)(6) of this section to revoke an order pursuant to that determination, and
 
-&emsp;&emsp;(B) in the case of a determination by the administering authority under subsection (b)(2) of this section, the date on which the Trade Representative directs the administering authority under subsection (b)(4) ofthis section to implement that determination.
+&emsp;&emsp;(B) in the case of a determination by the administering authority under subsection (b)(2) of this section, the date on which the Trade Representative directs the administering authority under subsection (b)(4) of this section to implement that determination.
 
 #### (2) Notice of implementation
 

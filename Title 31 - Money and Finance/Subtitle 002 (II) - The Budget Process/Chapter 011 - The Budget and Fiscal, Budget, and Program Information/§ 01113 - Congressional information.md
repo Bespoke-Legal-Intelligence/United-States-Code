@@ -20,7 +20,7 @@
 
 &emsp;(3) when requested, provide assistance to committees and, to the extent practicable, to members of Congress in evaluating the information obtained from the sources in the directory.
 
-(d) To the extent they consider necessary, the Comptroller General and the Director of the Congressional Budget Office individually or jointly shall establish and maintain a file of information to meet recurring needs of Congress for fiscal, budget, and program information to carry out this section and sections 717 and 1112 of this title. The file shall include information on budget requests, congressional authorizations to obligate and expend, apportionment and reserve actions, and obligations and expenditures. The Comptroller General and the Director shall maintain the file and an index to the file so that it is easier for the committees and agencies of Congress to use the file and index through data processing and communications techniques.
+(d) To the extent they consider necessary, the Comptroller General and the Director of the Congressional Budget Office individually or jointly shall establish and maintain a file of information to meet recurring needs of Congress for fiscal, budget, and program information to carry out this section and sections 717 and 1112 of this title. The file shall include information on budget requests, congressional authorizations to obligate and expend, apportionment andreserve actions, and obligations and expenditures. The Comptroller General and the Director shall maintain the file and an index to the file so that it is easier for the committees and agencies of Congress to use the file and index through data processing and communications techniques.
 
 (e)(1) The Comptroller General shall—
 
@@ -168,7 +168,7 @@ Implementation of great lakes water quality agreement of 1978.—Section 118(c)(
 
 &emsp;“(3)
 
-Comprehensive conservation and management plan for long island sound.—Section 119(c)(7)of the Federal Water Pollution Control Act (33 U.S.C. 1269(c)(7)).
+Comprehensive conservation and management plan for long island sound.—Section 119(c)(7) of the Federal Water Pollution Control Act (33 U.S.C. 1269(c)(7)).
 
 &emsp;“(4)
 
@@ -320,7 +320,7 @@ Pub. L. 106–569, title XI, §1102, Dec. 27, 2000, 114 Stat. 3029, as amended b
 
 &emsp;“(17) Section 333 of the Revised Statutes of the United States (12 U.S.C. 14).
 
-&emsp;“(18) Section 3(g) of the Home Owners’ Loan Act (12 U.S.C. 1462a(g)).
+&emsp;“(18) Section 3(g) of the Home Owners’ Loan Act (\[former\] 12 U.S.C. 1462a(g)).
 
 &emsp;“(19) Section 304 of the Appalachian Regional Development Act of 1965 (40 U.S.C. App. 304) \[now 40 U.S.C. 14310\].
 
@@ -664,7 +664,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §209(e)\], Nov. 29,
 
 Pub. L. 106–65, div. A, title X, §1031, Oct. 5, 1999, 113 Stat. 749, provided that: “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 \[Pub. L. 104–66\] (31 U.S.C. 1113 note) does not apply to any report required to be submitted under any of the following provisions of law:
 
-&emsp;“(1) The following sections of title 10, United States Code: sections 113, 115a, 116, 139(f) \[now 139(g)\], 221, 226, 401(d), 662(b), 946, \[former\] 1464(c), \[former\] 2006(e)(3), 2010, 2011(e), 2391(c), 2431(a), 2432, 2457(d), 2461(g), 2537, 2662(b), 2706, 2859, 2861, 2902(g)(2), 4542(g)(2), 7424(b), 7425(b), 7431(c), 10541, 12302(d), and 16137.
+&emsp;“(1) The following sections of title 10, United States Code: sections 113, 115a, 116, 139(f) \[now 139(g)\], 221, \[former\] 226, 401(d), 662(b), 946, \[former\] 1464(c), \[former\] 2006(e)(3), 2010, 2011(e), 2391(c), 2431(a), 2432, 2457(d), 2461(g), 2537, 2662(b), 2706, 2859, 2861, 2902(g)(2), 4542(g)(2), 7424(b), 7425(b), 7431(c), 10541, 12302(d), and 16137.
 
 &emsp;“(2) Section 1121(f) of the National Defense Authorization Act for Fiscal Year 1988 and 1989 (Public Law 100–180; 10 U.S.C. 113 note).
 
@@ -782,7 +782,7 @@ Specific Reports Exempted.—Subsection (a)(1) shall not apply to any report req
 
 &emsp;“(10) section 6 of the Multinational Force and Observers Participation Resolution (22 U.S.C. 3425);
 
-&emsp;“(11) section 104 of the FREEDOM Support Act (22 U.S.C. 5814);
+&emsp;“(11) section 104 of the FREEDOM Support Act (\[former\] 22 U.S.C. 5814);
 
 &emsp;“(12) section 508 of that Act (22 U.S.C. 5858);
 

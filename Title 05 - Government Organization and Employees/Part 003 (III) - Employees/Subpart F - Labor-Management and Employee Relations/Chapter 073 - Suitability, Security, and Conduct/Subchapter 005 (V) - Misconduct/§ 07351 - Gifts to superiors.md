@@ -34,11 +34,11 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1990—Subsec. (a)(2). Pub. L. 101–280, §4(a)(1), inserted “or give a gift” after “donation as a gift”.
+<b>1990</b>—Subsec. (a)(2). Pub. L. 101–280, §4(a)(1), inserted “or give a gift” after “donation as a gift”.
 
 Subsec. (c). Pub. L. 101–280, §4(a)(2), substituted “Each supervising ethics office (as defined in section 7353(d)(1))” for “The Office of Government Ethics” and “circumstances in which gifts are traditionally given or exchanged” for “similar circumstances”.
 
-1989—Pub. L. 101–194 designated existing provisions as subsec. (a), struck out “An employee who violates this section shall be removed from the service.” at end, and added subsecs. (b) and (c).
+<b>1989</b>—Pub. L. 101–194 designated existing provisions as subsec. (a), struck out “An employee who violates this section shall be removed from the service.” at end, and added subsecs. (b) and (c).
 
 #### Inapplicability to Transfers of Unused Accrued Annual Leave by Federal Employees; Exception
 

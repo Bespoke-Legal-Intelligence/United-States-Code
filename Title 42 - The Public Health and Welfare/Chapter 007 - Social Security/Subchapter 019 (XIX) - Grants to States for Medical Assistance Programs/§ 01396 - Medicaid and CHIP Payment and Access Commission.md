@@ -16,7 +16,7 @@ There is hereby established the Medicaid and CHIP Payment and Access Commission 
 
 &emsp;&emsp;(C) by not later than March 15 of each year (beginning with 2010), submit a report to Congress containing the results of such reviews and MACPAC's recommendations concerning such policies; and
 
-&emsp;&emsp;(D) by not later than June 15 of each year (beginning with 2010), submit a report to Congress containing an examination of issues affecting Medicaid and CHIP, including the implications of changes in health care delivery in the United States and in the market for health care services on such programs.
+&emsp;&emsp;(D) by not later than June 15 of each year (beginning with 2010), submit a report toCongress containing an examination of issues affecting Medicaid and CHIP, including the implications of changes in health care delivery in the United States and in the market for health care services on such programs.
 
 #### (2) Specific topics to be reviewed
 
@@ -84,7 +84,7 @@ There is hereby established the Medicaid and CHIP Payment and Access Commission 
 
 #### (6) Agenda and additional reviews
 
-&emsp;MACPAC shall consult periodically with the chairmen and ranking minority members of the appropriate committees of Congress regarding MACPAC's agenda and progress towards achieving the agenda. MACPAC may conduct additional reviews, and submit additional reports to the appropriate committees of Congress, from time to time on such topics relating to the program under this subchapter or subchapter XXI as may be requested by such chairmen and members and as MACPAC deems appropriate.
+&emsp;MACPAC shall consult periodically with the chairmen and ranking minority members ofthe appropriate committees of Congress regarding MACPAC's agenda and progress towards achieving the agenda. MACPAC may conduct additional reviews, and submit additional reports to the appropriate committees of Congress, from time to time on such topics relating to the program under this subchapter or subchapter XXI as may be requested by such chairmen and members and as MACPAC deems appropriate.
 
 #### (7) Availability of reports
 
@@ -110,7 +110,7 @@ There is hereby established the Medicaid and CHIP Payment and Access Commission 
 
 #### (B) Information sharing
 
-&emsp;&emsp;MACPAC and MedPAC shall have access to deliberations and records of the other suchentity, respectively, upon the request of the other such entity.
+&emsp;&emsp;MACPAC and MedPAC shall have access to deliberations and records of the other such entity, respectively, upon the request of the other such entity.
 
 #### (12) Consultation with States
 
@@ -214,7 +214,7 @@ Subject to such review as the Comptroller General of the United States deems nec
 
 #### (1) Request for appropriations
 
-&emsp;MACPAC shall submit requests for appropriations (other than for fiscal year 2010) in the same manner as the Comptroller General of the United States submits requests for appropriations, but amounts appropriated for MACPAC shall be separate from amounts appropriated for the Comptroller General of the United States.
+&emsp;MACPAC shall submit requests for appropriations (other than for fiscal year 2010) inthe same manner as the Comptroller General of the United States submits requests for appropriations, but amounts appropriated for MACPAC shall be separate from amounts appropriated for the Comptroller General of the United States.
 
 #### (2) Authorization
 
@@ -312,7 +312,7 @@ Reliance on Law.—With respect to amendments made by this Act (other than title
 
 &emsp;“(1) such amendments are effective as of such date whether or not regulations implementing such amendments have been issued; and
 
-&emsp;“(2) Federal financial participation for medical assistance or child health assistance furnished under title XIX or XXI, respectively, of the Social Security Act \[this subchapter and subchapter XXI of this chapter\] on or after such date by a State in good faith reliance on such amendments before the date of promulgation of final regulations, if any, to carry outsuch amendments (or before the date of guidance, if any, regarding the implementation of such amendments) shall not be denied on the basis of the State's failure to comply with such regulations or guidance.”
+&emsp;“(2) Federal financial participation for medical assistance or child health assistance furnished under title XIX or XXI, respectively, of the Social Security Act \[this subchapter and subchapter XXI of this chapter\] on or after such date by a State in good faith reliance on such amendments before the date of promulgation of final regulations, if any, to carry out such amendments (or before the date of guidance, if any, regarding the implementation of such amendments) shall not be denied on the basis of the State's failure to comply with such regulations or guidance.”
 
 #### Purpose
 

@@ -58,7 +58,7 @@ For purposes of this subchapter only:
 
 The terms “national defense” and “defense”, as used in the Defense Production Act of 1950 (50 U.S.C. App. 2061 et seq.), includes <sup>1</sup> emergency preparedness activities conducted pursuant to this subchapter.
 
-(Pub. L. 93–288, title VI, §602, as added Pub. L. 103–337, div. C, title XXXIV, §3411(a)(3), Oct. 5, 1994, 108 Stat. 3101; amended Pub. L. 111–351, §3(c), Jan. 4, 2011, 124 Stat. 3864.)
+(Pub. L. 93–288, title VI, §602, as added Pub. L. 103–337, div. C, title XXXIV, §3411(a)(3), Oct. 5,1994, 108 Stat. 3101; amended Pub. L. 111–351, §3(c), Jan. 4, 2011, 124 Stat. 3864.)
 
 #### References in Text
 

@@ -2,13 +2,13 @@
 
 (a) A preauthorized electronic fund transfer from a consumer's account may be authorized by the consumer only in writing, and a copy of such authorization shall be provided to the consumer when made. A consumer may stop payment of a preauthorized electronic fund transfer by notifying the financial institution orally or in writing at any time up to three business days preceding the scheduled date of such transfer. The financial institution may require written confirmation to be provided to it within fourteen days of an oral notification if, when the oral notification is made, the consumer is advised of such requirement and the address to which such confirmation should be sent.
 
-(b) In the case of preauthorized transfers from a consumer's account to the same person which may vary in amount, the financial institution or designated payee shall, prior to each transfer, provide reasonable advance notice to the consumer, in accordance with regulations of the Board, of the amount to be transferred and the scheduled date of the transfer.
+(b) In the case of preauthorized transfers from a consumer's account to the same person which may vary in amount, the financial institution or designated payee shall, prior to each transfer, provide reasonable advance notice to the consumer, in accordance with regulations of the Bureau, of the amount to be transferred and the scheduled date of the transfer.
 
 (Pub. L. 90–321, title IX, §907, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3733; amended Pub. L. 111–203, title X, §1084(1), July 21, 2010, 124 Stat. 2081.)
 
-#### Amendment of Section
+#### Amendments
 
-<i>Pub. L. 111–203, title X, §§1084(1), 1100H, July 21, 2010, 124 Stat. 2081, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Board” each place that term appears and inserting “Bureau”. See Effective Date of 2010 Amendment note below.</i>
+<b>2010</b>—Subsec. (b). Pub. L. 111–203 substituted “Bureau” for “Board”.
 
 #### Effective Date of 2010 Amendment
 

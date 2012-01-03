@@ -144,7 +144,7 @@ The following rivers are hereby designated for potential addition to the nationa
 
 (70) Myakka, Florida: The segment south of the southern boundary of the Myakka River State Park.
 
-(71) Soldier Creek, Alabama: The segment beginning at the point where Soldier Creek intersects the south line of section 31, township 7 south, range 6 east, downstream to a point on the south line of section 6, township 8 south, range 6 east, which point is 1,322 feet west of the south line of section 5, township 8 south, range 6 east in the county of Baldwin, State of Alabama.
+(71) Soldier Creek, Alabama: The segment beginning at the point where Soldier Creek intersects the south line of section 31, township 7 south, range 6 east, downstream to a point onthe south line of section 6, township 8 south, range 6 east, which point is 1,322 feet west of the south line of section 5, township 8 south, range 6 east in the county of Baldwin, State of Alabama.
 
 (72) Red, Kentucky: The segment from Highway numbered 746 (also known as Spradlin Bridge) in Wolf County, Kentucky, downstream to the point where the river descends below seven hundred feet above sea level (in its normal flow) which point is at the Menifee and Powell County line just downstream of the iron bridge where Kentucky Highway numbered 77 passes over the river.
 
@@ -256,7 +256,7 @@ Mills River, North Carolina.—The North Fork from the bottom of the spillway of
 
 (110)
 
-Sudbury, Assabet, and Concord, Massachussets.<sup>1</sup> —The segment of the Sudbury from the Danforth Street Bridge in the town of Framingham, to its confluence with the Assabet, the Assabet from 1,000 feet downstream of the Damon Mill Dam in Concord to its confluence with the Sudbury and the Concord from the confluence of the Sudbury and Assabet downstream to the Route 3 Bridge in the town of Billerica. The study of such river segments shall be completed and the report submitted thereonnot later than at the end of the third fiscal year beginning after November 28, 1990.
+Sudbury, Assabet, and Concord, Massachussets.<sup>1</sup> —The segment of the Sudbury from the Danforth Street Bridge in the town of Framingham, to its confluence with the Assabet, the Assabet from 1,000 feet downstream of the Damon Mill Dam in Concord to its confluence with the Sudbury and the Concord from the confluence of the Sudbury and Assabet downstream to the Route 3 Bridge in the town of Billerica. The study of such river segments shall be completed and the report submitted thereon not later than at the end of the third fiscal year beginning after November 28, 1990.
 
 (111)
 
@@ -428,13 +428,13 @@ Missisquoi and trout rivers, vermont.—The approximately 25-mile segment of the
 
 (2) The study of the river named in subparagraph (56) of subsection (a) of this section shall be completed and the report thereon submitted by not later than January 3, 1976.
 
-(3) The studies of the rivers named in paragraphs (59) through (76) of subsection (a) of this section shall be completed and reports submitted thereon not later than five full fiscal years after November 10, 1978. The study of rivers named in paragraphs (62) through (64) of subsection (a) of this section shall be completed and the report thereon submitted by not later than April 1981. The study of the river named in paragraph (90) of subsection (a) of this section shall be completed not later than three years after October 17, 1984. The study of the river named in paragraph (93) of subsection (a) of this section shall be completed not later than three years after October 30, 1986.
+(3) The studies of the rivers named in paragraphs (59) through (76) of subsection (a) of this section shall be completed and reports submitted thereon not later than five full fiscal years after November 10, 1978. The study of rivers named in paragraphs (62) through (64) of subsection (a) of this section shall be completed and the report thereon submitted by not later thanApril 1981. The study of the river named in paragraph (90) of subsection (a) of this section shall be completed not later than three years after October 17, 1984. The study of the river named in paragraph (93) of subsection (a) of this section shall be completed not later than three years after October 30, 1986.
 
 (4) For the purposes of conducting the studies of rivers named in subsection (a) of this section, there are authorized to be appropriated such sums as necessary.
 
 (5) The studies of the rivers in paragraphs (77) through (88) shall be completed and reports transmitted thereon not later than three full fiscal years from December 2, 1980. For the rivers listed in paragraphs (77), (78), and (79) the studies prepared and transmitted to the Congress pursuant to section 6505(c) of title 42 shall satisfy the requirements of this section.
 
-(6) Studies of rivers listed in paragraphs (80) and (81) shall be completed, and reports submitted within and not later than the time when theBristol Bay Cooperative Region Plan is submitted to Congress in accordance with section 3183 <sup>3</sup> of this title.
+(6) Studies of rivers listed in paragraphs (80) and (81) shall be completed, and reports submitted within and not later than the time when the Bristol Bay Cooperative Region Plan is submitted to Congress in accordance with section 3183 <sup>3</sup> of this title.
 
 (7) The study of the West Branch of the Farmington River identified in paragraph (92) of subsection (a) of this section shall be completed and the report submitted thereon not later than the end of the third fiscal year beginning after October 30, 1986. Such report shall include a discussion of management alternatives for the river if it were to be included in the national wild and scenic river system.
 
@@ -480,7 +480,7 @@ Taunton River, Massachusetts.—Not later than 3 years after October 19, 2000, t
 
 (19)
 
-Missisquoi and trout rivers, vermont.—Not later than 3 years after the date on whichfunds are made available to carry out this paragraph, the Secretary of the Interior shall—
+Missisquoi and trout rivers, vermont.—Not later than 3 years after the date on which funds are made available to carry out this paragraph, the Secretary of the Interior shall—
 
 &emsp;(A) complete the study of the Missisquoi and Trout Rivers, Vermont, described in subsection (a)(140); and
 
@@ -648,7 +648,7 @@ Subsec. (b)(4). Pub. L. 96–87, §404(b), substituted “subparagraphs (59) thr
 
 <b>1978</b>—Subsec. (a)(59) to (75). Pub. L. 95–625, §§721–734, 1108, added pars. (59) to (75).
 
-Subsec. (b)(3), (4). Pub. L. 95–625, §§735, 736, added par. (3), redesignated former par. (3) as (4), and increased appropriations authorization for certain studies to$4,060,000 from $2,175,000 and authorized necessary appropriations for certain other river studies.
+Subsec. (b)(3), (4). Pub. L. 95–625, §§735, 736, added par. (3), redesignated former par. (3) as (4), and increased appropriations authorization for certain studies to $4,060,000 from $2,175,000 and authorized necessary appropriations for certain other river studies.
 
 <b>1976</b>—Subsec. (a)(47). Pub. L. 94–486, §701, struck out “including the tributaries and headwaters on national forest lands” after “Colorado Highway 160”.
 

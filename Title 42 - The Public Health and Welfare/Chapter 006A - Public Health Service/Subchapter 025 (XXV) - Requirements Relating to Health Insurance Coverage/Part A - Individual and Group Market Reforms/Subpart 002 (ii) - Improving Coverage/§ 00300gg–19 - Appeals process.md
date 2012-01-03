@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(A) a group health plan and a health insurance issuer offering group health coverage shall provide an internal claims and appeals process that initially incorporates the claims and appeals procedures (including urgent claims) set forth at section 2560.503–1 of title 29, Code of Federal Regulations, as published on November 21, 2000 (65 Fed. Reg. 70256), and shall update such process in accordance with any standards established by the Secretary of Labor for such plans and issuers; and
 
-&emsp;&emsp;(B) a health insurance issuer offering individual health coverage, and any other issuer not subject to subparagraph (A), shall provide an internal claims and appeals process that initially incorporates the claims and appeals procedures set forth under applicable law (as in existence on March 23, 2010), and shall update such process in accordance with any standards established by the Secretary of Health and Human Services for such issuers.
+&emsp;&emsp;(B) a health insurance issuer offering individual health coverage, and any other issuernot subject to subparagraph (A), shall provide an internal claims and appeals process that initially incorporates the claims and appeals procedures set forth under applicable law (as in existence on March 23, 2010), and shall update such process in accordance with any standards established by the Secretary of Health and Human Services for such issuers.
 
 #### (b) External review
 
@@ -34,7 +34,7 @@ A group health plan and a health insurance issuer offering group or individual h
 
 #### (c) Secretary authority
 
-The Secretary may deem the external review process of a group health plan or health insurance issuer, in operation as of the date of enactment of this section, to be in compliance with the applicable process established under subsection (b), as determined appropriate by the Secretary.
+The Secretary may deem the external review process of a group health plan or health insurance issuer, in operation as of March 23, 2010, to be in compliance with the applicable process established under subsection (b), as determined appropriate by the Secretary.
 
 (July 1, 1944, ch. 373, title XXVII, §2719, as added and amended Pub. L. 111–148, title I, §1001(5), title X, §10101(g), Mar. 23, 2010, 124 Stat. 137, 887.)
 

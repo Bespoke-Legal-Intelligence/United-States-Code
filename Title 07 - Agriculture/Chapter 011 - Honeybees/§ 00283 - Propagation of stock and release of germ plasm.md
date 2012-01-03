@@ -16,9 +16,9 @@ July 12, 1943, ch. 215, 57 Stat. 407.
 
 #### Amendments
 
-1981—Pub. L. 97–98 inserted “and may release bee germ plasm to the public”.
+<b>1981</b>—Pub. L. 97–98 inserted “and may release bee germ plasm to the public”.
 
-1951—Act Oct. 31, 1951, struck out provisions relating to sale of surplus bee-breeding stock, and the fixing of rates and disposition of proceeds in connection therewith.
+<b>1951</b>—Act Oct. 31, 1951, struck out provisions relating to sale of surplus bee-breeding stock, and the fixing of rates and disposition of proceeds in connection therewith.
 
 #### Effective Date of 1981 Amendment
 

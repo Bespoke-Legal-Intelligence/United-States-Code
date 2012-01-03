@@ -2,7 +2,7 @@
 
 (a)
 
-Annual Report Required.—Not later than the date of the submission of the President'sbudget request for a fiscal year under section 1105 of title 31, the Secretary of Defense shall submit to the congressional defense committees a report on the status of the materiel in the prepositioned stocks as of the end of the fiscal year preceding the fiscal year during which the report is submitted. Each report shall be unclassified and may contain a classified annex. Each report shall include the following information:
+Annual Report Required.—Not later than the date of the submission of the President's budget request for a fiscal year under section 1105 of title 31, the Secretary of Defense shall submit to the congressional defense committees a report on the status of the materiel in the prepositioned stocks as of the end of the fiscal year preceding the fiscal year during which the report is submitted. Each report shall be unclassified and may contain a classified annex. Each report shall include the following information:
 
 &emsp;(1) The level of fill for major end items of equipment and spare parts in each prepositioned set as of the end of the fiscal year covered by the report.
 
@@ -16,6 +16,18 @@ Annual Report Required.—Not later than the date of the submission of the Presi
 
 &emsp;(6) A list of any operations plan affected by any shortfall in the prepositioned stocks and a description of any action taken to mitigate any risk that such a shortfall may create.
 
+&emsp;(7) A list of any non-standard items slated for inclusion in the prepositioned stocks and a plan for funding the inclusion and sustainment of such items.
+
+&emsp;(8) A list of any equipment used in support of Operation Iraqi Freedom, Operation New Dawn, or Operation Enduring Freedom slated for retrograde and subsequent inclusion in the prepositioned stocks.
+
+&emsp;(9) An efficiency strategy for limited shelf-life medical stock replacement.
+
+&emsp;(10) The status of efforts to develop a joint strategy, integrate service requirements, and eliminate redundancies.
+
+&emsp;(11) The operational planning assumptions used in the formulation of prepositioned stock levels and composition.
+
+&emsp;(12) A list of any strategic plans affected by changes to the levels, composition, or locations of the prepositioned stocks and a description of any action taken to mitigate any risk that such changes may create.
+
 (b)
 
 Comptroller General Review.—(1) By not later than 120 days after the date on which a report is submitted under subsection (a), the Comptroller General shall review the report and, as the Comptroller General determines appropriate, submit to the congressional defense committees any additional information that the Comptroller General determines will further inform such committees on issues relating to the status of the materiel in the prepositioned stocks.
@@ -24,5 +36,9 @@ Comptroller General Review.—(1) By not later than 120 days after the date on w
 
 (3) The requirement to conduct a review under this subsection shall terminate on September 30, 2015.
 
-(Added Pub. L. 110–181, div. A, title III, §352(a), Jan. 28, 2008, 122 Stat. 71.)
+(Added Pub. L. 110–181, div. A, title III, §352(a), Jan. 28, 2008, 122 Stat. 71; amended Pub. L. 112–81, div. A, title III, §341(b), Dec. 31, 2011, 125 Stat. 1369.)
+
+#### Amendments
+
+<b>2011</b>—Subsec. (a)(7) to (12). Pub. L. 112–81 added pars. (7) to (12).
 

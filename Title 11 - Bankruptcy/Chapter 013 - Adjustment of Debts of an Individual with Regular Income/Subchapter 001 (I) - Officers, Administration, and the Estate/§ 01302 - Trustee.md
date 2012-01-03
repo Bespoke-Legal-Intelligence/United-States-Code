@@ -56,7 +56,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 1302 of the House amendment adopts a provision contained in the Senate amendment instead of the position taken in the House bill. Sections 1302(d) and (e) are modeled on the standing trustee system contained in the House bill with the court assuming supervisory functions in districts not under the pilot program.
 
@@ -86,15 +86,15 @@ Sections 464 and 466 of the Social Security Act, referred to in subsec. (d)(1)(A
 
 #### Amendments
 
-2010—Subsec. (b)(1). Pub. L. 111–327 substituted “704(a)(2), 704(a)(3), 704(a)(4), 704(a)(5), 704(a)(6), 704(a)(7), and 704(a)(9)” for “704(2), 704(3), 704(4), 704(5), 704(6), 704(7), and 704(9)”.
+<b>2010</b>—Subsec. (b)(1). Pub. L. 111–327 substituted “704(a)(2), 704(a)(3), 704(a)(4), 704(a)(5), 704(a)(6), 704(a)(7), and 704(a)(9)” for “704(2), 704(3), 704(4), 704(5), 704(6), 704(7), and 704(9)”.
 
-2005—Subsec. (b)(6). Pub. L. 109–8, §219(d)(1), added par. (6).
+<b>2005</b>—Subsec. (b)(6). Pub. L. 109–8, §219(d)(1), added par. (6).
 
 Subsec. (d). Pub. L. 109–8, §219(d)(2), added subsec. (d).
 
-1994—Subsec. (b)(3). Pub. L. 103–394 struck out “and” at end.
+<b>1994</b>—Subsec. (b)(3). Pub. L. 103–394 struck out “and” at end.
 
-1986—Subsec. (a). Pub. L. 99–554, §228(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “If the court has appointed an individual under subsection (d) of this section to serve as standing trustee in cases under this chapter and if such individual qualifies under section 322 of this title, then such individual shall serve as trustee in the case. Otherwise, the court shall appoint a person to serve as trustee in the case.”
+<b>1986</b>—Subsec. (a). Pub. L. 99–554, §228(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “If the court has appointed an individual under subsection (d) of this section to serve as standing trustee in cases under this chapter and if such individual qualifies under section 322 of this title, then such individual shall serve as trustee in the case. Otherwise, the court shall appoint a person to serve as trustee in the case.”
 
 Subsec. (d). Pub. L. 99–554, §228(2), struck out subsec. (d) which read as follows: “If the number of cases under this chapter commenced in a particular judicial district so warrant, the court may appoint one or more individuals to serve as standing trustee for such district in cases under this chapter.”
 
@@ -118,7 +118,7 @@ Pub. L. 99–554, §228(2), struck out subsec. (e) which read as follows:
 
 &emsp;&emsp;“(ii) the actual, necessary expenses incurred by such individual as standing trustee in such cases.”
 
-1984—Subsec. (b)(1). Pub. L. 98–353, §314(1), substituted “704(7), and 704(9) of this title” for “and 704(8) of this title”.
+<b>1984</b>—Subsec. (b)(1). Pub. L. 98–353, §314(1), substituted “704(7), and 704(9) of this title” for “and 704(8) of this title”.
 
 Subsec. (b)(2). Pub. L. 98–353, §314(2), struck out “and” at the end.
 

@@ -1,6 +1,6 @@
 ### §6307f. Required disclosures for judges and referees
 
-A judge or referee shall not be entitled to receive any compensation, directly or indirectly, in connection with a boxing match until it provides to the boxing commission responsible for regulating the match in a State a statement of all consideration, including reimbursement for expenses, that will be received from any source for participation in the match.
+A judge or referee shall not be entitled to receive any compensation, directly or indirectly, in connection with a boxing match until it provides to the boxing commission responsible for regulating the match in a State a statement ofall consideration, including reimbursement for expenses, that will be received from any source for participation in the match.
 
 (Pub. L. 104–272, §14, as added Pub. L. 106–210, §4(2), May 26, 2000, 114 Stat. 325.)
 

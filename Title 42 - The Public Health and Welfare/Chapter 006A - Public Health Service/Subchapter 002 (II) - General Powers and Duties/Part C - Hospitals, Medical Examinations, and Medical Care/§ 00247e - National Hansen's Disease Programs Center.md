@@ -14,7 +14,7 @@ In addition to the Center referred to in subsection (a) of this section, the Sec
 
 #### (c) Agency designated by Secretary
 
-The Secretary shall carry out subsections (a) and (b) of this section acting through an agency of the Service. For purposes of the precedingsentence, the agency designated by the Secretary shall carry out both activities relating to the provision of health services and activities relating to the conduct of research.
+The Secretary shall carry out subsections (a) and (b) of this section acting through an agency of the Service. For purposes of the preceding sentence, the agency designated by the Secretary shall carry out both activities relating to the provision of health services and activities relating to the conduct of research.
 
 #### (d) Payments to Board of Health of Hawaii
 
@@ -102,7 +102,7 @@ Pub. L. 105–78, title II, §211(a)–(g), Nov. 13, 1997, 111 Stat. 1489, as am
 
 &emsp;“(B) The State will permit the Center to maintain a museum on the transferred property, and will permit members of the public to visit the museum.
 
-&emsp;“(C) In the case of any waste products stored at the transferred property as of the date of the transfer, the Federal Government will after the transfer retain title to and responsibility for the products, and the State will not require that the Federal Government remove the products from the transferred property.
+&emsp;“(C) In the case of any waste products stored at the transferred property as of the date of the transfer, the Federal Government will after the transfer retaintitle to and responsibility for the products, and the State will not require that the Federal Government remove the products from the transferred property.
 
 &emsp;“(6) In the case of each individual who as of the date of the enactment of this Act \[Nov. 13, 1997\] is a Federal employee at the transferred property with facilities management or dietary duties:
 

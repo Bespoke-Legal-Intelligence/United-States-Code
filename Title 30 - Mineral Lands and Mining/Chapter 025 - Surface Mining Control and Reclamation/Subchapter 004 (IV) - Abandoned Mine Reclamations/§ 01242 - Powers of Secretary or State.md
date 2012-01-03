@@ -24,7 +24,7 @@ The Secretary may transfer funds to other appropriate Federal agencies, in order
 
 #### References in Text
 
-The Federal Water Pollution Control Act (33 U.S.C.A. 1151, et seq. as amended), referred to in subsec. (d), is act June 30, 1948, ch. 758, 62 Stat. 1155, formerly classified to chapter 23 (§1151 et seq.) of Title 33, Navigation and Navigable Waters, which was completely revised by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, and is classified generally to chapter 26 (§1251 et seq.) of Title 33. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
+The Federal Water Pollution Control Act (33 U.S.C.A. 1151, et seq. as amended), referred to in subsec. (d), isact June 30, 1948, ch. 758, 62 Stat. 1155, formerly classified to chapter 23 (§1151 et seq.) of Title 33, Navigation and Navigable Waters, which was completely revised by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, and is classified generally to chapter 26 (§1251 et seq.) of Title 33. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
 #### Prior Provisions
 

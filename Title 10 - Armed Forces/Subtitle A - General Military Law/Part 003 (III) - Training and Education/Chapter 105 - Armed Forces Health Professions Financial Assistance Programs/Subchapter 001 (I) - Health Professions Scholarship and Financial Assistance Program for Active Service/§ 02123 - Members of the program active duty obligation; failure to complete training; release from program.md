@@ -8,7 +8,7 @@
 
 (d) The Secretary of a military department, under regulations prescribed by the Secretary of Defense, may relieve a member of the program who is dropped from the program from an active duty obligation imposed by this section, but such relief shall not relieve him from any military obligation imposed by any other law.
 
-(e)(1) A member of the program who is relieved of the member's active duty obligation underthis subchapter before the completion of that active duty obligation may be given, with or without the consent of the member, any of the following alternative obligations, as determined by the Secretary of the military department concerned:
+(e)(1) A member of the program who is relieved of the member's active duty obligation under this subchapter before the completion of that active duty obligation may be given, with or without the consent of the member, any of the following alternative obligations, as determined by the Secretary of the military department concerned:
 
 &emsp;(A) A service obligation in another armed force for a period of time not less than the member's remaining active duty service obligation.
 

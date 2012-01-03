@@ -4,7 +4,7 @@
 
 #### (1) Authority for grants
 
-&emsp;The Secretary, acting through the Administrator of the Health Resources and Services Administration, may make grants to States for the purpose of assisting the States in operating programs described in paragraph (2) in order to provide for the increased availability of primary health care services in health professional shortage areas. The National Advisory Council established under section 254j of this title shall advise the Administrator regarding the program under this section.
+&emsp;The Secretary, acting through the Administrator of the Health Resources and ServicesAdministration, may make grants to States for the purpose of assisting the States in operating programs described in paragraph (2) in order to provide for the increased availability of primary health care services in health professional shortage areas. The National Advisory Council established under section 254j of this title shall advise the Administrator regarding the program under this section.
 
 #### (2) Loan repayment programs
 
@@ -36,7 +36,7 @@
 
 #### (3) Limitation regarding contract inducements
 
-&emsp;(A) Except as provided in subparagraph (B), the Secretary may not make a grant undersubsection (a) of this section unless the State involved agrees that the contracts provided by the State pursuant to paragraph (2) of such subsection will not be provided on terms that are more favorable to health professionals than the most favorable terms that the Secretary is authorized to provide for contracts under the Loan Repayment Program under section 254<i>l</i>–1 of this title, including terms regarding—
+&emsp;(A) Except as provided in subparagraph (B), the Secretary may not make a grant under subsection (a) of this section unless the State involved agrees that the contracts provided by the State pursuant to paragraph (2) of such subsection will not be provided on terms that are more favorable to health professionals than the most favorable terms that the Secretary is authorized to provide for contracts under the Loan Repayment Program under section 254<i>l</i>–1 of this title, including terms regarding—
 
 &emsp;&emsp;(i) the annual amount of payments provided on behalf of the professionals regarding educational loans; and
 
@@ -98,7 +98,7 @@ For purposes of this section, the term “State” means each of the 50 States, 
 
 #### (1) In general
 
-&emsp;For the purpose of making grants under subsection (a) of this section, there are authorizedto be appropriated $12,000,000 for fiscal year 2008, and such sums as may be necessary for each of fiscal years 2009 through 2012.
+&emsp;For the purpose of making grants under subsection (a) of this section, there are authorized to be appropriated $12,000,000 for fiscal year 2008, and such sums as may be necessary for each of fiscal years 2009 through 2012.
 
 #### (2) Availability
 
@@ -130,7 +130,7 @@ For purposes of this section, the term “State” means each of the 50 States, 
 
 #### References in Text
 
-Section 254c of this title, referred to in subsec. (d)(1)(A), was in the original a reference to section 330, meaning section 330 of act July 1, 1944, which was omitted in the general amendment of subpart I (§254b et seq.) of this part by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626. Sections 2 and 3(a) of Pub. L. 104–299 enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
+Section 254c of this title, referred to in subsec. (d)(1)(A), was in the original a reference to section 330, meaning section 330 of act July 1, 1944, which was omitted in the general amendment of subpart I (§254b etseq.) of this part by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626. Sections 2 and 3(a) of Pub. L. 104–299 enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
 
 #### Prior Provisions
 

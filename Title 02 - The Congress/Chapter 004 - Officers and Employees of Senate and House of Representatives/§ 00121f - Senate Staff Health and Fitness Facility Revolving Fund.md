@@ -18,7 +18,7 @@ Subject to the approval of the Committee on Appropriations of the Senate, amount
 
 #### (d) Withdrawal of excess amounts
 
-The Architect of the Capitol shall withdraw from the revolving fund and deposit in the Treasury of the United States as miscellaneous receipts all moneys in the revolving fund that the Architect determines are in excess of the current and reasonably foreseeable needs of the Senate Staff Health and Fitness Facility.
+The Architect of the Capitol shall withdraw from the revolving fund and deposit in the Treasury of the United States as miscellaneousreceipts all moneys in the revolving fund that the Architect determines are in excess of the current and reasonably foreseeable needs of the Senate Staff Health and Fitness Facility.
 
 #### (e) Regulations
 
@@ -32,11 +32,11 @@ Section is from the Congressional Operations Appropriations Act, 2001, which is 
 
 #### Amendments
 
-2003—Subsecs. (a), (b)(1). Pub. L. 108–7, §1207(1), (2), inserted “Staff” after “Senate”.
+<b>2003</b>—Subsecs. (a), (b)(1). Pub. L. 108–7, §1207(1), (2), inserted “Staff” after “Senate”.
 
 Subsec. (c). Pub. L. 108–7, §1207(3), inserted “Staff” after “costs of the Senate”.
 
 Subsec. (d). Pub. L. 108–7, §1207(4), inserted “Staff” after “Senate”.
 
-Subsec. (e). Pub. L. 108–7, §1207(5), added subsec. (e) and struck out former subsec. (e) which read as follows:“Subject to the approval of the Committee on Rules and Administration of the Senate, the Architect of the Capitol may issue such regulations as may be necessary to carry out the provisions of this section.”
+Subsec. (e). Pub. L. 108–7, §1207(5), added subsec. (e) and struck out former subsec. (e) which read as follows: “Subject to the approval of the Committee on Rules and Administration of the Senate, the Architect of the Capitol may issue such regulations as may be necessary to carry out the provisions of this section.”
 

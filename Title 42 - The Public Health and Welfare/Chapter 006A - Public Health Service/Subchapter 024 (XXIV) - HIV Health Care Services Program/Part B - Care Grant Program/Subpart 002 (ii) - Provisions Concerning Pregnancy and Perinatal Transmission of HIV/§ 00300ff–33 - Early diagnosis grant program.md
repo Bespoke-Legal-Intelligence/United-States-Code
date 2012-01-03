@@ -24,7 +24,7 @@ A State may use funds provided under subsection (a) for HIV/AIDS testing (includ
 
 #### (d) Application
 
-A State that is eligible for the grant under subsection (a) shall submit an application to the Secretary, in such form, in such manner, andcontaining such information as the Secretary may require.
+A State that is eligible for the grant under subsection (a) shall submit an application to the Secretary, in such form, in such manner, and containing such information as the Secretary may require.
 
 #### (e) Limitation on amount of grant
 

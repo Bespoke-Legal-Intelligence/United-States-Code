@@ -74,7 +74,7 @@ An institution which has entered into an agreement under subsection (a) of this 
 
 #### (d) Limitation on use of interest bearing accounts
 
-In carrying out the provisions of subsection (a)(9) of this section, the Secretary may not require that any collection agency, collection attorney, or loan servicer collecting loans made under this part deposit amounts collected on such loans in interest bearing accounts, unlesssuch agency, attorney, or servicer holds such amounts for more than 45 days.
+In carrying out the provisions of subsection (a)(9) of this section, the Secretary may not require that any collection agency, collection attorney, or loan servicer collecting loans made under this part deposit amounts collected on such loans in interest bearing accounts, unless such agency, attorney, or servicer holds such amounts for more than 45 days.
 
 #### (e) Special due diligence rule
 

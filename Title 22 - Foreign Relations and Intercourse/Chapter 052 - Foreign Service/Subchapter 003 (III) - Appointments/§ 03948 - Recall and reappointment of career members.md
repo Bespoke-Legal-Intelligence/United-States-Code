@@ -12,11 +12,11 @@ Former career members of the Service may be reappointed under section 3942(a)(1)
 
 #### USAID Overseas Program
 
-Pub. L. 111–117, div. F, title VII, §7059(a)–(g), Dec. 16, 2009, 123 Stat. 3380, 3381, provided that:
+Pub. L. 112–74, div. I, title VII, §7057(a)–(e), Dec. 23, 2011, 125 Stat. 1244, provided that:
 
 “(a)
 
-Authority.—Up to $93,000,000 of the funds made available in title III of this Act \[title III of div. F of Pub. L. 111–117, 123 Stat. 3323\] to carry out the provisions of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], including funds appropriated under the heading ‘Assistance for Europe, Eurasia and Central Asia’, may be used by the United States Agency for International Development (USAID) to hire and employ individuals in the United States and overseas on a limited appointment basis pursuant to the authority of sections 308 and 309 of the Foreign Service Act of 1980 \[22 U.S.C. 3948, 3949\].
+Authority.—Up to $93,000,000 of the funds made available in title III of this Act \[title III of div. I of Pub. L. 112–74, 125 Stat. 1175\] to carry out the provisions of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], including funds appropriated under the heading ‘Assistance for Europe, Eurasia and Central Asia’, may be used by the United States Agency for International Development (USAID) to hire and employ individuals in the United States and overseas on a limited appointment basis pursuant to the authority of sections 308 and 309 of the Foreign Service Act of 1980 \[22 U.S.C. 3948, 3949\].
 
 “(b)
 
@@ -24,29 +24,23 @@ Restrictions.—
 
 &emsp;“(1) The number of individuals hired in any fiscal year pursuant to the authority contained in subsection (a) may not exceed 175.
 
-&emsp;“(2) The authority to hire individuals contained in subsection (a) shall expire on September 30, 2011.
+&emsp;“(2) The authority to hire individuals contained in subsection (a) shall expire on September 30, 2013.
 
 “(c)
 
-Conditions.—The authority of subsection (a) may only be used to the extent that an equivalent number of positions that are filled by personal services contractors or other non-direct hire employees of USAID, who are compensated with funds appropriated to carry out part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], including funds appropriated under the heading ‘Assistance for Europe, Eurasia and Central Asia’, are eliminated.
+Conditions.—The authority of subsection (a) should only be used to the extent that an equivalent number of positions that are filled by personal services contractors or other non-direct hire employees of USAID, who are compensated with funds appropriated to carry out part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], including funds appropriated under the heading ‘Assistance for Europe, Eurasia and Central Asia’, are eliminated.
 
 “(d)
 
-Priority Sectors.—In exercising the authority of this section, primary emphasis shall be placed on enabling USAID to meet personnel positions in technical skill areas currently encumbered by contractor or other non-direct hire personnel.
+Program Account Charged.—The account charged for the cost of an individual hired and employed under the authority of this section shall be the account to which such individual's responsibilities primarily relate: <i>Provided</i>, That funds made available to carry out this section may be transferred to, and merged with, funds appropriated by this Act in title II \[title II of div. I of Pub. L. 112–74, 125 Stat. 1174\] under the heading ‘Operating Expenses’.
 
 “(e)
 
-Consultations.—The USAID Administrator shall consult with the Committees on Appropriations on a quarterly basis concerning the implementation of this section.
-
-“(f)
-
-Program Account Charged.—The account charged for the cost of an individual hired and employed under the authority of this section shall be the account to which such individual's responsibilities primarily relate: <i>Provided</i>, That funds made available to carry out this section may be transferred to, and merged with, funds appropriated by this Act in title II \[title II of div. F of Pub. L. 111–117, 123 Stat. 3321\] under the heading ‘Operating Expenses’.
-
-“(g)
-
-Foreign Service Limited Extensions.—Individuals hired and employed by USAID, with funds made available in this Act \[div. F of Pub. L. 111–117, 123 Stat. 3312\] or prior Acts making appropriations for the Department of State, foreign operations, and related programs \[see similar provisions listed below\], pursuant to the authority of section 309 of the Foreign Service Act of 1980 \[22 U.S.C. 3949\], may be extended for a period of up to 4 years notwithstanding the limitation set forth in such section.”
+Foreign Service Limited Extensions.—Individuals hired and employed by USAID, with funds made available in this Act \[div. I of Pub. L. 112–74, 125 Stat. 1164\] or prior Acts making appropriations for the Department of State, foreign operations, and related programs \[see similar provisions listed below\], pursuant to the authority of section 309 of the Foreign Service Act of 1980 \[22 U.S.C. 3949\], may be extended for a period of up to 4 years notwithstanding the limitation set forth in such section.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 111–117, div. F, title VII, §7059(a)–(g), Dec. 16, 2009, 123 Stat. 3380, 3381.
 
 Pub. L. 111–8, div. H, title VII, §7059(a)–(g), Mar. 11, 2009, 123 Stat. 896.
 

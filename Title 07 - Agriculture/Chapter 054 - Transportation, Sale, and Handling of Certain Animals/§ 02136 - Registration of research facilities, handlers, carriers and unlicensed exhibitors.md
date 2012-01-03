@@ -6,9 +6,9 @@ Every research facility, every intermediate handler, every carrier, and every ex
 
 #### Amendments
 
-1976—Pub. L. 94–279 inserted “, every intermediate handler, every carrier,” after “research facility”.
+<b>1976</b>—Pub. L. 94–279 inserted “, every intermediate handler, every carrier,” after “research facility”.
 
-1970—Pub. L. 91–579 inserted reference to exhibitors not licensed under section 2133 of this title.
+<b>1970</b>—Pub. L. 91–579 inserted reference to exhibitors not licensed under section 2133 of this title.
 
 #### Effective Date of 1970 Amendment
 

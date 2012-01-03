@@ -10,7 +10,7 @@ Additional Definitions.—As used in this subchapter:
 
 &emsp;(1) The term “information security” means protecting information and information systems from unauthorized access, use, disclosure, disruption, modification, or destruction in order to provide—
 
-&emsp;&emsp;(A) integrity, which means guarding against improper information modification or destruction, and includes ensuring information nonrepudiation and authenticity;
+&emsp;&emsp;(A) integrity, which means guarding against improper information modificationor destruction, and includes ensuring information nonrepudiation and authenticity;
 
 &emsp;&emsp;(B) confidentiality, which means preserving authorized restrictions on access and disclosure, including means for protecting personal privacy and proprietary information; and
 

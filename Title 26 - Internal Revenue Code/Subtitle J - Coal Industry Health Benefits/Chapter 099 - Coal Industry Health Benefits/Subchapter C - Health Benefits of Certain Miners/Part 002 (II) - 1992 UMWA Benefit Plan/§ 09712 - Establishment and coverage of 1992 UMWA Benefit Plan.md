@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;As soon as practicable after the enactment date, the settlors shall create a separate private plan which shall be known as the United Mine Workers of America 1992 Benefit Plan. For purposes of this title, the 1992 UMWA Benefit Plan shall be treated as an organization exempt from taxation under section 501(a). The settlors shall be responsible for designing the structure, administration and terms of the 1992 UMWA Benefit Plan, and for appointment and removal of the members of the board of trustees. The board of trustees shall initially consist of five members and shall thereafter be the number set by the settlors.
+&emsp;As soon as practicable after the enactment date, the settlors shall create a separate private plan which shall be known as the United Mine Workers of America 1992 Benefit Plan. For purposes of this title, the 1992 UMWA Benefit Plan shall be treated as an organization exempt from taxation under section 501(a). The settlors shall be responsible for designing the structure, administration and terms of the 1992 UMWA Benefit Plan, and for appointment and removal of the members of the board of trustees. The board of trustees shall initiallyconsist of five members and shall thereafter be the number set by the settlors.
 
 #### (2) Treatment of plan
 
@@ -24,7 +24,7 @@
 
 #### (B) Use of funds
 
-&emsp;&emsp;Any amount transferred under subparagraph (A) for any fiscal year shall be used toprovide the health benefits described in subsection (c) with respect to any beneficiary for whom no monthly per beneficiary premium is paid pursuant to paragraph (1)(A) or (3) of subsection (d).
+&emsp;&emsp;Any amount transferred under subparagraph (A) for any fiscal year shall be used to provide the health benefits described in subsection (c) with respect to any beneficiary for whom no monthly per beneficiary premium is paid pursuant to paragraph (1)(A) or (3) of subsection (d).
 
 #### (4) Special rule for 1993 plan
 
@@ -98,7 +98,7 @@
 
 #### (1) In general
 
-&emsp;All 1988 last signatory operators shall be responsible for financing the benefits describedin subsection (c) by meeting the following requirements in accordance with the contribution requirements established in the 1992 UMWA Benefit Plan:
+&emsp;All 1988 last signatory operators shall be responsible for financing the benefits described in subsection (c) by meeting the following requirements in accordance with the contribution requirements established in the 1992 UMWA Benefit Plan:
 
 &emsp;&emsp;(A) The payment of a monthly per beneficiary premium by each 1988 last signatory operator for each eligible beneficiary of such operator who is described in subsection (b)(2) and who is receiving benefits under the 1992 UMWA Benefit Plan.
 
@@ -146,7 +146,7 @@ Subsec. (d)(2)(B). Pub. L. 109–432, §212(b)(2)(B)(i), substituted “backstop
 
 Subsec. (d)(3). Pub. L. 109–432, §212(b)(2)(B)(ii), substituted “paragraph (1)(A)” for “paragraph (1)(B)”.
 
-Subsec. (d)(4). Pub. L. 109–432, §211(c), inserted at end “The provisions of section 9711(c)(2) shall apply to any last signatory operator described in such section (without regard to whether security is provided under such section, a payment is made under section 9704(j), or both) and if security meeting the requirements of section 9711(c)(3) is provided, the common parent described in section 9711(c)(2)(B) shall be exclusively responsible for any liability for premiums under this section which, but for this sentence, would be required to be paid by the last signatory operator or any related person.”
+Subsec. (d)(4). Pub. L. 109–432, §211(c), inserted at end “The provisions of section 9711(c)(2) shall apply to any last signatory operator described in such section (without regard to whether security is provided under such section, a payment is made under section 9704(j), or both) and if security meeting the requirements of section 9711(c)(3) is provided, the common parent described in section 9711(c)(2)(B) shall be exclusively responsiblefor any liability for premiums under this section which, but for this sentence, would be required to be paid by the last signatory operator or any related person.”
 
 #### Effective Date of 2006 Amendment
 

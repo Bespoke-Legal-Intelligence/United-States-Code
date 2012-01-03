@@ -2,15 +2,17 @@
 
 (a) Subject to the availability of appropriations, the Secretary shall operate a program under this section to expand and improve the provision of benefits and services by the Department to homeless veterans.
 
-(b) The program shall include the establishment of sites under the jurisdiction of the Secretary to be centers for the provision of comprehensive services to homeless veterans. The services to be provided at each site shall include acomprehensive and coordinated array of those specialized services which may be provided under existing law. The Secretary shall carry out the program under this section in sites in at least each of the 20 largest metropolitan statistical areas.
+(b) The program shall include the establishment of sites under the jurisdiction of the Secretary to be centers for the provision of comprehensive services to homeless veterans. The services to be provided at each site shall include a comprehensive and coordinated array of those specialized services which may be provided under existing law. The Secretary shall carry out the program under this section in sites in at least each of the 20 largest metropolitan statistical areas.
 
 (c) The program shall include the services of such employees of the Veterans Benefits Administration as the Secretary determines appropriate at sites under the jurisdiction of the Secretary at which services are provided to homeless veterans.
 
-(d) The program under this section shall terminate on December 31, 2011.
+(d) The program under this section shall terminate on December 31, 2012.
 
-(Added Pub. L. 105–114, title II, §202(a), Nov. 21, 1997, 111 Stat. 2286, §1773; renumbered §2033 and amended Pub. L. 107–95, §§5(b)(1), (f), 8(b), Dec. 21, 2001, 115 Stat. 918, 919; Pub. L. 109–444, §2(d), Dec. 21, 2006, 120 Stat. 3304; Pub. L. 109–461, title VII, §704(b), title X, §1006(b), Dec. 22, 2006, 120 Stat. 3440, 3468.)
+(Added Pub. L. 105–114, title II, §202(a), Nov. 21, 1997, 111 Stat. 2286, §1773; renumbered §2033 and amended Pub. L. 107–95, §§5(b)(1), (f), 8(b), Dec. 21, 2001, 115 Stat. 918, 919; Pub. L. 109–444, §2(d), Dec. 21, 2006, 120 Stat. 3304; Pub. L. 109–461, title VII, §704(b), title X, §1006(b), Dec. 22, 2006, 120 Stat. 3440, 3468; Pub. L. 112–37, §10(d), Oct. 5, 2011, 125 Stat. 397.)
 
 #### Amendments
+
+<b>2011</b>—Subsec. (d). Pub. L. 112–37 substituted “December 31, 2012” for “December 31, 2011”.
 
 <b>2006</b>—Subsec. (d). Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
 

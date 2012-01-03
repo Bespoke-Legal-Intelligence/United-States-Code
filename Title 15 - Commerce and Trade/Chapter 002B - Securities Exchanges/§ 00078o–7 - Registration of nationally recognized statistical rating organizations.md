@@ -130,7 +130,7 @@
 
 #### (2) Limitation
 
-&emsp;The rules and regulations that the Commission may prescribe pursuant to this chapter, as they apply to nationally recognized statistical rating organizations, shall be narrowly tailored to meet the requirements of this chapter applicable to nationally recognized statistical rating organizations. Notwithstanding any other provision of this section, or any other provision of law, neither the Commission nor any State (or political subdivision thereof) may regulate the substance of credit ratings or the procedures and methodologies by which any nationally recognized statistical rating organization determines credit ratings. Nothing in this paragraph may be construed to afford a defense against any action or proceeding brought by the Commission to enforce the antifraud provisions of the securities laws.
+&emsp;The rules and regulations that the Commission may prescribe pursuant to this chapter, as they apply to nationally recognized statistical rating organizations, shall be narrowly tailored to meet the requirements of this chapter applicable to nationally recognized statistical rating organizations. Notwithstanding any other provision of this section,or any other provision of law, neither the Commission nor any State (or political subdivision thereof) may regulate the substance of credit ratings or the procedures and methodologies by which any nationally recognized statistical rating organization determines credit ratings. Nothing in this paragraph may be construed to afford a defense against any action or proceeding brought by the Commission to enforce the antifraud provisions of the securities laws.
 
 #### (3) Internal controls over processes for determining credit ratings
 
@@ -162,7 +162,7 @@
 
 &emsp;&emsp;&emsp;(ii) a substantially equivalent crime by a foreign court of competent jurisdiction;
 
-&emsp;&emsp;(C) is subject to any order of the Commission barring or suspending the right of theperson to be associated with a nationally recognized statistical rating organization;
+&emsp;&emsp;(C) is subject to any order of the Commission barring or suspending the right of the person to be associated with a nationally recognized statistical rating organization;
 
 &emsp;&emsp;(D) fails to file the certifications required under subsection (b)(2);
 
@@ -228,7 +228,7 @@
 
 &emsp;The Commission shall issue final rules in accordance with subsection (n) to prohibit, or require the management and disclosure of, any conflicts of interest relating to the issuance of credit ratings by a nationally recognized statistical rating organization, including, without limitation, conflicts of interest relating to—
 
-&emsp;&emsp;(A) the manner in which a nationally recognized statistical rating organization iscompensated by the obligor, or any affiliate of the obligor, for issuing credit ratings or providing related services;
+&emsp;&emsp;(A) the manner in which a nationally recognized statistical rating organization is compensated by the obligor, or any affiliate of the obligor, for issuing credit ratings or providing related services;
 
 &emsp;&emsp;(B) the provision of consulting, advisory, or other services by a nationally recognized statistical rating organization, or any person associated with such nationally recognized statistical rating organization, to the obligor, or any affiliate of the obligor;
 
@@ -300,7 +300,7 @@
 
 #### (1) Prohibited acts and practices
 
-&emsp;The Commission shall issue final rules in accordance with subsection (n) to prohibit any act or practice relating to the issuance ofcredit ratings by a nationally recognized statistical rating organization that the Commission determines to be unfair, coercive, or abusive, including any act or practice relating to—
+&emsp;The Commission shall issue final rules in accordance with subsection (n) to prohibit any act or practice relating to the issuance of credit ratings by a nationally recognized statistical rating organization that the Commission determines to be unfair, coercive, or abusive, including any act or practice relating to—
 
 &emsp;&emsp;(A) conditioning or threatening to condition the issuance of a credit rating on the purchase by the obligor or an affiliate thereof of other services or products, including pre-credit rating assessment products, of the nationally recognized statistical rating organization or any person associated with such nationally recognized statistical rating organization;
 
@@ -392,7 +392,7 @@ Each nationally recognized statistical rating organization shall, on a confident
 
 #### (1) In general
 
-&emsp;The enforcement and penalty provisions of this chapter shall apply to statements made by a credit rating agency in the same manner and to the same extent as such provisions apply to statements made by a registered public accounting firm or a securities analyst under the securities laws, and such statements shall not be deemed forward-looking statements for the purposes of section 78u–5 of this title.
+&emsp;The enforcement and penalty provisions of this chapter shall apply to statements made by a credit rating agency in the same manner and to the same extent as such provisions apply to statements made by a registered public accounting firm or a securities analyst under the securities laws, and such statementsshall not be deemed forward-looking statements for the purposes of section 78u–5 of this title.
 
 #### (2) Rulemaking
 
@@ -640,7 +640,7 @@ The Commission shall prescribe rules, for the protection of investors and in the
 
 #### (D) Disclosure of certification
 
-&emsp;&emsp;The Commission shall adopt rules requiring a nationally recognized statistical rating organization, at the time at which the nationally recognized statistical rating organization produces a rating, to disclose the certification described in subparagraph (B) to the public in a manner that allows the public to determine the adequacy and level of due diligence services provided by a third party.
+&emsp;&emsp;The Commission shall adopt rules requiring a nationally recognized statistical ratingorganization, at the time at which the nationally recognized statistical rating organization produces a rating, to disclose the certification described in subparagraph (B) to the public in a manner that allows the public to determine the adequacy and level of due diligence services provided by a third party.
 
 #### (t) Corporate governance, organization, and management of conflicts of interest
 
@@ -692,7 +692,7 @@ The Commission shall prescribe rules, for the protection of investors and in the
 
 #### (5) Exception authority
 
-&emsp;If the Commission finds that compliance with the provisions of this subsection present an unreasonable burden on a small nationally recognized statistical rating organization, the Commission may permit the nationally recognized statistical rating organization to delegate such responsibilities to a committee thatincludes at least one individual who is a user of ratings of a nationally recognized statistical rating organization.
+&emsp;If the Commission finds that compliance with the provisions of this subsection present an unreasonable burden on a small nationally recognized statistical rating organization, the Commission may permit the nationally recognized statistical rating organization to delegate such responsibilities to a committee that includes at least one individual who is a user of ratings of a nationally recognized statistical rating organization.
 
 #### (u) Duty to report tips alleging material violations of law
 
@@ -712,7 +712,7 @@ In producing a credit rating, a nationally recognized statistical rating organiz
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(1)(A), (B)(iii), (c), (e)(2), (f)(2), (3), (g), and (m)(1), was in the original “this title”. See References in Text note set out under section 78a of this title.
+This chapter, referred to in subsecs. (a)(1)(A), (B)(iii), (c), (e)(2), (f)(2), (3), (g), and (m)(1), was in the original“this title”. See References in Text note set out under section 78a of this title.
 
 The Securities Exchange Act of 1934, referred to in subsec. (f)(3), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to this chapter (§78a et seq.). For complete classification of this Act to the Code, see section 78a of this title and Tables.
 

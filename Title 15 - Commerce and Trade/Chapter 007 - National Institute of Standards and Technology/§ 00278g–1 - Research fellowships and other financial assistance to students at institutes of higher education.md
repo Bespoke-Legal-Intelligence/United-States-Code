@@ -46,5 +46,5 @@ Subsec. (c). Pub. L. 111–358, §406(a), added subsec. (c).
 
 #### Effective Date
 
-Section 6(b) of Pub. L. 99–574 provided that: “The amendments made by subsection (a) \[enacting this section\] shall be effective October 1, 1986.”
+Pub. L. 99–574, §6(b), Oct. 28, 1986, 100 Stat. 3237, provided that: “The amendments made by subsection (a) \[enacting this section\] shall be effective October 1, 1986.”
 

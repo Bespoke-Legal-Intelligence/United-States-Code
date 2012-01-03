@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(A) A demonstration (including air quality modeling)—
 
-&emsp;&emsp;&emsp;(i) that the plan provides for attainment of the PM–10 national ambient air quality standard by the applicable attainment date, or
+&emsp;&emsp;&emsp;(i) that the plan provides for attainment of the PM–10 national ambient air qualitystandard by the applicable attainment date, or
 
 &emsp;&emsp;&emsp;(ii) for any area for which the State is seeking, pursuant to section 7513(e) of this title, an extension of the attainment date beyond the date set forth in section 7513(c) of this title, that attainment by that date would be impracticable, and that the plan provides for attainment by the most expeditious alternative date practicable.
 
@@ -48,7 +48,7 @@
 
 (2) Not later than 90 days after the date on which a milestone applicable to the area occurs, each State in which all or part of such area is located shall submit to the Administrator a demonstration that all measures in the plan approved under this section have been implemented and that the milestone has been met. A demonstration under this subsection shall be submitted in such form and manner, and shall contain such information and analysis, as the Administrator shall require. The Administrator shall determine whether or not a State's demonstration under this subsection is adequate within 90 days after the Administrator's receipt of a demonstration which contains the information and analysis required by the Administrator.
 
-(3) If a State fails to submit a demonstration under paragraph (2) with respect to a milestone within the required period or if the Administrator determines that the area has not met any applicable milestone, the Administrator shall require the State, within 9 months after such failure or determination to submit a plan revision that assures that the State will achieve the next milestone (or attain the national ambientair quality standard for PM–10, if there is no next milestone) by the applicable date.
+(3) If a State fails to submit a demonstration under paragraph (2) with respect to a milestone within the required period or if the Administrator determines that the area has not met any applicable milestone, the Administrator shall require the State, within 9 months after such failure or determination to submit a plan revision that assures that the State will achieve the next milestone (or attain the national ambient air quality standard for PM–10, if there is no next milestone) by the applicable date.
 
 #### (d) Failure to attain
 

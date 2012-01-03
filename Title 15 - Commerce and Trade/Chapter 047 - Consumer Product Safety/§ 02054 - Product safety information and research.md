@@ -122,7 +122,7 @@ In General.—Any information provided to the National Institute for Standards a
 
 “(b)
 
-Construction.—Subsection (a) does not authorize the withholding of any information from any duly authorized subcommittee or committee of the Congress, except that if a subcommittee or committee of the Congress requests the Consumer Product SafetyCommission, the National Institute for Standards and Technology's Center for Fire Research, or the Technical Advisory Group to provide such information, the Commission, the Center for Fire Research, or Technical Advisory Group shall notify the person who provided the information of such a request in writing.”
+Construction.—Subsection (a) does not authorize the withholding of any information from any duly authorized subcommittee or committee of the Congress, except that if a subcommittee or committee of the Congress requests the Consumer Product Safety Commission, the National Institute for Standards and Technology's Center for Fire Research, or the Technical Advisory Group to provide such information, the Commission, the Center for Fire Research, or Technical Advisory Group shall notify the person who provided the information of such a request in writing.”
 
 #### Additional Reporting Time
 

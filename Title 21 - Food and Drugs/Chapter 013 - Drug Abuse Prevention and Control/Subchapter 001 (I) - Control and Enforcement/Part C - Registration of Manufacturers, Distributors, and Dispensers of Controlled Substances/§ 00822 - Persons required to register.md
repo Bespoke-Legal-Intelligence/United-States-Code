@@ -2,7 +2,7 @@
 
 #### (a) Period of registration
 
-(1) Every person who manufactures or distributes any controlled substance or list I chemical, or who proposes to engage in the manufacture or distribution of any controlled substance or list I chemical, shall obtain annually a registration issued by the Attorney General in accordancewith the rules and regulations promulgated by him.
+(1) Every person who manufactures or distributes any controlled substance or list I chemical, or who proposes to engage in the manufacture or distribution of any controlled substance or list I chemical, shall obtain annually a registration issued by the Attorney General in accordance with the rules and regulations promulgated by him.
 
 (2) Every person who dispenses, or who proposes to dispense, any controlled substance, shall obtain from the Attorney General a registration issued in accordance with the rules and regulations promulgated by him. The Attorney General shall, by regulation, determine the period of such registrations. In no event, however, shall such registrations be issued for less than one year nor for more than three years.
 
@@ -102,7 +102,7 @@ Pub. L. 111–273, §2, Oct. 12, 2010, 124 Stat. 2858, provided that: “Congres
 
 &emsp;“(D) Long-term care facilities face a distinct set of obstacles to the safe disposal of controlled substances due to the increased volume of controlled substances they handle.
 
-&emsp;“(5) This Act \[see Short Title of 2010 Amendment note set out under section 801 of this title\] gives the Attorney General authority to promulgate new regulations, within the framework of the Controlled Substances Act \[21 U.S.C. 801 et seq.\], that will allow patients to deliver unused pharmaceutical controlled substances to appropriate entities for disposal in a safe and effective manner consistent with effective controls against diversion.
+&emsp;“(5) This Act \[see Short Title of 2010 Amendment note set out under section 801 of this title\] gives the Attorney General authority to promulgate new regulations, within the framework of the Controlled Substances Act \[21 U.S.C. 801 et seq.\], that will allow patients to deliver unused pharmaceutical controlledsubstances to appropriate entities for disposal in a safe and effective manner consistent with effective controls against diversion.
 
 &emsp;“(6) The goal of this Act is to encourage the Attorney General to set controlled substance diversion prevention parameters that will allow public and private entities to develop a variety of methods of collection and disposal of controlled substances, including some pharmaceuticals, in a secure, convenient, and responsible manner. This will also serve to reduce instances of diversion and introduction of some potentially harmful substances into the environment.”
 

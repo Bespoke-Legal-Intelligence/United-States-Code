@@ -42,7 +42,7 @@ Each appropriate Federal banking agency shall prescribe by regulation a definiti
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–208, §2209(1)(A), (B), in introductory provisions, inserted “(or such other period, as determined by the appropriate Federal banking agency)” after “30 days” and substituted “if” for “if the insured depository institution or depository institution holding company”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–208, §2209(1)(A), (B), in introductory provisions, inserted “(or such other period, as determined by the appropriate Federal banking agency)” after “30 days” and substituted “if” for “if the insured depository institution or depository institution holding company”.
 
 Subsec. (a)(1). Pub. L. 104–208, §2209(1)(E), inserted “the insured depository institution or depository institution holding company” before “is not in compliance” and substituted “; or” for period at end.
 

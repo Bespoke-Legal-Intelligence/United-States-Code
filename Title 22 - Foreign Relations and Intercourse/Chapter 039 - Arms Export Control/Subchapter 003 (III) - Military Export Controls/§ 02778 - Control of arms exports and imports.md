@@ -2,7 +2,7 @@
 
 #### (a) Presidential control of exports and imports of defense articles and services, guidance of policy, etc.; designation of United States Munitions List; issuance of export licenses; negotiations information
 
-(1) In furtherance of world peace and the security and foreign policy of the United States, the President is authorized to control the import and the export of defense articles and defense services and to provide foreign policy guidance to persons of the United States involved in the export and import of such articles and services. The President is authorized to designate those items which shall be considered as defense articles and defense services for the purposes of this section and to promulgate regulations for the import and export of such articles and services. The items so designated shall constitute the United States Munitions List.
+(1) In furtherance of world peace and the security and foreign policy of the United States, the President is authorized to control the import and the export of defense articles and defense services and to provide foreign policy guidance to persons of the United States involved in theexport and import of such articles and services. The President is authorized to designate those items which shall be considered as defense articles and defense services for the purposes of this section and to promulgate regulations for the import and export of such articles and services. The items so designated shall constitute the United States Munitions List.
 
 (2) Decisions on issuing export licenses under this section shall take into account whether the export of an article would contribute to an arms race, aid in the development of weapons of mass destruction, support international terrorism, increase the possibility of outbreak or escalation of conflict, or prejudice the development of bilateral or multilateral arms control or nonproliferation agreements or other arrangements.
 
@@ -142,7 +142,7 @@ In carrying out functions under this section with respect to the export of defen
 
 &emsp;(B) the term “foreign government” includes any agency or subdivision of a foreign government, including an official mission of a foreign government;
 
-&emsp;(C) the term “foreign person” means any person who is not a citizen or national of theUnited States or lawfully admitted to the United States for permanent residence under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\], and includes foreign corporations, international organizations, and foreign governments;
+&emsp;(C) the term “foreign person” means any person who is not a citizen or national of the United States or lawfully admitted to the United States for permanent residence under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\], and includes foreign corporations, international organizations, and foreign governments;
 
 &emsp;(D) the term “party to the export” means—
 
@@ -198,9 +198,9 @@ As prescribed in regulations issued under this section, a United States person t
 
 &emsp;&emsp;&emsp;&emsp;(III) defense articles and defense services listed in the Missile Technology Control Regime Annex Category II that are for use in rocket systems, as that term is used in such Annex, including associated production facilities, software, or technology;
 
-&emsp;&emsp;&emsp;&emsp;(IV) toxicological agents, biological agents, and associated equipment, as listed in the United States Munitions List (part 121.1 of chapter I of title 22, Code of Federal Regulations), Category XIV, subcategories (a), (b), (f)(1), (i), (j) as it pertains to (f)(1), (<i>l</i>) as it pertains to (f)(1), and (m) as it pertains to all of the subcategories cited in this paragraph;
+&emsp;&emsp;&emsp;&emsp;(IV) toxicological agents, biological agents, and associated equipment, as listed in the United States Munitions List (part 121.1 of chapter I of title 22, Code of Federal Regulations), Category XIV, subcategories (a), (b), (f)(1), (i), (j) as it pertains to (f)(1), (<i>l</i>) as it pertains to\(f)(1), and (m) as it pertains to all of the subcategories cited in this paragraph;
 
-&emsp;&emsp;&emsp;&emsp;(V) defense articles and defense services specific to the design and testing of nuclear weapons which are controlledunder United States Munitions List Category XVI(a) and (b), along with associated defense articles in Category XVI(d) and technology in Category XVI(e);
+&emsp;&emsp;&emsp;&emsp;(V) defense articles and defense services specific to the design and testing of nuclear weapons which are controlled under United States Munitions List Category XVI(a) and (b), along with associated defense articles in Category XVI(d) and technology in Category XVI(e);
 
 &emsp;&emsp;&emsp;&emsp;(VI) with regard to the treaty cited in clause (i)(I), defense articles and defense services that the United States controls under the United States Munitions List that are not controlled by the United Kingdom, as defined in the United Kingdom Military List or Annex 4 to the United Kingdom Dual Use List, or any successor lists thereto; and
 
@@ -258,7 +258,7 @@ As prescribed in regulations issued under this section, a United States person t
 
 &emsp;&emsp;&emsp;(ii) the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
 
-(Pub. L. 90–629, ch. 3, §38, as added Pub. L. 94–329, title II, §212(a)(1), June 30, 1976, 90 Stat. 744; amended Pub. L. 95–92, §20, Aug. 4, 1977, 91 Stat. 623; Pub. L. 96–70, title III, §3303(a)(4), Sept. 27, 1979, 93 Stat. 499; Pub. L. 96–72, §22(a), Sept. 29, 1979, 93 Stat. 535; Pub. L. 96–92, §21, Oct. 29, 1979, 93 Stat. 710; Pub. L. 96–533, title I, §107(a), (c), Dec. 16, 1980, 94 Stat. 3136; Pub. L. 97–113, title I, §§106, 107, Dec. 29, 1981, 95 Stat. 1522; Pub. L. 99–64, title I, §123(a), July 12, 1985, 99 Stat. 156; Pub. L. 99–83, title I, §119(a), (b), Aug. 8, 1985, 99Stat. 203, 204; Pub. L. 100–202, §101(b) \[title VIII, §8142(a)\], Dec. 22, 1987, 101 Stat. 1329–43, 1329–88; Pub. L. 100–204, title XII, §1255, Dec. 22, 1987, 101 Stat. 1429; Pub. L. 101–222, §§3(a), 6, Dec. 12, 1989, 103 Stat. 1896, 1899; Pub. L. 103–236, title VII, §714(a)(1), Apr. 30, 1994, 108 Stat. 497; Pub. L. 104–164, title I, §§151(a), 156, July 21, 1996, 110 Stat. 1437, 1440; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(a)(2), Oct. 21, 1998, 112 Stat. 2681–773; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XIII, §§1302(a), 1303, 1304\], Nov. 29, 1999, 113 Stat. 1536, 1501A–510, 1501A–511; Pub. L. 106–280, title I, §102(a), (b), Oct. 6, 2000, 114 Stat. 846, 848; Pub. L. 107–228, div. B, title XIV, §1406, Sept. 30, 2002, 116 Stat. 1458; Pub. L. 108–458, title VI, §6910, Dec. 17, 2004, 118 Stat. 3774; Pub. L. 111–195, title I, §107(a)(2), July 1, 2010, 124 Stat. 1337; Pub. L. 111–266, title I, §§102(b)–103(c), Oct. 8, 2010, 124 Stat. 2797, 2799.)
+(Pub. L. 90–629, ch. 3, §38, as added Pub. L. 94–329, title II, §212(a)(1), June 30, 1976, 90 Stat. 744; amended Pub. L. 95–92, §20, Aug. 4, 1977, 91 Stat. 623; Pub. L. 96–70, title III, §3303(a)(4), Sept. 27, 1979, 93 Stat. 499; Pub. L. 96–72, §22(a), Sept. 29,1979, 93 Stat. 535; Pub. L. 96–92, §21, Oct. 29, 1979, 93 Stat. 710; Pub. L. 96–533, title I, §107(a), (c), Dec. 16, 1980, 94 Stat. 3136; Pub. L. 97–113, title I, §§106, 107, Dec. 29, 1981, 95 Stat. 1522; Pub. L. 99–64, title I, §123(a), July 12, 1985, 99 Stat. 156; Pub. L. 99–83, title I, §119(a), (b), Aug. 8, 1985, 99 Stat. 203, 204; Pub. L. 100–202, §101(b) \[title VIII, §8142(a)\], Dec. 22, 1987, 101 Stat. 1329–43, 1329–88; Pub. L. 100–204, title XII, §1255, Dec. 22, 1987, 101 Stat. 1429; Pub. L. 101–222, §§3(a), 6, Dec. 12, 1989, 103 Stat. 1896, 1899; Pub. L. 103–236, title VII, §714(a)(1), Apr. 30, 1994, 108 Stat. 497; Pub. L. 104–164, title I, §§151(a), 156, July 21, 1996, 110 Stat. 1437, 1440; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(a)(2), Oct. 21, 1998, 112 Stat. 2681–773; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XIII, §§1302(a), 1303, 1304\], Nov. 29, 1999, 113 Stat. 1536, 1501A–510, 1501A–511; Pub. L. 106–280, title I, §102(a), (b), Oct. 6, 2000, 114 Stat. 846, 848; Pub. L. 107–228, div. B, title XIV, §1406, Sept. 30, 2002, 116 Stat. 1458; Pub. L. 108–458, title VI, §6910, Dec. 17, 2004, 118 Stat. 3774; Pub. L. 111–195, title I, §107(a)(2), July 1, 2010, 124 Stat. 1337; Pub. L. 111–266, title I, §§102(b)–103(c), Oct. 8, 2010, 124 Stat. 2797, 2799.)
 
 #### References in Text
 
@@ -310,7 +310,7 @@ Subsec. (i). Pub. L. 106–113, §1000(a)(7) \[title XIII, §1302(a)\], added su
 
 Subsec. (e). Pub. L. 104–164, §156, inserted before period at end of first sentence “, except that the names of the countries and the types and quantities of defense articles for which licenses are issued under this section shall not be withheld from public disclosure unless the President determines that the release of such information would be contrary to the national interest”.
 
-<b>1994</b>—Subsec. (a)(2). Pub. L. 103–236 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Decisions on issuing export licenses under this section shall be made in coordination with the Director of the United States Arms Control and Disarmament Agency and shall take into account the Director's opinion as to whether the export of an article will contribute to an arms race, support international terrorism, increase the possibility of outbreak or escalation of conflict, or prejudice the development of bilateral or multilateral arms control arrangements.”
+<b>1994</b>—Subsec. (a)(2). Pub. L. 103–236 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Decisions on issuing export licenses under this section shall be made in coordination with the Director of the United States Arms Control and Disarmament Agencyand shall take into account the Director's opinion as to whether the export of an article will contribute to an arms race, support international terrorism, increase the possibility of outbreak or escalation of conflict, or prejudice the development of bilateral or multilateral arms control arrangements.”
 
 <b>1989</b>—Subsec. (a)(2). Pub. L. 101–222, §3(a), inserted “support international terrorism,” after “arms race,”.
 
@@ -382,7 +382,7 @@ Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L.
 
 #### Regulations
 
-Pub. L. 111–266, title I, §106, Oct. 8, 2010, 124 Stat. 2802, provided that: “The President is authorized to issue regulations pursuant to the Arms Export Control Act (22 U.S.C. 2751 et seq.) to implement and enforce the Treaty Between the Government of the United States of America and the Government of the United Kingdom of Great Britain and Northern Ireland Concerning Defense Trade Cooperation, done at Washington and London on June 21 and 26, 2007 (and any implementing arrangement thereto) and the Treaty Between the Government of the United States of America and the Government of Australia Concerning Defense Trade Cooperation, done at Sydney, September 5, 2007 (and any implementing arrangement thereto), consistent with other applicable provisions of the Arms Export Control Act, as amended by this Act \[see Short Title of 2010 Amendment notes set out under section 2751 of thistitle\], and with the terms of any resolution of advice and consent adopted by the Senate with respect to either treaty.”
+Pub. L. 111–266, title I, §106, Oct. 8, 2010, 124 Stat. 2802, provided that: “The President is authorized to issue regulations pursuant to the Arms Export Control Act (22 U.S.C. 2751 et seq.) to implement and enforce the Treaty Between the Government of the United States of America and the Government of the United Kingdom of Great Britain and Northern Ireland Concerning Defense Trade Cooperation, done at Washington and London on June 21 and 26, 2007 (and any implementing arrangement thereto) and the Treaty Between the Government of the United States of America and the Government of Australia Concerning Defense Trade Cooperation, done at Sydney, September 5, 2007 (and any implementing arrangement thereto), consistent with other applicable provisions of the Arms Export Control Act, as amended by this Act \[see Short Title of 2010 Amendment notes set out under section 2751 of this title\], and with the terms of any resolution of advice and consent adopted by the Senate with respect to either treaty.”
 
 #### Rule of Construction
 
@@ -564,7 +564,7 @@ Contents of Report.—The report required by subsection (a) shall include, at a 
 
 &emsp;“(3) An audit by the Inspectors General of the Departments of Defense, State, Commerce, and Energy, in consultation with the Director of Central Intelligence and the Director of the Federal Bureau of Investigation, of the policies and procedures of the United States Government with respect to the export of technologies and technical information referred to in subsection (a) to countries and entities of concern.
 
-&emsp;“(4) The status of the implementation or other disposition of recommendations included in reports ofaudits by Inspectors General that have been set forth in a previous annual report under this section pursuant to paragraph (3).
+&emsp;“(4) The status of the implementation or other disposition of recommendations included in reports of audits by Inspectors General that have been set forth in a previous annual report under this section pursuant to paragraph (3).
 
 “(c)
 
@@ -742,7 +742,7 @@ Advisory Group.—(1) The Director of Central Intelligence shall establish withi
 
 “(3) In addition to the duties under paragraph (1), the advisory group shall—
 
-&emsp;“(A) review, on a continuing basis, information relating to transfers of satellite, launch vehicle, or other technology or knowledge with respect to thecourse of the overseas launch of commercial satellites of United States origin; and
+&emsp;“(A) review, on a continuing basis, information relating to transfers of satellite, launch vehicle, or other technology or knowledge with respect to the course of the overseas launch of commercial satellites of United States origin; and
 
 &emsp;“(B) analyze the potential impact of such transfers on the space and military systems, programs, or activities of foreign countries.
 
@@ -820,7 +820,7 @@ Pub. L. 105–261, div. A, title XV, subtitle B, Oct. 17, 1998, 112 Stat. 2173, 
 
 &emsp;“(5) due to the military sensitivity of the technologies involved, it is in the national security interests of the United States that United States satellites and related items be subject to the same export controls that apply under United States law and practices to munitions;
 
-&emsp;“(6) the United States should not issue any blanket waiver of the suspensions contained in section 902 of the Foreign Relations Authorization Act, Fiscal Years 1990 and 1991 (Public Law 101–246) \[22 U.S.C. 2151 note\], regarding the export of satellites of UnitedStates origin intended for launch from a launch vehicle owned by the People's Republic of China;
+&emsp;“(6) the United States should not issue any blanket waiver of the suspensions contained in section 902 of the Foreign Relations Authorization Act, Fiscal Years 1990 and 1991 (Public Law 101–246) \[22 U.S.C. 2151 note\], regarding the export of satellites of United States origin intended for launch from a launch vehicle owned by the People's Republic of China;
 
 &emsp;“(7) the United States should pursue policies that protect and enhance the United States space launch industry; and
 
@@ -914,7 +914,7 @@ Mandatory notification and certification.—All technology transfer control plan
 
 &emsp;“(5)
 
-Mandatory intelligence community review.—The Secretary of Commerce and the Secretary of State shall provide to the Secretary of Defense and the Director of Central Intelligence copies of all export license applications and technical assistance agreements submitted for approval in connectionwith launches in foreign countries of satellites to verify the legitimacy of the stated end-user or end-users.
+Mandatory intelligence community review.—The Secretary of Commerce and the Secretary ofState shall provide to the Secretary of Defense and the Director of Central Intelligence copies of all export license applications and technical assistance agreements submitted for approval in connection with launches in foreign countries of satellites to verify the legitimacy of the stated end-user or end-users.
 
 &emsp;“(6)
 
@@ -994,7 +994,7 @@ Militarily Sensitive Characteristics Defined.—In this section, the term ‘mil
 
 #### Delegation of Certifications Under Section 1512 of Public Law 105–261
 
-Determination of the President of the United States, No. 2009–31, Sept. 29, 2009, 74 F.R. 50913, provided:
+Determination of President of the United States, No. 2009–31, Sept. 29, 2009, 74 F.R. 50913, provided:
 
 Memorandum for the Secretary of Commerce
 
@@ -1070,9 +1070,9 @@ Pub. L. 102–138, title IV, Oct. 28, 1991, 105 Stat. 718, provided that:
 
 &emsp;“(3) the continued proliferation of weapons and related equipment and services contribute further to a regional arms race in the Middle East and Persian Gulf region that is politically, economically, and militarily destabilizing;
 
-&emsp;“(4) the continued proliferation of unconventional weapons, including nuclear, biological, and chemical weapons, as well as delivery systems associated with those weapons, poses an urgent threat to security and stability in the Middle East and Persian Gulf region;
+&emsp;“(4) the continued proliferation of unconventional weapons, including nuclear, biological, and chemicalweapons, as well as delivery systems associated with those weapons, poses an urgent threat to security and stability in the Middle East and Persian Gulf region;
 
-&emsp;“(5) the continued proliferation of ballistic missile technologies and ballistic missile systems that arecapable of delivering conventional, nuclear, biological, or chemical warheads undermines security and stability in the Middle East and Persian Gulf region;
+&emsp;“(5) the continued proliferation of ballistic missile technologies and ballistic missile systems that are capable of delivering conventional, nuclear, biological, or chemical warheads undermines security and stability in the Middle East and Persian Gulf region;
 
 &emsp;“(6) future security and stability in the Middle East and Persian Gulf region would be enhanced by establishing a stable military balance among regional powers by restraining and reducing both conventional and unconventional weapons;
 
@@ -1160,7 +1160,7 @@ Promotion of regional arms control agreements.—In order to achieve the purpose
 
 &emsp;&emsp;“(A) the maintenance of the military balance within the region, while eliminating nuclear, biological, and chemical weapons and associated delivery systems, and ballistic missiles;
 
-&emsp;&emsp;“(B) the implementation of confidence-building and security-building measures, including advancenotification of certain ground and aerial military exercises in the Middle East and the Persian Gulf; and
+&emsp;&emsp;“(B) the implementation of confidence-building and security-building measures, including advance notification of certain ground and aerial military exercises in the Middle East and the Persian Gulf; and
 
 &emsp;&emsp;“(C) other useful arms control measures.
 

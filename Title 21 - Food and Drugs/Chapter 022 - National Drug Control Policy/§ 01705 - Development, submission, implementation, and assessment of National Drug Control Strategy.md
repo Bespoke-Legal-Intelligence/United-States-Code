@@ -128,7 +128,7 @@ The President may submit to Congress a revised National Drug Control Strategy th
 
 Not later than February 1 of each year, the Director shall submit to Congress as part of the National Drug Control Strategy, a description of a national drug control performance measurement system, that—
 
-&emsp;(1) develops 2-year and 5-year performance measures and targets for each National DrugControl Strategy goal and objective established for reducing drug use, availability, and the consequences of drug use;
+&emsp;(1) develops 2-year and 5-year performance measures and targets for each National Drug Control Strategy goal and objective established for reducing drug use, availability, and the consequences of drug use;
 
 &emsp;(2) describes the sources of information and data that will be used for each performance measure incorporated into the performance measurement system;
 
@@ -216,7 +216,7 @@ Definitions.—In this section, the terms ‘appropriate congressional committee
 
 “(b)
 
-Strategy.—Not later than 180 days after the date of enactment of this section \[Jan. 4, 2011\], and every 2 years thereafter, the Director, in consultationwith the head of each relevant National Drug Control Program agency and relevant officials of States, local governments, tribal governments, and the governments of other countries, shall develop a Northern Border Counternarcotics Strategy and submit the strategy to—
+Strategy.—Not later than 180 days after the date of enactment of this section \[Jan. 4, 2011\], and every 2 years thereafter, the Director, in consultation with the head of each relevant National Drug Control Program agency and relevant officials of States, local governments, tribal governments, and the governments of other countries, shall develop a Northern Border Counternarcotics Strategy and submit the strategy to—
 
 &emsp;“(1) the appropriate congressional committees (including the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives);
 

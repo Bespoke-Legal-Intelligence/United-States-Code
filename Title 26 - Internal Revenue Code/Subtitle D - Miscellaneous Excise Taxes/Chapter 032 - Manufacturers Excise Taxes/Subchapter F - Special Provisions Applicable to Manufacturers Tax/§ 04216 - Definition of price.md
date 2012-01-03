@@ -2,7 +2,7 @@
 
 #### (a) Containers, packing and transportation charges.
 
-In determining, for the purposes of this chapter, the price for which an article is sold, there shall be included any charge for coverings and containers of whatever nature, and any charge incident to placing the article in condition packed ready for shipment, but there shall be excluded the amount of tax imposed by this chapter, whether or not stated as a separate charge. A transportation, delivery, insurance, installation, or other charge (not required by the foregoing sentence to be included) shall be excluded from the price only if the amount thereof is established to the satisfaction of the Secretary in accordance with the regulations.
+In determining, for the purposes of this chapter, the price for which an article is sold, there shall be included any charge for coverings and containers of whatever nature, and any charge incident to placing the article in conditionpacked ready for shipment, but there shall be excluded the amount of tax imposed by this chapter, whether or not stated as a separate charge. A transportation, delivery, insurance, installation, or other charge (not required by the foregoing sentence to be included) shall be excluded from the price only if the amount thereof is established to the satisfaction of the Secretary in accordance with the regulations.
 
 #### (b) Constructive sale price
 
@@ -66,7 +66,7 @@ In the case of—
 
 &emsp;(1) a lease (other than a lease to which section 4217(b) applies),
 
-&emsp;(2) a contract for the sale of an article wherein it is provided that the price shall be paid by installments and title to the article sold does not pass until a future date notwithstanding partial payment by installments,
+&emsp;(2) a contract for the sale of an article wherein it is provided that the price shall bepaid by installments and title to the article sold does not pass until a future date notwithstanding partial payment by installments,
 
 &emsp;(3) a conditional sale, or
 
@@ -126,7 +126,7 @@ If installment accounts, with respect to payments on which tax is being computed
 
 #### Amendments
 
-<b>1984</b>—Subsec. (b)(1). Pub. L. 98–369, §735(c)(6)(A), in provisions following subpar. (C) struck out “(other than an article the sale of which is taxable under section 4061(a))” in second sentence, before “the computation under the preceding sentence”, and struck out provision that in the case of an article the sale of which is taxable under section 4061(a) and which is sold at retail, the computation under the first sentence of this paragraph shall be a percentage (not greater than 100 percent) of the actual selling price based on the highest price for which such articles are sold by manufacturers and producers in the ordinary course of trade (determined without regard to any individual manufacturer's or producer's cost).
+<b>1984</b>—Subsec. (b)(1). Pub. L. 98–369, §735(c)(6)(A), in provisions following subpar. (C) struck out “(other than an article the sale of which is taxable under section 4061(a))” in second sentence, before “the computation under the preceding sentence”, and struck out provision that in the case of an article the sale of whichis taxable under section 4061(a) and which is sold at retail, the computation under the first sentence of this paragraph shall be a percentage (not greater than 100 percent) of the actual selling price based on the highest price for which such articles are sold by manufacturers and producers in the ordinary course of trade (determined without regard to any individual manufacturer's or producer's cost).
 
 Subsec. (b)(2)(B) to (D). Pub. L. 98–369, §735(c)(6)(B), inserted “and” at end of subpar. (B), redesignated subpar. (D) as (C), and struck out former subpar. (C) which related to articles upon which tax is imposed under section 4061(a) of this title.
 

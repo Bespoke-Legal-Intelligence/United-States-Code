@@ -4,7 +4,7 @@
 
 #### (1) Authorization
 
-&emsp;The Secretary is authorized to award grants to 15 eligible entities to enable such entitiesto establish a demonstration program to establish training programs to train, or to employ, alternative dental health care providers in order to increase access to dental health care services in rural and other underserved communities.
+&emsp;The Secretary is authorized to award grants to 15 eligible entities to enable such entities to establish a demonstration program to establish training programs to train, or to employ, alternative dental health care providers in order to increase access to dental health care services in rural and other underserved communities.
 
 #### (2) Definition
 
@@ -50,7 +50,7 @@ To be eligible to receive a grant under subsection (a), an entity shall—
 
 #### (B) Subsequent disbursements
 
-&emsp;&emsp;The remaining amount of grant funds not dispersed under subparagraph (A) shall be dispersed such that not less than 15 percent of such remaining amount is dispersed each subsequent year.
+&emsp;&emsp;The remaining amount of grant funds not dispersed under subparagraph (A) shall be dispersed such that not less than 15 percentof such remaining amount is dispersed each subsequent year.
 
 #### (e) Compliance with State requirements
 

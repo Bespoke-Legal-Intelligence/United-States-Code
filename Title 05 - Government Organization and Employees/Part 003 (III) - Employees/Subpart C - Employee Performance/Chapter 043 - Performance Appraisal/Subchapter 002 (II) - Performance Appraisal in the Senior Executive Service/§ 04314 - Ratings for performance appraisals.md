@@ -40,5 +40,5 @@
 
 #### Amendments
 
-1995—Subsec. (d). Pub. L. 104–66 struck out subsec. (d) which related to reports to Congress.
+<b>1995</b>—Subsec. (d). Pub. L. 104–66 struck out subsec. (d) which related to reports to Congress.
 

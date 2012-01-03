@@ -66,7 +66,7 @@
 
 &emsp;(13) Menstrual disorders.
 
-(h)(1) If the Secretary determines with respect to a medical research project sponsored by the Department that it is necessary for the conduct of the project that Persian Gulf veterans in receipt of compensation under this section or section 1118 of this title participate in the project without the possibility of loss of service connection under either such section, the Secretary shall provide that service connection granted under either such section for disability of a veteran who participated in the research project may not be terminated. Except as provided inparagraph (2), notwithstanding any other provision of law any grant of service-connection protected under this subsection shall remain service-connected for purposes of all provisions of law under this title.
+(h)(1) If the Secretary determines with respect to a medical research project sponsored by the Department that it is necessary for the conduct of the project that Persian Gulf veterans in receipt of compensation under this section or section 1118 of this title participate in the project without the possibility of loss of service connection under either such section, the Secretary shall provide that service connection granted under either such section for disability of a veteran who participated in the research project may not be terminated. Except as provided in paragraph (2), notwithstanding any other provision of law any grant of service-connection protected under this subsection shall remain service-connected for purposes of all provisions of law under this title.
 
 (2) Paragraph (1) does not apply in a case in which—
 
@@ -122,7 +122,7 @@ Purpose.—The purpose of this section is to provide for the National Academy of
 
 Agreement.—(1) The Secretary of Veterans Affairs shall seek to enter into an agreement with the National Academy of Sciences for the Academy to perform the activities covered by this section. The Secretary shall seek to enter into the agreement not later than 2 months after the date of the enactment of this Act \[Nov. 11, 1998\].
 
-“(2)(A) If the Secretary is unable within the time period set forth in paragraph (1) to enter into an agreement with the Academy for the purposes of this section on terms acceptable to the Secretary, the Secretary shall seek to enter into an agreement for purposes of this section with another appropriate scientific organization that is not part of the Federal Government, operates as a not-for-profit entity, and has expertise and objectivity comparable to that of the Academy.
+“(2)(A) If the Secretary is unable within the time period set forth in paragraph (1) to enter into an agreement with the Academy for the purposes of this section on terms acceptable to the Secretary, the Secretary shall seek to enter into an agreement for purposes ofthis section with another appropriate scientific organization that is not part of the Federal Government, operates as a not-for-profit entity, and has expertise and objectivity comparable to that of the Academy.
 
 “(B) If the Secretary enters into an agreement with another organization under this paragraph, any reference in this section to the National Academy of Sciences shall be treated as a reference to such other organization.
 
@@ -136,7 +136,7 @@ Review of Scientific Evidence.—(1) Under the agreement under subsection (b), t
 
 &emsp;“(C) identify the illnesses (including diagnosed illnesses and undiagnosed illnesses) for which there is scientific evidence of a higher prevalence among populations of Gulf War veterans when compared with other appropriate populations of individuals.
 
-“(2) In identifying illnesses under subparagraphs (B) and (C) of paragraph (1), the Academy shall review and summarize the relevant scientific evidence regarding illnesses, including symptoms, adverse reproductive health outcomes, and mortality, among the membersdescribed in paragraph (1)(A) and among other appropriate populations of individuals.
+“(2) In identifying illnesses under subparagraphs (B) and (C) of paragraph (1), the Academy shall review and summarize the relevant scientific evidence regarding illnesses, including symptoms, adverse reproductive health outcomes, and mortality, among the members described in paragraph (1)(A) and among other appropriate populations of individuals.
 
 “(3) In conducting the review and evaluation under paragraph (1), the Academy shall, for each illness identified under subparagraph (B) or (C) of that paragraph, assess the latency period, if any, between service or exposure to any potential risk factor (including an agent, hazard, or medicine or vaccine identified under subparagraph (A) of that paragraph) and the manifestation of such illness.
 
@@ -248,7 +248,7 @@ Scientific Determinations Concerning Illnesses.—(1) For each illness identifie
 
 “(f)
 
-Recommendations for Additional Scientific Studies.—(1) Under the agreement under subsection (b), the National Academy of Sciences shall make any recommendations that it considers appropriate for additional scientific studies (including studies relating to treatment models) to resolve areas of continuing scientific uncertainty relating to the health consequences of service described in subsection (c)(1)(A) or exposure to toxic agents, environmental or wartime hazards, or preventive medicines or vaccines associated with such service.
+Recommendations for Additional Scientific Studies.—(1) Under the agreement under subsection\(b), the National Academy of Sciences shall make any recommendations that it considers appropriate for additional scientific studies (including studies relating to treatment models) to resolve areas of continuing scientific uncertainty relating to the health consequences of service described in subsection (c)(1)(A) or exposure to toxic agents, environmental or wartime hazards, or preventive medicines or vaccines associated with such service.
 
 “(2) In making recommendations for additional studies, the Academy shall consider the available scientific data, the value and relevance of the information that could result from such studies, and the cost and feasibility of carrying out such studies.
 
@@ -462,7 +462,7 @@ Review of Potential Treatment Models for Certain Illnesses.—Under the agreemen
 
 “(g)
 
-Recommendations for Additional Scientific Studies.—(1) Under the agreement under subsection (b), the National Academy of Sciences shall make any recommendations that it considers appropriate for additional scientific studies (including studies relating to treatment models) to resolve areas of continuing scientific uncertainty relating to the health consequences of exposure to toxic agents, environmental or wartime hazards, or preventive medicines or vaccines associated with service described in subsection (c)(1)(A).
+Recommendations for Additional Scientific Studies.—(1) Under the agreement under subsection (b), the National Academy of Sciences shall make any recommendations that it considers appropriate for additional scientific studies (including studies relating to treatment models) to resolve areas of continuing scientific uncertainty relating to the health consequences of exposure to toxic agents, environmental or wartimehazards, or preventive medicines or vaccines associated with service described in subsection (c)(1)(A).
 
 “(2) In making recommendations for additional studies, the Academy shall consider the available scientific data, the value and relevance of the information that could result from such studies, and the cost and feasibility of carrying out such studies.
 
@@ -490,7 +490,7 @@ Reports.—(1) Under the agreement under subsection (b), the National Academy of
 
 “(3) Reports shall be submitted under this subsection at least once every two years, as measured from the date of the report under paragraph (2).
 
-“(4) In any report under this subsection (other than the report under paragraph (2)), the Academy mayspecify an absence of meaningful developments in the scientific or medical community with respect to the activities of the Academy under this section during the 2-year period ending on the date of such report.
+“(4) In any report under this subsection (other than the report under paragraph (2)), the Academy may specify an absence of meaningful developments in the scientific or medical community with respect to the activities of the Academy under this section during the 2-year period ending on the date of such report.
 
 “(5) In each report under this subsection submitted after the date of the enactment of this paragraph \[Oct. 13, 2010\], any determinations, results, and recommendations as described in paragraph (2) shall be submitted separately as follows:
 
@@ -558,7 +558,7 @@ Sections 102 to 105, 107, 109, and 110 of title I of Pub. L. 103–446, as amend
 
 &emsp;“(5) In response to concerns regarding the health-care needs of Persian Gulf War veterans, particularly those who suffer from illnesses or conditions for which no diagnosis has been made, the Congress, in Public Law 102–585 \[see Short Title of 1992 Amendments note under section 101 of this title\], directed the establishment of a Persian Gulf War Veterans Health Registry, authorized health examinations for veterans of the Persian Gulf War, and provided for the National Academy of Sciences to conduct a comprehensive review and assessment of information regarding the health consequences of military service in the Persian Gulf theater of operations and to develop recommendations on avenues for research regarding such health consequences. In Public Law 103–210 \[see Tables for classification\], the Congress authorized the Department of Veterans Affairs to provide health care services on a priority basis to Persian Gulf War veterans. The Congress also provided in Public Law 103–160 (the National Defense Authorization Act for Fiscal Year 1994) \[see Tables for classification\] for the establishment of a specialized environmental medical facility for the conduct of research into the possible health effects of exposure to low levels of hazardous chemicals, especially among Persian Gulf veterans, and for research into the possible health effects of battlefield exposure in such veterans to depleted uranium.
 
-&emsp;“(6) In response to concerns about the lack of objective research on Gulf War illnesses, Congress included research provisions in the National Defense Authorization Act for Fiscal Year 1995 \[Pub. L. 103–337, see Tables for classification\], which was passed by the House and Senate in September 1994. This legislation requires the Secretary of Defense to provide research grants to non-Federal researchers to support threetypes of studies of the Gulf War syndrome. The first type of study will be an epidemiological study or studies of the incidence, prevalence, and nature of the illness and symptoms and the risk factors associated with symptoms or illnesses. This will include illnesses among spouses and birth defects and illnesses among offspring born before and after the Gulf War. The second group of studies shall be conducted to determine the health consequences of the use of pyridostigmine bromide as a pretreatment antidote enhancer during the Persian Gulf War, alone or in combination with exposure to pesticides, environmental toxins, and other hazardous substances. The final group of studies shall include clinical research and other studies on the causes, possible transmission, and treatment of Gulf War syndrome, and will include studies of veterans and their spouses and children.
+&emsp;“(6) In response to concerns about the lack of objective research on Gulf War illnesses, Congress included research provisions in the National Defense Authorization Act for Fiscal Year 1995 \[Pub. L. 103–337, see Tables for classification\], which was passed by the House and Senate in September 1994. This legislation requires the Secretary of Defense to provide research grants to non-Federal researchers to support three types of studies of the Gulf War syndrome. The first type of study will be an epidemiological study or studies of the incidence, prevalence, and nature of the illness and symptoms and the risk factors associated with symptoms or illnesses. This will include illnesses among spouses and birth defects and illnesses among offspring born before and after the Gulf War. The second group of studies shall be conducted to determine the health consequences of the use of pyridostigmine bromide as a pretreatment antidote enhancer during the Persian Gulf War, alone or in combination with exposure to pesticides, environmental toxins, and other hazardous substances. The final group of studies shall include clinical research and other studies on the causes, possible transmission, and treatment of Gulf War syndrome, and will include studies of veterans and their spouses and children.
 
 &emsp;“(7) Further research and studies must be undertaken to determine the underlying causes of the illnesses suffered by Persian Gulf War veterans and, pending the outcome of such research, veterans who are seriously ill as the result of such illnesses should be given the benefit of the doubt and be provided compensation benefits to offset the impairment in earnings capacities they may be experiencing.
 
@@ -622,7 +622,7 @@ Toll-Free Number.—The outreach program shall include establishment of a toll-f
 
 “(a)
 
-Evaluation Program.—Subject to subsection (c), the Secretary of Veterans Affairs shall conduct aprogram to evaluate the health status of spouses and children of Persian Gulf War veterans. Under the program, the Secretary shall provide for the conduct of diagnostic testing and appropriate medical examinations of any individual—
+Evaluation Program.—Subject to subsection (c), the Secretary of Veterans Affairs shall conduct a program to evaluate the health status of spouses and children of Persian Gulf War veterans. Under the program, the Secretary shall provide for the conduct of diagnostic testing and appropriate medical examinations of any individual—
 
 &emsp;“(1) who is the spouse or child of a veteran who—
 
@@ -698,7 +698,7 @@ Study of Health Consequences of Persian Gulf Service.—If the National Academy 
 
 Oversight.—(1) The Secretary shall seek to enter into an agreement with the Medical Follow-Up Agency (MFUA) of the Institute of Medicine of the National Academy of Sciences for (A) the review of proposals to conduct the research referred to in subsection (a), (B) oversight of such research, and (C) review of the research findings.
 
-“(2) If the Secretary is unable to enter into an agreement under paragraph (1) with the entity specified in that paragraph, the Secretary shall enter into an agreement described in that paragraph with another appropriate scientific organization which does not have a connection to the Department of Veterans Affairs. In such a case, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives, at least 90 days before the date on which the agreement is entered into, notice in writing identifying the organization with which the Secretary intends to enter into the agreement.
+“(2) If the Secretary is unable to enter into an agreement under paragraph (1) with the entity specified in that paragraph, the Secretary shall enter into an agreement described in that paragraph with anotherappropriate scientific organization which does not have a connection to the Department of Veterans Affairs. In such a case, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives, at least 90 days before the date on which the agreement is entered into, notice in writing identifying the organization with which the Secretary intends to enter into the agreement.
 
 “(c)
 

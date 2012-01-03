@@ -6,7 +6,7 @@ Any license issued or renewed after the effective date of this section under sec
 
 &emsp;(1) the licensee will comply with decontamination, decommissioning, and reclamation standards prescribed by the Commission for sites (A) at which ores were processed primarily for their source material content and (B) at which such byproduct material is deposited, and
 
-&emsp;(2) ownership of any byproduct material, as defined in section 2014(e)(2) of this title, which resulted from such licensed activity shall be transferred to (A) the United States or (B) in the State in which such activity occurred if such State exercises the option under subsection (b)(1) of this section to acquire land used for the disposal of byproduct material.
+&emsp;(2) ownership of any byproduct material, as defined in section 2014(e)(2) of this title, whichresulted from such licensed activity shall be transferred to (A) the United States or (B) in the State in which such activity occurred if such State exercises the option under subsection (b)(1) of this section to acquire land used for the disposal of byproduct material.
 
 > Any license which is in effect on the effective date of this section and which is subsequently terminated without renewal shall comply with paragraphs (1) and (2) upon termination.
 
@@ -34,7 +34,7 @@ Any license issued or renewed after the effective date of this section under sec
 
 (7) Material and land transferred to the United States or a State in accordance with this subsection shall be transferred without cost to the United States or a State (other than administrative and legal costs incurred in carrying out such transfer). Subject to the provisions of paragraph (1)(B) of this subsection, the United States or a State shall not transfer title to material or property acquired under this subsection to any person, unless such transfer is in the same manner as provided under section 7914(h) of this title.
 
-(8) The provisions of this subsection respecting transfer of title and custody to land shall not apply in the case of lands held in trust by the United States for any Indian tribe or lands owned by such Indian tribe subject to a restriction against alienation imposed by the United States. In the case of such lands which are used for the disposal of byproduct material, as defined in section 2014(e)(2) of this title, the licensee shall be required to enter into such arrangements with the Commission as may be appropriate to assure the long-term maintenance and monitoring of such lands by the United States.
+(8) The provisions of this subsection respecting transfer of title and custody to land shall not apply in the case of lands held in trust by theUnited States for any Indian tribe or lands owned by such Indian tribe subject to a restriction against alienation imposed by the United States. In the case of such lands which are used for the disposal of byproduct material, as defined in section 2014(e)(2) of this title, the licensee shall be required to enter into such arrangements with the Commission as may be appropriate to assure the long-term maintenance and monitoring of such lands by the United States.
 
 #### (c) Compliance with applicable standards and license requirements; determination upon termination of license
 

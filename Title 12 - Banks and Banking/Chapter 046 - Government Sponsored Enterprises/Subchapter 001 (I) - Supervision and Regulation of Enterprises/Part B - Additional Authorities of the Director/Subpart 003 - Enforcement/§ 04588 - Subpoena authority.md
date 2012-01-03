@@ -18,7 +18,7 @@ The attendance of witnesses and the production of documents provided for in this
 
 #### (c) Enforcement
 
-The Director may bring an action or may request the Attorney General of the United States to bring an action in the United States districtcourt for the judicial district in which such proceeding is being conducted, or where the witness resides or conducts business, or the United States District Court for the District of Columbia, for enforcement of any subpoena or subpoena duces tecum issued pursuant to this section. Such courts shall have jurisdiction and power to order and require compliance therewith.
+The Director may bring an action or may request the Attorney General of the United States to bring an action in the United States district court for the judicial district in which such proceeding is being conducted, or where the witness resides or conducts business, or the United States District Court for the District of Columbia, for enforcement of any subpoena or subpoena duces tecum issued pursuant to this section. Such courts shall have jurisdiction and power to order and require compliance therewith.
 
 #### (d) Fees and expenses
 
@@ -28,7 +28,7 @@ Witnesses subpoenaed under this section shall be paid the same fees and mileage 
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–289, §1130(e)(3)(E), substituted “Director” for “Secretary” in introductory provisions and in par. (4).
+<b>2008</b>—Subsec. (a). Pub. L. 110–289, §1130(e)(3)(E), substituted “Director” for “Secretary” in introductory provisions and in par. (4).
 
 Subsec. (c). Pub. L. 110–289, §1130(e)(3)(E), substituted “Director” for “Secretary”.
 

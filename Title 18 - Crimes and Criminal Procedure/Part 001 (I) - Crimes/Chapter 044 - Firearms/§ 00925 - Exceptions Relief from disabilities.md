@@ -2,7 +2,7 @@
 
 (a)(1) The provisions of this chapter, except for sections 922(d)(9) and 922(g)(9) and provisions relating to firearms subject to the prohibitions of section 922(p), shall not apply with respect to the transportation, shipment, receipt, possession, or importation of any firearm or ammunition imported for, sold or shipped to, or issued for the use of, the United States or any department or agency thereof or any State or any department, agency, or political subdivision thereof.
 
-(2) The provisions of this chapter, except for provisions relating to firearms subject to the prohibitions of section 922(p), shall not apply with respect to (A) the shipment or receipt of firearms or ammunition when sold or issued by the Secretary of the Army pursuant to section 4308 of title 10 before the repeal of such section by section 1624(a) of the Corporation for the Promotion of Rifle Practice and Firearms Safety Act, and (B) the transportation of any such firearm or ammunition carried out to enable a person, who lawfully received such firearm or ammunition from the Secretary of the Army, to engage in military training or in competitions.
+(2) The provisions of this chapter, except for provisions relating to firearms subject to the prohibitions of section 922(p), shall not apply with respect to (A) the shipment or receipt offirearms or ammunition when sold or issued by the Secretary of the Army pursuant to section 4308 of title 10 before the repeal of such section by section 1624(a) of the Corporation for the Promotion of Rifle Practice and Firearms Safety Act, and (B) the transportation of any such firearm or ammunition carried out to enable a person, who lawfully received such firearm or ammunition from the Secretary of the Army, to engage in military training or in competitions.
 
 (3) Unless otherwise prohibited by this chapter, except for provisions relating to firearms subject to the prohibitions of section 922(p), or any other Federal law, a licensed importer, licensed manufacturer, or licensed dealer may ship to a member of the United States Armed Forces on active duty outside the United States or to clubs, recognized by the Department of Defense, whose entire membership is composed of such members, and such members or clubs may receive a firearm or ammunition determined by the Attorney General to be generally recognized as particularly suitable for sporting purposes and intended for the personal use of such member or club.
 
@@ -38,7 +38,7 @@
 
 #### Amendment of Section
 
-<i>Pub. L. 100–649, §2(f)(2)(C), (E), Nov. 10, 1988, 102 Stat. 3818, as amended by Pub. L. 105–277,</i><i>div. A, §101(h) \[title VI, §649\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–528; Pub. L. 108–174, §1(1), (3), Dec. 9, 2003, 117 Stat. 2481, provided that, effective 25 years after the 30th day beginning after Nov. 10, 1988, subsection (a) of this section is amended by striking “and provisions relating to firearms subject to the prohibitions of section 922(p)” in par. (1), striking “, except for provisions relating to firearms subject to the prohibitions of section 922(p),” in par. (2), and striking “except for provisions relating to firearms subject to the prohibitions of section 922(p),” in pars. (3) and (4) and subsection (f) of this section is repealed.</i>
+<i>Pub. L. 100–649, §2(f)(2)(C), (E), Nov. 10, 1988, 102 Stat. 3818, as amended by Pub. L. 105–277, div. A, §101(h) \[title VI, §649\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–528; Pub. L. 108–174, §1(1), (3), Dec. 9, 2003, 117 Stat. 2481, provided that, effective 25 years after the 30th day beginning after Nov. 10, 1988, subsection (a) of this section is amended by striking “and provisions relating to firearms subject to the prohibitions of section 922(p)” in par. (1), striking “, except for provisions relating to firearms subject to the prohibitions of section 922(p),” in par. (2), and striking “except for provisions relating to firearms subject to the prohibitions of section 922(p),” in pars. (3) and (4) and subsection (f) of this section is repealed.</i>
 
 #### References in Text
 
@@ -108,5 +108,5 @@ Amendment by Pub. L. 98–573 effective 15th day after Oct. 30, 1984, see sectio
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–618 effective Dec. 16, 1968, except subsecs. (a)(1) and (d) effective Oct. 22, 1968, seesection 105 of Pub. L. 90–618, set out as a note under section 921 of this title.
+Amendment by Pub. L. 90–618 effective Dec. 16, 1968, except subsecs. (a)(1) and (d) effective Oct. 22, 1968, see section 105 of Pub. L. 90–618, set out as a note under section 921 of this title.
 

@@ -32,7 +32,7 @@ Program Requirements.—The Secretary of the Air Force shall ensure that—
 
 Tuition.—(1) The United States Air Force Institute of Technology shall charge tuition for students enrolled under this section at a rate not less than the rate charged for employees of the United States outside the Department of the Air Force.
 
-(2) Amounts received by the United States Air Force Institute of Technology for instruction ofstudents enrolled under this section shall be retained by the school to defray the costs of such instruction. The source, and the disposition, of such funds shall be specifically identified in records of the school.
+(2) Amounts received by the United States Air Force Institute of Technology for instruction of students enrolled under this section shall be retained by the school to defray the costs of such instruction. The source, and the disposition, of such funds shall be specifically identified in records of the school.
 
 (f)
 

@@ -6,7 +6,7 @@ The right of any person to any future payment under this subchapter shall not be
 
 #### (b) Amendment of section
 
-No other provision of law, enacted before, on, or after April 20, 1983, may be construed to limit, supersede, or otherwise modify the provisions of this section except to the extent that it does so by express reference to this section.
+No other provision of law, enacted before, on, or after April 20, 1983, may be construed to limit,supersede, or otherwise modify the provisions of this section except to the extent that it does so by express reference to this section.
 
 #### (c) Withholding of taxes
 

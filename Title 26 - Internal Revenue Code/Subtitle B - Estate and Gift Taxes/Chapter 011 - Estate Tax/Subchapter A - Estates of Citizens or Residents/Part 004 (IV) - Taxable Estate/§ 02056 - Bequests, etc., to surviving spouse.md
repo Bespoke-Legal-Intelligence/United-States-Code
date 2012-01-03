@@ -22,7 +22,7 @@ For purposes of the tax imposed by section 2001, the value of the taxable estate
 
 #### (2) Interest in unidentified assets
 
-&emsp;Where the assets (included in the decedent's gross estate) out of which, or the proceeds of which, an interest passing to the surviving spouse may be satisfied include a particular asset or assets with respect to which no deduction would be allowed if such asset or assets passed from the decedent to such spouse, thenthe value of such interest passing to such spouse shall, for purposes of subsection (a), be reduced by the aggregate value of such particular assets.
+&emsp;Where the assets (included in the decedent's gross estate) out of which, or the proceeds of which, an interest passing to the surviving spouse may be satisfied include a particular asset or assets with respect to which no deduction would be allowed if such asset or assets passed from the decedent to such spouse, then the value of such interest passing to such spouse shall, for purposes of subsection (a), be reduced by the aggregate value of such particular assets.
 
 #### (3) Interest of spouse conditional on survival for limited period
 
@@ -48,7 +48,7 @@ For purposes of the tax imposed by section 2001, the value of the taxable estate
 
 &emsp;&emsp;(B) no part of the interest so passing shall, for purposes of paragraph (1)(A), be considered as passing to any person other than the surviving spouse.
 
-> &emsp;This paragraph shall apply only if such power in the surviving spouse to appoint the entire interest, or such specific portion thereof, whether exercisable by will or during life, is exercisable by such spouse alone and in all events.
+> &emsp;This paragraph shall apply only if such power in the surviving spouse to appoint the entireinterest, or such specific portion thereof, whether exercisable by will or during life, is exercisable by such spouse alone and in all events.
 
 #### (6) Life insurance or annuity payments with power of appointment in surviving spouse
 
@@ -132,7 +132,7 @@ For purposes of the tax imposed by section 2001, the value of the taxable estate
 
 #### (ii) ESOP beneficiary
 
-&emsp;&emsp;&emsp;The term “ESOP beneficiary” means any beneficiary which is an employee stock ownership plan (as defined in section 4975(e)(7)) that holds a remainder interest in qualified employer securities (as defined in section 664(g)(4)) to be transferred to such plan in a qualified gratuitous transfer (as defined in section 664(g)(1)).
+&emsp;&emsp;&emsp;The term “ESOP beneficiary” means any beneficiary which is an employeestock ownership plan (as defined in section 4975(e)(7)) that holds a remainder interest in qualified employer securities (as defined in section 664(g)(4)) to be transferred to such plan in a qualified gratuitous transfer (as defined in section 664(g)(1)).
 
 #### (iii) Qualified charitable remainder trust
 
@@ -356,7 +356,7 @@ In general.—Except as otherwise provided in this subsection—
 
 “(2)
 
-Not to apply to extent inconsistent with prior return.—In the case of any estate or gift tax returnfiled before the date of the enactment of this Act \[Nov. 10, 1988\], the amendments made by this section \[amending this section and section 2523 of this title\] shall not apply to the extent such amendments would be inconsistent with the treatment of the annuity on such return unless the executor or donor (as the case may be) otherwise elects under this paragraph before the day 2 years after the date of the enactment of this Act.
+Not to apply to extent inconsistent with prior return.—In the case of any estate or gift tax return filed before the date of the enactment of this Act \[Nov. 10, 1988\], the amendments made by this section \[amending this section and section 2523 of this title\] shall not apply to the extent such amendments would be inconsistent with the treatment of the annuity on such return unless the executor or donor (as the case may be) otherwise elects under this paragraph before the day 2 years after the date of the enactment of this Act.
 
 “(3)
 
@@ -428,5 +428,5 @@ Section 7815(d)(14) of Pub. L. 101–239 provided that: “In the case of the es
 
 #### Disclaimer of Interest Arising From Estates of Persons Dying Before Oct. 4, 1966, Having Estate Tax Return Filing Date On or After Jan. 1, 1965
 
-Section 1(c) of Pub. L. 89–621 provided that in the case of a decedent dying before Oct. 4, 1966, for which thedate prescribed for filing estate tax return was on or after Jan. 1, 1965, and as a result of a disclaimer, the surviving spouse became entitled to receive such interest, then such interest was to be considered as having passed from the decedent to the surviving spouse under certain conditions, with a limit on the amount of deductions allowed.
+Section 1(c) of Pub. L. 89–621 provided that in the case of a decedent dying before Oct. 4, 1966, for which the date prescribed for filing estate tax return was on or after Jan. 1, 1965, and as a result of a disclaimer, the surviving spouse became entitled to receive such interest, then such interest was to be considered as having passed from the decedent to the surviving spouse under certain conditions, with a limit on the amount of deductions allowed.
 

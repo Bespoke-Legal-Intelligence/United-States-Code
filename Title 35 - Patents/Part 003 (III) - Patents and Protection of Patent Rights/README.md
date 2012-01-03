@@ -12,7 +12,27 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+|  |  |  |
+| :--- | :---: | ---: |
+| [<b>32.</b>](Chapter%20032%20-%20Post-Grant%20Review/README.md) | <b>Post-Grant Review</b> | <b>321</b> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendment of Analysis
+
+<i>Pub. L. 112–29, §§6(b), 35, Sept. 16, 2011, 125 Stat. 304, 341, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to any patent issued on or after that effective date, this analysis is amended by striking the item relating to chapter 31 and inserting the following:</i>
+
+|  |  |  |
+| :--- | :---: | ---: |
+| <b><i>31.</i></b> | <b><i>Inter Partes Review</i></b> | <b><i>311</i></b> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<i>See 2011 Amendment note below.</i>
+
 #### Amendments
+
+<b>2011</b>—Pub. L. 112–29, §6(b), (e), Sept. 16, 2011, 125 Stat. 304, 311, added items for chapters 31 and 32 and struck out former item for chapter 31 “Optional Inter Partes Reexamination of Patents”.
 
 <b>2002</b>—Pub. L. 107–273, div. C, title III, §13206(a)(17), Nov. 2, 2002, 116 Stat. 1905, inserted a comma after “Patent” in item for chapter 29.
 
@@ -34,3 +54,4 @@
 - [Chapter 029 - Remedies for Infringement of Patent, and Other Actions](Chapter%20029%20-%20Remedies%20for%20Infringement%20of%20Patent%2C%20and%20Other%20Actions/README.md)
 - [Chapter 030 - Prior Art Citations to Office and Ex Parte Reexamination of Patents](Chapter%20030%20-%20Prior%20Art%20Citations%20to%20Office%20and%20Ex%20Parte%20Reexamination%20of%20Patents/README.md)
 - [Chapter 031 - Optional Inter Partes Reexamination Procedures](Chapter%20031%20-%20Optional%20Inter%20Partes%20Reexamination%20Procedures/README.md)
+- [Chapter 032 - Post-Grant Review](Chapter%20032%20-%20Post-Grant%20Review/README.md)

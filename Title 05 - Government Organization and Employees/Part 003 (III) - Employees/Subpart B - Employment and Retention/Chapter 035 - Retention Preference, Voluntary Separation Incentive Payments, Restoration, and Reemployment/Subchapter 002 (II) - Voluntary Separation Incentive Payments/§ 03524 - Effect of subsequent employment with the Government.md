@@ -26,9 +26,9 @@
 
 #### Amendments
 
-2006—Subsec. (c)(1). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission” in introductory provisions.
+<b>2006</b>—Subsec. (c)(1). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission” in introductory provisions.
 
-2004—Subsec. (c)(1). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in introductory provisions.
+<b>2004</b>—Subsec. (c)(1). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in introductory provisions.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “within”.</i>
 

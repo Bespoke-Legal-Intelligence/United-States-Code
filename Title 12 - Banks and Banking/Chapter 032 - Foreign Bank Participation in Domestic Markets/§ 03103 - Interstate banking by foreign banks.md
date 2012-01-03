@@ -76,7 +76,7 @@
 
 #### (b) Continuance of lawful interstate banking operations previously commenced
 
-Unless its authority to do so is lawfully revoked otherwise than pursuant to this section, a foreign bank, notwithstanding any restriction or limitation imposed under subsection (a) of this section, may establish and operate, outside its home State, any State branch, State agency, or bank or commercial lending company subsidiary which commenced lawful operation or for which an application to commence business had been lawfully filed with the appropriate State or Federal authority, as the case may be, on or before July 27, 1978. Notwithstanding subsection (a) of this section, a foreign bank may continue to operate, after September 29, 1994, any Federal branch, State branch, Federal agency, State agency, or commercial lending company subsidiary which such bank was operating on the day before September 29, 1994, to the extent the branch, agency, or subsidiary continues, afterSeptember 29, 1994, to engage in operations which were lawful under the laws in effect on the day before September 29, 1994.
+Unless its authority to do so is lawfully revoked otherwise than pursuant to this section, a foreign bank, notwithstanding any restriction or limitation imposed under subsection (a) of this section, may establish and operate, outside its home State, any State branch, State agency, or bank or commercial lending company subsidiary which commenced lawful operation or for which an application to commence business had been lawfully filed with the appropriate State or Federal authority, as the case may be, on or before July 27, 1978. Notwithstanding subsection (a) of this section, a foreign bank may continue to operate, after September 29, 1994, any Federal branch, State branch, Federal agency, State agency, or commercial lending company subsidiary which such bank was operating on the day before September 29, 1994, to the extent the branch, agency, or subsidiary continues, after September 29, 1994, to engage in operations which were lawful under the laws in effect on the day before September 29, 1994.
 
 #### (c) Determination of home State of foreign bank
 
@@ -106,13 +106,13 @@ Section 25A of the Federal Reserve Act, referred to in subsec. (a)(7)(A)(ii), (8
 
 #### Amendments
 
-1999—Subsec. (a)(7). Pub. L. 106–102 amended heading and text of par. (7) generally. Prior to amendment, text read as follows: “Notwithstanding paragraphs (1) and (2), a foreign bank may, with the approval of the Board and the Comptroller of the Currency, establish and operate a Federal branch or Federal agency or, with the approval of the Board and the appropriate State bank supervisor, a State branch or State agency in any State outside the foreign bank's home State if—
+<b>1999</b>—Subsec. (a)(7). Pub. L. 106–102 amended heading and text of par. (7) generally. Prior to amendment, text read as follows: “Notwithstanding paragraphs (1) and (2), a foreign bank may, with the approval of the Board and the Comptroller of the Currency, establish and operate a Federal branch or Federal agency or, with the approval of the Board and the appropriate State bank supervisor, a State branch or State agency in any State outside the foreign bank's home State if—
 
 “(A) the establishment and operation of a branch or agency is expressly permitted by the State in which the branch or agency is to be established; and
 
 “(B) in the case of a Federal or State branch, the branch receives only such deposits as would be permissible for a corporation organized under section 25A of the Federal Reserve Act.”
 
-1994—Subsec. (a). Pub. L. 103–328, §§104(a), 107(f), inserted heading and substituted provisions consisting of pars. (1) to (9) for former provisions relating to limitations on interstate banking by foreign banks.
+<b>1994</b>—Subsec. (a). Pub. L. 103–328, §§104(a), 107(f), inserted heading and substituted provisions consisting of pars. (1) to (9) for former provisions relating to limitations on interstate banking by foreign banks.
 
 Subsec. (b). Pub. L. 103–328, §104(b), inserted at end “Notwithstanding subsection (a) of this section, a foreign bank may continue to operate, after September 29, 1994, any Federal branch, State branch, Federal agency, State agency, or commercial lending company subsidiary which such bank was operating on the day before September 29, 1994, to the extent the branch, agency, or subsidiary continues, after September 29, 1994, to engage in operations which were lawful under the laws in effect on the day before September 29, 1994.”
 

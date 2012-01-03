@@ -6,5 +6,5 @@ The Secretary, under such regulations as he may prescribe, may revoke the commis
 
 #### Amendments
 
-2002—Pub. L. 107–295 substituted “five” for “three” in section catchline and text.
+<b>2002</b>—Pub. L. 107–295 substituted “five” for “three” in section catchline and text.
 

@@ -44,7 +44,7 @@ The Council shall—
 
 &emsp;(1) provide coordination and leadership at the Federal level, and among all Federal departments and agencies, with respect to prevention, wellness and health promotion practices, the public health system, and integrative health care in the United States;
 
-&emsp;(2) after obtaining input from relevant stakeholders, develop a national prevention,health promotion, public health, and integrative health care strategy that incorporates the most effective and achievable means of improving the health status of Americans and reducing the incidence of preventable illness and disability in the United States;
+&emsp;(2) after obtaining input from relevant stakeholders, develop a national prevention, health promotion, public health, and integrative health care strategy that incorporates the most effective and achievable means of improving the health status of Americans and reducing the incidence of preventable illness and disability in the United States;
 
 &emsp;(3) provide recommendations to the President and Congress concerning the most pressing health issues confronting the United States and changes in Federal policy to achieve national wellness, health promotion, and public health goals, including the reduction of tobacco use, sedentary behavior, and poor nutrition;
 
@@ -259,6 +259,10 @@ Sec. 8. <i>General Provisions.</i>
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Extension of Term of Advisory Group on Prevention, Health Promotion, and Integrative and Public Health
+
+Term of the Advisory Group on Prevention, Health Promotion, and Integrative and Public Health extended until Sept. 30, 2012, by Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “(h);”.</i>
 

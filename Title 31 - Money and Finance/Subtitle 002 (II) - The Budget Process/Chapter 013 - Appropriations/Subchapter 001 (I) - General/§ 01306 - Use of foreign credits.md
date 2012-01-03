@@ -8,7 +8,7 @@ In General.—Foreign credits (including currencies) owed to or owned by the Uni
 
 Exception to Reimbursement Requirement.—Credits described in subsection (a) that are received as exchanged allowances, or as the proceeds of the sale of personal property, may be used in whole or partial payment for the acquisition of similar items, to the extent and in the manner authorized by law, without reimbursement to the Treasury.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 918; Pub. L. 104–208, div. A, title I, §101(f) \[title VI,§612(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–355.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 918; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §612(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–355.)
 
 Historical and Revision Notes
 

@@ -24,11 +24,11 @@ For the purpose of performing functions abroad, any agency or other Government e
 
 The Secretary of State may prescribe regulations governing the establishment and administration of local compensation plans under this section by all agencies and other Government establishments.
 
-(Pub. L. 96–465, title I, §408, Oct. 17, 1980, 94 Stat. 2090; Pub. L. 98–164, title I, §127(a), Nov. 22, 1983, 97 Stat. 1026; Pub. L. 101–246, title I, §141(a), Feb. 16, 1990, 104 Stat. 35; Pub. L. 102–138, title I, §§148, 152, Oct. 28, 1991, 105 Stat. 670, 672; Pub. L. 103–236, title I, §180(a)(4), Apr. 30, 1994, 108 Stat. 415; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A,title III, §322\], Nov. 29, 1999, 113 Stat. 1536, 1501A–436; Pub. L. 107–228, div. A, title III, §313, Sept. 30, 2002, 116 Stat. 1378.)
+(Pub. L. 96–465, title I, §408, Oct. 17, 1980, 94 Stat. 2090; Pub. L. 98–164, title I, §127(a), Nov. 22, 1983, 97 Stat. 1026; Pub. L. 101–246, title I, §141(a), Feb. 16, 1990, 104 Stat. 35; Pub. L. 102–138, title I, §§148, 152, Oct. 28, 1991, 105 Stat. 670, 672; Pub. L. 103–236, title I, §180(a)(4), Apr. 30, 1994, 108 Stat. 415; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §322\], Nov. 29, 1999, 113 Stat. 1536, 1501A–436; Pub. L. 107–228, div. A, title III, §313, Sept. 30, 2002, 116 Stat. 1378.)
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (a)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (a)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.)of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, known as the Foreign Service Act of 1980, which is classified principally to this chapter (§3901 et. seq.). For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 

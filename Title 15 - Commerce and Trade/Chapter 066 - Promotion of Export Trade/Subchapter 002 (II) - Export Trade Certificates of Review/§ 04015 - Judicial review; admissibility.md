@@ -10,7 +10,7 @@ Except as provided in subsection (a) of this section, no action by the Secretary
 
 #### (c) Inadmissibility in antitrust proceedings
 
-If the Secretary denies, in whole or in part, an application for a certificate of review or for anamendment to a certificate, or revokes or amends a certificate, neither the negative determination nor the statement of reasons therefor shall be admissible in evidence, in any administrative or judicial proceeding, in support of any claim under the antitrust laws.
+If the Secretary denies, in whole or in part, an application for a certificate of review or for an amendment to a certificate, or revokes or amends a certificate, neither the negative determination nor the statement of reasons therefor shall be admissible in evidence, in any administrative or judicial proceeding, in support of any claim under the antitrust laws.
 
 (Pub. L. 97–290, title III, §305, Oct. 8, 1982, 96 Stat. 1243.)
 

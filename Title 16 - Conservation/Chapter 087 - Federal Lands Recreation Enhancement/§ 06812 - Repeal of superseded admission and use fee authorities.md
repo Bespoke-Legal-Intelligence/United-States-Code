@@ -28,7 +28,7 @@ Effective on the date the notice required by section 6804(a)(3) of this title is
 
 #### (2) National parks passport
 
-&emsp;Any funds collected under title VI of the National Parks Omnibus Management Act of 1998 (Public Law 105–391; 16 U.S.C. 5991–5995) thatare unobligated on the day before the publication of the Federal Register notice required under section 6804(a)(3) of this title shall be transferred to the special account of the National Park Service for use in accordance with this chapter. The Secretary of the Interior may use amounts available in that special account to pay any outstanding administration, marketing, or close-out costs associated with the national parks passport.
+&emsp;Any funds collected under title VI of the National Parks Omnibus Management Act of 1998 (Public Law 105–391; 16 U.S.C. 5991–5995) that are unobligated on the day before the publication of the Federal Register notice required under section 6804(a)(3) of this title shall be transferred to the special account of the National Park Service for use in accordance with this chapter. The Secretary of the Interior may use amounts available in that special account to pay any outstanding administration, marketing, or close-out costs associated with the national parks passport.
 
 #### (3) Recreational fee demonstration program
 
@@ -46,7 +46,7 @@ A regulation or policy issued under a provision of law repealed by this section 
 
 #### References in Text
 
-The date the notice required by section 6804(a)(3) of this title is published in the Federal Register, referred to in subsecs. (a), (d), and (e)(2), is Dec. 19, 2006. See 71 F.R. 75935.
+The date the notice required by section 6804(a)(3) of this title is published in the Federal Register, referredto in subsecs. (a), (d), and (e)(2), is Dec. 19, 2006. See 71 F.R. 75935.
 
 Sections 6804 and 6806 of this title, referred to in subsecs. (a), (d), and (e)(1), (2), were in the original references to sections 5 and 7, respectively, and were translated as meaning section 805 and 807, respectively, of title VIII of div. J of Pub. L. 108–447, to reflect the probable intent of Congress.
 

@@ -104,7 +104,7 @@ Matters to be considered.—The Secretary shall continue the Secretary's current
 
 &emsp;(2)
 
-Report.—Not later than January 31, 1995, the Secretary shall complete the current examination of slot regulations and shall transmit to the Committee on Commerce, Science,and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report containing the results of such examination.
+Report.—Not later than January 31, 1995, the Secretary shall complete the current examination of slot regulations and shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report containing the results of such examination.
 
 (f)
 
@@ -232,7 +232,7 @@ Subsecs. (j), (k). Pub. L. 106–181, §231(a)(2), (3), added subsecs. (j) and (
 
 <b>1998</b>—Subsecs. (a)(1), (b)(1), (c)(1), (d). Pub. L. 105–154 substituted “Ronald Reagan Washington National Airport” for “Washington National Airport” wherever appearing in text and in subsec. (d) heading.
 
-<b>1997</b>—Subsec. (d)(1). Pub. L. 105–102 substituted “sections 49104(a)(5) and 49111(e) of this title” for “sections 6005(c)(5) and 6009(e) of the Metropolitan Washington Airports Act of 1986”.
+<b>1997</b>—Subsec. (d)(1). Pub. L. 105–102 substituted “sections 49104(a)(5) and 49111(e) of this title” for “sections6005(c)(5) and 6009(e) of the Metropolitan Washington Airports Act of 1986”.
 
 Subsec. (i). Pub. L. 105–66 added subsec. (i).
 

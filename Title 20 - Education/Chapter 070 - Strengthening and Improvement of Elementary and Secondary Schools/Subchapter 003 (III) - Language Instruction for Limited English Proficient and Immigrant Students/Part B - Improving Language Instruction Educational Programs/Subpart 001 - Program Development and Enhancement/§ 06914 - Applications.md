@@ -8,7 +8,7 @@
 
 #### (2) State educational agency
 
-&emsp;The eligible entity, with the exception of schools funded by the Bureau of Indian Affairs,shall submit a copy of the application submitted by the entity under this section to the State educational agency.
+&emsp;The eligible entity, with the exception of schools funded by the Bureau of Indian Affairs, shall submit a copy of the application submitted by the entity under this section to the State educational agency.
 
 #### (b) State review and comments
 
@@ -174,5 +174,5 @@ In determining whether to approve an application under this subpart, the Secreta
 
 The Individuals with Disabilities Education Act, referred to in subsec. (h)(3)(B), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
-The Civil Rights Act of 1964, referred to in subsec. (h)(4)(B), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, asamended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (h)(4)(B), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 

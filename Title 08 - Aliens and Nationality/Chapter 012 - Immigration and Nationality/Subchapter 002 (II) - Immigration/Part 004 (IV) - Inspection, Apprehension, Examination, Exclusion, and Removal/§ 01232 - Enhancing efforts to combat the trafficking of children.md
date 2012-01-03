@@ -4,7 +4,7 @@
 
 #### (1) Policies and procedures
 
-&emsp;In order to enhance the efforts of the United States to prevent trafficking in persons, the Secretary of Homeland Security, in conjunction with the Secretary of State, the Attorney General, and the Secretary of Health and Human Services, shall develop policies and procedures to ensure that unaccompanied alien children in the United States are safely repatriated to their country of nationality or of last habitual residence.
+&emsp;In order to enhance the efforts of the United States to prevent trafficking in persons, the Secretary of Homeland Security, in conjunction with the Secretary of State, the AttorneyGeneral, and the Secretary of Health and Human Services, shall develop policies and procedures to ensure that unaccompanied alien children in the United States are safely repatriated to their country of nationality or of last habitual residence.
 
 #### (2) Special rules for children from contiguous countries
 
@@ -120,7 +120,7 @@
 
 #### (B) Home studies
 
-&emsp;&emsp;Before placing the child with an individual, the Secretary of Health and Human Services shall determine whether a home study is first necessary. A home study shall be conducted for a child who is a victim of a severe form of trafficking in persons, a special needs child with a disability (as defined in section 12102 of title 42), a child who has been a victim of physical or sexual abuse under circumstances that indicate that the child's health or welfare has been significantly harmed or threatened, or a child whose proposed sponsor clearly presents a risk of abuse, maltreatment, exploitation, or trafficking to the child based on all available objective evidence. The Secretary of Health and Human Services shall conduct follow-up services, during the pendency of removal proceedings, on children for whom a home study was conducted and is authorized to conduct follow-up services in cases involving children with mental health or other needs who could benefit from ongoing assistance from a social welfare agency.
+&emsp;&emsp;Before placing the child with an individual, the Secretary of Health and Human Services shall determine whether a home study is first necessary. A home study shall be conducted for a child who is a victim of a severe form of trafficking in persons, a special needs child with a disability (as defined in section 12102 of title 42), a child who has been a victim of physical or sexual abuseunder circumstances that indicate that the child's health or welfare has been significantly harmed or threatened, or a child whose proposed sponsor clearly presents a risk of abuse, maltreatment, exploitation, or trafficking to the child based on all available objective evidence. The Secretary of Health and Human Services shall conduct follow-up services, during the pendency of removal proceedings, on children for whom a home study was conducted and is authorized to conduct follow-up services in cases involving children with mental health or other needs who could benefit from ongoing assistance from a social welfare agency.
 
 #### (C) Access to information
 
@@ -128,7 +128,7 @@
 
 #### (4) Legal orientation presentations
 
-&emsp;The Secretary of Health and Human Services shall cooperate with the Executive Officefor Immigration Review to ensure that custodians receive legal orientation presentations provided through the Legal Orientation Program administered by the Executive Office for Immigration Review. At a minimum, such presentations shall address the custodian's responsibility to attempt to ensure the child's appearance at all immigration proceedings and to protect the child from mistreatment, exploitation, and trafficking.
+&emsp;The Secretary of Health and Human Services shall cooperate with the Executive Office for Immigration Review to ensure that custodians receive legal orientation presentations provided through the Legal Orientation Program administered by the Executive Office for Immigration Review. At a minimum, such presentations shall address the custodian's responsibility to attempt to ensure the child's appearance at all immigration proceedings and to protect the child from mistreatment, exploitation, and trafficking.
 
 #### (5) Access to counsel
 
@@ -209,4 +209,6 @@ The Immigration and Nationality Act, referred to in subsec. (a)(2)(B), is act Ju
 Section is comprised of section 235 of Pub. L. 110–457. Pars. (1), (3), and (7) of section 235(d) of Pub. L. 110–457 amended sections 1101, 1255, and 1158 of this title, respectively. Section 235(f) of Pub. L. 110–457 amended section 279 of Title 6, Domestic Security.
 
 Section was enacted as part of the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008, and not as part of the Immigration and Nationality Act which comprises this chapter.
+
+<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

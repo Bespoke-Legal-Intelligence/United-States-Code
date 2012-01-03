@@ -56,7 +56,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Each organization in the United States desiring a grant under this section shall submit an application to the Center at such time, in such manner, and accompanied by such information as the Center may reasonably require.
+&emsp;&emsp;Each organization in the United States desiring a grant under this section shall submit an application to the Center at suchtime, in such manner, and accompanied by such information as the Center may reasonably require.
 
 #### (B) Contents
 
@@ -78,7 +78,7 @@
 
 #### (2) Donations
 
-&emsp;Any money or other property donated, bequeathed, or devised to the Center under theauthority of this section shall be credited to the Fund.
+&emsp;Any money or other property donated, bequeathed, or devised to the Center under the authority of this section shall be credited to the Fund.
 
 #### (3) Fund management
 
@@ -140,23 +140,23 @@ Section 3011 of the 1999 Emergency Supplemental Appropriations Act, referred to 
 
 #### Amendments
 
-2009—Subsec. (a)(2)(A). Pub. L. 111–68, §1601(a)(1), substituted “Members of the House of Representatives” for “members”.
+<b>2009</b>—Subsec. (a)(2)(A). Pub. L. 111–68, §1601(a)(1), substituted “Members of the House of Representatives” for “members”.
 
 Subsec. (a)(2)(B). Pub. L. 111–68, §1601(a)(2), substituted “Senators” for “members”.
 
 Subsec. (d). Pub. L. 111–68, §1601(b), substituted “On behalf of the Board, the Librarian of Congress shall appoint” for “The Board shall appoint”.
 
-2007—Subsec. (a)(2)(E). Pub. L. 109–289, §20703(d)(6), as added by Pub. L. 110–5, repealed Pub. L. 109–13, §3402(b), and amended this section to read as if Pub. L. 109–13, §3402(b), had not been enacted. See 2005 Amendment note below.
+<b>2007</b>—Subsec. (a)(2)(E). Pub. L. 109–289, §20703(d)(6), as added by Pub. L. 110–5, repealed Pub. L. 109–13, §3402(b), and amended this section to read as if Pub. L. 109–13,§3402(b), had not been enacted. See 2005 Amendment note below.
 
-2005—Subsec. (a)(2)(E). Pub. L. 109–13, §3402(b), which substituted “chair of the Committee on Appropriations of the House of Representatives (or another member of such Committee designated by the chair)” for “chair of the Subcommittee on Legislative Branch of the Committee on Appropriations of the House of Representatives”, was repealed by Pub. L. 109–289, §20703(d)(6), as added by Pub. L. 110–5. See Construction of 2005 Amendment note below.
+<b>2005</b>—Subsec. (a)(2)(E). Pub. L. 109–13, §3402(b), which substituted “chair of the Committee on Appropriations of the House of Representatives (or another member of such Committee designated by the chair)” for “chair of the Subcommittee on Legislative Branch of the Committee on Appropriations of the House of Representatives”, was repealed by Pub. L. 109–289, §20703(d)(6), as added by Pub. L. 110–5. See Construction of 2005 Amendment note below.
 
-2004—Subsec. (a)(2). Pub. L. 108–447, §1502(1), substituted “11 members” for “nine members” in introductory provisions.
+<b>2004</b>—Subsec. (a)(2). Pub. L. 108–447, §1502(1), substituted “11 members” for “nine members” in introductory provisions.
 
 Subsec. (a)(2)(E). Pub. L. 108–447, §1502(2), added subpar. (E).
 
 Subsec. (j)(3). Pub. L. 108–447, §1501, added par. (3).
 
-2003—Pub. L. 108–7, §1401(a)(1), substituted “Open World Leadership Center” for “Center for Russian Leadership Development” in section catchline.
+<b>2003</b>—Pub. L. 108–7, §1401(a)(1), substituted “Open World Leadership Center” for “Center for Russian Leadership Development” in section catchline.
 
 Subsec. (a)(1). Pub. L. 108–7, §1401(a)(2)(A), substituted “a center to be known as the ‘Open World Leadership Center (the ‘Center’)” for “a center to be known as the ‘Center for Russian Leadership Development’ (the ‘Center’)”.
 
@@ -240,7 +240,7 @@ In general.—Subject to the availability of appropriations, the head of the adm
 
 &emsp;&emsp;“(B)
 
-Waiver of competitive bidding.—The Librarian of Congress, after consultation with the Joint Committee on the Library of Congress, may enter into contracts under subparagraph (A)(i) to carry out the pilot program during fiscal years 2000 and 2001 without regard to section 3709 of the Revised Statutes \[now 41 U.S.C. 6101\] or any other requirement for competitive contracting or the providing of notice of contracting opportunities.
+Waiver of competitive bidding.—The Librarian of Congress, after consultation with the Joint Committee on the Library of Congress, may enter into contracts under subparagraph (A)(i) to carry out the pilot program during fiscal years 2000 and 2001 without regard to section 3709 of the Revised Statutes \[see 41 U.S.C. 6101\] or any other requirement for competitive contracting or the providing of notice of contracting opportunities.
 
 “(c)
 
@@ -290,7 +290,7 @@ Membership.—The Advisory Board under paragraph (1) shall consist of—
 
 &emsp;&emsp;“(A) two members appointed by the Speaker of the House of Representatives, of whom one shall be designated by the Majority Leader of the House of Representatives and one shall be designated by the Minority Leader of the House of Representatives;
 
-&emsp;&emsp;“(B) two members appointed by the President pro tempore of the Senate, of whom one shall be designated by the Majority Leader of the Senate andone shall be designated by the Minority Leader of the Senate;
+&emsp;&emsp;“(B) two members appointed by the President pro tempore of the Senate, of whom one shall be designated by the Majority Leader of the Senate and one shall be designated by the Minority Leader of the Senate;
 
 &emsp;&emsp;“(C) the Librarian of Congress;
 
@@ -357,4 +357,8 @@ Program.—The term ‘program’ means the grant program established under this
 &emsp;“(4)
 
 Program participant.—The term ‘program participant’ means an eligible Russian selected for participation in the program.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by closing quotation marks.</i>
+
+<i><sup>2</sup></i><i> So in original. No subsec. (i) has been enacted.</i>
 

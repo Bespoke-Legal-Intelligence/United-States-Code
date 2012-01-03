@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For each of fiscal years 2002 through 2012, the Secretary shall use the funds, facilities, and authorities of the Commodity Credit Corporation to carry out the following programs under subchapter IV (including the provision of technical assistance):
+For each of fiscal years 2002 through 2012 (and fiscal year 2014 in the case of the programs specified in paragraphs (3)(B), (4), (6), and (7)), the Secretary shall use the funds, facilities, and authorities of the Commodity Credit Corporation to carry out the following programs under subchapter IV (including the provision of technical assistance):
 
 &emsp;(1) The conservation reserve program under subpart B of part I, including to the maximum extent practicable—
 
@@ -30,7 +30,7 @@ Conservation stewardship program.—The conservation stewardship program under s
 
 &emsp;&emsp;(D) $175,000,000 in fiscal year 2011; and
 
-&emsp;&emsp;(E) $200,000,000 in fiscal year 2012.
+&emsp;&emsp;(E) $200,000,000 in each of fiscal years 2012 through 2014.
 
 &emsp;(5) The grassland reserve program under subpart D of part II.
 
@@ -44,7 +44,7 @@ Conservation stewardship program.—The conservation stewardship program under s
 
 &emsp;&emsp;(D) $1,588,000,000 in fiscal year 2011; and
 
-&emsp;&emsp;(E) $1,750,000,000 in fiscal year 2012.
+&emsp;&emsp;(E) $1,750,000,000 in each of fiscal years 2012 through 2014.
 
 &emsp;(7) The wildlife habitat incentives program under section 3839bb–1 of this title, using, to the maximum extent practicable—
 
@@ -54,7 +54,7 @@ Conservation stewardship program.—The conservation stewardship program under s
 
 &emsp;&emsp;(C) $60,000,000 in fiscal year 2004; and
 
-&emsp;&emsp;(D) $85,000,000 in each of fiscal years 2005 through 2012.
+&emsp;&emsp;(D) $85,000,000 in each of fiscal years 2005 through 2014.
 
 #### (b) Technical assistance
 
@@ -72,7 +72,7 @@ The use of Commodity Credit Corporation funds under subsection (b) of this secti
 
 #### (1) Priority funding to promote equity
 
-&emsp;Before April 1 of each fiscal year, the Secretary shall give priority for funding under the conservation programs under subchapter IV (excluding the conservation reserve program under subpart B of part I, the wetlands reserve program under subpart C of part I, and the conservation security program under subpart A of part II) to approved applications in any State that has not received, for the fiscal year, an aggregate amount of at least $15,000,000 for those conservation programs.
+&emsp;Before April 1 of each fiscal year, the Secretary shall give priority for funding under theconservation programs under subchapter IV (excluding the conservation reserve program under subpart B of part I, the wetlands reserve program under subpart C of part I, and the conservation security program under subpart A of part II) to approved applications in any State that has not received, for the fiscal year, an aggregate amount of at least $15,000,000 for those conservation programs.
 
 #### (2) Specific funding allocations
 
@@ -132,7 +132,7 @@ Beginning in calendar year 2009, and each year thereafter, the Secretary shall s
 
 &emsp;(6) Waivers granted by the Secretary under section 1308–3a(b)(2) of title 7 in order to protect environmentally sensitive land of special significance.
 
-(Pub. L. 99–198, title XII, §1241, as added Pub. L. 107–171, title II, §2701, May 13, 2002, 116 Stat. 278; amended Pub. L. 108–7, div. N, title II, §§213, 216(c), Feb. 20, 2003, 117 Stat. 545, 546; Pub. L. 108–11, title II, §2106(a), Apr. 16, 2003, 117 Stat. 590; Pub. L. 108–199, div. H, §101, Jan. 23, 2004, 118 Stat. 434; Pub. L. 108–324, div. B, §101(e), Oct. 13, 2004, 118 Stat. 1235; Pub. L. 108–498, §1(a), Dec. 23, 2004, 118 Stat. 4020; Pub. L. 109–171, title I, §§1202(b), 1203(c), Feb. 8, 2006, 120 Stat. 5, 6; Pub. L. 110–234, title II, §§2701–2705, May 22, 2008, 122 Stat. 1071–1074; Pub. L. 110–246, §4(a), title II, §§2701–2705, June 18, 2008, 122 Stat. 1664, 1799–1802.)
+(Pub. L. 99–198, title XII, §1241, as added Pub. L. 107–171, title II, §2701, May 13, 2002, 116 Stat. 278; amended Pub. L. 108–7, div. N, title II, §§213, 216(c), Feb. 20, 2003, 117 Stat. 545, 546; Pub. L. 108–11, title II, §2106(a), Apr. 16, 2003, 117 Stat. 590; Pub. L. 108–199, div. H, §101, Jan. 23, 2004, 118 Stat. 434; Pub. L. 108–324, div. B, §101(e), Oct. 13, 2004, 118 Stat. 1235; Pub. L. 108–498, §1(a), Dec. 23, 2004, 118 Stat. 4020; Pub. L. 109–171, title I, §§1202(b), 1203(c), Feb. 8, 2006, 120 Stat. 5, 6; Pub. L. 110–234, title II, §§2701–2705, May 22, 2008, 122 Stat. 1071–1074; Pub. L. 110–246, §4(a), title II, §§2701–2705, June 18, 2008, 122 Stat. 1664, 1799–1802; Pub. L. 112–55, div. A, title VII, §716(d)–(f), Nov. 18, 2011, 125 Stat. 582.)
 
 #### References in Text
 
@@ -140,7 +140,7 @@ This chapter, referred to in subsec. (f)(1), was in the original “this title�
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 Section 2701 of Pub. L. 107–171, which directed that subtitle E of the Food Security Act of 1985 be amended by striking section 1241 and adding a new section 1241 (this section), was executed by striking section 1241 of subtitle E of title XII of the Food Security Act of 1985 and adding the new section 1241 in lieu thereof, to reflect the probable intent of Congress.
 
@@ -151,6 +151,14 @@ A prior section 3841, Pub. L. 99–198, title XII, §1241, as added Pub. L. 104�
 Another prior section 3841, Pub. L. 99–198, title XII, §1241, Dec. 23, 1985, 99 Stat. 1514, related to use of Commodity Credit Corporation, prior to the general amendment of this subchapter by Pub. L. 104–127.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (a). Pub. L. 112–55, §716(e)(1), substituted “2012 (and fiscal year 2014 in the case of the programs specified in paragraphs (3)(B), (4), (6), and (7)),” for “2012,” in introductory provisions.
+
+Subsec. (a)(4)(E). Pub. L. 112–55, §716(e)(2), substituted “each of fiscal years 2012 through 2014” for “fiscal year 2012”.
+
+Subsec. (a)(6)(E). Pub. L. 112–55, §716(d), substituted “each of fiscal years 2012 through 2014” for “fiscal year 2012”.
+
+Subsec. (a)(7)(D). Pub. L. 112–55, §716(f), substituted “2014” for “2012”.
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–246, §2701(a), substituted “2012” for “2007” in introductory provisions.
 

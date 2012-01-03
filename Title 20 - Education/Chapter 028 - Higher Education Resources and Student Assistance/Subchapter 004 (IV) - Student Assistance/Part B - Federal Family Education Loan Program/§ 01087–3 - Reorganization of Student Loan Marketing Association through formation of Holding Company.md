@@ -90,7 +90,7 @@ In the event the shareholders of the Association approve the plan of reorganizat
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The funds and assets of the Association shall at all times be maintained separately from the funds and assets of the HoldingCompany or any subsidiary of the Holding Company and may be used by the Association solely to carry out the Association's purposes and to fulfill the Association's obligations.
+&emsp;&emsp;&emsp;The funds and assets of the Association shall at all times be maintained separately from the funds and assets of the Holding Company or any subsidiary of the Holding Company and may be used by the Association solely to carry out the Association's purposes and to fulfill the Association's obligations.
 
 #### (ii) Books and records
 
@@ -168,7 +168,7 @@ In the event the shareholders of the Association approve a plan of reorganizatio
 
 #### (3) Obligations not transferred to the trust
 
-&emsp;The Association shall make proper provision for all other obligations of the Association not transferred to the trust, including the repurchase or redemption, or the making of proper provision for the repurchase or redemption, of any preferred stock of the Association outstanding. Any obligations of the Association which cannot be fully satisfied shall become liabilities of the Holding Company as of the date of dissolution.
+&emsp;The Association shall make proper provision for all other obligations of the Association nottransferred to the trust, including the repurchase or redemption, or the making of proper provision for the repurchase or redemption, of any preferred stock of the Association outstanding. Any obligations of the Association which cannot be fully satisfied shall become liabilities of the Holding Company as of the date of dissolution.
 
 #### (4) Transfer of remaining assets
 
@@ -192,7 +192,7 @@ In the event the shareholders of the Association approve the plan of reorganizat
 
 #### (3) Use of Sallie Mae name
 
-&emsp;Subject to paragraph (2), the Association may assign to the Holding Company, or any subsidiary of the Holding Company, the “Sallie Mae” name as a trademark or service mark, except that neither the Holding Company nor any subsidiary of the Holding Company (other than the Association or any subsidiary of the Association) may use the “Sallie Mae” name on, or to identify the issuer of, any debt obligation or other security offered or sold by the Holding Company or any subsidiary of the Holding Company (other than a debt obligation or other security issued to and held by the Holding Company or any subsidiary of the Holding Company). The Association shall remit to the account established under section 1155(e) <sup>2</sup> of this title, $5,000,000, within 60 daysof the reorganization effective date as compensation for the right to assign the “Sallie Mae” name as a trademark or service mark.
+&emsp;Subject to paragraph (2), the Association may assign to the Holding Company, or any subsidiary of the Holding Company, the “Sallie Mae” name as a trademark or service mark, except that neither the Holding Company nor any subsidiary of the Holding Company (other than the Association or any subsidiary of the Association) may use the “Sallie Mae” name on, or to identify the issuer of, any debt obligation or other security offered or sold by the Holding Company or any subsidiary of the Holding Company (other than a debt obligation or other security issued to and held by the Holding Company or any subsidiary of the Holding Company). The Association shall remit to the account established under section 1155(e) <sup>2</sup> of this title, $5,000,000, within 60 days of the reorganization effective date as compensation for the right to assign the “Sallie Mae” name as a trademark or service mark.
 
 #### (4) Disclosure required
 

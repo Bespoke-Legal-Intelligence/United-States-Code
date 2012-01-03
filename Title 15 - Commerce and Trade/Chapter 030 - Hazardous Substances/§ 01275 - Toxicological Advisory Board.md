@@ -36,7 +36,7 @@ The Board shall terminate on the date six years after the date it is established
 
 #### References in Text
 
-Section 5703 of title 5, referred to in subsec. (b)(5), was amended generally by Pub. L. 94–22, §4, May 19,1975, 89 Stat. 85, and, as so amended, does not contain a subsec. (b).
+Section 5703 of title 5, referred to in subsec. (b)(5), was amended generally by Pub. L. 94–22, §4, May 19, 1975, 89 Stat. 85, and, as so amended, does not contain a subsec. (b).
 
 #### Amendments
 

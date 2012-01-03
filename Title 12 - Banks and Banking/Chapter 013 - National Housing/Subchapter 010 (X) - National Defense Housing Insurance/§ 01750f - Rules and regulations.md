@@ -6,5 +6,5 @@ The Secretary is authorized and directed to make such rules and regulations as m
 
 #### Amendments
 
-1967—Pub. L. 90–19 substituted “Secretary” for “Commissioner”.
+<b>1967</b>—Pub. L. 90–19 substituted “Secretary” for “Commissioner”.
 

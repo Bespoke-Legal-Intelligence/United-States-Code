@@ -62,5 +62,5 @@ Pub. L. 104–61, title VIII, §8075, Dec. 1, 1995, 109 Stat. 665.
 
 #### Report on Defense Export Loan Guarantee Program
 
-Pub. L. 104–106, div. A, title XIII, §1321(b), Feb. 10, 1996, 110 Stat. 477, provided that, not later than two years after Feb. 10, 1996, the President was to submit to Congress a report on the loan guarantee program established pursuant to this section.
+Pub. L. 104–106, div. A, title XIII, §1321(b), Feb. 10, 1996, 110 Stat. 477, provided that, not later than twoyears after Feb. 10, 1996, the President was to submit to Congress a report on the loan guarantee program established pursuant to this section.
 

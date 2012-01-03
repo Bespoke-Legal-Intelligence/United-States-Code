@@ -34,7 +34,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In developing and implementing such activities, a grantee shall collaborate withthe Centers for Disease Control and Prevention and the Administration on Aging, and relevant local agencies and organizations.
+&emsp;&emsp;&emsp;In developing and implementing such activities, a grantee shall collaborate with the Centers for Disease Control and Prevention and the Administration on Aging, and relevant local agencies and organizations.
 
 #### (ii) Types of intervention activities
 
@@ -78,7 +78,7 @@
 
 #### (III) Uninsured individuals
 
-&emsp;&emsp;&emsp;&emsp;With respect to an individual determined to be uninsured under subclause (I), the grantee's community-based clinical partner described in paragraph (4)(D) <sup>2</sup> shall assist the individual in determining eligibility for available public coverage options and identify other appropriate community health care resources and assistance programs.
+&emsp;&emsp;&emsp;&emsp;With respect to an individual determined to be uninsured under subclause\(I), the grantee's community-based clinical partner described in paragraph (4)(D) <sup>2</sup> shall assist the individual in determining eligibility for available public coverage options and identify other appropriate community health care resources and assistance programs.
 
 #### (iii) Public health intervention program
 
@@ -106,7 +106,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall evaluate community prevention and wellness programs includingthose that are sponsored by the Administration on Aging, are evidence-based, and have demonstrated potential to help Medicare beneficiaries (particularly beneficiaries that have attained 65 years of age) reduce their risk of disease, disability, and injury by making healthy lifestyle choices, including exercise, diet, and self-management of chronic diseases.
+&emsp;&emsp;The Secretary shall evaluate community prevention and wellness programs including those that are sponsored by the Administration on Aging, are evidence-based, and have demonstrated potential to help Medicare beneficiaries (particularly beneficiaries that have attained 65 years of age) reduce their risk of disease, disability, and injury by making healthy lifestyle choices, including exercise, diet, and self-management of chronic diseases.
 
 #### (B) Evaluation
 
@@ -146,11 +146,11 @@
 
 #### (4) Funding
 
-&emsp;For purposes of carrying out this subsection, the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1817 of the Social Security Act (42 U.S.C. 1395i) and the Federal Supplemental <sup>3</sup> Medical Insurance Trust Fund under section 1841 of such Act (42 U.S.C. 1395t), in such proportion as the Secretary determines appropriate, of $50,000,000 to the Centers for Medicare \& Medicaid Services Program Management Account. Amounts transferred under the preceding sentence shall remain available until expended.
+&emsp;For purposes of carrying out this subsection, the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1817 of the Social Security Act (42 U.S.C. 1395i) and the Federal Supplemental <sup>3</sup> Medical Insurance Trust Fund under section 1841 of such Act (42 U.S.C. 1395t), insuch proportion as the Secretary determines appropriate, of $50,000,000 to the Centers for Medicare \& Medicaid Services Program Management Account. Amounts transferred under the preceding sentence shall remain available until expended.
 
 #### (5) Administration
 
-&emsp;Chapter 35 of title 44 shall not apply to the this subsection.
+&emsp;Chapter 35 of title 44 shall not apply to the <sup>4</sup> this subsection.
 
 #### (6) Medicare beneficiary
 
@@ -171,4 +171,6 @@ Section was enacted as part of the Patient Protection and Affordable Care Act, a
 <i><sup>2</sup></i><i> So in original. Paragraph (4) does not contain subpars.</i>
 
 <i><sup>3</sup></i><i> So in original. Probably should be “Supplementary”.</i>
+
+<i><sup>4</sup></i><i> So in original. The word “the” probably should not appear.</i>
 

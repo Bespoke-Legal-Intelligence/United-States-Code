@@ -2,7 +2,7 @@
 
 (a) Notwithstanding any other provisions of this Act, the authority contained in titles II or III of this Act shall not be exercised in any area unless the President shall have determined that such area is a critical defense housing area.
 
-(b) No area shall be determined to be a critical defense housing area pursuant to this section unless the President finds that in such area all the following conditions exist:
+(b) No area shall be determined to be a critical defense housing area pursuant to this sectionunless the President finds that in such area all the following conditions exist:
 
 &emsp;(1) a new defense plant or installation has been or is to be provided, or an existing defense plant or installation has been or is to be reactivated or its operation substantially expanded;
 

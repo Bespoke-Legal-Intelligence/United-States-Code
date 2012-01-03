@@ -154,11 +154,11 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Pub. L. 110–246, §14213(a)(1), substituted “Department of Agriculture educational, training, and professional development activities” for “Operation of Graduate School of Department of Agriculture as nonappropriated fund instrumentality” in section catchline.
+<b>2008</b>—Pub. L. 110–246, §14213(a)(1), substituted “Department of Agriculture educational, training, and professional development activities” for “Operation of Graduate School of Department of Agriculture as nonappropriated fund instrumentality” in section catchline.
 
 Subsec. (b). Pub. L. 110–246, §14213(a)(2), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “On and after April 4, 1996, the Graduate School of the Department of Agriculture shall continue to operate as a nonappropriated fund instrumentality of the United States under the jurisdiction of the Department of Agriculture.”
 
-2002—Subsec. (k). Pub. L. 107–171 added subsec. (k).
+<b>2002</b>—Subsec. (k). Pub. L. 107–171 added subsec. (k).
 
 #### Effective Date of 2008 Amendment
 

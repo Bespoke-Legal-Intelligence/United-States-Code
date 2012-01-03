@@ -6,5 +6,5 @@ Applications for plant variety protection and their contents shall be kept in co
 
 #### Amendments
 
-1980—Pub. L. 96–574 inserted provisions relating to name of applicant and sale of the variety.
+<b>1980</b>—Pub. L. 96–574 inserted provisions relating to name of applicant and sale of the variety.
 

@@ -12,9 +12,9 @@ Section was formerly classified to section 377 of this title. See section 361g o
 
 #### Amendments
 
-2008—Pub. L. 110–246, §7404(b)(1), in first sentence, struck out before period at end “under penalty indicia: <i>Provided, however</i>, That each publication shall bear such indicia as are prescribed by the United States Postal Service and shall be mailed under such regulations as the United States Postal Service may from time to time prescribe”.
+<b>2008</b>—Pub. L. 110–246, §7404(b)(1), in first sentence, struck out before period at end “under penalty indicia: <i>Provided, however</i>, That each publication shall bear such indicia as are prescribed by the United States Postal Service and shall be mailed under such regulations as the United States Postal Service may from time to time prescribe”.
 
-1955—Act Aug. 11, 1955, amended section generally to authorize free mailing of publications by the agricultural experiment stations. For provisions which related to the unexpended balance of annual appropriation, see section 361g of this title.
+<b>1955</b>—Act Aug. 11, 1955, amended section generally to authorize free mailing of publications by the agricultural experiment stations. For provisions which related to the unexpended balance of annual appropriation, see section 361g of this title.
 
 #### Effective Date of 2008 Amendment
 

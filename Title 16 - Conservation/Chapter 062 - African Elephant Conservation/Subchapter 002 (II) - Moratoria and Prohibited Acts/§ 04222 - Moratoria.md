@@ -30,7 +30,7 @@ The Secretary shall establish a moratorium on the importation of raw and worked 
 
 #### (c) Suspension of moratorium
 
-The Secretary shall suspend a moratorium established under this section if, after notice andpublic comment, the Secretary determines that the reasons for establishing the moratorium no longer exist.
+The Secretary shall suspend a moratorium established under this section if, after notice and public comment, the Secretary determines that the reasons for establishing the moratorium no longer exist.
 
 #### (d) Petition
 

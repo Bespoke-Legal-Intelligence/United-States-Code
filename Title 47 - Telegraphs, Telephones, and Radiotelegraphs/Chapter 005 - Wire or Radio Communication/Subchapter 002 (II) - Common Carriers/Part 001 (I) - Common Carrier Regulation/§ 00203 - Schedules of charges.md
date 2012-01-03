@@ -2,7 +2,7 @@
 
 #### (a) Filing; public display
 
-Every common carrier, except connecting carriers, shall, within such reasonable time as the Commission shall designate, file with the Commission and print and keep open for public inspection schedules showing all charges for itself and its connecting carriers for interstate and foreign wire or radio communication between the different points on its own system, and between points on its own system and points on the system of its connecting carriers or points on the system of any other carrier subject to this chapter when a through route has been established, whether such charges are joint or separate, and showing the classifications, practices, and regulations affecting such charges. Such schedules shall contain such other information, and be printed in such form, and be posted and kept open for public inspection in such places, as the Commission may by regulation require, and each such schedule shall give notice of its effective date; and such common carrier shall furnish such schedules to each of its connecting carriers, and such connecting carriers shall keep such schedules open for inspection in such public places as the Commission may require.
+Every common carrier, except connecting carriers, shall, within such reasonable time as the Commission shall designate, file with the Commission and print and keep open for public inspection schedules showing all charges for itself and its connecting carriers for interstate and foreign wire or radio communication between the different points on its own system, and between points on its own system and points on the system of its connecting carriers or points on the system of any other carrier subject to this chapter when a through route has been established, whether such charges are joint or separate, and showing the classifications, practices, and regulations affecting such charges. Such schedules shall contain such other information,and be printed in such form, and be posted and kept open for public inspection in such places, as the Commission may by regulation require, and each such schedule shall give notice of its effective date; and such common carrier shall furnish such schedules to each of its connecting carriers, and such connecting carriers shall keep such schedules open for inspection in such public places as the Commission may require.
 
 #### (b) Changes in schedule; discretion of Commission to modify requirements
 
@@ -24,11 +24,15 @@ In case of failure or refusal on the part of any carrier to comply with the prov
 
 (June 19, 1934, ch. 652, title II, §203, 48 Stat. 1070; Pub. L. 94–376, §1, Aug. 4, 1976, 90 Stat. 1080; Pub. L. 101–239, title III, §3002(b), Dec. 19, 1989, 103 Stat. 2131; Pub. L. 101–396, §7, Sept. 28, 1990, 104 Stat. 850.)
 
+#### References in Text
+
+This chapter, referred to in subsecs. (a) and (c), was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
+
 #### Amendments
 
 <b>1990</b>—Subsec. (b). Pub. L. 101–396 substituted “one hundred and twenty days” for “ninety days” in pars. (1) and (2).
 
 <b>1989</b>—Subsec. (e). Pub. L. 101–239 substituted “$6,000” for “$500” and “$300” for “$25”.
 
-<b>1976</b>—Subsec. (b). Pub. L. 94–376 designated existing provisions as par. (1), substituted “after ninety days notice” for “after thirty days’ notice”, and struck out provision that the Commission may, in its discretionand for good cause shown, modify the requirements made by or under authority of this section in particular instances or by a general order applicable to special circumstances or conditions, and added par. (2).
+<b>1976</b>—Subsec. (b). Pub. L. 94–376 designated existing provisions as par. (1), substituted “after ninety days notice” for “after thirty days’ notice”, and struck out provision that the Commission may, in its discretion and for good cause shown, modify the requirements made by or under authority of this section in particular instances or by a general order applicable to special circumstances or conditions, and added par. (2).
 

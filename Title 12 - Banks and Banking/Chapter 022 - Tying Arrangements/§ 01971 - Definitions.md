@@ -6,7 +6,7 @@ As used in this chapter, the terms “bank”, “bank holding company”, “su
 
 #### Amendments
 
-1999—Pub. L. 106–102 inserted at end “For purposes of this chapter, a financial subsidiary of a national bank engaging in activities pursuant to section 24a(a) of this title shall be deemed to be a subsidiary of a bank holding company, and not a subsidiary of a bank.”
+<b>1999</b>—Pub. L. 106–102 inserted at end “For purposes of this chapter, a financial subsidiary of a national bank engaging in activities pursuant to section 24a(a) of this title shall be deemed to be a subsidiary of a bank holding company, and not a subsidiary of a bank.”
 
 #### Effective Date of 1999 Amendment
 

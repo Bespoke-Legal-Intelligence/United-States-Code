@@ -20,7 +20,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Pub. L. 110–246, §6028, amended section generally. Prior to amendment, section related to purpose of this subchapter.
+<b>2008</b>—Pub. L. 110–246, §6028, amended section generally. Prior to amendment, section related to purpose of this subchapter.
 
 #### Effective Date of 2008 Amendment
 

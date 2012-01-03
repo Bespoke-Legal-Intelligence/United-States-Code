@@ -158,13 +158,13 @@ Pub. L. 98–369, §621, redesignated subsec. (n), relating to cross references,
 
 <b>1983</b>—Subsec. (m). Pub. L. 97–424, §547(a), added subsec. (m). Former subsec. (m) redesignated (n).
 
-Pub. L. 97–473 amended subsec. (m) generally, adding pars. (1) and (2), redesignating former pars. (1) to (3) as\(3) to (5), respectively, and striking out par. (24) which had provided reference regarding exempt-interest dividends to section 852(b)(5)(B.) See section 722(b) of Pub. L. 98–369, set out as a note below.
+Pub. L. 97–473 amended subsec. (m) generally, adding pars. (1) and (2), redesignating former pars. (1) to (3) as (3) to (5), respectively, and striking out par. (24) which had provided reference regarding exempt-interest dividends to section 852(b)(5)(B.) See section 722(b) of Pub. L. 98–369, set out as a note below.
 
 Subsec. (n). Pub. L. 97–424, §547(a), redesignated former subsec. (m), relating to cross references, as (n).
 
 <b>1982</b>—Subsec. (b)(2). Pub. L. 97–248, §215(b)(2), substituted “For purposes of this section” for “For purposes of this subsection”.
 
-Subsec. (b)(4). Pub. L. 97–248, §§217(a)(1), (b), 221(a), (c)(1), 310(c)(1), in subpar. (A) substituted “if at all times during the qualified project period” for “if each obligation issued pursuant to the issue is in registered form and if” after “residential rental property”, and struck out “(within the meaning of section 167(k)(3)(B))” after “low or moderate income”, added subpar. (J), struck out provision that for purposes of subpar. (A), “targeted area project” meant a project located in a qualified census tract (within the meaning of section 103A(k)(2)) or an area of chronic economic distress (within the meaning of section 103A(k)(3)) and, in last sentence, substituted “electric energy or gas from” for “electric energy from”.
+Subsec. (b)(4). Pub. L. 97–248, §§217(a)(1), (b), 221(a), (c)(1), 310(c)(1), in subpar. (A) substituted “if at all times during the qualified project period” for “if each obligation issued pursuant to the issue is in registeredform and if” after “residential rental property”, and struck out “(within the meaning of section 167(k)(3)(B))” after “low or moderate income”, added subpar. (J), struck out provision that for purposes of subpar. (A), “targeted area project” meant a project located in a qualified census tract (within the meaning of section 103A(k)(2)) or an area of chronic economic distress (within the meaning of section 103A(k)(3)) and, in last sentence, substituted “electric energy or gas from” for “electric energy from”.
 
 Subsec. (b)(6)(C). Pub. L. 97–248, §217(a)(3), substituted “paragraph (13)” for “paragraph (7)”.
 
@@ -250,7 +250,7 @@ Subsec. (c). Pub. L. 94–455, §§1901(a)(17)(B), (D), (b)(8)(B), 1906(b)(13)(A
 
 Subsec. (d). Pub. L. 94–455, §1901(a)(17)(B), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 
-Subsec. (e). Pub. L. 94–455, §§1901(a)(17)(B), (E), 2105(b), 2137(d), added subsec. (e) relating to qualified scholarship funding bonds, redesignated former subsec. (f) relating to cross references as a second subsec. (e), reduced the number of cross references in subsec. (e) as so redesignated from twenty-three (which made reference to various obligations of the United States and of corporations organized under Acts of Congress) to three, relating, respectively, to Puerto Rican bonds, Virgin Islands insular and municipal bonds, and certain obligations issued under title I of the Housing Act of1949, and inserted a fourth cross reference, designated as par. (24) relating to the treatment of exempt-interest dividends. Former subsec. (e) redesignated (d).
+Subsec. (e). Pub. L. 94–455, §§1901(a)(17)(B), (E), 2105(b), 2137(d), added subsec. (e) relating to qualified scholarship funding bonds, redesignated former subsec. (f) relating to cross references as a second subsec. (e), reduced the number of cross references in subsec. (e) as so redesignated from twenty-three (which made reference to various obligations of the United States and of corporations organized under Acts of Congress) to three, relating, respectively, to Puerto Rican bonds, Virgin Islands insular and municipal bonds, and certain obligations issued under title I of the Housing Act of 1949, and inserted a fourth cross reference, designated as par. (24) relating to the treatment of exempt-interest dividends. Former subsec. (e) redesignated (d).
 
 Subsec. (f). Pub. L. 94–455, §1901(a)(17)(B), redesignated subsec. (f), relating to cross references, as (e).
 
@@ -469,7 +469,7 @@ In general.—Except as otherwise provided in this subtitle, the amendments made
 
 &emsp;“(2)
 
-Obligations invested in federally insured deposits.—Notwithstanding any other provision ofthis section, clause (ii) of section 103(h)(2)(B) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by this subtitle) shall apply to obligations issued after April 14, 1983; except that such clause shall not apply to any obligation issued pursuant to a binding contract in effect on March 4, 1983.
+Obligations invested in federally insured deposits.—Notwithstanding any other provision of this section, clause (ii) of section 103(h)(2)(B) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by this subtitle) shall apply to obligations issued after April 14, 1983; except that such clause shall not apply to any obligation issued pursuant to a binding contract in effect on March 4, 1983.
 
 &emsp;“(3)
 
@@ -851,7 +851,7 @@ Tax increment bonds.—The amendment made by section 626(a) of the Tax Reform Ac
 
 &emsp;“(B) all of the activities described in subparagraph (A) are pursuant to a redevelopment plan adopted by the issuing authority before the issuance of such issue,
 
-&emsp;“(C) repayment of such issue is secured exclusively by pledges of that portion of any increase in realproperty tax revenues (or their equivalent) attributable to the redevelopment resulting from the issue (or similar issues), and
+&emsp;“(C) repayment of such issue is secured exclusively by pledges of that portion of any increase in real property tax revenues (or their equivalent) attributable to the redevelopment resulting from the issue (or similar issues), and
 
 &emsp;“(D) none of the property described in subparagraph (A) is subject to a real property or other tax based on a rate or valuation method which differs from the rate and valuation method applicable to any other similar property located within the jurisdiction of the issuing authority.
 
@@ -955,13 +955,13 @@ Section 628(f) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22
 
 #### Small Issue Limit in Case of Certain Urban Development Action Grants
 
-Section 628(h) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “In the case of any obligation issued on December 11,1981, section 103(b)(6)(I) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall be applied by substituting ‘$15,000,000’ for ‘$10,000,000’ if—
+Section 628(h) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “In the case of any obligation issued on December 11, 1981, section 103(b)(6)(I) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall be applied by substituting ‘$15,000,000’ for ‘$10,000,000’ if—
 
 &emsp;“(1) such obligation is part of an issue,
 
 &emsp;“(2) substantially all of the proceeds of such issue are used to provide facilities with respect to which an urban development action grant under section 119 of the Housing and Community Development Act of 1974 \[42 U.S.C. 5318\] was preliminarily approved by the Secretary of Housing and Urban Development on January 10, 1980, and
 
-&emsp;“(3) the Secretary of Housing and Urban Development determines, at the time such grant is approved, that the amount of such grant will equal or exceed 5 percent of the total capital expenditures incurred with respect to such facilities.”
+&emsp;“(3) the Secretary of Housing and Urban Development determines, at the time such grant is approved, that the amount of such grant will equal or exceed 5percent of the total capital expenditures incurred with respect to such facilities.”
 
 #### Student Loan Bonds
 
@@ -1059,7 +1059,7 @@ In general.—The Comptroller General of the United States and the Director of t
 
 &emsp;“(2)
 
-Report.—The Comptroller General of the United States and the Director of the Congressional Budget Office, shall submit to the Committee on Finance and the Committee on Labor and Human Resources \[now Committee on Health, Education, Labor, and Pensions\] of the Senate and the Committee on Ways and Means and the Committee on Education and Labor of the House of Representatives reports on the studies conducted under paragraph (1) by no later than 9 months after the date of enactment of this Act \[July 18, 1984\].”
+Report.—The Comptroller General of the United States and the Director of the Congressional Budget Office, shall submit to the Committee on Finance and the Committee on Labor and Human Resources \[now Committee on Health, Education, Labor, and Pensions\] of the Senate and the Committee on Ways and Means and the Committee on Education and Labor \[now Committee on Education and the Workforce\] of the House of Representatives reports on the studies conducted under paragraph (1) by no later than 9 months after the date of enactment of this Act \[July 18, 1984\].”
 
 #### Obligations Issued To Provide Solid Waste-Energy Producing Facilities
 
@@ -1081,7 +1081,7 @@ Solid waste-energy producing facilities.—For purposes of paragraph (1), the te
 
 “(3)
 
-Solid waste disposal facility.—For purposes of paragraph (2), the term ‘solid waste disposal facility’ means any solid waste disposal facility within the meaning of section 103(b)(4)(E) of the Internal Revenue Code of 1986 (determined without regard to section 103(g) of such Code).
+Solid waste disposal facility.—For purposes of paragraph (2), the term ‘solid waste disposal facility’ means any solid waste disposal facility within the meaning of section 103(b)(4)(E) of the Internal RevenueCode of 1986 (determined without regard to section 103(g) of such Code).
 
 “(4)
 

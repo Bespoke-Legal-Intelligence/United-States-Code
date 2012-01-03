@@ -118,5 +118,5 @@ As used in this chapter—
 
 #### Amendments
 
-1991—Par. (22). Pub. L. 102–237 substituted “in-shell” for “inshell”.
+<b>1991</b>—Par. (22). Pub. L. 102–237 substituted “in-shell” for “inshell”.
 

@@ -8,7 +8,7 @@ Officers Below the Grade of Colonel or Navy Captain.—An officer on the reserve
 
 Officers Twice Failed of Selection.—An officer shall be considered for all purposes to have twice failed of selection for promotion if any of the following applies:
 
-&emsp;(1) The officer is considered but not recommended for promotion a second time by a mandatory promotion board convened under section 14101(a) or a special selection board convened under section 14502(a) of this title.
+&emsp;(1) The officer is considered but not recommended for promotion a second time by amandatory promotion board convened under section 14101(a) or a special selection board convened under section 14502(a) of this title.
 
 &emsp;(2) The officer declines to accept a promotion for which recommended by a mandatory promotion board convened under section 14101(a) or a special selection board convened under section 14502(a) or 14502(b) of this title after previously failing of selection or after the officer's name was removed from the report of a selection board under section 14111(b) or from a promotion list under section 14310 of this title after recommendation for promotion by an earlier selection board described in subsection (a).
 

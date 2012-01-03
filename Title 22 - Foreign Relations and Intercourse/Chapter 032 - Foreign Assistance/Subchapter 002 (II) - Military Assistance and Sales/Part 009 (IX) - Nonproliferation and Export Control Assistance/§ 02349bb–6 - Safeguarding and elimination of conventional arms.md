@@ -34,3 +34,103 @@ Nothing in this section shall be construed to affect the authorities of the Secr
 
 Section was enacted as part of the Department of State Authorities Act of 2006, and not as part of the Foreign Assistance Act of 1961 which comprises this chapter.
 
+#### Man-Portable Air-Defense Systems Originating From Libya
+
+Pub. L. 112–81, div. A, title XII, §1235, Dec. 31, 2011, 125 Stat. 1638, provided that:
+
+“(a)
+
+Statement of Policy.—Pursuant to section 11 of the Department of State Authorities Act of 2006 (22 U.S.C. 2349bb–6), the following is the policy of the United States:
+
+&emsp;“(1) To reduce and mitigate, to the greatest extent feasible, the threat posed to United States citizens and citizens of allies of the United States by man-portable air-defense systems (MANPADS) that were in Libya as of March 19, 2011.
+
+&emsp;“(2) To seek the cooperation of, and to assist, the Government of Libya and governments of neighboring countries and other countries (as determined by the President) to secure, remove, or eliminate stocks of man-portable air-defense systems described in paragraph (1) that pose a threat to United States citizens and citizens of allies of the United States.
+
+&emsp;“(3) To pursue, as a matter of priority, an agreement with the Government of Libya and governments of neighboring countries and other countries (as determined by the Secretary of State) to formalize cooperation with the United States to limit the availability, transfer, and proliferation of man-portable air-defense systems described in paragraph (1).
+
+“(b)
+
+Intelligence Community Assessment on MANPADS in Libya.—
+
+&emsp;“(1)
+
+In general.—The Director of National Intelligence shall submit to the appropriate committees of Congress an assessment by the intelligence community that accounts for the disposition of, and the threat to United States citizens and citizens of allies of the United States posed by man-portable air-defense systems that were in Libya as of March 19, 2011. The assessment shall be submitted as soon as practicable, but not later than the end of the 45-day period beginning on the date of the enactment of this Act \[Dec. 31, 2011\].
+
+&emsp;“(2)
+
+Elements.—The assessment submitted under this subsection shall include the following:
+
+&emsp;&emsp;“(A) An estimate of the number of man-portable air-defense systems that were in Libya as of March 19, 2011.
+
+&emsp;&emsp;“(B) An estimate of the number of man-portable air-defense systems in Libya as of March 19, 2011, that are currently in the secure custody of the Government of Libya, the United States, an ally of the United States, a member of the North Atlantic Treaty Organization (NATO), or the United Nations.
+
+&emsp;&emsp;“(C) An estimate of the number of man-portable air-defense systems in Libya as of March 19, 2011, that were destroyed, disabled, or otherwise rendered unusable during Operation Unified Protector and since the end of Operation Unified Protector.
+
+&emsp;&emsp;“(D) An assessment of the number of man-portable air-defense systems that is the difference between the number of man-portable air-defense systems in Libya as of March 19, 2011, and the cumulative number of man-portable air-defense systems accounted for under subparagraphs (B) and (C), and the current disposition and locations of such man-portable air-defense systems.
+
+&emsp;&emsp;“(E) An assessment of the number of man-portable air-defense systems that are currently in the custody of militias in Libya.
+
+&emsp;&emsp;“(F) A list of any organizations designated as terrorist organizations by the Department of State, or affiliate organizations or members of such organizations, that are known or believed to have custody of any man-portable air-defense systems that were in the custody of the Government of Libya as of March 19, 2011.
+
+&emsp;&emsp;“(G) An assessment of the threat posed to United States citizens and citizens of allies of the United States from unsecured man-portable air-defense systems (as defined in section 11 of the Department of State Authorities Act of 2006) originating from Libya.
+
+&emsp;&emsp;“(H) An assessment of the effect of the proliferation of man-portable air-defense systems that were in Libya as of March 19, 2011, on the price and availability of man-portable air-defense systems that are on the global arms market.
+
+&emsp;“(3)
+
+Notice regarding delay in submittal.—If, before the end of the 45-day period specified in paragraph (1), the Director determines that the assessment required by that paragraph cannot be submitted by the end of that period as required by that paragraph, the Director shall (before the end of that period) submit to the appropriate committees of Congress a report setting forth—
+
+&emsp;&emsp;“(A) the reasons why the assessment cannot be submitted by the end of that period; and
+
+&emsp;&emsp;“(B) an estimated date for the submittal of the assessment.
+
+“(c)
+
+Comprehensive Strategy on Threat of MANPADS Originating From Libya.—
+
+&emsp;“(1)
+
+Strategy required.—The President shall develop and implement, and from time to time update, a comprehensive strategy, pursuant to section 11 of the Department of State Authorities Act of 2006 \[22 U.S.C. 2349bb–6\], to reduce and mitigate the threat posed to United States citizens and citizens of allies of the United States from man-portable air-defense systems that were in Libya as of March 19, 2011.
+
+&emsp;“(2)
+
+Report required.—
+
+&emsp;&emsp;“(A)
+
+In general.—Not later than 45 days after the assessment required by subsection (b) is submitted to the appropriate committees of Congress, the President shall submit to the appropriate committees of Congress a report setting forth the strategy required by paragraph (1).
+
+&emsp;&emsp;“(B)
+
+Elements.—The report required by this paragraph shall include the following:
+
+&emsp;&emsp;&emsp;“(i) An assessment of the effectiveness of efforts undertaken to date by the United States, Libya, Mauritania, Egypt, Algeria, Tunisia, Mali, Morocco, Niger, Chad, the United Nations, the North Atlantic Treaty Organization, and any other country or entity (as determined by the President) to reduce the threat posed to United States citizens and citizens of allies of the United States from man-portable air-defense systems that were in Libya as of March 19, 2011.
+
+&emsp;&emsp;&emsp;“(ii) A timeline for future efforts by the United States, Libya, and neighboring countries to—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) secure, remove, or disable any man-portable air-defense systems that remain in Libya;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) counter proliferation of man-portable air-defense systems originating from Libya that are in the region; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) disrupt the ability of terrorists, non-state actors, and state sponsors of terrorism to acquire such man-portable air-defense systems.
+
+&emsp;&emsp;&emsp;“(iii) A description of any additional funding required to address the threat of man-portable air-defense systems originating from Libya.
+
+&emsp;&emsp;&emsp;“(iv) A description of technologies currently available to reduce the susceptibility and vulnerability of civilian aircraft to man-portable air-defense systems, including an assessment of the feasibility of using aircraft-based anti-missile systems to protect United States passenger jets.
+
+&emsp;&emsp;&emsp;“(v) Recommendations for the most effective policy measures that can be taken to reduce and mitigate the threat posed to United States citizens and citizens of allies of the United States from man-portable air-defense systems that were in Libya as of March 19, 2011.
+
+&emsp;&emsp;&emsp;“(vi) Such recommendations for legislative or administrative action as the President considers appropriate to implement the strategy required by paragraph (1).
+
+&emsp;&emsp;“(C)
+
+Form.—The report required by this paragraph shall be submitted in unclassified form, but may include a classified annex.
+
+“(d)
+
+Appropriate Committees of Congress Defined.—In this section, the term ‘appropriate committees of Congress’ means—
+
+&emsp;“(1) the Committee on Armed Services, the Committee on Foreign Relations, and the Select Committee on Intelligence of the Senate; and
+
+&emsp;“(2) the Committee on Armed Services, the Committee on Foreign Affairs, and the Permanent Select Committee on Intelligence of the House of Representatives.”
+

@@ -248,7 +248,7 @@ The purposes of this section are—
 
 &emsp;&emsp;(D) 1 member from a city within a 25-mile radius of the Opal Creek Scenic Recreation Area, to be designated by the Governor of the State of Oregon from a list of candidates provided by the mayors of the cities located within a 25-mile radius of the Opal Creek Scenic Recreation Area; and
 
-&emsp;&emsp;(E) not more than 9 members shall be appointed by the Secretary from among persons who, individually or through association with a national or local organization, have an interest in the administration of the Scenic Recreation Area, including, but not limited to, representatives of the timber industry, environmental organizations, the mining industry, inholders in the Opal Creek Wilderness and Scenic Recreation Area, economic development interests and Indian tribes.
+&emsp;&emsp;(E) not more than 9 members shall be appointed by the Secretary from among persons who, individually or through association with a national or local organization, have an interest in the administration of the Scenic Recreation Area, including, but not limited to, representatives of the timber industry, environmental organizations, the mining industry, inholders in the Opal CreekWilderness and Scenic Recreation Area, economic development interests and Indian tribes.
 
 #### (3) Staggered terms
 
@@ -322,7 +322,7 @@ The purposes of this section are—
 
 #### (1) Authorization
 
-&emsp;Notwithstanding any other law, if the Rosboro Lumber Company (referred to in this subsection as “Rosboro”) offers and conveys marketable title to the United States to the land described in paragraph (2), the Secretary of Agriculture shall convey all right, title andinterest held by the United States to sufficient lands described in paragraph (3) to Rosboro, in the order in which they appear in this subsection, as necessary to satisfy the equal value requirements of paragraph (4).
+&emsp;Notwithstanding any other law, if the Rosboro Lumber Company (referred to in this subsection as “Rosboro”) offers and conveys marketable title to the United States to the land described in paragraph (2), the Secretary of Agriculture shall convey all right, title and interest held by the United States to sufficient lands described in paragraph (3) to Rosboro, in the order in which they appear in this subsection, as necessary to satisfy the equal value requirements of paragraph (4).
 
 #### (2) Land to be offered by Rosboro
 
@@ -396,7 +396,7 @@ The Endangered Species Act, referred to in subsec. (d)(2)(B), probably means the
 
 The National Forest Management Act, referred to in subsec. (d)(2)(B), probably means the National Forest Management Act of 1976, Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2949, which enacted sections 472a, 521b, 1600, and 1611 to 1614 of this title, amended sections 500, 515, 516, 518, 576b, and 1601 to 1610 of this title, repealed sections 476, 513, and 514 of this title, and enacted provisions set out as notes under sections 476, 513, 528, 594–2, and 1600 of this title. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under section 1600 of this title and Tables.
 
-The Oregon Wilderness Act of 1984, referred to in subsec. (d)(3)(A), is Pub. L. 98–328, June 26, 1984, 98 Stat. 272, which enacted subchapter C (§460<i>oo</i>) of chapter 1 of this title and provisions listed in a table of WildernessAreas set out under section 1132 of this title. For complete classification of this Act to the Code, see Tables.
+The Oregon Wilderness Act of 1984, referred to in subsec. (d)(3)(A), is Pub. L. 98–328, June 26, 1984, 98 Stat. 272, which enacted subchapter C (§460<i>oo</i>) of chapter 1 of this title and provisions listed in a table of Wilderness Areas set out under section 1132 of this title. For complete classification of this Act to the Code, see Tables.
 
 The Federal Power Act, referred to in subsec. (d)(9), is act June 10, 1920, ch. 285, 41 Stat. 1063, which is classified generally to chapter 12 (§791a et seq.) of this title. For complete classification of this Act to the Code, see section 791a of this title and Tables.
 
@@ -404,7 +404,7 @@ The Comprehensive Environmental Response, Compensation, and Liability Act of 198
 
 #### Codification
 
-Section is comprised of section 1023 of Pub. L. 104–333. Subsec. (c)(1)(A) of section 1023 of Pub. L. 104–333 also enacted provisions listed in a table of Wilderness Areas set out under section 1132 of this title. Subsec. (h) of section 1023 of Pub. L. 104–333 amended section 1274 of this title.
+Section is comprised of section 1023 of Pub. L. 104–333. Subsec. (c)(1)(A) of section 1023 of Pub. L. 104–333 alsoenacted provisions listed in a table of Wilderness Areas set out under section 1132 of this title. Subsec. (h) of section 1023 of Pub. L. 104–333 amended section 1274 of this title.
 
 Provisions substantially identical to the text of this section were enacted by title I of div. B of Pub. L. 104–208, Sept. 30, 1996, 110 Stat. 3009–523, known as the Opal Creek Wilderness and Opal Creek Scenic Recreation Area Act of 1996.
 

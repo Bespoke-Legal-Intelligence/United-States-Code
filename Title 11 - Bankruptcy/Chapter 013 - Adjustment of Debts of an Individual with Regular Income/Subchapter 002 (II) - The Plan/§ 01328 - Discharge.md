@@ -54,7 +54,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 1328(a) adopts a provision contained in the Senate amendment permitting the court to approve a waiver of discharge by the debtor. It is anticipated that such a waiver must be in writing executed after the order for relief in a case under chapter 13.
 
@@ -70,7 +70,7 @@ A chapter 13 discharge obtained through fraud and before the moving party gained
 
 #### Amendments
 
-2005—Subsec. (a). Pub. L. 109–8, §330(d)(1), substituted “Subject to subsection (d), as” for “As” in introductory provisions.
+<b>2005</b>—Subsec. (a). Pub. L. 109–8, §330(d)(1), substituted “Subject to subsection (d), as” for “As” in introductory provisions.
 
 Pub. L. 109–8, §314(b), added pars. (1) to (4) and struck out former pars. (1) to (3) which read as follows:
 
@@ -92,13 +92,13 @@ Subsec. (g). Pub. L. 109–8, §106(c), added subsec. (g).
 
 Subsec. (h). Pub. L. 109–8, §330(d)(3), added subsec. (h).
 
-1994—Subsec. (a)(2). Pub. L. 103–394, §501(d)(38)(A), substituted “(5), (8), or (9)” for “(5) or (8)”.
+<b>1994</b>—Subsec. (a)(2). Pub. L. 103–394, §501(d)(38)(A), substituted “(5), (8), or (9)” for “(5) or (8)”.
 
 Subsec. (a)(3). Pub. L. 103–394, §501(d)(38)(B), struck out last par. (3). See 1990 Amendment note below.
 
 Pub. L. 103–394, §302, inserted “, or a criminal fine,” after “restitution”.
 
-1990—Subsec. (a)(1). Pub. L. 101–581, §3(1), and Pub. L. 101–647, §3103(1), made identical amendments striking “or” at end.
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–581, §3(1), and Pub. L. 101–647, §3103(1), made identical amendments striking “or” at end.
 
 Subsec. (a)(2). Pub. L. 101–581, §3(2), and Pub. L. 101–647, §3103(2), made identical amendments substituting “; or” for period at end.
 
@@ -108,7 +108,7 @@ Pub. L. 101–508 substituted “paragraph (5) or (8) of section 523(a)” for �
 
 Subsec. (a)(3). Pub. L. 101–581, §3(3), and Pub. L. 101–647, §3103(3), made identical amendments adding par. (3).
 
-1984—Subsec. (e)(1). Pub. L. 98–353, §532(1), inserted “by the debtor” after “obtained”.
+<b>1984</b>—Subsec. (e)(1). Pub. L. 98–353, §532(1), inserted “by the debtor” after “obtained”.
 
 Subsec. (e)(2). Pub. L. 98–353, §532(2), substituted “the requesting party did not know of such fraud until” for “knowledge of such fraud came to the requesting party”.
 

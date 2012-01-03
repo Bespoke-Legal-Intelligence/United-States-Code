@@ -118,10 +118,6 @@ Subsec. (a). Pub. L. 97–252, §1114(b)(1)(A), designated existing provisions a
 
 Subsec. (b). Pub. L. 97–252, §1114(b)(1)(B), added subsec. (b).
 
-#### Change of Name
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
-
 #### Effective Date of 2001 Amendment
 
 Pub. L. 107–107, div. A, title V, §544(b), Dec. 28, 2001, 115 Stat. 1113, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on July 1, 2002, immediately after the amendment to section 503(c) of title 10, United States Code, made, effective that date, by section 563(a) of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by Public Law 106–398; 114 Stat. 1654A–131).”
@@ -135,6 +131,44 @@ Pub. L. 106–398, §1 \[\[div. A\], title V, §563(d)\], Oct. 30, 2000, 114 Sta
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Policy on Military Recruitment and Enlistment of Graduates of Secondary Schools
+
+Pub. L. 112–81, div. A, title V, §532, Dec. 31, 2011, 125 Stat. 1403, provided that:
+
+“(a)
+
+Equal Treatment for Secondary School Graduates.—
+
+&emsp;“(1)
+
+Equal treatment.—For the purposes of recruitment and enlistment in the Armed Forces, the Secretary of a military department shall treat a graduate described in paragraph (2) in the same manner as a graduate of a secondary school (as defined in section 9101(38) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801(38))\[)\].
+
+&emsp;“(2)
+
+Covered graduates.—Paragraph (1) applies with respect to \[a\] person who—
+
+&emsp;&emsp;“(A) receives a diploma from a secondary school that is legally operating; or
+
+&emsp;&emsp;“(B) otherwise completes a program of secondary education in compliance with the education laws of the State in which the person resides.
+
+“(b)
+
+Policy on Recruitment and Enlistment.—Not later than 180 days after the date of the enactment of this Act \[Dec. 31, 2011\], the Secretary of Defense shall prescribe a policy on recruitment and enlistment that incorporates the following:
+
+&emsp;“(1) Means for identifying persons described in subsection (a)(2) who are qualified for recruitment and enlistment in the Armed Forces, which may include the use of a non-cognitive aptitude test, adaptive personality assessment, or other operational attrition screening tool to predict performance, behaviors, and attitudes of potential recruits that influence attrition and the ability to adapt to a regimented life in the Armed Forces.
+
+&emsp;“(2) Means for assessing how qualified persons fulfill their enlistment obligation.
+
+&emsp;“(3) Means for maintaining data, by each diploma source, which can be used to analyze attrition rates among qualified persons.
+
+“(c)
+
+Recruitment Plan.—As part of the policy required by subsection (b), the Secretary of each of the military departments shall develop a recruitment plan that includes a marketing strategy for targeting various segments of potential recruits with all types of secondary education credentials.
+
+“(d)
+
+Communication Plan.—The Secretary of each of the military departments shall develop a communication plan to ensure that the policy and recruitment plan are understood by military recruiters.”
 
 #### Recruitment and Enlistment of Home-Schooled Students in the Armed Forces
 
@@ -464,7 +498,7 @@ Pub. L. 104–208, div. A, title I, §101(e) \[title V, §514\], Sept. 30, 1996,
 
 #### Military Recruiting on Campus
 
-Pub. L. 103–337, div. A, title V, §558, Oct. 5, 1994, 108 Stat. 2776, as amended by Pub. L. 104–324, title II, §206(a), Oct. 19, 1996, 110 Stat. 3908, which provided that no funds available to the Department of Defense or the Department of Transportation could be provided by grant or contract to any institution of higher education that had a policy of denying or preventing the Secretary of Defense or the Secretary of Transportation from obtaining for military recruiting purposesentry to campuses or access to students on campuses or access to directory information pertaining to students, was repealed and restated in section 983 of this title by Pub. L. 106–65, div. A, title V, §549(a)(1), (b)(1), Oct. 5, 1999, 113 Stat. 609, 611.
+Pub. L. 103–337, div. A, title V, §558, Oct. 5, 1994, 108 Stat. 2776, as amended by Pub. L. 104–324, title II, §206(a), Oct. 19, 1996, 110 Stat. 3908, which provided that no funds available to the Department of Defense or the Department of Transportation could be provided by grant or contract to any institution of higher education that had a policy of denying or preventing the Secretary of Defense or the Secretary of Transportation from obtaining for military recruiting purposes entry to campuses or access to students on campuses or access to directory information pertaining to students, was repealed and restated in section 983 of this title by Pub. L. 106–65, div. A, title V, §549(a)(1), (b)(1), Oct. 5, 1999, 113 Stat. 609, 611.
 
 #### Military Recruiting Information
 

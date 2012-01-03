@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(B) the benefits and risks that may result if such person becomes a debtor in a case under this title; or
 
-&emsp;(4) advise an assisted person or prospective assisted person to incur more debt in contemplation of such person filing a case underthis title or to pay an attorney or bankruptcy petition preparer a fee or charge for services performed as part of preparing for or representing a debtor in a case under this title.
+&emsp;(4) advise an assisted person or prospective assisted person to incur more debt in contemplation of such person filing a case under this title or to pay an attorney or bankruptcy petition preparer a fee or charge for services performed as part of preparing for or representing a debtor in a case under this title.
 
 (b) Any waiver by any assisted person of any protection or right provided under this section shall not be enforceable against the debtor by any Federal or State court or any other person, but may be enforced against a debt relief agency.
 
@@ -60,7 +60,7 @@ The Federal Rules of Bankruptcy Procedure, referred to in subsec. (c)(2)(C), are
 
 #### Amendments
 
-2010—Subsec. (a)(2). Pub. L. 111–327, §2(a)(20)(A), substituted “that is untrue or” for “that is untrue and”.
+<b>2010</b>—Subsec. (a)(2). Pub. L. 111–327, §2(a)(20)(A), substituted “that is untrue or” for “that is untrue and”.
 
 Subsec. (a)(4). Pub. L. 111–327, §2(a)(20)(B), inserted “a” after “preparer”.
 

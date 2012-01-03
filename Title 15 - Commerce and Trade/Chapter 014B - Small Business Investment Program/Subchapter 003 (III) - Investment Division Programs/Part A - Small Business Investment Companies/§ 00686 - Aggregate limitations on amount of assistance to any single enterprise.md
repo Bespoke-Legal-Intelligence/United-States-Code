@@ -6,7 +6,7 @@ If any small business investment company has obtained financing from the Adminis
 
 &emsp;(1) the private capital of such company; and
 
-&emsp;(2) the total amount of leverage projected by the company in the company's business plan that was approved by the Administrator at the time of the grant of the company's license.
+&emsp;(2) the total amount of leverage projected by the company in the company's business planthat was approved by the Administrator at the time of the grant of the company's license.
 
 #### (b) Repealed. Pub. L. 92–595, §2(f), Oct. 27, 1972, 86 Stat. 1316
 
@@ -44,7 +44,7 @@ Amendment by Pub. L. 90–104 effective Jan. 1, 1968, see section 211 of Pub. L.
 
 #### Effective Date of 1961 Amendment
 
-Section 7(b) of Pub. L. 87–341 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply only with respect to obligations and securities acquired by a small business investment company on or after the date of the enactment of this Act \[Oct. 3, 1961\]; except that such amendment shall not apply with respect to any obligations or securities so acquired pursuant to a commitment issued before such date.”
+Pub. L. 87–341, §7(b), Oct. 3, 1961, 75 Stat. 753, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply only with respect to obligations and securities acquired by a small business investment company on or after the date of the enactment of this Act \[Oct. 3, 1961\]; except that such amendment shall not apply with respect to any obligations or securities so acquired pursuant to a commitment issued before such date.”
 
 #### Effect of Small Business Equity Enhancement Act of 1992 on Securities Laws
 

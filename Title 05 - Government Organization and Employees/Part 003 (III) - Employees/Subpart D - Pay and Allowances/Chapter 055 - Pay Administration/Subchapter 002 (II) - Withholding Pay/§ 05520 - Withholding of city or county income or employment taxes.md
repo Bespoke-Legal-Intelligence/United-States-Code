@@ -38,15 +38,15 @@
 
 &emsp;&emsp;(C) the United States Postal Service.
 
-(Added Pub. L. 93–340, §1(a), July 10, 1974, 88 Stat. 294; amended Pub. L. 94–358, §1, July 12,1976, 90 Stat. 910; Pub. L. 95–30, title IV, §408(a), May 23, 1977, 91 Stat. 157; Pub. L. 95–365, §1, Sept. 15, 1978, 92 Stat. 599; Pub. L. 100–180, div. A, title V, §505(2), Dec. 4, 1987, 101 Stat. 1086.)
+(Added Pub. L. 93–340, §1(a), July 10, 1974, 88 Stat. 294; amended Pub. L. 94–358, §1, July 12, 1976, 90 Stat. 910; Pub. L. 95–30, title IV, §408(a), May 23, 1977, 91 Stat. 157; Pub. L. 95–365, §1, Sept. 15, 1978, 92 Stat. 599; Pub. L. 100–180, div. A, title V, §505(2), Dec. 4, 1987, 101 Stat. 1086.)
 
 #### Amendments
 
-1987—Subsec. (a). Pub. L. 100–180 inserted “(other than service described in section 5517(d) of this title)” after “Armed Forces” in penultimate sentence.
+<b>1987</b>—Subsec. (a). Pub. L. 100–180 inserted “(other than service described in section 5517(d) of this title)” after “Armed Forces” in penultimate sentence.
 
-1978—Subsec. (a). Pub. L. 95–365 designated existing provisions as cl. (i), inserted “, or whose regular place of Federal employment is not within,” after “not a resident of”, and added cl. (ii).
+<b>1978</b>—Subsec. (a). Pub. L. 95–365 designated existing provisions as cl. (i), inserted “, or whose regular place of Federal employment is not within,” after “not a resident of”, and added cl. (ii).
 
-1977—Pub. L. 95–30, §408(a)(1), inserted “or county” after “city” in section catchline.
+<b>1977</b>—Pub. L. 95–30, §408(a)(1), inserted “or county” after “city” in section catchline.
 
 Subsec. (a). Pub. L. 95–30, §408(a)(2), (3), substituted “city or county” for “city” in introductory provisions preceding par. (1), in par. (2), and in provisions following par. (2), and, in par. (1), substituted “a designated city or county officer, department, or instrumentality” for “the city”.
 
@@ -54,7 +54,7 @@ Subsec. (b). Pub. L. 95–30, §408(a)(2), substituted “city or county” for 
 
 Subsec. (c). Pub. L. 95–30, §408(a)(4), (5), added pars. (2) and (3) and redesignated former par. (2) as (4).
 
-1976—Subsec. (c)(1). Pub. L. 94–358 substituted provision defining a city, for purposes of this section, as any unit of general local government which is classified a municipality by the Bureau of the Census, or is a town or township which in the opinion of the Secretary of the Treasury possesses powers and performs functions comparable to those associated with municipalities, is closely settled, and contains within its boundaries no incorporated places, as defined by the Bureau of the Census, within the political boundaries of which five hundred or more persons are regularly employed by all agencies of the Federal Government, for provision defining a city, for purposes of this section, as a city which is duly incorporated under the laws of a State and within the political boundaries of which five hundred or more persons are regularly employed by all agencies of the Federal Government.
+<b>1976</b>—Subsec. (c)(1). Pub. L. 94–358 substituted provision defining a city, for purposes of this section, as any unit of general local government which is classified a municipality by the Bureau of the Census, or is a town or township which in the opinion of the Secretary of the Treasury possesses powers and performs functions comparable to those associated with municipalities, is closely settled, and contains within its boundaries no incorporated places, as defined by the Bureau of the Census, within the political boundaries of which five hundred or more persons are regularly employed by all agencies of the Federal Government, for provision defining a city, for purposes of this section, as a city which is duly incorporated under the laws of a State and within the political boundaries of which five hundred or more persons are regularly employed by all agencies of the Federal Government.
 
 #### Effective Date of 1978 Amendment
 
@@ -74,7 +74,7 @@ Section 3 of Pub. L. 93–340 provided that: “This section shall become effect
 
 #### Executive Order No. 11833
 
-Ex. Ord. No. 11833, Jan. 13, 1975, 40 F.R. 2673, which related to the withholding of city income or employment taxes by Federal agencies, was revoked by Ex. Ord. No. 11863, June 12, 1975, 40 F.R. 25413, formerly set out below.
+Ex. Ord. No. 11833, Jan. 13, 1975, 40 F.R. 2673, which related to the withholding of city income or employmenttaxes by Federal agencies, was revoked by Ex. Ord. No. 11863, June 12, 1975, 40 F.R. 25413, formerly set out below.
 
 #### Executive Order No. 11863
 
@@ -98,7 +98,7 @@ Sec. 3. The head of each agency shall designate, or provide for the designation 
 
 Sec. 4. The Secretary of the Treasury is authorized to prescribe additional regulations to implement Sections 5516, 5517 and 5520 of Title 5 of the United States Code, and this Order.
 
-Sec. 5. Executive Order No. 11968 of January 31, 1977, is hereby revoked. However, all actions heretofore taken by the President or his delegates in respect of the matters affected by this Order and in force at the time of the issuance of this Order, including any regulations prescribed or approved by the President or his delegates in respect of such matters and any existing agreements approved by his delegates, shall, except as they may be inconsistent with the provisions of thisOrder, remain in effect until amended, modified, or revoked pursuant to the authority conferred by this Order, unless sooner terminated by operation of law.
+Sec. 5. Executive Order No. 11968 of January 31, 1977, is hereby revoked. However, all actions heretofore taken by the President or his delegates in respect of the matters affected by this Order and in force at the time of the issuance of this Order, including any regulations prescribed or approved by the President or his delegates in respect of such matters and any existing agreements approved by his delegates, shall, except as they may be inconsistent with the provisions of this Order, remain in effect until amended, modified, or revoked pursuant to the authority conferred by this Order, unless sooner terminated by operation of law.
 
 Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

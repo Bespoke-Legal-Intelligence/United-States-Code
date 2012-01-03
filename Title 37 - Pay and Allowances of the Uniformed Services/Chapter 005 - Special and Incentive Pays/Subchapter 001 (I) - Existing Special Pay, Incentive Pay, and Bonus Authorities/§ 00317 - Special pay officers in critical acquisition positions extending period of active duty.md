@@ -18,7 +18,7 @@ Amount of Bonus.—The amount of a bonus paid under this section for each year a
 
 (d)
 
-Payment of Bonus.—Upon the acceptance of a written agreement under subsection (a) bythe Secretary concerned, the total amount payable pursuant to the agreement becomes fixed and may be paid by the Secretary in either a lump sum or installments.
+Payment of Bonus.—Upon the acceptance of a written agreement under subsection (a) by the Secretary concerned, the total amount payable pursuant to the agreement becomes fixed and may be paid by the Secretary in either a lump sum or installments.
 
 (e)
 

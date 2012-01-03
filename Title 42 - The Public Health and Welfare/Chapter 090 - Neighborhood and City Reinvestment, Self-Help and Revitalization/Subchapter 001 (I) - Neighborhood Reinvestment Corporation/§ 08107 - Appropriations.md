@@ -4,7 +4,7 @@
 
 (1) There are authorized to be appropriated to the corporation to carry out this subchapter $29,476,000 for fiscal year 1993 and $30,713,992 for fiscal year 1994. Not more than 15 percent of any amount appropriated under this paragraph for any fiscal year may be used for administrative expenses.
 
-(2) Of the amount appropriated pursuant to this subsection for any fiscal year, amounts appropriated in excess of the amount necessary to continue existing services of the NeighborhoodReinvestment Corporation in revitalizing declining neighborhoods shall be available—
+(2) Of the amount appropriated pursuant to this subsection for any fiscal year, amounts appropriated in excess of the amount necessary to continue existing services of the Neighborhood Reinvestment Corporation in revitalizing declining neighborhoods shall be available—
 
 &emsp;(A) to expand the national neighborhood housing services network and to assist network capacity development, including expansion of rental housing resources;
 
@@ -88,7 +88,7 @@ Purpose.—It is the purpose of this section \[amending this section\] to author
 
 &emsp;“(4) to expand the loan purchase capacity of the national neighborhood housing services secondary market, operated by Neighborhood Housing Services of America, for loans made by neighborhood housing services to residents who are unable to meet conventional lending standards, and other loans for community development purposes;
 
-&emsp;“(5) to provide increased capacity development and matching grants to preserve existing privately held unsubsidized rental housing affordable to low- and moderate-income households and to create flexible strategies effective in the diverse economic and geographic environments of the Nation;
+&emsp;“(5) to provide increased capacity development and matching grants to preserve existing privately held unsubsidized rental housing affordable to low- and moderate-income households and to create flexiblestrategies effective in the diverse economic and geographic environments of the Nation;
 
 &emsp;“(6) to make grants to provide incentives to extend low-income housing use in connection with properties subject to prepayment pursuant to the Low-Income Housing Preservation and Resident Ownership \[Homeownership\] Act of 1990 \[12 U.S.C. 4101 et seq.\];
 

@@ -60,7 +60,7 @@ Section 3 of the Agent Orange Act of 1991, referred to in subsecs. (b)(2) and (c
 
 <b>2001</b>—Pub. L. 107–103, §201(c)(2)(A), amended section catchline generally. Prior to amendment, catchline read as follows: “Presumptions of service connection for diseases associated with exposure to certain herbicide agents”.
 
-Subsec. (a)(2)(F). Pub. L. 107–103, §201(a)(1)(A), struck out “within 30 years after the last date on which the veteran performed active military, naval, or air service in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975” before period at end.
+Subsec. (a)(2)(F). Pub. L. 107–103, §201(a)(1)(A), struck out “within 30 years after the last date on which theveteran performed active military, naval, or air service in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975” before period at end.
 
 Subsec. (a)(2)(H). Pub. L. 107–103, §201(b), added subpar. (H).
 
@@ -238,7 +238,7 @@ Effective Date.—(1) This section shall take effect at the end of the 90-day pe
 
 &emsp;“(B) notifies the Committees on Veterans’ Affairs of the Senate and House of Representatives of the Secretary's determination and the reasons therefor.
 
-“(2) In making a determination under this subsection, the Secretary shall give great weight to theviews and recommendations of the Academy expressed in that report with respect to the implementation of this section.”
+“(2) In making a determination under this subsection, the Secretary shall give great weight to the views and recommendations of the Academy expressed in that report with respect to the implementation of this section.”
 
 #### Tissue Archiving System
 
@@ -342,7 +342,7 @@ Notification of Test Results.—Upon completion of such test, the Secretary shal
 
 “(c)
 
-Incorporation in System.—The Secretary shall maintain the veteran's blood sample and the results ofthe test as part of the system required by section 7 \[set out above\].
+Incorporation in System.—The Secretary shall maintain the veteran's blood sample and the results of the test as part of the system required by section 7 \[set out above\].
 
 “(d)
 
@@ -408,7 +408,7 @@ OTA Reports.—(1) Concurrent with the approval or disapproval of any protocol u
 
 “(d)
 
-OTA Monitoring of Compliance.—(1) In order to ensure compliance with the protocol approved under subsection (b)(1), the Director shall monitor the conduct of the study under subsection (a).
+OTA Monitoring of Compliance.—(1) In order to ensure compliance with the protocol approved undersubsection (b)(1), the Director shall monitor the conduct of the study under subsection (a).
 
 “(2)(A) The Director shall submit to the appropriate committees of the Congress, at each of the times specified in subparagraph (B), a report on the Director's monitoring of the conduct of the study pursuant to paragraph (1).
 

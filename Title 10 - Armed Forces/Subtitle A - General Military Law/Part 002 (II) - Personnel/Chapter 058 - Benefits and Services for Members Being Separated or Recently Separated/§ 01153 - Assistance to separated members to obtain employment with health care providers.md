@@ -8,7 +8,7 @@ Placement Program.—The Secretary of Defense, and the Secretary of Homeland Sec
 
 Eligible Members.—(1) Except as provided in paragraph (2), a member shall be eligible for selection to participate in the program established under subsection (a) if the member—
 
-&emsp;(A) is selected for involuntary separation, is approved for separation under section 1174a or1175 of this title, or retires pursuant to the authority provided in section 4403 of the Defense Conversion, Reinvestment, and Transition Assistance Act of 1992 (division D of Public Law 102–484; 10 U.S.C. 1293 note) during the six-year period beginning on October 1, 1993;
+&emsp;(A) is selected for involuntary separation, is approved for separation under section 1174a or 1175 of this title, or retires pursuant to the authority provided in section 4403 of the Defense Conversion, Reinvestment, and Transition Assistance Act of 1992 (division D of Public Law 102–484; 10 U.S.C. 1293 note) during the six-year period beginning on October 1, 1993;
 
 &emsp;(B) has received an associate degree, baccalaureate, or advanced degree from an accredited institution of higher education or a junior or community college; and
 
@@ -44,7 +44,7 @@ Grants to Facilitate Employment.—(1) The Secretary of Defense and the Secretar
 
 &emsp;(E) For the fifth year of employment, 10 percent of the basic salary, except that the payment may not exceed $2,500.
 
-(3) Payments required under paragraph (2) may be made by the Secretary concerned in such installments as the Secretary concerned may determine.
+(3) Payments required under paragraph (2) may be made by the Secretary concerned insuch installments as the Secretary concerned may determine.
 
 (4) If a participant who is placed under this program leaves the employment of the health care provider before the end of the five years of required employment service, the provider shall reimburse the Secretary concerned in an amount that bears the same ratio to the total amount already paid under the agreement as the unserved portion bears to the five years of required service.
 

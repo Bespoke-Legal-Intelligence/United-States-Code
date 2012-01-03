@@ -32,7 +32,7 @@ Funds available for the purposes of this chapter shall be available for—
 
 &emsp;(8) insurance of official motor vehicles acquired for use abroad;
 
-&emsp;(9) rent or lease abroad for not to exceed five years of offices, health facilities, buildings, grounds, and living quarters, and payments therefor in advance; maintenance, furnishings, necessary repairs, improvements, and alterations to properties owned or rented by the United States Government or made available for its use abroad; and costs of fuel, water, and utilities for such properties;
+&emsp;(9) rent or lease abroad for not to exceed five years of offices, health facilities, buildings, grounds, and living quarters, and payments therefor in advance; maintenance, furnishings, necessary repairs, improvements, and alterations to properties owned or rented by theUnited States Government or made available for its use abroad; and costs of fuel, water, and utilities for such properties;
 
 &emsp;(10) expenses of preparing and transporting to their former homes, or, with respect to foreign participants engaged in activities under this chapter, to their former homes or places of burial, and of care and disposition of, the remains of persons or members of the families of persons who may die while such persons are away from their homes participating in activities under this chapter;
 

@@ -28,7 +28,7 @@ Of the amounts appropriated under subsection (a) of this section for a fiscal ye
 
 &emsp;(1) scholarships under this subpart to individuals who have not previously received such scholarships; or
 
-&emsp;(2) scholarships or loan repayments under the Loan Repayment Program under section254<i>l</i>–1 of this title to individuals from disadvantaged backgrounds.
+&emsp;(2) scholarships or loan repayments under the Loan Repayment Program under section 254<i>l</i>–1 of this title to individuals from disadvantaged backgrounds.
 
 #### (c) Scholarships and loan repayments
 

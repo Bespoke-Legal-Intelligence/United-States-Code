@@ -98,7 +98,7 @@ In general.—Subject to subparagraphs (B) through (G), the terms “rural” an
 
 &emsp;&emsp;(B)
 
-Water and waste disposal grants and direct and guaranteed loans.—For the purpose of water and waste disposal grants and direct and guaranteed loans provided under paragraphs (1), (2), and (24) of section 1926(a) of this title, the terms “rural” and “rural area” mean a city, town, or unincorporated area that has a population of no more than 10,000 inhabitants.
+Water and waste disposal grants and direct and guaranteed loans.—For thepurpose of water and waste disposal grants and direct and guaranteed loans provided under paragraphs (1), (2), and (24) of section 1926(a) of this title, the terms “rural” and “rural area” mean a city, town, or unincorporated area that has a population of no more than 10,000 inhabitants.
 
 &emsp;&emsp;(C)
 
@@ -118,7 +118,7 @@ Application.—This subparagraph applies to—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) is not contiguous or adjacent to a city or town that has a population of greater than 150,000 inhabitants or an urbanized area of such city or town; and
 
-&emsp;&emsp;&emsp;&emsp;(II) an area within an urbanized area described in subparagraphs (A)(ii) and (F) that is within 1/4-mile of a rural area described in subparagraph (A).
+&emsp;&emsp;&emsp;&emsp;(II) an area within an urbanized area described in subparagraphs (A)(ii) and (F) that is within ¼-mile of a rural area described in subparagraph (A).
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -184,7 +184,7 @@ Hawaii and puerto rico.—Notwithstanding any other provision of this paragraph,
 
 &emsp;(1) The term “borrower” means any farm borrower who has outstanding obligations to the Secretary under any farmer program loan, without regard to whether the loan has been accelerated, but does not include any farm borrower all of whose loans and accounts have been foreclosed on or liquidated, voluntarily or otherwise.
 
-&emsp;(2) The term “loan service program” means, with respect to a farmer program borrower, a primary loan service program or a preservation loan service program.
+&emsp;(2) The term “loan service program” means, with respect to a farmer program borrower, aprimary loan service program or a preservation loan service program.
 
 &emsp;(3) The term “primary loan service program” means—
 
@@ -200,7 +200,7 @@ Hawaii and puerto rico.—Notwithstanding any other provision of this paragraph,
 
 Preservation loan service program.—The term “preservation loan service program” means homestead retention as authorized under section 2000 of this title.
 
-(Pub. L. 87–128, title III, §343, as added Pub. L. 87–703, title IV, §401(5), Sept. 27, 1962, 76 Stat. 632; amended Pub. L. 89–586, Sept. 19, 1966, 80 Stat. 809; Pub. L. 92–419, title I, §128(a), Aug. 30, 1972, 86 Stat. 666; Pub. L. 95–334, title I, §124, Aug. 4, 1978, 92 Stat. 428; Pub. L. 96–438, §2(2),Oct. 13, 1980, 94 Stat. 1872; Pub. L. 99–198, title XIII, §1301(b), Dec. 23, 1985, 99 Stat. 1519; Pub. L. 100–233, title VI, §602, Jan. 6, 1988, 101 Stat. 1665; Pub. L. 101–624, title XVIII, §1814, title XXIII, §2388(h), Nov. 28, 1990, 104 Stat. 3824, 4053; Pub. L. 102–237, title VII, §702(h)(1), Dec. 13, 1991, 105 Stat. 1880; Pub. L. 102–554, §19, Oct. 28, 1992, 106 Stat. 4158; Pub. L. 104–127, title VI, §§640, 661(h), title VII, §749(b)(2), Apr. 4, 1996, 110 Stat. 1098, 1107, 1129; Pub. L. 105–113, §3(c), Nov. 21, 1997, 111 Stat. 2275; Pub. L. 107–171, title V, §5310, title VI, §6020(a), May 13, 2002, 116 Stat. 346, 362; Pub. L. 110–234, title VI, §6018(a), May 22, 2008, 122 Stat. 1170; Pub. L. 110–246, §4(a), title VI, §6018(a), June 18, 2008, 122 Stat. 1664, 1931.)
+(Pub. L. 87–128, title III, §343, as added Pub. L. 87–703, title IV, §401(5), Sept. 27, 1962, 76 Stat. 632; amended Pub. L. 89–586, Sept. 19, 1966, 80 Stat. 809; Pub. L. 92–419, title I, §128(a), Aug. 30, 1972, 86 Stat. 666; Pub. L. 95–334, title I, §124, Aug. 4, 1978, 92 Stat. 428; Pub. L. 96–438, §2(2), Oct. 13, 1980, 94 Stat. 1872; Pub. L. 99–198, title XIII, §1301(b), Dec. 23, 1985, 99 Stat. 1519; Pub. L. 100–233, title VI, §602, Jan. 6, 1988, 101 Stat. 1665; Pub. L. 101–624, title XVIII, §1814, title XXIII, §2388(h), Nov. 28, 1990, 104 Stat. 3824, 4053; Pub. L. 102–237, title VII, §702(h)(1), Dec. 13, 1991, 105 Stat. 1880; Pub. L. 102–554, §19, Oct. 28, 1992, 106 Stat. 4158; Pub. L. 104–127, title VI, §§640, 661(h), title VII, §749(b)(2), Apr. 4, 1996, 110 Stat. 1098, 1107, 1129; Pub. L. 105–113, §3(c), Nov. 21, 1997, 111 Stat. 2275; Pub. L. 107–171, title V, §5310, title VI, §6020(a), May 13, 2002, 116 Stat. 346, 362; Pub. L. 110–234, title VI, §6018(a), May 22, 2008, 122 Stat. 1170; Pub. L. 110–246, §4(a), title VI, §6018(a), June 18, 2008, 122 Stat. 1664, 1931.)
 
 #### References in Text
 
@@ -220,15 +220,15 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 Subsec. (a)(13). Pub. L. 110–246, §6018(a), amended par. (13) generally, substituting provisions defining “rural” and “rural area”, provisions defining such terms for the purpose of water and waste disposal grants and direct and guaranteed loans and community facility loans and grants, and provisions relating to areas rural in character, exclusions, urban area growth, and designations in Hawaii and Puerto Rico, for provisions defining “rural” and “rural area” and defining such terms for the purpose of water and waste disposal grants and direct and guaranteed loans, community facility loans and grants, multijurisdictional regional planning organizations, and the rural business investment program.
 
-2002—Subsec. (a)(11)(F). Pub. L. 107–171, §5310(a), substituted “30 percent” for “25 percent”.
+<b>2002</b>—Subsec. (a)(11)(F). Pub. L. 107–171, §5310(a), substituted “30 percent” for “25 percent”.
 
 Subsec. (a)(12)(B). Pub. L. 107–171, §5310(b), amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “The term ‘debt forgiveness’ does not include consolidation, rescheduling, reamortization, or deferral.”
 
 Subsec. (a)(13). Pub. L. 107–171, §6020(a), added par. (13).
 
-1997—Subsec. (a)(11)(F). Pub. L. 105–113 struck out “taken under section 142 of title 13” after “census of agriculture”.
+<b>1997</b>—Subsec. (a)(11)(F). Pub. L. 105–113 struck out “taken under section 142 of title 13” after “census of agriculture”.
 
-1996—Subsec. (a)(10). Pub. L. 104–127, §661(h)(1), struck out “recreation loan (RL) under section 1924 of this title,” before “emergency loan (EM)”.
+<b>1996</b>—Subsec. (a)(10). Pub. L. 104–127, §661(h)(1), struck out “recreation loan (RL) under section 1924 of this title,” before “emergency loan (EM)”.
 
 Subsec. (a)(11). Pub. L. 104–127, §640(1)(A), in introductory provisions, substituted “applicant, regardless of whether the applicant is participating in a program under section 1935 of this title” for “applicant”.
 
@@ -244,29 +244,29 @@ Subsec. (b)(4). Pub. L. 104–127, §661(h)(2)(B), added par. (4) and struck out
 
 &emsp;“(B) a leaseback or buyback of farmland authorized under section 1985 of this title.”
 
-1992—Subsec. (a). Pub. L. 102–554 substituted “this chapter:” and par. (1) for “this chapter (1) the term ‘farmers’ shall be deemed to include persons who are engaged in, or who, with assistance afforded under this chapter, intend to engage in, fish farming,”, in pars. (2) to (8), realigned margins and substituted “The” for “the” first place appearing in each par. and a period for a comma at end of each par., in par. (9), realigned margin and substituted “The” for “the” first place appearing and a period for “, and” at end, in par. (10), realigned margin and substituted “The” for “the” first place appearing, and added par. (11).
+<b>1992</b>—Subsec. (a). Pub. L. 102–554 substituted “this chapter:” and par. (1) for “this chapter (1) the term ‘farmers’ shall be deemed to include persons who are engaged in, or who, with assistance afforded under this chapter, intend to engage in, fish farming,”, in pars. (2) to (8), realigned margins and substituted “The” for “the” first place appearing in each par. and a period for a comma at end of each par., in par. (9), realigned margin and substituted “The” for “the” first place appearing and a period for “, and” at end, in par. (10), realigned margin and substituted “The” for “the” first place appearing, and added par. (11).
 
-1991—Subsec. (a)(1), (3). Pub. L. 102–237, §702(h)(1)(A), (B), made technical amendment to directory language of Pub. L. 101–624, §2388(h)(1), (2). See 1990 Amendment note below.
+<b>1991</b>—Subsec. (a)(1), (3). Pub. L. 102–237, §702(h)(1)(A), (B), made technical amendment to directory language of Pub. L. 101–624, §2388(h)(1), (2). See 1990 Amendment note below.
 
 Subsec. (a)(5). Pub. L. 102–237, §702(h)(1)(C), repealed Pub. L. 101–624, §2388(h)(3). See 1990 Amendment note below.
 
-1990—Subsec. (a)(1), (3). Pub. L. 101–624, §2388(h)(1), (2), as amended by Pub. L. 102–237, §702(h)(1)(A), (B), struck out “and” after “fish farming,” in par. (1), and “and” after “such loan,” in par. (3).
+<b>1990</b>—Subsec. (a)(1), (3). Pub. L. 101–624, §2388(h)(1), (2), as amended by Pub. L. 102–237, §702(h)(1)(A), (B), struck out “and” after “fish farming,” in par. (1), and “and” after “such loan,” in par. (3).
 
 Subsec. (a)(5). Pub. L. 101–624, §2388(h)(3), which directed substitution of “ ‘contract of insurance’ ” for “contract of insurance”, was repealed by Pub. L. 102–237, §702(h)(1)(C). See Construction of 1990 Amendment note below.
 
 Subsec. (a)(8) to (10). Pub. L. 101–624, §1814, added pars. (8) to (10).
 
-1988—Pub. L. 100–233 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1988</b>—Pub. L. 100–233 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1985—Pub. L. 99–198 added cl. (7).
+<b>1985</b>—Pub. L. 99–198 added cl. (7).
 
-1980—Pub. L. 96–438 added cl. (3). For termination of former cl. (3) as added by Pub. L. 89–586, see Effective and Termination Date of 1966 Amendment note below.
+<b>1980</b>—Pub. L. 96–438 added cl. (3). For termination of former cl. (3) as added by Pub. L. 89–586, see Effective and Termination Date of 1966 Amendment note below.
 
-1978—Pub. L. 95–334 added cl. (6).
+<b>1978</b>—Pub. L. 95–334 added cl. (6).
 
-1972—Pub. L. 92–419 added cls. (4) and (5).
+<b>1972</b>—Pub. L. 92–419 added cls. (4) and (5).
 
-1966—Pub. L. 89–586 struck out “and” before “(2)” and inserted cl. (3) defining “owner-operator”. See Effective and Termination Date of 1966 Amendment note below.
+<b>1966</b>—Pub. L. 89–586 struck out “and” before “(2)” and inserted cl. (3) defining “owner-operator”. See Effective and Termination Date of 1966 Amendment note below.
 
 #### Effective Date of 2008 Amendment
 
@@ -278,7 +278,7 @@ Section 3(d) of Pub. L. 104–113 provided that: “This section \[amending this
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 640(1) of Pub. L. 104–127 effective 90 days after Apr. 4, 1996, and amendment by sections 640(2) and 661(h) of Pub. L. 104–127 effective Apr.4, 1996, see section 663(a), (b) of Pub. L. 104–127, set out as a note under section 1922 of this title.
+Amendment by section 640(1) of Pub. L. 104–127 effective 90 days after Apr. 4, 1996, and amendment by sections 640(2) and 661(h) of Pub. L. 104–127 effective Apr. 4, 1996, see section 663(a), (b) of Pub. L. 104–127, set out as a note under section 1922 of this title.
 
 #### Effective Date of 1991 Amendment
 

@@ -12,9 +12,13 @@ General Authorization of Appropriations.—Not more than a total of the followin
 
 &emsp;(4) $3,110,000,000 for fiscal year 2007;
 
-&emsp;(5) $2,742,095,000 for fiscal year 2009; and
+&emsp;(5) $2,742,095,000 for fiscal year 2009;
 
-&emsp;(6) $2,936,203,000 for fiscal year 2010.
+&emsp;(6) $2,936,203,000 for fiscal year 2010;
+
+&emsp;(7) $2,731,000,000 for fiscal year 2011; and
+
+&emsp;(8) $917,704,544 for the period beginning on October 1, 2011, and ending on January 31, 2012.
 
 (b)
 
@@ -48,7 +52,7 @@ Standby Power Efficiency Program.—Of amounts appropriated under subsection (a)
 
 Pilot Program To Provide Incentives for Development of New Technologies.—Of amounts appropriated under subsection (a), $500,000 for fiscal year 2004 may be used for the conduct of a pilot program to provide operating incentives to users of the airspace for the deployment of new technologies, including technologies to facilitate expedited flight routing and sequencing of takeoffs and landings.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1294; Pub. L. 103–305, title I, §102(a), Aug. 23, 1994, 108 Stat. 1571; Pub. L. 104–264, title I, §102(a), (b)(1), Oct. 9, 1996, 110 Stat. 3216; Pub. L. 106–6, §3, Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–181, title I, §102, Apr. 5, 2000, 114 Stat. 65; Pub. L. 108–176, title I, §102, Dec. 12, 2003, 117 Stat. 2494; Pub. L. 110–330, §7, Sept. 30, 2008, 122 Stat. 3719; Pub. L. 111–12, §7, Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §7, Oct. 1, 2009, 123 Stat. 2056; Pub. L. 111–116, §7, Dec. 16, 2009, 123 Stat. 3033; Pub. L. 111–153, §7, Mar. 31, 2010, 124 Stat. 1086; Pub. L. 111–161, §7, Apr. 30, 2010, 124 Stat. 1128; Pub. L. 111–197, §7, July 2, 2010, 124 Stat. 1354; Pub. L. 111–216, title I, §106, Aug. 1, 2010, 124 Stat. 2350.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1294; Pub. L. 103–305, title I, §102(a), Aug. 23, 1994, 108 Stat. 1571; Pub. L. 104–264, title I, §102(a), (b)(1), Oct. 9, 1996, 110 Stat. 3216; Pub. L. 106–6, §3, Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–181, title I, §102, Apr. 5, 2000, 114 Stat. 65; Pub. L. 108–176, title I, §102, Dec. 12, 2003, 117 Stat. 2494; Pub. L. 110–330, §7, Sept. 30, 2008, 122 Stat. 3719; Pub. L. 111–12, §7, Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §7, Oct. 1, 2009, 123 Stat. 2056; Pub. L. 111–116, §7, Dec. 16, 2009, 123 Stat. 3033; Pub. L. 111–153, §7, Mar. 31, 2010, 124 Stat. 1086; Pub. L. 111–161, §7, Apr. 30, 2010, 124 Stat. 1128; Pub. L. 111–197, §7, July 2, 2010, 124 Stat. 1354; Pub. L. 111–216, title I, §106, Aug. 1, 2010, 124 Stat. 2350; Pub. L. 112–30, title II, §207, Sept. 16, 2011, 125 Stat. 359.)
 
 Historical and Revision Notes
 
@@ -89,6 +93,8 @@ Sept. 3, 1982, Pub. L. 97–248, §506(a)(2), 96 Stat. 677; Dec. 30, 1987, Pub. 
 In subsection (a), the words “to the Secretary of Transportation” are added for clarity and consistency in this chapter. The words “for fiscal years beginning after September 30, 1990” and “$2,500,000,000 for fiscal year 1991” are omitted as obsolete.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (a)(7), (8). Pub. L. 112–30 added pars. (7) and (8).
 
 <b>2010</b>—Subsec. (a)(6). Pub. L. 111–216 amended par. (6) generally. Prior to amendment, par. (6) read as follows: “$2,453,539,493 for the period beginning on October 1, 2009, and ending on August 1, 2010.”
 

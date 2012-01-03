@@ -48,7 +48,7 @@ In this section through section 1308–5 of this title:
 
 #### (3) ACRE and counter-cyclical payments
 
-&emsp;In the case of a person or legal entity (except a joint venture or a general partnership) that participates in the average crop revenue election program under section 1105 of the Food, Conservation, and Energy Act of 2008, the total amount of average crop revenue election payments and counter-cyclical payments received, directly or indirectly, by the person or legal entity for any crop year for 1 or more covered commodities (except for peanuts) may not exceed the sum of—
+&emsp;In the case of a person or legal entity (except a joint venture or a general partnership) that participates in the average crop revenue election program under section 1105 of the Food, Conservation, and Energy Act of 2008, the total amount of average crop revenue election payments and counter-cyclical payments received, directly or indirectly, by the personor legal entity for any crop year for 1 or more covered commodities (except for peanuts) may not exceed the sum of—
 
 &emsp;&emsp;(A) $65,000; and
 
@@ -128,11 +128,11 @@ Nothing in this section authorizes any limitation on any benefit associated with
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Any payments made to a first-tier legal entity that is owned (in whole or in part) by another legal entity (a second-tier legal entity) shall be attributed to the second-tier legal entity in proportion to the ownership of the second-tier legal entity in the first-tier legal entity.
+&emsp;&emsp;&emsp;Any payments made to a first-tier legal entity that is owned (in whole or in part)by another legal entity (a second-tier legal entity) shall be attributed to the second-tier legal entity in proportion to the ownership of the second-tier legal entity in the first-tier legal entity.
 
 #### (ii) Ownership by a person
 
-&emsp;&emsp;&emsp;If the second-tier legal entity is owned (in whole or in part) by a person, theamount of the payment made to the first-tier legal entity shall be attributed to the person in the amount that represents the indirect ownership in the first-tier legal entity by the person.
+&emsp;&emsp;&emsp;If the second-tier legal entity is owned (in whole or in part) by a person, the amount of the payment made to the first-tier legal entity shall be attributed to the person in the amount that represents the indirect ownership in the first-tier legal entity by the person.
 
 #### (D) Third and fourth levels
 
@@ -288,7 +288,7 @@ Another prior section 1308, Pub. L. 95–113, title I, §101, Sept. 29, 1977, 91
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–246, §1603(b)(1)(A), inserted “through section 1308–5 of this title” after “this section” in introductory provisions.
+<b>2008</b>—Subsec. (a). Pub. L. 110–246, §1603(b)(1)(A), inserted “through section 1308–5 of this title” after “this section” in introductory provisions.
 
 Subsec. (a)(1). Pub. L. 110–246, §1603(a), substituted “Food, Conservation, and Energy Act of 2008” for “Farm Security and Rural Investment Act of 2002”.
 
@@ -300,7 +300,7 @@ Subsecs. (b) to (d). Pub. L. 110–246, §1603(b)(2), added subsecs. (b) to (d) 
 
 Subsecs. (e) to (h). Pub. L. 110–246, §1603(b)(3), added subsecs. (e) to (g), redesignated former subsec. (g) as (h), and struck out former subsecs. (e) and (f) which related to issuance of regulations defining “person” and prescribing rules determined necessary to assure a fair and reasonable application of section limitation, and inapplicability to public schools of provisions limiting payments to any person.
 
-2002—Pub. L. 107–171, §1603(a), substituted section catchline for former section catchline.
+<b>2002</b>—Pub. L. 107–171, §1603(a), substituted section catchline for former section catchline.
 
 Subsec. (a) to (d). Pub. L. 107–171, §1603(a), added subsecs. (a) to (d) and struck out former pars. (1) to (4) which related to limitation on payments under production flexibility contracts, limitation on marketing loan gains and loan deficiency payments, description of payments subject to limitation, and definitions, respectively.
 
@@ -310,13 +310,13 @@ Subsec. (f). Pub. L. 107–171, §1603(b)(2), redesignated par. (6) as subsec. (
 
 Subsec. (g). Pub. L. 107–171, §1603(b)(3), redesignated par. (7) as subsec. (g) and inserted heading.
 
-1996—Pars. (1) to (4). Pub. L. 104–127 added pars. (1) to (4) and struck out former pars. (1) to (4) which established limitations on payments under wheat, feed grains, upland cotton, extra long staple cotton, honey, and rice programs for 1987 through 1997 crops.
+<b>1996</b>—Pars. (1) to (4). Pub. L. 104–127 added pars. (1) to (4) and struck out former pars. (1) to (4) which established limitations on payments under wheat, feed grains, upland cotton, extra long staple cotton, honey, and rice programs for 1987 through 1997 crops.
 
-1993—Pars. (1)(A), (B), (2)(A). Pub. L. 103–66 substituted “1997” for “1995”.
+<b>1993</b>—Pars. (1)(A), (B), (2)(A). Pub. L. 103–66 substituted “1997” for “1995”.
 
-1991—Par. (2)(B)(iv). Pub. L. 102–237 inserted “section” before “107B(c)(1)”.
+<b>1991</b>—Par. (2)(B)(iv). Pub. L. 102–237 inserted “section” before “107B(c)(1)”.
 
-1990—Par. (1). Pub. L. 101–624, §1111(a)(1), designated existing provisions as subpar. (A), substituted “1995” for “1990”, and added subpar. (B).
+<b>1990</b>—Par. (1). Pub. L. 101–624, §1111(a)(1), designated existing provisions as subpar. (A), substituted “1995” for “1990”, and added subpar. (B).
 
 Par. (2)(A). Pub. L. 101–624, §1111(a)(2), substituted “1991 through 1995 crops” for “1987 through 1990 crops” and substituted “and” for “honey, and (with respect to clause (iii)(II) of subparagraph (B))” after “rice,”.
 
@@ -332,7 +332,7 @@ Par. (5)(B)(ii)(III). Pub. L. 101–624, §1111(e), added subcl. (III).
 
 Par. (5)(B)(iii). Pub. L. 101–624, §1111(c), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “Such regulations shall provide that, with respect to any married couple, the husband and wife shall be considered to be one person, except that any married couple consisting of spouses who, prior to their marriage, were separately engaged in unrelated farming operations, each spouse shall be treated as a separate person with respect to the farming operation brought into the marriage by such spouse so long as such operation remains as a separate farming operation, for the purposes of the application of the limitations under this section.”
 
-1989—Par. (5)(D). Pub. L. 101–217, §2, amended subpar. (D) generally, striking out cl. (i) designation, substituting “Any” for “Except as provided in clause (ii), any” and “ineligible to receive any payment specified in paragraph (1) or (2) or subtitle D of title XII with respect to such land” for “considered the same person as the landlord”, and struck out cls. (ii) and (iii) which read as follows:
+<b>1989</b>—Par. (5)(D). Pub. L. 101–217, §2, amended subpar. (D) generally, striking out cl. (i) designation, substituting “Any” for “Except as provided in clause (ii), any” and “ineligible to receive any payment specified in paragraph (1) or (2) or subtitle D of title XII with respect to such land” for “considered the same person as the landlord”, and struck out cls. (ii) and (iii) which read as follows:
 
 “(ii) A tenant that because of any act or failure to act would otherwise be considered the same person as the landlord under clause (i) shall not be considered the same person as the landlord if the Secretary has at any time made a determination, for purposes of this section, regarding the number of persons with respect to the tenant's operation on such land for the 1989 crop year and the landlord did not consent to or knowingly participate in such act or failure to act.
 
@@ -340,7 +340,7 @@ Par. (5)(B)(iii). Pub. L. 101–624, §1111(c), amended cl. (iii) generally. Pri
 
 Pub. L. 101–217, §1, in temporarily amending subpar. (D) generally, designated existing provisions as cl. (i) and added cls. (ii) and (iii). See Effective and Termination Dates of 1989 Amendment note below.
 
-1987—Par. (1). Pub. L. 100–203, §1301(a)(1), substituted “Subject to sections 1308–1 through 1308–3 of this title, for each” for “For each”.
+<b>1987</b>—Par. (1). Pub. L. 100–203, §1301(a)(1), substituted “Subject to sections 1308–1 through 1308–3 of this title, for each” for “For each”.
 
 Par. (2)(A). Pub. L. 100–203, §1301(a)(2)(A), substituted “Subject to sections 1308–1 through 1308–3 of this title, for each” for “For each”.
 
@@ -350,7 +350,7 @@ Pub. L. 100–203, §1301(a)(2)(B), which directed substitution of “Subject to
 
 Pub. L. 100–71 designated existing provision as cl. (i) and added cl. (ii).
 
-Par. (5)(A). Pub. L. 100–203, §1303(a)(1), (2), inserted after first sentence “Such regulations shall incorporate the provisions in subparagraphs (B) through (E) of this paragraph, paragraphs (6) and (7), and sections 1308–1 through 1308–3 of this title” and struck out at end “Such regulations shall provide that the term ‘person’ does not include any cooperative association of producers that markets commodities for producers with respect to the commodities so marketed for producers.”
+Par. (5)(A). Pub. L. 100–203, §1303(a)(1), (2), inserted after first sentence “Such regulations shall incorporate the provisions in subparagraphs (B) through (E) of thisparagraph, paragraphs (6) and (7), and sections 1308–1 through 1308–3 of this title” and struck out at end “Such regulations shall provide that the term ‘person’ does not include any cooperative association of producers that markets commodities for producers with respect to the commodities so marketed for producers.”
 
 Par. (5)(B). Pub. L. 100–203, §1303(a)(2), (3), added subpar. (B) and redesignated former subpar. (B) as (C).
 
@@ -362,7 +362,7 @@ Par. (6). Pub. L. 100–203, §1303(b), amended par. (6) generally. Prior to ame
 
 Par. (7). Pub. L. 100–203, §1305(c), added par. (7).
 
-1986—Par. (1). Pub. L. 99–500 and Pub. L. 99–591, §108(a)(1), in temporarily amending par. (1) generally, substituted provision limiting, for each of the 1987 through 1990 crops, the total amount of deficiency payments, excluding deficiency payments described in par. (2)(B)(I)(iv) and land diversion payments that any one person be entitled to as not to exceed $50,000 for provision limiting, for each of the 1986 through 1990 crops, the total amount of payments, excluding disaster payments, that any one person be entitled to as not to exceed $50,000. See Effective and Termination Dates of 1986 Amendment note below.
+<b>1986</b>—Par. (1). Pub. L. 99–500 and Pub. L. 99–591, §108(a)(1), in temporarily amending par. (1) generally, substituted provision limiting, for each of the 1987 through 1990 crops, the total amount of deficiency payments, excluding deficiency payments described in par. (2)(B)(I)(iv) and land diversion payments that any one person be entitled to as not to exceed $50,000 for provision limiting, for each of the 1986 through 1990 crops, the total amount of payments, excluding disaster payments, that any one person be entitled to as not to exceed $50,000. See Effective and Termination Dates of 1986 Amendment note below.
 
 Par. (2). Pub. L. 99–500 and Pub. L. 99–591, §108(a)(1), in temporarily amending par. (2) generally, designated existing provision as subpar. (A), and in subpar. (A) as so designated, substituted provision limiting, for each of the 1987 through 1990 crops, the total amount of payments set forth in subpar. (B) that any one person be entitled to as not to exceed $250,000 and inserting honey as an eligible crop for provision limiting, for each of the 1986 through 1990 crops, the total amount of disaster payments not any one person be entitled to as not to exceed $100,000, and added subpars. (B) and (C). See Effective and Termination Dates of 1986 Amendment note below.
 

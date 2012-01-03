@@ -650,7 +650,7 @@ In this title the following definitions shall apply:
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 101(2) defines “affiliate.” The House amendment contains a provision that is a compromise between the definition in the House-passed version of H.R. 8200 and the Senate amendment in the nature of a substitute to H.R. 8200. Subparagraphs (A) and (B) are derived from the Senate amendment and subparagraph (D) is taken from the House bill, while subparagraph (C) represents a compromise, taking the House position with respect to a person whose business is operated under a lease or an operating agreement by the debtor and with respect to a person substantially all of whose property is operated under an operating agreement by the debtor and with respect to a person substantially all of whose property is operated under an operating agreement by the debtor and the Senate position on leased property. Thus, the definition of “affiliate” excludes persons substantially all of whose property is operated under a lease agreement by a debtor, such as a small company which owns equipment all of which is leased to a larger nonrelated company.
 
@@ -796,7 +796,7 @@ The Commodity Exchange Act, referred to in par. (53B)(B), is act Sept. 21, 1922,
 
 #### Amendments
 
-2010—Par. (13A)(A). Pub. L. 111–327, §2(a)(1)(A)(i), inserted “if used as the principal residence by the debtor” after “a residential structure”.
+<b>2010</b>—Par. (13A)(A). Pub. L. 111–327, §2(a)(1)(A)(i), inserted “if used as the principal residence by the debtor” after “a residential structure”.
 
 Par. (13A)(B). Pub. L. 111–327, §2(a)(1)(A)(ii), inserted “if used as the principal residence by the debtor” before period at end.
 
@@ -810,7 +810,7 @@ Par. (51B). Pub. L. 111–327, §2(a)(1)(E), inserted “thereto” before perio
 
 Par. (51D)(A). Pub. L. 111–327, §2(a)(1)(F), inserted “of the filing” after “as of the date”.
 
-2006—Par. (22)(A). Pub. L. 109–390, §5(a)(1)(A), struck out “(domestic or foreign)” after “an entity” and inserted “(whether or not a ‘customer’, as defined in section 741)” after “custodian for a customer”.
+<b>2006</b>—Par. (22)(A). Pub. L. 109–390, §5(a)(1)(A), struck out “(domestic or foreign)” after “an entity” and inserted “(whether or not a ‘customer’, as defined in section 741)” after “custodian for a customer”.
 
 Par. (22A)(A). Pub. L. 109–390, §5(a)(1)(B), inserted “(aggregated across counterparties)” after “principal amount outstanding” and substituted “at such time or on any day during the 15-month period preceding the date of the filing of the petition” for “on any day during the previous 15-month period” in two places.
 
@@ -826,7 +826,7 @@ Par. (53B)(A)(ii). Pub. L. 109–390, §5(a)(1)(D)(ii), inserted “or other der
 
 Par. (53B)(B). Pub. L. 109–390, §5(a)(1)(E), substituted “the Gramm-Leach-Bliley Act, the Legal Certainty for Bank Products Act of 2000, the securities laws (as such term is defined in section 3(a)(47) of the Securities Exchange Act of 1934) and the Commodity Exchange Act” for “the Securities Act of 1933, the Securities Exchange Act of 1934, the Public Utility Holding Company Act of 1935, the Trust Indenture Act of 1939, the Investment Company Act of 1940, the Investment Advisers Act of 1940, the Securities Investor Protection Act of 1970, the Commodity Exchange Act, the Gramm-Leach-Bliley Act, and the Legal Certainty for Bank Products Act of 2000”.
 
-2005—Pub. L. 109–8, §1201(1), substituted “In this title the following definitions shall apply:” for “In this title—” in introductory provisions.
+<b>2005</b>—Pub. L. 109–8, §1201(1), substituted “In this title the following definitions shall apply:” for “In this title—” in introductory provisions.
 
 Pars. (1), (2). Pub. L. 109–8, §1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
 
@@ -1020,11 +1020,11 @@ Par. (56A). Pub. L. 109–8, §1201(8), which directed the substitution of a per
 
 Pub. L. 109–8, §1201(2), inserted “The term” after par. designation.
 
-2000—Par. (22). Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(3)\], amended par. (22) generally. Prior to amendment par. (22) read as follows: “ ‘financial institution’ means a person that is a commercial or savings bank, industrial savings bank, savings and loan association, or trust company and, when any such person is acting as agent or custodian for a customer in connection with a securities contract, as defined in section 741 of this title, such customer;”.
+<b>2000</b>—Par. (22). Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(3)\], amended par. (22) generally. Prior to amendment par. (22) read as follows: “ ‘financial institution’ means a person that is a commercial or savings bank, industrial savings bank, savings and loan association, or trust company and, when any such person is acting as agent or custodian for a customer in connection with a securities contract, as defined in section 741 of this title, such customer;”.
 
 Par. (54A). Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(4)\], added par. (54A).
 
-1994—Par. (3). Pub. L. 103–394, §501(a)(1), redesignated par. (3) as (21B) and inserted it after par. (21A).
+<b>1994</b>—Par. (3). Pub. L. 103–394, §501(a)(1), redesignated par. (3) as (21B) and inserted it after par. (21A).
 
 Par. (6). Pub. L. 103–394, §501(b)(1)(A), substituted “section 761” for “section 761(9)” after “customer, as defined in”.
 
@@ -1086,9 +1086,9 @@ Par. (57). Pub. L. 103–394, §501(a)(3), redesignated par. (57) defining “ti
 
 Pub. L. 103–394, §501(a)(5), redesignated par. (57) defining “mask work” as (39) and inserted it after par. (38).
 
-1992—Par. (21A). Pub. L. 102–486 added par. (21A).
+<b>1992</b>—Par. (21A). Pub. L. 102–486 added par. (21A).
 
-1990—Par. (3). Pub. L. 101–647, §2522(e)(4), added par. (3). Former par. (3) redesignated (4).
+<b>1990</b>—Par. (3). Pub. L. 101–647, §2522(e)(4), added par. (3). Former par. (3) redesignated (4).
 
 Pars. (4) to (23). Pub. L. 101–647, §2522(e)(3), redesignated pars. (3) to (22) as (4) to (23), respectively. Former par. (23) redesignated (24).
 
@@ -1164,11 +1164,11 @@ Par. (57). Pub. L. 101–647, §2522(e)(1), redesignated par. (53) as (57) defin
 
 Pub. L. 101–311, §201(3), redesignated par. (55) as (57) defining “mask work”.
 
-1988—Par. (31). Pub. L. 100–597 inserted “and a municipality” after “partnership” in subpar. (A) and added subpar. (C).
+<b>1988</b>—Par. (31). Pub. L. 100–597 inserted “and a municipality” after “partnership” in subpar. (A) and added subpar. (C).
 
 Pars. (52), (53). Pub. L. 100–506 added pars. (52) and (53).
 
-1986—Par. (14). Pub. L. 99–554, §201(1), substituted “governmental unit, and United States trustee” for “and governmental unit”.
+<b>1986</b>—Par. (14). Pub. L. 99–554, §201(1), substituted “governmental unit, and United States trustee” for “and governmental unit”.
 
 Pars. (17), (18). Pub. L. 99–554, §251(2), (3), added pars. (17) and (18) and redesignated former pars. (17) and (18) as (19) and (20), respectively.
 
@@ -1192,7 +1192,7 @@ Par. (51). Pub. L. 99–554, §283(a)(2), substituted a period for the semicolon
 
 Pub. L. 99–554, §251(2), redesignated former par. (49) as (51).
 
-1984—Par. (2)(D). Pub. L. 98–353, §421(a), struck out “or all” after “business”.
+<b>1984</b>—Par. (2)(D). Pub. L. 98–353, §421(a), struck out “or all” after “business”.
 
 Par. (8)(B). Pub. L. 98–353, §421(b), substituted a semicolon for the colon at end of subpar. (B).
 
@@ -1248,7 +1248,7 @@ Par. (48). Pub. L. 98–353, §§391(1), 401(1), 421(i), (j)(1), redesignated su
 
 Par. (49). Pub. L. 98–353, §421(j)(7), added par. (49).
 
-1982—Par. (35). Pub. L. 97–222, §1(a)(2), added par. (35). Former par. (35) redesignated (36).
+<b>1982</b>—Par. (35). Pub. L. 97–222, §1(a)(2), added par. (35). Former par. (35) redesignated (36).
 
 Par. (36). Pub. L. 97–222, §1(a)(1), (b), (c), redesignated par. (35) as (36) and substituted “is required to be the subject of a registration statement” for “is the subject of a registration statement” in subpar. (A)(xii) and substituted “forward contract” for “forward commodity contract” in subpar. (B)(iii). Former par. (36) redesignated (37).
 
@@ -1348,6 +1348,10 @@ Section 552, formerly §553, of title III (§§301–553) of Pub. L. 98–353, a
 
 “(c) The amendments made by subtitle J \[enacting section 1113 of this title\], shall become effective as provided in section 541(c) \[set out as an Effective Date note under section 1113 of this title\].”
 
+#### Short Title of 2011 Amendment
+
+Pub. L. 112–64, §1, Dec. 13, 2011, 125 Stat. 766, provided that: “This Act \[amending provisions set out as a note under section 707 of this title\] may be cited as the ‘National Guard and Reservist Debt Relief Extension Act of 2011’.”
+
 #### Short Title of 2010 Amendment
 
 Pub. L. 111–327, §1, Dec. 22, 2010, 124 Stat. 3557, provided that: “This Act \[amending this section, sections 103, 105 to 107, 109 to 111, 303, 308, 348, 362, 363, 505, 507, 521 to 524, 526, 527, 541, 554, 704, 707, 723, 724, 726, 901, 1104, 1106, 1111, 1112, 1127, 1129, 1141, 1145, 1202, 1302, 1304, 1307, 1308, 1322, 1325, 1511, 1519, 1521, and 1529 of this title, section 157 of Title 18, Crimes and Criminal Procedure, sections 158, 159, and 586 of Title 28, Judiciary and Judicial Procedure, and provisions set out as a note under section 507 of this title\] may be cited as the ‘Bankruptcy Technical Corrections Act of 2010’.”
@@ -1394,7 +1398,7 @@ Section 1(a) of Pub. L. 103–394 provided that: “This Act \[see Tables for cl
 
 #### Short Title of 1990 Amendments
 
-Pub. L. 101–581, §1, Nov. 15, 1990, 104 Stat. 2865, and section 3101 of title XXXI of Pub. L. 101–647, provided respectively that such Act and such title \[amending sections 523 and 1328 of this title and enacting provisions set out as a note under section 523 of this title\] may be cited as the “Criminal Victims Protection Act of 1990”.
+Pub. L. 101–581, §1, Nov. 15, 1990, 104 Stat. 2865, and section 3101 of title XXXI of Pub. L. 101–647, providedrespectively that such Act and such title \[amending sections 523 and 1328 of this title and enacting provisions set out as a note under section 523 of this title\] may be cited as the “Criminal Victims Protection Act of 1990”.
 
 #### Short Title of 1988 Amendment
 

@@ -1,6 +1,6 @@
 ### §1584. Civil actions under the North American Free Trade Agreement or the United States-Canada Free-Trade Agreement
 
-The United States Court of International Trade shall have exclusive jurisdiction of anycivil action which arises under section 777(f) of the Tariff Act of 1930 and is commenced by the United States to enforce administrative sanctions levied for violation of a protective order or an undertaking.
+The United States Court of International Trade shall have exclusive jurisdiction of any civil action which arises under section 777(f) of the Tariff Act of 1930 and is commenced by the United States to enforce administrative sanctions levied for violation of a protective order or an undertaking.
 
 (Added Pub. L. 100–449, title IV, §402(d)(1), Sept. 28, 1988, 102 Stat. 1884; amended Pub. L. 103–182, title IV, §414(a)(2), Dec. 8, 1993, 107 Stat. 2147.)
 

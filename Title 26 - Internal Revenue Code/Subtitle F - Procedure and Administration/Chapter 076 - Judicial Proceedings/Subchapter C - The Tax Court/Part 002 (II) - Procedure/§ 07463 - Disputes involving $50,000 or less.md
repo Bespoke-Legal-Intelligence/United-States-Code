@@ -20,7 +20,7 @@ A decision entered in any case in which the proceedings are conducted under this
 
 #### (c) Limitation of jurisdiction
 
-In any case in which the proceedings are conducted under this section, notwithstanding the provisions of sections 6214(a) and 6512(b), no decision shall be entered redetermining the amount of a deficiency, or determining an overpayment, except with respect to amounts placed in dispute within the limits described in subsection (a) and with respect to amounts conceded by the parties.
+In any case in which the proceedings are conducted under this section, notwithstanding theprovisions of sections 6214(a) and 6512(b), no decision shall be entered redetermining the amount of a deficiency, or determining an overpayment, except with respect to amounts placed in dispute within the limits described in subsection (a) and with respect to amounts conceded by the parties.
 
 #### (d) Discontinuance of proceedings
 

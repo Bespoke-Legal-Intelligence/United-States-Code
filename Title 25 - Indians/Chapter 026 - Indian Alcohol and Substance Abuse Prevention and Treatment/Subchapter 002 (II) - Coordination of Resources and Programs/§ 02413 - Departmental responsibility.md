@@ -20,7 +20,7 @@ The Secretary of the Interior, acting through the Bureau of Indian Affairs, the 
 
 &emsp;&emsp;&emsp;(ii) at a grade of not less than GS–15 of the General Schedule.
 
-#### (2) Responsibilities of office
+#### (2) Responsibilities of Office
 
 &emsp;In addition to other responsibilities which may be assigned to such Office, it shall be responsible for—
 

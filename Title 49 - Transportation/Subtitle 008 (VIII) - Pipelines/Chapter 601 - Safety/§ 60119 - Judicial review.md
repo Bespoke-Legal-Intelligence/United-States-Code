@@ -2,9 +2,11 @@
 
 (a)
 
-Review of Regulations and Waiver Orders.—(1) Except as provided in subsection (b) of this section, a person adversely affected by a regulation prescribed under this chapter or an order issued about an application for a waiver under section 60118(c) or (d) of this title may apply for review of the regulation or order by filing a petition for review in the United States Court of Appeals for the District of Columbia Circuit or in the court of appeals of the United States for the circuit in which the person resides or has its principal place of business. The petition must be filed not later than 89 days after the regulation is prescribed or order is issued. The clerk of the court immediately shall send a copy of the petition to the Secretary of Transportation.
+Review of Regulations, Orders, and Other Final Agency Actions.—(1) Except as provided in subsection (b) of this section, a person adversely affected by a regulation prescribed under this chapter or an order issued under this chapter may apply for review of the regulation or order by filing a petition for review in the United States Court of Appeals for the District of Columbia Circuit or in the court of appeals of the United States for the circuit in which the person resides or has its principal place of business. The petition must be filed not later than 89 days after the regulation is prescribed or order is issued. The clerk of the court immediately shall send a copy of the petition to the Secretary of Transportation.
 
 (2) A judgment of a court under paragraph (1) of this subsection may be reviewed only by the Supreme Court under section 1254 of title 28. A remedy under paragraph (1) is in addition to any other remedies provided by law.
+
+(3) A judicial review of agency action under this section shall apply the standards of review established in section 706 of title 5.
 
 (b)
 
@@ -12,7 +14,7 @@ Review of Financial Responsibility Orders.—(1) A person adversely affected by 
 
 (2) A judgment of a court under paragraph (1) of this subsection may be reviewed only by the Supreme Court under section 1254(1) of title 28.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1323.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1323; Pub. L. 112–90, §§2(d), 20(b), Jan. 3, 2012, 125 Stat. 1905, 1917.)
 
 Historical and Revision Notes
 
@@ -66,11 +68,19 @@ Aug. 12, 1968, Pub. L. 90–481, 82 Stat. 720, §7(b)(4); added Nov. 30, 1979, P
 
 In this section, the word “judicial” is omitted as surplus.
 
-In subsection (a)(1), the words “Except as provided in subsection (b) of this section” are added for clarity. The words “who is or will be . . . or aggrieved” are omitted as surplus. The word “prescribed” is added for consistency in the revised title and with other titles of the United States Code. The word “Circuit” is added to complete the proper title of the Court. The word “resides” is substituted for “located” for clarity and forconsistency in the revised title and with other titles of the Code. The words “or other officer designated by him for that purpose” are omitted as surplus because of 49:322(b).
+In subsection (a)(1), the words “Except as provided in subsection (b) of this section” are added for clarity. The words “who is or will be . . . or aggrieved” are omitted as surplus. The word “prescribed” is added for consistency in the revised title and with other titles of the United States Code. The word “Circuit” is added to complete the proper title of the Court. The word “resides” is substituted for “located” for clarity and for consistency in the revised title and with other titles of the Code. The words “or other officer designated by him for that purpose” are omitted as surplus because of 49:322(b).
 
 In subsection (a)(2), the text of 49 App.:1675(b) and 2005(b) is omitted as surplus because of 28:1331 and because 5:ch. 7 applies in the absence of an exception. The text of 49 App.:1675(d) and 2005(d) is omitted as covered by rule 43 of the Federal Rules of Appellate Procedure (28 App. U.S.C.). The words “affirming or setting aside, in whole or in part, any such regulation or order of the Secretary” are omitted as surplus. The words “may be reviewed only” are substituted for “shall be final, subject to review” for consistency. The words “and not in substitution for” are omitted as surplus.
 
 In subsection (b)(1), the words “adversely affected” are substituted for “aggrieved” for consistency in the revised title and with other titles of the Code. The word “only” is omitted as surplus. The text of 49 App.:1674b(b)(4)(B) (1st sentence) is omitted as surplus because 28:2112 applies in the absence of an exception. The text of 49 App.:1674b(b)(4)(B) (2d sentence) is omitted as surplus and because of 28:1651.
 
 In subsection (b)(2), the words “and decree” are omitted as surplus. The words “may be reviewed only” are substituted for “shall be final, except that such judgment and decree shall be subject to review” for consistency and to eliminate unnecessary words. The words “upon certiorari” are omitted as surplus because of 28:1254(1).
+
+#### Amendments
+
+<b>2012</b>—Subsec. (a). Pub. L. 112–90, §2(d)(1), substituted “, Orders, and Other Final Agency Actions” for “and Waiver Orders” in heading.
+
+Subsec. (a)(1). Pub. L. 112–90, §2(d)(2), substituted “order issued under this chapter” for “order issued about an application for a waiver under section 60118(c) or (d) of this title”.
+
+Subsec. (a)(3). Pub. L. 112–90, §20(b), added par. (3).
 

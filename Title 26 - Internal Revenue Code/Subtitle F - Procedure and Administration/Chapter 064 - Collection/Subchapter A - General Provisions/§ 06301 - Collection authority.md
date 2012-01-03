@@ -16,7 +16,7 @@ Pub. L. 105–206, title III, §3421, July 22, 1998, 112 Stat. 758, provided tha
 
 In General.—The Commissioner of Internal Revenue shall develop and implement procedures under which—
 
-&emsp;“(1) a determination by an employee to file a notice of lien or levy with respect to, or to levy or seize, any property or right to property would, where appropriate, be required to be reviewed by a supervisor of the employee before the action was taken; and
+&emsp;“(1) a determination by an employee to file a notice of lien or levy with respect to, or to levy or seize, anyproperty or right to property would, where appropriate, be required to be reviewed by a supervisor of the employee before the action was taken; and
 
 &emsp;“(2) appropriate disciplinary action would be taken against the employee or supervisor where the procedures under paragraph (1) were not followed.
 

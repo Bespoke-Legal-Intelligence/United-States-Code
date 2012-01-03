@@ -6,7 +6,7 @@ The Secretary shall establish and carry out a program of national leadership act
 
 &emsp;&emsp;(A) assistance provided to eligible providers in developing and using performance measures for the improvement of adult education and literacy activities, including family literacy services;
 
-&emsp;&emsp;(B) assistance related to professional development activities, and assistance for thepurposes of developing, improving, identifying, and disseminating the most successful methods and techniques for providing adult education and literacy activities, including family literacy services, based on scientific evidence where available; and
+&emsp;&emsp;(B) assistance related to professional development activities, and assistance for the purposes of developing, improving, identifying, and disseminating the most successful methods and techniques for providing adult education and literacy activities, including family literacy services, based on scientific evidence where available; and
 
 &emsp;&emsp;(C) assistance in distance learning and promoting and improving the use of technology in the classroom.
 

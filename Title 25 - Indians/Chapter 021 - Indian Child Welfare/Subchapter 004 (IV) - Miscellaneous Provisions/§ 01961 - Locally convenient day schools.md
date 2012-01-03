@@ -16,5 +16,5 @@ The Secretary is authorized and directed to prepare, in consultation with approp
 
 Select Committee on Indian Affairs of the Senate redesignated Committee on Indian Affairs of the Senate by section 25 of Senate Resolution No. 71, Feb. 25, 1993, One Hundred Third Congress.
 
-Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
+Committee on Interior and Insular Affairs of the House of Representatives changed to Committee onNatural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
 

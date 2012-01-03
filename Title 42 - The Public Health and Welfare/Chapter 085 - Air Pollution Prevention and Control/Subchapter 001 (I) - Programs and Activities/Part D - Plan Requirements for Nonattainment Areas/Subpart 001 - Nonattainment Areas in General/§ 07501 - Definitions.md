@@ -30,7 +30,7 @@ Pars. (1), (2). Pub. L. 101–549, §102(a)(2)(B), (C), amended pars. (1) and (2
 
 “(1) The term ‘reasonable further progress’ means annual incremental reductions in emissions of the applicable air pollutant (including substantial reductions in the early years following approval or promulgation of plan provisions under this part and section 7410(a)(2)(I) of this title and regular reductions thereafter) which are sufficient in the judgment of the Administrator, to provide for attainment of the applicable national ambient air quality standard by the date required in section 7502(a) of this title.
 
-“(2) The term ‘nonattainment area’ means, for any air pollutant an area which is shown by monitored data or which is calculated by air quality modeling (or other methods determined by the Administrator to be reliable) to exceed any national ambient air quality standard for such pollutant. Such term includes any area identified under subparagraphs (A) through (C) of section 7407(d)(1) of this title.”
+“(2) The term ‘nonattainment area’ means, for any air pollutant an area which is shown by monitored dataor which is calculated by air quality modeling (or other methods determined by the Administrator to be reliable) to exceed any national ambient air quality standard for such pollutant. Such term includes any area identified under subparagraphs (A) through (C) of section 7407(d)(1) of this title.”
 
 #### Effective Date
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary may make and insure loans under this subchapter to farmers and ranchers in the United States, and to farm cooperatives and private domestic corporations, partnerships, joint operations, trusts, and limited liability companies that are controlled by farmers and ranchers and engaged primarily and directly in farming or ranching in the United States, subject to the conditions specified in this section. To be eligible for such loans, applicants who are individuals, or, in the case of cooperatives, corporations, partnerships, joint operations, trusts, and limited liability companies, individuals holding a majority interest in such entity, must (1) be citizens of the United States, (2) for direct loans only, have either training or farming experience that the Secretary determines is sufficient to assure reasonable prospects of success in the proposed farming operations, taking into consideration all farming experience of the applicant, without regard to any lapse between farming experiences, (3) be or will become operators of not larger than family farms (or in the case of cooperatives, corporations, partnerships, joint operations, trusts, and limited liability companies in which a majority interest is held by individuals who are related by blood or marriage, as defined by the Secretary, such individuals must be or will become either owners or operators of not larger than a family farm and at least one such individual must be or will become an operator of not larger than a family farm or, in the case of holders of the entire interest who are related by blood or marriage and all of whom are or will become farm operators, the ownership interest of each such holder separately constitutes not larger than a family farm, even if their interests collectively constitute larger than a family farm, as defined by the Secretary), and (4) be unable to obtain sufficient credit elsewhere to finance their actual needs at reasonable rates and terms, taking into consideration prevailing private and cooperative rates and terms in the community in or near which the applicant resides for loans for similar purposes and periods of time. In addition to the foregoing requirements of this subsection, in the case of corporations, partnerships, joint operations, trusts, and limited liability companies, the family farm requirement of clause (3) of the preceding sentence shall apply as well to the farm or farms in which the entity has an operator interest and the requirement of clause (4) of the preceding sentence shall apply as well to the entity in the case of cooperatives, corporations, partnerships, joint operations, trusts, and limited liability companies.
+The Secretary may make and insure loans under this subchapter to farmers and ranchers in the United States, and to farm cooperatives and private domestic corporations, partnerships, joint operations, trusts, and limited liability companies that are controlled by farmers and ranchers and engaged primarily and directly in farming or ranching in the United States, subject to the conditions specified in this section. To be eligible for such loans, applicants who are individuals, or, in the case of cooperatives, corporations, partnerships, joint operations, trusts, and limited liability companies, individuals holding a majority interest in such entity, must (1) be citizens of the United States, (2) for direct loans only, have either training or farming experience that the Secretary determines is sufficient to assure reasonable prospects of success in the proposed farming operations, taking into consideration all farming experience of the applicant, without regard to any lapse between farming experiences, (3) be or will become operators of not larger than family farms (or in the case of cooperatives, corporations, partnerships, joint operations, trusts, and limited liability companies in which a majority interest is held by individuals who are related by blood or marriage, as defined by the Secretary, such individuals must be or will become either owners or operators of not larger than a family farm and at least one such individual must be or will become an operator of not larger than a family farm or, in the case of holders of the entire interest who are related by blood or marriage and all of whom are or will become farm operators, the ownership interest of each such holder separately constitutes not larger than a family farm, even if their interests collectively constitute larger than a family farm, as defined by the Secretary), and (4) be unable to obtain sufficient credit elsewhere to finance their actual needs at reasonable rates and terms, taking into consideration prevailing private and cooperative rates and terms in the community in or near which the applicant resides for loans for similarpurposes and periods of time. In addition to the foregoing requirements of this subsection, in the case of corporations, partnerships, joint operations, trusts, and limited liability companies, the family farm requirement of clause (3) of the preceding sentence shall apply as well to the farm or farms in which the entity has an operator interest and the requirement of clause (4) of the preceding sentence shall apply as well to the entity in the case of cooperatives, corporations, partnerships, joint operations, trusts, and limited liability companies.
 
 #### (b) Rural youths in 4–H Clubs, Future Farmers of America, etc.
 
@@ -66,9 +66,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Pub. L. 110–246, §5101, inserted section catchline and, in subsec. (a), inserted heading, substituted “The Secretary may” for “The Secretary is authorized to” in introductory provisions, and inserted “, taking into consideration all farming experience of the applicant, without regard to any lapse between farming experiences” after “farming operations” in cl. (2).
+<b>2008</b>—Pub. L. 110–246, §5101, inserted section catchline and, in subsec. (a), inserted heading, substituted “The Secretary may” for “The Secretary is authorized to” in introductory provisions, and inserted “, taking into consideration all farming experience of the applicant, without regard to any lapse between farming experiences” after “farming operations” in cl. (2).
 
-2002—Subsec. (a). Pub. L. 107–171, §5302(a), substituted “joint operations, trusts, and limited liability companies” for “and joint operations” wherever appearing.
+<b>2002</b>—Subsec. (a). Pub. L. 107–171, §5302(a), substituted “joint operations, trusts, and limited liability companies” for “and joint operations” wherever appearing.
 
 Subsec. (c)(1). Pub. L. 107–171, §5101(1)(A), substituted “paragraphs (3) and (4)” for “paragraph (3)” in introductory provisions.
 
@@ -76,15 +76,15 @@ Subsec. (c)(1)(A). Pub. L. 107–171, §5101(1)(B), struck out “who has not op
 
 Subsec. (c)(4). Pub. L. 107–171, §5101(2), added par. (4).
 
-1998—Subsec. (a). Pub. L. 105–277 inserted “for direct loans only,” before “have either” in cl. (2).
+<b>1998</b>—Subsec. (a). Pub. L. 105–277 inserted “for direct loans only,” before “have either” in cl. (2).
 
-1996—Subsec. (b)(1). Pub. L. 104–127, §661(f), struck out “and for the purposes specified in section 1942 of this title” before period at end.
+<b>1996</b>—Subsec. (b)(1). Pub. L. 104–127, §661(f), struck out “and for the purposes specified in section 1942 of this title” before period at end.
 
 Subsec. (b)(4). Pub. L. 104–127, §611(b), added par. (4).
 
 Subsec. (c). Pub. L. 104–127, §611(a), added subsec. (c) and struck out former subsec. (c) which read as follows: “The Secretary may not restrict eligibility for loans made or insured under this subchapter for purposes set forth in section 1942 of this title solely to borrowers of loans that are outstanding on December 23, 1985.”
 
-1985—Subsec. (a). Pub. L. 99–198, §1301(a), substituted—
+<b>1985</b>—Subsec. (a). Pub. L. 99–198, §1301(a), substituted—
 
 &emsp;(1) “, partnerships, and joint operations” for “and partnerships” wherever appearing after “corporations”;
 
@@ -96,11 +96,11 @@ Pub. L. 99–198, §1303, in cl. (3) parenthetical, inserted provision treating 
 
 Subsec. (c). Pub. L. 99–198, §1302(b), added subsec. (c).
 
-1981—Subsec. (a). Pub. L. 97–98 substituted “corporations and partnerships, the family farm” for “cooperatives, corporations, and partnerships, the family farm” and “as well to the entity in the case of cooperatives, corporations, and partnerships” for “as well to the entity”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–98 substituted “corporations and partnerships, the family farm” for “cooperatives, corporations, and partnerships, the family farm” and “as well to the entity in the case of cooperatives, corporations, and partnerships” for “as well to the entity”.
 
-1978—Pub. L. 95–334 substituted provisions setting forth eligibility criteria for loans to farmers and ranchers in the United States, and to farm cooperatives and private domestic corporations and partnerships controlled by farmers and ranchers and engaged primarily and directly in farming or ranching in the United States, for provisions setting forth eligibility criteria for loans to farmers and ranchers in the United States, Puerto Rico, and the Virgin Islands.
+<b>1978</b>—Pub. L. 95–334 substituted provisions setting forth eligibility criteria for loans to farmers and ranchers in the United States, and to farm cooperatives and private domestic corporations and partnerships controlled by farmers and ranchers and engaged primarily and directly in farming or ranching in the United States, for provisions setting forth eligibility criteria for loans to farmers and ranchers in the United States, Puerto Rico, and the Virgin Islands.
 
-1972—Pub. L. 92–419 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1972</b>—Pub. L. 92–419 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 2008 Amendment
 
@@ -156,7 +156,7 @@ Eligibility.—Notwithstanding any other provision of law, any person eligible t
 
 “(c)
 
-Use of Agricultural Credit Insurance Fund.—For purposes of providing guaranteed loans in accordance with subsection (b), in addition to funds otherwise available, the Secretary may use any funds available from the Agricultural Credit Insurance Fund during fiscal years \[sic\] 1989 or 1990 for emergency insured and guaranteed loans under subtitle C of the Consolidated Farm and Rural Development Act (7 U.S.C. 1961 et seq.) to meet the needs resulting from natural disasters, except that funds available from such Fund first shall be used to satisfy the level of assistance estimated by the Secretary to meet the needs of persons eligible for emergency disaster loans.”
+Use of Agricultural Credit Insurance Fund.—For purposes of providing guaranteed loans in accordance with subsection (b), in addition to funds otherwise available, the Secretary may use any funds available from the Agricultural Credit Insurance Fund during fiscal years \[sic\] 1989 or 1990 for emergency insured and guaranteed loans under subtitle C of the Consolidated Farm and Rural Development Act (7 U.S.C. 1961 et seq.) to meet the needs resulting from natural disasters, except that funds available from such Fund first shall beused to satisfy the level of assistance estimated by the Secretary to meet the needs of persons eligible for emergency disaster loans.”
 
 Similar provisions were contained in the following prior act:
 

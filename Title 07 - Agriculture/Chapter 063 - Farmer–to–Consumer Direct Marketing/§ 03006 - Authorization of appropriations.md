@@ -8,5 +8,5 @@
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–362 substituted “section 3003” for “the provisions of sections 3003 and 3005”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–362 substituted “section 3003” for “the provisions of sections 3003 and 3005”.
 

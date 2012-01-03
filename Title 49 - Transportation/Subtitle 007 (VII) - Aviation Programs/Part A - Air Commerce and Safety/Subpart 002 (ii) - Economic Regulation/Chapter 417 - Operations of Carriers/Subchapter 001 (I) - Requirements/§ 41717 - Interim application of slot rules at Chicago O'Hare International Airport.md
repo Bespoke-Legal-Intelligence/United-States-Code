@@ -20,7 +20,7 @@ Exemptions for New Entrant and Limited Incumbent Air Carriers.—
 
 &emsp;(1)
 
-In general.—The Secretary shall grant, by order, 30 exemptions from the requirements under subparts K and S of part 93 of title 14,Code of Federal Regulations, to any new entrant air carrier or limited incumbent air carrier to provide air transportation to or from Chicago O'Hare International Airport.
+In general.—The Secretary shall grant, by order, 30 exemptions from the requirements under subparts K and S of part 93 of title 14, Code of Federal Regulations, to any new entrant air carrier or limited incumbent air carrier to provide air transportation to or from Chicago O'Hare International Airport.
 
 &emsp;(2)
 

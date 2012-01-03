@@ -18,21 +18,23 @@ Limitation on Eligibility for Bonus.—A person may not be paid a bonus under su
 
 (d)
 
-Agreement.—The agreement referred to in subsection (a) shall provide that, consistent with the needs of the armed force concerned, the person executing the agreement will be assigned to duty, for the period of obligated service covered by the agreement, as an officer of the Medical Corps of the Army or the Navy or as an officer of the Air Force designated as a medical officer in a specialty designated by regulations as a critically short wartime specialty.
+Agreement.—The agreement referred to in subsection (a) shall provide that, consistent with the needs of the armed force concerned, theperson executing the agreement will be assigned to duty, for the period of obligated service covered by the agreement, as an officer of the Medical Corps of the Army or the Navy or as an officer of the Air Force designated as a medical officer in a specialty designated by regulations as a critically short wartime specialty.
 
 (e)
 
-Repayment.—A person who, after executing an agreement under subsection (a) is not commissioned as an officer of the armed forces, does not become licensed as a doctor or osteopath, as the case may be, or does not complete the period of active duty in a specialty specifiedin the agreement, shall be subject to the repayment provisions of section 303a(e) of this title.
+Repayment.—A person who, after executing an agreement under subsection (a) is not commissioned as an officer of the armed forces, does not become licensed as a doctor or osteopath, as the case may be, or does not complete the period of active duty in a specialty specified in the agreement, shall be subject to the repayment provisions of section 303a(e) of this title.
 
 (f)
 
-Termination of Authority.—No agreement under this section may be entered into after December 31, 2011.
+Termination of Authority.—No agreement under this section may be entered into after December 31, 2012.
 
-(Added Pub. L. 109–364, div. A, title VI, §617(b), Oct. 17, 2006, 120 Stat. 2249; amended Pub. L. 110–181, div. A, title VI, §612(h), Jan. 28, 2008, 122 Stat. 149; Pub. L. 110–417, \[div. A\], title VI, §612(h), Oct. 14, 2008, 122 Stat. 4484; Pub. L. 111–84, div. A, title VI, §612(b)(7), Oct. 28, 2009, 123 Stat. 2353; Pub. L. 111–383, div. A, title VI, §612(b)(7), Jan. 7, 2011, 124 Stat. 4236.)
+(Added Pub. L. 109–364, div. A, title VI, §617(b), Oct. 17, 2006, 120 Stat. 2249; amended Pub. L. 110–181, div. A, title VI, §612(h), Jan. 28, 2008, 122 Stat. 149; Pub. L. 110–417, \[div. A\], title VI, §612(h), Oct. 14, 2008, 122 Stat. 4484; Pub. L. 111–84, div. A, title VI, §612(b)(7), Oct. 28, 2009, 123 Stat. 2353; Pub. L. 111–383, div. A, title VI, §612(b)(7), Jan. 7, 2011, 124 Stat. 4236; Pub. L. 112–81, div. A, title VI, §612(b)(7), Dec. 31, 2011, 125 Stat. 1450.)
 
 #### Amendments
 
-<b>2011</b>—Subsec. (f). Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
+<b>2011</b>—Subsec. (f). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
+
+Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
 
 <b>2009</b>—Subsec. (f). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
 

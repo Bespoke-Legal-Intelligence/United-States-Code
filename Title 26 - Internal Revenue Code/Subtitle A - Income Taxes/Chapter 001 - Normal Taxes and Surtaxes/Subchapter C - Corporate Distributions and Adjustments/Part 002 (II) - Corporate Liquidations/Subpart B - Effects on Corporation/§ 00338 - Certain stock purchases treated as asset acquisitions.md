@@ -330,7 +330,7 @@ Subsec. (h)(12). Pub. L. 99–514, §631(e)(5), struck out par. (12) relating to
 
 Subsec. (b). Pub. L. 98–369, §712(k)(1)(B), substituted “Basis of assets after deemed purchase” for “Price at which deemed sale made” in heading.
 
-Subsec. (b)(1). Pub. L. 98–369, §712(k)(1)(B), amended par. (1) generally, substituting “as purchased for an amount equal to the sum of” for “as sold (and purchased) at an amount equal to” in introductory text, “purchasing corporation's recently purchased stock, and” for “purchasing corporation's stock in the target corporation on the acquisition date” in subpar. (A), and “the basis of the purchasing corporation's nonrecently purchased stock” in subpar. (B) in lieu of provision relating to adjustment for liabilities and other relevant items, now covered in par. (2).
+Subsec. (b)(1). Pub. L. 98–369, §712(k)(1)(B), amended par. (1) generally, substituting “as purchased for an amount equal to the sum of” for “as sold (and purchased) at an amount equal to” in introductory text, “purchasing corporation's recently purchased stock,and” for “purchasing corporation's stock in the target corporation on the acquisition date” in subpar. (A), and “the basis of the purchasing corporation's nonrecently purchased stock” in subpar. (B) in lieu of provision relating to adjustment for liabilities and other relevant items, now covered in par. (2).
 
 Subsec. (b)(2). Pub. L. 98–369, §712(k)(1)(B), amended par. (2) generally, incorporating former par. (1)(B) provision, inserting heading “Adjustment for liabilities and other relevant items” and substituting “adjusted under regulations” for “properly adjusted under regulations”. Former par. (2) redesignated (4).
 
@@ -504,7 +504,7 @@ Section 1804(e)(9) of Pub. L. 99–514 provided that: “In the case of a Rhode 
 
 #### Special Rules for Deemed Purchases under Prior Law
 
-Section 712(k)(10) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “If, before October 20, 1983, a corporation was treated as making a qualified stock purchase (as defined in section 338(d)(3) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]), but would not be so treated under the amendments made by paragraphs (5) and (6) \[amending subsec. (h) and section 318(b)(4) of this title\] of this subsection, the amendments made by such paragraphs shall not apply to such purchase unless such corporation elects (at such time and in such manner as the Secretary of the Treasury or his delegate may by regulations prescribe) to have the amendments made by such paragraphs apply.”
+Section 712(k)(10) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “If, before October 20, 1983, a corporation was treated as making a qualified stock purchase (as defined in section 338(d)(3) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]), but would not be so treated under the amendments made by paragraphs (5) and (6) \[amending subsec. (h) and section 318(b)(4) of this title\] of this subsection, the amendments made by such paragraphs shall not apply to such purchase unlesssuch corporation elects (at such time and in such manner as the Secretary of the Treasury or his delegate may by regulations prescribe) to have the amendments made by such paragraphs apply.”
 
 #### Exception for Stock Purchases in Contemplation of Target Corporation as Member of Affiliated Group
 

@@ -76,7 +76,7 @@ Proper adjustment in respect of the property shall in all cases be made—
 
 &emsp;(25) to the extent provided in section 30(e)(1),<sup>2</sup>
 
-&emsp;(26) to the extent provided in sections 36C(g) and 137(e),<sup>2</sup>
+&emsp;(26) to the extent provided in sections 23(g) and 137(e),<sup>2</sup>
 
 &emsp;(27) in the case of a residence with respect to which a credit was allowed under section 1400C, to the extent provided in section 1400C(h),<sup>2</sup>
 
@@ -160,7 +160,7 @@ If—
 
 &emsp;&emsp;<b>For treatment of separate mineral interests as one property, see section 614.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 299; June 29, 1956, ch. 464, §4(c), 70 Stat. 407; Pub. L. 85–866, title I, §§2(b), 64(d)(2), Sept. 2, 1958, 72 Stat. 1607, 1656; Pub. L. 86–69, §3(d), June 25, 1959, 73 Stat. 139; Pub. L. 87–834, §§2(f), 8(g)(2), 12(b)(4), Oct. 16, 1962, 76 Stat. 972, 998, 1031; Pub. L. 88–272, title II, §§203(a)(3)(C), 225(j)(2), 227(b)(5), Feb. 26, 1964, 78 Stat. 34, 93, 98; Pub. L. 91–172, title II, §231(c)(3), title V, §§504(c)(4), 516(c)(2)(B), Dec. 30, 1969, 83 Stat. 580, 633, 648; Pub. L. 94–455, title XIX, §1901(a)(123), (b)(1)(F)(ii), (21)(G), (29)(A), (30)(A), title XX, §2005(a)(3), Oct. 4, 1976, 90 Stat. 1784, 1790, 1798, 1799, 1876; Pub. L. 95–472, §4(b), Oct. 17, 1978, 92 Stat. 1335; Pub. L. 95–600, title V, §515(2), title VI, §601(b)(3), title VII, §702(r)(3), Nov. 6, 1978, 92 Stat. 2884, 2896, 2938; Pub. L. 95–618, title I, §101(b)(3), title II, §201(b), Nov. 9, 1978, 92 Stat. 3179, 3183; Pub. L. 96–222, title I, §§106(a)(2), (3), 107(a)(2)(C), Apr. 1, 1980, 94 Stat. 221, 222; Pub. L. 96–223, title IV, §401(a), (c)(1), Apr. 2, 1980, 94 Stat. 299, 300; Pub. L. 97–34, title II, §212(d)(2)(G), title IV, §421(g), Aug. 13, 1981, 95 Stat. 239, 310; Pub. L. 97–248, title II, §§201(c)(2), 205(a)(5)(B), Sept. 3, 1982, 96 Stat. 418, 429; Pub. L. 97–354, §5(a)(33), Oct. 19, 1982, 96 Stat. 1695; Pub. L. 98–369, div. A, title I, §§43(a)(2), 53(d)(3), title II, §211(b)(14), title IV, §474(r)(23), title V, §541(b)(2), July 18, 1984, 98 Stat. 558, 568, 756, 844, 890; Pub. L. 99–514, title II, §241(b)(2), title VII, §701(e)(4)(D), title XIII, §1303(b)(3), title XVIII, §1899A(25), Oct. 22, 1986, 100 Stat. 2181, 2343, 2658, 2959; Pub. L. 100–647, title I, §§1006(j)(1)(B), 1018(u)(22), Nov. 10, 1988, 102 Stat. 3411, 3591; Pub. L. 101–194, title V, §502(b)(2), Nov. 30, 1989, 103 Stat. 1755; Pub. L. 101–508, title XI, §§11801(c)(1), 11812(b)(10), 11813(b)(19), Nov. 5, 1990, 104 Stat. 1388–522, 1388–535, 1388–555; Pub. L. 102–486, title XIX, §1913(a)(3)(A), (b)(2)(B), Oct. 24, 1992, 106 Stat. 3019, 3020; Pub. L. 103–66, title XIII, §§13114(b), 13213(a)(2)(F), 13261(f)(3), Aug. 10, 1993, 107 Stat. 431, 474, 539; Pub. L. 104–188, title I, §§1704(t)(56), 1807(c)(5), Aug. 20, 1996, 110 Stat. 1890, 1902; Pub. L. 105–34, title III, §§312(d)(6), 313(b)(1), title VII, §701(b)(2), Aug. 5, 1997, 111 Stat. 840, 842, 869; Pub. L. 106–554, §1(a)(7) \[title I, §116(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–603; Pub. L. 107–16, title II, §205(b)(3), June 7, 2001, 115 Stat. 53; Pub. L. 108–357, title II, §245(c)(2), title III, §§338(b)(4), 339(d), title IV, §413(c)(19), Oct. 22, 2004, 118 Stat. 1448, 1481, 1484, 1509; Pub. L. 109–58, title XIII, §§1331(b)(1), 1332(c), 1333(b)(1), 1335(b)(4), 1341(b)(2), 1342(b)(2), Aug. 8, 2005, 119 Stat. 1023, 1026, 1029, 1036, 1049, 1051; Pub. L. 109–135, title IV, §412(nn), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 110–172, §§7(a)(1)(C), 11(a)(21), (22), Dec. 29, 2007, 121 Stat. 2481, 2486; Pub. L. 110–343, div. B, title II, §205(d)(2), Oct. 3, 2008, 122 Stat. 3839; Pub. L. 111–5, div. B, title I, §§1141(b)(3), 1142(b)(6), Feb. 17, 2009, 123 Stat. 328, 331; Pub. L. 111–148, title X, §10909(b)(2)(L), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 299; June 29, 1956, ch. 464, §4(c), 70 Stat. 407; Pub. L. 85–866, title I, §§2(b), 64(d)(2), Sept. 2, 1958, 72 Stat. 1607, 1656; Pub. L. 86–69, §3(d), June 25, 1959, 73 Stat. 139; Pub. L. 87–834, §§2(f), 8(g)(2), 12(b)(4), Oct. 16, 1962, 76 Stat. 972, 998, 1031; Pub. L. 88–272, title II, §§203(a)(3)(C), 225(j)(2), 227(b)(5), Feb. 26, 1964, 78 Stat. 34, 93, 98; Pub. L. 91–172, title II, §231(c)(3), title V, §§504(c)(4), 516(c)(2)(B), Dec. 30, 1969, 83 Stat. 580, 633, 648; Pub. L. 94–455, title XIX, §1901(a)(123), (b)(1)(F)(ii), (21)(G), (29)(A), (30)(A), title XX, §2005(a)(3), Oct. 4, 1976, 90 Stat. 1784, 1790, 1798, 1799, 1876; Pub. L. 95–472, §4(b), Oct. 17, 1978, 92 Stat. 1335; Pub. L. 95–600, title V, §515(2), title VI, §601(b)(3), title VII, §702(r)(3), Nov. 6,1978, 92 Stat. 2884, 2896, 2938; Pub. L. 95–618, title I, §101(b)(3), title II, §201(b), Nov. 9, 1978, 92 Stat. 3179, 3183; Pub. L. 96–222, title I, §§106(a)(2), (3), 107(a)(2)(C), Apr. 1, 1980, 94 Stat. 221, 222; Pub. L. 96–223, title IV, §401(a), (c)(1), Apr. 2, 1980, 94 Stat. 299, 300; Pub. L. 97–34, title II, §212(d)(2)(G), title IV, §421(g), Aug. 13, 1981, 95 Stat. 239, 310; Pub. L. 97–248, title II, §§201(c)(2), 205(a)(5)(B), Sept. 3, 1982, 96 Stat. 418, 429; Pub. L. 97–354, §5(a)(33), Oct. 19, 1982, 96 Stat. 1695; Pub. L. 98–369, div. A, title I, §§43(a)(2), 53(d)(3), title II, §211(b)(14), title IV, §474(r)(23), title V, §541(b)(2), July 18, 1984, 98 Stat. 558, 568, 756, 844, 890; Pub. L. 99–514, title II, §241(b)(2), title VII, §701(e)(4)(D), title XIII, §1303(b)(3), title XVIII, §1899A(25), Oct. 22, 1986, 100 Stat. 2181, 2343, 2658, 2959; Pub. L. 100–647, title I, §§1006(j)(1)(B), 1018(u)(22), Nov. 10, 1988, 102 Stat. 3411, 3591; Pub. L. 101–194, title V, §502(b)(2), Nov. 30, 1989, 103 Stat. 1755; Pub. L. 101–508, title XI, §§11801(c)(1), 11812(b)(10), 11813(b)(19), Nov. 5, 1990, 104 Stat. 1388–522, 1388–535, 1388–555; Pub. L. 102–486, title XIX, §1913(a)(3)(A), (b)(2)(B), Oct. 24, 1992, 106 Stat. 3019, 3020; Pub. L. 103–66, title XIII, §§13114(b), 13213(a)(2)(F), 13261(f)(3), Aug. 10, 1993, 107 Stat. 431, 474, 539; Pub. L. 104–188, title I, §§1704(t)(56), 1807(c)(5), Aug. 20, 1996, 110 Stat. 1890, 1902; Pub. L. 105–34, title III, §§312(d)(6), 313(b)(1), title VII, §701(b)(2), Aug. 5, 1997, 111 Stat. 840, 842, 869; Pub. L. 106–554, §1(a)(7) \[title I, §116(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–603; Pub. L. 107–16, title II, §205(b)(3), June 7, 2001, 115 Stat. 53; Pub. L. 108–357, title II, §245(c)(2), title III, §§338(b)(4), 339(d), title IV, §413(c)(19), Oct. 22, 2004, 118 Stat. 1448, 1481, 1484, 1509; Pub. L. 109–58, title XIII, §§1331(b)(1), 1332(c), 1333(b)(1), 1335(b)(4), 1341(b)(2), 1342(b)(2), Aug. 8, 2005, 119 Stat. 1023, 1026, 1029, 1036, 1049, 1051; Pub. L. 109–135, title IV, §412(nn), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 110–172, §§7(a)(1)(C), 11(a)(21), (22), Dec. 29, 2007, 121 Stat. 2481, 2486; Pub. L. 110–343, div. B, title II, §205(d)(2), Oct. 3, 2008, 122 Stat. 3839; Pub. L. 111–5, div. B, title I, §§1141(b)(3), 1142(b)(6), Feb. 17, 2009, 123 Stat. 328, 331; Pub. L. 111–148, title X, §10909(b)(2)(L), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298.)
 
 #### Amendment of Section
 
@@ -270,7 +270,7 @@ Subsec. (e). Pub. L. 103–66, §13213(a)(2)(F), amended heading and text of sub
 
 Subsec. (a)(20). Pub. L. 101–508, §11813(b)(19), which directed the amendment of subsec. (a)(21) by striking “section 48(q)” and inserting “section 50(c)”, was executed to subsec. (a)(20). See 1996 Amendment note above.
 
-Pub. L. 101–508, §11801(c)(1), redesignated par. (21) as (20) and struck out former par. (20) which read as follows: “to the extent provided in section 23(e), in thecase of property with respect to which a credit has been allowed under section 23;”.
+Pub. L. 101–508, §11801(c)(1), redesignated par. (21) as (20) and struck out former par. (20) which read as follows: “to the extent provided in section 23(e), in the case of property with respect to which a credit has been allowed under section 23;”.
 
 Subsec. (a)(21) to (25). Pub. L. 101–508, §11801(c)(1), redesignated pars. (21) to (25) as (20) to (24), respectively.
 
@@ -412,7 +412,7 @@ Amendment by section 1332(c) of Pub. L. 109–58 applicable to qualified new ene
 
 Amendment by section 1333(b)(1) of Pub. L. 109–58 applicable to property placed in service after Dec. 31, 2005, see section 1333(c) of Pub. L. 109–58, set out as an Effective Date note under section 25C of this title.
 
-Amendment by section 1335(b)(4) of Pub. L. 109–58 applicable to property placed in service after Dec. 31, 2005, in taxable years ending after such date, see section 1335(c) of Pub. L. 109–58, set out as a note under section 36C of this title.
+Amendment by section 1335(b)(4) of Pub. L. 109–58 applicable to property placed in service after Dec. 31, 2005, in taxable years ending after such date, see section 1335(c) of Pub. L. 109–58, set out as a note under section 23 of this title.
 
 Amendment by section 1341(b)(2) of Pub. L. 109–58 applicable to property placed in service after Dec. 31, 2005, in taxable years ending after such date, see section 1341(c) of Pub. L. 109–58, set out as an Effective Date note under section 30B of this title.
 
@@ -424,7 +424,7 @@ Amendment by section 245(c)(2) of Pub. L. 108–357 applicable to taxable years 
 
 Amendment by section 338(b)(4) of Pub. L. 108–357 applicable to expenses paid or incurred after Dec. 31, 2002, in taxable years ending after such date, see section 338(c) of Pub. L. 108–357, set out as an Effective Date note under section 179B of this title.
 
-Amendment by section 339(d) of Pub. L. 108–357 applicable to expenses paid or incurred after Dec. 31, 2002, in taxable years ending after such date, see section 339(f) of Pub. L. 108–357, set out as a note under section 38 of this title.
+Amendment by section 339(d) of Pub. L. 108–357 applicable to expenses paid or incurred after Dec. 31, 2002, intaxable years ending after such date, see section 339(f) of Pub. L. 108–357, set out as a note under section 38 of this title.
 
 Amendment by section 413(c)(19) of Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.
 
@@ -448,7 +448,7 @@ Amendment by section 701(b)(2) of Pub. L. 105–34 effective Aug. 5, 1997, see s
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 1807(c)(5) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1807(e) of Pub. L. 104–188, set out as an Effective Date note under section 36C of this title.
+Amendment by section 1807(c)(5) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1807(e) of Pub. L. 104–188, set out as an Effective Date note under section 23 of this title.
 
 #### Effective Date of 1993 Amendment
 
@@ -598,7 +598,7 @@ Short Title.—This section may be cited as the ‘Retirement-Straight Line Adju
 
 “(b)
 
-Making of Election.—Any taxpayer who held retirement-straight line property on his 1956 adjustment date may elect to have this section apply. Such an election shall be made at such time and in such manner as the Secretary shall prescribe. Any election under this section shall be irrevocable and shall apply to all retirement-straight line property as hereinafter providedin this section (including such property for periods when held by predecessors of the taxpayer).
+Making of Election.—Any taxpayer who held retirement-straight line property on his 1956 adjustment date may elect to have this section apply. Such an election shall be made at such time and in such manner as the Secretary shall prescribe. Any election under this section shall be irrevocable and shall apply to all retirement-straight line property as hereinafter provided in this section (including such property for periods when held by predecessors of the taxpayer).
 
 “(c)
 
@@ -662,7 +662,7 @@ Equity Invested Capital, etc.—If an election is made under this section, then 
 
 &emsp;“(1)
 
-Equity invested capital.—In determining equity invested capital under sections 458 and 718 of the Internal Revenue Code of 1939, accumulated earnings and profits as of the changeover date, and as of the beginning of each taxable year thereafter, shall be reduced by the depreciation sustained before March 1, 1913, as computed under subsection (d)(1)(B); and
+Equity invested capital.—In determining equity invested capital under sections 458 and 718 of theInternal Revenue Code of 1939, accumulated earnings and profits as of the changeover date, and as of the beginning of each taxable year thereafter, shall be reduced by the depreciation sustained before March 1, 1913, as computed under subsection (d)(1)(B); and
 
 &emsp;“(2)
 

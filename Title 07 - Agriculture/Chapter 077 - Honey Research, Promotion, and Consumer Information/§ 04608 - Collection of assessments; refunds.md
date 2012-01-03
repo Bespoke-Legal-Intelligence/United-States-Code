@@ -108,7 +108,7 @@ The Agricultural Act of 1949, referred to in subsec. (d), is act Oct. 31, 1949, 
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–185, §605(h)(1)(A), added subsec. (a) and struck out former subsec. (a) which read as follows: “Except as provided by subsections (c), (d), (e), and (i) of this section, the first handler of honey shall be responsible for the collection from the producer, and payment to the Honey Board, of assessments authorized by this chapter.”
+<b>1998</b>—Subsec. (a). Pub. L. 105–185, §605(h)(1)(A), added subsec. (a) and struck out former subsec. (a) which read as follows: “Except as provided by subsections (c), (d), (e), and (i) of this section, the first handler of honey shall be responsible for the collection from the producer, and payment to the Honey Board, of assessments authorized by this chapter.”
 
 Subsec. (c). Pub. L. 105–185, §605(h)(1)(B), added subsec. (c) and struck out former subsec. (c) which read as follows: “The assessment on imported honey and honey products shall be paid by the importer at the time of entry into the United States and shall be remitted to the Honey Board.”
 
@@ -130,11 +130,11 @@ Subsec. (h). Pub. L. 105–185, §605(h)(4), (5), added subsec. (h) and struck o
 
 Subsec. (i). Pub. L. 105–185, §605(h)(6), inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, and added par. (2).
 
-1996—Subsec. (f). Pub. L. 104–127 inserted “producers,” after “importers,”.
+<b>1996</b>—Subsec. (f). Pub. L. 104–127 inserted “producers,” after “importers,”.
 
-1991—Subsec. (h)(1)(A). Pub. L. 102–237 inserted “to” before “an importer”.
+<b>1991</b>—Subsec. (h)(1)(A). Pub. L. 102–237 inserted “to” before “an importer”.
 
-1990—Subsec. (a). Pub. L. 101–624, §1984(b)(1), inserted reference to subsec. (i) of this section.
+<b>1990</b>—Subsec. (a). Pub. L. 101–624, §1984(b)(1), inserted reference to subsec. (i) of this section.
 
 Subsec. (d). Pub. L. 101–624, §1984(b)(2), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “In any case in which a loan is made with respect to any honey under the Honey Loan Price Support Program, the Secretary shall provide that the assessment shall be deducted from the proceeds of the loan and that the amount of such assessment shall be forwarded to the Honey Board. When such loan is redeemed, the Secretary shall provide the producer with proof of payment of the assessment.”
 

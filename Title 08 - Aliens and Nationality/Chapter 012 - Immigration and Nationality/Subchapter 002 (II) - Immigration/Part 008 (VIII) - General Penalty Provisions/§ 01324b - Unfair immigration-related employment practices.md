@@ -226,13 +226,13 @@ Subsections (j), (<i>l</i>), (m), and (n) of section 1324a of this title, referr
 
 #### Amendments
 
-1996—Subsec. (a)(3)(B). Pub. L. 104–208, §671(d)(1)(B), struck out “, 1161(a),” after “section 1160(a)”.
+<b>1996</b>—Subsec. (a)(3)(B). Pub. L. 104–208, §671(d)(1)(B), struck out “, 1161(a),” after “section 1160(a)”.
 
 Subsec. (a)(6). Pub. L. 104–208, §421(a), substituted “A person's” for “For purposes of paragraph (1), a person's” and “if made for the purpose or with the intent of discriminating against an individual in violation of paragraph (1)” for “relating to the hiring of individuals”.
 
-1994—Subsec. (g)(2)(C). Pub. L. 103–416 substituted “the Special Counsel” for “an administrative law judge” in first sentence.
+<b>1994</b>—Subsec. (g)(2)(C). Pub. L. 103–416 substituted “the Special Counsel” for “an administrative law judge” in first sentence.
 
-1991—Subsec. (g)(2)(B)(iv)(II). Pub. L. 102–232, §306(b)(1), substituted “subclauses (III) and (IV)” for “subclause (IV)”.
+<b>1991</b>—Subsec. (g)(2)(B)(iv)(II). Pub. L. 102–232, §306(b)(1), substituted “subclauses (III) and (IV)” for “subclause (IV)”.
 
 Subsec. (g)(2)(B)(iv)(IV). Pub. L. 102–232, §306(b)(3)(A), substituted a semicolon for period at end.
 
@@ -244,7 +244,7 @@ Subsec. (g)(2)(B)(viii). Pub. L. 102–232, §306(b)(3)(E), substituted “to li
 
 Subsec. (g)(2)(D). Pub. L. 102–232, §306(c)(1), substituted “physically” for “physicially”.
 
-1990—Subsec. (a)(1)(B). Pub. L. 101–649, §533(a)(1), substituted “protected individual” for “citizen or intending citizen”.
+<b>1990</b>—Subsec. (a)(1)(B). Pub. L. 101–649, §533(a)(1), substituted “protected individual” for “citizen or intending citizen”.
 
 Subsec. (a)(3). Pub. L. 101–649, §533(a)(2), (3), in heading and text substituted “protected individual” for “citizen or intending citizen”.
 
@@ -278,7 +278,7 @@ Subsec. (g)(2)(B)(v) to (viii). Pub. L. 101–649, §539(a)(3), added cls. (v) t
 
 Subsec. (<i>l</i>). Pub. L. 101–649, §531, added subsec. (<i>l</i>).
 
-1988—Subsec. (a)(1). Pub. L. 100–525, §2(b)(1), inserted reference to section 1324a(h)(3) of this title.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–525, §2(b)(1), inserted reference to section 1324a(h)(3) of this title.
 
 Subsec. (e)(3). Pub. L. 100–525, §2(b)(2), struck out “said” before “proceeding”.
 

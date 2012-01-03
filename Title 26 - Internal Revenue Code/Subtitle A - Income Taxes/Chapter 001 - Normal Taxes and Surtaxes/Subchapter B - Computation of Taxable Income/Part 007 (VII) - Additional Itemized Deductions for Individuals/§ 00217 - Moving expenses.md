@@ -104,7 +104,7 @@ In the case of a member of the Armed Forces of the United States on active duty 
 
 &emsp;In the case of any qualified retiree moving expenses or qualified survivor moving expenses—
 
-&emsp;&emsp;(A) this section (other than subsection (h)) shall be applied with respect to such expenses as if they were incurred in connection with the commencement of work by the taxpayer as an employee at a new principal place of work located within the United States, and
+&emsp;&emsp;(A) this section (other than subsection (h)) shall be applied with respect to such expenses as if they were incurred in connectionwith the commencement of work by the taxpayer as an employee at a new principal place of work located within the United States, and
 
 &emsp;&emsp;(B) the limitations of subsection (c)(2) shall not apply.
 
@@ -186,7 +186,7 @@ Amendment by Pub. L. 103–66 applicable to expenses incurred after Dec. 31, 199
 
 #### Effective Date of 1978 Amendment; Election of Prior Law
 
-Amendment by Pub. L. 95–615 applicable to taxable years beginning after Dec. 31, 1977, with provision for election of prior law, see section 209 of Pub. L. 95–615, set out as an Effective Date of 1978 Amendment note under section 911 of this title.
+Amendment by Pub. L. 95–615 applicable to taxable years beginning after Dec. 31, 1977, with provision forelection of prior law, see section 209 of Pub. L. 95–615, set out as an Effective Date of 1978 Amendment note under section 911 of this title.
 
 #### Effective Date of 1976 Amendment
 

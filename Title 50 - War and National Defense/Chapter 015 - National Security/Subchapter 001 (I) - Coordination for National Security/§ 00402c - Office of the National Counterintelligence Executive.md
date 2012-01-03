@@ -18,11 +18,17 @@ Subject to the direction and control of the National Counterintelligence Executi
 
 #### (1) National threat identification and prioritization assessment
 
-&emsp;Subject to subsection (e), in consultation with appropriate department and agencies of the United States Government, and private sector entities, to produce on an annual basis a strategic planning assessment of the counterintelligence requirements of the United States to be known as the National Threat Identification and Prioritization Assessment.
+&emsp;Subject to subsection (e), in consultation with appropriate department and agencies of the United States Government, and private sector entities, to produce a strategic planning assessment of the counterintelligence requirements of the United States to be known as the National Threat Identification and Prioritization Assessment.
 
 #### (2) National Counterintelligence Strategy
 
-&emsp;Subject to subsection (e), in consultation with appropriate department and agencies of the United States Government, and private sector entities, and based on the most current National Threat Identification and Prioritization Assessment under paragraph (1), to produce on an annual basis a strategy for the counterintelligence programs and activities of the United States Government to be known as the National Counterintelligence Strategy.
+#### (A) Requirement to produce
+
+&emsp;&emsp;Subject to subsection (e), in consultation with appropriate department and agencies of the United States Government, and private sector entities, and based on the most current National Threat Identification and Prioritization Assessment under paragraph (1), to produce a strategy for the counterintelligence programs and activities of the United States Government to be known as the National Counterintelligence Strategy.
+
+#### (B) Revision and requirement
+
+&emsp;&emsp;The National Counterintelligence Strategy shall be revised or updated at least once every three years and shall be aligned with the strategy and policies of the Director of National Intelligence.
 
 #### (3) Implementation of National Counterintelligence Strategy
 
@@ -58,7 +64,7 @@ Subject to the direction and control of the National Counterintelligence Executi
 
 #### (B) Outreach
 
-&emsp;&emsp;To carry out and coordinate outreach programs and activities on counterintelligence to other elements of the United States Government, and the private sector, and to coordinate the dissemination to the public of warnings on intelligence threats to the United States.
+&emsp;&emsp;To carry out and coordinate outreach programs and activities on counterintelligenceto other elements of the United States Government, and the private sector, and to coordinate the dissemination to the public of warnings on intelligence threats to the United States.
 
 #### (C) Research and development
 
@@ -104,7 +110,7 @@ The location of the Office of the National Counterintelligence Executive within 
 
 Nothing in this section shall be construed as affecting the authority of the Director of National Intelligence, the Secretary of Defense, the Secretary of State, the Attorney General, or the Director of the Federal Bureau of Investigation as provided or specified under the National Security Act of 1947 or under other provisions of law.
 
-(Pub. L. 107–306, title IX, §904, Nov. 27, 2002, 116 Stat. 2434; Pub. L. 108–458, title I, §§1071(g)(2)(B), 1072(d)(1)(C), Dec. 17, 2004, 118 Stat. 3691, 3693; Pub. L. 111–259, title IV, §412, Oct. 7, 2010, 124 Stat. 2725.)
+(Pub. L. 107–306, title IX, §904, Nov. 27, 2002, 116 Stat. 2434; Pub. L. 108–458, title I, §§1071(g)(2)(B), 1072(d)(1)(C), Dec. 17, 2004, 118 Stat. 3691, 3693; Pub. L. 111–259, title IV, §412, Oct. 7, 2010, 124 Stat. 2725; Pub. L. 112–18, title IV, §401, June 8, 2011, 125 Stat. 227; Pub. L. 112–87, title III, §311(b), Jan. 3, 2012, 125 Stat. 1886.)
 
 #### References in Text
 
@@ -117,6 +123,10 @@ The National Security Act of 1947, referred to in subsec. (i), is act July 26, 1
 Section was enacted as part of the Counterintelligence Enhancement Act of 2002, and also as part of the Intelligence Authorization Act for Fiscal Year 2003, and not as part of the National Security Act of 1947 which comprises this chapter.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (d)(1). Pub. L. 112–87 struck out “on an annual basis” after “to produce”.
+
+<b>2011</b>—Subsec. (d)(2). Pub. L. 112–18 inserted subpar. (A) designation and heading, struck out “on an annual basis” after “to produce”, and added subpar. (B).
 
 <b>2010</b>—Subsec. (d). Pub. L. 111–259, §412(a)(1), (2), redesignated subsec. (e) as (d) and struck out former subsec. (d). Text read as follows:
 

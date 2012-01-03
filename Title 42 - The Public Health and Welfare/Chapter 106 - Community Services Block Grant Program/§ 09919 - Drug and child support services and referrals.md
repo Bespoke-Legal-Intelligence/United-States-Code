@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Nothing in this chapter shall be construed to prohibit a State from testing participants in programs, activities, or services carried out or provided under this chapter for controlled substances. A State that conducts such testing shall inform the participants who test positive for any of such substances about the availability of treatment or rehabilitation services and refer such participants for appropriate treatment or rehabilitation services.
+&emsp;Nothing in this chapter shall be construed to prohibit a State from testing participants inprograms, activities, or services carried out or provided under this chapter for controlled substances. A State that conducts such testing shall inform the participants who test positive for any of such substances about the availability of treatment or rehabilitation services and refer such participants for appropriate treatment or rehabilitation services.
 
 #### (2) Administrative expenses
 

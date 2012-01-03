@@ -40,7 +40,7 @@
 
 > Except as provided in paragraph (2) of subsection (d), any authorization made pursuant to clause (9) of this subsection to permit the use of a passenger carrier to transport an officer or employee between residence and place of employment shall be effective for not more than 15 calendar days.
 
-(c) A passenger carrier may be used to transport between residence and place of employment any person for whom protection is specifically authorized pursuant to section 3056(a) of title 18 or for whom transportation is authorized pursuant to section 28 of the State Department Basic Authorities Act of 1956, section 2637 of title 10, or section 8(a)(1) of the Central Intelligence Agency Act of 1949.
+(c) A passenger carrier may be used to transport between residence and place of employment any person for whom protection is specifically authorized pursuant to section 3056(a) of title 18 or for whom transportation is authorized pursuant to section 28 of the State Department BasicAuthorities Act of 1956, section 2637 of title 10, or section 8(a)(1) of the Central Intelligence Agency Act of 1949.
 
 (d)(1) Any determination made under subsection (b)(9) of this section shall be in writing and shall include the name and title of the officer or employee affected, the reason for such determination, and the duration of the authorization for such officer or employee to use a passenger carrier for transportation between residence and place of employment.
 
@@ -78,7 +78,7 @@
 
 (h) As used in this section—
 
-&emsp;(1) the term “passenger carrier” means a passenger motor vehicle, aircraft, boat, ship, or other similar means of transportation that is owned or leased by the United States Government; and
+&emsp;(1) the term “passenger carrier” means a passenger motor vehicle, aircraft, boat, ship,or other similar means of transportation that is owned or leased by the United States Government; and
 
 &emsp;(2) the term “Federal agency” means—
 
@@ -202,7 +202,7 @@ Reference to the Director of Central Intelligence or the Director of the Central
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight ofHouse of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effective Date of 2004 Amendment
 

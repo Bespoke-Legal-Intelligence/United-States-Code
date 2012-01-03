@@ -36,7 +36,7 @@ Revocation of a consent previously signified shall be made in such manner as in 
 
 If the consent required by subsection (a)(2) is signified with respect to a gift made in any calendar year, the liability with respect to the entire tax imposed by this chapter of each spouse for such year shall be joint and several.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 406; Pub. L. 91–614, title I, §102(b)(2), Dec. 31, 1970, 84 Stat.1840; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–34, title IV, §442(b)(2), Aug. 13, 1981, 95 Stat. 322.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 406; Pub. L. 91–614, title I, §102(b)(2), Dec. 31, 1970, 84 Stat. 1840; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–34, title IV, §442(b)(2), Aug. 13, 1981, 95 Stat. 322.)
 
 #### Amendments
 

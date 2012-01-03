@@ -26,7 +26,7 @@ Prior sections 1601, 1602, 1621 to 1625, 1631 to 1634, 1641, and 1643, which com
 
 Other prior sections 1601, 1610 to 1613, 1620 to 1626, 1631 to 1634, 1641 to 1645, 1651 to 1656, and 1661 to 1669, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1174–1192; Pub. L. 86–150, Aug. 11, 1964, 73 Stat. 332; Pub. L. 87–815, §1, Oct. 15, 1962, 76 Stat. 926; Pub. L. 88–361, §7, July 7, 1964, 78 Stat. 298, comprised chapter 33, Education of Korean Conflict Veterans, prior to repeal by Pub. L. 89–358, §4(a), Mar. 3, 1966, 80 Stat. 23.
 
-Section 1601 defined “basic service period”, “eligible veteran”, “program of education or training”, “course”, “dependent”, “educational institutions”,“training establishments”, “State”, and “Commissioner”, made benefits unavailable to individuals serving as commissioned officers of Coast and Geodetic Survey or of Regular or Reserve Corps of the Public Health Service unless the service qualified those individuals for benefits under title II of the Veteran's Readjustment Assistance Act of 1952, and declared Congressional policy. See sections 3451(3), (4) and 3452(a)(1), (3)(A), (B), (b) to (d) of this title.
+Section 1601 defined “basic service period”, “eligible veteran”, “program of education or training”, “course”, “dependent”, “educational institutions”, “training establishments”, “State”, and “Commissioner”, made benefits unavailable to individuals serving as commissioned officers of Coast and Geodetic Survey or of Regular or Reserve Corps of the Public Health Service unless the service qualified those individuals for benefits under title II of the Veteran's Readjustment Assistance Act of 1952, and declared Congressional policy. See sections 3451(3), (4) and 3452(a)(1), (3)(A), (B), (b) to (d) of this title.
 
 Section 1610 provided for entitlement to education or training generally. See section 3461(a) of this title.
 
@@ -176,7 +176,7 @@ Subsecs. (b), (d). Pub. L. 94–169, §106(45), substituted “such person” fo
 
 Pub. L. 107–330, title III, §304(d), Dec. 6, 2002, 116 Stat. 2826, provided that:
 
-“(1) Except as provided in paragraph (2), the amendments made by subsections (a) and (b) \[amending this section\] shall take effect on September 1, 2003. No payment may be made pursuant to subsection (f) of section 1562 of title 38, United States Code, as added by subsection (c) of this section, before October 1, 2003.
+“(1) Except as provided in paragraph (2), the amendments made by subsections (a) and (b) \[amending thissection\] shall take effect on September 1, 2003. No payment may be made pursuant to subsection (f) of section 1562 of title 38, United States Code, as added by subsection (c) of this section, before October 1, 2003.
 
 “(2) The Secretary of Veterans Affairs shall not make any adjustment under subsection (e) of section 1562 of title 38, United States Code, as added by subsection (b) of this section, in 2003.”
 

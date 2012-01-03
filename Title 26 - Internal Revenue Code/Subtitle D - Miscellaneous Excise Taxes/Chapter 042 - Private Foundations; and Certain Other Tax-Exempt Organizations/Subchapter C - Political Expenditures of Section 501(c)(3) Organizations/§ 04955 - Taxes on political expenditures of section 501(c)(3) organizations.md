@@ -8,7 +8,7 @@
 
 #### (2) On the management
 
-&emsp;There is hereby imposed on the agreement of any organization manager to the making of any expenditure, knowing that it is a political expenditure, a tax equal to 21/2 percent of the amount thereof, unless such agreement is not willful and is due to reasonable cause. The tax imposed by this paragraph shall be paid by any organization manager who agreed to the making of the expenditure.
+&emsp;There is hereby imposed on the agreement of any organization manager to the making of any expenditure, knowing that it is a political expenditure, a tax equal to 2½ percent of the amount thereof, unless such agreement is not willful and is due to reasonable cause. The tax imposed by this paragraph shall be paid by any organization manager who agreed to the making of the expenditure.
 
 #### (b) Additional taxes
 

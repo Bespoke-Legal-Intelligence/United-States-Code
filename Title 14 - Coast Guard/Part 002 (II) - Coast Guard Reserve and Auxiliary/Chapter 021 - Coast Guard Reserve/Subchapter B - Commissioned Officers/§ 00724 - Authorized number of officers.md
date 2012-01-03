@@ -8,7 +8,7 @@
 
 (c)
 
-Deferral of Limitation.—If at the end of any fiscal year there is in effect a declaration of war or national emergency, the President may defer the effectiveness of any end-strength limitation with respect to that fiscal year prescribed by law for any military or civilian component of the Coast Guard Reserve, for a period not to exceed 6 months after the end of the war or termination of the national emergency.
+Deferral of Limitation.—If at the end of any fiscal year there is in effect a declaration ofwar or national emergency, the President may defer the effectiveness of any end-strength limitation with respect to that fiscal year prescribed by law for any military or civilian component of the Coast Guard Reserve, for a period not to exceed 6 months after the end of the war or termination of the national emergency.
 
 (Added Pub. L. 96–322, §1, Aug. 4, 1980, 94 Stat. 1007; amended Pub. L. 97–417, §2(12), Jan. 4, 1983, 96 Stat. 2086; Pub. L. 98–557, §25(a)(4), Oct. 30, 1984, 98 Stat. 2872; Pub. L. 99–145, title V, §514(c)(1), Nov. 8, 1985, 99 Stat. 629; Pub. L. 107–295, title I, §105(b), Nov. 25, 2002, 116 Stat. 2085; Pub. L. 109–241, title II, §207, July 11, 2006, 120 Stat. 521.)
 
@@ -18,15 +18,15 @@ Provisions similar to those in this section were contained in section 772 of thi
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–241, §207(1), inserted “Reserve officers on an active-duty list shall not be counted as part of the authorized number of officers in the Reserve.” after “5,000.”
+<b>2006</b>—Subsec. (a). Pub. L. 109–241, §207(1), inserted “Reserve officers on an active-duty list shall not be counted as part of the authorized number of officers in the Reserve.” after “5,000.”
 
 Subsec. (b)(1). Pub. L. 109–241, §207(2), added par. (1) and struck out former par. (1) which read as follows: “The authorized number of Reserve officers in an active status below the grade of rear admiral (lower half) shall be distributed in grade in the following percentages, respectively: captain, 1.5; commander, 7.0; lieutenant commander, 22.0; lieutenant, 37.0; and the combined grades of lieutenant (junior grade) and ensign, 32.5. When the actual number of Reserve officers in an active status in a grade is less than the number authorized, the difference may be applied to increase the authorized number in a lower grade. A Reserve officer may not be reduced in rank or grade solely because of a reduction in an authorized number as provided for in this subsection, or because an excess results directly from the operation of law.”
 
-2002—Subsec. (c). Pub. L. 107–295 added subsec. (c).
+<b>2002</b>—Subsec. (c). Pub. L. 107–295 added subsec. (c).
 
-1985—Subsec. (b). Pub. L. 99–145 substituted “rear admiral (lower half)” for “commodore” wherever appearing.
+<b>1985</b>—Subsec. (b). Pub. L. 99–145 substituted “rear admiral (lower half)” for “commodore” wherever appearing.
 
-1984—Subsec. (b). Pub. L. 98–557 designated existing provisions as par. (1), struck out provisions authorizing number of Reserve officers in an active status not on active duty in the combined grades of commodore and rear admiral as two, and added par. (2).
+<b>1984</b>—Subsec. (b). Pub. L. 98–557 designated existing provisions as par. (1), struck out provisions authorizing number of Reserve officers in an active status not on active duty in the combined grades of commodore and rear admiral as two, and added par. (2).
 
-1983—Subsec. (b). Pub. L. 97–417 substituted “commodore” for “rear admiral” and “combined grades of commodore and real admiral” for “grade of rear admiral”.
+<b>1983</b>—Subsec. (b). Pub. L. 97–417 substituted “commodore” for “rear admiral” and “combined grades of commodore and real admiral” for “grade of rear admiral”.
 

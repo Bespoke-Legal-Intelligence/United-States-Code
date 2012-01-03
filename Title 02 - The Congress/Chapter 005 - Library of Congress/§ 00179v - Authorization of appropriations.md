@@ -6,7 +6,7 @@ There are authorized to be appropriated to the Librarian for the first fiscal ye
 
 #### Amendments
 
-2008—Pub. L. 110–336 inserted “for the first fiscal year beginning on or after October 11, 1996, and each succeeding fiscal year through fiscal year 2016” after “the Librarian”.
+<b>2008</b>—Pub. L. 110–336 inserted “for the first fiscal year beginning on or after October 11, 1996, and each succeeding fiscal year through fiscal year 2016” after “the Librarian”.
 
 #### Effective Date of 2008 Amendment
 

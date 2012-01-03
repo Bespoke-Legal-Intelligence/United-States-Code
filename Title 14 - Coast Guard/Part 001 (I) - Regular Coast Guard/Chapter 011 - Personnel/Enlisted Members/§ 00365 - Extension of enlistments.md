@@ -14,7 +14,7 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### Amendments
 
-1984—Pub. L. 98–557 substituted reference to enlisted member for reference to enlisted man in three places.
+<b>1984</b>—Pub. L. 98–557 substituted reference to enlisted member for reference to enlisted man in three places.
 
-1960—Pub. L. 86–474 increased maximum term for extension of a reenlistment period from four to six years.
+<b>1960</b>—Pub. L. 86–474 increased maximum term for extension of a reenlistment period from four to six years.
 

@@ -106,5 +106,5 @@ Pub. L. 109–451, §1(a), Dec. 22, 2006, 120 Stat. 3345, provided that: “This
 
 Pub. L. 109–451, title I, §101, Dec. 22, 2006, 120 Stat. 3346, provided that: “This title \[enacting this subchapter\] may be cited as the ‘Reclamation Rural Water Supply Act of 2006’.”
 
-Pub. L. 109–451, title II, §201, Dec. 22, 2006, 120 Stat. 3356, provided that: “This title \[enacting subchapter II of this chapter\] may be cited as the ‘Twenty-First Century Water Works Act’.”
+Pub. L. 109–451, title II, §201, Dec. 22, 2006, 120 Stat. 3356, provided that: “This title \[enacting subchapter IIof this chapter\] may be cited as the ‘Twenty-First Century Water Works Act’.”
 

@@ -22,5 +22,5 @@ This Act, referred to in subsec. (b), is Pub. L. 102–550, Oct. 28, 1992, 106 S
 
 #### Amendments
 
-2008—Pub. L. 110–289 amended section generally. Prior to amendment, section related to risk-based capital levels for enterprises.
+<b>2008</b>—Pub. L. 110–289 amended section generally. Prior to amendment, section related to risk-based capital levels for enterprises.
 

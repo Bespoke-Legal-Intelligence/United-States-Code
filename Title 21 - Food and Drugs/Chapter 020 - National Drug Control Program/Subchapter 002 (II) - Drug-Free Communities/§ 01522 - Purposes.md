@@ -2,7 +2,7 @@
 
 The purposes of this subchapter are—
 
-&emsp;(1) to reduce substance abuse among youth in communities throughout the United States,and over time, to reduce substance abuse among adults;
+&emsp;(1) to reduce substance abuse among youth in communities throughout the United States, and over time, to reduce substance abuse among adults;
 
 &emsp;(2) to strengthen collaboration among communities, the Federal Government, and State, local, and tribal governments;
 

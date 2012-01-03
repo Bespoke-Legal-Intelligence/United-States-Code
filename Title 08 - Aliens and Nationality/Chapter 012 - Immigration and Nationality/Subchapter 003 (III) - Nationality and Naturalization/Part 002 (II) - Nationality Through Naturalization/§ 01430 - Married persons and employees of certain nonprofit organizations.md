@@ -20,15 +20,15 @@
 
 #### Amendments
 
-2008—Subsec. (e). Pub. L. 110–181 added subsec. (e).
+<b>2008</b>—Subsec. (e). Pub. L. 110–181 added subsec. (e).
 
-2003—Subsec. (d). Pub. L. 108–136, §1703(h), inserted “, child, or parent” after “surviving spouse” and “, parent, or child” after “whose citizen spouse”, and substituted “who, in the case of a surviving spouse, was living” for “who was living”.
+<b>2003</b>—Subsec. (d). Pub. L. 108–136, §1703(h), inserted “, child, or parent” after “surviving spouse” and “, parent, or child” after “whose citizen spouse”, and substituted “who, in the case of a surviving spouse, was living” for “who was living”.
 
 Pub. L. 108–136, §1703(f)(1), inserted at end “For purposes of this subsection, the terms ‘United States citizen’ and ‘citizen spouse’ include a person granted posthumous citizenship under section 1440–1 of this title.”
 
-2000—Subsec. (a). Pub. L. 106–386 inserted “, or any person who obtained status as a lawful permanent resident by reason of his or her status as a spouse or child of a United States citizen who battered him or her or subjected him or her to extreme cruelty,” after “citizen of the United States” and “(except in the case of a person who has been battered or subjected to extreme cruelty by a United States citizen spouse or parent)” after “has been living in marital union with the citizen spouse”.
+<b>2000</b>—Subsec. (a). Pub. L. 106–386 inserted “, or any person who obtained status as a lawful permanent resident by reason of his or her status as a spouse or child of a United States citizen who battered him or her or subjected him or her to extreme cruelty,” after “citizen of the United States” and “(except in the case of a person who has been battered or subjected to extreme cruelty by a United States citizen spouse or parent)” after “has been living in marital union with the citizen spouse”.
 
-1990—Subsec. (a). Pub. L. 101–649, §407(c)(5), substituted “application” for “petition” wherever appearing.
+<b>1990</b>—Subsec. (a). Pub. L. 101–649, §407(c)(5), substituted “application” for “petition” wherever appearing.
 
 Pub. L. 101–649, §407(b)(1)(A), substituted “has resided within the State or the district of the Service in the United States in which the applicant filed his application for at least three months” for “has resided within the State in which he filed his petition for at least six months.”
 
@@ -44,11 +44,11 @@ Pub. L. 101–649, §407(b)(1)(C), substituted “district of the Service in the
 
 Subsec. (d). Pub. L. 101–649, §407(b)(1)(B), substituted “within a State or a district of the Service in the United States” for “within the jurisdiction of the naturalization court”.
 
-1968—Subsec. (d). Pub. L. 90–369 added subsec. (d).
+<b>1968</b>—Subsec. (d). Pub. L. 90–369 added subsec. (d).
 
-1967—Subsec. (c). Pub. L. 90–215 added subsec. (c).
+<b>1967</b>—Subsec. (c). Pub. L. 90–215 added subsec. (c).
 
-1958—Subsec. (b). Pub. L. 85–697 inserted provision relating to persons performing religious duties.
+<b>1958</b>—Subsec. (b). Pub. L. 85–697 inserted provision relating to persons performing religious duties.
 
 #### Effective Date of 2008 Amendment
 

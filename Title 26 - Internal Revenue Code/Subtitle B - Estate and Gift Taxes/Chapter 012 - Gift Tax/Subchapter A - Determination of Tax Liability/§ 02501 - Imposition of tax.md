@@ -60,7 +60,7 @@ A donor who is a citizen of the United States and a resident of a possession the
 
 #### (c) Certain residents of possessions considered nonresidents not citizens of the United States
 
-A donor who is a citizen of the United States and a resident of a possession thereof shall, for purposes of the tax imposed by this chapter, be considered a “nonresident not a citizen of the United States” within the meaning of that term wherever used in this title, but only if such donor acquired his United States citizenship solely by reason of (1) his being a citizen of such possession of the United States, or (2) his birth or residence within such possession of the United States.
+A donor who is a citizen of the United States and a resident of a possession thereof shall, forpurposes of the tax imposed by this chapter, be considered a “nonresident not a citizen of the United States” within the meaning of that term wherever used in this title, but only if such donor acquired his United States citizenship solely by reason of (1) his being a citizen of such possession of the United States, or (2) his birth or residence within such possession of the United States.
 
 #### (d) Cross references
 
@@ -96,7 +96,7 @@ Subsec. (a)(4). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegat
 
 <b>1975</b>—Subsec. (a)(5). Pub. L. 93–625 added par. (5).
 
-<b>1970</b>—Subsec. (a)(1). Pub. L. 91–614, §102(a)(1)(A), substituted “For the first calendar quarter of the calendaryear 1971 and each calendar quarter thereafter” for “For the calendar year 1955 and each calendar year thereafter” and “during such calendar quarter” for “during such calendar year”.
+<b>1970</b>—Subsec. (a)(1). Pub. L. 91–614, §102(a)(1)(A), substituted “For the first calendar quarter of the calendar year 1971 and each calendar quarter thereafter” for “For the calendar year 1955 and each calendar year thereafter” and “during such calendar quarter” for “during such calendar year”.
 
 Subsec. (a)(4). Pub. L. 91–614, §102(a)(1)(B), substituted “calendar quarter” for “calendar year”.
 

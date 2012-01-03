@@ -56,7 +56,7 @@ The Federal Trade Commission shall have procedural, investigative, and enforceme
 
 #### (e) Acts or practices constituting violations
 
-It shall be an unfair or deceptive act or practice in or affecting commerce (within the meaning of section 5(a)(1) of the Federal Trade Commission Act \[15 U.S.C. 45(a)(1)\]) for any person to violate subsection (a), (b), (c), or (e) of section 2822 of this title, or a rule prescribed under subsection (d) of section 2822 of this title. For purposes of the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\] (including any remedy or penalty applicable to any violation thereof) such a violation shall be treated as a violation of a ruleunder such Act respecting unfair or deceptive acts or practices.
+It shall be an unfair or deceptive act or practice in or affecting commerce (within the meaning of section 5(a)(1) of the Federal Trade Commission Act \[15 U.S.C. 45(a)(1)\]) for any person to violate subsection (a), (b), (c), or (e) of section 2822 of this title, or a rule prescribed under subsection (d) of section 2822 of this title. For purposes of the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\] (including any remedy or penalty applicable to any violation thereof) such a violation shall be treated as a violation of a rule under such Act respecting unfair or deceptive acts or practices.
 
 (Pub. L. 95–297, title II, §203, June 19, 1978, 92 Stat. 335; Pub. L. 102–486, title XV, §§1501(c)(3), 1502(b), (c), Oct. 24, 1992, 106 Stat. 2997, 2998.)
 
@@ -70,7 +70,7 @@ The Federal Trade Commission Act, referred to in subsecs. (a) and (e), is act Se
 
 Pub. L. 102–486, §1501(c)(3)(A), (B), substituted “automotive fuel rating” for “octane rating” and “fuel” for “gasoline” wherever appearing.
 
-Subsec. (c). Pub. L. 102–486, §1501(c)(3), substituted “automotive fuel rating” for “octane rating” and “fuel” for “gasoline” wherever appearing, “section 2821” for “section 2821(1)” in par. (3), and “automotive fuel ratings” for “octane ratings” in par. (4).
+Subsec. (c). Pub. L. 102–486, §1501(c)(3), substituted “automotive fuel rating” for “octane rating” and“fuel” for “gasoline” wherever appearing, “section 2821” for “section 2821(1)” in par. (3), and “automotive fuel ratings” for “octane ratings” in par. (4).
 
 Subsec. (e). Pub. L. 102–586, §1502(b), struck out before end of second sentence “; except that for purposes of section 5(m)(1)(A) of such Act, the term ‘or knowledge fairly implied on the basis of objective circumstances’ shall not apply to any violation by any gasoline retailer of the requirements of section 2822(c) or (e) of this title”.
 

@@ -46,7 +46,7 @@ In this section, the following definitions shall apply:
 
 &emsp;&emsp;(A) A description of how the applicant will work jointly with the criminal justice and child welfare agencies needs <sup>4</sup> associated with the use of methamphetamine or methamphetamine and other drugs by pregnant and parenting women offenders to promote family stability and permanence.
 
-&emsp;&emsp;(B) A description of the nature and the extent of the problem of methamphetamine use by pregnant and parenting women offenders.
+&emsp;&emsp;(B) A description of the nature and the extent of the problem of methamphetamineuse by pregnant and parenting women offenders.
 
 &emsp;&emsp;(C) A certification that the State has involved counties, Indian tribes, and other units of local government, when appropriate, in the development, expansion, modification, operation or improvement of proposed programs to address the use, manufacture, or sale of methamphetamine.
 

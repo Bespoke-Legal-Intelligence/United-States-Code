@@ -14,7 +14,7 @@ Small business concern owned and controlled by socially and economically disadva
 
 &emsp;(3)
 
-Small business concern owned and controlled by women.—The term “small business concern owned and controlled by women” hasthe meaning given that term in section 8(d) of the Small Business Act (15 U.S.C. 637(d)) and section 204 of the Women's Business Ownership Act of 1988 (Public Law 100–533, 102 Stat. 2692).
+Small business concern owned and controlled by women.—The term “small business concern owned and controlled by women” has the meaning given that term in section 8(d) of the Small Business Act (15 U.S.C. 637(d)) and section 204 of the Women's Business Ownership Act of 1988 (Public Law 100–533, 102 Stat. 2692).
 
 (b)
 

@@ -4,7 +4,7 @@
 
 Notwithstanding any other provision of law, whenever a servicer of residential mortgages agrees to enter into a qualified loss mitigation plan with respect to 1 or more residential mortgages originated before May 20, 2009, including mortgages held in a securitization or other investment vehicle—
 
-&emsp;(1) to the extent that the servicer owes a duty to investors or other parties to maximize the net present value of such mortgages, the duty shall be construed to apply to all such investors and parties, and not to any individual party or group of parties; and
+&emsp;(1) to the extent that the servicer owes a duty to investors or other parties to maximize the net present value of such mortgages, theduty shall be construed to apply to all such investors and parties, and not to any individual party or group of parties; and
 
 &emsp;(2) the servicer shall be deemed to have satisfied the duty set forth in paragraph (1) if, before December 31, 2012, the servicer implements a qualified loss mitigation plan that meets the following criteria:
 
@@ -52,7 +52,7 @@ No provision of subsection (b) or (d) shall be construed as affecting the liabil
 
 #### Renumbering of Section
 
-<i>Pub. L. 111–203, title XIV, §§1400(c), 1402(a)(1), July 21, 2010, 124 Stat. 2136, 2138, provided that, effective on the date on which</i><i>final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, section 129 of Pub. L. 90–321, which is classified to this section, is renumbered section 129A of Pub. L. 90–321. See Effective Date of 2010 Amendment note below.</i>
+<i>Pub. L. 111–203, title XIV, §§1400(c), 1402(a)(1), July 21, 2010, 124 Stat. 2136, 2138, provided that, effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, section 129 of Pub. L. 90–321, which is classified to this section, is renumbered section 129A of Pub. L. 90–321. See Effective Date of 2010 Amendment note below.</i>
 
 #### References in Text
 

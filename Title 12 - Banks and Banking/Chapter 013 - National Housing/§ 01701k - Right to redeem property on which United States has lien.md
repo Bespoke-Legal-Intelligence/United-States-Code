@@ -14,7 +14,7 @@ Section was enacted as part of the Housing Act of 1950, and not as part of the N
 
 #### Amendments
 
-1958—Pub. L. 85–857 struck out provisions which related to the right to redeem in cases in which the subordinate lien or interest derives from the issuance of guaranties of insurance under the Serviceman's Readjustment Act of 1944, as amended.
+<b>1958</b>—Pub. L. 85–857 struck out provisions which related to the right to redeem in cases in which the subordinate lien or interest derives from the issuance of guaranties of insurance under the Serviceman's Readjustment Act of 1944, as amended.
 
 #### Effective Date of 1958 Amendment
 

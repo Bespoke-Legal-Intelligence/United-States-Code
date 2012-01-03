@@ -12,7 +12,7 @@ For purposes of section 46, the rehabilitation credit for any taxable year is th
 
 #### (1) In general
 
-&emsp;Qualified rehabilitation expenditures with respect to any qualified rehabilitated buildingshall be taken into account for the taxable year in which such qualified rehabilitated building is placed in service.
+&emsp;Qualified rehabilitation expenditures with respect to any qualified rehabilitated building shall be taken into account for the taxable year in which such qualified rehabilitated building is placed in service.
 
 #### (2) Coordination with subsection (d)
 
@@ -106,7 +106,7 @@ For purposes of this section—
 
 #### (iv) Certified historic structure, etc.
 
-&emsp;&emsp;&emsp;Any expenditure attributable to the rehabilitation of a certified historic structure or a building in a registered historicdistrict, unless the rehabilitation is a certified rehabilitation (within the meaning of subparagraph (C)). The preceding sentence shall not apply to a building in a registered historic district if—
+&emsp;&emsp;&emsp;Any expenditure attributable to the rehabilitation of a certified historic structure or a building in a registered historic district, unless the rehabilitation is a certified rehabilitation (within the meaning of subparagraph (C)). The preceding sentence shall not apply to a building in a registered historic district if—
 
 &emsp;&emsp;&emsp;&emsp;(I) such building was not a certified historic structure,
 
@@ -126,7 +126,7 @@ For purposes of this section—
 
 #### (vi) Expenditures of lessee
 
-&emsp;&emsp;&emsp;Any expenditure of a lessee of a building if, on the date the rehabilitation is completed, the remaining term of the lease (determined without regard to any renewal periods) is less than the recovery period determined under section 168(c).
+&emsp;&emsp;&emsp;Any expenditure of a lessee of a building if, on the date the rehabilitation is completed, the remaining term of the lease\(determined without regard to any renewal periods) is less than the recovery period determined under section 168(c).
 
 #### (C) Certified rehabilitation
 
@@ -270,7 +270,7 @@ Subsec. (d)(3)(C)(i). Pub. L. 100–647, §1002(a)(28), substituted “class lif
 
 <b>1986</b>—Subsec. (a)(9). Pub. L. 99–514, §1802(a)(5)(A), added par. (9).
 
-Subsec. (d)(1). Pub. L. 99–514, §1844(b)(1), substituted “reducing the credit base (as defined in section 48(c)(8)(C))” for “reducing the qualified investment” and inserted “For purposes of determining the amount of credit subject to the early disposition or cessation rules of subsection (a), the net increase in the amount of the nonqualified nonrecourse financing with respect to the property shall be treated as reducing the property's credit base (and correspondingly reducing the qualified investment in the property) in the year in which the property was first placed in service.”
+Subsec. (d)(1). Pub. L. 99–514, §1844(b)(1), substituted “reducing the credit base (as defined in section 48(c)(8)(C))” for “reducing the qualified investment” and inserted “For purposes of determining the amount of credit subject to the early disposition or cessationrules of subsection (a), the net increase in the amount of the nonqualified nonrecourse financing with respect to the property shall be treated as reducing the property's credit base (and correspondingly reducing the qualified investment in the property) in the year in which the property was first placed in service.”
 
 Subsec. (d)(3)(E)(i). Pub. L. 99–514, §1844(b)(4), inserted “reduced by the sum of the credit recapture amounts with respect to such property for all preceding years”.
 
@@ -330,7 +330,7 @@ Subsec. (a)(5), (6)(B). Pub. L. 94–12, §302(c)(2), substituted “paragraph (
 
 Subsec. (a)(5). Pub. L. 92–178, §107(b)(1), provided for the repeal of par. (5) with the repeal not to apply, however, in the case of certain replacement property. See section 107(b)(2) of Pub. L. 92–178, set out in the Effective Date of 1971 Amendment note below.
 
-Subsec. (a)(6)(A). Pub. L. 92–178, §102(c), substituted “31/2 years” for “4 years”.
+Subsec. (a)(6)(A). Pub. L. 92–178, §102(c), substituted “3½ years” for “4 years”.
 
 Subsec. (a)(6). Pub. L. 91–676 added par. (6).
 

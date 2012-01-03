@@ -16,7 +16,7 @@ Recommendation to International Sports Federation.—Within 61 days after recogn
 
 Review of Recognition.—The corporation may review all matters related to the continued recognition of an organization as a national governing body and may take action it considers appropriate, including placing conditions on the continued recognition.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1471; Pub. L. 105–277, div. C, title I, §142(<i>l</i>), 112 Stat.2681–607; Pub. L. 109–284, §5(20), Sept. 27, 2006, 120 Stat. 1212.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1471; Pub. L. 105–277, div. C, title I, §142(<i>l</i>), 112 Stat. 2681–607; Pub. L. 109–284, §5(20), Sept. 27, 2006, 120 Stat. 1212.)
 
 Historical and Revision Notes
 

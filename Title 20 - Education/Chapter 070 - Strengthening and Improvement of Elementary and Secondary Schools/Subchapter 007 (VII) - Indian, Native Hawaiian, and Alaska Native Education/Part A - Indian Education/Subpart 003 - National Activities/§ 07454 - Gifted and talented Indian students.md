@@ -96,7 +96,7 @@ The Secretary shall make grants, or enter into contracts, for the activities des
 
 #### (5) Grant period
 
-&emsp;Subject to the availability of appropriations, a grant awarded under paragraph (1) shall be awarded for a 3-year period and may be renewed by the Secretary for additional 3-year periods if the Secretary determines that the performance of the grant recipient has been satisfactory.
+&emsp;Subject to the availability of appropriations, a grant awarded under paragraph (1) shall beawarded for a 3-year period and may be renewed by the Secretary for additional 3-year periods if the Secretary determines that the performance of the grant recipient has been satisfactory.
 
 #### (6) Dissemination
 

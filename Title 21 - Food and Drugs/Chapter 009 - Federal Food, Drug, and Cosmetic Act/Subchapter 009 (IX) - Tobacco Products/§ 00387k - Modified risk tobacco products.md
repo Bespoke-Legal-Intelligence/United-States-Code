@@ -126,7 +126,7 @@ The Secretary shall make the application described in subsection (d) publicly av
 
 #### (ii) Agreements by applicant
 
-&emsp;&emsp;&emsp;An order under this paragraph shall be conditioned on the applicant's agreementto conduct postmarket surveillance and studies and to submit to the Secretary the results of such surveillance and studies to determine the impact of the order on consumer perception, behavior, and health and to enable the Secretary to review the accuracy of the determinations upon which the order was based in accordance with a protocol approved by the Secretary.
+&emsp;&emsp;&emsp;An order under this paragraph shall be conditioned on the applicant's agreement to conduct postmarket surveillance and studies and to submit to the Secretary the results of such surveillance and studies to determine the impact of the order on consumer perception, behavior, and health and to enable the Secretary to review the accuracy of the determinations upon which the order was based in accordance with a protocol approved by the Secretary.
 
 #### (iii) Annual submission
 
@@ -196,7 +196,7 @@ The Secretary shall make the application described in subsection (d) publicly av
 
 #### (2) Surveillance protocol
 
-&emsp;Each applicant required to conduct a surveillance of a tobacco product under paragraph (1) shall, within 30 days after receiving notice that the applicant is required to conduct such surveillance, submit, for the approval of the Secretary, a protocol for the required surveillance. The Secretary, within 60 days of the receipt of such protocol, shall determine if the principal investigator proposed to be used in the surveillance has sufficient qualifications and experience to conduct such surveillance and if such protocol will result incollection of the data or other information designated by the Secretary as necessary to protect the public health.
+&emsp;Each applicant required to conduct a surveillance of a tobacco product under paragraph (1) shall, within 30 days after receiving notice that the applicant is required to conduct such surveillance, submit, for the approval of the Secretary, a protocol for the required surveillance. The Secretary, within 60 days of the receipt of such protocol, shall determine if the principal investigator proposed to be used in the surveillance has sufficient qualifications and experience to conduct such surveillance and if such protocol will result in collection of the data or other information designated by the Secretary as necessary to protect the public health.
 
 #### (j) Withdrawal of authorization
 

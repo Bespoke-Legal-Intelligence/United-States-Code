@@ -72,7 +72,7 @@ For purposes of this section—
 
 #### (2) Scope of election
 
-&emsp;An election made under this section shall apply to all qualified sales of magazines, paperbacks, or records, as the case may be, made in connection with the trade or business with respect to which the taxpayer has made the election.
+&emsp;An election made under this section shall apply to all qualified sales of magazines, paperbacks, or records, as the case may be, made in connection with the trade or business withrespect to which the taxpayer has made the election.
 
 #### (3) Period to which election applies
 
@@ -116,7 +116,7 @@ In applying section 481(c) with respect to any election under this section which
 
 #### (A) Reductions excluded from gross income
 
-&emsp;&emsp;In the case of any reduction under paragraph (3)(A) in the account for the taxableyear, an amount equal to such reduction shall be excluded from gross income for such taxable year.
+&emsp;&emsp;In the case of any reduction under paragraph (3)(A) in the account for the taxable year, an amount equal to such reduction shall be excluded from gross income for such taxable year.
 
 #### (B) Increases added to gross income
 

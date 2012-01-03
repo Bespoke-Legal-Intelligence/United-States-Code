@@ -6,7 +6,7 @@ Funds made available to local educational agencies under section 7211a of this t
 
 &emsp;(1) Programs to recruit, train, and hire highly qualified teachers to reduce class size, especially in the early grades, and professional development activities carried out in accordance with subchapter II of this chapter, that give teachers, principals, and administrators the knowledge and skills to provide students with the opportunity to meet challenging State or local academic content standards and student academic achievement standards.
 
-&emsp;(2) Technology activities related to the implementation of school-based reform efforts,including professional development to assist teachers and other school personnel (including school library media personnel) regarding how to use technology effectively in the classrooms and the school library media centers involved.
+&emsp;(2) Technology activities related to the implementation of school-based reform efforts, including professional development to assist teachers and other school personnel (including school library media personnel) regarding how to use technology effectively in the classrooms and the school library media centers involved.
 
 &emsp;(3) Programs for the development or acquisition and use of instructional and educational materials, including library services and materials (including media materials), academic assessments, reference materials, computer software and hardware for instructional use, and other curricular materials that are tied to high academic standards, that will be used to improve student academic achievement, and that are part of an overall education reform program.
 
@@ -52,7 +52,7 @@ Funds made available to local educational agencies under section 7211a of this t
 
 &emsp;(24) Service learning activities.
 
-&emsp;(25) School safety programs, including programs to implement the policy described in section 9507 <sup>1</sup> and which may include payment of reasonable transportation costs and tuition costs for such students.
+&emsp;(25) School safety programs, including programs to implement the policy described in section 9507 <sup>1</sup> and which may include paymentof reasonable transportation costs and tuition costs for such students.
 
 &emsp;(26) Programs that employ research-based cognitive and perceptual development approaches and rely on a diagnostic-prescriptive model to improve students’ learning of academic content at the preschool, elementary, and secondary levels.
 

@@ -116,7 +116,7 @@ The date of enactment of the Motor Carrier Safety Reauthorization Act of 2005, r
 
 #### Amendments
 
-<b>2008</b>—Subsec. (f)(2). Pub. L. 110–244, §301(k)(1), substituted “Motor Carrier Safety Reauthorization Act of2005” for “Surface Transportation Safety Improvement Act of 2005” in introductory provisions.
+<b>2008</b>—Subsec. (f)(2). Pub. L. 110–244, §301(k)(1), substituted “Motor Carrier Safety Reauthorization Act of 2005” for “Surface Transportation Safety Improvement Act of 2005” in introductory provisions.
 
 Subsecs. (h), (i). Pub. L. 110–244, §301(k)(2), redesignated subsec. (h), relating to authorization of appropriations, as (i) and moved such subsec. to appear in proper order.
 

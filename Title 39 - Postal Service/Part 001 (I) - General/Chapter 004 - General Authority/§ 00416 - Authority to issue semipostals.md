@@ -48,7 +48,7 @@ Administrative costs.—Regulations under subsection (e) shall specifically addr
 
 &emsp;(4)
 
-Other funding not to be affected.—Amounts which have or may become availablefrom the sale of a semipostal under this section shall not be taken into account in any decision relating to the level of appropriations or other Federal funding to be furnished to an agency in any year.
+Other funding not to be affected.—Amounts which have or may become available from the sale of a semipostal under this section shall not be taken into account in any decision relating to the level of appropriations or other Federal funding to be furnished to an agency in any year.
 
 &emsp;(5)
 

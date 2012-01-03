@@ -50,7 +50,7 @@ Except in a case in which a household is receiving transitional benefits during 
 
 &emsp;(C) A State agency may require periodic reporting on a monthly basis by households residing on a reservation only if—
 
-&emsp;&emsp;(i) the State agency reinstates benefits, without requiring a new application, for anyhousehold residing on a reservation that submits a report not later than 1 month after the end of the month in which benefits would otherwise be provided;
+&emsp;&emsp;(i) the State agency reinstates benefits, without requiring a new application, for any household residing on a reservation that submits a report not later than 1 month after the end of the month in which benefits would otherwise be provided;
 
 &emsp;&emsp;(ii) the State agency does not delay, reduce, suspend, or terminate the allotment of a household that submits a report not later than 1 month after the end of the month in which the report is due;
 
@@ -80,7 +80,7 @@ Reporting by households with excess income.—A household required to report les
 
 &emsp;(4) Except as provided in paragraph (1)(C), any household that fails to submit periodic reports required by paragraph (1) shall not receive an allotment for the payment period to which the unsubmitted report applies until such report is submitted.
 
-&emsp;(5) The Secretary is authorized, upon the request of a State agency, to waive any provisions of this subsection (except the provisions of the first sentence of paragraph (1) which relate to households which are not required to file periodic reports) to the extent necessary to permit the State agency to establish periodic reporting requirements for purposes of this chapter which are similar to the periodic reporting requirements established under the State program funded under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.) in that State.
+&emsp;(5) The Secretary is authorized, upon the request of a State agency, to waive any provisions of this subsection (except the provisions of the first sentence of paragraph (1) which relate to households which are not required to file periodic reports) to the extent necessary to permit the State agency to establish periodic reporting requirements for purposes ofthis chapter which are similar to the periodic reporting requirements established under the State program funded under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.) in that State.
 
 #### (d) Conditions of participation
 
@@ -188,7 +188,7 @@ Not less restrictive.—A State agency may not use a meaning, procedure, or dete
 
 &emsp;&emsp;(iv)
 
-Strike against the government.—For the purpose of subparagraph (A)(v), an employee of the Federal Government, a State, or a political subdivision of a State, who is dismissed for participating in a strike against the Federal Government, the State, or the political subdivision of the State shall be considered to have voluntarily quit without good cause.
+Strike against the government.—For the purpose of subparagraph (A)(v), an employee of the Federal Government, a State, or a political subdivision of a State, who is dismissed for participating in a strike against the Federal Government, the State, or the political subdivision of the State shallbe considered to have voluntarily quit without good cause.
 
 &emsp;&emsp;(v)
 
@@ -208,7 +208,7 @@ Change in head of household.—If the head of a household leaves the household d
 
 &emsp;&emsp;&emsp;(I) the household shall, if otherwise eligible, become eligible to participate in the supplemental nutrition assistance program; and
 
-&emsp;&emsp;&emsp;(II) if the head of the household becomes the head of another household, the household that becomes headed by the individual shall become ineligible to participatein the supplemental nutrition assistance program for the remaining period of ineligibility.
+&emsp;&emsp;&emsp;(II) if the head of the household becomes the head of another household, the household that becomes headed by the individual shall become ineligible to participate in the supplemental nutrition assistance program for the remaining period of ineligibility.
 
 (2) A person who otherwise would be required to comply with the requirements of paragraph (1) of this subsection shall be exempt from such requirements if he or she is (A) currently subject to and complying with a work registration requirement under title IV of the Social Security Act, as amended (42 U.S.C. 602), or the Federal-State unemployment compensation system, in which case, failure by such person to comply with any work requirement to which such person is subject shall be the same as failure to comply with that requirement of paragraph (1); (B) a parent or other member of a household with responsibility for the care of a dependent child under age six or of an incapacitated person; (C) a bona fide student enrolled at least half time in any recognized school, training program, or institution of higher education (except that any such person enrolled in an institution of higher education shall be ineligible to participate in the supplemental nutrition assistance program unless he or she meets the requirements of subsection (e) of this section); (D) a regular participant in a drug addiction or alcoholic treatment and rehabilitation program; (E) employed a minimum of thirty hours per week or receiving weekly earnings which equal the minimum hourly rate under the Fair Labor Standards Act of 1938, as amended (29 U.S.C. 206(a)(1)), multiplied by thirty hours; or (F) a person between the ages of sixteen and eighteen who is not a head of a household or who is attending school, or enrolled in an employment training program, on at least a half-time basis. A State that requested a waiver to lower the age specified in subparagraph (B) and had the waiver denied by the Secretary as of August 1, 1996, may, for a period of not more than 3 years, lower the age of a dependent child that qualifies a parent or other member of a household for an exemption under subparagraph (B) to between 1 and 6 years of age.
 
@@ -344,7 +344,7 @@ No household that knowingly transfers assets for the purpose of qualifying or at
 
 #### (1) In general
 
-&emsp;If a disqualification is imposed on a member of a household for a failure of the member to perform an action required under a Federal, State, or local law relating to a means-tested public assistance program, the State agencymay impose the same disqualification on the member of the household under the supplemental nutrition assistance program.
+&emsp;If a disqualification is imposed on a member of a household for a failure of the member to perform an action required under a Federal, State, or local law relating to a means-tested public assistance program, the State agency may impose the same disqualification on the member of the household under the supplemental nutrition assistance program.
 
 #### (2) Rules and procedures
 
@@ -424,7 +424,7 @@ An individual shall be ineligible to participate in the supplemental nutrition a
 
 #### (4) Privacy
 
-&emsp;The State agency shall provide safeguards to restrict the use of information collected by aState agency administering the program established under part D of title IV of the Social Security Act (42 U.S.C. 651 et seq.) to purposes for which the information is collected.
+&emsp;The State agency shall provide safeguards to restrict the use of information collected by a State agency administering the program established under part D of title IV of the Social Security Act (42 U.S.C. 651 et seq.) to purposes for which the information is collected.
 
 #### (n) Disqualification for child support arrears
 
@@ -516,7 +516,7 @@ An individual shall be ineligible to participate in the supplemental nutrition a
 
 #### (ii) Limitation
 
-&emsp;&emsp;&emsp;An individual shall not receive any benefits pursuant to clause (i) for more than asingle 3-month period in any 36-month period.
+&emsp;&emsp;&emsp;An individual shall not receive any benefits pursuant to clause (i) for more than a single 3-month period in any 36-month period.
 
 #### (6) 15-percent exemption
 
@@ -578,7 +578,7 @@ Subject to any requirements established by the Secretary, any person who has bee
 
 Subject to any requirements established by the Secretary, any person who has been found by a State or Federal court or administrative agency in a hearing under subsection (b) to have intentionally sold any food that was purchased using supplemental nutrition assistance program benefits shall be ineligible for benefits under this chapter for such period of time as the Secretary shall prescribe by regulation.
 
-(Pub. L. 88–525, §6, Aug. 31, 1964, 78 Stat. 704; Pub. L. 94–339, §3, July 5, 1976, 90 Stat. 800; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 964; Pub. L. 96–58, §§5, 9, Aug. 14, 1979, 93 Stat. 391, 392; Pub. L. 96–249, title I, §§109, 110, 114, 115, 139, 140, May 26, 1980, 94 Stat. 359, 361, 370; Pub. L. 97–35, title I, §§108(b), (c), 109, 112, Aug. 13, 1981, 95 Stat. 361, 362; Pub. L. 97–98, title XIII,§§1310, 1311, Dec. 22, 1981, 95 Stat. 1284, 1285; Pub. L. 97–253, title I, §§145(e), 154–161, 189(b)(1), 190(a), (b), Sept. 8, 1982, 96 Stat. 774, 777, 778, 787; Pub. L. 98–204, §§5, 6, Dec. 2, 1983, 97 Stat. 1385, 1386; Pub. L. 99–198, title XV, §§1513(b), 1516, 1517(a), Dec. 23, 1985, 99 Stat. 1571–1573; Pub. L. 100–435, title II, §202(b), (c), title IV, §404(a)–(d), Sept. 19, 1988, 102 Stat. 1656, 1665–1667; Pub. L. 101–624, title XVII, §§1723–1726(b)(1), (c), (d), 1727, Nov. 28, 1990, 104 Stat. 3786–3788; Pub. L. 102–237, title IX, §§907, 941(3), Dec. 13, 1991, 105 Stat. 1885, 1892; Pub. L. 103–66, title XIII, §§13922(b), 13942, Aug. 10, 1993, 107 Stat. 675, 677; Pub. L. 103–225, title I, §§101(a), 104(b), Mar. 25, 1994, 108 Stat. 106, 107; Pub. L. 103–296, title I, §108(f)(1), (2), Aug. 15, 1994, 108 Stat. 1486, 1487; Pub. L. 104–193, title I, §109(b), title VIII, §§813–815(a), 816, 817(a), 818, 819(a), (c), 820–824(a), Aug. 22, 1996, 110 Stat. 2169, 2314, 2315, 2318, 2320–2323; Pub. L. 104–208, div. C, title III, §308(g)(7)(D)(i), Sept. 30, 1996, 110 Stat. 3009–624; Pub. L. 105–33, title I, §1001, Aug. 5, 1997, 111 Stat. 251; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(2)(B), (f)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–418, 2681–429; Pub. L. 107–171, title IV, §§4109, 4115(b)(2), 4121(c), May 13, 2002, 116 Stat. 309, 315, 324; Pub. L. 110–234, title IV, §§4001(b), 4002(a)(3), 4105, 4108, 4112, 4115(b)(4), 4131, May 22, 2008, 122 Stat. 1092, 1101, 1102, 1106, 1114; Pub. L. 110–246, §4(a), title IV, §§4001(b), 4002(a)(3), 4105, 4108, 4112, 4115(b)(4), 4131, June 18, 2008, 122 Stat. 1664, 1853, 1862–1864, 1868, 1875.)
+(Pub. L. 88–525, §6, Aug. 31, 1964, 78 Stat. 704; Pub. L. 94–339, §3, July 5, 1976, 90 Stat. 800; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 964; Pub. L. 96–58, §§5, 9, Aug. 14, 1979, 93 Stat. 391, 392; Pub. L. 96–249, title I, §§109, 110, 114, 115, 139, 140, May 26, 1980, 94 Stat. 359, 361, 370; Pub. L. 97–35, title I, §§108(b), (c), 109, 112, Aug. 13, 1981, 95 Stat. 361, 362; Pub. L. 97–98, title XIII, §§1310, 1311, Dec. 22, 1981, 95 Stat. 1284, 1285; Pub. L. 97–253, title I, §§145(e), 154–161, 189(b)(1), 190(a), (b), Sept. 8, 1982, 96 Stat. 774, 777, 778, 787; Pub. L. 98–204, §§5, 6, Dec. 2, 1983, 97 Stat. 1385, 1386; Pub. L. 99–198, title XV, §§1513(b), 1516, 1517(a), Dec. 23, 1985, 99 Stat. 1571–1573; Pub. L. 100–435, title II, §202(b), (c), title IV, §404(a)–(d), Sept. 19, 1988, 102 Stat. 1656, 1665–1667; Pub. L. 101–624, title XVII, §§1723–1726(b)(1), (c), (d), 1727, Nov. 28, 1990, 104 Stat. 3786–3788; Pub. L. 102–237, title IX, §§907, 941(3), Dec. 13, 1991, 105 Stat. 1885, 1892; Pub. L. 103–66, title XIII, §§13922(b), 13942, Aug. 10, 1993, 107 Stat. 675, 677; Pub. L. 103–225, title I, §§101(a), 104(b), Mar. 25, 1994, 108 Stat. 106, 107; Pub. L. 103–296, title I, §108(f)(1), (2), Aug. 15, 1994, 108 Stat. 1486, 1487; Pub. L. 104–193, title I, §109(b), title VIII, §§813–815(a), 816, 817(a), 818, 819(a), (c), 820–824(a), Aug. 22, 1996, 110 Stat. 2169, 2314, 2315, 2318, 2320–2323; Pub. L. 104–208, div. C, title III, §308(g)(7)(D)(i), Sept. 30, 1996, 110 Stat. 3009–624; Pub. L. 105–33, title I, §1001, Aug. 5, 1997, 111 Stat. 251; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(2)(B), (f)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–418, 2681–429; Pub. L. 107–171, title IV, §§4109, 4115(b)(2), 4121(c), May 13, 2002, 116 Stat. 309, 315, 324; Pub. L. 110–234, title IV, §§4001(b), 4002(a)(3), 4105, 4108, 4112, 4115(b)(4), 4131, May 22, 2008, 122 Stat. 1092, 1101, 1102, 1106, 1114; Pub. L. 110–246, §4(a), title IV, §§4001(b), 4002(a)(3), 4105, 4108, 4112, 4115(b)(4), 4131, June 18, 2008, 122 Stat. 1664, 1853, 1862–1864, 1868, 1875.)
 
 #### References in Text
 
@@ -596,7 +596,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–246, §4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–246, §4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
 
 Subsec. (b)(1)(B). Pub. L. 110–246, §4115(b)(4)(A), in introductory provisions, substituted “program benefits” for “coupons or authorization cards” and, in cls. (ii) and (iii), substituted “benefits” for “coupons” wherever appearing.
 
@@ -642,7 +642,7 @@ Subsec. (<i>o</i>)(6)(D), (E). Pub. L. 110–246, §4002(a)(3)(C)(ii)(II), subst
 
 Subsecs. (p), (q). Pub. L. 110–246, §4131, added subsecs. (p) and (q).
 
-2002—Subsec. (c). Pub. L. 107–171, §4115(b)(2), substituted “Except in a case in which a household is receiving transitional benefits during the transitional benefits period under section 2020(s) of this title, no household” for “No household” in introductory provisions.
+<b>2002</b>—Subsec. (c). Pub. L. 107–171, §4115(b)(2), substituted “Except in a case in which a household is receiving transitional benefits during the transitional benefits period under section 2020(s) of this title, no household” for “No household” in introductory provisions.
 
 Subsec. (c)(1)(B). Pub. L. 107–171, §4109(1), struck out “on a monthly basis” after “periodic reports”.
 
@@ -650,7 +650,7 @@ Subsec. (c)(1)(D). Pub. L. 107–171, §4109(2), added subpar. (D).
 
 Subsec. (d)(4)(I)(i)(I). Pub. L. 107–171, §4121(c), struck out “, except that the State agency may limit such reimbursement to each participant to $25 per month” before semicolon.
 
-1998—Subsec. (d)(4)(M). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(2)(B)(i)\], struck out “the State public employment offices and agencies operating programs under the Job Training Partnership Act or of” after “The facilities of”.
+<b>1998</b>—Subsec. (d)(4)(M). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(2)(B)(i)\], struck out “the State public employment offices and agencies operating programs under the Job Training Partnership Act or of” after “The facilities of”.
 
 Pub. L. 105–277, §101(f) \[title VIII, §405(d)(2)(B)(i)\], substituted “the State public employment offices and agencies operating programs under the Job Training Partnership Act or of the State public employment offices and other State agencies and providers carrying out activities under title I of the Workforce Investment Act of 1998” for “the State public employment offices and agencies operating programs under the Job Training Partnership Act”.
 
@@ -662,11 +662,11 @@ Subsec. (<i>o</i>)(1)(A). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(2)(
 
 Pub. L. 105–277, §101(f) \[title VIII, §405(d)(2)(B)(iii)\], substituted “Job Training Partnership Act or title I of the Workforce Investment Act of 1998” for “Job Training Partnership Act (29 U.S.C. 1501 et seq.)”
 
-1997—Subsec. (<i>o</i>)(2)(D). Pub. L. 105–33, §1001(1), substituted “(5), or (6)” for “or (5)”.
+<b>1997</b>—Subsec. (<i>o</i>)(2)(D). Pub. L. 105–33, §1001(1), substituted “(5), or (6)” for “or (5)”.
 
 Subsec. (<i>o</i>)(6), (7). Pub. L. 105–33, §1001(2), (3), added par. (6) and redesignated former par. (6) as (7).
 
-1996—Subsec. (b)(1)(i). Pub. L. 104–193, §813(1), substituted “1 year” for “six months”.
+<b>1996</b>—Subsec. (b)(1)(i). Pub. L. 104–193, §813(1), substituted “1 year” for “six months”.
 
 Subsec. (b)(1)(ii). Pub. L. 104–193, §813(2), substituted “2 years” for “1 year”.
 
@@ -726,7 +726,7 @@ Subsec. (n). Pub. L. 104–193, §823, added subsec. (n).
 
 Subsec. (<i>o</i>). Pub. L. 104–193, §824(a), added subsec. (<i>o</i>).
 
-1994—Subsec. (c)(1)(A)(ii) to (iv). Pub. L. 103–225, §101(a)(1), redesignated cls. (iii) and (iv) as (ii) and (iii), respectively, and struck out former cl. (ii) which read “households residing on a reservation;”.
+<b>1994</b>—Subsec. (c)(1)(A)(ii) to (iv). Pub. L. 103–225, §101(a)(1), redesignated cls. (iii) and (iv) as (ii) and (iii), respectively, and struck out former cl. (ii) which read “households residing on a reservation;”.
 
 Subsec. (c)(1)(C). Pub. L. 103–225, §101(a)(2), added subpar. (C).
 
@@ -736,7 +736,7 @@ Subsec. (c)(4). Pub. L. 103–225, §104(b), substituted “Except as provided i
 
 Subsec. (g). Pub. L. 103–296, §108(f)(2), substituted “Commissioner of Social Security” for “Secretary of Health and Human Services”.
 
-1993—Subsec. (b)(1)(ii), (iii). Pub. L. 103–66, §13942, added cls. (ii) and (iii) and struck out former cls. (ii) and (iii) which read as follows:
+<b>1993</b>—Subsec. (b)(1)(ii), (iii). Pub. L. 103–66, §13942, added cls. (ii) and (iii) and struck out former cls. (ii) and (iii) which read as follows:
 
 “(ii) for a period of one year upon the second occasion of any such determination; and
 
@@ -744,7 +744,7 @@ Subsec. (g). Pub. L. 103–296, §108(f)(2), substituted “Commissioner of Soci
 
 Subsec. (d)(4)(I)(i)(II). Pub. L. 103–66, §13922(b), amended subcl. (II) generally. Prior to amendment, subcl. (II) read as follows: “the actual costs of such dependent care expenses that are determined by the State agency to be necessary for the participation of an individual in the program (other than an individual who is the caretaker relative of a dependent in a family receiving benefits under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.) in a local area where an employment, training, or education program under title IV of such Act is in operation or was in operation, on September 19, 1988), but in no event shall such payment or reimbursements exceed $160 per dependent per month. Individuals subject to the program under this paragraph may not be required to participate if dependent care costs exceed $160 per dependent per month.”
 
-1991—Subsec. (c)(1)(A)(ii). Pub. L. 102–237, §941(3)(A), realigned margin.
+<b>1991</b>—Subsec. (c)(1)(A)(ii). Pub. L. 102–237, §941(3)(A), realigned margin.
 
 Subsec. (d)(1)(A). Pub. L. 102–237, §941(3)(B), substituted “who is a physically” for “who is physically”, “Secretary; (ii) refuses” for “Secretary; (ii) refuses” requiring no change in text, and “two months; or (iii) refuses” for “two months; (iii) refuses”.
 
@@ -756,9 +756,9 @@ Subsec. (d)(4)(I)(i)(II). Pub. L. 102–237, §941(3)(E), substituted “601 et 
 
 Subsec. (d)(4)(K)(i). Pub. L. 102–237, §907(b), substituted “10 percent in fiscal years 1992 and 1993, and 15 percent in fiscal years 1994 and 1995” for “50 percent through September 30, 1989” and inserted at end “The Secretary shall not require the plan of a State agency to provide for the participation of a number of recipients greater than 10 percent in fiscal years 1992 and 1993, and 15 percent in fiscal years 1994 and 1995, of the persons who are subject to employment requirements under this section and who are not exempt under subparagraph (D).”
 
-Subsec. (d)(4)(L). Pub. L. 102–237, §907(a), amended subpar. (L) generally, substituting present provisions for provisions requiring establishment of performance standards by the Secretary, after consultation with the Office of Technology Assessment, Secretary of Labor, Secretary of Health and Human Services, and appropriate designated State officials, which standards were to be coordinated with the corresponding standards under the Job Training Partnership Act and the performance standards under title IV of the Social Security Act, which were to permit variations to take into account differing conditions in different States, and which were to be published and implemented not later than Oct. 1, 1991, and directing the Office of Technology Assessment, not later than 180 days after the Secretary publishes proposed measures for performance standards, to develop model performance standards, compare these standards with the Secretary, and report the result of such comparison to the Speaker of the House of Representatives, President pro tempore of the Senate, and Secretary of Agriculture.
+Subsec. (d)(4)(L). Pub. L. 102–237, §907(a), amended subpar. (L) generally, substituting present provisions for provisions requiring establishment of performance standards by the Secretary, after consultation with the Office of Technology Assessment, Secretary of Labor,Secretary of Health and Human Services, and appropriate designated State officials, which standards were to be coordinated with the corresponding standards under the Job Training Partnership Act and the performance standards under title IV of the Social Security Act, which were to permit variations to take into account differing conditions in different States, and which were to be published and implemented not later than Oct. 1, 1991, and directing the Office of Technology Assessment, not later than 180 days after the Secretary publishes proposed measures for performance standards, to develop model performance standards, compare these standards with the Secretary, and report the result of such comparison to the Speaker of the House of Representatives, President pro tempore of the Senate, and Secretary of Agriculture.
 
-1990—Subsec. (c)(1)(A)(ii) to (iv). Pub. L. 101–624, §1723, added cl. (ii) and redesignated former cls. (ii) and (iii) as (iii) and (iv), respectively.
+<b>1990</b>—Subsec. (c)(1)(A)(ii) to (iv). Pub. L. 101–624, §1723, added cl. (ii) and redesignated former cls. (ii) and (iii) as (iii) and (iv), respectively.
 
 Subsec. (c)(2)(C). Pub. L. 101–624, §1724(1), substituted “State agency designed forms” for “forms approved by the Secretary”.
 
@@ -770,13 +770,13 @@ Subsec. (d)(4)(B)(v). Pub. L. 101–624, §1726(a), inserted “and literacy,”
 
 Subsec. (d)(4)(B)(vi), (vii). Pub. L. 101–624, §1726(b)(1), added cl. (vi) and redesignated former cl. (vi) as (vii).
 
-Subsec. (d)(4)(E). Pub. L. 101–624, §1726(c), inserted at end “Through September 30, 1995, two States may, onapplication to and after approval by the Secretary, give priority in the provision of services to voluntary participants (including both exempt and non-exempt participants), except that this sentence shall not excuse a State from compliance with the performance standards issued under subparagraphs (K) and (L), and the Secretary may, at the Secretary's discretion, approve additional States’ requests to give such priority if the Secretary reports to Congress on the number and characteristics of voluntary participants given priority under this sentence and such other information as the Secretary determines to be appropriate.”
+Subsec. (d)(4)(E). Pub. L. 101–624, §1726(c), inserted at end “Through September 30, 1995, two States may, on application to and after approval by the Secretary, give priority in the provision of services to voluntary participants (including both exempt and non-exempt participants), except that this sentence shall not excuse a State from compliance with the performance standards issued under subparagraphs (K) and (L), and the Secretary may, at the Secretary's discretion, approve additional States’ requests to give such priority if the Secretary reports to Congress on the number and characteristics of voluntary participants given priority under this sentence and such other information as the Secretary determines to be appropriate.”
 
 Subsec. (d)(4)(L)(iii). Pub. L. 101–624, §1726(d), substituted “October” for “April”.
 
 Subsec. (e). Pub. L. 101–624, §1727, amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “No individual who is a member of a household otherwise eligible to participate in the food stamp program under this section shall be eligible to participate in the food stamp program as a member of that or any other household if he or she (1) is physically and mentally fit and is between the ages of eighteen and sixty, (2) is enrolled at least half time in an institution of higher education, or is an individual who is not assigned to or placed in an institution of higher learning through a program under the Job Training Partnership Act, and (3)(A) is not employed a minimum of twenty hours per week or does not participate in a federally financed work study program during the regular school year; (B) is not a parent with responsibility for the care of a dependent child under age six; (C) is not a parent with responsibility for the care of a dependent child above the age of five and under the age of twelve for whom adequate child care is not available; (D) is not receiving aid to families with dependent children under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.); or (E) is not so enrolled as a result of participation in the work incentive program under title IV of the Social Security Act, as amended (42 U.S.C. 602).”
 
-1988—Subsec. (c)(1). Pub. L. 100–435, §202(b), substituted subpars. (A) and (B) for undesignated provisions requiring households with household income determined on retrospective basis to file periodic reports with system of less frequent reporting for certain categories of households.
+<b>1988</b>—Subsec. (c)(1). Pub. L. 100–435, §202(b), substituted subpars. (A) and (B) for undesignated provisions requiring households with household income determined on retrospective basis to file periodic reports with system of less frequent reporting for certain categories of households.
 
 Subsec. (c)(2). Pub. L. 100–435, §202(c), added cl. (E).
 
@@ -796,11 +796,11 @@ Subsec. (d)(4)(L). Pub. L. 100–435, §404(b)(1), (d), added subpar. (L) and re
 
 Subsec. (d)(4)(M), (N). Pub. L. 100–435, §404(b)(1), redesignated former subpars. (K) and (L) as (M) and (N), respectively.
 
-1985—Subsec. (c)(1). Pub. L. 99–198, §1513(b)(1), amended first sentence generally. Prior to amendment, first sentence read as follows: “State agencies shall require certain categories of households, including all households with earned income, except migrant farmworker households, all households with potential earners, including individuals receiving unemployment compensation benefits and individuals required by subsection (d) of this section to register for work, and all households required to file a similar report under title IV–A of the Social Security Act, but not including households that have no earned income and in which all adult members are elderly or disabled members, to file periodic reports of household circumstances in accordance with standards prescribed by the Secretary, except that a State agency may, with the prior approval of the Secretary, select categories of households which may report at specified less frequent intervals upon a showing by the State agency, which is satisfactory to the Secretary, that to require households in such categories to report monthly would result in unwarranted expenditures for administration of this subsection.”
+<b>1985</b>—Subsec. (c)(1). Pub. L. 99–198, §1513(b)(1), amended first sentence generally. Prior to amendment, first sentence read as follows: “State agencies shall require certain categories of households, including all households with earned income, except migrant farmworker households, all households with potential earners, including individuals receiving unemployment compensation benefits and individuals required by subsection (d) of this section to register for work, and all households required to file a similar report under title IV–A of the Social Security Act, but not including households that have no earned income and in which all adult members are elderly or disabled members, to file periodic reports of household circumstances in accordance with standards prescribed by the Secretary, except that a State agency may, with the prior approval of the Secretary, select categories of households which may report at specified less frequent intervals upon a showing by the State agency, which is satisfactory to the Secretary, that to require households in such categories to report monthly would result in unwarranted expenditures for administration of this subsection.”
 
 Pub. L. 99–198, §1513(b)(2), inserted after second sentence, provision empowering State agencies to require households, other than households with respect to which household income is required by section 2014(f)(2)(A) of this title to be calculated on a prospective basis, to file periodic reports of household circumstances in accordance with the standards prescribed by the Secretary under the preceding provisions of this paragraph.
 
-Subsec. (d)(1). Pub. L. 99–198, §1516(2), inserted sentences at end of par. (1) directing that any period of ineligibility for violations under this paragraph shall end when the household member who committed the violation complies with the requirement that has been violated, and that if the household member who committed the violation leaves the household during the period of ineligibility, such household shall no longer be subject to sanction for such violation and, if it is otherwise eligible, may resume participation in the food stamp program, but any other household of which such person thereafter becomes the head of the household shall be ineligible for the balance of the period of ineligibility.
+Subsec. (d)(1). Pub. L. 99–198, §1516(2), inserted sentences at end of par. (1) directing that any period of ineligibility for violations under this paragraph shall endwhen the household member who committed the violation complies with the requirement that has been violated, and that if the household member who committed the violation leaves the household during the period of ineligibility, such household shall no longer be subject to sanction for such violation and, if it is otherwise eligible, may resume participation in the food stamp program, but any other household of which such person thereafter becomes the head of the household shall be ineligible for the balance of the period of ineligibility.
 
 Subsec. (d)(1)(A). Pub. L. 99–198, §1516(1)(A), (B), designated existing provisions of first sentence of par. (1) as cl. (A) and in provisions of cl. (A) as so designated substituted “no person shall be eligible to participate in the food stamp program who is a physically and mentally fit person between the ages of sixteen and sixty” for “no household shall be eligible for assistance under this chapter if it includes a physically and mentally fit person between the ages of eighteen and sixty” in provisions preceding subcl. (i).
 
@@ -820,11 +820,11 @@ Subsec. (f)(2)(D). Pub. L. 99–198, §1516(5)(A), (B), substituted “sections 
 
 Subsec. (f)(2)(F). Pub. L. 99–198, §1516(5)(C), struck out “because of the judgment of the Attorney General that the alien would otherwise be subject to persecution on account of race, religion, or political opinion” after “section 1253(h) of title 8”.
 
-1983—Subsec. (c)(1). Pub. L. 98–204, §5, inserted sentence authorizing the Secretary to permit State agencies to accept, as satisfying the requirement that households report at such specified less frequent intervals, (i) recertifications conducted in accordance with section 2020(e)(4) of this title, (ii) in-person interviews conducted during a certification period, (iii) written reports filed by households, or (iv) such other documentation or actions as the Secretary may prescribe.
+<b>1983</b>—Subsec. (c)(1). Pub. L. 98–204, §5, inserted sentence authorizing the Secretary to permit State agencies to accept, as satisfying the requirement that households report at such specified less frequent intervals, (i) recertifications conducted in accordance with section 2020(e)(4) of this title, (ii) in-person interviews conducted during a certification period, (iii) written reports filed by households, or (iv) such other documentation or actions as the Secretary may prescribe.
 
 Subsec. (c)(3). Pub. L. 98–204, §6, substituted “Reports required to be filed monthly under paragraph (1) shall be the sole reporting requirement for subject matter included in such reports” for “The reporting requirements contained in paragraph (1) of this subsection shall be the sole such requirements for reporting changes in circumstances for participating households”.
 
-1982—Subsec. (c)(1). Pub. L. 97–253, §§145(e), 154, 155, in first sentence substituted “in which all adult members are elderly or disabled members” for “in which all members are sixty years of age or over or receive supplemental security income benefits under title XVI of the Social Security Act or disability and blindness payments under title I, II, X, XIV, and XVI of the Social Security Act” and inserted provision that a State agency may, with the prior approval of the Secretary, select categories of households which may report at specified less frequent intervals upon a showing by the State agency, which is satisfactory to the Secretary, that to require households in such categories to report monthly would result in unwarranted expenditures for administration of this subsection, and, in last sentence, struck out “, on a form designed or approved by the Secretary,” after “to the State agency”.
+<b>1982</b>—Subsec. (c)(1). Pub. L. 97–253, §§145(e), 154, 155, in first sentence substituted “in which all adult members are elderly or disabled members” for “in which all members are sixty years of age or over or receive supplemental security income benefits under title XVI of the Social Security Act or disability and blindness payments under title I, II, X, XIV, and XVI of the Social Security Act” and inserted provision that a State agency may, with the prior approval of the Secretary, select categories of households which may report at specified less frequent intervals upon a showing by the State agency, which is satisfactory to the Secretary, that to require households in such categories to report monthly would result in unwarranted expenditures for administration of this subsection, and, in last sentence, struck out “, on a form designed or approved by the Secretary,” after “to the State agency”.
 
 Subsec. (c)(5). Pub. L. 97–253, §156, added par. (5).
 
@@ -842,13 +842,13 @@ Subsec. (e)(3)(C) to (E). Pub. L. 97–253, §161, added subpars. (C) and (D) an
 
 Subsec. (g)(2). Pub. L. 97–253, §189(b)(1), substituted reference to the Secretary of Health and Human Services for former reference to the Secretary of Health, Education, and Welfare.
 
-1981—Subsec. (b). Pub. L. 97–35, §112, substituted provisions setting forth disqualification penalties for fraud and misrepresentation, ineligibility period for benefits, and applicable procedures, for provisions relating to prior fraudulent use of coupons or authorization cards, ineligibility period for benefits, and repayment for fraudulent conduct.
+<b>1981</b>—Subsec. (b). Pub. L. 97–35, §112, substituted provisions setting forth disqualification penalties for fraud and misrepresentation, ineligibility period for benefits, and applicable procedures, for provisions relating to prior fraudulent use of coupons or authorization cards, ineligibility period for benefits, and repayment for fraudulent conduct.
 
 Subsec. (c). Pub. L. 97–35, §108(b), in par. (1) inserted provisions enumerating categories of households subject to requirements, and substituted “(f)” for “(f)(2)”, and added par. (4).
 
 Subsec. (c)(1). Pub. L. 97–35, §108(c), struck out provisions respecting election of retrospective accounting system, and filing of periodic reports by household categories.
 
-Subsec. (d)(1). Pub. L. 97–98, §§1310, 1311(1), (2), substituted in cl. (i) “twelve” for “six”, struck out in cl. (iii) “, unless the household was certified for benefits under this chapter immediately prior to such unemployment” after “without good cause”, and inserted in cl. (iv) “(including the lack of adequate child care for children above the age of five and under the age of twelve)” after “good cause”.
+Subsec. (d)(1). Pub. L. 97–98, §§1310, 1311(1), (2), substituted in cl. (i) “twelve” for “six”, struck out in cl.\(iii) “, unless the household was certified for benefits under this chapter immediately prior to such unemployment” after “without good cause”, and inserted in cl. (iv) “(including the lack of adequate child care for children above the age of five and under the age of twelve)” after “good cause”.
 
 Subsec. (d)(2). Pub. L. 97–98, §1311(3), (4), inserted in cl. (A) “, in which case, failure by such person to comply with any work requirement to which such person is subject that is comparable to a requirement of paragraph (1) shall be the same as failure to comply with that requirement of paragraph (1)” after “compensation system” and substituted in cl. (B) “six” for “twelve”.
 
@@ -856,7 +856,7 @@ Subsec. (d)(4). Pub. L. 97–35, §109(a), inserted provisions relating to an in
 
 Subsec. (i). Pub. L. 97–35, §109(c), struck out subsec. (i) which related to eligibility of a household containing a person involved in a labor-management dispute.
 
-1980—Subsec. (b). Pub. L. 96–249, §109, inserted provisions permitting each State to decide to proceed against alleged fraud in the program either by way of administrative fraud hearings or by way of reference to appropriate legal authorities for civil or criminal action, or both.
+<b>1980</b>—Subsec. (b). Pub. L. 96–249, §109, inserted provisions permitting each State to decide to proceed against alleged fraud in the program either by way of administrative fraud hearings or by way of reference to appropriate legal authorities for civil or criminal action, or both.
 
 Subsec. (c). Pub. L. 96–249, §110, inserted provisions compelling States electing to use a retrospective accounting system to require that certain categories of households file periodic reports of household circumstances following standards prescribed by the Secretary.
 
@@ -868,13 +868,13 @@ Subsec. (e). Pub. L. 96–249, §139, substituted requirement that he or she is 
 
 Subsec. (f). Pub. L. 96–249, §115, inserted provisions requiring that the income (less a pro rata share) and financial resources of the individual rendered ineligible to participate in the food stamp program under this subsection be considered in determining the eligibility and the value of the allotment of the household of which such individual is a member.
 
-1979—Subsec. (b). Pub. L. 96–58, §5, provided that, after any specified period of disqualification pursuant to findings under clauses (1) or (2) of this subsection, no disqualified individual would be eligible to participate in the food stamp program unless that individual agreed to a reduction in the allotment of the household of which that individual is a member or to repayment in cash, in accordance with a reasonable schedule as determined by the Secretary that would be sufficient over time to reimburse the Federal Government for the value of the coupons obtained through the fraudulent conduct, and that if any disqualified individual elected repayment in cash under the provisions of the preceding sentence and failed to make payments in accordance with the schedule determined by the Secretary, the household of which that individual was a member would be subject to appropriate allotment reductions.
+<b>1979</b>—Subsec. (b). Pub. L. 96–58, §5, provided that, after any specified period of disqualification pursuant to findings under clauses (1) or (2) of this subsection, no disqualified individual would be eligible to participate in the food stamp program unless that individual agreed to a reduction in the allotment of the household of which that individual is a member or to repayment in cash, in accordance with a reasonable schedule as determined by the Secretary that would be sufficient over time to reimburse the Federal Government for the value of the coupons obtained through the fraudulent conduct, and that if any disqualified individual elected repayment in cash under the provisions of the preceding sentence and failed to make payments in accordance with the schedule determined by the Secretary, the household of which that individual was a member would be subject to appropriate allotment reductions.
 
 Subsec. (i). Pub. L. 96–58, §9, added subsec. (i).
 
-1977—Pub. L. 95–113 substituted revised provisions covering eligibility disqualifications for provisions relating to the issuance, usage, and design of coupons which are now covered by section 2016 of this title.
+<b>1977</b>—Pub. L. 95–113 substituted revised provisions covering eligibility disqualifications for provisions relating to the issuance, usage, and design of coupons which are now covered by section 2016 of this title.
 
-1976—Subsecs. (b) to (e). Pub. L. 94–339 added subsecs. (b) and (c) and redesignated former subsecs. (b) and (c) as (d) and (e), respectively.
+<b>1976</b>—Subsecs. (b) to (e). Pub. L. 94–339 added subsecs. (b) and (c) and redesignated former subsecs. (b) and (c) as (d) and (e), respectively.
 
 #### Effective Date of 2008 Amendment
 
@@ -908,7 +908,7 @@ Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pu
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–66 effective, and to be implemented beginning on, Sept. 1, 1994, see section 13971(b)(4) of Pub. L. 103–66, set out as a note under section 2025 of this title.
+Amendment by Pub. L. 103–66 effective, and to be implemented beginning on, Sept. 1, 1994, see section13971(b)(4) of Pub. L. 103–66, set out as a note under section 2025 of this title.
 
 #### Effective Date of 1991 Amendment
 

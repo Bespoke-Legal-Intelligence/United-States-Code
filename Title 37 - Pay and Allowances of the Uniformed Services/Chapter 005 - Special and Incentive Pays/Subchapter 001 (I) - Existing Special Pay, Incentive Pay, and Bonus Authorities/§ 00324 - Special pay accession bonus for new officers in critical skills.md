@@ -30,13 +30,15 @@ Repayment.—An individual who, having received all or part of the bonus under a
 
 (g)
 
-Termination of Authority.—No agreement under this section may be entered into after December 31, 2011.
+Termination of Authority.—No agreement under this section may be entered into after December 31, 2012.
 
-(Added Pub. L. 107–107, div. A, title VI, §621(a), Dec. 28, 2001, 115 Stat. 1139; amended Pub. L.107–314, div. A, title VI, §614(e), title X, §1062(c)(2), Dec. 2, 2002, 116 Stat. 2568, 2651; Pub. L. 108–136, div. A, title VI, §§614(e), 623, Nov. 24, 2003, 117 Stat. 1502, 1505; Pub. L. 108–375, div. A, title VI, §614(f), Oct. 28, 2004, 118 Stat. 1948; Pub. L. 109–163, div. A, title VI, §§624(f), 687(b)(32), Jan. 6, 2006, 119 Stat. 3295, 3332; Pub. L. 109–364, div. A, title VI, §614(f), Oct. 17, 2006, 120 Stat. 2249; Pub. L. 110–181, div. A, title VI, §614(e), Jan. 28, 2008, 122 Stat. 149; Pub. L. 110–417, \[div. A\], title VI, §614(e), Oct. 14, 2008, 122 Stat. 4485; Pub. L. 111–84, div. A, title VI, §615(5), Oct. 28, 2009, 123 Stat. 2354; Pub. L. 111–383, div. A, title VI, §615(5), Jan. 7, 2011, 124 Stat. 4237.)
+(Added Pub. L. 107–107, div. A, title VI, §621(a), Dec. 28, 2001, 115 Stat. 1139; amended Pub. L. 107–314, div. A, title VI, §614(e), title X, §1062(c)(2), Dec. 2, 2002, 116 Stat. 2568, 2651; Pub. L. 108–136, div. A, title VI, §§614(e), 623, Nov. 24, 2003, 117 Stat. 1502, 1505; Pub. L. 108–375, div. A, title VI, §614(f), Oct. 28, 2004, 118 Stat. 1948; Pub. L. 109–163, div. A, title VI, §§624(f), 687(b)(32), Jan. 6, 2006, 119 Stat. 3295, 3332; Pub. L. 109–364, div. A, title VI, §614(f), Oct. 17, 2006, 120 Stat. 2249; Pub. L. 110–181, div. A, title VI, §614(e), Jan. 28, 2008, 122 Stat. 149; Pub. L. 110–417, \[div. A\], title VI, §614(e), Oct. 14, 2008, 122 Stat. 4485; Pub. L. 111–84, div. A, title VI, §615(5), Oct. 28, 2009, 123 Stat. 2354; Pub. L. 111–383, div. A, title VI, §615(5), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §615(5), Dec. 31, 2011, 125 Stat. 1450.)
 
 #### Amendments
 
-<b>2011</b>—Subsec. (g). Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
+<b>2011</b>—Subsec. (g). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
+
+Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
 
 <b>2009</b>—Subsec. (g). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
 

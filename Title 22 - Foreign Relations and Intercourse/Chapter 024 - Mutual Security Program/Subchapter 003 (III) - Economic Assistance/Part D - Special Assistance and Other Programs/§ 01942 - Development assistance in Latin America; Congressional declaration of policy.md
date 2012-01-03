@@ -10,9 +10,9 @@
 
 &emsp;(4) for the peoples of Latin America to continue to progress within the framework of our common heritage of democratic ideals, there is a compelling need for the achievement of social and economic advance adequate to meet the legitimate aspirations of the individual citizens of the countries of Latin America for a better way of life;
 
-&emsp;(5) there is a need for a plan of hemispheric development, open to all American Republics which cooperate in such plan, based upon a strong production effort, the expansion of foreign trade, the creation and maintenance of internal financial stability, the growth of free economic and social institutions, and the development of economic cooperation, including all possible steps to establish and maintain equitable rates of exchange and to bring about the progressive elimination of trade barriers;
+&emsp;(5) there is a need for a plan of hemispheric development, open to all American Republics which cooperate in such plan, based upon astrong production effort, the expansion of foreign trade, the creation and maintenance of internal financial stability, the growth of free economic and social institutions, and the development of economic cooperation, including all possible steps to establish and maintain equitable rates of exchange and to bring about the progressive elimination of trade barriers;
 
-&emsp;(6) mindful of the advantages which the United States has enjoyed through the existence of a large domestic market with no internal trade barriers, and believing that similar advantages can accrue to all countries, it is the hope of the people of the United States that all American Republics will jointly exertsustained common efforts which will speedily achieve that economic cooperation in the Western Hemisphere which is essential for lasting peace and prosperity; and
+&emsp;(6) mindful of the advantages which the United States has enjoyed through the existence of a large domestic market with no internal trade barriers, and believing that similar advantages can accrue to all countries, it is the hope of the people of the United States that all American Republics will jointly exert sustained common efforts which will speedily achieve that economic cooperation in the Western Hemisphere which is essential for lasting peace and prosperity; and
 
 &emsp;(7) accordingly, it is declared to be the policy of the people of the United States to sustain and strengthen principles of individual liberty, free institutions, private enterprise, and genuine independence in the Western Hemisphere through cooperation with all American Republics which participate in a joint development program based upon self-help and mutual efforts.
 
@@ -70,7 +70,7 @@ Memorandum of President of the United States, May 30, 2001, 66 F.R. 30629, provi
 
 Memorandum for the Secretary of State
 
-By the authority vested in me by the Constitution and laws of the United States of America, including section 301 of title 3 of the United States Code, I hereby delegate to the Secretary of State the functions conferred upon the President by the Latin American Development Act of 1960, 22 U.S.C. 1942 <i>et seq</i>.
+By the authority vested in me by the Constitution and laws of the United States of America, includingsection 301 of title 3 of the United States Code, I hereby delegate to the Secretary of State the functions conferred upon the President by the Latin American Development Act of 1960, 22 U.S.C. 1942 <i>et seq</i>.
 
 The functions delegated by this memorandum may be redelegated as appropriate.
 

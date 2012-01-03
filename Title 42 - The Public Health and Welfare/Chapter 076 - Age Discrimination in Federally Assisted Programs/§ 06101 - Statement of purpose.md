@@ -1,6 +1,6 @@
 ### §6101. Statement of purpose
 
-It is the purpose of this chapter to prohibit discrimination on the basis of age in programs or activities receiving Federal financial assistance.
+It is the purpose of this chapter to prohibit discrimination on the basis of age in programsor activities receiving Federal financial assistance.
 
 (Pub. L. 94–135, title III, §302, Nov. 28, 1975, 89 Stat. 728; Pub. L. 95–478, title IV, §401(a), Oct. 18, 1978, 92 Stat. 1555; Pub. L. 99–272, title XIV, §14001(b)(4), Apr. 7, 1986, 100 Stat. 329.)
 
@@ -20,5 +20,5 @@ Amendment by Pub. L. 95–478 effective at the close of Sept. 30, 1978, see sect
 
 #### Short Title
 
-Pub. L. 94–135, title III, §301, Nov. 28, 1975, 89 Stat. 728, provided that: “The provisions of this title \[enactingthis chapter\] may be cited as the ‘Age Discrimination Act of 1975’.”
+Pub. L. 94–135, title III, §301, Nov. 28, 1975, 89 Stat. 728, provided that: “The provisions of this title \[enacting this chapter\] may be cited as the ‘Age Discrimination Act of 1975’.”
 

@@ -8,7 +8,7 @@
 
 &emsp;(B) by the State in which such source is located, but no such order issued by the State shall take effect until the Administrator determines that such order has been issued in accordance with the requirements of this chapter.
 
-> Not later than ninety days after submission by the State to the Administrator of notice of the issuance of a primary nonferrous smelter order under this section, the Administrator shall determine whether or not such order has been issued by the State in accordance with the requirements of this chapter. If the Administrator determines that such order has not been issued in accordance with such requirements, he shall conduct a hearing respecting the reasonably available control technology for primary nonferrous smelters.
+> Not later than ninety days after submission by the State to the Administrator of notice of the issuance of a primary nonferrous smelter order under this section, the Administrator shall determine whether or not such order has been issued by the State in accordance with the requirements of this chapter. If the Administratordetermines that such order has not been issued in accordance with such requirements, he shall conduct a hearing respecting the reasonably available control technology for primary nonferrous smelters.
 
 (2)(A) An order issued under this section to a primary nonferrous smelter shall be referred to as a “primary nonferrous smelter order”. No primary nonferrous smelter may receive both an enforcement order under section 7413(d) <sup>1</sup> of this title and a primary nonferrous smelter order under this section.
 
@@ -30,7 +30,7 @@ A primary nonferrous smelter order under this section may be issued to a primary
 
 #### (c) Second orders
 
-(1) A second order issued to a smelter under this section shall set forth compliance schedules containing increments of progress which require compliance with the requirement postponed as expeditiously as practicable. The increments of progress shall be limited to requiring compliance with subsection (d) of this section and, in the case of a second order, to procuring, installing, and operating the necessary means of emission limitation as expeditiously as practicable after the Administrator determines such meanshave been adequately demonstrated to be reasonably available within the meaning of subsection (b)(3) of this section.
+(1) A second order issued to a smelter under this section shall set forth compliance schedules containing increments of progress which require compliance with the requirement postponed as expeditiously as practicable. The increments of progress shall be limited to requiring compliance with subsection (d) of this section and, in the case of a second order, to procuring, installing, and operating the necessary means of emission limitation as expeditiously as practicable after the Administrator determines such means have been adequately demonstrated to be reasonably available within the meaning of subsection (b)(3) of this section.
 
 (2) Not in excess of two primary nonferrous smelter orders may be issued under this section to any primary nonferrous smelter. The first such order issued to a smelter shall not result in the postponement of the requirement with respect to which such order is issued beyond January 1, 1983. The second such order shall not result in the postponement of such requirement beyond January 1, 1988.
 
@@ -50,7 +50,7 @@ A primary nonferrous smelter order under this section may be issued to a primary
 
 &emsp;(ii) to commit reasonable resources to research and development of appropriate emission control technology.
 
-(2) The requirement of paragraph (1) for the use of continuous emission reduction technology may be waived with respect to a particular smelter by the State or the Administrator, after notice and a hearing on the record, and upon a showing by the owner or operator of the smelter that such requirement would be so costly as to necessitate permanent or prolonged temporary cessation of operations of the smelter. Upon application for such waiver, the Administrator shall be notified and shall, within ninety days, hold a hearing on the record in accordance with section 554 of title 5. At such hearing the Administrator shall require the smelter involved to present information relating to any alleged cessation of operations and the detailed reasons or justifications therefor. On the basis of such hearing the Administrator shall make findings of fact as to the effect of such requirement and on the alleged cessation of operations and shall make such recommendations as he deems appropriate. Such report, findings, and recommendations shall be available to the public, and shall be taken into account by the State or the Administrator in making the decision whether or not to grant such waiver.
+(2) The requirement of paragraph (1) for the use of continuous emission reduction technology may be waived with respect to a particular smelter by the State or the Administrator, afternotice and a hearing on the record, and upon a showing by the owner or operator of the smelter that such requirement would be so costly as to necessitate permanent or prolonged temporary cessation of operations of the smelter. Upon application for such waiver, the Administrator shall be notified and shall, within ninety days, hold a hearing on the record in accordance with section 554 of title 5. At such hearing the Administrator shall require the smelter involved to present information relating to any alleged cessation of operations and the detailed reasons or justifications therefor. On the basis of such hearing the Administrator shall make findings of fact as to the effect of such requirement and on the alleged cessation of operations and shall make such recommendations as he deems appropriate. Such report, findings, and recommendations shall be available to the public, and shall be taken into account by the State or the Administrator in making the decision whether or not to grant such waiver.
 
 (3) In order to obtain information for purposes of a waiver under paragraph (2), the Administrator may, on his own motion, conduct an investigation and use the authority of section 7621 of this title.
 
@@ -76,7 +76,7 @@ If the Administrator determines that a smelter to which an order is issued under
 
 #### References in Text
 
-Section 7413(d) of this title, referred to in subsec. (a)(2)(A), was amended generally by Pub. L. 101–549,title VII, §701, Nov. 15, 1990, 104 Stat. 2672, and, as so amended, no longer relates to final compliance orders.
+Section 7413(d) of this title, referred to in subsec. (a)(2)(A), was amended generally by Pub. L. 101–549, title VII, §701, Nov. 15, 1990, 104 Stat. 2672, and, as so amended, no longer relates to final compliance orders.
 
 #### Prior Provisions
 

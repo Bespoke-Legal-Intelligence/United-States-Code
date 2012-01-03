@@ -6,7 +6,7 @@ Members of the Commission shall serve without compensation.
 
 #### (b) Travel expenses
 
-Members of the Commission shall be allowed reasonable travel expenses, including a per diem allowance, in accordance with section 5703 of title 5 when performing duties of the Commission.
+Members of the Commission shall be allowed reasonable travel expenses, including a per diem allowance, in accordance with section 5703 oftitle 5 when performing duties of the Commission.
 
 (Pub. L. 103–3, title III, §304, Feb. 5, 1993, 107 Stat. 25.)
 

@@ -22,7 +22,7 @@
 
 &emsp;(E) a listing of agencies whose financial management systems do not comply substantially with the requirements of Section <sup>1</sup> 3(a) <sup>2</sup> the Federal Financial Management Improvement Act of 1996, and a summary statement of the efforts underway to remedy the noncompliance; and
 
-&emsp;(F) any other information the Director considers appropriate to fully inform the Congressregarding the financial management of the Federal Government.
+&emsp;(F) any other information the Director considers appropriate to fully inform the Congress regarding the financial management of the Federal Government.
 
 (3)(A) A governmentwide 5-year financial management plan under this subsection shall describe the activities the Director, the Deputy Director for Management, the Controller of the Office of Federal Financial Management, and agency Chief Financial Officers shall conduct over the next 5 fiscal years to improve the financial management of the Federal Government.
 
@@ -34,7 +34,7 @@
 
 &emsp;(iii) provide a strategy for developing and integrating individual agency accounting, financial information, and other financial management systems to ensure adequacy, consistency, and timeliness of financial information;
 
-&emsp;(iv) identify and make proposals to eliminate duplicative and unnecessary systems, including encouraging agencies to share systems which have sufficient capacity to perform the functions needed;
+&emsp;(iv) identify and make proposals to eliminate duplicative and unnecessary systems, including encouraging agencies to share systemswhich have sufficient capacity to perform the functions needed;
 
 &emsp;(v) identify projects to bring existing systems into compliance with the applicable standards and requirements;
 
@@ -88,7 +88,7 @@
 
 &emsp;(B) may change a guideline when considered necessary.
 
-(2) By December 31 of each year (beginning in 1983), the head of each executive agency, basedon an evaluation conducted according to guidelines prescribed under paragraph (1) of this subsection, shall prepare a statement on whether the systems of the agency comply with subsection (c) of this section, including—
+(2) By December 31 of each year (beginning in 1983), the head of each executive agency, based on an evaluation conducted according to guidelines prescribed under paragraph (1) of this subsection, shall prepare a statement on whether the systems of the agency comply with subsection (c) of this section, including—
 
 &emsp;(A) if the head of an executive agency decides the systems do not comply with subsection (c) of this section, a report identifying any material weakness in the systems and describing the plans and schedule for correcting the weakness; and
 

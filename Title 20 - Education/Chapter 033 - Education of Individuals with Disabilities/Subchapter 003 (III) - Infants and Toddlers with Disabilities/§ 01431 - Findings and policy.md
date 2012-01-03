@@ -12,7 +12,7 @@ Congress finds that there is an urgent and substantial need—
 
 &emsp;(4) to enhance the capacity of families to meet the special needs of their infants and toddlers with disabilities; and
 
-&emsp;(5) to enhance the capacity of State and local agencies and service providers to identify, evaluate, and meet the needs of all children, particularly minority, low-income, inner city, and rural children, and infants and toddlers in foster care.
+&emsp;(5) to enhance the capacity of State and local agencies and service providers to identify, evaluate, and meet the needs of all children, particularly minority, low-income, innercity, and rural children, and infants and toddlers in foster care.
 
 #### (b) Policy
 

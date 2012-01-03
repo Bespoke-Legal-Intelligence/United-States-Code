@@ -68,7 +68,7 @@ For purposes of this part—
 
 #### (C) De minimis rule
 
-&emsp;&emsp;If the market discount is less than 1/4 of 1 percent of the stated redemption price of the bond at maturity multiplied by the number of complete years to maturity (after the taxpayer acquired the bond), then the market discount shall be considered to be zero.
+&emsp;&emsp;If the market discount is less than ¼ of 1 percent of the stated redemption price of the bond at maturity multiplied by the number of complete years to maturity (after the taxpayer acquired the bond), then the market discount shall be considered to be zero.
 
 #### (3) Bond
 
@@ -80,7 +80,7 @@ For purposes of this part—
 
 &emsp;&emsp;(A) the issue price of the bond, and
 
-&emsp;&emsp;(B) the aggregate amount of the original issue discount includible in the gross income of all holders for periods before the acquisition of the bond by the taxpayer (determined without regard to section 1272(a)(7) or (b)(4)) or, in the case of a tax-exempt obligation,the aggregate amount of the original issue discount which accrued in the manner provided by section 1272(a) (determined without regard to paragraph (7) thereof) during periods before the acquisition of the bond by the taxpayer.
+&emsp;&emsp;(B) the aggregate amount of the original issue discount includible in the gross income of all holders for periods before the acquisition of the bond by the taxpayer (determined without regard to section 1272(a)(7) or (b)(4)) or, in the case of a tax-exempt obligation, the aggregate amount of the original issue discount which accrued in the manner provided by section 1272(a) (determined without regard to paragraph (7) thereof) during periods before the acquisition of the bond by the taxpayer.
 
 #### (5) Original issue discount, etc.
 
@@ -146,7 +146,7 @@ Amendments by Pub. L. 103–66 applicable to obligations purchased (within the m
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -162,7 +162,7 @@ Section applicable to taxable years ending after July 18, 1984, except as otherw
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before thefirst plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

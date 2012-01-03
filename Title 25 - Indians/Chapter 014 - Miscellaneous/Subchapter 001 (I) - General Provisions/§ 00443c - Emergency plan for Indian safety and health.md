@@ -22,7 +22,7 @@ There is established in the Treasury of the United States a fund, to be known as
 
 #### (c) Expenditures from Fund
 
-On request by the Attorney General, the Secretary of the Interior, or the Secretary of Health and Human Services, the Secretary of the Treasury shall transfer from the Fund to the Attorney General, the Secretary of the Interior, or the Secretary of Health and Human Services, asappropriate, such amounts as the Attorney General, the Secretary of the Interior, or the Secretary of Health and Human Services determines to be necessary to carry out the emergency plan under subsection (f).
+On request by the Attorney General, the Secretary of the Interior, or the Secretary of Health and Human Services, the Secretary of the Treasury shall transfer from the Fund to the Attorney General, the Secretary of the Interior, or the Secretary of Health and Human Services, as appropriate, such amounts as the Attorney General, the Secretary of the Interior, or the Secretary of Health and Human Services determines to be necessary to carry out the emergency plan under subsection (f).
 
 #### (d) Transfers of amounts
 

@@ -1,6 +1,6 @@
 ### §132. Deputy Secretary of Defense
 
-(a) There is a Deputy Secretary of Defense, appointed from civilian life by the President, by and with the advice and consent of the Senate. A person may not be appointed as Deputy Secretary of Defense within seven years after relief from active duty as a commissioned officer of a regular component of an armed force.
+(a) There is a Deputy Secretary of Defense, appointed from civilian life by the President, by and with the advice and consent of the Senate. The Deputy Secretary shall be appointed from among persons most highly qualified for the position by reason of background and experience, including persons with appropriate management experience. A person may not be appointed as Deputy Secretary of Defense within seven years after relief from active duty as a commissioned officer of a regular component of an armed force.
 
 (b) The Deputy Secretary shall perform such duties and exercise such powers as the Secretary of Defense may prescribe. The Deputy Secretary shall act for, and exercise the powers of, the Secretary when the Secretary is disabled or there is no Secretary of Defense.
 
@@ -14,7 +14,7 @@
 
 &emsp;(2) Executive Order No. 12788 of January 15, 1992, as amended (57 Fed. Reg. 2213; relating to the Defense Economic Adjustment Program).
 
-(Added Pub. L. 87–651, title II, §202, Sept. 7, 1962, 76 Stat. 518, §134; amended Pub. L. 92–596, §4(1), Oct. 27, 1972, 86 Stat. 1318; Pub. L. 95–140, §1(a), Oct. 21, 1977, 91 Stat. 1172; renumbered §132 and amended Pub. L. 99–433, title I, §§101(a)(7), 110(d)(7), Oct. 1, 1986, 100 Stat. 995, 1003; Pub. L. 110–181, div. A, title IX, §§903(b), 904(a)(1), Jan. 28, 2008, 122 Stat. 273; Pub. L. 111–84, div. B, title XXVIII, §2831(a), Oct. 28, 2009, 123 Stat. 2669; Pub. L. 111–383, div. A, title IX, §901(c)(2), (m)(2), title X, §1075(b)(4), div. B, title XXVIII, §2821, Jan. 7, 2011, 124 Stat. 4321, 4326, 4369, 4465.)
+(Added Pub. L. 87–651, title II, §202, Sept. 7, 1962, 76 Stat. 518, §134; amended Pub. L. 92–596, §4(1), Oct. 27, 1972, 86 Stat. 1318; Pub. L. 95–140, §1(a), Oct. 21, 1977, 91 Stat. 1172; renumbered §132 and amended Pub. L. 99–433, title I, §§101(a)(7), 110(d)(7), Oct. 1, 1986, 100 Stat. 995, 1003; Pub. L. 110–181, div. A, title IX, §§903(b), 904(a)(1), Jan. 28, 2008, 122 Stat. 273; Pub. L. 111–84, div. B, title XXVIII, §2831(a), Oct. 28, 2009, 123 Stat. 2669; Pub. L. 111–383, div. A, title IX, §901(c)(2), (m)(2), title X, §1075(b)(4), div. B, title XXVIII, §2821, Jan. 7, 2011, 124 Stat. 4321, 4326, 4369, 4465; Pub. L. 112–81, div. A, title IX, §902, Dec. 31, 2011, 125 Stat. 1532.)
 
 Historical and Revision Notes
 
@@ -52,7 +52,9 @@ A prior section 132 was renumbered section 112 of this title.
 
 #### Amendments
 
-<b>2011</b>—Subsec. (c). Pub. L. 111–383, §901(c)(2), struck out at end “The Deputy Secretary shall be assisted in this capacity by a Deputy Chief Management Officer, who shall be appointed from civilian life by the President, by and with the advice and consent of the Senate.”
+<b>2011</b>—Subsec. (a). Pub. L. 112–81 inserted “The Deputy Secretary shall be appointed from among persons most highly qualified for the position by reason of background and experience, including persons with appropriate management experience.” after first sentence.
+
+Subsec. (c). Pub. L. 111–383, §901(c)(2), struck out at end “The Deputy Secretary shall be assisted in this capacity by a Deputy Chief Management Officer, who shall be appointed from civilian life by the President, by and with the advice and consent of the Senate.”
 
 Subsec. (d). Pub. L. 111–383, §1075(b)(4)(A), which directed redesignation of subsec. (d), as added by section 2831(a) of Pub. L. 111–84, as (e), could not be executed because of the prior amendment by Pub. L. 111–383, §901(m)(2). See below.
 

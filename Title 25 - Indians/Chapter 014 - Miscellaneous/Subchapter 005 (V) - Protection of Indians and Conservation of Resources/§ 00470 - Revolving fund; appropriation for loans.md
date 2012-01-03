@@ -12,5 +12,5 @@ There is authorized to be appropriated, out of any funds in the Treasury not oth
 
 #### Revolving Fund: Interest-Free Loans to Klamath Indians; Refinancing Lending Agency Loans
 
-Use of Revolving Loan Fund for Indians to assist Klamath Indians during period for terminating Federalsupervision, see note set out under section 564 of this title. Funds to be administered as a single Indian Revolving Loan Fund after Apr. 12, 1974, see section 1461 of this title.
+Use of Revolving Loan Fund for Indians to assist Klamath Indians during period for terminating Federal supervision, see note set out under section 564 of this title. Funds to be administered as a single Indian Revolving Loan Fund after Apr. 12, 1974, see section 1461 of this title.
 

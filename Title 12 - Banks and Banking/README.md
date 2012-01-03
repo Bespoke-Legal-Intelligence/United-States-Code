@@ -1,5 +1,5 @@
 
-12 U.S.C.<br>United States Code, 2009 Edition<br>Title 12 - BANKS AND BANKING<br>From the U.S. Government Publishing Office, www.gpo.gov
+12 U.S.C.<br>United States Code, 2011 Edition<br>Title 12 - BANKS AND BANKING<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 12—BANKS AND BANKING
 
@@ -63,6 +63,8 @@
 | [<b>50.</b>](Chapter%20050%20-%20Check%20Truncation/README.md) | <b>Check Truncation</b> | <b>5001</b> |
 | [<b>51.</b>](Chapter%20051%20-%20Secure%20and%20Fair%20Enforcement%20for%20Mortgage%20Licensing/README.md) | <b>Secure and Fair Enforcement for Mortgage Licensing</b> | <b>5101</b> |
 | [<b>52.</b>](Chapter%20052%20-%20Emergency%20Economic%20Stabilization/README.md) | <b>Emergency Economic Stabilization</b> | <b>5201</b> |
+| [<b>53.</b>](Chapter%20053%20-%20Wall%20Street%20Reform%20and%20Consumer%20Protection/README.md) | <b>Wall Street Reform and Consumer Protection</b> | <b>5301</b> |
+| [<b>54.</b>](Chapter%20054%20-%20State%20Small%20Business%20Credit%20Initiative/README.md) | <b>State Small Business Credit Initiative</b> | <b>5701</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -129,3 +131,5 @@
 - [Chapter 050 - Check Truncation](Chapter%20050%20-%20Check%20Truncation/README.md)
 - [Chapter 051 - Secure and Fair Enforcement for Mortgage Licensing](Chapter%20051%20-%20Secure%20and%20Fair%20Enforcement%20for%20Mortgage%20Licensing/README.md)
 - [Chapter 052 - Emergency Economic Stabilization](Chapter%20052%20-%20Emergency%20Economic%20Stabilization/README.md)
+- [Chapter 053 - Wall Street Reform and Consumer Protection](Chapter%20053%20-%20Wall%20Street%20Reform%20and%20Consumer%20Protection/README.md)
+- [Chapter 054 - State Small Business Credit Initiative](Chapter%20054%20-%20State%20Small%20Business%20Credit%20Initiative/README.md)

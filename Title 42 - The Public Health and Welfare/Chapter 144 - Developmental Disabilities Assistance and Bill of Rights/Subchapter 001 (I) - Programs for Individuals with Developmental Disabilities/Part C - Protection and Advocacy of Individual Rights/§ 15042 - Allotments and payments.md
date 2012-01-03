@@ -24,7 +24,7 @@
 
 #### (3) Reduction of allotment
 
-&emsp;Notwithstanding paragraphs (1) and (2), if the aggregate of the amounts to be allotted to the States pursuant to such paragraphs for any fiscal year exceeds the total amount appropriated for such allotments under section 15045 of this title for such fiscal year, the amount to be allotted to each State for such fiscal year shall be proportionately reduced.
+&emsp;Notwithstanding paragraphs (1) and (2), if the aggregate of the amounts to be allotted tothe States pursuant to such paragraphs for any fiscal year exceeds the total amount appropriated for such allotments under section 15045 of this title for such fiscal year, the amount to be allotted to each State for such fiscal year shall be proportionately reduced.
 
 #### (4) Increase in allotments
 

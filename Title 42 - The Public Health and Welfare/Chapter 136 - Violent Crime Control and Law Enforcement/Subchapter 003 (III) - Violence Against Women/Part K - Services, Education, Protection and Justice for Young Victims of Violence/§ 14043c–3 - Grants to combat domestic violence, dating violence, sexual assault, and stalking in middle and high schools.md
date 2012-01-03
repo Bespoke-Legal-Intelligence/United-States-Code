@@ -64,7 +64,7 @@ To be eligible to be awarded a grant or contract under this section for any fisc
 
 To be eligible to receive a grant under this section, an entity shall be a partnership that—
 
-&emsp;(1) shall include a public, charter, tribal, or nationally accredited private middle or high school, a school administered by the Department of Defense under 10 U.S.C. 2164 or 20 U.S.C. 921, a group of schools, or a school district;
+&emsp;(1) shall include a public, charter, tribal, or nationally accredited private middle or high school, a school administered by the Department of Defense under 10 U.S.C. 2164 or 20U.S.C. 921, a group of schools, or a school district;
 
 &emsp;(2) shall include a domestic violence victim service provider that has a history of working on domestic violence and the impact that domestic violence and dating violence have on children and youth;
 

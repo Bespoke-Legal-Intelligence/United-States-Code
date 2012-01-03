@@ -24,7 +24,7 @@ No civil action may be commenced—
 
 &emsp;(2) under subsection (a)(2) of this section prior to sixty days after the plaintiff has given notice of such action to the Administrator; or
 
-&emsp;(3) under subsection (a)(3) of this section prior to 60 days after the plaintiff has givennotice of such action to the Attorney General and to the Federal agency.
+&emsp;(3) under subsection (a)(3) of this section prior to 60 days after the plaintiff has given notice of such action to the Attorney General and to the Federal agency.
 
 > Notice required by this subsection shall be given in such manner as the Administrator shall prescribe by regulation. No person may commence a civil action under subsection (a) of this section to require a State to prescribe a schedule under section 300g–4 or 300g–5 of this title for a variance or exemption, unless such person shows to the satisfaction of the court that the State has in a substantial number of cases failed to prescribe such schedules.
 

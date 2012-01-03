@@ -42,7 +42,7 @@
 
 #### (2) Implementation
 
-&emsp;(A) The Secretary may implement on a permanent basis any Program component referred to in paragraph (1) on or after the datewhich is 30 days after paragraph (1)(D) is complied with.
+&emsp;(A) The Secretary may implement on a permanent basis any Program component referred to in paragraph (1) on or after the date which is 30 days after paragraph (1)(D) is complied with.
 
 &emsp;(B) For purposes of subparagraph (A), the 30 days shall be computed by excluding—
 

@@ -44,7 +44,7 @@ For fiscal year 1988 and thereafter each comprehensive statewide outdoor recreat
 
 In addition to assistance for planning projects, the Secretary may provide financial assistance to any State for the following types of projects or combinations thereof if they are in accordance with the State comprehensive plan:
 
-&emsp;(1) For the acquisition of land, waters, or interests in land or waters, or wetland areas andinterests therein as identified in the wetlands provisions of the comprehensive plan (other than land, waters, or interests in land or waters acquired from the United States for less than fair market value), but not including incidental costs relating to acquisition.
+&emsp;(1) For the acquisition of land, waters, or interests in land or waters, or wetland areas and interests therein as identified in the wetlands provisions of the comprehensive plan (other than land, waters, or interests in land or waters acquired from the United States for less than fair market value), but not including incidental costs relating to acquisition.
 
 &emsp;Whenever a State provides that the owner of a single-family residence may, at his option, elect to retain a right of use and occupancy for not less than six months from the date of acquisition of such residence and such owner elects to retain such a right, such owner shall be deemed to have waived any benefits under sections 4623, 4624, 4625, and 4626 of title 42 and for the purposes of those sections such owner shall not be considered a displaced person as defined in section 4601(6) of title 42.
 
@@ -70,7 +70,7 @@ In addition to assistance for planning projects, the Secretary may provide finan
 
 #### (g) Coordination with Federal agencies
 
-In order to assure consistency in policies and actions under this part with other related Federal programs and activities (including those conducted pursuant to title VII of the HousingAct of 1961 \[42 U.S.C. 1500 et seq.\] and section 701 <sup>4</sup> of the Housing Act of 1954) and to assure coordination of the planning, acquisition, and development assistance to States under this section with other related Federal programs and activities, the President may issue such regulations with respect thereto as he deems desirable and such assistance may be provided only in accordance with such regulations.
+In order to assure consistency in policies and actions under this part with other related Federal programs and activities (including those conducted pursuant to title VII of the Housing Act of 1961 \[42 U.S.C. 1500 et seq.\] and section 701 <sup>4</sup> of the Housing Act of 1954) and to assure coordination of the planning, acquisition, and development assistance to States under this section with other related Federal programs and activities, the President may issue such regulations with respect thereto as he deems desirable and such assistance may be provided only in accordance with such regulations.
 
 #### (h) Capital improvement and other projects to reduce crime
 

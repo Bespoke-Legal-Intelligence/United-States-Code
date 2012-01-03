@@ -22,7 +22,7 @@ The Secretary shall, in accordance with subparts 1 through 9 of this part, carry
 
 #### Prior Provisions
 
-A prior section 1070, Pub. L. 89–329, title IV, §401, as added and amended Pub. L. 92–318, title I, §131(b)(1),title X, §1001(c)(1), (2), June 23, 1972, 86 Stat. 247, 381; Pub. L. 94–482, title I, §125, Oct. 12, 1976, 90 Stat. 2096; Pub. L. 96–374, title IV, §401, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1401, 1503, stated purpose of program of grants to students in attendance at institutions of higher education, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1070, Pub. L. 89–329, title IV, §401, as added and amended Pub. L. 92–318, title I, §131(b)(1), title X, §1001(c)(1), (2), June 23, 1972, 86 Stat. 247, 381; Pub. L. 94–482, title I, §125, Oct. 12, 1976, 90 Stat. 2096; Pub. L. 96–374, title IV, §401, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1401, 1503, stated purpose of program of grants to students in attendance at institutions of higher education, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 
@@ -74,11 +74,11 @@ Award determination.—The amount of the financial assistance provided to an ath
 
 &emsp;“(3)
 
-Information on distribution of assistance.—Each center providing such assistance shall annually report to the Secretary such information as the Secretary may reasonably require on the distribution of such assistance among athletes and institutions of higher education. The Secretary shall compile such reports and submit them to the Committees on Education and the Workforce \[now Committee on Education and Labor\] and Appropriations of the House of Representatives and the Committees on Health, Education, Labor, and Pensions and Appropriations of the Senate.
+Information on distribution of assistance.—Each center providing such assistance shall annually report to the Secretary such information as the Secretary may reasonably require on the distribution of such assistance among athletes and institutions of higher education. The Secretary shall compile such reports and submit them to the Committees on Education and the Workforce and Appropriations of the House of Representatives and the Committees on Health, Education, Labor, and Pensions and Appropriations of the Senate.
 
 “(b)
 
-Eligibility.—The Secretary of Education shall ensure that financial assistance provided under this part \[part E (§1543) of Pub. L. 102–325\] is available to both full-time and part-time students who are athletes at centers described in subsection (a).
+Eligibility.—The Secretary of Education shall ensure that financial assistance provided under thispart \[part E (§1543) of Pub. L. 102–325\] is available to both full-time and part-time students who are athletes at centers described in subsection (a).
 
 “(c)
 
@@ -150,7 +150,7 @@ Sense of Congress.—It is the sense of the Congress that all institutions offer
 
 “(b)
 
-Encouragement and Report.—The Secretary of Education shall encourage institutions to provide such refunds or credits, and shall report to the appropriate committees of Congress on the actions taken in accordance with this subsection as well as information he receives regarding any institutions that are not providing such refunds or credits.
+Encouragement and Report.—The Secretary of Education shall encourage institutions to provide such refunds or credits, and shall report to the appropriatecommittees of Congress on the actions taken in accordance with this subsection as well as information he receives regarding any institutions that are not providing such refunds or credits.
 
 #### “SEC. 6. TERMINATION OF AUTHORITY.
 

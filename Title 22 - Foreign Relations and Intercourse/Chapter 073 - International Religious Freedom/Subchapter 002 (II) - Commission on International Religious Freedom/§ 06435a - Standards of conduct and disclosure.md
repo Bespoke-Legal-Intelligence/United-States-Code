@@ -36,7 +36,7 @@ The Commission shall seek to effectively and freely cooperate with all entities 
 
 #### (1) In general
 
-&emsp;Subject to the availability of appropriations, the Commission may contract with and compensate Government agencies or persons for the conduct of activities necessary to the discharge of its functions under this subchapter. Any such person shall be hired without interruption or loss of civil service or Foreign Service status or privilege. The Commission may procure temporary and intermittent services under the authority of section 3109(b) of title 5, except that the Commission may not expend more than $100,000 in any fiscal year to procure such services.
+&emsp;Subject to the availability of appropriations, the Commission may contract with and compensate Government agencies or persons for the conduct of activities necessary to the discharge of its functions under this subchapter. Any such person shall be hired without interruption or loss of civil service or Foreign Service status or privilege. The Commission may procure temporary and intermittent services under the authority of section 3109(b) of title 5, except that the Commission may not expend more than $250,000 in any fiscal year to procure such services.
 
 #### (2) Expert study
 
@@ -46,7 +46,7 @@ The Commission shall seek to effectively and freely cooperate with all entities 
 
 #### (1) In general
 
-&emsp;In order to preserve its independence, the Commission may not accept, use, or dispose of gifts or donations of services or property. An individual Commissioner or employee of the Commission may not, in his or her capacity as a Commissioner or employee, knowingly accept, use or dispose of gifts or donations of services or property, unless he or she in good faith believes such gifts or donations to havea value of less than $50 and a cumulative value during a calendar year of less than $100.
+&emsp;In order to preserve its independence, the Commission may not accept, use, or dispose of gifts or donations of services or property. An individual Commissioner or employee of the Commission may not, in his or her capacity as a Commissioner or employee, knowingly accept, use or dispose of gifts or donations of services or property, unless he or she in good faith believes such gifts or donations to have a value of less than $50 and a cumulative value during a calendar year of less than $100.
 
 #### (2) Exceptions
 
@@ -68,9 +68,9 @@ The Commission shall seek to effectively and freely cooperate with all entities 
 
 #### (e) Annual financial report
 
-In addition to providing the reports required under section 6432 of this title, the Commission shall provide, each year no later than January 1, to the Committees on International Relations and Appropriations of the House of Representatives, and to the Committees on Foreign Relations and Appropriations of the Senate, a financial report detailing and identifying its expenditures for the preceding fiscal year.
+In addition to providing the reports required under section 6432 of this title, the Commission shall provide, each year no later than January 1, to the Committees on Foreign Affairs and Appropriations of the House of Representatives, and to the Committees on Foreign Relations and Appropriations of the Senate, a financial report detailing and identifying its expenditures for the preceding fiscal year.
 
-(Pub. L. 105–292, title II, §208, as added Pub. L. 106–55, §1(b)(5), Aug. 17, 1999, 113 Stat. 403; amended Pub. L. 107–228, div. A, title VI, §681(f), Sept. 30, 2002, 116 Stat. 1409.)
+(Pub. L. 105–292, title II, §208, as added Pub. L. 106–55, §1(b)(5), Aug. 17, 1999, 113 Stat. 403; amended Pub. L. 107–228, div. A, title VI, §681(f), Sept. 30, 2002, 116 Stat. 1409; Pub. L. 112–75, §5, Dec. 23, 2011, 125 Stat. 1273.)
 
 #### References in Text
 
@@ -78,11 +78,11 @@ The Foreign Gifts and Decorations Act of 1966, referred to in subsec. (d)(2)(E),
 
 #### Amendments
 
+<b>2011</b>—Subsec. (c)(1). Pub. L. 112–75, §5(1), substituted “$250,000” for “$100,000”.
+
+Subsec. (e). Pub. L. 112–75, §5(2), substituted “Foreign Affairs” for “International Relations”.
+
 <b>2002</b>—Subsec. (c)(1). Pub. L. 107–228 substituted “The Commission may procure temporary and intermittent services under the authority of section 3109(b) of title 5, except that the Commission may not expend more than $100,000 in any fiscal year to procure such services.” for “The Commission may not procure temporary and intermittent services under section 3109(b) of title 5 or under other contracting authority other than that allowed under this subchapter.”
-
-#### Change of Name
-
-Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should follow “member”.</i>
 

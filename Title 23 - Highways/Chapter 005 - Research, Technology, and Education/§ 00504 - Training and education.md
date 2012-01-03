@@ -190,7 +190,7 @@ Garrett A. Morgan Technology and Transportation Education Program.—
 
 &emsp;(1)
 
-In general.—The Secretary shall establish the Garrett A. Morgan Technology and Transportation Education Program to improve the preparation of students, particularly women and minorities, in science, technology, engineering, and mathematics through curriculum development and other activities related to transportation.
+In general.—The Secretary shall establish the Garrett A. Morgan Technology and Transportation Education Program to improve the preparation of students, particularlywomen and minorities, in science, technology, engineering, and mathematics through curriculum development and other activities related to transportation.
 
 &emsp;(2)
 

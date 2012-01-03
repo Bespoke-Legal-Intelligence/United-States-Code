@@ -26,7 +26,7 @@ For purposes of this subtitle—
 
 This section shall not apply to any recovery of a foreign expropriation loss to which section 1351 applies.
 
-(Added Pub. L. 89–384, §1(b)(1), Apr. 8, 1966, 80 Stat. 101; amended Pub. L. 94–455, title XIX, §§1901(b)(3)(K), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat.1793, 1834; Pub. L. 98–369, div. A, title II, §211(b)(2), July 18, 1984, 98 Stat. 754.)
+(Added Pub. L. 89–384, §1(b)(1), Apr. 8, 1966, 80 Stat. 101; amended Pub. L. 94–455, title XIX, §§1901(b)(3)(K), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1793, 1834; Pub. L. 98–369, div. A, title II, §211(b)(2), July 18, 1984, 98 Stat. 754.)
 
 #### Amendments
 
@@ -38,7 +38,7 @@ Subsec. (c)(1). Pub. L. 94–455, §1901(b)(3)(K), substituted “ordinary incom
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, see section 215 of Pub. L. 98–369, set out as an Effective Date note under section 801 of this title.
+Amendment by Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, see section 215 ofPub. L. 98–369, set out as an Effective Date note under section 801 of this title.
 
 #### Effective Date of 1976 Amendment
 

@@ -70,7 +70,7 @@ It is the purpose of this section—
 
 #### (1) In general
 
-&emsp;For the first year of the demonstration program authorized under this section, the Secretary is authorized to select for participation in the program not more than 15 institutions, systems of institutions, or consortia of institutions. For the third year of the demonstration program authorized under this section, the Secretary may select not more than 35 institutions, systems, or consortia, in addition to the institutions, systems, or consortia selected pursuant to the preceding sentence, to participate in the demonstration program if the Secretary determines that such expansion is warranted based on the evaluations conducted in accordance with subsections (f) and (g) of this section.
+&emsp;For the first year of the demonstration program authorized under this section, the Secretary is authorized to select for participationin the program not more than 15 institutions, systems of institutions, or consortia of institutions. For the third year of the demonstration program authorized under this section, the Secretary may select not more than 35 institutions, systems, or consortia, in addition to the institutions, systems, or consortia selected pursuant to the preceding sentence, to participate in the demonstration program if the Secretary determines that such expansion is warranted based on the evaluations conducted in accordance with subsections (f) and (g) of this section.
 
 #### (2) Considerations
 
@@ -146,7 +146,7 @@ For the purpose of this section, the term “distance education” means an educ
 
 &emsp;(4) correspondence.
 
-(Pub. L. 89–329, title IV, §486, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat.1487; amended Pub. L. 102–325, title IV, §489, July 23, 1992, 106 Stat. 624; Pub. L. 105–244, title IV, §488, Oct. 7, 1998, 112 Stat. 1746; Pub. L. 110–315, title I, §103(b)(12), title IV, §491, Aug. 14, 2008, 122 Stat. 3090, 3307.)
+(Pub. L. 89–329, title IV, §486, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1487; amended Pub. L. 102–325, title IV, §489, July 23, 1992, 106 Stat. 624; Pub. L. 105–244, title IV, §488, Oct. 7, 1998, 112 Stat. 1746; Pub. L. 110–315, title I, §103(b)(12), title IV, §491, Aug. 14, 2008, 122 Stat. 3090, 3307.)
 
 #### Prior Provisions
 
@@ -154,7 +154,7 @@ A prior section 1093, Pub. L. 89–329, title IV, §486, as added Pub. L. 96–3
 
 #### Amendments
 
-<b>2008</b>—Subsec. (e). Pub. L. 110–315, §103(b)(12), substituted “authorizing committees” for “Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives”.
+<b>2008</b>—Subsec. (e). Pub. L. 110–315, §103(b)(12), substituted “authorizing committees” for “Committee on Labor and Human Resources of the Senate and theCommittee on Education and the Workforce of the House of Representatives”.
 
 Subsec. (f)(3). Pub. L. 110–315, §491, substituted “Annual reports” for “Reports” in heading, in subpar. (B) redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, and adjusted their margins, and substituted “The Secretary shall provide reports to the authorizing committees on an annual basis” for former subpar. (A) which required Secretary to report to congressional committees on evaluations of demonstration programs and for introductory provisions of former subpar. (B) which related to additional annual reports.
 

@@ -40,7 +40,7 @@ The Commission shall biennially report to the President, the Congress, and appro
 
 #### (d) Annual report; scope; submission to President, etc.
 
-Not later than December 15 of each year (beginning with 1979) the Commission shall report to the President, the Congress, and appropriate Federal agencies on the activities of the Commission during the fiscal year ending in suchyear. Each such report shall include a complete list of all recommendations described in subsection (b)(1) of this section made to Federal agencies by the Commission during the fiscal year and the actions taken, pursant <sup>3</sup> to subsection (b)(2) of this section, by the agencies upon such recommendations, and may include such recommendations for legislation and administrative action as the Commission deems appropriate.
+Not later than December 15 of each year (beginning with 1979) the Commission shall report to the President, the Congress, and appropriate Federal agencies on the activities of the Commission during the fiscal year ending in such year. Each such report shall include a complete list of all recommendations described in subsection (b)(1) of this section made to Federal agencies by the Commission during the fiscal year and the actions taken, pursant <sup>3</sup> to subsection (b)(2) of this section, by the agencies upon such recommendations, and may include such recommendations for legislation and administrative action as the Commission deems appropriate.
 
 #### (e) Publication and dissemination of reports
 

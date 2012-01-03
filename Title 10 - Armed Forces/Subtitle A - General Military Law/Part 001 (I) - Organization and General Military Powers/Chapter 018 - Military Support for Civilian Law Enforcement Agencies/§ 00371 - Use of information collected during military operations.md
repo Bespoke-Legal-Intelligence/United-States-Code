@@ -18,7 +18,7 @@ Pub. L. 99–570, title III, §3051, Oct. 27, 1986, 100 Stat. 3207–74, provide
 
 #### Authority for Joint Task Forces to Provide Support to Law Enforcement Agencies Conducting Counter-Terrorism Activities
 
-Pub. L. 108–136, div. A, title X, §1022, Nov. 24, 2003, 117 Stat. 1594, as amended by Pub. L. 109–163, div. A, title X, §1022, Jan. 6, 2006, 119 Stat. 3427; Pub. L. 110–181, div. A, title X, §1021, Jan. 28, 2008, 122 Stat. 304; Pub. L. 110–417, \[div. A\], title X, §1022, Oct. 14, 2008, 122 Stat. 4586; Pub. L. 111–84, div. A, title X, §1012, Oct. 28, 2009, 123 Stat. 2441; Pub. L. 111–383, div. A, title X, §1012(a)–(b)(2), Jan. 7, 2011, 124 Stat. 4346, 4347, provided that:
+Pub. L. 108–136, div. A, title X, §1022, Nov. 24, 2003, 117 Stat. 1594, as amended by Pub. L. 109–163, div. A, title X, §1022, Jan. 6, 2006, 119 Stat. 3427; Pub. L. 110–181, div. A, title X, §1021, Jan. 28, 2008, 122 Stat. 304; Pub. L. 110–417, \[div. A\], title X, §1022, Oct. 14, 2008, 122 Stat. 4586; Pub. L. 111–84, div. A, title X, §1012, Oct. 28, 2009, 123 Stat. 2441; Pub. L. 111–383, div. A, title X, §1012(a)–(b)(2), Jan. 7, 2011, 124 Stat. 4346, 4347; Pub. L. 112–81, div. A, title X, §1004(a), Dec. 31, 2011, 125 Stat. 1556, provided that:
 
 “(a)
 
@@ -26,7 +26,7 @@ Authority.—A joint task force of the Department of Defense that provides suppo
 
 “(b)
 
-Availability of Funds.—During fiscal years 2006 through 2011, funds available to a joint task force to support counter-drug activities may also be used to provide the counter-terrorism support authorized by subsection (a).
+Availability of Funds.—During fiscal years 2006 through 2012, funds available to a joint task force to support counter-drug activities may also be used to provide the counter-terrorism support authorized by subsection (a).
 
 “(c)
 
@@ -49,4 +49,6 @@ Conditions.—(1) Any support provided under subsection (a) may only be provided
 “(B) The Secretary of Defense may waive the requirements of subparagraph (A) if the Secretary determines that such a waiver is vital to the national security interests of the United States. The Secretary shall promptly submit to Congress notice in writing of any waiver issued under this subparagraph.
 
 “(C) The Secretary of Defense may delegate any responsibility of the Secretary under subparagraph (B) to the Deputy Secretary of Defense or to the Under Secretary of Defense for Policy. Except as provided in the preceding sentence, such a responsibility may not be delegated to any official of the Department of Defense or any other official.”
+
+\[Pub. L. 112–81, div. A, title X, §1004(b), Dec. 31, 2011, 125 Stat. 1556, provided that: “The authority in section 1022 of the National Defense Authorization Act for Fiscal Year 2004 \[Pub. L. 108–136, set out above\], as amended by subsection (a), may not be exercised unless the Secretary of Defense certifies to Congress, in writing, that the Department of Defense is in compliance with the provisions of paragraph (2) of subsection (d) of such section, as added by section 1012(b) of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 (Public Law 111–383; 124 Stat. 4346).”\]
 

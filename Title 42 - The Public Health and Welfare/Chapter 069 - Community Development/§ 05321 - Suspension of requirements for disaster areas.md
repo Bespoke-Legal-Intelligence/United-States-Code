@@ -12,5 +12,5 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to
 
 #### Effective Date
 
-Section applicable with respect to any amounts made available to carry out subchapter II (§12721 et seq.) of chapter 130 of this title after Apr. 11, 1994, and any amounts made available to carry out that subchapter before that date that remain uncommitted on that date, with Secretary to issue any regulations necessary to carry out this section not later than end of 45-day period beginning on that date, see section 209 of Pub. L. 103–233, set out as an Effective Date of 1994 Amendment note under section 5301 of this title.
+Section applicable with respect to any amounts made available to carry out subchapter II (§12721 et seq.) ofchapter 130 of this title after Apr. 11, 1994, and any amounts made available to carry out that subchapter before that date that remain uncommitted on that date, with Secretary to issue any regulations necessary to carry out this section not later than end of 45-day period beginning on that date, see section 209 of Pub. L. 103–233, set out as an Effective Date of 1994 Amendment note under section 5301 of this title.
 

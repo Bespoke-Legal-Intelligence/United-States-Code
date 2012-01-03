@@ -84,7 +84,7 @@ In this part:
 
 #### (13) Packer-owned swine
 
-&emsp;The term “packer-owned swine” means swine that a packer (including a subsidiary oraffiliate of the packer) owns for at least 14 days immediately before slaughter.
+&emsp;The term “packer-owned swine” means swine that a packer (including a subsidiary or affiliate of the packer) owns for at least 14 days immediately before slaughter.
 
 #### (14) Packer-sold swine
 
@@ -150,7 +150,7 @@ In this part:
 
 #### Amendments
 
-2006—Par. (4). Pub. L. 109–296, §2(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘base market hog’ means a hog for which no discounts are subtracted from and no premiums are added to the base price.”
+<b>2006</b>—Par. (4). Pub. L. 109–296, §2(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘base market hog’ means a hog for which no discounts are subtracted from and no premiums are added to the base price.”
 
 Par. (5). Pub. L. 109–296, §2(b), amended heading and text of par. (5) generally. Prior to amendment, text read as follows: “The term ‘bred female swine’ means any female swine, whether a sow or gilt, that has been mated or inseminated and is assumed, or has been confirmed, to be pregnant.”
 

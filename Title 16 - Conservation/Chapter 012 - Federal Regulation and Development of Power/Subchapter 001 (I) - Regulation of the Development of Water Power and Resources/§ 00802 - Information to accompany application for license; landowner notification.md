@@ -2,7 +2,7 @@
 
 (a) Each applicant for a license under this chapter shall submit to the commission—
 
-(1) Such maps, plans, specifications, and estimates of cost as may be required for a full understanding of the proposed project. Such maps, plans, and specifications when approved by the commission shall be made a part of the license; and thereafter no change shall be made in said maps, plans, or specifications until such changes shall have been approved and made a part of such license by the commission.
+(1) Such maps, plans, specifications, and estimates of cost as may be required for a full understanding of the proposed project. Such maps, plans, and specifications when approved by thecommission shall be made a part of the license; and thereafter no change shall be made in said maps, plans, or specifications until such changes shall have been approved and made a part of such license by the commission.
 
 (2) Satisfactory evidence that the applicant has complied with the requirements of the laws of the State or States within which the proposed project is to be located with respect to bed and banks and to the appropriation, diversion, and use of water for power purposes and with respect to the right to engage in the business of developing, transmitting and distributing power, and in any other business necessary to effect the purposes of a license under this chapter.
 

@@ -4,7 +4,7 @@
 
 #### (1) Planning and establishment grants
 
-&emsp;There shall be appropriated to the Secretary, out of any moneys in the Treasury not otherwise appropriated, an amount necessary to enable the Secretary to make awards, not later than 1 year after March 23, 2010, to States in the amount specified in paragraph (2) for the uses described in paragraph (3).
+&emsp;There shall be appropriated to the Secretary, out of any moneys in the Treasury not otherwise appropriated, an amount necessary to enable the Secretary to make awards, notlater than 1 year after March 23, 2010, to States in the amount specified in paragraph (2) for the uses described in paragraph (3).
 
 #### (2) Amount specified
 
@@ -222,7 +222,7 @@
 
 #### (7) Publication of costs
 
-&emsp;An Exchange shall publish the average costs of licensing, regulatory fees, and any other payments required by the Exchange, and the administrative costs of such Exchange, on an Internet website to educate consumers on such costs. Such information shall also include monies lost to waste, fraud, and abuse.
+&emsp;An Exchange shall publish the average costs of licensing, regulatory fees, and any otherpayments required by the Exchange, and the administrative costs of such Exchange, on an Internet website to educate consumers on such costs. Such information shall also include monies lost to waste, fraud, and abuse.
 
 #### (e) Certification
 
@@ -452,7 +452,7 @@ Subsec. (d)(3)(B)(ii). Pub. L. 111–148, §10104(e)(1), added cl. (ii) and stru
 
 Subsec. (d)(6)(A). Pub. L. 111–148, §10104(e)(2), inserted “educated” before “health care”.
 
-Subsec. (e)(2). Pub. L. 111–148, §10104(f)(1), which directed substitution of “shall” for “may” in second sentence, was executed by making the substitution in third sentence before “take” to reflect the probable intent of Congress because the word “shall” already appeared in second sentence.
+Subsec. (e)(2). Pub. L. 111–148, §10104(f)(1), which directed substitution of “shall” for “may” in second sentence, was executed by making the substitution inthird sentence before “take” to reflect the probable intent of Congress because the word “shall” already appeared in second sentence.
 
 Subsec. (e)(3). Pub. L. 111–148, §10104(f)(2), added par. (3).
 

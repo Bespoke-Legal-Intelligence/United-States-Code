@@ -52,7 +52,7 @@
 
 &emsp;&emsp;&emsp;(i) a description of the consumer product (or other product or substance regulated by the Commission) concerned;
 
-&emsp;&emsp;&emsp;(ii) identification of the manufacturer or private labeler of the consumer product (orother product or substance regulated by the Commission);
+&emsp;&emsp;&emsp;(ii) identification of the manufacturer or private labeler of the consumer product (or other product or substance regulated by the Commission);
 
 &emsp;&emsp;&emsp;(iii) a description of the harm relating to the use of the consumer product (or other product or substance regulated by the Commission);
 
@@ -120,7 +120,7 @@
 
 #### (A) Reports
 
-&emsp;&emsp;Except as provided in paragraph (4)(A), if the Commission receives a report described in subsection (b)(1)(A), the Commission shall make the report available in the database not later than the 10th business day after the date on which the Commission transmits the report under paragraph (1) of this subsection.
+&emsp;&emsp;Except as provided in paragraph (4)(A) or paragraph (5), if the Commission receives a report described in subsection (b)(1)(A), the Commission shall make the report available in the database not later than the 10th business day after the date on which the Commission transmits the report under paragraph (1) of this subsection.
 
 #### (B) Comments
 
@@ -130,7 +130,7 @@
 
 #### (A) Inaccurate information in reports and comments received
 
-&emsp;&emsp;If, prior to making a report described in subsection (b)(1)(A) or a comment described in paragraph (2) of this subsection available in the database, the Commission determines that the information in such report or comment is materially inaccurate, the Commission shall—
+&emsp;&emsp;If, prior to making a report described in subsection (b)(1)(A) or a comment described in paragraph (2) of this subsection available in the database, the Commission receives notice that the information in such report or comment is materially inaccurate, the Commission shall stay the publication of the report on the database as required under paragraph (3) for a period of no more than 5 additional days. If the Commission determines that the information in such report or comment is materially inaccurate, the Commission shall—
 
 &emsp;&emsp;&emsp;(i) decline to add the materially inaccurate information to the database;
 
@@ -147,6 +147,20 @@
 &emsp;&emsp;&emsp;(ii) correct such information; or
 
 &emsp;&emsp;&emsp;(iii) add information to correct inaccurate information in the database.
+
+#### (5) Obtaining certain product identification information
+
+#### (A) In general
+
+&emsp;&emsp;If the Commission receives a report described in subsection (b)(1)(A) that does not include the model or serial number of the consumer product concerned, the Commission shall seek from the individual or entity submitting the report such model or serial number or, if such model or serial number is not available, a photograph of the product. If the Commission obtains information relating to the serial or model number of the product or a photograph of the product, it shall immediately forward such information to the manufacturer of the product. The Commission shall make the report available in the database on the 15th business day after the date on which the Commission transmits the report under paragraph (1) and shall include in the database any additional information about the product obtained under this paragraph.
+
+#### (B) Rule of construction
+
+&emsp;&emsp;Nothing in this paragraph shall be construed to—
+
+&emsp;&emsp;&emsp;(i) permit the Commission to delay transmission of the report under paragraph (1) until the Commission has obtained the model or serial number or a photograph of the consumer product concerned; or
+
+&emsp;&emsp;&emsp;(ii) make inclusion in the database of a report described in subsection (b)(1)(A) contingent on the availability of the model or serial number or a photograph of the consumer product concerned.
 
 #### (d) Annual report
 
@@ -196,5 +210,13 @@ In this section, the term “harm” means—
 
 &emsp;(2) risk of injury, illness, or death, as determined by the Commission.
 
-(Pub. L. 92–573, §6A, as added Pub. L. 110–314, title II, §212(a), Aug. 14, 2008, 122 Stat. 3048.)
+(Pub. L. 92–573, §6A, as added Pub. L. 110–314, title II, §212(a), Aug. 14, 2008, 122 Stat. 3048; amended Pub. L. 112–28, §7, Aug. 12, 2011, 125 Stat. 281.)
+
+#### Amendments
+
+<b>2011</b>—Subsec. (c)(3)(A). Pub. L. 112–28, §7(1), inserted “or paragraph (5)” after “paragraph (4)(A)”.
+
+Subsec. (c)(4)(A). Pub. L. 112–28, §7(2), substituted “receives notice that the information in such report or comment is materially inaccurate, the Commission shall stay the publication of the report on the database as required under paragraph (3) for a period of no more than 5 additional days. If the Commission determines that the information in such report or comment is materially inaccurate, the Commission shall—” for “determines that the information in such report or comment is materially inaccurate, the Commission shall—” in introductory provisions.
+
+Subsec. (c)(5). Pub. L. 112–28, §7(3), added par. (5).
 

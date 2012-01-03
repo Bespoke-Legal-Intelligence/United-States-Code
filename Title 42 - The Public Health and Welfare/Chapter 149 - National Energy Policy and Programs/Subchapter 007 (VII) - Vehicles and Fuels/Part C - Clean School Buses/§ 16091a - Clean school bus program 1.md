@@ -86,7 +86,7 @@ In this section, the following definitions apply:
 
 #### (A) In general
 
-&emsp;&emsp;All school buses acquired or retrofitted with funds provided under this section shallbe operated as part of the school bus fleet for which the grant was made for not less than 5 years.
+&emsp;&emsp;All school buses acquired or retrofitted with funds provided under this section shall be operated as part of the school bus fleet for which the grant was made for not less than 5 years.
 
 #### (B) Maintenance, operation, and fueling
 

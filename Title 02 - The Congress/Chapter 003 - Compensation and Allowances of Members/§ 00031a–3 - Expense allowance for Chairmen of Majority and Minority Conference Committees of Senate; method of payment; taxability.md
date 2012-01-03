@@ -10,7 +10,7 @@ Section is from the Supplemental Appropriations Act, 1985.
 
 #### Amendments
 
-2003—Pub. L. 108–7 substituted “not exceed $5,000” for “not exceed $3,000”.
+<b>2003</b>—Pub. L. 108–7 substituted “not exceed $5,000” for “not exceed $3,000”.
 
 #### Effective Date of 2003 Amendment
 

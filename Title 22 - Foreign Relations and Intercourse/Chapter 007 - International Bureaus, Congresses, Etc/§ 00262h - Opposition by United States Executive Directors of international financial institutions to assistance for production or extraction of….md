@@ -10,9 +10,11 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 #### Similar Provisions
 
-Pub. L. 111–117, div. F, title VII, §7026(c), Dec. 16, 2009, 123 Stat. 3354, provided that: “The Secretary of the Treasury shall instruct the United States Executive Directors of the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Inter-American Development Bank, the International Monetary Fund, the Asian Development Bank, the Inter-American Investment Corporation, the North American Development Bank, the European Bank for Reconstruction and Development, the African Development Bank, and the African Development Fund to use the voice and vote of the United States to oppose any assistance by these institutions, using funds appropriated or made available pursuant to titles III through VI of this Act \[div. F of Pub. L. 111–117, 123 Stat. 3323–3343, see Tables for classification\], for the production or extraction of any commodity or mineral for export, if it is in surplus on world markets and if the assistance will cause substantial injury to United States producers of the same, similar, or competing commodity.”
+Pub. L. 112–74, div. I, title VII, §7025(c), Dec. 23, 2011, 125 Stat. 1206, provided that: “The Secretary of the Treasury shall instruct the United States Executive Directors of the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Inter-American Development Bank, the International Monetary Fund, the Asian Development Bank, the Inter-American Investment Corporation, the North American Development Bank, the European Bank forReconstruction and Development, the African Development Bank, and the African Development Fund to use the voice and vote of the United States to oppose any assistance by these institutions, using funds appropriated or made available pursuant to titles III through VI of this Act \[div. I of Pub. L. 112–74, 125 Stat. 1175–1193, see Tables for classification\], for the production or extraction of any commodity or mineral for export, if it is in surplus on world markets and if the assistance will cause substantial injury to United States producers of the same, similar, or competing commodity.”
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 111–117, div. F, title VII, §7026(c), Dec. 16, 2009, 123 Stat. 3354.
 
 Pub. L. 111–8, div. H, title VII, §7026(c), Mar. 11, 2009, 123 Stat. 871.
 

@@ -22,7 +22,7 @@ For the purposes of this chapter, the term—
 
 &emsp;(10) “Outer Continental Shelf” has the same meaning as provided in the Outer Continental Shelf Lands Act (Public Law 95–372);
 
-&emsp;(11) “operator” means any person, including a lessee, who has control of, or who manages operations on, an oil and gas lease site on Federal or Indian lands or on the Outer Continental Shelf;
+&emsp;(11) “operator” means any person, including a lessee, who has control of, or who managesoperations on, an oil and gas lease site on Federal or Indian lands or on the Outer Continental Shelf;
 
 &emsp;(12) “person” means any individual, firm, corporation, association, partnership, consortium, or joint venture;
 
@@ -48,7 +48,7 @@ For the purposes of this chapter, the term—
 
 &emsp;(20) “commence” means—
 
-&emsp;&emsp;(A) with respect to a judicial proceeding, the service of a complaint, petition, counterclaim, cross claim, or other pleading seeking affirmative relief or seeking credit or recoupment: <i>Provided</i>, That if the Secretary commences a judicial proceeding against a designee, the Secretary shall give notice of that commencement to the lessee who designated the designee, but the Secretary is not required to give notice to other lesseeswho may be liable pursuant to section 1712(a) of this title, for the obligation that is the subject of the judicial proceeding; or
+&emsp;&emsp;(A) with respect to a judicial proceeding, the service of a complaint, petition, counterclaim, cross claim, or other pleading seeking affirmative relief or seeking credit or recoupment: <i>Provided</i>, That if the Secretary commences a judicial proceeding against a designee, the Secretary shall give notice of that commencement to the lessee who designated the designee, but the Secretary is not required to give notice to other lessees who may be liable pursuant to section 1712(a) of this title, for the obligation that is the subject of the judicial proceeding; or
 
 &emsp;&emsp;(B) with respect to a demand, the receipt by the Secretary or a delegated State or a lessee or its designee (with written notice to the lessee who designated the designee) of the demand;
 
@@ -96,7 +96,7 @@ For the purposes of this chapter, the term—
 
 &emsp;&emsp;(A) asserts a specific, definite, and quantified obligation claimed to be due, and
 
-&emsp;&emsp;(B) specifically identifies the obligation by lease, production month and monetary amount of such obligation claimed to be due and ordered to be paid, as well as the reason or reasons such obligation is claimed to be due, but such term does not include any other communication or action by or on behalf of the Secretary or a delegated State;
+&emsp;&emsp;(B) specifically identifies the obligation by lease, production month and monetary amount of such obligation claimed to be due and ordered to be paid, as well as the reason or reasons such obligation is claimed to be due, but such term does not include anyother communication or action by or on behalf of the Secretary or a delegated State;
 
 &emsp;(27) “overpayment” means any payment by a lessee or its designee in excess of an amount legally required to be paid on an obligation and includes the portion of any estimated payment for a production month that is in excess of the royalties due for that month;
 

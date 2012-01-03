@@ -100,5 +100,5 @@ A prior section 1802 of Pub. L. 90–351 was classified to section 3796ee–1 of
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–162, title XI, §1168(b), as added by Pub. L. 109–271, §8(n)(5)(B), Aug. 12, 2006, 120 Stat. 768, provided that: “The amendments made by this section \[amending this section\] shall take effect on October 1, 2006.”
+Pub. L. 109–162, title XI, §1168(b), as added by Pub. L. 109–271, §8(n)(5)(B), Aug. 12, 2006, 120 Stat. 768, providedthat: “The amendments made by this section \[amending this section\] shall take effect on October 1, 2006.”
 

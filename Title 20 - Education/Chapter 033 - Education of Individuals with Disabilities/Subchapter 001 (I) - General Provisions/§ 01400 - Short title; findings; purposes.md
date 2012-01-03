@@ -118,7 +118,7 @@ Section is comprised of section 601 of Pub. L. 91–230. Subsec. (b) of section 
 
 A prior section 1400, Pub. L. 91–230, title VI, §601, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 37, contained short title for this chapter and related to congressional findings and purposes, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-Another prior section 1400, Pub. L. 91–230, title VI, §601, Apr. 13, 1970, 84 Stat. 175; Pub. L. 94–142, §3, Nov. 29, 1975, 89 Stat. 774; Pub. L. 101–476, title IX, §901(a)(1), (b)(1)–(9), Oct. 30, 1990, 104 Stat. 1141, 1142; Pub. L. 102–119, §25(b), Oct. 7, 1991, 105 Stat. 607, contained short title for this chapter and related to congressional statements and declarations, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17. This section had been classified as a note under former section 1401 of this title prior to being amended by Pub. L. 94–142.
+Another prior section 1400, Pub. L. 91–230, title VI, §601, Apr. 13, 1970, 84 Stat. 175; Pub. L. 94–142, §3, Nov. 29, 1975, 89 Stat. 774; Pub. L. 101–476, title IX, §901(a)(1), (b)(1)–(9), Oct. 30, 1990, 104 Stat. 1141, 1142; Pub. L. 102–119, §25(b), Oct. 7, 1991, 105 Stat. 607, contained short title for this chapter and related to congressional statements and declarations, prior to the generalamendment of subchapters I to IV of this chapter by Pub. L. 105–17. This section had been classified as a note under former section 1401 of this title prior to being amended by Pub. L. 94–142.
 
 #### Amendments
 

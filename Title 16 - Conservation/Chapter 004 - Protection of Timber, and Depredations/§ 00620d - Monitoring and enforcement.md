@@ -4,7 +4,7 @@
 
 In accordance with regulations issued under this section—
 
-&emsp;(1) each person who acquires, either directly or indirectly, unprocessed timber originating from Federal lands west of the 100th meridian in the contiguous 48 States shall report the receipt and disposition of such timber to theSecretary concerned, in such form as such Secretary may by rule prescribe; except that nothing in this paragraph shall be construed to hold any person responsible for the reporting of the disposition of any such timber held by subsequent persons;
+&emsp;(1) each person who acquires, either directly or indirectly, unprocessed timber originating from Federal lands west of the 100th meridian in the contiguous 48 States shall report the receipt and disposition of such timber to the Secretary concerned, in such form as such Secretary may by rule prescribe; except that nothing in this paragraph shall be construed to hold any person responsible for the reporting of the disposition of any such timber held by subsequent persons;
 
 &emsp;(2) each person who transfers to another person unprocessed timber originating from Federal lands west of the 100th meridian in the contiguous 48 States shall, before completing such transfer—
 
@@ -60,13 +60,13 @@ Using the information gathered under subsection (a) of this section, the Secreta
 
 &emsp;(A) If the Secretary concerned finds, on the record and after an opportunity for a hearing, that a person has violated any provision of sections 620 to 620j of this title or any regulation issued under sections 620 to 620j of this title relating to lands which they administer (notwithstanding that such violation may not have caused the export of unprocessed Federal timber in violation of sections 620 to 620j of this title), such Secretary may—
 
-&emsp;&emsp;(i) assess against such person a civil penalty of not more than $75,000 for each violation if the Secretary determines that theperson committed such violation in disregard of such provision or regulation;
+&emsp;&emsp;(i) assess against such person a civil penalty of not more than $75,000 for each violation if the Secretary determines that the person committed such violation in disregard of such provision or regulation;
 
 &emsp;&emsp;(ii) assess against such person a civil penalty of not more than $50,000 for each violation if the Secretary determines that the person should have known that the action constituted a violation; or
 
 &emsp;&emsp;(iii) assess against such person a civil penalty of not more than $500,000 if the Secretary determines that the person committed such violation willfully.
 
-&emsp;(B)(i) Subject to clause (ii), if the Secretary of Commerce finds, on the record and after an opportunity for a hearing, that a person has violated, on or after June 1, 1993, any provision of sections 620 to 620j of this title or any regulation issued under sections 620 to 620j of this title relating to the export of unprocessed timber originating from public lands (whether or not the violation caused the export of unprocessed timber from public lands in violation of sections 620 to 620j of this title), the Secretary may assess against such person a civil penalty to the same extent as the Secretary concerned may impose a penalty under clause (i), (ii), or (iii) of subparagraph (A).
+&emsp;(B)(i) Subject to clause (ii), if the Secretary of Commerce finds, on the record and after an opportunity for a hearing, that a person has violated, on or after June 1, 1993, any provision of sections 620 to 620j of this title or any regulation issued under sections 620 to 620j of this title relating to the export of unprocessed timber originating from public lands (whether or not the violation caused the export of unprocessed timber from public lands in violation ofsections 620 to 620j of this title), the Secretary may assess against such person a civil penalty to the same extent as the Secretary concerned may impose a penalty under clause (i), (ii), or (iii) of subparagraph (A).
 
 &emsp;(ii) Clause (i) shall not apply with respect to unprocessed timber originating from public lands in a State that is administering and enforcing a program under section 620c(d) of this title.
 

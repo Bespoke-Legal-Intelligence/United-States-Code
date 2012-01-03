@@ -218,7 +218,7 @@
 
 &emsp;In the case of any qualified Gulf Opportunity Zone property—
 
-&emsp;&emsp;(A) the depreciation deduction provided by section 167(a) for the taxable year in which such property is placed in service shall include an allowance equal to 50 percent of the adjusted basis of such property, and
+&emsp;&emsp;(A) the depreciation deduction provided by section 167(a) for the taxable year in whichsuch property is placed in service shall include an allowance equal to 50 percent of the adjusted basis of such property, and
 
 &emsp;&emsp;(B) the adjusted basis of the qualified Gulf Opportunity Zone property shall be reduced by the amount of such deduction before computing the amount otherwise allowable as a depreciation deduction under this chapter for such taxable year and any subsequent taxable year.
 
@@ -484,7 +484,7 @@ In the case of qualified rehabilitation expenditures (as defined in section 47(c
 
 #### (1) In general
 
-&emsp;If a portion of any net operating loss of the taxpayer for any taxable year is a qualified Gulf Opportunity Zone loss, the following rules shall apply:
+&emsp;If a portion of any net operating loss of the taxpayer for any taxable year is a qualifiedGulf Opportunity Zone loss, the following rules shall apply:
 
 #### (A) Extension of carryback period
 
@@ -656,7 +656,7 @@ In the case of qualified rehabilitation expenditures (as defined in section 47(c
 
 #### (D) Use of proceeds requirement
 
-&emsp;&emsp;Such term shall not include any bond issued as part of an issue if any portion of the proceeds of such issue was (or is to be) used to provide any property described in section 144(c)(6)(B).
+&emsp;&emsp;Such term shall not include any bond issued as part of an issue if any portion of theproceeds of such issue was (or is to be) used to provide any property described in section 144(c)(6)(B).
 
 #### (6) Credit included in gross income
 

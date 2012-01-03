@@ -84,7 +84,7 @@ Exception for small insurers.—Paragraph (2) shall not apply with respect to an
 
 &emsp;(4)
 
-Advance coordination.—Before collecting any data or information under paragraph (2) from an insurer, or affiliate of an insurer, the Office shall coordinate with each relevant Federal agency and State insurance regulator (or other relevant Federal or State regulatory agency, if any, in the case of an affiliate of an insurer) and any publicly available sources to determine if the information to be collected is available from, and may be obtained in a timely manner by, such Federal agency or State insurance regulator, individually or collectively, other regulatory agency, or publicly available sources. If the Director determines that such data or information is available, and may be obtained in a timely manner, from such an agency, regulator, regulatory agency, or source, the Director shall obtain the data or information from such agency, regulator, regulatory agency, or source. If the Director determines that such data or information is not so available, the Director may collect such data or information from an insurer (or affiliate) only if the Director complies with the requirements of subchapter I of chapter 35 of title 44, United States Code (relating to Federal information policy; commonly known as the Paperwork Reduction Act), in collecting such data or information. Notwithstanding any other provision of law, each such relevantFederal agency and State insurance regulator or other Federal or State regulatory agency is authorized to provide to the Office such data or information.
+Advance coordination.—Before collecting any data or information under paragraph (2) from an insurer, or affiliate of an insurer, the Office shall coordinate with each relevant Federal agency and State insurance regulator (or other relevant Federal or State regulatory agency, if any, in the case of an affiliate of an insurer) and any publicly available sources to determine if the information to be collected is available from, and may be obtained in a timely manner by, such Federal agency or State insurance regulator, individually or collectively, other regulatory agency, or publicly available sources. If the Director determines that such data or information is available, and may be obtained in a timely manner, from such an agency, regulator, regulatory agency, or source, the Director shall obtain the data or information from such agency, regulator, regulatory agency, or source. If the Director determines that such data or information is notso available, the Director may collect such data or information from an insurer (or affiliate) only if the Director complies with the requirements of subchapter I of chapter 35 of title 44, United States Code (relating to Federal information policy; commonly known as the Paperwork Reduction Act), in collecting such data or information. Notwithstanding any other provision of law, each such relevant Federal agency and State insurance regulator or other Federal or State regulatory agency is authorized to provide to the Office such data or information.
 
 &emsp;(5)
 
@@ -160,7 +160,7 @@ Notice of determination of inconsistency.—Upon making any determination under 
 
 &emsp;(3)
 
-Notice of effectiveness.—Upon the conclusion of the period referred to in paragraph (2)(C)(ii), if the basis for such determination still exists, the determination shall become effective and the Director shall—
+Notice of effectiveness.—Upon the conclusion of the period referred to in paragraph (2)(C)(ii), if the basis for such determinationstill exists, the determination shall become effective and the Director shall—
 
 &emsp;&emsp;(A) cause to be published a notice in the Federal Register that the preemption has become effective, as well as the effective date; and
 
@@ -168,7 +168,7 @@ Notice of effectiveness.—Upon the conclusion of the period referred to in para
 
 &emsp;(4)
 
-Limitation.—No State may enforce a State insurance measure to the extent thatsuch measure has been preempted under this subsection.
+Limitation.—No State may enforce a State insurance measure to the extent that such measure has been preempted under this subsection.
 
 (g)
 

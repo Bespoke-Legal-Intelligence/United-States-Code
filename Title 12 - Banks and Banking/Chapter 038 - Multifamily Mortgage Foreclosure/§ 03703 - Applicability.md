@@ -6,5 +6,5 @@ Multifamily mortgages held by the Secretary encumbering real estate located in a
 
 #### Amendments
 
-1983—Pub. L. 98–181 inserted provision relating to application of section 3706(b) of this title in event of foreclosure under other foreclosure procedures.
+<b>1983</b>—Pub. L. 98–181 inserted provision relating to application of section 3706(b) of this title in event of foreclosure under other foreclosure procedures.
 

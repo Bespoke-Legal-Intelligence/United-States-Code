@@ -15,14 +15,16 @@
 | [2579\.](%C2%A7%2002579%20-%20War%20booty%20procedures%20for%20handling%20and%20retaining%20battlefield%20objects.md) | War booty: procedures for handling and retaining battlefield objects. |
 | [2580\.](%C2%A7%2002580%20-%20Donation%20of%20excess%20chapel%20property.md) | Donation of excess chapel property. |
 | [2581\.](%C2%A7%2002581%20-%20Excess%20UH%E2%80%931%20Huey%20and%20AH%E2%80%931%20Cobra%20helicopters%20requirements%20for%20transfer%20to%20foreign%20countries.md) | Excess UH–1 Huey and AH–1 Cobra helicopters: requirements for transfer to foreign countries. |
-| [2582\.](%C2%A7%2002582%20-%20Military%20equipment%20identified%20on%20United%20States%20munitions%20list%20annual%20report%20of%20public%20sales.md) | Military equipment identified on United States munitions list: annual report of public sales. |
+| \[2582. | Repealed.\] |
 | [2583\.](%C2%A7%2002583%20-%20Military%20animals%20transfer%20and%20adoption.md) | Military animals: transfer and adoption. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 111–383, div. A, title X, §1072(c)(2), Jan. 7, 2011, 124 Stat. 4366, substituted “Surplus military equipment: sale to State and local law enforcement, firefighting, homeland security, and emergency management agencies” for “Surplus military equipment: sale to State and local law enforcement and firefighting agencies” in item 2576.
+<b>2011</b>—Pub. L. 112–81, div. A, title X, §1061(19)(B), Dec. 31, 2011, 125 Stat. 1584, struck out item 2582 “Military equipment identified on United States munitions list: annual report of public sales”.
+
+Pub. L. 111–383, div. A, title X, §1072(c)(2), Jan. 7, 2011, 124 Stat. 4366, substituted “Surplus military equipment: sale to State and local law enforcement, firefighting, homeland security, and emergency management agencies” for “Surplus military equipment: sale to State and local law enforcement and firefighting agencies” in item 2576.
 
 <b>2006</b>—Pub. L. 109–364, div. A, title III, §352(b), div. B, title XXVIII, §2825(d)(1)(B), Oct. 17, 2006, 120 Stat. 2161, 2477, substituted “supplies” for “property” in item 2571 and “animals” for “working dogs” in item 2583.
 
@@ -72,5 +74,5 @@ Pub. L. 100–370, §1(k)(2), July 19, 1988, 102 Stat. 848, added item 2578.
 - [&sect; 02579 - War booty procedures for handling and retaining battlefield objects](%C2%A7%2002579%20-%20War%20booty%20procedures%20for%20handling%20and%20retaining%20battlefield%20objects.md)
 - [&sect; 02580 - Donation of excess chapel property](%C2%A7%2002580%20-%20Donation%20of%20excess%20chapel%20property.md)
 - [&sect; 02581 - Excess UH&#8211;1 Huey and AH&#8211;1 Cobra helicopters requirements for transfer to foreign countries](%C2%A7%2002581%20-%20Excess%20UH%E2%80%931%20Huey%20and%20AH%E2%80%931%20Cobra%20helicopters%20requirements%20for%20transfer%20to%20foreign%20countries.md)
-- [&sect; 02582 - Military equipment identified on United States munitions list annual report of public sales](%C2%A7%2002582%20-%20Military%20equipment%20identified%20on%20United%20States%20munitions%20list%20annual%20report%20of%20public%20sales.md)
+- [&sect; 02582 - Repealed. Pub. L. 112&#8211;81, div. A, title X, &sect;1061(19)(A), Dec. 31, 2011, 125 Stat. 1584](%C2%A7%2002582%20-%20Repealed.%20Pub.%20L.%20112%E2%80%9381%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71061%2819%29%28A%29%2C%20Dec.%2031%2C%202011%2C%20125%20Stat.%201584.md)
 - [&sect; 02583 - Military animals transfer and adoption](%C2%A7%2002583%20-%20Military%20animals%20transfer%20and%20adoption.md)

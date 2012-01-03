@@ -36,7 +36,7 @@ To be eligible to participate in the Scholarship Program, an individual must—
 
 (ii) During the period in which a health professional is planning and making the transition to private practice from obligated service under the Scholarship Program, the Secretary may provide assistance to the professional regarding such transition if the professional is remaining in a health professional shortage area and is continuing to provide primary health services.
 
-(C) In the case of entities to which participants in the Scholarship Program are assigned under section 254f of this title, the Secretary shall encourage the entities to provide options with respect to assisting the participants in remaining in the health professional shortage areas involved, and in continuing to provide primary health services, after the period of obligated service under the Scholarship Program is completed. The options with respect to which the Secretary provides such encouragement may include options regarding the sharing of a single employment position in the health professions by 2 or more health professionals, and options regarding the recruitment of couples where both of the individuals are health professionals.
+(C) In the case of entities to which participants in the Scholarship Program are assigned under section 254f of this title, the Secretary shall encourage the entities to provide options with respect to assisting the participants in remaining in the health professional shortage areas involved, and in continuing to provide primary health services, after the period of obligated service under the Scholarship Program iscompleted. The options with respect to which the Secretary provides such encouragement may include options regarding the sharing of a single employment position in the health professions by 2 or more health professionals, and options regarding the recruitment of couples where both of the individuals are health professionals.
 
 #### (d) Factors considered in providing contracts; priorities
 
@@ -68,7 +68,7 @@ The written contract (referred to in this subpart) between the Secretary and an 
 
 &emsp;(1) an agreement that—
 
-&emsp;&emsp;(A) subject to paragraph (2), the Secretary agrees (i) to provide the individual with a scholarship (described in subsection (g) of this section) in each such school year oryears for a period of years (not to exceed four school years) determined by the individual, during which period the individual is pursuing a course of study described in subsection (b)(1)(B) of this section, and (ii) to accept (subject to the availability of appropriated funds for carrying out sections 254d through 254h and section 254j of this title) the individual into the Corps (or for equivalent service as otherwise provided in this subpart); and
+&emsp;&emsp;(A) subject to paragraph (2), the Secretary agrees (i) to provide the individual with a scholarship (described in subsection (g) of this section) in each such school year or years for a period of years (not to exceed four school years) determined by the individual, during which period the individual is pursuing a course of study described in subsection (b)(1)(B) of this section, and (ii) to accept (subject to the availability of appropriated funds for carrying out sections 254d through 254h and section 254j of this title) the individual into the Corps (or for equivalent service as otherwise provided in this subpart); and
 
 &emsp;&emsp;(B) subject to paragraph (2), the individual agrees—
 
@@ -98,7 +98,7 @@ The written contract (referred to in this subpart) between the Secretary and an 
 
 (1) A scholarship provided to a student for a school year under a written contract under the Scholarship Program shall consist of—
 
-&emsp;(A) payment to, or (in accordance with paragraph (2)) on behalf of, the student of the amount (except as provided in section 292k <sup>2</sup> of this title) of—
+&emsp;(A) payment to, or (in accordance with paragraph (2)) on behalf of, the student of theamount (except as provided in section 292k <sup>2</sup> of this title) of—
 
 &emsp;&emsp;(i) the tuition of the student in such school year; and
 

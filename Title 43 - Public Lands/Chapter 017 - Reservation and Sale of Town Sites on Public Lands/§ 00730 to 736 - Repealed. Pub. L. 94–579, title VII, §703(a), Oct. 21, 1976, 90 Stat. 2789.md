@@ -1,6 +1,6 @@
 ### §§730 to 736. Repealed. Pub. L. 94–579, title VII, §703(a), Oct. 21, 1976, 90 Stat. 2789
 
-Section 730, act July 9, 1914, ch. 138, 38 Stat. 454, provided for issuance of patents to transferees of town lotspurchased at public sale and transferred prior to October 11, 1911, where patent had not been issued to original purchaser who had since died.
+Section 730, act July 9, 1914, ch. 138, 38 Stat. 454, provided for issuance of patents to transferees of town lots purchased at public sale and transferred prior to October 11, 1911, where patent had not been issued to original purchaser who had since died.
 
 Section 731, act Feb. 9, 1903, ch. 531, 32 Stat. 820, extended town-site laws to ceded Indian lands in the State of Minnesota.
 

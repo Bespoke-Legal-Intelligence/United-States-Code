@@ -4,5 +4,5 @@ Section, acts Aug. 4, 1949, ch. 393, 63 Stat. 526; Aug. 3, 1950, ch. 536, §24, 
 
 #### Savings Provision
 
-Section 10(a)(6)(A) of Pub. L. 99–640 provided in part that the repeal of sections 431, 433, 434, and 438 of this title did not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun under such sections before Nov. 10, 1986.
+Section 10(a)(6)(A) of Pub. L. 99–640 provided in part that the repeal of sections 431, 433, 434, and 438 of thistitle did not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun under such sections before Nov. 10, 1986.
 

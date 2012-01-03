@@ -12,35 +12,57 @@
 
 (b) Whenever the President or the Secretary submit to the Congress a request for the funding of a major medical facility project (as defined in subsection (a)(3)(A)) or a major medical facility lease (as defined in subsection (a)(3)(B)), the Secretary shall submit to each committee, on the same day, a prospectus of the proposed medical facility. Any such prospectus shall include the following:
 
-&emsp;(1) A detailed description of the medical facility to be constructed, altered, leased, or otherwise acquired under this subchapter, including a description of the location of such facility and, in the case of a prospectus proposing the construction of a new or replacement medical facility, a description of the consideration that was given to acquiring an existing facility by lease or purchase and to the sharing of health-care resources with the Department of Defense under section 8111 of this title.
+&emsp;(1) A detailed estimate of the total costs of the medical facility to be constructed, altered, leased, or otherwise acquired under this subchapter, including a description of the location of such facility and, in the case of a prospectus proposing the construction of a new or replacement medical facility, a detailed report of the consideration that was given to acquiring an existing facility by lease or purchase and to the sharing of health-care resources with the Department of Defense under section 8111 of this title. Such detailed estimate shall include an identification of each of the following:
 
-&emsp;(2) An estimate of the cost to the United States of the construction, alteration, lease, or other acquisition of such facility (including site costs, if applicable).
+&emsp;&emsp;(A) Total construction costs.
 
-&emsp;(3) An estimate of the cost to the United States of the equipment required for the operation of such facility.
+&emsp;&emsp;(B) Activation costs.
 
-&emsp;(4) Demographic data applicable to such facility, including information on projected changes in the population of veterans to be served by the facility over a five-year period and a ten-year period.
+&emsp;&emsp;(C) Special purpose alterations (lump-sum payment) costs.
 
-&emsp;(5) Current and projected workload and utilization data regarding the facility.
+&emsp;&emsp;(D) Number of personnel.
 
-&emsp;(6) Current and projected operating costs of the facility, including both recurring and non-recurring costs.
+&emsp;&emsp;(E) Total costs of ancillary services, equipment, and all other items.
 
-&emsp;(7) The priority score assigned to the project or lease under the Department's prioritization methodology and, if the project or lease is being proposed for funding before a project or lease with a higher score, a specific explanation of the factors other than the priority score that were considered and the basis on which the project or lease is proposed for funding ahead of projects or leases with higher priority scores.
+&emsp;(2) Demographic data applicable to such facility, including information on projected changes in the population of veterans to be served by the facility over a five-year period, a ten-year period, and a twenty-year period.
 
-&emsp;(8) In the case of a prospectus proposing the construction of a new or replacement medical facility, a description of each alternative to construction of the facility that was considered.
+&emsp;(3) Current and projected workload and utilization data regarding the facility, including information on projected changes in workload and utilization over a five-year period, a ten-year period, and a twenty-year period.
+
+&emsp;(4) Projected operating costs of the facility, including both recurring and non-recurring costs (including and identifying both recurring and non-recurring costs (including activation costs and total costs of ancillary services, equipment and all other items)) over a five-year period, a ten-year period, and a twenty-year period.
+
+&emsp;(5) The priority score assigned to the project or lease under the Department's prioritization methodology and, if the project or lease is being proposed for funding before a project or lease with a higher score, a specific explanation of the factors other than the priority score that were considered and the basis on which the project or lease is proposed for funding ahead of projects or leases with higher priority scores.
+
+&emsp;(6) In the case of a prospectus proposing the construction of a new or replacement medical facility, each of the following:
+
+&emsp;&emsp;(A) A detailed estimate of the total costs (including total construction costs, activation costs, special purpose alterations (lump-sum payment) costs, number of personnel and total costs of ancillary services, equipment and all other items) for each alternative to construction of the facility that was considered.
+
+&emsp;&emsp;(B) A comparison of total costs to total benefits for each such alternative.
+
+&emsp;&emsp;(C) An explanation of why the preferred alternative is the most effective means to achieve the stated project goals and the most cost-effective alternative.
 
 (c) Not less than 30 days before obligating funds for a major medical facility project approved by a law described in subsection (a)(2) of this section in an amount that would cause the total amount obligated for that project to exceed the amount specified in the law for that project (or would add to total obligations exceeding such specified amount) by more than 10 percent, the Secretary shall provide the committees with notice of the Secretary's intention to do so and the reasons for the specified amount being exceeded.
 
 (d)(1) Except as provided in paragraph (2), in any case in which the Secretary proposes that funds be used for a purpose other than the purpose for which such funds were appropriated, the Secretary shall promptly notify each committee, in writing, of the particulars involved and the reasons why such funds were not used for the purpose for which appropriated.
 
-(2)(A) In any fiscal year, unobligated amounts in the Construction, Major Projects account that are a direct result of bid savings from a major medical facility project may only be obligated for major medical facility projects authorized for that fiscal year or a previous fiscal year.
+(2)(A) In any fiscal year, unobligated amounts in the Construction, Major Projects account that are a direct result of bid savings from a major construction project may only be obligated for major construction projects authorized for that fiscal year or a previous fiscal year.
 
-(B) Whenever the Secretary obligates amounts for a major medical facility under subparagraph (A), the Secretary shall submit to the Committee on Veterans’ Affairs and the Committee on Appropriations of the Senate and the Committee on Veterans’ Affairs and the Committee on Appropriations of the House of Representatives notice of the following:
+(B) Whenever the Secretary obligates amounts for a major construction project under subparagraph (A), the Secretary shall submit to the Committee on Veterans’ Affairs and the Committee on Appropriations of the Senate and the Committee on Veterans’ Affairs and the Committee on Appropriations of the House of Representatives notice of the following:
 
-&emsp;(i) The major medical facility project that is the source of the bid savings.
+&emsp;(i) The major construction project that is the source of the bid savings.
 
-&emsp;(ii) The other major medical facility project for which the amounts are being obligated.
+&emsp;(ii) The other major construction project for which the amounts are being obligated.
 
-&emsp;(iii) The amounts being obligated for such other major medical facility project.
+&emsp;(iii) The amounts being obligated for such other major construction project.
+
+(C) The Secretary may not obligate an amount under subparagraph (A) to expand the purpose of a major construction project except pursuant to a provision of law enacted after the date on which the Secretary submits to the committees described in subparagraph (B) notice of the following:
+
+&emsp;(i) The major construction project that is the source of the bid savings.
+
+&emsp;(ii) The major construction project for which the Secretary intends to expand the purpose.
+
+&emsp;(iii) A description of such expansion of purpose.
+
+&emsp;(iv) The amounts the Secretary intends to obligate to expand the purpose.
 
 (e) The Secretary may accept gifts or donations for any of the purposes of this subchapter.
 
@@ -52,9 +74,31 @@
 
 (g) The limitation in subsection (f) does not apply to a project for which funds have been authorized by law in accordance with subsection (a)(2).
 
-(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 56, §5004; amended Pub. L. 99–166, title III, §§301, 303, Dec. 3, 1985, 99 Stat. 954, 955; Pub. L. 99–576, title II, §221(b), Oct. 28, 1986, 100 Stat. 3259; Pub. L. 100–322, title IV, §422, May 20, 1988, 102 Stat. 553; renumbered §8104 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–405, title III, §301(a), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–79, §3(a), Aug. 13, 1993, 107 Stat. 771; Pub. L. 104–262, title II, §§205(a), 206(a), (c), Oct. 9, 1996, 110 Stat. 3189, 3190; Pub. L. 105–368,title VII, §704, Nov. 11, 1998, 112 Stat. 3350; Pub. L. 108–170, title II, §201, Dec. 6, 2003, 117 Stat. 2047; Pub. L. 108–422, title IV, §416, Nov. 30, 2004, 118 Stat. 2393; Pub. L. 109–461, title VIII, §812, Dec. 22, 2006, 120 Stat. 3447; Pub. L. 110–387, title VII, §705, Oct. 10, 2008, 122 Stat. 4138; Pub. L. 111–275, title IX, §905, Oct. 13, 2010, 124 Stat. 2895.)
+(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 56, §5004; amended Pub. L. 99–166, title III, §§301, 303, Dec. 3, 1985, 99 Stat. 954, 955; Pub. L. 99–576, title II, §221(b), Oct. 28, 1986, 100 Stat. 3259; Pub. L. 100–322, title IV, §422, May 20, 1988, 102 Stat. 553; renumbered §8104 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–405, title III, §301(a), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–79, §3(a), Aug. 13, 1993, 107 Stat. 771; Pub. L. 104–262, title II, §§205(a), 206(a), (c), Oct. 9, 1996, 110 Stat. 3189, 3190; Pub. L. 105–368, title VII, §704, Nov. 11, 1998, 112 Stat. 3350; Pub. L. 108–170, title II, §201, Dec. 6, 2003, 117 Stat. 2047; Pub. L. 108–422, title IV, §416, Nov. 30, 2004, 118 Stat. 2393; Pub. L. 109–461, title VIII, §812, Dec. 22, 2006, 120 Stat. 3447; Pub. L. 110–387, title VII, §705, Oct. 10, 2008, 122 Stat. 4138; Pub. L. 111–275, title IX, §905, Oct. 13, 2010, 124 Stat. 2895; Pub. L. 112–37, §§6, 7, Oct. 5, 2011, 125 Stat. 394, 396.)
 
 #### Amendments
+
+<b>2011</b>—Subsec. (b)(1). Pub. L. 112–37, §6(1)(A), substituted “detailed estimate of the total costs” for “detailed description” and “a detailed report of the consideration” for “a description of the consideration” and inserted at end “Such detailed estimate shall include an identification of each of the following:” and subpars. (A) to (E).
+
+Subsec. (b)(2). Pub. L. 112–37, §6(1)(B), (C), struck out par. (2), redesignated par. (4) as (2), and substituted “a five-year period, a ten-year period, and a twenty-year period” for “a five-year period and a ten-year period”. Prior to amendment, par. (2) read as follows: “An estimate of the cost to the United States of the construction, alteration, lease, or other acquisition of such facility (including site costs, if applicable).”
+
+Subsec. (b)(3). Pub. L. 112–37, §6(1)(B), (D), struck out par. (3), redesignated par. (5) as (3), and inserted before period at end “, including information on projected changes in workload and utilization over a five-year period, a ten-year period, and a twenty-year period”. Prior to amendment, par. (3) read as follows: “An estimate of the cost to the United States of the equipment required for the operation of such facility.”
+
+Subsec. (b)(4). Pub. L. 112–37, §6(1)(B), (E), redesignated par. (6) as (4), substituted “Projected” for “Current and projected”, and inserted before period at end “(including and identifying both recurring and non-recurring costs (including activation costs and total costs of ancillary services, equipment and all other items)) over a five-year period, a ten-year period, and a twenty-year period”. Former par. (4) redesignated (2).
+
+Subsec. (b)(5). Pub. L. 112–37, §6(1)(B), redesignated par. (7) as (5). Former par. (5) redesignated (3).
+
+Subsec. (b)(6). Pub. L. 112–37, §6(1)(B), (F), redesignated par. (8) as (6), substituted “each of the following:” for “a description of each alternative to construction of the facility that was considered.”, and added subpars. (A) to (C). Former par. (6) redesignated (4).
+
+Subsec. (b)(7),(8). Pub. L. 112–37, §6(1)(B), redesignated pars. (7) and (8) as (5) and (6), respectively.
+
+Subsec. (d). Pub. L. 112–37, §6(2)(A), substituted “major construction project” for “major medical facility project” wherever appearing.
+
+Subsec. (d)(2)(A). Pub. L. 112–37, §6(2)(B)(i), substituted “major construction projects” for “major medical facility projects”.
+
+Subsec. (d)(2)(B). Pub. L. 112–37, §6(2)(B)(ii), substituted “major construction project” for “major medical facility” in introductory provisions.
+
+Subsec. (d)(2)(C). Pub. L. 112–37, §7, added subpar. (C).
 
 <b>2010</b>—Subsec. (d). Pub. L. 111–275 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), in any case” for “In any case”, and added par. (2).
 

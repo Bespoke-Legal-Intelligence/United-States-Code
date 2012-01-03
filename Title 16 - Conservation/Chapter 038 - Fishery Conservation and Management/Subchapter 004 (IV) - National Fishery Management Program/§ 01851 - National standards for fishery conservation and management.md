@@ -142,7 +142,7 @@ In General.—Consistent with section 301(a) of the Magnuson-Stevens Act (16 U.S
 
 “(b)
 
-Transition Rule.—A single fishery cooperative approved under section 2 of this Act is deemed to meetthe requirements of section 303A(i) of the Magnuson-Stevens Act (16 U.S.C. 1853a(i)) as if it had been approved by the Secretary within 6 months after the date of enactment of the Magnuson-Stevens Fishery Conservation and Management Reauthorization Act of 2006 \[Pub. L. 109–479, approved Jan. 12, 2007\], unless the Secretary makes a determination, within 30 days after the date of enactment of this Act \[Dec. 22, 2010\], that application of section 303A(i) of the Magnuson-Stevens Act to the cooperative approved under section 2 of this Act would be inconsistent with the purposes for which section 303A was added to the Magnuson-Stevens Act.
+Transition Rule.—A single fishery cooperative approved under section 2 of this Act is deemed to meet the requirements of section 303A(i) of the Magnuson-Stevens Act (16 U.S.C. 1853a(i)) as if it had been approved by the Secretary within 6 months after the date of enactment of the Magnuson-Stevens Fishery Conservation and Management Reauthorization Act of 2006 \[Pub. L. 109–479, approved Jan. 12, 2007\], unless the Secretary makes a determination, within 30 days after the date of enactment of this Act \[Dec. 22, 2010\], that application of section 303A(i) of the Magnuson-Stevens Act to the cooperative approved under section 2 of this Act would be inconsistent with the purposes for which section 303A was added to the Magnuson-Stevens Act.
 
 “(c)
 
@@ -162,7 +162,7 @@ BSAI.—The term ‘BSAI’ has the meaning given that term in section 219(a)(2)
 
 &emsp;“(2)
 
-BSAI pacific cod total allowable catch.—The term ‘BSAI Pacific cod total allowable catch’ means the Pacific cod total allowable catch for the directed longline catcher processor subsector in the BSAI as established on an annual basis by the Council and approved by the Secretary.
+BSAI pacific cod total allowable catch.—The term ‘BSAI Pacific cod total allowable catch’means the Pacific cod total allowable catch for the directed longline catcher processor subsector in the BSAI as established on an annual basis by the Council and approved by the Secretary.
 
 &emsp;“(3)
 
@@ -222,7 +222,7 @@ Preparation of Fishery Management Plans and Regulations To Implement Protective 
 
 &emsp;“(1) The Secretary of Commerce shall submit to the North Pacific Council proposed conservation and management measures to implement the Alternatives contained in the November 30, 2000 Biological Opinion for the Bering Sea/Aleutian Islands and Gulf of Alaska groundfish fisheries. The North Pacific Council shall prepare and transmit to the Secretary a fishery management plan amendment or amendments to implement such Alternatives that are consistent with the Magnuson-Stevens Act (including requirements in such Act relating to best available science, bycatch reduction, impacting on fishing communities, the safety of life at sea, and public comment and hearings.)
 
-&emsp;“(2) The Bering Sea/Aleutian Islands and Gulf of Alaska groundfish fisheries shall be managed in a manner consistent with the Alternatives contained in the Biological Opinion, except as otherwise provided in this section. The Alternatives shall become fully effective no later than January 1, 2002, as revised ifnecessary and appropriate based on the independent scientific review referred to in subsection (b) and other new information, and shall be phased in in 2001 as described in paragraph (3).
+&emsp;“(2) The Bering Sea/Aleutian Islands and Gulf of Alaska groundfish fisheries shall be managed in a manner consistent with the Alternatives contained in the Biological Opinion, except as otherwise provided in this section. The Alternatives shall become fully effective no later than January 1, 2002, as revised if necessary and appropriate based on the independent scientific review referred to in subsection (b) and other new information, and shall be phased in in 2001 as described in paragraph (3).
 
 &emsp;“(3) The 2001 Bering Sea/Aleutian Islands and Gulf of Alaska groundfish fisheries shall be managed in accordance with the fishery management plan and Federal regulations in effect for such fisheries prior to July 15, 2000, including—
 
@@ -302,7 +302,7 @@ Aleutian Islands Pollock Allocation.—Effective January 1, 2004 and thereafter,
 
 “(b)
 
-Eligible Vessels.—Only vessels that are 60 feet or less in length overall and have a valid fishery endorsement, or vessels that are eligible to harvest pollock under section 208 of title II of division C of Public Law 105–277 \[set out below\], shall be eligible to form partnerships with the Aleut Corporation (or its authorized agents) to harvest the allocation under subsection (a). During the years 2004 through 2008, up to 25 percent of such allocation may be harvested by vessels 60 feet or less in length overall. During the years 2009 through 2013, up to 50 percent of such allocation may be harvested by vessels 60 feet or less in length overall. After the year 2012, 50 percent of such allocation shall be harvested by vessels 60 feet or less in length overall, and50 percent shall be harvested by vessels eligible under such section of Public Law 105–277.
+Eligible Vessels.—Only vessels that are 60 feet or less in length overall and have a valid fishery endorsement, or vessels that are eligible to harvest pollock under section 208 of title II of division C of Public Law 105–277 \[set out below\], shall be eligible to form partnerships with the Aleut Corporation (or its authorized agents) to harvest the allocation under subsection (a). During the years 2004 through 2008, up to 25 percent of such allocation may be harvested by vessels 60 feet or less in length overall. During the years 2009 through 2013, up to 50 percent of such allocation may be harvested by vessels 60 feet or less in length overall. After the year 2012, 50 percent of such allocation shall be harvested by vessels 60 feet or less in length overall, and 50 percent shall be harvested by vessels eligible under such section of Public Law 105–277.
 
 “(c)
 
@@ -318,7 +318,7 @@ Pub. L. 105–277, div. C, title II, subtitle II, Oct. 21, 1998, 112 Stat. 2681�
 
 “As used in this subtitle—
 
-&emsp;“(1) the term ‘Bering Sea and Aleutian Islands Management Area’ has the same meaning as the meaning given for such term in part 679.2 of title 50, Code of Federal Regulations, as in effect on October 1, 1998;
+&emsp;“(1) the term ‘Bering Sea and Aleutian Islands Management Area’ has the same meaning as the meaning given for such term in part 679.2 of title 50,Code of Federal Regulations, as in effect on October 1, 1998;
 
 &emsp;“(2) the term ‘catcher/processor’ means a vessel that is used for harvesting fish and processing that fish;
 
@@ -400,7 +400,7 @@ Payments.—Subject to the availability of appropriations for the cost of the di
 
 “(e)
 
-Penalty.—If the catcher/processor under paragraph (1) of section 209 is used outside of the exclusive economic zone of the United States to harvest any stock of fish that occurs within the exclusive economic zone of the United States while the owner who received the payment under subsection (d)(1)(A) has an ownership interest in such vessel, or if the catcher/processors listed in paragraphs (2) through (9) of section 209 are determined by the Secretary not to have been scrapped by December 31, 2000 or to have been used in a manner inconsistent with subsection (d)(1)(B), the Secretary may suspend any or all of the federal permits which allow any vessels owned in whole or in part by the owner or owners who received payments under subsection (d)(1) to harvest or process fish within the exclusive economic zone of the United States until such time as the obligations of such owner or owners under subsection (d)(1) have been fulfilled to the satisfaction of the Secretary.
+Penalty.—If the catcher/processor under paragraph (1) of section 209 is used outside of the exclusive economic zone of the United States to harvest any stock of fish that occurs within the exclusive economic zone of the United States while the owner who received the payment under subsection (d)(1)(A) has an ownership interest in such vessel, or if the catcher/processors listed in paragraphs (2) through (9) of section 209 are determined by the Secretary not to have been scrapped by December 31, 2000 or to have been used in a manner inconsistent with subsection (d)(1)(B), the Secretarymay suspend any or all of the federal permits which allow any vessels owned in whole or in part by the owner or owners who received payments under subsection (d)(1) to harvest or process fish within the exclusive economic zone of the United States until such time as the obligations of such owner or owners under subsection (d)(1) have been fulfilled to the satisfaction of the Secretary.
 
 “(f)
 
@@ -630,7 +630,7 @@ Limitation on fishery endorsements.—Any vessel that is replaced under this sub
 
 &emsp;“(6)
 
-Gulf of alaska limitation.—Notwithstanding paragraph (1), the Secretary shall prohibit from participation in the groundfish fisheries of the Gulf of Alaska any vessel that is rebuilt or replaced under this subsection and that exceeds the maximum length overall specified on the license that authorizes fishing for groundfish pursuant to the license limitation program under part 679 of title 50, Code of Federal Regulations, as in effect on the date of enactment of the Coast Guard Authorization Act of 2010 \[Oct. 15, 2010\].
+Gulf of alaska limitation.—Notwithstanding paragraph (1), the Secretary shall prohibit from participation in the groundfish fisheries of the Gulf of Alaska any vessel that is rebuilt or replaced under this subsection and that exceeds the maximum length overall specified on the license that authorizes fishing for groundfish pursuant to the license limitationprogram under part 679 of title 50, Code of Federal Regulations, as in effect on the date of enactment of the Coast Guard Authorization Act of 2010 \[Oct. 15, 2010\].
 
 &emsp;“(7)
 
@@ -694,7 +694,7 @@ Catcher vessel cooperatives.—Effective January 1, 2000, upon the filing of a c
 
 &emsp;&emsp;“(B) specifies, except as provided in paragraph (6), that such catcher vessels will deliver pollock in the directed pollock fishery only to such shoreside processor during the year in which the fishery cooperative will be in effect and that such shoreside processor has agreed to process such pollock,
 
-&nbsp;&nbsp;the Secretary shall allow only such catcher vessels (and catcher vessels whose owners voluntarily participate pursuant to paragraph (2)) to harvest the aggregate percentage of the directed fishing allowance under section 206(b)(1) in the year in which the fishery cooperative will be in effect that is equivalent to the aggregate total amount of pollock harvested by such catcher vessels (and by such catcher vessels whose owners voluntarily participate pursuant to paragraph (2)) in the directed pollock fishery for processing by the inshore component during 1995, 1996, and 1997 relative to the aggregate totalamount of pollock harvested in the directed pollock fishery for processing by the inshore component during such years and shall prevent such catcher vessels (and catcher vessels whose owners voluntarily participate pursuant to paragraph (2)) from harvesting in aggregate in excess of such percentage of such directed fishing allowance.
+&nbsp;&nbsp;the Secretary shall allow only such catcher vessels (and catcher vessels whose owners voluntarily participate pursuant to paragraph (2)) to harvest the aggregate percentage of the directed fishing allowance under section 206(b)(1) in the year in which the fishery cooperative will be in effect that is equivalent to the aggregate total amount of pollock harvested by such catcher vessels (and by such catcher vessels whose owners voluntarily participate pursuant to paragraph (2)) in the directed pollock fishery for processing by the inshore component during 1995, 1996, and 1997 relative to the aggregate total amount of pollock harvested in the directed pollock fishery for processing by the inshore component during such years and shall prevent such catcher vessels (and catcher vessels whose owners voluntarily participate pursuant to paragraph (2)) from harvesting in aggregate in excess of such percentage of such directed fishing allowance.
 
 &emsp;“(2)
 
@@ -710,7 +710,7 @@ Consideration of certain vessels.—Any contract implementing a fishery cooperat
 
 &emsp;“(5)
 
-Open access.—A catcher vessel eligible under section 208(a) the catch history of which has not been attributed to a fishery cooperative under paragraph (1) may be used to deliver pollock harvested by such vessel from the directed fishing allowance under section 206(b)(1) (other than pollock reserved under paragraph (1) for a fishery cooperative) to any of the shoreside processors eligible under section 208(f). A catcher vessel eligible under section 208(a) the catch history of which has been attributed to a fishery cooperative under paragraph (1) during any calendar year may not harvest any pollock apportioned under section 206(b)(1) in such calendar year other than the pollock reserved under paragraph (1) for such fishery cooperative.
+Open access.—A catcher vessel eligible under section 208(a) the catch history of which has not been attributed to a fishery cooperative under paragraph\(1) may be used to deliver pollock harvested by such vessel from the directed fishing allowance under section 206(b)(1) (other than pollock reserved under paragraph (1) for a fishery cooperative) to any of the shoreside processors eligible under section 208(f). A catcher vessel eligible under section 208(a) the catch history of which has been attributed to a fishery cooperative under paragraph (1) during any calendar year may not harvest any pollock apportioned under section 206(b)(1) in such calendar year other than the pollock reserved under paragraph (1) for such fishery cooperative.
 
 &emsp;“(6)
 
@@ -766,7 +766,7 @@ Harvesting.—No particular individual, corporation, or other entity may harvest
 
 &emsp;“(2)
 
-Processing.—Under the authority of section 301(a)(4) of the Magnuson-Stevens Act (16 U.S.C. 1851(a)(4)), the North Pacific Council is directed to recommend for approval by the Secretary conservation and management measures to prevent any particular individual or entity from processing an excessive share of the pollock available to be harvested inthe directed pollock fishery. In the event the North Pacific Council recommends and the Secretary approves an excessive processing share that is lower than 17.5 percent, any individual or entity that previously processed a percentage greater than such share shall be allowed to continue to process such percentage, except that their percentage may not exceed 17.5 percent (excluding pollock processed by catcher/processors that was harvested in the directed pollock fishery by catcher vessels eligible under 208(b)) and shall be reduced if their percentage decreases, until their percentage is below such share. In recommending the excessive processing share, the North Pacific Council shall consider the need of catcher vessels in the directed pollock fishery to have competitive buyers for the pollock harvested by such vessels.
+Processing.—Under the authority of section 301(a)(4) of the Magnuson-Stevens Act (16 U.S.C. 1851(a)(4)), the North Pacific Council is directed to recommend for approval by the Secretary conservation and management measures to prevent any particular individual or entity from processing an excessive share of the pollock available to be harvested in the directed pollock fishery. In the event the North Pacific Council recommends and the Secretary approves an excessive processing share that is lower than 17.5 percent, any individual or entity that previously processed a percentage greater than such share shall be allowed to continue to process such percentage, except that their percentage may not exceed 17.5 percent (excluding pollock processed by catcher/processors that was harvested in the directed pollock fishery by catcher vessels eligible under 208(b)) and shall be reduced if their percentage decreases, until their percentage is below such share. In recommending the excessive processing share, the North Pacific Council shall consider the need of catcher vessels in the directed pollock fishery to have competitive buyers for the pollock harvested by such vessels.
 
 &emsp;“(3)
 
@@ -774,7 +774,7 @@ Review by maritime administration.—At the request of the North Pacific Council
 
 “(f)
 
-Landing Tax Jurisdiction.—Any contract filed under subsection (a) shall include a contract clause under which the parties to the contract agree to make payments to the State of Alaska for any pollock harvested in the directed pollock fishery which is not landed in the State of Alaska, in amounts which would otherwise accrue had the pollock been landed in the State of Alaska subject to any landing taxes established under Alaska law. Failure to include such a contract clause or for such amounts to be paid shall result in a revocation of the authority to form fishery cooperatives under section 1 of the Act of June 25, 1934 (15 U.S.C. 521 et seq.).
+Landing Tax Jurisdiction.—Any contract filed under subsection (a) shall include a contract clauseunder which the parties to the contract agree to make payments to the State of Alaska for any pollock harvested in the directed pollock fishery which is not landed in the State of Alaska, in amounts which would otherwise accrue had the pollock been landed in the State of Alaska subject to any landing taxes established under Alaska law. Failure to include such a contract clause or for such amounts to be paid shall result in a revocation of the authority to form fishery cooperatives under section 1 of the Act of June 25, 1934 (15 U.S.C. 521 et seq.).
 
 “(g)
 
@@ -852,7 +852,7 @@ Required council recommendations.—By not later than July 1, 1999, the North Pa
 
 &emsp;&emsp;“(B) protect processors not eligible to participate in the directed pollock fishery from adverse effects as a result of this Act or fishery cooperatives in the directed pollock fishery.
 
-> &emsp;If the North Pacific Council does not recommend such conservation and management measures by such date, or if the Secretary determines that such conservation and management measures recommended by the North Pacific Council are not adequate to fulfill the purposes of this paragraph, the Secretary may by regulation restrict or change the authority in section 210(b) to the extent the Secretary deems appropriate, including by preventing fishery cooperatives from being formed pursuant to such section and by providing greater flexibility with respect to the shoreside processor or shoreside processors to which catcher vessels in a fishery cooperative under section 210(b) may deliver pollock.
+> &emsp;If the North Pacific Council does not recommend such conservation and management measures by such date, or if the Secretary determines that such conservation and management measures recommendedby the North Pacific Council are not adequate to fulfill the purposes of this paragraph, the Secretary may by regulation restrict or change the authority in section 210(b) to the extent the Secretary deems appropriate, including by preventing fishery cooperatives from being formed pursuant to such section and by providing greater flexibility with respect to the shoreside processor or shoreside processors to which catcher vessels in a fishery cooperative under section 210(b) may deliver pollock.
 
 &emsp;“(2)
 
@@ -892,7 +892,7 @@ General.—Except as otherwise provided in this title \[see Tables for classific
 
 “(b)
 
-Existing Authority.—Except for the measures required by this subtitle \[this note\], nothing in this subtitle shall be construed to limit the authority of theNorth Pacific Council or the Secretary under the Magnuson-Stevens Act.
+Existing Authority.—Except for the measures required by this subtitle \[this note\], nothing in this subtitle shall be construed to limit the authority of the North Pacific Council or the Secretary under the Magnuson-Stevens Act.
 
 “(c)
 
@@ -906,7 +906,7 @@ Changes to Fishery Cooperative Limitations and Pollock CDQ Allocation.—The Nor
 
 “(d)
 
-Report to Congress.—Not later than October 1, 2000, the North Pacific Council shall submit a report to the Secretary and to Congress on the implementation and effects of this Act \[title\], including the effects on fishery conservation and management, on bycatch levels, on fishing communities, on business and employment practices of participants in any fishery cooperatives, on the western Alaska community development quota program, on any fisheries outside of the authority of the North Pacific Council, and such other matters as the North Pacific Council deems appropriate.
+Report to Congress.—Not later than October 1, 2000, the North Pacific Council shall submit a report to the Secretary and to Congress on the implementation and effects of this Act \[title\], including the effects on fishery conservation and management, on bycatch levels, on fishing communities, on business and employment practices of participants in any fishery cooperatives, on the western Alaska community developmentquota program, on any fisheries outside of the authority of the North Pacific Council, and such other matters as the North Pacific Council deems appropriate.
 
 “(e)
 

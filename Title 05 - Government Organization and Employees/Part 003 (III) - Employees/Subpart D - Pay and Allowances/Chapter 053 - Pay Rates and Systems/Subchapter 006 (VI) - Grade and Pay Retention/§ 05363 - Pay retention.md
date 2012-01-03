@@ -36,7 +36,7 @@
 
 > this section shall be applied—
 
-&emsp;(i) first, by determining the rate of pay to which such employee would be entitled at the new official duty station based on such employee's position, grade, and step (or relativeposition in the pay range) before the move, and
+&emsp;(i) first, by determining the rate of pay to which such employee would be entitled at the new official duty station based on such employee's position, grade, and step (or relative position in the pay range) before the move, and
 
 &emsp;(ii) then, by applying the provisions of this section that would apply (if any), treating the rate determined under clause (i) as if it were the rate last received by the employee before the application of this section.
 
@@ -50,7 +50,7 @@
 
 &emsp;(1) has a break in service of 1 workday or more;
 
-&emsp;(2) is entitled, by operation of this subchapter, chapter 51 or 53, or any other provision of law, to a rate of basic pay which is equal to or higher than, or declines a reasonable offer of a position the rate of basic pay for which is equal to or higher than, the retained rate to which the employee would otherwise be entitled; or
+&emsp;(2) is entitled, by operation of this subchapter, chapter 51 or 53, or any other provision of law, to a rate of basic pay which isequal to or higher than, or declines a reasonable offer of a position the rate of basic pay for which is equal to or higher than, the retained rate to which the employee would otherwise be entitled; or
 
 &emsp;(3) is demoted for personal cause or at the employee's request.
 
@@ -62,7 +62,7 @@ A prior section 5363, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 473, which relat
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–411, §301(a)(5)(A), inserted concluding provisions and struck out former concluding provisions which read as follows: “is entitled to basic pay at a rate equal to (A) the employee's allowable former rate of basic pay, plus (B) 50 percent of the amount of each increase in the maximum rate of basic pay payable for the grade of the employee's position immediately after such reduction in pay if such allowable former rate exceeds such maximum rate for such grade.”
+<b>2004</b>—Subsec. (a). Pub. L. 108–411, §301(a)(5)(A), inserted concluding provisions and struck out former concluding provisions which read as follows: “is entitled to basic pay at a rate equal to (A) the employee's allowable former rate of basic pay, plus (B) 50 percent of the amount of each increase in the maximum rate of basic pay payable for the grade of the employee's position immediately after such reduction in pay if such allowable former rate exceeds such maximum rate for such grade.”
 
 Subsecs. (b) to (e). Pub. L. 108–411, §301(a)(5)(B), added subsecs. (b) to (e) and struck out former subsecs. (b) and (c) which read as follows:
 
@@ -80,9 +80,9 @@ Subsecs. (b) to (e). Pub. L. 108–411, §301(a)(5)(B), added subsecs. (b) to (e
 
 &emsp;“(3) is demoted for personal cause or at the employee's request.”
 
-1993—Subsec. (c)(2). Pub. L. 103–89 substituted “chapter 51 or 53” for “chapter 51, 53, or 54”.
+<b>1993</b>—Subsec. (c)(2). Pub. L. 103–89 substituted “chapter 51 or 53” for “chapter 51, 53, or 54”.
 
-1990—Subsec. (a)(2) to (4). Pub. L. 101–509 substituted “5305 of this title (or corresponding prior provision of this title);” for “5303 of this title; or” in par. (2), inserted “or” at end of par. (3), and added par. (4).
+<b>1990</b>—Subsec. (a)(2) to (4). Pub. L. 101–509 substituted “5305 of this title (or corresponding prior provision of this title);” for “5303 of this title; or” in par. (2), inserted “or” at end of par. (3), and added par. (4).
 
 #### Effective Date of 2004 Amendment
 

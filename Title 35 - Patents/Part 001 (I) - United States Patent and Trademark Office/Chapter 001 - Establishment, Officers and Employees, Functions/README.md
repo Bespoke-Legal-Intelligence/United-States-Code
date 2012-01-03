@@ -19,7 +19,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Amendment of Analysis
+
+<i>Pub. L. 112–29, §7(a)(2), (e), Sept. 16, 2011, 125 Stat. 313, 315, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, with certain exceptions, item 6 of this analysis is amended to read “Patent Trial and Appeal Board.” See 2011 Amendment note below.</i>
+
 #### Amendments
+
+<b>2011</b>—Pub. L. 112–29, §7(a)(2), Sept. 16, 2011, 125 Stat. 313, amended item 6 generally, substituting “Patent Trial and Appeal Board” for “Board of Patent Appeals and Interferences”.
 
 <b>2002</b>—Pub. L. 107–273, div. C, title III, §13205(2)(D), Nov. 2, 2002, 116 Stat. 1903, made technical correction to directory language of Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4507(4)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–566. See 1999 Amendment note below.
 

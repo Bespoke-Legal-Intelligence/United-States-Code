@@ -2,7 +2,7 @@
 
 #### (a) Prior approval of Board as necessary; exceptions; disposition, time extension; subsequent approval or disposition upon disapproval
 
-It shall be unlawful, except with the prior approval of the Board, (1) for any action to be taken that causes any company to become a bank holding company; (2) for any action to be taken that causes a bank to become a subsidiary of a bank holding company; (3) for any bank holding company to acquire direct or indirect ownership or control of any voting shares of any bank if, after such acquisition, such company will directly or indirectly own or control more than 5 per centum of the voting shares of such bank; (4) for any bank holding company or subsidiary thereof, other than a bank, to acquire all or substantially all of the assets of a bank; or (5) for any bank holding company to merge or consolidate with any other bank holding company. Notwithstanding the foregoing this prohibition shall not apply to (A) shares acquired by a bank, (i) in good faith in a fiduciary capacity, except where such shares are held under a trust that constitutes a company as defined in section 1841(b) of this title and except as provided in paragraphs (2) and (3) of section 1841(g) of this title, or (ii) in the regular course of securing or collecting a debt previously contracted in good faith, but any shares acquired after May 9, 1956, in securing or collecting any such previously contracted debt shall be disposed of within a period of two years from the date on which they were acquired; (B) additional shares acquired by a bank holding company in a bank in which such bank holding company owned or controlled a majority of the voting shares prior to such acquisition; or (C) the acquisition, by a company, of control of a bank in a reorganization in which a person or group of persons exchanges their shares of the bank for shares of a newly formed bank holding company and receives after the reorganization substantially the same proportional share interest in the holding company as they held in the bank except for changes in shareholders’ interests resulting from the exercise of dissenting shareholders’ rights under State or Federal law if—
+It shall be unlawful, except with the prior approval of the Board, (1) for any action to be taken that causes any company to become a bank holding company; (2) for any action to be taken that causes a bank to become a subsidiary of a bank holding company; (3) for any bank holding company to acquire direct or indirect ownership or control of any voting shares of any bank if, after such acquisition, such company will directly or indirectly own or control more than 5 per centum of the voting shares of such bank; (4) for any bank holding company or subsidiary thereof, other than a bank, to acquire all or substantially all of the assets of a bank; or (5) for any bank holding company to merge or consolidate with any other bank holding company. Notwithstanding the foregoing this prohibitionshall not apply to (A) shares acquired by a bank, (i) in good faith in a fiduciary capacity, except where such shares are held under a trust that constitutes a company as defined in section 1841(b) of this title and except as provided in paragraphs (2) and (3) of section 1841(g) of this title, or (ii) in the regular course of securing or collecting a debt previously contracted in good faith, but any shares acquired after May 9, 1956, in securing or collecting any such previously contracted debt shall be disposed of within a period of two years from the date on which they were acquired; (B) additional shares acquired by a bank holding company in a bank in which such bank holding company owned or controlled a majority of the voting shares prior to such acquisition; or (C) the acquisition, by a company, of control of a bank in a reorganization in which a person or group of persons exchanges their shares of the bank for shares of a newly formed bank holding company and receives after the reorganization substantially the same proportional share interest in the holding company as they held in the bank except for changes in shareholders’ interests resulting from the exercise of dissenting shareholders’ rights under State or Federal law if—
 
 &emsp;(i) immediately following the acquisition—
 
@@ -10,7 +10,7 @@ It shall be unlawful, except with the prior approval of the Board, (1) for any a
 
 &emsp;&emsp;(II) the bank is adequately capitalized (as defined in section 1831<i>o</i> of this title);
 
-&emsp;(ii) the holding company does not engage in any activities other than those of managingand controlling banks as a result of the reorganization;
+&emsp;(ii) the holding company does not engage in any activities other than those of managing and controlling banks as a result of the reorganization;
 
 &emsp;(iii) the company provides 30 days prior notice to the Board and the Board does not object to such transaction during such 30-day period; and
 
@@ -36,7 +36,7 @@ It shall be unlawful, except with the prior approval of the Board, (1) for any a
 
 &emsp;&emsp;(A) any acquisition or merger or consolidation under this section which would result in a monopoly, or which would be in furtherance of any combination or conspiracy to monopolize or to attempt to monopolize the business of banking in any part of the United States, or
 
-&emsp;&emsp;(B) any other proposed acquisition or merger or consolidation under this sectionwhose effect in any section of the country may be substantially to lessen competition, or to tend to create a monopoly, or which in any other manner would be in restraint or <sup>4</sup> trade, unless it finds that the anticompetitive effects of the proposed transaction are clearly outweighed in the public interest by the probable effect of the transaction in meeting the convenience and needs of the community to be served.
+&emsp;&emsp;(B) any other proposed acquisition or merger or consolidation under this section whose effect in any section of the country may be substantially to lessen competition, or to tend to create a monopoly, or which in any other manner would be in restraint or <sup>4</sup> trade, unless it finds that the anticompetitive effects of the proposed transaction are clearly outweighed in the public interest by the probable effect of the transaction in meeting the convenience and needs of the community to be served.
 
 #### (2) Banking and community factors
 
@@ -62,13 +62,17 @@ It shall be unlawful, except with the prior approval of the Board, (1) for any a
 
 &emsp;In every case, the Board shall take into consideration the effectiveness of the company or companies in combatting money laundering activities, including in overseas branches.
 
+#### (7) Financial stability
+
+&emsp;In every case, the Board shall take into consideration the extent to which a proposed acquisition, merger, or consolidation would result in greater or more concentrated risks to the stability of the United States banking or financial system.
+
 #### (d) Interstate banking
 
 #### (1) Approvals authorized
 
 #### (A) Acquisition of banks
 
-&emsp;&emsp;The Board may approve an application under this section by a bank holding company that is adequately capitalized and adequately managed to acquire control of, or acquire all or substantially all of the assets of, a bank located in a State other than the home State of such bank holding company, without regard to whether such transaction is prohibited under the law of any State.
+&emsp;&emsp;The Board may approve an application under this section by a bank holding company that is well capitalized and well managed to acquire control of, or acquire all or substantially all of the assets of, a bank located in a State other than the home State of such bank holding company, without regard to whether such transaction is prohibited under the law of any State.
 
 #### (B) Preservation of State age laws
 
@@ -168,7 +172,7 @@ Every bank that is a holding company and every bank that is a subsidiary of such
 
 &emsp;A bank holding company organized as a mutual holding company shall be regulated on terms, and shall be subject to limitations, comparable to those applicable to any other bank holding company.
 
-(May 9, 1956, ch. 240, §3, 70 Stat. 134; Pub. L. 89–485, §7, July 1, 1966, 80 Stat. 237; Pub. L. 91–607, title I, §102, Dec. 31, 1970, 84 Stat. 1763; Pub. L. 95–188, title III, §§301(a), 302, Nov. 16, 1977, 91 Stat. 1388, 1389; Pub. L. 96–221, title VII, §§712(b), (c), 713, Mar. 31, 1980, 94 Stat. 189, 190; Pub. L. 97–320, title I, §§118(c), 141(a)(4), title IV, §404(d)(2), Oct. 15, 1982, 96 Stat. 1479, 1489, 1512; Pub. L. 100–86, title I, §§101(d), 107(b), title V,§§502(h)(1), 509(a), Aug. 10, 1987, 101 Stat. 561, 579, 628, 635; Pub. L. 101–73, title VI, §602(b), Aug. 9, 1989, 103 Stat. 409; Pub. L. 102–242, title II, §§202(d), 210, Dec. 19, 1991, 105 Stat. 2290, 2298; Pub. L. 103–325, title III, §§319(a), 322(c)(1), Sept. 23, 1994, 108 Stat. 2224, 2227; Pub. L. 103–328, title I, §101(a), Sept. 29, 1994, 108 Stat. 2339; Pub. L. 106–102, title I, §§105, 118, Nov. 12, 1999, 113 Stat. 1359, 1373; Pub. L. 107–56, title III, §327(a)(1), Oct. 26, 2001, 115 Stat. 318; Pub. L. 108–386, §8(c)(2), Oct. 30, 2004, 118 Stat. 2232; Pub. L. 109–173, §9(h)(2), Feb. 15, 2006, 119 Stat. 3618.)
+(May 9, 1956, ch. 240, §3, 70 Stat. 134; Pub. L. 89–485, §7, July 1, 1966, 80 Stat. 237; Pub. L. 91–607, title I, §102, Dec. 31, 1970, 84 Stat. 1763; Pub. L. 95–188, title III, §§301(a), 302, Nov. 16, 1977, 91 Stat. 1388, 1389; Pub. L. 96–221, title VII, §§712(b), (c), 713, Mar. 31, 1980, 94 Stat. 189, 190; Pub. L. 97–320, title I, §§118(c), 141(a)(4), title IV, §404(d)(2), Oct. 15, 1982, 96 Stat. 1479, 1489, 1512; Pub. L. 100–86, title I, §§101(d), 107(b), title V, §§502(h)(1), 509(a), Aug. 10, 1987, 101 Stat. 561, 579, 628, 635; Pub. L. 101–73, title VI, §602(b), Aug. 9, 1989, 103 Stat. 409; Pub. L. 102–242, title II, §§202(d), 210, Dec. 19, 1991, 105 Stat. 2290, 2298; Pub. L. 103–325, title III, §§319(a), 322(c)(1), Sept. 23, 1994, 108 Stat. 2224, 2227; Pub. L. 103–328, title I, §101(a), Sept. 29, 1994, 108 Stat. 2339; Pub. L. 106–102, title I, §§105, 118, Nov. 12, 1999, 113 Stat. 1359, 1373; Pub. L. 107–56, title III, §327(a)(1), Oct. 26, 2001, 115 Stat. 318; Pub. L. 108–386, §8(c)(2), Oct. 30, 2004, 118 Stat. 2232; Pub. L. 109–173, §9(h)(2), Feb. 15, 2006, 119 Stat. 3618; Pub. L. 111–203, title VI, §§604(d), 607(a), July 21, 2010, 124 Stat. 1601, 1607.)
 
 #### References in Text
 
@@ -176,29 +180,33 @@ Section 1823(f)(8)(D) of this title, referred to in subsec. (b)(2), which define
 
 #### Amendments
 
-2006—Subsec. (d)(1)(D)(iii). Pub. L. 109–173 substituted “Deposit Insurance Fund” for “appropriate deposit insurance fund”.
+<b>2010</b>—Subsec. (c)(7). Pub. L. 111–203, §604(d), added par. (7).
 
-2004—Subsec. (b)(1). Pub. L. 108–386 struck out “or a District bank” after “national banking association” in first sentence.
+Subsec. (d)(1)(A). Pub. L. 111–203, §607(a), substituted “well capitalized and well managed” for “adequately capitalized and adequately managed”.
 
-2001—Subsec. (c)(6). Pub. L. 107–56 added par. (6).
+<b>2006</b>—Subsec. (d)(1)(D)(iii). Pub. L. 109–173 substituted “Deposit Insurance Fund” for “appropriate deposit insurance fund”.
 
-1999—Subsec. (f). Pub. L. 106–102, §118, amended subsec. (f) generally, substituting “(f) \[Repealed\].” for provisions relating to authorized activities of qualified savings banks which are subsidiaries of bank holding companies.
+<b>2004</b>—Subsec. (b)(1). Pub. L. 108–386 struck out “or a District bank” after “national banking association” in first sentence.
+
+<b>2001</b>—Subsec. (c)(6). Pub. L. 107–56 added par. (6).
+
+<b>1999</b>—Subsec. (f). Pub. L. 106–102, §118, amended subsec. (f) generally, substituting “(f) \[Repealed\].” for provisions relating to authorized activities of qualified savings banks which are subsidiaries of bank holding companies.
 
 Subsec. (g)(2). Pub. L. 106–102, §105, amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “A corporation organized as a holding company under this subsection shall be regulated on the same terms and be subject to the same limitations as any other holding company which controls a savings bank.”
 
-1994—Subsec. (a). Pub. L. 103–325, §319(a), substituted “(B)” for “or (B)” and added subpar. (C).
+<b>1994</b>—Subsec. (a). Pub. L. 103–325, §319(a), substituted “(B)” for “or (B)” and added subpar. (C).
 
 Subsec. (d). Pub. L. 103–328 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Notwithstanding any other provision of this section, no application (except an application filed as a result of a transaction authorized under section 1823(f) of this title) shall be approved under this section which will permit any bank holding company or any subsidiary thereof to acquire, directly or indirectly, any voting shares of, interest in, or all or substantially all of the assets of any additional bank located outside the State in which the operations of such bank holding company's banking subsidiaries were principally conducted on July 1, 1966, or the date on which such company became a bank holding company, whichever is later, unless the acquisition of such shares or assets of a State bank by an out-of-State bank holding company is specifically authorized by the statute laws of the State in which such bank is located, by language to that effect and not merely by implication. For the purposes of this section, the State in which the operations of a bank holding company's subsidiaries are principally conducted is that State in which total deposits of all such banking subsidiaries are largest.”
 
 Subsec. (e). Pub. L. 103–325, §322(c)(1), struck out after first sentence “This subsection does not apply to a bank described in the last sentence of section 1841(c) of this title.”
 
-1991—Subsec. (c). Pub. L. 102–242, §202(d), inserted heading, inserted par. (1) designation and heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, inserted par. (2) designation and heading, added par. (3), and inserted par. (4) designation and heading.
+<b>1991</b>—Subsec. (c). Pub. L. 102–242, §202(d), inserted heading, inserted par. (1) designation and heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, inserted par. (2) designation and heading, added par. (3), and inserted par. (4) designation and heading.
 
 Subsec. (c)(5). Pub. L. 102–242, §210, added par. (5).
 
-1989—Subsec. (e). Pub. L. 101–73, which directed the substitution of “an insured depository institution as defined in section 1813 of this title” for “an insured bank as defined in section 1813(h) of this title”, was executed by making the substitution for “an insured bank as such term is defined in section 1813(h) of this title”, as the probable intent of Congress.
+<b>1989</b>—Subsec. (e). Pub. L. 101–73, which directed the substitution of “an insured depository institution as defined in section 1813 of this title” for “an insured bank as defined in section 1813(h) of this title”, was executed by making the substitution for “an insured bank as such term is defined in section 1813(h) of this title”, as the probable intent of Congress.
 
-1987—Pub. L. 100–86, §509(a), repealed Pub. L. 97–320, §141. See 1982 Amendment note below.
+<b>1987</b>—Pub. L. 100–86, §509(a), repealed Pub. L. 97–320, §141. See 1982 Amendment note below.
 
 Subsec. (b). Pub. L. 100–86, §502(h)(1), designated existing provisions as par. (1) and added par. (2).
 
@@ -206,31 +214,37 @@ Subsec. (f). Pub. L. 100–86, §101(d), added subsec. (f).
 
 Subsec. (g). Pub. L. 100–86, §107(b), added subsec. (g).
 
-1982—Subsec. (d). Pub. L. 97–320, §118(c), inserted “(except an application filed as a result of a transaction authorized under section 1823(f) of this title)” after “no application”.
+<b>1982</b>—Subsec. (d). Pub. L. 97–320, §118(c), inserted “(except an application filed as a result of a transaction authorized under section 1823(f) of this title)” after “no application”.
 
 Pub. L. 97–320, §141(a)(4), which directed that, effective Oct. 13, 1986, the provisions of law amended by section 118 of Pub. L. 97–320 shall be amended to read as they would without such amendment, was repealed by Pub. L. 100–86, §509(a). See Effective and Termination Dates of 1982 Amendment note and Extension of Emergency Acquisition and Net Worth Guarantee Provisions of Pub. L. 97–320 note set out under section 1464 of this title.
 
 Subsec. (e). Pub. L. 97–320, §404(d)(2), inserted “This subsection does not apply to a bank described in the last sentence of section 1841(c) of this title.”
 
-1980—Subsec. (c). Pub. L. 96–221, §713, inserted provisions relating to applications for the formation of one-bank holding companies.
+<b>1980</b>—Subsec. (c). Pub. L. 96–221, §713, inserted provisions relating to applications for the formation of one-bank holding companies.
 
 Subsec. (d). Pub. L. 96–221, §712(b), (c), temporarily designated existing provisions as par. (1) and added par. (2). See Termination Date of 1980 Amendment note set out below.
 
-1977—Subsec. (a). Pub. L. 95–188, §301(a), authorized the Board to extend the time for disposition of acquired shares for not more than one year at a time and three years in the aggregate.
+<b>1977</b>—Subsec. (a). Pub. L. 95–188, §301(a), authorized the Board to extend the time for disposition of acquired shares for not more than one year at a time and three years in the aggregate.
 
 Subsec. (b). Pub. L. 95–188, §302, inserted provision for alternative submission of views and recommendations within ten calendar days of the date on which notice is given if the Board advises the appropriate supervisory authority that an emergency exists requiring expeditious action, substituted “shall, by order,” for “shall by order” and inserted provisions respecting procedure in emergencies or probable failures requiring immediate Board action and orders.
 
-1970—Subsec. (a). Pub. L. 91–607, §102(1), inserted provision deeming acquisition of bank shares after Dec. 31, 1970, as not being in good faith in a fiduciary capacity if acquiring bank or company has sole discretionary authority to exercise voting rights with respect thereto, and provision for subsequent approval of retention of acquired shares upon application filed within 90 days of acquisition and disposition of shares or sole discretionary voting rights within two years after order in an event of disapproval.
+<b>1970</b>—Subsec. (a). Pub. L. 91–607, §102(1), inserted provision deeming acquisition of bank shares after Dec. 31, 1970, as not being in good faith in a fiduciary capacity if acquiring bank or company has sole discretionary authority to exercise voting rights with respect thereto, and provision for subsequent approval of retention of acquired shares upon application filed within 90 days of acquisition and disposition of shares or sole discretionary voting rights within two years after order in an event of disapproval.
 
 Subsec. (b). Pub. L. 91–607, §102(2), inserted provision deeming an application for approval as granted where Board has not acted on application within 91 day period beginning on date of submission to Board of complete record on application.
 
 Subsec. (e). Pub. L. 91–607, §102(3), added subsec. (e).
 
-1966—Subsec. (a). Pub. L. 89–485, §7(a), (b), expanded the list of acts requiring prior approval of the Board by including therein any action that causes a bank to become a subsidiary of a bank holding company and substituted provisions excepting shares that are held under a trust that constitutes a company as defined in section 1841(b) of this title and excepting shares as provided in pars. (2) and (3) of section 1841(g) of this title from the effect of the clause lifting the requirements of prior Board approved in the case of shares acquired by a bank in good faith in a fiduciary capacity for provisions excepting shares held for the benefit of the shareholders of a bank from the effect of the clause.
+<b>1966</b>—Subsec. (a). Pub. L. 89–485, §7(a), (b), expanded the list of acts requiring prior approval of the Board by including therein any action that causes a bank to become a subsidiary of a bank holding company and substituted provisions excepting shares that are held under a trust that constitutes a company as defined in section 1841(b) of this title and excepting shares as provided in pars. (2) and (3) of section 1841(g) of this title from the effect of the clause lifting the requirements of prior Board approved in the case of shares acquired by a bank in good faith in a fiduciary capacity for provisions excepting shares held for the benefit of the shareholders of a bank from the effect of the clause.
 
 Subsec. (c). Pub. L. 89–485, §7(c), inserted provision prohibiting any acquisition, merger, or consolidation that would result in a monopoly or would further any combination or conspiracy to monopolize the banking business in any part of the United States or would substantially lessen competition or in any manner be in restraint of trade unless the public interest clearly outweighed the anticompetitive effects and substituted provisions requiring the Board to take into consideration the financial and managerial resources and future prospects of the company or bank concerned and the convenience and needs of the community to be served for provisions requiring the Board to take into consideration the financial history of the company or bank concerned, its prospects, the character of its management, the needs of the community, and the public interest.
 
 Subsec. (d). Pub. L. 89–485, §7(d), substituted provisions restricting expansion to state in which the operations of the bank holding company's banking subsidiaries were principally conducted, defined, as that state in which total deposits of all such banking subsidiaries were largest, on July 1, 1966, or the date on which the company became a bank holding company, whichever is later, for provisions restricting expansion to state in which the holding company maintains its principal office and place of business or in which it conducts its principal operations.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by section 604(d) of Pub. L. 111–203 effective on the transfer date, see section 604(j) of Pub. L. 111–203, set out as a note under section 1462 of this title.
+
+Amendment by section 607(a) of Pub. L. 111–203 effective on the transfer date, see section 607(c) of Pub. L. 111–203, set out as a note under section 1831u of this title.
 
 #### Effective Date of 2006 Amendment
 

@@ -162,7 +162,7 @@ The Secretary shall designate a dislocated worker office to coordinate the funct
 
 #### (iii) Outreach
 
-&emsp;&emsp;&emsp;To pay for outreach to eligible individuals to inform such individuals of available health insurance and qualified health insurance options, including outreach consisting of notice to eligible individuals of such options made available after February 17, 2009, and direct assistance to help potentially eligible individuals and such individual's qualifying family members qualify and remain eligible for the credit established under section 35 of title 26 and advance payment of such credit under section 7527 of such title.
+&emsp;&emsp;&emsp;To pay for outreach to eligible individuals to inform such individuals of available health insurance and qualified health insurance options, including outreach consisting of notice to eligible individuals of such options made available after February 17, 2009, and direct assistance to helppotentially eligible individuals and such individual's qualifying family members qualify and remain eligible for the credit established under section 35 of title 26 and advance payment of such credit under section 7527 of such title.
 
 #### (iv) Bridge funding
 
@@ -266,8 +266,6 @@ The Secretary shall designate a dislocated worker office to coordinate the funct
 
 #### (8) Continued qualification of family members after certain events
 
-&emsp;In the case of eligible coverage months beginning before February 13, 2011—
-
 #### (A) Medicare eligibility
 
 &emsp;&emsp;In the case of any month which would be an eligible coverage month with respect to an eligible individual but for paragraph (7)(B)(i), such month shall be treated as an eligible coverage month with respect to such eligible individual solely for purposes of determining the eligibility of qualifying family members of such individual under this subsection. This subparagraph shall only apply with respect to the first 24 months after such eligible individual is first entitled to the benefits described in paragraph (7)(B)(i).
@@ -310,7 +308,7 @@ The Secretary shall designate a dislocated worker office to coordinate the funct
 
 &emsp;&emsp;&emsp;(i) not later than 15 days after the date on which the Secretary receives a completed application from a State or entity, notify the State or entity of the determination of the Secretary with respect to the approval or disapproval of such application;
 
-&emsp;&emsp;&emsp;(ii) in the case of an application of a State or entity that is disapproved by the Secretary, provide technical assistance, at the request of the State or entity, in a timely manner to enable the State or entity to submit an approved application; and
+&emsp;&emsp;&emsp;(ii) in the case of an application of a State or entity that is disapproved by the Secretary, provide technical assistance, at the request of the State or entity, in atimely manner to enable the State or entity to submit an approved application; and
 
 &emsp;&emsp;&emsp;(iii) develop procedures to expedite the provision of funds to States and entities with approved applications.
 
@@ -322,19 +320,23 @@ The Secretary shall designate a dislocated worker office to coordinate the funct
 
 &emsp;For purposes of this subsection, the term “eligible individual” includes an individual who is a member of a group of workers certified after April 1, 2002, under chapter 2 of title II of the Trade Act of 1974 \[19 U.S.C. 2271 et seq.\] (as in effect on the day before the effective date of the Trade Act of 2002) and is participating in the trade adjustment allowance program under such chapter (as so in effect) or who would be determined to be participating in such program under such chapter (as so in effect) if such chapter were applied without regard to section 231(a)(3)(B) of the Trade Act of 1974 \[19 U.S.C. 2291(a)(3)(B)\] (as so in effect).
 
-(Pub. L. 105–220, title I, §173, Aug. 7, 1998, 112 Stat. 1035; Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(12)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–411, 2681–435; Pub. L. 107–210, div. A, title II, §203(a), (b), Aug. 6, 2002, 116 Stat. 963; Pub. L. 111–5, div. B, title I, §§1899E(b), 1899K(a), Feb. 17, 2009, 123 Stat. 427, 433; Pub. L. 111–344, title I, §115(b), Dec. 29, 2010, 124 Stat. 3615.)
+(Pub. L. 105–220, title I, §173, Aug. 7, 1998, 112 Stat. 1035; Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(12)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–411, 2681–435; Pub. L. 107–210, div. A, title II, §203(a), (b), Aug. 6, 2002, 116 Stat. 963; Pub. L. 111–5, div. B, title I, §§1899E(b), 1899K(a), Feb. 17, 2009, 123 Stat. 427, 433; Pub. L. 111–344, title I, §115(b), Dec. 29, 2010, 124 Stat. 3615; Pub. L. 112–40, title II, §241(b)(3)(D), Oct. 21, 2011, 125 Stat. 419.)
 
 #### References in Text
+
+This chapter, referred to in subsec. (b), was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
 
 Section 1602 of this title, referred to in subsec. (e)(2)(A)(i), (3)(A), was repealed by Pub. L. 105–220, title I, §199(b)(2), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000.
 
 Section 35(e)(2)(A) of title 26, referred to in subsec. (f)(1)(A), does not contain a cl. (v).
 
-The Social Security Act, referred to in subsec. (f)(7)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A and B of title XVIII of the Act are classified generally to parts A (§1395c et seq.) and B (§1395j et seq.), respectively, of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, ofchapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (f)(7)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A and B of title XVIII of the Act are classified generally to parts A (§1395c et seq.) and B (§1395j et seq.), respectively, of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Chapter 2 of title II of the Trade Act of 1974 (19 U.S.C. 2271 et seq.) (as in effect on the day before the effective date of the Trade Act of 2002), referred to in subsec. (g)(2), (5), is chapter 2 of title II of Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as in effect on the day before the effective date of Pub. L. 107–210. Chapter 2 of title II of Pub. L. 93–618 is classified generally to part 2 (§2271 et seq.) of subchapter II of chapter 12 of Title 19, Customs Duties. For effective date provisions applicable to certain amendments by Pub. L. 107–210 to chapter 2 of title II of Pub. L. 93–618, see Effective Date of 2002 Amendment note set out preceding section 2271 of Title 19. For complete classification of Pub. L. 93–618 to the Code, see section 2101 of Title 19 and Tables.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (f)(8). Pub. L. 112–40 struck out introductory provisions which read as follows: “In the case of eligible coverage months beginning before February 13, 2011—”.
 
 <b>2010</b>—Subsec. (f)(8). Pub. L. 111–344 substituted “February 13, 2011” for “January 1, 2011” in introductory provisions.
 
@@ -349,6 +351,10 @@ Subsecs. (f), (g). Pub. L. 107–210, §203(b), added subsecs. (f) and (g).
 <b>1998</b>—Subsec. (a)(2). Pub. L. 105–277, §101(f) \[title VIII, §401(12)\], made technical amendment to reference in original act which appears in text as reference to section 5122 of title 42.
 
 Subsec. (e). Pub. L. 105–277, §101(f) \[title VIII\], added subsec. (e).
+
+#### Effective Date of 2011 Amendment
+
+Amendment by Pub. L. 112–40 applicable to coverage months beginning after Feb. 12, 2011, see section 241(c) of Pub. L. 112–40, set out as a note under section 35 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 2010 Amendment
 

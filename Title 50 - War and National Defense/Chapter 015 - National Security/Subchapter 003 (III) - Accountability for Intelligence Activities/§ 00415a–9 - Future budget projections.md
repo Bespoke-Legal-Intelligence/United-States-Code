@@ -2,7 +2,7 @@
 
 #### (a) Future Year Intelligence Plans
 
-(1) The Director of National Intelligence, with the concurrence of the Director of the Office ofManagement and Budget, shall provide to the congressional intelligence committees a Future Year Intelligence Plan, as described in paragraph (2), for—
+(1) The Director of National Intelligence, with the concurrence of the Director of the Office of Management and Budget, shall provide to the congressional intelligence committees a Future Year Intelligence Plan, as described in paragraph (2), for—
 
 &emsp;(A) each expenditure center in the National Intelligence Program; and
 
@@ -75,6 +75,18 @@ In this section:
 Pub. L. 111–259, title III, §325(b), Oct. 7, 2010, 124 Stat. 2683, provided that: “The first Future Year Intelligence Plan and Long-term Budget Projection required to be submitted under subsection (a) and (b) of section 506G of the National Security Act of 1947 \[50 U.S.C. 415a–9(a), (b)\], as added by subsection (a), shall be submitted to the congressional intelligence committees at the time that the President submits to Congress the budget for fiscal year 2012 pursuant to section 1105 of title 31, United States Code.”
 
 \[For definition of “congressional intelligence committees” as used in section 325(b) of Pub. L. 111–259, set out above, see section 2 of Pub. L. 111–259, set out as a note under section 401a of this title.\]
+
+#### Future-Years Intelligence Program
+
+Pub. L. 112–74, div. A, title VIII, §8094, Dec. 23, 2011, 125 Stat. 828, provided that: “The Director of National Intelligence shall submit to Congress each year, at or about the time that the President's budget is submitted to Congress that year under section 1105(a) of title 31, United States Code, a future-years intelligence program (including associated annexes) reflecting the estimated expenditures and proposed appropriations included in that budget. Any such future-years intelligence program shall cover the fiscal year with respect to which the budget is submitted and at least the four succeeding fiscal years.”
+
+Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 112–10, div. A, title VIII, §8094, Apr. 15, 2011, 125 Stat. 77.
+
+Pub. L. 111–118, div. A, title VIII, §8104, Dec. 19, 2009, 123 Stat. 3451, repealed by Pub. L. 111–259, title III,§325(c)(2), Oct. 7, 2010, 124 Stat. 2683 (former 50 U.S.C. 415a–3).
+
+Pub. L. 110–329, div. C, title VIII, §8112, Sept. 30, 2008, 122 Stat. 3645 (former 50 U.S.C. 415a–3).
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by “to”.</i>
 

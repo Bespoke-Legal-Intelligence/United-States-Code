@@ -24,7 +24,7 @@ A regional investment strategy shall provide—
 
 &emsp;&emsp;(B) an identification of past, present, and projected Federal and State economic and community development investments in the region;
 
-&emsp;(3) a section describing goals and objectives necessary to solve regional competitivenesschallenges and meet the potential of the region;
+&emsp;(3) a section describing goals and objectives necessary to solve regional competitiveness challenges and meet the potential of the region;
 
 &emsp;(4) an overview of resources available in the region for use in—
 
@@ -88,7 +88,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Pub. L. 110–246, §6028, amended section generally. Prior to amendment, section related to rural strategic investment program.
+<b>2008</b>—Pub. L. 110–246, §6028, amended section generally. Prior to amendment, section related to rural strategic investment program.
 
 #### Effective Date of 2008 Amendment
 

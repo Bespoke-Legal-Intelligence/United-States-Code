@@ -24,7 +24,7 @@ The Administrator may order a facility owner or operator (except an owner or ope
 
 #### (4) Criminal penalties
 
-&emsp;Any person who knowingly and willfully fails to provide notice in accordance with section 11004 of this title shall, upon conviction, be fined not more than $25,000 or imprisoned for not more than two years, or both (or in the case of a second or subsequent conviction, shall be fined not more than $50,000 or imprisoned for not more than five years, or both).
+&emsp;Any person who knowingly and willfully fails to provide notice in accordance with section 11004 of this title shall, upon conviction, be fined not more than $25,000 or imprisoned for not more than two years, or both (or in the case of a second or subsequent conviction,shall be fined not more than $50,000 or imprisoned for not more than five years, or both).
 
 #### (c) Civil and administrative penalties for reporting requirements
 
@@ -50,7 +50,7 @@ The Administrator may order a facility owner or operator (except an owner or ope
 
 #### (2) Criminal penalty for disclosure of trade secret information
 
-&emsp;Any person who knowingly and willfully divulges or discloses any information entitled toprotection under section 11042 of this title shall, upon conviction, be subject to a fine of not more than $20,000 or to imprisonment not to exceed one year, or both.
+&emsp;Any person who knowingly and willfully divulges or discloses any information entitled to protection under section 11042 of this title shall, upon conviction, be subject to a fine of not more than $20,000 or to imprisonment not to exceed one year, or both.
 
 #### (e) Special enforcement provisions for section 11043
 

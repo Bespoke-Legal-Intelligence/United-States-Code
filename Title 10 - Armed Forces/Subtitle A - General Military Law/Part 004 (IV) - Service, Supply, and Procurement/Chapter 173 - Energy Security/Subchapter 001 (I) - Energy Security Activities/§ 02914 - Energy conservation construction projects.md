@@ -2,7 +2,7 @@
 
 (a)
 
-Projects Authorized.—The Secretary of Defense may carry out a military construction project for energy conservation, not previously authorized, using funds appropriated or otherwise made available for that purpose.
+Projects Authorized.—The Secretary of Defense may carry out a military construction project for energy conservation, not previouslyauthorized, using funds appropriated or otherwise made available for that purpose.
 
 (b)
 

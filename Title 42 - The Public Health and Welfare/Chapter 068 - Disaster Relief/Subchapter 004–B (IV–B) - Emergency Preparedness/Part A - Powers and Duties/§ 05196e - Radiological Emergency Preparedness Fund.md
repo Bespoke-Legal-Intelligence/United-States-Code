@@ -12,7 +12,7 @@ Executive Order 12657, referred to in text, is Ex. Ord. No. 12657, Nov. 18, 1988
 
 #### Codification
 
-Section was enacted as part of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1999, and not as part of the Robert T. Stafford Disaster Relief and Emergency Assistance Act which comprises this chapter.
+Section was enacted as part of the Departments of Veterans Affairs and Housing and Urban Development,and Independent Agencies Appropriations Act, 1999, and not as part of the Robert T. Stafford Disaster Relief and Emergency Assistance Act which comprises this chapter.
 
 #### Change of Name
 

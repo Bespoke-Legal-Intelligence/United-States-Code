@@ -48,11 +48,11 @@ A prior section 593 was renumbered section 583 of this title.
 
 #### Amendments
 
-1992—Pub. L. 102–354, §2(2), renumbered section 573 of this title as this section.
+<b>1992</b>—Pub. L. 102–354, §2(2), renumbered section 573 of this title as this section.
 
 Subsec. (b)(4). Pub. L. 102–354, §2(3), substituted “section 595(b)” for “section 575(b)”.
 
-1986—Subsec. (a). Pub. L. 99–470, §1(a)(1), substituted “101” for “91”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–470, §1(a)(1), substituted “101” for “91”.
 
 Subsec. (b)(6). Pub. L. 99–470, §1(a)(2), substituted “40” for “36”.
 

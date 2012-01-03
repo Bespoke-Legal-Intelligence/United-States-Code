@@ -10,7 +10,7 @@ For explanation of the revolving fund established by this section (in effect imm
 
 #### Amendments
 
-1988—Pub. L. 100–399 amended section generally. Prior to amendment, section read as follows:
+<b>1988</b>—Pub. L. 100–399 amended section generally. Prior to amendment, section read as follows:
 
 “(a)
 
@@ -22,7 +22,7 @@ Farm Credit Insurance Fund.—On the date the first premium is due and payable u
 
 Pub. L. 100–233 amended section generally. Prior to amendment, section read as follows: “The revolving fund established by Public Law 87–343, 75 Stat. 758, as amended, and the revolving fund established by Public Law 87–494, 76 Stat. 109, as amended, and continued by Public Law 96–592, shall be merged and shall be available to the Farm Credit Administration for the purchase, on behalf of the United States, of capital stock of the Capital Corporation. The Farm Credit Administration may make such purchases of stock as the Farm Credit Administration determines, in its discretion, are necessary to achieve the purposes of this chapter.”
 
-1985—Pub. L. 99–205 substituted provisions relating to revolving funds and investments for provisions respecting stock purchased by the Governor for the Farm Credit Administration, retirement, and franchise tax.
+<b>1985</b>—Pub. L. 99–205 substituted provisions relating to revolving funds and investments for provisions respecting stock purchased by the Governor for the Farm Credit Administration, retirement, and franchise tax.
 
 #### Effective Date of 1988 Amendment
 

@@ -8,17 +8,17 @@
 
 #### Historical and Revision Notes
 
-I74senate report no. 95–989
+#### senate report no. 95–989
 
 Any party in interest may object to the confirmation of a plan, as distinguished from merely rejecting a plan. An objection to confirmation is predicated on failure of the plan or the procedures employed prior to confirmation to conform with the requirements of chapter 13. The bankruptcy judge is required to provide notice and an opportunity for hearing any such objection to confirmation.
 
 #### Amendments
 
-2005—Pub. L. 109–8 designated existing provisions as subsec. (a), substituted “Except as provided in subsection (b) and after” for “After”, and added subsec. (b).
+<b>2005</b>—Pub. L. 109–8 designated existing provisions as subsec. (a), substituted “Except as provided in subsection (b) and after” for “After”, and added subsec. (b).
 
-1986—Pub. L. 99–554 struck out “the” after “object to”.
+<b>1986</b>—Pub. L. 99–554 struck out “the” after “object to”.
 
-1984—Pub. L. 98–353 struck out “the” before “confirmation of the plan”.
+<b>1984</b>—Pub. L. 98–353 struck out “the” before “confirmation of the plan”.
 
 #### Effective Date of 2005 Amendment
 

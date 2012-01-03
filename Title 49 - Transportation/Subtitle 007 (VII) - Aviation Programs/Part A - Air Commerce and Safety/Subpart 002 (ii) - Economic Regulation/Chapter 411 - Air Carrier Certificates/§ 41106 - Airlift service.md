@@ -2,7 +2,7 @@
 
 (a)
 
-Interstate Transportation.—(1) Except as provided in subsection (d) of this section, the transportation of passengers or property by transport category aircraft in interstate air transportation obtained by the Secretary of Defense or the Secretary of a military department through a contract for airlift service in the United States may be provided only by an air carrier that—
+Interstate Transportation.—(1) Except as provided in subsection (d) of this section, the transportation of passengers or property by CRAF-eligible aircraft in interstate air transportation obtained by the Secretary of Defense or the Secretary of a military department through a contract for airlift service in the United States may be provided only by an air carrier that—
 
 &emsp;(A) has aircraft in the civil reserve air fleet or offers to place the aircraft in that fleet; and
 
@@ -12,17 +12,21 @@ Interstate Transportation.—(1) Except as provided in subsection (d) of this se
 
 (b)
 
-Transportation Between the United States and Foreign Locations.—Except as provided in subsection (d), the transportation of passengers or property by transport category aircraft between a place in the United States and a place outside the United States obtained by the Secretary of Defense or the Secretary of a military department through a contract for airlift service shall be provided by an air carrier referred to in subsection (a).
+Transportation Between the United States and Foreign Locations.—Except as provided in subsection (d), the transportation of passengers or property by CRAF-eligible aircraft between a place in the United States and a place outside the United States obtained by the Secretary of Defense or the Secretary of a military department through a contract for airlift service shall be provided by an air carrier referred to in subsection (a).
 
 (c)
 
-Transportation Between Foreign Locations.—The transportation of passengers or property by transport category aircraft between two places outside the United States obtained by the Secretary of Defense or the Secretary of a military department through a contract for airlift service shall be provided by an air carrier that has aircraft in the civil reserve air fleet whenever transportation by such an air carrier is reasonably available.
+Transportation Between Foreign Locations.—The transportation of passengers or property by CRAF-eligible aircraft between two places outside the United States obtained by the Secretary of Defense or the Secretary of a military department through a contract for airlift service shall be provided by an air carrier referred to in subsection (a) whenever transportation by such an air carrier is reasonably available.
 
 (d)
 
 Exception.—When the Secretary of Defense decides that no air carrier holding a certificate under section 41102 is capable of providing, and willing to provide, the airlift service, the Secretary of Defense may make a contract to provide the service with an air carrier not having a certificate.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1121; Pub. L. 106–398, §1 \[\[div. A\], title III, §385(a), (b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–87.)
+(e)
+
+CRAF-eligible Aircraft Defined.—In this section, “CRAF-eligible aircraft” means aircraft of a type the Secretary of Defense has determined to be eligible to participate in the civil reserve air fleet.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1121; Pub. L. 106–398, §1 \[\[div. A\], title III, §385(a), (b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–87; Pub. L. 112–81, div. A, title III, §365, Dec. 31, 2011, 125 Stat. 1380.)
 
 Historical and Revision Notes
 
@@ -52,11 +56,17 @@ In subsection (b), the words “to provide the service” are added for clarity.
 
 #### Amendments
 
+<b>2011</b>—Subsecs. (a)(1), (b). Pub. L. 112–81, §365(a)(1), substituted “CRAF-eligible aircraft” for “transport category aircraft”.
+
+Subsec. (c). Pub. L. 112–81, §365(a), substituted “CRAF-eligible aircraft” for “transport category aircraft” and “referred to in subsection (a)” for “that has aircraft in the civil reserve air fleet”.
+
+Subsec. (e). Pub. L. 112–81, §365(b), added subsec. (e).
+
 <b>2000</b>—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title III, §385(a)(1), (b)\], in heading substituted “Interstate Transportation” for “General” and in introductory provisions of par. (1), substituted “Except as provided in subsection (d) of this section,” for “Except as provided in subsection (b) of this section,” and struck out “of at least 31 days” after “through a contract”.
 
 Subsecs. (b) to (d). Pub. L. 106–398, §1 \[\[div. A\], title III, §385(a)(2), (3)\], added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–398, §1 \[\[div. A\], title III, §385(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–87, provided that: “The amendments made by this section \[amending this section\] shall take effect on October 1, 2000.”
+Pub. L. 106–398, §1 \[\[div. A\], title III, §385(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–87, provided that: “Theamendments made by this section \[amending this section\] shall take effect on October 1, 2000.”
 

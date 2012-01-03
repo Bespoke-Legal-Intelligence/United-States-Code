@@ -40,7 +40,7 @@ The amount specified for purposes of subsections (a) and (b) of this section sha
 
 &emsp;(11) $1,700,000,000 for the fiscal year 2001 and each fiscal year thereafter.
 
-(Aug. 14, 1935, ch. 531, title XX, §2003, as added Pub. L. 97–35, title XXIII, §2352(a), Aug. 13, 1981, 95 Stat. 868; amended Pub. L. 97–248, title I, §160(b), Sept. 3, 1982, 96 Stat. 400; Pub. L. 98–135, title II, §204, Oct. 24, 1983, 97 Stat. 861; Pub. L. 99–514, title XVIII, §1883(e)(1), Oct. 22, 1986, 100 Stat. 2919; Pub. L. 100–203, title IX, §§9134(a), 9135(a)(2), Dec. 22, 1987, 101 Stat. 1330–315; Pub. L. 101–239, title VIII, §8016, Dec. 19, 1989, 103 Stat. 2470; Pub. L. 104–193, title IX, §908(a), Aug. 22, 1996, 110 Stat. 2350; Pub. L. 105–178, title VIII, §8401(a), June 9, 1998, 112 Stat. 498; Pub. L. 105–277, div. A, §101(f) \[title II, §214(a)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–361.)
+(Aug. 14, 1935, ch. 531, title XX, §2003, as added Pub. L. 97–35, title XXIII, §2352(a), Aug. 13, 1981,95 Stat. 868; amended Pub. L. 97–248, title I, §160(b), Sept. 3, 1982, 96 Stat. 400; Pub. L. 98–135, title II, §204, Oct. 24, 1983, 97 Stat. 861; Pub. L. 99–514, title XVIII, §1883(e)(1), Oct. 22, 1986, 100 Stat. 2919; Pub. L. 100–203, title IX, §§9134(a), 9135(a)(2), Dec. 22, 1987, 101 Stat. 1330–315; Pub. L. 101–239, title VIII, §8016, Dec. 19, 1989, 103 Stat. 2470; Pub. L. 104–193, title IX, §908(a), Aug. 22, 1996, 110 Stat. 2350; Pub. L. 105–178, title VIII, §8401(a), June 9, 1998, 112 Stat. 498; Pub. L. 105–277, div. A, §101(f) \[title II, §214(a)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–361.)
 
 #### Prior Provisions
 
@@ -120,7 +120,7 @@ Pub. L. 98–473, title IV, §401, Oct. 12, 1984, 98 Stat. 2195, provided that:
 
 &emsp;“(1) be used only for the purpose of providing training and retraining (including training in the prevention of child abuse in child care settings) to providers of licensed or registered child care services, operators and staffs (including those receiving in-service training) of facilities where licensed or registered child care services are provided, State licensing and enforcement officials, and parents;
 
-&emsp;“(2) be expended only to supplement the level of any funds that would, in the absence of the additional funds appropriated under this section, be available from other sources (including any amounts availableunder title XX of the Social Security Act \[this subchapter\] without regard to this section) for the purpose specified in paragraph (1), and shall in no case supplant such funds from other sources or reduce the level thereof; and
+&emsp;“(2) be expended only to supplement the level of any funds that would, in the absence of the additional funds appropriated under this section, be available from other sources (including any amounts available under title XX of the Social Security Act \[this subchapter\] without regard to this section) for the purpose specified in paragraph (1), and shall in no case supplant such funds from other sources or reduce the level thereof; and
 
 &emsp;“(3) be separately accounted for in the reports and audits provided for in section 2006 of the Social Security Act \[section 1397e of this title\].
 

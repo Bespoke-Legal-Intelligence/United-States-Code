@@ -6,7 +6,7 @@ Except as expressly authorized by statute of the United States, no individual or
 
 #### Amendments
 
-1989—Pub. L. 101–73 struck out subsection (a) designation before “Except as expressly”, and struck out subsecs. (b) to (f) relating to applicability of criminal provisions of title 18, and defining terms construing such applicability.
+<b>1989</b>—Pub. L. 101–73 struck out subsection (a) designation before “Except as expressly”, and struck out subsecs. (b) to (f) relating to applicability of criminal provisions of title 18, and defining terms construing such applicability.
 
-1984—Subsec. (f). Pub. L. 98–479 substituted “United States” for “United States Code” before “, except in a territorial sense”.
+<b>1984</b>—Subsec. (f). Pub. L. 98–479 substituted “United States” for “United States Code” before “, except in a territorial sense”.
 

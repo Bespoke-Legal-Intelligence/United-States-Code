@@ -54,7 +54,7 @@ Allocation of Funding.—Not less than 50 percent of the amount available for fi
 
 Employment of Program Participants.—The Secretary of Defense—
 
-&emsp;(1) may, without regard to any provision of title 5 governing appointments in the competitive service, appoint to an information technology position in the Department of Defense in the excepted service an individual who has successfully completed an academic program for which a scholarship under this section was awarded and who, under the terms of the agreement for such scholarship, at the time of such appointment owes a service commitment to the Department; and
+&emsp;(1) may, without regard to any provision of title 5 governing appointments in the competitive service, appoint to an information technology position in the Department of Defense in the excepted service an individual who has successfully completed an academic programfor which a scholarship under this section was awarded and who, under the terms of the agreement for such scholarship, at the time of such appointment owes a service commitment to the Department; and
 
 &emsp;(2) may, upon satisfactory completion of two years of substantially continuous service by an incumbent who was appointed to an excepted service position under the authority of paragraph (1), convert the appointment of such individual, without competition, to a career or career conditional appointment.
 

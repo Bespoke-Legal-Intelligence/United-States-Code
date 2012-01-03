@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-After notice and opportunity to submit comment in accordance with section 553(c) of title 5, the Board shall prescribe regulations—
+After notice and opportunity to submit comment in accordance with section 553(c) of title 5, the Board, jointly with the Director of the Bureau of Consumer Financial Protection, shall prescribe regulations—
 
 &emsp;(1) to carry out the provisions of this chapter;
 
@@ -20,7 +20,7 @@ In order to improve the check processing system, the Board shall consider (among
 
 &emsp;(3) depository institutions be provided incentives to return items promptly to the depository institution of first deposit;
 
-&emsp;(4) the Federal Reserve banks and depository institutions take such actions as are necessary to automate the process of returning unpaid checks,
+&emsp;(4) the Federal Reserve banks and depository institutions take such actions as are necessary to automate the process of returning unpaid checks;
 
 &emsp;(5) each depository institution and Federal Reserve bank—
 
@@ -82,15 +82,15 @@ In order to improve the check processing system, the Board shall consider (among
 
 #### (B) Contents of report
 
-&emsp;&emsp;Such report shall also assess the potential impact the implementation of the scheduleestablished in section 4002(b) of this title will have on depository institutions and the public, including an estimate of the risks to and losses of depository institutions and the benefits to consumers. Such report shall also contain such recommendations for legislative or administrative action as the Board may determine to be necessary.
+&emsp;&emsp;Such report shall also assess the potential impact the implementation of the schedule established in section 4002(b) of this title will have on depository institutions and the public, including an estimate of the risks to and losses of depository institutions and the benefits to consumers. Such report shall also contain such recommendations for legislative or administrative action as the Board may determine to be necessary.
 
 #### (3) Comptroller General evaluation report
 
 &emsp;Not later than 6 months after September 1, 1988, the Comptroller General of the United States shall transmit a report to the Congress evaluating the implementation and administration of this chapter.
 
-#### (e) Consultation
+#### (e) Consultations
 
-In prescribing regulations under subsections (a) and (b) of this section, the Board shall consult with the Comptroller of the Currency, the Board of Directors of the Federal Deposit Insurance Corporation, the Federal Home Loan Bank Board, and the National Credit Union Administration Board.
+In prescribing regulations under subsections (a) and (b), the Board and the Director of the Bureau of Consumer Financial Protection, in the case of subsection (a), and the Board, in the case of subsection (b), shall consult with the Comptroller of the Currency, the Board of Directors of the Federal Deposit Insurance Corporation, and the National Credit Union Administration Board.
 
 #### (f) Electronic clearinghouse study
 
@@ -110,15 +110,21 @@ In prescribing regulations under subsections (a) and (b) of this section, the Bo
 
 &emsp;The Board shall report its conclusions to the Congress within 9 months of August 10, 1987.
 
-(Pub. L. 100–86, title VI, §609, Aug. 10, 1987, 101 Stat. 647.)
+(Pub. L. 100–86, title VI, §609, Aug. 10, 1987, 101 Stat. 647; Pub. L. 111–203, title X, §1086(d), July 21, 2010, 124 Stat. 2086.)
 
 #### Codification
 
 In subsec. (d)(3), “September 1, 1988” substituted for “section 603(b) takes effect” on authority of section 613(b) of Pub. L. 100–86, set out as an Effective Date note under section 4001 of this title.
 
-#### Transfer of Functions
+#### Amendments
 
-Federal Home Loan Bank Board abolished and functions transferred, see sections 401 to 406 of Pub. L. 101–73, set out as a note under section 1437 of this title.
+<b>2010</b>—Subsec. (a). Pub. L. 111–203, §1086(d)(1), inserted “, jointly with the Director of the Bureau of Consumer Financial Protection,” after “Board” in introductory provisions.
+
+Subsec. (e). Pub. L. 111–203, §1086(d)(2), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “In prescribing regulations under subsections (a) and (b) of this section, the Board shall consult with the Comptroller of the Currency, the Board of Directors of the Federal Deposit Insurance Corporation, the Federal Home Loan Bank Board, and the National Credit Union Administration Board.”
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Exceptions in Areas Where Major Disaster Exists
 

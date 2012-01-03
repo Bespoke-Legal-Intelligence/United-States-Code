@@ -32,7 +32,7 @@ The Attorney General shall take such measures as may be necessary to—
 
 #### Amendments
 
-2002—Subsec. (a)(1). Pub. L. 107–296 substituted “1 year after November 25, 2002;” for “not later than one year after October 17, 2000;”.
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–296 substituted “1 year after November 25, 2002;” for “not later than one year after October 17, 2000;”.
 
 #### Effective Date of 2002 Amendment
 

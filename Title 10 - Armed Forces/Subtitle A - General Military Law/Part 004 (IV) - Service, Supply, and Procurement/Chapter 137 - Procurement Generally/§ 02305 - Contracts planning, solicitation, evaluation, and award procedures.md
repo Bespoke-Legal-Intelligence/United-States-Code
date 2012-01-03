@@ -74,7 +74,7 @@
 
 (4)(A) The head of an agency shall evaluate competitive proposals in accordance with paragraph (1) and may award a contract—
 
-&emsp;(i) after discussions with the offerors, provided that written or oral discussions have been conducted with all responsible offerorswho submit proposals within the competitive range; or
+&emsp;(i) after discussions with the offerors, provided that written or oral discussions have been conducted with all responsible offerors who submit proposals within the competitive range; or
 
 &emsp;(ii) based on the proposals received, without discussions with the offerors (other than discussions conducted for the purpose of minor clarification) provided that the solicitation included a statement that proposals are intended to be evaluated, and award made, without discussions, unless discussions are determined to be necessary.
 
@@ -278,7 +278,7 @@ Subsec. (a)(2)(A)(ii). Pub. L. 103–355, §1011(a)(2), substituted “and subfa
 
 Subsec. (a)(2)(B)(ii)(I). Pub. L. 103–355, §1011(a)(3), amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: “a statement that the proposals are intended to be evaluated with, and award made after, discussions with the offerors, or a statement that the proposals are intended to be evaluated, and award made, without discussions with the offerors (other than discussions conducted for the purpose of minor clarification), unless discussions are determined to be necessary; and”.
 
-Subsec. (a)(3). Pub. L. 103–355, §1011(b), added par. (3) and struck out former par. (3), which read as follows: “In prescribing the evaluation factors to be included ineach solicitation for competitive proposals, the head of an agency shall clearly establish the relative importance assigned to the evaluation factors and subfactors, including the quality of the product or services to be provided (including technical capability, management capability, and prior experience of the offeror).”
+Subsec. (a)(3). Pub. L. 103–355, §1011(b), added par. (3) and struck out former par. (3), which read as follows: “In prescribing the evaluation factors to be included in each solicitation for competitive proposals, the head of an agency shall clearly establish the relative importance assigned to the evaluation factors and subfactors, including the quality of the product or services to be provided (including technical capability, management capability, and prior experience of the offeror).”
 
 Subsec. (a)(4). Pub. L. 103–355, §1011(b), added par. (4).
 

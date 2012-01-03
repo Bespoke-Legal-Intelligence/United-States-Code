@@ -56,7 +56,7 @@ For the purposes of this chapter, unless otherwise specified:
 
 #### (11) Indian organization
 
-&emsp;The term “Indian organization” means any group, association, partnership, corporation, or other legal entity owned or controlled by a federally recognized Indian tribe or tribes, or a majority of whose members are members of federally recognized tribes.
+&emsp;The term “Indian organization” means any group, association, partnership, corporation, or other legal entity owned or controlled by a federally recognized Indian tribe or tribes, ora majority of whose members are members of federally recognized tribes.
 
 #### (12) Inherently Federal functions
 
@@ -146,7 +146,7 @@ A prior section 2022, Pub. L. 95–561, title XI, §1142, as added Pub. L. 103�
 
 Another prior section 2022 and prior sections 2022a and 2022b were omitted in the general amendment of this chapter by Pub. L. 103–382.
 
-Section 2022, Pub. L. 95–561, title XI, §1140B, formerly §1142, as added Pub. L. 98–511, title V, §512, Oct. 19, 1984,98 Stat. 2398; renumbered §1140B, and amended Pub. L. 99–89, §9(a)(1), (c), Aug. 15, 1985, 99 Stat. 383, related to extracurricular activities.
+Section 2022, Pub. L. 95–561, title XI, §1140B, formerly §1142, as added Pub. L. 98–511, title V, §512, Oct. 19, 1984, 98 Stat. 2398; renumbered §1140B, and amended Pub. L. 99–89, §9(a)(1), (c), Aug. 15, 1985, 99 Stat. 383, related to extracurricular activities.
 
 Section 2022a, Pub. L. 95–561, title XI, §1141, as added Pub. L. 100–297, title V, §5116(2), Apr. 28, 1988, 102 Stat. 381, related to early childhood development program.
 

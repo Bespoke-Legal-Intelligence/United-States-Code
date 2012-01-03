@@ -80,7 +80,7 @@ In determining whether to enter into an agreement under this section, the Presid
 
 (1) The Corporation shall make available to the President such eligible commodities as the President may request for purposes of furnishing eligible commodities under this section.
 
-(2) Notwithstanding any other provision of law, the Corporation may use funds appropriated to carry out title I of the Food for Peace Act \[7 U.S.C. 1701 et seq.\] in carrying out this section with respect to eligible commodities made available under that Act \[7 U.S.C. 1691\], and subsection (g) of this section does not apply to eligible commodities furnished on a grant basis or on credit terms under that title.
+(2) Notwithstanding any other provision of law, the Corporation may use funds appropriated to carry out title I of the Food for Peace Act \[7 U.S.C. 1701 et seq.\] in carrying out this section with respect to eligible commodities made available under that Act \[7 U.S.C. 1691\],and subsection (g) of this section does not apply to eligible commodities furnished on a grant basis or on credit terms under that title.
 
 (3) The Corporation may finance the sale and exportation of eligible commodities, made available under the Food for Peace Act \[7 U.S.C. 1691 et seq.\], which are furnished under this section. Payment for eligible commodities made available under that Act which are purchased on credit terms under this section shall be on the same basis as the terms provided in section 103 of that Act \[7 U.S.C. 1703\].
 
@@ -264,7 +264,7 @@ Section was enacted as part of the Food Security Act of 1985, and not as part of
 
 #### Amendments
 
-2008—Subsec. (b). Pub. L. 110–246, §3001(b)(1)(A), (2)(F), substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954” wherever appearing.
+<b>2008</b>—Subsec. (b). Pub. L. 110–246, §3001(b)(1)(A), (2)(F), substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954” wherever appearing.
 
 Subsec. (e)(1). Pub. L. 110–246, §3014(b)(2), struck out “determined to be available under section 401 of the Agricultural Trade Development and Assistance Act of 1954” after “such eligible commodities”.
 
@@ -278,11 +278,11 @@ Subsec. (f)(6). Pub. L. 110–246, §3105(b), added par. (6).
 
 Subsecs. (g), (k), (<i>l</i>)(1). Pub. L. 110–246, §3105(a), substituted “2012” for “2007”.
 
-2003—Subsecs. (c), (g). Pub. L. 108–7, §745(1), substituted “shall” for “may”.
+<b>2003</b>—Subsecs. (c), (g). Pub. L. 108–7, §745(1), substituted “shall” for “may”.
 
 Subsec. (<i>o</i>). Pub. L. 108–7, §745(2), added subsec. (<i>o</i>).
 
-2002—Subsecs. (b), (c). Pub. L. 107–171, §3106(b)(1), added heading and text of subsecs. (b) and (c) and struck out former subsecs. (b) and (c) which read as follows:
+<b>2002</b>—Subsecs. (b), (c). Pub. L. 107–171, §3106(b)(1), added heading and text of subsecs. (b) and (c) and struck out former subsecs. (b) and (c) which read as follows:
 
 “(b) In order to use the food resources of the United States more effectively in support of developing countries, and countries that are emerging democracies, that have made commitments to introduce or expand free enterprise elements in their agricultural economies through changes in commodity pricing, marketing, input availability, distribution, and private sector involvement, the President is authorized to enter into agreements with the governments of such countries (including the independent states of the former Soviet Union), or with private voluntary organizations, nonprofit agricultural organizations, cooperatives, intergovernmental organizations, or other private entities, to furnish commodities made available pursuant to subsections (e) and (f) of this section. Such agreements may provide for commodities to be furnished on a multiyear basis.
 
@@ -318,13 +318,13 @@ Subsec. (n). Pub. L. 107–171, §3106(m), added subsec. (n) and struck out form
 
 Subsec. (<i>o</i>). Pub. L. 107–171, §3106(b)(2)(F), struck out subsec. (<i>o</i>) which read as follows: “As used in this section, the term ‘independent states of the former Soviet Union’ means the independent states of the former Soviet Union as defined in section 5602(8) of this title.”
 
-1998—Subsec. (f)(3). Pub. L. 105–277, §101(a) \[title XI, §1125(1)\], inserted “(or, in the case of fiscal year 1999, $35,000,000)” after “$30,000,000”.
+<b>1998</b>—Subsec. (f)(3). Pub. L. 105–277, §101(a) \[title XI, §1125(1)\], inserted “(or, in the case of fiscal year 1999, $35,000,000)” after “$30,000,000”.
 
 Subsec. (<i>l</i>)(1). Pub. L. 105–277, §101(a) \[title XI, §1125(2)\], inserted “(or, in the case of fiscal year 1999, $12,000,000)” after “$10,000,000”.
 
 Subsecs. (n), (<i>o</i>). Pub. L. 105–277, §101(a) \[title XI, §1125(3), (4)\], added subsec. (n) and redesignated former subsec. (n) as (<i>o</i>).
 
-1996—Subsec. (b). Pub. L. 104–127, §227(1), struck out “(1)” before “In order to use”, inserted “intergovernmental organizations,” after “cooperatives,”, and struck out par. (2) which read as follows: “The annual tonnage limitation contained in subsection (g) of this section shall not apply with respect to commodities furnished to the independent states of the former Soviet Union during fiscal year 1993.”
+<b>1996</b>—Subsec. (b). Pub. L. 104–127, §227(1), struck out “(1)” before “In order to use”, inserted “intergovernmental organizations,” after “cooperatives,”, and struck out par. (2) which read as follows: “The annual tonnage limitation contained in subsection (g) of this section shall not apply with respect to commodities furnished to the independent states of the former Soviet Union during fiscal year 1993.”
 
 Subsec. (e)(3). Pub. L. 104–127, §265(b), substituted “section 103” for “section 106”.
 
@@ -340,21 +340,21 @@ Subsec. (j). Pub. L. 104–127, §227(5), substituted “may” for “shall”.
 
 Subsec. (k). Pub. L. 104–127, §227(6), substituted “2002” for “1995”.
 
-Subsec. (<i>l</i>)(1). Pub. L. 104–127, §227(7), substituted “1996 through 2002” for “1991 through 1995” and inserted“, and to provide technical assistance for monetization programs,” after “monitoring of food assistance programs”.
+Subsec. (<i>l</i>)(1). Pub. L. 104–127, §227(7), substituted “1996 through 2002” for “1991 through 1995” and inserted “, and to provide technical assistance for monetization programs,” after “monitoring of food assistance programs”.
 
 Subsec. (m). Pub. L. 104–127, §227(8), in introductory provisions, struck out “with respect to the independent states of the former Soviet Union” after “this section” and substituted “agricultural trade organizations, intergovernmental organizations, private voluntary organizations, and cooperatives” for “private voluntary organizations and cooperatives”, and in par. (2), struck out “in the independent states” after “the use” and substituted “agricultural trade organizations, intergovernmental organizations, private voluntary organizations, and cooperatives” for “private voluntary organizations and cooperatives”.
 
-1992—Subsec. (b). Pub. L. 102–511, §701(1), designated existing provisions as par. (1), inserted “(including the independent states of the former Soviet Union)” after “such countries”, substituted “cooperatives, or other private entities” for “or cooperatives”, and added par. (2).
+<b>1992</b>—Subsec. (b). Pub. L. 102–511, §701(1), designated existing provisions as par. (1), inserted “(including the independent states of the former Soviet Union)” after “such countries”, substituted “cooperatives, or other private entities” for “or cooperatives”, and added par. (2).
 
 Subsec. (f)(1). Pub. L. 102–511, §701(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Commodities made available under section 1431(b) of this title for use in carrying out this section shall be provided on a grant basis.”
 
 Subsecs. (m) and (n). Pub. L. 102–511, §701(3), added subsecs. (m) and (n).
 
-1991—Subsec. (k). Pub. L. 102–237, §335(1), (3), redesignated subsec. (<i>l</i>) as (k) and struck out “September 30,” before “December 31”.
+<b>1991</b>—Subsec. (k). Pub. L. 102–237, §335(1), (3), redesignated subsec. (<i>l</i>) as (k) and struck out “September 30,” before “December 31”.
 
 Subsecs. (<i>l</i>), (m). Pub. L. 102–237, §335(2), (3), redesignated subsec. (m) as (<i>l</i>) and substituted “this section” for “this Act” wherever appearing.
 
-1990—Subsec. (b). Pub. L. 101–624, §1516(1), substituted “developing countries, and countries that are emerging democracies, that” for “countries that”, and “the governments of such countries, or with private voluntary organizations, nonprofit agricultural organizations, or cooperatives,” for “developing countries”.
+<b>1990</b>—Subsec. (b). Pub. L. 101–624, §1516(1), substituted “developing countries, and countries that are emerging democracies, that” for “countries that”, and “the governments of such countries, or with private voluntary organizations, nonprofit agricultural organizations, or cooperatives,” for “developing countries”.
 
 Subsec. (d). Pub. L. 101–624, §1516(2), struck out “with countries” before “under this section” in introductory provisions.
 
@@ -378,7 +378,7 @@ Subsec. (<i>l</i>). Pub. L. 101–624, §1516(9), substituted “December 31, 19
 
 Subsec. (m). Pub. L. 101–624, §1516(10), added subsec. (m).
 
-1988—Subsecs. (k), (<i>l</i>). Pub. L. 100–418 added subsec. (k) and redesignated former subsec. (k) as (<i>l</i>).
+<b>1988</b>—Subsecs. (k), (<i>l</i>). Pub. L. 100–418 added subsec. (k) and redesignated former subsec. (k) as (<i>l</i>).
 
 #### Change of Name
 

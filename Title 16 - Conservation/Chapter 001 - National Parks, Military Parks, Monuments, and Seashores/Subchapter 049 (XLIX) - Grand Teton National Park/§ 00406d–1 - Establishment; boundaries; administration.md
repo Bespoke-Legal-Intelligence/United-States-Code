@@ -138,7 +138,7 @@ Pub. L. 108–32, June 17, 2003, 117 Stat. 779, provided that:
 
 &emsp;“(3) exchange of Federal lands in the State of Wyoming that are identified for disposal under approved land use plans in effect on the date of enactment of this Act \[June 17, 2003\] under section 202 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1712) that are of equal value to the State lands acquired in the exchange.
 
-“(b) In the event that the Secretary or the Governor determines that the Federal lands eligible for exchange under subsection (a)(3) are not sufficient or acceptable for the acquisition of all the State lands identified in section 2(4), the Secretary shall identify other Federal lands or interests therein in the State of Wyoming for possible exchange and shall identify such lands or interests together with their estimated value in a report to the Committee on Energy and Natural Resources of the United States Senate and the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives. Such lands or interests shall not be available for exchange unless authorized by an Act of Congress enacted after the date of submission of the report.
+“(b) In the event that the Secretary or the Governor determines that the Federal lands eligible for exchange under subsection (a)(3) are not sufficient or acceptable for the acquisition of all the State lands identified insection 2(4), the Secretary shall identify other Federal lands or interests therein in the State of Wyoming for possible exchange and shall identify such lands or interests together with their estimated value in a report to the Committee on Energy and Natural Resources of the United States Senate and the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives. Such lands or interests shall not be available for exchange unless authorized by an Act of Congress enacted after the date of submission of the report.
 
 #### “SEC. 4. VALUATION OF STATE AND FEDERAL INTERESTS.
 
@@ -148,7 +148,7 @@ Agreement on Appraiser.—If the Secretary and the Governor are unable to agree 
 
 “(b)
 
-No Agreement on Appraiser.—If the Secretary and the Governor are unable to agree on the selection of a qualified appraiser under subsection (a), then theSecretary and the Governor shall each designate a qualified appraiser. The two designated appraisers shall select a qualified third appraiser to conduct the appraisal with the advice and assistance of the two designated appraisers. The purchase or exchange under section 3(a) shall be conducted based on the values determined by the appraisal.
+No Agreement on Appraiser.—If the Secretary and the Governor are unable to agree on the selection of a qualified appraiser under subsection (a), then the Secretary and the Governor shall each designate a qualified appraiser. The two designated appraisers shall select a qualified third appraiser to conduct the appraisal with the advice and assistance of the two designated appraisers. The purchase or exchange under section 3(a) shall be conducted based on the values determined by the appraisal.
 
 “(c)
 

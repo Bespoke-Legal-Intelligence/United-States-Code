@@ -46,11 +46,11 @@ For purposes of this section, the term “applicable self-insured health plan”
 
 &emsp;&emsp;(E) by any organization described in section 501(c)(6), or
 
-&emsp;&emsp;(F) in the case of a plan not described in the preceding subparagraphs, by a multiple employer welfare arrangement (as defined in section 3(40) of Employee Retirement Income Security Act of 1974), a rural electric cooperative (as defined in section 3(40)(B)(iv) of such Act), or a rural telephone cooperative association (as defined in section 3(40)(B)(v) of such Act).
+&emsp;&emsp;(F) in the case of a plan not described in the preceding subparagraphs, by a multipleemployer welfare arrangement (as defined in section 3(40) of Employee Retirement Income Security Act of 1974), a rural electric cooperative (as defined in section 3(40)(B)(iv) of such Act), or a rural telephone cooperative association (as defined in section 3(40)(B)(v) of such Act).
 
 #### (d) Adjustments for increases in health care spending
 
-In the case of any plan year ending in any fiscal year beginning after September 30, 2014, thedollar amount in effect under subsection (a) for such plan year shall be equal to the sum of such dollar amount for plan years ending in the previous fiscal year (determined after the application of this subsection), plus an amount equal to the product of—
+In the case of any plan year ending in any fiscal year beginning after September 30, 2014, the dollar amount in effect under subsection (a) for such plan year shall be equal to the sum of such dollar amount for plan years ending in the previous fiscal year (determined after the application of this subsection), plus an amount equal to the product of—
 
 &emsp;(1) such dollar amount for plan years ending in the previous fiscal year, multiplied by
 

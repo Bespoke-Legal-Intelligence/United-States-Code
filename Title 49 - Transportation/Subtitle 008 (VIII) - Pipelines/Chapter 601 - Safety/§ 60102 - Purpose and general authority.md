@@ -12,7 +12,7 @@ Purpose.—The purpose of this chapter is to provide adequate protection against
 
 Minimum safety standards.—The Secretary shall prescribe minimum safety standards for pipeline transportation and for pipeline facilities. The standards—
 
-&emsp;&emsp;(A) apply to owners and operators of pipeline facilities;
+&emsp;&emsp;(A) apply to any or all of the owners or operators of pipeline facilities;
 
 &emsp;&emsp;(B) may apply to the design, installation, inspection, emergency plans and procedures, testing, construction, extension, operation, replacement, and maintenance of pipeline facilities; and
 
@@ -40,7 +40,7 @@ In general.—A standard prescribed under subsection (a) shall be—
 
 &emsp;(2)
 
-Factors for consideration.—When prescribing any standard under this section orsection 60101(b), 60103, 60108, 60109, 60110, or 60113, the Secretary shall consider—
+Factors for consideration.—When prescribing any standard under this section or section 60101(b), 60103, 60108, 60109, 60110, or 60113, the Secretary shall consider—
 
 &emsp;&emsp;(A) relevant available—
 
@@ -190,7 +190,7 @@ Pipe Inventory Standards.—The Secretary shall prescribe minimum standards requ
 
 &emsp;(1) for a gas pipeline facility, shall include an identification of each facility passing through an area described in regulations prescribed under section 60109 of this title but shall exclude equipment used with the compression of gas; and
 
-&emsp;(2) for a hazardous liquid pipeline facility, shall include an identification of each facility and gathering line passing through an area described in regulations prescribed under section 60109 of this title, whether the facility or gathering line otherwise is subject to this chapter, but shall exclude equipment associated only with the pipeline pumps or storage facilities.
+&emsp;(2) for a hazardous liquid pipeline facility, shall include an identification of each facility and gathering line passing through an area described in regulations prescribed under section 60109 of this title, whether the facility or gathering line otherwise is subject to this chapter,but shall exclude equipment associated only with the pipeline pumps or storage facilities.
 
 (f)
 
@@ -224,19 +224,33 @@ Safety Condition Reports.—(1) The Secretary shall prescribe regulations requir
 
 (i)
 
-Carbon Dioxide Regulation.—The Secretary shall regulate carbon dioxide transported by a hazardous liquid pipeline facility. The Secretary shall prescribe standards related to hazardous liquid to ensure the safe transportation of carbon dioxide by such a facility.
+Carbon Dioxide Regulation.—
+
+&emsp;(1)
+
+Transportation in liquid state.—The Secretary shall regulate carbon dioxide transported by a hazardous liquid pipeline facility. The Secretary shall prescribe standards related to hazardous liquid to ensure the safe transportation of carbon dioxide by such a facility.
+
+&emsp;(2)
+
+Transportation in gaseous state.—
+
+&emsp;&emsp;(A)
+
+Minimum safety standards.—The Secretary shall prescribe minimum safety standards for the transportation of carbon dioxide by pipeline in a gaseous state.
+
+&emsp;&emsp;(B)
+
+Considerations.—In establishing the standards, the Secretary shall consider whether applying the minimum safety standards in part 195 of title 49, Code of Federal Regulations, as in effect on the date of enactment of this paragraph, for the transportation of carbon dioxide in a liquid state to the transportation of carbon dioxide in a gaseous state would ensure safety.
+
+&emsp;(3)
+
+Limitation on statutory construction.—Nothing in this subsection authorizes the Secretary to regulate piping or equipment used in the production, extraction, recovery, lifting, stabilization, separation, or treatment of carbon dioxide or the preparation of carbon dioxide for transportation by pipeline at production, refining, or manufacturing facilities.
 
 (j)
 
 Emergency Flow Restricting Devices.—(1) Not later than October 24, 1994, the Secretary shall survey and assess the effectiveness of emergency flow restricting devices (including remotely controlled valves and check valves) and other procedures, systems, and equipment used to detect and locate hazardous liquid pipeline ruptures and minimize product releases from hazardous liquid pipeline facilities.
 
 (2) Not later than 2 years after the survey and assessment are completed, the Secretary shall prescribe standards on the circumstances under which an operator of a hazardous liquid pipeline facility must use an emergency flow restricting device or other procedure, system, or equipment described in paragraph (1) of this subsection on the facility.
-
-(3)
-
-Remotely controlled valves.—(A) Not later than June 1, 1998, the Secretary shall survey and assess the effectiveness of remotely controlled valves to shut off the flow of natural gas in the event of a rupture of an interstate natural gas pipeline facility and shall make a determination about whether the use of remotely controlled valves is technically and economically feasible and would reduce risks associated with a rupture of an interstate natural gas pipeline facility.
-
-(B) Not later than one year after the survey and assessment are completed, if the Secretary has determined that the use of remotely controlled valves is technically and economically feasible and would reduce risks associated with a rupture of an interstate natural gas pipeline facility, the Secretary shall prescribe standards under which an operator of an interstate natural gas pipeline facility must use a remotely controlled valve. These standards shall include, but not be limited to, requirements for high-density population areas.
 
 (k)
 
@@ -256,7 +270,7 @@ Limited exceptions.—The Secretary shall provide or continue in force exception
 
 &emsp;&emsp;(A) are subject to safety regulations of the United States Coast Guard; or
 
-&emsp;&emsp;(B) serve refining, manufacturing, or truck, rail, or vessel terminal facilities if the pipeline is less than 1 mile long (measured outside the facility grounds) and does not cross an offshore area or a waterway currently used for commercial navigation,
+&emsp;&emsp;(B) serve refining, manufacturing, or truck, rail, or vessel terminal facilities if the pipeline is less than 1 mile long (measured outside the facility grounds) and doesnot cross an offshore area or a waterway currently used for commercial navigation,
 
 > &emsp;until regulations issued under paragraph (1) become effective. After such regulations become effective, the Secretary may retain or remove those exceptions as appropriate.
 
@@ -266,7 +280,7 @@ Relationship to other laws.—Nothing in this subsection shall be construed to p
 
 &emsp;(5)
 
-Definition.—For purposes of this subsection, the term “low-stress hazardous liquidpipeline” means a hazardous liquid pipeline that is operated in its entirety at a stress level of 20 percent or less of the specified minimum yield strength of the line pipe.
+Definition.—For purposes of this subsection, the term “low-stress hazardous liquid pipeline” means a hazardous liquid pipeline that is operated in its entirety at a stress level of 20 percent or less of the specified minimum yield strength of the line pipe.
 
 &emsp;(6)
 
@@ -280,7 +294,51 @@ Updating Standards.—The Secretary shall, to the extent appropriate and practic
 
 Inspections by Direct Assessment.—Not later than 1 year after the date of the enactment of this subsection, the Secretary shall issue regulations prescribing standards for inspection of a pipeline facility by direct assessment.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1304; Pub. L. 104–304, §§4, 20(g), Oct. 12, 1996, 110 Stat. 3794, 3805; Pub. L. 107–355, §§20(a)(1), (2)(A), 23, Dec. 17, 2002, 116 Stat. 3009, 3011; Pub. L. 109–468, §4, Dec. 29, 2006, 120 Stat. 3490.)
+(n)
+
+Automatic and Remote-Controlled Shut-off Valves for New Transmission Pipelines.—
+
+&emsp;(1)
+
+In general.—Not later than 2 years after the date of enactment of this subsection, and after considering the factors specified in subsection (b)(2), the Secretary, if appropriate, shall require by regulation the use of automatic or remote-controlled shut-off valves, or equivalent technology, where economically, technically, and operationally feasible on transmission pipeline facilities constructed or entirely replaced after the date on which the Secretary issues the final rule containing such requirement.
+
+&emsp;(2)
+
+High-consequence area study.—
+
+&emsp;&emsp;(A)
+
+Study.—The Comptroller General of the United States shall conduct a study on the ability of transmission pipeline facility operators to respond to a hazardous liquid or gas release from a pipeline segment located in a high-consequence area.
+
+&emsp;&emsp;(B)
+
+Considerations.—In conducting the study, the Comptroller General shall consider the swiftness of leak detection and pipeline shutdown capabilities, the location of the nearest response personnel, and the costs, risks, and benefits of installing automatic and remote-controlled shut-off valves.
+
+&emsp;&emsp;(C)
+
+Report.—Not later than 1 year after the date of enactment of this subsection, the Comptroller General shall submit to the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the results of the study.
+
+(<i>o</i>)
+
+Transportation-Related Oil Flow Lines.—
+
+&emsp;(1)
+
+Data collection.—The Secretary may collect geospatial or technical data on transportation-related oil flow lines, including unregulated transportation-related oil flow lines.
+
+&emsp;(2)
+
+Transportation-related oil flow line defined.—In this subsection, the term “transportation-related oil flow line” means a pipeline transporting oil off of the grounds of the well where it originated and across areas not owned by the producer, regardless of the extent to which the oil has been processed, if at all.
+
+&emsp;(3)
+
+Limitation.—Nothing in this subsection authorizes the Secretary to prescribe standards for the movement of oil through production, refining, or manufacturing facilities or through oil production flow lines located on the grounds of wells.
+
+(p)
+
+Limitation on Incorporation of Documents by Reference.—Beginning 1 year after the date of enactment of this subsection, the Secretary may not issue guidance or a regulation pursuant to this chapter that incorporates by reference any documents or portions thereof unless the documents or portions thereof are made available to the public, free of charge, on an Internet Web site.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1304; Pub. L. 104–304, §§4, 20(g), Oct. 12, 1996, 110 Stat. 3794, 3805; Pub. L. 107–355, §§20(a)(1), (2)(A), 23, Dec. 17, 2002, 116 Stat. 3009, 3011; Pub. L. 109–468, §4, Dec. 29, 2006, 120 Stat. 3490; Pub. L. 112–90, §§4, 12, 15, 18(b), 24, Jan. 3, 2012, 125 Stat. 1906, 1913, 1915, 1916, 1919.)
 
 Historical and Revision Notes
 
@@ -446,7 +504,7 @@ In subsection (a)(1), before clause (A), the word “prescribe” is substituted
 
 In subsection (b), before clause (1), the words “Except as provided in section 60103 of this title” are added for clarity. In clause (3), the word “proposed” is omitted as surplus.
 
-In subsection (c)(1), before clause (A), the words “Not later than 12 months after November 30, 1979” are omitted as executed. The word “gas” is added because of therestatement. In clause (B), the word “specific” is omitted as surplus. In clause (C), the words “will protect” are substituted for “is being carried out in a manner . . . to assure protection” to eliminate unnecessary words.
+In subsection (c)(1), before clause (A), the words “Not later than 12 months after November 30, 1979” are omitted as executed. The word “gas” is added because of the restatement. In clause (B), the word “specific” is omitted as surplus. In clause (C), the words “will protect” are substituted for “is being carried out in a manner . . . to assure protection” to eliminate unnecessary words.
 
 In subsection (c)(2) and (3), the words “to the public with respect to that operator's pipeline facilities which are” are omitted as surplus.
 
@@ -474,9 +532,27 @@ In subsection (k), the words “In exercising any discretion under this chapter�
 
 The date of enactment of the Accountable Pipeline Safety and Accountability Act of 1996, referred to in subsec. (c)(4)(A), probably means the date of enactment of the Accountable Pipeline Safety and Partnership Act of 1996, Pub. L. 104–304, which amended this section and was approved Oct. 12, 1996.
 
+The date of enactment of this paragraph, referred to in subsec. (i)(2)(B), and the date of enactment of this subsection, referred to in subsecs. (n) and (p), are the date of enactment of Pub. L. 112–90, which was approved Jan. 3, 2012.
+
 The date of the enactment of this subsection, referred to in subsec. (m), is the date of enactment of Pub. L. 107–355, which was approved Dec. 17, 2002.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a)(2)(A). Pub. L. 112–90, §18(b), substituted “any or all of the owners or operators” for “owners and operators”.
+
+Subsec. (i). Pub. L. 112–90, §15, designated existing provisions as par. (1), inserted heading, and added pars. (2) and (3).
+
+Subsec. (j)(3). Pub. L. 112–90, §4(1), struck out par. (3). Text read as follows:
+
+“(A) Not later than June 1, 1998, the Secretary shall survey and assess the effectiveness of remotely controlled valves to shut off the flow of natural gas in the event of a rupture of an interstate natural gas pipeline facility and shall make a determination about whether the use of remotely controlled valves is technically and economically feasible and would reduce risks associated with a rupture of an interstate natural gas pipeline facility.
+
+“(B) Not later than one year after the survey and assessment are completed, if the Secretary has determined that the use of remotely controlled valves is technically and economically feasible and would reduce risks associated with a rupture of an interstate natural gas pipeline facility, the Secretary shall prescribe standards under which an operator of an interstate natural gas pipeline facility must use a remotely controlled valve. These standards shall include, but not be limited to, requirements for high-density population areas.”
+
+Subsec. (n). Pub. L. 112–90, §4(2), added subsec. (n).
+
+Subsec. (<i>o</i>). Pub. L. 112–90, §12, added subsec. (<i>o</i>).
+
+Subsec. (p). Pub. L. 112–90, §24, added subsec. (p).
 
 <b>2006</b>—Subsec. (k). Pub. L. 109–468 amended heading and text of subsec. (k) generally. Prior to amendment, text read as follows: “The Secretary may not provide an exception to this chapter for a hazardous liquid pipeline facility only because the facility operates at low internal stress.”
 
@@ -520,7 +596,7 @@ Pub. L. 104–304, §4(d)(1), in introductory provisions, directed striking out 
 
 Subsec. (f)(1). Pub. L. 104–304, §4(e)(1), added heading and text of par. (1) and struck out former par. (1) which read as follows: “The Secretary shall prescribe minimum safety standards requiring that the design and construction of a new gas pipeline transmission facility or hazardous liquid pipeline facility, and the required replacement of an existing gas pipeline transmission facility, hazardous liquid pipeline facility, or equipment, be carried out, to the extent practicable, in a way that accommodates the passage through the facility of an instrumented internal inspection device (commonly referred to as a ‘smart pig’). The Secretary may apply the standard to an existing gas or hazardous liquid transmission facility and require the facility to be changed to allow the facility to be inspected with an instrumented internal inspection device if the basic construction of the facility will accommodate the device.”
 
-Subsec. (f)(2). Pub. L. 104–304, §§4(e)(2), 20(g), inserted heading, realigned margins, inserted “, if necessary,additional” after “the Secretary shall prescribe”, and substituted “standards” for “regulations” in two places.
+Subsec. (f)(2). Pub. L. 104–304, §§4(e)(2), 20(g), inserted heading, realigned margins, inserted “, if necessary, additional” after “the Secretary shall prescribe”, and substituted “standards” for “regulations” in two places.
 
 Subsecs. (i), (j)(2). Pub. L. 104–304, §20(g), substituted “standards” for “regulations”.
 

@@ -44,7 +44,7 @@
 
 &emsp;&emsp;&emsp;(iii) improving the transitions of children with disabilities at natural transition points;
 
-&emsp;&emsp;&emsp;(iv) placing and serving children with disabilities, including minority children,in the least restrictive environment appropriate;
+&emsp;&emsp;&emsp;(iv) placing and serving children with disabilities, including minority children, in the least restrictive environment appropriate;
 
 &emsp;&emsp;&emsp;(v) preventing children with disabilities, especially children with emotional disturbances and specific learning disabilities, from dropping out of school;
 
@@ -132,5 +132,5 @@ The Secretary shall study, and report to Congress regarding, the extent to which
 
 #### References in Text
 
-The Education Sciences Reform Act of 2002, referred to in subsec. (d)(1), is title I of Pub. L. 107–279, Nov. 5,2002, 116 Stat. 1941, as amended. Part E of the Act is classified generally to part E (§9567 et seq.) of subchapter I of chapter 76 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9501 of this title and Tables.
+The Education Sciences Reform Act of 2002, referred to in subsec. (d)(1), is title I of Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1941, as amended. Part E of the Act is classified generally to part E (§9567 et seq.) of subchapter I of chapter 76 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9501 of this title and Tables.
 

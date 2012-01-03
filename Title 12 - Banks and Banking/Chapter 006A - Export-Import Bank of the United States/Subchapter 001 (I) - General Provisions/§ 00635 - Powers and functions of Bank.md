@@ -302,7 +302,7 @@ determinations to congress.—Any determination by the President under clause (i
 
 (iii) Not later than September 1 of each fiscal year, the Comptroller General of the United States, in consultation with the Bank, shall submit to the Committees on Financial Services and on Appropriations of the House of Representatives and the Committees on Banking, Housing, and Urban Affairs and on Appropriations of the Senate a report on the end uses of any defense articles or services described in clause (i) with respect to which the Bank provided support during the second preceding fiscal year.
 
-(7) In no event shall the Bank have outstanding at any time in excess of 71/2 per centum of the limitation imposed by section 635e of this title for such guarantees, insurance, credits or participation in credits with respect to exports of defense articles and services to countries which, in the judgment of the Board of Directors of the Bank, are less developed.
+(7) In no event shall the Bank have outstanding at any time in excess of 7½ per centum of the limitation imposed by section 635e of this title for such guarantees, insurance, credits or participation in credits with respect to exports of defense articles and services to countries which, in the judgment of the Board of Directors of the Bank, are less developed.
 
 (8) The Bank shall supplement but not compete with private capital and the programs of the Commodity Credit Corporation to ensure that adequate financing will be made available to assist the export of agricultural commodities, except that, consistent with paragraph (1)(A) of this subsection, the Bank in assisting any such export transactions shall, in cooperation with the export financing instrumentalities of other governments, seek to minimize competition in Government-supported export financing, and shall, in cooperation with other appropriate United States Government agencies, seek to reach international agreements to reduce Government subsidized export financing. In order to carry out the purposes of this subsection, the Bank shall consult with the Secretary of Agriculture and where the Secretary of Agriculture has recommended against Bank financing of the export of a particular agricultural commodity, shall take such recommendation into consideration in determining whether to provide credit or other assistance for any export sale of such commodity, and shall consider the importance of agricultural commodity exports to the United States export market and the nation's balance of trade in deciding whether or not to provide assistance under this subsection.
 
@@ -618,7 +618,7 @@ Section 1(c) of Pub. L. 90–267 added pars. (2) to (5) of subsec. (b) and anoth
 
 #### Amendments
 
-2006—Subsec. (b)(1)(A). Pub. L. 109–438, §13(b), (c), inserted “, including countries the governments of which are not members of the Arrangement (as defined in section 635i–3(h)(3) of this title)” after “United States exporters” in second sentence and struck out fourth to twelfth sentences which related to compliance reporting requirements.
+<b>2006</b>—Subsec. (b)(1)(A). Pub. L. 109–438, §13(b), (c), inserted “, including countries the governments of which are not members of the Arrangement (as defined in section 635i–3(h)(3) of this title)” after “United States exporters” in second sentence and struck out fourth to twelfth sentences which related to compliance reporting requirements.
 
 Subsec. (b)(1)(E)(v). Pub. L. 109–438, §14(b), inserted at end “From the amount made available under the preceding sentence, it shall be a goal of the Bank to increase the amount made available to finance exports directly by small business concerns referred to in section 635a(i)(1) of this title.”
 
@@ -640,7 +640,7 @@ Subsec. (e)(5) to (7). Pub. L. 109–438, §§5, 7(3), 8(a), added pars. (5) to 
 
 Subsecs. (g), (h). Pub. L. 109–438, §12, added subsecs. (g) and (h).
 
-2002—Subsec. (a)(1). Pub. L. 107–189, §2, substituted “The objects and purposes of the Bank shall be to aid in financing and to facilitate exports of goods and services, imports, and the exchange of commodities and services between the United States or any of its territories or insular possessions and any foreign country or the agencies or nationals of any such country, and in so doing to contribute to the employment of United States workers. The Bank's objective in authorizing loans, guarantees, insurance, and credits shall be to contribute to maintaining or increasing employment of United States workers.” for “The objects and purposes of the bank shall be to aid in financing and to facilitate exports and imports and the exchange of commodities and services between the United States or any of its Territories or insular possessions and any foreign country or the agencies or nationals thereof.”
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–189, §2, substituted “The objects and purposes of the Bank shall be to aid in financing and to facilitate exports of goods and services, imports, and the exchange of commodities and services between the United States or any of its territories or insular possessions and any foreign country or the agencies or nationals of any such country, and in so doing to contribute to the employment of United States workers. The Bank's objective in authorizing loans, guarantees, insurance, and credits shall be to contribute to maintaining or increasing employment of United States workers.” for “The objects and purposes of the bank shall be to aid in financing and to facilitate exports and imports and the exchange of commodities and services between the United States or any of its Territories or insular possessions and any foreign country or the agencies or nationals thereof.”
 
 Subsec. (b)(1)(A). Pub. L. 107–189, §§11, 13(b), substituted “not later than June 30 of each year” for “on an annual basis” in fourth sentence, inserted “(including through use of market windows)” after “which foreign exporters compete with the United States exporters” in fifth sentence, inserted “With respect to the preceding sentence, the Bank shall use all available information to estimate the annual amount of export financing available from each government and government-related agency.” after fifth sentence, and inserted at end “The Bank shall include in the annual report a description of all Bank transactions which shall be classified according to their principal purpose, such as to correct a market failure or to provide matching support. The Bank shall include in the annual report a description of the efforts undertaken under subparagraph (K).”
 
@@ -678,13 +678,13 @@ Subsec. (e)(2) to (4). Pub. L. 107–189, §18, substituted “Paragraphs (1) an
 
 Subsec. (f). Pub. L. 107–189, §16, added subsec. (f).
 
-2000—Subsec. (b)(1)(A). Pub. L. 106–569, §1103(d)(1), substituted “The Bank shall, on an annual basis, report” for “The Bank shall, on a annual basis, report” and inserted at end “The annual report required under this subparagraph shall include the report required under section 635i–3(g) of this title.”
+<b>2000</b>—Subsec. (b)(1)(A). Pub. L. 106–569, §1103(d)(1), substituted “The Bank shall, on an annual basis, report” for “The Bank shall, on a annual basis, report” and inserted at end “The annual report required under this subparagraph shall include the report required under section 635i–3(g) of this title.”
 
 Subsec. (b)(1)(D). Pub. L. 106–569, §1104(a)(1), struck out “(i)” after “(D)” and struck out cl. (ii) which read as follows: “The Bank shall include in its annual report a summary of its programs regarding the export of services.”
 
 Subsec. (b)(8). Pub. L. 106–569, §1104(a)(2), struck out at end “The Bank shall include in the report to Congress under section 635g(a) of this title a description of the measures undertaken by it pursuant to this subsection.”
 
-1997—Subsec. (b)(1)(A). Pub. L. 105–121, §10, in first sentence, substituted “real income, a commitment to reinvestment and job creation, and the increased development of the productive resources of the United States” for “real income and to the increased development of the productive resources of the United States”.
+<b>1997</b>—Subsec. (b)(1)(A). Pub. L. 105–121, §10, in first sentence, substituted “real income, a commitment to reinvestment and job creation, and the increased development of the productive resources of the United States” for “real income and to the increased development of the productive resources of the United States”.
 
 Subsec. (b)(1)(B). Pub. L. 105–121, §11, inserted “(including child labor)” after “human rights” in penultimate sentence.
 
@@ -698,9 +698,9 @@ Subsec. (b)(9). Pub. L. 105–121, §7(a), added par. (9).
 
 Subsec. (b)(12). Pub. L. 105–121, §12, added par. (12).
 
-1996—Subsec. (b)(4). Pub. L. 104–201 amended par. (4) generally, restating provisions of former single par. as subpars. (A) to (F) with addition of provisions relating to persons knowingly aiding or abetting non-nuclear-weapon states to acquire nuclear explosive devices or unsafeguarded special nuclear material and requiring Secretary of State to initiate consultations with governments having jurisdiction over such persons.
+<b>1996</b>—Subsec. (b)(4). Pub. L. 104–201 amended par. (4) generally, restating provisions of former single par. as subpars. (A) to (F) with addition of provisions relating to persons knowingly aiding or abetting non-nuclear-weapon states to acquire nuclear explosive devices or unsafeguarded special nuclear material and requiring Secretary of State to initiate consultations with governments having jurisdiction over such persons.
 
-1994—Subsec. (b)(4). Pub. L. 103–236 inserted “(as defined in section 6305(4) of title 22), or that any country has willfully aided or abetted any non-nuclear-weapon state (as defined in section 6305(5) of title 22) to acquire any such nuclear explosive device or to acquire unsafeguarded special nuclear material (as defined in section 6305(8) of title 22).” after “device” at end of first sentence.
+<b>1994</b>—Subsec. (b)(4). Pub. L. 103–236 inserted “(as defined in section 6305(4) of title 22), or that any country has willfully aided or abetted any non-nuclear-weapon state (as defined in section 6305(5) of title 22) to acquire any such nuclear explosive device or to acquire unsafeguarded special nuclear material (as defined in section 6305(8) of title 22).” after “device” at end of first sentence.
 
 Subsec. (b)(6)(C)(ii). Pub. L. 103–447 substituted “defined in section 2291(e) of title 22” for “determined under section 2291j(h) or 2291(e), as appropriate, of title 22”.
 
@@ -708,9 +708,9 @@ Subsec. (b)(6)(H). Pub. L. 103–428, §1(b), (c), temporarily inserted “or de
 
 Subsec. (b)(6)(I). Pub. L. 103–428, §1(a), (c), temporarily added subpar. (I). See Effective and Termination Dates of 1994 Amendments note below.
 
-1993—Subsec. (b)(9). Pub. L. 103–149 struck out par. (9) which prohibited the Bank from taking certain actions with respect to business affecting Republic of South Africa.
+<b>1993</b>—Subsec. (b)(9). Pub. L. 103–149 struck out par. (9) which prohibited the Bank from taking certain actions with respect to business affecting Republic of South Africa.
 
-1992—Subsec. (a)(3). Pub. L. 102–429, §121(a)(1), struck out “(A)
+<b>1992</b>—Subsec. (a)(3). Pub. L. 102–429, §121(a)(1), struck out “(A)
 
 In general.—” before “To enhance the medium-term”, redesignated cls. (i) to (iv) as subpars. (A) to (D), respectively, and struck out former subpar. (B) which read as follows: “
 
@@ -852,11 +852,11 @@ Subsec. (d)(2) to (5). Pub. L. 102–429, §107, added pars. (2) to (5) and stru
 
 Subsec. (f). Pub. L. 102–429, §121(a)(4), struck out subsec. (f) which related to interest subsidy payments.
 
-1991—Subsec. (b)(3). Pub. L. 102–145, §121(2), (3), as added by Pub. L. 102–266, amended par. (3) in introductory provisions by redesignating cl. (iii) as (ii) and striking out “(ii) in an amount which equals or exceeds $25,000,000 for the export of goods or services involving research, exploration, or production of fossil fuel energy resources in the Union of Soviet Socialist Republics,”.
+<b>1991</b>—Subsec. (b)(3). Pub. L. 102–145, §121(2), (3), as added by Pub. L. 102–266, amended par. (3) in introductory provisions by redesignating cl. (iii) as (ii) and striking out “(ii) in an amount which equals or exceeds $25,000,000 for the export of goods or services involving research, exploration, or production of fossil fuel energy resources in the Union of Soviet Socialist Republics,”.
 
-1990—Subsec. (b)(6)(B)(vi). Pub. L. 101–513 and Pub. L. 101–623 amended cl. (vi) identically, substituting “1992” for “1990”.
+<b>1990</b>—Subsec. (b)(6)(B)(vi). Pub. L. 101–513 and Pub. L. 101–623 amended cl. (vi) identically, substituting “1992” for “1990”.
 
-1989—Subsec. (a)(1). Pub. L. 101–240, §101(c), substituted “Subject to regulations which the Bank shall issue pursuant to section 553 of title 5, the Bank may” for “The Bank may” in sixth sentence and inserted before period “, and may accept reimbursement for travel and subsistence expenses incurred by a director, officer, or employee of the Bank, in accordance with subchapter I of chapter 57 of title 5” and inserted before period in seventh sentence “and shall be offset against the expenses of the Bank for such activities”.
+<b>1989</b>—Subsec. (a)(1). Pub. L. 101–240, §101(c), substituted “Subject to regulations which the Bank shall issue pursuant to section 553 of title 5, the Bank may” for “The Bank may” in sixth sentence and inserted before period “, and may accept reimbursement for travel and subsistence expenses incurred by a director, officer, or employee of the Bank, in accordance with subchapter I of chapter 57 of title 5” and inserted before period in seventh sentence “and shall be offset against the expenses of the Bank for such activities”.
 
 Subsec. (b)(6)(G). Pub. L. 101–240, §101(d), substituted “subparagraphs (B), (C), (D), and (F)” for “this paragraph”.
 
@@ -878,7 +878,7 @@ Budget scoring.—No amount is authorized to be appropriated for commitments to 
 
 Subsec. (f)(4), (5). Pub. L. 101–240, §101(a)(1), (3), redesignated par. (5) as (4) and substituted “1991” for “1988”. Former par. (4) redesignated (3).
 
-1988—Subsec. (b)(6). Pub. L. 100–690 designated existing provision as subpar. (A), substituted “subparagraph” for “paragraph”, and added subpars. (B) to (G).
+<b>1988</b>—Subsec. (b)(6). Pub. L. 100–690 designated existing provision as subpar. (A), substituted “subparagraph” for “paragraph”, and added subpars. (B) to (G).
 
 Subsec. (e)(1)(A)(i). Pub. L. 100–418, §3304(a), substituted “commodity will first be sold” for “productive capacity is expected to become operative”.
 
@@ -886,7 +886,7 @@ Subsec. (e)(2). Pub. L. 100–418, §3304(b), substituted “short- and long-ter
 
 Subsec. (e)(3). Pub. L. 100–418, §3304(c), added par. (3).
 
-1986—Subsec. (a)(1). Pub. L. 99–472, §2, inserted provisions which related to imposition and collection of reasonable fees by Bank to cover costs of conferences and seminars sponsored, and publications provided, by Bank, and credit of amounts thus received to fund which initially paid for such activities.
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–472, §2, inserted provisions which related to imposition and collection of reasonable fees by Bank to cover costs of conferences and seminars sponsored, and publications provided, by Bank, and credit of amounts thus received to fund which initially paid for such activities.
 
 Subsec. (a)(3). Pub. L. 99–472, §4, added par. (3).
 
@@ -914,7 +914,7 @@ Subsec. (c)(3). Pub. L. 99–472, §10, added par. (3).
 
 Subsecs. (e), (f). Pub. L. 99–472, §§11, 20(a), added subsecs. (e) and (f).
 
-1983—Subsec. (a)(1). Pub. L. 98–181, §616(a)(1), substituted “the exchange of commodities and services” for “the exchange of commodities”.
+<b>1983</b>—Subsec. (a)(1). Pub. L. 98–181, §616(a)(1), substituted “the exchange of commodities and services” for “the exchange of commodities”.
 
 Subsec. (a)(2). Pub. L. 98–181, §622, added par. (2).
 
@@ -938,9 +938,9 @@ Subsec. (b)(7) to (10). Pub. L. 98–181, §619(d), redesignated second par. (7)
 
 Subsec. (d). Pub. L. 98–181, §617, added subsec. (d).
 
-1980—Subsec. (b)(1)(A). Pub. L. 96–470 substituted “annual” for “semiannual” in three places.
+<b>1980</b>—Subsec. (b)(1)(A). Pub. L. 96–470 substituted “annual” for “semiannual” in three places.
 
-1978—Subsec. (b)(1)(A). Pub. L. 95–630, §1910, substituted “manufactured goods, agricultural products, and other goods and services” for “goods and related services”.
+<b>1978</b>—Subsec. (b)(1)(A). Pub. L. 95–630, §1910, substituted “manufactured goods, agricultural products, and other goods and services” for “goods and related services”.
 
 Subsec. (b)(1)(B). Pub. L. 95–630, §§1904, 1916, inserted “that the Bank should give emphasis to assisting new and small business entrants in the agricultural export market, and shall, in cooperation with other relevant Government agencies, including the Commodity Credit Corporation, develop a program of education to increase awareness of export opportunities among small agribusinesses and cooperatives;” after “in matters affecting small business concerns;” and substituted “and shall give particular emphasis to the objective of strengthening the competitive position of the United States exporters and thereby of expanding total United States exports. Only in cases where the President determines that such action would be in the national interest where such action would clearly and importantly advance United States policy in such areas as international terrorism, nuclear proliferation, environmental protection and human rights, should the Export-Import Bank deny applications for credit for nonfinancial or noncommercial considerations” for “and shall also take into account, in consultation with the Secretary of State, the observance of and respect for human rights in the country to receive the exports supported by a loan or financial guarantee and the effect such exports may have on human rights in such country”.
 
@@ -952,7 +952,7 @@ Subsec. (b)(7) to (9). Pub. L. 95–630, §§1909, 1915, added a second par. (7)
 
 Subsec. (c)(1). Pub. L. 95–630, §1903, substituted “$25,000,000,000” for “$20,000,000,000”.
 
-1977—Subsec. (b)(1)(A). Pub. L. 95–143, §1, inserted “and shall, in cooperation with other appropriate United States Government agencies, seek to reach international agreements to reduce government subsidized export financing” after “government-supported export financing”.
+<b>1977</b>—Subsec. (b)(1)(A). Pub. L. 95–143, §1, inserted “and shall, in cooperation with other appropriate United States Government agencies, seek to reach international agreements to reduce government subsidized export financing” after “government-supported export financing”.
 
 Subsec. (b)(1)(B). Pub. L. 95–143, §2, inserted “, and shall also take into account, in consultation with the Secretary of State, the observance of and respect for human rights in the country to receive the exports supported by a loan or financial guarantee and the effect such exports may have on human rights in such country” after “employment in the United States”.
 
@@ -960,7 +960,7 @@ Subsec. (b)(3). Pub. L. 95–143, §3(a), inserted “(i)” after “No loan or
 
 Subsec. (b)(4) to (7). Pub. L. 95–143, §3(b), (c), added par. (4), redesignated former par. (4) as (5) and, as so redesignated, added cl. (C), and redesignated former pars. (5) and (6) as (6) and (7), respectively.
 
-1975—Subsec. (a)(1). Pub. L. 93–646, §2, inserted provisions authorizing the Bank to guarantee, insure, coinsure, and reinsure against political and credit risks of loss, to represent itself or to contract for representation in all legal and arbitral proceedings outside the United States, and to publish any documents, reports, etc., without regard to section 501 of title 44, whenever compliance with such section would not be practicable.
+<b>1975</b>—Subsec. (a)(1). Pub. L. 93–646, §2, inserted provisions authorizing the Bank to guarantee, insure, coinsure, and reinsure against political and credit risks of loss, to represent itself or to contract for representation in all legal and arbitral proceedings outside the United States, and to publish any documents, reports, etc., without regard to section 501 of title 44, whenever compliance with such section would not be practicable.
 
 Subsec. (a)(2). Pub. L. 93–646, §13, eff. at the close of Sept. 30, 1976, repealed par. (2), which related to inclusion of receipts and disbursements of the bank in the federal budget and exemption of such receipts and disbursements from budget limitations, to the transmittal to Congress of a budget for program activities and for administrative expenses of the bank, and to the annual report of the net lending of the bank.
 
@@ -972,7 +972,7 @@ Subsec. (b)(3) to (6). Pub. L. 93–646, §5, added par. (3) and redesignated fo
 
 Subsec. (c)(1). Pub. L. 93–646, §6, removed the $10 billion limit on the Bank's insurance authority, and increased the Bank's authority to charge such guarantees and insurance on a fractional charge basis from $10 billion to $20 billion.
 
-1971—Subsec. (a). Pub. L. 92–126, §1(b)(1), designated existing provisions as par. (1) and added par. (2).
+<b>1971</b>—Subsec. (a). Pub. L. 92–126, §1(b)(1), designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (b)(1). Pub. L. 92–126, §1(b)(6), inserted provisions declaring the policy of the United States to be tofoster expansion of goods and related services, contributing to the proposition and maintenance of high levels of employment and real income and to the increased development of the productive resources of the United States and laid down directives to achieve this objective.
 
@@ -980,7 +980,7 @@ Subsec. (b)(3). Pub. L. 92–126, §1(b)(5), substituted provisions prohibiting 
 
 Subsec. (c)(1). Pub. L. 92–126, §1(b)(2), increased the amount of insurance outstanding at any one time from “$3,500,000,000” to “$10,000,000,000”.
 
-1968—Subsec. (a). Pub. L. 90–267, §1(a), changed name of “Export-Import Bank of Washington” to “Export-Import Bank of the United States”.
+<b>1968</b>—Subsec. (a). Pub. L. 90–267, §1(a), changed name of “Export-Import Bank of Washington” to “Export-Import Bank of the United States”.
 
 Subsec. (b)(1). Pub. L. 90–267, §1(b), designated existing provisions as par. (1) and required the Board of Directors when authorizing loans to take into account the possible adverse effects upon the economy of the United States.
 
@@ -988,23 +988,25 @@ Subsec. (b)(2) to (5). Pub. L. 90–267, §1(c), added pars. (2) to (5).
 
 Subsec. (c)(1). Pub. L. 90–267, §1(a), (c), increased amount of insurance outstanding at any one time from $2,000,000,000 to $3,500,000,000 and changed name of “Export-Import Bank of Washington” to “Export-Import Bank of the United States”.
 
-1963—Subsec. (c)(1). Pub. L. 88–101 substituted “$2,000,000,000” for “$1,000,000,000”.
+<b>1963</b>—Subsec. (c)(1). Pub. L. 88–101 substituted “$2,000,000,000” for “$1,000,000,000”.
 
-1961—Subsec. (c). Pub. L. 87–311 amended subsection generally, and among other changes, authorized the Bank to guarantee, insure, coinsure, and reinsure United States exporters and foreign exporters doing business in the United States, increased the maximum amount of insurance, etc., outstanding at any one time to $1,000,000,000, limited the types of risks the Bank would insure, etc., to political and credit risks, required reserves to be maintained at not less than 25 per centum of the related contractual liability of the Bank, provided that for contracts of insurance, etc., only the Bank's liabilities represented by the aforementioned reserves shall be considered for purposes of applying the limitations of section 635e of this title, required the charging of fees and premiums, and authorized issuance of insurance, etc., to exporters, insurance companies, financial institutions, or others, and where appropriate, to employ any of the same as agent, and struck out provisions authorizing insurance for the benefit of United States citizens against loss of tangible personal property of United States origin, exported from the United States, and located in a friendly country, from hostile or warlike actions including internal strife, or from governmental confiscation or expropriation, to the extent owned by the assured or constituting security for obligations owed the assured, limiting the issuance of insurance to the extent that it could not be obtained from private companies authorized to do business in the United States, or from United States Government agencies providing marine or air war-risk insurance, permitting reinsurance of companies authorized to do an insurance business in the United States, or to use such company or companies as agent, and limiting the term of coverage of any insurance issued to one year, subject to renewals or extensions, from time to time, of one year periods.
+<b>1961</b>—Subsec. (c). Pub. L. 87–311 amended subsection generally, and among other changes, authorized the Bank to guarantee, insure, coinsure, and reinsure United States exporters and foreign exporters doing business in the United States, increased the maximum amount of insurance, etc., outstanding at any one time to $1,000,000,000, limited the types of risks the Bank would insure, etc., to political and credit risks, required reserves to be maintained at not less than 25 per centum of the related contractual liability of the Bank, provided that for contracts of insurance, etc., only the Bank's liabilities represented by the aforementioned reserves shall be considered for purposes of applying the limitations of section 635e of this title, required the charging of fees and premiums, and authorized issuance of insurance, etc., to exporters, insurance companies, financial institutions, or others, and where appropriate, to employ any of the same as agent, and struck out provisions authorizing insurance for the benefit of United States citizens against loss of tangible personal property of United States origin, exported from the United States, and located in a friendly country, from hostile or warlike actions including internal strife, or from governmental confiscation or expropriation, to the extent owned by the assured or constituting security for obligations owed the assured, limiting the issuance of insurance to the extent that it could not be obtained from private companies authorized to do business in the United States, or from United States Government agencies providing marine or air war-risk insurance, permitting reinsurance of companies authorized to do an insurance business in the United States, or to use such company or companies as agent, and limiting the term of coverage of any insurance issued to one year, subject to renewals or extensions, from time to time, of one year periods.
 
-1953—Subsec. (c). Act May 21, 1953, added subsec. (c).
+<b>1953</b>—Subsec. (c). Act May 21, 1953, added subsec. (c).
 
-1947—Subsec. (a). Act June 9, 1947, provided for the reincorporation of the Bank as a corporate agency of the United States and specifically provided for the following powers which the bank formerly possessed by implication: (1) to acquire stock through the enforcement of any lien or pledge or to satisfy an indebtedness; (2) to sue and be sued, to complain and defend in any court of competent jurisdiction; (3) to use the United States mails as any other executive department; and (4) after provision for possible losses to use the net earnings as dividends on capital stock and to deposit said dividends as miscellaneous receipts in the Treasury.
+<b>1947</b>—Subsec. (a). Act June 9, 1947, provided for the reincorporation of the Bank as a corporate agency of the United States and specifically provided for the following powers which the bank formerly possessed by implication: (1) to acquire stock through the enforcement of any lien or pledge or to satisfy an indebtedness; (2) to sue and be sued, to complain and defend in any court of competent jurisdiction; (3) to use the United States mails as any other executive department; and (4) after provision for possible losses to use the net earnings as dividends on capital stock and to deposit said dividends as miscellaneous receipts in the Treasury.
 
-1945—Subsec. (a). Act Dec. 28, 1945, inserted “(or the Philippine Islands)” after “any foreign country”.
+<b>1945</b>—Subsec. (a). Act Dec. 28, 1945, inserted “(or the Philippine Islands)” after “any foreign country”.
 
 #### Effective and Termination Dates of 1994 Amendments
 
 Pub. L. 103–428, §1(c), Oct. 31, 1994, 108 Stat. 4376, as amended by Pub. L. 105–121, §4, Nov. 26, 1997, 111 Stat. 2529; Pub. L. 109–438, §4, Dec. 20, 2006, 120 Stat. 3269, provided that: “The amendments made by this section \[amending this section\] shall remain in effect during the period beginning on the date of enactment of this Act \[Oct. 31, 1994\] and ending on September 30, 2011.”
 
-\[Pub. L. 111–117, div. F, title VI, Dec. 16, 2009, 123 Stat. 3341, provided in part: “That notwithstanding section 1(c) of Public Law 103–428 \[set out above\], as amended, sections 1(a) and (b) of Public Law 103–428 \[amending this section\] shall remain in effect through October 1, 2010”.\]
+\[Pub. L. 112–74, div. I, title VI, Dec. 23, 2011, 125 Stat. 1191, provided in part: “That notwithstanding section 1(c) of Public Law 103–428 \[set out above\], as amended, sections 1(a) and (b) of Public Law 103–428 \[amending this section\] shall remain in effect through October 1, 2012”.\]
 
 \[Prior similar extensions of section 1(a) and (b) of Pub. L. 103–428 were contained in the following acts:
+
+\[Pub. L. 111–117, div. F, title VI, Dec. 16, 2009, 123 Stat. 3341.
 
 \[Pub. L. 111–8, div. H, title VI, Mar. 11, 2009, 123 Stat. 858.
 
@@ -1034,7 +1036,7 @@ Pub. L. 109–438, §1(a), Dec. 20, 2006, 120 Stat. 3268, provided that: “This
 
 #### Short Title of 2002 Amendment
 
-Pub. L. 107–189, §1(a), June 14, 2002, 116 Stat. 698, provided that: “This Act \[enacting section 635i–9 of this title, amending this section, sections 635a, 635e to 635g, 635i–3, 635i–6, and 635i–8 of this title, section 5315 of Title 5, Government Organization and Employees, sections 9 and 11 of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, and section 1105 of Title 31, Money and Finance, enacting provisions set out as notes under this section, sections 635a,635g, and 635i–9 of this title, and section 5315 of Title 5, and amending provisions set out as a note under this section\] may be cited as the ‘Export-Import Bank Reauthorization Act of 2002’.”
+Pub. L. 107–189, §1(a), June 14, 2002, 116 Stat. 698, provided that: “This Act \[enacting section 635i–9 of this title, amending this section, sections 635a, 635e to 635g, 635i–3, 635i–6, and 635i–8 of this title, section 5315 of Title 5, Government Organization and Employees, sections 9 and 11 of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, and section1105 of Title 31, Money and Finance, enacting provisions set out as notes under this section, sections 635a, 635g, and 635i–9 of this title, and section 5315 of Title 5, and amending provisions set out as a note under this section\] may be cited as the ‘Export-Import Bank Reauthorization Act of 2002’.”
 
 #### Short Title of 1997 Amendment
 
@@ -1096,7 +1098,7 @@ The Export-Import Bank of Washington was organized as a District of Columbia ban
 
 #### Waiver of Sanctions
 
-Sanctions contained in subsec. (b)(4) waived in certain regards with respect to India and Pakistan by the following Determinations of the President, set out asnotes under section 2799aa–1 of Title 22, Foreign Relations and Intercourse:
+Sanctions contained in subsec. (b)(4) waived in certain regards with respect to India and Pakistan by thefollowing Determinations of the President, set out as notes under section 2799aa–1 of Title 22, Foreign Relations and Intercourse:
 
 Determination of President of the United States, No. 2000–4, Oct. 27, 1999, 64 F.R. 60649.
 

@@ -10,7 +10,7 @@ Eligible project costs.—The term “eligible project costs” means amounts su
 
 &emsp;&emsp;(A) development phase activities, including planning, feasibility analysis, revenue forecasting, environmental review, permitting, preliminary engineering and design work, and other preconstruction activities;
 
-&emsp;&emsp;(B) construction, reconstruction, rehabilitation, replacement, and acquisition of realproperty (including land related to the project and improvements to land), environmental mitigation, construction contingencies, and acquisition of equipment; and
+&emsp;&emsp;(B) construction, reconstruction, rehabilitation, replacement, and acquisition of real property (including land related to the project and improvements to land), environmental mitigation, construction contingencies, and acquisition of equipment; and
 
 &emsp;&emsp;(C) capitalized interest necessary to meet market requirements, reasonably required reserve funds, capital issuance expenses, and other carrying costs during construction.
 
@@ -36,7 +36,7 @@ Line of credit.—The term “line of credit” means an agreement entered into 
 
 &emsp;(6)
 
-Loan guarantee.—The term “loan guarantee” means any guarantee or other pledge by the Secretary to pay all or part of the principal of and interest on a loan or other debt obligation issued by an obligor and funded by a lender.
+Loan guarantee.—The term “loan guarantee” means any guarantee or other pledgeby the Secretary to pay all or part of the principal of and interest on a loan or other debt obligation issued by an obligor and funded by a lender.
 
 &emsp;(7)
 
@@ -208,7 +208,7 @@ Funding.—
 
 Contribution.—Notwithstanding any other provision of law, the Secretary may allow, subject to subsection (h)(1), a State that enters into a cooperative agreement under this section to contribute to the infrastructure bank established by the State not to exceed—
 
-&emsp;&emsp;“(A)(i) the total amount of funds apportioned to the State under each of paragraphs (1), (3), and (4) of section 104(b) and section 144 of title 23, UnitedStates Code, excluding funds set aside under paragraphs (1) and (2) of section 133(d) of such title; and
+&emsp;&emsp;“(A)(i) the total amount of funds apportioned to the State under each of paragraphs (1), (3), and (4) of section 104(b) and section 144 of title 23, United States Code, excluding funds set aside under paragraphs (1) and (2) of section 133(d) of such title; and
 
 &emsp;&emsp;“(ii) the total amount of funds allocated to the State under section 105 of such title;
 
@@ -246,7 +246,7 @@ Qualifying Projects.—
 
 &emsp;“(1)
 
-In general.—Subject to paragraph (2), funds in an infrastructure bank established under this section may be used only to provide assistance with respect to projects eligible for assistance under title 23, United States Code, for capital projects (as defined in section 5302 of title 49, United States Code), or for any other project related to surface transportation that the Secretary determines to be appropriate.
+In general.—Subject to paragraph (2), funds in an infrastructure bank established under this sectionmay be used only to provide assistance with respect to projects eligible for assistance under title 23, United States Code, for capital projects (as defined in section 5302 of title 49, United States Code), or for any other project related to surface transportation that the Secretary determines to be appropriate.
 
 &emsp;“(2)
 
@@ -370,7 +370,7 @@ Funding.—
 
 &emsp;“(1)
 
-Separate accounts.—An infrastructure bank established under this section shall maintain a separate highway account for Federal funds contributed to the bank under paragraph (2) and a separate transit account for Federal funds contributed to the bank under paragraph (3). No Federal funds contributed or credited to an account of an infrastructure bank established under this section may be commingled with Federal funds contributed or credited to any other account of such bank.
+Separate accounts.—An infrastructure bank established under this section shall maintain a separate highway account for Federal funds contributed to the bank under paragraph (2) and a separate transit account for Federal funds contributed to the bank under paragraph (3). No Federal funds contributed or credited to an account of an infrastructure bank established under this section may be commingled withFederal funds contributed or credited to any other account of such bank.
 
 &emsp;“(2)
 

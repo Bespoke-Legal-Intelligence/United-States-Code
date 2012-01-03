@@ -28,7 +28,7 @@ This chapter, referred to in subsecs. (a), (b), and (e), was in the original, �
 
 #### Amendments
 
-1994—Pub. L. 103–236, §162(h)(2)(A), struck out “; Bureau of Consular Affairs” after “Secretary of State” in section catchline.
+<b>1994</b>—Pub. L. 103–236, §162(h)(2)(A), struck out “; Bureau of Consular Affairs” after “Secretary of State” in section catchline.
 
 Subsec. (a)(2). Pub. L. 103–236, §162(h)(2)(B), substituted “the Administrator” for “the Bureau of Consular Affairs”.
 
@@ -38,9 +38,9 @@ Subsec. (c). Pub. L. 103–236, §162(h)(2)(D), substituted “Department of Sta
 
 Subsec. (d). Pub. L. 103–236, §162(h)(2)(E), struck out before period at end “, of the Bureau of Consular Affairs”.
 
-1988—Pub. L. 100–525 substituted “Bureau of Consular Affairs” for “Bureau of Security and Consular Affairs” in section catchline.
+<b>1988</b>—Pub. L. 100–525 substituted “Bureau of Consular Affairs” for “Bureau of Security and Consular Affairs” in section catchline.
 
-1977—Subsec. (a)(2). Pub. L. 95–105, §109(b)(1)(A), struck out “Security and” after “Bureau of”.
+<b>1977</b>—Subsec. (a)(2). Pub. L. 95–105, §109(b)(1)(A), struck out “Security and” after “Bureau of”.
 
 Subsec. (b). Pub. L. 95–105, §109(b)(1)(B), substituted “Consular Affairs, to be headed by an Assistant Secretary of State for Consular Affairs” for “Security and Consular Affairs, to be headed by an administrator (with an appropriate title to be designated by the Secretary of State), with rank equal to that of an Assistant Secretary of State” and “Assistant Secretary of State for Consular Affairs” for “administrator” and struck out provision that the administrator shall be appointed by the President by and with the advice and consent of the Senate.
 
@@ -48,9 +48,9 @@ Subsec. (d). Pub. L. 95–105, §109(b)(1)(C), struck out “Security and” aft
 
 Subsec. (f). Pub. L. 95–105, §109(b)(1)(D), struck out subsec. (f) which placed Bureau of Security and Consular Affairs under immediate jurisdiction of Deputy Under Secretary of State for Administration.
 
-1964—Subsec. (b). Pub. L. 88–426 repealed provisions which related to compensation of Administrator. See section 5311 et seq. of Title 5, Government Organization and Employees.
+<b>1964</b>—Subsec. (b). Pub. L. 88–426 repealed provisions which related to compensation of Administrator. See section 5311 et seq. of Title 5, Government Organization and Employees.
 
-1962—Subsec. (b). Pub. L. 87–510 provided for appointment of Administrator of Bureau of Security and Consular Affairs by President by and with advice and consent of Senate.
+<b>1962</b>—Subsec. (b). Pub. L. 87–510 provided for appointment of Administrator of Bureau of Security and Consular Affairs by President by and with advice and consent of Senate.
 
 #### Effective Date of 1994 Amendment
 

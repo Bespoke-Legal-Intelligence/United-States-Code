@@ -4,7 +4,7 @@
 
 #### (1) Requirement
 
-&emsp;To be eligible to receive financial assistance under this part, a State shall submit to theCommissioner, and obtain approval of, a State plan containing such provisions as the Commissioner may require, including, at a minimum, the provisions required in this section.
+&emsp;To be eligible to receive financial assistance under this part, a State shall submit to the Commissioner, and obtain approval of, a State plan containing such provisions as the Commissioner may require, including, at a minimum, the provisions required in this section.
 
 #### (2) Joint development
 
@@ -90,7 +90,7 @@ The plan shall describe efforts to coordinate Federal and State funding for cent
 
 #### (<i>l</i>) Outreach
 
-With respect to services and centers funded under this part, the plan shall set forth steps to be taken regarding outreach to populations that are unserved or underserved by programs underthis subchapter, including minority groups and urban and rural populations.
+With respect to services and centers funded under this part, the plan shall set forth steps to be taken regarding outreach to populations that are unserved or underserved by programs under this subchapter, including minority groups and urban and rural populations.
 
 #### (m) Requirements
 
@@ -130,5 +130,5 @@ The plan shall establish a method for the periodic evaluation of the effectivene
 
 A prior section 796c, Pub. L. 93–112, title VII, §704, as added Pub. L. 102–569, title VII, §701(2), Oct. 29, 1992, 106 Stat. 4444; amended Pub. L. 103–73, title I, §114(b), Aug. 11, 1993, 107 Stat. 728, related to State plans, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
-Another prior section 796c, Pub. L. 93–112, title VII, §704, as added Pub. L. 95–602, title III, §301, Nov. 6, 1978, 92 Stat. 2997; amended Pub. L. 100–630, title II, §208(c), Nov. 7, 1988, 102 Stat. 3314, related to payments to States from allotments to pay Federal share of expenditures, prior to repeal by Pub. L. 102–569, §701(1).
+Another prior section 796c, Pub. L. 93–112, title VII, §704, as added Pub. L. 95–602, title III, §301, Nov. 6, 1978,92 Stat. 2997; amended Pub. L. 100–630, title II, §208(c), Nov. 7, 1988, 102 Stat. 3314, related to payments to States from allotments to pay Federal share of expenditures, prior to repeal by Pub. L. 102–569, §701(1).
 

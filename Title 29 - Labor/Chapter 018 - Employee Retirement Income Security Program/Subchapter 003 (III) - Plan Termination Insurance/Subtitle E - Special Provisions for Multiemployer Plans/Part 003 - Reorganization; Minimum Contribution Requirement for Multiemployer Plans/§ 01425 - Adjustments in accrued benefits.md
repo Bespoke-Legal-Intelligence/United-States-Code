@@ -4,7 +4,7 @@
 
 (1) Notwithstanding sections 1053 and 1054 of this title, a multiemployer plan in reorganization may be amended in accordance with this section, to reduce or eliminate accrued benefits attributable to employer contributions which, under section 1322a(b) of this title, are not eligible for the corporation's guarantee. The preceding sentence shall only apply to accrued benefits under plan amendments (or plans) adopted after March 26, 1980, or under collective bargaining agreements entered into after March 26, 1980.
 
-(2) In determining the minimum contribution requirement with respect to a plan for a plan year under section 1423(b) of this title, the vested benefits charge may be adjusted to reflect a plan amendment reducing benefits under this section or section 412(c)(8) <sup>1</sup> of title 26, but only if the amendment is adopted and effective no later than 2½ months after the end of the plan year, or within such extended period as the Secretary of the Treasury may prescribe by regulation under section 412(c)(10) <sup>1</sup> of title 26.
+(2) In determining the minimum contribution requirement with respect to a plan for a planyear under section 1423(b) of this title, the vested benefits charge may be adjusted to reflect a plan amendment reducing benefits under this section or section 412(c)(8) <sup>1</sup> of title 26, but only if the amendment is adopted and effective no later than 2½ months after the end of the plan year, or within such extended period as the Secretary of the Treasury may prescribe by regulation under section 412(c)(10) <sup>1</sup> of title 26.
 
 #### (b) Reduction of accrued benefits; notice by plan sponsors to plan participants and beneficiaries
 
@@ -62,7 +62,7 @@ A plan may not recoup a benefit payment which is in excess of the amount payable
 
 #### (e) “Inactive participant” defined
 
-For purposes of this section, “inactive participant” means a person not in covered service under the plan who is in pay status under the plan or who has a nonforfeitable benefit under the plan.
+For purposes of this section, “inactive participant” means a person not in covered serviceunder the plan who is in pay status under the plan or who has a nonforfeitable benefit under the plan.
 
 #### (f) Promulgation of rules; contents, etc.
 

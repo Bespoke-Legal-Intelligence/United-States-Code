@@ -10,7 +10,7 @@ In every case of adjudication (as defined in section 551 of title 5) which has b
 
 #### (c) Notice and opportunity for participation by parties; applicability of administrative procedure provisions
 
-(1) In any case of adjudication (as defined in section 551 of title 5) which has been designated by the Commission for a hearing, no person who has participated in the presentation or preparation for presentation of such case at the hearing or upon review shall (except to the extent required for the disposition of ex parte matters as authorized by law) directly or indirectly make any additional presentation respecting such case to the hearing officer or officers or to the Commission, or to any authority within the Commission to whom, in such case, review functions have been delegated by the Commission under section 155(d)(1) <sup>1</sup> of this title, unless upon notice and opportunity for all parties to participate.
+(1) In any case of adjudication (as defined in section 551 of title 5) which has been designated by the Commission for a hearing, no person who has participated in the presentation or preparation for presentation of such case at the hearing or upon review shall (except to the extent required for the disposition of ex parte matters as authorized by law) directly or indirectly make any additional presentation respecting such case to the hearing officer or officers or to the Commission, or to any authority within the Commission to whom, in such case, review functionshave been delegated by the Commission under section 155(d)(1) <sup>1</sup> of this title, unless upon notice and opportunity for all parties to participate.
 
 (2) The provision in section 554(d) of title 5 which states that such subsection shall not apply in determining applications for initial licenses, shall not be applicable hereafter in the case of applications for initial licenses before the Federal Communications Commission.
 
@@ -57,6 +57,8 @@ Any person who shall neglect or refuse to attend and testify, or to answer any l
 #### References in Text
 
 Section 155(d) of this title, referred to in subsecs. (b), (c), and (d), was redesignated section 155(c) of this title by Pub. L. 97–259, title I, §105(b), Sept. 13, 1982, 96 Stat. 1091.
+
+This chapter, referred to in subsecs. (e) and (k), was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
 #### Codification
 

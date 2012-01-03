@@ -46,7 +46,7 @@ Within 360 days after October 22, 1986, the Governor of each State—
 
 &emsp;&emsp;&emsp;(i) A statement that, in spite of the fact that the local educational agency has made a good faith effort to meet the deadline for submission of a management plan under subsection (a) of this section, the agency will not be able to meet the deadline. The statement shall include a brief explanation of the reasons why the deadline cannot be met.
 
-&emsp;&emsp;&emsp;(ii) A statement giving assurance that the local educational agency has made available for inspection by the public, at each school for which a deferral is sought in the request, at least one of the following documents:
+&emsp;&emsp;&emsp;(ii) A statement giving assurance that the local educational agency has made available for inspection by the public, at each school for which a deferral is soughtin the request, at least one of the following documents:
 
 &emsp;&emsp;&emsp;&emsp;(I) A solicitation by the local educational agency to contract with an accredited asbestos contractor for inspection or management plan development.
 

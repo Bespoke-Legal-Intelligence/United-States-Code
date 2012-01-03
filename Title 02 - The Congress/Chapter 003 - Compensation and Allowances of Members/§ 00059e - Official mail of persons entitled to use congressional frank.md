@@ -32,7 +32,7 @@ Expenses of official mail of the Senate and the House of Representatives may be 
 
 #### (d) Maintenance or use of unofficial office accounts or defrayal of official expenses from certain funds prohibited
 
-No Senator or Member of the House of Representatives may maintain or use, directly or indirectly, an unofficial office account or defray official expenses for franked mail, employee salaries, office space, furniture, or equipment and any associated information technology services (excluding handheld communications devices) from—
+No Senator or Member of the House of Representatives may maintain or use, directly or indirectly, an unofficial office account or defray official expenses for franked mail, employee salaries, office space, furniture, or equipment and any associated information technology services\(excluding handheld communications devices) from—
 
 &emsp;(1) funds received from a political committee or derived from a contribution or expenditure (as such terms are defined in section 431 of this title);
 
@@ -86,15 +86,15 @@ Subsec. (h) of this section made the amendments specified in the References in T
 
 #### Amendments
 
-2003—Subsec. (d). Pub. L. 108–83, in introductory provisions, struck out “in the House, or official expenses” after “defray official expenses” and “in the Senate” after “(excluding handheld communications devices)”.
+<b>2003</b>—Subsec. (d). Pub. L. 108–83, in introductory provisions, struck out “in the House, or official expenses” after “defray official expenses” and “in the Senate” after “(excluding handheld communications devices)”.
 
-2001—Subsec. (d). Pub. L. 107–68, in introductory provisions, inserted “in the House, or official expenses for franked mail, employee salaries, office space, furniture, or equipment and any associated information technology services (excluding handheld communications devices) in the Senate” after “expenses”.
+<b>2001</b>—Subsec. (d). Pub. L. 107–68, in introductory provisions, inserted “in the House, or official expenses for franked mail, employee salaries, office space, furniture, or equipment and any associated information technology services (excluding handheld communications devices) in the Senate” after “expenses”.
 
-1999—Subsec. (a)(3). Pub. L. 106–57, §103(a)(4)(B), substituted “costs incurred for official mail by” for “costs charged against the Official Mail Allowance for”.
+<b>1999</b>—Subsec. (a)(3). Pub. L. 106–57, §103(a)(4)(B), substituted “costs incurred for official mail by” for “costs charged against the Official Mail Allowance for”.
 
 Subsec. (b)(2). Pub. L. 106–19 substituted “any person with an allocation under subsection (a)(2)(A) as to the amount that has been used and any person with an allocation under subsection (a)(2)(B)” for “any person with an allocation under subsection (a)(2)”.
 
-Subsec. (e)(1). Pub. L. 106–57, §103(a)(1)(A), in introductory provisions, substituted “The use of funds of the House of Representatives which are made available for official mail of Members, officers, and employees of the House of Representatives who are persons entitled to use the congressional frank shall be governed by regulations promulgated—” for “There is established in the House of Representatives an Official Mail Allowance for Members, officers, and employees of the House of Representatives who are persons entitled to use the congressional frank. Regulations for use of the Official Mail Allowance shall be prescribed—”.
+Subsec. (e)(1). Pub. L. 106–57, §103(a)(1)(A), in introductory provisions, substituted “The use of funds of the House of Representatives which are made available for official mail of Members, officers, and employees of the House of Representatives who are persons entitled to use the congressional frank shall be governed by regulations promulgated—” for “There is established in the House of Representatives an Official Mail Allowance for Members, officers, and employees of the House of Representatives who are persons entitled to use thecongressional frank. Regulations for use of the Official Mail Allowance shall be prescribed—”.
 
 Subsec. (e)(1)(A). Pub. L. 106–57, §103(a)(1)(B), substituted “official mail (except as provided in subparagraph (B))” for “the Allowance”.
 
@@ -110,11 +110,11 @@ Subsec. (e)(3). Pub. L. 106–57, §103(a)(3), struck out par. (3) which read as
 
 “(B) The total amount a Member may so transfer with respect to a session of Congress may not exceed $25,000.”
 
-1998—Subsec. (e)(2). Pub. L. 105–275, §104(a), as amended by Pub. L. 106–57, §102, inserted “and” at end of subpar. (B), substituted a period for “; and” at end of subpar. (C), and struck out subpar. (D) which read as follows: “shall not be available for payment of any nonpostage fee or charge, including any fee or charge for express mail, express mail drop shipment, certified mail, registered mail, return receipt, address correction, or postal insurance.”
+<b>1998</b>—Subsec. (e)(2). Pub. L. 105–275, §104(a), as amended by Pub. L. 106–57, §102, inserted “and” at end of subpar. (B), substituted a period for “; and” at end of subpar. (C), and struck out subpar. (D) which read as follows: “shall not be available for payment of any nonpostage fee or charge, including any fee or charge for express mail, express mail drop shipment, certified mail, registered mail, return receipt, address correction, or postal insurance.”
 
 Subsec. (e)(4). Pub. L. 105–275, §104(b), struck out par. (4) which read as follows: “The Members’ Representational Allowance shall be available to a Member of the House of Representatives for the payment of nonpostage fees and charges referred to in paragraph (2)(D) and for postage for mail for official business sent outside the United States.”
 
-1996—Subsec. (a). Pub. L. 104–186, §203(22)(B)(i), substituted “House Oversight” for “House Administration” in introductory provisions.
+<b>1996</b>—Subsec. (a). Pub. L. 104–186, §203(22)(B)(i), substituted “House Oversight” for “House Administration” in introductory provisions.
 
 Subsec. (a)(3). Pub. L. 104–186, §203(22)(A), (B)(ii), substituted “Chief Administrative Officer of the House of Representatives” for “Clerk of the House of Representatives” and “House Oversight” for “House Administration”.
 
@@ -128,7 +128,7 @@ Subsec. (e)(3)(A). Pub. L. 104–186, §203(22)(B)(vi), substituted “Members�
 
 Subsec. (e)(4). Pub. L. 104–186, §203(22)(B)(vii), substituted “Members’ Representational Allowance” for “Official Expenses Allowance”.
 
-1991—Subsec. (i). Pub. L. 102–229 substituted “beginning on May 1, 1992,” for “with respect to sessions of Congress beginning with the second session of the One Hundred Second Congress,”.
+<b>1991</b>—Subsec. (i). Pub. L. 102–229 substituted “beginning on May 1, 1992,” for “with respect to sessions of Congress beginning with the second session of the One Hundred Second Congress,”.
 
 #### Change of Name
 

@@ -32,7 +32,7 @@
 
 (3) Transfer of ownership of a high seas fishing vessel, by sale or otherwise, shall not extinguish any permit sanction that is in effect or is pending at the time of transfer of ownership. Before executing the transfer of ownership of a vessel, by sale or otherwise, the owner shall disclose in writing to the prospective transferee the existence of any permit sanction that will be in effect or pending with respect to the vessel at the time of the transfer. The Secretary may waive or compromise a sanction in the case of a transfer pursuant to court order.
 
-(4) In the case of any permit that is suspended under this subsection for nonpayment of a civil penalty or criminal fine, the Secretary shall reinstate the permit upon payment of the penalty or fine and interest thereon at the prevailing rate.
+(4) In the case of any permit that is suspended under this subsection for nonpayment of a civilpenalty or criminal fine, the Secretary shall reinstate the permit upon payment of the penalty or fine and interest thereon at the prevailing rate.
 
 (5) No sanctions shall be imposed under this subsection unless there has been prior opportunity for a hearing on the facts underlying the violation for which the sanction is imposed, either in conjunction with a civil penalty proceeding under this section or otherwise.
 
@@ -48,7 +48,7 @@ Any person against whom a civil penalty is assessed under subsection (a) of this
 
 (1) If any person fails to pay an assessment of a civil penalty after it has become a final and unappealable order, or after the appropriate court has entered final judgment in favor of the Secretary, the matter shall be referred to the Attorney General, who shall recover the amount assessed in any appropriate district court of the United States. In such action the validity and appropriateness of the final order imposing the civil penalty shall not be subject to review.
 
-(2) A high seas fishing vessel (including its fishing gear, furniture, appurtenances, stores,and cargo) used in the commission of an act prohibited by section 5505 of this title shall be liable in rem for any civil penalty assessed for such violation under subsection (a) of this section and may be proceeded against in any district court of the United States having jurisdiction thereof. Such penalty shall constitute a maritime lien on such vessel that may be recovered in an action in rem in the district court of the United States having jurisdiction over the vessel.
+(2) A high seas fishing vessel (including its fishing gear, furniture, appurtenances, stores, and cargo) used in the commission of an act prohibited by section 5505 of this title shall be liable in rem for any civil penalty assessed for such violation under subsection (a) of this section and may be proceeded against in any district court of the United States having jurisdiction thereof. Such penalty shall constitute a maritime lien on such vessel that may be recovered in an action in rem in the district court of the United States having jurisdiction over the vessel.
 
 (Pub. L. 104–43, title I, §108, Nov. 3, 1995, 109 Stat. 373.)
 

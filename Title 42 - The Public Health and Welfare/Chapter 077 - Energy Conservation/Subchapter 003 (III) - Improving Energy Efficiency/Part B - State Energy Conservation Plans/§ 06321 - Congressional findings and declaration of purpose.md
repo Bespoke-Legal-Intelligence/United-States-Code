@@ -2,7 +2,7 @@
 
 (a) The Congress finds that—
 
-&emsp;(1) the development and implementation by States of laws, policies, programs, and procedures to conserve and to improve efficiency in the use of energy will have an immediate and substantial effect in reducing the rate of growth of energy demand and in minimizing the adverse social, economic, political, and environmental impacts of increasing energy consumption;
+&emsp;(1) the development and implementation by States of laws, policies, programs, and procedures to conserve and to improve efficiency in the use of energy will have an immediate and substantial effect in reducing the rate ofgrowth of energy demand and in minimizing the adverse social, economic, political, and environmental impacts of increasing energy consumption;
 
 &emsp;(2) the development and implementation of energy conservation programs by States will most efficiently and effectively minimize any adverse economic or employment impacts of changing patterns of energy use and meet local economic, climatic, geographic, and other unique conditions and requirements of each State; and
 

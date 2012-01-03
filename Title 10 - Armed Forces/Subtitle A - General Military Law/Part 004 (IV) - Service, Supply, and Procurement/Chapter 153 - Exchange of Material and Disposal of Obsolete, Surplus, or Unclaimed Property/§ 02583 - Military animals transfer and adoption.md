@@ -6,17 +6,17 @@ Availability for Adoption.—The Secretary of the military department concerned 
 
 &emsp;(1) At the end of the animal's useful life.
 
-&emsp;(2) Before the end of the animal's useful life, if such Secretary, in such Secretary's discretion, determines that unusual or extraordinary circumstances justify making the animal available for adoption before that time.
+&emsp;(2) Before the end of the animal's useful life, if such Secretary, in such Secretary's discretion, determines that unusual or extraordinary circumstances, including circumstances under which the handler of a military working dog is killed in action, dies of wounds received in action, or is medically retired as a result of injuries received in action, justify making the animal available for adoption before that time.
 
 &emsp;(3) When the animal is otherwise excess to the needs of such military department.
 
 (b)
 
-Suitability for Adoption.—The decision whether a particular military animal is suitableor unsuitable for adoption under this section shall be made by the commander of the last unit to which the animal is assigned before being declared excess. The unit commander shall consider the recommendations of the unit's veterinarian in making the decision regarding the adoptability of the animal.
+Suitability for Adoption.—The decision whether a particular military animal is suitable or unsuitable for adoption under this section shall be made by the commander of the last unit to which the animal is assigned before being declared excess. The unit commander shall consider the recommendations of the unit's veterinarian in making the decision regarding the adoptability of the animal.
 
 (c)
 
-Authorized Recipients.—Military animals may be adopted under this section by law enforcement agencies, former handlers of these animals, and other persons capable of humanely caring for these animals.
+Authorized Recipients.—Military animals may be adopted under this section by law enforcement agencies, former handlers of these animals, and other persons capable of humanely caring for these animals. If the Secretary of the military department concerned determines that an adoption is justified under subsection (a)(2) under circumstances under which the handler of a military working dog is wounded in action, the dog may be made available for adoption only by the handler. If the Secretary of the military department concerned determines that such an adoption is justified under circumstances under which the handler of a military working dog is killed in action or dies of wounds received in action, the military working dog shall be made available for adoption only by a parent, child, spouse, or sibling of the deceased handler.
 
 (d)
 
@@ -30,19 +30,21 @@ Limitations on Liability for Transferred Animals.—(1) Notwithstanding any othe
 
 (f)
 
-Annual Report.—The Secretary of Defense shall submit to Congress an annual report specifying the number of military animals adopted under this section during the preceding year, the number of these animals currently awaiting adoption, and the number of these animals euthanized during the preceding year. With respect to each euthanized military animal, the report shall contain an explanation of the reasons why the animal was euthanized rather than retained for adoption under this section.
-
-(g)
-
 Military Animal Defined.—In this section, the term “military animal” means the following:
 
 &emsp;(1) A military working dog.
 
 &emsp;(2) A horse owned by the Department of Defense.
 
-(Added Pub. L. 106–446, §1(a), Nov. 6, 2000, 114 Stat. 1932, §2582; renumbered §2583, Pub. L. 107–107, div. A, title X, §1048(a)(25), Dec. 28, 2001, 115 Stat. 1224; amended Pub. L. 109–163, div. A, title V, §599, Jan. 6, 2006, 119 Stat. 3284; Pub. L. 109–364, div. A, title III, §352(a), Oct. 17, 2006, 120 Stat. 2160; Pub. L. 110–181, div. A, title X, §1063(a)(13), Jan. 28, 2008, 122 Stat. 322.)
+(Added Pub. L. 106–446, §1(a), Nov. 6, 2000, 114 Stat. 1932, §2582; renumbered §2583, Pub. L. 107–107, div. A, title X, §1048(a)(25), Dec. 28, 2001, 115 Stat. 1224; amended Pub. L. 109–163, div. A, title V, §599, Jan. 6, 2006, 119 Stat. 3284; Pub. L. 109–364, div. A, title III, §352(a), Oct. 17, 2006, 120 Stat. 2160; Pub. L. 110–181, div. A, title X, §1063(a)(13), Jan. 28, 2008, 122 Stat. 322; Pub. L. 112–81, div. A, title III, §351, title X, §1061(20), Dec. 31, 2011, 125 Stat. 1375, 1584.)
 
 #### Amendments
+
+<b>2011</b>—Subsec. (a)(2). Pub. L. 112–81, §351(1), inserted “, including circumstances under which the handler of a military working dog is killed in action, dies of wounds received in action, or is medically retired as a result of injuries received in action,” after “extraordinary circumstances”.
+
+Subsec. (c). Pub. L. 112–81, §351(2), inserted at end “If the Secretary of the military department concerned determines that an adoption is justified under subsection (a)(2) under circumstances under which the handler of a military working dog is wounded in action, the dog may be made available for adoption only by the handler. If the Secretary of the military department concerned determines that such an adoption is justified under circumstances under which the handler of a military working dog is killed in action or dies of wounds received in action, the military working dog shall be made available for adoption only by a parent, child, spouse, or sibling of the deceased handler.”.
+
+Subsecs. (f), (g). Pub. L. 112–81, §1061(20), redesignated subsec. (g) as (f) and struck out former subsec. (f). Prior to amendment, text of subsec. (f) read as follows: “The Secretary of Defense shall submit to Congress an annual report specifying the number of military animals adopted under this section during the preceding year, the number of these animals currently awaiting adoption, and the number of these animals euthanized during the preceding year. With respect to each euthanized military animal, the report shall contain an explanation of the reasons why the animal was euthanized rather than retained for adoption under this section.”
 
 <b>2008</b>—Subsec. (e). Pub. L. 110–181 substituted “
 

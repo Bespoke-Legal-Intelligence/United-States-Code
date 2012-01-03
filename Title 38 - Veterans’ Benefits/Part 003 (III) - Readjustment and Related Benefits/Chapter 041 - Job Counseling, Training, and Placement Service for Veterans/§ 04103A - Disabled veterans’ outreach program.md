@@ -2,7 +2,7 @@
 
 (a)
 
-Requirement for Employment by States of a Sufficient Number of Specialists.—(1) Subject to approval by the Secretary, a State shall employ such full- or part-time disabled veterans’ outreach program specialists as the State determines appropriate and efficient to carry out intensive services under this chapter to meet the employment needs of eligible veterans with the following priority in the provision of services:
+Requirement for Employment by States of a Sufficient Number of Specialists.—(1) Subject to approval by the Secretary, a State shall employ such full- or part-time disabled veterans’ outreach program specialists as the State determines appropriate and efficient to carry out intensive services and facilitate placements under this chapter to meet the employment needs of eligible veterans with the following priority in the provision of services:
 
 &emsp;(A) Special disabled veterans.
 
@@ -12,6 +12,8 @@ Requirement for Employment by States of a Sufficient Number of Specialists.—(1
 
 (2) In the provision of services in accordance with this subsection, maximum emphasis in meeting the employment needs of veterans shall be placed on assisting economically or educationally disadvantaged veterans.
 
+(3) In facilitating placement of a veteran under this program, a disabled veterans’ outreach program specialist shall help to identify job opportunities that are appropriate for the veteran's employment goals and assist that veteran in developing a cover letter and resume that are targeted for those particular jobs.
+
 (b)
 
 Requirement for Qualified Veterans.—A State shall, to the maximum extent practicable, employ qualified veterans to carry out the services referred to in subsection (a). Preference shall be given in the appointment of such specialists to qualified disabled veterans.
@@ -20,9 +22,21 @@ Requirement for Qualified Veterans.—A State shall, to the maximum extent pract
 
 Part-Time Employees.—A part-time disabled veterans’ outreach program specialist shall perform the functions of a disabled veterans’ outreach program specialist under this section on a half-time basis.
 
-(Added Pub. L. 96–466, title V, §506(a), Oct. 17, 1980, 94 Stat. 2204, §2003A; amended Pub. L. 97–306, title III, §305, Oct. 14, 1982, 96 Stat. 1439; Pub. L. 100–323, §§2(e)(1), 7(b), 15(c)(1), May 20, 1988, 102 Stat. 559, 565, 574; Pub. L. 101–237, title IV, §423(b)(8), Dec. 18, 1989, 103 Stat. 2093; renumbered §4103A and amended Pub. L. 102–83, §§2(c)(4), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 402, 406; Pub. L. 102–568, title V, §§501, 503, Oct. 29, 1992, 106 Stat. 4340; Pub. L. 103–446, title VII, §701(b), Nov. 2, 1994, 108 Stat. 4674; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(29)(B), (f)(21)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–424, 2681–432; Pub. L. 105–368, title X, §1004(a), Nov. 11, 1998, 112 Stat. 3364; Pub. L. 107–95, §9(a), Dec. 21, 2001, 115 Stat. 920; Pub. L. 107–288, §4(b)(1), Nov. 7, 2002, 116 Stat. 2043; Pub. L. 109–461, title VI, §602(a), Dec. 22, 2006, 120 Stat. 3437.)
+(d)
+
+Additional Requirement for Full-time Employees.—(1) A full-time disabled veterans’ outreach program specialist shall perform only duties related to meeting the employment needs of eligible veterans, as described in subsection (a), and shall not perform other non-veteran-related duties that detract from the specialist's ability to perform the specialist's duties related to meeting the employment needs of eligible veterans.
+
+(2) The Secretary shall conduct regular audits to ensure compliance with paragraph (1). If, on the basis of such an audit, the Secretary determines that a State is not in compliance with paragraph (1), the Secretary may reduce the amount of a grant made to the State under section 4102A(b)(5) of this title.
+
+(Added Pub. L. 96–466, title V, §506(a), Oct. 17, 1980, 94 Stat. 2204, §2003A; amended Pub. L. 97–306, title III, §305, Oct. 14, 1982, 96 Stat. 1439; Pub. L. 100–323, §§2(e)(1), 7(b), 15(c)(1), May 20, 1988, 102 Stat. 559, 565, 574; Pub. L. 101–237, title IV, §423(b)(8), Dec. 18, 1989, 103 Stat. 2093; renumbered §4103A and amended Pub. L. 102–83, §§2(c)(4), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 402, 406; Pub. L. 102–568, title V, §§501, 503, Oct. 29, 1992, 106 Stat. 4340; Pub. L. 103–446, title VII, §701(b), Nov. 2, 1994, 108 Stat. 4674; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(29)(B), (f)(21)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–424, 2681–432; Pub. L. 105–368, title X, §1004(a), Nov. 11, 1998, 112 Stat. 3364; Pub. L. 107–95, §9(a), Dec. 21, 2001, 115 Stat. 920; Pub. L. 107–288, §4(b)(1), Nov. 7, 2002, 116 Stat. 2043; Pub. L. 109–461, title VI, §602(a), Dec. 22, 2006, 120 Stat. 3437; Pub. L. 112–56, title II, §§234(b), 241(a), Nov. 21, 2011, 125 Stat. 722, 728.)
 
 #### Amendments
+
+<b>2011</b>—Subsec. (a)(1). Pub. L. 112–56, §234(b)(1), inserted “and facilitate placements” after “intensive services” in introductory provisions.
+
+Subsec. (a)(3). Pub. L. 112–56, §234(b)(2), added par. (3).
+
+Subsec. (d). Pub. L. 112–56, §241(a), added subsec. (d).
 
 <b>2006</b>—Subsec. (c). Pub. L. 109–461 added subsec. (c).
 
@@ -54,7 +68,7 @@ Subsec. (c)(2). Pub. L. 102–83, §5(c)(1), substituted “3687” for “1787�
 
 <b>1989</b>—Subsecs. (b)(2), (c)(2), (3), (8). Pub. L. 101–237 substituted “Secretary of Veterans Affairs” and “Department of Veterans Affairs” for “Administrator” and “Veterans’ Administration”, respectively, wherever appearing.
 
-<b>1988</b>—Subsec. (a)(1). Pub. L. 100–323, §2(e)(1)(A)(i), (ii), redesignated par. (2) as (1), substituted “The amount of funds made available for use in a State under section 2002A(b)(5)(A)(i) of this title shall be sufficient to support the appointment of one disabled veterans’ outreach program specialist for each 5,300 veterans of the Vietnam era and disabled veterans residing in such State.” for “Funds provided for use in a State under this subsection shall be sufficient to support the appointment of one disabled veterans’ outreach program specialist for each 5,300 veterans of the Vietnam era and disabled veterans residing in such State.”, inserted “qualified” before “veteran” in second sentence, inserted “qualified” before “disabled” wherever appearing in third, fourth, and fifth sentences, inserted “qualified” after “any” in fifth sentence, and struck out former par. (1) which read as follows: “The Secretary of Labor, acting through the Assistant Secretary for Veterans’ Employment, shall make availablefor use in each State, directly or by grant or contract, such funds as may be necessary to support a disabled veterans’ outreach program designed to meet the employment needs of veterans, especially disabled veterans of the Vietnam era.”
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–323, §2(e)(1)(A)(i), (ii), redesignated par. (2) as (1), substituted “The amount of funds made available for use in a State under section 2002A(b)(5)(A)(i) of this title shall be sufficient to support the appointment of one disabled veterans’ outreach program specialist for each 5,300 veterans of the Vietnam era and disabled veterans residing in such State.” for “Funds provided for use in a State under this subsection shall be sufficient to support the appointment of one disabled veterans’ outreach program specialist for each 5,300 veterans of the Vietnam era and disabled veterans residing in such State.”, inserted “qualified” before “veteran” in second sentence, inserted “qualified” before “disabled” wherever appearing in third, fourth, and fifth sentences, inserted “qualified” after “any” in fifth sentence, and struck out former par. (1) which read as follows: “The Secretary of Labor, acting through the Assistant Secretary for Veterans’ Employment, shall make available for use in each State, directly or by grant or contract, such funds as may be necessary to support a disabled veterans’ outreach program designed to meet the employment needs of veterans, especially disabled veterans of the Vietnam era.”
 
 Subsec. (a)(2). Pub. L. 100–323, §2(e)(1)(A)(i), (iii), redesignated par. (4) as (2) and struck out “paragraph (2) of” after “appointed pursuant to”. Former par. (2) redesignated (1).
 
@@ -62,7 +76,7 @@ Subsec. (a)(3). Pub. L. 100–323, §2(e)(1)(A)(i), struck out par. (3) which re
 
 Subsec. (a)(4). Pub. L. 100–323, §2(e)(1)(A)(i), redesignated par. (4) as (2).
 
-Subsec. (a)(5). Pub. L. 100–323, §2(e)(1)(A)(i), struck out par. (5) which read as follows: “The distribution and use of funds provided for use in States under this section shall be subject to the continuing supervision and monitoring of the Assistant Secretary for Veterans’ Employment and shall not be governed by the provisions of any other law, or any regulations prescribed thereunder, that are inconsistent with this section.”
+Subsec. (a)(5). Pub. L. 100–323, §2(e)(1)(A)(i), struck out par. (5) which read as follows: “The distributionand use of funds provided for use in States under this section shall be subject to the continuing supervision and monitoring of the Assistant Secretary for Veterans’ Employment and shall not be governed by the provisions of any other law, or any regulations prescribed thereunder, that are inconsistent with this section.”
 
 Subsec. (b)(2). Pub. L. 100–323, §15(c)(1), substituted “Director for Veterans’ Employment and Training” for “State Director for Veterans’ Employment”.
 

@@ -110,7 +110,7 @@ Regulations.—The Office of Personnel Management shall prescribe any regulation
 
 &emsp;“(2) it is accompanied by payment of an amount equal to, with respect to all prior service of such employee which is described in subsection (b)(2)—
 
-&emsp;&emsp;“(A) the employee deductions that would have been required for such service under chapter 83 or 84 of title 5, U.S.C. (as the case may be) if such election had then been in effect, minus
+&emsp;&emsp;“(A) the employee deductions that would have been required for such service under chapter 83 or 84of title 5, U.S.C. (as the case may be) if such election had then been in effect, minus
 
 &emsp;&emsp;“(B) the total employee deductions and contributions under such chapter 83 and 84 (as applicable) that were actually made for such service,
 

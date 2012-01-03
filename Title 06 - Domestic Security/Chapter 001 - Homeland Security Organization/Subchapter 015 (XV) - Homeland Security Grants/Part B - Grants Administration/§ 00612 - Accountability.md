@@ -160,7 +160,7 @@
 
 #### (B) Duration of penalty
 
-&emsp;&emsp;The Administrator shall apply an appropriate penalty under subparagraph (A) until such time as the Administrator determines that the grant recipient is in full compliance with the law and with applicable guidelines or regulations of the Department.
+&emsp;&emsp;The Administrator shall apply an appropriate penalty under subparagraph (A) until such time as the Administrator determinesthat the grant recipient is in full compliance with the law and with applicable guidelines or regulations of the Department.
 
 #### (b) Reports by grant recipients
 
@@ -242,5 +242,5 @@ Section 2(h) of the Improper Payments Elimination and Recovery Act of 2010, refe
 
 #### Amendments
 
-2010—Subsec. (a)(6). Pub. L. 111–204 substituted “under section 2(h) of the Improper Payments Elimination and Recovery Act of 2010 (31 U.S.C. 3321 note)” for “(as that term is defined by the Director of the Office of Management and Budget under section 3561 of title 31)”.
+<b>2010</b>—Subsec. (a)(6). Pub. L. 111–204 substituted “under section 2(h) of the Improper Payments Elimination and Recovery Act of 2010 (31 U.S.C. 3321 note)” for “(as that term is defined by the Director of the Office of Management and Budget under section 3561 of title 31)”.
 

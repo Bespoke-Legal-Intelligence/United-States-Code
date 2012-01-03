@@ -44,7 +44,7 @@
 
 #### (D) Hearings
 
-&emsp;&emsp;In any hearing or appeal involving a decision to reassume operation of a program, service, function, or activity (or portion thereof), the Secretary shall have the burdenof proof of demonstrating by clear and convincing evidence the validity of the grounds for the reassumption.
+&emsp;&emsp;In any hearing or appeal involving a decision to reassume operation of a program, service, function, or activity (or portion thereof), the Secretary shall have the burden of proof of demonstrating by clear and convincing evidence the validity of the grounds for the reassumption.
 
 #### (b) Final offer
 

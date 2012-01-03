@@ -32,7 +32,7 @@ Each comprehensive enhancement plan shall include such standards, restrictions, 
 
 #### (e) Approval
 
-(1) The Secretary, in consultation with the Secretary of Commerce, shall review each comprehensive enhancement plan and approve such plan within 120 days of the date of its receipt, if found to be consistent with this chapter and other applicable law. If the Secretary, in consultation with the Secretary of Commerce, finds that a plan is not in conformity with the provisions of this chapter or other applicable law, he shall return such plan to the State of Washington or the State of Oregon, or both, as appropriate, and the appropriate tribal coordinating body with recommendations.
+(1) The Secretary, in consultation with the Secretary of Commerce, shall review each comprehensive enhancement plan and approve such plan within 120 days of the date of its receipt, iffound to be consistent with this chapter and other applicable law. If the Secretary, in consultation with the Secretary of Commerce, finds that a plan is not in conformity with the provisions of this chapter or other applicable law, he shall return such plan to the State of Washington or the State of Oregon, or both, as appropriate, and the appropriate tribal coordinating body with recommendations.
 
 (2) Upon receiving such a plan, the Secretary, in consultation with the Secretary of Commerce, shall—
 
@@ -40,7 +40,7 @@ Each comprehensive enhancement plan shall include such standards, restrictions, 
 
 &emsp;(B) provide a copy of the plan to the Pacific Fishery Management Council and, upon request, to any other interested person or group, and solicit and consider the comments and views of such persons or groups with respect to the plan;
 
-&emsp;(C) undertake a biological and technical review of the plan, in consultation with individuals who are knowledgeable with regard to the management, conservation, enhancement, andharvest of the salmon and steelhead resources of the area;
+&emsp;(C) undertake a biological and technical review of the plan, in consultation with individuals who are knowledgeable with regard to the management, conservation, enhancement, and harvest of the salmon and steelhead resources of the area;
 
 &emsp;(D) provide a copy of the plan to and consult with the Secretary of State and the Secretary of Commerce, with respect to the effect of such plan on any international fisheries; and
 

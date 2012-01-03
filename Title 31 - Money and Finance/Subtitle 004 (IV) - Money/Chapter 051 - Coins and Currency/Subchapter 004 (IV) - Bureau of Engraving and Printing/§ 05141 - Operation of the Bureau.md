@@ -4,7 +4,7 @@
 
 (b)(1) The Secretary shall maintain in the Bureau an integrated accounting system with internal controls that—
 
-&emsp;(A) ensures adequate control over assets and liabilities of the Bureau of Engraving and Printing Fund described in section 5142 of this title;
+&emsp;(A) ensures adequate control over assets and liabilities of the Bureau of Engraving andPrinting Fund described in section 5142 of this title;
 
 &emsp;(B) develops accurate production costs to enable the Bureau to recover those costs on the basis of the work requisitioned;
 

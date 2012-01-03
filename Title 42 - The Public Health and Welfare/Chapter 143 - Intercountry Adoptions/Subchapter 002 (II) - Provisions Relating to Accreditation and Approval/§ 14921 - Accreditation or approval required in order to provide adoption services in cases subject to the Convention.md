@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Except as otherwise provided in this subchapter, no person may offer or provide adoption services in connection with a Convention adoption in the United States unless that person—
+Except as otherwise provided in this subchapter, no person may offer or provide adoptionservices in connection with a Convention adoption in the United States unless that person—
 
 &emsp;(1) is accredited or approved in accordance with this subchapter; or
 

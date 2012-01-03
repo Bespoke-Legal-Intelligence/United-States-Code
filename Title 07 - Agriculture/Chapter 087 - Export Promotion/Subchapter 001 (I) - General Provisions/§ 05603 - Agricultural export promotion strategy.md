@@ -52,9 +52,9 @@ The strategy developed under subsection (a) of this section shall have the follo
 
 #### Amendments
 
-1996—Pub. L. 104–127 amended section generally, substituting present provisions for provisions requiring development of long-term agricultural trade strategy and providing for goals and contents of strategy, establishment of priority markets, review of strategy, confidentiality, withholding of information from Congress, and termination of section on Dec. 31, 1995.
+<b>1996</b>—Pub. L. 104–127 amended section generally, substituting present provisions for provisions requiring development of long-term agricultural trade strategy and providing for goals and contents of strategy, establishment of priority markets, review of strategy, confidentiality, withholding of information from Congress, and termination of section on Dec. 31, 1995.
 
-1991—Subsec. (d)(2). Pub. L. 102–237 inserted a closing parenthesis before period at end.
+<b>1991</b>—Subsec. (d)(2). Pub. L. 102–237 inserted a closing parenthesis before period at end.
 
 #### Prohibition on Use of Funds for Promotion of Tobacco or Tobacco Products
 

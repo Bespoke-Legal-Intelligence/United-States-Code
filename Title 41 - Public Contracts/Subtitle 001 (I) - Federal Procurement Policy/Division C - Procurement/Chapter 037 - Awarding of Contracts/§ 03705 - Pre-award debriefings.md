@@ -24,7 +24,7 @@ Information To Be Provided.—The debriefing conducted under this section shall 
 
 (e)
 
-Information Not To Be Disclosed.—The debriefing conducted pursuant to this section may not disclose the number or identity ofother offerors and shall not disclose information about the content, ranking, or evaluation of other offerors’ proposals.
+Information Not To Be Disclosed.—The debriefing conducted pursuant to this section may not disclose the number or identity of other offerors and shall not disclose information about the content, ranking, or evaluation of other offerors’ proposals.
 
 (f)
 

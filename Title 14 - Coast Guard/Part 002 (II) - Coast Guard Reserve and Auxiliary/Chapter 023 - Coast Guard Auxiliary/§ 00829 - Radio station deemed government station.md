@@ -12,7 +12,7 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### Amendments
 
-1986—Pub. L. 99–640 substituted “section” for “Section”.
+<b>1986</b>—Pub. L. 99–640 substituted “section” for “Section”.
 
-1976—Pub. L. 94–546 substituted “Section 305 of the Communications Act of 1934 (47 U.S.C. 305)” for “chapter 5, of Title 47”.
+<b>1976</b>—Pub. L. 94–546 substituted “Section 305 of the Communications Act of 1934 (47 U.S.C. 305)” for “chapter 5, of Title 47”.
 

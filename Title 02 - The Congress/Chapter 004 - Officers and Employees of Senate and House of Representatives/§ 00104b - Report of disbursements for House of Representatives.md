@@ -60,7 +60,7 @@ Provisions similar to those in this section are contained in section 104a of thi
 
 #### Reporting Payments Made to Witnesses Before Committee on Standards of Official Conduct
 
-Pub. L. 105–275, title I, §105, Oct. 21, 1998, 112 Stat. 2439, provided that: “Notwithstanding any other provision of law or any other rule or regulation, any information on payments made by the Committee on Standards of Official Conduct of the House of Representatives to an individual for attendance as a witness before the Committee in executive session during a Congress shall be reported not later than the second semiannual report filed under section 106 of the House of Representatives Administrative Reform Technical Corrections Act (2 U.S.C. 104b) in the following Congress.”
+Pub. L. 105–275, title I, §105, Oct. 21, 1998, 112 Stat. 2439, provided that: “Notwithstanding any other provision of law or any other rule or regulation, any information on payments made by the Committee on Standards of Official Conduct \[now Committee on Ethics\] of the House of Representatives to an individual for attendance as a witness before the Committee in executive session during a Congress shall be reported not later than the second semiannual report filed under section 106 of the House of Representatives Administrative Reform Technical Corrections Act (2 U.S.C. 104b) in the following Congress.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

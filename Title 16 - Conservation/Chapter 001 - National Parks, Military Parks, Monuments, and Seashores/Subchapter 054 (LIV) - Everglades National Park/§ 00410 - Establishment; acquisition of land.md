@@ -64,7 +64,7 @@ Miccosukee reserved area; mra.—
 
 &emsp;&emsp;“(A)
 
-In general.—The term ‘Miccosukee Reserved Area’ or ‘MRA’ means, notwithstanding any other provision of law and subject to the limitations specified in section 6(d) of this Act, the portion of the Everglades National Park described insubparagraph (B) that is depicted on the map entitled ‘Miccosukee Reserved Area’ numbered NPS–160/41,038, and dated September 30, 1998, copies of which shall be kept available for public inspection in the offices of the National Park Service, Department of the Interior, and shall be filed with appropriate officers of Miami-Dade County and the Miccosukee Tribe of Indians of Florida.
+In general.—The term ‘Miccosukee Reserved Area’ or ‘MRA’ means, notwithstanding any other provision of law and subject to the limitations specified in section 6(d) of this Act, the portion of the Everglades National Park described in subparagraph (B) that is depicted on the map entitled ‘Miccosukee Reserved Area’ numbered NPS–160/41,038, and dated September 30, 1998, copies of which shall be kept available for public inspection in the offices of the National Park Service, Department of the Interior, and shall be filed with appropriate officers of Miami-Dade County and the Miccosukee Tribe of Indians of Florida.
 
 &emsp;&emsp;“(B)
 
@@ -184,7 +184,7 @@ Prevention of significant propagation of exotic plants and animals.—The Tribe 
 
 &emsp;&emsp;“(D)
 
-Public access to certain areas of the park.—The Tribe shall not impede public access to those areas of the Park outside the boundaries of the MRA, and to and from the Big Cypress National Preserve, except that the Tribe shall not be required to allow individuals who are not members ofthe Tribe access to the MRA other than Federal employees, agents, officers, and officials (as provided in this Act).
+Public access to certain areas of the park.—The Tribe shall not impede public access to those areas of the Park outside the boundaries of the MRA, and to and from the Big Cypress National Preserve, except that the Tribe shall not be required to allow individuals who are not members of the Tribe access to the MRA other than Federal employees, agents, officers, and officials (as provided in this Act).
 
 &emsp;&emsp;“(E)
 
@@ -320,7 +320,7 @@ Description.—The description referred to in subparagraph (A)(ii) is as follows
 
 &emsp;&emsp;&emsp;“(ii) Easement number 2, being 443 feet wide with western boundary 3,637 feet, and eastern boundary 4,080 feet, east of the western boundary of the MRA.
 
-&emsp;&emsp;&emsp;“(iii) Easement number 3, being 320 feet wide with western boundary 5,380 feet, and easternboundary 5,700 feet, east of the western boundary of the MRA.
+&emsp;&emsp;&emsp;“(iii) Easement number 3, being 320 feet wide with western boundary 5,380 feet, and eastern boundary 5,700 feet, east of the western boundary of the MRA.
 
 &emsp;&emsp;&emsp;“(iv) Easement number 4, being 290 feet wide with western boundary 6,020 feet, and eastern boundary 6,310 feet, east of the western boundary of the MRA.
 
@@ -462,7 +462,7 @@ United states held harmless.—
 
 &emsp;&emsp;“(A)
 
-In general.—Subject to subparagraph (B) with respect to any tribal member, tribal employee, tribal contractor, tribal enterprise, or any personresiding within the MRA, notwithstanding any other provision of law, the United States (including an officer, agent, or employee of the United States), shall not be liable for any action or failure to act by the Tribe (including an officer, employee, or member of the Tribe), including any failure to perform any of the obligations of the Tribe under this Act.
+In general.—Subject to subparagraph (B) with respect to any tribal member, tribal employee, tribal contractor, tribal enterprise, or any person residing within the MRA, notwithstanding any other provision of law, the United States (including an officer, agent, or employee of the United States), shall not be liable for any action or failure to act by the Tribe (including an officer, employee, or member of the Tribe), including any failure to perform any of the obligations of the Tribe under this Act.
 
 &emsp;&emsp;“(B)
 

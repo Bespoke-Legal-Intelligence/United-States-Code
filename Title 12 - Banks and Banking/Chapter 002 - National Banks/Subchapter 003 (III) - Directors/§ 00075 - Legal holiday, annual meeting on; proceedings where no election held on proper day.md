@@ -10,7 +10,7 @@ R.S. §5149 derived from act June 3, 1864, ch. 106, §10, 13 Stat. 102, which wa
 
 #### Amendments
 
-1963—Pub. L. 88–232 substituted “bylaws” for “articles of association”.
+<b>1963</b>—Pub. L. 88–232 substituted “bylaws” for “articles of association”.
 
-1959—Pub. L. 86–230 provided that when the day fixed for the regular annual meeting of the shareholders falls on a legal holiday, the meeting shall be held on the next following banking day and authorized election of directors to be held within sixty days of a fixed dayupon ten days’ notice to the shareholders by first-class mail instead of upon thirty days’ notice in newspaper and at a date designated in the articles or bylaws or by the shareholders.
+<b>1959</b>—Pub. L. 86–230 provided that when the day fixed for the regular annual meeting of the shareholders falls on a legal holiday, the meeting shall be held on the next following banking day and authorized election of directors to be held within sixty days of a fixed day upon ten days’ notice to the shareholders by first-class mail instead of upon thirty days’ notice in newspaper and at a date designated in the articles or bylaws or by the shareholders.
 

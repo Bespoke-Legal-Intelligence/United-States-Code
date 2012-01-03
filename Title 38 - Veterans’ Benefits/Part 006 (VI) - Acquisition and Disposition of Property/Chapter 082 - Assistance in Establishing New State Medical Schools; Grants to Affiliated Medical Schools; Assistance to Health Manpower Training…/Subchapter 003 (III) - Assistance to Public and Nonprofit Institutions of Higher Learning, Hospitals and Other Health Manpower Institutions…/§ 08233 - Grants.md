@@ -8,7 +8,7 @@
 
 &emsp;(2) the application contains or is supported by adequate assurance that any Federal funds made available under this subchapter will be supplemented by funds or other resources available from other sources, whether public or private;
 
-&emsp;(3) the application sets forth such fiscal control and accounting procedures as may be necessary to assure proper disbursement of, andaccounting for, Federal funds expended under this subchapter; and
+&emsp;(3) the application sets forth such fiscal control and accounting procedures as may be necessary to assure proper disbursement of, and accounting for, Federal funds expended under this subchapter; and
 
 &emsp;(4) the application provides for making such reports, in such form and containing such information, as the Secretary may require to carry out the Secretary's functions under this subchapter, and for keeping such records and for affording such access thereto as the Secretary may find necessary to assure the correctness and verification of such reports.
 

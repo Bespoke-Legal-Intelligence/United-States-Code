@@ -10,7 +10,7 @@ As used in this section—
 
 &emsp;&emsp;(B) the Corporation, with respect to residential mortgage loans and mortgage-backed securities held by any bridge depository institution pursuant to section 1821(n) of this title; and
 
-&emsp;&emsp;(C) the Board, with respect to any mortgage or mortgage-backed securities or pool of securities held, owned, or controlled by or on behalf of a Federal reserve bank, other than mortgages or securities held, owned, or controlled in connection with open market operations under sections 348a and 353 to 359of this title,<sup>1</sup> or as collateral for an advance or discount that is not in default;
+&emsp;&emsp;(C) the Board, with respect to any mortgage or mortgage-backed securities or pool of securities held, owned, or controlled by or on behalf of a Federal reserve bank, other than mortgages or securities held, owned, or controlled in connection with open market operations under sections 348a and 353 to 359 of this title,<sup>1</sup> or as collateral for an advance or discount that is not in default;
 
 &emsp;(2) the term “consumer” has the same meaning as in section 1602 of title 15;
 
@@ -74,7 +74,7 @@ Sections 348a and 353 to 359 of this title, referred to in subsec. (a)(1)(C), wa
 
 #### Effect of Foreclosure on Preexisting Tenancy
 
-Pub. L. 111–22, div. A, title VII, §702, May 20, 2009, 123 Stat. 1660, provided that:
+Pub. L. 111–22, div. A, title VII, §702, May 20, 2009, 123 Stat. 1660, as amended by Pub. L. 111–203, title XIV, §1484(1), July 21, 2010, 124 Stat. 2204, provided that:
 
 “(a)
 
@@ -104,7 +104,9 @@ Bona Fide Lease or Tenancy.—For purposes of this section, a lease or tenancy s
 
 Definition.—For purposes of this section, the term ‘federally-related mortgage loan’ has the same meaning as in section 3 of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2602).”
 
-\[Section 702 of Pub. L. 111–22, set out above, repealed Dec. 31, 2012, see section 704 of Pub. L. 111–22, set out as a Termination Date of 2009 Amendment note under section 1437f of Title 42, The Public Health and Welfare.\]
+\[Pub. L. 111–203, title XIV, §§1400(c), 1484(1), July 21, 2010, 124 Stat. 2136, 2204, provided that, section 702 of Pub. L. 111–22, set out above, is amended, effective on the date on which final regulations implementing such amendment take effect, or on the date that is 18 months after the designated transfer date (defined in section 1495 of Pub. L. 111–203, set out as a note under section 1601 of Title 15, Commerce and Trade) if such regulations have not been issued by that date, in subsection (a)(2), by striking “, as of the date of such notice of foreclosure” and, in subsection (c), by inserting after the period the following: “For purposes of this section, the date of a notice of foreclosure shall be deemed to be the date on which complete title to a property is transferred to a successor entity or person as a result of an order of a court or pursuant to provisions in a mortgage, deed of trust, or security deed.”\]
+
+\[Section 702 of Pub. L. 111–22, set out above, repealed Dec. 31, 2014, see section 704 of Pub. L. 111–22, set out as a Termination Date of 2009 Amendment note under section 1437f of Title 42, The Public Health and Welfare.\]
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

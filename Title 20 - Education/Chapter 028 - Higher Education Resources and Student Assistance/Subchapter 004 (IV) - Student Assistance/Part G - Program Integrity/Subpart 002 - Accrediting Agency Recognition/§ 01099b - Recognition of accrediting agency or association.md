@@ -18,7 +18,7 @@ No accrediting agency or association may be determined by the Secretary to be a 
 
 &emsp;(3) if such agency or association is an agency or association described in—
 
-&emsp;&emsp;(A) subparagraph (A)(i) of paragraph (2), then such agency or association is separate and independent, both administratively and financially of any related, associated, or affiliated trade association or membership organization;
+&emsp;&emsp;(A) subparagraph (A)(i) of paragraph (2), then such agency or association is separateand independent, both administratively and financially of any related, associated, or affiliated trade association or membership organization;
 
 &emsp;&emsp;(B) subparagraph (B) of paragraph (2), then such agency or association has been recognized by the Secretary on or before October 1, 1991; or
 
@@ -76,7 +76,7 @@ No accrediting agency or association may be determined by the Secretary to be a 
 
 &emsp;&emsp;(C) upon the written request of an institution or program, for an opportunity for the institution or program to appeal any adverse action under this section, including denial, withdrawal, suspension, or termination of accreditation, taken against the institution or program, prior to such action becoming final at a hearing before an appeals panel that—
 
-&emsp;&emsp;&emsp;(i) shall not include current members of the agency's or association's underlying decisionmaking body that made the adverse decision; and
+&emsp;&emsp;&emsp;(i) shall not include current members of the agency's or association's underlyingdecisionmaking body that made the adverse decision; and
 
 &emsp;&emsp;&emsp;(ii) is subject to a conflict of interest policy;
 
@@ -122,7 +122,7 @@ No accrediting agency or association may be recognized by the Secretary as a rel
 
 &emsp;(4) requires that any institution of higher education subject to its jurisdiction which plans to establish a branch campus submit a business plan, including projected revenues and expenditures, prior to opening the branch campus;
 
-&emsp;(5) agrees to conduct, as soon as practicable, but within a period of not more than 6 months of the establishment of a new branch campus or a change of ownership of an institution ofhigher education, an on-site visit of that branch campus or of the institution after a change of ownership;
+&emsp;(5) agrees to conduct, as soon as practicable, but within a period of not more than 6 months of the establishment of a new branch campus or a change of ownership of an institution of higher education, an on-site visit of that branch campus or of the institution after a change of ownership;
 
 &emsp;(6) requires that teach-out agreements among institutions are subject to approval by the accrediting agency or association consistent with standards promulgated by such agency or association;
 
@@ -178,7 +178,7 @@ An institution may not be certified or recertified as an institution of higher e
 
 #### (k) Religious institution rule
 
-Notwithstanding subsection (j) of this section, the Secretary shall allow an institution that has had its accreditation withdrawn, revoked, or otherwise terminated, or has voluntarily withdrawn from an accreditation agency, to remain certified as an institution of higher educationunder section 1002 of this title and subpart 3 of this part for a period sufficient to allow such institution to obtain alternative accreditation, if the Secretary determines that the reason for the withdrawal, revocation, or termination—
+Notwithstanding subsection (j) of this section, the Secretary shall allow an institution that has had its accreditation withdrawn, revoked, or otherwise terminated, or has voluntarily withdrawn from an accreditation agency, to remain certified as an institution of higher education under section 1002 of this title and subpart 3 of this part for a period sufficient to allow such institution to obtain alternative accreditation, if the Secretary determines that the reason for the withdrawal, revocation, or termination—
 
 &emsp;(1) is related to the religious mission or affiliation of the institution; and
 
@@ -224,7 +224,7 @@ The Secretary shall by regulation provide procedures for the recognition of accr
 
 Nothing in subsection (a)(5) shall be construed to restrict the ability of—
 
-&emsp;(1) an accrediting agency or association to set, with the involvement of its members, andto apply, accreditation standards for or to institutions or programs that seek review by the agency or association; or
+&emsp;(1) an accrediting agency or association to set, with the involvement of its members, and to apply, accreditation standards for or to institutions or programs that seek review by the agency or association; or
 
 &emsp;(2) an institution to develop and use institutional standards to show its success with respect to student achievement, which achievement may be considered as part of any accreditation review.
 

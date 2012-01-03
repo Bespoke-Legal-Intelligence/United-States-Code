@@ -34,7 +34,7 @@ Section is comprised of pars. 6 and 7 (undesignated) of section 25A of act Dec. 
 
 #### Amendments
 
-1978—Subsec. (a). Pub. L. 95–369, §3(d), struck out “, but in no event having liabilities outstanding thereon at any one time exceeding ten times its capital stock and surplus” after “under such general conditions as to security and such limitations as the Board of Governors of the Federal Reserve System may prescribe”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–369, §3(d), struck out “, but in no event having liabilities outstanding thereon at any one time exceeding ten times its capital stock and surplus” after “under such general conditions as to security and such limitations as the Board of Governors of the Federal Reserve System may prescribe”.
 
 Pub. L. 95–369, §3(e), which directed substituting “for member banks of the Federal Reserve System” for “, but in no event less than ten per centum of its deposits,” in the third sentence, was executed by making the substitution for “, but in no event less than 10 per centum of its deposits” to reflect the probable intent of Congress.
 

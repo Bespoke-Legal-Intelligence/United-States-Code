@@ -60,19 +60,19 @@ Paragraph (3), referred to in subsec. (a)(1), was repealed by Pub. L. 104–127,
 
 #### Amendments
 
-1996—Subsec. (a)(3). Pub. L. 104–127, §661(g), struck out par. (3) which read as follows: “The interest rate on any loan (other than a guaranteed loan) made or insured under clause (5) of section 1942(a) of this title for activities that involve the use of prime farmland as defined in section 1927(a)(6)(C) of this title shall be the interest rate otherwise applicable under this section increased by 2 per centum per annum.”
+<b>1996</b>—Subsec. (a)(3). Pub. L. 104–127, §661(g), struck out par. (3) which read as follows: “The interest rate on any loan (other than a guaranteed loan) made or insured under clause (5) of section 1942(a) of this title for activities that involve the use of prime farmland as defined in section 1927(a)(6)(C) of this title shall be the interest rate otherwise applicable under this section increased by 2 per centum per annum.”
 
 Subsec. (c). Pub. L. 104–127, §614, added subsec. (c).
 
-1990—Subsec. (a)(2). Pub. L. 101–624 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The interest rate on any loan (other than a guaranteed loan) to a low-income, limited resource borrower under this subchapter shall be the interest rate otherwise applicable under this section reduced by 3 per centum per annum.”
+<b>1990</b>—Subsec. (a)(2). Pub. L. 101–624 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The interest rate on any loan (other than a guaranteed loan) to a low-income, limited resource borrower under this subchapter shall be the interest rate otherwise applicable under this section reduced by 3 per centum per annum.”
 
-1984—Subsec. (b). Pub. L. 98–258 inserted “(or, in the case of loans for farm operating purposes, fifteen years)” and substituted “Except as otherwise provided for farm loans under section 1981b of this title, the interest rate” for “The interest rate”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–258 inserted “(or, in the case of loans for farm operating purposes, fifteen years)” and substituted “Except as otherwise provided for farm loans under section 1981b of this title, the interest rate” for “The interest rate”.
 
-1981—Subsec. (a). Pub. L. 97–35 redesignated existing provisions as par. (1), inserted reference to loans guaranteed under pars. (2) and (3), and added pars. (2) and (3).
+<b>1981</b>—Subsec. (a). Pub. L. 97–35 redesignated existing provisions as par. (1), inserted reference to loans guaranteed under pars. (2) and (3), and added pars. (2) and (3).
 
-1978—Pub. L. 95–334 designated existing provisions as subsec. (a), inserted provisions relating to depositing of charges and provisions relating to interest rates on guaranteed loans, struck out provisions relating to payment and renewal of loans, and added subsec. (b).
+<b>1978</b>—Pub. L. 95–334 designated existing provisions as subsec. (a), inserted provisions relating to depositing of charges and provisions relating to interest rates on guaranteed loans, struck out provisions relating to payment and renewal of loans, and added subsec. (b).
 
-1968—Pub. L. 90–488 substituted provisions for determination of interest rate by taking into consideration current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the average maturities of the loans, adjusted to the nearest one-eighth of 1 per centum, plus not to exceed 1 per centum per annum as determined by the Secretary, for former prohibition of an interest rate exceeding 5 per centum per annum.
+<b>1968</b>—Pub. L. 90–488 substituted provisions for determination of interest rate by taking into consideration current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the average maturities of the loans, adjusted to the nearest one-eighth of 1 per centum, plus not to exceed 1 per centum per annum as determined by the Secretary, for former prohibition of an interest rate exceeding 5 per centum per annum.
 
 #### Effective Date of 1981 Amendment
 

@@ -12,7 +12,7 @@ The court, in imposing a sentence on a defendant who has been found guilty of an
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–132 to be effective, to extent constitutionally permissible, for sentencing proceedings in cases in which defendant is convicted on or after Apr. 24, 1996, see section 211 of Pub. L. 104–132, set out as a note under section 2248 of this title.
+Amendment by Pub. L. 104–132 to be effective, to extent constitutionally permissible, for sentencing proceedings in cases in which defendant is convicted on orafter Apr. 24, 1996, see section 211 of Pub. L. 104–132, set out as a note under section 2248 of this title.
 
 #### Effective Date of 1986 Amendment
 

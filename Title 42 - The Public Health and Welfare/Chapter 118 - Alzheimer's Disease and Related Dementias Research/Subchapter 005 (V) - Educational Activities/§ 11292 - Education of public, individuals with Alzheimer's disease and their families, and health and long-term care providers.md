@@ -12,7 +12,7 @@
 
 &emsp;&emsp;&emsp;(ii) health care paraprofessionals;
 
-&emsp;&emsp;&emsp;(iii) personnel, including information and referral, case management, and in-home services personnel (including personnel receiving support under the Older Americans Act of 1965 (42 U.S.C. 3001 etseq.)), providing supportive services to the elderly and the families of the elderly;
+&emsp;&emsp;&emsp;(iii) personnel, including information and referral, case management, and in-home services personnel (including personnel receiving support under the Older Americans Act of 1965 (42 U.S.C. 3001 et seq.)), providing supportive services to the elderly and the families of the elderly;
 
 &emsp;&emsp;&emsp;(iv) family caregivers providing care and treatment for individuals with Alzheimer's disease and related disorders; and
 

@@ -30,7 +30,7 @@ Apportionment of costs.—No shipper may be charged more than half of the cost f
 
 &emsp;(6)
 
-Requests.—The carrier must not require the shipper to agree to utilize arbitrationprior to the time that a dispute arises. If the dispute involves a claim for $10,000 or less and the shipper requests arbitration, such arbitration shall be binding on the parties. If the dispute involves a claim for more than $10,000 and the shipper requests arbitration, such arbitration shall be binding on the parties only if the carrier agrees to arbitration.
+Requests.—The carrier must not require the shipper to agree to utilize arbitration prior to the time that a dispute arises. If the dispute involves a claim for $10,000 or less and the shipper requests arbitration, such arbitration shall be binding on the parties. If the dispute involves a claim for more than $10,000 and the shipper requests arbitration, such arbitration shall be binding on the parties only if the carrier agrees to arbitration.
 
 &emsp;(7)
 

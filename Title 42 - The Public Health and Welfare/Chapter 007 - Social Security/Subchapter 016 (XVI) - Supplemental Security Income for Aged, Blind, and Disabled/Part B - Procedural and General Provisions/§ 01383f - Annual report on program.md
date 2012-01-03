@@ -34,7 +34,3 @@ Each member of the Social Security Advisory Board shall be permitted to provide 
 
 (Aug. 14, 1935, ch. 531, title XVI, §1637, as added Pub. L. 104–193, title II, §231, Aug. 22, 1996, 110 Stat. 2197.)
 
-#### References in Text
-
-Part A of subchapter IV of this chapter, referred to in subsec. (a)(4), is classified to section 601 et seq. of this title.
-

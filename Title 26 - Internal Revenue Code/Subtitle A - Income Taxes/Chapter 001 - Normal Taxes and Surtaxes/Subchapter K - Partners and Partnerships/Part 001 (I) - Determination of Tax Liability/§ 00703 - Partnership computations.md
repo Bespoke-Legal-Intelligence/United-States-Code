@@ -92,7 +92,7 @@ Amendment by Pub. L. 94–12 effective Jan. 1, 1975, to apply to taxable years e
 
 #### Effective Date of 1969 Amendment
 
-Amendment by Pub. L. 91–172 applicable with respect to exploration expenditures paid or incurred after Dec. 31, 1969, see section 504(d)(1) of Pub. L. 91–172, set out as an Effective Date note under section 243 of this title.
+Amendment by Pub. L. 91–172 applicable with respect to exploration expenditures paid or incurred after Dec.31, 1969, see section 504(d)(1) of Pub. L. 91–172, set out as an Effective Date note under section 243 of this title.
 
 #### Effective Date of 1966 Amendment
 

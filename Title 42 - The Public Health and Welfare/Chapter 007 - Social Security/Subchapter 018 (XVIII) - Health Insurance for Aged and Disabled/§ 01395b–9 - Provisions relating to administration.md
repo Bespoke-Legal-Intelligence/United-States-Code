@@ -76,7 +76,7 @@
 
 &emsp;&emsp;&emsp;(iii) assistance to such individuals in presenting information under section 1395r(i)(4)(C) of this title (relating to income-related premium adjustment; <sup>1</sup> and
 
-&emsp;&emsp;(C) submit annual reports to Congress and the Secretary that describe the activities ofthe Office and that include such recommendations for improvement in the administration of this subchapter as the Ombudsman determines appropriate.
+&emsp;&emsp;(C) submit annual reports to Congress and the Secretary that describe the activities of the Office and that include such recommendations for improvement in the administration of this subchapter as the Ombudsman determines appropriate.
 
 > &emsp;The Ombudsman shall not serve as an advocate for any increases in payments or new coverage of services, but may identify issues and problems in payment or coverage policies.
 
@@ -85,10 +85,6 @@
 &emsp;To the extent possible, the Ombudsman shall work with health insurance counseling programs (receiving funding under section 1395b–4 of this title) to facilitate the provision of information to individuals entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter, or both regarding MA plans and changes to those plans. Nothing in this paragraph shall preclude further collaboration between the Ombudsman and such programs.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1808, as added and amended Pub. L. 108–173, title IX, §§900(a), (b), 923(a), Dec. 8, 2003, 117 Stat. 2369, 2393.)
-
-#### References in Text
-
-Parts A, B, C, and D of this subchapter, referred to in text, are classified to sections 1395c et seq., 1395j et seq., 1395w–21 et seq., and 1395w–101 et seq., respectively, of this title.
 
 #### Amendments
 

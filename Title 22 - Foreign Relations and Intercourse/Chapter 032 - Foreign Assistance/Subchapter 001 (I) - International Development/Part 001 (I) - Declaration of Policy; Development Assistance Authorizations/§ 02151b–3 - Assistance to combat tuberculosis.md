@@ -34,13 +34,13 @@ In carrying out this section, the President shall coordinate with the World Heal
 
 In furnishing assistance under subsection (c), the President shall give priority to—
 
-&emsp;(1) direct services described in the Stop TB Strategy, including expansion and enhancement of Directly Observed Treatment Short-course (DOTS) coverage, rapid testing, treatment for individuals infected with both tuberculosis and HIV, and treatment for individuals with multi-drug resistant tuberculosis (MDR–TB), strengthening of health systems, use of the International Standards for Tuberculosis Care by all providers, empowering individuals with tuberculosis, and enabling andpromoting research to develop new diagnostics, drugs, and vaccines, and program-based operational research relating to tuberculosis; and
+&emsp;(1) direct services described in the Stop TB Strategy, including expansion and enhancement of Directly Observed Treatment Short-course (DOTS) coverage, rapid testing, treatment for individuals infected with both tuberculosis and HIV, and treatment for individuals with multi-drug resistant tuberculosis (MDR–TB), strengthening of health systems, use of the International Standards for Tuberculosis Care by all providers, empowering individuals with tuberculosis, and enabling and promoting research to develop new diagnostics, drugs, and vaccines, and program-based operational research relating to tuberculosis; and
 
 &emsp;(2) funding for the Global Tuberculosis Drug Facility, the Stop Tuberculosis Partnership, and the Global Alliance for TB Drug Development.
 
 #### (f) Assistance for the World Health Organization and the Stop Tuberculosis Partnership
 
-In carrying out this section, the President, acting through the Administrator of the United States Agency for International Development, is authorized to provide increased resources to the World Health Organization and the Stop Tuberculosis Partnership to improve the capacity of countries with high rates of tuberculosis and other affected countries to implement the Stop TB Strategy and specific strategies related to addressing multiple drug resistant tuberculosis (MDR–TB) and extensively drug resistant tuberculosis (XDR–TB).
+In carrying out this section, the President, acting through the Administrator of the UnitedStates Agency for International Development, is authorized to provide increased resources to the World Health Organization and the Stop Tuberculosis Partnership to improve the capacity of countries with high rates of tuberculosis and other affected countries to implement the Stop TB Strategy and specific strategies related to addressing multiple drug resistant tuberculosis (MDR–TB) and extensively drug resistant tuberculosis (XDR–TB).
 
 #### (g) Annual report
 

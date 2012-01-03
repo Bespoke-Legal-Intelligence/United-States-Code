@@ -20,7 +20,7 @@ Such research activities—
 
 #### (1) In general
 
-&emsp;The Secretary shall reserve not less than 5 percent of the funds made available to carry out this section for field-initiated research conducted by recipients of grants under subpart 1 of this part or this subpart who have received such grants within the previous 5 years. Such research may provide for longitudinal studies of limited English proficient children or teachers who serve such children, monitoring the education of such children from entry into language instruction educational programs through secondary school completion.
+&emsp;The Secretary shall reserve not less than 5 percent of the funds made available to carryout this section for field-initiated research conducted by recipients of grants under subpart 1 of this part or this subpart who have received such grants within the previous 5 years. Such research may provide for longitudinal studies of limited English proficient children or teachers who serve such children, monitoring the education of such children from entry into language instruction educational programs through secondary school completion.
 
 #### (2) Applications
 
@@ -74,7 +74,7 @@ Authorized Activities.—Research activities authorized to be assisted under thi
 
 “(c)
 
-Consultation and Delegation of Authority.—In carrying out the responsibilities of this section, the Secretary may delegate authority to the Director, and in any event, shall consult with the Director, representatives of State and local educational agencies, appropriate groups and organizations involved in bilingual education, the Committee on Labor and Human Resources \[now Committee on Health, Education, Labor, and Pensions\] of the Senate, and the Committee on Education and Labor of the House of Representatives.
+Consultation and Delegation of Authority.—In carrying out the responsibilities of this section, the Secretary may delegate authority to the Director, and in any event, shall consult with the Director, representatives of State and local educational agencies, appropriate groups and organizations involved in bilingual education, the Committee on Labor and Human Resources \[now Committee on Health, Education, Labor, and Pensions\] of the Senate, and the Committee on Education and Labor \[now Committee on Education and the Workforce\] of the House of Representatives.
 
 “(d)
 

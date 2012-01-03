@@ -110,27 +110,27 @@ The words “subsections (a)–(c) of this section” are substituted for “the
 
 #### Amendments
 
-2008—Subsecs. (d) to (h). Pub. L. 110–181 added subsec. (d) and redesignated former subsecs. (d) to (g) as (e) to (h), respectively.
+<b>2008</b>—Subsecs. (d) to (h). Pub. L. 110–181 added subsec. (d) and redesignated former subsecs. (d) to (g) as (e) to (h), respectively.
 
-1998—Subsec. (e). Pub. L. 105–205 designated existing provisions as par. (1) and added par. (2).
+<b>1998</b>—Subsec. (e). Pub. L. 105–205 designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (g). Pub. L. 105–311 added subsec. (g).
 
-1994—Subsec. (e). Pub. L. 103–336 substituted “employee or former employee” for “Federal judge”, “employee's or former employee's” for “judge's”, and “purchased” for “purchase”.
+<b>1994</b>—Subsec. (e). Pub. L. 103–336 substituted “employee or former employee” for “Federal judge”, “employee's or former employee's” for “judge's”, and “purchased” for “purchase”.
 
-1992—Subsecs. (f), (g). Pub. L. 102–378 redesignated subsec. (g) as (f).
+<b>1992</b>—Subsecs. (f), (g). Pub. L. 102–378 redesignated subsec. (g) as (f).
 
-1986—Subsec. (a). Pub. L. 98–353, §206, as amended generally by Pub. L. 99–336, §7(1), inserted sentence which deemed justices and judges described in section 8701(a)(5)(ii) and (iii) of this chapter to continue in active employment for purposes of this chapter.
+<b>1986</b>—Subsec. (a). Pub. L. 98–353, §206, as amended generally by Pub. L. 99–336, §7(1), inserted sentence which deemed justices and judges described in section 8701(a)(5)(ii) and (iii) of this chapter to continue in active employment for purposes of this chapter.
 
 Subsecs. (c) to (f). Pub. L. 99–335 struck out subsec. (c) and redesignated subsecs. (d) to (f) as (c) to (e), respectively. Former subsec. (c) provided that insurance granted an employee stops, except for a 31-day extension of life insurance coverage, on the day immediately before his entry on active duty or active duty for training unless the period is covered by military leave with pay but does not stop during a period of inactive duty training and defined “active duty”, “active duty for training”, and “inactive duty training” as having the meanings given them by section 101 of title 38.
 
-1985—Subsec. (g). Pub. L. 99–53 added subsec. (g).
+<b>1985</b>—Subsec. (g). Pub. L. 99–53 added subsec. (g).
 
-1984—Pub. L. 98–353, §208(b), inserted “; assignment of ownership” in section catchline.
+<b>1984</b>—Pub. L. 98–353, §208(b), inserted “; assignment of ownership” in section catchline.
 
 Subsec. (f). Pub. L. 98–353, §208(a), added subsec. (f).
 
-1980—Subsec. (b). Pub. L. 96–427 added subsec. (b) and struck out former subsec. (b) which read as follows:
+<b>1980</b>—Subsec. (b). Pub. L. 96–427 added subsec. (b) and struck out former subsec. (b) which read as follows:
 
 “(1) If on the date the insurance would otherwise stop the employee retires on an immediate annuity and has been insured under this chapter throughout—
 
@@ -150,7 +150,7 @@ Subsec. (f). Pub. L. 98–353, §208(a), added subsec. (f).
 
 “(3) The amount of life insurance continued under paragraph (1) or paragraph (2) of this subsection shall be reduced by 2 percent at the end of each full calendar month after the date the employee becomes 65 years of age and is retired or is receiving such compensation for disease or injury. The Office shall prescribe minimum amounts, not less than 25 percent of the amount of life insurance in force before the first reduction, to which the insurance may be reduced.”
 
-1978—Subsec. (a). Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively.
+<b>1978</b>—Subsec. (a). Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively.
 
 Subsec. (b). Pub. L. 95–583, §1(a)(1), added subsec. (b) and struck out former subsec. (b) which read as follows: “If on the date the insurance would otherwise stop the employee retires on an immediate annuity and—
 
@@ -168,7 +168,7 @@ Subsec. (d). Pub. L. 95–583, §1(a)(2), (3), redesignated subsec. (e) as (d) a
 
 Subsecs. (e), (f). Pub. L. 95–583, §1(a)(2), redesignated subsecs. (e) and (f) as (d) and (e), respectively.
 
-1972—Subsec. (f). Pub. L. 92–529 added subsec. (f).
+<b>1972</b>—Subsec. (f). Pub. L. 92–529 added subsec. (f).
 
 #### Effective Date of 1998 Amendment
 

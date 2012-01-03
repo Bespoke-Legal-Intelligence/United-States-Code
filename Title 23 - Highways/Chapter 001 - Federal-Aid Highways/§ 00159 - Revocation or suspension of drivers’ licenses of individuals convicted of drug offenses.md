@@ -62,7 +62,7 @@ Apportionment of withheld funds after compliance.—If, before the last day of t
 
 Period of availability of subsequently apportioned funds.—Any funds apportioned pursuant to paragraph (2) shall remain available for expenditure as follows:
 
-&emsp;&emsp;(A) Funds which would have been originally apportioned under section 104(b)(5)(A)\(as in effect on the day before the date of enactment of the Transportation Equity Act for the 21st Century) shall remain available until the end of the fiscal year succeeding the fiscal year in which such funds are apportioned under paragraph (2).
+&emsp;&emsp;(A) Funds which would have been originally apportioned under section 104(b)(5)(A) (as in effect on the day before the date of enactment of the Transportation Equity Act for the 21st Century) shall remain available until the end of the fiscal year succeeding the fiscal year in which such funds are apportioned under paragraph (2).
 
 &emsp;&emsp;(B) Funds which would have been originally apportioned under paragraph (1), (3), or (5)(B) (as in effect on the day before the date of enactment of the Transportation Equity Act for the 21st Century) of section 104(b) shall remain available until the end of the third fiscal year succeeding the fiscal year in which such funds are so apportioned.
 
@@ -124,7 +124,7 @@ Subsec. (b)(4). Pub. L. 105–178, §1103(<i>l</i>)(3)(E)(ii)(IV), substituted �
 
 #### Effective Date of 1992 Amendment
 
-Section 327(b) of Pub. L. 102–388 provided that: “The amendments made by subsection (a) of this section \[amending this section\] shall take effect November 5, 1990.”
+Section 327(b) of Pub. L. 102–388 provided that: “The amendments made by subsection (a) of this section\[amending this section\] shall take effect November 5, 1990.”
 
 #### Effective Date
 

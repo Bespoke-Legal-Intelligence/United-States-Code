@@ -6,10 +6,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by closing quotation marks.</i>
-
-<i><sup>2</sup></i><i> So in original. No subsec. (i) has been enacted.</i>
-
 
 ---
 

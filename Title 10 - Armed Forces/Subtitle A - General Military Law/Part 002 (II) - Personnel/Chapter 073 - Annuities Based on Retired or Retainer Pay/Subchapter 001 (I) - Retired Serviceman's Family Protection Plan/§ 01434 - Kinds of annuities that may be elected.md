@@ -1,6 +1,6 @@
 ### §1434. Kinds of annuities that may be elected
 
-(a) The annuity that a person is entitled to elect under section 1431 or 1432 of this title shall, in conformance with actuarial tables selected by the Board of Actuaries under section 1436(a) of this title, be the amount specified by the elector at the time of the election, but not more than 50 percent nor less than 121/2 percent of his retired or retainer pay, in no case less than $25. He may make the annuity payable—
+(a) The annuity that a person is entitled to elect under section 1431 or 1432 of this title shall, in conformance with actuarial tables selected by the Board of Actuaries under section 1436(a) of this title, be the amount specified by the elector at the time of the election, but not more than 50 percent nor less than 12½ percent of his retired or retainer pay, in no case less than $25. He may make the annuity payable—
 
 &emsp;(1) to, or on behalf of, the surviving spouse, ending when the spouse dies or, if the spouse remarries before age 60, when the spouse remarries;
 
@@ -8,7 +8,7 @@
 
 &emsp;(3) to, or on behalf of, the surviving spouse, and after the death of that spouse or the remarriage of that spouse before age 60, in equal shares to, or on behalf of, the surviving eligible children, ending when there is no surviving eligible child.
 
-(b) A person may elect to provide both the annuity provided in clause (1) of subsection (a) and that provided in clause (2) of subsection (a), but the combined amount of the annuities may not be more than 50 percent nor less than 121/2 percent of his retired or retainer pay but in no case less than $25.
+(b) A person may elect to provide both the annuity provided in clause (1) of subsection (a) and that provided in clause (2) of subsection (a), but the combined amount of the annuities may not be more than 50 percent nor less than 12½ percent of his retired or retainer pay but in no case less than $25.
 
 (c) An election of any annuity under clause (1) or (2) of subsection (a), or any combination of annuities under subsection (b), shall provide that no deduction may be made from the elector's retired or retainer pay after the last day of the month in which there is no beneficiary who would be eligible for the annuity if the elector died. For the purposes of the preceding sentence, a child (other than a child who is incapable of supporting himself because of a mental defect or physical incapacity existing before his eighteenth birthday) who is at least eighteen, but under twenty-three years of age, and who is not pursuing a course of study or training defined in section 1435 of this title, shall be considered an eligible beneficiary unless the Secretary concerned approves an application submitted by the member under section 1436(b)(4) of this title. An election of an annuity under clause (3) of subsection (a) shall provide that no deduction may be made from the elector's retired or retainer pay after the last day of the month in which there is no eligible spouse because of death or divorce.
 
@@ -40,7 +40,7 @@ Historical and Revision Notes
 
 Aug. 8, 1953, ch. 393, §4 (less (c) and (d)), 67 Stat. 502.
 
-In subsection (a), the first 17 words are substituted for 37:373(a) (1st 26 words of 1st sentence). The words “may be 50, 25, or 121/2 percent” are substituted for the words “in such amount, expressed as a percentage of the reduced amount of his retired pay \* \* \* in amounts equal to one-half, one-quarter or one-eighth”. 37:373(a) (last 53 words of 1st sentence of 2d par., and last 53 words of 1st sentence of 3d par.) is omitted as covered by section 1435(2) of this title. Clause (1) is substituted for 37:373(a)(1). Clause (2) is substituted for 37:373(a)(2) (less last 53 words of 1st sentence). Clause (3) is substituted for 37:373(a)(3) (less last 53 words of 1st sentence). The word “eligible” is inserted in clauses (2) and (3) to reflect the limitations in 37:371(f).
+In subsection (a), the first 17 words are substituted for 37:373(a) (1st 26 words of 1st sentence). The words “may be 50, 25, or 12½ percent” are substituted for the words “in such amount, expressed as a percentage of the reduced amount of his retired pay \* \* \* in amounts equal to one-half, one-quarter or one-eighth”. 37:373(a) (last 53 words of 1st sentence of 2d par., and last 53 words of 1st sentence of 3d par.) is omitted as covered by section 1435(2) of this title. Clause (1) is substituted for 37:373(a)(1). Clause (2) is substituted for 37:373(a)(2) (less last 53 words of 1st sentence). Clause (3) is substituted for 37:373(a)(3) (less last 53 words of 1st sentence). The word “eligible” is inserted in clauses (2) and (3) to reflect the limitations in 37:371(f).
 
 In subsection (c), the first 11 words are substituted for 37:373(a)(4) (1st 24 words). The words “the annuity” are substituted for the words “an annuity payable under the election made by him”.
 
@@ -54,15 +54,15 @@ Subsec. (a)(3). Pub. L. 95–397, §101(a)(2), substituted “of that spouse or 
 
 Subsec. (e). Pub. L. 95–397, §101(a)(3), added subsec. (e).
 
-<b>1968</b>—Subsec. (a). Pub. L. 90–485 substituted provisions allowing election of an annuity amount, in conformance with the selected actuarial tables, of not more than 50 percent nor less than 121/2 percent of retired or retired or retainer pay, but in no case less than $25, for provisions allowing election of an annuity amount of 50, 25, or 121/2 percent of reduced retired or retainer pay.
+<b>1968</b>—Subsec. (a). Pub. L. 90–485 substituted provisions allowing election of an annuity amount, in conformance with the selected actuarial tables, of not more than 50 percent nor less than 12½ percent of retired or retired or retainer pay, but in no case less than $25, for provisions allowing election of an annuity amount of 50, 25, or 12½ percent of reduced retired or retainer pay.
 
-Subsec. (b). Pub. L. 90–485 substituted provisions that the combined amount of annuities may not be more than 50 percent nor less than 121/2 percent of retired or retainer pay, but in no case less than $25, for provisions that the combined amount of annuities may be only 25 or 121/2 percent of reduced retired or retainer pay and provisions that the reduction in retired or retainer pay on account of each annuity, and the amount of each annuity, be determined in the same manner that it would be determined if the other annuity had not been elected.
+Subsec. (b). Pub. L. 90–485 substituted provisions that the combined amount of annuities may not be more than 50 percent nor less than 12½ percent of retired or retainer pay, but in no case less than $25, for provisions that the combined amount of annuities may be only 25 or 12½ percent of reduced retired or retainer pay and provisions that the reduction in retired or retainer pay on account of each annuity, and the amount of each annuity, be determined in the same manner that it would be determined if the other annuity had not been elected.
 
 Subsec. (c). Pub. L. 90–485 made mandatory the provisions that an election of any annuity under cls. (1) or (2) of subsec. (a), or any combination of annuities under subsec. (b), and the provision that an election of an annuity under cl. (3) of subsec. (a) shall provide that no deduction may be made from the elector's retired or retainer pay after the last day of the month in which there is no beneficiary who would be eligible for the annuity if the elector died or there is no eligible spouse because of death or divorce, respectively, and inserted provision determining what constitutes an eligible beneficiary.
 
 Subsec. (d). Pub. L. 90–485 reenacted subsec. (d) without change.
 
-<b>1961</b>—Subsec. (b). Pub. L. 87–381, §3(1), substituted permission to elect only 25 or 121/2 percent of the member's reduced retired or retainer pay for each annuity for provisions limiting the combined amount of the annuities to not more than 50 percent or the reduced pay, and added that the reduction in pay on account of each annuity, and the amount of each annuity, shall be determined as if the other annuity had not been elected.
+<b>1961</b>—Subsec. (b). Pub. L. 87–381, §3(1), substituted permission to elect only 25 or 12½ percent of the member's reduced retired or retainer pay for each annuity for provisions limiting the combined amount of the annuities to not more than 50 percent or the reduced pay, and added that the reduction in pay on account of each annuity, and the amount of each annuity, shall be determined as if the other annuity had not been elected.
 
 Subsec. (d). Pub. L. 87–381, §3(2), added subsec. (d).
 

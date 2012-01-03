@@ -64,7 +64,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1974—Par. (5). Pub. L. 93–443 struck out par. (5) which defined “an active part in political management or in political campaigns”.
+<b>1974</b>—Par. (5). Pub. L. 93–443 struck out par. (5) which defined “an active part in political management or in political campaigns”.
 
 #### Effective Date of 1974 Amendment
 

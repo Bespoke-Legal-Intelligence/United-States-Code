@@ -6,7 +6,7 @@
 
 &emsp;The Secretary of State shall establish and staff Democracy Liaison Officer positions. Democracy Liaison Officers shall serve under the supervision of the Assistant Secretary. Democracy Liaison Officers may be assigned to the following posts:
 
-&emsp;&emsp;(A) United States missions to, or liaisons with, regional and multilateral organizations, including the United States missions to the European Union, African Union, Organization of American States, and any other appropriate regional organization, the Organization for Security and Cooperation in Europe, the United Nations and its relevantspecialized agencies, and the North Atlantic Treaty Organization.
+&emsp;&emsp;(A) United States missions to, or liaisons with, regional and multilateral organizations, including the United States missions to the European Union, African Union, Organization of American States, and any other appropriate regional organization, the Organization for Security and Cooperation in Europe, the United Nations and its relevant specialized agencies, and the North Atlantic Treaty Organization.
 
 &emsp;&emsp;(B) Regional public diplomacy centers of the Department of State.
 

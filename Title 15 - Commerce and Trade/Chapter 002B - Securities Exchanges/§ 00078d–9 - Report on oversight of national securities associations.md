@@ -52,7 +52,7 @@ Not later than 2 years after July 21, 2010, and every 3 years thereafter, the Co
 
 #### Codification
 
-Section was enacted as part of the Investor Protection and Securities Reform Act of 2010 and also as partof the Dodd-Frank Wall Street Reform and Consumer Protection Act, and not as part of the Securities Exchange Act of 1934 which comprises this chapter.
+Section was enacted as part of the Investor Protection and Securities Reform Act of 2010 and also as part of the Dodd-Frank Wall Street Reform and Consumer Protection Act, and not as part of the Securities Exchange Act of 1934 which comprises this chapter.
 
 #### Effective Date
 

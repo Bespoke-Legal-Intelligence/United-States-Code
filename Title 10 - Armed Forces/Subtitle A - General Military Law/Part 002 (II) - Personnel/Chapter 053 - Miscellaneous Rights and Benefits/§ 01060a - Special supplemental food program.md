@@ -28,11 +28,11 @@ Rebate Agreements With Food Producers.—(1) In the administration of the progra
 
 &emsp;(A) the Secretary of Defense to procure that particular brand of food, exclusive of other brands of the same or similar food, for the purpose of providing the food in commissary stores or Navy Exchange Markets of the Department of Defense as a supplemental food under the program; and
 
-&emsp;(B) the producer to rebate to the Secretary amounts equal to agreed portions of the amounts paid by the Secretary for the procurement of that particular brand of food for the program.
+&emsp;(B) the producer to rebate to the Secretary amounts equal to agreed portions of theamounts paid by the Secretary for the procurement of that particular brand of food for the program.
 
 (2) The Secretary of Defense shall use competitive procedures under chapter 137 of this title to enter into contracts under this subsection.
 
-(3) The period covered by a contract entered into under this subsection, including any periodof extension of the contract by modification of the contract, exercise of an option, or other cause, may not exceed three years. No such contract may be extended by a modification of the contract, by exercise of an option, or by any other means. Nothing in this paragraph prohibits a contractor under a contract entered into under this subsection for any year from submitting an offer for, and being awarded, a contract that is to be entered into under this subsection for a successive year.
+(3) The period covered by a contract entered into under this subsection, including any period of extension of the contract by modification of the contract, exercise of an option, or other cause, may not exceed three years. No such contract may be extended by a modification of the contract, by exercise of an option, or by any other means. Nothing in this paragraph prohibits a contractor under a contract entered into under this subsection for any year from submitting an offer for, and being awarded, a contract that is to be entered into under this subsection for a successive year.
 
 (4) Amounts rebated under a contract entered into under paragraph (1) shall be credited to the appropriation available for carrying out the program under this section in the fiscal year in which rebated, shall be merged with the other sums in that appropriation, and shall be available for the program for the same period as the other sums in the appropriation.
 
@@ -92,7 +92,7 @@ Subsec. (c)(3). Pub. L. 106–65, §674(c)(4), added par. (3).
 
 Subsec. (f)(4). Pub. L. 106–65, §674(d), added par. (4).
 
-<b>1997</b>—Subsec. (b). Pub. L. 105–85 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “For the purpose of obtaining Federal payments and commodities in order to carry out the program referred to in subsection (a), the Secretary of Agriculture shall make available to the Secretary of Defense from funds appropriated for such purpose, the same payments and commodities as are made for the special supplemental food program in the United States under section 17 of the Child Nutrition Act of 1966 (42 U.S.C. 1786).”
+<b>1997</b>—Subsec. (b). Pub. L. 105–85 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “For the purpose of obtaining Federal payments and commodities in order to carry out the program referred to in subsection (a), the Secretary of Agriculture shall make available to the Secretary of Defense from funds appropriated for such purpose, the same payments and commodities as are made for the special supplemental food program inthe United States under section 17 of the Child Nutrition Act of 1966 (42 U.S.C. 1786).”
 
 <b>1996</b>—Subsec. (f)(2)(B). Pub. L. 104–106 substituted “, as determined in accordance with the Immigration and Nationality Act (8 U.S.C. 1101 et seq.)” for “(as defined in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22)))”.
 

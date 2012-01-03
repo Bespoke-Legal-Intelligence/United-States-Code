@@ -72,7 +72,7 @@ After January 1, 2008, the head of a Federal agency may not grant or renew a sec
 
 #### (i) Appropriate committees of Congress
 
-&emsp;&emsp;&emsp;The term “appropriate committees of Congress” means, with respect to a reportsubmitted under subparagraph (A) by the head of a Federal agency—
+&emsp;&emsp;&emsp;The term “appropriate committees of Congress” means, with respect to a report submitted under subparagraph (A) by the head of a Federal agency—
 
 &emsp;&emsp;&emsp;&emsp;(I) the congressional defense committees;
 

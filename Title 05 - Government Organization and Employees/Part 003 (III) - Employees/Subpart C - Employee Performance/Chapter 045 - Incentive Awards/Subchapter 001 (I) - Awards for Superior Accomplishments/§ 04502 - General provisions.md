@@ -36,15 +36,15 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-2000—Subsec. (f). Pub. L. 106–398 added subsec. (f).
+<b>2000</b>—Subsec. (f). Pub. L. 106–398 added subsec. (f).
 
-1993—Subsec. (e). Pub. L. 103–89 struck out par. (2) designation and struck out par. (1) which read as follows: “Notwithstanding section 4501(2), for the purpose of this subsection, ‘employee’ includes an employee covered by the performance management and recognition system established under chapter 54.”
+<b>1993</b>—Subsec. (e). Pub. L. 103–89 struck out par. (2) designation and struck out par. (1) which read as follows: “Notwithstanding section 4501(2), for the purpose of this subsection, ‘employee’ includes an employee covered by the performance management and recognition system established under chapter 54.”
 
-1990—Subsec. (e). Pub. L. 101–509 added subsec. (e).
+<b>1990</b>—Subsec. (e). Pub. L. 101–509 added subsec. (e).
 
-1981—Subsecs. (a), (c). Pub. L. 97–35 substituted “subchapter” for “chapter”.
+<b>1981</b>—Subsecs. (a), (c). Pub. L. 97–35 substituted “subchapter” for “chapter”.
 
-1978—Subsec. (a). Pub. L. 95–454, §503(b), substituted “$10,000” for “$5,000”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–454, §503(b), substituted “$10,000” for “$5,000”.
 
 Subsec. (b). Pub. L. 95–454, §503(c), substituted “Office of Personnel Management” for “Civil Service Commission”, “$10,000” for “$5,000”, and “Office” for “Commission”.
 

@@ -130,7 +130,7 @@ Each Center shall carry out the following activities:
 
 &emsp;Each Center shall—
 
-&emsp;&emsp;(A) demonstrate effective use of a public-private partnership to foster collaborationsamong members of the network and community-based organizations such as community mental health centers and other social and human services providers;
+&emsp;&emsp;(A) demonstrate effective use of a public-private partnership to foster collaborations among members of the network and community-based organizations such as community mental health centers and other social and human services providers;
 
 &emsp;&emsp;(B) expand interdisciplinary, translational, and patient-oriented research and treatment; and
 

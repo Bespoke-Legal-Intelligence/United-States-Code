@@ -8,7 +8,11 @@ The following shall be defenses in any action involving the validity or infringe
 
 &emsp;(2) Invalidity of the patent or any claim in suit on any ground specified in part II of this title as a condition for patentability,
 
-&emsp;(3) Invalidity of the patent or any claim in suit for failure to comply with any requirement of sections 112 or 251 of this title,
+&emsp;(3) Invalidity of the patent or any claim in suit for failure to comply with—
+
+&emsp;&emsp;(A) any requirement of section 112, except that the failure to disclose the best modeshall not be a basis on which any claim of a patent may be canceled or held invalid or otherwise unenforceable; or
+
+&emsp;&emsp;(B) any requirement of section 251.
 
 &emsp;(4) Any other fact or act made a defense by this title.
 
@@ -20,7 +24,35 @@ In actions involving the validity or infringement of a patent the party assertin
 
 > to comply with the requirements of such section shall be a defense in any action involving the infringement of a patent during the period of the extension of its term and shall be pleaded. A due diligence determination under section 156(d)(2) is not subject to review in such an action.
 
-(July 19, 1952, ch. 950, 66 Stat. 812; Pub. L. 89–83, §10, July 24, 1965, 79 Stat. 261; Pub. L. 94–131, §10, Nov. 14, 1975, 89 Stat. 692; Pub. L. 97–164, title I, §161(7), Apr. 2, 1982, 96 Stat. 49; Pub. L. 98–417, title II, §203, Sept. 24, 1984, 98 Stat. 1603; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–41, §2, Nov. 1, 1995, 109 Stat. 352; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4402(b)(1), 4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–560, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), (4), Nov. 2, 2002, 116 Stat. 1906.)
+(July 19, 1952, ch. 950, 66 Stat. 812; Pub. L. 89–83, §10, July 24, 1965, 79 Stat. 261; Pub. L. 94–131, §10, Nov. 14, 1975, 89 Stat. 692; Pub. L. 97–164, title I, §161(7), Apr. 2, 1982, 96 Stat. 49; Pub. L. 98–417, title II, §203, Sept. 24, 1984, 98 Stat. 1603; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–41, §2, Nov. 1, 1995, 109 Stat. 352; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4402(b)(1), 4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–560, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), (4), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, §§15(a), 20(g), (j), Sept. 16, 2011, 125 Stat. 328, 334, 335.)
+
+#### Amendment of Section
+
+<i>Pub. L. 112–29, §20(g), (j), (l), Sept. 16, 2011, 125 Stat. 334, 335, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, this section is amended:</i>
+
+<i>(1) in the first undesignated paragraph—</i>
+
+<i>(A) by striking “A patent” and inserting “(a) IN GENERAL.—A patent”; and</i>
+
+<i>(B) by striking the third sentence;</i>
+
+<i>(2) in the second undesignated paragraph—</i>
+
+<i>(A) by striking “The following” and inserting “(b) DEFENSES.—The following”;</i>
+
+<i>(B) in paragraph (1), by striking “uneforceability,” and inserting “unenforceability.”; and</i>
+
+<i>(C) in paragraph (2), by striking “patentability,” and inserting “patentability.”;</i>
+
+<i>(3) in the third undesignated paragraph—</i>
+
+<i>(A) by striking “In actions involving the validity or infringement of a patent” and inserting “(c) NOTICE OF ACTIONS; ACTIONS DURING EXTENSION OF PATENT TERM.—In an action involving the validity or infringement of a patent”; and</i>
+
+<i>(B) by striking “Claims Court” and inserting “Court of Federal Claims”; and</i>
+
+<i>(4) by striking “of this title” each place that term appears.</i>
+
+<i>See 2011 Amendment notes below.</i>
 
 #### Historical and Revision Notes
 
@@ -34,6 +66,18 @@ The third paragraph, relating to notice of prior patents, publications and uses,
 
 #### Amendments
 
+<b>2011</b>—Pub. L. 112–29, §20(g)(1), (2)(A), (C), (3), (j), designated first to third pars. as subsecs. (a) to (c), respectively, inserted headings, in subsec. (a), struck out third sentence which read “Notwithstanding the preceding sentence, if a claim to a composition of matter is held invalid and that claim was the basis of a determination of nonobviousness under section 103(b)(1), the process shall no longer be considered nonobvious solely on the basis of section 103(b)(1).”, in par. (2) of subsec. (b), struck out “of this title” after “II” and substituted “patentability.” for “patentability,”, and in introductory provisions of subsec. (c), struck out “of this title” after “156” and substituted “In an action involving the validity or infringement of a patent” for “In actions involving the validity or infringement of a patent” and “Court of Federal Claims” for “Claims Court”.
+
+Pub. L. 112–29, §20(g)(2)(B), which directed substitution of “unenforceability.” for “uneforceability,” in par. (1) of former second par. which was designated subsec. (b), was executed by making the substitution for “unenforceability,”, to reflect the probable intent of Congress.
+
+Pub. L. 112–29, §15(a), amended second par. by substituting “(3) Invalidity of the patent or any claim in suit for failure to comply with—
+
+&emsp;“(A) any requirement of section 112, except that the failure to disclose the best mode shall not be a basis on which any claim of a patent may be canceled or held invalid or otherwise unenforceable; or
+
+&emsp;“(B) any requirement of section 251.”
+
+> for “(3) Invalidity of the patent or any claim in suit for failure to comply with any requirement of sections 112 or 251 of this title,”.
+
 <b>2002</b>—Third par. Pub. L. 107–273, §13206(b)(4), made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) \[title IV, §4402(b)(1)\]. See 1999 Amendment note below.
 
 Pub. L. 107–273, §13206(b)(1)(B), made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\]. See 1999 Amendment note below.
@@ -42,7 +86,7 @@ Pub. L. 107–273, §13206(b)(1)(B), made technical correction to directory lang
 
 Pub. L. 106–113, §1000(a)(9) \[title IV, §4402(b)(1)\], as amended by Pub. L. 107–273, §13206(b)(4), substituted “154(b) or 156 of this title” for “156 of this title”.
 
-<b>1995</b>—First par. Pub. L. 104–41 inserted after second sentence “Notwithstanding the preceding sentence, if a claim to a composition of matter is held invalid and that claim was the basis of a determination of nonobviousness under section 103(b)(1), the process shall no longer be considered nonobvious solely on the basis of section 103(b)(1).”
+<b>1995</b>—First par. Pub. L. 104–41 inserted after second sentence “Notwithstanding the preceding sentence, if aclaim to a composition of matter is held invalid and that claim was the basis of a determination of nonobviousness under section 103(b)(1), the process shall no longer be considered nonobvious solely on the basis of section 103(b)(1).”
 
 <b>1992</b>—Third par. Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
@@ -53,6 +97,12 @@ Pub. L. 106–113, §1000(a)(9) \[title IV, §4402(b)(1)\], as amended by Pub. L
 <b>1975</b>—First par. Pub. L. 94–131 made presumption of validity applicable to claim of a patent in multiple dependent form and multiple dependent claims and substituted “asserting such invalidity” for “asserting it”.
 
 <b>1965</b>—Pub. L. 89–83 required each claim of a patent (whether in independent or dependent form) to be presumed valid independently of the validity of other claims and required dependent claims to be presumed valid even though dependent upon an invalid claim.
+
+#### Effective Date of 2011 Amendment
+
+Amendment by section 15(a) of Pub. L. 112–29 effective on Sept. 16, 2011, and applicable to proceedings commenced on or after that date, see section 15(c) of Pub. L. 112–29, set out as a note under section 119 of this title.
+
+Amendment by section 20(g), (j) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(<i>l</i>) of Pub. L. 112–29, set out as a note under section 2 of this title.
 
 #### Effective Date of 1999 Amendment
 

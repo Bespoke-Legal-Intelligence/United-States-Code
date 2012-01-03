@@ -10,6 +10,10 @@ The Clerk of the House of Representatives, with respect to notifications under s
 
 (Pub. L. 110–81, title I, §103, Sept. 14, 2007, 121 Stat. 739.)
 
+#### Change of Name
+
+Committee on Standards of Official Conduct of House of Representatives changed to Committee on Ethics of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+
 #### Effective Date
 
 Pub. L. 110–81, title I, §105(c), Sept. 14, 2007, 121 Stat. 741, provided that:

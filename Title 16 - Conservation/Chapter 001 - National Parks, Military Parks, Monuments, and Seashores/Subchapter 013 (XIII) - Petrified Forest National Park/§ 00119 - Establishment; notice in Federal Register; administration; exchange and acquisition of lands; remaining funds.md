@@ -80,7 +80,7 @@ In General.—Subject to applicable laws, all land and interests in land acquire
 
 “(b)
 
-Transfer of Jurisdiction.—The Secretary shall transfer to the National Park Service administrative jurisdiction over any land under the jurisdiction of the Secretary that—
+Transfer of Jurisdiction.—The Secretary shall transfer to the National Park Service administrativejurisdiction over any land under the jurisdiction of the Secretary that—
 
 &emsp;“(1) is depicted on the map as being within the boundaries of the Park; and
 
@@ -96,7 +96,7 @@ Grazing.—
 
 &emsp;“(1)
 
-In general.—The Secretary shall permit the continuation of grazing on land transferred to theSecretary under this Act, subject to applicable laws, regulations, and Executive orders.
+In general.—The Secretary shall permit the continuation of grazing on land transferred to the Secretary under this Act, subject to applicable laws, regulations, and Executive orders.
 
 &emsp;“(2)
 

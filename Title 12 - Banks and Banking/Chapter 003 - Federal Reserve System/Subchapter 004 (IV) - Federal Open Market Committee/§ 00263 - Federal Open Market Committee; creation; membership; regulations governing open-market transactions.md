@@ -10,7 +10,7 @@
 
 #### Amendments
 
-1942—Subsec. (a). Act July 7, 1942, substituted second, third, and fourth sentences for former second and third sentences.
+<b>1942</b>—Subsec. (a). Act July 7, 1942, substituted second, third, and fourth sentences for former second and third sentences.
 
-1935—Act Aug. 23, 1935, amended provisions relating to membership in subsec. (a), substituted “Committee” for “Federal Reserve Board” and “Board” in subsec. (b), and omitted subsec. (d).
+<b>1935</b>—Act Aug. 23, 1935, amended provisions relating to membership in subsec. (a), substituted “Committee” for “Federal Reserve Board” and “Board” in subsec. (b), and omitted subsec. (d).
 

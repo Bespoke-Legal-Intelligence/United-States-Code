@@ -22,7 +22,7 @@ An association of brokers and dealers shall not be registered as a national secu
 
 &emsp;(7) The rules of the association provide that (subject to any rule or order of the Commission pursuant to section 78q(d) or 78s(g)(2) of this title) its members and persons associated with its members shall be appropriately disciplined for violation of any provision of this chapter, the rules or regulations thereunder, the rules of the Municipal Securities Rulemaking Board, or the rules of the association, by expulsion, suspension, limitation of activities, functions, and operations, fine, censure, being suspended or barred from being associated with a member, or any other fitting sanction.
 
-&emsp;(8) The rules of the association are in accordance with the provisions of subsection (h) of this section, and, in general, provide a fair procedure for the disciplining of members and persons associated with members, the denial of membership to any person seeking membership therein, the barring of any person from becoming associated with a member thereof, and the prohibition or limitation by the association of any person with respect to access to services offered by the association or a member thereof.
+&emsp;(8) The rules of the association are in accordance with the provisions of subsection (h)of this section, and, in general, provide a fair procedure for the disciplining of members and persons associated with members, the denial of membership to any person seeking membership therein, the barring of any person from becoming associated with a member thereof, and the prohibition or limitation by the association of any person with respect to access to services offered by the association or a member thereof.
 
 &emsp;(9) The rules of the association do not impose any burden on competition not necessary or appropriate in furtherance of the purposes of this chapter.
 
@@ -106,7 +106,7 @@ An applicant association shall not be registered as an affiliated securities ass
 
 &emsp;(1) such association, notwithstanding that it does not satisfy the requirements set forth in paragraph (1) of subsection (b) of this section, will, forthwith upon the registration thereof, be admitted to affiliation with an association registered as a national securities association pursuant to subsection (b) of this section, in the manner and under the terms and conditions provided by the rules of said national securities association in accordance with subsection (c) of this section; and
 
-&emsp;(2) such association and its rules satisfy the requirements set forth in paragraphs (2) to\(10), inclusive, and paragraph (12),<sup>1</sup> of subsection (b) of this section; except that in the case of any such association any restrictions upon membership therein of the type authorized by paragraph (3) of subsection (b) of this section shall not be less stringent than in the case of the national securities association with which such association is to be affiliated.
+&emsp;(2) such association and its rules satisfy the requirements set forth in paragraphs (2) to (10), inclusive, and paragraph (12),<sup>1</sup> of subsection (b) of this section; except that in the case of any such association any restrictions upon membership therein of the type authorized by paragraph (3) of subsection (b) of this section shall not be less stringent than in the case of the national securities association with which such association is to be affiliated.
 
 #### (e) Dealings with nonmember professionals
 
@@ -132,7 +132,7 @@ Nothing in subsection (b)(6) or (b)(11) of this section shall be construed to pe
 
 (C) A registered securities association may bar any person from becoming associated with a member if such person does not agree (i) to supply the association with such information with respect to its relationship and dealings with the member as may be specified in the rules of the association and (ii) to permit examination of its books and records to verify the accuracy of any information so supplied.
 
-(D) Nothing in subparagraph (A), (B), or (C) of this paragraph shall be construed to permit a registered securities association to deny membership to or condition the membership of, or bar any person from becoming associated with or condition the association of any person with,a broker or dealer that engages exclusively in transactions in municipal securities.
+(D) Nothing in subparagraph (A), (B), or (C) of this paragraph shall be construed to permit a registered securities association to deny membership to or condition the membership of, or bar any person from becoming associated with or condition the association of any person with, a broker or dealer that engages exclusively in transactions in municipal securities.
 
 (4) A registered securities association may deny membership to a registered broker or dealer not engaged in a type of business in which the rules of the association require members to be engaged: <i>Provided, however</i>, That no registered securities association may deny membership to a registered broker or dealer by reason of the amount of such type of business done by such broker or dealer or the other types of business in which he is engaged.
 
@@ -226,7 +226,7 @@ A registered securities association shall create a limited qualification categor
 
 &emsp;&emsp;(B) Subsections (b)(1), (b)(3), (b)(4), (b)(5), (b)(8), (b)(10), (b)(11), (b)(12), (b)(13), (c), (d), (e), (f), (g), (h), and (i) of this section.
 
-&emsp;&emsp;(C) Subsections (d), (f), and (k) of section 78q of this title.
+&emsp;&emsp;(C) Subsections (d), (f), and (k) <sup>1</sup> of section 78q of this title.
 
 &emsp;&emsp;(D) Subsections (a), (f), and (h) of section 78s of this title.
 
@@ -242,13 +242,15 @@ Consistent with this chapter, each national securities association registered pu
 
 A national securities association registered pursuant to subsection (a) of this section shall, not later than 8 months after December 21, 2000, implement the procedures specified in section 78f(h)(5)(A) of this title and adopt the rules specified in subparagraphs (B) and (C) of section 78f(h)(5) of this title.
 
-(June 6, 1934, ch. 404, title I, §15A, as added June 25, 1938, ch. 677, §1, 52 Stat. 1070; amended Pub. L. 88–467, §7, Aug. 20, 1964, 78 Stat. 574; Pub. L. 94–29, §12, June 4, 1975, 89 Stat. 127; Pub. L. 99–571, title I, §102(g), Oct. 28, 1986, 100 Stat. 3218; Pub. L. 101–429, title V, §509, Oct. 15, 1990, 104 Stat. 957; Pub. L. 103–202, title I, §106(b)(1), title III, §303(a), (c), Dec. 17, 1993, 107 Stat. 2350, 2364, 2366; Pub. L. 106–102, title II, §203, Nov. 12, 1999, 113 Stat. 1391; Pub. L. 106–554, §1(a)(5) \[title II, §§203(c), 206(j), (k)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–422, 2763A–433; Pub. L. 109–290, §§5, 6, Sept. 29, 2006, 120 Stat. 1319, 1320; Pub. L. 111–203, title IX, §975(f), July 21, 2010, 124 Stat. 1923.)
+(June 6, 1934, ch. 404, title I, §15A, as added June 25, 1938, ch. 677, §1, 52 Stat. 1070; amended Pub. L. 88–467, §7, Aug. 20, 1964, 78 Stat. 574; Pub. L. 94–29, §12, June 4, 1975, 89 Stat. 127; Pub. L. 99–571, title I, §102(g), Oct. 28, 1986, 100 Stat. 3218; Pub. L. 101–429, title V, §509, Oct. 15, 1990, 104 Stat. 957; Pub. L. 103–202, title I, §106(b)(1), title III, §303(a), (c), Dec. 17, 1993, 107 Stat. 2350, 2364, 2366; Pub. L. 106–102, title II, §203, Nov. 12, 1999, 113 Stat. 1391; Pub. L. 106–554, §1(a)(5) \[title II, §§203(c), 206(j), (k)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–422, 2763A–433; Pub. L. 109–290, §§5, 6,Sept. 29, 2006, 120 Stat. 1319, 1320; Pub. L. 111–203, title IX, §975(f), July 21, 2010, 124 Stat. 1923.)
 
 #### References in Text
 
 This chapter, referred to in subsecs. (b)(2), (6), (7), (9), (h)(1)(B), (k)(2)(B)(ii), (4), and (<i>l</i>), was in the original “this title”. See References in Text note set out under section 78a of this title.
 
 Paragraph (12), of subsection (b) of this section, referred to in subsec. (d)(2), was omitted in the general amendment of subsec. (b) by Pub. L. 94–29, see par. (11) of subsec. (b). A new par. (12) was added by Pub. L. 103–302, §303(a).
+
+Subsection (k) of section 78q of this title, referred to in subsec. (k)(4)(C), was redesignated subsec. (j) by Pub. L. 111–203, title VI, §617(a)(2), July 21, 2010, 124 Stat. 1616.
 
 #### Amendments
 
@@ -336,7 +338,7 @@ Subsec. (h). Pub. L. 88–467, §7(d), made the procedures and the Commission's 
 
 Subsec. (k)(2). Pub. L. 88–467, §7(e), inserted “, or with such modifications of such alteration or supplement as it deems necessary” after “in the manner theretofore requested”, redesignated cls. (1) to (4) as (A) to (D), respectively, and inserted in cl. (A) “or the barring from being associated with a member” and “or persons associated with members, or the qualifications required for members or natural persons associated with members or any class thereof”.
 
-Subsec. (<i>l</i>). Pub. L. 88–467, §7(f), substituted a period for a semicolon at end of par. (1) and inserted in par. (2)preceding cl. (A) “, or to suspend for a period not exceeding twelve months or to bar any person from being associated with a member thereof,”.
+Subsec. (<i>l</i>). Pub. L. 88–467, §7(f), substituted a period for a semicolon at end of par. (1) and inserted in par. (2) preceding cl. (A) “, or to suspend for a period not exceeding twelve months or to bar any person from being associated with a member thereof,”.
 
 #### Effective Date of 2010 Amendment
 

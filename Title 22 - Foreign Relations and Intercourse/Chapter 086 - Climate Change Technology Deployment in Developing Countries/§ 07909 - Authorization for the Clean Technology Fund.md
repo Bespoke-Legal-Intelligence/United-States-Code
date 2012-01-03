@@ -50,11 +50,15 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(II) substantially increases the energy efficiency of buildings, industrial, or agricultural processes, or of electricity transmission, distribution, or end-use consumption; or
 
-&emsp;&emsp;&emsp;(III) substantially increases the energy efficiency of the transportation system or increases utilization of transportationfuels that have lifecycle greenhouse gas emissions that are substantially lower than those attributable to fossil fuel-based alternatives.
+&emsp;&emsp;&emsp;(III) substantially increases the energy efficiency of the transportation system or increases utilization of transportation fuels that have lifecycle greenhouse gas emissions that are substantially lower than those attributable to fossil fuel-based alternatives.
 
 (Pub. L. 111–117, div. F, title VII, §7081(g), Dec. 16, 2009, 123 Stat. 3398.)
 
 #### Codification
 
 Section was enacted as part of the Department of State, Foreign Operations, and Related Programs Appropriations Act, 2010, and also as part of the Consolidated Appropriations Act, 2010, and not as part of part C of the Global Environmental Protection Assistance Act of 1989 which comprises this chapter.
+
+#### Continuation of Prior Law
+
+Pub. L. 112–74, div. I, title VII, §7062(c)(8), Dec. 23, 2011, 125 Stat. 1250, provided that: “Section 7081(g)(2) and (4) of division F of Public Law 111–117 \[22 U.S.C. 7909(2), (4)\] shall continue in effect during fiscal year 2012 as if part of this Act \[div. I of Pub. L. 112–74, 125 Stat. 1164\].”
 

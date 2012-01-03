@@ -76,13 +76,15 @@ Repayment.—A person or member who receives a bonus under this section and who 
 
 (h)
 
-Termination of Authority.—No agreement may be entered into under this section after December 31, 2011.
+Termination of Authority.—No agreement may be entered into under this section after December 31, 2012.
 
-(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 163; amended Pub. L. 111–84, div. A, title VI, §614(1), Oct. 28, 2009, 123 Stat. 2353; Pub. L. 111–383, div. A, title VI, §614(1), Jan. 7, 2011, 124 Stat. 4237.)
+(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 163; amended Pub. L. 111–84, div. A, title VI, §614(1), Oct. 28, 2009, 123 Stat. 2353; Pub. L. 111–383, div. A, title VI, §614(1), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §614(1), Dec. 31, 2011, 125 Stat. 1450.)
 
 #### Amendments
 
-<b>2011</b>—Subsec. (h). Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
+<b>2011</b>—Subsec. (h). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
+
+Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
 
 <b>2009</b>—Subsec. (h). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
 

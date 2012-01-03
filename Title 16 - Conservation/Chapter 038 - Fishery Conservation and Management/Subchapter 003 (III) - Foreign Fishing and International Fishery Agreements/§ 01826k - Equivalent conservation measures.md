@@ -92,7 +92,7 @@ There are authorized to be appropriated to the Secretary for fiscal years 2007 t
 
 #### References in Text
 
-Sections 1826d to 1826k of this title, referred to in subsec. (b)(1), was in the original “this section and thisAct” and was translated as reading “this section and this title” meaning title VI of Pub. L. 104–43, Nov. 3, 1995, 109 Stat. 391, known as the High Seas Driftnet Fishing Moratorium Protection Act. For complete classification of title VI to the Code, see Short Title of 1995 Amendment note set out under section 1801 of this title and Tables.
+Sections 1826d to 1826k of this title, referred to in subsec. (b)(1), was in the original “this section and this Act” and was translated as reading “this section and this title” meaning title VI of Pub. L. 104–43, Nov. 3, 1995, 109 Stat. 391, known as the High Seas Driftnet Fishing Moratorium Protection Act. For complete classification of title VI to the Code, see Short Title of 1995 Amendment note set out under section 1801 of this title and Tables.
 
 Section 1826a(a) and section 1826a(b)(3) and (4) of this title, referred to in subsec. (c)(5), was in the original “section 101(a) and section 101(b)(3) and (4) of this Act (16 U.S.C. 1826a(a), (b)(3), and (b)(4))” and was translated as meaning section 101(a) and section 101(b)(3) and (4) of the High Seas Driftnet Fisheries Enforcement Act, to reflect the probable intent of Congress.
 

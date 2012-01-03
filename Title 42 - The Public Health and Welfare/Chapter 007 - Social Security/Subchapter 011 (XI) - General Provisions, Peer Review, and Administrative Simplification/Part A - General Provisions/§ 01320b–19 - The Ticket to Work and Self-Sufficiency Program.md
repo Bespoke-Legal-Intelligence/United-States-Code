@@ -16,7 +16,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 #### (3) Ticket terms
 
-&emsp;A ticket issued under paragraph (1) shall consist of a document which evidences the Commissioner's agreement to pay (as provided in paragraph (4)) an employment network, which is serving under the Program and to which such ticket is assigned by the beneficiary, for such employment services, vocational rehabilitation services, and other support services as the employment network may provide to the beneficiary.
+&emsp;A ticket issued under paragraph (1) shall consist of a document which evidences theCommissioner's agreement to pay (as provided in paragraph (4)) an employment network, which is serving under the Program and to which such ticket is assigned by the beneficiary, for such employment services, vocational rehabilitation services, and other support services as the employment network may provide to the beneficiary.
 
 #### (4) Payments to employment networks
 
@@ -84,7 +84,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 #### (7) Dispute resolution
 
-&emsp;The Commissioner shall provide for a mechanism for resolving disputes between beneficiaries and employment networks, betweenprogram managers and employment networks, and between program managers and providers of services. The Commissioner shall afford a party to such a dispute a reasonable opportunity for a full and fair review of the matter in dispute.
+&emsp;The Commissioner shall provide for a mechanism for resolving disputes between beneficiaries and employment networks, between program managers and employment networks, and between program managers and providers of services. The Commissioner shall afford a party to such a dispute a reasonable opportunity for a full and fair review of the matter in dispute.
 
 #### (e) Program managers
 
@@ -122,7 +122,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 #### (C) Compliance with selection criteria
 
-&emsp;&emsp;No employment network may serve under the Program unless it meets and maintains compliance with both general selection criteria (such as professional and educational qualifications, where applicable) and specific selection criteria (such as substantial expertise and experience in providing relevant employment services and supports).
+&emsp;&emsp;No employment network may serve under the Program unless it meets and maintainscompliance with both general selection criteria (such as professional and educational qualifications, where applicable) and specific selection criteria (such as substantial expertise and experience in providing relevant employment services and supports).
 
 #### (D) Single or associated providers allowed
 
@@ -242,11 +242,11 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 #### (A) Percentages and periods
 
-&emsp;&emsp;The Commissioner shall periodically review the percentage specified in paragraph (2)(C), the total payments permissible under paragraph (3)(C), and the period of time specified in paragraph (4)(B) to determine whether such percentages, such permissible payments, and such period provide an adequate incentive for employment networks to assist beneficiaries to enter the workforce, while providing for appropriate economies. The Commissioner may alter such percentage, such total permissible payments, or such period of time to the extent that the Commissioner determines, on the basis of the Commissioner's review under this paragraph, that such an alteration would better provide the incentive and economies described in the preceding sentence.
+&emsp;&emsp;The Commissioner shall periodically review the percentage specified in paragraph\(2)(C), the total payments permissible under paragraph (3)(C), and the period of time specified in paragraph (4)(B) to determine whether such percentages, such permissible payments, and such period provide an adequate incentive for employment networks to assist beneficiaries to enter the workforce, while providing for appropriate economies. The Commissioner may alter such percentage, such total permissible payments, or such period of time to the extent that the Commissioner determines, on the basis of the Commissioner's review under this paragraph, that such an alteration would better provide the incentive and economies described in the preceding sentence.
 
 #### (B) Number and amounts of milestone payments
 
-&emsp;&emsp;The Commissioner shall periodically review the number and amounts of milestone payments established by the Commissioner pursuant to this section to determine whether they provide an adequate incentive for employment networks to assist beneficiaries to enter the workforce, taking into account information provided to the Commissioner by program managers, the Ticket to Work and Work Incentives Advisory Panel established by section 101(f) of the Ticket to Work and Work Incentives Improvement Act of 1999, and other reliable sources. The Commissioner may from time to time alter thenumber and amounts of milestone payments initially established by the Commissioner pursuant to this section to the extent that the Commissioner determines that such an alteration would allow an adequate incentive for employment networks to assist beneficiaries to enter the workforce. Such alteration shall be based on information provided to the Commissioner by program managers, the Ticket to Work and Work Incentives Advisory Panel established by section 101(f) of the Ticket to Work and Work Incentives Improvement Act of 1999, or other reliable sources.
+&emsp;&emsp;The Commissioner shall periodically review the number and amounts of milestone payments established by the Commissioner pursuant to this section to determine whether they provide an adequate incentive for employment networks to assist beneficiaries to enter the workforce, taking into account information provided to the Commissioner by program managers, the Ticket to Work and Work Incentives Advisory Panel established by section 101(f) of the Ticket to Work and Work Incentives Improvement Act of 1999, and other reliable sources. The Commissioner may from time to time alter the number and amounts of milestone payments initially established by the Commissioner pursuant to this section to the extent that the Commissioner determines that such an alteration would allow an adequate incentive for employment networks to assist beneficiaries to enter the workforce. Such alteration shall be based on information provided to the Commissioner by program managers, the Ticket to Work and Work Incentives Advisory Panel established by section 101(f) of the Ticket to Work and Work Incentives Improvement Act of 1999, or other reliable sources.
 
 #### (C) Report on the adequacy of incentives
 
@@ -296,7 +296,7 @@ In this section:
 
 #### (3) Title II disability beneficiary
 
-&emsp;The term “title II disability beneficiary” means an individual entitled to disability insurance benefits under section 423 of this title or to monthly insurance benefits under section 402 of this title based on such individual's disability (as defined in section 423(d) of this title). An individual is a title II disability beneficiary for each month for which such individual is entitled to such benefits.
+&emsp;The term “title II disability beneficiary” means an individual entitled to disability insurance benefits under section 423 of this titleor to monthly insurance benefits under section 402 of this title based on such individual's disability (as defined in section 423(d) of this title). An individual is a title II disability beneficiary for each month for which such individual is entitled to such benefits.
 
 #### (4) Title XVI disability beneficiary
 
@@ -310,7 +310,7 @@ In this section:
 
 Not later than 1 year after December 17, 1999, the Commissioner shall prescribe such regulations as are necessary to carry out the provisions of this section.
 
-(Aug. 14, 1935, ch. 531, title XI, §1148, as added Pub. L. 106–170, title I, §101(a), Dec. 17, 1999, 113Stat. 1863; amended Pub. L. 108–203, title IV, §405(a), Mar. 2, 2004, 118 Stat. 526.)
+(Aug. 14, 1935, ch. 531, title XI, §1148, as added Pub. L. 106–170, title I, §101(a), Dec. 17, 1999, 113 Stat. 1863; amended Pub. L. 108–203, title IV, §405(a), Mar. 2, 2004, 118 Stat. 526.)
 
 #### References in Text
 
@@ -456,7 +456,7 @@ In general.—Not later than 1 year after the date of the enactment of this Act 
 
 “(2)
 
-Requirements.—Implementation of the Program at each phase-in site shall be carried out on a wide enough scale to permit a thorough evaluation of the alternative methods under consideration, so as to ensure that the most efficacious methods are determined and in place for full implementation of the Program on a timely basis.
+Requirements.—Implementation of the Program at each phase-in site shall be carried out on a wide enough scale to permit a thorough evaluation of the alternative methods under consideration, so as to ensurethat the most efficacious methods are determined and in place for full implementation of the Program on a timely basis.
 
 “(3)
 

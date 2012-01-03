@@ -24,5 +24,5 @@ Section was enacted as part of the Cranston-Gonzalez National Affordable Housing
 
 #### Amendments
 
-1992—Par. (2). Pub. L. 102–550 substituted “222(d)” for “224(e)”.
+<b>1992</b>—Par. (2). Pub. L. 102–550 substituted “222(d)” for “224(e)”.
 

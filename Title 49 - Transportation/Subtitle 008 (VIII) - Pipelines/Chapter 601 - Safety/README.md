@@ -39,10 +39,15 @@
 | [60135\.](%C2%A7%2060135%20-%20Enforcement%20transparency.md) | Enforcement transparency. |
 | [60136\.](%C2%A7%2060136%20-%20Petroleum%20product%20transportation%20capacity%20study.md) | Petroleum product transportation capacity study. |
 | [60137\.](%C2%A7%2060137%20-%20Pipeline%20control%20room%20management.md) | Pipeline control room management. |
+| [60138\.](%C2%A7%2060138%20-%20Response%20plans.md) | Response plans. |
+| [60139\.](%C2%A7%2060139%20-%20Maximum%20allowable%20operating%20pressure.md) | Maximum allowable operating pressure. |
+| [60140\.](%C2%A7%2060140%20-%20Cover%20over%20buried%20pipelines.md) | Cover over buried pipelines. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2012</b>—Pub. L. 112–90, §§6(c)(2), 23(b), 28(b), Jan. 3, 2012, 125 Stat. 1910, 1919, 1921, added items 60138 to 60140.
 
 <b>2006</b>—Pub. L. 109–468, §§2(b)(3), 6(b), 8(b), 12(b), Dec. 29, 2006, 120 Stat. 3489, 3491, 3492, 3495, added items 60134 to 60137.
 
@@ -92,3 +97,6 @@
 - [&sect; 60135 - Enforcement transparency](%C2%A7%2060135%20-%20Enforcement%20transparency.md)
 - [&sect; 60136 - Petroleum product transportation capacity study](%C2%A7%2060136%20-%20Petroleum%20product%20transportation%20capacity%20study.md)
 - [&sect; 60137 - Pipeline control room management](%C2%A7%2060137%20-%20Pipeline%20control%20room%20management.md)
+- [&sect; 60138 - Response plans](%C2%A7%2060138%20-%20Response%20plans.md)
+- [&sect; 60139 - Maximum allowable operating pressure](%C2%A7%2060139%20-%20Maximum%20allowable%20operating%20pressure.md)
+- [&sect; 60140 - Cover over buried pipelines](%C2%A7%2060140%20-%20Cover%20over%20buried%20pipelines.md)

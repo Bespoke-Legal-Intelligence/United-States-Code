@@ -64,7 +64,7 @@
 
 &emsp;&emsp;(B) an evaluation of the character, loyalty, or suitability of such individual;
 
-&emsp;(3) coerce the political activity of any person (including the providing of any political contribution or service), or take any action against any employee or applicant for employment as a reprisal for the refusal of any person to engage in such political activity;
+&emsp;(3) coerce the political activity of any person (including the providing of any political contribution or service), or take any actionagainst any employee or applicant for employment as a reprisal for the refusal of any person to engage in such political activity;
 
 &emsp;(4) deceive or willfully obstruct any person with respect to such person's right to compete for employment;
 
@@ -158,11 +158,11 @@ Section 7802(5) of title 38, referred to in subsec. (e)(1)(E), was redesignated 
 
 #### Amendments
 
-2008—Subsec. (a)(2)(C)(ii). Pub. L. 110–417 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
+<b>2008</b>—Subsec. (a)(2)(C)(ii). Pub. L. 110–417 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
-2004—Subsec. (a)(2)(C)(iii). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (a)(2)(C)(iii). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-1998—Subsec. (a)(1). Pub. L. 105–339, §6(c)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “For purposes of this title, ‘prohibited personnel practice’ means the following:
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–339, §6(c)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “For purposes of this title, ‘prohibited personnel practice’ means the following:
 
 &emsp;“(A) Any action described in subsection (b) of this section.
 
@@ -172,13 +172,13 @@ Subsec. (b)(10) to (12). Pub. L. 105–339, §6(a), struck out “or” at end o
 
 Subsec. (e). Pub. L. 105–339, §6(b), added subsec. (e).
 
-1996—Subsec. (a)(1). Pub. L. 104–201, §1615(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “For the purpose of this title, ‘prohibited personnel practice’ means any action described in subsection (b) of this section.”
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–201, §1615(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “For the purpose of this title, ‘prohibited personnel practice’ means any action described in subsection (b) of this section.”
 
 Subsec. (a)(2)(C)(ii). Pub. L. 104–201, §1122(a)(1), substituted “National Imagery and Mapping Agency” for “Central Imagery Office”.
 
 Subsec. (b)(2). Pub. L. 104–197 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “solicit or consider any recommendation or statement, oral or written, with respect to any individual who requests or is under consideration for any personnel action except as provided under section 3303(f);”.
 
-1994—Subsec. (a)(2)(A). Pub. L. 103–424, §5(a)(3), in concluding provisions, inserted before semicolon “, and in the case of an alleged prohibited personnel practice described in subsection (b)(8), an employee or applicant for employment in a Government corporation as defined in section 9101 of title 31”.
+<b>1994</b>—Subsec. (a)(2)(A). Pub. L. 103–424, §5(a)(3), in concluding provisions, inserted before semicolon “, and in the case of an alleged prohibited personnel practice described in subsection (b)(8), an employee or applicant for employment in a Government corporation as defined in section 9101 of title 31”.
 
 Subsec. (a)(2)(A)(x), (xi). Pub. L. 103–424, §5(a)(1), (2), added cls. (x) and (xi) and struck out former cl. (x) which read as follows: “any other significant change in duties or responsibilities which is inconsistent with the employee's salary or grade level;”.
 
@@ -194,17 +194,17 @@ Subsec. (a)(2)(C)(ii). Pub. L. 103–359 inserted “the Central Imagery Office,
 
 Subsec. (c). Pub. L. 103–424, §5(d), inserted before period at end of first sentence “, and for ensuring (in consultation with the Office of Special Counsel) that agency employees are informed of the rights and remedies available to them under this chapter and chapter 12 of this title”.
 
-1993—Subsec. (b)(2). Pub. L. 103–94 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “solicit or consider any recommendation or statement, oral or written, with respect to any individual who requests or is under consideration for any personnel action unless such recommendation or statement is based on the personal knowledge or records of the person furnishing it and consists of—
+<b>1993</b>—Subsec. (b)(2). Pub. L. 103–94 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “solicit or consider any recommendation or statement, oral or written, with respect to any individual who requests or is under consideration for any personnel action unless such recommendation or statement is based on the personal knowledge or records of the person furnishing it and consists of—
 
 &emsp;“(A) an evaluation of the work performance, ability, aptitude, or general qualifications of such individual; or
 
 &emsp;“(B) an evaluation of the character, loyalty, or suitability of such individual;”.
 
-1992—Subsec. (b)(8)(B). Pub. L. 102–378 substituted “Special Counsel” for “Special Counsel of the Merit Systems Protection Board”.
+<b>1992</b>—Subsec. (b)(8)(B). Pub. L. 102–378 substituted “Special Counsel” for “Special Counsel of the Merit Systems Protection Board”.
 
-1990—Subsec. (a)(2)(C). Pub. L. 101–474 struck out “, the Administrative Office of the United States Courts,” after “means an Executive agency”.
+<b>1990</b>—Subsec. (a)(2)(C). Pub. L. 101–474 struck out “, the Administrative Office of the United States Courts,” after “means an Executive agency”.
 
-1989—Subsec. (b)(8). Pub. L. 101–12, §4(a), in introductory provision inserted “, or threaten to take or fail to take,” after “fail to” and substituted “because of” for “as a reprisal for”, in subpar. (A) substituted “any disclosure” for “a disclosure”, in subpar. (A)(ii) inserted “gross” before “mismanagement”, in subpar. (B) substituted “any disclosure” for “a disclosure”, and in subpar. (B)(ii) inserted “gross” before “mismanagement”.
+<b>1989</b>—Subsec. (b)(8). Pub. L. 101–12, §4(a), in introductory provision inserted “, or threaten to take or fail to take,” after “fail to” and substituted “because of” for “as a reprisal for”, in subpar. (A) substituted “any disclosure” for “a disclosure”, in subpar. (A)(ii) inserted “gross” before “mismanagement”, in subpar. (B) substituted “any disclosure” for “a disclosure”, and in subpar. (B)(ii) inserted “gross” before “mismanagement”.
 
 Subsec. (b)(9). Pub. L. 101–12, §4(b), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “take or fail to take any personnel action against any employee or applicant for employment as a reprisal for the exercise of any appeal right granted by any law, rule, or regulation;”.
 
@@ -232,7 +232,7 @@ Memorandum of President of the United States, June 17, 2009, 74 F.R. 29393, prov
 
 Memorandum for the Heads of Executive Departments and Agencies
 
-Millions of hard-working, dedicated, and patriotic public servants are employed by the Federal Government as part of the civilian workforce, and many of these devoted Americans have same-sex domestic partners. Leading companies in the private sector are free to provide to same-sex domestic partners the same benefits they provide to married people of the opposite sex. Executive departments and agencies, however, may only provide benefits on that basis if they have legal authorization to do so. My Administration is not authorized by Federal law to extend a number of available Federal benefits to the same-sex partners of Federal employees. Within existing law, however, my Administration, in consultation with the Secretary of State, who oversees our Foreign Service employees, and theDirector of the Office of Personnel Management, who oversees human resource management for our civil service employees, has identified areas in which statutory authority exists to achieve greater equality for the Federal workforce through extension to same-sex domestic partners of benefits currently available to married people of the opposite sex. Extending available benefits will help the Federal Government compete with the private sector to recruit and retain the best and the brightest employees.
+Millions of hard-working, dedicated, and patriotic public servants are employed by the Federal Government as part of the civilian workforce, and many of these devoted Americans have same-sex domestic partners. Leading companies in the private sector are free to provide to same-sex domestic partners the same benefits they provide to married people of the opposite sex. Executive departments and agencies, however, may only provide benefits on that basis if they have legal authorization to do so. My Administration is not authorized by Federal law to extend a number of available Federal benefits to the same-sex partners of Federal employees. Within existing law, however, my Administration, in consultation with the Secretary of State, who oversees our Foreign Service employees, and the Director of the Office of Personnel Management, who oversees human resource management for our civil service employees, has identified areas in which statutory authority exists to achieve greater equality for the Federal workforce through extension to same-sex domestic partners of benefits currently available to married people of the opposite sex. Extending available benefits will help the Federal Government compete with the private sector to recruit and retain the best and the brightest employees.
 
 I hereby request the following:
 
@@ -262,7 +262,7 @@ Memorandum of President of the United States, June 2, 2010, 75 F.R. 32247, provi
 
 Memorandum for the Heads of Executive Departments and Agencies
 
-For far too long, many of our Government's hard-working, dedicated LGBT employees have been denied equal access to the basic rights and benefits their colleagues enjoy. This kind of systemic inequality undermines the health, well-being, and security not just of our Federal workforce, but also of their families and communities. That is why, last June, I directed the heads of executive departments and agencies (agencies), in consultation with the Office of Personnel Management (OPM), to conduct a thorough review of the benefits they provide and to identify any that could be extended to LGBT employees and their partners and families. Although legislative action is necessary to provide full equality to LGBT Federal employees, the agencies have identified a number of benefits that can be extended under existing law. OPM, in consultation with the Department of Justice, has provided me with a report recommending that all of the identified benefits be extended.
+For far too long, many of our Government's hard-working, dedicated LGBT employees have been deniedequal access to the basic rights and benefits their colleagues enjoy. This kind of systemic inequality undermines the health, well-being, and security not just of our Federal workforce, but also of their families and communities. That is why, last June, I directed the heads of executive departments and agencies (agencies), in consultation with the Office of Personnel Management (OPM), to conduct a thorough review of the benefits they provide and to identify any that could be extended to LGBT employees and their partners and families. Although legislative action is necessary to provide full equality to LGBT Federal employees, the agencies have identified a number of benefits that can be extended under existing law. OPM, in consultation with the Department of Justice, has provided me with a report recommending that all of the identified benefits be extended.
 
 Accordingly, I hereby direct the following:
 

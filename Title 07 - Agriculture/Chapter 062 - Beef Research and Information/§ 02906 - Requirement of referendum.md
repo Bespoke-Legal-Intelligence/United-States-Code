@@ -16,7 +16,7 @@ The Department shall be reimbursed from assessments collected by the Board for a
 
 #### Amendments
 
-1985—Pub. L. 99–198 amended section generally, substituting provisions relating to requirement of referendum for provisions relating to permissive terms and conditions in orders.
+<b>1985</b>—Pub. L. 99–198 amended section generally, substituting provisions relating to requirement of referendum for provisions relating to permissive terms and conditions in orders.
 
 #### Effective Date of 1985 Amendment
 

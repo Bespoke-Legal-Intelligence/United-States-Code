@@ -22,7 +22,7 @@
 
 &emsp;(7) Major Presidential and Vice Presidential candidates and, within 120 days of the general Presidential election, the spouses of such candidates. As used in this paragraph, the term “major Presidential and Vice Presidential candidates” means those individuals identified as such by the Secretary of Homeland Security after consultation with an advisory committee consisting of the Speaker of the House of Representatives, the minority leader of the House of Representatives, the majority and minority leaders of the Senate, and one additional member selected by the other members of the committee. The Committee shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App. 2).
 
-&emsp;(8) Former Vice Presidents, their spouses, and their children who are under 16 years of age, for a period of not more than six months after the date the former Vice Presidentleaves office. The Secretary of Homeland Security shall have the authority to direct the Secret Service to provide temporary protection for any of these individuals at any time thereafter if the Secretary of Homeland Security or designee determines that information or conditions warrant such protection.
+&emsp;(8) Former Vice Presidents, their spouses, and their children who are under 16 years of age, for a period of not more than six months after the date the former Vice President leaves office. The Secretary of Homeland Security shall have the authority to direct the Secret Service to provide temporary protection for any of these individuals at any time thereafter if the Secretary of Homeland Security or designee determines that information or conditions warrant such protection.
 
 > The protection authorized in paragraphs (2) through (8) may be declined.
 
@@ -40,7 +40,7 @@
 
 &emsp;(B) carry firearms;
 
-&emsp;(C) make arrests without warrant for any offense against the United States committed in their presence, or for any felony cognizable under the laws of the United States if they have reasonable grounds to believe that the person to be arrested has committed or is committing such felony;
+&emsp;(C) make arrests without warrant for any offense against the United States committed in their presence, or for any felony cognizable under the laws of the United States if theyhave reasonable grounds to believe that the person to be arrested has committed or is committing such felony;
 
 &emsp;(D) offer and pay rewards for services and information leading to the apprehension of persons involved in the violation or potential violation of those provisions of law which the Secret Service is authorized to enforce;
 
@@ -68,7 +68,7 @@
 
 #### Historical and Revision Notes
 
-Based on title 18, U.S.C., 1940 ed., §148, and on sections 264(x) and 986 of title 12, U.S.C., 1940 ed., Banksand Banking (Dec. 23, 1913, ch. 6, §12B, subsection (x), as added June 16, 1933, ch. 89, §8, 48 Stat. 178; July 17, 1916, ch. 245, §31, sixth paragraph, 39 Stat. 382 (384); Dec. 11, 1926, ch. 2, §3, 44 Stat. 918; Aug. 23, 1935, ch. 614, §101, 49 Stat. 684, 703).
+Based on title 18, U.S.C., 1940 ed., §148, and on sections 264(x) and 986 of title 12, U.S.C., 1940 ed., Banks and Banking (Dec. 23, 1913, ch. 6, §12B, subsection (x), as added June 16, 1933, ch. 89, §8, 48 Stat. 178; July 17, 1916, ch. 245, §31, sixth paragraph, 39 Stat. 382 (384); Dec. 11, 1926, ch. 2, §3, 44 Stat. 918; Aug. 23, 1935, ch. 614, §101, 49 Stat. 684, 703).
 
 Section consolidates said section 148 of title 18, U.S.C., 1940 ed., and said sections 264(x) and 986 of title 12, U.S.C., 1940 ed., Banks and Banking.
 
@@ -84,7 +84,7 @@ Changes were made in phraseology.
 
 #### References in Text
 
-The Federal Advisory Committee Act, referred to in subsec. (a)(7), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (a)(7), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770,as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 Section 216 of this title, referred to in subsec. (b)(1), was repealed by Pub. L. 98–473, title II, §1107(b), Oct. 12, 1984, 98 Stat. 2146.
 
@@ -140,7 +140,7 @@ Subsec. (b). Pub. L. 94–408 inserted reference to other Federal law enforcemen
 
 Pub. L. 91–644 designated existing provisions as subsec. (a) and added subsec. (b).
 
-<b>1968</b>—Pub. L. 90–608 substituted the death or remarriage of a former President's widow and the attainment by his minor children of age 16 for the passage of a period of four years after he leaves or dies in office as the events terminating Secret Service protection for thewidow and minor children, respectively, of a former President.
+<b>1968</b>—Pub. L. 90–608 substituted the death or remarriage of a former President's widow and the attainment by his minor children of age 16 for the passage of a period of four years after he leaves or dies in office as the events terminating Secret Service protection for the widow and minor children, respectively, of a former President.
 
 <b>1965</b>—Pub. L. 89–218 authorized the Chief, Deputy Chief, Assistant Chief, inspectors, and agents of the Secret Service to make arrests without warrant for offenses committed against the United States in their presence or for any felony cognizable under the laws of the United States if they have reasonable grounds to believe that the person to be arrested has committed or is committing the felony and substituted “508, 509, and 871” for “508 and 509”.
 
@@ -162,7 +162,7 @@ Pub. L. 110–326, title I, §103, Sept. 26, 2008, 122 Stat. 3560, provided that
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–296, title XVII, §1703(b), Nov. 25, 2002, 116 Stat. 2314, provided that: “The amendments made by this section \[amending this section and former sections 202 and 208 of Title 3, The President\] shall take effect on the date of transfer of the United States Secret Service to the Department \[of Homeland Security\].”
+Pub. L. 107–296, title XVII, §1703(b), Nov. 25, 2002, 116 Stat. 2314, provided that: “The amendments made bythis section \[amending this section and former sections 202 and 208 of Title 3, The President\] shall take effect on the date of transfer of the United States Secret Service to the Department \[of Homeland Security\].”
 
 #### Effective Date of 1974 Amendment
 
@@ -218,7 +218,7 @@ Report.—Not later than 1 year after the date of the enactment of this Act \[De
 
 #### Telecommunications Support to United States Secret Service by White House Communications Agency
 
-Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8100\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–108, asamended by Pub. L. 106–92, §2, Nov. 9, 1999, 113 Stat. 1309, provided that: “Beginning in fiscal year 1997 and thereafter, and notwithstanding any other provision of law, fixed and mobile telecommunications support shall be provided by the White House Communications Agency (WHCA) to the United States Secret Service (USSS), without reimbursement, in connection with the Secret Service's duties directly related to the protection of the President or the Vice President or other officer immediately next in order of succession to the office of the President at the White House Security Complex in the Washington, D.C. Metropolitan Area and Camp David, Maryland. For these purposes, the White House Security Complex includes the White House, the White House grounds, the Dwight D. Eisenhower Executive Office Building, the New Executive Office Building, the Blair House, the Treasury Building, and the Vice President's Residence at the Naval Observatory.”
+Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8100\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–108, as amended by Pub. L. 106–92, §2, Nov. 9, 1999, 113 Stat. 1309, provided that: “Beginning in fiscal year 1997 and thereafter, and notwithstanding any other provision of law, fixed and mobile telecommunications support shall be provided by the White House Communications Agency (WHCA) to the United States Secret Service (USSS), without reimbursement, in connection with the Secret Service's duties directly related to the protection of the President or the Vice President or other officer immediately next in order of succession to the office of the President at the White House Security Complex in the Washington, D.C. Metropolitan Area and Camp David, Maryland. For these purposes, the White House Security Complex includes the White House, the White House grounds, the Dwight D. Eisenhower Executive Office Building, the New Executive Office Building, the Blair House, the Treasury Building, and the Vice President's Residence at the Naval Observatory.”
 
 #### Off-Set of Costs of Protecting Former Presidents and Spouses
 
@@ -342,7 +342,7 @@ Pub. L. 90–331, June 6, 1968, 82 Stat. 170, as amended by Pub. L. 94–408, §
 
 #### Extension of Protection of President's Widow and Children
 
-Pub. L. 90–145, Nov. 17, 1967, 81 Stat. 466, extended until Mar. 1, 1969, the authority vested in the UnitedStates Secret Service by section 3056 of this title, as it existed prior to the amendment in 1968 by Pub. L. 90–608, to protect the widow and minor children of a former President who were receiving such protection on Nov. 17, 1967.
+Pub. L. 90–145, Nov. 17, 1967, 81 Stat. 466, extended until Mar. 1, 1969, the authority vested in the United States Secret Service by section 3056 of this title, as it existed prior to the amendment in 1968 by Pub. L. 90–608, to protect the widow and minor children of a former President who were receiving such protection on Nov. 17, 1967.
 
 #### Applicability of Reorg. Plan No. 26 of 1950
 

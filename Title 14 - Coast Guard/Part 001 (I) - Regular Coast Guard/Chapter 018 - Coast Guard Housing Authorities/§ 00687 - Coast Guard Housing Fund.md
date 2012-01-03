@@ -10,15 +10,19 @@ Credits to Fund.—There shall be credited to the Fund the following:
 
 &emsp;(1) Amounts authorized for and appropriated to that Fund.
 
-&emsp;(2) Subject to subsection (e), any amounts that the Secretary transfers, in such amounts as provided in appropriation Acts, to that Fund from amounts authorized and appropriated to the Department of Homeland Security or Coast Guard for the acquisition or construction of military family housing or unaccompanied housing.
+&emsp;(2) Subject to subsection (e), any amounts that the Secretary transfers, in such amounts as provided in appropriation Acts, to that Fund from amounts authorized and appropriated to the Department of Homeland Security or Coast Guard for the acquisition or construction of military family housing or military unaccompanied housing.
 
-&emsp;(3) Proceeds from the conveyance or lease of property or facilities under section 685 of this title for the purpose of carrying out activities under this chapter with respect to military family and military unaccompanied housing.
-
-&emsp;(4) Income from any activities under this chapter, including interest on loan guarantees made under section 682 of this title, income and gains realized from investments under section 684 of this title, and any return of capital invested as part of such investments.
+&emsp;(3) Proceeds from the conveyance of property under section 685 of this title for the purpose of carrying out activities under this chapter with respect to military family housing and military unaccompanied housing.
 
 (c)
 
-Use of Amounts in Fund.—(1) In such amounts as provided in appropriation Acts and except as provided in subsection (d), the Secretary may use amounts in the Coast Guard Housing Fund to carry out activities under this chapter with respect to military family and military unaccompanied housing units, including activities required in connection with the planning, execution, and administration of contracts entered into under the authority of this chapter.
+Use of Amounts in Fund.—(1) In such amounts as provided in appropriations Acts, and except as provided in subsection (d), the Secretary may use amounts in the Coast Guard Housing Fund to carry out activities under this chapter with respect to military family housing and military unaccompanied housing, including—
+
+&emsp;(A) the planning, execution, and administration of the conveyance of real property;
+
+&emsp;(B) all necessary expenses, including expenses for environmental compliance and restoration, to prepare real property for conveyance; and
+
+&emsp;(C) the conveyance of real property.
 
 (2) Amounts made available under this subsection shall remain available until expended.
 
@@ -28,29 +32,25 @@ Limitation on Obligations.—The Secretary may not incur an obligation under a c
 
 (e)
 
-Notification Required for Transfers.—A transfer of appropriated amounts to the Fund under subsection (b)(2) or (b)(3) of this section may be made only after the end of a 30-day period beginning on the date the Secretary submits written notice of, and justification for, the transfer to the appropriate committees of Congress.
+Notification Required for Transfers.—A transfer of appropriated amounts to the Fund under subsection (b)(2) of this section may be made only after the end of a 30-day period beginning on the date the Secretary submits written notice of, and justification for, the transfer to the appropriate committees of Congress.
 
-(f)
-
-Limitation on Amount of Budget Authority.—The total value in budget authority of all contracts and investments undertaken using the authorities provided in this chapter shall not exceed $40,000,000.
-
-(g)
-
-Demonstration Projects Authorized.—To promote efficiencies through the use of alternative procedures for expediting new housing projects, the Secretary—
-
-&emsp;(1) may develop and implement demonstration projects for acquisition or construction of military family housing and military unaccompanied housing on or near the Coast Guard installation at Kodiak, Alaska, or any other Coast Guard installation in Alaska;
-
-&emsp;(2) in implementing such a demonstration project, shall utilize, to the maximum extent possible, the contracting authority of the Small Business Administration's section 8(a) program;
-
-&emsp;(3) shall, to the maximum extent possible, acquire or construct such housing through contracts with small business concerns qualified under section 8(a) of the Small Business Act (15 U.S.C. 637(a)) that have their principal place of business in the State of Alaska; and
-
-&emsp;(4) shall report to Congress by September 1 of each year on the progress of activities under such demonstration projects.
-
-(Added Pub. L. 104–324, title II, §208(a), Oct. 19, 1996, 110 Stat. 3912; amended Pub. L. 107–295, title IV, §402(b), (c), Nov. 25, 2002, 116 Stat. 2114; Pub. L. 107–296, title XVII, §1704(a), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–293, title II, §207(d), Aug. 9, 2004, 118 Stat. 1034.)
+(Added Pub. L. 104–324, title II, §208(a), Oct. 19, 1996, 110 Stat. 3912; amended Pub. L. 107–295, title IV, §402(b), (c), Nov. 25, 2002, 116 Stat. 2114; Pub. L. 107–296, title XVII, §1704(a), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–293, title II, §207(d), Aug. 9, 2004, 118 Stat. 1034; Pub. L. 111–281, title II, §221(a)(6), Oct. 15, 2010, 124 Stat. 2919; Pub. L. 111–330, §1(2), Dec. 22, 2010, 124 Stat. 3569.)
 
 #### Amendments
 
-2004—Subsec. (g). Pub. L. 108–293, §207(d)(1), substituted “Projects” for “Project” in heading.
+<b>2010</b>—Subsec. (b)(2). Pub. L. 111–281, §221(a)(6)(A)(i), substituted “or military unaccompanied” for “or unaccompanied”.
+
+Subsec. (b)(3). Pub. L. 111–281, §221(a)(6)(A)(ii), substituted “military family housing and” for “military family and” and struck out “or lease” after “conveyance” and “or facilities” after “property”.
+
+Subsec. (b)(4). Pub. L. 111–281, §221(a)(6)(A)(iii), struck out par. (4) which read as follows: “Income from any activities under this chapter, including interest on loan guarantees made under section 682 of this title, income and gains realized from investments under section 684 of this title, and any return of capital invested as part of such investments.”
+
+Subsec. (c)(1). Pub. L. 111–281, §221(a)(6)(B), as amended by Pub. L. 111–330, amended par. (1) generally. Prior to amendment, par. (1) read as follows: “In such amounts as provided in appropriation Acts and except as provided in subsection (d), the Secretary may use amounts in the Coast Guard Housing Fund to carry out activities under this chapter with respect to military family and military unaccompanied housing units, including activities required in connection with the planning, execution, and administration of contracts entered into under the authority of this chapter.”
+
+Subsec. (e). Pub. L. 111–281, §221(a)(6)(C), struck out “or (b)(3)” after “subsection (b)(2)”.
+
+Subsecs. (f), (g). Pub. L. 111–281, §221(a)(6)(D), struck out subsecs. (f) and (g) which related to limitation on amount of budget authority and demonstration projects authorized, respectively.
+
+<b>2004</b>—Subsec. (g). Pub. L. 108–293, §207(d)(1), substituted “Projects” for “Project” in heading.
 
 Subsec. (g)(1). Pub. L. 108–293, §207(2), (3), substituted “demonstration projects” for “a demonstration project” and “Kodiak, Alaska, or any other Coast Guard installation in Alaska;” for “Kodiak, Alaska;”.
 
@@ -58,11 +58,15 @@ Subsec. (g)(2). Pub. L. 108–293, §207(d)(4), substituted “such a demonstrat
 
 Subsec. (g)(4). Pub. L. 108–293, §207(d)(5), substituted “such demonstration projects” for “the demonstration project”.
 
-2002—Subsec. (b)(2). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (b)(2). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
 Subsec. (f). Pub. L. 107–295, §402(b), substituted “$40,000,000” for “$20,000,000”.
 
 Subsec. (g). Pub. L. 107–295, §402(c), added subsec. (g).
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–330, §1, Dec. 22, 2010, 124 Stat. 3569, provided that the amendment made by section 1(2) is effective with the enactment of Pub. L. 111–281.
 
 #### Effective Date of 2002 Amendment
 

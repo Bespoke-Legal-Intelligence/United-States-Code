@@ -12,7 +12,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 554(b) is new and permits a party in interest to request the court to order the trustee to abandon property of the estate that is burdensome to the estate or that is of inconsequential value to the estate.
 
@@ -22,11 +22,11 @@ Under this section the court may authorize the trustee to abandon any property o
 
 #### Amendments
 
-2010—Subsec. (c). Pub. L. 111–327 substituted “521(a)(1)” for “521(1)”.
+<b>2010</b>—Subsec. (c). Pub. L. 111–327 substituted “521(a)(1)” for “521(1)”.
 
-1986—Subsec. (c). Pub. L. 99–554 substituted “521(1)” for “521(a)(1)”.
+<b>1986</b>—Subsec. (c). Pub. L. 99–554 substituted “521(1)” for “521(a)(1)”.
 
-1984—Subsecs. (a), (b). Pub. L. 98–353, §468(a), inserted “and benefit” after “value”.
+<b>1984</b>—Subsecs. (a), (b). Pub. L. 98–353, §468(a), inserted “and benefit” after “value”.
 
 Subsec. (c). Pub. L. 98–353, §468(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Unless the court orders otherwise, any property that is scheduled under section 521(1) of this title and that is not administered before a case is closed under section 350 of this title is deemed abandoned.”
 

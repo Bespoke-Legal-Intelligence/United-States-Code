@@ -36,7 +36,7 @@ A prior section 383J of Pub. L. 87–128, title III, was renumbered section 383K
 
 #### Amendments
 
-2008—Subsec. (c)(2). Pub. L. 110–246, §6026(c)(2)(E), made technical amendment to reference in original act which appears in text as reference to section 2009bb–7 of this title.
+<b>2008</b>—Subsec. (c)(2). Pub. L. 110–246, §6026(c)(2)(E), made technical amendment to reference in original act which appears in text as reference to section 2009bb–7 of this title.
 
 #### Effective Date of 2008 Amendment
 

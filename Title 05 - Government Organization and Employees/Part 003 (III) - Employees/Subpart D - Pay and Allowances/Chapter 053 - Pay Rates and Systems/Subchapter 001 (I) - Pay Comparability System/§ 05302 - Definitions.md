@@ -38,17 +38,17 @@ A prior section 5302, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 458, provided fo
 
 #### Amendments
 
-2004—Par. (8). Pub. L. 108–411 added par. (8) and struck out former par. (8) which read as follows: “the term ‘rates of pay under the General Schedule’, ‘rates of pay for the General Schedule’, or ‘scheduled rates of basic pay’ means—
+<b>2004</b>—Par. (8). Pub. L. 108–411 added par. (8) and struck out former par. (8) which read as follows: “the term ‘rates of pay under the General Schedule’, ‘rates of pay for the General Schedule’, or ‘scheduled rates of basic pay’ means—
 
 &emsp;“(A) the rates of basic pay set forth in the General Schedule; and
 
 &emsp;“(B) in the case of an employee receiving a retained rate of basic pay under section 5363, the rate of basic pay payable under such section; and”.
 
-1993—Par. (8). Pub. L. 103–89, §3(b)(1)(E)(i), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “in the case of an employee covered by the performance management and recognition system, the rates of basic pay under chapter 54; and”.
+<b>1993</b>—Par. (8). Pub. L. 103–89, §3(b)(1)(E)(i), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “in the case of an employee covered by the performance management and recognition system, the rates of basic pay under chapter 54; and”.
 
 Par. (9). Pub. L. 103–89, §3(b)(1)(E)(ii), substituted “applies” for “applies (including any position under the performance management and recognition system)”.
 
-1992—Par. (1)(C). Pub. L. 102–378, §2(25)(A), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “chapter 73 of title 38, relating to the Veterans Health Services and Research Administration;”.
+<b>1992</b>—Par. (1)(C). Pub. L. 102–378, §2(25)(A), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “chapter 73 of title 38, relating to the Veterans Health Services and Research Administration;”.
 
 Par. (8)(C). Pub. L. 102–378, §2(25)(B), added subpar. (C).
 

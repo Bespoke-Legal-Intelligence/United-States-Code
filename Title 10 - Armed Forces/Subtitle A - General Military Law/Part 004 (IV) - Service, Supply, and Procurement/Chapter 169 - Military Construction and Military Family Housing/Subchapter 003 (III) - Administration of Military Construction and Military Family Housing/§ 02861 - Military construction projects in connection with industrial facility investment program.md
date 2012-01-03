@@ -10,7 +10,7 @@ Crediting of Funds to Capital Budget.—Funds appropriated or otherwise made ava
 
 (c)
 
-Notice and Wait Requirement.—When a decision is made to carry out a project under subsection (a), the Secretary of Defense shall notify in writing the appropriate committees of Congress of that decision and the savings estimated to be realized from the project. The project may then be carried out only after the end of the 21-day period beginning on the date the notification is received by such committees or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title.
+Notice and Wait Requirement.—When a decision is made to carry out a project under subsection (a), the Secretary of Defense shall notify in writing the appropriate committees of Congress of that decision and the savings estimated to be realized from the project. The project may then be carried out only after the end of the 21-day period beginning on the date the notification is received by such committeesor, if earlier, the end of the 14-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title.
 
 (d)
 

@@ -142,7 +142,7 @@
 
 &emsp;&emsp;(A) the stay under subsection (a) with respect to any action taken with respect to a debt or property securing such debt or with respect to any lease shall terminate with respect to the debtor on the 30th day after the filing of the later case;
 
-&emsp;&emsp;(B) on the motion of a party in interest for continuation of the automatic stay and upon notice and a hearing, the court may extend the stay in particular cases as to any or all creditors (subject to such conditions or limitations as the court may then impose) after notice and a hearing completed before the expiration of the 30-day period only if the party in interest demonstrates that the filing of the later case is in good faith as to the creditors to be stayed; and
+&emsp;&emsp;(B) on the motion of a party in interest for continuation of the automatic stay and upon notice and a hearing, the court may extend the stay in particular cases as to any or all creditors (subject to such conditions or limitations as the court may then impose) after notice and a hearing completed before theexpiration of the 30-day period only if the party in interest demonstrates that the filing of the later case is in good faith as to the creditors to be stayed; and
 
 &emsp;&emsp;(C) for purposes of subparagraph (B), a case is presumptively filed not in good faith (but such presumption may be rebutted by clear and convincing evidence to the contrary)—
 
@@ -290,7 +290,7 @@
 
 (B) If the debtor files and serves the objection under subparagraph (A), the court shall hold a hearing within 10 days after the filing and service of such objection to determine if the situation giving rise to the lessor's certification under paragraph (1) existed or has been remedied.
 
-(C) If the debtor can demonstrate to the satisfaction of the court that the situation giving rise to the lessor's certification under paragraph (1) did not exist or has been remedied, the stay provided under subsection (a)(3) shall remain in effect until the termination of the stay under this section.
+(C) If the debtor can demonstrate to the satisfaction of the court that the situation giving rise to the lessor's certification under paragraph\(1) did not exist or has been remedied, the stay provided under subsection (a)(3) shall remain in effect until the termination of the stay under this section.
 
 (D) If the debtor cannot demonstrate to the satisfaction of the court that the situation giving rise to the lessor's certification under paragraph (1) did not exist or has been remedied—
 
@@ -330,7 +330,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 362(a)(1) of the House amendment adopts the provision contained in the Senate amendment enjoining the commencement or continuation of a judicial, administrative, or other proceeding to recover a claim against the debtor that arose before the commencement of the case. The provision is beneficial and interacts with section 362(a)(6), which also covers assessment, to prevent harassment of the debtor with respect to pre-petition claims.
 
@@ -342,9 +342,9 @@ Section 362(b)(4) indicates that the stay under section 362(a)(1) does not apply
 
 Section 362(b)(6) of the House amendment adopts a provision contained in the Senate amendment restricting the exception to the automatic stay with respect to setoffs to permit only the setoff of mutual debts and claims. Traditionally, the right of setoff has been limited to mutual debts and claims and the lack of the clarifying term “mutual” in H.R. 8200 as passed by the House created an unintentional ambiguity. Section 362(b)(7) of the House amendment permits the issuance of a notice of tax deficiency. The House amendment rejects section 362(b)(7) in the Senate amendment. It would have permitted a particular governmental unit to obtain a pecuniary advantage without a hearing on the merits contrary to the exceptions contained in sections 362(b)(4) and (5).
 
-Section 362(d) of the House amendment represents a compromise between comparable provisions in the House bill and Senate amendment. Under section 362(d)(1) of the House amendment, the court may terminate, annul, modify, or condition the automatic stay for cause, including lack of adequate protection of an interest in property of a secured party. It is anticipated that the Rules of Bankruptcy Procedure will provide that those hearings will receive priority on the calendar. Under section 362(d)(2) the court may alternatively terminate, annul, modify, or condition the automatic stay for cause including inadequate protection for the creditor. The court shall grant relief from the stay if there is no equity and it is not necessary to an effective reorganization of the debtor.
+Section 362(d) of the House amendment represents a compromise between comparable provisions in the House bill and Senate amendment. Under section 362(d)(1) of the House amendment, the court may terminate, annul, modify, or condition the automatic stay for cause, including lack of adequate protection of an interest in property of a secured party. It is anticipatedthat the Rules of Bankruptcy Procedure will provide that those hearings will receive priority on the calendar. Under section 362(d)(2) the court may alternatively terminate, annul, modify, or condition the automatic stay for cause including inadequate protection for the creditor. The court shall grant relief from the stay if there is no equity and it is not necessary to an effective reorganization of the debtor.
 
-The latter requirement is contained in section 362(d)(2). This section is intended to solve the problemof real property mortgage foreclosures of property where the bankruptcy petition is filed on the eve of foreclosure. The section is not intended to apply if the business of the debtor is managing or leasing real property, such as a hotel operation, even though the debtor has no equity if the property is necessary to an effective reorganization of the debtor. Similarly, if the debtor does have an equity in the property, there is no requirement that the property be sold under section 363 of title 11 as would have been required by the Senate amendment.
+The latter requirement is contained in section 362(d)(2). This section is intended to solve the problem of real property mortgage foreclosures of property where the bankruptcy petition is filed on the eve of foreclosure. The section is not intended to apply if the business of the debtor is managing or leasing real property, such as a hotel operation, even though the debtor has no equity if the property is necessary to an effective reorganization of the debtor. Similarly, if the debtor does have an equity in the property, there is no requirement that the property be sold under section 363 of title 11 as would have been required by the Senate amendment.
 
 Section 362(e) of the House amendment represents a modification of provisions in H.R. 8200 as passed by the House and the Senate amendment to make clear that a final hearing must be commenced within 30 days after a preliminary hearing is held to determine whether a creditor will be entitled to relief from the automatic stay. In order to insure that those hearings will in fact occur within such 30-day period, it is anticipated that the rules of bankruptcy procedure provide that such final hearings receive priority on the court calendar.
 
@@ -366,7 +366,7 @@ Paragraph (7) \[of subsec. (a)\] stays setoffs of mutual debts and credits betwe
 
 Subsection (c) governs automatic termination of the stay. Subsections (d) through (g) govern termination of the stay by the court on the request of a party in interest. Subsection (d) requires the court, on request of a party in interest, to grant relief from the stay, such as by terminating, annulling, modifying, or conditioning the stay, for cause. The lack of adequate protection of an interest in property of the party requesting relief from the stay is one cause for relief, but is not the only cause. As noted above, a desire to permit an action to proceed to completion in another tribunal may provide another cause. Other causes might include the lack of any connection with or interference with the pending bankruptcy case. For example, a divorce or child custody proceeding involving the debtor may bear no relation to the bankruptcy case. In that case, it should not be stayed. A probate proceeding in which the debtor is the executor or administrator of another's estate usually will not be related to the bankruptcy case, and should not be stayed. Generally, proceedings in which the debtor is a fiduciary, or involving postpetition activities of the debtor, need not be stayed because they bear no relationship to the purpose of the automatic stay, which is debtor protection from his creditors. The facts of each request will determine whether relief is appropriate under the circumstances.
 
-Subsection (e) provides a protection for secured creditors that is not available under present law. The subsection sets a time certain within which the bankruptcy court must rule on the adequacy of protection provided of the secured creditor's interest. If the court does not rule within 30 days from a request for relief from the stay, the stay is automatically terminated with respect to the property in question. In order to accommodate more complex cases, the subsection permits the court to make a preliminary ruling after a preliminary hearing. After a preliminary hearing, the court may continue the stay only if there is a reasonable likelihood that the party opposing relief from the stay will prevail at the final hearing. Because the stay is essentially an injunction, the three stages of the stay may be analogized to the three stages of an injunction. The filing of the petition which gives rise to the automatic stay is similar to a temporary restraining order. The preliminary hearing is similar to the hearing on a preliminary injunction, and the final hearing and order is similar to a permanent injunction. The main difference lies in which party must bring the issue before the court. While in the injunction setting, the party seeking the injunction must prosecute the action, in proceedings for relief from the automatic stay, the enjoined party must move. The difference does not, however, shift the burden of proof. Subsection (g) leaves that burden on the party opposing relief from the stay (that is, on the party seeking continuance of the injunction) on the issue of adequate protection.
+Subsection (e) provides a protection for secured creditors that is not available under present law. The subsection sets a time certain within which the bankruptcy court must rule on the adequacy of protection provided of the secured creditor's interest. If the court does not rule within 30 days from a request for relief from the stay, the stay is automatically terminated with respect to the property in question. In order to accommodate more complex cases, the subsection permits the court to make a preliminary ruling after a preliminary hearing. After a preliminary hearing, the court may continue the stay only if there is a reasonable likelihood that the party opposing relief from the stay will prevail at the final hearing. Because the stay is essentially an injunction, the three stages of the stay may be analogized to the three stages of an injunction. The filing of the petition which gives rise to the automatic stay is similar to a temporary restraining order. The preliminary hearing is similar to the hearing on a preliminary injunction, and the final hearing and order is similar to a permanent injunction. The main difference lies in which party must bring the issue before the court. While in the injunction setting, the party seeking the injunction must prosecute the action, in proceedings for relief from the automatic stay, the enjoined party must move. The difference does not, however, shift the burden of proof. Subsection (g) leaves that burden on the party opposing relief fromthe stay (that is, on the party seeking continuance of the injunction) on the issue of adequate protection.
 
 At the expedited hearing under subsection (e), and at all hearings on relief from the stay, the only issue will be the claim of the creditor and the lack of adequate protection or existence of other cause for relief from the stay. This hearing will not be the appropriate time at which to bring in other issues, such as counterclaims against the creditor on largely unrelated matters. Those counterclaims are not to be handled in the summary fashion that the preliminary hearing under this provision will be. Rather, they will be the subject of more complete proceedings by the trustees to recover property of the estate or to object to the allowance of a claim.
 
@@ -386,7 +386,7 @@ Section 408(b)(1) of the Employee Retirement Income Security Act of 1974, referr
 
 #### Amendments
 
-2010—Subsec. (a)(8). Pub. L. 111–327, §2(a)(12)(A), substituted “tax liability of a debtor that is a corporation” for “corporate debtor's tax liability”.
+<b>2010</b>—Subsec. (a)(8). Pub. L. 111–327, §2(a)(12)(A), substituted “tax liability of a debtor that is a corporation” for “corporate debtor's tax liability”.
 
 Subsec. (c)(3). Pub. L. 111–327, §2(a)(12)(B)(i), inserted “a” after “against” in introductory provisions.
 
@@ -396,7 +396,7 @@ Subsec. (d)(4). Pub. L. 111–327, §2(a)(12)(C), substituted “hinder, or” f
 
 Subsec. (<i>l</i>)(2). Pub. L. 111–327, §2(a)(12)(D), substituted “nonbankruptcy” for “nonbankrupcty”.
 
-2006—Subsec. (b)(6), (7). Pub. L. 109–390, §5(a)(2)(A), added pars. (6) and (7) and struck out former pars. (6) and (7) which read as follows:
+<b>2006</b>—Subsec. (b)(6), (7). Pub. L. 109–390, §5(a)(2)(A), added pars. (6) and (7) and struck out former pars. (6) and (7) which read as follows:
 
 “(6) under subsection (a) of this section, of the setoff by a commodity broker, forward contract merchant, stockbroker, financial institution, financial participant, or securities clearing agency of any mutual debt and claim under or in connection with commodity contracts, as defined in section 761 of this title, forward contracts, or securities contracts, as defined in section 741 of this title, that constitutes the setoff of a claim against the debtor for a margin payment, as defined in section 101, 741, or 761 of this title, or settlement payment, as defined in section 101 or 741 of this title, arising out of commodity contracts, forward contracts, or securities contracts against cash, securities, or other property held by, pledged to, under the control of, or due from such commodity broker, forward contract merchant, stockbroker, financial institution, financial participant, or securities clearing agency to margin, guarantee, secure, or settle commodity contracts, forward contracts, or securities contracts;
 
@@ -410,7 +410,7 @@ Subsec. (b)(17). Pub. L. 109–390, §5(a)(2)(B), added par. (17) and struck out
 
 Subsec. (b)(27). Pub. L. 109–390, §5(a)(2)(C), added par. (27) and struck out former par. (27) which read as follows: “under subsection (a), of the setoff by a master netting agreement participant of a mutual debt and claim under or in connection with one or more master netting agreements or any contract or agreement subject to such agreements that constitutes the setoff of a claim against the debtor for any payment or other transfer of property due from the debtor under or in connection with such agreements or any contract or agreement subject to such agreements against any payment due to the debtor from such master netting agreement participant under or in connection with such agreements or any contract or agreement subject to such agreements or against cash, securities, or other property held by, pledged to, under the control of, or due from such master netting agreement participant to margin, guarantee, secure, or settle such agreements or any contract or agreement subject to such agreements, to the extent that such participant is eligible to exercise such offset rights under paragraph (6), (7), or (17) for each individual contract covered by the master netting agreement in issue; and”.
 
-2005—Subsec. (a)(8). Pub. L. 109–8, §709, substituted “a corporate debtor's tax liability for a taxable period the bankruptcy court may determine or concerning the tax liability of a debtor who is an individual for a taxable period ending before the date of the order for relief under this title” for “the debtor”.
+<b>2005</b>—Subsec. (a)(8). Pub. L. 109–8, §709, substituted “a corporate debtor's tax liability for a taxable period the bankruptcy court may determine or concerning the tax liability of a debtor who is an individual for a taxable period ending before the date of the order for relief under this title” for “the debtor”.
 
 Subsec. (b)(2). Pub. L. 109–8, §214, added par. (2) and struck out former par. (2) which read as follows: “under subsection (a) of this section—
 
@@ -470,13 +470,13 @@ Subsec. (n). Pub. L. 109–8, §441(2), added subsec. (n).
 
 Subsec. (<i>o</i>). Pub. L. 109–8, §907(d)(2), added subsec. (<i>o</i>).
 
-1998—Subsec. (b)(4), (5). Pub. L. 105–277 added par. (4) and struck out former pars. (4) and (5) which read as follows:
+<b>1998</b>—Subsec. (b)(4), (5). Pub. L. 105–277 added par. (4) and struck out former pars. (4) and (5) which read as follows:
 
 “(4) under subsection (a)(1) of this section, of the commencement or continuation of an action or proceeding by a governmental unit to enforce such governmental unit's police or regulatory power;
 
 “(5) under subsection (a)(2) of this section, of the enforcement of a judgment, other than a money judgment, obtained in an action or proceeding by a governmental unit to enforce such governmental unit's police or regulatory power;”.
 
-1994—Subsecs. (a), (b). Pub. L. 103–394, §501(d)(7)(A), (B)(i), struck out “(15 U.S.C. 78eee(a)(3))” after “Act of 1970” in introductory provisions.
+<b>1994</b>—Subsecs. (a), (b). Pub. L. 103–394, §501(d)(7)(A), (B)(i), struck out “(15 U.S.C. 78eee(a)(3))” after “Act of 1970” in introductory provisions.
 
 Subsec. (b)(2). Pub. L. 103–394, §304(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “under subsection (a) of this section, of the collection of alimony, maintenance, or support from property that is not property of the estate;”.
 
@@ -508,7 +508,7 @@ Subsec. (d)(3). Pub. L. 103–394, §218(b), added par. (3).
 
 Subsec. (e). Pub. L. 103–394, §101, in last sentence substituted “concluded” for “commenced” and inserted before period at end “, unless the 30-day period is extended with the consent of the parties in interest or for a specific time which the court finds is required by compelling circumstances”.
 
-1990—Subsec. (b)(6). Pub. L. 101–311, §202, inserted reference to sections 101(34) and 101(35) of this title.
+<b>1990</b>—Subsec. (b)(6). Pub. L. 101–311, §202, inserted reference to sections 101(34) and 101(35) of this title.
 
 Subsec. (b)(12). Pub. L. 101–508, §3007(a)(1)(A), which directed the striking of “or” after “State law;”, could not be executed because of a prior amendment by Pub. L. 101–311. See below.
 
@@ -520,9 +520,9 @@ Pub. L. 101–311, §102(2), substituted “; or” for period at end.
 
 Subsec. (b)(14) to (16). Pub. L. 101–508, §3007(a)(1)(C), added pars. (14) to (16). Notwithstanding directory language adding pars. (14) to (16) immediately following par. (13), pars. (14) to (16) were added after par. (14), as added by Pub. L. 101–311, to reflect the probable intent of Congress.
 
-Pub. L. 101–311, §102(3), added par. (14) relating to the setoff by a swap participant of any mutual debt and claim under or in connection with a swap agreement.Notwithstanding directory language adding par. (14) at end of subsec. (b), par. (14) was added after par. (13) to reflect the probable intent of Congress.
+Pub. L. 101–311, §102(3), added par. (14) relating to the setoff by a swap participant of any mutual debt and claim under or in connection with a swap agreement. Notwithstanding directory language adding par. (14) at end of subsec. (b), par. (14) was added after par. (13) to reflect the probable intent of Congress.
 
-1986—Subsec. (b). Pub. L. 99–509 inserted sentence at end.
+<b>1986</b>—Subsec. (b). Pub. L. 99–509 inserted sentence at end.
 
 Subsec. (b)(6). Pub. L. 99–554, §283(d)(1), substituted “, financial institutions” for “financial institution,” in two places.
 
@@ -536,7 +536,7 @@ Subsec. (b)(12), (13). Pub. L. 99–509 added pars. (12) and (13).
 
 Subsec. (c)(2)(C). Pub. L. 99–554, §257(j), inserted reference to chapter 12 of this title.
 
-1984—Subsec. (a)(1). Pub. L. 98–353, §441(a)(1), inserted “action or” after “other”.
+<b>1984</b>—Subsec. (a)(1). Pub. L. 98–353, §441(a)(1), inserted “action or” after “other”.
 
 Subsec. (a)(3). Pub. L. 98–353, §441(a)(2), inserted “or to exercise control over property of the estate”.
 
@@ -566,7 +566,7 @@ Subsec. (f). Pub. L. 98–353, §441(f), substituted “Upon request of a party 
 
 Subsec. (h). Pub. L. 98–353, §304, added subsec. (h).
 
-1982—Subsec. (a). Pub. L. 97–222, §3(a), inserted “, or an application filed under section 5(a)(3) of the Securities Investor Protection Act of 1970 (15 U.S.C. 78eee(a)(3)),” after “this title” in provisions preceding par. (1).
+<b>1982</b>—Subsec. (a). Pub. L. 97–222, §3(a), inserted “, or an application filed under section 5(a)(3) of the Securities Investor Protection Act of 1970 (15 U.S.C. 78eee(a)(3)),” after “this title” in provisions preceding par. (1).
 
 Subsec. (b). Pub. L. 97–222, §3(b), inserted “, or of an application under section 5(a)(3) of the Securities Investor Protection Act of 1970 (15 U.S.C. 78eee(a)(3)),” after “this title” in provisions preceding par. (1).
 

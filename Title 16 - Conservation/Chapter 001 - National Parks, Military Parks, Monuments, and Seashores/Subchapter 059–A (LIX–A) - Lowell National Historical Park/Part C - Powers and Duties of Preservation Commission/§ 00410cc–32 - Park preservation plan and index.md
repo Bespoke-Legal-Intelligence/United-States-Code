@@ -6,7 +6,7 @@
 
 (2) Within eighteen months after the date on which the Commission conducts its first meeting, the Commission shall submit to the Secretary a park preservation plan which meets the requirements of subsection (c) of this section. The Secretary shall, within ninety days after the date on which such plan is submitted to the Secretary, approve or disapprove such plan. The Secretary may not approve such plan unless the Secretary determines that such plan would adequately carry out the purpose of this subchapter.
 
-(3) If the Secretary disapproves a park preservation plan, the Secretary shall advise the Commission of the reasons for such disapproval together with the recommendations of the Secretary for revision of such plan. Within such period as the Secretary may designate, the Commission shall submit a revised park preservation plan to the Secretary. The Secretary shall approve or disapprove any revised park preservation plan in the same manner as required in paragraph (2) of this subsection for the approval or disapproval of the original park preservation plan.
+(3) If the Secretary disapproves a park preservation plan, the Secretary shall advise the Commission of the reasons for such disapproval together with the recommendations of the Secretary for revision of such plan. Within such period as the Secretary may designate, the Commission shall submit a revised park preservation plan to the Secretary. The Secretary shall approve or disapprove any revised park preservation plan in the same manner as required in paragraph (2) of this subsection for the approvalor disapproval of the original park preservation plan.
 
 (4) If the Secretary approves a park preservation plan, the Secretary shall publish notice of such approval in the Federal Register and shall forward copies of the approved plan to the Congress.
 
@@ -16,7 +16,7 @@
 
 #### (b) Funding availability and requirements for plan implementation, activities, etc.
 
-(1) Except as provided in paragraph (2) of this subsection, the Secretary shall not make any funds available to the Commission to carry outsection 410cc–33 or 410cc–34 of this title until a park preservation plan has been approved under subsection (a) of this section.
+(1) Except as provided in paragraph (2) of this subsection, the Secretary shall not make any funds available to the Commission to carry out section 410cc–33 or 410cc–34 of this title until a park preservation plan has been approved under subsection (a) of this section.
 
 (2) Before a park preservation plan is approved under subsection (a) of this section, the Secretary may make available to the Commission such funds as the Commission may request to carry out any activity specified in paragraph (3) of this section. However, no funds shall be made available under this paragraph unless a proposal describing such activity is reviewed and approved by the Secretary.
 

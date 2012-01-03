@@ -24,7 +24,7 @@ Upon—
 
 &emsp;(iv) other relevant factors.
 
-(B) By no later than the date that is 30 days after the date on which the President makes anymodifications or refinements to specific negotiating objectives under subparagraph (A), the President shall submit to appropriate committees of the Congress a statement describing such modifications or refinements and the reasons for such modifications or refinements.
+(B) By no later than the date that is 30 days after the date on which the President makes any modifications or refinements to specific negotiating objectives under subparagraph (A), the President shall submit to appropriate committees of the Congress a statement describing suchmodifications or refinements and the reasons for such modifications or refinements.
 
 #### (c) General negotiating objectives
 

@@ -30,7 +30,7 @@
 
 #### Historical and Revision Notes
 
-I74senate report no. 95–989
+#### senate report no. 95–989
 
 \[Section 947\] Subsection (a) \[enacted as section 944(a)\] makes the provisions of a confirmed plan binding on the debtor and creditors. It is derived from section 95(a) of chapter 9 \[section 415(a) of former title 11\].
 

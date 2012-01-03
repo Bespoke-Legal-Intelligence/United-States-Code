@@ -48,7 +48,7 @@ Assistance made available under this subpart may be used for any of the followin
 
 &emsp;(8) Supporting model projects and programs by Very Special Arts which assure the participation in mainstream settings in arts and education programs of individuals with disabilities.
 
-&emsp;(9) Supporting model projects and programs to integrate arts education into the regularelementary school and secondary school curriculum.
+&emsp;(9) Supporting model projects and programs to integrate arts education into the regular elementary school and secondary school curriculum.
 
 &emsp;(10) Other activities that further the purposes of this subpart.
 

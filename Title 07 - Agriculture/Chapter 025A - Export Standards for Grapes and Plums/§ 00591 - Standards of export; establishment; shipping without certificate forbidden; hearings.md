@@ -6,9 +6,9 @@ It shall be unlawful for any person to ship or offer for shipment or for any car
 
 #### Amendments
 
-1975—Pub. L. 93–606 inserted “and destination” and “to such destination” after “such variety” and “for shipment in export”, respectively.
+<b>1975</b>—Pub. L. 93–606 inserted “and destination” and “to such destination” after “such variety” and “for shipment in export”, respectively.
 
-1961—Pub. L. 87–105 inserted “of any variety” and “for such variety” after “any grapes or plums” and “minimum of quality established”, respectively.
+<b>1961</b>—Pub. L. 87–105 inserted “of any variety” and “for such variety” after “any grapes or plums” and “minimum of quality established”, respectively.
 
 #### Short Title
 

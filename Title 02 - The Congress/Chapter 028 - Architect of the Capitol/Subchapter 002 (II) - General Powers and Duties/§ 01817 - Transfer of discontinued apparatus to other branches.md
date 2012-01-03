@@ -16,9 +16,9 @@ Act Mar. 2, 1911, ch. 192, §9, 36 Stat. 1011.
 
 #### Amendments
 
-1951—Act Oct. 31, 1951, struck out “with the approval of the Secretary of the Interior,” after “whenever,”.
+<b>1951</b>—Act Oct. 31, 1951, struck out “with the approval of the Secretary of the Interior,” after “whenever,”.
 
-1928—Act May 29, 1928, struck out provision that required a transfer statement to be submitted in the annual report to Congress by the Superintendent of the Capitol Building and Grounds.
+<b>1928</b>—Act May 29, 1928, struck out provision that required a transfer statement to be submitted in the annual report to Congress by the Superintendent of the Capitol Building and Grounds.
 
 #### Change of Name
 

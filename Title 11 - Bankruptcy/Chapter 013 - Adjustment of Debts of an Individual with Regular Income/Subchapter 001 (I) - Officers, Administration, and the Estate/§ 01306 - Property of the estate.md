@@ -12,7 +12,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 1306(a)(2) adopts a provision contained in the Senate amendment in preference to a similar provision contained in the House bill.
 
@@ -24,7 +24,7 @@ Subsection (b) nullifies the effect of section 521(3), otherwise applicable, by 
 
 #### Amendments
 
-1986—Subsec. (a). Pub. L. 99–554 inserted reference to chapter 12 in pars. (1) and (2).
+<b>1986</b>—Subsec. (a). Pub. L. 99–554 inserted reference to chapter 12 in pars. (1) and (2).
 
 #### Effective Date of 1986 Amendment
 

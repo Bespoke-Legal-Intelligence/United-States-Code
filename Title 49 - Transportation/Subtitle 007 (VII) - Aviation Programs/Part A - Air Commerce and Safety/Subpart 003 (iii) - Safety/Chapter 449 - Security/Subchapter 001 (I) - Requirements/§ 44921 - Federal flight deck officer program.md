@@ -42,7 +42,7 @@ Issues to be addressed.—The procedural requirements established under paragrap
 
 &emsp;&emsp;(K) Methods for ensuring that security personnel will be able to identify whether a pilot is authorized to carry a firearm under the program.
 
-&emsp;&emsp;(L) Methods for ensuring that pilots (including Federal flight deck officers) will be able to identify whether a passenger is a law enforcement officer who is authorized to carry a firearm aboard the aircraft.
+&emsp;&emsp;(L) Methods for ensuring that pilots (including Federal flight deck officers) will beable to identify whether a passenger is a law enforcement officer who is authorized to carry a firearm aboard the aircraft.
 
 &emsp;&emsp;(M) Any other issues that the Under Secretary considers necessary.
 
@@ -146,7 +146,7 @@ In general.—The Under Secretary shall authorize a Federal flight deck officer 
 
 &emsp;(2)
 
-Preemption.—Notwithstanding any other provision of Federal or State law, a Federal flight deck officer, whenever necessary to participate in the program, may carry a firearm in any State and from 1 State to another State.
+Preemption.—Notwithstanding any other provision of Federal or State law, a Federal flight deck officer, whenever necessary to participate in the program, may carry a firearmin any State and from 1 State to another State.
 
 &emsp;(3)
 
@@ -228,7 +228,7 @@ Section effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–29
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security,relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Equitable Implementation of 2003 Amendments
 
@@ -236,7 +236,7 @@ Pub. L. 108–176, title VI, §609(c), Dec. 12, 2003, 117 Stat. 2570, provided t
 
 #### Time for Implementation
 
-Pub. L. 108–176, title VI, §609(d), Dec. 12, 2003, 117 Stat. 2570, provided that: “The requirements of subsection (e) \[section 609 of Pub. L. 108–176 has no subsec. (e)\] shall have no effect on the deadlines for implementation contained in section 44921 of title 49, United States Code, as in effect on the day before the date of enactment of this Act \[Dec. 12, 2003\].”
+Pub. L. 108–176, title VI, §609(d), Dec. 12, 2003, 117 Stat. 2570, provided that: “The requirements of subsection (e)\[section 609 of Pub. L. 108–176 has no subsec. (e)\] shall have no effect on the deadlines for implementation contained in section 44921 of title 49, United States Code, as in effect on the day before the date of enactment of this Act \[Dec. 12, 2003\].”
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

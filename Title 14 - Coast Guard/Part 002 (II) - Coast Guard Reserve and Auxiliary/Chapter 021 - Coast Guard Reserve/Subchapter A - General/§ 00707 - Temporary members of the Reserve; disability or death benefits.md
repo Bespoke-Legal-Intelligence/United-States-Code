@@ -6,7 +6,7 @@
 
 (c) If a claim is filed under this section with the Secretary of Labor for benefits because of an alleged injury or death, the Secretary of Labor shall notify the Commandant who shall direct an investigation into the facts surrounding the alleged injury or death. The Commandant shall then certify to the Secretary of Labor whether or not the injured or deceased person was a temporary member of the Reserve, the person's military status, and whether or not the injury or death was incurred incident to military service.
 
-(d) A temporary member of the Reserve, who incurs a physical disability or contracts sickness or disease while performing a duty to which the member has been assigned by competent authority, is entitled to the same hospital treatment afforded a member of the Regular Coast Guard.
+(d) A temporary member of the Reserve, who incurs a physical disability or contracts sickness or disease while performing a duty to whichthe member has been assigned by competent authority, is entitled to the same hospital treatment afforded a member of the Regular Coast Guard.
 
 (e) In administering section 8133 of title 5, for a person covered by this section—
 
@@ -38,13 +38,13 @@ Provisions similar to those in this section were contained in section 760 of thi
 
 #### Amendments
 
-1994—Subsec. (e)(3). Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary of Health and Human Services” in two places.
+<b>1994</b>—Subsec. (e)(3). Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary of Health and Human Services” in two places.
 
-1982—Subsec. (e)(1). Pub. L. 97–295, §2(21)(A), substituted “percent” for “per centum” wherever appearing.
+<b>1982</b>—Subsec. (e)(1). Pub. L. 97–295, §2(21)(A), substituted “percent” for “per centum” wherever appearing.
 
 Subsec. (e)(1)(A). Pub. L. 97–295, §2(21)(B), inserted “(42 U.S.C. 401 et seq.)” after “Social Security Act”.
 
-1981—Subsec. (a). Pub. L. 97–136 substituted “monthly pay of the monthly equivalent of the minimum rate of basic pay in effect for grade GS–9 of the General Schedule on the date the injury is incurred” for “monthly pay of $600”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–136 substituted “monthly pay of the monthly equivalent of the minimum rate of basic pay in effect for grade GS–9 of the General Schedule on the date the injury is incurred” for “monthly pay of $600”.
 
 #### Effective Date of 1994 Amendment
 
@@ -52,5 +52,5 @@ Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pu
 
 #### Effective Date of 1981 Amendment
 
-Section 8(b) of Pub. L. 97–136 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply only with respect to payments for benefits under section 707(a) of title 14, United States Code, for months beginning on or after the date of the enactment of this Act \[Dec. 29, 1981\].”
+Pub. L. 97–136, §8(b), Dec. 29, 1981, 95 Stat. 1706, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply only with respect to payments for benefits under section 707(a) of title 14, United States Code, for months beginning on or after the date of the enactment of this Act \[Dec. 29, 1981\].”
 

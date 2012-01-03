@@ -24,7 +24,7 @@ The Congress declares that pursuit of these goals requires that development conc
 
 Under the policy guidance of the Secretary of State, the agency primarily responsible for administering subchapter I of this chapter should have the responsibility for coordinating all United States development-related activities.
 
-(Pub. L. 87–195, pt. I, §101, formerly §102, Sept. 4, 1961, 75 Stat. 424; Pub. L. 87–565, pt. I, §101, Aug. 1, 1962, 76 Stat. 255; Pub. L. 88–205, pt. I, §101(c), Dec. 16, 1963, 77 Stat. 379; Pub. L. 89–171, pt. I, §101, Sept. 6, 1965, 79 Stat. 653; Pub. L. 89–583, pt. I, §101, Sept. 19, 1966, 80 Stat. 796; Pub. L. 90–137, pt. I, §101, Nov. 14, 1967, 81 Stat. 445; Pub. L. 93–189, §2(2), Dec. 17, 1973, 87 Stat. 714; Pub. L. 94–161, title III, §301, Dec. 20, 1975, 89 Stat. 855; Pub. L. 95–88, title I, §§101, 113(b), Aug. 3, 1977, 91 Stat. 533, 538; renumbered and amended Pub. L. 95–424, title I, §101, Oct. 6, 1978, 92 Stat. 937; Pub. L. 106–309, title II, §203(a), Oct. 17, 2000, 114 Stat. 1091.)
+(Pub. L. 87–195, pt. I, §101, formerly §102, Sept. 4, 1961, 75 Stat. 424; Pub. L. 87–565, pt. I, §101, Aug. 1, 1962, 76 Stat. 255; Pub. L. 88–205, pt. I, §101(c), Dec. 16, 1963, 77 Stat. 379; Pub. L. 89–171, pt. I,§101, Sept. 6, 1965, 79 Stat. 653; Pub. L. 89–583, pt. I, §101, Sept. 19, 1966, 80 Stat. 796; Pub. L. 90–137, pt. I, §101, Nov. 14, 1967, 81 Stat. 445; Pub. L. 93–189, §2(2), Dec. 17, 1973, 87 Stat. 714; Pub. L. 94–161, title III, §301, Dec. 20, 1975, 89 Stat. 855; Pub. L. 95–88, title I, §§101, 113(b), Aug. 3, 1977, 91 Stat. 533, 538; renumbered and amended Pub. L. 95–424, title I, §101, Oct. 6, 1978, 92 Stat. 937; Pub. L. 106–309, title II, §203(a), Oct. 17, 2000, 114 Stat. 1091.)
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
 
@@ -60,7 +60,7 @@ Subsec. (e). Pub. L. 95–88, §101(b), added subsec. (e).
 
 <b>1963</b>—Pub. L. 88–205 declared that institution of full investment guaranty programs with all recipient countries would be regarded as a significant measure of self-help by such countries improving investment climate, that assistance to maintain freedom from communism “shall” rather than “should” emphasize long-range development, that in the administration of programs of assistance, every precaution be taken to assure that assistance is not diverted to any short-term emergency purpose or any purpose not essential to long-range economic development, that other industrialized free-world countries increase their contributions and assistance to more equitably share the burden, and the President should in his discretion, extend or withhold assistance from South Vietnam to further victory and the return home of Americans involved in the struggle there.
 
-<b>1962</b>—Pub. L. 87–565 declared distinctions made by foreign nations between American citizens because of race, color, or religion, relating to rights available to such citizens, to be repugnant to our principals, required in the administration of these funds, that consideration be given those countries sharing our world views and which do not divert their resources to military or propaganda efforts, supported by the Soviet Union or Communist China, against the United States or countries receiving aid under this chapter, that the highest emphasis be given to programs for loans or loan guarantees for use by organizations in making low-interest loans to individuals in friendly countries for the purchase of small farms, purchase of homes, aiding or establishing small businesses, purchase of tools and equipment for an occupation or trade, or to obtain practical education in vocational skills, and to programs of technical assistance and development, each assisted country should be encouraged to recognize needs of the people in the preparation of national development programs, and declared that friendly nations are to be invited, where possible, to join in missions to consult with countries receiving assistance on the possibilities of joint action to assure effective development of economic development plans and effective use of assistance provided them, and that the President may request international financial institutions to assist in establishing such missions.
+<b>1962</b>—Pub. L. 87–565 declared distinctions made by foreign nations between American citizens because ofrace, color, or religion, relating to rights available to such citizens, to be repugnant to our principals, required in the administration of these funds, that consideration be given those countries sharing our world views and which do not divert their resources to military or propaganda efforts, supported by the Soviet Union or Communist China, against the United States or countries receiving aid under this chapter, that the highest emphasis be given to programs for loans or loan guarantees for use by organizations in making low-interest loans to individuals in friendly countries for the purchase of small farms, purchase of homes, aiding or establishing small businesses, purchase of tools and equipment for an occupation or trade, or to obtain practical education in vocational skills, and to programs of technical assistance and development, each assisted country should be encouraged to recognize needs of the people in the preparation of national development programs, and declared that friendly nations are to be invited, where possible, to join in missions to consult with countries receiving assistance on the possibilities of joint action to assure effective development of economic development plans and effective use of assistance provided them, and that the President may request international financial institutions to assist in establishing such missions.
 
 #### Effective Date of 1979 Amendment
 
@@ -124,7 +124,7 @@ Pub. L. 106–570, title I, §101, Dec. 27, 2000, 114 Stat. 3039, provided that:
 
 Pub. L. 106–373, §1, Oct. 27, 2000, 114 Stat. 1427, provided that: “This Act \[amending sections 2220a to 2220c and 2220e of this title\] may be cited as the ‘Famine Prevention and Freedom From Hunger Improvement Act of 2000’.”
 
-Pub. L. 106–309, §1, Oct. 17, 2000, 114 Stat. 1078, provided that: “This Act \[enacting sections 2152a to 2152cand 2462 of this title, amending this section and sections 287e–1, 2151–1, 2151f, 2151i, 2151aa, and 2395 of this title, and enacting provisions set out as notes under this section and sections 2151f, 2151i, 2152b, 2152c, 2462, and 2517 of this title and section 402 of Title 10, Armed Forces\] may be cited as the ‘Microenterprise for Self-Reliance and International Anti-Corruption Act of 2000’.”
+Pub. L. 106–309, §1, Oct. 17, 2000, 114 Stat. 1078, provided that: “This Act \[enacting sections 2152a to 2152c and 2462 of this title, amending this section and sections 287e–1, 2151–1, 2151f, 2151i, 2151aa, and 2395 of this title, and enacting provisions set out as notes under this section and sections 2151f, 2151i, 2152b, 2152c, 2462, and 2517 of this title and section 402 of Title 10, Armed Forces\] may be cited as the ‘Microenterprise for Self-Reliance and International Anti-Corruption Act of 2000’.”
 
 Pub. L. 106–309, title I, §101, Oct. 17, 2000, 114 Stat. 1079, provided that: “This title \[enacting sections 2152a and 2152b of this title, amending section 2151f of this title, and enacting provisions set out as notes under sections 2151f and 2152b of this title\] may be cited as the ‘Microenterprise for Self-Reliance Act of 2000’.”
 
@@ -170,7 +170,7 @@ Pub. L. 101–623, §1(a), Nov. 21, 1990, 104 Stat. 3350, provided that: “This
 
 #### Short Title of 1989 Amendments
 
-Pub. L. 101–240, §1(a), Dec. 19, 1989, 103 Stat. 2492, provided that: “This Act \[enacting sections 262m–7, 262p–4g to 262p–4k, 262r to 262r–2, 262s–1, 262t, 283z–5 to 283z–8, 286e–12, 286kk, 2281 to 2286, and 7901 to 7908 of this title and section 3904a of Title 12, Banks and Banking, amending sections 262d, 262m–7, 262p–1, 262p–5, 262s–2, 282b, 283b, 283cc, 284b, 285b, 286b, 286e–9, 286k–1, 286s, 290g–2, 290i–3, and 290k–5 of this title and sections 635 and 635i–3 of Title 12, transferring former section 262q of this title to section 262s of this title, and former section 4722 of Title 15, Commerce and Trade, to section 262s–2 of this title, repealing sections 262i, 262m–6, 276c–3, 283i, 286b–1, and 286b–2 of this title, enacting provisions set out as notes under this section, sections 262d, 283z–6, 2291, and 7901 of this title, and sections 635, 3901, and 3904a of Title 12, amending provisions set out as a note under section 262<i>l</i> of this title, and repealing provisions set out as notes under sections 262g–2 and 283 of this title\] may be cited as the ‘International Development and Finance Act of 1989’.”
+Pub. L. 101–240, §1(a), Dec. 19, 1989, 103 Stat. 2492, provided that: “This Act \[enacting sections 262m–7, 262p–4gto 262p–4k, 262r to 262r–2, 262s–1, 262t, 283z–5 to 283z–8, 286e–12, 286kk, 2281 to 2286, and 7901 to 7908 of this title and section 3904a of Title 12, Banks and Banking, amending sections 262d, 262m–7, 262p–1, 262p–5, 262s–2, 282b, 283b, 283cc, 284b, 285b, 286b, 286e–9, 286k–1, 286s, 290g–2, 290i–3, and 290k–5 of this title and sections 635 and 635i–3 of Title 12, transferring former section 262q of this title to section 262s of this title, and former section 4722 of Title 15, Commerce and Trade, to section 262s–2 of this title, repealing sections 262i, 262m–6, 276c–3, 283i, 286b–1, and 286b–2 of this title, enacting provisions set out as notes under this section, sections 262d, 283z–6, 2291, and 7901 of this title, and sections 635, 3901, and 3904a of Title 12, amending provisions set out as a note under section 262<i>l</i> of this title, and repealing provisions set out as notes under sections 262g–2 and 283 of this title\] may be cited as the ‘International Development and Finance Act of 1989’.”
 
 Pub. L. 101–240, title VII, §701, Dec. 19, 1989, 103 Stat. 2521, provided that: “This title \[enacting sections 2281 to 2286 and 7901 to 7908 of this title and provisions set out as a note under section 7901 of this title of this title\] may be cited as the ‘Global Environmental Protection Assistance Act of 1989’.”
 
@@ -218,7 +218,7 @@ Pub. L. 96–257, §1, May 31, 1980, 94 Stat. 422, provided: “That this Act \[
 
 #### Short Title of 1979 Amendments
 
-Pub. L. 96–92, §1, Oct. 29, 1979, 93 Stat. 701, provided that: “This Act \[enacting sections 2346d, 2767, and 2768 of this title, amending sections 2261, 2291, 2291a, 2304, 2312, 2318, 2321h to 2321j, 2346 to 2346c, 2347a, 2348, 2348a,2403, 2753, 2761, 2765, 2771, 2773, 2776, 2778, 2792, and 2794 of this title, and enacting provisions set out as notes under this section and sections 2321h, 2346c, 2771, 2776, and 3302 of this title\] may be cited as the ‘International Security Assistance Act of 1979’.”
+Pub. L. 96–92, §1, Oct. 29, 1979, 93 Stat. 701, provided that: “This Act \[enacting sections 2346d, 2767, and 2768 of this title, amending sections 2261, 2291, 2291a, 2304, 2312, 2318, 2321h to 2321j, 2346 to 2346c, 2347a, 2348, 2348a, 2403, 2753, 2761, 2765, 2771, 2773, 2776, 2778, 2792, and 2794 of this title, and enacting provisions set out as notes under this section and sections 2321h, 2346c, 2771, 2776, and 3302 of this title\] may be cited as the ‘International Security Assistance Act of 1979’.”
 
 Pub. L. 96–53, §1, Aug. 14, 1979, 93 Stat. 359, provided that: “This Act \[enacting sections 2151x, 2151y, 2374, and 3501 to 3513 of this title, and sections 1736g of Title 7, Agriculture, amending sections 2151–1, 2151a to 2151d, 2151i, 2151k, 2151n, 2151p, 2151q, 2151s, 2151u, 2151v, 2174, 2182, 2182a, 2183, 2220b, 2222, 2292a, 2292<i>l</i>, 2304, 2357, 2361, 2385a, 2395, 2399c, 2421, 2427, 2502, and 2506 of this title, sections 5314 to 5316 and 5924 of Title 5, Government Organization and Employees, and sections 1703, 1704, 1722, 1726, 1727, 1727a, 1727b, 1727d to 1727f, 1731, and 1734 of Title 7, and enacting provisions set out as notes under this section and sections 2151n, 2151y, 2312, 2385a, and 3201 of this title\] may be cited as the ‘International Development Cooperation Act of 1979’.”
 
@@ -254,11 +254,11 @@ Pub. L. 93–333, §1, July 8, 1974, 88 Stat. 290, provided: “That this Act \[
 
 #### Short Title of 1973 Amendment
 
-Section 1 of Pub. L. 93–189 provided: “That this Act \[enacting sections 2151a to 2151<i>l</i>, 2303, 2399–1a, 2399–1b, 2399c, 2399d, 2431 to 2434 and 2794 of this title, amending this section and sections 285n, 1934, 2163, 2171, 2174, 2181, 2183, 2195, 2199, 2200, 2212, 2219a, 2221, 2222, 2261, 2291, 2291a, 2311, 2312, 2314, 2318, 2321b, 2321f, 2346a, 2367, 2370, 2385, 2394, and section 2397 of this title, repealing sections 2314a, 2319 to 2321, 2321e, 2321g, and 2346a, of this title, and enacting provisions set out as notes under this section and sections 1942, 2163, 2220, 2415, and 2431 of this title\] may be cited as the ‘Foreign Assistance Act of 1973’.”
+Section 1 of Pub. L. 93–189 provided: “That this Act \[enacting sections 2151a to 2151<i>l</i>, 2303, 2399–1a, 2399–1b, 2399c, 2399d, 2431 to 2434 and 2794 of this title, amending this section and sections 285n, 1934, 2163, 2171, 2174, 2181,2183, 2195, 2199, 2200, 2212, 2219a, 2221, 2222, 2261, 2291, 2291a, 2311, 2312, 2314, 2318, 2321b, 2321f, 2346a, 2367, 2370, 2385, 2394, and section 2397 of this title, repealing sections 2314a, 2319 to 2321, 2321e, 2321g, and 2346a, of this title, and enacting provisions set out as notes under this section and sections 1942, 2163, 2220, 2415, and 2431 of this title\] may be cited as the ‘Foreign Assistance Act of 1973’.”
 
 #### Short Title of 1972 Amendment
 
-Pub. L. 92–226, §1, Feb. 7, 1972, 86 Stat. 20, provided: “That this Act \[enacting sections 2180a, 2291, 2292, 2321dto 2321g, 2346 to 2346b, and 2413 to 2418 of this title, amending sections 276, 290f, 1476, 1928b, 2162, 2163, 2169, 2172, 2174, 2181, 2183, 2198, 2199, 2200, 2212, 2219a, 2222, 2261, 2312, 2314, 2318, 2319, 2321b, 2370, 2384, 2394, 2397, 2403, 2411, 2684, 2771, 2773, and 2791 of this title and section 5314 of Title 5, Government Organization and Employees, repealing sections 2165 and 2241 to 2243 of this title, and enacting provisions set out as notes under this section and sections 287e, 2411, 2417, and 2680 of this title\] may be cited as the ‘Foreign Assistance Act of 1971’.”
+Pub. L. 92–226, §1, Feb. 7, 1972, 86 Stat. 20, provided: “That this Act \[enacting sections 2180a, 2291, 2292, 2321d to 2321g, 2346 to 2346b, and 2413 to 2418 of this title, amending sections 276, 290f, 1476, 1928b, 2162, 2163, 2169, 2172, 2174, 2181, 2183, 2198, 2199, 2200, 2212, 2219a, 2222, 2261, 2312, 2314, 2318, 2319, 2321b, 2370, 2384, 2394, 2397, 2403, 2411, 2684, 2771, 2773, and 2791 of this title and section 5314 of Title 5, Government Organization and Employees, repealing sections 2165 and 2241 to 2243 of this title, and enacting provisions set out as notes under this section and sections 287e, 2411, 2417, and 2680 of this title\] may be cited as the ‘Foreign Assistance Act of 1971’.”
 
 #### Short Title of 1971 Amendment
 
@@ -334,7 +334,297 @@ Section 642 of Pub. L. 87–195, as amended by Pub. L. 89–171, pt. III, §303(
 
 Any reference in this chapter to the agency primarily responsible for administering this subchapter, or to the Administrator of such agency, deemed reference to the United States Agency for International Development or to the Administrator of that agency, as appropriate, see section 1–200(a) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
+#### Global Security Contingency Fund
+
+Pub. L. 112–81, div. A, title XII, §1207, Dec. 31, 2011, 125 Stat. 1625, provided that:
+
+“(a)
+
+Establishment.—There is established on the books of the Treasury of the United States an account to be known as the ‘Global Security Contingency Fund’ (in this section referred to as the ‘Fund’).
+
+“(b)
+
+Authority.—Notwithstanding any other provision of law (other than the provisions of section 620A of the Foreign Assistance Act of 1961 (22 U.S.C. 2371) and the section 620J of such Act relating to limitations on assistance to security forces (22 U.S.C. 2378d)), amounts in the Fund shall be available to either the Secretary of State or the Secretary of Defense to provide assistance to countries designated by the Secretary of State, with the concurrence of the Secretary of Defense, for purposes of this section, as follows:
+
+&emsp;“(1) To enhance the capabilities of a country's national military forces, and other national security forces that conduct border and maritime security, internal defense, and counterterrorism operations, as well as the government agencies responsible for such forces, to—
+
+&emsp;&emsp;“(A) conduct border and maritime security, internal defense, and counterterrorism operations; and
+
+&emsp;&emsp;“(B) participate in or support military, stability, or peace support operations consistent with United States foreign policy and national security interests.
+
+&emsp;“(2) For the justice sector (including law enforcement and prisons), rule of law programs, and stabilization efforts in a country in cases in which the Secretary of State, in consultation with the Secretary of Defense, determines that conflict or instability in a country or region challenges the existing capability of civilian providers to deliver such assistance.
+
+“(c)
+
+Types of Assistance.—
+
+&emsp;“(1)
+
+Authorized elements.—A program to provide the assistance under subsection (b)(1) may include the provision of equipment, supplies, and training.
+
+&emsp;“(2)
+
+Required elements.—A program to provide the assistance under subsection (b)(1) shall include elements that promote—
+
+&emsp;&emsp;“(A) observance of and respect for human rights and fundamental freedoms; and
+
+&emsp;&emsp;“(B) respect for legitimate civilian authority within the country concerned.
+
+“(d)
+
+Formulation and Approval of Assistance Programs.—
+
+&emsp;“(1)
+
+Security programs.—The Secretary of State and the Secretary of Defense shall jointly formulate assistance programs under subsection (b)(1). Assistance programs to be carried out pursuant to subsection (b)(1) shall be approved by the Secretary of State, with the concurrence of the Secretary of Defense, before implementation.
+
+&emsp;“(2)
+
+Justice sector and stabilization programs.—The Secretary of State, in consultation with the Secretary of Defense, shall formulate assistance programs under subsection (b)(2). Assistance programs to be carried out under the authority in subsection (b)(2) shall be approved by the Secretary of State, with the concurrence of the Secretary of Defense, before implementation.
+
+“(e)
+
+Relation to Other Authorities.—The authority to provide assistance under this section is in addition to any other authority to provide assistance to foreign nations. The administrative authorities of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.) shall be available to the Secretary of State with respect to funds available to carry out this section.
+
+“(f)
+
+Transfer Authority.—
+
+&emsp;“(1)
+
+Department of defense funds.—Funds authorized to be appropriated to the Department of Defense for operation and maintenance for Defense-wide activities may be transferred to the Fund by the Secretary of Defense in accordance with established procedures for reprogramming under section 1001 of this Act \[125 Stat. 1554\] and successor provisions of law. Amounts transferred under this paragraph shall be merged with funds otherwise made available under this section and remain available until expended as provided in subsection (i) for the purposes specified in subsection (b).
+
+&emsp;“(2)
+
+Limitation.—The total amount of funds transferred to the Fund in any fiscal year from the Department of Defense may not exceed $200,000,000.
+
+&emsp;“(3)
+
+Transfers to other accounts.—Funds available to carry out assistance authorized by this section may be transferred to an agency or account determined most appropriate to facilitate the provision of assistance authorized by this section.
+
+&emsp;“(4)
+
+Relation to other transfer authorities.—The transfer authorities in paragraphs (1) and (3) are in addition to any other transfer authority available to the Department of Defense.
+
+“(g)
+
+Allocation of Contributions To Assistance.—The contribution of the Secretary of State to an activity under the authority in subsection (b) shall be not less than 20 percent of the total amount required for such activity. The contribution of the Secretary of Defense to such activity shall be not more than 80 percent of the total amount required.
+
+“(h)
+
+Authority To Accept Gifts.—The Secretary of State may use money, funds, property, and services accepted pursuant to the authority of section 635(d) of the Foreign Assistance Act of 1961 (22 U.S.C. 2395(d)) to fulfill the purposes of subsection (b).
+
+“(i)
+
+Availability of Funds.—Amounts in the Fund shall remain available until September 30, 2015, except that amounts appropriated or transferred to the Fund before that date shall remain available for obligation and expenditure after that date for activities under programs commenced under subsection (b) before that date.
+
+“(j)
+
+Administrative Expenses.—Amounts in the Fund may be used for necessary administrative expenses in connection with the provision of assistance under this section.
+
+“(k)
+
+Detail of Personnel.—The head of an agency of the United States Government may detail personnel to the Department of State to carry out the purposes of this section, with or without reimbursement for all or part of the costs of salaries and other expenses associated with such personnel.
+
+“(<i>l</i>)
+
+Notices to Congress.—
+
+&emsp;“(1)
+
+In general.—Not less than 15 days before initiating an activity under a program of assistance under subsection (b), the Secretary of State, with the concurrence of the Secretary of Defense, shall submit to the specified congressional committees a notification that includes the following:
+
+&emsp;&emsp;“(A) A detailed justification for the program.
+
+&emsp;&emsp;“(B) The budget, execution plan and timeline, and anticipated completion date for the activity.
+
+&emsp;&emsp;“(C) A list of other security-related assistance or justice sector and stabilization assistance that the United States is currently providing the country concerned and that is related to or supported by the activity.
+
+&emsp;&emsp;“(D) Such other information relating to the program or activity as the Secretary of State or Secretary of Defense considers appropriate.
+
+&emsp;“(2)
+
+Exercise of transfer authority.—No transfer of funds into the Fund under subsection (f) or any other authority may occur until 15 days after the specified congressional committees are notified of the transfer.
+
+&emsp;“(3)
+
+Guidance and processes for exercise of authority.—The Secretary of State, with the concurrence of the Secretary of Defense, shall notify the specified congressional committees 15 days after the date on which all necessary guidance has been issued and processes for implementation of the authority in subsection (b) are established and fully operational.
+
+“(m)
+
+Annual Reports.—Not later than October 30, 2012, and annually thereafter until the expiration of the authority in subsection (b) pursuant to subsection (q), the Secretary of State and the Secretary of Defense jointly shall submit to the specified congressional committees a report on the following:
+
+&emsp;“(1) The obligation of funds from, and transfer of funds into, the Fund during the preceding fiscal year.
+
+&emsp;“(2) The status of programs and activities authorized under this section during the preceding fiscal year.
+
+“(n)
+
+Transitional Authorities.—
+
+&emsp;“(1)
+
+In general.—The Secretary of Defense may, with the concurrence of the Secretary of State, provide the types of assistance described in subsection (c), and assistance for minor military construction, during fiscal year 2012 as follows:
+
+&emsp;&emsp;“(A) To enhance the capacity of the national military forces, security agencies serving a similar defense function, and border security forces of Djibouti, Ethiopia, and Kenya to conduct counterterrorism operations against al-Qaeda, al-Qaeda affiliates, and al Shabaab.
+
+&emsp;&emsp;“(B) To enhance the capacity of national military forces participating in the African Union Mission in Somalia to conduct counterterrorism operations described in subparagraph (A).
+
+&emsp;&emsp;“(C) To enhance the ability of the Yemen Ministry of Interior Counter Terrorism Forces to conduct counter-terrorism operations against al-Qaeda in the Arabian Peninsula and its affiliates.
+
+&emsp;“(2)
+
+Limitations.—
+
+&emsp;&emsp;“(A)
+
+Assistance otherwise prohibited by law.—The Secretary of Defense may not use the authority in this subsection to provide any type of assistance that is otherwise prohibited by any provision of law.
+
+&emsp;&emsp;“(B)
+
+Eligible countries.—The Secretary of Defense may not use the authority in this subsection to provide a type of assistance to a foreign country that is otherwise prohibited from receiving such type of assistance under any other provision of law.
+
+&emsp;&emsp;“(C)
+
+Yemen.—The authority specified in paragraph (1)(C), and the authority to provide assistance pursuant to section 1206 of the National Defense Authorization Act for Fiscal Year 2006 (Public Law 109–163; 119 Stat. 2456 \[3456\]), may not be used for Yemen until 30 days after the date on which the Secretary of Defense and the Secretary of State jointly certify in writing to the specified congressional committees that the use of such authority is important to the national security interests of the United States. The certification shall include the following:
+
+&emsp;&emsp;&emsp;“(i) The reasons for the certification.
+
+&emsp;&emsp;&emsp;“(ii) A justification for the provision of assistance.
+
+&emsp;&emsp;&emsp;“(iii) An acknowledgment by the Secretary of Defense and the Secretary of State that they have received assurance from the Government of Yemen that any assistance so provided will be utilized in manner consistent with subsection (c)(2).
+
+&emsp;“(3)
+
+Notice to congress.—Not less than 15 days before funds are obligated to provide assistance under this subsection, the Secretary of Defense shall submit to the specified congressional committees a notice setting forth the following:
+
+&emsp;&emsp;“(A) The type of assistance to be provided.
+
+&emsp;&emsp;“(B) The national military forces to be supported.
+
+&emsp;&emsp;“(C) The objectives of such assistance.
+
+&emsp;&emsp;“(D) The estimated cost of such assistance.
+
+&emsp;&emsp;“(E) The intended duration of such assistance.
+
+&emsp;“(4)
+
+Termination.—
+
+&emsp;&emsp;“(A)
+
+In general.—Assistance authorized by this subsection may be provided until the earlier of—
+
+&emsp;&emsp;&emsp;“(i) the date on which the Secretary of State determines that all necessary guidance has been issued and processes for implementation of the authority in subsection (b) are established and fully operational; or
+
+&emsp;&emsp;&emsp;“(ii) September 30, 2012.
+
+&emsp;&emsp;“(B)
+
+Completion of ongoing activities after termination.—An assistance activity authorized by this subsection that begins before the date of termination provided in subparagraph (A) may be completed after that date, but only using funds available before that date.
+
+“(<i>o</i>)
+
+Funding.—
+
+&emsp;“(1)
+
+Fiscal year 2012.—The total amount available to the Department of Defense and the Department of State to provide assistance under this section during fiscal year 2012 may not exceed $350,000,000, of which—
+
+&emsp;&emsp;“(A) $75,000,000 may be used for assistance authorized by subparagraphs (A) and (B) of subsection (n)(1); and
+
+&emsp;&emsp;“(B) $75,000,000 may be used for assistance authorized by subparagraph (C) of subsection (n)(1).
+
+&emsp;“(2)
+
+Fiscal years 2013 and after.—The total amount available to the Department of Defense and the Department of State to provide assistance under this section during a fiscal year after fiscal year 2012 may not exceed $300,000,000.
+
+“(p)
+
+Specified Congressional Committees.—In this section, the term ‘specified congressional committees’ means—
+
+&emsp;“(1) the Committee on Armed Services, the Committee on Foreign Affairs, and the Committee on Appropriations of the House of Representatives; and
+
+&emsp;“(2) the Committee on Armed Services, the Committee on Foreign Relations, and the Committee on Appropriations of the Senate.
+
+“(q)
+
+Expiration.—The authority under this section may not be exercised after September 30, 2015. An activity under a program authorized by subsection (b) commenced before that date may be completed after that date, but only using funds available for fiscal years 2012 through 2015.”
+
 #### Lord's Resistance Army Disarmament and Northern Uganda Recovery
+
+Pub. L. 112–81, div. A, title XII, §1206, Dec. 31, 2011, 125 Stat. 1624, provided that:
+
+“(a)
+
+Authority.—Pursuant to the policy established by the Lord's Resistance Army Disarmament and Northern Uganda Recovery Act of 2009 (Public Law 111–172; 124 Stat. 1209 \[set out below\]), the Secretary of Defense may, with the concurrence of Secretary of State, provide logistic support, supplies, and services for foreign forces participating in operations to mitigate and eliminate the threat posed by the Lord's Resistance Army as follows:
+
+&emsp;“(1) The national military forces of Uganda.
+
+&emsp;“(2) The national military forces of any other country determined by the Secretary of Defense, with the concurrence of the Secretary of State, to be participating in such operations.
+
+“(b)
+
+Participation of United States Personnel.—No United States Armed Forces personnel, United States civilian employees, or United States civilian contractor personnel may participate in combat operations in connection with the provision of support under subsection (a), except for the purpose of acting in self-defense or of rescuing any United States citizen (including any member of the United States Armed Forces, any United States civilian employee, or any United States civilian contractor).
+
+“(c)
+
+Funding.—
+
+&emsp;“(1)
+
+In general.—Of the amount authorized to be appropriated for the Department of Defense for each of fiscal years 2012 and 2013 for operation and maintenance, not more than $35,000,000 may be utilized in each such fiscal year to provide support under subsection (a).
+
+&emsp;“(2)
+
+Availability of funds across fiscal years.—Amounts available under this subsection for a fiscal year for support under the authority in subsection (a) may be used for support under that authority that begins in such fiscal year but ends in the next fiscal year.
+
+“(d)
+
+Limitations.—
+
+&emsp;“(1)
+
+In general.—The Secretary of Defense may not use the authority in subsection (a) to provide any type of support that is otherwise prohibited by any provision of law.
+
+&emsp;“(2)
+
+Eligible countries.—The Secretary of Defense may not use the authority in subsection (a) to provide support to any foreign country that is otherwise prohibited from receiving such type of support under any other provision of law.
+
+“(e)
+
+Notice to Congress on Eligible Countries.—The Secretary of Defense may not provide support under subsection (a) for the national military forces of a country determined to be eligible for such support under that subsection until the Secretary notifies the appropriate committees of Congress of the eligibility of the country for such support.
+
+“(f)
+
+Notice to Congress on Support to Be Provided.—Not less than 15 days before the date on which funds are obligated to provide support under subsection (a), the Secretary of Defense shall submit to the appropriate committees of Congress a notice setting forth the following:
+
+&emsp;“(1) The type of support to be provided.
+
+&emsp;“(2) The national military forces to be supported.
+
+&emsp;“(3) The objectives of such support.
+
+&emsp;“(4) The estimated cost of such support.
+
+&emsp;“(5) The intended duration of such support.
+
+“(g)
+
+Definitions.—In this section:
+
+&emsp;“(1) The term ‘appropriate committees of Congress’ means—
+
+&emsp;&emsp;“(A) the Committee on Armed Services, the Committee on Foreign Relations, and the Committee on Appropriations of the Senate; and
+
+&emsp;&emsp;“(B) the Committee on Armed Services, the Committee on Foreign Affairs, and the Committee on Appropriations of the House of Representatives.
+
+&emsp;“(2) The term ‘logistic support, supplies, and services’ has the meaning given that term in section 2350(1) of title 10, United States Code.
+
+“(h)
+
+Expiration.—The authority provided under this section may not be exercised after September 30, 2013.”
 
 Pub. L. 111–172, May 24, 2010, 124 Stat. 1209, provided that:
 
@@ -364,7 +654,7 @@ Pub. L. 111–172, May 24, 2010, 124 Stat. 1209, provided that:
 
 &emsp;“(9) Despite the refusal of Joseph Kony to sign the Final Peace Agreement, the Government of Uganda has committed to continue reconstruction plans for northern Uganda, and to implement those mechanisms of the Final Peace Agreement not conditional on the compliance of the Lord's Resistance Army.
 
-&emsp;“(10) Since 2008, recovery efforts in northern Uganda have moved forward with the financial support of the United States and other donors, but have been hampered by a lack of strategic coordination, logistical delays, and limited leadership from the Government of Uganda.
+&emsp;“(10) Since 2008, recovery efforts in northern Uganda have moved forward with the financial support ofthe United States and other donors, but have been hampered by a lack of strategic coordination, logistical delays, and limited leadership from the Government of Uganda.
 
 #### “SEC. 3. STATEMENT OF POLICY.
 
@@ -462,7 +752,7 @@ Authority.—In accordance with section 531 of the Foreign Assistance Act of 196
 
 “(a)
 
-Report Required.—Not later than 1 year after the submission of the strategy required under section 4, the Secretary of State shall prepare and submit to theappropriate committees of Congress a report on the progress made toward the implementation of the strategy required under section 4 and a description and evaluation of the assistance provided under this Act toward the policy objectives described in section 3.
+Report Required.—Not later than 1 year after the submission of the strategy required under section 4, the Secretary of State shall prepare and submit to the appropriate committees of Congress a report on the progress made toward the implementation of the strategy required under section 4 and a description and evaluation of the assistance provided under this Act toward the policy objectives described in section 3.
 
 “(b)
 
@@ -706,7 +996,7 @@ Pub. L. 109–456, Dec. 22, 2006, 120 Stat. 3384, provided that:
 
 &emsp;“(5) The most recent war in the Democratic Republic of the Congo, which erupted in 1998, spawned some of the world's worst human rights atrocities and drew in six neighboring countries.
 
-&emsp;“(6) Despite the conclusion of a peace agreement and subsequent withdrawal of foreign forces in 2003,both the real and perceived presence of armed groups hostile to the Governments of Uganda, Rwanda, and Burundi continue to serve as a major source of regional instability and an apparent pretext for continued interference in the Democratic Republic of the Congo by its neighbors.
+&emsp;“(6) Despite the conclusion of a peace agreement and subsequent withdrawal of foreign forces in 2003, both the real and perceived presence of armed groups hostile to the Governments of Uganda, Rwanda, and Burundi continue to serve as a major source of regional instability and an apparent pretext for continued interference in the Democratic Republic of the Congo by its neighbors.
 
 &emsp;“(7) A mortality study completed in December 2004 by the International Rescue Committee found that 31,000 people were dying monthly and 3,800,000 people had died in the previous six years because of the conflict in the Democratic Republic of the Congo and resulting disintegration of the social service infrastructure, making this one of the deadliest conflicts since World War II.
 
@@ -824,7 +1114,7 @@ Contents.—The report required under subsection (a) shall include—
 
 #### “SEC. 107. SPECIAL ENVOY FOR THE GREAT LAKES REGION.
 
-“Not later than 60 days after the date of the enactment of this Act \[Dec. 22, 2006\], the President should appoint a Special Envoy for the Great Lakes Region to help coordinate efforts to resolve the instability and insecurity in Eastern Congo.
+“Not later than 60 days after the date of the enactment of this Act \[Dec. 22, 2006\], the President should appoint a Special Envoy for the Great Lakes Region tohelp coordinate efforts to resolve the instability and insecurity in Eastern Congo.
 
 #### “TITLE II—MULTILATERAL ACTIONS TO ADDRESS URGENT NEEDS IN THE DEMOCRATIC REPUBLIC OF THE CONGO
 
@@ -852,7 +1142,7 @@ Contents.—The report required under subsection (a) shall include—
 
 &emsp;“(5) to ensure that the practice of recruiting and arming children in the Democratic Republic of the Congo is immediately halted pursuant to Security Council Resolutions 1460 (2003) and 1539 (2004);
 
-&emsp;“(6) to strengthen the arms embargo imposed pursuant to Security Council Resolution 1493 (2003) and ensure that violators are held accountable throughappropriate measures, including the possible imposition of sanctions;
+&emsp;“(6) to strengthen the arms embargo imposed pursuant to Security Council Resolution 1493 (2003) and ensure that violators are held accountable through appropriate measures, including the possible imposition of sanctions;
 
 &emsp;“(7) to allow for the more effective protection and monitoring of natural resources in the Democratic Republic of the Congo, especially in the eastern part of the country, and for public disclosure and independent auditing of natural resource revenues to help ensure transparent and accountable management of these revenues;
 
@@ -964,7 +1254,7 @@ Pub. L. 108–175, Dec. 12, 2003, 117 Stat. 2482, provided that:
 
 &emsp;“(1) On June 24, 2002, President Bush stated ‘Syria must choose the right side in the war on terror by closing terrorist camps and expelling terrorist organizations’.
 
-&emsp;“(2) United Nations Security Council Resolution 1373 (September 28, 2001) mandates that all states ‘refrain from providing any form of support, active or passive, to entities or persons involved in terrorist acts’, take ‘the necessary steps to prevent the commission of terrorist acts’, and ‘deny safe haven tothose who finance, plan, support, or commit terrorist acts’.
+&emsp;“(2) United Nations Security Council Resolution 1373 (September 28, 2001) mandates that all states ‘refrain from providing any form of support, active or passive, to entities or persons involved in terrorist acts’, take ‘the necessary steps to prevent the commission of terrorist acts’, and ‘deny safe haven to those who finance, plan, support, or commit terrorist acts’.
 
 &emsp;“(3) The Government of Syria is currently prohibited by United States law from receiving United States assistance because it has repeatedly provided support for acts of international terrorism, as determined by the Secretary of State for purposes of section 6(j)(1) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)) and other relevant provisions of law.
 
@@ -1132,7 +1422,7 @@ Certification.—A certification under this subsection is a certification transm
 
 “(a)
 
-Report.—Not later than 6 months after the date of the enactment of this Act \[Dec. 12, 2003\], and every 12 months thereafter until the conditions described in paragraphs (1) through (4) of section 5(d) are satisfied, the Secretary of State shall submit to the appropriate congressional committees a report on—
+Report.—Not later than 6 months after the date of the enactment of this Act \[Dec. 12, 2003\], and every12 months thereafter until the conditions described in paragraphs (1) through (4) of section 5(d) are satisfied, the Secretary of State shall submit to the appropriate congressional committees a report on—
 
 &emsp;“(1) Syria's progress toward meeting the conditions described in paragraphs (1) through (4) of section 5(d);
 
@@ -1180,51 +1470,11 @@ Sec. 2208. Any reference in this chapter \[chapter 2 of title II of Pub. L. 108�
 
 #### Reports on Iraqi Oil Production and Revenues
 
-Pub. L. 108–106, title II, §2215(a), Nov. 6, 2003, 117 Stat. 1232, provided that:
-
-“(1) The Coalition Provisional Authority (CPA) shall, on a monthly basis until September 30, 2006, submit a report to the Committees on Appropriations which details, for the preceding month, Iraqi oil production and oil revenues, and uses of such revenues.
-
-“(2) The first report required by this subsection shall be submitted not later than 30 days after enactment of this Act \[Nov. 6, 2003\].
-
-“(3) The reports required by this subsection shall also be made publicly available in both English and Arabic, including through the CPA's Internet website.”
+Pub. L. 108–106, title II, §2215(a), Nov. 6, 2003, 117 Stat. 1232, required the Coalition Provisional Authority in Iraq to report, not later than 30 days after Nov. 6, 2003, and on a monthly basis until Sept. 30, 2006, Iraqi oil production and oil revenues, and uses of such revenues.
 
 #### Reports on United States Strategy for Relief and Reconstruction in Iraq
 
-Pub. L. 108–11, title I, §1506, Apr. 16, 2003, 117 Stat. 580, provided that:
-
-“(a)
-
-Initial Report.—Not later than 45 days after the date of enactment of this Act \[Apr. 16, 2003\], the President shall submit to the Committees on Appropriations a report on the United States strategy regarding activities related to post-conflict security, humanitarian assistance, governance, and reconstruction in Iraq that are undertaken as a result of Operation Iraqi Freedom. The report shall include the following:
-
-&emsp;“(1) The distribution of duties and responsibilities regarding such activities among agencies of the United States Government, including the Department of State, the United States Agency for International Development, and the Department of Defense (to be provided within 30 days of enactment of this Act).
-
-&emsp;“(2) A detailed plan describing the roles and responsibilities of foreign governments and international organizations including the United Nations, in carrying out activities related to post-conflict security, humanitarian assistance, governance, and reconstruction in Iraq.
-
-&emsp;“(3) A strategy for coordinating such activities among the United States Government, foreign governments and international organizations, including the United Nations.
-
-&emsp;“(4) An initial estimate of the costs expected to be associated with such activities.
-
-&emsp;“(5) A strategy for distributing the responsibility for paying costs associated with reconstruction activities in Iraq among the United States, foreign governments, and international organizations, including the United Nations, and an estimate of the revenue expected to be generated by Iraqi oil production that could be used to pay such costs.
-
-“(b)
-
-Subsequent Reports.—Not later than 90 days after the date of enactment of this Act \[Apr. 16, 2003\], and every 90 days thereafter until September 30, 2004, the President shall submit to the Committees on Appropriations a report that contains:
-
-&emsp;“(1) A list of significant United States Government-funded activities related to reconstruction in Iraq that, during the 90-day period ending 15 days prior to the date the report is submitted to the Committees on Appropriations—
-
-&emsp;&emsp;“(A) were initiated; or
-
-&emsp;&emsp;“(B) were completed.
-
-&emsp;“(2) A list of the significant activities related to reconstruction in Iraq that the President anticipates initiating during the 90-day period beginning on the date the report is submitted to the Committees on Appropriations, including:
-
-&emsp;&emsp;“(A) Cost estimates for carrying out the proposed activities.
-
-&emsp;&emsp;“(B) The source of the funds that will be used to pay such costs.
-
-&emsp;“(3) Updated strategies, if changes are proposed regarding matters included in the reports required under subsection (a).
-
-&emsp;“(4) An updated list of the financial pledges and contributions made by foreign governments or international organizations to fund activities related to humanitarian, governance, and reconstruction assistance in Iraq.”
+Pub. L. 108–11, title I, §1506, Apr. 16, 2003, 117 Stat. 580, required the President to submit (1) not later than 45 days after Apr. 16, 2003, an initial report on United States strategy regarding post-conflict security, humanitarian assistance, governance, and reconstruction in Iraq undertaken as a result of Operation Iraqi Freedom, and (2) not later than 90 days after Apr. 16, 2003, and every 90 days thereafter until Sept. 30, 2004, subsequent reports related to reconstruction in Iraq.
 
 #### Community-Based Police Assistance for Jamaica and El Salvador
 
@@ -1392,6 +1642,8 @@ Supersedes Other Laws.—The authority in this section supersedes any other prov
 
 Provisions similar to those contained in section 4(c) of Pub. L. 107–99, set out above, were contained in the following appropriation acts:
 
+Pub. L. 112–74, div. I, title VII, §7043(j)(1), Dec. 23, 2011, 125 Stat. 1230.
+
 Pub. L. 111–117, div. F, title VII, §7070(i)(1), Dec. 16, 2009, 123 Stat. 3388.
 
 Pub. L. 111–8, div. H, title VII, §7070(e)(1), Mar. 11, 2009, 123 Stat. 902.
@@ -1410,167 +1662,11 @@ Pub. L. 107–115, title V, §560, Jan. 10, 2002, 115 Stat. 2162.
 
 #### Report on Relations With Vietnam
 
-Pub. L. 105–277, div. G, subdiv. B, title XXVIII, §2805, Oct. 21, 1998, 112 Stat. 2681–846, as amended by Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §209(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–423, provided that: “In order to provide Congress with the necessary information by which to evaluate the relationship between the United States and Vietnam, the Secretary of State shall submit a report to the appropriate congressional committees \[Committee on Foreign Affairs of House of Representatives and Committee on Foreign Relations of Senate\], not later than 90 days after the date of enactment of this Act \[Oct. 21, 1998\] and every 180 days thereafter during the period ending September 30, 2001, on the extent to which—
-
-&emsp;“(1) the Government of the Socialist Republic of Vietnam is cooperating with the United States in providing the fullest possible accounting of all unresolved cases of prisoners of war (POWs) or persons missing-in-action (MIAs) through the provision of records and the unilateral and joint recovery and repatriation of American remains;
-
-&emsp;“(2) the Government of the Socialist Republic of Vietnam has made progress toward the release of all political and religious prisoners, including Catholic, Protestant, and Buddhist clergy;
-
-&emsp;“(3) the Government of the Socialist Republic of Vietnam is cooperating with requests by the United States to obtain full and free access to persons of humanitarian interest to the United States for interviews under the Orderly Departure (ODP) and Resettlement Opportunities for Vietnamese Refugees (ROVR) programs, and in providing exit visas for such persons;
-
-&emsp;“(4) the Government of the Socialist Republic of Vietnam has taken vigorous action to end extortion, bribery, and other corrupt practices in connection with such exit visas; and
-
-&emsp;“(5) the Government of the United States is making vigorous efforts to interview and resettle former reeducation camp victims, their immediate families including unmarried sons and daughters, former United States Government employees, and other persons eligible for the ODP program, and to give such persons the full benefit of all applicable United States laws including sections 599D and 599E of the Foreign Operations, Export Financing, and Related Programs Appropriations Act of 1990 (Public Law 101–167) \[8 U.S.C. 1157 note, 1255 note\].”
+Pub. L. 105–277, div. G, subdiv. B, title XXVIII, §2805, Oct. 21, 1998, 112 Stat. 2681–846, as amended by Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §209(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–423, required the Secretary of State to submit a report, not later than 90 days after Oct. 21, 1998, and every 180 days thereafter during the period ending Sept. 30, 2001, regarding the Government of the Socialist Republic of Vietnam's cooperation in providing the fullest possible accounting of all unresolved cases of prisoners of war (POWs) or persons missing-in-action (MIAs), progress toward the release of all political and religious prisoners, including clergy, and cooperation with the Orderly Departure (ODP) and Resettlement Opportunities for Vietnamese Refugees (ROVR) programs.
 
 #### Iraq Liberation
 
-Pub. L. 105–338, Oct. 31, 1998, 112 Stat. 3178, as amended by Pub. L. 108–11, title I, §1309(b), Apr. 16, 2003, 117 Stat. 568, provided that:
-
-#### “SECTION 1. SHORT TITLE.
-
-“This Act may be cited as the ‘Iraq Liberation Act of 1998’.
-
-#### “SEC. 2. FINDINGS.
-
-“The Congress makes the following findings:
-
-&emsp;“(1) On September 22, 1980, Iraq invaded Iran, starting an 8 year war in which Iraq employed chemical weapons against Iranian troops and ballistic missiles against Iranian cities.
-
-&emsp;“(2) In February 1988, Iraq forcibly relocated Kurdish civilians from their home villages in the Anfal campaign, killing an estimated 50,000 to 180,000 Kurds.
-
-&emsp;“(3) On March 16, 1988, Iraq used chemical weapons against Iraqi Kurdish civilian opponents in the town of Halabja, killing an estimated 5,000 Kurds and causing numerous birth defects that affect the town today.
-
-&emsp;“(4) On August 2, 1990, Iraq invaded and began a 7 month occupation of Kuwait, killing and committing numerous abuses against Kuwaiti civilians, and setting Kuwait's oil wells ablaze upon retreat.
-
-&emsp;“(5) Hostilities in Operation Desert Storm ended on February 28, 1991, and Iraq subsequently accepted the ceasefire conditions specified in United Nations Security Council Resolution 687 (April 3, 1991) requiring Iraq, among other things, to disclose fully and permit the dismantlement of its weapons of mass destruction programs and submit to long-term monitoring and verification of such dismantlement.
-
-&emsp;“(6) In April 1993, Iraq orchestrated a failed plot to assassinate former President George Bush during his April 14–16, 1993, visit to Kuwait.
-
-&emsp;“(7) In October 1994, Iraq moved 80,000 troops to areas near the border with Kuwait, posing an imminent threat of a renewed invasion of or attack against Kuwait.
-
-&emsp;“(8) On August 31, 1996, Iraq suppressed many of its opponents by helping one Kurdish faction capture Irbil, the seat of the Kurdish regional government.
-
-&emsp;“(9) Since March 1996, Iraq has systematically sought to deny weapons inspectors from the United Nations Special Commission on Iraq (UNSCOM) access to key facilities and documents, has on several occasions endangered the safe operation of UNSCOM helicopters transporting UNSCOM personnel in Iraq, and has persisted in a pattern of deception and concealment regarding the history of its weapons of mass destruction programs.
-
-&emsp;“(10) On August 5, 1998, Iraq ceased all cooperation with UNSCOM, and subsequently threatened to end long-term monitoring activities by the International Atomic Energy Agency and UNSCOM.
-
-&emsp;“(11) On August 14, 1998, President Clinton signed Public Law 105–235 \[112 Stat. 1538\], which declared that ‘the Government of Iraq is in material and unacceptable breach of its international obligations’ and urged the President ‘to take appropriate action, in accordance with the Constitution and relevant laws of the United States, to bring Iraq into compliance with its international obligations.’.
-
-&emsp;“(12) On May 1, 1998, President Clinton signed Public Law 105–174 \[see Tables for classification\], which made $5,000,000 available for assistance to the Iraqi democratic opposition for such activities as organization, training, communication and dissemination of information, developing and implementing agreements among opposition groups, compiling information to support the indictment of Iraqi officials for war crimes, and for related purposes.
-
-#### “SEC. 3. SENSE OF THE CONGRESS REGARDING UNITED STATES POLICY TOWARD IRAQ.
-
-“It should be the policy of the United States to support efforts to remove the regime headed by Saddam Hussein from power in Iraq and to promote the emergence of a democratic government to replace that regime.
-
-#### “SEC. 4. ASSISTANCE TO SUPPORT A TRANSITION TO DEMOCRACY IN IRAQ.
-
-“(a)
-
-Authority To Provide Assistance.—The President may provide to the Iraqi democratic opposition organizations designated in accordance with section 5 the following assistance:
-
-&emsp;“(1)
-
-Broadcasting assistance.—(A) Grant assistance to such organizations for radio and television broadcasting by such organizations to Iraq.
-
-&emsp;“(B) There is authorized to be appropriated to the United States Information Agency $2,000,000 for fiscal year 1999 to carry out this paragraph.
-
-&emsp;“(2)
-
-Military assistance.—(A) The President is authorized to direct the drawdown of defense articles from the stocks of the Department of Defense, defense services of the Department of Defense, and military education and training for such organizations.
-
-&emsp;“(B) The aggregate value (as defined in section 644(m) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2403(m)\]) of assistance provided under this paragraph may not exceed $97,000,000.
-
-&emsp;“(C) The aggregate value (as defined in section 644(m) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2403(m)\]) of assistance provided under this paragraph may not exceed $86,500,000 in fiscal year 2003.
-
-“(b)
-
-Humanitarian Assistance.—The Congress urges the President to use existing authorities under the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] to provide humanitarian assistance to individuals living in areas of Iraq controlled by organizations designated in accordance with section 5, with emphasis on addressing the needs of individuals who have fled to such areas from areas under the control of the Saddam Hussein regime.
-
-“(c)
-
-Restriction on Assistance.—No assistance under this section shall be provided to any group within an organization designated in accordance with section 5 which group is, at the time the assistance is to be provided, engaged in military cooperation with the Saddam Hussein regime.
-
-“(d)
-
-Notification Requirement.—The President shall notify the congressional committees specified in section 634A of the Foreign Assistance Act of 1961 \[22 U.S.C. 2394–1\] at least 15 days in advance of each obligation of assistance under this section in accordance with the procedures applicable to reprogramming notifications under section 634A.
-
-“(e)
-
-Reimbursement Relating to Military Assistance.—
-
-&emsp;“(1)
-
-In general.—Defense articles, defense services, and military education and training provided under subsection (a)(2) shall be made available without reimbursement to the Department of Defense except to the extent that funds are appropriated pursuant to paragraph (2).
-
-&emsp;“(2)
-
-Authorization of appropriations.—There are authorized to be appropriated to the President for each of the fiscal years 1998 and 1999 such sums as may be necessary to reimburse the applicable appropriation, fund, or account for the value (as defined in section 644(m) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2403(m)\]) of defense articles, defense services, or military education and training provided under subsection (a)(2).
-
-“(f)
-
-Availability of Funds.—(1) Amounts authorized to be appropriated under this section are authorized to remain available until expended.
-
-“(2) Amounts authorized to be appropriated under this section are in addition to amounts otherwise available for the purposes described in this section.
-
-“(g)
-
-Authority To Provide Assistance.—Activities under this section (including activities of the nature described in subsection (b)) may be undertaken notwithstanding any other provision of law.
-
-#### “SEC. 5. DESIGNATION OF IRAQI DEMOCRATIC OPPOSITION ORGANIZATION.
-
-“(a)
-
-Initial Designation.—Not later than 90 days after the date of the enactment of this Act \[Oct. 31, 1998\], the President shall designate one or more Iraqi democratic opposition organizations that the President determines satisfy the criteria set forth in subsection (c) as eligible to receive assistance under section 4.
-
-“(b)
-
-Designation of Additional Organizations.—At any time subsequent to the initial designation pursuant to subsection (a), the President may designate one or more additional Iraqi democratic opposition organizations that the President determines satisfy the criteria set forth in subsection (c) as eligible to receive assistance under section 4.
-
-“(c)
-
-Criteria for Designation.—In designating an organization pursuant to this section, the President shall consider only organizations that—
-
-&emsp;“(1) include a broad spectrum of Iraqi individuals, groups, or both, opposed to the Saddam Hussein regime; and
-
-&emsp;“(2) are committed to democratic values, to respect for human rights, to peaceful relations with Iraq's neighbors, to maintaining Iraq's territorial integrity, and to fostering cooperation among democratic opponents of the Saddam Hussein regime.
-
-“(d)
-
-Notification Requirement.—At least 15 days in advance of designating an Iraqi democratic opposition organization pursuant to this section, the President shall notify the congressional committees specified in section 634A of the Foreign Assistance Act of 1961 \[22 U.S.C. 2394–1\] of his proposed designation in accordance with the procedures applicable to reprogramming notifications under section 634A.
-
-#### “SEC. 6. WAR CRIMES TRIBUNAL FOR IRAQ.
-
-“Consistent with section 301 of the Foreign Relations Authorization Act, Fiscal Years 1992 and 1993 (Public Law 102–138 \[105 Stat. 707\]), House Concurrent Resolution 137, 105th Congress (approved by the House of Representatives on November 13, 1997), and Senate Concurrent Resolution 78, 105th Congress (approved by theSenate on March 13, 1998), the Congress urges the President to call upon the United Nations to establish an international criminal tribunal for the purpose of indicting, prosecuting, and imprisoning Saddam Hussein and other Iraqi officials who are responsible for crimes against humanity, genocide, and other criminal violations of international law.
-
-#### “SEC. 7. ASSISTANCE FOR IRAQ UPON REPLACEMENT OF SADDAM HUSSEIN REGIME.
-
-“It is the sense of the Congress that once the Saddam Hussein regime is removed from power in Iraq, the United States should support Iraq's transition to democracy by providing immediate and substantial humanitarian assistance to the Iraqi people, by providing democracy transition assistance to Iraqi parties and movements with democratic goals, and by convening Iraq's foreign creditors to develop a multilateral response to Iraq's foreign debt incurred by Saddam Hussein's regime.
-
-#### “SEC. 8. RULE OF CONSTRUCTION.
-
-“Nothing in this Act shall be construed to authorize or otherwise speak to the use of United States Armed Forces (except as provided in section 4(a)(2)) in carrying out this Act.”
-
-#### Designations Under the Iraq Liberation Act of 1998
-
-Determination of President of the United States, No. 03–05, Dec. 7, 2002, 67 F.R. 78121, provided:
-
-Memorandum for the Secretary of State
-
-Pursuant to the authority vested in me as President of the United States, including under section 5 of the Iraq Liberation Act of 1998 (Public Law 105–338) (”the Act”) \[set out in a note above\], I hereby determine that each of the following groups is a democratic opposition organization and that each satisfies the criteria set forth in section 5(c) of the Act: the Assyrian Democratic Movement; the Iraqi Free Officers and Civilians Movement; the Iraqi National Front; the Iraqi National Movement; the Iraqi Turkmen Front; and the Islamic Accord of Iraq. I hereby designate each of these organizations as eligible to receive assistance under section 4 of the Act.
-
-You are authorized and directed to report this determination and designation to the Congress and to arrange for its publication in the Federal Register.
-
-George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-Determination of President of the United States, No. 99–13, Feb. 4, 1999, 64 F.R. 6781, provided:
-
-Memorandum for the Secretary of State
-
-Pursuant to the authority vested in me as President of the United States, including under section 5 of the Iraq Liberation Act of 1998 (Public Law 105–338) (the “Act”) \[set out in a note above\], I hereby determine that each of the following groups is a democratic opposition organization and that each satisfies the criteria set forth in section 5(c) of the Act: the Iraqi National Accord, the Iraqi National Congress, the Islamic Movement of Iraqi Kurdistan, the Kurdistan Democratic Party, the Movement for Constitutional Monarchy, the Patriotic Union of Kurdistan, and the Supreme Council for the Islamic Revolution in Iraq. I hereby designate each of these organizations as eligible to receive assistance under section 4 of the Act.
-
-You are authorized and directed to report this determination and designation to the Congress and arrange for its publication in the Federal Register.
-
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Pub. L. 105–338, Oct. 31, 1998, 112 Stat. 3178, as amended by Pub. L. 108–11, title I, §1309(b), Apr. 16, 2003, 117 Stat. 568, known as the “Iraq Liberation Act of 1998”, contained Congressional findings regarding Iraq, stated the sense of Congress that United States policy should support efforts to remove the regime headed by Saddam Hussein from power in Iraq and to promote the emergence of a democratic government, authorized assistance to support a transition to democracy in Iraq, required Presidential designation of Iraqi democratic opposition organizations eligible to receive assistance, urged establishment of a war crimes tribunal for Iraq, stated the sense of Congress that the United States should support Iraq's transition to democracy upon replacement of the Saddam Hussein regime, and specified that, with an exception, nothing in the Act be construed to authorize the use of United States Armed Forces to carry out the Act.
 
 #### Assistance for Mauritania
 
@@ -1606,25 +1702,7 @@ Military assistance or arms transfers.—The term ‘military assistance or arms
 
 #### Authority for Anticrime Assistance
 
-Pub. L. 103–447, title I, §106, Nov. 2, 1994, 108 Stat. 4694, provided that:
-
-“(a)
-
-Policy.—International criminal activities, including international narcotics trafficking, money laundering, smuggling, and corruption, endanger political and economic stability and democratic development, and assistance for the prevention and suppression of international criminal activities should be a priority for the United States.
-
-“(b)
-
-Authority.—
-
-&emsp;“(1)
-
-In general.—For fiscal year 1995, the President is authorized to furnish assistance to any country or international organization, on such terms and conditions as he may determine, for the prevention and suppression of international criminal activities.
-
-&emsp;“(2)
-
-Waiver of prohibition of police training.—Section 660 of the Foreign Assistance Act of 1961 (22 U.S.C. 2420) shall not apply with respect to assistance furnished under paragraph (1).”
-
-\[Functions of President under section 106 of Pub. L. 103–447, set out above, delegated to Secretary of State by Memorandum of President of the United States, Apr. 4, 1995, 60 F.R. 19153.\]
+Pub. L. 103–447, title I, §106, Nov. 2, 1994, 108 Stat. 4694, stated policy that prevention and suppression of international criminal activities should be a priority for the United States, and, for fiscal year 1995, authorized the President to furnish assistance to any country or international organization, on such terms and conditions as he determined, for the prevention and suppression of international criminal activities.
 
 #### African Conflict Resolution
 
@@ -1792,9 +1870,7 @@ Date of Submission.—The first report submitted under subsection (a) shall be s
 
 #### Waiver of Restrictions for Narcotics-Related Economic Assistance
 
-Pub. L. 104–164, title I, §133, July 21, 1996, 110 Stat. 1430, provided that: “For each of the fiscal years 1996 and 1997, narcotics-related assistance under part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.) may be provided notwithstanding any other provision of law that restricts assistance to foreign countries (other than section 490(e) or section 502B of that Act (22 U.S.C. 2291j(e) and 2304)) if, at least 15 days before obligating funds for such assistance, the President notifies the appropriate congressional committees (as defined in section 481(e) of that Act (22 U.S.C. 2291(e))) in accordance with the procedures applicable to reprogramming notifications under section 634A of that Act (22 U.S.C. 2394–1).”
-
-#### Similar Provisions
+Pub. L. 104–164, title I, §133, July 21, 1996, 110 Stat. 1430, stated terms under which narcotics-related assistance under part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.) could be provided for fiscal years 1996 and 1997.
 
 Similar provisions were contained in the following prior acts:
 
@@ -1828,7 +1904,7 @@ Pub. L. 102–270, Apr. 16, 1992, 106 Stat. 106, as amended by Pub. L. 104–107
 
 &emsp;“(3) commends and congratulates the governments of the Economic Community of West African States (ECOWAS) for their leadership in seeking peace in Liberia; and
 
-&emsp;“(4) extends particularly praise to President Babangida of Nigeria, President Houphouet-Boigny ofCote d'Ivoire, and President Diouf of Senegal for their efforts to resolve this conflict.
+&emsp;“(4) extends particularly praise to President Babangida of Nigeria, President Houphouet-Boigny of Cote d'Ivoire, and President Diouf of Senegal for their efforts to resolve this conflict.
 
 “(b)
 
@@ -1948,35 +2024,7 @@ Reporting Requirement.—Sixty days after the date of enactment of this Act \[Fe
 
 #### Limitation on Assistance to Panamanian Defense Force
 
-Pub. L. 100–456, div. A, title XIII, §1302, Sept. 29, 1988, 102 Stat. 2060, provided that:
-
-“(a)
-
-Limitation.—The President may not use any funds appropriated to or for the use of any department, agency, or other entity of the United States for the purpose of providing assistance to the Panamanian Defense Force. The limitation in the preceding sentence shall cease to apply upon the submission by the President to Congress of a certification by the President—
-
-&emsp;“(1) that no armed forces of the Soviet Union, the Republic of Cuba, or the Republic of Nicaragua are present in the Republic of Panama (other than military attache�AE1s accredited to the Republic of Panama); and
-
-&emsp;“(2) that General Manuel Noriega has relinquished command of the Panamanian Defense Force and no longer holds any official position of leadership (either military or civilian) in the Republic of Panama.
-
-“(b)
-
-Clarification.—Subsection (a) does not prohibit the President from obligating or expending any funds necessary for—
-
-&emsp;“(1) the defense of the Panama Canal,
-
-&emsp;“(2) the collection of intelligence,
-
-&emsp;“(3) the maintenance of United States Armed Forces in the Republic of Panama, or
-
-&emsp;“(4) the protection of United States interests in the Republic of Panama.
-
-“(c)
-
-Report.—Not later than 30 days after the date of the enactment of this Act \[Sept. 29, 1988\], the President shall submit to Congress a detailed report, in both classified and unclassified form, indicating—
-
-&emsp;“(1) whether (and to what extent) military, paramilitary, or intelligence personnel of the Soviet Union, Cuba, or Nicaragua are present in the Republic of Panama; and
-
-&emsp;“(2) whether (and to what extent) the Panamanian Defense Force has coordinated with, cooperated with, supported, or received support from, any such personnel.”
+Pub. L. 100–456, div. A, title XIII, §1302, Sept. 29, 1988, 102 Stat. 2060, prohibited the President from using appropriated funds to provide assistance to the Panamanian Defense Force, with such limitation to cease to apply upon a certification of certain conditions by the President to Congress.
 
 #### Codification of Policy Prohibiting Negotiations With the Palestine Liberation Organization
 
@@ -1996,17 +2044,11 @@ Pub. L. 98–369, div. B, title IX, §2907, July 18, 1984, 98 Stat. 1210, provid
 
 #### Prohibition on Certain Assistance to the Khmer Rouge in Kampuchea
 
-Pub. L. 98–164, title X, §1005, Nov. 22, 1983, 97 Stat. 1058, provided that:
-
-“(a) Notwithstanding any other provision of law, none of the funds authorized to be appropriated by this Act or any other Act may be obligated or expended for the purpose or with the effect of promoting, sustaining, or augmenting, directly or indirectly, the capacity of the Khmer Rouge or any of its members to conduct military or paramilitary operations in Kampuchea or elsewhere in Indochina.
-
-“(b) All funds appropriated before the date of enactment of this section \[Nov. 22, 1983\] which were obligated but not expended for activities having the purpose or effect described in subsection (a) shall be deobligated and shall be deposited in the Treasury of the United States as miscellaneous receipts.
-
-“(c) This section shall not be construed as limiting the provision of food, medicine, or other humanitarian assistance to the Kampuchean people.”
+Pub. L. 98–164, title X, §1005, Nov. 22, 1983, 97 Stat. 1058, prohibited the obligation or expenditure of funds to promote, sustain, or augment the capacity of the Khmer Rouge or any of its members to conduct military or paramilitary operations in Kampuchea (now Cambodia) or elsewhere in Indochina.
 
 #### Termination of Nonrecurring Activities Under Foreign Assistance Act of 1961 and Removal From Law
 
-Pub. L. 97–113, title VII, §734(c), Dec. 29, 1981, 95 Stat. 1561, provided that: “Except as otherwise explicitly provided by their terms, amendments to the Foreign Assistance Act of 1961 \[see Short Title note above\] and the Arms Export Control Act \[see Short Title note set out under section 2751 of this title\] which are applicableonly to a single fiscal or calendar year or which require reports or other actions on a nonrecurring basis shall be deemed to have expired and shall be removed from law upon the expiration of the applicable time periods for the fulfillment of the required actions.”
+Pub. L. 97–113, title VII, §734(c), Dec. 29, 1981, 95 Stat. 1561, provided that: “Except as otherwise explicitly provided by their terms, amendments to the Foreign Assistance Act of 1961 \[see Short Title note above\] and the Arms Export Control Act \[see Short Title note set out under section 2751 of this title\] which are applicable only to a single fiscal or calendar year or which require reports or other actions on a nonrecurring basis shall be deemed to have expired and shall be removed from law upon the expiration of the applicable time periods for the fulfillment of the required actions.”
 
 #### Assistance for Panama
 
@@ -2030,59 +2072,7 @@ Pub. L. 95–88, title I, §132, Aug. 3, 1977, 91 Stat. 544, as amended by Pub. 
 
 #### Plan for Increased Minority Business Participation in Foreign Assistance Activities; Minority Resource Center Section as Implementing Administrative Unit; Functions, Duties, Etc., of Center
 
-Section 133 of Pub. L. 95–88, as amended by Pub. L. 96–53, title I, §123, Aug. 14, 1979, 93 Stat. 366; Pub. L. 97–113, title VII, §734(a)(6), Dec. 29, 1981, 95 Stat. 1560, provided that:
-
-“(a) The Administrator of the agency primarily responsible for administering part I of the Foreign Assistance Act of 1961 \[this subchapter\] shall prepare and transmit to the Congress, not later than 30 days after the date of enactment of this Act \[Aug. 3, 1977\], a detailed plan for the establishment of a section on minority business within such agency.
-
-“(b) Such plan shall include, but shall not be limited to—
-
-&emsp;“(1) a description of where the section on minority business will be located in such agency's organizational structure and what relevant lines of authority will be established;
-
-&emsp;“(2) a listing of the specific responsibilities that will be assigned to the section on minority business to enable it to increase, in a rational and effective manner, participation of minority business enterprises in activities funded by such agency;
-
-&emsp;“(3) a design for a time-phase system for bringing about expanded minority business enterprise participation, including specific recommendations for percentage allocations of contracts by such agency to minority business enterprises;
-
-&emsp;“(4) a proposed reporting system that will permit objective measuring of the degree of participation of minority business enterprises in comparison to the total activities funded by such agency;
-
-&emsp;“(5) a detailed projection of the administrative budgetary impact of the establishment of the section on minority business; and
-
-&emsp;“(6) a detailed set of objective criteria upon which determinations will be made as to the qualifications of minority business enterprises to receive contracts funded by such agency.
-
-“(c)(1) Upon the enactment of the International Development Cooperation Act of 1979 \[Aug. 14, 1979\], the section on minority business established pursuant to subsection (a) shall be redesignated as the Minority Resource Center (hereafter in this section referred to as the ‘Center’) which shall be responsible for increasing the participation of economically and socially disadvantaged business enterprises in contract, procurement, grant, and research and development activities funded by the agency primarily responsible for administering part I of the Foreign Assistance Act of 1961 \[this subchapter\] (hereafter in this section referred to as the ‘agency’).
-
-“(2) The Center shall—
-
-&emsp;“(A) establish, maintain, and disseminate information to, and otherwise serve as an information clearinghouse for, economically and socially disadvantaged business enterprises regarding business opportunities in development assistance programs funded by the agency;
-
-&emsp;“(B) design and conduct programs to encourage, promote, and assist economically and socially disadvantaged business enterprises to secure direct contracts, host country contracts, operation expatriate contracts, indefinite quantity contracts, subcontracts, projects, grants, and research and development contracts in order for such enterprises to participate in such development assistance programs;
-
-&emsp;“(C) conduct market research, planning, economic and business analyses, and feasibility studies to identify business opportunities in such development assistance programs;
-
-&emsp;“(D) develop support mechanisms which will enable socially and economically disadvantaged businesses to take advantage of business opportunities in such development assistance programs; and
-
-&emsp;“(E) enter into such contracts (to such extent or in such amounts as are provided in appropriation Acts), cooperative agreements, or other transactions as may be necessary in the conduct of its functions under this section.
-
-“(3) The Administrator of the agency and the Secretary of State shall provide the Center with such relevant information, including procurement schedules, bids, and specifications with respect to development assistance programs funded by the agency, as may be requested by the Center in connection with the performance of its functions under this section.
-
-“(4) There shall be a Director of the Center who shall be the chief executive officer of the Center. The Director shall be appointed by the Administrator of the agency.
-
-“(5)(A) For the purposes of this section, the term ‘economically and socially disadvantaged enterprise’ means a business—
-
-&emsp;“(i) which is at least 51 percent owned by one or more socially and economically disadvantaged individuals or, in the case of a publicly owned business, at least 51 percent of the stock of which is owned by one or more socially and economically disadvantaged individuals; and
-
-&emsp;“(ii) whose management and daily business operations are controlled by one or more such individuals.
-
-“(B) Socially disadvantaged individuals are those who have been subjected to racial or ethnic prejudice or cultural bias because of their identity as a member of a group without regard to their individual qualities.
-
-“(C) Economically disadvantaged individuals are those socially disadvantaged individuals whose ability to compete in the free enterprise system has been impaired due to diminished capital and credit opportunities as compared to others in the same business area who are not socially disadvantaged. In determining the degree of diminished credit and capital opportunities, the Administrator of the agency shall consider, but not be limited to, the assets and net worth of the socially disadvantaged individual.
-
-“(6) \[Repealed. Pub. L. 97–113, title VII, §734(a)(6), Dec. 29, 1981, 95 Stat. 1560.\]
-
-“(7) Of the funds available to the agency for operating expenses, up to $950,000 for fiscal year 1980 may be allocated to the Center to carry out its functions under this section.
-
-“(8) If the Administrator of the agency determines that such a consolidation would significantly further the purposes of this section and would eliminate unnecessary duplication of activity, the Administrator may consolidate the Center with the Office of Small and Disadvantaged Business Utilization established in the agency by section 15(k) of the Small Business Act \[section 644(k) of Title 15, Commerce and Trade\]. Any such consolidation shall ensure that all the functions specified in paragraph (2) of this subsection continue to be carried out. Before implementing any such consolidation, the Administrator shall submit to the Congress a detailed report setting forth the reasons for the proposed consolidation.”
-
-\[Amendment by Pub. L. 96–53 (adding subsec. (c) to section 133 of Pub. L. 95–88) effective Aug. 14, 1979, see section 512(b) of Pub. L. 96–53, set out as an Effective Date of 1979 Amendment note above.\]
+Pub. L. 95–88, title I, §133, Aug. 3, 1977, 91 Stat. 544, as amended by Pub. L. 96–53, title I, §123, Aug. 14, 1979, 93 Stat. 366; Pub. L. 97–113, title VII, §734(a)(6), Dec. 29, 1981, 95 Stat. 1560, provided that (1) the Administrator of the agency primarily responsible for administering part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.) was to prepare and transmit to the Congress, not later than 30 days after Aug. 3, 1977, a detailed plan for the establishment of a section on minority business within such agency; and (2) upon the enactment of the International Development Cooperation Act of 1979 (Aug. 14, 1979), the section on minority business so established was to be redesignated as the Minority Resource Center and was to be responsible for assisting economically and socially disadvantaged businesses.
 
 #### Use of Accrued Foreign Currencies
 
@@ -2149,4 +2139,62 @@ Defense service.—The term ‘defense service’ has the meaning given the term
 &emsp;“(3)
 
 Excess defense article.—The term ‘excess defense article’ has the meaning given the term in section 644(g) of the Foreign Assistance Act of 1961 (22 U.S.C. 2403(g)).”
+
+#### Ex. Ord. No. 13595. Instituting a National Action Plan On Women, Peace, And Security
+
+Ex. Ord. No. 13595, Dec. 19, 2011, 76 F.R. 80205, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. (a) The United States recognizes that promoting women's participation in conflict prevention, management, and resolution, as well as in post-conflict relief and recovery, advances peace, national security, economic and social development, and international cooperation.
+
+(b) The United States recognizes the responsibility of all nations to protect their populations from genocide, war crimes, ethnic cleansing, and crimes against humanity, including when implemented by means of sexual violence. The United States further recognizes that sexual violence, when used or commissioned as a tactic of war or as a part of a widespread or systematic attack against civilians, can exacerbate and prolong armed conflict and impede the restoration of peace and security.
+
+(c) It shall be the policy and practice of the executive branch of the United States to have a National Action Plan on Women, Peace, and Security (National Action Plan).
+
+Sec. 2. <i>National Action Plan</i>. A National Action Plan shall be created pursuant to the process outlined in Presidential Policy Directive 1 and shall identify and develop activities and initiatives in the following areas:
+
+(a) <i>National integration and institutionalization</i>. Through interagency coordination, policy development,enhanced professional training and education, and evaluation, the United States Government will institutionalize a gender-responsive approach to its diplomatic, development, and defense-related work in conflict-affected environments.
+
+(b) <i>Participation in peace processes and decisionmaking</i>. The United States Government will improve the prospects for inclusive, just, and sustainable peace by promoting and strengthening women's rights and effective leadership and substantive participation in peace processes, conflict prevention, peacebuilding, transitional processes, and decisionmaking institutions in conflict-affected environments.
+
+(c) <i>Protection from violence</i>. The United States Government will strengthen its efforts to prevent—and protect women and children from—harm, exploitation, discrimination, and abuse, including sexual and gender-based violence and trafficking in persons, and to hold perpetrators accountable in conflict-affected environments.
+
+(d) <i>Conflict prevention</i>. The United States Government will promote women's roles in conflict prevention, improve conflict early-warning and response systems through the integration of gender perspectives, and invest in women and girls’ health, education, and economic opportunity to create conditions for stable societies and lasting peace.
+
+(e) <i>Access to relief and recovery</i>. The United States Government will respond to the distinct needs of women and children in conflict-affected disasters and crises, including by providing safe, equitable access to humanitarian assistance.
+
+Sec. 3. <i>Responsibility of Executive Departments and Agencies</i>. (a) Executive departments and agencies (agencies) shall maintain a current awareness of U.S. policy with regard to Women, Peace, and Security, as set out in the National Action Plan, as it is relevant to their functions, and shall perform such functions so as to respect and implement that policy fully, while retaining their established institutional roles in the implementation, interpretation, and enforcement of Federal law.
+
+(b) The Secretary of State, the Secretary of Defense, and the Administrator of the United States Agency for International Development shall each:
+
+(i) designate one or more officers, as appropriate, as responsible for coordinating and implementing the National Action Plan;
+
+(ii) within 150 days of the date of the release of the National Action Plan, develop and submit to the Assistant to the President and National Security Advisor an agency-specific implementation plan that will identify the actions each agency plans to take to implement the National Action Plan; and
+
+(iii) execute their agency-specific implementation plans, and monitor and report to the Assistant to the President and National Security Advisor on such execution.
+
+Sec. 4. <i>Interagency Process</i>. The Assistant to the President and National Security Advisor shall, consistent with Presidential Policy Directive 1 or any successor documents, establish an interagency process for coordinating the implementation of this order, which shall, <i>inter alia</i>:
+
+(a) coordinate implementation of the National Action Plan and agency-specific implementation plans as specified in section 3(b) of this order;
+
+(b) establish a mechanism for agencies to report progress in implementing the National Action Plan and agency-specific implementation plans, as appropriate and as specified in section 3(b), and in meeting the objectives of this order, which the Assistant to the President and National Security Advisor shall draw upon to provide an annual report to the President;
+
+(c) coordinate a comprehensive periodic review of, and update to, the National Action Plan. The review of, and update to, the National Action Plan will be informed by consultation with relevant civil society organizations. The first review will take place in 2015; and
+
+(d) consider and implement other revisions to the National Action Plan, as necessary.
+
+Sec. 5. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) authority granted by law to an agency, or the head thereof; or
+
+(ii) functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) Independent agencies are strongly encouraged to comply with this order.
+
+(d) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

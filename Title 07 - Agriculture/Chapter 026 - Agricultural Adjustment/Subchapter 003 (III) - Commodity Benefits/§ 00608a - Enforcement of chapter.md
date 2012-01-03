@@ -30,11 +30,11 @@ Provisions of subsecs. (1) to (4), relating to establishment, regulation and det
 
 #### Amendments
 
-1961—Subsec. (5). Pub. L. 87–128 struck out “willfully” after “Any person” and substituted provision for forfeiture of a sum equal to the value of the excess at the current market price for the commodity at the time of violation for provision for forfeiture of a sum equal to three times the current market value of the excess.
+<b>1961</b>—Subsec. (5). Pub. L. 87–128 struck out “willfully” after “Any person” and substituted provision for forfeiture of a sum equal to the value of the excess at the current market price for the commodity at the time of violation for provision for forfeiture of a sum equal to three times the current market value of the excess.
 
-1937—Subsec. (6). Act June 3, 1937, §2(c), struck out “the provisions of this section, or of”.
+<b>1937</b>—Subsec. (6). Act June 3, 1937, §2(c), struck out “the provisions of this section, or of”.
 
-1935—Subsec. (1). Act Aug. 24, 1935, §8, substituted “persons engaged in handling” for “handlers” wherever appearing; struck out “or in competition with,” in par. (B); inserted “directly” before “to burden” in par. (B); and struck out “in any way” in par. (B).
+<b>1935</b>—Subsec. (1). Act Aug. 24, 1935, §8, substituted “persons engaged in handling” for “handlers” wherever appearing; struck out “or in competition with,” in par. (B); inserted “directly” before “to burden” in par. (B); and struck out “in any way” in par. (B).
 
 Subsec. (6). Act Aug. 24, 1935, §9, inserted “or” after “regulation,” and struck out “or license”.
 

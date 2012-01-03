@@ -72,7 +72,7 @@ Section was enacted as part of the Matthew Shepard and James Byrd, Jr. Hate Crim
 
 #### Definitions
 
-Pub. L. 111–84, div. E, §4703(b), Oct. 28, 2009, 123 Stat. 2836, provided that: “In this division \[enacting this section and section 3716a of this title and sections 249 and 1389 of Title 18, Crimes and Criminal Procedure, amending section 249 of Title 18, enacting provisions set out as notes under sections 1 and 249 of Title 18, and amending provisions set out as a note under section 534 and provisions listed in a table relating to sentencing guidelines set out under section 994, of Title 28, Judiciary and Judicial Procedure\]—
+Pub. L. 111–84, div. E, §4703(b), Oct. 28, 2009, 123 Stat. 2836, provided that: “In this division \[enacting this section and section 3716a of this title and sections 249 and 1389 of Title 18, Crimes and Criminal Procedure, amending section 249 of Title 18, enacting provisions set outas notes under sections 1 and 249 of Title 18, and amending provisions set out as a note under section 534 and provisions listed in a table relating to sentencing guidelines set out under section 994, of Title 28, Judiciary and Judicial Procedure\]—
 
 &emsp;“(1) the term ‘crime of violence’ has the meaning given that term in section 16 of title 18, United States Code;
 

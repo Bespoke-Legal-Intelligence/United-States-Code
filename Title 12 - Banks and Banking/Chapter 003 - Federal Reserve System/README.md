@@ -30,6 +30,7 @@
 | [246\.](Subchapter%20002%20%28II%29%20-%20Board%20of%20Governors%20of%20the%20Federal%20Reserve%20System/%C2%A7%2000246%20-%20Powers%20of%20Secretary%20of%20the%20Treasury%20as%20affected%20by%20chapter.md) | Powers of Secretary of the Treasury as affected by chapter. |
 | [247\.](Subchapter%20002%20%28II%29%20-%20Board%20of%20Governors%20of%20the%20Federal%20Reserve%20System/%C2%A7%2000247%20-%20Reports%20to%20Congress.md) | Reports to Congress. |
 | [247a.](Subchapter%20002%20%28II%29%20-%20Board%20of%20Governors%20of%20the%20Federal%20Reserve%20System/%C2%A7%2000247a%20-%20Records%20of%20action%20on%20policy%20relating%20to%20open-market%20operation%20and%20policies%20determined%20generally%3B%20inclusion%20in%20report%20to%20Congress.md) | Records of action on policy relating to open-market operation and policies determined generally; inclusion in report to Congress. |
+| [247b.](Subchapter%20002%20%28II%29%20-%20Board%20of%20Governors%20of%20the%20Federal%20Reserve%20System/%C2%A7%2000247b%20-%20Appearances%20before%20Congress.md) | Appearances before Congress. |
 | [248\.](Subchapter%20002%20%28II%29%20-%20Board%20of%20Governors%20of%20the%20Federal%20Reserve%20System/%C2%A7%2000248%20-%20Enumerated%20powers.md) | Enumerated powers. |
 | 248–1. | Rules and regulations for transfer of funds and charges therefor among banks; clearing houses. |
 | [248a.](Subchapter%20002%20%28II%29%20-%20Board%20of%20Governors%20of%20the%20Federal%20Reserve%20System/%C2%A7%2000248a%20-%20Pricing%20of%20services.md) | Pricing of services. |
@@ -81,7 +82,7 @@
 | [287\.](Subchapter%20006%20%28VI%29%20-%20Capital%20and%20Stock%20of%20Federal%20Reserve%20Banks%3B%20Dividends%20and%20Earnings/%C2%A7%2000287%20-%20Value%20of%20shares%20of%20stock%3B%20increase%20and%20decrease%20of%20stock%3B%20member%20banks%20as%20shareholders%3B%20surrender%20of%20shares.md) | Value of shares of stock; increase and decrease of stock; member banks as shareholders; surrender of shares. |
 | [288\.](Subchapter%20006%20%28VI%29%20-%20Capital%20and%20Stock%20of%20Federal%20Reserve%20Banks%3B%20Dividends%20and%20Earnings/%C2%A7%2000288%20-%20Cancellation%20of%20stock%20held%20by%20member%20bank%20on%20insolvency%20or%20discontinuance%20of%20banking%20operations%20for%20sixty%20days%3B%20repayment%20of%20cash-paid%E2%80%A6.md) | Cancellation of stock held by member bank on insolvency or discontinuance of banking operations for sixty days; repayment of cash-paid subscriptions. |
 | [289\.](Subchapter%20006%20%28VI%29%20-%20Capital%20and%20Stock%20of%20Federal%20Reserve%20Banks%3B%20Dividends%20and%20Earnings/%C2%A7%2000289%20-%20Dividends%20and%20surplus%20funds%20of%20reserve%20banks%3B%20transfer%20for%20fiscal%20year%202000.md) | Dividends and surplus funds of reserve banks; transfer for fiscal year 2000. |
-| [290\.](Subchapter%20006%20%28VI%29%20-%20Capital%20and%20Stock%20of%20Federal%20Reserve%20Banks%3B%20Dividends%20and%20Earnings/%C2%A7%2000290%20-%20Use%20of%20earnings%20transferred%20to%20Treasury.md) | Use of earnings transferred to Treasury. |
+| [290\.](Subchapter%20006%20%28VI%29%20-%20Capital%20and%20Stock%20of%20Federal%20Reserve%20Banks%3B%20Dividends%20and%20Earnings/%C2%A7%2000290%20-%20Use%20of%20earnings%20transferred%20to%20the%20Treasury.md) | Use of earnings transferred to the Treasury. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -170,7 +171,7 @@
 |  |  |
 | :--- | ---: |
 | [371\.](Subchapter%20010%20%28X%29%20-%20Powers%20and%20Duties%20of%20Member%20Banks/%C2%A7%2000371%20-%20Real%20estate%20loans.md) | Real estate loans. |
-| [371a.](Subchapter%20010%20%28X%29%20-%20Powers%20and%20Duties%20of%20Member%20Banks/%C2%A7%2000371a%20-%20Payment%20of%20interest%20on%20demand%20deposits.md) | Payment of interest on demand deposits. |
+| [371a.](Subchapter%20010%20%28X%29%20-%20Powers%20and%20Duties%20of%20Member%20Banks/%C2%A7%2000371a%20-%20Repealed.%20Pub.%20L.%20111%E2%80%93203%2C%20title%20VI%2C%20%C2%A7627%28a%29%281%29%2C%20July%2021%2C%202010%2C%20124%20Stat.%201640.md) | Repealed. |
 | [371b.](Subchapter%20010%20%28X%29%20-%20Powers%20and%20Duties%20of%20Member%20Banks/%C2%A7%2000371b%20-%20Rate%20of%20interest%20on%20time%20deposits%3B%20payment%20of%20time%20deposits%20before%20maturity%3B%20waiver%20of%20notice%20requirements%20for%20withdrawal%20of%20savings%E2%80%A6.md) | Rate of interest on time deposits; payment of time deposits before maturity; waiver of notice requirements for withdrawal of savings deposits. |
 | 371b–1. | Repealed. |
 | 371b–2. | Interbank liabilities. |
@@ -181,7 +182,7 @@
 | [373\.](Subchapter%20010%20%28X%29%20-%20Powers%20and%20Duties%20of%20Member%20Banks/%C2%A7%2000373%20-%20Acceptance%20of%20drafts%20or%20bills%20drawn%20by%20banks%20in%20foreign%20countries%20or%20dependencies%20of%20United%20States%20for%20purpose%20of%20dollar%20exchange.md) | Acceptance of drafts or bills drawn by banks in foreign countries or dependencies of United States for purpose of dollar exchange. |
 | [374\.](Subchapter%20010%20%28X%29%20-%20Powers%20and%20Duties%20of%20Member%20Banks/%C2%A7%2000374%20-%20Acting%20as%20agent%20for%20nonmember%20bank%20in%20getting%20discounts%20from%20reserve%20bank.md) | Acting as agent for nonmember bank in getting discounts from reserve bank. |
 | [374a.](Subchapter%20010%20%28X%29%20-%20Powers%20and%20Duties%20of%20Member%20Banks/%C2%A7%2000374a%20-%20Acting%20as%20agent%20for%20nonbanking%20borrower%20in%20making%20loans%20on%20securities%20to%20dealers%20in%20stocks%2C%20bonds%2C%20etc.%3B%20penalties.md) | Acting as agent for nonbanking borrower in making loans on securities to dealers in stocks, bonds, etc.; penalties. |
-| [375\.](Subchapter%20010%20%28X%29%20-%20Powers%20and%20Duties%20of%20Member%20Banks/%C2%A7%2000375%20-%20Purchases%20from%20directors%3B%20sales%20to%20directors.md) | Purchases from directors; sales to directors. |
+| [375\.](Subchapter%20010%20%28X%29%20-%20Powers%20and%20Duties%20of%20Member%20Banks/%C2%A7%2000375%20-%20%5BReserved.md) | Reserved. |
 | [375a.](Subchapter%20010%20%28X%29%20-%20Powers%20and%20Duties%20of%20Member%20Banks/%C2%A7%2000375a%20-%20Loans%20to%20executive%20officers%20of%20banks.md) | Loans to executive officers of banks. |
 | [375b.](Subchapter%20010%20%28X%29%20-%20Powers%20and%20Duties%20of%20Member%20Banks/%C2%A7%2000375b%20-%20Extensions%20of%20credit%20to%20executive%20officers%2C%20directors%2C%20and%20principal%20shareholders%20of%20member%20banks.md) | Extensions of credit to executive officers, directors, and principal shareholders of member banks. |
 | [376\.](Subchapter%20010%20%28X%29%20-%20Powers%20and%20Duties%20of%20Member%20Banks/%C2%A7%2000376%20-%20Rate%20of%20interest%20paid%20to%20directors%2C%20etc.md) | Rate of interest paid to directors, etc. |
@@ -276,7 +277,7 @@
 |  |  |
 | :--- | ---: |
 | [521\.](Subchapter%20017%20%28XVII%29%20-%20Reserve-Bank%20Branches/%C2%A7%2000521%20-%20Reserve-bank%20branches%3B%20establishment%3B%20directors%3B%20discontinuance%20of%20branches%3B%20approval%20for%20erection%20of%20branch%20bank%20building.md) | Reserve-bank branches; establishment; directors; discontinuance of branches; approval for erection of branch bank building. |
-| [522\.](Subchapter%20017%20%28XVII%29%20-%20Reserve-Bank%20Branches/%C2%A7%2000522%20-%20Federal%20reserve%20branch%20bank%20buildings.md) | Federal reserve branch bank buildings. |
+| [522\.](Subchapter%20017%20%28XVII%29%20-%20Reserve-Bank%20Branches/%C2%A7%2000522%20-%20Federal%20Reserve%20branch%20bank%20buildings.md) | Federal Reserve branch bank buildings. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -74,11 +74,11 @@ The Immigration and Nationality Act, referred to in par. (17)(B), is act June 27
 
 #### Amendments
 
-2007—Pars. (9) to (17). Pub. L. 110–53, §502(a), added par. (9) and redesignated former pars. (9) to (16) as (10) to (17), respectively.
+<b>2007</b>—Pars. (9) to (17). Pub. L. 110–53, §502(a), added par. (9) and redesignated former pars. (9) to (16) as (10) to (17), respectively.
 
 Par. (18). Pub. L. 110–53, §901(d), added par. (18).
 
-2006—Par. (6). Pub. L. 109–347 inserted “governmental and nongovernmental” after “local”.
+<b>2006</b>—Par. (6). Pub. L. 109–347 inserted “governmental and nongovernmental” after “local”.
 
 Pub. L. 109–295 inserted “fire,” after “safety,”.
 
@@ -86,15 +86,17 @@ Pub. L. 109–295 inserted “fire,” after “safety,”.
 
 Pub. L. 107–296, §4, Nov. 25, 2002, 116 Stat. 2142, provided that: “This Act \[see Tables for classification\] shall take effect 60 days after the date of enactment \[Nov. 25, 2002\].”
 
-#### Short Title of 2010 Amendment
+#### Short Title of 2011 Amendment
 
 Pub. L. 111–376, §1, Jan. 4, 2011, 124 Stat. 4104, provided that: “This Act \[enacting section 221 of this title and provisions set out as a note under section 221 of this title\] may be cited as the ‘Anti-Border Corruption Act of 2010’.”
+
+#### Short Title of 2010 Amendment
 
 Pub. L. 111–271, §1, Oct. 12, 2010, 124 Stat. 2852, provided that: “This Act \[enacting section 613 of this title\] may be cited as the ‘Redundancy Elimination and Enhanced Performance for Preparedness Grants Act’.”
 
 Pub. L. 111–258, §1, Oct. 7, 2010, 124 Stat. 2648, provided that: “This Act \[enacting section 124m of this title and section 435d of Title 50, War and National Defense, amending sections 121 and 124k of this title and section 403–1 of Title 50, and enacting provisions set out as notes under section 124m of this title and sections 435 and 435d of Title 50\] may be cited as the ‘Reducing Over-Classification Act’.”
 
-Pub. L. 111–245, §1, Sept. 30, 2010, 124 Stat. 2620, provided that: “This Act \[enacting section 321n of thistitle, amending sections 453 and 464 of this title, and repealing section 464a of this title\] may be cited as the ‘First Responder Anti-Terrorism Training Resources Act’.”
+Pub. L. 111–245, §1, Sept. 30, 2010, 124 Stat. 2620, provided that: “This Act \[enacting section 321n of this title, amending sections 453 and 464 of this title, and repealing section 464a of this title\] may be cited as the ‘First Responder Anti-Terrorism Training Resources Act’.”
 
 Pub. L. 111–140, §1, Feb. 16, 2010, 124 Stat. 31, provided that: “This Act \[amending sections 592 and 596a of this title and enacting provisions set out as a note under section 592 of this title\] may be cited as the ‘Nuclear Forensics and Attribution Act’.”
 
@@ -170,7 +172,7 @@ Members.—The Commission shall be composed of 10 members, of whom—
 
 &emsp;“(1) 1 member shall be appointed by the President, who shall serve as chairman of the Commission;
 
-&emsp;“(2) 1 member shall be appointed by the leader of the Senate (majority or minority leader, as the casemay be) of the Democratic Party, in consultation with the leader of the House of Representatives (majority or minority leader, as the case may be) of the Democratic Party, who shall serve as vice chairman of the Commission;
+&emsp;“(2) 1 member shall be appointed by the leader of the Senate (majority or minority leader, as the case may be) of the Democratic Party, in consultation with the leader of the House of Representatives (majority or minority leader, as the case may be) of the Democratic Party, who shall serve as vice chairman of the Commission;
 
 &emsp;“(3) 2 members shall be appointed by the senior member of the Senate leadership of the Democratic Party;
 

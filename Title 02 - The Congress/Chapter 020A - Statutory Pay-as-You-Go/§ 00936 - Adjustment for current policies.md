@@ -38,7 +38,7 @@ This section shall remain in effect through December 31, 2011.
 
 &emsp;&emsp;(B) what those net outlays would have been if—
 
-&emsp;&emsp;&emsp;(i) the nominal payment rates and related parameters in effect for 2009 had been ineffect through December 31, 2014, without change; and
+&emsp;&emsp;&emsp;(i) the nominal payment rates and related parameters in effect for 2009 had been in effect through December 31, 2014, without change; and
 
 &emsp;&emsp;&emsp;(ii) thereafter, the nominal payment rates and related parameters described in subparagraph (A) had applied and the assumption described in clause (i) had never applied.
 
@@ -100,7 +100,7 @@ This section shall remain in effect through December 31, 2011.
 
 #### (4) Duration of policy adjustment
 
-&emsp;Adjustments made pursuant to this subsection are available for policies affecting theAMT through only December 31, 2011. Any adjustments shall include budgetary effects in all years from these policy changes.
+&emsp;Adjustments made pursuant to this subsection are available for policies affecting the AMT through only December 31, 2011. Any adjustments shall include budgetary effects in all years from these policy changes.
 
 #### (f) Permanent extension of middle-class tax cuts
 

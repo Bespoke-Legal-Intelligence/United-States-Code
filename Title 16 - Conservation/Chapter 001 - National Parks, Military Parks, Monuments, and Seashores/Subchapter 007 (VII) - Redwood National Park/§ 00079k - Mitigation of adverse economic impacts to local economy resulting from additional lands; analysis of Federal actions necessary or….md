@@ -18,9 +18,9 @@ Section was not enacted as part of Pub. L. 90–545, Oct. 2, 1968, 82 Stat. 931,
 
 #### Study of Timber Harvest Scheduling Alternatives for Six Rivers National Forest; Scope; Report to Congress
 
-Section 102(c) of Pub. L. 95–250 directed Secretary of Agriculture, within one year after Mar. 27, 1978, to prepare and transmit to Congress a study of timber harvest scheduling alternatives for Six Rivers National Forest, which alternatives were to exclude timber inventories standing on units of Wilderness Preservation System at time of study and were to be consistent with laws applicable to management of national forests.
+Pub. L. 95–250, title I, §102(c), Mar. 27, 1978, 92 Stat. 167, directed Secretary of Agriculture, within one year after Mar. 27, 1978, to prepare and transmit to Congress a study of timber harvest scheduling alternatives for Six Rivers National Forest, which alternatives were to exclude timber inventories standing on units of Wilderness Preservation System at time of study and were to be consistent with laws applicable to management of national forests.
 
 #### Reference to Secretary as Reference to Secretary of Department of the Interior; Exception
 
-Section 109 of Pub. L. 95–250 provided that: “Unless otherwise indicated hereinbefore, a reference to the Secretary will refer to the Secretary of the Department of the Interior, except in subsections 103(d) through 103(i) \[section 79<i>l</i>(d) to (i) of this title\], where a reference to the Secretary will refer to the Secretary of the Department of Labor.”
+Pub. L. 95–250, title I, §109, Mar. 27, 1978, 92 Stat. 172, provided that: “Unless otherwise indicated hereinbefore, a reference to the Secretary will refer to the Secretary of the Department of the Interior, except in subsections 103(d) through 103(i) \[section 79<i>l</i>(d) to (i) of this title\], where a reference to the Secretary will refer to the Secretary of the Department of Labor.”
 

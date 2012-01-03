@@ -1,6 +1,6 @@
 ### §2183. Educational assistance: former captives
 
-(a) In order to respond to special circumstances, the Secretary concerned may pay (byadvancement or reimbursement) a person who is a former captive for expenses incurred, while attending an educational or training institution, for—
+(a) In order to respond to special circumstances, the Secretary concerned may pay (by advancement or reimbursement) a person who is a former captive for expenses incurred, while attending an educational or training institution, for—
 
 &emsp;(1) subsistence;
 

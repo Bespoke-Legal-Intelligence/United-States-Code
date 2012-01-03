@@ -1,6 +1,6 @@
 ### §8171. Compensation for work injuries; generally
 
-(a) The Longshore and Harbor Workers’ Compensation Act (33 U.S.C. 901 et seq.) applies withrespect to disability or death resulting from injury, as defined by section 2(2) of such Act (33 U.S.C. 902(2)), occurring to an employee of a nonappropriated fund instrumentality described by section 2105(c) of this title, or to a volunteer providing such an instrumentality with services accepted under section 1588 of title 10, who is—
+(a) The Longshore and Harbor Workers’ Compensation Act (33 U.S.C. 901 et seq.) applies with respect to disability or death resulting from injury, as defined by section 2(2) of such Act (33 U.S.C. 902(2)), occurring to an employee of a nonappropriated fund instrumentality described by section 2105(c) of this title, or to a volunteer providing such an instrumentality with services accepted under section 1588 of title 10, who is—
 
 &emsp;(1) a United States citizen or a permanent resident of the United States or a territory or possession of the United States employed outside the continental United States; or
 
@@ -12,7 +12,7 @@
 
 (c) The Secretary of Labor may—
 
-&emsp;(1) extend compensation districts established under section 39(b) of the Longshore and Harbor Workers’ Compensation Act (33 U.S.C. 939(b)), or establish new districts to include the areas outside the continental United States; and
+&emsp;(1) extend compensation districts established under section 39(b) of the Longshore and Harbor Workers’ Compensation Act (33 U.S.C. 939(b)), or establish new districts to includethe areas outside the continental United States; and
 
 &emsp;(2) assign to each district one or more deputy commissioners as the Secretary considers advisable.
 
@@ -48,13 +48,13 @@ The Longshore and Harbor Workers’ Compensation Act, referred to in subsec. (a)
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–106, §1505(b)(1)(A), substituted “903(a))” for “903(3))” in concluding provisions.
+<b>1996</b>—Subsec. (a). Pub. L. 104–106, §1505(b)(1)(A), substituted “903(a))” for “903(3))” in concluding provisions.
 
 Subsec. (c)(1). Pub. L. 104–106, §1505(b)(1)(B), inserted “section” before “39(b)”.
 
 Subsec. (d). Pub. L. 104–106, §1505(b)(1)(C), substituted “(33 U.S.C. 918 and 921)” for “(33 U.S.C. 18 and 21, respectively)”.
 
-1994—Subsec. (a). Pub. L. 103–337, §1070(d)(8)(A)(i)(III), substituted “section 3(a) of such Act (33 U.S.C. 903(3)) which follows the second comma” for “section 903(a) of title 33 which follows the first comma” in second sentence.
+<b>1994</b>—Subsec. (a). Pub. L. 103–337, §1070(d)(8)(A)(i)(III), substituted “section 3(a) of such Act (33 U.S.C. 903(3)) which follows the second comma” for “section 903(a) of title 33 which follows the first comma” in second sentence.
 
 Pub. L. 103–337, §1070(d)(8)(A)(i)(I), (II), substituted “The Longshore and Harbor Workers’ Compensation Act (33 U.S.C. 901 et seq.)” for “Chapter 18 of title 33” and “section 2(2) of such Act (33 U.S.C. 902(2))” for “section 902(2) of title 33”, in introductory provisions.
 

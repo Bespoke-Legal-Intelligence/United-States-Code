@@ -12,7 +12,7 @@ Public agency.—The term “public agency” means—
 
 &emsp;&emsp;(B) a political subdivision of a State (including a unit of local government or economic development district);
 
-&emsp;&emsp;(C) a department, agency, or instrumentality of a State (including instrumentalities created by compact or other agreement between States or political subdivisions); or
+&emsp;&emsp;(C) a department, agency, or instrumentality of a State (including instrumentalitiescreated by compact or other agreement between States or political subdivisions); or
 
 &emsp;&emsp;(D) an Indian tribe, band, group, pueblo, or community located on a state reservation.
 
@@ -122,7 +122,7 @@ State Plan of Operation.—
 
 &emsp;(1)
 
-In general.—Before property may be transferred to a state agency, the State shall develop a detailed state plan of operation, in accordance with this subsection and with state law.
+In general.—Before property may be transferred to a state agency, the State shalldevelop a detailed state plan of operation, in accordance with this subsection and with state law.
 
 &emsp;(2)
 
@@ -134,7 +134,7 @@ Consideration of needs and resources.—In developing and implementing the state
 
 &emsp;&emsp;(B)
 
-Publication and period for comment.—The state plan of operation, and anymajor amendment to the plan, may not be filed with the Administrator until 60 days after general notice of the proposed plan or amendment has been published and interested persons have been given at least 30 days to submit comments.
+Publication and period for comment.—The state plan of operation, and any major amendment to the plan, may not be filed with the Administrator until 60 days after general notice of the proposed plan or amendment has been published and interested persons have been given at least 30 days to submit comments.
 
 &emsp;&emsp;(C)
 
@@ -316,7 +316,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 Ex. Ord. No. 12999, Apr. 17, 1996, 61 F.R. 17227, provided:
 
-In order to ensure that American children have the skills they need to succeed in the information-intensive 21st century, the Federal Government is committed to working with the private sector to promote four major developments in American education: making modern computer technology an integral part of every classroom; providing teachers with the professional development they need to use new technologies effectively; connecting classrooms to the National Information Infrastructure; and encouraging the creation of excellent educational software. This Executive order streamlines the transfer of excess and surplus Federal computer equipment to our Nation's classrooms and encourages Federal employees to volunteer their time and expertise to assist teachers and to connect classrooms.
+In order to ensure that American children have the skills they need to succeed in the information-intensive 21st century, the Federal Government is committed to working with the private sector to promote four major developments in American education: making modern computer technology an integral part of everyclassroom; providing teachers with the professional development they need to use new technologies effectively; connecting classrooms to the National Information Infrastructure; and encouraging the creation of excellent educational software. This Executive order streamlines the transfer of excess and surplus Federal computer equipment to our Nation's classrooms and encourages Federal employees to volunteer their time and expertise to assist teachers and to connect classrooms.
 
 Accordingly, by the authority vested in me as President by the Constitution and the laws of the United States of America, including the provisions of the Stevenson-Wydler Technology Innovation Act of 1980, as amended (15 U.S.C. 3701 <i>et seq.</i>), the Federal Property and Administrative Services Act of 1949, ch. 288, 63 Stat. 377 \[now chapters 1 to 11 of this title and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41, Public Contracts\], and the National Defense Authorization Act for Fiscal Year 1996, Public Law 104–106 \[see Tables for classification\], it is hereby ordered as follows:
 

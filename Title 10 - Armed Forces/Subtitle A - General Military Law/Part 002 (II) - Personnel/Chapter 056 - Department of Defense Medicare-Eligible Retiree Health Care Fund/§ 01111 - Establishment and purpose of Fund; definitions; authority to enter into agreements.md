@@ -50,7 +50,7 @@ Subsec. (c). Pub. L. 107–107, §711(b)(1), added subsec. (c).
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–364, div. A, title V, §592(c), Oct. 17, 2006, 120 Stat. 2234, provided that: “The amendments madeby this section \[amending this section and section 1115 of this title\] shall take effect with respect to payments under chapter 56 of title 10, United States Code, beginning with fiscal year 2008.”
+Pub. L. 109–364, div. A, title V, §592(c), Oct. 17, 2006, 120 Stat. 2234, provided that: “The amendments made by this section \[amending this section and section 1115 of this title\] shall take effect with respect to payments under chapter 56 of title 10, United States Code, beginning with fiscal year 2008.”
 
 #### Effective Date of 2004 Amendment
 

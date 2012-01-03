@@ -36,7 +36,7 @@ Advances and reimbursements.—Whenever the Director procures information techno
 
 (d)
 
-Authorization of Appropriations.—There are authorized to be appropriated to the Fund for any fiscal year such sums as are required to supplement amounts deposited under subsection (c) in order to conduct activities under subsection (a).
+Authorization of Appropriations.—There are authorized to be appropriated to the Fundfor any fiscal year such sums as are required to supplement amounts deposited under subsection (c) in order to conduct activities under subsection (a).
 
 (e)
 
@@ -74,7 +74,7 @@ Annual Report.—
 
 &emsp;(1)
 
-In general.—The Director shall submit to the Congress an annual report on the operation of the Fund, including on the inventory, use, and acquisition of information technologyresources from the Fund and the consistency of such acquisition with the plan prepared under subsection (b). The report shall set forth the amounts deposited into the Fund under subsection (c).
+In general.—The Director shall submit to the Congress an annual report on the operation of the Fund, including on the inventory, use, and acquisition of information technology resources from the Fund and the consistency of such acquisition with the plan prepared under subsection (b). The report shall set forth the amounts deposited into the Fund under subsection (c).
 
 &emsp;(2)
 
@@ -114,7 +114,7 @@ Long Range Management and Business Plans.—The Director of the Administrative O
 
 Section 404 of Public Law 101–515, referred to in subsecs. (b)(1) and (c)(1)(A), was formerly set out as a Court Fees for Electronic Access to Information note under section 1913 of this title.
 
-The date of the enactment of the Judicial Amendments Act of 1994, referred to in subsec. (c)(1)(A), is the date of enactment of Pub. L. 103–420, which was approved Oct. 25, 1994.
+The date of the enactment of the Judicial Amendments Act of 1994, referred to in subsec. (c)(1)(A), is thedate of enactment of Pub. L. 103–420, which was approved Oct. 25, 1994.
 
 Subsection (k), referred to in subsec. (g)(2)(A), was redesignated subsection (j) of this section by Pub. L. 106–518, title I, §101(2), Nov. 13, 2000, 114 Stat. 2411.
 
@@ -150,7 +150,7 @@ Subsec. (<i>l</i>). Pub. L. 105–119 struck out subsec. (<i>l</i>) which read a
 
 “(<i>l</i>)
 
-Termination of Authority.—The Fund, and the authorities conferred by this section, terminate on September 30, 1998. All unobligated amounts remaining inthe Fund on that date shall be deposited into the fund established under section 1931 of this title to be used to reimburse other appropriations.”
+Termination of Authority.—The Fund, and the authorities conferred by this section, terminate on September 30, 1998. All unobligated amounts remaining in the Fund on that date shall be deposited into the fund established under section 1931 of this title to be used to reimburse other appropriations.”
 
 <b>1996</b>—Pub. L. 104–106, §5602(b)(1), substituted “Information Technology Fund” for “Automation Fund” in section catchline.
 
@@ -192,7 +192,7 @@ Subsec. (h). Pub. L. 103–420, §2(6), amended subsec. (h) generally. Prior to 
 
 Annual Report.—The Director shall submit to the Congress an annual report on the operation of the Fund, including on the inventory, use, and acquisition of automatic data processing equipment from the Fund and the consistency of such acquisition with the plan prepared under subsection (b). The report shall set forth the amounts deposited into the Fund under subsection (c).”
 
-Subsec. (i). Pub. L. 103–420, §2(7), substituted “may transfer amounts up to $1,000,000 from the Fund into the account to which the funds were originally appropriated. Any amounts transferred from the Fund in excess of $1,000,000 in any fiscal year may only be transferred by following reprogramming procedures in compliance with section 606 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1989 (Public Law 100–459; 102 Stat. 2227)” for “and upon notification to the Committees on Appropriations of the House of Representatives and the Senate, may use amounts deposited into the Fund under subparagraph (c)(1)(B) for purposes other than those established in subsection (a) only by following reprogramming procedures in compliance with provisions set forth in section 606 of Public Law 100–459.”
+Subsec. (i). Pub. L. 103–420, §2(7), substituted “may transfer amounts up to $1,000,000 from the Fund into the account to which the funds were originally appropriated. Any amounts transferred from the Fund in excess of $1,000,000 in any fiscal year may only be transferred by following reprogramming procedures in compliance with section 606 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1989 (Public Law 100–459; 102 Stat. 2227)” for “and upon notification to the Committees on Appropriations of the House of Representatives and the Senate, may use amounts deposited into the Fund under subparagraph (c)(1)(B) for purposesother than those established in subsection (a) only by following reprogramming procedures in compliance with provisions set forth in section 606 of Public Law 100–459.”
 
 Subsec. (j). Pub. L. 103–420, §2(8), substituted “not specified in statute by Congress” for “not specified by Congress” in second sentence.
 

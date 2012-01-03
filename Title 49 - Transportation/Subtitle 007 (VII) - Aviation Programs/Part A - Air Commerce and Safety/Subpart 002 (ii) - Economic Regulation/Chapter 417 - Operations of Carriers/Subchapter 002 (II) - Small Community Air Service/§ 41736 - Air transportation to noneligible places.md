@@ -30,7 +30,7 @@ Approval for Certain Air Transportation.—Notwithstanding subsection (a)(1)(B) 
 
 &emsp;(4) the State or local government submitting the proposal or a person is willing and able to pay 25 percent of the cost of providing the compensated transportation.
 
-> Paragraph (4) does not apply to any community approved for service under this section duringthe period beginning October 1, 1991, and ending December 31, 1997.
+> Paragraph (4) does not apply to any community approved for service under this section during the period beginning October 1, 1991, and ending December 31, 1997.
 
 (c)
 

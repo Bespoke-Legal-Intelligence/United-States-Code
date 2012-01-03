@@ -48,7 +48,7 @@ Contingent Waiver of Other Provisions of Law.—(1) The Secretary may waive the 
 
 &emsp;(A) The need for the vessels or services to be provided under the contract is expected to remain substantially unchanged during the contemplated contract or option period.
 
-&emsp;(B) There is a reasonable expectation that throughout the contemplated contract or option period the Secretary of the Navy (or, if the contract is for services to be provided to, and funded by, another military department, the Secretary of that military department) will request funding for the contract at the level required to avoid contract cancellation.
+&emsp;(B) There is a reasonable expectation that throughout the contemplated contract or option period the Secretary of the Navy (or, if the contract is for services to be provided to, and funded by, another military department,the Secretary of that military department) will request funding for the contract at the level required to avoid contract cancellation.
 
 &emsp;(C) The timeliness of consideration of the contract by Congress is such that such a waiver is in the interest of the United States.
 

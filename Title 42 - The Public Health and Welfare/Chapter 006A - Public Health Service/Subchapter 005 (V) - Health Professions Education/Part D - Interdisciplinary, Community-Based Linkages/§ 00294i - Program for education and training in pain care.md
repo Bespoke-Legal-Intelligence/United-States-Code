@@ -12,7 +12,7 @@ An award may be made under subsection (a) only if the applicant for the award ag
 
 &emsp;(2) applicable laws, regulations, rules, and policies on controlled substances, including the degree to which misconceptions and concerns regarding such laws, regulations, rules, and policies, or the enforcement thereof, may create barriers to patient access to appropriate and effective pain care;
 
-&emsp;(3) interdisciplinary approaches to the delivery of pain care, including delivery through specialized centers providing comprehensive pain care treatment expertise;
+&emsp;(3) interdisciplinary approaches to the delivery of pain care, including delivery throughspecialized centers providing comprehensive pain care treatment expertise;
 
 &emsp;(4) cultural, linguistic, literacy, geographic, and other barriers to care in underserved populations; and
 

@@ -58,7 +58,7 @@ The Task Force shall meet periodically at the call of the Chair, but in no event
 
 &emsp;While away from their homes or regular places of business on the business of the Task Force, members of such Task Force may be allowed travel expenses, including per diem in lieu of subsistence, as is authorized under section 5703 of title 5 for persons employed intermittently in the Government service.
 
-(Pub. L. 101–557, title III, §302, Nov. 15, 1990, 104 Stat. 2769; Pub. L. 102–321, title I, §161, July 10, 1992, 106 Stat. 375; Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 106–129, §2(b)(2), Dec. 6, 1999, 113 Stat. 1670; Pub. L. 108–173, title IX, §900(e)(6)(D), Dec. 8, 2003, 117 Stat. 2373.)
+(Pub. L. 101–557, title III, §302, Nov. 15, 1990, 104 Stat. 2769; Pub. L. 102–321, title I, §161, July 10, 1992, 106 Stat. 375; Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985; Pub. L.106–129, §2(b)(2), Dec. 6, 1999, 113 Stat. 1670; Pub. L. 108–173, title IX, §900(e)(6)(D), Dec. 8, 2003, 117 Stat. 2373.)
 
 #### Codification
 

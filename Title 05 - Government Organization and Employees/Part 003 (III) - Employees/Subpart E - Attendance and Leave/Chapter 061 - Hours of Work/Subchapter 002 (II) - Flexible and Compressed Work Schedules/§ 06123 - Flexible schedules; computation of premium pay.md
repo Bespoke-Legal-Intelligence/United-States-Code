@@ -2,7 +2,7 @@
 
 (a) For purposes of determining compensation for overtime hours in the case of an employee participating in a program under section 6122 of this title—
 
-&emsp;(1) the head of an agency may, on request of the employee, grant the employee compensatory time off in lieu of payment for such overtime hours, whether or not irregular or occasional in nature and notwithstanding the provisions of sections 5542(a), 5543(a)(1) and section <sup>1</sup> 5544(a) of this title, section 7453(e) of title 38, section 7 of the Fair Labor Standards Act (29 U.S.C. 207), or any other provision of law; or
+&emsp;(1) the head of an agency may, on request of the employee, grant the employee compensatory time off in lieu of payment for such overtime hours, whether or not irregular or occasional in nature and notwithstanding the provisions of sections 5542(a), 5543(a)(1) and section <sup>1</sup> 5544(a) of this title, section 7453(e) of title 38, section 7 of the Fair Labor StandardsAct (29 U.S.C. 207), or any other provision of law; or
 
 &emsp;(2) the employee shall be compensated for such overtime hours in accordance with such provisions, as applicable.
 
@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(i) the number of hours during which such employee must be present for work, plus
 
-&emsp;&emsp;(ii) the number of hours during which such employee may elect to work credit hours orelect the time of arrival at and departure from work,
+&emsp;&emsp;(ii) the number of hours during which such employee may elect to work credit hours or elect the time of arrival at and departure from work,
 
 > &emsp;which occur outside of the nightwork hours designated in or under such section 5545(a) total less than 8 hours, such premium pay shall be paid for those hours which, when combined with such total, do not exceed 8 hours, and
 
@@ -30,9 +30,9 @@
 
 #### Amendments
 
-1992—Subsec. (a)(1). Pub. L. 102–378 substituted “5543(a)(1) and section 5544(a)” for “5543(a)(1), 5544(a), and 5550”.
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–378 substituted “5543(a)(1) and section 5544(a)” for “5543(a)(1), 5544(a), and 5550”.
 
-1991—Subsec. (a)(1). Pub. L. 102–40, §403(c)(2)(A), substituted “section 7453(e)” for “section 4107(e)(5)”.
+<b>1991</b>—Subsec. (a)(1). Pub. L. 102–40, §403(c)(2)(A), substituted “section 7453(e)” for “section 4107(e)(5)”.
 
 Subsec. (c)(2). Pub. L. 102–40, §403(c)(2)(B), in introductory provisions substituted “section 7453(b)” for “section 4107(e)(2)” and in subpar. (B) substituted “subsection (b) of such section 7453” for “subsection (e)(2) of such section 4107”.
 

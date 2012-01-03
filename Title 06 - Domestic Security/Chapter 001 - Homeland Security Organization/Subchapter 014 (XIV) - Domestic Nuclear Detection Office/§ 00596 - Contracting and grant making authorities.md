@@ -12,5 +12,5 @@ The Secretary, acting through the Director for Domestic Nuclear Detection, in ca
 
 #### Amendments
 
-2007—Pub. L. 110–53, §104(a)(4), made technical amendment to reference in original act which appears in two places in text as reference to section 592(a) of this title.
+<b>2007</b>—Pub. L. 110–53, §104(a)(4), made technical amendment to reference in original act which appears in two places in text as reference to section 592(a) of this title.
 

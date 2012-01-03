@@ -10,7 +10,7 @@ The Secretary of State may, under such regulations as he shall prescribe, and no
 
 &emsp;(4) The Inspector General shall review the program established by this section no later than December 1989 and periodically thereafter with a view to increasing cost savings and making other appropriate recommendations.
 
-(Dec. 20, 1945, ch. 583, §9, as added Pub. L. 93–126, §15, Oct. 18, 1973, 87 Stat. 454; amended Pub. L. 98–164, title II, §215, Nov. 22, 1983, 97 Stat. 1035; Pub. L. 100–459, title III, §304(b), Oct. 1, 1988, 102 Stat. 2207; Pub. L. 106–309, title IV, §405, Oct. 17, 2000, 114 Stat. 1098.)
+(Dec. 20, 1945, ch. 583, §9, as added Pub. L. 93–126, §15, Oct. 18, 1973, 87 Stat. 454; amended Pub. L.98–164, title II, §215, Nov. 22, 1983, 97 Stat. 1035; Pub. L. 100–459, title III, §304(b), Oct. 1, 1988, 102 Stat. 2207; Pub. L. 106–309, title IV, §405, Oct. 17, 2000, 114 Stat. 1098.)
 
 #### Codification
 
@@ -42,7 +42,7 @@ Section 304(c) of Pub. L. 100–459 provided that:
 
 #### Delegation of Functions
 
-Authority of President under this section delegated to Secretary of State, see section 4(b) of Ex. Ord. No.11609, July 22, 1971, 36 F.R. 13747, as amended by Ex. Ord. No. 11779, Apr. 22, 1974, 39 F.R. 14185, set out as a note under section 301 of Title 3, The President.
+Authority of President under this section delegated to Secretary of State, see section 4(b) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, as amended by Ex. Ord. No. 11779, Apr. 22, 1974, 39 F.R. 14185, set out as a note under section 301 of Title 3, The President.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

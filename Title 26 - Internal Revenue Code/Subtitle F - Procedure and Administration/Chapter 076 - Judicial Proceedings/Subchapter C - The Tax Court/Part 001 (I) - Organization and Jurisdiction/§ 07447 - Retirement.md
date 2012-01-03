@@ -66,7 +66,7 @@ For purposes of this section—
 
 #### (c) Recalling of retired judges
 
-At or after his retirement, any individual who has elected to receive retired pay under subsection (d) may be called upon by the chief judge of the Tax Court to perform such judicial dutieswith the Tax Court as may be requested of him for any period or periods specified by the chief judge; except that in the case of any such individual—
+At or after his retirement, any individual who has elected to receive retired pay under subsection (d) may be called upon by the chief judge of the Tax Court to perform such judicial duties with the Tax Court as may be requested of him for any period or periods specified by the chief judge; except that in the case of any such individual—
 
 &emsp;(1) the aggregate of such periods in any one calendar year shall not (without his consent) exceed 90 calendar days; and
 
@@ -126,7 +126,7 @@ In the case of an individual for whom an election to receive retired pay under s
 
 &emsp;&emsp;&emsp;(i) paragraphs (1) and (2) (and subsection (c)) shall not apply to such individual beginning on the date such election takes effect, and
 
-&emsp;&emsp;&emsp;(ii) the retired pay under subsection (d) payable to such individual for periods beginning on or after the date such electiontakes effect shall be equal to the retired pay to which such individual would be entitled without regard to this clause at the time of such election.
+&emsp;&emsp;&emsp;(ii) the retired pay under subsection (d) payable to such individual for periods beginning on or after the date such election takes effect shall be equal to the retired pay to which such individual would be entitled without regard to this clause at the time of such election.
 
 #### (B) Election
 
@@ -208,7 +208,7 @@ In the case of an individual for whom an election to receive retired pay under s
 
 #### (2) Applicability of title 5 provisions
 
-&emsp;Except as otherwise provided in this subsection, the provisions of subchapters III and VII of chapter 84 of title 5, United States Code, shall apply with respect to a judge who makes an election under paragraph (1).
+&emsp;Except as otherwise provided in this subsection, the provisions of subchapters III and VII of chapter 84 of title 5, United States Code,shall apply with respect to a judge who makes an election under paragraph (1).
 
 #### (3) Special rules
 
@@ -274,11 +274,11 @@ Subsec. (a)(1). Pub. L. 91–172, §960(c), substituted “United States Tax Cou
 
 Subsec. (a)(5). Pub. L. 91–172, §960(d), inserted reference to service as a judge of the Tax Court of the United States.
 
-Subsec. (b). Pub. L. 91–172, §954(a), substituted provisions authorizing retirement at age 70, or age 65 after serving 15 years, or when any judge has become permanently disabled, authorizing any judge not reappointed who has served 15 years or more to retire under enumerated condition, and rendering section 8335(a) of title 5 not applicable to judges, for provisions authorizing retirement after a judge has served 18 years, requiring anyone who served as a judge for 10 years or moreand attained the age of 70 years to retire no later than the close of the third month beginning after the month in which he attained 70 years or the month completing the tenth year of service or August 1953, and rendering section 2(a) of the Civil Service Retirement Act not applicable to judges.
+Subsec. (b). Pub. L. 91–172, §954(a), substituted provisions authorizing retirement at age 70, or age 65 after serving 15 years, or when any judge has become permanently disabled, authorizing any judge not reappointed who has served 15 years or more to retire under enumerated condition, and rendering section 8335(a) of title 5 not applicable to judges, for provisions authorizing retirement after a judge has served 18 years, requiring anyone who served as a judge for 10 years or more and attained the age of 70 years to retire no later than the close of the third month beginning after the month in which he attained 70 years or the month completing the tenth year of service or August 1953, and rendering section 2(a) of the Civil Service Retirement Act not applicable to judges.
 
 Subsec. (d). Pub. L. 91–172, §954(b), substituted provisions specifying methods of computation of retirement pay under subsec. (b) of this section so as to conform such provisions to subsec. (b) (relating to conditions for retiring), for provisions specifying methods of computation for retirement pay under former subsec. (b) of this section (relating to conditions for retiring).
 
-Subsec. (g)(1). Pub. L. 91–172, §954(e)(2), substituted “civil service retirement laws” and “such civil service retirement laws apply” for “Civil Service Retirement Act” and “such Act applies”, respectively.
+Subsec. (g)(1). Pub. L. 91–172, §954(e)(2), substituted “civil service retirement laws” and “such civil serviceretirement laws apply” for “Civil Service Retirement Act” and “such Act applies”, respectively.
 
 Subsec. (g)(2). Pub. L. 91–172, §954(c), substituted provisions that any individual electing to receive retirement pay under subsec. (d) of this section is not to receive any payment under the civil service retirement laws, and no deduction is to be made for the Civil Service Retirement and Disability Fund, and a lump-sum credit computed under section 8331(8) of Title 5 is to be paid, for provisions which enumerated the effects and conditions of electing retirement pay under former subsec. (d) of this section.
 

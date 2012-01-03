@@ -26,11 +26,11 @@ Section was enacted as part of the Housing and Urban Development Act of 1970, an
 
 #### Amendments
 
-1983—Subsec. (b). Pub. L. 98–35 designated existing provisions as par. (1) and added par. (2).
+<b>1983</b>—Subsec. (b). Pub. L. 98–35 designated existing provisions as par. (1) and added par. (2).
 
-1976—Subsec. (b). Pub. L. 94–375 struck out provisions which authorized the Secretary to make or contract to make housing allowance payments, authorized sums to be appropriated as necessary, including sums for contract payments and administrative costs, and limited the aggregate amount of contracts for making housing allowance payments.
+<b>1976</b>—Subsec. (b). Pub. L. 94–375 struck out provisions which authorized the Secretary to make or contract to make housing allowance payments, authorized sums to be appropriated as necessary, including sums for contract payments and administrative costs, and limited the aggregate amount of contracts for making housing allowance payments.
 
-1974—Subsec. (a). Pub. L. 93–383 substituted provisions authorizing the Secretary to undertake programs on an experimental basis of housing allowance payments to assist families in meeting rental or homeownership expenses, for provisions authorizing the Secretary in carrying out activities under section 1701z–1 of this title to undertake programs on an experimental basis of housing allowances to assist families of low income to obtain rental housing of their choice in existing units.
+<b>1974</b>—Subsec. (a). Pub. L. 93–383 substituted provisions authorizing the Secretary to undertake programs on an experimental basis of housing allowance payments to assist families in meeting rental or homeownership expenses, for provisions authorizing the Secretary in carrying out activities under section 1701z–1 of this title to undertake programs on an experimental basis of housing allowances to assist families of low income to obtain rental housing of their choice in existing units.
 
 Subsec. (b). Pub. L. 93–383 substituted provisions relating to the authority of the Secretary to make or contract to make payments to or on behalf of participating families, authorizing appropriations, and setting forth limits on the contracting power of the Secretary, for provisions setting forth limitations on the amount of family allowances and conditioning payment of such allowances.
 

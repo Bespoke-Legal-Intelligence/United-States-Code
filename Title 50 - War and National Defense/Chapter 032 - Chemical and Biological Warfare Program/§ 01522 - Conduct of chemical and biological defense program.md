@@ -18,7 +18,7 @@ In carrying out his responsibilities under this section, the Secretary of Defens
 
 (1) The Secretary of Defense shall designate the Army as executive agent for the Department of Defense to coordinate and integrate research, development, test, and evaluation, and acquisition, requirements of the military departments for chemical and biological warfare defense programs of the Department of Defense.
 
-(2) The Director of the Defense Advanced Research Projects Agency may conduct a program of basic and applied research and advanced technology development on chemical and biological warfare defense technologies and systems. In conducting such program, the Director shall seek to avoid unnecessary duplication of the activities under the program with chemical and biological warfare defense activities of the military departments and defense agencies and shall coordinate the activities under the program with those of the military departments and defense agencies.
+(2) The Director of the Defense Advanced Research Projects Agency may conduct a program of basic and applied research and advanced technology development on chemical and biologicalwarfare defense technologies and systems. In conducting such program, the Director shall seek to avoid unnecessary duplication of the activities under the program with chemical and biological warfare defense activities of the military departments and defense agencies and shall coordinate the activities under the program with those of the military departments and defense agencies.
 
 #### (d) Funding
 
@@ -106,7 +106,7 @@ Objectives.—The objectives for the modification of policies and doctrines of t
 
 &emsp;“(2) To provide for—
 
-&emsp;&emsp;“(A) the prevention of and protection against, and the detection (including confirmation) of, exposures to a chemical warfare agent (whether intentional or inadvertent) at levels that, even if not sufficient to endanger health immediately, are greater than the level that is recognized under Department of Defense policies as being the maximum safe level of exposure to that agent for the general population; and
+&emsp;&emsp;“(A) the prevention of and protection against, and the detection (including confirmation) of, exposures to a chemical warfare agent (whether intentional or inadvertent) at levels that, even if not sufficient to endanger health immediately, are greater than the level that is recognized under Departmentof Defense policies as being the maximum safe level of exposure to that agent for the general population; and
 
 &emsp;&emsp;“(B) the recording, reporting, coordinating, and retaining of information on possible exposures described in subparagraph (A), including the monitoring of the health effects of exposures on humans and animals, environmental effects, and ecological effects, and the documenting and reporting of those effects specifically by location.
 

@@ -6,5 +6,5 @@ The Secretary may supply printed copies of descriptions, drawings, and photograp
 
 #### Amendments
 
-1980—Pub. L. 96–574 substituted “descriptions” for “specifications”.
+<b>1980</b>—Pub. L. 96–574 substituted “descriptions” for “specifications”.
 

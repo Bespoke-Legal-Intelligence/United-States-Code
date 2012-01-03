@@ -32,7 +32,7 @@ For purposes of this subchapter, the preservation value of eligible low-income h
 
 &emsp;(1) for purposes of extending the low-income affordability restrictions and receiving incentives under section 4109 of this title, the fair market value of the property based on the highest and best use of the property as residential rental housing; and
 
-&emsp;(2) for purposes of transferring the property under section 4110 or 4111 of this title, the fairmarket value of the housing based on the highest and best use of the property.
+&emsp;(2) for purposes of transferring the property under section 4110 or 4111 of this title, the fair market value of the housing based on the highest and best use of the property.
 
 #### (c) Guidelines
 
@@ -50,5 +50,5 @@ The Secretary shall provide written guidelines for appraisals of preservation va
 
 #### Amendments
 
-1992—Subsec. (c). Pub. L. 102–550 inserted “simultaneous termination of any Federal rental assistance,” before “and costs” in first sentence.
+<b>1992</b>—Subsec. (c). Pub. L. 102–550 inserted “simultaneous termination of any Federal rental assistance,” before “and costs” in first sentence.
 

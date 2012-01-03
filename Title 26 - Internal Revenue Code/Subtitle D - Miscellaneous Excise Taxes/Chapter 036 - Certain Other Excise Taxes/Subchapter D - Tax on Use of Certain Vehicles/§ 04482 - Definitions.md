@@ -36,7 +36,7 @@ For purposes of this subchapter—
 
 #### (4) Taxable period
 
-&emsp;The term “taxable period” means any year beginning before July 1, 2011, and the period which begins on July 1, 2011, and ends at the close of September 30, 2011.
+&emsp;The term “taxable period” means any year beginning before July 1, 2012, and the period which begins on July 1, 2012, and ends at the close of September 30, 2012.
 
 #### (5) Customary use
 
@@ -44,11 +44,13 @@ For purposes of this subchapter—
 
 #### (d) Special rule for taxable period in which termination date occurs
 
-In the case of the taxable period which ends on September 30, 2011, the amount of the tax imposed by section 4481 with respect to any highway motor vehicle shall be determined by reducing each dollar amount in the table contained in section 4481(a) by 75 percent.
+In the case of the taxable period which ends on September 30, 2012, the amount of the tax imposed by section 4481 with respect to any highway motor vehicle shall be determined by reducing each dollar amount in the table contained in section 4481(a) by 75 percent.
 
-(Added June 29, 1956, ch. 462, title II, §206(a), 70 Stat. 390; amended Pub. L. 87–61, title II, §203(b)(2)(C), June 29, 1961, 75 Stat. 125; Pub. L. 91–605, title III, §303(a)(9), Dec. 31, 1970, 84 Stat. 1744; Pub. L. 94–280, title III, §303(a)(9), May 5, 1976, 90 Stat. 456; Pub. L. 94–455, title XIX, §§1904(c), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1818, 1834; Pub. L. 95–599, title V, §502(a)(8), Nov. 6, 1978, 92 Stat. 2756; Pub. L. 97–424, title V, §§513(c), (e), 516(a)(4), Jan. 6, 1983, 96 Stat. 2179, 2182; Pub. L. 100–17, title V, §502(a)(5), Apr. 2, 1987, 101 Stat. 256; Pub. L. 101–508, title XI, §11211(c)(5), Nov. 5, 1990, 104 Stat. 1388–426; Pub. L. 102–240, title VIII, §8002(a)(5), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 105–178, title IX, §9002(a)(1)(H), (I), June 9, 1998, 112 Stat. 499; Pub. L. 109–14, §9(c)(2), (3), May 31, 2005, 119 Stat. 336; Pub. L. 109–59, title XI, §11101(a)(2)(B), (C), Aug. 10, 2005, 119 Stat. 1944.)
+(Added June 29, 1956, ch. 462, title II, §206(a), 70 Stat. 390; amended Pub. L. 87–61, title II, §203(b)(2)(C), June 29, 1961, 75 Stat. 125; Pub. L. 91–605, title III, §303(a)(9), Dec. 31, 1970, 84 Stat. 1744; Pub. L. 94–280, title III, §303(a)(9), May 5, 1976, 90 Stat. 456; Pub. L. 94–455, title XIX, §§1904(c), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1818, 1834; Pub. L. 95–599, title V, §502(a)(8), Nov. 6, 1978, 92 Stat. 2756; Pub. L. 97–424, title V, §§513(c), (e), 516(a)(4), Jan. 6, 1983, 96 Stat. 2179, 2182; Pub. L. 100–17, title V, §502(a)(5), Apr. 2, 1987, 101 Stat. 256; Pub. L. 101–508, title XI, §11211(c)(5), Nov. 5, 1990, 104 Stat. 1388–426; Pub. L. 102–240, title VIII, §8002(a)(5), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 105–178, title IX, §9002(a)(1)(H), (I), June 9, 1998, 112 Stat. 499; Pub. L. 109–14, §9(c)(2), (3), May 31, 2005, 119 Stat. 336; Pub. L. 109–59, title XI, §11101(a)(2)(B), (C), Aug. 10, 2005, 119 Stat. 1944; Pub. L. 112–30, title I, §142(b)(2), Sept. 16, 2011, 125 Stat. 356.)
 
 #### Amendments
+
+<b>2011</b>—Subsecs. (c)(4), (d). Pub. L. 112–30 substituted “2012” for “2011” wherever appearing.
 
 <b>2005</b>—Subsecs. (c)(4), (d). Pub. L. 109–59 substituted “2011” for “2006” wherever appearing.
 
@@ -82,13 +84,17 @@ Subsec. (c)(4). Pub. L. 94–280 substituted “1979” for “1977” wherever 
 
 <b>1961</b>—Subsec. (c)(4). Pub. L. 87–61 added par. (4).
 
+#### Effective Date of 2011 Amendment
+
+Amendment by Pub. L. 112–30 effective Oct. 1, 2011, see section 142(f) of Pub. L. 112–30, set out as a note under section 460<i>l</i>–11 of Title 16, Conservation.
+
 #### Effective Date of 1983 Amendment
 
 Amendment by section 513(c), (e) of Pub. L. 97–424 effective July 1, 1984, see section 513(f) of Pub. L. 97–424, set out as a note under section 4481 of this title.
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1904(c) of Pub. L. 94–455 effective on first day of first month which begins more than90 days after Oct. 4, 1976, see section 1904(d) of Pub. L. 94–455, set out as a note under section 4041 of this title.
+Amendment by section 1904(c) of Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1904(d) of Pub. L. 94–455, set out as a note under section 4041 of this title.
 
 #### Effective Date of 1961 Amendment
 

@@ -18,20 +18,24 @@
 | [127d.](%C2%A7%2000127d%20-%20Allied%20forces%20participating%20in%20combined%20operations%20authority%20to%20provide%20logistic%20support%2C%20supplies%2C%20and%20services.md) | Allied forces participating in combined operations: authority to provide logistic support, supplies, and services. |
 | [128\.](%C2%A7%2000128%20-%20Physical%20protection%20of%20special%20nuclear%20material%20limitation%20on%20dissemination%20of%20unclassified%20information.md) | Physical protection of special nuclear material: limitation on dissemination of unclassified information. |
 | [129\.](%C2%A7%2000129%20-%20Prohibition%20of%20certain%20civilian%20personnel%20management%20constraints.md) | Prohibition of certain civilian personnel management constraints. |
-| [129a.](%C2%A7%2000129a%20-%20General%20personnel%20policy.md) | General personnel policy. |
+| [129a.](%C2%A7%2000129a%20-%20General%20policy%20for%20total%20force%20management.md) | General policy for total force management. |
 | [129b.](%C2%A7%2000129b%20-%20Authority%20to%20procure%20personal%20services.md) | Authority to procure personal services. |
 | [129c.](%C2%A7%2000129c%20-%20Medical%20personnel%20limitations%20on%20reductions.md) | Medical personnel: limitations on reductions. |
+| [129d.](%C2%A7%2000129d%20-%20Disclosure%20to%20litigation%20support%20contractors.md) | Disclosure to litigation support contractors. |
 | [130\.](%C2%A7%2000130%20-%20Authority%20to%20withhold%20from%20public%20disclosure%20certain%20technical%20data.md) | Authority to withhold from public disclosure certain technical data. |
 | \[130a. | Repealed.\] |
 | [130b.](%C2%A7%2000130b%20-%20Personnel%20in%20overseas%2C%20sensitive%2C%20or%20routinely%20deployable%20units%20nondisclosure%20of%20personally%20identifying%20information.md) | Personnel in overseas, sensitive, or routinely deployable units: nondisclosure of personally identifying information. |
 | [130c.](%C2%A7%2000130c%20-%20Nondisclosure%20of%20information%20certain%20sensitive%20information%20of%20foreign%20governments%20and%20international%20organizations.md) | Nondisclosure of information: certain sensitive information of foreign governments and international organizations. |
 | [130d.](%C2%A7%2000130d%20-%20Treatment%20under%20Freedom%20of%20Information%20Act%20of%20certain%20confidential%20information%20shared%20with%20State%20and%20local%20personnel.md) | Treatment under Freedom of Information Act of certain confidential information shared with State and local personnel. |
+| [130e.](%C2%A7%2000130e%20-%20Treatment%20under%20Freedom%20of%20Information%20Act%20of%20critical%20infrastructure%20security%20information.md) | Treatment under Freedom of Information Act of certain critical infrastructure security information.<sup>1</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 111–383, div. A, title X, §1061(a)(2), Jan. 7, 2011, 124 Stat. 4362, added item 122a.
+<b>2011</b>—Pub. L. 112–81, div. A, title VIII, §802(a)(2), title IX, §931(b), title X, §1091(b), Dec. 31, 2011, 125 Stat. 1485, 1543, 1605, added items 129d and 130e and substituted “General policy for total force management” for “General personnel policy” in item 129a.
+
+Pub. L. 111–383, div. A, title X, §1061(a)(2), Jan. 7, 2011, 124 Stat. 4362, added item 122a.
 
 <b>2008</b>—Pub. L. 110–417, \[div. A\], title IV, §416(c)(2), Oct. 14, 2008, 122 Stat. 4430, substituted “Suspension of end-strength and other strength limitations in time of war or national emergency” for “Suspension of end-strength limitations in time of war or national emergency” in item 123a.
 
@@ -77,6 +81,8 @@ Pub. L. 100–26, §9(b)(1), Apr. 21, 1987, 101 Stat. 287, struck out item 128 �
 
 <b>1958</b>—Pub. L. 85–861, §1(2)(B), Sept. 2, 1958, 72 Stat. 1437, added items 122 and 123.
 
+<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
+
 
 ---
 
@@ -98,11 +104,13 @@ Pub. L. 100–26, §9(b)(1), Apr. 21, 1987, 101 Stat. 287, struck out item 128 �
 - [&sect; 00127d - Allied forces participating in combined operations authority to provide logistic support, supplies, and services](%C2%A7%2000127d%20-%20Allied%20forces%20participating%20in%20combined%20operations%20authority%20to%20provide%20logistic%20support%2C%20supplies%2C%20and%20services.md)
 - [&sect; 00128 - Physical protection of special nuclear material limitation on dissemination of unclassified information](%C2%A7%2000128%20-%20Physical%20protection%20of%20special%20nuclear%20material%20limitation%20on%20dissemination%20of%20unclassified%20information.md)
 - [&sect; 00129 - Prohibition of certain civilian personnel management constraints](%C2%A7%2000129%20-%20Prohibition%20of%20certain%20civilian%20personnel%20management%20constraints.md)
-- [&sect; 00129a - General personnel policy](%C2%A7%2000129a%20-%20General%20personnel%20policy.md)
+- [&sect; 00129a - General policy for total force management](%C2%A7%2000129a%20-%20General%20policy%20for%20total%20force%20management.md)
 - [&sect; 00129b - Authority to procure personal services](%C2%A7%2000129b%20-%20Authority%20to%20procure%20personal%20services.md)
 - [&sect; 00129c - Medical personnel limitations on reductions](%C2%A7%2000129c%20-%20Medical%20personnel%20limitations%20on%20reductions.md)
+- [&sect; 00129d - Disclosure to litigation support contractors](%C2%A7%2000129d%20-%20Disclosure%20to%20litigation%20support%20contractors.md)
 - [&sect; 00130 - Authority to withhold from public disclosure certain technical data](%C2%A7%2000130%20-%20Authority%20to%20withhold%20from%20public%20disclosure%20certain%20technical%20data.md)
 - [&sect; 00130a - Repealed. Pub. L. 110&#8211;181, div. A, title IX, &sect;901(a)(1), Jan. 28, 2008, 122 Stat. 272](%C2%A7%2000130a%20-%20Repealed.%20Pub.%20L.%20110%E2%80%93181%2C%20div.%20A%2C%20title%20IX%2C%20%C2%A7901%28a%29%281%29%2C%20Jan.%2028%2C%202008%2C%20122%20Stat.%20272.md)
 - [&sect; 00130b - Personnel in overseas, sensitive, or routinely deployable units nondisclosure of personally identifying information](%C2%A7%2000130b%20-%20Personnel%20in%20overseas%2C%20sensitive%2C%20or%20routinely%20deployable%20units%20nondisclosure%20of%20personally%20identifying%20information.md)
 - [&sect; 00130c - Nondisclosure of information certain sensitive information of foreign governments and international organizations](%C2%A7%2000130c%20-%20Nondisclosure%20of%20information%20certain%20sensitive%20information%20of%20foreign%20governments%20and%20international%20organizations.md)
 - [&sect; 00130d - Treatment under Freedom of Information Act of certain confidential information shared with State and local personnel](%C2%A7%2000130d%20-%20Treatment%20under%20Freedom%20of%20Information%20Act%20of%20certain%20confidential%20information%20shared%20with%20State%20and%20local%20personnel.md)
+- [&sect; 00130e - Treatment under Freedom of Information Act of critical infrastructure security information](%C2%A7%2000130e%20-%20Treatment%20under%20Freedom%20of%20Information%20Act%20of%20critical%20infrastructure%20security%20information.md)

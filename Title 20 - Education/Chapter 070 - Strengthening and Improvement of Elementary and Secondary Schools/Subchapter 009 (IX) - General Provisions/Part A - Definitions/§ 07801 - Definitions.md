@@ -18,7 +18,7 @@ Except as otherwise provided, in this chapter:
 
 #### (C) Special rule
 
-&emsp;&emsp;If the local educational agency in which a child resides makes a tuition or other payment for the free public education of thechild in a school located in another school district, the Secretary shall, for the purpose of this chapter—
+&emsp;&emsp;If the local educational agency in which a child resides makes a tuition or other payment for the free public education of the child in a school located in another school district, the Secretary shall, for the purpose of this chapter—
 
 &emsp;&emsp;&emsp;(i) consider the child to be in attendance at a school of the agency making the payment; and
 
@@ -126,7 +126,7 @@ Except as otherwise provided, in this chapter:
 
 #### (16) Distance learning
 
-&emsp;The term “distance learning” means the transmission of educational or instructionalprogramming to geographically dispersed individuals and groups via telecommunications.
+&emsp;The term “distance learning” means the transmission of educational or instructional programming to geographically dispersed individuals and groups via telecommunications.
 
 #### (17) Educational service agency
 
@@ -258,7 +258,7 @@ Except as otherwise provided, in this chapter:
 
 #### (C) BIA schools
 
-&emsp;&emsp;The term includes an elementary school or secondary school funded by the Bureau of Indian Affairs but only to the extent that including the school makes the school eligible for programs for which specific eligibility is not provided to the school in another provision of law and the school does not have a student population that is smaller than the student population of the local educational agency receiving assistance under this chapter with the smallest student population, except that the school shall not be subject to the jurisdiction of any State educational agency other than the Bureau of Indian Affairs.
+&emsp;&emsp;The term includes an elementary school or secondary school funded by the Bureau of Indian Affairs but only to the extent that including the school makes the school eligible for programs for which specific eligibility is not provided to the school in another provision of law and the school does not have a student population that is smaller than thestudent population of the local educational agency receiving assistance under this chapter with the smallest student population, except that the school shall not be subject to the jurisdiction of any State educational agency other than the Bureau of Indian Affairs.
 
 #### (D) Educational service agencies
 
@@ -278,7 +278,7 @@ Except as otherwise provided, in this chapter:
 
 #### (29) Other staff
 
-&emsp;The term “other staff” means pupil services personnel, librarians, career guidance andcounseling personnel, education aides, and other instructional and administrative personnel.
+&emsp;The term “other staff” means pupil services personnel, librarians, career guidance and counseling personnel, education aides, and other instructional and administrative personnel.
 
 #### (30) Outlying area
 
@@ -334,7 +334,7 @@ Except as otherwise provided, in this chapter:
 
 &emsp;&emsp;&emsp;&emsp;(I) State academic content standards, student academic achievement standards, and assessments; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the curricula and programs tied to the standards described in subclause (I) except that this subclause shall not apply to activities described in clauses (ii) and (iii) of section 6623(3)(B) <sup>2</sup> of this title;
+&emsp;&emsp;&emsp;&emsp;(II) the curricula and programs tied to the standards described in subclause (I) except that this subclause shall notapply to activities described in clauses (ii) and (iii) of section 6623(3)(B) <sup>2</sup> of this title;
 
 &emsp;&emsp;&emsp;(ix) are developed with extensive participation of teachers, principals, parents, and administrators of schools to be served under this chapter;
 

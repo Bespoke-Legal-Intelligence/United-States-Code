@@ -22,7 +22,7 @@ As used in this subchapter—
 
 (10) “Secretary” means the Secretary of Housing and Urban Development.
 
-(Pub. L. 89–754, title II, §208, Nov. 3, 1966, 80 Stat. 1265; Pub. L. 90–448, title VI, §602(e), Aug. 1, 1968, 82 Stat. 532; Pub. L. 91–258, title I, §52(b)(3), May 21, 1970, 84 Stat. 235; 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; Pub.L. 102–240, title III, §3003(b), Dec. 18, 1991, 105 Stat. 2088; Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §709(a)(6)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–312.)
+(Pub. L. 89–754, title II, §208, Nov. 3, 1966, 80 Stat. 1265; Pub. L. 90–448, title VI, §602(e), Aug. 1, 1968, 82 Stat. 532; Pub. L. 91–258, title I, §52(b)(3), May 21, 1970, 84 Stat. 235; 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; Pub. L. 102–240, title III, §3003(b), Dec. 18, 1991, 105 Stat. 2088; Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §709(a)(6)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–312.)
 
 #### References in Text
 
@@ -38,7 +38,7 @@ The Housing Act of 1961, referred to in par. (2), is Pub. L. 87–70, June 30, 1
 
 Section 101(a)(1) of the Public Works and Economic Development Act of 1965, referred to in par. (2), is section 101(a)(1) of Pub. L. 89–136, title I, Aug. 26, 1965, 79 Stat. 552, as amended, which was classified to section 3131 of this title prior to repeal by Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3597.
 
-Section 701 of the Housing Act of 1954, referred to in par. (7), is section 701 of act Aug. 2, 1954, ch. 649, 68 Stat. 640, as amended, which was classified to section 461 of former Title 40, Public Buildings, Property, and Works, and was repealed by Pub. L. 97–35, title III, §313(b), Aug. 13, 1981, 95 Stat. 398.
+Section 701 of the Housing Act of 1954, referred to in par. (7), is section 701 of act Aug. 2, 1954, ch. 649, 68 Stat.640, as amended, which was classified to section 461 of former Title 40, Public Buildings, Property, and Works, and was repealed by Pub. L. 97–35, title III, §313(b), Aug. 13, 1981, 95 Stat. 398.
 
 #### Codification
 

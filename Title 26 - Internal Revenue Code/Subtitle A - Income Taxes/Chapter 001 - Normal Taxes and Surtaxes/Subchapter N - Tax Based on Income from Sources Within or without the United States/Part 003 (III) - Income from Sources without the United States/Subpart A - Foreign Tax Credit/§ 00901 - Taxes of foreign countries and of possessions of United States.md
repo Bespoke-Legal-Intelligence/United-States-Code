@@ -2,7 +2,7 @@
 
 #### (a) Allowance of credit
 
-If the taxpayer chooses to have the benefits of this subpart, the tax imposed by this chapter shall, subject to the limitation of section 904, be credited with the amounts provided in the applicable paragraph of subsection (b) plus, in the case of a corporation, the taxes deemed to have been paid under sections 902 and 960. Such choice for any taxable year may be made or changed at any time before the expiration of the period prescribed for making a claim for credit or refund of the tax imposed by this chapter for such taxable year. The credit shall not be allowed against any tax treated as a tax not imposed by this chapter under section 26(b).
+If the taxpayer chooses to have the benefits of this subpart, the tax imposed by this chaptershall, subject to the limitation of section 904, be credited with the amounts provided in the applicable paragraph of subsection (b) plus, in the case of a corporation, the taxes deemed to have been paid under sections 902 and 960. Such choice for any taxable year may be made or changed at any time before the expiration of the period prescribed for making a claim for credit or refund of the tax imposed by this chapter for such taxable year. The credit shall not be allowed against any tax treated as a tax not imposed by this chapter under section 26(b).
 
 #### (b) Amount allowed
 
@@ -10,7 +10,7 @@ Subject to the limitation of section 904, the following amounts shall be allowed
 
 #### (1) Citizens and domestic corporations
 
-&emsp;In the case of a citizen of the United States and of a domestic corporation, the amount ofany income, war profits, and excess profits taxes paid or accrued during the taxable year to any foreign country or to any possession of the United States; and
+&emsp;In the case of a citizen of the United States and of a domestic corporation, the amount of any income, war profits, and excess profits taxes paid or accrued during the taxable year to any foreign country or to any possession of the United States; and
 
 #### (2) Resident of the United States or Puerto Rico
 
@@ -244,7 +244,7 @@ Any income, war profits, or excess profits tax shall not be treated as a tax for
 
 #### (A) In general
 
-&emsp;&emsp;Paragraph (1) shall not apply to any qualified tax with respect to any property held inthe active conduct in a foreign country of a business as a dealer in such property.
+&emsp;&emsp;Paragraph (1) shall not apply to any qualified tax with respect to any property held in the active conduct in a foreign country of a business as a dealer in such property.
 
 #### (B) Qualified tax
 
@@ -478,7 +478,7 @@ Subsecs. (g), (h). Pub. L. 94–455, §§1051(d)(2), 1901(b)(1)(H)(iii), added s
 
 <b>1975</b>—Subsecs. (f), (g). Pub. L. 94–12 added subsec. (f) and redesignated former subsec. (f) as (g).
 
-<b>1974</b>—Subsec. (a). Pub. L. 93–460 inserted references to the tax imposed for the taxable year under section 72(m)(5)(B) (relating to 10 percent tax on premature distributions to owner-employees), the tax imposed for the taxable year by section 408(f) (relating to additional tax on income from certain retirement accounts), and the tax imposed by section 402(e) (relating to tax on lump sum distributions).
+<b>1974</b>—Subsec. (a). Pub. L. 93–460 inserted references to the tax imposed for the taxable year under section72(m)(5)(B) (relating to 10 percent tax on premature distributions to owner-employees), the tax imposed for the taxable year by section 408(f) (relating to additional tax on income from certain retirement accounts), and the tax imposed by section 402(e) (relating to tax on lump sum distributions).
 
 <b>1971</b>—Subsec. (d). Pub. L. 92–178 inserted provision for treatment of dividends from a DISC or former DISC as dividends from a foreign corporation to the extent such dividends are treated under part I as income from sources without the United States.
 

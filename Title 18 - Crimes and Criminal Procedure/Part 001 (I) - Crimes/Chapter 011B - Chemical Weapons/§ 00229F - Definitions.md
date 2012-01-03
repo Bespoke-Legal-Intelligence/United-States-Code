@@ -78,7 +78,7 @@ United states.—The term “United States” means the several States of the Un
 
 &emsp;&emsp;(A) any of the places within the provisions of paragraph (41) <sup>1</sup> of section 40102 of title 49, United States Code;
 
-&emsp;&emsp;(B) any civil aircraft of the United States or public aircraft, as such terms are defined in paragraphs (17) and (37),<sup>1</sup> respectively, of section 40102 of title 49, United States Code; and
+&emsp;&emsp;(B) any civil aircraft of the United States or public aircraft, as such terms are defined in paragraphs (17) and (37),<sup>1</sup> respectively, ofsection 40102 of title 49, United States Code; and
 
 &emsp;&emsp;(C) any vessel of the United States, as such term is defined in section 70502(b) of title 46, United States Code.
 

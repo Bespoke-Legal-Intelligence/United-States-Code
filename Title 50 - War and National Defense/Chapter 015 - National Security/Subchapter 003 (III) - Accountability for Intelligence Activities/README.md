@@ -22,6 +22,7 @@
 - [&sect; 00415a&#8211;8 - Critical cost growth in major systems](%C2%A7%2000415a%E2%80%938%20-%20Critical%20cost%20growth%20in%20major%20systems.md)
 - [&sect; 00415a&#8211;9 - Future budget projections](%C2%A7%2000415a%E2%80%939%20-%20Future%20budget%20projections.md)
 - [&sect; 00415a&#8211;10 - Reports on security clearances](%C2%A7%2000415a%E2%80%9310%20-%20Reports%20on%20security%20clearances.md)
+- [&sect; 00415a&#8211;11 - Summary of intelligence relating to terrorist recidivism of detainees held at United States Naval Station, Guantanamo Bay, Cuba](%C2%A7%2000415a%E2%80%9311%20-%20Summary%20of%20intelligence%20relating%20to%20terrorist%20recidivism%20of%20detainees%20held%20at%20United%20States%20Naval%20Station%2C%20Guantanamo%20Bay%2C%20Cuba.md)
 - [&sect; 00415b - Dates for submittal of various annual and semiannual reports to the congressional intelligence committees](%C2%A7%2000415b%20-%20Dates%20for%20submittal%20of%20various%20annual%20and%20semiannual%20reports%20to%20the%20congressional%20intelligence%20committees.md)
 - [&sect; 00415c - Availability to public of certain intelligence funding information](%C2%A7%2000415c%20-%20Availability%20to%20public%20of%20certain%20intelligence%20funding%20information.md)
 - [&sect; 00415d - Certification of compliance with oversight requirements](%C2%A7%2000415d%20-%20Certification%20of%20compliance%20with%20oversight%20requirements.md)

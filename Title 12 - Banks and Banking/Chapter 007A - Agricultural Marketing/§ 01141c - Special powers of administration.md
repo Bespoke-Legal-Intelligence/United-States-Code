@@ -16,7 +16,7 @@ Section was formerly classified to section 525 of Title 7, Agriculture.
 
 #### Amendments
 
-1933—Act June 16, 1933, repealed pars. (4) and (5) relating to powers of the Farm Board to investigate overproduction and to miscellaneous investigations by the Farm Board.
+<b>1933</b>—Act June 16, 1933, repealed pars. (4) and (5) relating to powers of the Farm Board to investigate overproduction and to miscellaneous investigations by the Farm Board.
 
 #### Change of Name
 

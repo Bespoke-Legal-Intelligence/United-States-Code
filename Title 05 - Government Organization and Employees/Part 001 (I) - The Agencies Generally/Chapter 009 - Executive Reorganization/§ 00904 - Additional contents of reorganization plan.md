@@ -38,9 +38,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1984—Par. (1). Pub. L. 98–614 inserted “, subject to section 905,”.
+<b>1984</b>—Par. (1). Pub. L. 98–614 inserted “, subject to section 905,”.
 
-1977—Pub. L. 95–17 struck out in provisions following par. (5) exception that, in the case of an officer of the government of the District of Columbia, the appointment of the head of an agency may be by the Commissioner or other body of that government designated in the plan.
+<b>1977</b>—Pub. L. 95–17 struck out in provisions following par. (5) exception that, in the case of an officer of the government of the District of Columbia, the appointment of the head of an agency may be by the Commissioner or other body of that government designated in the plan.
 
-1971—Pub. L. 92–179 revised the form of the provisions covering the elements which a reorganization plan contains by moving provisions formerly set out in par. (2) to a position following par. (5).
+<b>1971</b>—Pub. L. 92–179 revised the form of the provisions covering the elements which a reorganization plan contains by moving provisions formerly set out in par. (2) to a position following par. (5).
 

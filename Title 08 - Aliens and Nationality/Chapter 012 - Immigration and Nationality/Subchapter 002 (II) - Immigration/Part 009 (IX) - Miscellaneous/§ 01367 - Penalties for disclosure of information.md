@@ -62,7 +62,7 @@ Section is comprised of section 384 of div. C of Pub. L. 104–208. Another subs
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–162, §817(1)(A), substituted “, the Secretary of Homeland Security, the Secretary of State, or any other official or employee of the Department of Homeland Security or Department of State (including any bureau or agency of either of such Departments)” for “(including any bureau or agency of such Department)” in introductory provisions.
+<b>2006</b>—Subsec. (a). Pub. L. 109–162, §817(1)(A), substituted “, the Secretary of Homeland Security, the Secretary of State, or any other official or employee of the Department of Homeland Security or Department of State (including any bureau or agency of either of such Departments)” for “(including any bureau or agency of such Department)” in introductory provisions.
 
 Subsec. (a)(1)(F). Pub. L. 109–162, §817(1)(B), added subpar. (F).
 
@@ -74,13 +74,13 @@ Subsec. (c). Pub. L. 109–162, §817(3), inserted “or who knowingly makes a f
 
 Subsec. (d). Pub. L. 109–162, §817(4), added subsec. (d).
 
-2000—Subsec. (a)(1)(E). Pub. L. 106–386, §1513(d)(1)–(3), added subpar. (E).
+<b>2000</b>—Subsec. (a)(1)(E). Pub. L. 106–386, §1513(d)(1)–(3), added subpar. (E).
 
 Subsec. (a)(2). Pub. L. 106–386, §1513(d)(4), inserted “section 101(a)(15)(U),” after “section 216(c)(4)(C),”.
 
-1997—Subsec. (b)(5). Pub. L. 105–33 added par. (5).
+<b>1997</b>—Subsec. (b)(5). Pub. L. 105–33 added par. (5).
 
-1996—Subsec. (a)(2). Pub. L. 104–208, §308(g)(8)(D), which directed amendment of section 364(a)(2) of div. C of Pub. L. 104–208 by substituting “240A(a)(3)” for “244(a)(3)”, was executed by making the substitution in subsec. (a)(2) of this section to reflect the probable intent of Congress. Div. C of Pub. L. 104–208 does not contain a section 364.
+<b>1996</b>—Subsec. (a)(2). Pub. L. 104–208, §308(g)(8)(D), which directed amendment of section 364(a)(2) of div. C of Pub. L. 104–208 by substituting “240A(a)(3)” for “244(a)(3)”, was executed by making the substitution in subsec. (a)(2) of this section to reflect the probable intent of Congress. Div. C of Pub. L. 104–208 does not contain a section 364.
 
 #### Effective Date of 1997 Amendment
 

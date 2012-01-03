@@ -156,7 +156,7 @@ If, subsequent to payment of a claim by the participating State, a participating
 
 &emsp;&emsp;&emsp;(iii) additional or new financing is extended by the participating financial institution as part of the refinancing,
 
-> &emsp;&emsp;the participating financial institution may file the loan for enrollment, with theamount to be covered under the Program not to exceed the amount of any additional or new financing; and
+> &emsp;&emsp;the participating financial institution may file the loan for enrollment, with the amount to be covered under the Program not to exceed the amount of any additional or new financing; and
 
 &emsp;&emsp;(D) may include additional restrictions on the eligibility of loans or borrowers that are not inconsistent with the provisions and purposes of this subchapter.
 

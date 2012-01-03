@@ -58,7 +58,7 @@ The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. 
 
 #### Amendments
 
-1991—Subsec. (f). Pub. L. 102–237 inserted comma after “601 et seq.)”.
+<b>1991</b>—Subsec. (f). Pub. L. 102–237 inserted comma after “601 et seq.)”.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

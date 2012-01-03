@@ -34,7 +34,7 @@
 
 (c) The Administrator of General Services shall periodically, but at least every 2 years, submit to the Director of the Office of Management and Budget an analysis of estimated total agency payments for such items as travel and transportation of people, average costs and duration of trips, and purposes of official travel; and of estimated total agency payments for employee relocation. This analysis shall be based on a sampling survey of agencies each of which spent more than $5,000,000 during the previous fiscal year on travel and transportation payments, including payments for employee relocation. Agencies shall provide to the Administrator the necessary information in a format prescribed by the Administrator and approved by the Director.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 500; Pub. L. 94–22, §6(a), May 19, 1975, 89 Stat. 85; Pub. L.99–234, title I, §104, Jan. 2, 1986, 99 Stat. 1758; Pub. L. 101–391, §5(a)(1), Sept. 25, 1990, 104 Stat. 750; Pub. L. 103–329, title VI, §634(b), (c), Sept. 30, 1994, 108 Stat. 2429, 2430; Pub. L. 104–201, div. A, title XVI, §1614(a)(1), Sept. 23, 1996, 110 Stat. 2739; Pub. L. 104–316, title I, §103(e), Oct. 19, 1996, 110 Stat. 3829.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 500; Pub. L. 94–22, §6(a), May 19, 1975, 89 Stat. 85; Pub. L. 99–234, title I, §104, Jan. 2, 1986, 99 Stat. 1758; Pub. L. 101–391, §5(a)(1), Sept. 25, 1990, 104 Stat. 750; Pub. L. 103–329, title VI, §634(b), (c), Sept. 30, 1994, 108 Stat. 2429, 2430; Pub. L. 104–201, div. A, title XVI, §1614(a)(1), Sept. 23, 1996, 110 Stat. 2739; Pub. L. 104–316, title I, §103(e), Oct. 19, 1996, 110 Stat. 3829.)
 
 Historical and Revision Notes
 
@@ -56,21 +56,21 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1996—Subsec. (b)(1)(A). Pub. L. 104–316 struck out “the Comptroller General of the United States,” after “in consultation with”.
+<b>1996</b>—Subsec. (b)(1)(A). Pub. L. 104–316 struck out “the Comptroller General of the United States,” after “in consultation with”.
 
 Subsec. (d). Pub. L. 104–201 struck out subsec. (d) which provided that agencies ensure that their approved accommodation percentages be not less than specified percentages for fiscal years beginning 4 and 5 years after Sept. 25, 1990, and that their percentages be not less than 90 percent for fiscal years beginning 6 years after Sept. 25, 1990, and thereafter.
 
-1994—Subsec. (b). Pub. L. 103–329, §634(b), amended subsec. (b) generally, revising and restructuring text.
+<b>1994</b>—Subsec. (b). Pub. L. 103–329, §634(b), amended subsec. (b) generally, revising and restructuring text.
 
 Subsec. (c). Pub. L. 103–329, §634(c), redesignated par. (1) as entire subsec. and struck out par. (2) which read as follows: “The requirements of paragraph (1) of this subsection shall expire upon the Administrator's submission of the analysis that includes the fiscal year that ends September 30, 1991.”
 
-1990—Subsec. (d). Pub. L. 101–391 added subsec. (d).
+<b>1990</b>—Subsec. (d). Pub. L. 101–391 added subsec. (d).
 
-1986—Subsec. (a). Pub. L. 99–234 designated existing provisions as par. (1) and added par. (2).
+<b>1986</b>—Subsec. (a). Pub. L. 99–234 designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (c). Pub. L. 99–234 added subsec. (c).
 
-1975—Pub. L. 94–22 inserted “and reports” in section catchline, designated existing provisions as subsec. (a), substituted “Administrator of General Services” for “Director of the Bureau of the Budget”, struck out provision for fixing, payment, advancement and recovery of travel allowances and expenses in accordance with the regulations and provision for the non-applicability of this section to per diem allowances under section 5703(c), and inserted provision for regulations for travel by employees of the judicial branch of the Government by the Director of the Administrative Office of the United States Courts, and added subsec. (b).
+<b>1975</b>—Pub. L. 94–22 inserted “and reports” in section catchline, designated existing provisions as subsec. (a), substituted “Administrator of General Services” for “Director of the Bureau of the Budget”, struck out provision for fixing, payment, advancement and recovery of travel allowances and expenses in accordance with the regulations and provision for the non-applicability of this section to per diem allowances under section 5703(c), and inserted provision for regulations for travel by employees of the judicial branch of the Government by the Director of the Administrative Office of the United States Courts, and added subsec. (b).
 
 #### Effective Date of 1986 Amendment
 
@@ -148,7 +148,7 @@ Executive branch agency.—The terms ‘Executive branch agency’ and ‘Execut
 
 &emsp;“(3)
 
-International conference.—The term ‘international conference’ means any meeting held under the auspices of an international organization or foreign government, at which representatives of more than two foreign governments are expected to be in attendance, and to which United States Executive branch agencies will send a total of ten or more representatives.
+International conference.—The term ‘international conference’ means any meeting held underthe auspices of an international organization or foreign government, at which representatives of more than two foreign governments are expected to be in attendance, and to which United States Executive branch agencies will send a total of ten or more representatives.
 
 “(g)
 

@@ -64,7 +64,11 @@ In carrying out its functions, the Committee may establish subcommittees and con
 
 #### (f) Sunset
 
-This section shall not apply after September 30, 2011, and the Committee shall be terminated on such date.
+This section shall not apply after September 30, 2014, and the Committee shall be terminated on such date.
 
-(July 1, 1944, ch. 373, title III, §399CC, as added Pub. L. 109–416, §3(a), Dec. 19, 2006, 120 Stat. 2827.)
+(July 1, 1944, ch. 373, title III, §399CC, as added Pub. L. 109–416, §3(a), Dec. 19, 2006, 120 Stat. 2827; amended Pub. L. 112–32, §2(3), Sept. 30, 2011, 125 Stat. 361.)
+
+#### Amendments
+
+<b>2011</b>—Subsec. (f). Pub. L. 112–32 substituted “2014” for “2011”.
 

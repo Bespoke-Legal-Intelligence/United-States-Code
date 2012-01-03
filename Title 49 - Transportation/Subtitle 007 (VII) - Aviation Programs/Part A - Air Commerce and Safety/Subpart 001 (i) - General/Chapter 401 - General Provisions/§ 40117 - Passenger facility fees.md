@@ -264,7 +264,7 @@ Regulations.—Not later than 180 days after the date of enactment of this subse
 
 &emsp;(7)
 
-Sunset.—This subsection shall cease to be effective beginning on April 1, 2011.
+Sunset.—This subsection shall cease to be effective beginning on February 1, 2012.
 
 &emsp;(8)
 
@@ -302,7 +302,7 @@ Existing regulations.—The provisions of section 158.49 of title 14, Code of Fe
 
 Covered air carrier defined.—In this section, the term “covered air carrier” means an air carrier that files for chapter 7 or chapter 11 of title 11 bankruptcy protection, or has an involuntary chapter 7 of title 11 bankruptcy proceeding commenced against it, after the date of enactment of this subsection.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1113; Pub. L. 103–305, title II, §§203, 204(a)(1), (b), Aug. 23, 1994, 108 Stat. 1582, 1583; Pub. L. 104–264, title I, §142(b)(2), title XII, §1202, Oct. 9, 1996, 110 Stat. 3221, 3280; Pub. L. 104–287, §5(67), Oct. 11, 1996, 110 Stat. 3395; Pub. L. 106–181, title I, §§105(a), (b), 135(a), (b), 151, 152(a), 155(c), Apr. 5, 2000, 114 Stat. 71, 83, 86–88; Pub. L. 108–176, title I, §§121(a)–(c), 122–123(d), 124, Dec. 12, 2003, 117 Stat. 2499–2502; Pub. L. 110–253, §3(c)(1), June 30, 2008, 122 Stat. 2417; Pub. L. 110–330, §5(a), Sept. 30, 2008, 122 Stat. 3718; Pub. L. 110–337, §1, Oct. 2, 2008, 122 Stat. 3729; Pub. L. 111–12, §5(a), Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §5(a), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–116, §5(a), Dec. 16, 2009, 123 Stat. 3032; Pub. L. 111–153, §5(a), Mar. 31, 2010, 124 Stat. 1085; Pub. L. 111–161, §5(a), Apr. 30, 2010, 124 Stat. 1127; Pub. L. 111–197, §5(a), July 2, 2010, 124 Stat. 1354; Pub. L. 111–216, title I, §104(a), Aug. 1, 2010, 124 Stat. 2349; Pub. L. 111–249, §5(a), Sept. 30, 2010, 124 Stat. 2628; Pub. L. 111–329, §5(a), Dec. 22, 2010, 124 Stat. 3567.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1113; Pub. L. 103–305, title II, §§203, 204(a)(1), (b), Aug. 23, 1994, 108 Stat. 1582, 1583; Pub. L. 104–264, title I, §142(b)(2), title XII, §1202, Oct. 9, 1996, 110 Stat. 3221, 3280; Pub. L. 104–287, §5(67), Oct. 11, 1996, 110 Stat. 3395; Pub. L. 106–181, title I, §§105(a), (b), 135(a), (b), 151, 152(a), 155(c), Apr. 5, 2000, 114 Stat. 71, 83, 86–88; Pub. L. 108–176, title I, §§121(a)–(c), 122–123(d), 124, Dec. 12, 2003, 117 Stat. 2499–2502; Pub. L. 110–253, §3(c)(1), June 30, 2008, 122 Stat. 2417; Pub. L. 110–330, §5(a), Sept. 30, 2008, 122 Stat. 3718; Pub. L. 110–337, §1, Oct. 2, 2008, 122 Stat. 3729; Pub. L. 111–12, §5(a), Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §5(a), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–116, §5(a), Dec. 16, 2009, 123 Stat. 3032; Pub. L. 111–153, §5(a), Mar. 31, 2010, 124 Stat. 1085; Pub. L. 111–161, §5(a), Apr. 30, 2010, 124 Stat. 1127; Pub. L. 111–197, §5(a), July 2, 2010, 124 Stat. 1354; Pub. L. 111–216, title I, §104(a), Aug. 1, 2010, 124 Stat. 2349; Pub. L. 111–249, §5(a), Sept. 30, 2010, 124 Stat. 2628; Pub. L. 111–329, §5(a), Dec. 22, 2010, 124 Stat. 3567; Pub. L. 112–7, §5(a), Mar. 31, 2011, 125 Stat. 32; Pub. L. 112–16, §5(a), May 31, 2011, 125 Stat. 219; Pub. L. 112–21, §5(a), June 29, 2011, 125 Stat. 234; Pub. L. 112–27, §5(a), Aug. 5, 2011, 125 Stat. 271; Pub. L. 112–30, title II, §205(a), Sept. 16, 2011, 125 Stat. 358.)
 
 Historical and Revision Notes
 
@@ -414,7 +414,7 @@ Subsection (e)(2)(A) is substituted for 49 App.:1513(e)(6) (last sentence) to el
 
 In subsection (e)(2)(B), the words “a public agency which controls any other airport”, “If a passenger of an air carrier is being provided air service”, and “with respect to such air service” are omitted as surplus.
 
-In subsection (f)(3), the words “financed with” are substituted for “carried out through the use of” forconsistency in this section and to eliminate unnecessary words.
+In subsection (f)(3), the words “financed with” are substituted for “carried out through the use of” for consistency in this section and to eliminate unnecessary words.
 
 In subsection (g), the word “price” is substituted for “rate, fee, or charge” and “rates, fees, and charges” to eliminate unnecessary words.
 
@@ -435,6 +435,16 @@ The date of the enactment of this subsection, referred to in subsec. (k)(1), is 
 The date of enactment of this subsection, referred to in subsecs. (<i>l</i>)(6) and (m)(7), is the date of enactment of Pub. L. 108–176, which was approved Dec. 12, 2003.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (<i>l</i>)(7). Pub. L. 112–30 substituted “February 1, 2012.” for “September 17, 2011.”
+
+Pub. L. 112–27 substituted “September 17, 2011.” for “July 23, 2011.”
+
+Pub. L. 112–21 substituted “July 23, 2011.” for “July 1, 2011.”
+
+Pub. L. 112–16 substituted “July 1, 2011.” for “June 1, 2011.”
+
+Pub. L. 112–7 substituted “June 1, 2011.” for “April 1, 2011.”
 
 <b>2010</b>—Subsec. (<i>l</i>)(7). Pub. L. 111–329 substituted “April 1, 2011.” for “January 1, 2011.”
 
@@ -524,7 +534,7 @@ Subsec. (e)(2)(B) to (D). Pub. L. 104–287 inserted “and” at end of subpar.
 
 &emsp;“(i) does not apply if the amount available for obligation under subchapter II of chapter 417 of this title is less than $38,600,000 because of sequestration or other general appropriations reductions applied proportionately to appropriations accounts throughout an appropriation law; and
 
-&emsp;“(ii) does not affect the authority of the Secretary to approve the imposition of a fee or the use of revenues, derived from a fee imposed under an approval made under this section, by a public agency that has received an approval to impose a fee under this section before September 30, 1993, regardless of whether the fee is being imposed on September 30, 1993; and”.
+&emsp;“(ii) does not affect the authority of the Secretary to approve the imposition of a fee or the use of revenues, derived from a fee imposed under an approvalmade under this section, by a public agency that has received an approval to impose a fee under this section before September 30, 1993, regardless of whether the fee is being imposed on September 30, 1993; and”.
 
 Subsec. (g)(4). Pub. L. 104–264, §1202, added par. (4).
 
@@ -534,9 +544,19 @@ Subsec. (d)(3). Pub. L. 103–305, §204(b), added par. (3).
 
 Subsec. (e)(2)(D). Pub. L. 103–305, §204(a)(1), added subpar. (D).
 
+#### Effective Date of 2011 Amendment
+
+Pub. L. 112–27, §5(j), Aug. 5, 2011, 125 Stat. 271, provided that: “The amendments made by this section \[amending this section and sections 44302, 44303, 47107, 47115, 47141, and 49108 of this title and provisions set out as a note under section 47109 of this title\] shall take effect on July 23, 2011.”
+
+Pub. L. 112–21, §5(j), June 29, 2011, 125 Stat. 235, provided that: “The amendments made by this section \[amending this section and sections 44302, 44303, 47107, 47115, 47141, and 49108 of this title and provisions set out as a note under section 47109 of this title\] shall take effect on July 1, 2011.”
+
+Pub. L. 112–16, §5(j), May 31, 2011, 125 Stat. 220, provided that: “The amendments made by this section \[amending this section and sections 44302, 44303, 47107, 47115, 47141, and 49108 of this title and provisions set out as a note under section 47109 of this title\] shall take effect on June 1, 2011.”
+
+Pub. L. 112–7, §5(j), Mar. 31, 2011, 125 Stat. 33, provided that: “The amendments made by this section \[amending this section and sections 44302, 44303, 47107, 47115, 47141, and 49108 of this title and provisions set out as a note under section 47109 of this title\] shall take effect on April 1, 2011.”
+
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–329, §5(j), Dec. 22, 2010, 124 Stat. 3568, provided that: “The amendments made by this section \[amending this section and sections 44302, 44303, 47107,47115, 47141, and 49108 of this title and provisions set out as a note under section 47109 of this title\] shall take effect on January 1, 2011.”
+Pub. L. 111–329, §5(j), Dec. 22, 2010, 124 Stat. 3568, provided that: “The amendments made by this section \[amending this section and sections 44302, 44303, 47107, 47115, 47141, and 49108 of this title and provisions set out as a note under section 47109 of this title\] shall take effect on January 1, 2011.”
 
 Pub. L. 111–249, §5(<i>l</i>), Sept. 30, 2010, 124 Stat. 2628, provided that: “The amendments made by this section \[amending this section, sections 41743, 44302, 44303, 47107, 47115, 47141, and 49108 of this title, and provisions set out as notes under sections 41731 and 47109 of this title\] shall take effect on October 1, 2010.”
 

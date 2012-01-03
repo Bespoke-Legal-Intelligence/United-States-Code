@@ -32,7 +32,7 @@ As used in this section—
 
 #### (b) Transfer of funds
 
-(1) The Secretary of Agriculture shall transfer to the Secretary each fiscal year, beginning with the fiscal year commencing July 1, 1954, and ending on June 30, 1957, from moneys made available to carry out the provisions of section 612c of title 7, an amount equal to 30 per centum of the gross receipts from duties collected under the customs laws on fishery products (including fish, shellfish, mollusks, crustacea, aquatic plants and animals, and any products thereof, including processed and manufactured products), which shall be maintained in a separate fund only for—
+(1) The Secretary of Agriculture shall transfer to the Secretary each fiscal year, beginning with the fiscal year commencing July 1, 1954, and ending on June 30, 1957, from moneys made available to carry out the provisions of section612c of title 7, an amount equal to 30 per centum of the gross receipts from duties collected under the customs laws on fishery products (including fish, shellfish, mollusks, crustacea, aquatic plants and animals, and any products thereof, including processed and manufactured products), which shall be maintained in a separate fund only for—
 
 &emsp;(A) use by the Secretary—
 
@@ -50,7 +50,7 @@ As used in this section—
 
 #### (c) Fisheries research and development projects
 
-(1) The Secretary shall make grants from the fund established under subsection (b) of this section to assist persons in carrying out researchand development projects addressed to any aspect of United States fisheries, including, but not limited to, harvesting, processing, marketing, and associated infrastructures.
+(1) The Secretary shall make grants from the fund established under subsection (b) of this section to assist persons in carrying out research and development projects addressed to any aspect of United States fisheries, including, but not limited to, harvesting, processing, marketing, and associated infrastructures.
 
 (2) The Secretary shall—
 

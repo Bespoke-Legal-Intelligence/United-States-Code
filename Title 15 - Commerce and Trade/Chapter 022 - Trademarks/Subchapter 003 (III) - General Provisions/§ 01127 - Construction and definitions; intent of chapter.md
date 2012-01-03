@@ -12,7 +12,7 @@ The term “person” and any other word or term used to designate the applicant
 
 The term “person” also includes the United States, any agency or instrumentality thereof, or any individual, firm, or corporation acting for the United States and with the authorization and consent of the United States. The United States, any agency or instrumentality thereof, and any individual, firm, or corporation acting for the United States and with the authorization and consent of the United States, shall be subject to the provisions of this chapter in the same manner and to the same extent as any nongovernmental entity.
 
-The term “person” also includes any State, any instrumentality of a State, and any officer or employee of a State or instrumentality of a State acting in his or her official capacity. Any State, and any such instrumentality, officer, or employee, shall be subject to the provisions of this chapter in the same manner and to the same extent as any nongovernmental entity.
+The term “person” also includes any State, any instrumentality of a State, and any officer or employee of a State or instrumentality of aState acting in his or her official capacity. Any State, and any such instrumentality, officer, or employee, shall be subject to the provisions of this chapter in the same manner and to the same extent as any nongovernmental entity.
 
 The terms “applicant” and “registrant” embrace the legal representatives, predecessors, successors and assigns of such applicant or registrant.
 
@@ -80,7 +80,7 @@ The term “Act of March 3, 1881”, “Act of February 20, 1905”, or “Act o
 
 A “counterfeit” is a spurious mark which is identical with, or substantially indistinguishable from, a registered mark.
 
-The term “domain name” means any alphanumeric designation which is registered with or assigned by any domain name registrar, domain name registry, or other domain name registration authority as part of an electronic address on the Internet.
+The term “domain name” means any alphanumeric designation which is registered with orassigned by any domain name registrar, domain name registry, or other domain name registration authority as part of an electronic address on the Internet.
 
 The term “Internet” has the meaning given that term in section 230(f)(1) of title 47.
 
@@ -116,7 +116,7 @@ Pub. L. 106–43, §4(c), between pars. defining “person” inserted: “The t
 
 &emsp;“(1) When its use has been discontinued with intent not to resume such use. Intent not to resume may be inferred from circumstances. Nonuse for two consecutive years shall be prima facie evidence of abandonment. ‘Use’ of a mark means the bona fide use of that mark made in the ordinary course of trade, and not made merely to reserve a right in a mark.
 
-&emsp;“(2) When any course of conduct of the owner, including acts of omission as well as commission,causes the mark to become the generic name for the goods or services on or in connection with which it is used or otherwise to lose its significance as a mark. Purchaser motivation shall not be a test for determining abandonment under this paragraph.”
+&emsp;“(2) When any course of conduct of the owner, including acts of omission as well as commission, causes the mark to become the generic name for the goods or services on or in connection with which it is used or otherwise to lose its significance as a mark. Purchaser motivation shall not be a test for determining abandonment under this paragraph.”
 
 <b>1992</b>—Pub. L. 102–542 inserted after fourth undesignated par. “The term ‘person’ also includes any State, any instrumentality of a State, and any officer or employee of a State or instrumentality of a State acting in his or her official capacity. Any State, and any such instrumentality, officer, or employee, shall be subject to the provisions of this chapter in the same manner and to the same extent as any nongovernmental entity.”
 
@@ -128,7 +128,7 @@ Pub. L. 100–667, §134(3), amended par. defining “trademark” generally. Pr
 
 Pub. L. 100–667, §134(4), amended par. defining “service mark” generally. Prior to amendment, par. read as follows: “The term ‘service mark’ means a mark used in the sale or advertising of services to identify and distinguish the services of one person, including a unique service, from the services of others and to indicate the source of the services, even if that source is unknown. Titles, character names and other distinctive features of radio or television programs may be registered as service marks notwithstanding that they, or the programs, may advertise the goods of the sponsor.”
 
-Pub. L. 100–667, §134(5), amended par. defining “certification mark” generally. Prior to amendment, par. read as follows: “The term ‘certification mark’ means a mark used upon or in connection with the products or services of one or more persons other than the owner of the mark to certify regional or other origin, material, mode of manufacture, quality, accuracy or other characteristics of such goods or services or that the work or labor on the goods or services was performed by members of a union or other organization.”
+Pub. L. 100–667, §134(5), amended par. defining “certification mark” generally. Prior to amendment, par. read as follows: “The term ‘certification mark’ means a mark used upon or in connection with the products or services of one or more persons other than the owner of the mark to certify regional or other origin, material, mode of manufacture, quality, accuracy or other characteristics of such goods or services or that the work orlabor on the goods or services was performed by members of a union or other organization.”
 
 Pub. L. 100–667, §134(6), amended par. defining “collective mark” generally. Prior to amendment, par. read as follows: “The term ‘collective mark’ means a trade-mark or service mark used by the members of a cooperative, an association or other collective group or organization and includes marks used to indicate membership in a union, an association or other organization.”
 

@@ -64,7 +64,7 @@
 
 &emsp;&emsp;(B) the integrity, objectivity, impartiality, utility, and confidentiality of information collected for statistical purposes;
 
-&emsp;(2) ensure that budget proposals of agencies are consistent with system-wide priorities formaintaining and improving the quality of Federal statistics and prepare an annual report on statistical program funding;
+&emsp;(2) ensure that budget proposals of agencies are consistent with system-wide priorities for maintaining and improving the quality of Federal statistics and prepare an annual report on statistical program funding;
 
 &emsp;(3) develop and oversee the implementation of Governmentwide policies, principles, standards, and guidelines concerning—
 
@@ -140,7 +140,7 @@
 
 &emsp;(5) promote the use of information technology by the Federal Government to improve the productivity, efficiency, and effectiveness of Federal programs, including through dissemination of public information and the reduction of information collection burdens on the public.
 
-(Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 167; amended Pub. L. 104–106, div. E, title LI, §5131(e)(1), title LVI, §5605(b), (c), Feb. 10, 1996, 110 Stat. 688, 700; Pub. L. 105–85, div. A, title X, §1073(h)(5)(B), (C), Nov. 18, 1997, 111 Stat. 1907; Pub. L. 105–277, div. C, title XVII, §1702, Oct. 21, 1998, 112 Stat. 2681–749; Pub. L. 106–398, §1 \[\[div. A\], title X, §1064(b)\], Oct. 30, 2000, 114 Stat. 1654,1654A–275; Pub. L. 107–198, §2(a), June 28, 2002, 116 Stat. 729; Pub. L. 107–217, §3(<i>l</i>)(5), Aug. 21, 2002, 116 Stat. 1301; Pub. L. 107–296, title X, §1005(c)(1), Nov. 25, 2002, 116 Stat. 2272; Pub. L. 107–347, title III, §305(c)(1), Dec. 17, 2002, 116 Stat. 2960.)
+(Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 167; amended Pub. L. 104–106, div. E, title LI, §5131(e)(1), title LVI, §5605(b), (c), Feb. 10, 1996, 110 Stat. 688, 700; Pub. L. 105–85, div. A, title X, §1073(h)(5)(B), (C), Nov. 18, 1997, 111 Stat. 1907; Pub. L. 105–277, div. C, title XVII, §1702, Oct. 21, 1998, 112 Stat. 2681–749; Pub. L. 106–398, §1 \[\[div. A\], title X, §1064(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–275; Pub. L. 107–198, §2(a), June 28, 2002, 116 Stat. 729; Pub. L. 107–217, §3(<i>l</i>)(5), Aug. 21, 2002, 116 Stat. 1301; Pub. L. 107–296, title X, §1005(c)(1), Nov. 25, 2002, 116 Stat. 2272; Pub. L. 107–347, title III, §305(c)(1), Dec. 17, 2002, 116 Stat. 2960.)
 
 #### References in Text
 
@@ -160,7 +160,7 @@ Another prior section 3504, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1303, prov
 
 Subsec. (g)(1). Pub. L. 107–296, §1005(c)(1)(A), and Pub. L. 107–347, §305(c)(1)(A), amended par. (1) identically, inserting “and” at end.
 
-Subsec. (g)(2). Pub. L. 107–347, §305(c)(1)(B), substituted “section 11331 of title 40 and subchapter II of this chapter” for “sections 11331 and 11332(b) and (c) of title 40” and a period for “; and” at end.
+Subsec. (g)(2). Pub. L. 107–347, §305(c)(1)(B), substituted “section 11331 of title 40 and subchapter II ofthis chapter” for “sections 11331 and 11332(b) and (c) of title 40” and a period for “; and” at end.
 
 Pub. L. 107–296, §1005(c)(1)(B), which directed amendment of par. (2) by substituting “section 11331 of title 40 and subchapter II of this title” for “sections 11331 and 11332(b) and (c) of title 40” and a period for the semicolon, could not be executed because of amendment by Pub. L. 107–347, §305(c)(1)(B). See Amendment note above and Effective Date of 2002 Amendments notes below.
 
@@ -220,7 +220,7 @@ Pub. L. 105–277, div. C, title XVII, Oct. 21, 1998, 112 Stat. 2681–749, prov
 
 “(a)
 
-In General.—In order to fulfill the responsibility to administer the functions assigned under chapter35 of title 44, United States Code, the provisions of the Clinger-Cohen Act of 1996 (divisions D and E of Public Law 104–106) \[see Short Title of 1996 Act note set out under section 101 of Title 41, Public Contracts\] and the amendments made by that Act, and the provisions of this title, the Director of the Office of Management and Budget shall, in consultation with the National Telecommunications and Information Administration and not later than 18 months after the date of enactment of this Act \[Oct. 21, 1998\], develop procedures for the use and acceptance of electronic signatures by Executive agencies.
+In General.—In order to fulfill the responsibility to administer the functions assigned under chapter 35 of title 44, United States Code, the provisions of the Clinger-Cohen Act of 1996 (divisions D and E of Public Law 104–106) \[see Short Title of 1996 Act note set out under section 101 of Title 41, Public Contracts\] and the amendments made by that Act, and the provisions of this title, the Director of the Office of Management and Budget shall, in consultation with the National Telecommunications and Information Administration and not later than 18 months after the date of enactment of this Act \[Oct. 21, 1998\], develop procedures for the use and acceptance of electronic signatures by Executive agencies.
 
 “(b)
 
@@ -240,7 +240,7 @@ Requirements for Procedures.—(1) The procedures developed under subsection (a)
 
 #### “SEC. 1704. DEADLINE FOR IMPLEMENTATION BY EXECUTIVE AGENCIES OF PROCEDURES FOR USE AND ACCEPTANCE OF ELECTRONIC SIGNATURES.
 
-“In order to fulfill the responsibility to administer the functions assigned under chapter 35 of title 44, United States Code, the provisions of the Clinger-Cohen Act of 1996 (divisions D and E of Public Law 104–106) \[see Short Title of 1996 Act note set out under section 101 of Title 41\] and the amendments made by that Act, and the provisions of this title, the Director of the Office of Management and Budget shall ensure that, commencing not later than five years after the date of enactment of this Act \[Oct. 21, 1998\], Executive agencies provide—
+“In order to fulfill the responsibility to administer the functions assigned under chapter 35 of title 44,United States Code, the provisions of the Clinger-Cohen Act of 1996 (divisions D and E of Public Law 104–106) \[see Short Title of 1996 Act note set out under section 101 of Title 41\] and the amendments made by that Act, and the provisions of this title, the Director of the Office of Management and Budget shall ensure that, commencing not later than five years after the date of enactment of this Act \[Oct. 21, 1998\], Executive agencies provide—
 
 &emsp;“(1) for the option of the electronic maintenance, submission, or disclosure of information, when practicable as a substitute for paper; and
 

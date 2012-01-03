@@ -38,7 +38,7 @@ Section was enacted as part of the Immigration Reform and Control Act of 1986, a
 
 #### Amendments
 
-1996—Subsec. (b)(2). Pub. L. 104–208 substituted “section 237” for “section 241”.
+<b>1996</b>—Subsec. (b)(2). Pub. L. 104–208 substituted “section 237” for “section 241”.
 
 #### Effective Date of 1996 Amendment
 

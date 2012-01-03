@@ -26,11 +26,11 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1978—Pub. L. 95–454 substituted “5372” for “5362” wherever appearing.
+<b>1978</b>—Pub. L. 95–454 substituted “5372” for “5362” wherever appearing.
 
 Pub. L. 95–251 substituted “administrative law judges” for “hearing examiners” wherever appearing.
 
-1968—Pub. L. 90–623 inserted “of this title” after “7521” wherever appearing.
+<b>1968</b>—Pub. L. 90–623 inserted “of this title” after “7521” wherever appearing.
 
 #### Effective Date of 1978 Amendment
 

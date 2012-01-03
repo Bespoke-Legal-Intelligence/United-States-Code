@@ -22,7 +22,7 @@ Pub. L. 104–134, title I, §101(c) \[title III, §327\], Apr. 26, 1996, 110 St
 
 “(b)(1) From the funds deposited into the Agriculture Fund and into the Interior Fund pursuant to subsection (a)—
 
-&emsp;“(A) seventy-five percent shall be available, without fiscal year limitation or further appropriation, for preparation of timber sales, other than salvage sales as defined in section 2001(a)(3) of the fiscal year 1995 Supplemental Appropriations for Disaster Assistance and Rescissions Act \[probably means section 2001(a)(3) of Pub. L. 104–19, set out below\], which—
+&emsp;“(A) seventy-five percent shall be available, without fiscal year limitation or further appropriation,for preparation of timber sales, other than salvage sales as defined in section 2001(a)(3) of the fiscal year 1995 Supplemental Appropriations for Disaster Assistance and Rescissions Act \[probably means section 2001(a)(3) of Pub. L. 104–19, set out below\], which—
 
 &emsp;&emsp;“(i) are situated on lands within the National Forest System and lands administered by the Bureau of Land Management, respectively; and
 
@@ -38,7 +38,7 @@ Pub. L. 104–134, title I, §101(c) \[title III, §327\], Apr. 26, 1996, 110 St
 
 “(e) Any timber sales prepared and recreation projects completed under this section shall comply with all applicable environmental and natural resource laws and regulations.
 
-“(f) The Secretary concerned shall report annually to the Committees on Appropriations of the United States Senate and the House of Representatives on expenditures made from the Fund for timber sales and recreation projects, revenues received into the Fund from timber sales, and timber sale preparation and recreation project work undertaken during the previousyear and projected for the next year under the Fund. Such information shall be provided for each Forest Service region and Bureau of Land Management State office.
+“(f) The Secretary concerned shall report annually to the Committees on Appropriations of the United States Senate and the House of Representatives on expenditures made from the Fund for timber sales and recreation projects, revenues received into the Fund from timber sales, and timber sale preparation and recreation project work undertaken during the previous year and projected for the next year under the Fund. Such information shall be provided for each Forest Service region and Bureau of Land Management State office.
 
 “(g) The authority of this section shall terminate upon the termination of both Funds in accordance with the provisions of subsection (d).”
 

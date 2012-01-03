@@ -52,10 +52,6 @@ The Indian Self-Determination Act, referred to in subsec. (e)(3), (5)(A), is tit
 
 This Act, referred to in subsec. (e)(5), is Pub. L. 99–570, Oct. 27, 1986, 100 Stat. 3207, known as the Anti-Drug Abuse Act of 1986. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under section 801 of Title 21, Food and Drugs, and Tables.
 
-#### Codification
-
-The introductory provisions of subsec. (e)(5) are set out in this supplement to undo a translation appearing in the main edition.
-
 #### Amendments
 
 <b>2010</b>—Subsec. (e)(1). Pub. L. 111–211, §241(c)(1), substituted “each of fiscal years 2011 through 2015.” for “fiscal year 1993 and such sums as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000.”

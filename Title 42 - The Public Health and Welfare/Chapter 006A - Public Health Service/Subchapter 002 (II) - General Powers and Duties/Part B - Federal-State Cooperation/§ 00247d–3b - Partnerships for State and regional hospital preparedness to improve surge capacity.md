@@ -74,7 +74,7 @@ An eligible entity shall, to the extent practicable, ensure that activities carr
 
 #### (2) Rule of construction
 
-&emsp;Nothing in this section shall be construed to prohibit the use of awards under this section to pay salary and related expenses of public health and other professionals employed by State, local, or tribal agencies who are carrying out activities supported by such awards (regardless of whether the primary assignmentof such personnel is to carry out such activities).
+&emsp;Nothing in this section shall be construed to prohibit the use of awards under this section to pay salary and related expenses of public health and other professionals employed by State, local, or tribal agencies who are carrying out activities supported by such awards (regardless of whether the primary assignment of such personnel is to carry out such activities).
 
 #### (i) Performance and accountability
 

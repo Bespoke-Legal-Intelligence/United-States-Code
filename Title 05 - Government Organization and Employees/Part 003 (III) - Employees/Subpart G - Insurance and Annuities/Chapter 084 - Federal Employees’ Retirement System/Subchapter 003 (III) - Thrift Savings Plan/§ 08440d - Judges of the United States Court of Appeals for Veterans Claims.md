@@ -24,21 +24,21 @@ Section 8351(b)(7) of this title, referred to in subsec. (b)(6), was redesignate
 
 #### Amendments
 
-2004—Subsec. (a)(2). Pub. L. 108–469 substituted “as” for “only during a period”.
+<b>2004</b>—Subsec. (a)(2). Pub. L. 108–469 substituted “as” for “only during a period”.
 
-2000—Subsec. (a)(2). Pub. L. 106–361 substituted “this chapter” for “chapter 84 of this title”.
+<b>2000</b>—Subsec. (a)(2). Pub. L. 106–361 substituted “this chapter” for “chapter 84 of this title”.
 
 Subsec. (b)(2). Pub. L. 106–554 amended first sentence generally. Prior to amendment, first sentence read as follows: “The amount contributed by a judge may not exceed 5 percent of the amount of the judge's basic pay.”
 
-1998—Pub. L. 105–368, §512(b)(2)(A), substituted “Judges of the United States Court of Appeals for Veterans Claims” for “Judges of the United States Court of Veterans Appeals” in section catchline.
+<b>1998</b>—Pub. L. 105–368, §512(b)(2)(A), substituted “Judges of the United States Court of Appeals for Veterans Claims” for “Judges of the United States Court of Veterans Appeals” in section catchline.
 
 Subsecs. (a)(1), (b)(5). Pub. L. 105–368, §512(b)(1)(A), substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
 
-1994—Subsec. (b)(5). Pub. L. 103–226 substituted “Section 8433(b) of this title applies” for “A transfer shall be made as provided in section 8433(d) of this title”.
+<b>1994</b>—Subsec. (b)(5). Pub. L. 103–226 substituted “Section 8433(b) of this title applies” for “A transfer shall be made as provided in section 8433(d) of this title”.
 
-1992—Pub. L. 102–378 amended Pub. L. 102–198. See 1991 Amendment note below.
+<b>1992</b>—Pub. L. 102–378 amended Pub. L. 102–198. See 1991 Amendment note below.
 
-1991—Pub. L. 102–198, as amended by Pub. L. 102–378, renumbered section 8440c of this title as this section.
+<b>1991</b>—Pub. L. 102–198, as amended by Pub. L. 102–378, renumbered section 8440c of this title as this section.
 
 #### Effective Date of 2000 Amendment
 

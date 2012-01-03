@@ -24,7 +24,7 @@ When authorized by an appropriate tribal resolution establishing a general polic
 
 #### (c) Rights of individual landowners
 
-(1) Nothing in this section shall be construed as limiting or altering the authority or right of an individual allottee or Indian tribe in the legal or beneficial use of his, her, or its own land or to enter into an agricultural lease of the surface interest of his, her, or its allotment or land under any other provision of law.
+(1) Nothing in this section shall be construed as limiting or altering the authority or right of an individual allottee or Indian tribe in the legal or beneficial use of his, her, or its own landor to enter into an agricultural lease of the surface interest of his, her, or its allotment or land under any other provision of law.
 
 (2)(A) The owners of a majority interest in any trust or restricted land are authorized to enter into an agricultural lease of the surface interest of a trust or restricted allotment, and such lease shall be binding upon the owners of the minority interests in such land if the terms of the lease provide such minority interests with not less than fair market value for such land.
 

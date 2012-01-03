@@ -6,7 +6,7 @@ If, under section 282, 283, 284, 285, 289, or 290 of this title, the discharge o
 
 #### Amendments
 
-1972—Pub. L. 92–451 inserted reference to section 290.
+<b>1972</b>—Pub. L. 92–451 inserted reference to section 290.
 
 #### Effective Date of 1972 Amendment
 

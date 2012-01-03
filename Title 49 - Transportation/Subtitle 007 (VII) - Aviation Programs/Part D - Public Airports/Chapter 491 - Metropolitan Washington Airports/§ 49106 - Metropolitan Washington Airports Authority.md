@@ -12,7 +12,7 @@ Status.—The Metropolitan Washington Airports Authority shall be—
 
 &emsp;(2) independent of Virginia and its local governments, the District of Columbia, and the United States Government; and
 
-&emsp;(3) a political subdivision constituted only to operate and improve the MetropolitanWashington Airports as primary airports serving the Metropolitan Washington area.
+&emsp;(3) a political subdivision constituted only to operate and improve the Metropolitan Washington Airports as primary airports serving the Metropolitan Washington area.
 
 (b)
 
@@ -38,19 +38,19 @@ General Authority.—(1) The Airports Authority shall be authorized—
 
 (c)
 
-Board of Directors.—(1) The Airports Authority shall be governed by a board of directors composed of the following 13 members:
+Board of Directors.—(1) The Airports Authority shall be governed by a board of directors composed of the following 17 members:
 
-&emsp;(A) 5 members appointed by the Governor of Virginia;
+&emsp;(A) 7 members appointed by the Governor of Virginia;
 
-&emsp;(B) 3 members appointed by the Mayor of the District of Columbia;
+&emsp;(B) 4 members appointed by the Mayor of the District of Columbia;
 
-&emsp;(C) 2 members appointed by the Governor of Maryland; and
+&emsp;(C) 3 members appointed by the Governor of Maryland; and
 
 &emsp;(D) 3 members appointed by the President with the advice and consent of the Senate.
 
 (2) The chairman of the board shall be appointed from among the members by majority vote of the members and shall serve until replaced by majority vote of the members.
 
-(3) Members of the board shall be appointed to the board for 6 years, except that of the members first appointed by the President after October 9, 1996, one shall be appointed for 4 years. A member may serve after the expiration of that member's term until a successor has taken office.
+(3) Members of the board shall be appointed to the board for 6 years, except that of the members first appointed by the President after October 9, 1996, one shall be appointed for 4 years. Any member of the board shall be eligible for reappointment for 1 additional term. A member shall not serve after the expiration of the member's term(s).
 
 (4) A member of the board—
 
@@ -66,9 +66,9 @@ Board of Directors.—(1) The Airports Authority shall be governed by a board of
 
 (B) In carrying out their duties on the board, members appointed by the President shall ensure that adequate consideration is given to the national interest.
 
-(C) A member appointed by the President may be removed by the President for cause.
+(C) A member appointed by the President may be removed by the President for cause. A member appointed by the Mayor of the District of Columbia, the Governor of Maryland or the Governor of Virginia may be removed or suspended from office only for cause and in accordance with the laws of jurisdiction <sup>1</sup> from which the member is appointed.
 
-(7) Eight votes are required to approve bond issues and the annual budget.
+(7) Ten votes are required to approve bond issues and the annual budget.
 
 (d)
 
@@ -86,7 +86,7 @@ Administrative.—To assist the Secretary in carrying out this chapter, the Secr
 
 Review of Contracting Procedures.—The Comptroller General shall review contracts of the Airports Authority to decide whether the contracts were awarded by procedures that follow sound Government contracting principles and comply with section 49104(a)(4) of this title. The Comptroller General shall submit periodic reports of the conclusions reached as a result of the review to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
 
-(Added Pub. L. 105–102, §2(26), Nov. 20, 1997, 111 Stat. 2210; amended Pub. L. 105–225, §7(c)(1)(A), (B), Aug. 12, 1998, 112 Stat. 1511; Pub. L. 106–181, title II, §231(i), Apr. 5, 2000, 114 Stat. 115.)
+(Added Pub. L. 105–102, §2(26), Nov. 20, 1997, 111 Stat. 2210; amended Pub. L. 105–225, §7(c)(1)(A), (B), Aug. 12, 1998, 112 Stat. 1511; Pub. L. 106–181, title II, §231(i), Apr. 5, 2000, 114 Stat. 115; Pub. L. 112–55, div. C, title I, §191, Nov. 18, 2011, 125 Stat. 671.)
 
 Historical and Revision Notes
 
@@ -192,6 +192,20 @@ In subsection (g), the words “Committee on Transportation and Infrastructure�
 
 #### Amendments
 
+<b>2011</b>—Subsec. (c)(1). Pub. L. 112–55, §191(a)(1), substituted “17 members” for “13 members” in introductory provisions.
+
+Subsec. (c)(1)(A). Pub. L. 112–55, §191(a)(2), substituted “7 members” for “5 members”.
+
+Subsec. (c)(1)(B). Pub. L. 112–55, §191(a)(3), substituted “4 members” for “3 members”.
+
+Subsec. (c)(1)(C). Pub. L. 112–55, §191(a)(4), substituted “3 members” for “2 members”.
+
+Subsec. (c)(3). Pub. L. 112–55, §191(b), substituted “Any member of the board shall be eligible for reappointment for 1 additional term. A member shall not serve after the expiration of the member's term(s).” for “A member may serve after the expiration of that member's term until a successor has taken office.”
+
+Subsec. (c)(6)(C). Pub. L. 112–55, §191(c), inserted at end “A member appointed by the Mayor of the District of Columbia, the Governor of Maryland or the Governor of Virginia may be removed or suspended from office only for cause and in accordance with the laws of jurisdiction from which the member is appointed.”
+
+Subsec. (c)(7). Pub. L. 112–55, §191(d), substituted “Ten votes” for “Eight votes”.
+
 <b>2000</b>—Subsec. (c)(6)(C), (D). Pub. L. 106–181 redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “The members to be appointed under paragraph (1)(D) of this subsection must be appointed before October 1, 1997. If the deadline is not met, the Secretary of Transportation and the Airports Authority are subject to the limitations of section 49108 of this title until all members referred to in paragraph (1)(D) are appointed.”
 
 <b>1998</b>—Subsec. (b)(1)(F). Pub. L. 105–225, §7(c)(1)(A), substituted “1986” for “1996”.
@@ -205,4 +219,6 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 #### Effective Date of 1998 Amendment
 
 Pub. L. 105–225, §7(c)(3), Aug. 12, 1998, 112 Stat. 1512, provided that: “The amendments made by this subsection \[amending this section and sections 49107 and 49111 of this title and provisions set out as a note preceding section 101 of this title\] are effective as of November 20, 1997.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by “the”.</i>
 

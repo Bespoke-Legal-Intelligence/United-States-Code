@@ -10,7 +10,7 @@ The Commission is authorized and directed to prevent any person from violating t
 
 #### (c) Rules and regulations
 
-The Commission is authorized and directed to prescribe such rules and regulations, including provisions for maintenance of records relating to fabrics, related materials, and products, as may be necessary and proper for administration and enforcement of this chapter. The violation of such rules and regulations shall be unlawful and shall be an unfair method of competition and an unfair and deceptive act or practice, in commerce, under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\].
+The Commission is authorized and directed to prescribe such rules and regulations, includingprovisions for maintenance of records relating to fabrics, related materials, and products, as may be necessary and proper for administration and enforcement of this chapter. The violation of such rules and regulations shall be unlawful and shall be an unfair method of competition and an unfair and deceptive act or practice, in commerce, under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\].
 
 #### (d) Inspection and analysis of products; cooperation with other governmental entities
 
@@ -72,7 +72,7 @@ Pub. L. 110–314, §217(b)(1)(C)(ii)(II), which directed the substitution of �
 
 Pub. L. 110–314, §217(b)(1)(C)(ii)(I), substituted “nature, circumstances, extent, and gravity” for “nature and number”.
 
-Subsec. (e)(5)(B). Pub. L. 110–314, §217(a)(3)(C), which directed the substitution of “December 1, 2011,” for “December 1, 1994,” in par. (6)(B) of subsec. (e)(1), was executed by making the substitution in par. (5)(B) of subsec. (e) to reflect the probable intent of Congress because subsec. (e) does not contain a par. (6).
+Subsec. (e)(5)(B). Pub. L. 110–314, §217(a)(3)(C), which directed the substitution of “December 1, 2011,” for“December 1, 1994,” in par. (6)(B) of subsec. (e)(1), was executed by making the substitution in par. (5)(B) of subsec. (e) to reflect the probable intent of Congress because subsec. (e) does not contain a par. (6).
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–608, §118(b), inserted at end “In the case of an attorney general of a State alleging a violation of a standard or regulation under section 1193 of this title that affects or may affect such State or its residents, such attorney general may bring a civil action for an injunction to enforce the requirement of such standard or regulation. The procedural requirements of section 2073 of this title shall apply to any such action.”
 

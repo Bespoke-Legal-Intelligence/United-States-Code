@@ -100,7 +100,7 @@ Section was formerly classified as a note under section 12712 of Title 42, The P
 
 #### Amendments
 
-2008—Subsec. (a)(2)(C). Pub. L. 110–289, §2123(1), amended subpar. (C) generally. Prior to amendment, text read as follows: “The cost of cost-effective energy efficiency improvements shall not exceed the greater of—
+<b>2008</b>—Subsec. (a)(2)(C). Pub. L. 110–289, §2123(1), amended subpar. (C) generally. Prior to amendment, text read as follows: “The cost of cost-effective energy efficiency improvements shall not exceed the greater of—
 
 &emsp;“(i) 5 percent of the property value (not to exceed $8,000); or
 

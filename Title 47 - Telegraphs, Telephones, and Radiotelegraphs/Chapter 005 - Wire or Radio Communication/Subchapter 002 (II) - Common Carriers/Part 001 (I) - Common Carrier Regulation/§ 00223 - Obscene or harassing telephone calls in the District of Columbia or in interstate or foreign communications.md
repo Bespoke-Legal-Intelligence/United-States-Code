@@ -64,7 +64,7 @@ Whoever—
 
 #### (c) Restriction on access to subscribers by common carriers; judicial remedies respecting restrictions
 
-(1) A common carrier within the District of Columbia or within any State, or in interstate or foreign commerce, shall not, to the extent technically feasible, provide access to a communication specified in subsection (b) of this section from the telephone of any subscriber whohas not previously requested in writing the carrier to provide access to such communication if the carrier collects from subscribers an identifiable charge for such communication that the carrier remits, in whole or in part, to the provider of such communication.
+(1) A common carrier within the District of Columbia or within any State, or in interstate or foreign commerce, shall not, to the extent technically feasible, provide access to a communication specified in subsection (b) of this section from the telephone of any subscriber who has not previously requested in writing the carrier to provide access to such communication if the carrier collects from subscribers an identifiable charge for such communication that the carrier remits, in whole or in part, to the provider of such communication.
 
 (2) Except as provided in paragraph (3), no cause of action may be brought in any court or administrative agency against any common carrier, or any of its affiliates, including their officers, directors, employees, agents, or authorized representatives on account of—
 
@@ -155,6 +155,8 @@ For purposes of this section—
 #### References in Text
 
 The Federal Rules of Civil Procedure, referred to in subsec. (b)(6), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+
+This chapter, referred to in subsec. (h)(1)(A), was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
 Section 1104 of the Internet Tax Freedom Act, referred to in subsec. (h)(1)(C), is section 1104 of title XI of div. C of Pub. L. 105–277, which is set out in a note under section 151 of this title. The term “Internet” is defined in section 1105 of Pub. L. 105–277, which is set out in the same note under section 151 of this title.
 

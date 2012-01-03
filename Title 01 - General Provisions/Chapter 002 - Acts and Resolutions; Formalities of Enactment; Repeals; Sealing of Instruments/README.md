@@ -30,13 +30,13 @@
 
 #### Amendments
 
-1972—Pub. L. 92–403, §2, Aug. 22, 1972, 86 Stat. 619, added item 112b.
+<b>1972</b>—Pub. L. 92–403, §2, Aug. 22, 1972, 86 Stat. 619, added item 112b.
 
-1966—Pub. L. 89–497, §2, July 8, 1966, 80 Stat. 271, inserted “slip laws; Treaties and Other International Acts Series;” in item 113.
+<b>1966</b>—Pub. L. 89–497, §2, July 8, 1966, 80 Stat. 271, inserted “slip laws; Treaties and Other International Acts Series;” in item 113.
 
-1951—Act Oct. 31, 1951, ch. 655, §2(a), 65 Stat. 710, added items 106a and 106b.
+<b>1951</b>—Act Oct. 31, 1951, ch. 655, §2(a), 65 Stat. 710, added items 106a and 106b.
 
-1950—Act Sept. 23, 1950, ch. 1001, §3, 64 Stat. 980, added item 112a.
+<b>1950</b>—Act Sept. 23, 1950, ch. 1001, §3, 64 Stat. 980, added item 112a.
 
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 

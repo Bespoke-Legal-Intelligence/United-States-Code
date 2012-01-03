@@ -24,7 +24,7 @@ Appointment.—There is a Chief of the National Guard Bureau, who is responsible
 
 Term of Office.—(1) An officer appointed as Chief of the National Guard Bureau serves at the pleasure of the President for a term of four years. An officer may be reappointed as Chief of the National Guard Bureau.
 
-(2) Except as provided in section 14508(d) of this title, while holding the office of Chief of the National Guard Bureau, the Chief of the National Guard Bureau may not be removed from the reserve active-status list, or from an active status, under any provision of law that otherwise would require such removal due to completion of a specified number of years of service or a specified number of years of service in grade.
+(2) Except as provided in section 14508(d) of this title, while holding the office of Chief of the National Guard Bureau, the Chief of the National Guard Bureau may not be removed fromthe reserve active-status list, or from an active status, under any provision of law that otherwise would require such removal due to completion of a specified number of years of service or a specified number of years of service in grade.
 
 (c) Advisor on National Guard Matters.—The Chief of the National Guard Bureau is—
 
@@ -34,29 +34,37 @@ Term of Office.—(1) An officer appointed as Chief of the National Guard Bureau
 
 (d)
 
-Grade.—The Chief of the National Guard Bureau shall be appointed to serve in the grade of general.
+Member of Joint Chiefs of Staff.—As a member of the Joint Chiefs of Staff, the Chief of the National Guard Bureau has the specific responsibility of addressing matters involving non-Federalized National Guard forces in support of homeland defense and civil support missions.
 
 (e)
 
-Succession.—(1) Unless otherwise directed by the President or the Secretary of Defense, the senior of the two officers specified in paragraph (2) shall serve as the acting Chief of the National Guard Bureau during any period that—
+Grade and Exclusion From General and Flag Officer Authorized Strength.—(1) The Chief of the National Guard Bureau shall be appointed to serve in the grade of general.
 
-&emsp;(A) there is a vacancy in the position of Chief of the National Guard Bureau; or
+(2) The Secretary of Defense shall designate, pursuant to subsection (b) of section 526 of this title, the position of Chief of the National Guard Bureau as one of the general officer and flag officer positions to be excluded from the limitations in subsection (a) of such section.
 
-&emsp;(B) the Chief is unable to perform the duties of that office.
+(f)
 
-(2) The officers specified in this paragraph are the following:
+Succession.—(1) When there is a vacancy in the office of the Chief of the National Guard Bureau or in the absence or disability of the Chief, the Vice Chief of the National Guard Bureau acts as Chief and performs the duties of the Chief until a successor is appointed or the absence or disability ceases.
 
-&emsp;(A) The senior officer of the Army National Guard of the United States on duty with the National Guard Bureau.
+(2) When there is a vacancy in the offices of both the Chief and the Vice Chief of the National Guard Bureau or in the absence or disability of both the Chief and the Vice Chief of the National Guard Bureau, or when there is a vacancy in one such office and in the absence or disability of the officer holding the other, the senior officer of the Army National Guard of the United States or the Air National Guard of the United States on duty with the National Guard Bureau shall perform the duties of the Chief until a successor to the Chief or Vice Chief is appointed or the absence or disability of the Chief or Vice Chief ceases, as the case may be.
 
-&emsp;(B) The senior officer of the Air National Guard of the United States on duty with the National Guard Bureau.
-
-(Added Pub. L. 103–337, div. A, title IX, §904(a), Oct. 5, 1994, 108 Stat. 2824; amended Pub. L. 108–375, div. A, title V, §507(a), (b)(1), Oct. 28, 2004, 118 Stat. 1876; Pub. L. 110–181, div. A, title XVIII, §§1811, 1825(c)(2), Jan. 28, 2008, 122 Stat. 496, 502.)
+(Added Pub. L. 103–337, div. A, title IX, §904(a), Oct. 5, 1994, 108 Stat. 2824; amended Pub. L. 108–375, div. A, title V, §507(a), (b)(1), Oct. 28, 2004, 118 Stat. 1876; Pub. L. 110–181, div. A, title XVIII, §§1811, 1825(c)(2), Jan. 28, 2008, 122 Stat. 496, 502; Pub. L. 112–81, div. A, title V, §§511(a)(1),(2), 512(b), Dec. 31, 2011, 125 Stat. 1391, 1393.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 3040(a)–(c) of this title, prior to repeal by Pub. L. 103–337, §904(b)(1).
 
 #### Amendments
+
+<b>2011</b>—Subsec. (d). Pub. L. 112–81, §512(b)(2) added subsec (d). Former subsec. (d) redesignated (e).
+
+Pub. L. 112–81, §511(a)(1), amended subsec. (d) generally. Prior to amendment, text read as follows: “The Chief of the National Guard Bureau shall be appointed to serve in the grade of general.”
+
+Subsec. (e). Pub. L. 112–81, §512(b)(1), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+
+Pub. L. 112–81, §511(a)(2), amended subsec. (e) generally. Prior to amendment, text related to succession for office of Chief of the National Guard Bureau.
+
+Subsec. (f). Pub. L. 112–81, §512(b)(1), redesignated subsec. (e) as (f).
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–181, §1811(a), added pars. (1) to (8) and struck out former pars. (1) to (3) which read as follows:
 
@@ -70,7 +78,7 @@ Subsec. (b). Pub. L. 110–181, §1825(c)(2), inserted par. (1) designation befo
 
 Pub. L. 110–181, §1811(c), struck out “An officer may not hold that office after becoming 64 years of age.” after “four years.”
 
-Subsec. (c). Pub. L. 110–181, §1811(d), amended subsec. (c) generally. Prior to amendment, text read as follows:“The Chief of the National Guard Bureau is the principal adviser to the Secretary of the Army and the Chief of Staff of the Army, and to the Secretary of the Air Force and the Chief of Staff of the Air Force, on matters relating to the National Guard, the Army National Guard of the United States, and the Air National Guard of the United States.”
+Subsec. (c). Pub. L. 110–181, §1811(d), amended subsec. (c) generally. Prior to amendment, text read as follows: “The Chief of the National Guard Bureau is the principal adviser to the Secretary of the Army and the Chief of Staff of the Army, and to the Secretary of the Air Force and the Chief of Staff of the Air Force, on matters relating to the National Guard, the Army National Guard of the United States, and the Air National Guard of the United States.”
 
 Subsec. (d). Pub. L. 110–181, §1811(b), substituted “general” for “lieutenant general”.
 

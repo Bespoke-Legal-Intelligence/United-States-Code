@@ -86,7 +86,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (b)(1)(A)(iii). Pub. L. 110–246, §11012(a), added cl. (iii) and struck out former cl. (iii) which read as follows: “$500,000 for all violations adjudicated in a single proceeding; or”.
+<b>2008</b>—Subsec. (b)(1)(A)(iii). Pub. L. 110–246, §11012(a), added cl. (iii) and struck out former cl. (iii) which read as follows: “$500,000 for all violations adjudicated in a single proceeding; or”.
 
 #### Effective Date of 2008 Amendment
 

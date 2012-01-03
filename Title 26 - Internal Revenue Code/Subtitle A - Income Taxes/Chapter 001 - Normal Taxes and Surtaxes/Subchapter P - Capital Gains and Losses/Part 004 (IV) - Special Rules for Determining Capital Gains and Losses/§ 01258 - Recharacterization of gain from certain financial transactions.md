@@ -68,7 +68,7 @@ For purposes of this section—
 
 #### (4) Position taken into account at fair market value
 
-&emsp;In determining the taxpayer's net investment in any conversion transaction, there shall be included the fair market value of any position which becomes part of such transaction (determined as of the time such position became part of such transaction).
+&emsp;In determining the taxpayer's net investment in any conversion transaction, thereshall be included the fair market value of any position which becomes part of such transaction (determined as of the time such position became part of such transaction).
 
 #### (5) Special rule for options dealers and commodities traders
 

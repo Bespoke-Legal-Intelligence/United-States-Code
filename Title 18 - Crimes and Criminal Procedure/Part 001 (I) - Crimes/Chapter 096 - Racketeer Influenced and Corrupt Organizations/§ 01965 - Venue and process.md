@@ -1,6 +1,6 @@
 ### §1965. Venue and process
 
-(a) Any civil action or proceeding under this chapter against any person may be instituted in the district court of the United States for any district in which such person resides, is found, has an agent, or transacts his affairs.
+(a) Any civil action or proceeding under this chapter against any person may be instituted inthe district court of the United States for any district in which such person resides, is found, has an agent, or transacts his affairs.
 
 (b) In any action under section 1964 of this chapter in any district court of the United States in which it is shown that the ends of justice require that other parties residing in any other district be brought before the court, the court may cause such parties to be summoned, and process for that purpose may be served in any judicial district of the United States by the marshal thereof.
 

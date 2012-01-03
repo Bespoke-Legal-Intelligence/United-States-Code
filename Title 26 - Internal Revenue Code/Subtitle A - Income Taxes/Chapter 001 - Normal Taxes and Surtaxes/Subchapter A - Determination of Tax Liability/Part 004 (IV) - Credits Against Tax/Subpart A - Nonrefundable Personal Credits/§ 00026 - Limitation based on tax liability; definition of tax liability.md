@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The aggregate amount of credits allowed by this subpart (other than sections 24, 25A(i), 25B, 25D, 30, 30B, and 30D) for the taxable year shall not exceed the excess (if any) of—
+&emsp;The aggregate amount of credits allowed by this subpart (other than sections 23, 24, 25A(i), 25B, 25D, 30, 30B, and 30D) for the taxable year shall not exceed the excess (if any) of—
 
 &emsp;&emsp;(A) the taxpayer's regular tax liability for the taxable year, over
 
@@ -196,7 +196,7 @@ Subsec. (b)(2)(N). Pub. L. 101–239, §7821(a)(4)(A), which directed amendment 
 
 Pub. L. 100–647, §5012(b)(2), substituted “(q), or (v)” for “or (q)”.
 
-Subsec. (b)(2)(D). Pub. L. 100–647, §1011A(c)(10)(B), substituted “72(t) (relating to 10-percent additional tax on early distributions from qualified retirementplans)” for “408(f) (relating to additional tax on income from certain retirement accounts)”.
+Subsec. (b)(2)(D). Pub. L. 100–647, §1011A(c)(10)(B), substituted “72(t) (relating to 10-percent additional tax on early distributions from qualified retirement plans)” for “408(f) (relating to additional tax on income from certain retirement accounts)”.
 
 Subsec. (b)(2)(K). Pub. L. 100–647, §1007(g)(1), substituted “corporations).” for “corporations,”.
 
@@ -244,7 +244,7 @@ Amendment by section 1144(b)(1)(D) of Pub. L. 111–5 applicable to taxable year
 
 #### Effective Date of 2008 Amendment
 
-Amendment by section 106(e)(2)(D) of Pub. L. 110–343 applicable to taxable years beginning after Dec. 31, 2007, see section 106(f)(1) of div. B of Pub. L. 110–343, set out as an Effective and Termination Dates of 2008 Amendment note under section 36C of this title.
+Amendment by section 106(e)(2)(D) of Pub. L. 110–343 applicable to taxable years beginning after Dec. 31, 2007, see section 106(f)(1) of div. B of Pub. L. 110–343, set out as an Effective and Termination Dates of 2008 Amendment note under section 23 of this title.
 
 Amendment by section 205(d)(1)(D) of Pub. L. 110–343 applicable to taxable years beginning after Dec. 31, 2008, see section 205(e) of div. B of Pub. L. 110–343, set out as an Effective and Termination Dates of 2008 Amendment note under section 24 of this title.
 
@@ -280,15 +280,15 @@ Pub. L. 107–147, title VI, §601(c), Mar. 9, 2002, 116 Stat. 59, provided that
 
 #### Effective and Termination Dates of 2001 Amendment
 
-Amendment by Pub. L. 107–16 inapplicable to taxable years beginning during 2004 or 2005, see section 312(b)(2) of Pub. L. 108–311, set out as a note under section 36C of this title.
+Amendment by Pub. L. 107–16 inapplicable to taxable years beginning during 2004 or 2005, see section 312(b)(2) of Pub. L. 108–311, set out as a note under section 23 of this title.
 
-Amendment by Pub. L. 107–16 inapplicable to taxable years beginning during 2002 and 2003, see section 601(b)(2) of Pub. L. 107–147, set out as a note under section 36C of this title.
+Amendment by Pub. L. 107–16 inapplicable to taxable years beginning during 2002 and 2003, see section 601(b)(2) of Pub. L. 107–147, set out as a note under section 23 of this title.
 
 Pub. L. 107–22, §1(c), July 26, 2001, 115 Stat. 197, provided that: “The amendments made by this section \[amending this section and sections 72, 135, 529, 530, 4973, 4975, and 6693 of this title\] shall take effect on the date of the enactment of this Act \[July 26, 2001\].”
 
 Amendment by section 201(b)(2)(D) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 201(e)(2) of Pub. L. 107–16, set out as a note under section 24 of this title.
 
-Amendment by section 202(f)(2)(C) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 202(g)(1) of Pub. L. 107–16, set out as a note under section 36C of this title.
+Amendment by section 202(f)(2)(C) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 202(g)(1) of Pub. L. 107–16, set out as a note under section 23 of this title.
 
 Amendment by section 618(b)(2)(C) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 618(d) of Pub. L. 107–16, set out as a note under section 24 of this title.
 
@@ -310,7 +310,7 @@ Section 1602(i) of Pub. L. 105–34 provided that: “The amendments made by thi
 
 #### Effective Date of 1996 Amendment
 
-Section 1621(d) of Pub. L. 104–188 provided that: “The amendments made by this section \[enacting sections 860H to 860L of this title and amending this section and sections 56, 382, 582, 856, 860G, 1202, and 7701 of this title\] shall take effect on September 1, 1997.”
+Section 1621(d) of Pub. L. 104–188 provided that: “The amendments made by this section \[enacting sections860H to 860L of this title and amending this section and sections 56, 382, 582, 856, 860G, 1202, and 7701 of this title\] shall take effect on September 1, 1997.”
 
 #### Effective Date of 1989 Amendment
 
@@ -350,7 +350,7 @@ For applicability of amendment by section 701(c)(1) of Pub. L. 99–514 notwiths
 
 #### Treatment of Tax Imposed Under Former Section 409(c)
 
-Section 491(f)(5) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:“For purposes of section 26(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by this Act), any tax imposed by section 409(c) of such Code (as in effect before its repeal by this section) shall be treated as a tax imposed by section 408(f) of such Code.”
+Section 491(f)(5) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “For purposes of section 26(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by this Act), any tax imposed by section 409(c) of such Code (as in effect before its repeal by this section) shall be treated as a tax imposed by section 408(f) of such Code.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

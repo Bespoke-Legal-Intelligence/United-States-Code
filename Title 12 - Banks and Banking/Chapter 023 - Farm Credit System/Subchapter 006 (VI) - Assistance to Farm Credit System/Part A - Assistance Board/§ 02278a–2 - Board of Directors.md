@@ -48,7 +48,7 @@ A chief executive officer of the Assistance Board shall be selected by the Board
 
 #### Amendments
 
-1991—Subsec. (d)(1), (2). Pub. L. 102–237 substituted “subchapter I” for “subchapter 1”.
+<b>1991</b>—Subsec. (d)(1), (2). Pub. L. 102–237 substituted “subchapter I” for “subchapter 1”.
 
 #### Effective Date of 1991 Amendment
 

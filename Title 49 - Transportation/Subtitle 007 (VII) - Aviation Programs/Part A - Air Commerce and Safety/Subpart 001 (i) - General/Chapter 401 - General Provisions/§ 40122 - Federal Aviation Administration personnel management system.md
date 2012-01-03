@@ -10,7 +10,7 @@ Consultation and negotiation.—In developing and making changes to the personne
 
 &emsp;(2)
 
-Mediation.—If the Administrator does not reach an agreement under paragraph (1) with the exclusive bargaining representatives,the services of the Federal Mediation and Conciliation Service shall be used to attempt to reach such agreement. If the services of the Federal Mediation and Conciliation Service do not lead to an agreement, the Administrator's proposed change to the personnel management system shall not take effect until 60 days have elapsed after the Administrator has transmitted the proposed change, along with the objections of the exclusive bargaining representatives to the change, and the reasons for such objections, to Congress. The 60-day period shall not include any period during which Congress has adjourned sine die.
+Mediation.—If the Administrator does not reach an agreement under paragraph (1) with the exclusive bargaining representatives, the services of the Federal Mediation and Conciliation Service shall be used to attempt to reach such agreement. If the services of the Federal Mediation and Conciliation Service do not lead to an agreement, the Administrator's proposed change to the personnel management system shall not take effect until 60 days have elapsed after the Administrator has transmitted the proposed change, along with the objections of the exclusive bargaining representatives to the change, and the reasons for such objections, to Congress. The 60-day period shall not include any period during which Congress has adjourned sine die.
 
 &emsp;(3)
 
@@ -82,7 +82,7 @@ Right To Contest Adverse Personnel Actions.—An employee of the Federal Aviatio
 
 (i)
 
-Election of Forum.—Where a major adverse personnel action may be contested through more than one of the indicated forums (such as the contractual grievance procedure, the Federal Aviation Administration's internal process, or that of the Merit Systems Protection Board), an employee must elect the forumthrough which the matter will be contested. Nothing in this section is intended to allow an employee to contest an action through more than one forum unless otherwise allowed by law.
+Election of Forum.—Where a major adverse personnel action may be contested through more than one of the indicated forums (such as the contractual grievance procedure, the Federal Aviation Administration's internal process, or that of the Merit Systems Protection Board), an employee must elect the forum through which the matter will be contested. Nothing in this section is intended to allow an employee to contest an action through more than one forum unless otherwise allowed by law.
 
 (j)
 

@@ -64,7 +64,7 @@ Another prior section 520 of act July 1, 1944, was renumbered section 519 by Pub
 
 <b>2000</b>—Subsec. (b)(3) to (7). Pub. L. 106–310, §3112(c)(1), (2), added par. (3) and redesignated former pars. (3) to (6) as (4) to (7), respectively. Former par. (7) redesignated (8).
 
-Subsec. (b)(8). Pub. L. 106–310, §3112(c)(1), (3), redesignated par. (7) as (8) and substituted “programs under part C of this subchapter” for “programs authorized under sections 290bb–32 and 290cc–21 of this title, including the Community Support Program and the Child and Adolescent Service System Programs”. Former par. (8) redesignated (9).
+Subsec. (b)(8). Pub. L. 106–310, §3112(c)(1), (3), redesignated par. (7) as (8) and substituted “programs under part C of this subchapter” for “programs authorizedunder sections 290bb–32 and 290cc–21 of this title, including the Community Support Program and the Child and Adolescent Service System Programs”. Former par. (8) redesignated (9).
 
 Subsec. (b)(9). Pub. L. 106–310, §3112(c)(4), which directed the amendment of par. (9) by substituting “programs” for “program and programs of clinical training for professional and paraprofessional personnel pursuant to section 242a of this title” was executed by making the substitution for the phrase which began with the words “program, and programs”, to reflect the probable intent of Congress.
 

@@ -24,17 +24,17 @@
 
 #### Amendments
 
-2008—Subsec. (a)(1)(B). Pub. L. 110–417 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
+<b>2008</b>—Subsec. (a)(1)(B). Pub. L. 110–417 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
-2004—Subsec. (a)(1)(C). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (a)(1)(C). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-1996—Subsec. (a)(1)(B). Pub. L. 104–201 substituted “National Imagery and Mapping Agency” for “Central Imagery Office”.
+<b>1996</b>—Subsec. (a)(1)(B). Pub. L. 104–201 substituted “National Imagery and Mapping Agency” for “Central Imagery Office”.
 
-1994—Subsec. (a)(1)(B). Pub. L. 103–359 inserted “the Central Imagery Office,” after “Defense Intelligence Agency,”.
+<b>1994</b>—Subsec. (a)(1)(B). Pub. L. 103–359 inserted “the Central Imagery Office,” after “Defense Intelligence Agency,”.
 
-1990—Subsec. (a)(1). Pub. L. 101–474 struck out “, the Administrative Office of the United States Courts,” after “means an Executive agency”.
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–474 struck out “, the Administrative Office of the United States Courts,” after “means an Executive agency”.
 
-1979—Subsec. (b). Pub. L. 96–54 substituted “chapter” for “subchapter” and “28 U.S.C. 509” for “5 U.S.C. 5108”.
+<b>1979</b>—Subsec. (b). Pub. L. 96–54 substituted “chapter” for “subchapter” and “28 U.S.C. 509” for “5 U.S.C. 5108”.
 
 #### Effective Date of 1996 Amendment
 

@@ -42,13 +42,13 @@ Section was formerly classified to section 535 of Title 7, Agriculture.
 
 #### Amendments
 
-2008—Subsecs. (d) to (g). Pub. L. 110–246, §1610, redesignated subsecs. (e) to (g) as (d) to (f), respectively, and struck out former subsec. (d) which read as follows: “The inclusion in any governmental report, bulletin, or other such publication hereafter issued or published of any prediction with respect to cotton prices is prohibited. Any officer or employee of the United States who authorizes or is responsible for the inclusion in any such report, bulletin, or other publication of any such prediction, or who knowingly causes the issuance or publication of any such report, bulletin, or other publication containing any such prediction, shall, upon conviction thereof, be fined not less than $500 or more than $5,000, or imprisoned for not more than five years, or both: <i>Provided</i>, That this subdivision shall not apply to the Governor of the Farm Credit Administration when engaged in the performance of his duties herein provided.”
+<b>2008</b>—Subsecs. (d) to (g). Pub. L. 110–246, §1610, redesignated subsecs. (e) to (g) as (d) to (f), respectively, and struck out former subsec. (d) which read as follows: “The inclusion in any governmental report, bulletin, or other such publication hereafter issued or published of any prediction with respect to cotton prices is prohibited. Any officer or employee of the United States who authorizes or is responsible for the inclusion in any such report, bulletin, or other publication of any such prediction, or who knowingly causes the issuance or publication of any such report, bulletin, or other publication containing any such prediction, shall, upon conviction thereof, be fined not less than $500 or more than $5,000, or imprisoned for not more than five years, or both: <i>Provided</i>, That this subdivision shall not apply to the Governor of the Farm Credit Administration when engaged in the performance of his duties herein provided.”
 
-1935—Subsec. (a). Act June 3, 1935, amended definition of cooperative association and inserted second sentence in par. “Third”.
+<b>1935</b>—Subsec. (a). Act June 3, 1935, amended definition of cooperative association and inserted second sentence in par. “Third”.
 
-1933—Subsec. (a). Act June 16, 1933, among other changes, inserted proviso and all subsequent thereto.
+<b>1933</b>—Subsec. (a). Act June 16, 1933, among other changes, inserted proviso and all subsequent thereto.
 
-1931—Subsec. (g). Act Mar. 4, 1931, added subsec. (g).
+<b>1931</b>—Subsec. (g). Act Mar. 4, 1931, added subsec. (g).
 
 #### Change of Name
 

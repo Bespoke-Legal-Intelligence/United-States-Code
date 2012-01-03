@@ -56,7 +56,7 @@ This section consolidates section 223 of title 28, U.S.C., 1940 ed., with part o
 
 Reference to San Juan as a place for holding court in the First Circuit was omitted. The revised section will permit the holding of terms at San Juan when the public interest requires.
 
-The phrase “and at such other places within the respective circuits as may be designated by rule of court” was added to enable each court of appeals to hold suchadditional regular terms as changing circumstances might require.
+The phrase “and at such other places within the respective circuits as may be designated by rule of court” was added to enable each court of appeals to hold such additional regular terms as changing circumstances might require.
 
 The provisions of such section 223, for furnishing suitable rooms and accommodation at Oakland City, were omitted as obsolete since the erection of a new Federal building there.
 

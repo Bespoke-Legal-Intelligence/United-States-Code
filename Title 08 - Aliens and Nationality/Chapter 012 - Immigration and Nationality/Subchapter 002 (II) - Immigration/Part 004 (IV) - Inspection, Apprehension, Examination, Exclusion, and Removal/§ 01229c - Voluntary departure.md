@@ -14,7 +14,7 @@
 
 #### (B) Three-year pilot program waiver
 
-&emsp;&emsp;During the period October 1, 2000, through September 30, 2003, and subject to subparagraphs (C) and (D)(ii), the Attorney General may, in the discretion of the Attorney General for humanitarian purposes, waive application of subparagraph (A) in the case of an alien—
+&emsp;&emsp;During the period October 1, 2000, through September 30, 2003, and subject to subparagraphs (C) and (D)(ii), the Attorney Generalmay, in the discretion of the Attorney General for humanitarian purposes, waive application of subparagraph (A) in the case of an alien—
 
 &emsp;&emsp;&emsp;(i) who was admitted to the United States as a nonimmigrant visitor (described in section 1101(a)(15)(B) of this title) under the provisions of the visa waiver pilot program established pursuant to section 1187 of this title, seeks the waiver for the purpose of continuing to receive medical treatment in the United States from a physician associated with a health care facility, and submits to the Attorney General—
 
@@ -82,7 +82,7 @@
 
 #### (c) Aliens not eligible
 
-The Attorney General shall not permit an alien to depart voluntarily under this section if the alien was previously permitted to so depart after having been found inadmissible under section 1182(a)(6)(A) of this title.
+The Attorney General shall not permit an alien to depart voluntarily under this section ifthe alien was previously permitted to so depart after having been found inadmissible under section 1182(a)(6)(A) of this title.
 
 #### (d) Civil penalty for failure to depart
 
@@ -118,9 +118,9 @@ Section 1254 of this title, referred to in subsec. (d)(2), was repealed by Pub. 
 
 #### Amendments
 
-2006—Subsec. (d). Pub. L. 109–162 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “If an alien is permitted to depart voluntarily under this section and fails voluntarily to depart the United States within the time period specified, the alien shall be subject to a civil penalty of not less than $1,000 and not more than $5,000, and be ineligible for a period of 10 years for any further relief under this section and sections 1229b, 1255, 1258, and 1259 of this title. The order permitting the alien to depart voluntarily shall inform the alien of the penalties under this subsection.”
+<b>2006</b>—Subsec. (d). Pub. L. 109–162 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “If an alien is permitted to depart voluntarily under this section and fails voluntarily to depart the United States within the time period specified, the alien shall be subject to a civil penalty of not less than $1,000 and not more than $5,000, and be ineligible for a period of 10 years for any further relief under this section and sections 1229b, 1255, 1258, and 1259 of this title. The order permitting the alien to depart voluntarily shall inform the alien of the penalties under this subsection.”
 
-2000—Subsec. (a)(2). Pub. L. 106–406 amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “Permission to depart voluntarily under this subsection shall not be valid for a period exceeding 120 days.”
+<b>2000</b>—Subsec. (a)(2). Pub. L. 106–406 amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “Permission to depart voluntarily under this subsection shall not be valid for a period exceeding 120 days.”
 
 #### Effective Date
 

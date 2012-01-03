@@ -126,7 +126,7 @@ A prior section 1508a, act Feb. 16, 1938, ch. 30, title V, §508A, as added Aug.
 
 #### Amendments
 
-2008—Pub. L. 110–246, §12033(c)(2)(B), substituted “this subchapter” for “this chapter” wherever appearing.
+<b>2008</b>—Pub. L. 110–246, §12033(c)(2)(B), substituted “this subchapter” for “this chapter” wherever appearing.
 
 #### Effective Date of 2008 Amendment
 

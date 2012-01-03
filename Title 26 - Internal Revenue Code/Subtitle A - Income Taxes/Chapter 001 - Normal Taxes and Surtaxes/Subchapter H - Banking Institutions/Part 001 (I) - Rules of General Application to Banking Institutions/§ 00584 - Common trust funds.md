@@ -12,7 +12,7 @@ For purposes of this subtitle, the term “common trust fund” means a fund mai
 
 &emsp;&emsp;&emsp;(i) which the Secretary determines are established pursuant to a State law which is substantially similar to the Uniform Gifts to Minors Act as published by the American Law Institute, and
 
-&emsp;&emsp;&emsp;(ii) with respect to which the bank establishes, to the satisfaction of the Secretary, that it has duties and responsibilitiessimilar to duties and responsibilities of a trustee or guardian; and
+&emsp;&emsp;&emsp;(ii) with respect to which the bank establishes, to the satisfaction of the Secretary, that it has duties and responsibilities similar to duties and responsibilities of a trustee or guardian; and
 
 &emsp;(2) in conformity with the rules and regulations, prevailing from time to time, of the Board of Governors of the Federal Reserve System or the Comptroller of the Currency pertaining to the collective investment of trust funds by national banks.
 
@@ -86,7 +86,7 @@ The benefit of the deduction for net operating losses provided by section 172 sh
 
 #### (A) In general
 
-&emsp;&emsp;In determining whether the transfer referred to in paragraph (1)(A) is in exchangesolely for stock in one or more regulated investment companies, the assumption by any such company of a liability of the common trust fund shall be disregarded.
+&emsp;&emsp;In determining whether the transfer referred to in paragraph (1)(A) is in exchange solely for stock in one or more regulated investment companies, the assumption by any such company of a liability of the common trust fund shall be disregarded.
 
 #### (B) Special rule where assumed liabilities exceed basis
 
@@ -118,7 +118,7 @@ The benefit of the deduction for net operating losses provided by section 172 sh
 
 For purposes of this subtitle, the taxable year of any common trust fund shall be the calendar year.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 203; Pub. L. 87–722, §4, Sept. 28, 1962, 76 Stat. 670; Pub. L. 88–272, title II, §201(d)(5), Feb. 26, 1964, 78 Stat. 32; Pub. L. 94–414, §1, Sept. 17, 1976, 90 Stat. 1273; Pub. L. 94–455, title XIV, §1402(b)(1)(H), (2), title XIX, §§1901(b)(1)(G), 1906(b)(13)(A), title XXI, §§2131(d), 2138, Oct. 4, 1976, 90 Stat. 1732, 1790, 1834, 1924, 1932; Pub. L. 95–30, title I, §101(d)(7), May 23, 1977, 91 Stat. 133; Pub. L. 96–223, title IV, §404(b)(3), Apr. 2, 1980, 94 Stat. 306; Pub. L. 97–34, title III, §301(b)(3), (6)(A), Aug. 13, 1981, 95 Stat. 270; Pub. L. 97–448, title I, §103(a)(2), Jan. 12, 1983, 96 Stat. 2375; Pub. L. 98–369, div. A, title X, §1001(b)(7), (e), July 18, 1984, 98 Stat. 1011, 1012; Pub. L. 99–514, title VI, §612(b)(2), Oct. 22, 1986, 100 Stat. 2250; Pub. L. 100–647, title I, §1008(e)(5)(A), Nov. 10, 1988, 102 Stat. 3440; Pub. L. 104–188, title I, §1805(a), Aug. 20, 1996, 110 Stat. 1894; Pub. L. 106–36, title III, §3001(c)(1), June 25, 1999, 113 Stat. 183; Pub. L. 108–27, title III, §302(e)(7), May 28, 2003, 117 Stat. 764.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 203; Pub. L. 87–722, §4, Sept. 28, 1962, 76 Stat. 670; Pub. L. 88–272, title II, §201(d)(5), Feb. 26, 1964, 78 Stat. 32; Pub. L. 94–414, §1, Sept. 17, 1976, 90 Stat. 1273;Pub. L. 94–455, title XIV, §1402(b)(1)(H), (2), title XIX, §§1901(b)(1)(G), 1906(b)(13)(A), title XXI, §§2131(d), 2138, Oct. 4, 1976, 90 Stat. 1732, 1790, 1834, 1924, 1932; Pub. L. 95–30, title I, §101(d)(7), May 23, 1977, 91 Stat. 133; Pub. L. 96–223, title IV, §404(b)(3), Apr. 2, 1980, 94 Stat. 306; Pub. L. 97–34, title III, §301(b)(3), (6)(A), Aug. 13, 1981, 95 Stat. 270; Pub. L. 97–448, title I, §103(a)(2), Jan. 12, 1983, 96 Stat. 2375; Pub. L. 98–369, div. A, title X, §1001(b)(7), (e), July 18, 1984, 98 Stat. 1011, 1012; Pub. L. 99–514, title VI, §612(b)(2), Oct. 22, 1986, 100 Stat. 2250; Pub. L. 100–647, title I, §1008(e)(5)(A), Nov. 10, 1988, 102 Stat. 3440; Pub. L. 104–188, title I, §1805(a), Aug. 20, 1996, 110 Stat. 1894; Pub. L. 106–36, title III, §3001(c)(1), June 25, 1999, 113 Stat. 183; Pub. L. 108–27, title III, §302(e)(7), May 28, 2003, 117 Stat. 764.)
 
 #### Amendment of Section
 

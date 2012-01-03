@@ -16,5 +16,5 @@ Section was not enacted as part of the Bankhead-Jones Farm Tenant Act, which con
 
 #### Amendments
 
-1972—Pub. L. 92–419 authorized loans to desertland entrymen and provided for first repayment installment of a loan to an entryman under the desertland laws.
+<b>1972</b>—Pub. L. 92–419 authorized loans to desertland entrymen and provided for first repayment installment of a loan to an entryman under the desertland laws.
 

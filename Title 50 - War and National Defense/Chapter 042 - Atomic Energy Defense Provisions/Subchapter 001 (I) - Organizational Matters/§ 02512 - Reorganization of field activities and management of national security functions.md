@@ -2,7 +2,7 @@
 
 #### (a) Limitation on delegation of authority
 
-(1) The Secretary of Energy, in carrying out national security programs, may delegate specific management and planning authority over matters relating to site operation of the facilities and laboratories covered by this section only to the Assistant Secretary of Energy for Defense Programs. Such Assistant Secretary may redelegate such authority only to managers of area offices of the Department of Energy located at such facilities and laboratories.
+(1) The Secretary of Energy, in carrying out national security programs, may delegate specific management and planning authority over matters relating to site operation of the facilities and laboratories covered by this section only to the Assistant Secretary of Energy forDefense Programs. Such Assistant Secretary may redelegate such authority only to managers of area offices of the Department of Energy located at such facilities and laboratories.
 
 (2) Nothing in this section may be construed as affecting the delegation by the Secretary of Energy of authority relating to reporting, management, and oversight of matters relating to the Department of Energy generally, or safety, environment, and health at such facilities and laboratories.
 

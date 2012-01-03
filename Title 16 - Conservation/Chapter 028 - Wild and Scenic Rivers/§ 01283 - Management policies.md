@@ -18,7 +18,7 @@ The head of any agency administering a component of the national wild and scenic
 
 <b>1986</b>—Subsec. (c). Pub. L. 99–590 substituted “Administrator, Environmental Protection Agency” for “Secretary of the Interior”.
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–625 substituted provision for action to be taken by Secretaries and heads of agencies for prior provision for review by such officials, made provision applicable to rivers included within the System, included references to rivers covered in sections 1273(a)(ii) and 1274(a) of this title, and required cooperative agreements with appropriate State or local officials for planning, administration, and management of Federal lands within boundaries of rivers approved under section 1273(a)(ii) of this title.
+<b>1978</b>—Subsec. (a). Pub. L. 95–625 substituted provision for action to be taken by Secretaries and heads of agencies for prior provision for review by such officials,made provision applicable to rivers included within the System, included references to rivers covered in sections 1273(a)(ii) and 1274(a) of this title, and required cooperative agreements with appropriate State or local officials for planning, administration, and management of Federal lands within boundaries of rivers approved under section 1273(a)(ii) of this title.
 
 #### Transfer of Functions
 

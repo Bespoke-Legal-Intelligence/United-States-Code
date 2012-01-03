@@ -42,7 +42,7 @@ A prior section 4681, added Pub. L. 96–510, title II, §231(a), Dec. 11, 1980,
 
 #### Amendments
 
-<b>1997</b>—Subsec. (b)(1)(B). Pub. L. 105–34 added subpar. (B) and struck out heading and text of former subpar.\(B). Text read as follows: “The base tax amount for purposes of subparagraph (A) with respect to any sale or use during a calendar year before 1996 with respect to any ozone-depleting chemical is the amount determined under the following table for such calendar year:
+<b>1997</b>—Subsec. (b)(1)(B). Pub. L. 105–34 added subpar. (B) and struck out heading and text of former subpar. (B). Text read as follows: “The base tax amount for purposes of subparagraph (A) with respect to any sale or use during a calendar year before 1996 with respect to any ozone-depleting chemical is the amount determined under the following table for such calendar year:
 
 <b> </b>
 

@@ -68,7 +68,7 @@ This chapter, referred to in text, was in the original “this Act”, and was t
 
 Section 6805 of this title, referred to in subsec. (b), was in the original a reference to section 6, and was translated as meaning section 806 of title VIII of div. J of Pub. L. 108–447, to reflect the probable intent of Congress.
 
-The Act of August 8, 1937, referred to in subsec. (b)(5), probably means act Aug. 28, 1937, ch. 876, 50 Stat. 874, as amended. Title II of the Act enacted section 1181f of Title 43, Public Lands, and repealed section 1174 of Title 43. For complete classification of this Act to the Code, see Tables.
+The Act of August 8, 1937, referred to in subsec. (b)(5), probably means act Aug. 28, 1937, ch. 876, 50 Stat. 874,as amended. Title II of the Act enacted section 1181f of Title 43, Public Lands, and repealed section 1174 of Title 43. For complete classification of this Act to the Code, see Tables.
 
 The Act of May 24, 1939, referred to in subsec. (b)(5), is act May 24, 1939, ch. 144, 53 Stat. 753, which enacted sections 1181f–1 to 1181f–4 of Title 43, Public Lands, and provisions set out as a note under section 1181f–1 of Title 43. For complete classification of this Act to the Code, see Tables.
 

@@ -2,11 +2,11 @@
 
 #### (a) Monthly fees
 
-The Director of each facility of the Retirement Home shall collect a monthly fee from each resident of that facility.
+The Administrator of each facility of the Retirement Home shall collect a monthly fee from each resident of that facility.
 
 #### (b) Deposit of fees
 
-The Directors shall deposit fees collected under subsection (a) of this section in the Armed Forces Retirement Home Trust Fund.
+The Administrators shall deposit fees collected under subsection (a) of this section in the Armed Forces Retirement Home Trust Fund.
 
 #### (c) Fixing fees
 
@@ -14,39 +14,23 @@ The Directors shall deposit fees collected under subsection (a) of this section 
 
 (2) The fee shall be fixed as a percentage of the monthly income and monthly payments (including Federal payments) received by a resident. The percentage shall be the same for each facility of the Retirement Home. The Secretary of Defense may make any adjustment in a percentage that the Secretary determines appropriate.
 
-(3) The fee shall be subject to a limitation on maximum monthly amount. The amount of the limitation shall be increased, effective on January 1 of each year, by the percentage of the increase in retired pay and retainer pay that takes effect on the preceding December 1 under subsection (b) of section 1401a of title 10 without regard to paragraph (3) of such subsection. The first increase in a limitation on maximum monthly amount shall take effect on January 1, 2003.
+(3) The fee shall be subject to a limitation on maximum monthly amount. The amount of the limitation shall be increased, effective on January 1 of each year, by the percentage of the increase in retired pay and retainer pay that takes effect on the preceding December 1 under subsection (b) of section 1401a of title 10 without regard to paragraph (3) of such subsection.
 
-#### (d) Transitional fee structures
-
-(1) Until different fees are prescribed and take effect under subsection (c) of this section, the percentages and limitations on maximum monthly amount that are applicable to fees charged residents of the Retirement Home are (subject to any adjustment that the Secretary of Defense determines appropriate) as follows:
-
-&emsp;(A) For months beginning before January 1, 2002—
-
-&emsp;&emsp;(i) for a permanent health care resident, 65 percent (without limitation on maximum monthly amount); and
-
-&emsp;&emsp;(ii) for a resident who is not a permanent health care resident, 40 percent (without limitation on maximum monthly amount).
-
-&emsp;(B) For months beginning after December 31, 2001—
-
-&emsp;&emsp;(i) for an independent living resident, 35 percent, but not to exceed $1,000 each month;
-
-&emsp;&emsp;(ii) for an assisted living resident, 40 percent, but not to exceed $1,500 each month; and
-
-&emsp;&emsp;(iii) for a long-term care resident, 65 percent, but not to exceed $2,500 each month.
-
-(2) Notwithstanding the limitations on maximum monthly amount prescribed under subsection (c) of this section or set forth in paragraph (1)(B), until the earlier of December 31, 2006, or the date on which an independent living resident or assisted living resident of the Armed Forces Retirement Home—Gulfport occupies a renovated room at that facility, as determined by the Secretary of Defense, the limitation on maximum monthly amount applicable to the resident for months beginning after December 31, 2001, shall be—
-
-&emsp;(A) in the case of an independent living resident, $800; and
-
-&emsp;(B) in the case of an assisted living resident, $1,300.
-
-(Pub. L. 101–510, div. A, title XV, §1514, Nov. 5, 1990, 104 Stat. 1725; Pub. L. 103–337, div. A, title III, §371(b), Oct. 5, 1994, 108 Stat. 2735; Pub. L. 107–107, div. A, title XIV, §1405(b), Dec. 28, 2001, 115 Stat. 1261.)
+(Pub. L. 101–510, div. A, title XV, §1514, Nov. 5, 1990, 104 Stat. 1725; Pub. L. 103–337, div. A, title III, §371(b), Oct. 5, 1994, 108 Stat. 2735; Pub. L. 107–107, div. A, title XIV, §1405(b), Dec. 28, 2001, 115 Stat. 1261; Pub. L. 112–81, div. A, title V, §§564(b), 565, Dec. 31, 2011, 125 Stat. 1424.)
 
 #### Amendments
 
+<b>2011</b>—Subsec. (a). Pub. L. 112–81, §564(b)(1), substituted “Administrator” for “Director”.
+
+Subsec. (b). Pub. L. 112–81, §564(b)(2), substituted “Administrators” for “Directors”.
+
+Subsec. (c)(3). Pub. L. 112–81, §565(a), struck out at end “The first increase in a limitation on maximum monthly amount shall take effect on January 1, 2003.”
+
+Subsec. (d). Pub. L. 112–81, §565(b), struck out subsec. (d) which related to transitional fee structures.
+
 <b>2001</b>—Pub. L. 107–107 reenacted section catchline without change and amended text generally, substituting present provisions for provisions relating to collection of monthly fees in subsec. (a), deposit of fees in subsec. (b), fixing fees in subsec. (c), and application of fees in subsec. (d).
 
-<b>1994</b>—Subsec. (c)(2). Pub. L. 103–337, §371(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The fee shall be fixed as a percentage of Federal payments made to a resident, including monthly retired or retainer pay, monthly civil service annuity, monthly compensation or pension paid to the resident by the Secretary of Veterans Affairs, and Social Security payments. Residents who do not receive such Federal payments shall be required to pay a monthly fee that is equivalent to the average monthly fee paid by residents who receive Federal payments, subject to such adjustments in the fee as the Retirement Home Board may make. The percentage shall be the same for each establishment of the Retirement Home.”
+<b>1994</b>—Subsec. (c)(2). Pub. L. 103–337, §371(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The fee shall be fixed as a percentage of Federal payments made to a resident, including monthly retired or retainer pay, monthly civil service annuity, monthly compensation or pension paid to the resident by the Secretary of Veterans Affairs, and Social Security payments. Residents who do not receive suchFederal payments shall be required to pay a monthly fee that is equivalent to the average monthly fee paid by residents who receive Federal payments, subject to such adjustments in the fee as the Retirement Home Board may make. The percentage shall be the same for each establishment of the Retirement Home.”
 
 Subsec. (d). Pub. L. 103–337, §371(b)(2), added subsec. (d) and struck out former subsec. (d) which specified fees to be paid by residents of the Naval Home and residents of the United States Soldiers’ and Airmen's Home who became residents of the Retirement Home on the effective date specified in section 1541(a) of Pub. L. 101–510.
 

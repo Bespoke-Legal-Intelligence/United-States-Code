@@ -94,7 +94,7 @@ Pub. L. 106–517, §2, Nov. 13, 2000, 114 Stat. 2407, provided that: “Congres
 
 &emsp;“(2) according to studies, between 1985 and 1994, 709 law enforcement officers in the United States were killed in the line of duty;
 
-&emsp;“(3) the Federal Bureau of Investigation estimates that the risk of fatality to law enforcement officers while not wearing an armor vest is 14 times higher than for officers wearing an armor vest;
+&emsp;“(3) the Federal Bureau of Investigation estimates that the risk of fatality to law enforcement officerswhile not wearing an armor vest is 14 times higher than for officers wearing an armor vest;
 
 &emsp;“(4) according to studies, between 1985 and 1994, bullet-resistant materials helped save the lives of more than 2,000 law enforcement officers in the United States; and
 

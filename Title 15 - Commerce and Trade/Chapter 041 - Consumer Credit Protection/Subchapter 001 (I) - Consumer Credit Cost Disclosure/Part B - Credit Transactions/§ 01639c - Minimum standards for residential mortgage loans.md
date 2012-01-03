@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(B) The refinancing does not increase the principal balance outstanding on the prior existing residential mortgage loan, except to the extent of fees and charges allowed by the department or agency making, guaranteeing, or insuring the refinancing.
 
-&emsp;&emsp;(C) Total points and fees (as defined in section 1602(aa)(4) of this title, other than bona fide third party charges not retained by the mortgage originator, creditor, or an affiliateof the creditor or mortgage originator) payable in connection with the refinancing do not exceed 3 percent of the total new loan amount.
+&emsp;&emsp;(C) Total points and fees (as defined in section 1602(aa)(4) <sup>1</sup> of this title, other than bona fide third party charges not retained by the mortgage originator, creditor, or an affiliate of the creditor or mortgage originator) payable in connection with the refinancing do not exceed 3 percent of the total new loan amount.
 
 &emsp;&emsp;(D) The interest rate on the refinanced loan is lower than the interest rate of the original loan, unless the borrower is refinancing from an adjustable rate to a fixed-rate loan, under guidelines that the department or agency shall establish for loans they make, guarantee, or issue.
 
@@ -90,7 +90,7 @@
 
 #### (1) In general
 
-&emsp;Any creditor with respect to any residential mortgage loan, and any assignee of such loansubject to liability under this subchapter, may presume that the loan has met the requirements of subsection (a), if the loan is a qualified mortgage.
+&emsp;Any creditor with respect to any residential mortgage loan, and any assignee of such loan subject to liability under this subchapter, may presume that the loan has met the requirements of subsection (a), if the loan is a qualified mortgage.
 
 #### (2) Definitions
 
@@ -124,13 +124,13 @@
 
 #### (B) Average prime offer rate
 
-&emsp;&emsp;The term “average prime offer rate” means the average prime offer rate for a comparable transaction as of the date on which the interest rate for the transaction is set, as published by the Bureau..<sup>1</sup>
+&emsp;&emsp;The term “average prime offer rate” means the average prime offer rate for a comparable transaction as of the date on which the interest rate for the transaction is set, as published by the Bureau..<sup>2</sup>
 
 #### (C) Points and fees
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For purposes of subparagraph (A), the term “points and fees” means points and fees as defined by section 1602(aa)(4) of this title (other than bona fide third party charges not retained by the mortgage originator, creditor, or an affiliate of the creditor or mortgage originator).
+&emsp;&emsp;&emsp;For purposes of subparagraph (A), the term “points and fees” means points and fees as defined by section 1602(aa)(4) <sup>1</sup> of this title (other than bona fide third party charges not retained by the mortgage originator, creditor, or an affiliate of the creditor or mortgage originator).
 
 #### (ii) Computation
 
@@ -192,7 +192,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) The Department of Veterans Affairs, with regard to a loan made or guaranteed by the Secretary of Veterans Affairs.
 
-&emsp;&emsp;&emsp;&emsp;(III) The Department of Agriculture, with regard <sup>2</sup> loans guaranteed by the Secretary of Agriculture pursuant to section 1472(h) of title 42.
+&emsp;&emsp;&emsp;&emsp;(III) The Department of Agriculture, with regard <sup>3</sup> loans guaranteed by the Secretary of Agriculture pursuant to section 1472(h) of title 42.
 
 &emsp;&emsp;&emsp;&emsp;(IV) The Rural Housing Service, with regard to loans insured by the Rural Housing Service.
 
@@ -226,7 +226,7 @@
 
 &emsp;&emsp;(B) may publish multiple rates based on varying types of mortgage transactions; and
 
-&emsp;&emsp;(C) shall adjust the thresholds established under subclause (I), (II), and (III) of paragraph (1)(B)(ii) as necessary to reflect significant changes in market conditions andto effectuate the purposes of the Mortgage Reform and Anti-Predatory Lending Act.
+&emsp;&emsp;(C) shall adjust the thresholds established under subclause (I), (II), and (III) of paragraph (1)(B)(ii) as necessary to reflect significant changes in market conditions and to effectuate the purposes of the Mortgage Reform and Anti-Predatory Lending Act.
 
 #### (3) Phased-out penalties on qualified mortgages
 
@@ -286,7 +286,7 @@ No creditor may extend credit to a borrower in connection with a consumer credit
 
 #### (1) Definition
 
-&emsp;For purposes of this subsection, the term “anti-deficiency law” means the law of anyState which provides that, in the event of foreclosure on the residential property of a consumer securing a mortgage, the consumer is not liable, in accordance with the terms and limitations of such State law, for any deficiency between the sale price obtained on such property through foreclosure and the outstanding balance of the mortgage.
+&emsp;For purposes of this subsection, the term “anti-deficiency law” means the law of any State which provides that, in the event of foreclosure on the residential property of a consumer securing a mortgage, the consumer is not liable, in accordance with the terms and limitations of such State law, for any deficiency between the sale price obtained on such property through foreclosure and the outstanding balance of the mortgage.
 
 #### (2) Notice at time of consummation
 
@@ -311,6 +311,8 @@ This section and any regulations promulgated under this section do not apply to 
 (Pub. L. 90–321, title I, §129C, as added and amended Pub. L. 111–203, title X, §1100A(2), title XIV, §§1411(a)(2), 1412, 1414(a), (c), (d), July 21, 2010, 124 Stat. 2107, 2142, 2145, 2149, 2152.)
 
 #### References in Text
+
+Section 1602(aa)(4) of this title, referred to in subsecs. (a)(5)(C) and (b)(2)(C)(i), was redesignated section 1602(bb)(4) of this title by Pub. L. 111–203, title X, §1100A(1)(A), July 21, 2010, 124 Stat. 2107.
 
 This part, referred to in subsec. (b)(2)(E)(iv)(IV), was in the original “this subtitle”, and was translated as reading “this chapter”, meaning chapter 2 of title I of Pub. L. 90–321, to reflect the probable intent of Congress. Title I of Pub. L. 90–321 does not contain subtitles.
 
@@ -346,7 +348,9 @@ Pub. L. 111–203, title XIV, §1411(a)(1), July 21, 2010, 124 Stat. 2142, provi
 
 \[For definitions of “Bureau” and “depository institution” as used in section 1411(a)(1) of Pub. L. 111–203, set out above, see section 5301 of Title 12, Banks and Banking.\]
 
-<i><sup>1</sup></i><i> So in original.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be followed by “to”.</i>
+<i><sup>2</sup></i><i> So in original.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be followed by “to”.</i>
 

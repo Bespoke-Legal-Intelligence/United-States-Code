@@ -4,11 +4,11 @@
 
 &emsp;(1) solutions to immediate and short-term (the period up to 5 years after submission of the plan or its annual revision) energy supply system and associated environmental problems;
 
-&emsp;(2) solutions to middle-term (the period from 5 years to 10 years after submission of the plan or its annual revision) energy supply system and associated environmental problems; and
+&emsp;(2) solutions to middle-term (the period from 5 years to 10 years after submission of the planor its annual revision) energy supply system and associated environmental problems; and
 
 &emsp;(3) solutions to long-term (the period beyond 10 years after submission of the plan or its annual revision) energy supply system and associated environmental problems.
 
-(b)(1) Based on the comprehensive energy research, development, and demonstration plan developed under subsection (a) of this section, the Secretary, in consultation with the AdvisoryBoard established under section 2302 of the Energy Policy Act of 1992 \[42 U.S.C. 13522\], shall develop and transmit to the Congress, on or before June 30, 1975, a comprehensive nonnuclear energy research, development, and demonstration program to implement the nonnuclear research, development, and demonstration aspects of the comprehensive plan. Such program shall be updated and transmitted to the Congress annually as part of the report required under section 5914 <sup>1</sup> of this title.
+(b)(1) Based on the comprehensive energy research, development, and demonstration plan developed under subsection (a) of this section, the Secretary, in consultation with the Advisory Board established under section 2302 of the Energy Policy Act of 1992 \[42 U.S.C. 13522\], shall develop and transmit to the Congress, on or before June 30, 1975, a comprehensive nonnuclear energy research, development, and demonstration program to implement the nonnuclear research, development, and demonstration aspects of the comprehensive plan. Such program shall be updated and transmitted to the Congress annually as part of the report required under section 5914 <sup>1</sup> of this title.
 
 (2) This program shall be designed to achieve solutions to the energy supply and associated environmental problems in the immediate and short-term, middle-term, and long-term time intervals described in subsection (a)(1) through (3) of this section. In formulating the nonnuclear aspects of this program, the Secretary, in consultation with the Advisory Board established under section 2302 of the Energy Policy Act of 1992 \[42 U.S.C. 13522\], shall evaluate the economic, environmental, and technological merits of each aspect of the program.
 

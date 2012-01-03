@@ -46,7 +46,7 @@ Of the amounts allocated under subsection (a) of this section—
 
 #### (2) Remaining amounts
 
-&emsp;Except as provided in subsection (e)(1) of this section, any amounts remaining after theallocation required by paragraph (1) shall be made available to units of local government by the State for the purposes described in section 3751 of this title.
+&emsp;Except as provided in subsection (e)(1) of this section, any amounts remaining after the allocation required by paragraph (1) shall be made available to units of local government by the State for the purposes described in section 3751 of this title.
 
 #### (d) Allocations to local governments
 
@@ -62,7 +62,7 @@ Of the amounts allocated under subsection (a) of this section—
 
 #### (B) Transitional rule
 
-&emsp;&emsp;Notwithstanding subparagraph (A), for fiscal years 2006, 2007, and 2008, the Attorney General shall allocate the local amount to units of local government in the same manner that, under the Local Government Law Enforcement Block Grants program in effect immediately before January 5, 2006, the reserved amount was allocated among reporting and nonreporting units of local government.
+&emsp;&emsp;Notwithstanding subparagraph (A), for fiscal years 2006, 2007, and 2008, the AttorneyGeneral shall allocate the local amount to units of local government in the same manner that, under the Local Government Law Enforcement Block Grants program in effect immediately before January 5, 2006, the reserved amount was allocated among reporting and nonreporting units of local government.
 
 #### (3) Annexed units
 
@@ -100,7 +100,7 @@ Of the amounts allocated under subsection (a) of this section—
 
 #### (f) Funds not used by the State
 
-If the Attorney General determines, on the basis of information available during any grant period, that any allocation (or portion thereof) under this section to a State for such grant period will not be required, or that a State will be unable to qualify or receive funds under this part, or that a State chooses not to participate in the program established under this part, thensuch State's allocation (or portion thereof) shall be awarded by the Attorney General to units of local government, or combinations thereof, within such State, giving priority to those jurisdictions with the highest annual number of part 1 violent crimes of the Uniform Crime Reports reported by the unit of local government to the Federal Bureau of Investigation for the three most recent calendar years for which such data are available.
+If the Attorney General determines, on the basis of information available during any grant period, that any allocation (or portion thereof) under this section to a State for such grant period will not be required, or that a State will be unable to qualify or receive funds under this part, or that a State chooses not to participate in the program established under this part, then such State's allocation (or portion thereof) shall be awarded by the Attorney General to units of local government, or combinations thereof, within such State, giving priority to those jurisdictions with the highest annual number of part 1 violent crimes of the Uniform Crime Reports reported by the unit of local government to the Federal Bureau of Investigation for the three most recent calendar years for which such data are available.
 
 #### (g) Special rules for Puerto Rico
 

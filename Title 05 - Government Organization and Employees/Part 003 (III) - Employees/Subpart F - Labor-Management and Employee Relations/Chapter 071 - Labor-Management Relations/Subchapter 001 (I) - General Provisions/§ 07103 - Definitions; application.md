@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(iii) a supervisor or a management official;
 
-&emsp;&emsp;(iv) an officer or employee in the Foreign Service of the United States employed in the Department of State, the International Communication Agency, the Agency forInternational Development, the Department of Agriculture, or the Department of Commerce; or
+&emsp;&emsp;(iv) an officer or employee in the Foreign Service of the United States employed in the Department of State, the International Communication Agency, the Agency for International Development, the Department of Agriculture, or the Department of Commerce; or
 
 &emsp;&emsp;(v) any person who participates in a strike in violation of section 7311 of this title;
 
@@ -70,7 +70,7 @@
 
 &emsp;&emsp;&emsp;(ii) any claimed violation, misinterpretation, or misapplication of any law, rule, or regulation affecting conditions of employment;
 
-&emsp;(10) “supervisor” means an individual employed by an agency having authority in the interest of the agency to hire, direct, assign, promote, reward, transfer, furlough, layoff, recall, suspend, discipline, or remove employees, to adjust their grievances, or to effectively recommend such action, if the exercise of the authority is not merely routine or clerical in nature but requires the consistent exercise of independent judgment, except that, with respect to any unit which includes firefighters or nurses, the term “supervisor” includes only those individuals who devote a preponderance of their employment time to exercising such authority;
+&emsp;(10) “supervisor” means an individual employed by an agency having authority in theinterest of the agency to hire, direct, assign, promote, reward, transfer, furlough, layoff, recall, suspend, discipline, or remove employees, to adjust their grievances, or to effectively recommend such action, if the exercise of the authority is not merely routine or clerical in nature but requires the consistent exercise of independent judgment, except that, with respect to any unit which includes firefighters or nurses, the term “supervisor” includes only those individuals who devote a preponderance of their employment time to exercising such authority;
 
 &emsp;(11) “management official” means an individual employed by an agency in a position the duties and responsibilities of which require or authorize the individual to formulate, determine, or influence the policies of the agency;
 
@@ -128,21 +128,21 @@
 
 #### Amendments
 
-2004—Subsec. (a)(3)(A). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (a)(3)(A). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-2000—Subsec. (a)(3)(H). Pub. L. 106–554 added subpar. (H).
+<b>2000</b>—Subsec. (a)(3)(H). Pub. L. 106–554 added subpar. (H).
 
-1998—Subsec. (a)(2)(B)(iv). Pub. L. 105–277 substituted “Agency for International Development” for “United States International Development Cooperation Agency”.
+<b>1998</b>—Subsec. (a)(2)(B)(iv). Pub. L. 105–277 substituted “Agency for International Development” for “United States International Development Cooperation Agency”.
 
 Subsec. (a)(3). Pub. L. 105–220, in introductory provisions, struck out “and” after “Library of Congress,” and inserted “and the Smithsonian Institution” after “Government Printing Office,”.
 
-1996—Subsec. (a)(3)(F) to (H). Pub. L. 104–201 inserted “or” at end of subpar. (F), substituted a period for “; or” at end of subpar. (G), and struck out subpar. (H) which read as follows: “the Central Imagery Office;”.
+<b>1996</b>—Subsec. (a)(3)(F) to (H). Pub. L. 104–201 inserted “or” at end of subpar. (F), substituted a period for “; or” at end of subpar. (G), and struck out subpar. (H) which read as follows: “the Central Imagery Office;”.
 
-1994—Subsec. (a)(3)(H). Pub. L. 103–359 added subpar. (H).
+<b>1994</b>—Subsec. (a)(3)(H). Pub. L. 103–359 added subpar. (H).
 
-1991—Subsec. (a)(3). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+<b>1991</b>—Subsec. (a)(3). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-1980—Subsec. (a)(2)(iv). Pub. L. 96–465 struck out “the Agency for International Development, or” after “Department of State,” and inserted “the United States International Development Cooperation Agency, the Department of Agriculture, or the Department of Commerce” after “Communication Agency”.
+<b>1980</b>—Subsec. (a)(2)(iv). Pub. L. 96–465 struck out “the Agency for International Development, or” after “Department of State,” and inserted “the United States International Development Cooperation Agency, the Department of Agriculture, or the Department of Commerce” after “Communication Agency”.
 
 #### Change of Name
 
@@ -162,7 +162,7 @@ Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provi
 
 #### Transfer of Functions
 
-For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security,and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Termination of Trust Territory of the Pacific Islands
 

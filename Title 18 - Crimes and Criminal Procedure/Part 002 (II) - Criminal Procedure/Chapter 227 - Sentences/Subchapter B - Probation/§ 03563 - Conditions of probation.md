@@ -26,7 +26,7 @@ Mandatory Conditions.—The court shall provide, as an explicit condition of a s
 
 &emsp;(9) that the defendant cooperate in the collection of a DNA sample from the defendant if the collection of such a sample is authorized pursuant to section 3 of the DNA Analysis Backlog Elimination Act of 2000.
 
-> If the court has imposed and ordered execution of a fine and placed the defendant on probation,payment of the fine or adherence to the court-established installment schedule shall be a condition of the probation.
+> If the court has imposed and ordered execution of a fine and placed the defendant on probation, payment of the fine or adherence to the court-established installment schedule shall be a condition of the probation.
 
 (b)
 
@@ -88,7 +88,7 @@ Written Statement of Conditions.—The court shall direct that the probation off
 
 (e)
 
-Results of Drug Testing.—The results of a drug test administered in accordance with subsection (a)(5) shall be subject to confirmationonly if the results are positive, the defendant is subject to possible imprisonment for such failure, and either the defendant denies the accuracy of such test or there is some other reason to question the results of the test. A defendant who tests positive may be detained pending verification of a positive drug test result. A drug test confirmation shall be a urine drug test confirmed using gas chromatography/mass spectrometry techniques or such test as the Director of the Administrative Office of the United States Courts after consultation with the Secretary of Health and Human Services may determine to be of equivalent accuracy. The court shall consider whether the availability of appropriate substance abuse treatment programs, or an individual's current or past participation in such programs, warrants an exception in accordance with United States Sentencing Commission guidelines from the rule of section 3565(b), when considering any action against a defendant who fails a drug test administered in accordance with subsection (a)(5).
+Results of Drug Testing.—The results of a drug test administered in accordance with subsection (a)(5) shall be subject to confirmation only if the results are positive, the defendant is subject to possible imprisonment for such failure, and either the defendant denies the accuracy of such test or there is some other reason to question the results of the test. A defendant who tests positive may be detained pending verification of a positive drug test result. A drug test confirmation shall be a urine drug test confirmed using gas chromatography/mass spectrometry techniques or such test as the Director of the Administrative Office of the United States Courts after consultation with the Secretary of Health and Human Services may determine to be of equivalent accuracy. The court shall consider whether the availability of appropriate substance abuse treatment programs, or an individual's current or past participation in such programs, warrants an exception in accordance with United States Sentencing Commission guidelines from the rule of section 3565(b), when considering any action against a defendant who fails a drug test administered in accordance with subsection (a)(5).
 
 (Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 1993; amended Pub. L. 99–646, §§11(a), 12(a), Nov. 10, 1986, 100 Stat. 3594; Pub. L. 100–182, §§10, 18, Dec. 7, 1987, 101 Stat. 1267, 1270; Pub. L. 100–690, title VII, §§7086, 7110, 7303(a)(1), 7305(a), Nov. 18, 1988, 102 Stat. 4408, 4419, 4464, 4465; Pub. L. 101–647, title XXXV, §3584, Nov. 29, 1990, 104 Stat. 4930; Pub. L. 102–521, §3, Oct. 25, 1992, 106 Stat. 3404; Pub. L. 103–322, title II, §20414(b), title XXVIII, §280002, title XXXII, §320921(b), Sept. 13, 1994, 108 Stat. 1830, 2096, 2130; Pub. L. 104–132, title II, §203, Apr. 24, 1996, 110 Stat. 1227; Pub. L. 104–208, div. C, title III, §§308(g)(10)(E), 374(b), Sept. 30, 1996, 110 Stat. 3009–625, 3009–647; Pub. L. 104–294, title VI, §601(k), Oct. 11, 1996, 110 Stat. 3501; Pub. L. 105–119, title I, §115(a)(8)(B)(i)–(iii), Nov. 26, 1997, 111 Stat. 2465; Pub. L. 106–546, §7(a), Dec. 19, 2000, 114 Stat. 2734; Pub. L. 107–273, div. B, title IV, §4002(c)(1), (e)(12), Nov. 2, 2002, 116 Stat. 1808, 1811; Pub. L. 109–248, title I, §141(d), title II, §210(a), July 27, 2006, 120 Stat. 603, 615; Pub. L. 110–406, §14(a), (c), Oct. 13, 2008, 122 Stat. 4294.)
 
@@ -108,7 +108,7 @@ For a prior section 3563, applicable to offenses committed prior to Nov. 1, 1987
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(2). Pub. L. 110–406, §14(a), substituted “(b)(2) or (b)(12), unless the court has imposed a fine under this chapter, or” for “(b)(2), (b)(3), or (b)(13),”.
+<b>2008</b>—Subsec. (a)(2). Pub. L. 110–406, §14(a), substituted “(b)(2) or (b)(12), unless the court has imposeda fine under this chapter, or” for “(b)(2), (b)(3), or (b)(13),”.
 
 Subsec. (b)(10). Pub. L. 110–406, §14(c), inserted “or supervised release” after “probation”.
 

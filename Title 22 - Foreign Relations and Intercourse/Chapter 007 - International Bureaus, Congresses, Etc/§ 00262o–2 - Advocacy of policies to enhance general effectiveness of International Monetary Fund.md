@@ -32,7 +32,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 &emsp;&emsp;(C) consideration of provisions in debt contracts that would foster dialogue and consultation between a sovereign debtor and its private creditors, and among those creditors;
 
-&emsp;&emsp;(D) consideration of extending the scope of the International Monetary Fund's policy onlending to members in arrears and of other policies so as to foster the dialogue and consultation referred to in subparagraph (C);
+&emsp;&emsp;(D) consideration of extending the scope of the International Monetary Fund's policy on lending to members in arrears and of other policies so as to foster the dialogue and consultation referred to in subparagraph (C);
 
 &emsp;&emsp;(E) intensified consideration of mechanisms to facilitate orderly workout mechanisms for countries experiencing debt or liquidity crises;
 
@@ -64,7 +64,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 &emsp;(13) Facilitate greater International Monetary Fund accountability and enhance International Monetary Fund self-evaluation by vigorously promoting review of the effectiveness of the Office of Internal Audit and Inspection and the Executive Board's external evaluation pilot program and, if necessary, the establishment of an operations evaluation department modeled on the experience of the International Bank for Reconstruction and Development, guided by such key principles as usefulness, credibility, transparency, and independence.
 
-&emsp;(14) Vigorously promote coordination with the International Bank for Reconstruction and Development and other international financial institutions (as defined in section 262r(c)(2) of this title) in promoting structural reforms which facilitate the provision of credit to small businesses, including microenterprise lending, especially in the world's poorest, heavily indebted countries.
+&emsp;(14) Vigorously promote coordination with the International Bank for Reconstruction and Development and other international financial institutions (as defined in section 262r(c)(2) of this title) in promoting structural reforms which facilitate the provision of credit to small businesses, including microenterpriselending, especially in the world's poorest, heavily indebted countries.
 
 &emsp;(15) Work with the International Monetary Fund to—
 

@@ -38,7 +38,7 @@ In general.—This division does not apply—
 
 &emsp;(2)
 
-Applicability of certain laws related to advertising, opening of bids, and length of contract.—Sections 6101, 6103, and 6304 of this title do not apply to the procurement of property or services made by an executive agency pursuant to this division. However,when this division is made inapplicable by any law, sections 6101 and 6103 of this title apply in the absence of authority conferred by statute to procure without advertising or without regard to section 6101 of this title. A law that authorizes an executive agency (other than an executive agency exempted from this division by this subsection) to procure property or services without advertising or without regard to section 6101 of this title is deemed to authorize the procurement pursuant to the provisions of this division relating to procedures other than sealed-bid procedures.
+Applicability of certain laws related to advertising, opening of bids, and length of contract.—Sections 6101, 6103, and 6304 of this title do not apply to the procurement of property or services made by an executive agency pursuant to this division. However, when this division is made inapplicable by any law, sections 6101 and 6103 of this title apply in the absence of authority conferred by statute to procure without advertising or without regard to section 6101 of this title. A law that authorizes an executive agency (other than an executive agency exempted from this division by this subsection) to procure property or services without advertising or without regard to section 6101 of this title is deemed to authorize the procurement pursuant to the provisions of this division relating to procedures other than sealed-bid procedures.
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3742.)
 
@@ -132,7 +132,7 @@ Sec. 5. <i>Definitions</i>. For purposes of this Executive order:
 
 (c) “Qualified large business” means a large for-profit or not-for-profit trade or business that (1) employs a significant number of residents from the area of general economic distress; and (2) either has a significant physical presence in the area of general economic distress or has a direct impact on generating significant economic activity in the area of general economic distress.
 
-(d) “Qualified small business” means a small for-profit or not-for-profit trade or business that (1) employs asignificant number of residents from the area of general economic distress; (2) has a significant physical presence in the area of general economic distress; or (3) has a direct impact on generating significant economic activity in the area of general economic distress.
+(d) “Qualified small business” means a small for-profit or not-for-profit trade or business that (1) employs a significant number of residents from the area of general economic distress; (2) has a significant physical presence in the area of general economic distress; or (3) has a direct impact on generating significant economic activity in the area of general economic distress.
 
 (e) “Secretary” means the Secretary of Commerce.
 
@@ -176,7 +176,7 @@ I further direct the Director of OMB, in collaboration with the aforementioned o
 
 (4) clarify when governmental outsourcing for services is and is not appropriate, consistent with section 321 of Public Law 110–417 (31 U.S.C. 501 note).
 
-Executive departments and agencies shall carry out the provisions of this memorandum to the extent permitted by law. This memorandum is not intended to, and does not, create any right or benefit, substantiveor procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+Executive departments and agencies shall carry out the provisions of this memorandum to the extent permitted by law. This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 The Director of OMB is hereby authorized and directed to publish this memorandum in the Federal Register.
 

@@ -320,5 +320,5 @@ The plan also shall contain such terms and conditions, not inconsistent with thi
 
 #### Amendments
 
-1991—Subsec. (b)(8)(G). Pub. L. 102–237 substituted “subparagraphs (A), (B), and (C) of paragraph (3),” for “paragraph 3(A), (B), and (C),” and “subparagraphs (D) and (E) of paragraph (3)” for “paragraph (3)(D) and (E)”.
+<b>1991</b>—Subsec. (b)(8)(G). Pub. L. 102–237 substituted “subparagraphs (A), (B), and (C) of paragraph (3),” for “paragraph 3(A), (B), and (C),” and “subparagraphs (D) and (E) of paragraph (3)” for “paragraph (3)(D) and (E)”.
 

@@ -30,13 +30,13 @@ In purchasing commodities under subsection (a) of this section, the Secretary sh
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–246, §4201(a), reenacted subsec. heading without change, designated existing provisions as par. (1), inserted par. heading, substituted “for each of the fiscal years 2008 through 2012, the Secretary shall purchase a dollar amount described in paragraph (2)” for “for each of fiscal years 2002 through 2007, the Secretary shall purchase $140,000,000”, and added par. (2).
+<b>2008</b>—Subsec. (a). Pub. L. 110–246, §4201(a), reenacted subsec. heading without change, designated existing provisions as par. (1), inserted par. heading, substituted “for each of the fiscal years 2008 through 2012, the Secretary shall purchase a dollar amount described in paragraph (2)” for “for each of fiscal years 2002 through 2007, the Secretary shall purchase $140,000,000”, and added par. (2).
 
-2002—Subsec. (a). Pub. L. 107–171 substituted “2002 through 2007” for “1997 through 2002” and “$140,000,000” for “$100,000,000”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–171 substituted “2002 through 2007” for “1997 through 2002” and “$140,000,000” for “$100,000,000”.
 
 #### Effective Date of 2008 Amendment
 

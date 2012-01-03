@@ -32,7 +32,7 @@
 
 &emsp;&emsp;&emsp;(ii) the date of mailing of a determination described in clause (vi) of subparagraph (B),
 
-> &emsp;&emsp;an interested party who is a party to the proceeding in connection with which the matter arises may commence an action in the United States Court of International Trade by filing a summons, and within thirty days thereafter a complaint, each with the content and in the form, manner, and style prescribed by the rules of that court, contesting any factual findings or legal conclusions upon which the determination is based.
+> &emsp;&emsp;an interested party who is a party to the proceeding in connection with which thematter arises may commence an action in the United States Court of International Trade by filing a summons, and within thirty days thereafter a complaint, each with the content and in the form, manner, and style prescribed by the rules of that court, contesting any factual findings or legal conclusions upon which the determination is based.
 
 #### (B) Reviewable determinations
 
@@ -292,7 +292,7 @@ For purposes of this section—
 
 #### (ii) Subparagraph (B) actions
 
-&emsp;&emsp;&emsp;No claim shall be heard, and no temporary restraining order or temporary orpermanent injunction shall be issued, under an action commenced under subparagraph (B), unless the party seeking review first files an undertaking with adequate security in an amount to be fixed by the court sufficient to recompense parties affected for any loss, expense, or damage caused by the improvident or erroneous issuance of such order or injunction. If a court upholds the constitutionality of the determination in question in such action, the court shall award to a prevailing party fees and expenses, in addition to any costs incurred by that party, unless the court finds that the position of the other party was substantially justified or that special circumstances make an award unjust.
+&emsp;&emsp;&emsp;No claim shall be heard, and no temporary restraining order or temporary or permanent injunction shall be issued, under an action commenced under subparagraph (B), unless the party seeking review first files an undertaking with adequate security in an amount to be fixed by the court sufficient to recompense parties affected for any loss, expense, or damage caused by the improvident or erroneous issuance of such order or injunction. If a court upholds the constitutionality of the determination in question in such action, the court shall award to a prevailing party fees and expenses, in addition to any costs incurred by that party, unless the court finds that the position of the other party was substantially justified or that special circumstances make an award unjust.
 
 #### (G) Panel record
 
@@ -310,7 +310,7 @@ For purposes of this section—
 
 #### (B) General rule
 
-&emsp;&emsp;In the case of a determination for which binational panel review is requested pursuant to article 1904 of the NAFTA or of the Agreement, entries of merchandise covered by such determination shall be liquidated in accordance with the determination of the administering authority or the Commission, if they are entered, or withdrawn from warehouse, for consumption on or before the date of publication in the Federal Register by the administering authority of notice of a final decision of a binational panel, or of an extraordinary challenge committee, not in harmony with that determination. Such notice of a decision shall be published within 10 days of the date of the issuance of the panel or committee decision.
+&emsp;&emsp;In the case of a determination for which binational panel review is requested pursuant to article 1904 of the NAFTA or of theAgreement, entries of merchandise covered by such determination shall be liquidated in accordance with the determination of the administering authority or the Commission, if they are entered, or withdrawn from warehouse, for consumption on or before the date of publication in the Federal Register by the administering authority of notice of a final decision of a binational panel, or of an extraordinary challenge committee, not in harmony with that determination. Such notice of a decision shall be published within 10 days of the date of the issuance of the panel or committee decision.
 
 #### (C) Suspension of liquidation
 
@@ -350,7 +350,7 @@ For purposes of this section—
 
 #### (i) General rule
 
-&emsp;&emsp;&emsp;An interested party who was a party to the proceeding in which a determination is made may request binational panel review of such determination by filing a request with the United States Secretary by no later than the date that is 30 days after the date described in subparagraph (A), (B), or (E) of subsection (a)(5) of this section that is applicable to such determination. Receipt of such request by the United States Secretary shall be deemed to be a request for binational panel review within the meaning of article 1904(4) of the NAFTA or of the Agreement. Such request shall contain such information and be in such form, manner, and style as the administering authority, in consultation with the Commission, shall prescribe by regulations.
+&emsp;&emsp;&emsp;An interested party who was a party to the proceeding in which a determination is made may request binational panel review of such determination by filing a request with the United States Secretary by nolater than the date that is 30 days after the date described in subparagraph (A), (B), or (E) of subsection (a)(5) of this section that is applicable to such determination. Receipt of such request by the United States Secretary shall be deemed to be a request for binational panel review within the meaning of article 1904(4) of the NAFTA or of the Agreement. Such request shall contain such information and be in such form, manner, and style as the administering authority, in consultation with the Commission, shall prescribe by regulations.
 
 #### (ii) Suspension of time to request binational panel review under the NAFTA
 
@@ -442,7 +442,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(III) an interested party that was a party to the proceeding in connection with which panel review was requested, but only if the time for filing notices of appearance in the panel review has not expired.
 
-(June 17, 1930, ch. 497, title IV, §516A, as added Pub. L. 96–39, title X, §1001(a), July 26, 1979, 93 Stat. 300; amended Pub. L. 96–417, title VI, §§601(7), 608, Oct. 10, 1980, 94 Stat. 1744, 1745; Pub. L. 96–542, §2, Dec. 17, 1980, 94 Stat. 3210; Pub. L. 97–164, title I, §163(a)(2), Apr. 2, 1982, 96 Stat. 49;Pub. L. 98–573, title VI, §623(a), Oct. 30, 1984, 98 Stat. 3040; Pub. L. 99–514, title XVIII, §1888(6), Oct. 22, 1986, 100 Stat. 2925; Pub. L. 100–449, title IV, §401, Sept. 28, 1988, 102 Stat. 1878; Pub. L. 101–382, title I, §134(a)(3), Aug. 20, 1990, 104 Stat. 649; Pub. L. 103–182, title IV, §411, Dec. 8, 1993, 107 Stat. 2140; Pub. L. 103–465, title I, §129(e), title II, §§220(b), 270(a)(1)(N), 271(b), Dec. 8, 1994, 108 Stat. 4838, 4864, 4917, 4921; Pub. L. 104–295, §§20(a)(1), 21(c)(3), 22, Oct. 11, 1996, 110 Stat. 3526, 3530, 3531; Pub. L. 109–432, div. D, title III, §3002, Dec. 20, 2006, 120 Stat. 3173.)
+(June 17, 1930, ch. 497, title IV, §516A, as added Pub. L. 96–39, title X, §1001(a), July 26, 1979, 93 Stat. 300; amended Pub. L. 96–417, title VI, §§601(7), 608, Oct. 10, 1980, 94 Stat. 1744, 1745; Pub. L. 96–542, §2, Dec. 17, 1980, 94 Stat. 3210; Pub. L. 97–164, title I, §163(a)(2), Apr. 2, 1982, 96 Stat. 49; Pub. L. 98–573, title VI, §623(a), Oct. 30, 1984, 98 Stat. 3040; Pub. L. 99–514, title XVIII, §1888(6), Oct. 22, 1986, 100 Stat. 2925; Pub. L. 100–449, title IV, §401, Sept. 28, 1988, 102 Stat. 1878; Pub. L. 101–382, title I, §134(a)(3), Aug. 20, 1990, 104 Stat. 649; Pub. L. 103–182, title IV, §411, Dec. 8, 1993, 107 Stat. 2140; Pub. L. 103–465, title I, §129(e), title II, §§220(b), 270(a)(1)(N), 271(b), Dec. 8, 1994, 108 Stat. 4838, 4864, 4917, 4921; Pub. L. 104–295, §§20(a)(1), 21(c)(3), 22, Oct. 11, 1996, 110 Stat. 3526, 3530, 3531; Pub. L. 109–432, div. D, title III, §3002, Dec. 20, 2006, 120 Stat. 3173.)
 
 #### References in Text
 
@@ -522,7 +522,7 @@ Subsec. (g)(8)(A). Pub. L. 103–182, §411(4)(J), designated existing provision
 
 Subsec. (g)(8)(B)(ii). Pub. L. 103–182, §411(4)(K), substituted “relevant FTA Secretary” for “Canadian Secretary”.
 
-Subsec. (g)(8)(C). Pub. L. 103–182, §411(4)(L), substituted “of a determination under article 1904 of theNAFTA or the Agreement” for “under article 1904 of the Agreement of a determination”.
+Subsec. (g)(8)(C). Pub. L. 103–182, §411(4)(L), substituted “of a determination under article 1904 of the NAFTA or the Agreement” for “under article 1904 of the Agreement of a determination”.
 
 Subsec. (g)(9). Pub. L. 103–182, §411(4)(M), inserted “of the NAFTA or” after “chapter 19”.
 
@@ -628,7 +628,7 @@ Transitional Rules.—
 
 Certain protests, petitions, actions, etc.—The amendments made by this title \[enacting this section and amending sections 1514, 1515, and 1516 of this title and sections 1541, 1582, 2632, 2633, and 2637 of Title 28, Judiciary and Judicial Procedure\] shall not apply with respect to—
 
-&emsp;&emsp;“(A) any protest, petition, or notice of desire to contest filed before the effective date \[Jan. 1, 1980\] under section 514, 516(a), or 516(d), respectively, of the Tariff Act of 1930 \[section 1514, 1516(a), or 1516(d) of this title\];
+&emsp;&emsp;“(A) any protest, petition, or notice of desire to contest filed before the effective date \[Jan. 1, 1980\]under section 514, 516(a), or 516(d), respectively, of the Tariff Act of 1930 \[section 1514, 1516(a), or 1516(d) of this title\];
 
 &emsp;&emsp;“(B) any civil action commenced before the effective date \[Jan. 1, 1980\] under section 2632 of title 28 of the United States Code; or
 

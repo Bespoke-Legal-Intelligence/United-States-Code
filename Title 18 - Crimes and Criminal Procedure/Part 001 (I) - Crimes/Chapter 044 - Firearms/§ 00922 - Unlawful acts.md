@@ -888,9 +888,15 @@ Rule of construction.—Nothing in this paragraph shall be construed to bar a go
 
 #### Criminal Background Checks for Persons Offering Firearm as Collateral
 
-Pub. L. 106–58, title VI, §634, Sept. 29, 1999, 113 Stat. 473, provided that: “None of the funds made available in this or any other Act with respect to any fiscal year may be used for any system to implement section 922(t) of title 18, United States Code, unless the system allows, in connection with a person's delivery of a firearm to a Federal firearms licensee as collateral for a loan, the background check to be performed at the time the collateral is offered for delivery to such licensee: <i>Provided</i>, That the licensee notifies local law enforcement within 48 hours of the licensee receiving a denial on the person offering the collateral: <i>Provided further</i>, That the provisions of section 922(t) shall apply at the time of the redemption of the firearm.”
+Pub. L. 112–55, div. B, title V, §511, Nov. 18, 2011, 125 Stat. 632, provided that: “Hereafter, none of the funds appropriated pursuant to this Act \[div. B of Pub. L. 112–55, see Tables for classification\] or any other provision of law may be used for—
 
-Similar provisions were contained in the following prior appropriation act:
+&emsp;“(1) the implementation of any tax or fee in connection with the implementation of subsection \[sic\] 922(t) of title 18, United States Code; and
+
+&emsp;“(2) any system to implement subsection \[sic\] 922(t) of title 18, United States Code, that does not require and result in the destruction of any identifying information submitted by or on behalf of any person who has been determined not to be prohibited from possessing or receiving a firearm no more than 24 hours after the system advises a Federal firearms licensee that possession or receipt of a firearm by the prospective transferee would not violate subsection (g) or (n) of section 922 of title 18, United States Code, or State law.”
+
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 106–58, title VI, §634, Sept. 29, 1999, 113 Stat. 473.
 
 Pub. L. 105–277, div. A, §101(h) \[title VI, §655\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–530.
 
@@ -1026,7 +1032,7 @@ Judicial review.—Relief and judicial review with respect to the program requir
 
 &emsp;&emsp;“(B)
 
-Relief from disabilities.—In the case of an adjudication related to the mental health of a person or a commitment of a person to a mental institution, a record of which may not be provided to the Attorney General under paragraph (1), including because of the absence of a finding described in subparagraph (C) of such paragraph, or from which a person has been granted relief under a program established under subparagraph (A) or (B), or because of a removal of a record under section 103(e)(1)(D) of the Brady Handgun Violence Prevention Act \[Pub. L. 103–159, set out below\], the adjudication or commitment, respectively, shall be deemed not to have occurred for purposes of subsections (d)(4) and (g)(4) of section 922 of title 18, United States Code. Any Federal agency that grants a person relief from disabilities under this subparagraph shall notify such person that the person is no longer prohibited under 922(d)(4) or 922(g)(4) of title 18, United States Code, on account of the relieved disability for which relief was granted pursuant to a proceeding conducted under this subparagraph, with respect to the acquisition, receipt, transfer, shipment, transportation, or possession of firearms.
+Relief from disabilities.—In the case of an adjudication related to the mental health of a person or a commitment of a person to a mental institution, a record of which may not be provided to the Attorney General under paragraph (1), including because of the absence of a finding described insubparagraph (C) of such paragraph, or from which a person has been granted relief under a program established under subparagraph (A) or (B), or because of a removal of a record under section 103(e)(1)(D) of the Brady Handgun Violence Prevention Act \[Pub. L. 103–159, set out below\], the adjudication or commitment, respectively, shall be deemed not to have occurred for purposes of subsections (d)(4) and (g)(4) of section 922 of title 18, United States Code. Any Federal agency that grants a person relief from disabilities under this subparagraph shall notify such person that the person is no longer prohibited under 922(d)(4) or 922(g)(4) of title 18, United States Code, on account of the relieved disability for which relief was granted pursuant to a proceeding conducted under this subparagraph, with respect to the acquisition, receipt, transfer, shipment, transportation, or possession of firearms.
 
 &emsp;“(3)
 
@@ -1104,9 +1110,9 @@ In general.—From the information collected by a State, the State shall make el
 
 updates.—The State, on being made aware that the basis under which a record was made available under subparagraph (A) does not apply, or no longer applies, shall, as soon as practicable—
 
-&emsp;&emsp;&emsp;“(i) update, correct, modify, or remove the record from any database that the Federal or State government maintains and makes available to the National Instant Criminal Background Check System, consistent with the rules pertaining to that database; and
+&emsp;&emsp;&emsp;“(i) update, correct, modify, or remove the record from any database that the Federal orState government maintains and makes available to the National Instant Criminal Background Check System, consistent with the rules pertaining to that database; and
 
-&emsp;&emsp;&emsp;“(ii) notify the Attorney General that such basis no longer applies so that the record systemin which the record is maintained is kept up to date.
+&emsp;&emsp;&emsp;“(ii) notify the Attorney General that such basis no longer applies so that the record system in which the record is maintained is kept up to date.
 
 &nbsp;&nbsp;The Attorney General upon receiving notice pursuant to clause (ii) shall ensure that the record in the National Instant Criminal Background Check System is updated, corrected, modified, or removed within 30 days of receipt.
 
@@ -1284,7 +1290,7 @@ Authorization of Appropriations.—There are authorized to be appropriated such 
 
 “(a)
 
-Grants Authorized.—From amounts made available to carry out this section, the Attorney General shall make grants to each State, consistent with State plans for the integration, automation, and accessibility of criminal history records, for use by the State court system to improve the automation and transmittal of criminal history dispositions, records relevant to determining whether a person has been convicted of a misdemeanor crime of domestic violence, court orders, and mental health adjudications or commitments, toFederal and State record repositories in accordance with sections 102 and 103 and the National Criminal History Improvement Program.
+Grants Authorized.—From amounts made available to carry out this section, the Attorney General shall make grants to each State, consistent with State plans for the integration, automation, and accessibility of criminal history records, for use by the Statecourt system to improve the automation and transmittal of criminal history dispositions, records relevant to determining whether a person has been convicted of a misdemeanor crime of domestic violence, court orders, and mental health adjudications or commitments, to Federal and State record repositories in accordance with sections 102 and 103 and the National Criminal History Improvement Program.
 
 “(b)
 
@@ -1388,7 +1394,7 @@ Other authority.—The Attorney General shall develop such computer software, de
 
 “(f)
 
-Written Reasons Provided on Request.—If the national instant criminal background check system determines that an individual is ineligible to receive a firearm and the individual requests the system to provide the reasons for the determination, the systemshall provide such reasons to the individual, in writing, within 5 business days after the date of the request.
+Written Reasons Provided on Request.—If the national instant criminal background check system determines that an individual is ineligible to receive a firearm and the individual requests the system to provide the reasons for the determination, the system shall provide such reasons to the individual, in writing, within 5 business days after the date of the request.
 
 “(g)
 
@@ -1466,7 +1472,7 @@ Definitions.—As used in this section, the terms ‘firearm’ and ‘dealer’
 
 #### Studies To Identify Equipment Capable of Distinguishing Security Exemplar From Other Metal Objects Likely To Be Carried on One's Person
 
-Section 2(e) of Pub. L. 100–649 provided that: “The Attorney General, the Secretary of the Treasury, and the Secretary of Transportation shall each conduct studies to identify available state-of-the-art equipment capable of detecting the Security Exemplar (as defined in section 922(p)(2)(C) of title 18, United States Code) and distinguishing the Security Exemplar from innocuous metal objects likely to be carried on one's person. Such studies shall be completed within 6 months after the date of the enactment of this Act \[Nov. 10, 1988\] and shall include a schedule providing for the installation of such equipment at the earliest practicable time at security checkpoints maintained or regulated by the agency conducting the study. Such equipment shall beinstalled in accordance with each schedule. In addition, such studies may include recommendations, where appropriate, concerning the use of secondary security equipment and procedures to enhance detection capability at security checkpoints.”
+Section 2(e) of Pub. L. 100–649 provided that: “The Attorney General, the Secretary of the Treasury, and the Secretary of Transportation shall each conduct studies to identify available state-of-the-art equipment capable of detecting the Security Exemplar (as defined in section 922(p)(2)(C) of title 18, United States Code) and distinguishing the Security Exemplar from innocuous metal objects likely to be carried on one's person. Such studies shall be completed within 6 months after thedate of the enactment of this Act \[Nov. 10, 1988\] and shall include a schedule providing for the installation of such equipment at the earliest practicable time at security checkpoints maintained or regulated by the agency conducting the study. Such equipment shall be installed in accordance with each schedule. In addition, such studies may include recommendations, where appropriate, concerning the use of secondary security equipment and procedures to enhance detection capability at security checkpoints.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed with “and”.</i>
 

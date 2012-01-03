@@ -46,7 +46,7 @@ Section 414(v) of the Internal Revenue Code of 1986, referred to in subsec. (b),
 
 #### Amendments
 
-2002—Pub. L. 107–304 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>2002</b>—Pub. L. 107–304 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 2002 Amendment
 

@@ -24,7 +24,7 @@ Section 1 of the Classified Information Procedures Act, referred to in pars. (2)
 
 #### Amendments
 
-1996—Par. (1). Pub. L. 104–208, §308(g)(1), substituted “section 1227(a)(4)(B)” for “section 1251(a)(4)(B)”.
+<b>1996</b>—Par. (1). Pub. L. 104–208, §308(g)(1), substituted “section 1227(a)(4)(B)” for “section 1251(a)(4)(B)”.
 
 Par. (7). Pub. L. 104–208, §354(a)(5), added par. (7).
 

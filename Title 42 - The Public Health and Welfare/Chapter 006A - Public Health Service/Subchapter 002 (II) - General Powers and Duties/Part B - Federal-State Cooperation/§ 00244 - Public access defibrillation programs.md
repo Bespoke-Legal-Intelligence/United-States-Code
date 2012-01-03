@@ -18,7 +18,7 @@ The Secretary shall award grants to States, political subdivisions of States, In
 
 #### (b) Preference
 
-In awarding grants under subsection (a) of this section, the Secretary shall give a preference to a State, political subdivision of a State, Indian tribe, or tribal organization that—
+In awarding grants under subsection (a) of this section, the Secretary shall give a preference toa State, political subdivision of a State, Indian tribe, or tribal organization that—
 
 &emsp;(1) has a particularly low local survival rate for cardiac arrests, or a particularly low local response rate for cardiac arrest victims; or
 
@@ -96,7 +96,7 @@ Pub. L. 107–188, title I, §159(b), June 12, 2002, 116 Stat. 634, provided tha
 
 &emsp;“(4) Sixty percent of all cardiac arrests occur outside the hospital. The average national survival rate for out-of-hospital cardiac arrest is only 5 percent.
 
-&emsp;“(5) Communities that have established and implemented public access defibrillation programs have achieved average survival rates for out-of-hospital cardiac arrest as high as 50 percent.
+&emsp;“(5) Communities that have established and implemented public access defibrillation programs haveachieved average survival rates for out-of-hospital cardiac arrest as high as 50 percent.
 
 &emsp;“(6) According to the American Heart Association, wide use of defibrillators could save as many as 50,000 lives nationally each year.
 

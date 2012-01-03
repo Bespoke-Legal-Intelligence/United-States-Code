@@ -32,7 +32,7 @@ A prior section 3839aa–3, Pub. L. 99–198, title XII, §1240C, as added Pub. 
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–246, §2504, amended section generally. Prior to amendment, text read as follows: “Inevaluating applications for cost-share payments and incentive payments, the Secretary shall accord a higher priority to assistance and payments that—
+<b>2008</b>—Pub. L. 110–246, §2504, amended section generally. Prior to amendment, text read as follows: “In evaluating applications for cost-share payments and incentive payments, the Secretary shall accord a higher priority to assistance and payments that—
 
 &emsp;“(1) encourage the use by producers of cost-effective conservation practices; and
 

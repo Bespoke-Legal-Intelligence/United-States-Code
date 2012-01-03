@@ -4,7 +4,7 @@ The Corporation is hereby authorized to do the following:
 
 #### (a) Investment insurance
 
-(1) To issue insurance, upon such terms and conditions as the Corporation may determine, to eligible investors assuring protection in whole or in part against any or all of the following risks with respect to projects which the Corporation has approved—
+(1) To issue insurance, upon such terms and conditions as the Corporation may determine, toeligible investors assuring protection in whole or in part against any or all of the following risks with respect to projects which the Corporation has approved—
 
 &emsp;(A) inability to convert into United States dollars other currencies, or credits in such currencies, received as earnings or profits from the approved project, as repayment or return of the investment therein, in whole or in part, or as compensation for the sale or disposition of all or any part thereof;
 
@@ -22,7 +22,7 @@ The Corporation is hereby authorized to do the following:
 
 #### (b) Investment guaranties
 
-To issue to eligible investors guaranties of loans and other investments made by such investors assuring against loss due to such risks and upon such terms and conditions as the Corporation may determine: <i>Provided, however</i>, That such guaranties on other than loan investments shall not exceed 75 per centum of such investment: <i>Provided further</i>, That except for loan investments for credit unions made by eligible credit unions or credit union associations, the aggregate amount of investment (exclusive of interest and earnings) so guaranteed with respect to any project shall not exceed, at the time of issuance of any such guaranty, 75 per centum of the total investment committed to any such project as determined by the Corporation, which determination shall be conclusive for purposes of the Corporation's authority to issue any such guaranty: <i>Provided further</i>, Thatnot more than 15 per centum of the maximum contingent liability of investment guaranties which the Corporation is permitted to have outstanding under section 2195(a)(2) <sup>1</sup> of this title shall be issued to a single investor.
+To issue to eligible investors guaranties of loans and other investments made by such investors assuring against loss due to such risks and upon such terms and conditions as the Corporation may determine: <i>Provided, however</i>, That such guaranties on other than loan investments shall not exceed 75 per centum of such investment: <i>Provided further</i>, That except for loan investments for credit unions made by eligible credit unions or credit union associations, the aggregate amount of investment (exclusive of interest and earnings) so guaranteed with respect to any project shall not exceed, at the time of issuance of any such guaranty, 75 per centum of the total investment committed to any such project as determined by the Corporation, which determination shall be conclusive for purposes of the Corporation's authority to issue any such guaranty: <i>Provided further</i>, That not more than 15 per centum of the maximum contingent liability of investment guaranties which the Corporation is permitted to have outstanding under section 2195(a)(2) <sup>1</sup> of this title shall be issued to a single investor.
 
 #### (c) Direct investment
 
@@ -38,7 +38,7 @@ To initiate and support through financial participation, incentive grant, or oth
 
 &emsp;(1) the Corporation shall not finance any survey to ascertain the existence, location, extent, or quality of, or to determine the feasibility of undertaking operations for the extraction of, oil or gas; and
 
-&emsp;(2) expenditures financed by the Corporation during any fiscal year on surveys to ascertain the existence, location, extent, or quality of, or to determine the feasibility of undertaking operations for the extraction of nonfuel minerals may not exceed $200,000.
+&emsp;(2) expenditures financed by the Corporation during any fiscal year on surveys to ascertain the existence, location, extent, or quality of, or to determine the feasibility of undertakingoperations for the extraction of nonfuel minerals may not exceed $200,000.
 
 #### (e) Special projects and programs
 
@@ -82,7 +82,7 @@ To administer and manage special projects and programs, including programs of fi
 
 #### (5) Implementation
 
-&emsp;To the extent provided in advance in appropriations Acts, the Corporation is authorized to create such legal vehicles as may be necessary for implementation of its authorities, which legal vehicles may be deemed non-Federal borrowers for purposes of the Federal Credit Reform Act of 1990 \[2 U.S.C. 661 et seq.\]. Income and proceeds of investments made pursuant to this subsection may be used to purchase equity or quasi-equity securities in accordance with the provisions of this section: <i>Provided, however</i>, That such purchases shall not be limited to the 4-year period of the pilot program: <i>Provided further</i>, That the limitations contained in paragraph (2) shall not apply to such purchases.
+&emsp;To the extent provided in advance in appropriations Acts, the Corporation is authorizedto create such legal vehicles as may be necessary for implementation of its authorities, which legal vehicles may be deemed non-Federal borrowers for purposes of the Federal Credit Reform Act of 1990 \[2 U.S.C. 661 et seq.\]. Income and proceeds of investments made pursuant to this subsection may be used to purchase equity or quasi-equity securities in accordance with the provisions of this section: <i>Provided, however</i>, That such purchases shall not be limited to the 4-year period of the pilot program: <i>Provided further</i>, That the limitations contained in paragraph (2) shall not apply to such purchases.
 
 #### (6) Consultations with Congress
 
@@ -118,7 +118,7 @@ In subsec. (c), “section 1306 of title 31” substituted for “section 1415 o
 
 Subsec. (h). Pub. L. 108–158, §5(a), added subsec. (h).
 
-<b>1999</b>—Subsec. (g). Pub. L. 106–31, §6000(1), struck out heading and text of par. designated as (c). Text read as follows: “The Corporation is authorized to establish a revolving fund to be available solely for the purposes specified in this subsection and to make transfers tothe fund of a total of $10,000,000 (less amounts transferred to the fund before October 28, 1992) from its noncredit account revolving fund. The Corporation shall transfer to the fund in each fiscal year all amounts received by the Corporation during the preceding fiscal year as income on securities acquired under this subsection, and from the proceeds on the disposition of such securities. Purchases of, investments in, and other acquisitions of equity from the fund are authorized for any fiscal year only to the extent or in such amounts as are provided in advance in appropriations Acts or are transferred to the Corporation pursuant to section 2392(a) of this title.”
+<b>1999</b>—Subsec. (g). Pub. L. 106–31, §6000(1), struck out heading and text of par. designated as (c). Text read as follows: “The Corporation is authorized to establish a revolving fund to be available solely for the purposes specified in this subsection and to make transfers to the fund of a total of $10,000,000 (less amounts transferred to the fund before October 28, 1992) from its noncredit account revolving fund. The Corporation shall transfer to the fund in each fiscal year all amounts received by the Corporation during the preceding fiscal year as income on securities acquired under this subsection, and from the proceeds on the disposition of such securities. Purchases of, investments in, and other acquisitions of equity from the fund are authorized for any fiscal year only to the extent or in such amounts as are provided in advance in appropriations Acts or are transferred to the Corporation pursuant to section 2392(a) of this title.”
 
 Subsec. (g)(2). Pub. L. 106–31, §6001(2), in heading, substituted “Equity authority limited to projects in sub-Saharan Africa and Caribbean basin and marine transportation projects globally” for “Limitation to projects in sub-Saharan Africa and Caribbean basin”, and, in text, inserted “and in marine transportation projects in countries and areas eligible for OPIC support worldwide using United States commercial maritime expertise” after “section 2702 of title 19”.
 
@@ -132,7 +132,7 @@ Creation of fund from corporate revenues.—The Corporation is authorized to est
 
 <b>1988</b>—Subsec. (c). Pub. L. 100–461, at end of first undesignated par., struck out “The Corporation may not purchase or invest in any stock in any other corporation, except that it may (1) accept as evidence of indebtedness debt securities convertible to stock, but such debt securities shall not be converted to stock while held by the Corporation, and (2) acquire stock through the enforcement of any lien or pledge or otherwise to satisfy a previously contracted indebtedness which would otherwise be in default, or as the result of any payment under any contract of insurance or guaranty. The Corporation shall dispose of any stock it may so acquire as soon as reasonably feasible under the circumstances then pertaining.” and added second undesignated par. relating to designation of up to 25 percent of loan for use in development or adaptation of new technologies or new products or services.
 
-Subsec. (f). Pub. L. 100–461, which directed that first sentence of last par. be struck out, was executed as probable intent of Congress by striking out first sentence of concluding provisions, before “The amount of reinsurance”, which read as follows: “The authority granted by paragraph (3) may be exercised notwithstanding the prohibition under subsection (c) of this section against the Corporation purchasing or investing in any stock in any other corporation.”
+Subsec. (f). Pub. L. 100–461, which directed that first sentence of last par. be struck out, was executed as probable intent of Congress by striking out first sentence of concluding provisions, before “The amount of reinsurance”, which read as follows: “The authoritygranted by paragraph (3) may be exercised notwithstanding the prohibition under subsection (c) of this section against the Corporation purchasing or investing in any stock in any other corporation.”
 
 Subsec. (g). Pub. L. 100–461 added subsec. (g).
 
@@ -184,15 +184,19 @@ Pub. L. 106–31, title VI, §6001, May 21, 1999, 113 Stat. 112, provided that t
 
 #### Transfer of Functions
 
-Functions vested by law (including reorganization plan) in Bureau of the Budget or Director of Bureau ofthe Budget transferred to President of the United States by section 101 of 1970 Reorg. Plan No. 2, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085, set out in the Appendix to Title 5, Government Organization and Employees. Section 102 of 1970 Reorg. Plan No. 2 redesignated Bureau of the Budget as Office of Management and Budget. For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+Functions vested by law (including reorganization plan) in Bureau of the Budget or Director of Bureau of the Budget transferred to President of the United States by section 101 of 1970 Reorg. Plan No. 2, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085, set out in the Appendix to Title 5, Government Organization and Employees. Section 102 of 1970 Reorg. Plan No. 2 redesignated Bureau of the Budget as Office of Management and Budget. For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Extension of OPIC Authority
 
-Pub. L. 111–117, div. F, title VII, §7079(c), Dec. 16, 2009, 123 Stat. 3396, provided that: “Notwithstanding section 235(a)(2) of the Foreign Assistance Act of 1961 (22 U.S.C. 2195(a)(2)), the authority of subsections (a) through (c) of section 234 of such Act \[22 U.S.C. 2194(a)–(c)\] shall remain in effect through September 30, 2010.”
+Pub. L. 112–74, div. I, title VII, §7065(b), Dec. 23, 2011, 125 Stat. 1252, provided that: “Notwithstanding section 235(a)(2) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2195(a)(2)\], the authority of subsections (a) through (c) of section 234 of such Act \[22 U.S.C. 2194(a)–(c)\] shall remain in effect until September 30, 2012.”
 
-Pub. L. 111–8, div. H, title VII, §7081(a), Mar. 11, 2009, 123 Stat. 910, provided that: “Notwithstanding section 235(a)(2) of the Foreign Assistance Act of 1961 (22 U.S.C. 2195(a)(2)), the authority of subsections (a) through (c) of section 234 of such Act \[22 U.S.C. 2194(a)–(c)\] shall remain in effect through September 30, 2009.”
+Similar provisions were contained in the following prior approprations acts:
 
-Pub. L. 110–161, div. J, title VI, §634(t), Dec. 26, 2007, 121 Stat. 2331, provided that: “Notwithstanding section 235(a)(2) of the Foreign Assistance Act of 1961 (22 U.S.C. 2195(a)(2)), the authority of subsections (a) through (c) of section 234 of such Act \[22 U.S.C. 2194(a)–(c)\] shall remain in effect through April 1, 2008.”
+Pub. L. 111–117, div. F, title VII, §7079(c), Dec. 16, 2009, 123 Stat. 3396.
+
+Pub. L. 111–8, div. H, title VII, §7081(a), Mar. 11, 2009, 123 Stat. 910.
+
+Pub. L. 110–161, div. J, title VI, §634(t), Dec. 26, 2007, 121 Stat. 2331.
 
 #### Appropriation of Moneys in Advance as Requisite to Purchases, Investments, or Other Acquisitions of Equity by Fund Created Under Pilot Equity Finance Program
 

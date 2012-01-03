@@ -10,7 +10,7 @@ The Consolidated Farm and Rural Development Act, referred to in text, is title I
 
 #### Amendments
 
-1994—Pub. L. 103–354 substituted “Secretary” for “Administrator”.
+<b>1994</b>—Pub. L. 103–354 substituted “Secretary” for “Administrator”.
 
 #### Effective Date
 

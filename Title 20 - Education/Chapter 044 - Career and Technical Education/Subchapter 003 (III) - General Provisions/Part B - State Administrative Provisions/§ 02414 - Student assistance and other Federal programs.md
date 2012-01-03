@@ -48,7 +48,7 @@ Section 2420a, Pub. L. 88–210, title IV, §420A, as added Pub. L. 101–392, t
 
 Section 2421, Pub. L. 88–210, title IV, §421, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2472; amended Pub. L. 101–392, title IV, §407, Sept. 25, 1990, 104 Stat. 822; Pub. L. 101–476, title IX, §901(a)(2), Oct. 30, 1990, 104 Stat. 1142; Pub. L. 103–227, title X, §1021, Mar. 31, 1994, 108 Stat. 269, authorized vocational education and occupational information data systems.
 
-Section 2422, Pub. L. 88–210, title IV, §422, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2473; amended Pub. L. 101–392, title IV, §408, Sept. 25, 1990, 104 Stat.825; Pub. L. 103–227, title IX, §991, Mar. 31, 1994, 108 Stat. 264, related to National Occupational Information Coordinating Committee.
+Section 2422, Pub. L. 88–210, title IV, §422, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2473; amended Pub. L. 101–392, title IV, §408, Sept. 25, 1990, 104 Stat. 825; Pub. L. 103–227, title IX, §991, Mar. 31, 1994, 108 Stat. 264, related to National Occupational Information Coordinating Committee.
 
 Section 2423, Pub. L. 88–210, title IV, §423, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2474; amended Pub. L. 101–392, title IV, §409, Sept. 25, 1990, 104 Stat. 827, related to information base for vocational education data system.
 
@@ -66,7 +66,7 @@ Section 2461, Pub. L. 88–210, title V, §501, as added Pub. L. 98–524, §1, 
 
 A prior section 2462, Pub. L. 88–210, title V, §502, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2479; amended Pub. L. 99–159, title VII, §711, Nov. 22, 1985, 99 Stat. 907, related to Federal share of, and non-Federal contributions for, costs of vocational education programs, prior to repeal by Pub. L. 101–392, title V, §501(a)(1), title VII, §702(a), Sept. 25, 1990, 104 Stat. 830, 843, effective July 1, 1991.
 
-A prior section 2463, Pub. L. 88–210, title V, §502, formerly §503, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2480; renumbered §502 and amended Pub. L. 101–392, title V, §501(a)(2), (b), Sept. 25, 1990, 104 Stat. 830, related to maintenance of effort, prior to the general amendment of this chapter by Pub. L. 105–332.
+A prior section 2463, Pub. L. 88–210, title V, §502, formerly §503, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2480; renumbered §502 and amended Pub. L.101–392, title V, §501(a)(2), (b), Sept. 25, 1990, 104 Stat. 830, related to maintenance of effort, prior to the general amendment of this chapter by Pub. L. 105–332.
 
 Prior sections 2464 and 2465 were repealed by Pub. L. 101–392, title V, §501(a)(1), title VII, §702(a), Sept. 25, 1990, 104 Stat. 830, 843, effective July 1, 1991.
 

@@ -2,7 +2,7 @@
 
 #### (a) Designation; appointment and supervision of Secretary
 
-There is hereby established at the seat of government an executive department to be known as the Department of Housing and Urban Development (hereinafter referred to as the “Department”). There shall be at the head of the Department a Secretary of Housing and Urban Development (hereinafter referred to as the “Secretary”), who shall be appointed by the President by and with the advice and consent of the Senate. The Department shall be administered under the supervision and direction of the Secretary.
+There is hereby established at the seat of government an executive department to be known as the Department of Housing and Urban Development (hereinafter referred to as the “Department”). There shall be at the head of the Department a Secretary of Housing and Urban Development (hereinafter referred to as the “Secretary”), who shall be appointed by the President by and with the advice and consent of theSenate. The Department shall be administered under the supervision and direction of the Secretary.
 
 #### (b) General duties of Secretary
 
@@ -40,7 +40,7 @@ Section was formerly classified to section 624a of former Title 5, Executive Dep
 
 #### Effective Date; Interim Appointments
 
-Nomination and appointment of Secretary of Housing and Urban Development any time after Sept. 9, 1965, and interim designation and compensation of officer of Housing and Home Finance Agency for that office uponnonentry upon the office upon expiration of first period of sixty calendar days following Sept. 9, 1965, or on earlier date specified by Executive order, see section 11 of Pub. L. 89–174, set out as a note under section 3531 of this title.
+Nomination and appointment of Secretary of Housing and Urban Development any time after Sept. 9, 1965, and interim designation and compensation of officer of Housing and Home Finance Agency for that office upon nonentry upon the office upon expiration of first period of sixty calendar days following Sept. 9, 1965, or on earlier date specified by Executive order, see section 11 of Pub. L. 89–174, set out as a note under section 3531 of this title.
 
 #### Order of Succession
 
@@ -54,7 +54,7 @@ Pub. L. 102–139, title II, Oct. 28, 1991, 105 Stat. 753, provided in part: “
 
 #### Condominium and Cooperative Study and Report; Submission to Congress
 
-Pub. L. 93–383, title VII, §821, Aug. 22, 1974, 88 Stat. 740, authorized the Secretary of Housing and Urban Development to conduct a full and complete investigation and study, and report to Congress not later than one year after Aug. 22, 1974, with respect to condominiums and cooperatives, and the problems, difficulties, and abuses or potential abuses applicable to condominium and cooperative housing.
+Pub. L. 93–383, title VII, §821, Aug. 22, 1974, 88 Stat. 740, authorized the Secretary of Housing and Urban Development to conduct a full and complete investigation and study, and report to Congress not later than one year after Aug. 22, 1974, with respect to condominiums and cooperatives, and the problems, difficulties, andabuses or potential abuses applicable to condominium and cooperative housing.
 
 #### Ex. Ord. No. 11297. Coordination of Federal Urban Program
 

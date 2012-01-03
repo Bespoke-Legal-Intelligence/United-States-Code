@@ -10,9 +10,9 @@ Section was enacted as part of the Export-Import Bank Act Amendments of 1978, an
 
 #### Amendments
 
-1986—Pub. L. 99–472 inserted provisions which required written consideration by Bank of views of parties or persons who may be substantially adversely affected by loan or guarantee prior to taking final action on loan or guarantee without subjecting Bank to subchapter II of chapter 5 of title 5.
+<b>1986</b>—Pub. L. 99–472 inserted provisions which required written consideration by Bank of views of parties or persons who may be substantially adversely affected by loan or guarantee prior to taking final action on loan or guarantee without subjecting Bank to subchapter II of chapter 5 of title 5.
 
-1983—Pub. L. 98–181 inserted provision that after October 1, 1983, there are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section.
+<b>1983</b>—Pub. L. 98–181 inserted provision that after October 1, 1983, there are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section.
 
 #### Effective Date
 

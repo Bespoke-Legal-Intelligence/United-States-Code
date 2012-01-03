@@ -18,7 +18,7 @@ Under such conditions and regulations as the Secretary may prescribe, beer may b
 
 #### (e) Beer for personal or family use
 
-Subject to regulation prescribed by the Secretary, any adult may, without payment of tax, produce beer for personal or family use and not for sale. The aggregate amount of beer exempt from tax under this subsection with respect to any household shall not exceed—
+Subject to regulation prescribed by the Secretary, any adult may, without payment of tax, produce beer for personal or family use and not for sale. The aggregate amount of beer exemptfrom tax under this subsection with respect to any household shall not exceed—
 
 &emsp;(1) 200 gallons per calendar year if there are 2 or more adults in such household, or
 

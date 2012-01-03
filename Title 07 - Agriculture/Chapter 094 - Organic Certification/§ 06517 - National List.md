@@ -76,11 +76,11 @@ No exemption or prohibition contained in the National List shall be valid unless
 
 #### Amendments
 
-2005—Subsec. (c)(1). Pub. L. 109–97, §797(b)(1)(A), inserted “in organic production and handling operations” after “substances” in heading.
+<b>2005</b>—Subsec. (c)(1). Pub. L. 109–97, §797(b)(1)(A), inserted “in organic production and handling operations” after “substances” in heading.
 
 Subsec. (c)(1)(B)(iii). Pub. L. 109–97, §797(b)(1)(B), (C), struck out cl. (iii) which read as follows: “is used in handling and is non-synthetic but is not organically produced; and”.
 
 Subsec. (d)(6). Pub. L. 109–97, §797(b)(2), added par. (6).
 
-1991—Subsec. (c)(1)(B)(i). Pub. L. 102–237 substituted “parasiticides” for “paraciticides”.
+<b>1991</b>—Subsec. (c)(1)(B)(i). Pub. L. 102–237 substituted “parasiticides” for “paraciticides”.
 

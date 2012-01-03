@@ -28,7 +28,7 @@ At the request of the chief executive officer of a State, the Secretary shall pr
 
 #### (c) Preference
 
-In implementing this section, the Secretary shall give preference to States that contribute public funds or leverage private funds to develop State summer fill and fuel budgeting programs.
+In implementing this section, the Secretary shall give preference to States that contributepublic funds or leverage private funds to develop State summer fill and fuel budgeting programs.
 
 #### (d) Authorization of appropriations
 

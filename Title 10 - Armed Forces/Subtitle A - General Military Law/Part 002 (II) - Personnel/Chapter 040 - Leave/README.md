@@ -22,7 +22,7 @@
 
 <b>2003</b>—Pub. L. 108–136, div. A, title VI, §621(b)(2), Nov. 24, 2003, 117 Stat. 1505, struck out “enlisted” before “members” in item 705.
 
-<b>2002</b>—Pub. L. 107–314, div. A, title V, §§506(d), 572(b), 574(b)(2)(B), Dec. 2, 2002, 116 Stat. 2536, 2558, substituted “Rest and recuperation absence: qualified enlisted members extending duty at designated locations overseas” for “Rest and recuperative absence for qualified enlisted members extending duty at designated locations overseas” in item 705, added items 706, 707a, and 709, and struck out former item 706 “Administration of leave required to be taken pending review of certain court-martial convictions”.
+<b>2002</b>—Pub. L. 107–314, div. A, title V, §§506(d), 572(b), 574(b)(2)(B), Dec. 2, 2002, 116 Stat. 2536, 2558, substituted“Rest and recuperation absence: qualified enlisted members extending duty at designated locations overseas” for “Rest and recuperative absence for qualified enlisted members extending duty at designated locations overseas” in item 705, added items 706, 707a, and 709, and struck out former item 706 “Administration of leave required to be taken pending review of certain court-martial convictions”.
 
 <b>1984</b>—Pub. L. 98–525, title VII, §707(a)(2), Oct. 19, 1984, 98 Stat. 2572, added item 708.
 
@@ -32,7 +32,7 @@
 
 #### Pilot Programs on Career Flexibility To Enhance Retention of Members of the Armed Forces
 
-Pub. L. 110–417, \[div. A\], title V, §533, Oct. 14, 2008, 122 Stat. 4449, provided that:
+Pub. L. 110–417, \[div. A\], title V, §533, Oct. 14, 2008, 122 Stat. 4449, as amended by Pub. L. 112–81, div. A, title V, §531, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1403, 1465, provided that:
 
 “(a)
 
@@ -56,7 +56,7 @@ Limitation on Eligible Members.—A member of the Armed Forces is not eligible t
 
 “(c)
 
-Limitation on Number of Participants.—Not more than 20 officers and 20 enlisted members of each Armed Force may be selected during each of calendar years 2009 through 2012 to participate in the pilot programs under this section.
+Limitation on Number of Participants.—Not more than 20 officers and 20 enlisted members of each Armed Force may be selected during a calendar year to participate in the pilot programs under this section.
 
 “(d)
 
@@ -142,7 +142,7 @@ Limitation at time of return to active duty.—Subparagraph (A) shall not apply 
 
 &emsp;&emsp;&emsp;“(ii)
 
-Cessation during later service.—Subparagraph (A) shall cease to apply to any specialor incentive pay or bonus otherwise covered by that subparagraph with respect to a member if, during the term of the revived agreement of the member under subparagraph (A)(i), such pay or bonus ceases being authorized by law.
+Cessation during later service.—Subparagraph (A) shall cease to apply to any special or incentive pay or bonus otherwise covered by that subparagraph with respect to a member if, during the term of the revived agreement of the member under subparagraph (A)(i), such pay or bonus ceases being authorized by law.
 
 &emsp;&emsp;“(C)
 
@@ -158,7 +158,7 @@ Certain travel and transportation allowances.—
 
 &emsp;&emsp;“(A)
 
-In general.—Subject to subparagraph (B), a member who participates in a pilot program is entitled, while participating in the pilot program, to the travel and transportation allowances authorized by section 404 of title 37, United States Code, for—
+In general.—Subject to subparagraph (B), a member who participates in a pilot program is entitled, while participating in the pilot program, to the travel and transportation allowances authorized by section 474 of title 37, United States Code, for—
 
 &emsp;&emsp;&emsp;“(i) travel performed from the member's residence, at the time of release from active duty to participate in the pilot program, to the location in the United States designated by the member as his residence during the period of participation in the pilot program; and
 
@@ -206,11 +206,11 @@ Reports.—
 
 &emsp;“(1)
 
-Interim reports.—Not later than June 1, 2011, and June 1, 2013, the Secretary of each military department shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the implementation and current status of the pilot programs conducted by such Secretary under this section.
+Interim reports.—Not later than June 1 of 2011, 2013, 2015, and 2017, the Secretary of each military department shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the implementation and current status of the pilot programs conducted by such Secretary under this section.
 
 &emsp;“(2)
 
-Final report.—Not later than March 1, 2016, the Secretary of Defense shall submit to the congressional defense committees a report on the pilot programs conducted under this section.
+Final report.—Not later than March 1, 2019, the Secretary of Defense shall submit to the congressional defense committees a report on the pilot programs conducted under this section.
 
 &emsp;“(3)
 
@@ -230,7 +230,9 @@ Elements of report.—Each interim report and the final report under this subsec
 
 “(<i>l</i>)
 
-Duration of Program Authority.—The authority to conduct a pilot program under this section shall commence on January 1, 2009. No member of the Armed Forces may be released from active duty under a pilot program under this section after December 31, 2012.”
+Duration of Program Authority.—No member of the Armed Forces may be released from active duty under a pilot program conducted under this section after December 31, 2015.”
+
+\[Amendment by section 631(f)(4)(B) of Pub. L. 112–81 to section 533 of Pub. L. 110–417, set out above, was executed to reflect the probable intent of Congress, notwithstanding an error in the directory language.\]
 
 
 ---

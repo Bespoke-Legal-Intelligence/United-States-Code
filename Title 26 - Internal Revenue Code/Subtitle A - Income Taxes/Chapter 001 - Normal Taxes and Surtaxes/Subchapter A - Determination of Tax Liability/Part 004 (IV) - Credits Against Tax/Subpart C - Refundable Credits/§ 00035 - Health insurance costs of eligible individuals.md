@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In the case of an individual, there shall be allowed as a credit against the tax imposed by subtitle A an amount equal to 65 percent (80 percent in the case of eligible coverage months beginning before February 13, 2011) of the amount paid by the taxpayer for coverage of the taxpayer and qualifying family members under qualified health insurance for eligible coverage months beginning in the taxable year.
+In the case of an individual, there shall be allowed as a credit against the tax imposed by subtitle A an amount equal to 72.5 percent of the amount paid by the taxpayer for coverage of the taxpayer and qualifying family members under qualified health insurance for eligible coverage months beginning in the taxable year.
 
 #### (b) Eligible coverage month
 
@@ -22,7 +22,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(iv) is not imprisoned under Federal, State, or local authority, and
 
-&emsp;&emsp;(B) such month begins more than 90 days after the date of the enactment of the Trade Act of 2002.
+&emsp;&emsp;(B) such month begins more than 90 days after the date of the enactment of the Trade Act of 2002, and before January 1, 2014.
 
 #### (2) Joint returns
 
@@ -50,7 +50,7 @@ For purposes of this section—
 
 #### (B) Special rule
 
-&emsp;&emsp;In the case of any eligible coverage month beginning after the date of the enactment of this paragraph and before February 13, 2011, the term “eligible TAA recipient” means, with respect to any month, any individual who—
+&emsp;&emsp;In the case of any eligible coverage month beginning after the date of the enactment of this paragraph, the term “eligible TAA recipient” means, with respect to any month, any individual who—
 
 &emsp;&emsp;&emsp;(i) is receiving for any day of such month a trade readjustment allowance under chapter 2 of title II of the Trade Act of 1974,
 
@@ -64,7 +64,7 @@ For purposes of this section—
 
 &emsp;The term “eligible alternative TAA recipient” means, with respect to any month, any individual who—
 
-&emsp;&emsp;(A) is a worker described in section 246(a)(3)(B) of the Trade Act of 1974 who isparticipating in the program established under section 246(a)(1) of such Act, and
+&emsp;&emsp;(A) is a worker described in section 246(a)(3)(B) of the Trade Act of 1974 who is participating in the program established under section 246(a)(1) of such Act, and
 
 &emsp;&emsp;(B) is receiving a benefit for such month under section 246(a)(2) of such Act.
 
@@ -140,7 +140,7 @@ For purposes of this section—
 
 > &emsp;&emsp;For purposes of this subparagraph, the term “individual health insurance” means any insurance which constitutes medical care offered to individuals other than in connection with a group health plan and does not include Federal- or State-based health insurance coverage.
 
-&emsp;&emsp;(K) In the case of eligible coverage months beginning before February 13, 2012, coverage under an employee benefit plan funded by a voluntary employees’ beneficiary association (as defined in section 501(c)(9)) established pursuant to an order of a bankruptcy court, or by agreement with an authorized representative, as provided in section 1114 of title 11, United States Code.
+&emsp;&emsp;(K) Coverage under an employee benefit plan funded by a voluntary employees’ beneficiary association (as defined in section 501(c)(9)) established pursuant to an order of a bankruptcy court, or by agreement with an authorized representative, as provided in section 1114 of title 11, United States Code.
 
 #### (2) Requirements for state-based coverage
 
@@ -266,13 +266,7 @@ For purposes of this section, an individual has other specified coverage for any
 
 &emsp;&emsp;Payments made by the taxpayer for eligible coverage months shall be treated as having been made by the taxpayer on the first day of the month for which such payment was made.
 
-#### (9) COBRA premium assistance
-
-&emsp;In the case of an assistance eligible individual who receives premium reduction for COBRA continuation coverage under section 3001(a) of title III of division B of the American Recovery and Reinvestment Act of 2009 for any month during the taxable year, such individual shall not be treated as an eligible individual, a certified individual, or a qualifying family member for purposes of this section or section 7527 with respect to such month.
-
-#### (10) <sup>1</sup> Continued qualification of family members after certain events
-
-&emsp;In the case of eligible coverage months beginning before February 13, 2011—
+#### (9) <sup>1</sup> Continued qualification of family members after certain events
 
 #### (A) Medicare eligibility
 
@@ -280,7 +274,7 @@ For purposes of this section, an individual has other specified coverage for any
 
 #### (B) Divorce
 
-&emsp;&emsp;In the case of the finalization of a divorce between an eligible individual and such individual's spouse, such spouse shall be treated as an eligible individual for purposes of this section and section 7527 for a period of 24 months beginning with the date of such finalization, except that the only qualifying family members who may be taken into account with respect to such spouse are those individuals who were qualifying family members immediately before such finalization.
+&emsp;&emsp;In the case of the finalization of a divorce between an eligible individual and such individual's spouse, such spouse shall be treated as an eligible individual for purposes of this section and section 7527 for a period of 24 months beginning with the date of such finalization, except that the only qualifying family members who may be taken into account with respect to such spouse are those individuals who were qualifying familymembers immediately before such finalization.
 
 #### (C) Death
 
@@ -290,11 +284,15 @@ For purposes of this section, an individual has other specified coverage for any
 
 &emsp;&emsp;&emsp;(ii) any individual who was a qualifying family member of the decedent immediately before such death (or, in the case of an individual to whom paragraph (4) applies, the taxpayer to whom the deduction under section 151 is allowable) shall be treated as an eligible individual for purposes of this section and section 7527 for a period of 24 months beginning with the date of such death, except that in determining the amount of such credit only such qualifying family member may be taken into account.
 
-#### (10) <sup>1</sup> Regulations
+#### (9) <sup>1</sup> COBRA premium assistance
+
+&emsp;In the case of an assistance eligible individual who receives premium reduction for COBRA continuation coverage under section 3001(a) of title III of division B of the American Recovery and Reinvestment Act of 2009 for any month during the taxable year, such individual shall not be treated as an eligible individual, a certified individual, or a qualifying family member for purposes of this section or section 7527 with respect to such month.
+
+#### (10) Regulations
 
 &emsp;The Secretary may prescribe such regulations and other guidance as may be necessary or appropriate to carry out this section, section 6050T, and section 7527.
 
-(Added Pub. L. 107–210, div. A, title II, §201(a), Aug. 6, 2002, 116 Stat. 954; amended Pub. L. 108–311, title IV, §401(a)(2), Oct. 4, 2004, 118 Stat. 1183; Pub. L. 110–172, §11(a)(5), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 111–5, div. B, title I, §§1899A(a)(1), 1899C(a), 1899E(a), 1899G(a), title III, §3001(a)(14)(A), Feb. 17, 2009, 123 Stat. 423, 424, 426, 430, 465; Pub. L. 111–144, §3(b)(5)(A), Mar. 2, 2010, 124 Stat. 44; Pub. L. 111–344, title I, §§111(a), 113(a), 115(a), 117(a), Dec. 29, 2010, 124 Stat. 3614–3616.)
+(Added Pub. L. 107–210, div. A, title II, §201(a), Aug. 6, 2002, 116 Stat. 954; amended Pub. L. 108–311, title IV, §401(a)(2), Oct. 4, 2004, 118 Stat. 1183; Pub. L. 110–172, §11(a)(5), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 111–5, div. B, title I, §§1899A(a)(1), 1899C(a), 1899E(a), 1899G(a), title III, §3001(a)(14)(A), Feb. 17, 2009, 123 Stat. 423, 424, 426, 430, 465; Pub. L. 111–144, §3(b)(5)(A), Mar. 2, 2010, 124 Stat. 44; Pub. L. 111–344, title I, §§111(a), 113(a), 115(a), 117(a), Dec. 29, 2010, 124 Stat. 3614–3616; Pub. L. 112–40, title II, §241(a), (b)(1), (3)(A)–(C), Oct. 21, 2011, 125 Stat. 418, 419.)
 
 #### References in Text
 
@@ -304,13 +302,13 @@ The Trade Act of 1974, referred to in subsec. (c)(2), (3), is Pub. L. 93–618, 
 
 The date of the enactment of this paragraph, referred to in subsec. (c)(2)(B), probably means the date of enactment of Pub. L. 111–5, which amended par. (2) generally and which was approved Feb. 17, 2009.
 
-The Employee Retirement Income Security Act of 1974, referred to in subsecs. (c)(4)(B) and (e)(1)(F)(i), isPub. L. 93–406, Sept. 2, 1974, 88 Stat. 829. Title IV of the Act is classified principally to subchapter III (§1301 et seq.) of chapter 18 of Title 29, Labor. Section 3(37) of the Act is classified to section 1002(37) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsecs. (c)(4)(B) and (e)(1)(F)(i), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829. Title IV of the Act is classified principally to subchapter III (§1301 et seq.) of chapter 18 of Title 29, Labor. Section 3(37) of the Act is classified to section 1002(37) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 Section 2744(c)(2) of the Public Health Service Act, referred to in subsec. (e)(1)(C), is classified to section 300gg–44(c)(2) of Title 42, The Public Health and Welfare.
 
 The Social Security Act, referred to in subsec. (f)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A and B of title XVIII of the Act are classified generally to parts A (§1395c et seq.) and B (§1395j et seq.), respectively, of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of Title 42. Section 1928 of the Act is classified to section 1396s of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-Section 3001(a) of title III of division B of the American Recovery and Reinvestment Act of 2009, referred to in subsec. (g)(9), is section 3001(a) of Pub. L. 111–5, div. B, title III, Feb. 17, 2009, 123 Stat. 455, which enacted sections 139C, 6432, and 6720C of this title, amended this section, and enacted provisions set out as a note under section 6432 of this title.
+Section 3001(a) of title III of division B of the American Recovery and Reinvestment Act of 2009, referred to in subsec. (g)(9) related to COBRA premium assistance, is section 3001(a) of Pub. L. 111–5, div. B, title III, Feb. 17, 2009, 123 Stat. 455, which enacted sections 139C, 6432, and 6720C of this title, amended this section, and enacted provisions set out as a note under section 6432 of this title.
 
 #### Prior Provisions
 
@@ -320,15 +318,25 @@ Another prior section 35, acts Aug. 16, 1954, ch. 736, 68A Stat. 14; Sept. 2, 19
 
 #### Amendments
 
+<b>2011</b>—Subsec. (a). Pub. L. 112–40, §241(b)(1), substituted “72.5 percent” for “65 percent (80 percent in the case of eligible coverage months beginning before February 13, 2011)”.
+
+Subsec. (b)(1)(B). Pub. L. 112–40, §241(a), inserted “, and before January 1, 2014” after “2002”.
+
+Subsec. (c)(2)(B). Pub. L. 112–40, §241(b)(3)(A), struck out “and before February 13, 2011” after “paragraph” in introductory provisions.
+
+Subsec. (e)(1)(K). Pub. L. 112–40, §241(b)(3)(B), substituted “Coverage” for “In the case of eligible coverage months beginning before February 13, 2012, coverage”.
+
+Subsec. (g)(9). Pub. L. 112–40, §241(b)(3)(C), in par. (9) relating to continued qualification of family members after certain events, struck out introductory provisions which read as follows: “In the case of eligible coverage months beginning before February 13, 2011—”.
+
 <b>2010</b>—Subsec. (a). Pub. L. 111–344, §111(a), substituted “February 13, 2011” for “January 1, 2011”.
 
 Subsec. (c)(2)(B). Pub. L. 111–344, §113(a), substituted “February 13, 2011” for “January 1, 2011” in introductory provisions.
 
 Subsec. (e)(1)(K). Pub. L. 111–344, §117(a), substituted “February 13, 2012” for “January 1, 2011”.
 
-Subsec. (g)(9). Pub. L. 111–144 substituted “section 3001(a) of title III of division B of the American Recovery and Reinvestment Act of 2009” for “section 3002(a) of the Health Insurance Assistance for the Unemployed Act of 2009”.
+Subsec. (g)(9). Pub. L. 111–344, §115(a), substituted “February 13, 2011” for “January 1, 2011”, in par. (9) relating to continued qualification of family members after certain events.
 
-Subsec. (g)(10). Pub. L. 111–344, §115(a), which directed amendment of par. (9) by substituting “February 13, 2011” for “January 1, 2011”, was executed by making the substitution in par. (10) relating to continued qualification of family members after certain events, to reflect the probable intent of Congress and the redesignation of par. (9) as (10) by Pub. L. 111–5, §3001(a)(14)(A). See 2009 Amendment note below.
+Pub. L. 111–144, which directed amendment of par. (9) by substituting “section 3001(a) of title III of division B of the American Recovery and Reinvestment Act of 2009” for “section 3002(a) of the Health Insurance Assistance for the Unemployed Act of 2009”, was executed by making the substitution in par. (9) relating to COBRA premium assistance, to reflect the probable intent of Congress.
 
 <b>2009</b>—Subsec. (a). Pub. L. 111–5, §1899A(a)(1), inserted “(80 percent in the case of eligible coverage months beginning before January 1, 2011)” after “65 percent”.
 
@@ -336,13 +344,29 @@ Subsec. (c)(2). Pub. L. 111–5, §1899C(a), amended par. (2) generally. Prior t
 
 Subsec. (e)(1)(K). Pub. L. 111–5, §1899G(a), added subpar. (K).
 
-Subsec. (g)(9), (10). Pub. L. 111–5, §3001(a)(14)(A), added par. (9) and redesignated former par. (9) as (10) relating to continued qualification of family members after certain events.
+Subsec. (g)(9), (10). Pub. L. 111–5, §3001(a)(14)(A), added par. (9) relating to COBRA premium assistance and redesignated former par. (9) as (10).
 
-Pub. L. 111–5, §1899E(a), added par. (9) and redesignated former par. (9) as (10) relating to regulations. Amendment was executed before amendment by Pub. L. 111–5, §3001(a)(14)(A), to reflect the probable intent of Congress, notwithstanding effective date provisions in section 1891 of Pub. L. 111–5. See Effective Date of 2009 Amendment note below.
+Pub. L. 111–5, §1899E(a), which directed addition of par. (9) and redesignation of par. (9) as (10), was executed by only adding par. (9) relating to continued qualification of family members after certain events.
 
 <b>2007</b>—Subsec. (d)(2). Pub. L. 110–172 struck out “paragraph (2) or (4) of” before “section 152(e)” and substituted “(as defined in section 152(e)(4)(A))” for “(within the meaning of section 152(e)(1))”.
 
 <b>2004</b>—Subsec. (g)(3). Pub. L. 108–311 amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “Amounts distributed from an Archer MSA (as defined in section 220(d)) shall not be taken into account under subsection (a).”
+
+#### Effective Date of 2011 Amendment
+
+Pub. L. 112–40, title II, §241(c), Oct. 21, 2011, 125 Stat. 419, provided that:
+
+“(1)
+
+In general.—Except as otherwise provided in this subsection, the amendments made by this section \[amending this section, section 7527 of this title, and section 2918 of Title 29, Labor\] shall apply to coverage months beginning after February 12, 2011.
+
+“(2)
+
+Advance payment provisions.—
+
+&emsp;“(A) The amendment made by subsection (b)(2)(B) \[amending section 7527 of this title\] shall apply to certificates issued after the date which is 30 days after the date of the enactment of this Act \[Oct. 21, 2011\].
+
+&emsp;“(B) The amendment made by subsection (b)(2)(D) \[amending section 7527 of this title\] shall apply to coverage months beginning after the date which is 30 days after the date of the enactment of this Act.”
 
 #### Effective Date of 2010 Amendment
 
@@ -368,7 +392,7 @@ Pub. L. 111–5, div. B, title I, §1899E(c), Feb. 17, 2009, 123 Stat. 428, prov
 
 Pub. L. 111–5, div. B, title I, §1899G(b), Feb. 17, 2009, 123 Stat. 430, provided that: “The amendments made by this section \[amending this section\] shall apply to coverage months beginning after the date of the enactment of this Act \[Feb. 17, 2009\].”
 
-Amendment by section 3001(a)(14)(A) of Pub. L. 111–5 applicable to taxable years ending after Feb. 17, 2009,see section 3001(a)(14)(B) of Pub. L. 111–5, set out as a Premium Assistance for COBRA Benefits note under section 6432 of this title.
+Amendment by section 3001(a)(14)(A) of Pub. L. 111–5 applicable to taxable years ending after Feb. 17, 2009, see section 3001(a)(14)(B) of Pub. L. 111–5, set out as a Premium Assistance for COBRA Benefits note under section 6432 of this title.
 
 #### Effective Date of 2004 Amendment
 
@@ -434,11 +458,11 @@ Non-HCTC participants.—In the case of eligible individuals not receiving the h
 
 &emsp;“(3)
 
-Report.—Not later than December 31 of each year in which a survey is conducted under paragraph (1) (beginning in 2010), the Secretary of the Treasury shall report to the Committee on Finance and the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Ways and Means, the Committee on Education and Labor, and the Committee on Energy and Commerce of the House of Representatives the findings of the most recent survey conducted under paragraph (1).
+Report.—Not later than December 31 of each year in which a survey is conducted under paragraph (1) (beginning in 2010), the Secretary of the Treasury shall report to the Committee on Finance and the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Ways and Means, the Committee on Education and Labor \[now Committee on Education and the Workforce\], and the Committee on Energy and Commerce of the House of Representatives the findings of the most recent survey conducted under paragraph (1).
 
 “(b)
 
-Report.—Not later than October 1 of each year (beginning in 2010), the Secretary of the Treasury (after consultation with the Secretary of Health and Human Services, and, in the case of the information required under paragraph (7), the Secretary of Labor) shall report to the Committee on Finance and the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Ways and Means, the Committee on Education and Labor, and the Committee on Energy and Commerce of the House of Representatives the following information with respect to the most recent taxable year ending before such date:
+Report.—Not later than October 1 of each year (beginning in 2010), the Secretary of the Treasury (after consultation with the Secretary of Health and Human Services, and, in the case of the information required under paragraph (7), the Secretary of Labor) shall report to the Committee on Finance and the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Ways and Means, the Committee on Education and Labor \[now Committee on Education and the Workforce\], and the Committee on Energy and Commerce of the House of Representatives the following information with respect to the most recent taxable year ending before such date:
 
 &emsp;“(1) In each State and nationally—
 
@@ -478,5 +502,5 @@ Report.—Not later than October 1 of each year (beginning in 2010), the Secreta
 
 &emsp;“(7) The number of States applying for and receiving national emergency grants under section 173(f) of the Workforce Investment Act of 1998 (29 U.S.C. 2918(f)), the activities funded by such grants on a State-by-State basis, and the time necessary for application approval of such grants.”
 
-<i><sup>1</sup></i><i> So in original. There are two pars. designated “(10)”.</i>
+<i><sup>1</sup></i><i> So in original. There are two pars. designated “(9)”.</i>
 

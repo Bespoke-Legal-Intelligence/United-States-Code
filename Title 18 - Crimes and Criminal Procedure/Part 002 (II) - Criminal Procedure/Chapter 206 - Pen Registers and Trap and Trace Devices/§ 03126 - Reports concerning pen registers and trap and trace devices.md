@@ -12,7 +12,7 @@ The Attorney General shall annually report to Congress on the number of pen regi
 
 &emsp;(5) the identity, including district, of the applying investigative or law enforcement agency making the application and the person authorizing the order.
 
-(Added Pub. L. 99–508, title III, §301(a), Oct. 21, 1986, 100 Stat. 1871, §3125; renumbered §3126, Pub. L. 100–690, title VII, §7092(a)(1), Nov. 18, 1988, 102Stat. 4410; amended Pub. L. 106–197, §3, May 2, 2000, 114 Stat. 247.)
+(Added Pub. L. 99–508, title III, §301(a), Oct. 21, 1986, 100 Stat. 1871, §3125; renumbered §3126, Pub. L. 100–690, title VII, §7092(a)(1), Nov. 18, 1988, 102 Stat. 4410; amended Pub. L. 106–197, §3, May 2, 2000, 114 Stat. 247.)
 
 #### Prior Provisions
 

@@ -50,7 +50,7 @@ In this chapter:
 
 #### (9) State and Local Law Enforcement Badge
 
-&emsp;The term “State and Local Law Enforcement Badge” means the State and Local LawEnforcement Congressional Badge of Bravery described in section 15251 of this title.
+&emsp;The term “State and Local Law Enforcement Badge” means the State and Local Law Enforcement Congressional Badge of Bravery described in section 15251 of this title.
 
 #### (10) State or local agency head
 

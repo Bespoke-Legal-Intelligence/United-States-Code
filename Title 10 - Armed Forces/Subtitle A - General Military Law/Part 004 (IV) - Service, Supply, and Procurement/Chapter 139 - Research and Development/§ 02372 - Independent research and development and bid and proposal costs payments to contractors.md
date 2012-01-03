@@ -34,7 +34,7 @@ Adjusted Maximum Reimbursement Amount.—For purposes of subsection (c)(2), the 
 
 &emsp;&emsp;(A) the percentage by which the projected total amount of such incurred costs for such fiscal year exceeds the total amount of the incurred costs of the contractor for the preceding fiscal year; or
 
-&emsp;&emsp;(B) the estimated percentage rate of inflation from the end of the preceding fiscal year to the end of the fiscal year for which the amount of the limitation is being computed.
+&emsp;&emsp;(B) the estimated percentage rate of inflation from the end of the preceding fiscal year to the end of the fiscal year for whichthe amount of the limitation is being computed.
 
 (e)
 

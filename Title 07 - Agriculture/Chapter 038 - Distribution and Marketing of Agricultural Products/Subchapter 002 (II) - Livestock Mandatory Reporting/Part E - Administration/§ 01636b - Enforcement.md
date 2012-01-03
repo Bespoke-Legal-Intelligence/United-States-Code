@@ -72,7 +72,7 @@ No penalty shall be assessed, or cease and desist order issued, by the Secretary
 
 #### (3) Civil penalty
 
-&emsp;If the court finds that the person violated the cease and desist provisions of the order, the person shall be subject to a civil penalty of not more than $10,000 for each offense.
+&emsp;If the court finds that the person violated the cease and desist provisions of the order,the person shall be subject to a civil penalty of not more than $10,000 for each offense.
 
 (Aug. 14, 1946, ch. 966, title II, §253, as added Pub. L. 106–78, title IX, §911(2), Oct. 22, 1999, 113 Stat. 1202.)
 

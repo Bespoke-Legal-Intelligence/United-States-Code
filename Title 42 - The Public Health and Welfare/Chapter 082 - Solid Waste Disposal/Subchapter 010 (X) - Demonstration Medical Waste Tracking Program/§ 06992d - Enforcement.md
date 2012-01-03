@@ -28,7 +28,7 @@ Any person who—
 
 &emsp;(3) knowingly generates, stores, treats, transports, disposes of, or otherwise handles any medical waste (whether such activity took place before or takes place after November 1, 1988) and who knowingly destroys, alters, conceals, or fails to file any record, report, or other document required to be maintained or filed for purposes of compliance with this subchapter or regulations thereunder
 
-> shall, upon conviction, be subject to a fine of not more than $50,000 for each day of violation, or imprisonment not to exceed 2 years (5 years in the case of a violation of paragraph (1)). If the conviction is for a violation committed after a first conviction of such person under this paragraph, the maximum punishment under the respective paragraph shall be doubled with respect to both fine and imprisonment.
+> shall, upon conviction, be subject to a fine of not more than $50,000 for each day of violation, or imprisonment not to exceed 2 years (5 yearsin the case of a violation of paragraph (1)). If the conviction is for a violation committed after a first conviction of such person under this paragraph, the maximum punishment under the respective paragraph shall be doubled with respect to both fine and imprisonment.
 
 #### (c) Knowing endangerment
 

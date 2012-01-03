@@ -2,7 +2,7 @@
 
 #### (a) Requirements
 
-Every person, before commencing the business of manufacturing vinegar by the vaporizing process, and at such other times as the Secretary may by regulations prescribe, shall make application to the Secretary for the registration of his plant and receive permission to operate. No application required under this section shall be approved until the applicant has complied with all requirements of law, and regulations prescribed by the Secretary, in relation to such business. With respect to any change in such business after approval of an application, the Secretary may by regulations authorize the filing of written notice of such change or require the filing of an application to make such change.
+Every person, before commencing the business of manufacturing vinegar by the vaporizingprocess, and at such other times as the Secretary may by regulations prescribe, shall make application to the Secretary for the registration of his plant and receive permission to operate. No application required under this section shall be approved until the applicant has complied with all requirements of law, and regulations prescribed by the Secretary, in relation to such business. With respect to any change in such business after approval of an application, the Secretary may by regulations authorize the filing of written notice of such change or require the filing of an application to make such change.
 
 #### (b) Form of application
 
@@ -14,7 +14,7 @@ The application required by subsection (a) shall be in such form and contain suc
 
 A prior section 5502, act Aug. 16, 1954, ch. 736, 68A Stat. 677, related to distilled vinegar, prior to the general revision of this chapter by Pub. L. 85–859.
 
-Provisions similar to those comprising subsec. (a) of this section were contained in prior section 5216(a)(1),act Aug. 16, 1954, ch. 736, 68A Stat. 640, prior to the general revision of this chapter by Pub. L. 85–859.
+Provisions similar to those comprising subsec. (a) of this section were contained in prior section 5216(a)(1), act Aug. 16, 1954, ch. 736, 68A Stat. 640, prior to the general revision of this chapter by Pub. L. 85–859.
 
 #### Amendments
 

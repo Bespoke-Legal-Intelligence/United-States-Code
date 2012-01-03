@@ -2,7 +2,7 @@
 
 #### (a) Provisions required
 
-The Secretary of Labor shall make no certification for payment to any State unless he findsthat the law of such State, approved by the Secretary of Labor under the Federal Unemployment Tax Act \[26 U.S.C. 3301 et seq.\], includes provision for—
+The Secretary of Labor shall make no certification for payment to any State unless he finds that the law of such State, approved by the Secretary of Labor under the Federal Unemployment Tax Act \[26 U.S.C. 3301 et seq.\], includes provision for—
 
 &emsp;(1) Such methods of administration (including after January 1, 1940, methods relating to the establishment and maintenance of personnel standards on a merit basis, except that the Secretary of Labor shall exercise no authority with respect to the selection, tenure of office, and compensation of any individual employed in accordance with such methods) as are found by the Secretary of Labor to be reasonably calculated to insure full payment of unemployment compensation when due; and
 
@@ -12,7 +12,7 @@ The Secretary of Labor shall make no certification for payment to any State unle
 
 &emsp;(4) The payment of all money received in the unemployment fund of such State (except for refunds of sums erroneously paid into such fund and except for refunds paid in accordance with the provisions of section 3305(b) of the Federal Unemployment Tax Act \[26 U.S.C. 3305(b)\]), immediately upon such receipt, to the Secretary of the Treasury to the credit of the unemployment trust fund <sup>1</sup> established by section 1104 of this title; and
 
-&emsp;(5) Expenditure of all money withdrawn from an unemployment fund of such State, in the payment of unemployment compensation, exclusive of expenses of administration, and for refunds of sums erroneously paid into such fund and refunds paid in accordance with the provisions of section 3305(b) of the Federal Unemployment Tax Act \[26 U.S.C. 3305(b)\]: <i>Provided</i>, That an amount equal to the amount of employee payments into the unemployment fund of a State may be used in the payment of cash benefits to individuals with respect to their disability, exclusive of expenses of administration: <i>Provided further</i>, That the amounts specified by section 1103(c)(2) or 1103(d)(4) of this title may, subject to the conditions prescribed in such section, be used for expenses incurred by the State for administration of its unemployment compensation law and public employment offices: <i>Provided further</i>, That nothing in this paragraph shall be construed to prohibit deducting an amount from unemployment compensation otherwise payable to an individual and using the amount so deducted to pay for health insurance, or the withholding of Federal, State, or local individual income tax, if the individual elected to have such deduction made and such deduction was made under a program approved by the Secretary of Labor: <i>Provided further</i>, That amounts may be deducted from unemployment benefits and used to repay overpayments as provided in subsection (g) of this section: <i>Provided further</i>, That amounts may be withdrawn for the payment of short-time compensation under a plan approved by the Secretary of Labor: <i>Provided further</i>, That amounts may be withdrawn for the payment of allowances under a self-employment assistance program (as defined in section 3306(t) of the Internal Revenue Code of 1986 \[26 U.S.C. 3306(t)\]); and
+&emsp;(5) Expenditure of all money withdrawn from an unemployment fund of such State, in the payment of unemployment compensation, exclusive of expenses of administration, and for refunds of sums erroneously paid into such fund and refunds paid in accordance with theprovisions of section 3305(b) of the Federal Unemployment Tax Act \[26 U.S.C. 3305(b)\]: <i>Provided</i>, That an amount equal to the amount of employee payments into the unemployment fund of a State may be used in the payment of cash benefits to individuals with respect to their disability, exclusive of expenses of administration: <i>Provided further</i>, That the amounts specified by section 1103(c)(2) or 1103(d)(4) of this title may, subject to the conditions prescribed in such section, be used for expenses incurred by the State for administration of its unemployment compensation law and public employment offices: <i>Provided further</i>, That nothing in this paragraph shall be construed to prohibit deducting an amount from unemployment compensation otherwise payable to an individual and using the amount so deducted to pay for health insurance, or the withholding of Federal, State, or local individual income tax, if the individual elected to have such deduction made and such deduction was made under a program approved by the Secretary of Labor: <i>Provided further</i>, That amounts may be deducted from unemployment benefits and used to repay overpayments as provided in subsection (g) of this section: <i>Provided further</i>, That amounts may be withdrawn for the payment of short-time compensation under a plan approved by the Secretary of Labor: <i>Provided further</i>, That amounts may be withdrawn for the payment of allowances under a self-employment assistance program (as defined in section 3306(t) of the Internal Revenue Code of 1986 \[26 U.S.C. 3306(t)\]); and
 
 &emsp;(6) The making of such reports, in such form and containing such information, as the Secretary of Labor may from time to time require, and compliance with such provisions as the Secretary of Labor may from time to time find necessary to assure the correctness and verification of such reports; and
 
@@ -26,7 +26,11 @@ The Secretary of Labor shall make no certification for payment to any State unle
 
 &emsp;&emsp;(A) such claimant has completed such services; or
 
-&emsp;&emsp;(B) there is justifiable cause for such claimant's failure to participate in such services.
+&emsp;&emsp;(B) there is justifiable cause for such claimant's failure to participate in such services; and
+
+&emsp;(11)(A) At the time the State agency determines an erroneous payment from its unemployment fund was made to an individual due to fraud committed by such individual, the assessment of a penalty on the individual in an amount of not less than 15 percent of the amount of the erroneous payment; and
+
+&emsp;(B) The immediate deposit of all assessments paid pursuant to subparagraph (A) into the unemployment fund of the State.
 
 #### (b) Failure to comply; payments stopped
 
@@ -36,7 +40,7 @@ Whenever the Secretary of Labor, after reasonable notice and opportunity for hea
 
 &emsp;(2) a failure to comply substantially with any provision specified in subsection (a) of this section;
 
-> the Secretary of Labor shall notify such State agency that further payments will not be made to the State until the Secretary of Labor is satisfied that there is no longer any such denial or failure to comply. Until he is so satisfied he shall make no further certification to the Secretary of the Treasury with respect to suchState: <i>Provided</i>, That there shall be no finding under clause (1) until the question of entitlement shall have been decided by the highest judicial authority given jurisdiction under such State law: <i>Provided further</i>, That any costs may be paid with respect to any claimant by a State and included as costs of administration of its law.
+> the Secretary of Labor shall notify such State agency that further payments will not be made to the State until the Secretary of Labor is satisfied that there is no longer any such denial or failure to comply. Until he is so satisfied he shall make no further certification to the Secretary of the Treasury with respect to such State: <i>Provided</i>, That there shall be no finding under clause (1) until the question of entitlement shall have been decided by the highest judicial authority given jurisdiction under such State law: <i>Provided further</i>, That any costs may be paid with respect to any claimant by a State and included as costs of administration of its law.
 
 #### (c) Denial of certification; availability of records to Railroad Retirement Board; cooperation with Federal agencies
 
@@ -46,7 +50,7 @@ The Secretary of Labor shall make no certification for payment to any State if h
 
 &emsp;(2) that such State is failing to afford reasonable cooperation with every agency of the United States charged with the administration of any unemployment insurance law; or
 
-&emsp;(3) that any interest required to be paid on advances under subchapter XII of this chapter has not been paid by the date on which such interest is required to be paid or has been paid directly or indirectly (by an equivalent reduction in State unemployment taxes or otherwise) by such State from amounts in such State's unemployment fund, until such interest is properly paid.
+&emsp;(3) that any interest required to be paid on advances under subchapter XII of this chapter has not been paid by the date on which such interest is required to be paid or has been paiddirectly or indirectly (by an equivalent reduction in State unemployment taxes or otherwise) by such State from amounts in such State's unemployment fund, until such interest is properly paid.
 
 #### (d) Disclosure of unemployment compensation information; coordination with supplemental nutrition assistance program benefits agencies; non-compliance of State agency
 
@@ -184,7 +188,7 @@ The State agency charged with the administration of the State law shall provide 
 
 (1) The State agency charged with the administration of the State law shall establish and utilize a system of profiling all new claimants for regular compensation that—
 
-&emsp;(A) identifies which claimants will be likely to exhaust regular compensation and will needjob search assistance services to make a successful transition to new employment;
+&emsp;(A) identifies which claimants will be likely to exhaust regular compensation and will need job search assistance services to make a successful transition to new employment;
 
 &emsp;(B) refers claimants identified pursuant to subparagraph (A) to reemployment services, such as job search assistance services, available under any State or Federal law;
 
@@ -230,15 +234,13 @@ The State agency charged with the administration of the State law shall provide 
 
 &emsp;(F) the term “person” has the meaning given such term by section 7701(a)(1) of the Internal Revenue Code of 1986.
 
-(Aug. 14, 1935, ch. 531, title III, §303, 49 Stat. 626; June 25, 1938, ch. 680, §13(g), 52 Stat. 1112; June 20, 1939, ch. 227, §18, 53 Stat. 848; Aug. 10, 1939, ch. 666, title III, §302, 53 Stat. 1378; 1946 Reorg. Plan No. 2, §4, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; Aug. 10, 1946, ch. 951, title IV, §416(c), 60 Stat. 991; 1949 Reorg. Plan No. 2, §1, eff. Aug. 20, 1949, 14 F.R. 5225, 63 Stat. 1065; Aug. 28, 1950, ch. 809, title IV, §405(b), 64 Stat. 560; Aug. 5, 1954, ch. 657, §5(a)(1), 68 Stat. 673; Pub. L. 96–249, title I, §127(b)(1), May 26, 1980, 94 Stat. 366; Pub. L. 96–265, title IV, §408(b)(1), June 9, 1980, 94 Stat. 468; Pub. L. 96–473, §6(e)(1), Oct. 19, 1980, 94 Stat. 2265; Pub. L. 97–35, title XXIII, §2335(b), Aug. 13, 1981, 95 Stat. 863; Pub. L. 97–248, title I, §§171(b)(3), 175(a)(2), Sept. 3, 1982, 96 Stat. 401, 403; Pub. L. 98–21, title V, §§515(a), 523(b), Apr. 20, 1983, 97 Stat. 147, 148; Pub. L. 98–369, div. B, title VI, §§2651(d), 2663(b)(2)–(5), July 18, 1984, 98 Stat. 1149, 1165; Pub. L. 99–198, title XV, §1535(b)(3), Dec. 23, 1985, 99 Stat. 1584; Pub. L. 99–272, title XII, §12401(a), Apr. 7, 1986, 100 Stat. 297; Pub. L. 100–485, title I, §124(b)(1), Oct. 13, 1988, 102 Stat. 2353; Pub. L. 100–628, title IX, §904(c)(1)(A), Nov. 7, 1988, 102 Stat. 3260; Pub. L. 102–318, title IV, §401(a)(3), July 3, 1992, 106 Stat. 298; Pub. L. 103–152, §4(a)(1), (b), Nov. 24, 1993, 107 Stat. 1517; Pub. L. 103–182, title V, §507(b)(3), Dec. 8, 1993, 107 Stat. 2154; Pub. L. 103–465, title VII, §702(c)(3), Dec. 8, 1994, 108 Stat. 4997; Pub. L. 104–193, title III, §§313(d), 316(g)(3), Aug. 22, 1996, 110 Stat. 2212, 2219; Pub. L. 105–33, title V, §5201, Aug. 5, 1997, 111 Stat. 597; Pub. L. 105–65, title V, §542(a)(1), Oct. 27, 1997, 111 Stat. 1412; Pub. L. 107–147, title II, §209(d)(2), Mar. 9, 2002, 116 Stat. 33; Pub. L. 108–295, §2(a), Aug. 9, 2004, 118 Stat. 1090; Pub. L. 110–234, title IV, §§4002(b)(1)(A), (B), (D), (2)(V), 4115(c)(1)(A)(i), (B)(iii), (2)(F), May 22, 2008, 122 Stat. 1095–1097, 1109, 1110; Pub. L. 110–246, §4(a), title IV, §§4002(b)(1)(A), (B), (D), (2)(V), 4115(c)(1)(A)(i), (B)(iii), (2)(F), June 18, 2008, 122 Stat. 1664, 1857, 1858, 1870, 1871.)
+(Aug. 14, 1935, ch. 531, title III, §303, 49 Stat. 626; June 25, 1938, ch. 680, §13(g), 52 Stat. 1112; June 20, 1939, ch. 227, §18, 53 Stat. 848; Aug. 10, 1939, ch. 666, title III, §302, 53 Stat. 1378; 1946 Reorg. Plan No. 2, §4, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; Aug. 10, 1946, ch. 951, title IV, §416(c), 60 Stat. 991; 1949 Reorg. Plan No. 2, §1, eff. Aug. 20, 1949, 14 F.R. 5225, 63 Stat. 1065; Aug. 28, 1950, ch. 809, title IV, §405(b), 64 Stat. 560; Aug. 5, 1954, ch. 657, §5(a)(1), 68 Stat. 673; Pub. L. 96–249, title I, §127(b)(1), May 26, 1980, 94 Stat. 366; Pub. L. 96–265, title IV, §408(b)(1), June 9, 1980, 94 Stat. 468; Pub. L. 96–473, §6(e)(1), Oct. 19, 1980, 94 Stat. 2265; Pub. L. 97–35, title XXIII, §2335(b), Aug. 13, 1981, 95 Stat. 863; Pub. L. 97–248, title I, §§171(b)(3), 175(a)(2), Sept. 3, 1982, 96 Stat. 401, 403; Pub. L. 98–21, title V, §§515(a), 523(b), Apr. 20, 1983, 97 Stat. 147, 148; Pub. L. 98–369, div. B, title VI, §§2651(d), 2663(b)(2)–(5), July 18, 1984, 98 Stat. 1149, 1165; Pub. L. 99–198, title XV, §1535(b)(3), Dec. 23, 1985, 99 Stat. 1584; Pub. L. 99–272, title XII, §12401(a), Apr. 7, 1986, 100 Stat. 297; Pub. L. 100–485, title I, §124(b)(1), Oct. 13, 1988, 102 Stat. 2353; Pub. L. 100–628, title IX, §904(c)(1)(A), Nov. 7, 1988, 102 Stat. 3260; Pub. L. 102–318, title IV, §401(a)(3), July 3, 1992, 106 Stat. 298; Pub. L. 103–152, §4(a)(1), (b), Nov. 24, 1993, 107 Stat. 1517; Pub. L. 103–182, title V, §507(b)(3), Dec. 8, 1993, 107 Stat. 2154; Pub. L. 103–465, title VII, §702(c)(3), Dec. 8, 1994, 108 Stat. 4997; Pub. L. 104–193, title III, §§313(d), 316(g)(3), Aug. 22, 1996, 110 Stat. 2212, 2219; Pub. L. 105–33, title V, §5201, Aug. 5, 1997, 111 Stat. 597; Pub. L. 105–65, title V, §542(a)(1), Oct. 27, 1997, 111 Stat. 1412; Pub. L. 107–147, title II, §209(d)(2), Mar. 9, 2002, 116 Stat. 33; Pub. L. 108–295, §2(a), Aug. 9, 2004, 118 Stat. 1090; Pub. L. 110–234, title IV, §§4002(b)(1)(A), (B), (D), (2)(V), 4115(c)(1)(A)(i), (B)(iii), (2)(F), May 22, 2008, 122 Stat. 1095–1097, 1109, 1110; Pub. L. 110–246, §4(a), title IV, §§4002(b)(1)(A), (B), (D), (2)(V), 4115(c)(1)(A)(i), (B)(iii), (2)(F), June 18, 2008, 122 Stat. 1664, 1857, 1858, 1870, 1871; Pub. L. 112–40, title II, §251(a), Oct. 21, 2011, 125 Stat. 420.)
 
 #### References in Text
 
-The Federal Unemployment Tax Act, referred to in subsec. (a), is act Aug. 16, 1954, ch. 736, §§3301–3311, 68AStat. 439, which is classified generally to chapter 23 (§3301 et seq.) of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see section 3311 of Title 26 and Tables.
+The Federal Unemployment Tax Act, referred to in subsec. (a), is act Aug. 16, 1954, ch. 736, §§3301–3311, 68A Stat. 439, which is classified generally to chapter 23 (§3301 et seq.) of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see section 3311 of Title 26 and Tables.
 
 The Food and Nutrition Act of 2008, referred to in subsec. (d)(1)(B), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
-
-Part D of subchapter IV of this chapter, referred to in subsec. (e)(1), is classified to section 651 et seq. of this title.
 
 Section 662 of this title, referred to in subsec. (e)(2)(A)(iii)(III), was repealed by Pub. L. 104–193, title III, §362(b)(1), Aug. 22, 1996, 110 Stat. 2246.
 
@@ -249,6 +251,8 @@ The Internal Revenue Code of 1986, referred to in subsec. (k)(2)(D), (F), is cla
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (a)(11). Pub. L. 112–40 added par. (11).
 
 <b>2008</b>—Subsec. (d)(1)(A). Pub. L. 110–246, §4002(b)(1)(D), (2)(V), substituted “supplemental nutrition assistance program benefits” for “food stamp” in introductory provisions.
 
@@ -340,9 +344,21 @@ Subsec. (c)(2). Act June 20, 1939, substituted “unemployment” for “employm
 
 <b>1938</b>—Subsec. (c). Act June 25, 1938, added subsec. (c).
 
+#### Effective Date of 2011 Amendment
+
+Pub. L. 112–40, title II, §251(c), Oct. 21, 2011, 125 Stat. 421, provided that:
+
+“(1)
+
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to erroneous payments established after the end of the 2-year period beginning on the date of the enactment of this Act \[Oct. 21, 2011\].
+
+“(2)
+
+Authority.—A State may amend its State law to apply such amendments to erroneous payments established prior to the end of the period described in paragraph (1).”
+
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 Amendment by sections 4002(b)(1)(A), (B), (D), (2)(V), and 4115(c)(1)(A)(i), (B)(iii), (2)(F) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 
@@ -431,6 +447,32 @@ Functions of Federal Security Administrator with respect to unemployment compens
 Section 1 of Reorg. Plan No. 2 of 1949 also provided that functions transferred by this section shall be performed by Secretary of Labor, or subject to his direction and control, by such officers, agencies, and employees of Department of Labor as he shall designate.
 
 “Administrator” substituted for “Board” by section 2 of Reorg. Plan No. 2 of 1946, set out in the Appendix to Title 5.
+
+#### Application to Federal Payments
+
+Pub. L. 112–40, title II, §251(b), Oct. 21, 2011, 125 Stat. 421, provided that:
+
+“(1)
+
+In general.—As a condition for administering any unemployment compensation program of the United States (as defined in paragraph (2)) as an agent of the United States, if the State determines that an erroneous payment was made by the State to an individual under any such program due to fraud committed by such individual, the State shall assess a penalty on such individual and deposit any such penalty received in the same manner as the State assesses and deposits such penalties under provisions of State law implementing section 303(a)(11) of the Social Security Act \[42 U.S.C. 503(a)(11)\], as added by subsection (a).
+
+“(2)
+
+Definition.—For purposes of this subsection, the term ‘unemployment compensation program of the United States’ means—
+
+&emsp;“(A) unemployment compensation for Federal civilian employees under subchapter I of chapter 85 of title 5, United States Code;
+
+&emsp;“(B) unemployment compensation for ex-servicemembers under subchapter II of chapter 85 of title 5, United States Code;
+
+&emsp;“(C) trade readjustment allowances under sections 231 through 234 of the Trade Act of 1974 (19 U.S.C. 2291–2294);
+
+&emsp;“(D) disaster unemployment assistance under section 410(a) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5177(a));
+
+&emsp;“(E) any Federal temporary extension of unemployment compensation;
+
+&emsp;“(F) any Federal program which increases the weekly amount of unemployment compensation payable to individuals; and
+
+&emsp;“(G) any other Federal program providing for the payment of unemployment compensation.”
 
 #### Clarifying Provision Relating to Base Periods
 

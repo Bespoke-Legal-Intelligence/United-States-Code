@@ -2,7 +2,7 @@
 
 #### (a) Examiners and claim agents; powers; report by examiner; jurisdiction of court
 
-The Board shall appoint examiners who shall have power, on its behalf, to examine any insured credit union, any credit union making application for insurance of its member accounts, or any closed insured credit union whenever in the judgment of the Board an examination is necessary to determine the condition of any such credit union for insurance purposes. Each examiner shall have power to make a thorough examination of all of the affairs of the credit union and shall make a full and detailed report of the condition of the credit union to the Board. The Board in like manner shall appoint claim agents who shall have power to investigate and examine all claims for insured member accounts. Each claim agent shall have power to administer oaths and affirmations, to examine and to take and preserve testimony under oath as to any matter in respect to claims for insured accounts, and to issue subpenas and subpenas duces tecum and, for the enforcement thereof, to apply to the United States district court for the judicial district or the United States court in any territory in which the principal office of the credit union is located or in which the witness resides or carries on business. Such courts shall have jurisdiction and power to order and require compliance with any such subpena.
+The Board shall appoint examiners who shall have power, on its behalf, to examine any insured credit union, any credit union making application for insurance of its member accounts, or any closed insured credit union whenever in the judgment of the Board an examination is necessary to determine the condition of any such credit union for insurance purposes. Each examiner shall have power to make a thorough examination of all of the affairs of the credit union and shall make a full and detailed report of the condition of the credit union to the Board. The Board in like manner shall appoint claim agents who shall have power to investigate and examine all claims for insured member accounts. Each claim agent shall have power to administer oaths and affirmations, to examine and to take and preserve testimony under oath as to any matter in respect to claims for insured accounts, and to issue subpenas and subpenas duces tecum and, for the enforcement thereof, to apply to the United States district court for the judicial district or the UnitedStates court in any territory in which the principal office of the credit union is located or in which the witness resides or carries on business. Such courts shall have jurisdiction and power to order and require compliance with any such subpena.
 
 #### (b) Power of Board; jurisdiction of court
 
@@ -20,7 +20,7 @@ The Administration may accept any report of examination made by or to any commis
 
 #### (1) Examination
 
-&emsp;The Board shall, during each examination conducted under this section, determine whether the insured credit union is complyingwith the requirements of the national flood insurance program.
+&emsp;The Board shall, during each examination conducted under this section, determine whether the insured credit union is complying with the requirements of the national flood insurance program.
 
 #### (2) Report
 
@@ -48,17 +48,17 @@ The Board shall, for the purpose of facilitating insured credit unions’ access
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–351 substituted “such other powers” for “such others powers”.
+<b>2006</b>—Subsec. (b). Pub. L. 109–351 substituted “such other powers” for “such others powers”.
 
-1998—Subsecs. (f), (g). Pub. L. 105–219 added subsecs. (f) and (g).
+<b>1998</b>—Subsecs. (f), (g). Pub. L. 105–219 added subsecs. (f) and (g).
 
-1994—Subsec. (e). Pub. L. 103–325 added subsec. (e).
+<b>1994</b>—Subsec. (e). Pub. L. 103–325 added subsec. (e).
 
-1989—Subsec. (b). Pub. L. 101–73, §915(a)(1), inserted “or with other types of investigations to determine compliance with applicable law and regulations,” after “insured credit unions,”.
+<b>1989</b>—Subsec. (b). Pub. L. 101–73, §915(a)(1), inserted “or with other types of investigations to determine compliance with applicable law and regulations,” after “insured credit unions,”.
 
 Pub. L. 101–73, §915(a)(2), which directed the insertion of “and to exercise such others powers as are set forth in section 1786(p) of this title” after “subpena duces tecum”, was executed by making the insertion after “subpenas duces tecum”, as the probable intent of Congress.
 
-1978—Pub. L. 95–630 substituted “Board” for “Administrator” wherever appearing, and “it” and “its” for “him” and “his”, respectively, where appropriate.
+<b>1978</b>—Pub. L. 95–630 substituted “Board” for “Administrator” wherever appearing, and “it” and “its” for “him” and “his”, respectively, where appropriate.
 
 #### Effective Date of 1978 Amendment
 

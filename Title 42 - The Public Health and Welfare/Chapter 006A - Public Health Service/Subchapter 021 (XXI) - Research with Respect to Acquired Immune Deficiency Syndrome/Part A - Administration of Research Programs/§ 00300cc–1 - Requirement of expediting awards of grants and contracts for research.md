@@ -98,7 +98,7 @@ Guidelines of Centers for Disease Control and Prevention.—Promptly after comme
 
 #### Limitation on Expenditures for AIDS and HIV Activities
 
-Pub. L. 104–146, §11, May 20, 1996, 110 Stat. 1373, provided that: “Notwithstanding any other provision of law, the total amounts of Federal funds expended in any fiscal year for AIDS and HIV activities may not exceed the total amounts expended in such fiscal year for activities related to cancer.”
+Pub. L. 104–146, §11, May 20, 1996, 110 Stat. 1373, provided that: “Notwithstanding any other provision oflaw, the total amounts of Federal funds expended in any fiscal year for AIDS and HIV activities may not exceed the total amounts expended in such fiscal year for activities related to cancer.”
 
 #### Vaccines for Human Immunodeficiency Virus
 
@@ -130,7 +130,7 @@ Section 1. <i>Establishment</i>. (a) The Secretary of Health and Human Services 
 
 (b) The Secretary shall designate a Chairperson from among the members of the Advisory Council.
 
-Sec. 2. <i>Functions</i>. The Advisory Council shall provide advice, information, and recommendations to the Secretary regarding programs and policies intended to (a) promote effective prevention of HIV disease, (b) advance research on HIV and AIDS, and (c) promote quality services to persons living with HIV disease and AIDS. The functions of the Advisory Council shall besolely advisory in nature. The Secretary shall provide the President with copies of all written reports provided to the Secretary by the Advisory Council.
+Sec. 2. <i>Functions</i>. The Advisory Council shall provide advice, information, and recommendations to the Secretary regarding programs and policies intended to (a) promote effective prevention of HIV disease, (b) advance research on HIV and AIDS, and (c) promote quality services to persons living with HIV disease and AIDS. The functions of the Advisory Council shall be solely advisory in nature. The Secretary shall provide the President with copies of all written reports provided to the Secretary by the Advisory Council.
 
 Sec. 3. <i>Administration</i>. (a) The heads of executive departments and agencies shall, to the extent permitted by law, provide the Advisory Council with such information as it may require for purposes of carrying out its functions.
 
@@ -192,7 +192,7 @@ Sec. 3. <i>Role of the Secretary of Health and Human Services</i>. The Secretary
 
 (b) <i>Coordination with Other Agencies</i>. The Secretary, or the Secretary's designee, shall be responsible for convening interagency efforts to improve coordination of HIV/AIDS programs and activities. This may include collaboration with governmental and nongovernmental entities to achieve the Federal Government's implementation and research priorities in the areas of highest impact.
 
-(c) <i>Presidential Advisory Council on HIV/AIDS (PACHA)</i>. PACHA, which was established by Executive Order 12963 of June 14, 1995 (Presidential AdvisoryCouncil on HIV/AIDS), as amended, shall monitor the implementation of the Strategy and make recommendations to the Secretary and to the Director of the ONAP, as appropriate, concerning implementation.
+(c) <i>Presidential Advisory Council on HIV/AIDS (PACHA)</i>. PACHA, which was established by Executive Order 12963 of June 14, 1995 (Presidential Advisory Council on HIV/AIDS), as amended, shall monitor the implementation of the Strategy and make recommendations to the Secretary and to the Director of the ONAP, as appropriate, concerning implementation.
 
 Sec. 4. <i>Responsibilities of Other Agencies</i>. All agencies that support HIV/AIDS programs and activities shall ensure that, to the extent permitted by law, they are meeting the goals of the Strategy.
 

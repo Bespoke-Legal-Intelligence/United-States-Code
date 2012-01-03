@@ -1,16 +1,16 @@
 ### §1834. Reduced assessment rate for deposits attributable to lifeline accounts
 
-#### (a) Qualification of lifeline accounts by Federal Reserve Board
+#### (a) Qualification of lifeline accounts
 
 #### (1) In general
 
-&emsp;The Board of Governors of the Federal Reserve System, and the Federal Deposit Insurance Corporation shall establish minimum requirements for accounts providing basic transaction services for consumers at insured depository institutions in order for such accounts to qualify as lifeline accounts for purposes of this section and section 1817(b)(2)(H) <sup>1</sup> of this title.
+&emsp;The Comptroller of the Currency and the Federal Deposit Insurance Corporation shall establish minimum requirements for accounts providing basic transaction services for consumers at insured depository institutions in order for such accounts to qualify as lifeline accounts for purposes of this section and section 1817(b)(2)(E) of this title.
 
 #### (2) Factors to be considered
 
 &emsp;In determining the minimum requirements under paragraph (1) for lifeline accounts at insured depository institutions, the Corporation shall consider the following factors:
 
-&emsp;&emsp;(A) Whether the account is available to provide basic transaction services for individuals who maintain a balance of less than $1,000 or such other amount which the Board may determine to be appropriate.
+&emsp;&emsp;(A) Whether the account is available to provide basic transaction services for individuals who maintain a balance of less than $1,000 or such other amount which the Comptroller may determine to be appropriate.
 
 &emsp;&emsp;(B) Whether any service charges or fees to which the account is subject, if any, for routine transactions do not exceed a minimal amount.
 
@@ -34,15 +34,19 @@
 
 &emsp;For purposes of this subsection—
 
-#### (A) Corporation
+#### (A) Comptroller
+
+&emsp;&emsp;The term “Comptroller” means the Comptroller of the Currency.
+
+#### (B) Corporation
 
 &emsp;&emsp;The term “Corporation” means the Federal Deposit Insurance Corporation.
 
-#### (B) Insured depository institution
+#### (C) Insured depository institution
 
 &emsp;&emsp;The term “insured depository institution” has the meaning given to such term in section 1813(c)(2) of this title.
 
-#### (C) Lifeline account
+#### (D) Lifeline account
 
 &emsp;&emsp;The term “lifeline account” means any transaction account (as defined in section 461(b)(1)(C) of this title) which meets the minimum requirements established by the Corporation under this subsection.
 
@@ -52,11 +56,7 @@
 
 The provisions of this section shall not take effect until appropriations are specifically provided in advance. There are hereby authorized to be appropriated such sums as may be necessary to carry out the provisions of this section.
 
-(Pub. L. 102–242, title II, §232, Dec. 19, 1991, 105 Stat. 2308; Pub. L. 102–550, title XVI, §§1604(b)(1), 1605(a)(3), Oct. 28, 1992, 106 Stat. 4083, 4085; Pub. L. 102–558, title III, §§303(b)(1), (4), 305, Oct. 28, 1992, 106 Stat. 4224–4226; Pub. L. 104–208, div. A, title II, §2704(d)(16), Sept. 30, 1996, 110 Stat. 3009–495; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §3(a)(9), Feb. 15, 2006, 119 Stat. 3606.)
-
-#### References in Text
-
-Section 1817(b)(2)(H) of this title, referred to in subsec. (a)(1), was redesignated section 1817(b)(2)(E) by Pub. L. 109–173, §3(a)(3)(C), Feb. 15, 2006, 119 Stat. 3605.
+(Pub. L. 102–242, title II, §232, Dec. 19, 1991, 105 Stat. 2308; Pub. L. 102–550, title XVI, §§1604(b)(1), 1605(a)(3), Oct. 28, 1992, 106 Stat. 4083, 4085; Pub. L. 102–558, title III, §§303(b)(1), (4), 305, Oct. 28, 1992, 106 Stat. 4224–4226; Pub. L. 104–208, div. A, title II, §2704(d)(16), Sept. 30, 1996, 110 Stat. 3009–495; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §3(a)(9), Feb. 15, 2006, 119 Stat. 3606; Pub. L. 111–203, title III, §353, July 21, 2010, 124 Stat. 1546.)
 
 #### Codification
 
@@ -66,7 +66,15 @@ Section is comprised of section 232 of Pub. L. 102–242. Subsec. (b) of section
 
 #### Amendments
 
-2006—Subsec. (a)(1). Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(16). See 1996 Amendment note below.
+<b>2010</b>—Subsec. (a). Pub. L. 111–203, §353(1), struck out “by Federal Reserve Board” at end of heading.
+
+Subsec. (a)(1). Pub. L. 111–203, §353(2), substituted “The Comptroller of the Currency” for “The Board of Governors of the Federal Reserve System,” and “section 1817(b)(2)(E)” for “1817(b)(2)(H)”.
+
+Subsec. (a)(2)(A). Pub. L. 111–203, §353(3), substituted “Comptroller” for “Board”.
+
+Subsec. (a)(3). Pub. L. 111–203, §353(4), added subpar. (A) and redesignated former subpars. (A) to (C) as (B) to (D), respectively.
+
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(16). See 1996 Amendment note below.
 
 Subsec. (a)(2). Pub. L. 109–173, §3(a)(9)(A), struck out “the Board and” before “the Corporation” in introductory provisions.
 
@@ -76,11 +84,15 @@ Subsec. (a)(3)(A). Pub. L. 109–173, §3(a)(9)(C), added subpar. (A) and struck
 
 Subsec. (a)(3)(C). Pub. L. 109–173, §3(a)(9)(D), substituted “Corporation” for “Board”.
 
-1996—Subsec. (a)(1). Pub. L. 104–208, §2704(d)(16), which directed substitution of “section 1817(b)(2)(G) of this title” for “section 1817(b)(2)(H) of this title”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–208, §2704(d)(16), which directed substitution of “section 1817(b)(2)(G) of this title” for “section 1817(b)(2)(H) of this title”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below.
 
-1992—Subsec. (a)(1). Pub. L. 102–558, §303(b)(4), substituted “section 1817(b)(2)(H)” for “section 1817(b)(10)”. Pub. L. 102–550, §1605(a)(3), which made an identical amendment, was repealed, effective Oct. 28, 1992, by Pub. L. 102–558, §305, set out as a Repeal of Duplicative Provisions note under section 1815 of this title.
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–558, §303(b)(4), substituted “section 1817(b)(2)(H)” for “section 1817(b)(10)”. Pub. L. 102–550, §1605(a)(3), which made an identical amendment, was repealed, effective Oct. 28, 1992, by Pub. L. 102–558, §305, set out as a Repeal of Duplicative Provisions note under section 1815 of this title.
 
 Subsec. (b). Pub. L. 102–558, §303(b)(1), made technical correction to directory language of subsec. (b)(1). See Codification note above. Pub. L. 102–550, §1604(b)(1), which made a similar amendment, was repealed, effective Oct. 28, 1992, by Pub. L. 102–558, §305, set out as a Repeal of Duplicative Provisions note under section 1815 of this title.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the transfer date, see section 351 of Pub. L. 111–203, set out as a note under section 906 of Title 2, The Congress.
 
 #### Effective Date of 2006 Amendment
 
@@ -97,6 +109,4 @@ Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository 
 Section 303(b)(4) of Pub. L. 102–558 provided that the amendment made by that section is effective on the effective date of the amendment made by section 302(a) of Pub. L. 102–242 \[see section 302(g) of Pub. L. 102–242, set out as a note under section 1817 of this title\].
 
 Section 1605(a)(3) of Pub. L. 102–550, which provided effective date provisions for the amendment made by that section, was repealed, effective Oct. 28, 1992, by section 305 of Pub. L. 102–558, set out as a Repeal of Duplicative Provisions note under section 1815 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

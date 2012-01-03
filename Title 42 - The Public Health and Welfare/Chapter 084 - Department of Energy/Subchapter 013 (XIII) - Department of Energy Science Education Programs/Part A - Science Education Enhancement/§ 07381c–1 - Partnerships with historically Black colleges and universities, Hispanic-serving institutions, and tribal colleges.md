@@ -44,7 +44,7 @@ An activity described in subsection (b) of this section includes—
 
 Not later than 2 years after August 8, 2005, the Secretary shall submit to Congress a report describing the activities carried out under this section.
 
-(Pub. L. 101–510, div. C, title XXXI, §3167, as added Pub. L. 109–58, title XI, §1105(b)(2), Aug. 8,2005, 119 Stat. 940; amended Pub. L. 110–315, title IX, §941(k)(2)(M), Aug. 14, 2008, 122 Stat. 3467.)
+(Pub. L. 101–510, div. C, title XXXI, §3167, as added Pub. L. 109–58, title XI, §1105(b)(2), Aug. 8, 2005, 119 Stat. 940; amended Pub. L. 110–315, title IX, §941(k)(2)(M), Aug. 14, 2008, 122 Stat. 3467.)
 
 #### Prior Provisions
 

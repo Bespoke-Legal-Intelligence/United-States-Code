@@ -14,7 +14,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), an amount that is expended or disbursed for Federal election activity by a State, district, or local committee of a political party (includingan entity that is directly or indirectly established, financed, maintained, or controlled by a State, district, or local committee of a political party and an officer or agent acting on behalf of such committee or entity), or by an association or similar group of candidates for State or local office or of individuals holding State or local office, shall be made from funds subject to the limitations, prohibitions, and reporting requirements of this Act.
+&emsp;Except as provided in paragraph (2), an amount that is expended or disbursed for Federal election activity by a State, district, or local committee of a political party (including an entity that is directly or indirectly established, financed, maintained, or controlled by a State, district, or local committee of a political party and an officer or agent acting on behalf of such committee or entity), or by an association or similar group of candidates for State or local office or of individuals holding State or local office, shall be made from funds subject to the limitations, prohibitions, and reporting requirements of this Act.
 
 #### (2) Applicability
 
@@ -60,7 +60,7 @@ An amount spent by a person described in subsection (a) or (b) of this section t
 
 #### (d) Tax-exempt organizations
 
-A national, State, district, or local committee of a political party (including a national congressional campaign committee of a political party), an entity that is directly or indirectly established, financed, maintained, or controlled by any such national, State, district, or local committee or its agent, and an officer or agent acting on behalf of any such party committee or entity, shall not solicit any funds for, or make or direct any donations to—
+A national, State, district, or local committee of a political party (including a national congressional campaign committee of a political party), an entity that is directly or indirectly established, financed, maintained, or controlledby any such national, State, district, or local committee or its agent, and an officer or agent acting on behalf of any such party committee or entity, shall not solicit any funds for, or make or direct any donations to—
 
 &emsp;(1) an organization that is described in section 501(c) of title 26 and exempt from taxation under section 501(a) of such title (or has submitted an application for determination of tax exempt status under such section) and that makes expenditures or disbursements in connection with an election for Federal office (including expenditures or disbursements for Federal election activity); or
 
@@ -72,7 +72,7 @@ A national, State, district, or local committee of a political party (including 
 
 &emsp;A candidate, individual holding Federal office, agent of a candidate or an individual holding Federal office, or an entity directly or indirectly established, financed, maintained or controlled by or acting on behalf of 1 or more candidates or individuals holding Federal office, shall not—
 
-&emsp;&emsp;(A) solicit, receive, direct, transfer, or spend funds in connection with an electionfor Federal office, including funds for any Federal election activity, unless the funds are subject to the limitations, prohibitions, and reporting requirements of this Act; or
+&emsp;&emsp;(A) solicit, receive, direct, transfer, or spend funds in connection with an election for Federal office, including funds for any Federal election activity, unless the funds are subject to the limitations, prohibitions, and reporting requirements of this Act; or
 
 &emsp;&emsp;(B) solicit, receive, direct, transfer, or spend funds in connection with any election other than an election for Federal office or disburse funds in connection with such an election unless the funds—
 

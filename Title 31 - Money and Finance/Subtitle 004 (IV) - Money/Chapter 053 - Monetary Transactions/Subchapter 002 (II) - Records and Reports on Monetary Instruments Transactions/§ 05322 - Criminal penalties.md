@@ -48,7 +48,7 @@ Section 123 of Public Law 91–508, referred to in subsecs. (a) and (b), is clas
 
 #### Amendments
 
-<b>2001</b>—Subsec. (a). Pub. L. 107–56, §353(b)(1), inserted “or order issued” after “willfully violating this subchapter or a regulation prescribed” and “, or willfully violating a regulation prescribed under section 21 of the Federal Deposit Insurance Act or section 123 of Public Law 91–508,” after “under section 5315 or 5324)”.
+<b>2001</b>—Subsec. (a). Pub. L. 107–56, §353(b)(1), inserted “or order issued” after “willfully violating this subchapter or a regulation prescribed” and “, or willfully violating a regulation prescribed under section 21 of theFederal Deposit Insurance Act or section 123 of Public Law 91–508,” after “under section 5315 or 5324)”.
 
 Subsec. (b). Pub. L. 107–56, §353(b)(2), inserted “or order issued” after “willfully violating this subchapter or a regulation prescribed” and “or willfully violating a regulation prescribed under section 21 of the Federal Deposit Insurance Act or section 123 of Public Law 91–508,” after “under section 5315 or 5324),”.
 

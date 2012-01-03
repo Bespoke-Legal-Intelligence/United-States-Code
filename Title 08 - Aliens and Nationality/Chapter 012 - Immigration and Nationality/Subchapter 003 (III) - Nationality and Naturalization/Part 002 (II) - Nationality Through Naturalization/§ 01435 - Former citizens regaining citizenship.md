@@ -36,9 +36,9 @@ Section 317(a) and (b) of the Nationality Act of 1940, referred to in subsecs. (
 
 #### Amendments
 
-1994—Subsec. (d). Pub. L. 103–416 added subsec. (d).
+<b>1994</b>—Subsec. (d). Pub. L. 103–416 added subsec. (d).
 
-1990—Subsec. (a)(1). Pub. L. 101–649, §407(b)(3), (c)(7), (d)(6)(A)(i), substituted “State or district of the Service in the United States” for “State” and “application” for “petition” and inserted “and” at end.
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–649, §407(b)(3), (c)(7), (d)(6)(A)(i), substituted “State or district of the Service in the United States” for “State” and “application” for “petition” and inserted “and” at end.
 
 Subsec. (a)(2). Pub. L. 101–649, §407(c)(7), (d)(6)(A)(ii), substituted references to applicant and application for references to petitioner and petition, and substituted period for semicolon at end.
 
@@ -52,7 +52,7 @@ Subsec. (c)(2). Pub. L. 101–649, §407(d)(6)(C)(i), substituted “the Attorne
 
 Subsec. (c)(3). Pub. L. 101–649, §407(d)(6)(C)(ii), substituted “court, or the Attorney General” for “or naturalization court” in two places.
 
-1988—Subsec. (a)(4). Pub. L. 100–525 substituted “has” for “and the witnesses have”.
+<b>1988</b>—Subsec. (a)(4). Pub. L. 100–525 substituted “has” for “and the witnesses have”.
 
 #### Effective Date of 1994 Amendment
 

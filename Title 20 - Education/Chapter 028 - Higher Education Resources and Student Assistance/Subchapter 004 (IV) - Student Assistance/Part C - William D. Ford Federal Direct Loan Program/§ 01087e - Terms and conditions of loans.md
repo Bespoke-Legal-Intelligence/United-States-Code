@@ -18,6 +18,20 @@
 
 &emsp;&emsp;(D) section 1078–8 of this title shall be known as “Federal Direct Unsubsidized Stafford Loans”.
 
+#### (3) Termination of authority to make interest subsidized loans to graduate and professional students
+
+#### (A) In general
+
+&emsp;&emsp;Subject to subparagraph (B) and notwithstanding any provision of this part or part B, for any period of instruction beginning on or after July 1, 2012—
+
+&emsp;&emsp;&emsp;(i) a graduate or professional student shall not be eligible to receive a Federal Direct Stafford loan under this part; and
+
+&emsp;&emsp;&emsp;(ii) the maximum annual amount of Federal Direct Unsubsidized Stafford loans such a student may borrow in any academic year (as defined in section 1088(a)(2) of this title) or its equivalent shall be the maximum annual amount for such student determined under section 1078–8 of this title, plus an amount equal to the amount of Federal Direct Stafford loans the student would have received in the absence of this subparagraph.
+
+#### (B) Exception
+
+&emsp;&emsp;Subparagraph (A) shall not apply to an individual enrolled in course work specified in paragraph (3)(B) or (4)(B) of section 1091(b) of this title.
+
 #### (b) Interest rate
 
 #### (1) Rates for FDSL and FDUSL
@@ -32,7 +46,7 @@
 
 #### (2) In school and grace period rules
 
-&emsp;(A) Notwithstanding the provisions of paragraph (1), but subject to paragraph (3), with respect to any Federal Direct Stafford Loan or Federal Direct Unsubsidized Stafford Loan for which the first disbursement is made on orafter July 1, 1995, the applicable rate of interest for interest which accrues—
+&emsp;(A) Notwithstanding the provisions of paragraph (1), but subject to paragraph (3), with respect to any Federal Direct Stafford Loan or Federal Direct Unsubsidized Stafford Loan for which the first disbursement is made on or after July 1, 1995, the applicable rate of interest for interest which accrues—
 
 &emsp;&emsp;(i) prior to the beginning of the repayment period of the loan; or
 
@@ -118,7 +132,7 @@
 
 #### (A) Rates for FDSL and FDUSL
 
-&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, for Federal Direct Stafford Loans and Federal Direct UnsubsidizedStafford Loans for which the first disbursement is made on or after October 1, 1998, and before July 1, 2006, the applicable rate of interest shall, during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to—
+&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, for Federal Direct Stafford Loans and Federal Direct Unsubsidized Stafford Loans for which the first disbursement is made on or after October 1, 1998, and before July 1, 2006, the applicable rate of interest shall, during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to—
 
 &emsp;&emsp;&emsp;(i) the bond equivalent rate of 91-day Treasury bills auctioned at the final auction held prior to such June 1; plus
 
@@ -196,13 +210,17 @@
 
 #### (8) Repayment incentives
 
-#### (A) In general
+#### (A) Incentives for loans disbursed before July 1, 2012
 
-&emsp;&emsp;Notwithstanding any other provision of this part, the Secretary is authorized to prescribe by regulation such reductions in the interest rate or origination fee paid by a borrower of a loan made under this part as the Secretary determines appropriate to encourage on-time repayment of the loan. Such reductions may be offered only if the Secretary determines the reductions are cost neutral and in the best financial interest of the Federal Government. Any increase in subsidy costs resulting from such reductions shall be completely offset by corresponding savings in funds available for the William D. Ford Federal Direct Loan Program in that fiscal year from section 1087h of this title and other administrative accounts.
+&emsp;&emsp;Notwithstanding any other provision of this part <sup>1</sup> with respect to loans for which the first disbursement of principal is made before July 1, 2012,,<sup>2</sup> the Secretary is authorized to prescribe by regulation such reductions in the interest rate or origination fee paid by a borrower of a loan made under this part as the Secretary determines appropriate to encourage on-time repayment of the loan. Such reductions may be offered only if the Secretary determines the reductions are cost neutral and in the best financial interest of the Federal Government. Any increase in subsidy costs resulting from such reductions shall be completely offset by corresponding savings in funds available for the William D. Ford Federal Direct Loan Program in that fiscal year from section 1087h of this title and other administrative accounts.
 
 #### (B) Accountability
 
-&emsp;&emsp;Prior to publishing regulations proposing repayment incentives, the Secretary shall ensure the cost neutrality of such reductions. The Secretary shall not prescribe such regulations in final form unless an official report from the Director of the Office of Management and Budget to the Secretary and a comparable report from the Director of the Congressional Budget Office to the Congress each certify that any such reductions will be completely cost neutral. Such reports shall be transmitted to the authorizing committees not less than 60 days prior to the publication of regulations proposing such reductions.
+&emsp;&emsp;Prior to publishing regulations proposing repayment incentives with respect to loans for which the first disbursement of principal is made before July 1, 2012, the Secretary shall ensure the cost neutrality of such reductions. The Secretary shall not prescribe such regulations in final form unless an official report from the Director of the Office of Management and Budget to the Secretary and a comparable report from the Director of the Congressional Budget Office to the Congress each certify that any such reductions will be completely cost neutral. Such reports shall be transmitted to the authorizing committees not less than 60 days prior to the publication of regulations proposing such reductions.
+
+#### (C) No repayment incentives for new loans disbursed on or after July 1, 2012
+
+&emsp;&emsp;Notwithstanding any other provision of this part, the Secretary is prohibited from authorizing or providing any repayment incentive not otherwise authorized under this part to encourage on-time repayment of a loan under this part for which the first disbursement of principal is made on or after July 1, 2012, including any reduction in the interest or origination fee rate paid by a borrower of such a loan, except that the Secretary may provide for an interest rate reduction for a borrower who agrees to have payments on such a loan automatically electronically debited from a bank account.
 
 #### (9) Publication
 
@@ -268,7 +286,7 @@
 
 #### (1) Information and procedures
 
-&emsp;The Secretary may obtain such information as is reasonably necessary regarding the income of a borrower (and the borrower's spouse, if applicable) of a loan made under this part that is, or may be, repaid pursuant to income contingent repayment, for the purpose of determining the annual repayment obligation of the borrower. Returns and return information (as defined in section 6103 of title 26) may be obtained under the preceding sentence only to the extent authorized by section 6103(<i>l</i>)(13) of title 26. The Secretary shall establish procedures for determining the borrower's repayment obligation on that loan for such year, and such other procedures as are necessary to implement effectively income contingent repayment.
+&emsp;The Secretary may obtain such information as is reasonably necessary regarding the income of a borrower (and the borrower's spouse, if applicable) of a loan made under this part that is, or may be, repaid pursuant to income contingent repayment, for the purpose of determining the annual repayment obligation of the borrower. Returns and return information (as defined in section 6103 of title 26) may beobtained under the preceding sentence only to the extent authorized by section 6103(<i>l</i>)(13) of title 26. The Secretary shall establish procedures for determining the borrower's repayment obligation on that loan for such year, and such other procedures as are necessary to implement effectively income contingent repayment.
 
 #### (2) Repayment based on adjusted gross income
 
@@ -388,7 +406,7 @@ The common financial reporting form required in section 1090(a)(1) of this title
 
 #### (2) Payments and refunds
 
-&emsp;Payments and refunds shall be reconciled in a manner consistent with the manner set forthfor the submission of a payment summary report required of institutions participating in the program under subpart 1 of part A of this subchapter, except that nothing in this paragraph shall prevent such reconciliations on a monthly basis.
+&emsp;Payments and refunds shall be reconciled in a manner consistent with the manner set forth for the submission of a payment summary report required of institutions participating in the program under subpart 1 of part A of this subchapter, except that nothing in this paragraph shall prevent such reconciliations on a monthly basis.
 
 #### (3) Transaction histories
 
@@ -402,7 +420,7 @@ The common financial reporting form required in section 1090(a)(1) of this title
 
 #### (2) Forbearance
 
-&emsp;During the period in which the Secretary is making payments on a loan under paragraph (1), the Secretary shall grant the borrower forbearance, in the form of a temporary cessation of all payments on the loan other than the payments of interest on the loan that are made under that paragraph.
+&emsp;During the period in which the Secretary is making payments on a loan under paragraph (1), the Secretary shall grant the borrower forbearance, in the form of a temporary cessationof all payments on the loan other than the payments of interest on the loan that are made under that paragraph.
 
 #### (m) Repayment plan for public service employees
 
@@ -456,7 +474,7 @@ The Secretary shall take such steps as may be necessary to ensure that monthly F
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of this part and in accordance with paragraphs (2) and (4), interest shall not accrue for an eligible military borrower on a loan made under thispart for which the first disbursement is made on or after October 1, 2008.
+&emsp;Notwithstanding any other provision of this part and in accordance with paragraphs (2) and (4), interest shall not accrue for an eligible military borrower on a loan made under this part for which the first disbursement is made on or after October 1, 2008.
 
 #### (2) Consolidation loans
 
@@ -478,15 +496,23 @@ The Secretary shall take such steps as may be necessary to ensure that monthly F
 
 #### (p) Disclosures
 
-Each institution of higher education with which the Secretary has an agreement under section 1087c of this title, and each contractor with which the Secretary has a contract under section 1087f of this title, shall, with respect to loans under this part and in accordance with such regulations as the Secretary shall prescribe, comply with each of the requirements under section 1083 of this title that apply to a lender with respect to a loan under part B.
+Each institution of higher education with which the Secretary has an agreement undersection 1087c of this title, and each contractor with which the Secretary has a contract under section 1087f of this title, shall, with respect to loans under this part and in accordance with such regulations as the Secretary shall prescribe, comply with each of the requirements under section 1083 of this title that apply to a lender with respect to a loan under part B.
 
-(Pub. L. 89–329, title IV, §455, as added Pub. L. 99–498, title IV, §404, Oct. 17, 1986, 100 Stat. 1439; amended Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 572; Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 346; Pub. L. 103–382, title III, §359, Oct. 20, 1994, 108 Stat. 3968; Pub. L. 105–178, title VIII, §8301(c), June 9, 1998, 112 Stat. 498; Pub. L. 105–244, title IV, §§401(g)(6), 452(a)(1), (b), (c), Oct. 7, 1998, 112 Stat. 1652, 1715–1717; Pub. L. 106–554, §1(a)(1) \[title III, §318(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–49; Pub. L. 107–139, §1(b), (c), Feb. 8, 2002, 116 Stat. 9; Pub. L. 107–314, div. A, title VI, §651(c), Dec. 2, 2002, 116 Stat. 2580; Pub. L. 109–171, title VIII, §§8007(b), 8008(b), (c)(2), (3), 8009(d), Feb. 8, 2006, 120 Stat. 160, 162–164; Pub. L. 110–84, title II, §§201(b), 202(b), 203(b)(3), 205, title IV, §401, Sept. 27, 2007, 121 Stat. 791, 795, 800; Pub. L. 110–315, title I, §103(b)(8), title IV, §§425(b)(3), 451, Aug. 14, 2008, 122 Stat. 3089, 3234, 3261; Pub. L. 111–39, title IV, §404(b)(2), July 1, 2009, 123 Stat. 1946; Pub. L. 111–152, title II, §2211(a), Mar. 30, 2010, 124 Stat. 1078.)
+(Pub. L. 89–329, title IV, §455, as added Pub. L. 99–498, title IV, §404, Oct. 17, 1986, 100 Stat. 1439; amended Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 572; Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 346; Pub. L. 103–382, title III, §359, Oct. 20, 1994, 108 Stat. 3968; Pub. L. 105–178, title VIII, §8301(c), June 9, 1998, 112 Stat. 498; Pub. L. 105–244, title IV, §§401(g)(6), 452(a)(1), (b), (c), Oct. 7, 1998, 112 Stat. 1652, 1715–1717; Pub. L. 106–554, §1(a)(1) \[title III, §318(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–49; Pub. L. 107–139, §1(b), (c), Feb. 8, 2002, 116 Stat. 9; Pub. L. 107–314, div. A, title VI, §651(c), Dec. 2, 2002, 116 Stat. 2580; Pub. L. 109–171, title VIII, §§8007(b), 8008(b), (c)(2), (3), 8009(d), Feb. 8, 2006, 120 Stat. 160, 162–164; Pub. L. 110–84, title II, §§201(b), 202(b), 203(b)(3), 205, title IV, §401, Sept. 27, 2007, 121 Stat. 791, 795, 800; Pub. L. 110–315, title I, §103(b)(8), title IV, §§425(b)(3), 451, Aug. 14, 2008, 122 Stat. 3089, 3234, 3261; Pub. L. 111–39, title IV, §404(b)(2), July 1, 2009, 123 Stat. 1946; Pub. L. 111–152, title II, §2211(a), Mar. 30, 2010, 124 Stat. 1078; Pub. L. 112–25, title V, §§502, 503, Aug. 2, 2011, 125 Stat. 266.)
 
 #### References in Text
 
 Sections 1077(a)(2)(C) and 1078(b)(1)(M) of this title as such sections were in effect on July 22, 1992, referred to in subsec. (f)(4), means sections 1077(a)(2)(C) and 1078(b)(1)(M) of this title prior to being amended generally by sections 414(b) and 416(e)(1), respectively, of Pub. L. 102–325, title IV, July 23, 1992, 106 Stat. 513, 519.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (a)(3). Pub. L. 112–25, §502, added par. (3).
+
+Subsec. (b)(8)(A). Pub. L. 112–25, §503(1), substituted “Incentives for loans disbursed before July 1, 2012” for “In general” in heading and inserted “with respect to loans for which the first disbursement of principal is made before July 1, 2012,” after “of this part” in text.
+
+Subsec. (b)(8)(B). Pub. L. 112–25, §503(2), inserted “with respect to loans for which the first disbursement of principal is made before July 1, 2012” after “repayment incentives”.
+
+Subsec. (b)(8)(C). Pub. L. 112–25, §503(3), added subpar. (C).
 
 <b>2010</b>—Subsec. (a)(1). Pub. L. 111–152, §2211(a)(1), inserted “, and first disbursed on June 30, 2010,” before “under sections 1078”.
 
@@ -546,7 +572,7 @@ Subsec. (d)(1)(A) to (C). Pub. L. 109–171, §8008(b), added subpars. (A) to (C
 
 Subsec. (f)(2)(C), (D). Pub. L. 109–171, §8007(b), added subpar. (C) and redesignated former subpar. (C) as (D).
 
-Subsec. (g). Pub. L. 109–171, §8009(d)(3), substituted “To be eligible for a consolidation loan under this part, a borrower shall meet the eligibility criteria set forth in section 1078–3(a)(3) of this title. The Secretary, upon application for such a loan, shall comply with the requirements applicable to a lender under section 1078–3(b)(1)(F) of this title.” for “Loans made under this subsection shall be known as ‘Federal Direct Consolidation Loans’.”
+Subsec. (g). Pub. L. 109–171, §8009(d)(3), substituted “To be eligible for a consolidation loan under this part, a borrower shall meet the eligibility criteria set forth in section 1078–3(a)(3) of this title. The Secretary, uponapplication for such a loan, shall comply with the requirements applicable to a lender under section 1078–3(b)(1)(F) of this title.” for “Loans made under this subsection shall be known as ‘Federal Direct Consolidation Loans’.”
 
 <b>2002</b>—Subsec. (b)(6) to (9). Pub. L. 107–139, in par. (6) relating to interest rate provision for new loans substituted “
 
@@ -622,7 +648,9 @@ Nothing in amendment by section 8007(b) of Pub. L. 109–171 to be construed to 
 
 #### Limitation on Consolidation Loans During Temporary Interest Rate
 
-Pub. L. 105–244, title IV, §452(a)(2), Oct. 7, 1998, 112 Stat. 1716, provided that: “Notwithstanding section455(g) of the Higher Education Act of 1965 \[subsec. (g) of this section\], a borrower who is enrolled or accepted for enrollment in an institution of higher education may not consolidate loans under such section during the period beginning October 1, 1998, and ending February 1, 1999, unless the borrower certifies that the borrower has no outstanding loans made, insured, or guaranteed under title IV of such Act \[20 U.S.C. 1070 et seq.; 42 U.S.C. 2751 et seq.\] other than loans made under part D of such title \[this part\].”
+Pub. L. 105–244, title IV, §452(a)(2), Oct. 7, 1998, 112 Stat. 1716, provided that: “Notwithstanding section 455(g) of the Higher Education Act of 1965 \[subsec. (g) of this section\], a borrower who is enrolled or accepted for enrollment in an institution of higher education may not consolidate loans under such section during the period beginning October 1, 1998, and ending February 1, 1999, unless the borrower certifies that the borrower has no outstanding loans made, insured, or guaranteed under title IV of such Act \[20 U.S.C. 1070 et seq.; 42 U.S.C. 2751 et seq.\] other than loans made under part D of such title \[this part\].”
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
+
+<i><sup>2</sup></i><i> So in original. The second comma probably should not appear.</i>
 

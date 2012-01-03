@@ -6,15 +6,9 @@ For purposes of this Act, Executive Order Numbered 11478, providing for equal em
 
 &emsp;(1) the Comptroller of the Currency;
 
-&emsp;(2) the Director of the Office of Thrift Supervision;
+&emsp;(2) the Federal Housing Finance Agency; and
 
-&emsp;(3) the Federal Housing Finance Agency;
-
-&emsp;(4) the Federal Deposit Insurance Corporation;
-
-&emsp;(5) the Thrift Depositor Protection Oversight Board of the Resolution Trust Corporation; and
-
-&emsp;(6) the Resolution Trust Corporation.
+&emsp;(3) the Federal Deposit Insurance Corporation.
 
 #### (b) Affirmative program for equal employment opportunity
 
@@ -22,7 +16,7 @@ For purposes of this Act, sections 1 and 2 of Executive Order Numbered 11478, pr
 
 #### (c) Solicitation of contracts
 
-The Federal Deposit Insurance Corporation, the Comptroller of the Currency, the Director of the Office of Thrift Supervision, the Federal Housing Finance Agency, the Thrift Depositor Protection Oversight Board of the Resolution Trust Corporation, and the Resolution Trust Corporation shall each prescribe regulations to establish and oversee a minority outreach program within each such agency to ensure inclusion, to the maximum extent possible, of minorities and women, and entities owned by minorities and women, including financial institutions, investment banking firms, underwriters, accountants, and providers of legal services, in all contracts entered into by the agency with such persons or entities, public and private, in order to manage the institutions and their assets for which the agency is responsible or to perform such other functions authorized under any law applicable to such agency.
+The Federal Deposit Insurance Corporation, the Comptroller of the Currency, and the Federal Housing Finance Agency, shall each prescribe regulations to establish and oversee a minority outreach program within each such agency to ensure inclusion, to the maximum extent possible, of minorities and women, and entities owned by minorities and women, including financial institutions, investment banking firms, underwriters, accountants, and providers of legal services, in all contracts entered into by the agency with such persons or entities, public and private, in order to manage the institutions and their assets for which the agency is responsible or to perform such other functions authorized under any law applicable to such agency.
 
 #### (d) Report to Congress
 
@@ -32,21 +26,15 @@ Before the end of the 180-day period beginning on August 9, 1989—
 
 &emsp;(2) the Comptroller of the Currency;
 
-&emsp;(3) the Director of the Office of Thrift Supervision;
+&emsp;(3) the Federal Housing Finance Board;
 
-&emsp;(4) the Federal Housing Finance Board;
+&emsp;(4) the Federal Home Loan Mortgage Corporation; and
 
-&emsp;(5) the Thrift Depositor Protection Oversight Board of the Resolution Trust Corporation;
-
-&emsp;(6) the Resolution Trust Corporation;
-
-&emsp;(7) the Federal Home Loan Mortgage Corporation; and
-
-&emsp;(8) the Federal National Mortgage Association,
+&emsp;(5) the Federal National Mortgage Association,
 
 > shall each submit to the Congress a report containing a complete description of the actions taken by such agency pursuant to subsections (a) and (b) of this section and such recommendations for administrative and legislative action as each such agency may determine to be appropriate to carry out the purposes of such subsection.
 
-(Pub. L. 101–73, title XII, §1216, Aug. 9, 1989, 103 Stat. 529; Pub. L. 102–233, title III, §302(a), Dec. 12, 1991, 105 Stat. 1767; Pub. L. 110–289, div. A, title II, §1216(g), July 30, 2008, 122 Stat. 2793.)
+(Pub. L. 101–73, title XII, §1216, Aug. 9, 1989, 103 Stat. 529; Pub. L. 102–233, title III, §302(a), Dec. 12, 1991, 105 Stat. 1767; Pub. L. 110–289, div. A, title II, §1216(g), July 30, 2008, 122 Stat. 2793; Pub. L. 111–203, title III, §367(9), July 21, 2010, 124 Stat. 1557.)
 
 #### References in Text
 
@@ -62,7 +50,33 @@ Pub. L. 110–289, div. A, title II, §1216(g), which directed amendment of sect
 
 #### Amendments
 
-2008—Subsec. (a)(3). Pub. L. 110–289, §1216(g)(1), added par. (3) and struck out former par. (3) which read as follows: “the Federal home loan banks;”. See Codification note above.
+<b>2010</b>—Subsec. (a)(2). Pub. L. 111–203, §367(9)(A)(iii), (iv), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “the Director of the Office of Thrift Supervision;”.
+
+Subsec. (a)(3). Pub. L. 111–203, §367(9)(A)(iv), redesignated par. (4) as (3). Former par. (3) redesignated (2).
+
+Pub. L. 111–203, §367(9)(A)(i), inserted “and” at the end.
+
+Subsec. (a)(4). Pub. L. 111–203, §367(9)(A)(iv), redesignated par. (4) as (3).
+
+Pub. L. 111–203, §367(9)(A)(ii), substituted a period for the semicolon at the end.
+
+Subsec. (a)(5), (6). Pub. L. 111–203, §367(9)(A)(iii), struck out pars. (5) and (6) which read as follows:
+
+“(5) the Thrift Depositor Protection Oversight Board of the Resolution Trust Corporation; and
+
+“(6) the Resolution Trust Corporation.”
+
+Subsec. (c). Pub. L. 111–203, §367(9)(B), substituted “and the Federal Housing Finance Agency,” for “the Director of the Office of Thrift Supervision, the Federal Housing Finance Agency, the Thrift Depositor Protection Oversight Board of the Resolution Trust Corporation, and the Resolution Trust Corporation”.
+
+Subsec. (d)(3) to (8). Pub. L. 111–203, §367(9)(C), redesignated pars. (4), (7), and (8) as (3) to (5), respectively, and struck out former pars. (3), (5), and (6) which read as follows:
+
+“(3) the Director of the Office of Thrift Supervision;
+
+“(5) the Thrift Depositor Protection Oversight Board of the Resolution Trust Corporation;
+
+“(6) the Resolution Trust Corporation;”.
+
+<b>2008</b>—Subsec. (a)(3). Pub. L. 110–289, §1216(g)(1), added par. (3) and struck out former par. (3) which read as follows: “the Federal home loan banks;”. See Codification note above.
 
 Subsec. (b). Pub. L. 110–289, §1216(g)(2), substituted “Federal Home Loan Banks, the Federal National Mortgage Association,” for “Federal National Mortgage Association”. See Codification note above.
 
@@ -70,5 +84,9 @@ Subsec. (c). Pub. L. 110–289, §1216(g)(3), substituted “Finance Agency” f
 
 #### Change of Name
 
-Oversight Board redesignated Thrift Depositor Protection Oversight Board, effective Feb. 1, 1992, see section 302(a) of Pub. L. 102–233, set out as a note under section 1441a of this title. Thrift Depositor Protection Oversight Board abolished, see section 14(a)–(d) of Pub. L. 105–216, set out as a note under section 1441a of this title.
+Oversight Board redesignated Thrift Depositor Protection Oversight Board, effective Feb. 1, 1992, see section 302(a) of Pub. L. 102–233, formerly set out as a note under section 1441a of this title. Thrift Depositor Protection Oversight Board abolished, see section 14(a)–(d) of Pub. L. 105–216, formerly set out as a note under section 1441a of this title.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the transfer date, see section 351 of Pub. L. 111–203, set out as a note under section 906 of Title 2, The Congress.
 

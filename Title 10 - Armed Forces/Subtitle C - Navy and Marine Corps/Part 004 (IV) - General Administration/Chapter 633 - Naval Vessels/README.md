@@ -7,7 +7,7 @@
 | [7293\.](%C2%A7%2007293%20-%20Number%20in%20service%20in%20time%20of%20peace.md) | Number in service in time of peace. |
 | [7294\.](%C2%A7%2007294%20-%20Suspension%20of%20construction%20in%20case%20of%20treaty.md) | Suspension of construction in case of treaty. |
 | [7295\.](%C2%A7%2007295%20-%20Vessels%20under-age.md) | Vessels: under-age. |
-| [7296\.](%C2%A7%2007296%20-%20Combatant%20surface%20vessels%20notice%20before%20reduction%20in%20number%3B%20preservation%20of%20surge%20capability.md) | Combatant surface vessels: notice before reduction in number; preservation of surge capability. |
+| \[7296. | Repealed.\] |
 | [7297\.](%C2%A7%2007297%20-%20Changing%20category%20or%20type%20limitations.md) | Changing category or type: limitations. |
 | \[7298. | Repealed.\] |
 | [7299\.](%C2%A7%2007299%20-%20Contracts%20applicability%20of%20chapter%2065%20of%20title%2041.md) | Contracts: applicability of chapter 65 of title 41. |
@@ -37,7 +37,9 @@
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 111–350, §5(b)(51), Jan. 4, 2011, 124 Stat. 3846, substituted “chapter 65 of title 41” for “Walsh-Healey Act” in item 7299.
+<b>2011</b>—Pub. L. 112–81, div. A, title X, §1061(27)(B), Dec. 31, 2011, 125 Stat. 1584, struck out item 7296 “Combatant surface vessels: notice before reduction in number; preservation of surge capability”.
+
+Pub. L. 111–350, §5(b)(51), Jan. 4, 2011, 124 Stat. 3846, substituted “chapter 65 of title 41” for “Walsh-Healey Act” in item 7299.
 
 <b>2009</b>—Pub. L. 111–84, div. A, title X, §1073(a)(30), Oct. 28, 2009, 123 Stat. 2474, inserted period after “thereof” in item 7317.
 
@@ -89,7 +91,7 @@ Pub. L. 97–252, title XI, §1127(b), Sept. 8, 1982, 96 Stat. 759, added item 7
 - [&sect; 07293 - Number in service in time of peace](%C2%A7%2007293%20-%20Number%20in%20service%20in%20time%20of%20peace.md)
 - [&sect; 07294 - Suspension of construction in case of treaty](%C2%A7%2007294%20-%20Suspension%20of%20construction%20in%20case%20of%20treaty.md)
 - [&sect; 07295 - Vessels under-age](%C2%A7%2007295%20-%20Vessels%20under-age.md)
-- [&sect; 07296 - Combatant surface vessels notice before reduction in number; preservation of surge capability](%C2%A7%2007296%20-%20Combatant%20surface%20vessels%20notice%20before%20reduction%20in%20number%3B%20preservation%20of%20surge%20capability.md)
+- [&sect; 07296 - Repealed. Pub. L. 112&#8211;81, div. A, title X, &sect;1061(27)(A), Dec. 31, 2011, 125 Stat. 1584](%C2%A7%2007296%20-%20Repealed.%20Pub.%20L.%20112%E2%80%9381%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71061%2827%29%28A%29%2C%20Dec.%2031%2C%202011%2C%20125%20Stat.%201584.md)
 - [&sect; 07297 - Changing category or type limitations](%C2%A7%2007297%20-%20Changing%20category%20or%20type%20limitations.md)
 - [&sect; 07298 - Repealed. Pub. L. 103&#8211;160, div. A, title VIII, &sect;824(a)(6), Nov. 30, 1993, 107 Stat. 1707](%C2%A7%2007298%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93160%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7824%28a%29%286%29%2C%20Nov.%2030%2C%201993%2C%20107%20Stat.%201707.md)
 - [&sect; 07299 - Contracts applicability of chapter 65 of title 41](%C2%A7%2007299%20-%20Contracts%20applicability%20of%20chapter%2065%20of%20title%2041.md)

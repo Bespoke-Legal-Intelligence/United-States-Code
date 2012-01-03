@@ -1,6 +1,6 @@
 ### §2464. Review and report to Congress
 
-The President shall submit an annual report to the Congress on the status of internationallyrecognized worker rights within each beneficiary developing country, including the findings of the Secretary of Labor with respect to the beneficiary country's implementation of its international commitments to eliminate the worst forms of child labor.
+The President shall submit an annual report to the Congress on the status of internationally recognized worker rights within each beneficiary developing country, including the findings of the Secretary of Labor with respect to the beneficiary country's implementation of its international commitments to eliminate the worst forms of child labor.
 
 (Pub. L. 93–618, title V, §504, as added Pub. L. 104–188, title I, §1952(a), Aug. 20, 1996, 110 Stat. 1925; amended Pub. L. 106–200, title IV, §412(c), May 18, 2000, 114 Stat. 299.)
 

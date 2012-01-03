@@ -50,7 +50,7 @@ As used in this chapter—
 
 &emsp;(15) The term “Secretary” means the Secretary of Commerce, or the designee of the Secretary of Commerce.
 
-&emsp;(16) The term “State” means each of the several States, the District of Columbia, the Commonwealths of Puerto Rico and the Northern Mariana Islands, American Samoa, the Virgin Islands, Guam, and any other Commonwealth, territory, or possession of the United States.
+&emsp;(16) The term “State” means each of the several States, the District of Columbia, theCommonwealths of Puerto Rico and the Northern Mariana Islands, American Samoa, the Virgin Islands, Guam, and any other Commonwealth, territory, or possession of the United States.
 
 &emsp;(17) The term “Treaty” means the Treaty on Fisheries Between the Governments of Certain Pacific Island States and the Government of the United States of America, signed in Port Moresby, Papua New Guinea, April 2, 1987, and its Annexes, Schedules, and implementing agreements.
 

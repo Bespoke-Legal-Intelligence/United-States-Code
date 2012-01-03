@@ -32,13 +32,13 @@ In selecting among States, political subdivisions, and consortia of States or po
 
 #### (d) Priority
 
-In making grants under this section, the Secretary shall give priority to applicants that will use the grants to focus on improving access to trauma care systems.
+In making grants under this section, the Secretary shall give priority to applicants that willuse the grants to focus on improving access to trauma care systems.
 
 #### (e) Special consideration
 
 In awarding grants under this section, the Secretary shall give special consideration to projects that demonstrate strong State or local support, including availability of non-Federal contributions.
 
-(July 1, 1944, ch. 373, title XII, §1203, as added Pub. L. 110–23, §5, May 3, 2007, 121 Stat. 91;amended Pub. L. 111–148, title III, §3504(a)(1), Mar. 23, 2010, 124 Stat. 518.)
+(July 1, 1944, ch. 373, title XII, §1203, as added Pub. L. 110–23, §5, May 3, 2007, 121 Stat. 91; amended Pub. L. 111–148, title III, §3504(a)(1), Mar. 23, 2010, 124 Stat. 518.)
 
 #### Prior Provisions
 

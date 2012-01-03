@@ -90,7 +90,7 @@ A corporation, trust, or association shall not be considered a real estate inves
 
 &emsp;&emsp;(A) The term “value” means, with respect to securities for which market quotations are readily available, the market value of such securities; and with respect to other securities and assets, fair value as determined in good faith by the trustees, except that in the case of securities of real estate investment trusts such fair value shall not exceed market value or asset value, whichever is higher.
 
-&emsp;&emsp;(B) The term “real estate assets” means real property (including interests in real property and interests in mortgages on real property) and shares (or transferable certificates of beneficial interest) in other real estate investment trusts which meet the requirements of this part. Such term also includes any property (not otherwise a real estate asset) attributable to the temporary investment of new capital, but only if such property is stock or a debt instrument, and only for the 1-year period beginning on the date the real estate trust receives such capital.
+&emsp;&emsp;(B) The term “real estate assets” means real property (including interests in realproperty and interests in mortgages on real property) and shares (or transferable certificates of beneficial interest) in other real estate investment trusts which meet the requirements of this part. Such term also includes any property (not otherwise a real estate asset) attributable to the temporary investment of new capital, but only if such property is stock or a debt instrument, and only for the 1-year period beginning on the date the real estate trust receives such capital.
 
 &emsp;&emsp;(C) The term “interests in real property” includes fee ownership and co-ownership of land or improvements thereon, leaseholds of land or improvements thereon, options to acquire land or improvements thereon, and options to acquire leaseholds of land or improvements thereon, but does not include mineral, oil, or gas royalty interests.
 
@@ -224,7 +224,7 @@ Tax imposed.—If subparagraph (A) applies to a corporation, trust, or associati
 
 &emsp;&emsp;&emsp;(ii)
 
-Period.—For purposes of clause (i)(II), the period described in this clause is the period beginning on the first date that the failure to satisfy the requirements of such paragraph (4) occurs as a result of the ownership of such assets and ending on the earlier of the date on which the trust disposes of such assets or the end of the first quarter when there is no longer a failure to satisfy such paragraph (4).
+Period.—For purposes of clause (i)(II), the period described in this clause is the period beginning on the first date thatthe failure to satisfy the requirements of such paragraph (4) occurs as a result of the ownership of such assets and ending on the earlier of the date on which the trust disposes of such assets or the end of the first quarter when there is no longer a failure to satisfy such paragraph (4).
 
 &emsp;&emsp;&emsp;(iii)
 
@@ -274,7 +274,7 @@ Termination date.—For purposes of this subsection, the term “termination dat
 
 #### (4) Special rule for certain contingent rents
 
-&emsp;Where a real estate investment trust receives or accrues, with respect to real or personal property, any amount which would be excluded from the term “rents from real property” solely because the tenant of the real estate investment trust receives or accrues, directly or indirectly, from subtenants any amount the determination of which depends in whole or in part on the income or profits derived by any person from such property, onlya proportionate part (determined pursuant to regulations prescribed by the Secretary) of the amount received or accrued by the real estate investment trust from that tenant will be excluded from the term “rents from real property”.
+&emsp;Where a real estate investment trust receives or accrues, with respect to real or personal property, any amount which would be excluded from the term “rents from real property” solely because the tenant of the real estate investment trust receives or accrues, directly or indirectly, from subtenants any amount the determination of which depends in whole or in part on the income or profits derived by any person from such property, only a proportionate part (determined pursuant to regulations prescribed by the Secretary) of the amount received or accrued by the real estate investment trust from that tenant will be excluded from the term “rents from real property”.
 
 #### (5) Constructive ownership of stock
 
@@ -348,7 +348,7 @@ Termination date.—For purposes of this subsection, the term “termination dat
 
 #### (iii) Times for testing rent comparability
 
-&emsp;&emsp;&emsp;The substantial comparability requirement of clause (ii) shall be treated as met with respect to a lease to a taxable REITsubsidiary of the trust if such requirement is met under the terms of the lease—
+&emsp;&emsp;&emsp;The substantial comparability requirement of clause (ii) shall be treated as met with respect to a lease to a taxable REIT subsidiary of the trust if such requirement is met under the terms of the lease—
 
 &emsp;&emsp;&emsp;&emsp;(I) at the time such lease is entered into,
 
@@ -408,7 +408,7 @@ Termination date.—For purposes of this subsection, the term “termination dat
 
 &emsp;&emsp;For purposes of subparagraph (B)(iii)—
 
-&emsp;&emsp;&emsp;(i) a lease shall be treated as in effect on January 1, 1999, without regard to its renewal after such date, so long as such renewal is pursuant to the terms of suchlease as in effect on whichever of the dates under subparagraph (B)(iii) is the latest, and
+&emsp;&emsp;&emsp;(i) a lease shall be treated as in effect on January 1, 1999, without regard to its renewal after such date, so long as such renewal is pursuant to the terms of such lease as in effect on whichever of the dates under subparagraph (B)(iii) is the latest, and
 
 &emsp;&emsp;&emsp;(ii) a lease of a property entered into after whichever of the dates under subparagraph (B)(iii) is the latest shall be treated as in effect on such date if—
 
@@ -612,7 +612,7 @@ Termination date.—For purposes of this subsection, the term “termination dat
 
 #### (C) Treatment for purposes of unrelated business tax
 
-&emsp;&emsp;If any qualified trust holds more than 10 percent (by value) of the interests in any pension-held REIT at any time during a taxable year, the trust shall be treated as having for such taxable year gross income from an unrelated trade or business in an amount which bears the same ratio to the aggregate dividends paid (or treated as paid) by the REIT to the trust for the taxable year of the REIT with or within which the taxable year of the trust ends (the “REIT year”) as—
+&emsp;&emsp;If any qualified trust holds more than 10 percent (by value) of the interests in anypension-held REIT at any time during a taxable year, the trust shall be treated as having for such taxable year gross income from an unrelated trade or business in an amount which bears the same ratio to the aggregate dividends paid (or treated as paid) by the REIT to the trust for the taxable year of the REIT with or within which the taxable year of the trust ends (the “REIT year”) as—
 
 &emsp;&emsp;&emsp;(i) the gross income (less direct expenses related thereto) of the REIT for the REIT year from unrelated trades or businesses (determined as if the REIT were a qualified trust), bears to
 
@@ -804,7 +804,7 @@ For purposes of this part—
 
 &emsp;&emsp;&emsp;(i) the time of payment of such interest or principal is subject to a contingency, but only if—
 
-&emsp;&emsp;&emsp;&emsp;(I) any such contingency does not have the effect of changing the effective yield to maturity, as determined under section 1272, other than a change in the annual yield to maturity which does not exceed the greater of 1/4 of 1 percent or 5 percent of the annual yield to maturity, or
+&emsp;&emsp;&emsp;&emsp;(I) any such contingency does not have the effect of changing the effective yield to maturity, as determined under section 1272, other than a change in the annual yield to maturity which does not exceed the greater of ¼ of 1 percent or 5 percent of the annual yield to maturity, or
 
 &emsp;&emsp;&emsp;&emsp;(II) neither the aggregate issue price nor the aggregate face amount of the issuer's debt instruments held by the trust exceeds $1,000,000 and not more than 12 months of unaccrued interest can be required to be prepaid thereunder, or
 
@@ -864,7 +864,7 @@ For purposes of this part—
 
 #### (C) Successors
 
-&emsp;&emsp;If the successor of a trust to which this paragraph applies acquires securities in a transaction to which section 381 applies, such trusts shall be treated as a single entity for purposes of determining the holding period of such securities under subparagraph (A).
+&emsp;&emsp;If the successor of a trust to which this paragraph applies acquires securities in atransaction to which section 381 applies, such trusts shall be treated as a single entity for purposes of determining the holding period of such securities under subparagraph (A).
 
 #### (n) Rules regarding foreign currency transactions
 
@@ -926,7 +926,7 @@ The Investment Company Act of 1940, referred to in subsec. (c)(5)(F), is title I
 
 The date of the enactment of this paragraph and such date of enactment, referred to in subsec. (c)(8), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
-The Social Security Act, referred to in subsec. (e)(6)(D)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (e)(6)(D)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generallyto subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The date of the enactment of this subparagraph, referred to in subsec. (m)(3)(B), is the date of enactment of Pub. L. 108–357, which was approved Oct. 22, 2004.
 
@@ -1252,7 +1252,7 @@ Pub. L. 108–357, title II, §243(g), Oct. 22, 2004, 118 Stat. 1445, as amended
 
 Subsections (a)
 
-and (b).—The amendments made by subsections (a) and (b) \[amending this section\] shallapply to taxable years beginning after December 31, 2000.
+and (b).—The amendments made by subsections (a) and (b) \[amending this section\] shall apply to taxable years beginning after December 31, 2000.
 
 “(2)
 
@@ -1360,7 +1360,7 @@ Section 13149(b) of Pub. L. 103–66 provided that: “The amendment made by thi
 
 #### Effective Date of 1988 Amendment
 
-Section 1006(p)(4)(B) of Pub. L. 100–647 provided that: “The amendment made by subparagraph (A) \[amendingthis section\] shall apply to taxable years ending after the date of the enactment of this Act \[Nov. 10, 1988\].”
+Section 1006(p)(4)(B) of Pub. L. 100–647 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[Nov. 10, 1988\].”
 
 Amendment by section 1006(p)(1), (3), (5), (q), (t)(11) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
@@ -1424,7 +1424,7 @@ Section 6(e) of Pub. L. 93–625, as amended by Pub. L. 99–514, §2, Oct. 22, 
 
 #### Effective Date of 1964 Amendments
 
-Amendment by Pub. L. 88–554 effective Aug. 31, 1964, except that for purposes of sections 302 and 304 of thistitle, such amendments shall not apply to distributions in payment for stock acquisitions or redemptions, if such acquisitions or redemptions occurred before Aug. 31, 1964, see section 4(c) of Pub. L. 88–554, set out as a note under section 318 of this title.
+Amendment by Pub. L. 88–554 effective Aug. 31, 1964, except that for purposes of sections 302 and 304 of this title, such amendments shall not apply to distributions in payment for stock acquisitions or redemptions, if such acquisitions or redemptions occurred before Aug. 31, 1964, see section 4(c) of Pub. L. 88–554, set out as a note under section 318 of this title.
 
 Amendment by Pub. L. 88–272 applicable to taxable years beginning after Dec. 31, 1963, see section 225(<i>l</i>) of Pub. L. 88–272, set out as a note under section 316 of this title.
 

@@ -117,7 +117,7 @@ Ozone-depleting chemical:
 
 &emsp;&emsp;CFC–215
 
-1\.0&nbsp;&nbsp;
+1\.0  
 
 &emsp;&emsp;CFC–216
 
@@ -139,7 +139,7 @@ For purposes of this subchapter—
 
 #### (2) De minimis exception
 
-&emsp;The term “imported taxable product” shall not include any product specified in regulations prescribed by the Secretary as using a de minimis amount of ozone-depleting chemicals as materials in the manufacture or productionthereof. The preceding sentence shall not apply to any product in which any ozone-depleting chemical (other than methyl chloroform) is used for purposes of refrigeration or air conditioning, creating an aerosol or foam, or manufacturing electronic components.
+&emsp;The term “imported taxable product” shall not include any product specified in regulations prescribed by the Secretary as using a de minimis amount of ozone-depleting chemicals as materials in the manufacture or production thereof. The preceding sentence shall not apply to any product in which any ozone-depleting chemical (other than methyl chloroform) is used for purposes of refrigeration or air conditioning, creating an aerosol or foam, or manufacturing electronic components.
 
 #### (d) Exceptions
 
@@ -293,7 +293,7 @@ For purposes of this subchapter—
 
 &emsp;All other provisions of law, including penalties, applicable with respect to the taxes imposed by section 4681 shall apply to the floor stocks taxes imposed by this subsection.
 
-(Added Pub. L. 101–239, title VII, §7506(a), Dec. 19, 1989, 103 Stat. 2365; amended Pub. L. 101–508, title XI, §§11203(a), (b), (d), 11701(g), Nov. 5, 1990, 104 Stat. 1388–421, 1388–422, 1388–508; Pub. L. 102–486, title XIX, §§1931(b), (c), 1932(a)–(c), Oct. 24, 1992, 106 Stat. 3029–3031; Pub. L. 104–188, title I, §1803(a)(1), (b), Aug. 20, 1996, 110 Stat. 1892, 1893; Pub. L. 105–34, title IX, §903(a), title XIV, §1432(c)(2), Aug. 5, 1997, 111 Stat. 873, 1051.)
+(Added Pub. L. 101–239, title VII, §7506(a), Dec. 19, 1989, 103 Stat. 2365; amended Pub. L. 101–508, title XI, §§11203(a), (b), (d), 11701(g), Nov. 5, 1990,104 Stat. 1388–421, 1388–422, 1388–508; Pub. L. 102–486, title XIX, §§1931(b), (c), 1932(a)–(c), Oct. 24, 1992, 106 Stat. 3029–3031; Pub. L. 104–188, title I, §1803(a)(1), (b), Aug. 20, 1996, 110 Stat. 1892, 1893; Pub. L. 105–34, title IX, §903(a), title XIV, §1432(c)(2), Aug. 5, 1997, 111 Stat. 873, 1051.)
 
 #### Prior Provisions
 
@@ -305,7 +305,7 @@ A prior section 4682, added Pub. L. 96–510, title II, §231(a), Dec. 11, 1980,
 
 Subsec. (g). Pub. L. 105–34, §1432(c)(2), amended subsec. (g) generally. Prior to amendment, subsec. (g) consisted of pars. (1) to (5) relating to taxes imposed during 1990 to 1993 on halons, chemicals used in rigid foam insulation, and methyl chloroform and taxes imposed on chemicals used as propellants in metered-dose inhalers.
 
-<b>1996</b>—Subsec. (d)(1). Pub. L. 104–188, §1803(a)(1), inserted before period at end “, or on any recycled halonimported from any country which is a signatory to the Montreal Protocol on Substances that Deplete the Ozone Layer”.
+<b>1996</b>—Subsec. (d)(1). Pub. L. 104–188, §1803(a)(1), inserted before period at end “, or on any recycled halon imported from any country which is a signatory to the Montreal Protocol on Substances that Deplete the Ozone Layer”.
 
 Subsec. (g)(4). Pub. L. 104–188, §1803(b), amended par. (4) generally, substituting provisions relating to chemicals used as propellants in metered-dose inhalers for provisions relating to chemicals used for sterilizing medical instruments and as propellants in metered-dose inhalers, including provisions relating to rate of tax, overpayments, and applicable period.
 

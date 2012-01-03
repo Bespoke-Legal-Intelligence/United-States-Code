@@ -6,7 +6,7 @@ Every article or thing designed, adapted, or intended for producing abortion, or
 
 Every article, instrument, substance, drug, medicine, or thing which is advertised or described in a manner calculated to lead another to use or apply it for producing abortion, or for any indecent or immoral purpose; and
 
-Every written or printed card, letter, circular, book, pamphlet, advertisement, or notice of any kind giving information, directly or indirectly,where, or how, or from whom, or by what means any of such mentioned matters, articles, or things may be obtained or made, or where or by whom any act or operation of any kind for the procuring or producing of abortion will be done or performed, or how or by what means abortion may be produced, whether sealed or unsealed; and
+Every written or printed card, letter, circular, book, pamphlet, advertisement, or notice of any kind giving information, directly or indirectly, where, or how, or from whom, or by what means any of such mentioned matters, articles, or things may be obtained or made, or where or by whom any act or operation of any kind for the procuring or producing of abortion will be done or performed, or how or by what means abortion may be produced, whether sealed or unsealed; and
 
 Every paper, writing, advertisement, or representation that any article, instrument, substance, drug, medicine, or thing may, or can, be used or applied for producing abortion, or for any indecent or immoral purpose; and
 
@@ -44,7 +44,7 @@ Pub. L. 91–662, §3(2), (3), in fourth par., substituted “means abortion may
 
 Pub. L. 91–662, §3(1), in fifth par., struck out “preventing conception or” after “applied for”.
 
-Pub. L. 91–662, §6(3), in eighth par., inserted “or section 3001(e) of title 39” after “this section”. Section 5(b) of Pub. L. 91–662 inserted reference to section 4001(d) of Title 39, The Postal Service, which reflected provisions of Title 39 prior to the effective date of Title 39, Postal Service, as enacted by the Postal Reorganization Act. Said section 4001(d) was repealed by section 6(2) of Pub. L. 91–662, effective on the date that the Board of Governors of the Postal Service establish as the effective date for section 3001 of Title 39, Postal Service.
+Pub. L. 91–662, §6(3), in eighth par., inserted “or section 3001(e) of title 39” after “this section”. Section 5(b) of Pub. L. 91–662 inserted reference to section 4001(d) of Title 39, The Postal Service, which reflected provisions of Title 39 prior to the effective date of Title 39, Postal Service, as enacted by the Postal Reorganization Act.Said section 4001(d) was repealed by section 6(2) of Pub. L. 91–662, effective on the date that the Board of Governors of the Postal Service establish as the effective date for section 3001 of Title 39, Postal Service.
 
 <b>1958</b>—Pub. L. 85–796 provided in eighth par. for continuing offenses by use of the mails instead of by deposits for mailing and for punishment for subsequent offenses.
 

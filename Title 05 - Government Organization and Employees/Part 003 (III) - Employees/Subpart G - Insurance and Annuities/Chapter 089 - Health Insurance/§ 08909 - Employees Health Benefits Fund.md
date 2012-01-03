@@ -66,27 +66,27 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1998—Subsec. (e). Pub. L. 105–266 designated existing provisions as par. (1) and added pars. (2) and (3).
+<b>1998</b>—Subsec. (e). Pub. L. 105–266 designated existing provisions as par. (1) and added pars. (2) and (3).
 
 Subsec. (g). Pub. L. 105–261 added subsec. (g).
 
-1990—Subsec. (a). Pub. L. 101–508, §7002(b), inserted at end “Payments from the Fund to a plan participating in a letter-of-credit arrangement under this chapter shall, in connection with any payment or reimbursement to be made by such plan for a health service or supply, be made, to the maximum extent practicable, on a checks-presented basis (as defined under regulations of the Department of the Treasury).”
+<b>1990</b>—Subsec. (a). Pub. L. 101–508, §7002(b), inserted at end “Payments from the Fund to a plan participating in a letter-of-credit arrangement under this chapter shall, in connection with any payment or reimbursement to be made by such plan for a health service or supply, be made, to the maximum extent practicable, on a checks-presented basis (as defined under regulations of the Department of the Treasury).”
 
 Subsec. (f). Pub. L. 101–508, §7002(c), added subsec. (f).
 
-1988—Subsec. (d). Pub. L. 100–654 substituted “former spouse, or person having continued coverage under section 8905a of this title” for “or former spouse” in two places.
+<b>1988</b>—Subsec. (d). Pub. L. 100–654 substituted “former spouse, or person having continued coverage under section 8905a of this title” for “or former spouse” in two places.
 
-1986—Subsec. (b). Pub. L. 99–251 substituted “enrollees” for “employees” in last sentence.
+<b>1986</b>—Subsec. (b). Pub. L. 99–251 substituted “enrollees” for “employees” in last sentence.
 
-1985—Subsec. (d). Pub. L. 99–53, §2(e), substituted “section 8903(3) or 8903a” for “section 8903(3)” and inserted provision directing that if the successor organization is an organization described in section 8901(8)(B) of this title, any transferred employee, annuitant, or former spouse may not remain enrolled in the plan after the end of the contract term in which the merger occurs unless the individual is a full member of such organization (as determined under section 8903a(d) of this title).
+<b>1985</b>—Subsec. (d). Pub. L. 99–53, §2(e), substituted “section 8903(3) or 8903a” for “section 8903(3)” and inserted provision directing that if the successor organization is an organization described in section 8901(8)(B) of this title, any transferred employee, annuitant, or former spouse may not remain enrolled in the plan after the end of the contract term in which the merger occurs unless the individual is a full member of such organization (as determined under section 8903a(d) of this title).
 
 Subsec. (e). Pub. L. 99–53, §2(f), inserted “or 8903a” before “of this title”.
 
-1984—Subsecs. (a), (b). Pub. L. 98–615, §3(6)(A), substituted “enrollees” for “employees, annuitants,” in provisions preceding par. (1).
+<b>1984</b>—Subsecs. (a), (b). Pub. L. 98–615, §3(6)(A), substituted “enrollees” for “employees, annuitants,” in provisions preceding par. (1).
 
 Subsec. (d). Pub. L. 98–615, §3(6)(B), substituted “Each employee, annuitant, or former spouse” for “Each employee or annuitant”.
 
-1978—Subsecs. (a), (b). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission” wherever appearing.
+<b>1978</b>—Subsecs. (a), (b). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission” wherever appearing.
 
 #### Effective Date of 1990 Amendment
 
@@ -106,7 +106,7 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 #### Disposal of Amounts Remaining as of October 19, 1998, in Contingency Reserve of Discontinued Plan
 
-Pub. L. 105–266, §6(b)(2), Oct. 19, 1998, 112 Stat. 2369, provided that: “In the case of any amounts remaining as of the date of the enactment of this Act \[Oct. 19, 1998\] in the contingency reserve of a discontinued plan, such amounts shall be disposed of in accordance withsection 8909(e) of title 5, United States Code, as amended by this subsection, by—
+Pub. L. 105–266, §6(b)(2), Oct. 19, 1998, 112 Stat. 2369, provided that: “In the case of any amounts remaining as of the date of the enactment of this Act \[Oct. 19, 1998\] in the contingency reserve of a discontinued plan, such amounts shall be disposed of in accordance with section 8909(e) of title 5, United States Code, as amended by this subsection, by—
 
 &emsp;“(A) the deadline set forth in section 8909(e) of such title (as so amended); or
 

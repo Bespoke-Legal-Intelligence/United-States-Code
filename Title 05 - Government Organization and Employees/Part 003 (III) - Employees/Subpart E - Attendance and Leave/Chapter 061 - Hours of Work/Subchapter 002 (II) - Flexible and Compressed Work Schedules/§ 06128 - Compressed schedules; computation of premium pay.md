@@ -1,6 +1,6 @@
 ### §6128. Compressed schedules; computation of premium pay
 
-(a) The provisions of sections 5542(a) and 5544(a) of this title, section 7453(e) of title 38,section 7 of the Fair Labor Standards Act (29 U.S.C. 207), or any other law, which relate to premium pay for overtime work, shall not apply to the hours which constitute a compressed schedule.
+(a) The provisions of sections 5542(a) and 5544(a) of this title, section 7453(e) of title 38, section 7 of the Fair Labor Standards Act (29 U.S.C. 207), or any other law, which relate to premium pay for overtime work, shall not apply to the hours which constitute a compressed schedule.
 
 (b) In the case of any full-time employee, hours worked in excess of the compressed schedule shall be overtime hours and shall be paid for as provided by the applicable provisions referred to in subsection (a) of this section. In the case of any part-time employee on a compressed schedule, overtime pay shall begin to be paid after the same number of hours of work after which a full-time employee on a similar schedule would begin to receive overtime pay.
 
@@ -12,9 +12,9 @@
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–378, §2(44)(E)(i), substituted “5542(a) and 5544(a)” for “5542(a), 5544(a), and 5550(2)”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–378, §2(44)(E)(i), substituted “5542(a) and 5544(a)” for “5542(a), 5544(a), and 5550(2)”.
 
 Subsec. (c). Pub. L. 102–378, §2(44)(E)(ii), substituted “5544(a) or 5546(a)” for “5544(a), 5546(a), or 5550(1)”.
 
-1991—Subsec. (a). Pub. L. 102–40 substituted “section 7453(e)” for “section 4107(e)(5)”.
+<b>1991</b>—Subsec. (a). Pub. L. 102–40 substituted “section 7453(e)” for “section 4107(e)(5)”.
 

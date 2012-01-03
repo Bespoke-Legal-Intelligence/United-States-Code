@@ -14,7 +14,7 @@ The President is authorized—
 
 #### (c) Other provisions of law not affected
 
-In the case of any petroleum, petroleum products, or other materials vital to the national interest, which are acquired under subsection (b) of this section, nothing in this section shall beconstrued to render inapplicable the provisions of any law then in effect which apply to the storage, distribution, or use of such petroleum, petroleum products, or other materials vital to the national interest.
+In the case of any petroleum, petroleum products, or other materials vital to the national interest, which are acquired under subsection (b) of this section, nothing in this section shall be construed to render inapplicable the provisions of any law then in effect which apply to the storage, distribution, or use of such petroleum, petroleum products, or other materials vital to the national interest.
 
 #### (d) Conventional markets not to be displaced by barters
 

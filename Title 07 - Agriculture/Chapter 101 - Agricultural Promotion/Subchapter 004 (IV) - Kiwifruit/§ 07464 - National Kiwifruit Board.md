@@ -24,7 +24,7 @@ Subject to the 11-member limit, the Secretary may adjust membership on the Board
 
 #### (3) Importers and exporters
 
-&emsp;The members who are importers or exporters referred to in subsection (a)(1) of this sectionshall be appointed from individuals nominated by importers or exporters.
+&emsp;The members who are importers or exporters referred to in subsection (a)(1) of this section shall be appointed from individuals nominated by importers or exporters.
 
 #### (4) Public representative
 
@@ -78,7 +78,7 @@ The Board shall—
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–185, §603(b)(1), added pars. (1) and (2) and struck out former pars. (1) to (3) which read as follows:
+<b>1998</b>—Subsec. (a). Pub. L. 105–185, §603(b)(1), added pars. (1) and (2) and struck out former pars. (1) to (3) which read as follows:
 
 “(1) 6 members who are producers (or representatives of producers) and who are not exempt from an assessment under section 7465(b) of this title.
 

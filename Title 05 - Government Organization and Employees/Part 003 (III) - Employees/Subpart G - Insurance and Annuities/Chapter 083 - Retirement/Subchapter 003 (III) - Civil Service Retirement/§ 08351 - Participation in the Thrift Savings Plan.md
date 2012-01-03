@@ -92,15 +92,15 @@ Section 103(6) of the Foreign Service Act of 1980, referred to in subsec. (c), i
 
 #### Amendments
 
-2004—Subsec. (a)(2). Pub. L. 108–469 substituted “as” for “only during a period”.
+<b>2004</b>—Subsec. (a)(2). Pub. L. 108–469 substituted “as” for “only during a period”.
 
-2003—Subsec. (d). Pub. L. 108–177 designated existing provisions as par. (1) and added par. (2).
+<b>2003</b>—Subsec. (d). Pub. L. 108–177 designated existing provisions as par. (1) and added par. (2).
 
-2002—Subsec. (b)(2)(C). Pub. L. 107–304 added subpar. (C).
+<b>2002</b>—Subsec. (b)(2)(C). Pub. L. 107–304 added subpar. (C).
 
-2000—Subsec. (b)(2). Pub. L. 106–554 designated existing provisions as subpar. (A), substituted “the maximum percentage of such employee's or Member's basic pay for such pay period allowable under subparagraph (B).” for “5 percent of the amount of the employee's or Member's basic pay for such period.”, and added subpar. (B).
+<b>2000</b>—Subsec. (b)(2). Pub. L. 106–554 designated existing provisions as subpar. (A), substituted “the maximum percentage of such employee's or Member's basic pay for such pay period allowable under subparagraph (B).” for “5 percent of the amount of the employee's or Member's basic pay for such period.”, and added subpar. (B).
 
-1999—Subsec. (b)(8)(A). Pub. L. 106–65, §661(a)(3)(B)(ii), inserted before semicolon at end “, except that the reference in section 8432b(b)(2)(B) to employee contributions under section 8432(a) shall be considered a reference to employee contributions under this subchapter and section 8440e”.
+<b>1999</b>—Subsec. (b)(8)(A). Pub. L. 106–65, §661(a)(3)(B)(ii), inserted before semicolon at end “, except that the reference in section 8432b(b)(2)(B) to employee contributions under section 8432(a) shall be considered a reference to employee contributions under this subchapter and section 8440e”.
 
 Pub. L. 106–65, §661(a)(3)(B)(i), and Pub. L. 106–168, amended subsec. (b) identically, redesignating par. (11) as (8).
 
@@ -108,13 +108,13 @@ Subsec. (b)(9). Pub. L. 106–168 added par. (9).
 
 Subsec. (b)(11). Pub. L. 106–65, §661(a)(3)(B)(i), and Pub. L. 106–168, amended subsec. (b) identically, redesignating par. (11) as (8).
 
-1996—Subsec. (b)(5)(B). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §202(1)(A)\]\], substituted “An election or change of election” for “An election, change of election, or modification (relating to the commencement date of a deferred annuity)”, inserted “or withdrawal” after “and a loan” and “and (h)” after “8433(g)”, substituted “the election or change of election” for “the election, change of election, or modification”, and inserted “or withdrawal” after “for such loan”.
+<b>1996</b>—Subsec. (b)(5)(B). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §202(1)(A)\]\], substituted “An election or change of election” for “An election, change of election, or modification (relating to the commencement date of a deferred annuity)”, inserted “or withdrawal” after “and a loan” and “and (h)” after “8433(g)”, substituted “the election or change of election” for “the election, change of election, or modification”, and inserted “or withdrawal” after “for such loan”.
 
 Subsec. (b)(5)(D). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §202(1)(B)\]\], inserted “or withdrawals” after “of loans” and “or (h)” after “8433(g)”.
 
 Subsec. (b)(6). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §202(2)\]\], substituted “less than an amount that the Executive Director prescribes by regulation” for “$3,500 or less” and struck out “unless the employee or Member elects, at such time and otherwise in such manner as the Executive Director prescribes, one of the options available under subsection (b)” before period at end.
 
-1994—Subsec. (b)(4). Pub. L. 103–226, §9(a)(1), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “Section 8433(b) of this title applies to any employee or Member who elects to make contributions to the Thrift Savings Fund under subsection (a) of this section and separates from Government employment entitled to an immediate annuity under this subchapter (including a disability retirement annuity under section 8337 of this title), separates from Government employment pursuant to regulations under section 3502(a) of this title or procedures under section 3595(a) of this title in a reduction in force, or separates from Government employment entitled to benefits under subchapter I of chapter 81 of this title.”
+<b>1994</b>—Subsec. (b)(4). Pub. L. 103–226, §9(a)(1), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “Section 8433(b) of this title applies to any employee or Member who elects to make contributions to the Thrift Savings Fund under subsection (a) of this section and separates from Government employment entitled to an immediate annuity under this subchapter (including a disability retirement annuity under section 8337 of this title), separates from Government employment pursuant to regulations under section 3502(a) of this title or procedures under section 3595(a) of this title in a reduction in force, or separates from Government employment entitled to benefits under subchapter I of chapter 81 of this title.”
 
 Subsec. (b)(5). Pub. L. 103–226, §9(a)(2), (3), redesignated par. (7) as (5) and struck out former par. (5) which read as follows: “Section 8433(c) of this title applies to any employee or Member who elects to make contributions to the Thrift Savings Fund under subsection (a) of this section and separates entitled to a deferred annuity under this subchapter.”
 
@@ -134,11 +134,11 @@ Subsec. (b)(9), (10). Pub. L. 103–226, §9(a)(3), redesignated pars. (9) and (
 
 Subsec. (b)(11). Pub. L. 103–353 added par. (11).
 
-1992—Subsec. (b)(4). Pub. L. 102–484 inserted “, separates from Government employment pursuant to regulations under section 3502(a) of this title or procedures under section 3595(a) of this title in a reduction in force,” after “section 8337 of this title)”.
+<b>1992</b>—Subsec. (b)(4). Pub. L. 102–484 inserted “, separates from Government employment pursuant to regulations under section 3502(a) of this title or procedures under section 3595(a) of this title in a reduction in force,” after “section 8337 of this title)”.
 
-1991—Subsecs. (d), (e). Pub. L. 102–183 added subsec. (d) and redesignated former subsec. (d) as (e).
+<b>1991</b>—Subsecs. (d), (e). Pub. L. 102–183 added subsec. (d) and redesignated former subsec. (d) as (e).
 
-1990—Subsec. (b)(7)(D). Pub. L. 101–335, §6(b)(1)(B), added subpar. (D).
+<b>1990</b>—Subsec. (b)(7)(D). Pub. L. 101–335, §6(b)(1)(B), added subpar. (D).
 
 Subsec. (b)(8). Pub. L. 101–335, §6(b)(1)(A), added par. (8).
 
@@ -146,7 +146,7 @@ Pub. L. 101–335, §3(b)(1), struck out par. (8) which read as follows: “Sums
 
 Subsec. (b)(9), (10). Pub. L. 101–335, §6(b)(1)(A), added pars. (9) and (10).
 
-1988—Subsecs. (c), (d). Pub. L. 100–238 added subsec. (c) and redesignated former subsec. (c) as (d).
+<b>1988</b>—Subsecs. (c), (d). Pub. L. 100–238 added subsec. (c) and redesignated former subsec. (c) as (d).
 
 #### Effective Date of 2002 Amendment
 

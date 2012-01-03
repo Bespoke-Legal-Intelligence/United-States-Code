@@ -8,9 +8,21 @@ Prohibition.—A person may not knowingly and willfully enter, in violation of s
 
 Criminal Penalty.—(1) A person violating subsection (a) of this section shall be fined under title 18, imprisoned for not more than one year, or both.
 
-(2) A person violating subsection (a) of this section with intent to commit, in the aircraft or airport area, a felony under a law of the United States or a State shall be fined under title 18, imprisoned for not more than 10 years, or both.
+(2) A person violating subsection (a) of this section with intent to evade security procedures or restrictions or with intent to commit, in the aircraft or airport area, a felony under a law of the United States or a State shall be fined under title 18, imprisoned for not more than 10 years, or both.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1239.)
+(c)
+
+Notice of Penalties.—
+
+&emsp;(1)
+
+In general.—Each operator of an airport in the United States that is required to establish an air transportation security program pursuant to section 44903(c) shall ensure that signs that meet such requirements as the Secretary of Homeland Security may prescribe providing notice of the penalties imposed under section 46301(a)(5)(A)(i) and subsection (b) of this section are displayed near all screening locations, all locations where passengers exit the sterile area, and such other locations at the airport as the Secretary of Homeland Security determines appropriate.
+
+&emsp;(2)
+
+Effect of signs on penalties.—An individual shall be subject to a penalty imposed under section 46301(a)(5)(A)(i) or subsection (b) of this section without regard to whether signs are displayed at an airport as required by paragraph (1).
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1239; Pub. L. 112–74, div. D, title V, §564(b), (c), Dec. 23, 2011, 125 Stat. 981.)
 
 Historical and Revision Notes
 
@@ -33,4 +45,10 @@ In subsection (b), the words “fined under title 18” are substituted for “a
 In subsection (b)(1), the words “Upon conviction” are omitted as surplus.
 
 In subsection (b)(2), the words “airport area” are substituted for “secured area” for consistency in this section.
+
+#### Amendments
+
+<b>2011</b>—Subsec. (b)(2). Pub. L. 112–74, §564(b), inserted “with intent to evade security procedures or restrictions or” after “of this section”.
+
+Subsec. (c). Pub. L. 112–74, §564(c), added subsec. (c).
 

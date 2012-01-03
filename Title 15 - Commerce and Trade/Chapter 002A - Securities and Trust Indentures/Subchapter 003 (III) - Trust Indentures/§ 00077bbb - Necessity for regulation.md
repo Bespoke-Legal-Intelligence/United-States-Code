@@ -10,7 +10,7 @@ Upon the basis of facts disclosed by the reports of the Securities and Exchange 
 
 &emsp;(3) when the trustee does not have resources commensurate with its responsibilities, or has any relationship to or connection with the obligor or any underwriter of any securities of the obligor, or holds, beneficially or otherwise, any interest in the obligor or any such underwriter, which relationship, connection, or interest involves a material conflict with the interests of such investors;
 
-&emsp;(4) when the obligor is not obligated to furnish to the trustee under the indenture and to such investors adequate current information as to its financial condition, and as to the performance of its obligations with respect to the securities outstanding under such indenture; or when the communication of such information to such investors is impeded by the fact that information as to the names and addresses of such investors generally is not available to the trustee and to such investors;
+&emsp;(4) when the obligor is not obligated to furnish to the trustee under the indenture and to such investors adequate current information as to its financial condition, and as to the performance of its obligations with respect to the securities outstanding under such indenture;or when the communication of such information to such investors is impeded by the fact that information as to the names and addresses of such investors generally is not available to the trustee and to such investors;
 
 &emsp;(5) when the indenture contains provisions which are misleading or deceptive, or when full and fair disclosure is not made to prospective investors of the effect of important indenture provisions; or
 

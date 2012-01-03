@@ -14,7 +14,7 @@ The Corporation may purchase or lease and hold such real and personal property a
 
 #### (d) Suit
 
-Subject to section 1508(j)(2)(A) of this title, the Corporation, subject to the provisions of section 1508(j) of this title,<sup>1</sup> may sue and be sued in its corporate name, but no attachment, injunction, garnishment, or other similar process, mesne or final, shall be issued against the Corporation or its property. The district courts of the United States, including the district courts of the District of Columbia and of any territory or possession, shall have exclusive original jurisdiction, without regard to the amount in controversy, of all suits brought by or against the Corporation. The Corporation may intervene in any court in any suit, action, or proceeding in which it has an interest. Any suit against the Corporation shall be brought in the District of Columbia, or in the district wherein the plaintiff resides or is engaged in business.
+Subject to section 1508(j)(2)(A) of this title, the Corporation, subject to the provisions of section 1508(j) of this title,<sup>1</sup> may sue and be sued in its corporate name, but no attachment, injunction, garnishment, or other similar process, mesne or final, shall be issued against the Corporation or its property. The district courts of the United States, including the district courts of the District of Columbia and of any territory or possession, shall have exclusive original jurisdiction, without regard to the amount in controversy, of all suits brought by or against the Corporation. The Corporation may intervene in any court in any suit, action, or proceeding in which it has an interest. Any suit against the Corporation shall be brought in the District of Columbia, orin the district wherein the plaintiff resides or is engaged in business.
 
 #### (e) Bylaws and regulations
 
@@ -142,7 +142,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (d). Pub. L. 110–246, §12002(a)(1), substituted “Subject to section 1508(j)(2)(A) of this title, the Corporation” for “The Corporation” in first sentence.
+<b>2008</b>—Subsec. (d). Pub. L. 110–246, §12002(a)(1), substituted “Subject to section 1508(j)(2)(A) of this title, the Corporation” for “The Corporation” in first sentence.
 
 Subsecs. (g) to (i), (m). Pub. L. 110–246, §12033(c)(2)(B), substituted “this subchapter” for “this chapter” wherever appearing.
 
@@ -164,13 +164,13 @@ Subsec. (q). Pub. L. 110–246, §12002(b)(1), redesignated subsec. (q) as (p).
 
 Subsec. (r). Pub. L. 110–246, §12033(c)(2)(B), substituted “this subchapter” for “this chapter” wherever appearing.
 
-2000—Subsec. (h). Pub. L. 106–224, §124(b), added subsec. (h) and struck out heading and text of former subsec. (h). Text read as follows: “The Corporation shall assemble data for the purpose of establishing sound actuarial bases for insurance on agricultural commodities.”
+<b>2000</b>—Subsec. (h). Pub. L. 106–224, §124(b), added subsec. (h) and struck out heading and text of former subsec. (h). Text read as follows: “The Corporation shall assemble data for the purpose of establishing sound actuarial bases for insurance on agricultural commodities.”
 
 Subsecs. (q) to (s). Pub. L. 106–224, §121(b), redesignated subsecs. (r) and (s) as (q) and (r), respectively, and struck out former subsec. (q), which related to program compliance by insurance providers and required notice to any provider of any error, omission, or failure to follow Corporation regulations or procedures for which provider may be responsible and which may result in a debt owed the Corporation.
 
-1998—Subsec. (s). Pub. L. 105–185 added subsec. (s).
+<b>1998</b>—Subsec. (s). Pub. L. 105–185 added subsec. (s).
 
-1994—Subsec. (d). Pub. L. 103–354, §119(f)(1), substituted “1508(j)” for “1508(f)” in first sentence.
+<b>1994</b>—Subsec. (d). Pub. L. 103–354, §119(f)(1), substituted “1508(j)” for “1508(f)” in first sentence.
 
 Subsec. (j). Pub. L. 103–354, §104(2), added subsec. (j). Former subsec. (j) redesignated (k).
 
@@ -200,13 +200,13 @@ Subsec. (<i>o</i>)(2) to (4). Pub. L. 103–354, §104(5)(A), (E), added pars. (
 
 Subsecs. (p) to (r). Pub. L. 103–354, §104(6), added subsecs. (p) to (r).
 
-1993—Subsec. (n). Pub. L. 103–66 added subsec. (n).
+<b>1993</b>—Subsec. (n). Pub. L. 103–66 added subsec. (n).
 
-1991—Subsec. (d). Pub. L. 102–237, §601(1), substituted “section 1508(f)” for “section 1508(c)” and a period for semicolon at end.
+<b>1991</b>—Subsec. (d). Pub. L. 102–237, §601(1), substituted “section 1508(f)” for “section 1508(c)” and a period for semicolon at end.
 
 Subsec. (m)(1). Pub. L. 102–237, §601(2), in introductory provisions substituted “willfully” for “wilfully” and in subpar. (A) struck out “to” after “exceed”.
 
-1990—Pub. L. 101–624, §2202(b)(1), substituted “General powers” for “General powers of Corporation” as section catchline and struck out “The Corporation—” before subsec. (a).
+<b>1990</b>—Pub. L. 101–624, §2202(b)(1), substituted “General powers” for “General powers of Corporation” as section catchline and struck out “The Corporation—” before subsec. (a).
 
 Subsec. (a). Pub. L. 101–624, §2202(b)(2), (13), inserted heading and “The Corporation” and substituted period for semicolon at end.
 
@@ -234,7 +234,7 @@ Subsec. (<i>l</i>). Pub. L. 101–624, §2201(a), added subsec. (<i>l</i>).
 
 Subsec. (m). Pub. L. 101–624, §2202(a), added subsec. (m).
 
-1980—Subsec. (c). Pub. L. 96–365, §103(1), substituted “may purchase” for “may make contracts and purchase”. See subsec. (k) of this section.
+<b>1980</b>—Subsec. (c). Pub. L. 96–365, §103(1), substituted “may purchase” for “may make contracts and purchase”. See subsec. (k) of this section.
 
 Subsec. (d). Pub. L. 96–365, §103(2), substituted provision granting exclusive original jurisdiction to district courts of the United States, including district courts of the District of Columbia and of any territory or possession, for prior grant to any State court of record having general jurisdiction or any United States district court, authorized intervention by the Corporation in proceedings, and required suits against the Corporation to be brought in the District of Columbia or in district wherein plaintiff resides or is engaged in business.
 
@@ -244,11 +244,11 @@ Subsec. (h). Pub. L. 96–365, §107(a), struck out authority for conducting res
 
 Subsec. (k). Pub. L. 96–365, §103(4), added subsec. (k).
 
-1949—Subsec. (h). Act Aug. 25, 1949, struck out obsolete language and included authority for a study of the possibility of developing some type of livestock insurance.
+<b>1949</b>—Subsec. (h). Act Aug. 25, 1949, struck out obsolete language and included authority for a study of the possibility of developing some type of livestock insurance.
 
-1947—Subsec. (d). Act Aug. 1, 1947, provided for suits in State courts of general jurisdiction or in United States district courts regardless of amount in controversy.
+<b>1947</b>—Subsec. (d). Act Aug. 1, 1947, provided for suits in State courts of general jurisdiction or in United States district courts regardless of amount in controversy.
 
-1941—Subsec. (h). Act June 21, 1941, substituted “and preparatory to the application of the chapter to other basic commodities when so provided by law, shall assemble data relative to field corn, for the purpose of establishing a satisfactory actuarial basis for such commodity” for “for wheat and other agricultural commodities.”
+<b>1941</b>—Subsec. (h). Act June 21, 1941, substituted “and preparatory to the application of the chapter to other basic commodities when so provided by law, shall assemble data relative to field corn, for the purpose of establishing a satisfactory actuarial basis for such commodity” for “for wheat and other agricultural commodities.”
 
 #### Effective Date of 2008 Amendment
 
@@ -260,7 +260,7 @@ Pub. L. 105–185, title V, §537, June 23, 1998, 112 Stat. 584, provided that: 
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–354 effective Oct. 13, 1994, and applicable to provision of crop insurance under Federal Crop Insurance Act (7 U.S.C. 1501 et seq.) beginning with 1995 crop year, with such Act, as in effect on the day before Oct. 13, 1994, to continue to apply with respect to 1994 crop year, see section 120 of Pub. L. 103–354, set out as a note under section 1502 of this title.
+Amendment by Pub. L. 103–354 effective Oct. 13, 1994, and applicable to provision of crop insurance underFederal Crop Insurance Act (7 U.S.C. 1501 et seq.) beginning with 1995 crop year, with such Act, as in effect on the day before Oct. 13, 1994, to continue to apply with respect to 1994 crop year, see section 120 of Pub. L. 103–354, set out as a note under section 1502 of this title.
 
 #### Effective Date of 1993 Amendment
 

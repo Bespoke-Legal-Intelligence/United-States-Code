@@ -8,7 +8,7 @@ No benefit shall be paid under this subchapter—
 
 &emsp;(3) if the public safety officer was performing his duties in a grossly negligent manner at the time of his death or catastrophic injury;
 
-&emsp;(4) to any individual who would otherwise be entitled to a benefit under this subchapter ifsuch individual's actions were a substantial contributing factor to the death or catastrophic injury of the public safety officer; or
+&emsp;(4) to any individual who would otherwise be entitled to a benefit under this subchapter if such individual's actions were a substantial contributing factor to the death or catastrophic injury of the public safety officer; or
 
 &emsp;(5) with respect to any individual employed in a capacity other than a civilian capacity.
 

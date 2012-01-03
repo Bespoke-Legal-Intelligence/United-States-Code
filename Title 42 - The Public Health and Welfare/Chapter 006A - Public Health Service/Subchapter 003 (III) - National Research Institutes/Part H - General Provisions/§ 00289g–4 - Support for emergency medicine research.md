@@ -2,7 +2,7 @@
 
 #### (a) Emergency medical research
 
-The Secretary shall support Federal programs administered by the National Institutes of Health, the Agency for Healthcare Research andQuality, the Health Resources and Services Administration, the Centers for Disease Control and Prevention, and other agencies involved in improving the emergency care system to expand and accelerate research in emergency medical care systems and emergency medicine, including—
+The Secretary shall support Federal programs administered by the National Institutes of Health, the Agency for Healthcare Research and Quality, the Health Resources and Services Administration, the Centers for Disease Control and Prevention, and other agencies involved in improving the emergency care system to expand and accelerate research in emergency medical care systems and emergency medicine, including—
 
 &emsp;(1) the basic science of emergency medicine;
 

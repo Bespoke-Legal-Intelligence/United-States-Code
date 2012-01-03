@@ -48,7 +48,7 @@ In this subchapter:
 
 &emsp;&emsp;&emsp;(ii) has earned, with respect to at least 3 calendar years that occur during the first 60 months for which the individual has paid premiums for enrollment in the program, at least an amount equal to the amount of wages and self-employment income which an individual must have in order to be credited with a quarter of coverage under section 213(d) of the Social Security Act \[42 U.S.C. 413(d)\] for the year; and
 
-&emsp;&emsp;&emsp;(iii) has paid premiums for enrollment in such program for at least 24 consecutive months, if a lapse in premium payments of more than 3 months has occurred duringthe period that begins on the date of the individual's enrollment and ends on the date of such determination.
+&emsp;&emsp;&emsp;(iii) has paid premiums for enrollment in such program for at least 24 consecutive months, if a lapse in premium payments of more than 3 months has occurred during the period that begins on the date of the individual's enrollment and ends on the date of such determination.
 
 #### (B) Date described
 
@@ -60,7 +60,7 @@ In this subchapter:
 
 #### (7) Hospital; nursing facility; intermediate care facility for the mentally retarded; institution for mental diseases
 
-&emsp;The terms “hospital”, “nursing facility”, “intermediate care facility for the mentally retarded”, and “institution for mental diseases” have the meanings given such terms for purposes of Medicaid.
+&emsp;The terms “hospital”, “nursing facility”, “intermediate care facility for the mentallyretarded”, and “institution for mental diseases” have the meanings given such terms for purposes of Medicaid.
 
 #### (8) CLASS Independence Advisory Council
 

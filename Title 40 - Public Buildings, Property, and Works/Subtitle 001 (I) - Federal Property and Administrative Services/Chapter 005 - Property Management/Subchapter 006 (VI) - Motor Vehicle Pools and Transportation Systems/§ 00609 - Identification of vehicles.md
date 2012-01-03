@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Under regulations prescribed by the Administrator of General Services, everymotor vehicle acquired and used for official purposes within the United States, or the territories or possessions of the United States, by any federal agency or by the District of Columbia shall be conspicuously identified by showing, on the vehicle—
+In General.—Under regulations prescribed by the Administrator of General Services, every motor vehicle acquired and used for official purposes within the United States, or the territories or possessions of the United States, by any federal agency or by the District of Columbia shall be conspicuously identified by showing, on the vehicle—
 
 &emsp;(1)(A) the full name of the department, establishment, corporation, or agency that uses the vehicle and the service for which the vehicle is used; or
 

@@ -36,7 +36,7 @@ Any employer who violates any of the posting requirements, as prescribed under t
 
 #### (j) Authority of Commission to assess civil penalties
 
-The Commission shall have authority to assess all civil penalties provided in this section, giving due consideration to the appropriateness of the penalty with respect to the size of the business of the employer being charged, thegravity of the violation, the good faith of the employer, and the history of previous violations.
+The Commission shall have authority to assess all civil penalties provided in this section, giving due consideration to the appropriateness of the penalty with respect to the size of the business of the employer being charged, the gravity of the violation, the good faith of the employer, and the history of previous violations.
 
 #### (k) Determination of serious violation
 

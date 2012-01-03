@@ -20,19 +20,19 @@ Before official inspection or services related to weighing is refused to any per
 
 Moneys received in payment of such civil penalties shall be deposited in the general fund of the United States Treasury. Upon any failure to pay the penalties assessed under this section, the Secretary may request the Attorney General of the United States to institute a civil action to collect the penalties in the appropriate court identified in subsection (h) of section 87f of this title for the jurisdiction in which the respondent is found or resides or transacts business, and such court shall have jurisdiction to hear and decide any such action.
 
-(Aug. 11, 1916, ch. 313, pt. B, §10, 39 Stat. 485; Pub. L. 90–487, §1, Aug. 15, 1968, 82 Stat. 765; Pub.L. 94–582, §12, Oct. 21, 1976, 90 Stat. 2879; Pub. L. 103–156, §12(i), Nov. 24, 1993, 107 Stat. 1528; Pub. L. 103–354, title II, §293(a)(7), Oct. 13, 1994, 108 Stat. 3237.)
+(Aug. 11, 1916, ch. 313, pt. B, §10, 39 Stat. 485; Pub. L. 90–487, §1, Aug. 15, 1968, 82 Stat. 765; Pub. L. 94–582, §12, Oct. 21, 1976, 90 Stat. 2879; Pub. L. 103–156, §12(i), Nov. 24, 1993, 107 Stat. 1528; Pub. L. 103–354, title II, §293(a)(7), Oct. 13, 1994, 108 Stat. 3237.)
 
 #### Amendments
 
-1994—Subsecs. (a), (c) to (e). Pub. L. 103–354 substituted “Secretary” for “Administrator” wherever appearing.
+<b>1994</b>—Subsecs. (a), (c) to (e). Pub. L. 103–354 substituted “Secretary” for “Administrator” wherever appearing.
 
-1993—Pub. L. 103–156, §12(i), which directed amendment of “Section 10”, without specifying the name of the Act being amended, was executed to this section, which is section 10 of the United States Grain Standards Act, to reflect the probable intent of Congress.
+<b>1993</b>—Pub. L. 103–156, §12(i), which directed amendment of “Section 10”, without specifying the name of the Act being amended, was executed to this section, which is section 10 of the United States Grain Standards Act, to reflect the probable intent of Congress.
 
 Subsec. (a). Pub. L. 103–156, §12(i)(1), substituted “the Administrator” for “he” in two places.
 
 Subsec. (b). Pub. L. 103–156, §12(i)(2), substituted “the person” for “he”.
 
-1976—Subsec. (a). Pub. L. 94–582 substituted “Administrator” for “Secretary”, “grain offered for such services” for “grain offered for inspection”, “has knowingly committed any violation of section 87b of this title or has been convicted of any violation of other Federal law with respect to the handling, weighing, or official inspection of grain, or that official inspection or the services related to weighing have been refused” for “has been convicted of any violation of section 87b of this title, or that official inspection has been refused”, and “integrity of the service” for “integrity of the official inspection service”, and authorized refusal of provision of services relating to weighing.
+<b>1976</b>—Subsec. (a). Pub. L. 94–582 substituted “Administrator” for “Secretary”, “grain offered for such services” for “grain offered for inspection”, “has knowingly committed any violation of section 87b of this title or has been convicted of any violation of other Federal law with respect to the handling, weighing, or official inspection of grain, or that official inspection or the services related to weighing have been refused” for “has been convicted of any violation of section 87b of this title, or that official inspection has been refused”, and “integrity of the service” for “integrity of the official inspection service”, and authorized refusal of provision of services relating to weighing.
 
 Subsec. (c). Pub. L. 94–582 added subsec. (c). Former subsec. (c) redesignated (d).
 
@@ -40,7 +40,7 @@ Subsec. (d). Pub. L. 94–582 redesignated provisions of former subsec. (c) as (
 
 Subsec. (e). Pub. L. 94–582 added subsec. (e).
 
-1968—Pub. L. 90–487 substituted provisions authorizing the Secretary to refuse official inspection and affording an opportunity for a hearing in such a case, for provisions setting the penalty for interference with the execution of official duties.
+<b>1968</b>—Pub. L. 90–487 substituted provisions authorizing the Secretary to refuse official inspection and affording an opportunity for a hearing in such a case, forprovisions setting the penalty for interference with the execution of official duties.
 
 #### Effective Date of 1976 Amendment
 

@@ -16,7 +16,7 @@ Subject to section 7128 of this title, any project funds reserved by a participa
 
 #### (1) In general
 
-&emsp;If an approved project under this chapter is enjoined or prohibited by a Federal court, the Secretary concerned shall return the unobligated project funds related to the project to the participating county or counties that reserved the funds.
+&emsp;If an approved project under this chapter is enjoined or prohibited by a Federal court, theSecretary concerned shall return the unobligated project funds related to the project to the participating county or counties that reserved the funds.
 
 #### (2) Expenditure of funds
 

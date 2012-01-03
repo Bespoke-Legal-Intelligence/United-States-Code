@@ -6,7 +6,7 @@ The Merit Systems Protection Board is composed of 3 members appointed by the Pre
 
 #### Amendments
 
-1989—Pub. L. 101–12 substituted “The members” for “The Chairman and members” in second sentence.
+<b>1989</b>—Pub. L. 101–12 substituted “The members” for “The Chairman and members” in second sentence.
 
 #### Effective Date of 1989 Amendment
 

@@ -34,9 +34,9 @@
 
 #### Amendments
 
-2004—Subsecs. (c) to (g). Pub. L. 108–293 added subsecs. (c) to (e) and (g) and redesignated former subsec. (c) as (f).
+<b>2004</b>—Subsecs. (c) to (g). Pub. L. 108–293 added subsecs. (c) to (e) and (g) and redesignated former subsec. (c) as (f).
 
-2002—Subsec. (c). Pub. L. 107–295 substituted “Transportation and Infrastructure” for “Merchant Marine and Fisheries” in introductory provisions.
+<b>2002</b>—Subsec. (c). Pub. L. 107–295 substituted “Transportation and Infrastructure” for “Merchant Marine and Fisheries” in introductory provisions.
 
-1989—Subsec. (c). Pub. L. 101–225 inserted “under any law” after first reference to “collected” in pars. (1) and (2).
+<b>1989</b>—Subsec. (c). Pub. L. 101–225 inserted “under any law” after first reference to “collected” in pars. (1) and (2).
 

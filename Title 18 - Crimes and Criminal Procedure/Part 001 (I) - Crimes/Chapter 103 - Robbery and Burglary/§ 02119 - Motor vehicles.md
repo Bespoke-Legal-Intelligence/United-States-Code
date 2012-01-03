@@ -4,7 +4,7 @@ Whoever, with the intent to cause death or serious bodily harm <sup>1</sup> tak
 
 &emsp;(1) be fined under this title or imprisoned not more than 15 years, or both,
 
-&emsp;(2) if serious bodily injury (as defined in section 1365 of this title, including any conduct that, if the conduct occurred in the special maritime and territorial jurisdiction of the United States, would violate section 2241 or2242 of this title) results, be fined under this title or imprisoned not more than 25 years, or both, and
+&emsp;(2) if serious bodily injury (as defined in section 1365 of this title, including any conduct that, if the conduct occurred in the special maritime and territorial jurisdiction of the United States, would violate section 2241 or 2242 of this title) results, be fined under this title or imprisoned not more than 25 years, or both, and
 
 &emsp;(3) if death results, be fined under this title or imprisoned for any number of years up to life, or both, or sentenced to death.
 

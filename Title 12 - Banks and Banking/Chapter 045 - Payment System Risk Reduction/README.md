@@ -17,10 +17,9 @@
 
 #### SUBCHAPTER II—MULTILATERAL CLEARING ORGANIZATIONS
 
-|  |  |
-| :--- | ---: |
-| [4421\.](Subchapter%20002%20%28II%29%20-%20Multilateral%20Clearing%20Organizations/%C2%A7%2004421%20-%20Definitions.md) | Definitions. |
-| [4422\.](Subchapter%20002%20%28II%29%20-%20Multilateral%20Clearing%20Organizations/%C2%A7%2004422%20-%20Multilateral%20clearing%20organizations.md) | Multilateral clearing organizations. |
+|  |
+| :--- |
+| 4421, 4422. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

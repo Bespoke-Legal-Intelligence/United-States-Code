@@ -10,7 +10,7 @@ The President when he finds that the public interest will be served shall by pro
 
 #### (b) Exclusion from importation
 
-If at any time the President shall find it to be a fact that any foreign country has not only discriminated against the commerce of the United States, as aforesaid, but has, after the issuance of a proclamation as authorized in subdivision\(a) of this section, maintained or increased its said discriminations against the commerce of the United States, the President is authorized, if he deems it consistent with the interests of the United States, to issue a further proclamation directing that such products of said country or such articles imported in its vessels as he shall deem consistent with the public interests shall be excluded from importation into the United States.
+If at any time the President shall find it to be a fact that any foreign country has not only discriminated against the commerce of the United States, as aforesaid, but has, after the issuance of a proclamation as authorized in subdivision (a) of this section, maintained or increased its said discriminations against the commerce of the United States, the President is authorized, if he deems it consistent with the interests of the United States, to issue a further proclamation directing that such products of said country or such articles imported in its vessels as he shall deem consistent with the public interests shall be excluded from importation into the United States.
 
 #### (c) Application of proclamation
 
@@ -26,7 +26,7 @@ Whenever the President shall find as a fact that any foreign country imposes any
 
 #### (f) Forfeiture of articles
 
-All articles imported contrary to the provisions of this section shall be forfeited to the United States and shall be liable to be seized, prosecuted, and condemned in like manner and under the same regulations, restrictions, and provisions as may from time to time be established for the recovery, collection, distribution, and remission of forfeitures to the United States by the several revenue laws. Whenever the provisions of this chapter shall be applicable to importations into the United States of articles wholly or in part the growth or product of any foreign country, they shall be applicable thereto whether such articles are imported directly or indirectly.
+All articles imported contrary to the provisions of this section shall be forfeited to the United States and shall be liable to be seized, prosecuted, and condemned in like manner and under the same regulations, restrictions, and provisions as may from time to time be established for the recovery, collection, distribution, and remission of forfeitures to the United States by the several revenue laws. Whenever the provisions of this chapter shall be applicable to importations into the United States of articleswholly or in part the growth or product of any foreign country, they shall be applicable thereto whether such articles are imported directly or indirectly.
 
 #### (g) Ascertainment by Commission of discriminations
 

@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(A) such last day is a Saturday, a Sunday, or a legal holiday; or
 
-&emsp;&emsp;(B) in the case of a filing of a paper at the Government Accountability Office or a Federal agency, such last day is a day on whichweather or other conditions cause the closing of the Government Accountability Office or Federal agency, in which event the next day that is not a Saturday, Sunday, or legal holiday shall be included.
+&emsp;&emsp;(B) in the case of a filing of a paper at the Government Accountability Office or a Federal agency, such last day is a day on which weather or other conditions cause the closing of the Government Accountability Office or Federal agency, in which event the next day that is not a Saturday, Sunday, or legal holiday shall be included.
 
 (c) The Comptroller General may prescribe procedures for the electronic filing and dissemination of documents and information required under this subchapter. In prescribing such procedures, the Comptroller General shall consider the ability of all parties to achieve electronic access to such documents and records.
 

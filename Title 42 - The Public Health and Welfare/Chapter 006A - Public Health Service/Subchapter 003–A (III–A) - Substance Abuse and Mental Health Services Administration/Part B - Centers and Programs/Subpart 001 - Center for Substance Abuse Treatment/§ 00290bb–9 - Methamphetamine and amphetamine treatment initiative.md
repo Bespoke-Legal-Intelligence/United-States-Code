@@ -4,7 +4,7 @@
 
 #### (1) Authority to make grants
 
-&emsp;The Director of the Center for Substance Abuse Treatment may make grants to States and Indian tribes recognized by the United States that have a high rate, or have had a rapid increase, in methamphetamine or amphetamine abuse or addiction in order to permit such States and Indian tribes to expand activities in connection with the treatment of methamphetamine or amphetamine abuser or addiction in the specific geographical areas of such States or Indian tribes, as the case may be, where there is such a rate or has been such an increase.
+&emsp;The Director of the Center for Substance Abuse Treatment may make grants to Statesand Indian tribes recognized by the United States that have a high rate, or have had a rapid increase, in methamphetamine or amphetamine abuse or addiction in order to permit such States and Indian tribes to expand activities in connection with the treatment of methamphetamine or amphetamine abuser or addiction in the specific geographical areas of such States or Indian tribes, as the case may be, where there is such a rate or has been such an increase.
 
 #### (2) Recipients
 
@@ -24,7 +24,7 @@ The Director shall—
 
 &emsp;(1) evaluate the activities supported by grants under subsection (a) of this section;
 
-&emsp;(2) disseminate widely such significant information derived from the evaluation as the Director considers appropriate to assist States,Indian tribes, and private providers of treatment services for methamphetamine or amphetamine abuser or addiction in the treatment of methamphetamine or amphetamine abuse or addiction; and
+&emsp;(2) disseminate widely such significant information derived from the evaluation as the Director considers appropriate to assist States, Indian tribes, and private providers of treatment services for methamphetamine or amphetamine abuser or addiction in the treatment of methamphetamine or amphetamine abuse or addiction; and
 
 &emsp;(3) provide States, Indian tribes, and such providers with technical assistance in connection with the provision of such treatment.
 

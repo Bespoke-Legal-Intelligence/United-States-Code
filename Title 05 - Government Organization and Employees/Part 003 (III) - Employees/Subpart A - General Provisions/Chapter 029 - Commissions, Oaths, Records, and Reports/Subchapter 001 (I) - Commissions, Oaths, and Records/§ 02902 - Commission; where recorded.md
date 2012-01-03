@@ -54,7 +54,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–241 inserted “the Secretary of Homeland Security,” after “the Secretary of the Interior,”.
+<b>2006</b>—Subsec. (b). Pub. L. 109–241 inserted “the Secretary of Homeland Security,” after “the Secretary of the Interior,”.
 
-1975—Subsec. (b). Pub. L. 94–183 struck out “the Postmaster General,” after “under the control of”.
+<b>1975</b>—Subsec. (b). Pub. L. 94–183 struck out “the Postmaster General,” after “under the control of”.
 

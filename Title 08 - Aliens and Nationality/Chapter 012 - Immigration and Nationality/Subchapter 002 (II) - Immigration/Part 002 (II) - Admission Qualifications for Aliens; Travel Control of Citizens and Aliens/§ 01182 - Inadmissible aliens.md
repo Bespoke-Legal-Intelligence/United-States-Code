@@ -1436,11 +1436,11 @@ Subsection (j)(3), which required the Director of the United States Information 
 
 #### Amendments
 
-2010—Subsec. (a)(1)(C)(ii). Pub. L. 111–287 substituted “subparagraph (F) or (G) of section 1101(b)(1) of this title;” for “section 1101(b)(1)(F) of this title,”.
+<b>2010</b>—Subsec. (a)(1)(C)(ii). Pub. L. 111–287 substituted “subparagraph (F) or (G) of section 1101(b)(1) of this title;” for “section 1101(b)(1)(F) of this title,”.
 
-2009—Subsec. (a)(3)(E)(ii). Pub. L. 111–122 struck out “conduct outside the United States that would, if committed in the United States or by a United States national, be” before “genocide”.
+<b>2009</b>—Subsec. (a)(3)(E)(ii). Pub. L. 111–122 struck out “conduct outside the United States that would, if committed in the United States or by a United States national, be” before “genocide”.
 
-2008—Subsec. (a)(1)(A)(i). Pub. L. 110–293 substituted a semicolon for “, which shall include infection with the etiologic agent for acquired immune deficiency syndrome,”.
+<b>2008</b>—Subsec. (a)(1)(A)(i). Pub. L. 110–293 substituted a semicolon for “, which shall include infection with the etiologic agent for acquired immune deficiency syndrome,”.
 
 Subsec. (a)(2)(H)(i). Pub. L. 110–457 substituted “who commits or conspires to commit human trafficking offenses in the United States or outside the United States, or who the consular officer, the Secretary of Homeland Security, the Secretary of State,” for “who is listed in a report submitted pursuant to section 7108(b) of title 22, or who the consular officer”.
 
@@ -1452,11 +1452,11 @@ Subsec. (d)(7). Pub. L. 110–229, §702(d), inserted “the Commonwealth of the
 
 Subsec. (<i>l</i>). Pub. L. 110–229, §702(b)(3), amended subsec. (<i>l</i>) generally. Prior to amendment, subsec. (<i>l</i>) consisted of pars. (1) to (3) relating to waiver of requirements for nonimmigrant visitors to Guam.
 
-2007—Subsec. (a)(3)(B)(ii). Pub. L. 110–161, §691(c), substituted “Subclause (IX)” for “Subclause (VII)” in introductory provisions.
+<b>2007</b>—Subsec. (a)(3)(B)(ii). Pub. L. 110–161, §691(c), substituted “Subclause (IX)” for “Subclause (VII)” in introductory provisions.
 
 Subsec. (d)(3)(B)(i). Pub. L. 110–161, §691(a), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “The Secretary of State, after consultation with the Attorney General and the Secretary of Homeland Security, or the Secretary of Homeland Security, after consultation with the Secretary of State and the Attorney General, may conclude in such Secretary's sole unreviewable discretion that subsection (a)(3)(B)(i)(IV)(bb) or (a)(3)(B)(i)(VII) of this section shall not apply to an alien, that subsection (a)(3)(B)(iv)(VI) of this section shall not apply with respect to any material support an alien afforded to an organization or individual that has engaged in a terrorist activity, or that subsection (a)(3)(B)(vi)(III) of this section shall not apply to a group solely by virtue of having a subgroup within the scope of that subsection. The Secretary of State may not, however, exercise discretion under this clause with respect to an alien once removal proceedings against the alien are instituted under section 1229a of this title.”
 
-2006—Subsec. (a)(4)(C)(i)(I). Pub. L. 109–271, §6(b)(1)(A)(i), which directed the amendment of subsec. (a)(4)(C)(i)(II) by substituting a semicolon for “, or”, was executed to subsec. (a)(4)(C)(i)(I), to reflect the probable intent of Congress. The quoted matter did not appear in subsec. (a)(4)(C)(i)(II).
+<b>2006</b>—Subsec. (a)(4)(C)(i)(I). Pub. L. 109–271, §6(b)(1)(A)(i), which directed the amendment of subsec. (a)(4)(C)(i)(II) by substituting a semicolon for “, or”, was executed to subsec. (a)(4)(C)(i)(I), to reflect the probable intent of Congress. The quoted matter did not appear in subsec. (a)(4)(C)(i)(II).
 
 Subsec. (a)(4)(C)(i)(III). Pub. L. 109–271, §6(b)(1)(A)(ii), added subcl. (III).
 
@@ -1488,7 +1488,7 @@ Subsec. (h)(1)(C). Pub. L. 109–271, §6(b)(3), amended subpar. (C) generally. 
 
 Subsec. (i)(1). Pub. L. 109–271, §6(b)(4), substituted “a VAWA self-petitioner” for “an alien granted classification under clause (iii) or (iv) of section 1154(a)(1)(A) of this title or clause (ii) or (iii) of section 1154(a)(1)(B) of this title”.
 
-2005—Subsec. (a)(3)(B)(i). Pub. L. 109–13, §103(a), reenacted heading without change and amended first sentence of cl. (i) generally, substituting general provisions relating to inadmissibility of aliens engaging in terrorist activities for former provisions relating to inadmissibility of any alien who had engaged in a terrorist activity, any alien who a consular officer or the Attorney General knew or reasonably believed had engaged in terrorist activity, any alien who had incited terrorist activity, any alien who was a representative of a foreign terrorist organization or group that had publicly endorsed terrorist acts, any alien who was a member of a foreign terrorist organization, any alien who had used the alien's position of prominence to endorse terrorist activity, and any alien who was the spouse or child of an alien who had been found inadmissible, if the activity causing the alien to be found inadmissible had occurred within the last 5 years.
+<b>2005</b>—Subsec. (a)(3)(B)(i). Pub. L. 109–13, §103(a), reenacted heading without change and amended first sentence of cl. (i) generally, substituting general provisions relating to inadmissibility of aliens engaging in terrorist activities for former provisions relating to inadmissibility of any alien who had engaged in a terrorist activity, any alien who a consular officer or the Attorney General knew or reasonably believed had engaged in terrorist activity, any alien who had incited terrorist activity, any alien who was a representative of a foreign terrorist organization or group that had publicly endorsed terrorist acts, any alien who was a member of a foreign terrorist organization, any alien who had used the alien's position of prominence to endorse terrorist activity, and any alien who was the spouse or child of an alien who had been found inadmissible, if the activity causing the alien to be found inadmissible had occurred within the last 5 years.
 
 Subsec. (a)(3)(B)(iv). Pub. L. 109–13, §103(b), reenacted heading without change and amended text of cl. (iv) generally, substituting provisions defining the term “engage in terrorist activity” in subcls. (I) to (VI), including provisions relating to demonstration of certain knowledge by clear and convincing evidence, for provisions defining the term “engage in terrorist activity” in somewhat similar subcls. (I) to (VI) which did not include provisions relating to demonstration of certain knowledge by clear and convincing evidence.
 
@@ -1506,7 +1506,7 @@ Subsec. (t). Pub. L. 109–13, §501(d)(1), inserted “or section 1101(a)(15)(E
 
 Subsec. (t)(3)(C)(i)(II), (ii)(II), (iii)(II). Pub. L. 109–13, §501(d)(2), substituted “1101(a)(15)(H)(i)(b1), or 1101(a)(15)(E)(iii)” for “or 1101(a)(15)(H)(i)(b1)”.
 
-2004—Subsec. (a)(2)(G). Pub. L. 108–458, §5502(a), amended heading and text of subpar. (G) generally. Prior to amendment, text read as follows: “Any alien who, while serving as a foreign government official, was responsible for or directly carried out, at any time during the preceding 24-month period, particularly severe violations of religious freedom, as defined in section 6402 of title 22, and the spouse and children, if any, are inadmissible.”
+<b>2004</b>—Subsec. (a)(2)(G). Pub. L. 108–458, §5502(a), amended heading and text of subpar. (G) generally. Prior to amendment, text read as follows: “Any alien who, while serving as a foreign government official, was responsible for or directly carried out, at any time during the preceding 24-month period, particularly severe violations of religious freedom, as defined in section 6402 of title 22, and the spouse and children, if any, are inadmissible.”
 
 Subsec. (a)(3)(E). Pub. L. 108–458, §5501(a)(3), which directed substitution of “Participants in Nazi persecution, genocide, or the commission of any act of torture or extrajudicial killing” for “Participants in nazi persecution or genocide” in heading, was executed by making the substitution for “Participants in Nazi persecutions or genocide” to reflect the probable intent of Congress.
 
@@ -1530,7 +1530,7 @@ Subsec. (s). Pub. L. 108–449, §1(b)(2)(A), which directed redesignation of su
 
 Subsec. (t). Pub. L. 108–449, §1(b)(2)(B), added subsec. (t) relating to foreign residence requirement.
 
-2003—Subsec. (d)(13). Pub. L. 108–193, §8(a)(2), redesignated par. (13), relating to Attorney General's determination whether a ground for inadmissibility exists with respect to a nonimmigrant described in section 1101(a)(15)(U) of this title, as (14).
+<b>2003</b>—Subsec. (d)(13). Pub. L. 108–193, §8(a)(2), redesignated par. (13), relating to Attorney General's determination whether a ground for inadmissibility exists with respect to a nonimmigrant described in section 1101(a)(15)(U) of this title, as (14).
 
 Subsec. (d)(13)(A). Pub. L. 108–193, §4(b)(4)(A), inserted “, except that the ground for inadmissibility describedin subsection (a)(4) of this section shall not apply with respect to such a nonimmigrant” before period at end.
 
@@ -1548,11 +1548,11 @@ Subsec. (s). Pub. L. 108–77, §§107(c), 402(b)(1), temporarily redesignated s
 
 Subsec. (t). Pub. L. 108–77, §§107(c), 402(b)(2), temporarily added subsec. (t). See Effective and Termination Dates of 2003 Amendment note below.
 
-2002—Subsec. (a)(4)(C)(ii). Pub. L. 107–150 substituted “(and any additional sponsor required under section 1183a(f) of this title or any alternative sponsor permitted under paragraph (5)(B) of such section)” for “(including any additional sponsor required under section 1183a(f) of this title)”.
+<b>2002</b>—Subsec. (a)(4)(C)(ii). Pub. L. 107–150 substituted “(and any additional sponsor required under section 1183a(f) of this title or any alternative sponsor permitted under paragraph (5)(B) of such section)” for “(including any additional sponsor required under section 1183a(f) of this title)”.
 
 Subsec. (e). Pub. L. 107–273 substituted “section 1184(<i>l</i>)” for “section 1184(k)”.
 
-2001—Subsec. (a)(2)(I). Pub. L. 107–56, §1006(a), added subpar. (I).
+<b>2001</b>—Subsec. (a)(2)(I). Pub. L. 107–56, §1006(a), added subpar. (I).
 
 Subsec. (a)(3)(B)(i)(II). Pub. L. 107–56, §411(a)(1)(C), substituted “clause (iv)” for “clause (iii)”.
 
@@ -1590,7 +1590,7 @@ Subsec. (a)(3)(B)(vi). Pub. L. 107–56, §411(a)(1)(G), added cl. (vi).
 
 Subsec. (a)(3)(F). Pub. L. 107–56, §411(a)(2), added subpar. (F).
 
-2000—Subsec. (a)(2)(H). Pub. L. 106–386, §111(d), added subpar. (H).
+<b>2000</b>—Subsec. (a)(2)(H). Pub. L. 106–386, §111(d), added subpar. (H).
 
 Subsec. (a)(5)(A)(iv). Pub. L. 106–313, §106(c)(2), added cl. (iv).
 
@@ -1616,7 +1616,7 @@ Subsec. (n)(1)(E)(ii). Pub. L. 106–313, §107(a), substituted “October 1, 20
 
 Subsec. (p). Pub. L. 106–386, §1505(f), added subsec. (p) relating to consideration of benefits received as battered alien in determination of inadmissibility as likely to become public charge.
 
-1999—Subsec. (a)(2)(C). Pub. L. 106–120 amended heading and text of subpar. (C) generally. Prior to amendment, text read as follows: “Any alien who the consular or immigration officer knows or has reason to believe is or has been an illicit trafficker in any such controlled substance or is or has been a knowing assister, abettor, conspirator, or colluder with others in the illicit trafficking in any such controlled substance, is inadmissible.”
+<b>1999</b>—Subsec. (a)(2)(C). Pub. L. 106–120 amended heading and text of subpar. (C) generally. Prior to amendment, text read as follows: “Any alien who the consular or immigration officer knows or has reason to believe is or has been an illicit trafficker in any such controlled substance or is or has been a knowing assister, abettor, conspirator, or colluder with others in the illicit trafficking in any such controlled substance, is inadmissible.”
 
 Subsec. (a)(5)(C). Pub. L. 106–95, §4(a)(2), substituted “Subject to subsection (r) of this section, any alien who seeks” for “Any alien who seeks” in introductory provisions.
 
@@ -1624,7 +1624,7 @@ Subsec. (m). Pub. L. 106–95, §2(b), amended subsec. (m) generally, adding pro
 
 Subsec. (r). Pub. L. 106–95, §4(a)(1), added subsec. (r).
 
-1998—Subsec. (a)(2)(G). Pub. L. 105–292 added subpar. (G).
+<b>1998</b>—Subsec. (a)(2)(G). Pub. L. 105–292 added subpar. (G).
 
 Subsec. (a)(10)(C)(ii), (iii). Pub. L. 105–277, §2226(a), added cls. (ii) and (iii) and struck out heading and text of former cl. (ii). Text read as follows: “Clause (i) shall not apply so long as the child is located in a foreign state that is a party to the Hague Convention on the Civil Aspects of International Child Abduction.”
 
@@ -1662,11 +1662,11 @@ Subsec. (p). Pub. L. 105–277, §415(a), added subsec. (p) relating to computat
 
 Subsec. (q). Pub. L. 105–277, §431(a), added subsec. (q).
 
-1997—Subsec. (a)(1)(A)(ii). Pub. L. 105–73, §1(1), inserted “except as provided in subparagraph (C),” after “(ii)”.
+<b>1997</b>—Subsec. (a)(1)(A)(ii). Pub. L. 105–73, §1(1), inserted “except as provided in subparagraph (C),” after “(ii)”.
 
 Subsec. (a)(1)(C). Pub. L. 105–73, §1(2), added subpar. (C).
 
-1996—Pub. L. 104–208, §308(d)(1)(A), amended section catchline.
+<b>1996</b>—Pub. L. 104–208, §308(d)(1)(A), amended section catchline.
 
 Subsec. (a). Pub. L. 104–208, §308(d)(1)(C), substituted “is inadmissible” for “is excludable” wherever appearing in pars. (1) to (5), (6)(C) to (E), (G), (7), (8), (10)(A), (C)(i), (D), and (E).
 
@@ -1814,7 +1814,7 @@ Pub. L. 104–208, §308(d)(1)(D), substituted “inadmissibility” for “excl
 
 Subsec. (<i>l</i>)(2)(B). Pub. L. 104–208, §308(e)(6), substituted “removal of” for “deportation against”.
 
-1994—Subsec. (a)(2)(A)(i)(I). Pub. L. 103–416, §203(a)(1), inserted “or an attempt or conspiracy to commit such a crime” after “offense)”.
+<b>1994</b>—Subsec. (a)(2)(A)(i)(I). Pub. L. 103–416, §203(a)(1), inserted “or an attempt or conspiracy to commit such a crime” after “offense)”.
 
 Subsec. (a)(2)(A)(i)(II). Pub. L. 103–416, §203(a)(2), inserted “or attempt” after “conspiracy”.
 
@@ -1844,9 +1844,9 @@ Subsec. (<i>o</i>). Pub. L. 103–317, §506(a), (c), temporarily added subsec. 
 
 > See Effective and Termination Dates of 1994 Amendments note below.
 
-1993—Subsec. (a)(1)(A)(i). Pub. L. 103–43 inserted at end “which shall include infection with the etiologic agent for acquired immune deficiency syndrome,”.
+<b>1993</b>—Subsec. (a)(1)(A)(i). Pub. L. 103–43 inserted at end “which shall include infection with the etiologic agent for acquired immune deficiency syndrome,”.
 
-1991—Subsec. (a)(1)(A)(ii)(II). Pub. L. 102–232, §307(a)(1), inserted “or” at end.
+<b>1991</b>—Subsec. (a)(1)(A)(ii)(II). Pub. L. 102–232, §307(a)(1), inserted “or” at end.
 
 Subsec. (a)(3)(A)(i). Pub. L. 102–232, §307(a)(2), inserted “(I)” after “any activity” and “(II)” after “sabotage or”.
 
@@ -1908,7 +1908,7 @@ Subsec. (n)(2)(C). Pub. L. 102–232, §303(a)(7)(B)(iv), substituted “of para
 
 Subsec. (n)(2)(D). Pub. L. 102–232, §303(a)(7)(B)(v), (vi), substituted “If” for “In addition to the sanctions provided under subparagraph (C), if” and inserted before period at end “, whether or not a penalty under subparagraph (C) has been imposed”.
 
-1990—Subsec. (a). Pub. L. 101–649, §601(a), amended subsec. (a) generally, decreasing number of classes of excludable aliens from 34 to 9 by broadening descriptions of such classes.
+<b>1990</b>—Subsec. (a). Pub. L. 101–649, §601(a), amended subsec. (a) generally, decreasing number of classes of excludable aliens from 34 to 9 by broadening descriptions of such classes.
 
 Pub. L. 101–649, §514(a), as amended by Pub. L. 102–232, §306(a)(12), substituted “20 years” for “ten years” in par. (17).
 
@@ -1956,9 +1956,9 @@ Subsec. (m)(2)(A). Pub. L. 101–649, §162(f)(2)(B), in opening provision, stru
 
 Subsec. (n). Pub. L. 101–649, §205(c)(3), added subsec. (n).
 
-1989—Subsec. (m). Pub. L. 101–238 added subsec. (m).
+<b>1989</b>—Subsec. (m). Pub. L. 101–238 added subsec. (m).
 
-1988—Subsec. (a)(17). Pub. L. 100–690 inserted “(or within ten years in the case of an alien convicted of an aggravated felony)” after “within five years”.
+<b>1988</b>—Subsec. (a)(17). Pub. L. 100–690 inserted “(or within ten years in the case of an alien convicted of an aggravated felony)” after “within five years”.
 
 Subsec. (a)(19). Pub. L. 100–525, §7(c)(1), made technical correction to directory language of Pub. L. 99–639, §6(a). See 1986 Amendment note below.
 
@@ -1976,9 +1976,9 @@ Subsec. (i). Pub. L. 100–525, §7(c)(3), added Pub. L. 99–639, §6(b). See 1
 
 Subsec. (<i>l</i>). Pub. L. 100–525, §3(1)(A), made technical correction to Pub. L. 99–396, §14(a). See 1986 Amendment note below.
 
-1987—Subsec. (a)(23). Pub. L. 100–204 amended par. (23) generally. Prior to amendment, par. (23) read as follows: “Any alien who has been convicted of a violation of, or a conspiracy to violate, any law or regulation of a State, the United States, or a foreign country relating to a controlled substance (as defined in section 802 of title 21); or any alien who the consular officer or immigration officer know or have reason to believe is or has been an illicit trafficker in any such controlled substance;”.
+<b>1987</b>—Subsec. (a)(23). Pub. L. 100–204 amended par. (23) generally. Prior to amendment, par. (23) read as follows: “Any alien who has been convicted of a violation of, or a conspiracy to violate, any law or regulation of a State, the United States, or a foreign country relating to a controlled substance (as defined in section 802 of title 21); or any alien who the consular officer or immigration officer know or have reason to believe is or has been an illicit trafficker in any such controlled substance;”.
 
-1986—Subsec. (a)(19). Pub. L. 99–639, §6(a), as amended by Pub. L. 100–525, §7(c)(1), amended par. (19) generally. Prior to amendment, par. (19) read as follows: “Any alien who seeks to procure, or has sought to procure, or has procured a visa or other documentation, or seeks to enter the United States, by fraud, or by willfully misrepresenting a material fact;”.
+<b>1986</b>—Subsec. (a)(19). Pub. L. 99–639, §6(a), as amended by Pub. L. 100–525, §7(c)(1), amended par. (19) generally. Prior to amendment, par. (19) read as follows: “Any alien who seeks to procure, or has sought to procure, or has procured a visa or other documentation, or seeks to enter the United States, by fraud, or by willfully misrepresenting a material fact;”.
 
 Subsec. (a)(23). Pub. L. 99–570 substituted “any law or regulation of a State, the United States, or a foreign country relating to a controlled substance (as defined in section 802 of title 21)” for “any law or regulation relating to the illicit possession of or traffic in narcotic drugs or marihuana, or who has been convicted of a violation of, or a conspiracy to violate, any law or regulation governing or controlling the taxing, manufacture, production, compounding, transportation, sale, exchange, dispensing, giving away, importation, exportation, or the possession for the purpose of the manufacture, production, compounding, transportation, sale, exchange, dispensing, giving away, importation, or exportation of opium, coca leaves, heroin, marihuana, or any salt derivative, or preparation of opium or coca leaves, or isonipecaine or any addiction-forming or addiction-sustaining opiate” and “any such controlled substance” for “any of the aforementioned drugs”.
 
@@ -1990,11 +1990,11 @@ Subsec. (i). Pub. L. 99–639, §6(b), as added by Pub. L. 100–525, §7(c)(3),
 
 Subsec. (<i>l</i>). Pub. L. 99–396, §14(a), as amended by Pub. L. 100–525, §3(1)(A), amended subsec. (<i>l</i>) generally, designating existing provisions as par. (1) and redesignating former pars. (1) and (2) as subpars. (A) and (B), respectively, inserting in par. (1) as so designated reference to consultation with the Governor of Guam, inserting in subpar. (B) as so redesignated reference to the welfare, safety, and security of the territories and commonwealths of the United States, and adding pars. (2) and (3).
 
-1984—Subsec. (a)(9). Pub. L. 98–473 amended last sentence generally. Prior to amendment, last sentence read as follows: “Any alien who would be excludable because of a conviction of a misdemeanor classifiable as a petty offense under the provisions of section 1(3) of title 18, by reason of the punishment actually imposed, or who would be excludable as one who admits the commission of an offense that is classifiable as a misdemeanor under the provisions of section 1(2) of title 18, by reason of the punishment which might have been imposed upon him, may be granted a visa and admitted to the United States if otherwise admissible: <i>Provided</i>, That the alien has committed only one such offense, or admits the commission of acts which constitute the essential elements of only one such offense;”.
+<b>1984</b>—Subsec. (a)(9). Pub. L. 98–473 amended last sentence generally. Prior to amendment, last sentence read as follows: “Any alien who would be excludable because of a conviction of a misdemeanor classifiable as a petty offense under the provisions of section 1(3) of title 18, by reason of the punishment actually imposed, or who would be excludable as one who admits the commission of an offense that is classifiable as a misdemeanor under the provisions of section 1(2) of title 18, by reason of the punishment which might have been imposed upon him, may be granted a visa and admitted to the United States if otherwise admissible: <i>Provided</i>, That the alien has committed only one such offense, or admits the commission of acts which constitute the essential elements of only one such offense;”.
 
 Subsec. (<i>l</i>). Pub. L. 98–454 added subsec. (<i>l</i>).
 
-1981—Subsec. (a)(17). Pub. L. 97–116, §4(1), inserted “and who seek admission within five years of the date of such deportation or removal,” after “section 1252(b) of this title,”.
+<b>1981</b>—Subsec. (a)(17). Pub. L. 97–116, §4(1), inserted “and who seek admission within five years of the date of such deportation or removal,” after “section 1252(b) of this title,”.
 
 Subsec. (a)(32). Pub. L. 97–116, §§5(a)(1), 18(e)(1), substituted “in the United States)” for “in the United States” and inserted provision that for purposes of this paragraph an alien who is a graduate of a medical school be considered to have passed parts I and II of the National Board of Medical Examiners examination if the alien was fully and permanently licensed to practice medicine in a State on Jan. 9, 1978, and was practicing medicine in a State on that date.
 
@@ -2024,19 +2024,19 @@ Subsec. (j)(3). Pub. L. 97–116, §5(b)(8), added par. (3).
 
 Subsec. (k). Pub. L. 97–116, §18(e)(2), added subsec. (k).
 
-1980—Subsec. (a)(14), (32). Pub. L. 96–212, §203(d), substituted “1153(a)(7)” for “1153(a)(8)”.
+<b>1980</b>—Subsec. (a)(14), (32). Pub. L. 96–212, §203(d), substituted “1153(a)(7)” for “1153(a)(8)”.
 
 Subsec. (d)(5). Pub. L. 96–212, §203(f), redesignated existing provisions as subpar. (A), inserted provision excepting subpar. (B), and added subpar. (B).
 
 Subsec. (j)(2)(A). Pub. L. 96–538 substituted “December 30, 1981” for “December 30, 1980”.
 
-1979—Subsec. (d)(9), (10). Pub. L. 96–70 added pars. (9) and (10).
+<b>1979</b>—Subsec. (d)(9), (10). Pub. L. 96–70 added pars. (9) and (10).
 
-1978—Subsec. (a)(33). Pub. L. 95–549, §101, added par. (33).
+<b>1978</b>—Subsec. (a)(33). Pub. L. 95–549, §101, added par. (33).
 
 Subsec. (d)(3). Pub. L. 95–549, §102, inserted reference to par. (33) in parenthetical text.
 
-1977—Subsec. (a)(32). Pub. L. 95–83, §307(q)(1), inserted “not accredited by a body or bodies approved for the purpose by the Commissioner of Education (regardless of whether such school of medicine is in the United States” after “graduates of a medical school” in first sentence and struck out second sentence exclusion of aliens provision with respect to application to special immigrants defined in section 1101(a)(27)(A) of this title (other than the parents, spouses, or children of the United States citizens or of aliens lawfully admitted for permanent residence).
+<b>1977</b>—Subsec. (a)(32). Pub. L. 95–83, §307(q)(1), inserted “not accredited by a body or bodies approved for the purpose by the Commissioner of Education (regardless of whether such school of medicine is in the United States” after “graduates of a medical school” in first sentence and struck out second sentence exclusion of aliens provision with respect to application to special immigrants defined in section 1101(a)(27)(A) of this title (other than the parents, spouses, or children of the United States citizens or of aliens lawfully admitted for permanent residence).
 
 Subsec. (j)(1)(B). Pub. L. 95–83, §307(q)(2)(A), inserted cl. (i) and designated existing provisions as cl. (ii).
 
@@ -2046,7 +2046,7 @@ Subsec. (j)(1)(D). Pub. L. 95–83, §307(q)(2)(C), substituted “at the writte
 
 Subsec. (j)(2)(A). Pub. L. 95–83, §307(q)(2)(D), substituted “(A) and (B)” for “(A) through (D)”.
 
-1976—Subsec. (a)(14). Pub. L. 94–571, §5, in revising par. (14), inserted in cl. (A) “(or equally qualified in the case of aliens who are members of the teaching profession or who have exceptional ability in the sciences or the arts)” and struck out “in the United States” after “sufficient workers” and “destined” before “to perform” and introductory provision of last sentence making exclusion of aliens under par. (14) applicable to special immigrants defined in former provision of section 1101(a)(27)(A) of this title (other than the parents, spouses, or children of United States citizens or of aliens lawfully admitted to the United States for permanent residence).
+<b>1976</b>—Subsec. (a)(14). Pub. L. 94–571, §5, in revising par. (14), inserted in cl. (A) “(or equally qualified in the case of aliens who are members of the teaching profession or who have exceptional ability in the sciences or the arts)” and struck out “in the United States” after “sufficient workers” and “destined” before “to perform” and introductory provision of last sentence making exclusion of aliens under par. (14) applicable to special immigrants defined in former provision of section 1101(a)(27)(A) of this title (other than the parents, spouses, or children of United States citizens or of aliens lawfully admitted to the United States for permanent residence).
 
 Subsec. (a)(24). Pub. L. 94–571, §7(d), substituted in parenthetical text “section 1101(a)(27)(A) of this title and aliens born in the Western Hemisphere” for “section 1101(a)(27)(A) and (B) of this title”.
 
@@ -2056,9 +2056,9 @@ Subsec. (e). Pub. L. 94–484, §601(c), substituted “(i) whose” for “whos
 
 Subsec. (j). Pub. L. 94–484, §601(d), added subsec. (j).
 
-1970—Subsec. (e). Pub. L. 91–225 inserted cls. (i) and (ii) and reference to eligibility for nonimmigrant visa under section 1101(a)(15)(L) of this title, provided for waiver of requirement of two-year foreign residence abroad where alien cannot return to the country of his nationality or last residence because he would be subject to persecution on account of race, religion, or political opinion or where the foreign country of alien's nationality or last residence has furnished a written statement that it has no objection to such waiver for such alien, and struck out alternative provision for residence and physical presence in another foreign country and former first and final provisos which read as follows: “Provided, That such residence in another foreign country shall be considered to have satisfied therequirements of this subsection if the Secretary of State determines that it has served the purpose and the intent of the Mutual Educational and Cultural Exchange Act of 1961” and “And provided further, That the provisions of this subchapter shall apply also to those persons who acquired exchange visitor status under the United States Information and Educational Exchange Act of 1948, as amended.”
+<b>1970</b>—Subsec. (e). Pub. L. 91–225 inserted cls. (i) and (ii) and reference to eligibility for nonimmigrant visa under section 1101(a)(15)(L) of this title, provided for waiver of requirement of two-year foreign residence abroad where alien cannot return to the country of his nationality or last residence because he would be subject to persecution on account of race, religion, or political opinion or where the foreign country of alien's nationality or last residence has furnished a written statement that it has no objection to such waiver for such alien, and struck out alternative provision for residence and physical presence in another foreign country and former first and final provisos which read as follows: “Provided, That such residence in another foreign country shall be considered to have satisfied therequirements of this subsection if the Secretary of State determines that it has served the purpose and the intent of the Mutual Educational and Cultural Exchange Act of 1961” and “And provided further, That the provisions of this subchapter shall apply also to those persons who acquired exchange visitor status under the United States Information and Educational Exchange Act of 1948, as amended.”
 
-1965—Subsec. (a)(1). Pub. L. 89–236, §15(a), substituted “mentally retarded” for “feebleminded”.
+<b>1965</b>—Subsec. (a)(1). Pub. L. 89–236, §15(a), substituted “mentally retarded” for “feebleminded”.
 
 Subsec. (a)(4). Pub. L. 89–236, §15(b), substituted “or sexual deviation” for “epilepsy”.
 
@@ -2074,7 +2074,7 @@ Subsec. (g). Pub. L. 89–236, §15(c), redesignated subsec. (f) of sec. 212 of 
 
 Subsecs. (h), (i). Pub. L. 89–236, §15(c), redesignated subsecs. (g) and (h) of sec. 212 of the Immigration and Nationality Act as subsecs. (h) and (i) respectively thereof, which for purposes of codification had already been designated as subsecs. (h) and (i) of this section.
 
-1961—Subsec. (a)(6). Pub. L. 87–301, §11, struck out references to tuberculosis and leprosy.
+<b>1961</b>—Subsec. (a)(6). Pub. L. 87–301, §11, struck out references to tuberculosis and leprosy.
 
 Subsec. (a)(9). Pub. L. 87–301, §13, authorized admission of aliens who would be excluded because of conviction of a violation classifiable as an offense under section 1(3) of title 18, by reason of punishment actually imposed, or who admit commission of an offense classifiable as a misdemeanor under section 1(2) of title 18, by reason of punishment which might have been imposed, if otherwise admissible and provided the alien has committed, or admits to commission of, only one such offense.
 
@@ -2082,13 +2082,13 @@ Subsecs. (e), (f). Pub. L. 87–256 added subsec. (e) and redesignated former su
 
 Subsecs. (g) to (i). Pub. L. 87–301, §§12, 14, 15, added subsecs. (f) to (h), which for purposes of codification have been designated as subsecs. (g) to (i).
 
-1960—Subsec. (a). Pub. L. 86–648 inserted “or marihuana” after “narcotic drugs” in cl. (23).
+<b>1960</b>—Subsec. (a). Pub. L. 86–648 inserted “or marihuana” after “narcotic drugs” in cl. (23).
 
-1959—Subsec. (d). Pub. L. 86–3 struck out provisions from cl. (7) which related to aliens who left Hawaii and to persons who were admitted to Hawaii under section 8(a)(1) of the act of March 24, 1934, or as nationals of the United States.
+<b>1959</b>—Subsec. (d). Pub. L. 86–3 struck out provisions from cl. (7) which related to aliens who left Hawaii and to persons who were admitted to Hawaii under section 8(a)(1) of the act of March 24, 1934, or as nationals of the United States.
 
-1958—Subsec. (d)(7). Pub. L. 85–508 struck out provisions which related to aliens who left Alaska.
+<b>1958</b>—Subsec. (d)(7). Pub. L. 85–508 struck out provisions which related to aliens who left Alaska.
 
-1956—Subsec. (a)(23). Act July 18, 1956, included conspiracy to violate a narcotic law, and the illicit possession of narcotics, as additional grounds for exclusion.
+<b>1956</b>—Subsec. (a)(23). Act July 18, 1956, included conspiracy to violate a narcotic law, and the illicit possession of narcotics, as additional grounds for exclusion.
 
 #### Change of Name
 
@@ -2418,17 +2418,19 @@ Pub. L. 110–161, div. J, title VI, §691(e), Dec. 26, 2007, 121 Stat. 2365, pr
 
 #### Inadmissibility of Foreign Officials and Family Members Involved in Kleptocracy
 
-Pub. L. 111–117, div. F, title VII, §7084, Dec. 16, 2009, 123 Stat. 3400, provided that:
+Pub. L. 112–74, div. I, title VII, §7031(c), Dec. 23, 2011, 125 Stat. 1211, provided that:
 
-“(a) In furtherance of the National Strategy to Internationalize Efforts Against Kleptocracy and Presidential Proclamation 7750 \[set out below\], the Secretary of State shall compile and maintain a list of officials of foreign governments and their immediate family members who the Secretary has credible evidence have been involved in corruption relating to the extraction of natural resources in their countries.
+“(1) Officials of foreign governments and their immediate family members who the Secretary of State has credible information have been involved in significant corruption, including corruption related to the extraction of natural resources, shall be ineligible for entry into the United States.
 
-“(b) Any individual on the list compiled under subsection (a) shall be ineligible for admission to the United States.
+“(2) Individuals shall not be ineligible if entry into the United States would further important United States law enforcement objectives or is necessary to permit the United States to fulfill its obligations under the United Nations Headquarters Agreement: <i>Provided</i>, That nothing in this provision shall be construed to derogate from United States Government obligations under applicable international agreements.
 
-“(c) The Secretary may waive the application of subsection (b) if the Secretary determines that admission to the United States is necessary to attend the United Nations or to further United States law enforcement objectives, or that the circumstances which caused the individual to be included on the list have changed sufficiently to justify the removal of the individual from the list.
+“(3) The Secretary may waive the application of paragraph (1) if the Secretary determines that the waiver would serve a compelling national interest or that the circumstances which caused the individual to be ineligible have changed sufficiently.
 
-“(d) Not later than 90 days after enactment of this Act \[Dec. 16, 2009\] and 180 days thereafter, the Secretary of State shall report in writing, in classified form if necessary, to the Committees on Appropriations describing the evidence of corruption concerning each of the individuals listed pursuant to subsection (a).”
+“(4) Not later than 90 days after enactment of this Act \[div. I of Pub. L. 112–74, approved Dec. 23, 2011\] and 180 days thereafter, the Secretary of State shall submit a report, in classified form if necessary, to the Committees on Appropriations describing the information regarding corruption concerning each of the individuals found ineligible pursuant to paragraph (1), a list of any waivers provided under subsection (3), and the justification for each waiver.”
 
 Similar provisions were contained in the following prior acts:
+
+Pub. L. 111–117, div. F, title VII, §7084, Dec. 16, 2009, 123 Stat. 3400.
 
 Pub. L. 111–8, div. H, title VII, §7086, Mar. 11, 2009, 123 Stat. 912.
 
@@ -2524,9 +2526,9 @@ Access to the Interstate Identification Index.—
 
 &emsp;“(1) Subject to paragraphs (2) and (3), the Department of State Consolidated Immigrant Visa Processing Center shall have on-line access, without payment of any fee or charge, to the Interstate Identification Index of the National Crime Information Center solely for the purpose of determining whether a visa applicant has a criminal history record indexed in such Index. Such access does not entitle the Department of State to obtain the full content of automated records through the Interstate Identification Index. To obtain the full content of a criminal history record, the Department shall submit a separate request to the Identification Records Section of the Federal Bureau of Investigation, and shall pay the appropriate fee as provided for in the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1990 (Public Law 101–162) \[103 Stat. 988, 998\].
 
-&emsp;“(2) The Department of State shall be responsible for all one-time start-up and recurring incremental non-personnel costs of establishing and maintaining the access authorized in paragraph (1).
+&emsp;“(2) The Department of State shall be responsible for all one-time start-up and recurring incrementalnon-personnel costs of establishing and maintaining the access authorized in paragraph (1).
 
-&emsp;“(3) The individual primarily responsible for the day-to-day implementation of paragraph (1) shall bean employee of the Federal Bureau of Investigation selected by the Department of State, and detailed to the Department on a fully reimbursable basis.
+&emsp;“(3) The individual primarily responsible for the day-to-day implementation of paragraph (1) shall be an employee of the Federal Bureau of Investigation selected by the Department of State, and detailed to the Department on a fully reimbursable basis.
 
 “(e)
 
@@ -2606,7 +2608,7 @@ Section 601(c) of Pub. L. 101–649, as amended by Pub. L. 104–208, div. C, ti
 
 &emsp;“(2) who either (A) applies for admission after the effective date of the amendments made by this section \[see Effective Date of 1990 Amendment note above\], or (B) requests (in writing to a local consular office after such date) a review, without seeking admission, of the alien's continued inadmissibility under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\],
 
-> if the alien is no longer inadmissible because of an amendment made by this section the alien's name shall be removed from such books and system and the alienshall be informed of such removal and if the alien continues to be inadmissible the alien shall be informed of such determination.”
+> if the alien is no longer inadmissible because of an amendment made by this section the alien's name shall be removed from such books and system and the alien shall be informed of such removal and if the alien continues to be inadmissible the alien shall be informed of such determination.”
 
 #### Implementation of Requirements for Admission of Nonimmigrant Nurses During 5-Year Period
 
@@ -2668,7 +2670,7 @@ Pub. L. 95–370, title IV, §401, Sept. 17, 1978, 92 Stat. 627, directed Attorn
 
 #### National Board of Medical Examiners Examination
 
-Section 602(a), (b) of Pub. L. 94–484, as added by Pub. L. 95–83, title III, §307(q)(3), Aug. 1, 1977, 91 Stat. 395, eff. Jan. 10, 1977, provided that an alien who is a graduate of a medical school would be considered to have passed parts I and II of the National Board of Medical Examiners Examination if the alien was on January 9, 1977, a doctor of medicine fully and permanently licensed to practice medicine in a State, held on that date a valid specialty certificate issued by a constituent board of the American Board of Medical Specialties, and was onthat date practicing medicine in a State, prior to repeal by Pub. L. 97–116, §5(a)(3), Dec. 29, 1981, 95 Stat. 1612.
+Section 602(a), (b) of Pub. L. 94–484, as added by Pub. L. 95–83, title III, §307(q)(3), Aug. 1, 1977, 91 Stat. 395, eff. Jan. 10, 1977, provided that an alien who is a graduate of a medical school would be considered to have passed parts I and II of the National Board of Medical Examiners Examination if the alien was on January 9, 1977, a doctor of medicine fully and permanently licensed to practice medicine in a State, held on that date a valid specialty certificate issued by a constituent board of the American Board of Medical Specialties, and was on that date practicing medicine in a State, prior to repeal by Pub. L. 97–116, §5(a)(3), Dec. 29, 1981, 95 Stat. 1612.
 
 #### Labor Certification for Graduates of Foreign Medical Schools; Development of Data by Secretary of Health, Education, and Welfare Not Later Than Oct. 12, 1977
 
@@ -2784,7 +2786,7 @@ Section 1. The entry into the United States, as immigrants or nonimmigrants, of 
 
 Sec. 2. Section 1 of this proclamation shall not apply with respect to any person otherwise covered by section 1 where entry of such person would not be contrary to the interest of the United States.
 
-Sec. 3. Persons covered by sections 1 or 2 of this proclamation shall be identified by the Secretary of State or the Secretary's designee, in his or her sole discretion, pursuant to such procedures as the Secretary may establish under section 5 of this proclamation.
+Sec. 3. Persons covered by sections 1 or 2 of this proclamation shall be identified by the Secretary of Stateor the Secretary's designee, in his or her sole discretion, pursuant to such procedures as the Secretary may establish under section 5 of this proclamation.
 
 Sec. 4. Nothing in this proclamation shall be construed to derogate from United States Government obligations under applicable international agreements.
 
@@ -2797,6 +2799,68 @@ Sec. 7. This proclamation is not intended to, and does not, create any right, be
 IN WITNESS WHEREOF, I have hereunto set my hand this sixteenth day of January, in the year of our Lord two thousand nine, and of the Independence of the United States of America the two hundred and thirty-third.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Proc. No. 8693. Suspension of Entry of Aliens Subject to United Nations Security Council Travel Bans and International Emergency Economic Powers Act Sanctions
+
+Proc. No. 8693, July 24, 2011, 76 F.R. 44751, provided:
+
+In light of the firm commitment of the United States to the preservation of international peace and security and our obligations under the United Nations Charter to carry out the decisions of the United Nations Security Council imposed under Chapter VII, I have determined that it is in the interests of the United States to suspend the entry into the United States, as immigrants or nonimmigrants, of aliens who are subject to United Nations Security Council travel bans as of the date of this proclamation. I have further determined that the interests of the United States are served by suspending the entry into the United States, as immigrants or nonimmigrants, of aliens whose property and interests in property have been blocked by an Executive Order issued in whole or in part pursuant to the President's authority under the International Emergency Economic Powers Act (50 U.S.C. 1701 <i>et seq</i>.).
+
+NOW, THEREFORE, I, BARACK OBAMA, by the authority vested in me as President by the Constitution and the laws of the United States of America, including section 212(f) of the Immigration and Nationality Act of 1952, as amended (8 U.S.C. 1182(f)), and section 301 of title 3, United States Code\[,\] hereby find that the unrestricted immigrant and nonimmigrant entry into the United States of persons described in section 1 of this proclamation would be detrimental to the interests of the United States. I therefore hereby proclaim that:
+
+Section 1. The entry into the United States, as immigrants or nonimmigrants, of the following persons is hereby suspended:
+
+(a) Any alien who meets one or more of the specific criteria for the imposition of a travel ban provided for in a United Nations Security Council resolution referenced in Annex A to this proclamation.
+
+(b) Any alien who meets one or more of the specific criteria contained in an Executive Order referenced in Annex B to this proclamation.
+
+Sec. 2. Persons covered by section 1 of this proclamation shall be identified by the Secretary of State or the Secretary's designee, in his or her sole discretion, pursuant to such standards and procedures as the Secretary may establish.
+
+Sec. 3. The Secretary of State shall have responsibility for implementing this proclamation pursuant to such procedures as the Secretary, in consultation with the Secretary of the Treasury and Secretary of Homeland Security, may establish.
+
+Sec. 4. Section 1 of this proclamation shall not apply with respect to any person otherwise covered by section 1 where entry of the person into the United States would not be contrary to the interests of the United States, as determined by the Secretary of State. In exercising the functions and authorities in the previous sentence, the Secretary of State shall consult the Secretary of Homeland Security on matters related to admissibility or inadmissibility within the authority of the Secretary of Homeland Security.
+
+Sec. 5. Nothing in this proclamation shall be construed to require actions that would be inconsistent with the United States \[sic\] obligations under applicable international agreements.
+
+Sec. 6. This proclamation is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Sec. 7. This proclamation is effective immediately and shall remain in effect until such time as the Secretary of State determines that it is no longer necessary and should be terminated, either in whole or in part. Any such termination shall become effective upon publication in the Federal Register.
+
+IN WITNESS WHEREOF, I have hereunto set my hand this twenty-fourth day of July, in the year of our Lord two thousand eleven, and of the Independence of the United States of America the two hundred and thirty-sixth.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Proc. No. 8697. Suspension of Entry as Immigrants and Nonimmigrants of Persons Who Participate in Serious Human Rights and Humanitarian Law Violations and Other Abuses
+
+Proc. No. 8697, Aug. 4, 2011, 76 F.R. 49277, provided:
+
+The United States \[sic\] enduring commitment to respect for human rights and humanitarian law requires that its Government be able to ensure that the United States does not become a safe haven for serious violators of human rights and humanitarian law and those who engage in other related abuses. Universal respect for human rights and humanitarian law and the prevention of atrocities internationally promotes U.S. values and fundamental U.S. interests in helping secure peace, deter aggression, promote the rule of law, combat crime and corruption, strengthen democracies, and prevent humanitarian crises around the globe. I therefore have determined that it is in the interests of the United States to take action to restrict the international travel and to suspend the entry into the United States, as immigrants or nonimmigrants, of certain persons who have engaged in the acts outlined in section 1 of this proclamation.
+
+NOW, THEREFORE, I, BARACK OBAMA, by the authority vested in me as President by the Constitution and the laws of the United States of America, including section 212(f) of the Immigration and Nationality Act of 1952, as amended (8 U.S.C. 1182(f)), and section 301 of title 3, United States Code, hereby find that the unrestricted immigrant and nonimmigrant entry into the United States of persons described in section 1 of this proclamation would be detrimental to the interests of the United States. I therefore hereby proclaim that:
+
+Section 1. The entry into the United States, as immigrants or nonimmigrants, of the following persons is hereby suspended:
+
+(a) Any alien who planned, ordered, assisted, aided and abetted, committed or otherwise participated in, including through command responsibility, widespread or systematic violence against any civilian population based in whole or in part on race; color; descent; sex; disability; membership in an indigenous group; language; religion; political opinion; national origin; ethnicity; membership in a particular social group; birth;or sexual orientation or gender identity, or who attempted or conspired to do so.
+
+(b) Any alien who planned, ordered, assisted, aided and abetted, committed or otherwise participated in, including through command responsibility, war crimes, crimes against humanity or other serious violations of human rights, or who attempted or conspired to do so.
+
+Sec. 2. Section 1 of this proclamation shall not apply with respect to any person otherwise covered by section 1 where the entry of such person would not harm the foreign relations interests of the United States.
+
+Sec. 3. The Secretary of State, or the Secretary's designee, in his or her sole discretion, shall identify persons covered by section 1 of this proclamation, pursuant to such standards and procedures as the Secretary may establish.
+
+Sec. 4. The Secretary of State shall have responsibility for implementing this proclamation pursuant to such procedures as the Secretary, in consultation with the Secretary of Homeland Security, may establish.
+
+Sec. 5. For any person whose entry is otherwise suspended under this proclamation entry will be denied, unless the Secretary of State determines that the particular entry of such person would be in the interests of the United States. In exercising such authority, the Secretary of State shall consult the Secretary of Homeland Security on matters related to admissibility or inadmissibility within the authority of the Secretary of Homeland Security.
+
+Sec. 6. Nothing in this proclamation shall be construed to derogate from United States Government obligations under applicable international agreements, or to suspend entry based solely on an alien's ideology, opinions, or beliefs, or based solely on expression that would be considered protected under U.S. interpretations of international agreements to which the United States is a party. Nothing in this proclamation shall be construed to limit the authority of the United States to admit or to suspend entry of particular individuals into the United States under the Immigration and Nationality Act (8 U.S.C. 1101 <i>et seq</i>.) or under any other provision of U.S. law.
+
+Sec. 7. This proclamation is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Sec. 8. This proclamation is effective immediately and shall remain in effect until such time as the Secretary of State determines that it is no longer necessary and should be terminated, either in whole or in part. Any such termination shall become effective upon publication in the Federal Register.
+
+IN WITNESS WHEREOF, I have hereunto set my hand this fourth day of August, in the year of our Lord two thousand eleven, and of the Independence of the United States of America the two hundred and thirty-sixth.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Executive Order No. 12324
 
@@ -2836,7 +2900,7 @@ Sec. 2. (a) The Secretary of the Department in which the Coast Guard is operatin
 
 (2) To make inquiries of those on board, examine documents and take such actions as are necessary to carry out this order.
 
-(3) To return the vessel and its passengers to the country from which it came, or to another country, when there is reason to believe that an offense is being committed against the United States immigration laws, or appropriate laws of a foreign country with which we have an arrangement to assist; provided, however, that the Secretary of Homeland Security, in his unreviewable discretion, may decide that a person who is a refugee will not be returned without his consent.
+(3) To return the vessel and its passengers to the country from which it came, or to another country, when there is reason to believe that an offense is being committed against the United States immigrationlaws, or appropriate laws of a foreign country with which we have an arrangement to assist; provided, however, that the Secretary of Homeland Security, in his unreviewable discretion, may decide that a person who is a refugee will not be returned without his consent.
 
 (d) These actions, pursuant to this section, are authorized to be undertaken only beyond the territorial sea of the United States.
 

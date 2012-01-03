@@ -8,7 +8,7 @@ The Office shall be responsible for coordinating Federal efforts to detect and p
 
 &emsp;(2) enhance and coordinate the nuclear detection efforts of Federal, State, local, and tribal governments and the private sector to ensure a managed, coordinated response;
 
-&emsp;(3) establish, with the approval of the Secretary and in coordination with the Attorney General, the Secretary of Defense, and theSecretary of Energy, additional protocols and procedures for use within the United States to ensure that the detection of unauthorized nuclear explosive devices, fissile material, or radiological material is promptly reported to the Attorney General, the Secretary, the Secretary of Defense, the Secretary of Energy, and other appropriate officials or their respective designees for appropriate action by law enforcement, military, emergency response, or other authorities;
+&emsp;(3) establish, with the approval of the Secretary and in coordination with the Attorney General, the Secretary of Defense, and the Secretary of Energy, additional protocols and procedures for use within the United States to ensure that the detection of unauthorized nuclear explosive devices, fissile material, or radiological material is promptly reported to the Attorney General, the Secretary, the Secretary of Defense, the Secretary of Energy, and other appropriate officials or their respective designees for appropriate action by law enforcement, military, emergency response, or other authorities;
 
 &emsp;(4) develop, with the approval of the Secretary and in coordination with the Attorney General, the Secretary of State, the Secretary of Defense, and the Secretary of Energy, an enhanced global nuclear detection architecture with implementation under which—
 
@@ -118,7 +118,7 @@ Section 1036 of the National Defense Authorization Act for Fiscal Year 2010, ref
 
 #### Amendments
 
-2010—Subsec. (a)(10) to (14). Pub. L. 111–140, §4(a)(1), added pars. (10) to (13) and redesignated former par. (10) as (14).
+<b>2010</b>—Subsec. (a)(10) to (14). Pub. L. 111–140, §4(a)(1), added pars. (10) to (13) and redesignated former par. (10) as (14).
 
 Subsec. (b). Pub. L. 111–140, §4(a)(2), added subsec. (b).
 
@@ -136,7 +136,7 @@ Pub. L. 111–140, §2, Feb. 16, 2010, 124 Stat. 31, provided that: “Congress 
 
 &emsp;“(B) Many of the radioisotopes produced in the detonation of a nuclear device have short half-lives, so the timely acquisition of samples is of the utmost importance. Over the past several decades, the ability of the United States to gather atmospheric samples—often the preferred method of sample acquisition—has diminished. This ability must be restored and modern techniques that could complement or replace existing techniques should be pursued.
 
-&emsp;“(C) The discipline of pre-detonation forensics is a relatively undeveloped field. The radiation associated with a nuclear or radiological device may affect traditional forensics techniques in unknown ways. In a post-detonation scenario, radiochemistry may provide the most useful tools for analysis and characterization of samples. The number of radiochemistry programs and radiochemists in United States National Laboratories and universities has dramatically declined over the past several decades. The narrowing pipeline of qualified people into this critical field is a serious impediment to maintaining a robust and credible nuclear forensics program.
+&emsp;“(C) The discipline of pre-detonation forensics is a relatively undeveloped field. The radiation associated with a nuclear or radiological device may affect traditional forensics techniques in unknown ways. In a post-detonation scenario, radiochemistry may provide the most useful tools for analysis and characterization of samples. The number of radiochemistry programs and radiochemists in United States National Laboratories and universities has dramaticallydeclined over the past several decades. The narrowing pipeline of qualified people into this critical field is a serious impediment to maintaining a robust and credible nuclear forensics program.
 
 &emsp;“(5) Once samples have been acquired and characterized, it is necessary to compare the results against samples of known material from reactors, weapons, and enrichment facilities, and from medical, academic, commercial, and other facilities containing such materials, throughout the world. Some of these samples are available to the International Atomic Energy Agency through safeguards agreements, and some countries maintain internal sample databases. Access to samples in many countries is limited by national security concerns.
 

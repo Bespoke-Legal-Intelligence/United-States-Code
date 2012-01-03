@@ -52,11 +52,11 @@ There are authorized to be appropriated for the purposes of this section amounts
 
 #### Codification
 
-Section was enacted as part of the Floyd D. Spence National Defense Authorization Act for Fiscal Year2001, and not as part of the Federal Fire Prevention and Control Act of 1974 which comprises this chapter.
+Section was enacted as part of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001, and not as part of the Federal Fire Prevention and Control Act of 1974 which comprises this chapter.
 
 #### Change of Name
 
-“Administrator” substituted for “Director” and “Administrator's” substituted for “Director's” on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
+“Administrator” substituted for “Director” and “Administrator's” substituted for “Director's” on authority of section 612(c) of Pub. L. 109–295, set out as a noteunder section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
 
 #### Transfer of Functions
 

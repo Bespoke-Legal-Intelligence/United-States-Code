@@ -20,7 +20,7 @@ R.S. §2950 provided that the certificate of the appraiser should be deemed to b
 
 <b>2004</b>—Pub. L. 108–429 inserted “or 1504” after “section 1500” in first sentence.
 
-<b>1993</b>—Pub. L. 103–182 amended section catchline generally, substituting “Customs Service” for “appropriate customs officer; notice”, and in text substituted “the Customs Service” for “the appropriate customs officer on his own initiative” and inserted “or transmitted” after “given” in two places.
+<b>1993</b>—Pub. L. 103–182 amended section catchline generally, substituting “Customs Service” for “appropriate customs officer; notice”, and in text substituted“the Customs Service” for “the appropriate customs officer on his own initiative” and inserted “or transmitted” after “given” in two places.
 
 <b>1970</b>—Pub. L. 91–271 struck out “(a)” preceding first sentence and, in such provisions, as so redesignated, substituted provisions authorizing a reliquidation in any respect by the appropriate customs officer on his own initiative for a liquidation made in accordance with section 1500 of this title or any reliquidation thereof made in accordance with this section for provisions setting forth the procedure for an appeal for a reappraisement by the collector or the consignee.
 

@@ -16,11 +16,11 @@
 
 #### Amendments
 
-2002—Pub. L. 107–295 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
+<b>2002</b>—Pub. L. 107–295 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
-1976—Pub. L. 94–546 substituted “promotion year” for “fiscal year” in cl. (1).
+<b>1976</b>—Pub. L. 94–546 substituted “promotion year” for “fiscal year” in cl. (1).
 
-1974—Pub. L. 93–283 substituted “if he has completed at least 20 years of active service or is eligible” for “if eligible” in cl. (1).
+<b>1974</b>—Pub. L. 93–283 substituted “if he has completed at least 20 years of active service or is eligible” for “if eligible” in cl. (1).
 
 #### Interim Authority for Selection of Commanders and Captains for Continuation on Active Duty
 

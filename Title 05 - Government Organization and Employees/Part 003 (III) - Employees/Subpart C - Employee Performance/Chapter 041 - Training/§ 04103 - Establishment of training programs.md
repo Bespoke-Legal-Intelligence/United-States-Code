@@ -52,9 +52,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-2004—Subsec. (c). Pub. L. 108–411 added subsec. (c).
+<b>2004</b>—Subsec. (c). Pub. L. 108–411 added subsec. (c).
 
-1994—Subsec. (a). Pub. L. 103–226, §2(a)(2)(A)(i), in introductory provisions, substituted “In order to assist in achieving an agency's mission and performance goals by improving employee and organizational performance, the head of each agency, in conformity with this chapter, shall establish, operate, maintain, and evaluate” for “In order to increase economy and efficiency in the operations of the agency and to raise the standards of performance by employees of their official duties to the maximum possible level of proficiency, the head of each agency, in conformity with this chapter, shall establish, operate, and maintain”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–226, §2(a)(2)(A)(i), in introductory provisions, substituted “In order to assist in achieving an agency's mission and performance goals by improving employee and organizational performance, the head of each agency, in conformity with this chapter, shall establish, operate, maintain, and evaluate” for “In order to increase economy and efficiency in the operations of the agency and to raise the standards of performance by employees of their official duties to the maximum possible level of proficiency, the head of each agency, in conformity with this chapter, shall establish, operate, and maintain”.
 
 Subsec. (a)(3), (4). Pub. L. 103–226, §2(a)(2)(A)(ii)–(iv), added par. (3) and redesignated former par. (3) as (4).
 
@@ -64,7 +64,7 @@ Subsec. (b)(2). Pub. L. 103–226, §2(a)(2)(B)(ii), (iii), redesignated par. (3
 
 Subsec. (b)(3). Pub. L. 103–226, §2(a)(2)(B)(ii), redesignated par. (3) as (2).
 
-1978—Pub. L. 95–454 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1978</b>—Pub. L. 95–454 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 1978 Amendment
 
@@ -154,7 +154,7 @@ Sec. 302. The head of each agency shall:
 
 Sec. 303. In carrying out his responsibilities, the head of each agency shall, consonant with chapter 41 of Title 5, United States Code, this order, and regulations of the Office of Personnel Management:
 
-(a) Review periodically, but not less often than annually, the agency's program to identify training needed to bring about more effective performance at the least possible cost;
+(a) Review periodically, but not less often than annually, the agency's program to identify training neededto bring about more effective performance at the least possible cost;
 
 (b) Conduct periodic reviews of individual employee's training needs as related to program objectives;
 
@@ -210,7 +210,7 @@ Section 1. <i>Establishment of the Program</i>. Effective October 1, 1986, there
 
 Sec. 2. <i>Program Limits</i>. The experimental program shall be conducted during the fiscal years 1987 through 1989, and not more than ten individuals may commence participation in the program during any fiscal year. Acceptance of voluntary services from such individuals may not result in the displacement of any employee of the government.
 
-Sec. 3. <i>Participant Restrictions</i>. An individual participating in the experimental program shall be considered an employee of the agency to which assigned for purposes of any laws, rules, and regulations of the United States, except that such individual shall not be coveredby chapters 51, 53, 63, 83, 87, or 89 of title 5, United States Code, or any comparable provisions relating to classification, pay, leave, retirement, life insurance, or health benefits for employees of the government.
+Sec. 3. <i>Participant Restrictions</i>. An individual participating in the experimental program shall be considered an employee of the agency to which assigned for purposes of any laws, rules, and regulations of the United States, except that such individual shall not be covered by chapters 51, 53, 63, 83, 87, or 89 of title 5, United States Code, or any comparable provisions relating to classification, pay, leave, retirement, life insurance, or health benefits for employees of the government.
 
 Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -232,7 +232,7 @@ Ex. Ord. No. 13111, Jan. 12, 1999, 64 F.R. 2793, as amended by Ex. Ord. No. 1318
 
 Advances in technology and increased skills needs are changing the workplace at an ever increasing rate. These advances can make Federal employees more productive and provide improved service to our customers, the American taxpayers. We need to ensure that we continue to train Federal employees to take full advantage of these technological advances and to acquire the skills and learning needed to succeed in a changing workplace. A coordinated Federal effort is needed to provide flexible training opportunities to employees and to explore how Federal training programs, initiatives, and policies can better support lifelong learning through the use of learning technology.
 
-To help us meet these goals, I am creating a task force on Federal training technology, directing Federal agencies to take certain steps to enhance employees’ training opportunities through the use of training technology, and an advisory committee on the use of training technology, which also will explore options for financing the training and post-secondary education needed to upgrade skills and gain new knowledge.
+To help us meet these goals, I am creating a task force on Federal training technology, directing Federalagencies to take certain steps to enhance employees’ training opportunities through the use of training technology, and an advisory committee on the use of training technology, which also will explore options for financing the training and post-secondary education needed to upgrade skills and gain new knowledge.
 
 Therefore, by the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Advisory Committee Act, as amended (5 U.S.C. App.), and in furtherance of the purposes of Chapter 41 of title 5, United States Code, the Government Employees Training Act of 1958 (Public Law 85–507 \[see Tables for classification\]), as amended, and Executive Order 11348, “Providing for the Further Training of Government Employees,” \[set out above\] and in order to make effective use of technology to improve training opportunities for Federal Government employees, it is ordered as follows:
 
@@ -264,7 +264,7 @@ Sec. 2. <i>Duties of the Task Force</i>. (a) Within 18 months of the date of thi
 
 &emsp;(8) recommend changes that may be needed to existing procurement laws to further the objectives of this order and forward the recommendations to the Administrator of OFPP; and
 
-(b) develop options and recommendations for establishing a Federal Individual Training Account for eachFederal worker for training relevant to his or her Federal employment. To the extent permitted by law, such accounts may be established with the funds allocated to the agency for employee training. Approval for training would be within the discretion of the individual employee's manager. Options and recommendations shall be reported no later than 6 months from the date of this order.
+(b) develop options and recommendations for establishing a Federal Individual Training Account for each Federal worker for training relevant to his or her Federal employment. To the extent permitted by law, such accounts may be established with the funds allocated to the agency for employee training. Approval for training would be within the discretion of the individual employee's manager. Options and recommendations shall be reported no later than 6 months from the date of this order.
 
 Sec. 3. <i>Duties of All Federal Agencies</i>. (a) Each Federal agency shall, to the extent permitted by law:
 

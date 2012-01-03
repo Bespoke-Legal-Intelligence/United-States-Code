@@ -2,25 +2,29 @@
 
 #### (a) Motorboat fuel taxes from highway trust fund into conservation fund
 
-There shall be set aside in the land and water conservation fund in the Treasury of the United States provided for in sections 460<i>l</i>–4 to 460<i>l</i>–6a and 460<i>l</i>–7 to 460<i>l</i>–10e of this title the amounts specified in section 9503(c)(4)(B) <sup>1</sup> of title 26 (relating to special motor fuels and gasoline used in motorboats).
+There shall be set aside in the land and water conservation fund in the Treasury of the United States provided for in sections 460<i>l</i>–4 to 460<i>l</i>–6a and 460<i>l</i>–7 to 460<i>l</i>–10e of this title the amounts specified in section 9503(c)(3)(A) of title 26 (relating to transfer to Land and Water Conservation Fund).
 
 #### (b) Refunds of gasoline taxes for certain nonhighway purposes or used by local transit systems and motorboat fuel taxes from conservation fund into general fund of Treasury
 
 There shall be paid from time to time from the land and water conservation fund into the general fund of the Treasury amounts estimated by the Secretary of the Treasury as equivalent to—
 
-&emsp;(1) the amounts paid before October 1, 2012, under section 6421 of title 26 (relating to amounts paid in respect of gasoline used for certain nonhighway purposes or by local transit systems) with respect to gasoline used after December 31, 1964, in motorboats, on the basis of claims filed for periods ending before October 1, 2011; and
+&emsp;(1) the amounts paid before April 1, 2013, under section 6421 of title 26 (relating to amounts paid in respect of gasoline used for certain nonhighway purposes or by local transit systems) with respect to gasoline used after December 31, 1964, in motorboats, on the basis of claims filed for periods ending before April 1, 2012; and
 
-&emsp;(2) 80 percent of the floor stocks refunds made before October 1, 2012, under section 6412(a)(2) of title 26 with respect to gasoline to be used in motorboats.
+&emsp;(2) 80 percent of the floor stocks refunds made before April 1, 2013, under section 6412 of title 26 with respect to gasoline to be used in motorboats.
 
-(Pub. L. 88–578, title II, §201, Sept. 3, 1964, 78 Stat. 904; Pub. L. 91–605, title III, §302, Dec. 31, 1970, 84 Stat. 1743; Pub. L. 94–273, §3(4), Apr. 21, 1976, 90 Stat. 376; Pub. L. 94–280, title III, §302, May 5, 1976, 90 Stat. 456; Pub. L. 95–599, title V, §503(b), Nov. 6, 1978, 92 Stat. 2757; Pub. L. 97–424, title V, §531(c), Jan. 6, 1983, 96 Stat. 2191; Pub. L. 99–514, §2, title XVIII, §1875(e), Oct. 22, 1986, 100 Stat. 2095, 2897; Pub. L. 100–17, title V, §503(c), Apr. 2, 1987, 101 Stat. 258; Pub. L. 101–508, title XI, §11211(g)(2), Nov. 5, 1990, 104 Stat. 1388–427; Pub. L. 102–240, title VIII, §8002(d)(2)(B), Dec. 18, 1991, 105 Stat. 2204; Pub. L. 105–178, title IX, §9002(c)(2)(B), June 9, 1998, 112 Stat. 500; Pub. L. 109–59, title XI, §11101(c)(2)(B), Aug. 10, 2005, 119 Stat. 1944.)
+(Pub. L. 88–578, title II, §201, Sept. 3, 1964, 78 Stat. 904; Pub. L. 91–605, title III, §302, Dec. 31, 1970, 84 Stat. 1743; Pub. L. 94–273, §3(4), Apr. 21, 1976, 90 Stat. 376; Pub. L. 94–280, title III, §302, May 5, 1976, 90 Stat. 456; Pub. L. 95–599, title V, §503(b), Nov. 6, 1978, 92 Stat. 2757; Pub. L. 97–424, title V, §531(c), Jan. 6, 1983, 96 Stat. 2191; Pub. L. 99–514, §2, title XVIII, §1875(e), Oct. 22, 1986, 100 Stat. 2095, 2897; Pub. L. 100–17, title V, §503(c), Apr. 2, 1987, 101 Stat. 258; Pub. L. 101–508, title XI, §11211(g)(2), Nov. 5, 1990, 104 Stat. 1388–427; Pub. L. 102–240, title VIII, §8002(d)(2)(B), Dec. 18, 1991, 105 Stat. 2204; Pub. L. 105–178, title IX, §9002(c)(2)(B), June 9, 1998, 112 Stat. 500; Pub. L. 109–59, title XI, §11101(c)(2)(B), Aug. 10, 2005, 119 Stat. 1944; Pub. L. 112–30, title I, §142(e)(2)(B), Sept. 16, 2011, 125 Stat. 356.)
 
 #### References in Text
-
-Section 9503(c)(4)(B) of title 26, referred to in subsec. (a), was struck out by Pub. L. 109–59, title XI, §11115(a)(1), Aug. 10, 2005, 119 Stat. 1949. Provisions similar to those contained in former subsec. (c)(4)(B) of section 9503 are now contained in subsec. (c)(3)(A) of section 9503.
 
 Section 6412(a)(2) of title 26, referred to in subsec. (b)(2), was redesignated as “section 6412(a)(1) of title 26” by Pub. L. 94–455, §1906(22), Oct. 4, 1976, 90 Stat. 1827.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (a). Pub. L. 112–30, §142(e)(2)(B)(ii)(I), substituted “section 9503(c)(3)(A) of title 26 (relating to transfer to Land and Water Conservation Fund)” for “section 9503(c)(4)(B) of title 26 (relating to special motor fuels and gasoline used in motorboats)”.
+
+Subsec. (b)(1). Pub. L. 112–30, §142(e)(2)(B)(i), substituted “April 1, 2013” for “October 1, 2012” and “April 1, 2012” for “October 1, 2011”.
+
+Subsec. (b)(2). Pub. L. 112–30, §142(e)(2)(B)(i)(I), (ii)(II), substituted “April 1, 2013” for “October 1, 2012” and “section 6412” for “section 6412(a)(2)”.
 
 <b>2005</b>—Subsec. (b). Pub. L. 109–59 substituted “2011” for “2003” in par. (1) and “2012” for “2004” in pars. (1) and (2).
 
@@ -48,6 +52,10 @@ Pub. L. 94–273 substituted “October” for “July” wherever appearing.
 
 <b>1970</b>—Subsec. (b). Pub. L. 91–605 substituted “1977” for “1972” and “1978” for “1973” wherever appearing.
 
+#### Effective Date of 2011 Amendment
+
+Pub. L. 112–30, title I, §142(f), Sept. 16, 2011, 125 Stat. 357, provided that: “The amendments made by this section \[amending this section and sections 4041, 4051, 4071, 4081, 4221, 4481 to 4483, 6412, and 9503 of Title 26, Internal Revenue Code\] shall take effect on October 1, 2011.”
+
 #### Effective Date of 1986 Amendment
 
 Amendment by section 1875(e) of Pub. L. 99–514 effective as if included in the provision of the Tax Reform Act of 1984, Pub. L. 98–369, to which such amendment relates, except as otherwise provided, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of Title 26, Internal Revenue Code.
@@ -62,7 +70,5 @@ Section effective Jan. 1, 1965, see note set out under section 460<i>l</i>–4 o
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] of title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] of title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such planamendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
 

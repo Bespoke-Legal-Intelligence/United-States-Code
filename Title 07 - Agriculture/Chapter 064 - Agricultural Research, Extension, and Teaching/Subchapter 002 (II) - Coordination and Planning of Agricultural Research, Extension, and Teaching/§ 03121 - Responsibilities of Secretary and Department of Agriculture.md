@@ -30,17 +30,17 @@ The Department of Agriculture is designated as the lead agency of the Federal Go
 
 #### Amendments
 
-1996—Par. (5). Pub. L. 104–127, §852(b)(1)(A), substituted “Advisory Board” for “Joint Council, Advisory Board,”.
+<b>1996</b>—Par. (5). Pub. L. 104–127, §852(b)(1)(A), substituted “Advisory Board” for “Joint Council, Advisory Board,”.
 
 Par. (11). Pub. L. 104–127, §852(b)(1)(B), struck out “the Joint Council,” before “the Advisory Board”.
 
 Par. (12). Pub. L. 104–127, §853(b)(2), struck out “, after coordination with the Technology Board,” after “establish”.
 
-1990—Par. (12). Pub. L. 101–624 inserted “, after coordination with the Technology Board,” after “establish”.
+<b>1990</b>—Par. (12). Pub. L. 101–624 inserted “, after coordination with the Technology Board,” after “establish”.
 
-1985—Pars. (11), (12). Pub. L. 99–198 added pars. (11) and (12) and struck out former par. (11) which required the Secretary to “take the initiative in overcoming barriers to long-range planning by developing, in conjunction with the States, State cooperative institutions, the Joint Council, the Advisory Board, and other appropriate institutions, a long-term needs assessment for food, fiber, and forest products, and by determining the research requirements necessary to meet the identified needs.”
+<b>1985</b>—Pars. (11), (12). Pub. L. 99–198 added pars. (11) and (12) and struck out former par. (11) which required the Secretary to “take the initiative in overcoming barriers to long-range planning by developing, in conjunction with the States, State cooperative institutions, the Joint Council, the Advisory Board, and other appropriate institutions, a long-term needs assessment for food, fiber, and forest products, and by determining the research requirements necessary to meet the identified needs.”
 
-1981—Par. (1). Pub. L. 97–98, §1405(1), substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
+<b>1981</b>—Par. (1). Pub. L. 97–98, §1405(1), substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
 
 Par. (5). Pub. L. 97–98, §1405(2), substituted “and appropriate advisory” for “and other appropriate advisory”.
 

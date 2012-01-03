@@ -46,7 +46,7 @@ State Participation.—
 
 &emsp;(1)
 
-Number of participating states.—The Secretary may permit not more than 5 States (including the States of Alaska, California, Ohio, Oklahoma, and Texas) to participate in the program.
+Number of participating states.—The Secretary may permit not more than 5 States\(including the States of Alaska, California, Ohio, Oklahoma, and Texas) to participate in the program.
 
 &emsp;(2)
 
@@ -96,7 +96,7 @@ Written Agreement.—A written agreement under this section shall—
 
 &emsp;&emsp;(A) agrees to assume all or part of the responsibilities of the Secretary described in subsection (a);
 
-&emsp;&emsp;(B) expressly consents, on behalf of the State, to accept the jurisdiction of the Federal courts for the compliance, discharge,and enforcement of any responsibility of the Secretary assumed by the State;
+&emsp;&emsp;(B) expressly consents, on behalf of the State, to accept the jurisdiction of the Federal courts for the compliance, discharge, and enforcement of any responsibility of the Secretary assumed by the State;
 
 &emsp;&emsp;(C) certifies that State laws (including regulations) are in effect that—
 

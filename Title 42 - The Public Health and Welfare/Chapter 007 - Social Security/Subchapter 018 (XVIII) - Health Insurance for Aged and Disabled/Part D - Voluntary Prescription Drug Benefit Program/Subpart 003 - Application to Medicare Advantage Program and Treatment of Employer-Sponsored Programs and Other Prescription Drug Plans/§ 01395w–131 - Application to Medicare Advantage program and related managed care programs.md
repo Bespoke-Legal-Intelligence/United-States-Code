@@ -6,7 +6,7 @@
 
 &emsp;An MA organization on and after January 1, 2006—
 
-&emsp;&emsp;(A) may not offer an MA plan described in section 1395w–21(a)(2)(A) of this title in an area unless either that plan (or another MA plan offered by the organization in thatsame service area) includes required prescription drug coverage (as defined in paragraph (2)); and
+&emsp;&emsp;(A) may not offer an MA plan described in section 1395w–21(a)(2)(A) of this title in an area unless either that plan (or another MA plan offered by the organization in that same service area) includes required prescription drug coverage (as defined in paragraph (2)); and
 
 &emsp;&emsp;(B) may not offer prescription drug coverage (other than that required under parts A and B of this subchapter) to an enrollee—
 
@@ -64,7 +64,7 @@ With respect to the offering of qualified prescription drug coverage by an MA or
 
 #### (3) Treatment of MA owned and operated pharmacies
 
-&emsp;The Secretary may waive the requirement of section 1395w–104(b)(1)(C) of this title in the case of an MA–PD plan that provides access (other than mail order) to qualified prescription drug coverage through pharmacies owned and operated by the MA organization, if the Secretary determines that the organization's pharmacy network is sufficient to provide comparable access for enrollees under the plan.
+&emsp;The Secretary may waive the requirement of section 1395w–104(b)(1)(C) of this title in the case of an MA–PD plan that provides access (other than mail order) to qualified prescription drug coverage through pharmacies owned and operated by the MA organization, if the Secretary determines that the organization's pharmacy network is sufficient to providecomparable access for enrollees under the plan.
 
 #### (d) Special rules for private fee-for-service plans that offer prescription drug coverage
 
@@ -76,7 +76,7 @@ With respect to an MA plan described in section 1395w–21(a)(2)(C) of this titl
 
 #### (2) Modification of pharmacy access standard and disclosure requirement
 
-&emsp;If the plan provides coverage for drugs purchased from all pharmacies, without charging additional cost-sharing, and without regard towhether they are participating pharmacies in a network or have entered into contracts or agreements with pharmacies to provide drugs to enrollees covered by the plan, subsections (b)(1)(C) and (k) of section 1395w–104 of this title shall not apply to the plan.
+&emsp;If the plan provides coverage for drugs purchased from all pharmacies, without charging additional cost-sharing, and without regard to whether they are participating pharmacies in a network or have entered into contracts or agreements with pharmacies to provide drugs to enrollees covered by the plan, subsections (b)(1)(C) and (k) of section 1395w–104 of this title shall not apply to the plan.
 
 #### (3) Drug utilization management program and medication therapy management program not required
 
@@ -131,10 +131,4 @@ With respect to an MA plan described in section 1395w–21(a)(2)(C) of this titl
 &emsp;The bid of an organization offering prescription drug coverage under this subsection is not be taken into account in computing any average benchmark bid amount and low-income benchmark premium amount under this part.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1860D–21, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2122.)
-
-#### References in Text
-
-Parts A and B of this subchapter, referred to in subsec. (a)(1)(B), are classified to section 1395c et seq. and section 1395j et seq., respectively, of this title.
-
-Part C of this subchapter, referred to in subsecs. (c)(1), (2), (e)(1), and (f)(1), is classified to section 1395w–21 et seq. of this title.
 

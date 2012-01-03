@@ -12,7 +12,7 @@ Any person who has entered into an agreement of indemnification under section 22
 
 #### (c) Assessment and payment
 
-(1) Before issuing an order assessing a civil penalty against any person under this section, the Secretary shall provide to such person notice of the proposed penalty. Such notice shallinform such person of his opportunity to elect in writing within thirty days after the date of receipt of such notice to have the procedures of paragraph (3) (in lieu of those of paragraph (2)) apply with respect to such assessment.
+(1) Before issuing an order assessing a civil penalty against any person under this section, the Secretary shall provide to such person notice of the proposed penalty. Such notice shall inform such person of his opportunity to elect in writing within thirty days after the date of receipt of such notice to have the procedures of paragraph (3) (in lieu of those of paragraph (2)) apply with respect to such assessment.
 
 (2)(A) Unless an election is made within thirty calendar days after receipt of notice under paragraph (1) to have paragraph (3) apply with respect to such penalty, the Secretary shall assess the penalty, by order, after a determination of violation has been made on the record after an opportunity for an agency hearing pursuant to section 554 of title 5 before an administrative law judge appointed under section 3105 of such title 5. Such assessment order shall include the administrative law judge's findings and the basis for such assessment.
 
@@ -20,7 +20,7 @@ Any person who has entered into an agreement of indemnification under section 22
 
 (3)(A) In the case of any civil penalty with respect to which the procedures of this paragraph have been elected, the Secretary shall promptly assess such penalty, by order, after the date of the election under paragraph (1).
 
-(B) If the civil penalty has not been paid within sixty calendar days after the assessment order has been made under subparagraph (A), the Secretary shall institute an action in the appropriate district court of the United States for an order affirming the assessment of the civil penalty. The court shall have authority to review de novo the law and facts involved, and shall have jurisdiction to enter a judgment enforcing, modifying, and enforcing as so modified, or setting aside in whole or in part, such assessment.
+(B) If the civil penalty has not been paid within sixty calendar days after the assessmentorder has been made under subparagraph (A), the Secretary shall institute an action in the appropriate district court of the United States for an order affirming the assessment of the civil penalty. The court shall have authority to review de novo the law and facts involved, and shall have jurisdiction to enter a judgment enforcing, modifying, and enforcing as so modified, or setting aside in whole or in part, such assessment.
 
 (C) Any election to have this paragraph apply may not be revoked except with consent of the Secretary.
 

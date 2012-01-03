@@ -4,7 +4,7 @@ For the purposes of this Act—
 
 (a) A commodity shall be considered storable upon determination by the Secretary that, in normal trade practice, it is stored for substantial periods of time and that it can be stored under the price-support program without excessive loss through deterioration or spoilage or without excessive cost for storage for such periods as will permit its disposition without substantial impairment of the effectiveness of the price-support program.
 
-(b) A “cooperator” with respect to any basic agricultural commodity shall be a producer on whose farm the acreage planted to the commodity does not exceed the farm acreage allotment for the commodity under subchapter II of chapter 35 of this title, or in the case of price support for corn or wheat to a producer outside the commercial corn-producing or wheat-producing area, a producer who complies with conditions of eligibility prescribed by the Secretary: <i>Provided</i>, That for upland cotton a cooperator shall be a producer on whose farm the acreage planted to such cotton does not exceed the cooperator percentage, which shall be in the case of the 1966 crop, 87.5 per centum of such farm acreage allotment and, in the case of each of the 1967 through 1970 crops, such percentage, not less than 87.5 or more than 100 per centum, of such farm acreage allotment as the Secretary may specify for such crop, except that in the case of small farms (i.e. farms on which the acreage allotment is 10 acres or less, or on which the projected farm yield times the acreage allotment is 3,600 pounds or less, and the acreage allotment has not been reduced under section 1344(m) of this title) the acreage of cotton on the farm shall not be required to be reduced below the farm acreage allotment: <i>And provided</i>, That for the 1971 through 1977 crops of upland cotton a cooperator shall be a producer on a farm on which a farm base acreage allotment has been established who has set aside the acreage required under section 1444(e) of this title: <i>Provided further</i>, That for the 1976 through 1981 crops of rice, a cooperator shall be a person who produces rice on a farm for which a farm acreage allotment has been established or to which a producer acreage allotment has been allocated and, if a set-aside is in effect, who has set aside any acreage required under section 1441(g) of this title: <i>Provided further</i>, That for the 1978 through 1981 crops of upland cotton, a cooperator shall be a producer on a farm who has set aside the acreage required under section 1444(f) of this title. For the purpose of this subsection, a producer shall not be deemed to have exceeded his farm acreage allotment unless such producer knowingly exceeded such allotment.
+(b) A “cooperator” with respect to any basic agricultural commodity shall be a producer on whose farm the acreage planted to the commodity does not exceed the farm acreage allotment for the commodity under subchapter II of chapter 35 of this title, or in the case of price support for corn or wheat to a producer outside the commercial corn-producing or wheat-producing area, a producer who complies with conditions of eligibility prescribed by the Secretary: <i>Provided</i>, That for upland cotton a cooperator shall be a producer on whose farm the acreage planted to such cotton does not exceed the cooperator percentage, which shall be in the case of the 1966 crop, 87.5 per centum of such farm acreage allotment and, in the case of each of the 1967 through 1970 crops, such percentage, not less than 87.5 or more than 100 per centum, of such farm acreage allotment as the Secretary may specify for such crop, except that in the case of small farms (i.e. farms on which the acreage allotment is 10 acres or less, or on which the projected farm yield times the acreage allotment is 3,600 pounds or less, and the acreage allotment has not been reduced under section 1344(m) of this title) the acreage of cotton on the farm shall not be required to be reduced below the farm acreage allotment: <i>And provided</i>, That for the 1971 through 1977 crops of upland cotton a cooperator shall be a producer on a farm on which a farm base acreage allotment has been established who has set aside the acreage required under section 1444(e) of this title: <i>Provided further</i>, That for the 1976 through 1981 crops of rice, a cooperator shall be a person who produces rice on a farm for which a farm acreage allotment has been established or to which a producer acreage allotment has been allocated and, if a set-aside is in effect, who has set aside any acreage required under section 1441(g) of this title: <i>Provided further</i>, That for the 1978 through 1981 crops of upland cotton, a cooperator shall be a producer on a farm who has set aside the acreage required under section 1444(f) of this title. For the purpose of this subsection, a producer shall not bedeemed to have exceeded his farm acreage allotment unless such producer knowingly exceeded such allotment.
 
 (c) A “basic agricultural commodity” shall mean corn, cotton, rice, and wheat, respectively.
 
@@ -42,11 +42,11 @@ The Agricultural Adjustment Act of 1938, referred to in subsec. (j), is act Feb.
 
 #### Amendments
 
-2004—Subsec. (c). Pub. L. 108–357 struck out “tobacco,” before “and wheat”.
+<b>2004</b>—Subsec. (c). Pub. L. 108–357 struck out “tobacco,” before “and wheat”.
 
-2002—Subsec. (c). Pub. L. 107–171 struck out “peanuts,” before “rice,”.
+<b>2002</b>—Subsec. (c). Pub. L. 107–171 struck out “peanuts,” before “rice,”.
 
-1990—Subsec. (k). Pub. L. 101–624, §1131(a), amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows:
+<b>1990</b>—Subsec. (k). Pub. L. 101–624, §1131(a), amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows:
 
 “(1) Reference made in sections 1422, 1423, 1426, 1427, and 1431 of this title to the terms ‘support price’, ‘level of support’, and ‘level of price support’ shall be considered to apply as well to the loan and purchase level for wheat, feed grains, upland cotton, and rice under this Act.
 
@@ -54,29 +54,29 @@ The Agricultural Adjustment Act of 1938, referred to in subsec. (j), is act Feb.
 
 Subsecs. (<i>l</i>), (m). Pub. L. 101–624, §1131(b), added subsec. (<i>l</i>) and struck out former subsecs. (<i>l</i>) and (m). See 1977 Amendment note below.
 
-1985—Subsec. (k). Pub. L. 99–198 temporarily amended subsec. (k) generally, designating provisions before the semicolon as par. (1) and substituting “loan and purchase level” for “level of loans and purchases”, and designating provisions after the semicolon as par. (2). See Effective and Termination Dates of 1985 Amendment note below.
+<b>1985</b>—Subsec. (k). Pub. L. 99–198 temporarily amended subsec. (k) generally, designating provisions before the semicolon as par. (1) and substituting “loan and purchase level” for “level of loans and purchases”, and designating provisions after the semicolon as par. (2). See Effective and Termination Dates of 1985 Amendment note below.
 
-1981—Subsec. (k). Pub. L. 97–98 temporarily substituted “Reference made” for “References made” and inserted reference to section 1427 of this title and to upland cotton and rice. See Effective and Termination Dates of 1981 Amendment note below.
+<b>1981</b>—Subsec. (k). Pub. L. 97–98 temporarily substituted “Reference made” for “References made” and inserted reference to section 1427 of this title and to upland cotton and rice. See Effective and Termination Dates of 1981 Amendment note below.
 
-1977—Subsec. (b). Pub. L. 95–113, §§604(a), 704, inserted proviso defining cooperator for purposes of the 1978 through 1981 crops of upland cotton as a producer on a farm who has set aside the acreage required under section 1444(f) of this title and substituted “1976 through 1981 crops of rice” for “1976 and 1977 crops of rice” in proviso defining cooperator for purposes of specific crops of rice.
+<b>1977</b>—Subsec. (b). Pub. L. 95–113, §§604(a), 704, inserted proviso defining cooperator for purposes of the 1978 through 1981 crops of upland cotton as a producer on a farm who has set aside the acreage required under section 1444(f) of this title and substituted “1976 through 1981 crops of rice” for “1976 and 1977 crops of rice” in proviso defining cooperator for purposes of specific crops of rice.
 
-Subsecs. (k) to (m). Pub. L. 95–113, §§407, 604(b), 705, temporarily amended subsecs. (k) to (m) generally. SeeEffective and Termination Dates of 1977 Amendment note below.
+Subsecs. (k) to (m). Pub. L. 95–113, §§407, 604(b), 705, temporarily amended subsecs. (k) to (m) generally. See Effective and Termination Dates of 1977 Amendment note below.
 
-1976—Subsec. (b). Pub. L. 94–214, §303, inserted proviso defining “cooperator” for 1976 and 1977 crops of rice.
+<b>1976</b>—Subsec. (b). Pub. L. 94–214, §303, inserted proviso defining “cooperator” for 1976 and 1977 crops of rice.
 
 Subsec. (m). Pub. L. 94–214, §304, temporarily added subsec. (m). See Effective and Termination Dates of 1976 Amendment note below.
 
-1973—Subsec. (b). Pub. L. 93–86 substituted “1971 through 1977” for “1971, 1972, and 1973” in proviso requiring that for such designated crops of upland cotton a cooperator shall be a producer on a farm on which a farm base acreage allotment has been established who has set aside the acreage required under section 1444(e) of this title.
+<b>1973</b>—Subsec. (b). Pub. L. 93–86 substituted “1971 through 1977” for “1971, 1972, and 1973” in proviso requiring that for such designated crops of upland cotton a cooperator shall be a producer on a farm on which a farm base acreage allotment has been established who has set aside the acreage required under section 1444(e) of this title.
 
-1970—Subsec. (b). Pub. L. 91–524, §604, inserted proviso that, for the 1971, 1972, and 1973 crops of upland cotton, a cooperator shall be a producer on a farm on which a farm base acreage allotment has been established who has set aside the acreage required under section 1444(e) of this title.
+<b>1970</b>—Subsec. (b). Pub. L. 91–524, §604, inserted proviso that, for the 1971, 1972, and 1973 crops of upland cotton, a cooperator shall be a producer on a farm on which a farm base acreage allotment has been established who has set aside the acreage required under section 1444(e) of this title.
 
 Subsecs. (k), (<i>l</i>). Pub. L. 91–524, §§408, 607, temporarily added subsecs. (k) and (<i>l</i>). See Effective and Termination Dates of 1970 Amendment note below.
 
-1968—Subsec. (b). Pub. L. 90–559 provided for a one year extension, substituting “1967 through 1970” for “1967, 1968, and 1969”.
+<b>1968</b>—Subsec. (b). Pub. L. 90–559 provided for a one year extension, substituting “1967 through 1970” for “1967, 1968, and 1969”.
 
-1965—Subsec. (b). Pub. L. 89–321 temporarily inserted proviso. See Effective and Termination Dates of 1965 Amendment note below.
+<b>1965</b>—Subsec. (b). Pub. L. 89–321 temporarily inserted proviso. See Effective and Termination Dates of 1965 Amendment note below.
 
-1954—Subsec. (b). Act Aug. 28, 1954, inserted “or wheat” after “corn”, and “or wheat-producing” after “corn producing”.
+<b>1954</b>—Subsec. (b). Act Aug. 28, 1954, inserted “or wheat” after “corn”, and “or wheat-producing” after “corn producing”.
 
 #### Effective Date of 2004 Amendment
 

@@ -4,7 +4,7 @@ The provisions of section 4301 of the Employee Retirement Income Security Act of
 
 &emsp;(1) arising out of an obligation to pay any amount required to be paid by this chapter; or
 
-&emsp;(2) arising out of an obligation to pay any amount required by section 402(h)(5)(B)(ii) ofthe Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1232(h)(5)(B)(ii)).
+&emsp;(2) arising out of an obligation to pay any amount required by section 402(h)(5)(B)(ii) of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1232(h)(5)(B)(ii)).
 
 (Added Pub. L. 102–486, title XIX, §19143(a), Oct. 24, 1992, 106 Stat. 3055; amended Pub. L. 109–432, div. C, title II, §213(b)(2), Dec. 20, 2006, 120 Stat. 3027.)
 

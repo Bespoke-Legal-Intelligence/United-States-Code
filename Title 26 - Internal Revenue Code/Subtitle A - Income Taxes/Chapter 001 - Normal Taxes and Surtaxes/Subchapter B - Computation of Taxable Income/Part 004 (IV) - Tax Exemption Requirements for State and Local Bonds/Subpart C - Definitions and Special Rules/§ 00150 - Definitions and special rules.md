@@ -70,7 +70,7 @@ For purposes of this part—
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any facility with respect to which financing is provided from the proceeds of any private activity bond to which this paragraph applies, if such facility is not used for a purpose for which a tax-exempt bond could be issued on the date of such issue, no deduction shall be allowed under this chapter for interest on such financing which accrues during the period beginning on the date such facility is not so used and ending on the date such facility is so used.
+&emsp;&emsp;In the case of any facility with respect to which financing is provided from the proceeds of any private activity bond to which this paragraph applies, if such facility is not used for a purpose for which a tax-exempt bond could be issued on the date of such issue, no deduction shall be allowed underthis chapter for interest on such financing which accrues during the period beginning on the date such facility is not so used and ending on the date such facility is so used.
 
 #### (B) Bonds to which paragraph applies
 

@@ -2,7 +2,7 @@
 
 #### (a) Use by plan actuary in determining unfunded vested benefits of a plan for computing withdrawal liability of employer
 
-The corporation may prescribe by regulation actuarial assumptions which may be used by aplan actuary in determining the unfunded vested benefits of a plan for purposes of determining an employer's withdrawal liability under this part. Withdrawal liability under this part shall be determined by each plan on the basis of—
+The corporation may prescribe by regulation actuarial assumptions which may be used by a plan actuary in determining the unfunded vested benefits of a plan for purposes of determining an employer's withdrawal liability under this part. Withdrawal liability under this part shall be determined by each plan on the basis of—
 
 &emsp;(1) actuarial assumptions and methods which, in the aggregate, are reasonable (taking into account the experience of the plan and reasonable expectations) and which, in combination, offer the actuary's best estimate of anticipated experience under the plan, or
 
@@ -28,7 +28,7 @@ For purposes of this part, the term “unfunded vested benefits” means with re
 
 #### Amendments
 
-<b>1989</b>—Subsec. (b)(1). Pub. L. 101–239 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1989</b>—Subsec. (b)(1). Pub. L. 101–239 substituted “Internal Revenue Code of 1986” for “Internal RevenueCode of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 #### Effective Date of 1989 Amendment
 

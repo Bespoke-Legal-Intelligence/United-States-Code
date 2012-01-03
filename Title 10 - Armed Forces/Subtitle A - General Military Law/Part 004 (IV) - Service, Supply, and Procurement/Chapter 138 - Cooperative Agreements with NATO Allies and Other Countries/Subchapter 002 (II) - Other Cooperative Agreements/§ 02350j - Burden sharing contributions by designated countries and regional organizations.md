@@ -54,7 +54,7 @@ Reports.—Not later than 30 days after the end of each fiscal year, the Secreta
 
 &emsp;(2) the amount of the contributions expended by the Secretary during the preceding fiscal year and the purposes for which the contributions were expended.
 
-(Added Pub. L. 103–160, div. A, title XIV, §1402(a), Nov. 30, 1993, 107 Stat. 1825; amended Pub. L. 103–337, div. A, title X, §1070(a)(10), Oct. 5, 1994, 108 Stat. 2856; Pub. L. 104–106, div. A, title XIII, §1331, Feb. 10, 1996, 110 Stat. 482; Pub. L. 106–65, div. A, title X, §1067(1), div. B, title XXVIII, §2801, Oct. 5, 1999, 113 Stat. 774, 845; Pub. L. 108–136, div. A, title X, §§1031(a)(18), 1043(b)(12), Nov. 24, 2003, 117 Stat. 1597, 1611.)
+(Added Pub. L. 103–160, div. A, title XIV, §1402(a), Nov. 30, 1993, 107 Stat. 1825; amended Pub. L. 103–337, div. A, title X, §1070(a)(10), Oct.5, 1994, 108 Stat. 2856; Pub. L. 104–106, div. A, title XIII, §1331, Feb. 10, 1996, 110 Stat. 482; Pub. L. 106–65, div. A, title X, §1067(1), div. B, title XXVIII, §2801, Oct. 5, 1999, 113 Stat. 774, 845; Pub. L. 108–136, div. A, title X, §§1031(a)(18), 1043(b)(12), Nov. 24, 2003, 117 Stat. 1597, 1611.)
 
 #### References in Text
 

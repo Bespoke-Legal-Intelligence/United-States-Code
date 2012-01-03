@@ -2,11 +2,11 @@
 
 #### (a) Criteria; amount; payment deemed gift
 
-The Secretary may provide for payment of a gratuity to the surviving dependents of any Foreign Service employee, who dies as a result of injuries sustained in the performance of duty abroad, in an amount equal to one year's salary at the time of death. Any death gratuity payment made under this section shall be held tohave been a gift and shall be in addition to any other benefit payable from any source.
+The Secretary may provide for payment of a gratuity to the surviving dependents of any Foreign Service employee, who dies as a result of injuries sustained in the performance of duty abroad, in an amount equal to one year's salary at the time of death. Any death gratuity payment made under this section shall be held to have been a gift and shall be in addition to any other benefit payable from any source.
 
 #### (b) Eligibility to elect monthly compensation as condition to payment
 
-A death gratuity payment shall be made under this section only if the survivor entitled to payment under subsection (c) of this section is entitled to elect monthly compensation under section 8133 of title 5, because the death resulted from an injury (excluding a disease proximately caused by the employment) sustained in the performance of duty, without regard to whether such survivor elects to waive compensation under such section 8133.
+A death gratuity payment shall be made under this section only if the survivor entitled to payment under subsection (c) of this section is entitled to elect monthly compensation under section 8133 of title 5, because the death resultedfrom an injury (excluding a disease proximately caused by the employment) sustained in the performance of duty, without regard to whether such survivor elects to waive compensation under such section 8133.
 
 #### (c) Order of payment
 

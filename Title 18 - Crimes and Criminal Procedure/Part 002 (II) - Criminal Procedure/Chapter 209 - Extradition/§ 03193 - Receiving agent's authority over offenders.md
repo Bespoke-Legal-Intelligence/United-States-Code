@@ -20,7 +20,7 @@ WHEREAS the President of the United States, under section 3192 of Title 18, Unit
 
 WHEREAS fugitives from justice in the United States whose extradition from abroad has been requested by the Government of the United States and granted by a foreign government are to be returned in the custody of duly appointed agents in accordance with the provisions of section 3193 of Title 18, United States Code; and
 
-WHEREAS such duly appointed agents under the provisions of the law mentioned above, being authorized to receive delivery of the fugitive in behalf of the United States and to convey him to the place of his trial, are given the powers of a marshal of the United States in the several districts of the United States through which it may be necessary for them to pass with such prisoner, so far as such power is requisite for the prisoner's safekeeping; and
+WHEREAS such duly appointed agents under the provisions of the law mentioned above, being authorized toreceive delivery of the fugitive in behalf of the United States and to convey him to the place of his trial, are given the powers of a marshal of the United States in the several districts of the United States through which it may be necessary for them to pass with such prisoner, so far as such power is requisite for the prisoner's safekeeping; and
 
 WHEREAS such warrants serve as a certification to the foreign government delivering the fugitives to any other foreign country through which such agents may pass, and to authorities in the United States of the powers therein conferred upon the agents; and
 

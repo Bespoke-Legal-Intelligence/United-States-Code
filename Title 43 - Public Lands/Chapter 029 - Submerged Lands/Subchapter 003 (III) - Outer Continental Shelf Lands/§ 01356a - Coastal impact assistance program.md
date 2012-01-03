@@ -14,7 +14,7 @@ In this section:
 
 #### (2) Coastal population
 
-&emsp;The term “coastal population” means the population, as determined by the most recent official data of the Census Bureau, of each political subdivision any part of which lies within the designated coastal boundary of a State (as defined in a State's coastal zone management program under the Coastal Zone Management Act of 1972 (16 U.S.C. 1451 et seq.)).
+&emsp;The term “coastal population” means the population, as determined by the most recentofficial data of the Census Bureau, of each political subdivision any part of which lies within the designated coastal boundary of a State (as defined in a State's coastal zone management program under the Coastal Zone Management Act of 1972 (16 U.S.C. 1451 et seq.)).
 
 #### (3) Coastal State
 
@@ -102,7 +102,7 @@ In this section:
 
 #### (C) Multiple producing States
 
-&emsp;&emsp;In a case in which more than one producing State is located within 200 nautical miles of any portion of a leased tract, the amount allocated to each producing State for the leased tract shall be inversely proportional to the distance between—
+&emsp;&emsp;In a case in which more than one producing State is located within 200 nauticalmiles of any portion of a leased tract, the amount allocated to each producing State for the leased tract shall be inversely proportional to the distance between—
 
 &emsp;&emsp;&emsp;(i) the nearest point on the coastline of the producing State; and
 
@@ -266,7 +266,7 @@ In this section:
 
 &emsp;&emsp;If a producing State or coastal political subdivision does not submit the additional information or amendments to the plan required by this paragraph, or if, based on the information submitted by the Secretary determines that the project is not in compliance with subsection (d), by the deadlines specified in this paragraph, the Secretary shall not disburse any additional funds to the producing State or the coastal political subdivisions until the date on which the additional information or amendment to the plan has been approved by the Secretary.
 
-(Aug. 7, 1953, ch. 345, §31, as added Pub. L. 106–553, §1(a)(2) \[title IX, §903\], Dec. 21, 2000, 114 Stat. 2762, 2762A–124; amended Pub. L. 109–58, title III, §384, Aug. 8, 2005, 119 Stat. 739; Pub. L. 111–212, title III, §3013, July 29, 2010, 124 Stat. 2341.)
+(Aug. 7, 1953, ch. 345, §31, as added Pub. L. 106–553, §1(a)(2) \[title IX, §903\], Dec. 21, 2000, 114Stat. 2762, 2762A–124; amended Pub. L. 109–58, title III, §384, Aug. 8, 2005, 119 Stat. 739; Pub. L. 111–212, title III, §3013, July 29, 2010, 124 Stat. 2341.)
 
 #### References in Text
 

@@ -18,7 +18,7 @@ In connection with the cooperative endeavors authorized by subsection (a) of thi
 
 &emsp;(3) make grants to public institutions or agencies and to nonprofit private institutions or agencies in the United States and in participating foreign countries for the purpose of establishing and maintaining the fellowships authorized by paragraph (2);
 
-&emsp;(4) make grants or loans of equipment and materials, for use by public or nonprofit institutions or agencies, or by individuals, in participating foreign countries;
+&emsp;(4) make grants or loans of equipment and materials, for use by public or nonprofit private institutions or agencies, or by individuals, in participating foreign countries;
 
 &emsp;(5) participate and otherwise cooperate in any international meetings, conferences, or other activities concerned with biomedical research, health services research, health statistics, or health care technology;
 
@@ -48,7 +48,7 @@ The Tom Lantos and Henry J. Hyde United States Global Leadership Against HIV/AID
 
 Section 5703 of title 5, referred to in subsec. (b)(6), was amended generally by Pub. L. 94–22, §4, May 19, 1975, 89 Stat. 85, and, as so amended, does not contain a subsec. (b).
 
-The Foreign Service Act of 1980, referred to in subsec. (c), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071. Chapter9 of title I of the Act is classified generally to subchapter IX (§4081 et seq.) of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
+The Foreign Service Act of 1980, referred to in subsec. (c), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071. Chapter 9 of title I of the Act is classified generally to subchapter IX (§4081 et seq.) of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
 
 #### Codification
 
@@ -86,7 +86,7 @@ Subsec. (b). Pub. L. 97–35, §921(b), in par. (5) inserted reference to health
 
 #### International Health Study
 
-Pub. L. 95–83, title III, §315, Aug. 1, 1977, 91 Stat. 398, provided that the Secretary of Health, Education, and Welfare arrange through the National Academy of Sciences or other nonprofit private groups or associations, for a study to determine opportunities for broadened Federal program activities in areas of international health, which study was to consider biomedical and behavioral research, health services research, health professions education, immunization and public health activities, and other areas that might improve our and other nations’ capacities to prevent, diagnose, control, or cure disease, and to organize and deliver effective and efficient health services, with an interim report on such study completed no later than Oct. 1, 1977 and a final report completed no later than Jan. 1, 1978 and both reports submitted to the Secretary, the Committee on Human Resources of the Senate, and the Committee on Interstate and Foreign Commerce of the House of Representatives.
+Pub. L. 95–83, title III, §315, Aug. 1, 1977, 91 Stat. 398, provided that the Secretary of Health, Education, and Welfare arrange through the National Academy of Sciences or other nonprofit private groups or associations, for a study to determine opportunities for broadened Federal program activities in areas of internationalhealth, which study was to consider biomedical and behavioral research, health services research, health professions education, immunization and public health activities, and other areas that might improve our and other nations’ capacities to prevent, diagnose, control, or cure disease, and to organize and deliver effective and efficient health services, with an interim report on such study completed no later than Oct. 1, 1977 and a final report completed no later than Jan. 1, 1978 and both reports submitted to the Secretary, the Committee on Human Resources of the Senate, and the Committee on Interstate and Foreign Commerce of the House of Representatives.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

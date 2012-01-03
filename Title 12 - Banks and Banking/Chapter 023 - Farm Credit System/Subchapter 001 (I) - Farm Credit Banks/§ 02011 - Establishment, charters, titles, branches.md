@@ -28,7 +28,7 @@ A prior section 2011, Pub. L. 92–181, title I, §1.3, Dec. 10, 1971, 85 Stat. 
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–399, §401(a), inserted “, as provided in section 410 of the Agricultural Credit Act of 1987,” before “shall”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–399, §401(a), inserted “, as provided in section 410 of the Agricultural Credit Act of 1987,” before “shall”.
 
 Subsec. (b). Pub. L. 100–399, §401(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The charters or organization certificates of Farm Credit Banks may be modified from time to time by the Farm Credit Administration Board, not inconsistent with the provisions of this subchapter, as may be necessary or expedient to implement this chapter.”
 
@@ -126,7 +126,7 @@ Limitation on authority to merge.—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I)
 
-In general.—Notwithstanding clause (i), the authority of the Federal Intermediate Credit Bank of Jackson to merge with a Farm Credit Bank as provided under clause (i) shall expire, and the Farm Credit Administration shall revoke the Bank's charter, immediately on the Bank's merger with a Farm Credit Bank underthis subsection, or July 1, 1994, whichever is sooner.
+In general.—Notwithstanding clause (i), the authority of the Federal Intermediate Credit Bank of Jackson to merge with a Farm Credit Bank as provided under clause (i) shall expire, and the Farm Credit Administration shall revoke the Bank's charter, immediately on the Bank's merger with a Farm Credit Bank under this subsection, or July 1, 1994, whichever is sooner.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II)
 
@@ -194,7 +194,7 @@ In general.—Not later than 100 days after the issuance of an order by the Farm
 
 &emsp;&emsp;&emsp;“(ii)
 
-Submission of views and information.—The arbitrator shall receive from affected and interested parties written submissions, in accordance with fair and reasonable procedures established by the arbitrator, regarding the terms and conditions of an appropriate plan for the merger of the two banks required under this paragraph. The Federal Intermediate Credit Bank of Jackson, the Farm Credit Bank of Texas, and their affiliated associations shall make available allbooks, records, financial information, and other material that the arbitrator determines is necessary to the development of the plan or the fulfillment of any other requirement under this paragraph. A copy of any submission or information provided to the arbitrator by any party under this paragraph shall be furnished to the Federal Intermediate Credit Bank of Jackson or the Farm Credit Bank of Texas on the written request of the bank and at the bank's expense. The arbitrator shall provide both banks with a reasonable opportunity to review and respond to any submission or information provided by any party.
+Submission of views and information.—The arbitrator shall receive from affected and interested parties written submissions, in accordance with fair and reasonable procedures established by the arbitrator, regarding the terms and conditions of an appropriate plan for the merger of the two banks required under this paragraph. The Federal Intermediate Credit Bank of Jackson, the Farm Credit Bank of Texas, and their affiliated associations shall make available all books, records, financial information, and other material that the arbitrator determines is necessary to the development of the plan or the fulfillment of any other requirement under this paragraph. A copy of any submission or information provided to the arbitrator by any party under this paragraph shall be furnished to the Federal Intermediate Credit Bank of Jackson or the Farm Credit Bank of Texas on the written request of the bank and at the bank's expense. The arbitrator shall provide both banks with a reasonable opportunity to review and respond to any submission or information provided by any party.
 
 &emsp;&emsp;&emsp;“(iii)
 
@@ -302,7 +302,7 @@ In general.—Beginning on the date of the issuance of an order by the Farm Cred
 
 &emsp;&emsp;&emsp;“(ii)
 
-Maintenance of book value.—Assistance provided by the Corporation under this subparagraph shall be in amounts not to exceed that required to maintain book value per share of stockholders’ equity at the same value reflected on the most recent audited financial statements of the Federal Intermediate Credit Bank of Jackson and the Farm Credit Bank of Texas prior to or effective with the date of the merger.
+Maintenance of book value.—Assistance provided by the Corporation under this subparagraph shall be in amounts not to exceed that required to maintain book value per share of stockholders’ equity at the same value reflected on themost recent audited financial statements of the Federal Intermediate Credit Bank of Jackson and the Farm Credit Bank of Texas prior to or effective with the date of the merger.
 
 &emsp;&emsp;&emsp;“(iii)
 

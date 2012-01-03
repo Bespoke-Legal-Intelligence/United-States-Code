@@ -2,7 +2,7 @@
 
 #### (a) Offenses
 
-A person is guilty of any <sup>1</sup> offense if he commits an act prohibited by section 773e(a)(2), (3), (4), or (6) of this title; or section 773e(b) of this title.
+A person is guilty of any <sup>1</sup> offense if he commits an act prohibited by section 773e(a)(2), (3),\(4), or (6) of this title; or section 773e(b) of this title.
 
 #### (b) Fines; imprisonment
 

@@ -82,7 +82,7 @@ The purpose of this section is to strengthen the public educational systems in p
 
 #### (6) Report to Congress
 
-&emsp;Not later than 180 days after August 3, 2007, and annually thereafter until January 30, 2010,the President shall submit to the appropriate congressional committees a report on United States efforts to assist in the improvement of educational opportunities for predominantly Muslim children and youths, including the progress made toward establishing the International Muslim Youth Opportunity Fund.
+&emsp;Not later than 180 days after August 3, 2007, and annually thereafter until January 30, 2010, the President shall submit to the appropriate congressional committees a report on United States efforts to assist in the improvement of educational opportunities for predominantly Muslim children and youths, including the progress made toward establishing the International Muslim Youth Opportunity Fund.
 
 #### (7) Appropriate congressional committees defined
 

@@ -40,7 +40,7 @@ Amendment by Pub. L. 99–272 effective after Mar. 31, 1986, with no individual 
 
 #### Effective Date of 1982 Amendment
 
-Section 122(h)(1) of Pub. L. 97–248, as amended by Pub. L. 99–272, title IX, §9123(a), Apr. 7, 1986, 100 Stat. 168, provided that: “The amendments made by this section \[amending this section and sections 1395d to 1395f, 1395h, and 1395x to 1395cc of this title and section 231f of Title 45, Railroads, and enacting provisions set out as notes under sections 1395b–1 and 1395f of this title\] apply to hospice care provided on or after November 1, 1983.”
+Section 122(h)(1) of Pub. L. 97–248, as amended by Pub. L. 99–272, title IX, §9123(a), Apr. 7, 1986, 100 Stat. 168,provided that: “The amendments made by this section \[amending this section and sections 1395d to 1395f, 1395h, and 1395x to 1395cc of this title and section 231f of Title 45, Railroads, and enacting provisions set out as notes under sections 1395b–1 and 1395f of this title\] apply to hospice care provided on or after November 1, 1983.”
 
 Amendment by section 278(b)(3) of Pub. L. 97–248 effective on and after Jan. 1, 1983, and applicable to remuneration (for medicare qualified Federal employment) paid after Dec. 31, 1982, see section 278(c)(2)(A) of Pub. L. 97–248, set out as a note under section 426 of this title.
 
@@ -64,7 +64,7 @@ Pub. L. 90–248, title I, §140, Jan. 2, 1968, 81 Stat. 854, directed Secretary
 
 Pub. L. 90–248, title I, §142, Jan. 2, 1968, 81 Stat. 855, provided that:
 
-“(a) Notwithstanding any provision of title XVIII of the Social Security Act \[this subchapter\] an individual who is entitled to hospital insurance benefits under section 226 of such Act \[section 426 of this title\] may, subject to subsections (b) and (c), receive, on the basis of an itemized bill, reimbursement for charges to him for inpatient hospital services (as defined in section 1861 of such Act \[section 1395x of this title\], but without regard to subsection (e) of such section) furnished by, or under arrangements (as defined in section 1861(w) ofsuch Act \[section 1395x(w) of this title\] with, a hospital if—
+“(a) Notwithstanding any provision of title XVIII of the Social Security Act \[this subchapter\] an individual who is entitled to hospital insurance benefits under section 226 of such Act \[section 426 of this title\] may, subject to subsections (b) and (c), receive, on the basis of an itemized bill, reimbursement for charges to him for inpatient hospital services (as defined in section 1861 of such Act \[section 1395x of this title\], but without regard to subsection (e) of such section) furnished by, or under arrangements (as defined in section 1861(w) of such Act \[section 1395x(w) of this title\] with, a hospital if—
 
 &emsp;“(1) the hospital did not have an agreement in effect under section 1866 of such Act \[section 1395cc of this title\] but would have been eligible for payment under part A of title XVIII of such Act \[this part\] with respect to such services if at the time such services were furnished the hospital had such an agreement in effect;
 

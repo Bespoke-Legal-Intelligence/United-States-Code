@@ -30,9 +30,9 @@
 
 #### Amendments
 
-1992—Pub. L. 102–378, §2(73), Oct. 2, 1992, 106 Stat. 1355, added item 8509.
+<b>1992</b>—Pub. L. 102–378, §2(73), Oct. 2, 1992, 106 Stat. 1355, added item 8509.
 
-1975—Pub. L. 94–183, §2(42), Dec. 31, 1975, 89 Stat. 1059, substituted “Repealed” for “Accrued leave” in item 8524.
+<b>1975</b>—Pub. L. 94–183, §2(42), Dec. 31, 1975, 89 Stat. 1059, substituted “Repealed” for “Accrued leave” in item 8524.
 
 
 ---

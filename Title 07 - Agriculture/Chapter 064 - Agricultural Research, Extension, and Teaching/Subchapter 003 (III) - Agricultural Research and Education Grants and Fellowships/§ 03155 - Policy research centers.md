@@ -32,25 +32,25 @@ Under this section, funding may be provided for disciplinary and interdisciplina
 
 There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1996 through 2012.
 
-(Pub. L. 95–113, title XIV, §1419A, as added Pub. L. 104–127, title VIII, §807, Apr. 4, 1996, 110 Stat. 1162; amended Pub. L. 105–185, title II, §224, title III, §301(a)(3), June 23, 1998, 112 Stat. 540, 562; Pub. L. 107–171, title VII, §§7103, 7216, May 13, 2002, 116 Stat. 432, 449; Pub. L. 110–234, title VII, §7111, May 22, 2008, 122 Stat. 1219; Pub. L. 110–246, §4(a), title VII, §7111, June 18, 2008, 122 Stat. 1664, 1980.)
+(Pub. L. 95–113, title XIV, §1419A, as added Pub. L. 104–127, title VIII, §807, Apr. 4, 1996, 110 Stat. 1162; amended Pub. L. 105–185, title II, §224, title III, §301(a)(3), June 23, 1998, 112 Stat. 540, 562; Pub. L. 107–171, title VII, §§7103, 7216, May 13,2002, 116 Stat. 432, 449; Pub. L. 110–234, title VII, §7111, May 22, 2008, 122 Stat. 1219; Pub. L. 110–246, §4(a), title VII, §7111, June 18, 2008, 122 Stat. 1664, 1980.)
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 
-2008—Subsec. (a)(1). Pub. L. 110–246, §7111(1), inserted “(including commodities, livestock, dairy, and specialty crops)” after “agricultural sectors”.
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–246, §7111(1), inserted “(including commodities, livestock, dairy, and specialty crops)” after “agricultural sectors”.
 
 Subsec. (b). Pub. L. 110–246, §7111(2), inserted “(including the Food Agricultural Policy Research Institute, the Agricultural and Food Policy Center, the Rural Policy Research Institute, and the National Drought Mitigation Center)” after “research institutions and organizations”.
 
 Subsec. (d). Pub. L. 110–246, §7111(3), substituted “2012” for “2007”.
 
-2002—Subsec. (c)(3). Pub. L. 107–171, §7216, substituted “collect, analyze, and disseminate data” for “collect and analyze data”.
+<b>2002</b>—Subsec. (c)(3). Pub. L. 107–171, §7216, substituted “collect, analyze, and disseminate data” for “collect and analyze data”.
 
 Subsec. (d). Pub. L. 107–171, §7103, substituted “2007” for “2002”.
 
-1998—Subsec. (a). Pub. L. 105–185, §224, inserted “and trade agreements” after “public policies” in introductory provisions.
+<b>1998</b>—Subsec. (a). Pub. L. 105–185, §224, inserted “and trade agreements” after “public policies” in introductory provisions.
 
 Subsec. (d). Pub. L. 105–185, §301(a)(3), substituted “each of fiscal years 1996 through 2002” for “fiscal years 1996 and 1997”.
 

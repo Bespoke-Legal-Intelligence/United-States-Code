@@ -24,7 +24,7 @@ Pub. L. 107–72, §4, Nov. 20, 2001, 115 Stat. 650, provided that: “This Act 
 
 #### Effective Date of 1975 Amendment
 
-Section 4 of Pub. L. 94–145 provided that: “The amendments made by sections 2 and 3 of this Act \[amending this section and section 45 of this title\] shall take effect upon the expiration of the ninety-day period which begins on the date of enactment of this Act \[Dec. 12, 1975\].”
+Pub. L. 94–145, §4, Dec. 12, 1974, 89 Stat. 801, provided that: “The amendments made by sections 2 and 3 of this Act \[amending this section and section 45 of this title\] shall take effect upon the expiration of the ninety-day period which begins on the date of enactment of this Act \[Dec. 12, 1975\].”
 
 #### Short Title of 2009 Amendment
 
@@ -66,7 +66,7 @@ Pub. L. 104–63, §1, Dec. 8, 1995, 109 Stat. 687, provided that: “This Act \
 
 #### Short Title of 1990 Amendment
 
-Section 1 of Pub. L. 101–588 provided: “That this Act \[amending this section and sections 2, 3, 15a, and 19 of this title and repealing section 20 of this title\] may be cited as the ‘Antitrust Amendments Act of 1990’.”
+Pub. L. 101–588, §1, Nov. 16, 1990, 104 Stat. 2879, provided: “That this Act \[amending this section and sections 2, 3, 15a, and 19 of this title and repealing section 20 of this title\] may be cited as the ‘Antitrust Amendments Act of 1990’.”
 
 #### Short Title of 1984 Amendment
 
@@ -82,15 +82,15 @@ Pub. L. 96–493, §1, Dec. 2, 1980, 94 Stat. 2568, provided: “That this Act \
 
 #### Short Title of 1976 Amendment
 
-Section 1 of Pub. L. 94–435, Sept. 30, 1976, 90 Stat. 1383, provided: “That this Act \[enacting sections 15c to 15h, 18a, and 66 of this title, amending sections 12, 15b, 16, 26, and 1311 to 1314 of this title, section 1505 of Title 18, Crimes and Criminal Procedure, and section 1407 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under sections 8, 15c, 18a, and 1311 of this title\] may be cited as the ‘Hart-Scott-Rodino Antitrust Improvements Act of 1976’.”
+Pub. L. 94–435, §1, Sept. 30, 1976, 90 Stat. 1383, provided: “That this Act \[enacting sections 15c to 15h, 18a, and 66 of this title, amending sections 12, 15b, 16, 26, and 1311 to 1314 of this title, section 1505 of Title 18, Crimes and Criminal Procedure, and section 1407 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under sections 8, 15c, 18a, and 1311 of this title\] may be cited as the ‘Hart-Scott-Rodino Antitrust Improvements Act of 1976’.”
 
 #### Short Title of 1975 Amendment
 
-Section 1 of Pub. L. 94–145 provided: “That this Act \[amending this section and section 45 of this title and enacting provisions set out as a note under this section\] may be cited as the ‘Consumer Goods Pricing Act of 1975’.”
+Pub. L. 94–145, §1, Dec. 12, 1975, 89 Stat. 801, provided: “That this Act \[amending this section and section 45 of this title and enacting provisions set out as a note under this section\] may be cited as the ‘Consumer Goods Pricing Act of 1975’.”
 
 #### Short Title of 1974 Amendment
 
-Section 1 of Pub. L. 93–528 provided: “That this Act \[amending this section and section 2, 3, 16, 28, and 29 of this title, section 401 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, and sections 43, 44, and 45 of former Title 49, Transportation, and enacting provisions set out as notes under this section and section 29 of this title\] may be cited as the ‘Antitrust Procedures and Penalties Act’.”
+Pub. L. 93–528, §1, Dec. 21, 1974, 88 Stat. 1706, provided: “That this Act \[amending this section and section 2, 3, 16, 28, and 29 of this title, section 401 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, and sections 43, 44, and 45 of former Title 49, Transportation, and enacting provisions set out as notes under this section and section 29 of this title\] may be cited as the ‘Antitrust Procedures and Penalties Act’.”
 
 #### Short Title
 

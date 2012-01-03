@@ -34,3 +34,5 @@ The date of enactment of this title, referred to in par. (4), means the date of 
 
 Section was enacted as part of Pub. L. 98–180, known as the Dairy and Tobacco Adjustment Act of 1983, and not as part of title I of Pub. L. 98–180, known as the Dairy Production Stabilization Act of 1983, subtitle B of which comprises this subchapter.
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

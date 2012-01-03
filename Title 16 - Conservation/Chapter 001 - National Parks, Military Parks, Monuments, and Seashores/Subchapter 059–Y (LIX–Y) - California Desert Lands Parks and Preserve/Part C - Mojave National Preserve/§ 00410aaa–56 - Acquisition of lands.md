@@ -34,5 +34,5 @@ Reversionary Clause.—The conveyance under subsection (a) shall be subject to t
 
 “(f)
 
-Boundary Adjustment; Administration of Acquired Land.—The boundaries of the Mojave National Preserve shall be adjusted to reflect the land exchange required by this section. The property acquired by theSecretary under this section shall become part of the Mojave National Preserve and be administered in accordance with the laws, rules, and regulations generally applicable to the Mojave National Preserve.”
+Boundary Adjustment; Administration of Acquired Land.—The boundaries of the Mojave National Preserve shall be adjusted to reflect the land exchange required by this section. The property acquired by the Secretary under this section shall become part of the Mojave National Preserve and be administered in accordance with the laws, rules, and regulations generally applicable to the Mojave National Preserve.”
 

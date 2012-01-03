@@ -36,7 +36,7 @@ The Secretary shall prepare, publish, and announce an annual report listing the 
 
 #### Prior Provisions
 
-A prior section 1125, Pub. L. 89–329, title VI, §606, formerly §605, as added Pub. L. 96–374, title VI, §601(a), Oct. 3, 1980, 94 Stat. 1467; amended Pub. L. 97–375, titleII, §204, Dec. 21, 1982, 96 Stat. 1823; Pub. L. 99–386, title I, §103(c), Aug. 22, 1986, 100 Stat. 821; renumbered §606 and amended Pub. L. 99–498, title VI, §§605(1), 606, Oct. 17, 1986, 100 Stat. 1517; Pub. L. 102–325, title VI, §601, July 23, 1992, 106 Stat. 725, authorized research and studies and required annual report, prior to the general amendment of this part by Pub. L. 105–244.
+A prior section 1125, Pub. L. 89–329, title VI, §606, formerly §605, as added Pub. L. 96–374, title VI, §601(a), Oct. 3, 1980, 94 Stat. 1467; amended Pub. L. 97–375, title II, §204, Dec. 21, 1982, 96 Stat. 1823; Pub. L. 99–386, title I, §103(c), Aug. 22, 1986, 100 Stat. 821; renumbered §606 and amended Pub. L. 99–498, title VI, §§605(1), 606, Oct. 17, 1986, 100 Stat. 1517; Pub. L. 102–325, title VI, §601, July 23, 1992, 106 Stat. 725, authorized research and studies and required annual report, prior to the general amendment of this part by Pub. L. 105–244.
 
 Another prior section 1125, Pub. L. 89–329, title VI, §605, Nov. 8, 1965, 79 Stat. 1264; Pub. L. 90–575, title II, §242(a), (e), Oct. 16, 1968, 82 Stat. 1041, related to the applications by institutions of higher education for grants under the program of equipment grants, prior to the general amendment of this subchapter by Pub. L. 96–374.
 

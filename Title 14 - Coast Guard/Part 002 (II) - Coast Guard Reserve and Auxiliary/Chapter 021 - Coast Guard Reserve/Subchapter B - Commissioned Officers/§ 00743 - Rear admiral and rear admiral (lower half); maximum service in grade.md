@@ -8,9 +8,9 @@
 
 #### Amendments
 
-2004—Pub. L. 108–293 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “Unless retained in or removed from an active status under any other law, a Reserve rear admiral or rear admiral (lower half) shall be removed from an active status on the day that officer completes four years combined service in the grades of rear admiral and rear admiral (lower half).”
+<b>2004</b>—Pub. L. 108–293 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “Unless retained in or removed from an active status under any other law, a Reserve rear admiral or rear admiral (lower half) shall be removed from an active status on the day that officer completes four years combined service in the grades of rear admiral and rear admiral (lower half).”
 
-1985—Pub. L. 99–145 substituted references to “rear admiral (lower half)” for “commodore” in section catchline and two places in text.
+<b>1985</b>—Pub. L. 99–145 substituted references to “rear admiral (lower half)” for “commodore” in section catchline and two places in text.
 
-1983—Pub. L. 97–417 inserted reference to “commodore” in section catchline and text.
+<b>1983</b>—Pub. L. 97–417 inserted reference to “commodore” in section catchline and text.
 

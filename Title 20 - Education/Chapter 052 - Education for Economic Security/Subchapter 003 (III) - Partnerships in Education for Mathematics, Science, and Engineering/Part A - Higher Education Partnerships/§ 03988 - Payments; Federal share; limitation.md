@@ -2,7 +2,7 @@
 
 #### (a) Federal and non-Federal shares
 
-(1) The Secretary shall pay, to each applicant having an application approved under section 3987 of this title, the Federal share of the cost of the program described in the application.
+(1) The Secretary shall pay, to each applicant having an application approved under section3987 of this title, the Federal share of the cost of the program described in the application.
 
 (2) The Federal share for each fiscal year shall be 50 per centum.
 

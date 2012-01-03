@@ -260,7 +260,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) any telephone distribution plant and comparable equipment used for 2-way exchange of voice and data communications,
 
-&emsp;&emsp;&emsp;(iii) any section 1250 property which is a retail motor fuels outlet (whether or notfood or other convenience items are sold at the outlet),
+&emsp;&emsp;&emsp;(iii) any section 1250 property which is a retail motor fuels outlet (whether or not food or other convenience items are sold at the outlet),
 
 &emsp;&emsp;&emsp;(iv) any qualified leasehold improvement property placed in service before January 1, 2012,
 
@@ -306,7 +306,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) a transaction to which section 381(a) applies,
 
-&emsp;&emsp;&emsp;(iii) a mere change in the form of conducting the trade or business so long as the property is retained in such trade or business as qualified leasehold improvement property and the taxpayer retains a substantial interest in such trade or business,
+&emsp;&emsp;&emsp;(iii) a mere change in the form of conducting the trade or business so long asthe property is retained in such trade or business as qualified leasehold improvement property and the taxpayer retains a substantial interest in such trade or business,
 
 &emsp;&emsp;&emsp;(iv) the acquisition of such property in an exchange described in section 1031, 1033, or 1038 to the extent that the basis of such property includes an amount representing the adjusted basis of other property owned by the taxpayer or a related person, or
 
@@ -462,7 +462,7 @@ This section shall not apply to—
 | <b>    If property is described       in subparagraph:</b> | <b>    The class life is:</b> |
 | :--- | ---: |
 | (A)(iii) | 4&nbsp;&nbsp;&nbsp; |
-| (B)(ii) | 5    |
+| (B)(ii) | 5&nbsp;&nbsp;&nbsp; |
 | (B)(iii) | 9\.5 |
 | (B)(vii) | 10&nbsp;&nbsp;&nbsp; |
 | (C)(i) | 10&nbsp;&nbsp;&nbsp; |
@@ -705,7 +705,7 @@ This section shall not apply to—
 
 #### (iii) Treatment of successor organizations
 
-&emsp;&emsp;&emsp;Any organization which is engaged in activities substantially similar to those engaged in by a predecessor organization shall succeed to the treatment under thissubparagraph of such predecessor organization.
+&emsp;&emsp;&emsp;Any organization which is engaged in activities substantially similar to those engaged in by a predecessor organization shall succeed to the treatment under this subparagraph of such predecessor organization.
 
 #### (iv) First used
 
@@ -783,7 +783,7 @@ This section shall not apply to—
 
 &emsp;&emsp;&emsp;(ii) any allocation to the tax-exempt entity of partnership items is not a qualified allocation,
 
-> &emsp;&emsp;an amount equal to such tax-exempt entity's proportionate share of such property shall\(except as provided in paragraph (1)(D)) be treated as tax-exempt use property.
+> &emsp;&emsp;an amount equal to such tax-exempt entity's proportionate share of such property shall (except as provided in paragraph (1)(D)) be treated as tax-exempt use property.
 
 #### (B) Qualified allocation
 
@@ -865,7 +865,7 @@ For purposes of this section—
 
 #### (1) Class life
 
-&emsp;Except as provided in this section, the term “class life” means the class life (if any) whichwould be applicable with respect to any property as of January 1, 1986, under subsection (m) of section 167 (determined without regard to paragraph (4) and as if the taxpayer had made an election under such subsection). The Secretary, through an office established in the Treasury, shall monitor and analyze actual experience with respect to all depreciable assets. The reference in this paragraph to subsection (m) of section 167 shall be treated as a reference to such subsection as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990.
+&emsp;Except as provided in this section, the term “class life” means the class life (if any) which would be applicable with respect to any property as of January 1, 1986, under subsection (m) of section 167 (determined without regard to paragraph (4) and as if the taxpayer had made an election under such subsection). The Secretary, through an office established in the Treasury, shall monitor and analyze actual experience with respect to all depreciable assets. The reference in this paragraph to subsection (m) of section 167 shall be treated as a reference to such subsection as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990.
 
 #### (2) Qualified technological equipment
 
@@ -915,7 +915,7 @@ For purposes of this section—
 
 #### (C) High technology medical equipment
 
-&emsp;&emsp;For purposes of this paragraph, the term “high technology medical equipment” means any electronic, electromechanical, or computer-based high technology equipment used in the screening, monitoring, observation, diagnosis, or treatment of patients in a laboratory, medical, or hospital environment.
+&emsp;&emsp;For purposes of this paragraph, the term “high technology medical equipment”means any electronic, electromechanical, or computer-based high technology equipment used in the screening, monitoring, observation, diagnosis, or treatment of patients in a laboratory, medical, or hospital environment.
 
 #### (3) Lease term
 
@@ -1121,7 +1121,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(vi) provides for payments under the contract that, in the aggregate, do not exceed $10,000 per item of consumer property,
 
-&emsp;&emsp;&emsp;(vii) provides that the customer does not have any legal obligation to make all the payments referred to in clause (ii) set forth under the contract, and that at the end of each payment period the customermay either continue to use the consumer property by making the payment for the next payment period or return such property to the rent-to-own dealer in good working order, in which case the customer does not incur any further obligations under the contract and is not entitled to a return of any payments previously made under the contract, and
+&emsp;&emsp;&emsp;(vii) provides that the customer does not have any legal obligation to make all the payments referred to in clause (ii) set forth under the contract, and that at the end of each payment period the customer may either continue to use the consumer property by making the payment for the next payment period or return such property to the rent-to-own dealer in good working order, in which case the customer does not incur any further obligations under the contract and is not entitled to a return of any payments previously made under the contract, and
 
 &emsp;&emsp;&emsp;(viii) provides that the customer has no right to sell, sublease, mortgage, pawn, pledge, encumber, or otherwise dispose of the consumer property until all the payments stated in the contract have been made.
 
@@ -1305,7 +1305,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) section 4(10) of the Indian Child Welfare Act of 1978 (25 U.S.C. 1903(10)).
 
-> &emsp;For purposes of the preceding sentence, such section 3(d) shall be applied by treating the term “former Indian reservations in Oklahoma” as including only lands which are within the jurisdictional area of an Oklahoma Indian tribe (as determined by the Secretary of the Interior) and are recognized by such Secretary as eligible for trust land status under 25CFR Part 151 (as in effect on the date of the enactment of this sentence).
+> &emsp;For purposes of the preceding sentence, such section 3(d) shall be applied by treating the term “former Indian reservations in Oklahoma” as including only lands which are within the jurisdictional area of an Oklahoma Indian tribe (as determined by the Secretary of the Interior) and are recognized by such Secretary as eligible for trust land status under 25 CFR Part 151 (as in effect on the date of the enactment of this sentence).
 
 #### (7) Coordination with nonrevenue laws
 
@@ -1639,7 +1639,7 @@ For purposes of this section—
 
 #### (i) Taxpayers previously electing acceleration
 
-&emsp;&emsp;&emsp;In the case of a taxpayer who made the election under subparagraph (A) for its first taxable year ending after March 31, 2008—
+&emsp;&emsp;&emsp;In the case of a taxpayer who made the election under subparagraph (A) for itsfirst taxable year ending after March 31, 2008—
 
 &emsp;&emsp;&emsp;&emsp;(I) the taxpayer may elect not to have this paragraph apply to extension property, but
 
@@ -1673,7 +1673,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) the taxpayer may elect not to have this paragraph apply to round 2 extension property, but
 
-&emsp;&emsp;&emsp;&emsp;(II) if the taxpayer does not make the election under subclause (I), in applying this paragraph to the taxpayer the bonus depreciation amount, maximum amount,and maximum increase amount shall be computed and applied to eligible qualified property which is round 2 extension property.
+&emsp;&emsp;&emsp;&emsp;(II) if the taxpayer does not make the election under subclause (I), in applying this paragraph to the taxpayer the bonus depreciation amount, maximum amount, and maximum increase amount shall be computed and applied to eligible qualified property which is round 2 extension property.
 
 &emsp;&emsp;&nbsp;The amounts described in subclause (II) shall be computed separately from any amounts computed with respect to eligible qualified property which is not round 2 extension property.
 
@@ -1803,7 +1803,7 @@ For purposes of this section—
 
 #### (C) Special rule for self-constructed property
 
-&emsp;&emsp;In the case of a taxpayer manufacturing, constructing, or producing property for the taxpayer's own use, the requirements of clause (iv) of subparagraph (A) shall be treated as met if the taxpayer begins manufacturing, constructing, or producing the property after August 31, 2008.
+&emsp;&emsp;In the case of a taxpayer manufacturing, constructing, or producing property for thetaxpayer's own use, the requirements of clause (iv) of subparagraph (A) shall be treated as met if the taxpayer begins manufacturing, constructing, or producing the property after August 31, 2008.
 
 #### (D) Deduction allowed in computing minimum tax
 
@@ -1895,7 +1895,7 @@ For purposes of this section—
 
 #### (ii) Alternative depreciation property
 
-&emsp;&emsp;&emsp;The term “qualified disaster assistance property” shall not include any property to which the alternative depreciation system under subsection (g) applies, determined without regard to paragraph (7) of subsection (g) (relating to election to have system apply).
+&emsp;&emsp;&emsp;The term “qualified disaster assistance property” shall not include any propertyto which the alternative depreciation system under subsection (g) applies, determined without regard to paragraph (7) of subsection (g) (relating to election to have system apply).
 
 #### (iii) Tax-exempt bond financed property
 
@@ -1945,9 +1945,9 @@ For purposes of this section—
 
 #### (4) Recapture
 
-&emsp;For purposes of this subsection, rules similar to the rules under section 179(d)(10) shallapply with respect to any qualified disaster assistance property which ceases to be qualified disaster assistance property.
+&emsp;For purposes of this subsection, rules similar to the rules under section 179(d)(10) shall apply with respect to any qualified disaster assistance property which ceases to be qualified disaster assistance property.
 
-(Added Pub. L. 97–34, title II, §201(a), Aug. 13, 1981, 95 Stat. 203; amended Pub. L. 97–248, title II, §§206, 208(a)(1), (2)(A), (b), 209(a), (b), 216(a), 224(c)(1), (2), Sept. 3, 1982, 96 Stat. 431, 432, 435, 442, 445, 470, 489; Pub. L. 97–354, §5(a)(19), (20), Oct. 19, 1982, 96 Stat. 1693, 1694; Pub. L. 97–424, title V, §541(a)(1), Jan. 6, 1983, 96 Stat. 2192; Pub. L. 97–448, title I, §102(a)(1)–(5), (8)–(10)(A), (f)(4), Jan. 12, 1983, 96 Stat. 2367, 2368, 2371; Pub. L. 98–369, div. A, title I, §§12(a)(3), 31(a), (d), 32(a), 111(a)–(e)(4), (9), 113(a)(2), (b)(1), (2)(A), title IV, §474(r)(7), title VI, §§612(e)(4), (5), 628(b), July 18, 1984, 98 Stat. 503, 509, 518, 530, 631–633, 636, 637, 840, 912, 931; Pub. L. 99–121, title I, §103(a), (b)(1)(A), (2)–(4), Oct. 11, 1985, 99 Stat. 509; Pub. L. 99–514, title II, §201(a), title XVIII, §§1802(a)(1)–(2)(E)(i), (G), (3), (4)(A), (B), (7), (b)(1), 1809(a)(1)–(2)(C)(i), (4)(A), (B), (b)(1), (2), Oct. 22, 1986, 100 Stat. 2121, 2786–2789, 2791, 2818–2821; Pub. L. 100–647, title I, §§1002(a)(5)–(8), (11), (16)(B), (21), (23)(A), (i)(2)(A)–(G), 1018(b)(2), title VI, §§6027(a), (b), 6028(a), 6029(a)–(c), 6253, Nov. 10, 1988, 102 Stat. 3353–3356, 3370, 3371, 3577, 3693, 3694, 3753; Pub. L. 101–239, title VII, §7816(e), (f), (w), Dec. 19, 1989, 103 Stat. 2421, 2423; Pub. L. 101–508, title XI, §§11801(c)(8)(B), 11812(b)(2), 11813(b)(9), Nov. 5, 1990, 104 Stat. 1388–524, 1388–534, 1388–552; Pub. L. 103–66, title XIII, §§13151(a), 13321(a), Aug. 10, 1993, 107 Stat. 448, 558; Pub. L. 104–88, title III, §304(a), Dec. 29, 1995, 109 Stat. 943; Pub. L. 104–188, title I, §§1120(a), (b), 1121(a), 1613(b)(1)–(4), 1702(h)(1), 1704(t)(54), Aug. 20, 1996, 110 Stat. 1765, 1766, 1850, 1873, 1890; Pub. L. 105–34, title X, §1086(b), title XII, §1213(c), title XVI, §1604(c)(1), Aug. 5, 1997, 111 Stat. 957, 1001, 1097; Pub. L. 105–206, title VI, §6006(b), July 22, 1998, 112 Stat. 806; Pub. L. 107–147, title I, §101(a), title VI, §613(b), Mar. 9, 2002, 116 Stat. 22, 61; Pub. L. 108–27, title II, §201(a)–(c)(1), May 28, 2003, 117 Stat. 756, 757; Pub. L. 108–311, title III, §316, title IV, §§403(a), 408(a)(6), (8), Oct. 4, 2004, 118 Stat. 1181, 1186, 1191; Pub. L. 108–357, title II, §211(a)–(e), title III, §§336(a), (b), 337(a), title VII, §§704(a), (b), 706(a)–(c), title VIII, §§847(a), (c)–(e), 901(a)–(c), Oct. 22, 2004, 118 Stat. 1429, 1430, 1479, 1480, 1548–1550, 1601, 1602, 1650; Pub. L. 109–58, title XIII, §§1301(f)(5), 1308(a), (b), 1325(a), (b), 1326(a)–(c), Aug. 8, 2005, 119 Stat. 990, 1006, 1016, 1017; Pub. L. 109–135, title IV, §§403(j), 405(a)(1), 410(a), 412(s), Dec. 21, 2005, 119 Stat. 2625, 2634, 2636, 2638; Pub. L. 109–432, div. A, title I, §§112(a), 113(a), title II, §209(a), Dec. 20, 2006, 120 Stat. 2940, 2946; Pub. L. 110–172, §11(b)(1), Dec. 29, 2007, 121 Stat. 2488; Pub. L. 110–185, title I, §103(a)–(c)(7), (11), (12), Feb. 13, 2008, 122 Stat. 618, 619; Pub. L. 110–234, title XV, §15344(a), May 22, 2008, 122 Stat. 1520; Pub. L. 110–246, §4(a), title XV, §15344(a), June 18, 2008, 122 Stat. 1664, 2282; Pub. L. 110–289, div. C, title III, §3081(a), July 30, 2008, 122 Stat. 2903; Pub. L. 110–343, div. B, title II, §201(a), (b), title III, §§306(a)–(c), 308(a), div. C, title III, §§305(a)(1), (b)(1), (c)(1)–(4), 315(a), 317(a), title V, §505(a), (b), title VII, §710(a), Oct. 3, 2008, 122 Stat. 3832, 3848, 3849, 3867, 3868, 3872, 3873, 3879, 3926; Pub. L. 111–5, div. B, title I, §1201(a)(1), (2)(A)–(D), (3)(A), (b)(1), Feb. 17, 2009, 123 Stat. 333, 334; Pub. L. 111–240, title II, §2022(a)–(b)(5), Sept. 27, 2010, 124 Stat. 2558; Pub. L. 111–312, title IV, §401(a)–(d)(5), title VII, §§737(a)–(b)(2), 738(a), 739(a), Dec. 17, 2010, 124 Stat. 3304–3306, 3318, 3319.)
+(Added Pub. L. 97–34, title II, §201(a), Aug. 13, 1981, 95 Stat. 203; amended Pub. L. 97–248, title II, §§206, 208(a)(1), (2)(A), (b), 209(a), (b), 216(a), 224(c)(1), (2), Sept. 3, 1982, 96 Stat. 431, 432, 435, 442, 445, 470, 489; Pub. L. 97–354, §5(a)(19), (20), Oct. 19, 1982, 96 Stat. 1693, 1694; Pub. L. 97–424, title V, §541(a)(1), Jan. 6, 1983, 96 Stat. 2192; Pub. L. 97–448, title I, §102(a)(1)–(5), (8)–(10)(A), (f)(4), Jan. 12, 1983, 96 Stat. 2367, 2368, 2371; Pub. L. 98–369, div. A, title I, §§12(a)(3), 31(a), (d), 32(a), 111(a)–(e)(4), (9), 113(a)(2), (b)(1), (2)(A), title IV, §474(r)(7), title VI, §§612(e)(4), (5), 628(b), July 18, 1984, 98 Stat. 503, 509, 518, 530, 631–633, 636, 637, 840, 912, 931; Pub. L. 99–121, title I, §103(a), (b)(1)(A), (2)–(4), Oct. 11, 1985, 99 Stat. 509; Pub. L. 99–514, title II, §201(a), title XVIII, §§1802(a)(1)–(2)(E)(i), (G), (3), (4)(A), (B), (7), (b)(1), 1809(a)(1)–(2)(C)(i), (4)(A), (B), (b)(1), (2), Oct. 22, 1986, 100 Stat. 2121, 2786–2789, 2791, 2818–2821; Pub. L. 100–647, title I, §§1002(a)(5)–(8), (11), (16)(B), (21), (23)(A), (i)(2)(A)–(G), 1018(b)(2), title VI, §§6027(a), (b), 6028(a), 6029(a)–(c), 6253, Nov. 10, 1988, 102 Stat. 3353–3356, 3370, 3371, 3577, 3693, 3694, 3753; Pub. L. 101–239, title VII, §7816(e), (f), (w), Dec. 19, 1989, 103 Stat. 2421, 2423; Pub. L. 101–508, title XI, §§11801(c)(8)(B), 11812(b)(2), 11813(b)(9), Nov. 5, 1990, 104 Stat. 1388–524, 1388–534, 1388–552; Pub. L. 103–66, title XIII, §§13151(a), 13321(a), Aug. 10, 1993, 107 Stat. 448, 558; Pub. L. 104–88, title III, §304(a), Dec. 29, 1995, 109 Stat. 943; Pub. L. 104–188, title I, §§1120(a), (b), 1121(a), 1613(b)(1)–(4), 1702(h)(1), 1704(t)(54), Aug. 20, 1996, 110 Stat. 1765, 1766, 1850, 1873, 1890; Pub. L. 105–34, title X, §1086(b), title XII, §1213(c), title XVI, §1604(c)(1), Aug. 5, 1997, 111 Stat. 957, 1001, 1097; Pub. L. 105–206, title VI, §6006(b), July 22, 1998, 112 Stat. 806; Pub. L. 107–147, title I, §101(a), title VI, §613(b), Mar. 9, 2002, 116 Stat. 22, 61; Pub. L. 108–27, title II, §201(a)–(c)(1), May 28, 2003, 117 Stat. 756, 757; Pub. L. 108–311, title III, §316, title IV, §§403(a), 408(a)(6), (8), Oct. 4, 2004, 118 Stat. 1181, 1186, 1191; Pub. L. 108–357, title II, §211(a)–(e), title III, §§336(a), (b), 337(a), title VII, §§704(a), (b), 706(a)–(c), title VIII, §§847(a), (c)–(e), 901(a)–(c), Oct. 22, 2004, 118 Stat. 1429, 1430, 1479, 1480, 1548–1550, 1601, 1602, 1650; Pub. L. 109–58, title XIII, §§1301(f)(5), 1308(a), (b), 1325(a), (b), 1326(a)–(c), Aug. 8, 2005, 119 Stat. 990, 1006, 1016, 1017; Pub. L. 109–135, title IV, §§403(j), 405(a)(1), 410(a), 412(s), Dec. 21, 2005, 119 Stat. 2625, 2634, 2636, 2638; Pub. L. 109–432, div. A, title I, §§112(a), 113(a), title II, §209(a), Dec. 20, 2006, 120 Stat. 2940, 2946; Pub. L. 110–172, §11(b)(1), Dec. 29, 2007, 121 Stat. 2488; Pub. L. 110–185, title I, §103(a)–(c)(7), (11), (12), Feb. 13, 2008, 122 Stat. 618, 619; Pub. L. 110–234, title XV, §15344(a), May 22, 2008, 122 Stat. 1520; Pub. L. 110–246, §4(a), title XV, §15344(a), June 18, 2008, 122 Stat. 1664, 2282; Pub. L. 110–289, div. C, title III, §3081(a), July 30, 2008, 122 Stat. 2903; Pub. L. 110–343, div. B, title II, §201(a), (b), title III, §§306(a)–(c), 308(a), div. C, title III, §§305(a)(1), (b)(1), (c)(1)–(4), 315(a), 317(a), title V, §505(a), (b), title VII, §710(a), Oct. 3, 2008, 122 Stat. 3832, 3848, 3849, 3867, 3868, 3872, 3873, 3879, 3926; Pub. L. 111–5, div. B, title I, §1201(a)(1), (2)(A)–(D), (3)(A), (b)(1), Feb. 17, 2009, 123 Stat. 333, 334; Pub. L. 111–240, title II,§2022(a)–(b)(5), Sept. 27, 2010, 124 Stat. 2558; Pub. L. 111–312, title IV, §401(a)–(d)(5), title VII, §§737(a)–(b)(2), 738(a), 739(a), Dec. 17, 2010, 124 Stat. 3304–3306, 3318, 3319.)
 
 #### References in Text
 
@@ -2335,7 +2335,7 @@ Subsec. (e)(3)(D)(i). Pub. L. 101–508, §11813(b)(9)(B)(i), substituted “sub
 
 Subsec. (f)(2). Pub. L. 101–508, §11812(b)(2)(C), substituted “subsection (i)(10)” for “section 167(<i>l</i>)(3)(A).”
 
-Subsec. (g)(4). Pub. L. 101–508, §11813(b)(9)(C), substituted heading for one which read: “Property used predominantly outside the United States” and amended text generally. Prior to amendment, text read as follows: “For purposes of this subsection, rules similar to the rules under section 48(a)(2) (including the exceptions contained in subparagraph (B) thereof) shall apply in determining whether property is used predominantly outside the United States. In addition to the exceptions contained in such subparagraph (B), there shall be excepted any satellite or other spacecraft (orany interest therein) held by a United States person if such satellite or spacecraft was launched from within the United States.”
+Subsec. (g)(4). Pub. L. 101–508, §11813(b)(9)(C), substituted heading for one which read: “Property used predominantly outside the United States” and amended text generally. Prior to amendment, text read as follows: “For purposes of this subsection, rules similar to the rules under section 48(a)(2) (including the exceptions contained in subparagraph (B) thereof) shall apply in determining whether property is used predominantly outside the United States. In addition to the exceptions contained in such subparagraph (B), there shall be excepted any satellite or other spacecraft (or any interest therein) held by a United States person if such satellite or spacecraft was launched from within the United States.”
 
 Subsec. (i)(1). Pub. L. 101–508, §11812(b)(2)(D), inserted at end “The reference in this paragraph to subsection (m) of section 167 shall be treated as a reference to such subsection as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990.”
 
@@ -2385,7 +2385,7 @@ Subsec. (e)(3)(B)(v). Pub. L. 100–647, §1002(a)(21), substituted “any secti
 
 Subsec. (e)(3)(C). Pub. L. 100–647, §6027(b)(1)(C), redesignated cl. (iii) as (ii), and struck out former cl. (ii) which read as follows: “any single-purpose agricultural or horticultural structure (within the meaning of section 48(p)), and”.
 
-Subsec. (e)(3)(D). Pub. L. 100–647, §6029(a), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “The term ‘10-year property’ includes any single purpose agricultural or horticultural structure (within the meaning of section 48(p)).”
+Subsec. (e)(3)(D). Pub. L. 100–647, §6029(a), amended subpar. (D) generally. Prior to amendment, subpar. (D)read as follows: “The term ‘10-year property’ includes any single purpose agricultural or horticultural structure (within the meaning of section 48(p)).”
 
 Pub. L. 100–647, §6027(a), added subpar. (D). Former subpar. (D) redesignated (E).
 
@@ -2437,7 +2437,7 @@ Special rule for railroad grading or tunnel bores.—In the case of any property
 
 Subsec. (i)(7)(A). Pub. L. 100–647, §1002(a)(7)(A), inserted at end “In any case where this section as in effect before the amendments made by section 201 of the Tax Reform Act of 1986 applied to the property in the hands of the transferor, the reference in the preceding sentence to this section shall be treated as a reference to this section as so in effect.”
 
-Subsec. (i)(7)(B). Pub. L. 100–647, §1002(a)(7)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “The transactions describedin this subparagraph are any transaction described in section 332, 351, 361, 371(a), 374(a), 721, or 731. Subparagraph (A) shall not apply in the case of a termination of a partnership under section 708(b)(1)(B).”
+Subsec. (i)(7)(B). Pub. L. 100–647, §1002(a)(7)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “The transactions described in this subparagraph are any transaction described in section 332, 351, 361, 371(a), 374(a), 721, or 731. Subparagraph (A) shall not apply in the case of a termination of a partnership under section 708(b)(1)(B).”
 
 Subsec. (i)(7)(D). Pub. L. 100–647, §1002(a)(7)(C), struck out subpar. (D) which read as follows: “This paragraph shall not apply to any transaction to which subsection (f)(5) applies (relating to churning transactions).”
 
@@ -2501,7 +2501,7 @@ Subsec. (j)(4)(E)(i). Pub. L. 99–514, §1802(a)(2)(A), (G), substituted “any
 
 Subsec. (j)(4)(E)(ii). Pub. L. 99–514, §1802(a)(2)(B), (C), struck out “of which such organization is the lessee” after “respect to any property” in subcl. (I) and substituted “is first used by the organization” for “is placed in service under the lease” in subcl. (II).
 
-Subsec. (j)(4)(E)(iv). Pub. L. 99–514, §1802(a)(2)(D), added cl. (iv), first used, which read as follows: “Forpurposes of this subparagraph, property shall be treated as first used by the organization—
+Subsec. (j)(4)(E)(iv). Pub. L. 99–514, §1802(a)(2)(D), added cl. (iv), first used, which read as follows: “For purposes of this subparagraph, property shall be treated as first used by the organization—
 
 &emsp;“(I) when the property is first placed in service under a lease to such organization, or
 
@@ -2633,7 +2633,7 @@ Subsec. (d)(2)(B). Pub. L. 97–448, §102(a)(2), substituted “paragraph (7) o
 
 Subsec. (e)(3)(C), (D). Pub. L. 97–424, §541(a)(1), added subpar. (C). Former subpar. (C) redesignated (D).
 
-Subsec. (e)(4)(D). Pub. L. 97–448, §102(a)(9)(A), inserted provision that, in the case of the acquisition of property by any partnership which results from the termination of another partnership under section 708(b)(1)(B), the determination of whether the acquiring partnership is related to the other partnership shall be made immediately before the event resulting in such termination occurs.
+Subsec. (e)(4)(D). Pub. L. 97–448, §102(a)(9)(A), inserted provision that, in the case of the acquisition of property by any partnership which results from the termination of another partnership under section 708(b)(1)(B), the determination of whether the acquiring partnership is related to the other partnership shall bemade immediately before the event resulting in such termination occurs.
 
 Subsec. (e)(4)(H), (I). Pub. L. 97–448, §102(a)(9)(B), added subpars. (H) and (I).
 
@@ -2753,7 +2753,7 @@ Pub. L. 110–343, div. C, title VII, §710(b), Oct. 3, 2008, 122 Stat. 3928, pr
 
 Pub. L. 110–289, div. C, title III, §3081(d), July 30, 2008, 122 Stat. 2907, provided that: “The amendments made by this section \[amending this section and section 1324 of Title 31, Money and Finance\] shall apply to taxable years ending after March 31, 2008.”
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set outas an Effective Date note under section 8701 of Title 7, Agriculture.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 Pub. L. 110–234, title XV, §15344(b), May 22, 2008, 122 Stat. 1520, and Pub. L. 110–246, §4(a), title XV, §15344(b), June 18, 2008, 122 Stat. 1664, 2282, provided that: “The amendment made by this section \[amending this section\] shall apply to property placed in service after December 31, 2008.”
 
@@ -2837,7 +2837,7 @@ Amendment by section 403(a) of Pub. L. 108–311 effective as if included in the
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–27, title II, §201(d), May 28, 2003, 117 Stat. 757, provided that: “The amendments made by this section \[amending this section and section 1400L of thistitle\] shall apply to taxable years ending after May 5, 2003.”
+Pub. L. 108–27, title II, §201(d), May 28, 2003, 117 Stat. 757, provided that: “The amendments made by this section \[amending this section and section 1400L of this title\] shall apply to taxable years ending after May 5, 2003.”
 
 #### Effective Date of 2002 Amendment
 
@@ -2913,7 +2913,7 @@ Section 6027(c) of Pub. L. 100–647 provided that:
 
 “(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending thissection\] shall apply to property placed in service after December 31, 1988.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to property placed in service after December 31, 1988.
 
 “(2)
 
@@ -3036,7 +3036,7 @@ Substitution of applicable dates.—If any provision of this Act \[see Tables fo
 
 &emsp;“(3)
 
-Property qualifies if sold and leased back in 3 months.—Property shall be treated as meetingthe requirements of paragraphs (1) and (2) or section 204(a) with respect to any taxpayer if such property is acquired by the taxpayer from a person—
+Property qualifies if sold and leased back in 3 months.—Property shall be treated as meeting the requirements of paragraphs (1) and (2) or section 204(a) with respect to any taxpayer if such property is acquired by the taxpayer from a person—
 
 &emsp;&emsp;“(A) in whose hands such property met the requirements of paragraphs (1) and (2) or section 204(a) (or would have met such requirements if placed in service by such person), or
 
@@ -3092,7 +3092,7 @@ Significant expenditures.—In the case of facilities the original use of which 
 
 &emsp;&emsp;“(C)
 
-Facilities.—In the case of an inducement resolution or other comparable preliminary approval adopted by an issuing authority before March 2, 1986, for purposes of subparagraphs (A) and (B)(ii) with respect to obligations described in such resolution, the term ‘facilities’ means the facilities described in such resolution.
+Facilities.—In the case of an inducement resolution or other comparable preliminary approval adopted by an issuing authority beforeMarch 2, 1986, for purposes of subparagraphs (A) and (B)(ii) with respect to obligations described in such resolution, the term ‘facilities’ means the facilities described in such resolution.
 
 &emsp;&emsp;“(D)
 
@@ -3490,7 +3490,7 @@ Wastewater or sewage treatment facility.—The amendments made by section 201 \[
 
 &emsp;&emsp;“(C) the property is part of a wastewater treatment facility serving Greenville, South Carolina with respect to which a binding service agreement between a privatizer and the Western Carolina Regional Sewer Authority with respect to such facility was signed before January 1, 1986; or
 
-&emsp;&emsp;“(D) such property is part of a wastewater treatment facility (located in Cameron County, Texas, within one mile of the City of Harlingen), an application for a wastewater discharge permit was filedwith respect to such facility on December 4, 1985, and a City Commission approved a letter of intent relating to a service agreement with respect to such facility on August 7, 1986; or a wastewater facility (located in Harlingen, Texas) which is a subject of such letter of intent and service agreement and the design of which was contracted for in a letter of intent dated January 23, 1986.
+&emsp;&emsp;“(D) such property is part of a wastewater treatment facility (located in Cameron County, Texas, within one mile of the City of Harlingen), an application for a wastewater discharge permit was filed with respect to such facility on December 4, 1985, and a City Commission approved a letter of intent relating to a service agreement with respect to such facility on August 7, 1986; or a wastewater facility (located in Harlingen, Texas) which is a subject of such letter of intent and service agreement and the design of which was contracted for in a letter of intent dated January 23, 1986.
 
 &emsp;“(11)
 
@@ -3578,7 +3578,7 @@ Certain coal-fired plants.—The amendments made by section 201 shall not apply 
 
 Certain rail systems.—
 
-&emsp;&emsp;“(A) The amendments made by section 201 shall not apply to a light rail transit system, the approximate cost of which is $235,000,000, if, with respectto which, the board of directors of a corporation (formed in September 1984 for the purpose of developing, financing, and operating the system) authorized a $300,000 expenditure for a feasibility study in April 1985.
+&emsp;&emsp;“(A) The amendments made by section 201 shall not apply to a light rail transit system, the approximate cost of which is $235,000,000, if, with respect to which, the board of directors of a corporation (formed in September 1984 for the purpose of developing, financing, and operating the system) authorized a $300,000 expenditure for a feasibility study in April 1985.
 
 &emsp;&emsp;“(B) The amendments made by section 201 shall not apply to any project for rehabilitation of regional railroad rights of way and properties including grade crossings which was authorized by the Board of Directors of such company prior to October 1985; and/or was modified, altered or enlarged as a result of termination of company contracts, but approved by said Board of Directors no later than January 30, 1986, and which is in the public interest, and which is subject to binding contracts or substantive commitments by December 31, 1987.
 
@@ -3652,7 +3652,7 @@ Certain economic development projects.—The amendments made by section 201 shal
 
 &emsp;&emsp;“(G) A commercial bank formed under the laws of the State of New York which entered into an agreement on September 5, 1985, to construct its headquarters at 60 Wall Street, New York, New York, with respect to such headquarters.
 
-&emsp;&emsp;“(H) Any property which is part of a commercial and residential project, the first phase of which is currently under construction, to be developed on land which is the subject of an ordinance passed onJuly 20, 1981, by the city council of the city in which such land is located, designating such land and the improvements to be placed thereon as a residential-business planned development, which development is being financed in part by the proceeds of industrial development bonds in the amount of $62,600,000 issued on December 4, 1985.
+&emsp;&emsp;“(H) Any property which is part of a commercial and residential project, the first phase of which is currently under construction, to be developed on land which is the subject of an ordinance passed on July 20, 1981, by the city council of the city in which such land is located, designating such land and the improvements to be placed thereon as a residential-business planned development, which development is being financed in part by the proceeds of industrial development bonds in the amount of $62,600,000 issued on December 4, 1985.
 
 &emsp;&emsp;“(I) A 600,000 square foot mixed use building known as Flushing Center with respect to which a letter of intent was executed on March 26, 1986.
 
@@ -3686,7 +3686,7 @@ Certain economic development projects.—The amendments made by section 201 shal
 
 &emsp;&emsp;“(E) $5,000,000 of equipment ordered in 1986, in connection with a 60,000 square foot plant in Masontown, Pennsylvania, that was completed in 1983,
 
-&emsp;&emsp;“(F) a magnetic resonance imaging machine, with respect to which a binding contract to purchase was entered into in April 1986, in connection with the construction of a magnetic resonance imaging clinic with respect to which a Determination of Need certification was obtained from a State Department of Public Health on October 22, 1985, if such property is placed in service before December 31, 1986,
+&emsp;&emsp;“(F) a magnetic resonance imaging machine, with respect to which a binding contract to purchase wasentered into in April 1986, in connection with the construction of a magnetic resonance imaging clinic with respect to which a Determination of Need certification was obtained from a State Department of Public Health on October 22, 1985, if such property is placed in service before December 31, 1986,
 
 &emsp;&emsp;“(G) a company located in Salina, Kansas, which has been engaged in the construction of highways and city streets since 1946, but only to the extent of $1,410,000 of investment in new section 38 property,
 
@@ -3770,7 +3770,7 @@ Certain trucks, etc.—The amendments made by section 201 shall not apply to tru
 
 &emsp;&emsp;“(D) construction is completed, the equipment is installed, and operations are commenced before July 1, 1987.
 
-&emsp;“(35) The amendments made by section 201 shall not apply to any property which is part of the multifamily housing at the Columbia Point Project in Boston, Massachusetts. A project shall be treated as not described in the preceding sentence and as not described in section 252(f)(1)(D) \[set out as a note under section 42 of this title\] unless such project includes at substantially all times throughout the compliance period (within the meaning of section 42(i)(1) of the Internal Revenue Code of 1986), a facility which provides health services to the residents of such project for fees commensurate with the ability of such individuals to pay for such services.
+&emsp;“(35) The amendments made by section 201 shall not apply to any property which is part of the multifamily housing at the Columbia Point Project in Boston, Massachusetts. A project shall be treated as not described in the preceding sentence and as not describedin section 252(f)(1)(D) \[set out as a note under section 42 of this title\] unless such project includes at substantially all times throughout the compliance period (within the meaning of section 42(i)(1) of the Internal Revenue Code of 1986), a facility which provides health services to the residents of such project for fees commensurate with the ability of such individuals to pay for such services.
 
 &emsp;“(36) The amendments made by section 201 shall not apply to any ethanol facility located in Blair, Nebraska, if—
 
@@ -3804,7 +3804,7 @@ Certain trucks, etc.—The amendments made by section 201 shall not apply to tru
 
 “(b)
 
-Special Rule for Certain Property.—The provisions of section 168(f)(8) of the Internal Revenue Code of 1954 (as amended by section 209 of the Tax Equity and Fiscal Responsibility Act of 1982) shall continue to apply to any transaction permitted by reason of section 12(c)(2) of the Tax Reform Act of 1984 or section 209(d)(1)(B) of the Tax Equity and Fiscal Responsibility Act of 1982 (as amended by the Tax Reform Act of 1984)\[section 12(c)(2) of Pub. L. 98–369 and section 209(d)(1)(B) of Pub. L. 97–248, respectively, set out below\].
+Special Rule for Certain Property.—The provisions of section 168(f)(8) of the Internal Revenue Code of 1954 (as amended by section 209 of the Tax Equity and Fiscal Responsibility Act of 1982) shall continue to apply to any transaction permitted by reason of section 12(c)(2) of the Tax Reform Act of 1984 or section 209(d)(1)(B) of the Tax Equity and Fiscal Responsibility Act of 1982 (as amended by the Tax Reform Act of 1984) \[section 12(c)(2) of Pub. L. 98–369 and section 209(d)(1)(B) of Pub. L. 97–248, respectively, set out below\].
 
 “(c)
 
@@ -4046,7 +4046,7 @@ Mass commuting vehicles.—The amendments made by this section shall not apply t
 
 “(6)
 
-Certain turbines and boilers.—The amendments made by this section shall not apply to any property described in section 208(d)(3)(E) of the Tax Equity and Fiscal Responsibility Act of 1982 \[section 208(d)(3)(E) of Pub. L. 97–248, set out as an Effective Date of 1982 Amendments note below\].
+Certain turbines and boilers.—The amendments made by this section shall not apply to any property described in section 208(d)(3)(E) of the Tax Equity and Fiscal Responsibility Act of 1982 \[section208(d)(3)(E) of Pub. L. 97–248, set out as an Effective Date of 1982 Amendments note below\].
 
 “(7)
 
@@ -4394,7 +4394,7 @@ Leases and subleases.—The determination of whether there is a lease or subleas
 
 &emsp;“(II) the taxpayer or the tax-exempt entity began the construction, reconstruction, or rehabilitation of the property on or before March 28, 1985.”\]
 
-Section 32(c) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, title XVIII, §1802(b)(2), Oct. 22, 1986, 100 Stat. 2095, 2791, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to agreements described in section 168(f)(14) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (a)) entered into more than 90 days after the date of the enactment of this Act \[July 18, 1984\].”
+Section 32(c) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, title XVIII, §1802(b)(2), Oct. 22, 1986, 100 Stat. 2095, 2791, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply toagreements described in section 168(f)(14) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (a)) entered into more than 90 days after the date of the enactment of this Act \[July 18, 1984\].”
 
 Section 111(g) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
@@ -4454,7 +4454,7 @@ Section 113(c)(2) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct.
 
 “(A) The amendments made by paragraphs (1) of subsection (b) \[amending this section\] shall apply to any motion picture film or video tape placed in service before, on, or after the date of the enactment of this Act \[July 18, 1984\], except that such amendment shall not apply to—
 
-&emsp;“(i) any qualified film placed in service by the taxpayer before March 15, 1984, if the taxpayer treated such film as recovery property for purposes of section168 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] on a return of tax under chapter 1 of such Code filed before March 16, 1984, or
+&emsp;“(i) any qualified film placed in service by the taxpayer before March 15, 1984, if the taxpayer treated such film as recovery property for purposes of section 168 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] on a return of tax under chapter 1 of such Code filed before March 16, 1984, or
 
 &emsp;“(ii) any qualified film placed in service by the taxpayer before January 1, 1985, if—
 
@@ -4660,7 +4660,7 @@ Subsection (a).—
 
 &emsp;“(A)
 
-In general.—Except as provided in subparagraph (B) and paragraph (2), the amendments madeby this section \[amending this section and section 48 of this title\] shall apply to agreements entered into after December 31, 1987.
+In general.—Except as provided in subparagraph (B) and paragraph (2), the amendments made by this section \[amending this section and section 48 of this title\] shall apply to agreements entered into after December 31, 1987.
 
 &emsp;“(B)
 
@@ -4748,7 +4748,7 @@ Special Rule for Carryovers.—
 
 &emsp;“(3)
 
-Carryover must have been alive in 1981.—The amendments made by subsections (a), (b), and (c) ofsection 207 \[amending sections 44E, 46, 50A, 53, 172, 812, and 825 of this title\] shall not apply to any amount which, under the law in effect on the day before the date of the enactment of this Act \[Aug. 13, 1981\], could not be carried to a taxable year ending in 1981.”
+Carryover must have been alive in 1981.—The amendments made by subsections (a), (b), and (c) of section 207 \[amending sections 44E, 46, 50A, 53, 172, 812, and 825 of this title\] shall not apply to any amount which, under the law in effect on the day before the date of the enactment of this Act \[Aug. 13, 1981\], could not be carried to a taxable year ending in 1981.”
 
 #### Savings Provision
 
@@ -4878,7 +4878,7 @@ Section 210 of Pub. L. 97–248, as amended by Pub. L. 98–369, div. A, title I
 
 “(a)
 
-In general.—In the case of any qualified motor vehicle agreement entered into on or before the 90th day after the date of the enactment of the Tax Reform Act of 1984 \[July 18, 1984\], the fact that such agreement contains a terminal rental adjustment clause shall not be taken into account in determining whether such agreement is a lease.
+In general.—In the case of any qualified motor vehicle agreement entered into on or before the 90th day after the date of the enactment of the Tax Reform Act of 1984 \[July 18, 1984\], the fact that such agreement contains a terminal rental adjustment clause shall notbe taken into account in determining whether such agreement is a lease.
 
 “(b)
 
@@ -4982,7 +4982,7 @@ Coordination With Other Information Requirements.—In the case of agreements ex
 
 #### Regulated Public Utilities; Special Transitional Rule for Normalization Requirements
 
-Section 209(d)(1) of Pub. L. 97–34, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “If, by the terms of the applicable rate order last entered before the date of the enactment of this Act \[Aug. 13, 1981\] by a regulatory commission having appropriate jurisdiction, a regulated public utility would (but for this provision) fail to meet the requirements of section 168(e)(3) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] with respect to property because, for an accounting period ending after December 31, 1980, such public utility used a method of accounting other than a normalization method of accounting, such regulated public utility shall not fail to meet such requirements if, by the terms of its first rate order determining cost of service with respect to such property which becomes effective after the date of the enactment of this Act and on or before January 1, 1983, such regulated public utility uses a normalization method of accounting. This provision shall not apply to any rate order which, under the rules in effect before the date of the enactment of this Act, required a regulated public utility to use a method of accounting with respect to the deduction allowable by section 167 which, under section 167(<i>l</i>), it was not permitted to use.”
+Section 209(d)(1) of Pub. L. 97–34, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “If, by the terms of the applicable rate order last entered before the date of the enactment of this Act \[Aug. 13, 1981\] by a regulatory commission having appropriate jurisdiction, a regulated public utility would (but for this provision) fail to meet the requirements of section 168(e)(3) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] with respect to property because, for an accounting period ending after December 31, 1980, such public utility used a method of accounting other than a normalization method of accounting, such regulated public utility shall not fail to meet such requirements if, by the terms of its first rate order determining cost of service with respect to such property which becomes effective after the date of the enactment of this Act and on or before January 1, 1983, such regulated public utility uses a normalization method of accounting. This provision shall not apply to any rate order which, under the rules in effect before the date of the enactment of this Act, required a regulated public utility touse a method of accounting with respect to the deduction allowable by section 167 which, under section 167(<i>l</i>), it was not permitted to use.”
 
 #### Interim Regulations With Respect to Normalization; Authority To Prescribe
 

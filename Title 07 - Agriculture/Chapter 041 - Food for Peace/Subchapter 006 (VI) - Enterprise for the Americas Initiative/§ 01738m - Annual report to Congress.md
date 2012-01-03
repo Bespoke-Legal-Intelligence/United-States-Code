@@ -20,9 +20,9 @@ No later than December 15 of each fiscal year, each member of the Board shall be
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–532 inserted at end “This report shall include—” and pars. (1) to (4).
+<b>1992</b>—Subsec. (a). Pub. L. 102–532 inserted at end “This report shall include—” and pars. (1) to (4).
 
-1991—Pub. L. 102–237 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>1991</b>—Pub. L. 102–237 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 #### Termination of Reporting Requirements
 

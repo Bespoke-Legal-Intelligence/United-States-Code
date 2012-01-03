@@ -6,7 +6,7 @@ The United States Governor of the Fund may consent to an increase in the quota o
 
 #### (b) Subject to appropriations
 
-The authority provided by subsection (a) shall be effective only to such extent or in such amounts as are provided in advance in appropriations Acts.
+The authority provided by subsection (a) shall be effective only to such extent or in suchamounts as are provided in advance in appropriations Acts.
 
 (July 31, 1945, ch. 339, §65, as added Pub. L. 111–32, title XIV, §1402, June 24, 2009, 123 Stat. 1918.)
 

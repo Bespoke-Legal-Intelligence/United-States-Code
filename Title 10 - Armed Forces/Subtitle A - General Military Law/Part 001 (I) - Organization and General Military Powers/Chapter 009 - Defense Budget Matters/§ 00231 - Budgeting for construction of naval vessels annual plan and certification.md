@@ -1,0 +1,48 @@
+### §231. Budgeting for construction of naval vessels: annual plan and certification
+
+(a)
+
+Annual Naval Vessel Construction Plan and Certification.—The Secretary of Defense shall include with the defense budget materials for a fiscal year—
+
+&emsp;(1) a plan for the construction of combatant and support vessels for the Navy developed in accordance with this section; and
+
+&emsp;(2) a certification by the Secretary that both the budget for that fiscal year and the future-years defense program submitted to Congress in relation to such budget under section 221 of this title provide for funding of the construction of naval vessels at a level that is sufficient for the procurement of the vessels provided for in the plan under paragraph (1) on the schedule provided in that plan.
+
+(b)
+
+Annual Naval Vessel Construction Plan.—(1) The annual naval vessel construction plan developed for a fiscal year for purposes of subsection (a)(1) should be designed so that the naval vessel force provided for under that plan is capable of supporting the national security strategy of the United States as set forth in the most recent national security strategy report of the President under section 108 of the National Security Act of 1947 (50 U.S.C. 404a), except that, if at the time such plan is submitted with the defense budget materials for that fiscal year, a national security strategy report required under such section 108 has not been submitted to Congress as required by paragraph (2) or paragraph (3), if applicable, of subsection (a) of such section, then such annual plan should be designed so that the naval vessel force provided for under that plan is capable of supporting the ship force structure recommended in the report of the most recent quadrennial defense review.
+
+(2) Each such naval vessel construction plan shall include the following:
+
+&emsp;(A) A detailed program for the construction of combatant and support vessels for the Navy over the next 30 fiscal years.
+
+&emsp;(B) A description of the necessary naval vessel force structure to meet the requirements of the national security strategy of the United States or the most recent quadrennial defense review, whichever is applicable under paragraph (1).
+
+&emsp;(C) The estimated levels of annual funding necessary to carry out the program, together with a discussion of the procurement strategies on which such estimated levels of annual funding are based.
+
+(c)
+
+Assessment When Vessel Construction Budget Is Insufficient to Meet Applicable Requirements.—If the budget for a fiscal year provides for funding of the construction of naval vessels at a level that is not sufficient to sustain the naval vessel force structure specified in the naval vessel construction plan for that fiscal year under subsection (a), the Secretary shall include with the defense budget materials for that fiscal year an assessment that describes and discusses the risks associated with the reduced force structure of naval vessels that will result from funding naval vessel construction at such level. Such assessment shall be coordinated in advance with the commanders of the combatant commands.
+
+(d)
+
+CBO Evaluation.—Not later than 60 days after the date on which the congressional defense committees receive the plan under subsection (a)(1), the Director of the Congressional Budget Office shall submit to such committees a report assessing the sufficiency of the estimated levels of annual funding included in such plan with respect to the budget submitted during the year in which the plan is submitted and the future-years defense program submitted under section 221 of this title.
+
+(e)
+
+Definitions.—In this section:
+
+&emsp;(1) The term “budget”, with respect to a fiscal year, means the budget for that fiscal year that is submitted to Congress by the President under section 1105(a) of title 31.
+
+&emsp;(2) The term “defense budget materials”, with respect to a fiscal year, means the materials submitted to Congress by the Secretary of Defense in support of the budget for that fiscal year.
+
+&emsp;(3) The term “quadrennial defense review” means the review of the defense programs and policies of the United States that is carried out every four years under section 118 of this title.
+
+(Added Pub. L. 107–314, div. A, title X, §1022(a)(1), Dec. 2, 2002, 116 Stat. 2639; amended Pub. L. 111–383, div. A, title X, §1023(a), Jan. 7,2011, 124 Stat. 4349; Pub. L. 112–81, div. A, title X, §1011(a), Dec. 31, 2011, 125 Stat. 1558.)
+
+#### Amendments
+
+<b>2011</b>—Pub. L. 112–81 amended section generally. Prior to amendment, section related to submission of a long-range plan for construction of combatant and support naval vessels that supports the force structure recommendations of a quadrennial defense review.
+
+Pub. L. 111–383 amended section generally. Prior to amendment, section related to submission of an annual plan for construction of naval vessels and certification that the budget for the current fiscal year and the future-years defense program is sufficient for procurement of vessels provided for in the plan.
+

@@ -8,9 +8,9 @@
 
 #### Amendments
 
-1989—Pub. L. 101–194 amended section generally. Prior to amendment, section read as follows: “The President shall include, in the budget next transmitted under section 1105(a) of title 31 by him to the Congress after the date of the submission of the report and recommendations of the Commission under section 357 of this title, his recommendations with respect to the exact rates of pay which he deems advisable, for those offices and positions within the purview of subparagraphs (A), (B), (C), and (D) of section 356 of this title.”
+<b>1989</b>—Pub. L. 101–194 amended section generally. Prior to amendment, section read as follows: “The President shall include, in the budget next transmitted under section 1105(a) of title 31 by him to the Congress after the date of the submission of the report and recommendations of the Commission under section 357 of this title, his recommendations with respect to the exact rates of pay which he deems advisable, for those offices and positions within the purview of subparagraphs (A), (B), (C), and (D) of section 356 of this title.”
 
-1985—Pub. L. 99–190 inserted reference to section 1105(a) of title 31, and struck out last sentence defining “budget”.
+<b>1985</b>—Pub. L. 99–190 inserted reference to section 1105(a) of title 31, and struck out last sentence defining “budget”.
 
 #### Commission's First Report After July 30, 1983, To Include Recommendation for Appropriate Salary for Members of Congress; Prohibition on Receipt of Honoraria
 
@@ -32,7 +32,7 @@ As required by section 225 of the Federal Salary Act of 1967, Public Law 90–20
 
 The statute requires that, in the budget next submitted after receipt of the report of the Commission, I set forth recommendations for adjustment of these salaries. Pursuant to section 225(i), as amended by section 135 of Public Law 99–190 \[2 U.S.C. 359\], these recommendations will be effective unless Congress disapproves the recommendation by a joint resolution within 30 days following the transmittal of my budget.
 
-The Commission's report, submitted to me on December 14, 1988, documented both the substantial erosion in the real level of Federal executive pay that has occurred since 1969 and the recruitment and retention problems that have resulted, especially for the Federaljudiciary. The Commission is to be commended for its diligent and conscientious effort to address the complicated and complex problems associated with Federal pay levels.
+The Commission's report, submitted to me on December 14, 1988, documented both the substantial erosion in the real level of Federal executive pay that has occurred since 1969 and the recruitment and retention problems that have resulted, especially for the Federal judiciary. The Commission is to be commended for its diligent and conscientious effort to address the complicated and complex problems associated with Federal pay levels.
 
 The Commission found that Federal executives and legislators have experienced a decline of approximately 35 percent in real salaries since 1969. In contrast, the salaries of General Schedule employees have declined by only 8 percent over the same period. The Commission's recommendations go a long way towards compensating for this salary erosion, but they do not make up the full gap. For example, for an official at Executive Level II, which is also the Congressional salary rate, the salary level adjusted for inflation since 1969 would be $140,340, while the Commission's recommendation is $135,000.
 

@@ -8,7 +8,7 @@
 
 #### (2) Appropriations requirement
 
-&emsp;The authority provided by this section may be exercised only in such amounts or to such extent as is provided in advance by appropriations Acts.
+&emsp;The authority provided by this section may be exercised only in such amounts or to suchextent as is provided in advance by appropriations Acts.
 
 #### (3) Certain prohibitions inapplicable
 

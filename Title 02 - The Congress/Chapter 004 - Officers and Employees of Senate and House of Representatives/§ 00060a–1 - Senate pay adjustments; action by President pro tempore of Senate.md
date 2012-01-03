@@ -28,19 +28,19 @@ Section 3(c) of this Act, referred to in subsec. (a), is section 3(c) of Pub. L.
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–554, §1(a)(2) \[title I, §2(1)\], in introductory provisions, inserted “(or section 5304 or 5304a of such title, as applied to employees employed in the pay locality of the Washington, D.C.-Baltimore, Maryland consolidated metropolitan statistical area)” after “employees under section 5303 of title 5” and in concluding provisions, inserted “(and, as the case may be, section 5304 or 5304a of such title, as applied to employees employed in the pay locality of the Washington, D.C.-Baltimore, Maryland consolidated metropolitan statistical area)” after “the President under such section 5303”.
+<b>2000</b>—Subsec. (a). Pub. L. 106–554, §1(a)(2) \[title I, §2(1)\], in introductory provisions, inserted “(or section 5304 or 5304a of such title, as applied to employees employed in the pay locality of the Washington, D.C.-Baltimore, Maryland consolidated metropolitan statistical area)” after “employees under section 5303 of title 5” and in concluding provisions, inserted “(and, as the case may be, section 5304 or 5304a of such title, as applied to employees employed in the pay locality of the Washington, D.C.-Baltimore, Maryland consolidated metropolitan statistical area)” after “the President under such section 5303”.
 
 Subsecs. (e), (f). Pub. L. 106–554, §1(a)(2) \[title I, §2(2), (3)\], added subsec. (e) and redesignated former subsec. (e) as (f).
 
-1990—Subsec. (a). Pub. L. 101–509 substituted “5303” for “5305” wherever appearing.
+<b>1990</b>—Subsec. (a). Pub. L. 101–509 substituted “5303” for “5305” wherever appearing.
 
-1987—Subsec. (a). Pub. L. 100–202, §101(i) \[title III, §311(a)\], inserted requirement that rates of personnel be adjusted by such amounts as necessary to restore same pay relationships that existed on Dec. 31, 1986, between personnel and Senators and between positions.
+<b>1987</b>—Subsec. (a). Pub. L. 100–202, §101(i) \[title III, §311(a)\], inserted requirement that rates of personnel be adjusted by such amounts as necessary to restore same pay relationships that existed on Dec. 31, 1986, between personnel and Senators and between positions.
 
 Subsec. (d). Pub. L. 100–202, §101(i) \[title III, §311(b)\], inserted exception for cases in which it is necessary to restore and maintain same pay relationships that existed on Dec. 31, 1986, between personnel and Senators and between positions.
 
-1975—Subsec. (d). Pub. L. 94–82 substituted “level III” for “level V”, and “section 5314 of title 5” for “section 5316 of title 5.”
+<b>1975</b>—Subsec. (d). Pub. L. 94–82 substituted “level III” for “level V”, and “section 5314 of title 5” for “section 5316 of title 5.”
 
-1972—Subsec. (a). Pub. L. 92–298 and Pub. L. 92–392 made identical amendments by substituting “first day of the month in which any adjustment becomes effective” for “first day of the first pay period which begins on or after the day on which any adjustment becomes effective” in last sentence.
+<b>1972</b>—Subsec. (a). Pub. L. 92–298 and Pub. L. 92–392 made identical amendments by substituting “first day of the month in which any adjustment becomes effective” for “first day of the first pay period which begins on or after the day on which any adjustment becomes effective” in last sentence.
 
 #### Effective Date of 1990 Amendment
 
@@ -52,11 +52,11 @@ Section 101(i) \[title III, §311(c)\] of Pub. L. 100–202 provided that: “No
 
 #### Effective Date of 1972 Amendment
 
-Amendment by Pub. L. 92–392 effective on first day of first applicable pay period beginning on or after 90thday after Aug. 19, 1972, see section 15(a) of Pub. L. 92–392, set out as an Effective Date note under section 5341 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 92–392 effective on first day of first applicable pay period beginning on or after 90th day after Aug. 19, 1972, see section 15(a) of Pub. L. 92–392, set out as an Effective Date note under section 5341 of Title 5, Government Organization and Employees.
 
 #### Order of the President Pro Tempore of the United States Senate
 
-I74January 5, 2010
+#### January 5, 2010
 
 By virtue of the authority vested in me by section 4 of the Federal Pay Comparability Act of 1970 (2 U.S.C. 60a–1) in order—
 
@@ -114,7 +114,7 @@ Sec. 4. (a) The following individuals are authorized to increase the annual rate
 
 &emsp;(13) The appointing authority of any Senate entity not referred to under paragraphs (1) through (12) for any employee under its jurisdiction.
 
-(b) Except for those officers and employees referred to in section 2 of this Order, no officer or employee within the Office of the Secretary of the Senate and no officer or employee within the Office of the Sergeant at Arms and Doorkeeper shall, for any period of time, be paid gross compensation at an annual rate which is in excess of the maximum prescribed in section 105(f) of the Legislative Branch Appropriation Act, 1968 (2 U.S.C. 61–1(f)) (as such rate is adjusted in section 7(b) of this order).
+(b) Except for those officers and employees referred to in section 2 of this Order, no officer or employee within the Office of the Secretary of the Senate and no officer or employee within the Office of the Sergeant at Arms and Doorkeeper shall, for any period of time, be paid gross compensation at an annual rate which is in excess of the maximum prescribed in section 105(f) of the Legislative Branch Appropriation Act, 1968 (2U.S.C. 61–1(f)) (as such rate is adjusted in section 7(b) of this order).
 
 #### committee staffs
 
@@ -296,7 +296,7 @@ Pub. L. 85–462, §4(c), (d), June 20, 1958, 72 Stat. 208, provided that:
 
 “(d) The paragraph imposing limitations on basic and gross compensation of officers and employees of the Senate appearing under the heading ‘SENATE’ in the Legislative Appropriation Act, 1956 (69 Stat. 510; Public Law 242, Eighty-fourth Congress), is amended to read as follows:
 
-“ ‘No officer or employee, whose compensation is disbursed by the Secretary of the Senate shall be paid basic compensation at a rate in excess of $8,880 per annum, or gross compensation at a rate in excess of $16,300 per annum, unless expressly authorized by law.’ ” \[Prior to this amendment “$8,880” and “$16,300” were, respectively, “$8,820” and “$14,800” per annum.\] \[The paragraph in the Legislative Appropriation Act, 1956, referred to above, was repealed by Pub. L. 90–57, §105(i) (3), July 28, 1967, 81 Stat. 144, eff. Aug. 1, 1967.\]
+“ ‘No officer or employee, whose compensation is disbursed by the Secretary of the Senate shall be paid basic compensation at a rate in excess of $8,880 perannum, or gross compensation at a rate in excess of $16,300 per annum, unless expressly authorized by law.’ ” \[Prior to this amendment “$8,880” and “$16,300” were, respectively, “$8,820” and “$14,800” per annum.\] \[The paragraph in the Legislative Appropriation Act, 1956, referred to above, was repealed by Pub. L. 90–57, §105(i) (3), July 28, 1967, 81 Stat. 144, eff. Aug. 1, 1967.\]
 
 #### Increase in Compensation of Officers of Senate and House—1955
 
@@ -308,5 +308,5 @@ Act Oct. 24, 1951, ch. 554, §2(e), 65 Stat. 614, provided that: “The rates of
 
 #### Increase in Compensation of Officers of Senate and House—1949
 
-Act Oct. 28, 1949, ch. 783, title I, §101(d), 63 Stat. 974, provided that: “The rates of basic compensation of eachof the elected officers of the Senate and the House of Representatives (not including the presiding officers of the two Houses) are hereby increased by 5 per centum.”
+Act Oct. 28, 1949, ch. 783, title I, §101(d), 63 Stat. 974, provided that: “The rates of basic compensation of each of the elected officers of the Senate and the House of Representatives (not including the presiding officers of the two Houses) are hereby increased by 5 per centum.”
 

@@ -26,7 +26,7 @@ A State may elect to offer a premium assistance subsidy (as defined in subsectio
 
 #### (3) Treatment as third party liability
 
-&emsp;The State shall treat the coverage provided under qualified employer-sponsored coverageas a third party liability under section 1396a(a)(25) of this title.
+&emsp;The State shall treat the coverage provided under qualified employer-sponsored coverage as a third party liability under section 1396a(a)(25) of this title.
 
 #### (c) Premium assistance subsidy
 
@@ -54,7 +54,7 @@ In the case of the participation of an individual under age 19 (or the individua
 
 #### Amendment of Section
 
-<i>Pub. L. 111–148, title II, §2003, title X, §10203(b)(2)(B), Mar. 23, 2010, 124 Stat. 282, 283, 927, provided that, effective Jan. 1, 2014, this section is amended:</i>
+<i>Pub. L. 111–148, title II, §2003, title X, §10203(b)(2)(B), Mar. 23, 2010, 124 Stat. 282, 927, provided that, effective Jan. 1, 2014, this section is amended:</i>
 
 <i>(1) in the section catchline, by striking “option for children”;</i>
 
@@ -80,6 +80,8 @@ In the case of the participation of an individual under age 19 (or the individua
 
 <i>(5) in subsection (e), by striking “under age 19” each place it appears.</i>
 
+<i>See 2010 Amendment notes below.</i>
+
 #### References in Text
 
 Section 2701 of the Public Health Service Act, referred to in subsec. (b)(1)(A), is section 2701 of act July 1, 1944, which was classified to section 300gg of this title, was renumbered section 2704, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by Pub. L. 111–148, title I, §§1201(2), 1563(c)(1), formerly §1562(c)(1), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911, and was transferred to section 300gg–3 of this title. A new section 2701 of act July 1, 1944, related to fair health insurance premiums, was added, effective for plan years beginning on or after Jan. 1, 2014, and amended, by Pub. L. 111–148, title I, §1201(4), title X, §10103(a), Mar. 23, 2010, 124 Stat. 155, 892, and is classified to section 300gg of this title.
@@ -88,7 +90,21 @@ The Internal Revenue Code of 1986, referred to in subsec. (b)(1)(C), (2), is cla
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–148, §10203(b)(2)(A), inserted “and the offering of such a subsidy is cost-effective, as defined for purposes of section 1397ee(c)(3)(A) of this title” before period at end.
+<b>2010</b>—Pub. L. 111–148, §2003(b), struck out “option for children” after “assistance” in section catchline.
+
+Subsec. (a). Pub. L. 111–148, §10203(b)(2)(A), inserted “and the offering of such a subsidy is cost-effective, as defined for purposes of section 1397ee(c)(3)(A) of this title” before period at end.
+
+Pub. L. 111–148, §2003(a)(1)(B), (C), struck out “under age 19” after “all individuals” and inserted “, in the case of an individual under age 19,” after “(and”.
+
+Pub. L. 111–148, §2003(a)(1)(A), which directed substitution of “shall” for “may elect to”, was not executed because of Pub. L. 111–148, §10203(b)(2)(B), set out as a note under this section.
+
+Subsec. (c). Pub. L. 111–148, §2003(a)(2), struck out “under age 19” after “by the individual”.
+
+Subsec. (d)(2). Pub. L. 111–148, §2003(a)(3)(A), struck out “under age 19” after “to an individual” and substituted “A State may not require, as a condition of an individual (or the individual's parent) being or remaining eligible for medical assistance under this subchapter, that the individual (or the individual's parent) apply for enrollment in qualified employer-sponsored coverage under this section.” for “State may not require, as a condition of an individual under age 19 (or the individual's parent) being or remaining eligible for medical assistance under this subchapter, apply for enrollment in qualified employer-sponsored coverage under this section.”
+
+Subsec. (d)(3). Pub. L. 111–148, §2003(a)(3)(B), substituted “an individual (or the parent of an individual)” for “the parent of an individual under age 19”.
+
+Subsec. (e). Pub. L. 111–148, §2003(a)(4), struck out “under age 19” after “an individual” in two places.
 
 #### Effective Date of 2010 Amendment
 
@@ -98,7 +114,7 @@ Pub. L. 111–148, title X, §10203(b), Mar. 23, 2010, 124 Stat. 927, provided t
 
 #### Effective Date
 
-Section effective Apr. 1, 2009, and applicable to child health assistance and medical assistance provided on orafter that date, with certain exceptions, see section 3 of Pub. L. 111–3, set out as a note under section 1396 of this title.
+Section effective Apr. 1, 2009, and applicable to child health assistance and medical assistance provided on or after that date, with certain exceptions, see section 3 of Pub. L. 111–3, set out as a note under section 1396 of this title.
 
 #### Effect of Certain Amendment by Pub. L. 111–148
 

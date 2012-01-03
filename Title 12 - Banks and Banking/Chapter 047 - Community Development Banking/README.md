@@ -17,11 +17,13 @@
 | [4711\.](Subchapter%20001%20%28I%29%20-%20Community%20Development%20Banking%20and%20Financial%20Institutions/%C2%A7%2004711%20-%20Investment%20of%20receipts%20and%20proceeds.md) | Investment of receipts and proceeds. |
 | [4712\.](Subchapter%20001%20%28I%29%20-%20Community%20Development%20Banking%20and%20Financial%20Institutions/%C2%A7%2004712%20-%20Capitalization%20assistance%20to%20enhance%20liquidity.md) | Capitalization assistance to enhance liquidity. |
 | [4713\.](Subchapter%20001%20%28I%29%20-%20Community%20Development%20Banking%20and%20Financial%20Institutions/%C2%A7%2004713%20-%20Incentives%20for%20depository%20institution%20participation.md) | Incentives for depository institution participation. |
+| [4713a.](Subchapter%20001%20%28I%29%20-%20Community%20Development%20Banking%20and%20Financial%20Institutions/%C2%A7%2004713a%20-%20Guarantees%20for%20bonds%20and%20notes%20issued%20for%20community%20or%20economic%20development%20purposes.md) | Guarantees for bonds and notes issued for community or economic development purposes. |
 | [4714\.](Subchapter%20001%20%28I%29%20-%20Community%20Development%20Banking%20and%20Financial%20Institutions/%C2%A7%2004714%20-%20Recordkeeping.md) | Recordkeeping. |
 | [4715\.](Subchapter%20001%20%28I%29%20-%20Community%20Development%20Banking%20and%20Financial%20Institutions/%C2%A7%2004715%20-%20Special%20provisions%20with%20respect%20to%20institutions%20that%20are%20supervised%20by%20Federal%20banking%20agencies.md) | Special provisions with respect to institutions that are supervised by Federal banking agencies. |
 | [4716\.](Subchapter%20001%20%28I%29%20-%20Community%20Development%20Banking%20and%20Financial%20Institutions/%C2%A7%2004716%20-%20Studies%20and%20reports%3B%20examination%20and%20audit.md) | Studies and reports; examination and audit. |
 | [4717\.](Subchapter%20001%20%28I%29%20-%20Community%20Development%20Banking%20and%20Financial%20Institutions/%C2%A7%2004717%20-%20Enforcement.md) | Enforcement. |
 | [4718\.](Subchapter%20001%20%28I%29%20-%20Community%20Development%20Banking%20and%20Financial%20Institutions/%C2%A7%2004718%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [4719\.](Subchapter%20001%20%28I%29%20-%20Community%20Development%20Banking%20and%20Financial%20Institutions/%C2%A7%2004719%20-%20Grants%20to%20establish%20loan-loss%20reserve%20funds.md) | Grants to establish loan-loss reserve funds. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

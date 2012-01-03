@@ -32,7 +32,7 @@ A disbursing officer may not be held liable for any amount paid by the officer i
 
 &emsp;&emsp;(A) in excess of the correct amount of the payment under this subchapter; and
 
-&emsp;&emsp;(B) determined by the Commissioner of Social Security to be otherwise unrecoverableunder this section from a person who is not a qualified individual under this subchapter.
+&emsp;&emsp;(B) determined by the Commissioner of Social Security to be otherwise unrecoverable under this section from a person who is not a qualified individual under this subchapter.
 
 #### (e) Cross-program recovery of overpayments
 

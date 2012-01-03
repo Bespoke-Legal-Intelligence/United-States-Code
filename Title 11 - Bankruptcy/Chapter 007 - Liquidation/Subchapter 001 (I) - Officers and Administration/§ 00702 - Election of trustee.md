@@ -22,7 +22,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 The House amendment adopts section 702(a)(2) of the Senate amendment. An insubstantial equity interest does not disqualify a creditor from voting for a candidate for trustee.
 
@@ -36,7 +36,7 @@ Subsection (d) specifies that if a trustee is not elected, then the interim trus
 
 #### Amendments
 
-1984—Subsec. (b). Pub. L. 98–353, §472(a), inserted “held” after “meeting of creditors”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–353, §472(a), inserted “held” after “meeting of creditors”.
 
 Subsec. (c)(1). Pub. L. 98–353, §472(b)(1), inserted “of a kind” after “claims”.
 
@@ -44,7 +44,7 @@ Subsec. (c)(2). Pub. L. 98–353, §472(b)(2), substituted “for a trustee” f
 
 Subsec. (d). Pub. L. 98–353, §472(c), substituted “this section” for “subsection (c) of this section”.
 
-1982—Subsec. (a)(1). Pub. L. 97–222 substituted “726(a)(4), 752(a), 766(h), or 766(i)” for “or 726(a)(4)”.
+<b>1982</b>—Subsec. (a)(1). Pub. L. 97–222 substituted “726(a)(4), 752(a), 766(h), or 766(i)” for “or 726(a)(4)”.
 
 #### Effective Date of 1984 Amendment
 

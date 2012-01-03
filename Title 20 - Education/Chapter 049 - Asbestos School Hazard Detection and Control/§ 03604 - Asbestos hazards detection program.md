@@ -38,7 +38,7 @@
 
 > No grant may be awarded under this section for any asbestos hazards detection program completed before January 1, 1976.
 
-(4) After reviewing the application submitted under this section, together with any recommendations made by the Task Force, the Secretary shall determine the amount of any grant to be awarded under this section. Funds may be awarded by the Secretary for the administrative costs incurred in the preparation and supervision of the asbestos detection program and for the following activities:
+(4) After reviewing the application submitted under this section, together with any recommendations made by the Task Force, the Secretary shall determine the amount of any grant to be awarded under this section. Funds may be awarded by the Secretary for the administrativecosts incurred in the preparation and supervision of the asbestos detection program and for the following activities:
 
 &emsp;(A) Visual inspections of school buildings.
 

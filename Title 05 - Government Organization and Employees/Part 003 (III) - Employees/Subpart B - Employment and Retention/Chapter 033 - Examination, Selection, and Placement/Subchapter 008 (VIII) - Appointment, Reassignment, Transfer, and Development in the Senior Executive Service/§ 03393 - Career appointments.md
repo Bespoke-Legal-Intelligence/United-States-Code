@@ -38,21 +38,21 @@ A prior section 3393, added Pub. L. 95–437, §3(a), Oct. 10, 1978, 92 Stat. 10
 
 #### Amendments
 
-2002—Subsec. (g). Pub. L. 107–296 struck out “3393a” after “1215,”.
+<b>2002</b>—Subsec. (g). Pub. L. 107–296 struck out “3393a” after “1215,”.
 
-1990—Subsec. (g). Pub. L. 101–280 made technical correction to directory language of Pub. L. 101–194, see 1989 Amendment below.
+<b>1990</b>—Subsec. (g). Pub. L. 101–280 made technical correction to directory language of Pub. L. 101–194, see 1989 Amendment below.
 
-1989—Subsec. (g). Pub. L. 101–194, as amended by Pub. L. 101–280, inserted “3393a,” after “1215,”.
+<b>1989</b>—Subsec. (g). Pub. L. 101–194, as amended by Pub. L. 101–280, inserted “3393a,” after “1215,”.
 
 Pub. L. 101–12 substituted “1215” for “1207”.
 
-1984—Subsec. (b). Pub. L. 98–615 inserted provision referring to commissioned officers of the uniformed services serving on active duty in such agency in provisions preceding par. (1).
+<b>1984</b>—Subsec. (b). Pub. L. 98–615 inserted provision referring to commissioned officers of the uniformed services serving on active duty in such agency in provisions preceding par. (1).
 
-1981—Subsec. (g). Pub. L. 97–35 added subsec. (g).
+<b>1981</b>—Subsec. (g). Pub. L. 97–35 added subsec. (g).
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out asan Effective Date note under section 101 of Title 6, Domestic Security.
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
 #### Effective Date of 1989 Amendments
 

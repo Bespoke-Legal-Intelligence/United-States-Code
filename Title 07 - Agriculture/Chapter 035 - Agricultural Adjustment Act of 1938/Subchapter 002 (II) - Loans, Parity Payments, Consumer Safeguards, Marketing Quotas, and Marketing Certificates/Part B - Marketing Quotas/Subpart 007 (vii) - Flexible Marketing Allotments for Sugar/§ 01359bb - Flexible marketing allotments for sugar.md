@@ -46,7 +46,7 @@
 
 #### (2) Exceptions
 
-&emsp;Consistent with the administration of marketing allotments for each of the 2002 through2007 crop years, the marketing allotments shall not apply to sugar sold—
+&emsp;Consistent with the administration of marketing allotments for each of the 2002 through 2007 crop years, the marketing allotments shall not apply to sugar sold—
 
 &emsp;&emsp;(A) to facilitate the exportation of the sugar to a foreign country, except that the exports of sugar shall not be eligible to receive credits under reexport programs for refined sugar or sugar containing products administered by the Secretary;
 
@@ -88,7 +88,7 @@ A prior section 1359bb, act Feb. 16, 1938, ch. 30, title III, §359b, as added P
 
 #### Amendments
 
-2008—Pub. L. 110–246, §1403(b), amended section generally, substituting provisions relating to sugar estimates for 2008 through 2012 crop years, establishment of allotments, coverage of allotments, and prohibition against marketing in excess of allotments, for provisions relating to sugar estimates for 2002 through 2007 crop years, establishment of allotments, and prohibition against marketing in excess of allotments.
+<b>2008</b>—Pub. L. 110–246, §1403(b), amended section generally, substituting provisions relating to sugar estimates for 2008 through 2012 crop years, establishment of allotments, coverage of allotments, and prohibition against marketing in excess of allotments, for provisions relating to sugar estimates for 2002 through 2007 crop years, establishment of allotments, and prohibition against marketing in excess of allotments.
 
 #### Effective Date of 2008 Amendment
 

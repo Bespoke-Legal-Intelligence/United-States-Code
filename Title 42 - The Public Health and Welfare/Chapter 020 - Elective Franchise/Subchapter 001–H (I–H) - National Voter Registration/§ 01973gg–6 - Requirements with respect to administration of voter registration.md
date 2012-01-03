@@ -92,7 +92,7 @@ Any State program or activity to protect the integrity of the electoral process 
 
 (1) A registrant who has moved from an address in the area covered by a polling place to an address in the same area shall, notwithstanding failure to notify the registrar of the change of address prior to the date of an election, be permitted to vote at that polling place upon oral or written affirmation by the registrant of the change of address before an election official at that polling place.
 
-(2)(A) A registrant who has moved from an address in the area covered by one polling place to an address in an area covered by a second polling place within the same registrar's jurisdiction and the same congressional district and who has failed to notify the registrar of the change of address prior to the date of an election, at the option of the registrant—
+(2)(A) A registrant who has moved from an address in the area covered by one polling place toan address in an area covered by a second polling place within the same registrar's jurisdiction and the same congressional district and who has failed to notify the registrar of the change of address prior to the date of an election, at the option of the registrant—
 
 &emsp;(i) shall be permitted to correct the voting records and vote at the registrant's former polling place, upon oral or written affirmation by the registrant of the new address before an election official at that polling place; or
 
@@ -144,7 +144,7 @@ For the purposes of this section, the term “registrar's jurisdiction” means�
 
 &emsp;(1) an incorporated city, town, borough, or other form of municipality;
 
-&emsp;(2) if voter registration is maintained by a county, parish, or other unit of government that governs a larger geographic area than amunicipality, the geographic area governed by that unit of government; or
+&emsp;(2) if voter registration is maintained by a county, parish, or other unit of government that governs a larger geographic area than a municipality, the geographic area governed by that unit of government; or
 
 &emsp;(3) if voter registration is maintained on a consolidated basis for more than one municipality or other unit of government by an office that performs all of the functions of a voting registrar, the geographic area of the consolidated municipalities or other geographic units.
 
@@ -156,7 +156,7 @@ The Voting Rights Act of 1965, referred to in subsec. (b)(1), is Pub. L. 89–11
 
 #### Codification
 
-Section is comprised of section 8 of Pub. L. 103–31. Subsec. (h) of section 8 of Pub. L. 103–31 enacted section 3629 of Title 39, Postal Service, and amended sections 2401 and 3627 of Title 39.
+Section is comprised of section 8 of Pub. L. 103–31. Subsec. (h) of section 8 of Pub. L. 103–31 enacted section3629 of Title 39, Postal Service, and amended sections 2401 and 3627 of Title 39.
 
 #### Amendments
 

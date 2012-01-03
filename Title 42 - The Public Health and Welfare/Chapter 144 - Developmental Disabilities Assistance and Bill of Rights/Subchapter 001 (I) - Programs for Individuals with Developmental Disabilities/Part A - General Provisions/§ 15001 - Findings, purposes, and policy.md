@@ -20,7 +20,7 @@ Congress finds that—
 
 &emsp;(8) there is a need to ensure that services, supports, and other assistance are provided in a culturally competent manner, that ensures that individuals from racial and ethnic minority backgrounds are fully included in all activities provided under this subchapter;
 
-&emsp;(9) family members, friends, and members of the community can play an important role in enhancing the lives of individuals with developmental disabilities, especially when the family members, friends, and community members are provided with the necessary community services, individualized supports, and other forms of assistance;
+&emsp;(9) family members, friends, and members of the community can play an important role inenhancing the lives of individuals with developmental disabilities, especially when the family members, friends, and community members are provided with the necessary community services, individualized supports, and other forms of assistance;
 
 &emsp;(10) current research indicates that 88 percent of individuals with developmental disabilities live with their families or in their own households;
 
@@ -312,7 +312,7 @@ Sec. 4. <i>Cooperation by Agencies</i>. The heads of Federal departments and age
 
 Sec. 5. <i>Administration</i>. (a) The Department of Health and Human Services shall provide the Committee with necessary staff support, administrative services and facilities, and funding, to the extent permitted by law.
 
-(b) Each member of the Committee, except any member who receives other compensation from the United States Government, may receive compensation for eachday engaged in the work of the Committee, as authorized by law (5 U.S.C. 3109), and may also receive travel expenses, including per diem in lieu of subsistence, as authorized by law (5 U.S.C. 5701–5707), for persons employed intermittently in the Government service. Committee members with disabilities may be compensated for attendant expenses, consistent with Government procedures and practices.
+(b) Each member of the Committee, except any member who receives other compensation from the United States Government, may receive compensation for each day engaged in the work of the Committee, as authorized by law (5 U.S.C. 3109), and may also receive travel expenses, including per diem in lieu of subsistence, as authorized by law (5 U.S.C. 5701–5707), for persons employed intermittently in the Government service. Committee members with disabilities may be compensated for attendant expenses, consistent with Government procedures and practices.
 
 (c) The Secretary of Health and Human Services shall perform such other functions with respect to the Committee as may be required by the Federal Advisory Committee Act, as amended (5 U.S.C. App.), except that of reporting to the Congress.
 
@@ -352,5 +352,7 @@ Term of the President's Committee for People with Intellectual Disabilities exte
 
 Term of the President's Committee for People with Intellectual Disabilities extended until Sept. 30, 2009, by Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of the President's Committee for People with Intellectual Disabilities extended until Sept. 30, 2011, by Ex. Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of the President's Committee for People with Intellectual Disabilities extended until Sept. 30, 2011, by Ex. Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of the President's Committee for People with Intellectual Disabilities extended until Sept. 30, 2013, by Ex. Ord. No. 13585, Sept. 30, 2011, 76 F.R. 62281, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 

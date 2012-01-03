@@ -12,7 +12,7 @@
 
 &emsp;&emsp;The demonstration program under this section shall begin on January 1, 2007. During the first 5 years of such program, the Secretary shall not approve more than 10 States to conduct demonstration programs under this section, with each State demonstration program covering 1 or more geographic areas specified by the State. After such 5-year period—
 
-&emsp;&emsp;&emsp;(i) unless the Secretary finds, taking into account cost-effectiveness, quality of care, and other criteria that the Secretary specifies, that a State demonstration program previously implemented has been unsuccessful, such a demonstration programmay be extended or made permanent in the State; and
+&emsp;&emsp;&emsp;(i) unless the Secretary finds, taking into account cost-effectiveness, quality of care, and other criteria that the Secretary specifies, that a State demonstration program previously implemented has been unsuccessful, such a demonstration program may be extended or made permanent in the State; and
 
 &emsp;&emsp;&emsp;(ii) unless the Secretary finds, taking into account cost-effectiveness, quality of care, and other criteria that the Secretary specifies, that all State demonstration programs previously implemented were unsuccessful, other States may implement State demonstration programs.
 
@@ -162,7 +162,7 @@
 
 &emsp;&emsp;&emsp;(i) may vary the amount of the annual deductible applied under paragraph (1)(A) based on the income of the family involved so long as it does not favor families with higher income over those with lower income; and
 
-&emsp;&emsp;&emsp;(ii) may vary the amount of the maximum out-of-pocket cost sharing (as defined in subparagraph (B)) based on the income of the family involved so long as itdoes not favor families with higher income over those with lower income.
+&emsp;&emsp;&emsp;(ii) may vary the amount of the maximum out-of-pocket cost sharing (as defined in subparagraph (B)) based on the income of the family involved so long as it does not favor families with higher income over those with lower income.
 
 #### (B) Maximum out-of-pocket cost sharing
 
@@ -310,7 +310,7 @@ A prior section 1938 of act Aug. 14, 1935, was renumbered section 1939 and is cl
 
 #### Prohibiting Initiation of New Health Opportunity Account Demonstration Programs
 
-Pub. L. 111–3, title VI, §613, Feb. 4, 2009, 123 Stat. 101, provided that: “After the date of the enactment of this Act \[Feb. 4, 2009\], the Secretary of Health and Human Services may not approve any new demonstration programs under section 1938 of the Social Security Act (42 U.S.C. 1396u–8).”
+Pub. L. 111–3, title VI, §613, Feb. 4, 2009, 123 Stat. 101, provided that: “After the date of the enactment of this Act \[Feb. 4, 2009\], the Secretary of Health and HumanServices may not approve any new demonstration programs under section 1938 of the Social Security Act (42 U.S.C. 1396u–8).”
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

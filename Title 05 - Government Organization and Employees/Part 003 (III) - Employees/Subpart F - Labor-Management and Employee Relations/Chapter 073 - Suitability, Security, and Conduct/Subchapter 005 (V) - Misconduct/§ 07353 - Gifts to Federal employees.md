@@ -38,13 +38,13 @@
 
 #### References in Text
 
-The Ethics in Government Act of 1978, referred to in subsec. (d)(1)(E), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat.1824, as amended. Title I of the Act, which was classified principally to chapter 18 (§701 et seq.) of Title 2, The Congress, was amended generally by Pub. L. 101–194, title II, §202, Nov. 30, 1989, 103 Stat. 1724, and as so amended, is set out in the Appendix to this title. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to this title and Tables.
+The Ethics in Government Act of 1978, referred to in subsec. (d)(1)(E), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824, as amended. Title I of the Act, which was classified principally to chapter 18 (§701 et seq.) of Title 2, The Congress, was amended generally by Pub. L. 101–194, title II, §202, Nov. 30, 1989, 103 Stat. 1724, and as so amended, is set out in the Appendix to this title. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to this title and Tables.
 
 #### Amendments
 
-2002—Subsec. (b)(4). Pub. L. 107–347 added par. (4).
+<b>2002</b>—Subsec. (b)(4). Pub. L. 107–347 added par. (4).
 
-1990—Subsec. (a). Pub. L. 101–280, §4(d)(1)(A), substituted “branch” for “branches” in introductory provisions.
+<b>1990</b>—Subsec. (a). Pub. L. 101–280, §4(d)(1)(A), substituted “branch” for “branches” in introductory provisions.
 
 Subsec. (a)(1). Pub. L. 101–280, §4(d)(1)(B), substituted “by, the” for “by the” and “entity” for “agency”.
 
@@ -55,6 +55,10 @@ Subsec. (d)(1)(B). Pub. L. 101–280, §4(d)(3)(A)(i), substituted “officers,�
 Subsec. (d)(1)(E). Pub. L. 101–280, §4(d)(3)(A)(ii), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “the ethics committee with which the officer or employee is required to file financial disclosure forms, for all legislative branch officers and employees other than those specified in subparagraphs (A) and (B), except that such authority may be delegated; and”.
 
 Subsec. (d)(2). Pub. L. 101–280, §4(d)(3)(B), substituted “Government,” for “Government”.
+
+#### Change of Name
+
+Committee on Standards of Official Conduct of House of Representatives changed to Committee on Ethics of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Effective Date of 2002 Amendment
 

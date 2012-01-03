@@ -38,7 +38,7 @@ For fiscal years 2009 through 2013, not less than 10 percent of the amounts appr
 
 #### (c) Funding allocation
 
-For each of the fiscal years 2009 through 2013, more than half of the amounts appropriated for bilateral global HIV/AIDS assistance pursuant to section 7671 of this title shall be expended for—
+For each of the fiscal years 2009 through 2013, more than half of the amounts appropriated for bilateral global HIV/AIDS assistance pursuantto section 7671 of this title shall be expended for—
 
 &emsp;(1) antiretroviral treatment for HIV/AIDS;
 

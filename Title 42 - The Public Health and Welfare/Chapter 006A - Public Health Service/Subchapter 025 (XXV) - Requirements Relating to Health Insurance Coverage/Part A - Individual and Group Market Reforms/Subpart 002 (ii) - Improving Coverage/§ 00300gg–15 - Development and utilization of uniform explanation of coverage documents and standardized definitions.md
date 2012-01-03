@@ -20,7 +20,7 @@ The standards for the summary of benefits and coverage developed under subsectio
 
 &emsp;The standards shall ensure that the summary of benefits and coverage includes—
 
-&emsp;&emsp;(A) uniform definitions of standard insurance terms and medical terms (consistentwith subsection (g)) so that consumers may compare health insurance coverage and understand the terms of coverage (or exception to such coverage);
+&emsp;&emsp;(A) uniform definitions of standard insurance terms and medical terms (consistent with subsection (g)) so that consumers may compare health insurance coverage and understand the terms of coverage (or exception to such coverage);
 
 &emsp;&emsp;(B) a description of the coverage, including cost sharing for—
 
@@ -98,7 +98,7 @@ An entity described in subsection (d)(3) that willfully fails to provide the inf
 
 #### (3) Medical terms
 
-&emsp;The medical terms described in this paragraph are hospitalization, hospital outpatient care, emergency room care, physician services, prescription drug coverage, durable medical equipment, home health care, skilled nursing care, rehabilitation services, hospice services, emergency medical transportation, and such other terms as the Secretary determines are important to define so that consumers maycompare the medical benefits offered by health insurance and understand the extent of those medical benefits (or exceptions to those benefits).
+&emsp;The medical terms described in this paragraph are hospitalization, hospital outpatient care, emergency room care, physician services, prescription drug coverage, durable medical equipment, home health care, skilled nursing care, rehabilitation services, hospice services, emergency medical transportation, and such other terms as the Secretary determines are important to define so that consumers may compare the medical benefits offered by health insurance and understand the extent of those medical benefits (or exceptions to those benefits).
 
 (July 1, 1944, ch. 373, title XXVII, §2715, as added and amended Pub. L. 111–148, title I, §1001(5), title X, §10101(b), Mar. 23, 2010, 124 Stat. 132, 884.)
 

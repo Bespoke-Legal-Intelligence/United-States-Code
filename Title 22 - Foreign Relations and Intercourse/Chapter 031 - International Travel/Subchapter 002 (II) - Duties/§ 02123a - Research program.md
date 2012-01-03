@@ -6,7 +6,7 @@ The Office of Travel and Tourism Industries shall expand and continue its resear
 
 &emsp;(1) expanding access to the official Mexican travel surveys data to provide the States with traveler characteristics and visitation estimates for targeted marketing programs;
 
-&emsp;(2) expanding the number of inbound air travelers sampled by the Commerce Department's Survey of International Travelers to reach a 1 percent sample size and revising the design and format of questionnaires to accommodate a new survey instrument, improve response rates to at least double the number of States and cities with reliable internationalvisitor estimates and improve market coverage;
+&emsp;(2) expanding the number of inbound air travelers sampled by the Commerce Department's Survey of International Travelers to reach a 1 percent sample size and revising the design and format of questionnaires to accommodate a new survey instrument, improve response rates to at least double the number of States and cities with reliable international visitor estimates and improve market coverage;
 
 &emsp;(3) developing estimates of international travel exports (expenditures) on a State-by-State basis to enable each State to compare its comparative position to national totals and other States;
 

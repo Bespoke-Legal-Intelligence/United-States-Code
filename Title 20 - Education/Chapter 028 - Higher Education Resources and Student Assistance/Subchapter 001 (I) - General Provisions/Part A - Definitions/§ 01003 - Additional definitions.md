@@ -156,7 +156,7 @@ In this chapter and part C of subchapter I of chapter 34 of title 42:
 
 &emsp;&emsp;(B) reduces barriers in instruction, provides appropriate accommodations, supports, and challenges, and maintains high achievement expectations for all students, including students with disabilities and students who are limited English proficient.
 
-(Pub. L. 89–329, title I, §103, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1589;amended Pub. L. 107–110, title X, §1076(g), Jan. 8, 2002, 115 Stat. 2091; Pub. L. 110–315, title I, §103(a), Aug. 14, 2008, 122 Stat. 3086.)
+(Pub. L. 89–329, title I, §103, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1589; amended Pub. L. 107–110, title X, §1076(g), Jan. 8, 2002, 115 Stat. 2091; Pub. L. 110–315, title I, §103(a), Aug. 14, 2008, 122 Stat. 3086.)
 
 #### References in Text
 
@@ -219,6 +219,10 @@ Section 1010, Pub. L. 89–329, title I, §113, formerly §110, Nov. 8, 1965, 79
 Pars. (17) to (24). Pub. L. 110–315, §103(a)(1), added pars. (17) to (24).
 
 <b>2002</b>—Pars. (4) to (6), (10), (14). Pub. L. 107–110 substituted “7801” for “8801”.
+
+#### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Effective Date of 2002 Amendment
 

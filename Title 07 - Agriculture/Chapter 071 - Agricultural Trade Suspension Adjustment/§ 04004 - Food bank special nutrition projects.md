@@ -40,9 +40,9 @@ The Child Nutrition Act of 1966, referred to in subsec. (a), is Pub. L. 89–642
 
 #### Amendments
 
-1999—Subsec. (a). Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act”.
+<b>1999</b>—Subsec. (a). Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act”.
 
-1981—Subsecs. (a), (b). Pub. L. 97–98, §1114(b)(1), substituted “special nutrition projects” for “demonstration projects” wherever appearing.
+<b>1981</b>—Subsecs. (a), (b). Pub. L. 97–98, §1114(b)(1), substituted “special nutrition projects” for “demonstration projects” wherever appearing.
 
 Subsec. (d). Pub. L. 97–98, §1114(b)(2), (3), substituted “to Congress a progress report on July 1, 1983, and a final report on January 1, 1984” for “a report to Congress on October 1, 1982” and “special nutrition projects” for “demonstration projects”.
 

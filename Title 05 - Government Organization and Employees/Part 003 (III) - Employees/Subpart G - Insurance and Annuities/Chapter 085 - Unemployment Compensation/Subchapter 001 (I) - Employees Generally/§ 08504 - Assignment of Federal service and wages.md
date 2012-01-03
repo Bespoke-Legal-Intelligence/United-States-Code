@@ -50,7 +50,7 @@ This section also amends 5 U.S.C. 8504 to eliminate certain provisions that are 
 
 #### Amendments
 
-1976—Par. (3). Pub. L. 94–566 struck out par. (3) which covered the assignment to the Virgin Islands of the Federal service and Federal wages of Federal employees whose first claims were filed while residing in the Virgin Islands.
+<b>1976</b>—Par. (3). Pub. L. 94–566 struck out par. (3) which covered the assignment to the Virgin Islands of the Federal service and Federal wages of Federal employees whose first claims were filed while residing in the Virgin Islands.
 
 #### Effective Date of 1976 Amendment
 

@@ -64,7 +64,7 @@ Section is based on act Mar. 4, 1911, popularly known as the “Sundry Civil App
 
 #### Amendments
 
-2007—Pub. L. 110–140 added text of section and struck out former text which read as follows: “The heating, lighting, and power plant constructed under the terms of the Act approved April 28, 1904, shall be known as the ‘Capitol power plant’; and all vacancies occurring in the force operating said plant and the substations in connection therewith shall be filled by the Architect of the Capitol with the approval of the commission in control of the House Office Building appointed under section 2001 of this title.”
+<b>2007</b>—Pub. L. 110–140 added text of section and struck out former text which read as follows: “The heating, lighting, and power plant constructed under the terms of the Act approved April 28, 1904, shall be known as the ‘Capitol power plant’; and all vacancies occurring in the force operating said plant and the substations in connection therewith shall be filled by the Architect of the Capitol with the approval of the commission in control of the House Office Building appointed under section 2001 of this title.”
 
 #### Change of Name
 
@@ -72,7 +72,7 @@ Change of name of Architect of the Capitol, functions abolished, transferred, et
 
 #### Effective Date of 2007 Amendment
 
-Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of this title.
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub.L. 110–140, set out as an Effective Date note under section 1824 of this title.
 
 #### Management and Operation of the Capitol Power Plant
 

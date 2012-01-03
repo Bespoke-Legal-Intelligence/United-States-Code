@@ -66,7 +66,7 @@
 
 #### (2) Limitations
 
-&emsp;No assistance made available under this subchapter may be expended by a community development financial institution (or an organization receiving assistance under section 4712 of this title) to pay any person to influence or attempt to influence any agency, elected official, officer, or employee of a State or localgovernment in connection with the making, award, extension, continuation, renewal, amendment, or modification of any State or local government contract, grant, loan, or cooperative agreement (as such terms are defined in section 1352 of title 31).
+&emsp;No assistance made available under this subchapter may be expended by a community development financial institution (or an organization receiving assistance under section 4712 of this title) to pay any person to influence or attempt to influence any agency, elected official, officer, or employee of a State or local government in connection with the making, award, extension, continuation, renewal, amendment, or modification of any State or local government contract, grant, loan, or cooperative agreement (as such terms are defined in section 1352 of title 31).
 
 #### (c) Uses of technical assistance
 
@@ -130,7 +130,7 @@
 
 #### (4) Construction of “Federal Government funds”
 
-&emsp;For purposes of this subsection, notwithstanding section 105(a)(9) of the Housing and Community Development Act of 1974 \[42 U.S.C. 5305(a)(9)\], funds provided pursuant to such Act shall be considered to be Federal Government funds.
+&emsp;For purposes of this subsection, notwithstanding section 105(a)(9) of the Housing andCommunity Development Act of 1974 \[42 U.S.C. 5305(a)(9)\], funds provided pursuant to such Act shall be considered to be Federal Government funds.
 
 #### (f) Terms and conditions
 
@@ -187,8 +187,6 @@ Nothing in this subchapter shall affect any authority of the appropriate Federal
 (Pub. L. 103–325, title I, §108, Sept. 23, 1994, 108 Stat. 2172.)
 
 #### References in Text
-
-Federal tax law, referred to in subsec. (a)(2)(B), is classified generally to Title 26, Internal Revenue Code.
 
 The Housing and Community Development Act of 1974, referred to in subsec. (e)(4), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 42, The Public Health and Welfare, and Tables.
 

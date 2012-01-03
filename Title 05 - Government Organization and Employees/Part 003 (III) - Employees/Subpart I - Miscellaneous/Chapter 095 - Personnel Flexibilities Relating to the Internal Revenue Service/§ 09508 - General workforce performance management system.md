@@ -48,5 +48,5 @@ The Government Performance and Results Act of 1993, referred to in subsec. (a)(2
 
 #### Amendments
 
-2002—Subsec. (a)(2)(A). Pub. L. 107–217 substituted “subtitle III of title 40” for “division E of the Clinger-Cohen Act of 1996 (Public Law 104–106; 110 Stat. 679)”.
+<b>2002</b>—Subsec. (a)(2)(A). Pub. L. 107–217 substituted “subtitle III of title 40” for “division E of the Clinger-Cohen Act of 1996 (Public Law 104–106; 110 Stat. 679)”.
 

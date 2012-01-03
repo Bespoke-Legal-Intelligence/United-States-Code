@@ -14,5 +14,5 @@ Federal Rules of Civil Procedure, referred to in text, are set out in Appendix t
 
 #### Amendments
 
-1954—Act Sept. 3, 1954, brought section into conformity with present terms and practice.
+<b>1954</b>—Act Sept. 3, 1954, brought section into conformity with present terms and practice.
 

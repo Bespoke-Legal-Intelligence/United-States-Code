@@ -40,7 +40,7 @@ The Department of Energy shall intensify research in key basic science areas in 
 
 (3) Such certifications shall be available to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate. The provisions of chapter 5 of title 5 shall not apply to such certifications and no court shall have any jurisdiction to review the preparation or adequacy of such certifications; but section 553 of title 5 and section 5916 of title 42 shall apply to public disclosure of such certifications.
 
-(4) The Secretary of Energy also shall include in the report required by section 2709(a) of this title a detailed discussion of how each research and development contract, grant, or project funded under the authority of this Act satisfies the requirement of this subsection.
+(4) The Secretary of Energy also shall include in the report required by section 2709(a) of thistitle a detailed discussion of how each research and development contract, grant, or project funded under the authority of this Act satisfies the requirement of this subsection.
 
 (5) Further, the Secretary of Energy in each annual budget submission to the Congress, or amendment thereto, for the programs authorized by this Act shall describe how each identified research and development effort in such submission satisfies the requirements of this subsection.
 
@@ -55,8 +55,4 @@ This Act, referred to in subsec. (f), is Pub. L. 95–238, Feb. 25, 1978, 92 Sta
 #### Amendments
 
 <b>1994</b>—Subsec. (f)(3). Pub. L. 103–437 substituted “Committee on Science, Space, and Technology” for “Committee on Science and Technology”.
-
-#### Change of Name
-
-Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

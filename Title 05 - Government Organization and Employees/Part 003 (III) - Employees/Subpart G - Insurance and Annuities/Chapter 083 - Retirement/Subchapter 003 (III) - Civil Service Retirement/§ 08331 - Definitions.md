@@ -54,7 +54,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(xii) a member of the Foreign Service (as described in section 103(6) of the Foreign Service Act of 1980), appointed after December 31, 1987.
 
-> &emsp;Notwithstanding this paragraph, the employment of a teacher in the recess period between two school years in a position other than a teaching position in which he served immediately before the recess period does not qualify the individual as an employee for the purpose of this subchapter. For the purpose of thepreceding sentence, “teacher” and “teaching position” have the meanings given them by section 901 of title 20;
+> &emsp;Notwithstanding this paragraph, the employment of a teacher in the recess period between two school years in a position other than a teaching position in which he served immediately before the recess period does not qualify the individual as an employee for the purpose of this subchapter. For the purpose of the preceding sentence, “teacher” and “teaching position” have the meanings given them by section 901 of title 20;
 
 &emsp;(2) “Member” means a Member of Congress as defined by section 2106 of this title, after he gives notice in writing to the official by whom he is paid of his desire to become subject to this subchapter, but does not include any such Member of Congress who is subject to the Federal Employees’ Retirement System or who makes an election under section 8401(20) of this title not to be subject to such System;
 
@@ -124,7 +124,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(C) as a commissioned officer of the Environmental Science Services Administration after June 30, 1961;
 
-> &emsp;and includes service as a cadet at the United States Military Academy, the United States Air Force Academy, or the United States Coast Guard Academy, or as a midshipman at the United States Naval Academy, but does not include service in the National Guard except when ordered to active duty in the service of the United States or full-time National Guard duty (as such term is defined in section 101(d) of title 10) if such service interruptscreditable civilian service under this subchapter and is followed by reemployment in accordance with chapter 43 of title 38 that occurs on or after August 1, 1990;
+> &emsp;and includes service as a cadet at the United States Military Academy, the United States Air Force Academy, or the United States Coast Guard Academy, or as a midshipman at the United States Naval Academy, but does not include service in the National Guard except when ordered to active duty in the service of the United States or full-time National Guard duty (as such term is defined in section 101(d) of title 10) if such service interrupts creditable civilian service under this subchapter and is followed by reemployment in accordance with chapter 43 of title 38 that occurs on or after August 1, 1990;
 
 &emsp;(14) “Member service” means service as a Member and includes the period from the date of the beginning of the term for which elected or appointed to the date on which he takes office as a Member;
 
@@ -206,7 +206,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(B) a civilian employee of the Department of Transportation or the Department of Defense who is the immediate supervisor of a person described in section 2109(1)(B); and
 
-&emsp;(31) “customs and border protection officer” means an employee in the Department of Homeland Security (A) who holds a position within the GS–1895 job series (determined applying the criteria in effect as of September 1, 2007) or any successor position, and (B) whose duties include activities relating to the arrival and departure of persons, conveyances, and merchandise at ports of entry, including any such employee who is transferred directly to a supervisory or administrative position in the Department of Homeland Security after performing such duties (as described in subparagraph (B)) in 1 or more positions (as described in subparagraph (A)) for at least 3 years.
+&emsp;(31) “customs and border protection officer” means an employee in the Department of Homeland Security (A) who holds a position within the GS–1895 job series (determined applying the criteria in effect as of September 1,2007) or any successor position, and (B) whose duties include activities relating to the arrival and departure of persons, conveyances, and merchandise at ports of entry, including any such employee who is transferred directly to a supervisory or administrative position in the Department of Homeland Security after performing such duties (as described in subparagraph (B)) in 1 or more positions (as described in subparagraph (A)) for at least 3 years.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 564; Pub. L. 89–737, §1(2), Nov. 2, 1966, 80 Stat. 1164; Pub. L. 90–83, §1(72), Sept. 11, 1967, 81 Stat. 213; Pub. L. 90–623, §1(21), Oct. 22, 1968, 82 Stat. 1313; Pub. L. 91–93, title I, §101, title II, §201(a), Oct. 20, 1969, 83 Stat. 136, 138; Pub. L. 92–352, title I, §105(a), July 13, 1972, 86 Stat. 490; Pub. L. 93–350, §2, July 12, 1974, 88 Stat. 355; Pub. L. 94–183, §2(38), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 95–598, title III, §338(e), Nov. 6, 1978, 92 Stat. 2681; Pub. L. 96–54, §2(a)(47), Aug. 14, 1979, 93 Stat. 384; Pub. L. 96–499, title IV, §403(b), Dec. 5, 1980, 94 Stat. 2606; Pub. L. 97–253, title III, §306(a), Sept. 8, 1982, 96 Stat. 795; Pub. L. 98–249, §3(b), Mar. 31, 1984, 98 Stat. 117; Pub. L. 98–271, §3(b), Apr. 30, 1984, 98 Stat. 163; Pub. L. 98–299, §3(b), May 25, 1984, 98 Stat. 214; Pub. L. 98–325, §3(b), June 20, 1984, 98 Stat. 268; Pub. L. 98–353, title I, §§116(a), 121(g), July 10, 1984, 98 Stat. 343, 346; Pub. L. 98–531, §2(a), Oct. 19, 1984, 98 Stat. 2704; Pub. L. 98–615, §2(1), Nov. 8, 1984, 98 Stat. 3195; Pub. L. 99–335, title II, §§202, 207(f), June 6, 1986, 100 Stat. 591, 595; Pub. L. 100–53, §2(a), June 18, 1987, 101 Stat. 367; Pub. L. 100–238, title I, §§112, 123, Jan. 8, 1988, 101 Stat. 1750, 1754; Pub. L. 100–679, §13(a)(1), Nov. 17, 1988, 102 Stat. 4071; Pub. L. 101–474, §5(m), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–508, title VII, §7202(j)(1), Nov. 5, 1990, 104 Stat. 1388–337; Pub. L. 101–650, title III, §§306(c)(1), 321, Dec. 1, 1990, 104 Stat. 5110, 5117; Pub. L. 102–378, §2(57), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 102–572, title IX, §902(b), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–66, title XIII, §13812(a), Aug. 10, 1993, 107 Stat. 670; Pub. L. 103–353, §5(a), Oct. 13, 1994, 108 Stat. 3173; Pub. L. 105–261, div. C, title XXXI, §3154(b), Oct. 17, 1998, 112 Stat. 2254; Pub. L. 105–277, div. A, §101(h) \[title VI, §628(d)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–521; Pub. L. 106–571, §3(a), (b)(2), Dec. 28, 2000, 114 Stat. 3054, 3055; Pub. L. 107–71, title I, §105(c), Nov. 19, 2001, 115 Stat. 607; Pub. L. 108–18, §2(a), Apr. 23, 2003, 117 Stat. 624; Pub. L. 108–176, title II, §226(a)(1), Dec. 12, 2003, 117 Stat. 2529; Pub. L. 110–161, div. E, title V, §535(a)(1), Dec. 26, 2007, 121 Stat. 2075; Pub. L. 110–181, div. A, title XI, §1115(a), Jan. 28, 2008, 122 Stat. 361.)
 
@@ -396,11 +396,11 @@ Section 167 of the Federal Courts Improvement Act of 1982, referred to in par. (
 
 #### Amendments
 
-2008—Par. (13). Pub. L. 110–181, in concluding provisions, substituted “and includes service as a cadet at the United States Military Academy, the United States Air Force Academy, or the United States Coast Guard Academy, or as a midshipman at the United States Naval Academy, but” for “but”.
+<b>2008</b>—Par. (13). Pub. L. 110–181, in concluding provisions, substituted “and includes service as a cadet at the United States Military Academy, the United States Air Force Academy, or the United States Coast Guard Academy, or as a midshipman at the United States Naval Academy, but” for “but”.
 
-2007—Pars. (29) to (31). Pub. L. 110–161 redesignated par. (29) defining “air traffic controller” or “controller” as (30) and added par. (31).
+<b>2007</b>—Pars. (29) to (31). Pub. L. 110–161 redesignated par. (29) defining “air traffic controller” or “controller” as (30) and added par. (31).
 
-2003—Par. (17). Pub. L. 108–18, §2(a)(1), substituted “ ‘normal-cost percentage’ ” for “ ‘normal cost’ ” and inserted “and standards (using dynamic assumptions)” after “practice”.
+<b>2003</b>—Par. (17). Pub. L. 108–18, §2(a)(1), substituted “ ‘normal-cost percentage’ ” for “ ‘normal cost’ ” and inserted “and standards (using dynamic assumptions)” after “practice”.
 
 Par. (18). Pub. L. 108–18, §2(a)(2), amended par. (18) generally. Prior to amendment, par. (18) read as follows: “ ‘Fund balance’ means the sum of—
 
@@ -420,23 +420,23 @@ Par. (29). Pub. L. 108–176, §226(a)(1)(C), added par. (29) defining “air tr
 
 Pub. L. 108–18, §2(a)(3), added par. (29) defining “dynamic assumptions” .
 
-2001—Par. (3)(E). Pub. L. 107–71 amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “with respect to a criminal investigator, availability pay under section 5545a of this title;”.
+<b>2001</b>—Par. (3)(E). Pub. L. 107–71 amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “with respect to a criminal investigator, availability pay under section 5545a of this title;”.
 
-2000—Par. (3). Pub. L. 106–571, §3(a)(4), substituted “through (H)” for “through (G)” in concluding provisions.
+<b>2000</b>—Par. (3). Pub. L. 106–571, §3(a)(4), substituted “through (H)” for “through (G)” in concluding provisions.
 
 Par. (3)(H). Pub. L. 106–571, §3(a)(1)–(3), added subpar. (H).
 
 Par. (28). Pub. L. 106–571, §3(b)(2), added par. (28).
 
-1998—Par. (3). Pub. L. 105–277 struck out “and” at end of subpar. (D), added subpars. (E) and (F), redesignated former subpar. (E) as (G), and, in concluding provisions, substituted “subparagraphs (B) through (G)” for “subparagraphs (B), (C), (D), and (E)”.
+<b>1998</b>—Par. (3). Pub. L. 105–277 struck out “and” at end of subpar. (D), added subpars. (E) and (F), redesignated former subpar. (E) as (G), and, in concluding provisions, substituted “subparagraphs (B) through (G)” for “subparagraphs (B), (C), (D), and (E)”.
 
 Par. (27). Pub. L. 105–261 added par. (27).
 
-1994—Par. (13). Pub. L. 103–353 inserted before semicolon at end “or full-time National Guard duty (as such term is defined in section 101(d) of title 10) if such service interrupts creditable civilian service under this subchapter and is followed by reemployment in accordance with chapter 43 of title 38 that occurs on or after August 1, 1990”.
+<b>1994</b>—Par. (13). Pub. L. 103–353 inserted before semicolon at end “or full-time National Guard duty (as such term is defined in section 101(d) of title 10) if such service interrupts creditable civilian service under this subchapter and is followed by reemployment in accordance with chapter 43 of title 38 that occurs on or after August 1, 1990”.
 
-1993—Par. (3). Pub. L. 103–66 added subpar. (E), and in closing provisions substituted “subparagraphs (B), (C), (D), and (E) of this paragraph” for “subparagraphs (B), (C), and (D) of this paragraph,”.
+<b>1993</b>—Par. (3). Pub. L. 103–66 added subpar. (E), and in closing provisions substituted “subparagraphs (B), (C), (D), and (E) of this paragraph” for “subparagraphs (B), (C), and (D) of this paragraph,”.
 
-1992—Par. (1)(L). Pub. L. 102–378, §2(57)(A)(i), substituted “section 8347(q)(1)” for “section 8347(p)(1)”.
+<b>1992</b>—Par. (1)(L). Pub. L. 102–378, §2(57)(A)(i), substituted “section 8347(q)(1)” for “section 8347(p)(1)”.
 
 Par. (1)(ii). Pub. L. 102–378, §2(57)(A)(ii), substituted “section 8347(q)(2)” for “section 8347(p)(2)”.
 
@@ -444,7 +444,7 @@ Par. (7). Pub. L. 102–378, §2(57)(B), substituted “University” for “Col
 
 Par. (26). Pub. L. 102–572 substituted “Court of Federal Claims” for “Claims Court” and “United States Court of Federal Claims” for “United States Claims Court”.
 
-1990—Par. (1)(L). Pub. L. 101–508, §7202(j)(1)(A)–(C), added subpar. (L).
+<b>1990</b>—Par. (1)(L). Pub. L. 101–508, §7202(j)(1)(A)–(C), added subpar. (L).
 
 Par. (1)(ii). Pub. L. 101–508, §7202(j)(1)(D), substituted “(besides any employee excluded by clause (x), but including any employee who has made an election under section 8347(p)(2) to remain covered by a retirement system established for employees described in section 2105(c))” for “(other than an employee described in clause (x)”.
 
@@ -454,7 +454,7 @@ Par. (7). Pub. L. 101–508, §7202(j)(1)(E), substituted “Gallaudet College, 
 
 Par. (26). Pub. L. 101–650 added par. (26).
 
-1988—Par. (1)(K). Pub. L. 100–679 added subpar. (K).
+<b>1988</b>—Par. (1)(K). Pub. L. 100–679 added subpar. (K).
 
 Par. (1)(xii). Pub. L. 100–238, §112, added cl. (xii).
 
@@ -464,7 +464,7 @@ Par. (18). Pub. L. 100–238, §123, inserted “but does not include any amount
 
 &emsp;“(ii) contributions made under the Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983 by or on behalf of any individual who became subject to the Federal Employees’ Retirement System;”.
 
-1987—Par. (22). Pub. L. 100–53, §2(a)(1), amended par. (22) generally. Prior to amendment, par. (22) read as follows: “ ‘bankruptcy judge’ means an individual appointed under section 34 of the Bankruptcy Act (11 U.S.C. 62) or under section 404(d) of the Act of November 6, 1978 (Public Law 95–598; 92 Stat. 2549)—
+<b>1987</b>—Par. (22). Pub. L. 100–53, §2(a)(1), amended par. (22) generally. Prior to amendment, par. (22) read as follows: “ ‘bankruptcy judge’ means an individual appointed under section 34 of the Bankruptcy Act (11 U.S.C. 62) or under section 404(d) of the Act of November 6, 1978 (Public Law 95–598; 92 Stat. 2549)—
 
 &emsp;“(A) who is serving as a United States bankruptcy judge on March 31, 1984;
 
@@ -474,7 +474,7 @@ Par. (18). Pub. L. 100–238, §123, inserted “but does not include any amount
 
 Par. (25). Pub. L. 100–53, §2(a)(2)–(4), added par. (25).
 
-1986—Par. (1)(G). Pub. L. 99–335, §207(f)(1), amended subpar. (G) generally, substituting “first employed” for “employed” and inserting “before October 1, 1987”.
+<b>1986</b>—Par. (1)(G). Pub. L. 99–335, §207(f)(1), amended subpar. (G) generally, substituting “first employed” for “employed” and inserting “before October 1, 1987”.
 
 Par. (1)(ii). Pub. L. 99–335, §202(a)(1), amended cl. (ii) generally, inserting “(other than an employee described in clause (x)”.
 
@@ -484,7 +484,7 @@ Par. (1)(xi). Pub. L. 99–335, §207(f)(2), added cl. (xi).
 
 Par. (2). Pub. L. 99–335, §202(b), inserted “, but does not include any such Member of Congress who is subject to the Federal Employees’ Retirement System or who makes an election under section 8401(20) of this title not to be subject to such System”.
 
-1984—Par. (22). Pub. L. 98–353, §116(a)(1), substituted “of November 6, 1978 (Public Law 95–598; 92 Stat. 2549)” for “adding this paragraph” in provision preceding subpar. (A).
+<b>1984</b>—Par. (22). Pub. L. 98–353, §116(a)(1), substituted “of November 6, 1978 (Public Law 95–598; 92 Stat. 2549)” for “adding this paragraph” in provision preceding subpar. (A).
 
 Par. (22)(A). Pub. L. 98–531 substituted “who is serving as a United States bankruptcy judge on March 31, 1984;” for “who is serving as a United States bankruptcy judge on the date of enactment of the Bankruptcy Amendments and Federal Judgeship Act of 1984, and continues to serve as a bankruptcy judge after such date until either the date on which a successor for such judge is appointed, or October 1, 1986, whichever date is earlier;”.
 
@@ -508,37 +508,37 @@ Par. (22)(C). Pub. L. 98–353, §116(a)(4), added subpar. (C).
 
 Pars. (23), (24). Pub. L. 98–615 added pars. (23) and (24).
 
-1982—Par. (8)(B). Pub. L. 97–253, §306(a), inserted “, including any amounts deposited under section 8334(j) of this title”.
+<b>1982</b>—Par. (8)(B). Pub. L. 97–253, §306(a), inserted “, including any amounts deposited under section 8334(j) of this title”.
 
-1980—Par. (6). Pub. L. 96–499 struck out par. (6) which defined “disabled” and “disability” as meaning totally disabled or total disability for useful and efficient service in the grade or class of position last occupied by the employee or Member because of disease or injury not due to vicious habits, intemperance, or wilful misconduct on his part within 5 years of becoming disabled.
+<b>1980</b>—Par. (6). Pub. L. 96–499 struck out par. (6) which defined “disabled” and “disability” as meaning totally disabled or total disability for useful and efficient service in the grade or class of position last occupied by the employee or Member because of disease or injury not due to vicious habits, intemperance, or wilful misconduct on his part within 5 years of becoming disabled.
 
-1979—Par. (2). Pub. L. 96–54, §2(a)(47)(A), struck out “and a Delegate to Congress,” after “title,”.
+<b>1979</b>—Par. (2). Pub. L. 96–54, §2(a)(47)(A), struck out “and a Delegate to Congress,” after “title,”.
 
 Par. (19)(C). Pub. L. 96–54, §2(a)(47)(B), struck out “and” after “determined;”.
 
-1978—Pars. (1), (17), (20). Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively, wherever appearing.
+<b>1978</b>—Pars. (1), (17), (20). Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively, wherever appearing.
 
 Par. (22). Pub. L. 95–598 added par. (22).
 
-1975—Par. (4). Pub. L. 94–183 struck out provision relating to member's option of having average pay computed from averaging rates of basic pay in effect over all periods of member's service after August 2, 1946.
+<b>1975</b>—Par. (4). Pub. L. 94–183 struck out provision relating to member's option of having average pay computed from averaging rates of basic pay in effect over all periods of member's service after August 2, 1946.
 
-1974—Par. (3). Pub. L. 93–350, §2(a), added subpar. (D) and inserted reference to subpar. (D) in closing provisions of par. (3).
+<b>1974</b>—Par. (3). Pub. L. 93–350, §2(a), added subpar. (D) and inserted reference to subpar. (D) in closing provisions of par. (3).
 
 Pars. (20), (21). Pub. L. 93–350, §2(b), added pars. (20) and (21).
 
-1972—Par. (1)(J). Pub. L. 92–352 added par. (1)(J).
+<b>1972</b>—Par. (1)(J). Pub. L. 92–352 added par. (1)(J).
 
-1969—Par. (4)(A). Pub. L. 91–93, §201(a), reduced the number of years of creditable service from 5 to 3 consecutive years and provided for averaging rate of basic pay over the total service in the case of an annuity under subsec. (d) or (e)(1) of section 8341 of this title based on service of less than three years.
+<b>1969</b>—Par. (4)(A). Pub. L. 91–93, §201(a), reduced the number of years of creditable service from 5 to 3 consecutive years and provided for averaging rate of basic pay over the total service in the case of an annuity under subsec. (d) or (e)(1) of section 8341 of this title based on service of less than three years.
 
 Pars. (17) to (19). Pub. L. 91–93, §101, added pars. (17) to (19).
 
-1968—Par. (3)(B)(ii). Pub. L. 90–623 inserted reference to section 60e–14 of title 2.
+<b>1968</b>—Par. (3)(B)(ii). Pub. L. 90–623 inserted reference to section 60e–14 of title 2.
 
-1966—Par. (3). Pub. L. 89–737 added subpar. (C) and, in the exception set out in provisions following subpar. (C), substituted reference to subpars. (B) and (C) for reference to subpar. (B).
+<b>1966</b>—Par. (3). Pub. L. 89–737 added subpar. (C) and, in the exception set out in provisions following subpar. (C), substituted reference to subpars. (B) and (C) for reference to subpar. (B).
 
 #### Change of Name
 
-Words “magistrate judge” and “United States magistrate judge” substituted for “magistrate” and “United States magistrate”, respectively, in par. (25) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+Words “magistrate judge” and “United States magistrate judge” substituted for “magistrate” and“United States magistrate”, respectively, in par. (25) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
 Gallaudet College, referred to in par. (1)(H), redesignated Gallaudet University by section 101(a) of Pub. L. 99–371, which is classified to section 4301(a) of Title 20, Education.
 
@@ -616,7 +616,7 @@ Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub.
 
 #### Effective Date of 1984 Amendments
 
-Amendment by Pub. L. 98–615 effective May 7, 1985, with enumerated exceptions and specific applicability provisions, see section 4(a)(1) of Pub. L. 98–615 as amended, set out as a note under section 8341 of this title.
+Amendment by Pub. L. 98–615 effective May 7, 1985, with enumerated exceptions and specific applicability provisions, see section 4(a)(1) of Pub. L. 98–615 asamended, set out as a note under section 8341 of this title.
 
 Section 3 of Pub. L. 98–531 provided that:
 
@@ -684,7 +684,7 @@ Pub. L. 99–638, §2(a), Nov. 10, 1986, 100 Stat. 3535, provided that: “This 
 
 #### Short Title of 1984 Amendment
 
-Section 1 of Pub. L. 98–615 provided: “That this Act \[enacting sections 3595a, 4302a and 5406–5410 of thistitle, amending this section and sections 3135, 3393, 3395, 3593–3595, 4312, 4501, 5332, 5334–5336, 5361, 5362, 5383, 5384, 5401–5405, 5948, 7543, 8334, 8336, 8339, 8341, 8342, 8345, 8348, 8901–8903, 8905, 8907, 8909, and 8913 of this title, section 1602 of Title 10, Armed Forces, and section 731 of Title 31, Money and Finance, and enacting provisions set out as notes under sections 3131, 3135, 5401, and 8341 of this title\] may be cited as the ‘Civil Service Retirement Spouse Equity Act of 1984’.”
+Section 1 of Pub. L. 98–615 provided: “That this Act \[enacting sections 3595a, 4302a and 5406–5410 of this title, amending this section and sections 3135, 3393, 3395, 3593–3595, 4312, 4501, 5332, 5334–5336, 5361, 5362, 5383, 5384, 5401–5405, 5948, 7543, 8334, 8336, 8339, 8341, 8342, 8345, 8348, 8901–8903, 8905, 8907, 8909, and 8913 of this title, section 1602 of Title 10, Armed Forces, and section 731 of Title 31, Money and Finance, and enacting provisions set out as notes under sections 3131, 3135, 5401, and 8341 of this title\] may be cited as the ‘Civil Service Retirement Spouse Equity Act of 1984’.”
 
 #### Short Title of 1969 Amendment
 
@@ -692,7 +692,7 @@ Section 1 of Pub. L. 91–93 provided: “That this Act \[amending this section 
 
 #### Savings Provision
 
-Section 105(c) of Pub. L. 92–352 provided that: “The amendments made by such subsection (a) \[amending this section\] shall not apply in the cases of persons retired or otherwise separated prior to the effective date established under subsection (b) of this section \[see Effective Date of 1972 Amendment note above\], and the rights of such persons and their survivors shall continue in the same manner and to the same extent as if such amendments had not been enacted.”
+Section 105(c) of Pub. L. 92–352 provided that: “The amendments made by such subsection (a) \[amending this section\] shall not apply in the cases of persons retired or otherwise separated prior to the effective dateestablished under subsection (b) of this section \[see Effective Date of 1972 Amendment note above\], and the rights of such persons and their survivors shall continue in the same manner and to the same extent as if such amendments had not been enacted.”
 
 #### Transfer of Functions
 
@@ -816,7 +816,7 @@ Source of funds.—Payments under this subsection shall be made from amounts ava
 
 No Mandatory Separation for a 2
 
-\-Year Period.—Nothing in section 8335(e) or 8425(d) of title 5, United States Code, as added by this section, shall require the automatic separation of any member of the Supreme Court Police before the end of the 2-year period beginning on the effective date of this section.
+\-Year Period.—Nothing in section 8335(e) or 8425(d) of title 5,United States Code, as added by this section, shall require the automatic separation of any member of the Supreme Court Police before the end of the 2-year period beginning on the effective date of this section.
 
 “(f)
 
@@ -952,7 +952,7 @@ Limitation.—Except as otherwise provided in this title, this title shall not a
 
 #### “Subtitle A—Description of Retirement Coverage Errors to Which This Title Applies and Measures for Their Rectification
 
-I74“chapter 1—employees and annuitants who should have been fers covered, but who were erroneously csrs covered or csrs-offset covered instead, and survivors of such employees and annuitants
+#### “chapter 1—employees and annuitants who should have been fers covered, but who were erroneously csrs covered or csrs-offset covered instead, and survivors of such employees and annuitants
 
 #### “SEC. 2101. EMPLOYEES.
 
@@ -966,7 +966,7 @@ Uncorrected Error.—
 
 &emsp;“(1)
 
-Applicability.—This subsection applies if the retirement coverage error has not been corrected before the effective date of the regulations described under paragraph (3). As soon as practicable after discovery of the error, and subject to the right of an election under paragraph (2), if CSRS covered or CSRS-Offset covered, such individual shall be treated as CSRS-Offset covered, retroactive to the date of the retirement coverage error.
+Applicability.—This subsection applies if the retirement coverage error has not been corrected before the effective date of the regulations describedunder paragraph (3). As soon as practicable after discovery of the error, and subject to the right of an election under paragraph (2), if CSRS covered or CSRS-Offset covered, such individual shall be treated as CSRS-Offset covered, retroactive to the date of the retirement coverage error.
 
 &emsp;“(2)
 
@@ -1226,7 +1226,7 @@ In General.—
 
 &emsp;“(1)
 
-FERS election prevented.—If an individual was prevented from electing FERS coverage because the individual was erroneously FERS covered during the period when the individual was eligible to elect FERS under title III of the Federal Employees Retirement System Act \[Pub. L. 99–335\] or the Federal Employees’ Retirement System Open Enrollment Act of 1997 (Public Law 105–61; 111 Stat. 1318 et seq.) \[5 U.S.C. 8331 notes\], the individual—
+FERS election prevented.—If an individual was prevented from electing FERS coverage because the individual was erroneously FERS covered during the period when the individual was eligible to elect FERS under title III of the Federal Employees Retirement System Act \[Pub. L. 99–335\] or the FederalEmployees’ Retirement System Open Enrollment Act of 1997 (Public Law 105–61; 111 Stat. 1318 et seq.) \[5 U.S.C. 8331 notes\], the individual—
 
 &emsp;&emsp;“(A) is deemed to have elected FERS coverage; and
 
@@ -1326,7 +1326,7 @@ Deposit.—In the case of a retirement coverage error in which—
 
 &emsp;“(3) there is a subsequent retroactive change to FERS coverage,
 
-> the excess of the amount of the CSRS civilian or military service credit deposit over the FERS civilian or military service credit deposit, together with interestcomputed in accordance with paragraphs (2) and (3) of section 8334(e) of title 5, United States Code, and regulations prescribed by the Office, shall be paid to the employee, the annuitant or, in the case of a deceased employee, to the individual entitled to lump-sum benefits under section 8424(d) of title 5, United States Code.
+> the excess of the amount of the CSRS civilian or military service credit deposit over the FERS civilian or military service credit deposit, together with interest computed in accordance with paragraphs (2) and (3) of section 8334(e) of title 5, United States Code, and regulations prescribed by the Office, shall be paid to the employee, the annuitant or, in the case of a deceased employee, to the individual entitled to lump-sum benefits under section 8424(d) of title 5, United States Code.
 
 “(b)
 
@@ -1444,7 +1444,7 @@ Amount.—Earnings under subparagraph (A) shall be computed in accordance with t
 
 &emsp;&emsp;“(C)
 
-Exceptions.—If an individual made retroactive contributions before the effective date of the regulations under section 2101(c), the Director mayprovide for an alternative calculation of lost earnings to the extent that a calculation under subparagraph (B) is not administratively feasible. The alternative calculation shall yield an amount that is as close as practicable to the amount computed under subparagraph (B), taking into account earnings previously paid.
+Exceptions.—If an individual made retroactive contributions before the effective date of the regulations under section 2101(c), the Director may provide for an alternative calculation of lost earnings to the extent that a calculation under subparagraph (B) is not administratively feasible. The alternative calculation shall yield an amount that is as close as practicable to the amount computed under subparagraph (B), taking into account earnings previously paid.
 
 &emsp;“(2)
 
@@ -1460,7 +1460,7 @@ Executive director.—The Executive Director shall prescribe regulations appropr
 
 &emsp;“(2)
 
-Office.—The Office, in consultation with the Federal Retirement Thrift Investment Board, shall prescribe regulations appropriate to carry out this section relating to the calculation of lost earnings on retroactive employee contributions made before the effective date of the regulations under section 2101(c).
+Office.—The Office, in consultation with the Federal Retirement Thrift Investment Board, shall prescribe regulations appropriate to carry out thissection relating to the calculation of lost earnings on retroactive employee contributions made before the effective date of the regulations under section 2101(c).
 
 #### “SEC. 2206. CERTAIN AGENCY AMOUNTS TO BE PAID INTO OR REMAIN IN THE CSRDF.
 
@@ -1572,7 +1572,7 @@ Central Intelligence Agency.—Sections 292 and 301 of the Central Intelligence 
 
 #### Federal Employees’ Retirement System Open Enrollment Act of 1997
 
-Pub. L. 105–61, title VI, §642(a)–(c), Oct. 10, 1997, 111 Stat. 1318, as amended by Pub. L. 105–66, title III, §348, Oct. 27, 1997, 111 Stat. 1451, known as the “Federal Employees’ Retirement System Open Enrollment Act of 1997”, provided that any individual who, as of Jan. 1, 1998, was employed by the Federal Government, and on such date was subject to subchapter III of chapter 83 of this title, other than a Member of Congress, could elect to become subject to chapter 84 of this title, and directed Office of Personnel Management to promulgate regulations which would provide for an election to be made not before July 1, 1998, or after Dec. 31, 1998.
+Pub. L. 105–61, title VI, §642(a)–(c), Oct. 10, 1997, 111 Stat. 1318, as amended by Pub. L. 105–66, title III, §348, Oct. 27, 1997, 111 Stat. 1451, known as the “Federal Employees’ Retirement System Open Enrollment Act of 1997”, provided that any individual who, as of Jan. 1, 1998, was employed by the Federal Government, and on such date was subject to subchapter III of chapter 83 of this title, other than a Member of Congress, could elect to become subject to chapter 84 of this title, and directed Office of Personnel Management to promulgateregulations which would provide for an election to be made not before July 1, 1998, or after Dec. 31, 1998.
 
 #### Pilot Programs for Defense Employees Converted to Contractor Employees Due to Privatization at Closed Military Installations
 
@@ -1806,7 +1806,7 @@ Elections for Certain Individuals Serving Continuously Since December 31, 1983.�
 
 &emsp;&emsp;“(ii) if such individual has not since made an election described in subparagraph (B), elect to become subject to subchapter III of chapter 83 of such title under the same terms and conditions as apply in the case of an individual described in section 8402(b)(2) of such title who is subject to such subchapter.
 
-&emsp;“(B) Nothing in this paragraph shall be considered to preclude the individual from electing to become subject to subchapter III of chapter 83 of such titlepursuant to notification under section 8331(2) of such title—
+&emsp;“(B) Nothing in this paragraph shall be considered to preclude the individual from electing to become subject to subchapter III of chapter 83 of such title pursuant to notification under section 8331(2) of such title—
 
 &emsp;&emsp;“(i) during the period after December 31, 1986, and before July 1, 1987; or
 
@@ -1892,7 +1892,7 @@ General and Special Rules.—All provisions of chapter 84 of title 5, United Sta
 
 &emsp;&emsp;“(V) any provision of section 8412(e) of such title which relates to a minimum period of service for entitlement to an annuity, but only if and to the extent that the service described in subparagraph (A) was as an air traffic controller; and
 
-&emsp;&emsp;“(VI) the provision of subsection (h) of section 8415 which relates to the minimum period of servicerequired to qualify for the higher accrual rate under such subsection.
+&emsp;&emsp;“(VI) the provision of subsection (h) of section 8415 which relates to the minimum period of service required to qualify for the higher accrual rate under such subsection.
 
 &emsp;“(2)(A) Except as provided in subparagraph (B), the creditability under chapter 84 of title 5, United States Code, of any military service which is performed before the effective date of the election under section 301 shall be determined in accordance with applicable provisions of such chapter.
 
@@ -1948,7 +1948,7 @@ General and Special Rules.—All provisions of chapter 84 of title 5, United Sta
 
 &emsp;&emsp;“(ii) with respect to reemployment service on or after the effective date of the election, under section 8415(a) through (g) of such title, as may apply based on the reemployment in which such annuitant was engaged on or after such effective date;
 
-> &emsp;with the ‘average pay’ used in any computation under clause (i) or (ii) being determined (based on rates of pay in effect during the period of reemployment,whether before, on, or after the effective date of the election) in the same way as provided for in paragraph (6). If the annuitant is receiving a reduced annuity as provided in section 8339(j) or section 8339(k)(2) of title 5, United States Code, the increase in annuity payable under this subparagraph is reduced by 10 percent and the survivor annuity payable under section 8341(b) of such title is increased by 55 percent of the increase in annuity payable under this subparagraph, unless, at the time of claiming the increase payable under this subparagraph, the annuitant notifies the Office of Personnel Management in writing that such annuitant does not desire the survivor annuity to be increased. If the annuitant dies while still reemployed, after having been reemployed for at least 1 full year (or the equivalent thereof, in the case of part-time employment), any survivor annuity payable under section 8341(b) of such title based on the service of such annuitant is increased as though the reemployment had otherwise terminated. In applying paragraph (7) to an amount under this subparagraph, any portion of such amount attributable to clause (i) shall be adjusted under subparagraph (A) of such paragraph, and any portion of such amount attributable to clause (ii) shall be adjusted under subparagraph (B) of such paragraph.
+> &emsp;with the ‘average pay’ used in any computation under clause (i) or (ii) being determined (based on rates of pay in effect during the period of reemployment, whether before, on, or after the effective date of the election) in the same way as provided for in paragraph (6). If the annuitant is receiving a reduced annuity as provided in section 8339(j) or section 8339(k)(2) of title 5, United States Code, the increase in annuity payable under this subparagraph is reduced by 10 percent and the survivor annuity payable under section 8341(b) of such title is increased by 55 percent of the increase in annuity payable under this subparagraph, unless, at the time of claiming the increase payable under this subparagraph, the annuitant notifies the Office of Personnel Management in writing that such annuitant does not desire the survivor annuity to be increased. If the annuitant dies while still reemployed, after having been reemployed for at least 1 full year (or the equivalent thereof, in the case of part-time employment), any survivor annuity payable under section 8341(b) of such title based on the service of such annuitant is increased as though the reemployment had otherwise terminated. In applying paragraph (7) to an amount under this subparagraph, any portion of such amount attributable to clause (i) shall be adjusted under subparagraph (A) of such paragraph, and any portion of such amount attributable to clause (ii) shall be adjusted under subparagraph (B) of such paragraph.
 
 &emsp;“(C)(i) If the annuitant serves on a full-time basis for at least 5 years, or on a part-time basis for periods equivalent to at least 5 years of full-time service, such annuitant may elect, instead of the benefit provided by subparagraph (B), to have such annuitant's rights redetermined, effective upon separation from employment. If the annuitant so elects, the redetermined annuity will become payable as if such annuitant were retiring for the first time based on the separation from reemployment service, and the provisions of this section concerning computation of annuity (other than any provision of this paragraph) shall apply.
 
@@ -2088,7 +2088,7 @@ Pub. L. 98–168, title II, Nov. 29, 1983, 97 Stat. 1106, as amended by Pub. L. 
 
 &emsp;“(5) that, where appropriate, deposits to the credit of such a retirement system be required with respect to service performed by an employee or officer of the Government during the period described in clause (1), and, where appropriate, annuities be offset by the amount of certain social security benefits attributable to such service; and
 
-&emsp;“(6) that such employees and officers who are first employed in civilian service by the Government orfirst take office in civilian service in the Government on or after January 1, 1984, become subject to such new Government retirement system as may be established for employees and officers of the Government on or after January 1, 1984, and before January 1, 1987, with credit for service performed after December 31, 1983, by such employees and officers transferred to such new Government retirement system.
+&emsp;“(6) that such employees and officers who are first employed in civilian service by the Government or first take office in civilian service in the Government on or after January 1, 1984, become subject to such new Government retirement system as may be established for employees and officers of the Government on or after January 1, 1984, and before January 1, 1987, with credit for service performed after December 31, 1983, by such employees and officers transferred to such new Government retirement system.
 
 #### “definitions
 
@@ -2278,7 +2278,7 @@ Section 402 of act July 31, 1956, ch. 804, title IV, 70 Stat. 760, provided that
 
 Ex. Ord. No. 12461, Feb. 17, 1984, 49 F.R. 6471, provided:
 
-By the authority vested in me as President by the Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983 (title II of Public Law98–168) (“the Act”) \[set out as a note above\], it is hereby ordered as follows:
+By the authority vested in me as President by the Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983 (title II of Public Law 98–168) (“the Act”) \[set out as a note above\], it is hereby ordered as follows:
 
 Section 1. The District of Columbia Police and Firefighters’ Retirement and Disability System, insofar as it applies to Federal employees who are covered under section 203(a)(1) of the Act \[set out as a note above\], is designated a covered retirement system under section 203(a)(2)(D) of the Act. The Secretary of the Treasury is designated the appropriate agency head with respect to such system, under section 205(a)(2)(D) of the Act \[set out as a note above\]. In discharging the responsibilities delegated by this Order, the Secretary shall be guided by the information and recommendations provided by the Mayor of the District of Columbia.
 

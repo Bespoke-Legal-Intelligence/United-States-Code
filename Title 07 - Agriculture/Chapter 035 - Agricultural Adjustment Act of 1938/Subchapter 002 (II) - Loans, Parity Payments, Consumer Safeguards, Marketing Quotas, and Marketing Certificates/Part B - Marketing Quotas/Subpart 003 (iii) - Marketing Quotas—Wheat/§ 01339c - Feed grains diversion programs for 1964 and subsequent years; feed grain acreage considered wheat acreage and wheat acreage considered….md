@@ -6,7 +6,7 @@ Effective with the 1964 crop, during any year in which an acreage diversion prog
 
 #### Amendments
 
-1965—Pub. L. 89–321 authorized the Secretary, in establishing terms and conditions for permitting wheat to be planted in lieu of oats and rye, to take into account the number of feed units per acre of wheat in relation to the number of feed units per acre of oats and rye.
+<b>1965</b>—Pub. L. 89–321 authorized the Secretary, in establishing terms and conditions for permitting wheat to be planted in lieu of oats and rye, to take into account the number of feed units per acre of wheat in relation to the number of feed units per acre of oats and rye.
 
 #### Codification
 

@@ -6,7 +6,7 @@ The President, by and with the advice and consent of the Senate, shall appoint a
 
 #### (b) Specified sessions
 
-The President, by and with the advice and consent of the Senate, may appoint or designate from time to time to attend a specified session or specified sessions of the General Conference of the Agency a representative of the United States and such number of alternates as he may determine consistent with the rules of procedure of the General Conference.
+The President, by and with the advice and consent of the Senate, may appoint or designatefrom time to time to attend a specified session or specified sessions of the General Conference of the Agency a representative of the United States and such number of alternates as he may determine consistent with the rules of procedure of the General Conference.
 
 #### (c) Designation of other persons
 
@@ -70,7 +70,7 @@ Request for iaea reports.—The Secretary of State shall direct the United State
 
 &emsp;“(2)
 
-Annual reports to the congress.—Not later than 180 days after the date of the enactment of this Act \[Oct. 21, 1998\], and on an annual basis thereafter, the Secretary of State, in consultation with the United States representative to the International Atomic Energy Agency, shall prepare and submit to the Congress a report containing a description of all programs or projects of the Agency in each country described in section 307(a) of the Foreign Assistance Act of 1961 (22 U.S.C. 2227(a)).”
+Annual reports to the congress.—Not later than 180 days after the date of the enactment of this Act \[Oct. 21, 1998\], and on an annual basis thereafter, the Secretary of State, in consultation with the United States representative to the International Atomic Energy Agency, shall prepare and submit to the Congress a report containing a description of allprograms or projects of the Agency in each country described in section 307(a) of the Foreign Assistance Act of 1961 (22 U.S.C. 2227(a)).”
 
 #### Privileges, Exemptions, and Immunities
 

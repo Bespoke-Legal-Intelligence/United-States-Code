@@ -90,11 +90,11 @@ A prior section 12 of act July 31, 1945, ch. 341, was classified to section 635i
 
 #### Amendments
 
-2008—Subsec. (a)(2). Pub. L. 110–246 made technical amendment to reference in original act which appears in text as reference to section 1738 of title 7.
+<b>2008</b>—Subsec. (a)(2). Pub. L. 110–246 made technical amendment to reference in original act which appears in text as reference to section 1738 of title 7.
 
 Subsec. (c)(1)(B). Pub. L. 110–246 made technical amendment to reference in original act which appears in text as reference to sections 1738f through 1738k of title 7.
 
-2002—Subsec. (a)(1). Pub. L. 107–189 substituted “subsection (b) of this section” for “section (b) of this section”.
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–189 substituted “subsection (b) of this section” for “section (b) of this section”.
 
 #### Effective Date of 2008 Amendment
 

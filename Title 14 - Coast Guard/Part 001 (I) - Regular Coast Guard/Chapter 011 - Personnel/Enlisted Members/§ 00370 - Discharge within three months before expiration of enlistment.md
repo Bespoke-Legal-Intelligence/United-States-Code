@@ -6,5 +6,5 @@ Under regulations prescribed by the Secretary, any enlisted member may be discha
 
 #### Amendments
 
-1984—Pub. L. 98–557 substituted reference to enlisted member for reference to enlisted man.
+<b>1984</b>—Pub. L. 98–557 substituted reference to enlisted member for reference to enlisted man.
 

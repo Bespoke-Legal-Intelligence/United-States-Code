@@ -60,10 +60,6 @@ Subsec. (b)(4). Pub. L. 95–238, §601(b), substituted provisions relating to t
 
 Subsec. (c). Pub. L. 95–238, §601(c), in par. (1) substituted provisions relating to the first contracts for purchase or lease of vehicles and delivery of such vehicles, for provisions relating to contracts for the purchase or lease of 2,500 vehicles and delivery of such vehicles within 39 months after Sept. 17, 1976, in par. (2) substituted provisions relating to contracts for the purchase or lease of additional vehicles which satisfy amended performance standards and are improvements in the state-of-the-art and criteria for demonstrations, for provisions relating to contracts for the purchase or lease of 5,000 advanced vehicles and delivery of such vehicles within 72 months after Sept. 17, 1976, with an extention of the delivery period for 6 additional months, and added pars. (3) and (4).
 
-#### Change of Name
-
-Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
-
 #### Transfer of Functions
 
 “Secretary of Energy” substituted for “Administrator” in subsecs. (a), (b)(1), (2), (d), and (e) pursuant to section 301(a) of Pub. L. 95–91, see Codification note set out under section 2502 of this title.

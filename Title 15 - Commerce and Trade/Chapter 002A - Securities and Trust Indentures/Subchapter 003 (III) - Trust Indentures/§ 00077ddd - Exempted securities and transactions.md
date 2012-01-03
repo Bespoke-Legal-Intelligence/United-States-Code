@@ -4,7 +4,7 @@
 
 The provisions of this subchapter shall not apply to any of the following securities:
 
-&emsp;(1) any security other than (A) a note, bond, debenture, or evidence of indebtedness, whether or not secured, or (B) a certificate of interest or participation in any such note, bond, debenture, or evidence of indebtedness, or (C) a temporary certificate for, or guarantee of, any such note, bond, debenture, evidence of indebtedness, or certificate;
+&emsp;(1) any security other than (A) a note, bond, debenture, or evidence of indebtedness, whether or not secured, or (B) a certificate of interest or participation in any such note, bond, debenture, or evidence of indebtedness, or (C) atemporary certificate for, or guarantee of, any such note, bond, debenture, evidence of indebtedness, or certificate;
 
 &emsp;(2) any certificate of interest or participation in two or more securities having substantially different rights and privileges, or a temporary certificate for any such certificate;
 

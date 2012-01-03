@@ -6,21 +6,21 @@ The Board shall terminate October 1, 2013.
 
 #### Amendments
 
-2010—Pub. L. 111–200 substituted “October 1, 2013” for “October 1, 2009”.
+<b>2010</b>—Pub. L. 111–200 substituted “October 1, 2013” for “October 1, 2009”.
 
-2005—Pub. L. 109–143 substituted “October 1, 2009” for “October 1, 2004”.
+<b>2005</b>—Pub. L. 109–143 substituted “October 1, 2009” for “October 1, 2004”.
 
-1999—Pub. L. 106–63 substituted “October 1, 2004” for “October 1, 1999”.
+<b>1999</b>—Pub. L. 106–63 substituted “October 1, 2004” for “October 1, 1999”.
 
-1996—Pub. L. 104–208 substituted “1999” for “1995”.
+<b>1996</b>—Pub. L. 104–208 substituted “1999” for “1995”.
 
-1992—Pub. L. 102–457 substituted “1995” for “1992”.
+<b>1992</b>—Pub. L. 102–457 substituted “1995” for “1992”.
 
-1990—Pub. L. 101–525 amended section generally, substituting present provision for provisions which had: in subsec. (a) directed that the Board terminate on Nov. 15, 1989; in subsec. (b) provided for alternative termination dates; in subsec. (c) required reports to Congress; in subsecs. (d) and (e) required certification of compliance and verification of information, respectively; and in subsec. (f) mandated dissolution of corporations established by the Board prior to its termination.
+<b>1990</b>—Pub. L. 101–525 amended section generally, substituting present provision for provisions which had: in subsec. (a) directed that the Board terminate on Nov. 15, 1989; in subsec. (b) provided for alternative termination dates; in subsec. (c) required reports to Congress; in subsecs. (d) and (e) required certification of compliance and verification of information, respectively; and in subsec. (f) mandated dissolution of corporations established by the Board prior to its termination.
 
-1988—Pub. L. 100–674 amended section generally. Prior to amendment, section read as follows: “The Board shall terminate on November 16, 1988. Upon termination of the Board, the Board shall take such actions as may be required to provide for the dissolution of any corporation established by the Board under section 806(g) of this title. The Board shall set forth, in its bylaws, the procedures for dissolution to be followed by the Board.”
+<b>1988</b>—Pub. L. 100–674 amended section generally. Prior to amendment, section read as follows: “The Board shall terminate on November 16, 1988. Upon termination of the Board, the Board shall take such actions as may be required to provide for the dissolution of any corporation established by the Board under section 806(g) of this title. The Board shall set forth, in its bylaws, the procedures for dissolution to be followed by the Board.”
 
-1985—Pub. L. 99–161 substituted “on November 16, 1988” for “six years after November 16, 1979”.
+<b>1985</b>—Pub. L. 99–161 substituted “on November 16, 1988” for “six years after November 16, 1979”.
 
 #### Effective Date of 2010 Amendment
 
@@ -32,5 +32,5 @@ Pub. L. 109–143, §1(b)(2), Dec. 22, 2005, 119 Stat. 2659, provided that: “D
 
 Section 5401(c) of div. A of Pub. L. 104–208 provided that: “During the period of October 1, 1995, through the date of the enactment of this section \[Sept. 30, 1996\], all actions and functions of the Congressional Award Board under the Congressional Award Act \[2 U.S.C. 801 et seq.\] shall have the same effect as though no lapse or termination of the Congressional Award Board ever occurred.”
 
-Section 2(b) of Pub. L. 101–525 provided that: “During the period of October 1, 1990, through the date of the enactment of this section \[Nov. 6, 1990\], all actions andfunctions of the Congressional Award Board under the Congressional Award Act (2 U.S.C. 801 et seq.) shall have the same effect as though no lapse or termination of the Board ever occurred.”
+Section 2(b) of Pub. L. 101–525 provided that: “During the period of October 1, 1990, through the date of the enactment of this section \[Nov. 6, 1990\], all actions and functions of the Congressional Award Board under the Congressional Award Act (2 U.S.C. 801 et seq.) shall have the same effect as though no lapse or termination of the Board ever occurred.”
 

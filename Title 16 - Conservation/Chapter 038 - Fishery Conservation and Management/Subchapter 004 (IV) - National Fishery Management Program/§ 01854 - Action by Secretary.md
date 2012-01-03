@@ -24,7 +24,7 @@
 
 &emsp;(C) recommendations concerning the actions that could be taken by the Council to conform such plan or amendment to the requirements of applicable law.
 
-> If the Secretary does not notify a Council within 30 days of the end of the comment period of the approval, disapproval, or partial approval of a plan or amendment, then such plan or amendment shall take effect as if approved.
+> If the Secretary does not notify a Council within 30 days of the end of the comment period of theapproval, disapproval, or partial approval of a plan or amendment, then such plan or amendment shall take effect as if approved.
 
 (4) If the Secretary disapproves or partially approves a plan or amendment, the Council may submit a revised plan or amendment to the Secretary for review under this subsection.
 
@@ -74,7 +74,7 @@
 
 #### (d) Establishment of fees
 
-(1) The Secretary shall by regulation establish the level of any fees which are authorized to be charged pursuant to section 1853(b)(1) of this title. The Secretary may enter into a cooperative agreement with the States concerned under which the States administer the permit system and the agreement may provide that all or part of the fees collected under the system shall accrue to the States. The level of fees charged under this subsection shall not exceed the administrative costs incurred in issuing the permits.
+(1) The Secretary shall by regulation establish the level of any fees which are authorized to becharged pursuant to section 1853(b)(1) of this title. The Secretary may enter into a cooperative agreement with the States concerned under which the States administer the permit system and the agreement may provide that all or part of the fees collected under the system shall accrue to the States. The level of fees charged under this subsection shall not exceed the administrative costs incurred in issuing the permits.
 
 (2)(A) Notwithstanding paragraph (1), the Secretary is authorized and shall collect a fee to recover the actual costs directly related to the management, data collection, and enforcement of any—
 
@@ -178,7 +178,7 @@ The Secretary may repeal or revoke a fishery management plan for a fishery under
 
 &emsp;&emsp;(A) conform to the time lines for review and approval of fishery management plans and plan amendments under this section; and
 
-&emsp;&emsp;(B) integrate applicable environmental analytical procedures, including the time frames for public input, with the procedure for the preparation and dissemination of fishery management plans, plan amendments, and other actions taken or approved pursuant to this chapter in order to provide for timely, clear and concise analysis that is useful to decision makers and the public, reduce extraneous paperwork, and effectively involve the public.
+&emsp;&emsp;(B) integrate applicable environmental analytical procedures, including the time frames for public input, with the procedure for the preparation and dissemination of fishery management plans, plan amendments, and other actions taken or approved pursuant to this chapter in order to provide for timely, clear and concise analysis that isuseful to decision makers and the public, reduce extraneous paperwork, and effectively involve the public.
 
 #### (2) Usage
 
@@ -220,7 +220,7 @@ Paragraph (3), referred to in subsec. (f)(1), was repealed by Pub. L. 104–297,
 
 The Atlantic Tunas Convention Act of 1975, referred to in subsec. (g)(2), is Pub. L. 94–70, Aug. 5, 1975, 89 Stat. 385, as amended, which is classified generally to chapter 16A (§971 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 971 of this title and Tables.
 
-The Western and Central Pacific Fisheries Convention Implementation Act, referred to in subsec. (g)(2), is title V of Pub. L. 109–479, Jan. 12, 2007, 120 Stat. 3635, which is classified generally to chapter 88 (§6901 et seq.) of this title. For complete classification of this Act tothe Code, see Short Title note set out under section 6901 of this title and Tables.
+The Western and Central Pacific Fisheries Convention Implementation Act, referred to in subsec. (g)(2), is title V of Pub. L. 109–479, Jan. 12, 2007, 120 Stat. 3635, which is classified generally to chapter 88 (§6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
 
 The National Environmental Policy Act, referred to in subsec. (i)(1), probably means the National Environmental Policy Act of 1969, Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
@@ -322,7 +322,7 @@ Subsec. (c)(2)(B). Pub. L. 99–659, §106(3)(C), substituted “60-day” for �
 
 Subsec. (e). Pub. L. 99–659, §106(4), inserted “, in cooperation with the Councils,”, “and on the economics of the fisheries”, and “The Secretary shall annually review and update the comprehensive program and make the results of the review and update available to the Councils.”
 
-<b>1983</b>—Subsec. (a). Pub. L. 97–453, §7(a)(1), amended subsec. (a) generally, which had provided that within 60 days after the Secretary received any fishery management plan, or any amendment to any such plan, which was prepared by any Council, the Secretary was to review such plan or amendment pursuant to subsection (b) of this section, notify such Council in writing of his approval, disapproval, or partial disapproval of such plan or amendment, and that in the case of disapproval or partial disapproval, the Secretary was to include in such notification a statement and explanation of the Secretary's objections and the reasons therefor, suggestions for improvement, a request to such Council to change such plan or amendment to satisfy the objections, and a request to resubmit the plan or amendment, as so modified, to the Secretary within 45 days after the date on which the Council received such notification.
+<b>1983</b>—Subsec. (a). Pub. L. 97–453, §7(a)(1), amended subsec. (a) generally, which had provided that within 60 days after the Secretary received any fishery management plan, or any amendment to any such plan, which was prepared by any Council, the Secretary was to review such plan or amendment pursuant to subsection (b) of this section, notify such Council in writing of his approval, disapproval, or partial disapproval of such plan or amendment, and that in the case of disapproval or partial disapproval, the Secretary was to include in such notification a statement and explanation of the Secretary's objections and the reasons therefor, suggestions for improvement, a request to such Council tochange such plan or amendment to satisfy the objections, and a request to resubmit the plan or amendment, as so modified, to the Secretary within 45 days after the date on which the Council received such notification.
 
 Subsec. (b). Pub. L. 97–453, §7(a)(1), amended subsec. (b) generally, which had provided that the Secretary was to review any fishery management plan, and any amendment to any such plan, prepared by any Council and submitted to him to determine whether it was consistent with the national standards, the other provisions of this chapter, and any other applicable law, and that in carrying out such review, the Secretary was to consult with the Secretary of State with respect to foreign fishing, and the Secretary of the department in which the Coast Guard was operating with respect to enforcement at sea.
 

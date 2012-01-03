@@ -98,7 +98,7 @@ Subsec. (g). Pub. L. 108–237, §221(b)(3), inserted “by any officer, directo
 
 #### Effective Date of 1980 Amendment
 
-Section 5(b) of Pub. L. 96–349 provided that: “The amendments made by this section \[amending this section\] shall apply only with respect to actions commenced after the date of the enactment of this Act \[Sept. 12, 1980\].”
+Pub. L. 96–349, §5(b), Sept. 12, 1980, 94 Stat. 1157, provided that: “The amendments made by this section \[amending this section\] shall apply only with respect to actions commenced after the date of the enactment of this Act \[Sept. 12, 1980\].”
 
 #### Suspension of Limitation
 

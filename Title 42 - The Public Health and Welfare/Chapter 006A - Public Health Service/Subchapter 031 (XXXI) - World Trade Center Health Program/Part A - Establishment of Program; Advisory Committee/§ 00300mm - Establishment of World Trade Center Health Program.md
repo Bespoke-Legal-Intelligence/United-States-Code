@@ -6,7 +6,7 @@ There is hereby established within the Department of Health and Human Services a
 
 &emsp;(1) medical monitoring and treatment benefits to eligible emergency responders and recovery and cleanup workers (including those who are Federal employees) who responded to the September 11, 2001, terrorist attacks; and
 
-&emsp;(2) initial health evaluation, monitoring, and treatment benefits to residents and other building occupants and area workers in NewYork City who were directly impacted and adversely affected by such attacks.
+&emsp;(2) initial health evaluation, monitoring, and treatment benefits to residents and other building occupants and area workers in New York City who were directly impacted and adversely affected by such attacks.
 
 #### (b) Components of program
 
@@ -88,7 +88,7 @@ The WTC Program Administrator working with the Clinical Centers of Excellence sh
 
 &emsp;&emsp;For each clinical program so described—
 
-&emsp;&emsp;&emsp;(i) information on the costs of monitoring and initial health evaluation and the costs of treatment and on the estimatedcosts of such monitoring, evaluation, and treatment in the succeeding fiscal year; and
+&emsp;&emsp;&emsp;(i) information on the costs of monitoring and initial health evaluation and the costs of treatment and on the estimated costs of such monitoring, evaluation, and treatment in the succeeding fiscal year; and
 
 &emsp;&emsp;&emsp;(ii) an estimate of the cost of medical treatment for WTC-related health conditions that have been paid for or reimbursed by workers’ compensation, by public or private health plans, or by New York City under section 300mm–41 of this title.
 

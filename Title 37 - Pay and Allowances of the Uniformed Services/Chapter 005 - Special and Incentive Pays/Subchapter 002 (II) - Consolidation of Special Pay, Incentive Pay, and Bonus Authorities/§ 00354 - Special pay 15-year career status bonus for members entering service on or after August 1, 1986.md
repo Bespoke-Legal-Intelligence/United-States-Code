@@ -82,5 +82,5 @@ For savings provision relating to payment or repayment of any bonus, incentive p
 
 #### Application to Existing Agreements
 
-Pub. L. 107–107, div. A, title VI, §620(b), Dec. 28, 2001, 115 Stat. 1139, provided that: “The Secretary concerned (as defined in section 101(5) of title 37, United States Code) shall extend to each member of the uniformedservices who has executed the written agreement required by subsection (a)(2) of section 322 \[now 354\] of such title before the date of the enactment of this Act \[Dec. 28, 2001\], but who has not received the lump sum payment by that date, an opportunity to make the election authorized by subsection (d) of such section, as amended by this section.”
+Pub. L. 107–107, div. A, title VI, §620(b), Dec. 28, 2001, 115 Stat. 1139, provided that: “The Secretary concerned (as defined in section 101(5) of title 37, United States Code) shall extend to each member of the uniformed services who has executed the written agreement required by subsection (a)(2) of section 322 \[now 354\] of such title before the date of the enactment of this Act \[Dec. 28, 2001\], but who has not received the lump sum payment by that date, an opportunity to make the election authorized by subsection (d) of such section, as amended by this section.”
 

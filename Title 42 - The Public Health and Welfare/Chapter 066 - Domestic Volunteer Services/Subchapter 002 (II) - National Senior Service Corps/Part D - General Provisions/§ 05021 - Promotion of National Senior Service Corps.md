@@ -26,7 +26,7 @@
 
 #### References in Text
 
-The Older Americans Act of 1965, referred to in subsec. (a)(2)(A)(ii), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218. Title III of the Act is classified generally to subchapter III (§3021 et seq.) of chapter 35 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
+The Older Americans Act of 1965, referred to in subsec. (a)(2)(A)(ii), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218. Title III of the Act is classified generally to subchapter III (§3021 et seq.) of chapter 35 of this title. For complete classification of this Act to the Code, seeShort Title note set out under section 3001 of this title and Tables.
 
 The Social Security Act, referred to in subsec. (a)(2)(A)(iii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 

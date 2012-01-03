@@ -20,7 +20,7 @@ Section 3351(b) of this title, referred to in text, was redesignated section 335
 
 #### Amendments
 
-1996—Subsec. (c). Pub. L. 104–208 added subsec. (c).
+<b>1996</b>—Subsec. (c). Pub. L. 104–208 added subsec. (c).
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

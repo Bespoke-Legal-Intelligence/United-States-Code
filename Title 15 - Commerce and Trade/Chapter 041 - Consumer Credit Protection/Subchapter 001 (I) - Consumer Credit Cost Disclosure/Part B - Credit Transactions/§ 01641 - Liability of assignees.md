@@ -16,7 +16,7 @@ Any consumer who has the right to rescind a transaction under section 1635 of th
 
 #### (1) In general
 
-&emsp;Any person who purchases or is otherwise assigned a mortgage referred to in section 1602(aa) of this title shall be subject to all claims and defenses with respect to that mortgage that the consumer could assert against the creditor of the mortgage, unless the purchaser or assignee demonstrates, by a preponderance of the evidence, that a reasonable person exercising ordinary due diligence, could not determine, based on the documentation required by this subchapter, the itemization of the amount financed, and other disclosure of disbursements that the mortgage was a mortgage referred to in section 1602(aa) of this title. The preceding sentence does not affect rights of a consumer under subsection (a), (b), or (c) of this section or any other provision of this subchapter.
+&emsp;Any person who purchases or is otherwise assigned a mortgage referred to in section 1602(aa) <sup>1</sup> of this title shall be subject to all claims and defenses with respect to that mortgage that the consumer could assert against the creditor of the mortgage, unless the purchaser or assignee demonstrates, by a preponderance of the evidence, that a reasonable person exercising ordinary due diligence, could not determine, based on the documentation required by this subchapter, the itemization of the amount financed, and other disclosure of disbursements that the mortgage was a mortgage referred to in section 1602(aa) <sup>1</sup> of thistitle. The preceding sentence does not affect rights of a consumer under subsection (a), (b), or (c) of this section or any other provision of this subchapter.
 
 #### (2) Limitation on damages
 
@@ -36,7 +36,7 @@ Any consumer who has the right to rescind a transaction under section 1635 of th
 
 #### (4) Notice
 
-&emsp;Any person who sells or otherwise assigns a mortgage referred to in section 1602(aa) of this title shall include a prominent notice of the potential liability under this subsection as determined by the Board.
+&emsp;Any person who sells or otherwise assigns a mortgage referred to in section 1602(aa) <sup>1</sup> of this title shall include a prominent notice of the potential liability under this subsection as determined by the Bureau.
 
 #### (e) Liability of assignee for consumer credit transactions secured by real property
 
@@ -96,11 +96,13 @@ Any consumer who has the right to rescind a transaction under section 1635 of th
 
 (Pub. L. 90–321, title I, §131, May 29, 1968, 82 Stat. 157; Pub. L. 96–221, title VI, §616(a), Mar. 31, 1980, 94 Stat. 182; Pub. L. 103–325, title I, §153(c), Sept. 23, 1994, 108 Stat. 2195; Pub. L. 104–29, §7, Sept. 30, 1995, 109 Stat. 274; Pub. L. 111–22, div. A, title IV, §404(a), May 20, 2009, 123 Stat. 1658; Pub. L. 111–203, title X, §1100A(2), July 21, 2010, 124 Stat. 2107.)
 
-#### Amendment of Section
+#### References in Text
 
-<i>Pub. L. 111–203, title X, §§1100A(2), 1100H, July 21, 2010, 124 Stat. 2107, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Board” each place that term appears and inserting “Bureau”. See Effective Date of 2010 Amendment note below.</i>
+Section 1602(aa) of this title, referred to in subsec. (d)(1), (4), was redesignated section 1602(bb) of this title by Pub. L. 111–203, title X, §1100A(1)(A), July 21, 2010, 124 Stat. 2107.
 
 #### Amendments
+
+<b>2010</b>—Subsec. (d)(4). Pub. L. 111–203 substituted “Bureau” for “Board”.
 
 <b>2009</b>—Subsec. (g). Pub. L. 111–22 added subsec. (g).
 
@@ -119,4 +121,6 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as a note under section 1602 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

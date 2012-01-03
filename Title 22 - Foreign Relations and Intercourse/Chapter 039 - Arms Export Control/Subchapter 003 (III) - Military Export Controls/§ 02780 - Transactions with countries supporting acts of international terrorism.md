@@ -38,7 +38,7 @@ The following transactions by the United States Government are prohibited:
 
 &emsp;&emsp;(C) Selling, leasing, loaning, granting, or otherwise providing any munitions item to any recipient which is not the government of or a person in a country described in subsection (d) of this section if the United States person has reason to know that the munitions item will be made available to any country described in subsection (d) of this section.
 
-&emsp;&emsp;(D) Taking any other action which would facilitate the acquisition, directly or indirectly, of any munitions item by the government of any country described in subsection (d) of this section, or any person acting on behalf of that government, if the United States person has reason to know that that action will facilitate the acquisition of that item by such a government or person.
+&emsp;&emsp;(D) Taking any other action which would facilitate the acquisition, directly or indirectly, of any munitions item by the government of any country described in subsection (d) of this section, or any person acting on behalf of that government, if the United States person has reason to know that thataction will facilitate the acquisition of that item by such a government or person.
 
 #### (2) Liability for actions of foreign subsidiaries, etc.
 
@@ -102,7 +102,7 @@ The President may waive the prohibitions contained in this section with respect 
 
 &emsp;&emsp;&emsp;(ii) a description of the munitions items involved in the proposed transaction (including their market value) and the actual sale price at each step in the transaction (or if the items are transferred by other than sale, the manner in which they will be provided);
 
-&emsp;&emsp;&emsp;(iii) the reasons why the proposed transaction is essential to the national securityinterests of the United States and the justification for such proposed transaction;
+&emsp;&emsp;&emsp;(iii) the reasons why the proposed transaction is essential to the national security interests of the United States and the justification for such proposed transaction;
 
 &emsp;&emsp;&emsp;(iv) the date on which the proposed transaction is expected to occur; and
 
@@ -164,7 +164,7 @@ As used in this section—
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(1), (2), (i)(1), and (k), was in the original “this Act”, and this chapter, referred to in subsec. (i)(2), was in the original “the Arms Export Control Act”, both of which mean Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+This chapter, referred to in subsecs. (a)(1), (2), (i)(1), and (k), was in the original “this Act”, and this chapter, referred to in subsec. (i)(2), was in the original “the Arms Export Control Act”, both of which mean Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, as amended, which isclassified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 The Foreign Assistance Act of 1961, referred to in subsecs. (a)(1), (2) and (i)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 

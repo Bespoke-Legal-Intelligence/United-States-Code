@@ -38,7 +38,7 @@ Limitation.—The Secretary may not accept a gift or donation under subsection (
 
 (d)
 
-Criteria for Acceptance.—The Secretary shall prescribe written guidance setting forth the criteria to be used in determining whetherthe acceptance of a gift or donation would have a result described in subsection (c).
+Criteria for Acceptance.—The Secretary shall prescribe written guidance setting forth the criteria to be used in determining whether the acceptance of a gift or donation would have a result described in subsection (c).
 
 (e)
 

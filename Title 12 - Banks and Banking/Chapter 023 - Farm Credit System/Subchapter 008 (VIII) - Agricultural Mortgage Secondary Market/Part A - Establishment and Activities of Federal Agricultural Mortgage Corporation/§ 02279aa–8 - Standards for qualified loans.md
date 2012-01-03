@@ -54,7 +54,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–246, §5406(c)(1), added pars. (1) and (2), designated last sentence as par. (3) and inserted heading, and struck out former first sentence which read as follows: “Not later than 120 days after the appointment and election of the permanent Board, the Corporation, in consultation with originators, shall establish uniform underwriting, security appraisal, and repayment standards for qualified loans.”
+<b>2008</b>—Subsec. (a). Pub. L. 110–246, §5406(c)(1), added pars. (1) and (2), designated last sentence as par. (3) and inserted heading, and struck out former first sentence which read as follows: “Not later than 120 days after the appointment and election of the permanent Board, the Corporation, in consultation with originators, shall establish uniform underwriting, security appraisal, and repayment standards for qualified loans.”
 
 Subsec. (b). Pub. L. 110–246, §5406(c)(2)(A), inserted “with respect to loans secured by agricultural real estate” after “subsection (a) of this section” in introductory provisions.
 
@@ -68,9 +68,9 @@ Subsecs. (d), (e). Pub. L. 110–246, §5406(c)(4), (5), redesignated subsec. (e
 
 &emsp;“(2) the end of a period consisting of 90 calendar days and beginning on such date.”
 
-1996—Subsec. (e). Pub. L. 104–105 inserted at end “The Board shall promote and encourage the inclusion of qualified loans for small farms and family farmers in the agricultural mortgage secondary market.”
+<b>1996</b>—Subsec. (e). Pub. L. 104–105 inserted at end “The Board shall promote and encourage the inclusion of qualified loans for small farms and family farmers in the agricultural mortgage secondary market.”
 
-1988—Subsec. (a). Pub. L. 100–399 inserted “permanent” after “appointment and election of the”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–399 inserted “permanent” after “appointment and election of the”.
 
 #### Effective Date of 2008 Amendment
 

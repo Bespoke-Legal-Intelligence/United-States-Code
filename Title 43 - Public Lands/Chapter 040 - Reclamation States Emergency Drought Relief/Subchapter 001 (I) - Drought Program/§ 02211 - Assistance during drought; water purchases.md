@@ -30,7 +30,7 @@ For provisions directing that authorities established under this subchapter shal
 
 Pub. L. 107–206, title I, §103, Aug. 2, 2002, 116 Stat. 823, provided that: “Not later than 14 days after the date of enactment of this Act \[Aug. 2, 2002\], the Secretary of Agriculture shall carry out the transfer of funds under section 2507(a) of the Food Security and Rural Investment Act of 2002 (Public Law 107–171) \[set out below\].”
 
-Pub. L. 107–171, title II, §2507, May 13, 2002, 116 Stat. 275, as amended by Pub. L. 110–234, title II, §2807, May 22, 2008, 122 Stat. 1090; Pub. L. 110–246, §4(a), title II, §2807, June 18, 2008, 122 Stat. 1664, 1818; Pub. L. 111–85, title II, §207, Oct. 28, 2009, 123 Stat. 2858, provided that:
+Pub. L. 107–171, title II, §2507, May 13, 2002, 116 Stat. 275, as amended by Pub. L. 110–234, title II, §2807, May 22, 2008, 122 Stat. 1090; Pub. L. 110–246, §4(a), title II, §2807, June 18, 2008, 122 Stat. 1664, 1818; Pub. L. 111–85, title II, §207, Oct. 28, 2009, 123 Stat. 2858; Pub. L. 112–74,div. B, title II, §208(a), Dec. 23, 2011, 125 Stat. 866, provided that:
 
 “(a)
 
@@ -42,11 +42,11 @@ Transfer.—Subject to subsection (b) and paragraph (1) of section 207(a) of Pub
 
 “(b)
 
-Permitted Uses.—In any case in which there are willing sellers, the funds described in subsection (a) may be used—
+Permitted Uses.—For the benefit of at-risk natural desert terminal lakes and associated riparian and watershed resources, in any case in which there are willing sellers or willing participants, the funds described in subsection (a) may be used—
 
 &emsp;“(1) to lease water;
 
-&emsp;“(2) to purchase land, water appurtenant to the land, and related interests in the Walker River Basin in accordance with section 208(a)(1)(A) of the Energy and Water Development Appropriations Act, 2006 (Public Law 109–103; 119 Stat. 2268); and
+&emsp;“(2) to purchase land, water appurtenant to the land, and related interests; and
 
-&emsp;“(3) for efforts consistent with researching, supporting, and conserving fish, wildlife, plant, and habitat resources in the Walker River Basin.”
+&emsp;“(3) for efforts consistent with researching, supporting, and conserving fish, wildlife, plant, and habitat resources.”
 

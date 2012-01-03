@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretary to take action
 
-Notwithstanding any other provision of law, whenever the Secretary of Agriculture determines that an action authorized under subsection (c), (d), or (e) of this section will reducethe total of the direct and indirect costs to the Federal Government of a commodity program administered by the Secretary without adversely affecting income to small- and medium-sized producers participating in such program, the Secretary shall take such action with respect to the commodity program involved.
+Notwithstanding any other provision of law, whenever the Secretary of Agriculture determines that an action authorized under subsection (c), (d), or (e) of this section will reduce the total of the direct and indirect costs to the Federal Government of a commodity program administered by the Secretary without adversely affecting income to small- and medium-sized producers participating in such program, the Secretary shall take such action with respect to the commodity program involved.
 
 #### (b) Reservation of Secretary's right to reopen or change contracts if producer agrees
 
@@ -40,9 +40,9 @@ Section was enacted as part of the Food Security Act of 1985, and not as part of
 
 #### Amendments
 
-2008—Subsec. (e). Pub. L. 110–246, §1603(g)(1), struck out “of $50,000” before “per person” in second sentence.
+<b>2008</b>—Subsec. (e). Pub. L. 110–246, §1603(g)(1), struck out “of $50,000” before “per person” in second sentence.
 
-1989—Subsec. (d). Pub. L. 101–134, in introductory provisions, inserted “(including the program authorized by section 1445e of this title)” after “nonrecourse loan program” and substituted “benefits” for “savings” and struck out concluding provisions which read as follows: “but the Secretary may not reduce the settlement price to less than the principal due on the loan”.
+<b>1989</b>—Subsec. (d). Pub. L. 101–134, in introductory provisions, inserted “(including the program authorized by section 1445e of this title)” after “nonrecourse loan program” and substituted “benefits” for “savings” and struck out concluding provisions which read as follows: “but the Secretary may not reduce the settlement price to less than the principal due on the loan”.
 
 #### Effective Date of 2008 Amendment
 

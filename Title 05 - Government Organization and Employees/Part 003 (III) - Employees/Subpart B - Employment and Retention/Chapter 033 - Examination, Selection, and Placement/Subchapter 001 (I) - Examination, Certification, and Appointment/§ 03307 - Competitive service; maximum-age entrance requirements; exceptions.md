@@ -8,13 +8,25 @@
 
 (d) The head of any agency may determine and fix the minimum and maximum limits of age within which an original appointment may be made to a position as a law enforcement officer or firefighter, as defined by section 8331(20) and (21), respectively, of this title.
 
-(e) The head of an agency may determine and fix the maximum age limit for an original appointment to a position as a firefighter or law enforcement officer, as defined by section 8401(14) or (17), respectively, of this title.
+(e)(1) Except as provided in paragraph (2), the head of an agency may determine and fix the maximum age limit for an original appointment to a position as a firefighter or law enforcement officer, as defined by section 8401(14) or (17), respectively, of this title.
+
+(2)(A) In the case of the conversion of an agency function from performance by a contractor to performance by an employee of the agency, the head of the agency, in consultation with the Director of the Office of Personnel Management, may waive any maximum limit of age, determined or fixed for positions within such agency under paragraph (1), if necessary in order to promote the recruitment or appointment of experienced personnel.
+
+(B) For purposes of this paragraph—
+
+&emsp;(i) the term “agency” means the Department of Defense or a military department; and
+
+&emsp;(ii) the term “head of the agency” means—
+
+&emsp;&emsp;(I) in the case of the Department of Defense, the Secretary of Defense; and
+
+&emsp;&emsp;(II) in the case of a military department, the Secretary of such military department.
 
 (f) The Secretary of Energy may determine and fix the maximum age limit for an original appointment to a position as a nuclear materials courier, as defined by section 8331(27) or 8401(33).
 
 (g) The Secretary of Homeland Security may determine and fix the maximum age limit for an original appointment to a position as a customs and border protection officer, as defined by section 8401(36).
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 419; Pub. L. 92–297, §2(a), May 16, 1972, 86 Stat. 141; Pub. L. 93–350, §1, July 12, 1974, 88 Stat. 355; Pub. L. 96–347, §1(b), Sept. 12, 1980, 94 Stat. 1150; Pub. L. 100–238, title I, §103(a)(1), Jan. 8, 1988, 101 Stat. 1744; Pub. L. 105–261, div. C, title XXXI, §3154(a), Oct. 17, 1998, 112 Stat. 2254; Pub. L. 110–161, div. E, title V, §535(c), Dec. 26, 2007, 121 Stat. 2076.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 419; Pub. L. 92–297, §2(a), May 16, 1972, 86 Stat. 141; Pub. L. 93–350, §1, July 12, 1974, 88 Stat. 355; Pub. L. 96–347, §1(b), Sept. 12, 1980, 94 Stat. 1150; Pub. L. 100–238, title I, §103(a)(1), Jan. 8, 1988, 101 Stat. 1744; Pub. L. 105–261, div. C, title XXXI, §3154(a), Oct. 17, 1998, 112 Stat. 2254; Pub. L. 110–161, div. E, title V, §535(c), Dec. 26, 2007, 121 Stat. 2076; Pub. L. 112–81, div. A, title XI, §1107, Dec. 31, 2011, 125 Stat. 1614.)
 
 Historical and Revision Notes
 
@@ -40,23 +52,25 @@ For definition of Secretary, referred to in subsec. (b), see section 2109 of thi
 
 #### Amendments
 
-2007—Subsec. (g). Pub. L. 110–161 added subsec. (g).
+<b>2011</b>—Subsec. (e). Pub. L. 112–81 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), the” for “The”, and added par. (2).
 
-1998—Subsec. (a). Pub. L. 105–261, §3154(a)(1), substituted “(d), (e), and (f)” for “and (d)”.
+<b>2007</b>—Subsec. (g). Pub. L. 110–161 added subsec. (g).
+
+<b>1998</b>—Subsec. (a). Pub. L. 105–261, §3154(a)(1), substituted “(d), (e), and (f)” for “and (d)”.
 
 Subsec. (f). Pub. L. 105–261, §3154(a)(2), added subsec. (f).
 
-1988—Subsec. (d). Pub. L. 100–238, §103(a)(1)(A), substituted “may” for “may, with the concurrence of such agent as the President may designate,”.
+<b>1988</b>—Subsec. (d). Pub. L. 100–238, §103(a)(1)(A), substituted “may” for “may, with the concurrence of such agent as the President may designate,”.
 
 Subsec. (e). Pub. L. 100–238, §103(a)(1)(B), added subsec. (e).
 
-1980—Subsec. (b). Pub. L. 96–347 substituted “Secretary” for “Secretary of Transportation”.
+<b>1980</b>—Subsec. (b). Pub. L. 96–347 substituted “Secretary” for “Secretary of Transportation”.
 
-1974—Subsec. (a). Pub. L. 93–350, §1(1), inserted reference to subsec. (d).
+<b>1974</b>—Subsec. (a). Pub. L. 93–350, §1(1), inserted reference to subsec. (d).
 
 Subsec. (d). Pub. L. 93–350, §1(2), added subsec. (d).
 
-1972—Pub. L. 92–297 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
+<b>1972</b>—Pub. L. 92–297 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
 #### Effective Date of 2007 Amendment; Transition Rules
 
@@ -96,7 +110,7 @@ Minimum annuity amount.—The annuity of an individual serving as a customs and 
 
 &emsp;“(D)
 
-Rule of construction.—Nothing in the amendment made by subsection (c) \[amending this section\] shall be considered to apply with respect to any appointment made before the effective date under paragraph (1).
+Rule of construction.—Nothing in the amendment made by subsection (c) \[amending this section\] shall be considered to apply with respect toany appointment made before the effective date under paragraph (1).
 
 “(3)
 
@@ -154,7 +168,7 @@ Section 7 of Pub. L. 93–350 provided that: “The amendments made by the first
 
 #### Effective Date of 1972 Amendment
 
-Amendment by Pub. L. 92–297 effective on 90th day after May 16, 1972, see section 10 of Pub. L. 92–297, setout as an Effective Date note under section 3381 of this title.
+Amendment by Pub. L. 92–297 effective on 90th day after May 16, 1972, see section 10 of Pub. L. 92–297, set out as an Effective Date note under section 3381 of this title.
 
 #### Regulations
 

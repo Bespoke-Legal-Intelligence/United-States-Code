@@ -2,7 +2,7 @@
 
 #### (a) Declaration of policy
 
-The President shall convene annual high-level meetings between appropriate officials of the United States Government and officials of the governments of sub-Saharan African countries in order to foster close economic ties between the United States and sub-Saharan Africa.
+The President shall convene annual high-level meetings between appropriate officials of theUnited States Government and officials of the governments of sub-Saharan African countries in order to foster close economic ties between the United States and sub-Saharan Africa.
 
 #### (b) Establishment
 
@@ -12,7 +12,7 @@ Not later than 12 months after May 18, 2000, the President, after consulting wit
 
 In creating the Forum, the President shall meet the following requirements:
 
-&emsp;(1) The President shall direct the Secretary of Commerce, the Secretary of the Treasury, the Secretary of State, and the United States Trade Representative to host the first annual meeting with their counterparts from the governments of sub-Saharan African countries eligible under section 3703 of this title, andthose sub-Saharan African countries that the President determines are taking substantial positive steps towards meeting the eligibility requirements in section 3703 of this title. The purpose of the meeting shall be to discuss expanding trade and investment relations between the United States and sub-Saharan Africa and the implementation of this chapter including encouraging joint ventures between small and large businesses. The President shall also direct the Secretaries and the United States Trade Representative to invite to the meeting representatives from appropriate sub-Saharan African regional organizations and government officials from other appropriate countries in sub-Saharan Africa.
+&emsp;(1) The President shall direct the Secretary of Commerce, the Secretary of the Treasury, the Secretary of State, and the United States Trade Representative to host the first annual meeting with their counterparts from the governments of sub-Saharan African countries eligible under section 3703 of this title, and those sub-Saharan African countries that the President determines are taking substantial positive steps towards meeting the eligibility requirements in section 3703 of this title. The purpose of the meeting shall be to discuss expanding trade and investment relations between the United States and sub-Saharan Africa and the implementation of this chapter including encouraging joint ventures between small and large businesses. The President shall also direct the Secretaries and the United States Trade Representative to invite to the meeting representatives from appropriate sub-Saharan African regional organizations and government officials from other appropriate countries in sub-Saharan Africa.
 
 &emsp;(2)(A) The President, in consultation with the Congress, shall encourage United States nongovernmental organizations to host annual meetings with nongovernmental organizations from sub-Saharan Africa in conjunction with the annual meetings of the Forum for the purpose of discussing the issues described in paragraph (1).
 

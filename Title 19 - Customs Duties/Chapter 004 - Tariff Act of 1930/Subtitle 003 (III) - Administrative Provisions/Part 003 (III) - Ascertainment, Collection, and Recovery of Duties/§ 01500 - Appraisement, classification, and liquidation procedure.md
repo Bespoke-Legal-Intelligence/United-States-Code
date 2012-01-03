@@ -34,7 +34,7 @@ A prior provision similar to subdivision (b) was contained in act Oct. 3, 1913, 
 
 An earlier provision on the subject was contained in R.S. §2929, prior to repeal by Customs Administrative Act of June 10, 1890, ch. 407, §29, 26 Stat. 141.
 
-Somewhat similar to subdivision (d), R.S. §2943 provided that one of the assistant appraisers at the port of New York should be detailed for the supervision of examination of merchandise damaged on the voyage of importation, and to make examinations and appraisals and to report, etc. It was repealed, with R.S. §2927, which provided for appraisal of such goods, and other sections, by the Customs Administrative Act of June 10, 1890, ch. 407, §29, 26 Stat. 141, reenacted and designated as section 28 by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 104.
+Somewhat similar to subdivision (d), R.S. §2943 provided that one of the assistant appraisers at the port of New York should be detailed for the supervision of examination of merchandise damaged on the voyage of importation, and to make examinations and appraisalsand to report, etc. It was repealed, with R.S. §2927, which provided for appraisal of such goods, and other sections, by the Customs Administrative Act of June 10, 1890, ch. 407, §29, 26 Stat. 141, reenacted and designated as section 28 by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 104.
 
 #### Amendments
 
@@ -64,7 +64,7 @@ Amendment by Pub. L. 96–39 effective July 1, 1980, see section 204(a) of Pub. 
 
 #### Effective Date of 1970 Amendment
 
-Section 203 of Pub. L. 91–271 provided that: “Titles II and III of this Act \[see Short Title of 1970 Amendmentnote set out under section 1654 of this title\] shall take effect with respect to articles entered, or withdrawn, from warehouse for consumption, on or after October 1, 1970, and such other articles entered or withdrawn from warehouse for consumption prior to such date, the appraisement of which has not become final before October 1, 1970, and for which an appeal for reappraisement has not been timely filed with the Bureau of Customs \[now the United States Customs Service\] before October 1, 1970, or with respect to which a protest has not been disallowed in whole or in part before October 1, 1970.”
+Section 203 of Pub. L. 91–271 provided that: “Titles II and III of this Act \[see Short Title of 1970 Amendment note set out under section 1654 of this title\] shall take effect with respect to articles entered, or withdrawn, from warehouse for consumption, on or after October 1, 1970, and such other articles entered or withdrawn from warehouse for consumption prior to such date, the appraisement of which has not become final before October 1, 1970, and for which an appeal for reappraisement has not been timely filed with the Bureau of Customs \[now the United States Customs Service\] before October 1, 1970, or with respect to which a protest has not been disallowed in whole or in part before October 1, 1970.”
 
 #### Transfer of Functions
 

@@ -106,7 +106,7 @@ Subsec. (c). Pub. L. 91–172, §§101(j)(9), (14), 121(b)(6)(B)(ii), redesignat
 
 Subsec. (d). Pub. L. 91–172, §101(j)(10), (14), redesignated subsec. (g) as (d) and substituted “subsection (b)(1)” for “subsection (c)(1).” Former subsec. (d) redesignated (c).
 
-Subsec. (e). Pub. L. 91–172, §101(j)(11), (14), redesignated subsec. (h) as (e), modified heading to read: “Special rules”, substituted “subsection (b)(1)” for “subsection (c)(1)” in text preceding par. (1) and in par. (3), and in text preceding par. (1) struck out “acquired by a trust described in section 401(a) or section 501(c)(17)”.Former subsec. (e), covering the disallowance of certain charitable deductions, was struck out.
+Subsec. (e). Pub. L. 91–172, §101(j)(11), (14), redesignated subsec. (h) as (e), modified heading to read: “Special rules”, substituted “subsection (b)(1)” for “subsection (c)(1)” in text preceding par. (1) and in par. (3), and in text preceding par. (1) struck out “acquired by a trust described in section 401(a) or section 501(c)(17)”. Former subsec. (e), covering the disallowance of certain charitable deductions, was struck out.
 
 Subsec. (f). Pub. L. 91–172, §101(j)(12), (14), redesignated subsec. (i) as (f) and substituted “Subsection (b)(1)” for “Subsection (c)(1)” and “subsection (e)” for “subsection (h)”. Former subsec. (f), defining “gift or bequest”, was struck out.
 

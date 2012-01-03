@@ -118,11 +118,13 @@ Employees or applicants for employment who believe they have been discriminated 
 
 (3) The provisions of this section shall apply to any cable operator, whether operating pursuant to a franchise granted before, on, or after October 30, 1984.
 
-(June 19, 1934, ch. 652, title VI, §634, as added Pub. L. 98–549, §2, Oct. 30, 1984, 98 Stat. 2797; amended Pub. L. 102–385, §22(b)–(e), Oct. 5, 1992, 106 Stat. 1498, 1499; Pub. L. 103–414, title III, §303(a)(24), Oct. 25, 1994, 108 Stat. 4295.)
+(June 19, 1934, ch. 652, title VI, §634, as added Pub. L. 98–549, §2, Oct. 30, 1984, 98 Stat. 2797; amended Pub. L. 102–385, §22(b)–(e), Oct. 5, 1992,106 Stat. 1498, 1499; Pub. L. 103–414, title III, §303(a)(24), Oct. 25, 1994, 108 Stat. 4295.)
 
 #### References in Text
 
 The Cable Television Consumer Protection and Competition Act of 1992, referred to in subsec. (d)(1), is Pub. L. 102–385, Oct. 5, 1992, 106 Stat. 1460. For complete classification of this Act to the Code, see Short Title of 1992 Amendments note set out under section 609 of this title and Tables.
+
+This chapter, referred to in subsec. (f)(2), was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
 For “the effective date of this subchapter”, referred to in subsec. (i)(1)(C), as 60 days after Oct. 30, 1984, except where otherwise expressly provided, see section 9(a) of Pub. L. 98–549, set out as an Effective Date note under section 521 of this title.
 

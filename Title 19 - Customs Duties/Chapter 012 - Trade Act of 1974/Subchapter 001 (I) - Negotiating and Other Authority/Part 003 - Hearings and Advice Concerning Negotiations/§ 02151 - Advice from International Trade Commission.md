@@ -20,7 +20,7 @@ In preparing its advice to the President under this section, the Commission shal
 
 &emsp;(1) investigate conditions, causes, and effects relating to competition between the foreign industries producing the articles or services in question and the domestic industries producing the like or directly competitive articles or services;
 
-&emsp;(2) analyze the production, trade, and consumption of each like or directly competitive article or service, taking into consideration employment, profit levels, and use of productive facilities with respect to the domestic industries concerned, and such other economic factors in such industries as it considers relevant, including prices, wages, sales, inventories, patterns of demand, capital investment, obsolescence of equipment, and diversification of production;
+&emsp;(2) analyze the production, trade, and consumption of each like or directly competitive article or service, taking into considerationemployment, profit levels, and use of productive facilities with respect to the domestic industries concerned, and such other economic factors in such industries as it considers relevant, including prices, wages, sales, inventories, patterns of demand, capital investment, obsolescence of equipment, and diversification of production;
 
 &emsp;(3) describe the probable nature and extent of any significant change in employment, profit levels, and use of productive facilities; the overall impact of such or other possible changes on the competitiveness of relevant domestic industries or sectors; and such other conditions as it deems relevant in the domestic industries or sectors concerned which it believes such modifications would cause; and
 

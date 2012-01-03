@@ -48,7 +48,7 @@ Limitation on amount of credit.—The credit received by a State pursuant to thi
 
 (c)
 
-Credit for Donations of Funds, Materials, or Services.—Nothing in this title or any other law shall prevent a person from offering to donate funds, materials, or services, or a local government from offering to donate funds, materials, or services performed by local government employees, in connection with a project eligible for assistance under this title. In the case of such a project with respect to which the Federal Government and the State share in paying the cost, any donated funds, or the fair market value of any donated materials or services, that are accepted and incorporated into the project by the State transportation department shall be credited against the State share.
+Credit for Donations of Funds, Materials, or Services.—Nothing in this title or any other law shall prevent a person from offering to donate funds, materials, or services, or a local government from offering to donate funds, materials, or services performed by local government employees, in connection with a project eligible for assistance under this title. In the case of such a project with respect to which the Federal Government and the State share in paying the cost, any donated funds, or the fair market value of any donated materials or services, that are accepted and incorporated into the projectby the State transportation department shall be credited against the State share.
 
 (d)
 
@@ -84,7 +84,7 @@ General rule.—Notwithstanding any provision of this title, the State matching 
 
 “(2)
 
-Establishment of fair market value.—The fair market value of the donated land shall be established as determined by the Secretary. Fair market value shall not include increases and decreases in the value of donated property caused by the project. For purposes of this subsection, the fair market value of donated landshall be established as of the date the donation becomes effective or when equitable title to the land vests in the State, whichever is earlier.”
+Establishment of fair market value.—The fair market value of the donated land shall be established as determined by the Secretary. Fair market value shall not include increases and decreases in the value of donated property caused by the project. For purposes of this subsection, the fair market value of donated land shall be established as of the date the donation becomes effective or when equitable title to the land vests in the State, whichever is earlier.”
 
 Subsec. (b)(3). Pub. L. 105–178, §1301(b)(3), substituted “agency of the Federal Government” for “agency of a Federal, State, or local government”.
 

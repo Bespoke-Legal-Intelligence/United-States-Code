@@ -4,7 +4,7 @@ Congress makes the following findings:
 
 &emsp;(1) It is incumbent on the Federal Government to support the technological and economic competitiveness of the United States by improving and expanding the scientific and technological capacity of the United States. More and better prepared scientists, engineers, and technical experts are needed to improve and expand such capacity.
 
-&emsp;(2) As the Nation's population becomes more diverse, it is important that the educationaland training needs of all Americans are met. Underrepresentation of minorities in science and technological fields diminishes our Nation's competitiveness by impairing the quantity of well prepared scientists, engineers, and technical experts in these fields.
+&emsp;(2) As the Nation's population becomes more diverse, it is important that the educational and training needs of all Americans are met. Underrepresentation of minorities in science and technological fields diminishes our Nation's competitiveness by impairing the quantity of well prepared scientists, engineers, and technical experts in these fields.
 
 &emsp;(3) Despite significant limitations in resources, minority institutions provide an important educational opportunity for minority students, particularly in science and engineering fields. Aid to minority institutions is a good way to address the underrepresentation of minorities in science and technological fields.
 

@@ -98,7 +98,7 @@ Prohibition on payment of base salary of current employees.—Amounts in the Fun
 
 &emsp;(6)
 
-Duration of availability.—Amounts credited to the Fund under subsection (d)(2) shall remain available for expenditure in the fiscal year for which credited and the two succeeding fiscal years.
+Duration of availability.—Amounts credited to the Fund in accordance with subsection (d)(2), transferred to the Fund pursuant to subsection (d)(3), appropriated to the Fund, or deposited to the Fund shall remain available for obligation in the fiscal year for which credited, transferred, appropriated, or deposited and the two succeeding fiscal years.
 
 (f)
 
@@ -130,13 +130,15 @@ Expedited Hiring Authority.—
 
 &emsp;(2) The Secretary may not appoint a person to a position of employment under this subsection after September 30, 2015.
 
-(Added Pub. L. 110–181, div. A, title VIII, §852(a)(1), Jan. 28, 2008, 122 Stat. 248; amended Pub. L. 110–417, \[div. A\], title VIII, §833, Oct. 14, 2008, 122 Stat. 4535; Pub. L. 111–84, div. A, title VIII, §§831, 832(a)–(g), Oct. 28, 2009, 123 Stat. 2414, 2415.)
+(Added Pub. L. 110–181, div. A, title VIII, §852(a)(1), Jan. 28, 2008, 122 Stat. 248; amended Pub. L. 110–417, \[div. A\], title VIII, §833, Oct. 14, 2008, 122 Stat. 4535; Pub. L. 111–84, div. A, title VIII, §§831, 832(a)–(g), Oct. 28, 2009, 123 Stat. 2414, 2415; Pub. L. 112–81, div. A, title VIII, §804(a), Dec. 31, 2011, 125 Stat. 1486.)
 
 #### Prior Provisions
 
 A prior section 1705, added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1639, related to Directors of Acquisition Career Management in the military departments, prior to repeal by Pub. L. 108–136, div. A, title VIII, §831(a), Nov. 24, 2003, 117 Stat. 1549.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (e)(6). Pub. L. 112–81 amended par. (6) generally. Prior to amendment, text read as follows: “Amounts credited to the Fund under subsection (d)(2) shall remain available for expenditure in the fiscal year for which credited and the two succeeding fiscal years.”
 
 <b>2009</b>—Subsec. (a). Pub. L. 111–84, §832(g)(1), inserted “Development” after “Workforce”.
 
@@ -168,6 +170,10 @@ Subsec. (h)(2). Pub. L. 111–84, §831(b), substituted “September 30, 2015”
 
 <b>2008</b>—Subsec. (h). Pub. L. 110–417 added subsec. (h).
 
+#### Effective Date of 2011 Amendment
+
+Pub. L. 112–81, div. A, title VIII, §804(b), Dec. 31, 2011, 125 Stat. 1486, provided that: “Paragraph (6) of such section \[10 U.S.C. 1705(e)(6)\], as amended by subsection (a), shall not apply to funds directly appropriated to the Fund before the date of the enactment of this Act \[Dec. 31, 2011\].”
+
 #### Effective Date of 2009 Amendment
 
 Pub. L. 111–84, div. A, title VIII, §832(h), Oct. 28, 2009, 123 Stat. 2416, provided that:
@@ -182,5 +188,5 @@ Technical amendments.—The amendments made by subsections (f) and (g) \[amendin
 
 #### Effective Date
 
-Pub. L. 110–181, div. A, title VIII, §852(b), Jan. 28, 2008, 122 Stat. 250, provided that: “Section 1705 of title 10, United States Code, as added by subsection (a), shall take effect on the date of the enactment of this Act \[Jan. 28, 2008\].”
+Pub. L. 110–181, div. A, title VIII, §852(b), Jan. 28, 2008, 122 Stat. 250, provided that: “Section 1705 of title 10, United States Code, as added by subsection (a), shalltake effect on the date of the enactment of this Act \[Jan. 28, 2008\].”
 

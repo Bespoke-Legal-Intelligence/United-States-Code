@@ -6,7 +6,7 @@ Notwithstanding section 362 of this title, SIPC may file an application for a pr
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 742 of the House amendment deletes a sentence contained in the Senate amendment requiring the trustee in an interstate stock-brokerage liquidation to comply with the provisions of subchapter IV of chapter 7 if the debtor is also a commodity broker. The House amendment expands the requirement to require the SIPC trustee to perform such duties, if the debtor is a commodity broker, under section 7(b) of the Securities Investor Protection Act \[15 U.S.C. 78ggg(b)\]. The requirement is deleted from section 742 since the trustee of an intrastate stockbroker will be bound by the provisions of subchapter IV of chapter 7 if the debtor is also a commodity broker by reason of section 103 of title 11.
 
@@ -20,9 +20,9 @@ The Securities Investor Protection Act of 1970, referred to in text, is Pub. L. 
 
 #### Amendments
 
-1994—Pub. L. 103–394 struck out “(15 U.S.C. 78aaa et seq.)” after “Act of 1970”.
+<b>1994</b>—Pub. L. 103–394 struck out “(15 U.S.C. 78aaa et seq.)” after “Act of 1970”.
 
-1982—Pub. L. 97–222 substituted “title” for “chapter” after “all proceedings in the case under this”.
+<b>1982</b>—Pub. L. 97–222 substituted “title” for “chapter” after “all proceedings in the case under this”.
 
 #### Effective Date of 1994 Amendment
 

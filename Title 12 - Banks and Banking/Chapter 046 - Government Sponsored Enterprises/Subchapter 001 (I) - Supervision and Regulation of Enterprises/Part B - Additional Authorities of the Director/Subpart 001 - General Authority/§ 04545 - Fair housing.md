@@ -24,5 +24,5 @@ The Equal Credit Opportunity Act, referred to in pars. (3) to (5), is title VII 
 
 #### Amendments
 
-2008—Pub. L. 110–289 inserted “of Housing and Urban Development” after “The Secretary” in introductory provisions.
+<b>2008</b>—Pub. L. 110–289 inserted “of Housing and Urban Development” after “The Secretary” in introductory provisions.
 

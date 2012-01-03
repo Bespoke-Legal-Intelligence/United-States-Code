@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For the purpose of carrying out this subpart, there is authorized to be appropriated $43,000,000 for fiscal year 2011, and such sums as may be necessary for each of the fiscal years 2012 through 2015.
+For the purpose of carrying out this subpart, there is authorized to be appropriated $43,000,000for fiscal year 2011, and such sums as may be necessary for each of the fiscal years 2012 through 2015.
 
 #### (b) Limitation regarding certain program
 
@@ -12,7 +12,7 @@ In obligating amounts appropriated under subsection (a) of this section, the Sec
 
 #### Prior Provisions
 
-A prior section 295e, act July 1, 1944, ch. 373, title VII, §768, as added Dec. 25, 1970, Pub. L. 91–696, §101, 84 Stat.2080–5, set forth definitions for former part D of this subchapter, prior to repeal by Pub. L. 99–129, title II, §220(c), Oct. 22, 1985, 99 Stat. 544.
+A prior section 295e, act July 1, 1944, ch. 373, title VII, §768, as added Dec. 25, 1970, Pub. L. 91–696, §101, 84 Stat. 2080–5, set forth definitions for former part D of this subchapter, prior to repeal by Pub. L. 99–129, title II, §220(c), Oct. 22, 1985, 99 Stat. 544.
 
 Another prior section 295e consisted of section 766 of act July 1, 1944. The classification of section 766 of act July 1, 1944, was changed to section 295d–1 of this title for purposes of codification.
 

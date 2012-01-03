@@ -70,11 +70,11 @@ Specific Costs Not Allowable.—(1) The following costs are not allowable under 
 
 &emsp;(M) Costs of severance pay paid by the contractor to foreign nationals employed by the contractor under a service contract performed outside the United States, to the extent that the amount of severance pay paid in any case exceeds the amount paid in the industry involved under the customary or prevailing practice for firms in that industry providing similar services in the United States, as determined under the Federal Acquisition Regulation.
 
-&emsp;(N) Costs of severance pay paid by the contractor to a foreign national employed by the contractor under a service contract performed in a foreign country if the termination of the employment of the foreign national is the result of the closing of, or the curtailment of activities at, a United States military facility in that country at the request of the government of that country.
+&emsp;(N) Costs of severance pay paid by the contractor to a foreign national employed by the contractor under a service contract performedin a foreign country if the termination of the employment of the foreign national is the result of the closing of, or the curtailment of activities at, a United States military facility in that country at the request of the government of that country.
 
 &emsp;(O) Costs incurred by a contractor in connection with any criminal, civil, or administrative proceeding commenced by the United States or a State, to the extent provided in subsection (k).
 
-&emsp;(P) Costs of compensation of senior executives of contractors for a fiscal year, regardless of the contract funding source, to the extent that such compensation exceeds the benchmark compensation amount determined applicable for the fiscal year by the Administrator for Federal Procurement Policy under section 1127 of title 41.
+&emsp;(P) Costs of compensation of any contractor employee for a fiscal year, regardless of the contract funding source, to the extent that such compensation exceeds the benchmark compensation amount determined applicable for the fiscal year by the Administrator for Federal Procurement Policy under section 1127 of title 41, except that the Secretary of Defense may establish one or more narrowly targeted exceptions for scientists and engineers upon a determination that such exceptions are needed to ensure that the Department of Defense has continued access to needed skills and capabilities.
 
 (2)(A) The Secretary of Defense may provide in a military banking contract that the provisions of paragraphs (1)(M) and (1)(N) shall not apply to costs incurred under the contract by the contractor for payment of mandated foreign national severance pay. The Secretary may include such a provision in a military banking contract only if the Secretary determines, with respect to that contract, that the contractor has taken (or has established plans to take) appropriate actions within the contractor's control to minimize the amount and number of incidents of the payment of severance pay by the contractor to employees under the contract who are foreign nationals.
 
@@ -84,7 +84,7 @@ Specific Costs Not Allowable.—(1) The following costs are not allowable under 
 
 &emsp;(ii) The term “mandated foreign national severance pay” means severance pay paid by a contractor to a foreign national employee the payment of which by the contractor is required in order to comply with a law that is generally applicable to a significant number of businesses in the country in which the foreign national receiving the payment performed services under the contract.
 
-(C) Subparagraph (A) does not apply to a contract with a financial institution that is owned or controlled by citizens or nationals of a foreign country, as determined by the Secretary of Defense. Such a determination shall be made in accordance with the criteria set out in paragraph (1) of section 4(g) of the Buy American Act (as added by section 7002(2) of the OmnibusTrade and Competitiveness Act of 1988) and the policy guidance referred to in paragraph (2)(A) of that section.
+(C) Subparagraph (A) does not apply to a contract with a financial institution that is owned or controlled by citizens or nationals of a foreign country, as determined by the Secretary of Defense. Such a determination shall be made in accordance with the criteria set out in paragraph (1) of section 4(g) of the Buy American Act (as added by section 7002(2) of the Omnibus Trade and Competitiveness Act of 1988) and the policy guidance referred to in paragraph (2)(A) of that section.
 
 (3)(A) Pursuant to the Federal Acquisition Regulation and subject to the availability of appropriations, the head of an agency awarding a covered contract (other than a contract to which paragraph (2) applies) may waive the application of the provisions of paragraphs (1)(M) and (1)(N) to that contract if the head of the agency determines that—
 
@@ -172,7 +172,7 @@ Penalties for Submission of Cost Known as Not Allowable.—The submission to an 
 
 (j)
 
-Contractor To Have Burden of Proof.—In a proceeding before the Armed Services Boardof Contract Appeals, the United States Court of Federal Claims, or any other Federal court in which the reasonableness of indirect costs for which a contractor seeks reimbursement from the Department of Defense is in issue, the burden of proof shall be upon the contractor to establish that those costs are reasonable.
+Contractor To Have Burden of Proof.—In a proceeding before the Armed Services Board of Contract Appeals, the United States Court of Federal Claims, or any other Federal court in which the reasonableness of indirect costs for which a contractor seeks reimbursement from the Department of Defense is in issue, the burden of proof shall be upon the contractor to establish that those costs are reasonable.
 
 (k)
 
@@ -244,11 +244,11 @@ Definitions.—In this section:
 
 &emsp;(4) The term “compensation”, for a year, means the total amount of wages, salary, bonuses and deferred compensation for the year, whether paid, earned, or otherwise accruing, as recorded in an employer's cost accounting records for the year.
 
-&emsp;(5) The term “senior executives”, with respect to a contractor, means the five most highly compensated employees in management positions at each home office and each segment of the contractor.
+&emsp;\[(5) Repealed. Pub. L. 112–81, div. A, title VIII, §803(b), Dec. 31, 2011, 125 Stat. 1485.\]
 
 &emsp;(6) The term “fiscal year” means a fiscal year established by a contractor for accounting purposes.
 
-(Added Pub. L. 99–145, title IX, §911(a)(1), Nov. 8, 1985, 99 Stat. 682; amended Pub. L. 99–190, §101(b) \[title VIII, §8112(a)\], Dec. 19, 1985, 99 Stat. 1185, 1223; Pub. L. 100–26, §7(k)(3), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–180, div. A, title VIII, §805(a), Dec. 4, 1987, 101 Stat. 1126; Pub. L. 100–370, §1(f)(2)(A), (3)(A), July 19, 1988, 102 Stat. 846; Pub. L. 100–456, div. A, title III, §322(a), title VIII, §§826(a), 832(a), Sept. 29, 1988, 102 Stat. 1952, 2022, 2023; Pub. L. 100–463, title VIII, §8105(a), Oct. 1, 1988, 102 Stat. 2270–36; Pub. L. 100–526, title I, §106(a)(2), Oct. 24, 1988, 102 Stat. 2625; Pub. L. 100–700, §8(b), Nov. 19, 1988, 102 Stat. 4636; Pub. L. 101–189, div. A, title III, §311(a)(1), title VIII, §853(a)(1), (b)(3), Nov. 29, 1989, 103 Stat. 1411, 1518; Pub. L. 101–510, div. A, title XIII, §1301(10), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 102–190, div. A, title III, §346(a), Dec. 5, 1991, 105 Stat. 1346; Pub. L. 102–484, div. A, title VIII, §818(a), title X, §1052(26), title XIII, §1352(b), Oct. 23, 1992, 106 Stat. 2457, 2500, 2559; Pub. L. 103–355, title II, §2101(a)–(d), Oct. 13, 1994, 108 Stat. 3306–3308; Pub. L. 104–106, div. D, title XLIII, §4321(a)(5), (b)(9), Feb. 10, 1996, 110 Stat. 671, 672; Pub. L. 105–85, div. A, title VIII, §808(a), Nov. 18, 1997, 111 Stat. 1836; Pub. L. 105–261, div. A, title VIII, §804(a), Oct. 17, 1998, 112 Stat. 2083; Pub. L. 111–350, §5(b)(19), Jan. 4, 2011, 124 Stat. 3844.)
+(Added Pub. L. 99–145, title IX, §911(a)(1), Nov. 8, 1985, 99 Stat. 682; amended Pub. L. 99–190, §101(b) \[title VIII, §8112(a)\], Dec. 19, 1985, 99 Stat. 1185, 1223; Pub. L. 100–26, §7(k)(3), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–180, div. A, title VIII, §805(a), Dec. 4, 1987, 101 Stat. 1126; Pub. L. 100–370, §1(f)(2)(A), (3)(A), July 19, 1988, 102 Stat. 846; Pub. L. 100–456, div. A, title III, §322(a), title VIII, §§826(a), 832(a), Sept. 29, 1988, 102 Stat. 1952, 2022, 2023; Pub. L. 100–463, title VIII, §8105(a), Oct. 1, 1988, 102 Stat. 2270–36; Pub. L. 100–526, title I, §106(a)(2), Oct. 24, 1988, 102 Stat. 2625; Pub. L. 100–700, §8(b), Nov. 19, 1988, 102 Stat. 4636; Pub. L. 101–189, div. A, title III, §311(a)(1), title VIII, §853(a)(1), (b)(3), Nov. 29, 1989, 103 Stat. 1411, 1518; Pub. L. 101–510, div. A, title XIII, §1301(10), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 102–190, div. A, title III, §346(a), Dec. 5, 1991, 105 Stat. 1346; Pub. L. 102–484, div. A, title VIII, §818(a), title X, §1052(26), title XIII, §1352(b), Oct. 23, 1992, 106 Stat. 2457, 2500, 2559; Pub. L. 103–355, title II, §2101(a)–(d), Oct. 13, 1994, 108 Stat. 3306–3308; Pub. L. 104–106, div. D, title XLIII, §4321(a)(5), (b)(9), Feb. 10, 1996, 110 Stat. 671, 672; Pub. L. 105–85, div. A, title VIII, §808(a), Nov. 18, 1997, 111 Stat. 1836; Pub. L. 105–261, div. A, title VIII, §804(a), Oct. 17, 1998, 112 Stat. 2083; Pub. L. 111–350, §5(b)(19), Jan. 4, 2011, 124 Stat. 3844; Pub. L. 112–81, div. A, title VIII, §803(a), (b), Dec. 31, 2011, 125 Stat. 1485.)
 
 #### Historical and Revision Notes
 
@@ -272,9 +272,13 @@ Another section 2324 of this title was contained in chapter 138 and was renumber
 
 Subsec. (d)(2). Pub. L. 111–350, §5(b)(19)(B), substituted “section 7104(a) of title 41” for “section 7 of such Act (41 U.S.C. 606)”.
 
-Subsec. (e)(1)(P). Pub. L. 111–350, §5(b)(19)(C), substituted “section 1127 of title 41” for “section 39 of the Office of Federal Procurement Policy Act (41 U.S.C. 435)”.
+Subsec. (e)(1)(P). Pub. L. 112–81, §803(a), substituted “any contractor employee” for “senior executives of contractors” and inserted“, except that the Secretary of Defense may establish one or more narrowly targeted exceptions for scientists and engineers upon a determination that such exceptions are needed to ensure that the Department of Defense has continued access to needed skills and capabilities” before period at end.
+
+Pub. L. 111–350, §5(b)(19)(C), substituted “section 1127 of title 41” for “section 39 of the Office of Federal Procurement Policy Act (41 U.S.C. 435)”.
 
 Subsec. (e)(2)(C). Pub. L. 111–350, §5(b)(19)(D), substituted “(as added by section 7002(2) of the Omnibus Trade and Competitiveness Act of 1988)” for “(41 U.S.C. 10b–1)”.
+
+Subsec. (<i>l</i>)(5). Pub. L. 112–81, §803(b), struck out par. (5) which read as follows: “The term ‘senior executives’, with respect to a contractor, means the five most highly compensated employees in management positions at each home office and each segment of the contractor.”
 
 <b>1998</b>—Subsec. (<i>l</i>)(5). Pub. L. 105–261 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The term ‘senior executive’, with respect to a contractor, means—
 
@@ -340,7 +344,7 @@ Subsec. (f)(4). Pub. L. 103–355, §2101(a)(6)(B)(ii), as amended by Pub. L. 10
 
 Pub. L. 103–355, §2101(a)(6)(B)(i), struck out “defense” before “contract auditor”.
 
-Subsec. (g). Pub. L. 103–355, §2101(a)(7), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “The regulations of the Secretary required to be prescribed under subsections (e) and (f)(1) shall require, to the maximum extent practicable, that such regulations apply to all subcontractors of a covered contract.”
+Subsec. (g). Pub. L. 103–355, §2101(a)(7), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “The regulations of the Secretary required to be prescribed under subsections (e) and (f)(1) shall require, to the maximum extent practicable, that suchregulations apply to all subcontractors of a covered contract.”
 
 Subsec. (h). Pub. L. 103–355, §2101(a)(8), inserted heading and substituted “in the Federal Acquisition Regulation” for “by the Secretary” in par. (1) and “head of the agency” for “Secretary of Defense” in introductory provisions of par. (2).
 
@@ -376,7 +380,7 @@ Subsec. (f)(5). Pub. L. 102–484, §1052(26)(A), struck out par. (5) which read
 
 &emsp;“(B) with respect to the activities of the business segment to which such costs are being allocated, are determined by the Secretary of Defense to be likely to result in future cost advantages to the United States; and
 
-&emsp;“(C) with respect to a business segment which allocates to Department of Defense contracts $2,500,000 or more of such costs in any fiscal year of such business segment, are not in excess of the amount equal to 110percent of such costs incurred by such business segment in the previous fiscal year.”
+&emsp;“(C) with respect to a business segment which allocates to Department of Defense contracts $2,500,000 or more of such costs in any fiscal year of such business segment, are not in excess of the amount equal to 110 percent of such costs incurred by such business segment in the previous fiscal year.”
 
 Subsec. (<i>l</i>)(2). Pub. L. 102–484, §1052(26)(B)(i), substituted “paragraph (3)” for “subsection (e)(2)(C)”.
 
@@ -444,6 +448,14 @@ Subsec. (h)(2). Pub. L. 99–190, §101(b) \[§8112(a)(2)\], inserted “, in a
 
 Subsecs. (j), (k). Pub. L. 99–190, §101(b) \[§8112(a)(3)\], added subsec. (j) and redesignated former subsec. (j) as (k).
 
+#### Effective Date of 2011 Amendment
+
+Pub. L. 112–81, div. A, title VIII, §803(c), Dec. 31, 2011, 125 Stat. 1485, provided that: “The amendments made by this section \[amending this section\]—
+
+&emsp;“(1) shall be implemented in the Federal Acquisition Regulation within 180 days after the date of the enactment of this Act \[Dec. 31, 2011\]; and
+
+&emsp;“(2) shall apply with respect to costs of compensation incurred after January 1, 2012, under contracts entered into before, on, or after the date of the enactment of this Act.”
+
 #### Effective Date of 1998 Amendment
 
 Pub. L. 105–261, div. A, title VIII, §804(d), Oct. 17, 1998, 112 Stat. 2083, provided that: “The amendments made by this section \[amending this section, sections 256 and 435 of Title 41, Public Contracts, and provisions set out as a note under section 435 of Title 41\] shall apply with respect to costs of compensation of senior executives incurred after January 1, 1999, under covered contracts (as defined in section 2324(<i>l</i>) of title 10, United States Code, and section 306(<i>l</i>) of the Federal Property and Administrative Services Act of 1949 (\[former\] 41 U.S.C.256(<i>l</i>))\[)\] \[now 41 U.S.C. 4301(2), 4302\] entered into before, on, or after the date of the enactment of this Act \[Oct. 17, 1998\].”
@@ -488,7 +500,7 @@ Section 853(a)(3) of Pub. L. 101–189 provided that: “The amendments made by 
 
 Section 8(e) of Pub. L. 100–700 provided that: “The amendments made by subsections (a) and (b) \[enacting section 256 of Title 41, Public Contracts, and amending this section\] shall take effect with respect to contracts awarded after the date of the enactment of this Act \[Nov. 19, 1988\].”
 
-Section 8105(d) of Pub. L. 100–463 provided that subsec. (f)(5) of this section, as enacted by section 8105(a) of Pub. L. 100–463, would cease to be effective three years after Oct. 1, 1988. Section 106(a)(2) of Pub. L. 100–526 provided that section 8105 of Pub. L. 100–463 “and the amendment made by that section shall cease to be effective”.
+Section 8105(d) of Pub. L. 100–463 provided that subsec. (f)(5) of this section, as enacted by section 8105(a) of Pub. L. 100–463, would cease to be effective three years after Oct. 1, 1988. Section 106(a)(2) of Pub. L. 100–526 provided that section 8105 of Pub. L. 100–463“and the amendment made by that section shall cease to be effective”.
 
 Section 322(b) of Pub. L. 100–456 provided that: “Subparagraph (M) of section 2324(e)(1) of title 10, United States Code, as added by subsection (a), shall apply with respect to any contract entered into after the end of the 180-day period beginning on the date of the enactment of this Act \[Sept. 29, 1988\].”
 
@@ -528,7 +540,7 @@ Pub. L. 99–145, title IX, §911(b), Nov. 8, 1985, 99 Stat. 685, provided that:
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Report and Regulations on Excessive Pass-Through Charges
 
@@ -672,7 +684,7 @@ Section 826(c) of Pub. L. 100–456, as amended by Pub. L. 100–526, title I, �
 
 #### Air Travel Expenses of Defense Contractor Personnel
 
-Pub. L. 100–456, div. A, title VIII, §833, Sept. 29, 1988, 102 Stat. 2024, as amended by Pub. L. 101–189, div. A, title VIII, §853(a)(2), Nov. 29, 1989, 103 Stat. 1518, directed the Administrator of General Services to enter into negotiations with commercial air carriers for agreements that would permit personnel of contractors who were traveling solely in the performance of covered contracts to be transported by such carriers at the same discount rates as such carriers charged for travel by Federal Government employees traveling at Government expense, directed the Secretary of Defense, not later than 120 days after the first such agreement would go into effect, to prescribe regulations that would provide that costs in excess of the rates established under the agreement were not allowable if the rate had been available and travel could have reasonably been performed under the conditions required by the air carrier to qualify for such rate, and provided that section 833 of Pub. L. 100–456 would cease to be effective three years after Sept. 29, 1988.
+Pub. L. 100–456, div. A, title VIII, §833, Sept. 29, 1988, 102 Stat. 2024, as amended by Pub. L. 101–189, div. A,title VIII, §853(a)(2), Nov. 29, 1989, 103 Stat. 1518, directed the Administrator of General Services to enter into negotiations with commercial air carriers for agreements that would permit personnel of contractors who were traveling solely in the performance of covered contracts to be transported by such carriers at the same discount rates as such carriers charged for travel by Federal Government employees traveling at Government expense, directed the Secretary of Defense, not later than 120 days after the first such agreement would go into effect, to prescribe regulations that would provide that costs in excess of the rates established under the agreement were not allowable if the rate had been available and travel could have reasonably been performed under the conditions required by the air carrier to qualify for such rate, and provided that section 833 of Pub. L. 100–456 would cease to be effective three years after Sept. 29, 1988.
 
 #### Burden of Proof in Government Contract Dispute Resolution
 

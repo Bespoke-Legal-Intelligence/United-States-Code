@@ -158,7 +158,7 @@ Reports.—
 
 &emsp;“(1)
 
-Report on guidance and instructions.—Not later than 210 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report setting forth the guidance and instructions issued pursuant to subsection (a).
+Report on guidance and instructions.—Not later than 210 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriationsof the Senate and the House of Representatives\] a report setting forth the guidance and instructions issued pursuant to subsection (a).
 
 &emsp;“(2) GAO
 

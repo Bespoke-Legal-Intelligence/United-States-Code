@@ -42,7 +42,7 @@ For purposes of this subtitle, the term “capital asset” means property held 
 
 #### (A) Commodities derivatives dealer
 
-&emsp;&emsp;The term “commodities derivatives dealer” means a person which <sup>1</sup> regularly offers to enter into, assume, offset, assign, or terminate positions in commodities derivative financial instruments with customers in the ordinary course of a trade or business.
+&emsp;&emsp;The term “commodities derivatives dealer” means a person which <sup>1</sup> regularly offers to enter into, assume, offset, assign, or terminate positions in commodities derivativefinancial instruments with customers in the ordinary course of a trade or business.
 
 #### (B) Commodities derivative financial instrument
 
@@ -128,7 +128,7 @@ Section 901 of Pub. L. 107–16 applicable to amendments by section 301(a) of Pu
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–432, div. A, title IV, §412(b), Dec. 20, 2006, 120 Stat. 2963, provided that: “The amendment made by this section \[amending this section\] shall take effect as if included in section 204 of the Tax Increase Prevention and Reconciliation Act of 2005 \[Pub. L. 109–222\].”
+Pub. L. 109–432, div. A, title IV, §412(b), Dec. 20, 2006, 120 Stat. 2963, provided that: “The amendment made bythis section \[amending this section\] shall take effect as if included in section 204 of the Tax Increase Prevention and Reconciliation Act of 2005 \[Pub. L. 109–222\].”
 
 Amendment by Pub. L. 109–222 applicable to sales and exchanges in taxable years beginning after May 17, 2006, see section 204(c) of Pub. L. 109–222, set out as a note under section 170 of this title.
 

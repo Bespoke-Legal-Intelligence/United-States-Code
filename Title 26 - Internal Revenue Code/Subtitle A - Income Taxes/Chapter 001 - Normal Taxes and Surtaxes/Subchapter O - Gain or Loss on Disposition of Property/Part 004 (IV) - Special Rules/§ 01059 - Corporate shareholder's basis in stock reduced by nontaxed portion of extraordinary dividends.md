@@ -10,7 +10,7 @@ If any corporation receives any extraordinary dividend with respect to any share
 
 #### (2) Amounts in excess of basis
 
-&emsp;If the nontaxed portion of such dividends exceeds such basis, such excess shall be treatedas gain from the sale or exchange of such stock for the taxable year in which the extraordinary dividend is received.
+&emsp;If the nontaxed portion of such dividends exceeds such basis, such excess shall be treated as gain from the sale or exchange of such stock for the taxable year in which the extraordinary dividend is received.
 
 #### (b) Nontaxed portion
 
@@ -104,7 +104,7 @@ For purposes of this section—
 
 #### (5) Dividend announcement date
 
-&emsp;The term “dividend announcement date” means, with respect to any dividend, the date on which the corporation declares, announces, or agrees to the amount or payment of such dividend, whichever is the earliest.
+&emsp;The term “dividend announcement date” means, with respect to any dividend, the dateon which the corporation declares, announces, or agrees to the amount or payment of such dividend, whichever is the earliest.
 
 #### (6) Exception where stock held during entire existence of corporation
 

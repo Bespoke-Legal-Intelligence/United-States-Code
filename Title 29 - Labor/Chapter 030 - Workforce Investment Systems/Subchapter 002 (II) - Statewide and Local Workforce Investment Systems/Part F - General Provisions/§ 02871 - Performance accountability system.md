@@ -30,7 +30,7 @@ The purpose of this section is to establish a comprehensive performance accounta
 
 &emsp;&emsp;&emsp;&emsp;(III) earnings received in unsubsidized employment 6 months after entry into the employment; and
 
-&emsp;&emsp;&emsp;&emsp;(IV) attainment of a recognized credential relating to achievement of educational skills, which may include attainment of a secondary school diploma or its recognized equivalent, or occupational skills, by participants who enterunsubsidized employment, or by participants who are eligible youth age 19 through 21 who enter postsecondary education, advanced training, or unsubsidized employment.
+&emsp;&emsp;&emsp;&emsp;(IV) attainment of a recognized credential relating to achievement of educational skills, which may include attainment of a secondary school diploma or its recognized equivalent, or occupational skills, by participants who enter unsubsidized employment, or by participants who are eligible youth age 19 through 21 who enter postsecondary education, advanced training, or unsubsidized employment.
 
 #### (ii) Core indicators for eligible youth
 
@@ -86,11 +86,11 @@ The purpose of this section is to establish a comprehensive performance accounta
 
 #### (vi) Revisions
 
-&emsp;&emsp;&emsp;If unanticipated circumstances arise in a State resulting in a significant change in the factors described in clause (iv)(II), the Governor may request that the State adjusted levels of performance agreed to under clause (iii) or (v) be revised. The Secretary, after collaboration with the representatives described in subsection (i) of this section, shall issue objective criteria and methods for making such revisions.
+&emsp;&emsp;&emsp;If unanticipated circumstances arise in a State resulting in a significant change inthe factors described in clause (iv)(II), the Governor may request that the State adjusted levels of performance agreed to under clause (iii) or (v) be revised. The Secretary, after collaboration with the representatives described in subsection (i) of this section, shall issue objective criteria and methods for making such revisions.
 
 #### (B) Levels of performance for additional indicators
 
-&emsp;&emsp;The State may identify, in the State plan, State levels of performance for each of the additional indicators described in paragraph\(2)(C). Such levels shall be considered to be State adjusted levels of performance for purposes of this chapter.
+&emsp;&emsp;The State may identify, in the State plan, State levels of performance for each of the additional indicators described in paragraph (2)(C). Such levels shall be considered to be State adjusted levels of performance for purposes of this chapter.
 
 #### (c) Local performance measures
 
@@ -148,7 +148,7 @@ The purpose of this section is to establish a comprehensive performance accounta
 
 #### (1) In general
 
-&emsp;Using funds made available under this subchapter, the State, in coordination with local boards in the State, shall conduct ongoing evaluation studies of workforce investment activities carried out in the State under this subchapter in order to promote, establish, implement, and utilize methods for continuously improving the activities in order to achieve high-level performance within, and high-level outcomes from, the statewide workforce investment system. To the maximum extent practicable, the State shall coordinate the evaluations with the evaluations provided for by the Secretary under section 2917 of this title.
+&emsp;Using funds made available under this subchapter, the State, in coordination with local boards in the State, shall conduct ongoing evaluation studies of workforce investment activities carried out in the State under this subchapter in order to promote, establish, implement, and utilize methods for continuously improving the activities in order to achieve high-level performance within, and high-level outcomes from, the statewide workforce investment system. To the maximum extent practicable, the State shall coordinate the evaluations with the evaluations provided forby the Secretary under section 2917 of this title.
 
 #### (2) Design
 
@@ -224,7 +224,7 @@ The purpose of this section is to establish a comprehensive performance accounta
 
 #### (1) Responsibilities
 
-&emsp;In order to ensure nationwide comparability of performance data, the Secretary, after collaboration with representatives of appropriate Federal agencies, and representatives of States and political subdivisions, business and industry, employees, eligible providers of employment and training activities, educators,and participants, with expertise regarding workforce investment policies and workforce investment activities, shall issue—
+&emsp;In order to ensure nationwide comparability of performance data, the Secretary, after collaboration with representatives of appropriate Federal agencies, and representatives of States and political subdivisions, business and industry, employees, eligible providers of employment and training activities, educators, and participants, with expertise regarding workforce investment policies and workforce investment activities, shall issue—
 
 &emsp;&emsp;(A) definitions for information required to be reported under subsection (d)(2) of this section;
 

@@ -2,7 +2,7 @@
 
 #### (a) Allowance of deduction
 
-Where a donor transfers during the calendar year by gift an interest in property to a donee who at the time of the gift is the donor's spouse, there shall be allowed as a deduction in computing taxable gifts for the calendar year an amount with respect to such interest equal to its value.
+Where a donor transfers during the calendar year by gift an interest in property to a donee who at the time of the gift is the donor's spouse,there shall be allowed as a deduction in computing taxable gifts for the calendar year an amount with respect to such interest equal to its value.
 
 #### (b) Life estate or other terminable interest
 
@@ -20,7 +20,7 @@ Where the assets out of which, or the proceeds of which, the interest transferre
 
 #### (d) Joint interests
 
-If the interest is transferred to the donee spouse as sole joint tenant with the donor or as tenant by the entirety, the interest of the donor in the property which exists solely by reason of the possibility that the donor may survive thedonee spouse, or that there may occur a severance of the tenancy, shall not be considered for purposes of subsection (b) as an interest retained by the donor in himself.
+If the interest is transferred to the donee spouse as sole joint tenant with the donor or as tenant by the entirety, the interest of the donor in the property which exists solely by reason of the possibility that the donor may survive the donee spouse, or that there may occur a severance of the tenancy, shall not be considered for purposes of subsection (b) as an interest retained by the donor in himself.
 
 #### (e) Life estate with power of appointment in donee spouse
 
@@ -182,7 +182,7 @@ Amendment by Pub. L. 101–508 effective as if included in the provision of the 
 
 #### Effective Date of 1989 Amendment
 
-Section 7815(d)(1)(B) of Pub. L. 101–239 provided that: “The amendment made by subparagraph (A) \[amendingthis section\] shall apply with respect to gifts made after June 29, 1989.”
+Section 7815(d)(1)(B) of Pub. L. 101–239 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply with respect to gifts made after June 29, 1989.”
 
 Amendment by section 7815(d)(2) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
@@ -218,7 +218,7 @@ For provisions directing that in the case of the estate of, or gift by, an indiv
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Special Rule for Certain Transfers in October 1984
 

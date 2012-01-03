@@ -6,7 +6,7 @@ The President shall designate an agency to be responsible for informing the publ
 
 #### (b) Notification
 
-Not later than June 1 of each year, the agency designated under subsection (a) of this section with respect to each international standard-setting organization shall publish notice in the Federal Register of the information specified in subsection (c) of this section with respect to that organization. The notice shall cover the period ending on June 1 of the year in which the notice is published, and beginning on the date of the preceding notice under this subsection, except that the first such notice shall cover the 1-year period ending on the date of the notice.
+Not later than June 1 of each year, the agency designated under subsection (a) of this sectionwith respect to each international standard-setting organization shall publish notice in the Federal Register of the information specified in subsection (c) of this section with respect to that organization. The notice shall cover the period ending on June 1 of the year in which the notice is published, and beginning on the date of the preceding notice under this subsection, except that the first such notice shall cover the 1-year period ending on the date of the notice.
 
 #### (c) Required information
 

@@ -36,7 +36,7 @@ Section was enacted as part of the Agriculture and Food Act of 1981, and not as 
 
 #### Amendments
 
-1985—Subsec. (a). Pub. L. 99–198, §1432(a), inserted “, including agricultural libraries,” after “equipment”.
+<b>1985</b>—Subsec. (a). Pub. L. 99–198, §1432(a), inserted “, including agricultural libraries,” after “equipment”.
 
 Subsec. (b). Pub. L. 99–198, §1432(b), authorized appropriations for fiscal year ending Sept. 30, 1987.
 

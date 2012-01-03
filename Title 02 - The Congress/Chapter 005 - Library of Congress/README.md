@@ -45,12 +45,14 @@
 | [143a.](%C2%A7%2000143a%20-%20Disbursement%20of%20funds.md) | Disbursement of funds. |
 | [143b.](%C2%A7%2000143b%20-%20Payments%20in%20advance%20for%20subscriptions%20or%20other%20charges.md) | Payments in advance for subscriptions or other charges. |
 | [143c.](%C2%A7%2000143c%20-%20Use%20of%20other%20library%20funds%20to%20make%20payments.md) | Use of other library funds to make payments. |
+| [143d.](%C2%A7%2000143d%20-%20Funds%20available%20for%20workers%20compensation%20payments.md) | Funds available for workers compensation payments. |
 | [144\.](%C2%A7%2000144%20-%20Copies%20of%20Statutes%20at%20Large.md) | Copies of Statutes at Large. |
 | [145\.](%C2%A7%2000145%20-%20Copies%20of%20journals%20and%20documents.md) | Copies of journals and documents. |
 | [145a.](%C2%A7%2000145a%20-%20Periodical%20binding%20of%20printed%20hearings%20of%20committee%20testimony.md) | Periodical binding of printed hearings of committee testimony. |
 | [146\.](%C2%A7%2000146%20-%20Deposit%20of%20Journals%20of%20Senate%20and%20House.md) | Deposit of Journals of Senate and House. |
 | 147, 148. | Repealed. |
 | [149\.](%C2%A7%2000149%20-%20Transfer%20of%20books%20to%20other%20libraries.md) | Transfer of books to other libraries. |
+| [149a.](%C2%A7%2000149a%20-%20Permitting%20use%20of%20proceeds%20from%20disposition%20of%20surplus%20or%20obsolete%20personal%20property.md) | Permitting use of proceeds from disposition of surplus or obsolete personal property. |
 | [150\.](%C2%A7%2000150%20-%20Sale%20of%20copies%20of%20card%20indexes%20and%20other%20publications.md) | Sale of copies of card indexes and other publications. |
 | [151\.](%C2%A7%2000151%20-%20Smithsonian%20Library.md) | Smithsonian Library. |
 | [152\.](%C2%A7%2000152%20-%20Care%20and%20use%20of%20Smithsonian%20Library.md) | Care and use of Smithsonian Library. |
@@ -164,6 +166,7 @@
 - [&sect; 00143a - Disbursement of funds](%C2%A7%2000143a%20-%20Disbursement%20of%20funds.md)
 - [&sect; 00143b - Payments in advance for subscriptions or other charges](%C2%A7%2000143b%20-%20Payments%20in%20advance%20for%20subscriptions%20or%20other%20charges.md)
 - [&sect; 00143c - Use of other library funds to make payments](%C2%A7%2000143c%20-%20Use%20of%20other%20library%20funds%20to%20make%20payments.md)
+- [&sect; 00143d - Funds available for workers compensation payments](%C2%A7%2000143d%20-%20Funds%20available%20for%20workers%20compensation%20payments.md)
 - [&sect; 00144 - Copies of Statutes at Large](%C2%A7%2000144%20-%20Copies%20of%20Statutes%20at%20Large.md)
 - [&sect; 00145 - Copies of journals and documents](%C2%A7%2000145%20-%20Copies%20of%20journals%20and%20documents.md)
 - [&sect; 00145a - Periodical binding of printed hearings of committee testimony](%C2%A7%2000145a%20-%20Periodical%20binding%20of%20printed%20hearings%20of%20committee%20testimony.md)
@@ -171,6 +174,7 @@
 - [&sect; 00147 - Repealed. Oct. 25, 1951, ch. 562, &sect;1(l), 65 Stat. 638](%C2%A7%2000147%20-%20Repealed.%20Oct.%2025%2C%201951%2C%20ch.%20562%2C%20%C2%A71%28l%29%2C%2065%20Stat.%20638.md)
 - [&sect; 00148 - Repealed. Oct. 31, 1951, ch. 654, &sect;1(l), 65 Stat. 701](%C2%A7%2000148%20-%20Repealed.%20Oct.%2031%2C%201951%2C%20ch.%20654%2C%20%C2%A71%28l%29%2C%2065%20Stat.%20701.md)
 - [&sect; 00149 - Transfer of books to other libraries](%C2%A7%2000149%20-%20Transfer%20of%20books%20to%20other%20libraries.md)
+- [&sect; 00149a - Permitting use of proceeds from disposition of surplus or obsolete personal property](%C2%A7%2000149a%20-%20Permitting%20use%20of%20proceeds%20from%20disposition%20of%20surplus%20or%20obsolete%20personal%20property.md)
 - [&sect; 00150 - Sale of copies of card indexes and other publications](%C2%A7%2000150%20-%20Sale%20of%20copies%20of%20card%20indexes%20and%20other%20publications.md)
 - [&sect; 00151 - Smithsonian Library](%C2%A7%2000151%20-%20Smithsonian%20Library.md)
 - [&sect; 00152 - Care and use of Smithsonian Library](%C2%A7%2000152%20-%20Care%20and%20use%20of%20Smithsonian%20Library.md)

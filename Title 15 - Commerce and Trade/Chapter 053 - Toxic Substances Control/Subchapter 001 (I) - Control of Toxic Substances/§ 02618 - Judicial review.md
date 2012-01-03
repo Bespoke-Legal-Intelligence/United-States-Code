@@ -30,7 +30,7 @@ If in an action under this section to review a rule the petitioner or the Admini
 
 (B) Section 706 of title 5 shall apply to review of a rule under this section, except that—
 
-&emsp;(i) in the case of review of a rule under section 2603(a), 2604(b)(4), 2605(a), or 2605(e) of this title, the standard for review prescribed by paragraph (2)(E) of such section 706 shall not apply and the court shall hold unlawful and set aside such rule if the court finds that therule is not supported by substantial evidence in the rulemaking record (as defined in subsection (a)(3) of this section) taken as a whole;
+&emsp;(i) in the case of review of a rule under section 2603(a), 2604(b)(4), 2605(a), or 2605(e) of this title, the standard for review prescribed by paragraph (2)(E) of such section 706 shall not apply and the court shall hold unlawful and set aside such rule if the court finds that the rule is not supported by substantial evidence in the rulemaking record (as defined in subsection (a)(3) of this section) taken as a whole;
 
 &emsp;(ii) in the case of review of a rule under section 2605(a) of this title, the court shall hold unlawful and set aside such rule if it finds that—
 

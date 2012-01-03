@@ -8,7 +8,7 @@ For purposes of this section, the term “emergency condition” means, with res
 
 &emsp;(2) identifiable as coming from any site recognized to be of high cultural significance if such site is in jeopardy from pillage, dismantling, dispersal, or fragmentation which is, or threatens to be, of crisis proportions; or
 
-&emsp;(3) a part of the remains of a particular culture or civilization, the record of which is in jeopardy from pillage, dismantling, dispersal,or fragmentation which is, or threatens to be, of crisis proportions;
+&emsp;(3) a part of the remains of a particular culture or civilization, the record of which is in jeopardy from pillage, dismantling, dispersal, or fragmentation which is, or threatens to be, of crisis proportions;
 
 > and application of the import restrictions set forth in section 2606 of this title on a temporary basis would, in whole or in part, reduce the incentive for such pillage, dismantling, dispersal or fragmentation.
 

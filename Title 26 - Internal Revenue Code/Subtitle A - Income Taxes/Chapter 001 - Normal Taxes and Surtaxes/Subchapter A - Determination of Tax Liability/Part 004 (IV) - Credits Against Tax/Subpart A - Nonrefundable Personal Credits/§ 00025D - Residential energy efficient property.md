@@ -116,7 +116,7 @@ For purposes of this section—
 
 #### (5) Tenant-stockholder in cooperative housing corporation
 
-&emsp;In the case of an individual who is a tenant-stockholder (as defined in section 216) in a cooperative housing corporation (as defined in such section), such individual shall be treated as having made his tenant-stockholder's proportionate share (as defined in section 216(b)(3)) of any expenditures of such corporation.
+&emsp;In the case of an individual who is a tenant-stockholder (as defined in section 216) in a cooperative housing corporation (as defined in such section), such individual shall be treatedas having made his tenant-stockholder's proportionate share (as defined in section 216(b)(3)) of any expenditures of such corporation.
 
 #### (6) Condominiums
 
@@ -160,7 +160,7 @@ The credit allowed under this section shall not apply to property placed in serv
 
 <b>2009</b>—Subsec. (b)(1). Pub. L. 111–5, §1122(a)(1), amended par. (1) generally. Prior to amendment, par. (1) related to maximum credit with respect to qualified solar water heating property expenditures, qualified fuel cell property, qualified small wind energy property expenditures, and qualified geothermal heat pump property expenditures.
 
-Subsec. (e)(4). Pub. L. 111–5, §1122(a)(2)(A), added par. heading and introductory provisions and struck out former heading and introductory provisions. Former introductory provisions read as follows: “In the case of any dwelling unit which is jointly occupied and usedduring any calendar year as a residence by two or more individuals the following rules shall apply:”.
+Subsec. (e)(4). Pub. L. 111–5, §1122(a)(2)(A), added par. heading and introductory provisions and struck out former heading and introductory provisions. Former introductory provisions read as follows: “In the case of any dwelling unit which is jointly occupied and used during any calendar year as a residence by two or more individuals the following rules shall apply:”.
 
 Subsec. (e)(4)(A). Pub. L. 111–5, §1122(a)(2)(A), added subpar. (A) and struck out former subpar. (A) which related to maximum amount of expenditures allowed for credit in jointly occupied dwelling units with respect to qualified solar water heating property expenditures, qualified fuel cell property, qualified small wind energy property expenditures, and qualified geothermal heat pump property expenditures.
 
@@ -218,15 +218,15 @@ Pub. L. 111–5, div. B, title I, §1122(b), Feb. 17, 2009, 123 Stat. 324, provi
 
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–343 applicable to taxable years beginning after Dec. 31, 2007, except that amendment by section 106(b) of Pub. L. 110–343 applicable to taxable years beginning after Dec. 31, 2008, see section 106(f)(1), (2) of Pub. L. 110–343, set out as an Effective and Termination Dates of 2008 Amendment note under section 36C of this title.
+Amendment by Pub. L. 110–343 applicable to taxable years beginning after Dec. 31, 2007, except that amendment by section 106(b) of Pub. L. 110–343 applicable to taxable years beginning after Dec. 31, 2008, see section 106(f)(1), (2) of Pub. L. 110–343, set out as an Effective and Termination Dates of 2008 Amendment note under section 23 of this title.
 
 #### Effective and Termination Dates of 2005 Amendment
 
-Amendment by section 402(i)(3)(E) of Pub. L. 109–135 subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, §901, in the same manner as the provisions of such Act to which such amendment relates, see section 402(i)(3)(H) of Pub. L. 109–135, set out as a note under section 36C of this title.
+Amendment by section 402(i)(3)(E) of Pub. L. 109–135 subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, §901, in the same manner as the provisions of such Act to which such amendment relates, see section 402(i)(3)(H) of Pub. L. 109–135, set out as a note under section 23 of this title.
 
-Amendments by Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which they relate, except that amendment by section 402(i)(3)(E) of Pub. L. 109–135 is applicable to taxable years beginning after Dec. 31, 2005, see section 402(m) of Pub. L. 109–135, set out as a note under section 36C of this title.
+Amendments by Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which they relate, except that amendment by section 402(i)(3)(E) of Pub. L. 109–135 is applicable to taxable years beginning after Dec. 31, 2005, see section 402(m) of Pub. L. 109–135, set out as a note under section 23 of this title.
 
 #### Effective Date
 
-Section applicable to property placed in service after Dec. 31, 2005, in taxable years ending after such date, see section 1335(c) of Pub. L. 109–58, set out as an Effective and Termination Dates of 2005 Amendments note under section 36C of this title.
+Section applicable to property placed in service after Dec. 31, 2005, in taxable years ending after such date, see section 1335(c) of Pub. L. 109–58, set out as an Effective and Termination Dates of 2005 Amendments note under section 23 of this title.
 

@@ -124,7 +124,7 @@ For purposes of this subtitle—
 
 #### (i) Limitation
 
-&emsp;&emsp;&emsp;Any hedging loss for a taxable year which is allocable to any limited partner or limited entrepreneur (within the meaning of paragraph (3)) shall be allowed only to the extent of the taxable income of such limited partner or entrepreneur for suchtaxable year attributable to the trade or business in which the hedging transactions were entered into. For purposes of the preceding sentence, taxable income shall be determined by not taking into account items attributable to hedging transactions.
+&emsp;&emsp;&emsp;Any hedging loss for a taxable year which is allocable to any limited partner or limited entrepreneur (within the meaning of paragraph (3)) shall be allowed only to the extent of the taxable income of such limited partner or entrepreneur for such taxable year attributable to the trade or business in which the hedging transactions were entered into. For purposes of the preceding sentence, taxable income shall be determined by not taking into account items attributable to hedging transactions.
 
 #### (ii) Carryover of disallowed loss
 
@@ -280,7 +280,7 @@ For purposes of this section—
 
 &emsp;&emsp;The term “securities futures contract” has the meaning given to such term by section 1234B.
 
-(Added Pub. L. 97–34, title V, §503(a), Aug. 13, 1981, 95 Stat. 327; amended Pub. L. 97–354, §5(a)(38), Oct. 19, 1982, 96 Stat. 1696; Pub. L. 97–448, title I, §105(c)(1)–(3), (5)(A)–(C), Jan. 12, 1983, 96 Stat. 2385, 2386; Pub. L. 98–369, div. A, title I, §§102(a), (b), (e)(1), (5), 104(a), 107(c), (d), title VII, §722(a)(2), July 18, 1984, 98 Stat. 620, 621, 623, 624, 628, 630, 972; Pub. L. 99–514, title XII, §1261(c), Oct. 22, 1986, 100 Stat. 2591; Pub. L. 106–170, title V, §532(b)(4), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 106–554, §1(a)(7) \[title IV, §401(g)(1)–(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–649, 2763A–650; Pub. L. 107–147, title IV, §416(b)(1), Mar. 9, 2002, 116 Stat. 55; Pub. L. 108–311, title IV, §405(a)(2), Oct. 4, 2004, 118 Stat. 1188; Pub. L. 109–135, title IV, §412(<i>oo</i>), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 111–203, title XVI, §1601(a), July 21, 2010, 124 Stat. 2223.)
+(Added Pub. L. 97–34, title V, §503(a), Aug. 13, 1981, 95 Stat. 327; amended Pub. L. 97–354, §5(a)(38), Oct. 19, 1982, 96 Stat. 1696; Pub. L. 97–448, title I, §105(c)(1)–(3), (5)(A)–(C), Jan. 12, 1983, 96 Stat. 2385, 2386; Pub. L. 98–369, div. A, title I, §§102(a), (b), (e)(1), (5), 104(a), 107(c), (d), title VII, §722(a)(2), July 18, 1984, 98 Stat. 620, 621, 623, 624, 628, 630, 972; Pub. L. 99–514, title XII,§1261(c), Oct. 22, 1986, 100 Stat. 2591; Pub. L. 106–170, title V, §532(b)(4), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 106–554, §1(a)(7) \[title IV, §401(g)(1)–(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–649, 2763A–650; Pub. L. 107–147, title IV, §416(b)(1), Mar. 9, 2002, 116 Stat. 55; Pub. L. 108–311, title IV, §405(a)(2), Oct. 4, 2004, 118 Stat. 1188; Pub. L. 109–135, title IV, §412(<i>oo</i>), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 111–203, title XVI, §1601(a), July 21, 2010, 124 Stat. 2223.)
 
 #### References in Text
 
@@ -294,7 +294,7 @@ The date of the enactment of this paragraph, referred to in subsec. (g)(6)(B), p
 
 <b>2005</b>—Subsec. (f)(1). Pub. L. 109–135 substituted “subsection (e)(2)” for “subsection (e)(2)(C)”.
 
-<b>2004</b>—Subsec. (g)(6). Pub. L. 108–311 added at end of concluding provisions “The Secretary may prescriberegulations regarding the status of options the values of which are determined directly or indirectly by reference to any index which becomes (or ceases to be) a narrow-based security index (as so defined).”
+<b>2004</b>—Subsec. (g)(6). Pub. L. 108–311 added at end of concluding provisions “The Secretary may prescribe regulations regarding the status of options the values of which are determined directly or indirectly by reference to any index which becomes (or ceases to be) a narrow-based security index (as so defined).”
 
 <b>2002</b>—Subsec. (f)(5). Pub. L. 107–147 added par. (5).
 
@@ -386,7 +386,7 @@ Pub. L. 111–203, title XVI, §1601(b), July 21, 2010, 124 Stat. 2223, provided
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–311 effective as if included in section 401 of the Community Renewal Tax ReliefAct of 2000 \[H.R. 5662, as enacted by Pub. L. 106–554\], see section 405(b) of Pub. L. 108–311, set out as a note under section 1234B of this title.
+Amendment by Pub. L. 108–311 effective as if included in section 401 of the Community Renewal Tax Relief Act of 2000 \[H.R. 5662, as enacted by Pub. L. 106–554\], see section 405(b) of Pub. L. 108–311, set out as a note under section 1234B of this title.
 
 #### Effective Date of 2002 Amendment
 
@@ -464,7 +464,7 @@ Date for payment of installment.—
 
 &emsp;“(3)
 
-Interest imposed.—For purposes of section 6601 of the Internal Revenue Code of 1986, the time for payment of any tax with respect to which an election is made under this subsection shall be determined without regard to this subsection.
+Interest imposed.—For purposes of section 6601 of the Internal Revenue Code of 1986, the time forpayment of any tax with respect to which an election is made under this subsection shall be determined without regard to this subsection.
 
 &emsp;“(4)
 
@@ -574,7 +574,7 @@ Election.—
 
 &emsp;“(1)
 
-In general.—In the case of any taxable year beginning before June 23, 1981, and ending after June 22, 1981, the taxpayer may elect, in lieu of any election under section 508(c) \[set out as an Effective Date note under section 1092 of this title\], to have this section apply to all regulated futures contracts held during such taxable year.
+In general.—In the case of any taxable year beginning before June 23, 1981, and ending after June 22, 1981, the taxpayer may elect, in lieu of any election under section 508(c) \[set out as an Effective Datenote under section 1092 of this title\], to have this section apply to all regulated futures contracts held during such taxable year.
 
 &emsp;“(2)
 
@@ -594,7 +594,7 @@ Determination of deferred tax liability.—If the taxpayer makes an election und
 
 &emsp;&emsp;&emsp;“(i) the tax for such year, determined by taking into account paragraph (2), over
 
-&emsp;&emsp;&emsp;“(ii) the tax for such year, determined by taking into account paragraph (2) and by treating all regulated futures contracts which were held by the taxpayer on the first day of the taxable year described in paragraph (1), and which were acquired before the first day of such taxable year, as having been acquired for a purchase price equalto their fair market value on the last business day of the preceding taxable year.
+&emsp;&emsp;&emsp;“(ii) the tax for such year, determined by taking into account paragraph (2) and by treating all regulated futures contracts which were held by the taxpayer on the first day of the taxable year described in paragraph (1), and which were acquired before the first day of such taxable year, as having been acquired for a purchase price equal to their fair market value on the last business day of the preceding taxable year.
 
 &emsp;“(4)
 

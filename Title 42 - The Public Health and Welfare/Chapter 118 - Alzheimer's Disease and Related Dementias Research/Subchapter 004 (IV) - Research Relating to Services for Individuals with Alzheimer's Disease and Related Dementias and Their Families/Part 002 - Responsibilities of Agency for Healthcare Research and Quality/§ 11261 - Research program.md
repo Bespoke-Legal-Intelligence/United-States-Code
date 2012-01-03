@@ -10,7 +10,7 @@ The Director of the Agency for Healthcare Research and Quality shall ensure that
 
 &emsp;(1) concerning improving the organization, delivery, and financing of services for individuals with Alzheimer's disease and related dementias and for their families, including research on—
 
-&emsp;&emsp;(A) the design, staffing, and operation of special care units for the individuals in institutional settings, as well as individuals ininstitutional settings,<sup>1</sup> as well as individuals in home care, day care, and respite care; and
+&emsp;&emsp;(A) the design, staffing, and operation of special care units for the individuals in institutional settings, as well as individuals in institutional settings,<sup>1</sup> as well as individuals in home care, day care, and respite care; and
 
 &emsp;&emsp;(B) the exploration and enhancement of services such as home care, day care, and respite care, that provide alternatives to institutional care;
 

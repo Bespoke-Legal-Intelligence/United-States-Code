@@ -24,7 +24,7 @@ In determining the amount of payments to the States under this section, the amou
 
 #### References in Text
 
-The Federal Oil and Gas Royalty Management Act of 1982, referred to in subsec. (a), is Pub. L. 97–451, Jan. 12, 1983, 96 Stat. 2447, which is classified generally to chapter 29 (§1701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of this title and Tables.
+The Federal Oil and Gas Royalty Management Act of 1982, referred to in subsec. (a), is Pub. L. 97–451, Jan. 12,1983, 96 Stat. 2447, which is classified generally to chapter 29 (§1701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of this title and Tables.
 
 The Geothermal Steam Act of 1970, referred to in subsec. (a), is Pub. L. 91–581, Dec. 24, 1970, 84 Stat. 1566, which is classified principally to chapter 23 (§1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
@@ -32,7 +32,7 @@ The Reclamation Act, approved June 17, 1902, referred to in subsec. (a), is act 
 
 #### Codification
 
-“Section 7433(b) of title 10” substituted in subsec. (a) for “the Act of June 4, 1920 (41 Stat. 813), as amendedJune 30, 1938 (52 Stat. 1252)”, which was classified to section 524 of former Title 34, Navy, on authority of act Aug. 10, 1956, ch. 1041, §49(b), 70A Stat. 640, the first section of which enacted Title 10, Armed Forces.
+“Section 7433(b) of title 10” substituted in subsec. (a) for “the Act of June 4, 1920 (41 Stat. 813), as amended June 30, 1938 (52 Stat. 1252)”, which was classified to section 524 of former Title 34, Navy, on authority of act Aug. 10, 1956, ch. 1041, §49(b), 70A Stat. 640, the first section of which enacted Title 10, Armed Forces.
 
 Provisions of subsec. (a) which authorized the payment of monies to the Territory of Alaska were omitted as superseded by the provisions authorizing the payment of monies to the State of Alaska.
 
@@ -80,11 +80,11 @@ Amendment by Pub. L. 94–579 not to be construed as terminating any valid lease
 
 Pub. L. 106–393, title V, §502, Oct. 30, 2000, 114 Stat. 1624, provided that: “The Congress finds the following:
 
-&emsp;“(1) Section 10201 of the Omnibus Budget Reconciliation Act of 1993 (Public Law 103–66; 107 Stat. 407) amended section 35 of the Mineral Leasing Act (30 U.S.C. 191) to change the sharing of onshore mineral revenues and revenues from geothermal steam from a 50:50 split between the Federal Government and the States to a complicated formula that entailed deducting from the State share of leasing revenues ‘50 percent of the portion of the enacted appropriations of the Department of the Interior and any other agency during the preceding fiscal year allocable to the administration of all laws providing for the leasing of any onshore lands or interest in land owned by the United States for the production of the same types of minerals leasable under this Act or of geothermal steam, and to enforcement of such laws \* \* \*’.
+&emsp;“(1) Section 10201 of the Omnibus Budget Reconciliation Act of 1993 (Public Law 103–66; 107 Stat. 407) amended section 35 of the Mineral Leasing Act (30U.S.C. 191) to change the sharing of onshore mineral revenues and revenues from geothermal steam from a 50:50 split between the Federal Government and the States to a complicated formula that entailed deducting from the State share of leasing revenues ‘50 percent of the portion of the enacted appropriations of the Department of the Interior and any other agency during the preceding fiscal year allocable to the administration of all laws providing for the leasing of any onshore lands or interest in land owned by the United States for the production of the same types of minerals leasable under this Act or of geothermal steam, and to enforcement of such laws \* \* \*’.
 
 &emsp;“(2) There is no legislative record to suggest a sound public policy rationale for deducting prior-year administrative expenses from the sharing of current-year receipts, indicating that this change was made primarily for budget scoring reasons.
 
-&emsp;“(3) The system put in place by this change in law has proved difficult to administer and has given rise to disputes between the Federal Government and theStates as to the nature of allocable expenses. Federal accounting systems have proven to be poorly suited to breaking down administrative costs in the manner required by the law. Different Federal agencies implementing this law have used varying methodologies to identify allocable costs, resulting in an inequitable distribution of costs during fiscal years 1994 through 1996. In November 1997, the Inspector General of the Department of the Interior found that ‘the congressionally approved method for cost sharing deductions effective in fiscal year 1997 may not accurately compute the deductions’.
+&emsp;“(3) The system put in place by this change in law has proved difficult to administer and has given rise to disputes between the Federal Government and the States as to the nature of allocable expenses. Federal accounting systems have proven to be poorly suited to breaking down administrative costs in the manner required by the law. Different Federal agencies implementing this law have used varying methodologies to identify allocable costs, resulting in an inequitable distribution of costs during fiscal years 1994 through 1996. In November 1997, the Inspector General of the Department of the Interior found that ‘the congressionally approved method for cost sharing deductions effective in fiscal year 1997 may not accurately compute the deductions’.
 
 &emsp;“(4) Given the lack of a substantive rationale for the 1993 change in law and the complexity and administrative burden involved, a return to the sharing formula prior to the enactment of the Omnibus Budget Reconciliation Act of 1993 \[Aug. 10, 1993\] is justified.”
 

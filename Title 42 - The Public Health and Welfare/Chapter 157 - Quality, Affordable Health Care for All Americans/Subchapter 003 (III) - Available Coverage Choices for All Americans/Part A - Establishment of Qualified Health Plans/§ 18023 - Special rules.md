@@ -48,7 +48,7 @@
 
 &emsp;&emsp;&emsp;(i) collect from each enrollee in the plan (without regard to the enrollee's age, sex, or family status) a separate payment for each of the following:
 
-&emsp;&emsp;&emsp;&emsp;(I) an amount equal to the portion of the premium to be paid directly by the enrollee for coverage under the plan of services other than services described in paragraph (1)(B)(i) (after reduction for credits and cost-sharing reductions described in subparagraph (A)); and
+&emsp;&emsp;&emsp;&emsp;(I) an amount equal to the portion of the premium to be paid directly by theenrollee for coverage under the plan of services other than services described in paragraph (1)(B)(i) (after reduction for credits and cost-sharing reductions described in subparagraph (A)); and
 
 &emsp;&emsp;&emsp;&emsp;(II) an amount equal to the actuarial value of the coverage of services described in paragraph (1)(B)(i), and
 
@@ -90,7 +90,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), State health insurance commissioners shall ensure that health plans comply with the segregationrequirements in this subsection through the segregation of plan funds in accordance with applicable provisions of generally accepted accounting requirements, circulars on funds management of the Office of Management and Budget, and guidance on accounting of the Government Accountability Office.
+&emsp;&emsp;&emsp;Subject to clause (ii), State health insurance commissioners shall ensure that health plans comply with the segregation requirements in this subsection through the segregation of plan funds in accordance with applicable provisions of generally accepted accounting requirements, circulars on funds management of the Office of Management and Budget, and guidance on accounting of the Government Accountability Office.
 
 #### (ii) Clarification
 

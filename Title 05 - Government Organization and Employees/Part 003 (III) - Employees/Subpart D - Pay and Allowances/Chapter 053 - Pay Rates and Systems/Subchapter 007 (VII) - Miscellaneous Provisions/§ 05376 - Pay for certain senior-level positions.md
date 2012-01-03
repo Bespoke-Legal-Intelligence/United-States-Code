@@ -36,7 +36,7 @@ Levels II and III of the Executive Schedule, referred to in subsec. (b), are set
 
 #### Amendments
 
-2008—Subsec. (b)(1)(B). Pub. L. 110–372, §2(b)(1), added subpar. (B) and struck out former subpar. (B) which read as follows: “not greater than the rate of basic pay payable for level IV of the Executive Schedule.”.
+<b>2008</b>—Subsec. (b)(1)(B). Pub. L. 110–372, §2(b)(1), added subpar. (B) and struck out former subpar. (B) which read as follows: “not greater than the rate of basic pay payable for level IV of the Executive Schedule.”.
 
 Subsec. (b)(3), (4). Pub. L. 110–372, §2(b)(2), added pars. (3) and (4).
 
@@ -46,7 +46,7 @@ Pub. L. 110–372, §2(d), Oct. 8, 2008, 122 Stat. 4044, provided that:
 
 “(1)
 
-Effective date.—The amendments made by this section \[amending this section and sections 3104, 3324,3325, 5108 and 5304 of this title\] shall take effect on the first day of the first pay period beginning on or after the 180th day following the date of enactment of this Act \[Oct. 8, 2008\].
+Effective date.—The amendments made by this section \[amending this section and sections 3104, 3324, 3325, 5108 and 5304 of this title\] shall take effect on the first day of the first pay period beginning on or after the 180th day following the date of enactment of this Act \[Oct. 8, 2008\].
 
 “(2)
 
@@ -74,7 +74,7 @@ References to maximum rates.—Except as otherwise provided by law, any referenc
 
 #### Effective Date
 
-Section effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as an Effective Date of 1990 Amendment note under section 5301 of this title.
+Section effective on such date as the President shall determine, but not earlier than 90 days, and not laterthan 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as an Effective Date of 1990 Amendment note under section 5301 of this title.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates; Regulations
 
@@ -104,5 +104,5 @@ Other References.—Until otherwise provided by law—
 
 Regulations.—The Office of Personnel Management may prescribe regulations, consistent with subsection (c)(1)(B) and section 303 \[section 529 \[title III, §303\] of Pub. L. 101–509, set out as a note under section 5301 of this title\], governing the conversion or adjustment of rates of pay, where necessary because of the abolishment of grades GS–16, 17, and 18 of the General Schedule.”
 
-\[Except as otherwise provided, reference to maximum rate under section 5376 of this title before first day of first pay period beginning on or after 180th day after Oct. 8, 2008, considered reference to basic pay rate for level IV of Executive Schedule (5 U.S.C. 5315) and reference to maximum rate on or after first day of first pay period beginning on or after 180th day after Oct. 8, 2008, considered reference to basic pay rate for level III of Executive Schedule (5 U.S.C. 5314), or for level II of the Executive Schedule (5 U.S.C. 5313) for certain employees, see section 2(d)(3) of Pub. L. 110–372, set out as an Effective Date of 2008 Amendment note under this section.\]
+\[For reference to maximum rate under section 5376 of this title, see section 2(d)(3) of Pub. L. 110–372, set out as an Effective Date of 2008 Amendment note under this section.\]
 

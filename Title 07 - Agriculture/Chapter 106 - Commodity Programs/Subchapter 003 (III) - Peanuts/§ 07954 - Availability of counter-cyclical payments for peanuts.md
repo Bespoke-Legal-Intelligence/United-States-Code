@@ -12,7 +12,7 @@
 
 #### (3) Subsequent crop years
 
-&emsp;If counter-cyclical payments are required for any of the 2003 through 2007 crop years for peanuts, the Secretary shall make the payments to the producers on a farm to which a payment yield and base acres for peanuts are assigned under section 7952 of this title.
+&emsp;If counter-cyclical payments are required for any of the 2003 through 2007 crop years for peanuts, the Secretary shall make the paymentsto the producers on a farm to which a payment yield and base acres for peanuts are assigned under section 7952 of this title.
 
 #### (b) Effective price
 
@@ -116,7 +116,7 @@ If counter-cyclical payments are required to be paid for any of the 2003 through
 
 #### (i) First partial payment
 
-&emsp;&emsp;&emsp;For each of the 2003 through 2006 crop years, the first partial payment under paragraph (3) to the producers on a farm may not exceed 35 percent of the projected counter-cyclical payment for the crop year, as determined by the Secretary.
+&emsp;&emsp;&emsp;For each of the 2003 through 2006 crop years, the first partial payment underparagraph (3) to the producers on a farm may not exceed 35 percent of the projected counter-cyclical payment for the crop year, as determined by the Secretary.
 
 #### (ii) Second partial payment
 

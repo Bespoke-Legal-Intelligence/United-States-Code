@@ -184,7 +184,7 @@ Expanded Deployment Grants.—
 
 &emsp;“(1)
 
-In general.—For each fiscal year, from the funds remaining after the Secretary has made grants under subsection (c), the Secretary may make grants to each eligible State, upon request, for the expanded deployment of commercial vehicle information systems and networks.
+In general.—For each fiscal year, from the funds remaining after the Secretary has made grantsunder subsection (c), the Secretary may make grants to each eligible State, upon request, for the expanded deployment of commercial vehicle information systems and networks.
 
 &emsp;“(2)
 

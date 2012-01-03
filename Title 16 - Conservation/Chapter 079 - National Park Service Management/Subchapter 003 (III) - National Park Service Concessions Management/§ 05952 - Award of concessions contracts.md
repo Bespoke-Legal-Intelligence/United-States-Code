@@ -44,7 +44,7 @@ In furtherance of the findings and policy stated in section 5951 of this title, 
 
 &emsp;(C) If all proposals submitted to the Secretary either fail to meet the minimum requirements or are rejected by the Secretary, the Secretary shall establish new minimum contract requirements and re-initiate the competitive selection process pursuant to this section.
 
-&emsp;(D) The Secretary may not execute a concessions contract which materially amends or does not incorporate the proposed terms and conditions of the concessions contract as set forth in the applicable prospectus. If proposed material amendments or changes are considered appropriate by the Secretary, the Secretary shall resolicit offers for the concessions contract incorporating such material amendments or changes.
+&emsp;(D) The Secretary may not execute a concessions contract which materially amends or does not incorporate the proposed terms and conditions of the concessions contract as setforth in the applicable prospectus. If proposed material amendments or changes are considered appropriate by the Secretary, the Secretary shall resolicit offers for the concessions contract incorporating such material amendments or changes.
 
 #### (5) Selection of the best proposal
 
@@ -70,7 +70,7 @@ In furtherance of the findings and policy stated in section 5951 of this title, 
 
 &emsp;(A) Except as provided in subparagraph (B), the Secretary shall not grant a concessioner a preferential right to renew a concessions contract, or any other form of preference to a concessions contract.
 
-&emsp;(B) The Secretary shall grant a preferential right of renewal to an existing concessioner with respect to proposed renewals of the categories of concessions contracts described byparagraph (8), subject to the requirements of that paragraph.
+&emsp;(B) The Secretary shall grant a preferential right of renewal to an existing concessioner with respect to proposed renewals of the categories of concessions contracts described by paragraph (8), subject to the requirements of that paragraph.
 
 &emsp;(C) As used in this subchapter, the term “preferential right of renewal” means that the Secretary, subject to a determination by the Secretary that the facilities or services authorized by a prior contract continue to be necessary and appropriate within the meaning of section 5951 of this title, shall allow a concessioner qualifying for a preferential right of renewal the opportunity to match the terms and conditions of any competing proposal which the Secretary determines to be the best proposal for a proposed new concessions contract which authorizes the continuation of the facilities and services provided by the concessioner under its prior contract.
 
@@ -122,7 +122,7 @@ This subchapter, referred to in text, was in the original “this title”, mean
 
 #### Change of Name
 
-Committee on Resources of House of Representatives changed to Committee on Natural Resources of Houseof Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “concessions contract”.</i>
 

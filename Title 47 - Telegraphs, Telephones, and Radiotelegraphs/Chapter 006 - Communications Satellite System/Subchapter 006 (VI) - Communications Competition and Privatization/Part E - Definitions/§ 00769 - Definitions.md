@@ -94,7 +94,7 @@ As used in this subchapter:
 
 #### (18) COMSAT
 
-&emsp;The term “COMSAT” means the corporation established pursuant to subchapter III of this chapter, or the successor in interest to such corporation.
+&emsp;The term “COMSAT” means the corporation established pursuant to subchapter III of thischapter, or the successor in interest to such corporation.
 
 #### (19) ICO
 

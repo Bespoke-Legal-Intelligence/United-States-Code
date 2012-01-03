@@ -48,7 +48,7 @@
 
 &emsp;(1) The term “parent” means a biological father or a biological mother or, in the case of adoption, a father through adoption or a mother through adoption.
 
-&emsp;(2) The term “hostile casualty” means a person who, as a member of the Armed Forces, dies as the direct result of hostile action with the enemy, while in combat, while going to or returning from a combat mission if the cause of death was directly related to hostile action, or while hospitalized or undergoing treatmentat the expense of the United States for injury incurred during combat, and includes a person killed mistakenly or accidentally by friendly fire directed at a hostile force or what is thought to be a hostile force, but does not include a person who dies due to the elements, a self-inflicted wound, combat fatigue, or a friendly force while the person was in an absent-without-leave, deserter, or dropped-from-rolls status or was voluntarily absent from a place of duty.
+&emsp;(2) The term “hostile casualty” means a person who, as a member of the Armed Forces, dies as the direct result of hostile action with the enemy, while in combat, while going to or returning from a combat mission if the cause of death was directly related to hostile action, or while hospitalized or undergoing treatment at the expense of the United States for injury incurred during combat, and includes a person killed mistakenly or accidentally by friendly fire directed at a hostile force or what is thought to be a hostile force, but does not include a person who dies due to the elements, a self-inflicted wound, combat fatigue, or a friendly force while the person was in an absent-without-leave, deserter, or dropped-from-rolls status or was voluntarily absent from a place of duty.
 
 &emsp;(3) The term “training-related injury” means an injury incurred by a member of the Armed Forces while performing authorized training activities in preparation for a combat mission.
 
@@ -68,7 +68,7 @@ Par. (8). Pub. L. 106–419, §331(a), added par. (8).
 
 <b>1998</b>—Pub. L. 105–368 substituted “under the control of the National Cemetery Administration” for “in the National Cemetery System” in introductory provisions.
 
-<b>1996</b>—Par. (5). Pub. L. 104–275 inserted “(which for purposes of this chapter includes a child under 21 years of age, or under 23 years of age if pursuing a course of instruction at an approved educational institution)” after “minor child”.
+<b>1996</b>—Par. (5). Pub. L. 104–275 inserted “(which for purposes of this chapter includes a child under 21 yearsof age, or under 23 years of age if pursuing a course of instruction at an approved educational institution)” after “minor child”.
 
 <b>1994</b>—Par. (5). Pub. L. 103–446 inserted “spouse,” after “The” and “(which for purposes of this chapter includes an unremarried surviving spouse who had a subsequent remarriage which was terminated by death or divorce)” after “surviving spouse”.
 

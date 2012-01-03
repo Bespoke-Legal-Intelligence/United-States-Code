@@ -16,7 +16,7 @@ Section was enacted as part of the Agricultural Appropriation Act, 1916, and not
 
 #### Amendments
 
-1936—Act June 4, 1936, amended last sentence of first par. by changing introductory word “plant” to “plants”, inserting “(including seed)”, “and not in violation of a plant-quarantine law or plant-quarantine regulation of the United States Department of Agriculture or of the State of destination pertaining to such injurious pests”, “or in violation of a plant-quarantine law or plant-quarantine regulation of the United States Department of Agriculture or of the State of destination pertaining to such injurious pests,” and striking out the comma after “place of inspection”.
+<b>1936</b>—Act June 4, 1936, amended last sentence of first par. by changing introductory word “plant” to “plants”, inserting “(including seed)”, “and not in violation of a plant-quarantine law or plant-quarantine regulation of the United States Department of Agriculture or of the State of destination pertaining to such injurious pests”, “or in violation of a plant-quarantine law or plant-quarantine regulation of the United States Department of Agriculture or of the State of destination pertaining to such injurious pests,” and striking out the comma after “place of inspection”.
 
 #### Short Title
 

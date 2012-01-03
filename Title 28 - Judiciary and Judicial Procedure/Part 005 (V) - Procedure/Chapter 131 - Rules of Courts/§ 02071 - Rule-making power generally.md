@@ -24,7 +24,7 @@ Based on title 28, U.S.C., 1940 ed., §§219, 263, 296, 307, 723, 731, and 761, 
 
 Sections 219, 263, 296, 307, 723, and 731 of title 28, U.S.C., 1940 ed., gave specified courts, other than the Supreme Court, power to make rules. Section 761 of such title related to rules established in the district courts and Court of Claims. Section 1111 of title 26, U.S.C., 1940 ed., related to Tax Court. This section consolidates all such provisions. For other provisions of such sections, see Distribution Table.
 
-Recognition by Congress of the broad rule-making power of the courts will make it possible for the courts to prescribe complete and uniform modes of procedure, and alleviate, at least in part, the necessity of searching in two places, namely in the Acts of Congress and in the rules of the courts, for procedural requisites.
+Recognition by Congress of the broad rule-making power of the courts will make it possible for the courtsto prescribe complete and uniform modes of procedure, and alleviate, at least in part, the necessity of searching in two places, namely in the Acts of Congress and in the rules of the courts, for procedural requisites.
 
 Former Attorney General Cummings recently said: “Legislative bodies have neither the time to inquire objectively into the details of judicial procedure nor the opportunity to determine the necessity for amendment or change. Frequently such legislation has been enacted for the purpose of meeting particular problems or supposed difficulties, but the results have usually been confusing or otherwise unsatisfactory. Comprehensive action has been lacking for the obvious reason that the professional nature of the task would leave the legislature little time for matters of substance and statesmanship. It often happened that an admitted need for change, even in limited areas, could not be secured.”—The New Criminal Rules—Another Triumph of the Democratic Process. American Bar Association Journal, May 1945.
 
@@ -32,7 +32,7 @@ Provisions of sections 263 and 296 of title 28, U.S.C., 1940 ed., authorizing th
 
 Provisions of section 1111 of title 26, U.S.C., 1940 ed., making applicable to Tax Court Proceedings “the rules of evidence applicable in the courts of the District of Columbia in the type of proceeding which, prior to Sept. 16, 1938, were within the jurisdiction of the courts of equity of said District,” were omitted as unnecessary and inconsistent with other provisions of law relating to the Federal courts. The rules of evidence in Tax Court proceedings are the same as those which apply to civil procedure in other courts. See <i>Dempster Mill. Mfg. Co. v. Burnet</i>, 1931, 46 F.2d 604, 60 App.D.C. 23.
 
-For rule-making power of the Supreme Court in copyright infringement actions, see section 25(e) of title 17, U.S.C., 1940 ed., Copyrights. See, also, section 205(a) of title 11, U.S.C., 1940 ed., Bankruptcy, authorizing theSupreme Court to promulgate rules relating to service of process in railroad reorganization proceedings.
+For rule-making power of the Supreme Court in copyright infringement actions, see section 25(e) of title 17, U.S.C., 1940 ed., Copyrights. See, also, section 205(a) of title 11, U.S.C., 1940 ed., Bankruptcy, authorizing the Supreme Court to promulgate rules relating to service of process in railroad reorganization proceedings.
 
 #### Senate Revision Amendment
 

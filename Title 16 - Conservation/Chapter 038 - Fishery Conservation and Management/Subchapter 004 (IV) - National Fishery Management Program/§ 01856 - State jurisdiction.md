@@ -22,7 +22,7 @@
 
 &emsp;(B) The fishery management plan for the fishery in which the fishing vessel is operating delegates management of the fishery to a State and the State's laws and regulations are consistent with such fishery management plan. If at any time the Secretary determines that a State law or regulation applicable to a fishing vessel under this circumstance is not consistent with the fishery management plan, the Secretary shall promptly notify the State and the appropriate Council of such determination and provide an opportunity for the State to correct any inconsistencies identified in the notification. If, after notice and opportunity for corrective action, the State does not correct the inconsistencies identified by the Secretary, the authority granted to the State under this subparagraph shall not apply until the Secretary and the appropriate Council find that the State has corrected the inconsistencies. For a fishery for which there was a fishery management plan in place on August 1, 1996 that did not delegate management of the fishery to a State as of that date, the authority provided by this subparagraph applies only if the Council approves the delegation of management of the fishery to the State by a three-quarters majority vote of the voting members of the Council.
 
-&emsp;(C) The fishing vessel is not registered under the law of the State of Alaska and is operating in a fishery in the exclusive economic zone off Alaska for which there was no fishery management plan in place on August 1, 1996, and the Secretary and the North Pacific Council find that there is a legitimate interest of the State of Alaska in the conservation and management of such fishery. The authority provided under this subparagraph shall terminate when a fishery management plan under this chapter is approved and implemented for such fishery.
+&emsp;(C) The fishing vessel is not registered under the law of the State of Alaska and is operating in a fishery in the exclusive economic zone off Alaska for which there was no fishery management plan in place on August 1, 1996, and the Secretary and the North Pacific Council find that there is a legitimate interest of the Stateof Alaska in the conservation and management of such fishery. The authority provided under this subparagraph shall terminate when a fishery management plan under this chapter is approved and implemented for such fishery.
 
 #### (b) Exception
 
@@ -62,7 +62,7 @@
 
 (4) For purposes of this subsection—
 
-&emsp;(A) The term “fish processing” includes, in addition to processing, the performance of anyother activity relating to fishing, including, but not limited to, preparation, supply, storage, refrigeration, or transportation.
+&emsp;(A) The term “fish processing” includes, in addition to processing, the performance of any other activity relating to fishing, including, but not limited to, preparation, supply, storage, refrigeration, or transportation.
 
 &emsp;(B) The phrase “internal waters of a State” means all waters within the boundaries of a State except those seaward of the baseline from which the territorial sea is measured.
 
@@ -86,7 +86,7 @@ Subsec. (c)(1)(C). Pub. L. 104–297, §112(c)(2), (3), added subpar. (C).
 
 <b>1990</b>—Subsec. (c)(1)(B). Pub. L. 101–627, §112(1), inserted before period at end “and the application specifies the species to be processed”.
 
-Subsec. (c)(2). Pub. L. 101–627, §112(2), added par. (2) and struck out former par. (2) which read as follows: “The Governor of a State may not grant permission for a foreign fishing vessel to engage in fish processing under paragraph (1)(B) if he determines that fish processors within the State have adequate capacity, and will utilize such capacity, to process all of the United States harvested fish from the fishery concerned that are landed in the State.”
+Subsec. (c)(2). Pub. L. 101–627, §112(2), added par. (2) and struck out former par. (2) which read as follows: “The Governor of a State may not grant permission for a foreign fishing vessel to engage in fish processing under paragraph (1)(B) if he determines that fish processors within the State have adequate capacity, and will utilize such capacity, to process all of the UnitedStates harvested fish from the fishery concerned that are landed in the State.”
 
 <b>1986</b>—Subsec. (b)(1)(A). Pub. L. 99–659 substituted “exclusive economic zone” for “fishery conservation zone”.
 

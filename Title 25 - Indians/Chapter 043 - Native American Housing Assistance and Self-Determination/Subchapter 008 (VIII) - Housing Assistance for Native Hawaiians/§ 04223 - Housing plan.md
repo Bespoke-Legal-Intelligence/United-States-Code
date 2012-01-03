@@ -56,7 +56,7 @@ Statement of needs.—A statement of the housing needs of the low-income familie
 
 Financial resources.—An operating budget for the Department of Hawaiian Home Lands, in a form prescribed by the Secretary, that includes—
 
-&emsp;&emsp;&emsp;(i) an identification and a description of the financial resources reasonably available to the Department to carry out the purposes of this subchapter, including an explanation of the manner in whichamounts made available will be used to leverage additional resources; and
+&emsp;&emsp;&emsp;(i) an identification and a description of the financial resources reasonably available to the Department to carry out the purposes of this subchapter, including an explanation of the manner in which amounts made available will be used to leverage additional resources; and
 
 &emsp;&emsp;&emsp;(ii) the uses to which the resources described in clause (i) will be committed, including—
 
@@ -150,7 +150,7 @@ Certification of compliance.—Evidence of compliance that shall include, as app
 
 &emsp;&emsp;&emsp;(iii) a certification that policies are in effect and are available for review by the Secretary and the public governing the eligibility, admission, and occupancy of families for housing assisted with grant amounts provided under this subchapter;
 
-&emsp;&emsp;&emsp;(iv) a certification that policies are in effect and are available for review by the Secretary and the public governing rents charged, including the methods by whichsuch rents or homebuyer payments are determined, for housing assisted with grant amounts provided under this subchapter; and
+&emsp;&emsp;&emsp;(iv) a certification that policies are in effect and are available for review by the Secretary and the public governing rents charged, including the methods by which such rents or homebuyer payments are determined, for housing assisted with grant amounts provided under this subchapter; and
 
 &emsp;&emsp;&emsp;(v) a certification that policies are in effect and are available for review by the Secretary and the public governing the management and maintenance of housing assisted with grant amounts provided under this subchapter.
 

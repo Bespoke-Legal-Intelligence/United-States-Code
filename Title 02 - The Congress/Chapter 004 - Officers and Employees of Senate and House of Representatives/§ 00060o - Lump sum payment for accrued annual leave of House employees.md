@@ -40,7 +40,7 @@ Section is from the Congressional Operations Appropriations Act, 1996, which is 
 
 #### Amendments
 
-1997—Subsec. (a). Pub. L. 105–55, §103(a)(1), (2), in introductory provisions, struck out “who is separated from employment,” after “House of Representatives” and substituted “of the employee or for any other purpose” for “of the employee”.
+<b>1997</b>—Subsec. (a). Pub. L. 105–55, §103(a)(1), (2), in introductory provisions, struck out “who is separated from employment,” after “House of Representatives” and substituted “of the employee or for any other purpose” for “of the employee”.
 
 Subsec. (a)(1)(B). Pub. L. 105–55, §103(a)(3), substituted “in the case of a lump sum payment for the accrued annual leave of the employee, the amount” for “the amount”.
 

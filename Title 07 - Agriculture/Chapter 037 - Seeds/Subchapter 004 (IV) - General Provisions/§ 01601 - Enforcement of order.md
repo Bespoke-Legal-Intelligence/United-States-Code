@@ -6,9 +6,9 @@ If any person against whom an order is issued under section 1599 of this title f
 
 #### Amendments
 
-1984—Pub. L. 98–620 struck out second par. which required proceedings in such cases to be made a preferred cause and expedited in every way.
+<b>1984</b>—Pub. L. 98–620 struck out second par. which required proceedings in such cases to be made a preferred cause and expedited in every way.
 
-1958—Pub. L. 85–791 substituted “file the record in such proceedings as provided in section 2112 of title 28” for “certify and file with its application a full and accurate transcript of the record in such proceedings, including the complaint, the evidence, the report, and the order” in first sentence, and struck out “and transcript” after “application” in second sentence.
+<b>1958</b>—Pub. L. 85–791 substituted “file the record in such proceedings as provided in section 2112 of title 28” for “certify and file with its application a full and accurate transcript of the record in such proceedings, including the complaint, the evidence, the report, and the order” in first sentence, and struck out “and transcript” after “application” in second sentence.
 
 #### Change of Name
 

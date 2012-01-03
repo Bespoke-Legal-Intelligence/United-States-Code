@@ -14,7 +14,7 @@ Surveys and reports.—Survey and obtain executive agency reports on Federal Gov
 
 &emsp;&emsp;(B)
 
-Inventory levels.—Cooperate with executive agencies to establish reasonableinventory levels for property stocked by them, and report any excessive inventory levels to Congress and to the Director of the Office of Management and Budget.
+Inventory levels.—Cooperate with executive agencies to establish reasonable inventory levels for property stocked by them, and report any excessive inventory levels to Congress and to the Director of the Office of Management and Budget.
 
 &emsp;&emsp;(C)
 

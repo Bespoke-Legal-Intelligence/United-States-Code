@@ -48,7 +48,7 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;&emsp;(C) A prohibition on such TARP recipient making any golden parachute payment to a senior executive officer or any of the next 5 most highly-compensated employees of the TARP recipient during the period in which any obligation arising from financial assistance provided under the TARP remains outstanding.
 
-&emsp;&emsp;(D)(i) A prohibition on such TARP recipient paying or accruing any bonus, retention award, or incentive compensation during the period in which any obligation arising from financial assistance provided under the TARP remains outstanding, except that any prohibition developed under this paragraph shall not apply to the payment of long-term restricted stock by such TARP recipient, provided that such long-term restricted stock—
+&emsp;&emsp;(D)(i) A prohibition on such TARP recipient paying or accruing any bonus, retention award, or incentive compensation during theperiod in which any obligation arising from financial assistance provided under the TARP remains outstanding, except that any prohibition developed under this paragraph shall not apply to the payment of long-term restricted stock by such TARP recipient, provided that such long-term restricted stock—
 
 &emsp;&emsp;&emsp;(I) does not fully vest during the period in which any obligation arising from financial assistance provided to that TARP recipient remains outstanding;
 
@@ -146,7 +146,7 @@ The Securities Exchange Act of 1934, referred to in subsecs. (a)(1) and (c)(3), 
 
 #### Amendments
 
-2009—Pub. L. 111–5 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to applicability of requirements, direct purchases of troubled assets, auction purchases of troubled assets, and sunset of provisions, respectively.
+<b>2009</b>—Pub. L. 111–5 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to applicability of requirements, direct purchases of troubled assets, auction purchases of troubled assets, and sunset of provisions, respectively.
 
 Subsec. (g). Pub. L. 111–22 substituted “, at the market price, may liquidate warrants associated with such assistance” for “shall liquidate warrants associated with such assistance at the current market price”.
 

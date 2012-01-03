@@ -36,7 +36,7 @@ The Secretary of Housing and Urban Development (in this section referred to as t
 
 #### (2) Capacity enhancement
 
-&emsp;The Secretary shall use funds made available under this section to help establish, organize, and build the capacity of fair housing enforcement organizations, particularly in those areas of the country which are currently underserved by fair housing enforcement organizations as well as those areas where large concentrations of protected classes exist. For purposes of meeting the objectives of this paragraph, the Secretary may enter into contractsor cooperative agreements with qualified fair housing enforcement organizations. The Secretary shall establish annual goals which reflect the national need for private fair housing enforcement organizations.
+&emsp;The Secretary shall use funds made available under this section to help establish, organize, and build the capacity of fair housing enforcement organizations, particularly in those areas of the country which are currently underserved by fair housing enforcement organizations as well as those areas where large concentrations of protected classes exist. For purposes of meeting the objectives of this paragraph, the Secretary may enter into contracts or cooperative agreements with qualified fair housing enforcement organizations. The Secretary shall establish annual goals which reflect the national need for private fair housing enforcement organizations.
 
 #### (d) Education and outreach
 
@@ -102,7 +102,7 @@ There are authorized to be appropriated to carry out the provisions of this sect
 
 &emsp;(3) not less than $2,010,000 for fiscal year 1993 and $4,000,000 for fiscal year 1994 shall be for the creation of new fair housing enforcement organizations authorized under subsection (c)(2) of this section; and
 
-&emsp;(4) not less than $2,540,000 for fiscal year 1993 and $5,000,000 for fiscal year 1994 shall be for education and outreach programs authorized under subsection (d) of this section, to be divided equally between activities specified under subsection (d)(1) of this section and those specified under subsections (d)(2) and (d)(3) of this section.
+&emsp;(4) not less than $2,540,000 for fiscal year 1993 and $5,000,000 for fiscal year 1994 shall be for education and outreach programs authorizedunder subsection (d) of this section, to be divided equally between activities specified under subsection (d)(1) of this section and those specified under subsections (d)(2) and (d)(3) of this section.
 
 > Any amount appropriated under this section shall remain available until expended.
 
@@ -176,7 +176,7 @@ Pub. L. 102–550, §905(b)(1), redesignated subsec. (e) as (h).
 
 Subsecs. (i), (j). Pub. L. 102–550, §905(b)(4), added subsecs. (i) and (j).
 
-<b>1990</b>—Subsec. (d). Pub. L. 101–625, §953(a), amended first sentence generally. Prior to amendment, first sentence read as follows: “There are authorized to be appropriated to carry out the provisions of this section, including any program evaluations, $5,000,000 for fiscal year 1988, and $5,000,000 for fiscal year 1989, of which not more than $3,000,000 in each year shall be for the private enforcement initiative demonstration.”
+<b>1990</b>—Subsec. (d). Pub. L. 101–625, §953(a), amended first sentence generally. Prior to amendment, first sentence read as follows: “There are authorized to be appropriated to carry out the provisions of this section, including any program evaluations, $5,000,000 for fiscalyear 1988, and $5,000,000 for fiscal year 1989, of which not more than $3,000,000 in each year shall be for the private enforcement initiative demonstration.”
 
 Subsec. (e). Pub. L. 101–625, §953(b), substituted “1992” for “1989”.
 

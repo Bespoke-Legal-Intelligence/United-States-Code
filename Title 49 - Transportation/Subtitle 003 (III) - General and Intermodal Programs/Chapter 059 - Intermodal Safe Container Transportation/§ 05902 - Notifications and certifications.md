@@ -36,7 +36,7 @@ Shipping documents.—For purposes of this chapter, a shipping document, prepare
 
 &emsp;(5)
 
-Use of “freight all kinds” term.—The term “Freight All Kinds” or “FAK” may not be used for the purpose of certification under section 5902(b) after December 31, 2000, as a commodity description for a trailer or container if the weight of any commodity in the trailer or container equals or exceeds 20 percent of the total weight of the contents of the trailer or container. This subsection does notprohibit the use of the term after that date for rating purposes.
+Use of “freight all kinds” term.—The term “Freight All Kinds” or “FAK” may not be used for the purpose of certification under section 5902(b) after December 31, 2000, as a commodity description for a trailer or container if the weight of any commodity in the trailer or container equals or exceeds 20 percent of the total weight of the contents of the trailer or container. This subsection does not prohibit the use of the term after that date for rating purposes.
 
 &emsp;(6)
 
@@ -120,7 +120,7 @@ Pub. L. 104–291, §204(a)(2), substituted “29,000 pounds is tendered for int
 
 Pub. L. 104–291, §204(a)(1), substituted “If the first carrier to which any” for “Before a person tenders to a first carrier for intermodal transportation a”.
 
-Subsec. (b). Pub. L. 104–291, §204(b), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Not later than when a person tenders to a first carrier for intermodal transportation a container or trailer to which subsection (a) of this section applies or a loaded container or trailer having an actual gross cargo weight of more than 10,000 pounds (including packing material and pallets), the person shall certify to the carrier in writing the actualgross cargo weight and a reasonable description of the contents of the container or trailer.”
+Subsec. (b). Pub. L. 104–291, §204(b), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Not later than when a person tenders to a first carrier for intermodal transportation a container or trailer to which subsection (a) of this section applies or a loaded container or trailer having an actual gross cargo weight of more than 10,000 pounds (including packing material and pallets), the person shall certify to the carrier in writing the actual gross cargo weight and a reasonable description of the contents of the container or trailer.”
 
 Subsec. (c). Pub. L. 104–291, §204(c)(2), inserted at end “If a person inaccurately transfers the information on the certification, or fails to forward the certification to a subsequent carrier, then that person is liable to any person who incurs any bond, fine, penalty, cost (including storage), or interest for any such fine, penalty, cost (including storage), or interest incurred as a result of the inaccurate transfer of information or failure to forward the certification. A subsequent carrier who incurs a bond, fine, penalty, or cost (including storage), or interest as a result of the inaccurate transfer of the information, or the failure to forward the certification, shall have a lien against the contents of the container or trailer under section 5905 in the amount of the bond, fine, penalty, or cost (including storage), or interest and all court costs and legal fees incurred by the carrier as a result of such inaccurate transfer or failure.”
 

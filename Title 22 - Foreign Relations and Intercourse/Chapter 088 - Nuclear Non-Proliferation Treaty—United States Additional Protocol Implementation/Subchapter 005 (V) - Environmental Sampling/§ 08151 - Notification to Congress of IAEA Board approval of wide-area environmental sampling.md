@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Not later than 30 days after the date on which the Board of Governors of the IAEA approveswide-area environmental sampling for use as a safeguards verification tool, the President shall notify the appropriate congressional committees.
+Not later than 30 days after the date on which the Board of Governors of the IAEA approves wide-area environmental sampling for use as a safeguards verification tool, the President shall notify the appropriate congressional committees.
 
 #### (b) Content
 

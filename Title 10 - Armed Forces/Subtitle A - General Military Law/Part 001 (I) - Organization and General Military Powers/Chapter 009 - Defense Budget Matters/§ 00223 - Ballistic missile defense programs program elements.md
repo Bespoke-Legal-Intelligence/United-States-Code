@@ -78,75 +78,11 @@ Subsec. (b). Pub. L. 107–107, §232(b), amended heading and text of subsec. (b
 
 #### Acquisition Accountability Reports on the Ballistic Missile Defense System
 
-Pub. L. 111–383, div. A, title II, §225, Jan. 7, 2011, 124 Stat. 4170, provided that:
-
-“(a)
-
-Baselines Required.—The Secretary of Defense shall ensure that the Missile Defense Agency establishes and maintains an acquisition baseline for each program element of the ballistic missile defense system, as specified in section 223 of title 10, United States Code.
-
-“(b)
-
-Elements of Baselines.—Each acquisition baseline required by subsection (a) for a program element shall include the following:
-
-&emsp;“(1) A comprehensive schedule for the program element, including—
-
-&emsp;&emsp;“(A) research and development milestones;
-
-&emsp;&emsp;“(B) acquisition milestones, including design reviews and key decision points;
-
-&emsp;&emsp;“(C) key test events, including ground and flight tests and ballistic missile defense system tests; and
-
-&emsp;&emsp;“(D) delivery and fielding schedules.
-
-&emsp;“(2) A detailed technical description of—
-
-&emsp;&emsp;“(A) the capability to be developed, including hardware and software;
-
-&emsp;&emsp;“(B) system requirements;
-
-&emsp;&emsp;“(C) how the proposed capability satisfies a capability identified by the commanders of the combatant commands on a prioritized capabilities list;
-
-&emsp;&emsp;“(D) key knowledge points that must be achieved to permit continuation of the program and to inform production and deployment decisions; and
-
-&emsp;&emsp;“(E) how the Missile Defense Agency plans to improve the capability over time.
-
-&emsp;“(3) A cost estimate for the program element, including—
-
-&emsp;&emsp;“(A) a life cycle cost estimate;
-
-&emsp;&emsp;“(B) program acquisition unit costs for the program element;
-
-&emsp;&emsp;“(C) average procurement unit costs and program acquisition costs for the program element; and
-
-&emsp;&emsp;“(D) an identification when the program joint cost analysis requirements description document is scheduled to be approved.
-
-&emsp;“(4) A test baseline summarizing the comprehensive test program for the program element outlined in the integrated master test plan.
-
-“(c)
-
-Annual Reports on Acquisition Baselines.—
-
-&emsp;“(1)
-
-Annual reports required.—Not later than February 15, 2011, and annually thereafter, the Director of the Missile Defense Agency shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the acquisition baselines required by subsection (a). The first such report shall set forth the acquisition baselines, and each later report shall identify the significant changes or variances, if any, in any such baseline from any earlier report under this subsection.
-
-&emsp;“(2)
-
-Form.—Each report under this subsection shall be submitted in unclassified form, but may include a classified annex.
-
-“(d)
-
-Annual Reports on Missile Defense Executive Board Activities.—The Director shall include in each report under subsection (c) a description of the activities of the Missile Defense Executive Board during the preceding fiscal year, including the following:
-
-&emsp;“(1) A list of each meeting of the Board during the preceding fiscal year.
-
-&emsp;“(2) The agenda and issues considered at each such meeting.
-
-&emsp;“(3) A description of any decisions or recommendations made by the Board at each such meeting.”
+Pub. L. 111–383, div. A, title II, §225, Jan. 7, 2011, 124 Stat. 4170, related to acquisition baselines, elements of baselines, and annual reports, prior to repeal by Pub. L. 112–81, div. A, title II, §231(b)(1), Dec. 31, 2011, 125 Stat. 1339.
 
 #### Budget and Acquisition Requirements for Missile Defense Agency Activities
 
-Pub. L. 110–181, div. A, title II, §223, Jan. 28, 2008, 122 Stat. 39, provided that:
+Pub. L. 110–181, div. A, title II, §223, Jan. 28, 2008, 122 Stat. 39, as amended by Pub. L. 112–81, div. A, title II, §231(b)(2), Dec. 31, 2011, 125 Stat. 1339, provided that:
 
 “(a)
 
@@ -198,53 +134,7 @@ Relationship to Other Law.—Nothing in this provision shall be construed to alt
 
 “(f)
 
-Plan Required.—Not later than March 1, 2008, the Director of the Missile Defense Agency shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a plan for transitioning the Missile Defense Agency from using exclusively research, development, test, and evaluation funds to using procurement, military construction, operations and maintenance, and research, development, test, and evaluation funds for the appropriate budget activities, and for transitioning from incremental funding to full funding for fiscal years after fiscal year 2010.
-
-“(g)
-
-Objectives for Acquisition Activities.—
-
-&emsp;“(1)
-
-In general.—Commencing as soon as practicable, but not later than the submittal to Congress of the budget for the President for fiscal year 2009 under section 1105(a) of title 31, United States Code, the Missile Defense Agency shall take appropriate actions to achieve the following objectives in its acquisition activities:
-
-&emsp;&emsp;“(A) Improved transparency.
-
-&emsp;&emsp;“(B) Improved accountability.
-
-&emsp;&emsp;“(C) Enhanced oversight.
-
-&emsp;“(2)
-
-Required actions.—In order to achieve the objectives specified in paragraph (1), the Missile Defense Agency shall, at a minimum, take actions as follows:
-
-&emsp;&emsp;“(A) Establish acquisition cost, schedule, and performance baselines for each ballistic missile defense system element that—
-
-&emsp;&emsp;&emsp;“(i) has entered the equivalent of the systems development and demonstration phase of acquisition; or
-
-&emsp;&emsp;&emsp;“(ii) is being produced and acquired for operational fielding.
-
-&emsp;&emsp;“(B) Provide unit cost reporting data for each ballistic missile defense system element covered by subparagraph (A), and secure independent estimation and verification of such cost reporting data.
-
-&emsp;&emsp;“(C) Include, in the budget justification materials described in subsection (a), a description of actions being taken in the fiscal year in which such materials are submitted, and the actions to be taken in the fiscal year covered by such materials, to achieve such objectives.
-
-&emsp;“(3)
-
-Specification of ballistic missile defense system elements.—The ballistic missile defense system elements that, as of October 2007, are ballistic missile defense system elements covered by paragraph (2)(A) are the following elements:
-
-&emsp;&emsp;“(A) Ground-based Midcourse Defense.
-
-&emsp;&emsp;“(B) Aegis Ballistic Missile Defense.
-
-&emsp;&emsp;“(C) Terminal High Altitude Area Defense.
-
-&emsp;&emsp;“(D) Forward-Based X-band radar-Transportable (AN/TPY–2).
-
-&emsp;&emsp;“(E) Command, Control, Battle Management, and Communications.
-
-&emsp;&emsp;“(F) Sea-Based X-band radar.
-
-&emsp;&emsp;“(G) Upgraded Early Warning radars.”
+Plan Required.—Not later than March 1, 2008, the Director of the Missile Defense Agency shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a plan for transitioning the Missile Defense Agency from using exclusively research, development, test, and evaluation funds to using procurement, military construction, operations and maintenance, and research, development, test, and evaluation funds for the appropriate budget activities, and for transitioning from incremental funding to full funding for fiscal years after fiscal year 2010.”
 
 #### References to New Name for Ballistic Missile Defense Organization
 

@@ -14,7 +14,7 @@ Prior to the time provided in subsection (b) of this section for the removal of 
 
 &emsp;(1) upon request of any of the owners, partition the land and issue to each owner a patent or deed for his individual share that shall become unrestricted four years from August 13, 1954;
 
-&emsp;(2) upon request of any of the owners, and a finding by the Secretary that partition of all or any part of the land is not practicable, cause all or any part of the land to be sold at not less than the appraised value thereof and distribute the proceeds of sale to the owners: <i>Provided</i>, That any one or more of the owners may elect before a sale to purchase the otherinterests in the land at not less than the appraised value thereof, and the purchaser shall receive an unrestricted patent or deed to the land; and
+&emsp;(2) upon request of any of the owners, and a finding by the Secretary that partition of allor any part of the land is not practicable, cause all or any part of the land to be sold at not less than the appraised value thereof and distribute the proceeds of sale to the owners: <i>Provided</i>, That any one or more of the owners may elect before a sale to purchase the other interests in the land at not less than the appraised value thereof, and the purchaser shall receive an unrestricted patent or deed to the land; and
 
 &emsp;(3) if the whereabouts of none of the owners can be ascertained, cause such lands to be sold and deposit the proceeds of sale in the Treasury of the United States for safekeeping.
 

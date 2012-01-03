@@ -30,7 +30,7 @@ Pub. L. 109–58, title I, §110(b), Aug. 8, 2005, 119 Stat. 615, provided that:
 
 #### Effective Date of 1986 Amendment
 
-Section 2(e) of Pub. L. 99–359 provided that: “This section \[amending this section and enacting provisions set out as notes below\] shall take effect 60 days after the date of enactment of this Act \[July 8, 1986\], except that if such effective date occurs in any calendar year after March 1, this section shall take effect on the first day of the following calendar year.”
+Pub. L. 99–359, §2(e), July 8, 1986, 100 Stat. 765, provided that: “This section \[amending this section and enacting provisions set out as notes below\] shall take effect 60 days after the date of enactment of this Act \[July 8, 1986\], except that if such effective date occurs in any calendar year after March 1, this section shall take effect on the first day of the following calendar year.”
 
 #### Study and Report on Energy Consumption; Reversion
 
@@ -46,7 +46,7 @@ Right to Revert.—Congress retains the right to revert the Daylight Saving Time
 
 #### Congressional Findings; Expansion of Daylight Saving Time
 
-Section 2(a) of Pub. L. 99–359 provided that: “The Congress finds—
+Pub. L. 99–359, §2(a), July 8, 1986, 100 Stat. 764, provided that: “The Congress finds—
 
 &emsp;“(1) that various studies of governmental and nongovernmental agencies indicate that daylight saving time over an expanded period would produce a significant energy savings in electrical power consumption;
 
@@ -58,7 +58,7 @@ Section 2(a) of Pub. L. 99–359 provided that: “The Congress finds—
 
 #### Effectiveness of State Exemption in Effect on July 8, 1986
 
-Section 2(c) of Pub. L. 99–359 provided that: “Any law in effect on the date of the enactment of this Act \[July 8, 1986\]—
+Pub. L. 99–359, §2(c), July 8, 1986, 100 Stat. 764, provided that: “Any law in effect on the date of the enactment of this Act \[July 8, 1986\]—
 
 &emsp;“(1) adopted pursuant to section 3(a)(2) of the Uniform Time Act of 1966 \[15 U.S.C. 260a(a)(2)\] by a State with parts thereof in more than one time zone, or
 
@@ -68,7 +68,7 @@ Section 2(c) of Pub. L. 99–359 provided that: “Any law in effect on the date
 
 #### Adjustment by General Rules or Interim Action With Respect to Hours of Operation of Daytime Standard Amplitude Modulation Broadcast Stations
 
-Section 2(d) of Pub. L. 99–359 provided that:
+Pub. L. 99–359, §2(d), July 8, 1986, 100 Stat. 764, provided that:
 
 “(1) Notwithstanding any other law or any regulation issued under any such law, the Federal Communications Commission shall, consistent with any existing treaty or other agreement, make such adjustment by general rules, or by interim action pending such general rules, with respect to hours of operation of daytime standard amplitude modulation broadcast stations, as may be consistent with the public interest, including the public's interest in receiving interference-free service.
 

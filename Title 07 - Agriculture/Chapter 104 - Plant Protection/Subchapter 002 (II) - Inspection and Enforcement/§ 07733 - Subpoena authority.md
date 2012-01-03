@@ -32,13 +32,13 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–246, §10203(c)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Secretary shall have power to subpoena the attendance and testimony of any witness, and the production of all documentary evidence relating to the administration or enforcement of this chapter or any matter under investigation in connection with this chapter.”
+<b>2008</b>—Subsec. (a). Pub. L. 110–246, §10203(c)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Secretary shall have power to subpoena the attendance and testimony of any witness, and the production of all documentary evidence relating to the administration or enforcement of this chapter or any matter under investigation in connection with this chapter.”
 
 Subsec. (b). Pub. L. 110–246, §10203(c)(2), struck out “documentary” before “evidence”.
 
 Subsec. (c). Pub. L. 110–246, §10203(c)(3), in first sentence substituted “testimony of any witness, the production of evidence, or the inspection of premises” for “testimony of any witness and the production of documentary evidence” and in second sentence substituted “question, produce evidence, or permit the inspection of premises” for “question or to produce documentary evidence”.
 
-2002—Subsec. (b). Pub. L. 107–171, §10418(b)(2)(A), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “The attendance of any witness and production of documentary evidence may be required from any place in the United States at any designated place of hearing.”
+<b>2002</b>—Subsec. (b). Pub. L. 107–171, §10418(b)(2)(A), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “The attendance of any witness and production of documentary evidence may be required from any place in the United States at any designated place of hearing.”
 
 Subsec. (e). Pub. L. 107–171, §10418(b)(2)(B), inserted “to an agency other than the Office of Administrative Law Judges” after “subpoena is delegated”.
 

@@ -60,9 +60,9 @@ Section was formerly classified to section 1332 of Title 31 prior to the general
 
 #### Amendments
 
-1997—Pub. L. 105–33 amended section catchline and text generally. Prior to amendment, section provided that new budget authority, new spending authority, and revenue legislation had to be within appropriate levels.
+<b>1997</b>—Pub. L. 105–33 amended section catchline and text generally. Prior to amendment, section provided that new budget authority, new spending authority,and revenue legislation had to be within appropriate levels.
 
-1990—Subsec. (a). Pub. L. 101–508, §13303(d), designated existing provisions as par. (1), redesignated former pars. (1) to (3) thereof as subpars. (A) to (C), respectively, and added par. (2).
+<b>1990</b>—Subsec. (a). Pub. L. 101–508, §13303(d), designated existing provisions as par. (1), redesignated former pars. (1) to (3) thereof as subpars. (A) to (C), respectively, and added par. (2).
 
 Pub. L. 101–508, §13207(a)(1)(E), substituted “bill, joint resolution, amendment, motion, or conference report” for “bill, resolution, or amendment” and struck out “or any conference report on any such bill or resolution” after “reducing revenues for such fiscal year,”.
 
@@ -74,7 +74,7 @@ Pub. L. 101–508, §13112(a)(10), in closing provisions, substituted “except 
 
 > except to the extent that paragraph (1) of section 632(i) of this title or section 635(b) of this title, as the case may be, does not apply by reason of paragraph (2) of such subsection.”
 
-1987—Subsec. (a). Pub. L. 100–119 substituted “would otherwise result in a deficit for such fiscal year that—
+<b>1987</b>—Subsec. (a). Pub. L. 100–119 substituted “would otherwise result in a deficit for such fiscal year that—
 
 &emsp;“(A) for fiscal year 1989 or any subsequent fiscal year, exceeds the maximum deficit amount specified for such fiscal year in section 622(7) of this title; and
 
@@ -82,7 +82,7 @@ Pub. L. 101–508, §13112(a)(10), in closing provisions, substituted “except 
 
 > except to the extent that paragraph (1) of section 632(i) of this title or section 635(b) of this title, as the case may be, does not apply by reason of paragraph (2) of such subsection” for “would otherwise result in a deficit for such fiscal year that exceeds the maximum deficit amount specified for such fiscal year in section 622(7) of this title (except to the extent that paragraph (1) of section 632(i) of this title or section 635(b) of this title, as the case may be, does not apply by reason of paragraph (2) of such subsection)”.
 
-1985—Subsec. (a). Pub. L. 99–177 amended subsec. (a) generally, striking out references to sections 641 and 651 of this title, and inserting provisions relating to nonconsideration in Senate of any bill, resolution, etc., resulting in a fiscal year deficit exceeding maximum deficit amount specified in section 622(7) of this title, with certain exceptions.
+<b>1985</b>—Subsec. (a). Pub. L. 99–177 amended subsec. (a) generally, striking out references to sections 641 and 651 of this title, and inserting provisions relating to nonconsideration in Senate of any bill, resolution, etc., resulting in a fiscal year deficit exceeding maximum deficit amount specified in section 622(7) of this title, with certain exceptions.
 
 Subsec. (b). Pub. L. 99–177 amended subsec. (b) generally, substituting provisions setting forth exceptions in the House of Representatives for certain bills, etc., under subsec. (a) of this section, for provisions relating to determination of outlays and revenues.
 
@@ -94,5 +94,5 @@ Amendment by section 13303(d) of Pub. L. 101–508 applicable with respect to fi
 
 #### Effective Date of 1985 Amendment
 
-Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, set out as an Effective and Termination Dates note under section 900 of this title.
+Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of this title prior to repeal by Pub. L. 112–25, title I, §104(a), Aug. 2, 2011, 125 Stat. 246.
 

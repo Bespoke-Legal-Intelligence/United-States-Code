@@ -24,7 +24,7 @@ Pub. L. 110–69, title VII, §7003, Aug. 9, 2007, 121 Stat. 679, provided that:
 
 #### Curricula
 
-Pub. L. 110–69, title VII, §7005, Aug. 9, 2007, 121 Stat. 679, provided that: “Nothing in this title \[enacting thissection and sections 1862n–1a and 1862<i>o</i>–1 to 1862<i>o</i>–15 of this title, amending sections 1862i, 1862<i>l</i>, 1862n, 1862n–1, 1862n–2, 1862n–5, 1863, 1870, and 1881a of this title, sections 5503 and 5511 of Title 15, Commerce and Trade, and section 3801 of Title 31, Money and Finance, enacting provisions set out as notes under this section and section 1862n–2 of this title, and amending provisions set out as a note under section 1113 of Title 31\], or the amendments made by this title, shall be construed to limit the authority of State governments or local school boards to determine the curricula of their students.”
+Pub. L. 110–69, title VII, §7005, Aug. 9, 2007, 121 Stat. 679, provided that: “Nothing in this title \[enacting this section and sections 1862n–1a and 1862<i>o</i>–1 to 1862<i>o</i>–15 of this title, amending sections 1862i, 1862<i>l</i>, 1862n, 1862n–1, 1862n–2, 1862n–5, 1863, 1870, and 1881a of this title, sections 5503 and 5511 of Title 15, Commerce and Trade, and section 3801 of Title 31, Money and Finance, enacting provisions set out as notes under this section and section 1862n–2 of this title, and amending provisions set out as a note under section 1113 of Title 31\], or the amendments made by this title, shall be construed to limit the authority of State governments or local school boards to determine the curricula of their students.”
 
 #### Definitions
 

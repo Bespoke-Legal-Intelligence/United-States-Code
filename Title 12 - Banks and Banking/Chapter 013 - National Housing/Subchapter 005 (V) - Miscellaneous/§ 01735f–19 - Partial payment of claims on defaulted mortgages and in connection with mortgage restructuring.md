@@ -16,7 +16,7 @@ Notwithstanding any other provision of law, the Secretary, in connection with a 
 
 As a condition to a partial claim payment under this section, the mortgagor shall agree to repay to the Secretary the amount of such payment and such obligation shall be secured by a second mortgage on the property on such terms and conditions as the Secretary may determine.
 
-(June 27, 1934, ch. 847, title V, §541, as added Pub. L. 103–233, title I, §101(e), Apr. 11, 1994, 108 Stat. 357; amended Pub. L. 105–65, title II, §210, title V, §523(b), Oct. 27, 1997, 111 Stat. 1366, 1406; Pub. L. 106–74, title II, §213(a), Oct. 20, 1999, 113 Stat. 1073.)
+(June 27, 1934, ch. 847, title V, §541, as added Pub. L. 103–233, title I, §101(e), Apr. 11, 1994, 108 Stat.357; amended Pub. L. 105–65, title II, §210, title V, §523(b), Oct. 27, 1997, 111 Stat. 1366, 1406; Pub. L. 106–74, title II, §213(a), Oct. 20, 1999, 113 Stat. 1073.)
 
 #### References in Text
 
@@ -24,11 +24,11 @@ The Multifamily Assisted Housing Reform and Affordability Act of 1997, referred 
 
 #### Amendments
 
-1999—Pub. L. 106–74, §213(a)(1), substituted “defaulted mortgages and in connection with mortgage restructuring” for “multifamily housing projects and health care facilities” in section catchline.
+<b>1999</b>—Pub. L. 106–74, §213(a)(1), substituted “defaulted mortgages and in connection with mortgage restructuring” for “multifamily housing projects and health care facilities” in section catchline.
 
 Subsec. (b). Pub. L. 106–74, §213(a)(2), substituted “partial or full payment of claim under one or more mortgage insurance contracts” for “partial payment of the claim under the mortgage insurance contract”.
 
-1997—Pub. L. 105–65, §210(1), inserted “and health care facilities” after “housing projects” in section catchline.
+<b>1997</b>—Pub. L. 105–65, §210(1), inserted “and health care facilities” after “housing projects” in section catchline.
 
 Subsec. (a). Pub. L. 105–65, §523(b)(1), substituted “Defaulted mortgages” for “Authority” in heading.
 

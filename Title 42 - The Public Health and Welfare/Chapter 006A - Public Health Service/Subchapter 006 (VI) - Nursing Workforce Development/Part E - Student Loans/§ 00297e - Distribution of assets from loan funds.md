@@ -22,7 +22,7 @@ If a capital distribution is made under subsection (a) of this section, the scho
 
 #### References in Text
 
-This part, referred to in subsec. (c)(1), was in the original “this subpart” and was translated to reflect the probable intent of Congress and the redesignation of subpart II of part B of this subchapter as part E of this subchapter by Pub. L. 105–392, title I, §123(2), Nov. 13, 1998, 112 Stat. 3562.
+This part, referred to in subsec. (c)(1), was in the original “this subpart” and was translated to reflectthe probable intent of Congress and the redesignation of subpart II of part B of this subchapter as part E of this subchapter by Pub. L. 105–392, title I, §123(2), Nov. 13, 1998, 112 Stat. 3562.
 
 #### Amendments
 

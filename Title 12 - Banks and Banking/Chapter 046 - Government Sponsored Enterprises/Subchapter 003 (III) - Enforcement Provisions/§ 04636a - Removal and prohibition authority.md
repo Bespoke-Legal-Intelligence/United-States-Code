@@ -42,7 +42,7 @@
 
 #### (1) Suspension or prohibition authority
 
-&emsp;If the Director serves written notice under subsection (a) upon a party subject to that subsection (a), the Director may, by order, suspend or remove such party from office, or prohibit such party from further participation in any manner in the conduct of the affairs of the regulated entity, if the Director—
+&emsp;If the Director serves written notice under subsection (a) upon a party subject to thatsubsection (a), the Director may, by order, suspend or remove such party from office, or prohibit such party from further participation in any manner in the conduct of the affairs of the regulated entity, if the Director—
 
 &emsp;&emsp;(A) determines that such action is necessary for the protection of the regulated entity; and
 
@@ -80,7 +80,7 @@
 
 #### (3) Consent
 
-&emsp;Unless the party that is the subject of a notice delivered under subsection (a) appears atthe hearing in person or by a duly authorized representative, such party shall be deemed to have consented to the issuance of an order under this section.
+&emsp;Unless the party that is the subject of a notice delivered under subsection (a) appears at the hearing in person or by a duly authorized representative, such party shall be deemed to have consented to the issuance of an order under this section.
 
 #### (4) Issuance of order of suspension
 
@@ -126,7 +126,7 @@ This section shall only apply to a person who is an individual, unless the Direc
 
 #### (g) Stay of suspension and prohibition of entity-affiliated party
 
-Not later than 10 days after the date on which any entity-affiliated party has been suspended from office or prohibited from participation in the conduct of the affairs of a regulated entity under this section, such party may apply to the United States District Court for the District of Columbia, or the United States district court for the judicial district in which the headquarters of the regulated entity is located, for a stay of such suspension or prohibition pending the completion of the administrative proceedings pursuant to subsection (c). The court shall have jurisdiction to stay such suspension or prohibition.
+Not later than 10 days after the date on which any entity-affiliated party has been suspendedfrom office or prohibited from participation in the conduct of the affairs of a regulated entity under this section, such party may apply to the United States District Court for the District of Columbia, or the United States district court for the judicial district in which the headquarters of the regulated entity is located, for a stay of such suspension or prohibition pending the completion of the administrative proceedings pursuant to subsection (c). The court shall have jurisdiction to stay such suspension or prohibition.
 
 #### (h) Suspension or removal of entity-affiliated party charged with felony
 
@@ -150,7 +150,7 @@ Not later than 10 days after the date on which any entity-affiliated party has b
 
 #### (A) In general
 
-&emsp;&emsp;If a judgment of conviction or an agreement to enter a pretrial diversion or other similar program is entered against an entity-affiliated party in connection with acrime described in paragraph (1)(A), at such time as such judgment is not subject to further appellate review, the Director may, if continued service or participation by such party may pose a threat to the regulated entity or impair public confidence in the regulated entity, issue and serve upon such party an order removing such party from office or prohibiting such party from further participation in any manner in the conduct of the affairs of the regulated entity without the prior written consent of the Director.
+&emsp;&emsp;If a judgment of conviction or an agreement to enter a pretrial diversion or other similar program is entered against an entity-affiliated party in connection with a crime described in paragraph (1)(A), at such time as such judgment is not subject to further appellate review, the Director may, if continued service or participation by such party may pose a threat to the regulated entity or impair public confidence in the regulated entity, issue and serve upon such party an order removing such party from office or prohibiting such party from further participation in any manner in the conduct of the affairs of the regulated entity without the prior written consent of the Director.
 
 #### (B) Provisions applicable to order
 

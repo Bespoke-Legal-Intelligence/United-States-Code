@@ -26,7 +26,7 @@ Designating and Additional Schedules.—The Postal Service may—
 
 Changing Schedules.—A schedule designated or required to be established for the transportation of mail under subsection (c) of this section may be changed only after 10 days’ notice of the change is filed as provided in subsection (b)(2) of this section. The Postal Service may disapprove a proposed change in a schedule or amend or modify the schedule or proposed change.
 
-(Pub. L. 103–272, §§1(e), 4(k)(1), (3), July 5, 1994, 108 Stat. 1153, 1370; Pub. L. 103–429, §7(a)(3)(D), Oct. 31, 1994, 108 Stat. 4389; Pub. L. 106–31, title VI, §6003, May 21, 1999, 113 Stat. 113; Pub. L. 110–405, §2(b)(3), Oct. 13, 2008, 122 Stat. 4289.)
+(Pub. L. 103–272, §§1(e), 4(k)(1), (3), July 5, 1994, 108 Stat. 1153, 1370; Pub. L. 103–429, §7(a)(3)(D),Oct. 31, 1994, 108 Stat. 4389; Pub. L. 106–31, title VI, §6003, May 21, 1999, 113 Stat. 113; Pub. L. 110–405, §2(b)(3), Oct. 13, 2008, 122 Stat. 4289.)
 
 Historical and Revision Notes
 
@@ -152,7 +152,7 @@ Orders.—An order of the Postal Service under this section may become effective
 
 “(f)
 
-Proceedings Preferences.—The Secretary shall give preference to a proceeding under this section over all other proceedings before the Secretary under this subpart.”
+Proceedings Preferences.—The Secretary shall give preference to a proceeding under this section overall other proceedings before the Secretary under this subpart.”
 
 <b>1999</b>—Subsecs. (a), (b)(2) to (4). Pub. L. 106–31 repealed Pub. L. 103–272, §4(k). See 1994 Amendment notes below.
 

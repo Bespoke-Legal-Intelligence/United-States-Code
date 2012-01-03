@@ -122,7 +122,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 #### Amendments
 
-2008—Subsec. (d)(4). Pub. L. 110–398 added par. (4).
+<b>2008</b>—Subsec. (d)(4). Pub. L. 110–398 added par. (4).
 
 <i><sup>1</sup></i><i> So in original. There probably should be a closing parenthesis after “title”.</i>
 

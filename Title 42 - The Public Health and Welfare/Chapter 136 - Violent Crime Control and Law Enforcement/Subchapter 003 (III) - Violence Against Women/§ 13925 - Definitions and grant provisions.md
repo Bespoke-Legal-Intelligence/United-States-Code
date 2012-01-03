@@ -32,7 +32,7 @@ In this subchapter:
 
 &emsp;The term “court-based” and “court-related personnel” mean persons working in the court, whether paid or volunteer, including—
 
-&emsp;&emsp;(A) clerks, special masters, domestic relations officers, administrators, mediators, custody evaluators, guardians ad litem, lawyers, negotiators, probation, parole, interpreters, victim assistants, victim advocates, and judicial, administrative, or any otherprofessionals or personnel similarly involved in the legal process;
+&emsp;&emsp;(A) clerks, special masters, domestic relations officers, administrators, mediators, custody evaluators, guardians ad litem, lawyers, negotiators, probation, parole, interpreters, victim assistants, victim advocates, and judicial, administrative, or any other professionals or personnel similarly involved in the legal process;
 
 &emsp;&emsp;(B) court security personnel;
 
@@ -104,7 +104,7 @@ In this subchapter:
 
 &emsp;The term “legal assistance” includes assistance to adult and youth victims of domestic violence, dating violence, sexual assault, and stalking in—
 
-&emsp;&emsp;(A) family, tribal, territorial, immigration, employment, administrative agency, housing matters, campus administrative or protection or stay away order proceedings, and other similar matters; and
+&emsp;&emsp;(A) family, tribal, territorial, immigration, employment, administrative agency, housing matters, campus administrative orprotection or stay away order proceedings, and other similar matters; and
 
 &emsp;&emsp;(B) criminal justice investigations, prosecutions and post-trial matters (including sentencing, parole, and probation) that impact the victim's safety and privacy.
 
@@ -206,7 +206,7 @@ In this subchapter:
 
 &emsp;The term “tribal nonprofit organization” means—
 
-&emsp;&emsp;(A) a victim services provider that has as its primary purpose to assist Native victimsof domestic violence, dating violence, sexual assault, or stalking; and
+&emsp;&emsp;(A) a victim services provider that has as its primary purpose to assist Native victims of domestic violence, dating violence, sexual assault, or stalking; and
 
 &emsp;&emsp;(B) staff and leadership of the organization must include persons with a demonstrated history of assisting American Indian or Alaska Native victims of domestic violence, dating violence, sexual assault, or stalking.
 
@@ -266,7 +266,7 @@ In this subchapter:
 
 &emsp;&emsp;&emsp;(i) disclose any personally identifying information or individual information collected in connection with services requested, utilized, or denied through grantees’ and subgrantees’ programs; or
 
-&emsp;&emsp;&emsp;(ii) reveal individual client information without the informed, written, reasonably time-limited consent of the person (or in the case of an unemancipated minor, the minor and the parent or guardian or in the case of persons with disabilities, the guardian) about whom information is sought, whether for this program or any other Federal, State, tribal, or territorial grant program, except that consent for release may not be given by the abuser of the minor, person with disabilities, or the abuser of the other parent of the minor.
+&emsp;&emsp;&emsp;(ii) reveal individual client information without the informed, written, reasonably time-limited consent of the person (or in the case of an unemancipated minor, the minor and the parent or guardian or in the case of persons with disabilities, the guardian) about whom information issought, whether for this program or any other Federal, State, tribal, or territorial grant program, except that consent for release may not be given by the abuser of the minor, person with disabilities, or the abuser of the other parent of the minor.
 
 #### (C) Release
 
@@ -282,7 +282,7 @@ In this subchapter:
 
 &emsp;&emsp;&emsp;(i) nonpersonally identifying data in the aggregate regarding services to their clients and nonpersonally identifying demographic information in order to comply with Federal, State, tribal, or territorial reporting, evaluation, or data collection requirements;
 
-&emsp;&emsp;&emsp;(ii) court-generated information and law-enforcement generated information contained in secure, governmental registriesfor protection order enforcement purposes; and
+&emsp;&emsp;&emsp;(ii) court-generated information and law-enforcement generated information contained in secure, governmental registries for protection order enforcement purposes; and
 
 &emsp;&emsp;&emsp;(iii) law enforcement- and prosecution-generated information necessary for law enforcement and prosecution purposes.
 
@@ -336,7 +336,7 @@ In this subchapter:
 
 This subchapter, referred to in text, was in the original “this title”, meaning title IV of Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 1902, as amended, known as the Violence Against Women Act of 1994. For complete classification of title IV to the Code, see Short Title note set out under section 13701 of this title and Tables.
 
-The Native American Housing Assistance and Self-Determination Act of 1996, referred to in subsec. (a)(12), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, as amended, which is classified principally to chapter 43 (§4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 25 and Tables.
+The Native American Housing Assistance and Self-Determination Act of 1996, referred to in subsec. (a)(12),is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, as amended, which is classified principally to chapter 43 (§4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 25 and Tables.
 
 The Alaska Native Claims Settlement Act, referred to in subsec. (a)(13), (30)(B), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 

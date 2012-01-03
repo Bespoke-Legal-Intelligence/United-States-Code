@@ -96,9 +96,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Par. (9)(C). Pub. L. 110–246, §5406(a), added subpar. (C).
+<b>2008</b>—Par. (9)(C). Pub. L. 110–246, §5406(a), added subpar. (C).
 
-1996—Par. (1)(B)(ii). Pub. L. 104–105, §101, substituted “, excluding the land to which the dwelling is affixed, with a value” for “with a purchase price”.
+<b>1996</b>—Par. (1)(B)(ii). Pub. L. 104–105, §101, substituted “, excluding the land to which the dwelling is affixed, with a value” for “with a purchase price”.
 
 Par. (3)(A). Pub. L. 104–105, §102(1), substituted “an agricultural mortgage marketing” for “a secondary marketing agricultural loan”.
 
@@ -106,7 +106,7 @@ Par. (3)(B). Pub. L. 104–105, §102(2), struck out “, but only with respect
 
 Par. (9)(B)(i). Pub. L. 104–105, §§108(c)(1), 109(b)(1), substituted “(d)” for “(f)” and “2279aa–8” for “2279aa–7, 2279aa–8,”.
 
-1990—Par. (3). Pub. L. 101–624, §1839(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The term ‘certified facility’ means a secondary marketing agricultural loan facility that is certified under section 2279aa–5 of this title.”
+<b>1990</b>—Par. (3). Pub. L. 101–624, §1839(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The term ‘certified facility’ means a secondary marketing agricultural loan facility that is certified under section 2279aa–5 of this title.”
 
 Par. (9). Pub. L. 101–624, §1839(b), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “The term ‘qualified loan’ means an obligation that—
 
@@ -120,11 +120,11 @@ Par. (9). Pub. L. 101–624, §1839(b), amended par. (9) generally. Prior to ame
 
 &emsp;“(C) is an obligation of a person, corporation, or partnership that has training or farming experience that, under criteria established by the Corporation, is sufficient to ensure a reasonable likelihood that the loan will be repaid according to its terms.”
 
-1988—Par. (9)(B)(ii). Pub. L. 100–399 substituted “holding” for “hold” and struck out “and” before “are”.
+<b>1988</b>—Par. (9)(B)(ii). Pub. L. 100–399 substituted “holding” for “hold” and struck out “and” before “are”.
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 ofPub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 #### Effective Date of 1988 Amendment
 

@@ -56,7 +56,7 @@ Pub. L. 111–147, title V, §535(b), Mar. 18, 2010, 124 Stat. 115, provided tha
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–188, to the extent related to section 6048(a) of this title, applicable to reportable events (as defined in such section) occurring after Aug. 20, 1996, to the extent related to section 6048(b) of this title, applicable to taxable years of United States persons beginning after Dec. 31, 1995, and to the extent related to section 6048(c) of this title, applicable to distributions received after Aug. 20, 1996, see section1901(d) of Pub. L. 104–188, set out as a note under section 6048 of this title.
+Amendment by Pub. L. 104–188, to the extent related to section 6048(a) of this title, applicable to reportable events (as defined in such section) occurring after Aug. 20, 1996, to the extent related to section 6048(b) of this title, applicable to taxable years of United States persons beginning after Dec. 31, 1995, and to the extent related to section 6048(c) of this title, applicable to distributions received after Aug. 20, 1996, see section 1901(d) of Pub. L. 104–188, set out as a note under section 6048 of this title.
 
 #### Effective Date of 1976 Amendment
 

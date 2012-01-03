@@ -30,9 +30,9 @@ Except as otherwise provided in this chapter, the following conditions are appli
 
 &emsp;(8)(A) The Secretary shall notify the Governor and the appropriate local board and chief elected official of, and consult with the Governor and such board and official concerning, any activity to be funded by the Secretary under this chapter within the corresponding State or local area.
 
-&emsp;(B) The Governor shall notify the appropriate local board and chief elected official of, and consult with such board and official concerning, any activity to be funded by the Governor under this chapter within the corresponding local area.
+&emsp;(B) The Governor shall notify the appropriate local board and chief elected official of,and consult with such board and official concerning, any activity to be funded by the Governor under this chapter within the corresponding local area.
 
-&emsp;(9)(A) All education programs for youth supported with funds provided under part D of subchapter II of this chapter shall be consistent with applicable State and local educational standards.
+&emsp;(9)(A) All education programs for youth supported with funds provided under part D of subchapter II shall be consistent with applicable State and local educational standards.
 
 &emsp;(B) Standards and procedures with respect to awarding academic credit and certifying educational attainment in programs conducted under such part shall be consistent with the requirements of applicable State and local law, including regulation.
 
@@ -51,6 +51,10 @@ Except as otherwise provided in this chapter, the following conditions are appli
 &emsp;&emsp;(C) if the income derived from such fees is used to carry out the programs authorized under this chapter.
 
 (Pub. L. 105–220, title I, §195, Aug. 7, 1998, 112 Stat. 1057.)
+
+#### References in Text
+
+This chapter, referred to in text, was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “effect”.</i>
 

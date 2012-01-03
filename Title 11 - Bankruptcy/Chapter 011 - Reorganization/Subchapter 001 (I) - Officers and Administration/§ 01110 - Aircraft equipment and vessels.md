@@ -46,7 +46,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 1110 of the House amendment adopts an identical provision contained in the House bill without modifications contained in the Senate amendment. This section protects a limited class of financiers of aircraft and vessels and is intended to be narrowly construed to prevent secured parties or lessors from gaining the protection of the section unless the interest of such lessor or secured party is explicitly enumerated therein. It should be emphasized that under section 1110(a) a debtor in possession or trustee is given 60 days after the order for relief in a case under chapter 11, to have an opportunity to comply with the provisions of section 1110(a).
 
@@ -62,11 +62,11 @@ The effect of this section will be the same if the debtor has granted the securi
 
 #### Amendments
 
-2006—Subsec. (a)(3)(A)(ii). Pub. L. 109–304 substituted “vessel documented under chapter 121 of title 46” for “documented vessel (as defined in section 30101(1) of title 46)”.
+<b>2006</b>—Subsec. (a)(3)(A)(ii). Pub. L. 109–304 substituted “vessel documented under chapter 121 of title 46” for “documented vessel (as defined in section 30101(1) of title 46)”.
 
-2000—Pub. L. 106–181 amended section catchline and text generally, substituting present provisions consisting of subsecs. (a) to (d) for former subsecs. (a) to (c) which contained somewhat similar provisions.
+<b>2000</b>—Pub. L. 106–181 amended section catchline and text generally, substituting present provisions consisting of subsecs. (a) to (d) for former subsecs. (a) to (c) which contained somewhat similar provisions.
 
-1994—Pub. L. 103–394 amended section generally. Prior to amendment, section read as follows:
+<b>1994</b>—Pub. L. 103–394 amended section generally. Prior to amendment, section read as follows:
 
 “(a) The right of a secured party with a purchase-money equipment security interest in, or of a lessor or conditional vendor of, whether as trustee or otherwise, aircraft, aircraft engines, propellers, appliances, or spare parts, as defined in section 40102(a) of title 49, or vessels of the United States, as defined in section 30101 of title 46, that are subject to a purchase-money equipment security interest granted by, leased to, or conditionally sold to, a debtor that is an air carrier operating under a certificate of convenience and necessity issued by the Secretary of Transportation, or a water carrier that holds a certificate of public convenience and necessity or permit issued by the Interstate Commerce Commission, as the case may be, to take possession of such equipment in compliance with the provisions of a purchase-money equipment security agreement, lease, or conditional sale contract, as the case may be, is not affected by section 362 or 363 of this title or by any power of the court to enjoin such taking of possession, unless—
 

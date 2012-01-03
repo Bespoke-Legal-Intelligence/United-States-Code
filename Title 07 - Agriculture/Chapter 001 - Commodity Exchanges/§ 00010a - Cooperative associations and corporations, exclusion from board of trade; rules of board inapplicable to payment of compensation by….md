@@ -8,11 +8,11 @@
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(13)(A)\], substituted “designated or registered as a contract market or a derivatives transaction execution facility” for “designated as a ‘contract market’ shall”.
+<b>2000</b>—Subsec. (a). Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(13)(A)\], substituted “designated or registered as a contract market or a derivatives transaction execution facility” for “designated as a ‘contract market’ shall”.
 
 Subsec. (b). Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(13)(B)\], substituted “designated or registered as a contract market or a derivatives transaction execution facility” for “designated as a contract market”.
 
-1992—Pub. L. 102–546 redesignated subsecs. (1) and (2) as (a) and (b), respectively, and in subsec. (a) substituted reference to section 8(b) of this title for reference to section 8 of this title.
+<b>1992</b>—Pub. L. 102–546 redesignated subsecs. (1) and (2) as (a) and (b), respectively, and in subsec. (a) substituted reference to section 8(b) of this title for reference to section 8 of this title.
 
 #### Change of Name
 

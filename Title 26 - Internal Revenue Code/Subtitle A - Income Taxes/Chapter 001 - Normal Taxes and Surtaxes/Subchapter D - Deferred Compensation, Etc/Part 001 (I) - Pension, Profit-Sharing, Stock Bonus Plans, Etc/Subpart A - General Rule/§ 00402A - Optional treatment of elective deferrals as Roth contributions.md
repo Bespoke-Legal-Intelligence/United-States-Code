@@ -122,7 +122,7 @@ For purposes of this title—
 
 #### (4) Aggregation rules
 
-&emsp;Section 72 shall be applied separately with respect to distributions and payments from adesignated Roth account and other distributions and payments from the plan.
+&emsp;Section 72 shall be applied separately with respect to distributions and payments from a designated Roth account and other distributions and payments from the plan.
 
 #### (e) Other definitions
 

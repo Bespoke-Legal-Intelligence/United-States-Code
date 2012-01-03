@@ -2,7 +2,7 @@
 
 #### (a) Delegation of functions, duties, and powers; scope of delegations; appointment, etc., of delegates; right of appeal
 
-The authority and responsibility for administering this chapter shall be in the Secretary of Housing and Urban Development who may delegate any of his functions, duties, and powers to employees of the Department of Housing and Urban Development or to boards of such employees, including functions, duties, and powers with respect to investigating, hearing, determining, ordering, or otherwise acting as to any work, business, or matter under this chapter. The persons to whom such delegations are made with respect to hearing functions, duties, and powers shall be appointed and shall serve in the Department in compliance with sections 3105, 3344, 5372, and 7521 of title 5. The Secretary shall by rule prescribe such rights of appeal from the decisions of his administrative law judges to other administrative law judges or to other officers in the Department, to boards of officers or to himself, as shall be appropriate and in accordance with law.
+The authority and responsibility for administering this chapter shall be in the Director of the Bureau of Consumer Financial Protection who may delegate any of his functions, duties, and powers to employees of the Bureau of Consumer Financial Protection or to boards of such employees, including functions, duties, and powers with respect to investigating, hearing, determining, ordering, or otherwise acting as to any work, business, or matter under this chapter. The persons to whom such delegations are made with respect to hearing functions, duties, and powers shall be appointed and shall serve in the Bureau in compliance with sections 3105, 3344, 5372, and 7521 of title 5. The Director shall by rule prescribe such rights of appeal from the decisions of his administrative law judges to other administrative law judges or to other officers in the Bureau, to boards of officers or to himself, as shall be appropriate and in accordance with law.
 
 #### (b) Hearings
 
@@ -10,25 +10,19 @@ All hearings shall be public and appropriate records thereof shall be kept, and 
 
 #### (c) Procedures applicable
 
-The Secretary shall conduct all actions with respect to rulemaking or adjudication under this chapter in accordance with the provisions of chapter 5 of title 5. Notice shall be given of any adverse action or final disposition and such notice and the entry of any order shall be accompanied by a written statement of supporting facts and legal authority.
+The Director shall conduct all actions with respect to rulemaking or adjudication under this chapter in accordance with the provisions of chapter 5 of title 5. Notice shall be given of any adverse action or final disposition and such notice and the entry of any order shall be accompanied by a written statement of supporting facts and legal authority.
 
 (Pub. L. 90–448, title XIV, §1416, Aug. 1, 1968, 82 Stat. 597; Pub. L. 95–251, §2(a)(5), Mar. 27, 1978, 92 Stat. 183; Pub. L. 95–454, title VIII, §801(a)(3)(J), Oct. 13, 1978, 92 Stat. 1222; Pub. L. 96–153, title IV, §407, Dec. 21, 1979, 93 Stat. 1131; Pub. L. 98–479, title II, §202(d), Oct. 17, 1984, 98 Stat. 2228; Pub. L. 111–203, title X, §1098A(1)–(3), (5), July 21, 2010, 124 Stat. 2105.)
 
-#### Amendment of Section
-
-<i>Pub. L. 111–203, title X, §§1098A(1)–(3), (5), 1100H, July 21, 2010, 124 Stat. 2105, 2113, provided that, effective on the designated transfer date, this section is amended as follows:</i>
-
-<i>(1) by striking “Secretary” each place that term appears and inserting “Director”;</i>
-
-<i>(2) by striking “Department of Housing and Urban Development” each place that term appears and inserting “Bureau of Consumer Financial Protection”;</i>
-
-<i>(3) by striking “Department” each place that term appears and inserting “Bureau”; and</i>
-
-<i>(4) in subsection (a), by striking “Secretary of Housing and Urban Development” and inserting “Director of the Bureau of Consumer Financial Protection”.</i>
-
-<i>See Effective Date of 2010 Amendment note below.</i>
-
 #### Amendments
+
+<b>2010</b>—Pub. L. 111–203, §1098A(1), substituted “Director” for “Secretary” wherever appearing.
+
+Subsec. (a). Pub. L. 111–203, §1098A(5), substituted “Director of the Bureau of Consumer Financial Protection” for “Secretary of Housing and Urban Development”.
+
+Pub. L. 111–203, §1098A(3), substituted “in the Bureau” for “in the Department” in two places.
+
+Pub. L. 111–203, §1098A(2), substituted “Bureau of Consumer Financial Protection or” for “Department of Housing and Urban Development or”.
 
 <b>1984</b>—Subsec. (b). Pub. L. 98–479 substituted “subchapter II of chapter 5, and chapter 7, of title 5” for “the Administrative Procedure Act”.
 

@@ -14,7 +14,7 @@ In general.—The term “budget authority” means the authority provided by Fe
 
 &emsp;&emsp;&emsp;(i) provisions of law that make funds available for obligation and expenditure (other than borrowing authority), including the authority to obligate and expend the proceeds of offsetting receipts and collections;
 
-&emsp;&emsp;&emsp;(ii) borrowing authority, which means authority granted to a Federal entity toborrow and obligate and expend the borrowed funds, including through the issuance of promissory notes or other monetary credits;
+&emsp;&emsp;&emsp;(ii) borrowing authority, which means authority granted to a Federal entity to borrow and obligate and expend the borrowed funds, including through the issuance of promissory notes or other monetary credits;
 
 &emsp;&emsp;&emsp;(iii) contract authority, which means the making of funds available for obligation but not for expenditure; and
 
@@ -76,11 +76,13 @@ New budget authority.—The term “new budget authority” means, with respect 
 
 &emsp;(10) The term “credit authority” means authority to incur direct loan obligations or to incur primary loan guarantee commitments.
 
-(Pub. L. 93–344, §3, July 12, 1974, 88 Stat. 299; Aug. 1, 1946, ch. 724, title I, §302(c), as added Aug. 30, 1954, ch. 1073, §1, as added Pub. L. 95–110, §1, Sept. 20, 1977, 91 Stat. 884, renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 99–177, title II, §§201(a), 232(b), Dec. 12, 1985, 99 Stat. 1039, 1062; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–119, title I, §106(a), Sept. 29, 1987, 101 Stat. 780; Pub. L. 100–203, title VIII, §8003(c), Dec. 22, 1987, 101 Stat. 1330–282; Pub. L. 101–508, title XIII, §§13112(a)(2), 13201(b)(1), 13211(a), Nov. 5, 1990, 104 Stat. 1388–607, 1388–614, 1388–620; Pub. L. 105–33, title X, §10101, Aug. 5, 1997, 111 Stat. 678.)
+&emsp;(11) The terms “emergency” and “unanticipated” have the meanings given to such terms in section 900(c) of this title.
+
+(Pub. L. 93–344, §3, July 12, 1974, 88 Stat. 299; Aug. 1, 1946, ch. 724, title I, §302(c), as added Aug. 30, 1954, ch. 1073, §1, as added Pub. L. 95–110, §1, Sept. 20, 1977, 91 Stat. 884, renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 99–177, title II, §§201(a), 232(b), Dec. 12, 1985, 99 Stat. 1039, 1062; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–119, title I, §106(a), Sept. 29, 1987, 101 Stat. 780; Pub. L. 100–203, title VIII, §8003(c), Dec. 22, 1987, 101 Stat. 1330–282; Pub. L. 101–508, title XIII, §§13112(a)(2), 13201(b)(1), 13211(a), Nov. 5, 1990, 104 Stat. 1388–607, 1388–614, 1388–620; Pub. L. 105–33, title X, §10101, Aug. 5, 1997, 111 Stat. 678; Pub. L. 112–25, title I, §105(b), Aug. 2, 2011, 125 Stat. 247.)
 
 #### References in Text
 
-This Act, referred to in text, means Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended, known as the Congressional Budget and Impoundment Control Act of 1974, which enacted chapters 17, 17A and 17B, and section 190a–3 of this title and sections 11a, 11c, 11d, 1020a of former Title 31, Money and Finance, amended sections 11, 665, 701, 1020, 1151, 1152, 1153, and 1154 of former Title 31, section 105 of Title 1, General Provisions, sections 190b and 190d of this title, repealed sections 571 and 581c–1 of former Title 31, and sections 66 and 81 of this title, and enacted provisions set out as notes undersections 190a–1, 621, 632, and 682 of this title, section 105 of Title 1, and section 1020 of former Title 31. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
+This Act, referred to in text, means Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended, known as the Congressional Budget and Impoundment Control Act of 1974, which enacted chapters 17, 17A and 17B, and section 190a–3 of this title and sections 11a, 11c, 11d, 1020a of former Title 31, Money and Finance, amended sections 11, 665, 701, 1020, 1151, 1152, 1153, and 1154 of former Title 31, section 105 of Title 1, General Provisions, sections 190b and 190d of this title, repealed sections 571 and 581c–1 of former Title 31, and sections 66 and 81 of this title, and enacted provisions set out as notes under sections 190a–1, 621, 632, and 682 of this title, section 105 of Title 1, and section 1020 of former Title 31. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
 
 #### Codification
 
@@ -88,15 +90,17 @@ Section was formerly classified to section 1302 of Title 31 prior to the general
 
 #### Amendments
 
-1997—Par. (9). Pub. L. 105–33 amended par. (9) generally. Prior to amendment, par. (9) read as follows: “The term ‘entitlement authority’ means spending authority described by section 651(c)(2)(C) of this title.”
+<b>2011</b>—Par. (11). Pub. L. 112–25 added par. (11).
 
-1990—Par. (2). Pub. L. 101–508, §13211(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘budget authority’ means authority provided by law to enter into obligations which will result in immediate or future outlays involving Government funds or to collect offsetting receipts., except that such term does not include authority to insure or guarantee the repayment of indebtedness incurred by another person or government. The term includes the cost for direct loan and loan guarantee programs, as those terms are defined by subchapter III of this chapter”.
+<b>1997</b>—Par. (9). Pub. L. 105–33 amended par. (9) generally. Prior to amendment, par. (9) read as follows: “The term ‘entitlement authority’ means spending authority described by section 651(c)(2)(C) of this title.”
+
+<b>1990</b>—Par. (2). Pub. L. 101–508, §13211(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘budget authority’ means authority provided by law to enter into obligations which will result in immediate or future outlays involving Government funds or to collect offsetting receipts., except that such term does not include authority to insure or guarantee the repayment of indebtedness incurred by another person or government. The term includes the cost for direct loan and loan guarantee programs, as those terms are defined by subchapter III of this chapter”.
 
 Pub. L. 101–508, §13201(b)(1), inserted at end: “The term includes the cost for direct loan and loan guarantee programs, as those terms are defined by subchapter III of this chapter”.
 
 Pars. (6) to (8). Pub. L. 101–508, §13112(a)(2), added pars. (6) to (8) and struck out former par. (6) which defined “deficit” and contained provisions relating to calculation of the deficit, former par. (7) which defined “maximum deficit amount”, and former par. (8) which defined “off-budget Federal entity”.
 
-1987—Par. (7)(C). Pub. L. 100–203, §8003(c)(1), (2), redesignated subpar. (D) as (C). Former subpar. (C), which provided for maximum deficit amount of $108,000,000,000 for fiscal year beginning Oct. 1, 1987, was struck out.
+<b>1987</b>—Par. (7)(C). Pub. L. 100–203, §8003(c)(1), (2), redesignated subpar. (D) as (C). Former subpar. (C), which provided for maximum deficit amount of $108,000,000,000 for fiscal year beginning Oct. 1, 1987, was struck out.
 
 Par. (7)(D) to (I). Pub. L. 100–203, §8003(c)(2)–(7), redesignated subpars. (E) to (I) as (D) to (H), respectively. Former subpar. (D) redesignated (C).
 
@@ -108,15 +112,15 @@ Pub. L. 100–119 inserted subpars. (D) to (I) and struck out former subpars. (D
 
 &emsp;“(F) with respect to the fiscal year beginning October 1, 1990, zero.”
 
-1986—Par. (6). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Par. (6). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-1985—Par. (2). Pub. L. 99–177, §201(a)(2), inserted reference to the collection of offsetting receipts, effective Apr. 15, 1986.
+<b>1985</b>—Par. (2). Pub. L. 99–177, §201(a)(2), inserted reference to the collection of offsetting receipts, effective Apr. 15, 1986.
 
 Par. (4). Pub. L. 99–177, §232(b), struck out subpar. (B) relating to concurrent resolutions as provided in section 641 of this title, and redesignated subpar. (C) as (B).
 
 Pars. (6) to (10). Pub. L. 99–177, §201(a)(1), added pars. (6) to (10).
 
-1977—Pub. L. 95–110 struck out designation “(a)” before “For the purpose of this chapter” and struck out subsec. (b) which provided that Members of the respective Houses of Congress who were members of the Joint Committee on Atomic Energy were to be treated as standing committees of their respective Houses of Congress.
+<b>1977</b>—Pub. L. 95–110 struck out designation “(a)” before “For the purpose of this chapter” and struck out subsec. (b) which provided that Members of the respective Houses of Congress who were members of the Joint Committee on Atomic Energy were to be treated as standing committees of their respective Houses of Congress.
 
 #### Change of Name
 
@@ -128,7 +132,7 @@ Section 13211(b) of Pub. L. 101–508 provided that: “The amendment made by su
 
 #### Effective Date of 1985 Amendment
 
-Amendment by sections 201(a)(1) and 232(b) of Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, and amendment by section 201(a)(2) of Pub. L. 99–177 effective Apr. 15, 1986, see section 275(a)(1), (2)(A) of Pub. L. 99–177, as amended, set out as an Effective and Termination Dates note under section 900 of this title.
+Amendment by sections 201(a)(1) and 232(b) of Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, and amendment by section 201(a)(2) of Pub. L. 99–177 effective Apr. 15, 1986, see section 275(a)(1), (2)(A) of Pub. L. 99–177, as amended, formerly set out as an Effective and Termination Dates note under section 900 of this title prior to repeal by Pub. L. 112–25, title I, §104(a), Aug. 2, 2011, 125 Stat. 246.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “as”.</i>
 

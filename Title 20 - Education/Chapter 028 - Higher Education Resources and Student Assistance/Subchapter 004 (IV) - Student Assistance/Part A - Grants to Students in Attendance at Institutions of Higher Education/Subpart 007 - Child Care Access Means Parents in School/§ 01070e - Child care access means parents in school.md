@@ -100,7 +100,7 @@ An institution of higher education desiring a grant under this section shall sub
 
 &emsp;&emsp;(C) include a plan for identifying resources needed for the child care services, including space in which to provide child care services, and technical assistance if necessary;
 
-&emsp;(9) contain an assurance that any child care facility assisted under this section will meet the applicable State or local government licensing, certification, approval, or registration requirements; and
+&emsp;(9) contain an assurance that any child care facility assisted under this section will meetthe applicable State or local government licensing, certification, approval, or registration requirements; and
 
 &emsp;(10) contain a plan for any child care facility assisted under this section to become accredited within 3 years of the date the institution first receives assistance under this section.
 

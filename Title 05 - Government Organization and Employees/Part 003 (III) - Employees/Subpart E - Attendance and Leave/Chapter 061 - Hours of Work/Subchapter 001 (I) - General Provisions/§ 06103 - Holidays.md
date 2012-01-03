@@ -104,15 +104,15 @@ Section 6309 of this title, referred to in subsec. (b)(1)(B), was repealed by Pu
 
 #### Amendments
 
-1998—Subsec. (b)(3). Pub. L. 105–261 added par. (3).
+<b>1998</b>—Subsec. (b)(3). Pub. L. 105–261 added par. (3).
 
-1996—Subsec. (d). Pub. L. 104–201 added subsec. (d).
+<b>1996</b>—Subsec. (d). Pub. L. 104–201 added subsec. (d).
 
-1983—Subsec. (a). Pub. L. 98–144 inserted item relating to birthday of Martin Luther King, Jr.
+<b>1983</b>—Subsec. (a). Pub. L. 98–144 inserted item relating to birthday of Martin Luther King, Jr.
 
-1975—Subsec. (a). Pub. L. 94–97 changed Veterans Day from fourth Monday in October to November 11.
+<b>1975</b>—Subsec. (a). Pub. L. 94–97 changed Veterans Day from fourth Monday in October to November 11.
 
-1968—Subsec. (a). Pub. L. 90–363 added Columbus Day, the second Monday in October, to the enumerated legal public holidays, and substituted provisions that Washington's Birthday, Memorial Day, and Veterans Day are to be celebrated on the third Monday in February, the last Monday in May, and the fourth Monday in October, respectively, for provisions that the above mentioned public holidays are to be celebrated on February 22, May 30, and November 11, respectively.
+<b>1968</b>—Subsec. (a). Pub. L. 90–363 added Columbus Day, the second Monday in October, to the enumerated legal public holidays, and substituted provisions that Washington's Birthday, Memorial Day, and Veterans Day are to be celebrated on the third Monday in February, the last Monday in May, and the fourth Monday in October, respectively, for provisions that the above mentioned public holidays are to be celebrated on February 22, May 30, and November 11, respectively.
 
 #### Effective Date of 1983 Amendment
 

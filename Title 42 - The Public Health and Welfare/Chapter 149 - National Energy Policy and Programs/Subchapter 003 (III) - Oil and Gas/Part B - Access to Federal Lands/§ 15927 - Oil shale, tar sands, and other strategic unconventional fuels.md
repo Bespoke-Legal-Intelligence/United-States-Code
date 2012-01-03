@@ -10,7 +10,7 @@ Congress declares that it is the policy of the United States that—
 
 &emsp;(1) United States oil shale, tar sands, and other unconventional fuels are strategically important domestic resources that should be developed to reduce the growing dependence of the United States on politically and economically unstable sources of foreign oil imports;
 
-&emsp;(2) the development of oil shale, tar sands, and other strategic unconventional fuels, for research and commercial development, should be conducted in an environmentally sound manner, using practices that minimize impacts; and
+&emsp;(2) the development of oil shale, tar sands, and other strategic unconventional fuels, for research and commercial development, should be conducted in an environmentally soundmanner, using practices that minimize impacts; and
 
 &emsp;(3) development of those strategic unconventional fuels should occur, with an emphasis on sustainability, to benefit the United States while taking into account affected States and communities.
 
@@ -30,7 +30,7 @@ In accordance with section 241 of title 30 and any other applicable law, except 
 
 #### (e) Commencement of commercial leasing of oil shale and tar sands
 
-Not later than 180 days after publication of the final regulation required by subsection (d), theSecretary shall consult with the Governors of States with significant oil shale and tar sands resources on public lands, representatives of local governments in such States, interested Indian tribes, and other interested persons, to determine the level of support and interest in the States in the development of tar sands and oil shale resources. If the Secretary finds sufficient support and interest exists in a State, the Secretary may conduct a lease sale in that State under the commercial leasing program regulations. Evidence of interest in a lease sale under this subsection shall include, but not be limited to, appropriate areas nominated for leasing by potential lessees and other interested parties.
+Not later than 180 days after publication of the final regulation required by subsection (d), the Secretary shall consult with the Governors of States with significant oil shale and tar sands resources on public lands, representatives of local governments in such States, interested Indian tribes, and other interested persons, to determine the level of support and interest in the States in the development of tar sands and oil shale resources. If the Secretary finds sufficient support and interest exists in a State, the Secretary may conduct a lease sale in that State under the commercial leasing program regulations. Evidence of interest in a lease sale under this subsection shall include, but not be limited to, appropriate areas nominated for leasing by potential lessees and other interested parties.
 
 #### (f) Diligent development requirements
 
@@ -116,7 +116,7 @@ Within 90 days after August 8, 2005, the Secretary of the Interior shall report 
 
 #### (1) Department of the Interior as lead agency
 
-&emsp;Upon written request of a prospective applicant for Federal authorization to develop a proposed oil shale or tar sands project, the Department of the Interior shall act as the lead Federal agency for the purposes of coordinating all applicable Federal authorizations and environmental reviews. To the maximum extent practicable under applicable Federallaw, the Secretary shall coordinate this Federal authorization and review process with any Indian tribes and State and local agencies responsible for conducting any separate permitting and environmental reviews.
+&emsp;Upon written request of a prospective applicant for Federal authorization to develop a proposed oil shale or tar sands project, the Department of the Interior shall act as the lead Federal agency for the purposes of coordinating all applicable Federal authorizations and environmental reviews. To the maximum extent practicable under applicable Federal law, the Secretary shall coordinate this Federal authorization and review process with any Indian tribes and State and local agencies responsible for conducting any separate permitting and environmental reviews.
 
 #### (2) Implementing regulations
 

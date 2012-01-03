@@ -34,7 +34,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1998—Pub. L. 105–264 substituted “Government” for “United States” in introductory provisions.
+<b>1998</b>—Pub. L. 105–264 substituted “Government” for “United States” in introductory provisions.
 
 #### Ex. Ord. No. 10614. Payment of General-Average Contributions in Connection With Transportation of Effects
 

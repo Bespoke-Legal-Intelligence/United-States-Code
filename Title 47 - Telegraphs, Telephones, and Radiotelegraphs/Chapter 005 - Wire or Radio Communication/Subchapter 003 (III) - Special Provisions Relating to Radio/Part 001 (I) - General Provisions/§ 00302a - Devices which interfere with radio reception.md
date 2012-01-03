@@ -42,7 +42,7 @@ The Commission may—
 
 &emsp;(B) A regulation that prohibits the unauthorized operation of citizens band radio equipment on a frequency between 24 MHz and 35 MHz.
 
-(2) A station that is licensed by the Commission pursuant to section 301 of this title in any radio service for the operation at issue shall not be subject to action by a State or local government under this subsection. A State or local government statute or ordinance enacted for purposes of this subsection shall identify the exemption available under this paragraph.
+(2) A station that is licensed by the Commission pursuant to section 301 of this title in anyradio service for the operation at issue shall not be subject to action by a State or local government under this subsection. A State or local government statute or ordinance enacted for purposes of this subsection shall identify the exemption available under this paragraph.
 
 (3) The Commission shall, to the extent practicable, provide technical guidance to State and local governments regarding the detection and determination of violations of the regulations specified in paragraph (1).
 

@@ -20,7 +20,7 @@ Where the selections are to compensate for deficiencies of school lands in fract
 
 #### (c) Preference rights for State
 
-Notwithstanding the provisions of section 282 <sup>1</sup> of this title on the revocation not later than 10 years after the date of approval of this Act, of any order of withdrawal, in whole or in part, the order or notice taking such action shall provide for a period of not less than six months before the date on which it otherwise becomes effective in which the State in which the lands are situated shall have a preferred right of application for selection under this section, subject to the requirements of existing law, except as against the prior existing valid settlement rights and preference rights conferred by existing law other than section 282 <sup>1</sup> of this title, or as against equitable claims subject to allowance and confirmation, and except where a revocation of an order of withdrawal is made in order to assist in a Federal land program.
+Notwithstanding the provisions of section 282 <sup>1</sup> of this title on the revocation not later than 10 years after the date of approval of this Act, of any order of withdrawal, in whole or in part, the order or notice taking such action shall provide for a period of not less than six months before the date on which it otherwise becomes effective in which the State in which the lands are situated shall have a preferred right of application for selection under this section, subject to the requirements of existing law, except as against the prior existing valid settlement rights and preference rights conferred by existing law other than section 282 <sup>1</sup> of this title, or as against equitable claims subject to allowance and confirmation, and except where a revocation of an orderof withdrawal is made in order to assist in a Federal land program.
 
 #### (d) “Unappropriated public lands” defined; determination of mineral character of land
 
@@ -42,7 +42,7 @@ R.S. §2276 derived from acts May 20, 1826, ch. 83, §1, 4 Stat. 179; Feb. 26, 1
 
 #### Amendments
 
-<b>1966</b>—Pub. L. 89–470 struck out “or Territory” after “State” once in subsec. (a), twice in subsec. (a)(1), and once each in subsecs. (a)(2), (c), and (d)(2), and “or Territories” after “States” in subsec. (b); substituted “before title could pass to the State” for “prior to survey”in subsec. (a)(1) and (2); and inserted “or unsurveyed” after “surveyed” in subsec. (a).
+<b>1966</b>—Pub. L. 89–470 struck out “or Territory” after “State” once in subsec. (a), twice in subsec. (a)(1), and once each in subsecs. (a)(2), (c), and (d)(2), and “or Territories” after “States” in subsec. (b); substituted “before title could pass to the State” for “prior to survey” in subsec. (a)(1) and (2); and inserted “or unsurveyed” after “surveyed” in subsec. (a).
 
 <b>1960</b>—Subsec. (a). Pub. L. 86–786, §1, substituted “If none of the land subject to that lease or permit is in a producing or producible status, subject, however, to the restrictions and conditions of the preceding and following paragraphs of this subsection” for “, but only if all of the lands subject to that lease or permit are selected and if none of the lands subject to that lease or permit are in a producing or producible status; where lands subject to a mineral lease or permit are selected, the State or Territory shall succeed to the position of the United States thereunder”, in par. (3), and added pars. (4) and (5).
 

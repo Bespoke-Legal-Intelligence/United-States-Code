@@ -8,7 +8,7 @@
 
 #### (2) Analysis by laboratory
 
-&emsp;A laboratory described in paragraph (1) shall analyze such performance evaluation samplesand submit the results of such analysis to the Secretary, as provided for in section 138a of this title.
+&emsp;A laboratory described in paragraph (1) shall analyze such performance evaluation samples and submit the results of such analysis to the Secretary, as provided for in section 138a of this title.
 
 #### (3) Testing methods
 

@@ -12,7 +12,7 @@ Pub. L. 111–358, title V, §501, Jan. 4, 2011, 124 Stat. 4005, provided that: 
 
 #### Short Title of 2002 Amendment
 
-Pub. L. 107–368, §1, Dec. 19, 2002, 116 Stat. 3034, provided that: “This Act \[enacting sections 1862n to 1862n–10 of this title, amending sections 1862i, 1862<i>l</i>, 1863, 1873, and 1885 of this title, enacting provisions set out as notes under sections 1862b, 1862g, 1862n, 1864, and 1885c of this title, and amending provisions set out as a note under section 1862k of this title\] may be cited as the ‘National Science Foundation Authorization Act of 2002’.”
+Pub. L. 107–368, §1, Dec. 19, 2002, 116 Stat. 3034, provided that: “This Act \[enacting sections 1862n to 1862n–10 of this title, amending sections 1862i, 1862<i>l</i>, 1863, 1873, and 1885 of this title, enacting provisions set out as notes under sections 1862b, 1862g, 1862n, 1864, and 1885c of this title, and amending provisions set out asa note under section 1862k of this title\] may be cited as the ‘National Science Foundation Authorization Act of 2002’.”
 
 #### Short Title of 1998 Amendment
 
@@ -28,7 +28,7 @@ Pub. L. 100–570, §1, Oct. 31, 1988, 102 Stat. 2865, provided that: “This Ac
 
 Pub. L. 100–570, title II, §201, Oct. 31, 1988, 102 Stat. 2873, provided that: “This title \[enacting sections 1862a to 1862d of this title, repealing former sections 1862a and 1862b of this title, and repealing provisions set out as a note under section 1861 of this title\] may be cited as the ‘Academic Research Facilities Modernization Act of 1988’.”
 
-Pub. L. 100–418, title VI, §6401, Aug. 23, 1988, 102 Stat. 1542, which provided that subtitle E (§§6401–6403) of title VI of Pub. L. 100–418, enacting sections 1862a and 1862bof this title, was to be cited as the “National Science Foundation University Infrastructure Act of 1988”, was repealed by Pub. L. 100–570, title II, §206, Oct. 31, 1988, 102 Stat. 2878.
+Pub. L. 100–418, title VI, §6401, Aug. 23, 1988, 102 Stat. 1542, which provided that subtitle E (§§6401–6403) of title VI of Pub. L. 100–418, enacting sections 1862a and 1862b of this title, was to be cited as the “National Science Foundation University Infrastructure Act of 1988”, was repealed by Pub. L. 100–570, title II, §206, Oct. 31, 1988, 102 Stat. 2878.
 
 #### Short Title of 1986 Amendment
 
@@ -76,7 +76,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 Sec. 1. \[Repealed. Pub. L. 94–282, title V, §502, May 11, 1976, 90 Stat. 472. Section established, in Executive Office of the President, the Office of Science and Technology.\]
 
-Sec. 2. \[Repealed. Pub. L. 94–282, title V, §502, May 11, 1976, 90 Stat. 472. Section as amended by Pub. L. 88–426, title III, §305(41)(A), (B), Aug. 14, 1964, 78 Stat. 427, 428, authorized appointment of Director and Deputy Director of Office of Science and Technology by the President by and with the advice and consent of the Senate.\]
+Sec. 2. \[Repealed. Pub. L. 94–282, title V, §502, May 11, 1976, 90 Stat. 472. Section as amended by Pub. L. 88–426,title III, §305(41)(A), (B), Aug. 14, 1964, 78 Stat. 427, 428, authorized appointment of Director and Deputy Director of Office of Science and Technology by the President by and with the advice and consent of the Senate.\]
 
 Sec. 3. \[Repealed. Pub. L. 94–282, title V, §502, May 11, 1976, 90 Stat. 472. Section transferred to Director of the Office of Science and Technology, from National Science Foundation, certain functions formerly conferred upon the Foundation.\]
 
@@ -146,7 +146,7 @@ Sec. 4. \[Repealed. Pub. L. 94–282, title V, §502, May 11, 1976, 90 Stat. 472
 
 I transmit herewith Reorganization Plan No. 2 of 1962, prepared in accordance with the provisions of the Reorganization Act of 1949, as amended, and providing for certain reorganizations in the field of science and technology.
 
-Part I of the reorganization plan establishes the Office of Science and Technology as a new unit within theExecutive Office of the President; places at the head thereof a Director appointed by the President by and with the advice and consent of the Senate and makes provision for a Deputy Director similarly appointed; and transfers to the Director certain functions of the National Science Foundation under sections 3(a)(1) and 3(a)(6) of the National Science Foundation Act of 1950.
+Part I of the reorganization plan establishes the Office of Science and Technology as a new unit within the Executive Office of the President; places at the head thereof a Director appointed by the President by and with the advice and consent of the Senate and makes provision for a Deputy Director similarly appointed; and transfers to the Director certain functions of the National Science Foundation under sections 3(a)(1) and 3(a)(6) of the National Science Foundation Act of 1950.
 
 The new arrangements incorporated in part I of the reorganization plan will constitute an important development in executive branch organization for science and technology. Under those arrangements the President will have permanent staff resources capable of advising and assisting him on matters of national policy affected by or pertaining to science and technology. Considering the rapid growth and far-reaching scope of Federal activities in science and technology, it is imperative that the President have adequate staff support in developing policies and evaluating programs in order to assure that science and technology are used most effectively in the interests of national security and general welfare.
 
@@ -178,7 +178,7 @@ Thus, the further steps contained in part I of the reorganization plan are now n
 
 Part I of the reorganization plan will permit some strengthening of the staff and consultant resources now available to the President in respect of scientific and technical factors affecting executive branch policies and will also facilitate communication with the Congress.
 
-Part II of the reorganization plan provides for certain reorganizations within the National Science Foundation which will strengthen the capability of the Director of the Foundation to exert leadership and otherwise further the effectiveness of administration of the Foundation. Specifically:
+Part II of the reorganization plan provides for certain reorganizations within the National Science Foundation which will strengthen the capability of the Director of the Foundation to exert leadership and otherwisefurther the effectiveness of administration of the Foundation. Specifically:
 
 &emsp;(1) There is established a new office of Director of the National Science Foundation and that Director, ex officio, is made a member of the National Science Board on a basis coordinate with that of other Board members.
 

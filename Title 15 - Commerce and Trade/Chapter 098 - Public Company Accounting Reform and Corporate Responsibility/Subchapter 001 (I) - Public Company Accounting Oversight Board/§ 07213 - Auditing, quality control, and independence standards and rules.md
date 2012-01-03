@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Board shall, by rule, establish, including, to the extent it determines appropriate, through adoption of standards proposed by 1 or more professional groups of accountants designated pursuant to paragraph (3)(A) or advisory groups convened pursuant to paragraph (4), and amend or otherwise modify or alter, such auditing and related attestation standards, such quality control standards, such ethics standards, and such independence standards to be used by registered public accounting firms in the preparation and issuance of audit reports, as required by this Act or the rules of the Commission, or as may be necessary or appropriate in the public interest or for the protection of investors.
+&emsp;The Board shall, by rule, establish, including, to the extent it determines appropriate,through adoption of standards proposed by 1 or more professional groups of accountants designated pursuant to paragraph (3)(A) or advisory groups convened pursuant to paragraph (4), and amend or otherwise modify or alter, such auditing and related attestation standards, such quality control standards, such ethics standards, and such independence standards to be used by registered public accounting firms in the preparation and issuance of audit reports, as required by this Act or the rules of the Commission, or as may be necessary or appropriate in the public interest or for the protection of investors.
 
 #### (2) Rule requirements
 
@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(B) shall include, in the quality control standards that it adopts with respect to the issuance of audit reports, requirements for every registered public accounting firm relating to—
 
-&emsp;&emsp;&emsp;(i) monitoring of professional ethics and independence from issuers, brokers, anddealers on behalf of which the firm issues audit reports;
+&emsp;&emsp;&emsp;(i) monitoring of professional ethics and independence from issuers, brokers, and dealers on behalf of which the firm issues audit reports;
 
 &emsp;&emsp;&emsp;(ii) consultation within such firm on accounting and auditing questions;
 
@@ -70,7 +70,7 @@ The Board shall establish such rules as may be necessary or appropriate in the p
 
 #### (1) In general
 
-&emsp;The Board shall cooperate on an ongoing basis with professional groups of accountants designated under subsection (a)(3)(A) of this section and advisory groups convened under subsection (a)(4) of this section in the examination of the need for changes in any standards subject to its authority under subsection (a) of this section, recommend issues for inclusion on the agendas of such designated professional groups of accountants or advisory groups, and take such other steps as it deems appropriate to increase the effectiveness of the standard setting process.
+&emsp;The Board shall cooperate on an ongoing basis with professional groups of accountantsdesignated under subsection (a)(3)(A) of this section and advisory groups convened under subsection (a)(4) of this section in the examination of the need for changes in any standards subject to its authority under subsection (a) of this section, recommend issues for inclusion on the agendas of such designated professional groups of accountants or advisory groups, and take such other steps as it deems appropriate to increase the effectiveness of the standard setting process.
 
 #### (2) Board responses
 

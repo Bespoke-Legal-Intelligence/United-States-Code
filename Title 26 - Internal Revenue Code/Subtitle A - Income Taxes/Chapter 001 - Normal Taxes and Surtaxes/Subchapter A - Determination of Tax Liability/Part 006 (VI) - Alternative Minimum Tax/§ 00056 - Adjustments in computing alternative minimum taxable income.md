@@ -76,7 +76,7 @@ In determining the amount of the alternative minimum taxable income for any taxa
 
 #### (b) Adjustments applicable to individuals
 
-In determining the amount of the alternative minimum taxable income of any taxpayer (otherthan a corporation), the following treatment shall apply (in lieu of the treatment applicable for purposes of computing the regular tax):
+In determining the amount of the alternative minimum taxable income of any taxpayer (other than a corporation), the following treatment shall apply (in lieu of the treatment applicable for purposes of computing the regular tax):
 
 #### (1) Limitation on deductions
 
@@ -92,7 +92,7 @@ In determining the amount of the alternative minimum taxable income of any taxpa
 
 #### (B) Medical expenses
 
-&emsp;&emsp;In determining the amount allowable as a deduction under section 213, subsection (a) of section 213 shall be applied by substituting “10 percent” for “7.5 percent”.
+&emsp;&emsp;In determining the amount allowable as a deduction under section 213, subsection (a) ofsection 213 shall be applied by substituting “10 percent” for “7.5 percent”.
 
 #### (C) Interest
 
@@ -170,7 +170,7 @@ In determining the amount of the alternative minimum taxable income of a corpora
 
 &emsp;&emsp;(B) no reduction in basis shall be made under section 7518(f) (or the corresponding provisions of such chapter 535) with respect to the withdrawal from the fund of any amount to which subparagraph (A) applies.
 
-> &emsp;For purposes of this paragraph, any withdrawal of deposits or earnings from the fund shall be treated as allocable first to deposits made before (and earnings received or accrued before) January 1, 1987.
+> &emsp;For purposes of this paragraph, any withdrawal of deposits or earnings from the fund shall be treated as allocable first to depositsmade before (and earnings received or accrued before) January 1, 1987.
 
 #### (3) Special deduction for certain organizations not allowed
 
@@ -340,11 +340,11 @@ For purposes of this part—
 
 &emsp;&emsp;&emsp;In the case of any amount which is excluded from gross income for purposes of computing alternative minimum taxable income but is taken into account in determining the amount of earnings and profits—
 
-&emsp;&emsp;&emsp;&emsp;(I) such amount shall be included in income in the same manner as if suchamount were includible in gross income for purposes of computing alternative minimum taxable income, and
+&emsp;&emsp;&emsp;&emsp;(I) such amount shall be included in income in the same manner as if such amount were includible in gross income for purposes of computing alternative minimum taxable income, and
 
 &emsp;&emsp;&emsp;&emsp;(II) the amount of such income shall be reduced by any deduction which would have been allowable in computing alternative minimum taxable income if such amount were includible in gross income.
 
-&emsp;&emsp;&nbsp;The preceding sentence shall not apply in the case of any amount excluded from gross income under section 108 (or the corresponding provisions of prior law) or under section 139A or 1357. In the case of any insurance company taxable under section 831(b), this clause shall not apply to any amount not described in section 834(b).
+&emsp;&emsp;&nbsp;The preceding sentence shall not apply in the case of any amount excluded fromgross income under section 108 (or the corresponding provisions of prior law) or under section 139A or 1357. In the case of any insurance company taxable under section 831(b), this clause shall not apply to any amount not described in section 834(b).
 
 #### (ii) Inclusion of buildup in life insurance contracts
 
@@ -492,7 +492,7 @@ For purposes of this part—
 
 &emsp;This subsection shall not apply to any S corporation, regulated investment company, real estate investment trust, or REMIC.
 
-(Added Pub. L. 99–514, title VII, §701(a), Oct. 22, 1986, 100 Stat. 2322; amended Pub. L. 100–203, title X, §§10202(d), 10243(a), Dec. 22, 1987, 101 Stat. 1330–392, 1330–423; Pub. L. 100–647, title I, §§1002(a)(12), 1007(b)(1)–(14)(A), (15)–(19), title II, §§2001(c)(3)(A), 2004(b)(2), (3), title V, §5041(b)(4), title VI, §§6079(a)(1), 6303(a), Nov. 10, 1988, 102 Stat. 3355, 3428–3432, 3594, 3599, 3674, 3709, 3755; Pub. L. 101–239, title VII, §§7205(b), 7611(a)–(f)(4), 7612(c)(1), (d)(1), 7811(d)(3), 7815(e)(2), (4), Dec. 19, 1989, 103 Stat. 2335, 2371–2374, 2408, 2419; Pub. L. 101–508, title XI, §§11103(b), 11301(b), 11531(a), (b)(1), 11704(a)(1), 11801(a)(3), (c)(2)(A)–(C), (9)(G), 11812(b)(4), Nov. 5, 1990, 104 Stat. 1388–406, 1388–449, 1388–488, 1388–490, 1388–518, 1388–520, 1388–522, 1388–523, 1388–526, 1388–535; Pub. L. 102–486, title XIX, §1915(a)(2), (b)(2), (c)(1), (2), Oct. 24, 1992, 106 Stat. 3023, 3024; Pub. L. 103–66, title XIII, §§13115(a), 13171(b), 13227(c), Aug. 10, 1993, 107 Stat. 432, 454, 493; Pub. L. 104–188, title I, §§1601(b)(2)(B), (C), 1621(b)(2), 1702(c)(1), (e)(1)(A), (g)(4), (h)(12), 1704(t)(1), (48), Aug. 20, 1996, 110 Stat. 1832, 1833, 1867, 1869, 1870, 1873, 1874, 1887, 1889; Pub. L. 105–34, title III, §312(d)(1), title IV, §§402, 403(a), title XII, §1212(a), Aug. 5, 1997, 111 Stat. 839, 844, 1000; Pub. L. 105–277, div. J, title IV, §4006(c)(2), Oct. 21, 1998, 112 Stat. 2681–912; Pub. L. 106–519, §4(1), Nov. 15, 2000, 114 Stat. 2432; Pub. L. 106–554, §1(a)(7) \[title III, §314(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–643; Pub. L. 107–147, title I, §102(c)(1), title IV, §417(5), Mar. 9, 2002, 116 Stat. 26, 56; Pub. L. 108–173, title XII, §1202(b), Dec. 8, 2003, 117 Stat. 2480; Pub. L. 108–311, title IV, §403(b)(4), Oct. 4, 2004, 118 Stat. 1187; Pub. L. 108–357, title I, §§101(b)(4), 102(b), title II, §248(b)(1), title IV, §422(b), title VIII, §835(b)(1), Oct. 22, 2004, 118 Stat. 1423, 1428, 1457, 1519, 1593; Pub. L. 109–58, title XIII, §1326(d), Aug. 8, 2005, 119 Stat. 1017; Pub. L. 109–135, title IV, §403(a)(14), (r)(2), Dec. 21, 2005, 119 Stat. 2619, 2628; Pub. L. 109–304, §17(e)(1), Oct. 6, 2006, 120 Stat. 1707; Pub. L. 110–172, §11(g)(1), (2), Dec. 29, 2007, 121 Stat. 2489, 2490; Pub. L. 110–289, div. C, title I, §3022(a)(2), July 30, 2008, 122 Stat. 2894; Pub. L. 110–343, div. C, title VII, §§706(b)(3), 708(c), Oct. 3, 2008, 122 Stat. 3922, 3925; Pub. L. 111–5, div. B, title I, §§1008(d), 1503(b), Feb. 17, 2009, 123 Stat. 318, 354; Pub. L. 111–92, §13(b), Nov. 6, 2009, 123 Stat. 2993; Pub. L. 111–148, title IX, §9013(c), Mar. 23, 2010, 124 Stat. 868.)
+(Added Pub. L. 99–514, title VII, §701(a), Oct. 22, 1986, 100 Stat. 2322; amended Pub. L. 100–203, title X, §§10202(d), 10243(a), Dec. 22, 1987, 101 Stat. 1330–392, 1330–423; Pub. L. 100–647, title I, §§1002(a)(12), 1007(b)(1)–(14)(A), (15)–(19), title II, §§2001(c)(3)(A), 2004(b)(2), (3), title V, §5041(b)(4), title VI, §§6079(a)(1), 6303(a), Nov. 10, 1988, 102 Stat. 3355, 3428–3432, 3594, 3599, 3674, 3709, 3755; Pub. L. 101–239, title VII, §§7205(b), 7611(a)–(f)(4), 7612(c)(1), (d)(1), 7811(d)(3), 7815(e)(2), (4), Dec. 19,1989, 103 Stat. 2335, 2371–2374, 2408, 2419; Pub. L. 101–508, title XI, §§11103(b), 11301(b), 11531(a), (b)(1), 11704(a)(1), 11801(a)(3), (c)(2)(A)–(C), (9)(G), 11812(b)(4), Nov. 5, 1990, 104 Stat. 1388–406, 1388–449, 1388–488, 1388–490, 1388–518, 1388–520, 1388–522, 1388–523, 1388–526, 1388–535; Pub. L. 102–486, title XIX, §1915(a)(2), (b)(2), (c)(1), (2), Oct. 24, 1992, 106 Stat. 3023, 3024; Pub. L. 103–66, title XIII, §§13115(a), 13171(b), 13227(c), Aug. 10, 1993, 107 Stat. 432, 454, 493; Pub. L. 104–188, title I, §§1601(b)(2)(B), (C), 1621(b)(2), 1702(c)(1), (e)(1)(A), (g)(4), (h)(12), 1704(t)(1), (48), Aug. 20, 1996, 110 Stat. 1832, 1833, 1867, 1869, 1870, 1873, 1874, 1887, 1889; Pub. L. 105–34, title III, §312(d)(1), title IV, §§402, 403(a), title XII, §1212(a), Aug. 5, 1997, 111 Stat. 839, 844, 1000; Pub. L. 105–277, div. J, title IV, §4006(c)(2), Oct. 21, 1998, 112 Stat. 2681–912; Pub. L. 106–519, §4(1), Nov. 15, 2000, 114 Stat. 2432; Pub. L. 106–554, §1(a)(7) \[title III, §314(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–643; Pub. L. 107–147, title I, §102(c)(1), title IV, §417(5), Mar. 9, 2002, 116 Stat. 26, 56; Pub. L. 108–173, title XII, §1202(b), Dec. 8, 2003, 117 Stat. 2480; Pub. L. 108–311, title IV, §403(b)(4), Oct. 4, 2004, 118 Stat. 1187; Pub. L. 108–357, title I, §§101(b)(4), 102(b), title II, §248(b)(1), title IV, §422(b), title VIII, §835(b)(1), Oct. 22, 2004, 118 Stat. 1423, 1428, 1457, 1519, 1593; Pub. L. 109–58, title XIII, §1326(d), Aug. 8, 2005, 119 Stat. 1017; Pub. L. 109–135, title IV, §403(a)(14), (r)(2), Dec. 21, 2005, 119 Stat. 2619, 2628; Pub. L. 109–304, §17(e)(1), Oct. 6, 2006, 120 Stat. 1707; Pub. L. 110–172, §11(g)(1), (2), Dec. 29, 2007, 121 Stat. 2489, 2490; Pub. L. 110–289, div. C, title I, §3022(a)(2), July 30, 2008, 122 Stat. 2894; Pub. L. 110–343, div. C, title VII, §§706(b)(3), 708(c), Oct. 3, 2008, 122 Stat. 3922, 3925; Pub. L. 111–5, div. B, title I, §§1008(d), 1503(b), Feb. 17, 2009, 123 Stat. 318, 354; Pub. L. 111–92, §13(b), Nov. 6, 2009, 123 Stat. 2993; Pub. L. 111–148, title IX, §9013(c), Mar. 23, 2010, 124 Stat. 868.)
 
 #### Amendment of Subsection (b)(1)(B)
 
@@ -636,7 +636,7 @@ Adjusted current earnings.—For taxable years beginning after 1989, alternative
 
 Subsec. (d)(1)(A). Pub. L. 101–508, §11531(b)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the amount of such deduction shall not exceed 90 percent of alternative minimum taxable income determined without regard to such deduction, and”.
 
-Subsec. (f). Pub. L. 101–508, §11801(a)(3), struck out subsec. (f) which related to adjustments for book income of corporations with respect to minimum taxable income, adjusted net book income, adjustments for certain taxes, special rules for related corporations for consolidated returns, treatment of dividends, statements covering different periods, special rule for cooperatives, treatment and limitation of taxes on dividends from 936 corporations, rules for Alaska native corporations, special rules for life insurance companies, exclusion of certain income from transfer of stock for debt, secretarial authority to adjust items, applicable financial statements, earnings and profits used, special rules for more than one statement and exception for certain corporations.
+Subsec. (f). Pub. L. 101–508, §11801(a)(3), struck out subsec. (f) which related to adjustments for book income of corporations with respect to minimum taxable income, adjusted net book income, adjustments for certain taxes, special rules for related corporations for consolidated returns, treatment of dividends, statements covering different periods, special rule for cooperatives, treatment and limitation of taxes on dividends from 936 corporations, rules for Alaska native corporations, special rules for life insurance companies, exclusion of certain income from transfer of stock fordebt, secretarial authority to adjust items, applicable financial statements, earnings and profits used, special rules for more than one statement and exception for certain corporations.
 
 Subsec. (g)(1), (2)(A). Pub. L. 101–508, §11801(c)(2)(B), which directed that pars. (1) and (2) “of section 59(g) are each amended by striking ‘beginning after 1989’ ”, was executed to pars. (1) and (2)(A) of subsec. (g) of this section after “any taxable year”. See 1996 Amendment note above.
 
@@ -712,7 +712,7 @@ Subsec. (g)(5)(B). Pub. L. 101–239, §7611(f)(4), redesignated subpar. (D) as 
 
 Subsec. (g)(5)(C). Pub. L. 101–239, §7611(f)(4), struck out subpar. (C) which read as follows: “
 
-Presentvalue.—Present value shall be determined as of the time the property is placed in service (or, if later, as of the beginning of the first taxable year beginning after 1989) and under regulations prescribed by the Secretary.”
+Present value.—Present value shall be determined as of the time the property is placed in service (or, if later, as of the beginning of the first taxable year beginning after 1989) and under regulations prescribed by the Secretary.”
 
 Subsec. (g)(5)(D). Pub. L. 101–239, §7611(f)(4), redesignated subpar. (D) as (B).
 
@@ -826,7 +826,7 @@ Exception for TARP Recipients.—The amendments made by this section \[amending 
 
 &emsp;“(1) any taxpayer if—
 
-&emsp;&emsp;“(A) the Federal Government acquired before the date of the enactment of this Act \[Nov. 6, 2009\] an equity interest in the taxpayer pursuant to the Emergency Economic Stabilization Act of 2008 \[div. A of Pub. L. 110–343, see Tables for classification\],
+&emsp;&emsp;“(A) the Federal Government acquired before the date of the enactment of this Act \[Nov. 6, 2009\] anequity interest in the taxpayer pursuant to the Emergency Economic Stabilization Act of 2008 \[div. A of Pub. L. 110–343, see Tables for classification\],
 
 &emsp;&emsp;“(B) the Federal Government acquired before such date of enactment any warrant (or other right) to acquire any equity interest with respect to the taxpayer pursuant to the Emergency Economic Stabilization Act of 2008, or
 
@@ -910,7 +910,7 @@ Pub. L. 107–147, title I, §102(c)(2), Mar. 9, 2002, 116 Stat. 26, as amended 
 
 #### Effective Date of 2000 Amendments
 
-Pub. L. 106–554, §1(a)(7) \[title III, §314(g)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–643, provided that: “The amendments made by this section \[amending this section and sections 403, 414, 415, 3405, 6211 and 7436 of this title and provisions set out as a note under section 1 of this title\] shall take effect as if included in the provisions of the Taxpayer Relief \[Act\] of 1997 \[Pub. L. 105–34\] to which they relate.”
+Pub. L. 106–554, §1(a)(7) \[title III, §314(g)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–643, provided that: “Theamendments made by this section \[amending this section and sections 403, 414, 415, 3405, 6211 and 7436 of this title and provisions set out as a note under section 1 of this title\] shall take effect as if included in the provisions of the Taxpayer Relief \[Act\] of 1997 \[Pub. L. 105–34\] to which they relate.”
 
 Pub. L. 106–519, §5, Nov. 15, 2000, 114 Stat. 2433, as amended by Pub. L. 109–222, title V, §513(a), May 17, 2006, 120 Stat. 366, provided that:
 
@@ -1020,7 +1020,7 @@ In general.—The amendment made by this section \[amending this section\] shall
 
 “(2)
 
-Special rule for 1987.—In the case of taxable years beginning in 1987, the last sentence of section 56(a)(6) of the Internal Revenue Code of 1986 (as in effect for such taxable years) shall be applied by inserting ‘or in the case of a taxpayer using the cash receipts and disbursements method of accounting, any disposition described in section 453C(e)(1)(B)(ii)’ after ‘section 453C(e)(4)’.”
+Special rule for 1987.—In the case of taxable years beginning in 1987, the last sentence of section56(a)(6) of the Internal Revenue Code of 1986 (as in effect for such taxable years) shall be applied by inserting ‘or in the case of a taxpayer using the cash receipts and disbursements method of accounting, any disposition described in section 453C(e)(1)(B)(ii)’ after ‘section 453C(e)(4)’.”
 
 Section 1212(b) of Pub. L. 105–34 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1997.”
 
@@ -1096,7 +1096,7 @@ Section 7611(g) of Pub. L. 101–239 provided that:
 
 “(1)
 
-In general.—Except as otherwise provided in this subsection, the amendments made by this section\[amending this section and sections 59 and 312 of this title\] shall apply to taxable years beginning after December 31, 1989.
+In general.—Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and sections 59 and 312 of this title\] shall apply to taxable years beginning after December 31, 1989.
 
 “(2)
 
@@ -1104,7 +1104,7 @@ Intangible drilling costs.—The amendments made by subsection (f)(5) \[amending
 
 “(3)
 
-Regulations on earnings and profits rules.—Not later than March 15, 1991, the Secretary of the Treasury or his delegate shall prescribe initial regulations providing guidance as to which items of income are included in adjusted current earnings under section 56(g)(4)(B)(i) of the Internal Revenue Code of 1986 and which items of deduction are disallowed under section 56(g)(4)(C) of such Code.”
+Regulations on earnings and profits rules.—Not later than March 15, 1991, the Secretary of the Treasury or his delegate shall prescribe initial regulations providing guidance as to which items of income are included in adjusted current earnings under section56(g)(4)(B)(i) of the Internal Revenue Code of 1986 and which items of deduction are disallowed under section 56(g)(4)(C) of such Code.”
 
 Section 7612(c)(2) of Pub. L. 101–239 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to contracts entered into in taxable years beginning after September 30, 1990.”
 

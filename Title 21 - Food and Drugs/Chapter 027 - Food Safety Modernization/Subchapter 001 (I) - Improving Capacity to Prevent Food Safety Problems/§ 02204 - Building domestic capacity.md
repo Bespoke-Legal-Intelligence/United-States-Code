@@ -46,7 +46,7 @@ The report developed under subsection (a)(1) shall provide a description of meth
 
 #### (d) Information technology
 
-The report developed under subsection (a)(1) shall include a description of such information technology systems as may be needed to identify risks and receive data from multiple sources, including foreign governments, State, local, and tribal governments, other Federal agencies, the food industry, laboratories, laboratory networks, and consumers. The information technology systems that the Secretary describes shall also provide for the integration of the facility registration system under section 350d of this title, and the prior notice system under section 381(m) of this title with other information technology systems that are used by the Federal Government for the processing of food offered for import into the United States.
+The report developed under subsection (a)(1) shall include a description of such information technology systems as may be needed to identify risks and receive data from multiple sources, including foreign governments, State,local, and tribal governments, other Federal agencies, the food industry, laboratories, laboratory networks, and consumers. The information technology systems that the Secretary describes shall also provide for the integration of the facility registration system under section 350d of this title, and the prior notice system under section 381(m) of this title with other information technology systems that are used by the Federal Government for the processing of food offered for import into the United States.
 
 #### (e) Automated risk assessment
 
@@ -74,7 +74,7 @@ The Secretary, the Secretary of Agriculture, and the Secretary of Homeland Secur
 
 &emsp;The report described under paragraph (1)(B) shall—
 
-&emsp;&emsp;(A) include conclusions concerning the reasons that such existing programs haveproven successful or not successful and what factors contributed to such conclusions;
+&emsp;&emsp;(A) include conclusions concerning the reasons that such existing programs have proven successful or not successful and what factors contributed to such conclusions;
 
 &emsp;&emsp;(B) include recommendations for consolidation and elimination to reduce duplication and inefficiencies in such programs at such Department as identified during the evaluation conduct <sup>3</sup> under this subsection; and
 

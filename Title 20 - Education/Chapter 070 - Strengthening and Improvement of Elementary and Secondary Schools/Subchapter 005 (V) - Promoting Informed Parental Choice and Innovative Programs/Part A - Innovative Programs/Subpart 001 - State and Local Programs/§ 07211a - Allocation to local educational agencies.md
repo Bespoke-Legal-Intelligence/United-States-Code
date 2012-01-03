@@ -14,7 +14,7 @@
 
 #### (2) Allocation of increased amounts
 
-&emsp;From the amount made available to a State educational agency under this part for a fiscal year that exceeds the amount made availableto the agency under this part for fiscal year 2002, the State educational agency shall distribute 100 percent (or, in the case of a State educational agency receiving a minimum allotment under section 7211(a) of this title, not less than 50 percent, notwithstanding subsection (b) of this section) to local educational agencies within the State, on the same basis as the State educational agency distributes amounts under paragraph (1).
+&emsp;From the amount made available to a State educational agency under this part for a fiscal year that exceeds the amount made available to the agency under this part for fiscal year 2002, the State educational agency shall distribute 100 percent (or, in the case of a State educational agency receiving a minimum allotment under section 7211(a) of this title, not less than 50 percent, notwithstanding subsection (b) of this section) to local educational agencies within the State, on the same basis as the State educational agency distributes amounts under paragraph (1).
 
 #### (b) Limitations and requirements
 
@@ -68,7 +68,7 @@ Not more than 15 percent of funds made available under section 7211 of this titl
 
 #### (C) Rule of construction
 
-&emsp;&emsp;Subparagraphs (A) and (B) may not be construed to require any school to limit the use of the additional funds described in subparagraph (A) to the provision of services to specific students or categories of students.
+&emsp;&emsp;Subparagraphs (A) and (B) may not be construed to require any school to limit the useof the additional funds described in subparagraph (A) to the provision of services to specific students or categories of students.
 
 (Pub. L. 89–10, title V, §5112, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1777.)
 

@@ -88,7 +88,7 @@ For purposes of this part, the qualified export assets of a corporation are—
 
 &emsp;&emsp;(E) any unprocessed timber which is a softwood.
 
-> &emsp;Subparagraph (C) shall not apply to any commodity or product at least 50 percent of the fair market value of which is attributable to manufacturing or processing, except that subparagraph (C) shall apply to any primary product from oil, gas, coal, or uranium. For purposes of the preceding sentence, the term “processing” does not include extracting or handling, packing, packaging, grading, storing, or transporting. For purposes of subparagraph (E), the term “unprocessed timber” means any log, cant, or similar form of timber.
+> &emsp;Subparagraph (C) shall not apply to any commodity or product at least 50 percent of the fair market value of which is attributable to manufacturing or processing, except that subparagraph (C) shall apply to any primary product from oil, gas, coal, or uranium. For purposes of the preceding sentence, the term “processing” does not include extracting or handling, packing, packaging, grading, storing, or transporting. For purposes of subparagraph (E), the term “unprocessed timber”means any log, cant, or similar form of timber.
 
 #### (3) Property in short supply
 
@@ -110,7 +110,7 @@ For purposes of this part, the qualified export assets of a corporation are—
 
 #### (2) Limitation
 
-&emsp;An obligation shall be treated as arising out of a producer's loan only to the extent that such loan, when added to the unpaid balance of all other producer's loans to the borrower outstanding at the time such loan is made, doesnot exceed an amount determined by multiplying the sum of—
+&emsp;An obligation shall be treated as arising out of a producer's loan only to the extent that such loan, when added to the unpaid balance of all other producer's loans to the borrower outstanding at the time such loan is made, does not exceed an amount determined by multiplying the sum of—
 
 &emsp;&emsp;(A) the amount of the borrower's adjusted basis determined at the beginning of the borrower's taxable year in which the loan is made, in plant, machinery, and equipment, and supporting production facilities in the United States;
 
@@ -168,7 +168,7 @@ In determining whether a corporation (hereinafter in this subsection referred to
 
 &emsp;A foreign corporation is a related foreign export corporation if—
 
-&emsp;&emsp;(A) stock possessing more than 50 percent of the total combined voting power of allclasses of stock entitled to vote is owned directly by the domestic corporation,
+&emsp;&emsp;(A) stock possessing more than 50 percent of the total combined voting power of all classes of stock entitled to vote is owned directly by the domestic corporation,
 
 &emsp;&emsp;(B) 95 percent or more of such foreign corporation's gross receipts for its taxable year ending with or within the taxable year of the domestic corporation consists of qualified export receipts described in subparagraphs (A), (B), (C), and (D) of subsection (a)(1) and interest on any obligation described in paragraphs (3) and (4) of subsection (b), and
 

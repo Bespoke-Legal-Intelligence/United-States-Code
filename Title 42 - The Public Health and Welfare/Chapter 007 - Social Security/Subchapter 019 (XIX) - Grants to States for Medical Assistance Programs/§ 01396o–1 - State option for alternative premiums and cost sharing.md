@@ -222,10 +222,6 @@
 
 (Aug. 14, 1935, ch. 531, title XIX, §1916A, as added and amended Pub. L. 109–171, title VI, §§6041(a), 6042(a), 6043(a), Feb. 8, 2006, 120 Stat. 81, 85, 86; Pub. L. 109–432, div. B, title IV, §405(a)(1)–(5), Dec. 20, 2006, 120 Stat. 2996–2998; Pub. L. 111–5, div. B, title V, §5006(a)(2), Feb. 17, 2009, 123 Stat. 506; Pub. L. 111–148, title II, §2102(b), title IV, §4107(c)(2), Mar. 23, 2010, 124 Stat. 289, 561.)
 
-#### References in Text
-
-Parts B and E of subchapter IV, referred to in subsec. (b)(3)(A)(i), (B)(i), are classified to sections 620 et seq. and 670 et seq., respectively, of this title.
-
 #### Amendments
 
 <b>2010</b>—Subsec. (a)(1). Pub. L. 111–148, §2102(b), substituted “, (i), or (j)” for “or (i)”.

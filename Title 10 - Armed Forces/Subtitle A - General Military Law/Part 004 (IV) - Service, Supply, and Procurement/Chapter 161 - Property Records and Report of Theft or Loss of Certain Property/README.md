@@ -12,7 +12,7 @@
 
 <b>1999</b>—Pub. L. 106–65, div. A, title X, §1042(b), Oct. 5, 1999, 113 Stat. 760, added item 2723.
 
-<b>1991</b>—Pub. L. 102–190, div. A, title X, §1061(a)(17)(B), Dec. 5, 1991, 105 Stat. 1473, substituted “Propertyrecords: maintenance on quantitative and monetary basis” for “Basis” in item 2721.
+<b>1991</b>—Pub. L. 102–190, div. A, title X, §1061(a)(17)(B), Dec. 5, 1991, 105 Stat. 1473, substituted “Property records: maintenance on quantitative and monetary basis” for “Basis” in item 2721.
 
 <b>1990</b>—Pub. L. 101–510, div. A, title XIII, §1331(7), Nov. 5, 1990, 104 Stat. 1673, substituted “Basis” for “Basis: reports” in item 2721.
 

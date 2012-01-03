@@ -10,7 +10,7 @@ Section 1446d of this title, referred to in text, was omitted from the Code.
 
 #### Amendments
 
-1977—Pub. L. 95–113 temporarily inserted provisions authorizing Secretary to make price support available for the 1978 through 1981 crops of flaxseed, dry edible beans, gum naval stores, and, in the case of the 1979 through 1981 crops, sugar beets and sugar cane, and for other nonbasic undesignated commodities. See Effective and Termination Dates of 1977 Amendment note below.
+<b>1977</b>—Pub. L. 95–113 temporarily inserted provisions authorizing Secretary to make price support available for the 1978 through 1981 crops of flaxseed, dry edible beans, gum naval stores, and, in the case of the 1979 through 1981 crops, sugar beets and sugar cane, and for other nonbasic undesignated commodities. See Effective and Termination Dates of 1977 Amendment note below.
 
 #### Effective and Termination Dates of 1977 Amendment
 

@@ -98,7 +98,7 @@ Under this section, a loan is an eligible loan if that loan meets the following 
 
 &emsp;&emsp;&emsp;(ii) Any lender that makes housing loans under chapter 37 of title 38 that are automatically guaranteed under section 3702(d) of title 38.
 
-&emsp;&emsp;&emsp;(iii) Any lender approved by the Secretary of Agriculture to make guaranteedloans for single family housing under the Housing Act of 1949 \[42 U.S.C. 1441 et seq.\].
+&emsp;&emsp;&emsp;(iii) Any lender approved by the Secretary of Agriculture to make guaranteed loans for single family housing under the Housing Act of 1949 \[42 U.S.C. 1441 et seq.\].
 
 &emsp;&emsp;&emsp;(iv) Any other lender that is supervised, approved, regulated, or insured by any agency of the Federal Government.
 
@@ -232,7 +232,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (3) Payment on loans made in good faith
 
-&emsp;Notwithstanding paragraphs (1) and (2), if a loan was made in good faith, the Secretary may not refuse to pay a lender or holder of a valid guarantee on that loan, without regard to whether the lender or holder is barred under this subsection.
+&emsp;Notwithstanding paragraphs (1) and (2), if a loan was made in good faith, the Secretary may not refuse to pay a lender or holder of a valid guarantee on that loan, without regardto whether the lender or holder is barred under this subsection.
 
 #### (i) Payment under guarantee
 
@@ -284,7 +284,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (A) In general
 
-&emsp;&emsp;If a borrower defaults on a loan guaranteed under this section that involves a security interest in restricted Hawaiian Home Land property, the mortgagee or the Secretary shall only pursue liquidation after offering to transfer the account to another eligibleHawaiian family or the Department of Hawaiian Home Lands.
+&emsp;&emsp;If a borrower defaults on a loan guaranteed under this section that involves a security interest in restricted Hawaiian Home Land property, the mortgagee or the Secretary shall only pursue liquidation after offering to transfer the account to another eligible Hawaiian family or the Department of Hawaiian Home Lands.
 
 #### (B) Limitation
 
@@ -374,7 +374,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 &emsp;&emsp;&emsp;&emsp;(III) uses water supply, plumbing, and sewage disposal systems that conform to any minimum standards established by the applicable county or State;
 
-&emsp;&emsp;&emsp;(iv) contain an electrical system using wiring and equipment properly installed tosafely supply electrical energy for adequate lighting and for operation of appliances that conforms to any appropriate county, State, or national code;
+&emsp;&emsp;&emsp;(iv) contain an electrical system using wiring and equipment properly installed to safely supply electrical energy for adequate lighting and for operation of appliances that conforms to any appropriate county, State, or national code;
 
 &emsp;&emsp;&emsp;(v) be not less than the size provided under the applicable locally adopted standards for size of dwelling units, except that the Secretary, upon request of the Department of Hawaiian Home Lands may waive the size requirements under this paragraph; and
 

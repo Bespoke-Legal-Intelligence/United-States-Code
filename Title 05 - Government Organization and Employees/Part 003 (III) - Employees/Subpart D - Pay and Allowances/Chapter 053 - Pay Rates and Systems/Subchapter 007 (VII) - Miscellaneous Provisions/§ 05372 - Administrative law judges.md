@@ -18,7 +18,7 @@
 
 (c) The Office of Personnel Management shall prescribe regulations necessary to administer this section.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 473, §5362; Pub. L. 95–251, §2(a)(1), (b)(1), Mar. 27, 1978, 92Stat. 183; renumbered §5372 and amended Pub. L. 95–454, title VIII, §801(a)(3)(A)(ii), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1221, 1224; Pub. L. 101–509, title V, §529 \[title I, §104(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1445; Pub. L. 102–378, §2(32), Oct. 2, 1992, 106 Stat. 1350; Pub. L. 106–97, §1, Nov. 12, 1999, 113 Stat. 1322.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 473, §5362; Pub. L. 95–251, §2(a)(1), (b)(1), Mar. 27, 1978, 92 Stat. 183; renumbered §5372 and amended Pub. L. 95–454, title VIII, §801(a)(3)(A)(ii), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1221, 1224; Pub. L. 101–509, title V, §529 \[title I, §104(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1445; Pub. L. 102–378, §2(32), Oct. 2, 1992, 106 Stat. 1350; Pub. L. 106–97, §1, Nov. 12, 1999, 113 Stat. 1322.)
 
 Historical and Revision Notes
 
@@ -46,7 +46,7 @@ The General Schedule, referred to in subsec. (b)(4), is set out under section 53
 
 #### Amendments
 
-1999—Subsec. (b)(1). Pub. L. 106–97, §1(1), designated first sentence as subpar. (A) and struck out after first sentence the following: “The rates of basic pay for those levels shall be as follows:
+<b>1999</b>—Subsec. (b)(1). Pub. L. 106–97, §1(1), designated first sentence as subpar. (A) and struck out after first sentence the following: “The rates of basic pay for those levels shall be as follows:
 
 &nbsp;
 
@@ -67,11 +67,11 @@ Subsec. (b)(3)(A). Pub. L. 106–97, §1(2), substituted “at the beginning of 
 
 Subsec. (b)(4). Pub. L. 106–97, §1(3), added par. (4).
 
-1992—Subsec. (c). Pub. L. 102–378 substituted “shall” for “shall,”.
+<b>1992</b>—Subsec. (c). Pub. L. 102–378 substituted “shall” for “shall,”.
 
-1990—Pub. L. 101–509 amended section generally. Prior to amendment, section read as follows: “Administrative law judges appointed under section 3105 of this title are entitled to pay prescribed by the Office of Personnel Management independently of agency recommendations or ratings and in accordance with subchapter III of this chapter and chapter 51 of this title.”
+<b>1990</b>—Pub. L. 101–509 amended section generally. Prior to amendment, section read as follows: “Administrative law judges appointed under section 3105 of this title are entitled to pay prescribed by the Office of Personnel Management independently of agency recommendations or ratings and in accordance with subchapter III of this chapter and chapter 51 of this title.”
 
-1978—Pub. L. 95–454, §906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
+<b>1978</b>—Pub. L. 95–454, §906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
 
 Pub. L. 95–251 substituted “Administrative law judges” for “Hearing examiners” in section catchline and text.
 

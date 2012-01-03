@@ -18,7 +18,7 @@ It is the policy of the United States—
 
 &emsp;(3) to make clear that the United States decision to establish diplomatic relations with the People's Republic of China rests upon the expectation that the future of Taiwan will be determined by peaceful means;
 
-&emsp;(4) to consider any effort to determine the future of Taiwan by other than peaceful means, including by boycotts or embargoes, a threat to the peace and security of the Western Pacific area and of grave concern to the United States;
+&emsp;(4) to consider any effort to determine the future of Taiwan by other than peacefulmeans, including by boycotts or embargoes, a threat to the peace and security of the Western Pacific area and of grave concern to the United States;
 
 &emsp;(5) to provide Taiwan with arms of a defensive character; and
 
@@ -86,7 +86,7 @@ Sec. 2. <i>Specification of Laws and Determinations.</i>
 
 Sec. 3. <i>President's Memorandum of December 30, 1978.</i>
 
-3–301. Agreements and arrangements referred to in paragraph (B) of President Carter's memorandum of December 30, 1978, entitled “Relations With the Peopleon Taiwan” (44 FR 1075) shall, unless otherwise terminated or modified in accordance with law, continue in force and be performed in accordance with the Act and this order.
+3–301. Agreements and arrangements referred to in paragraph (B) of President Carter's memorandum of December 30, 1978, entitled “Relations With the People on Taiwan” (44 FR 1075) shall, unless otherwise terminated or modified in accordance with law, continue in force and be performed in accordance with the Act and this order.
 
 Sec. 4. <i>General</i>. This order supersedes Executive Order No. 12143 of June 22, 1979.
 

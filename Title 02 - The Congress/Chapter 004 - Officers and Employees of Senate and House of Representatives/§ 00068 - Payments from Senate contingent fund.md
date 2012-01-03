@@ -10,9 +10,9 @@ Section is based on provisions of last par. on 25 Stat. 546, act of Oct. 2, 1888
 
 #### Amendments
 
-1974—Pub. L. 93–554 inserted provision relating to applicability to payments made upon abstracts of disbursements of salaries.
+<b>1974</b>—Pub. L. 93–554 inserted provision relating to applicability to payments made upon abstracts of disbursements of salaries.
 
-1946—Act Aug. 2, 1946, substituted “Committee on Rules and Administration” for “Committee to Audit and Control Contingent Expenses”.
+<b>1946</b>—Act Aug. 2, 1946, substituted “Committee on Rules and Administration” for “Committee to Audit and Control Contingent Expenses”.
 
 #### Effective Date of 1974 Amendment
 

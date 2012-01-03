@@ -38,7 +38,7 @@
 
 #### (2) Technical assistance
 
-&emsp;There is authorized to be appropriated $5,000,000 annually to carry out subsection (a)(2), of which not more than $2,000,000 annually may be used by the Secretary to enter into cooperative agreements with nonprofit organizations to provide assistance to rural and small communities.
+&emsp;There is authorized to be appropriated $5,000,000 annually to carry out subsection (a)(2), of which not more than $2,000,000 annually may be used by the Secretary to enterinto cooperative agreements with nonprofit organizations to provide assistance to rural and small communities.
 
 #### (d) Annual submission of proposed activities
 

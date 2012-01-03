@@ -136,6 +136,7 @@
 | [68c.](%C2%A7%2000068c%20-%20Computation%20of%20compensation%20for%20stenographic%20assistance%20of%20committees%20payable%20from%20Senate%20contingent%20fund.md) | Computation of compensation for stenographic assistance of committees payable from Senate contingent fund. |
 | [68d.](%C2%A7%2000068d%20-%20Liquidation%20from%20appropriations%20of%20any%20unpaid%20obligations%20chargeable%20to%20rescinded%20unexpended%20balances%20of%20funds.md) | Liquidation from appropriations of any unpaid obligations chargeable to rescinded unexpended balances of funds. |
 | [68e.](%C2%A7%2000068e%20-%20Advance%20payments%20by%20Secretary%20of%20Senate.md) | Advance payments by Secretary of Senate. |
+| [68f.](%C2%A7%2000068f%20-%20Payment%20of%20certain%20expenses.md) | Payment of certain expenses. |
 | [69\.](%C2%A7%2000069%20-%20Expenses%20of%20committees%20payable%20from%20Senate%20contingent%20fund.md) | Expenses of committees payable from Senate contingent fund. |
 | 69–1. | Availability of funds for franked mail expenses. |
 | [69a.](%C2%A7%2000069a%20-%20Orientation%20seminars%2C%20etc.%2C%20for%20new%20Senators%2C%20Senate%20officials%2C%20or%20members%20of%20staffs%20of%20Senators%20or%20Senate%20officials%3B%20payment%20of%20expenses.md) | Orientation seminars, etc., for new Senators, Senate officials, or members of staffs of Senators or Senate officials; payment of expenses. |
@@ -172,6 +173,7 @@
 | 74a–10a. | Lump-sum allowances for House Majority Floor Leader, Minority Floor Leader, Majority Whip, and Minority Whip. |
 | 74a–10b. | Lump-sum allowances for House Majority Whip and Minority Whip. |
 | 74a–11. | Transfer of appropriations by House Leadership Offices. |
+| 74a–11a. | Authority of Speaker and Minority Leader to allocate funds among certain House leadership offices. |
 | 74a–12. | Lump sum allowance for Speaker. |
 | 74a–13. | Republican Policy Committee. |
 | [74b.](%C2%A7%2000074b%20-%20Employment%20of%20additional%20administrative%20assistants.md) | Employment of additional administrative assistants. |
@@ -318,7 +320,7 @@
 | [130f.](%C2%A7%2000130f%20-%20Office%20of%20General%20Counsel%20of%20House%3B%20administrative%20provisions.md) | Office of General Counsel of House; administrative provisions. |
 | [130g.](%C2%A7%2000130g%20-%20Support%20services%20for%20Senate%20during%20emergency%3B%20memorandum%20of%20understanding%20with%20an%20executive%20agency.md) | Support services for Senate during emergency; memorandum of understanding with an executive agency. |
 | [130h.](%C2%A7%2000130h%20-%20Support%20services%20for%20House%20during%20emergency%3B%20memorandum%20of%20understanding%20with%20an%20executive%20agency.md) | Support services for House during emergency; memorandum of understanding with an executive agency. |
-| [130i.](%C2%A7%2000130i%20-%20House%20of%20Representatives%20Office%20of%20Emergency%20Planning%2C%20Preparedness%2C%20and%20Operations.md) | House of Representatives Office of Emergency Planning, Preparedness, and Operations. |
+| [130i.](%C2%A7%2000130i%20-%20Repealed.%20Pub.%20L.%20112%E2%80%9374%2C%20div.%20G%2C%20title%20I%2C%20%C2%A7105%281%29%2C%20Dec.%2023%2C%202011%2C%20125%20Stat.%201123.md) | Repealed. |
 | [130j.](%C2%A7%2000130j%20-%20Program%20to%20increase%20employment%20opportunities%20in%20House%20of%20Representatives%20for%20individuals%20with%20disabilities.md) | Program to increase employment opportunities in House of Representatives for individuals with disabilities. |
 | [130k.](%C2%A7%2000130k%20-%20Emergency%20expenditures%20for%20meals%2C%20refreshments%2C%20and%20other%20support%20and%20maintenance.md) | Emergency expenditures for meals, refreshments, and other support and maintenance. |
 | 130<i>l</i>. | Media support services. |
@@ -475,6 +477,7 @@
 - [&sect; 00068c - Computation of compensation for stenographic assistance of committees payable from Senate contingent fund](%C2%A7%2000068c%20-%20Computation%20of%20compensation%20for%20stenographic%20assistance%20of%20committees%20payable%20from%20Senate%20contingent%20fund.md)
 - [&sect; 00068d - Liquidation from appropriations of any unpaid obligations chargeable to rescinded unexpended balances of funds](%C2%A7%2000068d%20-%20Liquidation%20from%20appropriations%20of%20any%20unpaid%20obligations%20chargeable%20to%20rescinded%20unexpended%20balances%20of%20funds.md)
 - [&sect; 00068e - Advance payments by Secretary of Senate](%C2%A7%2000068e%20-%20Advance%20payments%20by%20Secretary%20of%20Senate.md)
+- [&sect; 00068f - Payment of certain expenses](%C2%A7%2000068f%20-%20Payment%20of%20certain%20expenses.md)
 - [&sect; 00069 - Expenses of committees payable from Senate contingent fund](%C2%A7%2000069%20-%20Expenses%20of%20committees%20payable%20from%20Senate%20contingent%20fund.md)
 - [&sect; 00069&#8211;1 - Availability of funds for franked mail expenses](%C2%A7%2000069%E2%80%931%20-%20Availability%20of%20funds%20for%20franked%20mail%20expenses.md)
 - [&sect; 00069a - Orientation seminars, etc., for new Senators, Senate officials, or members of staffs of Senators or Senate officials; payment of expenses](%C2%A7%2000069a%20-%20Orientation%20seminars%2C%20etc.%2C%20for%20new%20Senators%2C%20Senate%20officials%2C%20or%20members%20of%20staffs%20of%20Senators%20or%20Senate%20officials%3B%20payment%20of%20expenses.md)
@@ -514,6 +517,7 @@
 - [&sect; 00074a&#8211;10a - Lump-sum allowances for House Majority Floor Leader, Minority Floor Leader, Majority Whip, and Minority Whip](%C2%A7%2000074a%E2%80%9310a%20-%20Lump-sum%20allowances%20for%20House%20Majority%20Floor%20Leader%2C%20Minority%20Floor%20Leader%2C%20Majority%20Whip%2C%20and%20Minority%20Whip.md)
 - [&sect; 00074a&#8211;10b - Lump-sum allowances for House Majority Whip and Minority Whip](%C2%A7%2000074a%E2%80%9310b%20-%20Lump-sum%20allowances%20for%20House%20Majority%20Whip%20and%20Minority%20Whip.md)
 - [&sect; 00074a&#8211;11 - Transfer of appropriations by House Leadership Offices](%C2%A7%2000074a%E2%80%9311%20-%20Transfer%20of%20appropriations%20by%20House%20Leadership%20Offices.md)
+- [&sect; 00074a&#8211;11a - Authority of Speaker and Minority Leader to allocate funds among certain House leadership offices](%C2%A7%2000074a%E2%80%9311a%20-%20Authority%20of%20Speaker%20and%20Minority%20Leader%20to%20allocate%20funds%20among%20certain%20House%20leadership%20offices.md)
 - [&sect; 00074a&#8211;12 - Lump sum allowance for Speaker](%C2%A7%2000074a%E2%80%9312%20-%20Lump%20sum%20allowance%20for%20Speaker.md)
 - [&sect; 00074a&#8211;13 - Republican Policy Committee](%C2%A7%2000074a%E2%80%9313%20-%20Republican%20Policy%20Committee.md)
 - [&sect; 00074b - Employment of additional administrative assistants](%C2%A7%2000074b%20-%20Employment%20of%20additional%20administrative%20assistants.md)
@@ -677,7 +681,7 @@
 - [&sect; 00130f - Office of General Counsel of House; administrative provisions](%C2%A7%2000130f%20-%20Office%20of%20General%20Counsel%20of%20House%3B%20administrative%20provisions.md)
 - [&sect; 00130g - Support services for Senate during emergency; memorandum of understanding with an executive agency](%C2%A7%2000130g%20-%20Support%20services%20for%20Senate%20during%20emergency%3B%20memorandum%20of%20understanding%20with%20an%20executive%20agency.md)
 - [&sect; 00130h - Support services for House during emergency; memorandum of understanding with an executive agency](%C2%A7%2000130h%20-%20Support%20services%20for%20House%20during%20emergency%3B%20memorandum%20of%20understanding%20with%20an%20executive%20agency.md)
-- [&sect; 00130i - House of Representatives Office of Emergency Planning, Preparedness, and Operations](%C2%A7%2000130i%20-%20House%20of%20Representatives%20Office%20of%20Emergency%20Planning%2C%20Preparedness%2C%20and%20Operations.md)
+- [&sect; 00130i - Repealed. Pub. L. 112&#8211;74, div. G, title I, &sect;105(1), Dec. 23, 2011, 125 Stat. 1123](%C2%A7%2000130i%20-%20Repealed.%20Pub.%20L.%20112%E2%80%9374%2C%20div.%20G%2C%20title%20I%2C%20%C2%A7105%281%29%2C%20Dec.%2023%2C%202011%2C%20125%20Stat.%201123.md)
 - [&sect; 00130j - Program to increase employment opportunities in House of Representatives for individuals with disabilities](%C2%A7%2000130j%20-%20Program%20to%20increase%20employment%20opportunities%20in%20House%20of%20Representatives%20for%20individuals%20with%20disabilities.md)
 - [&sect; 00130k - Emergency expenditures for meals, refreshments, and other support and maintenance](%C2%A7%2000130k%20-%20Emergency%20expenditures%20for%20meals%2C%20refreshments%2C%20and%20other%20support%20and%20maintenance.md)
 - [&sect; 00130l - Media support services](%C2%A7%2000130l%20-%20Media%20support%20services.md)

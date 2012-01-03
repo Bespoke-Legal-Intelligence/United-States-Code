@@ -20,7 +20,7 @@
 
 > The Director shall not implement the program of flood insurance authorized under subchapter I of this chapter through the facilities of the Federal Government until 9 months after the date of submission of the report under this subsection unless it would be impossible to continue to effectively carry out the National Flood Insurance Program operations during this time.
 
-(Pub. L. 90–448, title XIII, §1340, Aug. 1, 1968, 82 Stat. 584; Pub. L. 98–181, title IV, §451(d)(1), (4), Nov. 30, 1983, 97 Stat. 1229; Pub. L. 101–137, §3, Nov. 3, 1989, 103 Stat. 824.)
+(Pub. L. 90–448, title XIII, §1340, Aug. 1, 1968, 82 Stat. 584; Pub. L. 98–181, title IV, §451(d)(1), (4),Nov. 30, 1983, 97 Stat. 1229; Pub. L. 101–137, §3, Nov. 3, 1989, 103 Stat. 824.)
 
 #### References in Text
 

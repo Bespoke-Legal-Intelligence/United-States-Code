@@ -24,7 +24,7 @@
 
 #### Historical and Revision Notes
 
-I74senate report no. 95–989
+#### senate report no. 95–989
 
 Subsection (a) of section 1178 \[enacted as section 1170\] permits the court to authorize the abandonment of a railroad line if the abandonment is consistent with the public interest and either in the best interest of the estate or essential to the formulation of a plan. This avoids the normal abandonment requirements of generally applicable railroad regulatory law.
 
@@ -36,17 +36,17 @@ Subsection (d) stays the enforcement of an abandonment until the time for taking
 
 #### Amendments
 
-2005—Subsec. (e)(1). Pub. L. 109–8 substituted “section 11326(a)” for “section 11347”.
+<b>2005</b>—Subsec. (e)(1). Pub. L. 109–8 substituted “section 11326(a)” for “section 11347”.
 
-1995—Subsecs. (b), (c), (d)(2). Pub. L. 104–88 substituted “Board” for “Commission” wherever appearing.
+<b>1995</b>—Subsecs. (b), (c), (d)(2). Pub. L. 104–88 substituted “Board” for “Commission” wherever appearing.
 
-1984—Subsec. (a). Pub. L. 98–353, §521(a), inserted “of all or a portion” after “the abandonment”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–353, §521(a), inserted “of all or a portion” after “the abandonment”.
 
 Subsec. (c). Pub. L. 98–353, §521(b), inserted a comma after “abandonment”.
 
 Subsec. (d)(2). Pub. L. 98–353, §521(c), substituted “such abandonment” for “the abandonment of a railroad line”, and “suspension” for “termination” in two places.
 
-1980—Subsec. (e). Pub. L. 96–448 added subsec. (e).
+<b>1980</b>—Subsec. (e). Pub. L. 96–448 added subsec. (e).
 
 #### Effective Date of 2005 Amendment
 

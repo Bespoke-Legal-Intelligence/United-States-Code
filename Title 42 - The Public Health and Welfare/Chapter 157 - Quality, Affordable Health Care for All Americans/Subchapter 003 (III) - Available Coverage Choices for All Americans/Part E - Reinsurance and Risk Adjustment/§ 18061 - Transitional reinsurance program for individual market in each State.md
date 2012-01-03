@@ -52,7 +52,7 @@ Each State shall, not later than January 1, 2014—
 
 &emsp;&emsp;&emsp;(ii) the contribution amount can include an additional amount to fund the administrative expenses of the applicable reinsurance entity;
 
-&emsp;&emsp;&emsp;(iii) the aggregate contribution amounts for all States shall, based on the best estimates of the NAIC and without regard to amounts described in clause (ii), equal $10,000,000,000 for plan years beginning in2014, $6,000,000,000 for plan years beginning <sup>2</sup> 2015, and $4,000,000,000 for plan years beginning in 2016; and
+&emsp;&emsp;&emsp;(iii) the aggregate contribution amounts for all States shall, based on the best estimates of the NAIC and without regard to amounts described in clause (ii), equal $10,000,000,000 for plan years beginning in 2014, $6,000,000,000 for plan years beginning <sup>2</sup> 2015, and $4,000,000,000 for plan years beginning in 2016; and
 
 &emsp;&emsp;&emsp;(iv) in addition to the aggregate contribution amounts under clause (iii), each issuer's contribution amount for any calendar year under clause (iii) reflects its proportionate share of an additional $2,000,000,000 for 2014, an additional $2,000,000,000 for 2015, and an additional $1,000,000,000 for 2016.
 

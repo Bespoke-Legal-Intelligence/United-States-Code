@@ -46,7 +46,7 @@ The Secretary shall develop and implement a coordinated plan for the Corporation
 
 #### (3) Use of field infrastructure
 
-&emsp;The plan required by paragraph (1) shall provide for the use of the field infrastructure of the Farm Service Agency. The Secretary shall ensure that relevant Farm Service Agency personnel are appropriately trained for any responsibilities assigned to the personnel under the plan. At a minimum, the personnel shall receive the same level of training and pass thesame basic competency tests as required of loss adjusters of approved insurance providers.
+&emsp;The plan required by paragraph (1) shall provide for the use of the field infrastructure of the Farm Service Agency. The Secretary shall ensure that relevant Farm Service Agency personnel are appropriately trained for any responsibilities assigned to the personnel under the plan. At a minimum, the personnel shall receive the same level of training and pass the same basic competency tests as required of loss adjusters of approved insurance providers.
 
 #### (4) Maintenance of provider effort
 
@@ -208,7 +208,7 @@ The Secretary shall establish procedures under which the Corporation shall consu
 
 #### (3) Use of private sector
 
-&emsp;The Secretary may enter into contracts to use private sector expertise and technological resources in implementing this subsection,which shall be subject to competition on a periodic basis, as determined by the Secretary.
+&emsp;The Secretary may enter into contracts to use private sector expertise and technological resources in implementing this subsection, which shall be subject to competition on a periodic basis, as determined by the Secretary.
 
 #### (k) Funding
 
@@ -246,7 +246,7 @@ A prior section, act Feb. 16, 1938, ch. 30, title V, §515, 52 Stat. 77, provide
 
 #### Amendments
 
-2008—Subsecs. (c) to (h). Pub. L. 110–246, §12033(c)(2)(B), substituted “this subchapter” for “this chapter” wherever appearing.
+<b>2008</b>—Subsecs. (c) to (h). Pub. L. 110–246, §12033(c)(2)(B), substituted “this subchapter” for “this chapter” wherever appearing.
 
 Subsec. (h)(3)(B)(i). Pub. L. 110–246, §12033(c)(2)(A), substituted “This subchapter” for “This chapter”.
 
@@ -258,11 +258,11 @@ Subsec. (k). Pub. L. 110–246, §12021(b), added subsec. (k) and struck out for
 
 Subsec. (k)(1). Pub. L. 110–398 substituted “2010, and not more than $9,000,000 for fiscal year 2011” for “2011”.
 
-2000—Pub. L. 106–224 amended section generally, substituting present provisions for provisions which had authorized establishment of Advisory Committee for Federal Crop Insurance, described primary responsibility, membership of Committee, and administrative provisions, required annual report regarding progress toward implementation and improved crop insurance coverage, soundness of program, and rate of participation, and set forth termination of authority on Sept. 30, 1998.
+<b>2000</b>—Pub. L. 106–224 amended section generally, substituting present provisions for provisions which had authorized establishment of Advisory Committee for Federal Crop Insurance, described primary responsibility, membership of Committee, and administrative provisions, required annual report regarding progress toward implementation and improved crop insurance coverage, soundness of program, and rate of participation, and set forth termination of authority on Sept. 30, 1998.
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 #### Effective Date
 

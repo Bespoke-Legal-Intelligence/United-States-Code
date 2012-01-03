@@ -84,7 +84,7 @@ Subsec. (b)(8). Pub. L. 110–417, §2805(f), added par. (8).
 
 <b>2006</b>—Subsec. (a)(2)(D). Pub. L. 109–163, §2806(c)(1), inserted before period “, including a description of the specific construction, acquisition, or improvement projects from which funds were transferred to the Funds established under section 2883 of this title in order to finance the contract, conveyance, or lease”.
 
-Subsec. (b)(1). Pub. L. 109–163, §2806(c)(2)(B), (C), substituted “covering each of the Funds” for “covering the Funds” and inserted before period at end “, including a description of the specific construction, acquisition, or improvement projects from which funds were transferred and the privatization projects or contracts to which those funds were transferred. Each report shall also include, for each military department or defense agency, a description of all funds to be transferred to such Funds for the current fiscal year and the next fiscal year”.
+Subsec. (b)(1). Pub. L. 109–163, §2806(c)(2)(B), (C), substituted “covering each of the Funds” for “covering the Funds” and inserted before period at end “, including a description of the specific construction, acquisition, or improvement projects from which funds were transferred and the privatization projects or contracts towhich those funds were transferred. Each report shall also include, for each military department or defense agency, a description of all funds to be transferred to such Funds for the current fiscal year and the next fiscal year”.
 
 Pub. L. 109–163, §2806(c)(2)(A), as amended by Pub. L. 111–383, §1075(h)(6), substituted “A separate report” for “A report”.
 

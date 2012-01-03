@@ -10,21 +10,21 @@ Provisions setting forth authority for the allocation of the positions of legisl
 
 #### Amendments
 
-1975—Pub. L. 94–59 substituted “an annual rate of compensation of $40,000” for “a gross annual compensation of $38,760 per annum” as the rate of compensation of the Legislative Counsel of the Senate, effective July 1, 1975.
+<b>1975</b>—Pub. L. 94–59 substituted “an annual rate of compensation of $40,000” for “a gross annual compensation of $38,760 per annum” as the rate of compensation of the Legislative Counsel of the Senate, effective July 1, 1975.
 
-1974—Pub. L. 93–371 substituted provisions authorizing the Legislative Counsel of the Senate to be paid at an annual rate of compensation of $38,760, for provisions setting forth the gross annual compensation of the Legislative Counsel as $27,500 per annum, effective July 1, 1974.
+<b>1974</b>—Pub. L. 93–371 substituted provisions authorizing the Legislative Counsel of the Senate to be paid at an annual rate of compensation of $38,760, for provisions setting forth the gross annual compensation of the Legislative Counsel as $27,500 per annum, effective July 1, 1974.
 
-1964—Pub. L. 88–426 provided that the compensation of the Legislative Counsel of the Senate shall be at the rate of $27,500 per annum.
+<b>1964</b>—Pub. L. 88–426 provided that the compensation of the Legislative Counsel of the Senate shall be at the rate of $27,500 per annum.
 
-1957—Pub. L. 85–75 increased the gross compensation of the Legislative Counsel of the Senate from $15,500 to $17,500 per annum, effective July 1, 1957.
+<b>1957</b>—Pub. L. 85–75 increased the gross compensation of the Legislative Counsel of the Senate from $15,500 to $17,500 per annum, effective July 1, 1957.
 
-1955—Act Aug. 5, 1955, increased the compensation of the Legislative Counsel of the Senate from a basic compensation of $12,000, to a gross annual compensation of $15,500, and the compensation of the Legislative Counsel of the House was increased from a basic compensation of $12,000 to an annual rate of compensation of $15,000 increased by the percentage set forth in section 4(c) of the Federal Employees Salary Increase Act of 1955.
+<b>1955</b>—Act Aug. 5, 1955, increased the compensation of the Legislative Counsel of the Senate from a basic compensation of $12,000, to a gross annual compensation of $15,500, and the compensation of the Legislative Counsel of the House was increased from a basic compensation of $12,000 to an annual rate of compensation of $15,000 increased by the percentage set forth in section 4(c) of the Federal Employees Salary Increase Act of 1955.
 
-1949—Act Oct. 15, 1949, increased the compensation of the Legislative Counsel of both House and the Senate from $10,000 to $12,000 per annum.
+<b>1949</b>—Act Oct. 15, 1949, increased the compensation of the Legislative Counsel of both House and the Senate from $10,000 to $12,000 per annum.
 
-1941—Act Sept. 20, 1941, substituted “President pro tempore of the Senate” for “President of the Senate”.
+<b>1941</b>—Act Sept. 20, 1941, substituted “President pro tempore of the Senate” for “President of the Senate”.
 
-1940—Act June 18, 1940, provided that thereafter the compensation of the Legislative Counsel of the Senate shall be at the rate of $10,000 per annum so long as the present incumbent held the position.
+<b>1940</b>—Act June 18, 1940, provided that thereafter the compensation of the Legislative Counsel of the Senate shall be at the rate of $10,000 per annum so long as the present incumbent held the position.
 
 #### Effective Date of 1949 Amendment
 

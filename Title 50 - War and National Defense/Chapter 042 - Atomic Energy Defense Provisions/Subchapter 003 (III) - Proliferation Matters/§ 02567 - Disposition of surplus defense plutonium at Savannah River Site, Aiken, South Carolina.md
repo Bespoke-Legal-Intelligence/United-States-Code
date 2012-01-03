@@ -2,7 +2,7 @@
 
 #### (a) Consultation required
 
-The Secretary of Energy shall consult with the Governor of the State of South Carolina regarding any decisions or plans of the Secretaryrelated to the disposition of surplus defense plutonium and defense plutonium materials located at the Savannah River Site, Aiken, South Carolina.
+The Secretary of Energy shall consult with the Governor of the State of South Carolina regarding any decisions or plans of the Secretary related to the disposition of surplus defense plutonium and defense plutonium materials located at the Savannah River Site, Aiken, South Carolina.
 
 #### (b) Notice required
 

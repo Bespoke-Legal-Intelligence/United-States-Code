@@ -36,7 +36,7 @@ All information obtained under subsections (a) and (b) of this section shall be 
 
 #### Amendments
 
-1993—Subsec. (a). Pub. L. 103–189, §8(g)(1), designated existing provisions as par. (1) and added par. (2).
+<b>1993</b>—Subsec. (a). Pub. L. 103–189, §8(g)(1), designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (b). Pub. L. 103–189, §8(g)(2), inserted “and importers” after “Handlers”.
 

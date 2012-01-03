@@ -14,13 +14,15 @@
 
 &emsp;(1) during the period beginning on October 1, 1992, and ending on September 30, 2005; or
 
-&emsp;(2) after December 31, 2011.
+&emsp;(2) after December 31, 2012.
 
-(Added Pub. L. 98–94, title X, §1011(a), Sept. 24, 1983, 97 Stat. 663; amended Pub. L. 99–145, title VI, §646(a)(1), title XIII, §1303(b)(3), Nov. 8, 1985, 99 Stat. 654, 740; Pub. L. 100–180, div. A, title VI, §626(b), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §613, Nov. 29, 1989, 103 Stat. 1446; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–375, div. A, title VI, §618(d), Oct. 28, 2004, 118 Stat. 1950; Pub. L. 109–163, div. A, title VI, §§621(c), 687(b)(17), Jan. 6, 2006, 119 Stat. 3294, 3330; Pub. L. 109–364, div. A, title VI, §611(d), title X, §1071(c)(3), Oct. 17, 2006, 120 Stat. 2247, 2400; Pub. L. 110–181, div. A, title VI, §611(d), Jan. 28, 2008, 122 Stat. 148; Pub. L. 110–417, \[div. A\], title VI, §611(d), Oct. 14, 2008, 122 Stat. 4484; Pub. L. 111–84, div. A, title VI, §611(4), Oct. 28, 2009, 123 Stat. 2352; Pub. L. 111–383, div. A, title VI, §611(4), Jan. 7, 2011, 124 Stat. 4236.)
+(Added Pub. L. 98–94, title X, §1011(a), Sept. 24, 1983, 97 Stat. 663; amended Pub. L. 99–145, title VI, §646(a)(1), title XIII, §1303(b)(3), Nov. 8, 1985, 99 Stat. 654, 740; Pub. L. 100–180, div. A, title VI, §626(b), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §613, Nov. 29, 1989, 103 Stat. 1446; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–375, div. A, title VI, §618(d), Oct. 28, 2004, 118 Stat. 1950; Pub. L. 109–163, div. A, title VI, §§621(c), 687(b)(17), Jan. 6, 2006, 119 Stat. 3294, 3330; Pub. L. 109–364, div. A, title VI, §611(d), title X, §1071(c)(3), Oct. 17, 2006, 120 Stat. 2247, 2400; Pub. L. 110–181, div. A, title VI, §611(d), Jan. 28, 2008, 122 Stat. 148; Pub. L. 110–417, \[div. A\], title VI, §611(d), Oct. 14, 2008, 122 Stat. 4484; Pub. L. 111–84, div. A, title VI, §611(4), Oct. 28, 2009, 123 Stat. 2352; Pub. L. 111–383, div. A, title VI, §611(4), Jan. 7, 2011, 124 Stat. 4236; Pub. L. 112–81, div. A, title VI, §611(4), Dec. 31, 2011, 125 Stat. 1449.)
 
 #### Amendments
 
-<b>2011</b>—Subsec. (f)(2). Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
+<b>2011</b>—Subsec. (f)(2). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
+
+Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
 
 <b>2009</b>—Subsec. (f)(2). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
 
@@ -28,7 +30,7 @@
 
 Pub. L. 110–181 substituted “December 31, 2008” for “December 31, 2007”.
 
-<b>2006</b>—Subsec. (d). Pub. L. 109–163, §687(b)(17)(A), added subsec. (d) and struck out former subsec. (d) which read as follows: “A person who receives a bonus payment under this section and who fails during the period for which the bonus was paid to serve satisfactorily in the element of the Ready Reserve with respect to which thebonus was paid shall refund to the United States an amount which bears the same ratio to the amount of the bonus paid to such person as the period which such person failed to serve satisfactorily bears to the total period for which the bonus was paid.”
+<b>2006</b>—Subsec. (d). Pub. L. 109–163, §687(b)(17)(A), added subsec. (d) and struck out former subsec. (d) which read as follows: “A person who receives a bonus payment under this section and who fails during the period for which the bonus was paid to serve satisfactorily in the element of the Ready Reserve with respect to which the bonus was paid shall refund to the United States an amount which bears the same ratio to the amount of the bonus paid to such person as the period which such person failed to serve satisfactorily bears to the total period for which the bonus was paid.”
 
 Subsec. (e). Pub. L. 109–163, §687(b)(17)(B), (C), redesignated subsec. (g) as (e) and struck out former subsec. (e) which read as follows: “An obligation to reimburse the United States imposed under subsection (d) is, for all purposes, a debt owed to the United States.”
 

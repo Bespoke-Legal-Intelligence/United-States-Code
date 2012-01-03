@@ -96,7 +96,7 @@ For purposes of this section—
 
 #### (2) Maximum term
 
-&emsp;During each calendar month, the Secretary shall determine the maximum term permitted under this paragraph for bonds issued duringthe following calendar month. Such maximum term shall be the term which the Secretary estimates will result in the present value of the obligation to repay the principal on the bond being equal to 50 percent of the face amount of such bond. Such present value shall be determined without regard to the requirements of subsection (<i>l</i>)(6) and using as a discount rate the average annual interest rate of tax-exempt obligations having a term of 10 years or more which are issued during the month. If the term as so determined is not a multiple of a whole year, such term shall be rounded to the next highest whole year.
+&emsp;During each calendar month, the Secretary shall determine the maximum term permitted under this paragraph for bonds issued during the following calendar month. Such maximum term shall be the term which the Secretary estimates will result in the present value of the obligation to repay the principal on the bond being equal to 50 percent of the face amount of such bond. Such present value shall be determined without regard to the requirements of subsection (<i>l</i>)(6) and using as a discount rate the average annual interest rate of tax-exempt obligations having a term of 10 years or more which are issued during the month. If the term as so determined is not a multiple of a whole year, such term shall be rounded to the next highest whole year.
 
 #### (f) Limitation on amount of bonds designated
 
@@ -110,7 +110,7 @@ For purposes of this section—
 
 #### (g) Credit included in gross income
 
-Gross income includes the amount of the credit allowed to the taxpayer under this section (determined without regard to subsection (c)) and the amount so included shall be treated as interest income.
+Gross income includes the amount of the credit allowed to the taxpayer under this section\(determined without regard to subsection (c)) and the amount so included shall be treated as interest income.
 
 #### (h) Special rules relating to expenditures
 
@@ -280,7 +280,7 @@ Pub. L. 109–222, title V, §508(e), May 17, 2006, 120 Stat. 362, provided that
 
 Amendment by section 101(b)(1) of Pub. L. 109–135 applicable to taxable years ending on or after Aug. 28, 2005, see section 101(c)(1) of Pub. L. 109–135, set out as an Effective Date note under section 1400N of this title.
 
-Amendment by section 402(c) of Pub. L. 109–135 effective as if included in the provision of the Energy Policy Act of 2005, Pub. L. 109–58, to which such amendment relates, see section 402(m)(1) of Pub. L. 109–135, set out as an Effective and Termination Dates of 2005 Amendments note under section 36C of this title.
+Amendment by section 402(c) of Pub. L. 109–135 effective as if included in the provision of the Energy Policy Act of 2005, Pub. L. 109–58, to which such amendment relates, see section 402(m)(1) of Pub. L. 109–135, set out as an Effective and Termination Dates of 2005 Amendments note under section 23 of this title.
 
 #### Effective Date
 
@@ -288,7 +288,7 @@ Pub. L. 109–58, title XIII, §1303(e), Aug. 8, 2005, 119 Stat. 997, as amended
 
 “(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting this section and amending sections 1397E, 6049, and 6401 of this title\] shall apply to bonds issued after December 31, 2005.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting thissection and amending sections 1397E, 6049, and 6401 of this title\] shall apply to bonds issued after December 31, 2005.
 
 “(2)
 

@@ -6,9 +6,9 @@ The Commission shall submit to the President a report of the results of each rev
 
 #### Amendments
 
-1989—Pub. L. 101–194 amended section catchline generally and in text substituted “Commission with respect to rates of pay for” for “Commission of” and “December 15 next following the close of the fiscal year in which the review is conducted by the Commission.” for “December 15 of the fiscal year in which the review is conducted by the Commission.”
+<b>1989</b>—Pub. L. 101–194 amended section catchline generally and in text substituted “Commission with respect to rates of pay for” for “Commission of” and “December 15 next following the close of the fiscal year in which the review is conducted by the Commission.” for “December 15 of the fiscal year in which the review is conducted by the Commission.”
 
-1985—Pub. L. 99–190 substituted “December 15” for “January 1 next following the close”.
+<b>1985</b>—Pub. L. 99–190 substituted “December 15” for “January 1 next following the close”.
 
 #### 1985 Fiscal Year Recommendations on Pay Rates of Offices and Positions
 

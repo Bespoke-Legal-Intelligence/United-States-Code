@@ -15,7 +15,7 @@
 
 #### Amendments
 
-1970—Pub. L. 91–368, §1, July 31, 1970, 84 Stat. 692, added heading for chapter 2 and analysis of sections for such chapter.
+<b>1970</b>—Pub. L. 91–368, §1, July 31, 1970, 84 Stat. 692, added heading for chapter 2 and analysis of sections for such chapter.
 
 
 ---

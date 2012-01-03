@@ -84,7 +84,7 @@ Definitions.—In this section:
 
 <b>2011</b>—Subsec. (a). Pub. L. 111–383, §841(d), substituted “There is” for “The Secretary of Defense shall establish”.
 
-Subsec. (b)(3). Pub. L. 111–383, §1075(b)(8), which directed substitution of “Program Evaluation” for “Performance Evaluation”, could not be executed because of the amendment by Pub. L. 111–383, §841(c)(2). See below.
+Subsec. (b)(3). Pub. L. 111–383, §1075(b)(8), which directed substitution of “Program Evaluation” for “Performance Evaluation”, could not be executed becauseof the amendment by Pub. L. 111–383, §841(c)(2). See below.
 
 Pub. L. 111–383, §841(c)(2), substituted “advisors to the Council under subsection (d)” for “Under Secretary of Defense (Comptroller), the Under Secretary of Defense for Acquisition, Technology, and Logistics, and the Director of Cost Assessment and Performance Evaluation”.
 

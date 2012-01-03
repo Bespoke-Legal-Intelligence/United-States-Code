@@ -1,6 +1,6 @@
 ### §1738r. “Qualified debt” defined
 
-As used in sections 1738<i>o</i>, 1738p, and 1738q of this title, the term “qualified debt” means anyobligation, or portion of such obligation, of an eligible country to pay for purchases of United States agricultural commodities guaranteed by the Commodity Credit Corporation under export credit guarantee programs authorized pursuant to section 714c(f) of title 15 or section 1707a(b) <sup>1</sup> of this title—
+As used in sections 1738<i>o</i>, 1738p, and 1738q of this title, the term “qualified debt” means any obligation, or portion of such obligation, of an eligible country to pay for purchases of United States agricultural commodities guaranteed by the Commodity Credit Corporation under export credit guarantee programs authorized pursuant to section 714c(f) of title 15 or section 1707a(b) <sup>1</sup> of this title—
 
 &emsp;(1) in which the Commodity Credit Corporation obtained a legal right or interest, as a result of assignment or subrogation, not later than September 1, 1992; and
 
@@ -13,4 +13,6 @@ As used in sections 1738<i>o</i>, 1738p, and 1738q of this title, the term “qu
 #### References in Text
 
 Section 1707a of this title, referred to in text, was repealed by Pub. L. 101–624, title XV, §1574, Nov. 28, 1990, 104 Stat. 3702. See section 5621 et seq. of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

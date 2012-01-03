@@ -10,5 +10,5 @@ R.S. §102 derived from act Jan. 24, 1857, ch. 19, §1, 11 Stat. 155.
 
 #### Amendments
 
-1938—Act June 22, 1938, reenacted section without change.
+<b>1938</b>—Act June 22, 1938, reenacted section without change.
 

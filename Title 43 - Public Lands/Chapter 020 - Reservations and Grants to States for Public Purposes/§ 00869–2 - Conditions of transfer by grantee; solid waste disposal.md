@@ -22,7 +22,7 @@ Title to lands conveyed by the Government under sections 869 to 869–4 of this 
 
 &emsp;(B) In the event that at any time after such conveyance any portion of such lands has not been used for the purpose or purposes specified in the application, and the party to whom such lands were conveyed by the Secretary shall transfer ownership of such unused portion to any other party, the party to whom such lands were conveyed by the Secretary shall be liable to pay the Secretary, on behalf of the United States, the fair market value of such transferred portion as of the date of such transfer, including the value of any improvements thereon. Subject to appropriations, all amounts received by the Secretary under this subparagraph shall be retained by the Secretary and used for the management of public lands and shall remain available until expended.
 
-&emsp;(C) Pricing for conveyances of land under this subsection shall be in accordance with the provisions of section 869–1 of this title, exceptthat no compensation shall be required for the inclusion of only the limited reverter specified in this paragraph.
+&emsp;(C) Pricing for conveyances of land under this subsection shall be in accordance with the provisions of section 869–1 of this title, except that no compensation shall be required for the inclusion of only the limited reverter specified in this paragraph.
 
 &emsp;(D) Each patent issued under this subsection shall specify that no portion of the lands covered by such patent shall under any circumstances revert to the United States if such portion has been used for solid waste disposal or for any other purpose that the Secretary finds may result in the disposal, placement, or release of any hazardous substance.
 

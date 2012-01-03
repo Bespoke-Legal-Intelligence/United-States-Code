@@ -26,7 +26,7 @@ Definitions.—For purposes of this section—
 
 &emsp;(9) the term “sexually explicit conduct” means actual or simulated—
 
-&emsp;&emsp;(A) sexual intercourse, including sexual contact in the manner of genital-genital, oral-genital, anal-genital, or oral-anal contact, whether between persons of the same or of opposite sex; sexual contact means theintentional touching, either directly or through clothing, of the genitalia, anus, groin, breast, inner thigh, or buttocks of any person with an intent to abuse, humiliate, harass, degrade, or arouse or gratify sexual desire of any person;
+&emsp;&emsp;(A) sexual intercourse, including sexual contact in the manner of genital-genital, oral-genital, anal-genital, or oral-anal contact, whether between persons of the same or of opposite sex; sexual contact means the intentional touching, either directly or through clothing, of the genitalia, anus, groin, breast, inner thigh, or buttocks of any person with an intent to abuse, humiliate, harass, degrade, or arouse or gratify sexual desire of any person;
 
 &emsp;&emsp;(B) bestiality;
 
@@ -182,7 +182,7 @@ Confidentiality of information.—(A) A person acting in a capacity described in
 
 &emsp;&emsp;(i) keep all documents that disclose the name or any other information concerning a child in a secure place to which no person who does not have reason to know their contents has access; and
 
-&emsp;&emsp;(ii) disclose documents described in clause (i) or the information in them that concerns a child only to persons who, by reason oftheir participation in the proceeding, have reason to know such information.
+&emsp;&emsp;(ii) disclose documents described in clause (i) or the information in them that concerns a child only to persons who, by reason of their participation in the proceeding, have reason to know such information.
 
 &emsp;(B) Subparagraph (A) applies to—
 
@@ -256,7 +256,7 @@ Guardian Ad Litem.—
 
 &emsp;(1)
 
-In general.—The court may appoint, and provide reasonable compensation and payment of expenses for, a guardian ad litem for a child who was a victim of, or a witness to, a crime involving abuse or exploitation to protect the best interests of the child. In making the appointment, the court shall consider a prospective guardian's background in, and familiarity with, the judicial process, social service programs, and child abuse issues. The guardian adlitem shall not be a person who is or may be a witness in a proceeding involving the child for whom the guardian is appointed.
+In general.—The court may appoint, and provide reasonable compensation and payment of expenses for, a guardian ad litem for a child who was a victim of, or a witness to, a crime involving abuse or exploitation to protect the best interests of the child. In making the appointment, the court shall consider a prospective guardian's background in, and familiarity with, the judicial process, social service programs, and child abuse issues. The guardian ad litem shall not be a person who is or may be a witness in a proceeding involving the child for whom the guardian is appointed.
 
 &emsp;(2)
 

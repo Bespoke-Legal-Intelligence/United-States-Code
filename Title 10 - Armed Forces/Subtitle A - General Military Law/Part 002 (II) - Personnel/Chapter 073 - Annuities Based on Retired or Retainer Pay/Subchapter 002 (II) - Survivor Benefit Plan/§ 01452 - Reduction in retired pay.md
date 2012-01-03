@@ -22,7 +22,7 @@ Members as of enactment of flat-rate reduction.—In the case of a person who fi
 
 &emsp;&emsp;&emsp;(iii)
 
-New entrants after enactment of flat-rate reduction.—In the case of a person who first becomes a member of a uniformed service on or after March 1, 1990, and who is entitled to retired pay under a provision of law other than chapter 61 or chapter 1223 of this title, the reduction shall be in an amount equal to 61/2 percent of the base amount.
+New entrants after enactment of flat-rate reduction.—In the case of a person who first becomes a member of a uniformed service on or after March 1, 1990, and who is entitled to retired pay under a provision of law other than chapter 61 or chapter 1223 of this title, the reduction shall be in an amount equal to 6½ percent of the base amount.
 
 &emsp;&emsp;&emsp;(iv)
 
@@ -30,11 +30,11 @@ Alternative reduction amounts.—For purposes of clauses (i) and (ii), the alter
 
 &emsp;&emsp;&emsp;&emsp;(I)
 
-Flat-rate reduction.—An amount equal to 61/2 percent of the base amount.
+Flat-rate reduction.—An amount equal to 6½ percent of the base amount.
 
 &emsp;&emsp;&emsp;&emsp;(II)
 
-Amount under pre-flat-rate reduction.—An amount equal to 21/2 percent of the first $337 (as adjusted after November 1, 1989, under paragraph (4)) of the base amount plus 10 percent of the remainder of the base amount.
+Amount under pre-flat-rate reduction.—An amount equal to 2½ percent of the first $337 (as adjusted after November 1, 1989, under paragraph (4)) of the base amount plus 10 percent of the remainder of the base amount.
 
 &emsp;&emsp;(B)
 
@@ -42,11 +42,11 @@ Reserve-component annuity.—If the annuity coverage being provided is a reserve
 
 &emsp;&emsp;&emsp;(i)
 
-Flat-rate reduction.—An amount equal to 61/2 percent of the base amount plus an amount determined in accordance with regulations prescribed by the Secretary of Defense as a premium for the additional coverage provided through reserve-component annuity coverage under the Plan.
+Flat-rate reduction.—An amount equal to 6½ percent of the base amount plus an amount determined in accordance with regulations prescribed by the Secretary of Defense as a premium for the additional coverage provided through reserve-component annuity coverage under the Plan.
 
 &emsp;&emsp;&emsp;(ii)
 
-Amount under pre-flat-rate reduction.—An amount equal to 21/2 percent of the first $337 (as adjusted after November 1, 1989, under paragraph (4)) of the base amount plus 10 percent of the remainder of the base amount plus an amount determined in accordance with regulations prescribed by the Secretary of Defense as a premium for the additional coverage provided through reserve-component annuity coverage under the Plan.
+Amount under pre-flat-rate reduction.—An amount equal to 2½ percent of the first $337 (as adjusted after November 1, 1989, under paragraph (4)) of the base amount plus 10 percent of the remainder of the base amount plus an amount determined in accordance with regulations prescribed by the Secretary of Defense as a premium for the additional coverage provided through reserve-component annuity coverage under the Plan.
 
 &emsp;(2)
 
@@ -62,11 +62,11 @@ Periodic adjustments.—
 
 &emsp;&emsp;(A)
 
-Adjustments for increases in rates of basic pay.—Whenever there is an increase in the rates of basic pay of members of the uniformed services effective on or after October 1, 1985, the amounts under paragraph (1) with respect to which the percentage factor of 21/2 is applied shall be increased by the overall percentage of such increase in the rates of basic pay. The increase under the preceding sentence shall apply only with respect to persons whose retired pay is computed based on the rates of basic pay in effect on or after the date of such increase in rates of basic pay.
+Adjustments for increases in rates of basic pay.—Whenever there is an increase in the rates of basic pay of members of the uniformed services effective on or after October 1, 1985, the amounts under paragraph (1) with respect to which the percentage factor of 2½ is applied shall be increased by the overall percentage of such increase in the rates of basic pay. The increase under the preceding sentence shall apply only with respect to persons whose retired pay is computed based on the rates of basic pay in effect on or after the date of such increase in rates of basic pay.
 
 &emsp;&emsp;(B)
 
-Adjustments for retired pay colas.—In addition to the increase under subparagraph (A), the amounts under paragraph (1) with respect to which the percentage factor of 21/2 is applied shall be further increased at the same time and by the same percentage as an increase in retired pay under section 1401a of this title effective on or after October 1, 1985. Such increase under the preceding sentence shall apply only with respect to a person who initially participates in the Plan on a date which is after both the effective date of such increase under section 1401a and the effective date of the rates of basic pay upon which that person's retired pay is computed.
+Adjustments for retired pay colas.—In addition to the increase under subparagraph (A), the amounts under paragraph (1) with respect to which the percentage factor of 2½ is applied shall be further increased at the same time and by the same percentage as an increase in retired pay under section 1401a of this title effective on or after October 1, 1985. Such increase under the preceding sentence shall apply only with respect to a person who initially participates in the Plan on a date which is after both the effective date of such increase under section 1401a and the effective date of the rates of basic pay upon which that person's retired pay is computed.
 
 &emsp;(5)
 
@@ -294,7 +294,7 @@ Subsec. (h)(2). Pub. L. 104–201, §635(a), added par. (2).
 
 Subsec. (a)(1). Pub. L. 101–189, §1402(a), added par. (1) and struck out former par. (1) which read as follows: “Except as provided in subsection (b), the retired pay of a person to whom section 1448 of this title applies who has a spouse or former spouse, or who has a spouse or former spouse and a dependent child, and who has not elected to provide an annuity to a person designated by him under section 1450(a)(4) of this title, or who had elected to provide such an annuity to such a person but has changed his election in favor of his spouse under section 1450(f) of this title, shall be reduced each month—
 
-&emsp;“(A) by an amount equal to 21/2 percent of the first $300 (as adjusted from time to time under paragraph (4)) of the base amount plus 10 percent of the remainder of the base amount, if the person is providing a standard annuity; or
+&emsp;“(A) by an amount equal to 2½ percent of the first $300 (as adjusted from time to time under paragraph (4)) of the base amount plus 10 percent of the remainder of the base amount, if the person is providing a standard annuity; or
 
 &emsp;“(B) by an amount prescribed under regulations of the Secretary of Defense, if the person is providing a reserve-component annuity.”
 
@@ -342,7 +342,7 @@ Subsec. (g)(4). Pub. L. 97–22, §11(a)(5), substituted “this section” for 
 
 <b>1980</b>—Subsecs. (g), (h). Pub. L. 96–402, added subsecs. (g) and (h).
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–397, §205(a), substituted pars. (1) and (2) for “by an amount equal to 21/2 percent of the first $300 of the base amount plus 10 percent of the remainder of the base amount” after “shall be reduced each month”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–397, §205(a), substituted pars. (1) and (2) for “by an amount equal to 2½ percent of the first $300 of the base amount plus 10 percent of the remainder of the base amount” after “shall be reduced each month”.
 
 Subsec. (c). Pub. L. 95–397, §205(b), substituted pars. (1) and (2) for “by 10 percent plus 5 percent for each full 5 years the individual designated is younger than that person. However, the total reduction may not exceed 40 percent. The reduction in retired or retainer pay prescribed by this subsection shall continue during the lifetime of the person designated under section 1450(a)(4) of this title or until the person receiving retired or retainer pay changes his election under section 1450(f)”, and inserted provision following par. (2) that the total reduction under clause (1) may not exceed 40 percent, and that the reduction in retired or retainer pay shall continue during the lifetime of the person designated under section 1450(a)(4) of this title or until the person changes his election under section 1450(f) of this title.
 
@@ -408,11 +408,11 @@ Persons covered.—A person referred to in paragraph (1) as described in this pa
 
 &emsp;“(B) is providing spouse coverage (as described in paragraph (5) of section 1452\[(a)\] of title 10, United States Code, as added by subsection (b)); and
 
-&emsp;“(C) is subject to an SBP premium in excess of 61/2 percent of the base amount of that person under the Survivor Benefit Plan.
+&emsp;“(C) is subject to an SBP premium in excess of 6½ percent of the base amount of that person under the Survivor Benefit Plan.
 
 “(3)
 
-Amount of recomputed premium.—The amount of an SBP premium recomputed under this subsection shall be 61/2 percent of the base amount under the Survivor Benefit Plan of the person whose premium is recomputed.
+Amount of recomputed premium.—The amount of an SBP premium recomputed under this subsection shall be 6½ percent of the base amount under the Survivor Benefit Plan of the person whose premium is recomputed.
 
 “(4)
 

@@ -1,8 +1,8 @@
 ### §1583. Employment of certain persons without pay
 
-The Secretary of Defense may employ, without pay, not more than 10 persons of outstanding experience and ability. However, a person so employed may be allowed transportation, and not more than $15 a day instead of subsistence, while away from his home or regular place of business pursuant to employment under this section.
+The Secretary of Defense and the Secretaries of the military departments may each employ, without pay, not more than 10 persons of outstanding experience and ability. However, a person so employed may be allowed transportation, and not more than $15 a day instead of subsistence, while away from his home or regular place of business pursuant to employment under this section.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 118; Pub. L. 89–718, §14, Nov. 2, 1966, 80 Stat. 1117; Pub. L. 97–295, §1(20)(A), (B), Oct. 12, 1982, 96 Stat. 1290.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 118; Pub. L. 89–718, §14, Nov. 2, 1966, 80 Stat. 1117; Pub. L. 97–295, §1(20)(A), (B), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 112–81, div. A, title XI, §1111, Dec. 31, 2011, 125 Stat. 1616.)
 
 Historical and Revision Notes
 
@@ -23,6 +23,10 @@ Jan. 6, 1951, ch. 1213, subch. VII, §704, 64 Stat. 1235.
 5:171v (words of 1st sentence after semicolon).
 
 #### Amendments
+
+<b>2011</b>—Pub. L. 112–81, §1111(2), inserted “each” after “may” in first sentence.
+
+Pub. L. 112–81, §1111(1), which directed amendment of first sentence by inserting “and the Secretaries of the military departments” after “the Secretary of Defense”, was executed by making the insertion after “The Secretary of Defense” to reflect the probable intent of Congress.
 
 <b>1982</b>—Pub. L. 97–295 substituted “pay” for “compensation” in section catchline and text.
 

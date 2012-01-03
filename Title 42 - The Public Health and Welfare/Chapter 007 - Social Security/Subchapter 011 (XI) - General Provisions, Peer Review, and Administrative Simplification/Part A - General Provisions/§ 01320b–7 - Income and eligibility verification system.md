@@ -126,11 +126,9 @@ Each Federal agency responsible for administration of a program described in sub
 
 Subsections (a)(1) and (d) of this section shall not apply with respect to aliens seeking medical assistance for the treatment of an emergency medical condition under section 1396b(v)(2) of this title.
 
-(Aug. 14, 1935, ch. 531, title XI, §1137, as added Pub. L. 98–369, div. B, title VI, §2651(a), July 18, 1984, 98 Stat. 1147; amended Pub. L. 99–509, title IX, §9101, Oct. 21, 1986, 100 Stat. 1972; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–603, title I, §121(a)(1), Nov. 6, 1986, 100 Stat. 3384; Pub. L. 100–360, title IV, §411(k)(15)(A), July 1, 1988, 102 Stat. 799; Pub. L. 103–432, title II, §231, Oct. 31, 1994, 108 Stat. 4462; Pub. L. 104–193, title I, §108(g)(8), title III, §313(c), Aug. 22, 1996, 110 Stat. 2168, 2212; Pub. L. 104–208, div. C, title V, §507(a), Sept. 30, 1996, 110 Stat. 3009–673; Pub. L. 106–169, title IV, §401(p), Dec. 14, 1999, 113 Stat. 1859; Pub. L. 106–170, title IV, §405(a), (b), Dec. 17, 1999, 113 Stat. 1911; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(V), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858.)
+(Aug. 14, 1935, ch. 531, title XI, §1137, as added Pub. L. 98–369, div. B, title VI, §2651(a), July 18, 1984, 98 Stat. 1147; amended Pub. L. 99–509, title IX, §9101, Oct. 21, 1986, 100 Stat. 1972; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–603, title I, §121(a)(1), Nov. 6, 1986, 100 Stat. 3384; Pub. L. 100–360, title IV, §411(k)(15)(A), July 1, 1988, 102 Stat. 799; Pub. L. 103–432, title II, §231, Oct. 31, 1994, 108 Stat. 4462; Pub. L. 104–193, title I, §108(g)(8), title III, §313(c), Aug. 22, 1996, 110 Stat. 2168, 2212; Pub. L. 104–208, div. C, title V,§507(a), Sept. 30, 1996, 110 Stat. 3009–673; Pub. L. 106–169, title IV, §401(p), Dec. 14, 1999, 113 Stat. 1859; Pub. L. 106–170, title IV, §405(a), (b), Dec. 17, 1999, 113 Stat. 1911; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(V), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858.)
 
 #### References in Text
-
-Parts A and D of subchapter IV of this chapter, referred to in subsecs. (a)(4)(B) and (b)(1), are classified to sections 601 et seq. and 651 et seq., respectively, of this title.
 
 The Internal Revenue Code of 1986, referred to in subsecs. (a)(2), (3), (4)(B), (5), (b)(3), and (c)(1), is classified generally to Title 26, Internal Revenue Code.
 
@@ -198,7 +196,7 @@ Amendment by section 401(p) of Pub. L. 106–169 effective as if included in the
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 108(g)(8) of Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of this title.
+Amendment by section 108(g)(8) of Pub. L. 104–193 effective July 1, 1997, with transition rules relating toState options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of this title.
 
 For effective date of amendment by section 313(c) of Pub. L. 104–193, see section 395(a)–(c) of Pub. L. 104–193, set out as a note under section 654 of this title.
 
@@ -212,7 +210,7 @@ Pub. L. 99–603, title I, §121(c)(3), (4), Nov. 6, 1986, 100 Stat. 3391, 3392,
 
 “(3)
 
-Use of verification system required in fiscal year 1989.—Except as provided in paragraph (4), the amendments made by subsection (a) \[amending this section, section 1436a of this title, and section 1091 ofTitle 20, Education\] take effect on October 1, 1988. States have until that date to begin complying with the requirements imposed by those amendments.
+Use of verification system required in fiscal year 1989.—Except as provided in paragraph (4), the amendments made by subsection (a) \[amending this section, section 1436a of this title, and section 1091 of Title 20, Education\] take effect on October 1, 1988. States have until that date to begin complying with the requirements imposed by those amendments.
 
 “(4)
 
@@ -312,7 +310,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### Immigration and Naturalization Service To Establish Verification System by October 1, 1987
 
-Section 121(c)(1) of Pub. L. 99–603 provided that: “The Commissioner of Immigration and Naturalization shallimplement a system for the verification of immigration status under paragraphs (3) and (4)(B)(i) of section 1137(d) of the Social Security Act \[subsec. (d)(3) and (4)(B)(i) of this section\] (as amended by this section) so that the system is available to all the States by not later than October 1, 1987. Such system shall not be used by the Immigration and Naturalization Service for administrative (non-criminal) immigration enforcement purposes and shall be implemented in a manner that provides for verification of immigration status without regard to the sex, color, race, religion, or nationality of the individual involved.”
+Section 121(c)(1) of Pub. L. 99–603 provided that: “The Commissioner of Immigration and Naturalization shall implement a system for the verification of immigration status under paragraphs (3) and (4)(B)(i) of section 1137(d) of the Social Security Act \[subsec. (d)(3) and (4)(B)(i) of this section\] (as amended by this section) so that the system is available to all the States by not later than October 1, 1987. Such system shall not be used by the Immigration and Naturalization Service for administrative (non-criminal) immigration enforcement purposes and shall be implemented in a manner that provides for verification of immigration status without regard to the sex, color, race, religion, or nationality of the individual involved.”
 
 #### General Accounting Office Reports
 

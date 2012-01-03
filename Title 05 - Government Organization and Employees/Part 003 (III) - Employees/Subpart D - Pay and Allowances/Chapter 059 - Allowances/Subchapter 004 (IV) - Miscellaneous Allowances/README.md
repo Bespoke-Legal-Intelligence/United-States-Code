@@ -52,7 +52,7 @@ Definitions.—For purposes of this section—
 
 &emsp;&emsp;“(A) legal liability for damages due to injuries to other persons, damage to their property, or other damage or loss to such other persons (including the expenses of litigation and settlement) resulting from or arising out of any tortious act, error, or omission of the covered individual (whether common law, statutory, or constitutional) while in the performance of such individual's official duties as a qualified employee; and
 
-&emsp;&emsp;“(B) the cost of legal representation for the covered individual in connection with any administrative or judicial proceeding (including any investigation or disciplinary proceeding) relating to any act, error, or omission of the covered individual while in the performance of such individual's official duties as a qualified employee, and other legal costs and fees relating to any such administrative or judicial proceeding; and
+&emsp;&emsp;“(B) the cost of legal representation for the covered individual in connection with any administrative or judicial proceeding (including any investigation or disciplinary proceeding) relating to any act, error, or omission of the covered individual while inthe performance of such individual's official duties as a qualified employee, and other legal costs and fees relating to any such administrative or judicial proceeding; and
 
 &emsp;“(5) notwithstanding the definition of the terms ‘supervisor’ and ‘management official’ under section 7103(a) of title 5, United States Code, the term ‘temporary fire line manager’ means an employee of the Forest Service or the Department of the Interior, whose duties include, as determined by the employing agency—
 

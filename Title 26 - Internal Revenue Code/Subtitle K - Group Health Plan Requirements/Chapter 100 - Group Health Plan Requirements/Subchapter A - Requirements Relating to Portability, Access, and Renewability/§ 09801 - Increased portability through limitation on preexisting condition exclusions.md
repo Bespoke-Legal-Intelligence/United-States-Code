@@ -94,7 +94,7 @@ For purposes of this section—
 
 #### (D) TAA-eligible individuals
 
-&emsp;&emsp;In the case of plan years beginning before February 13, 2011—
+&emsp;&emsp;In the case of plan years beginning before January 1, 2014—
 
 #### (i) TAA pre-certification period rule
 
@@ -118,7 +118,7 @@ For purposes of this section—
 
 &emsp;&emsp;In the case of an election with respect to a group health plan under subparagraph (B), the plan shall—
 
-&emsp;&emsp;&emsp;(i) prominently state in any disclosure statements concerning the plan, and stateto each enrollee at the time of enrollment under the plan, that the plan has made such election, and
+&emsp;&emsp;&emsp;(i) prominently state in any disclosure statements concerning the plan, and state to each enrollee at the time of enrollment under the plan, that the plan has made such election, and
 
 &emsp;&emsp;&emsp;(ii) include in such statements a description of the effect of this election.
 
@@ -184,7 +184,7 @@ For purposes of this section—
 
 #### (3) Regulations
 
-&emsp;The Secretary shall establish rules to prevent an entity's failure to provide information under paragraph (1) or (2) with respect to previous coverage of an individual from adversely affecting any subsequent coverage of the individual under another group health plan or health insurance coverage.
+&emsp;The Secretary shall establish rules to prevent an entity's failure to provide information under paragraph (1) or (2) with respect to previous coverage of an individual from adverselyaffecting any subsequent coverage of the individual under another group health plan or health insurance coverage.
 
 #### (f) Special enrollment periods
 
@@ -194,7 +194,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) The employee or dependent was covered under a group health plan or had health insurance coverage at the time coverage was previously offered to the employee or individual.
 
-&emsp;&emsp;(B) The employee stated in writing at such time that coverage under a group health plan or health insurance coverage was the reason for declining enrollment, but only if the plan sponsor (or the health insurance issuer offering health insurance coverage inconnection with the plan) required such a statement at such time and provided the employee with notice of such requirement (and the consequences of such requirement) at such time.
+&emsp;&emsp;(B) The employee stated in writing at such time that coverage under a group health plan or health insurance coverage was the reason for declining enrollment, but only if the plan sponsor (or the health insurance issuer offering health insurance coverage in connection with the plan) required such a statement at such time and provided the employee with notice of such requirement (and the consequences of such requirement) at such time.
 
 &emsp;&emsp;(C) The employee's or dependent's coverage described in subparagraph (A)—
 
@@ -256,7 +256,7 @@ For purposes of this section—
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Each employer that maintains a group health plan in a State that provides medical assistance under a State Medicaid plan under title XIX of the Social Security Act, or child health assistance under a State child health plan under title XXI of such Act, in the form of premium assistance for the purchase of coverage under a group health plan, shall provide to each employee a written notice informing the employee of potential opportunities then currently available in the State in which the employee resides for premium assistance under such plans for health coverage of the employee or the employee's dependents. For purposes of compliance with this clause, the employer may use any State-specific model notice developed in accordance with section 701(f)(3)(B)(i)(II) of the EmployeeRetirement Income Security Act of 1974 (29 U.S.C. 1181(f)(3)(B)(i)(II)).
+&emsp;&emsp;&emsp;&emsp;Each employer that maintains a group health plan in a State that provides medical assistance under a State Medicaid plan under title XIX of the Social Security Act, or child health assistance under a State child health plan under title XXI of such Act, in the form of premium assistance for the purchase of coverage under a group health plan, shall provide to each employee a written notice informing the employee of potential opportunities then currently available in the State in which the employee resides for premium assistance under such plans for health coverage of the employee or the employee's dependents. For purposes of compliance with this clause, the employer may use any State-specific model notice developed in accordance with section 701(f)(3)(B)(i)(II) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1181(f)(3)(B)(i)(II)).
 
 #### (II) Option to provide concurrent with provision of plan materials to employee
 
@@ -266,7 +266,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;In the case of a participant or beneficiary of a group health plan who is covered under a Medicaid plan of a State under title XIX of the Social Security Act or under a State child health plan under title XXI of such Act, the plan administrator of the group health plan shall disclose to the State, upon request, information about the benefits available under the group health plan in sufficient specificity, as determined under regulations of the Secretary of Health and Human Services in consultation with the Secretary that require use of the model coverage coordination disclosure form developed under section 311(b)(1)(C) of the Children's Health Insurance Program Reauthorization Act of 2009, so as to permit the State to make a determination (under paragraph (2)(B), (3), or (10) of section 2105(c) of the Social Security Act or otherwise) concerning the cost-effectiveness of the State providing medical or child health assistance through premium assistance for the purchase of coverage under such group health plan and in order for the State to provide supplemental benefits required under paragraph (10)(E) of such section or other authority.
 
-(Added Pub. L. 104–191, title IV, §401(a), Aug. 21, 1996, 110 Stat. 2073; amended Pub. L. 105–34, title XV, §1531(b)(1)(A), Aug. 5, 1997, 111 Stat. 1084; Pub. L. 111–3, title III, §311(a), Feb. 4, 2009, 123 Stat. 64; Pub. L. 111–5, div. B, title I, §1899D(a), Feb. 17, 2009, 123 Stat. 425; Pub. L. 111–344, title I, §114(a), Dec. 29, 2010, 124 Stat. 3615.)
+(Added Pub. L. 104–191, title IV, §401(a), Aug. 21, 1996, 110 Stat. 2073; amended Pub. L. 105–34, title XV, §1531(b)(1)(A), Aug. 5, 1997, 111 Stat. 1084; Pub. L. 111–3, title III, §311(a), Feb. 4, 2009, 123 Stat. 64; Pub. L. 111–5, div. B, title I, §1899D(a), Feb. 17, 2009, 123 Stat. 425; Pub. L. 111–344, title I, §114(a), Dec. 29, 2010, 124 Stat. 3615; Pub. L. 112–40, title II, §242(a)(1), Oct. 21, 2011, 125 Stat. 419.)
 
 #### References in Text
 
@@ -276,6 +276,8 @@ Section 311(b)(1)(C) of the Children's Health Insurance Program Reauthorization 
 
 #### Amendments
 
+<b>2011</b>—Subsec. (c)(2)(D). Pub. L. 112–40 substituted “January 1, 2014” for “February 13, 2011” in introductory provisions.
+
 <b>2010</b>—Subsec. (c)(2)(D). Pub. L. 111–344 substituted “February 13, 2011” for “January 1, 2011” in introductory provisions.
 
 <b>2009</b>—Subsec. (c)(2)(D). Pub. L. 111–5 added subpar. (D).
@@ -283,6 +285,30 @@ Section 311(b)(1)(C) of the Children's Health Insurance Program Reauthorization 
 Subsec. (f)(3). Pub. L. 111–3 added par. (3).
 
 <b>1997</b>—Subsec. (c)(1). Pub. L. 105–34 substituted “section 9832(c)” for “section 9805(c)” in concluding provisions.
+
+#### Effective Date of 2011 Amendment
+
+Pub. L. 112–40, title II, §242(b), Oct. 21, 2011, 125 Stat. 419, provided that:
+
+“(1)
+
+In general.—The amendments made by this section \[amending this section, section 1181 of Title 29, Labor, and sections 300gg and 300gg–3 of Title 42, The Public Health and Welfare\] shall apply to plan years beginning after February 12, 2011.
+
+“(2)
+
+Transitional rules.—
+
+&emsp;“(A)
+
+Benefit determinations.—Notwithstanding the amendments made by this section (and the provisions of law amended thereby), a plan shall not be required to modify benefit determinations for the period beginning on February 13, 2011, and ending 30 days after the date of the enactment of this Act \[Oct. 21, 2011\], but a plan shall not fail to be qualified health insurance within the meaning of section 35(e) of the Internal Revenue Code of 1986 during this period merely due to such failure to modify benefit determinations.
+
+&emsp;“(B)
+
+Guidance concerning periods before 30 days after enactment.—Except as provided in subparagraph (A), the Secretary of the Treasury (or his designee), in consultation with the Secretary of Health and Human Services and the Secretary of Labor, may issue regulations or other guidance regarding the scope of the application of the amendments made by this section to periods before the date which is 30 days after the date of the enactment of this Act.
+
+&emsp;“(C)
+
+Special rule relating to certain loss of coverage.—In the case of a TAA-related loss of coverage (as defined in section 4980B(f)(5)(C)(iv) of the Internal Revenue Code of 1986) that occurs during the period beginning on February 13, 2011, and ending 30 days after the date of the enactment of this Act, the 7-day period described in section 9801(c)(2)(D) of the Internal Revenue Code of 1986, section 701(c)(2)(C) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1181(c)(2)(C)\], and section 2701(c)(2)(C) of the Public Health Service Act \[renumbered section 2704(c)(2)(C), see 42 U.S.C. 300gg–3(c)(2)(C)\] shall be extended until 30 days after such date of enactment.”
 
 #### Effective Date of 2010 Amendment
 

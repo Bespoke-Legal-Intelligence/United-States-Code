@@ -1,4 +1,0 @@
-### §901a. Repealed. Pub. L. 105–33, title X, §10204(a)(1), Aug. 5, 1997, 111 Stat. 702
-
-Section, Pub. L. 99–177, title II, §251A, as added Pub. L. 103–322, title XXXI, §310001(g)(1), Sept. 13, 1994, 108 Stat. 2104, related to sequestration with respect to Violent Crime Reduction Trust Fund.
-

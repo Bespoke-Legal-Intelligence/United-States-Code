@@ -30,7 +30,7 @@ Each State Domestic Violence Coalition desiring a grant under this section shall
 
 A coalition that receives a grant under this section shall use the grant funds for administration and operations to further the purposes of family violence, domestic violence, and dating violence intervention and prevention, through activities that shall include—
 
-&emsp;(1) working with local family violence, domestic violence, and dating violence service programs and providers of direct services to encourage appropriate and comprehensive responses to family violence, domestic violence, and dating violence against adults or youth within the State involved, including providing training and technical assistance and conducting State needs assessments;
+&emsp;(1) working with local family violence, domestic violence, and dating violence service programs and providers of direct services to encourage appropriate and comprehensive responses to family violence, domestic violence, and dating violence against adults or youth within the State involved, including providingtraining and technical assistance and conducting State needs assessments;
 
 &emsp;(2) participating in planning and monitoring the distribution of subgrants and subgrant funds within the State under section 10408(a) of this title;
 

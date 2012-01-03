@@ -1,7 +1,5 @@
 ### SUBCHAPTER II—EMPLOYEES OF NONAPPROPRIATED FUND INSTRUMENTALITIES
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Longshore and”.</i>
-
 
 ---
 

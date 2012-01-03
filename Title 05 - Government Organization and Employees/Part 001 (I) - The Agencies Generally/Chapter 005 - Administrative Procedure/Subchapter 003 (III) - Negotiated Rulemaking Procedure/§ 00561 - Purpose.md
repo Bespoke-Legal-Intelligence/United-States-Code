@@ -6,7 +6,7 @@ The purpose of this subchapter is to establish a framework for the conduct of ne
 
 #### Amendments
 
-1992—Pub. L. 102–354 renumbered section 581 of this title as this section.
+<b>1992</b>—Pub. L. 102–354 renumbered section 581 of this title as this section.
 
 #### Effective Date of Repeal; Savings Provision
 

@@ -34,7 +34,7 @@ A civil action brought under subsection (a) of this section shall be referred to
 
 #### (4) Finality
 
-&emsp;The penalty assessed or cease and desist order issued under this subsection shall be final and conclusive unless the person against whom the penalty is assessed or the order is issued files an appeal with the appropriate district court of the United States in accordance with subsection (d) of this section.
+&emsp;The penalty assessed or cease and desist order issued under this subsection shall befinal and conclusive unless the person against whom the penalty is assessed or the order is issued files an appeal with the appropriate district court of the United States in accordance with subsection (d) of this section.
 
 #### (d) Review by district court
 

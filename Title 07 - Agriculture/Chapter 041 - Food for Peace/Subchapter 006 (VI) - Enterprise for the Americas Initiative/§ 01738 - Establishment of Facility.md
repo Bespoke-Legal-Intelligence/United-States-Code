@@ -38,7 +38,7 @@ Sec. 2. <i>Functions to be Performed by the Secretary of State</i>. (a) The Secr
 
 (b) The Secretary of State shall consult, as appropriate, with the Secretary of the Treasury and the Administrator of USAID, in the performance of functions under the provisions listed in subsection 2(a) of this order.
 
-(c) The Secretary of State shall consult, as appropriate, in the performance of functions under section607 of the ATDA Act, with the Secretary of Agriculture, the Secretary of Commerce, the Administrator of the Environmental Protection Agency, the Chairman of the Council on Environmental Quality, and the heads of such other executive departments and agencies as the Secretary of State determines appropriate.
+(c) The Secretary of State shall consult, as appropriate, in the performance of functions under section 607 of the ATDA Act, with the Secretary of Agriculture, the Secretary of Commerce, the Administrator of the Environmental Protection Agency, the Chairman of the Council on Environmental Quality, and the heads of such other executive departments and agencies as the Secretary of State determines appropriate.
 
 (d) The Secretary of State is hereby designated to receive advice or supplemental views on the President's behalf consistent with the following provisions of law:
 

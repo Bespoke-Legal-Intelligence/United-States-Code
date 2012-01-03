@@ -66,9 +66,9 @@ Sections 223 and 224 of the Social Security Act, referred to in subsec. (a)(2), 
 
 #### Amendments
 
-2003—Subsec. (d)(1). Pub. L. 108–176 substituted “subsection (g)” for “subsection (f)”.
+<b>2003</b>—Subsec. (d)(1). Pub. L. 108–176 substituted “subsection (g)” for “subsection (f)”.
 
-1988—Subsec. (a)(1)(B). Pub. L. 100–238, §122(c)(2)(A), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “An annuity computed under this paragraph shall not, for purposes of any adjustment under section 8462 (including any adjustment under subsection (c)(1) of such section), be considered to have commenced until after such annuity ceases to be determined under subparagraph (A)(i).”
+<b>1988</b>—Subsec. (a)(1)(B). Pub. L. 100–238, §122(c)(2)(A), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “An annuity computed under this paragraph shall not, for purposes of any adjustment under section 8462 (including any adjustment under subsection (c)(1) of such section), be considered to have commenced until after such annuity ceases to be determined under subparagraph (A)(i).”
 
 Subsec. (a)(2)(B)(i). Pub. L. 100–238, §122(a), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “For purposes of this paragraph, the assumed disability insurance benefit of an annuitant for any month shall be equal to—
 
@@ -84,7 +84,7 @@ Subsec. (b). Pub. L. 100–238, §122(b), amended subsec. (b) generally, substit
 
 Subsec. (d). Pub. L. 100–238, §122(c)(1), designated existing provisions as par. (1) and added par. (2).
 
-1986—Subsec. (b)(3). Pub. L. 99–556, §106, substituted “(a)(1)(A)(i)” for “(a)(1)(A)” in second sentence.
+<b>1986</b>—Subsec. (b)(3). Pub. L. 99–556, §106, substituted “(a)(1)(A)(i)” for “(a)(1)(A)” in second sentence.
 
 Subsec. (d). Pub. L. 99–556, §104, inserted “(after the reduction under subsection (a)(2), if applicable, has been made)”.
 

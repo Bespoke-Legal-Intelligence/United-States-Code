@@ -54,7 +54,7 @@
 
 #### (2) Activities and procedures
 
-&emsp;The eligible agency shall develop effective activities and procedures, including access to information needed to use such procedures, to allow the individuals and entities described inparagraph (1) to participate in State and local decisions that relate to development of the State plan.
+&emsp;The eligible agency shall develop effective activities and procedures, including access to information needed to use such procedures, to allow the individuals and entities described in paragraph (1) to participate in State and local decisions that relate to development of the State plan.
 
 #### (c) Plan contents
 
@@ -72,7 +72,7 @@ The State plan shall include information that—
 
 &emsp;&emsp;&emsp;(iv) lead to an industry-recognized credential or certificate at the postsecondary level, or an associate or baccalaureate degree;
 
-&emsp;&emsp;(B) how the eligible agency, in consultation with eligible recipients, will develop and implement the career and technical programs of study described in subparagraph (A);
+&emsp;&emsp;(B) how the eligible agency, in consultation with eligible recipients, will developand implement the career and technical programs of study described in subparagraph (A);
 
 &emsp;&emsp;(C) how the eligible agency will support eligible recipients in developing and implementing articulation agreements between secondary education and postsecondary education institutions;
 
@@ -194,7 +194,7 @@ The State plan shall include information that—
 
 #### (2) Plan submitted as part of 501 plan
 
-&emsp;The eligible agency may submit the plan required under this section as part of the plan submitted under section 501 of Public Law 105–220 \[20 U.S.C. 9271\], if the plan submitted pursuant to the requirement of this section meets the requirements of this chapter.
+&emsp;The eligible agency may submit the plan required under this section as part of the plan submitted under section 501 of Public Law 105–220 \[20 U.S.C. 9271\], if the plan submittedpursuant to the requirement of this section meets the requirements of this chapter.
 
 #### (e) Plan approval
 

@@ -8,7 +8,7 @@ General Authority.—Subject to this section and the availability of amounts, th
 
 State Plan Procedures and Contents.—(1) The Secretary shall prescribe procedures for a State to submit a plan under which the State agrees to assume responsibility for improving motor carrier safety and to adopt and enforce regulations, standards, and orders of the Government on commercial motor vehicle safety, hazardous materials transportation safety, or compatible State regulations, standards, and orders. The Secretary shall approve the plan if the Secretary decides the plan is adequate to promote the objectives of this section and the plan—
 
-&emsp;(A) implements performance-based activities, including deployment of technology to enhance the efficiency and effectiveness of commercial motor vehicle safety programs;
+&emsp;(A) implements performance-based activities, including deployment of technology toenhance the efficiency and effectiveness of commercial motor vehicle safety programs;
 
 &emsp;(B) designates the State motor vehicle safety agency responsible for administering the plan throughout the State;
 
@@ -146,7 +146,7 @@ In subsection (d), the words “the regulations, standards, or orders” are sub
 
 #### Amendments
 
-<b>2005</b>—Subsec. (b)(1)(A). Pub. L. 109–59, §4106(a)(1), added subpar. (A) and struck out former subpar. (A)which read as follows: “implements performance-based activities by fiscal year 2000;”.
+<b>2005</b>—Subsec. (b)(1)(A). Pub. L. 109–59, §4106(a)(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “implements performance-based activities by fiscal year 2000;”.
 
 Subsec. (b)(1)(E). Pub. L. 109–59, §4106(a)(2), added subpar. (E) and struck out former subpar. (E) which read as follows: “provides that the total expenditure of amounts of the State and its political subdivisions (not including amounts of the Government) for commercial motor vehicle safety programs for enforcement of commercial motor vehicle size and weight limitations, drug interdiction, and State traffic safety laws and regulations under subsection (c) of this section will be maintained at a level at least equal to the average level of that expenditure for its last 3 full fiscal years before December 18, 1991;”.
 

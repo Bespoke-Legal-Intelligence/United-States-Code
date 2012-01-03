@@ -68,7 +68,7 @@ Not later than 6 months after August 23, 1988, the Attorney General, after consu
 
 (2) Any document or other material which is provided to, received by, or prepared in the Department of Justice or any other department or agency of the United States in connection with a request by a domestic concern under the procedure established under paragraph (1), shall be exempt from disclosure under section 552 of title 5 and shall not, except with the consent of the domestic concern, be made publicly available, regardless of whether the Attorney General responds to such a request or the domestic concern withdraws such request before receiving a response.
 
-(3) Any domestic concern who has made a request to the Attorney General under paragraph\(1) may withdraw such request prior to the time the Attorney General issues an opinion in response to such request. Any request so withdrawn shall have no force or effect.
+(3) Any domestic concern who has made a request to the Attorney General under paragraph (1) may withdraw such request prior to the time the Attorney General issues an opinion in response to such request. Any request so withdrawn shall have no force or effect.
 
 (4) The Attorney General shall, to the maximum extent practicable, provide timely guidance concerning the Department of Justice's present enforcement policy with respect to the preceding provisions of this section to potential exporters and small businesses that are unable to obtain specialized counsel on issues pertaining to such provisions. Such guidance shall be limited to responses to requests under paragraph (1) concerning conformity of specified prospective conduct with the Department of Justice's present enforcement policy regarding the preceding provisions of this section and general explanations of compliance responsibilities and of potential liabilities under the preceding provisions of this section.
 
@@ -94,7 +94,7 @@ For purposes of this section:
 
 &emsp;&emsp;(B) any corporation, partnership, association, joint-stock company, business trust, unincorporated organization, or sole proprietorship which has its principal place of business in the United States, or which is organized under the laws of a State of the United States or a territory, possession, or commonwealth of the United States.
 
-&emsp;(2)(A) The term “foreign official” means any officer or employee of a foreign government or any department, agency, or instrumentality thereof, or of a public international organization, or any person acting in an official capacity for or on behalf of any such government or department, agency, or instrumentality, or for or on behalf of any such public international organization.
+&emsp;(2)(A) The term “foreign official” means any officer or employee of a foreign government or any department, agency, or instrumentality thereof, or of a public international organization, or any person acting in an official capacity for or on behalf of any such government or department, agency, or instrumentality, or foror on behalf of any such public international organization.
 
 &emsp;(B) For purposes of subparagraph (A), the term “public international organization” means—
 
@@ -132,7 +132,7 @@ For purposes of this section:
 
 #### (i) Alternative jurisdiction
 
-(1) It shall also be unlawful for any United States person to corruptly do any act outsidethe United States in furtherance of an offer, payment, promise to pay, or authorization of the payment of any money, or offer, gift, promise to give, or authorization of the giving of anything of value to any of the persons or entities set forth in paragraphs (1), (2), and (3) of subsection (a) of this section, for the purposes set forth therein, irrespective of whether such United States person makes use of the mails or any means or instrumentality of interstate commerce in furtherance of such offer, gift, payment, promise, or authorization.
+(1) It shall also be unlawful for any United States person to corruptly do any act outside the United States in furtherance of an offer, payment, promise to pay, or authorization of the payment of any money, or offer, gift, promise to give, or authorization of the giving of anything of value to any of the persons or entities set forth in paragraphs (1), (2), and (3) of subsection (a) of this section, for the purposes set forth therein, irrespective of whether such United States person makes use of the mails or any means or instrumentality of interstate commerce in furtherance of such offer, gift, payment, promise, or authorization.
 
 (2) As used in this subsection, the term “United States person” means a national of the United States (as defined in section 1101 of title 8) or any corporation, partnership, association, joint-stock company, business trust, unincorporated organization, or sole proprietorship organized under the laws of the United States or any State, territory, possession, or commonwealth of the United States, or any political subdivision thereof.
 
@@ -166,7 +166,7 @@ Subsec. (g)(1). Pub. L. 105–366, §3(b)(1), amended par. (1) generally. Prior 
 
 “(1)(A) Any domestic concern that violates subsection (a) of this section shall be fined not more than $2,000,000.
 
-“(B) Any domestic concern that violates subsection (a) of this section shall be subject to a civil penalty of not more than $10,000 imposed in an action brought by the Attorney General.”
+“(B) Any domestic concern that violates subsection (a) of this section shall be subject to a civil penalty ofnot more than $10,000 imposed in an action brought by the Attorney General.”
 
 Subsec. (g)(2). Pub. L. 105–366, §3(b)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows:
 

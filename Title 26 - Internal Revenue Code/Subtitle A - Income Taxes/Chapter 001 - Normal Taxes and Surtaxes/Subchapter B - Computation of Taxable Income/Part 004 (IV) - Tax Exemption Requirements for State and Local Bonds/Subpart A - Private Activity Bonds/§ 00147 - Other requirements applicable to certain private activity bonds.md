@@ -114,7 +114,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) has not at any time had any direct or indirect ownership interest in substantial farmland in the operation of which such individual materially participated, and
 
-&emsp;&emsp;&emsp;&emsp;(II) has not received financing under this paragraph in an amount which, when added to the financing to be provided under this paragraph, exceeds the amount in effect under subparagraph (A).
+&emsp;&emsp;&emsp;&emsp;(II) has not received financing under this paragraph in an amount which,when added to the financing to be provided under this paragraph, exceeds the amount in effect under subparagraph (A).
 
 #### (ii) Aggregation rules
 
@@ -368,7 +368,7 @@ Subsec. (c)(2)(G). Pub. L. 104–188, §1117(a), added subpar. (G).
 
 Subsec. (e). Pub. L. 100–647, §1013(a)(11), struck out “treated as” after “shall not be”.
 
-Subsec. (f)(2)(D). Pub. L. 100–647, §1013(a)(29), substituted “the average maturity date of the issue of which the refunding bond is a part is later than the average maturity date of the bonds to be refunded by such issue. For purposes of the preceding sentence, average maturity shall be determined in accordance with subsection (b)(2)(A)” for “the maturity date of such bond is later than the maturity date of the bond to be refunded”.
+Subsec. (f)(2)(D). Pub. L. 100–647, §1013(a)(29), substituted “the average maturity date of the issue of which the refunding bond is a part is later than the average maturity date of the bonds to be refunded by such issue. For purposes of the preceding sentence, average maturity shall be determined in accordance withsubsection (b)(2)(A)” for “the maturity date of such bond is later than the maturity date of the bond to be refunded”.
 
 Subsec. (f)(2)(E)(i). Pub. L. 100–647, §1013(a)(36), inserted sentence at end relating to treatment of an individual appointed to fill a vacancy in the office of an elected official.
 
@@ -420,5 +420,5 @@ Subsec. (f) applicable to bonds issued after Dec. 31, 1986, see section 1311(d) 
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certaintransactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 

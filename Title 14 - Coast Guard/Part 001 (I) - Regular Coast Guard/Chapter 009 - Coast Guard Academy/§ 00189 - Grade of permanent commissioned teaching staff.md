@@ -16,5 +16,5 @@ This section prescribes the relative ranks for the various grades in the permane
 
 #### Amendments
 
-1960—Pub. L. 86–474 substituted “and instructors with grade not above” for “and commissioned instructors with grade not above”, and “assistant professor, or instructor” for “or assistant professor”.
+<b>1960</b>—Pub. L. 86–474 substituted “and instructors with grade not above” for “and commissioned instructors with grade not above”, and “assistant professor, or instructor” for “or assistant professor”.
 

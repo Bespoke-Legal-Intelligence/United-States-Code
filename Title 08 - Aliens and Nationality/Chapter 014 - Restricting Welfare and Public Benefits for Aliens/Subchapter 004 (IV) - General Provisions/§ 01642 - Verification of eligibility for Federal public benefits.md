@@ -30,11 +30,11 @@ This chapter, referred to in subsec. (d), was in the original “this title” m
 
 #### Amendments
 
-1997—Subsec. (a)(1). Pub. L. 105–33, §5572(a)(1), inserted at end “Not later than 90 days after August 5, 1997, the Attorney General of the United States, after consultation with the Secretary of Health and Human Services, shall issue interim verification guidance.”
+<b>1997</b>—Subsec. (a)(1). Pub. L. 105–33, §5572(a)(1), inserted at end “Not later than 90 days after August 5, 1997, the Attorney General of the United States, after consultation with the Secretary of Health and Human Services, shall issue interim verification guidance.”
 
 Subsec. (a)(3). Pub. L. 105–33, §5572(a)(2), added par. (3).
 
-1996—Subsec. (a). Pub. L. 104–208, §504, designated existing provisions as par. (1) and added par. (2).
+<b>1996</b>—Subsec. (a). Pub. L. 104–208, §504, designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (d). Pub. L. 104–208, §508, added subsec. (d).
 

@@ -78,7 +78,7 @@ In this chapter:
 
 #### (15) Routine conveyance
 
-&emsp;The term “routine conveyance” means the transmission, routing, relaying, handling, or storing, through an automatic technical process, of an electronic mail message for which another person has identified the recipients or provided the recipient addresses.
+&emsp;The term “routine conveyance” means the transmission, routing, relaying, handling, orstoring, through an automatic technical process, of an electronic mail message for which another person has identified the recipients or provided the recipient addresses.
 
 #### (16) Sender
 

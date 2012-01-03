@@ -24,7 +24,7 @@ Section was formerly classified to section 1201 of Title 2, The Congress.
 
 #### Amendments
 
-<b>1995</b>—Pub. L. 104–1 amended section generally, substituting “rights of certain government employees” for “right of Senate and other government employees” in subsec. (b) and striking out definitions of “Senate employee” and “head of employing office” in subsec. (c).
+<b>1995</b>—Pub. L. 104–1 amended section generally, substituting “rights of certain government employees” for“right of Senate and other government employees” in subsec. (b) and striking out definitions of “Senate employee” and “head of employing office” in subsec. (c).
 
 <b>1994</b>—Subsec. (c)(1)(B) to (D). Pub. L. 103–283, which directed the amendment of subsec. (c) by striking out subpar. (B), redesignating subpars. (C) and (D) as (B) and (C), respectively, and striking out “or (B)” after “described in subparagraph (A)” in subpars. (B) and (C), was executed by making the amendment to subsec. (c)(1) to reflect the probable intent of Congress. Prior to amendment, subpar. (B) read as follows: “any employee of the Architect of the Capitol who is assigned to the Senate Restaurants or to the Superintendent of the Senate Office Buildings;”.
 

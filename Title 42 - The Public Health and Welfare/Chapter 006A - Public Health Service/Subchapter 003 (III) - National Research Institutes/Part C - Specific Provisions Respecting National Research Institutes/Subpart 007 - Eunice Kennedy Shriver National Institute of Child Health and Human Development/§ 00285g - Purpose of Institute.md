@@ -66,11 +66,9 @@ Requirement.—The study under subsection (b) shall—
 
 &emsp;“(3) consider health disparities among children which may include the consideration of prenatal exposures; and
 
-&emsp;“(4) be conducted in compliance with section 444 of the General Education Provisions Act (20 U.S.C. 1232g), including the requirement of prior parental consent for the disclosure of any education records, except without the use of authority or exceptions granted to authorized representatives of the Secretary of Education for the evaluation of Federally-supported education programs or in connection with the enforcement of the Federal legal requirements that relate to such programs.
+&emsp;“(4) be conducted in compliance with section 444 of the General Education Provisions Act (20 U.S.C. 1232g), including the requirement of prior parental consent for the disclosure of any education records, except without the use of authority or exceptions granted to authorized representatives of the Secretary of Education for the evaluation of Federally-supported education programs or in connection withthe enforcement of the Federal legal requirements that relate to such programs.
 
-“\[(d)
-
-Repealed. Pub. L. 109–482, title I, §104(b)(3)(E), Jan. 15, 2007, 120 Stat. 3694.\]
+“\[(d) Repealed. Pub. L. 109–482, title I, §104(b)(3)(E), Jan. 15, 2007, 120 Stat. 3694.\]
 
 “(e)
 
@@ -86,5 +84,5 @@ Pub. L. 99–660, title II, Nov. 14, 1986, 100 Stat. 3752, known as the National
 
 #### Definitions
 
-For meaning of references to an intellectual disability and to individuals with intellectual disabilities inprovisions amended by section 2 of Pub. L. 111–256, see section 2(k) of Pub. L. 111–256, set out as a note under section 1400 of Title 20, Education.
+For meaning of references to an intellectual disability and to individuals with intellectual disabilities in provisions amended by section 2 of Pub. L. 111–256, see section 2(k) of Pub. L. 111–256, set out as a note under section 1400 of Title 20, Education.
 

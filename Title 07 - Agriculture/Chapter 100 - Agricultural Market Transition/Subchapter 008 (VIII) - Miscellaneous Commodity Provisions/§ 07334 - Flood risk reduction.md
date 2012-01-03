@@ -20,11 +20,11 @@ Under the terms of the contract, with respect to acres that are subject to the c
 
 &emsp;(6) not apply for disaster program benefits provided by the Secretary; and
 
-&emsp;(7) refund the payments, with interest, issued under the flood risk reduction contractto the Secretary, if the producer violates the terms of the contract or if the producer transfers the property to another person who violates the contract.
+&emsp;(7) refund the payments, with interest, issued under the flood risk reduction contract to the Secretary, if the producer violates the terms of the contract or if the producer transfers the property to another person who violates the contract.
 
 #### (c) Duties of Secretary
 
-In return for a contract entered into by a producer under this section, the Secretary shall pay the producer an amount that is not more than 95 percent of projected contract payments under the Agricultural Market Transition Act \[7 U.S.C. 7201 et seq.\] that the Secretary estimates the producer would otherwise have received during the period beginning at the time the contract is entered into under this section and ending September 30, 2002.
+In return for a contract entered into by a producer under this section, the Secretary shall paythe producer an amount that is not more than 95 percent of projected contract payments under the Agricultural Market Transition Act \[7 U.S.C. 7201 et seq.\] that the Secretary estimates the producer would otherwise have received during the period beginning at the time the contract is entered into under this section and ending September 30, 2002.
 
 #### (d) Commodity Credit Corporation
 

@@ -48,7 +48,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The WTC Program Administrator in consultation with the Data Centers shall establish a process for individuals, other than individuals described in subparagraph\(A)(i), to be determined to be screening-eligible WTC survivors. Under such process—
+&emsp;&emsp;&emsp;The WTC Program Administrator in consultation with the Data Centers shall establish a process for individuals, other than individuals described in subparagraph (A)(i), to be determined to be screening-eligible WTC survivors. Under such process—
 
 &emsp;&emsp;&emsp;&emsp;(I) there shall be no fee charged to the applicant for making an application for such determination;
 
@@ -120,7 +120,7 @@
 
 #### (4) Disqualification of individuals on terrorist watch list
 
-&emsp;No individual who is on the terrorist watch list maintained by the Department of Homeland Security shall qualify as a screening-eligible WTC survivor or a certified-eligible WTC survivor. Before determining any individual to be a screening-eligible WTC survivor under paragraph (1) or certifying any individual as acertified eligible <sup>1</sup> WTC survivor under paragraph (2), the Administrator, in consultation with the Secretary of Homeland Security, shall determine whether the individual is on such list.
+&emsp;No individual who is on the terrorist watch list maintained by the Department of Homeland Security shall qualify as a screening-eligible WTC survivor or a certified-eligible WTC survivor. Before determining any individual to be a screening-eligible WTC survivor under paragraph (1) or certifying any individual as a certified eligible <sup>1</sup> WTC survivor under paragraph (2), the Administrator, in consultation with the Secretary of Homeland Security, shall determine whether the individual is on such list.
 
 #### (b) Initial health evaluation to determine eligibility for followup monitoring or treatment
 
@@ -134,7 +134,7 @@
 
 #### (3) Limitation on initial health evaluation benefits
 
-&emsp;Benefits for an initial health evaluation under this subpart for a screening-eligible WTC survivor shall consist only of a single medical initial health evaluation consistent with initial health evaluation protocols described in paragraph (1). Nothing in this paragraph shall be construed as preventing such an individual from seeking additional medical initial health evaluations at the expense of the individual.
+&emsp;Benefits for an initial health evaluation under this subpart for a screening-eligibleWTC survivor shall consist only of a single medical initial health evaluation consistent with initial health evaluation protocols described in paragraph (1). Nothing in this paragraph shall be construed as preventing such an individual from seeking additional medical initial health evaluations at the expense of the individual.
 
 (July 1, 1944, ch. 373, title XXXIII, §3321, as added Pub. L. 111–347, title I, §101, Jan. 2, 2011, 124 Stat. 3648.)
 

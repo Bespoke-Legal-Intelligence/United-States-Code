@@ -26,15 +26,17 @@
 
 &emsp;&emsp;(i) such release, disclosure, or use—
 
-&emsp;&emsp;&emsp;(I) is necessary for emergency repair and overhaul; or
+&emsp;&emsp;&emsp;(I) is necessary for emergency repair and overhaul;
 
-&emsp;&emsp;&emsp;(II) is a release or disclosure of technical data (other than detailed manufacturing or process data) to, or use of such data by, a foreign government that is in the interest of the United States and is required for evaluational or informational purposes;
+&emsp;&emsp;&emsp;(II) is necessary for the segregation of an item or process from, or the reintegration of that item or process (or a physically or functionally equivalent item or process) with, other items or processes; or
+
+&emsp;&emsp;&emsp;(III) is a release or disclosure of technical data (other than detailed manufacturing or process data) to, or use of such data by, a foreign government that is in the interest of the United States and is required for evaluational or informational purposes;
 
 &emsp;&emsp;(ii) such release, disclosure, or use is made subject to a prohibition that the person to whom the data is released or disclosed may not further release, disclose, or use such data; and
 
 &emsp;&emsp;(iii) the contractor or subcontractor asserting the restriction is notified of such release, disclosure, or use.
 
-&emsp;(E) In the case of an item or process that is developed in part with Federal funds and in part at private expense, the respective rights of the United States and of the contractor or subcontractor in technical data pertaining to such item or process shall be established as early in the acquisition process as practicable (preferably during contract negotiations) and shall be based upon negotiations between the United States and the contractor, except in any case in which the Secretary of Defense determines, on the basis of criteria established in the regulations, that negotiations would not be practicable. The establishment of suchrights shall be based upon consideration of all of the following factors:
+&emsp;(E) In the case of an item or process that is developed in part with Federal funds and in part at private expense, the respective rights of the United States and of the contractor or subcontractor in technical data pertaining to such item or process shall be established as early in the acquisition process as practicable (preferably during contract negotiations). The United States shall have government purpose rights in such technical data, except in any case in which the Secretary of Defense determines, on the basis of criteria established in such regulations, that negotiation of different rights in such technical data would be in the best interest of the United States. The establishment of any such negotiated rights shallbe based upon consideration of all of the following factors:
 
 &emsp;&emsp;(i) The statement of congressional policy and objectives in section 200 of title 35, the statement of purposes in section 2(b) of the Small Business Innovation Development Act of 1982 (15 U.S.C. 638 note), and the declaration of policy in section 2 of the Small Business Act (15 U.S.C. 631).
 
@@ -64,7 +66,7 @@
 
 &emsp;&emsp;(iii) permit a contractor or subcontractor to license directly to a third party the use of technical data which the contractor is otherwise allowed to restrict, if necessary to develop alternative sources of supply and manufacture.
 
-(3) The Secretary of Defense shall define the terms “developed”, “exclusively with Federal funds”, and “exclusively at private expense” in regulations prescribed under paragraph (1). In defining such terms, the Secretary shall specify the manner in which indirect costs shall be treated and shall specify that amounts spent for independent research and development and bid and proposal costs shall not be considered to be Federal funds for the purposes of paragraph (2)(B), but shall be considered to be Federal funds for the purposes of paragraph (2)(A).
+(3) The Secretary of Defense shall define the terms “developed”, “exclusively with Federal funds”, and “exclusively at private expense” in regulations prescribed under paragraph (1). In defining such terms, the Secretary shall specify the manner in which indirect costs shall be treated and shall specify that amounts spent for independent research and development and bid and proposal costs shall not be considered to be Federal funds for the purposes of the definitions under this paragraph.
 
 (b) Regulations prescribed under subsection (a) shall require that, whenever practicable, a contract for supplies or services entered into by an agency named in section 2303 of this title contain appropriate provisions relating to technical data, including provisions—
 
@@ -80,19 +82,27 @@
 
 &emsp;(6) requiring the contractor to revise any technical data delivered under the contract to reflect engineering design changes made during the performance of the contract and affecting the form, fit, and function of the items specified in the contract and to deliver such revised technical data to an agency within a time specified in the contract;
 
-&emsp;(7) establishing remedies to be available to the United States when technical data required to be delivered or made available under the contract is found to be incomplete or inadequate or to not satisfy the requirements of the contract concerning technical data; and
+&emsp;(7) establishing remedies to be available to the United States when technical data required to be delivered or made available under the contract is found to be incomplete or inadequate or to not satisfy the requirements of the contract concerning technical data;
 
-&emsp;(8) authorizing the head of the agency to withhold payments under the contract (or exercise such other remedies as the head of the agency considers appropriate) during any period if the contractor does not meet the requirements of the contract pertaining to the delivery of technical data.
+&emsp;(8) authorizing the head of the agency to withhold payments under the contract (or exercise such other remedies as the head of the agency considers appropriate) during any period if the contractor does not meet the requirements of the contract pertaining to the delivery of technical data;
+
+&emsp;(9) providing that, in addition to technical data that is already subject to a contract delivery requirement, the United States may require at any time the delivery of technical data that has been generated or utilized in the performance of a contract, and compensate the contractor only for reasonable costs incurred for having converted and delivered the data in the required form, upon a determination that—
+
+&emsp;&emsp;(A) the technical data is needed for the purpose of reprocurement, sustainment, modification, or upgrade (including through competitive means) of a major system or subsystem thereof, a weapon system or subsystem thereof, or any noncommercial item or process; and
+
+&emsp;&emsp;(B) the technical data—
+
+&emsp;&emsp;&emsp;(i) pertains to an item or process developed in whole or in part with Federal funds; or
+
+&emsp;&emsp;&emsp;(ii) is necessary for the segregation of an item or process from, or the reintegration of that item or process (or a physically or functionally equivalent item or process) with, other items or processes; and
+
+&emsp;(10) providing that the United States is not foreclosed from requiring the delivery of the technical data by a failure to challenge, in accordance with the requirements of section 2321(d) of this title, the contractor's assertion of a use or release restriction on the technical data.
 
 (c) Nothing in this section or in section 2305(d) of this title prohibits the Secretary of Defense from—
 
 &emsp;(1) prescribing standards for determining whether a contract entered into by the Department of Defense shall provide for a time to be specified in the contract after which the United States shall have the right to use (or have used) for any purpose of the United States all technical data required to be delivered to the United States under the contract or providing for such a period of time (not to exceed 7 years) as a negotiation objective;
 
-&emsp;(2) notwithstanding any limitation upon the license rights conveyed under subsection (a)—
-
-&emsp;&emsp;(A) allowing a covered Government support contractor access to and use of any technical data delivered under a contract for the sole purpose of furnishing independentand impartial advice or technical assistance directly to the Government in support of the Government's management and oversight of the program or effort to which such technical data relates; or
-
-&emsp;&emsp;(B) allowing a covered litigation support contractor access to and use of any technical, proprietary, or confidential data delivered under a contract for the sole purpose of providing litigation support to the Government in the form of administrative, technical, or professional services during or in anticipation of litigation; or
+&emsp;(2) notwithstanding any limitation upon the license rights conveyed under subsection (a), allowing a covered Government support contractor access to and use of any technical data delivered under a contract for the sole purpose of furnishing independent and impartial advice or technical assistance directly to the Government in support of the Government's management and oversight of the program or effort to which such technical data relates; or
 
 &emsp;(3) prescribing reasonable and flexible guidelines, including negotiation objectives, for the conduct of negotiations regarding the respective rights in technical data of the United States and the contractor.
 
@@ -126,17 +136,9 @@
 
 &emsp;&emsp;&emsp;(ii) to civil actions for damages and other appropriate remedies by the contractor or subcontractor whose technical data is affected by the breach; and
 
-&emsp;&emsp;(E) that such technical data provided to the covered Government support contractor under the authority of this section shall not be used by the covered Government support contractor to compete against the third party for Government or non-Government contracts.
+&emsp;&emsp;(E) that such technical data provided to the covered Government support contractor under the authority of this section shall not be used by the covered Government support contractor to compete against the thirdparty for Government or non-Government contracts.
 
-(g) In this section, the term “covered litigation support contractor” means a contractor (including an expert or technical consultant) under contract with the Department of Defense to provide litigation support, which contractor executes a contract with the Government agreeing to and acknowledging—
-
-&emsp;(1) that proprietary or nonpublic technical data furnished will be accessed and used only for the purposes stated in that contract;
-
-&emsp;(2) that the covered litigation support contractor will take all reasonable steps to protect the proprietary and nonpublic nature of the technical data furnished to the covered litigation support contractor; and
-
-&emsp;(3) that such technical data provided to the covered litigation support contractor under the authority of this section shall not be used by the covered litigation support contractor to compete against the third party for Government or non-Government contracts.
-
-(Added Pub. L. 98–525, title XII, §1216(a), Oct. 19, 1984, 98 Stat. 2595; amended Pub. L. 98–577, title III, §301(b), Oct. 30, 1984, 98 Stat. 3076; Pub. L. 99–145, title IX, §961(d)(1), Nov. 8, 1985, 99 Stat. 703; Pub. L. 99–500, §101(c) \[title X, §953(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–169, and Pub. L. 99–591, §101(c) \[title X, §953(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–169; Pub. L. 99–661, div. A, title IX, formerly title IV, §953(a), Nov. 14, 1986, 100 Stat. 3949, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §7(a)(4), Apr. 21, 1987, 101 Stat. 275; Pub. L. 100–180, div. A, title VIII, §808(a), (b), Dec. 4, 1987, 101 Stat. 1128, 1130; Pub. L. 101–189, div. A, title VIII, §853(b)(2), Nov. 29, 1989, 103 Stat. 1518; Pub. L. 103–355, title VIII, §8106(a), Oct. 13, 1994, 108 Stat. 3393; Pub. L. 108–136, div. A, title VIII, §844, Nov. 24, 2003, 117 Stat. 1553; Pub. L. 109–364, div. A, title VIII, §802(a), Oct. 17, 2006, 120 Stat. 2312; Pub. L. 111–84, div. A, title VIII, §821, Oct. 28, 2009, 123 Stat. 2411; Pub. L. 111–383, div. A, title VIII, §§801(a), 824(b), Jan. 7, 2011, 124 Stat. 4253, 4269.)
+(Added Pub. L. 98–525, title XII, §1216(a), Oct. 19, 1984, 98 Stat. 2595; amended Pub. L. 98–577, title III, §301(b), Oct. 30, 1984, 98 Stat. 3076; Pub. L. 99–145, title IX, §961(d)(1), Nov. 8, 1985, 99 Stat. 703; Pub. L. 99–500, §101(c) \[title X, §953(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–169, and Pub. L. 99–591, §101(c) \[title X, §953(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–169; Pub. L. 99–661, div. A, title IX, formerly title IV, §953(a), Nov. 14, 1986, 100 Stat. 3949, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §7(a)(4), Apr. 21, 1987, 101 Stat. 275; Pub. L. 100–180, div. A, title VIII, §808(a), (b), Dec. 4, 1987, 101 Stat. 1128, 1130; Pub. L. 101–189, div. A, title VIII, §853(b)(2), Nov. 29, 1989, 103 Stat. 1518; Pub. L. 103–355, title VIII, §8106(a), Oct. 13, 1994, 108 Stat. 3393; Pub. L. 108–136, div. A, title VIII, §844, Nov. 24, 2003, 117 Stat. 1553; Pub. L. 109–364, div. A, title VIII, §802(a), Oct. 17, 2006, 120 Stat. 2312; Pub. L. 111–84, div. A, title VIII, §821, Oct. 28, 2009, 123 Stat. 2411; Pub. L. 111–383, div. A, title VIII, §§801(a), 824(b), Jan. 7, 2011, 124 Stat. 4253, 4269; Pub. L. 112–81, div. A, title VIII, §§802(b), 815(a), Dec. 31, 2011, 125 Stat. 1485, 1491.)
 
 #### Codification
 
@@ -144,13 +146,25 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a)(2)(F)(i). Pub. L. 111–383, §824(b)(1), added subcl. (I) and redesignated former subcls. (I) and (II) as (II) and (III), respectively.
+<b>2011</b>—Subsec. (a)(2)(D)(i)(II), (III). Pub. L. 112–81, §815(a)(1)(A), added subcl. (II) and redesignated former subcl. (II) as (III).
 
-Subsec. (a)(3). Pub. L. 111–383, §824(b)(2), substituted “for the purposes of paragraph (2)(B), but shall be considered to be Federal funds for the purposes of paragraph (2)(A)” for “for the purposes of definitions under this paragraph”.
+Subsec. (a)(2)(E). Pub. L. 112–81, §815(a)(1)(B), substituted “. The United States shall have government purpose rights in such technical data, except in any case in which the Secretary of Defense determines, on the basis of criteria established in such regulations, that negotiation of different rights in such technical data would be in the best interest of the United States. The establishment of any such negotiated rights shall” for “and shall be based upon negotiations between the United States and the contractor, except in any case in which the Secretary of Defense determines, on the basis of criteria established in the regulations, that negotiations would not be practicable. The establishment of such rights shall”.
 
-Subsec. (c)(2). Pub. L. 111–383, §801(a)(1), substituted “subsection (a)—” for “subsection (a),”, inserted “(A)” before “allowing”, and added subpar. (B).
+Subsec. (a)(2)(F)(i). Pub. L. 111–383, §824(b)(1), added subcl. (I) and redesignated former subcls. (I) and (II) as (II) and (III), respectively.
 
-Subsec. (g). Pub. L. 111–383, §801(a)(2), added subsec. (g).
+Subsec. (a)(3). Pub. L. 112–81, §815(a)(1)(C), substituted “for the purposes of the definitions under this paragraph” for “for the purposes of paragraph (2)(B), but shall be considered to be Federal funds for the purposes of paragraph (2)(A)”.
+
+Pub. L. 111–383, §824(b)(2), substituted “for the purposes of paragraph (2)(B), but shall be considered to be Federal funds for the purposes of paragraph (2)(A)” for “for the purposes of definitions under this paragraph”.
+
+Subsec. (b)(9), (10). Pub. L. 112–81, §815(a)(2), added pars. (9) and (10).
+
+Subsec. (c)(2). Pub. L. 112–81, §802(b)(1), substituted “subsection (a),” for “subsection (a)—”, struck out “(A)” before “allowing”, and struck out subpar. (B) which read as follows: “allowing a covered litigation support contractor access to and use of any technical, proprietary, or confidential data delivered under a contract for the sole purpose of providing litigation support to the Government in the form of administrative, technical, or professional services during or in anticipation of litigation; or”.
+
+Pub. L. 111–383, §801(a)(1), substituted “subsection (a)—” for “subsection (a),”, inserted “(A)” before “allowing”, and added subpar. (B).
+
+Subsec. (g). Pub. L. 112–81, §802(b)(2), struck out subsec. (g) which defined “covered litigation support contractor” for purpose of this section.
+
+Pub. L. 111–383, §801(a)(2), added subsec. (g).
 
 <b>2009</b>—Subsec. (c)(2), (3). Pub. L. 111–84, §821(a), added par. (2) and redesignated former par. (2) as (3).
 
@@ -184,7 +198,7 @@ Pub. L. 100–26, §7(a)(4)(B), substituted “in technical data otherwise accor
 
 Subsec. (a)(2)(G)(iii). Pub. L. 100–180, §808(a)(4)(C), added cl. (iii).
 
-Subsec. (a)(3). Pub. L. 100–180, §808(a)(5), substituted “, ‘exclusively with Federal funds’, and ‘exclusively at private expense’ ” for “and ‘private expense’ ” and inserted at end “In defining such terms, the Secretary shall specify the manner in which indirect costs shall be treated and shall specify that amounts spent for independent research and development and bid and proposal costs shall not be considered to be Federal funds for the purposes of definitions under this paragraph.”
+Subsec. (a)(3). Pub. L. 100–180, §808(a)(5), substituted “, ‘exclusively with Federal funds’, and ‘exclusively at private expense’ ” for “and ‘private expense’ ” and inserted at end “In defining such terms, the Secretary shall specify the manner in which indirect costs shall be treated and shall specify that amounts spent forindependent research and development and bid and proposal costs shall not be considered to be Federal funds for the purposes of definitions under this paragraph.”
 
 Subsec. (c). Pub. L. 100–180, §808(b), substituted “from—” for “from”, designated existing provisions beginning with “prescribing standards” as par. (1), and added par. (2).
 
@@ -196,7 +210,17 @@ Subsec. (c). Pub. L. 100–180, §808(b), substituted “from—” for “from�
 
 #### Effective Date of 2011 Amendment
 
-Pub. L. 111–383, div. A, title VIII, §801(b), Jan. 7, 2011, 124 Stat. 4254, provided that: “The amendments madeby subsection (a) \[amending this section\] shall take effect on the date that is 120 days after the date of the enactment of this Act \[Jan. 7, 2011\].”
+Pub. L. 112–81, div. A, title VIII, §815(c), Dec. 31, 2011, 125 Stat. 1493, provided that:
+
+“(1)
+
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and section 2321 of this title\] shall take effect on the date of the enactment of this Act \[Dec. 31, 2011\].
+
+“(2)
+
+Exception.—The amendment made by subsection (a)(1)(C) \[amending this section\] shall take effect on January 7, 2011, immediately after the enactment of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 (Public Law 111–383), to which such amendment relates.”
+
+Pub. L. 111–383, div. A, title VIII, §801(b), Jan. 7, 2011, 124 Stat. 4254, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the date that is 120 days after the date of the enactment of this Act \[Jan. 7, 2011\].”
 
 #### Effective Date of 1994 Amendment
 

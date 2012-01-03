@@ -20,7 +20,7 @@ A prior section 27 of act June 25, 1947, ch. 125, was renumbered section 35 and 
 
 #### Amendments
 
-1988—Pub. L. 100–532 inserted headings for subsecs. (a) to (c).
+<b>1988</b>—Pub. L. 100–532 inserted headings for subsecs. (a) to (c).
 
 #### Effective Date of 1988 Amendment
 

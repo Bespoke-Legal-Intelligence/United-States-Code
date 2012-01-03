@@ -382,6 +382,14 @@ Amendment by Pub. L. 89–311 effective first day of second calendar month follo
 
 #### Short Title of 2011 Amendment
 
+Pub. L. 112–56, title II, §201, Nov. 21, 2011, 125 Stat. 712, provided that: “This title \[see Tables for classification\] may be cited as the ‘VOW to Hire Heroes Act of 2011’.”
+
+Pub. L. 112–53, §1, Nov. 9, 2011, 125 Stat. 548, provided that: “This Act \[enacting provisions set out as notes under section 1114 of this title\] may be cited as the ‘Veterans’ Compensation Cost-of-Living Adjustment Act of 2011’.”
+
+Pub. L. 112–37, §1(a), Oct. 5, 2011, 125 Stat. 392, provided that: “This Act \[amending sections 1703, 2013, 2021, 2031, 2033, 2041, 2044, 2061, 2066, 2102A, 3729, 5317, 5317A, 8104, and 8118 of this title and section 653 of Title 42, The Public Health and Welfare\] may be cited as the ‘Veterans Health Care Facilities Capital Improvement Act of 2011’.”
+
+Pub. L. 112–26, §1, Aug. 3, 2011, 125 Stat. 268, provided that: “This Act \[amending section 3729 of this title and enacting provisions set out as notes under sections 3313 and 3729 of this title\] may be cited as the ‘Restoring GI Bill Fairness Act of 2011’.”
+
 Pub. L. 111–377, §1(a), Jan. 4, 2011, 124 Stat. 4106, provided that: “This Act \[enacting section 3315A of this title, amending sections 3031, 3034, 3108, 3301, 3311, 3313, 3315, 3316, 3319, 3322, 3323, 3512, 3671 to 3673, 3675, 3679, 3680, 3681, 3684, and 3689 of this title and section 2006 of Title 10, Armed Forces, and enacting provisions set out as notes under sections 3031, 3034, 3108, 3301, 3311, 3313, 3315, 3315A, 3319, 3322, 3680, and 3684 of this title and section 2006 of Title 10\] may be cited as the ‘Post-9/11 Veterans Educational Assistance Improvements Act of 2010’.”
 
 #### Short Title of 2010 Amendment
@@ -392,7 +400,7 @@ Pub. L. 111–275, title I, §104(a), Oct. 13, 2010, 124 Stat. 2867, provided th
 
 Pub. L. 111–275, title V, §502(a), Oct. 13, 2010, 124 Stat. 2882, provided that: “This section \[amending sections 107, 2301, 2306, and 2402 of this title and enacting provisions set out as notes under sections 107 and 2402 of this title\] may be cited as the ‘Corey Shea Act’.”
 
-Pub. L. 111–247, §1, Sept. 30, 2010, 124 Stat. 2623, provided that: “This Act \[enacting provisions set out as notes under section 1114 of this title\] may be cited as \[the\] ‘Veterans’ Compensation Cost-of-Living Adjustment Act of 2010’.”
+Pub. L. 111–247, §1, Sept. 30, 2010, 124 Stat. 2623, provided that: “This Act \[enacting provisions set out asnotes under section 1114 of this title\] may be cited as \[the\] ‘Veterans’ Compensation Cost-of-Living Adjustment Act of 2010’.”
 
 Pub. L. 111–163, §1(a), May 5, 2010, 124 Stat. 1130, provided that: “This Act \[enacting chapter 75 and sections 118, 1720G, 1730A, 1786, 7311A, 7321A, 7459, and 7618 of this title, amending sections 111, 542, 544, 902, 903, 1705, 1710, 1710E, 1712A, 1717, 1720, 1720D, 1729, 1781, 1782, 2012, 7306, 7311, 7332, 7361 to 7364, 7366, 7401, 7403 to 7405, 7410, 7431, 7451 to 7456, 7456A, 7612, 7618, and 7681 to 7683 of this title, renumbering sections 7364A and 7618 of this title as sections 7365 and 7619, respectively, repealing sections 7365 and 8107 of this title, enacting provisions set out as notes under sections 111, 523, 542, 1703, 1710, 1712, 1712A, 1717, 1720G, 7306, 7404, 7431, 7501, and 7681 of this title, and amending provisions set out as notes under sections 527 and 1703 of this title\] may be cited as the ‘Caregivers and Veterans Omnibus Health Services Act of 2010’.”
 
@@ -450,7 +458,7 @@ Pub. L. 108–454, title I, §101, Dec. 10, 2004, 118 Stat. 3600, provided that:
 
 Pub. L. 108–445, §1, Dec. 3, 2004, 118 Stat. 2636, provided that: “This Act \[enacting section 7456A of this title, amending sections 7404, 7431 to 7433, and 7452 of this title, omitting sections 7434 to 7440 of this title, and enacting provisions set out as notes under section 7431 of this title\] may be cited as the ‘Department of Veterans Affairs Health Care Personnel Enhancement Act of 2004’.”
 
-Pub. L. 108–422, §1(a), Nov. 30, 2004, 118 Stat. 2379, provided that: “This Act \[enacting sections 1744, 7327, 7328, and 8118 of this title, amending sections 305, 1703, 1710B, 1720D, 1741, 2013, 7401, 7803, 8104, 8109, 8111, 8122, and 8164to 8166 of this title, repealing section 8116 of this title, enacting provisions set out as notes under sections 1710B, 1744, 7327, 7328, 7451, 8110, and 8118 of this title, and amending provisions set out as a note under section 1710B of this title\] may be cited as the ‘Veterans Health Programs Improvement Act of 2004’.”
+Pub. L. 108–422, §1(a), Nov. 30, 2004, 118 Stat. 2379, provided that: “This Act \[enacting sections 1744, 7327, 7328, and 8118 of this title, amending sections 305, 1703, 1710B, 1720D, 1741, 2013, 7401, 7803, 8104, 8109, 8111, 8122, and 8164 to 8166 of this title, repealing section 8116 of this title, enacting provisions set out as notes under sections 1710B, 1744, 7327, 7328, 7451, 8110, and 8118 of this title, and amending provisions set out as a note under section 1710B of this title\] may be cited as the ‘Veterans Health Programs Improvement Act of 2004’.”
 
 Pub. L. 108–363, §1, Oct. 25, 2004, 118 Stat. 1705, provided that: “This Act \[enacting provisions set out as notes under section 1114 of this title\] may be cited as the ‘Veterans’ Compensation Cost-of-Living Adjustment Act of 2004’.”
 
@@ -486,7 +494,7 @@ Pub. L. 107–14, §1(a), June 5, 2001, 115 Stat. 25, provided that: “This Act
 
 #### Short Title of 2000 Amendments
 
-Pub. L. 106–475, §1, Nov. 9, 2000, 114 Stat. 2096, provided that: “This Act \[enacting sections 5100, 5102 to 5103A, and 5126 of this title, amending sections 5106 and 5107 of this title, repealing former sections 5102 and 5103 of this title, and enacting provisions set out as a note under section 5107 of this title\] may be cited as the ‘Veterans Claims Assistance Act of 2000’.”
+Pub. L. 106–475, §1, Nov. 9, 2000, 114 Stat. 2096, provided that: “This Act \[enacting sections 5100, 5102 to 5103A, and 5126 of this title, amending sections 5106 and 5107 of this title, repealing former sections 5102 and 5103of this title, and enacting provisions set out as a note under section 5107 of this title\] may be cited as the ‘Veterans Claims Assistance Act of 2000’.”
 
 Pub. L. 106–419, §1(a), Nov. 1, 2000, 114 Stat. 1822, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Veterans Benefits and Health Care Improvement Act of 2000’.”
 
@@ -648,7 +656,7 @@ Pub. L. 99–238, §1, Jan. 13, 1986, 99 Stat. 1765, provided that: “This Act 
 
 #### Short Title of 1985 Amendment
 
-Pub. L. 99–166, §1(a), Dec. 3, 1985, 99 Stat. 941, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Veterans’ Administration Health-Care Amendments of 1985’.”
+Pub. L. 99–166, §1(a), Dec. 3, 1985, 99 Stat. 941, provided that: “This Act \[see Tables for classification\] may becited as the ‘Veterans’ Administration Health-Care Amendments of 1985’.”
 
 #### Short Title of 1984 Amendments
 
@@ -736,7 +744,7 @@ Pub. L. 94–433, §1, Sept. 30, 1976, 90 Stat. 1374, provided: “That this Act
 
 Pub. L. 94–432, §1, Sept. 30, 1976, 90 Stat. 1369, provided: “That this Act \[see Tables for classification\] may be cited as the ‘Veterans and Survivors Pension Adjustment Act of 1976’.”
 
-Pub. L. 94–324, §1, June 30, 1976, 90 Stat. 720, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Veterans Housing Amendments Act of 1976’.”
+Pub. L. 94–324, §1, June 30, 1976, 90 Stat. 720, provided that: “This Act \[see Tables for classification\] may becited as the ‘Veterans Housing Amendments Act of 1976’.”
 
 #### Short Title of 1975 Amendments
 
@@ -748,7 +756,7 @@ Pub. L. 94–71, §1, Aug. 5, 1975, 89 Stat. 395, provided: “That this Act \[s
 
 #### Short Title of 1974 Amendments
 
-Pub. L. 93–602, title II, §201, Jan. 2, 1975, 88 Stat. 1958, provided that: “This title \[see Tables for classification\]may be cited as the ‘Veterans’ Education and Rehabilitation Equalization Amendments Act of 1974’.”
+Pub. L. 93–602, title II, §201, Jan. 2, 1975, 88 Stat. 1958, provided that: “This title \[see Tables for classification\] may be cited as the ‘Veterans’ Education and Rehabilitation Equalization Amendments Act of 1974’.”
 
 Pub. L. 93–569, §1, Dec. 31, 1974, 88 Stat. 1863, provided: “That this Act \[see Tables for classification\] may be cited as the ‘Veterans Housing Act of 1974’.”
 

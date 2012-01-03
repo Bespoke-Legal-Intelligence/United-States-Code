@@ -36,7 +36,7 @@ It shall be unlawful for any person to—
 
 &emsp;(13) misrepresent to any officer or employee of the Commission the scope of consumer products subject to an action required under section 2061 or 2064 of this title, or to make a material misrepresentation to such an officer or employee in the course of an investigation under this chapter or any other Act enforced by the Commission; or <sup>3</sup>
 
-&emsp;(14) exercise, or attempt to exercise, undue influence on a third party conformity assessment body (as defined in section 2063(f)(2) of this title) with respect to the testing, or reporting of the results of testing, of any product for compliance under this chapter or any other Act enforced by the Commission.<sup>2</sup>
+&emsp;(14) exercise, or attempt to exercise, undue influence on a third party conformity assessment body (as defined in section 2063(f)(2) of this title) with respect to the testing, or reporting of the results of testing, of any product for compliance under this chapter or any other Act enforced by the Commission, or to subdivide the production of any children's product into small quantities that have the effect of evading any third party testing requirements under section 2063(a)(2) of this title;
 
 &emsp;(15) export from the United States for purpose of sale any consumer product, or other product or substance regulated by the Commission (other than a consumer product or substance, the export of which is permitted by the Secretary of the Treasury pursuant to section 2066(e) of this title) that—
 
@@ -50,9 +50,11 @@ It shall be unlawful for any person to—
 
 Paragraphs (1) and (2) of subsection (a) of this section shall not apply to any person (1) who holds a certificate issued in accordance with section 2063(a) of this title to the effect that such consumer product conforms to all applicable consumer product safety rules, unless such person knows that such consumer product does not conform, or (2) who relies in good faith on the representation of the manufacturer or a distributor of such product that the product is not subject to an applicable product safety rule.
 
-(Pub. L. 92–573, §19, Oct. 27, 1972, 86 Stat. 1224; Pub. L. 94–284, §§12(b), 13(a), May 11, 1976, 90 Stat. 508, 509; Pub. L. 95–319, §3(b), July 11, 1978, 92 Stat. 390; Pub. L. 95–631, §6(b), Nov. 10, 1978, 92 Stat. 3745; Pub. L. 97–414, §9(j)(4), Jan. 4, 1983, 96 Stat. 2064; Pub. L. 101–608, title I, §112(d), Nov. 16, 1990, 104 Stat. 3117; Pub. L. 110–314, title II, §216(a), Aug. 14, 2008, 122 Stat. 3056.)
+(Pub. L. 92–573, §19, Oct. 27, 1972, 86 Stat. 1224; Pub. L. 94–284, §§12(b), 13(a), May 11, 1976, 90 Stat. 508, 509; Pub. L. 95–319, §3(b), July 11, 1978, 92 Stat. 390; Pub. L. 95–631, §6(b), Nov. 10, 1978, 92Stat. 3745; Pub. L. 97–414, §9(j)(4), Jan. 4, 1983, 96 Stat. 2064; Pub. L. 101–608, title I, §112(d), Nov. 16, 1990, 104 Stat. 3117; Pub. L. 110–314, title II, §216(a), Aug. 14, 2008, 122 Stat. 3056; Pub. L. 112–28, §2(b), Aug. 12, 2011, 125 Stat. 279.)
 
 #### Amendments
+
+<b>2011</b>—Subsec. (a)(14). Pub. L. 112–28 substituted “, or to subdivide the production of any children's product into small quantities that have the effect of evading any third party testing requirements under section 2063(a)(2) of this title;” for period at end.
 
 <b>2008</b>—Subsec. (a)(1), (2). Pub. L. 110–314, §216(a)(1), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 

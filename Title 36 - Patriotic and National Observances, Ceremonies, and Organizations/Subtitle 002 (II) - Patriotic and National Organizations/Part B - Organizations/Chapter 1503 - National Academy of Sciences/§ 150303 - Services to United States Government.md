@@ -104,7 +104,7 @@ Reports.—
 
 &emsp;&emsp;“(A)
 
-Annual report to congress.—Not later than 1 year after the selection of the 2 Co-Chairpersons of the Commission, and each subsequent year thereafter, the Commission shall prepare and submit to the appropriate Committees of Congress and the President a report that contains a detailedstatement of the recommendations, findings, and conclusions of the Commission on the activities of the Academy and a designated Institute related to the establishment of a Key National Indicator System.
+Annual report to congress.—Not later than 1 year after the selection of the 2 Co-Chairpersons of the Commission, and each subsequent year thereafter, the Commission shall prepare and submit to the appropriate Committees of Congress and the President a report that contains a detailed statement of the recommendations, findings, and conclusions of the Commission on the activities of the Academy and a designated Institute related to the establishment of a Key National Indicator System.
 
 &emsp;&emsp;“(B)
 
@@ -136,7 +136,7 @@ In general.—As soon as practicable after the selection of the 2 Co-Chairperson
 
 &emsp;&emsp;“(B)
 
-Participation.—In executing the arrangement under subparagraph (A), the National Academy of Sciences shall convene a multi-sector, multi-disciplinary process to define major scientific and technical issues associated with developing, maintaining, and evolving a Key National Indicator System and, if an Institute is established, to provide it with scientific and technical advice.
+Participation.—In executing the arrangement under subparagraph (A), the National Academy of Sciences shall convene a multi-sector, multi-disciplinary process to define major scientific and technical issues associated with developing, maintaining, and evolving a Key NationalIndicator System and, if an Institute is established, to provide it with scientific and technical advice.
 
 &emsp;&emsp;“(C)
 
@@ -212,7 +212,7 @@ Authorization of Appropriations.—
 
 &emsp;“(1)
 
-In general.—There are authorized to be appropriated to carry out the purposes of this section,$10,000,000 for fiscal year 2010, and $7,500,000 for each of fiscal year \[sic\] 2011 through 2018.
+In general.—There are authorized to be appropriated to carry out the purposes of this section, $10,000,000 for fiscal year 2010, and $7,500,000 for each of fiscal year \[sic\] 2011 through 2018.
 
 &emsp;“(2)
 

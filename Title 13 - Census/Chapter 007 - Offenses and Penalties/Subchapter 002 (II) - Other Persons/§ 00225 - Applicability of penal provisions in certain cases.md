@@ -18,9 +18,9 @@
 
 #### Historical and Revision Notes
 
-Based on title 13, U.S.C., 1952 ed., §§111, 122 (Mar. 2, 1902, ch. 139, §7, 32 Stat. 52; June 7, 1906, ch. 3048, 34 Stat. 218; June 18, 1929, ch. 28, §3, 46 Stat. 26; 1939 Reorg. Plan No. II, §4(e), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1431; 1940 Reorg. Plan No. III, §3, eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1232; June 25, 1947, ch. 124, 61 Stat.163; June 19, 1948, ch. 502, §1, 62 Stat. 478; Sept. 7, 1950, ch. 910, §4, 64 Stat. 785).
+Based on title 13, U.S.C., 1952 ed., §§111, 122 (Mar. 2, 1902, ch. 139, §7, 32 Stat. 52; June 7, 1906, ch. 3048, 34 Stat. 218; June 18, 1929, ch. 28, §3, 46 Stat. 26; 1939 Reorg. Plan No. II, §4(e), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1431; 1940 Reorg. Plan No. III, §3, eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1232; June 25, 1947, ch. 124, 61 Stat. 163; June 19, 1948, ch. 502, §1, 62 Stat. 478; Sept. 7, 1950, ch. 910, §4, 64 Stat. 785).
 
-Section consolidates parts of sections 111 and 122 of title 13, U.S.C., 1952 ed., with changes in phraseology necessary to effect consolidation and to preserve the intent, scope and meaning of the parts of such sections so consolidated. For remainder of such sections 111 and 122, see Distribution Table.
+Section consolidates parts of sections 111 and 122 of title 13, U.S.C., 1952 ed., with changes in phraseology necessary to effect consolidation and to preserve the intent, scope and meaning of the parts of such sectionsso consolidated. For remainder of such sections 111 and 122, see Distribution Table.
 
 Subsections (a) and (b) of this revised section are from section 122 of title 13, U.S.C., 1952 ed., and in subsection (a) references to the Secretary (of Commerce) and to “other authorized officer or employee of the Department of Commerce or bureau or agency thereof” were substituted for references to the Director of the Census to conform with 1950 Reorganization Plan No. 5, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263. See Revision Note to section 4 of this title.
 
@@ -30,7 +30,7 @@ Subsection (d) is from section 111 of title 13, U.S.C., 1952 ed. Words in this s
 
 #### Amendments
 
-1976—Subsec. (a)(1). Pub. L. 94–521, §15(a)(1), inserted “and questionnaires” after “schedules”.
+<b>1976</b>—Subsec. (a)(1). Pub. L. 94–521, §15(a)(1), inserted “and questionnaires” after “schedules”.
 
 Subsec. (b). Pub. L. 94–521, §15(a)(2), struck out reference to imprisonment provisions provided by sections 221 and 224 of this title.
 

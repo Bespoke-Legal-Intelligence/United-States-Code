@@ -28,7 +28,7 @@
 
 &emsp;No proclamation may be made under paragraph (1) that—
 
-&emsp;&emsp;(A) reduces any rate of duty (other than a rate of duty that does not exceed 5 percentad valorem on August 6, 2002) to a rate of duty which is less than 50 percent of the rate of such duty that applies on August 6, 2002;
+&emsp;&emsp;(A) reduces any rate of duty (other than a rate of duty that does not exceed 5 percent ad valorem on August 6, 2002) to a rate of duty which is less than 50 percent of the rate of such duty that applies on August 6, 2002;
 
 &emsp;&emsp;(B) reduces the rate of duty below that applicable under the Uruguay Round Agreements, on any import sensitive agricultural product; or
 
@@ -102,7 +102,7 @@
 
 &emsp;(B) The provisions referred to in subparagraph (A) are—
 
-&emsp;&emsp;(i) a provision approving a trade agreement entered into under this subsection andapproving the statement of administrative action, if any, proposed to implement such trade agreement; and
+&emsp;&emsp;(i) a provision approving a trade agreement entered into under this subsection and approving the statement of administrative action, if any, proposed to implement such trade agreement; and
 
 &emsp;&emsp;(ii) if changes in existing laws or new statutory authority are required to implement such trade agreement or agreements, provisions, necessary or appropriate to implement such trade agreement or agreements, either repealing or amending existing laws or providing new statutory authority.
 
@@ -170,7 +170,7 @@
 
 #### (d) Commencement of negotiations
 
-In order to contribute to the continued economic expansion of the United States, the President shall commence negotiations covering tariff and nontariff barriers affecting any industry,product, or service sector, and expand existing sectoral agreements to countries that are not parties to those agreements, in cases where the President determines that such negotiations are feasible and timely and would benefit the United States. Such sectors include agriculture, commercial services, intellectual property rights, industrial and capital goods, government procurement, information technology products, environmental technology and services, medical equipment and services, civil aircraft, and infrastructure products. In so doing, the President shall take into account all of the principal negotiating objectives set forth in section 3802(b) of this title.
+In order to contribute to the continued economic expansion of the United States, the President shall commence negotiations covering tariff and nontariff barriers affecting any industry, product, or service sector, and expand existing sectoral agreements to countries that are not parties to those agreements, in cases where the President determines that such negotiations are feasible and timely and would benefit the United States. Such sectors include agriculture, commercial services, intellectual property rights, industrial and capital goods, government procurement, information technology products, environmental technology and services, medical equipment and services, civil aircraft, and infrastructure products. In so doing, the President shall take into account all of the principal negotiating objectives set forth in section 3802(b) of this title.
 
 (Pub. L. 107–210, div. B, title XXI, §2103, Aug. 6, 2002, 116 Stat. 1004; Pub. L. 108–429, title II, §2004(a)(17), Dec. 3, 2004, 118 Stat. 2591.)
 

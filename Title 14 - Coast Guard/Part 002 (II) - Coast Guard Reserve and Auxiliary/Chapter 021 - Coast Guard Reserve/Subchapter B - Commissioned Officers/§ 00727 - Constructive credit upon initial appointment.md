@@ -10,7 +10,7 @@ Provisions similar to those in this section were contained in section 773 of thi
 
 #### Amendments
 
-2006—Pub. L. 109–241 substituted “judge advocate” for “law specialist”.
+<b>2006</b>—Pub. L. 109–241 substituted “judge advocate” for “law specialist”.
 
-2004—Pub. L. 108–293 substituted “one year” for “three years” in second sentence.
+<b>2004</b>—Pub. L. 108–293 substituted “one year” for “three years” in second sentence.
 

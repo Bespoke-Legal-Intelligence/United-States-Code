@@ -72,7 +72,7 @@ On completion of the methodology under subsection (b), the Secretary shall—
 
 #### (e) Periodic updates
 
-The methodology developed under this section shall be updated periodically (including at leastonce every 5 years) to incorporate new data as the data becomes available.
+The methodology developed under this section shall be updated periodically (including at least once every 5 years) to incorporate new data as the data becomes available.
 
 #### (f) National assessment
 

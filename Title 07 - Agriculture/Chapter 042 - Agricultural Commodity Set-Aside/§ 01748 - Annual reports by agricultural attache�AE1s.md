@@ -42,9 +42,9 @@ The Secretary and the United States Trade Representative shall convene a meeting
 
 #### Amendments
 
-1996—Subsec. (b)(1)(B). Pub. L. 104–127 struck out “including fruits, vegetables, legumes, popcorn and ducks” after “agricultural commodities”.
+<b>1996</b>—Subsec. (b)(1)(B). Pub. L. 104–127 struck out “including fruits, vegetables, legumes, popcorn and ducks” after “agricultural commodities”.
 
-1991—Pub. L. 102–237, §316, made technical amendment to directory language of Pub. L. 101–624, §1532, which enacted this section, resulting in no change in text.
+<b>1991</b>—Pub. L. 102–237, §316, made technical amendment to directory language of Pub. L. 101–624, §1532, which enacted this section, resulting in no change in text.
 
 Subsec. (b)(1)(B). Pub. L. 102–237, §317, substituted a semicolon for period at end.
 

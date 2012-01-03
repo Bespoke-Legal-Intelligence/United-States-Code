@@ -42,7 +42,7 @@ There is established within the Institute a board to be known as the “National
 
 &emsp;&emsp;&emsp;&emsp;(I) resources that, collectively, are broadly representative of the curatorial, conservation, educational, and cultural resources of the United States; or
 
-&emsp;&emsp;&emsp;&emsp;(II) museums that, collectively, are broadly representative of various types of museums, including museums relating to science, history, technology, art, zoos, botanical gardens, and museums designed for children; and
+&emsp;&emsp;&emsp;&emsp;(II) museums that, collectively, are broadly representative of various typesof museums, including museums relating to science, history, technology, art, zoos, botanical gardens, and museums designed for children; and
 
 &emsp;&emsp;&emsp;(ii) the remainder shall be individuals recognized for their broad knowledge, expertise, or experience in museums or commitment to museums.
 
@@ -124,7 +124,7 @@ The Director, with the advice of the Museum and Library Services Board, shall co
 
 A prior section 207 of Pub. L. 94–462 was renumbered section 208 and is classified to section 9106 of this title.
 
-Another prior section 207 of Pub. L. 94–462 was classified to section 966 of this title prior to the general amendment of title II of Pub. L. 94–462 by Pub. L. 104–208.
+Another prior section 207 of Pub. L. 94–462 was classified to section 966 of this title prior to the generalamendment of title II of Pub. L. 94–462 by Pub. L. 104–208.
 
 #### Amendments
 

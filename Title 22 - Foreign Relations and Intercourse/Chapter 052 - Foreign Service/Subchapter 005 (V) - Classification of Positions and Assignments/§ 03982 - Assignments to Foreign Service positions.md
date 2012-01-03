@@ -16,7 +16,7 @@ Positions designated as Foreign Service positions normally shall be filled by th
 
 #### (c) Charge d'affaires
 
-The President may assign a career member of the Service to serve as charge d'affaires orotherwise as the head of a mission (or as the head of a United States office abroad which is designated under section 3902(a)(3) <sup>1</sup> of this title by the Secretary of State as diplomatic in nature) for such period as the public interest may require.
+The President may assign a career member of the Service to serve as charge d'affaires or otherwise as the head of a mission (or as the head of a United States office abroad which is designated under section 3902(a)(3) <sup>1</sup> of this title by the Secretary of State as diplomatic in nature) for such period as the public interest may require.
 
 #### (d) Competitive ability with respect to chief of mission positions and for assignments outside areas of specialization
 

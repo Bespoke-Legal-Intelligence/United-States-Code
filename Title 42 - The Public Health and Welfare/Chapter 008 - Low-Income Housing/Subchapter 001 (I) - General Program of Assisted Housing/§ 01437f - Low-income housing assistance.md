@@ -1788,7 +1788,7 @@ Effective Date.—This section shall take effect on the date of the enactment of
 
 #### Regulations
 
-Pub. L. 105–276, title V, §556(b), Oct. 21, 1998, 112 Stat. 2613, provided that: “The Secretary of Housing and Urban Development shall implement the provision added by the amendment made by subsection (a) \[amending this section\] through notice, not later than December 31, 1998, and shall issue final regulations which shall be developed pursuant to the procedures for issuance of regulations under the negotiated rulemaking procedure under subchapter III of chapter 5 of title 5, United States Code, not later than one year after the date of the enactment of this Act \[Oct. 21, 1998\].”
+Pub. L. 105–276, title V, §556(b), Oct. 21, 1998, 112 Stat. 2613, directed the Secretary of Housing and Urban Development to implement the amendment made by subsec. (a), adding 42 U.S.C. 1437f(dd), through notice, not later than Dec. 31, 1998, and to issue final regulations, not later than one year after Oct. 21, 1998. HUD Notice 98–65 was issued Dec. 30, 1998, and final regulations were published in the Federal Register Oct. 21, 1999, effective Nov. 22, 1999. See 64 F.R. 56882.
 
 For provisions requiring Secretary of Housing and Urban Development to issue regulations necessary to implement amendment to this section by Pub. L. 103–233, see section 101(f) of Pub. L. 103–233, set out as a note under section 1701z–11 of Title 12, Banks and Banking.
 
@@ -1800,7 +1800,7 @@ Section 151 of Pub. L. 102–550 provided that: “The Secretary of Housing and 
 
 #### Savings Provision
 
-Pub. L. 106–377, §1(a)(1) \[title II, §232(b)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–34, as amended by Pub. L. 110–28, title VI, §6904, May 25, 2007, 121 Stat. 185, provided that: “In the case of any dwelling unit that, upon the date of the enactment of this Act \[Oct. 27, 2000\], is assisted under a housing assistance payment contract under section 8(<i>o</i>)(13) \[of the United States Housing Act of 1937 (42 U.S.C. 1437f(<i>o</i>)(13))\] as in effect before such enactment, or under section 8(d)(2) of the United States Housing Act of 1937 (42 U.S.C. 1437f(d)(2)) as in effect before the enactment of the Quality Housing and WorkResponsibility Act of 1998 (title V of Public Law 105–276) \[approved Oct. 21, 1998\], assistance may be renewed or extended under such section 8(<i>o</i>)(13), as amended by subsection (a), provided that the initial contract term and rent of such renewed or extended assistance shall be determined pursuant to subparagraphs (F) and (H), and subparagraphs (C) and (D) of such section shall not apply to such extensions or renewals.”
+Pub. L. 106–377, §1(a)(1) \[title II, §232(b)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–34, as amended by Pub. L. 110–28, title VI, §6904, May 25, 2007, 121 Stat. 185, provided that: “In the case of any dwelling unit that, upon the date of the enactment of this Act \[Oct. 27, 2000\], is assisted under a housing assistance payment contract under section 8(<i>o</i>)(13) \[of the United States Housing Act of 1937 (42 U.S.C. 1437f(<i>o</i>)(13))\] as in effect before such enactment, or under section 8(d)(2) of the United States Housing Act of 1937 (42 U.S.C. 1437f(d)(2)) as in effect before the enactment of the Quality Housing and Work Responsibility Act of 1998 (title V of Public Law 105–276) \[approved Oct. 21, 1998\], assistance may be renewed or extended under such section 8(<i>o</i>)(13), asamended by subsection (a), provided that the initial contract term and rent of such renewed or extended assistance shall be determined pursuant to subparagraphs (F) and (H), and subparagraphs (C) and (D) of such section shall not apply to such extensions or renewals.”
 
 #### Conversion of HUD Contracts
 
@@ -1904,7 +1904,7 @@ Report.—The Secretary shall report annually to Congress on activities conducte
 
 #### Multifamily Housing Assistance
 
-Subtitles A (§§511–524) and D (§§571–579) of title V of Pub. L. 105–65, as amended by Pub. L. 105–276, title V, §§549(c), 597(b), Oct. 21, 1998, 112 Stat. 2608, 2659; Pub. L. 106–74, title II, §§213(b), 219, title V, §§531(a)–(c), 534, 538(b), Oct. 20, 1999, 113 Stat. 1074, 1075, 1109–1116, 1120, 1123; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 107–116, title VI, §§611–614, 616(a)(1), (b), 621, 622(a), 623(a), 624, 625, Jan. 10, 2002, 115 Stat. 2222–2227; Pub. L. 109–289, div. B, title II, §21043(a), as added by Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 53; Pub. L. 110–289, div. A, title II, §1216(d), July 30, 2008, 122 Stat. 2792, provided that:
+Subtitles A (§§511–524) and D (§§571–579) of title V of Pub. L. 105–65, as amended by Pub. L. 105–276, title V, §§549(c), 597(b), Oct. 21, 1998, 112 Stat. 2608, 2659; Pub. L. 106–74, title II, §§213(b), 219, title V, §§531(a)–(c), 534, 538(b), Oct. 20, 1999, 113 Stat. 1074, 1075, 1109–1116, 1120, 1123; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 107–116, title VI, §§611–614, 616(a)(1), (b), 621, 622(a), 623(a), 624, 625, Jan. 10, 2002, 115 Stat. 2222–2227; Pub. L. 109–289, div. B, title II, §21043(a), as added by Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 53; Pub. L. 110–289, div. A, title II, §1216(d), July 30, 2008, 122 Stat. 2792; Pub. L. 112–55, div. C, title II, §237, Nov. 18, 2011, 125 Stat. 702, provided that:
 
 #### “subtitle a—fha-insured multifamily housing mortgage and housing assistance restructuring
 
@@ -3036,13 +3036,13 @@ Repeals.—
 
 &emsp;“(1)
 
-Mark-to-market program.—Subtitle A (except for section 524) is repealed effective October 1, 2011.
+Mark-to-market program.—Subtitle A (except for section 524) is repealed effective October 1, 2015.
 
 &emsp;“(2) OMHAR.—Subtitle D (except for this section) is repealed effective October 1, 2004.
 
 “(b)
 
-Exception.—Notwithstanding the repeal under subsection (a), the provisions of subtitle A (as in effect immediately before such repeal) shall apply with respect to projects and programs for which binding commitments have been entered into under this Act before October 1, 2011.
+Exception.—Notwithstanding the repeal under subsection (a), the provisions of subtitle A (as in effect immediately before such repeal) shall apply with respect to projects and programs for which binding commitments have been entered into under this Act before October 1, 2015.
 
 “(c)
 

@@ -2,7 +2,7 @@
 
 #### (a) Duty of depository institutions; nature and content of information
 
-(1) Each depository institution which has a home office or branch office located within a primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas, as defined by the Department of Commerce shall compile and make available, in accordance with regulations of the Board, to the public for inspection and copying at the home office, and at least one branch office within each primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas in which the depository institution has an office the number and total dollar amount of mortgage loans which were (A) originated (or for which the institution received completed applications), or (B) purchased by that institution during each fiscal year (beginning with the last full fiscal year of that institution which immediately preceded the effective date of this chapter).
+(1) Each depository institution which has a home office or branch office located within a primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas, as defined by the Department of Commerce shall compile and make available, in accordance with regulations of the Bureau, to the public for inspection and copying at the home office, and at least one branch office within each primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas in which the depository institution has an office the number and total dollar amount of mortgage loans which were (A) originated (or for which the institution received completed applications), or (B) purchased by that institution during each fiscal year (beginning with the last full fiscal year of that institution which immediately preceded the effective date of this chapter).
 
 (2) The information required to be maintained and made available under paragraph (1) shall also be itemized in order to clearly and conspicuously disclose the following:
 
@@ -20,9 +20,41 @@ Any item of information relating to mortgage loans required to be maintained und
 
 &emsp;(2) the number and dollar amount of mortgage loans made to mortgagors who did not, at the time of execution of the mortgage, intend to reside in the property securing the mortgage loan;
 
-&emsp;(3) the number and dollar amount of home improvement loans; and
+&emsp;(3) the number and dollar amount of home improvement loans;
 
-&emsp;(4) the number and dollar amount of mortgage loans and completed applications involving mortgagors or mortgage applicants grouped according to census tract, income level, racial characteristics, and gender.
+&emsp;(4) the number and dollar amount of mortgage loans and completed applications involving mortgagors or mortgage applicants grouped according to census tract, income level, racial characteristics, age, and gender;
+
+&emsp;(5) the number and dollar amount of mortgage loans grouped according to measurements of—
+
+&emsp;&emsp;(A) the total points and fees payable at origination in connection with the mortgage as determined by the Bureau, taking into account 15 U.S.C. 1602(aa)(4);
+
+&emsp;&emsp;(B) the difference between the annual percentage rate associated with the loan and a benchmark rate or rates for all loans;
+
+&emsp;&emsp;(C) the term in months of any prepayment penalty or other fee or charge payable on repayment of some portion of principal or the entire principal in advance of scheduled payments; and
+
+&emsp;&emsp;(D) such other information as the Bureau may require; and
+
+&emsp;(6) the number and dollar amount of mortgage loans and completed applications grouped according to measurements of—
+
+&emsp;&emsp;(A) the value of the real property pledged or proposed to be pledged as collateral;
+
+&emsp;&emsp;(B) the actual or proposed term in months of any introductory period after which the rate of interest may change;
+
+&emsp;&emsp;(C) the presence of contractual terms or proposed contractual terms that would allow the mortgagor or applicant to make payments other than fully amortizing payments during any portion of the loan term;
+
+&emsp;&emsp;(D) the actual or proposed term in months of the mortgage loan;
+
+&emsp;&emsp;(E) the channel through which application was made, including retail, broker, and other relevant categories;
+
+&emsp;&emsp;(F) as the Bureau may determine to be appropriate, a unique identifier that identifies the loan originator as set forth in section 5102 of this title;
+
+&emsp;&emsp;(G) as the Bureau may determine to be appropriate, a universal loan identifier;
+
+&emsp;&emsp;(H) as the Bureau may determine to be appropriate, the parcel number that corresponds to the real property pledged or proposed to be pledged as collateral;
+
+&emsp;&emsp;(I) the credit score of mortgage applicants and mortgagors, in such form as the Bureau may prescribe; and
+
+&emsp;&emsp;(J) such other information as the Bureau may require.
 
 #### (c) Period of maintenance
 
@@ -30,11 +62,11 @@ Any information required to be compiled and made available under this section, o
 
 #### (d) Duration of disclosure requirements
 
-Notwithstanding the provisions of subsection (a)(1) of this section, data required to be disclosed under this section for 1980 and thereafter shall be disclosed for each calendar year. Any depository institution which is required to make disclosures under this section but which has been making disclosures on some basis otherthan a calendar year basis shall make available a separate disclosure statement containing data for any period prior to calendar year 1980 which is not covered by the last full year report prior to the 1980 calendar year report.
+Notwithstanding the provisions of subsection (a)(1) of this section, data required to be disclosed under this section for 1980 and thereafter shall be disclosed for each calendar year. Any depository institution which is required to make disclosures under this section but which has been making disclosures on some basis other than a calendar year basis shall make available a separate disclosure statement containing data for any period prior to calendar year 1980 which is not covered by the last full year report prior to the 1980 calendar year report.
 
 #### (e) Format for disclosures
 
-Subject to subsection (h) of this section, the Board shall prescribe a standard format for the disclosures required under this section.
+Subject to subsection (h) of this section, the Bureau shall prescribe a standard format for the disclosures required under this section.
 
 #### (f) Data disclosure system; operation, etc.
 
@@ -50,39 +82,65 @@ The requirements of subsections (a) and (b) of this section shall not apply with
 
 #### (h) Submission to agencies
 
-The data required to be disclosed under subsection (b)(4) of this section shall be submitted to the appropriate agency for each institution reporting under this chapter. Notwithstanding the requirement of subsection (a)(2)(A) of this section for disclosure by census tract, the Board, in cooperation with other appropriate regulators, including—
+#### (1) In general
 
-&emsp;(1) the Office of the Comptroller of the Currency for national banks and Federal branches and Federal agencies of foreign banks;
+&emsp;The data required to be disclosed under subsection (b) shall be submitted to the Bureau or to the appropriate agency for the institution reporting under this chapter, in accordance with rules prescribed by the Bureau. Notwithstanding the requirement of subsection (a)(2)(A) for disclosure by census tract, the Bureau, in consultation with other appropriate agencies described in paragraph (2) and, after notice and comment, shall develop regulations that—
 
-&emsp;(2) the Director of the Office of Thrift Supervision for savings associations;
+&emsp;&emsp;(A) prescribe the format for such disclosures, the method for submission of the data to the appropriate agency, and the procedures for disclosing the information to the public;
 
-&emsp;(3) the Federal Deposit Insurance Corporation for banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System), mutual savings banks, insured State branches of foreign banks, and any other depository institution described in section 2802(2)(A) of this title which is not otherwise referred to in this paragraph;
+&emsp;&emsp;(B) require the collection of data required to be disclosed under subsection (b) with respect to loans sold by each institution reporting under this chapter;
 
-&emsp;(4) the National Credit Union Administration Board for credit unions; and
+&emsp;&emsp;(C) require disclosure of the class of the purchaser of such loans;
 
-&emsp;(5) the Secretary of Housing and Urban Development for other lending institutions not regulated by the agencies referred to in paragraphs (1) through (4),
+&emsp;&emsp;(D) permit any reporting institution to submit in writing to the Bureau or to the appropriate agency such additional data or explanations as it deems relevant to the decision to originate or purchase mortgage loans; and
 
-> shall develop regulations prescribing the format for such disclosures, the method for submission of the data to the appropriate regulatory agency, and the procedures for disclosing the information to the public. These regulations shall also require the collection of data required to be disclosed under subsection (b)(4) of this section with respect to loans sold by each institution reporting under this chapter, and, in addition, shall require disclosure of the class of the purchaser of such loans. Any reporting institution may submit in writing to the appropriate agency such additional data or explanations as it deems relevant to the decision to originate or purchase mortgage loans.
+&emsp;&emsp;(E) modify or require modification of itemized information, for the purpose of protecting the privacy interests of the mortgage applicants or mortgagors, that is or will be available to the public.
+
+#### (2) Other appropriate agencies
+
+&emsp;The appropriate agencies described in this paragraph are—
+
+&emsp;&emsp;(A) the appropriate Federal banking agencies, as defined in section 1813(q) of this title, with respect to the entities that aresubject to the jurisdiction of each such agency, respectively;
+
+&emsp;&emsp;(B) the Federal Deposit Insurance Corporation for banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System), mutual savings banks, insured State branches of foreign banks, and any other depository institution described in section 2802(2)(A) <sup>1</sup> of this title which is not otherwise referred to in this paragraph;
+
+&emsp;&emsp;(C) the National Credit Union Administration Board with respect to credit unions; and
+
+&emsp;&emsp;(D) the Secretary of Housing and Urban Development with respect to other lending institutions not regulated by the agencies referred to in subparagraph (A) or (B).
+
+#### (3) Rules for modifications under paragraph (1)
+
+#### (A) Application
+
+&emsp;&emsp;A modification under paragraph (1)(E) shall apply to information concerning—
+
+&emsp;&emsp;&emsp;(i) credit score data described in subsection (b)(6)(I), in a manner that is consistent with the purpose described in paragraph (1)(E); and
+
+&emsp;&emsp;&emsp;(ii) age or any other category of data described in paragraph (5) or (6) of subsection (b), as the Bureau determines to be necessary to satisfy the purpose described in paragraph (1)(E), and in a manner consistent with that purpose.
+
+#### (B) Standards
+
+&emsp;&emsp;The Bureau shall prescribe standards for any modification under paragraph (1)(E) to effectuate the purposes of this chapter, in light of the privacy interests of mortgage applicants or mortgagors. Where necessary to protect the privacy interests of mortgage applicants or mortgagors, the Bureau shall provide for the disclosure of information described in subparagraph (A) in aggregate or other reasonably modified form, in order to effectuate the purposes of this chapter.
 
 #### (i) Exemption from certain disclosure requirements
 
-The requirements of subsection (b)(4) of this section shall not apply with respect to any depository institution described in section 2802(2)(A) of this title which has total assets, as of the most recent full fiscal year of such institution, of $30,000,000 or less.
+The requirements of subsections (b)(4), (b)(5), and (b)(6) of this section shall not apply with respect to any depository institution described in section 2802(2)(A) <sup>1</sup> of this title which has total assets, as of the most recent full fiscal year of such institution, of $30,000,000 or less.
 
 #### (j) Loan application register information
 
 #### (1) In general
 
-&emsp;In addition to the information required to be disclosed under subsections (a) and (b) of this section, any depository institution which is required to make disclosures under this section shall make available to the public, upon request, loan application register information (as defined by the Board by regulation) in the form required under regulations prescribed by the Board.
+&emsp;In addition to the information required to be disclosed under subsections (a) and (b) of this section, any depository institution which is required to make disclosures under this section shall make available to the public, upon request, loan application register information (as defined by the Bureau by regulation) in the form required under regulations prescribed by the Bureau.
 
 #### (2) Format of disclosure
 
 #### (A) Unedited format
 
-&emsp;&emsp;Subject to subparagraph (B), the loan application register information described in paragraph (1) may be disclosed by a depository institution without editing or compilation and in the format in which such information is maintained by the institution.
+&emsp;&emsp;Subject to subparagraph (B), the loan application register information described in paragraph (1) may be disclosed by a depository institution without editing or compilation and in such formats as the Bureau may require.
 
 #### (B) Protection of applicant's privacy interest
 
-&emsp;&emsp;The Board shall require, by regulation, such deletions as the Board may determine to be appropriate to protect—
+&emsp;&emsp;The Bureau shall require, by regulation, such deletions as the Bureau may determine to be appropriate to protect—
 
 &emsp;&emsp;&emsp;(i) any privacy interest of any applicant, including the deletion of the applicant's name and identification number, the date of the application, and the date of any determination by the institution with respect to such application; and
 
@@ -94,7 +152,7 @@ The requirements of subsection (b)(4) of this section shall not apply with respe
 
 #### (3) Change of form not required
 
-&emsp;A depository institution meets the disclosure requirement of paragraph (1) if the institution provides the information required under such paragraph in the form in which the institution maintains such information.
+&emsp;A depository institution meets the disclosure requirement of paragraph (1) if the institution provides the information required under such paragraph in such formats as the Bureau may require <sup>2</sup>
 
 #### (4) Reasonable charge for information
 
@@ -114,17 +172,17 @@ The requirements of subsection (b)(4) of this section shall not apply with respe
 
 #### (7) Minimizing compliance costs
 
-&emsp;In prescribing regulations under this subsection, the Board shall make every effort to minimize the costs incurred by a depository institution in complying with this subsection and such regulations.
+&emsp;In prescribing regulations under this subsection, the Bureau shall make every effort to minimize the costs incurred by a depository institution in complying with this subsection and such regulations.
 
 #### (k) Disclosure of statements by depository institutions
 
 #### (1) In general
 
-&emsp;In accordance with procedures established by the Board pursuant to this section, any depository institution required to make disclosures under this section—
+&emsp;In accordance with procedures established by the Bureau pursuant to this section, anydepository institution required to make disclosures under this section—
 
 &emsp;&emsp;(A) shall make a disclosure statement available, upon request, to the public no later than 3 business days after the institution receives the statement from the Federal Financial Institutions Examination Council; and
 
-&emsp;&emsp;(B) may make such statement available on a floppy disc which may be used with a personal computer or in any other media which is not prohibited under regulations prescribed by the Board.
+&emsp;&emsp;(B) may make such statement available on a floppy disc which may be used with a personal computer or in any other media which is not prohibited under regulations prescribed by the Bureau.
 
 #### (2) Notice that data is subject to correction after final review
 
@@ -144,7 +202,7 @@ The requirements of subsection (b)(4) of this section shall not apply with respe
 
 #### (A) 6- and 9-month maximum periods
 
-&emsp;&emsp;Except as provided in subsections (j)(5) and (k)(1) of this section and regulations prescribed by the Board and subject to subparagraph (B), any information required to be disclosed for any year beginning after December 31, 1992, under—
+&emsp;&emsp;Except as provided in subsections (j)(5) and (k)(1) of this section and regulations prescribed by the Bureau and subject to subparagraph (B), any information required to be disclosed for any year beginning after December 31, 1992, under—
 
 &emsp;&emsp;&emsp;(i) this section shall be made available to the public before September 1 of the succeeding year; and
 
@@ -176,35 +234,67 @@ The requirements of subsection (b)(4) of this section shall not apply with respe
 
 #### (2) Form of information
 
-&emsp;In complying with paragraph (1), a depository institution shall, in the sole discretion ofthe institution, provide the person requesting the information with—
+&emsp;In complying with paragraph (1), a depository institution shall provide the person requesting the information with a copy of the information requested in such formats as the Bureau may require.
 
-&emsp;&emsp;(A) a paper copy of the information requested; or
+#### (n) Timing of certain disclosures
 
-&emsp;&emsp;(B) if acceptable to the person, the information through a form of electronic medium, such as a computer disk.
+The data required to be disclosed under subsection (b) shall be submitted to the Bureau or to the appropriate agency for any institution reporting under this chapter, in accordance with regulations prescribed by the Bureau. Institutions shall not be required to report new data under paragraph (5) or (6) of subsection (b) before the first January 1 that occurs after the end of the 9-month period beginning on the date on which regulations are issued by the Bureau in final form with respect to such disclosures.
 
-(Pub. L. 94–200, title III, §304, Dec. 31, 1975, 89 Stat. 1125; Pub. L. 96–399, title III, §340(a), Oct. 8, 1980, 94 Stat. 1657; Pub. L. 98–181, title VII, §701(a), Nov. 30, 1983, 97 Stat. 1266; Pub. L. 100–242, title V, §§565(a)(2), 570(h), Feb. 5, 1988, 101 Stat. 1945, 1950; Pub. L. 101–73, title XII, §1211(a)–(c)(2)(C), (f), (i), (j), Aug. 9, 1989, 103 Stat. 524–526; Pub. L. 102–242, title II, §212(a)(1), Dec. 19, 1991, 105 Stat. 2299; Pub. L. 102–550, title IX, §932(a), (b), Oct. 28, 1992, 106 Stat. 3889, 3891; Pub. L. 104–208, div. A, title II, §2225(b), Sept. 30, 1996, 110 Stat. 3009–416.)
+(Pub. L. 94–200, title III, §304, Dec. 31, 1975, 89 Stat. 1125; Pub. L. 96–399, title III, §340(a), Oct. 8, 1980, 94 Stat. 1657; Pub. L. 98–181, title VII, §701(a), Nov. 30, 1983, 97 Stat. 1266; Pub. L. 100–242, title V, §§565(a)(2), 570(h), Feb. 5, 1988, 101 Stat. 1945, 1950; Pub. L. 101–73, title XII, §1211(a)–(c)(2)(C), (f), (i), (j), Aug. 9, 1989, 103 Stat. 524–526; Pub. L. 102–242, title II, §212(a)(1), Dec. 19, 1991, 105 Stat. 2299; Pub. L. 102–550, title IX, §932(a), (b), Oct. 28, 1992, 106 Stat. 3889, 3891; Pub. L. 104–208, div. A, title II, §2225(b), Sept. 30, 1996, 110 Stat. 3009–416; Pub. L. 111–203, title X, §1094(1), (3), July 21, 2010, 124 Stat. 2097.)
 
 #### References in Text
 
 For the effective date of this chapter, referred to in subsec. (a)(1), see section 2808 of this title.
 
-The National Housing Act, referred to in subsecs. (b)(1) and (g)(1), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended. Titles I and II of the National Housing Act are classified generally to subchapters I (§1702 et seq.) and II (§1707 et seq.), respectively, of chapter 13 of this title. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
+The National Housing Act, referred to in subsecs. (b)(1) and (g)(1), is act June 27, 1934, ch. 847, 48 Stat. 1246. Titles I and II of the National Housing Act are classified generally to subchapters I (§1702 et seq.) and II (§1707 et seq.), respectively, of chapter 13 of this title. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
 
-The Housing Act of 1949, referred to in subsec. (b)(1), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended. Title V of the Housing Act of 1949 is classified generally to subchapter III (§1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
+The Housing Act of 1949, referred to in subsec. (b)(1), is act July 15, 1949, ch. 338, 63 Stat. 413. Title V of the Housing Act of 1949 is classified generally to subchapter III (§1471 et seq.) of chapter 8A of Title 42, The PublicHealth and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
+
+Section 2802(2)(A) of this title, referred to in subsecs. (h)(2)(B) and (i), was redesignated section 2802(3)(A) of this title by Pub. L. 111–203, title X, §1094(2)(A), July 21, 2010, 124 Stat. 2097.
 
 #### Amendments
 
-1996—Subsec. (m). Pub. L. 104–208 added subsec. (m).
+Subsec. (a)(1). Pub. L. 111–203, §1094(1), substituted “Bureau” for “Board”.
 
-1992—Subsec. (c). Pub. L. 102–550, §932(b), inserted “, other than loan application register information under subsection (j) of this section,” after “under this section”.
+Subsec. (b)(4). Pub. L. 111–203, §1094(3)(A)(i), inserted “age,” before “and gender”.
+
+Subsec. (b)(5), (6). Pub. L. 111–203, §1094(3)(A)(ii)–(iv), added pars. (5) and (6).
+
+Subsec. (e). Pub. L. 111–203, §1094(1), substituted “Bureau” for “Board”.
+
+Subsec. (h). Pub. L. 111–203, §1094(3)(B), added subsec. (h) and struck out former subsec. (h) which related to submission to agencies.
+
+Subsec. (i). Pub. L. 111–203, §1094(3)(C), substituted “subsections (b)(4), (b)(5), and (b)(6)” for “subsection (b)(4)”.
+
+Subsec. (j)(1). Pub. L. 111–203, §1094(1), substituted “Bureau” for “Board” in two places.
+
+Subsec. (j)(2)(A). Pub. L. 111–203, §1094(3)(D)(ii), substituted “in such formats as the Bureau may require” for “in the format in which such information is maintained by the institution”.
+
+Subsec. (j)(2)(B). Pub. L. 111–203, §1094(1), substituted “Bureau” for “Board” in two places.
+
+Subsec. (j)(3). Pub. L. 111–203, §1094(3)(D)(i), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “A depository institution meets the disclosure requirement of paragraph (1) if the institution provides the information required under such paragraph in the form in which the institution maintains such information.”
+
+Subsecs. (j)(7), (k)(1), (<i>l</i>)(2)(A). Pub. L. 111–203, §1094(1), substituted “Bureau” for “Board” wherever appearing.
+
+Subsec. (m)(2). Pub. L. 111–203, §1094(3)(E), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “In complying with paragraph (1), a depository institution shall, in the sole discretion of the institution, provide the person requesting the information with—
+
+&emsp;“(A) a paper copy of the information requested; or
+
+&emsp;“(B) if acceptable to the person, the information through a form of electronic medium, such as a computer disk.”
+
+Subsec. (n). Pub. L. 111–203, §1094(3)(F), added subsec. (n).
+
+<b>1996</b>—Subsec. (m). Pub. L. 104–208 added subsec. (m).
+
+<b>1992</b>—Subsec. (c). Pub. L. 102–550, §932(b), inserted “, other than loan application register information under subsection (j) of this section,” after “under this section”.
 
 Subsecs. (j) to (<i>l</i>). Pub. L. 102–550, §932(a), added subsecs. (j) to (<i>l</i>).
 
-1991—Subsec. (h)(1). Pub. L. 102–242, §212(a)(1)(A), added par. (1) and struck out former par. (1) which read as follows: “the Comptroller of the Currency for national banks;”.
+<b>1991</b>—Subsec. (h)(1). Pub. L. 102–242, §212(a)(1)(A), added par. (1) and struck out former par. (1) which read as follows: “the Comptroller of the Currency for national banks;”.
 
 Subsec. (h)(3). Pub. L. 102–242, §212(a)(1)(B), added par. (3) and struck out former par. (3) which read as follows: “the Federal Deposit Insurance Corporation for banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System), mutual savings banks, and any other depository institution described in section 2802(2)(A) of this title which is not otherwise referred to in this paragraph;”.
 
-1989—Subsec. (a)(1). Pub. L. 101–73, §1211(c)(1), inserted “(or for which the institution received completed applications)” after “originated”.
+<b>1989</b>—Subsec. (a)(1). Pub. L. 101–73, §1211(c)(1), inserted “(or for which the institution received completed applications)” after “originated”.
 
 Subsec. (a)(2). Pub. L. 101–73, §1211(c)(2)(A), inserted “(or for which completed applications were received)” after “originated or purchased” in last sentence.
 
@@ -222,17 +312,21 @@ Subsec. (h). Pub. L. 101–73, §1211(b), added subsec. (h).
 
 Subsec. (i). Pub. L. 101–73, §1211(j), added subsec. (i).
 
-1988—Subsec. (a)(1). Pub. L. 100–242, §570(h), substituted “at least one branch” for “at at least one branch”.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–242, §570(h), substituted “at least one branch” for “at at least one branch”.
 
 Subsec. (g). Pub. L. 100–242, §565(a)(2), added subsec. (g).
 
-1983—Subsecs. (a), (f). Pub. L. 98–181 substituted “primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas” for “standard metropolitan statistical area” wherever appearing.
+<b>1983</b>—Subsecs. (a), (f). Pub. L. 98–181 substituted “primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas” for “standard metropolitan statistical area” wherever appearing.
 
-1980—Subsec. (a)(1). Pub. L. 96–399, §340(a)(1), substituted “Department of Commerce” for “Office of Management and Budget”.
+<b>1980</b>—Subsec. (a)(1). Pub. L. 96–399, §340(a)(1), substituted “Department of Commerce” for “Office of Management and Budget”.
 
 Subsec. (a)(2)(A). Pub. L. 96–399, §340(a)(2), revised applicable factors so as to include mortgage loans in a census tract, or by a county, and exclude readily available and reasonably costing census tracts, or by ZIP code.
 
 Subsecs. (d) to (f). Pub. L. 96–399, §340(a)(3), added subsecs. (d) to (f).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1992 Amendment
 
@@ -244,9 +338,13 @@ Amendment by Pub. L. 101–73 applicable to each calendar year beginning after D
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 565(a)(2) of Pub. L. 100–242 applicable to the portion of calendar year 1988 that begins Aug. 19, 1988, and to each calendar year beginning after Dec. 31, 1988, see section 565(a)(4) of Pub. L. 100–242, as amended, set out as a note under section 2802 of this title.
+Amendment by section 565(a)(2) of Pub. L. 100–242 applicable to the portion of calendar year 1988 that begins Aug. 19, 1988, and to each calendar year beginning after Dec. 31, 1988, see section 565(a)(4) of Pub. L. 100–242, set out as a note under section 2802 of this title.
 
 #### Evaluation and Report on Feasibility and Desirability of Establishing a Unified System for Enforcing Fair Lending Laws and Regulations
 
 Evaluation of status and effectiveness of data collection and analysis systems involving fair lending, etc., and report thereof, see section 340(e) of Pub. L. 96–399, set out as a note under section 3305 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be followed by a period.</i>
 

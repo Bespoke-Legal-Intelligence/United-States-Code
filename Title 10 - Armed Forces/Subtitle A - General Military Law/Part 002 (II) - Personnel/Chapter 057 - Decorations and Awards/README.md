@@ -54,7 +54,7 @@ Pub. L. 89–529, §1(2), Aug. 11, 1966, 80 Stat. 339, added item 1125.
 
 #### Promotional Materials and Recognition Items for Participants in Operation Enduring Freedom or Operation Iraqi Freedom
 
-Pub. L. 110–116, div. A, title VIII, §8099, Nov. 13, 2007, 121 Stat. 1337, provided that: “Hereafter, the Secretary of Defense may present promotional materials, including a United States flag, to any member of an Active or Reserve component under the Secretary's jurisdiction who, as determined by the Secretary, participates in Operation Enduring Freedom or Operation Iraqi Freedom, along with other recognition items in conjunction with any week-long national observation and day of national celebration, if established by Presidential proclamation, for any such members returning from such operations.”
+Pub. L. 110–116, div. A, title VIII, §8099, Nov. 13, 2007, 121 Stat. 1337, provided that: “Hereafter, the Secretary of Defense may present promotional materials, including a United States flag, to any member of an Active or Reserve component under the Secretary's jurisdiction who, as determined by the Secretary, participatesin Operation Enduring Freedom or Operation Iraqi Freedom, along with other recognition items in conjunction with any week-long national observation and day of national celebration, if established by Presidential proclamation, for any such members returning from such operations.”
 
 #### Report on Department of Defense Process for Awarding Decorations
 
@@ -146,7 +146,7 @@ By virtue of the authority vested in me as President of the United States of Ame
 
 Section 1. There is hereby established a Defense Superior Service Medal with accompanying ribbons and appurtenances for award by the Secretary of Defense to any member of the Armed Forces of the United States who has rendered superior meritorious service in a position of significant responsibility with the Office of the Secretary of Defense, the Organization of the Joint Chiefs of Staff, a specified or unified command, a Defense agency, or such other joint activity as may be designated by the Secretary of Defense.
 
-Sec. 2. The Defense Superior Service Medal and appurtenances thereto shall be of appropriate design approved by the Secretary of Defense and shall be awarded under such regulations as he shall prescribe. These regulations shall place the Defense Superior Service Medal in an order of precedence after the Medal ofHonor, the Distinguished Service Cross, the Defense Distinguished Service Medal, the Distinguished Service Medal and the Silver Star Medal, but before the Legion of Merit.
+Sec. 2. The Defense Superior Service Medal and appurtenances thereto shall be of appropriate design approved by the Secretary of Defense and shall be awarded under such regulations as he shall prescribe. These regulations shall place the Defense Superior Service Medal in an order of precedence after the Medal of Honor, the Distinguished Service Cross, the Defense Distinguished Service Medal, the Distinguished Service Medal and the Silver Star Medal, but before the Legion of Merit.
 
 Sec. 3. No more than one Defense Superior Service Medal shall be awarded to any one person, but for each succeeding period of superior meritorious service justifying such an award, a suitable device may be awarded to be worn with that Medal as prescribed by appropriate regulations of the Department of Defense.
 
@@ -194,7 +194,7 @@ Ex. Ord. No. 12019, Nov. 3, 1977, 42 F.R. 57945, provided:
 
 By virtue of the authority vested in me as President of the United States of America, and as Commander in Chief of the Armed Forces, it is hereby ordered as follows:
 
-Section 1. There is hereby established a Defense Meritorious Service Medal, with accompanying ribbons and appurtenances, for award by the Secretary of Defense to any member of the Armed Forces of the United States who has rendered outstanding non-combat meritorious achievement or service while assigned to theOffice of the Secretary of Defense, the Organization of the Joint Chiefs of Staff, a specified or unified command, a Defense agency, or other such joint activity as may be designated by the Secretary of Defense.
+Section 1. There is hereby established a Defense Meritorious Service Medal, with accompanying ribbons and appurtenances, for award by the Secretary of Defense to any member of the Armed Forces of the United States who has rendered outstanding non-combat meritorious achievement or service while assigned to the Office of the Secretary of Defense, the Organization of the Joint Chiefs of Staff, a specified or unified command, a Defense agency, or other such joint activity as may be designated by the Secretary of Defense.
 
 Sec. 2. The Defense Meritorious Service Medal, with accompanying ribbons and appurtenances, shall be of appropriate design approved by the Secretary of Defense and shall be awarded under such regulations as the Secretary of Defense may prescribe. These regulations shall place the Defense Meritorious Service Medal in an order of precedence after the Medal of Honor, the Distinguished Service Cross, the Defense Distinguished Service Medal, the Distinguished Service Medal, the Silver Star Medal, the Defense Superior Service Medal, the Legion of Merit Medal, and the Bronze Star Medal, but before the Meritorious Service Medal.
 

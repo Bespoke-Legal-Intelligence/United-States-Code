@@ -4,7 +4,7 @@ In this chapter:
 
 #### (1) Field-based course
 
-&emsp;The term “field-based course” means a course of instruction offered by an institutionof higher education that includes a requirement that students teach a minimum of 3 lessons or sequences of lessons to elementary or secondary students.
+&emsp;The term “field-based course” means a course of instruction offered by an institution of higher education that includes a requirement that students teach a minimum of 3 lessons or sequences of lessons to elementary or secondary students.
 
 #### (2) Institution of higher education
 

@@ -62,7 +62,7 @@
 
 #### (1) In general
 
-&emsp;The President shall carry out an import quota program that provides that whenever the Secretary determines and announces that the average price of the base quality of upland cotton, as determined by the Secretary, in the designated spot markets for a month exceeded 130 percent of the average price of such quality of cotton in the markets for the preceding 36 months, notwithstanding any other provision of law, there shall immediately be in effect a limited global import quota subject to the following conditions:
+&emsp;The President shall carry out an import quota program that provides that wheneverthe Secretary determines and announces that the average price of the base quality of upland cotton, as determined by the Secretary, in the designated spot markets for a month exceeded 130 percent of the average price of such quality of cotton in the markets for the preceding 36 months, notwithstanding any other provision of law, there shall immediately be in effect a limited global import quota subject to the following conditions:
 
 #### (A) Quantity
 
@@ -130,7 +130,7 @@ The Harmonized Tariff Schedule, referred to in subsecs. (b)(5)(D) and (c)(1)(C)(
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–171, §1103(a)(1), struck out subsec. (a), which related to cotton user marketing certificates.
+<b>2006</b>—Subsec. (a). Pub. L. 109–171, §1103(a)(1), struck out subsec. (a), which related to cotton user marketing certificates.
 
 Subsec. (b)(1)(B). Pub. L. 109–171, §1103(a)(2)(A), struck out “, adjusted for the value of any certificate issued under subsection (a) of this section,” after “C.I.F. Northern Europe”.
 

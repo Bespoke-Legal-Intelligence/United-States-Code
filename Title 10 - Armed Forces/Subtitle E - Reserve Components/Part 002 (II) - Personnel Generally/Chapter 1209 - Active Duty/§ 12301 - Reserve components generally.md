@@ -6,7 +6,7 @@
 
 (c) So far as practicable, during any expansion of the active armed forces that requires that units and members of the reserve components be ordered to active duty as provided in subsection (a), members of units organized and trained to serve as units who are ordered to that duty without their consent shall be so ordered with their units. However, members of those units may be reassigned after being so ordered to active duty.
 
-(d) At any time, an authority designated by the Secretary concerned may order a member of a reserve component under his jurisdiction to active duty, or retain him on active duty, with the consent of that member. However, a member of the Army National Guard of the United States or the Air National Guard of the United States may not be ordered to active duty under this subsection without the consent of the governor or other appropriate authority of the State concerned.
+(d) At any time, an authority designated by the Secretary concerned may order a member of a reserve component under his jurisdiction to active duty, or retain him on active duty, with the consent of that member. However, a memberof the Army National Guard of the United States or the Air National Guard of the United States may not be ordered to active duty under this subsection without the consent of the governor or other appropriate authority of the State concerned.
 
 (e) The period of time allowed between the date when a Reserve ordered to active duty as provided in subsection (a) is alerted for that duty and the date when the Reserve is required to enter upon that duty shall be determined by the Secretary concerned based upon military requirements at that time.
 
@@ -96,7 +96,7 @@ Aug. 9, 1955, ch. 665, §2(e), 69 Stat. 599.
 
 The word “hereafter” is omitted as surplusage. The words “there are not enough . . . who are” are substituted for the words “adequate numbers of . . . are not”. The words “without the consent of the persons affected” and “under the jurisdiction of that Secretary” are inserted for clarity.
 
-The changes are necessary to reflect section 101(b) of the Armed Forces Reserve Act of 1952 (50 U.S.C. 901(b)), which defines the term “active duty” to exclude active duty for training. This definition applied to the source law for these sections \[sections 672 and 673\], section 233(a), (b)(1), and (c) of the Armed Forces Reserve Act of 1952 (50 U.S.C. 961(a), (b)(1), (c)).
+The changes are necessary to reflect section 101(b) of the Armed Forces Reserve Act of 1952 (50 U.S.C. 901(b)), which defines the term “active duty” to exclude active duty for training. This definition applied to the sourcelaw for these sections \[sections 672 and 673\], section 233(a), (b)(1), and (c) of the Armed Forces Reserve Act of 1952 (50 U.S.C. 961(a), (b)(1), (c)).
 
 #### Codification
 
@@ -130,7 +130,7 @@ Subsec. (g). Pub. L. 99–661, §524(a), added subsec. (g).
 
 Subsec. (e). Pub. L. 96–584 substituted provisions respecting determination of the allowable time in terms of military requirements for provisions authorizing a reasonable time.
 
-<b>1958</b>—Subsec. (a). Pub. L. 85–861, §§1(13), 33(a)(5), inserted “(other than for training)” after “active duty”, substituted “inactive National Guard” for “inactive Army National Guard or in the inactive Air National Guard”, and inserted provisions prohibiting a memberof the Standby Reserve from being ordered to active duty under this subsection unless the Director of Selective Service determines that the member is available for active duty.
+<b>1958</b>—Subsec. (a). Pub. L. 85–861, §§1(13), 33(a)(5), inserted “(other than for training)” after “active duty”, substituted “inactive National Guard” for “inactive Army National Guard or in the inactive Air National Guard”, and inserted provisions prohibiting a member of the Standby Reserve from being ordered to active duty under this subsection unless the Director of Selective Service determines that the member is available for active duty.
 
 Subsec. (c). Pub. L. 85–861, §33(a)(5), inserted “(other than for training)” after “active duty”.
 

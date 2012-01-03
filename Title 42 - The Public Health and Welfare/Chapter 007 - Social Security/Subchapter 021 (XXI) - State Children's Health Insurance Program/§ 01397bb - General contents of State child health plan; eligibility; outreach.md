@@ -42,7 +42,7 @@ A State child health plan shall include a description, consistent with the requi
 
 &emsp;&emsp;&emsp;(iv) at State option, may not apply a waiting period in the case of a child provided dental-only supplemental coverage under section 1397jj(b)(5) of this title; and
 
-&emsp;&emsp;&emsp;(v) shall, beginning January 1, 2014, use modified adjusted gross income and household income (as defined in section 36B(d)(2) of the Internal Revenue Code of 1986) to determine eligibility for child health assistance under the State child health plan or under any waiver of such plan and for anyother purpose applicable under the plan or waiver for which a determination of income is required, including with respect to the imposition of premiums and cost-sharing, consistent with section 1396a(e)(14) of this title.
+&emsp;&emsp;&emsp;(v) shall, beginning January 1, 2014, use modified adjusted gross income and household income (as defined in section 36B(d)(2) of the Internal Revenue Code of 1986) to determine eligibility for child health assistance under the State child health plan or under any waiver of such plan and for any other purpose applicable under the plan or waiver for which a determination of income is required, including with respect to the imposition of premiums and cost-sharing, consistent with section 1396a(e)(14) of this title.
 
 #### (2) Methodology
 

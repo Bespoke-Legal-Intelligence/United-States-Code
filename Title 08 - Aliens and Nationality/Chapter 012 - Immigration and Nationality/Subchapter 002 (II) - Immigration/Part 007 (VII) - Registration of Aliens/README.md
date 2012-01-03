@@ -1,7 +1,5 @@
 Part VII—Registration of Aliens
 
-<i><sup>1</sup></i><i> So in original. The word “at” probably should not appear.</i>
-
 
 ---
 

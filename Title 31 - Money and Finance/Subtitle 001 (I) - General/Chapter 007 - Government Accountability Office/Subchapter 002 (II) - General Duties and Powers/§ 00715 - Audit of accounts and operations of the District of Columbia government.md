@@ -44,7 +44,7 @@ Dec. 24, 1973, Pub. L. 93–198, §736, 87 Stat. 823.
 
 31:61(a)(last sentence).
 
-In subsection (a), the words “Comptroller General” are substituted for “General Accounting Office” for consistency. The words “of Columbia” are added for clarity. The words “rules and” are omitted as surplus. The word “way” is substituted for “procedures” and “detail” to eliminate unnecessary words. The words “of the United States” are omitted as surplus. The word “records” is substituted for “vouchers and other documents” to eliminate unnecessary words.
+In subsection (a), the words “Comptroller General” are substituted for “General Accounting Office” for consistency. The words “of Columbia” are added for clarity. The words “rules and” are omitted as surplus. The word “way” is substituted for “procedures” and “detail” to eliminate unnecessary words. The words “ofthe United States” are omitted as surplus. The word “records” is substituted for “vouchers and other documents” to eliminate unnecessary words.
 
 In subsection (b), the words “of the District of Columbia” are added for clarity. The words “comments and” are omitted as surplus. The word “audited” is substituted for “to which the reports relate” for consistency and to eliminate unnecessary words. The words “with respect thereto” are omitted as surplus.
 

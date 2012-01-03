@@ -52,7 +52,7 @@ Section was formerly classified to section 553 of this title.
 
 #### Amendments
 
-1995—Pub. L. 104–48, §3(b)(1), reenacted section catchline without change.
+<b>1995</b>—Pub. L. 104–48, §3(b)(1), reenacted section catchline without change.
 
 Subsec. (a). Pub. L. 104–48, §§3(b)(1), 5(a), inserted heading and substituted “$1,000” for “$500” in first paragraph and “$250” for “$25” in two places.
 
@@ -68,25 +68,25 @@ Subsec. (b)(5). Pub. L. 104–48, §§3(a)(3), (4), 4(b), designated provisions 
 
 Subsec. (c). Pub. L. 104–48, §3(b)(3), inserted heading.
 
-1990—Subsec. (b). Pub. L. 101–624 substituted “. Any reserve funds in the Perishable Agricultural Commodities Act Fund may be invested by the Secretary in insured or fully-collateralized interest-bearing accounts or, at the discretion of the Secretary, by the Secretary of the Treasury in United States Government debt instruments. Any interest earned on such reserve funds shall be credited to the Perishable Agricultural Commodities Act Fund and shall be available for the same purposes as the fees deposited in such fund. The” for “: <i>Provided</i>, That the” and “. Financial” for “: <i>Provided further</i>, That financial”.
+<b>1990</b>—Subsec. (b). Pub. L. 101–624 substituted “. Any reserve funds in the Perishable Agricultural Commodities Act Fund may be invested by the Secretary in insured or fully-collateralized interest-bearing accounts or, at the discretion of the Secretary, by the Secretary of the Treasury in United States Government debt instruments. Any interest earned on such reserve funds shall be credited to the Perishable Agricultural Commodities Act Fund and shall be available for the same purposes as the fees deposited in such fund. The” for “: <i>Provided</i>, That the” and “. Financial” for “: <i>Provided further</i>, That financial”.
 
-1988—Subsec. (b). Pub. L. 100–414 substituted “$400, plus $200” for “$300, plus $150” and “$4,000” for “$3,000”.
+<b>1988</b>—Subsec. (b). Pub. L. 100–414 substituted “$400, plus $200” for “$300, plus $150” and “$4,000” for “$3,000”.
 
-1981—Subsec. (b). Pub. L. 97–98 substituted “$300”, “$150”, and “$3,000” for “$150”, “$50”, and “$1,000”, respectively.
+<b>1981</b>—Subsec. (b). Pub. L. 97–98 substituted “$300”, “$150”, and “$3,000” for “$150”, “$50”, and “$1,000”, respectively.
 
-1978—Subsec. (b). Pub. L. 95–562 substituted “in such application and to be furnished thereafter” for “in such application” and “$150, plus $50 for each branch or additional business facility operated by the applicant in excess of nine such facilities, as determined by the Secretary” for “$100”, and inserted provisions limiting the total annual fees for any applicant to an amount not to exceed $1,000 in the aggregate and limiting the amount of money in the special fund at the end of any fiscal year to an amount not to exceed 25 percent of the projected budget for the next following fiscal year.
+<b>1978</b>—Subsec. (b). Pub. L. 95–562 substituted “in such application and to be furnished thereafter” for “in such application” and “$150, plus $50 for each branch or additional business facility operated by the applicant in excess of nine such facilities, as determined by the Secretary” for “$100”, and inserted provisions limiting the total annual fees for any applicant to an amount not to exceed $1,000 in the aggregate and limiting the amount of money in the special fund at the end of any fiscal year to an amount not to exceed 25 percent of the projected budget for the next following fiscal year.
 
-1969—Subsec. (b). Pub. L. 91–107 increased limitation on fees from $50 to $100.
+<b>1969</b>—Subsec. (b). Pub. L. 91–107 increased limitation on fees from $50 to $100.
 
-1962—Subsec. (b). Pub. L. 87–725, §3, increased annual fee from a maximum of $25, to such fee as the Secretary determines necessary to meet the expenses of administering this chapter and the Act approved March 3, 1927, but not exceeding $50, directed the Secretary to give public notice of any increase in the annual fee and to allow reasonable time before the effective date of such increase for submission of views on, or objections to, such increase, and struck out references to the availability of the Perishable Agricultural Commodities Act Fund for administrative expenses of sections 581 to 589 of this title.
+<b>1962</b>—Subsec. (b). Pub. L. 87–725, §3, increased annual fee from a maximum of $25, to such fee as the Secretary determines necessary to meet the expenses of administering this chapter and the Act approved March 3, 1927, but not exceeding $50, directed the Secretary to give public notice of any increase in the annual fee and to allow reasonable time before the effective date of such increase for submission of views on, or objections to, such increase, and struck out references to the availability of the Perishable Agricultural Commodities Act Fund for administrative expenses of sections 581 to 589 of this title.
 
 Subsec. (c). Pub. L. 87–725, §4, added subsec. (c).
 
-1956—Subsec. (b). Act July 30, 1956, increased fee from $15 annually to not more than $25 annually.
+<b>1956</b>—Subsec. (b). Act July 30, 1956, increased fee from $15 annually to not more than $25 annually.
 
-1950—Subsec. (b). Act June 15, 1950, increased fee from $10 to $15 annually, provided for its disposition in fund, made fund available for administrative expenses, and provided for financial statements.
+<b>1950</b>—Subsec. (b). Act June 15, 1950, increased fee from $10 to $15 annually, provided for its disposition in fund, made fund available for administrative expenses, and provided for financial statements.
 
-1937—Subsec. (a). Act Aug. 20, 1937, added second par.
+<b>1937</b>—Subsec. (a). Act Aug. 20, 1937, added second par.
 
 #### Effective Date of 1981 Amendment
 

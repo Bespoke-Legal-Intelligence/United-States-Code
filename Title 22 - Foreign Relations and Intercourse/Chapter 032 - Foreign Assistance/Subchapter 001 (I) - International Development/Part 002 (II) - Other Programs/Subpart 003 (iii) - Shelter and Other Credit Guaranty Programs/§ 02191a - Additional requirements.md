@@ -6,7 +6,7 @@
 
 &emsp;The Corporation may insure, reinsure, guarantee, or finance a project only if the country in which the project is to be undertaken is taking steps to adopt and implement laws that extend internationally recognized worker rights, as defined in section 2467(4) of title 19, to workers in that country (including any designated zone in that country). The Corporation shall also include the following language, in substantially the following form, in all contracts which the Corporation enters into with eligible investors to provide financial support under this subpart:
 
-&emsp;&emsp;“The investor agrees not to take actions to prevent employees of the foreign enterprise from lawfully exercising their right of association and their right to organize and bargain collectively. The investor further agrees to observe applicable laws relating to a minimum age for employment of children, acceptable conditions of work with respect to minimum wages, hours of work, and occupational health and safety, and not to use forced labor. The investor is not responsible under this paragraph for the actions of a foreign government.”
+&emsp;&emsp;“The investor agrees not to take actions to prevent employees of the foreign enterprise from lawfully exercising their right of association and their right to organize and bargain collectively. The investor further agrees to observe applicable laws relating to a minimum age for employment of children, acceptable conditions of work with respect to minimum wages, hours of work, and occupational health and safety, and not to use forced labor. The investor is not responsibleunder this paragraph for the actions of a foreign government.”
 
 #### (2) Use of annual reports on workers rights
 

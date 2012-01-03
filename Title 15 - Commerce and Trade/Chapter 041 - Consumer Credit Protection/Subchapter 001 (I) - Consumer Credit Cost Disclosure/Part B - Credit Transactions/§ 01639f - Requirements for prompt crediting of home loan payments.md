@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In connection with a consumer credit transaction secured by a consumer's principal dwelling, no servicer shall fail to credit a payment to the consumer's loan account as of the date of receipt, except when a delay in crediting does not result in any charge to the consumer or in the reporting of negative information to a consumerreporting agency, except as required in subsection (b).
+In connection with a consumer credit transaction secured by a consumer's principal dwelling, no servicer shall fail to credit a payment to the consumer's loan account as of the date of receipt, except when a delay in crediting does not result in any charge to the consumer or in the reporting of negative information to a consumer reporting agency, except as required in subsection (b).
 
 #### (b) Exception
 

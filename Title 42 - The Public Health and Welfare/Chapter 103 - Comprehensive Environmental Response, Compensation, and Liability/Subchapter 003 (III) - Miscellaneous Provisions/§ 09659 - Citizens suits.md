@@ -34,7 +34,7 @@ The district court shall have jurisdiction in actions brought under subsection (
 
 &emsp;&emsp;(B) The State in which the alleged violation occurs.
 
-&emsp;&emsp;(C) Any alleged violator of the standard, regulation, condition, requirement, or orderconcerned (including any provision of an agreement under section 9620 of this title).
+&emsp;&emsp;(C) Any alleged violator of the standard, regulation, condition, requirement, or order concerned (including any provision of an agreement under section 9620 of this title).
 
 > &emsp;Notice under this paragraph shall be given in such manner as the President shall prescribe by regulation.
 

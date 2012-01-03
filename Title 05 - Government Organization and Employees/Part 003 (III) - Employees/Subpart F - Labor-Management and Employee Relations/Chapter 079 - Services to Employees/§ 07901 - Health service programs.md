@@ -62,7 +62,7 @@ This section amends 5 U.S.C. 7901 to reflect 1966 Reorganization Plan No. 3, eff
 
 #### Amendments
 
-1996—Subsec. (f). Pub. L. 104–201 amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “The health programs conducted by the following agencies are not affected by this section—
+<b>1996</b>—Subsec. (f). Pub. L. 104–201 amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “The health programs conducted by the following agencies are not affected by this section—
 
 &emsp;“(1) the Tennessee Valley Authority;
 
@@ -76,7 +76,7 @@ Secretary of Health, Education, and Welfare redesignated Secretary of Health and
 
 #### Short Title of 1993 Amendment
 
-Pub. L. 103–172, §1(a), Dec. 2, 1993, 107 Stat. 1995, provided that: “This Act \[enacting section 7905 of this title and provisions set out as notes under section 7905 of this title\] may be cited as the ‘Federal Employees Clean Air Incentives Act’.”
+Pub. L. 103–172, §1(a), Dec. 2, 1993, 107 Stat. 1995, provided that: “This Act \[enacting section 7905 of this title and provisions set out as notes under section 7905 ofthis title\] may be cited as the ‘Federal Employees Clean Air Incentives Act’.”
 
 #### Demonstration Project: Health Protection; Health Promotion; Disease Prevention; and Secondary Prevention
 

@@ -26,7 +26,7 @@ In accordance with regulations issued pursuant to this subchapter, in any case i
 
 #### (c) Interim benefit payment
 
-Whenever the Bureau determines upon showing of need and prior to final action that the death of a public safety officer is one with respect to which a benefit will probably be paid, the Bureau may make an interim benefit payment not exceeding $3,000 to the individual entitled to receive a benefit under subsection (a) of this section.
+Whenever the Bureau determines upon showing of need and prior to final action that thedeath of a public safety officer is one with respect to which a benefit will probably be paid, the Bureau may make an interim benefit payment not exceeding $3,000 to the individual entitled to receive a benefit under subsection (a) of this section.
 
 #### (d) Deduction of interim payment
 
@@ -102,7 +102,7 @@ A prior section 3796, Pub. L. 90–351, title I, §1201, as added Pub. L. 96–1
 
 Another prior section 3796, Pub. L. 90–351, title I, §701, as added Pub. L. 94–430, §2, Sept. 29, 1976, 90 Stat. 1346, contained provisions similar to this section, prior to the general amendment of this chapter by Pub. L. 96–157.
 
-A prior section 1201 of Pub. L. 90–351, title VII, June 19, 1968, 82 Stat. 236, was set out in the Appendix to Title 18, Crimes and Criminal Procedure, prior to repeal by Pub. L. 99–308, §104(b), May 19, 1986, 100 Stat. 459.
+A prior section 1201 of Pub. L. 90–351, title VII, June 19, 1968, 82 Stat. 236, was set out in the Appendix toTitle 18, Crimes and Criminal Procedure, prior to repeal by Pub. L. 99–308, §104(b), May 19, 1986, 100 Stat. 459.
 
 #### Amendments
 

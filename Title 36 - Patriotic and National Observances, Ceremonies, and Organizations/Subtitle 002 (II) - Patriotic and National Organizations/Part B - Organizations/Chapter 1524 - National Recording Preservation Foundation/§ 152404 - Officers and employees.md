@@ -2,7 +2,7 @@
 
 (a)
 
-Secretary of the Board.—(1) The Librarian shall appoint a Secretary of the Board toserve as executive director of the corporation. The Librarian may remove the Secretary.
+Secretary of the Board.—(1) The Librarian shall appoint a Secretary of the Board to serve as executive director of the corporation. The Librarian may remove the Secretary.
 
 (2) The Secretary shall be knowledgeable and experienced in matters relating to—
 

@@ -1,7 +1,5 @@
 ### SUBCHAPTER I—TRAVEL AND SUBSISTENCE EXPENSES; MILEAGE ALLOWANCES
 
-<i><sup>1</sup></i><i> So in original. Two sections 5757 have been enacted.</i>
-
 
 ---
 

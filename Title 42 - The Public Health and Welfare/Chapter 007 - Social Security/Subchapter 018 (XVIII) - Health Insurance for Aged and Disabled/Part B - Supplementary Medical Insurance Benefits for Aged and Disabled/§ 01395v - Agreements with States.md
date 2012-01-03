@@ -74,13 +74,9 @@ For provisions relating to enrollment of qualified medicare beneficiaries under 
 
 #### References in Text
 
-Part A of subchapter IV of this chapter, referred to in subsecs. (b)(2) and (f), is classified to section 601 et seq. of this title.
-
 The Railroad Retirement Act of 1974, referred to in subsec. (d)(3)(B), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
 
 Section 1395u(f) of this title, referred to in subsec. (f), was repealed by Pub. L. 108–173, title IX, §911(c)(5), Dec. 8, 2003, 117 Stat. 2384.
-
-Part A of this subchapter, referred to in subsec. (i), is classified to section 1395c et seq. of this title.
 
 #### Amendments
 
@@ -158,7 +154,7 @@ Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed a
 
 #### Effective Date of 1983 Amendment; Transitional Rule
 
-Amendment by Pub. L. 98–21 applicable to premiums for months beginning with January 1984, but for months after June 1983 and before January 1984, the monthly premium for June 1983 shall apply to individuals enrolled under parts A and B of this subchapter, see section 606(c) of Pub. L. 98–21, set out as a note under section 1395r of this title.
+Amendment by Pub. L. 98–21 applicable to premiums for months beginning with January 1984, but formonths after June 1983 and before January 1984, the monthly premium for June 1983 shall apply to individuals enrolled under parts A and B of this subchapter, see section 606(c) of Pub. L. 98–21, set out as a note under section 1395r of this title.
 
 #### Effective Date of 1980 Amendment
 

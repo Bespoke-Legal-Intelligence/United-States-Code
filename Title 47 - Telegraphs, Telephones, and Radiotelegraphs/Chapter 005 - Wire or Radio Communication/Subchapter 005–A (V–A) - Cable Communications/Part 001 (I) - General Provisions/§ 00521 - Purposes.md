@@ -102,7 +102,7 @@ Pub. L. 102–385, §26, Oct. 5, 1992, 106 Stat. 1502, directed Federal Communic
 
 #### Applicability of Antitrust Laws to Pub. L. 102–385
 
-Pub. L. 102–385, §27, Oct. 5, 1992, 106 Stat. 1503, provided that: “Nothing in this Act \[enacting sections 334, 335, 534 to 537, 544a, 548, and 555a of this title, amending sections 325, 332, 522, 532, 533, 541 to 544, 546, 551 to 555, and 558 of this title, and enacting provisions set out as notes under this section and sections 325, 531, 543, and 554 of this title\] or the amendments made by this Actshall be construed to alter or restrict in any manner the applicability of any Federal or State antitrust law.”
+Pub. L. 102–385, §27, Oct. 5, 1992, 106 Stat. 1503, provided that: “Nothing in this Act \[enacting sections 334, 335, 534 to 537, 544a, 548, and 555a of this title, amending sections 325, 332, 522, 532, 533, 541 to 544, 546, 551 to 555, and 558 of this title, and enacting provisions set out as notes under this section and sections 325, 531, 543, and 554 of this title\] or the amendments made by this Act shall be construed to alter or restrict in any manner the applicability of any Federal or State antitrust law.”
 
 #### Effect of Cable Communications Policy Act of 1984 on Jurisdiction of Federal Communications Commission Respecting Wire or Radio Communications Through Cable Systems
 

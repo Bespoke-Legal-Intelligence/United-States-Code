@@ -40,7 +40,7 @@
 
 &emsp;(iii) in the case of persons who are employed by an educational agency or institution but who are not in attendance at such agency or institution, records made and maintained in the normal course of business which relate exclusively to such person in that person's capacity as an employee and are not available for use for any other purpose; or
 
-&emsp;(iv) records on a student who is eighteen years of age or older, or is attending an institution of postsecondary education, which are made or maintained by a physician, psychiatrist, psychologist, or other recognized professional or paraprofessional acting in his professional or paraprofessional capacity, or assisting in that capacity, and which are made, maintained, or used only in connection with the provision of treatment to the student, and are not available to anyone other than persons providing such treatment, except that suchrecords can be personally reviewed by a physician or other appropriate professional of the student's choice.
+&emsp;(iv) records on a student who is eighteen years of age or older, or is attending an institution of postsecondary education, which are made or maintained by a physician, psychiatrist, psychologist, or other recognized professional or paraprofessional acting in his professional or paraprofessional capacity, or assisting in that capacity, and which are made, maintained, or used only in connection with the provision of treatment to the student, and are not available to anyone other than persons providing such treatment, except that such records can be personally reviewed by a physician or other appropriate professional of the student's choice.
 
 (5)(A) For the purposes of this section the term “directory information” relating to a student includes the following: the student's name, address, telephone listing, date and place of birth, major field of study, participation in officially recognized activities and sports, weight and height of members of athletic teams, dates of attendance, degrees and awards received, and the most recent previous educational agency or institution attended by the student.
 
@@ -82,7 +82,7 @@
 
 &emsp;(ii) the entity or persons designated in any other subpoena issued for a law enforcement purpose, in which case the court or other issuing agency may order, for good cause shown, the educational agency or institution (and any officer, director, employee, agent, or attorney for such agency or institution) on which the subpoena is served, to not disclose to any person the existence or contents of the subpoena or any information furnished in response to the subpoena; and
 
-&emsp;(K) the Secretary of Agriculture, or authorized representative from the Food and Nutrition Service or contractors acting on behalf ofthe Food and Nutrition Service, for the purposes of conducting program monitoring, evaluations, and performance measurements of State and local educational and other agencies and institutions receiving funding or providing benefits of 1 or more programs authorized under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) for which the results will be reported in an aggregate form that does not identify any individual, on the conditions that—
+&emsp;(K) the Secretary of Agriculture, or authorized representative from the Food and Nutrition Service or contractors acting on behalf of the Food and Nutrition Service, for the purposes of conducting program monitoring, evaluations, and performance measurements of State and local educational and other agencies and institutions receiving funding or providing benefits of 1 or more programs authorized under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) for which the results will be reported in an aggregate form that does not identify any individual, on the conditions that—
 
 &emsp;&emsp;(i) any data collected under this subparagraph shall be protected in a manner that will not permit the personal identification of students and their parents by other than the authorized representatives of the Secretary; and
 
@@ -114,7 +114,7 @@
 
 &emsp;(ii) may include the name of any other student, such as a victim or witness, only with the written consent of that other student.
 
-(7)(A) Nothing in this section may be construed to prohibit an educational institutionfrom disclosing information provided to the institution under section 14071 <sup>2</sup> of title 42 concerning registered sex offenders who are required to register under such section.
+(7)(A) Nothing in this section may be construed to prohibit an educational institution from disclosing information provided to the institution under section 14071 <sup>2</sup> of title 42 concerning registered sex offenders who are required to register under such section.
 
 (B) The Secretary shall take appropriate steps to notify educational institutions that disclosure of information described in subparagraph (A) is permitted.
 
@@ -124,7 +124,7 @@ Not later than 240 days after October 20, 1994, the Secretary shall adopt approp
 
 #### (d) Students’ rather than parents’ permission or consent
 
-For the purposes of this section, whenever a student has attained eighteen years of age, or is attending an institution of postsecondary education, the permission or consent required of and the rights accorded to the parents of the student shall thereafter only be required of and accorded to the student.
+For the purposes of this section, whenever a student has attained eighteen years of age, or isattending an institution of postsecondary education, the permission or consent required of and the rights accorded to the parents of the student shall thereafter only be required of and accorded to the student.
 
 #### (e) Informing parents or students of rights under this section
 
@@ -174,7 +174,7 @@ Nothing in this section shall prohibit an educational agency or institution from
 
 &emsp;(A)
 
-In general.—An application under paragraph (1) shall certify that there are specificand articulable facts giving reason to believe that the education records are likely to contain information described in paragraph (1)(A).
+In general.—An application under paragraph (1) shall certify that there are specific and articulable facts giving reason to believe that the education records are likely to contain information described in paragraph (1)(A).
 
 &emsp;(B) The court shall issue an order described in paragraph (1) if the court finds that the application for the order includes the certification described in subparagraph (A).
 
@@ -186,7 +186,7 @@ In general.—An application under paragraph (1) shall certify that there are sp
 
 &emsp;Subsection (b)(4) of this section does not apply to education records subject to a court order under this subsection.
 
-(Pub. L. 90–247, title IV, §444, formerly §438, as added Pub. L. 93–380, title V, §513(a), Aug. 21, 1974, 88 Stat. 571; amended Pub. L. 93–568, §2(a), Dec. 31, 1974, 88 Stat. 1858; Pub. L. 96–46, §4(c), Aug. 6, 1979, 93 Stat. 342; Pub. L. 101–542, title II, §203, Nov. 8, 1990, 104 Stat. 2385; Pub. L. 102–325, title XV, §1555(a), July 23, 1992, 106 Stat. 840; renumbered §444 and amended Pub. L. 103–382, title II, §§212(b)(1), 249, 261(h), Oct. 20, 1994, 108 Stat. 3913, 3924, 3928; Pub. L. 105–244, title IX, §§951, 952, Oct. 7, 1998, 112 Stat. 1835, 1836; Pub. L. 106–386, div. B, title VI, §1601(d), Oct. 28, 2000, 114 Stat. 1538; Pub. L. 107–56, title V, §507, Oct. 26, 2001, 115 Stat. 367; Pub. L. 107–110, title X, §1062(3), Jan. 8, 2002, 115 Stat. 2088; Pub. L. 111–296, title I, §103(d), Dec. 13, 2010, 124 Stat. 3192.)
+(Pub. L. 90–247, title IV, §444, formerly §438, as added Pub. L. 93–380, title V, §513(a), Aug. 21, 1974, 88 Stat. 571; amended Pub. L. 93–568, §2(a), Dec. 31, 1974, 88 Stat. 1858; Pub. L. 96–46, §4(c), Aug. 6, 1979, 93 Stat. 342; Pub. L. 101–542, title II, §203, Nov. 8, 1990, 104 Stat. 2385; Pub. L. 102–325, title XV, §1555(a), July 23, 1992, 106 Stat. 840; renumbered §444 and amended Pub. L. 103–382, title II, §§212(b)(1), 249, 261(h), Oct. 20, 1994, 108 Stat. 3913, 3924, 3928; Pub. L. 105–244, title IX, §§951, 952, Oct. 7, 1998, 112 Stat. 1835, 1836; Pub. L. 106–386, div. B, title VI, §1601(d), Oct. 28, 2000, 114Stat. 1538; Pub. L. 107–56, title V, §507, Oct. 26, 2001, 115 Stat. 367; Pub. L. 107–110, title X, §1062(3), Jan. 8, 2002, 115 Stat. 2088; Pub. L. 111–296, title I, §103(d), Dec. 13, 2010, 124 Stat. 3192.)
 
 #### References in Text
 
@@ -252,7 +252,7 @@ Subsec. (b)(2)(B). Pub. L. 103–382, §249(2)(B)(ii), inserted “except as pro
 
 Subsec. (b)(3). Pub. L. 103–382, §261(h)(2)(C), substituted “or (C)” for “(C) an administrative head of an education agency or (D)” and “education programs” for “education program”.
 
-Subsec. (b)(4). Pub. L. 103–382, §249(2)(C), inserted at end “If a third party outside the educational agency or institution permits access to information in violation of paragraph (2)(A), or fails to destroy information inviolation of paragraph (1)(F), the educational agency or institution shall be prohibited from permitting access to information from education records to that third party for a period of not less than five years.”
+Subsec. (b)(4). Pub. L. 103–382, §249(2)(C), inserted at end “If a third party outside the educational agency or institution permits access to information in violation of paragraph (2)(A), or fails to destroy information in violation of paragraph (1)(F), the educational agency or institution shall be prohibited from permitting access to information from education records to that third party for a period of not less than five years.”
 
 Subsec. (c). Pub. L. 103–382, §249(3), substituted “Not later than 240 days after October 20, 1994, the Secretary shall adopt appropriate regulations or procedures, or identify existing regulations or procedures, which” for “The Secretary shall adopt appropriate regulations to”.
 
@@ -266,7 +266,7 @@ Subsec. (g). Pub. L. 103–382, §261(h)(5), struck out “of Health, Education,
 
 Subsec. (h). Pub. L. 103–382, §249(5), added subsec. (h).
 
-<b>1992</b>—Subsec. (a)(4)(B)(ii). Pub. L. 102–325 amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “if the personnel of a law enforcement unit do not have access to education records under subsection (b)(1) of this section, the records and documents of such law enforcement unit which (I) are kept apart from records described in subparagraph (A), (II) are maintained solely for law enforcement purposes, and (III) are not made available to persons other than law enforcement officials of the same jurisdiction;”.
+<b>1992</b>—Subsec. (a)(4)(B)(ii). Pub. L. 102–325 amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “if the personnel of a law enforcement unit do not have access to education records under subsection (b)(1) of this section, the records and documents of such law enforcement unit which (I) are kept apart from records described in subparagraph (A), (II) are maintained solely for law enforcement purposes, and (III) are not madeavailable to persons other than law enforcement officials of the same jurisdiction;”.
 
 <b>1990</b>—Subsec. (b)(6). Pub. L. 101–542 added par. (6).
 

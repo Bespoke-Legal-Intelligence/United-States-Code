@@ -12,7 +12,7 @@ Class C shall consist of three members who shall be designated by the Board of G
 
 #### Codification
 
-Section is comprised of pars. 9 to 12 of section 4 of act Dec. 23, 1913. For classification to this title of other pars. of section 4, see Codification note set out under section 301 of this title.
+Section is comprised of pars. 9 to 12 of section 4 of act Dec. 23, 1913. For classification to this title of otherpars. of section 4, see Codification note set out under section 301 of this title.
 
 Provisions of section which related to appointment of Class C directors when the necessary subscriptions to the capital stock have been obtained for the organization of any Federal Reserve Bank and which required the organization committee to exercise the powers and duties appertaining to the office of chairman in the organization of such Federal Reserve Bank pending the designation of a chairman, were omitted as obsolete.
 
@@ -20,7 +20,7 @@ Another section 202 of Pub. L. 95–188 enacted section 225a of this title.
 
 #### Amendments
 
-1977—Second par. Pub. L. 95–188, §202(a), required Class A members to be chosen without discrimination on the basis of race, creed, color, sex or national origin.
+<b>1977</b>—Second par. Pub. L. 95–188, §202(a), required Class A members to be chosen without discrimination on the basis of race, creed, color, sex or national origin.
 
 Third par. Pub. L. 95–188, §202(b), substituted requirement that Class B members represent the public and be elected without discrimination on the basis of race, creed, color, sex, or national origin, and with due but not exclusive consideration to the interests of agriculture, commerce, industry, services, labor, and consumers for prior requirement that such Class B members, at the time of their election, be actively engaged in their district in commerce, agriculture or some other industrial pursuit.
 

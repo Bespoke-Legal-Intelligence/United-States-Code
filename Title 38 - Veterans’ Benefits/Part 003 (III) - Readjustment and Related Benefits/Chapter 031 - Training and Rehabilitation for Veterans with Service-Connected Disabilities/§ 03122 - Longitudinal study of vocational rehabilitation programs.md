@@ -18,7 +18,7 @@ Annual Reports.—By not later than July 1 of each year covered by the study req
 
 (c)
 
-Contents of Report.—The Secretary shall include in the report required under subsection (b) any data the Secretary determines is necessary to determine the long-term outcomes of the individuals participating in the vocational rehabilitation programs under this chapter. TheSecretary may add data elements from time to time as necessary. In addition, each such report shall contain the following information:
+Contents of Report.—The Secretary shall include in the report required under subsection (b) any data the Secretary determines is necessary to determine the long-term outcomes of the individuals participating in the vocational rehabilitation programs under this chapter. The Secretary may add data elements from time to time as necessary. In addition, each such report shall contain the following information:
 
 &emsp;(1) The number of individuals participating in vocational rehabilitation programs under this chapter who suspended participation in such a program during the year covered by the report.
 

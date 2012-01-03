@@ -44,7 +44,7 @@ The plan transmitted under subsection (a) of this section shall contain, consist
 
 In addition to applicable provisions of subsection (c) of this section, the reorganization plan transmitted under this section for the Agency for International Development—
 
-&emsp;(1) may provide for the abolition of the Agency for International Development and the transfer of all its functions to the Department of State; or
+&emsp;(1) may provide for the abolition of the Agency for International Development and thetransfer of all its functions to the Department of State; or
 
 &emsp;(2) in lieu of the abolition and transfer of functions under paragraph (1)—
 
@@ -100,7 +100,7 @@ The report accompanying the reorganization plan for the Department and the cover
 
 #### (3) Effective date by Presidential determination
 
-&emsp;An effective date under this paragraph for a reorganization plan described in this section is such date as the President shall determine to be appropriate and announce by notice published in the Federal Register, which date may be not earlier than 90 calendar days after the President has transmitted the reorganizationplan to the appropriate congressional committees pursuant to subsection (a) of this section.
+&emsp;An effective date under this paragraph for a reorganization plan described in this section is such date as the President shall determine to be appropriate and announce by notice published in the Federal Register, which date may be not earlier than 90 calendar days after the President has transmitted the reorganization plan to the appropriate congressional committees pursuant to subsection (a) of this section.
 
 #### (4) Statutory construction
 

@@ -78,11 +78,11 @@ Section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act o
 
 #### Amendments
 
-2008—Subsec. (c)(4). Pub. L. 110–457 added par. (4).
+<b>2008</b>—Subsec. (c)(4). Pub. L. 110–457 added par. (4).
 
-2000—Subsec. (c)(1)(B)(iii). Pub. L. 106–386 amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “cancellation of removal under section 240A of such Act (as in effect prior to April 1, 1997),”.
+<b>2000</b>—Subsec. (c)(1)(B)(iii). Pub. L. 106–386 amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “cancellation of removal under section 240A of such Act (as in effect prior to April 1, 1997),”.
 
-1997—Subsec. (b)(5). Pub. L. 105–33, §5562, substituted “section 243(h) of such Act (as in effect immediately before the effective date of section 307 of division C of Public Law 104–208) or section 241(b)(3) of such Act (as amended by section 305(a) of division C of Public Law 104–208)” for “section 243(h) of such Act”.
+<b>1997</b>—Subsec. (b)(5). Pub. L. 105–33, §5562, substituted “section 243(h) of such Act (as in effect immediately before the effective date of section 307 of division C of Public Law 104–208) or section 241(b)(3) of such Act (as amended by section 305(a) of division C of Public Law 104–208)” for “section 243(h) of such Act”.
 
 Subsec. (b)(7). Pub. L. 105–33, §5302(c)(3), added par. (7).
 
@@ -100,7 +100,7 @@ Subsec. (c)(2)(B). Pub. L. 105–33, §5581(b)(6), substituted “subparagraph (
 
 Subsec. (c)(3). Pub. L. 105–33, §5571(c), added par. (3).
 
-1996—Subsec. (c). Pub. L. 104–208, §501, added subsec. (c).
+<b>1996</b>—Subsec. (c). Pub. L. 104–208, §501, added subsec. (c).
 
 Subsec. (c)(1)(B)(iii). Pub. L. 104–208, §308(g)(8)(E), substituted “cancellation of removal under section 240A of such Act” for “suspension of deportation and adjustment of status pursuant to section 244(a)(3) of such Act”.
 

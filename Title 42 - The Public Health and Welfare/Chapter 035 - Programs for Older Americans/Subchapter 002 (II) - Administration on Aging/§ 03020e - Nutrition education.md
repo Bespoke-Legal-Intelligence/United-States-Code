@@ -12,7 +12,7 @@ The Assistant Secretary, in consultation with the Secretary of Agriculture, shal
 
 &emsp;&emsp;(C) other activities to modify behavior and to improve health literacy, including providing information on optimal nutrient intake, through nutrition education and nutrition assessment and counseling, in accordance with section 3030g–21(2)(J) of this title.
 
-(Pub. L. 89–73, title II, §214, as added Pub. L. 102–375, title II, §209, Sept. 30, 1992, 106 Stat. 1215;amended Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 106–501, title VIII, §801(b)(5), Nov. 13, 2000, 114 Stat. 2292; Pub. L. 109–365, title II, §208, Oct. 17, 2006, 120 Stat. 2537.)
+(Pub. L. 89–73, title II, §214, as added Pub. L. 102–375, title II, §209, Sept. 30, 1992, 106 Stat. 1215; amended Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 106–501, title VIII, §801(b)(5), Nov. 13, 2000, 114 Stat. 2292; Pub. L. 109–365, title II, §208, Oct. 17, 2006, 120 Stat. 2537.)
 
 #### Amendments
 

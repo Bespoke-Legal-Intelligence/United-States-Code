@@ -6,5 +6,5 @@ The Secretary of Agriculture may make rules and regulations necessary to carry o
 
 #### Amendments
 
-1956—Act Aug. 3, 1956, inserted sentence relating to availability of funds for extending courtesies to representatives of foreign countries.
+<b>1956</b>—Act Aug. 3, 1956, inserted sentence relating to availability of funds for extending courtesies to representatives of foreign countries.
 

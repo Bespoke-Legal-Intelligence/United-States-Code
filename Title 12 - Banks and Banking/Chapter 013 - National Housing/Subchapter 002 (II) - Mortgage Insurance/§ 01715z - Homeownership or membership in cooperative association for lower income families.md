@@ -4,7 +4,7 @@
 
 (1) For the purpose of assisting lower income families in acquiring homeownership or in acquiring membership in a cooperative association operating a housing project, the Secretary is authorized to make, and to contract to make, periodic assistance payments on behalf of such homeowners and cooperative members. The assistance shall be accomplished through payments to mortgagees holding mortgages meeting the special requirements specified in this section or which mortgages are assisted under a State or local program providing assistance through loans, loan insurance or tax abatement. In making such assistance available, the Secretary shall give preference to low-income families who, without such assistance, would be likely to be involuntarily displaced (including those who would be likely to be displaced from rental units which are to be converted into a condominium project or a cooperative project). Such assistance may include the acquisition of a condominium or a membership in a cooperative association.
 
-(2)(A) Notwithstanding any other provision of this section, the Secretary is authorized to make periodic assistance payments under thissection on behalf of families whose incomes do not exceed the maximum income limits prescribed pursuant to subsection (h)(2) of this section for the purpose of assisting such families in acquiring ownership of a manufactured home consisting of two or more modules and a lot on which such manufactured home is or will be situated, except that periodic assistance payments pursuant to this paragraph shall not be made with respect to more than 20 per centum of the total number of units with respect to which assistance is approved under this section after January 1, 1976. Assistance payments under this section pursuant to this paragraph shall be accomplished through payments on behalf of an owner of lower-income of a manufactured home as described in the preceding sentence to the financial institution which makes the loan, advance of credit, or purchase of an obligation representing the loan or advance of credit to finance the purchase of the manufactured home and the lot on which such manufactured home is or will be situated, but only if insurance under section 1703 of this title covering such loan, advance of credit, or obligation has been granted to such institution.
+(2)(A) Notwithstanding any other provision of this section, the Secretary is authorized to make periodic assistance payments under this section on behalf of families whose incomes do not exceed the maximum income limits prescribed pursuant to subsection (h)(2) of this section for the purpose of assisting such families in acquiring ownership of a manufactured home consisting of two or more modules and a lot on which such manufactured home is or will be situated, except that periodic assistance payments pursuant to this paragraph shall not be made with respect to more than 20 per centum of the total number of units with respect to which assistance is approved under this section after January 1, 1976. Assistance payments under this section pursuant to this paragraph shall be accomplished through payments on behalf of an owner of lower-income of a manufactured home as described in the preceding sentence to the financial institution which makes the loan, advance of credit, or purchase of an obligation representing the loan or advance of credit to finance the purchase of the manufactured home and the lot on which such manufactured home is or will be situated, but only if insurance under section 1703 of this title covering such loan, advance of credit, or obligation has been granted to such institution.
 
 (B) Notwithstanding the provisions of subsection (c) of this section, assistance payments provided pursuant to this paragraph shall be in an amount not exceeding the lesser of—
 
@@ -22,7 +22,7 @@ To qualify for assistance payments, the homeowner or the cooperative member shal
 
 #### (c) Limitation on payments on behalf of mortgagor; occupancy of property; maximum amount of payment; recapture of amounts; determination, applicability, etc.
 
-(1) Subject to the second sentence of this paragraph, the assistance payments to a mortgagee by the Secretary on behalf of a mortgagor shall be made during such time as the mortgagor shall continue to occupy the property which secures the mortgage: <i>Provided</i>, That assistance payments may be made on behalf of a homeowner who assumes a mortgage insured under subsection (i) or (j)(4) of this section with respect to which assistance payments have been made on behalf of the previous owner, if the homeowner is approved by the Secretary as eligible for receiving such assistance: <i>Provided fur</i><i>ther</i>, That the Secretary is authorized to continue making such assistance payments where the mortgage has been assigned to the Secretary. Assistance payments pursuant to any new contract, other than a contract in connection with a refinancing under subsection (r) of this section, entered into after September 30, 1983, that utilizes authority approved in appropriation Acts for any fiscal year beginning after such date may not be made for more than a 10-year period. The payment shall be in an amount not exceeding the lesser of—
+(1) Subject to the second sentence of this paragraph, the assistance payments to a mortgagee by the Secretary on behalf of a mortgagor shall be made during such time as the mortgagor shall continue to occupy the property which secures the mortgage: <i>Provided</i>, That assistance payments may be made on behalf of a homeowner who assumes a mortgage insured under subsection (i) or (j)(4) of this section with respect to which assistance payments have been made on behalf of the previous owner, if the homeowner is approved by the Secretary as eligible for receiving such assistance: <i>Provided further</i>, That the Secretary is authorized to continue making such assistance payments where the mortgage has been assigned to the Secretary. Assistance payments pursuant to any new contract, other than a contract in connection with a refinancing under subsection (r) of this section, entered into after September 30, 1983, that utilizes authority approved in appropriation Acts for any fiscal year beginning after such date may not be made for more than a 10-year period. The payment shall be in an amount not exceeding the lesser of—
 
 &emsp;(A) the balance of the monthly payment for principal, interest, taxes, insurance, and mortgage insurance premium due under the mortgage remaining unpaid after applying 20 per centum of the mortgagor's income; or
 
@@ -32,7 +32,7 @@ To qualify for assistance payments, the homeowner or the cooperative member shal
 
 (B) Subparagraph (A) does not apply to any property with respect to which there is assumption in accordance with paragraph (1) of this subsection or to any property which is subject to a mortgage, loan, or other advance of credit insured pursuant to subsection (q) of this section.
 
-(3)(A) There hereby is established in the Treasury of the United States a fund, which, to the extent approved in appropriation Acts, may be used by the Secretary for purposes of carrying out subparagraph (B). There shall be deposited into such fund (i) any amount recaptured under paragraph (2); (ii) any authority to make assistance payments under subsection (a) of this section that is committed for use in a contract but is unused because the mortgage, loan, or advance of credit involved is refinanced (except to the extent provided in subsection (r) of this section for mortgages insured under such subsection) or because such assistance payments are terminated or suspended for other reasons before the original termination date of such contract; and (iii) any amount received under subparagraph (C).
+(3)(A) There hereby is established in the Treasury of the United States a fund, which, to the extent approved in appropriation Acts, may be used by the Secretary for purposes of carrying out subparagraph (B). There shall be deposited into such fund (i) any amount recaptured underparagraph (2); (ii) any authority to make assistance payments under subsection (a) of this section that is committed for use in a contract but is unused because the mortgage, loan, or advance of credit involved is refinanced (except to the extent provided in subsection (r) of this section for mortgages insured under such subsection) or because such assistance payments are terminated or suspended for other reasons before the original termination date of such contract; and (iii) any amount received under subparagraph (C).
 
 (B) In the case of any homeowner whose assistance payments are terminated by reason of the 10-year limitation referred to in paragraph (1), and who is determined by the Secretary to be unable to assume the full payments due under the mortgage, loan, or advance of credit involved, the Secretary shall, to the extent of the availability of amounts in the fund established in subparagraph (A), contract to make, and make, continued assistance payments on behalf of such homeowner. Such continued assistance payments shall be made in an amount determined in accordance with the applicable provisions of paragraph (1) or subsection (a)(2)(B) of this section and for such period as the Secretary determines to be appropriate.
 
@@ -56,7 +56,7 @@ The Secretary shall prescribe such regulations as he deems necessary to assure t
 
 #### (h) Authorization of appropriations; aggregate amount of assistance payment contracts; maximum income limits of families; limitation on payments with respect to existing dwellings or dwelling units in existing projects and for approved substantial rehabilitation of dwellings or dwelling units in projects
 
-(1) There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section, including such sums as may be necessary to make the assistance payments under contracts entered into under this section. The aggregate amount of outstanding contracts to make such payments shall not exceed amounts approved in appropriation Acts, and payments pursuant to such contracts shall not exceed $75,000,000 per annum prior to July 1, 1969, which maximum dollar amount shall be increased by $125,000,000 on July 1, 1969, by $150,000,000 on July 1, 1970, by $200,000,000 on July 1, 1971, by such sums as may be approved in appropriation Acts after June 30, 1974, and prior to July 1, 1976, and by such sums as may be approved in an appropriation Act on or after October 1, 1983 (from the additional authority to enter into contracts made available on such date under the first sentence of section 1437c(c)(1) of title 42). The aggregate amount that may be obligated over the duration of the contracts entered into with the authority provided on or after October 1, 1983 (other than obligations in connection with mortgages insured under subsection (r) of this section), may not exceed such sums of new budget authority as may be appropriated after November 30, 1983. The Secretary shall begin issuing new commitments and reservations to provide mortgage insurance and assistance payments under this section before the expiration of the 30-day period following the approval in any appropriation Act of budget authority for this section after November 30, 1983. Upon the expiration of one year following August 22, 1974, the Secretary shall not enter into new contracts for assistance payments under this section utilizing authority approved in appropriation Acts prior to July 1, 1974. The Secretary shall not enter into new contracts for assistance payments under this section (except under subsection (r) of this section) after May 20, 1983, utilizing amounts approved in appropriation Acts before November 30, 1983, except (i) pursuant to a firm commitment issued on or before May 20, 1983, (ii) pursuant to other commitments issued by the Secretary prior to June 30, 1981, reserving funds for housing to be assisted under this section  where  such  housing  is  included  in  a project pursuant to section 119 of the Housing and Community Development Act of 1974 \[42 U.S.C. 5318\], or (iii) pursuant to other commitments issued on or before September 30, 1981, where housing under this section is to be developed on land which was municipally owned on September 30, 1981, and where a local government contributes at least $1,000 per unit of funds obtained under title I of the Housing and Community Development Act of 1974 \[42 U.S.C. 5301 et seq.\] and at least $2,000 per unit of additional funds to assist housing under this section. In no event may the Secretary enter into any new contract for assistance payments under this section (other than a contract in connection with a mortgage insured under subsection (r) of this section) after September 30, 1989.
+(1) There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section, including such sums as may be necessary to make the assistance payments under contracts entered into under this section. The aggregate amount of outstanding contracts to make such payments shall not exceed amounts approved in appropriation Acts, and payments pursuant to such contracts shall not exceed $75,000,000 per annum prior to July 1, 1969, which maximum dollar amount shall be increased by $125,000,000 on July 1, 1969, by $150,000,000 on July 1, 1970, by $200,000,000 on July 1, 1971, by such sums as may be approved in appropriation Acts after June 30, 1974, and prior to July 1, 1976, and by such sums as may be approved in an appropriation Act on or after October 1, 1983 (from the additional authority to enter into contracts made available on such date under the first sentence of section 1437c(c)(1) of title 42). The aggregate amount that may be obligated over the duration of the contracts entered into with the authority provided on or after October 1, 1983 (other than obligations in connection with mortgages insured under subsection (r) of this section), may not exceed such sums of new budget authority as may be appropriated after November 30, 1983. The Secretary shall begin issuing new commitments and reservations to provide mortgage insurance and assistance payments under this section before the expiration of the 30-day period following the approval in any appropriation Act of budget authority for this section after November 30, 1983. Upon the expiration of one year following August 22, 1974, the Secretary shall not enter into new contracts for assistance payments under this section utilizing authority approved in appropriation Acts prior to July 1, 1974. The Secretary shall not enter into new contracts for assistance payments under this section (except under subsection (r) of this section) after May 20, 1983, utilizing amounts approved in appropriation Acts before November 30, 1983, except (i)pursuant to a firm commitment issued on or before May 20, 1983, (ii) pursuant to other commitments issued by the Secretary prior to June 30, 1981, reserving funds for housing to be assisted under this section  where  such  housing  is  included  in  a project pursuant to section 119 of the Housing and Community Development Act of 1974 \[42 U.S.C. 5318\], or (iii) pursuant to other commitments issued on or before September 30, 1981, where housing under this section is to be developed on land which was municipally owned on September 30, 1981, and where a local government contributes at least $1,000 per unit of funds obtained under title I of the Housing and Community Development Act of 1974 \[42 U.S.C. 5301 et seq.\] and at least $2,000 per unit of additional funds to assist housing under this section. In no event may the Secretary enter into any new contract for assistance payments under this section (other than a contract in connection with a mortgage insured under subsection (r) of this section) after September 30, 1989.
 
 (2) Assistance payments under this section may be made only with respect to a family whose income at the time of initial occupancy does not exceed 95 per centum of the median income for the area, as determined by the Secretary with adjustments for smaller and larger families, except that the Secretary may establish income ceilings higher or lower than 95 per centum of the median for the area on the basis of his findings that such variations are necessary because of prevailing levels of construction costs, unusually high or low median family incomes, or other factors.
 
@@ -72,7 +72,7 @@ The Secretary shall prescribe such regulations as he deems necessary to assure t
 
 #### (i) Insurance of mortgages executed by mortgagors meeting eligibility requirements for assistance payments; issuance of commitment; eligibility requirements for insurance
 
-(1) The Secretary is authorized, upon application by the mortgagee, to insure a mortgage (including advances with respect to property construction or rehabilitation pursuant to a self-help program) executed by a mortgagor who meets the eligibility requirements for assistance payments prescribed by the Secretary undersubsection (b) of this section. Commitments for the insurance of such mortgages may be issued by the Secretary prior to the date of their execution or disbursement thereon, upon such terms and conditions as the Secretary may prescribe.
+(1) The Secretary is authorized, upon application by the mortgagee, to insure a mortgage (including advances with respect to property construction or rehabilitation pursuant to a self-help program) executed by a mortgagor who meets the eligibility requirements for assistance payments prescribed by the Secretary under subsection (b) of this section. Commitments for the insurance of such mortgages may be issued by the Secretary prior to the date of their execution or disbursement thereon, upon such terms and conditions as the Secretary may prescribe.
 
 (2) To be eligible for insurance under this subsection, a mortgage shall meet the requirements of section 1715<i>l</i>(d)(2) or 1715y(c) of this title, except as such requirements are modified by this subsection.
 
@@ -100,7 +100,7 @@ The Secretary shall prescribe such regulations as he deems necessary to assure t
 
 (2) To be eligible for insurance under paragraph (1) of this subsection, a mortgage shall—
 
-&emsp;(A) be executed by a private nonprofit organization or public body or agency, approved by the Secretary, for the purpose of financing thepurchase (with the intention of subsequent resale), and rehabilitation where the housing involved is deteriorating or substandard, of property comprising one or more tracts or parcels, whether or not contiguous, consisting of (i) four or more single-family dwellings of detached, semidetached, or row construction, or (ii) four or more one-family units in a structure or structures for which a plan of family unit ownership approved by the Secretary is established; except that in a case not involving the rehabilitation of deteriorating or substandard housing the property purchased may consist of one or more such dwellings or units;
+&emsp;(A) be executed by a private nonprofit organization or public body or agency, approved by the Secretary, for the purpose of financing the purchase (with the intention of subsequent resale), and rehabilitation where the housing involved is deteriorating or substandard, of property comprising one or more tracts or parcels, whether or not contiguous, consisting of (i) four or more single-family dwellings of detached, semidetached, or row construction, or (ii) four or more one-family units in a structure or structures for which a plan of family unit ownership approved by the Secretary is established; except that in a case not involving the rehabilitation of deteriorating or substandard housing the property purchased may consist of one or more such dwellings or units;
 
 &emsp;(B) be in a principal amount not exceeding the appraised value of the property at the time of its purchase under the mortgage plus the estimated cost of any rehabilitation;
 
@@ -172,13 +172,13 @@ The Secretary may insure a mortgage under this section involving a principal obl
 
 &emsp;(B) has a family income, at the time of initial occupancy, which does not exceed 130 per centum of the area median income for the area (with adjustments for smaller and larger families, unusually high or low median family income, or other factors), as determined by the Secretary.
 
-(3) Assistance payments to a mortgagee or other lender by the Secretary on behalf of a homeowner shall be made only during such time as the homeowner shall continue to occupy theproperty which secures the mortgage, loan, or advance of credit. The Secretary may, where a mortgage insured under this subsection has been assigned to the Secretary, continue making such assistance payments.
+(3) Assistance payments to a mortgagee or other lender by the Secretary on behalf of a homeowner shall be made only during such time as the homeowner shall continue to occupy the property which secures the mortgage, loan, or advance of credit. The Secretary may, where a mortgage insured under this subsection has been assigned to the Secretary, continue making such assistance payments.
 
 (4) The amount of the assistance payments in the case of a mortgage shall not at any time exceed the lesser of—
 
 &emsp;(A) the balance of the monthly payment for principal, interest, taxes, insurance, and any mortgage insurance premium due under the mortgage remaining unpaid after applying a minimum of 25 per centum of the mortgagor's income, except that the Secretary may reduce such per centum of income to the extent he deems necessary, but not lower than 20 per centum of the mortgagor's income; or
 
-&emsp;(B) the difference between the amount of the monthly payment for principal, interest, and any mortgage insurance premium which would be required if the mortgage were a level payment mortgage bearing interest at a rate equal to the maximum interest rate which is applicable to level payment mortgages insured under section 1709(b) of this title, other than mortgages subject to section 1709–1(2) <sup>1</sup> of this title, and the monthly payment for principal and interest which the mortgagor would be obligated to pay if the mortgage were a level payment mortgage bearing interest at the rate of at least 91/2 per centum per annum.
+&emsp;(B) the difference between the amount of the monthly payment for principal, interest, and any mortgage insurance premium which would be required if the mortgage were a level payment mortgage bearing interest at a rate equal to the maximum interest rate which is applicable to level payment mortgages insured under section 1709(b) of this title, other than mortgages subject to section 1709–1(2) <sup>1</sup> of this title, and the monthly payment for principal and interest which the mortgagor would be obligated to pay if the mortgage were a level payment mortgage bearing interest at the rate of at least 9½ per centum per annum.
 
 (5) Assistance payments on behalf of the owner of a manufactured home shall not at any time exceed the lesser of—
 
@@ -258,7 +258,7 @@ The Secretary may insure a mortgage under this section involving a principal obl
 
 (7) The Secretary shall implement the provisions of this subsection by a notice published in the Federal Register.
 
-(June 27, 1934, ch. 847, title II, §235, as added Pub. L. 90–448, title I, §101(a), Aug. 1, 1968, 82 Stat. 477; amended Pub. L. 91–152, title I, §§101(d), 106, 107(a), 109, 113(i), title IV, §§412(b), 418(a), Dec. 24, 1969, 83 Stat. 379, 381, 385, 398, 402; Pub. L. 91–609, title I, §§101(d), 102(a), 105–107, Dec. 31, 1970, 84 Stat. 1770, 1771; Pub. L. 92–503, §1(d), Oct. 18, 1972, 86 Stat. 906; Pub. L. 93–85, §1(d), Aug. 10, 1973, 87 Stat. 220; Pub. L. 93–117,§1(d), Oct. 2, 1973, 87 Stat. 421; Pub. L. 93–383, title II, §211, Aug. 22, 1974, 88 Stat. 671; Pub. L. 94–375, §3(a)–(c), (e), (f), Aug. 3, 1976, 90 Stat. 1068, 1069; Pub. L. 95–128, title II, §205, title III, §§301(d), 303(f), Oct. 12, 1977, 91 Stat. 1130, 1131, 1132; Pub. L. 95–406, §1(d), Sept. 30, 1978, 92 Stat. 879; Pub. L. 95–557, title III, §301(d), Oct. 31, 1978, 92 Stat. 2096; Pub. L. 96–71, §1(d), Sept. 28, 1979, 93 Stat. 501; Pub. L. 96–105, §1(d), Nov. 8, 1979, 93 Stat. 794; Pub. L. 96–153, title II, §213, title III, §301(d), Dec. 21, 1979, 93 Stat. 1111; Pub. L. 96–372, §1(d), Oct. 3, 1980, 94 Stat. 1363; Pub. L. 96–399, title II, §§206(a), (b)(1), 207, title III, §§301(d), 308(c)(1), (2), Oct. 8, 1980, 94 Stat. 1630, 1631, 1638, 1640; Pub. L. 97–35, title III, §§328, 331(d), Aug. 13, 1981, 95 Stat. 407, 412; Pub. L. 97–110, title III, §304, Dec. 26, 1981, 95 Stat. 1515; Pub. L. 97–185, May 24, 1982, 96 Stat. 100; Pub. L. 97–253, title II, §201(f), Sept. 8, 1982, 96 Stat. 790; Pub. L. 97–289, §1(d), Oct. 6, 1982, 96 Stat. 1230; Pub. L. 98–35, §1(d), May 26, 1983, 97 Stat. 197; Pub. L. 98–109, §1(d), Oct. 1, 1983, 97 Stat. 745; Pub. L. 98–181, title II, §226, title IV, §§401(d), 404(b)(12), 423(b)(5), Nov. 30, 1983, 97 Stat. 1194, 1207, 1209, 1217; Pub. L. 98–479, title I, §§102(a)(1), 104(a)(3), title II, §204(a)(8), Oct. 17, 1984, 98 Stat. 2221, 2224, 2232; Pub. L. 99–120, §1(d), Oct. 8, 1985, 99 Stat. 502; Pub. L. 99–156, §1(d), Nov. 15, 1985, 99 Stat. 815; Pub. L. 99–219, §1(d), Dec. 26, 1985, 99 Stat. 1730; Pub. L. 99–267, §1(d), Mar. 27, 1986, 100 Stat. 73; Pub. L. 99–272, title III, §3007(d), Apr. 7, 1986, 100 Stat. 104; Pub. L. 99–289, §1(b), May 2, 1986, 100 Stat. 412; Pub. L. 99–345, §1, June 24, 1986, 100 Stat. 673; Pub. L. 99–430, Sept. 30, 1986, 100 Stat. 986; Pub. L. 100–122, §1, Sept. 30, 1987, 101 Stat. 793; Pub. L. 100–154, Nov. 5, 1987, 101 Stat. 890; Pub. L. 100–170, Nov. 17, 1987, 101 Stat. 914; Pub. L. 100–179, Dec. 3, 1987, 101 Stat. 1018; Pub. L. 100–200, Dec. 21, 1987, 101 Stat. 1327; Pub. L. 100–242, §§170(a), 401(c), 406(b)(18), (19), Feb. 5, 1988, 101 Stat. 1867, 1898, 1901; Pub. L. 101–144, title II, Nov. 9, 1989, 103 Stat. 852; Pub. L. 101–235, title I, §125(a)–(c), Dec. 15, 1989, 103 Stat. 2022–2024.)
+(June 27, 1934, ch. 847, title II, §235, as added Pub. L. 90–448, title I, §101(a), Aug. 1, 1968, 82 Stat. 477; amended Pub. L. 91–152, title I, §§101(d), 106, 107(a), 109, 113(i), title IV, §§412(b), 418(a), Dec. 24, 1969, 83 Stat. 379, 381, 385, 398, 402; Pub. L. 91–609, title I, §§101(d), 102(a), 105–107, Dec. 31, 1970, 84 Stat. 1770, 1771; Pub. L. 92–503, §1(d), Oct. 18, 1972, 86 Stat. 906; Pub. L. 93–85, §1(d), Aug. 10, 1973, 87 Stat. 220; Pub. L. 93–117, §1(d), Oct. 2, 1973, 87 Stat. 421; Pub. L. 93–383, title II, §211, Aug. 22, 1974, 88 Stat. 671; Pub. L. 94–375, §3(a)–(c), (e), (f), Aug. 3, 1976, 90 Stat. 1068, 1069; Pub. L. 95–128, title II, §205, title III, §§301(d), 303(f), Oct. 12, 1977, 91 Stat. 1130, 1131, 1132; Pub. L. 95–406, §1(d), Sept. 30, 1978, 92 Stat. 879; Pub. L. 95–557, title III, §301(d), Oct. 31, 1978, 92 Stat. 2096; Pub. L. 96–71, §1(d), Sept. 28, 1979, 93 Stat. 501; Pub. L. 96–105, §1(d), Nov. 8, 1979, 93 Stat. 794; Pub. L. 96–153, title II, §213, title III, §301(d), Dec. 21, 1979, 93 Stat. 1111; Pub. L. 96–372, §1(d), Oct. 3, 1980, 94 Stat. 1363; Pub. L. 96–399, title II, §§206(a), (b)(1), 207, title III, §§301(d), 308(c)(1), (2), Oct. 8, 1980, 94 Stat. 1630, 1631, 1638, 1640; Pub. L. 97–35, title III, §§328, 331(d), Aug. 13, 1981, 95 Stat. 407, 412; Pub. L. 97–110, title III, §304, Dec. 26, 1981, 95 Stat. 1515; Pub. L. 97–185, May 24, 1982, 96 Stat. 100; Pub. L. 97–253, title II, §201(f), Sept. 8, 1982, 96 Stat. 790; Pub. L. 97–289, §1(d), Oct. 6, 1982, 96 Stat. 1230; Pub. L. 98–35, §1(d), May 26, 1983, 97 Stat. 197; Pub. L. 98–109, §1(d), Oct. 1, 1983, 97 Stat. 745; Pub. L. 98–181, title II, §226, title IV, §§401(d), 404(b)(12), 423(b)(5), Nov. 30, 1983, 97 Stat. 1194, 1207, 1209, 1217; Pub. L. 98–479, title I, §§102(a)(1), 104(a)(3), title II, §204(a)(8), Oct. 17, 1984, 98 Stat. 2221, 2224, 2232; Pub. L. 99–120, §1(d), Oct. 8, 1985, 99 Stat. 502; Pub. L. 99–156, §1(d), Nov. 15, 1985, 99 Stat. 815; Pub. L. 99–219, §1(d), Dec. 26, 1985, 99 Stat. 1730; Pub. L. 99–267, §1(d), Mar. 27, 1986, 100 Stat. 73; Pub. L. 99–272, title III, §3007(d), Apr. 7, 1986, 100 Stat. 104; Pub. L. 99–289, §1(b), May 2, 1986, 100 Stat. 412; Pub. L. 99–345, §1, June 24, 1986, 100 Stat. 673; Pub. L. 99–430, Sept. 30, 1986, 100 Stat. 986; Pub. L. 100–122, §1, Sept. 30, 1987, 101 Stat. 793; Pub. L. 100–154, Nov. 5, 1987, 101 Stat. 890; Pub. L. 100–170, Nov. 17, 1987, 101 Stat. 914; Pub. L. 100–179, Dec. 3, 1987, 101 Stat. 1018; Pub. L. 100–200, Dec. 21, 1987, 101 Stat. 1327; Pub. L. 100–242, §§170(a), 401(c), 406(b)(18), (19), Feb. 5, 1988, 101 Stat. 1867, 1898, 1901; Pub. L. 101–144, title II, Nov. 9, 1989, 103 Stat. 852; Pub. L. 101–235, title I, §125(a)–(c), Dec. 15, 1989, 103 Stat. 2022–2024.)
 
 #### References in Text
 
@@ -274,7 +274,7 @@ Section 1709–1 of this title, referred to in subsec. (q)(4)(B), was repealed b
 
 #### Amendments
 
-1989—Subsec. (c)(1). Pub. L. 101–235, §125(c)(1), inserted “, other than a contract in connection with a refinancing under subsection (r) of this section,” after “any new contract” in second sentence.
+<b>1989</b>—Subsec. (c)(1). Pub. L. 101–235, §125(c)(1), inserted “, other than a contract in connection with a refinancing under subsection (r) of this section,” after “any new contract” in second sentence.
 
 Subsec. (c)(3)(A). Pub. L. 101–235, §125(c)(2), which directed the insertion of “(except to the extent provided in subsection (r) of this section for mortgages insured under such subsection)” after “refinanced,” in second sentence, was executed by making the insertion after “refinanced” as the probable intent of Congress.
 
@@ -320,13 +320,13 @@ Method of payment of refinancing assistance.—In any case in which the Secretar
 
 Revision of contracts and rescission of excess amounts.—
 
-&emsp;“(A) The Secretary shall make such revisions in any assistance payments contract (including theamount of assistance payments made under the contract) as are necessary to reflect a refinancing obtained pursuant to this subsection. A revised assistance payments contract under this paragraph shall not be considered to be a new contract under this section.
+&emsp;“(A) The Secretary shall make such revisions in any assistance payments contract (including the amount of assistance payments made under the contract) as are necessary to reflect a refinancing obtained pursuant to this subsection. A revised assistance payments contract under this paragraph shall not be considered to be a new contract under this section.
 
 &emsp;“(B) Any contract authority that becomes available as a result of the revision of an assistance payments contract under this paragraph shall be rescinded.”
 
 Pub. L. 101–144 added subsec. (r).
 
-1988—Subsec. (h)(1). Pub. L. 100–242, §401(c), substituted “September 30, 1989” for “March 15, 1988”.
+<b>1988</b>—Subsec. (h)(1). Pub. L. 100–242, §401(c), substituted “September 30, 1989” for “March 15, 1988”.
 
 Subsec. (i)(3)(A). Pub. L. 100–242, §406(b)(18), struck out “one of the units of which is to be occupied by the owner and” after “three-family dwelling”.
 
@@ -336,7 +336,7 @@ Subsec. (j)(6). Pub. L. 100–242, §406(b)(19), struck out “if one of the uni
 
 Subsecs. (m), (q)(1). Pub. L. 100–242, §401(c), substituted “September 30, 1989” for “March 15, 1988”.
 
-1987—Subsecs. (h)(1), (m), (q)(1). Pub. L. 100–200 substituted “March 15, 1988” for “December 16, 1987”.
+<b>1987</b>—Subsecs. (h)(1), (m), (q)(1). Pub. L. 100–200 substituted “March 15, 1988” for “December 16, 1987”.
 
 Pub. L. 100–179 substituted “December 16, 1987” for “December 2, 1987”.
 
@@ -346,7 +346,7 @@ Pub. L. 100–154 substituted “November 15, 1987” for “October 31, 1987”
 
 Pub. L. 100–122 substituted “October 31, 1987” for “September 30, 1987”.
 
-1986—Subsecs. (h)(1), (m), (q)(1). Pub. L. 99–430 substituted “September 30, 1987” for “September 30, 1986”.
+<b>1986</b>—Subsecs. (h)(1), (m), (q)(1). Pub. L. 99–430 substituted “September 30, 1987” for “September 30, 1986”.
 
 Pub. L. 99–345 substituted “September 30, 1986” for “June 6, 1986”.
 
@@ -356,19 +356,19 @@ Pub. L. 99–272 made amendment identical to Pub. L. 99–219. See 1985 Amendmen
 
 Pub. L. 99–267 substituted “April 30, 1986” for “March 17, 1986”.
 
-1985—Subsecs. (h)(1), (m), (q)(1). Pub. L. 99–219 substituted “March 17, 1986” for “December 15, 1985”.
+<b>1985</b>—Subsecs. (h)(1), (m), (q)(1). Pub. L. 99–219 substituted “March 17, 1986” for “December 15, 1985”.
 
 Pub. L. 99–156 substituted “December 15, 1985” for “November 14, 1985”.
 
 Pub. L. 99–120 substituted “November 14, 1985” for “September 30, 1985”.
 
-1984—Subsec. (h)(1). Pub. L. 98–479, §102(a)(1), inserted “utilizing amounts approved in appropriation Acts before November 30, 1983,” before “except (i)” and substituted “September 30, 1985” for “November 30, 1983” in last sentence.
+<b>1984</b>—Subsec. (h)(1). Pub. L. 98–479, §102(a)(1), inserted “utilizing amounts approved in appropriation Acts before November 30, 1983,” before “except (i)” and substituted “September 30, 1985” for “November 30, 1983” in last sentence.
 
 Subsec. (i)(3)(C). Pub. L. 98–479, §204(a)(8), substituted “Secretary” for “Seretary” before “authorizes an increase”.
 
 Subsec. (j)(2)(C). Pub. L. 98–479, §104(a)(3), substituted “bear interest at a rate not to exceed such percent per annum on the amount of the principal obligation outstanding at any time as the Secretary determines is necessary to meet the mortgage market, taking into consideration the yields on mortgages in the primary and secondary markets” for “bear interest (exclusive of premium charges for insurance and service charge, if any) at not to exceed such per centum per annum (not in excess of 6 per centum), on the amount of the principal obligation outstanding at any time, as the Secretary finds necessary to meet the mortgage market”.
 
-1983—Subsec. (c)(1). Pub. L. 98–181, §226(a), substituted “Subject to the second sentence of this paragraph, the” for “The”, and inserted provision limiting to a 10-year period assistance payments pursuant to any new contract entered into after Sept. 30, 1983, utilizing authority approved in appropriation Acts for any fiscal year beginning after such date.
+<b>1983</b>—Subsec. (c)(1). Pub. L. 98–181, §226(a), substituted “Subject to the second sentence of this paragraph, the” for “The”, and inserted provision limitingto a 10-year period assistance payments pursuant to any new contract entered into after Sept. 30, 1983, utilizing authority approved in appropriation Acts for any fiscal year beginning after such date.
 
 Subsec. (c)(3). Pub. L. 98–181, §226(b), added par. (3).
 
@@ -404,7 +404,7 @@ Pub. L. 98–109, §1(d)(3), substituted “November 30, 1983” for “Septembe
 
 Pub. L. 98–35, §1(d)(2), substituted “September 30, 1983” for “May 20, 1983”.
 
-1982—Subsec. (h)(1). Pub. L. 97–289, §1(d)(1), substituted “May 20, 1983” for “September 30, 1982” in two places.
+<b>1982</b>—Subsec. (h)(1). Pub. L. 97–289, §1(d)(1), substituted “May 20, 1983” for “September 30, 1982” in two places.
 
 Subsec. (i)(3)(B). Pub. L. 97–253, §201(f)(1), inserted provision that the foregoing maximum mortgage amounts may be increased by the amount of the mortgage insurance premium paid at the time the mortgage is insured.
 
@@ -418,7 +418,7 @@ Subsec. (m). Pub. L. 97–289, §1(d)(2), substituted “May 20, 1983” for “
 
 Subsec. (q)(1). Pub. L. 97–289, §1(d)(3), substituted “May 20, 1983” for “September 30, 1982”.
 
-1981—Subsec. (c)(2)(A). Pub. L. 97–35, §328(a), struck out provisions relating to homeowner ceasing to make payments for a period of 90 continuous days or more under the mortgage, etc.
+<b>1981</b>—Subsec. (c)(2)(A). Pub. L. 97–35, §328(a), struck out provisions relating to homeowner ceasing to make payments for a period of 90 continuous days or more under the mortgage, etc.
 
 Subsec. (h)(1). Pub. L. 97–110 expanded enumeration of exceptions to provision that the Secretary not enter into new contracts for assistance payments under this section after March 31, 1982, by designating the two existing exceptions as cls. (i) and (ii) and by adding cl. (iii).
 
@@ -430,7 +430,7 @@ Subsec. (q)(1). Pub. L. 97–35, §331(d)(2), substituted “September 30, 1982�
 
 Subsec. (q)(14). Pub. L. 97–35, §328(c), struck out provisions relating to homeowner ceasing to make payments for a period of 90 continuous days or more under the mortgage, etc.
 
-1980—Subsec. (a)(2)(A). Pub. L. 96–399, §308(c)(1), substituted “manufactured home” for “mobile home” wherever appearing.
+<b>1980</b>—Subsec. (a)(2)(A). Pub. L. 96–399, §308(c)(1), substituted “manufactured home” for “mobile home” wherever appearing.
 
 Subsec. (a)(2)(B). Pub. L. 96–399, §308(c)(2), substituted “manufactured homeowner” and “manufactured homeowner's” for “mobile homeowner” and “mobile homeowner's”, respectively.
 
@@ -448,7 +448,7 @@ Subsec. (p). Pub. L. 96–399, §206(a)(4), added subsec. (p).
 
 Subsec. (q). Pub. L. 96–399, §207, added subsec. (q).
 
-1979—Subsec. (a)(1). Pub. L. 96–153, §213(a), inserted provision that the Secretary give preference to low-income families who are likely to be displaced without assistance and that the assistance may include the acquisition of a condominium or membership in a cooperative association.
+<b>1979</b>—Subsec. (a)(1). Pub. L. 96–153, §213(a), inserted provision that the Secretary give preference to low-income families who are likely to be displaced without assistance and that the assistance may include the acquisition of a condominium or membership in a cooperative association.
 
 Subsec. (c)(2). Pub. L. 96–153, §213(c)(2), inserted parenthetical reference to 4 per centum per annum rate in the case of a mortgage described in subsec. (<i>o</i>) of this section.
 
@@ -462,11 +462,11 @@ Pub. L. 96–71 substituted “October 31, 1979” for “September 30, 1979”.
 
 Subsec. (<i>o</i>). Pub. L. 96–153, §213(c)(1), added subsec. (<i>o</i>).
 
-1978—Subsec. (m). Pub. L. 95–557 substituted “September 30, 1979” for “October 31, 1978”.
+<b>1978</b>—Subsec. (m). Pub. L. 95–557 substituted “September 30, 1979” for “October 31, 1978”.
 
 Pub. L. 95–406 substituted “October 31, 1978” for “September 30, 1978”.
 
-1977—Subsec. (b)(2). Pub. L. 95–128, §§205, 303(f)(1), inserted reference to section 1715<i>l</i>(d)(3) of this title and substituted in last proviso “$32,000” for “$25,000”, “$38,000” for “$29,000” in two places, and “$44,000” for “$33,000”.
+<b>1977</b>—Subsec. (b)(2). Pub. L. 95–128, §§205, 303(f)(1), inserted reference to section 1715<i>l</i>(d)(3) of this title andsubstituted in last proviso “$32,000” for “$25,000”, “$38,000” for “$29,000” in two places, and “$44,000” for “$33,000”.
 
 Subsec. (i)(3)(B) to (E). Pub. L. 95–128, §303(f)(2)–(4), substituted in subpar. (B) “$32,000” for “$25,000”, “$38,000” for “$29,000” in two places, and “$44,000” for “$33,000”, added subpars. (C) and (D), and redesignated former subpar. (C) as (E).
 
@@ -474,7 +474,7 @@ Subsec. (m). Pub. L. 95–128, §301(d), substituted “September 30, 1978” fo
 
 Subsec. (n). Pub. L. 95–128, §303(f)(5), added subsec. (n).
 
-1976—Subsec. (a). Pub. L. 94–375, §3(f)(1), designated existing provisions as par. (1) and added par. (2).
+<b>1976</b>—Subsec. (a). Pub. L. 94–375, §3(f)(1), designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (b)(2). Pub. L. 94–375, §3(b), substituted “$25,000” for “$21,600”, “$29,000” for “$25,200” in two places, and “$33,000” for “$28,800”.
 
@@ -486,7 +486,7 @@ Subsec. (i)(3)(B). Pub. L. 94–375, §3(c), substituted “$25,000” for “$2
 
 Subsec. (m). Pub. L. 94–375 §3(a), substituted “September 30, 1977” for “June 30, 1976”.
 
-1974—Subsec. (a). Pub. L. 93–383, §211(b), inserted provisions relating to mortgages assisted under a State or local program providing assistance through loans, etc.
+<b>1974</b>—Subsec. (a). Pub. L. 93–383, §211(b), inserted provisions relating to mortgages assisted under a State or local program providing assistance through loans, etc.
 
 Subsec. (b)(2). Pub. L. 93–383, §211(c)(1), substituted “$21,600” for “$18,000”, “$25,200” for “$21,000” in two places, and “$28,800” for “$24,000”.
 
@@ -504,13 +504,13 @@ Subsec. (i)(3)(C). Pub. L. 93–383, §211(a)(6), struck out provisions relating
 
 Subsec. (m). Pub. L. 93–383, §211(a)(7), substituted “June 30, 1976” for “October 1, 1974”.
 
-1973—Subsec. (m). Pub. L. 93–117 substituted “October 1, 1974” for “October 1, 1973”.
+<b>1973</b>—Subsec. (m). Pub. L. 93–117 substituted “October 1, 1974” for “October 1, 1973”.
 
 Pub. L. 93–85 substituted “October 1, 1973” for “June 30, 1973”.
 
-1972—Subsec. (m). Pub. L. 92–503 substituted “June 30, 1973” for “October 1, 1972”.
+<b>1972</b>—Subsec. (m). Pub. L. 92–503 substituted “June 30, 1973” for “October 1, 1972”.
 
-1970—Subsec. (b)(2). Pub. L. 91–609, §107, designated existing provisions as cl. (A) and added cl. (B).
+<b>1970</b>—Subsec. (b)(2). Pub. L. 91–609, §107, designated existing provisions as cl. (A) and added cl. (B).
 
 Subsec. (h)(1). Pub. L. 91–609, §102(a), in second sentence, inserted “outstanding” before “contracts” where first appearing and substituted “$150,000,000 on July 1, 1970” and “$200,000,000 on July 1, 1971” for “$125,000,000 on July 1, 1970” and “$170,000,000 on July 1, 1971”.
 
@@ -522,7 +522,7 @@ Subsec. (i)(3)(A). Pub. L. 91–609, §106, substituted “and which is approved
 
 Subsec. (m). Pub. L. 91–609, §101(d), substituted “October 1, 1972” for “October 1, 1971”.
 
-1969—Subsec. (b)(2). Pub. L. 91–152, §§106(b), 113(i), substituted provisions qualifying for assistance payments the transferee of any cooperative member whohas received assistance payments, provided that such transferee undertakes the obligation to pay occupancy charges, for provisions qualifying for assistance payments the transferee of the initial cooperative member receiving assistance payments, and substituted “$18,000” for “$15,000”, “$21,000” for “$17,500” wherever appearing, and “$24,000” for “$20,000”.
+<b>1969</b>—Subsec. (b)(2). Pub. L. 91–152, §§106(b), 113(i), substituted provisions qualifying for assistance payments the transferee of any cooperative member who has received assistance payments, provided that such transferee undertakes the obligation to pay occupancy charges, for provisions qualifying for assistance payments the transferee of the initial cooperative member receiving assistance payments, and substituted “$18,000” for “$15,000”, “$21,000” for “$17,500” wherever appearing, and “$24,000” for “$20,000”.
 
 Subsec. (c). Pub. L. 91–152, §§106(a), 418(a), inserted reference to subsection (i) of this section, and inserted the further proviso authorizing the Secretary to continue making assistance payments.
 
@@ -558,7 +558,7 @@ Section 206(b)(2) of Pub. L. 96–399 provided: “The amendment made by paragra
 
 #### Termination of Program; Savings Provision
 
-Section 125(d) of Pub. L. 101–235 provided that: “Notwithstanding the termination of the program under section 235 \[this section\] pursuant to section 401(d) of the Housing and Community Development Act of 1987 \[Pub. L. 100–242, set out below\], the Secretary of Housing and Urban Development shall have authority to insure mortgages under section 235(r), to make assistance payments with respect to such insured mortgages, and to make any other payment or take any other action related to the refinancing of mortgages insured under section 235.”
+Section 125(d) of Pub. L. 101–235 provided that: “Notwithstanding the termination of the program under section 235 \[this section\] pursuant to section 401(d) of the Housing and Community Development Act of 1987 \[Pub. L. 100–242, set out below\], the Secretary of Housing and Urban Development shall have authority to insure mortgages under section 235(r), to make assistancepayments with respect to such insured mortgages, and to make any other payment or take any other action related to the refinancing of mortgages insured under section 235.”
 
 Section 401(d) of Pub. L. 100–242 provided that:
 

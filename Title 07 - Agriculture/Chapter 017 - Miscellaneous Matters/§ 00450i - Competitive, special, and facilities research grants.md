@@ -374,23 +374,23 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (b). Pub. L. 110–246, §7406(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) authorized the Secretary to make competitive grants for research to further Department of Agriculture programs and to conduct a program to improve research capabilities in the agricultural, food, and environmental sciences and required an annual report to Congress describing the operations of the program during the preceding fiscal year.
+<b>2008</b>—Subsec. (b). Pub. L. 110–246, §7406(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) authorized the Secretary to make competitive grants for research to further Department of Agriculture programs and to conduct a program to improve research capabilities in the agricultural, food, and environmental sciences and required an annual report to Congress describing the operations of the program during the preceding fiscal year.
 
 Subsec. (d). Pub. L. 110–246, §7406(b)(2), struck out subsec. (d) which related to annual grants to support the renovation and refurbishment of research spaces in buildings or spaces to be used for research and the purchase and installation of fixed equipment in such spaces.
 
 Subsec. (k). Pub. L. 110–246, §7101(b)(2), which directed amendment of “Section 2(k) of the Competitive, Special, and Facilities Research Grant Act” by substituting “3103” for “3103(17)”, was executed by making the substitution to subsec. (k) of this section, which is the Competitive, Special, and Facilities Research Grant Act, to reflect the probable intent of Congress.
 
-2002—Subsec. (b)(2). Pub. L. 107–171, §7211, substituted “in the areas described in subparagraphs (A) through (F). Such needs shall be determined by the Secretary, in consultation with the National Agricultural Research, Extension, Education, and Economics Advisory Board, not later than July 1 of each fiscal year for the purposes of the following fiscal year.” for “in—” in provisions preceding subpar. (A).
+<b>2002</b>—Subsec. (b)(2). Pub. L. 107–171, §7211, substituted “in the areas described in subparagraphs (A) through (F). Such needs shall be determined by the Secretary, in consultation with the National Agricultural Research, Extension, Education, and Economics Advisory Board, not later than July 1 of each fiscal year for the purposes of the following fiscal year.” for “in—” in provisions preceding subpar. (A).
 
 Subsec. (b)(8)(B). Pub. L. 107–171, §6403(b), substituted “college, university, or research foundation maintained by a college or university that ranks in the lowest 1/3 of such colleges, universities, and research foundations on the basis of Federal research funds received” for “smaller college or university (as described in section 2204f(c)(2)(C)(ii) of this title)” in second sentence.
 
 Subsec. (b)(10). Pub. L. 107–171, §7136, substituted “2007” for “2002” in introductory provisions.
 
-2001—Subsec. (b)(3)(G). Pub. L. 107–76, §775(1), added subpar. (G).
+<b>2001</b>—Subsec. (b)(3)(G). Pub. L. 107–76, §775(1), added subpar. (G).
 
 Subsec. (b)(10)(C). Pub. L. 107–76, §775(2), substituted “, (F), and (G) of paragraph (3) for” for “and (F) of paragraph (3) for awarding grants in”.
 
-1998—Subsec. (b)(1). Pub. L. 105–185, §§211(1), 606(h)(1), in first sentence, inserted “national laboratories,” after “Federal agencies,” and in second sentence, substituted “National Agricultural Research, Extension, Education, and Economics Advisory Board (as established under section 3123 of this title)” for “Joint Council on Food and Agricultural Sciences and the National Agricultural Research and Extension Users Advisory Board”.
+<b>1998</b>—Subsec. (b)(1). Pub. L. 105–185, §§211(1), 606(h)(1), in first sentence, inserted “national laboratories,” after “Federal agencies,” and in second sentence, substituted “National Agricultural Research, Extension, Education, and Economics Advisory Board (as established under section 3123 of this title)” for “Joint Council on Food and Agricultural Sciences and the National Agricultural Research and Extension Users Advisory Board”.
 
 Subsec. (b)(2). Pub. L. 105–185, §211(2), substituted “multistate” for “regional” in introductory provisions.
 
@@ -414,15 +414,15 @@ Subsec. (c)(5), (6). Pub. L. 105–185, §212(2), added pars. (5) and (6).
 
 Subsec. (<i>l</i>). Pub. L. 105–185, §606(h)(2), struck out heading and text of subsec. (<i>l</i>). Text read as follows: “The Secretary of Agriculture may consult with the Agricultural Science and Technology Review Board regarding the policies, priorities, and operation of subsections (b) and (c) of this section.”
 
-1996—Subsec. (b)(10). Pub. L. 104–127, §885(a)(1), substituted “each of fiscal years 1995 through 1997” for “fiscal year 1995” in introductory provisions.
+<b>1996</b>—Subsec. (b)(10). Pub. L. 104–127, §885(a)(1), substituted “each of fiscal years 1995 through 1997” for “fiscal year 1995” in introductory provisions.
 
 Subsec. (b)(10)(B). Pub. L. 104–127, §885(a)(2), substituted “40 percent” for “20 percent”.
 
 Subsec. (b)(11). Pub. L. 104–127, §885(b), added par. (11).
 
-1995—Subsecs. (<i>l</i>), (m). Pub. L. 104–66 redesignated subsec. (m) as (<i>l</i>) and struck out former subsec. (<i>l</i>) which directed Secretary of Agriculture to submit annual reports to Congress on competitive grant and special grant awards.
+<b>1995</b>—Subsecs. (<i>l</i>), (m). Pub. L. 104–66 redesignated subsec. (m) as (<i>l</i>) and struck out former subsec. (<i>l</i>) which directed Secretary of Agriculture to submit annual reports to Congress on competitive grant and special grant awards.
 
-1991—Subsec. (a). Pub. L. 102–237, §401(a), designated existing provisions as par. (1) and added par. (2).
+<b>1991</b>—Subsec. (a). Pub. L. 102–237, §401(a), designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (b)(10). Pub. L. 102–237, §401(b)(1), struck out “and” after “1993,”.
 
@@ -454,7 +454,7 @@ Subsec. (j). Pub. L. 102–237, §401(b)(7), (8), inserted “Application of oth
 
 Subsecs. (k) to (m). Pub. L. 102–237, §401(b)(8), redesignated subsecs. (j) to (<i>l</i>), as added by Pub. L. 101–624, §1615(b), as (k) to (m), respectively.
 
-1990—Pub. L. 101–624, §1615(c)(1), inserted “Competitive, special, and facilities research grants” as section catchline.
+<b>1990</b>—Pub. L. 101–624, §1615(c)(1), inserted “Competitive, special, and facilities research grants” as section catchline.
 
 Subsec. (a). Pub. L. 101–624, §1615(c)(1), inserted heading.
 
@@ -482,7 +482,7 @@ Pub. L. 101–624, §1497(1), redesignated subsec. (i), relating to application 
 
 Subsecs. (k) and (<i>l</i>). Pub. L. 101–624, §1615(b), added subsecs. (k) and (<i>l</i>).
 
-1985—Subsec. (b). Pub. L. 99–198, §1409(a)(1), (2), substituted in third sentence par. “(2) research, with emphasis on biotechnology,” for “(2) research” and added pars. (7) and (8), and prohibited any grant under subsec. (b) for any purpose for which a grant may be made under subsec. (d) or for the planning, repair, rehabilitation, acquisition, or construction of a building or a facility.
+<b>1985</b>—Subsec. (b). Pub. L. 99–198, §1409(a)(1), (2), substituted in third sentence par. “(2) research, with emphasis on biotechnology,” for “(2) research” and added pars. (7) and (8), and prohibited any grant under subsec. (b) for any purpose for which a grant may be made under subsec. (d) or for the planning, repair, rehabilitation, acquisition, or construction of a building or a facility.
 
 Pub. L. 99–198, §1409(a)(3), in concluding provisions substituted appropriations authorization of $70,000,000 annually for fiscal years ending Sept. 30, 1986, through Sept. 30, 1990 for prior authorization of 25, 30, 35, and 40 million dollars for fiscal years ending Sept. 30, 1978, through Sept. 30, 1981, and 50 million dollars annually for fiscal years ending Sept. 30, 1982, through Sept. 30, 1985, and for any subsequent fiscal year not in excess of such sums as may be authorized by law; and authorized retention of four percent of appropriated funds for payment of administrative costs.
 
@@ -492,13 +492,13 @@ Pub. L. 99–198, §1409(b)(2), authorized retention of four percent of appropri
 
 Subsec. (i). Pub. L. 99–198, §1409(c), added subsec. (i).
 
-1981—Subsec. (b). Pub. L. 97–98, §1415(a), inserted “and the National Agricultural Research and Extension Users Advisory Board” and provision specifying what is included in high priority research and substituted “for each of the fiscal years ending September 30, 1982, September 30, 1983, September 30, 1984, and September 30, 1985” for “for the fiscal year ending September 30, 1982”.
+<b>1981</b>—Subsec. (b). Pub. L. 97–98, §1415(a), inserted “and the National Agricultural Research and Extension Users Advisory Board” and provision specifying what is included in high priority research and substituted “for each of the fiscal years ending September 30, 1982, September 30, 1983, September 30, 1984, and September 30, 1985” for “for the fiscal year ending September 30, 1982”.
 
 Subsec. (c). Pub. L. 97–98, §1415(b), in par. (1) inserted “research foundations established by land-grant colleges and universities,”, in par. (2) inserted reference to research foundations established by land-grant colleges and universities, colleges and universities receiving funds under the Act of October 10, 1962, and accredited schools or colleges of veterinary medicine, and added subpar. (D).
 
 Subsec. (d). Pub. L. 97–98, §1415(c), in provision preceding par. (1) substituted provision directing that annual grants be made to support the renovation and refurbishment, including energy retrofitting, of research spaces in buildings or spaces to be used for research, and the purchase and installation of fixed equipment in such spaces and providing that grants may be used for new construction only for auxiliary facilities and fixed equipment used for research in such facilities, such as greenhouses, insectaries, and research farm structures and installations for provision that grants be made to support the purchase of equipment, supplies, and land, and the construction, alteration, or renovation of buildings, necessary for the conduct of food and agricultural research and added pars. (3) and (4).
 
-1977—Pub. L. 95–113 designated existing provisions as subsec. (e) and a part of subsec. (b) and added the remainder of subsec. (b) and subsecs. (a), (c), (d), (f), (g), and (h).
+<b>1977</b>—Pub. L. 95–113 designated existing provisions as subsec. (e) and a part of subsec. (b) and added the remainder of subsec. (b) and subsecs. (a), (c), (d), (f), (g), and (h).
 
 #### Effective Date of 2008 Amendment
 

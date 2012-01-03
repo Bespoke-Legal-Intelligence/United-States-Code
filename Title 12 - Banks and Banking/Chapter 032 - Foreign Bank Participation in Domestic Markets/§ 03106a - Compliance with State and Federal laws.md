@@ -20,7 +20,7 @@
 
 #### Amendments
 
-1994—Par. (1). Pub. L. 103–328, §107(c)(1), added subpar. (A) and redesignated former subpars. (A) and (B) as (B) and (C), respectively.
+<b>1994</b>—Par. (1). Pub. L. 103–328, §107(c)(1), added subpar. (A) and redesignated former subpars. (A) and (B) as (B) and (C), respectively.
 
 Par. (2). Pub. L. 103–328, §107(c)(2), added subpar. (A) and redesignated former subpars. (A) and (B) as (B) and (C), respectively.
 

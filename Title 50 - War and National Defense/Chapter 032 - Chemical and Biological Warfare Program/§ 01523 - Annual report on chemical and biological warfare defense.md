@@ -2,7 +2,7 @@
 
 #### (a) Report required
 
-The Secretary of Defense shall include in the annual report of the Secretary under section113(c) of title 10 a report on chemical and biological warfare defense. The report shall assess—
+The Secretary of Defense shall include in the annual report of the Secretary under section 113(c) of title 10 a report on chemical and biological warfare defense. The report shall assess—
 
 &emsp;(1) the overall readiness of the Armed Forces to fight in a chemical-biological warfare environment and shall describe steps taken and planned to be taken to improve such readiness; and
 

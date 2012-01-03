@@ -10,5 +10,5 @@ R.S. §69 derived from act June 17, 1844, ch. 105, §1, 5 Stat. 681.
 
 #### Amendments
 
-1996—Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk”.
+<b>1996</b>—Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk”.
 

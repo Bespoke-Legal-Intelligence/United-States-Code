@@ -12,7 +12,7 @@ For purposes of subsection (a), except as provided in subsection (c), the term �
 
 #### (1) General rule
 
-&emsp;For purposes of this section, the term “contribution to the capital of the taxpayer” includes any amount of money or other propertyreceived from any person (whether or not a shareholder) by a regulated public utility which provides water or sewerage disposal services if—
+&emsp;For purposes of this section, the term “contribution to the capital of the taxpayer” includes any amount of money or other property received from any person (whether or not a shareholder) by a regulated public utility which provides water or sewerage disposal services if—
 
 &emsp;&emsp;(A) such amount is a contribution in aid of construction,
 

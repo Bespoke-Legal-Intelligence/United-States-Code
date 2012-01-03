@@ -24,7 +24,7 @@ The Clerk of the House of Representatives shall post on the public Internet site
 
 #### (3) Omission of personally identifiable information
 
-&emsp;Members of the House of Representatives (including Delegates and Resident Commissioners to the Congress) shall be permitted to omit personally identifiable information not required to be disclosed on the reports posted on the public Internet site under this section (such as home address, Social Security numbers, personal bank account numbers, home telephone, and names of children) prior to the posting of such reports on such public Internet site.
+&emsp;Members of the House of Representatives (including Delegates and Resident Commissioners to the Congress) shall be permitted to omit personally identifiable information notrequired to be disclosed on the reports posted on the public Internet site under this section (such as home address, Social Security numbers, personal bank account numbers, home telephone, and names of children) prior to the posting of such reports on such public Internet site.
 
 #### (4) Assistance in protecting personal information
 
@@ -39,6 +39,10 @@ The Clerk shall maintain the information posted on the public Internet site of t
 #### References in Text
 
 Section 103(h)(1) of the Ethics in Government Act of 1978, referred to in subsec. (a)(2), is section 103(h)(1) of Pub. L. 95–521, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Change of Name
+
+Committee on Standards of Official Conduct of House of Representatives changed to Committee on Ethics of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Exercise of Rulemaking Authority
 

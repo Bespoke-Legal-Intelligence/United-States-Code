@@ -22,7 +22,7 @@ The judges shall be officers or employees of the Department. The judges shall me
 
 #### (d) Assignment of judges
 
-For the purposes of conducting hearings described in subsection (a) of this section, thechief judge shall assign a judge to each case or class of cases. A judge shall be disqualified in any case in which the judge has a substantial interest, has been of counsel, is or has been a material witness, or is so related to or connected with any party or the party's attorney as to make it improper for the judge to be assigned to the case.
+For the purposes of conducting hearings described in subsection (a) of this section, the chief judge shall assign a judge to each case or class of cases. A judge shall be disqualified in any case in which the judge has a substantial interest, has been of counsel, is or has been a material witness, or is so related to or connected with any party or the party's attorney as to make it improper for the judge to be assigned to the case.
 
 #### (e) Review and evidentiary functions
 
@@ -36,7 +36,7 @@ The judge shall review and may require that evidence be taken on the sufficiency
 
 #### (g) Discovery; scope, time, etc.; issue and enforcement of subpoenas
 
-(1) In order to secure a fair, expeditious, and economical resolution of cases and where the judge determines that the discovered information is likely to elicit relevant information with respect to an issue in the case, is not sought primarily for the purposes of delay or harassment, and would serve the ends of justice, the judge may order a party to—
+(1) In order to secure a fair, expeditious, and economical resolution of cases and where thejudge determines that the discovered information is likely to elicit relevant information with respect to an issue in the case, is not sought primarily for the purposes of delay or harassment, and would serve the ends of justice, the judge may order a party to—
 
 &emsp;(A) produce relevant documents;
 

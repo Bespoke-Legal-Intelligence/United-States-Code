@@ -18,7 +18,7 @@
 
 (3) Any owner which brings into use an underground storage tank after the initial notification period specified under paragraph (1), shall notify the designated State or local agency or department within thirty days of the existence of such tank, specifying the age, size, type, location and uses of such tank.
 
-(4) Paragraphs (1) through (3) of this subsection shall not apply to tanks for which notice was given pursuant to section 9603(c) of this title.
+(4) Paragraphs (1) through (3) of this subsection shall not apply to tanks for which noticewas given pursuant to section 9603(c) of this title.
 
 (5) Beginning thirty days after the Administrator prescribes the form of notice pursuant to subsection (b)(2) of this section and for eighteen months thereafter, any person who deposits regulated substances in an underground storage tank shall reasonably notify the owner or operator of such tank of the owner's notification requirements pursuant to this subsection.
 
@@ -26,7 +26,7 @@
 
 #### (b) Agency designation
 
-(1) Within one hundred and eighty days after November 8, 1984, the Governors of each Stateshall designate the appropriate State agency or department or local agencies or departments to receive the notifications under subsection (a)(1), (2), or (3) of this section.
+(1) Within one hundred and eighty days after November 8, 1984, the Governors of each State shall designate the appropriate State agency or department or local agencies or departments to receive the notifications under subsection (a)(1), (2), or (3) of this section.
 
 (2) Within twelve months after November 8, 1984, the Administrator, in consultation with State and local officials designated pursuant to subsection (b)(1) of this section, and after notice and opportunity for public comment, shall prescribe the form of the notice and the information to be included in the notifications under subsection (a)(1), (2), or (3) of this section. In prescribing the form of such notice, the Administrator shall take into account the effect on small businesses and other owners and operators.
 

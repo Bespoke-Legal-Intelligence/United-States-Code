@@ -66,7 +66,7 @@ Subsec. (f). Pub. L. 97–34, §235, added subsec. (f).
 
 <b>1976</b>—Subsecs. (a), (c), (e). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
-Subsec. (f). Pub. L. 94–455, §1901(b)(36)(A), struck out subsec. (f) which provided for a cross reference relatingto involuntary liquidation and replacement of LIFO inventories.
+Subsec. (f). Pub. L. 94–455, §1901(b)(36)(A), struck out subsec. (f) which provided for a cross reference relating to involuntary liquidation and replacement of LIFO inventories.
 
 #### Effective Date of 1984 Amendment
 

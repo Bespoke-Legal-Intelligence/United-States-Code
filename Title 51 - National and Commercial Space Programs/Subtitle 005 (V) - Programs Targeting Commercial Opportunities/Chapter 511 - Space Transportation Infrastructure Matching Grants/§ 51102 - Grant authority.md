@@ -1,0 +1,42 @@
+### §51102. Grant authority
+
+(a)
+
+General Authority.—To ensure the resiliency of the space transportation infrastructure of the United States, the Secretary of Transportation may make project grants to sponsors as provided in this chapter.
+
+(b)
+
+Limitations.—The Secretary may make a project grant under this chapter only if—
+
+&emsp;(1) at least 10 percent of the total cost of the project will be paid by the private sector; and
+
+&emsp;(2) the grant will not be for more than 50 percent of the total cost of the project.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1343, §70302 of title 49; renumbered §70302 then §51102 of title 51, Pub. L. 111–314, §4(d)(2), (4)(B), Dec. 18, 2010, 124 Stat. 3440, 3441.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+70302(a)
+
+15:5804(b) (1st sentence).
+
+Nov. 4, 1992, Pub. L. 102–588, §505(b) (1st sentence), (f), 106 Stat. 5125, 5127.
+
+70302(b)
+
+15:5804(f).
+
+In subsection (a), the words “of the United States” are substituted for “Nation's” for consistency.
+
+#### Amendments
+
+<b>2010</b>—Pub. L. 111–314 successively renumbered section 70302 of title 49 and section 70302 of this title as this section.
+

@@ -8,7 +8,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Sections 301, 302, 303, and 304 are all modified in the House amendment to adopt an idea contained in sections 301 and 303 of the Senate amendment requiring a petition commencing a case to be filed with the bankruptcy court. The exception contained in section 301 of the Senate bill relating to cases filed under chapter 9 is deleted. Chapter 9 cases will be handled by a bankruptcy court as are other title 11 cases.
 
@@ -18,7 +18,7 @@ Section 301 specifies the manner in which a voluntary bankruptcy case is commenc
 
 #### Amendments
 
-2005—Pub. L. 109–8 designated existing provisions as subsec. (a), struck out “The commencement of a voluntary case under a chapter of this title constitutes an order for relief under such chapter.” at end, and added subsec. (b).
+<b>2005</b>—Pub. L. 109–8 designated existing provisions as subsec. (a), struck out “The commencement of a voluntary case under a chapter of this title constitutes an order for relief under such chapter.” at end, and added subsec. (b).
 
 #### Effective Date of 2005 Amendment
 

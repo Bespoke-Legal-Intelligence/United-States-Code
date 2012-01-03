@@ -6,7 +6,7 @@ The Commissioner shall receive and assess the report submitted to the Commission
 
 #### (b) Report to Congress
 
-Beginning with fiscal year 2009, the Commissioner shall submit to Congress an annual reportsummarizing the incorporation of the information provided by the Foundation in the report described under section 379dd(<i>l</i>)(2) of this title and by other recipients of grants, contracts, memoranda of understanding, or cooperative agreements into regulatory and product review activities of the Food and Drug Administration.
+Beginning with fiscal year 2009, the Commissioner shall submit to Congress an annual report summarizing the incorporation of the information provided by the Foundation in the report described under section 379dd(<i>l</i>)(2) of this title and by other recipients of grants, contracts, memoranda of understanding, or cooperative agreements into regulatory and product review activities of the Food and Drug Administration.
 
 #### (c) Extramural grants
 

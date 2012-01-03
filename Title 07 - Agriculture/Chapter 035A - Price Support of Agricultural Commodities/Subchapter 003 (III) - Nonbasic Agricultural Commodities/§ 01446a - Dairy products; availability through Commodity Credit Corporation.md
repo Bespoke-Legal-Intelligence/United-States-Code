@@ -26,11 +26,11 @@ Provisions (1) and (2) of section 1431 of this title, referred to in subsec. (d)
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–437, §4(b)(1), substituted “Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House” for “Committees on Agriculture of the Senate and House”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–437, §4(b)(1), substituted “Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House” for “Committees on Agriculture of the Senate and House”.
 
 Subsec. (b). Pub. L. 103–437, §4(b)(2), substituted “Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House” for “Committees on Agriculture of the Senate and the House”.
 
-1991—Pub. L. 102–54 and Pub. L. 102–237, §113(9)(A), amended introductory provisions identically, substituting “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
+<b>1991</b>—Pub. L. 102–54 and Pub. L. 102–237, §113(9)(A), amended introductory provisions identically, substituting “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
 
 Subsec. (a). Pub. L. 102–237, §113(9)(B), substituted “Secretary of Veterans Affairs” for “Administrator” before “certifies” and “shall report”.
 
@@ -38,29 +38,29 @@ Pub. L. 102–54 and Pub. L. 102–237, §113(9)(A), amended subsec. (a) identic
 
 Subsec. (c). Pub. L. 102–54 and Pub. L. 102–237, §113(9)(A), amended subsec. (c) identically, substituting “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
 
-1990—Subsecs. (a), (b). Pub. L. 101–624 substituted “1995” for “1990”.
+<b>1990</b>—Subsecs. (a), (b). Pub. L. 101–624 substituted “1995” for “1990”.
 
-1985—Subsecs. (a), (b). Pub. L. 99–198 substituted “1990” for “1985”.
+<b>1985</b>—Subsecs. (a), (b). Pub. L. 99–198 substituted “1990” for “1985”.
 
-1981—Subsecs. (a), (b). Pub. L. 97–98 substituted “1985” for “1981”.
+<b>1981</b>—Subsecs. (a), (b). Pub. L. 97–98 substituted “1985” for “1981”.
 
-1977—Subsecs. (a), (b). Pub. L. 95–113 substituted “1981” for “1977”.
+<b>1977</b>—Subsecs. (a), (b). Pub. L. 95–113 substituted “1981” for “1977”.
 
-1973—Subsecs. (a), (b). Pub. L. 93–86 substituted “1977” for “1973”.
+<b>1973</b>—Subsecs. (a), (b). Pub. L. 93–86 substituted “1977” for “1973”.
 
-1970—Subsecs. (a), (b). Pub. L. 91–524 substituted “1973” for “1970”.
+<b>1970</b>—Subsecs. (a), (b). Pub. L. 91–524 substituted “1973” for “1970”.
 
-1967—Subsecs. (a), (b). Pub. L. 90–140 substituted “1970” for “1967”.
+<b>1967</b>—Subsecs. (a), (b). Pub. L. 90–140 substituted “1970” for “1967”.
 
-1964—Subsecs. (a), (b). Pub. L. 88–529 substituted “1967” for “1964”.
+<b>1964</b>—Subsecs. (a), (b). Pub. L. 88–529 substituted “1967” for “1964”.
 
-1962—Subsec. (a). Pub. L. 87–495 changed requirement of a monthly report to one every six months.
+<b>1962</b>—Subsec. (a). Pub. L. 87–495 changed requirement of a monthly report to one every six months.
 
-1961—Subsecs. (a), (b). Pub. L. 87–128 substituted “1964” for “1961”.
+<b>1961</b>—Subsecs. (a), (b). Pub. L. 87–128 substituted “1964” for “1961”.
 
-1958—Subsecs. (a), (b). Pub. L. 85–835 substituted “1961” for “1958” and provided for receipt of surplus dairy products by Coast Guard and United States Merchant Marine Academy.
+<b>1958</b>—Subsecs. (a), (b). Pub. L. 85–835 substituted “1961” for “1958” and provided for receipt of surplus dairy products by Coast Guard and United States Merchant Marine Academy.
 
-1956—Subsecs. (a), (b). Act Apr. 2, 1956, substituted “1958” for “1956”.
+<b>1956</b>—Subsecs. (a), (b). Act Apr. 2, 1956, substituted “1958” for “1956”.
 
 #### Effective Date of 1990 Amendment
 

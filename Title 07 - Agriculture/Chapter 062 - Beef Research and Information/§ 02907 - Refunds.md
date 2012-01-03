@@ -62,7 +62,7 @@ Section 2906(a) of this title, referred to in subsec. (f)(1), was in the origina
 
 #### Amendments
 
-1985—Pub. L. 99–198 amended section generally, substituting provisions relating to refunds for provisions relating to required terms and conditions in orders.
+<b>1985</b>—Pub. L. 99–198 amended section generally, substituting provisions relating to refunds for provisions relating to required terms and conditions in orders.
 
 #### Effective Date of 1985 Amendment
 

@@ -1,6 +1,6 @@
 ### §3324. Appointments to positions classified above GS–15
 
-(a) An appointment to a position classified above GS–15 pursuant to section 5108 may be made only on approval of the qualifications of the proposed appointee by the Director of the Office of Personnel Management on the basis of qualification standards developed by the agency involved in accordance with criteria specified inregulations prescribed by the Director. This section does not apply to a position—
+(a) An appointment to a position classified above GS–15 pursuant to section 5108 may be made only on approval of the qualifications of the proposed appointee by the Director of the Office of Personnel Management on the basis of qualification standards developed by the agency involved in accordance with criteria specified in regulations prescribed by the Director. This section does not apply to a position—
 
 &emsp;(1) to which appointment is made by the Chief Judge of the United States Tax Court;
 
@@ -58,19 +58,19 @@ The Treasury, Post Office, and Executive Office Appropriation Act, 1966, referre
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–372 substituted “the Director of the Office of Personnel Management on the basis of qualification standards developed by the agency involved in accordance with criteria specified in regulations prescribed by the Director” for “the Office of Personnel Management” in introductory provisions.
+<b>2008</b>—Subsec. (a). Pub. L. 110–372 substituted “the Director of the Office of Personnel Management on the basis of qualification standards developed by the agency involved in accordance with criteria specified in regulations prescribed by the Director” for “the Office of Personnel Management” in introductory provisions.
 
-1992—Pub. L. 102–378, §2(11)(A), substituted “GS–15” for “GA–15” in section catchline.
+<b>1992</b>—Pub. L. 102–378, §2(11)(A), substituted “GS–15” for “GA–15” in section catchline.
 
 Subsec. (a)(1). Pub. L. 102–378, §2(11)(B), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “provided for in section 5108(c)(2) of this title;”.
 
-1990—Pub. L. 101–509, §529 \[title I, §101(b)(9)(C)(ii)\], which directed that “to positions classified above GA–15” be substituted for “at GS–16, 17, or 18” in section catchline, was executed by making the substitution for “at GS–16, 17, and 18”, as the probable intent of Congress.
+<b>1990</b>—Pub. L. 101–509, §529 \[title I, §101(b)(9)(C)(ii)\], which directed that “to positions classified above GA–15” be substituted for “at GS–16, 17, or 18” in section catchline, was executed by making the substitution for “at GS–16, 17, and 18”, as the probable intent of Congress.
 
 Subsec. (a). Pub. L. 101–509, §529 \[title I, §101(b)(9)(C)(i)\], substituted “classified above GS–15 pursuant to section 5108” for “in GS–16, 17, or 18”.
 
-1979—Subsec. (a)(4)(A). Pub. L. 96–54 struck out reference to Office of Emergency Planning.
+<b>1979</b>—Subsec. (a)(4)(A). Pub. L. 96–54 struck out reference to Office of Emergency Planning.
 
-1978—Subsecs. (a), (b). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission”.
+<b>1978</b>—Subsecs. (a), (b). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission”.
 
 #### Effective Date of 2008 Amendment
 

@@ -24,7 +24,7 @@
 
 (3) The Secretary shall determine the number, terms of service, and pay and allowances of members of the Committee appointed by the Secretary, except that a term of service of any such member may not exceed three years. The Secretary may reappoint any such member for additional terms of service.
 
-(b) The Secretary shall, on a regular basis, consult with and seek the advice of the Committee with respect to the administration of benefits by the Department for women veterans, reports and studies pertaining to women veterans and the needs of women veterans with respect to compensation, health care, rehabilitation, outreach, and other benefits and programs administered by the Department, including the Center for Women Veterans.
+(b) The Secretary shall, on a regular basis, consult with and seek the advice of the Committee with respect to the administration of benefits by the Department for women veterans, reports and studies pertaining to women veterans and the needs of women veterans with respect tocompensation, health care, rehabilitation, outreach, and other benefits and programs administered by the Department, including the Center for Women Veterans.
 
 (c)(1) Not later than July 1 of each even-numbered year, the Committee shall submit to the Secretary a report on the programs and activities of the Department that pertain to women veterans. Each such report shall include—
 
@@ -40,7 +40,7 @@
 
 (4) The Secretary shall submit with each annual report submitted to the Congress pursuant to section 529 of this title a summary of all reports and recommendations of the Committee submitted to the Secretary since the previous annual report of the Secretary submitted pursuant to such section.
 
-(Added Pub. L. 102–83, §2(a), Aug. 6, 1991, 105 Stat. 393; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–275, title V, §501(e)(1), Oct. 9, 1996, 110 Stat. 3341; Pub. L. 106–419, title IV, §403(c)(3), Nov. 1, 2000, 114 Stat. 1864; Pub. L. 109–444, §5, Dec. 21, 2006, 120 Stat. 3308; Pub. L. 109–461, title II, §208(b), title X, §1006(b), Dec. 22, 2006, 120 Stat. 3413, 3468; Pub. L. 110–387, title VIII, §808, Oct. 10,2008, 122 Stat. 4141; Pub. L. 111–163, title II, §204(a), May 5, 2010, 124 Stat. 1144.)
+(Added Pub. L. 102–83, §2(a), Aug. 6, 1991, 105 Stat. 393; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–275, title V, §501(e)(1), Oct. 9, 1996, 110 Stat. 3341; Pub. L. 106–419, title IV, §403(c)(3), Nov. 1, 2000, 114 Stat. 1864; Pub. L. 109–444, §5, Dec. 21, 2006, 120 Stat. 3308; Pub. L. 109–461, title II, §208(b), title X, §1006(b), Dec. 22, 2006, 120 Stat. 3413, 3468; Pub. L. 110–387, title VIII, §808, Oct. 10, 2008, 122 Stat. 4141; Pub. L. 111–163, title II, §204(a), May 5, 2010, 124 Stat. 1144.)
 
 #### Prior Provisions
 

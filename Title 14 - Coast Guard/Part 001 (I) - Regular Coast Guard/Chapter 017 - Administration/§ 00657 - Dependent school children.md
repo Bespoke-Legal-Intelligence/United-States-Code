@@ -12,7 +12,7 @@ Act of September 30, 1950, referred to in subsec. (a), is act Sept. 30, 1950, ch
 
 #### Amendments
 
-1974—Pub. L. 93–430 struck out “; transportation of” after “children” in section catchline, designated existing provisions as subsec. (b), and added subsec. (a).
+<b>1974</b>—Pub. L. 93–430 struck out “; transportation of” after “children” in section catchline, designated existing provisions as subsec. (b), and added subsec. (a).
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

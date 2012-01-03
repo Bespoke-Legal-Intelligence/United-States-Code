@@ -60,5 +60,5 @@ Section applicable only to fiscal years beginning after Sept. 30, 2003, except a
 
 #### Suspension of Certification of Foreign Repair Stations
 
-Pub. L. 110–53, title XVI, §1616(a), Aug. 3, 2007, 121 Stat. 488, provided that: “If the regulations required bysection 44924(f) of title 49, United States Code, are not issued within 1 year after the date of enactment of this Act \[Aug. 3, 2007\], the Administrator of the Federal Aviation Administration may not certify any foreign repair station under part 145 of title 14, Code of Federal Regulations, after such date unless the station was previously certified, or is in the process of certification by the Administration under that part.”
+Pub. L. 110–53, title XVI, §1616(a), Aug. 3, 2007, 121 Stat. 488, provided that: “If the regulations required by section 44924(f) of title 49, United States Code, are not issued within 1 year after the date of enactment of this Act \[Aug. 3, 2007\], the Administrator of the Federal Aviation Administration may not certify any foreign repair station under part 145 of title 14, Code of Federal Regulations, after such date unless the station was previously certified, or is in the process of certification by the Administration under that part.”
 

@@ -26,7 +26,7 @@ The Secretary is authorized and directed, within one year of November 4, 1978, t
 
 &emsp;(3) the need to identify legal alternatives to ensure access to direct sunlight for photovoltaic energy systems, the appropriate methods of encouraging the adoption of such alternatives, and the implications of widespread utilization of photovoltaic energy systems for land use and urban development;
 
-&emsp;(4) the availability of private capital at reasonable interest rates for individuals, businesses and others desiring to establish commercial enterprises to manufacture, market, install, and/or, maintain photovoltaic components and systems, or purchase and install such systems for private, industrial, agricultural, commercial or other uses;
+&emsp;(4) the availability of private capital at reasonable interest rates for individuals, businesses and others desiring to establish commercial enterprises to manufacture, market,install, and/or, maintain photovoltaic components and systems, or purchase and install such systems for private, industrial, agricultural, commercial or other uses;
 
 &emsp;(5) the need for industry-wide warranty and reliability standards for photovoltaic energy components and systems for private sector applications, and, if appropriate, the mechanisms for establishing such standards; and
 

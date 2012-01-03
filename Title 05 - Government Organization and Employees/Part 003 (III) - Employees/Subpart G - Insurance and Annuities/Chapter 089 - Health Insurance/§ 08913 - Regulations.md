@@ -64,13 +64,13 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1988—Subsec. (b)(4). Pub. L. 100–654 added par. (4).
+<b>1988</b>—Subsec. (b)(4). Pub. L. 100–654 added par. (4).
 
-1985—Subsec. (b). Pub. L. 99–53 inserted reference to section 8903a of this title.
+<b>1985</b>—Subsec. (b). Pub. L. 99–53 inserted reference to section 8903a of this title.
 
-1984—Subsec. (c). Pub. L. 98–615, §3(7), substituted “employees, annuitants, members of their families, and former spouses” for “employees and annuitants and members of their families”, and “in which an annuitant or former spouse” for “in which an annuitant”.
+<b>1984</b>—Subsec. (c). Pub. L. 98–615, §3(7), substituted “employees, annuitants, members of their families, and former spouses” for “employees and annuitants and members of their families”, and “in which an annuitant or former spouse” for “in which an annuitant”.
 
-1978—Subsecs. (a), (b). Pub. L. 95–454, §906(a)(2), (3), substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission” wherever appearing.
+<b>1978</b>—Subsecs. (a), (b). Pub. L. 95–454, §906(a)(2), (3), substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission” wherever appearing.
 
 Subsec. (b)(3). Pub. L. 95–454, §906(c)(2)(F), (H), substituted “3401” for “3391”.
 
@@ -80,7 +80,7 @@ Subsec. (c). Pub. L. 95–454, §906(a)(3), substituted “Office” for “Comm
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–654 effective 120 days after Nov. 14, 1988, see section 301(d) of Pub. L. 100–654, set out as an Effective Date note under section 8906a of this title.
+Amendment by Pub. L. 100–654 effective 120 days after Nov. 14, 1988, see section 301(d) of Pub. L. 100–654, setout as an Effective Date note under section 8906a of this title.
 
 #### Effective Date of 1984 Amendment
 

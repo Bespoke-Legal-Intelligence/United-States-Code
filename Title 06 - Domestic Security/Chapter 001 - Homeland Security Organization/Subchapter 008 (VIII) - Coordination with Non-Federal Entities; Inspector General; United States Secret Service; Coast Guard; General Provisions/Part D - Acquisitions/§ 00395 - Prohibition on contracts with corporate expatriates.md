@@ -42,7 +42,7 @@ For purposes of this section, a foreign incorporated entity shall be treated as 
 
 #### (D) Special rule for related partnerships
 
-&emsp;&emsp;For purposes of applying subsection (b) of this section to the acquisition of a domestic partnership, except as provided in regulations, all domestic partnerships which are under common control (within the meaningof section 482 of title 26) shall be treated as I <sup>1</sup> partnership.
+&emsp;&emsp;For purposes of applying subsection (b) of this section to the acquisition of a domestic partnership, except as provided in regulations, all domestic partnerships which are under common control (within the meaning of section 482 of title 26) shall be treated as I <sup>1</sup> partnership.
 
 #### (E) Treatment of certain rights
 
@@ -62,7 +62,7 @@ For purposes of this section, a foreign incorporated entity shall be treated as 
 
 #### (4) Other definitions
 
-&emsp;The terms “person”, “domestic”, and “foreign” have the meanings given such terms by paragraphs (1), (4), and (5) of section 7701(a) of title 26, respectively.
+&emsp;The terms “person”, “domestic”, and “foreign” have the meanings given such terms byparagraphs (1), (4), and (5) of section 7701(a) of title 26, respectively.
 
 #### (d) Waivers
 
@@ -72,7 +72,7 @@ The Secretary shall waive subsection (a) of this section with respect to any spe
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–334, §523(1), inserted before period at end “, or any subsidiary of such an entity”.
+<b>2004</b>—Subsec. (a). Pub. L. 108–334, §523(1), inserted before period at end “, or any subsidiary of such an entity”.
 
 Subsec. (b)(1). Pub. L. 108–334, §523(2), inserted “before, on, or” after “completes”.
 
@@ -80,7 +80,7 @@ Subsec. (c)(1)(B). Pub. L. 108–334, §523(3), struck out “which is after Nov
 
 Subsec. (d). Pub. L. 108–334, §523(4), substituted “national” for “homeland”.
 
-2003—Subsec. (d). Pub. L. 108–7 struck out “, or to prevent the loss of any jobs in the United States or prevent the Government from incurring any additional costs that otherwise would not occur” before period at end.
+<b>2003</b>—Subsec. (d). Pub. L. 108–7 struck out “, or to prevent the loss of any jobs in the United States or prevent the Government from incurring any additional costs that otherwise would not occur” before period at end.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

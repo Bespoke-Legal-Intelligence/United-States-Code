@@ -158,7 +158,7 @@ Subsec. (e). Pub. L. 100–647, §1018(h)(1), amended subsec. (e) generally. Pri
 
 Subsec. (b)(3)(B). Pub. L. 99–514, §1821(i)(2), struck out “(including tax-exempt interest)” after “insurance gross income” in cl. (ii) and inserted at end “For purposes of subparagraph (B)(ii), life insurance gross income shall be determined by including tax-exempt interest and by applying section 807(a)(2)(B) as if it did not contain clause (i) thereof.”
 
-Subsec. (c). Pub. L. 99–514, §1821(i)(3), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “For purposes of this section, the term ‘netinvestment income’ means 90 percent of gross investment income.”
+Subsec. (c). Pub. L. 99–514, §1821(i)(3), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “For purposes of this section, the term ‘net investment income’ means 90 percent of gross investment income.”
 
 Subsec. (g). Pub. L. 99–514, §1821(i)(4), added subsec. (g).
 
@@ -168,7 +168,7 @@ Amendment by Pub. L. 108–218 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable to contracts issued after June 8, 1997, in taxable years ending after such date, with special provisions relating to changes in contracts to be treated as new contracts, see section 1084(d) of Pub. L. 105–34, set out as a note under section 101 of this title.
+Amendment by Pub. L. 105–34 applicable to contracts issued after June 8, 1997, in taxable years ending after such date, with special provisions relating to changesin contracts to be treated as new contracts, see section 1084(d) of Pub. L. 105–34, set out as a note under section 101 of this title.
 
 #### Effective Date of 1996 Amendment
 

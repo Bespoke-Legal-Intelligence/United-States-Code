@@ -30,7 +30,7 @@ Each PDP sponsor of a prescription drug plan shall meet the following requiremen
 
 #### (2) Limitation on entities offering fallback prescription drug plans
 
-&emsp;The Secretary shall not enter into a contract with a PDP sponsor for the offering of a prescription drug plan (other than a fallback prescription drug plan) in a PDP region for a year if the sponsor—
+&emsp;The Secretary shall not enter into a contract with a PDP sponsor for the offering of aprescription drug plan (other than a fallback prescription drug plan) in a PDP region for a year if the sponsor—
 
 &emsp;&emsp;(A) submitted a bid under section 1395w–111(g) of this title for such year (as the first year of a contract period under such section) to offer a fallback prescription drug plan in any PDP region;
 
@@ -108,7 +108,7 @@ Each PDP sponsor of a prescription drug plan shall meet the following requiremen
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), if payment is not issued, mailed, or otherwise transmitted within the applicable number of calendar days (as defined in subparagraph (B)) after a clean claim is received, the PDP sponsor shall pay interest to the pharmacy that submitted the claim at a rate equal to the weighted average of interest on 3-month marketable Treasury securities determined for such period, increased by 0.1 percentage point for the period beginning on the day after the required payment date and ending on the date on which payment is made (as determined under subparagraph (D)(iv)). Interest amounts paid under this subparagraph shall not be counted against the administrative costs of a prescription drug plan or treated as allowable risk corridor costs under section 1395w–115(e) of this title.
+&emsp;&emsp;&emsp;Subject to clause (ii), if payment is not issued, mailed, or otherwise transmittedwithin the applicable number of calendar days (as defined in subparagraph (B)) after a clean claim is received, the PDP sponsor shall pay interest to the pharmacy that submitted the claim at a rate equal to the weighted average of interest on 3-month marketable Treasury securities determined for such period, increased by 0.1 percentage point for the period beginning on the day after the required payment date and ending on the date on which payment is made (as determined under subparagraph (D)(iv)). Interest amounts paid under this subparagraph shall not be counted against the administrative costs of a prescription drug plan or treated as allowable risk corridor costs under section 1395w–115(e) of this title.
 
 #### (ii) Authority not to charge interest
 
@@ -170,7 +170,7 @@ Each PDP sponsor of a prescription drug plan shall meet the following requiremen
 
 #### (6) Regular update of prescription drug pricing standard
 
-&emsp;If the PDP sponsor of a prescription drug plan uses a standard for reimbursement of pharmacies based on the cost of a drug, each contract entered into with such sponsor under this part with respect to the plan shall provide that the sponsor shall update such standard not less frequently than once every 7 days, beginning with an initial update on January 1 of each year, to accurately reflect the market price of acquiring the drug.
+&emsp;If the PDP sponsor of a prescription drug plan uses a standard for reimbursement of pharmacies based on the cost of a drug, each contract entered into with such sponsor under this part with respect to the plan shall providethat the sponsor shall update such standard not less frequently than once every 7 days, beginning with an initial update on January 1 of each year, to accurately reflect the market price of acquiring the drug.
 
 #### (c) Waiver of certain requirements to expand choice
 
@@ -243,12 +243,6 @@ The fact that a PDP sponsor is licensed in accordance with subsection (a)(1) of 
 The provisions of sections 1395w–24(g) and 1395w–26(b)(3) of this title shall apply with respect to PDP sponsors and prescription drug plans under this part in the same manner as such sections apply to MA organizations and MA plans under part C of this subchapter.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1860D–12, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2099; amended Pub. L. 110–275, title I, §§171(a), 172(a)(1), 173(a), 181, July 15, 2008, 122 Stat. 2578, 2580–2582.)
-
-#### References in Text
-
-Part D, referred to in subsec. (b)(3)(D), is classified to section 1395w–101 et seq. of this title.
-
-Part C of this subchapter, referred to in subsecs. (c)(1)(B) and (g), is classified to section 1395w–21 et seq. of this title.
 
 #### Amendments
 

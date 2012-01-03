@@ -16,7 +16,7 @@
 
 #### (2) Substantial noncompliance
 
-&emsp;The failure of a recipient to comply with the requirements of section 4152(b)(1) of this titleregarding the reporting of low-income dwelling units shall not, in itself, be considered to be substantial noncompliance for purposes of this subchapter.
+&emsp;The failure of a recipient to comply with the requirements of section 4152(b)(1) of this title regarding the reporting of low-income dwelling units shall not, in itself, be considered to be substantial noncompliance for purposes of this subchapter.
 
 #### (3) Continuance of actions
 
@@ -76,7 +76,7 @@
 
 #### (2) Civil action
 
-&emsp;Upon such a referral, the Attorney General may bring a civil action in any United States district court having venue thereof for such relief as may be appropriate, including an action to recover the amount of the assistance furnished under this chapter that was not expended in accordance with it, or for mandatory or injunctive relief.
+&emsp;Upon such a referral, the Attorney General may bring a civil action in any United States district court having venue thereof for such relief as may be appropriate, including an action to recover the amount of the assistancefurnished under this chapter that was not expended in accordance with it, or for mandatory or injunctive relief.
 
 #### (d) Review
 
@@ -96,7 +96,7 @@
 
 #### (A) Court proceedings
 
-&emsp;&emsp;The court shall have jurisdiction to affirm or modify the action of the Secretary or toset it aside in whole or in part. The findings of fact by the Secretary, if supported by substantial evidence on the record considered as a whole, shall be conclusive. The court may order additional evidence to be taken by the Secretary, and to be made part of the record.
+&emsp;&emsp;The court shall have jurisdiction to affirm or modify the action of the Secretary or to set it aside in whole or in part. The findings of fact by the Secretary, if supported by substantial evidence on the record considered as a whole, shall be conclusive. The court may order additional evidence to be taken by the Secretary, and to be made part of the record.
 
 #### (B) Secretary
 

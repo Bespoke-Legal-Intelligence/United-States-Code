@@ -66,7 +66,7 @@ In the case of property held by one person for life with remainder to another pe
 
 #### (B) Coordination with subsection (d)
 
-&emsp;&emsp;If, but for this subsection, a depreciation or amortization deduction would be allowable to any person with respect to any term interest in property, the principles of subsection (d) shall apply to such person with respect to such term interest.
+&emsp;&emsp;If, but for this subsection, a depreciation or amortization deduction would be allowable to any person with respect to any terminterest in property, the principles of subsection (d) shall apply to such person with respect to such term interest.
 
 #### (5) Definitions
 
@@ -106,7 +106,7 @@ In the case of property held by one person for life with remainder to another pe
 
 #### (3) Mortgage servicing rights
 
-&emsp;If a depreciation deduction is allowable under subsection (a) with respect to any rightdescribed in section 197(e)(6), such deduction shall be computed by using the straight line method and a useful life of 108 months.
+&emsp;If a depreciation deduction is allowable under subsection (a) with respect to any right described in section 197(e)(6), such deduction shall be computed by using the straight line method and a useful life of 108 months.
 
 #### (g) Depreciation under income forecast method
 
@@ -218,7 +218,7 @@ In the case of property held by one person for life with remainder to another pe
 
 #### (i) Participations and residuals
 
-&emsp;&emsp;&emsp;Notwithstanding subparagraph (A), the taxpayer may exclude participations and residuals from the adjusted basis of such property and deduct such participations and residuals in the taxable year that such participations and residuals are paid.
+&emsp;&emsp;&emsp;Notwithstanding subparagraph (A), the taxpayer may exclude participations andresiduals from the adjusted basis of such property and deduct such participations and residuals in the taxable year that such participations and residuals are paid.
 
 #### (ii) Coordination with other rules
 
@@ -308,7 +308,7 @@ In the case of property held by one person for life with remainder to another pe
 
 &emsp;&emsp;&emsp;&emsp;(II) without regard to whether subsection (c) of section 613A does not apply by reason of paragraph (2) of section 613A(d).
 
-> &emsp;&emsp;For purposes of clauses (i) and (ii), all persons treated as a single employer under subsections (a) and (b) of section 52 shall be treated as 1 person and, in case of a short taxable year, the rule under section 448(c)(3)(B) shall apply.
+> &emsp;&emsp;For purposes of clauses (i) and (ii), all persons treated as a single employer under subsections (a) and (b) of section 52 shall betreated as 1 person and, in case of a short taxable year, the rule under section 448(c)(3)(B) shall apply.
 
 #### (i) Cross references
 
@@ -372,7 +372,7 @@ Subsec. (c). Pub. L. 101–508, §11812(a)(1), redesignated subsec. (g) as (c) a
 
 > Paragraphs (2), (3), and (4) of subsection (b) shall not apply to any motion picture film, video tape, or sound recording.”
 
-Subsec. (d). Pub. L. 101–508, §11812(a)(1), redesignated subsec. (h) as (d) and struck out former subsec. (d) “Agreement as to useful life on which depreciation rate is based” which read as follows: “Where, under regulations prescribed by the Secretary, the taxpayer and the Secretary have, after August 16, 1954, entered into an agreement in writing specifically dealing with the useful life and rate of depreciation of any property, the rate so agreed upon shall be binding on both the taxpayer and the Secretary in the absence of facts or circumstances not taken into consideration in the adoption of such agreement. The responsibility of establishing the existence of such facts and circumstances shall rest with the party initiating the modification. Any change in the agreed rate and useful life specified in the agreement shall not be effective for taxable years before the taxable year in which notice in writing by certified mail or registered mail is served by the party to the agreement initiating such change. This subsection shall not apply with respect to property to which section 168 applies.”
+Subsec. (d). Pub. L. 101–508, §11812(a)(1), redesignated subsec. (h) as (d) and struck out former subsec. (d) “Agreement as to useful life on which depreciation rate is based” which read as follows: “Where, under regulations prescribed by the Secretary, the taxpayer and the Secretary have, after August 16, 1954, entered into anagreement in writing specifically dealing with the useful life and rate of depreciation of any property, the rate so agreed upon shall be binding on both the taxpayer and the Secretary in the absence of facts or circumstances not taken into consideration in the adoption of such agreement. The responsibility of establishing the existence of such facts and circumstances shall rest with the party initiating the modification. Any change in the agreed rate and useful life specified in the agreement shall not be effective for taxable years before the taxable year in which notice in writing by certified mail or registered mail is served by the party to the agreement initiating such change. This subsection shall not apply with respect to property to which section 168 applies.”
 
 Subsec. (e). Pub. L. 101–508, §11812(a)(1), redesignated subsec. (r) as (e) and struck out former subsec. (e) which related to changes in method of depreciation from declining balance method and changes with respect to sections 1245 and 1250 property.
 
@@ -410,7 +410,7 @@ Subsecs. (r), (s). Pub. L. 101–508, §11812(a)(1), redesignated subsecs. (r) a
 
 Pub. L. 101–239, §7622(b)(1) \[(d)(1)\], repealed subsec. (r) which provided that trademark or trade name expenditures were not depreciable.
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–647, §1002(a)(24), struck out at end “In the case of recovery property (within the meaning of section 168), the deduction allowable undersection 168 shall be deemed to constitute the reasonable allowance provided by this section, except with respect to that portion of the basis of such property to which subsection (k) applies.”
+<b>1988</b>—Subsec. (a). Pub. L. 100–647, §1002(a)(24), struck out at end “In the case of recovery property (within the meaning of section 168), the deduction allowable under section 168 shall be deemed to constitute the reasonable allowance provided by this section, except with respect to that portion of the basis of such property to which subsection (k) applies.”
 
 Subsec. (d). Pub. L. 100–647, §1002(a)(31), substituted “property to which section 168 applies” for “recovery property defined in section 168”.
 
@@ -640,7 +640,7 @@ Section 301(e)(2) of Pub. L. 95–618 provided that: “The amendment made by pa
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1901(a)(27)(A) of Pub. L. 94–455 applicable with respect to taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
+Amendment by section 1901(a)(27)(A) of Pub. L. 94–455 applicable with respect to taxable years beginning afterDec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
 Amendment by section 202(c)(3) of Pub. L. 94–455 applicable for taxable years ending after Dec. 31, 1975, see section 202(d) of Pub. L. 94–455, set out as a note under section 1250 of this title.
 
@@ -674,7 +674,7 @@ Amendment by Pub. L. 89–800 applicable to taxable years ending after Oct. 9, 1
 
 #### Effective Date of 1962 Amendment
 
-Amendment by section 13(b) of Pub. L. 87–834 applicable to taxable years beginning after Dec. 31, 1962, andamendment by section 13(c)(1) of Pub. L. 87–834 applicable to taxable years beginning after Dec. 31, 1961, and ending after Oct. 16, 1962, see section 13(g) of Pub. L. 87–834, set out as an Effective Date note under section 1245 of this title.
+Amendment by section 13(b) of Pub. L. 87–834 applicable to taxable years beginning after Dec. 31, 1962, and amendment by section 13(c)(1) of Pub. L. 87–834 applicable to taxable years beginning after Dec. 31, 1961, and ending after Oct. 16, 1962, see section 13(g) of Pub. L. 87–834, set out as an Effective Date note under section 1245 of this title.
 
 #### Effective Date of 1958 Amendment
 

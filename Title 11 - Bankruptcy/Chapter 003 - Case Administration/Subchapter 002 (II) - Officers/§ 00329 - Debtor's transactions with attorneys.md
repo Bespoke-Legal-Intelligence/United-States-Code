@@ -16,7 +16,7 @@
 
 #### Historical and Revision Notes
 
-I74senate report no. 95–989
+#### senate report no. 95–989
 
 This section, derived in large part from current Bankruptcy Act section 60d \[section 96(d) of former title 11\], requires the debtor's attorney to file with the court a statement of the compensation paid or agreed to be paid to the attorney for services in contemplation of and in connection with the case, and the source of the compensation. Payments to a debtor's attorney provide serious potential for evasion of creditor protection provisions of the bankruptcy laws, and serious potential for overreaching by the debtor's attorney, and should be subject to careful scrutiny.
 
@@ -26,9 +26,9 @@ The Bankruptcy Commission recommended a provision similar to this that would hav
 
 #### Amendments
 
-1986—Subsec. (b)(1)(B). Pub. L. 99–554 inserted reference to chapter 12.
+<b>1986</b>—Subsec. (b)(1)(B). Pub. L. 99–554 inserted reference to chapter 12.
 
-1984—Subsec. (a). Pub. L. 98–353, §432(a), substituted “or” for “and” after “in contemplation of”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–353, §432(a), substituted “or” for “and” after “in contemplation of”.
 
 Subsec. (b)(1). Pub. L. 98–353, §432(b), substituted “estate” for “trustee”.
 

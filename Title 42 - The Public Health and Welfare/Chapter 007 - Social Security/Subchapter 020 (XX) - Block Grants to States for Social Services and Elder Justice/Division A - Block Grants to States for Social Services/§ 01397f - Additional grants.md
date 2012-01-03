@@ -40,7 +40,7 @@
 
 #### (B) Qualified enterprise communities
 
-&emsp;&emsp;With respect to each qualified enterprise community, the Secretary shall make 1grant under this section to each State in which the community lies, on the date of the designation of the community under part I of subchapter U of chapter 1 of the Internal Revenue Code of 1986.
+&emsp;&emsp;With respect to each qualified enterprise community, the Secretary shall make 1 grant under this section to each State in which the community lies, on the date of the designation of the community under part I of subchapter U of chapter 1 of the Internal Revenue Code of 1986.
 
 #### (4) Funding
 

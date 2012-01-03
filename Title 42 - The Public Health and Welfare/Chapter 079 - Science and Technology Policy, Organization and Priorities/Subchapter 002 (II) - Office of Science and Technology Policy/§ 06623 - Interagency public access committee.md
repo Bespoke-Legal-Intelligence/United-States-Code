@@ -14,7 +14,7 @@ The working group shall—
 
 &emsp;(3) coordinate the development or designation of standards for research data, the structure of full text and metadata, navigation tools, and other applications to maximize interoperability across Federal science agencies, across science and engineering disciplines, and between research data and scholarly publications, taking into account existing consensus standards, including international standards;
 
-&emsp;(4) coordinate Federal science agency programs and activities that support research andeducation on tools and systems required to ensure preservation and stewardship of all forms of digital research data, including scholarly publications;
+&emsp;(4) coordinate Federal science agency programs and activities that support research and education on tools and systems required to ensure preservation and stewardship of all forms of digital research data, including scholarly publications;
 
 &emsp;(5) work with international science and technology counterparts to maximize interoperability between United States based unclassified research databases and international databases and repositories;
 

@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(i) to achieve a critical national security capability or address a critical requirement; or
 
-&emsp;&emsp;(ii) to prevent a significant adverse effect on a project that is needed to achieve an essential capability, taking into considerationany alternative solutions for preventing such adverse effect.
+&emsp;&emsp;(ii) to prevent a significant adverse effect on a project that is needed to achieve an essential capability, taking into consideration any alternative solutions for preventing such adverse effect.
 
 (3) With respect to a fiscal year after fiscal year 2010, the amount referred to in paragraph (1) in the matter preceding subparagraph (A) shall be equal to the sum of—
 
@@ -176,7 +176,7 @@ Enterprise architecture.—
 
 &emsp;“(A)
 
-Schedule for development.—The Director shall develop the enterprise architecture required bysubsection (b) of such section 506D \[50 U.S.C. 415a–6(b)\] (as so added), including the initial Business Enterprise Architecture for business transformation, not later than 60 days after the enactment of this Act.
+Schedule for development.—The Director shall develop the enterprise architecture required by subsection (b) of such section 506D \[50 U.S.C. 415a–6(b)\] (as so added), including the initial Business Enterprise Architecture for business transformation, not later than 60 days after the enactment of this Act.
 
 &emsp;“(B)
 
@@ -184,7 +184,7 @@ Requirement for implementation plan.—In developing such an enterprise architec
 
 &emsp;&emsp;“(i) An acquisition strategy for new systems that are expected to be needed to complete such enterprise architecture, including specific time-phased milestones, performance metrics, and a statement of the financial and nonfinancial resource needs.
 
-&emsp;&emsp;“(ii) An identification of the intelligence community business systems in operation or planned as of the date that is 60 days after the enactment of this Act that will not be a part of such enterprise architecture, together with the schedule for the phased termination of the utilization of any such systems.
+&emsp;&emsp;“(ii) An identification of the intelligence community business systems in operation or planned as ofthe date that is 60 days after the enactment of this Act that will not be a part of such enterprise architecture, together with the schedule for the phased termination of the utilization of any such systems.
 
 &emsp;&emsp;“(iii) An identification of the intelligence community business systems in operation or planned as of such date, that will be a part of such enterprise architecture, together with a strategy for modifying such systems to ensure that such systems comply with such enterprise architecture.
 

@@ -10,11 +10,11 @@ For definition of “this chapter”, referred to in text, see note set out unde
 
 #### Amendments
 
-2002—Pub. L. 107–171 inserted “quarantine,” before “natural disaster”.
+<b>2002</b>—Pub. L. 107–171 inserted “quarantine,” before “natural disaster”.
 
-1996—Pub. L. 104–127 inserted “that are necessitated by a natural disaster, major disaster, or emergency and that are” after “livestock changes”.
+<b>1996</b>—Pub. L. 104–127 inserted “that are necessitated by a natural disaster, major disaster, or emergency and that are” after “livestock changes”.
 
-1980—Pub. L. 96–438 substituted provisions relating to the purposes and extent of loans made or insured under this subchapter for provisions limiting loans to amounts certified by the county committee.
+<b>1980</b>—Pub. L. 96–438 substituted provisions relating to the purposes and extent of loans made or insured under this subchapter for provisions limiting loans to amounts certified by the county committee.
 
 #### Effective Date of 1996 Amendment
 

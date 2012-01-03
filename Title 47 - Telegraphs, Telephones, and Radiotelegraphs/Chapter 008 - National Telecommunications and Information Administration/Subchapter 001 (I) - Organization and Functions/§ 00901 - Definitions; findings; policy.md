@@ -22,7 +22,7 @@ The Congress finds the following:
 
 &emsp;(2) Rapid technological advances being made in the telecommunications and information fields make it imperative that the United States maintain effective national and international policies and programs capable of taking advantage of continued advancements.
 
-&emsp;(3) Telecommunications and information policies and recommendations advancing the strategic interests and the international competitiveness of the United States are essential aspects of the Nation's involvement in international commerce.
+&emsp;(3) Telecommunications and information policies and recommendations advancing thestrategic interests and the international competitiveness of the United States are essential aspects of the Nation's involvement in international commerce.
 
 &emsp;(4) There is a critical need for competent and effective telecommunications and information research and analysis and national and international policy development, advice, and advocacy by the executive branch of the Federal Government.
 
@@ -60,7 +60,7 @@ Pub. L. 110–53, title XXIII, §2301, Aug. 3, 2007, 121 Stat. 543, as amended b
 
 #### Short Title of 2004 Amendment
 
-Pub. L. 108–494, title I, §101, Dec. 23, 2004, 118 Stat. 3986, provided that: “This title \[enacting section 942 ofthis title and provisions set out as notes under section 942 of this title\] may be cited as the ‘Ensuring Needed Help Arrives Near Callers Employing 911 Act of 2004’ or the ‘ENHANCE 911 Act of 2004’.”
+Pub. L. 108–494, title I, §101, Dec. 23, 2004, 118 Stat. 3986, provided that: “This title \[enacting section 942 of this title and provisions set out as notes under section 942 of this title\] may be cited as the ‘Ensuring Needed Help Arrives Near Callers Employing 911 Act of 2004’ or the ‘ENHANCE 911 Act of 2004’.”
 
 Pub. L. 108–494, title II, §201, Dec. 23, 2004, 118 Stat. 3991, provided that: “This title \[enacting section 928 of this title, amending sections 309, 614, and 923 of this title, and enacting provisions set out as notes under sections 921, 923, and 928 of this title\] may be cited as the ‘Commercial Spectrum Enhancement Act’.”
 
@@ -136,5 +136,7 @@ Term of the President's National Security Telecommunications Advisory Committee 
 
 Term of the President's National Security Telecommunications Advisory Committee extended until Sept. 30, 2009, by Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of the President's National Security Telecommunications Advisory Committee extended until Sept. 30, 2011, by Ex. Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of the President's National Security Telecommunications Advisory Committee extended until Sept. 30, 2011, by Ex. Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of the President's National Security Telecommunications Advisory Committee extended until Sept. 30, 2013, by Ex. Ord. No. 13585, Sept. 30, 2011, 76 F.R. 62281, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 

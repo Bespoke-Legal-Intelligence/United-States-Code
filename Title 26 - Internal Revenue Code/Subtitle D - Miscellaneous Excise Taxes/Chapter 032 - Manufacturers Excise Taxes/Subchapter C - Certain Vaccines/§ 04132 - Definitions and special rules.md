@@ -84,7 +84,7 @@ For purposes of this subchapter—
 
 #### (1) Certain uses treated as sales
 
-&emsp;Any manufacturer, producer, or importer of a vaccine which uses such vaccine before it issold shall be liable for the tax imposed by section 4131 in the same manner as if such vaccine were sold by such manufacturer, producer, or importer.
+&emsp;Any manufacturer, producer, or importer of a vaccine which uses such vaccine before it is sold shall be liable for the tax imposed by section 4131 in the same manner as if such vaccine were sold by such manufacturer, producer, or importer.
 
 #### (2) Treatment of vaccines shipped to United States possessions
 
@@ -196,7 +196,7 @@ Pub. L. 106–170, title V, §523(b)(3), Dec. 17, 1999, 113 Stat. 1928, provided
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–277, div. C, title XV, §1503(b), div. I, title III, §3002(b), Oct. 21, 1998, 112 Stat. 2681–741, 2681–905,which provided that amendment of this section by Pub. L. 105–277 was applicable to sales after Oct. 21, 1998, and that delivery date would be considered sale date in the case of sales on or before Oct. 21, 1998, was repealed by Pub. L. 106–170, title V, §523(b)(1), Dec. 17, 1999, 113 Stat. 1927.
+Pub. L. 105–277, div. C, title XV, §1503(b), div. I, title III, §3002(b), Oct. 21, 1998, 112 Stat. 2681–741, 2681–905, which provided that amendment of this section by Pub. L. 105–277 was applicable to sales after Oct. 21, 1998, and that delivery date would be considered sale date in the case of sales on or before Oct. 21, 1998, was repealed by Pub. L. 106–170, title V, §523(b)(1), Dec. 17, 1999, 113 Stat. 1927.
 
 #### Effective Date of 1997 Amendment
 

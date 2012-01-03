@@ -36,3 +36,15 @@ Subsecs. (b), (c). Pub. L. 99–198, §1252(c)(2), (3), struck out subsec. (b) w
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
+#### Delegation of Reporting and Other Authorities
+
+Memorandum of President of the United States, Feb. 14, 2011, 76 F.R. 9493, provided:
+
+Memorandum for the Secretary of Agriculture
+
+By the authority vested in me as President by the Constitution and the laws of the United States, including section 301 of title 3, United States Code, I hereby delegate to you the functions and authority conferred upon the President by section 7 of the Soil and Water Resources Conservation Act of 1977 (16 U.S.C. 2006), as amended by section 2804 of the Food, Conservation, and Energy Act of 2008, to make the specified reports to the Congress.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+

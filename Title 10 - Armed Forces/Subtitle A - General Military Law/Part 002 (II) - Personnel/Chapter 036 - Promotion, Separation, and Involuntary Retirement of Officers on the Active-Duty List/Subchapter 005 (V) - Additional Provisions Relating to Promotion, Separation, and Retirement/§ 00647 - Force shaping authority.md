@@ -2,7 +2,7 @@
 
 (a)
 
-Authority.—The Secretary concerned may, solely for the purpose of restructuring anarmed force under the jurisdiction of that Secretary—
+Authority.—The Secretary concerned may, solely for the purpose of restructuring an armed force under the jurisdiction of that Secretary—
 
 &emsp;(1) discharge an officer described in subsection (b); or
 

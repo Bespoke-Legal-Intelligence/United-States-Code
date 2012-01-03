@@ -16,9 +16,9 @@
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–349 substituted “the Secretary” for “he” before “shall” in introductory provisions.
+<b>1994</b>—Subsec. (a). Pub. L. 103–349 substituted “the Secretary” for “he” before “shall” in introductory provisions.
 
-1980—Subsec. (a)(1). Pub. L. 96–574, §5, substituted provisions respecting descriptions for provisions respecting specifications.
+<b>1980</b>—Subsec. (a)(1). Pub. L. 96–574, §5, substituted provisions respecting descriptions for provisions respecting specifications.
 
 Subsec. (b). Pub. L. 96–574, §§6, 7, struck out subsec. (b) which related to photolithography and lithography, redesignated subsec. (c) as (b) and substituted “plant breeding” for “the useful arts”.
 

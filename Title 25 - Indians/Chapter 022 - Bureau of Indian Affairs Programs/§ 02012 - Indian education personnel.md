@@ -38,7 +38,7 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 &emsp;In prescribing regulations to govern the qualifications of educators, the Secretary shall require that—
 
-&emsp;&emsp;(A) lists of qualified and interviewed applicants for education positions be maintained in each agency and area office of the Bureau from among individuals who have applied at the agency or area level for an education position or who have applied at the national level and have indicated in such application an interest in working in certain areas or agencies;
+&emsp;&emsp;(A) lists of qualified and interviewed applicants for education positions be maintained in each agency and area office of the Bureau from among individuals who have applied at the agency or area level for an education position or who have applied at the nationallevel and have indicated in such application an interest in working in certain areas or agencies;
 
 &emsp;&emsp;(B) a local school board shall have the authority to waive on a case-by-case basis, any formal education or degree qualifications established by regulation pursuant to subsection (b)(2) of this section, in order for a tribal member to be hired in an education position to teach courses on tribal culture and language and that subject to subsection (e)(2) of this section, a determination by a school board that such a person be hired shall be instituted by the supervisor of the school involved; and
 
@@ -50,7 +50,7 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 #### (2) Exception for certain temporary employment
 
-&emsp;The Secretary may authorize the temporary employment in an education position of an individual who has not met the certification standards established pursuant to regulations if the Secretary determines that failure to doso would result in that position remaining vacant.
+&emsp;The Secretary may authorize the temporary employment in an education position of an individual who has not met the certification standards established pursuant to regulations if the Secretary determines that failure to do so would result in that position remaining vacant.
 
 #### (d) Hiring of educators
 
@@ -124,7 +124,7 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The education line officer of an agency office of the Bureau may appeal to the Director of the Office any determination bythe local school board for the school that an individual be employed, or not be employed, as the supervisor of a school by filing a written statement describing the determination and the reasons the supervisor believes such determination should be overturned.
+&emsp;&emsp;&emsp;The education line officer of an agency office of the Bureau may appeal to the Director of the Office any determination by the local school board for the school that an individual be employed, or not be employed, as the supervisor of a school by filing a written statement describing the determination and the reasons the supervisor believes such determination should be overturned.
 
 #### (ii) Action by board
 
@@ -192,7 +192,7 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 #### (ii) Decision of agency education line officer
 
-&emsp;&emsp;&emsp;Upon hearing such an appeal, the agency education line officer may, for good cause, issue a decision overturning the determination of the local school board with respect to the employment of such individual.
+&emsp;&emsp;&emsp;Upon hearing such an appeal, the agency education line officer may, for good cause,issue a decision overturning the determination of the local school board with respect to the employment of such individual.
 
 #### (iii) Form of decision
 
@@ -212,7 +212,7 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding any provision of the Indian preference laws, such laws shall notapply in the case of any personnel action carried out under this section with respect to an applicant or employee not entitled to an Indian preference if each tribal organization concerned—
+&emsp;&emsp;Notwithstanding any provision of the Indian preference laws, such laws shall not apply in the case of any personnel action carried out under this section with respect to an applicant or employee not entitled to an Indian preference if each tribal organization concerned—
 
 &emsp;&emsp;&emsp;(i) grants a written waiver of the application of those laws with respect to the personnel action; and
 
@@ -278,7 +278,7 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 #### (iii) Decreases
 
-&emsp;&emsp;&emsp;In a case in which the establishment of rates under clause (i) causes a reduction in compensation at a school from the rate of compensation that was in effect for the first fiscal year following January 8, 2002, the new rates of compensation may be applied to the compensation of employees of the school who worked at the school as of January 8, 2002, by applying those rates at each contract renewal for the employees so that the reduction takes effect in three equal installments.
+&emsp;&emsp;&emsp;In a case in which the establishment of rates under clause (i) causes a reduction incompensation at a school from the rate of compensation that was in effect for the first fiscal year following January 8, 2002, the new rates of compensation may be applied to the compensation of employees of the school who worked at the school as of January 8, 2002, by applying those rates at each contract renewal for the employees so that the reduction takes effect in three equal installments.
 
 #### (iv) Increases
 
@@ -498,13 +498,13 @@ Another prior section 2012, Pub. L. 95–561, title XI, §1132, Nov. 1, 1978, 92
 
 #### Adjustments to Rates of Basic Compensation or Annual Salary Rates for Education Positions
 
-Pub. L. 104–208, div. A, title I, §101(d) \[title I\], Sept. 30, 1996, 110 Stat. 3009–181, 3009–193, provided in part: “That in fiscal year 1997 and thereafter, notwithstanding the provisions of \[former\] 25 U.S.C. 2012(h)(1)(A) and (B) \[see now 25 U.S.C. 2012(g)(1)(A), (B)\], upon the recommendation of either (i) a local school board and school supervisor for an education position in a Bureau of Indian Affairs operated school, or (ii) an Agency school board and education line officer for an Agency education position, the Secretary \[of the Interior\] shall establish adjustments to the rates of basic compensation or annual salary rates established under \[former\] 25 U.S.C. 2012(h)(1)(A) and (B) for education positions at the school or the Agency, at a level not less than that for comparable positions in the nearest public school district, and the adjustment shall be deemed to be a change to basic pay and shall not be subject to collective bargaining: <i>Provided further</i>, That any reduction to rates of basic compensation or annual salary rates below the rates established under \[former\] 25 U.S.C. 2012(h)(1)(A) and (B) shall apply only to educators appointed after June 30, 1997, and shall not affect the right of an individual employed on June 30, 1997, in an education position, to receive the compensation attached to such position under \[former\] 25 U.S.C. 2012(h)(1)(A) and (B) so long as the individual remains in the same position at the same school”.
+Pub. L. 104–208, div. A, title I, §101(d) \[title I\], Sept. 30, 1996, 110 Stat. 3009–181, 3009–193, provided in part: “That in fiscal year 1997 and thereafter, notwithstanding the provisions of \[former\] 25 U.S.C. 2012(h)(1)(A) and (B) \[see now 25 U.S.C. 2012(g)(1)(A), (B)\], upon the recommendation of either (i) a local school board and school supervisor for an education position in a Bureau of Indian Affairs operated school, or (ii) an Agencyschool board and education line officer for an Agency education position, the Secretary \[of the Interior\] shall establish adjustments to the rates of basic compensation or annual salary rates established under \[former\] 25 U.S.C. 2012(h)(1)(A) and (B) for education positions at the school or the Agency, at a level not less than that for comparable positions in the nearest public school district, and the adjustment shall be deemed to be a change to basic pay and shall not be subject to collective bargaining: <i>Provided further</i>, That any reduction to rates of basic compensation or annual salary rates below the rates established under \[former\] 25 U.S.C. 2012(h)(1)(A) and (B) shall apply only to educators appointed after June 30, 1997, and shall not affect the right of an individual employed on June 30, 1997, in an education position, to receive the compensation attached to such position under \[former\] 25 U.S.C. 2012(h)(1)(A) and (B) so long as the individual remains in the same position at the same school”.
 
 Similar provisions were contained in the following prior appropriation act:
 
 Pub. L. 104–134, title I, §101(c) \[title I\], Apr. 26, 1996, 110 Stat. 1321–156, 1321–171; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
 
-Pub. L. 105–83, title I, Nov. 14, 1997, 111 Stat. 1555, provided in part: “That beginning in fiscal year 1998 and thereafter and notwithstanding \[former\] 25 U.S.C. 2012(h)(1)(B) \[see now 25 U.S.C. 2012(g)(1)(B)\], when the rates of basic compensation for teachers and counselors at Bureau-operated schools are established at the ratesof basic compensation applicable to comparable positions in overseas schools under the Defense Department Overseas Teachers Pay and Personnel Practices Act \[20 U.S.C. 901 et seq.\], such rates shall become effective with the start of the next academic year following the issuance of the Department of Defense salary schedule and shall not be effected retroactively”.
+Pub. L. 105–83, title I, Nov. 14, 1997, 111 Stat. 1555, provided in part: “That beginning in fiscal year 1998 and thereafter and notwithstanding \[former\] 25 U.S.C. 2012(h)(1)(B) \[see now 25 U.S.C. 2012(g)(1)(B)\], when the rates of basic compensation for teachers and counselors at Bureau-operated schools are established at the rates of basic compensation applicable to comparable positions in overseas schools under the Defense Department Overseas Teachers Pay and Personnel Practices Act \[20 U.S.C. 901 et seq.\], such rates shall become effective with the start of the next academic year following the issuance of the Department of Defense salary schedule and shall not be effected retroactively”.
 
 Similar provisions were contained in the following prior appropriation act:
 

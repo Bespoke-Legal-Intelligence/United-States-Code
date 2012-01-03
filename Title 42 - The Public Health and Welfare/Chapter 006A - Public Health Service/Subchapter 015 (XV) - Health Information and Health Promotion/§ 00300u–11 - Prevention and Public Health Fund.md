@@ -22,7 +22,7 @@ There are hereby authorized to be appropriated, and appropriated, to the Fund, o
 
 #### (c) Use of Fund
 
-The Secretary shall transfer amounts in the Fund to accounts within the Department of Health and Human Services to increase funding, over the fiscal year 2008 level, for programs authorized by the Public Health Service Act \[42 U.S.C. 201 et seq.\], for prevention, wellness, and public health activities including prevention research, health screenings, and initiatives, such as the Community Transformation grant program, the Education and Outreach Campaign Regarding Preventive Benefits, and immunization programs.
+The Secretary shall transfer amounts in the Fund to accounts within the Department of Health and Human Services to increase funding, over the fiscal year 2008 level, for programs authorized by the Public Health Service Act \[42 U.S.C. 201 et seq.\], for prevention, wellness, andpublic health activities including prevention research, health screenings, and initiatives, such as the Community Transformation grant program, the Education and Outreach Campaign Regarding Preventive Benefits, and immunization programs.
 
 #### (d) Transfer authority
 
@@ -41,4 +41,8 @@ Section was enacted as part of the Patient Protection and Affordable Care Act, a
 #### Amendments
 
 <b>2010</b>—Subsec. (c). Pub. L. 111–148, §10401(b), substituted “research, health screenings, and initiatives” for “research and health screenings” and “Regarding Preventive” for “for Preventive”.
+
+#### Website
+
+Pub. L. 112–74, div. F, title II, §220(a), Dec. 23, 2011, 125 Stat. 1085, provided that: “The Secretary \[of Health and Human Services\] shall establish a publicly accessible website to provide information regarding the uses of funds made available under section 4002 of Public Law 111–148 \[this section\].”
 

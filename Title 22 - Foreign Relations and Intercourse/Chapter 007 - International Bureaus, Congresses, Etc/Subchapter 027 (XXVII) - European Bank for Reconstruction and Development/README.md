@@ -14,3 +14,4 @@
 - [&sect; 00290l&#8211;6 - Effectiveness of Agreement](%C2%A7%2000290l%E2%80%936%20-%20Effectiveness%20of%20Agreement.md)
 - [&sect; 00290l&#8211;7 - Exemption from securities laws for certain securities issued by Bank; reports required](%C2%A7%2000290l%E2%80%937%20-%20Exemption%20from%20securities%20laws%20for%20certain%20securities%20issued%20by%20Bank%3B%20reports%20required.md)
 - [&sect; 00290l&#8211;8 - Congressional consultations](%C2%A7%2000290l%E2%80%938%20-%20Congressional%20consultations.md)
+- [&sect; 00290l&#8211;9 - Capital increase](%C2%A7%2000290l%E2%80%939%20-%20Capital%20increase.md)

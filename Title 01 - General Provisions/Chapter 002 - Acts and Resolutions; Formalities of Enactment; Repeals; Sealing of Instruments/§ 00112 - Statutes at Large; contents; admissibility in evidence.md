@@ -6,11 +6,11 @@ The Archivist of the United States shall cause to be compiled, edited, indexed, 
 
 #### Amendments
 
-1984—Pub. L. 98–497 substituted “Archivist of the United States” for “Administrator of General Services” in three places.
+<b>1984</b>—Pub. L. 98–497 substituted “Archivist of the United States” for “Administrator of General Services” in three places.
 
-1951—Act Oct. 31, 1951, substituted “106b of this title” for “205 of the Revised Statutes” in first sentence.
+<b>1951</b>—Act Oct. 31, 1951, substituted “106b of this title” for “205 of the Revised Statutes” in first sentence.
 
-1950—Act Sept. 23, 1950, amended section generally to implement 1950 Reorg. Plan No. 20, §1, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1272, which transferred to the Administrator of General Services certain duties formerly performed by the Secretary of State.
+<b>1950</b>—Act Sept. 23, 1950, amended section generally to implement 1950 Reorg. Plan No. 20, §1, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1272, which transferred to the Administrator of General Services certain duties formerly performed by the Secretary of State.
 
 #### Effective Date of 1984 Amendment
 
@@ -22,11 +22,11 @@ Pub. L. 107–206, title III, §3002(h), Aug. 2, 2002, 116 Stat. 924, provided t
 
 #### Publication of Certain Laws of 106th Congress
 
-Pub. L. 106–554, §1(b), Dec. 21, 2000, 114 Stat. 2763, provided that: “In publishing this Act in slip form and in the United States Statutes at Large pursuant to section 112 of title 1, United States Code, the Archivist of the United States shall include after the date of approval at the end appendixes setting forth the texts of the bills referred to in subsection (a) of this section \[enacting into law H.R. 5656, H.R. 5657, H.R. 5658, H.R. 5660, H.R. 5661, H.R. 5662, and H.R. 5663 of the 106th Congress, as introduced on Dec. 14, 2000, and H.R. 5666 and H.R. 5667 of the 106th Congress, as introduced on Dec. 15, 2000, except that the text of H.R. 5666, as so enacted, shall not include section 123\] and the text of any other bill enacted into law by reference by reason of the enactment of this Act.”
+Pub. L. 106–554, §1(b), Dec. 21, 2000, 114 Stat. 2763, provided that: “In publishing this Act in slip form and inthe United States Statutes at Large pursuant to section 112 of title 1, United States Code, the Archivist of the United States shall include after the date of approval at the end appendixes setting forth the texts of the bills referred to in subsection (a) of this section \[enacting into law H.R. 5656, H.R. 5657, H.R. 5658, H.R. 5660, H.R. 5661, H.R. 5662, and H.R. 5663 of the 106th Congress, as introduced on Dec. 14, 2000, and H.R. 5666 and H.R. 5667 of the 106th Congress, as introduced on Dec. 15, 2000, except that the text of H.R. 5666, as so enacted, shall not include section 123\] and the text of any other bill enacted into law by reference by reason of the enactment of this Act.”
 
 Pub. L. 106–553, §1(b), Dec. 21, 2000, 114 Stat. 2762, provided that: “In publishing this Act in slip form and in the United States Statutes at Large pursuant to section 112 of title 1, United States Code, the Archivist of the United States shall include after the date of approval at the end appendixes setting forth the texts of the bills referred to in subsection (a) of this section \[enacting into law H.R. 5547 and H.R. 5548 of the 106th Congress, as introduced on Oct. 25, 2000\].”
 
-Pub. L. 106–429, §101(a) \[title V, §595(b)\], Nov. 6, 2000, 114 Stat. 1900, 1900A–60, provided that: “In publishingthe Act in slip form and in the United States Statutes at Large pursuant to section 112, of title 1, United States Code, the Archivist of the United States shall include after the date of approval at the end appendixes setting forth the texts of the bill referred to in subsection (a) of this section \[enacting into law S. 3140 of the 106th Congress, as introduced on Sept. 28, 2000\].”
+Pub. L. 106–429, §101(a) \[title V, §595(b)\], Nov. 6, 2000, 114 Stat. 1900, 1900A–60, provided that: “In publishing the Act in slip form and in the United States Statutes at Large pursuant to section 112, of title 1, United States Code, the Archivist of the United States shall include after the date of approval at the end appendixes setting forth the texts of the bill referred to in subsection (a) of this section \[enacting into law S. 3140 of the 106th Congress, as introduced on Sept. 28, 2000\].”
 
 Pub. L. 106–429, §101(b), Nov. 6, 2000, 114 Stat. 1900, provided that: “In publishing this Act in slip form and in the United States Statutes at Large pursuant to section 112 of title 1, United States Code, the Archivist of the United States shall include after the date of approval at the end an appendix setting forth the text of the bill referred to in subsection (a) of this section \[enacting into law H.R. 5526 of the 106th Congress, as introduced on Oct. 24, 2000\].”
 

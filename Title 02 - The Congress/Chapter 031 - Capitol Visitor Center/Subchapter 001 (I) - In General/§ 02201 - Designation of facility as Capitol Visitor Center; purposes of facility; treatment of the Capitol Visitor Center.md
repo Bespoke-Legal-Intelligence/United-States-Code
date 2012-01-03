@@ -74,7 +74,7 @@ The Capitol Visitor Center shall be used—
 
 #### (3) Exceptions to exhibition prohibition
 
-&emsp;Section 2134 of this title shall not apply to any historical object placed within an exhibit in the Exhibition Hall of the Capitol Visitor Center that—
+&emsp;Section 2134 of this title shall not apply to any historical object placed within an exhibitin the Exhibition Hall of the Capitol Visitor Center that—
 
 &emsp;&emsp;(A)(i) is directly related to the purpose of the Capitol Visitor Center under subsection (b)(2);
 
@@ -86,7 +86,7 @@ The Capitol Visitor Center shall be used—
 
 #### (4) Substitution of historical object
 
-&emsp;A loan agreement described under paragraph (3)(A)(ii) may provide for the removal of anhistorical object from exhibition for preservation purposes and the substitution of that object with another historical object having a comparable educational purpose.
+&emsp;A loan agreement described under paragraph (3)(A)(ii) may provide for the removal of an historical object from exhibition for preservation purposes and the substitution of that object with another historical object having a comparable educational purpose.
 
 (Pub. L. 110–437, title I, §101, Oct. 20, 2008, 122 Stat. 4984.)
 

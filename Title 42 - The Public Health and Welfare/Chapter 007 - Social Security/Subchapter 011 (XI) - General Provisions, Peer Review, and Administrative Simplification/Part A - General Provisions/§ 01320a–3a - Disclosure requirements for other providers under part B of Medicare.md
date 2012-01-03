@@ -24,7 +24,7 @@ A disclosing part B provider shall notify the Secretary of any changes or update
 
 &emsp;The Secretary shall transmit—
 
-&emsp;&emsp;(A) to the Commissioner of Social Security information concerning each social security account number (assigned under section 405(c)(2)(B) of this title), and
+&emsp;&emsp;(A) to the Commissioner of Social Security information concerning each social securityaccount number (assigned under section 405(c)(2)(B) of this title), and
 
 &emsp;&emsp;(B) to the Secretary of the Treasury information concerning each employer identification number (assigned pursuant to section 6109 of the Internal Revenue Code of 1986),
 
@@ -55,8 +55,6 @@ For purposes of this section—
 (Aug. 14, 1935, ch. 531, title XI, §1124A, as added Pub. L. 101–508, title IV, §4164(b)(1), Nov. 5, 1990, 104 Stat. 1388–101; amended Pub. L. 103–432, title I, §147(f)(7)(A)(i), Oct. 31, 1994, 108 Stat. 4432; Pub. L. 105–33, title IV, §4313(b), (c), Aug. 5, 1997, 111 Stat. 388.)
 
 #### References in Text
-
-Part B of subchapter XVIII of this chapter, referred to in subsecs. (a) and (d)(1), is classified to section 1395j et seq. of this title.
 
 The Internal Revenue Code of 1986, referred to in subsecs. (a)(3) and (c)(1)(B), is classified generally to Title 26, Internal Revenue Code.
 

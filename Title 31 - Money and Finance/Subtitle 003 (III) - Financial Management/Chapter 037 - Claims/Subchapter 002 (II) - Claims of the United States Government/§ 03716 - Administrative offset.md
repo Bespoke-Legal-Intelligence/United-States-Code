@@ -24,7 +24,7 @@
 
 (2) Neither the disbursing official nor the payment certifying agency shall be liable—
 
-&emsp;(A) for the amount of the administrative offset on the basis that the underlying obligation, represented by the payment before the administrative offset was taken, was not satisfied; or
+&emsp;(A) for the amount of the administrative offset on the basis that the underlying obligation, represented by the payment before theadministrative offset was taken, was not satisfied; or
 
 &emsp;(B) for failure to provide timely notice under paragraph (8).
 
@@ -74,7 +74,7 @@
 
 (e)(1) Notwithstanding any other provision of law, regulation, or administrative limitation, no limitation on the period within which an offset may be initiated or taken pursuant to this section shall be effective.
 
-(2) This section does not apply when a statute explicitly prohibits using administrative offset or setoff to collect the claim or type of claim involved.
+(2) This section does not apply when a statute explicitly prohibits using administrative offsetor setoff to collect the claim or type of claim involved.
 
 (f) The Secretary may waive the requirements of sections 552a(<i>o</i>) and (p) of title 5 for administrative offset or claims collection upon written certification by the head of a State or an executive, judicial, or legislative agency seeking to collect the claim that the requirements of subsection (a) of this section have been met.
 
@@ -144,7 +144,7 @@ The Higher Education Act of 1965, referred to in subsec. (c)(1)(C), is Pub. L. 8
 
 The Social Security Act, referred to in subsec. (c)(3)(A)(i)(I), (C), (D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Titles II, VIII, XVI, and XVIII of the Act are classified generally to subchapters II (§401 et seq.), VIII (§1001 et seq.), XVI (§1381 et seq.), and XVIII (§1395 et seq.), respectively, of chapter 7 of Title 42. Sections 205(b)(1), 809(a)(1), and 1631(c)(1) of the Act are classified to sections 405(b)(1), 1009(a)(1), and 1383(c)(1), respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Black Lung Benefits Act, referred to in subsec. (c)(3)(A)(i)(II), is title IV of Pub. L. 91–173, Dec. 30, 1969,83 Stat. 792, as amended. Part B of the Act is classified generally to part B (§921 et seq.) of subchapter IV of chapter 22 of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see section 901(b) of Title 30 and Tables.
+The Black Lung Benefits Act, referred to in subsec. (c)(3)(A)(i)(II), is title IV of Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 792, as amended. Part B of the Act is classified generally to part B (§921 et seq.) of subchapter IV of chapter 22 of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see section 901(b) of Title 30 and Tables.
 
 The enactment of this subparagraph, referred to in subsec. (c)(3)(D), refers to the date of enactment of Pub. L. 110–275, which was approved July 15, 2008.
 
@@ -172,7 +172,7 @@ Subsec. (e). Pub. L. 110–246, §14219(a), amended subsec. (e) generally. Prior
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–134, §31001(c)(1), substituted “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency” in introductory provisions.
 
-Subsec. (b). Pub. L. 104–134, §31001(d)(2)(A), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Before collecting a claim by administrative offset under subsection (a) of this section, the head of an executive or legislative agency must prescribe regulations on collecting by administrative offset based on—
+Subsec. (b). Pub. L. 104–134, §31001(d)(2)(A), amended subsec. (b) generally. Prior to amendment, subsec. (b)read as follows: “Before collecting a claim by administrative offset under subsection (a) of this section, the head of an executive or legislative agency must prescribe regulations on collecting by administrative offset based on—
 
 &emsp;“(1) the best interests of the United States Government;
 
@@ -232,7 +232,7 @@ Section 1. <i>Administrative Offsets</i>. (a)(1) The Secretary of the Treasury (
 
 (2) conduct administrative offsets to collect delinquent child support payments.
 
-(f) The Secretary shall, to the extent permitted by law, share with the Secretary of Health and Human Services any information contained in payment certification records of persons who are delinquent in child support obligations that would assist in the collection of such debts, whether or not an administrative offset is conducted.
+(f) The Secretary shall, to the extent permitted by law, share with the Secretary of Health and Human Services any information contained in payment certification records of persons who are delinquent in child support obligations that would assist in the collectionof such debts, whether or not an administrative offset is conducted.
 
 Sec. 2. <i>Denial of Federal Assistance</i>. (a) The Secretary shall, to the extent permitted by law, ensure that information concerning individuals whose payments are subject to administrative offset because of delinquent child support obligations is made available to the head of each executive department and agency that provides Federal financial assistance to individuals.
 

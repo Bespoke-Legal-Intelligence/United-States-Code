@@ -126,7 +126,7 @@ Not later than 180 days after March 30, 2009, the Secretary shall establish a pr
 
 #### (ii) Mandatory use of funds
 
-&emsp;&emsp;&emsp;A grant recipient that receives a third-phase grant shall use the funds to plan and carry out at least 1 watershed management project.
+&emsp;&emsp;&emsp;A grant recipient that receives a third-phase grant shall use the funds to plan andcarry out at least 1 watershed management project.
 
 #### (3) Authorizing use of funds for administrative and other costs
 

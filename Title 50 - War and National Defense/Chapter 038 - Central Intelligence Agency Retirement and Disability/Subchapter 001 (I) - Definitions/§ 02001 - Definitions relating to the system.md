@@ -52,7 +52,7 @@ When used in this chapter:
 
 &emsp;The term “employee” includes an officer of the Agency.
 
-(Pub. L. 88–643, title I, §101, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3197; amended Pub. L. 103–178, title II, §202(a)(1),Dec. 3, 1993, 107 Stat. 2025; Pub. L. 108–458, title I, §1071(c), Dec. 17, 2004, 118 Stat. 3691.)
+(Pub. L. 88–643, title I, §101, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3197; amended Pub. L. 103–178, title II, §202(a)(1), Dec. 3, 1993, 107 Stat. 2025; Pub. L. 108–458, title I, §1071(c), Dec. 17, 2004, 118 Stat. 3691.)
 
 #### Prior Provisions
 
@@ -72,7 +72,7 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 
 #### Effective Date of 1993 Amendment
 
-Section 202(b) of Pub. L. 103–178 provided that: “The amendments made by subsection (a) \[amending this section and sections 2011, 2021, 2031, 2032, 2034, 2035, 2051, 2052, 2054, 2071, 2094, 2095, 2131, and 2154 of this title\] shall take effect as of February 1, 1993.”
+Section 202(b) of Pub. L. 103–178 provided that: “The amendments made by subsection (a) \[amending thissection and sections 2011, 2021, 2031, 2032, 2034, 2035, 2051, 2052, 2054, 2071, 2094, 2095, 2131, and 2154 of this title\] shall take effect as of February 1, 1993.”
 
 #### Effective Date
 
@@ -120,7 +120,7 @@ Pub. L. 100–453, title III, §302(d)(3), Sept. 29, 1988, 102 Stat. 1907, provi
 
 Pub. L. 100–178, title IV, §402(c)–(e), Dec. 2, 1987, 101 Stat. 1014, provided that:
 
-“(c)(1) Except as provided in paragraph (2), the amendments made by this section \[amending section403n of this title and sections 221(<i>o</i>)(2), 232(b), and 304 of Pub. L. 88–643\] shall take effect on November 15, 1982, the effective date of the Central Intelligence Agency Spouses’ Retirement Equity Act of 1982.
+“(c)(1) Except as provided in paragraph (2), the amendments made by this section \[amending section 403n of this title and sections 221(<i>o</i>)(2), 232(b), and 304 of Pub. L. 88–643\] shall take effect on November 15, 1982, the effective date of the Central Intelligence Agency Spouses’ Retirement Equity Act of 1982.
 
 “(2) The amendment made by subsection (b)(2) \[amending section 304 of Pub. L. 88–643\] shall take effect on January 1, 1987, the effective date of the Federal Employees’ Retirement System Act of 1986.
 
@@ -136,7 +136,7 @@ Pub. L. 97–269, title VI, §613, Sept. 27, 1982, 96 Stat. 1154, provided that:
 
 “(b) The provisions of section 222(a) of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees \[Pub. L. 88–643\], as added by this title, regarding the rights of former spouses to an annuity shall apply in the case of any individual who after the effective date of this title \[Nov. 15, 1982\] becomes a former spouse of an individual who separates from service with the Agency after such date.
 
-“(c) Except to the extent provided in section 223 of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees \[Pub. L. 88–643\], the provisions of section 221(b) (as amended by this title) and the provisions of subsections (b) and (c) of section 222 of such Act, as added by this title, regarding the rights of former spouses to receive survivor annuities shall apply in the case of any individual who after the effective date of this title \[Nov. 15, 1982\] becomes a former spouse of a participant or former participant in the Central Intelligence Agency Retirement and Disability System.”
+“(c) Except to the extent provided in section 223 of the Central Intelligence Agency Retirement Act of 1964for Certain Employees \[Pub. L. 88–643\], the provisions of section 221(b) (as amended by this title) and the provisions of subsections (b) and (c) of section 222 of such Act, as added by this title, regarding the rights of former spouses to receive survivor annuities shall apply in the case of any individual who after the effective date of this title \[Nov. 15, 1982\] becomes a former spouse of a participant or former participant in the Central Intelligence Agency Retirement and Disability System.”
 
 Pub. L. 94–522, title II, §215, Oct. 17, 1976, 90 Stat. 2472, provided that:
 
@@ -200,7 +200,7 @@ References.—Any reference in any other Act, or in any Executive order, rule, o
 
 Pub. L. 100–453, title III, §302(e), Sept. 29, 1988, 102 Stat. 1907, provided that: “Any new spending authority (within the meaning of section 401(c) of the Congressional Budget Act of 1974 \[2 U.S.C. 651(c)\]) provided pursuant to the amendments made by this section \[enacting section 226 and amending sections 221, 224, and 225 of Pub. L. 88–643\] shall be effective for any fiscal year only to such extent or in such amounts as are provided in appropriations Acts.”
 
-For provision that any new spending authority (within the meaning of section 401(c) of the Congressional Budget Act of 1974) provided pursuant to the amendments made to sections 224 and 225 of Pub. L. 88–643 by section 307 of Pub. L. 102–88 be effective for any fiscal year only to such extent or in such amounts as are provided in advance in appropriation Acts, see section 307(c) of Pub. L. 102–88, set out as a Compliance With Budget Act note under section 403p of this title.
+For provision that any new spending authority (within the meaning of section 401(c) of the CongressionalBudget Act of 1974) provided pursuant to the amendments made to sections 224 and 225 of Pub. L. 88–643 by section 307 of Pub. L. 102–88 be effective for any fiscal year only to such extent or in such amounts as are provided in advance in appropriation Acts, see section 307(c) of Pub. L. 102–88, set out as a Compliance With Budget Act note under section 403p of this title.
 
 #### Central Intelligence Agency Retirement and Disability Fund; Annuity Increase Payment; Monthly Rate
 
@@ -250,7 +250,7 @@ Ex. Ord. No. 12443, Sept. 27, 1983, 48 F.R. 44751, conformed Central Intelligenc
 
 #### Executive Order No. 12485
 
-Ex. Ord. No. 12485, July 13, 1984, 49 F.R. 28827, conformed Central Intelligence Agency Retirement andDisability System and Civil Service Retirement and Disability System with regard to prior service credit.
+Ex. Ord. No. 12485, July 13, 1984, 49 F.R. 28827, conformed Central Intelligence Agency Retirement and Disability System and Civil Service Retirement and Disability System with regard to prior service credit.
 
 #### Executive Order No. 12684
 

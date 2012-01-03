@@ -30,7 +30,7 @@ Section was formerly classified to section 552 of this title.
 
 #### Amendments
 
-1995—Pub. L. 104–48, §9(b)(1), substituted “commerce:” for “commerce—” in introductory provisions.
+<b>1995</b>—Pub. L. 104–48, §9(b)(1), substituted “commerce:” for “commerce—” in introductory provisions.
 
 Pars. (1) to (3). Pub. L. 104–48, §9(b)(2), substituted period for semicolon at end.
 
@@ -40,29 +40,29 @@ Par. (5). Pub. L. 104–48, §§9(b)(2), 10, substituted “foreign commerce. Ho
 
 Par. (6). Pub. L. 104–48, §9(b)(2), substituted period for semicolon at end.
 
-1984—Par. (4). Pub. L. 98–273 inserted “or to fail to maintain the trust as required under section 499e(c) of this title;”.
+<b>1984</b>—Par. (4). Pub. L. 98–273 inserted “or to fail to maintain the trust as required under section 499e(c) of this title;”.
 
-1982—Par. (5). Pub. L. 97–352 substituted “<i>Provided</i>, That any commission merchant, dealer, or broker who has violated (A) any provision of this paragraph may, with the consent of the Secretary, admit the violation or violations; or (B) any provision of this paragraph relating to a misrepresentation by mark, stencil, or label shall be permitted by the Secretary to admit the violation or violations if such violation or violations are not repeated or flagrant; and pay, in the case of a violation under either clause (A) or (B) of this paragraph,” for “<i>Provided</i>, That any commission merchant, dealer, or broker who has violated this paragraph may, with the consent of the Secretary, admit the violation or violations and pay”.
+<b>1982</b>—Par. (5). Pub. L. 97–352 substituted “<i>Provided</i>, That any commission merchant, dealer, or broker who has violated (A) any provision of this paragraph may, with the consent of the Secretary, admit the violation or violations; or (B) any provision of this paragraph relating to a misrepresentation by mark, stencil, or label shall be permitted by the Secretary to admit the violation or violations if such violation or violations are not repeated or flagrant; and pay, in the case of a violation under either clause (A) or (B) of this paragraph,” for “<i>Provided</i>, That any commission merchant, dealer, or broker who has violated this paragraph may, with the consent of the Secretary, admit the violation or violations and pay”.
 
-1974—Par. (5). Pub. L. 93–369 inserted proviso for consent admission of violations, payment of monetary penalty not in excess of $2,000 in lieu of formal proceedings for suspension or revocation of license, and for deposit of the payments into the Treasury of the United States as miscellaneous receipts.
+<b>1974</b>—Par. (5). Pub. L. 93–369 inserted proviso for consent admission of violations, payment of monetary penalty not in excess of $2,000 in lieu of formal proceedings for suspension or revocation of license, and for deposit of the payments into the Treasury of the United States as miscellaneous receipts.
 
-1956—Par. (5). Act July 30, 1956, struck out “for a fraudulent purpose” after “broker”, and included misrepresentation of region of origin.
+<b>1956</b>—Par. (5). Act July 30, 1956, struck out “for a fraudulent purpose” after “broker”, and included misrepresentation of region of origin.
 
-1942—Par. (4). Act Apr. 6, 1942, inserted “and make full payment” and “or to fail, without reasonable cause, to perform any specification or duty, express or implied, arising out of any undertaking in connection with any such transaction”.
+<b>1942</b>—Par. (4). Act Apr. 6, 1942, inserted “and make full payment” and “or to fail, without reasonable cause, to perform any specification or duty, express or implied, arising out of any undertaking in connection with any such transaction”.
 
-1940—Par. (1). Act June 29, 1940, §3, among other changes, inserted “dealer” after “merchant”.
+<b>1940</b>—Par. (1). Act June 29, 1940, §3, among other changes, inserted “dealer” after “merchant”.
 
 Par. (5). Act June 29, 1940, inserted “quantity, size, pack, weight” after “quality”.
 
-1937—Par. (5). Act Aug. 20, 1937, §2, among other changes, inserted “mark, stencil, label, statement” after “act” and “the character, kind, grade, quality, condition, degree of maturity” after “or deed”.
+<b>1937</b>—Par. (5). Act Aug. 20, 1937, §2, among other changes, inserted “mark, stencil, label, statement” after “act” and “the character, kind, grade, quality, condition, degree of maturity” after “or deed”.
 
 Par. (6). Act Aug. 20, 1937, §3, inserted “or in compliance with any Federal or State law or regulation” after “inspector”.
 
 Par. (7). Act Aug. 20, 1937, §4, added par. (7).
 
-1936—Par. (4). Act June 17, 1936, struck out “or concerning the condition of the market for” after “involving”.
+<b>1936</b>—Par. (4). Act June 17, 1936, struck out “or concerning the condition of the market for” after “involving”.
 
-1934—Par. (2). Act Apr. 13, 1934, §2, inserted “or consigned” after “sold”.
+<b>1934</b>—Par. (2). Act Apr. 13, 1934, §2, inserted “or consigned” after “sold”.
 
 Par. (4). Act Apr. 13, 1934, §3, substituted “in connection with any transaction involving or concerning” for “concerning the condition, quality, quantity or disposition of” and inserted “or consigned” after “contracted to be bought or sold”.
 

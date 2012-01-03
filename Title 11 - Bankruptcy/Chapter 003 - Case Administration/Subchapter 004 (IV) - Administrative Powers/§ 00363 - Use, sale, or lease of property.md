@@ -44,7 +44,7 @@
 
 (e) Notwithstanding any other provision of this section, at any time, on request of an entity that has an interest in property used, sold, or leased, or proposed to be used, sold, or leased, by the trustee, the court, with or without a hearing, shall prohibit or condition such use, sale, or lease as is necessary to provide adequate protection of such interest. This subsection also applies to property that is subject to any unexpired lease of personal property (to the exclusion of such property being subject to an order to grant relief from the stay under section 362).
 
-(f) The trustee may sell property under subsection (b) or (c) of this section free and clear of any interest in such property of an entity other than the estate, only if—
+(f) The trustee may sell property under subsection (b) or (c) of this section free and clear ofany interest in such property of an entity other than the estate, only if—
 
 &emsp;(1) applicable nonbankruptcy law permits sale of such property free and clear of such interest;
 
@@ -92,9 +92,9 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
-Section 363(a) of the House amendment defines “cash collateral” as defined in the Senate amendment. The broader definition of “soft collateral” contained in H.R. 8200 as passed by the House is deleted to remove limitations that were placed on the use, lease, or sale of inventory, accounts, contract rights, general intangibles, and chattel paper by the trustee or debtor in possession.
+Section 363(a) of the House amendment defines “cash collateral” as defined in the Senate amendment. Thebroader definition of “soft collateral” contained in H.R. 8200 as passed by the House is deleted to remove limitations that were placed on the use, lease, or sale of inventory, accounts, contract rights, general intangibles, and chattel paper by the trustee or debtor in possession.
 
 Section 363(c)(2) of the House amendment is derived from the Senate amendment. Similarly, sections 363(c)(3) and (4) are derived from comparable provisions in the Senate amendment in lieu of the contrary procedure contained in section 363(c) as passed by the House. The policy of the House amendment will generally require the court to schedule a preliminary hearing in accordance with the needs of the debtor to authorize the trustee or debtor in possession to use, sell, or lease cash collateral. The trustee or debtor in possession may use, sell, or lease cash collateral in the ordinary course of business only “after notice and a hearing.”
 
@@ -142,19 +142,19 @@ The Truth in Lending Act, referred to in subsec. (<i>o</i>), is title I of Pub. 
 
 #### Amendments
 
-2010—Subsec. (d). Pub. L. 111–327, §2(a)(13)(A), struck out “only” before dash at end of introductory provisions.
+<b>2010</b>—Subsec. (d). Pub. L. 111–327, §2(a)(13)(A), struck out “only” before dash at end of introductory provisions.
 
 Subsec. (d)(1). Pub. L. 111–327, §2(a)(13)(B), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “in accordance with applicable nonbankruptcy law that governs the transfer of property by a corporation or trust that is not a moneyed, business, or commercial corporation or trust; and”.
 
 Subsec. (d)(2). Pub. L. 111–327, §2(a)(13)(C), inserted “only” before “to the extent”.
 
-2005—Subsec. (b)(1). Pub. L. 109–8, §231(a), substituted “, except that if the debtor in connection with offering a product or a service discloses to an individual a policy prohibiting the transfer of personally identifiable information about individuals to persons that are not affiliated with the debtor and if such policy is in effect on the date of the commencement of the case, then the trustee may not sell or lease personally identifiable information to any person unless—” and subpars. (A) and (B) for period at end.
+<b>2005</b>—Subsec. (b)(1). Pub. L. 109–8, §231(a), substituted “, except that if the debtor in connection with offering a product or a service discloses to an individual a policy prohibiting the transfer of personally identifiable information about individuals to persons that are not affiliated with the debtor and if such policy is in effect on the date of the commencement of the case, then the trustee may not sell or lease personally identifiable information to any person unless—” and subpars. (A) and (B) for period at end.
 
 Subsec. (d). Pub. L. 109–8, §1221(a), substituted “only—” and pars. (1) and (2) for “only to the extent not inconsistent with any relief granted under section 362(c), 362(d), 362(e), or 362(f) of this title.”
 
 Subsecs. (<i>o</i>), (p). Pub. L. 109–8, §204, added subsec. (<i>o</i>) and redesignated former subsec. (<i>o</i>) as (p).
 
-1994—Subsec. (a). Pub. L. 103–394, §214(b), inserted “and the fees, charges, accounts or other payments for the use or occupancy of rooms and other public facilities in hotels, motels, or other lodging properties” after “property”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–394, §214(b), inserted “and the fees, charges, accounts or other payments for the use or occupancy of rooms and other public facilities in hotels, motels, or other lodging properties” after “property”.
 
 Subsec. (b)(2). Pub. L. 103–394, §§109, 501(d)(8)(A), struck out “(15 U.S.C. 18a)” after “Clayton Act” and amended subpars. (A) and (B) generally. Prior to amendment, subpars. (A) and (B) read as follows:
 
@@ -166,11 +166,11 @@ Subsec. (c)(1). Pub. L. 103–394, §501(d)(8)(B), substituted “1203, 1204, or
 
 Subsec. (e). Pub. L. 103–394, §219(c), inserted at end “This subsection also applies to property that is subject to any unexpired lease of personal property (to the exclusion of such property being subject to an order to grant relief from the stay under section 362).”
 
-1986—Subsec. (c)(1). Pub. L. 99–554, §257(k)(1), inserted reference to sections 1203 and 1204 of this title.
+<b>1986</b>—Subsec. (c)(1). Pub. L. 99–554, §257(k)(1), inserted reference to sections 1203 and 1204 of this title.
 
 Subsec. (<i>l</i>). Pub. L. 99–554, §257(k)(2), inserted reference to chapter 12.
 
-1984—Subsec. (a). Pub. L. 98–353, §442(a), inserted “whenever acquired” after “equivalents” and “and includes the proceeds, products, offspring, rents, or profits of property subject to a security interest as provided in section 552(b) of this title, whether existing before or after the commencement of a case under this title” after “interest”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–353, §442(a), inserted “whenever acquired” after “equivalents” and “and includes the proceeds, products, offspring, rents, or profits of property subject to a security interest as provided in section 552(b) of this title, whether existing before or after the commencement of a case under this title” after “interest”.
 
 Subsec. (b). Pub. L. 98–353, §442(b), designated existing provisions as par. (1) and added par. (2).
 
@@ -206,7 +206,7 @@ Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, but not app
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
+Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
 #### Construction of Section 1221 of Pub. L. 109–8
 

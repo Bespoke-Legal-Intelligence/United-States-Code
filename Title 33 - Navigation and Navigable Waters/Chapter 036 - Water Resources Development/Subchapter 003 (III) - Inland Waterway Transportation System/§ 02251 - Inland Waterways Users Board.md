@@ -20,5 +20,5 @@ The Federal Advisory Committee Act, referred to in subsec. (c), is Pub. L. 92–
 
 #### Amendments
 
-<b>1999</b>—Subsec. (b). Pub. L. 106–109, in last sentence, substituted “Notwithstanding section 3003 of PublicLaw 104–66 (31 U.S.C. 1113 note; 109 Stat. 734), the” for “The”.
+<b>1999</b>—Subsec. (b). Pub. L. 106–109, in last sentence, substituted “Notwithstanding section 3003 of Public Law 104–66 (31 U.S.C. 1113 note; 109 Stat. 734), the” for “The”.
 

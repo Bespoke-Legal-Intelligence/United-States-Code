@@ -32,7 +32,7 @@
 
 #### (5) Applicability
 
-&emsp;The provisions of this subsection shall extend to and apply in respect of distilled spirits lost after the tax was determined and beforecompletion of the physical removal of the distilled spirits from the bonded premises.
+&emsp;The provisions of this subsection shall extend to and apply in respect of distilled spirits lost after the tax was determined and before completion of the physical removal of the distilled spirits from the bonded premises.
 
 #### (b) Voluntary destruction
 

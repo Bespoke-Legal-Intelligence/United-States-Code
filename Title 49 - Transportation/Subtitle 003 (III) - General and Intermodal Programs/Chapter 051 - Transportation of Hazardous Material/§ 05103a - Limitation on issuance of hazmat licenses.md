@@ -130,7 +130,7 @@ Commercial Motor Vehicle Operators Registered to Operate in Mexico or Canada.—
 
 &emsp;(1)
 
-In general.—Beginning on the date that is 6 months after the date of enactment of this subsection, a commercial motor vehicle operator registered to operate in Mexico or Canada shall not operate a commercial motor vehicle transporting a hazardous material in commerce in the United States until the operator has undergone a background records check similar to the background records check required for commercial motor vehicle operators licensed in the United States to transport hazardous materials in commerce.
+In general.—Beginning on the date that is 6 months after the date of enactment of this subsection, a commercial motor vehicle operator registered to operate in Mexico or Canadashall not operate a commercial motor vehicle transporting a hazardous material in commerce in the United States until the operator has undergone a background records check similar to the background records check required for commercial motor vehicle operators licensed in the United States to transport hazardous materials in commerce.
 
 &emsp;(2)
 

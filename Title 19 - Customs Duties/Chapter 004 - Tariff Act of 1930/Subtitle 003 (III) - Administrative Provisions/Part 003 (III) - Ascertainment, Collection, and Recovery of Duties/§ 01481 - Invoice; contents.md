@@ -8,7 +8,7 @@ All invoices of merchandise to be imported into the United States and any electr
 
 &emsp;(2) The time when, the place where, and the person by whom and the person to whom the merchandise is sold or agreed to be sold, or if to be imported otherwise than in pursuance of a purchase, the place from which shipped, the time when and the person to whom and the person by whom it is shipped;
 
-&emsp;(3) A detailed description of the merchandise, including the commercial name by which each item is known, the grade or quality, and the marks, numbers, or symbols under which sold by the seller or manufacturer in the country of exportation, together with the marks and numbers of the packages in which the merchandise is packed;
+&emsp;(3) A detailed description of the merchandise, including the commercial name by whicheach item is known, the grade or quality, and the marks, numbers, or symbols under which sold by the seller or manufacturer in the country of exportation, together with the marks and numbers of the packages in which the merchandise is packed;
 
 &emsp;(4) The quantities in the weights and measures of the country or place from which the merchandise is shipped, or in the weights and measures of the United States;
 
@@ -30,7 +30,7 @@ If the merchandise is shipped to a person in the United States by a person other
 
 #### (c) Importer provision of information
 
-Any information required to be set forth on an invoice may alternatively be provided by any ofthe parties qualifying as an “importer of record” under section 1484(a)(2)(B) of this title by such means, in such form or manner, and within such time as the Secretary shall by regulation prescribe.
+Any information required to be set forth on an invoice may alternatively be provided by any of the parties qualifying as an “importer of record” under section 1484(a)(2)(B) of this title by such means, in such form or manner, and within such time as the Secretary shall by regulation prescribe.
 
 #### (d) Exceptions by regulations
 

@@ -20,7 +20,7 @@ The date of enactment of this section, referred to in subsec. (a), is Oct. 26, 1
 
 #### Amendments
 
-<b>1987</b>—Subsec. (a). Pub. L. 100–191, §4, inserted at end: “The Clerk of the United States Court of Appeals for the District of Columbia Circuit shall serve as the clerk of such division of the court and shall provide such services as are needed by such division of the court.”
+<b>1987</b>—Subsec. (a). Pub. L. 100–191, §4, inserted at end: “The Clerk of the United States Court of Appeals for the District of Columbia Circuit shall serve as theclerk of such division of the court and shall provide such services as are needed by such division of the court.”
 
 Subsec. (f). Pub. L. 100–191, §5(a), substituted “involving an independent counsel” for “involving a independent counsel”.
 

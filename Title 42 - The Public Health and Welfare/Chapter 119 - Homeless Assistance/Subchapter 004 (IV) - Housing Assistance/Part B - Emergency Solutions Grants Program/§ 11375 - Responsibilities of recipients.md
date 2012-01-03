@@ -22,7 +22,7 @@ Each recipient shall certify to the Secretary that—
 
 &emsp;&emsp;(B) in the case of assistance involving rehabilitation (other than major rehabilitation or conversion), maintain any building for which assistance is used under this part as a shelter for homeless individuals and families for not less than a 3-year period; or
 
-&emsp;&emsp;(C) in the case of assistance involving solely activities described in paragraphs (2) and (3) of section 11374(a) <sup>1</sup> of this title, provide services or shelter to homeless individuals and families for the period during which such assistance is provided, without regard to a particular site or structure as long as the same general population is served;
+&emsp;&emsp;(C) in the case of assistance involving solely activities described in paragraphs (2) and (3) of section 11374(a) <sup>1</sup> of this title, provide services or shelter to homeless individuals and families for the period during which such assistance is provided, without regardto a particular site or structure as long as the same general population is served;
 
 &emsp;(2) any renovation carried out with assistance under this part shall be sufficient to ensure that the building involved is safe and sanitary;
 
@@ -46,7 +46,7 @@ The Secretary shall, by regulation, require each recipient that is not a State t
 
 #### (e) Termination of assistance
 
-If an individual or family who receives assistance under this part from a recipient violates program requirements, the recipient may terminate assistance in accordance with a formalprocess established by the recipient that recognizes the rights of individuals affected, which may include a hearing.
+If an individual or family who receives assistance under this part from a recipient violates program requirements, the recipient may terminate assistance in accordance with a formal process established by the recipient that recognizes the rights of individuals affected, which may include a hearing.
 
 #### (f) Participation in HMIS
 

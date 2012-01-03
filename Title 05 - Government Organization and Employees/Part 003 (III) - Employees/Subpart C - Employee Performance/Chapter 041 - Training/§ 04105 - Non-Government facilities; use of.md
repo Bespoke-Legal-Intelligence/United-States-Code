@@ -28,9 +28,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-2011—Pub. L. 111–350 substituted “section 6101(b) to (d) of title 41” for “section 5 of title 41”.
+<b>2011</b>—Pub. L. 111–350 substituted “section 6101(b) to (d) of title 41” for “section 5 of title 41”.
 
-1994—Pub. L. 103–226 struck out subsec. (a) designation and subsecs. (b) and (c), which read as follows:
+<b>1994</b>—Pub. L. 103–226 struck out subsec. (a) designation and subsecs. (b) and (c), which read as follows:
 
 “(b) An agency program for the training of employees by, in, and through non-Government facilities under this chapter shall—
 

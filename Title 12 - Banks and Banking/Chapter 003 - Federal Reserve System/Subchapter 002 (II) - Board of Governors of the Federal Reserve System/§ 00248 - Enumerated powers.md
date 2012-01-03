@@ -4,9 +4,9 @@ The Board of Governors of the Federal Reserve System shall be authorized and emp
 
 #### (a) Examination of accounts and affairs of banks; publication of weekly statements; reports of liabilities and assets of depository institutions; covered institutions
 
-(1) To examine at its discretion the accounts, books, and affairs of each Federal reserve bank and of each member bank and to require such statements and reports as it may deem necessary. The said board shall publish once each week a statement showing the condition of each Federal reserve bank and a consolidated statement for all Federal reserve banks. Such statements shall show in detail the assets and liabilities of the Federal reserve banks, single and combined, and shall furnish full information regarding the character of the money held as reserve and the amount, nature, and maturities of the paper and other investments owned or held by Federal reserve banks.
+(1) To examine at its discretion the accounts, books, and affairs of each Federal reserve bank and of each member bank and to require such statements and reports as it may deem necessary. The said board shall publish once each week a statement showing the condition of each Federal reserve bank and a consolidated statement for all Federal reserve banks. Such statements shall show in detail the assets and liabilities of the Federal reserve banks, single andcombined, and shall furnish full information regarding the character of the money held as reserve and the amount, nature, and maturities of the paper and other investments owned or held by Federal reserve banks.
 
-(2) To require any depository institution specified in this paragraph to make, at such intervals as the Board may prescribe, such reports of its liabilities and assets as the Board may determine to be necessary or desirable to enable the Board to discharge its responsibility to monitor and control monetary and credit aggregates. Such reports shall be made (A) directly to the Board in the case of member banks and in the case of other depository institutions whose reserve requirements under sections 461, 463, 464, 465, and 466 of this title exceed zero, and (B) for all other reports to the Board through the (i) Federal Deposit Insurance Corporation in the case of insured State nonmember banks, savings banks, and mutual savings banks, (ii) National Credit Union Administration Board in the case of insured credit unions, (iii) the Director of the Office of Thrift Supervision in the case of any savings association which is an insured depository institution (as defined in section 1813 of this title) or which is a member as defined in section 1422 of this title, and (iv) such State officer or agency as the Board may designate in the case of any other type of bank, savings and loan association, or credit union. The Board shall endeavor to avoid the imposition of unnecessaryburdens on reporting institutions and the duplication of other reporting requirements. Except as otherwise required by law, any data provided to any department, agency, or instrumentality of the United States pursuant to other reporting requirement shall be made available to the Board. The Board may classify depository institutions for the purposes of this paragraph and may impose different requirements on each such class.
+(2) To require any depository institution specified in this paragraph to make, at such intervals as the Board may prescribe, such reports of its liabilities and assets as the Board may determine to be necessary or desirable to enable the Board to discharge its responsibility to monitor and control monetary and credit aggregates. Such reports shall be made (A) directly to the Board in the case of member banks and in the case of other depository institutions whose reserve requirements under sections 461, 463, 464, 465, and 466 of this title exceed zero, and (B) for all other reports to the Board through the (i) Federal Deposit Insurance Corporation in the case of insured State savings associations that are insured depository institutions (as defined in section 1813 of this title), State nonmember banks, savings banks, and mutual savings banks, (ii) National Credit Union Administration Board in the case of insured credit unions, (iii) the Comptroller of the Currency in the case of any Federal savings association which is an insured depository institution (as defined in section 1813 of this title) or which is a member as defined in section 1422 of this title, and (iv) such State officer or agency as the Board may designate in the case of any other type of bank, savings association, or credit union. The Board shall endeavor to avoid the imposition of unnecessary burdens on reporting institutions and the duplication of other reporting requirements. Except as otherwise required by law, any data provided to any department, agency, or instrumentality of the United States pursuant to other reporting requirements shall be made available to the Board. The Board may classify depository institutions for the purposes of this paragraph and may impose different requirements on each such class.
 
 #### (b) Permitting or requiring rediscounting of paper at specified rate
 
@@ -46,11 +46,11 @@ To exercise general supervision over said Federal reserve banks.
 
 #### (k) Delegation of certain functions; power to delegate; review of delegated activities
 
-To delegate, by published order or rule and subject to subchapter II of chapter 5, and chapter 7, of title 5, any of its functions, other than those relating to rulemaking or pertaining principally to monetary and credit policies, to one or more administrative law judges, members or employees of the Board, or Federal Reserve banks. The assignment of responsibility for the performance of any function that the Board determines to delegate shall be a function of the Chairman. The Board shall, upon the vote of one member, review action taken at a delegated level within such time and in such manner as the Board shall by rule prescribe.
+To delegate, by published order or rule and subject to subchapter II of chapter 5, and chapter 7, of title 5, any of its functions, other than those relating to rulemaking or pertaining principally to monetary and credit policies, to one or more administrative law judges, members or employees of the Board, or Federal Reserve banks. The assignment of responsibility for the performance of any function that the Board determines to delegate shall be a function of the Chairman. The Board shall, upon the vote of one member, review action taken at a delegated level within such time and in such manner as the Board shall by rule prescribe. The Board of Governors may not delegate to a Federal reserve bank its functions for the establishment of policies for the supervision and regulation of depository institution holding companies and other financial firms supervised by the Board of Governors.
 
 #### (<i>l</i>) Employing attorneys, experts, assistants, and clerks; salaries and fees
 
-To employ such attorneys, experts, assistants, clerks, or other employees as may be deemed necessary to conduct the business of the board. All salaries and fees shall be fixed in advance by said board and shall be paid in the same manner as the salaries of the members of said board. All such attorneys, experts, assistants, clerks, and other employees shall be appointed without regard to the provisions of the Act of January sixteenth, eighteen hundred and eighty-three (volume twenty-two, United States Statutes at Large, page four hundred and three), and amendments thereto, or any rule or regulation made in pursuance thereof: <i>Provided</i>, That nothing herein shall prevent the President from placing said employees in the classified service.
+To employ such attorneys, experts, assistants, clerks, or other employees as may be deemednecessary to conduct the business of the board. All salaries and fees shall be fixed in advance by said board and shall be paid in the same manner as the salaries of the members of said board. All such attorneys, experts, assistants, clerks, and other employees shall be appointed without regard to the provisions of the Act of January sixteenth, eighteen hundred and eighty-three (volume twenty-two, United States Statutes at Large, page four hundred and three), and amendments thereto, or any rule or regulation made in pursuance thereof: <i>Provided</i>, That nothing herein shall prevent the President from placing said employees in the classified service.
 
 #### (m) \[Repealed\]
 
@@ -64,7 +64,7 @@ The Board may appoint the Federal Deposit Insurance Corporation as conservator o
 
 #### (p) Authority
 
-The Board may act in its own name and through its own attorneys in enforcing any provision of this title,<sup>1</sup> regulations promulgated hereunder, or any other law or regulation, or inany action, suit, or proceeding to which the Board is a party and which involves the Board's regulation or supervision of any bank, bank holding company (as defined in section 1841 of this title), or other entity, or the administration of its operations.
+The Board may act in its own name and through its own attorneys in enforcing any provision of this title,<sup>1</sup> regulations promulgated hereunder, or any other law or regulation, or in any action, suit, or proceeding to which the Board is a party and which involves the Board's regulation or supervision of any bank, bank holding company (as defined in section 1841 of this title), or other entity, or the administration of its operations.
 
 #### (q) Uniform protection authority for Federal reserve facilities
 
@@ -82,7 +82,7 @@ The Board may act in its own name and through its own attorneys in enforcing any
 
 (1) Any action that this chapter provides may be taken only upon the affirmative vote of 5 members of the Board may be taken upon the unanimous vote of all members then in office if there are fewer than 5 members in office at the time of the action.
 
-(2)(A) Any action that the Board is otherwise authorized to take under the second paragraph of section 343 of this title may be taken upon the unanimous vote of all available members then in office, if—
+(2)(A) Any action that the Board is otherwise authorized to take under section 343(3) of this title may be taken upon the unanimous vote of all available members then in office, if—
 
 &emsp;(i) at least 2 members are available and all available members participate in the action;
 
@@ -100,13 +100,101 @@ The Board may act in its own name and through its own attorneys in enforcing any
 
 (B) The available members of the Board shall document in writing the determinations required by subparagraph (A)(ii), and such written findings shall be included in the record of the action and in the official minutes of the Board, and copies of such record shall be provided as soon as practicable to the members of the Board who were not available to participate in the action and to the Chairman of the Committee on Banking, Housing, and Urban Affairs of the Senate and to the Chairman of the Committee on Financial Services of the House of Representatives.
 
-(Dec. 23, 1913, ch. 6, §11, 38 Stat. 261; Sept. 7, 1916, ch. 461, 39 Stat. 752; Sept. 26, 1918, ch. 177, §2, 40 Stat. 968; Mar. 3, 1919, ch. 101, §3, 40 Stat. 1315; Feb. 27, 1921, ch. 75, 41 Stat. 1146; June 26, 1930, ch. 612, 46 Stat. 814; Mar. 9, 1933, ch. 1, title I, §3, 48 Stat. 2; June 16, 1933, ch. 89, §7, 48 Stat. 167; Aug. 23, 1935, ch. 614, title II, §203(a), title III, §§321(a), 342, 49 Stat. 704, 713, 722; June 12, 1945, ch. 186, §1(c), 59 Stat. 237; Pub. L. 86–114, §3(b)(6), July 28, 1959, 73 Stat. 264; Pub. L. 86–251, §3(c), Sept. 9, 1959, 73 Stat. 488; Pub. L. 87–722, §3, Sept. 28, 1962, 76 Stat. 670; Pub. L. 89–427, §2, May 20, 1966, 80 Stat. 161; Pub. L. 89–765, Nov. 5, 1966, 80 Stat. 1314; Pub. L. 90–269, §1, Mar. 18, 1968, 82 Stat. 50; Pub. L. 95–251, §2(a)(3), Mar. 27, 1978, 92 Stat. 183; Pub. L. 96–221, title I, §102, Mar. 31, 1980, 94 Stat. 132; Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068; Pub. L. 97–457, §17(b), Jan. 12, 1983, 96 Stat. 2509; Pub. L. 101–73, title VII, §744(i)(1), Aug. 9, 1989, 103 Stat. 439; Pub. L. 102–242, title I, §§133(f), 142(c), Dec. 19, 1991, 105 Stat. 2273, 2281; Pub. L. 102–550, title XVI, §1603(d)(9), Oct. 28, 1992, 106 Stat. 4080; Pub. L. 103–325, title III, §§322(d), 331(d), title VI, §602(g)(2), Sept. 23, 1994, 108 Stat. 2227, 2232, 2293; Pub. L. 106–102, title VII, §735, Nov. 12, 1999, 113 Stat. 1479; Pub. L. 107–56, title III, §364, Oct. 26, 2001, 115 Stat. 333; Pub. L. 107–297, title III, §301, Nov. 26, 2002, 116 Stat. 2340.)
+#### (s) <sup>2</sup> Federal Reserve transparency and release of information
+
+#### (1) In general
+
+&emsp;In order to ensure the disclosure in a timely manner consistent with the purposes of this chapter of information concerning the borrowers and counterparties participating in emergency credit facilities, discount window lending programs, and open market operations authorized or conducted by the Board or a Federal reserve bank, the Board of Governors shall disclose, as provided in paragraph (2)—
+
+&emsp;&emsp;(A) the names and identifying details of each borrower, participant, or counterparty in any credit facility or covered transaction;
+
+&emsp;&emsp;(B) the amount borrowed by or transferred by or to a specific borrower, participant, or counterparty in any credit facility or covered transaction;
+
+&emsp;&emsp;(C) the interest rate or discount paid by each borrower, participant, or counterparty in any credit facility or covered transaction; and
+
+&emsp;&emsp;(D) information identifying the types and amounts of collateral pledged or assets transferred in connection with participation in any credit facility or covered transaction.
+
+#### (2) Mandatory release date
+
+&emsp;In the case of—
+
+&emsp;&emsp;(A) a credit facility, the Board shall disclose the information described in paragraph (1) on the date that is 1 year after the effective date of the termination by the Board of the authorization of the credit facility; and
+
+&emsp;&emsp;(B) a covered transaction, the Board shall disclose the information described in paragraph (1) on the last day of the eighth calendar quarter following the calendar quarter in which the covered transaction was conducted.
+
+#### (3) Earlier release date authorized
+
+&emsp;The Chairman of the Board may publicly release the information described in paragraph (1) before the relevant date specified in paragraph (2), if the Chairman determines that such disclosure would be in the public interest and would not harm the effectiveness of the relevant credit facility or the purpose or conduct of covered transactions.
+
+#### (4) Definitions
+
+&emsp;For purposes of this subsection, the following definitions shall apply:
+
+#### (A) Credit facility
+
+&emsp;&emsp;The term “credit facility” has the same meaning as in section 714(f)(1)(A) of title 31.
+
+#### (B) Covered transaction
+
+&emsp;&emsp;The term “covered transaction” means—
+
+&emsp;&emsp;&emsp;(i) any open market transaction with a nongovernmental third party conducted under section 353 of this title or section 354, 355, or 356 of this title, after July 21, 2010; and
+
+&emsp;&emsp;&emsp;(ii) any advance made under section 347b of this title after July 21, 2010.
+
+#### (5) Termination of credit facility by operation of law
+
+&emsp;A credit facility shall be deemed to have terminated as of the end of the 24-month period beginning on the date on which the credit facility ceases to make extensions of credit and loans, unless the credit facility is otherwise terminated by the Board before such date.
+
+#### (6) Consistent treatment of information
+
+&emsp;Except as provided in this subsection or section 343(3)(D) of this title, or in section 714(f)(3)(C) of title 31, the information described in paragraph (1) and information concerning the transactions described in section 714(f) of such title, shall be confidential, including for purposes of section 552(b)(3) of title 5, until the relevant mandatory release date described in paragraph (2), unless the Chairman of the Board determines that earlier disclosure of such information would be in the public interest and would not harm the effectiveness of the relevant credit facility or the purpose of conduct of the relevant transactions.
+
+#### (7) Protection of personal privacy
+
+&emsp;This subsection and section 343(3)(C) of this title, section 714(f)(3)(C) of title 31, and subsection (a) or (c) of section 1109 of the Dodd-Frank Wall Street Reform and Consumer Protection Act shall not be construed as requiring any disclosure of nonpublic personal information (as defined for purposes of section 6802 of title 15) concerning any individual who is referenced in collateral pledged or assets transferred in connection with a credit facility or covered transaction, unless the person is a borrower, participant, or counterparty under the credit facility or covered transaction.
+
+#### (8) Study of FOIA exemption impact
+
+#### (A) Study
+
+&emsp;&emsp;The Inspector General of the Board of Governors of the Federal Reserve System shall—
+
+&emsp;&emsp;&emsp;(i) conduct a study on the impact that the exemption from section 552(b)(3) of title 5 (known as the Freedom of Information Act) established under paragraph (6) has had on the ability of the public to access information about the administration by the Board of Governors of emergency credit facilities, discount window lending programs, and open market operations; and
+
+&emsp;&emsp;&emsp;(ii) make any recommendations on whether the exemption described in clause (i) should remain in effect.
+
+#### (B) Report
+
+&emsp;&emsp;Not later than 30 months after July 21, 2010, the Inspector General of the Board of Governors of the Federal Reserve System shall submit a report on the findings of the study required under subparagraph (A) to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives, and publish the report on the website of the Board.
+
+#### (9) Rule of construction
+
+&emsp;Nothing in this section is meant to affect any pending litigation or lawsuit filed undersection 552 of title 5 (popularly known as the Freedom of Information Act) on or before July 21, 2010.
+
+#### (s) <sup>2</sup> Assessments, fees, and other charges for certain companies
+
+#### (1) In general
+
+&emsp;The Board shall collect a total amount of assessments, fees, or other charges from the companies described in paragraph (2) that is equal to the total expenses the Board estimates are necessary or appropriate to carry out the supervisory and regulatory responsibilities of the Board with respect to such companies.
+
+#### (2) Companies
+
+&emsp;The companies described in this paragraph are—
+
+&emsp;&emsp;(A) all bank holding companies having total consolidated assets of $50,000,000,000 or more;
+
+&emsp;&emsp;(B) all savings and loan holding companies having total consolidated assets of $50,000,000,000 or more; and
+
+&emsp;&emsp;(C) all nonbank financial companies supervised by the Board under section 5323 of this title.
+
+(Dec. 23, 1913, ch. 6, §11, 38 Stat. 261; Sept. 7, 1916, ch. 461, 39 Stat. 752; Sept. 26, 1918, ch. 177, §2, 40 Stat. 968; Mar. 3, 1919, ch. 101, §3, 40 Stat. 1315; Feb. 27, 1921, ch. 75, 41 Stat. 1146; June 26, 1930, ch. 612, 46 Stat. 814; Mar. 9, 1933, ch. 1, title I, §3, 48 Stat. 2; June 16, 1933, ch. 89, §7, 48 Stat. 167; Aug. 23, 1935, ch. 614, title II, §203(a), title III, §§321(a), 342, 49 Stat. 704, 713, 722; June 12, 1945, ch. 186, §1(c), 59 Stat. 237; Pub. L. 86–114, §3(b)(6), July 28, 1959, 73 Stat. 264; Pub. L. 86–251, §3(c), Sept. 9, 1959, 73 Stat. 488; Pub. L. 87–722, §3, Sept. 28, 1962, 76 Stat. 670; Pub. L. 89–427, §2, May 20, 1966, 80 Stat. 161; Pub. L. 89–765, Nov. 5, 1966, 80 Stat. 1314; Pub. L. 90–269, §1, Mar. 18, 1968, 82 Stat. 50; Pub. L. 95–251, §2(a)(3), Mar. 27, 1978, 92 Stat. 183; Pub. L. 96–221, title I, §102, Mar. 31, 1980, 94 Stat. 132; Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068; Pub. L. 97–457, §17(b), Jan. 12, 1983, 96 Stat. 2509; Pub. L. 101–73, title VII, §744(i)(1), Aug. 9, 1989, 103 Stat. 439; Pub. L. 102–242, title I, §§133(f), 142(c), Dec. 19, 1991, 105 Stat. 2273, 2281; Pub. L. 102–550, title XVI, §1603(d)(9), Oct. 28, 1992, 106 Stat. 4080; Pub. L. 103–325, title III, §§322(d), 331(d), title VI, §602(g)(2), Sept. 23, 1994, 108 Stat. 2227, 2232, 2293; Pub. L. 106–102, title VII, §735, Nov. 12, 1999, 113 Stat. 1479; Pub. L. 107–56, title III, §364, Oct. 26, 2001, 115 Stat. 333; Pub. L. 107–297, title III, §301, Nov. 26, 2002, 116 Stat. 2340; Pub. L. 111–203, title III, §§318(c), 366(1), title XI, §§1103(b), 1108(c), July 21, 2010, 124 Stat. 1527, 1556, 2118, 2126.)
 
 #### References in Text
 
 Sections 461, 463, 464, 465, and 466 of this title, referred to in subsec. (a)(2), was in the original “section 19 of the Federal Reserve Act”. Provisions of section 19 relating to reserve requirements are classified to the cited sections. For complete classification of section 19 to the Code, see References in Text note set out under section 461 of this title.
 
-This chapter, referred to in subsecs. (c), (h), (i), (n), and (r)(1), was in the original “this Act”, meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, known as the Federal Reserve Act. For complete classification ofthis Act to the Code, see References in Text note set out under section 226 of this title and Tables.
+This chapter, referred to in subsecs. (c), (h), (i), (n), (r)(1), and (s)(1), was in the original “this Act”, meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, known as the Federal Reserve Act. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
 
 Reference in subsec. (e) to “section 20 of this Act” means section 20 of the Federal Reserve Act which is not classified to the Code. Since section 20 does not set forth any reserve requirements, section 19 of the Federal Reserve Act might have been intended. For provisions of section 19 relating to reserve requirements, see note above.
 
@@ -114,7 +202,9 @@ The Act of January sixteenth, eighteen hundred and eighty-three, referred to in 
 
 This title, referred to in subsec. (p), probably should read “this Act”, meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, known as the Federal Reserve Act, which does not contain titles. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
 
-The second paragraph of section 343 of this title, referred to in subsec. (r)(2)(A), was in the original “section 13(3)” meaning section 13(3) of the Federal Reserve Act, which was translated as if it referred to the third paragraph of section 13 of that Act to reflect the probable intent of Congress. Section 13 of the Federal Reserve Act does not contain a paragraph designated as “(3)”.
+Subsection (a) or (c) of section 1109 of the Dodd-Frank Wall Street Reform and Consumer Protection Act, referred to in subsec. (s)(7), is subsec. (a) or (c) of section 1109 of Pub. L. 111–203, title XI, 124 Stat. 2127, 2128, which is not classified to the Code.
+
+July 21, 2010, referred to in subsec. (s)(8)(B), was in the original “the date of enactment of this section”, which was translated as meaning the date of enactment of Pub. L. 111–203 which added subsec. (s), to reflect the probable intent of Congress.
 
 #### Codification
 
@@ -124,65 +214,85 @@ Section is comprised of section 11 of act Dec. 23, 1913. The fourteenth par. of 
 
 #### Amendments
 
-2002—Subsec. (r). Pub. L. 107–297 added subsec. (r).
+<b>2010</b>—Subsec. (a)(2). Pub. L. 111–203, §366(1)(A), which directed insertion of “State savings associations that are insured depository institutions (as defined in section 1813 of this title),” after “case of insured”, was executed by making the insertion after “case of insured” in subpar. (B)(i), to reflect the probable intent of Congress.
 
-2001—Subsec. (q). Pub. L. 107–56 added subsec. (q).
+Subsec. (a)(2)(B)(iii). Pub. L. 111–203, §366(1)(B), (C), substituted “Comptroller of the Currency” for “Director of the Office of Thrift Supervision” and inserted “Federal” before “savings association which”.
 
-1999—Subsec. (m). Pub. L. 106–102 substituted “\[Repealed\]” for text of subsec. (m) which related to percentage of capital and surplus represented by loans to be determined by the Federal Reserve Board.
+Subsec. (a)(2)(B)(iv). Pub. L. 111–203, §366(1)(D), substituted “savings association” for “savings and loan association”.
 
-1994—Subsec. (d). Pub. L. 103–325, §602(g)(2), substituted “Secretary of the Treasury” for “bureau under the charge of the Comptroller of the Currency” before “the issue and retirement” and for “Comptroller” before “to the Federal Reserve agents”.
+Subsec. (k). Pub. L. 111–203, §1108(c), inserted at end “The Board of Governors may not delegate to a Federal reserve bank its functions for the establishment of policies for the supervision and regulation of depository institution holding companies and other financial firms supervised by the Board of Governors.”
+
+Subsec. (s). Pub. L. 111–203, §1103(b), added subsec. (s) relating to Federal Reserve transparency and release of information.
+
+Pub. L. 111–203, §318(c), added subsec. (s) relating to assessments, fees, and other charges for certain companies.
+
+<b>2002</b>—Subsec. (r). Pub. L. 107–297 added subsec. (r).
+
+<b>2001</b>—Subsec. (q). Pub. L. 107–56 added subsec. (q).
+
+<b>1999</b>—Subsec. (m). Pub. L. 106–102 substituted “\[Repealed\]” for text of subsec. (m) which related to percentage of capital and surplus represented by loans to be determined by the Federal Reserve Board.
+
+<b>1994</b>—Subsec. (d). Pub. L. 103–325, §602(g)(2), substituted “Secretary of the Treasury” for “bureau under the charge of the Comptroller of the Currency” before “the issue and retirement” and for “Comptroller” before “to the Federal Reserve agents”.
 
 Subsec. (m). Pub. L. 103–325, §322(d), which directed substitution of “15 percent” for “10 percentum” wherever appearing, was executed by substituting “15 percent” for “10 per centum” in two places to reflect the probable intent of Congress.
 
 Subsec. (p). Pub. L. 103–325, §331(d), added subsec. (p).
 
-1992—Subsecs. (<i>o</i>), (p). Pub. L. 102–550 redesignated subsec. (p) as (<i>o</i>).
+<b>1992</b>—Subsecs. (<i>o</i>), (p). Pub. L. 102–550 redesignated subsec. (p) as (<i>o</i>).
 
-1991—Subsec. (n). Pub. L. 102–242, §142(c), which directed addition of subsec. (n) at end of section, was executed by adding subsec. (n) after subsec. (m). See Construction of 1991 Amendment note below.
+<b>1991</b>—Subsec. (n). Pub. L. 102–242, §142(c), which directed addition of subsec. (n) at end of section, was executed by adding subsec. (n) after subsec. (m). See Construction of 1991 Amendment note below.
 
 Subsec. (p). Pub. L. 102–242, §133(f), added subsec. (p).
 
-1989—Subsec. (a)(2)(iii). Pub. L. 101–73 substituted “the Director of the Office of Thrift Supervision in the case of any savings association which is an insured depository institution (as defined in section 1813 of this title)” for “Federal Home Loan Bank Board in the case of any institution insured by the Federal Savings and Loan Insurance Corporation”.
+<b>1989</b>—Subsec. (a)(2)(iii). Pub. L. 101–73 substituted “the Director of the Office of Thrift Supervision in the case of any savings association which is an insured depository institution (as defined in section 1813 of this title)” for “Federal Home Loan Bank Board in the case of any institution insured by the Federal Savings and Loan Insurance Corporation”.
 
-1983—Subsec. (m). Pub. L. 97–457 substituted “under section 84(c)(4) of this title” for “under paragraph (8) of section 84 of this title” after “in the case of national banks”.
+<b>1983</b>—Subsec. (m). Pub. L. 97–457 substituted “under section 84(c)(4) of this title” for “under paragraph (8) of section 84 of this title” after “in the case of national banks”.
 
-1982—Subsec. (n). Pub. L. 97–258 struck out subsec. (n) which provided that, whenever in the judgment of the Secretary of the Treasury such action was necessary to protect the currency system of the United States, the Secretary of the Treasury, in his discretion, could require any or all individuals, partnerships, associations, and corporations to pay and deliver to the Treasurer of the United States any or all gold coin, gold bullion, and gold certificates owned by such individuals, partnerships, associations, and corporations and that, upon receipt of such gold coin, gold bullion or gold certificates, the Secretary of the Treasury would pay therefor an equivalent amount of any other form of coin or currency coined or issued under the laws of the United States.
+<b>1982</b>—Subsec. (n). Pub. L. 97–258 struck out subsec. (n) which provided that, whenever in the judgment of the Secretary of the Treasury such action was necessary to protect the currency system of the United States, the Secretary of the Treasury, in his discretion, could require any or all individuals, partnerships, associations, and corporations to pay and deliver to the Treasurer of the United States any or all gold coin, gold bullion, and gold certificates owned by such individuals, partnerships, associations, and corporations and that, upon receipt of such gold coin, gold bullion or gold certificates, the Secretary of the Treasury would pay therefor an equivalent amount of any other form of coin or currency coined or issued under the laws of the United States.
 
-1980—Subsec. (a). Pub. L. 96–221 designated existing provisions as par. (1) and added par. (2).
+<b>1980</b>—Subsec. (a). Pub. L. 96–221 designated existing provisions as par. (1) and added par. (2).
 
-1978—Subsec. (k). Pub. L. 95–251 substituted “administrative law judges” for “hearing examiners”.
+<b>1978</b>—Subsec. (k). Pub. L. 95–251 substituted “administrative law judges” for “hearing examiners”.
 
-1968—Subsec. (c). Pub. L. 90–269 struck out requirements for establishment by the Board of Governors of the Federal Reserve System of a graduated tax on the deficiency in the gold reserve whenever the reserve held against Federal Reserve notes fell below 25 percent and for an automatic increase in the rates of interest or discount fixed by the Board in an amount equal to the graduated tax imposed.
+<b>1968</b>—Subsec. (c). Pub. L. 90–269 struck out requirements for establishment by the Board of Governors of the Federal Reserve System of a graduated tax on the deficiency in the gold reserve whenever the reserve held against Federal Reserve notes fell below 25 percent and for an automatic increase in the rates of interest or discount fixed by the Board in an amount equal to the graduated tax imposed.
 
-1966—Subsec. (d). Pub. L. 89–427 excepted the cancellation and destruction, and the accounting with respect to the cancellation and destruction, of notes unfit for circulation from the area of responsibility exercised by the Board of Governors of the Federal Reserve System through the Bureau of the Comptroller of the Currency over the issue and retirement of Federal Reserve notes.
+<b>1966</b>—Subsec. (d). Pub. L. 89–427 excepted the cancellation and destruction, and the accounting with respect to the cancellation and destruction, of notes unfit for circulation from the area of responsibility exercised by the Board of Governors of the Federal Reserve System through the Bureau of the Comptroller of the Currency over the issue and retirement of Federal Reserve notes.
 
 Subsec. (k). Pub. L. 89–765 added subsec. (k). A former subsec. (k) was repealed by Pub. L. 87–722, §3, Sept. 28, 1962, 76 Stat. 670.
 
-1962—Subsec. (k). Pub. L. 87–722 repealed subsec. (k) which related to the authority of the Board of Governors of the Federal Reserve System to permit national banks to act as trustees, etc., and is now covered by section 92a of this title.
+<b>1962</b>—Subsec. (k). Pub. L. 87–722 repealed subsec. (k) which related to the authority of the Board of Governors of the Federal Reserve System to permit national banks to act as trustees, etc., and is now covered by section 92a of this title.
 
-1959—Subsec. (e). Pub. L. 86–114 substituted “reserve cities” for “reserve and central reserve cities” in two places.
+<b>1959</b>—Subsec. (e). Pub. L. 86–114 substituted “reserve cities” for “reserve and central reserve cities” in two places.
 
 Subsec. (m). Pub. L. 86–251 struck out “in the form of notes” after “represented by obligations” in proviso.
 
-1945—Subsec. (c). Act June 12, 1945, substituted “25 per centum” for “40 per centum”, and “20 per centum” for “321/2 per centum” wherever appearing.
+<b>1945</b>—Subsec. (c). Act June 12, 1945, substituted “25 per centum” for “40 per centum”, and “20 per centum” for “32½ per centum” wherever appearing.
 
-1935—Subsec. (k). Act Aug. 23, 1935, §342, amended last sentence of third par.
+<b>1935</b>—Subsec. (k). Act Aug. 23, 1935, §342, amended last sentence of third par.
 
 Subsec. (m). Act Aug. 23, 1935, §321(a), inserted proviso at end of first sentence.
 
-1933—Subsec. (m). Act June 16, 1933, amended provisions generally.
+<b>1933</b>—Subsec. (m). Act June 16, 1933, amended provisions generally.
 
 Subsec. (n). Act Mar. 9, 1933, added subsec. (n).
 
-1930—Subsec. (k). Act June 26, 1930, added last par.
+<b>1930</b>—Subsec. (k). Act June 26, 1930, added last par.
 
 #### Change of Name
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
+#### Effective Date of 2010 Amendment
+
+Amendment by section 318(c) of Pub. L. 111–203 effective on the transfer date, see section 318(e) of Pub. L. 111–203, set out as an Effective Date note under section 16 of this title.
+
+Amendment by section 366(1) of Pub. L. 111–203 effective on the transfer date, see section 351 of Pub. L. 111–203, set out as a note under section 906 of Title 2, The Congress.
+
+Amendment by sections 1103(b) and 1108(c) of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of this title.
+
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–550 effective as if included in the Federal Deposit Insurance Corporation Improvement Act of 1991, Pub. L. 102–242, as of Dec. 19, 1991, except that where amendment is to any provision of lawadded or amended by Pub. L. 102–242 effective after Dec. 19, 1992, then amendment by Pub. L. 102–550 effective on effective date of amendment by Pub. L. 102–242, see section 1609 of Pub. L. 102–550, set out as a note under section 191 of this title.
+Amendment by Pub. L. 102–550 effective as if included in the Federal Deposit Insurance Corporation Improvement Act of 1991, Pub. L. 102–242, as of Dec. 19, 1991, except that where amendment is to any provision of law added or amended by Pub. L. 102–242 effective after Dec. 19, 1992, then amendment by Pub. L. 102–550 effective on effective date of amendment by Pub. L. 102–242, see section 1609 of Pub. L. 102–550, set out as a note under section 191 of this title.
 
 #### Effective Date of 1991 Amendment
 
@@ -198,7 +308,7 @@ Amendment by Pub. L. 86–114 effective three years after July 28, 1959, see sec
 
 #### Construction of 1991 Amendment
 
-Section 1603(e)(2) of Pub. L. 102–550 provided that: “The amendment made by section 142(c) of the Federal Deposit Insurance Corporation Improvement Act of 1991 \[Pub. L. 102–242\] (adding a paragraph at the end of section 11 of the Federal Reserve Act \[this section\]) shall be considered to have been executed before the amendment made by section 133(f) of the Federal Deposit Insurance Corporation Improvement Act of 1991 \[amending this section\].”
+Section 1603(e)(2) of Pub. L. 102–550 provided that: “The amendment made by section 142(c) of the Federal Deposit Insurance Corporation Improvement Act of 1991\[Pub. L. 102–242\] (adding a paragraph at the end of section 11 of the Federal Reserve Act \[this section\]) shall be considered to have been executed before the amendment made by section 133(f) of the Federal Deposit Insurance Corporation Improvement Act of 1991 \[amending this section\].”
 
 #### Executive Order No. 6359
 
@@ -209,4 +319,6 @@ Ex. Ord. No. 6359, Oct. 25, 1933, as amended by Ex. Ord. No. 11825, Dec. 31, 197
 Ex. Ord. No. 10547, July 27, 1954, 19 F.R. 4661, required statistical transcript cards submitted with, or prepared by the Internal Revenue Service from, corporation income tax returns for the taxable years ending after June 30, 1951, and before July 1, 1952, to be open to inspection by the Board of Governors of the Federal Reserve System as an aid in executing the powers conferred upon such Board by this section, such inspection to be in accordance and upon compliance with the rules and regulations prescribed by the Secretary of the Treasury in T.D. 6081, 19 F.R. 4666.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Two subsecs. (s) have been enacted.</i>
 

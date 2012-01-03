@@ -20,5 +20,5 @@ Section 1 of Pub. L. 96–95 provided that: “This Act \[enacting this chapter\
 
 #### Galisteo Basin Archaeological Sites Protection
 
-Pub. L. 108–208, Mar. 19, 2004, 118 Stat. 558, known as the “Galisteo Basin Archaeological Sites Protection Act”, provided for the preservation, protection, and interpretation of nationally significant archaeological resources in the Galisteo Basin of New Mexico by designating Galisteo Basin Archaeological Protection Sites and their acreage and provided for addition, deletion or modification of the sites, administration, cooperative agreements, acquisition of land and interests, withdrawal of lands from mining and other public land laws, and construction of the Act.
+Pub. L. 108–208, Mar. 19, 2004, 118 Stat. 558, known as the “Galisteo Basin Archaeological Sites ProtectionAct”, provided for the preservation, protection, and interpretation of nationally significant archaeological resources in the Galisteo Basin of New Mexico by designating Galisteo Basin Archaeological Protection Sites and their acreage and provided for addition, deletion or modification of the sites, administration, cooperative agreements, acquisition of land and interests, withdrawal of lands from mining and other public land laws, and construction of the Act.
 

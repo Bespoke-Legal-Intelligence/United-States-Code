@@ -32,7 +32,7 @@ Section was enacted as part of the Farm Security and Rural Investment Act of 200
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–246, §10301(1), substituted “$22,000,000 for fiscal year 2008” for “$5,000,000 for fiscal year 2002”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–246, §10301(1), substituted “$22,000,000 for fiscal year 2008” for “$5,000,000 for fiscal year 2002”.
 
 Subsec. (b)(2). Pub. L. 110–246, §10301(2), substituted “$750” for “$500”.
 

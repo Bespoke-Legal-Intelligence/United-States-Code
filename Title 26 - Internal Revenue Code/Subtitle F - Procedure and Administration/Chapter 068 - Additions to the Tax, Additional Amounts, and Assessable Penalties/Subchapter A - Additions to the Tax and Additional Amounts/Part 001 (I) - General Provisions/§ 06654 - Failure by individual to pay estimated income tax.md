@@ -221,7 +221,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) clause (i) shall not apply, and
 
-&emsp;&emsp;&emsp;&emsp;(II) for purposes of computing any annualized income installment for such taxable year, the taxpayer shall be treated as having received ratably during such taxable year items of income and credit described in clause (i) in an amount equal to the amount of such items shown on the return of the taxpayer for the preceding taxable year (the second preceding taxable year in thecase of the first and second required installments for such taxable year).
+&emsp;&emsp;&emsp;&emsp;(II) for purposes of computing any annualized income installment for such taxable year, the taxpayer shall be treated as having received ratably during such taxable year items of income and credit described in clause (i) in an amount equal to the amount of such items shown on the return of the taxpayer for the preceding taxable year (the second preceding taxable year in the case of the first and second required installments for such taxable year).
 
 #### (e) Exceptions
 
@@ -273,7 +273,7 @@ For purposes of this section, the term “tax” means—
 
 #### (1) In general
 
-&emsp;For purposes of applying this section, the amount of the credit allowed under section 31 for the taxable year shall be deemed a payment of estimated tax, and an equal part of such amount shall be deemed paid on each due date for such taxable year, unless the taxpayer establishes the dates on which all amounts were actually withheld, in which case the amounts so withheld shall be deemed payments of estimated tax on the dates on which such amounts were actually withheld.
+&emsp;For purposes of applying this section, the amount of the credit allowed under section 31 for the taxable year shall be deemed a payment of estimated tax, and an equal part of such amount shall be deemed paid on each due date for such taxable year, unless the taxpayerestablishes the dates on which all amounts were actually withheld, in which case the amounts so withheld shall be deemed payments of estimated tax on the dates on which such amounts were actually withheld.
 
 #### (2) Separate application
 
@@ -509,7 +509,7 @@ Subsec. (f). Pub. L. 98–369 amended subsec. (f) generally, substituting provis
 
 Subsec. (g). Pub. L. 98–369 amended subsec. (g) generally, substituting provisions relating to application of section in case of tax withheld on wages for provisions relating to tax computed after application of credits against tax. See subsec. (f) of this section.
 
-Subsec. (h). Pub. L. 98–369 amended subsec. (h) generally, substituting provisions relating to special rule forreturns filed on or before January 31 for provisions relating to exception for no tax liability for preceding taxable year. See subsec. (e)(2) of this section.
+Subsec. (h). Pub. L. 98–369 amended subsec. (h) generally, substituting provisions relating to special rule for returns filed on or before January 31 for provisions relating to exception for no tax liability for preceding taxable year. See subsec. (e)(2) of this section.
 
 Subsec. (i). Pub. L. 98–369 amended subsec. (i) generally, substituting provisions relating to special rules for farmers and fishermen for provisions relating to short taxable year. See subsec. (j)(2) of this section.
 
@@ -545,7 +545,7 @@ Subsecs. (g), (h). Pub. L. 97–34, §§601(a)(6)(A), 725(b), (c)(5), redesignat
 
 <b>1976</b>—Subsec. (g). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (h). Pub. L. 94–455, §1906(a)(35), struck out subsec. (h) which provided that this section shall apply to taxable years beginning after Dec. 31, 1954 and that section 294(d) of the Internal Revenue Code of 1939 shall continue in force with respect to taxable years beginning before Jan. 1, 1955.
+Subsec. (h). Pub. L. 94–455, §1906(a)(35), struck out subsec. (h) which provided that this section shall apply to taxable years beginning after Dec. 31, 1954 and thatsection 294(d) of the Internal Revenue Code of 1939 shall continue in force with respect to taxable years beginning before Jan. 1, 1955.
 
 <b>1975</b>—Subsec. (a). Pub. L. 93–625 substituted “an annual rate established under section 6621” for “the rate of 6 percent per annum”.
 
@@ -675,7 +675,7 @@ Amendment by Pub. L. 95–600 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1977 Amendment
 
-Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31, 1976, see section 106(a) ofPub. L. 95–30, set out as a note under section 1 of this title.
+Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31, 1976, see section 106(a) of Pub. L. 95–30, set out as a note under section 1 of this title.
 
 #### Effective Date of 1976 Amendment
 
@@ -717,7 +717,7 @@ Section 2 of Pub. L. 87–682 provided that: “The amendments made by the first
 
 Pub. L. 105–206, §1(c), July 22, 1998, 112 Stat. 685, provided that: “No addition to tax shall be made under section 6654 or 6655 of the Internal Revenue Code of 1986 with respect to any underpayment of an installment required to be paid on or before the 30th day after the date of the enactment of this Act \[July 22, 1998\] to the extent such underpayment was created or increased by any provision of this Act \[see Tables for classification\].”
 
-Section 1(d) of Pub. L. 105–34 provided that: “No addition to tax shall be made under section 6654 or 6655 of the Internal Revenue Code of 1986 for any period before January 1, 1998, for any payment the due date of which is before January 16, 1998, with respect to any underpayment attributable to such period to the extent such underpayment was created or increased by any provision of this Act \[see Tables for classification\].”
+Section 1(d) of Pub. L. 105–34 provided that: “No addition to tax shall be made under section 6654 or 6655 of the Internal Revenue Code of 1986 for any period beforeJanuary 1, 1998, for any payment the due date of which is before January 16, 1998, with respect to any underpayment attributable to such period to the extent such underpayment was created or increased by any provision of this Act \[see Tables for classification\].”
 
 #### Underpayments of Estimated Tax for 1996
 
@@ -745,7 +745,7 @@ Section 1543 of Pub. L. 99–514 provided that: “No addition to tax shall be m
 
 #### Waiver of Estimated Tax Penalties
 
-No addition to tax to be made under this section for any period before Apr. 16, 1985, with respect to anyunderpayment, to the extent that such underpayment was created or increased by any provision of Pub. L. 98–369, div. A, see section 1879(a) of Pub. L. 99–514, set out as a note under section 6655 of this title.
+No addition to tax to be made under this section for any period before Apr. 16, 1985, with respect to any underpayment, to the extent that such underpayment was created or increased by any provision of Pub. L. 98–369, div. A, see section 1879(a) of Pub. L. 99–514, set out as a note under section 6655 of this title.
 
 #### Increase in Section 31 Credit for Taxable Years Which Include any Portion of Period July 1, 1983, to December 31, 1983
 
@@ -765,5 +765,5 @@ With respect to taxable years beginning before Dec. 30, 1969, if a taxpayer is r
 
 #### Tax Surcharge Extension; Declarations of Estimated Tax
 
-Requirement of making a declaration or amended declaration or amended declaration of estimated tax or of payment of any amount or additional amount of estimated tax by reason of amendment of sections 51(a)(1)(A), (B), (2)(A) and 963(b) of this title as calling for payment of such amount or additional amount ratably on or before each of remaining installment dates for taxable year beginning with first installment date on or after the 30th day after Aug. 7, 1969; application of this section without regard to such amendment with respect to any declaration or payment of estimated tax before such first installment date; and definition of “installment date”, see Pub. L. 91–53, §5(c), Aug. 7, 1969, 83 Stat. 95.
+Requirement of making a declaration or amended declaration or amended declaration of estimated tax or of payment of any amount or additional amount of estimated tax by reason of amendment of sections 51(a)(1)(A), (B), (2)(A) and 963(b) of this title as calling for payment of such amount or additional amount ratably on or before each of remaining installment dates for taxable year beginning with first installment date on or after the 30th day after Aug. 7, 1969; applicationof this section without regard to such amendment with respect to any declaration or payment of estimated tax before such first installment date; and definition of “installment date”, see Pub. L. 91–53, §5(c), Aug. 7, 1969, 83 Stat. 95.
 

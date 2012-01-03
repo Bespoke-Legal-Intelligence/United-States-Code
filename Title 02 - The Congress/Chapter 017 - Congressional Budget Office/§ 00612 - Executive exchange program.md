@@ -50,7 +50,7 @@ Section was formerly set out as a note under section 611 of this title.
 
 #### Amendments
 
-2009—Subsec. (b)(1), (2). Pub. L. 111–68, §1201(1), substituted “5” for “3”.
+<b>2009</b>—Subsec. (b)(1), (2). Pub. L. 111–68, §1201(1), substituted “5” for “3”.
 
 Subsecs. (d), (e). Pub. L. 111–68, §1201(2), (3), redesignated subsec. (e) as (d), substituted “This” for “Subject to subsection (d), this”, and struck out former subsec. (d). Prior to amendment, text of subsec. (d) read as follows: “No assignment under this section shall commence after the end of the 2-year period beginning on December 26, 2007.”
 

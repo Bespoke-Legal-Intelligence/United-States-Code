@@ -34,7 +34,7 @@ The Secretary of Housing and Urban Development shall establish and carry out a r
 
 &emsp;&emsp;(I) rehabilitation and repairs such as insulation, window repair, door repair, roof repair, and repairs that are necessary to make premises habitable;
 
-&emsp;&emsp;(J) development of comprehensive and coordinated support services that use and supplement, as needed, community networks of services, including—
+&emsp;&emsp;(J) development of comprehensive and coordinated support services that use andsupplement, as needed, community networks of services, including—
 
 &emsp;&emsp;&emsp;(i) outreach services to reach eligible recipients;
 
@@ -170,7 +170,7 @@ The Secretary shall establish criteria for selecting recipients of grants under 
 
 #### (i) Technical assistance
 
-The Secretary shall provide technical assistance to eligible organizations in developing programs in accordance with this section, and in gaining access to other Federal resources that may be used to assist homeless persons in ruralareas. Such assistance may be provided through regional workshops, and may be provided directly or through grants to, or contracts with, nongovernmental entities.
+The Secretary shall provide technical assistance to eligible organizations in developing programs in accordance with this section, and in gaining access to other Federal resources that may be used to assist homeless persons in rural areas. Such assistance may be provided through regional workshops, and may be provided directly or through grants to, or contracts with, nongovernmental entities.
 
 #### (j) Termination of assistance
 

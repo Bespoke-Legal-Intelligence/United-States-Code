@@ -54,7 +54,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (c). Pub. L. 110–246, §7127, substituted “the State shall provide equal matching funds” for “for each of fiscal years 2003 through 2007, the State shall provide matching funds” and struck out at end “Such matching funds shall be for an amount equal to not less than—
+<b>2008</b>—Subsec. (c). Pub. L. 110–246, §7127, substituted “the State shall provide equal matching funds” for “for each of fiscal years 2003 through 2007, the State shall provide matching funds” and struck out at end “Such matching funds shall be for an amount equal to not less than—
 
 &emsp;“(1) 60 percent of the formula funds to be distributed to the eligible institution for fiscal year 2003;
 
@@ -66,7 +66,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 &emsp;“(5) 100 percent of the formula funds to be distributed to the eligible institution for fiscal year 2007 and each fiscal year thereafter.”
 
-2002—Subsec. (c). Pub. L. 107–171, §7212(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Notwithstanding any other provision of this subchapter, the distribution of formula funds to an eligible institution shall be subject to the following matching requirements:
+<b>2002</b>—Subsec. (c). Pub. L. 107–171, §7212(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Notwithstanding any other provision of this subchapter, the distribution of formula funds to an eligible institution shall be subject to the following matching requirements:
 
 &emsp;“(1) For fiscal year 2000, the State shall provide matching funds from non-Federal sources in an amount equal to not less than 30 percent of the formula funds to be distributed to the eligible institution.
 

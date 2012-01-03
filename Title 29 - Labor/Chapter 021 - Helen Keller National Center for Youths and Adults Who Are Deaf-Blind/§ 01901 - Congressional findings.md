@@ -36,5 +36,5 @@ Par. (5). Pub. L. 102–569, §901(2), substituted “made a substantial investm
 
 #### Short Title
 
-Section 201 of Pub. L. 98–221 provided that: “This title \[enacting this chapter, amending section 777 of thistitle, and repealing section 777c of this title\] may be cited as the ‘Helen Keller National Center Act’.”
+Section 201 of Pub. L. 98–221 provided that: “This title \[enacting this chapter, amending section 777 of this title, and repealing section 777c of this title\] may be cited as the ‘Helen Keller National Center Act’.”
 

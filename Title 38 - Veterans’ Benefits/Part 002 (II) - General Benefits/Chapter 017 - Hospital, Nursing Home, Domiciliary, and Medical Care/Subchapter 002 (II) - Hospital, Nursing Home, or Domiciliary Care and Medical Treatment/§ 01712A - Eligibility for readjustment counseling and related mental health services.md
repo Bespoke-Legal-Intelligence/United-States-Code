@@ -24,7 +24,7 @@
 
 (3) Upon request of a veteran described in paragraph (1)(B)(iii), the Secretary shall provide the veteran a preliminary general mental health assessment as soon as practicable after receiving the request, but not later than 30 days after receiving the request.
 
-(b)(1) If, on the basis of the assessment furnished under subsection (a) of this section, a physician or psychologist employed by the Department (or, in areas where no such physician or psychologist is available, a physician or psychologist carrying out such function under a contract or fee arrangement with the Secretary) determines that the provision of mental health services to such veteran is necessary to facilitate the successful readjustment of the veteran to civilian life, such veteran shall, within the limits of Department facilities, be furnished such services on an outpatient basis. For the purposes of furnishing such mental health services, the counseling furnished under subsection (a) of this section shall be considered to have been furnished by the Department as a part of hospital care. Any hospital care and other medical services considered necessary on the basis of the assessment furnished under subsection (a) of this section shall be furnished only in accordance with the eligibility criteria otherwise set forth in this chapter (including the eligibility criteria set forth in section 1784 of this title).
+(b)(1) If, on the basis of the assessment furnished under subsection (a) of this section, a physician or psychologist employed by the Department (or, in areas where no such physician or psychologist is available, a physician or psychologist carrying out such function under a contract or fee arrangement with the Secretary) determines that the provision of mental health services to such veteran is necessary to facilitate the successful readjustment of the veteran to civilian life, such veteran shall, within the limits of Department facilities, be furnished such services on an outpatient basis. For the purposes of furnishing such mental health services, the counseling furnished under subsection (a) of this section shall be considered to havebeen furnished by the Department as a part of hospital care. Any hospital care and other medical services considered necessary on the basis of the assessment furnished under subsection (a) of this section shall be furnished only in accordance with the eligibility criteria otherwise set forth in this chapter (including the eligibility criteria set forth in section 1784 of this title).
 
 (2) Mental health services furnished under paragraph (1) of this subsection may, if determined to be essential to the effective treatment and readjustment of the veteran, include such consultation, counseling, training, services, and expenses as are described in sections 1782 and 1783 of this title.
 
@@ -184,7 +184,7 @@ Subsec. (g)(1). Pub. L. 98–160, §101(b)(1), substituted “September 30, 1988
 
 Subsec. (g)(1)(A). Pub. L. 98–160, §101(b)(1), substituted “October 1, 1988” for “October 1, 1984”.
 
-Subsec. (g)(2). Pub. L. 98–160, §101(b)(2), amended par. (2) generally, designating existing provisions as subpar. (A), substituting “Not later than April 1, 1987, the Administrator shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the Administrator's evaluation of the effectiveness in helping to meet the readjustment needs of veterans who served on active duty during the Vietnam era of the readjustment counseling and mental health services provided pursuant to this section (and of outreach efforts with respect to such counseling and services). Such report shall give particular attention, inlight of the results of the study required by section 102 of the Veterans’ Health Care Amendments of 1983, to the provision of such counseling and services to veterans with post-traumatic stress disorder and to the diagnosis and treatment of such disorder” for “Not later than April 1, 1984, the Administrator shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives a report on the plans made and actions taken to carry out this subsection”, and adding subpar. (B).
+Subsec. (g)(2). Pub. L. 98–160, §101(b)(2), amended par. (2) generally, designating existing provisions as subpar. (A), substituting “Not later than April 1, 1987, the Administrator shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the Administrator's evaluation of the effectiveness in helping to meet the readjustment needs of veterans who served on active duty during the Vietnam era of the readjustment counseling and mental health services provided pursuant to this section (and of outreach efforts with respect to such counseling and services). Such report shall give particular attention, in light of the results of the study required by section 102 of the Veterans’ Health Care Amendments of 1983, to the provision of such counseling and services to veterans with post-traumatic stress disorder and to the diagnosis and treatment of such disorder” for “Not later than April 1, 1984, the Administrator shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives a report on the plans made and actions taken to carry out this subsection”, and adding subpar. (B).
 
 Subsec. (g)(3). Pub. L. 98–160, §101(b)(2), added par. (3).
 
@@ -300,7 +300,7 @@ Contracts With Community Mental Health Centers and Other Qualified Entities.—I
 
 &emsp;“(6) to submit annual reports to the Secretary containing, with respect to the program required by subsection (a) and for the last full calendar year ending before the submittal of such report—
 
-&emsp;&emsp;“(A) the number of the veterans served, veterans diagnosed, and courses of treatment provided toveterans as part of the program required by subsection (a); and
+&emsp;&emsp;“(A) the number of the veterans served, veterans diagnosed, and courses of treatment provided to veterans as part of the program required by subsection (a); and
 
 &emsp;&emsp;“(B) demographic information for such services, diagnoses, and courses of treatment; and
 
@@ -364,7 +364,7 @@ Provision of Certain Services.—In providing services described in paragraphs (
 
 &emsp;“(1) Through community mental health centers under contracts or other agreements if entered into by the Secretary of Veterans Affairs and the Secretary of Health and Human Services for the provision of such services for purposes of the pilot program.
 
-&emsp;“(2) Through the Indian Health Service, or an Indian tribe or tribal organization that has entered into an agreement with the Indian Health Service pursuant to the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), if a memorandum of understanding is entered into by the Secretary of Veterans Affairs and the Secretary of Health and Human Services for purposes of the pilot program.
+&emsp;“(2) Through the Indian Health Service, or an Indian tribe or tribal organization that has entered intoan agreement with the Indian Health Service pursuant to the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), if a memorandum of understanding is entered into by the Secretary of Veterans Affairs and the Secretary of Health and Human Services for purposes of the pilot program.
 
 &emsp;“(3) Through other appropriate entities under contracts or other agreements entered into by the Secretary of Veterans Affairs for the provision of such services for purposes of the pilot program.
 
@@ -794,7 +794,7 @@ Section 121 of Pub. L. 102–405 provided that:
 
 “(a)
 
-Requirement.—Subject to the availability of funds appropriated pursuant to the authorization in subsection (g), the Secretary shall conduct a program to furnish to the persons referred to in subsection (b)the marriage and family counseling services referred to in subsection (c). The authority to conduct the program shall expire on September 30, 1994.
+Requirement.—Subject to the availability of funds appropriated pursuant to the authorization in subsection (g), the Secretary shall conduct a program to furnish to the persons referred to in subsection (b) the marriage and family counseling services referred to in subsection (c). The authority to conduct the program shall expire on September 30, 1994.
 
 “(b)
 
@@ -844,7 +844,7 @@ Contract Counseling Services.—(1) Subject to paragraphs (2) and (4), a mental 
 
 “(B) The Secretary may waive the prohibition referred to in subparagraph (A) for locations (as determined by the Secretary) in which the Secretary is unable to obtain the assessment referred to in that subparagraph from a mental health professional other than the mental health professional with whom the Secretary enters into contracts under subsection (d)(1)(C) for the furnishing of counseling services.
 
-“(3) The Secretary shall reimburse mental health professionals for the reasonable cost (as determined by the Secretary) of furnishing counseling services under paragraph (1). In the event of the disapproval of a treatment plan of a person submitted by a mental health professional under paragraph (1)(B)(i), the Secretary shall reimburse the mental health professional for the reasonable cost (as so determined) of furnishing counseling services to the person for the period beginning on the date of the commencement of such services and ending on the date of the disapproval.
+“(3) The Secretary shall reimburse mental health professionals for the reasonable cost (as determined by the Secretary) of furnishing counseling services under paragraph (1). In the event of the disapproval of a treatment plan of a person submitted by a mental health professional under paragraph (1)(B)(i), the Secretaryshall reimburse the mental health professional for the reasonable cost (as so determined) of furnishing counseling services to the person for the period beginning on the date of the commencement of such services and ending on the date of the disapproval.
 
 “(4) The Secretary may authorize the furnishing of counseling in an individual case for a period shorter than the 90-day period specified in subparagraph (B) or (C) of paragraph (1) and, upon further consideration, extend the shorter period to the full 90 days.
 
@@ -952,7 +952,7 @@ Pub. L. 98–528, title I, §110, Oct. 19, 1984, 98 Stat. 2691, as amended by Pu
 
 “(b)(1) The Under Secretary for Health shall establish in the Veterans Health Administration a Special Committee on Post-Traumatic-Stress Disorder (hereinafter in this section referred to as the ‘Special Committee’). The Under Secretary for Health shall appoint qualified employees of the Veterans Health Administration to serve on the Special Committee.
 
-“(2) The Special Committee shall assess, and carry out a continuing assessment of, the capacity of the Department to provide diagnostic and treatment servicesfor PTSD to veterans eligible for health care furnished by the Department.
+“(2) The Special Committee shall assess, and carry out a continuing assessment of, the capacity of the Department to provide diagnostic and treatment services for PTSD to veterans eligible for health care furnished by the Department.
 
 “(3) The Special Committee shall also advise the Under Secretary for Health regarding the development of policies, the provision of guidance, and the coordination of services for the diagnosis and treatment of PTSD (A) in designated PTSD programs, (B) in inpatient psychiatric programs and outpatient mental health programs other than designated PTSD programs, and (C) in readjustment counseling programs of the Department.
 

@@ -182,7 +182,7 @@ For the purposes of this chapter:
 
 #### (13) Extended services
 
-&emsp;The term “extended services” means ongoing support services and other appropriate services, needed to support and maintain an individual with a most significant disability in supported employment, that—
+&emsp;The term “extended services” means ongoing support services and other appropriateservices, needed to support and maintain an individual with a most significant disability in supported employment, that—
 
 &emsp;&emsp;(A) are provided singly or in combination and are organized and made available in such a way as to assist an eligible individual in maintaining supported employment;
 
@@ -344,7 +344,7 @@ For the purposes of this chapter:
 
 #### (D) Employment; exclusion of individuals with certain diseases or infections
 
-&emsp;&emsp;For the purposes of sections 793 and 794 of this title, as such sections relate to employment, such term does not include an individual who has a currently contagious disease or infection and who, by reason of such disease or infection, would constitute a direct threat to the health or safety of other individuals or who, by reason of the currently contagious disease or infection, is unable to perform the duties of the job.
+&emsp;&emsp;For the purposes of sections 793 and 794 of this title, as such sections relate to employment, such term does not include an individual who has a currently contagious disease or infection and who, by reason of such disease or infection, would constitute a direct threat to the health or safety of other individuals or who, by reason of the currentlycontagious disease or infection, is unable to perform the duties of the job.
 
 #### (E) Rights provisions; exclusion of individuals on basis of homosexuality or bisexuality
 
@@ -412,7 +412,7 @@ For the purposes of this chapter:
 
 #### (24) Local agency
 
-&emsp;The term “local agency” means an agency of a unit of general local government or of an Indian tribe (or combination of such units or tribes) which has an agreement with the designated State agency to conduct a vocational rehabilitation program under the supervision of such State agency in accordance with the State plan approved under section 721 of this title. Nothing in the preceding sentence of this paragraph or in section 721 of this title shall be construed to prevent the local agency from arranging to utilize another local public or nonprofit agency to provide vocational rehabilitation services if such an arrangement is made part of the agreement specified in this paragraph.
+&emsp;The term “local agency” means an agency of a unit of general local government or of an Indian tribe (or combination of such units or tribes) which has an agreement with the designated State agency to conduct a vocational rehabilitation program under the supervision of such State agency in accordance with the State plan approved under section 721 of this title. Nothing in the preceding sentence of thisparagraph or in section 721 of this title shall be construed to prevent the local agency from arranging to utilize another local public or nonprofit agency to provide vocational rehabilitation services if such an arrangement is made part of the agreement specified in this paragraph.
 
 #### (25) Local workforce investment board
 
@@ -492,7 +492,7 @@ For the purposes of this chapter:
 
 &emsp;&emsp;&emsp;(II) for whom competitive employment has been interrupted or intermittent as a result of a significant disability; and
 
-&emsp;&emsp;&emsp;(ii) who, because of the nature and severity of their disability, need intensive supported employment services for the period, and any extension, described in paragraph (36)(C) and extended services after the transition described in paragraph (13)(C) in order to perform such work.
+&emsp;&emsp;&emsp;(ii) who, because of the nature and severity of their disability, need intensive supported employment services for the period, and any extension, described in paragraph\(36)(C) and extended services after the transition described in paragraph (13)(C) in order to perform such work.
 
 #### (B) Certain transitional employment
 
@@ -562,7 +562,7 @@ Par. (3). Pub. L. 105–394, §402(a)(1), which directed the amendment of sectio
 
 Par. (4). Pub. L. 105–394, §402(a)(2), which directed the amendment of section 6 of the Rehabilitation Act of 1973 by substituting “3002” for “2202(3)”, was executed to this section, which is section 7 of that act, to reflect the probable intent of Congress and the renumbering of section 6 as 7 by Pub. L. 105–277, §101(f) \[title VIII, §402(a)(1)\].
 
-Par. (7). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(1)(B)\], struck out heading and text of par. (7). Text read as follows: “The term ‘criminal act’ means any crime, including an act, omission, or possession under the laws of the United States or a State or unit of general local government, which poses a substantial threat of personal injury, notwithstanding that by reason of age, insanity, or intoxication or otherwise the person engaging in the act, omission, or possession was legally incapable of committing a crime.”
+Par. (7). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(1)(B)\], struck out heading and text of par. (7).Text read as follows: “The term ‘criminal act’ means any crime, including an act, omission, or possession under the laws of the United States or a State or unit of general local government, which poses a substantial threat of personal injury, notwithstanding that by reason of age, insanity, or intoxication or otherwise the person engaging in the act, omission, or possession was legally incapable of committing a crime.”
 
 Par. (16)(A)(iii). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(1)(C)\], substituted “eligible individual” for “client”.
 

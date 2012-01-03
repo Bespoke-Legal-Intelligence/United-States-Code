@@ -6,7 +6,7 @@ Any requirement established by or under section 387b, 387c, 387e, or 387i of thi
 
 #### (b) Information on public access and comment
 
-Each notice of proposed rulemaking or other notification under section 387g, 387h, 387i, 387j, or 387k of this title or under this section, any other notice which is published in the Federal Register with respect to any other action taken under any such section and which states the reasons for such action, and each publication of findings required to be made in connection with rulemaking under any such section shall set forth—
+Each notice of proposed rulemaking or other notification under section 387g, 387h, 387i, 387j,or 387k of this title or under this section, any other notice which is published in the Federal Register with respect to any other action taken under any such section and which states the reasons for such action, and each publication of findings required to be made in connection with rulemaking under any such section shall set forth—
 
 &emsp;(1) the manner in which interested persons may examine data and other information on which the notice or findings is <sup>1</sup> based; and
 
@@ -44,7 +44,7 @@ Any information reported to or otherwise obtained by the Secretary or the Secret
 
 #### (B) Matchbooks
 
-&emsp;&emsp;For purposes of any regulations issued by the Secretary, matchbooks of conventional size containing not more than 20 papermatches, and which are customarily given away for free with the purchase of tobacco products, shall be considered as adult-written publications which shall be permitted to contain advertising. Notwithstanding the preceding sentence, if the Secretary finds that such treatment of matchbooks is not appropriate for the protection of the public health, the Secretary may determine by regulation that matchbooks shall not be considered adult-written publications.
+&emsp;&emsp;For purposes of any regulations issued by the Secretary, matchbooks of conventional size containing not more than 20 paper matches, and which are customarily given away for free with the purchase of tobacco products, shall be considered as adult-written publications which shall be permitted to contain advertising. Notwithstanding the preceding sentence, if the Secretary finds that such treatment of matchbooks is not appropriate for the protection of the public health, the Secretary may determine by regulation that matchbooks shall not be considered adult-written publications.
 
 #### (4) Remote sales
 

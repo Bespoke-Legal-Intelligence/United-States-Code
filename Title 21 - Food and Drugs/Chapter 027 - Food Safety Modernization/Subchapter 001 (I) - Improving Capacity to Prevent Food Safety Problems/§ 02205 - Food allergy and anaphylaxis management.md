@@ -176,7 +176,7 @@ In this section:
 
 #### (9) Administrative funds
 
-&emsp;A local educational agency that receives a grant under this subsection may use not more than 2 percent of the grant amount for administrative costs related to carrying out this subsection.
+&emsp;A local educational agency that receives a grant under this subsection may use not morethan 2 percent of the grant amount for administrative costs related to carrying out this subsection.
 
 #### (10) Progress and evaluations
 

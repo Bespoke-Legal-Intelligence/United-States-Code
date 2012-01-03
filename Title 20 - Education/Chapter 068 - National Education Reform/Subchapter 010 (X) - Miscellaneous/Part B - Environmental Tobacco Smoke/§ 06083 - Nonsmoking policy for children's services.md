@@ -74,7 +74,7 @@ The prohibitions in subsections (a) through (c) of this section shall be incorpo
 
 #### (4) Modification
 
-&emsp;The Secretary may, as appropriate, compromise, modify, or remit, with or withoutconditions, any civil penalty or administrative compliance order. In the case of a civil penalty, the amount, as finally determined by the Secretary or agreed upon in compromise, may be deducted from any sums that the United States or its agencies or instrumentalities owes to the person against whom the penalty is assessed.
+&emsp;The Secretary may, as appropriate, compromise, modify, or remit, with or without conditions, any civil penalty or administrative compliance order. In the case of a civil penalty, the amount, as finally determined by the Secretary or agreed upon in compromise, may be deducted from any sums that the United States or its agencies or instrumentalities owes to the person against whom the penalty is assessed.
 
 #### (5) Petition for review
 

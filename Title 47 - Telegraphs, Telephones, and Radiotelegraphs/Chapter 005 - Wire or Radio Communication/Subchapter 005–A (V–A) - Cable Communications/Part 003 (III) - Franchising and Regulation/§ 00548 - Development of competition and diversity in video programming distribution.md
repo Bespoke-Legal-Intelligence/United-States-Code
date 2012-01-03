@@ -12,7 +12,7 @@ It shall be unlawful for a cable operator, a satellite cable programming vendor 
 
 #### (1) Proceeding required
 
-&emsp;Within 180 days after October 5, 1992, the Commission shall, in order to promote thepublic interest, convenience, and necessity by increasing competition and diversity in the multichannel video programming market and the continuing development of communications technologies, prescribe regulations to specify particular conduct that is prohibited by subsection (b) of this section.
+&emsp;Within 180 days after October 5, 1992, the Commission shall, in order to promote the public interest, convenience, and necessity by increasing competition and diversity in the multichannel video programming market and the continuing development of communications technologies, prescribe regulations to specify particular conduct that is prohibited by subsection (b) of this section.
 
 #### (2) Minimum contents of regulations
 
@@ -64,7 +64,7 @@ It shall be unlawful for a cable operator, a satellite cable programming vendor 
 
 #### (d) Adjudicatory proceeding
 
-Any multichannel video programming distributor aggrieved by conduct that it allegesconstitutes a violation of subsection (b) of this section, or the regulations of the Commission under subsection (c) of this section, may commence an adjudicatory proceeding at the Commission.
+Any multichannel video programming distributor aggrieved by conduct that it alleges constitutes a violation of subsection (b) of this section, or the regulations of the Commission under subsection (c) of this section, may commence an adjudicatory proceeding at the Commission.
 
 #### (e) Remedies for violations
 
@@ -117,6 +117,10 @@ As used in this section:
 Any provision that applies to a cable operator under this section shall apply to a common carrier or its affiliate that provides video programming by any means directly to subscribers. Any such provision that applies to a satellite cable programming vendor in which a cable operator has an attributable interest shall apply to any satellite cable programming vendor in which such common carrier has an attributable interest. For the purposes of this subsection, two or fewer common officers or directors shall not by itself establish an attributable interest by a common carrier in a satellite cable programming vendor (or its parent company).
 
 (June 19, 1934, ch. 652, title VI, §628, as added Pub. L. 102–385, §19, Oct. 5, 1992, 106 Stat. 1494; amended Pub. L. 104–104, title III, §301(h), Feb. 8, 1996, 110 Stat. 117.)
+
+#### References in Text
+
+This chapter, referred to in subsec. (e)(2), was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
 #### Amendments
 

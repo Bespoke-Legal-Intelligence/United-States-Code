@@ -28,7 +28,7 @@ Inclusion of Information in Annual Report.—The Secretary of Defense shall incl
 
 &emsp;(3) The number of employees to whom the requirements of subsections (b)(2)(A) and (b)(2)(B) <sup>1</sup> of section 1732 of this title did not apply because of the exceptions provided in paragraphs (1) and (2) of section 1732(c) of this title, set forth separately by type of exception.
 
-&emsp;(4) The number of times a waiver authority was exercised under section 1724(d), 1732(d), 1734(d), or 1736(c) <sup>2</sup> of this title or any other provision of this chapter (or other provision of law) which permits the waiver of any requirement relating to the acquisition workforce, and in the case of each such authority, the reasons for exercising the authority. The Secretary may present the information provided under this paragraph by category or grouping of types of waivers and reasons.
+&emsp;(4) The number of times a waiver authority was exercised under section 1724(d), 1732(d), 1734(d), or 1736(c) <sup>2</sup> of this title or any otherprovision of this chapter (or other provision of law) which permits the waiver of any requirement relating to the acquisition workforce, and in the case of each such authority, the reasons for exercising the authority. The Secretary may present the information provided under this paragraph by category or grouping of types of waivers and reasons.
 
 (Added Pub. L. 111–383, div. A, title VIII, §873(a)(1), Jan. 7, 2011, 124 Stat. 4302.)
 

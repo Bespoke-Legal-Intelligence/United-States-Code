@@ -6,17 +6,17 @@ No insured depository institution, insured branch of a foreign bank, or mutual s
 
 #### (b) Enforcement; bank status
 
-In addition to other available remedies, this section may be enforced with respect to mutual savings and cooperative banks which are not insured depository institutions in accordance with section 1818 of this title, and for such purpose such mutual savings and cooperative banks shall be held and considered to be State nonmember insured banks and the appropriate Federal agency with respect to such mutual savings and cooperative banks shall be the Federal Deposit Insurance Corporation.
+In addition to other available remedies, this section may be enforced with respect to mutual savings and cooperative banks which are not insured depository institutions in accordance with section 1818 of this title, and for such purpose such mutual savings and cooperative banks shall be held and considered to be State nonmember insured banks and the appropriate Federal agency with respect to such mutual savingsand cooperative banks shall be the Federal Deposit Insurance Corporation.
 
 (Sept. 21, 1950, ch. 967, §2\[25\], as added Pub. L. 93–533, §11(a), Dec. 22, 1974, 88 Stat. 1729; amended Pub. L. 95–369, §6(c)(30), Sept. 17, 1978, 92 Stat. 620; Pub. L. 101–73, title II, §201(a), Aug. 9, 1989, 103 Stat. 187; Pub. L. 103–325, title VI, §602(a)(55), Sept. 23, 1994, 108 Stat. 2290.)
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–325 substituted “the insured depository institution, insured branch, or bank” for “the bank” in two places.
+<b>1994</b>—Subsec. (a). Pub. L. 103–325 substituted “the insured depository institution, insured branch, or bank” for “the bank” in two places.
 
-1989—Pub. L. 101–73 substituted references to insured depository institutions for references to insured banks wherever appearing in this section.
+<b>1989</b>—Pub. L. 101–73 substituted references to insured depository institutions for references to insured banks wherever appearing in this section.
 
-1978—Subsec. (a). Pub. L. 95–369 inserted “insured branch of a foreign bank” after “No insured bank”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–369 inserted “insured branch of a foreign bank” after “No insured bank”.
 
 #### Effective Date
 

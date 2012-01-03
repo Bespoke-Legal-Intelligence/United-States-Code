@@ -2,7 +2,7 @@
 
 (a)
 
-Limitation on Use of Centers.—Except as provided in subsection (b), the Secretary of Defense may not place work with a federally funded research and development center unless suchwork is within the purpose, mission, and general scope of effort of such center as established in the sponsoring agreement of the Department of Defense with such center.
+Limitation on Use of Centers.—Except as provided in subsection (b), the Secretary of Defense may not place work with a federally funded research and development center unless such work is within the purpose, mission, and general scope of effort of such center as established in the sponsoring agreement of the Department of Defense with such center.
 
 (b)
 
@@ -44,7 +44,7 @@ Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical section
 
 Section 256(a)(2) of Pub. L. 102–190 provided that:
 
-“(A) Paragraph (1) of subsection (d) of section 2367 of title 10, United States Code, as added by paragraph (1), shall take effect with respect to the budget submitted for fiscal year 1994.
+“(A) Paragraph (1) of subsection (d) of section 2367 of title 10, United States Code, as added by paragraph (1),shall take effect with respect to the budget submitted for fiscal year 1994.
 
 “(B) Paragraph (2) of such subsection shall take effect with respect to fiscal year 1992.”
 

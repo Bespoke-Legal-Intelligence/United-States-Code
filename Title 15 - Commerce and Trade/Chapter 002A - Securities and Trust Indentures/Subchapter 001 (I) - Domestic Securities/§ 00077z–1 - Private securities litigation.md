@@ -88,7 +88,7 @@
 
 #### (vi) Restrictions on professional plaintiffs
 
-&emsp;&emsp;&emsp;Except as the court may otherwise permit, consistent with the purposes of this section, a person may be a lead plaintiff, or an officer, director, or fiduciary of a lead plaintiff, in no more than 5 securities class actions brought as plaintiff class actions pursuant to the Federal Rules of Civil Procedure during any 3-year period.
+&emsp;&emsp;&emsp;Except as the court may otherwise permit, consistent with the purposes of this section, a person may be a lead plaintiff, or an officer, director, or fiduciary of a lead plaintiff, in no more than 5 securitiesclass actions brought as plaintiff class actions pursuant to the Federal Rules of Civil Procedure during any 3-year period.
 
 #### (4) Recovery by plaintiffs
 
@@ -126,7 +126,7 @@
 
 #### (C) Statement of attorneys’ fees or costs sought
 
-&emsp;&emsp;If any of the settling parties or their counsel intend to apply to the court for an award of attorneys’ fees or costs from any fund established as part of the settlement, a statement indicating which parties or counsel intend to make such an application, the amount of fees and costs that will be sought\(including the amount of such fees and costs determined on an average per share basis), and a brief explanation supporting the fees and costs sought.
+&emsp;&emsp;If any of the settling parties or their counsel intend to apply to the court for an award of attorneys’ fees or costs from any fund established as part of the settlement, a statement indicating which parties or counsel intend to make such an application, the amount of fees and costs that will be sought (including the amount of such fees and costs determined on an average per share basis), and a brief explanation supporting the fees and costs sought.
 
 #### (D) Identification of lawyers’ representatives
 
@@ -156,7 +156,7 @@
 
 #### (3) Sanction for willful violation
 
-&emsp;A party aggrieved by the willful failure of an opposing party to comply with paragraph (2) may apply to the court for an order awarding appropriate sanctions.
+&emsp;A party aggrieved by the willful failure of an opposing party to comply with paragraph (2)may apply to the court for an order awarding appropriate sanctions.
 
 #### (4) Circumvention of stay of discovery
 
@@ -196,7 +196,7 @@
 
 #### (d) Defendant's right to written interrogatories
 
-In any private action arising under this subchapter in which the plaintiff may recover money damages only on proof that a defendant acted with a particular state of mind, the court shall, when requested by a defendant, submit tothe jury a written interrogatory on the issue of each such defendant's state of mind at the time the alleged violation occurred.
+In any private action arising under this subchapter in which the plaintiff may recover money damages only on proof that a defendant acted with a particular state of mind, the court shall, when requested by a defendant, submit to the jury a written interrogatory on the issue of each such defendant's state of mind at the time the alleged violation occurred.
 
 (May 27, 1933, ch. 38, title I, §27, as added Pub. L. 104–67, title I, §101(a), Dec. 22, 1995, 109 Stat. 737; amended Pub. L. 105–353, title I, §101(a)(2), title III, §301(a)(5), Nov. 3, 1998, 112 Stat. 3230, 3235.)
 

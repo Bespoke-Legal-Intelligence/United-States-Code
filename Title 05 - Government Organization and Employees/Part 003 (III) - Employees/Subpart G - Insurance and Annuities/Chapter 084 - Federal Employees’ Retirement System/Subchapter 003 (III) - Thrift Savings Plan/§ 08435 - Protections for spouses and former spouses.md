@@ -80,7 +80,7 @@
 
 #### Amendments
 
-1996—Subsec. (a)(1)(A). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §204(1)\]\], substituted “may withdraw all or part of a Thrift Savings Fund account under subsection (b)(2), (3), or (4) of section 8433 of this title or change a withdrawal election” for “may make an election under subsection (b)(3) or (b)(4) of section 8433 of this title or change an election previously made under subsection (b)(1) or (b)(2) of such section” and inserted at end “A married employee or Member (or former employee or Member) may make a withdrawal from a Thrift Savings Fund account under subsection (c)(1) of section 8433 of this title only if the employee or Member (or former employee or Member) satisfies the requirements of subparagraph (B).”
+<b>1996</b>—Subsec. (a)(1)(A). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §204(1)\]\], substituted “may withdraw all or part of a Thrift Savings Fund account under subsection (b)(2), (3), or (4) of section 8433 of this title or change a withdrawal election” for “may make an election under subsection (b)(3) or (b)(4) of section 8433 of this title or change an election previously made under subsection (b)(1) or (b)(2) of such section” and inserted at end “A married employee or Member (or former employee or Member) may make a withdrawal from a Thrift Savings Fund account under subsection (c)(1) of section 8433 of this title only if the employee or Member (or former employee or Member) satisfies the requirements of subparagraph (B).”
 
 Subsec. (c)(1). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §204(2)(A)\]\], substituted “An election or change of election” for “An election, change of election, or modification of the commencement date of a deferred annuity” and “or transfer” for “modification, or transfer”.
 
@@ -96,7 +96,7 @@ Subsec. (g). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §204(4)(
 
 Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §204(4)(B)\]\], which directed insertion of “and (h)” after “8344(g)” was executed by making the insertion after “8433(g)” to reflect the probable intent of Congress.
 
-1994—Subsec. (a)(1)(A). Pub. L. 103–226, §9(d)(1), substituted “subsection (b)(3) or (b)(4) of section 8433 of this title or change an election previously made under subsection (b)(1) or (b)(2)” for “subsection (b)(3), (b)(4), (c)(3), or (c)(4) of section 8433 of this title or change an election previously made under subsection (b)(1), (b)(2), (c)(1), or (c)(2)”.
+<b>1994</b>—Subsec. (a)(1)(A). Pub. L. 103–226, §9(d)(1), substituted “subsection (b)(3) or (b)(4) of section 8433 of this title or change an election previously made under subsection (b)(1) or (b)(2)” for “subsection (b)(3), (b)(4), (c)(3), or (c)(4) of section 8433 of this title or change an election previously made under subsection (b)(1), (b)(2), (c)(1), or (c)(2)”.
 
 Subsec. (a)(1)(B). Pub. L. 103–226, §9(i)(9), substituted “subsection (b)” for “subsection (c)”.
 
@@ -142,9 +142,9 @@ Subsec. (g). Pub. L. 103–226, §9(d)(3), (i)(15), redesignated subsec. (h) as 
 
 Subsecs. (h), (i). Pub. L. 103–226, §9(d)(3), redesignated subsec. (i) as (h). Former subsec. (h) redesignated (g).
 
-1992—Subsec. (c)(2)(A). Pub. L. 102–484 inserted “, or who separates from Government employment pursuant to regulations under section 3502(a) of this title or procedures under section 3595(a) of this title in a reduction in force,” after “8451 of this title”.
+<b>1992</b>—Subsec. (c)(2)(A). Pub. L. 102–484 inserted “, or who separates from Government employment pursuant to regulations under section 3502(a) of this title or procedures under section 3595(a) of this title in a reduction in force,” after “8451 of this title”.
 
-1990—Subsec. (c)(1). Pub. L. 101–335, §5(c)(1), inserted “an annuity contract is purchased to provide for” after “the date on which” and struck out “commences” after “former Member's annuity”.
+<b>1990</b>—Subsec. (c)(1). Pub. L. 101–335, §5(c)(1), inserted “an annuity contract is purchased to provide for” after “the date on which” and struck out “commences” after “former Member's annuity”.
 
 Subsec. (d)(2)(B)(ii). Pub. L. 101–335, §5(c)(2), substituted “an annuity contract is purchased to provide for the annuity” for “the annuity commences”.
 

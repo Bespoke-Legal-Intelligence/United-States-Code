@@ -4,7 +4,7 @@
 
 &emsp;(1) may accept contributions of comfort and other incidental items and services to support employees of the Office of the Architect of the Capitol while such employees are on duty in response to the emergency; and
 
-&emsp;(2) may incur obligations and make expenditures out of available appropriations formeals, refreshments, and other support and maintenance for the Office of the Architect of the Capitol if, in the judgment of the Architect, such obligations and expenditures are necessary to respond to the emergency.
+&emsp;(2) may incur obligations and make expenditures out of available appropriations for meals, refreshments, and other support and maintenance for the Office of the Architect of the Capitol if, in the judgment of the Architect, such obligations and expenditures are necessary to respond to the emergency.
 
 (b) This section shall apply with respect to fiscal year 2010 and each succeeding fiscal year.
 

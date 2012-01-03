@@ -14,7 +14,7 @@
 
 &emsp;(A) permits perfection of an interest in property to be effective against an entity that acquires rights in such property before the date of perfection; or
 
-&emsp;(B) provides for the maintenance or continuation of perfection of an interest in propertyto be effective against an entity that acquires rights in such property before the date on which action is taken to effect such maintenance or continuation.
+&emsp;(B) provides for the maintenance or continuation of perfection of an interest in property to be effective against an entity that acquires rights in such property before the date on which action is taken to effect such maintenance or continuation.
 
 (2) If—
 
@@ -48,7 +48,7 @@
 
 (i)(1) Notwithstanding paragraphs (2) and (3) of section 545, the trustee may not avoid a warehouseman's lien for storage, transportation, or other costs incidental to the storage and handling of goods.
 
-(2) The prohibition under paragraph (1) shall be applied in a manner consistent with any State statute applicable to such lien that is similar to section 7–209 of the Uniform Commercial Code, as in effect on the date of enactment of the Bankruptcy Abuse Prevention and Consumer Protection Act of 2005, or any successor to such section 7–209.
+(2) The prohibition under paragraph (1) shall be applied in a manner consistent with anyState statute applicable to such lien that is similar to section 7–209 of the Uniform Commercial Code, as in effect on the date of enactment of the Bankruptcy Abuse Prevention and Consumer Protection Act of 2005, or any successor to such section 7–209.
 
 (j) Notwithstanding sections 544, 545, 547, 548(a)(1)(B), and 548(b) the trustee may not avoid a transfer made by or to (or for the benefit of) a master netting agreement participant under or in connection with any master netting agreement or any individual contract covered thereby that is made before the commencement of the case, except under section 548(a)(1)(A) and except to the extent that the trustee could otherwise avoid such a transfer made under an individual contract covered by such master netting agreement.
 
@@ -56,7 +56,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 546(a) of the House amendment is derived from section 546(c) of the Senate amendment. Section 546(c) of the House amendment is derived from section 546(b) of the Senate amendment. It applies to receipt of goods on credit as well as by cash sales. The section clarifies that a demand for reclamation must be made in writing anytime before 10 days after receipt of the goods by the debtor. The section also permits the court to grant the reclaiming creditor a lien or an administrative expense in lieu of turning over the property.
 
@@ -76,7 +76,7 @@ The date of enactment of the Bankruptcy Abuse Prevention and Consumer Protection
 
 #### Amendments
 
-2006—Subsec. (e). Pub. L. 109–390, §5(b)(1), inserted “(or for the benefit of)” before “a commodity broker” and “or that is a transfer made by or to (or for the benefit of) a commodity broker, forward contract merchant, stockbroker, financial institution, financial participant, or securities clearing agency, in connection with a securities contract, as defined in section 741(7), commodity contract, as defined in section 761(4), or forward contract,” after “securities clearing agency,”.
+<b>2006</b>—Subsec. (e). Pub. L. 109–390, §5(b)(1), inserted “(or for the benefit of)” before “a commodity broker” and “or that is a transfer made by or to (or for the benefit of) a commodity broker, forward contract merchant, stockbroker, financial institution, financial participant, or securities clearing agency, in connection with a securities contract, as defined in section 741(7), commodity contract, as defined in section 761(4), or forward contract,” after “securities clearing agency,”.
 
 Subsec. (f). Pub. L. 109–390, §5(b)(2), struck out “that is a margin payment, as defined in section 741 or 761 of this title, or settlement payment, as defined in section 741 of this title,” after “avoid a transfer” and inserted “(or for the benefit of)” before “a repo participant”.
 
@@ -84,7 +84,7 @@ Subsec. (g). Pub. L. 109–390, §5(b)(3), inserted “(or for the benefit of)�
 
 Subsec. (j). Pub. L. 109–390, §5(b)(4), inserted “(or for the benefit of)” before “a master netting agreement participant”.
 
-2005—Subsec. (c). Pub. L. 109–8, §1227(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) consisted of pars. (1) and (2) relating to reclamation of goods sold to an insolvent debtor.
+<b>2005</b>—Subsec. (c). Pub. L. 109–8, §1227(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) consisted of pars. (1) and (2) relating to reclamation of goods sold to an insolvent debtor.
 
 Subsec. (e). Pub. L. 109–8, §907(<i>o</i>)(3), inserted “financial participant,” after “financial institution,”.
 
@@ -102,9 +102,9 @@ Subsec. (i). Pub. L. 109–8, §406(3), added subsec. (i).
 
 Subsec. (j). Pub. L. 109–8, §907(e)(2), added subsec. (j).
 
-1998—Subsecs. (e) to (g). Pub. L. 105–183 substituted “548(a)(1)(B)” for “548(a)(2)” and “548(a)(1)(A)” for “548(a)(1)”.
+<b>1998</b>—Subsecs. (e) to (g). Pub. L. 105–183 substituted “548(a)(1)(B)” for “548(a)(2)” and “548(a)(1)(A)” for “548(a)(1)”.
 
-1994—Subsec. (a)(1). Pub. L. 103–394, §216, amended par. (1) generally. Prior to amendment, par. (1) read as follows: “two years after the appointment of a trustee under section 702, 1104, 1163, 1302, or 1202 of this title; or”.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–394, §216, amended par. (1) generally. Prior to amendment, par. (1) read as follows: “two years after the appointment of a trustee under section 702, 1104, 1163, 1302, or 1202 of this title; or”.
 
 Subsec. (b). Pub. L. 103–394, §204(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The rights and powers of a trustee under sections 544, 545, and 549 of this title are subject to any generally applicable law that permits perfection of an interest in property to be effective against an entity that acquires rights in such property before the date of such perfection. If such law requires seizure of such property or commencement of an action to accomplish such perfection, and such property has not been seized or such action has not been commenced before the date of the filing of the petition, such interest in such property shall be perfected by notice within the time fixed by such law for such seizure or commencement.”
 
@@ -116,15 +116,15 @@ Subsec. (f). Pub. L. 103–394, §501(b)(4)(B), substituted “section 741 or 76
 
 Subsec. (g). Pub. L. 103–394, §222(a), added subsec. (g) relating to return of goods.
 
-1990—Subsec. (e). Pub. L. 101–311, §203, inserted reference to sections 101(34) and 101(35) of this title.
+<b>1990</b>—Subsec. (e). Pub. L. 101–311, §203, inserted reference to sections 101(34) and 101(35) of this title.
 
 Subsec. (g). Pub. L. 101–311, §103, added subsec. (g) relating to trustee's authority to avoid transfer involving swap agreement.
 
-1986—Subsec. (a)(1). Pub. L. 99–554, §257(d), inserted reference to section 1202 of this title.
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–554, §257(d), inserted reference to section 1202 of this title.
 
 Subsec. (e). Pub. L. 99–554, §283(<i>l</i>), inserted a comma after “stockbroker”.
 
-1984—Subsec. (a)(1). Pub. L. 98–353, §461(a), substituted “; or” for “; and”.
+<b>1984</b>—Subsec. (a)(1). Pub. L. 98–353, §461(a), substituted “; or” for “; and”.
 
 Subsec. (b). Pub. L. 98–353, §461(b), substituted “a trustee under sections 544, 545, and” for “the trustee under sections 544, 545, or”.
 
@@ -140,7 +140,7 @@ Subsec. (e). Pub. L. 98–353, §§351(2), 461(d), redesignated former subsec. (
 
 Subsec. (f). Pub. L. 98–353, §393, added subsec. (f).
 
-1982—Subsec. (d). Pub. L. 97–222 added subsec. (d).
+<b>1982</b>—Subsec. (d). Pub. L. 97–222 added subsec. (d).
 
 #### Effective Date of 2006 Amendment
 

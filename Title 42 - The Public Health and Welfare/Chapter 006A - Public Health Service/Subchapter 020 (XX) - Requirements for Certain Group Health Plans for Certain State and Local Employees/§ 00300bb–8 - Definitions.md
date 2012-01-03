@@ -52,7 +52,7 @@ Amendment by section 421(a)(3) of Pub. L. 104–191 effective Jan. 1, 1997, rega
 
 #### Effective Date of 1989 Amendment
 
-Section 6801(c)(2) of Pub. L. 101–239 provided that: “The amendment made by paragraph (1) \[amending thissection\] shall apply to plan years beginning after December 31, 1989.”
+Section 6801(c)(2) of Pub. L. 101–239 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to plan years beginning after December 31, 1989.”
 
 #### Effective Date of 1988 Amendment
 

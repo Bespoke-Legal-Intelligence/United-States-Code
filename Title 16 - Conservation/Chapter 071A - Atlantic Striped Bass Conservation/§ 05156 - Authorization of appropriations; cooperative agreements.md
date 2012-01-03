@@ -32,7 +32,7 @@ Pub. L. 102–130, §2(b)(1)–(3), designated existing provisions as subsec. (a
 
 <b>1988</b>—Pub. L. 100–589 substituted “1988, 1989, 1990, and 1991,” for “and 1988,”.
 
-<b>1986</b>—Pub. L. 99–432 amended section catchline and text generally. Prior to amendment, text read as follows: “Funds for activities in fiscal year 1985 under this chapter shall be made available only from funds appropriated for the Department of Commerce and the Department of the Interior for fiscal year 1985. For fiscal year 1986, there are authorized such sums as may be necessary or appropriate to carry out the provisions of this chapter.”
+<b>1986</b>—Pub. L. 99–432 amended section catchline and text generally. Prior to amendment, text read as follows: “Funds for activities in fiscal year 1985 under thischapter shall be made available only from funds appropriated for the Department of Commerce and the Department of the Interior for fiscal year 1985. For fiscal year 1986, there are authorized such sums as may be necessary or appropriate to carry out the provisions of this chapter.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “and”.</i>
 

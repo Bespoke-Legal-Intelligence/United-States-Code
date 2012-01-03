@@ -54,6 +54,26 @@ Subsec. (c)(3). Pub. L. 107–217, §3(b)(1)(D), substituted “section 11103 of
 
 Pub. L. 105–261, div. A, title III, §331(b), Oct. 17, 1998, 112 Stat. 1968, provided that: “Section 2223 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1998.”
 
+#### Ozone Widget Framework
+
+Pub. L. 112–81, div. A, title IX, §924, Dec. 31, 2011, 125 Stat. 1539, provided that:
+
+“(a)
+
+Mechanism for Internet Publication of Information for Development of Analysis Tools and Applications.—The Chief Information Officer of the Department of Defense, acting through the Director of the Defense Information Systems Agency, shall implement a mechanism to publish and maintain on the public Internet the application programming interface specifications, a developer's toolkit, source code, and such other information on, and resources for, the Ozone Widget Framework (OWF) as the Chief Information Officer considers necessary to permit individuals and companies to develop, integrate, and test analysis tools and applications for use by the Department of Defense and the elements of the intelligence community.
+
+“(b)
+
+Process for Voluntary Contribution of Improvements by Private Sector.—In addition to the requirement under subsection (a), the Chief Information Officer shall also establish a process by which private individuals and companies may voluntarily contribute the following:
+
+&emsp;“(1) Improvements to the source code and documentation for the Ozone Widget Framework.
+
+&emsp;“(2) Alternative or compatible implementations of the published application programming interface specifications for the Framework.
+
+“(c)
+
+Encouragement of Use and Development.—The Chief Information Officer shall, whenever practicable, encourage and foster the use, support, development, and enhancement of the Ozone Widget Framework by the computer industry and commercial information technology vendors, including the development of tools that are compatible with the Framework.”
+
 #### Continuous Monitoring of Department of Defense Information Systems for Cybersecurity
 
 Pub. L. 111–383, div. A, title IX, §931, Jan. 7, 2011, 124 Stat. 4334, provided that:

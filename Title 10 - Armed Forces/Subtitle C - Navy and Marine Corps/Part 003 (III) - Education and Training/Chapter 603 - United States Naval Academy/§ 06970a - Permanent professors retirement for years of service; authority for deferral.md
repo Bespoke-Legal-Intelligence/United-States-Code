@@ -14,7 +14,7 @@ Continuation on Active Duty.—(1) An officer subject to retirement under subsec
 
 (c)
 
-Eligibility for Promotion.—A permanent professor at the Naval Academy in the grade ofcommander or lieutenant colonel who is continued on active duty as a permanent professor under subsection (b) remains eligible for consideration for promotion to the grade of captain or colonel, as the case may be.
+Eligibility for Promotion.—A permanent professor at the Naval Academy in the grade of commander or lieutenant colonel who is continued on active duty as a permanent professor under subsection (b) remains eligible for consideration for promotion to the grade of captain or colonel, as the case may be.
 
 (d)
 

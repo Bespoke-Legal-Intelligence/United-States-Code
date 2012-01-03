@@ -38,7 +38,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), a State may require that a full-benefit eligible individual (as defined in subparagraph (C)) within a group obtain benefits under this subchapter through enrollment in coverage described in paragraph (1)(A). A State may apply the previous sentence to individuals within 1 or more groups of such individuals.
+&emsp;&emsp;Except as provided in subparagraph (B), a State may require that a full-benefit eligible individual (as defined in subparagraph (C))within a group obtain benefits under this subchapter through enrollment in coverage described in paragraph (1)(A). A State may apply the previous sentence to individuals within 1 or more groups of such individuals.
 
 #### (B) Limitation on application
 
@@ -130,7 +130,7 @@
 
 #### (2) Benchmark-equivalent coverage
 
-&emsp;For purposes of subsection (a)(1), subject to paragraphs (5) and (6) <sup>2</sup> coverage that meetsthe following requirement shall be considered to be benchmark-equivalent coverage:
+&emsp;For purposes of subsection (a)(1), subject to paragraphs (5) and (6) <sup>2</sup> coverage that meets the following requirement shall be considered to be benchmark-equivalent coverage:
 
 #### (A) Inclusion of basic services
 
@@ -202,7 +202,7 @@
 
 #### (B) Deemed compliance
 
-&emsp;&emsp;Coverage provided with respect to an individual described in section 1396d(a)(4)(B) of this title and covered under the State plan under section 1396a(a)(10)(A) of this title of the services described in section 1396d(a)(4)(B) of this title (relating to early and periodic screening, diagnostic, and treatment services defined in section 1396d(r) of this title) and provided in accordance with section 1396a(a)(43) of this title, shall be deemed to satisfy the requirements of subparagraph (A).
+&emsp;&emsp;Coverage provided with respect to an individual described in section 1396d(a)(4)(B) of this title and covered under the State plan under section 1396a(a)(10)(A) of this title of the services described in section 1396d(a)(4)(B) of this title (relating to early and periodic screening, diagnostic, andtreatment services defined in section 1396d(r) of this title) and provided in accordance with section 1396a(a)(43) of this title, shall be deemed to satisfy the requirements of subparagraph (A).
 
 #### (7) Coverage of family planning services and supplies
 
@@ -210,17 +210,13 @@
 
 #### (c) Publication of provisions affected
 
-With respect to a State plan amendment to provide benchmark benefits in accordance with subsections (a) and (b) that is approved by the Secretary, the Secretary shall publish on the Internet website of the Centers for Medicare \& Medicaid Services, a list of the provisions of this subchapter that the Secretary has determined do not apply in order to enable the State tocarry out the plan amendment and the reason for each such determination on the date such approval is made, and shall publish such list in the Federal Register and <sup>3</sup> not later than 30 days after such date of approval.
+With respect to a State plan amendment to provide benchmark benefits in accordance with subsections (a) and (b) that is approved by the Secretary, the Secretary shall publish on the Internet website of the Centers for Medicare \& Medicaid Services, a list of the provisions of this subchapter that the Secretary has determined do not apply in order to enable the State to carry out the plan amendment and the reason for each such determination on the date such approval is made, and shall publish such list in the Federal Register and <sup>3</sup> not later than 30 days after such date of approval.
 
 (Aug. 14, 1935, ch. 531, title XIX, §1937, as added Pub. L. 109–171, title VI, §6044(a), Feb. 8, 2006, 120 Stat. 88; amended Pub. L. 111–3, title VI, §611(a)–(c), Feb. 4, 2009, 123 Stat. 100, 101; Pub. L. 111–148, title II, §§2001(a)(5)(E), (c), 2004(c)(2), 2303(c), Mar. 23, 2010, 124 Stat. 275, 276, 283, 296.)
 
 #### Amendment of Subsection (a)(2)(B)(viii)
 
-<i>Pub. L. 111–148, title II, §2004(c)(2), (d), title X, §10201(a)(3), Mar. 23, 2010, 124 Stat. 283, 918, provided that, effective Jan. 1, 2014, subsection (a)(2)(B)(viii) of this section is amended by inserting “, or the individual qualifies for medical assistance on the basis of section 1396a(a)(10)(A)(i)(IX) of this title” before the period.</i>
-
-#### References in Text
-
-Parts A, B, and E of subchapter IV, referred to in subsec. (a)(2)(B)(viii), (ix), are classified to sections 601 et seq., 620 et seq., and 670 et seq., respectively, of this title.
+<i>Pub. L. 111–148, title II, §2004(c)(2), (d), title X, §10201(a)(3), Mar. 23, 2010, 124 Stat. 283, 918, provided that, effective Jan. 1, 2014, subsection (a)(2)(B)(viii) of this section is amended by inserting “, or the individual qualifies for medical assistance on the basis of section 1396a(a)(10)(A)(i)(IX) of this title” before the period. See 2010 Amendment notes below.</i>
 
 #### Prior Provisions
 
@@ -229,6 +225,8 @@ A prior section 1937 of act Aug. 14, 1935, was renumbered section 1939 and is cl
 #### Amendments
 
 <b>2010</b>—Subsec. (a)(1)(B). Pub. L. 111–148, §2001(a)(5)(E), inserted “subclause (VIII) of section 1396a(a)(10)(A)(i) of this title or under” after “eligible under”.
+
+Subsec. (a)(2)(B)(viii). Pub. L. 111–148, §2004(c)(2), inserted “, or the individual qualifies for medical assistance on the basis of section 1396a(a)(10)(A)(i)(IX) of this title” before period at end.
 
 Subsec. (b)(1). Pub. L. 111–148, §2001(c)(1), inserted “subject to paragraphs (5) and (6),” before “each of the following” in introductory provisions.
 

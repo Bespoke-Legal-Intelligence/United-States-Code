@@ -16,9 +16,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (f). Pub. L. 110–246, §12033(c)(2)(B), substituted “this subchapter” for “this chapter”.
+<b>2008</b>—Subsec. (f). Pub. L. 110–246, §12033(c)(2)(B), substituted “this subchapter” for “this chapter”.
 
-1948—Subsecs. (a) to (e). Act June 25, 1948, §21, repealed provisions relating to crimes and offenses. See sections 371, 433, 657, 658, 1006, 1014, and former section 1093 of Title 18, Crimes and Criminal Procedure.
+<b>1948</b>—Subsecs. (a) to (e). Act June 25, 1948, §21, repealed provisions relating to crimes and offenses. See sections 371, 433, 657, 658, 1006, 1014, and former section 1093 of Title 18, Crimes and Criminal Procedure.
 
 Subsec. (f). Act June 25, 1948, §4, struck out provisions relating to former sections 202 to 207 of Title 18. See sections 202, 216, 431 to 433 of Title 18.
 

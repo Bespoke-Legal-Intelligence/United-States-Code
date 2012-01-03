@@ -12,7 +12,7 @@ There are authorized to be appropriated to the President, in addition to funds o
 
 Amounts appropriated under this section are authorized to remain available until expended.
 
-(Pub. L. 87–195, pt. III, §667, as added Pub. L. 94–161, title III, §319, Dec. 20, 1975, 89 Stat. 868; amended Pub. L. 95–88, title I, §129(a), Aug. 3, 1977, 91 Stat. 543; Pub. L. 95–424, title V, §506, Oct. 6, 1978, 92 Stat. 960; Pub. L. 96–53, title I, §120, Aug. 14, 1979, 93 Stat. 365; Pub. L. 96–533, title VII, §709, Dec. 16, 1980, 94 Stat. 3159; Pub. L. 97–113, title VII, §706, Dec. 29, 1981, 95 Stat. 1545; Pub. L. 99–83, title IV, §406, Aug. 8, 1985, 99 Stat. 219; Pub. L. 99–529, title IV, §402, Oct. 24, 1986, 100 Stat. 3019.)
+(Pub. L. 87–195, pt. III, §667, as added Pub. L. 94–161, title III, §319, Dec. 20, 1975, 89 Stat. 868; amended Pub. L. 95–88, title I, §129(a), Aug. 3, 1977, 91 Stat. 543; Pub. L. 95–424, title V, §506, Oct. 6, 1978, 92 Stat. 960; Pub. L. 96–53, title I, §120, Aug. 14, 1979, 93 Stat. 365; Pub. L. 96–533, title VII, §709, Dec. 16, 1980, 94 Stat. 3159; Pub. L.97–113, title VII, §706, Dec. 29, 1981, 95 Stat. 1545; Pub. L. 99–83, title IV, §406, Aug. 8, 1985, 99 Stat. 219; Pub. L. 99–529, title IV, §402, Oct. 24, 1986, 100 Stat. 3019.)
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
 

@@ -24,7 +24,7 @@ Model data elements.—The Secretary, in consultation with States and other appr
 
 &emsp;(3)
 
-Maintenance of effort.—No grant may be made to a State under this section in any fiscal year unless the State enters into such agreements with the Secretary as the Secretary may require to ensure that the State will maintain its aggregate expenditures from all other sources for highway safety data programs at or above the average level of such expenditures in its 2 fiscal years preceding the date of enactment of the Transportation Equity Act for the 21st Century.
+Maintenance of effort.—No grant may be made to a State under this section in anyfiscal year unless the State enters into such agreements with the Secretary as the Secretary may require to ensure that the State will maintain its aggregate expenditures from all other sources for highway safety data programs at or above the average level of such expenditures in its 2 fiscal years preceding the date of enactment of the Transportation Equity Act for the 21st Century.
 
 &emsp;(4)
 
@@ -98,7 +98,7 @@ Succeeding Year Grants.—
 
 &emsp;(1)
 
-Eligibility.—A State shall be eligible for a grant under this subsection in a fiscal yearsucceeding the first fiscal year in which the State receives a grant under subsection (b) if the State, to the satisfaction of the Secretary—
+Eligibility.—A State shall be eligible for a grant under this subsection in a fiscal year succeeding the first fiscal year in which the State receives a grant under subsection (b) if the State, to the satisfaction of the Secretary—
 
 &emsp;&emsp;(A) submits or updates a multiyear highway safety data and traffic records strategic plan that meets the requirements of subsection (b)(1);
 

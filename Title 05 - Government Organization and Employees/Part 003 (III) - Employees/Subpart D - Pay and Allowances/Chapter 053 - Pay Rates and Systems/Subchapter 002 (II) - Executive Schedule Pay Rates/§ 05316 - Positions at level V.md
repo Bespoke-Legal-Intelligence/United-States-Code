@@ -150,7 +150,7 @@ Level V of the Executive Schedule applies to the following positions, for which 
 
 &emsp;Commissioner, Administration on Children, Youth, and Families.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 463; Pub. L. 89–670, §10(d)(5), (e), Oct. 15, 1966, 80 Stat. 948; Pub. L. 89–734, §1(2), Nov. 2, 1966, 80 Stat. 1163; Pub. L. 89–779, §8(c)(2), Nov. 6, 1966, 80 Stat. 1364; Pub. L. 90–9, §6, Apr. 10, 1967, 81 Stat. 12; Pub. L. 90–83, §1(16), Sept. 11, 1967, 81 Stat. 198; Pub. L. 90–206, title II, §215(c), Dec. 16, 1967, 81 Stat. 638; Pub. L. 90–351, title I, §506, June 19, 1968, 82 Stat. 205; Pub. L. 90–407, §15(a)(3), July 18, 1968, 82 Stat. 367; Pub. L. 90–623, §1(4), (5), Oct. 22, 1968, 82 Stat. 1312; Pub. L. 91–175, pt. V, §503(3), Dec. 30, 1969, 83 Stat. 826; Pub. L. 91–375, §6(c)(15), Aug. 12, 1970, 84 Stat. 776; Pub. L. 91–453, §12, Oct. 15, 1970, 84 Stat. 968; Pub. L. 91–644, title I, §7(2), Jan. 2, 1971, 84 Stat. 1887; Pub. L. 92–22, §3, June 1, 1971, 85 Stat. 76; Pub. L. 92–255, title II, §212(c), Mar. 21, 1972, 86 Stat. 69; Pub. L. 92–261, §9(c), (d), Mar. 24, 1972, 86 Stat. 110; Pub. L. 92–302, §2(d), May 18, 1972, 86 Stat. 149; Pub. L. 92–603, title IV, §404(a), Oct. 30, 1972, 86 Stat. 1488; Pub. L. 93–43, §2(c), June 18, 1973, 87 Stat. 78; Pub. L. 93–74, §8, July 23, 1973, 87 Stat. 175; Pub. L. 90–351, title I, §506(b), as added Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 211; Pub. L. 93–271, §2, Apr. 22, 1974, 88 Stat. 92; Pub. L. 93–126, §9(c), as added Pub. L. 93–312, §9, June 8, 1974, 88 Stat. 238; Pub. L. 93–383, title VIII, §818(b), Aug. 22, 1974, 88 Stat. 740; Pub. L. 93–438, title III, §310(4), Oct. 11, 1974, 88 Stat. 1253; Pub. L. 93–463, title I, §102(c), Oct. 23, 1974, 88 Stat. 1392; Pub. L. 93–618, title I, §172(c)(3), Jan. 3, 1975, 88 Stat. 2010; Pub. L. 94–82, title II, §202(b)(5), Aug. 9, 1975, 89 Stat. 420; Pub. L. 94–183, §2(19), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 94–237, §4(c)(6), Mar. 19, 1976, 90 Stat. 244; Pub. L. 94–307, §7, June 4, 1976, 90 Stat. 681; Pub. L. 94–370, §15(b), July 26, 1976, 90 Stat. 1032; Pub. L. 94–422, title II, §202, Sept. 28, 1976, 90 Stat. 1323; Pub. L. 94–503, title II, §202(c), Oct. 15, 1976, 90 Stat. 2427; Pub. L. 94–561, §3(b), Oct. 19, 1976, 90 Stat. 2643; Pub. L. 94–582, §26, Oct. 21, 1976, 90 Stat. 2889; Pub. L. 95–89, title II, §209, Aug. 4, 1977, 91 Stat. 558; Pub. L. 95–91, title VII, §710(g), Aug. 4, 1977, 91 Stat. 609; Pub. L. 95–115, §3(a)(6), Oct. 3, 1977, 91 Stat. 1049; Pub. L. 95–219, §3(b), Dec. 28, 1977, 91 Stat. 1614; Pub. L. 95–452, §10(b), Oct. 12, 1978, 92 Stat. 1108; Pub. L. 95–454, title II, §§201(b)(3), 202(c)(4), title VII, §703(e), Oct. 13, 1978, 92 Stat. 1121, 1131, 1217; Pub. L. 95–521, title IV, §406, Oct. 26, 1978, 92 Stat. 1864; Pub. L. 96–53, title IV, §412(c), Aug. 14, 1979, 93 Stat. 377; Pub. L. 96–54, §2(a)(25)(A), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–70, title III, §3302(e)(11), Sept. 27, 1979, 93 Stat. 499; Pub. L. 96–88, title V, §508(f), (g), Oct. 17, 1979, 93 Stat. 692; Pub. L. 96–107, title VIII, §820(e)(2), Nov. 9, 1979, 93 Stat. 819; Pub. L. 96–209, title I, §109, Mar. 14, 1980, 94 Stat. 97; Pub. L. 96–466, title V, §504(d), Oct. 17, 1980, 94 Stat. 2203; Pub. L. 97–31, §12(1)(C), Aug. 6, 1981, 95 Stat. 153; Pub. L. 97–113, title VII, §705(b)(3), Dec. 29, 1981, 95 Stat. 1545; Pub. L. 97–258, §2(a), Sept. 13, 1982, 96 Stat. 1052; Pub. L. 97–325, §8(c), Oct. 15, 1982, 96 Stat. 1605; Pub. L. 97–449, §3(4), (5), Jan. 12, 1983, 96 Stat. 2441; Pub. L. 98–557, §26(b), Oct. 30, 1984, 98 Stat. 2873; Pub. L. 99–73, §6(b)(2), July 29, 1985, 99 Stat. 173; Pub. L. 99–93, title VII, §704(a)(3), Aug. 16, 1985, 99 Stat. 446; Pub. L. 99–145, title XII, §1204(c), Nov. 8, 1985, 99 Stat. 721; Pub. L. 99–383, §7(b)(2), Aug. 21, 1986, 100 Stat. 814; Pub. L. 99–619, §2(c)(2), (d), Nov. 6, 1986, 100 Stat. 3491; Pub. L. 99–659, title IV, §407(e)(3), Nov. 14, 1986, 100 Stat. 3740; Pub. L. 100–180, div. A, title XII, §1245(c), Dec. 4, 1987, 101 Stat. 1165; Pub. L. 100–504, title I, §103(b), Oct. 18, 1988, 102 Stat. 2522; Pub. L. 100–527, §13(g), Oct. 25, 1988, 102 Stat. 2643; Pub. L. 100–598, §8, Nov. 3, 1988, 102 Stat. 3035; Pub. L. 100–607, title V, §503(b)(1), Nov. 4, 1988, 102 Stat. 3121; Pub. L. 100–690, title VII, §7252(b)(4), Nov. 18, 1988, 102 Stat. 4436; Pub. L. 100–713, title VI, §601(d), Nov. 23, 1988, 102 Stat. 4826; Pub. L. 101–319, §§3(b), 4, July 3, 1990, 104 Stat. 290, 291; Pub. L. 101–501, title IX, §915(b)(1)(B), Nov. 3, 1990, 104 Stat. 1263; Pub. L. 101–509, title V, §529 \[title I, §113(1)\], Nov. 5, 1990, 104 Stat. 1427, 1455; Pub. L. 102–190, div. A, title IX, §903(a)(2), div. C, title XXXV, §3504(b), Dec. 5, 1991, 105 Stat. 1451, 1586; Pub. L. 102–240, title III, §3004(d)(2), title VI, §6006(d), Dec. 18, 1991, 105 Stat. 2088, 2174; Pub. L. 102–359, §2(b)(2), Aug. 26, 1992, 106 Stat. 962; Pub. L.103–123, title I, §108(a)(1), Oct. 28, 1993, 107 Stat. 1234; Pub. L. 103–333, title I, §106, Sept. 30, 1994, 108 Stat. 2549; Pub. L. 103–354, title II, §294, Oct. 13, 1994, 108 Stat. 3237; Pub. L. 104–106, div. A, title IX, §904(b)(2), Feb. 10, 1996, 110 Stat. 403; Pub. L. 104–201, div. A, title X, §1073(e)(1)(A), Sept. 23, 1996, 110 Stat. 2658; Pub. L. 105–85, div. A, title X, §1073(e)(2), Nov. 18, 1997, 111 Stat. 1906; Pub. L. 105–277, div. G, subdiv. A, title XII, §1224(4), title XIII, §1332(3), Oct. 21, 1998, 112 Stat. 2681–772, 2681–785; Pub. L. 105–393, title I, §103, Nov. 13, 1998, 112 Stat. 3617; Pub. L. 106–44, §2(b), Aug. 5, 1999, 113 Stat. 223; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(4)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 106–159, title I, §101(d)(2), Dec. 9, 1999, 113 Stat. 1751; Pub. L. 107–171, title X, §10702(c)(2), May 13, 2002, 116 Stat. 517; Pub. L. 108–426, §3(c), Nov. 30, 2004, 118 Stat. 2425; Pub. L. 109–313, §2(b), Oct. 6, 2006, 120 Stat. 1734; Pub. L. 111–383, div. A, title IX, §901(n)(2)(B), (3), Jan. 7, 2011, 124 Stat. 4327.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 463; Pub. L. 89–670, §10(d)(5), (e), Oct. 15, 1966, 80 Stat. 948; Pub. L. 89–734, §1(2), Nov. 2, 1966, 80 Stat. 1163; Pub. L. 89–779, §8(c)(2), Nov. 6, 1966, 80 Stat. 1364; Pub. L. 90–9, §6, Apr. 10, 1967, 81 Stat. 12; Pub. L. 90–83, §1(16), Sept. 11, 1967, 81 Stat. 198; Pub. L. 90–206, title II, §215(c), Dec. 16, 1967, 81 Stat. 638; Pub. L. 90–351, title I, §506, June 19, 1968, 82 Stat. 205; Pub. L. 90–407, §15(a)(3), July 18, 1968, 82 Stat. 367; Pub. L. 90–623, §1(4), (5), Oct. 22, 1968, 82 Stat. 1312; Pub. L. 91–175, pt. V, §503(3), Dec. 30, 1969, 83 Stat. 826; Pub. L. 91–375, §6(c)(15), Aug. 12, 1970, 84 Stat. 776; Pub. L. 91–453, §12, Oct. 15, 1970, 84 Stat. 968; Pub. L. 91–644, title I, §7(2), Jan. 2, 1971, 84 Stat. 1887; Pub. L. 92–22, §3, June 1, 1971, 85 Stat. 76; Pub. L. 92–255, title II, §212(c), Mar. 21, 1972, 86 Stat. 69; Pub. L. 92–261, §9(c), (d), Mar. 24, 1972, 86 Stat. 110; Pub. L. 92–302, §2(d), May 18, 1972, 86 Stat. 149; Pub. L. 92–603, title IV, §404(a), Oct. 30, 1972, 86 Stat. 1488; Pub. L. 93–43, §2(c), June 18, 1973, 87 Stat. 78; Pub. L. 93–74, §8, July 23, 1973, 87 Stat. 175; Pub. L. 90–351, title I, §506(b), as added Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 211; Pub. L. 93–271, §2, Apr. 22, 1974, 88 Stat. 92; Pub. L. 93–126, §9(c), as added Pub. L. 93–312, §9, June 8, 1974, 88 Stat. 238; Pub. L. 93–383, title VIII, §818(b), Aug. 22, 1974, 88 Stat. 740; Pub. L. 93–438, title III, §310(4), Oct. 11, 1974, 88 Stat. 1253; Pub. L. 93–463, title I, §102(c), Oct. 23, 1974, 88 Stat. 1392; Pub. L. 93–618, title I, §172(c)(3), Jan. 3, 1975, 88 Stat. 2010; Pub. L. 94–82, title II, §202(b)(5), Aug. 9, 1975, 89 Stat. 420; Pub. L. 94–183, §2(19), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 94–237, §4(c)(6), Mar. 19, 1976, 90 Stat. 244; Pub. L. 94–307, §7, June 4, 1976, 90 Stat. 681; Pub. L. 94–370, §15(b), July 26, 1976, 90 Stat. 1032; Pub. L. 94–422, title II, §202, Sept. 28, 1976, 90 Stat. 1323; Pub. L. 94–503, title II, §202(c), Oct. 15, 1976, 90 Stat. 2427; Pub. L. 94–561, §3(b), Oct. 19, 1976, 90 Stat. 2643; Pub. L. 94–582, §26, Oct. 21, 1976, 90 Stat. 2889; Pub. L. 95–89, title II, §209, Aug. 4, 1977, 91 Stat. 558; Pub. L. 95–91, title VII, §710(g), Aug. 4, 1977, 91 Stat. 609; Pub. L. 95–115, §3(a)(6), Oct. 3, 1977, 91 Stat. 1049; Pub. L. 95–219, §3(b), Dec. 28, 1977, 91 Stat. 1614; Pub. L. 95–452, §10(b), Oct. 12, 1978, 92 Stat. 1108; Pub. L. 95–454, title II, §§201(b)(3), 202(c)(4), title VII, §703(e), Oct. 13, 1978, 92 Stat. 1121, 1131, 1217; Pub. L. 95–521, title IV, §406, Oct. 26, 1978, 92 Stat. 1864; Pub. L. 96–53, title IV, §412(c), Aug. 14, 1979, 93 Stat. 377; Pub. L. 96–54, §2(a)(25)(A), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–70, title III, §3302(e)(11), Sept. 27, 1979, 93 Stat. 499; Pub. L. 96–88, title V, §508(f), (g), Oct. 17, 1979, 93 Stat. 692; Pub. L. 96–107, title VIII, §820(e)(2), Nov. 9, 1979, 93 Stat. 819; Pub. L. 96–209, title I, §109, Mar. 14, 1980, 94 Stat. 97; Pub. L. 96–466, title V, §504(d), Oct. 17, 1980, 94 Stat. 2203; Pub. L. 97–31, §12(1)(C), Aug. 6, 1981, 95 Stat. 153; Pub. L. 97–113, title VII, §705(b)(3), Dec. 29, 1981, 95 Stat. 1545; Pub. L. 97–258, §2(a), Sept. 13, 1982, 96 Stat. 1052; Pub. L. 97–325, §8(c), Oct. 15, 1982, 96 Stat. 1605; Pub. L. 97–449, §3(4), (5), Jan. 12, 1983, 96 Stat. 2441; Pub. L. 98–557, §26(b), Oct. 30, 1984, 98 Stat. 2873; Pub. L. 99–73, §6(b)(2), July 29, 1985, 99 Stat. 173; Pub. L. 99–93, title VII, §704(a)(3), Aug. 16, 1985, 99 Stat. 446; Pub. L. 99–145, title XII, §1204(c), Nov. 8, 1985, 99 Stat. 721; Pub. L. 99–383, §7(b)(2), Aug. 21, 1986, 100 Stat. 814; Pub. L. 99–619, §2(c)(2), (d), Nov. 6, 1986, 100 Stat. 3491; Pub. L. 99–659, title IV, §407(e)(3), Nov. 14, 1986, 100 Stat. 3740; Pub. L. 100–180, div. A, title XII, §1245(c), Dec. 4, 1987, 101 Stat. 1165; Pub. L. 100–504, title I, §103(b), Oct. 18, 1988, 102 Stat. 2522; Pub. L. 100–527, §13(g), Oct. 25, 1988, 102 Stat. 2643; Pub. L. 100–598, §8, Nov. 3, 1988, 102 Stat. 3035; Pub. L. 100–607, title V, §503(b)(1), Nov. 4, 1988, 102 Stat. 3121; Pub. L. 100–690, title VII, §7252(b)(4), Nov. 18, 1988, 102 Stat. 4436; Pub. L. 100–713, title VI, §601(d), Nov. 23, 1988, 102 Stat. 4826; Pub. L. 101–319, §§3(b), 4, July 3, 1990, 104 Stat. 290, 291; Pub. L. 101–501, title IX, §915(b)(1)(B), Nov. 3, 1990, 104 Stat. 1263; Pub. L. 101–509, title V, §529 \[title I, §113(1)\], Nov. 5, 1990, 104 Stat. 1427, 1455; Pub. L. 102–190, div. A, title IX, §903(a)(2), div. C, title XXXV, §3504(b), Dec. 5, 1991, 105 Stat. 1451, 1586; Pub. L. 102–240, title III, §3004(d)(2), title VI, §6006(d), Dec. 18, 1991, 105 Stat. 2088, 2174; Pub. L. 102–359, §2(b)(2), Aug. 26, 1992, 106 Stat. 962; Pub. L. 103–123, title I, §108(a)(1), Oct. 28, 1993, 107 Stat. 1234; Pub. L. 103–333, title I, §106, Sept. 30, 1994, 108 Stat. 2549; Pub. L. 103–354, title II, §294, Oct. 13, 1994, 108 Stat. 3237; Pub. L. 104–106, div. A, title IX, §904(b)(2), Feb. 10, 1996, 110 Stat. 403; Pub. L. 104–201, div. A, title X, §1073(e)(1)(A), Sept. 23, 1996, 110 Stat. 2658; Pub. L. 105–85, div. A, title X, §1073(e)(2), Nov. 18, 1997, 111 Stat. 1906; Pub. L. 105–277, div. G, subdiv. A, title XII, §1224(4), title XIII, §1332(3), Oct. 21, 1998, 112 Stat. 2681–772, 2681–785; Pub. L. 105–393, title I, §103, Nov. 13, 1998, 112 Stat. 3617; Pub. L. 106–44, §2(b), Aug. 5, 1999, 113 Stat. 223; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(4)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 106–159, title I, §101(d)(2), Dec. 9, 1999, 113 Stat. 1751; Pub. L. 107–171, title X, §10702(c)(2), May 13, 2002, 116 Stat. 517; Pub. L. 108–426, §3(c), Nov. 30, 2004, 118 Stat. 2425; Pub. L. 109–313, §2(b), Oct. 6, 2006, 120 Stat. 1734; Pub. L. 111–383, div. A, title IX, §901(n)(2)(B), (3), Jan. 7, 2011, 124 Stat. 4327.)
 
 Historical and Revision Notes<br>1966
 
@@ -254,43 +254,43 @@ The paragraph designations for the positions added by Pub. L. 96–88 have been 
 
 #### Amendments
 
-2011—Pub. L. 111–383, §901(n)(3), struck out items relating to Director, Defense Advanced Research Projects Agency, Department of Defense, Deputy General Counsel, Department of Defense, Deputy Under Secretaries of Defense for Research and Engineering, Department of Defense, and Special Assistant to the Secretary of Defense.
+<b>2011</b>—Pub. L. 111–383, §901(n)(3), struck out items relating to Director, Defense Advanced Research Projects Agency, Department of Defense, Deputy General Counsel, Department of Defense, Deputy Under Secretaries of Defense for Research and Engineering, Department of Defense, and Special Assistant to the Secretary of Defense.
 
 Pub. L. 111–383, §901(n)(2)(B), struck out item relating to Assistant to the Secretary of Defense for Nuclear and Chemical and Biological Defense Programs, Department of Defense.
 
-2006—Pub. L. 109–313 substituted “Commissioner, Federal Acquisition Service, General Services Administration” for “Commissioner, Federal Supply Service, General Services Administration”.
+<b>2006</b>—Pub. L. 109–313 substituted “Commissioner, Federal Acquisition Service, General Services Administration” for “Commissioner, Federal Supply Service, General Services Administration”.
 
-2004—Pub. L. 108–426 struck out item relating to Director, Bureau of Transportation Statistics.
+<b>2004</b>—Pub. L. 108–426 struck out item relating to Director, Bureau of Transportation Statistics.
 
-2002—Pub. L. 107–171 struck out items relating to General Counsel, Commodity Futures Trading Commission and Executive Director, Commodity Futures Trading Commission.
+<b>2002</b>—Pub. L. 107–171 struck out items relating to General Counsel, Commodity Futures Trading Commission and Executive Director, Commodity Futures Trading Commission.
 
-1999—Pub. L. 106–159 inserted items relating to Deputy Administrator of the Federal Motor Carrier Safety Administration and Assistant Federal Motor Carrier Safety Administrator.
+<b>1999</b>—Pub. L. 106–159 inserted items relating to Deputy Administrator of the Federal Motor Carrier Safety Administration and Assistant Federal Motor Carrier Safety Administrator.
 
 Pub. L. 106–113 which directed amendment of this section by striking out items relating to Commissioner of Patents, Department of Commerce, Deputy Commissioner of Patents and Trademarks, Assistant Commissioner for Patents, and Assistant Commissioner for Trademarks, was executed by striking out items relating to Deputy Commissioner of Patents and Trademarks, Assistant Commissioner for Patents, and Assistant Commissioner for Trademarks to reflect the probable intent of Congress and the intervening amendment by Pub. L. 106–44, §2(b), which struck out item relating to Commissioner of Patents, Department of Commerce. See below.
 
 Pub. L. 106–44 struck out item relating to Commissioner of Patents, Department of Commerce.
 
-1998—Pub. L. 105–393 struck out item relating to Administrator for Economic Development.
+<b>1998</b>—Pub. L. 105–393 struck out item relating to Administrator for Economic Development.
 
 Pub. L. 105–277, §1332(3), struck out items relating to Deputy Director, Policy and Plans, United States Information Agency, and Associate Director (Policy and Plans), United States Information Agency.
 
 Pub. L. 105–277, §1224(4), struck out item relating to General Counsel of the United States Arms Control and Disarmament Agency.
 
-1997—Pub. L. 105–85 substituted “Nuclear and Chemical and Biological Defense Programs” for “Atomic Energy”.
+<b>1997</b>—Pub. L. 105–85 substituted “Nuclear and Chemical and Biological Defense Programs” for “Atomic Energy”.
 
-1996—Pub. L. 104–201 inserted “Defense” before “Advanced Research Projects Agency”.
+<b>1996</b>—Pub. L. 104–201 inserted “Defense” before “Advanced Research Projects Agency”.
 
 Pub. L. 104–106, which directed amendment of section by substituting “Assistant to the Secretary of Defense for Nuclear and Chemical and Biological Defense Programs, Department of Defense.” for “The Assistant to the Secretary of Defense for Atomic Energy, Department of Defense.”, could not be executed because the words to be substituted for did not appear.
 
-1994—Pub. L. 103–354 struck out following items relating to Department of Agriculture: Administrator, Agricultural Marketing Service, Administrator, Agricultural Research Service, Administrator, Agricultural Stabilization and Conservation Service, Administrator, Farmers Home Administration, Administrator, Foreign Agricultural Service, Administrator, Rural Electrification Administration, Administrator, Soil Conservation Service, Chief Forester of the Forest Service, Director of Science and Education, Administrator, Animal and Plant Health Inspection Service, and Administrator, Federal Grain Inspection Service.
+<b>1994</b>—Pub. L. 103–354 struck out following items relating to Department of Agriculture: Administrator, Agricultural Marketing Service, Administrator, Agricultural Research Service, Administrator, Agricultural Stabilization and Conservation Service, Administrator, Farmers Home Administration, Administrator, Foreign Agricultural Service, Administrator, Rural Electrification Administration, Administrator, Soil Conservation Service, Chief Forester of the Forest Service, Director of Science and Education, Administrator, Animal and Plant Health Inspection Service, and Administrator, Federal Grain Inspection Service.
 
 Pub. L. 103–333 struck out item relating to Commissioner of Labor Statistics, Department of Labor.
 
-1993—Pub. L. 103–123 struck out item relating to Commissioner of Customs, Department of the Treasury.
+<b>1993</b>—Pub. L. 103–123 struck out item relating to Commissioner of Customs, Department of the Treasury.
 
-1992—Pub. L. 102–359 struck out item relating to Additional Officers, Department of Education.
+<b>1992</b>—Pub. L. 102–359 struck out item relating to Additional Officers, Department of Education.
 
-1991—Pub. L. 102–240, §6006(d), inserted item relating to Director, Bureau of Transportation Statistics.
+<b>1991</b>—Pub. L. 102–240, §6006(d), inserted item relating to Director, Bureau of Transportation Statistics.
 
 Pub. L. 102–240, §3004(d)(2), substituted “Deputy Administrator, Federal Transit Administration” for “Deputy Administrator, Urban Mass Transportation Administration”.
 
@@ -298,7 +298,7 @@ Pub. L. 102–190, §3504(b), struck out item relating to Administrator of the P
 
 Pub. L. 102–190, §903(a)(2), struck out items relating to General Counsels of the Departments of the Air Force, Army, and Navy.
 
-1990—Pub. L. 101–509 struck out item relating to Director, Bureau of the Census, Department of Commerce.
+<b>1990</b>—Pub. L. 101–509 struck out item relating to Director, Bureau of the Census, Department of Commerce.
 
 Pub. L. 101–501 inserted item relating to Commissioner, Administration on Children, Youth, and Families.
 
@@ -306,7 +306,7 @@ Pub. L. 101–319, §4, inserted items relating to Deputy Commissioner of Patent
 
 Pub. L. 101–319, §3(b), inserted item relating to Commissioners, United States Parole Commission.
 
-1988—Pub. L. 100–713 inserted item relating to Director, Indian Health Service, Department of Health and Human Services.
+<b>1988</b>—Pub. L. 100–713 inserted item relating to Director, Indian Health Service, Department of Health and Human Services.
 
 Pub. L. 100–690 struck out item relating to Associate Administrator, Office of Juvenile Justice and Delinquency Prevention of Law Enforcement Assistance Administration.
 
@@ -318,9 +318,9 @@ Pub. L. 100–527 struck out items relating to Associate Deputy Administrator of
 
 Pub. L. 100–504 struck out items relating to Inspectors General for Departments of Commerce and Interior and for Agency for International Development, Community Services Administration, Environmental Protection Agency, General Services Administration, National Aeronautics and Space Administration, and Small Business Administration and relating to Deputy Inspectors General for Departments of Energy and Health and Human Services.
 
-1987—Pub. L. 100–180 substituted “Assistant to the Secretary of Defense for Atomic Energy, Department of Defense” for “Chairman of the Military Liaison Committee to the Atomic Energy Commission, Department of Defense”.
+<b>1987</b>—Pub. L. 100–180 substituted “Assistant to the Secretary of Defense for Atomic Energy, Department of Defense” for “Chairman of the Military Liaison Committee to the Atomic Energy Commission, Department of Defense”.
 
-1986—Pub. L. 99–659 inserted item relating to Chief Scientist, National Oceanic and Atmospheric Administration.
+<b>1986</b>—Pub. L. 99–659 inserted item relating to Chief Scientist, National Oceanic and Atmospheric Administration.
 
 Pub. L. 99–619, §2(c)(2), struck out item relating to Assistant Secretary of Labor for Administration.
 
@@ -328,33 +328,33 @@ Pub. L. 99–619, §2(d), struck out item relating to Assistant Secretary of Lab
 
 Pub. L. 99–383 struck out item relating to Assistant Directors, National Science Foundation (4).
 
-1985—Pub. L. 99–145 struck out item relating to Administrator of Education for Overseas Dependents, Department of Education.
+<b>1985</b>—Pub. L. 99–145 struck out item relating to Administrator of Education for Overseas Dependents, Department of Education.
 
 Pub. L. 99–93 struck out item relating to Assistant Directors, United States Arms Control and Disarmament Agency (4).
 
 Pub. L. 99–73 struck out item relating to Director, National Bureau of Standards, Department of Commerce.
 
-1984—Pub. L. 98–557 inserted item relating to Associate Deputy Secretary, Department of Transportation.
+<b>1984</b>—Pub. L. 98–557 inserted item relating to Associate Deputy Secretary, Department of Transportation.
 
-1983—Pub. L. 97–449, §3(4), substituted “Assistant Federal Highway Administrator” for “Director, National Highway Safety Bureau”.
+<b>1983</b>—Pub. L. 97–449, §3(4), substituted “Assistant Federal Highway Administrator” for “Director, National Highway Safety Bureau”.
 
 Pub. L. 97–449, §3(5), substituted “Deputy Administrator of the National Highway Traffic Safety Administration” for “Director, National Traffic Safety Bureau”.
 
-1982—Pub. L. 97–325 struck out item relating to Assistant Secretary of Agriculture for Administration.
+<b>1982</b>—Pub. L. 97–325 struck out item relating to Assistant Secretary of Agriculture for Administration.
 
 Pub. L. 97–258 inserted item relating to Additional officers, Office of Management and Budget (6).
 
-1981—Pub. L. 97–113 substituted “Inspector General, Agency for International Development” for “Auditor General of the Agency for International Development”.
+<b>1981</b>—Pub. L. 97–113 substituted “Inspector General, Agency for International Development” for “Auditor General of the Agency for International Development”.
 
 Pub. L. 97–31 purported to strike out “Maritime Administration, Department of Commerce” which was executed by striking out “Maritime Administrator, Department of Commerce.” as the probable intent of Congress.
 
-1980—Pub. L. 96–466 inserted item relating to Assistant Secretary of Labor for Veterans’ Employment.
+<b>1980</b>—Pub. L. 96–466 inserted item relating to Assistant Secretary of Labor for Veterans’ Employment.
 
 Pub. L. 96–209, §109(1), which provided for striking out par. (31) and inserting in lieu thereof “(31) Chairman, Foreign Claims Settlement Commission of the United States, Department of Justice.” was executed by striking out the item relating to the Chairman, Foreign Claims Settlement Commission of the United States which was designated par. (31) prior to amendment of this section by Pub. L. 96–54 and inserting the item relating to the Chairman, Foreign Claims Settlement Commission of the United States, Department of Justice. See 1979 Amendment note below.
 
 Pub. L. 96–209, §109(2), which provided for striking out par. (90) was executed by striking out item relating to Members, Foreign Claims Settlement Commission of United States which was designated par. (90) prior to amendment of this section by Pub. L. 96–54. See 1979 Amendment note below.
 
-1979—Pub. L. 96–88, §508(f)(1), which provided for striking out par. (41) was executed by striking out item relating to Commissioner of Education, Department of Health, Education, and Welfare which was designated par. (41) prior to amendment of this section by Pub. L. 96–54. See 1979 Amendment note below.
+<b>1979</b>—Pub. L. 96–88, §508(f)(1), which provided for striking out par. (41) was executed by striking out item relating to Commissioner of Education, Department of Health, Education, and Welfare which was designated par. (41) prior to amendment of this section by Pub. L. 96–54. See 1979 Amendment note below.
 
 Pub. L. 96–88, §508(g), substituted “Health and Human Services” for “Health, Education, and Welfare” in items relating to the Assistant Secretary of Health and Human Services for Administration, the Commissioner of Food and Drugs, the Commissioner of Vocational Rehabilitation, the Commissioner of Welfare, and the Deputy Inspector General of the Department of Health and Human Services.
 
@@ -368,7 +368,7 @@ Par. (96). Pub. L. 96–107 substituted “Deputy Under Secretaries of Defense f
 
 Par. (152). Pub. L. 96–53 added par. (152) relating to two additional officers in Institute for Scientific and Technological Cooperation.
 
-1978—Par. (99). Pub. L. 95–454, §202(c)(4), struck out par. (99) relating to Executive Director of United States Civil Service Commission.
+<b>1978</b>—Par. (99). Pub. L. 95–454, §202(c)(4), struck out par. (99) relating to Executive Director of United States Civil Service Commission.
 
 Par. (122). Pub. L. 95–454, §201(b)(3), added par. (122) relating to five Associate Directors of Office of Personnel Management.
 
@@ -384,7 +384,7 @@ Pub. L. 95–452 added par. (146) relating to Inspector General, Department of t
 
 Pars. (147) to (151). Pub. L. 95–452 added pars. (147) to (151) relating to Inspector General, Community Services Administration, Inspector General, Environmental Protection Agency, Inspector General, General Services Administration, Inspector General, National Aeronautics and Space Administration, and Inspector General, Small Business Administration, respectively.
 
-1977—Par. (11). Pub. L. 95–89 substituted “(4)” for “(3)” in par. (11) relating to Associate Administrators of the Small Business Administration.
+<b>1977</b>—Par. (11). Pub. L. 95–89 substituted “(4)” for “(3)” in par. (11) relating to Associate Administrators of the Small Business Administration.
 
 Par. (135). Pub. L. 95–91 substituted “Deputy Inspector General, Department of Energy” for “General Counsel, Energy Research and Development Administration”, covered in section 5315 by item relating to General Counsel of the Department of Energy.
 
@@ -398,7 +398,7 @@ Pub. L. 95–115 added par. (141) relating to Associate Administrator Office of 
 
 Pars. (142), (143). Pub. L. 95–219 added pars. (142) and (143) relating to three Assistant Administrators, National Oceanic and Atmospheric Administration and General Counsel, National Oceanic and Atmospheric Administration, respectively.
 
-1976—Par. (15). Pub. L. 94–307 substituted “(7)” for “(6)” in par. (15) relating to Associate Administrators, National Aeronautics and Space Administration.
+<b>1976</b>—Par. (15). Pub. L. 94–307 substituted “(7)” for “(6)” in par. (15) relating to Associate Administrators, National Aeronautics and Space Administration.
 
 Par. (44). Pub. L. 94–503 struck out par. (44) relating to Commissioner of Immigration and Naturalization, Department of Justice.
 
@@ -420,13 +420,13 @@ Pub. L. 94–561 added par. (137) relating to Administrator, Animal and Plant He
 
 Par. (140). Pub. L. 94–370 added par. (140) relating to Associate Administrator for Coastal Zone Management, National Oceanic and Atmospheric Administration.
 
-1975—Pub. L. 94–82 substituted provisions applying level V of Executive Schedule to positions for which annual rate of basic pay shall be rate determined with respect to such level under chapter 11 of title 2, as adjusted by section 5318 of this title, for provisions applying such level V to positions for which annual rate of basic pay is $28,000.
+<b>1975</b>—Pub. L. 94–82 substituted provisions applying level V of Executive Schedule to positions for which annual rate of basic pay shall be rate determined with respect to such level under chapter 11 of title 2, as adjusted by section 5318 of this title, for provisions applying such level V to positions for which annual rate of basic pay is $28,000.
 
 Par. (93). Pub. L. 93–613 struck out par. (93) relating to Members, United States Tariff Commission.
 
 Pars. (134) to (139). Pub. L. 94–183 redesignated par. (133), Deputy Administrator for Administration of the Law Enforcement Assistance Administration, par. (134), General Counsel, Energy Research and Development Administration, par. (135), Additional officers, Energy Research and Development Administration (8), par. (135), General Counsel, Commodity Futures Trading Commission, par. (136), Additional officers, Nuclear Regulatory Commission (5), and par. (136), Executive Director, Commodity Futures Trading Commission, as pars. (134) to (139), respectively.
 
-1974—Par. (29). Pub. L. 93–438 struck out par. (29) relating to Assistant General Manager, Atomic Energy Commission.
+<b>1974</b>—Par. (29). Pub. L. 93–438 struck out par. (29) relating to Assistant General Manager, Atomic Energy Commission.
 
 Par. (42). Pub. L. 93–271, §2, substituted “Director, United States Fish and Wildlife” for “Commissioner of Fish and Wildlife”.
 
@@ -448,13 +448,13 @@ Pars. (135), (136), Pub. L. 93–463 added pars. (135) and (136) relating, respe
 
 Pub. L. 93–438 added pars. (135) and (136) relating, respectively, to additional officers, Nuclear Regulatory Commission, and additional officers, Energy Research and Development Administration.
 
-1973—Pars. (15) to (17). Pub. L. 93–74 added par. (15), Associate Administrators, National Aeronautics and Space Administration (6), and repealed provisions of former pars. (15) for an Associate Administrator for Advanced Research and Technology, (16) for Associate Administrator for Space Science and Applications, and (17) for Associate Administrator for Manned Space Flight, National Aeronautics and Space Administration.
+<b>1973</b>—Pars. (15) to (17). Pub. L. 93–74 added par. (15), Associate Administrators, National Aeronautics and Space Administration (6), and repealed provisions of former pars. (15) for an Associate Administrator for Advanced Research and Technology, (16) for Associate Administrator for Space Science and Applications, and (17) for Associate Administrator for Manned Space Flight, National Aeronautics and Space Administration.
 
 Pars. (131) to (133). Pub. L. 93–43 redesignated par. (131) relating to General Counsel of the Equal Employment Opportunity Commission as par. (132), and added par. (133) relating to Director, National Cemetery System.
 
 Par. (133). Pub. L. 93–83 added par. (133) relating to Deputy Administrator for Administration of the Law Enforcement Assistance Administration.
 
-1972—Pars. (28), (64). Pub. L. 92–302 struck out pars. (28) and (64) relating to an Assistant Secretary of theTreasury for Administration and a Deputy Under Secretary for Monetary Affairs, Department of the Treasury, respectively.
+<b>1972</b>—Pars. (28), (64). Pub. L. 92–302 struck out pars. (28) and (64) relating to an Assistant Secretary of the Treasury for Administration and a Deputy Under Secretary for Monetary Affairs, Department of the Treasury, respectively.
 
 Par. (51). Pub. L. 92–603 struck out par. (51) relating to Commissioner of Social Security, Department of Health, Education, and Welfare. See section 5315 of this title.
 
@@ -464,17 +464,17 @@ Par. (131). Pub. L. 92–261, §9(d), added par. (131) relating to General Couns
 
 Pub. L. 92–255 added par. (131) relating to Assistant Directors, Special Action Office for Drug Abuse Prevention.
 
-1971—Par. (25). Pub. L. 92–22 struck out position of Assistant Secretary of the Interior for Administration. See section 1453a of Title 43 and section 5315 of this title.
+<b>1971</b>—Par. (25). Pub. L. 92–22 struck out position of Assistant Secretary of the Interior for Administration. See section 1453a of Title 43 and section 5315 of this title.
 
 Par. (126). Pub. L. 91–644 struck out par. (126) relating to Associate Administrator of Law Enforcement Assistance (2). See section 5315 of this title.
 
-1970—Pars. (37), (60), (123). Pub. L. 91–375 struck out pars. (37), (60), and (123) relating to Chief Postal Inspector; Director, Research and Development; and Director, Construction Engineering, respectively.
+<b>1970</b>—Pars. (37), (60), (123). Pub. L. 91–375 struck out pars. (37), (60), and (123) relating to Chief Postal Inspector; Director, Research and Development; and Director, Construction Engineering, respectively.
 
 Par. (130). Pub. L. 91–453 added par. (130) relating to Deputy Administrator, Urban Mass Transportation Administration, Department of Transportation.
 
-1969—Pars. (128), (129). Pub. L. 91–175 added pars. (128) and (129) relating to Auditor-General of the Agency for International Development, and Vice Presidents, Overseas Private Investment Corporation (3), respectively.
+<b>1969</b>—Pars. (128), (129). Pub. L. 91–175 added pars. (128) and (129) relating to Auditor-General of the Agency for International Development, and Vice Presidents, Overseas Private Investment Corporation (3), respectively.
 
-1968—Par. (66). Pub. L. 90–407 substituted “Assistant Directors, National Science Foundation (4)” for “Deputy Director, National Science Foundation”.
+<b>1968</b>—Par. (66). Pub. L. 90–407 substituted “Assistant Directors, National Science Foundation (4)” for “Deputy Director, National Science Foundation”.
 
 Par. (126). Pub. L. 90–623, §1(4), inserted “(2)” at end of par. (126) relating to Associate Administrator of Law Enforcement Assistance.
 
@@ -482,11 +482,11 @@ Pub. L. 90–351 added par. (126) relating to Associate Administrator of Law Enf
 
 Par. (127). Pub. L. 90–623, §1(5), added par. (127) relating to Director, Bureau of Narcotics and Dangerous Drugs, Department of Justice.
 
-1967—Pub. L. 90–206 increased annual rate of basic pay from $26,000 to $28,000.
+<b>1967</b>—Pub. L. 90–206 increased annual rate of basic pay from $26,000 to $28,000.
 
 Pars. (46), (47). Pub. L. 90–9 struck out par. (46) relating to Chief Commissioner, Indian Claims Commission, and substituted “Commissioners, Indian Claims Commission (5)” for “Associate Commissioners, Indian Claims Commission (2)” in par. (47).
 
-1966—Pub. L. 89–779 substituted “Associate Administrators of the Small Business Administration (3)” for “Deputy Administrators of the Small Business Administration (4)” in par. (11).
+<b>1966</b>—Pub. L. 89–779 substituted “Associate Administrators of the Small Business Administration (3)” for “Deputy Administrators of the Small Business Administration (4)” in par. (11).
 
 Pub. L. 89–734 added par. (117) relating to Director, United States National Museum, Smithsonian Institution, and par. (118).
 
@@ -544,7 +544,7 @@ Amendment by Pub. L. 100–504 effective 180 days after Oct. 18, 1988, see secti
 
 #### Effective Date of 1986 Amendment
 
-Section 2(e) of Pub. L. 99–619 provided that: “Subsection (c) of this section \[amending this section andReorg. Plan No. 6 of 1950, set out in the Appendix to this title\] shall become effective on the day upon which the individual who is the incumbent of the position abolished by such subsection, as of the date of enactment \[Nov. 6, 1986\], ceases to hold the position.”
+Section 2(e) of Pub. L. 99–619 provided that: “Subsection (c) of this section \[amending this section and Reorg. Plan No. 6 of 1950, set out in the Appendix to this title\] shall become effective on the day upon which the individual who is the incumbent of the position abolished by such subsection, as of the date of enactment \[Nov. 6, 1986\], ceases to hold the position.”
 
 #### Effective Date of 1985 Amendment
 
@@ -562,7 +562,7 @@ Amendment by Pub. L. 96–209 effective Mar. 14, 1980, see title VI of Pub. L. 9
 
 #### Effective Date of 1979 Amendments
 
-Amendment by Pub. L. 96–88 effective May 4, 1980, with specified exceptions, see section 601 of Pub. L. 96–88, set out as an Effective Date note under section 3401 of Title 20, Education.
+Amendment by Pub. L. 96–88 effective May 4, 1980, with specified exceptions, see section 601 of Pub. L.96–88, set out as an Effective Date note under section 3401 of Title 20, Education.
 
 Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L. 96–70, set out as an Effective Date note under section 3601 of Title 22, Foreign Relations and Intercourse.
 
@@ -640,7 +640,7 @@ Indian Claims Commission terminated on Sept. 30, 1978, pursuant to Pub. L. 94–
 
 #### Commissioner of Patents
 
-Commissioner of Patents redesignated Commissioner of Patents and Trademarks by Pub. L. 93–596, §3, Jan. 2, 1975, 88 Stat. 1949, set out as a note under section 1 of Title 35, Patents.
+Commissioner of Patents redesignated Commissioner of Patents and Trademarks by Pub. L. 93–596, §3, Jan.2, 1975, 88 Stat. 1949, set out as a note under section 1 of Title 35, Patents.
 
 #### Administrator of Bonneville Power Administration
 

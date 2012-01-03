@@ -124,9 +124,13 @@ Salaries, operations, and maintenance.—There is authorized to be appropriated 
 
 &emsp;&emsp;(D) $8,064,000,000 for fiscal year 2007;
 
-&emsp;&emsp;(E) $9,042,467,000 for fiscal year 2009; and
+&emsp;&emsp;(E) $9,042,467,000 for fiscal year 2009;
 
-&emsp;&emsp;(F) $9,350,028,000 for fiscal year 2010.
+&emsp;&emsp;(F) $9,350,028,000 for fiscal year 2010;
+
+&emsp;&emsp;(G) $9,514,000,000 for fiscal year 2011; and
+
+&emsp;&emsp;(H) $3,197,315,080 for the period beginning on October 1, 2011, and ending on January 31, 2012.
 
 > &emsp;Such sums shall remain available until expended.
 
@@ -334,7 +338,7 @@ Ethical considerations.—
 
 &emsp;&emsp;&emsp;(i)
 
-Financial disclosure.—During the entire period that an individual is serving as a member of the Committee, such individual shall be treated as serving as an officer or employee referred to in section 101(f) of the Ethics in Government Act of 1978 for purposes of title I of such Act; except that section 101(d) of such Act shall apply without regard to the number of days of service in the position.
+Financial disclosure.—During the entire period that an individual is serving as a member of the Committee, such individual shall be treated as serving as an officer or employee referred to in section 101(f) of the Ethics in Government Act of 1978 for purposes of title I of such Act; except that section 101(d) of such Act shallapply without regard to the number of days of service in the position.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -632,7 +636,7 @@ Budget.—To—
 
 &emsp;&emsp;&emsp;(iii) ensure that the budget request supports the agency's annual and long-range strategic plans for air traffic control services.
 
-(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2416; Pub. L. 98–216, §2(2), Feb. 14, 1984, 98 Stat. 5; Pub. L. 100–591, §5(a), Nov. 3, 1988, 102 Stat. 3013; Pub. L. 101–508, title IX, §9106, Nov. 5, 1990, 104 Stat. 1388–355; Pub. L. 101–604, title I, §101(c), Nov. 16, 1990, 104 Stat. 3068; Pub. L. 102–581, title I, §104, Oct. 31, 1992, 106 Stat. 4877; Pub. L. 103–272, §§4(j)(3), 5(m)(4), July 5, 1994, 108 Stat. 1365, 1375; Pub. L. 103–305, title I, §103, title II, §201, Aug. 23, 1994, 108 Stat. 1571, 1581; Pub. L. 104–264, title I, §103(a), title II, §§223(a), 224–230, 276(c), title XII, §1210, Oct. 9, 1996, 110 Stat. 3216, 3229–3234, 3282; Pub. L. 104–287, §5(1), Oct. 11, 1996, 110 Stat. 3388; Pub. L. 105–102, §3(c)(3), Nov. 20, 1997, 111 Stat. 2215; Pub. L. 106–6, §4, Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–181, title I, §103(a), title III, §§302(a)–(c), 303, 305, 306, 307(c)(1), title VII, §701, Apr. 5, 2000, 114 Stat. 66, 115–118, 121, 123, 124, 126, 154; Pub. L. 106–528, §8(a), Nov. 22, 2000, 114 Stat. 2522; Pub. L. 107–71, title I, §101(c)(3), (d), Nov. 19, 2001, 115 Stat. 602, 603; Pub. L. 108–176, title I, §103(a),(b), title II, §§201–204, 224(c), Dec. 12, 2003, 117 Stat. 2495, 2496, 2522–2526, 2528; Pub. L. 110–330, §6, Sept. 30, 2008, 122 Stat. 3719; Pub. L. 111–12, §6, Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §6, Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–116, §6, Dec. 16, 2009, 123 Stat. 3032; Pub. L. 111–153, §6, Mar. 31, 2010, 124 Stat. 1085; Pub. L. 111–161, §6, Apr. 30, 2010, 124 Stat. 1127; Pub. L. 111–197, §6, July 2, 2010, 124 Stat. 1354; Pub. L. 111–216, title I, §105, Aug. 1, 2010, 124 Stat. 2350.)
+(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2416; Pub. L. 98–216, §2(2), Feb. 14, 1984, 98 Stat. 5; Pub. L. 100–591, §5(a), Nov. 3, 1988, 102 Stat. 3013; Pub. L. 101–508, title IX, §9106, Nov. 5, 1990, 104 Stat. 1388–355; Pub. L. 101–604, title I, §101(c), Nov. 16, 1990, 104 Stat. 3068; Pub. L. 102–581, title I, §104, Oct. 31, 1992, 106 Stat. 4877; Pub. L. 103–272, §§4(j)(3), 5(m)(4), July 5, 1994, 108 Stat. 1365, 1375; Pub. L. 103–305, title I, §103, title II, §201, Aug. 23, 1994, 108 Stat. 1571, 1581; Pub. L. 104–264, title I, §103(a), title II, §§223(a), 224–230, 276(c), title XII, §1210, Oct. 9, 1996, 110 Stat. 3216, 3229–3234, 3282; Pub. L. 104–287, §5(1), Oct. 11, 1996, 110 Stat. 3388; Pub. L. 105–102, §3(c)(3), Nov. 20, 1997, 111 Stat. 2215; Pub. L. 106–6, §4, Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–181, title I, §103(a), title III, §§302(a)–(c), 303, 305, 306, 307(c)(1), title VII, §701, Apr. 5, 2000, 114 Stat. 66, 115–118, 121, 123, 124, 126, 154; Pub. L. 106–528, §8(a), Nov. 22, 2000, 114 Stat. 2522; Pub. L. 107–71, title I, §101(c)(3), (d), Nov. 19, 2001, 115 Stat. 602, 603; Pub. L. 108–176, title I, §103(a),(b), title II, §§201–204, 224(c), Dec. 12, 2003, 117 Stat. 2495, 2496, 2522–2526, 2528; Pub. L. 110–330, §6, Sept. 30, 2008, 122 Stat. 3719; Pub. L. 111–12, §6, Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §6, Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–116, §6, Dec. 16, 2009, 123 Stat. 3032; Pub. L. 111–153, §6, Mar. 31, 2010, 124 Stat. 1085; Pub. L. 111–161, §6, Apr. 30, 2010, 124 Stat. 1127; Pub. L. 111–197, §6, July 2, 2010, 124 Stat. 1354; Pub. L. 111–216, title I, §105, Aug. 1, 2010, 124 Stat. 2350; Pub. L. 112–30, title II, §206, Sept. 16, 2011, 125 Stat. 359.)
 
 Historical and Revision Notes
 
@@ -768,9 +772,11 @@ The Federal Advisory Committee Act, referred to in subsec. (p)(5), is Pub. L. 92
 
 The date of enactment of the Vision 100—Century of Aviation Reauthorization Act, referred to in subsec. (p)(6)(C), (7)(A), is the date of enactment of Pub. L. 108–176, which was approved Dec. 12, 2003.
 
-The Ethics in Government Act of 1978, referred to in subsec. (p)(6)(I)(i), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. Title I of the Act is set out in the Appendix to Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5 and Tables.
+The Ethics in Government Act of 1978, referred to in subsec. (p)(6)(I)(i), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. Title I of the Act is set out in the Appendix to Title 5, Government Organization and Employees. For complete classification of this Act to the Code, seeShort Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5 and Tables.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (k)(1)(G), (H). Pub. L. 112–30 added subpars. (G) and (H).
 
 <b>2010</b>—Subsec. (k)(1)(F). Pub. L. 111–216 amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “$7,813,037,096 for the period beginning on October 1, 2009, and ending on August 1, 2010.”
 
@@ -870,7 +876,7 @@ Subsec. (p)(7)(D). Pub. L. 108–176, §202(14)(E), substituted “Committee” 
 
 Pub. L. 108–176, §202(14)(C), redesignated subpar. (B) as (D). Former subpar. (D) redesignated (F).
 
-Subsec. (p)(7)(E). Pub. L. 108–176, §202(14)(I), struck out concluding provisions which read as follows: “The Secretary shall submit the budget request referred to in clause (v)(II) for any fiscal year to the President who shall transmit such request, without revision, to the Committees on Transportation and Infrastructure and Appropriations of the House of Representatives and the Committees on Commerce, Science, and Transportation and Appropriations of the Senate, together with the President's annual budget request for the Federal Aviation Administration for such fiscal year.”
+Subsec. (p)(7)(E). Pub. L. 108–176, §202(14)(I), struck out concluding provisions which read as follows: “TheSecretary shall submit the budget request referred to in clause (v)(II) for any fiscal year to the President who shall transmit such request, without revision, to the Committees on Transportation and Infrastructure and Appropriations of the House of Representatives and the Committees on Commerce, Science, and Transportation and Appropriations of the Senate, together with the President's annual budget request for the Federal Aviation Administration for such fiscal year.”
 
 Pub. L. 108–176, §202(14)(E), substituted “Committee” for “Subcommittee” in introductory provisions.
 
@@ -962,7 +968,7 @@ Subsec. (k). Pub. L. 106–181, §103(a), amended heading and text of subsec. (k
 
 Subsec. (<i>l</i>)(1). Pub. L. 106–181, §307(c)(1), substituted “subsections (a) and (g) of section 40122” for “section 40122(a) of this title and section 347 of Public Law 104–50”.
 
-Subsec. (p)(2). Pub. L. 106–528, which directed the substitution of “18” for “15” in section 106(p)(2), without specifying the Code title to be amended, was executedby making the substitution in the introductory provisions of subsec. (p)(2) of this section, to reflect the probable intent of Congress.
+Subsec. (p)(2). Pub. L. 106–528, which directed the substitution of “18” for “15” in section 106(p)(2), without specifying the Code title to be amended, was executed by making the substitution in the introductory provisions of subsec. (p)(2) of this section, to reflect the probable intent of Congress.
 
 Subsec. (p)(2)(C) to (E). Pub. L. 106–181, §302(a)(1), added subpars. (C) to (E) and struck out former subpar. (C) which read as follows: “13 members representing aviation interests, appointed by the President by and with the advice and consent of the Senate.”
 
@@ -1056,13 +1062,13 @@ Initial nominations to air traffic services subcommittee.—The Secretary \[of T
 
 “(3)
 
-Effect on actions prior to appointment of subcommittee.—Nothing in this section shall be construed to invalidate the actions and authority of the Federal Aviation Administration prior to the appointment of the members of the Air Traffic Services Subcommittee.”
+Effect on actions prior to appointment of subcommittee.—Nothing in this section shall be construedto invalidate the actions and authority of the Federal Aviation Administration prior to the appointment of the members of the Air Traffic Services Subcommittee.”
 
 #### Effective Date of 1997 Amendment
 
 Pub. L. 105–102, §3(c), Nov. 20, 1997, 111 Stat. 2215, provided that the amendment made by section 3(c)(3) is effective Oct. 9, 1996.
 
-Pub. L. 105–102, §3(f), Nov. 20, 1997, 111 Stat. 2216, provided that: “The amendments made by subsections (a) through (d) of this section \[amending this section andsections 5302, 30501 to 30504, 45301, 46301, 46316, 47117, and 47128 of this title, renumbering section 40121 of this title as 40124 of this title, and amending provisions set out as notes under sections 5303 and 47117 of this title\] shall take effect as if included in the provisions of the Acts to which the amendments relate.”
+Pub. L. 105–102, §3(f), Nov. 20, 1997, 111 Stat. 2216, provided that: “The amendments made by subsections (a) through (d) of this section \[amending this section and sections 5302, 30501 to 30504, 45301, 46301, 46316, 47117, and 47128 of this title, renumbering section 40121 of this title as 40124 of this title, and amending provisions set out as notes under sections 5303 and 47117 of this title\] shall take effect as if included in the provisions of the Acts to which the amendments relate.”
 
 #### Effective Date of 1996 Amendment
 
@@ -1204,7 +1210,7 @@ Section 222 of title II of Pub. L. 104–264 provided that: “The purposes of t
 
 #### Preservation of Existing Authority
 
-Section 223(b) of title II of Pub. L. 104–264 provided that: “Nothing in this title \[see Effective Date of 1996 Amendment note set out above\] or the amendmentsmade by this title limits any authority granted to the Administrator by statute or by delegation that was in effect on the day before the date of the enactment of this Act \[Oct. 9, 1996\].”
+Section 223(b) of title II of Pub. L. 104–264 provided that: “Nothing in this title \[see Effective Date of 1996 Amendment note set out above\] or the amendments made by this title limits any authority granted to the Administrator by statute or by delegation that was in effect on the day before the date of the enactment of this Act \[Oct. 9, 1996\].”
 
 #### Personnel Management System for Federal Aviation Administration
 
@@ -1314,11 +1320,11 @@ Pub. L. 99–500, title V, §§501–507, Oct. 18, 1986, 100 Stat. 1783–370 to
 
 #### Appointment of Retired Military Officer as Administrator
 
-Pub. L. 102–308, June 26, 1992, 106 Stat. 273, provided: “That notwithstanding the provisions of section 106 of title 49, United States Code, or any other provision of law, the President, acting by and with the advice and consent of the Senate, is authorized to appoint General Thomas C. Richards, United States Air Force, Retired, to the Office of Administrator of the Federal Aviation Administration. General Richards’ appointment to, acceptance of, and service in that Office shall in no way affect the status, rank, and grade which he shall hold as an officer on the retired list of the United States Air Force, or any emolument, perquisite, right, privilege, or benefit incident to or arising out of any such status, office, rank, or grade, except to the extent that subchapter IV of chapter 55 of title 5, United States Code, affects the amount of retired pay to which he is entitled by law during his service as Administrator. So long as he serves as Administrator, General Richards shall receive the compensation of that Office at the rate which would be applicable if he were not an officer on the retired list of the United States Air Force, shall retain the status, rank, and grade which he now holds as an officer on the retired list of the United States Air Force, shall retain all emoluments, perquisites, rights, privileges, and benefits incident to or arising out of such status, office, rank, or grade, and shall in addition continue to receive the retired pay to which he is entitled by law, subject to the provisions of subchapter IV of chapter 55 of title 5, United States Code.
+Pub. L. 102–308, June 26, 1992, 106 Stat. 273, provided: “That notwithstanding the provisions of section 106 of title 49, United States Code, or any other provision of law, the President, acting by and with the advice and consent of the Senate, is authorized to appoint General Thomas C. Richards, United States Air Force, Retired, to the Office of Administrator of the Federal Aviation Administration. General Richards’ appointment to, acceptance of, and service in that Office shall in no way affect the status, rank, and grade which he shall hold as an officer on the retired list of the United States Air Force, or any emolument, perquisite, right, privilege, or benefit incident to or arising out of any such status, office, rank, or grade, except to the extent that subchapter IV of chapter 55 of title 5, United States Code, affects the amount of retired pay to which he is entitled by law during his service as Administrator. So long as he serves as Administrator, General Richardsshall receive the compensation of that Office at the rate which would be applicable if he were not an officer on the retired list of the United States Air Force, shall retain the status, rank, and grade which he now holds as an officer on the retired list of the United States Air Force, shall retain all emoluments, perquisites, rights, privileges, and benefits incident to or arising out of such status, office, rank, or grade, and shall in addition continue to receive the retired pay to which he is entitled by law, subject to the provisions of subchapter IV of chapter 55 of title 5, United States Code.
 
 “
 
-Sec. 2. In the performance of his duties as Administrator of the Federal Aviation Administration, GeneralRichards shall be subject to no supervision, control, restriction, or prohibition (military or otherwise) other than would be operative with respect to him if he were not an officer on the retired list of the United States Air Force.
+Sec. 2. In the performance of his duties as Administrator of the Federal Aviation Administration, General Richards shall be subject to no supervision, control, restriction, or prohibition (military or otherwise) other than would be operative with respect to him if he were not an officer on the retired list of the United States Air Force.
 
 “
 

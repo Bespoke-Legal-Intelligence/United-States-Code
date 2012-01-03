@@ -36,7 +36,7 @@ The Administrator shall take all actions necessary to ensure the safe and effect
 
 &emsp;&emsp;&emsp;&emsp;(IV) its criticality for ISS system integrity.
 
-&emsp;&emsp;&emsp;(ii) A description of the spare or replacement modules, systems and components, elements, and equipment identified pursuant to the assessment that are not currently produced, in inventory, or on order, including for each such module, system or component, element, or equipment a description of—
+&emsp;&emsp;&emsp;(ii) A description of the spare or replacement modules, systems and components, elements, and equipment identified pursuant to the assessment that are not currently produced, in inventory, or on order,including for each such module, system or component, element, or equipment a description of—
 
 &emsp;&emsp;&emsp;&emsp;(I) its specifications, including size, weight, and necessary configuration for launch and delivery to the ISS;
 

@@ -6,5 +6,5 @@ The Secretary shall give reasonable notice through one or more trade papers of t
 
 #### Amendments
 
-1999—Pub. L. 106–96 struck out “or pears” after “any apples”.
+<b>1999</b>—Pub. L. 106–96 struck out “or pears” after “any apples”.
 

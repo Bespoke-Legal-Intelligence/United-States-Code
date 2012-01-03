@@ -6,7 +6,7 @@ Definition and Rules for Construing Section.—In this section—
 
 &emsp;(1) “project” has the same meaning given that term in section 47102 of this title.
 
-&emsp;(2) each foreign instrumentality and each territory and possession of a foreign countryadministered separately for customs purposes is a separate foreign country.
+&emsp;(2) each foreign instrumentality and each territory and possession of a foreign country administered separately for customs purposes is a separate foreign country.
 
 &emsp;(3) an article substantially produced or manufactured in a foreign country is a product of the country.
 
@@ -30,7 +30,7 @@ Decisions on Denial of Fair Market Opportunities.—Not later than 30 days after
 
 (d)
 
-List of Countries Denying Fair Market Opportunities.—(1) The Trade Representative shall maintain a list of each foreign country the Trade Representative finds under subsection (c) of this section is denying fair market opportunities. The country shall remain on the list until the Trade Representative decides the country provides fair market opportunities.
+List of Countries Denying Fair Market Opportunities.—(1) The Trade Representativeshall maintain a list of each foreign country the Trade Representative finds under subsection (c) of this section is denying fair market opportunities. The country shall remain on the list until the Trade Representative decides the country provides fair market opportunities.
 
 (2) The Trade Representative shall publish in the Federal Register—
 

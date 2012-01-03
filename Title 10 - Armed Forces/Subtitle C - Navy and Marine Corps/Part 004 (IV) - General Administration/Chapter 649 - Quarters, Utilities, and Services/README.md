@@ -3,7 +3,7 @@
 | Sec. |  |
 | :--- | ---: |
 | [7571\.](%C2%A7%2007571%20-%20Quarters%20or%20other%20accommodations%20to%20whom%20furnished.md) | Quarters or other accommodations: to whom furnished. |
-| [7572\.](%C2%A7%2007572%20-%20Quarters%20accommodations%20in%20place%20of%20for%20members%20on%20sea%20duty.md) | Quarters: accommodations in place of for members on sea duty. |
+| [7572\.](%C2%A7%2007572%20-%20Quarters%20accommodations%20in%20place%20for%20members%20on%20sea%20duty%20or%20assigned%20to%20duty%20in%20connection%20with%20commissioning%20or%20fitting%20out%20of%20a%20ship.md) | Quarters: accommodations in place for members on sea duty or assigned to duty in connection with commissioning or fitting out of a ship. |
 | [7573\.](%C2%A7%2007573%20-%20Quarters%20temporary%3B%20transient%20members.md) | Quarters: temporary; transient members. |
 | \[7574, 7575. Repealed.\] |  |
 | [7576\.](%C2%A7%2007576%20-%20Quarters%20extension%20telephones.md) | Quarters: extension telephones. |
@@ -17,6 +17,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2011</b>—Pub. L. 112–81, div. A, title VI, §602(d)(2), Dec. 31, 2011, 125 Stat. 1448, added item 7572 and struck out former item 7572 “Quarters: accommodations in place of for members on sea duty”.
 
 <b>2000</b>—Pub. L. 106–398, §1 \[\[div. A\], title X, §1085(b)(2), (3)(A)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–288, 1654A–289, struck out “<b>RELATED</b>” before “<b>SERVICES</b>” in chapter heading and added item 7582.
 
@@ -32,7 +34,7 @@
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 07571 - Quarters or other accommodations to whom furnished](%C2%A7%2007571%20-%20Quarters%20or%20other%20accommodations%20to%20whom%20furnished.md)
-- [&sect; 07572 - Quarters accommodations in place of for members on sea duty](%C2%A7%2007572%20-%20Quarters%20accommodations%20in%20place%20of%20for%20members%20on%20sea%20duty.md)
+- [&sect; 07572 - Quarters accommodations in place for members on sea duty or assigned to duty in connection with commissioning or fitting out of a ship](%C2%A7%2007572%20-%20Quarters%20accommodations%20in%20place%20for%20members%20on%20sea%20duty%20or%20assigned%20to%20duty%20in%20connection%20with%20commissioning%20or%20fitting%20out%20of%20a%20ship.md)
 - [&sect; 07573 - Quarters temporary; transient members](%C2%A7%2007573%20-%20Quarters%20temporary%3B%20transient%20members.md)
 - [&sect; 07574, 7575 - Repealed. Pub. L. 93&#8211;166, title V, &sect;509(d), Nov. 29, 1973, 87 Stat. 678](%C2%A7%2007574%2C%207575%20-%20Repealed.%20Pub.%20L.%2093%E2%80%93166%2C%20title%20V%2C%20%C2%A7509%28d%29%2C%20Nov.%2029%2C%201973%2C%2087%20Stat.%20678.md)
 - [&sect; 07576 - Quarters extension telephones](%C2%A7%2007576%20-%20Quarters%20extension%20telephones.md)

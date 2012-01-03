@@ -38,9 +38,9 @@ Subsection (b), which required the Center to submit an annual report to Congress
 
 #### Amendments
 
-1990—Subsec. (a)(6) to (11). Pub. L. 101–520 struck out “and” at end of par. (6), added pars. (7) to (11), and struck out former par. (7) which read as follows: “To make other necessary expenditures including official reception and representation expenses.”
+<b>1990</b>—Subsec. (a)(6) to (11). Pub. L. 101–520 struck out “and” at end of par. (6), added pars. (7) to (11), and struck out former par. (7) which read as follows: “To make other necessary expenditures including official reception and representation expenses.”
 
-1989—Subsec. (a)(7). Pub. L. 101–163 substituted “To make other necessary expenditures including official reception and representation expenses” for “make other necessary expenditures”.
+<b>1989</b>—Subsec. (a)(7). Pub. L. 101–163 substituted “To make other necessary expenditures including officialreception and representation expenses” for “make other necessary expenditures”.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

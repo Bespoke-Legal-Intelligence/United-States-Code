@@ -14,7 +14,7 @@ Except as provided in section 254n of this title, each individual who has entere
 
 > and shall notify such individual of such determination.
 
-(2) If the Secretary determines that an individual shall provide obligated service as a member of the Corps who is a commissioned officer in the Service or a civilian employee of the United States, the Secretary shall, not later than sixty days before the date described in paragraph (5), provide such individual with sufficient information regarding the advantages and disadvantages of service as such a commissioned officer or civilian employee to enable the individual to make a decision on an informed basis. To be eligible to provide obligated service as a commissioned officer in the Service, an individual shall notify the Secretary, not later than thirty days before the date described in paragraph (5), of the individual's desire to provide such service as such an officer. If an individual qualifies for an appointment as such an officer,the Secretary shall, as soon as possible after the date described in paragraph (5), appoint the individual as a commissioned officer of the Regular or Reserve Corps of the Service and shall designate the individual as a member of the Corps.
+(2) If the Secretary determines that an individual shall provide obligated service as a member of the Corps who is a commissioned officer in the Service or a civilian employee of the United States, the Secretary shall, not later than sixty days before the date described in paragraph (5), provide such individual with sufficient information regarding the advantages and disadvantages of service as such a commissioned officer or civilian employee to enable the individual to make a decision on an informed basis. To be eligible to provide obligated service as a commissioned officer in the Service, an individual shall notify the Secretary, not later than thirty days before the date described in paragraph (5), of the individual's desire to provide such service as such an officer. If an individual qualifies for an appointment as such an officer, the Secretary shall, as soon as possible after the date described in paragraph (5), appoint the individual as a commissioned officer of the Regular or Reserve Corps of the Service and shall designate the individual as a member of the Corps.
 
 (3) If an individual provided notice by the Secretary under paragraph (2) does not qualify for appointment as a commissioned officer in the Service, the Secretary shall, as soon as possible after the date described in paragraph (5), appoint such individual as a civilian employee of the United States and designate the individual as a member of the Corps.
 
@@ -40,7 +40,7 @@ Except as provided in section 254n of this title, each individual who has entere
 
 An individual shall be considered to have begun serving a period of obligated service—
 
-&emsp;(1) on the date such individual is appointed as an officer in a Regular or Reserve Corps of the Service or is designated as a member of the Corps under subsection (b)(3) or (b)(4) of this section, or
+&emsp;(1) on the date such individual is appointed as an officer in a Regular or Reserve Corps of the Service or is designated as a member ofthe Corps under subsection (b)(3) or (b)(4) of this section, or
 
 &emsp;(2) in the case of an individual who has entered into an agreement with the Secretary under section 254n of this title, on the date specified in such agreement,
 
@@ -64,7 +64,7 @@ A prior section 338C of act July 1, 1944, was renumbered section 338D by section
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–148, §10501(n)(5), in second sentence, substituted “The Secretary may treat teaching as clinical practice for up to 20 percent of such period of obligated service” for “For the purpose of calculating time spent in full-time clinical practice under this subsection, up to 50 percent of time spent teaching by a member of the Corps may be counted toward his or her service obligation” and inserted at end “Notwithstanding the preceding sentence, with respect to a member of the Corps participating in the teaching health centers graduate medical education program under section 256h of this title, for the purpose of calculating time spent in full-time clinical practice under this section, up to 50 percent of time spent teaching by such member may be counted toward his or her service obligation.”
 
-Pub. L. 111–148, §5508(b), amended subsec. (a) generally. Prior to amendment, text read as follows: “Except as provided in section 254n of this title, each individualwho has entered into a written contract with the Secretary under section 254<i>l</i> or 254<i>l</i>–1 of this title shall provide service in the full-time clinical practice of such individual's profession as a member of the Corps for the period of obligated service provided in such contract.”
+Pub. L. 111–148, §5508(b), amended subsec. (a) generally. Prior to amendment, text read as follows: “Except as provided in section 254n of this title, each individual who has entered into a written contract with the Secretary under section 254<i>l</i> or 254<i>l</i>–1 of this title shall provide service in the full-time clinical practice of such individual's profession as a member of the Corps for the period of obligated service provided in such contract.”
 
 <b>2002</b>—Subsec. (b)(1). Pub. L. 107–251, §311(1)(A), substituted “section 254<i>l</i>(f)(1)(B)(v)” for “254<i>l</i>(f)(1)(B)(iv)” in introductory provisions.
 
@@ -136,7 +136,7 @@ See section 408(b)(2) of Pub. L. 94–484, set out as a note under section 254<i
 
 #### Special Retention Pay for Regular or Reserve Officers for Period Officer Is Obligated Under This Section
 
-Pub. L. 100–446, title II, Sept. 27, 1988, 102 Stat. 1816, provided that: “the Secretary of Health and Human Services may authorize special retention pay under paragraph (4) of 37 U.S.C. 302(a) to any regular or reserve officer for the period during which the officer isobligated under section 338B \[now 338C\] of the Public Health Service Act \[this section\] and assigned and providing direct health services or serving the officer's obligation as a specialist”.
+Pub. L. 100–446, title II, Sept. 27, 1988, 102 Stat. 1816, provided that: “the Secretary of Health and Human Services may authorize special retention pay under paragraph (4) of 37 U.S.C. 302(a) to any regular or reserve officer for the period during which the officer is obligated under section 338B \[now 338C\] of the Public Health Service Act \[this section\] and assigned and providing direct health services or serving the officer's obligation as a specialist”.
 
 Similar provisions were contained in the following prior appropriation acts:
 

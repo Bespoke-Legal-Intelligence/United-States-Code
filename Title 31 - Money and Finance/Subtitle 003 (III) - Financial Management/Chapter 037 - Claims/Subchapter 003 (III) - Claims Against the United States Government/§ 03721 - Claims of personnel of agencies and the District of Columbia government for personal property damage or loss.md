@@ -188,7 +188,7 @@ Subsection (h)(2) is substituted for “Claims of survivors shall be settled and
 
 In subsection (i), the words “to the contrary” are omitted as surplus. The words “representative of a claimant” are substituted for “agent or attorney” for clarity and consistency. The words “be paid or delivered to or” are omitted as surplus. The word “payment” is substituted for “amount paid in settlement” to eliminate unnecessary words. The words “individual . . . submitted and settled . . . the authority of” are omitted as surplus. The words “and the same shall be unlawful” are omitted because of the restatement. The words “shall be deemed guilty of a misdemeanor and upon conviction thereof . . . in any sum” are omitted as surplus.
 
-In subsection (j), the words “the purposes of” in 31:241(b)(1)(1st sentence words before 5th comma) are omitted as surplus. The words “(except subsection (b)to the extent that subsection (b) applies to the military departments, the Department of Defense, and the Coast Guard)” are substituted for the source provisions because of the restatement. The words “to carry out this section” after “regulations” are added for clarity.
+In subsection (j), the words “the purposes of” in 31:241(b)(1)(1st sentence words before 5th comma) are omitted as surplus. The words “(except subsection (b) to the extent that subsection (b) applies to the military departments, the Department of Defense, and the Coast Guard)” are substituted for the source provisions because of the restatement. The words “to carry out this section” after “regulations” are added for clarity.
 
 In subsection (k), the words “Notwithstanding any other provision of law” are omitted as unnecessary.
 
@@ -226,7 +226,7 @@ Section 1088(b) of Pub. L. 104–106 provided that: “The amendment made by sub
 
 #### Effective Date of 1994 Amendment
 
-Section 172(b) of Pub. L. 103–236 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to claims arising on or after October 31, 1988.”
+Section 172(b) of Pub. L. 103–236 provided that: “The amendments made by subsection (a) \[amending thissection\] shall apply with respect to claims arising on or after October 31, 1988.”
 
 #### Effective Date of 1988 Amendment
 

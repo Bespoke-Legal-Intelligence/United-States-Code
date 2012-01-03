@@ -52,7 +52,7 @@ For purposes of this section—
 
 &emsp;(4) the term “qualifying fabric” means woven fabric of cotton wholly formed in the United States from yarns wholly formed in the United States and certified by the producer or entity controlling production as being suitable for use in the manufacture of apparel items such as trousers, bib and brace overalls, breeches and shorts, skirts and divided skirts or pants, all the foregoing of cotton, except that—
 
-&emsp;&emsp;(A) fabric otherwise eligible as qualifying fabric shall not be ineligible as qualifying fabric because the fabric contains nylon filament yarn with respect to which section 2703(b)(2)(A)(vii)(IV) of this title applies;
+&emsp;&emsp;(A) fabric otherwise eligible as qualifying fabric shall not be ineligible as qualifyingfabric because the fabric contains nylon filament yarn with respect to which section 2703(b)(2)(A)(vii)(IV) of this title applies;
 
 &emsp;&emsp;(B) fabric that would otherwise be ineligible as qualifying fabric because the fabric contains yarns not wholly formed in the United States shall not be ineligible as qualifying fabric if the total weight of all such yarns is not more than 10 percent of the total weight of the fabric, except that any elastomeric yarn contained in an eligible apparel article must be wholly formed in the United States; and
 

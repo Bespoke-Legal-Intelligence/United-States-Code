@@ -2,7 +2,7 @@
 
 (a)(1) The President's Cancer Panel (hereafter in this section referred to as the “Panel”) shall be composed of three persons appointed by the President who by virtue of their training, experience, and background are exceptionally qualified to appraise the National Cancer Program. At least two members of the Panel shall be distinguished scientists or physicians.
 
-(2)(A) Members of the Panel shall be appointed for three-year terms, except that (i) any member appointed to fill a vacancy occurring prior to the expiration of the term for which the member's predecessor was appointed shall be appointed only for the remainder of such term, and (ii) a member may serve until the member's successor has taken office. If a vacancy occurs in the Panel, the President shall make an appointment to fill the vacancy not later than 90 days after the date the vacancy occurred.
+(2)(A) Members of the Panel shall be appointed for three-year terms, except that (i) any member appointed to fill a vacancy occurring prior to the expiration of the term for which the member's predecessor was appointed shall be appointed only for the remainder of such term, and\(ii) a member may serve until the member's successor has taken office. If a vacancy occurs in the Panel, the President shall make an appointment to fill the vacancy not later than 90 days after the date the vacancy occurred.
 
 (B) The President shall designate one of the members to serve as the chairman of the Panel for a term of one year.
 
@@ -10,7 +10,7 @@
 
 (3) The Panel shall meet at the call of the chairman, but not less often than four times a year. A transcript shall be kept of the proceedings of each meeting of the Panel, and the chairman shall make such transcript available to the public.
 
-(b) The Panel shall monitor the development and execution of the activities of the National Cancer Program, and shall report directly to the President. Any delays or blockages in rapid execution of the Program shall immediately bebrought to the attention of the President. The Panel shall submit to the President periodic progress reports on the National Cancer Program and shall submit to the President, the Secretary, and the Congress an annual evaluation of the efficacy of the Program and suggestions for improvements, and shall submit such other reports as the President shall direct.
+(b) The Panel shall monitor the development and execution of the activities of the National Cancer Program, and shall report directly to the President. Any delays or blockages in rapid execution of the Program shall immediately be brought to the attention of the President. The Panel shall submit to the President periodic progress reports on the National Cancer Program and shall submit to the President, the Secretary, and the Congress an annual evaluation of the efficacy of the Program and suggestions for improvements, and shall submit such other reports as the President shall direct.
 
 (July 1, 1944, ch. 373, title IV, §415, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 835.)
 

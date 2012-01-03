@@ -54,7 +54,7 @@ Pub. L. 110–289, §1158, which directed amendment of section “1379B of the F
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–289, §1158(a)(1)(A), in introductory provisions, struck out “administrative” after “with any”, inserted “, examination, or investigation” after “proceeding”, substituted “chapter” for “subchapter”, and inserted “or any designated representative thereof, including any person designated to conduct any hearing under this subchapter” after “Director”. See Codification note above.
+<b>2008</b>—Subsec. (a). Pub. L. 110–289, §1158(a)(1)(A), in introductory provisions, struck out “administrative” after “with any”, inserted “, examination, or investigation” after “proceeding”, substituted “chapter” for “subchapter”, and inserted “or any designated representative thereof, including any person designated to conduct any hearing under this subchapter” after “Director”. See Codification note above.
 
 Subsec. (a)(4). Pub. L. 110–289, §1158(a)(1)(B), struck out “issued by the Director” before period at end. See Codification note above.
 

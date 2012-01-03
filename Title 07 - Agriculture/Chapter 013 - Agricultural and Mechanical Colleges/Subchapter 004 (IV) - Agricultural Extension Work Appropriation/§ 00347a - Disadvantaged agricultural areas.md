@@ -28,5 +28,5 @@ A prior section 8 of act May 8, 1914, was renumbered section 9 and is classified
 
 #### Amendments
 
-1962—Subsec. (b). Pub. L. 87–749 struck out “, Alaska, Hawaii, and Puerto Rico” before “on the basis of”.
+<b>1962</b>—Subsec. (b). Pub. L. 87–749 struck out “, Alaska, Hawaii, and Puerto Rico” before “on the basis of”.
 

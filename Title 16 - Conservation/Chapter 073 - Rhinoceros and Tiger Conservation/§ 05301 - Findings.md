@@ -24,7 +24,7 @@ The Congress finds the following:
 
 &emsp;&emsp;(A) directed that imports of wildlife specimens and products from Taiwan be prohibited, in response to Taiwan's failure to undertake sufficient actions to stop illegal rhinoceros and tiger trade; and
 
-&emsp;&emsp;(B) indicated that the certification of China would remain in effect and directedthat additional monitoring of China's progress be undertaken.
+&emsp;&emsp;(B) indicated that the certification of China would remain in effect and directed that additional monitoring of China's progress be undertaken.
 
 (Pub. L. 103–391, §2, Oct. 22, 1994, 108 Stat. 4094.)
 

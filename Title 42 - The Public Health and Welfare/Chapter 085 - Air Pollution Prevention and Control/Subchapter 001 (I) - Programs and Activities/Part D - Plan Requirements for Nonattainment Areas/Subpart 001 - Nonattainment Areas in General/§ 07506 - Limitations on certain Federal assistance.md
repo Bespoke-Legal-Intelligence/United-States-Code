@@ -24,7 +24,7 @@
 
 &emsp;(B) no metropolitan planning organization or other recipient of funds under title 23 or chapter 53 of title 49 shall adopt or approve a transportation improvement program of projects until it determines that such program provides for timely implementation of transportation control measures consistent with schedules included in the applicable implementation plan;
 
-&emsp;(C) a transportation project may be adopted or approved by a metropolitan planning organization or any recipient of funds designated under title 23 or chapter 53 of title 49, or found in conformity by a metropolitan planning organization or approved, accepted, or funded by the Department of Transportation only if it meets either the requirements of subparagraph (D) or the following requirements—
+&emsp;(C) a transportation project may be adopted or approved by a metropolitan planning organization or any recipient of funds designatedunder title 23 or chapter 53 of title 49, or found in conformity by a metropolitan planning organization or approved, accepted, or funded by the Department of Transportation only if it meets either the requirements of subparagraph (D) or the following requirements—
 
 &emsp;&emsp;(i) such a project comes from a conforming plan and program;
 
@@ -58,7 +58,7 @@
 
 &emsp;&emsp;(ii) in carbon monoxide nonattainment areas, eliminate or reduce the severity and number of violations of the carbon monoxide standards in the area substantially affected by the project.
 
-> &emsp;With regard to subparagraph (B)(ii), such determination may be made as part of either theconformity determination for the transportation program or for the individual project taken as a whole during the environmental review phase of project development.
+> &emsp;With regard to subparagraph (B)(ii), such determination may be made as part of either the conformity determination for the transportation program or for the individual project taken as a whole during the environmental review phase of project development.
 
 (4)
 
@@ -120,7 +120,7 @@ In general.—Each conformity determination required under this section for a tr
 
 &emsp;(B)
 
-Regional emissions analysis.—The conformity determination shall be accompanied by a regional emissions analysis for the last year of the transportation plan and for any year shown to exceed emission budgets by aprior analysis, if such year extends beyond the applicable period as determined under subparagraph (A).
+Regional emissions analysis.—The conformity determination shall be accompanied by a regional emissions analysis for the last year of the transportation plan and for any year shown to exceed emission budgets by a prior analysis, if such year extends beyond the applicable period as determined under subparagraph (A).
 
 &emsp;(C)
 
@@ -150,7 +150,7 @@ In general.—Transportation control measures that are specified in an implement
 
 &emsp;&emsp;&emsp;(II) if the implementation plan date for implementation of the control measure to be replaced has passed, as soon as practicable after the implementation plan date but not later than the date on which emission reductions are necessary to achieve the purpose of the implementation plan;
 
-&emsp;&emsp;(iii) if the substitute and additional control measures are accompanied with evidence of adequate personnel and funding and authority under State or local law to implement, monitor, and enforce the control measures;
+&emsp;&emsp;(iii) if the substitute and additional control measures are accompanied with evidence of adequate personnel and funding andauthority under State or local law to implement, monitor, and enforce the control measures;
 
 &emsp;&emsp;(iv) if the substitute and additional control measures were developed through a collaborative process that included—
 
@@ -214,7 +214,7 @@ The Housing and Urban Development Act, referred to in subsec. (d), may be the na
 
 #### Codification
 
-In subsecs. (c)(2) and (d), “chapter 53 of title 49” substituted for “the Urban Mass Transportation Act \[49 App. U.S.C. 1601 et seq.\]” and in subsec. (c)(4)(F) substituted for “Federal Transit Act” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378 (the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation), and of Pub. L. 102–240, title III, §3003(b), Dec. 18, 1991, 105 Stat. 2088, which provided that references in laws to the Urban Mass Transportation Act of 1964 be deemed to be references to the Federal Transit Act.
+In subsecs. (c)(2) and (d), “chapter 53 of title 49” substituted for “the Urban Mass Transportation Act \[49 App. U.S.C. 1601 et seq.\]” and in subsec. (c)(4)(F) substituted for “Federal Transit Act” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378 (the first section of which enacted subtitles II, III, and V to X ofTitle 49, Transportation), and of Pub. L. 102–240, title III, §3003(b), Dec. 18, 1991, 105 Stat. 2088, which provided that references in laws to the Urban Mass Transportation Act of 1964 be deemed to be references to the Federal Transit Act.
 
 #### Amendments
 

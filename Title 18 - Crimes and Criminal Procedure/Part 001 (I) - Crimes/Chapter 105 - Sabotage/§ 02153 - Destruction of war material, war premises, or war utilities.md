@@ -4,7 +4,7 @@
 
 (b) If two or more persons conspire to violate this section, and one or more of such persons do any act to effect the object of the conspiracy, each of the parties to such conspiracy shall be punished as provided in subsection (a) of this section.
 
-(June 25, 1948, ch. 645, 62 Stat. 799; June 30, 1953, ch. 175, §2, 67 Stat. 133; Sept. 3, 1954, ch. 1261, title I, §102, 68 Stat. 1217; Pub. L. 103–322, titleXXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 799; June 30, 1953, ch. 175, §2, 67 Stat. 133; Sept. 3, 1954, ch. 1261, title I, §102, 68 Stat. 1217; Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

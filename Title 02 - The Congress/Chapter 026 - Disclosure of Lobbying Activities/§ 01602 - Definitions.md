@@ -8,7 +8,7 @@ As used in this chapter:
 
 #### (2) Client
 
-&emsp;The term “client” means any person or entity that employs or retains another person for financial or other compensation to conduct lobbying activities on behalf of that person or entity. A person or entity whose employees act as lobbyists on its own behalf is both a client and an employer of such employees. In the case of a coalition or association that employs or retains other persons to conduct lobbying activities, the client is the coalition or association and not its individual members.
+&emsp;The term “client” means any person or entity that employs or retains another person for financial or other compensation to conduct lobbying activities on behalf of that person or entity. A person or entity whose employeesact as lobbyists on its own behalf is both a client and an employer of such employees. In the case of a coalition or association that employs or retains other persons to conduct lobbying activities, the client is the coalition or association and not its individual members.
 
 #### (3) Covered executive branch official
 
@@ -98,7 +98,7 @@ As used in this chapter:
 
 &emsp;&emsp;&emsp;(viii) information provided in writing in response to an oral or written request by a covered executive branch official or a covered legislative branch official for specific information;
 
-&emsp;&emsp;&emsp;(ix) required by subpoena, civil investigative demand, or otherwise compelled by statute, regulation, or other action of the Congress or an agency, including any communication compelled by a Federal contract, grant, loan, permit, or license;
+&emsp;&emsp;&emsp;(ix) required by subpoena, civil investigative demand, or otherwise compelledby statute, regulation, or other action of the Congress or an agency, including any communication compelled by a Federal contract, grant, loan, permit, or license;
 
 &emsp;&emsp;&emsp;(x) made in response to a notice in the Federal Register, Commerce Business Daily, or other similar publication soliciting communications from the public and directed to the agency official specifically designated in the notice to receive such communications;
 
@@ -114,7 +114,7 @@ As used in this chapter:
 
 &emsp;&emsp;&emsp;(xiii) made in compliance with written agency procedures regarding an adjudication conducted by the agency under section 554 of title 5 or substantially similar provisions;
 
-&emsp;&emsp;&emsp;(xiv) a written comment filed in the course of a public proceeding or any othercommunication that is made on the record in a public proceeding;
+&emsp;&emsp;&emsp;(xiv) a written comment filed in the course of a public proceeding or any other communication that is made on the record in a public proceeding;
 
 &emsp;&emsp;&emsp;(xv) a petition for agency action made in writing and required to be a matter of public record pursuant to established agency procedures;
 
@@ -200,7 +200,7 @@ As used in this chapter:
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act” meaning Pub. L. 104–65, Dec. 19, 1995, 109Stat. 691, known as the Lobbying Disclosure Act of 1995. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
+This chapter, referred to in text, was in the original “this Act” meaning Pub. L. 104–65, Dec. 19, 1995, 109 Stat. 691, known as the Lobbying Disclosure Act of 1995. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 
 Levels I, II, III, IV, and V of the Executive Schedule, referred to in par. (3)(D), are set out in sections 5312, 5313, 5314, 5315, and 5316, respectively, of Title 5, Government Organization and Employees.
 
@@ -220,9 +220,9 @@ The Commodity Exchange Act, referred to in par. (8)(B)(xix), is act Sept. 21, 19
 
 #### Amendments
 
-2007—Par. (10). Pub. L. 110–81 substituted “3-month period” for “six month period”.
+<b>2007</b>—Par. (10). Pub. L. 110–81 substituted “3-month period” for “six month period”.
 
-1998—Par. (3)(F). Pub. L. 105–166, §2, substituted “7511(b)(2)(B)” for “7511(b)(2)”.
+<b>1998</b>—Par. (3)(F). Pub. L. 105–166, §2, substituted “7511(b)(2)(B)” for “7511(b)(2)”.
 
 Par. (8)(B)(ix). Pub. L. 105–166, §3(a), inserted before semicolon at end “, including any communication compelled by a Federal contract, grant, loan, permit, or license”.
 

@@ -28,7 +28,7 @@ For purposes of this chapter—
 
 &emsp;&emsp;The term “substantial United States owner” means—
 
-&emsp;&emsp;&emsp;(i) with respect to any corporation, any specified United States person which owns,directly or indirectly, more than 10 percent of the stock of such corporation (by vote or value),
+&emsp;&emsp;&emsp;(i) with respect to any corporation, any specified United States person which owns, directly or indirectly, more than 10 percent of the stock of such corporation (by vote or value),
 
 &emsp;&emsp;&emsp;(ii) with respect to any partnership, any specified United States person which owns, directly or indirectly, more than 10 percent of the profits interests or capital interests in such partnership, and
 
@@ -72,7 +72,7 @@ For purposes of this chapter—
 
 #### (4) Withholding agent
 
-&emsp;The term “withholding agent” means all persons, in whatever capacity acting, having the control, receipt, custody, disposal, or payment of any withholdable payment.
+&emsp;The term “withholding agent” means all persons, in whatever capacity acting, havingthe control, receipt, custody, disposal, or payment of any withholdable payment.
 
 #### (5) Foreign entity
 

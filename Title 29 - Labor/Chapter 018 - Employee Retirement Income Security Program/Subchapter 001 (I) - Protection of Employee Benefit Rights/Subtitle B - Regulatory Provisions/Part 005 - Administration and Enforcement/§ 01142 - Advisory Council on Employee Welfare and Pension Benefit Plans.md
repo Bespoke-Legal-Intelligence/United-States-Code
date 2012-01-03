@@ -8,7 +8,7 @@
 
 (3) Of the members appointed, three shall be representatives of employee organizations (at least one of whom shall be representative of any organization members of which are participants in a multiemployer plan); three shall be representatives of employers (at least one of whom shall be representative of employers maintaining or contributing to multi-employer plans); three representatives shall be appointed from the general public, one of whom shall be a person representing those receiving benefits from a pension plan; and there shall be one representative each from the fields of insurance, corporate trust, actuarial counseling, investment counseling, investment management, and the accounting field.
 
-(4) Members shall serve for terms of three years except that of those first appointed, fiveshall be appointed for terms of one year, five shall be appointed for terms of two years, and five shall be appointed for terms of three years. A member may be reappointed. A member appointed to fill a vacancy shall be appointed only for the remainder of such term. A majority of members shall constitute a quorum and action shall be taken only by a majority vote of those present and voting.
+(4) Members shall serve for terms of three years except that of those first appointed, five shall be appointed for terms of one year, five shall be appointed for terms of two years, and five shall be appointed for terms of three years. A member may be reappointed. A member appointed to fill a vacancy shall be appointed only for the remainder of such term. A majority of members shall constitute a quorum and action shall be taken only by a majority vote of those present and voting.
 
 #### (b) Duties and functions
 

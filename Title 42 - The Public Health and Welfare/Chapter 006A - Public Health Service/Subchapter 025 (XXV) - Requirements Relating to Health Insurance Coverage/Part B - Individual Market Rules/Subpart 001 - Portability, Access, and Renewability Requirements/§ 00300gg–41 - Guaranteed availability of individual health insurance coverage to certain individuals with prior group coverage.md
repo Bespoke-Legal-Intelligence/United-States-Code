@@ -24,7 +24,7 @@ In this part, the term “eligible individual” means an individual—
 
 &emsp;(3) with respect to whom the most recent coverage within the coverage period described in paragraph (1)(A) was not terminated based on a factor described in paragraph (1) or (2) of section 2712(b) <sup>1</sup> (relating to nonpayment of premiums or fraud);
 
-&emsp;(4) if the individual had been offered the option of continuation coverage under a COBRAcontinuation provision or under a similar State program, who elected such coverage; and
+&emsp;(4) if the individual had been offered the option of continuation coverage under a COBRA continuation provision or under a similar State program, who elected such coverage; and
 
 &emsp;(5) who, if the individual elected such continuation coverage, has exhausted such continuation coverage under such provision or program.
 
@@ -48,7 +48,7 @@ In this part, the term “eligible individual” means an individual—
 
 #### (A) In general
 
-&emsp;&emsp;The requirement of this paragraph is met, for health insurance coverage policy forms offered by an issuer in the individual market, if the issuer offers a lower-level coverage policy form (as defined in subparagraph (B)) and a higher-level coverage policy form (as defined in subparagraph (C)) each of which includes benefits substantially similar to other individual health insurance coverage offered by the issuer in that State and each of which is covered under a method described in section 300gg–44(c)(3)(A) of this title (relating to risk adjustment, risk spreading, or financial subsidization).
+&emsp;&emsp;The requirement of this paragraph is met, for health insurance coverage policy forms offered by an issuer in the individual market, if the issuer offers a lower-level coverage policy form (as defined in subparagraph (B)) and a higher-level coverage policyform (as defined in subparagraph (C)) each of which includes benefits substantially similar to other individual health insurance coverage offered by the issuer in that State and each of which is covered under a method described in section 300gg–44(c)(3)(A) of this title (relating to risk adjustment, risk spreading, or financial subsidization).
 
 #### (B) Lower-level of coverage described
 
@@ -96,7 +96,7 @@ In this part, the term “eligible individual” means an individual—
 
 #### (1) In general
 
-&emsp;A health insurance issuer may deny health insurance coverage in the individual marketto an eligible individual if the issuer has demonstrated, if required, to the applicable State authority that—
+&emsp;A health insurance issuer may deny health insurance coverage in the individual market to an eligible individual if the issuer has demonstrated, if required, to the applicable State authority that—
 
 &emsp;&emsp;(A) it does not have the financial reserves necessary to underwrite additional coverage; and
 

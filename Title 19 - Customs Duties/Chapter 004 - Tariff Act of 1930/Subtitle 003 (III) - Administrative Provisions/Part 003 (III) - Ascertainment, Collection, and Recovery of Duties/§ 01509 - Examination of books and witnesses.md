@@ -28,7 +28,7 @@ In any investigation or inquiry conducted for the purpose of ascertaining the co
 
 &emsp;&emsp;(D) any other person he may deem proper;
 
-> &emsp;to appear before the appropriate customs officer at the time and place within the customsterritory of the United States specified in the summons (except that no witness may be required to appear at any place more than one hundred miles distant from the place where he was served with the summons), to produce records, as defined in subsection (d)(1)(A) of this section, and to give such testimony, under oath, as may be relevant to such investigation or inquiry; and
+> &emsp;to appear before the appropriate customs officer at the time and place within the customs territory of the United States specified in the summons (except that no witness may be required to appear at any place more than one hundred miles distant from the place where he was served with the summons), to produce records, as defined in subsection (d)(1)(A) of this section, and to give such testimony, under oath, as may be relevant to such investigation or inquiry; and
 
 &emsp;(3) take, or cause to be taken, such testimony of the person concerned, under oath, as may be relevant to such investigation or inquiry.
 
@@ -36,7 +36,7 @@ In any investigation or inquiry conducted for the purpose of ascertaining the co
 
 (1) In conducting a regulatory audit under this section (which does not include a quantity verification for a customs bonded warehouse or general purpose foreign trade zone), the Customs Service auditor shall provide the person being audited, in advance of the audit, with a reasonable estimate of the time to be required for the audit. If in the course of an audit it becomes apparent that additional time will be required, the Customs Service auditor shall immediately provide a further estimate of such additional time.
 
-(2) Before commencing an audit, the Customs Service auditor shall inform the party to be audited of his right to an entry conference at which time the purpose will be explained and an estimated termination date set. Upon completion of on-site audit activities, the Customs Service auditor shall schedule a closing conference to explain the preliminary results of the audit.
+(2) Before commencing an audit, the Customs Service auditor shall inform the party to be audited of his right to an entry conference at which time the purpose will be explained and an estimated termination date set. Upon completion of on-site audit activities, the CustomsService auditor shall schedule a closing conference to explain the preliminary results of the audit.
 
 (3) Except as provided in paragraph (5), if the estimated or actual termination date for an audit passes without the Customs Service auditor providing a closing conference to explain the results of the audit, the person being audited may petition in writing for such a conference to the officer designated pursuant to regulations, who, upon receipt of such a request, shall provide for such a conference to be held within 15 days after the date of receipt.
 
@@ -142,7 +142,7 @@ The Customs Service shall identify and publish a list of the records or entry in
 
 &emsp;Except as provided in paragraph (4), if a person fails to comply with a lawful demand for information under subsection (a)(1)(A) of this section the following provisions apply:
 
-&emsp;&emsp;(A) If the failure to comply is a result of the willful failure of the person to maintain,store, or retrieve the demanded information, such person shall be subject to a penalty, for each release of merchandise, not to exceed $100,000, or an amount equal to 75 percent of the appraised value of the merchandise, whichever amount is less.
+&emsp;&emsp;(A) If the failure to comply is a result of the willful failure of the person to maintain, store, or retrieve the demanded information, such person shall be subject to a penalty, for each release of merchandise, not to exceed $100,000, or an amount equal to 75 percent of the appraised value of the merchandise, whichever amount is less.
 
 &emsp;&emsp;(B) If the failure to comply is a result of the negligence of the person in maintaining, storing, or retrieving the demanded information, such person shall be subject to a penalty, for each release of merchandise, not to exceed $10,000, or an amount equal to 40 percent of the appraised value of the merchandise, whichever amount is less.
 
@@ -218,7 +218,7 @@ Title I, referred to in subsec. (g)(2)(C), means title I of act June 17, 1930, c
 
 #### Prior Provisions
 
-Provisions substantially the same, in most respects, as those in this section, were contained in act Oct. 3,1913, ch. 16, §III, O, 38 Stat. 188, which substantially reenacted the provisions of Customs Administrative Act of June 10, 1890, ch. 407, §16, 26 Stat. 138, as renumbered and reenacted without other change by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 100. Section III of the 1913 act was superseded and more closely assimilated to this section by act Sept. 21, 1922, ch. 356, title IV, §508, 42 Stat. 968, and repealed by section 643 thereof. Section 508 of the 1922 act was superseded by section 509 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions substantially the same, in most respects, as those in this section, were contained in act Oct. 3, 1913, ch. 16, §III, O, 38 Stat. 188, which substantially reenacted the provisions of Customs Administrative Act of June 10, 1890, ch. 407, §16, 26 Stat. 138, as renumbered and reenacted without other change by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 100. Section III of the 1913 act was superseded and more closely assimilated to this section by act Sept. 21, 1922, ch. 356, title IV, §508, 42 Stat. 968, and repealed by section 643 thereof. Section 508 of the 1922 act was superseded by section 509 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 Prior provisions similar to those in this section and section 1510 of this title were made by R.S. §§2922–2924, repealed by section 29 of the Customs Administrative Act of 1890, 26 Stat. 141.
 

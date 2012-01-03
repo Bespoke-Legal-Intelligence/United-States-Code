@@ -1,5 +1,5 @@
 
-24 U.S.C.<br>United States Code, 2010 Edition<br>Title 24 - HOSPITALS AND ASYLUMS<br>From the U.S. Government Publishing Office, www.gpo.gov
+24 U.S.C.<br>United States Code, 2011 Edition<br>Title 24 - HOSPITALS AND ASYLUMS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 24—HOSPITALS AND ASYLUMS
 

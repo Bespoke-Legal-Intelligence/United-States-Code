@@ -10,7 +10,7 @@ No deposits shall be made to the Global Climate Change Response Fund until the U
 
 #### (c) Use of Fund
 
-Moneys deposited into the Fund shall be used by the President, to the extent authorized and appropriated under section 2222 of title 22, solely for contributions to a financial mechanism negotiated pursuant to the United Nations Framework Convention on Climate Change, including all protocols or agreements related thereto.
+Moneys deposited into the Fund shall be used by the President, to the extent authorized and appropriated under section 2222 of title 22, solelyfor contributions to a financial mechanism negotiated pursuant to the United Nations Framework Convention on Climate Change, including all protocols or agreements related thereto.
 
 #### (d) Authorization of appropriations
 

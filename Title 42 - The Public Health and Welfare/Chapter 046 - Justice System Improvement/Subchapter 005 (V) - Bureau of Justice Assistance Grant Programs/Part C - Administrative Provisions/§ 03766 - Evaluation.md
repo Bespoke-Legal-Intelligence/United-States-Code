@@ -22,7 +22,7 @@ In selecting programs for review, the Director of the National Institute of Just
 
 #### (c) Annual report
 
-The Director of the National Institute of Justice shall annually report to the President, the Attorney General, and the Congress on the nature and findings of the evaluation and research and development activities funded under this section.
+The Director of the National Institute of Justice shall annually report to the President, theAttorney General, and the Congress on the nature and findings of the evaluation and research and development activities funded under this section.
 
 (Pub. L. 90–351, title I, §520, as added Pub. L. 100–690, title VI, §6091(a), Nov. 18, 1988, 102 Stat. 4337; amended Pub. L. 101–647, title XVIII, §1801(b), Nov. 29, 1990, 104 Stat. 4848; Pub. L. 109–162, title XI, §1111(c)(2)(B), Jan. 5, 2006, 119 Stat. 3101.)
 

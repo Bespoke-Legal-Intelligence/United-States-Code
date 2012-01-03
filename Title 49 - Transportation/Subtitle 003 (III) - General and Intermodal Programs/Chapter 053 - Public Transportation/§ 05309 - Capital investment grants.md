@@ -156,7 +156,7 @@ Evaluation criteria.—In assessing the stability, reliability, and availability
 
 &emsp;&emsp;&emsp;(iii) the degree to which financing sources are dedicated to the proposed purposes;
 
-&emsp;&emsp;&emsp;(iv) any debt obligation that exists, or is proposed by the recipient, for the proposedproject or other public transportation purpose; and
+&emsp;&emsp;&emsp;(iv) any debt obligation that exists, or is proposed by the recipient, for the proposed project or other public transportation purpose; and
 
 &emsp;&emsp;&emsp;(v) the extent to which the project has a local financial commitment that exceeds the required non-Federal share of the cost of the project.
 
@@ -258,7 +258,7 @@ Advancement of project to development and construction.—
 
 &emsp;&emsp;(A)
 
-General rule.—A proposed project under this subsection may advance from planning and alternatives analysis to projectdevelopment and construction only if the Secretary finds that the project meets the requirements of this subsection and there is a reasonable likelihood that the project will continue to meet such requirements.
+General rule.—A proposed project under this subsection may advance from planning and alternatives analysis to project development and construction only if the Secretary finds that the project meets the requirements of this subsection and there is a reasonable likelihood that the project will continue to meet such requirements.
 
 &emsp;&emsp;(B)
 
@@ -290,7 +290,7 @@ Impact report.—
 
 &emsp;&emsp;(A)
 
-In general.—Not later than 120 days after the date of enactment of the Federal Public Transportation Act of 2005, the Federal Transit Administration shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the methodology to be used in evaluating the land use and economic development impacts of non-fixed guideway or partial fixed guideway projects.
+In general.—Not later than 120 days after the date of enactment of the Federal Public Transportation Act of 2005, the Federal Transit Administration shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the methodology to be used in evaluating the land use and economic development impactsof non-fixed guideway or partial fixed guideway projects.
 
 &emsp;&emsp;(B)
 
@@ -388,7 +388,7 @@ Contents of plan.—The plan submitted under subclause (I) shall provide for—
 
 &emsp;&emsp;(D)
 
-Collection of data on current system.—To be eligible for a full funding grant agreement under this paragraph, recipients shall have collected data on the current system, according to the plan required, before the beginning of construction of the proposed new start project. Collection of this data shall be included in the full funding grant agreement as an eligible activity.
+Collection of data on current system.—To be eligible for a full funding grantagreement under this paragraph, recipients shall have collected data on the current system, according to the plan required, before the beginning of construction of the proposed new start project. Collection of this data shall be included in the full funding grant agreement as an eligible activity.
 
 &emsp;(3)
 
@@ -428,7 +428,7 @@ Limitation on amounts.—
 
 &emsp;&emsp;(A)
 
-Major capital investment grants contingent commitment authority.—The total estimated amount of future obligations of the Government and contingent commitments to incur obligations covered by alloutstanding letters of intent, full funding grant agreements, and early systems work agreements under this subsection for major new fixed guideway capital projects may be not more than the greater of the amount authorized under sections 5338(a)(3) and 5338(c) for such projects or an amount equivalent to the last 3 fiscal years of funding allocated under subsections (m)(1)(A) and (m)(2)(A)(ii) for such projects, less an amount the Secretary reasonably estimates is necessary for grants under this section for those of such projects that are not covered by a letter or agreement. The total amount covered by new letters and contingent commitments included in full funding grant agreements and early systems work agreements for such projects may be not more than a limitation specified in law.
+Major capital investment grants contingent commitment authority.—The total estimated amount of future obligations of the Government and contingent commitments to incur obligations covered by all outstanding letters of intent, full funding grant agreements, and early systems work agreements under this subsection for major new fixed guideway capital projects may be not more than the greater of the amount authorized under sections 5338(a)(3) and 5338(c) for such projects or an amount equivalent to the last 3 fiscal years of funding allocated under subsections (m)(1)(A) and (m)(2)(A)(ii) for such projects, less an amount the Secretary reasonably estimates is necessary for grants under this section for those of such projects that are not covered by a letter or agreement. The total amount covered by new letters and contingent commitments included in full funding grant agreements and early systems work agreements for such projects may be not more than a limitation specified in law.
 
 &emsp;&emsp;(B)
 
@@ -452,7 +452,7 @@ Government's Share of Net Project Cost.—
 
 &emsp;(1)
 
-In general.—Based on engineering studies, studies of economic feasibility, and information on the expected use of equipment or facilities, the Secretary shall estimate the net project cost. A grant for the project shall be for 80 percent of the net capital project cost, unless the grant recipient requests a lower grant percentage.
+In general.—Based on engineering studies, studies of economic feasibility, and information on the expected use of equipment orfacilities, the Secretary shall estimate the net project cost. A grant for the project shall be for 80 percent of the net capital project cost, unless the grant recipient requests a lower grant percentage.
 
 &emsp;(2)
 
@@ -488,7 +488,7 @@ Undertaking Projects in Advance.—
 
 &emsp;(1)
 
-In general.—The Secretary may pay the Government's share of the net capital project cost to a State or local governmental authority that carries out any part of a project described in this section without the aid ofamounts of the Government and according to all applicable procedures and requirements if—
+In general.—The Secretary may pay the Government's share of the net capital project cost to a State or local governmental authority that carries out any part of a project described in this section without the aid of amounts of the Government and according to all applicable procedures and requirements if—
 
 &emsp;&emsp;(A) the State or local governmental authority applies for the payment;
 
@@ -600,13 +600,13 @@ Fiscal year 2005.—Of the amounts made available or appropriated for fiscal yea
 
 &emsp;(2)
 
-Fiscal years 2006 through 2010 and october 1, 2010, through march 4, 2011.—The amounts made available or appropriated for fiscal years 2006 through 2010, and during the period beginning October 1, 2010, and ending March 4, 2011, under sections 5338(b) and 5338(c) shall be allocated as follows:
+Fiscal years 2006 through 2011 and the period beginning on october 1, 2011, and ending on march 31, 2012.—The amounts made available or appropriated for fiscal years 2006 through 2011 and the period beginning on October 1, 2011, and ending on March 31, 2012, under sections 5338(b) and 5338(c) shall be allocated as follows:
 
 &emsp;&emsp;(A)
 
 Capital investment grants.—Of the amounts appropriated under section 5338(c)—
 
-&emsp;&emsp;&emsp;(i) $200,000,000 for each of fiscal years 2007 through 2010, and $84,931,000 for the period beginning October 1, 2010 and ending March 4, 2011, shall be allocated for projects for new fixed guideway capital projects of less than $75,000,000 in accordance with subsection (e); and
+&emsp;&emsp;&emsp;(i) $200,000,000 for each of fiscal years 2007 through 2011 and $100,000,000 for the period beginning on October 1, 2011, and ending on March 31, 2012, shall be allocated for projects for new fixed guideway capital projects of less than $75,000,000 in accordance with subsection (e); and
 
 &emsp;&emsp;&emsp;(ii) the remainder shall be allocated for major new fixed guideway capital projects in accordance with subsection (d).
 
@@ -636,9 +636,9 @@ Funding for ferry boats.—Of the amounts described in paragraphs (1)(A) and (2)
 
 &emsp;&emsp;(A) $10,400,000 shall be available in fiscal year 2005 for capital projects in Alaska and Hawaii for new fixed guideway systems and extension projects utilizing ferry boats, ferry boat terminals, or approaches to ferry boat terminals;
 
-&emsp;&emsp;(B) $15,000,000 shall be available in each of fiscal years 2006 through 2010, and $6,369,000 shall be available for the period beginning October 1, 2010 and ending March 4, 2011, for capital projects in Alaska and Hawaii for new fixed guideway ferry systems and extension projects utilizing ferry boats, ferry boat terminals, or approaches to ferry boat terminals; and
+&emsp;&emsp;(B) $15,000,000 shall be available in each of fiscal years 2006 through 2011 and $7,500,000 shall be available for the period beginning on October 1, 2011, and ending on March 31, 2012, for capital projects in Alaska and Hawaii for new fixed guideway ferry systems and extension projects utilizing ferry boats, ferry boat terminals, or approaches to ferry boat terminals; and
 
-&emsp;&emsp;(C) $5,000,000 shall be available for each of fiscal years 2006 though 2010, and $2,123,000 shall be available for the period beginning October 1, 2010 and ending March 4, 2011, for payments to the Denali Commission under the terms of section 307(e) of the Denali Commission Act of 1998 (42 U.S.C. 3121 note) for docks, waterfront development projects, and related transportation infrastructure.
+&emsp;&emsp;(C) $5,000,000 shall be available for each of fiscal years 2006 though <sup>3</sup> 2011 and $2,500,000 shall be available for the period beginning on October 1, 2011, and ending on March 31, 2012, for payments to the Denali Commission under the terms of section 307(e) of the Denali Commission Act of 1998 (42 U.S.C. 3121 note) for docks, waterfront developmentprojects, and related transportation infrastructure.
 
 &emsp;(7)
 
@@ -646,31 +646,23 @@ Bus and bus facility grants.—The amounts made available under paragraphs (1)(C
 
 &emsp;&emsp;(A)
 
-Ferry boat systems.—
+Ferry boat systems.—$10,000,000 shall be available in each of fiscal years 2006 through 2011 and $5,000,000 shall be available for the period beginning on October 1, 2011, and ending on March 31, 2012, for ferry boats or ferry terminal facilities. Of such funds, the following amounts shall be set aside for: <sup>4</sup>
 
-&emsp;&emsp;&emsp;(i)
+&emsp;&emsp;&emsp;(i) $2,500,000 for each fiscal year and $1,250,000 for the period beginning on October 1, 2011, and ending on March 31, 2012, for the San Francisco Water Transit Authority.
 
-Fiscal years 2006 through 2010.—$10,000,000 shall be available in each of fiscal years 2006 through 2010 for ferry boats or ferry terminal facilities. Of such funds, the following amounts shall be set aside for each fiscal year:
+&emsp;&emsp;&emsp;(ii) $2,500,000 for each fiscal year and $1,250,000 for the period beginning on October 1, 2011, and ending on March 31, 2012, for the Massachusetts Bay Transportation Authority Ferry System.
 
-&emsp;&emsp;&emsp;&emsp;(I) $2,500,000 for the San Francisco Water Transit Authority.
+&emsp;&emsp;&emsp;(iii) $1,000,000 for each fiscal year and $500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012, for the Camden, New Jersey Ferry System.
 
-&emsp;&emsp;&emsp;&emsp;(II) $2,500,000 for the Massachusetts Bay Transportation Authority Ferry System.
+&emsp;&emsp;&emsp;(iv) $1,000,000 for each fiscal year and $500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012, for the Governor's Island, New York Ferry System.
 
-&emsp;&emsp;&emsp;&emsp;(III) $1,000,000 for the Camden, New Jersey Ferry System.
+&emsp;&emsp;&emsp;(v) $1,000,000 for each fiscal year and $500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012, for the Philadelphia Penn's Landing Ferry Terminal.
 
-&emsp;&emsp;&emsp;&emsp;(IV) $1,000,000 for the Governor's Island, New York Ferry System <sup>3</sup>
+&emsp;&emsp;&emsp;(vi) $1,000,000 for each fiscal year and $500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012, for the Staten Island Ferry.
 
-&emsp;&emsp;&emsp;&emsp;(V) $1,000,000 for the Philadelphia Penn's Landing Ferry Terminal.
+&emsp;&emsp;&emsp;(vii) $650,000 for each fiscal year and $325,000 for the period beginning on October 1, 2011, and ending on March 31, 2012, for the Maine State Ferry Service, Rockland.
 
-&emsp;&emsp;&emsp;&emsp;(VI) $1,000,000 for the Staten Island Ferry.
-
-&emsp;&emsp;&emsp;&emsp;(VII) $650,000 for the Maine State Ferry Service, Rockland.
-
-&emsp;&emsp;&emsp;&emsp;(VIII) $350,000 for the Swans Island, Maine Ferry Service.
-
-&emsp;&emsp;&emsp;(ii)
-
-Special rule for october 1, 2010, through march 4, 2011.—$4,246,000 shall be available for the period beginning October 1, 2010 and ending March 4, 2011, for ferry boats or ferry terminal facilities. The Secretary shall set aside a portion of such amount in accordance with clause (i), except that the Secretary shall set aside 155/365ths of each dollar amount specified in subclauses (I) through (VIII).
+&emsp;&emsp;&emsp;(viii) $350,000 for each fiscal year and $175,000 for the period beginning on October 1, 2011, and ending on March 31, 2012, for the Swans Island, Maine Ferry Service.
 
 &emsp;&emsp;(B)
 
@@ -686,25 +678,27 @@ Fuel cell bus program.—The following amounts shall be set aside for the nation
 
 &emsp;&emsp;&emsp;(v) $13,500,000 for fiscal year 2010.
 
-&emsp;&emsp;&emsp;$5,732,000 for the period beginning October 1, 2010 and ending March 4, 2011 <sup>3</sup>
+&emsp;&emsp;&emsp;(vi) $13,500,000 for fiscal year 2011.
+
+&emsp;&emsp;&emsp;(vii) $6,750,000 for the period beginning on October 1, 2011, and ending on March 31, 2012.
 
 &emsp;&emsp;(C)
 
-Projects not in urbanized areas.—Not less than 5.5 percent shall be available in each fiscal year, and during the period beginning October 1, 2010, and ending March 4, 2011, for projects that are not in urbanized areas.
+Projects not in urbanized areas.—Not less than 5.5 percent shall be available in each fiscal year and during the period beginning on October 1, 2011, and ending on March 31, 2012, for projects that are not in urbanized areas.
 
 &emsp;&emsp;(D)
 
-Intermodal terminals.—Not less than $35,000,000 shall be available in each fiscal year, and not less than $14,863,000 shall be available for the period beginning October 1, 2010 and ending March 4, 2011, for intermodal terminal projects, including the intercity bus portion of such projects.
+Intermodal terminals.—Not less than $35,000,000 shall be available in each fiscal year and not less than $17,500,000 shall be available for the period beginning on October 1, 2011, and ending on March 31, 2012, for intermodal terminal projects, including the intercity bus portion of such projects.
 
 &emsp;&emsp;(E)
 
-Bus testing.—$3,000,000 shall be available in each fiscal year, and $1,273,000 shall be available for the period beginning October 1, 2010 and ending March 4, 2011, for bus testing under section 5318.
+Bus testing.—$3,000,000 shall be available in each fiscal year and $1,500,000 shall be available for the period beginning on October 1, 2011, and ending on March 31, 2012, for bus testing under section 5318.
 
 &emsp;(8)
 
-Bus and bus facility grant considerations.—In making grants under paragraphs\(1)(C) and (2)(C), the Secretary shall consider the age and condition of buses, bus fleets, related equipment, and bus-related facilities.
+Bus and bus facility grant considerations.—In making grants under paragraphs (1)(C) and (2)(C), the Secretary shall consider the age and condition of buses, bus fleets, related equipment, and bus-related facilities.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 800; Pub. L. 104–287, §5(9), (12), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 102–240, title III, §3049(a), as added Pub. L. 105–130, §8, Dec. 1, 1997, 111 Stat. 2559; Pub. L. 105–178, title III, §3009(a), (c)–(h)(1), (3)(D), (i)–(k), June 9, 1998, 112 Stat. 352–357; Pub. L. 105–206, title IX, §9009(g), (h)(3), July 22, 1998, 112 Stat. 855, 856; Pub. L. 106–69, title III, §347, Oct. 9, 1999, 113 Stat. 1024; Pub. L. 106–346, §101(a) \[title III, §380\], Oct. 23, 2000, 114 Stat. 1356, 1356A–42; Pub. L. 106–554, §1(a)(4) \[div. A, §1101\], Dec. 21, 2000, 114 Stat. 2763, 2763A–201; Pub. L. 108–88, §8(a), Sept. 30, 2003, 117 Stat. 1121; Pub. L. 108–202, §9(a), Feb. 29, 2004, 118 Stat. 484; Pub. L. 108–224, §7(a), Apr. 30, 2004, 118 Stat. 632; Pub. L. 108–263, §7(a), June 30, 2004, 118 Stat. 704; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–280, §7(a), July 30, 2004, 118 Stat. 882; Pub. L. 108–310, §8(a), Sept. 30, 2004, 118 Stat. 1154; Pub. L. 109–14, §7(a), May 31, 2005, 119 Stat. 330; Pub. L. 109–20, §7(a), July 1, 2005, 119 Stat. 352; Pub. L. 109–35, §7(a), July 20, 2005, 119 Stat. 386; Pub. L. 109–37, §7(a), July 22, 2005, 119 Stat. 401; Pub. L. 109–40, §7(a), July 28, 2005, 119 Stat. 417; Pub. L. 109–59, title III, §3011(a), Aug. 10, 2005, 119 Stat. 1573; Pub. L. 110–244, title II, §201(d), June 6, 2008, 122 Stat. 1610; Pub. L. 111–147, title IV, §433, Mar. 18, 2010, 124 Stat. 88; Pub. L. 111–322, title II, §2303, Dec. 22, 2010, 124 Stat. 3527.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 800; Pub. L. 104–287, §5(9), (12), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 102–240, title III, §3049(a), as added Pub. L. 105–130, §8, Dec. 1, 1997, 111 Stat. 2559; Pub. L. 105–178, title III, §3009(a), (c)–(h)(1), (3)(D), (i)–(k), June 9, 1998, 112 Stat. 352–357; Pub. L. 105–206, title IX, §9009(g), (h)(3), July 22, 1998, 112 Stat. 855, 856; Pub. L. 106–69, title III, §347, Oct. 9, 1999, 113 Stat. 1024; Pub. L. 106–346, §101(a) \[title III, §380\], Oct. 23, 2000, 114 Stat. 1356, 1356A–42; Pub. L. 106–554, §1(a)(4) \[div. A, §1101\], Dec. 21, 2000, 114 Stat. 2763, 2763A–201; Pub. L. 108–88, §8(a), Sept. 30, 2003, 117 Stat. 1121; Pub. L. 108–202, §9(a), Feb. 29, 2004, 118 Stat. 484; Pub. L. 108–224, §7(a), Apr. 30, 2004, 118 Stat. 632; Pub. L. 108–263, §7(a), June 30, 2004, 118 Stat. 704; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–280, §7(a), July 30, 2004, 118 Stat. 882; Pub. L. 108–310, §8(a), Sept. 30, 2004, 118 Stat. 1154; Pub. L. 109–14, §7(a), May 31, 2005, 119 Stat. 330; Pub. L. 109–20, §7(a), July 1, 2005, 119 Stat. 352; Pub. L. 109–35, §7(a), July 20, 2005, 119 Stat. 386; Pub. L. 109–37, §7(a), July 22, 2005, 119 Stat. 401; Pub. L. 109–40, §7(a), July 28, 2005, 119 Stat. 417; Pub. L. 109–59, title III, §3011(a), Aug. 10, 2005, 119 Stat. 1573; Pub. L. 110–244, title II, §201(d), June 6, 2008, 122 Stat. 1610; Pub. L. 111–147, title IV, §433, Mar. 18, 2010, 124 Stat. 88; Pub. L. 111–322, title II, §2303, Dec. 22, 2010, 124 Stat. 3527; Pub. L. 112–5, title III, §303, Mar. 4, 2011, 125 Stat. 18; Pub. L. 112–30, title I, §133, Sept. 16, 2011, 125 Stat. 350.)
 
 Historical and Revision Notes
 
@@ -940,9 +934,61 @@ Section 3045 of the Federal Public Transportation Act of 2005, referred to in su
 
 #### Codification
 
-Pub. L. 111–322, §2303(4)–(7), which directed amendment of subpars. (B) to (E) of subsec. (m) of this section without specifying the paragraph to be amended, was executed to subpars. (B) to (E) of par. (7) of subsec. (m), to reflect the probable intent of Congress. See 2010 Amendment notes below.
+Pub. L. 111–322, §2303(4)–(7), which directed amendment of subpars. (B) to (E) of subsec. (m) of this sectionwithout specifying the paragraph to be amended, was executed to subpars. (B) to (E) of par. (7) of subsec. (m), to reflect the probable intent of Congress. See 2010 Amendment notes below.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (m)(2). Pub. L. 112–30, §133(1)(A), (B), substituted “Fiscal years 2006 through 2011 and the period beginning on October 1, 2011, and ending on March 31, 2012” for “Fiscal years 2006 through 2011” in heading and “2011 and the period beginning on October 1, 2011, and ending on March 31, 2012,” for “2011” in introductory provisions.
+
+Pub. L. 112–5, §303(1)(A), (B), substituted “Fiscal years 2006 through 2011” for “Fiscal years 2006 through 2010 and October 1, 2010, through March 4, 2011” in heading and “2011” for “2010, and during the period beginning October 1, 2010, and ending March 4, 2011,” in introductory provisions.
+
+Subsec. (m)(2)(A)(i). Pub. L. 112–30, §133(1)(C), substituted “2011 and $100,000,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,” for “2011”.
+
+Pub. L. 112–5, §303(1)(C), substituted “2011” for “2010, and $84,931,000 for the period beginning October 1, 2010 and ending March 4, 2011,”.
+
+Subsec. (m)(6)(B). Pub. L. 112–30, §133(2)(A), substituted “2011 and $7,500,000 shall be available for the period beginning on October 1, 2011, and ending on March 31, 2012,” for “2011”.
+
+Pub. L. 112–5, §303(2)(A), substituted “2011” for “2010, and $6,369,000 shall be available for the period beginning October 1, 2010 and ending March 4, 2011,”.
+
+Subsec. (m)(6)(C). Pub. L. 112–30, §133(2)(B), substituted “2011 and $2,500,000 shall be available for the period beginning on October 1, 2011, and ending on March 31, 2012,” for “2011”.
+
+Pub. L. 112–5, §303(2)(B), substituted “2011” for “2010, and $2,123,000 shall be available for the period beginning October 1, 2010 and ending March 4, 2011,”.
+
+Subsec. (m)(7)(A). Pub. L. 112–30, §133(3)(A)(i), substituted “2011 and $5,000,000 shall be available for the period beginning on October 1, 2011, and ending on March 31, 2012,” for “2011” and struck out “each fiscal year” before colon.
+
+Pub. L. 112–5, §303(3)(A)(i)–(iii), struck out cl. (i) designation and heading, substituted “$10,000,000 shall be available in each of fiscal years 2006 through 2011” for “$10,000,000 shall be available in each of fiscal years 2006 through 2010” in introductory provisions, redesignated subcls. (I) to (VIII) of former cl. (i) as cls. (i) to (viii), respectively, struck out former cl. (ii) which provided a special rule for Oct. 1, 2010, through Mar. 4, 2011, and realigned margins.
+
+Subsec. (m)(7)(A)(i), (ii). Pub. L. 112–30, §133(3)(A)(ii), (iii), substituted “$2,500,000 for each fiscal year and $1,250,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,” for “$2,500,000”.
+
+Subsec. (m)(7)(A)(iii). Pub. L. 112–30, §133(3)(A)(iv), substituted “$1,000,000 for each fiscal year and $500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,” for “$1,000,000”.
+
+Subsec. (m)(7)(A)(iv). Pub. L. 112–30, §133(3)(A)(v), substituted “$1,000,000 for each fiscal year and $500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,” for “$1,000,000”.
+
+Pub. L. 112–5, §303(3)(A)(iv), inserted a period at the end.
+
+Subsec. (m)(7)(A)(v), (vi). Pub. L. 112–30, §133(3)(A)(vi), (vii), substituted “$1,000,000 for each fiscal year and $500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,” for “$1,000,000”.
+
+Subsec. (m)(7)(A)(vii). Pub. L. 112–30, §133(3)(A)(viii), substituted “$650,000 for each fiscal year and $325,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,” for “$650,000”.
+
+Subsec. (m)(7)(A)(viii). Pub. L. 112–30, §133(3)(A)(ix), substituted “$350,000 for each fiscal year and $175,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,” for “$350,000”.
+
+Subsec. (m)(7)(B). Pub. L. 112–5, §303(3)(B)(i), struck out “$5,732,000 for the period beginning October 1, 2010 and ending March 4, 2011” after cl. (v).
+
+Subsec. (m)(7)(B)(vi). Pub. L. 112–5, §303(3)(B)(ii), added cl. (vi).
+
+Subsec. (m)(7)(B)(vii). Pub. L. 112–30, §133(3)(B), added cl. (vii).
+
+Subsec. (m)(7)(C). Pub. L. 112–30, §133(3)(C), substituted “fiscal year and during the period beginning on October 1, 2011, and ending on March 31, 2012,” for “fiscal year”.
+
+Pub. L. 112–5, §303(3)(C), struck out “, and during the period beginning October 1, 2010, and ending March 4, 2011,” after “year”.
+
+Subsec. (m)(7)(D). Pub. L. 112–30, §133(3)(D), substituted “fiscal year and not less than $17,500,000 shall be available for the period beginning on October 1, 2011, and ending on March 31, 2012,” for “fiscal year”.
+
+Pub. L. 112–5, §303(3)(D), struck out “, and not less than $14,863,000 shall be available for the period beginning October 1, 2010 and ending March 4, 2011,” after “year”.
+
+Subsec. (m)(7)(E). Pub. L. 112–30, §133(3)(E), substituted “fiscal year and $1,500,000 shall be available for the period beginning on October 1, 2011, and ending on March 31, 2012,” for “fiscal year”.
+
+Pub. L. 112–5, §303(3)(E), struck out “, and $1,273,000 shall be available for the period beginning October 1, 2010 and ending March 4, 2011,” after “year”.
 
 <b>2010</b>—Subsec. (m)(2). Pub. L. 111–322, §2303(1)(A), (B), substituted “March 4, 2011” for “December 31, 2010” in heading and introductory provisions.
 
@@ -968,7 +1014,7 @@ Subsec. (m)(7)(A). Pub. L. 111–147, §433(3)(A), inserted cl. (i) designation 
 
 Subsec. (m)(7)(A)(ii). Pub. L. 111–322, §2303(3)(A)(iii), substituted “155/365ths” for “25 percent”.
 
-Pub. L. 111–322, §2303(3)(A)(ii), which directed substitution of “$4,246,000 shall be available for the period beginning October 1, 2010 and ending March 4, 2011” for “$2,500,000 shall be available for the period beginning October 1, 2010 and ending December 31, 2010”, was executed by making the substitution for “$2,500,000 shall be available in the period beginning October 1, 2010, and ending December 31, 2010”, to reflect the probable intent of Congress.
+Pub. L. 111–322, §2303(3)(A)(ii), which directed substitution of “$4,246,000 shall be available for the period beginning October 1, 2010 and ending March 4, 2011” for “$2,500,000 shall be available for the period beginning October 1, 2010 and ending December 31, 2010”, was executed by making the substitution for “$2,500,000 shallbe available in the period beginning October 1, 2010, and ending December 31, 2010”, to reflect the probable intent of Congress.
 
 Pub. L. 111–322, §2303(3)(A)(i), substituted “March 4, 2011” for “December 31, 2010” in the heading.
 
@@ -992,7 +1038,7 @@ Pub. L. 111–147, §433(3)(E), inserted “, and $750,000 shall be available f
 
 <b>2008</b>—Subsec. (d)(5)(B). Pub. L. 110–244, §201(d)(1), substituted “this subsection and shall give comparable, but not necessarily equal, numerical weight to each project justification criteria in calculating the overall project rating.” for “regulation.”
 
-Subsec. (e)(6)(B). Pub. L. 110–244, §201(d)(2), substituted “subsection and shall give comparable, but notnecessarily equal, numerical weight to each project justification criteria in calculating the overall project rating.” for “subsection.”
+Subsec. (e)(6)(B). Pub. L. 110–244, §201(d)(2), substituted “subsection and shall give comparable, but not necessarily equal, numerical weight to each project justification criteria in calculating the overall project rating.” for “subsection.”
 
 Subsec. (m)(2)(A). Pub. L. 110–244, §201(d)(3), substituted “Capital” for “Major capital” in heading.
 
@@ -1230,7 +1276,7 @@ Pub. L. 110–244, title II, §201(p), June 6, 2008, 122 Stat. 1615, provided th
 
 #### Public-Private Partnership Pilot Program
 
-Pub. L. 109–59, title III, §3011(c), Aug. 10, 2005, 119 Stat. 1588, as amended by Pub. L. 111–147, title IV, §437(b)(1), Mar. 18, 2010, 124 Stat. 92; Pub. L. 111–322, title II, §2307(b)(1), Dec. 22, 2010, 124 Stat. 3530, provided that:
+Pub. L. 109–59, title III, §3011(c), Aug. 10, 2005, 119 Stat. 1588, as amended by Pub. L. 111–147, title IV, §437(b)(1), Mar. 18, 2010, 124 Stat. 92; Pub. L. 111–322, title II, §2307(b)(1), Dec. 22, 2010, 124 Stat. 3530; Pub. L. 112–5, title III, §307(b)(1), Mar. 4, 2011, 125 Stat. 21; Pub. L. 112–30, title I, §137(b)(1), Sept. 16, 2011, 125 Stat. 354, provided that:
 
 “(1)
 
@@ -1262,7 +1308,7 @@ Selection criteria.—The Secretary may approve the application of a recipient u
 
 “(5)
 
-Program term.—The Secretary may approve an application of a recipient for a public-private partnership for fiscal years 2006 through 2010 and the period beginning October 1, 2010, and ending March 4, 2011.
+Program term.—The Secretary may approve an application of a recipient for a public-private partnership for fiscal years 2006 through 2011 and the period beginning on October 1, 2011, and ending on March 31, 2012.
 
 “(6)
 
@@ -1310,5 +1356,7 @@ Pub. L. 91–453, §10, Oct. 15, 1970, 84 Stat. 968, as amended by Pub. L. 102�
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be followed by a period.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be “through”.</i>
+
+<i><sup>4</sup></i><i> So in original.</i>
 

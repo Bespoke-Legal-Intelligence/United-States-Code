@@ -4,7 +4,7 @@
 
 #### (1) Prohibition
 
-&emsp;It shall be unlawful for any person to offer to enter into, enter into, or confirm the execution of a transaction described in paragraph (2) involving the purchase or sale of any commodity for future delivery (or any option on such a transaction or option on a commodity) if the transaction is used or may be used to—
+&emsp;It shall be unlawful for any person to offer to enter into, enter into, or confirm the execution of a transaction described in paragraph (2) involving the purchase or sale of any commodity for future delivery (or any option on such a transaction or option on a commodity) or swap if the transaction is used or may be used to—
 
 &emsp;&emsp;(A) hedge any transaction in interstate commerce in the commodity or the product or byproduct of the commodity;
 
@@ -21,6 +21,66 @@
 &emsp;&emsp;(ii) is a fictitious sale; or
 
 &emsp;&emsp;(B) is used to cause any price to be reported, registered, or recorded that is not a true and bona fide price.
+
+#### (3) Contract of sale
+
+&emsp;It shall be unlawful for any employee or agent of any department or agency of the Federal Government who, by virtue of the employment or position of the employee or agent, acquires information that may affect or tend to affect the price of any commodity in interstate commerce, or for future delivery, or any swap, and which information has not been disseminated by the department or agency of the Federal Government holding or creating the information in a manner which makes it generally available to the trading public, or disclosed in a criminal, civil, or administrative hearing, or in a congressional, administrative, or Government Accountability Office report, hearing, audit, or investigation, to use the information in his personal capacity and for personal gain to enter into, or offer to enter into—
+
+&emsp;&emsp;(A) a contract of sale of a commodity for future delivery (or option on such a contract);
+
+&emsp;&emsp;(B) an option (other than an option executed or traded on a national securities exchange registered pursuant to section 78f(a) of title 15); or
+
+&emsp;&emsp;(C) a swap.
+
+#### (4) Nonpublic information
+
+#### (A) Imparting of nonpublic information
+
+&emsp;&emsp;It shall be unlawful for any employee or agent of any department or agency of the Federal Government who, by virtue of the employment or position of the employee or agent, acquires information that may affect or tend to affect the price of any commodity in interstate commerce, or for future delivery, or any swap, and which information has not been disseminated by the department or agency of the Federal Government holding or creating the information in a manner which makes it generally available to the trading public, or disclosed in a criminal, civil, or administrative hearing, or in a congressional, administrative, or Government Accountability Office report, hearing, audit, or investigation, to impart the information in his personal capacity and for personal gain with intent to assist another person, directly or indirectly, to use the information to enter into, or offer to enter into—
+
+&emsp;&emsp;&emsp;(i) a contract of sale of a commodity for future delivery (or option on such a contract);
+
+&emsp;&emsp;&emsp;(ii) an option (other than an option executed or traded on a national securities exchange registered pursuant to section 78f(a) of title 15); or
+
+&emsp;&emsp;&emsp;(iii) a swap.
+
+#### (B) Knowing use
+
+&emsp;&emsp;It shall be unlawful for any person who receives information imparted by any employee or agent of any department or agency of the Federal Government as described in subparagraph (A) to knowingly use such information to enter into, or offer to enter into—
+
+&emsp;&emsp;&emsp;(i) a contract of sale of a commodity for future delivery (or option on such a contract);
+
+&emsp;&emsp;&emsp;(ii) an option (other than an option executed or traded on a national securities exchange registered pursuant to section 78f(a) of title 15); or
+
+&emsp;&emsp;&emsp;(iii) a swap.
+
+#### (C) Theft of nonpublic information
+
+&emsp;&emsp;It shall be unlawful for any person to steal, convert, or misappropriate, by any means whatsoever, information held or created by any department or agency of the Federal Government that may affect or tend to affect the price of any commodity ininterstate commerce, or for future delivery, or any swap, where such person knows, or acts in reckless disregard of the fact, that such information has not been disseminated by the department or agency of the Federal Government holding or creating the information in a manner which makes it generally available to the trading public, or disclosed in a criminal, civil, or administrative hearing, or in a congressional, administrative, or Government Accountability Office report, hearing, audit, or investigation, and to use such information, or to impart such information with the intent to assist another person, directly or indirectly, to use such information to enter into, or offer to enter into—
+
+&emsp;&emsp;&emsp;(i) a contract of sale of a commodity for future delivery (or option on such a contract);
+
+&emsp;&emsp;&emsp;(ii) an option (other than an option executed or traded on a national securities exchange registered pursuant to section 78f(a) of title 15); or
+
+&emsp;&emsp;&emsp;(iii) a swap, provided, however, that nothing in this subparagraph shall preclude a person that has provided information concerning, or generated by, the person, its operations or activities, to any employee or agent of any department or agency of the Federal Government, voluntarily or as required by law, from using such information to enter into, or offer to enter into, a contract of sale, option, or swap described in clauses <sup>1</sup> (i), (ii), or (iii).
+
+#### (5) Disruptive practices
+
+&emsp;It shall be unlawful for any person to engage in any trading, practice, or conduct on or subject to the rules of a registered entity that—
+
+&emsp;&emsp;(A) violates bids or offers;
+
+&emsp;&emsp;(B) demonstrates intentional or reckless disregard for the orderly execution of transactions during the closing period; or
+
+&emsp;&emsp;(C) is, is of the character of, or is commonly known to the trade as, “spoofing” (bidding or offering with the intent to cancel the bid or offer before execution).
+
+#### (6) Rulemaking authority
+
+&emsp;The Commission may make and promulgate such rules and regulations as, in the judgment of the Commission, are reasonably necessary to prohibit the trading practices described in paragraph (5) and any other trading practice that is disruptive of fair and equitable trading.
+
+#### (7) Use of swaps to defraud
+
+&emsp;It shall be unlawful for any person to enter into a swap knowing, or acting in reckless disregard of the fact, that its counterparty will use the swap as part of a device, scheme, or artifice to defraud any third party.
 
 #### (b) Regulated option trading
 
@@ -48,7 +108,7 @@ Notwithstanding the provisions of subsection (c) of this section—
 
 &emsp;&emsp;&emsp;(ii) at all times has a net worth of at least $5,000,000 certified annually by an independent public accountant using generally accepted accounting principles;
 
-&emsp;&emsp;&emsp;(iii) notifies the Commission and every futures commission merchant offering the grantor's option if the grantor knows or has reason to believe that the grantor's net worth has fallen below $5,000,000;
+&emsp;&emsp;&emsp;(iii) notifies the Commission and every futures commission merchant offering thegrantor's option if the grantor knows or has reason to believe that the grantor's net worth has fallen below $5,000,000;
 
 &emsp;&emsp;&emsp;(iv) segregates daily, exclusively for the benefit of purchasers, money, exempted securities (within the meaning of section 78c(a)(12) of title 15), commercial paper, bankers’ acceptances, commercial bills, or unencumbered warehouse receipts, equal to an amount by which the value of each transaction exceeds the amount received or to be received by the grantor for such transaction;
 
@@ -84,77 +144,15 @@ The Commission shall adopt rules requiring that a contemporaneous written record
 
 (Sept. 21, 1922, ch. 369, §4c, as added June 15, 1936, ch. 545, §5, 49 Stat. 1494; amended Pub. L. 93–463, title I, §103(a), title IV, §402, Oct. 23, 1974, 88 Stat. 1392, 1412; Pub. L. 95–405, §3, Sept. 30, 1978, 92 Stat. 867; Pub. L. 97–444, title I, §102, title II, §206, Jan. 11, 1983, 96 Stat. 2296, 2301; Pub. L. 99–641, title I, §102, Nov. 10, 1986, 100 Stat. 3557; Pub. L. 102–546, title II, §203(a), title IV, §402(4), Oct. 28, 1992, 106 Stat. 3600, 3624; Pub. L. 106–554, §1(a)(5) \[title I, §§109, 123(a)(6)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–383, 2763A–407; Pub. L. 111–203, title VII, §§741(b)(2), 746, 747, July 21, 2010, 124 Stat. 1731, 1737, 1739.)
 
-#### Amendment of Subsection (a)
-
-<i>Pub. L. 111–203, title VII, §§741(b)(2), 746, 747, 754, July 21, 2010, 124 Stat. 1731, 1737, 1739, 1754, provided that, effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, subsection (a) of this section is amended as follows:</i>
-
-<i>(1) in paragraph (1), by inserting “or swap” before “if the transaction is used or may be used”; and</i>
-
-<i>(2) by adding at the end the following new paragraphs:</i>
-
-#### <i>(3) Contract of sale</i>
-
-&emsp;<i>It shall be unlawful for any employee or agent of any department or agency of the Federal Government who, by virtue of the employment or position of the employee or agent, acquires information that may affect or tend to affect the price of any commodity in interstate commerce, or for future delivery, or any swap, and which information has not been disseminated by the department or agency of the Federal Government holding or creating the information in a manner which makes it generally available to the trading public, or disclosed in a criminal, civil, or administrative hearing, or in a congressional, administrative, or Government Accountability Office report, hearing, audit, or investigation, to use the information in his personal capacity and for personal gain to enter into, or offer to enter into—</i>
-
-&emsp;&emsp;<i>(A) a contract of sale of a commodity for future delivery (or option on such a contract);</i>
-
-&emsp;&emsp;<i>(B) an option (other than an option executed or traded on a national securities exchange registered pursuant to section 78f(a) of title 15); or</i>
-
-&emsp;&emsp;<i>(C) a swap.</i>
-
-#### <i>(4) Nonpublic information</i>
-
-#### <i>(A) Imparting of nonpublic information</i>
-
-&emsp;&emsp;<i>It shall be unlawful for any employee or agent of any department or agency of the Federal Government who, by virtue of the employment or position of the employee or agent, acquires information that may affect or tend to affect the price of any commodity in interstate commerce, or for future delivery, or any swap, and which information has not been disseminated by the department or agency of the Federal Government holding or creating the infor</i><i>mation in a manner which makes it generally available to the trading public, or disclosed in a criminal, civil, or administrative hearing, or in a congressional, administrative, or Government Accountability Office report, hearing, audit, or investigation, to impart the information in his personal capacity and for personal gain with intent to assist another person, directly or indirectly, to use the information to enter into, or offer to enter into—</i>
-
-&emsp;&emsp;&emsp;<i>(i) a contract of sale of a commodity for future delivery (or option on such a contract);</i>
-
-&emsp;&emsp;&emsp;<i>(ii) an option (other than an option executed or traded on a national securities exchange registered pursuant to section 78f(a) of title 15); or</i>
-
-&emsp;&emsp;&emsp;<i>(iii) a swap.</i>
-
-#### <i>(B) Knowing use</i>
-
-&emsp;&emsp;<i>It shall be unlawful for any person who receives information imparted by any employee or agent of any department or agency of the Federal Government as described in subparagraph (A) to knowingly use such information to enter into, or offer to enter into—</i>
-
-&emsp;&emsp;&emsp;<i>(i) a contract of sale of a commodity for future delivery (or option on such a contract);</i>
-
-&emsp;&emsp;&emsp;<i>(ii) an option (other than an option executed or traded on a national securities exchange registered pursuant to section 78f(a) of title 15); or</i>
-
-&emsp;&emsp;&emsp;<i>(iii) a swap.</i>
-
-#### <i>(C) Theft of nonpublic information</i>
-
-&emsp;&emsp;<i>It shall be unlawful for any person to steal, convert, or misappropriate, by any means whatsoever, information held or created by any department or agency of the Federal Government that may affect or tend to affect the price of any commodity in interstate commerce, or for future delivery, or any swap, where such person knows, or acts in reckless disregard of the fact, that such information has not been disseminated by the department or agency of the Federal Government holding or creating the information in a manner which makes it generally available to the trading public, or disclosed in a criminal, civil, or administrative hearing, or in a congressional, administrative, or Government Accountability Office report, hearing, audit, or investigation, and to use such information, or to impart such information with the intent to assist another person, directly or indirectly, to use such information to enter into, or offer to enter into—</i>
-
-&emsp;&emsp;&emsp;<i>(i) a contract of sale of a commodity for future delivery (or option on such a contract);</i>
-
-&emsp;&emsp;&emsp;<i>(ii) an option (other than an option executed or traded on a national securities exchange registered pursuant to section 78f(a) of title 15); or</i>
-
-&emsp;&emsp;&emsp;<i>(iii) a swap, provided, however, that nothing in this subparagraph shall preclude a person that has provided information concerning, or generated by, the person, its operations or activities, to any employee or agent of any department or agency of the Federal Government, voluntarily or as required by law, from using such information to enter into, or offer to enter into, a contract of sale, option, or swap described in clauses (i), (ii), or (iii).</i>
-
-#### <i>(5) Disruptive practices</i>
-
-&emsp;<i>It shall be unlawful for any person to engage in any trading, practice, or conduct on or subject to the rules of a registered entity that—</i>
-
-&emsp;&emsp;<i>(A) violates bids or offers;</i>
-
-&emsp;&emsp;<i>(B) demonstrates intentional or reckless disregard for the orderly execution of transactions during the closing period; or</i>
-
-&emsp;&emsp;<i>(C) is, is of the character of, or is commonly known to the trade as, “spoofing” (bidding or offering with the intent to cancel the bid or offer before execution).</i>
-
-#### <i>(6) Rulemaking authority</i>
-
-&emsp;<i>The Commission may make and promulgate such rules and regulations as, in the judgment of the Commission, are reasonably necessary to prohibit the trading practices described in paragraph (5) and any other trading practice that is disruptive of fair and equitable trading.</i>
-
-#### <i>(7) Use of swaps to defraud</i>
-
-&emsp;<i>It shall be unlawful for any person to enter into a swap knowing, or acting in reckless disregard of the fact, that its counterparty will use the swap as part of a device, scheme, or artifice to defraud any third party.</i>
-
 #### Amendments
 
-2000—Pub. L. 106–554, §1(a)(5) \[title I, §109\], inserted section catchline.
+<b>2010</b>—Subsec. (a)(1). Pub. L. 111–203, §741(b)(2), inserted “or swap” before “if the transaction is used or may be used”.
+
+Subsec. (a)(3), (4). Pub. L. 111–203, §746, added pars. (3) and (4).
+
+Subsec. (a)(5) to (7). Pub. L. 111–203, §747, added pars. (5) to (7).
+
+<b>2000</b>—Pub. L. 106–554, §1(a)(5) \[title I, §109\], inserted section catchline.
 
 Subsec. (a). Pub. L. 106–554, §1(a)(5) \[title I, §109\], added subsec. (a) and struck out former subsec. (a) which read as follows: “It shall be unlawful for any person to offer to enter into, enter into, or confirm the execution of, any transaction involving any commodity, which is or may be used for (1) hedging any transaction in interstate commerce in such commodity or the products or byproducts thereof, or (2) determining the price basis of any such transaction in interstate commerce in such commodity, or (3) delivering any such commodity sold, shipped, or received in interstate commerce for the fulfillment thereof—
 
@@ -166,13 +164,13 @@ Subsec. (a). Pub. L. 106–554, §1(a)(5) \[title I, §109\], added subsec. (a) 
 
 Subsec. (g). Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(6)\], inserted “or derivatives transaction execution facility” after “contract market” in two places.
 
-1992—Subsec. (d)(2). Pub. L. 102–546, §402(4), made technical amendments to references to section 78c(a)(12) of title 15 in subpar. (A)(iv) and to section 2(a) of this title in concluding provisions.
+<b>1992</b>—Subsec. (d)(2). Pub. L. 102–546, §402(4), made technical amendments to references to section 78c(a)(12) of title 15 in subpar. (A)(iv) and to section 2(a) of this title in concluding provisions.
 
 Subsec. (g). Pub. L. 102–546, §203(a), added subsec. (g).
 
-1986—Subsec. (c). Pub. L. 99–641, amended subsec. (c) generally, substituting provisions relating to regulations to eliminate pilot status of program for commodity option transactions for provisions relating to commodity option transactions, pilot program and permanent authorization, conditions ending prohibition, and excepted persons.
+<b>1986</b>—Subsec. (c). Pub. L. 99–641, amended subsec. (c) generally, substituting provisions relating to regulations to eliminate pilot status of program for commodity option transactions for provisions relating to commodity option transactions, pilot program and permanent authorization, conditions ending prohibition, and excepted persons.
 
-1983—Subsec. (a)(B), (C). Pub. L. 97–444, §206(1), redesignated par. (C) as (B). Former par. (B), relating to transactions involving any commodity specifically set forth in section 2(a) of this title, prior to October 23,1974, if such transactions were of the character of, or were commonly known to the trade as, an “option”, “privilege”, “indemnity”, “bid”, “offer”, “put”, “call”, “advance guaranty”, or “decline guaranty”, was struck out.
+<b>1983</b>—Subsec. (a)(B), (C). Pub. L. 97–444, §206(1), redesignated par. (C) as (B). Former par. (B), relating to transactions involving any commodity specifically set forth in section 2(a) of this title, prior to October 23, 1974, if such transactions were of the character of, or were commonly known to the trade as, an “option”, “privilege”, “indemnity”, “bid”, “offer”, “put”, “call”, “advance guaranty”, or “decline guaranty”, was struck out.
 
 Subsec. (b). Pub. L. 97–444, §206(2), in revising section generally, struck out references to any transaction subject to provisions of subsection (a) of this section and to any commodity not specifically set forth in section 2(a) of this title, prior to October 23, 1974, and struck out “within one year after the effective date of the Commodity Futures Trading Commission Act of 1974 unless the Commission determines and notifies the Senate Committee on Agriculture, Nutrition, and Forestry and the House Committee on Agriculture that it is unable to prescribe such terms and conditions within such period of time:” after “such terms and conditions as the Commission shall prescribe”.
 
@@ -186,13 +184,13 @@ Pub. L. 97–444, §206(4)(C), inserted “, other than options on a commodity 
 
 Subsec. (f). Pub. L. 97–444, §102, added subsec. (f).
 
-1978—Subsec. (a). Pub. L. 95–405, §3(1), in provisions following par. (C) substituted “have been approved” for “not have been disapproved”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–405, §3(1), in provisions following par. (C) substituted “have been approved” for “not have been disapproved”.
 
 Subsec. (b). Pub. L. 95–405, §3(2), substituted “Senate Committee on Agriculture, Nutrition, and Forestry” for “Senate Committee on Agriculture and Forestry”.
 
 Subsecs. (c) to (e). Pub. L. 95–405, §3(3), added subsecs. (c) to (e).
 
-1974—Subsec. (a). Pub. L. 93–463, §§103(a), 402(a), (b), (d), designated existing provisions as subsec. (a), in par. (B) of subsec. (a) as so designated inserted “if such transaction involves any commodity specifically set forth in section 2(a) of this title, prior to the enactment of the Commodity Futures Trading Commission Act of 1974, and” and “option”, and in provisions following par. (C), struck out provisions prohibiting a construction of this section or section 6b of this title which would impair any State law applicable to any transaction enumerated or described in this section or section 6b of this title and substituted “Commission” for “Secretary of Agriculture”.
+<b>1974</b>—Subsec. (a). Pub. L. 93–463, §§103(a), 402(a), (b), (d), designated existing provisions as subsec. (a), in par. (B) of subsec. (a) as so designated inserted “if such transaction involves any commodity specifically set forth in section 2(a) of this title, prior to the enactment of the Commodity Futures Trading Commission Act of 1974, and” and “option”, and in provisions following par. (C), struck out provisions prohibiting a construction of this section or section 6b of this title which would impair any State law applicable to any transaction enumerated or described in this section or section 6b of this title and substituted “Commission” for “Secretary of Agriculture”.
 
 Subsec. (b). Pub. L. 93–463, §402(c), added subsec. (b).
 
@@ -219,4 +217,6 @@ For effective date of amendment by Pub. L. 93–463, see section 418 of Pub. L. 
 #### Effective Date
 
 For effective date of section, see section 13 of act June 15, 1936, set out as an Effective Date of 1936 Amendment note under section 1 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “clause”.</i>
 

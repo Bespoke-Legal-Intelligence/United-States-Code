@@ -66,5 +66,5 @@ Pub. L. 101–180, §1, Nov. 28, 1989, 103 Stat. 1325, provided that: “This Ac
 
 #### Short Title
 
-Section 1 of Pub. L. 98–183, as amended by Pub. L. 103–419, §2, Oct. 25, 1994, 108 Stat. 4338, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Civil Rights Commission Act of 1983’.”
+Section 1 of Pub. L. 98–183, as amended by Pub. L. 103–419, §2, Oct. 25, 1994, 108 Stat. 4338, provided that:“This Act \[enacting this chapter\] may be cited as the ‘Civil Rights Commission Act of 1983’.”
 

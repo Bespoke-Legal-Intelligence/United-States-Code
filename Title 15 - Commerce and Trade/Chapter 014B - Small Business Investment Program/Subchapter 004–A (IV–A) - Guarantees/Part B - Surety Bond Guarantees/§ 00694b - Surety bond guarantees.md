@@ -76,7 +76,7 @@ The Administration may, upon such terms and conditions as it may prescribe, adop
 
 (2) The Administration may at all reasonable times audit, in the offices of a participating surety, all documents, files, books, records, and other material relevant to the Administration's guarantee, commitments to guarantee, or agreements to indemnify any surety pursuant to this section.
 
-(3) Each surety participating under the authority of paragraph (3) of subsection (a) of this section shall be audited at least once every three years by examiners selected and approved by the Administration.
+(3) Each surety participating under the authority of paragraph (3) of subsection (a) of thissection shall be audited at least once every three years by examiners selected and approved by the Administration.
 
 #### (h) Administrative provisions
 
@@ -156,13 +156,13 @@ Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 
 
 #### Effective Date of 1996 Amendment
 
-Section 206(b) of div. D of Pub. L. 104–208 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to applications received (or pending substantive evaluation) on or after October 1, 1995.”
+Pub. L. 104–208, div. D, title II, §206(b), Sept. 30, 1996, 110 Stat. 3009–739, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to applications received (or pending substantive evaluation) on or after October 1, 1995.”
 
 #### Effective and Termination Dates of 1988 Amendment
 
 Pub. L. 100–590, title II, §207, Nov. 3, 1988, 102 Stat. 3009, as amended by Pub. L. 101–574, title II, §216(a), Nov. 15, 1990, 104 Stat. 2822; Pub. L. 103–403, title III, §302, Oct. 22, 1994, 108 Stat. 4188; Pub. L. 104–36, §7, Oct. 12, 1995, 109 Stat. 297; Pub. L. 105–135, title V, §503, Dec. 2, 1997, 111 Stat. 2624; Pub. L. 106–554, §1(a)(9) \[title VIII, §805(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–706, which provided that the provisions contained in section 694b(a)(3) of this title would cease to be effective after Sept. 30, 2003, was repealed by Pub. L. 108–447, div. K, title II, §203(c), Dec. 8, 2004, 118 Stat. 3466.
 
-Section 209 of title II of Pub. L. 100–590 provided that: “Except as otherwise provided in this title, the provisions of this title \[amending this section and section 694c of this title and enacting provisions set out as notes under this section\], shall become effective upon expiration of one hundred and eighty days after the date of its enactment \[Nov. 3, 1988\].”
+Pub. L. 100–590, title II, §209, Nov. 3, 1988, 102 Stat. 3010, provided that: “Except as otherwise provided in this title, the provisions of this title \[amending this section and section 694c of this title and enacting provisions set out as notes under this section\], shall become effective upon expiration of one hundred and eighty days after the date of its enactment \[Nov. 3, 1988\].”
 
 #### Effective Date of 1980 Amendment
 
@@ -170,15 +170,15 @@ Amendment by Pub. L. 96–302 effective Oct. 1, 1980, see section 507 of Pub. L.
 
 #### Regulations
 
-Section 205 of title II of Pub. L. 100–590 provided that: “The Administration shall promulgate final regulations to implement the amendments made by this title \[amending this section and section 694c of this title\] not later than one hundred and eighty days after the date of the enactment of this Act \[Nov. 3, 1988\].”
+Pub. L. 100–590, title II, §205, Nov. 3, 1988, 102 Stat. 3009, provided that: “The Administration shall promulgate final regulations to implement the amendments made by this title \[amending this section and section 694c of this title\] not later than one hundred and eighty days after the date of the enactment of this Act \[Nov. 3, 1988\].”
 
 #### Small Business Access to Surety Bonding Survey
 
-Pub. L. 102–366, title III, subtitle A, Sept. 4, 1992, 106 Stat. 1002–1005, known as the Small Business Access to Surety Bonding Survey Act of 1992, directed Comptroller General to conduct a comprehensive survey of business firms, from a statistically valid sample of business firms developed from the most recent list of construction firms maintained by Dun and Bradstreet Company and using a questionnaire with specifically designated questions, to obtain data on the experiences of such firms, and especially the experiences of small business concerns, in obtaining surety bonds from corporate surety firms and to submit a report to Congress, not laterthan 18 months after Sept. 4, 1992, which report was to contain a summary of responses of business firms to the survey and a description of any trends found by Comptroller General in such responses, which specific information on responses and trends of small business concerns, small business concerns owned and controlled by women, and small business concerns owned and controlled by socially and economically disadvantaged individuals.
+Pub. L. 102–366, title III, subtitle A, Sept. 4, 1992, 106 Stat. 1002–1005, known as the Small Business Access to Surety Bonding Survey Act of 1992, directed Comptroller General to conduct a comprehensive survey of business firms, from a statistically valid sample of business firms developed from the most recent list of construction firms maintained by Dun and Bradstreet Company and using a questionnaire with specifically designated questions, to obtain data on the experiences of such firms, and especially the experiences of small business concerns, in obtaining surety bonds from corporate surety firms and to submit a report to Congress, not later than 18 months after Sept. 4, 1992, which report was to contain a summary of responses of business firms to the survey and a description of any trends found by Comptroller General in such responses, which specific information on responses and trends of small business concerns, small business concerns owned and controlled by women, and small business concerns owned and controlled by socially and economically disadvantaged individuals.
 
 #### Evaluation of Preferred Surety Bond Guarantee Program; Report
 
-Section 206 of title II of Pub. L. 100–590, as amended by Pub. L. 101–574, title II, §216(b), Nov. 15, 1990, 104 Stat. 2823, directed Comptroller General, not later than 3 years after Nov. 3, 1988, to transmit a report to Congress evaluating the preferred surety bond guarantee program, with such report to be transmitted not later than Mar. 1, 1994, and cover the period Oct. 1, 1990, through Sept. 30, 1993.
+Pub. L. 100–590, title II, §206, Nov. 3, 1988, 102 Stat. 3009, as amended by Pub. L. 101–574, title II, §216(b), Nov. 15, 1990, 104 Stat. 2823, directed Comptroller General, not later than 3 years after Nov. 3, 1988, to transmit a report to Congress evaluating the preferred surety bond guarantee program, with such report to be transmitted not later than Mar. 1, 1994, and cover the period Oct. 1, 1990, through Sept. 30, 1993.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

@@ -30,7 +30,7 @@ In presenting the Budget of the United States, the President shall classify expe
 
 #### (d) Value of commodities
 
-Notwithstanding any other provision of law, in determining the reimbursement due the Commodity Credit Corporation for all expenses incurred under this chapter, commodities from the inventory of the Commodity Credit Corporation that were acquired under dairy price support operations shall be valued at a price not greater than the export market price for such commodities, as determined by the Secretary, as of the time such commodity is made available under this chapter.
+Notwithstanding any other provision of law, in determining the reimbursement due the Commodity Credit Corporation for all expenses incurred under this chapter, commodities from theinventory of the Commodity Credit Corporation that were acquired under dairy price support operations shall be valued at a price not greater than the export market price for such commodities, as determined by the Secretary, as of the time such commodity is made available under this chapter.
 
 #### (e) Minimum level of nonemergency food assistance
 
@@ -56,13 +56,13 @@ Notwithstanding any other provision of law, in determining the reimbursement due
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–246, §3020, added subsec. (a) and struck out former subsec. (a) which authorized appropriations for programs under subchapters II, III, and III–A of this chapter.
+<b>2008</b>—Subsec. (a). Pub. L. 110–246, §3020, added subsec. (a) and struck out former subsec. (a) which authorized appropriations for programs under subchapters II, III, and III–A of this chapter.
 
 Subsec. (e). Pub. L. 110–246, §3021, added subsec. (e).
 
-2000—Subsec. (d). Pub. L. 106–387 substituted “dairy price support operations” for “title I of the Agricultural Act of 1949 (7 U.S.C. 1421 et seq.)”.
+<b>2000</b>—Subsec. (d). Pub. L. 106–387 substituted “dairy price support operations” for “title I of the Agricultural Act of 1949 (7 U.S.C. 1421 et seq.)”.
 
-1996—Subsec. (b). Pub. L. 104–127, §220(1), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “Of the amounts made available in each fiscal year to carry out subchapters II and III–A of this chapter, not less than—
+<b>1996</b>—Subsec. (b). Pub. L. 104–127, §220(1), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “Of the amounts made available in each fiscal year to carry out subchapters II and III–A of this chapter, not less than—
 
 &emsp;“(1) 40 percent shall be made available to carry out the credit sales program established under subchapter II of this chapter; and
 
@@ -70,7 +70,7 @@ Subsec. (e). Pub. L. 110–246, §3021, added subsec. (e).
 
 Subsecs. (c) to (e). Pub. L. 104–127, §220, redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out heading and text of former subsec. (c). Text read as follows: “Notwithstanding any other provision of law and except as provided in subsection (b) of this section, if the President determines it to be necessary for purposes of this chapter, the President may direct that not in excess of 15 percent of the funds available in any fiscal year for carrying out any subchapter of this chapter be used to carry out any other subchapter of this chapter.”
 
-1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions authorizing President to seek agreement for international food reserve, with costs to be shared equitably among nations, and with safeguards against price disruptions.
+<b>1990</b>—Pub. L. 101–624 amended section generally, substituting present provisions for provisions authorizing President to seek agreement for international food reserve, with costs to be shared equitably among nations, and with safeguards against price disruptions.
 
 #### Effective Date of 2008 Amendment
 

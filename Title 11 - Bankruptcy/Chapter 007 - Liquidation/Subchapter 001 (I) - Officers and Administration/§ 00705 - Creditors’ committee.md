@@ -8,7 +8,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 705(a) of the House amendment adopts a provision contained in the Senate amendment that limits a committee of creditors to not more than 11; the House bill contained no maximum limitation.
 
@@ -18,7 +18,7 @@ This section is derived from section 44b of the Bankruptcy Act \[section 72(b) o
 
 #### Amendments
 
-1986—Subsec. (b). Pub. L. 99–554 inserted “or the United States trustee” in three places.
+<b>1986</b>—Subsec. (b). Pub. L. 99–554 inserted “or the United States trustee” in three places.
 
 #### Effective Date of 1986 Amendment
 

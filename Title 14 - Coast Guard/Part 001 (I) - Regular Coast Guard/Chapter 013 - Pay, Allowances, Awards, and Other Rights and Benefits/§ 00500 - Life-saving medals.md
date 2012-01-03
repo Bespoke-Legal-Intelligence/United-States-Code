@@ -8,7 +8,7 @@
 
 (b) In order for a person to be eligible for the Life-saving Medals the rescue or attempted rescue must take place in waters within the United States or subject to the jurisdiction thereof, or if the rescue or attempted rescue takes place outside such waters, one or the other of the parties must be a citizen of the United States or from a vessel or aircraft owned or operated by citizens of the United States.
 
-(c) No person shall receive more than one gold medal and one silver medal; but any person who has received or may hereafter receive a gold or silver medal and who again performs an act which would entitle him to receive another medal of the same class may be awarded, in lieu of a second medal of the same class, a gold or silver bar, as the case may be, to be worn with the medal already bestowed, and for every such additional act, an additional bar may be awarded. Medals and bars in lieu thereof, authorized by this subsection, may be awarded posthumously.
+(c) No person shall receive more than one gold medal and one silver medal; but any person who has received or may hereafter receive a gold orsilver medal and who again performs an act which would entitle him to receive another medal of the same class may be awarded, in lieu of a second medal of the same class, a gold or silver bar, as the case may be, to be worn with the medal already bestowed, and for every such additional act, an additional bar may be awarded. Medals and bars in lieu thereof, authorized by this subsection, may be awarded posthumously.
 
 (Aug. 4, 1949, ch. 393, 63 Stat. 536; Pub. L. 94–546, §1(31), Oct. 18, 1976, 90 Stat. 2521.)
 
@@ -26,5 +26,5 @@ Subsection (c) dealing with the awarding of bars for additional acts, clarifies,
 
 #### Amendments
 
-1976—Subsec. (a). Pub. L. 94–546 substituted “Secretary” for “Secretary of the Treasury”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–546 substituted “Secretary” for “Secretary of the Treasury”.
 

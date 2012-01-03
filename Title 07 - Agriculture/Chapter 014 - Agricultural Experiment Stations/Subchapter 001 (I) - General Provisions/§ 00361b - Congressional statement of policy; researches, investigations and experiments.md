@@ -10,5 +10,5 @@ Section was formerly classified to section 363 of this title.
 
 #### Amendments
 
-1955—Act Aug. 11, 1955, amended section generally to restate the policy of Congress.
+<b>1955</b>—Act Aug. 11, 1955, amended section generally to restate the policy of Congress.
 

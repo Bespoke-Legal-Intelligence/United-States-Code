@@ -40,7 +40,7 @@
 
 &emsp;The Secretary shall establish priorities with respect to the diseases, disorders, and other health conditions for which research and evaluations are to be conducted or supported under subsection (a) of this section. In establishing such priorities, the Secretary shall, with respect to a disease, disorder, or other health condition, consider the extent to which—
 
-&emsp;&emsp;(A) improved methods of prevention, diagnosis, treatment, and clinical management can benefit a significant number of individuals;
+&emsp;&emsp;(A) improved methods of prevention, diagnosis, treatment, and clinical managementcan benefit a significant number of individuals;
 
 &emsp;&emsp;(B) there is significant variation among physicians in the particular services and procedures utilized in making diagnoses and providing treatments or there is significant variation in the outcomes of health care services or procedures due to different patterns of diagnosis or treatment;
 
@@ -126,7 +126,7 @@ The Secretary may conduct or support research with respect to improving methods 
 
 #### (2) Specifications
 
-&emsp;For the purpose of carrying out this section, for each of the fiscal years 1990 through 1992 an amount equal to two-thirds of the amounts authorized to be appropriated under paragraph (1), and for each of the fiscal years 1993 and 1994 an amount equal to 70 percent of such amounts, are to be appropriated in the following proportions from the following trust funds:
+&emsp;For the purpose of carrying out this section, for each of the fiscal years 1990 through 1992 anamount equal to two-thirds of the amounts authorized to be appropriated under paragraph (1), and for each of the fiscal years 1993 and 1994 an amount equal to 70 percent of such amounts, are to be appropriated in the following proportions from the following trust funds:
 
 &emsp;&emsp;(A) 60 percent from the Federal Hospital Insurance Trust Fund (established under section 1395i of this title).
 

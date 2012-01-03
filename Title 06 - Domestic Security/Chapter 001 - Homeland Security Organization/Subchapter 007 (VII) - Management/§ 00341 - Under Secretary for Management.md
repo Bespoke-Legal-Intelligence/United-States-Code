@@ -36,7 +36,7 @@ The Under Secretary for Management shall serve as the Chief Management Officer a
 
 &emsp;In addition to the responsibilities described in subsection (a) of this section, the Under Secretary for Management shall be responsible for the following:
 
-&emsp;&emsp;(A) Maintenance of all immigration statistical information of the Bureau of Border Security and the Bureau of Citizenship and Immigration Services. Such statistical information shall include information and statistics of the type contained in the publication entitled “Statistical Yearbook of the Immigration and Naturalization Service” prepared by the Immigration and Naturalization Service (as in effect immediately before the date on which the transfer offunctions specified under section 251 of this title takes effect), including region-by-region statistics on the aggregate number of applications and petitions filed by an alien (or filed on behalf of an alien) and denied by such bureau, and the reasons for such denials, disaggregated by category of denial and application or petition type.
+&emsp;&emsp;(A) Maintenance of all immigration statistical information of the Bureau of Border Security and the Bureau of Citizenship and Immigration Services. Such statistical information shall include information and statistics of the type contained in the publication entitled “Statistical Yearbook of the Immigration and Naturalization Service” prepared by the Immigration and Naturalization Service (as in effect immediately before the date on which the transfer of functions specified under section 251 of this title takes effect), including region-by-region statistics on the aggregate number of applications and petitions filed by an alien (or filed on behalf of an alien) and denied by such bureau, and the reasons for such denials, disaggregated by category of denial and application or petition type.
 
 &emsp;&emsp;(B) Establishment of standards of reliability and validity for immigration statistics collected by such bureaus.
 
@@ -86,7 +86,7 @@ The Under Secretary for Management shall—
 
 #### Amendments
 
-2007—Subsec. (a). Pub. L. 110–53, §2405(a)(1), inserted in introductory provisions “The Under Secretary for Management shall serve as the Chief Management Officer and principal advisor to the Secretary on matters related to the management of the Department, including management integration and transformation in support of homeland security operations and programs.”
+<b>2007</b>—Subsec. (a). Pub. L. 110–53, §2405(a)(1), inserted in introductory provisions “The Under Secretary for Management shall serve as the Chief Management Officer and principal advisor to the Secretary on matters related to the management of the Department, including management integration and transformation in support of homeland security operations and programs.”
 
 Subsec. (a)(7). Pub. L. 110–53, §2405(a)(2), added par. (7) and struck out former par. (7) which read as follows: “Identification and tracking of performance measures relating to the responsibilities of the Department.”
 

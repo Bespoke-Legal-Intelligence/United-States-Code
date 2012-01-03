@@ -2,7 +2,7 @@
 
 (a)
 
-Authority To Make Grants.—The Secretary may make grants to a State in a fiscalyear in accordance with this section if the State has in effect in such fiscal year—
+Authority To Make Grants.—The Secretary may make grants to a State in a fiscal year in accordance with this section if the State has in effect in such fiscal year—
 
 &emsp;(1) a law which makes unlawful throughout the State the operation of a motorcycle if any individual on the motorcycle is not wearing a motorcycle helmet; and
 
@@ -80,7 +80,7 @@ Penalty.—
 
 &emsp;(1)
 
-Fiscal year 1994.—If, at any time in fiscal year 1994, a State does not have in effect a law described in subsection (a)(2), the Secretary shall transfer 1½ percent of the funds apportioned to the State for fiscal year 1995 under each of subsections (b)(1), (b)(2), and (b)(3) of section 104 of this title to the apportionment of the State under section 402 of this title.
+Fiscal year 1994.—If, at any time in fiscal year 1994, a State does not have in effect a law described in subsection (a)(2), the Secretary shall transfer 1½ percent of the funds apportioned to the State for fiscal year 1995 under each of subsections (b)(1), (b)(2), and (b)(3) ofsection 104 of this title to the apportionment of the State under section 402 of this title.
 
 &emsp;(2)
 
@@ -96,7 +96,7 @@ Transfer of obligation authority.—If the Secretary transfers under this subsec
 
 &emsp;&emsp;(A) the amount of funds transferred to the apportionment of section 402 of the State under section 402 for such fiscal year; by
 
-&emsp;&emsp;(B) the ratio of the amount of obligation authority distributed for such fiscal year tothe State for Federal-aid highways and highway safety construction programs to the total of the sums apportioned to the State for Federal-aid highways and highway safety construction (excluding sums not subject to any obligation limitation) for such fiscal year.
+&emsp;&emsp;(B) the ratio of the amount of obligation authority distributed for such fiscal year to the State for Federal-aid highways and highway safety construction programs to the total of the sums apportioned to the State for Federal-aid highways and highway safety construction (excluding sums not subject to any obligation limitation) for such fiscal year.
 
 &emsp;(5)
 

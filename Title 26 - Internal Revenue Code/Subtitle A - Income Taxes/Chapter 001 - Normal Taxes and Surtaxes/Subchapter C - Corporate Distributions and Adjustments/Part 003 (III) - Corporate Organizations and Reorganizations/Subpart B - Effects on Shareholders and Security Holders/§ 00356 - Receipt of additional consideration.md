@@ -74,7 +74,7 @@ For purposes of this section—
 
 #### (2) Exception
 
-&emsp;The term “other property” does not include nonqualified preferred stock (as so defined) tothe extent that, under section 354 or 355, such preferred stock would be permitted to be received without the recognition of gain.
+&emsp;The term “other property” does not include nonqualified preferred stock (as so defined) to the extent that, under section 354 or 355, such preferred stock would be permitted to be received without the recognition of gain.
 
 #### (f) Exchanges for section 306 stock
 

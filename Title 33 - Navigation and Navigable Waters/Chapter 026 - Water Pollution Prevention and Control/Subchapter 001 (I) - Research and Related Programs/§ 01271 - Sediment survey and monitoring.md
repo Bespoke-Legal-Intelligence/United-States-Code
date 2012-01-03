@@ -8,7 +8,7 @@
 
 #### (2) Report
 
-&emsp;Not later than 24 months after October 31, 1992, the Administrator shall report to the Congress the findings, conclusions, and recommendations of such survey, including recommendations for actions necessary to prevent contamination of aquatic sediments and to control sources of contamination.
+&emsp;Not later than 24 months after October 31, 1992, the Administrator shall report to theCongress the findings, conclusions, and recommendations of such survey, including recommendations for actions necessary to prevent contamination of aquatic sediments and to control sources of contamination.
 
 #### (b) Monitoring
 

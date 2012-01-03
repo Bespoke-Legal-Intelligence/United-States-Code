@@ -4,7 +4,7 @@
 
 The Secretary may, by regulation and under such conditions and procedures as he may prescribe, exempt from specific provisions of this chapter—
 
-&emsp;(1) the sale, transportation, possession, or use of eggs which contain no more restrictedeggs than are allowed by the tolerance in the official standards of United States consumer grades for shell eggs;
+&emsp;(1) the sale, transportation, possession, or use of eggs which contain no more restricted eggs than are allowed by the tolerance in the official standards of United States consumer grades for shell eggs;
 
 &emsp;(2) the processing of egg products at any plant where the facilities and operating procedures meet such sanitary standards as may be prescribed by the Secretary, and where the eggs received or used in the manufacture of egg products contain no more restricted eggs than are allowed by the official standards of United States consumer grades for shell eggs, and the egg products processed at such plant;
 

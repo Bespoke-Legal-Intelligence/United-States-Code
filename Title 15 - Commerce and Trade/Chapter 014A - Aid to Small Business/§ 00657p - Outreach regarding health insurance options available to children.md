@@ -66,7 +66,7 @@ In this section—
 
 &emsp;&emsp;&emsp;(ii) a partnership with any appropriate small business concern or health advocacy group; and
 
-&emsp;&emsp;(C) designate outreach programs at regional offices of the Department of Healthand Human Services to work with district offices of the Administration.
+&emsp;&emsp;(C) designate outreach programs at regional offices of the Department of Health and Human Services to work with district offices of the Administration.
 
 #### (5) Website
 

@@ -32,7 +32,7 @@
 
 #### (c) Noncompliance of State
 
-Before making a grant under section 300x–21 of this title to a State for the first applicable fiscal year or any subsequent fiscal year, the Secretary shall make a determination of whether the State has maintained compliance with subsections (a) and (b) of this section. If, after notice to the State and an opportunity for a hearing, the Secretary determines that the State is not in compliance with such subsections, the Secretary shall reduce the amount of the allotment under such section for the State for the fiscal year involved by an amount equal to—
+Before making a grant under section 300x–21 of this title to a State for the first applicable fiscal year or any subsequent fiscal year, the Secretary shall make a determination of whetherthe State has maintained compliance with subsections (a) and (b) of this section. If, after notice to the State and an opportunity for a hearing, the Secretary determines that the State is not in compliance with such subsections, the Secretary shall reduce the amount of the allotment under such section for the State for the fiscal year involved by an amount equal to—
 
 &emsp;(1) in the case of the first applicable fiscal year, 10 percent of the amount determined under section 300x–33 of this title for the State for the fiscal year;
 

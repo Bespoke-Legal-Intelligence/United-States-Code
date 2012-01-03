@@ -14,7 +14,7 @@ The Congress further finds that (1) a program of flood insurance can promote the
 
 #### (d) Authorization of flood insurance program; flexibility in program
 
-It is therefore the purpose of this chapter to (1) authorize a flood insurance program by means of which flood insurance, over a period of time, can be made available on a nationwide basis through the cooperative efforts of the Federal Government and the private insurance industry, and (2) provide flexibility in the program so that such flood insurance may be based on workable methods of pooling risks, minimizingcosts, and distributing burdens equitably among those who will be protected by flood insurance and the general public.
+It is therefore the purpose of this chapter to (1) authorize a flood insurance program by means of which flood insurance, over a period of time, can be made available on a nationwide basis through the cooperative efforts of the Federal Government and the private insurance industry, and (2) provide flexibility in the program so that such flood insurance may be based on workable methods of pooling risks, minimizing costs, and distributing burdens equitably among those who will be protected by flood insurance and the general public.
 
 #### (e) Land use adjustments by State and local governments; development of proposed future construction; assistance of lending and credit institutions; relation of Federal assistance to all flood-related programs; continuing studies
 
@@ -34,7 +34,7 @@ This chapter, referred to in subsecs. (d) to (f), was in the original a referenc
 
 #### Amendments
 
-<b>1994</b>—Subsec. (g). Pub. L. 103–325 struck out subsec. (g) which read as follows: “The Congress also finds that (1) the damage and loss which may result from the erosion and undermining of shorelines by waves or currents in lakes and other bodies of water exceeding anticipated cyclical levels is related in cause and similar in effect to that which results directly from storms, deluges, overflowing waters, and other forms of flooding, and (2) the problems involved in providing protection against this damage and loss, and the possibilities for making such protection available through a Federal or federally sponsored program, are similar to those which exist in connection with efforts to provide protection against damage and loss caused by such other forms of flooding. It is therefore the further purpose of this chapter to make available, by means of the methods, procedures, and instrumentalities which are otherwise established or available under this chapter for purposes of the flood insurance program, protection against damage and loss resulting from the erosion and undermining of shorelines by waves or currents in lakes and other bodies of water exceeding anticipated cyclical levels.”
+<b>1994</b>—Subsec. (g). Pub. L. 103–325 struck out subsec. (g) which read as follows: “The Congress also finds that\(1) the damage and loss which may result from the erosion and undermining of shorelines by waves or currents in lakes and other bodies of water exceeding anticipated cyclical levels is related in cause and similar in effect to that which results directly from storms, deluges, overflowing waters, and other forms of flooding, and (2) the problems involved in providing protection against this damage and loss, and the possibilities for making such protection available through a Federal or federally sponsored program, are similar to those which exist in connection with efforts to provide protection against damage and loss caused by such other forms of flooding. It is therefore the further purpose of this chapter to make available, by means of the methods, procedures, and instrumentalities which are otherwise established or available under this chapter for purposes of the flood insurance program, protection against damage and loss resulting from the erosion and undermining of shorelines by waves or currents in lakes and other bodies of water exceeding anticipated cyclical levels.”
 
 <b>1973</b>—Subsec. (g). Pub. L. 93–234 added subsec. (g).
 
@@ -66,7 +66,7 @@ Pub. L. 108–264, §1(a), June 30, 2004, 118 Stat. 712, provided that: “This 
 
 #### Short Title of 2003 Amendments
 
-Pub. L. 108–171, §1, Dec. 6, 2003, 117 Stat. 2064, provided that: “This Act \[amending sections 4016, 4026, 4056, and4127 of this title and enacting provisions set out as a note under section 4016 of this title\] may be cited as the ‘National Flood Insurance Program Reauthorization Act of 2004’.”
+Pub. L. 108–171, §1, Dec. 6, 2003, 117 Stat. 2064, provided that: “This Act \[amending sections 4016, 4026, 4056, and 4127 of this title and enacting provisions set out as a note under section 4016 of this title\] may be cited as the ‘National Flood Insurance Program Reauthorization Act of 2004’.”
 
 Pub. L. 108–3, §1, Jan. 13, 2003, 117 Stat. 7, provided that: “This Act \[amending sections 4016, 4026, 4056, and 4127 of this title and enacting provisions set out as a note under section 4016 of this title\] may be cited as the ‘National Flood Insurance Program Reauthorization Act of 2003’.”
 

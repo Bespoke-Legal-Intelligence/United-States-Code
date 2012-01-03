@@ -48,7 +48,7 @@
 
 &emsp;If the taxpayer has eligible gain for the taxable year from 1 or more dispositions of stock issued by any corporation, the aggregate amount of such gain from dispositions of stock issued by such corporation which may be taken into account under subsection (a) for the taxable year shall not exceed the greater of—
 
-&emsp;&emsp;(A) $10,000,000 reduced by the aggregate amount of eligible gain taken into accountby the taxpayer under subsection (a) for prior taxable years and attributable to dispositions of stock issued by such corporation, or
+&emsp;&emsp;(A) $10,000,000 reduced by the aggregate amount of eligible gain taken into account by the taxpayer under subsection (a) for prior taxable years and attributable to dispositions of stock issued by such corporation, or
 
 &emsp;&emsp;(B) 10 times the aggregate adjusted bases of qualified small business stock issued by such corporation and disposed of by the taxpayer during the taxable year.
 
@@ -128,7 +128,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) the aggregate gross assets of such corporation (or any predecessor thereof) at all times on or after the date of the enactment of the Revenue Reconciliation Act of 1993 and before the issuance did not exceed $50,000,000,
 
-&emsp;&emsp;(B) the aggregate gross assets of such corporation immediately after the issuance (determined by taking into account amountsreceived in the issuance) do not exceed $50,000,000, and
+&emsp;&emsp;(B) the aggregate gross assets of such corporation immediately after the issuance (determined by taking into account amounts received in the issuance) do not exceed $50,000,000, and
 
 &emsp;&emsp;(C) such corporation agrees to submit such reports to the Secretary and to shareholders as the Secretary may require to carry out the purposes of this section.
 

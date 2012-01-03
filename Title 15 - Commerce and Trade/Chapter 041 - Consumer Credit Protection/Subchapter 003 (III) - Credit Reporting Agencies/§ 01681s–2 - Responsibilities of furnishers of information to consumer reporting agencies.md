@@ -50,7 +50,7 @@
 
 #### (B) Rule of construction
 
-&emsp;&emsp;For purposes of this paragraph only, and provided that the consumer does not dispute the information, a person that furnishes information on a delinquent account that is placed for collection, charged for profit or loss, or subjected to any similar action, complies with this paragraph, if—
+&emsp;&emsp;For purposes of this paragraph only, and provided that the consumer does not disputethe information, a person that furnishes information on a delinquent account that is placed for collection, charged for profit or loss, or subjected to any similar action, complies with this paragraph, if—
 
 &emsp;&emsp;&emsp;(i) the person reports the same date of delinquency as that provided by the creditor to which the account was owed at the time at which the commencement of the delinquency occurred, if the creditor previously reported that date of delinquency to a consumer reporting agency;
 
@@ -100,17 +100,17 @@
 
 #### (D) Model disclosure
 
-#### (i) Duty of Board to prepare
+#### (i) Duty of Bureau
 
-&emsp;&emsp;&emsp;The Board shall prescribe a brief model disclosure a financial institution may use to comply with subparagraph (A), which shall not exceed 30 words.
+&emsp;&emsp;&emsp;The Bureau shall prescribe a brief model disclosure that a financial institution may use to comply with subparagraph (A), which shall not exceed 30 words.
 
 #### (ii) Use of model not required
 
-&emsp;&emsp;&emsp;No provision of this paragraph shall be construed as requiring a financial institution to use any such model form prescribed by the Board.
+&emsp;&emsp;&emsp;No provision of this paragraph may be construed to require a financial institution to use any such model form prescribed by the Bureau.
 
 #### (iii) Compliance using model
 
-&emsp;&emsp;&emsp;A financial institution shall be deemed to be in compliance with subparagraph (A) if the financial institution uses any such model form prescribed by the Board, or the financial institution uses any such model form and rearranges its format.
+&emsp;&emsp;&emsp;A financial institution shall be deemed to be in compliance with subparagraph (A) if the financial institution uses any model form prescribed by the Bureau under this subparagraph, or the financial institution uses any such model form and rearranges its format.
 
 #### (E) Use of notice without submitting negative information
 
@@ -136,7 +136,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Federal banking agencies, the National Credit Union Administration, and the Commission shall jointly prescribe regulations that shall identify the circumstances under which a furnisher shall be required to reinvestigate a dispute concerning the accuracy of information contained in a consumer report on the consumer, based on a direct request of a consumer.
+&emsp;&emsp;The Bureau, in consultation with the Federal Trade Commission, the Federal banking agencies, and the National Credit Union Administration, shall prescribe regulations that shall identify the circumstances under which a furnisher shall be required to reinvestigate a dispute concerning the accuracy of information contained in a consumer report on the consumer, based on a direct request of a consumer.
 
 #### (B) Considerations
 
@@ -250,85 +250,39 @@ The provisions of law described in paragraphs (1) through (3) of subsection (c) 
 
 #### (1) Guidelines
 
-&emsp;The Federal banking agencies, the National Credit Union Administration, and the Commission shall, with respect to the entities that are subject to their respective enforcement authority under section 1681s of this title, and in coordination as described in paragraph (2)—
+&emsp;The Bureau shall, with respect to persons or entities that are subject to the enforcement authority of the Bureau under section 1681s of this title—
 
 &emsp;&emsp;(A) establish and maintain guidelines for use by each person that furnishes information to a consumer reporting agency regarding the accuracy and integrity of the information relating to consumers that such entities furnish to consumer reporting agencies, and update such guidelines as often as necessary; and
 
 &emsp;&emsp;(B) prescribe regulations requiring each person that furnishes information to a consumer reporting agency to establish reasonable policies and procedures for implementing the guidelines established pursuant to subparagraph (A).
 
-#### (2) Coordination
+#### (2) Criteria
 
-&emsp;Each agency required to prescribe regulations under paragraph (1) shall consult and coordinate with each other such agency so that, to the extent possible, the regulations prescribed by each such entity are consistent and comparable with the regulations prescribed by each other such agency.
-
-#### (3) Criteria
-
-&emsp;In developing the guidelines required by paragraph (1)(A), the agencies described in paragraph (1) shall—
+&emsp;In developing the guidelines required by paragraph (1)(A), the Bureau shall—
 
 &emsp;&emsp;(A) identify patterns, practices, and specific forms of activity that can compromise the accuracy and integrity of information furnished to consumer reporting agencies;
 
 &emsp;&emsp;(B) review the methods (including technological means) used to furnish information relating to consumers to consumer reporting agencies;
 
-&emsp;&emsp;(C) determine whether persons that furnish information to consumer reporting agencies maintain and enforce policies to assure the accuracy and integrity of information furnished to consumer reporting agencies; and
+&emsp;&emsp;(C) determine whether persons that furnish information to consumer reporting agencies maintain and enforce policies to ensure the accuracy and integrity of information furnished to consumer reporting agencies; and
 
 &emsp;&emsp;(D) examine the policies and processes that persons that furnish information to consumer reporting agencies employ to conduct reinvestigations and correct inaccurate information relating to consumers that has been furnished to consumer reporting agencies.
 
-(Pub. L. 90–321, title VI, §623, as added Pub. L. 104–208, div. A, title II, §2413(a)(2), Sept. 30, 1996, 110 Stat. 3009–447; amended Pub. L. 108–159, title I, §154(a), title II, §217(a), title III, §§312(a)–(e)(1), 314(b), title IV, §412(a), Dec. 4, 2003, 117 Stat. 1966, 1986, 1989–1993, 1995, 2002; Pub. L. 111–203, title X, §1088(a)(2)(D), (11), July 21, 2010, 124 Stat. 2087, 2090.)
-
-#### Amendment of Section
-
-<i>Pub. L. 111–203, title X, §§1088(a)(2)(D), (11), 1100H, July 21, 2010, 124 Stat. 2087, 2090, 2113, provided that, effective on the designated transfer date, this section is amended as follows:</i>
-
-<i>(1) by striking “The Federal banking agencies, the National Credit Union Administration, and the Commission shall jointly” each place that term appears and inserting “The Bureau shall”;</i>
-
-<i>(2) in subsection (a)(7), by striking subparagraph (D) and inserting the following:</i>
-
-#### <i>“(D) Model disclosure</i>
-
-#### <i>“(i) Duty of Bureau</i>
-
-&emsp;&emsp;&emsp;<i>“The Bureau shall prescribe a brief model disclosure that a financial institution may use to comply with subparagraph (A), which shall not exceed 30 words.</i>
-
-#### <i>“(ii) Use of model not required</i>
-
-&emsp;&emsp;&emsp;<i>“No provision of this paragraph may be construed to require a financial institution to use any such model form prescribed by the Bureau.</i>
-
-#### <i>“(iii) Compliance using model</i>
-
-&emsp;&emsp;&emsp;<i>“A financial institution shall be deemed to be in compliance with subparagraph (A) if the financial institution uses any model form prescribed by the Bureau under this subparagraph, or the financial institution uses any such model form and rearranges its format.”;</i>
-
-<i>(3) in subsection (a)(8), by inserting “, in consultation with the Federal Trade Commission, the Federal banking agencies, and the National Credit Union Administration,” before “shall jointly”; and</i>
-
-<i>(4) by striking subsection (e) and inserting the following:</i>
-
-#### <i>“(e) Accuracy guidelines and regulations required</i>
-
-#### <i>“(1) Guidelines</i>
-
-&emsp;<i>“The Bureau shall, with respect to persons or entities that are subject to the enforcement authority of the Bureau under section 1681s of this title—</i>
-
-&emsp;&emsp;<i>“(A) establish and maintain guidelines for use by each person that furnishes information to a consumer reporting agency regarding the accuracy and integrity of the information relating to consumers that such entities furnish to consumer reporting agencies, and update such guidelines as often as necessary; and</i>
-
-&emsp;&emsp;<i>“(B) prescribe regulations requiring each person that furnishes information to a consumer reporting agency to establish reasonable policies and procedures for implementing the guidelines established pursuant to subparagraph (A).</i>
-
-#### <i>“(2) Criteria</i>
-
-&emsp;<i>“In developing the guidelines required by paragraph (1)(A), the Bureau shall—</i>
-
-&emsp;&emsp;<i>“(A) identify patterns, practices, and specific forms of activity that can compromise the accuracy and integrity of information furnished to consumer reporting agencies;</i>
-
-&emsp;&emsp;<i>“(B) review the methods (including technological means) used to furnish information relating to consumers to consumer reporting agencies;</i>
-
-&emsp;&emsp;<i>“(C) determine whether persons that furnish information to consumer reporting agencies maintain and enforce policies to ensure the accuracy and integrity of information furnished to consumer reporting agencies; and</i>
-
-&emsp;&emsp;<i>“(D) examine the policies and processes that persons that furnish information to consumer reporting agencies employ to conduct reinvestigations and correct inaccurate information relating to consumers that has been furnished to consumer reporting agencies.”</i>
-
-<i>See Effective Date of 2010 Amendment note below.</i>
+(Pub. L. 90–321, title VI, §623, as added Pub. L. 104–208, div. A, title II, §2413(a)(2), Sept. 30, 1996, 110 Stat. 3009–447; amended Pub. L. 108–159, titleI, §154(a), title II, §217(a), title III, §§312(a)–(e)(1), 314(b), title IV, §412(a), Dec. 4, 2003, 117 Stat. 1966, 1986, 1989–1993, 1995, 2002; Pub. L. 111–203, title X, §1088(a)(2)(D), (11), July 21, 2010, 124 Stat. 2087, 2090.)
 
 #### Prior Provisions
 
 A prior section 623 of Pub. L. 90–321 was renumbered section 625 and is classified to section 1681t of this title.
 
 #### Amendments
+
+<b>2010</b>—Subsec. (a)(7)(D). Pub. L. 111–203, §1088(a)(11)(A), added subpar. (D) and struck out former subpar. (D) which related to duty of Board to prescribe a model disclosure.
+
+Subsec. (a)(8)(A). Pub. L. 111–203, §1088(a)(11)(B), which directed amendment of subpar. (A) by inserting “, in consultation with the Federal Trade Commission, the Federal banking agencies, and the National Credit Union Administration,” before “shall jointly”, was executed by making the insertion before “shall prescribe”, to reflect the probable intent of Congress and the amendment by Pub. L. 111–203, §1088(a)(2)(D). See below.
+
+Pub. L. 111–203, §1088(a)(2)(D), substituted “The Bureau shall” for “The Federal banking agencies, the National Credit Union Administration, and the Commission shall jointly”.
+
+Subsec. (e). Pub. L. 111–203, §1088(a)(11)(C), added subsec. (e) and struck out former subsec. (e) which related to establishment and maintenance of accuracy guidelines and prescription of implementing regulations by the Federal banking agencies, the National Credit Union Administration, and the Commission.
 
 <b>2003</b>—Subsec. (a)(1)(A). Pub. L. 108–159, §312(b)(1), substituted “knows or has reasonable cause to believe that the information is inaccurate” for “knows or consciously avoids knowing that the information is inaccurate”.
 

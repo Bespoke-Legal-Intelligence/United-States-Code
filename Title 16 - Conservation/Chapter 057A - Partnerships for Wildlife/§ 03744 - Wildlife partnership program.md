@@ -22,7 +22,7 @@ The following wildlife conservation and appreciation projects shall be eligible 
 
 #### (c) Project standards
 
-The Secretary shall not provide funding to carry out an eligible wildlife conservation andappreciation project unless the Secretary determines that such a project—
+The Secretary shall not provide funding to carry out an eligible wildlife conservation and appreciation project unless the Secretary determines that such a project—
 
 &emsp;(1) is planned adequately to accomplish the stated objective or objectives;
 
@@ -92,7 +92,7 @@ Subsec. (g)(3), (4). Pub. L. 103–375, §6(6)(B), struck out pars. (3) and (4) 
 
 “(3) The Secretary may accept and use donations from the National Fish and Wildlife Foundation and other private entities or persons for purposes of assisting States under this section.
 
-“(4) Of the total amount provided from the Fund to assist a State in carrying out a wildlife conservationand appreciation project under subsection (a) of this section, at least 50 percent shall have been donated to the Fund by the National Fish and Wildlife Foundation.”
+“(4) Of the total amount provided from the Fund to assist a State in carrying out a wildlife conservation and appreciation project under subsection (a) of this section, at least 50 percent shall have been donated to the Fund by the National Fish and Wildlife Foundation.”
 
 Subsec. (h). Pub. L. 103–375, §6(7), substituted “1998” for “1995” and struck out before period at end “to match the amount of contributions made to the Fund by the National Fish and Wildlife Foundation”.
 

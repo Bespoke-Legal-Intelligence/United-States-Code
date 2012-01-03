@@ -10,5 +10,5 @@ Section was formerly classified to section 565 of this title.
 
 #### Amendments
 
-1950—Act June 15, 1950, provided for payment of administrative costs out of fund and any supplements thereto as well as by Congressional appropriations.
+<b>1950</b>—Act June 15, 1950, provided for payment of administrative costs out of fund and any supplements thereto as well as by Congressional appropriations.
 

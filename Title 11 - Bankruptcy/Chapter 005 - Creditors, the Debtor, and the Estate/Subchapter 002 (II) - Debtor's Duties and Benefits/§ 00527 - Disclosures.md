@@ -4,7 +4,7 @@
 
 &emsp;(1) the written notice required under section 342(b)(1); and
 
-&emsp;(2) to the extent not covered in the written notice described in paragraph (1), and not later than 3 business days after the first date on which a debt relief agency first offers to provide any bankruptcy assistance services to an assisted person, a clear and conspicuous written notice advising assisted persons that—
+&emsp;(2) to the extent not covered in the written notice described in paragraph (1), and not later than 3 business days after the first date on which a debt relief agency first offers to provide any bankruptcy assistance services to anassisted person, a clear and conspicuous written notice advising assisted persons that—
 
 &emsp;&emsp;(A) all information that the assisted person is required to provide with a petition and thereafter during a case under this title is required to be complete, accurate, and truthful;
 
@@ -46,9 +46,9 @@
 
 #### Amendments
 
-2010—Subsec. (b). Pub. L. 111–327 substituted “Schedules, and Statement of Financial Affairs, and in some cases a Statement of Intention,” for “Schedules and Statement of Financial Affairs, as well as in some cases a Statement of Intention” in third sentence of fourth undesignated par.
+<b>2010</b>—Subsec. (b). Pub. L. 111–327 substituted “Schedules, and Statement of Financial Affairs, and in some cases a Statement of Intention,” for “Schedules and Statement of Financial Affairs, as well as in some cases a Statement of Intention” in third sentence of fourth undesignated par.
 
 #### Effective Date
 
-Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under section 101 of this title.
+Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwiseprovided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under section 101 of this title.
 

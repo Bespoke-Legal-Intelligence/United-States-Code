@@ -24,7 +24,7 @@
 
 &emsp;&emsp;&emsp;(v) the supportive housing program for persons with disabilities under section 8013 of title 42;
 
-&emsp;&emsp;&emsp;(vi) the programs under title IV of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11361 et seq.), but only permanent supportive housing projects subsidized under such programs;
+&emsp;&emsp;&emsp;(vi) the programs under title IV of the McKinney-Vento Homeless Assistance Act \[42 U.S.C. 11360 et seq.\], but only permanent supportive housing projects subsidized under such programs;
 
 &emsp;&emsp;&emsp;(vii) the rural rental housing program under section 1485 of title 42;
 
@@ -84,17 +84,17 @@ The Director may submit recommendations to the Committee on Financial Services o
 
 &emsp;In determining whether an enterprise has complied with the duty referred to in paragraph (1), the Director may not consider any affordable housing fund grant amounts used under section 4567 of this title for eligible activities under subsection (g) of such section.
 
-(Pub. L. 102–550, title XIII, §1335, Oct. 28, 1992, 106 Stat. 3961; Pub. L. 105–65, title V, §517(c), Oct. 27, 1997, 111 Stat. 1403; Pub. L. 110–289, div. A, title I, §§1128(c)(1), 1129(a), July 30, 2008, 122 Stat. 2701, 2703.)
+(Pub. L. 102–550, title XIII, §1335, Oct. 28, 1992, 106 Stat. 3961; Pub. L. 105–65, title V, §517(c), Oct. 27,1997, 111 Stat. 1403; Pub. L. 110–289, div. A, title I, §§1128(c)(1), 1129(a), July 30, 2008, 122 Stat. 2701, 2703.)
 
 #### References in Text
 
-The McKinney-Vento Homeless Assistance Act, referred to in subsec. (a)(1)(B)(vi), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482. Title IV of the Act is classified generally to subchapter IV (§11360 et seq.) of chapter 119 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
+The McKinney-Vento Homeless Assistance Act, referred to in subsec. (a)(1)(B)(vi), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482. Title IV of the Act is classified principally to subchapter IV (§11360 et seq.) of chapter 119 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
 
 The Community Reinvestment Act of 1977, referred to in subsec. (b)(3)(B), is title VIII of Pub. L. 95–128, Oct. 12, 1977, 91 Stat. 1147, which is classified generally to chapter 30 (§2901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2901 of this title and Tables.
 
 #### Amendments
 
-2008—Pub. L. 110–289, §1129(a)(1), inserted “Duty to serve underserved markets and” before “other” in section catchline.
+<b>2008</b>—Pub. L. 110–289, §1129(a)(1), inserted “Duty to serve underserved markets and” before “other” in section catchline.
 
 Subsec. (a). Pub. L. 110–289, §1129(a)(4), added subsec. (a). Former subsec. (a) redesignated (b).
 
@@ -108,7 +108,7 @@ Pub. L. 110–289, §1129(a)(2), struck out subsec. (b). Text read as follows: �
 
 Subsecs. (c), (d). Pub. L. 110–289, §1129(a)(5), added subsecs. (c) and (d).
 
-1997—Subsec. (a). Pub. L. 105–65, §517(c)(3), designated existing provisions as subsec. (a) and inserted heading.
+<b>1997</b>—Subsec. (a). Pub. L. 105–65, §517(c)(3), designated existing provisions as subsec. (a) and inserted heading.
 
 Subsec. (a)(5). Pub. L. 105–65, §517(c)(1), (2), (4), added par. (5).
 

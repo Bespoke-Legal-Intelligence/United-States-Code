@@ -24,13 +24,13 @@
 
 #### (1) Establishment
 
-&emsp;There is established an adult protective services grant program under which the Secretary shall annually award grants to States in the amounts calculated under paragraph (2) for the purposes of enhancing adult protective services provided by States and local units of government.
+&emsp;There is established an adult protective services grant program under which the Secretary shall annually award grants to Statesin the amounts calculated under paragraph (2) for the purposes of enhancing adult protective services provided by States and local units of government.
 
 #### (2) Amount of payment
 
 #### (A) In general
 
-&emsp;&emsp;Subject to the availability of appropriations and subparagraphs (B) and (C), theamount paid to a State for a fiscal year under the program under this subsection shall equal the amount appropriated for that year to carry out this subsection multiplied by the percentage of the total number of elders who reside in the United States who reside in that State.
+&emsp;&emsp;Subject to the availability of appropriations and subparagraphs (B) and (C), the amount paid to a State for a fiscal year under the program under this subsection shall equal the amount appropriated for that year to carry out this subsection multiplied by the percentage of the total number of elders who reside in the United States who reside in that State.
 
 #### (B) Guaranteed minimum payment amount
 

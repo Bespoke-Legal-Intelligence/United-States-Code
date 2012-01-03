@@ -60,7 +60,7 @@ Section 132(f)(5) of the Internal Revenue Code of 1986, referred to in subsec. (
 
 #### Amendments
 
-2002—Subsec. (a)(1). Pub. L. 107–296 substituted “, a member of a uniformed service, and a student who provides voluntary services under section 3111” for “and a member of a uniformed service”.
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–296 substituted “, a member of a uniformed service, and a student who provides voluntary services under section 3111” for “and a member of a uniformed service”.
 
 #### Effective Date of 2002 Amendment
 
@@ -134,7 +134,7 @@ Ex. Ord. No. 13150, Apr. 21, 2000, 65 F.R. 24613, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Transportation Equity Act for the 21st Century (Public Law 105–178) \[see Tables for classification\], section 1911 of the Energy Policy Act of 1992 (Public Law 102–486) \[amending section 132 of Title 26, Internal Revenue Code\], section 531(a)(1) of the Deficit Reduction Act of 1984 (26 U.S.C. 132), and the Federal Employees Clean Air Incentives Act (Public Law 103–172) \[enacting this section and provisions set out as notes above\], and in order to reduce Federal employees’ contribution to traffic congestion and air pollution and to expand their commuting alternatives, it is hereby ordered as follows:
 
-Section 1. <i>Mass Transportation and Vanpool Transportation Fringe Benefit Program</i>. (a) By no later than October 1, 2000, Federal agencies shall implement a transportation fringe benefit program that offers qualified Federal employees the option to exclude from taxable wages and compensation, consistent with section 132 oftitle 26, United States Code, employee commuting costs incurred through the use of mass transportation and vanpools, not to exceed the maximum level allowed by law (26 U.S.C. 132 (f)(2)). These agency programs shall comply with the requirements of Internal Revenue Service regulations for qualified transportation fringe benefits under section 1.132–9 of title 26, Code of Federal Regulations, and other guidance.
+Section 1. <i>Mass Transportation and Vanpool Transportation Fringe Benefit Program</i>. (a) By no later than October 1, 2000, Federal agencies shall implement a transportation fringe benefit program that offers qualified Federal employees the option to exclude from taxable wages and compensation, consistent with section 132 of title 26, United States Code, employee commuting costs incurred through the use of mass transportation and vanpools, not to exceed the maximum level allowed by law (26 U.S.C. 132 (f)(2)). These agency programs shall comply with the requirements of Internal Revenue Service regulations for qualified transportation fringe benefits under section 1.132–9 of title 26, Code of Federal Regulations, and other guidance.
 
 (b) Federal agencies are encouraged to use any nonmonetary incentive that the agencies may otherwise offer under any other provision of law or other authority to encourage mass transportation and vanpool use, as provided for in section 7905(b)(2)(C) of title 5, United States Code.
 

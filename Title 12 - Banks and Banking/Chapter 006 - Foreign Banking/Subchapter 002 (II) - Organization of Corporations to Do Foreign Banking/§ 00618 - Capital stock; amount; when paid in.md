@@ -18,11 +18,11 @@ Section is comprised of par. 10 (undesignated) of section 25A of act Dec. 23, 19
 
 #### Amendments
 
-1996—Pub. L. 104–208 inserted last sentence and struck out former last sentence which read as follows: “Any national banking association may invest in the stock of any corporation organized under the provisions of said sections, but the aggregate amount of stock held in all corporations engaged in business of the kind described in this subchapter and subchapter I of this chapter shall not exceed 10 per centum of the subscribing bank's capital and surplus.”
+<b>1996</b>—Pub. L. 104–208 inserted last sentence and struck out former last sentence which read as follows: “Any national banking association may invest in the stock of any corporation organized under the provisions of said sections, but the aggregate amount of stock held in all corporations engaged in business of the kind described in this subchapter and subchapter I of this chapter shall not exceed 10 per centum of the subscribing bank's capital and surplus.”
 
-1978—Pub. L. 95–369 struck out proviso limiting liabilities outstanding at any one time upon debentures, bonds and promissory notes to not in excess of ten times its paid in capital and surplus, after “stock of corporations engaged in business of the kind described in this subchapter and subchapter I of this chapter”.
+<b>1978</b>—Pub. L. 95–369 struck out proviso limiting liabilities outstanding at any one time upon debentures, bonds and promissory notes to not in excess of ten times its paid in capital and surplus, after “stock of corporations engaged in business of the kind described in this subchapter and subchapter I of this chapter”.
 
-1921—Act June 14, 1921, amended section generally, inserting two provisos.
+<b>1921</b>—Act June 14, 1921, amended section generally, inserting two provisos.
 
 #### Change of Name
 

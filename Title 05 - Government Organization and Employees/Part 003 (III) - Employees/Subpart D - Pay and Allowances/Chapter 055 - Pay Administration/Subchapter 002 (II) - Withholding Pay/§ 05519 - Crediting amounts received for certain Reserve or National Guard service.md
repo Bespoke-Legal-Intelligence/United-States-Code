@@ -6,7 +6,7 @@ An amount (other than a travel, transportation, or per diem allowance) received 
 
 #### Amendments
 
-1996—Pub. L. 104–106 substituted “granted military leave” for “entitled to leave”.
+<b>1996</b>—Pub. L. 104–106 substituted “granted military leave” for “entitled to leave”.
 
-1992—Pub. L. 102–378 substituted “6323(b) or (c)” for “6323(c) or (d) of this title”.
+<b>1992</b>—Pub. L. 102–378 substituted “6323(b) or (c)” for “6323(c) or (d) of this title”.
 

@@ -34,13 +34,13 @@ Another section 3329 was renumbered section 3330 of this title.
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(f)(1)(A)\], substituted “the term ‘military technician (dual status)’ ” for “such term”.
+<b>2000</b>—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(f)(1)(A)\], substituted “the term ‘military technician (dual status)’ ” for “such term”.
 
 Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(f)(1)(B)\], substituted “section 12732 of title 10” for “section 1332 of title 10”.
 
-1997—Subsec. (b). Pub. L. 105–85 struck out “a position described in subsection (c) not later than 6 months after the date of the application” after “program of the Department of Defense”.
+<b>1997</b>—Subsec. (b). Pub. L. 105–85 struck out “a position described in subsection (c) not later than 6 months after the date of the application” after “program of the Department of Defense”.
 
-1996—Subsec. (b). Pub. L. 104–106, §1037(a)(1), substituted “be provided placement consideration in a position described in subsection (c) through a priority placement program of the Department of Defense” for “be offered”.
+<b>1996</b>—Subsec. (b). Pub. L. 104–106, §1037(a)(1), substituted “be provided placement consideration in a position described in subsection (c) through a priority placement program of the Department of Defense” for “be offered”.
 
 Subsec. (c). Pub. L. 104–106, §1037(a)(2), added subsec. (c) and struck out former subsec. (c) which read as follows: “The position to be offered shall be a position—
 

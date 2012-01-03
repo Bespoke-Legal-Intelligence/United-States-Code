@@ -10,7 +10,7 @@ Not later than July 1, 1981, the Secretary shall notify each Service hospital an
 
 #### (c) Evaluation of proposals
 
-The Secretary shall evaluate promptly each proposal submitted under subsection (b) of this section with respect to a hospital or other station and determine, not later than September 30, 1981, whether or not under such proposal the hospital or station—
+The Secretary shall evaluate promptly each proposal submitted under subsection (b) of thissection with respect to a hospital or other station and determine, not later than September 30, 1981, whether or not under such proposal the hospital or station—
 
 &emsp;(1) will be maintained as a general health care facility providing a range of services to the population within its service area,
 

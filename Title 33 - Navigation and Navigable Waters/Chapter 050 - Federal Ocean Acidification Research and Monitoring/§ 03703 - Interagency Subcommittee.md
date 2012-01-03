@@ -30,7 +30,7 @@ The Subcommittee shall—
 
 &emsp;(4) coordinate the United States Federal research and monitoring program with research and monitoring programs and scientists from other nations; and
 
-&emsp;(5) establish or designate an Ocean Acidification Information Exchange to make information on ocean acidification developed through or utilized by the interagency ocean acidification program accessible through electronicmeans, including information which would be useful to policymakers, researchers, and other stakeholders in mitigating or adapting to the impacts of ocean acidification.
+&emsp;(5) establish or designate an Ocean Acidification Information Exchange to make information on ocean acidification developed through or utilized by the interagency ocean acidification program accessible through electronic means, including information which would be useful to policymakers, researchers, and other stakeholders in mitigating or adapting to the impacts of ocean acidification.
 
 #### (c) Reports to Congress
 
@@ -55,4 +55,8 @@ The Subcommittee shall—
 &emsp;Not later than 2 years after March 30, 2009, the Subcommittee shall transmit the strategic research plan developed under section 3704 of this title to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science and Technology and the Committee on Natural Resources of the House of Representatives. A revised plan shall be submitted at least once every 5 years thereafter.
 
 (Pub. L. 111–11, title XII, §12404, Mar. 30, 2009, 123 Stat. 1437.)
+
+#### Change of Name
+
+Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 

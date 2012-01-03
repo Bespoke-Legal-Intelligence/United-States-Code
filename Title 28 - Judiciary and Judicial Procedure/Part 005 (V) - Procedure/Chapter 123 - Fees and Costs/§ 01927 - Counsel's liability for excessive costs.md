@@ -1,6 +1,6 @@
 ### §1927. Counsel's liability for excessive costs
 
-Any attorney or other person admitted to conduct cases in any court of the United States orany Territory thereof who so multiplies the proceedings in any case unreasonably and vexatiously may be required by the court to satisfy personally the excess costs, expenses, and attorneys’ fees reasonably incurred because of such conduct.
+Any attorney or other person admitted to conduct cases in any court of the United States or any Territory thereof who so multiplies the proceedings in any case unreasonably and vexatiously may be required by the court to satisfy personally the excess costs, expenses, and attorneys’ fees reasonably incurred because of such conduct.
 
 (June 25, 1948, ch. 646, 62 Stat. 957; Pub. L. 96–349, §3, Sept. 12, 1980, 94 Stat. 1156.)
 

@@ -12,7 +12,7 @@ The tax imposed by section 2101 shall be credited with the amounts determined in
 
 #### (2) Residents of possessions of the United States
 
-&emsp;In the case of a decedent who is considered to be a “nonresident not a citizen of theUnited States” under section 2209, the credit under this subsection shall be the greater of—
+&emsp;In the case of a decedent who is considered to be a “nonresident not a citizen of the United States” under section 2209, the credit under this subsection shall be the greater of—
 
 &emsp;&emsp;(A) $13,000, or
 
@@ -46,7 +46,7 @@ The tax imposed by section 2101 shall be credited with the amounts determined in
 
 <b>2001</b>—Subsec. (a). Pub. L. 107–16, §§532(c)(7)(A), 901, temporarily reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “The tax imposed by section 2101 shall be credited with the amounts determined in accordance with sections 2011 to 2013, inclusive (relating to State death taxes, gift tax, and tax on prior transfers), subject to the special limitation provided in subsection (b).” See Effective and Termination Dates of 2001 Amendment note below.
 
-Subsec. (b). Pub. L. 107–16, §§532(c)(7)(B), 901, temporarily redesignated subsec. (c) as (b) and struck out heading and text of former subsec. (b). Text read as follows: “The maximum credit allowed under section 2011 against the tax imposed by section 2101 for State death taxes paid shall be an amount which bears the same ratio to the credit computed as provided in section 2011(b) as the value of the property, as determined for purposes of this chapter, upon which State death taxes were paid and which is included in the gross estate under section 2103 bears to the value of the total gross estate under section 2103. For purposes of this subsection, the term ‘State death taxes’ means the taxes described in section 2011(a).” See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (b). Pub. L. 107–16, §§532(c)(7)(B), 901, temporarily redesignated subsec. (c) as (b) and struck outheading and text of former subsec. (b). Text read as follows: “The maximum credit allowed under section 2011 against the tax imposed by section 2101 for State death taxes paid shall be an amount which bears the same ratio to the credit computed as provided in section 2011(b) as the value of the property, as determined for purposes of this chapter, upon which State death taxes were paid and which is included in the gross estate under section 2103 bears to the value of the total gross estate under section 2103. For purposes of this subsection, the term ‘State death taxes’ means the taxes described in section 2011(a).” See Effective and Termination Dates of 2001 Amendment note below.
 
 Subsec. (b)(5). Pub. L. 107–16, §§532(c)(7)(C), 901, temporarily substituted “2012 and 2013” for “2011 to 2013, inclusive,”. See Effective and Termination Dates of 2001 Amendment note below.
 

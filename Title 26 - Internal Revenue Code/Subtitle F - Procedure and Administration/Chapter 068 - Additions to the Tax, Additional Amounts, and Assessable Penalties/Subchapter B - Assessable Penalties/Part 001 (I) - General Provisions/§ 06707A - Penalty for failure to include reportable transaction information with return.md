@@ -2,7 +2,7 @@
 
 #### (a) Imposition of penalty
 
-Any person who fails to include on any return or statement any information with respect to areportable transaction which is required under section 6011 to be included with such return or statement shall pay a penalty in the amount determined under subsection (b).
+Any person who fails to include on any return or statement any information with respect to a reportable transaction which is required under section 6011 to be included with such return or statement shall pay a penalty in the amount determined under subsection (b).
 
 #### (b) Amount of penalty
 
@@ -92,9 +92,13 @@ Sections 13 and 15(d) of the Securities Exchange Act of 1934, referred to in sub
 
 Pub. L. 111–240, title II, §2041(b), Sept. 27, 2010, 124 Stat. 2560, provided that: “The amendment made by this section \[amending this section\] shall apply to penalties assessed after December 31, 2006.”
 
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–240, title II, §2041(b), Sept. 27, 2010, 124 Stat. 2560, provided that: “The amendment made by this section \[amending this section\] shall apply to penalties assessed after December 31, 2006.”
+
 #### Effective Date
 
-Pub. L. 108–357, title VIII, §811(c), Oct. 22, 2004, 118 Stat. 1577, as amended by Pub. L. 109–135, title IV, §403(w), Dec. 21, 2005, 119 Stat. 2629, provided that: “The amendments made by this section \[enacting this section\] shall apply to returns and statements the due date for which is after the date of the enactment of thisAct \[Oct. 22, 2004\] and which were not filed before such date.”
+Pub. L. 108–357, title VIII, §811(c), Oct. 22, 2004, 118 Stat. 1577, as amended by Pub. L. 109–135, title IV, §403(w), Dec. 21, 2005, 119 Stat. 2629, provided that: “The amendments made by this section \[enacting this section\] shall apply to returns and statements the due date for which is after the date of the enactment of this Act \[Oct. 22, 2004\] and which were not filed before such date.”
 
 #### Report
 

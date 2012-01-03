@@ -40,7 +40,7 @@
 
 (i)(1) The Secretary of the Treasury may prescribe regulations that the Secretary considers necessary to carry out this section.
 
-(2) Regulations under this subsection shall ensure that individuals required under subsection (g) to have an account at a financial institution because of the application of subsection (f)(1)—
+(2) Regulations under this subsection shall ensure that individuals required under subsection\(g) to have an account at a financial institution because of the application of subsection (f)(1)—
 
 &emsp;(A) will have access to such an account at a reasonable cost; and
 
@@ -134,7 +134,7 @@ In subsection (b), before clause (1), the words “Notwithstanding subsection (a
 
 In subsection (c), the words “(except for a financial organization designated by an officer or employee of either House of Congress)” are substituted for section 1(b)(last sentence) and (c)(last sentence) of the Act of July 19, 1975 (Pub. L. 94–57, 89 Stat. 265), because of the restatement. The words “to which such check is sent” are omitted because of the restatement.
 
-In subsection (d), the words “to whom a payment is to be made” are omitted as surplus. The words “uponthe written request of such employee” are omitted as unnecessary. The words “accompanied by a schedule” are added for clarity.
+In subsection (d), the words “to whom a payment is to be made” are omitted as surplus. The words “upon the written request of such employee” are omitted as unnecessary. The words “accompanied by a schedule” are added for clarity.
 
 In subsection (e), the word “payment” is substituted for “acquittance” for clarity and consistency.
 

@@ -2,7 +2,7 @@
 
 #### (a) Program
 
-After consultation with the Office of Personnel Management, the Secretary shall establish a program under which any individual who, by reason of having lived or worked in or near public lands, has special knowledge or expertise concerning the natural or cultural resources of public lands and the management thereof (as determined by the Secretary) shall be considered for selection for any position within public lands without regard to—
+After consultation with the Office of Personnel Management, the Secretary shall establish an excepted service appointment authority, under which any individual who, by reason of having lived or worked in or near public lands, has special knowledge or expertise concerning the natural or cultural resources of public lands and the management thereof (as determined by the Secretary) shall be considered for selection for any position within public lands without regard to—
 
 &emsp;(1) any provision of the civil service laws or regulations thereunder which require minimum periods of formal training or experience,
 
@@ -14,7 +14,7 @@ After consultation with the Office of Personnel Management, the Secretary shall 
 
 #### (b) Preference eligibles within local hire
 
-Notwithstanding the provisions of subsection (a) of this section, any individual who is eligible to be selected for a position under the provisions of subsection (a) of this section and is a preference eligible as defined in section 2108(3) of title 5 shall be given an employment preference, consistent with the preference in the competitive service as defined in section 2102 of such title for which such person is eligible under subchapter I of chapter 33 of such title, in selection to such position.
+Notwithstanding the provisions of subsection (a) of this section, any individual who is eligible to be selected for a position under the provisions of subsection (a) of this section and is a preference eligible as defined in section 2108(3) of title 5 shall be given an employment preference, consistent with the preference in the excepted service as defined in section 2103 of such title.
 
 #### (c) Payment of expenses after death of an employee
 
@@ -40,7 +40,11 @@ The Secretary shall from time to time prepare and submit to the Congress reports
 
 &emsp;Nothing in subsection (a) provides that any person hired pursuant to the program established under that subsection is not eligible for competitive status in the same manner as any other employee hired as part of the competitive service.
 
-#### (2) Redesignation of certain positions
+#### (2) Conversion to competitive service
+
+&emsp;Employees who satisfactorily complete two years of continuous service in a permanent appointment made under subsection (a) and who meet satisfactory performance and competitive service qualification requirements shall have their appointment converted to competitive service career-conditional or career employment as appropriate. This paragraph applies to individuals appointed on or after March 30, 2009. An employee who does not meet competitive service qualification requirements after two years of continuous service in an appointment made under subsection (a) shall be converted upon meeting such qualification requirements. Temporary and time-limited appointments will be made in the excepted service. There is no provision for conversion to competitive service when appointments are time-limited.
+
+#### (3) Redesignation of certain positions
 
 #### (A) Persons serving in original positions
 
@@ -54,9 +58,15 @@ The Secretary shall from time to time prepare and submit to the Congress reports
 
 &emsp;&emsp;&emsp;(ii) not later than 90 days of the submission of a request under clause (i), the Secretary shall redesignate the service of the person as being part of the competitive service.
 
-(Pub. L. 96–487, title XIII, §1308, Dec. 2, 1980, 94 Stat. 2480; Pub. L. 100–689, title IV, §401, Nov. 18, 1988, 102 Stat. 4177; Pub. L. 102–415, §16, Oct. 14, 1992, 106 Stat. 2124; Pub. L. 108–199, div. H, §147, Jan. 23, 2004, 118 Stat. 445; Pub. L. 111–11, title VI, §6101, Mar. 30, 2009, 123 Stat. 1170.)
+(Pub. L. 96–487, title XIII, §1308, Dec. 2, 1980, 94 Stat. 2480; Pub. L. 100–689, title IV, §401, Nov. 18, 1988, 102 Stat. 4177; Pub. L. 102–415, §16, Oct. 14, 1992, 106 Stat. 2124; Pub. L. 108–199, div. H, §147, Jan. 23, 2004, 118 Stat. 445; Pub. L. 111–11, title VI, §6101, Mar. 30, 2009, 123 Stat. 1170; Pub. L. 112–74, div. E, title I, §121(b), Dec. 23, 2011, 125 Stat. 1012.)
 
 #### Amendments
+
+<b>2011</b>—Subsec. (a). Pub. L. 112–74, §121(b)(1), substituted “establish an excepted service appointment authority,” for “establish a program” in introductory provisions.
+
+Subsec. (b). Pub. L. 112–74, §121(b)(2), substituted “excepted service as defined in section 2103 of such title” for “competitive service as defined in section 2102 of such title for which such person is eligible under subchapter I of chapter 33 of such title, in selection to such position”.
+
+Subsec. (e)(2), (3). Pub. L. 112–74, §121(b)(3), added par. (2) and redesignated former par. (2) as (3).
 
 <b>2009</b>—Subsec. (e). Pub. L. 111–11 added subsec. (e).
 

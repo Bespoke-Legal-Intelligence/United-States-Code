@@ -6,7 +6,7 @@ Establishment.—The Secretary shall establish a surface transportation program 
 
 (b)
 
-Eligible Projects.—A State may obligate funds apportioned to it under section 104(b)(3)for the surface transportation program only for the following:
+Eligible Projects.—A State may obligate funds apportioned to it under section 104(b)(3) for the surface transportation program only for the following:
 
 &emsp;(1) Construction, reconstruction, rehabilitation, resurfacing, restoration, and operational improvements for highways (including Interstate highways) and bridges (including bridges on public roads of all functional classifications), including any such construction or reconstruction necessary to accommodate other transportation modes, and including the seismic retrofit and painting of and application of calcium magnesium acetate, sodium acetate/formate, or other environmentally acceptable, minimally corrosive anti-icing and de-icing compositions on bridges and approaches thereto and other elevated structures, mitigation of damage to wildlife, habitat, and ecosystems caused by a transportation project funded under this title.
 
@@ -134,7 +134,7 @@ Request for adjustments of amounts.—Each State shall request from the Secretar
 
 &emsp;&emsp;(C)
 
-Effect of approval by the secretary.—Approval by the Secretary of a project agreement under subparagraph (A) shall be deemed a contractual obligation of the United States to pay surface transportation program funds made available under this title.
+Effect of approval by the secretary.—Approval by the Secretary of a project agreement under subparagraph (A) shall be deemed a contractual obligation ofthe United States to pay surface transportation program funds made available under this title.
 
 &emsp;(3)
 
@@ -170,7 +170,7 @@ Transportation enhancement activities.—
 
 &emsp;&emsp;(A)
 
-Categorical exclusions.—To the extent appropriate, the Secretary shall develop categorical exclusions from the requirement that an environmental assessment or an environmental impact statement under section 102 of the National Environmental Policy Act of 1969 (42 U.S.C. 4332) be prepared fortransportation enhancement activities funded from the allocation required by subsection (d)(2).
+Categorical exclusions.—To the extent appropriate, the Secretary shall develop categorical exclusions from the requirement that an environmental assessment or an environmental impact statement under section 102 of the National Environmental Policy Act of 1969 (42 U.S.C. 4332) be prepared for transportation enhancement activities funded from the allocation required by subsection (d)(2).
 
 &emsp;&emsp;(B)
 
@@ -226,7 +226,7 @@ The Americans with Disabilities Act of 1990, referred to in subsec. (b)(3), is P
 
 The Water Resources Development Act of 1990, referred to in subsec. (b)(11), is Pub. L. 101–640, Nov. 28, 1990, 104 Stat. 4604. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 2201 of Title 33, Navigation and Navigable Waters, and Tables.
 
-The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsec. (d)(5), is Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, as amended, which is classified generally to chapter 61 (§4601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of Title 42 and Tables.
+The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsec. (d)(5), is Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, which is classified principally to chapter 61 (§4601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of Title 42 and Tables.
 
 Section 170(h) of the Internal Revenue Code of 1986, referred to in subsec. (d)(5)(A), is classified to section 170(h) of Title 26, Internal Revenue Code.
 
@@ -244,7 +244,7 @@ Subsec. (b)(12). Pub. L. 109–59, §1113(a)(2), added par. (12).
 
 Subsec. (b)(14), (15). Pub. L. 109–59, §6006(a)(2), added pars. (14) and (15) and struck out former par. (14) which read as follows: “Environmental restoration and pollution abatement projects (including the retrofit or construction of storm water treatment systems) to address water pollution or environmental degradation caused or contributed to by transportation facilities, which projects shall be carried out when the transportation facilities are undergoing reconstruction, rehabilitation, resurfacing, or restoration; except that the expenditure of funds under this section for any such environmental restoration or pollution abatement project shall not exceed 20 percent of the total cost of the reconstruction, rehabilitation, resurfacing, or restoration project.”
 
-Subsec. (d)(1). Pub. L. 109–59, §1113(b)(1), struck out heading and text of par. (1). Text read as follows: “10 percent of the funds apportioned to a State under section 104(b)(3) for the surface transportation program fora fiscal year shall only be available for carrying out sections 130 and 152 of this title. Of the funds set aside under the preceding sentence, the State shall reserve in such fiscal year an amount of such funds for carrying out each such section which is not less than the amount of funds apportioned to the State in fiscal year 1991 under such section.”
+Subsec. (d)(1). Pub. L. 109–59, §1113(b)(1), struck out heading and text of par. (1). Text read as follows: “10 percent of the funds apportioned to a State under section 104(b)(3) for the surface transportation program for a fiscal year shall only be available for carrying out sections 130 and 152 of this title. Of the funds set aside under the preceding sentence, the State shall reserve in such fiscal year an amount of such funds for carrying out each such section which is not less than the amount of funds apportioned to the State in fiscal year 1991 under such section.”
 
 Subsec. (d)(2). Pub. L. 109–59, §1113(c), substituted “In a fiscal year, the greater of 10 percent of the funds apportioned to a State under section 104(b)(3) for such fiscal year, or the amount set aside under this paragraph with respect to the State for fiscal year 2005,” for “10 percent of the funds apportioned to a State under section 104(b)(3) for a fiscal year”.
 

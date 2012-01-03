@@ -6,7 +6,7 @@ Subject to any limitations on a trustee under this chapter, the debtor shall hav
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 1303 of the House amendment specifies rights and powers that the debtor has exclusive of the trustees. The section does not imply that the debtor does not also possess other powers concurrently with the trustee. For example, although section 1323 is not specified in section 1303, certainly it is intended that the debtor has the power to sue and be sued.
 

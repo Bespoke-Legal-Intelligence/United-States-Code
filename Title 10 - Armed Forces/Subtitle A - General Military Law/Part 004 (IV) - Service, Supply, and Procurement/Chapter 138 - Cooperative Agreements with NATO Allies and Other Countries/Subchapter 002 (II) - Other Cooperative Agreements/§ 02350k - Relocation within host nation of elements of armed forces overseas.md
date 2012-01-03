@@ -28,7 +28,7 @@ Method of Contribution.—Contributions may be accepted in any of the following 
 
 &emsp;(2) Drawing rights on a commercial bank account established and funded by the host nation, which account is blocked such that funds deposited cannot be withdrawn except by or with the approval of the United States.
 
-&emsp;(3) Cash, which shall be deposited in a separate trust fund in the United States Treasury pending expenditure and which shall accrue interest in accordance with section 9702 of title 31.
+&emsp;(3) Cash, which shall be deposited in a separate trust fund in the United States Treasury pending expenditure and which shall accrueinterest in accordance with section 9702 of title 31.
 
 (Added Pub. L. 104–106, div. A, title XIII, §1332(a)(1), Feb. 10, 1996, 110 Stat. 482; amended Pub. L. 107–314, div. A, title X, §1041(a)(11), Dec. 2, 2002, 116 Stat. 2645.)
 

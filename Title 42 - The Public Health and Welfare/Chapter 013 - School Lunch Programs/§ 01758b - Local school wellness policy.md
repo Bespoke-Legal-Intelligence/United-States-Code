@@ -16,7 +16,7 @@ The Secretary shall promulgate regulations that provide the framework and guidel
 
 &emsp;&emsp;(B) promote student health and reduce childhood obesity;
 
-&emsp;(3) a requirement that the local educational agency permit parents, students, representatives of the school food authority, teachers of physical education, school health professionals, the school board, school administrators, and the general public to participate in the development, implementation, and periodic review and update of the local school wellness policy;
+&emsp;(3) a requirement that the local educational agency permit parents, students, representatives of the school food authority, teachers of physical education, school health professionals, the school board, school administrators, and the general public to participate inthe development, implementation, and periodic review and update of the local school wellness policy;
 
 &emsp;(4) a requirement that the local educational agency inform and update the public (including parents, students, and others in the community) about the content and implementation of the local school wellness policy; and
 

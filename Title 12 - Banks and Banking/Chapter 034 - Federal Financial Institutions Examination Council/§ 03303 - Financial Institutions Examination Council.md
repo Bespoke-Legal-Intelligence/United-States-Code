@@ -10,7 +10,7 @@ There is established the Financial Institutions Examination Council which shall 
 
 &emsp;(3) a Governor of the Board of Governors of the Federal Reserve System designated by the Chairman of the Board,
 
-&emsp;(4) the Director, Office of Thrift Supervision,
+&emsp;(4) the Director of the Consumer Financial Protection Bureau,
 
 &emsp;(5) the Chairman of the National Credit Union Administration Board, and
 
@@ -32,13 +32,19 @@ The members of the Council may, from time to time, designate other officers or e
 
 Each member of the Council shall serve without additional compensation but shall be entitled to reasonable expenses incurred in carrying out his official duties as such a member.
 
-(Pub. L. 95–630, title X, §1004, Nov. 10, 1978, 92 Stat. 3694; Pub. L. 101–73, title VII, §744(a)(2), Aug. 9, 1989, 103 Stat. 438; Pub. L. 109–351, title VII, §714(a), Oct. 13, 2006, 120 Stat. 1995.)
+(Pub. L. 95–630, title X, §1004, Nov. 10, 1978, 92 Stat. 3694; Pub. L. 101–73, title VII, §744(a)(2), Aug. 9, 1989, 103 Stat. 438; Pub. L. 109–351, title VII, §714(a), Oct. 13, 2006, 120 Stat. 1995; Pub. L. 111–203, title X, §1091, July 21, 2010, 124 Stat. 2094.)
 
 #### Amendments
 
-2006—Subsec. (a)(4). Pub. L. 109–351, §714(a)(1), substituted “Thrift Supervision,” for “Thrift Supervision”.
+<b>2010</b>—Subsec. (a)(4). Pub. L. 111–203 substituted “Director of the Consumer Financial Protection Bureau” for “Director, Office of Thrift Supervision”.
+
+<b>2006</b>—Subsec. (a)(4). Pub. L. 109–351, §714(a)(1), substituted “Thrift Supervision,” for “Thrift Supervision”.
 
 Subsec. (a)(6). Pub. L. 109–351, §714(a)(2), (3), added par. (6).
 
-1989—Subsec. (a)(4). Pub. L. 101–73 substituted “Director, Office of Thrift Supervision” for “Chairman of the Federal Home Loan Bank Board, and”.
+<b>1989</b>—Subsec. (a)(4). Pub. L. 101–73 substituted “Director, Office of Thrift Supervision” for “Chairman of the Federal Home Loan Bank Board, and”.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 

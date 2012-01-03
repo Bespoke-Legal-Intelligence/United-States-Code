@@ -5,6 +5,7 @@
 | [371\.](%C2%A7%2000371%20-%20Descent%20of%20land.md) | Descent of land. |
 | [372\.](%C2%A7%2000372%20-%20Ascertainment%20of%20heirs%20of%20deceased%20allottees%3B%20settlement%20of%20estates%3B%20sale%20of%20lands%3B%20deposit%20of%20Indian%20moneys.md) | Ascertainment of heirs of deceased allottees; settlement of estates; sale of lands; deposit of Indian moneys. |
 | 372–1. | Repealed. |
+| 372–2. | Indian probate judges. |
 | [372a.](%C2%A7%2000372a%20-%20Heirs%20by%20adoption.md) | Heirs by adoption. |
 | [373\.](%C2%A7%2000373%20-%20Disposal%20by%20will%20of%20allotments%20held%20under%20trust.md) | Disposal by will of allotments held under trust. |
 | [373a.](%C2%A7%2000373a%20-%20Disposition%20of%20trust%20or%20restricted%20estate%20of%20intestate%20without%20heirs%3B%20successor%20tribe%3B%20sale%20of%20land.md) | Disposition of trust or restricted estate of intestate without heirs; successor tribe; sale of land. |
@@ -32,6 +33,7 @@
 - [&sect; 00371 - Descent of land](%C2%A7%2000371%20-%20Descent%20of%20land.md)
 - [&sect; 00372 - Ascertainment of heirs of deceased allottees; settlement of estates; sale of lands; deposit of Indian moneys](%C2%A7%2000372%20-%20Ascertainment%20of%20heirs%20of%20deceased%20allottees%3B%20settlement%20of%20estates%3B%20sale%20of%20lands%3B%20deposit%20of%20Indian%20moneys.md)
 - [&sect; 00372&#8211;1 - Repealed. Pub. L. 101&#8211;301, &sect;12(a), May 24, 1990, 104 Stat. 211](%C2%A7%2000372%E2%80%931%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93301%2C%20%C2%A712%28a%29%2C%20May%2024%2C%201990%2C%20104%20Stat.%20211.md)
+- [&sect; 00372&#8211;2 - Indian probate judges](%C2%A7%2000372%E2%80%932%20-%20Indian%20probate%20judges.md)
 - [&sect; 00372a - Heirs by adoption](%C2%A7%2000372a%20-%20Heirs%20by%20adoption.md)
 - [&sect; 00373 - Disposal by will of allotments held under trust](%C2%A7%2000373%20-%20Disposal%20by%20will%20of%20allotments%20held%20under%20trust.md)
 - [&sect; 00373a - Disposition of trust or restricted estate of intestate without heirs; successor tribe; sale of land](%C2%A7%2000373a%20-%20Disposition%20of%20trust%20or%20restricted%20estate%20of%20intestate%20without%20heirs%3B%20successor%20tribe%3B%20sale%20of%20land.md)

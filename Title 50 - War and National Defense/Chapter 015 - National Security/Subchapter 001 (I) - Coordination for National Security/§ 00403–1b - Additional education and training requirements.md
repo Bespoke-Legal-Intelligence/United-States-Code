@@ -20,10 +20,6 @@ Congress makes the following findings:
 
 (2) In carrying out activities under paragraph (1), the Director shall take into account education grant programs of the Department of Defense and the Department of Education that are in existence as of December 17, 2004.
 
-(3) Not later than one year after December 17, 2004, and annually thereafter, the Director shallsubmit to Congress a report on the requirements identified under paragraph (1), including the success of the Office of the Director of National Intelligence in meeting such requirements. Each report shall notify Congress of any additional resources determined by the Director to be required to meet such requirements.
-
-(4) Each report under paragraph (3) shall be in unclassified form, but may include a classified annex.
-
 #### (c) Professional intelligence training
 
 The Director of National Intelligence shall require the head of each element and component within the Office of the Director of National Intelligence who has responsibility for professional intelligence training to periodically review and revise the curriculum for the professional intelligence training of the senior and intermediate level personnel of such element or component in order to—
@@ -32,11 +28,19 @@ The Director of National Intelligence shall require the head of each element and
 
 &emsp;(2) prepare such personnel for duty with other departments, agencies, and elements of the intelligence community.
 
-(Pub. L. 108–458, title I, §1041, Dec. 17, 2004, 118 Stat. 3678.)
+(Pub. L. 108–458, title I, §1041, Dec. 17, 2004, 118 Stat. 3678; Pub. L. 112–87, title III, §311(a), Jan. 3, 2012, 125 Stat. 1886.)
 
 #### Codification
 
 Section was enacted as part of the Intelligence Reform and Terrorism Prevention Act of 2004, and also as part of the National Security Intelligence Reform Act of 2004, and not as part of the National Security Act of 1947 which comprises this chapter.
+
+#### Amendments
+
+<b>2012</b>—Subsec. (b)(3), (4). Pub. L. 112–87 struck out pars. (3) and (4) which read as follows:
+
+“(3) Not later than one year after December 17, 2004, and annually thereafter, the Director shall submit to Congress a report on the requirements identified under paragraph (1), including the success of the Office of the Director of National Intelligence in meeting such requirements. Each report shall notify Congress of any additional resources determined by the Director to be required to meet such requirements.
+
+“(4) Each report under paragraph (3) shall be in unclassified form, but may include a classified annex.”
 
 #### Effective Date
 

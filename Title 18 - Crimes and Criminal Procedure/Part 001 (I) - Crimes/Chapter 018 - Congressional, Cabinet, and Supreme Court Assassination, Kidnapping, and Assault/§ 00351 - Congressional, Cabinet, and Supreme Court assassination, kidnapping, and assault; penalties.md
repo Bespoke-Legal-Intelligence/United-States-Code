@@ -1,6 +1,6 @@
 ### §351. Congressional, Cabinet, and Supreme Court assassination, kidnapping, and assault; penalties
 
-(a) Whoever kills any individual who is a Member of Congress or a Member-of-Congress-elect, a member of the executive branch of the Government who is the head, or a person nominated to be head during the pendency of such nomination, of a department listed in section 101 of title 5 or the second ranking official in such department, the Director (or a person nominated to be Director during the pendency of such nomination) or Deputy Director of Central Intelligence, a major Presidential or Vice Presidential candidate (as defined in section 3056 of this title), or a Justice of the United States, as defined in section 451 of title 28, or a person nominated to be a Justice of the United States, during the pendency of such nomination, shall be punished as provided by sections 1111 and 1112 of this title.
+(a) Whoever kills any individual who is a Member of Congress or a Member-of-Congress-elect, a member of the executive branch of the Government who is the head, or a person nominated to be head during the pendency of such nomination, of a department listed in section 101 of title 5 or the second ranking official in such department, the Director (or a person nominated to be Director during the pendency of such nomination) or Principal Deputy Director of National Intelligence, the Director (or a person nominated to be Director during the pendency of such nomination) or Deputy Director of the Central Intelligence Agency, a major Presidential or Vice Presidential candidate (as defined in section 3056 of this title), or a Justice of the United States, as defined in section 451 of title 28, or a person nominated to be a Justice of the United States, during the pendency of such nomination, shall be punished as provided by sections 1111 and 1112 of this title.
 
 (b) Whoever kidnaps any individual designated in subsection (a) of this section shall be punished (1) by imprisonment for any term of years or for life, or (2) by death or imprisonment for any term of years or for life, if death results to such individual.
 
@@ -18,9 +18,11 @@
 
 (i) There is extraterritorial jurisdiction over the conduct prohibited by this section.
 
-(Added Pub. L. 91–644, title IV, §15, Jan. 2, 1971, 84 Stat. 1891; amended Pub. L. 97–285, §§1, 2(a), Oct. 6, 1982, 96 Stat. 1219; Pub. L. 99–646, §62, Nov. 10, 1986, 100 Stat. 3614; Pub. L. 100–690, title VII, §7074, Nov. 18, 1988, 102 Stat. 4405; Pub. L. 103–322, title XXXII, §320101(d), title XXXIII, §§330016(1)(K), (L), 330021(1), Sept. 13, 1994, 108 Stat. 2108, 2147, 2150; Pub. L. 104–294, title VI, §604(b)(12)(C), (c)(2), Oct. 11, 1996, 110 Stat. 3507, 3509.)
+(Added Pub. L. 91–644, title IV, §15, Jan. 2, 1971, 84 Stat. 1891; amended Pub. L. 97–285, §§1, 2(a), Oct. 6, 1982, 96 Stat. 1219; Pub. L. 99–646, §62, Nov. 10, 1986, 100 Stat. 3614; Pub. L. 100–690, title VII, §7074, Nov. 18, 1988, 102 Stat. 4405; Pub. L. 103–322, title XXXII, §320101(d), title XXXIII, §§330016(1)(K), (L), 330021(1), Sept. 13, 1994, 108 Stat. 2108, 2147, 2150; Pub. L. 104–294, title VI, §604(b)(12)(C), (c)(2), Oct. 11, 1996, 110 Stat. 3507, 3509; Pub. L. 112–87, title V, §506, Jan. 3, 2012, 125 Stat. 1897.)
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a). Pub. L. 112–87 inserted “the Director (or a person nominated to be Director during the pendency of such nomination) or Principal Deputy Director of National Intelligence,” after “in such department,” and substituted “the Central Intelligence Agency,” for “Central Intelligence,”.
 
 <b>1996</b>—Subsec. (e). Pub. L. 104–294, §604(c)(2), substituted “involved the use” for “involved in the use”.
 
@@ -49,10 +51,6 @@ Subsec. (h). Pub. L. 99–646, §62(2), substituted “individual” for “offi
 Subsec. (a). Pub. L. 97–285, §1(a), expanded coverage of subsec. (a) to cover the killing of any individual who is a member of the executive branch of the Government and the head, or a person nominated to be head during the pendency of such nomination, of a department listed in section 101 of title 5 or the second ranking official in such department, the Director (or a person nominated to be Director during the pendency of such nomination) or Deputy Director of Central Intelligence, or a Justice of the United States, as defined in section 451 of title 28, or a person nominated to be a Justice of the United States, during the pendency of such nomination.
 
 Subsecs. (h), (i). Pub. L. 97–285, §1(b), added subsecs. (h) and (i).
-
-#### Change of Name
-
-Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
 
 #### Effective Date of 1996 Amendment
 

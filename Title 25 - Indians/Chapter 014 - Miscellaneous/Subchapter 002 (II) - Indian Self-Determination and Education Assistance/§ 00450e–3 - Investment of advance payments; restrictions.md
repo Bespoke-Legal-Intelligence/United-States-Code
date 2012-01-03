@@ -4,7 +4,7 @@ Advance payments made by the Department of the Interior to Indian tribes, tribal
 
 &emsp;(1) invested by the Indian tribe, tribal organization, or consortium only in obligations of the United States, or in obligations or securities that are guaranteed or insured by the United States, or mutual (or other) funds registered with the Securities and Exchange Commission and which only invest in obligations of the United States or securities that are guaranteed or insured by the United States; or
 
-&emsp;(2) deposited only into accounts that are insured by an agency or instrumentality of the United States, or are fully collateralized toensure protection of the funds, even in the event of a bank failure.
+&emsp;(2) deposited only into accounts that are insured by an agency or instrumentality of the United States, or are fully collateralized to ensure protection of the funds, even in the event of a bank failure.
 
 (Pub. L. 108–447, div. E, title I, §111, Dec. 8, 2004, 118 Stat. 3064.)
 

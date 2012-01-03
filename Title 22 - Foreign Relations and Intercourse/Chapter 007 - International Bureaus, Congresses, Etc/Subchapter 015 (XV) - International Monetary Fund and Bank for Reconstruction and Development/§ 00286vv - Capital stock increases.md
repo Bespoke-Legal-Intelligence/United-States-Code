@@ -1,0 +1,28 @@
+### §286vv. Capital stock increases
+
+#### (a) Increases authorized
+
+The United States Governor of the Bank is authorized—
+
+&emsp;(1)(A) to vote in favor of a resolution to increase the capital stock of the Bank on a selective basis by 230,374 shares; and
+
+&emsp;(B) to subscribe on behalf of the United States to 38,459 additional shares of the capital stock of the Bank, as part of the selective increase in the capital stock of the Bank, except that any subscription to such additional shares shall be effective only to such extent or in such amounts as are provided in advance in appropriations Acts;
+
+&emsp;(2)(A) to vote in favor of a resolution to increase the capital stock of the Bank on a general basis by 484,102 shares; and
+
+&emsp;(B) to subscribe on behalf of the United States to 81,074 additional shares of the capital stock of the Bank, as part of the general increase in the capital stock of the Bank, except that any subscription to such additional shares shall be effective only to such extent or in such amounts as are provided in advance in appropriations Acts.
+
+#### (b) Limitations on authorization of appropriations
+
+(1) In order to pay for the increase in the United States subscription to the Bank under subsection (a)(2)(B), there are authorized to be appropriated, without fiscal year limitation, $9,780,361,991 for payment by the Secretary of the Treasury.
+
+(2) Of the amount authorized to be appropriated under paragraph (2)(A)— <sup>1</sup>
+
+&emsp;(A) $586,821,720 shall be for paid in shares of the Bank; and
+
+&emsp;(B) $9,193,540,271 shall be for callable shares of the Bank.
+
+(July 31, 1945, ch. 339, §70, as added Pub. L. 112–74, div. I, title VII, §7081(a), Dec. 23, 2011, 125 Stat. 1259.)
+
+<i><sup>1</sup></i><i> So in original. Probably should be “paragraph (1)—”.</i>
+

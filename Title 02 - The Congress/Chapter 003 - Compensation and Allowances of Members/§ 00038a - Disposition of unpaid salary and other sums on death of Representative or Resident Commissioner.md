@@ -1,6 +1,6 @@
 ### §38a. Disposition of unpaid salary and other sums on death of Representative or Resident Commissioner
 
-When any individual who has been elected a Member of, or Resident Commissioner to, theHouse of Representatives dies after the commencement of the Congress to which he has been elected, any unpaid balance of salary and other sums due such individual shall be paid to the person or persons surviving at the date of death, in the following order of precedence, and such payment shall be a bar to the recovery by any other person of amounts so paid:
+When any individual who has been elected a Member of, or Resident Commissioner to, the House of Representatives dies after the commencement of the Congress to which he has been elected, any unpaid balance of salary and other sums due such individual shall be paid to the person or persons surviving at the date of death, in the following order of precedence, and such payment shall be a bar to the recovery by any other person of amounts so paid:
 
 First, to the beneficiary or beneficiaries designated by such individual in writing to receive such unpaid balance and other sums due filed with the Chief Administrative Officer of the House of Representatives and received by the Chief Administrative Officer prior to such individual's death;
 
@@ -16,7 +16,7 @@ Fifth, if there be none of the above, to the duly appointed legal representative
 
 #### Amendments
 
-1996—Pub. L. 104–186 struck out “(including amounts held in the trust fund account in the office of the Sergeant at Arms)” after “due such individual” in first undesignated par. and substituted “Chief Administrative Officer of the House of Representatives and received by the Chief Administrative Officer” for “Sergeant at Arms, and received by the Sergeant at Arms” in second undesignated par.
+<b>1996</b>—Pub. L. 104–186 struck out “(including amounts held in the trust fund account in the office of the Sergeant at Arms)” after “due such individual” in first undesignated par. and substituted “Chief Administrative Officer of the House of Representatives and received by the Chief Administrative Officer” for “Sergeant at Arms, and received by the Sergeant at Arms” in second undesignated par.
 
-1959—Pub. L. 86–102 inserted provisions including amounts held in trust fund account, authorizing an individual to designate a beneficiary or beneficiaries, and prescribing order of precedence in cases where no designation of beneficiary has been made.
+<b>1959</b>—Pub. L. 86–102 inserted provisions including amounts held in trust fund account, authorizing an individual to designate a beneficiary or beneficiaries, and prescribing order of precedence in cases where no designation of beneficiary has been made.
 

@@ -28,7 +28,7 @@ The Inspector General of the Agency for International Development (1) may conduc
 
 #### (f) Programs for Yugoslavia, Poland, Hungary, Romania, the People's Republic of China, or Pakistan; national interest
 
-Except for the provisions of this subpart, no other provision of this chapter or any other law shall be construed to prohibit the operation in Yugoslavia, Poland, Hungary, or any other East European country, or the People's Republic of China, or Pakistan of the programs authorized by this subpart, if the President determines that the operation of such program in such country is important to the national interest.
+Except for the provisions of this subpart, no other provision of this chapter or any other law shall be construed to prohibit the operation in Yugoslavia, Poland, Hungary, or any other East European country, or the People's Republic of China, or Pakistan of the programs authorizedby this subpart, if the President determines that the operation of such program in such country is important to the national interest.
 
 #### (g) Environmental impact assessments
 
@@ -50,7 +50,7 @@ The Corporation, including its franchise, capital, reserves, surplus, advances, 
 
 The Corporation shall publish, and make available to applicants for insurance, reinsurance, guarantees, financing, or other assistance made available by the Corporation under this subpart, the policy guidelines of the Corporation relating to its programs.
 
-(Pub. L. 87–195, pt. I, §239, as added Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 816; amended Pub. L. 92–226, pt. I, §104(b), Feb. 7, 1972, 86 Stat. 22; Pub. L. 92–310, title II, §227(d), June 6, 1972, 86 Stat. 207; Pub. L. 93–390, §2(5), Aug. 27, 1974, 88 Stat. 768; Pub. L. 95–268, §§7, 8, Apr. 24, 1978, 92 Stat. 215, 216; Pub. L. 95–598, title III, §318, Nov. 6, 1978, 92 Stat. 2678; Pub. L. 96–327, Aug. 8, 1980, 94 Stat. 1026; Pub. L. 97–65, §8, Oct. 16, 1981, 95 Stat. 1024; Pub. L. 97–113, title VII, §705(b)(2), Dec. 29, 1981, 95 Stat. 1545; Pub. L. 99–204, §§4(c), 11–13, Dec. 23, 1985, 99 Stat. 1670, 1673, 1674; Pub. L. 100–461, title V, §555, Oct. 1, 1988, 102 Stat. 2268–36; Pub. L. 101–167, title V, §597(a), Nov. 21, 1989, 103 Stat. 1257; Pub. L. 101–179, title III, §302(a), Nov. 28, 1989, 103 Stat.1311; Pub. L. 101–513, title V, §576(a), Nov. 5, 1990, 104 Stat. 2044; Pub. L. 102–549, title I, §107, Oct. 28, 1992, 106 Stat. 3654; Pub. L. 105–118, title V, §579(a), Nov. 26, 1997, 111 Stat. 2435; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 87–195, pt. I, §239, as added Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 816; amended Pub. L. 92–226, pt. I, §104(b), Feb. 7, 1972, 86 Stat. 22; Pub. L. 92–310, title II, §227(d), June 6, 1972, 86 Stat. 207; Pub. L. 93–390, §2(5), Aug. 27, 1974, 88 Stat. 768; Pub. L. 95–268, §§7, 8, Apr. 24, 1978, 92 Stat. 215, 216; Pub. L. 95–598, title III, §318, Nov. 6, 1978, 92 Stat. 2678; Pub. L. 96–327, Aug. 8, 1980, 94 Stat. 1026; Pub. L. 97–65, §8, Oct. 16, 1981, 95 Stat. 1024; Pub. L. 97–113, title VII, §705(b)(2), Dec. 29, 1981, 95 Stat. 1545; Pub. L. 99–204, §§4(c), 11–13, Dec. 23, 1985, 99 Stat. 1670, 1673, 1674; Pub. L. 100–461, title V, §555, Oct. 1, 1988, 102 Stat. 2268–36; Pub. L. 101–167, title V, §597(a), Nov. 21, 1989, 103 Stat. 1257; Pub. L. 101–179, title III, §302(a), Nov. 28, 1989, 103 Stat. 1311; Pub. L. 101–513, title V, §576(a), Nov. 5, 1990, 104 Stat. 2044; Pub. L. 102–549, title I, §107, Oct. 28, 1992, 106 Stat. 3654; Pub. L. 105–118, title V, §579(a), Nov. 26, 1997, 111 Stat. 2435; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
 
@@ -126,7 +126,7 @@ Advisory councils in existence on Jan. 5, 1973, to terminate not later than the 
 
 #### Enhancement of Nongovernmental Sector in Poland and Hungary
 
-Section 302(b) of Pub. L. 101–179 provided that: “In accordance with its mandate to foster private initiativeand competition and enhance the ability of private enterprise to make its full contribution to the development process, the Overseas Private Investment Corporation shall support projects in Poland and Hungary which will result in enhancement of the nongovernmental sector and reduction of state involvement in the economy.”
+Section 302(b) of Pub. L. 101–179 provided that: “In accordance with its mandate to foster private initiative and competition and enhance the ability of private enterprise to make its full contribution to the development process, the Overseas Private Investment Corporation shall support projects in Poland and Hungary which will result in enhancement of the nongovernmental sector and reduction of state involvement in the economy.”
 
 #### Avoidance of Duplicative Amendments
 

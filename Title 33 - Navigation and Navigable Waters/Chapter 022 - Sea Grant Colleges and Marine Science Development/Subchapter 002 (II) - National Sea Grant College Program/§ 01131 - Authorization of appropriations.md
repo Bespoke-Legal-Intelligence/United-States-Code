@@ -62,7 +62,7 @@ Sums appropriated pursuant to this section shall remain available until expended
 
 #### (e) Reversion of unobligated amounts
 
-The amount of any grant, or portion of a grant, made to a person under any section of this subchapter that is not obligated by that person during the first fiscal year for which it was authorized to be obligated or during the next fiscal year thereafter shall revert to the Secretary. The Secretary shall add that reverted amount to the funds available for grants under the section for which the reverted amount was originally made available.
+The amount of any grant, or portion of a grant, made to a person under any section of this subchapter that is not obligated by that person during the first fiscal year for which it was authorized to be obligated or during the next fiscal year thereafter shall revert to the Secretary. The Secretary shall add that revertedamount to the funds available for grants under the section for which the reverted amount was originally made available.
 
 (Pub. L. 89–454, title II, §212, as added Pub. L. 94–461, §2, Oct. 8, 1976, 90 Stat. 1968; amended Pub. L. 95–58, §1, June 29, 1977, 91 Stat. 254; Pub. L. 95–428, §3(5), Oct. 7, 1978, 92 Stat. 1000; Pub. L. 96–289, §1(6), June 28, 1980, 94 Stat. 605; Pub. L. 98–623, title V, §501(a), Nov. 8, 1984, 98 Stat. 3410; Pub. L. 100–220, title III, §3110, Dec. 29, 1987, 101 Stat. 1474; Pub. L. 102–186, §3, Dec. 4, 1991, 105 Stat. 1282; Pub. L. 105–160, §9(a), (b), Mar. 6, 1998, 112 Stat. 26; Pub. L. 107–299, §7, Nov. 26, 2002, 116 Stat. 2347; Pub. L. 110–394, §10, Oct. 13, 2008, 122 Stat. 4209.)
 
@@ -82,7 +82,7 @@ Subsec. (a)(2)(C). Pub. L. 110–394, §10(2)(C), substituted “blooms; and” 
 
 Subsec. (c)(1). Pub. L. 110–394, §10(3), substituted “performance assessments” for “rating under section 1123(d)(3)(A) of this title”.
 
-Subsec. (c)(2). Pub. L. 110–394, §10(4), added par. (2) and struck out former par. (2) which read as follows:“national strategic investments authorized under section 1123(b)(4) of this title;”.
+Subsec. (c)(2). Pub. L. 110–394, §10(4), added par. (2) and struck out former par. (2) which read as follows: “national strategic investments authorized under section 1123(b)(4) of this title;”.
 
 <b>2002</b>—Subsecs. (a) to (c). Pub. L. 107–299 amended subsecs. (a) to (c) generally, substituting provisions relating to authorization, limitations, and distribution of funds for provisions relating to authorization, program elements, and priority oyster disease research.
 
@@ -148,5 +148,5 @@ Subsec. (b). Pub. L. 105–160, §9(b), inserted subsec. heading and amended par
 
 #### Notice of Reprogramming
 
-Pub. L. 105–160, §9(c), Mar. 6, 1998, 112 Stat. 26, provided that: “If any funds authorized by this section are subject to a reprogramming action that requires notice to be provided to the Appropriations Committees of the House of Representatives and the Senate, notice of such action shall concurrently be provided to the Committees on Science \[now Science and Technology\] and Resources \[now Natural Resources\] of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.”
+Pub. L. 105–160, §9(c), Mar. 6, 1998, 112 Stat. 26, provided that: “If any funds authorized by this section are subject to a reprogramming action that requires notice to be provided to the Appropriations Committees of the House of Representatives and the Senate, notice of such action shall concurrently be provided to the Committees on Science \[now Science, Space, and Technology\] and Resources \[now Natural Resources\] of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.”
 

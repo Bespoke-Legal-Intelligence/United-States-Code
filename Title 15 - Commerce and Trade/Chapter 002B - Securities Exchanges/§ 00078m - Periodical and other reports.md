@@ -2,7 +2,7 @@
 
 #### (a) Reports by issuer of security; contents
 
-Every issuer of a security registered pursuant to section 78<i>l</i> of this title shall file with the Commission, in accordance with such rules and regulations as the Commission may prescribe asnecessary or appropriate for the proper protection of investors and to insure fair dealing in the security—
+Every issuer of a security registered pursuant to section 78<i>l</i> of this title shall file with the Commission, in accordance with such rules and regulations as the Commission may prescribe as necessary or appropriate for the proper protection of investors and to insure fair dealing in the security—
 
 &emsp;(1) such information and documents (and such copies thereof) as the Commission shall require to keep reasonably current the information and documents required to be included in or filed with an application or registration statement filed pursuant to section 78<i>l</i> of this title, except that the Commission may not require the filing of any material contract wholly executed before July 1, 1962.
 
@@ -48,7 +48,7 @@ If in the judgment of the Commission any report required under subsection (a) of
 
 #### (d) Reports by persons acquiring more than five per centum of certain classes of securities
 
-(1) Any person who, after acquiring directly or indirectly the beneficial ownership of any equity security of a class which is registered pursuant to section 78<i>l</i> of this title, or any equity security of an insurance company which would have been required to be so registered except for the exemption contained in section 78<i>l</i>(g)(2)(G) of this title, or any equity security issued by a closed-end investment company registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\] or any equity security issued by a Native Corporation pursuant to section 1629c(d)(6) of title 43, is directly or indirectly the beneficial owner of more than 5 per centum of such class shall, within ten days after such acquisition or within such shorter time as the Commission may establish by rule, file with the Commission, a statement containing such of the following information, and such additional information, as the Commission may by rules and regulations, prescribe as necessary or appropriate in the public interest or for the protection of investors—
+(1) Any person who, after acquiring directly or indirectly the beneficial ownership of any equity security of a class which is registered pursuant to section 78<i>l</i> of this title, or any equity security of an insurance company which would have been required to be so registered except for the exemption contained in section 78<i>l</i>(g)(2)(G) of this title, or any equity security issued by a closed-end investment company registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\] or any equity security issued by a Native Corporation pursuant to section 1629c(d)(6) of title 43, or otherwise becomes or is deemed to become a beneficial owner of any of the foregoing upon the purchase or sale of a security-based swap that the Commission may define by rule, and is directly or indirectly the beneficial owner of more than 5 per centum of such class shall, within ten days after such acquisition or within such shorter time as the Commission may establish by rule, file with the Commission, a statement containing such of the following information, and such additional information, as the Commission may by rules and regulations, prescribe as necessary or appropriate in the public interest or for the protection of investors—
 
 &emsp;(A) the background, and identity, residence, and citizenship of, and the nature of such beneficial ownership by, such person and all other persons by whom or on whose behalf the purchases have been or are to be effected;
 
@@ -84,51 +84,27 @@ If in the judgment of the Commission any report required under subsection (a) of
 
 (2) For the purpose of this subsection, a purchase by or for the issuer or any person controlling, controlled by, or under common control with the issuer, or a purchase subject to control of the issuer or any such person, shall be deemed to be a purchase by the issuer. The Commission shall have power to make rules and regulations implementing this paragraph in the public interest and for the protection of investors, including exemptive rules and regulations covering situations in which the Commission deems it unnecessary or inappropriate that a purchase of the type described in this paragraph shall be deemed to be a purchase by the issuer for purposes of some or all of the provisions of paragraph (1) of this subsection.
 
-(3) At the time of filing such statement as the Commission may require by rule pursuant to paragraph (1) of this subsection, the person making the filing shall pay to the Commission a fee at a rate that, subject to paragraphs (5) and (6), is equal to $92 per $1,000,000 of the value of securities proposed to be purchased. The fee shall be reduced with respect to securities in an amount equal to any fee paid with respect to any securities issued in connection with the proposed transaction under section 6(b) of the Securities Act of 1933 \[15 U.S.C. 77f(b)\], or the fee paid under that section shall be reduced in an amount equal to the fee paid to the Commission in connection with such transaction under this paragraph.
+(3) At the time of filing such statement as the Commission may require by rule pursuant to paragraph (1) of this subsection, the person making the filing shall pay to the Commission a fee at a rate that, subject to paragraph (4), is equal to $92 per $1,000,000 of the value of securities proposed to be purchased. The fee shall be reduced with respect to securities in an amount equal to any fee paid with respect to any securities issued in connection with the proposed transaction under section 6(b) of the Securities Act of 1933 \[15 U.S.C. 77f(b)\], or the fee paid under that section shall be reduced in an amount equal to the fee paid to the Commission in connection with such transaction under this paragraph.
 
 (4)
 
-Offsetting collections.—Fees collected pursuant to this subsection for any fiscal year shall be deposited and credited as offsetting collections to the account providing appropriations to the Commission, and, except as provided in paragraph (9), shall not be collected for any fiscal year except to the extent provided in advance in appropriation Acts. No fees collected pursuant to this subsection for fiscal year 2002 or any succeeding fiscal year shall be deposited and credited as general revenue of the Treasury.
+Annual adjustment.—For each fiscal year, the Commission shall by order adjust the rate required by paragraph (3) for such fiscal year to a rate that is equal to the rate (expressed in dollars per million) that is applicable under section 6(b) of the Securities Act of 1933 \[15 U.S.C. 77f(b)\] for such fiscal year.
 
 (5)
 
-Annual adjustment.—For each of the fiscal years 2003 through 2011, the Commission shall by order adjust the rate required by paragraph (3) for such fiscal year to a rate that is equal to the rate (expressed in dollars per million) that is applicable under section 6(b) of the Securities Act of 1933 \[15 U.S.C. 77f(b)\] for such fiscal year.
+Fee collections.—Fees collected pursuant to this subsection for fiscal year 2012 and each fiscal year thereafter shall be deposited and credited as general revenue of the Treasury and shall not be available for obligation.
 
 (6)
 
-Final rate adjustment.—For fiscal year 2012 and all of the succeeding fiscal years, the Commission shall by order adjust the rate required by paragraph (3) for all of such fiscal years to a rate that is equal to the rate (expressed in dollars per million) that is applicable under section 6(b) of the Securities Act of 1933 \[15 U.S.C. 77f(b)\] for all of such fiscal years.
+Effective date; publication.—In exercising its authority under this subsection, theCommission shall not be required to comply with the provisions of section 553 of title 5. An adjusted rate prescribed under paragraph (4) shall be published and take effect in accordance with section 6(b) of the Securities Act of 1933 (15 U.S.C. 77f(b)).
 
 (7)
 
 Pro rata application.—The rates per $1,000,000 required by this subsection shall be applied pro rata to amounts and balances of less than $1,000,000.
 
-(8)
-
-Review and effective date.—In exercising its authority under this subsection, the Commission shall not be required to comply with the provisions of section 553 of title 5. An adjusted rate prescribed under paragraph (5) or (6) and published under paragraph (10) shall not be subject to judicial review. Subject to paragraphs (4) and (9)—
-
-&emsp;(A) an adjusted rate prescribed under paragraph (5) shall take effect on the later of—
-
-&emsp;&emsp;(i) the first day of the fiscal year to which such rate applies; or
-
-&emsp;&emsp;(ii) five days after the date on which a regular appropriation to the Commission for such fiscal year is enacted; and
-
-&emsp;(B) an adjusted rate prescribed under paragraph (6) shall take effect on the later of—
-
-&emsp;&emsp;(i) the first day of fiscal year 2012; or
-
-&emsp;&emsp;(ii) five days after the date on which a regular appropriation to the Commission for fiscal year 2012 is enacted.
-
-(9)
-
-Lapse of appropriation.—If on the first day of a fiscal year a regular appropriation to the Commission has not been enacted, the Commission shall continue to collect fees (as offsetting collections) under this subsection at the rate in effect during the preceding fiscal year, until 5 days after the date such a regular appropriation is enacted.
-
-(10)
-
-Publication.—The rate applicable under this subsection for each fiscal year is published pursuant to section 6(b)(10) of the Securities Act of 1933 \[15 U.S.C. 77f(b)(10)\].
-
 #### (f) Reports by institutional investment managers
 
-(1) Every institutional investment manager which uses the mails, or any means or instrumentality of interstate commerce in the course of its business as an institutional investment manager and which exercises investment discretion with respect to accounts holding equity securities of a class described in subsection (d)(1) of this section having an aggregate fair market value on the last trading day in any of the preceding twelve months of at least $100,000,000 or such lesser amount (but in no case less than$10,000,000) as the Commission, by rule, may determine, shall file reports with the Commission in such form, for such periods, and at such times after the end of such periods as the Commission, by rule, may prescribe, but in no event shall such reports be filed for periods longer than one year or shorter than one quarter. Such reports shall include for each such equity security held on the last day of the reporting period by accounts (in aggregate or by type as the Commission, by rule, may prescribe) with respect to which the institutional investment manager exercises investment discretion (other than securities held in amounts which the Commission, by rule, determines to be insignificant for purposes of this subsection), the name of the issuer and the title, class, CUSIP number, number of shares or principal amount, and aggregate fair market value of each such security. Such reports may also include for accounts (in aggregate or by type) with respect to which the institutional investment manager exercises investment discretion such of the following information as the Commission, by rule, prescribes—
+(1) Every institutional investment manager which uses the mails, or any means or instrumentality of interstate commerce in the course of its business as an institutional investment manager and which exercises investment discretion with respect to accounts holding equity securities of a class described in subsection (d)(1) of this section or otherwise becomes or is deemed to become a beneficial owner of any security of a class described in subsection (d)(1) upon the purchase or sale of a security-based swap that the Commission may define by rule, having an aggregate fair market value on the last trading day in any of the preceding twelve months of at least $100,000,000 or such lesser amount (but in no case less than $10,000,000) as the Commission, by rule, may determine, shall file reports with the Commission in such form, for such periods, and at such times after the end of such periods as the Commission, by rule, may prescribe, but in no event shall such reports be filed for periods longer than one year or shorter than one quarter. Such reports shall include for each such equity security held on the last day of the reporting period by accounts (in aggregate or by type as the Commission, by rule, may prescribe) with respect to which the institutional investment manager exercises investment discretion (other than securities held in amounts which the Commission, by rule, determines to be insignificant for purposes of this subsection), the name of the issuer and the title, class, CUSIP number, number of shares or principal amount, and aggregate fair market value of each such security. Such reports may also include for accounts (in aggregate or by type) with respect to which the institutional investment manager exercises investment discretion such of the following information as the Commission, by rule, prescribes—
 
 &emsp;(A) the name of the issuer and the title, class, CUSIP number, number of shares or principal amount, and aggregate fair market value or cost or amortized cost of each other security (other than an exempted security) held on the last day of the reporting period by such accounts;
 
@@ -164,7 +140,7 @@ Publication.—The rate applicable under this subsection for each fiscal year is
 
 (4) The Commission shall make available to the public for a reasonable fee a list of all equity securities of a class described in subsection (d)(1) of this section, updated no less frequently than reports are required to be filed pursuant to paragraph (1) of this subsection. The Commission shall tabulate the information contained in any report filed pursuant to this subsection in a manner which will, in the view of the Commission, maximize the usefulness of the information to other Federal and State authorities and the public. Promptly after the filing of any such report, the Commission shall make the information contained therein conveniently available to the public for a reasonable fee in such form as the Commission, by rule, may prescribe, except that the Commission, as it determines to be necessary or appropriate in the public interest or for the protection of investors, may delay or prevent public disclosure of any such information in accordance with section 552 of title 5. Notwithstanding the preceding sentence, any such information identifying the securities held by the account of a natural person or an estate or trust (other than a business trust or investment company) shall not be disclosed to the public.
 
-(5) In exercising its authority under this subsection, the Commission shall determine (and so state) that its action is necessary or appropriate in the public interest and for the protection of investors or to maintain fair and orderly markets or, in granting an exemption, that its action is consistent with the protection of investors and the purposes of this subsection. In exercising such authority the Commission shall take such steps as are within its power, including consulting with the Comptroller General of the United States, the Director of the Office of Management and Budget, the appropriate regulatory agencies, Federal and State authorities which, directly or indirectly, require reports from institutional investment managers of information substantially similar to that called for by this subsection, national securities exchanges, and registered securities associations, (A) to achieve uniform, centralized reporting of information concerning the securities holdings of and transactions by or for accounts with respect to which institutional investment managers exercise investment discretion, and (B) consistently with the objective set forth in the preceding subparagraph, to avoid unnecessarily duplicative reporting by, and minimize the compliance burden on, institutional investment managers. Federal authorities which, directly or indirectly, require reports from institutional investment managersof information substantially similar to that called for by this subsection shall cooperate with the Commission in the performance of its responsibilities under the preceding sentence. An institutional investment manager which is a bank, the deposits of which are insured in accordance with the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\], shall file with the appropriate regulatory agency a copy of every report filed with the Commission pursuant to this subsection.
+(5) In exercising its authority under this subsection, the Commission shall determine (and so state) that its action is necessary or appropriatein the public interest and for the protection of investors or to maintain fair and orderly markets or, in granting an exemption, that its action is consistent with the protection of investors and the purposes of this subsection. In exercising such authority the Commission shall take such steps as are within its power, including consulting with the Comptroller General of the United States, the Director of the Office of Management and Budget, the appropriate regulatory agencies, Federal and State authorities which, directly or indirectly, require reports from institutional investment managers of information substantially similar to that called for by this subsection, national securities exchanges, and registered securities associations, (A) to achieve uniform, centralized reporting of information concerning the securities holdings of and transactions by or for accounts with respect to which institutional investment managers exercise investment discretion, and (B) consistently with the objective set forth in the preceding subparagraph, to avoid unnecessarily duplicative reporting by, and minimize the compliance burden on, institutional investment managers. Federal authorities which, directly or indirectly, require reports from institutional investment managers of information substantially similar to that called for by this subsection shall cooperate with the Commission in the performance of its responsibilities under the preceding sentence. An institutional investment manager which is a bank, the deposits of which are insured in accordance with the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\], shall file with the appropriate regulatory agency a copy of every report filed with the Commission pursuant to this subsection.
 
 (6)(A) For purposes of this subsection the term “institutional investment manager” includes any person, other than a natural person, investing in or buying and selling securities for its own account, and any person exercising investment discretion with respect to the account of any other person.
 
@@ -172,7 +148,7 @@ Publication.—The rate applicable under this subsection for each fiscal year is
 
 #### (g) Statement of equity security ownership
 
-(1) Any person who is directly or indirectly the beneficial owner of more than 5 per centum of any security of a class described in subsection (d)(1) of this section shall file with the Commission a statement setting forth, in such form and at such time as the Commission may, by rule, prescribe—
+(1) Any person who is directly or indirectly the beneficial owner of more than 5 per centum of any security of a class described in subsection (d)(1) of this section or otherwise becomes or is deemed to become a beneficial owner of any security of a class described in subsection (d)(1) upon the purchase or sale of a security-based swap that the Commission may define by rule shall file with the Commission a statement setting forth, in such form and at such time as the Commission may, by rule, prescribe—
 
 &emsp;(A) such person's identity, residence, and citizenship; and
 
@@ -200,7 +176,7 @@ Publication.—The rate applicable under this subsection for each fiscal year is
 
 #### (2) Recordkeeping and reporting requirements for brokers and dealers
 
-&emsp;Every registered broker or dealer shall make and keep for prescribed periods such records as the Commission by rule or regulation prescribes as necessary or appropriate in the public interest, for the protection of investors, or otherwise in furtherance of the purposes of this chapter, with respect to securities transactions that equal or exceed the reporting activity level effected directly or indirectly by or through such registered broker or dealer of or for any person that such broker or dealer knows is a large trader, or any person that such broker or dealer has reason to know is a large trader on the basis of transactions in securities effected by or through such broker or dealer. Such records shall be available for reporting to the Commission, or any self-regulatory organization that the Commission shall designate to receive such reports, on the morning of the day following the day the transactions were effected, and shall be reported to the Commission or a self-regulatory organization designated by the Commission immediately upon request by the Commission or such a self-regulatory organization. Such records and reports shall be in a format and transmitted in a manner prescribed by the Commission (including, but not limited to, machine readable form).
+&emsp;Every registered broker or dealer shall make and keep for prescribed periods such records asthe Commission by rule or regulation prescribes as necessary or appropriate in the public interest, for the protection of investors, or otherwise in furtherance of the purposes of this chapter, with respect to securities transactions that equal or exceed the reporting activity level effected directly or indirectly by or through such registered broker or dealer of or for any person that such broker or dealer knows is a large trader, or any person that such broker or dealer has reason to know is a large trader on the basis of transactions in securities effected by or through such broker or dealer. Such records shall be available for reporting to the Commission, or any self-regulatory organization that the Commission shall designate to receive such reports, on the morning of the day following the day the transactions were effected, and shall be reported to the Commission or a self-regulatory organization designated by the Commission immediately upon request by the Commission or such a self-regulatory organization. Such records and reports shall be in a format and transmitted in a manner prescribed by the Commission (including, but not limited to, machine readable form).
 
 #### (3) Aggregation rules
 
@@ -244,7 +220,7 @@ Publication.—The rate applicable under this subsection for each fiscal year is
 
 #### (i) Accuracy of financial reports
 
-Each financial report that contains financial statements, and that is required to be prepared in accordance with (or reconciled to) generally accepted accounting principles under this chapter and filed with the Commission shall reflect all material correcting adjustments that have been identified by a registered public accounting firm in accordance with generally accepted accounting principles and the rules and regulations of the Commission.
+Each financial report that contains financial statements, and that is required to be prepared in accordance with (or reconciled to) generally accepted accounting principles under this chapter and filed with the Commission shall reflect all material correcting adjustments that havebeen identified by a registered public accounting firm in accordance with generally accepted accounting principles and the rules and regulations of the Commission.
 
 #### (j) Off-balance sheet transactions
 
@@ -254,7 +230,7 @@ Not later than 180 days after July 30, 2002, the Commission shall issue final ru
 
 #### (1) In general
 
-&emsp;It shall be unlawful for any issuer (as defined in section 7201 of this title), directly or indirectly, including through any subsidiary, to extend or maintain credit, to arrange for the extension of credit, or to renew an extension of credit, in the form of a personal loan to or for any director or executive officer (or equivalent thereof) of that issuer. An extension of credit maintained by the issuer on July30, 2002, shall not be subject to the provisions of this subsection, provided that there is no material modification to any term of any such extension of credit or any renewal of any such extension of credit on or after July 30, 2002.
+&emsp;It shall be unlawful for any issuer (as defined in section 7201 of this title), directly or indirectly, including through any subsidiary, to extend or maintain credit, to arrange for the extension of credit, or to renew an extension of credit, in the form of a personal loan to or for any director or executive officer (or equivalent thereof) of that issuer. An extension of credit maintained by the issuer on July 30, 2002, shall not be subject to the provisions of this subsection, provided that there is no material modification to any term of any such extension of credit or any renewal of any such extension of credit on or after July 30, 2002.
 
 #### (2) Limitation
 
@@ -274,7 +250,273 @@ Not later than 180 days after July 30, 2002, the Commission shall issue final ru
 
 Each issuer reporting under subsec. (a) of this section or section 78<i>o</i>(d) of this title shall disclose to the public on a rapid and current basis such additional information concerning material changes in the financial condition or operations of the issuer, in plain English, which may include trend and qualitative information and graphic presentations, as the Commission determines, by rule, is necessary or useful for the protection of investors and in the public interest.
 
-#### (p) <sup>2</sup> Disclosures relating to conflict minerals originating in the Democratic Republic of the Congo
+#### (m) Public availability of security-based swap transaction data
+
+#### (1) In general
+
+#### (A) Definition of real-time public reporting
+
+&emsp;&emsp;In this paragraph, the term “real-time public reporting” means to report data relating to a security-based swap transaction, including price and volume, as soon as technologically practicable after the time at which the security-based swap transaction has been executed.
+
+#### (B) Purpose
+
+&emsp;&emsp;The purpose of this subsection is to authorize the Commission to make security-based swap transaction and pricing data available to the public in such form and at such times as the Commission determines appropriate to enhance price discovery.
+
+#### (C) General rule
+
+&emsp;&emsp;The Commission is authorized to provide by rule for the public availability of security-based swap transaction, volume, and pricing data as follows:
+
+&emsp;&emsp;&emsp;(i) With respect to those security-based swaps that are subject to the mandatory clearing requirement described in section 78c–3(a)(1) of this title (including those security-based swaps that are excepted from the requirement pursuant to section 78c–3(g) of this title), the Commission shall require real-time public reporting for such transactions.
+
+&emsp;&emsp;&emsp;(ii) With respect to those security-based swaps that are not subject to the mandatory clearing requirement described in section 78c–3(a)(1) of this title, but are cleared at a registered clearing agency, the Commission shall require real-time public reporting for such transactions.
+
+&emsp;&emsp;&emsp;(iii) With respect to security-based swaps that are not cleared at a registered clearing agency and which are reported to a security-based swap data repository or the Commission under section 78c–3(a)(6) of this title,<sup>2</sup> the Commission shall require real-time public reporting for such transactions, in a manner that does not disclose the business transactions and market positions of any person.
+
+&emsp;&emsp;&emsp;(iv) With respect to security-based swaps that are determined to be required to be cleared under section 78c–3(b) of this title but are not cleared, the Commission shall require real-time public reporting for such transactions.
+
+#### (D) Registered entities and public reporting
+
+&emsp;&emsp;The Commission may require registered entities to publicly disseminate the security-based swap transaction and pricing data required to be reported under this paragraph.
+
+#### (E) Rulemaking required
+
+&emsp;&emsp;With respect to the rule providing for the public availability of transaction and pricing data for security-based swaps described in clauses (i) and (ii) of subparagraph (C), the rule promulgated by the Commission shall contain provisions—
+
+&emsp;&emsp;&emsp;(i) to ensure such information does not identify the participants;
+
+&emsp;&emsp;&emsp;(ii) to specify the criteria for determining what constitutes a large notional security-based swap transaction (block trade) for particular markets and contracts;
+
+&emsp;&emsp;&emsp;(iii) to specify the appropriate time delay for reporting large notional security-based swap transactions (block trades) to the public; and
+
+&emsp;&emsp;&emsp;(iv) that take into account whether the public disclosure will materially reduce market liquidity.
+
+#### (F) Timeliness of reporting
+
+&emsp;&emsp;Parties to a security-based swap (including agents of the parties to a security-based swap) shall be responsible for reporting security-based swap transaction information to the appropriate registered entity in a timely manner as may be prescribed by the Commission.
+
+#### (G) Reporting of swaps to registered security-based swap data repositories
+
+&emsp;&emsp;Each security-based swap (whether cleared or uncleared) shall be reported to a registered security-based swap data repository.
+
+#### (H) Registration of clearing agencies
+
+&emsp;&emsp;A clearing agency may register as a security-based swap data repository.
+
+#### (2) Semiannual and annual public reporting of aggregate security-based swap data
+
+#### (A) In general
+
+&emsp;&emsp;In accordance with subparagraph (B), the Commission shall issue a written report on a semiannual and annual basis to make available to the public information relating to—
+
+&emsp;&emsp;&emsp;(i) the trading and clearing in the major security-based swap categories; and
+
+&emsp;&emsp;&emsp;(ii) the market participants and developments in new products.
+
+#### (B) Use; consultation
+
+&emsp;&emsp;In preparing a report under subparagraph (A), the Commission shall—
+
+&emsp;&emsp;&emsp;(i) use information from security-based swap data repositories and clearing agencies; and
+
+&emsp;&emsp;&emsp;(ii) consult with the Office of the Comptroller of the Currency, the Bank for International Settlements, and such other regulatory bodies as may be necessary.
+
+#### (C) Authority of Commission
+
+&emsp;&emsp;The Commission may, by rule, regulation, or order, delegate the public reporting responsibilities of the Commission under this paragraph in accordance with such terms and conditions as the Commission determines to be appropriate and in the public interest.
+
+#### (n) Security-based swap data repositories
+
+#### (1) Registration requirement
+
+&emsp;It shall be unlawful for any person, unless registered with the Commission, directly or indirectly, to make use of the mails or any means or instrumentality of interstate commerce to perform the functions of a security-based swap data repository.
+
+#### (2) Inspection and examination
+
+&emsp;Each registered security-based swap data repository shall be subject to inspection and examination by any representative of the Commission.
+
+#### (3) Compliance with core principles
+
+#### (A) In general
+
+&emsp;&emsp;To be registered, and maintain registration, as a security-based swap data repository, the security-based swap data repository shall comply with—
+
+&emsp;&emsp;&emsp;(i) the requirements and core principles described in this subsection; and
+
+&emsp;&emsp;&emsp;(ii) any requirement that the Commission may impose by rule or regulation.
+
+#### (B) Reasonable discretion of security-based swap data repository
+
+&emsp;&emsp;Unless otherwise determined by the Commission, by rule or regulation, a security-based swap data repository described in subparagraph (A) shall have reasonable discretion in establishing the manner in which the security-based swap data repository complies with the core principles described in this subsection.
+
+#### (4) Standard setting
+
+#### (A) Data identification
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;In accordance with clause (ii), the Commission shall prescribe standards that specify the data elements for each security-based swap that shall be collected and maintained by each registered security-based swap data repository.
+
+#### (ii) Requirement
+
+&emsp;&emsp;&emsp;In carrying out clause (i), the Commission shall prescribe consistent data element standards applicable to registered entities and reporting counterparties.
+
+#### (B) Data collection and maintenance
+
+&emsp;&emsp;The Commission shall prescribe data collection and data maintenance standards for security-based swap data repositories.
+
+#### (C) Comparability
+
+&emsp;&emsp;The standards prescribed by the Commission under this subsection shall be comparable to the data standards imposed by the Commission on clearing agencies in connection with their clearing of security-based swaps.
+
+#### (5) Duties
+
+&emsp;A security-based swap data repository shall—
+
+&emsp;&emsp;(A) accept data prescribed by the Commission for each security-based swap under subsection (b);
+
+&emsp;&emsp;(B) confirm with both counterparties to the security-based swap the accuracy of the data that was submitted;
+
+&emsp;&emsp;(C) maintain the data described in subparagraph (A) in such form, in such manner, and for such period as may be required by the Commission;
+
+&emsp;&emsp;(D)(i) provide direct electronic access to the Commission (or any designee of the Commission, including another registered entity); and
+
+&emsp;&emsp;(ii) provide the information described in subparagraph (A) in such form and at such frequency as the Commission may require to comply with the public reporting requirements set forth in subsection (m);
+
+&emsp;&emsp;(E) at the direction of the Commission, establish automated systems for monitoring, screening, and analyzing security-based swap data;
+
+&emsp;&emsp;(F) maintain the privacy of any and all security-based swap transaction information that the security-based swap data repository receives from a security-based swap dealer, counterparty, or any other registered entity; and
+
+&emsp;&emsp;(G) on a confidential basis pursuant to section 78x of this title, upon request, and after notifying the Commission of the request, make available all data obtained by the security-based swap data repository, including individual counterparty trade and position data, to—
+
+&emsp;&emsp;&emsp;(i) each appropriate prudential regulator;
+
+&emsp;&emsp;&emsp;(ii) the Financial Stability Oversight Council;
+
+&emsp;&emsp;&emsp;(iii) the Commodity Futures Trading Commission;
+
+&emsp;&emsp;&emsp;(iv) the Department of Justice; and
+
+&emsp;&emsp;&emsp;(v) any other person that the Commission determines to be appropriate, including—
+
+&emsp;&emsp;&emsp;&emsp;(I) foreign financial supervisors (including foreign futures authorities);
+
+&emsp;&emsp;&emsp;&emsp;(II) foreign central banks; and
+
+&emsp;&emsp;&emsp;&emsp;(III) foreign ministries.
+
+&emsp;&emsp;(H)
+
+Confidentiality and indemnification agreement.—Before the security-based swap data repository may share information with any entity described in subparagraph (G)—
+
+&emsp;&emsp;&emsp;(i) the security-based swap data repository shall receive a written agreement from each entity stating that the entity shall abide by the confidentiality requirements described in section 78x of this title relating to the information on security-based swap transactions that is provided; and
+
+&emsp;&emsp;&emsp;(ii) each entity shall agree to indemnify the security-based swap data repository and the Commission for any expenses arising from litigation relating to the information provided under section 78x of this title.
+
+#### (6) Designation of chief compliance officer
+
+#### (A) In general
+
+&emsp;&emsp;Each security-based swap data repository shall designate an individual to serve as a chief compliance officer.
+
+#### (B) Duties
+
+&emsp;&emsp;The chief compliance officer shall—
+
+&emsp;&emsp;&emsp;(i) report directly to the board or to the senior officer of the security-based swap data repository;
+
+&emsp;&emsp;&emsp;(ii) review the compliance of the security-based swap data repository with respect to the requirements and core principles described in this subsection;
+
+&emsp;&emsp;&emsp;(iii) in consultation with the board of the security-based swap data repository, a body performing a function similar to the board of the security-based swap data repository, or the senior officer of the security-based swap data repository, resolve any conflicts of interest that may arise;
+
+&emsp;&emsp;&emsp;(iv) be responsible for administering each policy and procedure that is required to be established pursuant to this section;
+
+&emsp;&emsp;&emsp;(v) ensure compliance with this chapter (including regulations) relating to agreements, contracts, or transactions, including each rule prescribed by the Commission under this section;
+
+&emsp;&emsp;&emsp;(vi) establish procedures for the remediation of noncompliance issues identified by the chief compliance officer through any—
+
+&emsp;&emsp;&emsp;&emsp;(I) compliance office review;
+
+&emsp;&emsp;&emsp;&emsp;(II) look-back;
+
+&emsp;&emsp;&emsp;&emsp;(III) internal or external audit finding;
+
+&emsp;&emsp;&emsp;&emsp;(IV) self-reported error; or
+
+&emsp;&emsp;&emsp;&emsp;(V) validated complaint; and
+
+&emsp;&emsp;&emsp;(vii) establish and follow appropriate procedures for the handling, management response, remediation, retesting, and closing of noncompliance issues.
+
+#### (C) Annual reports
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;In accordance with rules prescribed by the Commission, the chief compliance officer shall annually prepare and sign a report that contains a description of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the compliance of the security-based swap data repository of the chief compliance officer with respect to this chapter (including regulations); and
+
+&emsp;&emsp;&emsp;&emsp;(II) each policy and procedure of the security-based swap data repository of the chief compliance officer (including the code of ethics and conflict of interest policies of the security-based swap data repository).
+
+#### (ii) Requirements
+
+&emsp;&emsp;&emsp;A compliance report under clause (i) shall—
+
+&emsp;&emsp;&emsp;&emsp;(I) accompany each appropriate financial report of the security-based swap data repository that is required to be furnished to the Commission pursuant to this section; and
+
+&emsp;&emsp;&emsp;&emsp;(II) include a certification that, under penalty of law, the compliance report is accurate and complete.
+
+#### (7) Core principles applicable to security-based swap data repositories
+
+#### (A) Antitrust considerations
+
+&emsp;&emsp;Unless necessary or appropriate to achieve the purposes of this chapter, the swap data repository shall not—
+
+&emsp;&emsp;&emsp;(i) adopt any rule or take any action that results in any unreasonable restraint of trade; or
+
+&emsp;&emsp;&emsp;(ii) impose any material anticompetitive burden on the trading, clearing, or reporting of transactions.
+
+#### (B) Governance arrangements
+
+&emsp;&emsp;Each security-based swap data repository shall establish governance arrangements that are transparent—
+
+&emsp;&emsp;&emsp;(i) to fulfill public interest requirements; and
+
+&emsp;&emsp;&emsp;(ii) to support the objectives of the Federal Government, owners, and participants.
+
+#### (C) Conflicts of interest
+
+&emsp;&emsp;Each security-based swap data repository shall—
+
+&emsp;&emsp;&emsp;(i) establish and enforce rules to minimize conflicts of interest in the decision-making process of the security-based swap data repository; and
+
+&emsp;&emsp;&emsp;(ii) establish a process for resolving any conflicts of interest described in clause (i).
+
+#### (D) Additional duties developed by Commission
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The Commission may develop 1 or more additional duties applicable to security-based swap data repositories.
+
+#### (ii) Consideration of evolving standards
+
+&emsp;&emsp;&emsp;In developing additional duties under subparagraph (A),<sup>3</sup> the Commission may take into consideration any evolving standard of the United States or the international community.
+
+#### (iii) Additional duties for Commission designees
+
+&emsp;&emsp;&emsp;The Commission shall establish additional duties for any registrant described in subsection (m)(2)(C) in order to minimize conflicts of interest, protect data, ensure compliance, and guarantee the safety and security of the security-based swap data repository.
+
+#### (8) Required registration for security-based swap data repositories
+
+&emsp;Any person that is required to be registered as a security-based swap data repository under this subsection shall register with the Commission, regardless of whether that person is also licensed under the Commodity Exchange Act \[7 U.S.C. 1 et seq.\] as a swap data repository.
+
+#### (9) Rules
+
+&emsp;The Commission shall adopt rules governing persons that are registered under this subsection.
+
+#### (<i>o</i>) Beneficial ownership
+
+For purposes of this section and section 78p of this title, a person shall be deemed to acquire beneficial ownership of an equity security based on the purchase or sale of a security-based swap, only to the extent that the Commission, by rule, determines after consultation with the prudential regulators and the Secretary of the Treasury, that the purchase or sale of the security-based swap, or class of security-based swap, provides incidents of ownership comparable to direct ownership of the equity security, and that it is necessary to achieve the purposes of this section that the purchase or sale of the security-based swaps, or class of security-based swap, be deemed the acquisition of beneficial ownership of the equity security.
+
+#### (p) Disclosures relating to conflict minerals originating in the Democratic Republic of the Congo
 
 #### (1) Regulations
 
@@ -288,7 +530,7 @@ Each issuer reporting under subsec. (a) of this section or section 78<i>o</i>(d)
 
 #### (B) Certification
 
-&emsp;&emsp;The person submitting a report under subparagraph (A) shall certify the audit described in clause (i) of such subparagraph that is included in such report. Such a certified audit shall constitute a critical component of due diligence in establishing the source and chain of custody of such minerals.
+&emsp;&emsp;The person submitting a report under subparagraph (A) shall certify the audit described in clause (i) of such subparagraphthat is included in such report. Such a certified audit shall constitute a critical component of due diligence in establishing the source and chain of custody of such minerals.
 
 #### (C) Unreliable determination
 
@@ -354,7 +596,7 @@ Each issuer reporting under subsec. (a) of this section or section 78<i>o</i>(d)
 
 &emsp;&emsp;(E) the term “interactive data format” means an electronic data format in which pieces of information are identified using an interactive data standard; and
 
-&emsp;&emsp;(F) the term “interactive data standard” means <sup>3</sup> standardized list of electronic tags that mark information included in the annual report of a resource extraction issuer.
+&emsp;&emsp;(F) the term “interactive data standard” means <sup>4</sup> standardized list of electronic tags that mark information included in the annual report of a resource extraction issuer.
 
 #### (2) Disclosure
 
@@ -422,309 +664,13 @@ Each issuer reporting under subsec. (a) of this section or section 78<i>o</i>(d)
 
 (June 6, 1934, ch. 404, title I, §13, 48 Stat. 894; Pub. L. 88–467, §4, Aug. 20, 1964, 78 Stat. 569; Pub. L. 90–439, §2, July 29, 1968, 82 Stat. 454; Pub. L. 91–567, §§1, 2, Dec. 22, 1970, 84 Stat. 1497; Pub. L. 94–29, §10, June 4, 1975, 89 Stat. 119; Pub. L. 94–210, title III, §308(b), Feb. 5, 1976, 90 Stat. 57; Pub. L. 95–213, title I, §102, title II, §§202, 203, Dec. 19, 1977, 91 Stat. 1494, 1498, 1499; Pub. L. 98–38, §2(a), June 6, 1983, 97 Stat. 205; Pub. L. 100–181, title III, §§315, 316, Dec. 4, 1987, 101 Stat. 1256; Pub. L. 100–241, §12(d), Feb. 3, 1988, 101 Stat. 1810; Pub. L. 100–418, title V, §5002, Aug. 23, 1988, 102 Stat. 1415; Pub. L. 101–432, §3, Oct. 16, 1990, 104 Stat. 964; Pub. L. 107–123, §5, Jan. 16, 2002, 115 Stat. 2395; Pub. L. 107–204, title I, §109(i), formerly §109(h), title IV, §§401(a), 402(a), 409, July 30, 2002, 116 Stat. 771, 785, 787, 791, renumbered §109(i), Pub. L. 111–203, title IX, §982(h)(3), July 21, 2010, 124 Stat. 1930; Pub. L. 111–203, title VII, §§763(i), 766(b), (c), (e), title IX, §§929R(a), 929X(a), 985(b)(4), 991(b)(2), title XV, §§1502(b), 1504, July 21, 2010, 124 Stat. 1779, 1799, 1866, 1870, 1933, 1952, 2213, 2220.)
 
-#### Amendment of Subsections (d) to (g)
+#### Amendment of Section
 
-<i>Pub. L. 111–203, title VII, §§766(b), (c), 774, July 21, 2010, 124 Stat. 1799, 1802, provided that, effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B (§§761–774) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, this section is amended as follows:</i>
-
-<i>(1) in subsection (d)(1), by inserting “or otherwise becomes or is deemed to become a beneficial owner of any of the foregoing upon the purchase or sale of a security-based swap that the Commission may define by rule, and” after “section 1629c(d)(6) of title 43,”;</i>
-
-<i>(2) in subsection (f)(1), by inserting “or otherwise becomes or is deemed to become a beneficial owner of any security of a class described in subsection (d)(1) upon the purchase or sale of a security-based swap that the Commission may define by rule,” after “subsection (d)(1) of this section”; and</i>
-
-<i>(3) in subsection (g)(1), by inserting “or otherwise becomes or is deemed to become a beneficial owner of any security of a class described in subsection (d)(1) upon the purchase or sale of a security-based swap that the Commission may define by rule” after “subsection (d)(1) of this section”.</i>
-
-<i>Pub. L. 111–203, title IX, §991(b)(2), (4), July 21, 2010, 124 Stat. 1952, 1953, provided that, effective Oct. 1, 2011, subsection (e) of this section is amended as follows:</i>
-
-<i>(1) in paragraph (3), by striking “paragraphs (5) and (6)” and inserting “paragraph (4)”;</i>
-
-<i>(2) by striking paragraphs (4), (5), and (6) and inserting after paragraph (3) the following:</i>
-
-<i>“(4)</i>
-
-<i>Annual adjustment</i>.—<i>For each fiscal year, the Commission shall by order adjust the rate required by paragraph (3) for such fiscal year to a rate that is equal to the rate (expressed in dollars per million) that is applicable under section 6(b) of the Securities Act of 1933 for such fiscal year.</i>
-
-<i>“(5)</i>
-
-<i>Fee collections</i>.—<i>Fees collected pursuant to this subsection for fiscal year 2012 and each fiscal year thereafter shall be deposited and credited as general revenue of the Treasury and shall not be available for obligation.</i>
-
-<i>“(6)</i>
-
-<i>Effective date; publication</i>.—<i>In exercising its authority under this subsection, the Commission shall not be required to comply with the provisions of section 553 of title 5. An adjusted rate prescribed under paragraph (4) shall be published and take effect in accordance with section 6(b) of the Securities Act of 1933 (15 U.S.C. 77f(b)).”; and</i>
-
-<i>(3) by striking paragraphs (8), (9), and (10).</i>
-
-#### Enactment of Subsections (m) to (o)
-
-<i>Pub. L. 111–203, title VII, §§763(i), 766(e), 774, July 21, 2010, 124 Stat. 1779, 1799, 1802, provided that, effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B (§§761–774) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, this section is amended by adding at the end the following:</i>
-
-#### <i>(m) Public availability of security-based swap transaction data</i>
-
-#### <i>(1) In general</i>
-
-#### <i>(A) Definition of real-time public reporting</i>
-
-&emsp;&emsp;<i>In this paragraph, the term “real-time public reporting” means to report data relating to a security-based swap transaction, including price and volume, as soon as technologically practicable after the time at which the security-based swap transaction has been executed.</i>
-
-#### <i>(B) Purpose</i>
-
-&emsp;&emsp;<i>The purpose of this subsection is to authorize the Commission to make security-based swap transaction and pricing data available to the public in such form and at such times as the Commission determines appropriate to enhance price discovery.</i>
-
-#### <i>(C) General rule</i>
-
-&emsp;&emsp;<i>The Commission is authorized to provide by rule for the public availability of security-based swap transaction, volume, and pricing data as follows:</i>
-
-&emsp;&emsp;&emsp;<i>(i) With respect to those security-based swaps that are subject to the mandatory clearing requirement described in section 78c–3(a)(1) of this title (including those security-based swaps that are excepted from the requirement pursuant to section 78c–3(g) of this title), the Commission shall require real-time public reporting for such transactions.</i>
-
-&emsp;&emsp;&emsp;<i>(ii) With respect to those security-based swaps that are not subject to the mandatory clearing requirement described in section 78c–3(a)(1) of this title, but are cleared at a registered clearing agency, the Commission shall require real-time public reporting for such transactions.</i>
-
-&emsp;&emsp;&emsp;<i>(iii) With respect to security-based swaps that are not cleared at a registered clearing agency and which are reported to a security-based swap data repository or the Commission under section 78c–3(a)(6) of this title, the Commission shall require real-time public reporting for such transactions, in a manner that does not disclose the business transactions and market positions of any person.</i>
-
-&emsp;&emsp;&emsp;<i>(iv) With respect to security-based swaps that are determined to be required to be cleared under section 78c–3(b) of this title but are not cleared, the Commission shall require real-time public reporting for such transactions.</i>
-
-#### <i>(D) Registered entities and public reporting</i>
-
-&emsp;&emsp;<i>The Commission may require registered entities to publicly disseminate the security-based swap transaction and pricing data required to be reported under this paragraph.</i>
-
-#### <i>(E) Rulemaking required</i>
-
-&emsp;&emsp;<i>With respect to the rule providing for the public availability of transaction and pricing data for security-based swaps described in clauses (i) and (ii) of subparagraph (C), the rule promulgated by the Commission shall contain provisions—</i>
-
-&emsp;&emsp;&emsp;<i>(i) to ensure such information does not identify the participants;</i>
-
-&emsp;&emsp;&emsp;<i>(ii) to specify the criteria for determining what constitutes a large notional security-based swap transaction (block trade) for particular markets and contracts;</i>
-
-&emsp;&emsp;&emsp;<i>(iii) to specify the appropriate time delay for reporting large notional security-based swap transactions (block trades) to the public; and</i>
-
-&emsp;&emsp;&emsp;<i>(iv) that take into account whether the public disclosure will materially reduce market liquidity.</i>
-
-#### <i>(F) Timeliness of reporting</i>
-
-&emsp;&emsp;<i>Parties to a security-based swap (including agents of the parties to a security-based swap) shall be responsible for reporting security-based swap transaction information to the appropriate registered entity in a timely manner as may be prescribed by the Commission.</i>
-
-#### <i>(G) Reporting of swaps to registered security-based swap data repositories</i>
-
-&emsp;&emsp;<i>Each security-based swap (whether cleared or uncleared) shall be reported to a registered security-based swap data repository.</i>
-
-#### <i>(H) Registration of clearing agencies</i>
-
-&emsp;&emsp;<i>A clearing agency may register as a security-based swap data repository.</i>
-
-#### <i>(2) Semiannual and annual public reporting of aggregate security-based swap data</i>
-
-#### <i>(A) In general</i>
-
-&emsp;&emsp;<i>In accordance with subparagraph (B), the Commission shall issue a written report on a semiannual and annual basis to make available to the public information relating to—</i>
-
-&emsp;&emsp;&emsp;<i>(i) the trading and clearing in the major security-based swap categories; and</i>
-
-&emsp;&emsp;&emsp;<i>(ii) the market participants and developments in new products.</i>
-
-#### <i>(B) Use; consultation</i>
-
-&emsp;&emsp;<i>In preparing a report under subparagraph (A), the Commission shall—</i>
-
-&emsp;&emsp;&emsp;<i>(i) use information from security-based swap data repositories and clearing agencies; and</i>
-
-&emsp;&emsp;&emsp;<i>(ii) consult with the Office of the Comptroller of the Currency, the Bank for International Settlements, and such other regulatory bodies as may be necessary.</i>
-
-#### <i>(C) Authority of Commission</i>
-
-&emsp;&emsp;<i>The Commission may, by rule, regulation, or order, delegate the public reporting responsibilities of the Commission under this paragraph in accordance with such terms and conditions as the Commission determines to be appropriate and in the public interest.</i>
-
-#### <i>(n) Security-based swap data repositories</i>
-
-#### <i>(1) Registration requirement</i>
-
-&emsp;<i>It shall be unlawful for any person, unless registered with the Commission, directly or indirectly, to make use of the mails or any means or instrumentality of interstate commerce to perform the functions of a security-based swap data repository.</i>
-
-#### <i>(2) Inspection and examination</i>
-
-&emsp;<i>Each registered security-based swap data repository shall be subject to inspection and examination by any representative of the Commission.</i>
-
-#### <i>(3) Compliance with core principles</i>
-
-#### <i>(A) In general</i>
-
-&emsp;&emsp;<i>To be registered, and maintain registration, as a security-based swap data repository, the security-based swap data repository shall comply with—</i>
-
-&emsp;&emsp;&emsp;<i>(i) the requirements and core principles described in this subsection; and</i>
-
-&emsp;&emsp;&emsp;<i>(ii) any requirement that the Commission may impose by rule or regulation.</i>
-
-#### <i>(B) Reasonable discretion of security-based swap data repository</i>
-
-&emsp;&emsp;<i>Unless otherwise determined by the Commission, by rule or regulation, a security-based swap data repository described in subparagraph (A) shall have reasonable discretion in establishing the manner in which the security-based swap data repository complies with the core principles described in this subsection.</i>
-
-#### <i>(4) Standard setting</i>
-
-#### <i>(A) Data identification</i>
-
-#### <i>(i) In general</i>
-
-&emsp;&emsp;&emsp;<i>In accordance with clause (ii), the Commission shall prescribe standards that specify the data elements for each security-based swap that shall be collected and maintained by each registered security-based swap data repository.</i>
-
-#### <i>(ii) Requirement</i>
-
-&emsp;&emsp;&emsp;<i>In carrying out clause (i), the Commission shall prescribe consistent data element standards applicable to registered entities and reporting counterparties.</i>
-
-#### <i>(B) Data collection and maintenance</i>
-
-&emsp;&emsp;<i>The Commission shall prescribe data collection and data maintenance standards for security-based swap data repositories.</i>
-
-#### <i>(C) Comparability</i>
-
-&emsp;&emsp;<i>The standards prescribed by the Commission under this subsection shall be comparable to the data standards imposed by the Commission on clearing agencies in connection with their clearing of security-based swaps.</i>
-
-#### <i>(5) Duties</i>
-
-&emsp;<i>A security-based swap data repository shall—</i>
-
-&emsp;&emsp;<i>(A) accept data prescribed by the Commission for each security-based swap under subsection (b);</i>
-
-&emsp;&emsp;<i>(B) confirm with both counterparties to the security-based swap the accuracy of the data that was submitted;</i>
-
-&emsp;&emsp;<i>(C) maintain the data described in subparagraph (A) in such form, in such manner, and for such period as may be required by the Commission;</i>
-
-&emsp;&emsp;<i>(D)(i) provide direct electronic access to the Commission (or any designee of the Commission, including another registered entity); and</i>
-
-&emsp;&emsp;<i>(ii) provide the information described in subparagraph (A) in such form and at such frequency as the Commission may require to comply with the public reporting requirements set forth in subsection (m);</i>
-
-&emsp;&emsp;<i>(E) at the direction of the Commission, establish automated systems for monitoring, screening, and analyzing security-based swap data;</i>
-
-&emsp;&emsp;<i>(F) maintain the privacy of any and all security-based swap transaction information that the security-based swap data repository receives from a security-based swap dealer, counterparty, or any other registered entity; and</i>
-
-&emsp;&emsp;<i>(G) on a confidential basis pursuant to section 78x of this title, upon request, and after notifying the Commission of the request, make available all data obtained by the security-based swap data repository, including individual counterparty trade and position data, to—</i>
-
-&emsp;&emsp;&emsp;<i>(i) each appropriate prudential regulator;</i>
-
-&emsp;&emsp;&emsp;<i>(ii) the Financial Stability Oversight Council;</i>
-
-&emsp;&emsp;&emsp;<i>(iii) the Commodity Futures Trading Commission;</i>
-
-&emsp;&emsp;&emsp;<i>(iv) the Department of Justice; and</i>
-
-&emsp;&emsp;&emsp;<i>(v) any other person that the Commission determines to be appropriate, including—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(I) foreign financial supervisors (including foreign futures authorities);</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(II) foreign central banks; and</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(III) foreign ministries.</i>
-
-&emsp;&emsp;<i>(H)</i>
-
-<i>Confidentiality and indemnification agreement</i>.—<i>Before the security-based swap data repository may share information with any entity described in subparagraph (G)—</i>
-
-&emsp;&emsp;&emsp;<i>(i) the security-based swap data repository shall receive a written agreement from each entity stating that the entity shall abide by the confidentiality requirements described in section 78x of this title relating to the information on security-based swap transactions that is provided; and</i>
-
-&emsp;&emsp;&emsp;<i>(ii) each entity shall agree to indemnify the security-based swap data repository and the Commission for any expenses arising from litigation relating to the information provided under section 78x of this title.</i>
-
-#### <i>(6) Designation of chief compliance officer</i>
-
-#### <i>(A) In general</i>
-
-&emsp;&emsp;<i>Each security-based swap data repository shall designate an individual to serve as a chief compliance officer.</i>
-
-#### <i>(B) Duties</i>
-
-&emsp;&emsp;<i>The chief compliance officer shall—</i>
-
-&emsp;&emsp;&emsp;<i>(i) report directly to the board or to the senior officer of the security-based swap data repository;</i>
-
-&emsp;&emsp;&emsp;<i>(ii) review the compliance of the security-based swap data repository with respect to the requirements and core principles described in this subsection;</i>
-
-&emsp;&emsp;&emsp;<i>(iii) in consultation with the board of the security-based swap data repository, a body performing a function similar to the board of the security-based swap data repository, or the senior officer of the security-based swap data repository, resolve any conflicts of interest that may arise;</i>
-
-&emsp;&emsp;&emsp;<i>(iv) be responsible for administering each policy and procedure that is required to be established pursuant to this section;</i>
-
-&emsp;&emsp;&emsp;<i>(v) ensure compliance with this chapter (including regulations) relating to agreements, contracts, or transactions, including each rule prescribed by the Commission under this section;</i>
-
-&emsp;&emsp;&emsp;<i>(vi) establish procedures for the remediation of noncompliance issues identified by the chief compliance officer through any—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(I) compliance office review;</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(II) look-back;</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(III) internal or external audit finding;</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(IV) self-reported error; or</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(V) validated complaint; and</i>
-
-&emsp;&emsp;&emsp;<i>(vii) establish and follow appropriate procedures for the handling, management response, remediation, retesting, and closing of noncompliance issues.</i>
-
-#### <i>(C) Annual reports</i>
-
-#### <i>(i) In general</i>
-
-&emsp;&emsp;&emsp;<i>In accordance with rules prescribed by the Commission, the chief compliance officer shall annually prepare and sign a report that contains a description of—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(I) the compliance of the security-based swap data repository of the chief compliance officer with respect to this chapter (including regulations); and</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(II) each policy and procedure of the security-based swap data repository of the chief compliance officer (including the code of ethics and conflict of interest policies of the security-based swap data repository).</i>
-
-#### <i>(ii) Requirements</i>
-
-&emsp;&emsp;&emsp;<i>A compliance report under clause (i) shall—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(I) accompany each appropriate financial report of the security-based swap data repository that is required to be furnished to the Commission pursuant to this section; and</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(II) include a certification that, under penalty of law, the compliance report is accurate and complete.</i>
-
-#### <i>(7) Core principles applicable to security-based swap data repositories</i>
-
-#### <i>(A) Antitrust considerations</i>
-
-&emsp;&emsp;<i>Unless necessary or appropriate to achieve the purposes of this chapter, the swap data repository shall not—</i>
-
-&emsp;&emsp;&emsp;<i>(i) adopt any rule or take any action that results in any unreasonable restraint of trade; or</i>
-
-&emsp;&emsp;&emsp;<i>(ii) impose any material anticompetitive burden on the trading, clearing, or reporting of transactions.</i>
-
-#### <i>(B) Governance arrangements</i>
-
-&emsp;&emsp;<i>Each security-based swap data repository shall establish governance arrangements that are transparent—</i>
-
-&emsp;&emsp;&emsp;<i>(i) to fulfill public interest requirements; and</i>
-
-&emsp;&emsp;&emsp;<i>(ii) to support the objectives of the Federal Government, owners, and participants.</i>
-
-#### <i>(C) Conflicts of interest</i>
-
-&emsp;&emsp;<i>Each security-based swap data repository shall—</i>
-
-&emsp;&emsp;&emsp;<i>(i) establish and enforce rules to minimize conflicts of interest in the decision-making process of the security-based swap data repository; and</i>
-
-&emsp;&emsp;&emsp;<i>(ii) establish a process for resolving any conflicts of interest described in clause (i).</i>
-
-#### <i>(D) Additional duties developed by Commission</i>
-
-#### <i>(i) In general</i>
-
-&emsp;&emsp;&emsp;<i>The Commission may develop 1 or more additional duties applicable to security-based swap data repositories.</i>
-
-#### <i>(ii) Consideration of evolving standards</i>
-
-&emsp;&emsp;&emsp;<i>In developing additional duties under subparagraph (A), the Commission may take into consideration any evolving standard of the United States or the international community.</i>
-
-#### <i>(iii) Additional duties for Commission designees</i>
-
-&emsp;&emsp;&emsp;<i>The Commission shall establish additional duties for any registrant described in subsection (m)(2)(C) in order to minimize conflicts of interest, protect data, ensure compliance, and guarantee the safety and security of the security-based swap data repository.</i>
-
-#### <i>(8) Required registration for security-based swap data repositories</i>
-
-&emsp;<i>Any person that is required to be registered as a security-based swap data repository under this subsection shall register with the Commission, regardless of whether that person is also licensed under the Commodity Exchange Act as a swap data repository.</i>
-
-#### <i>(9) Rules</i>
-
-&emsp;<i>The Commission shall adopt rules governing persons that are registered under this subsection.</i>
-
-#### <i>(o) Beneficial ownership</i>
-
-<i>For purposes of this section and section 78p of this title, a person shall be deemed to acquire beneficial ownership of an equity security based on the purchase or sale of a security-based swap, only to the extent that the Commission, by rule, determines after consultation with the prudential regulators and the Secretary of the Treasury, that the purchase or sale of the security-based swap, or class of security-based swap, provides incidents of ownership comparable to direct ownership of the equity security, and that it is necessary to achieve the purposes of this section that the purchase or sale of the security-based swaps, or class of security-based swap, be deemed the acquisition of beneficial ownership of the equity security.</i>
+<i>Unless otherwise provided, amendment by subtitle B (§§761–774) of title VII of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see 2010 Amendment notes and Effective Date of 2010 Amendment note below.</i>
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b)(1), (h)(1), (2), (4), (6), and (i), was in the original “this title”. See References in Text note set out under section 78a of this title.
+This chapter, referred to in subsecs. (b)(1), (h)(1), (2), (4), (6), (i), and (n)(6)(B)(v), (C)(i)(I), (7)(A), was in the original “this title”. See References in Text note set out under section 78a of this title.
 
 The Investment Company Act of 1940, referred to in subsecs. (d)(1) and (e)(1), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
 
@@ -732,7 +678,9 @@ The Securities Act of 1933, referred to in subsec. (d)(6)(A), is act May 27, 193
 
 The Federal Deposit Insurance Act, referred to in subsec. (f)(5), is act Sept. 21, 1950, ch. 967, §2, 64 Stat. 873, which is classified generally to chapter 16 (§1811 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of Title 12 and Tables.
 
-Section 7201 of this title, referred to in subsec. (k)(1), was in the original “section 2 of the Sarbanes-Oxley Act of 2002”, Pub. L. 107–204, which enacted section 7201 of this title and amended section 78c of this title.
+Section 7201 of this title, referred to in subsec. (k)(1), was in the original “section 2 of the Sarbanes-OxleyAct of 2002”, Pub. L. 107–204, which enacted section 7201 of this title and amended section 78c of this title.
+
+The Commodity Exchange Act, referred to in subsec. (n)(8), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
 Section 1502 of the Dodd-Frank Wall Street Reform and Consumer Protection Act, referred to in subsec. (p)(5), is section 1502 of Pub. L. 111–203, which amended this section and enacted provisions set out as a note below.
 
@@ -740,21 +688,39 @@ Section 1502 of the Dodd-Frank Wall Street Reform and Consumer Protection Act, r
 
 <b>2010</b>—Subsec. (b)(1). Pub. L. 111–203, §985(b)(4), substituted “earnings statement” for “earning statement”.
 
+Subsec. (b)(2)(C). Pub. L. 111–203, §982(h)(3), amended Pub. L. 107–204, §109. See 2002 Amendment note below.
+
 Subsec. (d)(1). Pub. L. 111–203, §929R(a)(1), in introductory provisions, inserted “or within such shorter time as the Commission may establish by rule” after “within ten days after such acquisition” and struck out “send to the issuer of the security at its principal executive office, by registered or certified mail, send to each exchange where the security is traded, and” before “file with the Commission”.
 
+Pub. L. 111–203, §766(b)(1), in introductory provisions, inserted “or otherwise becomes or is deemed to become a beneficial owner of any of the foregoing upon the purchase or sale of a security-based swap that the Commission may define by rule, and” after “section 1629c(d)(6) of title 43,”.
+
 Subsec. (d)(2). Pub. L. 111–203, §929R(a)(2), struck out “in the statements to the issuer and the exchange, and” after “facts set forth” and “shall be transmitted to the issuer and the exchange and” after “an amendment”.
+
+Subsec. (e)(3). Pub. L. 111–203, §991(b)(2)(A), substituted “paragraph (4)” for “paragraphs (5) and (6)”.
+
+Subsec. (e)(4) to (6). Pub. L. 111–203, §991(b)(2)(B), (C), added pars. (4) to (6) and struck out former pars. (4) to (6) which related to offsetting collections, annual adjustment of rate, and final rate adjustment, respectively.
+
+Subsec. (e)(8) to (10). Pub. L. 111–203, §991(b)(2)(D), struck out pars. (8) to (10) which related to review and effective date of adjusted rate, collection of fees upon lapse of appropriation, and publication of rate, respectively.
+
+Subsec. (f)(1). Pub. L. 111–203, §766(c), which directed insertion of “or otherwise becomes or is deemed to become a beneficial owner of any security of a class described in subsection (d)(1) upon the purchase or sale of a security-based swap that the Commission may define by rule,” after “subsection (d)(1) of this section”, was executed by making the insertion after “section 13(d)(1) of this title”, which was translated to “subsection (d)(1) of this section”, to reflect the probable intent of Congress.
 
 Subsec. (f)(2) to (6). Pub. L. 111–203, §929X(a), added par. (2) and redesignated former pars. (2) to (5) as (3) to (6), respectively.
 
 Subsec. (g)(1). Pub. L. 111–203, §929R(a)(3), struck out “shall send to the issuer of the security and” before “shall file” in introductory provisions.
 
+Pub. L. 111–203, §766(b)(2), in introductory provisions, inserted “or otherwise becomes or is deemed to become a beneficial owner of any security of a class described in subsection (d)(1) upon the purchase or sale of a security-based swap that the Commission may define by rule” after “subsection (d)(1) of this section”.
+
 Subsec. (g)(2). Pub. L. 111–203, §929R(a)(4), struck out “sent to the issuer and” after “the statement” and “shall be transmitted to the issuer and” after “an amendment”.
+
+Subsecs. (m), (n). Pub. L. 111–203, §763(i), added subsecs. (m) and (n).
+
+Subsec. (<i>o</i>). Pub. L. 111–203, §766(e), added subsec. (<i>o</i>).
 
 Subsec. (p). Pub. L. 111–203, §1502(b), added subsec. (p).
 
 Subsec. (q). Pub. L. 111–203, §1504, added subsec. (q).
 
-<b>2002</b>—Subsec. (b)(2)(C). Pub. L. 107–204, §109(h), added subpar. (C).
+<b>2002</b>—Subsec. (b)(2)(C). Pub. L. 107–204, §109(i), formerly §109(h), renumbered §109(i) by Pub. L. 111–203, §982(h)(3), added subpar. (C).
 
 Subsec. (e)(3). Pub. L. 107–123, §5(1), substituted “a fee at a rate that, subject to paragraphs (5) and (6), is equal to $92 per $1,000,000 of the value of securities proposed to be purchased” for “a fee of 1/50 of 1 per centum of the value of securities proposed to be purchased”.
 
@@ -824,7 +790,7 @@ Amendment by Pub. L. 88–467 effective Aug. 20, 1964, see section 13 of Pub. L.
 
 #### Transfer of Functions
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2,eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
 #### Elimination of Exemption From Fair Disclosure Rule
 
@@ -892,7 +858,7 @@ Designation.—The map required under subparagraph (A) shall be known as the ‘
 
 &emsp;&emsp;“(C)
 
-Updates.—The Secretary of State shall update the map required under subparagraph (A) not less frequently than once every 180 days until the date on which the disclosure requirements under paragraph (1) of section 13(p) of the Securities Exchange Act of 1934 \[15 U.S.C. 78m(p)\], as added by subsection (b), terminate in accordance with the provisions of paragraph (4) of such section 13(p).
+Updates.—The Secretary of State shall update the map required under subparagraph (A) not less frequently than once every 180 days until the date on which the disclosure requirements under paragraph (1) of section 13(p) of the Securities Exchange Act of 1934 \[15 U.S.C. 78m(p)\], as added bysubsection (b), terminate in accordance with the provisions of paragraph (4) of such section 13(p).
 
 &emsp;&emsp;“(D)
 
@@ -1004,7 +970,9 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i><sup>1</sup></i><i> So in original. Probably should be “account.”</i>
 
-<i><sup>2</sup></i><i> See Enactment of Subsections (m) to (o) note below.</i>
+<i><sup>2</sup></i><i> So in original. Section 78c–3(a) of this title does not contain a par. (6).</i>
 
-<i><sup>3</sup></i><i> So in original. The word “a” probably should appear.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be “clause (i),”.</i>
+
+<i><sup>4</sup></i><i> So in original. The word “a” probably should appear.</i>
 

@@ -46,9 +46,9 @@ The Joint Committee shall review all requests (other than requests by the chairm
 
 #### (2) Joint reviews
 
-&emsp;Before June 1 of each calendar year after 1998 and before 2005, there shall be a joint review of the strategic plans and budget for the Internal Revenue Service and such other matters as the Chairman of the Joint Committee deems appropriate. Such joint review shall be held at the call of the Chairman of the Joint Committee and shall include two members of the majority and one member of the minority from each of the Committees on Finance, Appropriations, and Governmental Affairs of the Senate, and the Committees on Ways and Means, Appropriations, and Government Reform and Oversight of the House of Representatives.
+&emsp;Before June 1 of each calendar year after 1998 and before 2005, there shall be a joint review of the strategic plans and budget for the Internal Revenue Service and such other matters as the Chairman of the Joint Committee deems appropriate. Such joint review shall be held at the call of the Chairman of the Joint Committee and shall include two members of the majority and one member of the minorityfrom each of the Committees on Finance, Appropriations, and Governmental Affairs of the Senate, and the Committees on Ways and Means, Appropriations, and Government Reform and Oversight of the House of Representatives.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 927; Pub. L. 94–455, title XIX, §1907(a)(3), Oct. 4, 1976, 90 Stat. 1835; Pub. L. 100–647, title I, §1018(s)(1), Nov. 10, 1988, 102 Stat. 3586; Pub. L. 105–206, title IV, §4001(a), July 22, 1998, 112 Stat. 783; Pub. L. 108–311, title III, §321(a), Oct. 4, 2004, 118 Stat.1182; Pub. L. 109–135, title IV, §412(rr)(5), Dec. 21, 2005, 119 Stat. 2640.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 927; Pub. L. 94–455, title XIX, §1907(a)(3), Oct. 4, 1976, 90 Stat. 1835; Pub. L. 100–647, title I, §1018(s)(1), Nov. 10, 1988, 102 Stat. 3586; Pub. L. 105–206, title IV, §4001(a), July 22, 1998, 112 Stat. 783; Pub. L. 108–311, title III, §321(a), Oct. 4, 2004, 118 Stat. 1182; Pub. L. 109–135, title IV, §412(rr)(5), Dec. 21, 2005, 119 Stat. 2640.)
 
 #### Amendments
 

@@ -14,7 +14,7 @@ The President may designate a foreign country or instrumentality for purposes of
 
 &emsp;(1) is a country or instrumentality which (A) has become a party to the Agreement or the North American Free Trade Agreement, and (B) will provide appropriate reciprocal competitive government procurement opportunities to United States products and suppliers of such products;
 
-&emsp;(2) is a country or instrumentality, other than a major industrial country, which (A) will otherwise assume the obligations of the Agreement, and (B) will provide such opportunities to such products and suppliers;
+&emsp;(2) is a country or instrumentality, other than a major industrial country, which (A)will otherwise assume the obligations of the Agreement, and (B) will provide such opportunities to such products and suppliers;
 
 &emsp;(3) is a country or instrumentality, other than a major industrial country, which will provide such opportunities to such products and suppliers; or
 
@@ -86,7 +86,7 @@ Responsibilities
 
 1–104. The Trade Representative shall determine, from time to time, the dollar equivalent of 150,000 Special Drawing Right units and shall publish that determination in the Federal Register. Procurement of less than 150,000 Special Drawing Right units is not subject to the Agreement or this Order (Article I:1(b) of the Agreement).
 
-1–105. In order to ensure coordination of international trade policy with regard to the implementation of the Agreement, agencies shall consult in advance with the Trade Representative about negotiations with foreign governments or instrumentalities which concern government procurement.
+1–105. In order to ensure coordination of international trade policy with regard to the implementation of the Agreement, agencies shall consult in advance with theTrade Representative about negotiations with foreign governments or instrumentalities which concern government procurement.
 
 #### 1–2.
 

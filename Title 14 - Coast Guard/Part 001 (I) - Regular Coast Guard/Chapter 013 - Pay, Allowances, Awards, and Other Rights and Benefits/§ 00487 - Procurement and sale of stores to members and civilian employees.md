@@ -14,5 +14,5 @@ Said section would in no way be affected. 81st Congress, House Report No. 557.
 
 #### Amendments
 
-1984—Pub. L. 98–557 in section catchline substituted “members” for “officers, enlisted men,” and in text substituted “surviving spouses” for “widows” and “members” for “officers and enlisted men” in two places.
+<b>1984</b>—Pub. L. 98–557 in section catchline substituted “members” for “officers, enlisted men,” and in text substituted “surviving spouses” for “widows” and “members” for “officers and enlisted men” in two places.
 

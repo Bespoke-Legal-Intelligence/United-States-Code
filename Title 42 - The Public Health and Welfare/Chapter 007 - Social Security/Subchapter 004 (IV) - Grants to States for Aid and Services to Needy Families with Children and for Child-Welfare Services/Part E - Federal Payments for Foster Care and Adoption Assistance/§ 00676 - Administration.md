@@ -38,7 +38,7 @@ Each State shall submit statistical reports as the Secretary may require with re
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;As a condition of being paid a grant under subparagraph (A)(iii), a tribe, tribal organization, or tribal consortium shall agree to repay the total amount of the grant awarded if the tribe, tribal organization, or tribal consortium fails to submit to the Secretary a plan under section 671 of this title to carry out a program under section 679c of this title by the end of the 24-month period described in that subparagraph.
+&emsp;&emsp;&emsp;As a condition of being paid a grant under subparagraph (A)(iii), a tribe, tribal organization, or tribal consortium shall agree to repay the total amount of the grant awarded if the tribe, tribal organization, or tribal consortium fails to submit to the Secretary a plan under section 671 of this title to carry out a program under section 679c of this title by the end of the24-month period described in that subparagraph.
 
 #### (ii) Exception
 
@@ -53,10 +53,6 @@ Each State shall submit statistical reports as the Secretary may require with re
 &emsp;There is appropriated to the Secretary, out of any money in the Treasury of the United States not otherwise appropriated, $3,000,000 for fiscal year 2009 and each fiscal year thereafter to carry out this subsection.
 
 (Aug. 14, 1935, ch. 531, title IV, §476, as added Pub. L. 96–272, title I, §101(a)(1), June 17, 1980, 94 Stat. 511; amended Pub. L. 110–351, title III, §302, Oct. 7, 2008, 122 Stat. 3972.)
-
-#### References in Text
-
-Part B of this subchapter, referred to in subsecs. (a) and (c)(2)(A)(i), (ii)(I), is classified to section 620 et seq. of this title.
 
 #### Amendments
 

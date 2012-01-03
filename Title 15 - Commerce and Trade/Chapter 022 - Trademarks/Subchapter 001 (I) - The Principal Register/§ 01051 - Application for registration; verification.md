@@ -68,7 +68,7 @@ At any time during examination of an application filed under subsection (b) of t
 
 If the applicant is not domiciled in the United States the applicant may designate, by a document filed in the United States Patent and Trademark Office, the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark. Such notices or process may be served upon the person so designated by leaving with that person or mailing to that person a copy thereof at the address specified in the last designation so filed. If the person so designated cannot be found at the address given in the last designation, or if the registrant does not designate by a document filed in the United States Patent and Trademark Office the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark, such notices or process may be served on the Director.
 
-(July 5, 1946, ch. 540, title I, §1, 60 Stat. 427; Pub. L. 87–772, §1, Oct. 9, 1962, 76 Stat. 769; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 100–667, title I, §103, Nov. 16, 1988, 102 Stat. 3935; Pub. L. 105–330, title I, §103, title II, §201(a)(1), Oct. 30, 1998, 112 Stat. 3064, 3069; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 107–273, div. C, title III, §13207(b)(1), (2), Nov. 2, 2002, 116 Stat. 1906.)
+(July 5, 1946, ch. 540, title I, §1, 60 Stat. 427; Pub. L. 87–772, §1, Oct. 9, 1962, 76 Stat. 769; Pub. L.93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 100–667, title I, §103, Nov. 16, 1988, 102 Stat. 3935; Pub. L. 105–330, title I, §103, title II, §201(a)(1), Oct. 30, 1998, 112 Stat. 3064, 3069; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 107–273, div. C, title III, §13207(b)(1), (2), Nov. 2, 2002, 116 Stat. 1906.)
 
 #### Prior Provisions
 
@@ -94,7 +94,7 @@ Pub. L. 105–330, §201(a)(1)(B), which directed the striking out of “and, th
 
 Subsec. (d)(4). Pub. L. 105–330, §103(c), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The failure to timely file a verified statement of use under this subsection shall result in abandonment of the application.”
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–667, §103(1) to (7), inserted “(a)” preceding introductory provisions and substituted “may apply to register his or her” for “may register his”, redesignated former subsecs. (a) to (c) as pars. (1) to (3), respectively, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, in par.\(1)(A), substituted “used on or in connection with” for “applied to” and “goods on or in connection” for “goods in connection”, in par. (1)(C), struck out “actually” after “the mark as”, and in par. (2), substituted “prescribed” for “filing”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–667, §103(1) to (7), inserted “(a)” preceding introductory provisions and substituted “may apply to register his or her” for “may register his”, redesignated former subsecs. (a) to (c) as pars. (1) to (3), respectively, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, in par. (1)(A), substituted “used on or in connection with” for “applied to” and “goods on or in connection” for “goods in connection”, in par. (1)(C), struck out “actually” after “the mark as”, and in par. (2), substituted “prescribed” for “filing”.
 
 Subsecs. (b), (c). Pub. L. 100–667, §103(3), (9), added subsecs. (b) and (c) and redesignated former subsecs. (b) and (c) as pars. (2) and (3), respectively, of subsec. (a).
 
@@ -140,7 +140,7 @@ Pub. L. 111–146, §1, Mar. 17, 2010, 124 Stat. 66, provided that: “This Act 
 
 #### Short Title of 2006 Amendment
 
-Pub. L. 109–312, §1(a), Oct. 6, 2006, 120 Stat. 1730, provided that: “This Act \[amending sections 1052, 1063, 1064, 1092, 1125, and 1127 of this title\] may be cited as the ‘Trademark Dilution Revision Act of 2006’.”
+Pub. L. 109–312, §1(a), Oct. 6, 2006, 120 Stat. 1730, provided that: “This Act \[amending sections 1052, 1063,1064, 1092, 1125, and 1127 of this title\] may be cited as the ‘Trademark Dilution Revision Act of 2006’.”
 
 #### Short Title of 2004 Amendment
 
@@ -172,7 +172,7 @@ Pub. L. 102–542, §1, Oct. 27, 1992, 106 Stat. 3567, provided that: “This Ac
 
 #### Short Title of 1988 Amendment
 
-Section 101 of title I of Pub. L. 100–667 provided that: “This title \[amending this section and sections 1052 to1060, 1062 to 1066, 1068, 1069, 1071, 1091, 1092, 1094, 1095, 1111, 1112, 1114 to 1118, 1121, and 1125 to 1127 of this title, redesignating section 1121a of this title as section 1121(b) of this title, and enacting provisions set out as notes under sections 1051 and 1058 of this title\] may be cited as the ‘Trademark Law Revision Act of 1988’.”
+Section 101 of title I of Pub. L. 100–667 provided that: “This title \[amending this section and sections 1052 to 1060, 1062 to 1066, 1068, 1069, 1071, 1091, 1092, 1094, 1095, 1111, 1112, 1114 to 1118, 1121, and 1125 to 1127 of this title, redesignating section 1121a of this title as section 1121(b) of this title, and enacting provisions set out as notes under sections 1051 and 1058 of this title\] may be cited as the ‘Trademark Law Revision Act of 1988’.”
 
 #### Short Title of 1984 Amendment
 
@@ -202,7 +202,7 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 #### Pending Proceedings and Existing Registration and Rights Under Prior Acts
 
-Section 46(a) of act July 5, 1946, provided in part that this chapter, except as otherwise specifically provided therein, shall not affect any suit, proceeding or appeal pending on the effective date of this chapter and that the repeal of all inconsistent acts “shall not affect the validity of registrations granted or applied for under any of said Acts prior to the effective date of this Act \[July 5, 1947\], or rights or remedies thereunder except as provided in sections 8, 12, 14, 15, and 47 of this Act \[sections 1058, 1062, 1064, and 1065 of this title and note under this section\].”
+Section 46(a) of act July 5, 1946, provided in part that this chapter, except as otherwise specifically provided therein, shall not affect any suit, proceeding or appealpending on the effective date of this chapter and that the repeal of all inconsistent acts “shall not affect the validity of registrations granted or applied for under any of said Acts prior to the effective date of this Act \[July 5, 1947\], or rights or remedies thereunder except as provided in sections 8, 12, 14, 15, and 47 of this Act \[sections 1058, 1062, 1064, and 1065 of this title and note under this section\].”
 
 Sections 46(b) and 47 of act July 5, 1946, provided:
 

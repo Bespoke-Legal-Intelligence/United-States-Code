@@ -2,7 +2,7 @@
 
 There is hereby established in the Small Business Administration a division to be known as the Small Business Investment Division. The Division shall be headed by an Associate Administrator who shall be appointed by the Administrator, and shall receive compensation at the rate provided by law for other Associate Administrators of the Small Business Administration.
 
-(Pub. L. 85–699, title II, §201, Aug. 21, 1958, 72 Stat. 690; Pub. L. 89–117, title III, §316(b), Aug. 10, 1965, 79 Stat. 484; Pub. L. 89–779, §2, Nov. 6, 1966, 80 Stat. 1359.)
+(Pub. L. 85–699, title II, §201, Aug. 21, 1958, 72 Stat. 690; Pub. L. 89–117, title III, §316(b), Aug.10, 1965, 79 Stat. 484; Pub. L. 89–779, §2, Nov. 6, 1966, 80 Stat. 1359.)
 
 #### Amendments
 

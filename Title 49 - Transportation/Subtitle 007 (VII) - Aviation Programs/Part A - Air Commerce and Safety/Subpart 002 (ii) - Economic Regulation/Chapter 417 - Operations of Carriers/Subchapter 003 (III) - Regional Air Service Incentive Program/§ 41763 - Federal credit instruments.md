@@ -74,7 +74,7 @@ Maximum amount.—No loan guarantee shall be made under this section—
 
 &emsp;&emsp;(A) that extends to more than the unpaid interest and 50 percent of the unpaid principal on any loan;
 
-&emsp;&emsp;(B) that, for any loan or combination of loans, extends to more than 50 percent of the purchase price (including the value of any manufacturer credits, post-purchase options,or other discounts) of the aircraft, including spare parts, to be purchased with the loan or loan combination;
+&emsp;&emsp;(B) that, for any loan or combination of loans, extends to more than 50 percent of the purchase price (including the value of any manufacturer credits, post-purchase options, or other discounts) of the aircraft, including spare parts, to be purchased with the loan or loan combination;
 
 &emsp;&emsp;(C) on any loan with respect to which terms permit repayment more than 15 years after the date of execution of the loan; or
 
@@ -82,7 +82,7 @@ Maximum amount.—No loan guarantee shall be made under this section—
 
 &emsp;(3)
 
-Fees.—The Secretary, subject to appropriations, may establish fees at a level sufficient to cover all or a portion of the administrative costs to the United States Government of making a loan guarantee under this section. The proceeds of such fees shall be deposited in an account to be used by the Secretary for the purpose of administering the program established under this subchapter and shall be available upon deposit until expended.
+Fees.—The Secretary, subject to appropriations, may establish fees at a level sufficient to cover all or a portion of the administrative costs to the United States Governmentof making a loan guarantee under this section. The proceeds of such fees shall be deposited in an account to be used by the Secretary for the purpose of administering the program established under this subchapter and shall be available upon deposit until expended.
 
 (d)
 
@@ -188,7 +188,7 @@ Requirement.—Subject to subsection (i), no Federal credit instrument may be ma
 
 (i)
 
-Other Limitations.—No Federal credit instrument shall be made by the Secretary under this section for the purchase of a regional jet aircraft unless the commuter air carrier or new entrant air carrier enters into a legally binding agreement that requires the carrier to provide scheduled passenger air transportation to the underserved market for which the aircraft is purchased for a period of not less than 36 consecutive months after the date that aircraft is placed in service.
+Other Limitations.—No Federal credit instrument shall be made by the Secretary under this section for the purchase of a regional jet aircraft unless the commuter air carrier or new entrant air carrier enters into a legally binding agreement that requires the carrier to providescheduled passenger air transportation to the underserved market for which the aircraft is purchased for a period of not less than 36 consecutive months after the date that aircraft is placed in service.
 
 (Added Pub. L. 106–181, title II, §210(a), Apr. 5, 2000, 114 Stat. 97.)
 

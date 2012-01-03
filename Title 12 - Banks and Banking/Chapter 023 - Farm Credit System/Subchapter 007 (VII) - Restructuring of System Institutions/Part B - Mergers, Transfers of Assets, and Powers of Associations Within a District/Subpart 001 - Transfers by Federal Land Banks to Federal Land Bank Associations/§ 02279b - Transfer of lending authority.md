@@ -34,7 +34,7 @@ Pub. L. 100–399, §408(j), transferred section 7.7 of Pub. L. 92–181, which 
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–399, §408(f), substituted “Voluntary transfers” for “Assignments” as subsection heading, and in text substituted “may transfer” for “may assign”, “this chapter” for “sections 2014 through 2017 of this title”, and “transfer is approved” for “assignment is approved” in introductory provisions, and “sections 2279a and 2279c–1 of this title, respectively” for “sections 2279a and 2279b of this title” in par. (3).
+<b>1988</b>—Subsec. (a). Pub. L. 100–399, §408(f), substituted “Voluntary transfers” for “Assignments” as subsection heading, and in text substituted “may transfer” for “may assign”, “this chapter” for “sections 2014 through 2017 of this title”, and “transfer is approved” for “assignment is approved” in introductory provisions, and “sections 2279a and 2279c–1 of this title, respectively” for “sections 2279a and 2279b of this title” in par. (3).
 
 Subsec. (b). Pub. L. 100–399, §408(g), substituted “a transfer described in subsection (a) or (d)” for “an assignment described in subsection (a)” in introductory provisions and “the bank may provide” for “the Federal land bank may provide” in par. (2).
 

@@ -22,7 +22,7 @@ The Secretary shall, within 18 months after August 10, 1993, and within 6 months
 
 #### (2) Mixed uses permitted to be counted
 
-&emsp;Bands of frequencies which a report of the Secretary under subsection (a) or (d)(1) of this section recommends be partially retained for use by Federal Government stations, butwhich are also recommended to be reallocated to be made available under the 1934 Act \[47 U.S.C. 151 et seq.\] for use by non-Federal stations, may be counted toward the minimum spectrum required by paragraph (1) or (3) of this subsection, except that—
+&emsp;Bands of frequencies which a report of the Secretary under subsection (a) or (d)(1) of this section recommends be partially retained for use by Federal Government stations, but which are also recommended to be reallocated to be made available under the 1934 Act \[47 U.S.C. 151 et seq.\] for use by non-Federal stations, may be counted toward the minimum spectrum required by paragraph (1) or (3) of this subsection, except that—
 
 &emsp;&emsp;(A) the bands of frequencies counted under this paragraph may not count toward more than one-half of the minimums required by paragraph (1) or (3) of this subsection;
 
@@ -130,7 +130,7 @@ The Secretary shall, within 18 months after August 10, 1993, and within 6 months
 
 #### (1) Timetable required
 
-&emsp;The Secretary shall, as part of the reports required by subsections (a) and (d)(1) of this section, include a timetable that recommends effective dates by which the President shall withdraw or limit assignments of the frequencies specified in such reports.
+&emsp;The Secretary shall, as part of the reports required by subsections (a) and (d)(1) of thissection, include a timetable that recommends effective dates by which the President shall withdraw or limit assignments of the frequencies specified in such reports.
 
 #### (2) Expedited reallocation
 
@@ -162,7 +162,7 @@ If the Secretary receives a notice from the Commission pursuant to section 3002(
 
 #### (1) Eligible Federal entities
 
-&emsp;Any Federal entity that operates a Federal Government station assigned to a band of frequencies specified in paragraph (2) and that incurs relocation costs because of the reallocation of frequencies from Federal use to non-Federal use shall receive payment for such costs from the Spectrum Relocation Fund, in accordance with section 928 of this title. For purposes of this paragraph, Federal poweragencies exempted under subsection (c)(4) of this section that choose to relocate from the frequencies identified for reallocation pursuant to subsection (a) of this section, are eligible to receive payment under this paragraph.
+&emsp;Any Federal entity that operates a Federal Government station assigned to a band of frequencies specified in paragraph (2) and that incurs relocation costs because of the reallocation of frequencies from Federal use to non-Federal use shall receive payment for such costs from the Spectrum Relocation Fund, in accordance with section 928 of this title. For purposes of this paragraph, Federal power agencies exempted under subsection (c)(4) of this section that choose to relocate from the frequencies identified for reallocation pursuant to subsection (a) of this section, are eligible to receive payment under this paragraph.
 
 #### (2) Eligible frequencies
 

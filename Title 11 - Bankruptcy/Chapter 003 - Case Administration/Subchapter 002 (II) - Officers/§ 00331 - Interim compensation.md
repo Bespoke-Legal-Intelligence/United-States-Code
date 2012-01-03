@@ -6,9 +6,9 @@ A trustee, an examiner, a debtor's attorney, or any professional person employed
 
 #### Historical and Revision Notes
 
-I74senate report no. 95–989
+#### senate report no. 95–989
 
-Section 331 permits trustees and professional persons to apply to the court not more than once every 120 daysfor interim compensation and reimbursement payments. The court may permit more frequent applications if the circumstances warrant, such as in very large cases where the legal work is extensive and merits more frequent payments. The court is authorized to allow and order disbursement to the applicant of compensation and reimbursement that is otherwise allowable under section 330. The only effect of this section is to remove any doubt that officers of the estate may apply for, and the court may approve, compensation and reimbursement during the case, instead of being required to wait until the end of the case, which in some instances, may be years. The practice of interim compensation is followed in some courts today, but has been subject to some question. This section explicitly authorizes it.
+Section 331 permits trustees and professional persons to apply to the court not more than once every 120 days for interim compensation and reimbursement payments. The court may permit more frequent applications if the circumstances warrant, such as in very large cases where the legal work is extensive and merits more frequent payments. The court is authorized to allow and order disbursement to the applicant of compensation and reimbursement that is otherwise allowable under section 330. The only effect of this section is to remove any doubt that officers of the estate may apply for, and the court may approve, compensation and reimbursement during the case, instead of being required to wait until the end of the case, which in some instances, may be years. The practice of interim compensation is followed in some courts today, but has been subject to some question. This section explicitly authorizes it.
 
 This section will apply to professionals such as auctioneers and appraisers only if they are not paid on a per job basis.
 

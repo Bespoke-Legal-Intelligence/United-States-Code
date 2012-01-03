@@ -8,7 +8,7 @@
 
 #### Historical and Revision Notes
 
-I74senate report no. 95–989
+#### senate report no. 95–989
 
 Section 762 provides that the Commission shall be given such notice as is appropriate of an order for relief in a bankruptcy case and that the Commission may raise and may appear and may be heard on any issue in case involving a commodity broker liquidation.
 

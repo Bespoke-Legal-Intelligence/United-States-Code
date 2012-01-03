@@ -48,7 +48,7 @@ Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical section
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a)(4)(A). Pub. L. 111–350, §5(b)(26)(A), substituted “section 134 of title 41)” for “section 4(11)of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11)))”.
+<b>2011</b>—Subsec. (a)(4)(A). Pub. L. 111–350, §5(b)(26)(A), substituted “section 134 of title 41)” for “section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11)))”.
 
 Subsec. (a)(4)(B). Pub. L. 111–350, §5(b)(26)(B), substituted “section 103 of title 41)” for “section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12)))”.
 

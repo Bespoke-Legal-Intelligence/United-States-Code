@@ -6,7 +6,7 @@ As used in this subchapter, the term—
 
 &emsp;&emsp;(A) short-term adjustment credit available to assist in meeting temporary requirements for funds or to cushion more persistent outflows of funds pending an orderly adjustment of credit union assets and liabilities;
 
-&emsp;&emsp;(B) seasonal credit available for longer periods to assist in meeting seasonal needs for funds arising from a combination of expected patterns of movement in share and deposit accounts and loans; and
+&emsp;&emsp;(B) seasonal credit available for longer periods to assist in meeting seasonal needs forfunds arising from a combination of expected patterns of movement in share and deposit accounts and loans; and
 
 &emsp;&emsp;(C) protracted adjustment credit available in the event of unusual or emergency circumstances of a longer term nature resulting from national, regional or local difficulties.
 
@@ -24,5 +24,5 @@ Section 309(b)(1) of Pub. L. 96–221 redesignated subch. III as title III of ac
 
 #### Amendments
 
-1980—Pub. L. 96–221, §309(b)(2), substituted “title” for “subchapter”, which for purposes of codification has been editorially translated as “subchapter”, thereby requiring no further change in text.
+<b>1980</b>—Pub. L. 96–221, §309(b)(2), substituted “title” for “subchapter”, which for purposes of codification has been editorially translated as “subchapter”, thereby requiring no further change in text.
 

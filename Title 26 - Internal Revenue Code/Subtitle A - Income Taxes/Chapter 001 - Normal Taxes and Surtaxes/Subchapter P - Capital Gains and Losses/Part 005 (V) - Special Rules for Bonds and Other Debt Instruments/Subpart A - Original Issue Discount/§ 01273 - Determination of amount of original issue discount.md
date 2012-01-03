@@ -16,11 +16,11 @@ For purposes of this subpart—
 
 &emsp;The term “stated redemption price at maturity” means the amount fixed by the last modification of the purchase agreement and includes interest and other amounts payable at that time (other than any interest based on a fixed rate, and payable unconditionally at fixed periodic intervals of 1 year or less during the entire term of the debt instrument).
 
-#### (3) 1/4 of 1 percent de minimis rule
+#### (3) ¼ of 1 percent de minimis rule
 
 &emsp;If the original issue discount determined under paragraph (1) is less than—
 
-&emsp;&emsp;(A) 1/4 of 1 percent of the stated redemption price at maturity, multiplied by
+&emsp;&emsp;(A) ¼ of 1 percent of the stated redemption price at maturity, multiplied by
 
 &emsp;&emsp;(B) the number of complete years to maturity,
 
@@ -100,7 +100,7 @@ Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if inc
 
 #### Effective Date
 
-Section applicable to taxable years ending after July 18, 1984, except as otherwise provided, see section 44 ofPub. L. 98–369, set out as a note under section 1271 of this title.
+Section applicable to taxable years ending after July 18, 1984, except as otherwise provided, see section 44 of Pub. L. 98–369, set out as a note under section 1271 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

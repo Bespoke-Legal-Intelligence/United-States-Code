@@ -4,7 +4,7 @@
 
 (1) Each small commercial package air conditioning and heating equipment (including single package vertical air conditioners and single package vertical heat pumps) manufactured on or after January 1, 1994, shall meet the following standard levels:
 
-&emsp;(A) The minimum seasonal energy efficiency ratio of air-cooled three-phase electric central air conditioners and central air conditioning heat pumps less than 65,000 Btu per hour (cooling capacity), split systems, shall be 10.0.
+&emsp;(A) The minimum seasonal energy efficiency ratio of air-cooled three-phase electric central air conditioners and central air conditioningheat pumps less than 65,000 Btu per hour (cooling capacity), split systems, shall be 10.0.
 
 &emsp;(B) The minimum seasonal energy efficiency ratio of air-cooled three-phase electric central air conditioners and central air conditioning heat pumps less than 65,000 Btu per hour (cooling capacity), single package, shall be 9.7.
 
@@ -18,7 +18,7 @@
 
 &emsp;(G) The minimum energy efficiency ratio of water-cooled, evaporatively-cooled and water-source central air conditioners and central air conditioning heat pumps less than 65,000 Btu per hour (cooling capacity) shall be 9.3 (at a standard rating of 95 degrees F db, outdoor temperature for evaporatively cooled equipment, and 85 degrees Fahrenheit entering water temperature for water-source and water-cooled equipment).
 
-&emsp;(H) The minimum energy efficiency ratio of water-cooled, evaporatively-cooled and water-source central air conditioners and central air conditioning heat pumps at or above 65,000 Btuper hour (cooling capacity) and less than 135,000 Btu per hour (cooling capacity) shall be 10.5 (at a standard rating of 95 degrees F db, outdoor temperature for evaporatively cooled equipment, and 85 degrees Fahrenheit entering water temperature for water source and water-cooled equipment).
+&emsp;(H) The minimum energy efficiency ratio of water-cooled, evaporatively-cooled and water-source central air conditioners and central air conditioning heat pumps at or above 65,000 Btu per hour (cooling capacity) and less than 135,000 Btu per hour (cooling capacity) shall be 10.5 (at a standard rating of 95 degrees F db, outdoor temperature for evaporatively cooled equipment, and 85 degrees Fahrenheit entering water temperature for water source and water-cooled equipment).
 
 &emsp;(I) The minimum coefficient of performance in the heating mode of water-source heat pumps less than 135,000 Btu per hour (cooling capacity) shall be 3.8 (at a standard rating of 70 degrees Fahrenheit entering water).
 
@@ -52,7 +52,7 @@
 
 &emsp;(B) Except as provided in subparagraph (G), the maximum standby loss, in percent per hour, of gas- and oil-fired storage water heaters with input ratings of 155,000 Btu per hour or less shall be 1.30 + (114/Measured Storage Volume \[in gallons\]). The minimum thermal efficiency of such units shall be 78 percent.
 
-&emsp;(C) Except as provided in subparagraph (G), the maximum standby loss, in percent per hour, of gas- and oil-fired storage water heaters with input ratings of more than 155,000 Btu per hour shall be 1.30 + (95/Measured Storage Volume \[in gallons\]). The minimum thermal efficiency of such units shall be 78 percent.
+&emsp;(C) Except as provided in subparagraph (G), the maximum standby loss, in percent per hour, of gas- and oil-fired storage water heaters with input ratings of more than 155,000 Btuper hour shall be 1.30 + (95/Measured Storage Volume \[in gallons\]). The minimum thermal efficiency of such units shall be 78 percent.
 
 &emsp;(D) The minimum thermal efficiency of instantaneous water heaters with a storage volume of less than 10 gallons shall be 80 percent.
 
@@ -136,7 +136,7 @@ Application to products.—An amendment prescribed under this subsection shall a
 
 &emsp;&emsp;(v)
 
-Reports.—The Secretary shall promptly submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a progress report every 180 days on compliance with this subparagraph, including a specific plan to remedy any failures to comply with deadlines for action established under this subparagraph.
+Reports.—The Secretary shall promptly submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a progress report every 180 days on compliance with this subparagraph, including a specific plan to remedy any failures to comply with deadlinesfor action established under this subparagraph.
 
 (D) A standard amended by the Secretary under this paragraph shall become effective for products manufactured—
 
@@ -277,7 +277,7 @@ Fire pump motors.—Each fire pump motor manufactured (alone or as a component o
 
 &emsp;(C)
 
-General purpose electric motors (subtype ii).—Each general purpose electric motor (subtype II) with a power rating of 1 horsepower or greater, but not greater than 200 horsepower, manufactured (alone or as a component of another piece of equipment) after the 3-year period beginning on December 19, 2007, shall have a nominal full load efficiency that is not less than as defined in NEMA MG–1 (2006) Table 12–11.
+General purpose electric motors (subtype ii).—Each general purpose electric motor (subtype II) with a power rating of 1horsepower or greater, but not greater than 200 horsepower, manufactured (alone or as a component of another piece of equipment) after the 3-year period beginning on December 19, 2007, shall have a nominal full load efficiency that is not less than as defined in NEMA MG–1 (2006) Table 12–11.
 
 &emsp;(D) NEMA
 
@@ -293,7 +293,7 @@ design b, general purpose electric motors.—Each NEMA Design B, general purpose
 
 (C) Not later than two years after October 24, 1992, the Secretary shall rule on each petition for exemption submitted pursuant to subparagraph (B). In making such ruling, the Secretary shall afford an opportunity for public comment.
 
-(D) Manufacturers of types or classes of motors developed after October 24, 1992, to which standards under paragraph (1) would be applicable may petition the Secretary for exemptionsfrom compliance with such standards based on the criteria specified in subparagraph (A).
+(D) Manufacturers of types or classes of motors developed after October 24, 1992, to which standards under paragraph (1) would be applicable may petition the Secretary for exemptions from compliance with such standards based on the criteria specified in subparagraph (A).
 
 (4)(A) The Secretary shall publish a final rule no later than the end of the 24-month period beginning on the effective date of the standards established under paragraph (1) to determine if such standards should be amended. Such rule shall provide that any amendment shall apply to electric motors manufactured on or after a date which is five years after the effective date of the standards established under paragraph (1).
 
@@ -335,7 +335,7 @@ design b, general purpose electric motors.—Each NEMA Design B, general purpose
 
 (B) Not later than 3 years after the effective date of any amended standards under subparagraph (A) or the publication of a final rule determining that the standards should not be amended, the Secretary shall issue a final rule to determine whether the standards established under this subsection or the amended standards, as applicable, should be amended.
 
-(C) If the Secretary issues a final rule under subparagraph (A) or (B) establishing amended standards, the final rule shall provide that the amended standards apply to products manufactured on or after the date that is—
+(C) If the Secretary issues a final rule under subparagraph (A) or (B) establishing amendedstandards, the final rule shall provide that the amended standards apply to products manufactured on or after the date that is—
 
 &emsp;(i) 3 years after the date on which the final amended standard is published; or
 
@@ -509,9 +509,9 @@ Water use is for the condenser only and does not include potable water used to m
 
 #### References in Text
 
-Clauses (i) and (ii)(II), referred to in subsc. (a)(6)(B), probably mean cls. (i) and (ii)(II) of subsec. (a)(6)(A) of this section.
+Clauses (i) and (ii)(II), referred to in subsec. (a)(6)(B), probably mean cls. (i) and (ii)(II) of subsec. (a)(6)(A) of this section.
 
-Paragraph (2), referred to in subsec. (b)(1), probably means par. (3), formerly par. (2), of subsec. (b) of thissection, which was redesignated by Pub. L. 110–140, §313(b)(1)(A).
+Paragraph (2), referred to in subsec. (b)(1), probably means par. (3), formerly par. (2), of subsec. (b) of this section, which was redesignated by Pub. L. 110–140, §313(b)(1)(A).
 
 #### Amendments
 

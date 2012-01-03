@@ -12,5 +12,5 @@ Notwithstanding section 7543(a) of this title, any State which has plan provisio
 
 #### Amendments
 
-<b>1990</b>—Pub. L. 101–549 added sentence at end prohibiting States from limiting or prohibiting sale or manufacture of new vehicles or engines certified in California as having met California standards and from takingany actions where effect of those actions would be to create a “third vehicle”.
+<b>1990</b>—Pub. L. 101–549 added sentence at end prohibiting States from limiting or prohibiting sale or manufacture of new vehicles or engines certified in California as having met California standards and from taking any actions where effect of those actions would be to create a “third vehicle”.
 

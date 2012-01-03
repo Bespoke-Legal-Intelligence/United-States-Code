@@ -52,7 +52,7 @@ With respect to an eligible family, each of the following services shall, direct
 
 In awarding grants under subsection (a) of this section, the Secretary shall take into consideration—
 
-&emsp;(1) the ability of the entity involved to provide, either directly or through linkages, abroad range of preventive and primary health care services and related social, family support, and developmental services;
+&emsp;(1) the ability of the entity involved to provide, either directly or through linkages, a broad range of preventive and primary health care services and related social, family support, and developmental services;
 
 &emsp;(2) different combinations of professional and lay home visitors utilized within programs that are reflective of the identified service needs and characteristics of target populations;
 
@@ -132,7 +132,7 @@ The Secretary may award a grant under subsection (a) of this section only if the
 
 &emsp;&emsp;(B) to other eligible families, for at least 2 years; and
 
-&emsp;(2) the entity will coordinate with public health and related social service agencies toprevent duplication of effort and improve the delivery of comprehensive health and related social services.
+&emsp;(2) the entity will coordinate with public health and related social service agencies to prevent duplication of effort and improve the delivery of comprehensive health and related social services.
 
 #### (j) Submission to Secretary of certain information
 
@@ -216,7 +216,7 @@ The Secretary may make a grant under subsection (a) of this section only if—
 
 &emsp;The Secretary shall, directly or through contracts with public or private entities—
 
-&emsp;&emsp;(A) conduct evaluations to determine the effectiveness of projects under subsection (a) of this section in reducing the incidence ofchildren born with health or developmental complications, the incidence among children less than 3 years of age of such complications, and the incidence of child abuse and neglect; and
+&emsp;&emsp;(A) conduct evaluations to determine the effectiveness of projects under subsection (a) of this section in reducing the incidence of children born with health or developmental complications, the incidence among children less than 3 years of age of such complications, and the incidence of child abuse and neglect; and
 
 &emsp;&emsp;(B) not less than once during each 3-year period, prepare and submit to the appropriate committees of Congress a report concerning the results of such evaluations.
 
@@ -256,7 +256,7 @@ For purposes of this section:
 
 For the purpose of carrying out this section, there is authorized to be appropriated $30,000,000 for each of the fiscal years 1993 and 1994.
 
-(July 1, 1944, ch. 373, title III, §399, as added Pub. L. 102–321, title V, §502(2), July 10, 1992, 106 Stat. 427; amended Pub. L. 103–448, title II, §204(w)(2)(D), Nov. 2, 1994, 108 Stat. 4746; Pub. L. 108–446, title III, §305(i)(2), Dec. 3, 2004, 118 Stat. 2806.)
+(July 1, 1944, ch. 373, title III, §399, as added Pub. L. 102–321, title V, §502(2), July 10, 1992, 106 Stat. 427; amended Pub. L. 103–448, title II, §204(w)(2)(D), Nov. 2, 1994, 108 Stat. 4746; Pub. L.108–446, title III, §305(i)(2), Dec. 3, 2004, 118 Stat. 2806.)
 
 #### References in Text
 
@@ -296,7 +296,7 @@ Section 501 of title V of Pub. L. 102–321 provided that: “The purpose of thi
 
 &emsp;“(2) to reduce the incidence of infant mortality and of infants born prematurely, with low birthweight, or with other impairments including those associated with maternal substance abuse;
 
-&emsp;“(3) for pregnant women and mothers of children below the age of 3 whose children have experienced orare at risk of experiencing a health or developmental complication, to provide assistance in obtaining health and related social services necessary to meet the special needs of the women and their children;
+&emsp;“(3) for pregnant women and mothers of children below the age of 3 whose children have experienced or are at risk of experiencing a health or developmental complication, to provide assistance in obtaining health and related social services necessary to meet the special needs of the women and their children;
 
 &emsp;“(4) to assist, when requested, women who are pregnant and at-risk for poor birth outcomes, or who have young children and are abusing alcohol or other drugs, in obtaining appropriate treatment; and
 

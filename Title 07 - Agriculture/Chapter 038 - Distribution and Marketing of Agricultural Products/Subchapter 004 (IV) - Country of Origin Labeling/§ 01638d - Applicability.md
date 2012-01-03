@@ -6,7 +6,7 @@ This subchapter shall apply to the retail sale of a covered commodity beginning 
 
 #### Amendments
 
-2005—Pub. L. 109–97 substituted “2008” for “2006”.
+<b>2005</b>—Pub. L. 109–97 substituted “2008” for “2006”.
 
-2004—Pub. L. 108–199 substituted “2006, except for ‘farm-raised fish’ and ‘wild fish’ which shall be September 30, 2004” for “2004”.
+<b>2004</b>—Pub. L. 108–199 substituted “2006, except for ‘farm-raised fish’ and ‘wild fish’ which shall be September 30, 2004” for “2004”.
 

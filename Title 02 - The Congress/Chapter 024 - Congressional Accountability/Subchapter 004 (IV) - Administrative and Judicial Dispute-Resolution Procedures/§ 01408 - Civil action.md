@@ -36,7 +36,7 @@ This chapter, referred to in subsecs. (c) and (d)(1), was in the original “thi
 
 #### Amendments
 
-2001—Subsec. (d). Pub. L. 107–68 added subsec. (d).
+<b>2001</b>—Subsec. (d). Pub. L. 107–68 added subsec. (d).
 
 #### Effective Date of 2001 Amendment
 

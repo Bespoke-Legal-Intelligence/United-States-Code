@@ -29,6 +29,32 @@
 
 <b>1990</b>—Pub. L. 101–510, div. A, title II, §247(a)(2)(A), (C), Nov. 5, 1990, 104 Stat. 1523, substituted “SUPPORT OF SCIENCE, MATHEMATICS, AND ENGINEERING EDUCATION” for “NATIONAL DEFENSE SCIENCE AND ENGINEERING GRADUATE FELLOWSHIPS” in chapter heading and added items 2192 to 2196.
 
+#### Encouragement of Contractor Science, Technology, Engineering, and Math (STEM) Programs
+
+Pub. L. 112–81, div. A, title VIII, §862, Dec. 31, 2011, 125 Stat. 1521, provided that:
+
+“(a)
+
+In General.—The Under Secretary of Defense for Acquisition, Technology, and Logistics shall develop programs and incentives to ensure that Department of Defense contractors take appropriate steps to—
+
+&emsp;“(1) enhance undergraduate, graduate, and doctoral programs in science, technology, engineering and math (in this section referred to as ‘STEM’ disciplines);
+
+&emsp;“(2) make investments, such as programming and curriculum development, in STEM programs within elementary and secondary schools;
+
+&emsp;“(3) encourage employees to volunteer in Title I schools in order to enhance STEM education and programs;
+
+&emsp;“(4) make personnel available to advise and assist faculty at such colleges and universities in the performance of STEM research and disciplines critical to the functions of the Department of Defense;
+
+&emsp;“(5) establish partnerships between the offeror and historically Black colleges and universities and minority institutions for the purpose of training students in scientific disciplines;
+
+&emsp;“(6) award scholarships and fellowships, and establish cooperative work-education programs in scientific disciplines; or
+
+&emsp;“(7) conduct recruitment activities at historically black colleges and universities and other minority-serving institutions or offer internships or apprenticeships.
+
+“(b)
+
+Implementation.—Not later than 270 days after the date of the enactment of this Act \[Dec. 31, 2011\], the Under Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of Senate and House of Representatives\] a report on the steps taken to implement the requirements of this section.”
+
 
 ---
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of Health and Human Services shall make a payment to each eligible State andeach eligible unit of local government (as described in section 15423 of this title).
+The Secretary of Health and Human Services shall make a payment to each eligible State and each eligible unit of local government (as described in section 15423 of this title).
 
 #### (b) Use of funds
 

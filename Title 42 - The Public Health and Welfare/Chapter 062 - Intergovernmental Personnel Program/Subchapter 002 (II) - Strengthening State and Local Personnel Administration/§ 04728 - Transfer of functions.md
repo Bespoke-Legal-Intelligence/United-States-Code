@@ -48,7 +48,7 @@ So much of the personnel, property, records, and unexpended balances of appropri
 
 #### (e) Modification or supersedure of personnel standards
 
-Personnel standards prescribed by Federal agencies under laws and regulations referred to in subsection (a) of this section shall continue in effect until modified or superseded by standards prescribed by the Office under subsection (a) of this section.
+Personnel standards prescribed by Federal agencies under laws and regulations referred to in subsection (a) of this section shall continue in effect until modified or superseded by standardsprescribed by the Office under subsection (a) of this section.
 
 #### (f) Systems of personnel administration; innovation and diversity in design, execution, and management
 
@@ -68,7 +68,7 @@ Nothing in this section or in section 4722 or 4723 of this title shall be constr
 
 &emsp;(5) require or request any State or local government employee, or any person applying for employment as a State or local government employee, to submit to any interrogation or examination or to take any psychological test or any polygraph test which is designed to elicit from him information concerning his personal relationship with any person connected with him by blood or marriage, or concerning his religious beliefs or practices, or concerning his attitude or conduct with respect to sexual matters; or
 
-&emsp;(6) require or request any State or local government employee to participate in any way in any activities or undertakings unless such activities or undertakings are related to the performance of official duties to which he is or may be assigned or to the development ofskills, knowledge, or abilities which qualify him for the performance of such duties.
+&emsp;(6) require or request any State or local government employee to participate in any way in any activities or undertakings unless such activities or undertakings are related to the performance of official duties to which he is or may be assigned or to the development of skills, knowledge, or abilities which qualify him for the performance of such duties.
 
 #### (h) Grants-in-aid; abolition of certain requirements
 

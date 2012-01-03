@@ -38,11 +38,11 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (a)(3). Pub. L. 110–246, §7132(b), substituted “made available” for “appropriated”.
+<b>2008</b>—Subsec. (a)(3). Pub. L. 110–246, §7132(b), substituted “made available” for “appropriated”.
 
 Subsec. (b). Pub. L. 110–246, §4002(b)(1)(B), (2)(H), made technical amendment to reference in original act which appears in text as reference to section 2034 of this title.
 
-1998—Pub. L. 105–185, §230(b)(1), reenacted section catchline without change, designated existing provisions as subsec. (a), and inserted heading.
+<b>1998</b>—Pub. L. 105–185, §230(b)(1), reenacted section catchline without change, designated existing provisions as subsec. (a), and inserted heading.
 
 Subsec. (a)(3). Pub. L. 105–185, §230(b)(2), added par. (3) and struck out former par. (3) which read as follows: “three per centum of the appropriations shall be retained by the Secretary for the administration of the programs authorized under this chapter; and”.
 

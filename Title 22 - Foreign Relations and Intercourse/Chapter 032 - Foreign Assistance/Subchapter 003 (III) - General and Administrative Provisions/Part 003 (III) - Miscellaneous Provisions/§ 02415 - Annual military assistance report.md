@@ -12,7 +12,7 @@ Each such report shall show the aggregate dollar value and quantity of defense a
 
 &emsp;(2) were furnished with the financial assistance of the United States Government, including through loans and guarantees; or
 
-&emsp;(3) were licensed for export under section 38 of the Arms Export Control Act \[22 U.S.C. 2778\] and, if so, a specification of those defense articles that were exported during the fiscal year covered by the report, including, in the case of defense articles that are firearms controlled under category I of the United States Munitions List, a statement of the aggregate dollar value and quantity of semiautomatic assault weapons, or spare parts for such weapons, the manufacture, transfer, or possession of which is unlawful under section 922 of title 18, that were licensed for export during the period covered by the report.
+&emsp;(3) were licensed for export under section 38 of the Arms Export Control Act \[22 U.S.C. 2778\]and, if so, a specification of those defense articles that were exported during the fiscal year covered by the report, including, in the case of defense articles that are firearms controlled under category I of the United States Munitions List, a statement of the aggregate dollar value and quantity of semiautomatic assault weapons, or spare parts for such weapons, the manufacture, transfer, or possession of which is unlawful under section 922 of title 18, that were licensed for export during the period covered by the report.
 
 #### (c) Availability on Internet
 

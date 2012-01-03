@@ -220,7 +220,7 @@ A prior section 254c, act July 1, 1944, ch. 373, title III, §330, as added July
 
 #### Amendments
 
-<b>2008</b>—Subsec. (j). Pub. L. 110–355 substituted “$45,000,000 for each of fiscal years 2008 through 2012.” for “$40,000,000 for fiscal year 2002, and such sums asmay be necessary for each of fiscal years 2003 through 2006.”
+<b>2008</b>—Subsec. (j). Pub. L. 110–355 substituted “$45,000,000 for each of fiscal years 2008 through 2012.” for “$40,000,000 for fiscal year 2002, and such sums as may be necessary for each of fiscal years 2003 through 2006.”
 
 <b>2003</b>—Subsec. (b)(4). Pub. L. 108–163 substituted “section 295p(6)” for “section 295p”.
 
@@ -272,7 +272,7 @@ In General.—The Secretary of Health and Human Services, acting through the Rur
 
 Community Partnerships.—A community partnership meets the requirements of this subsection if such partnership—
 
-&emsp;“(1) is composed of local emergency response entities such as community training facilities, local emergency responders, fire and rescue departments, police, community hospitals, and local non-profit entities and for-profit entities concerned about cardiac arrest survival rates;
+&emsp;“(1) is composed of local emergency response entities such as community training facilities, localemergency responders, fire and rescue departments, police, community hospitals, and local non-profit entities and for-profit entities concerned about cardiac arrest survival rates;
 
 &emsp;“(2) evaluates the local community emergency response times to assess whether they meet the standards established by national public health organizations such as the American Heart Association and the American Red Cross; and
 

@@ -82,7 +82,7 @@ In this section, the term “costs”, when used with respect to review and deci
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 30 days after the effective date of the Pesticide Registration Improvement Renewal Act, the Administrator shall publish in the Federal Register a schedule ofcovered pesticide registration applications and corresponding registration service fees.
+&emsp;&emsp;Not later than 30 days after the effective date of the Pesticide Registration Improvement Renewal Act, the Administrator shall publish in the Federal Register a schedule of covered pesticide registration applications and corresponding registration service fees.
 
 #### (B) Report
 
@@ -420,7 +420,7 @@ To the maximum extent practicable consistent with the degrees of risk presented 
 
 #### (E) 2003 work plan
 
-&emsp;&emsp;In the case of a covered pesticide registration application listed in the RegistrationDivision 2003 Work Plan of the Office of Pesticide Programs of the Environmental Protection Agency, the decision time review period begins on the date that is 30 days after the effective date of the Pesticide Registration Improvement Act of 2003.
+&emsp;&emsp;In the case of a covered pesticide registration application listed in the Registration Division 2003 Work Plan of the Office of Pesticide Programs of the Environmental Protection Agency, the decision time review period begins on the date that is 30 days after the effective date of the Pesticide Registration Improvement Act of 2003.
 
 #### (5) Extension of decision time review period
 
@@ -598,7 +598,7 @@ Nothing in this section affects any other duties, obligations, or authorities es
 
 #### (ii) New applications
 
-&emsp;&emsp;&emsp;In the case of an application received under this section on or after September30, 2012, subsection (f) of this section shall not apply to the application.
+&emsp;&emsp;&emsp;In the case of an application received under this section on or after September 30, 2012, subsection (f) of this section shall not apply to the application.
 
 (June 25, 1947, ch. 125, §33, as added Pub. L. 108–199, div. G, title V, §501(f)(2), Jan. 23, 2004, 118 Stat. 422; amended Pub. L. 110–94, §5, Oct. 9, 2007, 121 Stat. 1002; Pub. L. 110–193, §1(a), Mar. 6, 2008, 122 Stat. 649.)
 
@@ -620,7 +620,7 @@ A prior section 33 of act June 25, 1947, ch. 125, was renumbered section 34 and 
 
 #### Amendments
 
-2008—Subsec. (b)(7)(D)(i). Pub. L. 110–193, §1(a)(1)(A)(i), added cl. (i) and struck out former cl. (i). Prior to amendment, text read as follows: “The Administrator may waive or reduce a registration service fee for an application for minor uses for a pesticide.”
+<b>2008</b>—Subsec. (b)(7)(D)(i). Pub. L. 110–193, §1(a)(1)(A)(i), added cl. (i) and struck out former cl. (i). Prior to amendment, text read as follows: “The Administrator may waive or reduce a registration service fee for an application for minor uses for a pesticide.”
 
 Subsec. (b)(7)(D)(ii). Pub. L. 110–193, §1(a)(1)(A)(ii), inserted “or exemption” after “waiver”.
 
@@ -632,7 +632,7 @@ Subsec. (b)(7)(E)(ii). Pub. L. 110–193, §1(a)(1)(B)(iii), substituted “exem
 
 Subsec. (m)(2)(A), (B). Pub. L. 110–193, §1(a)(2), substituted “2012” for “2008”.
 
-2007—Subsec. (b)(2)(C)(ii). Pub. L. 110–94, §5(a)(1), added cl. (ii) and struck out former cl. (ii) which read as follows: “a request for a waiver from or reduction of the registration service fee.”
+<b>2007</b>—Subsec. (b)(2)(C)(ii). Pub. L. 110–94, §5(a)(1), added cl. (ii) and struck out former cl. (ii) which read as follows: “a request for a waiver from or reduction of the registration service fee.”
 
 Subsec. (b)(2)(D) to (H). Pub. L. 110–94, §5(a)(2), added subpars. (D) to (H).
 

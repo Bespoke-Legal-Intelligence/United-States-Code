@@ -6,5 +6,5 @@ It shall be the duty of every dealer, manufacturer, quasi-manufacturer, growers�
 
 #### Amendments
 
-1932—Act July 14, 1932, made quasi-manufacturers subject to section.
+<b>1932</b>—Act July 14, 1932, made quasi-manufacturers subject to section.
 

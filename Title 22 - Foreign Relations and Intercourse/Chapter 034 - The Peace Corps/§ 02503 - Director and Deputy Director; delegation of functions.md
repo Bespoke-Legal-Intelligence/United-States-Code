@@ -48,6 +48,38 @@ Transfer to President of the United States of functions conferred upon Director 
 
 Functions of President under subsecs. (c)(1), (4), (d) delegated to Director of Peace Corps by sections 1–103 and 1–301(a), (b) of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, eff. May 16, 1979, set out as a note under section 2501 of this title.
 
+#### Conforming Safety and Security Agreement Regarding Peace Corps Volunteers Serving in Foreign Countries
+
+Pub. L. 112–57, §7, Nov. 21, 2011, 125 Stat. 744, provided that:
+
+“(a)
+
+In General.—Not later than 180 days after the date of the enactment of this Act \[Nov. 21, 2011\], the Director of the Peace Corps shall consult with the Assistant Secretary of State for Diplomatic Security and enter into a memorandum of understanding that specifies the duties and obligations of the Peace Corps and the Bureau of Diplomatic Security of the Department of State with respect to the protection of Peace Corps volunteers and staff members serving in foreign countries, including with respect to investigations of safety and security incidents and crimes committed against volunteers and staff members.
+
+“(b)
+
+Inspector General Review.—
+
+&emsp;“(1)
+
+Review.—The Inspector General of the Peace Corps shall review the memorandum of understanding described in subsection (a) and be afforded the opportunity to recommend changes that advance the safety and security of Peace Corps volunteers before entry into force of the memorandum of understanding.
+
+&emsp;“(2)
+
+Report.—The Director of the Peace Corps shall consider the recommendations of the Inspector General of the Peace Corps regarding the memorandum of understanding described in subsection (a). If the Director enters into the memorandum of understanding without implementing a recommendation of the Inspector General, the Director shall submit to the Inspector General a written explanation relating thereto.
+
+“(c)
+
+Failure to Meet Deadline.—
+
+&emsp;“(1)
+
+Requirement to submit report.—If, by the date that is 180 days after the date of the enactment of this Act, the Director of the Peace Corps is unable to obtain agreement with the Assistant Secretary of State for Diplomatic Security and certification by the Inspector General of the Peace Corps, the Director shall submit to the committees of Congress specified in paragraph (2) a report explaining the reasons for such failure and a certification that substantial steps are being taken to make progress toward agreement.
+
+&emsp;“(2)
+
+Committees of congress specified.—The committees of Congress specified in this paragraph are the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives.”
+
 #### Continuing Functions of Director of Peace Corps From December 14, 1981
 
 Section 601(d)(2) of Pub. L. 97–113 provided: “The Director of the Peace Corps shall continue to exercise all the functions under the Peace Corps Act \[this chapter\] or any other law or authority which the Director was performing on December 14, 1981.”

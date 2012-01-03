@@ -180,13 +180,13 @@ Section was enacted as part of the Illegal Immigration Reform and Immigrant Resp
 
 #### Amendments
 
-2002—Subsec. (a)(3), (4). Pub. L. 107–173, §501(a)(1), added pars. (3) and (4).
+<b>2002</b>—Subsec. (a)(3), (4). Pub. L. 107–173, §501(a)(1), added pars. (3) and (4).
 
 Subsec. (c)(1)(E) to (H). Pub. L. 107–173, §501(a)(2), added subpars. (E) to (H).
 
 Subsec. (c)(5). Pub. L. 107–173, §501(a)(3), added par. (5).
 
-2001—Subsec. (a)(1). Pub. L. 107–56, §416(c)(1), inserted “, other approved educational institutions,” after “higher education” in introductory provisions.
+<b>2001</b>—Subsec. (a)(1). Pub. L. 107–56, §416(c)(1), inserted “, other approved educational institutions,” after “higher education” in introductory provisions.
 
 Subsec. (c)(1)(C), (D). Pub. L. 107–56, §416(c)(2), inserted “, or other approved educational institution,” after “higher education”.
 
@@ -202,7 +202,7 @@ Subsec. (e)(1), (2). Pub. L. 107–56, §416(c)(3), which directed insertion of 
 
 Subsec. (h)(3). Pub. L. 107–56, §416(c)(4), added par. (3).
 
-2000—Subsec. (d)(1). Pub. L. 106–396, §406(2), inserted “institutions of higher education or exchange visitor programs” after “by” in introductory provisions.
+<b>2000</b>—Subsec. (d)(1). Pub. L. 106–396, §406(2), inserted “institutions of higher education or exchange visitor programs” after “by” in introductory provisions.
 
 Subsec. (e)(1). Pub. L. 106–396, §404(1), in introductory provisions, substituted “the Attorney General” for “an approved institution of higher education and a designated exchange visitor program” and “a time prior to the alien being classified under subparagraph (F), (J), or (M) of section 1101(a)(15) of this title.” for “the time—
 

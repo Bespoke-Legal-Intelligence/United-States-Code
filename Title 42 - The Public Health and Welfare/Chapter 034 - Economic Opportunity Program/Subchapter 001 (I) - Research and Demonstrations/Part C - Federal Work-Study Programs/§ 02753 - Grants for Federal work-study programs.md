@@ -44,7 +44,7 @@ An agreement entered into pursuant to this section shall—
 
 &emsp;&emsp;(B) the Federal share may exceed 75 percent if the Secretary determines, pursuant to regulations promulgated by the Secretary establishing objective criteria for such determinations, that a Federal share in excess of such amounts is required in furtherance of the purpose of this part;
 
-&emsp;(6) include provisions to make employment under such work-study program reasonably available (to the extent of available funds) toall eligible students in the institution in need thereof;
+&emsp;(6) include provisions to make employment under such work-study program reasonably available (to the extent of available funds) to all eligible students in the institution in need thereof;
 
 &emsp;(7) provide assurances that employment made available from funds under this part will, to the maximum extent practicable, complement and reinforce the educational program or vocational goals of each student receiving assistance under this part;
 
@@ -54,7 +54,7 @@ An agreement entered into pursuant to this section shall—
 
 &emsp;&emsp;&emsp;(i) to the maximum extent practicable, complement and reinforce the education programs or vocational goals of such students; and
 
-&emsp;&emsp;&emsp;(ii) furnish student services that are directly related to the student's education, as determined by the Secretary pursuant to regulations, except that no student shall be employed in any position that would involve the solicitation of other potential students to enroll in the school; or
+&emsp;&emsp;&emsp;(ii) furnish student services that are directly related to the student's education,as determined by the Secretary pursuant to regulations, except that no student shall be employed in any position that would involve the solicitation of other potential students to enroll in the school; or
 
 &emsp;&emsp;(B) in community service in accordance with paragraph (2)(A) of this subsection;
 
@@ -128,7 +128,7 @@ As part of its agreement agreement <sup>2</sup> described in subsection (b) of 
 
 &emsp;The Federal share of the compensation of work-study students compensated under this subsection may exceed 75 percent.
 
-(Pub. L. 89–329, title IV, §443, as added Pub. L. 96–374, title IV, §434, Oct. 3, 1980, 94 Stat. 1434; amended Pub. L. 99–498, title IV, §403(a), Oct. 17, 1986, 100 Stat. 1432; Pub. L. 100–50, §11(b), (c), June 3, 1987, 101 Stat. 348; Pub. L. 102–325, title IV, §§441(a)(2), 443, July 23, 1992, 106 Stat. 563, 564; Pub. L. 103–208, §2(d)(3)–(5), Dec. 20, 1993, 107 Stat. 2470; Pub. L. 105–244, title IV, §443, Oct. 7, 1998, 112 Stat. 1712; Pub. L. 110–315, title IV, §443, Aug. 14, 2008, 122 Stat. 3258; Pub. L. 111–39, title IV, §403, July 1, 2009, 123 Stat. 1945.)
+(Pub. L. 89–329, title IV, §443, as added Pub. L. 96–374, title IV, §434, Oct. 3, 1980, 94 Stat. 1434; amended Pub. L. 99–498, title IV, §403(a), Oct. 17, 1986, 100 Stat. 1432; Pub. L. 100–50, §11(b), (c), June 3, 1987, 101 Stat. 348; Pub. L. 102–325, title IV, §§441(a)(2), 443, July 23, 1992, 106 Stat. 563, 564; Pub. L. 103–208, §2(d)(3)–(5), Dec. 20, 1993, 107 Stat. 2470; Pub. L. 105–244, title IV, §443, Oct. 7,1998, 112 Stat. 1712; Pub. L. 110–315, title IV, §443, Aug. 14, 2008, 122 Stat. 3258; Pub. L. 111–39, title IV, §403, July 1, 2009, 123 Stat. 1945.)
 
 #### References in Text
 

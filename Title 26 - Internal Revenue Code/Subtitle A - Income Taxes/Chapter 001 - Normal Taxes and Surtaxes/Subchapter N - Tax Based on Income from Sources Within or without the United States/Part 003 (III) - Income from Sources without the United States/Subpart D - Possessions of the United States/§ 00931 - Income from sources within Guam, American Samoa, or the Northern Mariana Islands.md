@@ -76,7 +76,7 @@ Special Rules for the Virgin Islands.—
 
 &emsp;“(1)
 
-In general.—The amendments made by section 1275(c) \[amending sections 28, 48, 338, 864, and 934 of this title and repealing section 934A of this title\] shall apply with respect to the Virgin Islands (and residents thereof and corporations created or organized therein) only if (and so long as) an implementing agreement is in effect between the United States and the Virgin Islands with respect to the establishment of rules under which the evasion or avoidance ofUnited States income tax shall not be permitted or facilitated by such possession. Any such implementing agreement shall be executed on behalf of the United States by the Secretary of the Treasury, after consultation with the Secretary of the Interior.
+In general.—The amendments made by section 1275(c) \[amending sections 28, 48, 338, 864, and 934 of this title and repealing section 934A of this title\] shall apply with respect to the Virgin Islands (and residents thereof and corporations created or organized therein) only if (and so long as) an implementing agreement is in effect between the United States and the Virgin Islands with respect to the establishment of rules under which the evasion or avoidance of United States income tax shall not be permitted or facilitated by such possession. Any such implementing agreement shall be executed on behalf of the United States by the Secretary of the Treasury, after consultation with the Secretary of the Interior.
 
 &emsp;“(2)
 

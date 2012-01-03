@@ -36,7 +36,7 @@ Congress finds that:
 
 &emsp;(14) Existing legislation and law enforcement in the United States and other countries are inadequate to deter trafficking and bring traffickers to justice, failing to reflect the gravity of the offenses involved. No comprehensive law exists in the United States that penalizes the range of offenses involved in the trafficking scheme. Instead, even the most brutal instances of trafficking in the sex industry are often punished under laws that also apply to lesser offenses, so that traffickers typically escape deserved punishment.
 
-&emsp;(15) In the United States, the seriousness of this crime and its components is not reflectedin current sentencing guidelines, resulting in weak penalties for convicted traffickers.
+&emsp;(15) In the United States, the seriousness of this crime and its components is not reflected in current sentencing guidelines, resulting in weak penalties for convicted traffickers.
 
 &emsp;(16) In some countries, enforcement against traffickers is also hindered by official indifference, by corruption, and sometimes even by official participation in trafficking.
 
@@ -96,7 +96,7 @@ Relationship Among Federal and State Law.—Nothing in this Act \[see Short Titl
 
 Model State Criminal Provisions.—In addition to any model State antitrafficking statutes in effect on the date of the enactment of this Act \[Dec. 23, 2008\], the Attorney General shall facilitate the promulgation of a model State statute that—
 
-&emsp;“(1) furthers a comprehensive approach to investigation and prosecution through modernization of State and local prostitution and pandering statutes; and
+&emsp;“(1) furthers a comprehensive approach to investigation and prosecution through modernization ofState and local prostitution and pandering statutes; and
 
 &emsp;“(2) is based in part on the provisions of the Act of August 15, 1935 (49 Stat. 651; D.C. Code 22–2701 et seq.) (relating to prostitution and pandering).
 

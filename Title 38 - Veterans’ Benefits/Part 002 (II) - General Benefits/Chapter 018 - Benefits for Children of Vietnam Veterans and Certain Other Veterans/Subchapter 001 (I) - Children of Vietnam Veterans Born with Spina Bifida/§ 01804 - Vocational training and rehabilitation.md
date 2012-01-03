@@ -16,7 +16,7 @@
 
 &emsp;(B) may include a program of education at an institution of higher learning if the Secretary determines that the program of education is predominantly vocational in content.
 
-(2) A vocational training program under this section may not include the provision of any loan or subsistence allowance or any automobile adaptive equipment.
+(2) A vocational training program under this section may not include the provision of anyloan or subsistence allowance or any automobile adaptive equipment.
 
 (d)(1) Except as provided in paragraph (2) and subject to subsection (e)(2), a vocational training program under this section may not exceed 24 months.
 

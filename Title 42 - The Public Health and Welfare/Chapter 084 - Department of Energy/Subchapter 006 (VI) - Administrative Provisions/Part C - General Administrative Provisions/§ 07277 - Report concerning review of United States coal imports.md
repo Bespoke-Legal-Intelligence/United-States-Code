@@ -52,7 +52,7 @@ Contents.—The report required by this section shall—
 
 &emsp;“(1) contain a detailed analysis of potential domestic markets for foreign coals, by producing nation, between 1985 and 1995;
 
-&emsp;“(2) identify potential domestic consuming sectors of imported coal and evaluate the magnitude of anypotential economic disruptions for each impacted State, including analysis of direct and indirect employment impact in the domestic coal industry and resulting income loss to each State;
+&emsp;“(2) identify potential domestic consuming sectors of imported coal and evaluate the magnitude of any potential economic disruptions for each impacted State, including analysis of direct and indirect employment impact in the domestic coal industry and resulting income loss to each State;
 
 &emsp;“(3) identify domestically produced coal that potentially could be replaced by imported coal;
 

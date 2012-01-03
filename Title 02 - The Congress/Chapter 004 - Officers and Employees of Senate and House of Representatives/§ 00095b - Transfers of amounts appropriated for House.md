@@ -14,13 +14,13 @@ salaries, officers and employees” may be transferred among and merged with the
 
 #### (c) Transfers among various appropriations headings
 
-(1) Amounts appropriated for any fiscal year for the House of Representatives under the headings specified in paragraph (2) may be transferred among and merged with such headings, effective upon the expiration of the 21-day period (or such alternative period that may be imposed by the Committee on Appropriations of the House of Representatives) which begins on the date such Committee has been notified of the transfer.
+(1) Amounts appropriated for any fiscal year for the House of Representatives under the headings specified in paragraph (2) may be transferred among and merged with such headings, effective upon the expiration of the 21-day period (or such alternative period that may be imposed by the Committee on Appropriations of theHouse of Representatives) which begins on the date such Committee has been notified of the transfer.
 
 (2) The headings referred to in paragraph (1) are “House Leadership Offices”, “Members’ Representational Allowances”, “Committee Employees”, “Salaries, Officers and Employees”, and “Allowances and Expenses”.
 
 #### (d) Transfers to Architect of the Capitol
 
-Amounts appropriated for any fiscal year for the House of Representatives under the heading “Allowances and Expenses” may be transferred to the Architect of the Capitol and merged withand made available under the heading “House Office Buildings”, subject to the approval of the Committee on Appropriations of the House of Representatives.
+Amounts appropriated for any fiscal year for the House of Representatives under the heading “Allowances and Expenses” may be transferred to the Architect of the Capitol and merged with and made available under the heading “House Office Buildings”, subject to the approval of the Committee on Appropriations of the House of Representatives.
 
 #### (e) Transfers to House Historic Buildings Revitalization Trust Fund
 
@@ -34,7 +34,7 @@ Section is from the Congressional Operations Appropriations Act, 1993, which is 
 
 #### Amendments
 
-2009—Subsecs. (a), (b), (c)(1). Pub. L. 111–8, §105(a), substituted “transferred among and merged with” for “transferred among”.
+<b>2009</b>—Subsecs. (a), (b), (c)(1). Pub. L. 111–8, §105(a), substituted “transferred among and merged with” for “transferred among”.
 
 Subsec. (c)(2). Pub. L. 111–8, §105(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The headings referred to in paragraph (1) are ‘
 
@@ -48,7 +48,7 @@ Pub. L. 111–8, §103(a), added subsec. (d).
 
 Subsec. (e). Pub. L. 111–68, §1304(d), added subsec. (e).
 
-2003—Subsecs. (a), (b), (c)(1). Pub. L. 108–7 substituted “effective upon the expiration of the 21-day period (or such alternative period that may be imposed by the Committee on Appropriations of the House of Representatives) which begins on the date such Committee has been notified of the transfer” for “upon approval of the Committee on Appropriations of the House of Representatives”.
+<b>2003</b>—Subsecs. (a), (b), (c)(1). Pub. L. 108–7 substituted “effective upon the expiration of the 21-day period (or such alternative period that may be imposed by the Committee on Appropriations of the House of Representatives) which begins on the date such Committee has been notified of the transfer” for “upon approval of the Committee on Appropriations of the House of Representatives”.
 
 #### Effective Date of 2009 Amendment
 

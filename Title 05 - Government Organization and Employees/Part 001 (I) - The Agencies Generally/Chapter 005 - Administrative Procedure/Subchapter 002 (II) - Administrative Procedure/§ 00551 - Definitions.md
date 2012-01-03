@@ -134,11 +134,11 @@ Section 551 of former Title 5, Executive Departments and Government Officers and
 
 #### Amendments
 
-2011—Par. (1)(H). Pub. L. 111–350 struck out “chapter 2 of title 41;” after “title 12;”.
+<b>2011</b>—Par. (1)(H). Pub. L. 111–350 struck out “chapter 2 of title 41;” after “title 12;”.
 
-1994—Par. (1)(H). Pub. L. 103–272 substituted “subchapter II of chapter 471 of title 49; or sections” for “or sections 1622,”.
+<b>1994</b>—Par. (1)(H). Pub. L. 103–272 substituted “subchapter II of chapter 471 of title 49; or sections” for “or sections 1622,”.
 
-1976—Par. (14). Pub. L. 94–409 added par. (14).
+<b>1976</b>—Par. (14). Pub. L. 94–409 added par. (14).
 
 #### Effective Date of 1976 Amendment
 

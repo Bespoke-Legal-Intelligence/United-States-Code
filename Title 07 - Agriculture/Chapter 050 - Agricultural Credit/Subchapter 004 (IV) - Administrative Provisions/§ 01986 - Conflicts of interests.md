@@ -2,7 +2,7 @@
 
 #### (a) Acceptance of fees, commissions, gifts, or other considerations prohibited
 
-No officer, attorney, or other employee of the Secretary shall, directly or indirectly, be thebeneficiary of or receive any fee, commission, gift, or other consideration for or in connection with any transaction or business under this chapter other than such salary, fee, or other compensation as he may receive as such officer, attorney, or employee.
+No officer, attorney, or other employee of the Secretary shall, directly or indirectly, be the beneficiary of or receive any fee, commission, gift, or other consideration for or in connection with any transaction or business under this chapter other than such salary, fee, or other compensation as he may receive as such officer, attorney, or employee.
 
 #### (b) Acquisition of interest in land by certain officers or employees of Department of Agriculture prohibited; 3-year period
 
@@ -24,7 +24,7 @@ For definition of “this chapter”, referred to in subsecs. (a) and (b), see n
 
 #### Amendments
 
-2002—Subsec. (b). Pub. L. 107–171 struck out “provided for in section 1982 of this title” after “former member of a county committee”.
+<b>2002</b>—Subsec. (b). Pub. L. 107–171 struck out “provided for in section 1982 of this title” after “former member of a county committee”.
 
-1984—Pub. L. 98–258 designated first, second, and third sentences of existing provisions as subsecs. (a), (c), and (d), respectively, and added subsec. (b).
+<b>1984</b>—Pub. L. 98–258 designated first, second, and third sentences of existing provisions as subsecs. (a), (c), and (d), respectively, and added subsec. (b).
 

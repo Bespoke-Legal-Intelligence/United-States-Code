@@ -4,7 +4,7 @@
 
 (b)(1) The Chairman shall be appointed by the President, by and with the advice and consent of the Senate, for a term of six years. The Chairman shall be subject to the same ethical and legal limitations and restrictions concerning involvement in political activities as apply to judges of the United States Court of Appeals for Veterans Claims.
 
-(2) The Chairman may be removed by the President for misconduct, inefficiency, neglect of duty, or engaging in the practice of law or for physical or mental disability which, in the opinion of the President, prevents the proper execution of the Chairman's duties. The Chairman may not be removed from office by the President on any other grounds. Any such removal may only be made after notice and opportunity for hearing.
+(2) The Chairman may be removed by the President for misconduct, inefficiency, neglect of duty, or engaging in the practice of law or for physical or mental disability which, in the opinion of the President, prevents the proper execution of the Chairman's duties. The Chairman may not be removed from office by the President on any other grounds. Any such removalmay only be made after notice and opportunity for hearing.
 
 (3) The Chairman may be appointed under this subsection to more than one term. If, upon the expiration of the term of office for which the Chairman was appointed, the position of Chairman would become vacant, the individual serving as Chairman may, with the approval of the Secretary, continue to serve as Chairman until either appointed to another term or a successor is appointed, but not beyond the end of the Congress during which the term of office expired.
 

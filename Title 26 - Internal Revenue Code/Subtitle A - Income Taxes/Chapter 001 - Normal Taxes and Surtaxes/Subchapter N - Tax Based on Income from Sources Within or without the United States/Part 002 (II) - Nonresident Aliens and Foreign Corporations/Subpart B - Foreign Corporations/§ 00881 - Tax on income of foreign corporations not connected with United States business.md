@@ -68,19 +68,19 @@ Except as provided in subsection (c), there is hereby imposed for each taxable y
 
 #### (2) Portfolio interest
 
-&emsp;For purposes of this subsection, the term “portfolio interest” means any interest (including original issue discount) which would be subject to tax under subsection (a) but for this subsection and which is described in any of the following subparagraphs:
+&emsp;For purposes of this subsection, the term “portfolio interest” means any interest (including original issue discount) which—
 
-#### (A) Certain obligations which are not registered
+&emsp;&emsp;(A) would be subject to tax under subsection (a) but for this subsection, and
 
-&emsp;&emsp;Interest which is paid on any obligation which is described in section 871(h)(2)(A).
-
-#### (B) Certain registered obligations
-
-&emsp;&emsp;Interest which is paid on an obligation—
+&emsp;&emsp;(B) is paid on an obligation—
 
 &emsp;&emsp;&emsp;(i) which is in registered form, and
 
-&emsp;&emsp;&emsp;(ii) with respect to which the person who would otherwise be required to deduct and withhold tax from such interest under section 1442(a) receives a statement which meets the requirements of section 871(h)(5) that the beneficial owner of the obligation is not a United States person.
+&emsp;&emsp;&emsp;(ii) with respect to which—
+
+&emsp;&emsp;&emsp;&emsp;(I) the person who would otherwise be required to deduct and withhold tax from such interest under section 1442(a) receives a statement which meets the requirements of section 871(h)(5) that the beneficial owner of the obligation is not a United States person, or
+
+&emsp;&emsp;&emsp;&emsp;(II) the Secretary has determined that such a statement is not required in order to carry out the purposes of this subsection.
 
 #### (3) Portfolio interest shall not include interest received by certain persons
 
@@ -156,31 +156,13 @@ No tax shall be imposed under paragraph (1) or (3) of subsection (a) on any amou
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 282; Pub. L. 89–809, title I, §104(a), Nov. 13, 1966, 80 Stat. 1555; Pub. L. 92–178, title III, §313(a), (c), Dec. 10, 1971, 85 Stat. 526, 527; Pub. L. 92–606, §1(e)(1), Oct. 31, 1972, 86 Stat. 1497; Pub. L. 94–455, title XIX, §1901(b)(3)(I), Oct. 4, 1976, 90 Stat. 1793; Pub. L. 98–369, div. A, title I, §§42(a)(10), 127(b), 128(b), 130(a), July 18, 1984, 98 Stat. 557, 650, 654, 660; Pub. L. 99–514, title XII, §§1211(b)(6), 1214(c)(2), 1223(b)(2), 1273(b)(1), (2)(A), title XVIII, §§1810(d)(1)(B), (3)(C), (e)(2)(B), 1899A(22), (23), (68), Oct. 22, 1986, 100 Stat. 2536, 2542, 2558, 2595, 2596, 2825, 2826, 2959, 2962; Pub. L. 100–647, title I, §1012(i)(17), Nov. 10, 1988, 102 Stat. 3510; Pub. L. 103–66, title XIII, §13237(a)(2), (c)(2), (3), Aug. 10, 1993, 107 Stat. 507, 508; Pub. L. 108–357, title IV, §§411(a)(2), 420(a), (c), Oct. 22, 2004, 118 Stat. 1503, 1513, 1514; Pub. L. 109–135, title IV, §412(jj), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 111–147, title V, §502(b)(2)(B), Mar. 18, 2010, 124 Stat. 107.)
 
-#### Amendment of Subsection (c)(2)
-
-<i>Pub. L. 111–147, title V, §502(b)(2)(B), (f), Mar. 18, 2010, 124 Stat. 107, 108, provided that, applicable to obligations issued after the date which is 2 years after Mar. 18, 2010, subsection (c)(2) of this section is amended to read as follows:</i>
-
-#### <i>(2) Portfolio interest</i>
-
-&emsp;<i>For purposes of this subsection, the term “portfolio interest” means any interest (including original issue discount) which—</i>
-
-&emsp;&emsp;<i>(A) would be subject to tax under subsection (a) but for this subsection, and</i>
-
-&emsp;&emsp;<i>(B) is paid on an obligation—</i>
-
-&emsp;&emsp;&emsp;<i>(i) which is in registered form, and</i>
-
-&emsp;&emsp;&emsp;<i>(ii) with respect to which—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(I) the person who would otherwise be required to deduct and withhold tax from such interest under section 1442(a) receives a statement which meets the requirements of section 871(h)(5) that the beneficial owner of the obligation is not a United States person, or</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(II) the Secretary has determined that such a statement is not required in order to carry out the purposes of this subsection.</i>
-
 #### References in Text
 
 The date of the enactment of this paragraph, referred to in subsec. (b)(2)(B), is the date of enactment of Pub. L. 108–357, which was approved Oct. 22, 2004.
 
 #### Amendments
+
+<b>2010</b>—Subsec. (c)(2). Pub. L. 111–147 amended par. (2) generally. Prior to amendment, par. (2) defined portfolio interest to also include interest on certain obligations not in registered form.
 
 <b>2005</b>—Subsec. (e)(1)(C). Pub. L. 109–135 inserted “interest-related dividend received by a controlled foreign corporation” after “shall apply to any”.
 

@@ -2,7 +2,7 @@
 
 #### (a) Coin-operated gaming devices
 
-Any coin-operated gaming device as defined in section 4462 <sup>1</sup> upon which a tax is imposed by section 4461 <sup>1</sup> and which has been forfeited under any provision of this title shall be destroyed, or otherwise disposed of, in such manner as may be prescribed by the Secretary.
+Any coin-operated gaming device as defined in section 4462 <sup>1</sup> upon which a tax is imposed by section 4461 <sup>1</sup> and which has been forfeited underany provision of this title shall be destroyed, or otherwise disposed of, in such manner as may be prescribed by the Secretary.
 
 #### (b) Firearms
 

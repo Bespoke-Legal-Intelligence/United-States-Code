@@ -10,7 +10,7 @@
 
 (e) Under regulations prescribed by the Secretary, a student aviation pilot may be designated an aviation pilot upon the successful completion of flight training.
 
-(f) In time of peace, an aviation pilot obligated under subsection (b) to serve on active duty for two years may serve for an additional period of not more than two years.
+(f) In time of peace, an aviation pilot obligated under subsection (b) to serve on active duty fortwo years may serve for an additional period of not more than two years.
 
 (g) An aviation pilot may be released from active duty or discharged at any time as provided for in the regulations prescribed by the Secretary.
 

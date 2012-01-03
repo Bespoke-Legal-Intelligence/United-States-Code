@@ -6,7 +6,7 @@ Whenever the rate of pay of an employee whose pay is disbursed by the Chief Admi
 
 #### Amendments
 
-1996—Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk”.
+<b>1996</b>—Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk”.
 
 #### Effective Date
 

@@ -70,7 +70,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If the rules of this paragraph apply to any foreign trust, the determination of amounts required to be taken into account with respect to such trust by a United States person under the rules of subpart E of part I of subchapter J of chapter 1 shall be determined by the Secretary.
+&emsp;&emsp;If the rules of this paragraph apply to any foreign trust, the determination of amountsrequired to be taken into account with respect to such trust by a United States person under the rules of subpart E of part I of subchapter J of chapter 1 shall be determined by the Secretary.
 
 #### (B) United States agent required
 
@@ -106,7 +106,7 @@
 
 #### (B) Application of accumulation distribution rules
 
-&emsp;&emsp;For purposes of applying section 668 in a case to which subparagraph (A) applies, the applicable number of years for purposes of section 668(a) shall be 1/2 of the number of years the trust has been in existence.
+&emsp;&emsp;For purposes of applying section 668 in a case to which subparagraph (A) applies, the applicable number of years for purposes of section 668(a) shall be ½ of the number of years the trust has been in existence.
 
 #### (d) Special rules
 
@@ -140,7 +140,7 @@
 
 Subsec. (d)(5). Pub. L. 105–34, §1027(b), added par. (5).
 
-<b>1996</b>—Pub. L. 104–188 amended section generally, substituting provisions calling for improved information reporting on foreign trusts for provisions calling for the filing of returns as to foreign trusts, prescribing the form and contents of such returns, and requiring annual returns for foreign trusts with one or more United States beneficiaries.
+<b>1996</b>—Pub. L. 104–188 amended section generally, substituting provisions calling for improved information reporting on foreign trusts for provisions calling for the filing of returns as to foreign trusts, prescribing the form and contents of such returns, and requiringannual returns for foreign trusts with one or more United States beneficiaries.
 
 <b>1982</b>—Subsec. (a). Pub. L. 97–248 inserted “(or on or before such later day as the Secretary may by regulations prescribe)” after “the 90th day”.
 
@@ -158,7 +158,7 @@ Pub. L. 111–147, title V, §534(b), Mar. 18, 2010, 124 Stat. 115, provided tha
 
 Amendment by section 1027(b) of Pub. L. 105–34 applicable to returns of beneficiaries and owners filed after Aug. 5, 1997, see section 1027(c) of Pub. L. 105–34, set out as a note under section 6034A of this title.
 
-Amendment by section 1601(i)(1) of Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 36C of this title.
+Amendment by section 1601(i)(1) of Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 23 of this title.
 
 #### Effective Date of 1996 Amendment
 

@@ -216,7 +216,7 @@ Parents’ Assessment From Adjusted Available Income (AAI)
 
 &emsp;&emsp;(B) If the preceding criterion does not apply, include only the income and assets of the parent who provided the greater portion of the student's support for the 12-month period preceding the date of application.
 
-&emsp;&emsp;(C) If neither of the preceding criteria apply, include only the income and assets ofthe parent who provided the greater support during the most recent calendar year for which parental support was provided.
+&emsp;&emsp;(C) If neither of the preceding criteria apply, include only the income and assets of the parent who provided the greater support during the most recent calendar year for which parental support was provided.
 
 #### (2) Death of a parent
 
@@ -228,7 +228,7 @@ Parents’ Assessment From Adjusted Available Income (AAI)
 
 #### (3) Remarried parents
 
-&emsp;If a parent whose income and assets are taken into account under paragraph (1) of this subsection, or if a parent who is a widow or widower and whose income is taken into account under paragraph (2) of this subsection, has remarried, the income of that parent's spouse shall be included in determining the parent's adjusted available income only if—
+&emsp;If a parent whose income and assets are taken into account under paragraph (1) of this subsection, or if a parent who is a widow or widower and whose income is taken into account under paragraph (2) of this subsection, has remarried, the income of that parent'sspouse shall be included in determining the parent's adjusted available income only if—
 
 &emsp;&emsp;(A) the student's parent and the stepparent are married as of the date of application for the award year concerned; and
 
@@ -309,7 +309,7 @@ The student contribution from assets is determined by calculating the net assets
 
 #### (i) Adjustments to parents’ contribution for enrollment periods other than 9 months for purposes other than subpart 2 of part A of this subchapter
 
-For periods of enrollment other than 9 months, the parents’ contribution from adjustedavailable income (as determined under subsection (b) of this section) is determined as follows for purposes other than subpart 2 of part A of this subchapter:
+For periods of enrollment other than 9 months, the parents’ contribution from adjusted available income (as determined under subsection (b) of this section) is determined as follows for purposes other than subpart 2 of part A of this subchapter:
 
 &emsp;(1) For periods of enrollment less than 9 months, the parents’ contribution from adjusted available income is divided by 9 and the result multiplied by the number of months enrolled.
 

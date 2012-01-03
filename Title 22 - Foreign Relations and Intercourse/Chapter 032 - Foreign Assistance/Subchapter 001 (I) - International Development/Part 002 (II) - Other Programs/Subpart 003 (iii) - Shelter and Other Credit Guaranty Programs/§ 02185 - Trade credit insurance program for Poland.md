@@ -48,7 +48,7 @@ The Bank shall provide, without reimbursement, such administrative and technical
 
 #### (j) Fees and premiums
 
-The Bank is authorized to charge fees and premiums, in connection with guarantees or insurance guaranteed by the administering agency under subsection (a) of this section, that are commensurate (in the judgment of the Bank) with the Bank's administrative costs and the risks covered by the agency's guarantees. Any amounts received by the Bank in excess of the estimated costs incurred by the Bank in administering such guarantees or insurance—
+The Bank is authorized to charge fees and premiums, in connection with guarantees or insurance guaranteed by the administering agency under subsection (a) of this section, that are commensurate (in the judgment of the Bank) with the Bank's administrative costs and therisks covered by the agency's guarantees. Any amounts received by the Bank in excess of the estimated costs incurred by the Bank in administering such guarantees or insurance—
 
 &emsp;(1) shall be credited to the reserve fund established pursuant to subsection (d) of this section,
 

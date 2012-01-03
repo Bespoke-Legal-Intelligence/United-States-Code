@@ -28,7 +28,7 @@
 
 &emsp;(iii) the use of innovative technology sanctioned by an enforcement order under section 7413(d)(4) <sup>1</sup> of this title;
 
-&emsp;(iv) an inability to comply with any such requirement, for which inability the source has received an order under section 7413(d) <sup>1</sup> of this title (or an order under section 7413 of this title issued before August 7, 1977) which has the effect of permitting a delay or violation of any requirement of this chapter (including arequirement of an applicable implementation plan) which inability results from reasons entirely beyond the control of the owner or operator of such source or of any entity controlling, controlled by, or under common control with the owner or operator of such source; or
+&emsp;(iv) an inability to comply with any such requirement, for which inability the source has received an order under section 7413(d) <sup>1</sup> of this title (or an order under section 7413 of this title issued before August 7, 1977) which has the effect of permitting a delay or violation of any requirement of this chapter (including a requirement of an applicable implementation plan) which inability results from reasons entirely beyond the control of the owner or operator of such source or of any entity controlling, controlled by, or under common control with the owner or operator of such source; or
 
 &emsp;(v) the conditions by reason of which a temporary emergency suspension is authorized under section 7410(f) or (g) of this title.
 
@@ -92,7 +92,7 @@ If the owner or operator of any stationary source to whom a notice is issued und
 
 (3)(A) The assessed penalty required under this section shall be paid in quarterly installments for the period of covered noncompliance. All quarterly payments (determined without regard to any adjustment or any subtraction under paragraph (2)(B)) after the first payment shall be equal.
 
-(B) The first payment shall be due on the date six months after the date of issuance of the notice of noncompliance under subsection (b)(3) of this section with respect to any source or on January 1, 1980, whichever is later. Such first payment shall be in the amount of the quarterly installment for the upcoming quarter, plus the amount owed for any preceding period within the period of covered noncompliance for such source.
+(B) The first payment shall be due on the date six months after the date of issuance of the notice of noncompliance under subsection (b)(3) of this section with respect to any source or on January 1, 1980, whichever is later. Such firstpayment shall be in the amount of the quarterly installment for the upcoming quarter, plus the amount owed for any preceding period within the period of covered noncompliance for such source.
 
 (C) For the purpose of this section, the term “period of covered noncompliance” means the period which begins—
 
@@ -120,7 +120,7 @@ Any orders, payments, sanctions, or other requirements under this section shall 
 
 #### (g) More stringent emission limitations or other requirements
 
-In the case of any emission limitation or other requirement approved or promulgated by the Administrator under this chapter after August 7, 1977, which is more stringent than the emission limitation or requirement for the source ineffect prior to such approval or promulgation, if any, or where there was no emission limitation or requirement approved or promulgated before August 7, 1977, the date for imposition of the non-compliance penalty under this section, shall be either July 1, 1979, or the date on which the source is required to be in full compliance with such emission limitation or requirement, whichever is later, but in no event later than three years after the approval or promulgation of such emission limitation or requirement.
+In the case of any emission limitation or other requirement approved or promulgated by the Administrator under this chapter after August 7, 1977, which is more stringent than the emission limitation or requirement for the source in effect prior to such approval or promulgation, if any, or where there was no emission limitation or requirement approved or promulgated before August 7, 1977, the date for imposition of the non-compliance penalty under this section, shall be either July 1, 1979, or the date on which the source is required to be in full compliance with such emission limitation or requirement, whichever is later, but in no event later than three years after the approval or promulgation of such emission limitation or requirement.
 
 (July 14, 1955, ch. 360, title I, §120, as added Pub. L. 95–95, title I, §118, Aug. 7, 1977, 91 Stat. 714; amended Pub. L. 95–190, §14(a)(28)–(38), Nov. 16, 1977, 91 Stat. 1401; Pub. L. 101–549, title VII, §710(a), Nov. 15, 1990, 104 Stat. 2684.)
 
@@ -140,7 +140,7 @@ Section 1857c–10(c)(1) of this title (as in effect before August 7, 1977), ref
 
 Subsec. (a)(2)(B). Pub. L. 95–190, §14(a)(30), (31), in cl. (i) inserted reference to section 7413(d)(5) of this title, and in cls. (i) and (ii) inserted provision relating to orders in effect under section 1857c–10 of this title before Aug. 7, 1977, wherever appearing.
 
-Subsec. (b). Pub. L. 95–190, §14(a)(34)–(36), in closing provisions inserted provisions relating to notice to the Administrator when a noncompliance penalty is established by a State, and substituted references to noncompliance for references to delayed compliance in two places, “source” for “facility”, and “receipt of notice of the State penalty assessment” for “publication of the proposed penalty”.
+Subsec. (b). Pub. L. 95–190, §14(a)(34)–(36), in closing provisions inserted provisions relating to notice to the Administrator when a noncompliance penalty is established by a State, and substituted references to noncompliance for references to delayed compliance in twoplaces, “source” for “facility”, and “receipt of notice of the State penalty assessment” for “publication of the proposed penalty”.
 
 Subsec. (b)(2)(A). Pub. L. 95–190, §14(a)(33), substituted “(a)(1)(B)(i)” for “(e)”.
 

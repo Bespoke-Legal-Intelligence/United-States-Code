@@ -26,7 +26,7 @@ In the case of any farming syndicate (as defined in subsection (c))—
 
 &emsp;For purposes of paragraph (1)(B), the following shall be treated as an interest which is not held by a limited partner or a limited entrepreneur:
 
-&emsp;&emsp;(A) in the case of any individual who has actively participated (for a period of not less than 5 years) in the management of any trade or business of farming, any interest in a partnership or other enterprise which is attributable to such active participation,
+&emsp;&emsp;(A) in the case of any individual who has actively participated (for a period of not less than 5 years) in the management of anytrade or business of farming, any interest in a partnership or other enterprise which is attributable to such active participation,
 
 &emsp;&emsp;(B) in the case of any individual whose principal residence is on a farm, any partnership or other enterprise engaged in the trade or business of farming such farm,
 
@@ -62,7 +62,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;In the case of a taxpayer to whom this subsection applies, subsections (a) and (b) shall apply to the excess prepaid farm supplies ofsuch taxpayer in the same manner as if such taxpayer were a farming syndicate.
+&emsp;In the case of a taxpayer to whom this subsection applies, subsections (a) and (b) shall apply to the excess prepaid farm supplies of such taxpayer in the same manner as if such taxpayer were a farming syndicate.
 
 #### (2) Taxpayer to whom subsection applies
 
@@ -156,7 +156,7 @@ Amendment by section 803(b)(8) of Pub. L. 99–514 applicable to costs incurred 
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–354 applicable to taxable years beginning after Dec. 31, 1982, see section 6(a) ofPub. L. 97–354, set out as an Effective Date note under section 1361 of this title.
+Amendment by Pub. L. 97–354 applicable to taxable years beginning after Dec. 31, 1982, see section 6(a) of Pub. L. 97–354, set out as an Effective Date note under section 1361 of this title.
 
 #### Effective Date of 1978 Amendment
 

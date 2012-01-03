@@ -10,7 +10,7 @@ Funds appropriated to the Department of Defense may be used for the following pu
 
 &emsp;(4) The issue of authorized articles to prisoners and other persons in military custody.
 
-&emsp;(5) Under such regulations as the Secretary concerned may prescribe, expenses incident to the maintenance, pay, and allowances of prisoners of war, other persons in the custody of the Army, Navy, or Air Force whose status is determined by the Secretary concerned to be similar to prisoners of war, and persons detained in the custody of the Army, Navy, orAir Force pursuant to Presidential proclamation.
+&emsp;(5) Under such regulations as the Secretary concerned may prescribe, expenses incident to the maintenance, pay, and allowances of prisoners of war, other persons in the custody of the Army, Navy, or Air Force whose status is determined by the Secretary concerned to be similar to prisoners of war, and persons detained in the custody of the Army, Navy, or Air Force pursuant to Presidential proclamation.
 
 (Added Pub. L. 98–525, title XIV, §1401(b)(1), Oct. 19, 1984, 98 Stat. 2614.)
 

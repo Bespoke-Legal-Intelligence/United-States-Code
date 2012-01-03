@@ -1,6 +1,6 @@
 ### §7543. Cause and procedure
 
-(a) Under regulations prescribed by the Office of Personnel Management, an agency may take an action covered by this subchapter against an employee only for misconduct, neglect of duty, malfeasance, or failure to accept a directed reassignment or to accompany a position in a transfer of function.
+(a) Under regulations prescribed by the Office of Personnel Management, an agency may takean action covered by this subchapter against an employee only for misconduct, neglect of duty, malfeasance, or failure to accept a directed reassignment or to accompany a position in a transfer of function.
 
 (b) An employee against whom an action covered by this subchapter is proposed is entitled to—
 
@@ -22,9 +22,9 @@
 
 #### Amendments
 
-1984—Subsec. (a). Pub. L. 98–615 inserted reference to failure to accept a directed reassignment or to accompany a position in a transfer of function.
+<b>1984</b>—Subsec. (a). Pub. L. 98–615 inserted reference to failure to accept a directed reassignment or to accompany a position in a transfer of function.
 
-1981—Subsec. (a). Pub. L. 97–35 substituted “misconduct, neglect of duty, or malfeasance” for “such cause as will promote the efficiency of the service”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35 substituted “misconduct, neglect of duty, or malfeasance” for “such cause as will promote the efficiency of the service”.
 
 #### Effective Date of 1984 Amendment
 

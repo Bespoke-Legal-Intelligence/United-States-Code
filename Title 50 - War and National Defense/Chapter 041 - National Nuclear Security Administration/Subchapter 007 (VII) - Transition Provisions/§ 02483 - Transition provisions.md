@@ -6,7 +6,7 @@
 
 (2) In carrying out paragraph (1), the Under Secretary of Energy for Nuclear Security shall conduct a review and develop a plan to bring applicable activities of the Administration into full compliance with those principles not later than such date.
 
-(3) Not later than January 1, 2000, the Under Secretary of Energy for Nuclear Security shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report containing the results of that review and a description of that plan.
+(3) Not later than January 1, 2000, the Under Secretary of Energy for Nuclear Security shallsubmit to the Committees on Armed Services of the Senate and the House of Representatives a report containing the results of that review and a description of that plan.
 
 #### (b) Initial report for future-years nuclear security program
 

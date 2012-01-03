@@ -1,42 +1,46 @@
 ### §1463. Supervision of savings associations
 
-#### (a) Federal savings associations
+#### (a) Savings associations
 
-#### (1) In general
+#### (1) Examination and safe and sound operation
 
-&emsp;The Director shall provide for the examination, safe and sound operation, and regulation of savings associations.
+#### (A) Federal savings associations
 
-#### (2) Regulations
+&emsp;&emsp;The Comptroller shall provide for the examination and safe and sound operation of Federal savings associations.
 
-&emsp;The Director may issue such regulations as the Director determines to be appropriate to carry out the responsibilities of the Director or the Office.
+#### (B) State savings associations
+
+&emsp;&emsp;The Corporation shall provide for the examination and safe and sound operation of State savings associations.
+
+#### (2) Regulations for savings associations
+
+&emsp;The Comptroller may prescribe regulations with respect to savings associations, as the Comptroller determines to be appropriate to carry out the purposes of this chapter.
 
 #### (3) Safe and sound housing credit to be encouraged
 
-&emsp;The Director shall exercise all powers granted to the Director under this chapter so as to encourage savings associations to provide credit for housing safely and soundly.
+&emsp;The Comptroller and the Corporation shall exercise all powers granted to the Comptroller and the Corporation under this chapter so as to encourage savings associations to provide credit for housing safely and soundly.
 
 #### (b) Accounting and disclosure
 
 #### (1) In general
 
-&emsp;The Director shall, by regulation, prescribe uniform accounting and disclosure standards for savings associations, to be used in determining savings associations’ compliance with all applicable regulations.
+&emsp;The Comptroller shall, by regulation, prescribe uniform accounting and disclosurestandards for savings associations, to be used in determining savings associations’ compliance with all applicable regulations.
 
 #### (2) Specific requirements for accounting standards
 
 &emsp;Subject to section 1464(t) of this title, the uniform accounting standards prescribed under paragraph (1) shall—
 
-&emsp;&emsp;(A) incorporate generally accepted accounting principles to the same degree that such principles are used to determine compliance with regulations prescribed by the Federal banking agencies;
+&emsp;&emsp;(A) incorporate generally accepted accounting principles to the same degree that such principles are used to determine compliance with regulations prescribed by the Federal banking agencies; and
 
-&emsp;&emsp;(B) allow for no deviation from full compliance with such standards as are in effect after December 31, 1993; and
-
-&emsp;&emsp;(C) prior to January 1, 1994, require full compliance by savings associations with accounting standards in effect at any time before such date not later than provided under the schedule in section 563.23–3 of title 12, Code of Federal Regulations (as in effect on May 1, 1989).
+&emsp;&emsp;(B) allow for no deviation from full compliance with such standards as are in effect after December 31, 1993.
 
 #### (3) Authority to prescribe more stringent accounting standards
 
-&emsp;The Director may at any time prescribe accounting standards more stringent than required under paragraph (2) if the Director determines that the more stringent standards are necessary to ensure the safe and sound operation of savings associations.
+&emsp;The Comptroller may at any time prescribe accounting standards more stringent than required under paragraph (2) if the Comptroller determines that the more stringent standards are necessary to ensure the safe and sound operation of savings associations.
 
 #### (c) Stringency of standards
 
-All regulations and policies of the Director governing the safe and sound operation of savings associations, including regulations and policies governing asset classification and appraisals, shall be no less stringent than those established by the Comptroller of the Currency for national banks.
+The regulations of the Comptroller and the policies of the Comptroller and the Corporation governing the safe and sound operation of savings associations, including regulations and policies governing asset classification and appraisals, shall be no less stringent than those established by the Comptroller for national banks.
 
 #### (d) Investment of certain funds in accounts of savings associations
 
@@ -96,11 +100,11 @@ The savings accounts and share accounts of savings associations insured by the C
 
 #### (5) Regulations
 
-&emsp;The Director shall prescribe such regulations as may be necessary to provide for enforcement of this subsection and to prevent any evasion of any provision of this subsection.
+&emsp;The Comptroller shall prescribe such regulations as may be necessary to provide for enforcement of this subsection and to prevent any evasion of any provision of this subsection.
 
 #### (f) Federally related mortgage loan disclosures
 
-A savings association may not make a federally related mortgage loan to an agent, trustee, nominee, or other person acting in a fiduciary capacity without requiring that the identity of the person receiving the beneficial interest of such loan shall at all times be revealed to the savings association. At the request of the Director, the savings association shall report to the Director the identity of such person and the nature and amount of the loan.
+A savings association may not make a federally related mortgage loan to an agent, trustee, nominee, or other person acting in a fiduciary capacity without requiring that the identity of the person receiving the beneficial interest of such loan shall at all times be revealed to the savings association. At the request of the appropriate Federal banking agency, the savings association shall report to the appropriate Federal banking agency the identity of such person and the nature and amount of the loan.
 
 #### (g) Preemption of State usury laws
 
@@ -112,11 +116,11 @@ A savings association may not make a federally related mortgage loan to an agent
 
 No savings association shall—
 
-&emsp;(1) issue securities which guarantee a definite maturity except with the specific approval of the Director, or
+&emsp;(1) issue securities which guarantee a definite maturity except with the specific approval of the appropriate Federal banking agency, or
 
-&emsp;(2) issue any securities the form of which has not been approved by the Director.
+&emsp;(2) issue any securities the form of which has not been approved by the appropriate Federal banking agency.
 
-(June 13, 1933, ch. 64, §4, as added Pub. L. 101–73, title III, §301, Aug. 9, 1989, 103 Stat. 280.)
+(June 13, 1933, ch. 64, §4, as added Pub. L. 101–73, title III, §301, Aug. 9, 1989, 103 Stat. 280; amended Pub. L. 111–203, title III, §369(4), July 21, 2010, 124 Stat. 1558.)
 
 #### Prior Provisions
 
@@ -126,13 +130,43 @@ A prior section 1463a, act Apr. 27, 1934, ch. 168, §1(b), 48 Stat. 644, provide
 
 A prior section 1463b, act Apr. 27, 1934, ch. 168, §9, 48 Stat. 646, related to purchase of obligations of, and loans to, Federal Home Loan Banks, prior to repeal by act May 28, 1935, ch. 150, §17(b), 49 Stat. 297.
 
+#### Amendments
+
+<b>2010</b>—Subsec. (a). Pub. L. 111–203, §369(4)(A)(i), struck out “Federal” before “savings” in heading.
+
+Subsec. (a)(1), (2). Pub. L. 111–203, §369(4)(A)(ii), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
+
+“(1)
+
+In general.—The Director shall provide for the examination, safe and sound operation, and regulation of savings associations.
+
+“(2)
+
+Regulations.—The Director may issue such regulations as the Director determines to be appropriate to carry out the responsibilities of the Director or the Office.”
+
+Subsec. (a)(3). Pub. L. 111–203, §369(4)(A)(iii), substituted “Comptroller and the Corporation” for “Director” in two places.
+
+Subsec. (b). Pub. L. 111–203, §369(4)(B)(ii), substituted “Comptroller” for “Director” wherever appearing.
+
+Subsec. (b)(2). Pub. L. 111–203, §369(4)(B)(i), inserted “and” at end of subpar. (A), substituted a period for “; and” at end of subpar. (B), and struck out subpar. (C) which read as follows: “prior to January 1, 1994, require full compliance by savings associations with accounting standards in effect at any time before such date not later than provided under the schedule in section 563.23–3 of title 12, Code of Federal Regulations (as in effect on May 1, 1989).”
+
+Subsec. (c). Pub. L. 111–203, §369(4)(C), substituted “The regulations of the Comptroller and the policies of the Comptroller and the Corporation” for “All regulations and policies of the Director” and struck out “of the Currency” before “for national”.
+
+Subsec. (e)(5). Pub. L. 111–203, §369(4)(D), substituted “Comptroller” for “Director”.
+
+Subsecs. (f), (h). Pub. L. 111–203, §369(4)(E), (F), substituted “appropriate Federal banking agency” for “Director” in two places.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the transfer date, see section 351 of Pub. L. 111–203, set out as a note under section 906 of Title 2, The Congress.
+
 #### Preserving Minority Ownership of Minority Financial Institutions
 
-Section 308 of Pub. L. 101–73 provided that:
+Pub. L. 101–73, title III, §308, Aug. 9, 1989, 103 Stat. 353, as amended by Pub. L. 111–203, title III, §367(4), July 21, 2010, 124 Stat. 1556, provided that:
 
 “(a)
 
-Consultation on Methods.—The Secretary of the Treasury shall consult with the Director of the Office of Thrift Supervision and the Chairperson of the Board of Directors of the Federal Deposit Insurance Corporation on methods for best achieving the following goals:
+Consultation on Methods.—The Secretary of the Treasury shall consult with the Chairman of the Board of Governors of the Federal Reserve System, the Comptroller of the Currency, the Chairman of the National Credit Union Administration, and the Chairperson of the Board of Directors of the Federal Deposit Insurance Corporation on methods for best achieving the following goals:
 
 &emsp;“(1) Preserving the present number of minority depository institutions.
 
@@ -174,7 +208,11 @@ Minority financial institution.—The term ‘minority depository institution’
 
 &emsp;“(2)
 
-Minority.—The term ‘minority’ means any black American, Native American, Hispanic American, or Asian American.”
+Minority.—The term ‘minority’ means any black American, Native American, Hispanic American, or Asian American.
+
+“(c)
+
+Reports.—The Secretary of the Treasury, the Chairman of the Board of Governors of the Federal Reserve System, the Comptroller of the Currency, the Chairman of the National Credit Union Administration, and the Chairperson of Board of Directors of the Federal Deposit Insurance Corporation shall each submit an annual report to the Congress containing a description of actions taken to carry out this section.”
 
 #### Abolition of Home Owners’ Loan Corporation
 

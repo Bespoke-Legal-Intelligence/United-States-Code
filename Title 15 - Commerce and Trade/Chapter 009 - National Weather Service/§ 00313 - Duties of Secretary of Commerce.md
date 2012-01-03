@@ -12,7 +12,7 @@ The Secretary of Commerce shall have charge of the forecasting of weather, the i
 
 #### Repeals
 
-Pub. L. 85–726, title XIV, §1401(b), Aug. 23, 1958, 72 Stat. 806, repealed act June 23, 1938, ch. 601, title XI, §1107(k), 52 Stat. 1029, cited to the credit of this section.
+Pub. L. 85–726, title XIV, §1401(b), Aug. 23, 1958, 72 Stat. 806, repealed act June 23, 1938, ch. 601, title XI,§1107(k), 52 Stat. 1029, cited to the credit of this section.
 
 #### Transfer of Functions
 
@@ -92,7 +92,7 @@ Establishment.—The Secretary of Commerce, in cooperation with the Federal Coor
 
 “(b)
 
-Implementation Plan.—Not later than 90 days after the date of enactment of this Act \[Oct. 29, 1992\], the Secretary of Commerce, in cooperation with the Committee on Earth and Environmental Sciences, shall prepare and submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology \[now Committee on Science and Technology\] of the House of Representatives a plan for implementation of the United States Weather Research Program which shall—
+Implementation Plan.—Not later than 90 days after the date of enactment of this Act \[Oct. 29, 1992\], the Secretary of Commerce, in cooperation with the Committee on Earth and Environmental Sciences, shall prepare and submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a plan for implementation of the United States Weather Research Program which shall—
 
 &emsp;“(1) establish, for the 10-year period beginning in the year the plan is submitted, the goals and priorities for Federal weather research which most effectively advance the scientific understanding of weather processes and provide information to improve weather warning and forecast systems in the United States;
 
@@ -190,7 +190,7 @@ Weather Radar Decommissioning.—The Secretary shall not remove or permanently d
 
 “(c)
 
-Surface Observing System Commissioning.—The Secretary may not commission an automated surface observing system located at an airport unless it is determined, in consultation with the Secretary of Transportation, that the weather services provided after commissioning will continue to be in full compliance with applicable flight aviation rules promulgated by the Federal Aviation Administration.
+Surface Observing System Commissioning.—The Secretary may not commission an automated surface observing system located at an airport unless it is determined, in consultation with the Secretary ofTransportation, that the weather services provided after commissioning will continue to be in full compliance with applicable flight aviation rules promulgated by the Federal Aviation Administration.
 
 #### “SEC. 706. RESTRUCTURING FIELD OFFICES.
 
@@ -226,7 +226,7 @@ Public Review.—Each certification decision shall be preceded by—
 
 “(d)
 
-Final Decision.—If after consideration of the public comment received under subsection (c) the Secretary, in consultation with the Committee, decides to close, consolidate, automate, or relocate any such field office, the Secretary shall publish a final certification in the Federal Register and submit the certification to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology \[now Committee on Science and Technology\] of the House of Representatives.
+Final Decision.—If after consideration of the public comment received under subsection (c) the Secretary, in consultation with the Committee, decides to close, consolidate, automate, or relocate any such field office, the Secretary shall publish a final certification in the Federal Register and submit the certification to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives.
 
 “(e)
 
@@ -288,7 +288,7 @@ Termination.—The Committee shall terminate on December 31, 1999.
 
 “(a)
 
-Report.—The Secretary shall prepare a report on the proposed modernization of the National Weather Service and transmit the report, not later than 6 months after the date of enactment of this Act \[Oct. 29, 1992\], to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology \[now Committee on Science and Technology\] of the House of Representatives.
+Report.—The Secretary shall prepare a report on the proposed modernization of the National Weather Service and transmit the report, not later than 6 months after the date of enactment of this Act \[Oct. 29, 1992\], to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives.
 
 “(b)
 
@@ -298,7 +298,7 @@ Contents.—(1) The report required by subsection (a) shall identify the size of
 
 “(c)
 
-Consultation.—In preparing portions of the report that address Weather Forecast Offices located in areas of the Nation that are uniquely dependent ongeneral aviation as a means of transportation, the Secretary shall consult with local aviation groups. In the case of Alaska, such local groups shall include the Alaska Aviation Safety Foundation, the Alaska Airmen's Association, and the regional representatives of the Aircraft Owners and Pilots Association.
+Consultation.—In preparing portions of the report that address Weather Forecast Offices located in areas of the Nation that are uniquely dependent on general aviation as a means of transportation, the Secretary shall consult with local aviation groups. In the case of Alaska, such local groups shall include the Alaska Aviation Safety Foundation, the Alaska Airmen's Association, and the regional representatives of the Aircraft Owners and Pilots Association.
 
 #### “SEC. 709. REPEALS.
 

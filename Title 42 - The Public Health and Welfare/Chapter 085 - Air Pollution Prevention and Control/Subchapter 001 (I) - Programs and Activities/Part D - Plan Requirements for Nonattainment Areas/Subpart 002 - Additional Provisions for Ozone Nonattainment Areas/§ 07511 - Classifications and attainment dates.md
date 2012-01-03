@@ -52,7 +52,7 @@ TABLE 1
 
 #### (3) Voluntary reclassification
 
-&emsp;The Administrator shall grant the request of any State to reclassify a nonattainment area in that State in accordance with table 1 of subsection (a) of this section to a higher classification. The Administrator shall publish a notice in the Federal Register of any such request and of action by the Administrator granting the request.
+&emsp;The Administrator shall grant the request of any State to reclassify a nonattainment areain that State in accordance with table 1 of subsection (a) of this section to a higher classification. The Administrator shall publish a notice in the Federal Register of any such request and of action by the Administrator granting the request.
 
 #### (4) Failure of Severe Areas to attain standard
 

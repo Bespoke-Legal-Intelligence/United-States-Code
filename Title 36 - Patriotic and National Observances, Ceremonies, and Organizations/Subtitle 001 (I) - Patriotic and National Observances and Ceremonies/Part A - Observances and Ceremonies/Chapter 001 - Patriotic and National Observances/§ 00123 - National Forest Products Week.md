@@ -42,7 +42,7 @@ As a renewable and recyclable resource, wood is one of our Nation's most environ
 
 Forests are one of the foundations on which our Nation was formed; they are the backbone of our environment. This week, we recognize the value of forest products and the importance of their sustainable use to our lives.
 
-To recognize the importance of products from our forests, the Congress, by Public Law 86–753 (36 U.S.C. 123),as amended, has designated the week beginning on the third Sunday in October of each year as National Forest Products Week and has authorized and requested the President to issue a proclamation in observance of this week.
+To recognize the importance of products from our forests, the Congress, by Public Law 86–753 (36 U.S.C. 123), as amended, has designated the week beginning on the third Sunday in October of each year as National Forest Products Week and has authorized and requested the President to issue a proclamation in observance of this week.
 
 NOW, THEREFORE, I, BARACK OBAMA, President of the United States of America, do hereby proclaim the week beginning on the third Sunday in October of each year as National Forest Products Week. I call on all Americans to celebrate the varied uses and products of our forested lands, as well as the people who carry on the tradition of careful stewardship of these precious natural resources for generations to come.
 

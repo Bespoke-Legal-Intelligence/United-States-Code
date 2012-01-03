@@ -2,57 +2,61 @@
 
 (a) The definitions and rules of construction set forth in this section are applicable for the purposes of this subchapter.
 
-(b) The term “Board” refers to the Board of Governors of the Federal Reserve System.
+(b)
 
-(c) The term “organization” means a corporation, government or governmental subdivision or agency, trust, estate, partnership, cooperative, or association.
+Bureau.—The term “Bureau” means the Bureau of Consumer Financial Protection.
 
-(d) The term “person” means a natural person or an organization.
+(c) The term “Board” refers to the Board of Governors of the Federal Reserve System.
 
-(e) The term “credit” means the right granted by a creditor to a debtor to defer payment of debt or to incur debt and defer its payment.
+(d) The term “organization” means a corporation, government or governmental subdivision or agency, trust, estate, partnership, cooperative, or association.
 
-(f) The term “creditor” refers only to a person who both (1) regularly extends, whether in connection with loans, sales of property or services, or otherwise, consumer credit which is payable by agreement in more than four installments or for which the payment of a finance charge is or may be required, and (2) is the person to whom the debt arising from the consumer credit transaction is initially payable on the face of the evidence of indebtedness or, if there is no such evidence of indebtedness, by agreement. Notwithstanding the preceding sentence, in the case of an open-end credit plan involving a credit card, the card issuer and any person who honors the credit card and offers a discount which is a finance charge are creditors. For the purpose of the requirements imposed under part D of this subchapter and sections 1637(a)(5), 1637(a)(6), 1637(a)(7), 1637(b)(1), 1637(b)(2), 1637(b)(3), 1637(b)(8), and 1637(b)(10) of this title, the term “creditor” shall also include card issuers whether or not the amount due is payable by agreement in more than four installments or the payment of a finance charge is or may be required, and the Board shall, by regulation, apply these requirements to such card issuers, to the extent appropriate, even though the requirements are by their terms applicable only to creditors offering open-end credit plans. Any person who originates 2 or more mortgages referred to in subsection (aa) of this section in any 12-month period or any person who originates 1 or more such mortgages through a mortgage broker shall be considered to be a creditor for purposes of this subchapter. The term “creditor” includes a private educational lender (as that term is defined in section 1650 of this title) for purposes of this subchapter.
+(e) The term “person” means a natural person or an organization.
 
-(g) The term “credit sale” refers to any sale in which the seller is a creditor. The term includes any contract in the form of a bailment or lease if the bailee or lessee contracts to pay as compensation for use a sum substantially equivalent to or in excess of the aggregate value of the property and services involved and it is agreed that the bailee or lessee will become, or for no other or a nominal consideration has the option to become, the owner of the property upon full compliance with his obligations under the contract.
+(f) The term “credit” means the right granted by a creditor to a debtor to defer payment of debt or to incur debt and defer its payment.
 
-(h) The adjective “consumer”, used with reference to a credit transaction, characterizes the transaction as one in which the party to whom credit is offered or extended is a natural person, and the money, property, or services which are the subject of the transaction are primarily for personal, family, or household purposes.
+(g) The term “creditor” refers only to a person who both (1) regularly extends, whether in connection with loans, sales of property or services, or otherwise, consumer credit which is payable by agreement in more than four installments or for which the payment of a finance charge is or may be required, and (2) is the person to whom the debt arising from the consumer credit transaction is initially payable on the face of the evidence of indebtedness or, if there is no such evidence of indebtedness, by agreement. Notwithstanding the preceding sentence, in the case of an open-end credit plan involving a credit card, the card issuer and any person who honors the credit card and offers a discount which is a finance charge are creditors. For the purpose of the requirements imposed under part D of this subchapter and sections 1637(a)(5), 1637(a)(6), 1637(a)(7), 1637(b)(1), 1637(b)(2), 1637(b)(3), 1637(b)(8), and 1637(b)(10) of this title, the term “creditor” shall also include card issuers whether or not the amount due is payable by agreement in more than four installments or the payment of a finance charge is or may be required, and the Bureau shall, by regulation, apply these requirements to such card issuers, to the extent appropriate, even though the requirements are by their terms applicable only to creditors offering open-end credit plans. Any person who originates 2 or more mortgages referred to in subsection (aa) of this section in any 12-month period or any person who originates 1 or more such mortgages through a mortgage broker shall be considered to be a creditor for purposes of this subchapter. The term “creditor” includes a private educational lender (as that term is defined in section 1650 of this title) for purposes of this subchapter.
 
-(i) The terms “open end credit plan” and “open end consumer credit plan” mean a plan under which the creditor reasonably contemplates repeated transactions, which prescribes the terms of such transactions, and which provides for a finance charge which may be computed from time to time on the outstanding unpaid balance. A credit plan or open end consumer credit plan which is an open end credit plan or open end consumer credit plan within the meaning of the preceding sentence is an open end credit plan or open end consumer credit plan even if credit information is verified from time to time.
+(h) The term “credit sale” refers to any sale in which the seller is a creditor. The term includes any contract in the form of a bailment or lease if the bailee or lessee contracts to pay as compensation for use a sum substantially equivalent to or in excess of the aggregate value of the property and services involved and it is agreed that the bailee or lessee will become, or for no other or a nominal consideration has the option to become, the owner of the property upon full compliance with his obligations under the contract.
 
-(j) The term “adequate notice,” as used in section 1643 of this title, means a printed notice to a cardholder which sets forth the pertinent facts clearly and conspicuously so that a person against whom it is to operate could reasonably be expected to have noticed it and understood its meaning. Such notice may be given to a cardholder by printing the notice on any credit card, or on each periodic statement of account, issued to the cardholder, or by any other means reasonably assuring the receipt thereof by the cardholder.
+(i) The adjective “consumer”, used with reference to a credit transaction, characterizes the transaction as one in which the party to whom credit is offered or extended is a natural person, and the money, property, or services which are the subject of the transaction are primarily for personal, family, or household purposes.
 
-(k) The term “credit card” means any card, plate, coupon book or other credit device existing for the purpose of obtaining money, property, labor, or services on credit.
+(j) The terms “open end credit plan” and “open end consumer credit plan” mean a plan under which the creditor reasonably contemplates repeated transactions, which prescribes the terms of such transactions, and which provides for a finance charge which may be computed from time to time on the outstanding unpaid balance. A credit plan or open end consumer credit plan which is an open end credit plan or open end consumer credit plan within the meaning of the preceding sentence is an open end credit plan or open end consumer credit plan even if credit information is verified from time to time.
 
-(<i>l</i>) The term “accepted credit card” means any credit card which the cardholder has requested and received or has signed or has used, or authorized another to use, for the purpose of obtaining money, property, labor, or services on credit.
+(k) The term “adequate notice,” as used in section 1643 of this title, means a printed notice to a cardholder which sets forth the pertinent facts clearly and conspicuously so that a person against whom it is to operate could reasonably be expected to have noticed it and understood its meaning. Such notice may be given to a cardholder by printing the notice on any credit card, or on each periodic statement of account, issued to the cardholder, or by any other means reasonably assuring the receipt thereof by the cardholder.
 
-(m) The term “cardholder” means any person to whom a credit card is issued or any person who has agreed with the card issuer to pay obligations arising from the issuance of a credit card to another person.
+(<i>l</i>) The term “credit card” means any card, plate, coupon book or other credit device existing for the purpose of obtaining money, property, labor, or services on credit.
 
-(n) The term “card issuer” means any person who issues a credit card, or the agent of such person with respect to such card.
+(m) The term “accepted credit card” means any credit card which the cardholder has requested and received or has signed or has used, or authorized another to use, for the purpose of obtaining money, property, labor, or services on credit.
 
-(<i>o</i>) The term “unauthorized use,” as used in section 1643 of this title, means a use of a credit card by a person other than the cardholder who does not have actual, implied, or apparent authority for such use and from which the cardholder receives no benefit.
+(n) The term “cardholder” means any person to whom a credit card is issued or any person who has agreed with the card issuer to pay obligations arising from the issuance of a credit card to another person.
 
-(p) The term “discount” as used in section 1666f of this title means a reduction made from the regular price. The term “discount” as used in section 1666f of this title shall not mean a surcharge.
+(<i>o</i>) The term “card issuer” means any person who issues a credit card, or the agent of such person with respect to such card.
 
-(q) The term “surcharge” as used in this section and section 1666f of this title means any means of increasing the regular price to a cardholder which is not imposed upon customers paying by cash, check, or similar means.”
+(p) The term “unauthorized use,” as used in section 1643 of this title, means a use of a credit card by a person other than the cardholder who does not have actual, implied, or apparent authority for such use and from which the cardholder receives no benefit.
 
-(r) The term “State” refers to any State, the Commonwealth of Puerto Rico, the District of Columbia, and any territory or possession of the United States.
+(q) The term “discount” as used in section 1666f of this title means a reduction made from the regular price. The term “discount” as used in section 1666f of this title shall not mean a surcharge.
 
-(s) The term “agricultural purposes” includes the production, harvest, exhibition, marketing, transportation, processing, or manufacture of agricultural products by a natural person who cultivates, plants, propagates, or nurtures those agricultural products, including but not limited to the acquisition of farmland, real property with a farm residence, and personal property and services used primarily in farming.
+(r) The term “surcharge” as used in this section and section 1666f of this title means any means of increasing the regular price to a cardholder which is not imposed upon customers paying by cash, check, or similar means.”
 
-(t) The term “agricultural products” includes agricultural, horticultural, viticultural, and dairy products, livestock, wildlife, poultry, bees, forest products, fish and shellfish, and any products thereof, including processed and manufactured products, and any and all products raised or produced on farms and any processed or manufactured products thereof.
+(s) The term “State” refers to any State, the Commonwealth of Puerto Rico, the District of Columbia, and any territory or possession of the United States.
 
-(u) The term “material disclosures” means the disclosure, as required by this subchapter, of the annual percentage rate, the method of determining the finance charge and the balance upon which a finance charge will be imposed, the amount of the finance charge, the amount to be financed, the total of payments, the number and amount of payments, the due dates or periods of payments scheduled to repay the indebtedness, and the disclosures required by section 1639(a) of this title.
+(t) The term “agricultural purposes” includes the production, harvest, exhibition, marketing, transportation, processing, or manufacture of agricultural products by a natural person who cultivates, plants, propagates, or nurtures those agricultural products, including but not limited to the acquisition of farmland, real property with a farm residence, and personal property and services used primarily in farming.
 
-(v) The term “dwelling” means a residential structure or mobile home which contains one to four family housing units, or individual units of condominiums or cooperatives.
+(u) The term “agricultural products” includes agricultural, horticultural, viticultural, and dairy products, livestock, wildlife, poultry, bees, forest products, fish and shellfish, and any products thereof, including processed and manufactured products, and any and all products raised or produced on farms and any processed or manufactured products thereof.
 
-(w) The term “residential mortgage transaction” means a transaction in which a mortgage, deed of trust, purchase money security interest arising under an installment sales contract, or equivalent consensual security interest is created or retained against the consumer's dwelling to finance the acquisition or initial construction of such dwelling.
+(v) The term “material disclosures” means the disclosure, as required by this subchapter, of the annual percentage rate, the method of determining the finance charge and the balance upon which a finance charge will be imposed, the amount of the finance charge, the amount to be financed, the total of payments, the number and amount of payments, the due dates or periods of payments scheduled to repay the indebtedness, and the disclosures required by section 1639(a) of this title.
 
-(x) As used in this section and section 1666f of this title, the term “regular price” means the tag or posted price charged for the property or service if a single price is tagged or posted, or the price charged for the property or service when payment is made by use of an open-end credit plan or a credit card if either (1) no price is tagged or posted, or (2) two prices are taggedor posted, one of which is charged when payment is made by use of an open-end credit plan or a credit card and the other when payment is made by use of cash, check, or similar means. For purposes of this definition, payment by check, draft, or other negotiable instrument which may result in the debiting of an open-end credit plan or a credit cardholder's open-end account shall not be considered payment made by use of the plan or the account.
+(w) The term “dwelling” means a residential structure or mobile home which contains one to four family housing units, or individual units of condominiums or cooperatives.
 
-(y) Any reference to any requirement imposed under this subchapter or any provision thereof includes reference to the regulations of the Board under this subchapter or the provision thereof in question.
+(x) The term “residential mortgage transaction” means a transaction in which a mortgage, deed of trust, purchase money security interest arising under an installment sales contract, or equivalent consensual security interest is created or retained against the consumer's dwelling to finance the acquisition or initial construction of such dwelling.
 
-(z) The disclosure of an amount or percentage which is greater than the amount or percentage required to be disclosed under this subchapter does not in itself constitute a violation of this subchapter.
+(y) As used in this section and section 1666f of this title, the term “regular price” means the tag or posted price charged for the property or service if a single price is tagged or posted, or the price charged for the property or service when payment is made by use of an open-end credit plan or a credit card if either (1) no price is tagged or posted, or (2) two prices are tagged or posted, one of which is charged when payment is made by use of an open-end credit plan or a credit card and the other when payment is made by use of cash, check, or similar means. For purposes of this definition, payment by check, draft, or other negotiable instrument which may result in the debiting of an open-end credit plan or a credit cardholder's open-end account shall not be considered payment made by use of the plan or the account.
 
-(aa)(1) A mortgage referred to in this subsection means a consumer credit transaction that is secured by the consumer's principal dwelling, other than a residential mortgage transaction, a reverse mortgage transaction, or a transaction under an open end credit plan, if—
+(z) Any reference to any requirement imposed under this subchapter or any provision thereof includes reference to the regulations of the Bureau under this subchapter or the provision thereof in question.
+
+(aa) The disclosure of an amount or percentage which is greater than the amount or percentage required to be disclosed under this subchapter does not in itself constitute a violation of this subchapter.
+
+(bb)(1) A mortgage referred to in this subsection means a consumer credit transaction that is secured by the consumer's principal dwelling, other than a residential mortgage transaction, a reverse mortgage transaction, or a transaction under an open end credit plan, if—
 
 &emsp;(A) the annual percentage rate at consummation of the transaction will exceed by more than 10 percentage points the yield on Treasury securities having comparable periods of maturity on the fifteenth day of the month immediately preceding the month in which the application for the extension of credit is received by the creditor; or
 
@@ -62,7 +66,7 @@
 
 &emsp;&emsp;(ii) $400.
 
-(2)(A) After the 2-year period beginning on the effective date of the regulations promulgated under section 155 of the Riegle Community Development and Regulatory Improvement Act of 1994, and no more frequently than biennially after the first increase or decrease under this subparagraph, the Board may by regulation increase or decrease the number of percentage points specified in paragraph (1)(A), if the Board determines that the increase or decrease is—
+(2)(A) After the 2-year period beginning on the effective date of the regulations promulgated under section 155 of the Riegle Community Development and Regulatory Improvement Act of 1994, and no more frequently than bienniallyafter the first increase or decrease under this subparagraph, the Bureau may by regulation increase or decrease the number of percentage points specified in paragraph (1)(A), if the Bureau determines that the increase or decrease is—
 
 &emsp;(i) consistent with the consumer protections against abusive lending provided by the amendments made by subtitle B of title I of the Riegle Community Development and Regulatory Improvement Act of 1994; and
 
@@ -74,7 +78,7 @@
 
 &emsp;(ii) greater than 12 percentage points.
 
-(C) In determining whether to increase or decrease the number of percentage points referred to in subparagraph (A), the Board shall consult with representatives of consumers, including low-income consumers, and lenders.
+(C) In determining whether to increase or decrease the number of percentage points referred to in subparagraph (A), the Bureau shall consult with representatives of consumers, including low-income consumers, and lenders.
 
 (3) The amount specified in paragraph (1)(B)(ii) shall be adjusted annually on January 1 by the annual percentage change in the Consumer Price Index, as reported on June 1 of the year preceding such adjustment.
 
@@ -92,11 +96,11 @@
 
 &emsp;&emsp;(iii) the charge is paid to a third party unaffiliated with the creditor; and
 
-&emsp;(D) such other charges as the Board determines to be appropriate.
+&emsp;(D) such other charges as the Bureau determines to be appropriate.
 
 (5) This subsection shall not be construed to limit the rate of interest or the finance charge that a person may charge a consumer for any extension of credit.
 
-(bb) The term “reverse mortgage transaction” means a nonrecourse transaction in which a mortgage, deed of trust, or equivalent consensual security interest is created against the consumer's principal dwelling—
+(cc) The term “reverse mortgage transaction” means a nonrecourse transaction in which a mortgage, deed of trust, or equivalent consensual security interest is created against the consumer's principal dwelling—
 
 &emsp;(1) securing one or more advances; and
 
@@ -112,19 +116,7 @@
 
 #### Amendment of Section
 
-<i>Pub. L. 111–203, title X, §§1100A(1), (2), 1100H, July 21, 2010, 124 Stat. 2107, 2113, provided that, effective on the designated transfer date, this section is amended—</i>
-
-<i>(1) by redesignating subsections (b) through (bb) as subsections (c) through (cc), respectively;</i>
-
-<i>(2) by inserting after subsection (a) the following:</i>
-
-<i>“(b)</i>
-
-<i>Bureau</i>.—<i>The term ‘Bureau’ means the Bureau of Consumer Financial Protection.”; and</i>
-
-<i>(3) by striking “Board” each place that term appears and inserting “Bureau”.</i>
-
-<i>Pub. L. 111–203, title XIV, §§1400(c), 1401, 1431, July 21, 2010, 124 Stat. 2136, 2137, 2157, provided that, effective on the date on which final regulations implementing that amendment</i><i>take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, this section is amended—</i>
+<i>Pub. L. 111–203, title XIV, §§1400(c), 1401, 1431, July 21, 2010, 124 Stat. 2136, 2137, 2157, provided that, effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, this section is amended—</i>
 
 <i>(1) in subsec. (aa), by striking all that precedes paragraph (2) and inserting the following:</i>
 
@@ -156,7 +148,7 @@
 
 &emsp;&emsp;<i>“(B)</i>
 
-<i>Introductory rates taken into account</i>.—<i>For purposes of subparagraph (A)(i), the annual percentage rate of interest shall be determined based on the following interest rate:</i>
+<i>Introductory rates taken into account</i>.—<i>For purposes of subparagraph (A)(i), the an</i><i>nual percentage rate of interest shall be determined based on the following interest rate:</i>
 
 &emsp;&emsp;&emsp;<i>“(i) In the case of a fixed-rate transaction in which the annual percentage rate will not vary during the term of the loan, the interest rate in effect on the date of consummation of the transaction.</i>
 
@@ -226,7 +218,7 @@
 
 &emsp;&emsp;<i>“(C) does not include any person who is (i) not otherwise described in subparagraph (A) or (B) and who performs purely administrative or clerical tasks on behalf of a person who is described in any such subparagraph, or (ii) an employee of a retailer of manufactured homes who is not described in clause (i) or (iii) of subparagraph (A) and who does not advise a consumer on loan terms (including rates, fees, and other costs);</i>
 
-&emsp;&emsp;<i>“(D) does not include a person or entity that only performs real estate brokerage activities and is licensed or registered in accordance with applicable State law, unless such person or entity is compensated by a lender, a mortgage broker, or other mortgage originator or by any agent of such lender, mortgage broker, or other mortgage originator;</i>
+&emsp;&emsp;<i>“(D) does not include a person or entity that only performs real estate brokerage activities and is licensed or registered in accordance with applicable State law, unless such person or entity is compensated by a lender, a mortgage broker, or other mortgage originator or by any</i><i>agent of such lender, mortgage broker, or other mortgage originator;</i>
 
 &emsp;&emsp;<i>“(E) does not include, with respect to a residential mortgage loan, a person, estate, or trust that provides mortgage financing for the sale of 3 properties in any 12-month period to purchasers of such properties, each of which is owned by such person, estate, or trust and serves as security for the loan, provided that such loan—</i>
 
@@ -288,9 +280,13 @@
 
 #### References in Text
 
-The Riegle Community Development and Regulatory Improvement Act of 1994, referred to in subsec. (aa)(2)(A)(i), is Pub. L. 103–325, Sept. 23, 1994, 108 Stat. 2160. Section 155 of the Act is set out below. For classification of subtitle B of title I of the Act, known as the “Home Ownership and Equity Protection Act of 1994”, see Short Title of 1994 Amendment note set out under section 1601 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4701 of Title 12, Banks and Banking, and Tables.
+The Riegle Community Development and Regulatory Improvement Act of 1994, referred to in subsec. (bb)(2)(A)(i), is Pub. L. 103–325, Sept. 23, 1994, 108 Stat. 2160. Section 155 of the Act is set out below. For classification of subtitle B of title I of the Act, known as the “Home Ownership and Equity Protection Act of 1994”, see Short Title of 1994 Amendment note set out under section 1601 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4701 of Title 12, Banks and Banking, and Tables.
 
 #### Amendments
+
+<b>2010</b>—Pub. L. 111–203, §1100A(2), which directed substitution of “Bureau” for “Board” wherever appearing, was executed by making the substitution wherever appearing in subsecs. (g), (z), and (bb)(2)(A), (C), (4)(D), but not in subsec. (c), to reflect the probable intent of Congress.
+
+Subsecs. (b) to (cc). Pub. L. 111–203, §1100(A)(1), added subsec. (b) and redesignated former subsecs. (b) to (bb) as (c) to (cc), respectively.
 
 <b>2009</b>—Subsec. (i). Pub. L. 111–24 substituted “terms ‘open end credit plan’ and ‘open end consumer credit plan’ mean” for “term ‘open end credit plan’ means” in first sentence and inserted “or open end consumer credit plan” after “credit plan” wherever appearing in second sentence.
 
@@ -338,7 +334,7 @@ Amendment by sections 1401 and 1431 of Pub. L. 111–203 effective on the date o
 
 #### Effective Date of 2009 Amendment
 
-Pub. L. 111–24, §3, May 22, 2009, 123 Stat. 1735, provided that: “This Act \[enacting sections 1616, 1651, 1665c to 1665e, 1666i–1, 1666i–2, and 1693<i>l</i>–1 of this title and section 1a–7b of Title 16, Conservation, amending this section and sections 1632, 1637, 1640, 1650, 1666b, 1666c, 1666j, 1681b, 1681j, and 1693m to 1693r of this title, enacting provisions set out as notes under this section and sections 1637, 1638, 1666b, 1681j, and 1693<i>l</i>–1 of this title andsection 5311 of Title 31, Money and Finance, and amending provisions set out as notes under sections 1638 and 1693 of this title\] and the amendments made by this Act shall become effective 9 months after the date of enactment of this Act \[May 22, 2009\], except as otherwise specifically provided in this Act.”
+Pub. L. 111–24, §3, May 22, 2009, 123 Stat. 1735, provided that: “This Act \[enacting sections 1616, 1651, 1665c to 1665e, 1666i–1, 1666i–2, and 1693<i>l</i>–1 of this title and section 1a–7b of Title 16, Conservation, amending this section and sections 1632, 1637, 1640, 1650, 1666b, 1666c, 1666j, 1681b, 1681j, and 1693m to 1693r of this title, enacting provisions set out as notes under this section and sections 1637, 1638, 1666b, 1681j, and 1693<i>l</i>–1 of this title and section 5311 of Title 31, Money and Finance, and amending provisions set out as notes under sections 1638 and 1693 of this title\] and the amendments made by this Act shall become effective 9 months after the date of enactment of this Act \[May 22, 2009\], except as otherwise specifically provided in this Act.”
 
 #### Effective Date of 1982 Amendment
 

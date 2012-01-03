@@ -106,7 +106,7 @@ There are authorized to be appropriated—
 
 #### (iii) Transformational technologies
 
-&emsp;&emsp;&emsp;To the extent permitted under paragraph (1)(E), the Secretary shall announce one prize competition authorized under subparagraph (A)(iii) as soon after December 19, 2007, as is practicable. A prize offered under this clause shall be not less than $10,000,000, paid to the winner in a lump sum, and an additional amount paid to the winner as a match for each dollar of private funding raised by the winner for the hydrogen technology beginning on the date the winner was named. The match shall be provided for 3 years after the date the prize winner is named or until the full amount of the prize has been paid out, whichever occurs first. A prize winner may elect to have the match amount paid to another entity that is continuing the development of the winning technology. The Secretary shall announce the rules for receiving the match in the notice required by paragraph (1)(B)(ii). The Secretary shall award a prize under this clause only when a registered participant has met the objective criteria established for the prize pursuant to subparagraph (C) and announced pursuant to paragraph (1)(B)(ii). Not more than $10,000,000 in Federal funds may be used for the prize award under this clause. The administering entity shall seek to raise $40,000,000 toward the matching award under this clause.
+&emsp;&emsp;&emsp;To the extent permitted under paragraph (1)(E), the Secretary shall announce one prize competition authorized under subparagraph (A)(iii) as soon after December 19, 2007, as is practicable. A prize offered under this clause shall be not less than $10,000,000, paid to the winner in a lump sum, and an additional amount paid to the winner as a match for each dollar of private funding raised by the winner for the hydrogen technology beginning on the date the winner was named. The match shall be provided for 3 years after the date the prize winner is named or until the full amount of the prize has been paid out, whichever occurs first. A prize winner may elect to have the match amount paid to another entity that is continuing the development of the winning technology. The Secretary shall announce the rules for receiving the match in the notice required by paragraph (1)(B)(ii). The Secretary shall award a prize under this clause only when a registered participant has met the objective criteria established for the prize pursuant to subparagraph (C) and announcedpursuant to paragraph (1)(B)(ii). Not more than $10,000,000 in Federal funds may be used for the prize award under this clause. The administering entity shall seek to raise $40,000,000 toward the matching award under this clause.
 
 #### (C) Criteria
 
@@ -120,7 +120,7 @@ There are authorized to be appropriated—
 
 #### (D) Judges
 
-&emsp;&emsp;For each prize competition under this subsection, the Secretary in consultation withthe administering entity shall assemble a panel of qualified judges to select the winner or winners on the basis of the criteria established under subparagraph (C). Judges for each prize competition shall include individuals from outside the Department, including from the private sector. A judge, spouse, minor children, and members of the judge's household may not—
+&emsp;&emsp;For each prize competition under this subsection, the Secretary in consultation with the administering entity shall assemble a panel of qualified judges to select the winner or winners on the basis of the criteria established under subparagraph (C). Judges for each prize competition shall include individuals from outside the Department, including from the private sector. A judge, spouse, minor children, and members of the judge's household may not—
 
 &emsp;&emsp;&emsp;(i) have personal or financial interests in, or be an employee, officer, director, or agent of, any entity that is a registered participant in the prize competition for which he or she will serve as a judge; or
 
@@ -190,7 +190,7 @@ There are authorized to be appropriated—
 
 #### (B) Carryover of funds
 
-&emsp;&emsp;Funds appropriated for prize awards under this subsection shall remain available until expended, and may be transferred, reprogrammed, or expended for other purposes only after the expiration of 10 fiscal years after the fiscal year for which the funds were originally appropriated. No provision in thissubsection permits obligation or payment of funds in violation of section 1341 of title 31 (commonly referred to as the Anti-Deficiency Act).
+&emsp;&emsp;Funds appropriated for prize awards under this subsection shall remain available until expended, and may be transferred, reprogrammed, or expended for other purposes only after the expiration of 10 fiscal years after the fiscal year for which the funds were originally appropriated. No provision in this subsection permits obligation or payment of funds in violation of section 1341 of title 31 (commonly referred to as the Anti-Deficiency Act).
 
 #### (8) Nonsubstitution
 

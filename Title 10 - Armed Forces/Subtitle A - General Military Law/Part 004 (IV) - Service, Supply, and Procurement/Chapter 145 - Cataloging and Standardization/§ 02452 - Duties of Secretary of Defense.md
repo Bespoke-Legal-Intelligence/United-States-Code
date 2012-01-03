@@ -58,7 +58,7 @@ In clause (8), the word “programs” is substituted for the words “authority
 
 #### Regulations Relating to Increases in Prices for Spare Parts and Replacement Equipment
 
-Pub. L. 98–94, title XII, §1215, Sept. 24, 1983, 97 Stat. 688, as amended by Pub. L. 98–525, title XII, §1244, Oct.19, 1984, 98 Stat. 2609; Pub. L. 103–35, title II, §204(b), May 31, 1993, 107 Stat. 102, provided that:
+Pub. L. 98–94, title XII, §1215, Sept. 24, 1983, 97 Stat. 688, as amended by Pub. L. 98–525, title XII, §1244, Oct. 19, 1984, 98 Stat. 2609; Pub. L. 103–35, title II, §204(b), May 31, 1993, 107 Stat. 102, provided that:
 
 “(a) Not later than 120 days after the date of the enactment of this Act \[Sept. 24, 1983\], the Secretary of Defense shall issue regulations which—
 

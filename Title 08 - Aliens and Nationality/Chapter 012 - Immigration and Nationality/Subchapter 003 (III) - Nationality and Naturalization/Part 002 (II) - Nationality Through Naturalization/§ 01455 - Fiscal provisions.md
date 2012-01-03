@@ -26,9 +26,9 @@ This chapter, referred to in subsec. (b), was in the original, “this Act”, m
 
 #### Amendments
 
-2002—Subsec. (c). Pub. L. 107–273 substituted “Except as provided by section 1356(q)(2) of this title or any other law, all” for “All”.
+<b>2002</b>—Subsec. (c). Pub. L. 107–273 substituted “Except as provided by section 1356(q)(2) of this title or any other law, all” for “All”.
 
-1991—Subsec. (a). Pub. L. 102–232, §305(<i>l</i>), made technical correction to Pub. L. 101–649, §407(d)(19)(A)(i). See 1990 Amendment note below.
+<b>1991</b>—Subsec. (a). Pub. L. 102–232, §305(<i>l</i>), made technical correction to Pub. L. 101–649, §407(d)(19)(A)(i). See 1990 Amendment note below.
 
 Subsec. (c). Pub. L. 102–232, §309(b)(14), which provided for a clarifying amendment to subsec. (c), could not be executed, because the phrase which was to be amended did not appear after the amendment by Pub. L. 102–232, §309(a)(1)(A)(ii), see below.
 
@@ -36,7 +36,7 @@ Pub. L. 102–232, §309(a)(1)(A)(ii), amended Pub. L. 100–459. See 1988 Amend
 
 Subsec. (f). Pub. L. 102–232, §102(b)(3), added subsec. (f).
 
-1990—Subsec. (a). Pub. L. 101–649, §407(d)(19)(A)(i), as amended by Pub. L. 102–232, §305(<i>l</i>), substituted “The Attorney General” for “The clerk of court”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–649, §407(d)(19)(A)(i), as amended by Pub. L. 102–232, §305(<i>l</i>), substituted “The Attorney General” for “The clerk of court”.
 
 Subsec. (a)(1). Pub. L. 101–649, §407(c)(20), (d)(19)(A)(ii), (iii), substituted “an application” for “a petition” and “application” for “petition”, struck out “final” before “hearing”, and substituted “the Attorney General” for “the naturalization court”.
 
@@ -50,19 +50,19 @@ Subsec. (f). Pub. L. 101–649, §407(d)(19)(B), struck out subsec. (f) which re
 
 Subsecs. (g) to (i). Pub. L. 101–649, §407(d)(19)(F), redesignated subsecs. (g) to (i) as (c) to (e), respectively.
 
-1988—Subsec. (a). Pub. L. 100–525 substituted “section 9701 of title 31” for “title V of the Independent Offices Appropriation Act, 1952 (65 Stat. 290)” in introductory provisions.
+<b>1988</b>—Subsec. (a). Pub. L. 100–525 substituted “section 9701 of title 31” for “title V of the Independent Offices Appropriation Act, 1952 (65 Stat. 290)” in introductory provisions.
 
 Subsec. (g). Pub. L. 100–459, as amended by Pub. L. 102–232, §309(a)(1)(A)(ii), inserted “except that all such fees collected or paid over on or after October 1, 1988, shall be deposited in the Immigration Examinations Fee Account established under section 1356(m) of this title” after “Treasury of the United States”.
 
-1981—Subsec. (c). Pub. L. 97–116 substituted “$40,000” for “$6,000” in two places.
+<b>1981</b>—Subsec. (c). Pub. L. 97–116 substituted “$40,000” for “$6,000” in two places.
 
-1968—Subsec. (a). Pub. L. 90–609 inserted reference to section 483a of title 31 and substituted provisions making reference to setting of fees by Attorney General for provisions establishing fees of $10 and $5 respectively for covered services.
+<b>1968</b>—Subsec. (a). Pub. L. 90–609 inserted reference to section 483a of title 31 and substituted provisions making reference to setting of fees by Attorney General for provisions establishing fees of $10 and $5 respectively for covered services.
 
 Subsec. (b). Pub. L. 90–609 struck out provisions setting fixed dollar amounts for specified services to be charged, collected, and accounted for by Attorney General.
 
 Subsec. (g). Pub. L. 90–609 substituted fees received under this subchapter for fees received under subsec. (b)of this section as description of fees received from applicants residing in the Virgin Islands of the United States and in Guam which are turned over to the treasury of the Virgin Islands and Guam respectively.
 
-1958—Subsec. (d). Pub. L. 85–508 struck out “in Alaska and” before “in the District Court of the Virgin Islands”.
+<b>1958</b>—Subsec. (d). Pub. L. 85–508 struck out “in Alaska and” before “in the District Court of the Virgin Islands”.
 
 #### Effective Date of 1991 Amendment
 

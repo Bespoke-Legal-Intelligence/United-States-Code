@@ -22,7 +22,7 @@ Section 201 of title II of Pub. L. 93–153 provided that: “This title \[enact
 
 #### Separability
 
-Section 411 of Pub. L. 93–153 provided that: “If any provision of this Act \[enacting this chapter, section 1456a of this title, and section 3512 of Title 44, Public Printing and Documents, amending section 1608 of this title, sections 45, 46, 53, and 56 of Title 15, Commerce and Trade, section 185 of Title 30, Mineral Lands and Mining, section 3502 of Title 44, and section 391a of former Title 46, Shipping, and enacting provisions set out as notes under sections 1608 and 1651 of this title, section 1904 of Title 12, Banks and Banking, section 45 of Title 15, section 791a of Title 16, Conservation, and section 1221 of Title 33, Navigation and Navigable Waters\] or the applicability thereof is held invalid the remainder of this Act shall not be affected thereby.”
+Section 411 of Pub. L. 93–153 provided that: “If any provision of this Act \[enacting this chapter, section 1456a of this title, and section 3512 of Title 44, Public Printing and Documents, amending section 1608 of this title, sections 45, 46, 53, and 56 of Title 15, Commerce and Trade, section 185 of Title 30, Mineral Lands and Mining, section 3502 of Title 44, and section 391a of former Title 46, Shipping, and enacting provisions set out as notes under sections 1608 and 1651 of this title,section 1904 of Title 12, Banks and Banking, section 45 of Title 15, section 791a of Title 16, Conservation, and section 1221 of Title 33, Navigation and Navigable Waters\] or the applicability thereof is held invalid the remainder of this Act shall not be affected thereby.”
 
 #### Presidential Task Force
 

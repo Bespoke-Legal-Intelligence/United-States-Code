@@ -38,7 +38,7 @@ Section 1204(c)(3) of the Financial Institutions Reform, Recovery and Enforcemen
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–550 substituted “may be a factor in determining whether the depository institution is” for “shall be treated as”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–550 substituted “may be a factor in determining whether the depository institution is” for “shall be treated as”.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “minority depository institution”.</i>
 

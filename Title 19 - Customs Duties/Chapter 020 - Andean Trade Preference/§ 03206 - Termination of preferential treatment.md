@@ -6,11 +6,11 @@ No duty-free treatment or other preferential treatment extended to beneficiary c
 
 &emsp;(1) remain in effect—
 
-&emsp;&emsp;(A) with respect to Colombia after February 12, 2011; and
+&emsp;&emsp;(A) with respect to Colombia after July 31, 2013; and
 
 &emsp;&emsp;(B) with respect to Peru after December 31, 2010;
 
-&emsp;(2) remain in effect with respect to Ecuador after June 30, 2009, except that duty-free treatment and other preferential treatment under this chapter shall remain in effect with respect to Ecuador during the period beginning on July 1, 2009, and ending on February 12, 2011, unless the President reviews the criteria set forth in section 3202 of this title, and on orbefore June 30, 2009, reports to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives pursuant to subsection (b) that—
+&emsp;(2) remain in effect with respect to Ecuador after June 30, 2009, except that duty-free treatment and other preferential treatment under this chapter shall remain in effect with respect to Ecuador during the period beginning on July 1, 2009, and ending on July 31, 2013, unless the President reviews the criteria set forth in section 3202 of this title, and on or before June 30, 2009, reports to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives pursuant to subsection (b) that—
 
 &emsp;&emsp;(A) the President has determined that Ecuador does not satisfy the requirements set forth in section 3202(c) of this title for being designated as a beneficiary country; and
 
@@ -30,9 +30,11 @@ On or before June 30, 2009, the President shall make determinations pursuant to 
 
 &emsp;(2) the reasons for such determinations.
 
-(Pub. L. 102–182, title II, §208, Dec. 4, 1991, 105 Stat. 1244; Pub. L. 107–210, div. C, title XXXI, §3104(a), Aug. 6, 2002, 116 Stat. 1034; Pub. L. 109–432, div. D, title VII, §7002, Dec. 20, 2006, 120 Stat. 3194; Pub. L. 110–42, §1, June 30, 2007, 121 Stat. 235; Pub. L. 110–191, §2(a), Feb. 29, 2008, 122 Stat. 646; Pub. L. 110–436, §1(a), Oct. 16, 2008, 122 Stat. 4976; Pub. L. 111–124, §2(a), Dec. 28, 2009, 123 Stat. 3484; Pub. L. 111–344, title II, §201(a), (b), Dec. 29, 2010, 124 Stat. 3616.)
+(Pub. L. 102–182, title II, §208, Dec. 4, 1991, 105 Stat. 1244; Pub. L. 107–210, div. C, title XXXI, §3104(a), Aug. 6, 2002, 116 Stat. 1034; Pub. L. 109–432, div. D, title VII, §7002, Dec. 20, 2006, 120 Stat. 3194; Pub. L. 110–42, §1, June 30, 2007, 121 Stat. 235; Pub. L. 110–191, §2(a), Feb. 29, 2008, 122 Stat. 646; Pub. L. 110–436, §1(a), Oct. 16, 2008, 122 Stat. 4976; Pub. L. 111–124, §2(a), Dec. 28, 2009, 123 Stat. 3484; Pub. L. 111–344, title II, §201(a), (b), Dec. 29, 2010, 124 Stat. 3616; Pub. L. 112–42, title V, §501(a), Oct. 21, 2011, 125 Stat. 494.)
 
 #### Amendments
+
+<b>2011</b>—Subsec. (a)(1)(A), (2). Pub. L. 112–42 substituted “July 31, 2013” for “February 12, 2011”.
 
 <b>2010</b>—Subsec. (a)(1). Pub. L. 111–344, §201(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “remain in effect with respect to Colombia or Peru after December 31, 2010;”.
 
@@ -49,6 +51,10 @@ Pub. L. 110–191 substituted “December 31, 2008” for “February 29, 2008�
 <b>2006</b>—Pub. L. 109–432 designated existing provisions as subsec. (a), inserted heading, substituted “Subject to subsection (b), no” for “No” and “June 30, 2007” for “December 31, 2006”, and added subsec. (b).
 
 <b>2002</b>—Pub. L. 107–210 substituted “Termination of preferential treatment” for “Effective date and termination of duty-free treatment” in section catchline and amended text generally, substituting provisions establishing a termination date of Dec. 31, 2006, for preferential treatment under this chapter for provisions designated subsecs. (a) and (b) establishing an effective date of Dec. 4, 1991, for this chapter and a termination date 10 years later for duty-free treatment under this chapter.
+
+#### Effective Date of 2011 Amendment
+
+Amendment by Pub. L. 112–42 applicable to articles entered on or after the 15th day after Oct. 21, 2011, with retroactive application for certain liquidations and reliquidations, see section 501(c) of Pub. L. 112–42, set out in a note under section 3805 of this title.
 
 #### Retroactive Application for Certain Liquidations and Reliquidations
 

@@ -56,7 +56,7 @@
 
 (e)(1) The advisory committee shall meet at least quarterly.
 
-(2) The Secretary of Labor shall appoint the chairman of the advisory committee who shall serve in that position for no more than 2 consecutive years.
+(2) The Secretary of Labor shall appoint the chairman of the advisory committee who shallserve in that position for no more than 2 consecutive years.
 
 (3)(A) Members of the advisory committee shall serve without compensation.
 
@@ -68,7 +68,7 @@
 
 &emsp;(A) an assessment of the employment and training needs of veterans and their integration into the workforce;
 
-&emsp;(B) an assessment of the outreach activities carried out by the Secretary of Labor to employers with respect to the training and skillsof veterans and the advantages afforded employers by hiring veterans;
+&emsp;(B) an assessment of the outreach activities carried out by the Secretary of Labor to employers with respect to the training and skills of veterans and the advantages afforded employers by hiring veterans;
 
 &emsp;(C) an evaluation of the extent to which the programs and activities of the Department of Labor are meeting such needs;
 
@@ -150,7 +150,7 @@ Amendment by section 10 of Pub. L. 100–323 effective on 60th day after May 20,
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of reporting provisions in subsec. (g) of this section, see section 3003of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 125 of House Document No. 103–7.
+For termination, effective May 15, 2000, of reporting provisions in subsec. (g) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 125 of House Document No. 103–7.
 
 #### Termination of Advisory Committees
 

@@ -58,7 +58,7 @@ A prior section 3123a, Pub. L. 95–113, title XIV, §1408A, as added Pub. L. 10
 
 #### Amendments
 
-2008—Subsec. (c)(4), (5). Pub. L. 110–246, §7103, added pars. (4) and (5).
+<b>2008</b>—Subsec. (c)(4), (5). Pub. L. 110–246, §7103, added pars. (4) and (5).
 
 #### Effective Date of 2008 Amendment
 

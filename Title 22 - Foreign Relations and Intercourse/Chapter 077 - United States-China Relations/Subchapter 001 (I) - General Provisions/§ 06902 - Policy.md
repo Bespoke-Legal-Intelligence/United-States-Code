@@ -10,7 +10,7 @@ It is the policy of the United States—
 
 &emsp;(4) to encourage the Government of the People's Republic of China to afford its workers internationally recognized worker rights;
 
-&emsp;(5) to encourage the Government of the People's Republic of China to protect the humanrights of people within the territory of the People's Republic of China, and to take steps toward protecting such rights, including, but not limited to—
+&emsp;(5) to encourage the Government of the People's Republic of China to protect the human rights of people within the territory of the People's Republic of China, and to take steps toward protecting such rights, including, but not limited to—
 
 &emsp;&emsp;(A) ratifying the International Covenant on Civil and Political Rights;
 

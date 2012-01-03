@@ -10,11 +10,9 @@
 
 &emsp;For purposes of paragraph (1), the term “registration-required bond” means any bond other than a bond which—
 
-&emsp;&emsp;(A) is not of a type offered to the public,
+&emsp;&emsp;(A) is not of a type offered to the public, or
 
-&emsp;&emsp;(B) has a maturity (at issue) of not more than 1 year, or
-
-&emsp;&emsp;(C) is described in section 163(f)(2)(B).
+&emsp;&emsp;(B) has a maturity (at issue) of not more than 1 year.
 
 #### (3) Special rules
 
@@ -96,7 +94,7 @@
 
 #### (E) Safety and soundness requirements for Federal home loan banks
 
-&emsp;&emsp;Clause (iv) of subparagraph (A) shall not apply to any guarantee by a Federal home loan bank unless such bank meets safety and soundness collateral requirements for such guarantees which are at least as stringent as such requirements which apply under regulations applicable to such guarantees by Federal home loan banks as in effect on April 9, 2008.
+&emsp;&emsp;Clause (iv) of subparagraph (A) shall not apply to any guarantee by a Federal home loan bank unless such bank meets safety and soundness collateral requirements for such guarantees which are at least as stringent assuch requirements which apply under regulations applicable to such guarantees by Federal home loan banks as in effect on April 9, 2008.
 
 #### (4) Definitions
 
@@ -350,7 +348,7 @@
 
 &emsp;&emsp;(C) 60 percent of the spendable proceeds of the issue will be spent for such purposes within the 3-year period beginning on such date, and
 
-&emsp;&emsp;(D) 85 percent of the spendable proceeds of the issue will be spent for such purposes within the 5-year period beginning on such date.
+&emsp;&emsp;(D) 85 percent of the spendable proceeds of the issue will be spent for such purposeswithin the 5-year period beginning on such date.
 
 #### (3) Hedge bond
 
@@ -404,7 +402,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the issuer reasonably expected that 85 percent of the spendable proceeds of the issue of which the original bond is a part would be used to carry out the governmental purposes of the issue within the 5-year period beginning on the date the original bonds were issued but did not reasonably expect that 85 percent of such proceeds would be so spent within the 3-year period beginning on such date, and
 
-&emsp;&emsp;&emsp;&emsp;(III) at least 85 percent of the spendable proceeds of the original issue (andall other prior original issues issued to finance the governmental purposes of such issue) were spent before the date the refunding bonds are issued.
+&emsp;&emsp;&emsp;&emsp;(III) at least 85 percent of the spendable proceeds of the original issue (and all other prior original issues issued to finance the governmental purposes of such issue) were spent before the date the refunding bonds are issued.
 
 #### (4) Special rules
 
@@ -424,10 +422,6 @@
 
 (Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2646; amended Pub. L. 100–647, title I, §1013(a)(20)–(22), title V, §5051(a), Nov. 10, 1988, 102 Stat. 3542, 3676; Pub. L. 101–239, title VII, §7651(a), Dec. 19, 1989, 103 Stat. 2383; Pub. L. 104–188, title I, §1704(b)(1), Aug. 20, 1996, 110 Stat. 1878; Pub. L. 109–222, title V, §508(a), (b), (d)(1), (2), May 17, 2006, 120 Stat. 361, 362; Pub. L. 110–289, div. C, title I, §3023(a), (b), July 30, 2008, 122 Stat. 2894, 2895; Pub. L. 111–147, title V, §502(a)(2)(A), Mar. 18, 2010, 124 Stat. 107.)
 
-#### Amendment of Subsection (a)(2)
-
-<i>Pub. L. 111–147, title V, §502(a)(2)(A), (f), Mar. 18, 2010, 124 Stat. 107, 108, provided that, applicable to obligations issued after the date which is 2 years after Mar. 18, 2010, subsection (a)(2) of this section is amended by inserting “or” at the end of subparagraph (A), by substituting a period for “, or” at the end of subparagraph (B), and by striking subparagraph (C).</i>
-
 #### References in Text
 
 The Northwest Power Act, referred to in subsecs. (b)(3)(A)(iii) and (c)(2)(C)(i), probably means the Pacific Northwest Electric Power Planning and Conservation Act, Pub. L. 96–501, Dec. 5, 1980, 94 Stat 2697, which is classified principally to chapter 12H (§839 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 839 of Title 16 and Tables.
@@ -436,7 +430,7 @@ The date of the enactment of the Tax Reform Act of 1984, referred to in subsec. 
 
 The date of the enactment of this clause, referred to in subsec. (b)(3)(A)(iv), is the date of enactment of Pub. L. 110–289, which was approved July 30, 2008.
 
-Section 11(b) of the United States Housing Act of 1937, referred to in subsecs. (b)(3)(C)(i)(I) and (c)(2)(C)(iii), is classified to section 1473i(b) of Title 42, The Public Health and Welfare.
+Section 11(b) of the United States Housing Act of 1937, referred to in subsecs. (b)(3)(C)(i)(I) and\(c)(2)(C)(iii), is classified to section 1473i(b) of Title 42, The Public Health and Welfare.
 
 Section 608(a)(6)(A) of Pub. L. 97–468, referred to in subsec. (c)(2)(C)(ii), is classified to section 1207(a)(6)(A) of Title 45, Railroads.
 
@@ -445,6 +439,8 @@ The date of the enactment of the Tax Reform Act of 1986, referred to in subsec. 
 The date of the enactment of this subsection, referred to in subsec. (d)(6), is the date of enactment of Pub. L. 99–514, which was approved Oct. 22, 1986.
 
 #### Amendments
+
+<b>2010</b>—Subsec. (a)(2). Pub. L. 111–147 inserted “or” at end of subpar. (A), substituted period for “, or” in subpar. (B), and struck out subpar. (C) which read as follows: “is described in section 163(f)(2)(B).”
 
 <b>2008</b>—Subsec. (b)(3)(A)(iv). Pub. L. 110–289, §3023(a), added cl. (iv).
 
@@ -534,7 +530,7 @@ Special rule for refunding bonds.—In the case of a bond issued to refund a bon
 
 &emsp;“(A) if the 3-year period described in section 149(f)(2)(A) of the 1986 Code would (but for this paragraph) expire on or before October 22, 1989, such period shall expire on October 21, 1990, and
 
-&emsp;“(B) if such period expires after October 22, 1989, the portion of the proceeds of the issue of which the refunded bond is a part which is available (on the date of issuance of the refunding issue) to provide loans shall be treated as proceeds of a separate issue (issued after October 21, 1988) for purposes of applying section 149(f) of the 1986 Code.”
+&emsp;“(B) if such period expires after October 22, 1989, the portion of the proceeds of the issue of which the refunded bond is a part which is available (on the date of issuance of the refunding issue) to provide loansshall be treated as proceeds of a separate issue (issued after October 21, 1988) for purposes of applying section 149(f) of the 1986 Code.”
 
 #### Effective Date
 

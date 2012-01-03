@@ -52,7 +52,7 @@ Agency Performance Plans.—Not later than the first Monday in February of each 
 
 &emsp;(7) provide a basis for comparing actual program results with the established performance goals;
 
-&emsp;(8) a description of how the agency will ensure the accuracy and reliability of the data used to measure progress towards its performance goals, including an identification of—
+&emsp;(8) a description of how the agency will ensure the accuracy and reliability of the dataused to measure progress towards its performance goals, including an identification of—
 
 &emsp;&emsp;(A) the means to be used to verify and validate measured values;
 
@@ -372,7 +372,7 @@ Sec. 6. <i>Establishment and Operation of Performance Improvement Council</i>. (
 
 (d) To assist in implementing the policy set forth in section 1 of this order, the Council shall:
 
-(i) develop and submit to the Director, or when appropriate to the President through the Director, at times and in such formats as the Chair may specify, recommendations concerning:
+(i) develop and submit to the Director, or when appropriate to the President through the Director, at timesand in such formats as the Chair may specify, recommendations concerning:
 
 (A) performance management policies and requirements; and
 
@@ -402,7 +402,7 @@ Sec. 6. <i>Establishment and Operation of Performance Improvement Council</i>. (
 
 (e)(i) To the extent permitted by law, the Office of Management and Budget shall provide the funding and administrative support the Council needs, as determined by the Director, to implement this section; and
 
-(ii) the heads of agencies shall provide, as appropriate and to the extent permitted by law, such informationand assistance as the Chair may request to implement this section.
+(ii) the heads of agencies shall provide, as appropriate and to the extent permitted by law, such information and assistance as the Chair may request to implement this section.
 
 Sec. 7. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
 

@@ -18,7 +18,7 @@ This section shall apply with respect to fiscal year 2003 and each succeeding fi
 
 #### (e) Applicability to telecommunications equipment
 
-This section shall not apply with respect to any telecommunications equipment which is subject to coverage under section 112h <sup>1</sup> of this title (relating to the Net Expenses of Telecommunications Revolving Fund).
+This section shall not apply with respect to any telecommunications equipment which issubject to coverage under section 112h <sup>1</sup> of this title (relating to the Net Expenses of Telecommunications Revolving Fund).
 
 (Pub. L. 108–7, div. H, title I, §102, Feb. 20, 2003, 117 Stat. 353; Pub. L. 108–447, div. G, title I, §102(e), Dec. 8, 2004, 118 Stat. 3174.)
 
@@ -32,7 +32,7 @@ Section is from the Legislative Branch Appropriations Act, 2003, which is div. H
 
 #### Amendments
 
-2004—Subsec. (e). Pub. L. 108–447 added subsec. (e).
+<b>2004</b>—Subsec. (e). Pub. L. 108–447 added subsec. (e).
 
 #### Effective Date of 2004 Amendment
 

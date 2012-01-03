@@ -44,13 +44,13 @@ Section 905 of this title, referred to in subsecs. (a) and (b)(1), was repealed 
 
 #### Amendments
 
-1996—Subsec. (b)(2). Pub. L. 104–127 struck out “pursuant to section 903(a) of this title” after “purposes”.
+<b>1996</b>—Subsec. (b)(2). Pub. L. 104–127 struck out “pursuant to section 903(a) of this title” after “purposes”.
 
-1994—Subsecs. (a), (b)(2), (4), (5), (c)(1), (2). Pub. L. 103–354 substituted “Secretary” for “Administrator” wherever appearing.
+<b>1994</b>—Subsecs. (a), (b)(2), (4), (5), (c)(1), (2). Pub. L. 103–354 substituted “Secretary” for “Administrator” wherever appearing.
 
-1990—Subsec. (c). Pub. L. 101–624 added subsec. (c).
+<b>1990</b>—Subsec. (c). Pub. L. 101–624 added subsec. (c).
 
-1973—Pub. L. 93–32 substituted provisions setting out the liabilities of the Rural Electrification and Telephone Revolving Fund and the allowable purposes for which fund assets shall be available, for provisions, that the monies in the rural telephone account should remain on deposit in the Treasury of the United States until disbursed.
+<b>1973</b>—Pub. L. 93–32 substituted provisions setting out the liabilities of the Rural Electrification and Telephone Revolving Fund and the allowable purposes for which fund assets shall be available, for provisions, that the monies in the rural telephone account should remain on deposit in the Treasury of the United States until disbursed.
 
 #### Effective Date of 1973 Amendment
 

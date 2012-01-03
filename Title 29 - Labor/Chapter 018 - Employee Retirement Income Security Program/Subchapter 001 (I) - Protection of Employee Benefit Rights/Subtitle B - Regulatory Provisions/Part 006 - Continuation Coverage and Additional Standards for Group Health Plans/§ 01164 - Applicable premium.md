@@ -20,7 +20,7 @@ For purposes of this part—
 
 #### (B) Determination on basis of past cost
 
-&emsp;&emsp;If an administrator elects to have this subparagraph apply, the applicable premium for any period of continuation coverage of qualified beneficiaries shall be equal to—
+&emsp;&emsp;If an administrator elects to have this subparagraph apply, the applicable premium forany period of continuation coverage of qualified beneficiaries shall be equal to—
 
 &emsp;&emsp;&emsp;(i) the cost to the plan for similarly situated beneficiaries for the same period occurring during the preceding determination period under paragraph (3), adjusted by
 

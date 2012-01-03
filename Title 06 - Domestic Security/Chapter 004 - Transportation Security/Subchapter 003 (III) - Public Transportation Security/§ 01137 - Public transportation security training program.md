@@ -16,7 +16,7 @@ The Secretary shall develop the interim final and final regulations under subsec
 
 #### (c) Program elements
 
-The interim final and final regulations developed under subsection (a) shall require securitytraining programs to include, at a minimum, elements to address the following:
+The interim final and final regulations developed under subsection (a) shall require security training programs to include, at a minimum, elements to address the following:
 
 &emsp;(1) Determination of the seriousness of any occurrence or threat.
 
@@ -28,7 +28,7 @@ The interim final and final regulations developed under subsection (a) shall req
 
 &emsp;(5) Evacuation procedures for passengers and employees, including individuals with disabilities and the elderly.
 
-&emsp;(6) Training related to behavioral and psychological understanding of, and responses to, terrorist incidents, including the ability to cope with hijacker behavior, and passenger responses.
+&emsp;(6) Training related to behavioral and psychological understanding of, and responses to,terrorist incidents, including the ability to cope with hijacker behavior, and passenger responses.
 
 &emsp;(7) Live situational training exercises regarding various threat conditions, including tunnel evacuation procedures.
 

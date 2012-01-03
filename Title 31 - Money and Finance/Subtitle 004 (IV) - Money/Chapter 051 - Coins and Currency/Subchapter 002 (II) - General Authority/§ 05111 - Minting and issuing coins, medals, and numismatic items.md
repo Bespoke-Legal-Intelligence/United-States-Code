@@ -4,7 +4,7 @@
 
 &emsp;(1) shall mint and issue coins described in section 5112 of this title in amounts the Secretary decides are necessary to meet the needs of the United States;
 
-&emsp;(2) may prepare national medal dies and strike national and other medals if it does not interfere with regular minting operations but may not prepare private medal dies;
+&emsp;(2) may prepare national medal dies and strike national and other medals if it does notinterfere with regular minting operations but may not prepare private medal dies;
 
 &emsp;(3) may prepare and distribute numismatic items; and
 
@@ -44,7 +44,7 @@ Other rights unaffected.—This paragraph does not alter or annul any right of r
 
 (2) A person knowingly violating an order or license issued or regulation prescribed under paragraph (1) of this subsection, shall be fined not more than $10,000, imprisoned not more than 5 years, or both.
 
-(3) Coins exported, melted, or treated in violation of an order or license issued or regulationprescribed, and metal resulting from the melting or treatment, shall be forfeited to the United States Government. The powers of the Secretary and the remedies available to enforce forfeitures are those provided in part II of subchapter C of chapter 75 of the Internal Revenue Code of 1954 <sup>1</sup> (26 U.S.C. 7321 et seq.).
+(3) Coins exported, melted, or treated in violation of an order or license issued or regulation prescribed, and metal resulting from the melting or treatment, shall be forfeited to the United States Government. The powers of the Secretary and the remedies available to enforce forfeitures are those provided in part II of subchapter C of chapter 75 of the Internal Revenue Code of 1954 <sup>1</sup> (26 U.S.C. 7321 et seq.).
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 980; Pub. L. 100–274, §3, Mar. 31, 1988, 102 Stat. 49; Pub. L. 102–390, title II, §222, Oct. 6, 1992, 106 Stat. 1629.)
 
@@ -158,7 +158,7 @@ The Internal Revenue Code of 1954, referred to in subsec. (d)(3), was redesignat
 
 <b>1992</b>—Subsec. (b). Pub. L. 102–390 inserted “, including the cost of coin bags and pallets” after “distributing the coins” in fourth sentence.
 
-<b>1988</b>—Subsec. (c). Pub. L. 100–274 inserted heading and amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Secretary may makecontracts on conditions the Secretary decides are appropriate and in the public interest to acquire equipment, manufacturing facilities, patents, patent rights, technical knowledge and assistance, and materials necessary to produce rapidly an adequate supply of coins referred to in section 5112(a)(1)–(4) of this title.”
+<b>1988</b>—Subsec. (c). Pub. L. 100–274 inserted heading and amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Secretary may make contracts on conditions the Secretary decides are appropriate and in the public interest to acquire equipment, manufacturing facilities, patents, patent rights, technical knowledge and assistance, and materials necessary to produce rapidly an adequate supply of coins referred to in section 5112(a)(1)–(4) of this title.”
 
 #### Termination of Coinage Profit Fund and Coinage Metal Fund
 
@@ -167,6 +167,10 @@ All assets and liabilities of Coinage Profit Fund and Coinage Metal Fund transfe
 #### Commemorative Medals
 
 Provisions authorizing commemorative medals were contained in the following acts:
+
+Pub. L. 112–76, Dec. 23, 2011, 125 Stat. 1275, recognizing the fallen heroes who perished as a result of the terrorist attacks on the United States on Sept. 11, 2001.
+
+Pub. L. 112–59, Nov. 23, 2011, 125 Stat. 749, recognizing the Montford Point Marines.
 
 Pub. L. 111–254, Oct. 5, 2010, 124 Stat. 2637, recognizing the 100th Infantry Battalion, the 442nd Regimental Combat Team, and the Military Intelligence Service, United States Army, for service during World War II.
 

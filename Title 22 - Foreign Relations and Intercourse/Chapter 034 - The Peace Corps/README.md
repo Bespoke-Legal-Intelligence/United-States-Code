@@ -11,6 +11,15 @@
 | [2505\.](%C2%A7%2002505%20-%20Peace%20Corps%20volunteer%20leaders%3B%20number%3B%20applicability%20of%20chapter%3B%20benefits.md) | Peace Corps volunteer leaders; number; applicability of chapter; benefits. |
 | [2506\.](%C2%A7%2002506%20-%20Peace%20Corps%20employees.md) | Peace Corps employees. |
 | [2507\.](%C2%A7%2002507%20-%20Training%20program.md) | Training program. |
+| [2507a.](%C2%A7%2002507a%20-%20Sexual%20assault%20risk-reduction%20and%20response%20training.md) | Sexual assault risk-reduction and response training. |
+| [2507b.](%C2%A7%2002507b%20-%20Sexual%20assault%20policy.md) | Sexual assault policy. |
+| [2507c.](%C2%A7%2002507c%20-%20Office%20of%20Victim%20Advocacy.md) | Office of Victim Advocacy. |
+| [2507d.](%C2%A7%2002507d%20-%20Establishment%20of%20Sexual%20Assault%20Advisory%20Council.md) | Establishment of Sexual Assault Advisory Council. |
+| [2507e.](%C2%A7%2002507e%20-%20Volunteer%20feedback%20and%20Peace%20Corps%20review.md) | Volunteer feedback and Peace Corps review. |
+| [2507f.](%C2%A7%2002507f%20-%20Establishment%20of%20a%20policy%20on%20stalking.md) | Establishment of a policy on stalking. |
+| [2507g.](%C2%A7%2002507g%20-%20Establishment%20of%20a%20confidentiality%20protection%20policy.md) | Establishment of a confidentiality protection policy. |
+| [2507h.](%C2%A7%2002507h%20-%20Removal%20and%20assessment%20and%20evaluation.md) | Removal and assessment and evaluation. |
+| [2507i.](%C2%A7%2002507i%20-%20Reporting%20requirements.md) | Reporting requirements. |
 | [2508\.](%C2%A7%2002508%20-%20Foreign%20participants%3B%20admission%20into%20the%20United%20States%20as%20nonimmigrants%3B%20removal.md) | Foreign participants; admission into the United States as nonimmigrants; removal. |
 | [2509\.](%C2%A7%2002509%20-%20Presidential%20powers%20and%20authorities.md) | Presidential powers and authorities. |
 | [2510\.](%C2%A7%2002510%20-%20Omitted.md) | Omitted. |
@@ -46,6 +55,15 @@
 - [&sect; 02505 - Peace Corps volunteer leaders; number; applicability of chapter; benefits](%C2%A7%2002505%20-%20Peace%20Corps%20volunteer%20leaders%3B%20number%3B%20applicability%20of%20chapter%3B%20benefits.md)
 - [&sect; 02506 - Peace Corps employees](%C2%A7%2002506%20-%20Peace%20Corps%20employees.md)
 - [&sect; 02507 - Training program](%C2%A7%2002507%20-%20Training%20program.md)
+- [&sect; 02507a - Sexual assault risk-reduction and response training](%C2%A7%2002507a%20-%20Sexual%20assault%20risk-reduction%20and%20response%20training.md)
+- [&sect; 02507b - Sexual assault policy](%C2%A7%2002507b%20-%20Sexual%20assault%20policy.md)
+- [&sect; 02507c - Office of Victim Advocacy](%C2%A7%2002507c%20-%20Office%20of%20Victim%20Advocacy.md)
+- [&sect; 02507d - Establishment of Sexual Assault Advisory Council](%C2%A7%2002507d%20-%20Establishment%20of%20Sexual%20Assault%20Advisory%20Council.md)
+- [&sect; 02507e - Volunteer feedback and Peace Corps review](%C2%A7%2002507e%20-%20Volunteer%20feedback%20and%20Peace%20Corps%20review.md)
+- [&sect; 02507f - Establishment of a policy on stalking](%C2%A7%2002507f%20-%20Establishment%20of%20a%20policy%20on%20stalking.md)
+- [&sect; 02507g - Establishment of a confidentiality protection policy](%C2%A7%2002507g%20-%20Establishment%20of%20a%20confidentiality%20protection%20policy.md)
+- [&sect; 02507h - Removal and assessment and evaluation](%C2%A7%2002507h%20-%20Removal%20and%20assessment%20and%20evaluation.md)
+- [&sect; 02507i - Reporting requirements](%C2%A7%2002507i%20-%20Reporting%20requirements.md)
 - [&sect; 02508 - Foreign participants; admission into the United States as nonimmigrants; removal](%C2%A7%2002508%20-%20Foreign%20participants%3B%20admission%20into%20the%20United%20States%20as%20nonimmigrants%3B%20removal.md)
 - [&sect; 02509 - Presidential powers and authorities](%C2%A7%2002509%20-%20Presidential%20powers%20and%20authorities.md)
 - [&sect; 02510 - Omitted](%C2%A7%2002510%20-%20Omitted.md)

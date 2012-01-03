@@ -50,5 +50,5 @@ Amendment by Pub. L. 105–34 effective on the 1st day of the 1st calendar quart
 
 #### Effective Date of 1971 Amendment
 
-Section 5 of Pub. L. 91–673 provided that: “The amendments made by the first four sections of this Act \[enacting section 5417 of this title and amending this section and sections 5052, 5053, 5401, 5402, 5411, 5412, and 5416 of this title\] shall take effect on the first day of the first calendar month which begins more than 90 days after the date of the enactment of this Act \[Jan. 12, 1971\].”
+Section 5 of Pub. L. 91–673 provided that: “The amendments made by the first four sections of this Act\[enacting section 5417 of this title and amending this section and sections 5052, 5053, 5401, 5402, 5411, 5412, and 5416 of this title\] shall take effect on the first day of the first calendar month which begins more than 90 days after the date of the enactment of this Act \[Jan. 12, 1971\].”
 

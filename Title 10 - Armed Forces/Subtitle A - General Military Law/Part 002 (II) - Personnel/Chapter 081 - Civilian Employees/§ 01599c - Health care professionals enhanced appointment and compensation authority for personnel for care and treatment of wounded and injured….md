@@ -26,7 +26,7 @@ Recruitment of Personnel.—(1) The Secretaries of the military departments shal
 
 (c)
 
-Termination of Authority.—(1) The authority of the Secretary of Defense under subsection (a)(1) to exercise authorities availableunder chapter 74 of title 38 for purposes of the recruitment, employment, and retention of civilian health care professionals for the Department of Defense expires December 31, 2015.
+Termination of Authority.—(1) The authority of the Secretary of Defense under subsection (a)(1) to exercise authorities available under chapter 74 of title 38 for purposes of the recruitment, employment, and retention of civilian health care professionals for the Department of Defense expires December 31, 2015.
 
 (2) The Secretary may not appoint a person to a position of employment under subsection (a)(2) after December 31, 2015.
 
@@ -55,4 +55,8 @@ Subsec. (c)(2). Pub. L. 111–383, §1104(b)(2), substituted “December 31, 201
 Subsec. (a). Pub. L. 110–417, §1107(a), designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (c). Pub. L. 110–417, §1107(b), designated existing provisions as par. (1), substituted “September 30, 2012” for “September 30, 2010”, and added par. (2).
+
+#### Wage Rate Adjustment for Certain Health Care Occupations
+
+Pub. L. 112–10, div. A, title VIII, §8086, Apr. 15, 2011, 125 Stat. 76, provided that: “Notwithstanding any other provision of law or regulation, during the current fiscal year and hereafter, the Secretary of Defense may adjust wage rates for civilian employees hired for certain health care occupations as authorized for the Secretary of Veterans Affairs by section 7455 of title 38, United States Code.”
 

@@ -26,7 +26,7 @@ For the purpose of this section—
 
 #### (3) Life insurance contract
 
-&emsp;A contract of life insurance is a contract to which paragraph (1) applies but which is not ordinarily payable in full during the life of the insured. For purposes of the preceding sentence, a contract shall not fail to be treated as a life insurance contract solely because a qualified long-term care insurance contract is a part of or a rider on such contract.
+&emsp;A contract of life insurance is a contract to which paragraph (1) applies but which is notordinarily payable in full during the life of the insured. For purposes of the preceding sentence, a contract shall not fail to be treated as a life insurance contract solely because a qualified long-term care insurance contract is a part of or a rider on such contract.
 
 #### (c) Exchanges involving foreign persons
 
@@ -48,7 +48,7 @@ Another section 1131(b) of Pub. L. 105–34 enacted section 684 of this title.
 
 <b>2006</b>—Subsec. (a)(1). Pub. L. 109–280, §844(b)(3)(A), which directed amendment by inserting “or for a qualified long-term care insurance contract” before semicolon “at the end”, was executed by making the insertion before “; or” to reflect the probable intent of Congress.
 
-Subsec. (a)(2). Pub. L. 109–280, §844(b)(3)(B), which directed amendment by inserting “, or (C) for a qualifiedlong-term care insurance contract” before semicolon “at the end”, was executed by making the insertion before “; or” to reflect the probable intent of Congress.
+Subsec. (a)(2). Pub. L. 109–280, §844(b)(3)(B), which directed amendment by inserting “, or (C) for a qualified long-term care insurance contract” before semicolon “at the end”, was executed by making the insertion before “; or” to reflect the probable intent of Congress.
 
 Subsec. (a)(3). Pub. L. 109–280, §844(b)(3)(C), inserted “or for a qualified long-term care insurance contract” after “annuity contract”.
 

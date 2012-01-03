@@ -30,7 +30,15 @@ Monthly payment.—Subject to paragraph (2), hazardous duty pay shall be paid on
 
 &emsp;(2)
 
-Proration.—If a member does not satisfy the eligibility requirements specified in paragraph (1), (2), or (3) of subsection (a) for an entire month for receipt of hazardous duty pay, the Secretary concerned may prorate the payment amount to reflect the duration of the member's actual qualifying service during the month.
+Proration.—If a member does not satisfy the eligibility requirements specified in paragraph (1), (2), or (3) of subsection (a) for an entire month for receipt of hazardous duty pay—
+
+&emsp;&emsp;(A) in the case of hazardous duty pay payable under paragraph (1) of subsection (a), the Secretary concerned—
+
+&emsp;&emsp;&emsp;(i) shall prorate the payment amount to reflect the duration of the member's actual qualifying service during the month; or
+
+&emsp;&emsp;&emsp;(ii) in the case of a member who is exposed to hostile fire or an explosion of a hostile explosive device in or for a day or portion of a day, may, at the election of the Secretary, pay the member hazardous duty pay in an amount not to exceed the entire amount of hazardous duty pay that would be payable to the member under such paragraph (1) for the month in which the duty concerned occurs (with the total amount of hazardous duty pay paid the member under this clause in any given month not to exceed such entire amount); and
+
+&emsp;&emsp;(B) in the case of hazardous duty pay payable under paragraph (2) or (3) of subsection (a), the Secretary concerned may prorate the payment amount to reflect the duration of the member's actual qualifying service during the month.
 
 (d)
 
@@ -58,13 +66,17 @@ Prohibition on Variable Rates.—The regulations prescribed to administer this s
 
 (h)
 
-Termination of Authority.—No hazardous duty pay under this section may be paid after December 31, 2011.
+Termination of Authority.—No hazardous duty pay under this section may be paid after December 31, 2012.
 
-(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 172; amended Pub. L. 110–417, \[div. A\], title VI, §618(d), (e), Oct. 14, 2008, 122 Stat. 4486; Pub. L. 111–84, div. A, title VI, §§614(6), 618(b), Oct. 28, 2009, 123 Stat. 2354, 2356; Pub. L. 111–383, div. A, title VI, §614(6), Jan. 7, 2011, 124 Stat. 4237.)
+(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 172; amended Pub. L. 110–417, \[div. A\], title VI, §618(d), (e), Oct. 14, 2008, 122 Stat. 4486; Pub. L. 111–84, div. A, title VI, §§614(6), 618(b), Oct. 28, 2009, 123 Stat. 2354, 2356; Pub. L. 111–383, div. A, title VI, §614(6), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §§614(6), 616(b), Dec. 31, 2011, 125 Stat. 1450, 1451.)
 
 #### Amendments
 
-<b>2011</b>—Subsec. (h). Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
+<b>2011</b>—Subsec. (c)(2). Pub. L. 112–81, §616(b), substituted “receipt of hazardous duty pay—” for “receipt of hazardous duty pay, the Secretary concerned may prorate the payment amount to reflect the duration of the member's actual qualifying service during the month.” and added subpars. (A) and (B).
+
+Subsec. (h). Pub. L. 112–81, §614(6), substituted “December 31, 2012” for “December 31, 2011”.
+
+Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
 
 <b>2009</b>—Subsecs. (c) to (h). Pub. L. 111–84, §618(b), added subsec. (c), redesignated former subsecs. (e) to (i) as (d) to (h), respectively, and struck out former subsecs. (c) and (d), which related to method of payment and reserve component members performing inactive duty training.
 
@@ -74,5 +86,5 @@ Pub. L. 111–84, §614(6), substituted “December 31, 2010” for “December 
 
 <b>2008</b>—Subsec. (c). Pub. L. 110–417, §618(d), substituted “paragraph (1) or (3) of subsection (a)” for “subsection (a)”.
 
-Subsec. (f). Pub. L. 110–417, §618(e), substituted “in connection with determining whether a triggering event has occurred for the provision of hazardous dutypay under subsection (a)(1)” for “in administering subsection (a)” and struck out at end “The regulations prescribed to administer this section shall define the activities that are considered hazardous for purposes of subsection (a)(2).”
+Subsec. (f). Pub. L. 110–417, §618(e), substituted “in connection with determining whether a triggering event has occurred for the provision of hazardous duty pay under subsection (a)(1)” for “in administering subsection (a)” and struck out at end “The regulations prescribed to administer this section shall define the activities that are considered hazardous for purposes of subsection (a)(2).”
 

@@ -16,7 +16,7 @@ The Congress declares that the purposes of this subchapter are to establish seco
 
 #### Amendments
 
-1992—Pub. L. 102–550, §1381(a)(1), substituted “residential” for “home” in introductory provisions.
+<b>1992</b>—Pub. L. 102–550, §1381(a)(1), substituted “residential” for “home” in introductory provisions.
 
 Par. (1). Pub. L. 102–550, §1381(a)(1), substituted “residential” for “home”.
 
@@ -26,19 +26,19 @@ Par. (4). Pub. L. 102–550, §1381(a)(3), (4), added par. (4) and redesignated 
 
 Par. (5). Pub. L. 102–550, §1381(a)(1), (3), redesignated par. (4) as (5) and substituted “residential” for “home”.
 
-1989—Pub. L. 101–73 added pars. (1) to (3), struck out subsecs. (a) and (b), and redesignated subsec. (c) as par. (4). Prior to amendment, subsecs. (a) and (b) related to supplementary assistance to the secondary market and to provision of special assistance, respectively.
+<b>1989</b>—Pub. L. 101–73 added pars. (1) to (3), struck out subsecs. (a) and (b), and redesignated subsec. (c) as par. (4). Prior to amendment, subsecs. (a) and (b) related to supplementary assistance to the secondary market and to provision of special assistance, respectively.
 
-1968—Pub. L. 90–448 struck out provisions which established in the Federal Government a secondary market facility for home mortgages in view of section 1716b of this title which created two separate and distinct corporations.
+<b>1968</b>—Pub. L. 90–448 struck out provisions which established in the Federal Government a secondary market facility for home mortgages in view of section 1716b of this title which created two separate and distinct corporations.
 
-1954—Act Aug. 2, 1954, amended section generally, substituting entirely new provisions for provisions now covered by section 1717 of this title and other sections in this subchapter.
+<b>1954</b>—Act Aug. 2, 1954, amended section generally, substituting entirely new provisions for provisions now covered by section 1717 of this title and other sections in this subchapter.
 
 Subsec. (a)(1)(G). Act June 29, 1954, substituted in first sentence “August 1, 1954” for “July 1, 1954”.
 
-1953—Subsec. (a)(1)(E). Act June 30, 1953, §12, in cl. (2), substituted “principal amount to be paid therefor” for “unpaid principal balance thereof”, and “aggregate principal amount” for “aggregate amount”; and substituted three provisos for former proviso which made such cl. (2) and any terms therein inapplicable to any defense or disaster mortgages as defined in subpar. (G) of par. (1).
+<b>1953</b>—Subsec. (a)(1)(E). Act June 30, 1953, §12, in cl. (2), substituted “principal amount to be paid therefor” for “unpaid principal balance thereof”, and “aggregate principal amount” for “aggregate amount”; and substituted three provisos for former proviso which made such cl. (2) and any terms therein inapplicable to any defense or disaster mortgages as defined in subpar. (G) of par. (1).
 
 Subsec. (a)(1)(G). Act June 30, 1953, §13(a), substituted in first sentence “July 1, 1954” for “July 1, 1953”.
 
-1952—Subsec. (a)(1). Act July 14, 1952, §3(a)(1), authorized the FNMA to purchase Government-insured or guaranteed home mortgages other than defense or disaster mortgages if they are insured after Feb. 29, 1952.
+<b>1952</b>—Subsec. (a)(1). Act July 14, 1952, §3(a)(1), authorized the FNMA to purchase Government-insured or guaranteed home mortgages other than defense or disaster mortgages if they are insured after Feb. 29, 1952.
 
 Subsec. (a)(1)(E). Act July 14, 1952, §3(a)(2), (3), changed the base date from Apr. 30, 1948 to Feb. 29, 1952, and exempted defense or disaster mortgages from the limitation of this subparagraph.
 
@@ -48,11 +48,11 @@ S.J. Res. Apr. 9, 1952, increased the $200,000,000 authorization to $252,000,000
 
 Subsec. (c)(4). Act July 14, 1952, inserted “Guam,” after “District of Columbia”.
 
-1951—Subsec. (a)(1). Act Sept. 1, 1951, §205, inserted reference to subchapter X of this chapter.
+<b>1951</b>—Subsec. (a)(1). Act Sept. 1, 1951, §205, inserted reference to subchapter X of this chapter.
 
 Subsec. (a)(1)(G). Act Sept. 1, 1951, §608(b), inserted proviso.
 
-1950—Act Apr. 20, 1950, §122, substituted “Commissioner” for “Administrator” wherever appearing.
+<b>1950</b>—Act Apr. 20, 1950, §122, substituted “Commissioner” for “Administrator” wherever appearing.
 
 Subsec. (a)(1). Act Apr. 20, 1950, §116(1), (2), inserted “or section 1706c of this title” and first proviso.
 
@@ -62,25 +62,25 @@ Subsec. (a)(1)(F). Act Apr. 20, 1950, §116(4), substituted provision that no lo
 
 Subsec. (a)(1)(G). Act Apr. 20, 1950, §116(5), added par. (1)(G).
 
-1949—Subsec. (a). Act Aug. 8, 1949, inserted reference to subchapter VIII in par. (1), and inserted proviso at end of par. (1)(E).
+<b>1949</b>—Subsec. (a). Act Aug. 8, 1949, inserted reference to subchapter VIII in par. (1), and inserted proviso at end of par. (1)(E).
 
 Subsec. (a)(1)(E). Joint Res. Oct. 25, 1949, struck out proviso and inserted new proviso.
 
-1948—Act July 1, 1948, amended section generally to create a Federal National Mortgage Association with power to purchase, service, or sell insured or guaranteed mortgage, provide for the powers and succession of the Association, and to eliminate the former national mortgage association.
+<b>1948</b>—Act July 1, 1948, amended section generally to create a Federal National Mortgage Association with power to purchase, service, or sell insured or guaranteed mortgage, provide for the powers and succession of the Association, and to eliminate the former national mortgage association.
 
 Subsec. (a)(1). Act Aug. 10, 1948, §§201, 202, substituted “subchapter II or VI of this chapter” for “section 1709 or 1738 of this title”, inserted “after April 30, 1948”, after “or guaranteed”, and substituted “50” for “25” in cl. (2) of par. (1) (E).
 
-1941—Subsec. (a)(2). Act Mar. 28, 1941, substituted “subchapters II and VI” for “subchapter II”.
+<b>1941</b>—Subsec. (a)(2). Act Mar. 28, 1941, substituted “subchapters II and VI” for “subchapter II”.
 
-1939—Subsec. (b). Act June 3, 1939, amended last sentence.
+<b>1939</b>—Subsec. (b). Act June 3, 1939, amended last sentence.
 
 Subsec. (c)(4). Act June 3, 1939, inserted “Alaska, Hawaii or Puerto Rico”.
 
-1938—Subsec. (a). Act Feb. 3, 1938, amended provisions generally, and among other changes, substituted “60 per centum” in subsec. (a)(3), for “80 per centum”.
+<b>1938</b>—Subsec. (a). Act Feb. 3, 1938, amended provisions generally, and among other changes, substituted “60 per centum” in subsec. (a)(3), for “80 per centum”.
 
-Subsec. (d). Act Feb. 3, 1938, substituted “$2,000,000” for “$5,000,000,” and “that at least 25 per centum thereof has been paid in cash,” for “paid in full in cash”, and inserted “or in first mortgages or such other first liens as are described in section 301 (a) hereof, which mortgages or liens shall be taken at such value as the Administrator may determine, not exceeding (except as to mortgages insured under title II of this Act) 60 per centum of the appraised value of the property as of the date of subscription, and that the remainder of the subscription to such capital stock is payable in the same manner and at such time as may be determined by the Administrator: <i>Provided</i>, That no association shall issue notes, bonds, debentures, or other such obligations until such time as such subscriptions are paid in full in cash or Government securities at their par value or in mortgages or other liens as hereinbefore set forth”.
+Subsec. (d). Act Feb. 3, 1938, substituted “$2,000,000” for “$5,000,000,” and “that at least 25 per centum thereof has been paid in cash,” for “paid in full in cash”, and inserted “or in first mortgages or such other first liens as are described in section 301 (a) hereof, which mortgages or liens shall be taken at such value as the Administrator may determine, not exceeding (except as to mortgages insured under title II of this Act) 60 per centum of the appraised value of the property as of the date of subscription, and that the remainder of the subscription to such capital stock is payable in the same manner and at such time as may be determined by the Administrator: <i>Provided</i>, That no association shallissue notes, bonds, debentures, or other such obligations until such time as such subscriptions are paid in full in cash or Government securities at their par value or in mortgages or other liens as hereinbefore set forth”.
 
-1935—Subsec. (d). Act May 28, 1935, substituted “$5,000,000” for “$2,000,000”.
+<b>1935</b>—Subsec. (d). Act May 28, 1935, substituted “$5,000,000” for “$2,000,000”.
 
 #### Effective Date of 1968 Amendment
 

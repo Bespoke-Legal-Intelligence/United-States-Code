@@ -2,7 +2,7 @@
 
 #### (a) Production, removal, and use
 
-(1) No mash, wort, or wash fit for distillation or for the production of distilled spirits shall be made or fermented in any building or on anypremises other than on the bonded premises of a distilled spirits plant duly authorized to produce distilled spirits according to law; and no mash, wort, or wash so made or fermented shall be removed from any such premises before being distilled, except as authorized by the Secretary; and no person other than an authorized distiller shall, by distillation or any other process, produce distilled spirits from any mash, wort, wash, or other material.
+(1) No mash, wort, or wash fit for distillation or for the production of distilled spirits shall be made or fermented in any building or on any premises other than on the bonded premises of a distilled spirits plant duly authorized to produce distilled spirits according to law; and no mash, wort, or wash so made or fermented shall be removed from any such premises before being distilled, except as authorized by the Secretary; and no person other than an authorized distiller shall, by distillation or any other process, produce distilled spirits from any mash, wort, wash, or other material.
 
 (2) Nothing in this subsection shall be construed to apply to—
 

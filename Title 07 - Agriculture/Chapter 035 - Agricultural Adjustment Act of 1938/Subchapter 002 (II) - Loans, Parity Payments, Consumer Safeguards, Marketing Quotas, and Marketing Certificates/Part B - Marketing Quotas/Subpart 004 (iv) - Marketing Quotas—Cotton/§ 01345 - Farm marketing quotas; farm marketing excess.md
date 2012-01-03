@@ -6,11 +6,11 @@ The farm marketing quota for any crop of cotton shall be the actual production o
 
 #### Amendments
 
-1949—Act Oct. 31, 1949, repealed amendatory provisions of act July 3, 1948.
+<b>1949</b>—Act Oct. 31, 1949, repealed amendatory provisions of act July 3, 1948.
 
 Act Aug. 29, 1949, stated what the farm marketing quota shall be and what the farm marketing excess shall be.
 
-1948—Act July 3, 1948, changed conditions which must be determined by Secretary to exist before marketing quotas can be imposed.
+<b>1948</b>—Act July 3, 1948, changed conditions which must be determined by Secretary to exist before marketing quotas can be imposed.
 
 #### Effective Date of 1948 Amendment
 

@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Under a contract under section 1395w–27 of this title and subject to subsections (e), (g), (i), and (<i>l</i>) of this section and section 1395w–28(e)(4) of this title, the Secretary shall make monthly payments under thissection in advance to each Medicare+Choice organization, with respect to coverage of an individual under this part in a Medicare+Choice payment area for a month, in an amount determined as follows:
+&emsp;&emsp;Under a contract under section 1395w–27 of this title and subject to subsections (e), (g), (i), and (<i>l</i>) of this section and section 1395w–28(e)(4) of this title, the Secretary shall make monthly payments under this section in advance to each Medicare+Choice organization, with respect to coverage of an individual under this part in a Medicare+Choice payment area for a month, in an amount determined as follows:
 
 #### (i) Payment before 2006
 
@@ -112,7 +112,7 @@
 
 #### (H) Special rule for end-stage renal disease
 
-&emsp;&emsp;The Secretary shall establish separate rates of payment to a Medicare+Choice organization with respect to classes of individuals determined to have end-stage renal disease and enrolled in a Medicare+Choice plan of the organization. Such rates of payment shall be actuarially equivalent to rates that would have been paid with respect to other enrollees in the MA payment area (or such other area as specified by the Secretary) under the provisions of this section as in effect before December 8, 2003. In accordance with regulations, the Secretary shall provide for the application of the seventh sentence of section 1395rr(b)(7) of this title to payments under this section covering the provision of renal dialysis treatment in the same manner as such sentence applies to composite rate payments described in such sentence. In establishing such rates, the Secretary shall provide for appropriate adjustments to increase each rate to reflect the demonstration rate (including the risk adjustment methodology associated with suchrate) of the social health maintenance organization end-stage renal disease capitation demonstrations (established by section 2355 of the Deficit Reduction Act of 1984, as amended by section 13567(b) of the Omnibus Budget Reconciliation Act of 1993), and shall compute such rates by taking into account such factors as renal treatment modality, age, and the underlying cause of the end-stage renal disease. The Secretary may apply the competitive bidding methodology provided for in this section, with appropriate adjustments to account for the risk adjustment methodology applied to end stage renal disease payments.
+&emsp;&emsp;The Secretary shall establish separate rates of payment to a Medicare+Choice organization with respect to classes of individuals determined to have end-stage renal disease and enrolled in a Medicare+Choice plan of the organization. Such rates of payment shall be actuarially equivalent to rates that would have been paid with respect to other enrollees in the MA payment area (or such other area as specified by the Secretary) under the provisions of this section as in effect before December 8, 2003. In accordance with regulations, the Secretary shall provide for the application of the seventh sentence of section 1395rr(b)(7) of this title to payments under this section covering the provision of renal dialysis treatment in the same manner as such sentence applies to composite rate payments described in such sentence. In establishing such rates, the Secretary shall provide for appropriate adjustments to increase each rate to reflect the demonstration rate (including the risk adjustment methodology associated with such rate) of the social health maintenance organization end-stage renal disease capitation demonstrations (established by section 2355 of the Deficit Reduction Act of 1984, as amended by section 13567(b) of the Omnibus Budget Reconciliation Act of 1993), and shall compute such rates by taking into account such factors as renal treatment modality, age, and the underlying cause of the end-stage renal disease. The Secretary may apply the competitive bidding methodology provided for in this section, with appropriate adjustments to account for the risk adjustment methodology applied to end stage renal disease payments.
 
 #### (2) Adjustment to reflect number of enrollees
 
@@ -208,7 +208,7 @@
 
 #### (i) Initial announcement
 
-&emsp;&emsp;&emsp;The Secretary shall determine, and shall announce (in a manner intended to provide notice to interested parties), not later than the first Monday in April before the calendar year concerned, with respect to each MA payment area, the following:
+&emsp;&emsp;&emsp;The Secretary shall determine, and shall announce (in a manner intended to providenotice to interested parties), not later than the first Monday in April before the calendar year concerned, with respect to each MA payment area, the following:
 
 #### (I) MA capitation rates; MA local area benchmark
 
@@ -250,7 +250,7 @@
 
 #### (1) In general
 
-&emsp;For purposes of this part, subject to paragraphs (6)(C) and (7), each annualMedicare+Choice capitation rate, for a Medicare+Choice payment area that is an MA local area for a contract year consisting of a calendar year, is equal to the largest of the amounts specified in the following subparagraph (A), (B), (C), or (D):
+&emsp;For purposes of this part, subject to paragraphs (6)(C) and (7), each annual Medicare+Choice capitation rate, for a Medicare+Choice payment area that is an MA local area for a contract year consisting of a calendar year, is equal to the largest of the amounts specified in the following subparagraph (A), (B), (C), or (D):
 
 #### (A) Blended capitation rate
 
@@ -396,7 +396,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) the annual area-specific Medicare+�Choice capitation rate for that year for the area under paragraph (3), and
 
-&emsp;&emsp;&emsp;&emsp;(II) the average number of medicare beneficiaries residing in that area in theyear, multiplied by the average of the risk factor weights used to adjust payments under subsection (a)(1)(A) of this section for such beneficiaries in such area; divided by
+&emsp;&emsp;&emsp;&emsp;(II) the average number of medicare beneficiaries residing in that area in the year, multiplied by the average of the risk factor weights used to adjust payments under subsection (a)(1)(A) of this section for such beneficiaries in such area; divided by
 
 &emsp;&emsp;&emsp;(ii) the sum of the products described in clause (i)(II) for all areas for that year.
 
@@ -418,7 +418,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) 66 percent of payments attributable to such services shall be adjusted by the index of the geographic area factors under section 1395w–4(e) of this title used to adjust payment rates for physicians’ services furnished in the payment area, and
 
-&emsp;&emsp;&emsp;&emsp;(II) of the remaining 34 percent of the amount of such payments, 40 percent shall be adjusted by the index described in clause (iii); and
+&emsp;&emsp;&emsp;&emsp;(II) of the remaining 34 percent of the amount of such payments, 40 percentshall be adjusted by the index described in clause (iii); and
 
 &emsp;&emsp;&emsp;(v) the index values shall be computed based only on the beneficiary population who are 65 years of age or older and who are not determined to have end stage renal disease.
 
@@ -492,7 +492,7 @@
 
 #### (B) Budget neutrality adjustment
 
-&emsp;&emsp;In the case of a State requesting an adjustment under this paragraph, the Secretary shall initially (and annually thereafter) adjust the payment rates otherwise established under this section with respect to MA local plans for Medicare+Choice payment areas in the State in a manner so that the aggregate of the payments under this section for such plans in the State shall not exceed the aggregate payments that would have been made under this section for such plans for Medicare+Choice payment areas in the State in the absence of the adjustment under this paragraph.
+&emsp;&emsp;In the case of a State requesting an adjustment under this paragraph, the Secretaryshall initially (and annually thereafter) adjust the payment rates otherwise established under this section with respect to MA local plans for Medicare+Choice payment areas in the State in a manner so that the aggregate of the payments under this section for such plans in the State shall not exceed the aggregate payments that would have been made under this section for such plans for Medicare+Choice payment areas in the State in the absence of the adjustment under this paragraph.
 
 #### (C) Metropolitan based system
 
@@ -586,7 +586,7 @@ In the case of an individual who is receiving inpatient hospital services from a
 
 #### (3) Limitation to organization offering first plan in an area
 
-&emsp;Paragraph (1) shall only apply to payment to the first Medicare+Choice organization that offers a Medicare+Choice plan in each Medicare+Choice payment area, except that if more than one such organization first offerssuch a plan in an area on the same date, paragraph (1) shall apply to payment for such organizations.
+&emsp;Paragraph (1) shall only apply to payment to the first Medicare+Choice organization that offers a Medicare+Choice plan in each Medicare+Choice payment area, except that if more than one such organization first offers such a plan in an area on the same date, paragraph (1) shall apply to payment for such organizations.
 
 #### (4) Construction
 
@@ -658,7 +658,7 @@ For purposes of this part, subject to subsection (<i>o</i>), the term “MA area
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;The numerator described in this clause is an amount equal to the amount by which the demographic rate described insubclause (II) exceeds the risk rate described in subclause (III).
+&emsp;&emsp;&emsp;&emsp;The numerator described in this clause is an amount equal to the amount by which the demographic rate described in subclause (II) exceeds the risk rate described in subclause (III).
 
 #### (II) Demographic rate
 
@@ -680,7 +680,7 @@ For purposes of this part, subject to subsection (<i>o</i>), the term “MA area
 
 &emsp;&emsp;&emsp;&emsp;(II) adjust the risk scores to reflect changes in treatment and coding practices in the fee-for-service sector;
 
-&emsp;&emsp;&emsp;&emsp;(III) adjust the risk scores for differences in coding patterns between Medicare Advantage plans and providers under the original Medicare fee-for-service program under parts A and B to the extent that the Secretary has identified such differences, as required in subsection (a)(1)(C);
+&emsp;&emsp;&emsp;&emsp;(III) adjust the risk scores for differences in coding patterns betweenMedicare Advantage plans and providers under the original Medicare fee-for-service program under parts A and B to the extent that the Secretary has identified such differences, as required in subsection (a)(1)(C);
 
 &emsp;&emsp;&emsp;&emsp;(IV) as necessary, adjust the risk scores for late data submitted by Medicare Advantage organizations;
 
@@ -868,7 +868,7 @@ For purposes of this part, subject to subsection (<i>o</i>), the term “MA area
 
 &emsp;&emsp;&emsp;(i) shall, insofar as data to determine the discharge related amount under section 1395ww(n)(2)(C) of this title for an eligible hospital are not available to the Secretary, use such alternative data and methodology to estimate such discharge related amount as the Secretary determines appropriate; and
 
-&emsp;&emsp;&emsp;(ii) shall, insofar as data to determine the medicare share described in section 1395ww(n)(2)(D) of this title for an eligible hospital are not available to the Secretary, use such alternative data and methodology to estimate such share, which data and methodology may include use of the inpatient-bed-days (or discharges) with respect to an eligible hospital during the appropriate period which are attributable to both individuals for whom payment may be made under part Aor individuals enrolled in an MA plan under a Medicare Advantage organization under this part as a proportion of the estimated total number of patient-bed-days (or discharges) with respect to such hospital during such period.
+&emsp;&emsp;&emsp;(ii) shall, insofar as data to determine the medicare share described in section 1395ww(n)(2)(D) of this title for an eligible hospital are not available to the Secretary, use such alternative data and methodology to estimate such share, which data and methodology may include use of the inpatient-bed-days (or discharges) with respect to an eligible hospital during the appropriate period which are attributable to both individuals for whom payment may be made under part A or individuals enrolled in an MA plan under a Medicare Advantage organization under this part as a proportion of the estimated total number of patient-bed-days (or discharges) with respect to such hospital during such period.
 
 #### (B) Avoiding duplication of payments
 
@@ -1152,11 +1152,9 @@ Application of payment adjustment.—In the case that a qualifying MA organizati
 
 #### References in Text
 
-Parts A and B of this subchapter, referred to in subsecs. (a)(1)(C)(ii)(I), (b)(4), (c)(4)(C), (6)(A), (f), (k)(2)(B)(iv)(III), (<i>l</i>)(3)(A), (4)(C), and (m)(3)(A), (B)(i), (4)(C), are classified to section 1395c et seq. and section 1395j et seq., respectively, of this title.
-
 Subsection (b)(6)(B)(iii), referred to in subsec. (a)(1)(C)(iii)(II), probably means section 1395w–28(b)(6)(B)(iii) of this title. This section does not contain a subsec. (b)(6)(B)(iii).
 
-Section 1395w–24(b)(1)(C)(iv) of this title, referred to in subsec. (a)(1)(E), was redesignated section 1395w–24(b)(1)(C)(v) of this title by Pub. L. 111–148, title III, §3202(b)(1)(B), Mar. 23, 2010, 124 Stat. 454, and subsequently redesignated section 1395w–24(b)(1)(C)(viii) of this title by Pub. L. 111–152, title I, §1102(d)(2), Mar. 30, 2010, 124 Stat. 1045.
+Section 1395w–24(b)(1)(C)(iv) of this title, referred to in subsec. (a)(1)(E), was redesignated section1395w–24(b)(1)(C)(v) of this title by Pub. L. 111–148, title III, §3202(b)(1)(B), Mar. 23, 2010, 124 Stat. 454, and subsequently redesignated section 1395w–24(b)(1)(C)(viii) of this title by Pub. L. 111–152, title I, §1102(d)(2), Mar. 30, 2010, 124 Stat. 1045.
 
 Section 2355 of the Deficit Reduction Act of 1984, as amended by section 13567(b) of the Omnibus Budget Reconciliation Act of 1993, referred to in subsec. (a)(1)(H), is section 2355 of Pub. L. 98–369, div. B, title III, July 18, 1984, 98 Stat. 1103, as amended by section 13567(b) of Pub. L. 103–66, title XIII, Aug. 10, 1993, 107 Stat. 608, which is not classified to the Code.
 
@@ -1432,7 +1430,7 @@ Risk adjustment.—The Secretary shall risk adjust a performance bonus under thi
 
 “(5)
 
-Notification.—The Secretary, in the annual announcement required under subsection (b)(1)(B) for 2014 and each succeeding year, shall notify the Medicare Advantage organization of any performance bonus (including a care coordination and management performance bonus under paragraph (1), a quality performance bonus under paragraph (2), and a quality bonus for new and low enrollment plans under paragraph (3)) that the organization will receive under this subsection with respect to the year. The Secretary shall provide for the publication of the information described in the previous sentence on the Internet website of the Centers for Medicare \& Medicaid Services.”
+Notification.—The Secretary, in the annual announcement required under subsection (b)(1)(B) for 2014 and each succeeding year, shall notify the Medicare Advantage organization of any performance bonus (including a care coordination and management performance bonus under paragraph (1), a quality performance bonus under paragraph (2), and a quality bonus for new and low enrollment plans under paragraph (3)) that the organization will receive under this subsection with respect to the year. The Secretary shall provide for thepublication of the information described in the previous sentence on the Internet website of the Centers for Medicare \& Medicaid Services.”
 
 > See Effective Date of 2010 Amendment note below.
 
@@ -1762,7 +1760,7 @@ Construction.—Subparagraphs (A) and (B) shall not be taken into account in com
 
 “(4)
 
-Plans required to provide notice of changes in plan benefits.—In the case of an organization offering a plan under part C of title XVIII of the Social SecurityAct \[this part\] that revises its submission of the information described in section 1854(a)(1) of such Act (42 U.S.C. 1395w–23(a)(1) \[1395w–24(a)(1)\]) for a plan pursuant to the application of paragraph (2), if such revision results in changes in beneficiary premiums, beneficiary cost-sharing, or benefits under the plan, then by not later than 3 weeks after the date the Secretary approves such submission, the organization offering the plan shall provide each beneficiary enrolled in the plan with written notice of such changes.
+Plans required to provide notice of changes in plan benefits.—In the case of an organization offering a plan under part C of title XVIII of the Social Security Act \[this part\] that revises its submission of the information described in section 1854(a)(1) of such Act (42 U.S.C. 1395w–23(a)(1) \[1395w–24(a)(1)\]) for a plan pursuant to the application of paragraph (2), if such revision results in changes in beneficiary premiums, beneficiary cost-sharing, or benefits under the plan, then by not later than 3 weeks after the date the Secretary approves such submission, the organization offering the plan shall provide each beneficiary enrolled in the plan with written notice of such changes.
 
 “(5)
 
@@ -1916,7 +1914,7 @@ Establishment of Project.—
 
 &emsp;“(1)
 
-In general.—Subject to the succeeding provisions of this subsection, the Secretary of Health and Human Services (in this subchapter \[subchapter A (§§4011–4012) of chapter 2 of subtitle A of title IV of Pub. L. 105–33\] referred to as the ‘Secretary’) shall establish a demonstration project (in this subchapter referred to as the ‘project’) under which payments to Medicare+Choice organizations in medicare paymentareas in which the project is being conducted are determined in accordance with a competitive pricing methodology established under this subchapter.
+In general.—Subject to the succeeding provisions of this subsection, the Secretary of Health and Human Services (in this subchapter \[subchapter A (§§4011–4012) of chapter 2 of subtitle A of title IV of Pub. L. 105–33\] referred to as the ‘Secretary’) shall establish a demonstration project (in this subchapter referred to as the ‘project’) under which payments to Medicare+Choice organizations in medicare payment areas in which the project is being conducted are determined in accordance with a competitive pricing methodology established under this subchapter.
 
 &emsp;“(2)
 
@@ -2050,7 +2048,7 @@ Sunset.—The Competitive Pricing Advisory Committee shall terminate on December
 
 “(b)
 
-Appointment of Area Advisory Committee.—Upon the designation of an area for inclusion in the project, the Secretary shall appoint an area advisory committee, composed of representatives of health plans, providers, and medicare beneficiaries in the area, to advise the Secretary concerning how the project will be implemented in the area. Such advice may include advice concerning the marketing and pricing of plans in the area and other salient factors. The duration of such a committee for an area shall be for the duration of the operation of the project in the area.
+Appointment of Area Advisory Committee.—Upon the designation of an area for inclusion in theproject, the Secretary shall appoint an area advisory committee, composed of representatives of health plans, providers, and medicare beneficiaries in the area, to advise the Secretary concerning how the project will be implemented in the area. Such advice may include advice concerning the marketing and pricing of plans in the area and other salient factors. The duration of such a committee for an area shall be for the duration of the operation of the project in the area.
 
 “(c)
 

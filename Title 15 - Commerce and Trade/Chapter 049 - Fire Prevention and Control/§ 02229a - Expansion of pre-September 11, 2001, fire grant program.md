@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(iv) 30 percent in the fourth year of the grant.
 
-&emsp;(F) Notwithstanding any other provision of law, any firefighter hired with funds providedunder this subsection shall not be discriminated against for, or be prohibited from, engaging in volunteer activities in another jurisdiction during off-duty hours.
+&emsp;(F) Notwithstanding any other provision of law, any firefighter hired with funds provided under this subsection shall not be discriminated against for, or be prohibited from, engaging in volunteer activities in another jurisdiction during off-duty hours.
 
 &emsp;(G) All grants made pursuant to this subsection shall be awarded on a competitive basis through a neutral peer review process.
 

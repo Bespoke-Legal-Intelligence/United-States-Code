@@ -16,7 +16,7 @@ The Secretary shall insure that financial assistance provided under this part wi
 
 &emsp;&emsp;(A) funds will be allocated on the basis of the relative need for weatherization assistance among the low-income persons within such State or area, taking into account appropriate climatic and energy conservation factors; and
 
-&emsp;&emsp;(B) due consideration will be given to the results of periodic evaluations of the projects carried out under this part in light of available information regarding the current and anticipated energy and weatherization needs of low-income persons within the State; and
+&emsp;&emsp;(B) due consideration will be given to the results of periodic evaluations of theprojects carried out under this part in light of available information regarding the current and anticipated energy and weatherization needs of low-income persons within the State; and
 
 &emsp;(3) be terminated or discontinued during the application period only in accordance with policies and procedures consistent with the policies and procedures set forth in section 6868 of this title.
 

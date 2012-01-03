@@ -56,7 +56,7 @@ In this chapter—
 
 &emsp;&emsp;(B) includes a department, agency, or instrumentality of the United States Government, or an authority of a State, political subdivision of a State, or Indian tribe, carrying out an activity described in clause (ii).
 
-&emsp;(5) “imminent hazard” means the existence of a condition relating to hazardous material that presents a substantial likelihood that death, serious illness, severe personal injury, or a substantial endangerment to health, property, or the environment may occur before the reasonably foreseeable completion date of a formal proceeding begun to lessen the risk of that death, illness, injury, or endangerment.
+&emsp;(5) “imminent hazard” means the existence of a condition relating to hazardous material that presents a substantial likelihood that death, serious illness, severe personal injury, or a substantial endangerment to health, property, or the environment may occur before the reasonably foreseeable completion date of aformal proceeding begun to lessen the risk of that death, illness, injury, or endangerment.
 
 &emsp;(6) “Indian tribe” has the same meaning given that term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).
 

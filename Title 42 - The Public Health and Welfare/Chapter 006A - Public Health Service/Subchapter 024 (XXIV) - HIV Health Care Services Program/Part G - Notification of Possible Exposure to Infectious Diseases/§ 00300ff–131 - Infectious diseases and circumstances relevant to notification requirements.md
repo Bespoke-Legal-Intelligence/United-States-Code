@@ -12,7 +12,7 @@ Not later than 180 days after October 30, 2009, the Secretary shall complete the
 
 #### (b) Specification of airborne infectious diseases
 
-The list developed by the Secretary under subsection (a)(1) shall include a specification of those infectious diseases on the list that are routinely transmitted through airborne or aerosolized means.
+The list developed by the Secretary under subsection (a)(1) shall include a specification ofthose infectious diseases on the list that are routinely transmitted through airborne or aerosolized means.
 
 #### (c) Dissemination
 

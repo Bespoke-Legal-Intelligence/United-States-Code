@@ -62,7 +62,7 @@ Section 701 of the Foreign Service Act of 1946, referred to in subsec. (a), whic
 
 Subsecs. (d)(4) to (g). Pub. L. 107–228 repealed Pub. L. 105–277, §2205(a)(3). See 1998 Amendment notes below.
 
-<b>1998</b>—Subsec. (d)(4). Pub. L. 105–277, §2205(a)(3)(B), which directed the redesignation of subsec. (g) as (d)(4),effective Oct. 1, 2002, was repealed by Pub. L. 107–228, effective Sept. 30, 2002.
+<b>1998</b>—Subsec. (d)(4). Pub. L. 105–277, §2205(a)(3)(B), which directed the redesignation of subsec. (g) as (d)(4), effective Oct. 1, 2002, was repealed by Pub. L. 107–228, effective Sept. 30, 2002.
 
 Pub. L. 105–277, §2205(a)(1)(A), redesignated subsec. (d)(4) as (g).
 
@@ -158,7 +158,7 @@ Use of Funds.—(1)(A) Of amounts authorized to be appropriated to the Departmen
 
 “(d)
 
-Jurisdiction and Custody.—The facility constructed under this section and the site of such facility shall be under jurisdiction and in the custody of the Administrator of General Services.
+Jurisdiction and Custody.—The facility constructed under this section and the site of such facilityshall be under jurisdiction and in the custody of the Administrator of General Services.
 
 “(e)
 

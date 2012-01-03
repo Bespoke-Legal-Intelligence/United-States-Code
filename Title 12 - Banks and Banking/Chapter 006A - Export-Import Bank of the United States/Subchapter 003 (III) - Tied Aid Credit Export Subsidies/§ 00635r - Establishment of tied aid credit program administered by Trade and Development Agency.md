@@ -32,9 +32,9 @@ This subchapter, referred to in subsec. (d), was in the original “this Act” 
 
 #### Amendments
 
-1992—Pub. L. 102–549 substituted “Development Agency” for “Development Program” in section catchline and wherever appearing in subsecs. (a), (c), and (d).
+<b>1992</b>—Pub. L. 102–549 substituted “Development Agency” for “Development Program” in section catchline and wherever appearing in subsecs. (a), (c), and (d).
 
-1988—Pub. L. 100–418, §2204(c)(1)(B)(i), in section catchline, substituted reference to program administered by Trade and Development Program for reference to program in Agency for International Development.
+<b>1988</b>—Pub. L. 100–418, §2204(c)(1)(B)(i), in section catchline, substituted reference to program administered by Trade and Development Program for reference to program in Agency for International Development.
 
 Subsec. (a). Pub. L. 100–418, §2204(c)(1)(B)(ii)(I), substituted “Director of the Trade and Development Program shall carry out” for “Administrator of the Agency for International Development shall establish within the Agency”.
 

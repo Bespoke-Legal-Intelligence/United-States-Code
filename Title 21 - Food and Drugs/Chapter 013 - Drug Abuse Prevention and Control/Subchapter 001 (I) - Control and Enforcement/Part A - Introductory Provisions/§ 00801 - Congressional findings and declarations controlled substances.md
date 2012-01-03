@@ -2,7 +2,7 @@
 
 The Congress makes the following findings and declarations:
 
-(1) Many of the drugs included within this subchapter have a useful and legitimate medical purpose and are necessary to maintain the health and general welfare of the American people.
+(1) Many of the drugs included within this subchapter have a useful and legitimate medicalpurpose and are necessary to maintain the health and general welfare of the American people.
 
 (2) The illegal importation, manufacture, distribution, and possession and improper use of controlled substances have a substantial and detrimental effect on the health and general welfare of the American people.
 
@@ -40,7 +40,7 @@ Section 704 of title II of Pub. L. 91–513 provided that:
 
 #### Short Title of 2010 Amendment
 
-Pub. L. 111–273, §1, Oct. 12, 2010, 124 Stat. 2858, provided that: “This Act \[amending sections 822 and 828 ofthis title and enacting provisions set out as a note under section 822 of this title and listed in a table relating to sentencing guidelines set out under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Secure and Responsible Drug Disposal Act of 2010’.”
+Pub. L. 111–273, §1, Oct. 12, 2010, 124 Stat. 2858, provided that: “This Act \[amending sections 822 and 828 of this title and enacting provisions set out as a note under section 822 of this title and listed in a table relating to sentencing guidelines set out under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Secure and Responsible Drug Disposal Act of 2010’.”
 
 Pub. L. 111–268, §1, Oct. 12, 2010, 124 Stat. 2847, provided that: “This Act \[amending sections 830 and 842 of this title and enacting provisions set out as notes under section 830 of this title\] may be cited as the ‘Combat Methamphetamine Enhancement Act of 2010’.”
 
@@ -124,7 +124,7 @@ Pub. L. 99–570, title I, §1201, Oct. 27, 1986, 100 Stat. 3207–13, provided 
 
 Pub. L. 99–570, title I, §1251, Oct. 27, 1986, 100 Stat. 3207–14, provided that: “This subtitle \[subtitle F (§§1251–1253) of title I of Pub. L. 99–570, amending section 848 of this title\] may be cited as the ‘Continuing Drug Enterprises Act of 1986’.”
 
-Pub. L. 99–570, title I, §1301, Oct. 27, 1986, 100 Stat. 3207–15, provided that: “This subtitle \[subtitle G (§§1301, 1302) of title I of Pub. L. 99–570, amending section 960 of this title\] may be cited as the ‘Controlled Substances Import and Export Penalties Enhancement Act of 1986’.”
+Pub. L. 99–570, title I, §1301, Oct. 27, 1986, 100 Stat. 3207–15, provided that: “This subtitle \[subtitle G\(§§1301, 1302) of title I of Pub. L. 99–570, amending section 960 of this title\] may be cited as the ‘Controlled Substances Import and Export Penalties Enhancement Act of 1986’.”
 
 Pub. L. 99–570, title I, §1821, Oct. 27, 1986, 100 Stat. 3207–51, which provided that subtitle O (§§1821–1823) of title I of Pub. L. 99–570, enacting section 857 of this title and provisions set out as a note under section 857 of this title, was to be cited as the “Mail Order Drug Paraphernalia Control Act”, was repealed by Pub. L. 101–647, title XXIV, §2401(d), Nov. 29, 1990, 104 Stat. 4859.
 
@@ -150,7 +150,7 @@ Pub. L. 91–513, in the provisions preceding section 1 immediately following th
 
 Section 100 of title II of Pub. L. 91–513 provided that: “This title \[enacting this subchapter, repealing section 360a of this title, amending sections 321, 331, 333, 334, 360, 372, and 381 of this title, sections 1114 and 1952 of Title 18, Crimes and Criminal Procedure, and section 242 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and sections 321 and 822 of this title\] may be cited as the ‘Controlled Substances Act’.”
 
-For short title and complete classification of title III of Pub. L. 91–513, which enacted subchapter II of thischapter, as the “Controlled Substances Import and Export Act”, see section 1000 of Pub. L. 91–513, set out as a note under section 951 of this title.
+For short title and complete classification of title III of Pub. L. 91–513, which enacted subchapter II of this chapter, as the “Controlled Substances Import and Export Act”, see section 1000 of Pub. L. 91–513, set out as a note under section 951 of this title.
 
 #### Severability
 
@@ -236,7 +236,7 @@ Advisory committee.—Not later than 180 days after the date of the enactment of
 
 &emsp;“(2)
 
-Implementation of plan.—Not later than 180 days after the date on which the advisory committee under paragraph (1) is established, the Secretary, in consultation with the Attorney General, shall commence carrying out the national campaign under such paragraph in accordance with the plan developedunder such paragraph. The campaign may be carried out directly by the Secretary and through grants and contracts.
+Implementation of plan.—Not later than 180 days after the date on which the advisory committee under paragraph (1) is established, the Secretary, in consultation with the Attorney General, shall commence carrying out the national campaign under such paragraph in accordance with the plan developed under such paragraph. The campaign may be carried out directly by the Secretary and through grants and contracts.
 
 “(c)
 
@@ -592,7 +592,7 @@ Section 601 of Pub. L. 91–513, as amended by Pub. L. 92–13, May 14, 1971, 85
 
 “(e)
 
-\[Study and investigation of causes of drug abuse; report to the President and the Congress; termination of Commission\] The Commission shall conduct a comprehensive study and investigation of the causes of drug abuse and their relative significance. The Commission shall submit to the President and the Congress such interim reports as it deems advisable and shall within two years after the date on which funds first become available to carry out this section submit to the President and the Congress a final report which shall contain a detailed statement of its findings and conclusions and also such recommendations forlegislation and administrative actions as it deems appropriate. The Commission shall cease to exist sixty days after the final report is submitted under this subsection.
+\[Study and investigation of causes of drug abuse; report to the President and the Congress; termination of Commission\] The Commission shall conduct a comprehensive study and investigation of the causes of drug abuse and their relative significance. The Commission shall submit to the President and the Congress such interim reports as it deems advisable and shall within two years after the date on which funds first become available to carry out this section submit to the President and the Congress a final report which shall contain a detailed statement of its findings and conclusions and also such recommendations for legislation and administrative actions as it deems appropriate. The Commission shall cease to exist sixty days after the final report is submitted under this subsection.
 
 “(f)
 

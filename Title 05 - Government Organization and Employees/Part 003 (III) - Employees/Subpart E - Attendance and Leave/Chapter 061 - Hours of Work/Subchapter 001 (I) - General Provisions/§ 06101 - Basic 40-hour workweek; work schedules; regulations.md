@@ -64,7 +64,7 @@ In subsection (a), the words “in the departmental and the field services” ar
 
 In subsections (a) and (b), the words “an Executive agency, a military department” are coextensive with and substituted for “the several departments and independent establishments and agencies in the executive branch, including Government-owned or controlled corporations” and “such department, establishment, or agency” in view of the definitions in sections 105 and 102. The words “a military department” are included to preserve the application of the source law. Before enactment of the National Security Act Amendments of 1949 (63 Stat. 578), the Department of the Army, the Department of the Navy, and the Department of the Air Force were Executive departments. The National Security Act Amendments of 1949 established the Department of Defense as an Executive Department including the Department of the Army, the Department of the Navy, and the Department of the Air Force as military departments, not as Executive departments. However, the source law for this section which was in effect in 1949, remained applicable to the Secretaries of the military departments by virtue of section 12(g) of the National Security Act Amendments of 1949 (63 Stat. 591), which is set out in the reviser's note for section 301.
 
-Subsection (d) is added on authority of former sections 901(d) and 2358(a) (as applicable to the Federal Employees Pay Act of 1945, as amended) which are carried into section 5541, and to include individuals employed by the government of the District of Columbia as they are not included in the definition of “employee” in section 2105.
+Subsection (d) is added on authority of former sections 901(d) and 2358(a) (as applicable to the Federal Employees Pay Act of 1945, as amended) which are carried into section 5541, and to include individuals employed by the government of the District of Columbiaas they are not included in the definition of “employee” in section 2105.
 
 Subsection (e) is added on authority of former section 945, which is carried into section 5548. The words “an Executive agency” are substituted for “the executive branch of the Government” to conform to the definition in section 105. Applicability of this section to employees of the General Accounting Office is based on former section 933a.
 
@@ -104,7 +104,7 @@ Oct. 29, 1965, Pub. L. 89–301, §16, 79 Stat. 1123.
 
 \[None.\]
 
-In subsection (a)(4), the words “without regard to the requirements of such paragraph” are omitted as redundant in view of the words “notwithstanding paragraph (3) of this subsection” at the beginning thereof. The words “an Executive agency, a military department” are coextensive with and substituted for “each such department, establishment, or agency” and to conform to subsections (a)(2) and (a)(3). The words “officers” and“officer” are omitted as included in “employees” and “employee”. The word “pay” is substituted for “compensation” to conform to the style of title 5, United States Code.
+In subsection (a)(4), the words “without regard to the requirements of such paragraph” are omitted as redundant in view of the words “notwithstanding paragraph (3) of this subsection” at the beginning thereof. The words “an Executive agency, a military department” are coextensive with and substituted for “each such department, establishment, or agency” and to conform to subsections (a)(2) and (a)(3). The words “officers” and “officer” are omitted as included in “employees” and “employee”. The word “pay” is substituted for “compensation” to conform to the style of title 5, United States Code.
 
 Subsection (b)(1) is added on authority of former sections 901 and 902 of title 5, which are now codified in 5 U.S.C. 5541.
 
@@ -112,11 +112,11 @@ In subsection (b)(2), the words “head of an agency” are substituted for “h
 
 #### Amendments
 
-1978—Subsec. (c). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
+<b>1978</b>—Subsec. (c). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
 
-1975—Subsec. (a)(4). Pub. L. 94–183 substituted “educational” for “education”.
+<b>1975</b>—Subsec. (a)(4). Pub. L. 94–183 substituted “educational” for “education”.
 
-1972—Subsec. (a)(1). Pub. L. 92–392 defined “employee” to include an employee whose pay is fixed and adjusted from time to time under section 5343 or 5349 of this title or by a wage board or similar administrative authority serving the same purpose and exclude certain employees “except as specifically provided under this paragraph”.
+<b>1972</b>—Subsec. (a)(1). Pub. L. 92–392 defined “employee” to include an employee whose pay is fixed and adjusted from time to time under section 5343 or 5349 of this title or by a wage board or similar administrative authority serving the same purpose and exclude certain employees “except as specifically provided under this paragraph”.
 
 #### Termination Date of 1982 Amendment
 
@@ -168,7 +168,7 @@ Sec. 3. For purposes of this Act (other than title IV) \[this note\]—
 
 #### “experimental programs
 
-“Sec. 4. (a)(1) Within 180 days after the effective date of this section, and subject to the requirements of section 302 and the terms of any written agreement referred to in section 302(a), the Commission shall establish a program which provides for the conducting of experiments by the Commission under titles I and II of this Act. Such experimental program shall cover a sufficient number of positions throughout the executive branch, and a sufficient range of worktime alternatives, as to provide an adequate basis on which to evaluate the effectiveness and desirability of permanently maintaining flexible or compressed work schedules within the executive branch.
+“Sec. 4. (a)(1) Within 180 days after the effective date of this section, and subject to the requirements of section 302 and the terms of any written agreement referred to in section 302(a), the Commission shall establish a program which provides for the conducting of experiments by the Commission under titles I and II of this Act. Such experimental program shall cover a sufficient number of positions throughout the executive branch, and a sufficient range of worktime alternatives, as to provide an adequate basis on which toevaluate the effectiveness and desirability of permanently maintaining flexible or compressed work schedules within the executive branch.
 
 “(2) Each agency may conduct one or more experiments under titles I and II of this Act. Such experiments shall be subject to such regulations as the Commission may prescribe under section 305 of this Act.
 
@@ -188,7 +188,7 @@ Sec. 3. For purposes of this Act (other than title IV) \[this note\]—
 
 “(c) The Commission shall provide educational material, and technical aids and assistance, for use by an agency before and during the period such agency is conducting experiments under this Act \[enacting section 5550a of this title and this note\].
 
-“(d) If the head of an agency determines that the implementation of an experimental program referred to in subsection (a) would substantially disrupt the agencyin carrying out its functions, such agency head shall request the Commission to exempt such agency from the requirements of any experiment conducted by the Commission under subsection (a). Such request shall be accompanied by a report detailing the reasons for such determination. The Commission shall exempt an agency from such requirements only if it finds that including the agency within the experiment would not be in the best interest of the public, the Government, or the employees. The filing of such a request with the Commission shall exclude the agency from the experiment until the Commission has made its determination or until 180 days after the date the request is filed, whichever first occurs.
+“(d) If the head of an agency determines that the implementation of an experimental program referred to in subsection (a) would substantially disrupt the agency in carrying out its functions, such agency head shall request the Commission to exempt such agency from the requirements of any experiment conducted by the Commission under subsection (a). Such request shall be accompanied by a report detailing the reasons for such determination. The Commission shall exempt an agency from such requirements only if it finds that including the agency within the experiment would not be in the best interest of the public, the Government, or the employees. The filing of such a request with the Commission shall exclude the agency from the experiment until the Commission has made its determination or until 180 days after the date the request is filed, whichever first occurs.
 
 #### “TITLE I—FLEXIBLE SCHEDULING OF WORK HOURS
 
@@ -262,7 +262,7 @@ Sec. 3. For purposes of this Act (other than title IV) \[this note\]—
 
 #### “credit hours; accumulation and compensation
 
-“Sec. 106. (a) Subject to any limitation prescribed by the Commission or the agency, a full-time employee ona flexible schedule can accumulate not more than 10 credit hours, and a part-time employee can accumulate not more than one-eighth of the hours in such employee's biweekly basic work requirement, for carryover from a biweekly pay period to a succeeding biweekly pay period for credit to the basic work requirement for such period.
+“Sec. 106. (a) Subject to any limitation prescribed by the Commission or the agency, a full-time employee on a flexible schedule can accumulate not more than 10 credit hours, and a part-time employee can accumulate not more than one-eighth of the hours in such employee's biweekly basic work requirement, for carryover from a biweekly pay period to a succeeding biweekly pay period for credit to the basic work requirement for such period.
 
 “(b) Any employee who is on a flexible schedule experiment under this title and who is no longer subject to such an experiment shall be paid at such employee's then current rate of basic pay for—
 
@@ -324,7 +324,7 @@ Sec. 3. For purposes of this Act (other than title IV) \[this note\]—
 
 #### “administration of leave and retirement provisions
 
-“Sec. 301. For purposes of administering sections 6303(a), 6304, 6307(a) and (c), 6323, 6326, and 8339(m) of title 5, United States Code, in the case of an employee who is in any experiment under title I or II, references to a day or workday (or to multiples or parts thereof) contained in such sections shall be considered to be references to 8 hours (or to the respective multiples or parts thereof).
+“Sec. 301. For purposes of administering sections 6303(a), 6304, 6307(a) and (c), 6323, 6326, and 8339(m) of title 5, United States Code, in the case of an employee who is in any experiment under title I or II, referencesto a day or workday (or to multiples or parts thereof) contained in such sections shall be considered to be references to 8 hours (or to the respective multiples or parts thereof).
 
 #### “application of experiments in the case of negotiated contracts
 
@@ -354,7 +354,7 @@ Sec. 3. For purposes of this Act (other than title IV) \[this note\]—
 
 #### “reports
 
-“Sec. 304. Not later than 21/2 years after the effective date of titles I and II of this Act, the Commission shall—
+“Sec. 304. Not later than 2½ years after the effective date of titles I and II of this Act, the Commission shall—
 
 &emsp;“(1) prepare an interim report containing recommendations as to what, if any, legislative or administrative action shall be taken based upon the results of experiments conducted under this Act \[enacting section 5550a of this title and this note\], and
 

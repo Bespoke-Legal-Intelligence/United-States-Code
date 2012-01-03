@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall award grants under this section to carry out the competitive grant program established under section 399c(d) <sup>1</sup> of title21, pursuant to any memoranda of understanding entered into under such section.
+The Secretary shall award grants under this section to carry out the competitive grant program established under section 399c(d) <sup>1</sup> of title 21, pursuant to any memoranda of understanding entered into under such section.
 
 #### (b) Integrated approach
 
@@ -16,7 +16,7 @@ In awarding grants under this section, the Secretary shall give priority to proj
 
 #### (1) In general
 
-&emsp;The Secretary shall coordinate implementation of the grant program under this section with the National Integrated Food Safety Initiative.
+&emsp;The Secretary shall coordinate implementation of the grant program under this sectionwith the National Integrated Food Safety Initiative.
 
 #### (2) Interaction
 
@@ -94,7 +94,7 @@ Section 399c(d) of title 21, referred to in subsec. (a), was in the original “
 
 #### Prior Provisions
 
-A prior section 7625, Pub. L. 105–185, title IV, §405, June 23, 1998, 112 Stat. 572; Pub. L. 107–171, title VII, §§7130, 7207(b), May 13, 2002, 116 Stat. 435, 440, related to the Thomas Jefferson Initiative for Crop Diversification, prior to repeal by Pub. L. 110–234, title VII, §7305, May 22, 2008, 122 Stat. 1242, and Pub. L. 110–246, §4(a), title VII, §7305, June 18, 2008, 122 Stat. 1664, 2003. Repealof prior section 7625 and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008.
+A prior section 7625, Pub. L. 105–185, title IV, §405, June 23, 1998, 112 Stat. 572; Pub. L. 107–171, title VII, §§7130, 7207(b), May 13, 2002, 116 Stat. 435, 440, related to the Thomas Jefferson Initiative for Crop Diversification, prior to repeal by Pub. L. 110–234, title VII, §7305, May 22, 2008, 122 Stat. 1242, and Pub. L. 110–246, §4(a), title VII, §7305, June 18, 2008, 122 Stat. 1664, 2003. Repeal of prior section 7625 and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -74,7 +74,7 @@ The toxic chemicals subject to the requirements of this section are those chemic
 
 #### (4) Effective date
 
-&emsp;Any revision made on or after January 1 and before December 1 of any calendar year shall take effect beginning with the next calendar year. Any revision made on or after December 1 of any calendar year and before January 1 of the next calender <sup>1</sup> year shall take effect beginning with the calendar year following such next calendar year.
+&emsp;Any revision made on or after January 1 and before December 1 of any calendar year shalltake effect beginning with the next calendar year. Any revision made on or after December 1 of any calendar year and before January 1 of the next calender <sup>1</sup> year shall take effect beginning with the calendar year following such next calendar year.
 
 #### (e) Petitions
 
@@ -174,7 +174,7 @@ The release forms required under this section are intended to provide informatio
 
 &emsp;&emsp;(A) The extent to which information relating to the proposed modification provided on the toxic chemical release forms has been used by the Administrator or other agencies of the Federal Government, States, local governments, health professionals, and the public.
 
-&emsp;&emsp;(B) The extent to which the information is (i) readily available to potential users fromother sources, such as State reporting programs, and (ii) provided to the Administrator under another Federal law or through a State program.
+&emsp;&emsp;(B) The extent to which the information is (i) readily available to potential users from other sources, such as State reporting programs, and (ii) provided to the Administrator under another Federal law or through a State program.
 
 &emsp;&emsp;(C) The extent to which the modification would impose additional and unreasonable burdens on facilities subject to the reporting requirements under this section.
 
@@ -216,7 +216,7 @@ Not later than June 30, 1991, the Comptroller General, in consultation with the 
 
 #### (1) In general
 
-&emsp;The Administrator shall arrange for a mass balance study to be carried out by the National Academy of Sciences using mass balance information collected by the Administrator under paragraph (3). The Administrator shall submit to Congress a report on such study no later than 5 years after October 17, 1986.
+&emsp;The Administrator shall arrange for a mass balance study to be carried out by the National Academy of Sciences using mass balance information collected by the Administrator under paragraph (3). The Administratorshall submit to Congress a report on such study no later than 5 years after October 17, 1986.
 
 #### (2) Purposes
 
@@ -234,7 +234,7 @@ Not later than June 30, 1991, the Comptroller General, in consultation with the 
 
 &emsp;(A) The Administrator shall acquire available mass balance information from States which currently conduct (or during the 5 years after October 17, 1986 initiate) a mass balance-oriented annual quantity toxic chemical release program. If information from such States provides an inadequate representation of industry classes and categories to carry out the purposes of the study, the Administrator also may acquire mass balance information necessary for the study from a representative number of facilities in other States.
 
-&emsp;(B) Any information acquired under this section shall be available to the public, except that upon a showing satisfactory to the Administrator by any person that the information (or a particular part thereof) to which the Administrator or any officer, employee, or representative has access under this section if made public would divulge information entitled to protection under section 1905 of title 18, such information or part shall be considered confidential in accordance with the purposesof that section, except that such information or part may be disclosed to other officers, employees, or authorized representatives of the United States concerned with carrying out this section.
+&emsp;(B) Any information acquired under this section shall be available to the public, except that upon a showing satisfactory to the Administrator by any person that the information (or a particular part thereof) to which the Administrator or any officer, employee, or representative has access under this section if made public would divulge information entitled to protection under section 1905 of title 18, such information or part shall be considered confidential in accordance with the purposes of that section, except that such information or part may be disclosed to other officers, employees, or authorized representatives of the United States concerned with carrying out this section.
 
 &emsp;(C) The Administrator may promulgate regulations prescribing procedures for collecting mass balance information under this paragraph.
 

@@ -2,7 +2,7 @@
 
 #### (a) Analyses, data, information, reports, and summaries; objectives of disclosure
 
-The Administrator shall make public, on a continuing basis, any statistical and economic analyses, data, information, and whatever reports and summaries are necessary to keep the public fully and currently informed as to the nature, extent, and projected duration of shortages of energy supplies, the impact of such shortages, and the steps being taken to minimize such impacts.
+The Administrator shall make public, on a continuing basis, any statistical and economicanalyses, data, information, and whatever reports and summaries are necessary to keep the public fully and currently informed as to the nature, extent, and projected duration of shortages of energy supplies, the impact of such shortages, and the steps being taken to minimize such impacts.
 
 #### (b) Freedom of Information Act applicable; disclosure of confidential information or trade secrets; disclosure of matter included in public annual reports to Securities and Exchange Commission and matter excepted from such disclosure
 

@@ -34,7 +34,7 @@ In this part:
 
 #### (7) Small producer
 
-&emsp;The term “small producer” means an entity organized under the laws of the United Stateswith production levels of less than 1,000 barrels per day of oil equivalent.
+&emsp;The term “small producer” means an entity organized under the laws of the United States with production levels of less than 1,000 barrels per day of oil equivalent.
 
 #### (8) Ultra-deepwater
 

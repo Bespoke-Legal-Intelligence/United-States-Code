@@ -44,7 +44,7 @@ To enable the Council to exercise its powers, functions, and duties under this c
 
 #### References in Text
 
-The Full Employment and Balanced Growth Act of 1978, referred to in subsec. (e), is Pub. L. 95–523, Oct. 27,1978, 92 Stat. 1887, as amended, which is classified principally to chapter 58 (§3101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+The Full Employment and Balanced Growth Act of 1978, referred to in subsec. (e), is Pub. L. 95–523, Oct. 27, 1978, 92 Stat. 1887, as amended, which is classified principally to chapter 58 (§3101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 #### Codification
 
@@ -76,7 +76,7 @@ Certain functions of Council of Economic Advisers transferred to Chairman, see 1
 
 #### Termination of Advisory Committees
 
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of acommittee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### <b>REORGANIZATION PLAN NO. 9 OF 1953</b>
 
@@ -110,7 +110,7 @@ Term of the President's Economic Policy Advisory Board extended until Sept. 30, 
 
 #### Ex. Ord. No. 12835. Establishment of National Economic Council
 
-Ex. Ord. No. 12835, Jan. 25, 1993, 58 F.R. 6189, as amended by Ex. Ord. No. 13286, §27, Feb. 28, 2003, 68 F.R.10625; Ex. Ord. No. 13499, Feb. 5, 2009, 74 F.R. 6979, provided:
+Ex. Ord. No. 12835, Jan. 25, 1993, 58 F.R. 6189, as amended by Ex. Ord. No. 13286, §27, Feb. 28, 2003, 68 F.R. 10625; Ex. Ord. No. 13499, Feb. 5, 2009, 74 F.R. 6979; Ex. Ord. No. 13569, §2, Apr. 5, 2011, 76 F.R. 19891, provided:
 
 By the authority vested in me as President of the United States by the Constitution and the laws of the United States of America, including sections 105, 107, and 301 of title 3, United States Code, it is hereby ordered as follows:
 
@@ -146,7 +146,7 @@ Sec. 2. <i>Membership</i>. The Council shall comprise the:
 
 &emsp;(n) Senior Advisor and Assistant to the President for Intergovernmental Affairs and Public Liaison;
 
-&emsp;(<i>o</i>) Assistant to the President for Energy and Climate Change;
+&emsp;(<i>o</i>) Chair of the Council on Environmental Quality;
 
 &emsp;(p) Assistant to the President and Chief Technology Officer;
 

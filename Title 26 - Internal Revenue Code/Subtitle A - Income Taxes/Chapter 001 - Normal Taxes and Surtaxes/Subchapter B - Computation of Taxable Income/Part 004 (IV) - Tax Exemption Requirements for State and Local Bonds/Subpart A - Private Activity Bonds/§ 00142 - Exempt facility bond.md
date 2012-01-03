@@ -164,7 +164,7 @@ For purposes of this section—
 
 #### (iii) HUD hold harmless policy
 
-&emsp;&emsp;&emsp;The term “HUD hold harmless policy” means the regulations under which a policy similar to the rules of clause (i) applied to prevent a change in the method of determining area median gross income from resulting in a reduction in the area median gross income determined with respect to certain projects in calendar years 2007 and 2008.
+&emsp;&emsp;&emsp;The term “HUD hold harmless policy” means the regulations under which a policy similar to the rules of clause (i) applied to prevent a change in the method of determining area median gross income from resulting in a reduction in the area mediangross income determined with respect to certain projects in calendar years 2007 and 2008.
 
 #### (iv) HUD hold harmless impacted project
 
@@ -204,7 +204,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) The project meets the requirements of this clause if the gross rent with respect to each low-income unit in the project does not exceed 30 percent of the applicable income limit which applies to individuals occupying the unit.
 
-&emsp;&emsp;&emsp;(iii) The project meets the requirements of this clause if the gross rent with respect to each low-income unit in the project does not exceed 1/2 of the average gross rent with respect to units of comparable size which are not occupied by individuals who meet the applicable income limit.
+&emsp;&emsp;&emsp;(iii) The project meets the requirements of this clause if the gross rent with respect to each low-income unit in the project does not exceed ½ of the average gross rent with respect to units of comparable size which are not occupied by individuals who meet the applicable income limit.
 
 #### (C) Definitions applicable to subparagraph (B)
 
@@ -212,7 +212,7 @@ For purposes of this section—
 
 #### (i) Low-income unit
 
-&emsp;&emsp;&emsp;The term “low-income unit” means any unit which is required to be occupied byindividuals who meet the applicable income limit.
+&emsp;&emsp;&emsp;The term “low-income unit” means any unit which is required to be occupied by individuals who meet the applicable income limit.
 
 #### (ii) Gross rent
 
@@ -236,7 +236,7 @@ For purposes of this section—
 
 #### (7) Certification to Secretary
 
-&emsp;The operator of any project with respect to which an election was made under this subsection shall submit to the Secretary (at such time and in such manner as the Secretary shall prescribe) an annual certification as to whether such project continues to meet the requirements of this subsection. Any failure to comply with the provisions of the preceding sentence shall not affect the tax-exempt status of any bond but shall subject the operator to penalty, as provided in section 6652(j).
+&emsp;The operator of any project with respect to which an election was made under this subsection shall submit to the Secretary (at such time and in such manner as the Secretary shall prescribe) an annual certification as to whether such project continues to meet the requirements of this subsection. Any failure to comply with the provisions of the preceding sentence shall not affect the tax-exemptstatus of any bond but shall subject the operator to penalty, as provided in section 6652(j).
 
 #### (e) Facilities for the furnishing of water
 
@@ -324,7 +324,7 @@ For purposes of subsection (a)(8)—
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of paragraph (1), the term “local district heating or cooling system” means any local system consisting of a pipeline or network (which may be connected to a heating or cooling source) providing hot water, chilled water, or steam to 2 or more users for—
+&emsp;&emsp;For purposes of paragraph (1), the term “local district heating or cooling system”means any local system consisting of a pipeline or network (which may be connected to a heating or cooling source) providing hot water, chilled water, or steam to 2 or more users for—
 
 &emsp;&emsp;&emsp;(i) residential, commercial, or industrial heating or cooling, or
 
@@ -476,7 +476,7 @@ For purposes of subsection (a)(10), the term “qualified hazardous waste facili
 
 #### (A) In general
 
-&emsp;&emsp;A project may not be designated under this subsection unless the application for suchdesignation includes a project proposal which describes the energy efficiency, renewable energy, and sustainable design features of the project and demonstrates that the project satisfies the following eligibility criteria:
+&emsp;&emsp;A project may not be designated under this subsection unless the application for such designation includes a project proposal which describes the energy efficiency, renewable energy, and sustainable design features of the project and demonstrates that the project satisfies the following eligibility criteria:
 
 #### (i) Green building and sustainable design
 
@@ -716,7 +716,7 @@ Subsec. (j). Pub. L. 102–486, §1921(b)(1), added subsec. (j).
 
 <b>1989</b>—Subsec. (d)(2)(B). Pub. L. 101–239, §7108(e)(3), inserted at end “Section 7872(g) shall not apply in determining the income of individuals under this subparagraph.”
 
-Subsec. (d)(4)(B)(iii). Pub. L. 101–239, §7108(n)(1), substituted “exceed 1/2” for “exceed 1/3”.
+Subsec. (d)(4)(B)(iii). Pub. L. 101–239, §7108(n)(1), substituted “exceed ½” for “exceed 1/3”.
 
 Subsec. (i)(1). Pub. L. 101–239, §7816(s)(1), inserted heading “In general”.
 
@@ -802,7 +802,7 @@ Section 1608(b) of Pub. L. 104–188 provided that: “The use of the term ‘pe
 
 #### Tax-Exempt Bonds for Sale of Alaska Power Administration Facility
 
-Section 1804 of Pub. L. 104–188 provided that: “Sections 142(f)(3) (as added by section 1608) and 147(d) of theInternal Revenue Code of 1986 shall not apply in determining whether any private activity bond issued after the date of the enactment of this Act \[Aug. 20, 1996\] and used to finance the acquisition of the Snettisham hydroelectric project from the Alaska Power Administration is a qualified bond for purposes of such Code.”
+Section 1804 of Pub. L. 104–188 provided that: “Sections 142(f)(3) (as added by section 1608) and 147(d) of the Internal Revenue Code of 1986 shall not apply in determining whether any private activity bond issued after the date of the enactment of this Act \[Aug. 20, 1996\] and used to finance the acquisition of the Snettisham hydroelectric project from the Alaska Power Administration is a qualified bond for purposes of such Code.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section 42(i)(3)(D)”.</i>
 

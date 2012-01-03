@@ -8,7 +8,7 @@
 
 #### (2) Claims established under quality control system
 
-&emsp;To the extent that a State agency does not pay a claim established under section 2025(c)(1) of this title, including an agreement to have all or part of the claim paid through a reduction in Federal administrative funding, within 30 days from the date on which the bill for collection is received by the State agency, the State agency shall be liable for interest on any unpaid portion of such claim accruing from the date on which the bill for collection was received by the State agency, unless the State agency appeals the claim under section 2025(c)(7) of this title. If the State agency appeals such claim (in whole or in part), the interest on any unpaid portion of the claim shall accrue from the date of the decision on the administrative appeal, or from a date that is 1 year after the date the bill is received, whichever is earlier, until the date the unpaid portion of the payment is received. If the State agency pays such claim (in whole or in part, including an agreement to have all or part of the claim paid through a reduction in Federal administrative funding) and the claim is subsequently overturned through administrative or judicial appeal, any amounts paid by the State agency shall be promptly returned with interest, accruing from the date the payment is received until the date the payment is returned.
+&emsp;To the extent that a State agency does not pay a claim established under section 2025(c)(1) of this title, including an agreement to have all or part of the claim paid through a reduction in Federal administrative funding, within 30 days from the date on which the bill for collection is received by the State agency, the State agency shall be liable for interest onany unpaid portion of such claim accruing from the date on which the bill for collection was received by the State agency, unless the State agency appeals the claim under section 2025(c)(7) of this title. If the State agency appeals such claim (in whole or in part), the interest on any unpaid portion of the claim shall accrue from the date of the decision on the administrative appeal, or from a date that is 1 year after the date the bill is received, whichever is earlier, until the date the unpaid portion of the payment is received. If the State agency pays such claim (in whole or in part, including an agreement to have all or part of the claim paid through a reduction in Federal administrative funding) and the claim is subsequently overturned through administrative or judicial appeal, any amounts paid by the State agency shall be promptly returned with interest, accruing from the date the payment is received until the date the payment is returned.
 
 #### (3) Computation of interest
 
@@ -84,7 +84,7 @@
 
 #### (II) Determination appealed
 
-&emsp;&emsp;&emsp;&emsp;If the determination of the Secretary under clause (ii) is appealed, upon completion of administrative and judicial review under clause (iv), and a finding of liability on the part of the State, the appealing State agency shall, as soon as practicable, remit to the Secretary a dollar amount subject to the finding made in the administrative and judicial review.
+&emsp;&emsp;&emsp;&emsp;If the determination of the Secretary under clause (ii) is appealed, upon completion of administrative and judicial review under clause (iv), and a finding of liability on the part of the State, the appealing State agency shall, as soon aspracticable, remit to the Secretary a dollar amount subject to the finding made in the administrative and judicial review.
 
 #### (vi) Alternative method of collection
 
@@ -128,45 +128,45 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Pub. L. 110–246, §4115(b)(9), substituted “benefits” for “coupons” wherever appearing.
+<b>2008</b>—Pub. L. 110–246, §4115(b)(9), substituted “benefits” for “coupons” wherever appearing.
 
 Subsec. (b)(5). Pub. L. 110–246, §4133, added par. (5).
 
-2002—Subsec. (a). Pub. L. 107–171, inserted subsec. (a) heading, redesignated par. (2) as (4) and inserted heading, designated existing provisions of par. (1) as pars. (1) to (3) and inserted headings, in par. (1) substituted “Except in the case of an at-risk amount required under section 2025(c)(1)(D)(i)(III) of this title, the Secretary” for “The Secretary” and struck out “In determining whether to settle, adjust, compromise, or waive a claim arising against a State agency pursuant to section 2025(c) of this title, the Secretary shall review a State agency's plans for new dollar investment in activities to improve program administration in order to reduce payment error, and shall take the State agency's plans for new dollar investment in such activities into consideration as the Secretary considers appropriate.” after “section 2023 of this title.”, and in par. (2) substituted “claim established under section 2025(c)(1) of this title” for “claim established under section 2025(c)(1)(C) of this title”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–171, inserted subsec. (a) heading, redesignated par. (2) as (4) and inserted heading, designated existing provisions of par. (1) as pars. (1) to (3) and inserted headings, in par. (1) substituted “Except in the case of an at-risk amount required under section 2025(c)(1)(D)(i)(III) of this title, the Secretary” for “The Secretary” and struck out “In determining whether to settle, adjust, compromise, or waive a claim arising against a State agency pursuant to section 2025(c) of this title, the Secretary shall review a State agency's plans for new dollar investment in activities to improve program administration in order to reduce payment error, and shall take the State agency's plans for new dollar investment in such activities into consideration as the Secretary considers appropriate.” after “section 2023 of this title.”, and in par. (2) substituted “claim established under section 2025(c)(1) of this title” for “claim established under section 2025(c)(1)(C) of this title”.
 
-1996—Subsec. (b). Pub. L. 104–193, §844(a)(1), added subsec. (b) and struck out former subsec. (b) which provided for reduction of allotment for households with ineligible individuals and collection by State agencies of claims against households arising from overissuance of coupons.
+<b>1996</b>—Subsec. (b). Pub. L. 104–193, §844(a)(1), added subsec. (b) and struck out former subsec. (b) which provided for reduction of allotment for households with ineligible individuals and collection by State agencies of claims against households arising from overissuance of coupons.
 
 Subsec. (d). Pub. L. 104–193, §844(a)(2), substituted “, as determined under subsection (b)(1) of this section,” for “as determined under subsection (b) of this section and except for claims arising from an error of the State agency,” and inserted before period at end “or a Federal income tax refund as authorized by section 3720A of title 31”.
 
-1993—Subsec. (a)(1). Pub. L. 103–66, §13951(a), in fifth sentence, struck out “(after a determination on any request for a waiver for good cause related to the claim has been made by the Secretary)” after “30 days from the date on which the bill for collection” and in sixth sentence substituted “1 year” for “2 years”.
+<b>1993</b>—Subsec. (a)(1). Pub. L. 103–66, §13951(a), in fifth sentence, struck out “(after a determination on any request for a waiver for good cause related to the claim has been made by the Secretary)” after “30 days from the date on which the bill for collection” and in sixth sentence substituted “1 year” for “2 years”.
 
 Subsec. (d). Pub. L. 103–66, §13941(b), added subsec. (d).
 
-1991—Subsec. (b)(2)(A). Pub. L. 102–237 inserted before period at end of first sentence “, except that the household shall be given notice permitting it to elect another means of repayment and given 10 days to make such an election before the State agency commences action to reduce the household's monthly allotment”.
+<b>1991</b>—Subsec. (b)(2)(A). Pub. L. 102–237 inserted before period at end of first sentence “, except that the household shall be given notice permitting it to elect another means of repayment and given 10 days to make such an election before the State agency commences action to reduce the household's monthly allotment”.
 
-1990—Subsec. (b)(1)(A). Pub. L. 101–624 substituted “on the date of receipt (or, if the date of receipt is not a business day, on the next business day)” for “within thirty days”.
+<b>1990</b>—Subsec. (b)(1)(A). Pub. L. 101–624 substituted “on the date of receipt (or, if the date of receipt is not a business day, on the next business day)” for “within thirty days”.
 
-1988—Subsec. (a)(1). Pub. L. 100–435, §601, inserted provisions relating to review of State agency's plans for program investment to reduce payment error when Secretary determines whether to settle, etc., claims under section 2025(c) of this title.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–435, §601, inserted provisions relating to review of State agency's plans forprogram investment to reduce payment error when Secretary determines whether to settle, etc., claims under section 2025(c) of this title.
 
 Pub. L. 100–435, §602, inserted provisions relating to failure of State agency to pay a claim under section 2025(c)(1)(C) of this title and interest with respect to unpaid portion of such claims.
 
-1985—Subsec. (a). Pub. L. 99–198, §1533, designated existing provisions as par. (1) and added par. (2).
+<b>1985</b>—Subsec. (a). Pub. L. 99–198, §1533, designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (b)(1)(B). Pub. L. 99–198, §1534, substituted “shall” for “may” and inserted “, unless the State agency demonstrates to the satisfaction of the Secretary that such other means are not cost effective”.
 
 Subsec. (c). Pub. L. 99–198, §1535(a), added subsec. (c).
 
-1982—Subsec. (b)(1). Pub. L. 97–253, §§177(a), 178, redesignated existing provisions, which were formerly undesignated, as subpar. (A), inserted “within thirty days of a demand for an election” after “make an election”, and added subpar. (B).
+<b>1982</b>—Subsec. (b)(1). Pub. L. 97–253, §§177(a), 178, redesignated existing provisions, which were formerly undesignated, as subpar. (A), inserted “within thirty days of a demand for an election” after “make an election”, and added subpar. (B).
 
 Subsec. (b)(2). Pub. L. 97–253, §177(b), redesignated existing provisions, which had been undesignated, as subpar. (A) and added subpar. (B).
 
-1981—Pub. L. 97–35 designated existing provisions as subsec. (a), inserted provisions relating to power to waive claims, and the power to otherwise reduce amounts, and added subsec. (b).
+<b>1981</b>—Pub. L. 97–35 designated existing provisions as subsec. (a), inserted provisions relating to power to waive claims, and the power to otherwise reduce amounts, and added subsec. (b).
 
-1977—Pub. L. 95–113 substituted revised provisions relating to the determination and disposition of claims for provisions relating to administrative and judicial review which are now covered by section 2023 of this title.
+<b>1977</b>—Pub. L. 95–113 substituted revised provisions relating to the determination and disposition of claims for provisions relating to administrative and judicial review which are now covered by section 2023 of this title.
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set outas an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 Amendment by sections 4115(b)(9) and 4133 of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 

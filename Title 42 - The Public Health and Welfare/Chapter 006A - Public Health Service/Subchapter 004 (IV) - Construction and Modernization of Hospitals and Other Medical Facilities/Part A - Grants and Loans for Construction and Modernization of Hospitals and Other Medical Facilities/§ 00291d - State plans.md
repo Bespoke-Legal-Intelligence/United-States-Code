@@ -16,7 +16,7 @@ Any State desiring to participate in this part may submit a State plan. Such pla
 
 &emsp;&emsp;(B) the public health centers needed to provide adequate public health services for people residing in the State, and a plan for the distribution of such centers throughout the State;
 
-&emsp;&emsp;(C) the outpatient facilities needed to provide adequate diagnostic or treatment services to ambulatory patients residing in theState, and a plan for distribution of such facilities throughout the State;
+&emsp;&emsp;(C) the outpatient facilities needed to provide adequate diagnostic or treatment services to ambulatory patients residing in the State, and a plan for distribution of such facilities throughout the State;
 
 &emsp;&emsp;(D) the rehabilitation facilities needed to assure adequate rehabilitation services for disabled persons residing in the State, and a plan for distribution of such facilities throughout the State; and
 

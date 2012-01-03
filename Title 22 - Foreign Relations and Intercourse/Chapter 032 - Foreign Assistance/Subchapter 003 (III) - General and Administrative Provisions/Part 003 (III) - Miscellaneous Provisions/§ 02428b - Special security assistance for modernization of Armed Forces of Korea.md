@@ -18,7 +18,7 @@ In order that transfers of defense articles under subsection (a) of this section
 
 &emsp;(2) the defense capability provided by those defense articles is needed by the Armed Forces of the Republic of Korea in order to maintain the military balance on the Korean peninsula; and
 
-&emsp;(3) a comparable defense capability could be provided by less advanced defense articles in the stocks of the Department of Defense whichcould be transferred without significant adverse impact on the readiness of the United States Armed Forces.
+&emsp;(3) a comparable defense capability could be provided by less advanced defense articles in the stocks of the Department of Defense which could be transferred without significant adverse impact on the readiness of the United States Armed Forces.
 
 > The President shall report to the Congress each determination made under this subsection prior to the transfer of the defense articles described in such determination.
 

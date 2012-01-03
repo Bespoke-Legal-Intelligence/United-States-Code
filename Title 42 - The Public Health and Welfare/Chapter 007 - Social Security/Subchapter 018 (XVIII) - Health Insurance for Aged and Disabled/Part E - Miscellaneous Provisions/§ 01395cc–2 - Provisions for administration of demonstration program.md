@@ -162,7 +162,7 @@
 
 #### (d) Limitations on judicial review
 
-The following actions and determinations with respect to the demonstration program shall notbe subject to review by a judicial or administrative tribunal:
+The following actions and determinations with respect to the demonstration program shall not be subject to review by a judicial or administrative tribunal:
 
 &emsp;(1) Limiting the implementation of the program under subsection (a)(2) of this section.
 
@@ -189,8 +189,6 @@ Not later than two years after December 21, 2000, and biennially thereafter for 
 (Aug. 14, 1935, ch. 531, title XVIII, §1866B, as added Pub. L. 106–554, §1(a)(6) \[title IV, §412(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–511; amended Pub. L. 108–173, title VII, §736(c)(5), Dec. 8, 2003, 117 Stat. 2356.)
 
 #### References in Text
-
-Parts A, B, and C of this subchapter, referred to in subsecs. (a)(1) and (e), are classified to sections 1395c et seq., 1395j et seq., and 1395w–21 et seq., respectively, of this title.
 
 Section 2702 of the Public Health Service Act, referred to in subsec. (c)(3), is section 2702 of act July 1, 1944, which was classified to section 300gg–1 of this title, was amended by Pub. L. 111–148, title I, §1201(3), Mar. 23, 2010, 124 Stat. 154, and was transferred to subsecs. (d) to (f) of section 300gg–4 of this title, effective for plan years beginning on or after Jan. 1, 2014. A new section 2702 of act July 1, 1944, related to guaranteed availability of coverage, was added by Pub. L. 111–148, title I, §1201(4), Mar. 23, 2010, 124 Stat. 156, effective for plan years beginning on or after Jan. 1, 2014, and is classified to section 300gg–1 of this title.
 

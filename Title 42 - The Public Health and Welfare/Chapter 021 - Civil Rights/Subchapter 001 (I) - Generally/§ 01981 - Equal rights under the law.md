@@ -42,7 +42,7 @@ Section 1 of Pub. L. 102–166 provided that: “This Act \[enacting section 198
 
 #### Short Title of 1976 Amendment
 
-Pub. L. 94–559, which amended section 1988 of this title, is known as “The Civil Rights Attorney's Fees Awards Act of 1976”, see note set out under section 1988 of this title.
+Pub. L. 94–559, which amended section 1988 of this title, is known as “The Civil Rights Attorney's FeesAwards Act of 1976”, see note set out under section 1988 of this title.
 
 #### Severability
 

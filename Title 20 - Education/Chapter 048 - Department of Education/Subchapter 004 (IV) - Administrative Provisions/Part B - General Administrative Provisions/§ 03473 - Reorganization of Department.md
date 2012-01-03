@@ -54,13 +54,15 @@ The Secretary is authorized, subject to the requirements of section 3412(f) of t
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of this title.
 
 #### National Institute of Education
 
-The National Institute of Education was established by section 1221e of this title which as amended generally by Pub. L. 99–498, title XIV, §1401(a), Oct. 17, 1986, 100 Stat. 1589, provided objectives and duties for the Office of Educational Research and Improvement and established the National Advisory Council on Educational Research and Improvement, and section 1401(b) of Pub. L. 99–498 transferred the property and records of the National Institute of Education to the Office of Educational Research and Improvement.
+The National Institute of Education was established by section 1221e of this title which as amended generally by Pub. L. 99–498, title XIV, §1401(a), Oct. 17, 1986, 100 Stat. 1589, provided objectives and duties for the Office of Educational Research and Improvement and established the National Advisory Council on Educational Research and Improvement, and section 1401(b) of Pub. L. 99–498 transferred the property andrecords of the National Institute of Education to the Office of Educational Research and Improvement.
 
 #### Office of Migrant Education
 

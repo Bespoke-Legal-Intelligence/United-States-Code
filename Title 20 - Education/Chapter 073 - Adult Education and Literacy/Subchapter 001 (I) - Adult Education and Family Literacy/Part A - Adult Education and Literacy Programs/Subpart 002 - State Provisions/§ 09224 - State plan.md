@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Each eligible agency desiring a grant under this part for any fiscal year shall submit to, or have on file with, the Secretary a 5-year State plan.
+&emsp;Each eligible agency desiring a grant under this part for any fiscal year shall submit to, orhave on file with, the Secretary a 5-year State plan.
 
 #### (2) Comprehensive plan or application
 

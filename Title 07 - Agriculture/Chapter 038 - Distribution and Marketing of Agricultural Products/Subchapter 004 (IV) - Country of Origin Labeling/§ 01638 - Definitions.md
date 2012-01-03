@@ -88,7 +88,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Par. (2)(A)(vii) to (xi). Pub. L. 110–246, §11002(1), added cls. (vii) to (xi).
+<b>2008</b>—Par. (2)(A)(vii) to (xi). Pub. L. 110–246, §11002(1), added cls. (vii) to (xi).
 
 #### Effective Date of 2008 Amendment
 

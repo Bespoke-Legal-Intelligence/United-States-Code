@@ -16,7 +16,7 @@ Nothing in this subchapter shall relieve any operator of the duty to comply with
 
 #### References in Text
 
-Section 942 of title 33, referred to in subsec. (b), was in the original “section 42 of the Longshore Harbor Worker's Compensation Act” and was translated as reading “section 42 of the Longshore and Harbor Workers’ Compensation Act” to reflect the probable intent of Congress.
+Section 942 of title 33, referred to in subsec. (b), was in the original “section 42 of the Longshore HarborWorker's Compensation Act” and was translated as reading “section 42 of the Longshore and Harbor Workers’ Compensation Act” to reflect the probable intent of Congress.
 
 #### Amendments
 

@@ -6,7 +6,7 @@ Sections 341, 343, 1102(a)(1), 1104, 1105, 1107, 1129(a)(7), and 1129(c) of this
 
 #### Historical and Revision Notes
 
-I74senate report no. 95–989
+#### senate report no. 95–989
 
 This section makes inapplicable sections of the bill which are either inappropriate in railroad reorganizations, or relate to matters which are otherwise dealt with in subchapter IV.
 

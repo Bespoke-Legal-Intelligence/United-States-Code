@@ -44,7 +44,7 @@
 
 &emsp;&emsp;&emsp;(i) to carry out the purpose of this section;
 
-&emsp;&emsp;&emsp;(ii) to recognize that credit unions (as cooperatives that do not issue capital stock) initially have no net worth, andgive new credit unions reasonable time to accumulate net worth;
+&emsp;&emsp;&emsp;(ii) to recognize that credit unions (as cooperatives that do not issue capital stock) initially have no net worth, and give new credit unions reasonable time to accumulate net worth;
 
 &emsp;&emsp;&emsp;(iii) to create adequate incentives for new credit unions to become adequately capitalized by the time that they either—
 
@@ -216,7 +216,7 @@ With respect to the exercise of authority by the Board under regulations compara
 
 &emsp;(1) the Board may not reclassify an insured credit union into a lower net worth category, or treat an insured credit union as if it were in a lower net worth category, for reasons not pertaining to the safety and soundness of that credit union; and
 
-&emsp;(2) the Board may not delegate its authority to reclassify an insured credit union into a lower net worth category or to treat an insured credit union as if it were in a lower net worth category.
+&emsp;(2) the Board may not delegate its authority to reclassify an insured credit union into alower net worth category or to treat an insured credit union as if it were in a lower net worth category.
 
 #### (i) Action required regarding critically undercapitalized credit unions
 
@@ -260,13 +260,85 @@ With respect to the exercise of authority by the Board under regulations compara
 
 &emsp;&emsp;The Board may delegate the authority of the Board under this subsection with respect to an insured credit union that has less than $5,000,000 in total assets, if the Board permits the credit union to appeal any adverse action to the Board.
 
-#### (j) Review required when Fund incurs material loss
+#### (j) Reviews required when share insurance fund experiences losses
 
-For purposes of determining whether the Fund has incurred a material loss with respect to an insured credit union (such that the inspector general of the Board must make a report), a loss is material if it exceeds the sum of—
+#### (1) In general
 
-&emsp;(1) $10,000,000; and
+&emsp;If the Fund incurs a material loss with respect to an insured credit union, the Inspector General of the Board shall—
 
-&emsp;(2) an amount equal to 10 percent of the total assets of the credit union at the time at which the Board initiated assistance under section 1788 of this title or was appointed liquidating agent.
+&emsp;&emsp;(A) submit to the Board a written report reviewing the supervision of the credit union by the Administration (including the implementation of this section by the Administration), which shall include—
+
+&emsp;&emsp;&emsp;(i) a description of the reasons why the problems of the credit union resulted in a material loss to the Fund; and
+
+&emsp;&emsp;&emsp;(ii) recommendations for preventing any such loss in the future; and
+
+&emsp;&emsp;(B) submit a copy of the report under subparagraph (A) to—
+
+&emsp;&emsp;&emsp;(i) the Comptroller General of the United States;
+
+&emsp;&emsp;&emsp;(ii) the Corporation;
+
+&emsp;&emsp;&emsp;(iii) in the case of a report relating to a State credit union, the appropriate State supervisor; and
+
+&emsp;&emsp;&emsp;(iv) to any Member of Congress, upon request.
+
+#### (2) Material loss defined
+
+&emsp;For purposes of determining whether the Fund has incurred a material loss with respect to an insured credit union, a loss is material if it exceeds the sum of—
+
+&emsp;&emsp;(A) $25,000,000; and
+
+&emsp;&emsp;(B) an amount equal to 10 percent of the total assets of the credit union on the date on which the Board initiated assistance under section 1788 of this title or was appointed liquidating agent.
+
+#### (3) Public disclosure required
+
+#### (A) In general
+
+&emsp;&emsp;The Board shall disclose a report under this subsection, upon request under section 552 of title 5, without excising—
+
+&emsp;&emsp;&emsp;(i) any portion under section 552(b)(5) of title 5; or
+
+&emsp;&emsp;&emsp;(ii) any information about the insured credit union (other than trade secrets) under section 552(b)(8) of title 5.
+
+#### (B) Rule of construction
+
+&emsp;&emsp;Subparagraph (A) may not be construed as requiring the agency to disclose the name of any customer of the insured credit union (other than an institution-affiliated party), or information from which the identity of such customer could reasonably be ascertained.
+
+#### (4) Losses that are not material
+
+#### (A) Semiannual report
+
+&emsp;&emsp;For the 6-month period ending on March 31, 2010, and each 6-month period thereafter, the Inspector General of the Board shall—
+
+&emsp;&emsp;&emsp;(i) identify any losses that the Inspector General estimates were incurred by the Fund during such 6-month period, with respect to insured credit unions;
+
+&emsp;&emsp;&emsp;(ii) for each loss to the Fund that is not a material loss, determine—
+
+&emsp;&emsp;&emsp;&emsp;(I) the grounds identified by the Board or the State official having jurisdiction over a State credit union for appointing the Board as the liquidating agent for any Federal or State credit union; and
+
+&emsp;&emsp;&emsp;&emsp;(II) whether any unusual circumstances exist that might warrant an in-depth review of the loss; and
+
+&emsp;&emsp;&emsp;(iii) prepare and submit a written report to the Board and to Congress on the results of the determinations of the Inspector General that includes—
+
+&emsp;&emsp;&emsp;&emsp;(I) an identification of any loss that warrants an in-depth review, and the reasons such review is warranted, or if the Inspector General determines that no review is warranted, an explanation of such determination; and
+
+&emsp;&emsp;&emsp;&emsp;(II) for each loss identified in subclause (I) that warrants an in-depth review, the date by which such review, and a report on the review prepared in a manner consistent with reports under paragraph (1)(A), will be completed.
+
+#### (B) Deadline for semiannual report
+
+&emsp;&emsp;The Inspector General of the Board shall—
+
+&emsp;&emsp;&emsp;(i) submit each report required under subparagraph (A) expeditiously, and not later than 90 days after the end of the 6-month period covered by the report; and
+
+&emsp;&emsp;&emsp;(ii) provide a copy of the report required under subparagraph (A) to any Member of Congress, upon request.
+
+#### (5) GAO review
+
+&emsp;The Comptroller General of the United States shall, under such conditions as the Comptroller General determines to be appropriate—
+
+&emsp;&emsp;(A) review each report made under paragraph (1), including the extent to which the Inspector General of the Board complied with the requirements under section 8L of the Inspector General Act of 1978 (5 U.S.C. App.) with respect to each such report; and
+
+&emsp;&emsp;(B) recommend improvements to the supervision of insured credit unions (including improvements relating to the implementation of this section).
 
 #### (k) Appeals process
 
@@ -334,9 +406,11 @@ For purposes of this section the following definitions shall apply:
 
 &emsp;The term “net worth”—
 
-&emsp;&emsp;(A) with respect to any insured credit union, means the retained earnings balance of the credit union, as determined under generally accepted accounting principles, together with any amounts that were previously retained earnings of any other credit union with which the credit union has combined; and
+&emsp;&emsp;(A) with respect to any insured credit union, means the retained earnings balance of the credit union, as determined under generally accepted accounting principles, together with any amounts that were previously retained earnings of any other credit union with which the credit union has combined;
 
-&emsp;&emsp;(B) with respect to a low-income credit union, includes secondary capital accounts that are—
+&emsp;&emsp;(B) with respect to any insured credit union, includes, at the Board's discretion and subject to rules and regulations established by the Board, assistance provided under section 1788 of this title to facilitate a least-cost resolution consistent with the best interests of the credit union system; and
+
+&emsp;&emsp;(C) with respect to a low-income credit union, includes secondary capital accounts that are—
 
 &emsp;&emsp;&emsp;(i) uninsured; and
 
@@ -354,13 +428,37 @@ For purposes of this section the following definitions shall apply:
 
 &emsp;&emsp;(B) has not more than $10,000,000 in total assets.
 
-(June 26, 1934, ch. 750, title II, §216, as added Pub. L. 105–219, title III, §301(a), Aug. 7, 1998, 112 Stat. 923; amended Pub. L. 109–351, title V, §504, title VII, §726(25), Oct. 13, 2006, 120 Stat. 1975, 2003.)
+(June 26, 1934, ch. 750, title II, §216, as added Pub. L. 105–219, title III, §301(a), Aug. 7, 1998, 112 Stat. 923; amended Pub. L. 109–351, title V, §504, title VII, §726(25), Oct. 13, 2006, 120 Stat. 1975, 2003; Pub. L. 111–203, title IX, §988(a), July 21, 2010, 124 Stat. 1938; Pub. L. 111–382, §3, Jan. 4, 2011, 124 Stat. 4135.)
+
+#### References in Text
+
+Section 8L of the Inspector General Act of 1978, referred to in subsec. (j)(5)(A), is section 8L of Pub. L. 95–452, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 
-2006—Subsec. (n). Pub. L. 109–351, §726(25), inserted “any action” before “that is required”.
+<b>2011</b>—Subsec. (<i>o</i>)(2). Pub. L. 111–382 amended par. (2) generally. Prior to amendment, text read as follows: “The term ‘net worth’—
+
+&emsp;“(A) with respect to any insured credit union, means the retained earnings balance of the credit union, as determined under generally accepted accounting principles, together with any amounts that were previously retained earnings of any other credit union with which the credit union has combined; and
+
+&emsp;“(B) with respect to a low-income credit union, includes secondary capital accounts that are—
+
+&emsp;&emsp;“(i) uninsured; and
+
+&emsp;&emsp;“(ii) subordinate to all other claims against the credit union, including the claims of creditors, shareholders, and the Fund.”
+
+<b>2010</b>—Subsec. (j). Pub. L. 111–203 amended subsec. (j) generally. Prior to amendment, text read as follows: “For purposes of determining whether the Fund has incurred a material loss with respect to an insured credit union (such that the inspector general of the Board must make a report), a loss is material if it exceeds the sum of—
+
+&emsp;“(1) $10,000,000; and
+
+&emsp;“(2) an amount equal to 10 percent of the total assets of the credit union at the time at which the Board initiated assistance under section 1788 of this title or was appointed liquidating agent.”
+
+<b>2006</b>—Subsec. (n). Pub. L. 109–351, §726(25), inserted “any action” before “that is required”.
 
 Subsec. (<i>o</i>)(2)(A). Pub. L. 109–351, §504, inserted “the” before “retained earnings balance” and “, together with any amounts that were previously retained earnings of any other credit union with which the credit union has combined” before semicolon.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of this title.
 
 #### Effective Date
 
@@ -406,7 +504,7 @@ Pub. L. 105–219, title III, §301(c), Aug. 7, 1998, 112 Stat. 930, provided th
 
 Pub. L. 105–219, title III, §301(f), Aug. 7, 1998, 112 Stat. 931, provided that: “When the Board publishes proposed regulations pursuant to subsection (d)(1)(A) \[set out above\], or promulgates final regulations pursuant to subsection (d)(1)(B) \[set out above\], the Board shall submit to the Congress a report that specifically explains—
 
-&emsp;“(1) how the regulations carry out section 216(b)(1)(B) of the Federal Credit Union Act \[12 U.S.C. 1790d(b)(1)(B)\] (as added by this section), relating to the cooperative character of credit unions; and
+&emsp;“(1) how the regulations carry out section 216(b)(1)(B) of the Federal Credit Union Act \[12 U.S.C.1790d(b)(1)(B)\] (as added by this section), relating to the cooperative character of credit unions; and
 
 &emsp;“(2) how the regulations differ from section 38 of the Federal Deposit Insurance Act \[12 U.S.C. 1831<i>o</i>\], and the reasons for those differences.”
 

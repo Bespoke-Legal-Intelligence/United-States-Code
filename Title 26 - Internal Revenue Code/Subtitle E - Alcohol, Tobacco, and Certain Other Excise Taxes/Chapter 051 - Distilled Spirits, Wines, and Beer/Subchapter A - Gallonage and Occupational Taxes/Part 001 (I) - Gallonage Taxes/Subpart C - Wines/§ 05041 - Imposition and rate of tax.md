@@ -66,11 +66,11 @@ There is hereby imposed on all wines (including imitation, substandard, or artif
 
 #### (d) Wine gallon
 
-For the purpose of this chapter, the term “wine gallon” means a United States gallon of liquid measure equivalent to the volume of 231 cubic inches. On lesser quantities the tax shall be paid proportionately (fractions of less than one-tenth gallon being converted to the nearest one-tenth gallon, and five-hundredths gallon being converted to the next full one-tenth gallon).
+For the purpose of this chapter, the term “wine gallon” means a United States gallon of liquid measure equivalent to the volume of 231 cubic inches. On lesser quantities the tax shall be paid proportionately (fractions of less than one-tenth gallon being converted to the nearest one-tenth gallon, and five-hundredths gallonbeing converted to the next full one-tenth gallon).
 
 #### (e) Tolerances
 
-Where the Secretary finds that the revenue will not be endangered thereby, he may by regulation prescribe tolerances (but not greater than 1/2 of 1 percent) for bottles and other containers, and, if such tolerances are prescribed, no assessment shall be made and no tax shall be collected for any excess in any case where the contents of a bottle or other container are within the limit of the applicable tolerance prescribed.
+Where the Secretary finds that the revenue will not be endangered thereby, he may by regulation prescribe tolerances (but not greater than ½ of 1 percent) for bottles and other containers, and, if such tolerances are prescribed, no assessment shall be made and no tax shall be collected for any excess in any case where the contents of a bottle or other container are within the limit of the applicable tolerance prescribed.
 
 #### (f) Illegally produced wine
 

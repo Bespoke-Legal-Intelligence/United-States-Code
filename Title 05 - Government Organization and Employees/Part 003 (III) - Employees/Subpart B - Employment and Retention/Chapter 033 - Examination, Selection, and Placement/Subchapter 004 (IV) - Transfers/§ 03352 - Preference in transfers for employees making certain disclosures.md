@@ -12,7 +12,7 @@
 
 (c) If an employee applies for a transfer under the provisions of subsection (b) and the selecting official rejects such application, the selecting official shall provide the employee with a written notification of the reasons for the rejection within 30 days after receiving such application.
 
-(d) An employee whose application for transfer is rejected under the provisions of subsection (c) may request the head of such agency to review the rejection. Such request for review shall be submitted to the head of the agency within 30 days after the employee receives notification under subsection (c). Within 30 days after receiving a request for review, the head of the agency shall complete the review and provide a written statement of findings to the employee and the Merit Systems Protection Board.
+(d) An employee whose application for transfer is rejected under the provisions of subsection (c) may request the head of such agency to review the rejection. Such request for review shall be submitted to the head of the agency within 30 days after the employee receives notification under subsection (c). Within 30 days after receiving a request for review, the head of the agencyshall complete the review and provide a written statement of findings to the employee and the Merit Systems Protection Board.
 
 (e) The provisions of subsection (a) shall apply with regard to any employee—
 

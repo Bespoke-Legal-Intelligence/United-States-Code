@@ -42,9 +42,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (f). Pub. L. 110–246, §14202, inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, substituted period at end for “, and the term ‘cotton-producing State’ shall include any such combination of States.”, and added par. (2).
+<b>2008</b>—Subsec. (f). Pub. L. 110–246, §14202, inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, substituted period at end for “, and the term ‘cotton-producing State’ shall include any such combination of States.”, and added par. (2).
 
-1990—Subsec. (c). Pub. L. 101–624, §1997(1), designated existing provisions as cl. (1) and added cl. (2).
+<b>1990</b>—Subsec. (c). Pub. L. 101–624, §1997(1), designated existing provisions as cl. (1) and added cl. (2).
 
 Subsec. (d). Pub. L. 101–624, §1997(2), inserted “or, for the purposes of sections 2102, 2105(c), and 2112 of this title, any person who imports cotton, including de minimis amounts of cotton described in subsection (c) of this section,” after “cottonseed”.
 

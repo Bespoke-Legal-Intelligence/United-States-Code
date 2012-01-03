@@ -32,7 +32,7 @@ For purposes of this section, the term “independence”, with respect to disea
 
 Subsec. (a). Pub. L. 101–557, §202(a)(2), (b)(1)(A), inserted “not less than 10” before “centers of excellence” and inserted provision designating centers as Claude D. Pepper Older Americans Independence Centers.
 
-Subsec. (b)(2)(A). Pub. L. 101–557, §202(b)(1)(B), inserted before semicolon at end “, including menopause, which research includes research on such treatments, and on medical devices and other medical interventions regarding such diseases, disorders, and complications,that can assist individuals in avoiding institutionalization and prolonged hospitalization and in otherwise increasing the independence of the individuals”.
+Subsec. (b)(2)(A). Pub. L. 101–557, §202(b)(1)(B), inserted before semicolon at end “, including menopause, which research includes research on such treatments, and on medical devices and other medical interventions regarding such diseases, disorders, and complications, that can assist individuals in avoiding institutionalization and prolonged hospitalization and in otherwise increasing the independence of the individuals”.
 
 Subsec. (b)(2)(B). Pub. L. 101–557, §202(b)(2), substituted “research described in subparagraph (A)” for “research concerning aging and concerning such diseases, disorders, and complications.”
 

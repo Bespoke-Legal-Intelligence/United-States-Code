@@ -50,17 +50,17 @@ For the purpose of this section, an error consists of—
 
 &emsp;(6) a consumer's request for additional information or clarification concerning an electronic fund transfer or any documentation required by this subchapter; or
 
-&emsp;(7) any other error described in regulations of the Board.
+&emsp;(7) any other error described in regulations of the Bureau.
 
 (Pub. L. 90–321, title IX, §908, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3733; amended Pub. L. 111–203, title X, §1084(1), July 21, 2010, 124 Stat. 2081.)
-
-#### Amendment of Section
-
-<i>Pub. L. 111–203, title X, §§1084(1), 1100H, July 21, 2010, 124 Stat. 2081, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Board” each place that term appears and inserting “Bureau”. See Effective Date of 2010 Amendment note below.</i>
 
 #### References in Text
 
 Section 1693m of this title, referred to in subsec. (e), was in the original a reference to section 915 of Pub. L. 90–321, and was translated as meaning section 916 of Pub. L. 90–321 to reflect the probable intent of Congress and the renumbering of section 915 of Pub. L. 90–321 as section 916 by Pub. L. 111–24, title IV, §401(1), May 22, 2009, 123 Stat. 1751.
+
+#### Amendments
+
+<b>2010</b>—Subsec. (f)(7). Pub. L. 111–203 substituted “Bureau” for “Board”.
 
 #### Effective Date of 2010 Amendment
 

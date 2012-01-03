@@ -28,7 +28,7 @@ In general.—A designated officer, employee, or agent of the Secretary—
 
 &emsp;&emsp;&emsp;(i) such officer, employee, or agent has an objectively reasonable and articulable belief that the package may pose an imminent hazard; and
 
-&emsp;&emsp;&emsp;(ii) such officer, employee, or agent contemporaneously documents such belief inaccordance with procedures set forth in guidance or regulations prescribed under subsection (e);
+&emsp;&emsp;&emsp;(ii) such officer, employee, or agent contemporaneously documents such belief in accordance with procedures set forth in guidance or regulations prescribed under subsection (e);
 
 &emsp;&emsp;(D) may gather information from the offeror, carrier, packaging manufacturer or tester, or other person responsible for the package, to ascertain the nature and hazards of the contents of the package;
 
@@ -98,7 +98,7 @@ Facility, Staff, and Reporting System on Risks, Emergencies, and Actions.—(1) 
 
 &emsp;(B) maintain a central reporting system and information center capable of providing information and advice to law enforcement and firefighting personnel, other interested individuals, and officers and employees of the Government and State and local governments on meeting an emergency related to the transportation of hazardous material; and
 
-&emsp;(C) conduct a continuous review on all aspects of transporting hazardous material to decide on and take appropriate actions to ensure safe transportation of hazardous material.
+&emsp;(C) conduct a continuous review on all aspects of transporting hazardous material todecide on and take appropriate actions to ensure safe transportation of hazardous material.
 
 (2) Paragraph (1) of this subsection does not prevent the Secretary from making a contract with a private entity for use of a supplemental reporting system and information center operated and maintained by the contractor.
 
@@ -220,7 +220,7 @@ Subsec. (h)(4). Pub. L. 109–59, §7118(f)(2), inserted “relating to a functi
 
 <b>1994</b>—Subsec. (c)(1)(A). Pub. L. 103–311, §117(a)(2), substituted “a packaging or a” for “a package or”.
 
-Subsec. (e). Pub. L. 103–311, §108, substituted “Report” for “Annual Report” in heading and substitutedfirst sentence for former first sentence which read as follows: “The Secretary shall submit to the President, for submission to Congress, not later than June 15th of each year, a report about the transportation of hazardous material during the prior calendar year.”
+Subsec. (e). Pub. L. 103–311, §108, substituted “Report” for “Annual Report” in heading and substituted first sentence for former first sentence which read as follows: “The Secretary shall submit to the President, for submission to Congress, not later than June 15th of each year, a report about the transportation of hazardous material during the prior calendar year.”
 
 #### Toll Free Number for Reporting
 

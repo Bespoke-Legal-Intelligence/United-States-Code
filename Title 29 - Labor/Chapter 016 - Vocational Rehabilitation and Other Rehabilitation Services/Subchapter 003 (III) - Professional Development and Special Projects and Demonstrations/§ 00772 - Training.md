@@ -74,7 +74,7 @@
 
 &emsp;No grant shall be awarded or contract entered into under this subsection unless the applicant has submitted to the Commissioner an application at such time, in such form, in accordance with such procedures, and including such information as the Secretary may require, including—
 
-&emsp;&emsp;(A) a description of how the designated State unit or units will participate in the project to be funded under the grant or contract, including, as appropriate, participation on advisory committees, as practicum sites, in curriculum development, and in other ways so as to build closer relationships between the applicant and the designated State unit and to encourage students to pursue careers in public vocational rehabilitation programs;
+&emsp;&emsp;(A) a description of how the designated State unit or units will participate in theproject to be funded under the grant or contract, including, as appropriate, participation on advisory committees, as practicum sites, in curriculum development, and in other ways so as to build closer relationships between the applicant and the designated State unit and to encourage students to pursue careers in public vocational rehabilitation programs;
 
 &emsp;&emsp;(B) the identification of potential employers that provide employment that meets the requirements of paragraph (5)(A)(i); and
 
@@ -178,7 +178,7 @@ The Commissioner shall evaluate the impact of the training programs conducted un
 
 #### (2) Compensation
 
-&emsp;An expert or consultant appointed or serving under contract pursuant to this section shall be compensated at a rate, subject to approval of the Commissioner, that shall not exceed the daily equivalent of the rate of pay for level 4of the Senior Executive Service Schedule under section 5382 of title 5. Such an expert or consultant may be allowed travel and transportation expenses in accordance with section 5703 of title 5.
+&emsp;An expert or consultant appointed or serving under contract pursuant to this section shall be compensated at a rate, subject to approval of the Commissioner, that shall not exceed the daily equivalent of the rate of pay for level 4 of the Senior Executive Service Schedule under section 5382 of title 5. Such an expert or consultant may be allowed travel and transportation expenses in accordance with section 5703 of title 5.
 
 #### (3) In-service training of rehabilitation personnel
 
@@ -212,7 +212,7 @@ There are authorized to be appropriated to carry out this section such sums as m
 
 The Americans with Disabilities Act of 1990, referred to in subsec. (a)(3), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended. Title I of the Act is classified generally to subchapter I (§12111 et seq.) of chapter 126 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
-The Social Security Act, referred to in subsec. (a)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II and XVI of the Act are classified generally to subchapters II (§401 et seq.) and XVI (§1381 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (a)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II and XVI of the Act are classified generally to subchapters II (§401 et seq.) and XVI (§1381 et seq.), respectively, of chapter 7 of Title 42, The Public Healthand Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The Workforce Investment Act of 1998, referred to in subsecs. (a)(4), (5) and (g)(3)(A)(iv), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 

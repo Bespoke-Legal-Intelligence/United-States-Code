@@ -10,7 +10,7 @@
 
 &emsp;(4) “financial assistance for acquisition or construction purposes” means any form of financial assistance which is intended in whole or in part for the acquisition, construction, reconstruction, repair, or improvement of any publicly or privately owned building or mobile home, and for any machinery, equipment, fixtures, and furnishings contained or to be contained therein, and shall include the purchase or subsidization of mortgages or mortgage loans but shall exclude assistance pursuant to the Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5121 et seq.\] (other than assistance under such Act in connection with a flood);
 
-&emsp;(5) “Federal entity for lending regulation” means the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, the Comptroller of the Currency, the Office of Thrift Supervision, the National Credit Union Administration, and the Farm Credit Administration, and with respect to a particular regulated lending institution means the entity primarily responsible for the supervision of the institution;
+&emsp;(5) “Federal entity for lending regulation” means the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, the Comptroller of the Currency, the National Credit Union Administration, and the Farm Credit Administration, and with respect to a particular regulated lending institution means the entity primarily responsible for the supervision of the institution;
 
 &emsp;(6) “Director” means the Administrator of the Federal Emergency Management Agency;
 
@@ -28,10 +28,6 @@
 
 (Pub. L. 93–234, §3, Dec. 31, 1973, 87 Stat. 976; Pub. L. 95–128, title VII, §703(b), Oct. 12, 1977, 91 Stat. 1145; Pub. L. 98–181, title IV, §451(e), Nov. 30, 1983, 97 Stat. 1229; Pub. L. 100–707, title I, §109(t), Nov. 23, 1988, 102 Stat. 4710; Pub. L. 103–325, title V, §511(a), Sept. 23, 1994, 108 Stat. 2255; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 111–203, title III, §368, July 21, 2010, 124 Stat. 1557.)
 
-#### Amendment of Subsection (a)(5)
-
-<i>Pub. L. 111–203, title III, §§351, 368, July 21, 2010, 124 Stat. 1546, 1557, provided that, effective on the transfer date, subsection (a)(5) of this section is amended by striking out “, the Office of Thrift Supervision”. See Effective Date of 2010 Amendment note below.</i>
-
 #### References in Text
 
 This Act, referred to in text, means Pub. L. 93–234, Dec. 31, 1973, 87 Stat. 975, known as the Flood Disaster Protection Act of 1973. For complete classification of this Act to the Code, see Short Title of 1973 Amendment note set out under section 4001 of this title and Tables.
@@ -43,6 +39,8 @@ The Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(4),
 Section was enacted as part of Flood Disaster Protection Act of 1973, and not as part of National Flood Insurance Act of 1968 which comprises this chapter.
 
 #### Amendments
+
+<b>2010</b>—Subsec. (a)(5). Pub. L. 111–203 struck out “, the Office of Thrift Supervision” after “the Comptroller of the Currency”.
 
 <b>1994</b>—Subsec. (a)(5). Pub. L. 103–325, §511(a)(1), added par. (5) and struck out former par. (5) which read as follows: “ ‘Federal instrumentality responsible for the supervision, approval, regulation, or insuring of banks, savings and loan associations, or similar institutions’ means the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, the Comptroller of the Currency, the Federal Home Loan Bank Board, the Federal Savings and Loan Insurance Corporation, and the National Credit Union Administration; and”.
 

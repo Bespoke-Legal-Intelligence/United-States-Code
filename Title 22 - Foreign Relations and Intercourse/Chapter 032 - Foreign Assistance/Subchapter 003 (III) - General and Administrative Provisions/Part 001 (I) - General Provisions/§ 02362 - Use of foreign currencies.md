@@ -60,7 +60,7 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### Separate Accounts for Local Currencies and Cash Transfers
 
-Pub. L. 111–117, div. F, title VII, §7027, Dec. 16, 2009, 123 Stat. 3355, provided that:
+Pub. L. 112–74, div. I, title VII, §7026, Dec. 23, 2011, 125 Stat. 1206, provided that:
 
 “(a)
 
@@ -121,6 +121,8 @@ Notification.—At least 15 days prior to obligating any such cash transfer or n
 Exemption.—Nonproject sector assistance funds may be exempt from the requirements of subsection (b)(1) only through the regular notification procedures of the Committees on Appropriations.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 111–117, div. F, title VII, §7027, Dec. 16, 2009, 123 Stat. 3355.
 
 Pub. L. 111–8, div. H, title VII, §7027, Mar. 11, 2009, 123 Stat. 871.
 

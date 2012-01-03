@@ -2,7 +2,7 @@
 
 (a)
 
-Assignment of Forces.—(1) Except as provided in paragraph (2), the Secretaries of the military departments shall assign all forces under their jurisdiction to unified and specified combatant commands or to the United States element of the North American Aerospace Defense Command to perform missions assigned to those commands. Such assignments shall be made as directed by the Secretary of Defense, including direction as to the command to which forces are to be assigned. The Secretary of Defense shall ensure that such assignments are consistent with the force structure prescribed by the President for each combatant command.
+Assignment of Forces.—(1) Except as provided in paragraph (2), the Secretaries of the military departments shall assign all forces under their jurisdiction to unified and specified combatant commands or to the United States element of the North American Aerospace Defense Command to perform missions assigned to those commands. Such assignments shall be made as directed by the Secretary of Defense,including direction as to the command to which forces are to be assigned. The Secretary of Defense shall ensure that such assignments are consistent with the force structure prescribed by the President for each combatant command.
 
 (2) Except as otherwise directed by the Secretary of Defense, forces to be assigned by the Secretaries of the military departments to the combatant commands or to the United States element of the North American Aerospace Defense Command under paragraph (1) do not include forces assigned to carry out functions of the Secretary of a military department listed in sections 3013(b), 5013(b), and 8013(b) of this title or forces assigned to multinational peacekeeping organizations.
 

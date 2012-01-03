@@ -65,7 +65,7 @@ The Domestic Volunteer Service Act of 1973, referred to in subsec. (c)(1)(C), is
 
 #### Amendments
 
-<b>2000</b>—Subsec. (c)(1). Pub. L. 106–346, in concluding provisions, substituted “December 31, 2000” for “December 31, 2002”, and in table in concluding provisions, struck out item at end relating to service period January 1, 2001, to December 31, 2002.
+<b>2000</b>—Subsec. (c)(1). Pub. L. 106–346, in concluding provisions, substituted “December 31, 2000” for “December 31, 2002”, and in table in concluding provisions, struckout item at end relating to service period January 1, 2001, to December 31, 2002.
 
 <b>1997</b>—Subsec. (c). Pub. L. 105–33 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Credit shall be given under this System to a participant for a period of prior satisfactory service as—
 
@@ -77,7 +77,7 @@ The Domestic Volunteer Service Act of 1973, referred to in subsec. (c)(1)(C), is
 
 > if the participant makes a payment to the Fund equal to 3 percent of pay received for the volunteer service (as determined in accordance with regulations of the Secretary of State consistent with regulations for making corresponding determinations under chapter 83, title 5) together with interest determined under regulations issued by the Secretary of State.”
 
-<b>1993</b>—Subsec. (a)(3). Pub. L. 103–178, §204(b)(1), substituted “the Central Intelligence Agency RetirementAct (50 U.S.C. 2011 et seq.)” for “the Central Intelligence Agency Retirement Act of 1964 for Certain Employees”.
+<b>1993</b>—Subsec. (a)(3). Pub. L. 103–178, §204(b)(1), substituted “the Central Intelligence Agency Retirement Act (50 U.S.C. 2011 et seq.)” for “the Central Intelligence Agency Retirement Act of 1964 for Certain Employees”.
 
 Subsec. (d). Pub. L. 103–178, §204(b)(2)(B), substituted “the Central Intelligence Agency Retirement Act (50 U.S.C. 2151 et seq.)” for “the Central Intelligence Agency Retirement Act of 1964 for Certain Employees”.
 

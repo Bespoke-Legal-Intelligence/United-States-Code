@@ -76,7 +76,7 @@ For purposes of this section, the term “violate” includes any action (alone 
 
 #### (i) Regulations
 
-The Comptroller of the Currency and the Board shall prescribe regulations establishingsuch procedures as may be necessary to carry out this section.
+The Comptroller of the Currency and the Board shall prescribe regulations establishing such procedures as may be necessary to carry out this section.
 
 #### (m) <sup>4</sup> Notice under this section after separation from service
 
@@ -86,15 +86,15 @@ The resignation, termination of employment or participation, or separation of an
 
 #### Codification
 
-In subsec. (a), “section 371c, 371c–1, 375, 375a, 375b, 376, or 503 of this title” was in the original “section 22, 23A, or 23B”, meaning section 22, 23A, or 23B of the Federal Reserve Act. Sections 23A and 23B are classified to sections 371c and 371c–1, respectively, of this title. Subsections (d) to (h) of section 22 are classified to sections 375, 375a, 375b, 376, and 503 of this title.
+In subsec. (a), “section 371c, 371c–1, 375, 375a, 375b, 376, or 503 of this title” was in the original “section 22, 23A, or 23B”, meaning section 22, 23A, or 23B of the Federal Reserve Act. Sections 23A and 23B are classified to sections 371c and 371c–1, respectively, of this title. Subsections (d) to (h) of section 22 are classified to sections 375, 375a, 375b, 376, and 503 of this title. The text of section 375 of this title was struck out by Pub. L. 111–203, title VI, §615(b), July 21, 2010, 124 Stat. 1615.
 
 #### Amendments
 
-1989—Pub. L. 101–73, §907(g), amended section generally, substituting provisions of subsecs. (a) to (i) for former provisions which related to the following: subsec. (a), making loans, extensions of credit, purchases of securities, etc., respecting affiliates, executive officers, etc.; subsec. (b), amount of penalty; subsec. (c), opportunity for hearing; subsec. (d), review by United States court of appeals; subsec. (e), action by Attorney General for failure to pay assessment; subsec. (f), promulgation of regulations; and subsec. (g), penalties covered into Treasury of United States.
+<b>1989</b>—Pub. L. 101–73, §907(g), amended section generally, substituting provisions of subsecs. (a) to (i) for former provisions which related to the following: subsec. (a), making loans, extensions of credit, purchases of securities, etc., respecting affiliates, executive officers, etc.; subsec. (b), amount of penalty; subsec. (c), opportunity for hearing; subsec. (d), review by United States court of appeals; subsec. (e), action by Attorney General for failure to pay assessment; subsec. (f), promulgation of regulations; and subsec. (g), penalties covered into Treasury of United States.
 
 Subsec. (m). Pub. L. 101–73, §905(f), added subsec. (m).
 
-1982—Subsec. (a). Pub. L. 97–320, §424(c), (d)(1), inserted proviso giving agency discretionary authority to compromise, etc., any civil money penalty imposed under its authority, and substituted “may be assessed” for “shall be assessed”, respectively.
+<b>1982</b>—Subsec. (a). Pub. L. 97–320, §424(c), (d)(1), inserted proviso giving agency discretionary authority to compromise, etc., any civil money penalty imposed under its authority, and substituted “may be assessed” for “shall be assessed”, respectively.
 
 Subsec. (d). Pub. L. 97–320, §424(e), substituted “twenty days from the service” for “ten days from the date”.
 

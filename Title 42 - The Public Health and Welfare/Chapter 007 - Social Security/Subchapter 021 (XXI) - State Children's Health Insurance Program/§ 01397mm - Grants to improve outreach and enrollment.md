@@ -20,7 +20,7 @@
 
 &emsp;&emsp;&emsp;(i) eligible but unenrolled children, including such children who reside in rural areas; or
 
-&emsp;&emsp;&emsp;(ii) racial and ethnic minorities and health disparity populations, includingthose proposals that address cultural and linguistic barriers to enrollment; and
+&emsp;&emsp;&emsp;(ii) racial and ethnic minorities and health disparity populations, including those proposals that address cultural and linguistic barriers to enrollment; and
 
 &emsp;&emsp;(B) submit the most demonstrable evidence required under paragraphs (1) and (2) of subsection (c).
 
@@ -100,7 +100,7 @@ In this section:
 
 #### (3) Indians; Indian tribe; tribal organization; urban Indian organization
 
-&emsp;The terms “Indian”, “Indian tribe”, “tribal organization”, and “urban Indian organization” have the meanings given such terms insection 4 of the Indian Health Care Improvement Act (25 U.S.C. 1603).
+&emsp;The terms “Indian”, “Indian tribe”, “tribal organization”, and “urban Indian organization” have the meanings given such terms in section 4 of the Indian Health Care Improvement Act (25 U.S.C. 1603).
 
 #### (4) Community health worker
 

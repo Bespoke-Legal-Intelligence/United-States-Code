@@ -18,7 +18,7 @@ The Secretary of Housing and Urban Development shall collect and maintain inform
 
 &emsp;&emsp;(D) For each designated census tract, the percentage of such lender's total insured mortgages originated during each year of the applicable collection period (with respect to properties within such census tract) on which defaults or foreclosures have occurred during the applicable collection period.
 
-&emsp;&emsp;(E) The total of all such originations, defaults, and foreclosures on insured mortgages originated by such lender during the applicable collection period for all designated census tracts and the percentage of the total number of such lender's insuredmortgage originations on which defaults or foreclosures have occurred during the applicable collection period.
+&emsp;&emsp;(E) The total of all such originations, defaults, and foreclosures on insured mortgages originated by such lender during the applicable collection period for all designated census tracts and the percentage of the total number of such lender's insured mortgage originations on which defaults or foreclosures have occurred during the applicable collection period.
 
 #### (2) Other information
 

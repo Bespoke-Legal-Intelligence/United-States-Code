@@ -6,11 +6,11 @@ Effective with fiscal year 1978 and each fiscal year thereafter, there is hereby
 
 #### Amendments
 
-2004—Pub. L. 108–447 substituted “$40,000” for “$20,000”.
+<b>2004</b>—Pub. L. 108–447 substituted “$40,000” for “$20,000”.
 
-2003—Pub. L. 108–7 substituted “$20,000” for “$10,000”.
+<b>2003</b>—Pub. L. 108–7 substituted “$20,000” for “$10,000”.
 
-1986—Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 #### Effective Date of 2004 Amendment
 

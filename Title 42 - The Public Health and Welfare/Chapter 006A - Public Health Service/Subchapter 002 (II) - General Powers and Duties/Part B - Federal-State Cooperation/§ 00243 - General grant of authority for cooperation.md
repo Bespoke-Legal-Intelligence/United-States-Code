@@ -48,7 +48,7 @@ Section 5(b) of Pub. L. 89–749 provided that the amendment of subsec. (b) of t
 
 #### Food Allergens in the Food Code
 
-Pub. L. 108–282, title II, §209, Aug. 2, 2004, 118 Stat. 910, provided that: “The Secretary of Health andHuman Services shall, in the Conference for Food Protection, as part of its efforts to encourage cooperative activities between the States under section 311 of the Public Health Service Act (42 U.S.C. 243), pursue revision of the Food Code to provide guidelines for preparing allergen-free foods in food establishments, including in restaurants, grocery store delicatessens and bakeries, and elementary and secondary school cafeterias. The Secretary shall consider guidelines and recommendations developed by public and private entities for public and private food establishments for preparing allergen-free foods in pursuing this revision.”
+Pub. L. 108–282, title II, §209, Aug. 2, 2004, 118 Stat. 910, provided that: “The Secretary of Health and Human Services shall, in the Conference for Food Protection, as part of its efforts to encourage cooperative activities between the States under section 311 of the Public Health Service Act (42 U.S.C. 243), pursue revision of the Food Code to provide guidelines for preparing allergen-free foods in food establishments, including in restaurants, grocery store delicatessens and bakeries, and elementary and secondary school cafeterias. The Secretary shall consider guidelines and recommendations developed by public and private entities for public and private food establishments for preparing allergen-free foods in pursuing this revision.”
 
 #### Training of Private Persons Subject to Reimbursement or Advances to Appropriations
 

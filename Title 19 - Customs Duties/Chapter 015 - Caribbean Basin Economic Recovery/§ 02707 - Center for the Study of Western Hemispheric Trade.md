@@ -2,11 +2,11 @@
 
 #### (a) Establishment
 
-The Commissioner of Customs, after consultation with appropriate officials in the State of Texas, is authorized and directed to make grants to an institution (or a consortium of such institutions) to assist such institution in planning, establishing, and operating a Center forthe Study of Western Hemispheric Trade (hereafter in this section referred to as the “Center”). The Commissioner of Customs shall make the first grant not later than December 1, 1994, and the Center shall be established not later than February 1, 1995.
+The Commissioner of Customs, after consultation with appropriate officials in the State of Texas, is authorized and directed to make grants to an institution (or a consortium of such institutions) to assist such institution in planning, establishing, and operating a Center for the Study of Western Hemispheric Trade (hereafter in this section referred to as the “Center”). The Commissioner of Customs shall make the first grant not later than December 1, 1994, and the Center shall be established not later than February 1, 1995.
 
 #### (b) Scope of Center
 
-The Center shall be a year-round program operated by an institution located in the State of Texas (or a consortium of such institutions), the purpose of which is to promote and study trade between and among Western Hemisphere countries. The Center shall conduct activities designed to examine—
+The Center shall be a year-round program operated by an institution located in the State of Texas (or a consortium of such institutions), the purpose of which is to promote and study tradebetween and among Western Hemisphere countries. The Center shall conduct activities designed to examine—
 
 &emsp;(1) the impact of the NAFTA on the economies in, and trade within, the Western Hemisphere;
 
@@ -82,7 +82,7 @@ Subsec. (h)(1), (2). Pub. L. 104–295, §21(d)(2), substituted semicolon for co
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of theDepartment of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Authorization of Appropriations
 

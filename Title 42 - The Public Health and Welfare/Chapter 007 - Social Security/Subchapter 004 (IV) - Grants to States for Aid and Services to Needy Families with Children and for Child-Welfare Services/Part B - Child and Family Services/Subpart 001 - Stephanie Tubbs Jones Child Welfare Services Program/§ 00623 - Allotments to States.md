@@ -20,7 +20,7 @@ For purposes of this section, the term “United States” means the 50 States a
 
 #### (1) In general
 
-&emsp;The amount of any allotment to a State for a fiscal year under the preceding provisions ofthis section which the State certifies to the Secretary will not be required for carrying out the State plan developed as provided in section 622 of this title shall be available for reallotment from time to time, on such dates as the Secretary may fix, to other States which the Secretary determines—
+&emsp;The amount of any allotment to a State for a fiscal year under the preceding provisions of this section which the State certifies to the Secretary will not be required for carrying out the State plan developed as provided in section 622 of this title shall be available for reallotment from time to time, on such dates as the Secretary may fix, to other States which the Secretary determines—
 
 &emsp;&emsp;(A) need sums in excess of the amounts allotted to such other States under the preceding provisions of this section, in carrying out their State plans so developed; and
 
@@ -40,7 +40,7 @@ For purposes of this section, the term “United States” means the 50 States a
 
 &emsp;Any amount so reallotted to a State is deemed part of the allotment of the State under this section.
 
-(Aug. 14, 1935, ch. 531, title IV, §423, formerly §421, as added Pub. L. 90–248, title II, §240(c), Jan. 2, 1968, 81 Stat. 912; amended Pub. L. 96–272, title I, §103(a), June 17, 1980, 94 Stat. 516; Pub. L. 100–203, title IX, §9135(b)(2), Dec. 22, 1987, 101 Stat. 1330–315; renumbered §423 and amended Pub. L. 109–288, §§6(b)(2), (d), 11(a)(1), Sept. 28, 2006, 120 Stat. 1244, 1246, 1255.)
+(Aug. 14, 1935, ch. 531, title IV, §423, formerly §421, as added Pub. L. 90–248, title II, §240(c), Jan. 2, 1968, 81 Stat. 912; amended Pub. L. 96–272, title I, §103(a), June 17, 1980, 94 Stat. 516; Pub. L. 100–203, title IX, §9135(b)(2), Dec. 22, 1987, 101 Stat. 1330–315; renumbered §423 and amended Pub. L. 109–288, §§6(b)(2), (d), 11(a)(1), Sept. 28, 2006, 120 Stat. 1244, 1246, 1255; Pub. L. 112–34, title I, §101(d), Sept. 30, 2011, 125 Stat. 371.)
 
 #### Codification
 
@@ -51,6 +51,8 @@ Section was formerly classified to section 621 of this title prior to renumberin
 A prior section 623, act Aug. 14, 1935, ch. 531, title IV, §423, as added Pub. L. 90–248, title II, §240(c), Jan. 2, 1968, 81 Stat. 913, and amended, which related to payment to States, was renumbered section 424 of act Aug. 14, 1935, by Pub. L. 109–288, §6(b)(2), Sept. 28, 2006, 120 Stat. 1244, and transferred to section 624 of this title.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (b). Pub. L. 112–34, which directed substitution of “percent” for “per centum” wherever appearing, was not executed due to prior amendment by Pub. L. 109–288, §11(a)(1)(A). See 2006 Amendment note below.
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–288, §11(a)(1)(B), substituted “The Secretary” for “He”.
 
@@ -69,6 +71,10 @@ Subsec. (e). Pub. L. 109–288, §6(d)(5), added subsec. (e).
 <b>1987</b>—Subsec. (b). Pub. L. 100–203 substituted “Guam, and American Samoa” for “and Guam”.
 
 <b>1980</b>—Pub. L. 96–272 designated existing provisions as subsec. (a) and added subsecs. (b) to (d).
+
+#### Effective Date of 2011 Amendment
+
+Amendment by Pub. L. 112–34 effective Oct. 1, 2011, and applicable to payments under this part and part E of this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 107 of Pub. L. 112–34, set out as a note under section 622 of this title.
 
 #### Effective Date of 2006 Amendment
 

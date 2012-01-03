@@ -2,9 +2,9 @@
 
 (a) The head of each agency referred to in section 2302(a)(2)(C)(ii) of title 5 shall prescribe procedures for ensuring that the rights under this chapter apply to the employees of such agency.
 
-(b) In prescribing procedures under subsection (a), the head of an agency referred to in thatsubsection shall ensure, to the maximum extent practicable, that the procedures of the agency for reemploying persons who serve in the uniformed services provide for the reemployment of such persons in the agency in a manner similar to the manner of reemployment described in section 4313.
+(b) In prescribing procedures under subsection (a), the head of an agency referred to in that subsection shall ensure, to the maximum extent practicable, that the procedures of the agency for reemploying persons who serve in the uniformed services provide for the reemployment of such persons in the agency in a manner similar to the manner of reemployment described in section 4313.
 
-(c)(1) The procedures prescribed under subsection (a) shall designate an official at the agency who shall determine whether or not the reemployment of a person referred to in subsection (b) by the agency is impossible or unreasonable.
+(c)(1) The procedures prescribed under subsection (a) shall designate an official at theagency who shall determine whether or not the reemployment of a person referred to in subsection (b) by the agency is impossible or unreasonable.
 
 (2) Upon making a determination that the reemployment by the agency of a person referred to in subsection (b) is impossible or unreasonable, the official referred to in paragraph (1) shall notify the person and the Director of the Office of Personnel Management of such determination.
 

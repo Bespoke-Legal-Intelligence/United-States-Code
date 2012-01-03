@@ -78,17 +78,17 @@ The statement in former section 2 that the use of the word “department” mean
 
 #### Amendments
 
-2006—Pub. L. 109–241 inserted “The Department of Homeland Security.”
+<b>2006</b>—Pub. L. 109–241 inserted “The Department of Homeland Security.”
 
-1988—Pub. L. 100–527 inserted “The Department of Veterans Affairs.”
+<b>1988</b>—Pub. L. 100–527 inserted “The Department of Veterans Affairs.”
 
-1979—Pub. L. 96–88 substituted “Department of Health and Human Services” for “Department of Health, Education, and Welfare” and inserted “The Department of Education.”
+<b>1979</b>—Pub. L. 96–88 substituted “Department of Health and Human Services” for “Department of Health, Education, and Welfare” and inserted “The Department of Education.”
 
-1977—Pub. L. 95–91 inserted “The Department of Energy.”
+<b>1977</b>—Pub. L. 95–91 inserted “The Department of Energy.”
 
-1970—Pub. L. 91–375 struck out “The Post Office Department.”
+<b>1970</b>—Pub. L. 91–375 struck out “The Post Office Department.”
 
-1966—Pub. L. 89–670 inserted “The Department of Housing and Urban Development.” and “The Department of Transportation.”
+<b>1966</b>—Pub. L. 89–670 inserted “The Department of Housing and Urban Development.” and “The Department of Transportation.”
 
 #### Effective Date of 1988 Amendment
 

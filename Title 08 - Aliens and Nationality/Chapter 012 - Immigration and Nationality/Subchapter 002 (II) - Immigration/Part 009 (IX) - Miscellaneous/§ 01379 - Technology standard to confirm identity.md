@@ -34,7 +34,7 @@ Section was enacted as part of the Uniting and Strengthening America by Providin
 
 #### Amendments
 
-2002—Par. (1). Pub. L. 107–173, §§201(c)(5)(A), 202(a)(4)(B)(i), substituted “15 months” for “2 years” and inserted “, including appropriate biometric identifier standards,” after “technology standard”.
+<b>2002</b>—Par. (1). Pub. L. 107–173, §§201(c)(5)(A), 202(a)(4)(B)(i), substituted “15 months” for “2 years” and inserted “, including appropriate biometric identifier standards,” after “technology standard”.
 
 Par. (2). Pub. L. 107–173, §202(a)(4)(B)(ii), substituted “Interoperable” for “Integrated” in heading and “interoperable” for “integrated” in text.
 

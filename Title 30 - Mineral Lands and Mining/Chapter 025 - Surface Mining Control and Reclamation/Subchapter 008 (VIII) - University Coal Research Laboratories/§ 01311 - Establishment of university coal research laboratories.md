@@ -20,7 +20,7 @@ Not more than one coal laboratory established pursuant to this subchapter shall 
 
 #### (d) Period for submission of applications for designation; contents
 
-The Secretary of Energy shall establish a period, not in excess of ninety days after August 3,1977, for the submission of applications for designation under this section. Any institution of higher education desiring to be designated under this subchapter shall submit an application to the Secretary of Energy in such form, at such time, and containing or accompanied by such information as the Secretary of Energy may reasonably require. Each application shall—
+The Secretary of Energy shall establish a period, not in excess of ninety days after August 3, 1977, for the submission of applications for designation under this section. Any institution of higher education desiring to be designated under this subchapter shall submit an application to the Secretary of Energy in such form, at such time, and containing or accompanied by such information as the Secretary of Energy may reasonably require. Each application shall—
 
 &emsp;(1) describe the facilities to be established for coal energy resources and conversion research and research on related environmental problems including facilities for interdisciplinary academic research projects by the combined efforts of specialists such as mining engineers, mineral engineers, geochemists, mineralogists, mineral economists, fuel scientists, combustion engineers, mineral preparation engineers, coal petrographers, geologists, chemical engineers, civil engineers, mechanical engineers, and ecologists;
 

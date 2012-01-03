@@ -22,5 +22,5 @@ The word “costs” is substituted for “direct and indirect costs” to elimi
 
 #### Amendments
 
-<b>2004</b>—Pub. L. 108–458 inserted “or to a foreign government under section 5114” after “provides to an agency”, “and other” after “including administrative”, and“, and the Secretary shall take such action, in coordination with the Secretary of State, as may be appropriate to ensure prompt payment by a foreign government of any invoice or statement of account submitted by the Secretary with respect to services rendered under section 5114” before period at end.
+<b>2004</b>—Pub. L. 108–458 inserted “or to a foreign government under section 5114” after “provides to an agency”, “and other” after “including administrative”, and “, and the Secretary shall take such action, in coordination with the Secretary of State, as may be appropriate to ensure prompt payment by a foreign government of any invoice or statement of account submitted by the Secretary with respect to services rendered under section 5114” before period at end.
 

@@ -62,7 +62,7 @@ Section 14 of the Federal Advisory Committee Act, referred to in subsec. (j), is
 
 #### Codification
 
-Section was enacted as part of the National Science Foundation Authorization Act of 2002, and not as partof the National Science Foundation Act of 1950 which comprises this chapter.
+Section was enacted as part of the National Science Foundation Authorization Act of 2002, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
 
 #### Amendments
 
@@ -78,7 +78,7 @@ Subsec. (f). Pub. L. 108–423, §5(a)(4), substituted “other Federal advisory
 
 #### Change of Name
 
-Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Effective Date of 2004 Amendment
 

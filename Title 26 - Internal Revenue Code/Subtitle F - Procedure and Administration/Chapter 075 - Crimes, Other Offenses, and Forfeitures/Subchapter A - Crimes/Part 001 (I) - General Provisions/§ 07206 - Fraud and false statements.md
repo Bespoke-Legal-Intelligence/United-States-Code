@@ -28,7 +28,7 @@ Any person who—
 
 #### (B) Withholding, falsifying, and destroying records
 
-&emsp;&emsp;Receives, withholds, destroys, mutilates, or falsifies any book, document, or record,or makes any false statement, relating to the estate or financial condition of the taxpayer or other person liable in respect of the tax;
+&emsp;&emsp;Receives, withholds, destroys, mutilates, or falsifies any book, document, or record, or makes any false statement, relating to the estate or financial condition of the taxpayer or other person liable in respect of the tax;
 
 > shall be guilty of a felony and, upon conviction thereof, shall be fined not more than $100,000 ($500,000 in the case of a corporation), or imprisoned not more than 3 years, or both, together with the costs of prosecution.
 
@@ -40,5 +40,5 @@ Any person who—
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–248 applicable to offenses committed after Sept. 3, 1982, see section 329(e) of Pub. L. 97–248, set out as a note under section 7201 of this title.
+Amendment by Pub. L. 97–248 applicable to offenses committed after Sept. 3, 1982, see section 329(e) of Pub.L. 97–248, set out as a note under section 7201 of this title.
 

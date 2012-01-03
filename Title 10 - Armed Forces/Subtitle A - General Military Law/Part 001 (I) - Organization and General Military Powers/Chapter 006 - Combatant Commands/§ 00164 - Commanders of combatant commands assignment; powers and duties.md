@@ -22,7 +22,7 @@ Responsibilities of Combatant Commanders.—(1) The commander of a combatant com
 
 (c)
 
-Command Authority of Combatant Commanders.—(1) Unless otherwise directed by the President or the Secretary of Defense, the authority, direction, and control of the commander of a combatant command with respect to the commands and forces assigned to that command include the command functions of—
+Command Authority of Combatant Commanders.—(1) Unless otherwise directed by thePresident or the Secretary of Defense, the authority, direction, and control of the commander of a combatant command with respect to the commands and forces assigned to that command include the command functions of—
 
 &emsp;(A) giving authoritative direction to subordinate commands and forces necessary to carry out missions assigned to the command, including authoritative direction over all aspects of military operations, joint training, and logistics;
 
@@ -48,7 +48,7 @@ Command Authority of Combatant Commanders.—(1) Unless otherwise directed by th
 
 Authority Over Subordinate Commanders.—Unless otherwise directed by the President or the Secretary of Defense—
 
-&emsp;(1) commanders of commands and forces assigned to a combatant command are under theauthority, direction, and control of, and are responsible to, the commander of the combatant command on all matters for which the commander of the combatant command has been assigned authority under subsection (c);
+&emsp;(1) commanders of commands and forces assigned to a combatant command are under the authority, direction, and control of, and are responsible to, the commander of the combatant command on all matters for which the commander of the combatant command has been assigned authority under subsection (c);
 
 &emsp;(2) the commander of a command or force referred to in clause (1) shall communicate with other elements of the Department of Defense on any matter for which the commander of the combatant command has been assigned authority under subsection (c) in accordance with procedures, if any, established by the commander of the combatant command;
 
@@ -78,7 +78,7 @@ Selection of Subordinate Commanders.—(1) An officer may be assigned to a posit
 
 Combatant Command Staff.—(1) Each unified and specified combatant command shall have a staff to assist the commander of the command in carrying out his responsibilities. Positions of responsibility on the combatant command staff shall be filled by officers from each of the armed forces having significant forces assigned to the command.
 
-(2) An officer may be assigned to a position on the staff of a combatant command or, in the case of such a position that is designated under section 601 of this title as a position of importance and responsibility, may be recommended to the President for assignment to that position, only—
+(2) An officer may be assigned to a position on the staff of a combatant command or, in the case of such a position that is designated under section 601 of this title as a position of importance and responsibility, may be recommendedto the President for assignment to that position, only—
 
 &emsp;(A) with the concurrence of the commander of such command; and
 
@@ -101,6 +101,10 @@ Authority to Suspend Subordinates.—In accordance with procedures established b
 #### Effective Date
 
 Section 214(c) of Pub. L. 99–433 provided that: “Subsections (e), (f), and (g) of section 164 of title 10, United States Code (as added by section 211 of this Act), shall take effect at the end of the 90-day period beginning on the date of the enactment of this Act \[Oct. 1, 1986\], or on such earlier date as may be prescribed by the Secretary of Defense.”
+
+#### Consideration of Reserve Component Officers for Appointment to Certain Command Positions
+
+Pub. L. 112–81, div. A, title V, §518, Dec. 31, 2011, 125 Stat. 1397, provided that: “Whenever officers of the Armed Forces are considered for appointment to the position of Commander, Army North Command or Commander, Air Force North Command, fully qualified officers of the National Guard and the Reserves shall be considered for appointment to such position.”
 
 #### Sense of Congress
 

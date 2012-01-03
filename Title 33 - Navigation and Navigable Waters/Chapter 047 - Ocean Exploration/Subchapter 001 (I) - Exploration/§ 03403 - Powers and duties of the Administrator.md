@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In carrying out the program authorized by section 3402 of this title, the Administrator of the National Oceanic and Atmospheric Administration shall—
+In carrying out the program authorized by section 3402 of this title, the Administrator of theNational Oceanic and Atmospheric Administration shall—
 
 &emsp;(1) conduct interdisciplinary voyages or other scientific activities in conjunction with other Federal agencies or academic or educational institutions, to explore and survey little known areas of the marine environment, inventory, observe, and assess living and nonliving marine resources, and report such findings;
 

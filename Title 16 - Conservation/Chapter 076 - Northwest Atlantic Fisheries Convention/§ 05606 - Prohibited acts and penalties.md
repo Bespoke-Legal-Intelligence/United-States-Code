@@ -32,7 +32,7 @@ Any person who commits an act that is unlawful under paragraph (2), (3), (4), or
 
 #### (2) Disposal of fish
 
-&emsp;Any fish seized pursuant to this chapter may be disposed of pursuant to the order of a courtof competent jurisdiction or, if perishable, in a manner prescribed by regulations issued by the Secretary.
+&emsp;Any fish seized pursuant to this chapter may be disposed of pursuant to the order of a court of competent jurisdiction or, if perishable, in a manner prescribed by regulations issued by the Secretary.
 
 #### (e) Enforcement
 

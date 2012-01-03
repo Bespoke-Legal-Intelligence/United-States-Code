@@ -66,7 +66,7 @@ For the purposes of this chapter, the term—
 
 &emsp;&emsp;(K) research activities to improve the basis for determining appropriate management measures to apply to Indian forest lands;
 
-&emsp;(5) “forest management plan” means the principal document, approved by the Secretary, reflecting and consistent with a tribal integrated resource management plan, which provides for the regulation of the detailed, multiple-use operation of Indian forest land by methods assuring that such lands remain in a continuously productive state while meeting the objectives of the tribe and which shall include—
+&emsp;(5) “forest management plan” means the principal document, approved by the Secretary, reflecting and consistent with a tribal integrated resource management plan, which provides for the regulation of the detailed, multiple-use operation of Indian forest land by methods assuring that such lands remain in acontinuously productive state while meeting the objectives of the tribe and which shall include—
 
 &emsp;&emsp;(A) standards setting forth the funding and staffing requirements necessary to carry out each management plan, with a report of current forestry funding and staffing levels; and
 

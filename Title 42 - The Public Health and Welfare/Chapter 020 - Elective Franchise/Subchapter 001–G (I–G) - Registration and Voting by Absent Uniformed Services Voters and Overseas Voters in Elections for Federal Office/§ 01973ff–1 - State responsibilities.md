@@ -94,7 +94,7 @@ With respect to each absent uniformed services voter and each overseas voter who
 
 #### (B) Privacy protections
 
-&emsp;&emsp;To the extent practicable, the procedures established under subsection (a)(6) shall ensure that the privacy of the identity and other personal data of an absent uniformed services voter or overseas voter who requests or is sent a voter registration application or absentee ballot application under such subsection is protected throughout the processof making such request or being sent such application.
+&emsp;&emsp;To the extent practicable, the procedures established under subsection (a)(6) shall ensure that the privacy of the identity and other personal data of an absent uniformed services voter or overseas voter who requests or is sent a voter registration application or absentee ballot application under such subsection is protected throughout the process of making such request or being sent such application.
 
 #### (f) Transmission of blank absentee ballots by mail and electronically
 
@@ -248,7 +248,7 @@ Amendment by section 584(b) of Pub. L. 111–84 applicable with respect to the r
 
 #### Clarification Regarding Delegation of State Responsibilities to Local Jurisdictions
 
-Pub. L. 111–84, div. A, title V, §576, Oct. 28, 2009, 123 Stat. 2319, provided that: “Nothing in the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff et seq.) may be construed to prohibit a State from delegating its responsibilities in carrying out the requirements of such Act, including any requirements imposed as a result of the provisions of and amendments made by this Act \[probably means subtitle H (§§575–589) of title V of div. A of Pub. L. 111–84, seeShort Title of 2009 Amendment note set out under section 1971 of this title\], to jurisdictions in the State.”
+Pub. L. 111–84, div. A, title V, §576, Oct. 28, 2009, 123 Stat. 2319, provided that: “Nothing in the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff et seq.) may be construed to prohibit a State from delegating its responsibilities in carrying out the requirements of such Act, including any requirements imposed as a result of the provisions of and amendments made by this Act \[probably means subtitle H (§§575–589) of title V of div. A of Pub. L. 111–84, see Short Title of 2009 Amendment note set out under section 1971 of this title\], to jurisdictions in the State.”
 
 #### Development of Standardized Format for Reports
 

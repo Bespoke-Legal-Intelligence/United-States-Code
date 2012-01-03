@@ -18,7 +18,7 @@ For the purposes of this subchapter—
 
 &emsp;&emsp;(B) a private nonprofit agency or organization, established for the purpose of improving the availability of medical, osteopathic, optometric, dental or podiatric care in the community or having some function or functions related to the provision of such care, which will, through lease or other arrangement, make the group practice facility with respect to which assistance has been requested under this subchapter available to a medical or dental group for use by it.
 
-&emsp;(5) The term “nonprofit organization” means a corporation, association, foundation,trust, or other organization no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual except, in the case of an organization the purposes of which include the provision of personal health services to its members or subscribers or their dependents under a plan of such organization for the provision of such services to them (which plan may include the provision of other services or insurance benefits to them), through the provision of such health services (or such other services or insurance benefits) to such members or subscribers or dependents under such plan.
+&emsp;(5) The term “nonprofit organization” means a corporation, association, foundation, trust, or other organization no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual except, in the case of an organization the purposes of which include the provision of personal health services to its members or subscribers or their dependents under a plan of such organization for the provision of such services to them (which plan may include the provision of other services or insurance benefits to them), through the provision of such health services (or such other services or insurance benefits) to such members or subscribers or dependents under such plan.
 
 &emsp;(6) The term “State” includes the Commonwealth of Puerto Rico, Guam, the Virgin Islands, American Samoa, and the District of Columbia.
 
@@ -32,7 +32,7 @@ For the purposes of this subchapter—
 
 #### Amendments
 
-1974—Par. (1). Pub. L. 93–383, §312(b)(1), inserted references to practice of osteopathy and authorized inclusion of podiatric care or treatment under the professional supervision of persons licensed to practice podiatry in the State.
+<b>1974</b>—Par. (1). Pub. L. 93–383, §312(b)(1), inserted references to practice of osteopathy and authorized inclusion of podiatric care or treatment under the professional supervision of persons licensed to practice podiatry in the State.
 
 Par. (2). Pub. L. 93–383, §312(a)(6), added par. (2). Former par. (2) redesignated (3).
 

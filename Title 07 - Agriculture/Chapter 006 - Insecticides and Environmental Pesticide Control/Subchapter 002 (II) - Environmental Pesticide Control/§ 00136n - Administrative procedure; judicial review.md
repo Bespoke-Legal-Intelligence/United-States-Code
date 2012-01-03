@@ -20,13 +20,13 @@ The Administrator shall, by publication in such manner as the Administrator may 
 
 #### Amendments
 
-1991—Subsec. (b). Pub. L. 102–237, §1006(b)(1), (2), (3)(P), substituted “the Administrator” for “he” before “based”, “the Administrator's” for “his”, and “the Administrator” for “him” after “designated by”.
+<b>1991</b>—Subsec. (b). Pub. L. 102–237, §1006(b)(1), (2), (3)(P), substituted “the Administrator” for “he” before “based”, “the Administrator's” for “his”, and “the Administrator” for “him” after “designated by”.
 
 Subsec. (d). Pub. L. 102–237, §1006(b)(1), substituted “the Administrator” for “he” before “may”.
 
-1988—Subsec. (a). Pub. L. 100–532 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Except as is otherwise provided in this subchapter, Agency refusals to cancel or suspend registrations or change classifications not following a hearing and other final Agency actions not committed to Agency discretion by law are judicially reviewable in the district courts.”
+<b>1988</b>—Subsec. (a). Pub. L. 100–532 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Except as is otherwise provided in this subchapter, Agency refusals to cancel or suspend registrations or change classifications not following a hearing and other final Agency actions not committed to Agency discretion by law are judicially reviewable in the district courts.”
 
-1984—Subsec. (b). Pub. L. 98–620 struck out provisions requiring the court to advance on the docket and expedite the disposition of all cases filed pursuant to this section.
+<b>1984</b>—Subsec. (b). Pub. L. 98–620 struck out provisions requiring the court to advance on the docket and expedite the disposition of all cases filed pursuant to this section.
 
 #### Effective Date of 1988 Amendment
 

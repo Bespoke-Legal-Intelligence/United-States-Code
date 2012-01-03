@@ -76,11 +76,11 @@ Section 5707(d) of this title, referred to in text, was repealed by Pub. L. 104�
 
 #### Amendments
 
-1990—Pub. L. 101–391 substituted “Except as otherwise provided in section 5707(d), for the purpose” for “For the purpose”.
+<b>1990</b>—Pub. L. 101–391 substituted “Except as otherwise provided in section 5707(d), for the purpose” for “For the purpose”.
 
-1986—Par. (4). Pub. L. 99–234 amended par. (4) generally, striking out “flat rate” before “payment”.
+<b>1986</b>—Par. (4). Pub. L. 99–234 amended par. (4) generally, striking out “flat rate” before “payment”.
 
-1975—Par. (2). Pub. L. 94–22 redefined “employee” to include individuals employed intermittently as experts or consultants and paid on a daily when-actually-employed basis, and individuals serving without pay at $1 a year.
+<b>1975</b>—Par. (2). Pub. L. 94–22 redefined “employee” to include individuals employed intermittently as experts or consultants and paid on a daily when-actually-employed basis, and individuals serving without pay at $1 a year.
 
 #### Effective Date of 1986 Amendment; Regulations
 
@@ -104,7 +104,7 @@ Section 1 of Pub. L. 99–234 provided that: “This Act \[enacting sections 570
 
 #### Short Title of 1975 Amendment
 
-Section 1 of Pub. L. 94–22 provided: “That this Act \[amending this section, sections 5702, 5703, 5704, 5705,and 5707 of this title, and section 68b of Title 2, The Congress, and enacting provisions set out as a note under section 5707 of this title\] may be cited as the “Travel Expense Amendments Act of 1975’.”
+Section 1 of Pub. L. 94–22 provided: “That this Act \[amending this section, sections 5702, 5703, 5704, 5705, and 5707 of this title, and section 68b of Title 2, The Congress, and enacting provisions set out as a note under section 5707 of this title\] may be cited as the “Travel Expense Amendments Act of 1975’.”
 
 #### eTravel Service
 
@@ -112,9 +112,11 @@ Pub. L. 108–447, div. G, title II, §209, Dec. 8, 2004, 118 Stat. 3193, provid
 
 #### Creditworthiness of Individuals To Be Issued Government Charge Cards
 
-Pub. L. 111–117, div. C, title VII, §738, Dec. 16, 2009, 123 Stat. 3214, provided that: “Each executive department and agency shall evaluate the creditworthiness of an individual before issuing the individual a government travel charge card. Such evaluations for individually billed travel charge cards shall include an assessment of the individual's consumer report from a consumer reporting agency as those terms are defined in section 603 of the Fair Credit Reporting Act (Public Law 91–508 \[Pub. L. 90–321\]) \[15 U.S.C. 1681a\]: <i>Provided</i>, That the department or agency may not issue a government travel charge card to an individual that either lacks a credit history or is found to have an unsatisfactory credit history as a result of this evaluation: <i>Provided further</i>, That this restriction shall not preclude issuance of a restricted-use charge, debit, or stored value card made in accordance with agency procedures to: (1) an individual with an unsatisfactory credit history where such card is used to pay travel expenses and the agency determines there is no suitable alternative payment mechanism available before issuing the card; or (2) an individual who lacks a credit history. Each executive department and agency shall establish guidelines and procedures for disciplinary actions to be taken against agency personnel for improper, fraudulent, or abusive use of government charge cards, which shall include appropriate disciplinary actions for use of charge cards for purposes, and at establishments, that are inconsistent with the official business of the Department or agency or with applicable standards of conduct.”
+Pub. L. 112–74, div. C, title VII, §736, Dec. 23, 2011, 125 Stat. 937, provided that: “Each executive departmentand agency shall evaluate the creditworthiness of an individual before issuing the individual a government travel charge card. Such evaluations for individually billed travel charge cards shall include an assessment of the individual's consumer report from a consumer reporting agency as those terms are defined in section 603 of the Fair Credit Reporting Act (Public Law 91–508 \[Pub. L. 90–321\]) \[15 U.S.C. 1681a\]: <i>Provided</i>, That the department or agency may not issue a government travel charge card to an individual that either lacks a credit history or is found to have an unsatisfactory credit history as a result of this evaluation: <i>Provided further</i>, That this restriction shall not preclude issuance of a restricted-use charge, debit, or stored value card made in accordance with agency procedures to: (1) an individual with an unsatisfactory credit history where such card is used to pay travel expenses and the agency determines there is no suitable alternative payment mechanism available before issuing the card; or (2) an individual who lacks a credit history. Each executive department and agency shall establish guidelines and procedures for disciplinary actions to be taken against agency personnel for improper, fraudulent, or abusive use of government charge cards, which shall include appropriate disciplinary actions for use of charge cards for purposes, and at establishments, that are inconsistent with the official business of the Department or agency or with applicable standards of conduct.”
 
 Similar provisions were contained in the following prior appropriations acts:
+
+Pub. L. 111–117, div. C, title VII, §738, Dec. 16, 2009, 123 Stat. 3214.
 
 Pub. L. 111–8, div. D, title VII, §741, Mar. 11, 2009, 123 Stat. 691.
 
@@ -192,7 +194,7 @@ Regulations.—Within 270 days after the date of the enactment of this Act \[Oct
 
 &emsp;“(2) specify the procedures for effecting under subsection (d) a deduction from pay owed to an employee, and ensure that the due process protections provided to employees under such procedures are no less than the protections provided to employees pursuant to section 3716 of title 31, United States Code;
 
-&emsp;“(3) provide that any deduction under subsection (d) from pay owed to an employee may occur only after reimbursement of the employee for the expensesof Government travel with respect to which the deduction is made; and
+&emsp;“(3) provide that any deduction under subsection (d) from pay owed to an employee may occur only after reimbursement of the employee for the expenses of Government travel with respect to which the deduction is made; and
 
 &emsp;“(4) require agencies to promptly reimburse employees for expenses charged on a travel charge card pursuant to this section, and by no later than 30 days after the submission of a claim for reimbursement.
 

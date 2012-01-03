@@ -28,7 +28,7 @@ Repayment of Unearned Portion of Bonuses and Other Benefits When Conditions of P
 
 &emsp;(ii) may grant an exception to the requirement to terminate the payment of any unpaid amounts of a bonus, incentive pay, or similar benefit if the Secretary concerned determines that termination of the payment of the unpaid amounts would be contrary to a personnel policy or management objective, would be against equity and good conscience, or would be contrary to the best interests of the United States.
 
-(B) In this paragraph, the term “sole survivorship discharge” means the separation of a member from the Armed Forces, at the request of the member, pursuant to the Department of Defense policy permitting the early separation of a member who is the only surviving child in a family in which—
+(B) In this paragraph, the term “sole survivorship discharge” means the separation of a member from the Armed Forces, at the request of the member, pursuant to the Department of Defense policy permitting the early separation of amember who is the only surviving child in a family in which—
 
 &emsp;(i) the father or mother or one or more siblings—
 
@@ -40,7 +40,7 @@ Repayment of Unearned Portion of Bonuses and Other Benefits When Conditions of P
 
 (3)(A) If a member of the uniformed services dies or is retired or separated with a combat-related disability, the Secretary concerned—
 
-&emsp;(i) shall not require repayment by the member or the member's estate of the unearnedportion of any bonus or similar benefit previously paid to the member; and
+&emsp;(i) shall not require repayment by the member or the member's estate of the unearned portion of any bonus or similar benefit previously paid to the member; and
 
 &emsp;(ii) shall require the payment to the member or the member's estate of the remainder of any bonus or similar benefit that was not yet paid to the member, but to which the member was entitled immediately before the death, retirement, or separation of the member, and would be paid if not for the death, retirement, or separation of the member.
 
@@ -88,7 +88,7 @@ Section 752 of the Public Health Service Act, as that section was in effect betw
 
 Subsec. (e)(1)(B), (2). Pub. L. 111–84, §617(a)(5), redesignated subpar. (B), relating to sole survivorship discharge, as par. (2). Former par. (2) redesignated (3).
 
-Subsec. (e)(3) to (5). Pub. L. 111–84, §617(a)(2)–(4), redesignated pars. (2) to (4) as (3) to (5), respectively, and, in par. (5)(B), substituted “paragraph (4)(B)” for “paragraph (3)(B)” in introductory provisions.
+Subsec. (e)(3) to (5). Pub. L. 111–84, §617(a)(2)–(4), redesignated pars. (2) to (4) as (3) to (5), respectively, and,in par. (5)(B), substituted “paragraph (4)(B)” for “paragraph (3)(B)” in introductory provisions.
 
 <b>2008</b>—Subsec. (e). Pub. L. 110–417, §651(a)(1), inserted “; Termination of Entitlement to Unpaid Amounts” after “Met” in heading.
 

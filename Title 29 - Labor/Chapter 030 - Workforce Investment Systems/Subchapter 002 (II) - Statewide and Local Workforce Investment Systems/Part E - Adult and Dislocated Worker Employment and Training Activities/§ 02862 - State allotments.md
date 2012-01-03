@@ -22,7 +22,7 @@ The Secretary shall—
 
 #### (ii) Applicability of additional requirements
 
-&emsp;&emsp;&emsp;From the amount reserved under clause (i), the Secretary shall provide assistanceto the outlying areas for adult employment and training activities and statewide workforce investment activities in accordance with the requirements of section 2852(b)(1)(B) of this title, except that the reference in section 2852(b)(1)(B)(i)(II) of this title to sections 252(d) and 262(a)(1) of the Job Training Partnership Act shall be deemed to be a reference to section 202(a)(1) of the Job Training Partnership Act (as in effect on the day before August 7, 1998).
+&emsp;&emsp;&emsp;From the amount reserved under clause (i), the Secretary shall provide assistance to the outlying areas for adult employment and training activities and statewide workforce investment activities in accordance with the requirements of section 2852(b)(1)(B) of this title, except that the reference in section 2852(b)(1)(B)(i)(II) of this title to sections 252(d) and 262(a)(1) of the Job Training Partnership Act shall be deemed to be a reference to section 202(a)(1) of the Job Training Partnership Act (as in effect on the day before August 7, 1998).
 
 #### (B) States
 
@@ -90,7 +90,7 @@ The Secretary shall—
 
 #### (III) Area of substantial unemployment
 
-&emsp;&emsp;&emsp;&emsp;The term “area of substantial unemployment” means any area that is of sufficient size and scope to sustain a program of workforce investment activities carried out under this subchapter and that has an average rate of unemployment of at least 6.5 percent for the most recent 12 months, as determined by theSecretary. For purposes of this subclause, determinations of areas of substantial unemployment shall be made once each fiscal year.
+&emsp;&emsp;&emsp;&emsp;The term “area of substantial unemployment” means any area that is of sufficient size and scope to sustain a program of workforce investment activities carried out under this subchapter and that has an average rate of unemployment of at least 6.5 percent for the most recent 12 months, as determined by the Secretary. For purposes of this subclause, determinations of areas of substantial unemployment shall be made once each fiscal year.
 
 #### (IV) Disadvantaged adult
 
@@ -164,11 +164,11 @@ The Secretary shall—
 
 #### (2) Amount
 
-&emsp;The amount available for reallotment for a program year is equal to the amount by which the unobligated balance of the State allotments under this section for such activities, at the end of the program year prior to the program year for which the determination under this paragraph is made, exceeds 20 percent of such allotments for the prior program year.
+&emsp;The amount available for reallotment for a program year is equal to the amount by which the unobligated balance of the State allotments under this section for such activities, atthe end of the program year prior to the program year for which the determination under this paragraph is made, exceeds 20 percent of such allotments for the prior program year.
 
 #### (3) Reallotment
 
-&emsp;In making reallotments to eligible States of amounts available pursuant to paragraph (2)for a program year, the Secretary shall allot to each eligible State an amount based on the relative amount allotted to such State under this section for such activities for the prior program year, as compared to the total amount allotted to all eligible States under this section for such activities for such prior program year.
+&emsp;In making reallotments to eligible States of amounts available pursuant to paragraph (2) for a program year, the Secretary shall allot to each eligible State an amount based on the relative amount allotted to such State under this section for such activities for the prior program year, as compared to the total amount allotted to all eligible States under this section for such activities for such prior program year.
 
 #### (4) Eligibility
 

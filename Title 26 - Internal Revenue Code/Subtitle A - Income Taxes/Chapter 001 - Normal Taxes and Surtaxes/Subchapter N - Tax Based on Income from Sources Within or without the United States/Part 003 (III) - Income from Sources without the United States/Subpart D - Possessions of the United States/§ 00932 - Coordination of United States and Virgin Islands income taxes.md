@@ -98,7 +98,7 @@ Subsec. (e). Pub. L. 100–647, §1012(w)(1), substituted current heading for �
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–357 applicable to taxable years ending after Oct. 22, 2004, see section 908(d)(1) of Pub. L. 108–357, set out as an Effective Date note under section 937 of this title.
+Amendment by Pub. L. 108–357 applicable to taxable years ending after Oct. 22, 2004, see section 908(d)(1) ofPub. L. 108–357, set out as an Effective Date note under section 937 of this title.
 
 #### Effective Date of 1988 Amendment
 

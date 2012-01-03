@@ -74,7 +74,7 @@ Subject to the succeeding provisions of this section, the Secretary shall provid
 
 #### (d) Benefit in addition to medical benefits
 
-A benefit under subsection (a) of this section shall be in addition to any amounts received byan eligible individual under section 239c of this title.
+A benefit under subsection (a) of this section shall be in addition to any amounts received by an eligible individual under section 239c of this title.
 
 (July 1, 1944, ch. 373, title II, §265, as added Pub. L. 108–20, §2, Apr. 30, 2003, 117 Stat. 642.)
 

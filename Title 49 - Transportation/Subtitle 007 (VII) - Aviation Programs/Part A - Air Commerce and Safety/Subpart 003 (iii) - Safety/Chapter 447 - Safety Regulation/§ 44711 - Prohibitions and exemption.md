@@ -32,7 +32,7 @@ Exemption.—On terms the Administrator of the Federal Aviation Administration p
 
 (c)
 
-Prohibition on Employment of Convicted Counterfeit Part Traffickers.—No person subject to this chapter may knowingly employ anyone to perform a function related to the procurement, sale, production, or repair of a part or material, or the installation of a part into a civil aircraft, who has been convicted in a court of law of a violation of any Federal law relating to the installation, production, repair, or sale of a counterfeit or fraudulently-represented aviation part or material.
+Prohibition on Employment of Convicted Counterfeit Part Traffickers.—No person subject to this chapter may knowingly employ anyone to perform a function related to the procurement, sale, production, or repair of a part or material, or the installation of a part into acivil aircraft, who has been convicted in a court of law of a violation of any Federal law relating to the installation, production, repair, or sale of a counterfeit or fraudulently-represented aviation part or material.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1193; Pub. L. 103–429, §6(56), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 106–181, title V, §505(b), Apr. 5, 2000, 114 Stat. 136; Pub. L. 108–176, title II, §227(d), Dec. 12, 2003, 117 Stat. 2532.)
 

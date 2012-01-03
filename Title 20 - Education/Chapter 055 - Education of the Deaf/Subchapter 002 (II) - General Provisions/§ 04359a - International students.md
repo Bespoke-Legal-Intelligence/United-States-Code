@@ -8,7 +8,7 @@
 
 #### (2) Distance learning
 
-&emsp;International students who participate in distance learning courses that are at the University or the NTID, who are residing outside of the United States, and are not enrolled in a degree program at the University or the NTID shall—
+&emsp;International students who participate in distance learning courses that are at the University or the NTID, who are residing outsideof the United States, and are not enrolled in a degree program at the University or the NTID shall—
 
 &emsp;&emsp;(A) not be counted as international students for purposes of the cap on international students under paragraph (1), except that in any school year no United States citizen who applies to participate in distance learning courses that are at the University or NTID shall be denied participation in such courses because of the participation of an international student in such courses; and
 
@@ -20,7 +20,7 @@ Except as provided in subsections (a)(2)(B) and (c), the tuition for postseconda
 
 &emsp;(1) 100 percent for a postsecondary international student from a non-developing country; and
 
-&emsp;(2) 50 percent for a postsecondary international student from a developing country, or a country that was a developing country for any academic year during the student's periodof uninterrupted enrollment in a degree program at the University or NTID, except that such a surcharge shall not be adjusted retroactively.
+&emsp;(2) 50 percent for a postsecondary international student from a developing country, or a country that was a developing country for any academic year during the student's period of uninterrupted enrollment in a degree program at the University or NTID, except that such a surcharge shall not be adjusted retroactively.
 
 #### (c) Reduction of surcharge
 

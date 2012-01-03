@@ -58,7 +58,7 @@
 
 &emsp;&emsp;&emsp;(i) no petition is filed with respect to the alien in accordance with the provisions of paragraph (1)(A), or
 
-&emsp;&emsp;&emsp;(ii) unless there is good cause shown, the alien entrepreneur fails to appear at the interview described in paragraph (1)(B) (if required under subsection (d)(3) of this section),
+&emsp;&emsp;&emsp;(ii) unless there is good cause shown, the alien entrepreneur fails to appear at the interview described in paragraph (1)(B) (ifrequired under subsection (d)(3) of this section),
 
 > &emsp;&emsp;the Attorney General shall terminate the permanent resident status of the alien (and the alien's spouse and children if it was obtained on a conditional basis under this section or section 1186a of this title) as of the second anniversary of the alien's lawful admission for permanent residence.
 
@@ -130,7 +130,7 @@ In this section:
 
 &emsp;(1) The term “alien entrepreneur” means an alien who obtains the status of an alien lawfully admitted for permanent residence (whether on a conditional basis or otherwise) under section 1153(b)(5) of this title.
 
-&emsp;(2) The term “alien spouse” and the term “alien child” mean an alien who obtains the status of an alien lawfully admitted for permanent residence (whether on a conditional basis or otherwise) by virtue of being the spouse or child, respectively, of an alien entrepreneur.
+&emsp;(2) The term “alien spouse” and the term “alien child” mean an alien who obtains thestatus of an alien lawfully admitted for permanent residence (whether on a conditional basis or otherwise) by virtue of being the spouse or child, respectively, of an alien entrepreneur.
 
 &emsp;(3) The term “commercial enterprise” includes a limited partnership.
 
@@ -142,7 +142,7 @@ This chapter, referred to in subsec. (a)(1), was in the original, “this Act”
 
 #### Amendments
 
-2002—Subsec. (b)(1)(A). Pub. L. 107–273, §11036(b)(1)(A), substituted “investment in” for “establishment of”.
+<b>2002</b>—Subsec. (b)(1)(A). Pub. L. 107–273, §11036(b)(1)(A), substituted “investment in” for “establishment of”.
 
 Subsec. (b)(1)(B). Pub. L. 107–273, §11036(b)(1)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows:
 
@@ -162,7 +162,7 @@ Subsec. (d)(1). Pub. L. 107–273, §11036(b)(2), reenacted heading without chan
 
 Subsec. (f)(3). Pub. L. 107–273, §11036(b)(3), added par. (3).
 
-1996—Subsec. (b)(2). Pub. L. 104–208 substituted “removal” for “deportation” in heading and “remove” for “deport” in text.
+<b>1996</b>—Subsec. (b)(2). Pub. L. 104–208 substituted “removal” for “deportation” in heading and “remove” for “deport” in text.
 
 Subsec. (c)(2)(B). Pub. L. 104–208 substituted “removal” for “deportation” in heading and text.
 
@@ -170,7 +170,7 @@ Subsec. (c)(3)(D). Pub. L. 104–208 substituted “removal” for “deportatio
 
 Subsec. (d)(2)(C). Pub. L. 104–208 substituted “removal” for “deportation” wherever appearing in heading and text.
 
-1991—Subsec. (c)(2)(A). Pub. L. 102–232, §302(b)(3)(A), in closing provisions inserted parenthetical provision relating to alien's spouse and children.
+<b>1991</b>—Subsec. (c)(2)(A). Pub. L. 102–232, §302(b)(3)(A), in closing provisions inserted parenthetical provision relating to alien's spouse and children.
 
 Subsecs. (c)(3)(B), (d)(2)(A). Pub. L. 102–232, §302(b)(3)(B), struck out “obtaining the status of” before “lawful admission”.
 
@@ -304,7 +304,7 @@ Second determination.—
 
 &emsp;&emsp;“(A)
 
-Authorization to consider investments in other commercial enterprises.—In determining under this paragraph whether to remove a conditional basis continued under paragraph (1)(F)(ii) with respect to an alien, the Attorney General shall consider any capital investment made by the alien in a commercial enterprise (regardless of whether such enterprise is a limited partnership and regardless of whether the alien entered the enterprise after its formation), in the United States, regardless of whether that investment was made before or after the determinations under paragraph (1) and regardless of whether the commercial enterprise is the same as that considered in the determinations under such paragraph, if facts and information with respect to the investment and the enterprise are included in the petition submitted under subparagraph (B).
+Authorization to consider investments in other commercial enterprises.—In determining under this paragraph whether to remove a conditional basis continued under paragraph (1)(F)(ii) with respect to an alien, the Attorney General shall consider any capital investment made by the alienin a commercial enterprise (regardless of whether such enterprise is a limited partnership and regardless of whether the alien entered the enterprise after its formation), in the United States, regardless of whether that investment was made before or after the determinations under paragraph (1) and regardless of whether the commercial enterprise is the same as that considered in the determinations under such paragraph, if facts and information with respect to the investment and the enterprise are included in the petition submitted under subparagraph (B).
 
 &emsp;&emsp;“(B)
 
@@ -376,7 +376,7 @@ Hearing in Removal Proceeding.—Any alien whose permanent resident status is te
 
 “(e)
 
-Clarification With Respect to Children.—In the case of an alien who obtained the status of an alien lawfully admitted for permanent residence on a conditional basis before the date of the enactment of thisAct \[Nov. 2, 2002\] by virtue of being the child of an eligible alien described in subsection (b)(1), the alien shall be considered to be a child for purposes of this section regardless of any change in age or marital status after obtaining such status.
+Clarification With Respect to Children.—In the case of an alien who obtained the status of an alien lawfully admitted for permanent residence on a conditional basis before the date of the enactment of this Act \[Nov. 2, 2002\] by virtue of being the child of an eligible alien described in subsection (b)(1), the alien shall be considered to be a child for purposes of this section regardless of any change in age or marital status after obtaining such status.
 
 “(f)
 
@@ -458,11 +458,11 @@ Clarification With Respect to Children.—In the case of an alien who was a chil
 
 #### “SEC. 11033. REGULATIONS.
 
-“The Immigration and Naturalization Service shall promulgate regulations to implement this chapter \[chapter 1 (§§11031–11034) of subtitle B of title I of div. C of Pub. L. 107–273, enacting this note\] not later than 120 days after the date of enactment of this Act \[Nov. 2, 2002\]. Until such regulations are promulgated, the Attorney General shall not deny a petition filed or pending under section 216A(c)(1)(A) of the Immigration and Nationality Act (8 U.S.C. 1186b(c)(1)(A)) that relates to an eligible alien described in section 11031, or on an application filed or pending under section 245 of such Act (8 U.S.C. 1255) that relates to an eligible alien described in section 11032. Until such regulations are promulgated, the Attorney General shall not initiate or proceed with removal proceedings under section 240 of the Immigration and Nationality Act (8 U.S.C. 1229a) that relate to an eligible alien described in section 11031 or 11032.
+“The Immigration and Naturalization Service shall promulgate regulations to implement this chapter \[chapter 1 (§§11031–11034) of subtitle B of title I of div. C of Pub. L. 107–273, enacting this note\] not later than 120 days after the date of enactment of this Act \[Nov.2, 2002\]. Until such regulations are promulgated, the Attorney General shall not deny a petition filed or pending under section 216A(c)(1)(A) of the Immigration and Nationality Act (8 U.S.C. 1186b(c)(1)(A)) that relates to an eligible alien described in section 11031, or on an application filed or pending under section 245 of such Act (8 U.S.C. 1255) that relates to an eligible alien described in section 11032. Until such regulations are promulgated, the Attorney General shall not initiate or proceed with removal proceedings under section 240 of the Immigration and Nationality Act (8 U.S.C. 1229a) that relate to an eligible alien described in section 11031 or 11032.
 
 #### “SEC. 11034. DEFINITIONS.
 
-“Except as otherwise provided, the terms used in this chapter shall have the meaning given such terms insection 101(b) of the Immigration and Nationality Act (8 U.S.C. 1101(b)).”
+“Except as otherwise provided, the terms used in this chapter shall have the meaning given such terms in section 101(b) of the Immigration and Nationality Act (8 U.S.C. 1101(b)).”
 
 <i><sup>1</sup></i><i> So in original.</i>
 

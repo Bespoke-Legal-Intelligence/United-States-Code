@@ -44,7 +44,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### Amendments
 
-<b>1998</b>—Subsec. (b). Pub. L. 105–276, §595(b)(1), (2), in heading substituted “Tenant and homebuyer selection”for “Tenant selection” and, in introductory provisions, inserted “and homebuyer” after “tenant”.
+<b>1998</b>—Subsec. (b). Pub. L. 105–276, §595(b)(1), (2), in heading substituted “Tenant and homebuyer selection” for “Tenant selection” and, in introductory provisions, inserted “and homebuyer” after “tenant”.
 
 Subsec. (b)(3)(A). Pub. L. 105–276, §595(b)(3), inserted “and homebuyers” after “tenants”.
 

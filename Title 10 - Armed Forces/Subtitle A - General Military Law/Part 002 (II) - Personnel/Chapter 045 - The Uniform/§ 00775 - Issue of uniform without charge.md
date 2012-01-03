@@ -14,7 +14,7 @@ Issue of Uniform.—The Secretary concerned may issue a uniform, without charge,
 
 (b)
 
-Retention of Uniform as a Personal Item.—Notwithstanding section 771a of this title, a uniform issued to a member under thissection may be retained by the member as a personal item.
+Retention of Uniform as a Personal Item.—Notwithstanding section 771a of this title, a uniform issued to a member under this section may be retained by the member as a personal item.
 
 (Added Pub. L. 102–484, div. A, title III, §377(a)(2), Oct. 23, 1992, 106 Stat. 2386.)
 

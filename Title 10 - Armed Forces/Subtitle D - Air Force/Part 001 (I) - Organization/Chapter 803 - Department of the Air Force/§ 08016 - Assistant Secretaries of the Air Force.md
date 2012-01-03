@@ -4,7 +4,7 @@
 
 (b)(1) The Assistant Secretaries shall perform such duties and exercise such powers as the Secretary of the Air Force may prescribe.
 
-(2) One of the Assistant Secretaries shall be the Assistant Secretary of the Air Force for Manpower and Reserve Affairs. He shall have as his principal duty the overall supervision of manpower and reserve component affairs of the Department of the Air Force.
+(2) One of the Assistant Secretaries shall be the Assistant Secretary of the Air Force forManpower and Reserve Affairs. He shall have as his principal duty the overall supervision of manpower and reserve component affairs of the Department of the Air Force.
 
 (3) One of the Assistant Secretaries shall be the Assistant Secretary of the Air Force for Financial Management. The Assistant Secretary shall have as his principal responsibility the exercise of the comptroller functions of the Department of the Air Force, including financial management functions. The Assistant Secretary shall be responsible for all financial management activities and operations of the Department of the Air Force and shall advise the Secretary of the Air Force on financial management.
 

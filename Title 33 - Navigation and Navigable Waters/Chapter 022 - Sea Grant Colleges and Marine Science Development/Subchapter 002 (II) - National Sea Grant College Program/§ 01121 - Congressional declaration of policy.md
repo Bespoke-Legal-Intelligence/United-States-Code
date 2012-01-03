@@ -50,7 +50,7 @@ Subsec. (a)(1)(D), (E). Pub. L. 110–394, §3(a)(1), added subpars. (D) and (E)
 
 Subsec. (a)(2). Pub. L. 110–394, §3(a)(2), substituted “program of integrated research, education, extension,” for “program of research, education,”.
 
-Subsec. (a)(6). Pub. L. 110–394, §3(a)(3), added par. (6) and struck out former par. (6) which read as follows: “The National Oceanic and Atmospheric Administration, through the national sea grant college program, offers the most suitable locus and means for such commitment and involvement through the promotion of activities that will result in greater such understanding, assessment, development, utilization, and conservation. The most cost-effective way to promote such activities is through continued and increased Federal support of the establishment, development, and operation of programs and projects by sea grant colleges, sea grant institutes, and other institutions, including strong collaborations between Administration scientists and scientists at academic institutions.”
+Subsec. (a)(6). Pub. L. 110–394, §3(a)(3), added par. (6) and struck out former par. (6) which read as follows: “The National Oceanic and Atmospheric Administration, through the national sea grant college program, offers the most suitable locus and means for such commitment and involvement through the promotion of activities that will result in greater such understanding, assessment, development, utilization, and conservation. The most cost-effective way to promote such activities is through continued and increased Federal support of the establishment, development, and operation of programs and projects by sea grant colleges, sea grant institutes, and other institutions, includingstrong collaborations between Administration scientists and scientists at academic institutions.”
 
 Subsec. (b). Pub. L. 110–394, §3(c), inserted “management,” after “development,”.
 
@@ -64,7 +64,7 @@ Subsec. (a)(6). Pub. L. 105–160, §3(b), substituted “The most cost-effectiv
 
 <b>1987</b>—Subsec. (a). Pub. L. 100–220, §§3103(1), 3104(b)(1)(A), added pars. (1) to (3), redesignated former pars. (1) to (3) as (4) to (6), respectively, and substituted “ocean, coastal, and Great Lakes resources” for “ocean and coastal resources” in pars. (4) and (5).
 
-Subsec. (b). Pub. L. 100–220, §3103(2), substituted “ocean, coastal, and Great Lakes resources by providing assistance to promote a strong educational base, responsive research and training activities, broad and prompt dissemination of knowledge and techniques,and multidisciplinary approaches to environmental problems.” for “ocean and coastal resources by providing assistance to promote a strong educational base, responsive research and training activities, and broad and prompt dissemination of knowledge and techniques.”
+Subsec. (b). Pub. L. 100–220, §3103(2), substituted “ocean, coastal, and Great Lakes resources by providing assistance to promote a strong educational base, responsive research and training activities, broad and prompt dissemination of knowledge and techniques, and multidisciplinary approaches to environmental problems.” for “ocean and coastal resources by providing assistance to promote a strong educational base, responsive research and training activities, and broad and prompt dissemination of knowledge and techniques.”
 
 Subsec. (c). Pub. L. 100–220, §3104(b)(1)(B), substituted “ocean, coastal, and Great Lakes resources” for “ocean and coastal resources”.
 

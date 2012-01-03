@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Every employer maintaining a specified fringe benefit plan during any year beginning after December 31, 1984, for any portion of which the applicable exclusion applies, shall file a return (atsuch time and in such manner as the Secretary shall by regulations prescribe) with respect to such plan showing for such year—
+Every employer maintaining a specified fringe benefit plan during any year beginning after December 31, 1984, for any portion of which the applicable exclusion applies, shall file a return (at such time and in such manner as the Secretary shall by regulations prescribe) with respect to such plan showing for such year—
 
 &emsp;(1) the number of employees of the employer,
 
@@ -74,7 +74,7 @@ Pub. L. 99–514, §1879(d)(1), in amending subsec. (d) generally, added subpars
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 36C of this title.
+Amendment by Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 23 of this title.
 
 #### Effective Date of 1988 Amendment
 

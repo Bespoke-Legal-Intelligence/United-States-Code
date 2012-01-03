@@ -2,7 +2,7 @@
 
 (a)
 
-Effectiveness of Orders.—Except as provided in this part, a regulation prescribed or order issued by the Secretary of Transportation (or the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator) takes effect within a reasonable time prescribed by the Secretary, Under Secretary, or Administrator. The regulation or order remains in effect under its own terms or until superseded. Except as provided in this part, the Secretary, Under Secretary, or Administrator may amend, modify, or suspend an order in the way, and by giving the notice, the Secretary, Under Secretary, or Administrator decides.
+Effectiveness of Orders.—Except as provided in this part, a regulation prescribed or order issued by the Secretary of Transportation (or the Under Secretary of Transportation for Security with respect to security duties andpowers designated to be carried out by the Under Secretary or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator) takes effect within a reasonable time prescribed by the Secretary, Under Secretary, or Administrator. The regulation or order remains in effect under its own terms or until superseded. Except as provided in this part, the Secretary, Under Secretary, or Administrator may amend, modify, or suspend an order in the way, and by giving the notice, the Secretary, Under Secretary, or Administrator decides.
 
 (b)
 

@@ -6,15 +6,21 @@ If any person takes any adverse action with respect to any consumer that is base
 
 &emsp;(1) provide oral, written, or electronic notice of the adverse action to the consumer;
 
-&emsp;(2) provide to the consumer orally, in writing, or electronically—
+&emsp;(2) provide to the consumer written or electronic disclosure—
+
+&emsp;&emsp;(A) of a numerical credit score as defined in section 1681g(f)(2)(A) of this title used by such person in taking any adverse action based in whole or in part on any information in a consumer report; and
+
+&emsp;&emsp;(B) of the information set forth in subparagraphs (B) through (E) of section 1681g(f)(1) of this title;
+
+&emsp;(3) provide to the consumer orally, in writing, or electronically—
 
 &emsp;&emsp;(A) the name, address, and telephone number of the consumer reporting agency (including a toll-free telephone number established by the agency if the agency compiles and maintains files on consumers on a nationwide basis) that furnished the report to the person; and
 
 &emsp;&emsp;(B) a statement that the consumer reporting agency did not make the decision to take the adverse action and is unable to provide the consumer the specific reasons why the adverse action was taken; and
 
-&emsp;(3) provide to the consumer an oral, written, or electronic notice of the consumer's right—
+&emsp;(4) provide to the consumer an oral, written, or electronic notice of the consumer's right—
 
-&emsp;&emsp;(A) to obtain, under section 1681j of this title, a free copy of a consumer report on the consumer from the consumer reporting agency referred to in paragraph (2), which notice shall include an indication of the 60-day period under that section for obtaining such a copy; and
+&emsp;&emsp;(A) to obtain, under section 1681j of this title, a free copy of a consumer report on the consumer from the consumer reporting agency referred to in paragraph (3), which notice shall include an indication of the 60-day period under that section for obtaining such a copy; and
 
 &emsp;&emsp;(B) to dispute, under section 1681i of this title, with a consumer reporting agency the accuracy or completeness of any information in a consumer report furnished by the agency.
 
@@ -22,7 +28,7 @@ If any person takes any adverse action with respect to any consumer that is base
 
 #### (1) In general
 
-&emsp;Whenever credit for personal, family, or household purposes involving a consumer is denied or the charge for such credit is increased either wholly or partly because of information obtained from a person other than a consumer reporting agency bearing upon the consumer's credit worthiness, credit standing, credit capacity, character, general reputation, personal characteristics, or mode of living, the user of such information shall, within a reasonable period of time, upon the consumer's written request for the reasons for such adverse action received within sixty days after learning of such adverse action, disclose the nature of the information to the consumer. The user of such information shall clearly and accurately disclose to the consumer his right to make such written request at the time such adverse action is communicated to the consumer.
+&emsp;Whenever credit for personal, family, or household purposes involving a consumer is denied or the charge for such credit is increased either wholly or partly because of information obtained from a person other than a consumer reporting agency bearing upon the consumer's credit worthiness, credit standing,credit capacity, character, general reputation, personal characteristics, or mode of living, the user of such information shall, within a reasonable period of time, upon the consumer's written request for the reasons for such adverse action received within sixty days after learning of such adverse action, disclose the nature of the information to the consumer. The user of such information shall clearly and accurately disclose to the consumer his right to make such written request at the time such adverse action is communicated to the consumer.
 
 #### (2) Duties of person taking certain actions based on information provided by affiliate
 
@@ -80,7 +86,7 @@ No person shall be held liable for any violation of this section if he shows by 
 
 &emsp;&emsp;(A) include the address and toll-free telephone number of the appropriate notification system established under section 1681b(e) of this title; and
 
-&emsp;&emsp;(B) be presented in such format and in such type size and manner as to be simpleand easy to understand, as established by the Commission, by rule, in consultation with the Federal banking agencies and the National Credit Union Administration.
+&emsp;&emsp;(B) be presented in such format and in such type size and manner as to be simple and easy to understand, as established by the Bureau, by rule, in consultation with the Federal Trade Commission, the Federal banking agencies, and the National Credit Union Administration.
 
 #### (3) Maintaining criteria on file
 
@@ -94,7 +100,7 @@ No person shall be held liable for any violation of this section if he shows by 
 
 #### (1) Guidelines
 
-&emsp;The Federal banking agencies, the National Credit Union Administration, and the Commission shall jointly, with respect to the entities that are subject to their respective enforcement authority under section 1681s of this title—
+&emsp;The Federal banking agencies, the National Credit Union Administration, the Federal Trade Commission, the Commodity Futures Trading Commission, and the Securities and Exchange Commission shall jointly, with respect to the entities that are subject to their respective enforcement authority under section 1681s of this title—
 
 &emsp;&emsp;(A) establish and maintain guidelines for use by each financial institution and each creditor regarding identity theft with respect to account holders at, or customers of, such entities, and update such guidelines as often as necessary;
 
@@ -152,7 +158,7 @@ No person shall be held liable for any violation of this section if he shows by 
 
 &emsp;Nothing in this subsection shall be construed to prohibit—
 
-&emsp;&emsp;(A) the repurchase of a debt in any case in which the assignee of the debt requires such repurchase because the debt has resulted from identity theft;
+&emsp;&emsp;(A) the repurchase of a debt in any case in which the assignee of the debt requires suchrepurchase because the debt has resulted from identity theft;
 
 &emsp;&emsp;(B) the securitization of a debt or the pledging of a portfolio of debt as collateral in connection with a borrowing; or
 
@@ -196,15 +202,21 @@ If a person acting as a debt collector (as that term is defined in subchapter V 
 
 &emsp;&emsp;(B) identify the consumer reporting agency furnishing the report;
 
-&emsp;&emsp;(C) include a statement informing the consumer that the consumer may obtain a copy of a consumer report from that consumer reporting agency without charge; and
+&emsp;&emsp;(C) include a statement informing the consumer that the consumer may obtain a copy of a consumer report from that consumer reporting agency without charge;
 
-&emsp;&emsp;(D) include the contact information specified by that consumer reporting agency for obtaining such consumer reports (including a toll-free telephone number established by the agency in the case of a consumer reporting agency described in section 1681a(p) of this title).
+&emsp;&emsp;(D) include the contact information specified by that consumer reporting agency for obtaining such consumer reports (including a toll-free telephone number established by the agency in the case of a consumer reporting agency described in section 1681a(p) of this title); and
+
+&emsp;&emsp;(E) include a statement informing the consumer of—
+
+&emsp;&emsp;&emsp;(i) a numerical credit score as defined in section 1681g(f)(2)(A) of this title, used by such person in making the credit decision described in paragraph (1) based in whole or in part on any information in a consumer report; and
+
+&emsp;&emsp;&emsp;(ii) the information set forth in subparagraphs (B) through (E) of section 1681g(f)(1) of this title.
 
 #### (6) Rulemaking
 
 #### (A) Rules required
 
-&emsp;&emsp;The Commission and the Board shall jointly prescribe rules.
+&emsp;&emsp;The Bureau shall prescribe rules to carry out this subsection.
 
 #### (B) Content
 
@@ -236,55 +248,21 @@ If a person acting as a debt collector (as that term is defined in subchapter V 
 
 (Pub. L. 90–321, title VI, §615, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1133; amended Pub. L. 104–208, div. A, title II, §2411, Sept. 30, 1996, 110 Stat. 3009–443; Pub. L. 108–159, title I, §§114, 154(b), 155, title II, §213(a), title III, §311(a), title VIII, §811(h), Dec. 4, 2003, 117 Stat. 1960, 1967, 1978, 1988, 2012; Pub. L. 111–203, title X, §§1088(a)(2)(C), (7)–(9), 1100F, July 21, 2010, 124 Stat. 2087, 2088, 2112; Pub. L. 111–319, §2(a), Dec. 18, 2010, 124 Stat. 3457.)
 
-#### Amendment of Section
-
-<i>Pub. L. 111–203, title X, §§1088(a)(2)(C), (7)–(9), 1100F, 1100H, July 21, 2010, 124 Stat. 2087, 2088, 2112, 2113, provided that, effective on the designated transfer date, this section is amended as follows:</i>
-
-<i>(1) by striking “the Commission” each place that term appears, other than in subsection (e), and inserting “the Bureau”;</i>
-
-<i>(2) in subsection (a)—</i>
-
-<i>(A) by redesignating paragraphs (2) and (3) as paragraphs (3) and (4), respectively;</i>
-
-<i>(B) by inserting after paragraph (1) the following:</i>
-
-&emsp;<i>“(2) provide to the consumer written or electronic disclosure—</i>
-
-&emsp;&emsp;<i>“(A) of a numerical credit score as defined in section 1681g(f)(2)(A) of this title used by such person in taking any adverse action based in whole or in part on any information in a consumer report; and</i>
-
-&emsp;&emsp;<i>“(B) of the information set forth in subparagraphs (B) through (E) of section 1681g(f)(1) of this title;”; and</i>
-
-<i>(C) in paragraph (4) (as so redesignated), by striking “paragraph (2)” and inserting “paragraph (3)”;</i>
-
-<i>(3) in subsection (d)(2)(B), by striking “the Federal banking agencies” and inserting “the Federal Trade Commission, the Federal banking agencies,”;</i>
-
-<i>(4) in subsection (e)(1), by striking “and the Commission” and inserting “the Federal Trade Commission, the Commodity Futures Trading Commission, and the Securities and Exchange Commission”;</i>
-
-<i>(5) in subsection (h)(5)—</i>
-
-<i>(A) in subparagraph (C), by striking “; and” and inserting a semicolon;</i>
-
-<i>(B) in subparagraph (D), by striking the period and inserting “; and”; and</i>
-
-<i>(C) by inserting at the end the following:</i>
-
-&emsp;&emsp;<i>“(E) include a statement informing the consumer of—</i>
-
-&emsp;&emsp;&emsp;<i>“(i) a numerical credit score as defined in section 1681g(f)(2)(A) of this title, used by such person in making the credit decision described in paragraph (1) based in whole or in part on any information in a consumer report; and</i>
-
-&emsp;&emsp;&emsp;<i>“(ii) the information set forth in subparagraphs (B) through (E) of section 1681g(f)(1) of this title.”; and</i>
-
-<i>(6) in subsection (h)(6), by striking subparagraph (A) and inserting the following:</i>
-
-#### <i>“(A) Rules required</i>
-
-&emsp;&emsp;<i>“The Bureau shall prescribe rules to carry out this subsection.”</i>
-
-<i>See Effective Date of 2010 Amendment note below.</i>
-
 #### Amendments
 
-<b>2010</b>—Subsec. (e)(4). Pub. L. 111–319 added par. (4).
+<b>2010</b>—Subsec. (a)(2) to (4). Pub. L. 111–203, §1100F(1), added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, and substituted “paragraph (3)” for “paragraph (2)” in par. (4).
+
+Subsec. (d)(2)(B). Pub. L. 111–203, §1088(a)(7), substituted “the Federal Trade Commission, the Federal banking agencies,” for “the Federal banking agencies”.
+
+Pub. L. 111–203, §1088(a)(2)(C), substituted “the Bureau” for “the Commission”.
+
+Subsec. (e)(1). Pub. L. 111–203, §1088(a)(8), substituted “the Federal Trade Commission, the Commodity Futures Trading Commission, and the Securities and Exchange Commission” for “and the Commission” in introductory provisions.
+
+Subsec. (e)(4). Pub. L. 111–319 added par. (4).
+
+Subsec. (h)(5)(E). Pub. L. 111–203, §1100F(2), added subpar. (E).
+
+Subsec. (h)(6)(A). Pub. L. 111–203, §1088(a)(9), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “The Commission and the Board shall jointly prescribe rules.”
 
 <b>2003</b>—Subsec. (d)(2). Pub. L. 108–159, §213(a), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “A statement under paragraph (1) shall include the address and toll-free telephone number of the appropriate notification system established under section 1681b(e) of this title.”
 

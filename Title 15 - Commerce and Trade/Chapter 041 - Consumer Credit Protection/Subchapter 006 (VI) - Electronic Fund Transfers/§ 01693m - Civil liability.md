@@ -2,7 +2,7 @@
 
 #### (a) Individual or class action for damages; amount of award
 
-Except as otherwise provided by this section and section 1693h of this title, any person whofails to comply with any provision of this subchapter with respect to any consumer, except for an error resolved in accordance with section 1693f of this title, is liable to such consumer in an amount equal to the sum of—
+Except as otherwise provided by this section and section 1693h of this title, any person who fails to comply with any provision of this subchapter with respect to any consumer, except for an error resolved in accordance with section 1693f of this title, is liable to such consumer in an amount equal to the sum of—
 
 &emsp;(1) any actual damage sustained by such consumer as a result of such failure;
 
@@ -24,13 +24,13 @@ In determining the amount of liability in any action under subsection (a) of thi
 
 Except as provided in section 1693h of this title, a person may not be held liable in any action brought under this section for a violation of this subchapter if the person shows by a preponderance of evidence that the violation was not intentional and resulted from a bona fide error notwithstanding the maintenance of procedures reasonably adapted to avoid any such error.
 
-#### (d) Good faith compliance with rule, regulation, or interpretation of Board or approval of duly authorized official or employee of Federal Reserve System
+#### (d) Good faith compliance with rule, regulation, or interpretation
 
 No provision of this section or section 1693n <sup>1</sup> of this title imposing any liability shall apply to—
 
-&emsp;(1) any act done or omitted in good faith in conformity with any rule, regulation, or interpretation thereof by the Board or in conformity with any interpretation or approval by an official or employee of the Federal Reserve System duly authorized by the Board to issue such interpretations or approvals under such procedures as the Board may prescribe therefor; or
+&emsp;(1) any act done or omitted in good faith in conformity with any rule, regulation, or interpretation thereof by the Bureau or the Board or in conformity with any interpretation or approval by an official or employee of the Bureau of Consumer Financial Protection or the Federal Reserve System duly authorized by the Bureau or the Board to issue such interpretations or approvals under such procedures as the Bureau or the Board may prescribe therefor; or
 
-&emsp;(2) any failure to make disclosure in proper form if a financial institution utilized an appropriate model clause issued by the Board,
+&emsp;(2) any failure to make disclosure in proper form if a financial institution utilized an appropriate model clause issued by the Bureau or the Board,
 
 > notwithstanding that after such act, omission, or failure has occurred, such rule, regulation, approval, or model clause is amended, rescinded, or determined by judicial or other authority to be invalid for any reason.
 
@@ -46,23 +46,7 @@ On a finding by the court that an unsuccessful action under this section was bro
 
 Without regard to the amount in controversy, any action under this section may be brought in any United States district court, or in any other court of competent jurisdiction, within one year from the date of the occurrence of the violation.
 
-(Pub. L. 90–321, title IX, §916, formerly §915, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3737; renumbered §916, Pub. L. 111–24, title IV, §401(1), May 22, 2009, 123 Stat. 1751; amended Pub. L. 111–203, title X, §1084(1), (4), July 21, 2010, 124 Stat. 2081, 2082.)
-
-#### Amendment of Section
-
-<i>Pub. L. 111–203, title X, §§1084(1), (4), 1100H, July 21, 2010, 124 Stat. 2081, 2082, 2113, provided that, effective on the designated transfer date, this section is amended as follows:</i>
-
-<i>(1) by striking “Board” each place that term appears and inserting “Bureau”; and</i>
-
-<i>(2) in subsection (d)—</i>
-
-<i>(A) in the subsection heading, by striking “of Board or approval of duly authorized official or employee of Federal Reserve System”;</i>
-
-<i>(B) by inserting “Bureau or the” before “Board” each place that term appears; and</i>
-
-<i>(C) by inserting “Bureau of Consumer Financial Protection or the” before “Federal Reserve System”.</i>
-
-<i>See Effective Date of 2010 Amendment note below.</i>
+(Pub. L. 90–321, title IX, §916, formerly §915, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3737; renumbered §916, Pub. L. 111–24, title IV, §401(1), May 22, 2009, 123 Stat.1751; amended Pub. L. 111–203, title X, §1084(1), (4), July 21, 2010, 124 Stat. 2081, 2082.)
 
 #### References in Text
 
@@ -71,6 +55,12 @@ Section 1693n of this title, referred to in subsec. (d), was in the original a r
 #### Prior Provisions
 
 A prior section 916 of Pub. L. 90–321 was renumbered section 917 and is classified to section 1693n of this title.
+
+#### Amendments
+
+<b>2010</b>—Pub. L. 111–203, §1084(1), which directed the substitution of “Bureau” for “Board” wherever appearing in section, was not executed in subsec. (d), which was the only place such term appeared, to reflect the probable intent of Congress and the amendment by Pub. L. 111–203, §1084(4). See below.
+
+Subsec. (d). Pub. L. 111–203, §1084(4), struck out “of Board or approval of duly authorized official or employee of Federal Reserve System” after “interpretation” in heading that had been supplied editorially and inserted “Bureau of Consumer Financial Protection or the” before “Federal Reserve System” in par. (1) and “Bureau or the” before “Board” wherever appearing.
 
 #### Effective Date of 2010 Amendment
 

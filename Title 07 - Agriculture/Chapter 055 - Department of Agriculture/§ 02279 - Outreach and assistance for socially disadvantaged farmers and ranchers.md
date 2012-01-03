@@ -74,7 +74,7 @@
 
 #### (2) Additional personnel
 
-&emsp;In counties or regions in which the number of socially disadvantaged farmers and ranchers exceeds 25 percent of the total number of farmers and ranchers in the county or region, the Secretary shall designate additional personnel to implement the policies and programs established or modified in accordance with this section.
+&emsp;In counties or regions in which the number of socially disadvantaged farmers and ranchers exceeds 25 percent of the total number offarmers and ranchers in the county or region, the Secretary shall designate additional personnel to implement the policies and programs established or modified in accordance with this section.
 
 #### (c) Report to Congress
 
@@ -236,7 +236,7 @@ Section is comprised of section 2501 of Pub. L. 101–624. Subsec. (f) of sectio
 
 #### Amendments
 
-2008—Subsec. (a)(2). Pub. L. 110–246, §14004(a)(1), amended par. (2) generally. Prior to amendment, par. (2) contained provisions stating that the outreach and technical assistance program was to enhance coordination of authorized outreach, technical assistance, and education efforts and include information on, and assistance with, commodity, conservation, credit, rural, and business development programs, application and bidding procedures, farm and risk management, marketing, and other activities essential to participation in Department programs.
+<b>2008</b>—Subsec. (a)(2). Pub. L. 110–246, §14004(a)(1), amended par. (2) generally. Prior to amendment, par. (2) contained provisions stating that the outreach and technical assistance program was to enhance coordination of authorized outreach, technical assistance, and education efforts and include information on, and assistance with, commodity, conservation, credit, rural, and business development programs, application and bidding procedures, farm and risk management, marketing, and other activities essential to participation in Department programs.
 
 Subsec. (a)(3)(A). Pub. L. 110–246, §14004(a)(2)(A), substituted “entity that has demonstrated an ability to carry out the requirements described in paragraph (2) to provide outreach” for “entity to provide information”.
 
@@ -252,7 +252,7 @@ Subsec. (g)(1). Pub. L. 110–246, §14001, substituted “Farm Service Agency a
 
 Subsec. (h). Pub. L. 110–246, §14005, added subsec. (h).
 
-2002—Subsec. (a). Pub. L. 107–171, §10707(b), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows:
+<b>2002</b>—Subsec. (a). Pub. L. 107–171, §10707(b), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows:
 
 “(1)
 
@@ -282,7 +282,7 @@ Subsec. (e)(4) to (6). Pub. L. 107–171, §10707(a), added pars. (4) to (6).
 
 Subsec. (g)(1). Pub. L. 107–171, §10707(c)(2), struck out “of Agriculture” after “Department”.
 
-1991—Subsec. (a)(3). Pub. L. 102–237, §1003(1), substituted “subsection” for “section”.
+<b>1991</b>—Subsec. (a)(3). Pub. L. 102–237, §1003(1), substituted “subsection” for “section”.
 
 Subsec. (c)(1)(C). Pub. L. 102–237, §1003(2), inserted “program” after “agricultural”.
 

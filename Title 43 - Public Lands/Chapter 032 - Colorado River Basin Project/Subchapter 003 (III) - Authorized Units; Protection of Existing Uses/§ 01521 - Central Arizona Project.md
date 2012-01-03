@@ -10,7 +10,7 @@ Article II(B)(3) of the decree of the Supreme Court of the United States in Ariz
 
 #### (c) Augmentation of water supply of Colorado River system
 
-The limitation stated in subsection (b) of this section shall not apply so long as the Secretary shall determine and proclaim that means are available and in operation which augment the water supply of the Colorado River system in such quantity as to make sufficient mainstream water available for release to satisfy annual consumptive use of seven million five hundred thousand acre-feet in Arizona, California, and Nevada.
+The limitation stated in subsection (b) of this section shall not apply so long as the Secretaryshall determine and proclaim that means are available and in operation which augment the water supply of the Colorado River system in such quantity as to make sufficient mainstream water available for release to satisfy annual consumptive use of seven million five hundred thousand acre-feet in Arizona, California, and Nevada.
 
 (Pub. L. 90–537, title III, §301, Sept. 30, 1968, 82 Stat. 887; Pub. L. 100–345, §2(b), June 24, 1988, 102 Stat. 643; Pub. L. 102–575, title XIII, §1302, Oct. 30, 1992, 106 Stat. 4662.)
 

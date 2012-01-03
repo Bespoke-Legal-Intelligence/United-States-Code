@@ -40,7 +40,7 @@ If the Secretary has reason to believe that a health care entity has failed to r
 
 &emsp;&emsp;An election under State law is not effective, for purposes of,<sup>1</sup> for actions commenced before the effective date of the State law, which may not be earlier than the date of the enactment of that law.
 
-(Pub. L. 99–660, title IV, §411, Nov. 14, 1986, 100 Stat. 3784; Pub. L. 100–177, title IV, §402(c), as added Pub. L. 101–239, title VI, §6103(e)(6)(A), Dec. 19, 1989, 103 Stat. 2208.)
+(Pub. L. 99–660, title IV, §411, Nov. 14, 1986, 100 Stat. 3784; Pub. L. 100–177, title IV, §402(c), asadded Pub. L. 101–239, title VI, §6103(e)(6)(A), Dec. 19, 1989, 103 Stat. 2208.)
 
 #### References in Text
 

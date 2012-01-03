@@ -10,7 +10,7 @@ The Attorney General shall certify to the Secretary of State the amounts to be p
 
 #### Historical and Revision Notes
 
-Based on title 18, U.S.C., 1940 ed., §§662, 662c, 662d, 668 (R.S. §5278; Aug. 3, 1882, ch. 378, §4, 22 Stat. 216; June 28,1902, ch. 1301, §1, 32 Stat. 475; Mar. 22, 1934, ch. 73, §§2, 3, 48 Stat. 455).
+Based on title 18, U.S.C., 1940 ed., §§662, 662c, 662d, 668 (R.S. §5278; Aug. 3, 1882, ch. 378, §4, 22 Stat. 216; June 28, 1902, ch. 1301, §1, 32 Stat. 475; Mar. 22, 1934, ch. 73, §§2, 3, 48 Stat. 455).
 
 First paragraph of this section consolidates provisions as to costs and expenses from said sections 662, 662c, and 662d.
 

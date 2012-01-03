@@ -10,7 +10,7 @@ A manufacturer or export warehouse proprietor may transfer tobacco products and 
 
 #### (c) Tobacco products and cigarette papers and tubes released in bond from customs custody
 
-Tobacco products and cigarette papers and tubes, imported or brought into the United States, may be released from customs custody, without payment of tax, for delivery to the proprietor of an export warehouse, or to a manufacturer of tobacco products or cigarette papersand tubes if such articles are not put up in packages, in accordance with such regulations and under such bond as the Secretary shall prescribe.
+Tobacco products and cigarette papers and tubes, imported or brought into the United States, may be released from customs custody, without payment of tax, for delivery to the proprietor of an export warehouse, or to a manufacturer of tobacco products or cigarette papers and tubes if such articles are not put up in packages, in accordance with such regulations and under such bond as the Secretary shall prescribe.
 
 #### (d) Tobacco products and cigarette papers and tubes exported and returned
 
@@ -62,7 +62,7 @@ Section 7508(b) of Pub. L. 101–239 provided that: “The amendment made by sub
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–509 applicable to articles imported, entered for warehousing, or brought into the United States or a foreign trade zone after Dec. 15, 1986, see section 8011(c) of Pub. L. 99–509, set out as a note under section 5061 of this title.
+Amendment by Pub. L. 99–509 applicable to articles imported, entered for warehousing, or brought into theUnited States or a foreign trade zone after Dec. 15, 1986, see section 8011(c) of Pub. L. 99–509, set out as a note under section 5061 of this title.
 
 #### Effective Date of 1976 Amendment
 

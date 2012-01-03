@@ -54,13 +54,13 @@
 
 &emsp;&emsp;&emsp;(III) participated onsite in rescue, recovery, debris cleanup, or related services in lower Manhattan (south of Canal St.) for at least 24 hours during the period beginning on September 11, 2001, and ending on September 30, 2001; or
 
-&emsp;&emsp;&emsp;(IV) participated onsite in rescue, recovery, debris cleanup, or related services inlower Manhattan (south of Canal St.) for at least 80 hours during the period beginning on September 11, 2001, and ending on July 31, 2002;
+&emsp;&emsp;&emsp;(IV) participated onsite in rescue, recovery, debris cleanup, or related services in lower Manhattan (south of Canal St.) for at least 80 hours during the period beginning on September 11, 2001, and ending on July 31, 2002;
 
 &emsp;&emsp;&emsp;(iii) was an employee of the Office of the Chief Medical Examiner of New York City involved in the examination and handling of human remains from the World Trade Center attacks, or other morgue worker who performed similar post-September 11 functions for such Office staff, during the period beginning on September 11, 2001, and ending on July 31, 2002;
 
 &emsp;&emsp;&emsp;(iv) was a worker in the Port Authority Trans-Hudson Corporation Tunnel for at least 24 hours during the period beginning on February 1, 2002, and ending on July 1, 2002; or
 
-&emsp;&emsp;&emsp;(v) was a vehicle-maintenance worker who was exposed to debris from the former World Trade Center while retrieving, driving, cleaning, repairing, and maintaining vehicles contaminated by airborne toxins from the September 11, 2001, terrorist attacks during a duration and period described in subparagraph (A).
+&emsp;&emsp;&emsp;(v) was a vehicle-maintenance worker who was exposed to debris from the formerWorld Trade Center while retrieving, driving, cleaning, repairing, and maintaining vehicles contaminated by airborne toxins from the September 11, 2001, terrorist attacks during a duration and period described in subparagraph (A).
 
 #### (C) Responders to the September 11 attacks at the Pentagon and Shanksville, Pennsylvania
 
@@ -114,7 +114,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) in accordance with such subparagraph; and
 
-&emsp;&emsp;&emsp;&emsp;(II) to such number, as determined by the Administrator based on the best available information and subject to amounts available under section 300mm–61 of this title, that will ensure sufficient funds will be available to provide treatment and monitoring benefitsunder this subchapter, with respect to all individuals who are enrolled through the end of fiscal year 2020; and
+&emsp;&emsp;&emsp;&emsp;(II) to such number, as determined by the Administrator based on the best available information and subject to amounts available under section 300mm–61 of this title, that will ensure sufficient funds will be available to provide treatment and monitoring benefits under this subchapter, with respect to all individuals who are enrolled through the end of fiscal year 2020; and
 
 &emsp;&emsp;&emsp;(ii) provide priority (subject to paragraph (3)(A)(i)) in such enrollments in the order in which individuals apply for enrollment under paragraph (3).
 
@@ -126,7 +126,7 @@
 
 #### (1) In general
 
-&emsp;In the case of an enrolled WTC responder (other than one described in subsection (a)(2)(A)(ii)), the WTC Program shall provide for monitoring benefits that include monitoring consistent with protocols approved by the WTC Program Administrator and including clinical examinations and long-term health monitoring and analysis. In the case of an enrolled WTC responder who is an active member of the Fire Department of New York City, the responder shall receive such benefits as part of the individual's periodic company medical exams.
+&emsp;In the case of an enrolled WTC responder (other than one described in subsection\(a)(2)(A)(ii)), the WTC Program shall provide for monitoring benefits that include monitoring consistent with protocols approved by the WTC Program Administrator and including clinical examinations and long-term health monitoring and analysis. In the case of an enrolled WTC responder who is an active member of the Fire Department of New York City, the responder shall receive such benefits as part of the individual's periodic company medical exams.
 
 #### (2) Provision of monitoring benefits
 

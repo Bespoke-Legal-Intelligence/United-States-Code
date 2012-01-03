@@ -44,7 +44,7 @@ Section was formerly classified to section 556 of this title.
 
 #### Amendments
 
-1995—Pub. L. 104–48, §7(d)(1), substituted “Complaints, written notifications, and investigations” for “Complaint and investigation” in section catchline.
+<b>1995</b>—Pub. L. 104–48, §7(d)(1), substituted “Complaints, written notifications, and investigations” for “Complaint and investigation” in section catchline.
 
 Subsec. (a). Pub. L. 104–48, §8(a), inserted subsec. heading, designated existing provisions as par. (1), inserted par. (1) heading, and added par. (2).
 
@@ -56,27 +56,27 @@ Subsec. (d). Pub. L. 104–48, §7(c), (d)(2), inserted heading and substituted 
 
 Subsec. (e). Pub. L. 104–48, §7(d)(3), inserted heading.
 
-1991—Subsecs. (c), (d). Pub. L. 102–237 inserted a period at end of subsec. (c) and substituted a period for semicolon at end of subsec. (d).
+<b>1991</b>—Subsecs. (c), (d). Pub. L. 102–237 inserted a period at end of subsec. (c) and substituted a period for semicolon at end of subsec. (d).
 
-1982—Subsec. (e). Pub. L. 97–352 inserted “or by a resident of the United States to whom the claim of a nonresident of the United States has been assigned,” after “In case a complaint is made by a nonresident of the United States,”.
+<b>1982</b>—Subsec. (e). Pub. L. 97–352 inserted “or by a resident of the United States to whom the claim of a nonresident of the United States has been assigned,” after “In case a complaint is made by a nonresident of the United States,”.
 
-1981—Subsecs. (c), (d). Pub. L. 97–98 substituted “$15,000” for “$3,000”.
+<b>1981</b>—Subsecs. (c), (d). Pub. L. 97–98 substituted “$15,000” for “$3,000”.
 
-1972—Subsec. (c). Pub. L. 92–231 substituted “$3,000” for “$1,500”.
+<b>1972</b>—Subsec. (c). Pub. L. 92–231 substituted “$3,000” for “$1,500”.
 
 Subsec. (d). Pub. L. 92–231 substituted “$3,000” for “$1,500” wherever appearing.
 
-1962—Subsec. (c). Pub. L. 87–725 substituted “$1,500” for “$500”.
+<b>1962</b>—Subsec. (c). Pub. L. 87–725 substituted “$1,500” for “$500”.
 
 Subsec. (d). Pub. L. 87–725 substituted “$1,500” for “$500” wherever appearing.
 
-1960—Subsec. (c). Pub. L. 86–507 inserted “or by certified mail” after “registered mail”.
+<b>1960</b>—Subsec. (c). Pub. L. 86–507 inserted “or by certified mail” after “registered mail”.
 
-1937—Subsec. (b). Act Aug. 20, 1937, §8, substituted “section 499b of this title” for “this chapter”.
+<b>1937</b>—Subsec. (b). Act Aug. 20, 1937, §8, substituted “section 499b of this title” for “this chapter”.
 
 Subsec. (e). Act Aug. 20, 1937, §9, inserted “and any reparation award that may be issued by the Secretary of Agriculture against the complainant on any counter claim by respondent” and proviso.
 
-1934—Subsec. (c). Act Apr. 13, 1934, §8, inserted proviso.
+<b>1934</b>—Subsec. (c). Act Apr. 13, 1934, §8, inserted proviso.
 
 Subsec. (d). Act Apr. 13, 1934, §9, substituted “complaints” for “a complaint” after “on” and inserted “where damages claimed do not exceed the sum of $500 not requiring hearing as provided herein” after “complaints”.
 

@@ -36,11 +36,11 @@ No deduction shall be allowed for—
 
 #### (c) Intangible drilling and development costs in the case of oil and gas wells and geothermal wells
 
-Notwithstanding subsection (a), and except as provided in subsection (i), regulations shall be prescribed by the Secretary under this subtitle corresponding to the regulations which granted the option to deduct as expenses intangible drilling and development costs in the case of oil and gas wells and which were recognized and approved by the Congress in House Concurrent Resolution 50, Seventy-ninth Congress. Such regulations shall also grant the option to deduct as expenses intangible drilling and development costs in the case of wells drilled for any geothermal deposit (as defined in section 613(e)(2)) to the same extent and in the same manner as such expenses are deductible in the case of oil and gas wells. This subsection shall not apply with respect to any costs to which any deduction is allowed under section 59(e) or 291.
+Notwithstanding subsection (a), and except as provided in subsection (i), regulations shall be prescribed by the Secretary under this subtitle corresponding to the regulations which granted the option to deduct as expenses intangible drilling and development costs in the case of oil and gas wells and which were recognized and approved by the Congress in House Concurrent Resolution 50, Seventy-ninth Congress. Such regulations shall also grant the option to deduct as expenses intangible drilling and development costs in the case of wells drilled for any geothermal deposit (as defined in section 613(e)(2))to the same extent and in the same manner as such expenses are deductible in the case of oil and gas wells. This subsection shall not apply with respect to any costs to which any deduction is allowed under section 59(e) or 291.
 
 #### (d) Expenditures in connection with certain railroad rolling stock
 
-In the case of expenditures in connection with the rehabilitation of a unit of railroad rolling stock (except a locomotive) used by a domestic common carrier by railroad which would, but for this subsection, be properly chargeable to capital account, such expenditures, if during any 12-month period they do not exceed an amountequal to 20 percent of the basis of such unit in the hands of the taxpayer, shall, at the election of the taxpayer, be treated (notwithstanding subsection (a)) as deductible repairs under section 162 or 212. An election under this subsection shall be made for any taxable year at such time and in such manner as the Secretary prescribes by regulations. An election may not be made under this subsection for any taxable year to which an election under subsection (e) applies to railroad rolling stock (other than locomotives).
+In the case of expenditures in connection with the rehabilitation of a unit of railroad rolling stock (except a locomotive) used by a domestic common carrier by railroad which would, but for this subsection, be properly chargeable to capital account, such expenditures, if during any 12-month period they do not exceed an amount equal to 20 percent of the basis of such unit in the hands of the taxpayer, shall, at the election of the taxpayer, be treated (notwithstanding subsection (a)) as deductible repairs under section 162 or 212. An election under this subsection shall be made for any taxable year at such time and in such manner as the Secretary prescribes by regulations. An election may not be made under this subsection for any taxable year to which an election under subsection (e) applies to railroad rolling stock (other than locomotives).
 
 #### \[(e) Repealed. Pub. L. 97–34, title II, §201(c), Aug. 13, 1981, 95 Stat. 219\]
 
@@ -122,7 +122,7 @@ In the case of a domestic common carrier by rail (including a railroad switching
 
 #### (A) In general
 
-&emsp;&emsp;Paragraph (1) shall apply only to the extent that the payments or distributions withrespect to any short sale exceed the amount which—
+&emsp;&emsp;Paragraph (1) shall apply only to the extent that the payments or distributions with respect to any short sale exceed the amount which—
 
 &emsp;&emsp;&emsp;(i) is treated as ordinary income by the taxpayer, and
 

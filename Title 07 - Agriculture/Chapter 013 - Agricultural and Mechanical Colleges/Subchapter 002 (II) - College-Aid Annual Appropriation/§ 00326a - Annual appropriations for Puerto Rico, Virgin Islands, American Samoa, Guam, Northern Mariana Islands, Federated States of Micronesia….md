@@ -10,13 +10,13 @@ There is appropriated annually, out of funds in the Treasury not otherwise appro
 
 #### Amendments
 
-1994—Pub. L. 103–382 substituted “the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau” for “and the Trust Territory of the Pacific Islands or its successor governments”.
+<b>1994</b>—Pub. L. 103–382 substituted “the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau” for “and the Trust Territory of the Pacific Islands or its successor governments”.
 
-1988—Pub. L. 100–339 amended section generally. Prior to amendment, section read as follows: “There is authorized to be appropriated annually for payment to the Virgin Islands, American Samoa, Guam, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands (other than the Northern Mariana Islands) the amount they would receive under this subchapter if they were States. Sums appropriated under this section shall be treated in the same manner and be subject to the same provisions of law, as would be the case if they had been appropriated by section 322 of this title.”
+<b>1988</b>—Pub. L. 100–339 amended section generally. Prior to amendment, section read as follows: “There is authorized to be appropriated annually for payment to the Virgin Islands, American Samoa, Guam, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands (other than the Northern Mariana Islands) the amount they would receive under this subchapter if they were States. Sums appropriated under this section shall be treated in the same manner and be subject to the same provisions of law, as would be the case if they had been appropriated by section 322 of this title.”
 
-1986—Pub. L. 99–396 substituted “Guam, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands (other than the Northern Mariana Islands)” for “and Micronesia, and Guam”.
+<b>1986</b>—Pub. L. 99–396 substituted “Guam, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands (other than the Northern Mariana Islands)” for “and Micronesia, and Guam”.
 
-1980—Pub. L. 96–374 inserted references to American Samoa and Micronesia.
+<b>1980</b>—Pub. L. 96–374 inserted references to American Samoa and Micronesia.
 
 #### Effective Date of 1988 Amendment
 
@@ -28,7 +28,7 @@ Amendment by Pub. L. 96–374 effective Oct. 1, 1980, see section 1393(a) of Pub
 
 #### Effective Date
 
-Section 506(n) of Pub. L. 92–318 provided that: “The amendments made by this section \[enacting this section, amending sections 329, 331, 343, 349, 361a, 361c, and1626 of this title and sections 582a–3 and 582a–7 of Title 16, and enacting provisions set out as notes under this section and section 301 of this title\] shall be effective after June 30, 1970.”
+Section 506(n) of Pub. L. 92–318 provided that: “The amendments made by this section \[enacting this section, amending sections 329, 331, 343, 349, 361a, 361c, and 1626 of this title and sections 582a–3 and 582a–7 of Title 16, and enacting provisions set out as notes under this section and section 301 of this title\] shall be effective after June 30, 1970.”
 
 #### State Consent
 

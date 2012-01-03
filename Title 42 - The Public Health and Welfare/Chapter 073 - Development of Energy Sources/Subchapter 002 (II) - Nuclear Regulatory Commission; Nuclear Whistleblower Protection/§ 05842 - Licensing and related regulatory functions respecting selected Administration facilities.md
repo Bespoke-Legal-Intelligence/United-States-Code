@@ -30,7 +30,7 @@ For transfer of certain functions from Nuclear Regulatory Commission to Chairman
 
 #### Availability of Funds for Licensing by NRC
 
-Pub. L. 105–261, div. C, title XXXI, §3134(b), Oct. 17, 1998, 112 Stat. 2247, provided that: “Section 210 of the Department of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1981 (42 U.S.C. 7272 \[now 50 U.S.C. 2513\]) shall not apply to any licensing activities required pursuant to section 202(5) of the Energy Reorganization Act of 1974 (42 U.S.C. 5842), as added by subsection (a).”
+Pub. L. 105–261, div. C, title XXXI, §3134(b), Oct. 17, 1998, 112 Stat. 2247, provided that: “Section 210 of theDepartment of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1981 (42 U.S.C. 7272 \[now 50 U.S.C. 2513\]) shall not apply to any licensing activities required pursuant to section 202(5) of the Energy Reorganization Act of 1974 (42 U.S.C. 5842), as added by subsection (a).”
 
 #### Applicability of Occupational Safety and Health Requirements to Activities Under License
 
@@ -38,7 +38,7 @@ Pub. L. 105–261, div. C, title XXXI, §3134(c), Oct. 17, 1998, 112 Stat. 2247,
 
 #### Verbal Communications Between Commission Headquarters and Regional Offices and Licensed Utilization Facilities
 
-Pub. L. 96–295, title III, §305(a), June 30, 1980, 94 Stat. 790, provided that: “As expeditiously as practicable, theNuclear Regulatory Commission shall establish a mechanism for instantaneous and uninterrupted verbal communication between each utilization facility licensed to operate under section 103 or section 104 b. of the Atomic Energy Act of 1954 \[section 2133 or 2134(b) of this title\] on the date of enactment of this Act \[June 30, 1980\], or thereafter, and
+Pub. L. 96–295, title III, §305(a), June 30, 1980, 94 Stat. 790, provided that: “As expeditiously as practicable, the Nuclear Regulatory Commission shall establish a mechanism for instantaneous and uninterrupted verbal communication between each utilization facility licensed to operate under section 103 or section 104 b. of the Atomic Energy Act of 1954 \[section 2133 or 2134(b) of this title\] on the date of enactment of this Act \[June 30, 1980\], or thereafter, and
 
 &emsp;“(1) Commission headquarters, and
 

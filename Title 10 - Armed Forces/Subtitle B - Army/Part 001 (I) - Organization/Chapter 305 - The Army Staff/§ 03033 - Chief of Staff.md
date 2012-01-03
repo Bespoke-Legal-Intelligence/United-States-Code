@@ -1,6 +1,6 @@
 ### §3033. Chief of Staff
 
-(a)(1) There is a Chief of Staff of the Army, appointed for a period of four years by the President, by and with the advice and consent of the Senate, from the general officers of the Army. He serves at the pleasure of the President. In time of war or during a national emergency declared by Congress, he may be reappointed for a term of not more than four years.
+(a)(1) There is a Chief of Staff of the Army, appointed for a period of four years by the President, by and with the advice and consent of theSenate, from the general officers of the Army. He serves at the pleasure of the President. In time of war or during a national emergency declared by Congress, he may be reappointed for a term of not more than four years.
 
 (2) The President may appoint an officer as Chief of Staff only if—
 

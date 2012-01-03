@@ -30,7 +30,7 @@ Subsec. (d). Pub. L. 102–586, §2(b)(3), substituted “payable under section 
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–473, §621(a), substituted “the Administrator” for “him” before “and to prescribe”.
 
-Subsec. (c). Pub. L. 98–473, §621(b), substituted “the Administrator” for “him” before “in carrying out” and“the functions of the Administrator” for “his functions”.
+Subsec. (c). Pub. L. 98–473, §621(b), substituted “the Administrator” for “him” before “in carrying out” and “the functions of the Administrator” for “his functions”.
 
 <b>1980</b>—Subsec. (c). Pub. L. 96–509, §19(c)(1), substituted “Administrator” for “Associate Administrator”.
 

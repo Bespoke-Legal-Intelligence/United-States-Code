@@ -20,7 +20,7 @@ A qualified purchaser shall not be precluded from retaining as a property manage
 
 #### Amendments
 
-1992—Subsec. (b). Pub. L. 102–550 substituted “4112(c)” for “4112(d)”.
+<b>1992</b>—Subsec. (b). Pub. L. 102–550 substituted “4112(c)” for “4112(d)”.
 
 <i><sup>1</sup></i><i> So in original. Probably should be section “4116”.</i>
 

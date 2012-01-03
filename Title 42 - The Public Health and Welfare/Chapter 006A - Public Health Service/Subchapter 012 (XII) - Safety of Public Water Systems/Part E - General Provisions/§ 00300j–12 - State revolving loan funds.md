@@ -30,13 +30,13 @@
 
 #### (F) Nonprimacy States
 
-&emsp;&emsp;The State allotment for a State not exercising primary enforcement responsibility for public water systems shall not be deposited in any such fund but shall be allotted by the Administrator under this subparagraph. Pursuant to section 300j–2(a)(9)(A) of this title such sums allotted under this subparagraph shall be reserved as needed by the Administrator to exercise primary enforcement responsibility under this subchapter in such State and the remainder shall be reallotted to States exercising primary enforcement responsibility for public water systems for deposit in such funds. Whenever the Administrator makes a final determination pursuant to section 300g–2(b) of this title that the requirements of section 300g–2(a) of this title are no longer being met by a State, additional grants for such State under this subchapter shall be immediately terminated by the Administrator. This subparagraph shall not apply to any State not exercising primary enforcement responsibility for public water systems as of August 6, 1996.
+&emsp;&emsp;The State allotment for a State not exercising primary enforcement responsibility for public water systems shall not be deposited in any such fund but shall be allotted by the Administrator under this subparagraph. Pursuant to section 300j–2(a)(9)(A) of this title such sums allotted under this subparagraph shall be reserved as needed by the Administrator to exercise primary enforcementresponsibility under this subchapter in such State and the remainder shall be reallotted to States exercising primary enforcement responsibility for public water systems for deposit in such funds. Whenever the Administrator makes a final determination pursuant to section 300g–2(b) of this title that the requirements of section 300g–2(a) of this title are no longer being met by a State, additional grants for such State under this subchapter shall be immediately terminated by the Administrator. This subparagraph shall not apply to any State not exercising primary enforcement responsibility for public water systems as of August 6, 1996.
 
 #### (G) Other programs
 
 #### (i) New system capacity
 
-&emsp;&emsp;&emsp;Beginning in fiscal year 1999, the Administrator shall withhold 20 percent of eachcapitalization grant made pursuant to this section to a State unless the State has met the requirements of section 300g–9(a) of this title (relating to capacity development) and shall withhold 10 percent for fiscal year 2001, 15 percent for fiscal year 2002, and 20 percent for fiscal year 2003 if the State has not complied with the provisions of section 300g–9(c) of this title (relating to capacity development strategies). Not more than a total of 20 percent of the capitalization grants made to a State in any fiscal year may be withheld under the preceding provisions of this clause. All funds withheld by the Administrator pursuant to this clause shall be reallotted by the Administrator on the basis of the same ratio as is applicable to funds allotted under subparagraph (D). None of the funds reallotted by the Administrator pursuant to this paragraph shall be allotted to a State unless the State has met the requirements of section 300g–9 of this title (relating to capacity development).
+&emsp;&emsp;&emsp;Beginning in fiscal year 1999, the Administrator shall withhold 20 percent of each capitalization grant made pursuant to this section to a State unless the State has met the requirements of section 300g–9(a) of this title (relating to capacity development) and shall withhold 10 percent for fiscal year 2001, 15 percent for fiscal year 2002, and 20 percent for fiscal year 2003 if the State has not complied with the provisions of section 300g–9(c) of this title (relating to capacity development strategies). Not more than a total of 20 percent of the capitalization grants made to a State in any fiscal year may be withheld under the preceding provisions of this clause. All funds withheld by the Administrator pursuant to this clause shall be reallotted by the Administrator on the basis of the same ratio as is applicable to funds allotted under subparagraph (D). None of the funds reallotted by the Administrator pursuant to this paragraph shall be allotted to a State unless the State has met the requirements of section 300g–9 of this title (relating to capacity development).
 
 #### (ii) Operator certification
 
@@ -262,7 +262,7 @@ There are authorized to be appropriated to carry out the purposes of this sectio
 
 #### (n) Health effects studies
 
-From funds appropriated pursuant to this section for each fiscal year, the Administrator shall reserve $10,000,000 for health effects studies on drinking water contaminants authorized by the Safe Drinking Water Act Amendments of 1996. In allocating funds made available under this subsection, the Administrator shall give priority to studies concerning the health effects of cryptosporidium (as authorized by section 300j–18(c) of this title), disinfection byproducts (as authorized by section 300j–18(c) of this title),and arsenic (as authorized by section 300g–1(b)(12)(A) of this title), and the implementation of a plan for studies of subpopulations at greater risk of adverse effects (as authorized by section 300j–18(a) of this title).
+From funds appropriated pursuant to this section for each fiscal year, the Administrator shall reserve $10,000,000 for health effects studies on drinking water contaminants authorized by the Safe Drinking Water Act Amendments of 1996. In allocating funds made available under this subsection, the Administrator shall give priority to studies concerning the health effects of cryptosporidium (as authorized by section 300j–18(c) of this title), disinfection byproducts (as authorized by section 300j–18(c) of this title), and arsenic (as authorized by section 300g–1(b)(12)(A) of this title), and the implementation of a plan for studies of subpopulations at greater risk of adverse effects (as authorized by section 300j–18(a) of this title).
 
 #### (<i>o</i>) Monitoring for unregulated contaminants
 
@@ -292,6 +292,8 @@ Pub. L. 105–276, title III, Oct. 21, 1998, 112 Stat. 2498, provided in part: �
 
 #### Transfer of Funds
 
+Pub. L. 112–74, div. E, title II, Dec. 23, 2011, 125 Stat. 1018, provided in part: “That for fiscal year 2012 and hereafter, the Administrator may transfer funds provided for tribal set-asides through funds appropriated for the Clean Water State Revolving Funds and for the Drinking Water State Revolving Funds between those accounts in such manner as the Administrator deems appropriate, but not to exceed the transfer limits given to States under section 302(a) of Public Law 104–182 \[set out below\].”
+
 Pub. L. 109–54, title II, Aug. 2, 2005, 119 Stat. 530, provided in part: “That for fiscal year 2006 and thereafter, State authority under section 302(a) of Public Law 104–182 \[set out as a note below\] shall remain in effect”.
 
 Similar provisions were contained in the following prior appropriation acts:
@@ -312,7 +314,7 @@ In General.—Notwithstanding any other provision of law, at any time after the 
 
 &emsp;“(1) reserve up to 33 percent of a capitalization grant made pursuant to such section 1452 and add the funds reserved to any funds provided to the State pursuant to section 601 of the Federal Water Pollution Control Act (33 U.S.C. 1381); and
 
-&emsp;“(2) reserve in any year a dollar amount up to the dollar amount that may be reserved under paragraph (1) for that year from capitalization grants made pursuant to section 601 of such Act (33 U.S.C. 1381) and add the reserved funds to any funds provided to the State pursuant to section 1452 of the Safe Drinking Water Act.
+&emsp;“(2) reserve in any year a dollar amount up to the dollar amount that may be reserved under paragraph\(1) for that year from capitalization grants made pursuant to section 601 of such Act (33 U.S.C. 1381) and add the reserved funds to any funds provided to the State pursuant to section 1452 of the Safe Drinking Water Act.
 
 “(b)
 

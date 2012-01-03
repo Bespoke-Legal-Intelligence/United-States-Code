@@ -14,7 +14,7 @@ Specific Authority.—The Secretary may award—
 
 &emsp;(3) a decoration or medal to an individual for service during a war, national emergency proclaimed by the President or Congress, or operations by the armed forces outside the continental United States under conditions of danger to life and property; and
 
-&emsp;(4) a decoration or medal to an individual for other acts or service of conspicuous gallantry, intrepidity, and extraordinary heroism under conditions of danger to life and property that would warrant a similar decoration or medal for a member of the armed forces.
+&emsp;(4) a decoration or medal to an individual for other acts or service of conspicuous gallantry, intrepidity, and extraordinary heroism underconditions of danger to life and property that would warrant a similar decoration or medal for a member of the armed forces.
 
 (Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1584.)
 

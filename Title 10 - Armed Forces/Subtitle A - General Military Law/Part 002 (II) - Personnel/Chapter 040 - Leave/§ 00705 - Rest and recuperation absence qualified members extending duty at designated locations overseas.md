@@ -10,7 +10,7 @@
 
 &emsp;(4) at the end of that tour of duty executes an agreement to extend that tour for a period of not less than one year;
 
-> may, in lieu of receiving special pay under section 314 of title 37 for duty performed during such extension of duty, elect to receive one of the benefits specified in subsection (b). Receiptof any such benefit is in addition to any other leave or transportation to which the member may be entitled.
+> may, in lieu of receiving special pay under section 314 of title 37 for duty performed during such extension of duty, elect to receive one of the benefits specified in subsection (b). Receipt of any such benefit is in addition to any other leave or transportation to which the member may be entitled.
 
 (b) The benefits authorized by subsection (a) are—
 

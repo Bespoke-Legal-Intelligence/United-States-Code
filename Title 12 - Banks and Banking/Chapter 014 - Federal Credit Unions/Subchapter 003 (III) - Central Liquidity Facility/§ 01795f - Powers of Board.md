@@ -46,7 +46,7 @@ The Board on behalf of the Facility shall have the ability to—
 
 #### (b) Collection and settlement of checks, share drafts, etc.; charges; rules and regulations
 
-(1) The Board may authorize the Central Liquidity Facility or its Agent members, subject to such rules and regulations, including definitions of terms used in this subsection, as the Board shall from time to time prescribe, to be drawees of, and to engage in, or be agents or intermediaries for, or otherwise participate or assist in, the collection and settlement of (including presentment, clearing, and payment of, and remitting for), checks, share drafts, or any other negotiable or nonnegotiable items or instruments of payment drawn on or issued by members of the Central Liquidity Facility, any of its Agent members, or any other credit union eligible to become a member of the Central Liquidity Facility, and to have such incidental powers as the Board shall find necessary for the exercise of any such authorization.
+(1) The Board may authorize the Central Liquidity Facility or its Agent members, subject to such rules and regulations, including definitions of terms used in this subsection, as the Board shall from time to time prescribe, to be drawees of, and to engage in, or be agents or intermediaries for, or otherwise participate or assist in, the collection and settlement of (including presentment, clearing, and payment of, and remitting for), checks, share drafts, or any other negotiable or nonnegotiable items or instruments of payment drawn on or issued by members of the Central Liquidity Facility, any of its Agent members, or any other credit union eligible to become a member of the Central Liquidity Facility, and to have such incidentalpowers as the Board shall find necessary for the exercise of any such authorization.
 
 (2) The Central Liquidity Facility or its Agent members shall make charges, to be determined and regulated by the Board consistent with the principles set forth in section 248a(c) of this title, or utilize the services of, or act as agent for, or be a member of, a Federal Reserve bank, clearinghouse, or any other public or private financial institution or other agency, in the exercise of any powers or functions pursuant to this subsection.
 
@@ -60,11 +60,11 @@ Section 309(b)(1) of Pub. L. 96–221 redesignated subch. III as title III of ac
 
 #### Amendments
 
-1982—Subsec. (a)(17), (18). Pub. L. 97–320 added pars. (17) and (18).
+<b>1982</b>—Subsec. (a)(17), (18). Pub. L. 97–320 added pars. (17) and (18).
 
-1980—Pub. L. 96–221, §§309(a)(3), (4), (b)(2), (3), 312, designated existing provisions as subsec. (a) substituted “Board” for “Administrator”, such change having been made previously by Pub. L. 95–630, and “title” and “titles” for “subchapter” and “subchapters”, which for purposes of codification has been editorially translated as “subchapter” or “subchapters” thereby requiring no further change in text, in par. (15) struck out requirement respecting advance appropriation of amounts, and added subsec. (b).
+<b>1980</b>—Pub. L. 96–221, §§309(a)(3), (4), (b)(2), (3), 312, designated existing provisions as subsec. (a) substituted “Board” for “Administrator”, such change having been made previously by Pub. L. 95–630, and “title” and “titles” for “subchapter” and “subchapters”, which for purposes of codification has been editorially translated as “subchapter” or “subchapters” thereby requiring no further change in text, in par. (15) struck out requirement respecting advance appropriation of amounts, and added subsec. (b).
 
-1978—Pub. L. 95–630, §502(b), substituted “Board” for “Administrator”.
+<b>1978</b>—Pub. L. 95–630, §502(b), substituted “Board” for “Administrator”.
 
 #### Effective Date of 1978 Amendment
 

@@ -10,7 +10,7 @@ Commencement of Payment.—Subject to subsection (c), the special pay authorized
 
 (c)
 
-Termination of Payments.—The payment of special pay to a member under subsection (a) shall terminate at the end of the first month during which any of the following occurs:
+Termination of Payments.—The payment of special pay to a member under subsection (a)shall terminate at the end of the first month during which any of the following occurs:
 
 &emsp;(1) The member is paid a benefit under the traumatic injury protection rider of the Servicemembers’ Group Life Insurance Program issued under section 1980A of title 38.
 

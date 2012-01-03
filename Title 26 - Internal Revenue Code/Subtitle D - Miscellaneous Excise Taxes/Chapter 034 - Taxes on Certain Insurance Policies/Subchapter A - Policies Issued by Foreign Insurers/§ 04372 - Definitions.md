@@ -22,11 +22,11 @@ For purposes of section 4371(1), the term “insured” means—
 
 #### (e) Policy of life, sickness, or accident insurance, or annuity contract
 
-For the purpose of section 4371(2), the term “policy of life, sickness, or accident insurance, or annuity contract” means any policy or other instrument by whatever name called whereby a contract of insurance or an annuity contract is made, continued, or renewed with respect to the life or hazards to the person of a citizen or resident of the United States.
+For the purpose of section 4371(2), the term “policy of life, sickness, or accident insurance,or annuity contract” means any policy or other instrument by whatever name called whereby a contract of insurance or an annuity contract is made, continued, or renewed with respect to the life or hazards to the person of a citizen or resident of the United States.
 
 #### (f) Policy of reinsurance
 
-For the purpose of section 4371(3), the term “policy of reinsurance” means any policy orother instrument by whatever name called whereby a contract of reinsurance is made, continued, or renewed against, or with respect to, any of the hazards, risks, losses, or liabilities covered by contracts taxable under paragraph (1) or (2) of section 4371.
+For the purpose of section 4371(3), the term “policy of reinsurance” means any policy or other instrument by whatever name called whereby a contract of reinsurance is made, continued, or renewed against, or with respect to, any of the hazards, risks, losses, or liabilities covered by contracts taxable under paragraph (1) or (2) of section 4371.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 521; Pub. L. 85–859, title I, §141(a), Sept. 2, 1958, 72 Stat. 1300; Pub. L. 94–455, title XIX, §1904(a)(12), Oct. 4, 1976, 90 Stat. 1812.)
 

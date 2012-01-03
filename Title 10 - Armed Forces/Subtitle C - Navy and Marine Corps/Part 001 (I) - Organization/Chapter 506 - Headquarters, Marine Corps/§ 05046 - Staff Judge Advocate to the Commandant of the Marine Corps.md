@@ -6,7 +6,7 @@
 
 (c) No officer or employee of the Department of Defense may interfere with—
 
-&emsp;(1) the ability of the Staff Judge Advocate to the Commandant of the Marine Corps to give independent legal advice to the Commandant of the Marine Corps; or
+&emsp;(1) the ability of the Staff Judge Advocate to the Commandant of the Marine Corps to giveindependent legal advice to the Commandant of the Marine Corps; or
 
 &emsp;(2) the ability of judge advocates of the Marine Corps assigned or attached to, or performing duty with, military units to give independent legal advice to commanders.
 

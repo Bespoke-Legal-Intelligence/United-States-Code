@@ -1,6 +1,6 @@
 ### §3507. Transfer of personnel and household goods; delegation of Secretary's authority
 
-The Secretary of Health and Human Services may on and after July 12, 1943, delegate to such officers and employees as he may designate for the purpose all his authority in connection withthe transfer of personnel and household goods and effects from one official station to another.
+The Secretary of Health and Human Services may on and after July 12, 1943, delegate to such officers and employees as he may designate for the purpose all his authority in connection with the transfer of personnel and household goods and effects from one official station to another.
 
 (July 12, 1943, ch. 221, title II, 57 Stat. 513; 1953 Reorg. Plan No. I, §5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
 

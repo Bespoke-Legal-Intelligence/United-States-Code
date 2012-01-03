@@ -6,7 +6,7 @@ The Board, the Department of Transportation, and any State or local commission h
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 1164 of the Senate amendment is deleted as a matter to be left to the Rules of Bankruptcy Procedure. It is anticipated that the rules will require a petition in a railroad reorganization to be filed with the Interstate Commerce Commission and the Secretary of Transportation in a case concerning an interstate railroad.
 
@@ -18,7 +18,7 @@ Section 1164 of the House amendment is derived from section 1163 of the House bi
 
 #### Amendments
 
-1995—Pub. L. 104–88 substituted “Board” for “Commission”.
+<b>1995</b>—Pub. L. 104–88 substituted “Board” for “Commission”.
 
 #### Effective Date of 1995 Amendment
 

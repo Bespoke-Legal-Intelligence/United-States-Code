@@ -36,7 +36,7 @@ For purposes of subsection (a)—
 
 #### (5) No inference as to prior taxable years
 
-&emsp;The application of this part to any taxable year before the first taxable year specified inparagraph (1) shall be made without regard to the fact that distributions in redemption coming within the terms of such paragraphs were subsequently made.
+&emsp;The application of this part to any taxable year before the first taxable year specified in paragraph (1) shall be made without regard to the fact that distributions in redemption coming within the terms of such paragraphs were subsequently made.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 182; Pub. L. 91–172, title IX, §906(a), Dec. 30, 1969, 83 Stat. 714; Pub. L. 94–455, title XIX, §1901(a)(75), Oct. 4, 1976, 90 Stat. 1777; Pub. L. 95–600, title III, §371(c), Nov. 6, 1978, 92 Stat. 2859; Pub. L. 104–188, title I, §1704(t)(33), Aug. 20, 1996, 110 Stat. 1889.)
 

@@ -10,7 +10,7 @@ Allocation.—On October 15 of fiscal year 2007 and each fiscal year thereafter,
 
 &emsp;(2)
 
-Reduction.—If the amount determined pursuant to section 251(b)(1)(B)(ii)(I)(cc) of the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C 901(b)(2)(B)(ii)(I)(cc)) <sup>1</sup> for fiscal year 2007 or any fiscal year thereafter is less than zero, the Secretary on October 15 of such fiscal year shall reduce proportionately the amount of sums authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) for such fiscal year and the succeeding fiscal year to carry out each of the Federal-aid highway and highway safety construction programs (other than emergency relief) and the motor carrier safety grant program by an aggregate amount equal to the amount determined pursuant to such section. No reduction under this paragraph and no reduction under section 1102(h), and no reduction under title VIII or any amendment made by title VIII, of the SAFETEA–LU shall be made for a fiscal year if, as of October 1 of such fiscal year the balance in the Highway Trust Fund (other than the Mass Transit Account) exceeds $6,000,000,000.
+Reduction.—If the amount determined pursuant to section 251(b)(1)(B)(ii)(I)(cc) of the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C 901(b)(2)(B)(ii)(I)(cc)) <sup>1</sup> for fiscal year 2007 or any fiscal year thereafter is less than zero, the Secretary on October 15 of such fiscal year shall reduce proportionately the amount of sums authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) for such fiscal year and the succeeding fiscal year to carry out each of the Federal-aid highway and highway safety construction programs (other than emergency relief) and the motor carrier safety grant program by an aggregate amount equal to the amount determined pursuant to such section. No reduction under this paragraph and no reduction under section 1102(h), and no reduction under title VIII or any amendment made by title VIII, of the SAFETEA–LU shall be made for a fiscal yearif, as of October 1 of such fiscal year the balance in the Highway Trust Fund (other than the Mass Transit Account) exceeds $6,000,000,000.
 
 (b)
 
@@ -22,7 +22,7 @@ General Distribution.—The Secretary shall—
 
 &emsp;&emsp;(B) the total of all sums authorized to be appropriated from such Trust Fund for such programs for such fiscal year;
 
-&emsp;(2) multiply the ratio determined under paragraph (1) by the total amount of funds tobe allocated under subsection (a)(1) for such fiscal year;
+&emsp;(2) multiply the ratio determined under paragraph (1) by the total amount of funds to be allocated under subsection (a)(1) for such fiscal year;
 
 &emsp;(3) allocate the amount determined under paragraph (2) among such programs in the ratio that—
 
@@ -53,6 +53,8 @@ Authorization of Appropriations.—There are authorized to be appropriated from 
 (Added and amended Pub. L. 105–178, title I, §1105(a), (c), June 9, 1998, 112 Stat. 130; Pub. L. 105–206, title IX, §9002(e), July 22, 1998, 112 Stat. 835; Pub. L. 106–113, div. B, §1000(a)(5) \[title III, §304\], Nov. 29, 1999, 113 Stat. 1536, 1501A–306; Pub. L. 106–159, title I, §102(a)(2), Dec. 9, 1999, 113 Stat. 1752; Pub. L. 109–59, title I, §1105(a)–(e), Aug. 10, 2005, 119 Stat. 1165, 1166.)
 
 #### References in Text
+
+Section 251 of the Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsecs. (a)(1) and (2), is section 251 of Pub. L. 99–177, title II, Dec. 12, 1985, 99 Stat. 1063, which is classified to section 901 of Title 2, The Congress. Section 251 of Pub. L. 99–177 was amended generally by Pub. L. 112–25, title I, §101, Aug. 2, 2011, 125 Stat. 241, and as so amended, par. (1) no longer contains a subpar. (B).
 
 Section 1102(h) of the SAFETEA–LU, referred to in subsec. (a)(2), is section 1102(h) of Pub. L. 109–59, which is set out as a note under section 104 of this title.
 
@@ -112,5 +114,5 @@ Pub. L. 109–59, title I, §1105(f), Aug. 10, 2005, 119 Stat. 1166, provided th
 
 &emsp;“(3) allocate amounts remaining in excess of the amounts allocated in paragraph (2) to all States in accordance with section 110 of title 23, United States Code.”
 
-<i><sup>1</sup></i><i> So in original. Probably should be “(2 U.S.C. 901(b)(1)(B)(ii)(I)(cc))”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “(2 U.S.C. 901(b)(1)(B)(ii)(I)(cc))”. See References in Text note below.</i>
 

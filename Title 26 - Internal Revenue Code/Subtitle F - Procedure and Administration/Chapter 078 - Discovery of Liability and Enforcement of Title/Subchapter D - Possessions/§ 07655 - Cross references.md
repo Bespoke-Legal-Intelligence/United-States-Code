@@ -32,7 +32,7 @@ Subsec. (b)(2), (3). Pub. L. 101–508, §11801(c)(22)(E)(ii), substituted perio
 
 <b>1976</b>—Subsec. (a)(3), (5). Pub. L. 94–455 substituted “Chapter 37” for “Subchapter A of chapter 37” in par. (5) and redesignated par. (5) as (3).
 
-<b>1970</b>—Subsec. (a)(3), (4). Pub. L. 91–513 struck out pars. (3) and (4) relating to taxes in respect of narcotic drugs and taxes in respect of marihuana, respectively, and making references to parts I and III of subchapter A of chapter 39 and to parts II and III of subchapter A of chapter 39, respectively.
+<b>1970</b>—Subsec. (a)(3), (4). Pub. L. 91–513 struck out pars. (3) and (4) relating to taxes in respect of narcotic drugs and taxes in respect of marihuana, respectively, andmaking references to parts I and III of subchapter A of chapter 39 and to parts II and III of subchapter A of chapter 39, respectively.
 
 <b>1958</b>—Subsec. (a)(5), (6). Pub. L. 85–859 redesignated par. (6) as (5) and struck out former par. (5) which contained a cross reference to chapter 51 of this title.
 

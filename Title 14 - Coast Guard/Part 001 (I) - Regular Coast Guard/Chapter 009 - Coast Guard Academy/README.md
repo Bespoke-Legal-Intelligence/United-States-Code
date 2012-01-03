@@ -20,29 +20,34 @@
 | [195\.](%C2%A7%2000195%20-%20Admission%20of%20foreign%20nationals%20for%20instruction%3B%20restrictions%3B%20conditions.md) | Admission of foreign nationals for instruction; restrictions; conditions. |
 | [196\.](%C2%A7%2000196%20-%20Participation%20in%20Federal%2C%20State%2C%20or%20other%20educational%20research%20grants.md) | Participation in Federal, State, or other educational research grants. |
 | [197\.](%C2%A7%2000197%20-%20Cadets%20charges%20and%20fees%20for%20attendance%3B%20limitation.md) | Cadets: charges and fees for attendance; limitation. |
-| [198\.](%C2%A7%2000198%20-%20Coast%20Guard%20history%20fellowships.md) | Coast Guard history fellowships <sup>1</sup> |
+| [198\.](%C2%A7%2000198%20-%20Coast%20Guard%20history%20fellowships.md) | Coast Guard history fellowships. |
+| [199\.](%C2%A7%2000199%20-%20Marine%20safety%20curriculum.md) | Marine Safety curriculum.<sup>1</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-2006—Pub. L. 109–241, title II, §209(b), July 11, 2006, 120 Stat. 523, added item 198.
+<b>2010</b>—Pub. L. 111–281, title IX, §903(b)(3), Oct. 15, 2010, 124 Stat. 3011, inserted period at end of item 198.
 
-2004—Pub. L. 108–375, div. A, title V, §545(d)(2), Oct. 28, 2004, 118 Stat. 1909, added item 197.
+Pub. L. 111–281, title V, §525(b), Oct. 15, 2010, 124 Stat. 2959, as amended by Pub. L. 111–330, §1(7)(B), Dec. 22, 2010, 124 Stat. 3569, added item 199.
 
-1993—Pub. L. 103–206, title III, §305(b), Dec. 20, 1993, 107 Stat. 2425, added item 196.
+<b>2006</b>—Pub. L. 109–241, title II, §209(b), July 11, 2006, 120 Stat. 523, added item 198.
 
-1984—Pub. L. 98–557, §24(b), Oct. 30, 1984, 98 Stat. 2872, added item 181a.
+<b>2004</b>—Pub. L. 108–375, div. A, title V, §545(d)(2), Oct. 28, 2004, 118 Stat. 1909, added item 197.
 
-1982—Pub. L. 97–295, §2(7)(A), Oct. 12, 1982, 96 Stat. 1301, substituted “Civilian teaching staff” for “Civilian instructors” in item 186.
+<b>1993</b>—Pub. L. 103–206, title III, §305(b), Dec. 20, 1993, 107 Stat. 2425, added item 196.
+
+<b>1984</b>—Pub. L. 98–557, §24(b), Oct. 30, 1984, 98 Stat. 2872, added item 181a.
+
+<b>1982</b>—Pub. L. 97–295, §2(7)(A), Oct. 12, 1982, 96 Stat. 1301, substituted “Civilian teaching staff” for “Civilian instructors” in item 186.
 
 Pub. L. 97–295, §2(7)(B), Oct. 12, 1982, 96 Stat. 1301, substituted “foreign nationals” for “foreigners” in item 195.
 
-1970—Pub. L. 91–278, §1(7), June 12, 1970, 84 Stat. 305, added item 195.
+<b>1970</b>—Pub. L. 91–278, §1(7), June 12, 1970, 84 Stat. 305, added item 195.
 
-1960—Pub. L. 86–474, §1(15), May 14, 1960, 74 Stat. 146, substituted “member of civilian teaching staff” for “civilian instructor” in item 191.
+<b>1960</b>—Pub. L. 86–474, §1(15), May 14, 1960, 74 Stat. 146, substituted “member of civilian teaching staff” for “civilian instructor” in item 191.
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
+<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 
 ---
@@ -68,3 +73,4 @@ Pub. L. 97–295, §2(7)(B), Oct. 12, 1982, 96 Stat. 1301, substituted “foreig
 - [&sect; 00196 - Participation in Federal, State, or other educational research grants](%C2%A7%2000196%20-%20Participation%20in%20Federal%2C%20State%2C%20or%20other%20educational%20research%20grants.md)
 - [&sect; 00197 - Cadets charges and fees for attendance; limitation](%C2%A7%2000197%20-%20Cadets%20charges%20and%20fees%20for%20attendance%3B%20limitation.md)
 - [&sect; 00198 - Coast Guard history fellowships](%C2%A7%2000198%20-%20Coast%20Guard%20history%20fellowships.md)
+- [&sect; 00199 - Marine safety curriculum](%C2%A7%2000199%20-%20Marine%20safety%20curriculum.md)

@@ -6,9 +6,9 @@ It shall be the duty of the Secretary and Sergeant at Arms of the Senate to caus
 
 #### Amendments
 
-1996—Pub. L. 104–186 struck out “Clerk and Doorkeeper of the House of Representatives and the” before “Secretary and” and substituted “direction of the Committee on Rules and Administration of the Senate and cover” for “direction of the Committee on Accounts of their respective houses and cover”.
+<b>1996</b>—Pub. L. 104–186 struck out “Clerk and Doorkeeper of the House of Representatives and the” before “Secretary and” and substituted “direction of the Committee on Rules and Administration of the Senate and cover” for “direction of the Committee on Accounts of their respective houses and cover”.
 
 #### Report on Sales Discontinued
 
-Par. 122 of act May 29, 1928, provided for the discontinuance of reports on waste paper, etc., as follows:“122. Reports by the Clerk and Doorkeeper of the House and the Secretary and Sergeant at Arms of the Senate of the sales of waste paper and useless documents and condemned furniture, and so forth.”
+Par. 122 of act May 29, 1928, provided for the discontinuance of reports on waste paper, etc., as follows: “122. Reports by the Clerk and Doorkeeper of the House and the Secretary and Sergeant at Arms of the Senate of the sales of waste paper and useless documents and condemned furniture, and so forth.”
 

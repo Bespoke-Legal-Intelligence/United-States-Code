@@ -10,7 +10,7 @@ It is the policy of the United States to foster the export of United States envi
 
 &emsp;The President shall establish the Environmental Trade Promotion Working Group (hereafter in this section referred to as the “Working Group”) as a subcommittee of the Trade Promotion Coordination Committee (hereafter in this section referred to as the “TPCC”), established under section 4727 of this title. The purpose of the Working Group shall be—
 
-&emsp;&emsp;(A) to address all issues with respect to the export promotion and export financing ofUnited States environmental technologies, goods, and services; and
+&emsp;&emsp;(A) to address all issues with respect to the export promotion and export financing of United States environmental technologies, goods, and services; and
 
 &emsp;&emsp;(B) to develop a strategy for expanding United States exports of environmental technologies, goods, and services.
 
@@ -94,7 +94,7 @@ In support of the work of the Working Group, the Secretary shall, as part of the
 
 &emsp;Each specialist assigned under paragraph (1) shall provide export promotion assistance to United States environmental businesses, including, but not limited to—
 
-&emsp;&emsp;(A) identifying factors in the country to which the specialist is assigned that affect the United States share of the domestic market for environmental technologies, goods, and services, including market barriers, standards-setting activities, and financing issues;
+&emsp;&emsp;(A) identifying factors in the country to which the specialist is assigned that affectthe United States share of the domestic market for environmental technologies, goods, and services, including market barriers, standards-setting activities, and financing issues;
 
 &emsp;&emsp;(B) providing assessments of assistance by foreign governments that is provided to producers of environmental technologies, goods, and services in such countries in order to enhance exports to the country to which the specialist is assigned, the effectiveness of such assistance on the competitiveness of United States products, and whether comparable United States assistance exists;
 
@@ -152,7 +152,7 @@ The Working Group shall—
 
 &emsp;&emsp;(C) include trade promotion events, such as trade missions and trade fairs, in the environmental sector; and
 
-&emsp;(2) provide, through the National Trade Data Bank and other information dissemination channels, information on opportunities for environmental businesses in foreign markets and information on Federal export promotion programs.
+&emsp;(2) provide, through the National Trade Data Bank and other information disseminationchannels, information on opportunities for environmental businesses in foreign markets and information on Federal export promotion programs.
 
 #### (j) Environmental technology export alliances
 

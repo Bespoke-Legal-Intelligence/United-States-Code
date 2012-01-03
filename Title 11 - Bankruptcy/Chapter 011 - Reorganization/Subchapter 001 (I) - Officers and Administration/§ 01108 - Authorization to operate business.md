@@ -6,7 +6,7 @@ Unless the court, on request of a party in interest and after notice and a heari
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 The House amendment adopts section 1108 of the House bill in preference to the style of an identical substantive provision contained in the Senate amendment. Throughout title 11 references to a “trustee” is read to include other parties under various sections of the bill. For example, section 1107 applies to give the debtor in possession all the rights and powers of a trustee in a case under chapter 11; this includes the power of the trustee to operate the debtor's business under section 1108.
 
@@ -20,7 +20,7 @@ This section does not presume that a trustee will be appointed to operate the bu
 
 #### Amendments
 
-1984—Pub. L. 98–353 inserted “, on request of a party in interest and after notice and a hearing,”.
+<b>1984</b>—Pub. L. 98–353 inserted “, on request of a party in interest and after notice and a hearing,”.
 
 #### Effective Date of 1984 Amendment
 

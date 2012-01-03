@@ -26,7 +26,7 @@ Payment of Costs Related to Care in Specialized Treatment Facilities.—(1) Subj
 
 &emsp;(A) Full or partial reimbursement of a member of the uniformed services for the reasonable expenses incurred by the member in transporting a covered beneficiary to or from a health care facility of the uniformed services or a civilian health care facility at which specialized health care services are provided pursuant to this chapter.
 
-&emsp;(B) Full or partial reimbursement of a person (including a member of the uniformed services) for the reasonable expenses of transportation, temporary lodging, and meals (notto exceed a per diem rate determined in accordance with implementing regulations) incurred by such person in accompanying a covered beneficiary as a nonmedical attendant to a health care facility referred to in subparagraph (A).
+&emsp;(B) Full or partial reimbursement of a person (including a member of the uniformedservices) for the reasonable expenses of transportation, temporary lodging, and meals (not to exceed a per diem rate determined in accordance with implementing regulations) incurred by such person in accompanying a covered beneficiary as a nonmedical attendant to a health care facility referred to in subparagraph (A).
 
 &emsp;(C) In-kind transportation, lodging, or meals instead of reimbursements under subparagraph (A) or (B) for transportation, lodging, or meals, respectively.
 

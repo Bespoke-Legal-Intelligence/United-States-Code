@@ -40,7 +40,7 @@ In carrying out subsection (a) of this section, the Chief Administrative Officer
 
 #### (d) Salaries and expenses; funding limits
 
-(1) There is established in the Treasury of the United States a revolving fund for the House of Representatives to be known as the “House Child Care Center Revolving Fund” (hereafter in this section referred to as the “Fund”), consisting of the amounts received under subsection (c) and any other funds deposited by the Chief Administrative Officer of the House of Representatives from amounts received by the House of Representatives with respect to the operation of the center. Except as provided in paragraphs (2) and (3), the Fund shall be the exclusive sourcefor all salaries and expenses for activities carried out under this section.
+(1) There is established in the Treasury of the United States a revolving fund for the House of Representatives to be known as the “House Child Care Center Revolving Fund” (hereafter in this section referred to as the “Fund”), consisting of the amounts received under subsection (c) and any other funds deposited by the Chief Administrative Officer of the House of Representatives from amounts received by the House of Representatives with respect to the operation of the center. Except as provided in paragraphs (2) and (3), the Fund shall be the exclusive source for all salaries and expenses for activities carried out under this section.
 
 (2) With respect to employees of the center, the House of Representatives shall make Government contributions and payments for health insurance, retirement, employment taxes, and similar benefits and programs in the same manner as such contributions and payments are made for other employees of the House of Representatives.
 
@@ -74,21 +74,21 @@ Section is comprised of section 312 of Pub. L. 102–90. Another subsec. (f) of 
 
 #### Amendments
 
-2010—Subsec. (d)(1). Pub. L. 111–248, §2(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “There is established an account which, subject to appropriation, and except as provided in paragraphs (2) and (3), shall be the exclusive source for all salaries and expenses for activities carried out under this section. The Chief Administrative Officer shall deposit in the account any amounts received under subsection (c) of this section.”
+<b>2010</b>—Subsec. (d)(1). Pub. L. 111–248, §2(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “There is established an account which, subject to appropriation, and except as provided in paragraphs (2) and (3), shall be the exclusive source for all salaries and expenses for activities carried out under this section. The Chief Administrative Officer shall deposit in the account any amounts received under subsection (c) of this section.”
 
 Subsecs. (e), (f). Pub. L. 111–248, §2(b), added subsec. (e) and redesignated former subsec. (e) as (f).
 
-2009—Subsec. (a)(1). Pub. L. 111–8 substituted “pre-school child care and (subject to the approval of regulations by the Committee on House Administration) child care for school age children other than during the course of the ordinary school day” for “pre-school child care” in introductory provisions.
+<b>2009</b>—Subsec. (a)(1). Pub. L. 111–8 substituted “pre-school child care and (subject to the approval of regulations by the Committee on House Administration) child care for school age children other than during the course of the ordinary school day” for “pre-school child care” in introductory provisions.
 
-2004—Subsec. (e)(2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (e)(2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-2003—Subsec. (d)(1). Pub. L. 108–7, §108(a)(1), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
+<b>2003</b>—Subsec. (d)(1). Pub. L. 108–7, §108(a)(1), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
 
 Subsec. (d)(3). Pub. L. 108–7, §108(a)(2), added par. (3).
 
-1999—Subsec. (a)(1)(C). Pub. L. 106–100 added subpar. (C).
+<b>1999</b>—Subsec. (a)(1)(C). Pub. L. 106–100 added subpar. (C).
 
-1996—Pub. L. 104–186, §221(5)(A), substituted “Chief Administrative Officer” for “Clerk” wherever appearing.
+<b>1996</b>—Pub. L. 104–186, §221(5)(A), substituted “Chief Administrative Officer” for “Clerk” wherever appearing.
 
 Subsec. (a)(1)(A). Pub. L. 104–186, §221(5)(B), struck out “or the Sergeant at Arms of the House of Representatives” before “and children”.
 
@@ -100,7 +100,7 @@ Subsec. (d)(1). Pub. L. 104–186, §221(6)(C), struck out “in the contingent 
 
 Subsec. (d)(2). Pub. L. 104–186, §221(5)(C), substituted “With respect” for “with respect”.
 
-1992—Subsec. (d)(2). Pub. L. 102–392 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “During fiscal year 1992, of the funds provided in this Act for the ‘HOUSE OF REPRESENTATIVES’ under ‘
+<b>1992</b>—Subsec. (d)(2). Pub. L. 102–392 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “During fiscal year 1992, of the funds provided in this Act for the ‘HOUSE OF REPRESENTATIVES’ under ‘
 
 Salaries and Expenses’, not more than $45,000 may be expended to carry out this section, subject to approval of the Committee on Appropriations of the House of Representatives. Any amount under this paragraph shall be in addition to any amount made available under paragraph (1).”
 

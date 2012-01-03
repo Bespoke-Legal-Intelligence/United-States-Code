@@ -54,31 +54,13 @@ The programs established pursuant to subsection (a) of this section shall includ
 
 Projects and activities under the programs established pursuant to subsection (a) of this section may include, among other things, training and technical assistance (including drafting of anti-corruption, privatization, and competitive statutory and administrative codes), drafting of anti-corruption, privatization, and competitive statutory and administrative codes, support for independent media and publications, financing of the program and operating costs of nongovernmental organizations that carry out such projects or activities, and assistance for travel of individuals to the United States and other countries for such projects and activities.
 
-#### (d) Biennial reports
-
-#### (1) In general
-
-&emsp;The Secretary of State, in consultation with the Secretary of Commerce and the Administrator of the United States Agency for International Development, shall prepare and transmit to the Committee on International Relations and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate a biennial report on—
-
-&emsp;&emsp;(A) projects and activities carried out under programs established under subsection (a) of this section for the preceding two-year period in priority countries identified pursuant to subsection (a)(3) of this section; and
-
-&emsp;&emsp;(B) projects and activities carried out under programs to combat corruption, improve transparency and accountability, and promote other forms of good governance established under other provisions of law for the preceding two-year period in such countries.
-
-#### (2) Required contents
-
-&emsp;The report required by paragraph (1) shall contain the following information with respect to each country described in paragraph (1):
-
-&emsp;&emsp;(A) A description of all United States Government-funded programs and initiatives to combat corruption and improve transparency and accountability in the country.
-
-&emsp;&emsp;(B) A description of United States diplomatic efforts to combat corruption and improve transparency and accountability in the country.
-
-&emsp;&emsp;(C) An analysis of major actions taken by the government of the country to combat corruption and improve transparency and accountability in the country.
+#### (d) Repealed. Pub. L. 112–74, div. I, title VII, §7034(n), Dec. 23, 2011, 125 Stat. 1217
 
 #### (e) Funding
 
 Amounts made available to carry out the other provisions of subchapter I of this chapter (including part IV of subchapter II of this chapter) and the Support for East European Democracy (SEED) Act of 1989 \[22 U.S.C. 5401 et seq.\] shall be made available to carry out this section.
 
-(Pub. L. 87–195, pt. I, §133, as added Pub. L. 106–309, title II, §205(a), Oct. 17, 2000, 114 Stat. 1092; amended Pub. L. 107–228, div. A, title VI, §672(a), Sept. 30, 2002, 116 Stat. 1407.)
+(Pub. L. 87–195, pt. I, §133, as added Pub. L. 106–309, title II, §205(a), Oct. 17, 2000, 114 Stat. 1092; amended Pub. L. 107–228, div. A, title VI, §672(a), Sept. 30, 2002, 116 Stat. 1407; Pub. L. 112–74, div. I, title VII, §7034(n), Dec. 23, 2011, 125 Stat. 1217.)
 
 #### References in Text
 
@@ -92,13 +74,11 @@ References to subchapter I of this chapter are deemed to include parts IV (§234
 
 #### Amendments
 
+<b>2011</b>—Subsec. (d). Pub. L. 112–74 struck out subsec. (d) which related to biennial reports.
+
 <b>2002</b>—Subsec. (d). Pub. L. 107–228, §672(a)(1), substituted “Biennial reports” for “Annual report” in heading.
 
 Subsec. (d)(1). Pub. L. 107–228, §672(a)(2), substituted “a biennial report” for “an annual report” in introductory provisions and “preceding two-year period” for “prior year” in subpars. (A) and (B).
-
-#### Change of Name
-
-Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Delegation of Functions
 
@@ -106,7 +86,7 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### Transition
 
-Pub. L. 107–228, div. A, title VI, §672(b), Sept. 30, 2002, 116 Stat. 1408, provided that: “The first biennial report under section 133(d) of the Foreign Assistance Act of 1961 (22 U.S.C. 2152c(d)), as amended by subsection (a), is required to be submitted not later than two years after the date of submission of the last annual report required under such section 133 (as in effect before the date of enactment of this Act \[Sept. 30, 2002\]).”
+Pub. L. 107–228, div. A, title VI, §672(b), Sept. 30, 2002, 116 Stat. 1408, provided that: “The first biennial report under section 133(d) of the Foreign Assistance Act of 1961 (\[former\] 22 U.S.C. 2152c(d)), as amended by subsection (a), is required to be submitted not later than two years after the date of submission of the last annual report required under such section 133 (as in effect before the date of enactment of this Act \[Sept. 30, 2002\]).”
 
 #### Findings and Purpose
 
@@ -154,9 +134,9 @@ Findings.—Congress finds the following:
 
 “(b)
 
-Purpose.—The purpose of this title \[see Short Title of 2000 Amendments note set out under section 2151 of this title\] is to ensure that United States assistance programs promote good governance by assisting other countries to combat corruption throughout society and to improve transparency and accountability at all levels of government and throughout the private sector.”
+Purpose.—The purpose of this title \[see Short Title of 2000 Amendments note set out under section2151 of this title\] is to ensure that United States assistance programs promote good governance by assisting other countries to combat corruption throughout society and to improve transparency and accountability at all levels of government and throughout the private sector.”
 
 #### Deadline for Initial Report
 
-Pub. L. 106–309, title II, §205(b), Oct. 17, 2000, 114 Stat. 1094, provided that: “The initial annual report required by section 133(d)(1) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2152c(d)(1)\], as added by subsection (a), shall be transmitted not later than 180 days after the date of the enactment of this Act \[Oct. 17, 2000\].”
+Pub. L. 106–309, title II, §205(b), Oct. 17, 2000, 114 Stat. 1094, required transmission of the initial annual report under former 22 U.S.C. 2152c(d)(1) not later than 180 days after Oct. 17, 2000.
 

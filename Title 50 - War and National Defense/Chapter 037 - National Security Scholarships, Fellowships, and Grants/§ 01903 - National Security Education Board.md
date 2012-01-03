@@ -20,11 +20,11 @@ The Board shall be composed of the following individuals or the representatives 
 
 &emsp;(6) The Chairperson of the National Endowment for the Humanities.
 
-&emsp;(7) Six individuals appointed by the President, by and with the advice and consent of the Senate, who shall be experts in the fields of international, language, area, and counterproliferation studies education and who may not be officers or employees of the Federal Government.
+&emsp;(7) Six individuals appointed by the President, who shall be experts in the fields of international, language, area, and counterproliferation studies education and who may not be officers or employees of the Federal Government.
 
 #### (c) Term of appointees
 
-Each individual appointed to the Board pursuant to subsection (b)(6) of this section shall be appointed for a period specified by the President at the time of the appointment, but not to exceed four years. Such individuals shall receive no compensation for service on the Board but may receive reimbursement for travel and other necessary expenses.
+Each individual appointed to the Board pursuant to subsection (b)(7) of this section shall be appointed for a period specified by the President at the time of the appointment, but not to exceed four years. Such individuals shall receive no compensation for service on the Board but may receive reimbursement for travel and other necessary expenses.
 
 #### (d) Functions
 
@@ -56,9 +56,13 @@ The Board shall perform the following functions:
 
 &emsp;(8) Review the administration of the program required under this chapter.
 
-(Pub. L. 102–183, title VIII, §803, Dec. 4, 1991, 105 Stat. 1273; Pub. L. 102–496, title IV, §404(d), Oct. 24, 1992, 106 Stat. 3186; Pub. L. 104–201, div. A, title X, §1078(e), Sept. 23, 1996, 110 Stat. 2666; Pub. L. 105–272, title III, §305(a)(3), (b), Oct. 20, 1998, 112 Stat. 2401; Pub. L. 105–277, div. G, title XIII, §1335(g), Oct. 21, 1998, 112 Stat. 2681–788; Pub. L. 107–306, title III, §333(a)(4), Nov. 27, 2002, 116 Stat. 2396; Pub. L. 108–487, title VI, §603(a)(3), Dec. 23, 2004, 118 Stat. 3954.)
+(Pub. L. 102–183, title VIII, §803, Dec. 4, 1991, 105 Stat. 1273; Pub. L. 102–496, title IV, §404(d), Oct. 24, 1992, 106 Stat. 3186; Pub. L. 104–201, div. A, title X, §1078(e), Sept. 23, 1996, 110 Stat. 2666; Pub. L. 105–272, title III, §305(a)(3), (b), Oct. 20, 1998, 112 Stat. 2401; Pub. L. 105–277, div. G, title XIII, §1335(g), Oct. 21, 1998, 112 Stat. 2681–788; Pub. L. 107–306, title III, §333(a)(4), Nov. 27, 2002, 116 Stat. 2396; Pub. L. 108–487, title VI, §603(a)(3), Dec. 23, 2004, 118 Stat. 3954; Pub. L. 112–81, div. A, title X, §1087, Dec. 31, 2011, 125 Stat. 1603.)
 
 #### Amendments
+
+<b>2011</b>—Subsec. (b)(7). Pub. L. 112–81, §1087(a), struck out “by and with the advice and consent of the Senate,” after “President,”.
+
+Subsec. (c). Pub. L. 112–81, §1087(b), substituted “subsection (b)(7)” for “subsection (b)(6)”.
 
 2004–Subsec. (d)(4)(E). Pub. L. 108–487 inserted “and section 1902(a)(1)(E) of this title (relating to the scholarship program for advanced English language studies by heritage community citizens)” before period.
 

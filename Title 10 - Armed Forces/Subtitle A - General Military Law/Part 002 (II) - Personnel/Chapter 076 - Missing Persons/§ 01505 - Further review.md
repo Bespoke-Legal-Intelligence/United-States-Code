@@ -6,7 +6,7 @@ Subsequent Review.—The Secretary concerned shall conduct subsequent inquiries 
 
 (b)
 
-Frequency of Subsequent Reviews.—The Secretary concerned shall conduct inquiries into the whereabouts and status of a person under subsection (a) upon receipt of information thatmay result in a change of status of the person. The Secretary concerned shall appoint a board to conduct such inquiries.
+Frequency of Subsequent Reviews.—The Secretary concerned shall conduct inquiries into the whereabouts and status of a person under subsection (a) upon receipt of information that may result in a change of status of the person. The Secretary concerned shall appoint a board to conduct such inquiries.
 
 (c)
 

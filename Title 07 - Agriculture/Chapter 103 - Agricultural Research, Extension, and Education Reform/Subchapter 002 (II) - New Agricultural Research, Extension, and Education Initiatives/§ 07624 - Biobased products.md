@@ -88,15 +88,15 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2009—Subsec. (c)(1). Pub. L. 111–88, §431(1), substituted “Agricultural Research Service and the Forest Service” for “Agricultural Research Service”.
+<b>2009</b>—Subsec. (c)(1). Pub. L. 111–88, §431(1), substituted “Agricultural Research Service and the Forest Service” for “Agricultural Research Service”.
 
 Subsec. (c)(3). Pub. L. 111–88, §431(2), added par. (3).
 
-2008—Subsec. (e)(2). Pub. L. 110–246, §7304(a), substituted “2012” for “2007”.
+<b>2008</b>—Subsec. (e)(2). Pub. L. 110–246, §7304(a), substituted “2012” for “2007”.
 
 Subsec. (h). Pub. L. 110–246, §7304(b), substituted “2012” for “2007”.
 
-2002—Subsec. (d)(2) to (4). Pub. L. 107–171, §6201(d)(4), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: “A recipient of funding from the Alternative Agricultural Research and Commercialization Corporation established under section 5902 of this title.”
+<b>2002</b>—Subsec. (d)(2) to (4). Pub. L. 107–171, §6201(d)(4), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: “A recipient of funding from the Alternative Agricultural Research and Commercialization Corporation established under section 5902 of this title.”
 
 Subsec. (e)(2). Pub. L. 107–171, §7124(a), substituted “2007” for “2001”.
 

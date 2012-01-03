@@ -54,19 +54,19 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1998—Par. (1). Pub. L. 105–266 substituted “plan, which may be underwritten by participating affiliates licensed in any number of States,” for “plan,”.
+<b>1998</b>—Par. (1). Pub. L. 105–266 substituted “plan, which may be underwritten by participating affiliates licensed in any number of States,” for “plan,”.
 
-1988—Par. (1). Pub. L. 100–654 substituted “former spouses, or persons having continued coverage under section 8905a of this title,” for “or former spouses,” and “former spouse, or person having continued coverage under section 8905a of this title.” for “or former spouse.”
+<b>1988</b>—Par. (1). Pub. L. 100–654 substituted “former spouses, or persons having continued coverage under section 8905a of this title,” for “or former spouses,” and “former spouse, or person having continued coverage under section 8905a of this title.” for “or former spouse.”
 
-1986—Par. (4)(A). Pub. L. 99–251, §102, amended second sentence generally, substituting “at least 3 physicians” for “physicians representing at least three major medical specialties” and inserted “and who represent 1 or more medical specialties appropriate and necessary for the population proposed to be served by the plan”.
+<b>1986</b>—Par. (4)(A). Pub. L. 99–251, §102, amended second sentence generally, substituting “at least 3 physicians” for “physicians representing at least three major medical specialties” and inserted “and who represent 1 or more medical specialties appropriate and necessary for the population proposed to be served by the plan”.
 
 Par. (4)(C). Pub. L. 99–251, §111, added subpar. (C).
 
-1985—Par. (3). Pub. L. 99–53 inserted “described in section 8901(8)(A) of this title” after “employee organizations”.
+<b>1985</b>—Par. (3). Pub. L. 99–53 inserted “described in section 8901(8)(A) of this title” after “employee organizations”.
 
-1984—Par. (1). Pub. L. 98–615, §3(3), substituted “employees, annuitants, members of their families, or former spouses” for “employees or annuitants, or members of their families” and “employee, annuitant, family member, or former spouse” for “employee or annuitant or member of his family”.
+<b>1984</b>—Par. (1). Pub. L. 98–615, §3(3), substituted “employees, annuitants, members of their families, or former spouses” for “employees or annuitants, or members of their families” and “employee, annuitant, family member, or former spouse” for “employee or annuitant or member of his family”.
 
-1978—Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively, wherever appearing.
+<b>1978</b>—Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively, wherever appearing.
 
 #### Effective Date of 1988 Amendment
 

@@ -4,7 +4,7 @@ For the purposes of this chapter, the following definitions shall apply:
 
 #### (1) Abatement
 
-&emsp;The term “abatement” means any set of measures designed to permanently eliminatelead-based paint hazards in accordance with standards established by appropriate Federal agencies. Such term includes—
+&emsp;The term “abatement” means any set of measures designed to permanently eliminate lead-based paint hazards in accordance with standards established by appropriate Federal agencies. Such term includes—
 
 &emsp;&emsp;(A) the removal of lead-based paint and lead-contaminated dust, the permanent containment or encapsulation of lead-based paint, the replacement of lead-painted surfaces or fixtures, and the removal or covering of lead contaminated soil; and
 
@@ -80,7 +80,7 @@ For the purposes of this chapter, the following definitions shall apply:
 
 #### (16) Lead-contaminated dust
 
-&emsp;The term “lead-contaminated dust” means surface dust in residential dwellings that contains an area or mass concentration of lead inexcess of levels determined by the appropriate Federal agency to pose a threat of adverse health effects in pregnant women or young children.
+&emsp;The term “lead-contaminated dust” means surface dust in residential dwellings that contains an area or mass concentration of lead in excess of levels determined by the appropriate Federal agency to pose a threat of adverse health effects in pregnant women or young children.
 
 #### (17) Lead-contaminated soil
 
@@ -146,7 +146,7 @@ For the purposes of this chapter, the following definitions shall apply:
 
 #### (27) Target housing
 
-&emsp;The term “target housing” means any housing constructed prior to 1978, except housing for the elderly or persons with disabilities (unless any child who is less than 6 years of age resides or is expected to reside in such housing for the elderly or persons with disabilities) or any 0-bedroom dwelling. In the case of jurisdictions which banned the sale or use of lead-based paint prior to 1978, the Secretary, at the Secretary's discretion, may designate an earlier date.
+&emsp;The term “target housing” means any housing constructed prior to 1978, except housing for the elderly or persons with disabilities (unless any child who is less than 6 years of ageresides or is expected to reside in such housing for the elderly or persons with disabilities) or any 0-bedroom dwelling. In the case of jurisdictions which banned the sale or use of lead-based paint prior to 1978, the Secretary, at the Secretary's discretion, may designate an earlier date.
 
 (Pub. L. 102–550, title X, §1004, Oct. 28, 1992, 106 Stat. 3898.)
 

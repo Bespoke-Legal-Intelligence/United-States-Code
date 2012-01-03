@@ -148,7 +148,7 @@ Subsec. (b)(8) to (10). Pub. L. 111–383, §901(b)(4)(B)(iii), added pars. (8) 
 
 Subsec. (d). Pub. L. 111–383, §901(b)(4)(C), substituted “the Deputy Chief Management Officer of the Department of Defense, the officials serving in positions specified in section 131(b)(4) of this title, and the Principal Deputy Under Secretaries of Defense” for “and the Director of Defense Research and Engineering”.
 
-<b>2009</b>—Subsec. (a). Pub. L. 111–84, §906(b)(2)(A), added subsec. (a) and struck out former subsec. (a), which read as follows: “There are ten Assistant Secretaries of Defense, appointed from civilian life by the President, by and with the advice and consent of the Senate.”
+<b>2009</b>—Subsec. (a). Pub. L. 111–84, §906(b)(2)(A), added subsec. (a) and struck out former subsec. (a), whichread as follows: “There are ten Assistant Secretaries of Defense, appointed from civilian life by the President, by and with the advice and consent of the Senate.”
 
 Subsec. (b)(6), (7). Pub. L. 111–84, §906(b)(2)(B), added pars. (6) and (7).
 
@@ -160,7 +160,7 @@ Subsec. (b)(3). Pub. L. 107–314, §902(a), added par. (3).
 
 Subsec. (b)(6). Pub. L. 107–314, §902(c), struck out par. (6) which read as follows:
 
-“(6)(A) One of the Assistant Secretaries, as designated by the Secretary of Defense from among thoseAssistant Secretaries with responsibilities that include responsibilities related to combating terrorism, shall have, among that Assistant Secretary's duties, the duty to provide overall direction and supervision for policy, program planning and execution, and allocation and use of resources for the activities of the Department of Defense for combating terrorism, including antiterrorism activities, counterterrorism activities, terrorism consequences management activities, and terrorism-related intelligence support activities.
+“(6)(A) One of the Assistant Secretaries, as designated by the Secretary of Defense from among those Assistant Secretaries with responsibilities that include responsibilities related to combating terrorism, shall have, among that Assistant Secretary's duties, the duty to provide overall direction and supervision for policy, program planning and execution, and allocation and use of resources for the activities of the Department of Defense for combating terrorism, including antiterrorism activities, counterterrorism activities, terrorism consequences management activities, and terrorism-related intelligence support activities.
 
 “(B) The Assistant Secretary designated under subparagraph (A) shall be the principal civilian adviser to the Secretary of Defense on combating terrorism and (after the Secretary and Deputy Secretary) shall be the principal official within the senior management of the Department of Defense responsible for combating terrorism.
 
@@ -230,7 +230,7 @@ Subsec. (b)(3). Pub. L. 98–94, §1212(a)(2)(C), (D), designated existing fourt
 
 Subsec. (b)(4), (5). Pub. L. 98–94, §1212(a)(2)(E), added pars. (4) and (5).
 
-Subsec. (b)(6). Pub. L. 98–94, §1212(a)(2)(F), designated existing sixth sentence as par. (6), substituted “One of the Assistant Secretaries” for “In addition, one of the Assistant Secretaries”, redesignated pars. (1) to (5) as subpars. (A) to (E), respectively, redesignated former subpars. (A) to (D) as cls. (1) to (4), respectively, and in subpar. (E) substituted “clauses (A) through (D)” for “clauses (1)–(4)”.
+Subsec. (b)(6). Pub. L. 98–94, §1212(a)(2)(F), designated existing sixth sentence as par. (6), substituted “One ofthe Assistant Secretaries” for “In addition, one of the Assistant Secretaries”, redesignated pars. (1) to (5) as subpars. (A) to (E), respectively, redesignated former subpars. (A) to (D) as cls. (1) to (4), respectively, and in subpar. (E) substituted “clauses (A) through (D)” for “clauses (1)–(4)”.
 
 Subsec. (f). Pub. L. 98–94, §1212(a)(3), struck out subsec. (f) which provided for appointment of a Deputy Assistant Secretary of Defense for Reserve Affairs within the Office of the Assistant Secretary of Defense for Manpower and Reserve Affairs. See subsec. (b)(4) of this section.
 

@@ -20,9 +20,9 @@ Complaints, orders, and other processes of the Secretary of Agriculture under th
 
 #### Amendments
 
-1960—Subsec. (d). Pub. L. 86–507 substituted “mailing a copy thereof by registered mail or by certified mail” for “registering and mailing a copy thereof” and “mailed by registered mail or by certified mail” for “registered and mailed”.
+<b>1960</b>—Subsec. (d). Pub. L. 86–507 substituted “mailing a copy thereof by registered mail or by certified mail” for “registering and mailing a copy thereof” and “mailed by registered mail or by certified mail” for “registered and mailed”.
 
-1958—Subsec. (c). Pub. L. 85–791 struck out “a transcript of” before “the record”.
+<b>1958</b>—Subsec. (c). Pub. L. 85–791 struck out “a transcript of” before “the record”.
 
 #### Change of Name
 

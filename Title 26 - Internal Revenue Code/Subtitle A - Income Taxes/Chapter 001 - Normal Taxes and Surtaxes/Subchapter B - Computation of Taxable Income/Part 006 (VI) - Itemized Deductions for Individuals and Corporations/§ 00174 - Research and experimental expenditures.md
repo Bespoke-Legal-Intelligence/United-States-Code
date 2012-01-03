@@ -70,7 +70,7 @@ This section shall apply to a research or experimental expenditure only to the e
 
 <b>1986</b>—Subsec. (e)(2). Pub. L. 99–514 substituted “section 59(d)” for “section 58(i)”.
 
-<b>1982</b>—Subsec. (e). Pub. L. 97–248, §201(d)(9)(B), substituted “Cross references” for “Cross reference” inheading, designated existing provisions as par. (1), and added par. (2).
+<b>1982</b>—Subsec. (e). Pub. L. 97–248, §201(d)(9)(B), substituted “Cross references” for “Cross reference” in heading, designated existing provisions as par. (1), and added par. (2).
 
 <b>1976</b>—Subsec. (a)(2)(A). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 

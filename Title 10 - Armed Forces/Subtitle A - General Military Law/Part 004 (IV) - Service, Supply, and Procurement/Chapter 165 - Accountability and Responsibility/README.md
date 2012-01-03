@@ -46,7 +46,7 @@ Pub. L. 104–106, div. B, title XXVIII, §2821(b), Feb. 10, 1996, 110 Stat. 556
 
 <b>1993</b>—Pub. L. 103–160, div. A, title XI, §1182(a)(8)(C), Nov. 30, 1993, 107 Stat. 1771, added item 2783.
 
-<b>1990</b>—Pub. L. 101–510, div. A, title XIV, §1405(c)(2), title XV, §1533(a)(4)(B), Nov. 5, 1990, 104 Stat. 1680, 1734, substituted “Retirement Home” for “retirement homes” in item 2772 and struck out item 2782 “Unobligated balances withdrawn from availability for obligation: limitations on restoration”.
+<b>1990</b>—Pub. L. 101–510, div. A, title XIV, §1405(c)(2), title XV, §1533(a)(4)(B), Nov. 5, 1990, 104 Stat. 1680, 1734,substituted “Retirement Home” for “retirement homes” in item 2772 and struck out item 2782 “Unobligated balances withdrawn from availability for obligation: limitations on restoration”.
 
 <b>1989</b>—Pub. L. 101–189, div. A, title III, §342(a)(2), title XVI, §1603(a)(2), Nov. 29, 1989, 103 Stat. 1420, 1598, added items 2772 and 2782.
 

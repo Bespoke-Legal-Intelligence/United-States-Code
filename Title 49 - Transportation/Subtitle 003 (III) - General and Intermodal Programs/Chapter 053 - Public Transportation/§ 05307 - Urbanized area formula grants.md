@@ -50,11 +50,11 @@ Grants.—The Secretary may make grants under this section for—
 
 &emsp;(2)
 
-Special rule for fiscal years 2005 through 2010, and the period beginning october 1, 2010, and ending march 4, 2011.—
+Special rule for fiscal years 2005 through 2011 and the period beginning on october 1, 2011, and ending on march 31, 2012.—
 
 &emsp;&emsp;(A)
 
-Increased flexibility.—The Secretary may award grants under this section, from funds made available to carry out this section for each of the fiscal years 2005 through 2010, and the period beginning October 1, 2010, and ending March 4, 2011, to finance the operating cost of equipment and facilities for use in public transportation in an urbanized area with a population of at least 200,000, as determined by the 2000 decennial census of population, if—
+Increased flexibility.—The Secretary may award grants under this section, from funds made available to carry out this section for each of the fiscal years 2005 through 2011 and the period beginning on October 1, 2011, and ending on March 31, 2012, to finance the operating cost of equipment and facilities for use in public transportation in an urbanized area with a population of at least 200,000, as determined by the 2000 decennial census of population, if—
 
 &emsp;&emsp;&emsp;(i) the urbanized area had a population of less than 200,000, as determined by the 1990 decennial census of population;
 
@@ -96,7 +96,7 @@ Maximum amounts in fiscal year 2007.—In fiscal year 2007—
 
 &emsp;&emsp;(E)
 
-Maximum amounts in fiscal years 2008 through 2010 and during the period beginning october 1, 2010, and ending march 4, 2011.—In fiscal years 2008 through 2010, and during the period beginning October 1, 2010, and ending March 4, 2011,— <sup>1</sup>
+Maximum amounts in fiscal years 2008 through 2011 and the period beginning on october 1, 2011, and ending on march 31, 2012.—In each of fiscal years 2008 through 2011 and during the period beginning on October 1, 2011, and ending on March 31, 2012—
 
 &emsp;&emsp;&emsp;(i) amounts made available to any urbanized area under clause (i) or (ii) of subparagraph (A) shall be not more than 50 percent of the amount apportioned in fiscal year 2002 to the urbanized area with a population of less than 200,000, as determined in the 1990 decennial census of population;
 
@@ -272,7 +272,7 @@ Title 5.—The provision of assistance under this chapter shall not be construed
 
 Treatment.—For the purposes of this section, the United States Virgin Islands shall be treated as an urbanized area, as defined in section 5302.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 795; Pub. L. 103–429, §6(7), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 104–287, §5(11), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 105–178, title III, §3007(a)(1), (b)–(h), June 9, 1998, 112 Stat. 347, 348; Pub. L. 105–206, title IX, §9009(e), July 22, 1998, 112 Stat. 855; Pub. L. 107–232, §1, Oct. 1, 2002, 116 Stat. 1478; Pub. L. 108–88, §8(n), Sept. 30, 2003, 117 Stat. 1125; Pub. L. 108–202, §9(n), Feb. 29, 2004, 118 Stat. 488; Pub. L. 108–224, §7(n), Apr. 30, 2004, 118 Stat. 636; Pub. L. 108–263, §7(n), June 30, 2004, 118 Stat. 708; Pub. L. 108–280, §7(n), July 30, 2004, 118 Stat. 885; Pub. L. 108–310, §8(n), Sept. 30, 2004, 118 Stat. 1158; Pub. L. 109–14, §7(m), May 31, 2005, 119 Stat. 333; Pub. L. 109–20, §7(m), July 1, 2005, 119 Stat. 355; Pub. L. 109–35, §7(m), July 20, 2005, 119 Stat. 389; Pub. L. 109–37, §7(m), July 22, 2005, 119 Stat. 404; Pub. L. 109–40, §7(m), July 28, 2005, 119 Stat. 420; Pub. L. 109–59, title III, §§3002(b)(4), 3009(a)–(h), Aug. 10, 2005, 119 Stat. 1545, 1568–1571; Pub. L. 110–244, title II, §201(c), June 6, 2008, 122 Stat. 1609; Pub. L. 111–147, title IV, §432, Mar. 18, 2010, 124 Stat. 88; Pub. L. 111–322, title II, §2302, Dec. 22, 2010, 124 Stat. 3526.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 795; Pub. L. 103–429, §6(7), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 104–287, §5(11), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 105–178, title III, §3007(a)(1), (b)–(h), June 9, 1998, 112 Stat. 347, 348; Pub. L. 105–206, title IX, §9009(e), July 22, 1998, 112 Stat. 855; Pub. L. 107–232, §1, Oct. 1, 2002, 116 Stat. 1478; Pub. L. 108–88, §8(n), Sept. 30, 2003, 117 Stat. 1125; Pub. L. 108–202, §9(n), Feb. 29, 2004, 118 Stat. 488; Pub. L. 108–224, §7(n), Apr. 30, 2004, 118 Stat. 636; Pub. L. 108–263, §7(n), June 30, 2004, 118 Stat. 708; Pub. L. 108–280, §7(n), July 30, 2004, 118 Stat. 885; Pub. L. 108–310, §8(n), Sept. 30, 2004, 118 Stat. 1158; Pub. L. 109–14, §7(m), May 31, 2005, 119 Stat. 333; Pub. L. 109–20, §7(m), July 1, 2005, 119 Stat. 355; Pub. L. 109–35, §7(m), July 20, 2005, 119 Stat. 389; Pub. L. 109–37, §7(m), July 22, 2005, 119 Stat. 404; Pub. L. 109–40, §7(m), July 28, 2005, 119 Stat. 420; Pub. L. 109–59, title III, §§3002(b)(4), 3009(a)–(h), Aug. 10, 2005, 119 Stat. 1545, 1568–1571; Pub. L. 110–244, title II, §201(c), June 6, 2008, 122 Stat. 1609; Pub. L. 111–147, title IV, §432, Mar. 18, 2010, 124 Stat. 88; Pub. L. 111–322, title II, §2302, Dec. 22, 2010, 124 Stat. 3526; Pub. L. 112–5, title III, §302, Mar. 4, 2011, 125 Stat. 18; Pub. L. 112–30, title I, §132, Sept. 16, 2011, 125 Stat. 350.)
 
 Historical and Revision Notes
 
@@ -440,7 +440,7 @@ In subsection (f), the word “authority” is substituted for “agency or inst
 
 In subsection (f)(1), the words “is responsible under State laws for the financing, construction and operation, directly by lease, contract or otherwise, of public transportation services” are omitted as surplus because a State that is a designated recipient has that responsibility. The words “of UMTA funds”, “combined total permissible”, and “regardless of whether the amount for any particular urbanized area is exceeded” are omitted as surplus.
 
-In subsection (f)(2), the word “Secretary” is substituted for “UMTA” \[subsequently changed to “FTA” because of section 3004(b) of the Intermodal Surface Transportation Efficiency Act of 1991 (Public Law 102–240, 105 Stat. 2088)\] because of 49:102(b) and 107(a). The words “This provision shall take effect with the fiscal year 1990 section 9 apportionment” are omitted as obsolete.
+In subsection (f)(2), the word “Secretary” is substituted for “UMTA” \[subsequently changed to “FTA”because of section 3004(b) of the Intermodal Surface Transportation Efficiency Act of 1991 (Public Law 102–240, 105 Stat. 2088)\] because of 49:102(b) and 107(a). The words “This provision shall take effect with the fiscal year 1990 section 9 apportionment” are omitted as obsolete.
 
 In subsection (g)(2), before clause (A), the word “applies” is substituted for “is sought beyond the currently authorized funds for such recipient” to eliminate unnecessary words. In clause (A), the words “of funds” are omitted as surplus.
 
@@ -480,6 +480,18 @@ The Social Security Act, referred to in subsec. (d)(1)(D), is act Aug. 14, 1935,
 
 #### Amendments
 
+<b>2011</b>—Subsec. (b)(2). Pub. L. 112–30, §132(1), substituted “Special rule for fiscal years 2005 through 2011 and the period beginning on October 1, 2011, and ending on March 31, 2012” for “Special rule for fiscal years 2005 through 2011” in heading.
+
+Pub. L. 112–5, §302(1), substituted “Special rule for fiscal years 2005 through 2011” for “Special rule for fiscal years 2005 through 2010, and the period beginning October 1, 2010, and ending March 4, 2011” in heading.
+
+Subsec. (b)(2)(A). Pub. L. 112–30, §132(2), substituted “2011 and the period beginning on October 1, 2011, and ending on March 31, 2012,” for “2011,” in introductory provisions.
+
+Pub. L. 112–5, §302(2), substituted “2011,” for “2010, and the period beginning October 1, 2010, and ending March 4, 2011,” in introductory provisions.
+
+Subsec. (b)(2)(E). Pub. L. 112–30, §132(3), substituted “Maximum amounts in fiscal years 2008 through 2011 and the period beginning on october 1, 2011, and ending on march 31, 2012” for “Maximum amounts in fiscal years 2008 through 2011” in heading and “2011 and during the period beginning on October 1, 2011, and ending on March 31, 2012” for “2011” in introductory provisions.
+
+Pub. L. 112–5, §302(3), substituted “Maximum amounts in fiscal years 2008 through 2011” for “Maximum amounts in fiscal years 2008 through 2010 and during the period beginning October 1, 2010, and ending March 4, 2011” in heading and “In each of fiscal years 2008 through 2011” for “In fiscal years 2008 through 2010, and during the period beginning October 1, 2010, and ending March 4, 2011,” in introductory provisions.
+
 <b>2010</b>—Subsec. (b)(2). Pub. L. 111–322, §2302(1), substituted “March 4, 2011” for “December 31, 2010” in heading.
 
 Pub. L. 111–147, §432(1), substituted “
@@ -514,7 +526,7 @@ Subsec. (a)(2)(A). Pub. L. 109–59, §3009(b)(2), amended subpar. (A) generally
 
 Subsec. (a)(2)(B). Pub. L. 109–59, §3002(b)(4), substituted “public transportation” for “mass transportation”.
 
-Subsec. (b)(1). Pub. L. 109–59, §3009(c)(1), added par. (1) and struck out former par. (1) which read as follows: “The Secretary of Transportation may make grants under this section for capital projects and to finance the planning and improvement costs of equipment, facilities, and associated capital maintenance items for use in mass transportation, including the renovation and improvement of historic transportation facilities with related private investment. The Secretary may also make grants under this section to finance the operating cost of equipment and facilities for use in mass transportation in an urbanized area with a population of less than 200,000.”
+Subsec. (b)(1). Pub. L. 109–59, §3009(c)(1), added par. (1) and struck out former par. (1) which read as follows: “The Secretary of Transportation may make grantsunder this section for capital projects and to finance the planning and improvement costs of equipment, facilities, and associated capital maintenance items for use in mass transportation, including the renovation and improvement of historic transportation facilities with related private investment. The Secretary may also make grants under this section to finance the operating cost of equipment and facilities for use in mass transportation in an urbanized area with a population of less than 200,000.”
 
 Subsec. (b)(2). Pub. L. 109–59, §3009(c)(2), added par. (2) and struck out former par. (2) which related to special rule for fiscal years 2003 and 2004 and for the period of Oct. 1, 2004, through July 30, 2005.
 
@@ -574,7 +586,7 @@ Subsec. (d)(1)(J)(i). Pub. L. 109–59, §3002(b)(4), substituted “public tran
 
 Subsec. (d)(1)(K). Pub. L. 109–59, §3009(d)(4), (5), added subpar. (K).
 
-Subsec. (e). Pub. L. 109–59, §3009(e), reenacted heading without change and amended text of subsec. (e) generally. Prior to amendment, text read as follows: “A grant of the Government for a capital project (including associated capital maintenance items) under this section is for 80 percent of the net project cost of the project. A recipient may provide additional local matching amounts. A grant for operating expenses may not be more than 50 percent of the net project cost of the project. The remainder of the net project cost shall be provided in cash from sources other than amounts of the Government or revenues from providing mass transportation (excluding revenues derived from the sale of advertising and concessions that are more thanthe amount of those revenues in the fiscal year that ended September 30, 1985). Transit system amounts that make up the remainder shall be from an undistributed cash surplus, a replacement or depreciation cash fund or reserve, or new capital.”
+Subsec. (e). Pub. L. 109–59, §3009(e), reenacted heading without change and amended text of subsec. (e) generally. Prior to amendment, text read as follows: “A grant of the Government for a capital project (including associated capital maintenance items) under this section is for 80 percent of the net project cost of the project. A recipient may provide additional local matching amounts. A grant for operating expenses may not be more than 50 percent of the net project cost of the project. The remainder of the net project cost shall be provided in cash from sources other than amounts of the Government or revenues from providing mass transportation (excluding revenues derived from the sale of advertising and concessions that are more than the amount of those revenues in the fiscal year that ended September 30, 1985). Transit system amounts that make up the remainder shall be from an undistributed cash surplus, a replacement or depreciation cash fund or reserve, or new capital.”
 
 Subsec. (f)(1). Pub. L. 109–59, §3002(b)(4), substituted “public transportation” for “mass transportation”.
 
@@ -754,7 +766,7 @@ Report.—Not later than 30 days after delivery of the base order under each of 
 
 #### Local Share
 
-Pub. L. 105–178, title III, §3011, June 9, 1998, 112 Stat. 357, as amended by Pub. L. 108–202, §9(u), Feb. 29, 2004, 118 Stat. 489; Pub. L. 108–224, §7(u), Apr. 30, 2004, 118 Stat. 637; Pub. L. 108–263, §7(u), June 30, 2004, 118 Stat. 708; Pub. L. 108–280, §7(u), July 30, 2004, 118 Stat. 886; Pub. L. 108–310, §8(u), Sept. 30, 2004, 118 Stat. 1158; Pub.L. 109–14, §7(t), May 31, 2005, 119 Stat. 334; Pub. L. 109–20, §7(s), July 1, 2005, 119 Stat. 356; Pub. L. 109–35, §7(s), July 20, 2005, 119 Stat. 389; Pub. L. 109–37, §7(s), July 22, 2005, 119 Stat. 404; Pub. L. 109–40, §7(s), July 28, 2005, 119 Stat. 421, provided that:
+Pub. L. 105–178, title III, §3011, June 9, 1998, 112 Stat. 357, as amended by Pub. L. 108–202, §9(u), Feb. 29, 2004, 118 Stat. 489; Pub. L. 108–224, §7(u), Apr. 30, 2004, 118 Stat. 637; Pub. L. 108–263, §7(u), June 30, 2004, 118 Stat. 708; Pub. L. 108–280, §7(u), July 30, 2004, 118 Stat. 886; Pub. L. 108–310, §8(u), Sept. 30, 2004, 118 Stat. 1158; Pub. L. 109–14, §7(t), May 31, 2005, 119 Stat. 334; Pub. L. 109–20, §7(s), July 1, 2005, 119 Stat. 356; Pub. L. 109–35, §7(s), July 20, 2005, 119 Stat. 389; Pub. L. 109–37, §7(s), July 22, 2005, 119 Stat. 404; Pub. L. 109–40, §7(s), July 28, 2005, 119 Stat. 421, provided that:
 
 “(a)
 
@@ -835,6 +847,4 @@ Period described.—For purposes of paragraph (1), the period described in this 
 “(3)
 
 Services for elderly and persons with disabilities.—In addition to assistance made available under paragraph (1), the Secretary may provide assistance under section 5307 of title 49, United States Code, to a transit provider that operates 20 or fewer vehicles in an urbanized area with a population of at least 200,000 to finance the operating costs of equipment and facilities used by the transit provider in providing mass transportation services to elderly and persons with disabilities, provided that such assistance to all entities shall not exceed $1,444,000 annually.”
-
-<i><sup>1</sup></i><i> So in original. Probably should be “2011—”.</i>
 

@@ -38,7 +38,7 @@ Section 608c(5) of this title, referred to in par. (6), was in the original “s
 
 #### Amendments
 
-1999—Par. (3). Pub. L. 106–113 substituted “on September 30, 2001.” for “concurrent with the Secretary's implementation of the dairy pricing and Federal milk marketing order consolidation and reforms under section 7253 of this title.”
+<b>1999</b>—Par. (3). Pub. L. 106–113 substituted “on September 30, 2001.” for “concurrent with the Secretary's implementation of the dairy pricing and Federal milk marketing order consolidation and reforms under section 7253 of this title.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by “of”.</i>
 

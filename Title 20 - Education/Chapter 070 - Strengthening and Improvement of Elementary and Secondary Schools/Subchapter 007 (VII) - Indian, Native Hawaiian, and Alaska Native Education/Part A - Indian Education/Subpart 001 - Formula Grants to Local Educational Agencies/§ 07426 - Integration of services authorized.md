@@ -68,7 +68,7 @@ A single report format shall be developed by the Secretary, consistent with the 
 
 #### (j) No reduction in amounts
 
-In no case shall the amount of Federal funds available to an eligible entity involved in any demonstration project be reduced as a result of the enactment of this section.
+In no case shall the amount of Federal funds available to an eligible entity involved in anydemonstration project be reduced as a result of the enactment of this section.
 
 #### (k) Interagency fund transfers authorized
 
@@ -86,7 +86,7 @@ The Secretary is authorized to take such action as may be necessary to provide f
 
 #### (m) Overage
 
-The eligible entity may commingle all administrative funds from the consolidated programsand shall be entitled to the full amount of such funds (under each program's or agency's regulations). The overage (defined as the difference between the amount of the commingled funds and the actual administrative cost of the programs) shall be considered to be properly spent for Federal audit purposes, if the overage is used for the purposes provided for under this section.
+The eligible entity may commingle all administrative funds from the consolidated programs and shall be entitled to the full amount of such funds (under each program's or agency's regulations). The overage (defined as the difference between the amount of the commingled funds and the actual administrative cost of the programs) shall be considered to be properly spent for Federal audit purposes, if the overage is used for the purposes provided for under this section.
 
 #### (n) Fiscal accountability
 
@@ -122,5 +122,5 @@ A prior section 7426, Pub. L. 89–10, title VII, §7116, as added Pub. L. 103�
 
 #### Change of Name
 
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives and Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

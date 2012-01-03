@@ -30,3 +30,5 @@ Limitation on Duration of Service.—An individual may not be reemployed under t
 
 (Added Pub. L. 108–458, title II, §2004(a), Dec. 17, 2004, 118 Stat. 3703.)
 
+<i><sup>1</sup></i><i> Another section 3598 is set out preceding this section.</i>
+

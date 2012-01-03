@@ -18,7 +18,7 @@ Section 3045g, Pub. L. 89–73, title VII, §708, as added Pub. L. 92–258, §2
 
 Section 3045h, Pub. L. 89–73, title VII, §709, as added Pub. L. 92–258, §2, Mar. 22, 1972, 86 Stat. 95, concerned with relationship to other laws. See section 3020a(b) of this title.
 
-Section 3045i, Pub. L. 89–73, title VII, §710, as added Pub. L. 92–258, §2, Mar. 22, 1972, 86 Stat. 95, related toagreements with profitmaking organizations. See section 3020c of this title.
+Section 3045i, Pub. L. 89–73, title VII, §710, as added Pub. L. 92–258, §2, Mar. 22, 1972, 86 Stat. 95, related to agreements with profitmaking organizations. See section 3020c of this title.
 
 #### Effective Date of Repeal
 

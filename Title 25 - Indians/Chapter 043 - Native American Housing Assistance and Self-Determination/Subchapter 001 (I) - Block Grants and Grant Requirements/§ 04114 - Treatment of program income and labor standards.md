@@ -4,7 +4,7 @@
 
 #### (1) Authority to retain
 
-&emsp;Notwithstanding any other provision of this chapter, a recipient may retain any program income that is realized from any grant amounts under this chapter if—
+&emsp;Notwithstanding any other provision of this chapter, a recipient may retain any programincome that is realized from any grant amounts under this chapter if—
 
 &emsp;&emsp;(A) such income was realized after the initial disbursement of the grant amounts received by the recipient; and
 
@@ -28,7 +28,7 @@
 
 #### (4) Exclusion from program income of regular developer's fees for low-income housing tax credit projects
 
-&emsp;Notwithstanding any other provision of this chapter, any income derived from a regular and customary developer's fee for any projectthat receives a low-income housing tax credit under section 42 of title 26, and that is initially funded using a grant provided under this chapter, shall not be considered to be program income if the developer's fee is approved by the State housing credit agency.
+&emsp;Notwithstanding any other provision of this chapter, any income derived from a regular and customary developer's fee for any project that receives a low-income housing tax credit under section 42 of title 26, and that is initially funded using a grant provided under this chapter, shall not be considered to be program income if the developer's fee is approved by the State housing credit agency.
 
 #### (b) Labor standards
 

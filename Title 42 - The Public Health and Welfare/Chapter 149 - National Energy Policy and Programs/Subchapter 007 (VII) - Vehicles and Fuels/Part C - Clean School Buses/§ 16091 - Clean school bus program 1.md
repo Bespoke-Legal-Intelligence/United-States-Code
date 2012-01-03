@@ -74,7 +74,7 @@ In this section:
 
 #### (A) Replacement
 
-&emsp;&emsp;In the case of grant applications to replace school buses, the Administrator shall givepriority to applicants that propose to replace school buses manufactured before model year 1977.
+&emsp;&emsp;In the case of grant applications to replace school buses, the Administrator shall give priority to applicants that propose to replace school buses manufactured before model year 1977.
 
 #### (B) Retrofitting
 

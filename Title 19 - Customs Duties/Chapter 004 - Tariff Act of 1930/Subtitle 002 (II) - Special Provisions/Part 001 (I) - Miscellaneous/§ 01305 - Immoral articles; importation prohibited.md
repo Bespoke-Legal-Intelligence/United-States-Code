@@ -30,7 +30,7 @@ Upon motion of the United States, a court shall stay such civil forfeiture proce
 
 (2) Upon receipt of such information, such United States attorney shall promptly determine whether in such attorney's opinion the referral of the matter for forfeiture under this section would materially affect the Government's ability to conduct a criminal investigation with respect to such seizure.
 
-(3) If the United States attorney is of the opinion that no prejudice to such investigation willresult from such referral, such attorney shall immediately so notify the Customs Service in writing. The appropriate customs officer shall immediately notify in writing the addressee or consignee of the seizure and shall transmit information concerning such seizure to the United States Attorney <sup>2</sup> of the district in which is situated the office at which such seizure has taken place. The actions described in paragraphs (1) through (3) of this subsection shall take place within sufficient time to allow for the filing of a forfeiture complaint within 14 days of the seizure unless the United States Attorney <sup>2</sup> of the district of the addressee's residence certifies in writing and includes specific, articulable facts demonstrating that the determination required in paragraph (2) of this subsection could not be made in sufficient time to comply with this deadline. In such cases, the actions described in paragraphs (1) through (3) of this subsection shall take place within sufficient time to allow for the filing of a forfeiture complaint within 21 days of seizure.
+(3) If the United States attorney is of the opinion that no prejudice to such investigation will result from such referral, such attorney shall immediately so notify the Customs Service in writing. The appropriate customs officer shall immediately notify in writing the addressee or consignee of the seizure and shall transmit information concerning such seizure to the United States Attorney <sup>2</sup> of the district in which is situated the office at which such seizure has taken place. The actions described in paragraphs (1) through (3) of this subsection shall take place within sufficient time to allow for the filing of a forfeiture complaint within 14 days of the seizure unless the United States Attorney <sup>2</sup> of the district of the addressee's residence certifies in writing and includes specific, articulable facts demonstrating that the determination required in paragraph (2) of this subsection could not be made in sufficient time to comply with this deadline. In such cases, the actions described in paragraphs (1) through (3) of this subsection shall take place within sufficient time to allow for the filing of a forfeiture complaint within 21 days of seizure.
 
 (4) If the United States attorney for the district of the addressee's residence concludes that material prejudice to such investigation will result from such referral, such United States attorney shall place on file, within 14 days of the date of seizure, a dated certification stating that it is the United States attorney's judgment that referral of the matter for forfeiture under this section would materially affect the Government's ability to conduct a criminal investigation with respect to the seizure. The certification shall set forth specific, articulable facts demonstrating that withholding referral for forfeiture is necessary.
 
@@ -48,7 +48,7 @@ Upon motion of the United States, a court, for good cause shown, shall stay civi
 
 #### Prior Provisions
 
-Provisions in substantially the same language as those in this section were made by act Oct. 3, 1913, ch. 16, §IV, subsections 1, 2, and 3, 38 Stat. 194, superseding similar provisions of previous tariff acts. Those subsections were superseded by act Sept. 21, 1922, ch. 356, title III, §305, 42 Stat. 937, and repealed by section 321 of that act. Section 305 of act Sept. 21, 1922, was superseded by section 305 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions in substantially the same language as those in this section were made by act Oct. 3, 1913, ch. 16, §IV, subsections 1, 2, and 3, 38 Stat. 194, superseding similar provisions of previous tariff acts. Those subsections were superseded by act Sept. 21, 1922, ch. 356, title III, §305, 42 Stat. 937, and repealed by section 321of that act. Section 305 of act Sept. 21, 1922, was superseded by section 305 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 #### Amendments
 
@@ -72,7 +72,7 @@ Subsec. (d). Pub. L. 100–418 added subsec. (d) relating to stay of forfeiture 
 
 <b>1970</b>—Subsec. (a). Pub. L. 91–271 substituted references to the appropriate customs officer for references to the collector wherever appearing.
 
-<b>1948</b>—Subsec. (b). Act June 25, 1948, eff. Sept. 1, 1948, repealed subsec. (b) which related to penalties againstgovernment officers. See section 552 of Title 18, Crimes and Criminal Procedure.
+<b>1948</b>—Subsec. (b). Act June 25, 1948, eff. Sept. 1, 1948, repealed subsec. (b) which related to penalties against government officers. See section 552 of Title 18, Crimes and Criminal Procedure.
 
 #### Change of Name
 

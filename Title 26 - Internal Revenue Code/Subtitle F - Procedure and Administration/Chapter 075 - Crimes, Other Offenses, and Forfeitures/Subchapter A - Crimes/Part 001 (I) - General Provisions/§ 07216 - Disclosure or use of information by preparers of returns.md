@@ -26,7 +26,7 @@ Any person who is engaged in the business of preparing, or providing services in
 
 #### (3) Regulations
 
-&emsp;Subsection (a) shall not apply to a disclosure or use of information which is permitted by regulations prescribed by the Secretary under this section. Such regulations shall permit (subject to such conditions as such regulationsshall provide) the disclosure or use of information for quality or peer reviews.
+&emsp;Subsection (a) shall not apply to a disclosure or use of information which is permitted by regulations prescribed by the Secretary under this section. Such regulations shall permit (subject to such conditions as such regulations shall provide) the disclosure or use of information for quality or peer reviews.
 
 (Added Pub. L. 92–178, title III, §316(a), Dec. 10, 1971, 85 Stat. 529; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title IV, §412(b)(10), July 18, 1984, 98 Stat. 792; Pub. L. 100–647, title VI, §6242(b), Nov. 10, 1988, 102 Stat. 3749; Pub. L. 101–239, title VII, §7739(a), Dec. 19, 1989, 103 Stat. 2404.)
 

@@ -8,6 +8,16 @@ The Attorney General may appoint a Director of the Federal Bureau of Investigati
 
 The section is supplied for convenience and clarification and is based on section 3 of Executive Order No. 6166 of June 10, 1933, which provided for the transfer of the functions of the Bureau of Investigation together with the investigative functions of the Bureau of Prohibition to a “Division of Investigation in the Department of Justice, at the head of which shall be a Director of Investigation”. The Division of Investigation was first designated as the “Federal Bureau of Investigation” by the Act of Mar. 22, 1935, ch. 39, title II, 49 Stat. 77, and has been so designated in statutes since that date. The title of “Director of the Federal Bureau of Investigation” was recognized by statute in the Act of June 5, 1936, ch. 529, 49 Stat. 1484, and has been used in statutes since that date.
 
+#### Findings
+
+Pub. L. 112–24, §1, July 26, 2011, 125 Stat. 238, provided that: “Congress finds that—
+
+&emsp;“(1) on May 12, 2011, the President requested that Congress extend the term of Robert S. Mueller III as Director of the Federal Bureau of Investigation by 2 years, citing the critical need for continuity and stability at the Federal Bureau of Investigation in the face of ongoing threats to the United States and leadership transitions at the Federal agencies charged with protecting national security;
+
+&emsp;“(2) in light of the May 1, 2011, successful operation against Osama bin Laden, the continuing threat to national security, and the approaching 10th anniversary of the attacks of September 11, 2001, the President's request for a limited, 1-time exception to the term limit of the Director of the Federal Bureau of Investigation, in these exceptional circumstances, is appropriate; and
+
+&emsp;“(3) this Act \[amending provisions set out as a note under this section\] is intended to provide a 1-time exception to the 10-year statutory limit on the term of the Director of the Federal Bureau of Investigation in light of the President's request and existing exceptional circumstances, and is not intended to create a precedent.”
+
 #### Improvement of Intelligence Capabilities; Directorate of Intelligence; Intelligence Career Service
 
 Pub. L. 108–458, title II, §§2001–2003, Dec. 17, 2004, 118 Stat. 3700, 3702, as amended by Pub. L. 111–259, title VIII, §806(b)(1), Oct. 7, 2010, 124 Stat. 2748, provided that:
@@ -82,7 +92,7 @@ Reports.—(1) Not later than 180 days after the date of the enactment of this A
 
 “(3) Not later than 180 days after the date of the enactment of this Act, and every 12 months thereafter, the Director shall submit to Congress a report assessing the qualifications, status, and roles of analysts at Bureau headquarters and in the field offices of the Bureau.
 
-“(4) Not later than 180 days after the date of the enactment of this Act, and every 12 months thereafter, the Director shall submit to Congress a report on the progress of the Bureau in implementing information-sharing principles.
+“(4) Not later than 180 days after the date of the enactment of this Act, and every 12 months thereafter, the Director shall submit to Congress a report on theprogress of the Bureau in implementing information-sharing principles.
 
 #### “SEC. 2002. DIRECTORATE OF INTELLIGENCE OF THE FEDERAL BUREAU OF INVESTIGATION.
 
@@ -208,7 +218,7 @@ Study.—The Director of the Federal Bureau of Investigation shall conduct a stu
 
 “(b)
 
-Implementation.—Any program proposed under subsection (a) may be implemented only after the Department of Justice and the Office of Management and Budget review and approve the implementation of such program.
+Implementation.—Any program proposed under subsection (a) may be implemented only after the Department of Justice and the Office of Management andBudget review and approve the implementation of such program.
 
 “(c)
 
@@ -216,9 +226,15 @@ Availability of Funds.—Any payment made by the Director of the Federal Bureau 
 
 #### Confirmation and Compensation of Director; Term of Service
 
-Pub. L. 90–351, title VI, §1101, June 19, 1968, 82 Stat. 236, as amended by Pub. L. 94–503, title II, §203, Oct. 15, 1976, 90 Stat. 2427, provided that:
+Pub. L. 90–351, title VI, §1101, June 19, 1968, 82 Stat. 236, as amended by Pub. L. 94–503, title II, §203, Oct. 15, 1976, 90 Stat. 2427; Pub. L. 112–24, §2, July 26, 2011, 125 Stat. 238, provided that:
 
 “(a) Effective as of the day following the date on which the present incumbent in the office of Director ceases to serve as such, the Director of the Federal Bureau of Investigation shall be appointed by the President, by and with the advice and consent of the Senate, and shall receive compensation at the rate prescribed for level II of the Federal Executive Salary Schedule \[section 5313 of Title 5, Government Organization and Employees\].
 
-“(b) Effective with respect to any individual appointment by the President, by and with the advice and consent of the Senate, after June 1, 1973, the term of service of the Director of the Federal Bureau of Investigation shall be ten years. A Director may not serve more than one ten-year term. The provisions of subsections (a) through (c) of section 8335 of title 5, United States Code, shall apply to any individual appointed under this section.”
+“(b) Effective with respect to any individual appointment by the President, by and with the advice and consent of the Senate, after June 1, 1973, the term of service of the Director of the Federal Bureau of Investigation shall be ten years. A Director may not serve more than one ten-year term. The provisions of subsections (a) through (c) of section 8335 of title 5, United States Code, shall apply to any individual appointed under this section.
+
+“(c)(1) Effective on the date of enactment of this subsection \[July 26, 2011\], a new term of service for the office of Director of the Federal Bureau of Investigation shall be created, which shall begin on or after August 3, 2011, and continue until September 4, 2013. Notwithstanding the second sentence of subsection (b) of this section, the incumbent Director of the Federal Bureau of Investigation on the date of enactment of this subsection shall be eligible to be appointed to the new term of service provided for by this subsection, by and with the advice and consent of the Senate, and only for that new term of service. Nothing in this subsection shall prevent the President, by and with the advice of the Senate, from appointing an individual, other than the incumbent Director of the Federal Bureau of Investigation, to a 10-year term of service subject to the provisions of subsection (b) after the date of enactment of this subsection.
+
+“(2) The individual who is the incumbent in the office of the Director of the Federal Bureau of Investigation on the date of enactment of this subsection may not serve as Director after September 4, 2013.
+
+“(3) With regard to the individual who is the incumbent in the office of the Director of the Federal Bureau of Investigation on the date of enactment of this subsection, the second sentence of subsection (b) shall not apply.”
 

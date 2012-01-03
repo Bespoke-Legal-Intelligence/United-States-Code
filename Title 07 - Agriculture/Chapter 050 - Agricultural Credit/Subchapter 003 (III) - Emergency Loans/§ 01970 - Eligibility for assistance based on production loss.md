@@ -6,5 +6,5 @@ The Secretary shall make financial assistance under this subchapter available to
 
 #### Amendments
 
-1981—Pub. L. 97–35 increased specific per centum loss from 20 to 30, and authorized a lesser per centum loss pursuant to determinations by the Secretary under applicable criteria.
+<b>1981</b>—Pub. L. 97–35 increased specific per centum loss from 20 to 30, and authorized a lesser per centum loss pursuant to determinations by the Secretary under applicable criteria.
 

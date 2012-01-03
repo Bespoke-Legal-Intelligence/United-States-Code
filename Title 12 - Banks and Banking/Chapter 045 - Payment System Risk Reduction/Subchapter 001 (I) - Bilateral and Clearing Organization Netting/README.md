@@ -1,7 +1,5 @@
 ### SUBCHAPTER I—BILATERAL AND CLEARING ORGANIZATION NETTING
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
 
 ---
 

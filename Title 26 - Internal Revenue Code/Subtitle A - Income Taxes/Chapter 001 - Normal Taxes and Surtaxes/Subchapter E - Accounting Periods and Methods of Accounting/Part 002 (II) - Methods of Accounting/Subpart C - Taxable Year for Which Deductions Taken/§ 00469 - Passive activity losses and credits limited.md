@@ -50,7 +50,7 @@ For purposes of this section—
 
 #### (B) Income in subsequent years
 
-&emsp;&emsp;If any taxpayer has any loss for any taxable year from a working interest in any oil or gas property which is treated as a loss which is not from a passive activity, then any net income from such property (or any property the basis of which is determined in whole or in part by reference to the basis of such property) for any succeeding taxable year shall be treated as income of the taxpayer which is not from a passive activity. If the preceding sentence applies to the net income from any property for any taxable year, any credits allowable under subpart B (other than section 27(a)) or D of part IV of subchapter A for such taxable year which are attributable to such property shall betreated as credits not from a passive activity to the extent the amount of such credits does not exceed the regular tax liability of the taxpayer for the taxable year which is allocable to such net income.
+&emsp;&emsp;If any taxpayer has any loss for any taxable year from a working interest in any oil or gas property which is treated as a loss which is not from a passive activity, then any net income from such property (or any property the basis of which is determined in whole or in part by reference to the basis of such property) for any succeeding taxable year shall be treated as income of the taxpayer which is not from a passive activity. If the preceding sentence applies to the net income from any property for any taxable year, any credits allowable under subpart B (other than section 27(a)) or D of part IV of subchapter A for such taxable year which are attributable to such property shall be treated as credits not from a passive activity to the extent the amount of such credits does not exceed the regular tax liability of the taxpayer for the taxable year which is allocable to such net income.
 
 #### (4) Material participation not required for paragraphs (2) and (3)
 
@@ -242,7 +242,7 @@ If during the taxable year a taxpayer disposes of his entire interest in any pas
 
 &emsp;If an interest in the activity is transferred by reason of the death of the taxpayer—
 
-&emsp;&emsp;(A) paragraph (1)(A) shall apply to losses described in paragraph (1)(A) to the extentsuch losses are greater than the excess (if any) of—
+&emsp;&emsp;(A) paragraph (1)(A) shall apply to losses described in paragraph (1)(A) to the extent such losses are greater than the excess (if any) of—
 
 &emsp;&emsp;&emsp;(i) the basis of such property in the hands of the transferee, over
 
@@ -527,7 +527,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;&emsp;&emsp;(i) the amount of the passive activity loss (or passive activity credit) which is disallowed for the taxable year under subsection (a) (without regard to this subsection), or
 
-&emsp;&emsp;&emsp;(ii) the amount of the passive activity loss (or passive activity credit) which would be disallowed for the taxable year\(without regard to this subsection and without regard to any amount allocable to an activity for the taxable year under subsection (b)) taking into account only pre-enactment interests.
+&emsp;&emsp;&emsp;(ii) the amount of the passive activity loss (or passive activity credit) which would be disallowed for the taxable year (without regard to this subsection and without regard to any amount allocable to an activity for the taxable year under subsection (b)) taking into account only pre-enactment interests.
 
 #### (B) Pre-enactment interest
 
@@ -715,7 +715,7 @@ Section 1704(d)(2) of Pub. L. 104–188 provided that: “The amendment made by 
 
 Section 1704(e)(2) of Pub. L. 104–188 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to taxable years beginning after December 31, 1986.”
 
-Amendment by section 1807(c)(4) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1807(e) of Pub. L. 104–188, set out as an Effective Date note under section 36C of this title.
+Amendment by section 1807(c)(4) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1807(e) of Pub. L. 104–188, set out as an Effective Date note under section 23 of this title.
 
 #### Effective Date of 1993 Amendment
 
@@ -767,7 +767,7 @@ Special rule for carryovers.—The amendments made by this section shall not app
 
 Income from sales of passive activities in taxable years beginning before january 1, 1987.—If—
 
-&emsp;“(A) gain is recognized in a taxable year beginning after December 31, 1986, from a sale or exchange of an interest in an activity in a taxable year beginning before January 1, 1987, and
+&emsp;“(A) gain is recognized in a taxable year beginning after December 31, 1986, from a sale or exchange of aninterest in an activity in a taxable year beginning before January 1, 1987, and
 
 &emsp;“(B) such gain would have been treated as gain from a passive activity had section 469 of the Internal Revenue Code of 1986 (as added by this section) been in effect for the taxable year in which the sale or exchange occurred and for all succeeding taxable years,
 

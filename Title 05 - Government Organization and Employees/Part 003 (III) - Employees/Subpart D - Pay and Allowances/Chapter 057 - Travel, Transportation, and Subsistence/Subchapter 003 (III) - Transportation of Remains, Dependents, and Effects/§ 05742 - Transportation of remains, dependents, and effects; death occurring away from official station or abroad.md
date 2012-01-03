@@ -80,11 +80,11 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-2008—Subsec. (b)(2). Pub. L. 110–181 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the expense of transporting his dependents, including expenses of packing, crating, draying, and transporting household effects and other personal property to his former home or such other place as is determined by the head of the agency concerned, if death occurred while the employee was performing official duties outside the continental United States or in transit thereto or therefrom; and”.
+<b>2008</b>—Subsec. (b)(2). Pub. L. 110–181 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the expense of transporting his dependents, including expenses of packing, crating, draying, and transporting household effects and other personal property to his former home or such other place as is determined by the head of the agency concerned, if death occurred while the employee was performing official duties outside the continental United States or in transit thereto or therefrom; and”.
 
-1998—Subsec. (b)(3). Pub. L. 105–277 added par. (3).
+<b>1998</b>—Subsec. (b)(3). Pub. L. 105–277 added par. (3).
 
-1990—Subsec. (b)(1), (2). Pub. L. 101–510, §1206(d)(1), inserted “continental” after “outside the”.
+<b>1990</b>—Subsec. (b)(1), (2). Pub. L. 101–510, §1206(d)(1), inserted “continental” after “outside the”.
 
 Subsec. (e). Pub. L. 101–510, §1206(d)(2), added subsec. (e).
 

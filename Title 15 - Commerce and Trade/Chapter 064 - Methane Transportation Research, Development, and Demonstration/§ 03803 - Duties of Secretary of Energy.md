@@ -46,7 +46,7 @@ In assuring the effective management of this program, the Secretary shall have s
 
 (5) Further, the Secretary of Energy in each annual budget submission to the Congress, or amendment thereto, for the programs authorized by this chapter shall describe how each identified research and development effort in such submission satisfies the requirements of this subsection.
 
-(6) The provisions and requirements of this subsection shall not apply with respect to any contract, grant, or project which was entered into, made, or formally approved and initiatedprior to the enactment of this chapter, or with respect to any renewal or extension thereof.
+(6) The provisions and requirements of this subsection shall not apply with respect to anycontract, grant, or project which was entered into, made, or formally approved and initiated prior to the enactment of this chapter, or with respect to any renewal or extension thereof.
 
 (Pub. L. 96–512, §4, Dec. 12, 1980, 94 Stat. 2828; Pub. L. 97–375, title I, §106(c), Dec. 21, 1982, 96 Stat. 1820; Pub. L. 103–437, §5(b)(5), Nov. 2, 1994, 108 Stat. 4582.)
 
@@ -59,10 +59,6 @@ Section 3808 of this title, referred to in subsec. (d)(4), was repealed by Pub. 
 <b>1994</b>—Subsec. (d)(3). Pub. L. 103–437 substituted “Committee on Science, Space, and Technology” for “Committee on Science and Technology”.
 
 <b>1982</b>—Subsec. (c)(8). Pub. L. 97–375 struck out “and report to the Congress on” after “ascertain”.
-
-#### Change of Name
-
-Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

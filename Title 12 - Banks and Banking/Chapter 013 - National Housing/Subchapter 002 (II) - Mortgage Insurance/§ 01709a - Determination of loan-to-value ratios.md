@@ -18,5 +18,5 @@ Section was enacted as part of the Housing Act of 1957, and not as part of the N
 
 #### Amendments
 
-1967—Pub. L. 90–19 substituted “Secretary of Housing and Urban Development” for “Federal Housing Commissioner”.
+<b>1967</b>—Pub. L. 90–19 substituted “Secretary of Housing and Urban Development” for “Federal Housing Commissioner”.
 

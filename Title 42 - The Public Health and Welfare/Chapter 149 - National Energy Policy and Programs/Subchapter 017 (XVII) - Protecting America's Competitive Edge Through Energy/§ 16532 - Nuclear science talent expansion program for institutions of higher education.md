@@ -86,7 +86,7 @@ The Secretary shall establish, in accordance with this section, a program to exp
 
 #### (B) Amount
 
-&emsp;&emsp;An institution of higher education that receives a grant under this subsection shall beeligible for up to $500,000 for each year of the grant period.
+&emsp;&emsp;An institution of higher education that receives a grant under this subsection shall be eligible for up to $500,000 for each year of the grant period.
 
 #### (4) Use of funds
 

@@ -30,7 +30,7 @@
 
 &emsp;(2) who died before attaining age 60 and at the time of his death would have been eligible for retired pay under chapter 1223 of this title (or under chapter 67 of this title as in effect before December 1, 1994) but for the fact that he was under 60 years of age;
 
-> may, upon request, be given the medical and dental care prescribed by section 1077 of this title in facilities of the uniformed services, subject to the availability of space and facilities and the capabilities of the medical and dental staff, except that a dependent of a member or former member described in paragraph (2) maynot be given such medical or dental care until the date on which such member or former member would have attained age 60.
+> may, upon request, be given the medical and dental care prescribed by section 1077 of this title in facilities of the uniformed services, subject to the availability of space and facilities and the capabilities of the medical and dental staff, except that a dependent of a member or former member described in paragraph (2) may not be given such medical or dental care until the date on which such member or former member would have attained age 60.
 
 (c) A determination by the medical or dental officer in charge, or the contract surgeon in charge, or his designee, as to the availability of space and facilities and to the capabilities of the medical and dental staff is conclusive. Care under this section may not be permitted to interfere with the primary mission of those facilities.
 
@@ -54,7 +54,7 @@
 
 (B) A determination of whether an offense involved abuse of a dependent of the member shall be made in accordance with regulations prescribed by the administering Secretary for such uniformed service.
 
-(f)(1) The administering Secretaries shall furnish an eligible dependent a physical examination that is required by a school in connection with the enrollment of the dependent as a student in that school.
+(f)(1) The administering Secretaries shall furnish an eligible dependent a physical examination that is required by a school in connectionwith the enrollment of the dependent as a student in that school.
 
 (2) A dependent is eligible for a physical examination under paragraph (1) if the dependent—
 
@@ -108,7 +108,7 @@ Appropriate references are made to dental care throughout the section to reflect
 
 In subsection (a), the words “appointed, enlisted, inducted or called, ordered or conscripted in a uniformed service” are omitted as surplusage, since it does not matter how a member became a member. The words “active duty for a period of more than 30 days” are substituted for the words “active duty or active duty for training pursuant to a call or order that does not specify a period of thirty days or less” to reflect section 101(22) and (23) of this title.
 
-In subsection (b), the words “active duty (other than for training)” are substituted for the words “activeduty as defined in section 901(b) of title 50” to reflect section 101(22) of this title. The words “retirement” and “retirement pay” are omitted as surplusage.
+In subsection (b), the words “active duty (other than for training)” are substituted for the words “active duty as defined in section 901(b) of title 50” to reflect section 101(22) of this title. The words “retirement” and “retirement pay” are omitted as surplusage.
 
 In subsection (c), 37:421(c) (last 28 words) is omitted as unnecessary since this subsection and section 1077 of this title are written so as to apply to subsection (b) as well as subsection (a).
 
@@ -144,7 +144,7 @@ Subsec. (e)(3). Pub. L. 105–261, §732(2), inserted “and” at end of subpar
 
 &emsp;&emsp;“(i) while on active duty under a call or order to active duty of 30 days or less, on active duty for training, or on inactive duty training; or
 
-&emsp;&emsp;“(ii) while traveling to or from the place at which the member is to perform, or has performed, such active duty, active duty for training, or inactive duty training.”
+&emsp;&emsp;“(ii) while traveling to or from the place at which the member is to perform, or has performed, suchactive duty, active duty for training, or inactive duty training.”
 
 Subsec. (b). Pub. L. 105–85, §1073(d)(1)(D), made technical correction to directory language of Pub. L. 104–106, §703(b). See 1996 Amendment note below.
 
@@ -212,7 +212,7 @@ Amendment by section 1671(c)(7)(A) of Pub. L. 103–337 effective Dec. 1, 1994, 
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 731(c)(1) of Pub. L. 101–189 applicable to a person referred to in 10 U.S.C. 1072(2)(H) whose decree of divorce, dissolution, or annulment becomes final on or after Nov. 29, 1989, and to a person so referred to whose decree became final during the period from Sept. 29, 1988 to Nov. 28, 1989, as if the amendment had become effective on Sept. 29, 1988, see section 731(d) of Pub. L. 101–189, set out as a note under section 1072 of this title.
+Amendment by section 731(c)(1) of Pub. L. 101–189 applicable to a person referred to in 10 U.S.C. 1072(2)(H) whose decree of divorce, dissolution, or annulment becomes final on or after Nov. 29, 1989, and to a person so referred to whose decree became final during the period from Sept. 29, 1988 to Nov. 28, 1989, as if the amendment had become effective on Sept. 29, 1988, see section 731(d)of Pub. L. 101–189, set out as a note under section 1072 of this title.
 
 #### Effective Date of 1988 Amendment
 

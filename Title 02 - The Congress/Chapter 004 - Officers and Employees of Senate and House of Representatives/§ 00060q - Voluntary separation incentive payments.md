@@ -48,9 +48,7 @@ A voluntary separation incentive payment made under this section—
 
 &emsp;For purposes of this subsection, the “applicable committee” with respect to an office means any committee of the House of Representatives or Senate with jurisdiction over the activities of the office under the applicable rules of the House of Representatives and the Senate (as determined by the head of the office), but does not include the Committees on Appropriations of the House of Representatives and the Senate.
 
-#### (d) Exclusion of certain offices
-
-This section shall not apply to any office which is an Executive agency under section 105 of title 5 or any employee of such an office.
+#### (d) Repealed. Pub. L. 112–74, div. G, title I, §1401(a)(1), Dec. 23, 2011, 125 Stat. 1134
 
 #### (e) Eligible employee defined
 
@@ -92,7 +90,7 @@ This section shall not apply to any office which is an Executive agency under se
 
 #### (2) Waiver for individuals possessing unique abilities
 
-&emsp;(A) If the employment is with an Executive agency (as defined by section 105 of title 5), the Director of the Office of Personnel Management may, at the request of the head of the agency, waive the repayment required under this subsection if the individual involved possesses unique abilities and is the only qualified applicant available for the position.
+&emsp;(A) If the employment is with an Executive agency (as defined by section 105 of title 5, but excluding the Government Accountability Office), the Director of the Office of Personnel Management may, at the request of the head of the agency, waive the repayment required under this subsection if the individual involved possesses unique abilities and is the only qualified applicant available for the position.
 
 &emsp;(B) If the employment is with an entity in the legislative branch, the head of the entity or the appointing official may waive the repayment required under this subsection if the individual involved possesses unique abilities and is the only qualified applicant available for the position.
 
@@ -106,11 +104,21 @@ This section shall not apply to any office which is an Executive agency under se
 
 This section shall take effect on December 8, 2004, and shall apply with respect to the portion of fiscal year 2005 occurring on and after December 8, 2004, and to each succeeding fiscal year.
 
-(Pub. L. 108–447, div. G, title II, §210, Dec. 8, 2004, 118 Stat. 3194.)
+(Pub. L. 108–447, div. G, title II, §210, Dec. 8, 2004, 118 Stat. 3194; Pub. L. 112–74, div. G, title I, §1401(a), Dec. 23, 2011, 125 Stat. 1134.)
 
 #### Codification
 
 Section is from the Legislative Branch Appropriations Act, 2005, which is div. G of the Consolidated Appropriations Act, 2005.
+
+#### Amendments
+
+<b>2011</b>—Subsec. (d). Pub. L. 112–74, §1401(a)(1), struck out subsec. (d). Text read as follows: “This section shall not apply to any office which is an Executive agency under section 105 of title 5 or any employee of such an office.”
+
+Subsec. (f)(2)(A). Pub. L. 112–74, §1401(a)(2), substituted “title 5, but excluding the Government Accountability Office” for “title 5”.
+
+#### Effective Date of 2011 Amendment
+
+Pub. L. 112–74, div. G, title I, §1401(c), Dec. 23, 2011, 125 Stat. 1134, provided that: “The amendments made by this section \[amending this section and section 3521 of Title 5, Government Organization and Employees\] shall apply with respect to voluntary separation incentive payments made during fiscal year 2012 or any succeeding fiscal year.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “2105 of title 5,”.</i>
 

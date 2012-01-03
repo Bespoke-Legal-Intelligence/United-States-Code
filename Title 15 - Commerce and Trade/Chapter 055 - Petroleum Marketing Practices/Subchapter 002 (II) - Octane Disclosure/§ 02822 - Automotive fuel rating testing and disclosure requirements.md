@@ -18,7 +18,7 @@ Each distributor who receives automotive fuel, the automotive fuel rating of whi
 
 #### (c) Display of automotive fuel rating by automotive fuel retailer; use of automotive fuel rating for display
 
-Each automotive fuel retailer shall display in a clear and conspicuous manner, at the point of sale to ultimate purchasers of automotive fuel, the automotive fuel rating of such automotivefuel, which automotive fuel rating shall be consistent with—
+Each automotive fuel retailer shall display in a clear and conspicuous manner, at the point of sale to ultimate purchasers of automotive fuel, the automotive fuel rating of such automotive fuel, which automotive fuel rating shall be consistent with—
 
 &emsp;(1) the automotive fuel rating of such automotive fuel certified to such retailer under subsection (a)(2) or (b) of this section;
 
@@ -80,5 +80,5 @@ Section 205 of Pub. L. 95–297 provided that:
 
 #### Studies
 
-Section 1503 of Pub. L. 102–486 directed Administrator of Environmental Protection Agency to carry out a study to determine whether the anti-knock characteristics of nonliquid fuels usable as a fuel for motor vehicles could be determined and further directed FederalTrade Commission to carry out a study to determine the need for a uniform national label on devices used to dispense automotive fuel to consumers that would consolidate all information required by Federal law to be posted on such devices, with reports of the results of the studies to be submitted to Congress within one year of Oct. 24, 1992, together with recommendations and a description of the administrative and legislative actions needed to implement the recommendations.
+Section 1503 of Pub. L. 102–486 directed Administrator of Environmental Protection Agency to carry out a study to determine whether the anti-knock characteristics of nonliquid fuels usable as a fuel for motor vehicles could be determined and further directed Federal Trade Commission to carry out a study to determine the need for a uniform national label on devices used to dispense automotive fuel to consumers that would consolidate all information required by Federal law to be posted on such devices, with reports of the results of the studies to be submitted to Congress within one year of Oct. 24, 1992, together with recommendations and a description of the administrative and legislative actions needed to implement the recommendations.
 

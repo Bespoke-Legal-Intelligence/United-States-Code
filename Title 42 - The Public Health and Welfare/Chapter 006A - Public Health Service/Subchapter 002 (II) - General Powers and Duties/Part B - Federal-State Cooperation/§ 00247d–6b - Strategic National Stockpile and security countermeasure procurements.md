@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary, in collaboration with the Director of the Centers for Disease Control and Prevention, and in coordination with the Secretary of Homeland Security (referred to in this section as the “Homeland Security Secretary”), shall maintain a stockpile or stockpiles of drugs, vaccines and other biological products, medical devices, and other supplies in such numbers, types, and amounts as are determined by the Secretary to be appropriate and practicable, taking into account other available sources, to provide for the emergency health security of the United States, including the emergency health security of children and other vulnerable populations, in the event of a bioterrorist attack or other public health emergency. The Secretary shall conduct an annual review (taking into account at-risk individuals) of the contents of the stockpile, including non-pharmaceutical supplies, and make necessary additions or modifications to the contents based on such review.
+&emsp;The Secretary, in collaboration with the Director of the Centers for Disease Control and Prevention, and in coordination with the Secretary of Homeland Security (referred to in this section as the “Homeland Security Secretary”), shall maintain a stockpile or stockpiles of drugs, vaccines and other biological products, medical devices, and other supplies in such numbers, types, and amounts as are determined by the Secretary to be appropriateand practicable, taking into account other available sources, to provide for the emergency health security of the United States, including the emergency health security of children and other vulnerable populations, in the event of a bioterrorist attack or other public health emergency. The Secretary shall conduct an annual review (taking into account at-risk individuals) of the contents of the stockpile, including non-pharmaceutical supplies, and make necessary additions or modifications to the contents based on such review.
 
 #### (2) Procedures
 
@@ -42,7 +42,7 @@
 
 #### (A) Use of fund
 
-&emsp;&emsp;A security countermeasure may, in accordance with this subsection, be procuredwith amounts in the special reserve fund under paragraph (10).
+&emsp;&emsp;A security countermeasure may, in accordance with this subsection, be procured with amounts in the special reserve fund under paragraph (10).
 
 #### (B) Security countermeasure
 
@@ -198,7 +198,7 @@
 
 #### (II) Discounted payment
 
-&emsp;&emsp;&emsp;&emsp;The contract may provide for a discounted price per unit of a product that is not licensed, cleared, or approved as described in paragraph (1)(B)(i)(III)(aa) at the time of delivery, and may provide for payment of an additional amount per unit if the product becomes so licensed, cleared, or approved before the expiration date of the contract (including an additional amount per unit of product delivered before the effective date of such licensing, clearance, or approval).
+&emsp;&emsp;&emsp;&emsp;The contract may provide for a discounted price per unit of a product that is not licensed, cleared, or approved as described in paragraph (1)(B)(i)(III)(aa) at the time of delivery, and may provide for payment of an additional amount per unit if the product becomes so licensed, cleared, or approved before the expiration date of the contract (including anadditional amount per unit of product delivered before the effective date of such licensing, clearance, or approval).
 
 #### (III) Contract duration
 
@@ -222,7 +222,7 @@
 
 #### (VIII) Warm based surge capacity
 
-&emsp;&emsp;&emsp;&emsp;The contract may provide that the vendor establish domestic manufacturing capacity of the product to ensure that additional production of the product is available in the event that the Secretary determines that there is aneed to quickly purchase additional quantities of the product. Such contract may provide a fee to the vendor for establishing and maintaining such capacity in excess of the initial requirement for the purchase of the product. Additionally, the cost of maintaining the domestic manufacturing capacity shall be an allowable and allocable direct cost of the contract.
+&emsp;&emsp;&emsp;&emsp;The contract may provide that the vendor establish domestic manufacturing capacity of the product to ensure that additional production of the product is available in the event that the Secretary determines that there is a need to quickly purchase additional quantities of the product. Such contract may provide a fee to the vendor for establishing and maintaining such capacity in excess of the initial requirement for the purchase of the product. Additionally, the cost of maintaining the domestic manufacturing capacity shall be an allowable and allocable direct cost of the contract.
 
 #### (IX) Contract terms
 
@@ -416,7 +416,7 @@ Subsec. (c)(7)(C)(ii)(I). Pub. L. 109–417, §406(2)(F)(i), amended heading and
 
 Subsec. (c)(7)(C)(ii)(VII) to (IX). Pub. L. 109–417, §406(2)(F)(ii), added subcls. (VII) to (IX).
 
-Subsec. (c)(8)(A). Pub. L. 109–417, §406(2)(G), inserted at end “Such agreements may allow other executive agencies to order qualified and security countermeasures under procurement contracts or other agreements established by the Secretary. Such orderingprocess (including transfers of appropriated funds between an agency and the Department of Health and Human Services as reimbursements for such orders for countermeasures) may be conducted under the authority of section 1535 of title 31, except that all such orders shall be processed under the terms established under this subsection for the procurement of countermeasures.”
+Subsec. (c)(8)(A). Pub. L. 109–417, §406(2)(G), inserted at end “Such agreements may allow other executive agencies to order qualified and security countermeasures under procurement contracts or other agreements established by the Secretary. Such ordering process (including transfers of appropriated funds between an agency and the Department of Health and Human Services as reimbursements for such orders for countermeasures) may be conducted under the authority of section 1535 of title 31, except that all such orders shall be processed under the terms established under this subsection for the procurement of countermeasures.”
 
 <b>2004</b>—Pub. L. 108–276, §3(a)(2), amended section generally. Prior to amendment, text related in subsec. (a) to Strategic National Stockpile, in subsec. (b) to smallpox vaccine development, in subsec. (c) to disclosures, in subsec. (d) to definition of “stockpile”, and in subsec. (e) to authorization of appropriations.
 
@@ -522,7 +522,7 @@ Report.—The President shall ensure that, not later than six months after the d
 
 “(f)
 
-Applicability.—Subsections (a) and (d) cease to apply as requirements if the President determines that there is an alternative and more effective prophylaxisor preventive measures for adverse thyroid conditions that may result from the release of radionuclides from nuclear power plants.”
+Applicability.—Subsections (a) and (d) cease to apply as requirements if the President determines that there is an alternative and more effective prophylaxis or preventive measures for adverse thyroid conditions that may result from the release of radionuclides from nuclear power plants.”
 
 \[Memorandum of President of the United States, July 3, 2007, 72 F.R. 37627, provided:
 

@@ -90,7 +90,7 @@ The remedy for a violation of subsection (b) of this section shall be such remed
 
 #### (3) Initial period for study and corrective action
 
-&emsp;The period from January 23, 1995, until December 31, 1996, shall be available to the Office of the Architect of the Capitol and other entities subject to this section to identify any violations of subsection (b) of this section, to determine the costs of compliance, and to take any necessary corrective action to abate any violations. The Office shall assist the Office of the Architect of the Capitol and other entities listed in subsection (a) of this section by arranging for inspections and other technical assistance at their request. Prior to July 1, 1996, the General Counsel shall conduct a thoroughinspection under paragraph (1) and shall submit the report under paragraph (2) for the One Hundred Fourth Congress.
+&emsp;The period from January 23, 1995, until December 31, 1996, shall be available to the Office of the Architect of the Capitol and other entities subject to this section to identify any violations of subsection (b) of this section, to determine the costs of compliance, and to take any necessary corrective action to abate any violations. The Office shall assist the Office of the Architect of the Capitol and other entities listed in subsection (a) of this section by arranging for inspections and other technical assistance at their request. Prior to July 1, 1996, the General Counsel shall conduct a thorough inspection under paragraph (1) and shall submit the report under paragraph (2) for the One Hundred Fourth Congress.
 
 #### (4) Detailed personnel
 
@@ -122,15 +122,17 @@ Section is comprised of section 210 of Pub. L. 104–1. Subsec. (g) of section 2
 
 #### Amendments
 
-2008—Subsec. (a)(4). Pub. L. 110–437 substituted “the Office of Congressional Accessibility Services;” for “the Capitol Guide Service;”.
+<b>2008</b>—Subsec. (a)(4). Pub. L. 110–437 substituted “the Office of Congressional Accessibility Services;” for “the Capitol Guide Service;”.
 
 Subsec. (a)(7). Pub. L. 110–279 substituted “the Botanic Garden” for “the Senate Restaurants and the Botanic Garden”.
 
-2004—Subsec. (h)(2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in heading.
+<b>2004</b>—Subsec. (h)(2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in heading.
 
 #### Effective Date of 2008 Amendment
 
 Amendment by Pub. L. 110–437 effective first day of first pay period (applicable to employees transferred under section 2241 of this title) on or after 30 days after Oct. 20, 2008, see section 422(d) of Pub. L. 110–437, set out as a note under section 1301 of this title.
 
 Amendment by Pub. L. 110–279 effective July 17, 2008, and applicable to remainder of fiscal year in which enacted and each fiscal year thereafter, see section 2051(i) of this title.
+
+<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

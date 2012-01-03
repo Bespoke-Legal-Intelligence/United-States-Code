@@ -57,7 +57,7 @@ For purposes of this chapter and for purposes of implementing the preferential t
 
 av–vnm
 
-�0A
+&nbsp;×&nbsp;
 
 100&nbsp;&nbsp;
 
@@ -100,7 +100,7 @@ av
 
 vom
 
-�0A
+&nbsp;×&nbsp;
 
 100&nbsp;&nbsp;
 
@@ -130,7 +130,7 @@ av
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of subsection (b)(2), the regional value-content of an automotive good referred to in Annex 4.1 of the Agreement may be calculated by the importer, exporter, or producer of the good, on the basis of the following net cost method:
+&emsp;&emsp;For purposes of subsection (b)(2), the regional value-content of an automotive good referred to in Annex 4.1 of the Agreementmay be calculated by the importer, exporter, or producer of the good, on the basis of the following net cost method:
 
 &nbsp;
 
@@ -143,7 +143,7 @@ av
 
 nc–vnm
 
-�0A
+&nbsp;×&nbsp;
 
 100&nbsp;&nbsp;
 
@@ -393,7 +393,7 @@ nc
 
 #### (i) Packaging materials and containers for retail sale
 
-Packaging materials and containers in which a good is packaged for retail sale, if classified with the good, shall be disregarded in determining whether all the nonoriginating materials used in the production of the good undergo the applicable change in tariff classification set out in Annex 4.1 of the Agreement, and, if the good is subject to a regional value-content requirement, the value of such packaging materials and containers shall be taken into account as originating or nonoriginating materials, as the case may be, in calculating the regional value-content of the good.
+Packaging materials and containers in which a good is packaged for retail sale, if classified with the good, shall be disregarded in determining whether all the nonoriginating materialsused in the production of the good undergo the applicable change in tariff classification set out in Annex 4.1 of the Agreement, and, if the good is subject to a regional value-content requirement, the value of such packaging materials and containers shall be taken into account as originating or nonoriginating materials, as the case may be, in calculating the regional value-content of the good.
 
 #### (j) Packing materials and containers for shipment
 
@@ -519,7 +519,7 @@ In this section:
 
 &emsp;&emsp;(G) catalysts and solvents; and
 
-&emsp;&emsp;(H) any other goods that are not incorporated into the good but the use of which inthe production of the good can reasonably be demonstrated to be a part of that production.
+&emsp;&emsp;(H) any other goods that are not incorporated into the good but the use of which in the production of the good can reasonably be demonstrated to be a part of that production.
 
 #### (9) Material
 
@@ -617,7 +617,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding paragraph 3(A), the list of fabrics, yarns, and fibers set out in Annex3.25 of the Agreement may be modified as provided for in this paragraph.
+&emsp;&emsp;Notwithstanding paragraph 3(A), the list of fabrics, yarns, and fibers set out in Annex 3.25 of the Agreement may be modified as provided for in this paragraph.
 
 #### (B) Definitions
 
@@ -651,7 +651,7 @@ In this section:
 
 &emsp;&emsp;(v) Notwithstanding section 4013(a)(2) of this title, a proclamation made under clause (iii) shall take effect on the date on which the text of the proclamation is published in the Federal Register.
 
-&emsp;&emsp;(vi) Not later than 6 months after proclaiming under clause (iii) that a fabric, yarn, or fiber is added to the list in Annex 3.25 of the Agreement in a restricted quantity, the President may eliminate the restriction if the President determines that the fabric, yarn, or fiber is not available in commercial quantities in a timely manner in the CAFTA–DR countries.
+&emsp;&emsp;(vi) Not later than 6 months after proclaiming under clause (iii) that a fabric, yarn, or fiber is added to the list in Annex 3.25 of the Agreement in a restricted quantity, the President may eliminate the restriction if the President determines that the fabric, yarn, or fiber is not available incommercial quantities in a timely manner in the CAFTA–DR countries.
 
 #### (D) Deemed approval of request
 
@@ -691,7 +691,7 @@ In this section:
 
 #### References in Text
 
-This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 109–53, Aug. 2,2005, 119 Stat. 462, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
+This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 109–53, Aug. 2, 2005, 119 Stat. 462, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
 This subchapter, referred to in subsec. (<i>o</i>)(1)(B), was in the original “this title” meaning title II of Pub. L. 109–53, Aug. 2, 2005, 119 Stat. 462, which enacted this subchapter and amended sections 58c, 1508, 1514, 1520, and 1592 of this title. For complete classification of title II to the Code, see Tables.
 
@@ -710,7 +710,7 @@ This subchapter, referred to in subsec. (<i>o</i>)(1)(B), was in the original �
 
 av–vnm
 
-�0A
+&nbsp;×&nbsp;
 
 100”&nbsp;&nbsp;
 
@@ -733,7 +733,7 @@ av
 
 av
 
-�0A
+&nbsp;×&nbsp;
 
 100”.&nbsp;&nbsp;
 
@@ -756,7 +756,7 @@ Subsec. (c)(3)(A). Pub. L. 109–135, §421(2), substituted
 
 vom
 
-�0A
+&nbsp;×&nbsp;
 
 100”&nbsp;&nbsp;
 
@@ -779,7 +779,7 @@ av
 
 av
 
-�0A
+&nbsp;×&nbsp;
 
 100”.&nbsp;&nbsp;
 
@@ -802,7 +802,7 @@ Subsec. (c)(4)(A). Pub. L. 109–135, §421(3), substituted
 
 nc–vnm
 
-�0A
+&nbsp;×&nbsp;
 
 100”&nbsp;&nbsp;
 
@@ -825,7 +825,7 @@ nc
 
 nc
 
-�0A
+&nbsp;×&nbsp;
 
 100”.&nbsp;&nbsp;
 
@@ -843,5 +843,5 @@ Section effective on the date the Dominican Republic-Central America-United Stat
 
 Proc. No. 8213, Dec. 20, 2007, 72 F.R. 73556, provided in par. (4) that the Committee for the Implementation of Textile Agreements is authorized to exercise the President's authority under subsec. (<i>o</i>) of this section to implement Appendix 4.1–B of the Dominican Republic-Central America-United States Free Trade Agreement by determining whether and, if so, by what amount to increase, in accordance with paragraph 3 or footnote 2 of that Appendix, the quantitative limits in the provisions of the Harmonized Tariff Schedule set out in section D of the Annex to this proclamation (not set out in the Code).
 
-Proc. No. 7987, Feb. 28, 2006, 71 F.R. 10828, provided in par. (4) that the Committee for the Implementation of Textile Agreements is authorized to exercise the President's authority under subsec. (<i>o</i>) of this section to determine that a fabric, yarn, or fiber is not available in commercial quantities in a timely manner in the United States and those Dominican Republic-Central America-United States Free Trade Agreement countries for which the Agreement has entered into force, and to add any such fabric, yarn, or fiber to the list in Annex 3.25 of the Agreement in a restricted or unrestricted quantity; to eliminate a restriction on the quantity of a fabric, yarn, or fiber within 6 months after adding the fabric, yarn, or fiber to the list in Annex 3.25 of the Agreement in a restricted quantity; to restrict the quantity of, or remove from the list in Annex 3.25 of the Agreement, certain fabrics, yarns, or fibers; and to establish procedures governing the submission of a request for any such determination and to ensure appropriate public participation in any such determination.
+Proc. No. 7987, Feb. 28, 2006, 71 F.R. 10828, provided in par. (4) that the Committee for the Implementation of Textile Agreements is authorized to exercise the President's authority under subsec. (<i>o</i>) of this section to determine that a fabric, yarn, or fiber is not available in commercial quantities in a timely manner in the United States and those Dominican Republic-Central America-United States Free Trade Agreement countries for which the Agreement has entered into force, and to add any such fabric, yarn, or fiber to the list in Annex 3.25 of the Agreement in a restricted or unrestricted quantity; to eliminate a restriction on the quantity of a fabric, yarn, or fiber within 6 monthsafter adding the fabric, yarn, or fiber to the list in Annex 3.25 of the Agreement in a restricted quantity; to restrict the quantity of, or remove from the list in Annex 3.25 of the Agreement, certain fabrics, yarns, or fibers; and to establish procedures governing the submission of a request for any such determination and to ensure appropriate public participation in any such determination.
 

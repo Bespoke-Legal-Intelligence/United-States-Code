@@ -8,7 +8,7 @@
 
 &emsp;&emsp;For the purpose described in subsection (b), subject to the succeeding provisions of this section, for each of fiscal years 2010 through 2014, the Secretary shall allot to each State an amount equal to the product of—
 
-&emsp;&emsp;&emsp;(i) the amount appropriated under subsection (f) for the fiscal year and available for allotments to States after the application of subsection (c); and
+&emsp;&emsp;&emsp;(i) the amount appropriated under subsection (f) for the fiscal year and availablefor allotments to States after the application of subsection (c); and
 
 &emsp;&emsp;&emsp;(ii) the State youth population percentage determined under paragraph (2).
 
@@ -60,7 +60,7 @@
 
 #### (A) Grants from unexpended allotments
 
-&emsp;&emsp;If a State does not submit an application under this section for fiscal year 2010 or 2011,the State shall no longer be eligible to submit an application to receive funds from the amounts allotted for the State for each of fiscal years 2010 through 2014 and such amounts shall be used by the Secretary to award grants under this paragraph for each of fiscal years 2012 through 2014. The Secretary also shall use any amounts from the allotments of States that submit applications under this section for a fiscal year that remain unexpended as of the end of the period in which the allotments are available for expenditure under paragraph (3) for awarding grants under this paragraph.
+&emsp;&emsp;If a State does not submit an application under this section for fiscal year 2010 or 2011, the State shall no longer be eligible to submit an application to receive funds from the amounts allotted for the State for each of fiscal years 2010 through 2014 and such amounts shall be used by the Secretary to award grants under this paragraph for each of fiscal years 2012 through 2014. The Secretary also shall use any amounts from the allotments of States that submit applications under this section for a fiscal year that remain unexpended as of the end of the period in which the allotments are available for expenditure under paragraph (3) for awarding grants under this paragraph.
 
 #### (B) 3-year grants
 
@@ -136,7 +136,7 @@
 
 #### (1) Grants to implement innovative strategies
 
-&emsp;From the amount appropriated under subsection (f) for the fiscal year, the Secretary shall reserve $10,000,000 of such amount forpurposes of awarding grants to entities to implement innovative youth pregnancy prevention strategies and target services to high-risk, vulnerable, and culturally under-represented youth populations, including youth in foster care, homeless youth, youth with HIV/AIDS, pregnant women who are under 21 years of age and their partners, mothers who are under 21 years of age and their partners, and youth residing in areas with high birth rates for youth. An entity awarded a grant under this paragraph shall agree to participate in a rigorous Federal evaluation of the activities carried out with grant funds.
+&emsp;From the amount appropriated under subsection (f) for the fiscal year, the Secretary shall reserve $10,000,000 of such amount for purposes of awarding grants to entities to implement innovative youth pregnancy prevention strategies and target services to high-risk, vulnerable, and culturally under-represented youth populations, including youth in foster care, homeless youth, youth with HIV/AIDS, pregnant women who are under 21 years of age and their partners, mothers who are under 21 years of age and their partners, and youth residing in areas with high birth rates for youth. An entity awarded a grant under this paragraph shall agree to participate in a rigorous Federal evaluation of the activities carried out with grant funds.
 
 #### (2) Other reservations
 
@@ -154,7 +154,7 @@
 
 #### (ii) Program support
 
-&emsp;&emsp;&emsp;The Secretary shall provide, directly or through a competitive grant process, research, training and technical assistance, including dissemination of research and information regarding effective and promising practices, providing consultation and resources on a broad array of teen pregnancy prevention strategies, including abstinence and contraception, and developing resources and materials to support the activities of recipients of grants and other State, tribal, and community organizations working to reduce teen pregnancy. In carrying out such functions, the Secretary shall collaborate with a variety of entities that have expertise in the prevention of teen pregnancy, HIV and sexually transmitted infections, healthy relationships, financial literacy, and other topics addressed through the personal responsibility education programs.
+&emsp;&emsp;&emsp;The Secretary shall provide, directly or through a competitive grant process, research, training and technical assistance, including dissemination of research and information regarding effective and promising practices, providing consultation and resources on a broad array of teen pregnancy prevention strategies, including abstinence and contraception, and developing resources and materials to support the activities of recipients of grants and other State, tribal, and community organizations working to reduce teen pregnancy. Incarrying out such functions, the Secretary shall collaborate with a variety of entities that have expertise in the prevention of teen pregnancy, HIV and sexually transmitted infections, healthy relationships, financial literacy, and other topics addressed through the personal responsibility education programs.
 
 #### (iii) Evaluation
 
@@ -214,7 +214,7 @@ In this section:
 
 #### (f) Appropriation
 
-For the purpose of carrying out this section, there is appropriated, out of any money in theTreasury not otherwise appropriated, $75,000,000 for each of fiscal years 2010 through 2014. Amounts appropriated under this subsection shall remain available until expended.
+For the purpose of carrying out this section, there is appropriated, out of any money in the Treasury not otherwise appropriated, $75,000,000 for each of fiscal years 2010 through 2014. Amounts appropriated under this subsection shall remain available until expended.
 
 (Aug. 14, 1935, ch. 531, title V, §513, as added and amended Pub. L. 111–148, title II, §2953, title X, §10201(h), Mar. 23, 2010, 124 Stat. 347, 922.)
 

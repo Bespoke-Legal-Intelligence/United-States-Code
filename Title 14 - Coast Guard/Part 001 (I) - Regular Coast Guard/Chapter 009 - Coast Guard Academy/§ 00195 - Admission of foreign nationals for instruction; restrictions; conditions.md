@@ -16,7 +16,7 @@
 
 #### Amendments
 
-1976—Pub. L. 94–468 substituted “foreign nationals” for “foreigners” in section catchline.
+<b>1976</b>—Pub. L. 94–468 substituted “foreign nationals” for “foreigners” in section catchline.
 
 Subsec. (a). Pub. L. 94–468 substituted provision barring foreign nationals from receiving instruction at the Academy unless authorized by this section, for provision which authorized the Secretary to permit four persons at a time from the Republic of the Philippines, as designated by the President, to attend the Academy.
 

@@ -14,5 +14,5 @@ This chapter, referred to in text, was in the original “this Part”, meaning 
 
 #### Amendments
 
-1996—Pars. (1), (2). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk”.
+<b>1996</b>—Pars. (1), (2). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk”.
 

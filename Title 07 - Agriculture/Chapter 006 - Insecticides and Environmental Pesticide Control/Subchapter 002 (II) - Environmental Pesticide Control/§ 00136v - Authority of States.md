@@ -26,9 +26,9 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(3), is act 
 
 #### Amendments
 
-1988—Pub. L. 100–532, §801(m), inserted headings for subsecs. (a) to (c) and realigned margins of pars. (1) to (4) of subsec. (c).
+<b>1988</b>—Pub. L. 100–532, §801(m), inserted headings for subsecs. (a) to (c) and realigned margins of pars. (1) to (4) of subsec. (c).
 
-1978—Subsec. (a). Pub. L. 95–396 inserted “federally registered” before “pesticide or device”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–396 inserted “federally registered” before “pesticide or device”.
 
 Subsec. (b). Pub. L. 95–396 substituted “labeling or packaging” and “required under” for “labeling and packaging” and “required pursuant to”, respectively.
 

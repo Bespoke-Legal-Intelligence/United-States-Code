@@ -46,15 +46,15 @@ The Commodity Credit Corporation shall make available for each of fiscal years 1
 
 #### Amendments
 
-2008—Subsec. (b). Pub. L. 110–246, §3101(b), added subsec. (b) and struck out former subsec. (b) which related to amount available for export credit guarantees for each of fiscal years 1996 through 2007 and limitation on amount of any origination fee.
+<b>2008</b>—Subsec. (b). Pub. L. 110–246, §3101(b), added subsec. (b) and struck out former subsec. (b) which related to amount available for export credit guarantees for each of fiscal years 1996 through 2007 and limitation on amount of any origination fee.
 
 Subsec. (c)(1)(A). Pub. L. 110–246, §3102(b), substituted “2008 through 2012” for “2006 and 2007”.
 
-2002—Subsec. (b)(1). Pub. L. 107–171, §3102(d), substituted “2007” for “2002”.
+<b>2002</b>—Subsec. (b)(1). Pub. L. 107–171, §3102(d), substituted “2007” for “2002”.
 
 Subsec. (c). Pub. L. 107–171, §3103, designated existing provisions as par. (1), inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), added subpar. (A) and struck out former subpar. (A) relating to funds available for market access activities authorized to be carried out by the Commodity Credit Corporation for fiscal years 1991 through 2002, and added par. (2).
 
-1996—Subsec. (b). Pub. L. 104–127, §243(b), added subsec. (b) and struck out former subsec. (b) which authorized short and intermediate term export credit guarantees for each of fiscal years 1991 through 1995 and further provided for limitation on origination fees for short-term guarantees.
+<b>1996</b>—Subsec. (b). Pub. L. 104–127, §243(b), added subsec. (b) and struck out former subsec. (b) which authorized short and intermediate term export credit guarantees for each of fiscal years 1991 through 1995 and further provided for limitation on origination fees for short-term guarantees.
 
 Subsec. (c). Pub. L. 104–127, §244(a)(2)(B)(i), (ii), substituted “Market access programs” for “Marketing promotion programs” in heading and “market access activities” for “market promotion activities” in introductory provisions.
 
@@ -64,7 +64,7 @@ Pub. L. 104–127, §244(a)(2)(B)(iii), substituted “market access program” 
 
 Subsec. (c)(2). Pub. L. 104–127, §244(a)(2)(B)(iv), substituted “market access program” for “marketing promotion program”.
 
-1993—Subsec. (c)(1). Pub. L. 103–66 substituted “through 1993, and not less than $110,000,000 for each of the fiscal years 1994 through 1997,” for “through 1995”.
+<b>1993</b>—Subsec. (c)(1). Pub. L. 103–66 substituted “through 1993, and not less than $110,000,000 for each of the fiscal years 1994 through 1997,” for “through 1995”.
 
 #### Effective Date of 2008 Amendment
 

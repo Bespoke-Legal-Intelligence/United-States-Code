@@ -44,7 +44,7 @@ If, within 10 years after completion of any project for construction of public t
 
 &emsp;(2) such facilities cease to be used primarily for the provision of public telecommunications services (or the use of such public telecommunications facilities for purposes other than the provision of public telecommunications services interferes with the provision of such public telecommunications services as required in this part);
 
-> the United States shall be entitled to recover from the applicant or other owner of such facilities the amount bearing the same ratio to the value of such facilities at the time the applicant ceases to be such an entity or at the time of such determination (as determined by agreement of the parties or by action brought in the United States district court for the district inwhich such facilities are situated), as the amount of the Federal participation bore to the cost of construction of such facilities.
+> the United States shall be entitled to recover from the applicant or other owner of such facilities the amount bearing the same ratio to the value of such facilities at the time the applicant ceases to be such an entity or at the time of such determination (as determined by agreement of the parties or by action brought in the United States district court for the district in which such facilities are situated), as the amount of the Federal participation bore to the cost of construction of such facilities.
 
 #### (h) Recordkeeping requirements
 
@@ -72,7 +72,7 @@ Subsec. (d). Pub. L. 94–309, §4(b), substituted separate provisions relating 
 
 Subsec. (a)(1)(B). Pub. L. 90–129, §103(b)(2), required the State educational television agency applicant for a television facilities project to be a noncommercial agency and inserted requirement that applicant for a radio facilities project be a State educational radio agency.
 
-Subsec. (a)(1)(D). Pub. L. 90–129, §103(b)(3), designated existing provisions as cl. (i), made such cl. (i) applicable to television facilities projects and noncommercial television, and added cl. (ii) and provision for applicant meeting both television and radio broadcasting requirements.
+Subsec. (a)(1)(D). Pub. L. 90–129, §103(b)(3), designated existing provisions as cl. (i), made such cl. (i) applicable to television facilities projects and noncommercial television, and added cl. (ii) and provision for applicantmeeting both television and radio broadcasting requirements.
 
 Subsec. (a)(1)(E). Pub. L. 90–129, §103(b)(4), added cl. (E).
 
@@ -104,7 +104,7 @@ Section 103(b) of Pub. L. 95–567 provided that:
 
 “(1) The provisions of section 392(g) of the Communications Act of 1934 \[subsec. (g) of this section\], as added by subsection (a), shall apply to any grant made under section 392 of such Act \[this section\] before, on, or after the date of the enactment of this Act \[Nov. 2, 1978\]. Any authority and responsibilities of the Secretary of Health, Education, and Welfare regarding the administration of such grants are hereby transferred to the Secretary of Commerce.
 
-“(2) Subject to the provisions of section 202 of the Budget and Accounting Procedures Act of 1950 (31U.S.C. 581c) \[31 U.S.C. 1531\], the following are hereby transferred to the Secretary of Commerce for appropriate allocation—
+“(2) Subject to the provisions of section 202 of the Budget and Accounting Procedures Act of 1950 (31 U.S.C. 581c) \[31 U.S.C. 1531\], the following are hereby transferred to the Secretary of Commerce for appropriate allocation—
 
 &emsp;“(A) the personnel employed in connection with or in support of, or as an integral part of the mission of, the functions transferred to the Secretary of Commerce from the Secretary of Health, Education, and Welfare by paragraph (1); and
 

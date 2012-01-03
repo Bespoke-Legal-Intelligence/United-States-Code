@@ -16,7 +16,7 @@
 
 &emsp;&emsp;&emsp;(ii) in the case of a loan made for purposes of subparagraph (A)(i), supplying the organization carrying out the project with working capital relative to the project.
 
-&emsp;(2) The loan is made in connection with funding or the provision of substantial property or services for such project by either aState or local government or a nongovernmental entity, or both.
+&emsp;(2) The loan is made in connection with funding or the provision of substantial property or services for such project by either a State or local government or a nongovernmental entity, or both.
 
 &emsp;(3) The maximum loan amount does not exceed the lesser of—
 

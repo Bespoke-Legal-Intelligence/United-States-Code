@@ -14,9 +14,11 @@
 
 &emsp;&emsp;(D) remaining overnight immediately before the commencement of inactive-duty training, or remaining overnight, between successive periods of inactive-duty training, at or in the vicinity of the site of the inactive-duty training;
 
-&emsp;&emsp;(E) hospitalized or undergoing treatment for an injury, illness, or disease incurred or aggravated while on active duty or performing inactive-duty training; or
+&emsp;&emsp;(E) staying at the member's residence, when so authorized by proper authority, during a period of inactive duty training or between successive days of inactive duty training;
 
-&emsp;&emsp;(F) either—
+&emsp;&emsp;(F) hospitalized or undergoing treatment for an injury, illness, or disease incurred or aggravated while on active duty or performing inactive-duty training; or
+
+&emsp;&emsp;(G) either—
 
 &emsp;&emsp;&emsp;(i) serving on funeral honors duty under section 12503 of this title or section 115 of title 32;
 
@@ -26,7 +28,7 @@
 
 &emsp;\[(3) Repealed. Pub. L. 99–661, div. A, title VI, §604(e)(3)(B), Nov. 14, 1986, 100 Stat. 3877.\]
 
-&emsp;(4) Any member of, or applicant for membership in, a reserve officers’ training corps who dies while (A) attending a training camp, (B) on an authorized practice cruise, (C) performing authorized travel to or from such a camp or cruise, or (D) hospitalized or undergoing treatment at the expense of the United States for injury incurred, or disease contracted, while attending such a camp, while on such a cruise, or while performing that travel.
+&emsp;(4) Any member of, or applicant for membership in, a reserve officers’ training corps whodies while (A) attending a training camp, (B) on an authorized practice cruise, (C) performing authorized travel to or from such a camp or cruise, or (D) hospitalized or undergoing treatment at the expense of the United States for injury incurred, or disease contracted, while attending such a camp, while on such a cruise, or while performing that travel.
 
 &emsp;(5) Any accepted applicant for enlistment in an armed force under his jurisdiction.
 
@@ -42,11 +44,11 @@
 
 &emsp;(9) To the extent authorized under section 1482(f) of this title, any retired member of an armed force who dies while outside the United States or any individual who dies outside the United States while a dependent of such a member.
 
-(b) This section applies to each person covered by subsection (a)(1)–(7) even though he may have been temporarily absent from active duty, withor without leave, at the time of his death, unless he had been dropped from the rolls of his organization before his death.
+(b) This section applies to each person covered by subsection (a)(1)–(7) even though he may have been temporarily absent from active duty, with or without leave, at the time of his death, unless he had been dropped from the rolls of his organization before his death.
 
 (c) In this section, the term “dependent” has the meaning given such term in section 1072(2) of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 112; Pub. L. 88–647, title III, §301(3), Oct. 13, 1964, 78 Stat. 1071; Pub. L. 99–661, div. A, title VI, §604(e)(3), Nov. 14, 1986, 100 Stat. 3877; Pub. L. 103–337, div. A, title VI, §652(a)(1), Oct. 5, 1994, 108 Stat. 2793; Pub. L. 104–106, div. A, title VII, §702(b), Feb. 10, 1996, 110 Stat. 371; Pub. L. 105–85, div. A, title V, §513(e), Nov. 18, 1997, 111 Stat. 1732; Pub. L. 105–261, div. A, title VI, §645(a), (b), Oct. 17, 1998, 112 Stat. 2049, 2050; Pub. L. 106–65, div. A, title V, §578(i)(5), Oct. 5, 1999, 113 Stat. 630; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(d)(3)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–293; Pub. L. 107–107, div. A, title V, §513(c), title VI, §638(b)(2), Dec. 28, 2001, 115 Stat. 1093, 1147.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 112; Pub. L. 88–647, title III, §301(3), Oct. 13, 1964, 78 Stat. 1071; Pub. L. 99–661, div. A, title VI, §604(e)(3), Nov. 14, 1986, 100 Stat. 3877; Pub. L. 103–337, div. A, title VI, §652(a)(1), Oct. 5, 1994, 108 Stat. 2793; Pub. L. 104–106, div. A, title VII, §702(b), Feb. 10, 1996, 110 Stat. 371; Pub. L. 105–85, div. A, title V, §513(e), Nov. 18, 1997, 111 Stat. 1732; Pub. L. 105–261, div. A, title VI, §645(a), (b), Oct. 17, 1998, 112 Stat. 2049, 2050; Pub. L. 106–65, div. A, title V, §578(i)(5), Oct. 5, 1999, 113 Stat. 630; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(d)(3)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–293; Pub. L. 107–107, div. A, title V, §513(c), title VI, §638(b)(2), Dec. 28, 2001, 115 Stat. 1093, 1147; Pub. L. 112–81, div. A, title VI, §651(b), Dec. 31, 2011, 125 Stat. 1467.)
 
 Historical and Revision Notes
 
@@ -76,6 +78,8 @@ In subsection (b), the words “This section applies to each person \* \* \* e
 
 #### Amendments
 
+<b>2011</b>—Subsec. (a)(2)(E) to (G). Pub. L. 112–81 added subpar. (E) and redesignated former subpars. (E) and (F) as (F) and (G), respectively.
+
 <b>2001</b>—Subsec. (a)(2)(D). Pub. L. 107–107, §513(c), struck out “, if the site is outside reasonable commuting distance from the member's residence” before semicolon at end.
 
 Subsec. (a)(9). Pub. L. 107–107, §638(b)(2), substituted “section 1482(f)” for “section 1482(g)”.
@@ -92,7 +96,7 @@ Subsec. (a)(7). Pub. L. 105–261, §645(a), amended par. (7) generally. Prior t
 
 <b>1996</b>—Subsec. (a)(2)(C) to (E). Pub. L. 104–106 struck out “or” at end of subpar. (C), added subpar. (D), and redesignated former subpar. (D) as (E).
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–337, §652(a)(1)(A), substituted “the remains of the following persons:” for “the remains of—”, capitalized the first letter of the first word in pars. (1) to (8), substituted a period for the last semicolon in pars. (1) to (6), substituted a period for “; and” in par. (7), and added par. (9).
+<b>1994</b>—Subsec. (a). Pub. L. 103–337, §652(a)(1)(A), substituted “the remains of the following persons:” for “the remains of—”, capitalized the first letter of the first word in pars. (1) to (8), substituted a period for thelast semicolon in pars. (1) to (6), substituted a period for “; and” in par. (7), and added par. (9).
 
 Subsec. (c). Pub. L. 103–337, §652(a)(1)(B), added subsec. (c).
 
@@ -103,6 +107,10 @@ Subsec. (c). Pub. L. 103–337, §652(a)(1)(B), added subsec. (c).
 “(3) any member of the Army National Guard or Air National Guard who dies while entitled to pay from the United States and while (A) on active duty, (B) performing authorized travel to or from that duty, (C) on authorized inactive-duty training, or (D) hospitalized or undergoing treatment at the expense of the United States for injury incurred, or disease contracted, while on that duty or training or while performing that travel;”.
 
 <b>1964</b>—Subsec. (a)(4). Pub. L. 88–647 substituted “, or applicant for membership in, a reserve officers’ training corps” for “the Army Reserve Officers’ Training Corps, Naval Reserve Officers’ Training Corps, or Air Force Reserve Officers’ Training Corps”.
+
+#### Effective Date of 2011 Amendment
+
+Amendment by Pub. L. 112–81 effective on Dec. 31, 2011, and applicable with respect to deaths that occur on or after that date, see section 651(c) of Pub. L. 112–81, set out as a note under section 1475 of this title.
 
 #### Effective Date of 2000 Amendment
 
@@ -118,7 +126,7 @@ Section 652(a)(3) of Pub. L. 103–337 provided that: “The amendments made by 
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–661 applicable with respect to persons who, after Nov. 14, 1986, incur or aggravate an injury, illness, or disease or die, see section 604(g) ofPub. L. 99–661, set out as a note under section 1074a of this title.
+Amendment by Pub. L. 99–661 applicable with respect to persons who, after Nov. 14, 1986, incur or aggravate an injury, illness, or disease or die, see section 604(g) of Pub. L. 99–661, set out as a note under section 1074a of this title.
 
 #### Requirement for Deploying Military Medical Personnel To Be Trained in Preservation of Remains Under Combat or Combat-Related Conditions
 

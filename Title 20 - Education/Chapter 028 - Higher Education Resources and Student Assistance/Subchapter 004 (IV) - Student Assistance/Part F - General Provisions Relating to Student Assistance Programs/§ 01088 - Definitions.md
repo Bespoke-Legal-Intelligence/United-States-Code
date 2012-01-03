@@ -42,7 +42,7 @@
 
 &emsp;(iii) satisfies such further criteria as the Secretary may prescribe by regulation.
 
-(B) In the case of a program being determined eligible for the first time under this paragraph, such determination shall be made by the Secretary before such program is considered to have satisfied the requirements of this paragraph.
+(B) In the case of a program being determined eligible for the first time under this paragraph,such determination shall be made by the Secretary before such program is considered to have satisfied the requirements of this paragraph.
 
 (3) An otherwise eligible program that is offered in whole or in part through telecommunications is eligible for the purposes of this subchapter and part C of subchapter I of chapter 34 of title 42 if the program is offered by an institution, other than a foreign institution, that has been evaluated and determined (before or after February 8, 2006) to have the capability to effectively deliver distance education programs by an accrediting agency or association that—
 
@@ -96,7 +96,7 @@ For purposes of this subchapter and part C of subchapter I of chapter 34 of titl
 
 For purposes of parts B, C, and D, the term “educational service agency” has the meaning given the term in section 7801 of this title.
 
-(Pub. L. 89–329, title IV, §481, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat.1476; amended Pub. L. 100–50, §15(1), June 3, 1987, 101 Stat. 355; Pub. L. 101–239, title II, §2007(b), (c), Dec. 19, 1989, 103 Stat. 2120, 2121; Pub. L. 101–508, title III, §3005(b), Nov. 5, 1990, 104 Stat. 1388–28; Pub. L. 102–26, §2(a)(2), (3), (d)(2)(A), Apr. 9, 1991, 105 Stat. 123, 124; Pub. L. 102–325, title IV, §481, July 23, 1992, 106 Stat. 609; Pub. L. 103–208, §2(h)(1)–(6), Dec. 20, 1993, 107 Stat. 2475, 2476; Pub. L. 105–216, §12, July 29, 1998, 112 Stat. 908; Pub. L. 105–244, title I, §101(c), Oct. 7, 1998, 112 Stat. 1617; Pub. L. 109–171, title VIII, §§8007(d), 8020(a), (b), Feb. 8, 2006, 120 Stat. 161, 177; Pub. L. 110–315, title IV, §481, Aug. 14, 2008, 122 Stat. 3271; Pub. L. 111–39, title IV, §407(b)(1), July 1, 2009, 123 Stat. 1950.)
+(Pub. L. 89–329, title IV, §481, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1476; amended Pub. L. 100–50, §15(1), June 3, 1987, 101 Stat. 355; Pub. L. 101–239, title II, §2007(b), (c), Dec. 19, 1989, 103 Stat. 2120, 2121; Pub. L. 101–508, title III, §3005(b), Nov. 5, 1990, 104 Stat. 1388–28; Pub. L. 102–26, §2(a)(2), (3), (d)(2)(A), Apr. 9, 1991, 105 Stat. 123, 124; Pub. L. 102–325, title IV, §481, July 23, 1992, 106 Stat. 609; Pub. L. 103–208, §2(h)(1)–(6), Dec. 20, 1993, 107 Stat. 2475, 2476; Pub. L. 105–216, §12, July 29, 1998, 112 Stat. 908; Pub. L. 105–244, title I, §101(c), Oct. 7, 1998, 112 Stat. 1617; Pub. L. 109–171, title VIII, §§8007(d), 8020(a), (b), Feb. 8, 2006, 120 Stat. 161, 177; Pub. L. 110–315, title IV, §481, Aug. 14, 2008, 122 Stat. 3271; Pub. L. 111–39, title IV, §407(b)(1), July 1, 2009, 123 Stat. 1950.)
 
 #### Prior Provisions
 
@@ -226,11 +226,11 @@ Nothing in amendment by section 8007(d) of Pub. L. 109–171 to be construed to 
 
 #### Construction of 1991 Amendment
 
-Section 2(d)(2)(A) of Pub. L. 102–26 provided that: “Section 3005 of the Omnibus Reconciliation Act of 1990 \[Pub. L. 101–508, amending this section and section 1091of this title and enacting provisions set out as a note above\] is repealed. Sections 484(d) and 481(b) of the Act \[20 U.S.C. 1091(d), 1088(b)\] shall be applied as if such section 3005 had not been enacted.”
+Section 2(d)(2)(A) of Pub. L. 102–26 provided that: “Section 3005 of the Omnibus Reconciliation Act of 1990 \[Pub. L. 101–508, amending this section and section 1091 of this title and enacting provisions set out as a note above\] is repealed. Sections 484(d) and 481(b) of the Act \[20 U.S.C. 1091(d), 1088(b)\] shall be applied as if such section 3005 had not been enacted.”
 
 #### Need-Based Aid
 
-Section 1544 of Pub. L. 102–325 authorized institutions of higher education to voluntarily agree with other such institutions to award financial aid not awarded under this chapter to students attending such institutions only on basis of demonstrated financial need for such aid, and to discuss and adopt principles of professional judgment for determining student financial need for such aid, with exceptions for cases pending on July 23, 1992, and for discussions or agreements on prospective financial aid awards to specific common applicants, and provided that such authorization was to expire on Sept. 30, 1994, prior to repeal by Pub. L. 103–382, title V, §568(e)(2), Oct. 20, 1994, 108 Stat. 4061. See section 568(a)–(d) of Pub. L. 103–382, set out as a note under section 1 of Title 15, Commerce and Trade.
+Section 1544 of Pub. L. 102–325 authorized institutions of higher education to voluntarily agree with other such institutions to award financial aid not awarded under this chapter to students attending such institutions only on basis of demonstrated financial need for such aid, and to discuss and adopt principles of professional judgment for determining student financial need for such aid, with exceptions for cases pending on July 23, 1992, and for discussions or agreements on prospective financial aid awards to specific common applicants, and provided that such authorization was to expire on Sept. 30, 1994, prior to repeal by Pub. L. 103–382,title V, §568(e)(2), Oct. 20, 1994, 108 Stat. 4061. See section 568(a)–(d) of Pub. L. 103–382, set out as a note under section 1 of Title 15, Commerce and Trade.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

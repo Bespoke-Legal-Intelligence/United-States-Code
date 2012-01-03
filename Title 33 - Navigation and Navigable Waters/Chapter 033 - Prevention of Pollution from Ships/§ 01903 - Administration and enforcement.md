@@ -26,7 +26,7 @@ In addition to other duties specified in this chapter, the Administrator and the
 
 &emsp;(A) prescribe regulations which—
 
-&emsp;&emsp;(i) require certain ships described in section 1902(a)(1) of this title to maintain refuse record books and shipboard management plans, and to display placards which notify the crew and passengers of the requirements of Annex V to the Convention and of Annex IV to the Antarctic Protocol; and
+&emsp;&emsp;(i) require certain ships described in section 1902(a)(1) of this title to maintain refuserecord books and shipboard management plans, and to display placards which notify the crew and passengers of the requirements of Annex V to the Convention and of Annex IV to the Antarctic Protocol; and
 
 &emsp;&emsp;(ii) specify the ships described in section 1902(a)(1) of this title to which the regulations apply;
 

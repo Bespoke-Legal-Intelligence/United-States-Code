@@ -16,7 +16,7 @@
 
 &emsp;(7) goals and objectives be established by law as guidelines for public land use planning, and that management be on the basis of multiple use and sustained yield unless otherwise specified by law;
 
-&emsp;(8) the public lands be managed in a manner that will protect the quality of scientific, scenic, historical, ecological, environmental, airand atmospheric, water resource, and archeological values; that, where appropriate, will preserve and protect certain public lands in their natural condition; that will provide food and habitat for fish and wildlife and domestic animals; and that will provide for outdoor recreation and human occupancy and use;
+&emsp;(8) the public lands be managed in a manner that will protect the quality of scientific, scenic, historical, ecological, environmental, air and atmospheric, water resource, and archeological values; that, where appropriate, will preserve and protect certain public lands in their natural condition; that will provide food and habitat for fish and wildlife and domestic animals; and that will provide for outdoor recreation and human occupancy and use;
 
 &emsp;(9) the United States receive fair market value of the use of the public lands and their resources unless otherwise provided for by statute;
 
@@ -84,15 +84,11 @@ Pub. L. 94–579, title VII, §701, Oct. 21, 1976, 90 Stat. 2786, provided that:
 
 “(i) The adequacy of reports required by this Act to be submitted to the Congress or its committees shall not be subject to judicial review.
 
-“(j) Nothing in this Act shall be construed as affecting the distribution of livestock grazing revenues tolocal governments under the Granger-Thye Act (64 Stat. 85, 16 U.S.C. 580h), under the Act of May 23, 1908 (35 Stat. 260, as amended; 16 U.S.C. 500), under the Act of March 4, 1913 (37 Stat. 843, as amended; 16 U.S.C. 501), and under the Act of June 20, 1910 (36 Stat. 557).”
+“(j) Nothing in this Act shall be construed as affecting the distribution of livestock grazing revenues to local governments under the Granger-Thye Act (64 Stat. 85, 16 U.S.C. 580h), under the Act of May 23, 1908 (35 Stat. 260, as amended; 16 U.S.C. 500), under the Act of March 4, 1913 (37 Stat. 843, as amended; 16 U.S.C. 501), and under the Act of June 20, 1910 (36 Stat. 557).”
 
 #### Severability
 
 Section 707 of Pub. L. 94–579 provided that: “If any provision of this Act \[see Short Title note set out above\] or the application thereof is held invalid, the remainder of the Act and the application thereof shall not be affected thereby.”
-
-#### Cooperative Action and Sharing of Resources by Secretaries of the Interior and Agriculture
-
-Pub. L. 106–291, title III, §330, Oct. 11, 2000, 114 Stat. 996, as amended by Pub. L. 109–54, title IV, §428, Aug. 2, 2005, 119 Stat. 555; Pub. L. 111–8, div. E, title IV, §418, Mar. 11, 2009, 123 Stat. 747, provided that: “In fiscal years 2001 through 2011, the Secretaries of the Interior and Agriculture, subject to annual review of Congress, may establish pilot programs involving the land management agencies referred to in this section to conduct projects, planning, permitting, leasing, contracting and other activities, either jointly or on behalf of one another; may co-locate in Federal offices and facilities leased by an agency of either Department; and \[may\] promulgate special rules as needed to test the feasibility of issuing unified permits, applications, and leases. The Secretaries of the Interior and Agriculture may make reciprocal delegations of their respective authorities, duties and responsibilities in support of the ‘Service First’ initiative agency-wide to promote customer service and efficiency. Nothing herein shall alter, expand or limit the applicability of any public law or regulation to lands administered by the Bureau of Land Management, National Park Service, Fish and Wildlife Service, or the Forest Service. To facilitate the sharing of resources under the Service First initiative, the Secretaries of the Interior and Agriculture may make transfers of funds and reimbursement of funds on an annual basis, including transfers and reimbursements for multi-year projects, except that this authority may not be used to circumvent requirements and limitations imposed on the use of funds.”
 
 #### Existing Rights-of-Way
 

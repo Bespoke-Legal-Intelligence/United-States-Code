@@ -66,7 +66,7 @@ Subsec. (c). Pub. L. 98–459, §206(b), inserted provision requiring the Secret
 
 Subsec. (d). Pub. L. 98–459, §206(c), inserted reference to health and nutrition education demonstration projects conducted under section 3027(f) of this title and inserted provision requiring dissemination of summaries and analyses required by this subsection to Federal, State, and local agencies and private organizations with an interest in aging.
 
-Subsec. (g). Pub. L. 98–459, §206, substituted “one-tenth of 1 percent” for “1 per centum”, “under this chapter for each fiscal year” for “under this chapter”, and “$300,000 whichever is lower” for “$1,000,000 whichever is greater”.
+Subsec. (g). Pub. L. 98–459, §206, substituted “one-tenth of 1 percent” for “1 per centum”, “under this chapter for each fiscal year” for “under this chapter”,and “$300,000 whichever is lower” for “$1,000,000 whichever is greater”.
 
 <b>1981</b>—Subsec. (b). Pub. L. 97–115, §2(h), struck out “under section 3028 of this title” after “The Secretary may not make grants or contracts”.
 

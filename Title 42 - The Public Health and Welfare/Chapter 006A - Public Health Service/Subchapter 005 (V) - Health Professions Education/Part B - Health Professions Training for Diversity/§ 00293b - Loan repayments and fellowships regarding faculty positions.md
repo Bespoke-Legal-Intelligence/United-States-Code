@@ -36,7 +36,7 @@
 
 &emsp;&emsp;&emsp;(ii) the payments made by the school pursuant to clause (i) on behalf of the individual will be in addition to the pay that the individual would otherwise receive for serving as a member of such faculty; and
 
-&emsp;&emsp;&emsp;(iii) the school, in making a determination of the amount of compensation to beprovided by the school to the individual for serving as a member of the faculty, will make the determination without regard to the amount of payments made (or to be made) to the individual by the Federal Government under paragraph (1).
+&emsp;&emsp;&emsp;(iii) the school, in making a determination of the amount of compensation to be provided by the school to the individual for serving as a member of the faculty, will make the determination without regard to the amount of payments made (or to be made) to the individual by the Federal Government under paragraph (1).
 
 #### (5) Applicability of certain provisions
 

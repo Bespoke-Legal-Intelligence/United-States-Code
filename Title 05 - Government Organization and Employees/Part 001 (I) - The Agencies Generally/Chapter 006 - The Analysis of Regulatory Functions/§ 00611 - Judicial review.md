@@ -30,7 +30,7 @@
 
 #### Amendments
 
-1996—Pub. L. 104–121 amended section generally. Prior to amendment, section read as follows:
+<b>1996</b>—Pub. L. 104–121 amended section generally. Prior to amendment, section read as follows:
 
 “(a) Except as otherwise provided in subsection (b), any determination by an agency concerning the applicability of any of the provisions of this chapter to any action of the agency shall not be subject to judicial review.
 

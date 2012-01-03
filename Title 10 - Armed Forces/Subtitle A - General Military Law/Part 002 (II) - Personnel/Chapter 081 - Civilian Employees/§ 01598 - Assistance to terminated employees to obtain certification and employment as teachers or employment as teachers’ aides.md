@@ -108,7 +108,7 @@ Pub. L. 103–160, div. A, title XIII, §1331(h), Nov. 30, 1993, 107 Stat. 1793,
 
 #### Savings Provision
 
-Pub. L. 104–201, div. A, title V, §576(d), Sept. 23, 1996, 110 Stat. 2535, provided that: “The amendments madeby this section \[amending this section and sections 1151 and 2410j of this title\] do not affect obligations under agreements entered into in accordance with section 1151, 1598, or 2410j of title 10, United States Code, before the date of the enactment of this Act \[Sept. 23, 1996\].”
+Pub. L. 104–201, div. A, title V, §576(d), Sept. 23, 1996, 110 Stat. 2535, provided that: “The amendments made by this section \[amending this section and sections 1151 and 2410j of this title\] do not affect obligations under agreements entered into in accordance with section 1151, 1598, or 2410j of title 10, United States Code, before the date of the enactment of this Act \[Sept. 23, 1996\].”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

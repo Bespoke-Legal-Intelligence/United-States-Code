@@ -1,8 +1,14 @@
 ### §145. Civil action to obtain patent
 
-An applicant dissatisfied with the decision of the Board of Patent Appeals and Interferences in an appeal under section 134(a) of this title may, unless appeal has been taken to the United States Court of Appeals for the Federal Circuit, have remedy by civil action against the Director in the United States District Court for the District of Columbia if commenced within such time after such decision, not less than sixty days, as the Director appoints. The court may adjudge that such applicant is entitled to receive a patent for his invention, as specified in any of his claims involved in the decision of the Board of Patent Appeals and Interferences, as the facts in the case may appear and such adjudication shall authorize the Director to issue such patent on compliance with the requirements of law. All the expenses of the proceedings shall be paid by the applicant.
+An applicant dissatisfied with the decision of the Board of Patent Appeals and Interferences in an appeal under section 134(a) of this title may, unless appeal has been taken to the United States Court of Appeals for the Federal Circuit, have remedy by civil action against the Director in the United States District Court for the Eastern District of Virginia if commenced within such time after such decision, not less than sixty days, as the Director appoints. The court may adjudge that such applicant is entitled to receive a patent for his invention, as specified in any of his claims involved in the decision of theBoard of Patent Appeals and Interferences, as the facts in the case may appear and such adjudication shall authorize the Director to issue such patent on compliance with the requirements of law. All the expenses of the proceedings shall be paid by the applicant.
 
-(July 19, 1952, ch. 950, 66 Stat. 803; Pub. L. 97–164, title I, §163(a)(7), Apr. 2, 1982, 96 Stat. 49; Pub. L. 98–622, title II, §203(b), Nov. 8, 1984, 98 Stat. 3387; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4605(e), 4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–571, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
+(July 19, 1952, ch. 950, 66 Stat. 803; Pub. L. 97–164, title I, §163(a)(7), Apr. 2, 1982, 96 Stat. 49; Pub. L. 98–622, title II, §203(b), Nov. 8, 1984, 98 Stat. 3387; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4605(e), 4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–571, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, §§3(j)(1), 9(a), 20(j), Sept. 16, 2011, 125 Stat. 290, 316, 335.)
+
+#### Amendment of Section
+
+<i>Pub. L. 112–29, §20(j), (l), Sept. 16, 2011, 125 Stat. 335, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, this section is amended by striking “of this title” each place that term appears. See 2011 Amendment note below.</i>
+
+<i>Pub. L. 112–29, §3(j)(1), (n), Sept. 16, 2011, 125 Stat. 290, 293, provided that, effective upon the expiration of the 18-month period beginning on Sept. 16, 2011, and applicable to certain applications for patent and any patents issuing thereon, this section is amended by striking “Board of Patent Appeals and Interferences” each place it appears and inserting “Patent Trial and Appeal Board”. See 2011 Amendment note below.</i>
 
 #### Historical and Revision Notes
 
@@ -14,6 +20,12 @@ Language is changed.
 
 #### Amendments
 
+<b>2011</b>—Pub. L. 112–29, §20(j), struck out “of this title” after “134(a)”.
+
+Pub. L. 112–29, §9(a), substituted “United States District Court for the Eastern District of Virginia” for “United States District Court for the District of Columbia”.
+
+Pub. L. 112–29, §3(j)(1), substituted “Patent Trial and Appeal Board” for “Board of Patent Appeals and Interferences” in two places.
+
 <b>2002</b>—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\]. See 1999 Amendment note below.
 
 <b>1999</b>—Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], as amended by Pub. L. 107–273, substituted “Director” for “Commissioner” wherever appearing.
@@ -23,6 +35,14 @@ Pub. L. 106–113, §1000(a)(9) \[title IV, §4605(e)\], inserted “(a)” afte
 <b>1984</b>—Pub. L. 98–622 substituted “Patent Appeals and Interferences in an appeal under section 134 of this title may,” for “Appeals may” in first sentence and “Patent Appeals and Interferences” for “Appeals” in second sentence.
 
 <b>1982</b>—Pub. L. 97–164 substituted “Court of Appeals for the Federal Circuit” for “Court of Customs and Patent Appeals”.
+
+#### Effective Date of 2011 Amendment
+
+Amendment by section 3(j)(1) of Pub. L. 112–29 effective upon the expiration of the 18-month period beginning on Sept. 16, 2011, and applicable to certain applications for patent and any patents issuing thereon, see section 3(n) of Pub. L. 112–29, set out as an Effective Date of 2011 Amendment; Savings Provisions note under section 100 of this title.
+
+Amendment by section 9(a) of Pub. L. 112–29 effective Sept. 16, 2011, and applicable to any civil action commenced on or after that date, see section 9(b) of Pub. L. 112–29, set out as a note under section 1071 of Title 15, Commerce and Trade.
+
+Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(<i>l</i>) of Pub. L. 112–29, set out as a note under section 2 of this title.
 
 #### Effective Date of 1999 Amendment
 

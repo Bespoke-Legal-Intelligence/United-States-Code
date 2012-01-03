@@ -40,5 +40,5 @@ For definition of “this chapter”, referred to in subsec. (a), see note set o
 
 #### Amendments
 
-1990—Subsec. (b)(1), (2). Pub. L. 101–624 substituted “1981(b)(4)” for “1981(d)”.
+<b>1990</b>—Subsec. (b)(1), (2). Pub. L. 101–624 substituted “1981(b)(4)” for “1981(d)”.
 

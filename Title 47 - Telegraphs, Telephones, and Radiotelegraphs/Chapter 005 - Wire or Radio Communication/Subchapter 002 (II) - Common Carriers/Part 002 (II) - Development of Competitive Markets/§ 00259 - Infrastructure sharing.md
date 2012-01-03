@@ -14,7 +14,7 @@ The regulations prescribed by the Commission pursuant to this section shall—
 
 &emsp;(3) ensure that such local exchange carrier will not be treated by the Commission or any State as a common carrier for hire or as offering common carrier services with respect to any infrastructure, technology, information, facilities, or functions made available to a qualifying carrier in accordance with regulations issued pursuant to this section;
 
-&emsp;(4) ensure that such local exchange carrier makes such infrastructure, technology, information, facilities, or functions available to a qualifying carrier on just and reasonable terms and conditions that permit such qualifying carrier to fully benefit from the economies of scale and scope of such local exchange carrier, as determined in accordance withguidelines prescribed by the Commission in regulations issued pursuant to this section;
+&emsp;(4) ensure that such local exchange carrier makes such infrastructure, technology, information, facilities, or functions available to a qualifying carrier on just and reasonable terms and conditions that permit such qualifying carrier to fully benefit from the economies of scale and scope of such local exchange carrier, as determined in accordance with guidelines prescribed by the Commission in regulations issued pursuant to this section;
 
 &emsp;(5) establish conditions that promote cooperation between local exchange carriers to which this section applies and qualifying carriers;
 

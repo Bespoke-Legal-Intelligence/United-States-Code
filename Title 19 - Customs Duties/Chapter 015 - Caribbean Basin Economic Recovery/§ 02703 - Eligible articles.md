@@ -2,7 +2,7 @@
 
 #### (a) Growth, product, or manufacture of beneficiary countries
 
-(1) Unless otherwise excluded from eligibility by this chapter, and subject to section 423 of the Tax Reform Act of 1986, and except as provided in subsection (b)(2) and (3) of this section, the duty-free treatment provided under this chapter shall apply to any article which is the growth, product, or manufacture of a beneficiary country if—
+(1) Unless otherwise excluded from eligibility by this chapter, and except as provided in subsection (b)(2) and (3) of this section, the duty-free treatment provided under this chapter shall apply to any article which is the growth, product, or manufacture of a beneficiary country if—
 
 &emsp;(A) that article is imported directly from a beneficiary country into the customs territory of the United States; and
 
@@ -34,7 +34,7 @@
 
 &emsp;(C) if any materials are added to the article in a beneficiary country, such materials are a product of a beneficiary country or the United States.
 
-(6) Notwithstanding paragraph (1), the duty-free treatment provided under this chapter shallapply to liqueurs and spirituous beverages produced in the territory of Canada from rum if—
+(6) Notwithstanding paragraph (1), the duty-free treatment provided under this chapter shall apply to liqueurs and spirituous beverages produced in the territory of Canada from rum if—
 
 &emsp;(A) such rum is the growth, product, or manufacture of a beneficiary country or of the Virgin Islands of the United States;
 
@@ -84,7 +84,7 @@
 
 #### (iii) Certain knit apparel articles
 
-&emsp;&emsp;&emsp;(I) Apparel articles knit to shape (other than socks provided for in heading 6115 of the HTS) in a CBTPA beneficiary country from yarns wholly formed in the United States, and knit apparel articles (other than t-shirts described in subclause (III)) cut and wholly assembled in one or more CBTPA beneficiary countries from fabricformed in one or more CBTPA beneficiary countries or the United States from yarns wholly formed in the United States (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the HTS and are formed in one or more CBTPA beneficiary countries), in an amount not exceeding the amount set forth in subclause (II).
+&emsp;&emsp;&emsp;(I) Apparel articles knit to shape (other than socks provided for in heading 6115 of the HTS) in a CBTPA beneficiary country from yarns wholly formed in the United States, and knit apparel articles (other than t-shirts described in subclause (III)) cut and wholly assembled in one or more CBTPA beneficiary countries from fabric formed in one or more CBTPA beneficiary countries or the United States from yarns wholly formed in the United States (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the HTS and are formed in one or more CBTPA beneficiary countries), in an amount not exceeding the amount set forth in subclause (II).
 
 &emsp;&emsp;&emsp;(II) The amount referred to in subclause (I) is as follows:
 
@@ -132,7 +132,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(bb) the President has obtained advice regarding the proposed action from the appropriate advisory committee established under section 135 of the Trade Act of 1974 (19 U.S.C. 2155) and the United States International Trade Commission;
 
-&emsp;&emsp;&emsp;&emsp;(cc) within 60 days after the request, the President has submitted a report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senatethat sets forth the action proposed to be proclaimed and the reasons for such actions, and the advice obtained under division (bb);
+&emsp;&emsp;&emsp;&emsp;(cc) within 60 days after the request, the President has submitted a report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate that sets forth the action proposed to be proclaimed and the reasons for such actions, and the advice obtained under division (bb);
 
 &emsp;&emsp;&emsp;&emsp;(dd) a period of 60 calendar days, beginning with the first day on which the President has met the requirements of division (cc), has expired; and
 
@@ -182,7 +182,7 @@
 
 #### (ix) Apparel articles assembled in one or more CBTPA beneficiary countries from United States and CBTPA beneficiary country components
 
-&emsp;&emsp;&emsp;Apparel articles sewn or otherwise assembled in one or more CBTPA beneficiary countries with thread formed in the United States from components cut in the United States and in one or more CBTPA beneficiary countries from fabric wholly formed in the United States from yarns wholly formed in the United States, orfrom components knit-to-shape in the United States and one or more CBTPA beneficiary countries from yarns wholly formed in the United States, or both (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the HTS). Apparel articles shall qualify under this clause only if they meet the requirements of clause (i) or (ii) (as the case may be) with respect to dyeing, printing, and finishing of knit and woven fabrics from which the articles are assembled.
+&emsp;&emsp;&emsp;Apparel articles sewn or otherwise assembled in one or more CBTPA beneficiary countries with thread formed in the United States from components cut in the United States and in one or more CBTPA beneficiary countries from fabric wholly formed in the United States from yarns wholly formed in the United States, or from components knit-to-shape in the United States and one or more CBTPA beneficiary countries from yarns wholly formed in the United States, or both (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the HTS). Apparel articles shall qualify under this clause only if they meet the requirements of clause (i) or (ii) (as the case may be) with respect to dyeing, printing, and finishing of knit and woven fabrics from which the articles are assembled.
 
 #### (B) Preferential treatment
 
@@ -252,7 +252,7 @@
 
 #### (i) Regulations
 
-&emsp;&emsp;&emsp;Any importer that claims preferential treatment under paragraph (2) or (3) shall comply with customs procedures similar in all material respects to the requirements of Article 502(1) of the NAFTA as implemented pursuant to United States law, in accordance with regulations promulgated by the Secretary of the Treasury.
+&emsp;&emsp;&emsp;Any importer that claims preferential treatment under paragraph (2) or (3) shall comply with customs procedures similar inall material respects to the requirements of Article 502(1) of the NAFTA as implemented pursuant to United States law, in accordance with regulations promulgated by the Secretary of the Treasury.
 
 #### (ii) Determination
 
@@ -308,7 +308,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) participate in negotiations toward the completion of the FTAA or another free trade agreement.
 
-&emsp;&emsp;&emsp;(ii) The extent to which the country provides protection of intellectual property rights consistent with or greater than theprotection afforded under the Agreement on Trade-Related Aspects of Intellectual Property Rights described in section 3511(d)(15) of this title.
+&emsp;&emsp;&emsp;(ii) The extent to which the country provides protection of intellectual property rights consistent with or greater than the protection afforded under the Agreement on Trade-Related Aspects of Intellectual Property Rights described in section 3511(d)(15) of this title.
 
 &emsp;&emsp;&emsp;(iii) The extent to which the country provides internationally recognized worker rights, including—
 
@@ -504,7 +504,7 @@ No proclamation issued pursuant to this chapter shall affect fees imposed pursua
 
 &emsp;(B) is 1.5 percent ad valorem or greater, the aggregate of such proclaimed reduction and the reduction under this subsection may not exceed the proclaimed reduction plus 1 percent ad valorem.
 
-(Pub. L. 98–67, title II, §213, Aug. 5, 1983, 97 Stat. 387; Pub. L. 98–573, title II, §235, Oct. 30, 1984, 98 Stat. 2992; Pub. L. 99–514, title IV, §423(f)(2), titleXVIII, §1890, Oct. 22, 1986, 100 Stat. 2232, 2926; Pub. L. 100–418, title I, §§1214(q)(2), 1401(b)(2), Aug. 23, 1988, 102 Stat. 1159, 1239; Pub. L. 100–647, title IX, §9001(a)(14), Nov. 10, 1988, 102 Stat. 3808; Pub. L. 101–382, title II, §§212, 215(a), Aug. 20, 1990, 104 Stat. 655, 657; Pub. L. 103–465, title IV, §404(e)(1), Dec. 8, 1994, 108 Stat. 4961; Pub. L. 106–200, title II, §§211(a), (e)(1)(B), 212, May 18, 2000, 114 Stat. 276, 287, 288; Pub. L. 107–206, title III, §3001\[(a)\], Aug. 2, 2002, 116 Stat. 909; Pub. L. 107–210, div. C, title XXXI, §3107(a), Aug. 6, 2002, 116 Stat. 1035; Pub. L. 108–429, title I, §1558, title II, §2004(b), Dec. 3, 2004, 118 Stat. 2579, 2592; Pub. L. 109–53, title IV, §402(c), (d), Aug. 2, 2005, 119 Stat. 496; Pub. L. 109–432, div. D, title V, §5005(a), Dec. 20, 2006, 120 Stat. 3189; Pub. L. 110–234, title XV, §15408, May 22, 2008, 122 Stat. 1546; Pub. L. 110–246, §4(a), title XV, §15408, June 18, 2008, 122 Stat. 1664, 2308; Pub. L. 111–171, §3(1), May 24, 2010, 124 Stat. 1195.)
+(Pub. L. 98–67, title II, §213, Aug. 5, 1983, 97 Stat. 387; Pub. L. 98–573, title II, §235, Oct. 30, 1984, 98 Stat. 2992; Pub. L. 99–514, title IV, §423(f)(2), title XVIII, §1890, Oct. 22, 1986, 100 Stat. 2232, 2926; Pub. L. 100–418, title I, §§1214(q)(2), 1401(b)(2), Aug. 23, 1988, 102 Stat. 1159, 1239; Pub. L. 100–647, title IX, §9001(a)(14), Nov. 10, 1988, 102 Stat. 3808; Pub. L. 101–382, title II, §§212, 215(a), Aug. 20, 1990, 104 Stat. 655, 657; Pub. L. 103–465, title IV, §404(e)(1), Dec. 8, 1994, 108 Stat. 4961; Pub. L. 106–200, title II, §§211(a), (e)(1)(B), 212, May 18, 2000, 114 Stat. 276, 287, 288; Pub. L. 107–206, title III, §3001\[(a)\], Aug. 2, 2002, 116 Stat. 909; Pub. L. 107–210, div. C, title XXXI, §3107(a), Aug. 6, 2002, 116 Stat. 1035; Pub. L. 108–429, title I, §1558, title II, §2004(b), Dec. 3, 2004, 118 Stat. 2579, 2592; Pub. L. 109–53, title IV, §402(c), (d), Aug. 2, 2005, 119 Stat. 496; Pub. L. 109–432, div. D, title V, §5005(a), Dec. 20, 2006, 120 Stat. 3189; Pub. L. 110–234, title XV, §15408, May 22, 2008, 122 Stat. 1546; Pub. L. 110–246, §4(a), title XV, §15408, June 18, 2008, 122 Stat. 1664, 2308; Pub. L. 111–171, §3(1), May 24, 2010, 124 Stat. 1195.)
 
 #### Amendment of Section
 
@@ -512,9 +512,7 @@ No proclamation issued pursuant to this chapter shall affect fees imposed pursua
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this title”, meaning title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 2701 of this title and Tables.
-
-Section 423 of the Tax Reform Act of 1986, referred to in subsec. (a)(1), is section 423 of Pub. L. 99–514, title IV, Oct. 22, 1986, 100 Stat. 2230, which amended this section and General Headnote 3(a)(i) of the Tariff Schedules of the United States formerly set out under section 1202 of this title, and enacted provisions set out as a note below.
+This chapter, referred to in text, was in the original “this title”, meaning title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, which is classified principally to this chapter. For complete classification of title II to theCode, see Short Title note set out under section 2701 of this title and Tables.
 
 The Trade Act of 1974, referred to in subsecs. (b)(1)(B), (e)(1), and (h)(1)(B), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Chapter 1 of title II of the Trade Act of 1974 is classified generally to part 1 (§2251 et seq.) of subchapter II of chapter 12 of this title. Title V of the Trade Act of 1974 is classified generally to subchapter V (§2461 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see section 2101 of this title and Tables.
 
@@ -574,7 +572,7 @@ Pub. L. 107–210, §3107(a)(1)(A), added introductory provisions and struck out
 
 Pub. L. 107–206, §3001\[(a)\](1), inserted at end “Apparel articles shall qualify under the preceding sentence only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are knit fabrics, is carried out in the United States. Apparel articles shall qualify under the first sentence of this clause only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are woven fabrics, is carried out in the United States.” See Codification note above.
 
-Subsec. (b)(2)(A)(ii). Pub. L. 107–210, §3107(a)(2), amended heading and text of cl. (ii) generally. Prior to amendment, text read as follows: “Apparel articles cut in one or more CBTPA beneficiary countries from fabric wholly formed in the United States from yarns wholly formed in the United States (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the HTS and are wholly formed in the United States), if such articles are assembled in one or more such countries with thread formed in the United States. Apparel articles shall qualify under the preceding sentence only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are knit fabrics, is carried out in the United States. Apparel articles shall qualify under the first sentence of this clause only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are woven fabrics, is carried out in the United States.” See Codification note above.
+Subsec. (b)(2)(A)(ii). Pub. L. 107–210, §3107(a)(2), amended heading and text of cl. (ii) generally. Prior to amendment, text read as follows: “Apparel articles cut in one or more CBTPA beneficiary countries from fabric wholly formed in the United States from yarns wholly formed in the United States (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the HTS and are wholly formed in the United States), if such articles are assembled in one or more such countries with thread formed in the United States. Apparel articles shall qualify under the preceding sentence only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are knit fabrics, is carried out in the United States. Apparel articles shall qualify under the first sentence of this clause only if alldyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are woven fabrics, is carried out in the United States.” See Codification note above.
 
 Pub. L. 107–206, §3001\[(a)\](2), inserted at end “Apparel articles shall qualify under the preceding sentence only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are knit fabrics, is carried out in the United States. Apparel articles shall qualify under the first sentence of this clause only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are woven fabrics, is carried out in the United States.” See Codification note above.
 
@@ -652,7 +650,7 @@ Subsec. (e)(4). Pub. L. 100–418, §1401(b)(2)(D), substituted “taken under s
 
 Subsec. (e)(5)(A). Pub. L. 100–418, §1401(b)(2)(E)(i), substituted “action taken under section 203” for “proclamation issued pursuant to section 203”.
 
-Subsec. (e)(5)(B). Pub. L. 100–418, §1401(b)(2)(E)(ii), substituted “to any such action” for “to import relief”, “such action” for “such import relief”, and “section 203” for “subsections (h) and (i) of section 203”.
+Subsec. (e)(5)(B). Pub. L. 100–418, §1401(b)(2)(E)(ii), substituted “to any such action” for “to import relief”,“such action” for “such import relief”, and “section 203” for “subsections (h) and (i) of section 203”.
 
 Subsec. (f)(4)(A). Pub. L. 100–418, §1401(b)(2)(F)(i), substituted “taking of action under section 203” for “proclamation of import relief pursuant to section 202(a)(1)”.
 
@@ -672,7 +670,7 @@ Subsec. (f)(5)(E). Pub. L. 100–418, §1214(q)(2)(D)(v), struck out subpar. (E)
 
 Subsec. (f)(5)(F). Pub. L. 100–418, §1214(q)(2)(D)(vi), as amended by Pub. L. 100–647, §9001(a)(14)(C), redesignated subpar. (F) as (D).
 
-<b>1986</b>—Subsec. (a)(1). Pub. L. 99–514, §423(f)(2), inserted “and subject to section 423 of the Tax Reform Act of 1986,”.
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–514, §423(f)(2), (g), temporarily inserted “and subject to section 423 of the Tax Reform Act of 1986,”. See Effective and Termination Dates of 1986 Amendment note below.
 
 Subsec. (a)(3), (4). Pub. L. 99–514, §1890(1), redesignated par. (3) relating to products of a beneficiary country imported directly into Puerto Rico as (4), realigned the margins, and substituted “any beneficiary” for “such”.
 
@@ -712,7 +710,7 @@ Pub. L. 107–206, title III, §3001(c), Aug. 2, 2002, 116 Stat. 910, provided t
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 effective on the date of entry into force of the WTO Agreement with respect tothe United States \[Jan. 1, 1995\], except as otherwise provided, see section 451 of Pub. L. 103–465, set out as an Effective Date note under section 3601 of this title.
+Amendment by Pub. L. 103–465 effective on the date of entry into force of the WTO Agreement with respect to the United States \[Jan. 1, 1995\], except as otherwise provided, see section 451 of Pub. L. 103–465, set out as an Effective Date note under section 3601 of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -734,17 +732,17 @@ Amendment by Pub. L. 100–647 applicable as if such amendment took effect on Au
 
 Amendment by section 1214(q)(2) of Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100–418, set out as an Effective Date note under section 3001 of this title.
 
-Amendment by section 1401(b)(2) of Pub. L. 100–418 effective Aug. 23, 1988, and applicable with respect to investigations initiated under part 1 (§2251 et seq.) of subchapter II of chapter 12 of this title on or after that date, see section 1401(c) of Pub. L. 100–418, set out as a note under section 2251 of this title.
+Amendment by section 1401(b)(2) of Pub. L. 100–418 effective Aug. 23, 1988, and applicable with respect to investigations initiated under part 1 (§2251 et seq.) of subchapter II of chapter 12 of this title on or after thatdate, see section 1401(c) of Pub. L. 100–418, set out as a note under section 2251 of this title.
 
-#### Effective Date of 1986 Amendment
+#### Effective and Termination Dates of 1986 Amendment
 
-Section 423(g) of Pub. L. 99–514 provided that:
+Pub. L. 99–514, title IV, §423(g), Oct. 22, 1986, 100 Stat. 2233, provided that:
 
 “(1) The provisions of, and the amendments made by, this section (other than subsection (e)) \[amending this section and General Headnote 3(a)(i) of the Tariff Schedules of the United States formerly set out under section 1202 of this title and enacting provisions set out as a note below\] shall apply to articles entered—
 
 &emsp;“(A) after December 31, 1986, and
 
-&emsp;“(B) before the expiration of the effective period of item 901.50 of the Appendix to the Tariff Schedules of the United States \[not classified to the Code\].
+&emsp;“(B) before the expiration of the effective period of item 901.50 of the Appendix to the Tariff Schedules of the United States \[now heading 9901.00.50 of the Harmonized Tariff Schedule of the United States; effective period expired Jan. 1, 2012\].
 
 “(2) The provisions of subsection (e) \[set out as a note below\] shall take effect on the date of the enactment of this Act \[Oct. 22, 1986\].”
 
@@ -786,125 +784,23 @@ Pub. L. 108–429, title V, §5001, Dec. 3, 2004, 118 Stat. 2604, provided that:
 
 #### Ethyl Alcohol and Mixtures Thereof for Fuel Use
 
-Section 423(a)–(c), (e) of Pub. L. 99–514, as amended by Pub. L. 100–418, title I, §1910(a), Aug. 23, 1988, 102 Stat. 1319; Pub. L. 101–221, §7(a), Dec. 12, 1989, 103 Stat. 1890, provided that:
+Pub. L. 99–514, title IV, §423(a)–(c), Oct. 22, 1986, 100 Stat. 2230, 2231, as amended by Pub. L. 100–418, title I, §1910(a), Aug. 23, 1988, 102 Stat. 1319; Pub. L. 101–221, §7(a), Dec. 12, 1989, 103 Stat. 1890, provided that no ethyl alcohol or mixture thereof could be eligible for exemption from duty as the growth or product of an insular possession of the United States for purposes of general headnote 3(a) of the Tariff Schedules of the United States, or eligible for duty-free treatment under the Caribbean Basin Economic Recovery Act (19 U.S.C. 2701 et seq.) as the growth, product, or manufacture of a beneficiary country, with certain exceptions, prior to repeal by Pub. L. 99–514, title IV, §423(g)(1), Oct. 22, 1986, 100 Stat. 2233. See Effective and Termination Dates of 1986 Amendment note above.
 
-“(a)
+\[Pub. L. 101–221, §7(b), Dec. 12, 1989, 103 Stat. 1891, as amended by Pub. L. 101–382, title II, §225, Aug. 20, 1990, 104 Stat. 660, provided that: “The amendments made by subsection (a) \[amending section 423(c) of Pub. L. 99–514, formerly set out above\] shall apply with respect to calendar years after 1989.”\]
 
-In General.—Except as provided in subsection (b), no ethyl alcohol or a mixture thereof may be considered—
+Pub. L. 99–514, title IV, §423(e), Oct. 22, 1986, 100 Stat. 2232, provided that:
 
-&emsp;“(1) for purposes of general headnote 3(a) of the Tariff Schedules of the United States \[formerly set out under section 1202 of this title\], to be—
+“(1) For purposes of subsections (b) and (j)(2) of section 313 of the Tariff Act of 1930 (19 U.S.C. 1313), as amended by section 1888(2) of this Act, any ethyl alcohol (provided for in item 427.88 of the Tariff Schedules of the United States \[not classified to the Code\]) or mixture containing such ethyl alcohol (provided for in part 1, 2, or 10 of schedule 4 of such Schedules) which is subject to the additional duty imposed by item 901.50 of the Appendix to such Schedules may be treated as being fungible with, or of being of the same kind and quality as, any other imported ethyl alcohol (provided for in item 427.88 of such Schedules) or mixture containing such ethyl alcohol (provided for in part 1, 2, or 10 of schedule 4 of such Schedules) only if such other imported ethyl alcohol or mixture thereof is also subject to such additional duty.
 
-&emsp;&emsp;“(A) the growth or product of an insular possession of the United States,
+“(2) Paragraph (1) shall not apply with respect to ethyl alcohol (provided for in item 427.88 of the Tariff Schedules of the United States) or mixture containing such ethly \[ethyl\] alcohol (provided for in part 1, 2, or 10 of schedule 4 of such Schedules) that is exempt from the additional duty imposed by item 901.50 of the Appendix to such Schedules by reason of—
 
-&emsp;&emsp;“(B) manufactured or produced in an insular possession from materials which are the growth, product, or manufacture of any such possession, or
+&emsp;“(A) subsection (b), or
 
-&emsp;&emsp;“(C) otherwise eligible for exemption from duty under such headnote as the growth or product of an insular possession; or
-
-&emsp;“(2) for purposes of section 213 of the Caribbean Basin Economic Recovery Act \[19 U.S.C. 2703\], to be—
-
-&emsp;&emsp;“(A) an article that is wholly the growth, product, or manufacture of a beneficiary country,
-
-&emsp;&emsp;“(B) a new or different article of commerce which has been grown, produced, or manufactured in a beneficiary country,
-
-&emsp;&emsp;“(C) a material produced in a beneficiary country, or
-
-&emsp;&emsp;“(D) otherwise eligible for duty-free treatment under such Act \[19 U.S.C. 2701 et seq.\] as the growth, product, or manufacture of a beneficiary country;
-
-> unless the ethyl alcohol or mixture thereof is an indigenous product of that insular possession or beneficiary country.
-
-“(b)
-
-Exception.—
-
-&emsp;“(1) Subject to the limitation in paragraph (2), subsection (a) shall not apply to ethyl alcohol that is imported into the United States during calendar years 1987, 1988, and 1989 and produced in—
-
-&emsp;&emsp;“(A) an azeotropic distillation facility located in a beneficiary country, if that facility was established before, and in operation on, July 1, 1987,
-
-&emsp;&emsp;“(B) an azeotropic distillation facility—
-
-&emsp;&emsp;&emsp;“(i) at least 50 percent of the total value of the equipment and components of which were—
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) produced in the United States, and
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) owned by a corporation at least 50 percent of the total value of the outstanding shares of stock of which were owned by a United States person (or persons) on or before January 1, 1986, and
-
-&emsp;&emsp;&emsp;“(ii) substantially all of the equipment and components of which were, on or before January 1, 1986—
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) located in the United States under the possession or control of such corporation,
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) ready for shipment to, and installation in, a beneficiary country or an insular possession of the United States, and
-
-&emsp;&emsp;&emsp;“(iii) which—
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) has on the date of enactment of this Act \[Oct. 22, 1986\], or
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) will have at the time such facility is placed in service (based on estimates made before the date of enactment of this Act),
-
-&emsp;&emsp;&nbsp;a stated capacity to produce not more than 42,000,000 gallons of such product per year, or
-
-&emsp;&emsp;“(C) a distillation facility operated by a corporation which, before the date of enactment of the Omnibus Trade Act of 1987 \[probably means the Omnibus Trade and Competitiveness Act of 1988, Pub. L. 100–418, which was approved Aug. 23, 1988\]—
-
-&emsp;&emsp;&emsp;“(i) has completed engineering and design of a full-scale fermentation facility in the United States Virgin Islands, and
-
-&emsp;&emsp;&emsp;“(ii) has obtained authorization from authorities of the United States Virgin Islands to operate a full-scale fermentation facility.
-
-&emsp;“(2) The exception provided under paragraph (1) shall cease to apply during each of calendar years 1987, 1988, and 1989 to ethyl alcohol produced in a facility described in subparagraph (A), (B), or (C) of paragraph (1) after 20,000,000 gallons of ethyl alcohol produced in that facility are entered into the United States during that year.
-
-“(c)
-
-Definitions.—For purposes of this section \[amending this section and General Headnote 3(a)(i) of the Tariff Schedules of the United States formerly set out under section 1202 of this title and enacting provisions set out as notes under this section\]—
-
-&emsp;“(1) The term ‘ethyl alcohol or a mixture thereof’ means (except for purposes of subsection (e)) ethyl alcohol or any mixture thereof described in item 901.50 of the Appendix to the Tariff Schedules of the United States \[not classified to the Code\].
-
-&emsp;“(2) Ethyl alcohol or a mixture thereof that is produced by a process of full fermentation in an insular possession or beneficiary country shall be treated as being an indigenous product of that possession or country.
-
-&emsp;“(3)(A) Ethyl alcohol and mixtures thereof that are only dehydrated within an insular possession or beneficiary country (hereinafter in this paragraph referred to as ‘dehydrated alcohol and mixtures’) shall be treated as being indigenous products of that possession or country only if the alcohol or mixture, when entered, meets the applicable local feedstock requirement.
-
-&emsp;“(B) The local feedstock requirement with respect to any calendar year is—
-
-&emsp;&emsp;“(i) 0 percent with respect to the base quantity of dehydrated alcohol and mixtures that is entered;
-
-&emsp;&emsp;“(ii) 30 percent with respect to the 35,000,000 gallons of dehydrated alcohol and mixtures next entered after the base quantity; and
-
-&emsp;&emsp;“(iii) 50 percent with respect to all dehydrated alcohol and mixtures entered after the amount specified in clause (ii) is entered.
-
-&emsp;“(C) For purposes of this paragraph:
-
-&emsp;&emsp;“(i) The term ‘base quantity’ means, with respect to dehydrated alcohol and mixtures entered during any calendar year, the greater of—
-
-&emsp;&emsp;&emsp;“(I) 60,000,000 gallons; or
-
-&emsp;&emsp;&emsp;“(II) an amount (expressed in gallons) equal to 7 percent of the United States domestic market for ethyl alcohol, as determined by the United States International Trade Commission, during the 12-month period ending on the preceding September 30;
-
-&nbsp;&nbsp;that is first entered during that calendar year.
-
-&emsp;&emsp;“(ii) The term ‘local feedstock’ means hydrous ethyl alcohol which is wholly produced or manufactured in any insular possession or beneficiary country.
-
-&emsp;&emsp;“(iii) The term ‘local feedstock requirement’ means the minimum percent, by volume, of local feedstock that must be included in dehydrated alcohol and mixtures.
-
-&emsp;“(4) The term ‘beneficiary country’ has the meaning given to such term under section 212 of the Caribbean Basin Economic Recovery Act (19 U.S.C. 2702).
-
-&emsp;“(5) The term ‘United States person’ has the meaning given to such term by section 7701(a)(3) of the Internal Revenue Code of 1986 \[26 U.S.C. 7701(a)(3)\].
-
-&emsp;“(6) The term ‘entered’ means entered, or withdrawn from warehouse, for consumption in the customs territory of the United States.
-
-“(e)
-
-Drawbacks.—
-
-&emsp;“(1) For purposes of subsections (b) and (j)(2) of section 313 of the Tariff Act of 1930 (19 U.S.C. 1313), as amended by section 1888(2) of this Act, any ethyl alcohol (provided for in item 427.88 of the Tariff Schedules of the United States \[not classified to the Code\]) or mixture containing such ethyl alcohol (provided for in part 1, 2, or 10 of schedule 4 of such Schedules) which is subject to the additional duty imposed by item 901.50 of the Appendix to such Schedules may be treated as being fungible with, or of being of the same kind and quality as, any other imported ethyl alcohol (provided for in item 427.88 of such Schedules) or mixture containing such ethyl alcohol (provided for in part 1, 2, or 10 of schedule 4 of such Schedules) only if such other imported ethyl alcohol or mixture thereof is also subject to such additional duty.
-
-&emsp;“(2) Paragraph (1) shall not apply with respect to ethyl alcohol (provided for in item 427.88 of the Tariff Schedules of the United States) or mixture containing such ethly \[ethyl\] alcohol (provided for in part 1, 2, or 10 of schedule 4 of such Schedules) that is exempt from the additional duty imposed by item 901.50 of the Appendix to such Schedules by reason of—
-
-&emsp;&emsp;“(A) subsection (b), or
-
-&emsp;&emsp;“(B) any agreement entered into under section 102(b) of the Trade Act of 1974 \[19 U.S.C. 2112(b)\].”
-
-\[Section 7(b) of Pub. L. 101–221, as amended by Pub. L. 101–382, title II, §225, Aug. 20, 1990, 104 Stat. 660, provided that: “The amendments made by subsection (a) \[amending section 423 of Pub. L. 99–514, set out above\] shall apply with respect to calendar years after 1989.”\]
+&emsp;“(B) any agreement entered into under section 102(b) of the Trade Act of 1974 \[19 U.S.C. 2112(b)\].”
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L.99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as anote under section 401 of Title 26, Internal Revenue Code.
 
 #### Duty-Free Treatment of Imported Rum; Compensation Measures; Presidential Authority; Report to Congress
 
@@ -934,7 +830,7 @@ Sec. 5. <i>Effective Visa Systems</i>. Pursuant to sections 112(a) and 113(a)(1)
 
 #### Part II—Implementation of the CBTPA
 
-Sec. 6. <i>Apparel Articles Assembled from Fabrics or Yarn Not Available in Commercial Quantities</i>. The Committee is authorized to exercise the authority vested in the President under section 213(b)(2)(A)(v)(II)(aa) of the CBERA (19 U.S.C. 2703(b)(2)(A)(v)(II)(aa)), as added by section 211(a) of the CBTPA, to determine whether yarns or fabrics cannot be supplied by the domestic industry in commercial quantities in a timely manner. The Committee shall establish procedures to ensure appropriate public participation in any such determination. The Committee and the USTR are jointly authorized to exercise the authority vested in the President under sections 213(b)(2)(A)(v)(II)(bb), (cc), and (ee) of the CBERA (19 U.S.C. 2703(b)(2)(A)(v)(II)(bb), (cc), and (ee)), as added by section 211(a) of the CBTPA, to obtain advice from the appropriate advisory committee, to submit a report to the appropriate Congressional committees, and to consult with those Congressional committees. The USTR is authorized to exercise the authority vested in the President under section 213(b)(2)(A)(v)(II)(bb) of the CBERA to obtain advice from the USITC.
+Sec. 6. <i>Apparel Articles Assembled from Fabrics or Yarn Not Available in Commercial Quantities</i>. The Committee is authorized to exercise the authority vested in the President under section 213(b)(2)(A)(v)(II)(aa) of the CBERA (19 U.S.C. 2703(b)(2)(A)(v)(II)(aa)), as added by section 211(a) of the CBTPA, to determine whether yarns or fabrics cannot be supplied by the domestic industry in commercial quantities in a timely manner. The Committee shall establish procedures to ensure appropriate public participation in any such determination. The Committee and the USTR are jointly authorized to exercise the authority vested in the President under sections 213(b)(2)(A)(v)(II)(bb), (cc), and (ee) ofthe CBERA (19 U.S.C. 2703(b)(2)(A)(v)(II)(bb), (cc), and (ee)), as added by section 211(a) of the CBTPA, to obtain advice from the appropriate advisory committee, to submit a report to the appropriate Congressional committees, and to consult with those Congressional committees. The USTR is authorized to exercise the authority vested in the President under section 213(b)(2)(A)(v)(II)(bb) of the CBERA to obtain advice from the USITC.
 
 Sec. 7. <i>Certain Interlinings</i>. The Committee is authorized to exercise the authority vested in the President under section 213(b)(2)(A)(vii)(II)(cc) of the CBERA (19 U.S.C. 2703(b)(2)(A)(vii)(II)(cc)), as added by section 211(a) of the CBTPA, to determine whether U.S. manufacturers are producing interlinings in the United States in commercial quantities. The Committee shall establish procedures to ensure appropriate public participation in any such determination. The determination or determinations of the Committee under this section shall be set forth in a notice or notices that the Committee shall cause to be published in the Federal Register. The Commissioner shall take such actions to carry out any such determination as directed by the Committee.
 

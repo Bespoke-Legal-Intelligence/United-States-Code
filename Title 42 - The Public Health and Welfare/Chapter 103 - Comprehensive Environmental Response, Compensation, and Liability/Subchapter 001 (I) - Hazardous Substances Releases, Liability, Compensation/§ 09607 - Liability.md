@@ -88,7 +88,7 @@ There shall be no liability under subsection (a) of this section for a person ot
 
 #### (C) Rebuttable presumption
 
-&emsp;&emsp;Any determination or assessment of damages to natural resources for the purposes of this chapter and section 1321 of title 33 made by a Federal or State trustee in accordance with the regulations promulgated under section 9651(c) of this title shall have the force and effect of a rebuttable presumption on behalf of the trustee in any administrative or judicial proceeding under this chapter or section 1321 of title 33.
+&emsp;&emsp;Any determination or assessment of damages to natural resources for the purposes of this chapter and section 1321 of title 33 made by a Federal or State trustee in accordance with the regulations promulgated under section 9651(c) of this title shall have the forceand effect of a rebuttable presumption on behalf of the trustee in any administrative or judicial proceeding under this chapter or section 1321 of title 33.
 
 #### (g) Federal agencies
 
@@ -100,7 +100,7 @@ The owner or operator of a vessel shall be liable in accordance with this sectio
 
 #### (i) Application of a registered pesticide product
 
-No person (including the United States or any State or Indian tribe) may recover under the authority of this section for any response costs or damages resulting from the application of a pesticide product registered under the Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C. 136 et seq.\]. Nothing in this paragraph shall affect or modify in any way the obligations or liability of any person under any other provision of State or Federal law, including common law, for damages, injury, or loss resulting froma release of any hazardous substance or for removal or remedial action or the costs of removal or remedial action of such hazardous substance.
+No person (including the United States or any State or Indian tribe) may recover under the authority of this section for any response costs or damages resulting from the application of a pesticide product registered under the Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C. 136 et seq.\]. Nothing in this paragraph shall affect or modify in any way the obligations or liability of any person under any other provision of State or Federal law, including common law, for damages, injury, or loss resulting from a release of any hazardous substance or for removal or remedial action or the costs of removal or remedial action of such hazardous substance.
 
 #### (j) Obligations or liability pursuant to federally permitted release
 
@@ -118,7 +118,7 @@ Recovery by any person (including the United States or any State or Indian tribe
 
 (3) In addition to the assumption of liability of owners and operators under paragraph (1) of this subsection, the Post-closure Liability Fund established by section 9641 <sup>1</sup> of this title may be used to pay costs of monitoring and care and maintenance of a site incurred by other persons after the period of monitoring required by regulations under subtitle C of the Solid Waste Disposal Act \[42 U.S.C. 6921 et seq.\] for hazardous waste disposal facilities meeting the conditions of paragraph (1) of this subsection.
 
-(4)(A) Not later than one year after December 11, 1980, the Secretary of the Treasury shall conduct a study and shall submit a report thereon to the Congress on the feasibility of establishing or qualifying an optional system of private insurance for postclosure financial responsibility for hazardous waste disposal facilities to which this subsection applies. Such study shall include a specification of adequate and realistic minimum standards to assure that any such privately placed insurance will carry out the purposes of this subsection in a reliable, enforceable, and practical manner. Such a study shall include an examination of the public and private incentives, programs, and actions necessary to make privately placed insurance a practical and effective option to the financing system for the Post-closure Liability Fund provided in subchapter II <sup>1</sup> of this chapter.
+(4)(A) Not later than one year after December 11, 1980, the Secretary of the Treasury shall conduct a study and shall submit a report thereon to the Congress on the feasibility of establishing or qualifying an optional system of private insurance for postclosure financial responsibility for hazardous waste disposal facilities to which this subsection applies. Such study shall include a specification of adequate and realistic minimum standards to assure that any such privately placed insurance will carry out the purposes of this subsection in a reliable, enforceable, and practical manner. Such a study shall include an examination of the public and privateincentives, programs, and actions necessary to make privately placed insurance a practical and effective option to the financing system for the Post-closure Liability Fund provided in subchapter II <sup>1</sup> of this chapter.
 
 (B) Not later than eighteen months after December 11, 1980, and after a public hearing, the President shall by rule determine whether or not it is feasible to establish or qualify an optional system of private insurance for postclosure financial responsibility for hazardous waste disposal facilities to which this subsection applies. If the President determines the establishment or qualification of such a system would be infeasible, he shall promptly publish an explanation of the reasons for such a determination. If the President determines the establishment or qualification of such a system would be feasible, he shall promptly publish notice of such determination. Not later than six months after an affirmative determination under the preceding sentence and after a public hearing, the President shall by rule promulgate adequate and realistic minimum standards which must be met by any such privately placed insurance, taking into account the purposes of this chapter and this subsection. Such rules shall also specify reasonably expeditious procedures by which privately placed insurance plans can qualify as meeting such minimum standards.
 
@@ -172,7 +172,7 @@ Consideration of options.—In conducting the study under this paragraph, the Co
 
 &emsp;&emsp;(iii) legislation to require risk pooling by owners and operators;
 
-&emsp;&emsp;(iv) modification of the Post-Closure Liability Trust Fund previously established by section 9641 <sup>1</sup> of this title, and the conditions for transfer of liability under this subsection, including limiting the transfer of some or all liability under this subsection only in the case of insolvency of owners and operators;
+&emsp;&emsp;(iv) modification of the Post-Closure Liability Trust Fund previously established by section 9641 <sup>1</sup> of this title, and the conditionsfor transfer of liability under this subsection, including limiting the transfer of some or all liability under this subsection only in the case of insolvency of owners and operators;
 
 &emsp;&emsp;(v) private insurance;
 
@@ -190,7 +190,7 @@ Recommendations.—The Comptroller General shall consider options for funding an
 
 #### (1) In general
 
-&emsp;All costs and damages for which a person is liable to the United States under subsection (a) of this section (other than the owner or operator of a vessel under paragraph (1) of subsection (a) of this section) shall constitute alien in favor of the United States upon all real property and rights to such property which—
+&emsp;All costs and damages for which a person is liable to the United States under subsection (a) of this section (other than the owner or operator of a vessel under paragraph (1) of subsection (a) of this section) shall constitute a lien in favor of the United States upon all real property and rights to such property which—
 
 &emsp;&emsp;(A) belong to such person; and
 
@@ -424,7 +424,7 @@ All costs and damages for which the owner or operator of a vessel is liable unde
 
 #### (7) Costs and fees
 
-&emsp;A nongovernmental entity that commences, after January 11, 2002, a contribution actionunder this chapter shall be liable to the defendant for all reasonable costs of defending the action, including all reasonable attorney's fees and expert witness fees, if the defendant is not liable for contribution based on an exemption under this subsection or subsection (<i>o</i>) of this section.
+&emsp;A nongovernmental entity that commences, after January 11, 2002, a contribution action under this chapter shall be liable to the defendant for all reasonable costs of defending the action, including all reasonable attorney's fees and expert witness fees, if the defendant is not liable for contribution based on an exemption under this subsection or subsection (<i>o</i>) of this section.
 
 #### (q) Contiguous properties
 
@@ -478,7 +478,7 @@ All costs and damages for which the owner or operator of a vessel is liable unde
 
 #### (D) Ground water
 
-&emsp;&emsp;With respect to a hazardous substance from one or more sources that are not on the property of a person that is a contiguous property owner that enters ground water beneath the property of the person solely as a result of subsurface migration in an aquifer, subparagraph (A)(iii) shall not require the person to conduct ground water investigations or to install ground water remediation systems, except in accordance with the policy of the Environmental Protection Agency concerning owners of property containing contaminated aquifers, dated May 24, 1995.
+&emsp;&emsp;With respect to a hazardous substance from one or more sources that are not on the property of a person that is a contiguous property owner that enters ground water beneath the property of the person solely as a result of subsurface migration in an aquifer, subparagraph (A)(iii) shall not require theperson to conduct ground water investigations or to install ground water remediation systems, except in accordance with the policy of the Environmental Protection Agency concerning owners of property containing contaminated aquifers, dated May 24, 1995.
 
 #### (2) Effect of law
 
@@ -550,7 +550,7 @@ The Solid Waste Disposal Act, referred to in subsec. (k)(1), (3), (6)(E)(i), is 
 
 Section 9641 of this title, referred to in subsec. (k), was repealed by Pub. L. 99–499, title V, §514(b), Oct. 17, 1986, 100 Stat. 1767.
 
-Subchapter II of this chapter, referred to in subsec. (k)(4)(A) and (C), was in the original “title II of this Act”, meaning title II of Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2796, known as the Hazardous Substance Response Revenue Act of 1980, which enacted subchapter II of this chapter and sections 4611, 4612, 4661, 4662, 4681, and 4682 of Title 26, Internal Revenue Code. Sections 221 to 223 and 232 of Pub. L. 96–510, which were classified to sections 9631 to 9633 and 9641 of this title, comprising subchapter II of this chapter, were repealed by Pub. L. 99–499, title V, §§514(b), 517(c)(1), Oct. 17, 1986, 100 Stat. 1767, 1774. For complete classification of title II to the Code, see Short Title of 1980 Amendment note set out under section 1 of Title 26 and Tables.
+Subchapter II of this chapter, referred to in subsec. (k)(4)(A) and (C), was in the original “title II of this Act”, meaning title II of Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2796, known as the Hazardous Substance ResponseRevenue Act of 1980, which enacted subchapter II of this chapter and sections 4611, 4612, 4661, 4662, 4681, and 4682 of Title 26, Internal Revenue Code. Sections 221 to 223 and 232 of Pub. L. 96–510, which were classified to sections 9631 to 9633 and 9641 of this title, comprising subchapter II of this chapter, were repealed by Pub. L. 99–499, title V, §§514(b), 517(c)(1), Oct. 17, 1986, 100 Stat. 1767, 1774. For complete classification of title II to the Code, see Short Title of 1980 Amendment note set out under section 1 of Title 26 and Tables.
 
 The Hazardous and Solid Waste Amendments of 1984, referred to in subsec. (k)(6)(A), (E), is Pub. L. 98–616, Nov. 8, 1984, 98 Stat. 3221. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under section 6901 of this title and Tables.
 

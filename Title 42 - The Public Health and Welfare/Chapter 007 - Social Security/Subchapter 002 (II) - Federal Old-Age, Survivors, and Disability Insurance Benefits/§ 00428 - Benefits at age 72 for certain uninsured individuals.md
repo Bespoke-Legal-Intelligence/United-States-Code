@@ -46,7 +46,7 @@ The benefit amount to which an individual is entitled under this section for any
 
 The benefit to which any individual is entitled under this section for any month shall not be paid for such month if—
 
-&emsp;(1) such individual receives aid or assistance in the form of money payments in such month under a State plan approved under subchapter I, X, XIV, or XVI of this chapter, or under a State program funded under part A of subchapter IV of this chapter, or
+&emsp;(1) such individual receives aid or assistance in the form of money payments in such monthunder a State plan approved under subchapter I, X, XIV, or XVI of this chapter, or under a State program funded under part A of subchapter IV of this chapter, or
 
 &emsp;(2) such individual's husband or wife receives such aid or assistance in such month, and under the State plan the needs of such individual were taken into account in determining eligibility for (or amount of) such aid or assistance,
 
@@ -87,8 +87,6 @@ For purposes of this section—
 (Aug. 14, 1935, ch. 531, title II, §228, as added Pub. L. 89–368, title III, §302(a), Mar. 15, 1966, 80 Stat. 67; amended Pub. L. 90–248, title I, §102(b), title II, §241(a) Jan. 2, 1968, 81 Stat. 827, 916; Pub. L. 91–172, title X, §1003(b), Dec. 30, 1969, 83 Stat. 740; Pub. L. 92–5, title II, §202(b), Mar. 17, 1971, 85 Stat. 10; Pub. L. 92–336, title II, §201(g)(2), July 1, 1972, 86 Stat. 411; Pub. L. 93–233, §§2(b)(1), 18(c), Dec. 31, 1973, 87 Stat. 952, 968; Pub. L. 98–21, title III, §305(a)–(d), Apr. 20, 1983, 97 Stat. 113; Pub. L. 98–369, div. B, title VI, §§2662(e), 2663(j)(3)(A)(iv), July 18, 1984, 98 Stat. 1159, 1170; Pub. L. 101–508, title V, §5114(a), Nov. 5, 1990, 104 Stat. 1388–273; Pub. L. 102–54, §13(q)(3)(B)(i), June 13, 1991, 105 Stat. 279; Pub. L. 103–296, title I, §107(a)(4), Aug. 15, 1994, 108 Stat. 1478; Pub. L. 104–193, title I, §108(a)(2), Aug. 22, 1996, 110 Stat. 2165.)
 
 #### References in Text
-
-Part A of subchapter IV of this chapter, referred to in subsec. (d)(1), is classified to section 601 et seq. of this title.
 
 Section 211 of Pub. L. 93–66, referred to in subsec. (d), is set out as a note under section 1382 of this title.
 

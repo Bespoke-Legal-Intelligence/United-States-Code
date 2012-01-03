@@ -14,7 +14,7 @@
 
 #### (2) Report
 
-&emsp;Not later than 3 years after July 11, 2006, the Secretary of Commerce shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee onTransportation and Infrastructure of the House of Representatives a report on the activities carried out under this subsection and activities proposed to be carried out under this subsection.
+&emsp;Not later than 3 years after July 11, 2006, the Secretary of Commerce shall submit to theCommittee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the activities carried out under this subsection and activities proposed to be carried out under this subsection.
 
 #### (b) Demonstration project
 

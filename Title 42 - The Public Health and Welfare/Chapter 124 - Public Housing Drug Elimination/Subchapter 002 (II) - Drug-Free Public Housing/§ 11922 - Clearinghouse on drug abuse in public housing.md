@@ -10,7 +10,7 @@ The clearinghouse established under subsection (a) of this section shall—
 
 &emsp;(1) respond to inquiries by members of the public requesting assistance in investigating, studying, and working on the problem of the abuse of controlled substances; and
 
-&emsp;(2) receive, collect, process, assemble, and provide information on programs, authorities, institutions, and agencies, that may further assist members of the public requesting information from the clearinghouse.
+&emsp;(2) receive, collect, process, assemble, and provide information on programs, authorities,institutions, and agencies, that may further assist members of the public requesting information from the clearinghouse.
 
 (Pub. L. 100–690, title V, §5143, Nov. 18, 1988, 102 Stat. 4303.)
 

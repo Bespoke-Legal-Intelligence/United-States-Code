@@ -78,7 +78,7 @@ Another section 1801 of Pub. L. 107–296 was renumbered section 1901 and is cla
 
 #### Change of Name
 
-Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of this title.
+Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L.109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of this title.
 
 #### Savings Clause
 

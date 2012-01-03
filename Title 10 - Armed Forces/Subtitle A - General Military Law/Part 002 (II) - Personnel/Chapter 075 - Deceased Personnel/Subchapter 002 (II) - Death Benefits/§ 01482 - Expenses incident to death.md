@@ -22,15 +22,17 @@
 
 (b) If an individual pays any expense payable by the United States under this section, the Secretary concerned shall reimburse him or his representative in an amount not larger than that normally incurred by the Secretary in furnishing the supply or service concerned. If reimbursement by the United States is also authorized under another provision of law or regulation, the individual may elect under which provision to be reimbursed.
 
-(c) Only the following persons may be designated to direct disposition of the remains of a decedent covered by this chapter:
+(c) The following persons may be designated to direct disposition of the remains of a decedent covered by this chapter:
 
-&emsp;(1) The surviving spouse of the decedent.
+&emsp;(1) The person identified by the decedent on the record of emergency data maintained by the Secretary concerned (DD Form 93 or any successor to that form), as the Person Authorized to Direct Disposition (PADD), regardless of the relationship of the designee to the decedent.
 
-&emsp;(2) Blood relatives of the decedent.
+&emsp;(2) The surviving spouse of the decedent.
 
-&emsp;(3) Adoptive relatives of the decedent.
+&emsp;(3) Blood relatives of the decedent.
 
-&emsp;(4) If no person covered by clauses (1)–(3) can be found, a person standing in loco parentis to the decedent.
+&emsp;(4) Adoptive relatives of the decedent.
+
+&emsp;(5) If no person covered by paragraphs (1) through (4) can be found, a person standing in loco parentis to the decedent.
 
 (d) When the remains of a decedent covered by section 1481 of this title, whose death occurs after January 1, 1961, are determined to be nonrecoverable, the person who would have been designated under subsection (c) to direct disposition of the remains if they had been recovered may be—
 
@@ -70,7 +72,7 @@ Presentation of Flag of the United States.—(1) In the case of a decedent cover
 
 (f) The payment of expenses incident to the recovery, care, and disposition of a decedent covered by section 1481(a)(9) of this title is limited to the payment of expenses described in paragraphs (1) through (5) of subsection (a) and air transportation of the remains from a location outside the United States to a point of entry in the United States. Such air transportation may be provided without reimbursement on a space-available basis in military or military-chartered aircraft. The Secretary concerned shall pay all other expenses authorized to be paid under this subsection only on a reimbursable basis. Amounts reimbursed to the Secretary concerned under this subsection shall be credited to appropriations available, at the time of reimbursement, for the payment of such expenses.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 113; Pub. L. 85–716, Aug. 21, 1958, 72 Stat. 708; Pub. L. 91–397, Sept. 1, 1970, 84 Stat. 837; Pub. L. 91–487, Oct. 22, 1970, 84 Stat. 1086; Pub. L. 93–292, May 28, 1974, 88 Stat. 176; Pub. L. 93–649, Jan. 8, 1975, 88 Stat. 2361; Pub. L. 101–189, div. A, title VI, §§652(a)(3), 653(a)(6), title XVI, §1622(c)(4), Nov. 29, 1989, 103 Stat. 1461, 1462, 1604; Pub. L. 103–337, div. A, title VI, §652(a)(2), title XVI, §1671(c)(8), Oct. 5, 1994, 108 Stat. 2793, 3014; Pub. L. 104–106, div. A, title XV, §1501(c)(19), Feb. 10, 1996, 110 Stat. 499; Pub. L. 107–107, div. A, title VI, §638(b)(1), Dec. 28, 2001, 115 Stat. 1147; Pub. L. 110–181, div. A, title V, §591, Jan. 28, 2008, 122 Stat. 138; Pub. L. 110–417, \[div. A\], title V, §581, Oct. 14, 2008, 122 Stat. 4472.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 113; Pub. L. 85–716, Aug. 21, 1958, 72 Stat. 708; Pub. L. 91–397, Sept. 1, 1970, 84 Stat. 837; Pub. L. 91–487, Oct. 22, 1970, 84 Stat. 1086; Pub. L. 93–292, May 28, 1974, 88 Stat. 176; Pub. L. 93–649, Jan. 8, 1975, 88 Stat. 2361; Pub. L. 101–189, div. A, title VI, §§652(a)(3), 653(a)(6), title XVI, §1622(c)(4), Nov. 29, 1989, 103 Stat. 1461, 1462, 1604; Pub. L. 103–337, div. A, title VI, §652(a)(2), title XVI, §1671(c)(8), Oct. 5, 1994, 108 Stat. 2793, 3014; Pub. L. 104–106, div. A, title XV, §1501(c)(19), Feb. 10, 1996, 110 Stat. 499; Pub. L. 107–107, div. A, title VI, §638(b)(1), Dec. 28, 2001, 115 Stat. 1147; Pub. L. 110–181, div. A, title V, §591, Jan. 28, 2008, 122 Stat. 138; Pub. L. 110–417, \[div. A\], title V, §581, Oct. 14, 2008, 122 Stat. 4472; Pub. L. 112–81, div. A, title V, §528, Dec. 31, 2011, 125 Stat. 1402.)
 
 Historical and Revision Notes
 
@@ -122,6 +124,8 @@ In subsection (c), 5:2162 (1st sentence) is omitted since the Secretary has inhe
 
 #### Amendments
 
+<b>2011</b>—Subsec. (c). Pub. L. 112–81 substituted “The” for “Only the” in introductory provisions, added par. (1), redesignated former pars. (1) to (4) as (2) to (5), respectively, and substituted “paragraphs (1) through (4)” for “clauses (1)–(3)” in par. (5).
+
 <b>2008</b>—Subsec. (a)(8). Pub. L. 110–181 inserted at end “When transportation of the remains includes transportation by aircraft under section 562 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 10 U.S.C. 1482 note), the Secretary concerned shall provide, to the maximum extent practicable, for delivery of the remains by air to the commercial, general aviation, or military airport nearest to the place selected by the designee.”
 
 Subsec. (a)(10), (11). Pub. L. 110–417, §581(b), struck out pars. (10) and (11) which read as follows:
@@ -132,7 +136,7 @@ Subsec. (a)(10), (11). Pub. L. 110–417, §581(b), struck out pars. (10) and (1
 
 Subsec. (e). Pub. L. 110–417, §581(a), designated existing provisions as par. (2), redesignated former pars. (1) and (2) of subsec. (e) as subpars. (A) and (B), respectively, of par. (2), inserted subsec. (e) heading, and added pars. (1) and (3) to (5).
 
-<b>2001</b>—Subsecs. (d) to (g). Pub. L. 107–107 redesignated subsecs. (e) to (g) as (d) to (f), respectively, and struckout former subsec. (d) which read as follows: “When, as a result of a disaster involving the multiple deaths of persons covered by section 1481 of this title, the Secretary concerned has possession of commingled remains that cannot be individually identified, and burial of those remains in a common grave in a national cemetery is considered necessary, he may, for the interment services of each known decedent, pay the expenses of round-trip transportation to the cemetery of (1) the person who would have been designated under subsection (c) to direct disposition of the remains if individual identification had been made, and (2) two additional persons selected by that person who are closely related to the decedent. The transportation expenses authorized to be paid under this subsection may not exceed the transportation allowances authorized for members of the armed forces for travel on official business, but no per diem allowance may be paid.”
+<b>2001</b>—Subsecs. (d) to (g). Pub. L. 107–107 redesignated subsecs. (e) to (g) as (d) to (f), respectively, and struck out former subsec. (d) which read as follows: “When, as a result of a disaster involving the multiple deaths of persons covered by section 1481 of this title, the Secretary concerned has possession of commingled remains that cannot be individually identified, and burial of those remains in a common grave in a national cemetery is considered necessary, he may, for the interment services of each known decedent, pay the expenses of round-trip transportation to the cemetery of (1) the person who would have been designated under subsection (c) to direct disposition of the remains if individual identification had been made, and (2) two additional persons selected by that person who are closely related to the decedent. The transportation expenses authorized to be paid under this subsection may not exceed the transportation allowances authorized for members of the armed forces for travel on official business, but no per diem allowance may be paid.”
 
 <b>1996</b>—Subsec. (f)(2). Pub. L. 104–106 inserted “section” before “12731”.
 

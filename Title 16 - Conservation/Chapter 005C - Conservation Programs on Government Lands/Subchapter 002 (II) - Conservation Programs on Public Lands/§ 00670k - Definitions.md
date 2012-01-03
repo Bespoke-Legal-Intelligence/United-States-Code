@@ -30,7 +30,11 @@ As used in this subchapter—
 
 &emsp;(6) The term “conservation and rehabilitation programs” means to utilize those methods and procedures which are necessary to protect, conserve, and enhance wildlife, fish, and game resources to the maximum extent practicable on public lands subject to this subchapter consistent with any overall land use and management plans for the lands involved. Such methods and procedures shall include, but shall not be limited to, all activities associated with scientific resources management such as protection, research, census, law enforcement, habitat management, propagation, live trapping and transplantation, and regulated taking in conformance with the provisions of this subchapter. Nothing in this term shall be construed as diminishing the authority or jurisdiction of the States with respect to the management of resident species of fish, wildlife, or game, except as otherwise provided by law.
 
-(Pub. L. 86–797, title II, §205, as added Pub. L. 93–452, §2, Oct. 18, 1974, 88 Stat. 1373.)
+(Pub. L. 86–797, title II, §205, as added Pub. L. 93–452, §2, Oct. 18, 1974, 88 Stat. 1373; amended Pub. L. 112–81, div. A, title III, §312(b)(11), Dec. 31, 2011, 125 Stat. 1355.)
+
+#### Amendments
+
+<b>2011</b>—Pub. L. 112–81 inserted section catchline.
 
 #### Transfer of Functions
 

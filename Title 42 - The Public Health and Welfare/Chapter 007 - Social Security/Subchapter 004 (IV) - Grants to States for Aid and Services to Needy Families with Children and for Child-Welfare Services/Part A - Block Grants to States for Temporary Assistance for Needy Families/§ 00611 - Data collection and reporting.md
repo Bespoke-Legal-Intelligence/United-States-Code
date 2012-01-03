@@ -56,7 +56,7 @@
 
 &emsp;&emsp;&emsp;(xii) Information necessary to calculate participation rates under section 607 of this title.
 
-&emsp;&emsp;&emsp;(xiii) The type and amount of assistance received under the program, including the amount of and reason for any reduction of assistance (including sanctions).
+&emsp;&emsp;&emsp;(xiii) The type and amount of assistance received under the program, including theamount of and reason for any reduction of assistance (including sanctions).
 
 &emsp;&emsp;&emsp;(xiv) Any amount of unearned income received by any member of the family.
 

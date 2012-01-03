@@ -6,5 +6,5 @@ The Clerk, Sergeant at Arms, and Chief Administrative Officer of the House of Re
 
 #### Amendments
 
-1996—Pub. L. 104–186 substituted “and Chief Administrative Officer” for “Doorkeeper, and Postmaster”.
+<b>1996</b>—Pub. L. 104–186 substituted “and Chief Administrative Officer” for “Doorkeeper, and Postmaster”.
 

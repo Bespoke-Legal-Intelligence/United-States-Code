@@ -10,7 +10,7 @@ For a prior section 3611, applicable to offenses committed prior to Nov. 1, 1987
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–132 substituted “Payment of a fine or restitution” for “Payment of a fine” in section catchline and “, assessment, or restitution, shall pay the fine, assessment, or restitution” for “or assessment shall pay the fine or assessment” in text.
+<b>1996</b>—Pub. L. 104–132 substituted “Payment of a fine or restitution” for “Payment of a fine” in sectioncatchline and “, assessment, or restitution, shall pay the fine, assessment, or restitution” for “or assessment shall pay the fine or assessment” in text.
 
 <b>1990</b>—Pub. L. 101–647 substituted “604(a)(18)” for “604(a)(17)”.
 

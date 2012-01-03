@@ -72,7 +72,7 @@ Section 507 of the International Maritime Satellite Telecommunications Act, refe
 
 Subsec. (d)(1)(B)(ii). Pub. L. 111–84, §1032(b), inserted “validated” before “performance requirements” and “in accordance with Office of Management and Budget Circular A–109” after “Plan”.
 
-Subsec. (d)(2). Pub. L. 111–84, §1032(a)(2), added par. (2) and struck out former par. (2), which read as follows: “In preparing the parts of each such report required under subparagraphs (C), (D), (E), (F), and (G) of paragraph (1), the Secretary of Defense shall consult with the Secretary of State, the Secretary of Commerce, and the Secretary of Transportation.”
+Subsec. (d)(2). Pub. L. 111–84, §1032(a)(2), added par. (2) and struck out former par. (2), which read as follows:“In preparing the parts of each such report required under subparagraphs (C), (D), (E), (F), and (G) of paragraph (1), the Secretary of Defense shall consult with the Secretary of State, the Secretary of Commerce, and the Secretary of Transportation.”
 
 <b>2003</b>—Subsec. (d)(1)(C). Pub. L. 108–136, §914(a)(1), (2), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “The most recent determination by the President regarding continued use of the selective availability feature of the system and the expected date of any change or elimination of the use of that feature.”
 
@@ -85,6 +85,10 @@ Subsec. (d)(1)(F). Pub. L. 108–136, §914(a)(4), added subpar. (F) and struck 
 Subsec. (d)(2). Pub. L. 108–136, §914(b), inserted “(C),” after “under subparagraphs”.
 
 <b>1999</b>—Subsec. (d)(1). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security” in introductory provisions.
+
+#### Use of Funds for Global Positioning System
+
+Pub. L. 112–10, div. A, title VIII, §8068, Apr. 15, 2011, 125 Stat. 73, provided that: “Funds available to the Department of Defense for the Global Positioning System during the current fiscal year, and hereafter, may be used to fund civil requirements associated with the satellite and ground control segments of such system's modernization program.”
 
 #### Limitation on Use of Funds for Purchasing Global Positioning System User Equipment
 
@@ -164,7 +168,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;“(1) The Global Positioning System (consisting of a constellation of satellites and associated facilities capable of providing users on earth with a highly precise statement of their location on earth) makes significant contributions to the attainment of the national security and foreign policy goals of the United States, the safety and efficiency of international transportation, and the economic growth, trade, and productivity of the United States.
 
-&emsp;“(2) The infrastructure for the Global Positioning System (including both space and ground segments of the infrastructure) is vital to the effectiveness of United States and allied military forces and to the protection of the national security interests of the United States.
+&emsp;“(2) The infrastructure for the Global Positioning System (including both space and ground segments of the infrastructure) is vital to the effectiveness ofUnited States and allied military forces and to the protection of the national security interests of the United States.
 
 &emsp;“(3) In addition to having military uses, the Global Positioning System has essential civil, commercial, and scientific uses.
 

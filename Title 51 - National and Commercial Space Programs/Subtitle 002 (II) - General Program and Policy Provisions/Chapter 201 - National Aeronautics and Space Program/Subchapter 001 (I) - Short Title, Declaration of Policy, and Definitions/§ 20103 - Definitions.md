@@ -1,0 +1,40 @@
+### §20103. Definitions
+
+In this chapter:
+
+&emsp;(1)
+
+Aeronautical and space activities.—The term “aeronautical and space activities” means—
+
+&emsp;&emsp;(A) research into, and the solution of, problems of flight within and outside the Earth's atmosphere;
+
+&emsp;&emsp;(B) the development, construction, testing, and operation for research purposes of aeronautical and space vehicles;
+
+&emsp;&emsp;(C) the operation of a space transportation system including the space shuttle, upper stages, space platforms, and related equipment; and
+
+&emsp;&emsp;(D) such other activities as may be required for the exploration of space.
+
+&emsp;(2)
+
+Aeronautical and space vehicles.—The term “aeronautical and space vehicles” means aircraft, missiles, satellites, and other space vehicles, manned and unmanned, together with related equipment, devices, components, and parts.
+
+(Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3332.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+20103
+
+42 U.S.C. 2452.
+
+Pub. L. 85–568, title I, §103, July 29, 1958, 72 Stat. 427; Pub. L. 98–52, title I, §108, July 15, 1983, 97 Stat. 285.
+
+In paragraph (1)(A), the word “Earth's” is capitalized for consistency in title 51.
+

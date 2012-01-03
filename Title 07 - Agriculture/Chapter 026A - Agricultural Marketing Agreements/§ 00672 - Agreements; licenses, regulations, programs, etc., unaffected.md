@@ -14,7 +14,7 @@ The Agricultural Adjustment Act, referred to in text, is title I of act May 12, 
 
 #### Amendments
 
-1948—Act July 3, 1948, designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1948</b>—Act July 3, 1948, designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 1948 Amendment
 

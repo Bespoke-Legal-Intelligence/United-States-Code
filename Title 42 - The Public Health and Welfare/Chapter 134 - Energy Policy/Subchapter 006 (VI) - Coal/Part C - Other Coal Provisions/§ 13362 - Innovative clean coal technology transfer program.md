@@ -18,7 +18,7 @@ The purposes of the technology transfer program under this section are to—
 
 &emsp;(5) better ensure that United States participation in energy-related projects in foreign countries includes participation by United States firms as well as utilization of United States technologies that have been developed or demonstrated in the United States through publicly or privately funded demonstration programs;
 
-&emsp;(6) provide for the accelerated deployment of United States technologies that will serve to introduce into foreign countries United Statestechnologies intended to use coal resources in a more efficient, cost-effective, and environmentally acceptable manner;
+&emsp;(6) provide for the accelerated deployment of United States technologies that will serve to introduce into foreign countries United States technologies intended to use coal resources in a more efficient, cost-effective, and environmentally acceptable manner;
 
 &emsp;(7) serve to ensure the introduction of United States firms and expertise in foreign countries;
 
@@ -80,7 +80,7 @@ Pursuant to the agreements under subsection (a) of this section, the Secretary, 
 
 &emsp;(1) establish eligibility criteria for countries that will host projects;
 
-&emsp;(2) periodically review the energy needs of such countries and export opportunities forUnited States firms for the development of projects in such countries;
+&emsp;(2) periodically review the energy needs of such countries and export opportunities for United States firms for the development of projects in such countries;
 
 &emsp;(3) consult with government officials in host countries and, as appropriate, with representatives of utilities or other entities in host countries, to determine interest in and support for potential projects; and
 
@@ -142,7 +142,7 @@ For purposes of this section, the term “host country” means a foreign countr
 
 &emsp;(2) either—
 
-&emsp;&emsp;(A) classified as a country eligible to participate in development assistance programs of the Agency for International Development pursuant to applicable law or regulation; or
+&emsp;&emsp;(A) classified as a country eligible to participate in development assistance programsof the Agency for International Development pursuant to applicable law or regulation; or
 
 &emsp;&emsp;(B) a developing country or country with an economy in transition from a nonmarket to a market economy.
 

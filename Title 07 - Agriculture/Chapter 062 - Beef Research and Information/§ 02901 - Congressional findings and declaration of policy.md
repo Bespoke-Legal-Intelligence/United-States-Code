@@ -20,7 +20,7 @@
 
 #### Amendments
 
-1985—Pub. L. 99–198 amended section generally.
+<b>1985</b>—Pub. L. 99–198 amended section generally.
 
 #### Effective Date of 1985 Amendment
 

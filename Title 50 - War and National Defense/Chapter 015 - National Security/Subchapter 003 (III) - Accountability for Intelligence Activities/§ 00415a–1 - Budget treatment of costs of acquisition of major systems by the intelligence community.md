@@ -4,9 +4,11 @@
 
 (1) The Director of National Intelligence shall, in consultation with the head of each element of the intelligence community concerned, prepare an independent cost estimate of the full life-cycle cost of development, procurement, and operation of each major system to be acquired by the intelligence community.
 
-(2) Each independent cost estimate for a major system shall, to the maximum extent practicable, specify the amount required to be appropriated and obligated to develop, procure, and operate the major system in each fiscal year of the proposed period of development, procurement, and operation of the major system.
+(2)(A) Each independent cost estimate for a major system shall, to the maximum extent practicable, specify the amount required to be appropriated and obligated to develop, procure, and operate the major system in each fiscal year of the proposed period of development, procurement, and operation of the major system.
 
-(3)(A) In the case of a program of the intelligence community that qualifies as a major system, an independent cost estimate shall beprepared before the submission to Congress of the budget of the President for the first fiscal year in which appropriated funds are anticipated to be obligated for the development or procurement of such major system.
+(B) For major system acquisitions requiring a service or capability from another acquisition or program to deliver the end-to-end functionality for the intelligence community end users, independent cost estimates shall include, to the maximum extent practicable, all estimated costs across all pertinent elements of the intelligence community. For collection programs, such cost estimates shall include the cost of new analyst training, new hardware and software for data exploitation and analysis, and any unique or additional costs for data processing, storing, and power, space, and cooling across the life cycle of the program. If such costs for processing, exploitation, dissemination, and storage are scheduled to be executed in other elements of the intelligence community, the independent cost estimate shall identify and annotate such costs for such other elements accordingly.
+
+(3)(A) In the case of a program of the intelligence community that qualifies as a major system, an independent cost estimate shall be prepared before the submission to Congress of the budget of the President for the first fiscal year in which appropriated funds are anticipated to be obligated for the development or procurement of such major system.
 
 (B) In the case of a program of the intelligence community for which an independent cost estimate was not previously required to be prepared under this section, including a program for which development or procurement commenced before December 13, 2003, if the aggregate future costs of development or procurement (or any combination of such activities) of the program will exceed $500,000,000 (in current fiscal year dollars), the program shall qualify as a major system for purposes of this section, and an independent cost estimate for such major system shall be prepared before the submission to Congress of the budget of the President for the first fiscal year thereafter in which appropriated funds are anticipated to be obligated for such major system.
 
@@ -36,7 +38,7 @@
 
 &emsp;(B) a description of the importance of the major system to the national security;
 
-&emsp;(C) an assessment of the consequences for the funding of all programs of the National Foreign Intelligence Program in future fiscal years if the most current independent cost estimate for the major system is accurate and additional appropriations are required in future fiscal years to ensure the continued development or procurement of the major system, including the consequences of such funding shortfalls on the major system and all other programs of the National Foreign Intelligence Program; and
+&emsp;(C) an assessment of the consequences for the funding of all programs of the National Intelligence Program in future fiscal years if the most current independent cost estimate for the major system is accurate and additional appropriations are required in future fiscal years to ensure the continued development or procurement of the major system, including the consequences of such funding shortfalls on the major system and all other programs of the National Intelligence Program; and
 
 &emsp;(D) such other information on the funding of the major system as the President considers appropriate.
 
@@ -50,13 +52,25 @@ In this section:
 
 &emsp;(1) The term “budget of the President” means the budget of the President for a fiscal year as submitted to Congress under section 1105(a) of title 31.
 
-&emsp;(2) The term “independent cost estimate” means a pragmatic and neutral analysis, assessment, and quantification of all costs and risks associated with the acquisition of a major system, which shall be based on programmatic and technical specifications provided by the office within the element of the intelligence community with primary responsibility for the development, procurement, or operation of the major system.
+&emsp;(2)(A) The term “independent cost estimate” means a pragmatic and neutral analysis, assessment, and quantification of all costs and risks associated with the development, acquisition, procurement, operation, and sustainment of a major system across its proposed life cycle, which shall be based on programmatic and technical specifications provided by the office within the element of the intelligence community with primary responsibility for the development, procurement, or operation of the major system.
+
+&emsp;(B) In accordance with subsection (a)(2)(B), each independent cost estimate shall include all costs required across elements of the intelligence community to develop, acquire, procure, operate, and sustain the system to provide the end-to-end intelligence functionality of the system, including—
+
+&emsp;&emsp;(i) for collection programs, the cost of new analyst training, new hardware and software for data exploitation and analysis, and any unique or additional costs for data processing, storing, and power, space, and cooling across the life cycle of the program; and
+
+&emsp;&emsp;(ii) costs for processing, exploitation, dissemination, and storage scheduled to be executed in other elements of the intelligence community.
 
 &emsp;(3) The term “major system” means any significant program of an element of the intelligence community with projected total development and procurement costs exceeding $500,000,000 (based on fiscal year 2010 constant dollars), which costs shall include all end-to-end program costs, including costs associated with the development and procurement of the program and any other costs associated with the development and procurement of systems required to support or utilize the program.
 
-(July 26, 1947, ch. 343, title V, §506A, as added Pub. L. 108–177, title III, §312(b)(1), Dec. 13, 2003,117 Stat. 2607; amended Pub. L. 108–458, title I, §§1071(a)(1)(BB), 1072(a)(6), Dec. 17, 2004, 118 Stat. 3689, 3692; Pub. L. 111–259, title III, §321(b), Oct. 7, 2010, 124 Stat. 2669.)
+(July 26, 1947, ch. 343, title V, §506A, as added Pub. L. 108–177, title III, §312(b)(1), Dec. 13, 2003, 117 Stat. 2607; amended Pub. L. 108–458, title I, §§1071(a)(1)(BB), 1072(a)(6), Dec. 17, 2004, 118 Stat. 3689, 3692; Pub. L. 111–259, title III, §321(b), Oct. 7, 2010, 124 Stat. 2669; Pub. L. 112–87, title III, §306(a), title V, §505(3), Jan. 3, 2012, 125 Stat. 1881, 1897.)
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a)(2). Pub. L. 112–87, §306(a)(1), designated existing provisions as subpar. (A) and added subpar. (B).
+
+Subsec. (c)(2)(C). Pub. L. 112–87, §505(3), substituted “National Intelligence Program” for “National Foreign Intelligence Program” in two places.
+
+Subsec. (e)(2). Pub. L. 112–87, §306(a)(2), designated existing provisions as subpar. (A), substituted “associated with the development, acquisition, procurement, operation, and sustainment of a major system across its proposed life cycle,” for “associated with the acquisition of a major system,”, and added subpar. (B).
 
 <b>2010</b>—Subsec. (e)(3). Pub. L. 111–259 substituted “(based on fiscal year 2010 constant dollars)” for “(in current fiscal year dollars)”.
 
@@ -64,11 +78,15 @@ In this section:
 
 Subsec. (b)(1). Pub. L. 108–458, §1072(a)(6), substituted “Office of the Director of National Intelligence” for “Office of the Deputy Director of Central Intelligence”.
 
+#### Effective Date of 2012 Amendment
+
+Pub. L. 112–87, title III, §306(b), Jan. 3, 2012, 125 Stat. 1882, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date that is 180 days after the date of the enactment of this Act \[Jan. 3, 2012\].”
+
 #### Effective Date of 2004 Amendment
 
 For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of this title.
 
-Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
+Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L.108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 
 #### Effective Date
 

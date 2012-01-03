@@ -2,7 +2,7 @@
 
 (a)
 
-Eligibility of Members.—A member of the National Guard who, although not in Federal service, is called or ordered to duty in response to a federally declared disaster or national emergency shall be permitted to use commissary stores and MWR retail facilities during the period of such duty on the same basis as members of the armed forces on active duty.
+Eligibility of Members.—A member of the National Guard who, although not in Federalservice, is called or ordered to duty in response to a federally declared disaster or national emergency shall be permitted to use commissary stores and MWR retail facilities during the period of such duty on the same basis as members of the armed forces on active duty.
 
 (b)
 

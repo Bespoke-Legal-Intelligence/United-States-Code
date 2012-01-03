@@ -16,5 +16,5 @@ Section 1178(a) of Pub. L. 103–160 provided that: “The Congress finds the fo
 
 &emsp;“(2) Many friendly foreign nations cannot afford to reimburse the United States for the cost of such training.
 
-&emsp;“(3) It is in the interest of the United States that the Secretary of the Air Force establish a program totrain in the United States pilots from the air forces of friendly, less developed foreign nations.”
+&emsp;“(3) It is in the interest of the United States that the Secretary of the Air Force establish a program to train in the United States pilots from the air forces of friendly, less developed foreign nations.”
 

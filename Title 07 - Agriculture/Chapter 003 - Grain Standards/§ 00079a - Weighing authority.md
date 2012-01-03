@@ -12,7 +12,7 @@ The Secretary is authorized to cause official weighing or supervision of weighin
 
 (1) With respect to official weighing or supervision of weighing for locations at which official inspection is provided by the Secretary, the Secretary shall cause such official weighing or supervision of weighing to be performed by official inspection personnel employed by the Secretary.
 
-(2) With respect to official weighing or supervision of weighing for any location at which official inspection is provided other than by the Secretary, the Secretary is authorized, with respect to export port locations, to delegate authority to perform official weighing or supervision of weighing to the State agency providing official inspection service at such location, and with respect to any other location, to designate the agency or person providing official inspection service at such location to perform official weighing or supervision of weighing, if such agency or person qualifies for a delegation of authority or designation under section 79 of thistitle, except that where the term “official inspection” is used in such section it shall be deemed to refer to “official weighing” or “supervision of weighing” under this section. If such agency or person is not available to perform such weighing services, or the Secretary determines that such agency or person is not qualified to perform such weighing services, then (A) at export port locations official weighing or supervision of weighing shall be performed by official inspection personnel employed by the Secretary, and (B) at any other location, the Secretary is authorized to cause official weighing or supervision of weighing to be performed by official inspection personnel employed by the Secretary or designate any State or local governmental agency, or any person to perform official weighing or supervision of weighing, if such agency or person meets the same criteria that agencies must meet to be designated to perform official inspection as set out in section 79 of this title, except that where the term “official inspection” is used in such section it shall be deemed to refer to “official weighing” or “supervision of weighing” under this section. Delegations and designations made pursuant to this subsection shall be subject to the same provisions for delegations and designations set forth in subsection (g) of section 79 of this title.
+(2) With respect to official weighing or supervision of weighing for any location at which official inspection is provided other than by the Secretary, the Secretary is authorized, with respect to export port locations, to delegate authority to perform official weighing or supervision of weighing to the State agency providing official inspection service at such location, and with respect to any other location, to designate the agency or person providing official inspection service at such location to perform official weighing or supervision of weighing, if such agency or person qualifies for a delegation of authority or designation under section 79 of this title, except that where the term “official inspection” is used in such section it shall be deemed to refer to “official weighing” or “supervision of weighing” under this section. If such agency or person is not available to perform such weighing services, or the Secretary determines that such agency or person is not qualified to perform such weighing services, then (A) at export port locations official weighing or supervision of weighing shall be performed by official inspection personnel employed by the Secretary, and (B) at any other location, the Secretary is authorized to cause official weighing or supervision of weighing to be performed by official inspection personnel employed by the Secretary or designate any State or local governmental agency, or any person to perform official weighing or supervision of weighing, if such agency or person meets the same criteria that agencies must meet to be designated to perform official inspection as set out in section 79 of this title, except that where the term “official inspection” is used in such section it shall be deemed to refer to “official weighing” or “supervision of weighing” under this section. Delegations and designations made pursuant to this subsection shall be subject to the same provisions for delegations and designations set forth in subsection (g) of section 79 of this title.
 
 #### (d) Official weighing in Canadian ports
 
@@ -42,7 +42,7 @@ No State or local governmental agency or person shall weigh or state in any docu
 
 #### (2) Geographic boundaries for official agencies
 
-&emsp;Not more than one designated official agency referred to in paragraph (1) or State agency delegated authority pursuant to subsection (c)(2) of this section to carry out the weighing provisions of this chapter shall be operative at the same time in any geographic area defined by the Secretary, except that, if the Secretary determines that the presence of more than one designated official agency in the same geographic area will not undermine the policystated in section 74 of this title, the Secretary may—
+&emsp;Not more than one designated official agency referred to in paragraph (1) or State agency delegated authority pursuant to subsection (c)(2) of this section to carry out the weighing provisions of this chapter shall be operative at the same time in any geographic area defined by the Secretary, except that, if the Secretary determines that the presence of more than one designated official agency in the same geographic area will not undermine the policy stated in section 74 of this title, the Secretary may—
 
 &emsp;&emsp;(A) allow more than one designated official agency to carry out the weighing provisions within the same geographical area as part of a pilot program; and
 
@@ -76,15 +76,15 @@ The United States Warehouse Act, referred to in subsec. (j), is part C of act Au
 
 #### Amendments
 
-2005—Subsec. (<i>l</i>)(3). Pub. L. 109–83 substituted “2015” for “2005”.
+<b>2005</b>—Subsec. (<i>l</i>)(3). Pub. L. 109–83 substituted “2015” for “2005”.
 
-2000—Subsec. (i). Pub. L. 106–472, §102(b), inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, struck out second sentence, which prohibited more than one official agency or State delegated authority from operating at one time in any geographic area except as permitted in pilot programs, and added par. (2).
+<b>2000</b>—Subsec. (i). Pub. L. 106–472, §102(b), inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, struck out second sentence, which prohibited more than one official agency or State delegated authority from operating at one time in any geographic area except as permitted in pilot programs, and added par. (2).
 
 Subsec. (<i>l</i>)(3). Pub. L. 106–472, §103(b), substituted “2005” for “2000” in first sentence.
 
-1994—Pub. L. 103–354 substituted “supervision by the Secretary of the Secretary's field office personnel” for“supervision by Service personnel of its field office personnel” in first sentence of subsec. (<i>l</i>)(2) and substituted “Secretary” for “Administrator” and “Service” wherever appearing in subsecs. (a) to (f) and (i) to (<i>l</i>).
+<b>1994</b>—Pub. L. 103–354 substituted “supervision by the Secretary of the Secretary's field office personnel” for “supervision by Service personnel of its field office personnel” in first sentence of subsec. (<i>l</i>)(2) and substituted “Secretary” for “Administrator” and “Service” wherever appearing in subsecs. (a) to (f) and (i) to (<i>l</i>).
 
-1993—Subsec. (c)(2). Pub. L. 103–156, §4(b)(1), in second sentence, substituted “ ‘official weighing’ or ‘supervision of weighing’ ” for “ ‘supervision of weighing’ ”.
+<b>1993</b>—Subsec. (c)(2). Pub. L. 103–156, §4(b)(1), in second sentence, substituted “ ‘official weighing’ or ‘supervision of weighing’ ” for “ ‘supervision of weighing’ ”.
 
 Subsec. (d). Pub. L. 103–156, §4(b)(2), inserted before period at end of second sentence “or as otherwise provided by agreement with the Canadian Government”.
 
@@ -94,11 +94,11 @@ Subsec. (i). Pub. L. 103–156, §§4(b)(3), 5(b), inserted before period at end
 
 Subsec. (<i>l</i>)(3). Pub. L. 103–156, §14(b), added par. (3).
 
-1988—Subsec. (<i>l</i>). Pub. L. 100–518 amended subsec. (<i>l</i>) generally, substituting “cover the costs of the Service” for “cover the costs of the service” in par. (1).
+<b>1988</b>—Subsec. (<i>l</i>). Pub. L. 100–518 amended subsec. (<i>l</i>) generally, substituting “cover the costs of the Service” for “cover the costs of the service” in par. (1).
 
-1981—Subsec. (<i>l</i>). Pub. L. 97–35 temporarily designated existing provisions as par. (1), made changes in nomenclature, provided for inclusion, rather than exclusion, of administrative and supervisory costs, and struck out provisions respecting availability of deposited funds, and added par. (2). See Effective and Termination Dates of 1981 Amendment note below.
+<b>1981</b>—Subsec. (<i>l</i>). Pub. L. 97–35 temporarily designated existing provisions as par. (1), made changes in nomenclature, provided for inclusion, rather than exclusion, of administrative and supervisory costs, and struck out provisions respecting availability of deposited funds, and added par. (2). See Effective and Termination Dates of 1981 Amendment note below.
 
-1977—Subsec. (a). Pub. L. 95–113, §1606(e), substituted “standards or procedures” for “standards”.
+<b>1977</b>—Subsec. (a). Pub. L. 95–113, §1606(e), substituted “standards or procedures” for “standards”.
 
 Subsec. (b). Pub. L. 95–113, §§1604(e)(1), 1606(e), substituted “The Administrator is authorized to cause official weighing or supervision of weighing under standards or procedures” for “The Administrator is authorized to cause supervision of weighing under standards” and “other than at export elevators at export port locations” for “other than at export port locations”.
 

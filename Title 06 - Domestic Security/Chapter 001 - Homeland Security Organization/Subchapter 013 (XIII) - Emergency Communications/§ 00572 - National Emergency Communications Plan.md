@@ -44,5 +44,5 @@ Another section 1802 of Pub. L. 107–296 was renumbered section 1902 and is cla
 
 #### Amendments
 
-2007—Subsec. (c)(10). Pub. L. 110–53 added par. (10).
+<b>2007</b>—Subsec. (c)(10). Pub. L. 110–53 added par. (10).
 

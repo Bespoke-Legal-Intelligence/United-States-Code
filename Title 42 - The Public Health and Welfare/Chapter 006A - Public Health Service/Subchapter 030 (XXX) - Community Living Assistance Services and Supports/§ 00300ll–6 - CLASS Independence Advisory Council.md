@@ -40,7 +40,7 @@ The CLASS Independence Advisory Council shall advise the Secretary on matters of
 
 #### (d) Application of FACA
 
-The Federal Advisory Committee Act (5 U.S.C. App.), other than section 14 of that Act, shallapply to the CLASS Independence Advisory Council.
+The Federal Advisory Committee Act (5 U.S.C. App.), other than section 14 of that Act, shall apply to the CLASS Independence Advisory Council.
 
 #### (e) Authorization of appropriations
 

@@ -38,7 +38,7 @@ For purposes of this chapter, in the case of a nonresident not a citizen of the 
 
 #### Effective and Termination Dates of 2010 Amendment
 
-Amendment by Pub. L. 111–312 applicable to estates of decedents dying, generation-skipping transfers, and gifts made, after Dec. 31, 2009, see section 302(f) of Pub.L. 111–312, set out as a note under section 2001 of this title.
+Amendment by Pub. L. 111–312 applicable to estates of decedents dying, generation-skipping transfers, and gifts made, after Dec. 31, 2009, see section 302(f) of Pub. L. 111–312, set out as a note under section 2001 of this title.
 
 Section 901 of Pub. L. 107–16 applicable to amendments by section 302(e) of Pub. L. 111–312, see section 304 of Pub. L. 111–312, set out as a note under section 121 of this title.
 

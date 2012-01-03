@@ -56,7 +56,7 @@
 
 #### Amendments
 
-1994—Subsec. (d)(1). Pub. L. 103–424, §4(a), added par. (1) and struck out former par. (1) which read as follows: “At the request of an employee, former employee, or applicant for employment seeking corrective action under subsection (a), the Board may issue a subpoena for the attendance and testimony of any person or the production of documentary or other evidence from any person if the Board finds that such subpoena is necessary for the development of relevant evidence.”
+<b>1994</b>—Subsec. (d)(1). Pub. L. 103–424, §4(a), added par. (1) and struck out former par. (1) which read as follows: “At the request of an employee, former employee, or applicant for employment seeking corrective action under subsection (a), the Board may issue a subpoena for the attendance and testimony of any person or the production of documentary or other evidence from any person if the Board finds that such subpoena is necessary for the development of relevant evidence.”
 
 Subsec. (e)(1). Pub. L. 103–424, §4(b), which directed the amendment of section 1221(e)(1), without specifying the Code title to be amended, by inserting at end “The employee may demonstrate that the disclosure was a contributing factor in the personnel action through circumstantial evidence, such as evidence that—
 

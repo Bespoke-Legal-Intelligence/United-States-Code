@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-If any advertisement to aid, promote, or assist, directly or indirectly, the extension of consumer credit through an open end consumer credit plan under which extensions of credit are secured by the consumer's principal dwelling states, affirmatively or negatively, any of the specific terms of the plan, including any periodic payment amount required under such plan, such advertisement shall also clearly and conspicuously set forth the following information, in such form and manner as the Board may require:
+If any advertisement to aid, promote, or assist, directly or indirectly, the extension of consumer credit through an open end consumer credit plan under which extensions of credit are secured by the consumer's principal dwelling states, affirmatively or negatively, any of the specific terms of the plan, including any periodic payment amount required under such plan, such advertisement shall also clearly and conspicuously set forth the following information, in such form and manner as the Bureau may require:
 
 #### (1) Loan fees and opening cost estimates
 
@@ -18,7 +18,7 @@ If any advertisement to aid, promote, or assist, directly or indirectly, the ext
 
 #### (4) Other information
 
-&emsp;Any other information the Board may by regulation require.
+&emsp;Any other information the Bureau may by regulation require.
 
 #### (b) Tax deductibility
 
@@ -28,7 +28,7 @@ If any advertisement to aid, promote, or assist, directly or indirectly, the ext
 
 #### (2) Credit in excess of fair market value
 
-&emsp;Each advertisement described in subsection (a) of this section that relates to an extension of credit that may exceed the fair market value of the dwelling, and which advertisement is disseminated in paper form to the public or through the Internet, as opposed to by radio or television, shall include a clear and conspicuous statement that—
+&emsp;Each advertisement described in subsection (a) of this section that relates to an extensionof credit that may exceed the fair market value of the dwelling, and which advertisement is disseminated in paper form to the public or through the Internet, as opposed to by radio or television, shall include a clear and conspicuous statement that—
 
 &emsp;&emsp;(A) the interest on the portion of the credit extension that is greater than the fair market value of the dwelling is not tax deductible for Federal income tax purposes; and
 
@@ -36,7 +36,7 @@ If any advertisement to aid, promote, or assist, directly or indirectly, the ext
 
 #### (c) Certain terms prohibited
 
-No advertisement described in subsection (a) of this section with respect to any home equity account may refer to such loan as “free money” or use other terms determined by the Board by regulation to be misleading.
+No advertisement described in subsection (a) of this section with respect to any home equity account may refer to such loan as “free money” or use other terms determined by the Bureau by regulation to be misleading.
 
 #### (d) Discounted initial rate
 
@@ -66,11 +66,9 @@ For purposes of this section and section 1637a of this title, the term “balloo
 
 (Pub. L. 90–321, title I, §147, as added Pub. L. 100–709, §2(c), Nov. 23, 1988, 102 Stat. 4730; amended Pub. L. 109–8, title XIII, §1302(a)(2), Apr. 20, 2005, 119 Stat. 208; Pub. L. 111–203, title X, §1100A(2), July 21, 2010, 124 Stat. 2107.)
 
-#### Amendment of Section
-
-<i>Pub. L. 111–203, title X, §§1100A(2), 1100H, July 21, 2010, 124 Stat. 2107, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Board” each place that term appears and inserting “Bureau”. See Effective Date of 2010 Amendment note below.</i>
-
 #### Amendments
+
+<b>2010</b>—Subsecs. (a), (c). Pub. L. 111–203 substituted “Bureau” for “Board” wherever appearing.
 
 <b>2005</b>—Subsec. (b). Pub. L. 109–8 designated existing provisions as par. (1), inserted par. heading, and added par. (2).
 

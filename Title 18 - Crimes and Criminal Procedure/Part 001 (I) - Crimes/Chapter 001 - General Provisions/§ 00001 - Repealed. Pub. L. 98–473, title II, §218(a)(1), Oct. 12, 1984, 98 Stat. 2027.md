@@ -6,6 +6,10 @@ Section, acts June 25, 1948, ch. 645, 62 Stat. 684; Oct. 30, 1984, Pub. L. 98–
 
 Repeal of section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
 
+#### Short Title of 2011 Amendment
+
+Pub. L. 112–44, §1, Oct. 21, 2011, 125 Stat. 532, provided that: “This Act \[enacting provisions set out as a note under section 3551 of this title\] may be cited as the ‘United States Parole Commission Extension Act of 2011’.”
+
 #### Short Title of 2010 Amendment
 
 Pub. L. 111–307, §1, Dec. 14, 2010, 124 Stat. 3282, provided that: “This Act \[amending section 42 of this title\] may be cited as the ‘Asian Carp Prevention and Control Act’.”
@@ -32,7 +36,7 @@ Pub. L. 110–407, §1, Oct. 13, 2008, 122 Stat. 4296, provided that: “This Ac
 
 Pub. L. 110–358, title I, §101, Oct. 8, 2008, 122 Stat. 4001, provided that: “This title \[amending sections 2251, 2251A, 2252 and 2252A of this title and enacting provisions set out as a note under section 2251 of this title\] may be cited as the ‘Effective Child Pornography Prosecution Act of 2007’.”
 
-Pub. L. 110–358, title II, §201, Oct. 8, 2008, 122 Stat. 4003, provided that: “This title \[amending sections 1956,2252 and 2252A of this title\] may be cited as the ‘Enhancing the Effective Prosecution of Child Pornography Act of 2007’.”
+Pub. L. 110–358, title II, §201, Oct. 8, 2008, 122 Stat. 4003, provided that: “This title \[amending sections 1956, 2252 and 2252A of this title\] may be cited as the ‘Enhancing the Effective Prosecution of Child Pornography Act of 2007’.”
 
 Pub. L. 110–340, §1, Oct. 3, 2008, 122 Stat. 3735, provided that: “This Act \[enacting sections 2442 and 3300 of this title, amending sections 1182 and 1227 of Title 8, Aliens and Nationality, and enacting provisions set out as a note under section 1158 of Title 8\] may be cited as the ‘Child Soldiers Accountability Act of 2008’.”
 
@@ -88,11 +92,11 @@ Pub. L. 108–21, §1(a), Apr. 30, 2003, 117 Stat. 650, provided that: “This A
 
 #### Short Title of 2002 Amendment
 
-Pub. L. 107–273, div. B, title IV, §4001, Nov. 2, 2002, 116 Stat. 1806, provided that: “This title \[see Tables for classification\] may be cited as the ‘Criminal Law Technical Amendments Act of 2002’.”
+Pub. L. 107–273, div. B, title IV, §4001, Nov. 2, 2002, 116 Stat. 1806, provided that: “This title \[see Tables forclassification\] may be cited as the ‘Criminal Law Technical Amendments Act of 2002’.”
 
 #### Short Title of 2001 Amendment
 
-Pub. L. 107–56, §1(a), Oct. 26, 2001, 115 Stat. 272, as amended by Pub. L. 109–177, title I, §101(b), Mar. 9, 2006, 120 Stat. 194, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Uniting andStrengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001’ or the ‘USA PATRIOT Act’.”
+Pub. L. 107–56, §1(a), Oct. 26, 2001, 115 Stat. 272, as amended by Pub. L. 109–177, title I, §101(b), Mar. 9, 2006, 120 Stat. 194, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001’ or the ‘USA PATRIOT Act’.”
 
 #### Short Title of 1998 Amendments
 

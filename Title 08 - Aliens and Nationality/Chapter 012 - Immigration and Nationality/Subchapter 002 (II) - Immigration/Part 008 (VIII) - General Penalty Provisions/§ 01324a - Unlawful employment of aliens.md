@@ -384,13 +384,13 @@ The Social Security Act, referred to in subsec. (d)(3)(D)(iii), (E), is act Aug.
 
 #### Amendments
 
-2004—Subsec. (b)(1)(A). Pub. L. 108–390, §1(a)(1), inserted “Such attestation may be manifested by either a hand-written or an electronic signature.” before “A person or entity has complied” in concluding provisions.
+<b>2004</b>—Subsec. (b)(1)(A). Pub. L. 108–390, §1(a)(1), inserted “Such attestation may be manifested by either a hand-written or an electronic signature.” before “A person or entity has complied” in concluding provisions.
 
 Subsec. (b)(2). Pub. L. 108–390, §1(a)(2), inserted at end “Such attestation may be manifested by either a hand-written or an electronic signature.”
 
 Subsec. (b)(3). Pub. L. 108–390, §1(a)(3), inserted “a paper, microfiche, microfilm, or electronic version of” after “must retain” in introductory provisions.
 
-1996—Subsec. (a)(6). Pub. L. 104–208, §412(b), added par. (6).
+<b>1996</b>—Subsec. (a)(6). Pub. L. 104–208, §412(b), added par. (6).
 
 Subsec. (a)(7). Pub. L. 104–208, §412(d), added par. (7).
 
@@ -418,19 +418,19 @@ Pub. L. 104–208, §379(a)(1), substituted “unless either (A) within 30 days,
 
 Subsecs. (i) to (n). Pub. L. 104–208, §412(c), struck out subsec. (i) which provided effective dates for implementation of this section, subsec. (j) which required General Accounting Office reports on implementation of this section, subsec. (k) which established a taskforce to review reports, subsec. (<i>l</i>) which provided a termination date for employer sanctions under this section upon finding of widespread discrimination in implementing this section, and subsecs. (m) and (n) which provided for expedited procedures in House of Representatives and Senate for considering resolutions to approve findings in the reports.
 
-1994—Subsec. (b)(3). Pub. L. 103–416, §219(z)(4), made technical correction to Pub. L. 102–232, §306(b)(2). See 1991 Amendment note below.
+<b>1994</b>—Subsec. (b)(3). Pub. L. 103–416, §219(z)(4), made technical correction to Pub. L. 102–232, §306(b)(2). See 1991 Amendment note below.
 
 Subsec. (d)(4)(A). Pub. L. 103–416, §213, substituted “five” for “three” in second sentence.
 
-1991—Subsec. (b)(1)(D)(ii). Pub. L. 102–232, §309(b)(11), substituted “clause (i)” for “clause (ii)”.
+<b>1991</b>—Subsec. (b)(1)(D)(ii). Pub. L. 102–232, §309(b)(11), substituted “clause (i)” for “clause (ii)”.
 
 Subsec. (b)(3). Pub. L. 102–232, §306(b)(2), as amended by Pub. L. 103–416, §219(z)(4), made technical correction to Pub. L. 101–649, §538(a). See 1990 Amendment note below.
 
-1990—Subsec. (a)(1). Pub. L. 101–649, §521(a), struck out “to hire, or to recruit or refer for a fee, for employment in the United States” after “or other entity” in introductory provisions, inserted “to hire, or to recruit or refer for a fee, for employment in the United States” after “(A)” in subpar. (A), and inserted “(i) to hire for employment in the United States an individual without complying with the requirements of subsection (b) of this section or (ii) if the person or entity is an agricultural association, agricultural employer, or farm labor contractor (as defined in section 1802 of title 29), to hire, or to recruit or refer for a fee, for employment in the United States” after “(B)” in subpar. (B).
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–649, §521(a), struck out “to hire, or to recruit or refer for a fee, for employment in the United States” after “or other entity” in introductory provisions, inserted “to hire, or to recruit or refer for a fee, for employment in the United States” after “(A)” in subpar. (A), and inserted “(i) to hire for employment in the United States an individual without complying with the requirements of subsection (b) of this section or (ii) if the person or entity is an agricultural association, agricultural employer, or farm labor contractor (as defined in section 1802 of title 29), to hire, or to recruit or refer for a fee, for employment in the United States” after “(B)” in subpar. (B).
 
 Subsec. (b)(3). Pub. L. 101–649, §538(a), as amended by Pub. L. 102–232, §306(b)(2), as amended by Pub. L. 103–416, §219(z)(4), inserted “, the Special Counsel for Immigration-Related Unfair Employment Practices,” after “officers of the Service”.
 
-1988—Subsec. (b)(1)(A). Pub. L. 100–525, §2(a)(1)(A), substituted “the first sentence of this paragraph” for “such sentence” and “such another document” for “such a document”.
+<b>1988</b>—Subsec. (b)(1)(A). Pub. L. 100–525, §2(a)(1)(A), substituted “the first sentence of this paragraph” for “such sentence” and “such another document” for “such a document”.
 
 Subsec. (d)(3)(D). Pub. L. 100–525, §2(a)(1)(B), in heading substituted “defined” for “requiring two years notice and congressional review”.
 

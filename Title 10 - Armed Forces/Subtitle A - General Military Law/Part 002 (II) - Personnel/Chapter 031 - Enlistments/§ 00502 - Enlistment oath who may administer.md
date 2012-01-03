@@ -10,7 +10,7 @@ Enlistment Oath.—Each person enlisting in an armed force shall take the follow
 
 Who May Administer.—The oath may be taken before the President, the Vice-President, the Secretary of Defense, any commissioned officer, or any other person designated under regulations prescribed by the Secretary of Defense.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 17, §501; Pub. L. 87–751, §1, Oct. 5, 1962, 76 Stat. 748; renumbered §502, Pub. L. 90–235, §2(a)(1)(A), Jan. 2, 1968, 81 Stat. 753; Pub. L. 101–189, div. A, title VI, §653(a)(1), Nov. 29, 1989, 103 Stat. 1462; Pub. L.109–364, div. A, title V, §595(a), Oct. 17, 2006, 120 Stat. 2235.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 17, §501; Pub. L. 87–751, §1, Oct. 5, 1962, 76 Stat. 748; renumbered §502, Pub. L. 90–235, §2(a)(1)(A), Jan. 2, 1968, 81 Stat. 753; Pub. L. 101–189, div. A, title VI, §653(a)(1), Nov. 29, 1989, 103 Stat. 1462; Pub. L. 109–364, div. A, title V, §595(a), Oct. 17, 2006, 120 Stat. 2235.)
 
 Historical and Revision Notes
 

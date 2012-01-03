@@ -6,7 +6,7 @@ The debtor may modify the plan at any time before confirmation, but may not modi
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 The House amendment deletes section 942 of the Senate amendment in favor of incorporating section 1125 by cross-reference. Similarly, the House amendment does not incorporate section 944 or 945 of the Senate amendment since incorporation of several sections in chapter 11 in section 901 is sufficient.
 

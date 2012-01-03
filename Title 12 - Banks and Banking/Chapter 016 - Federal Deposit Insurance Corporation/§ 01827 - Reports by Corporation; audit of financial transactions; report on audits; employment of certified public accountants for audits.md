@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(C) the extent to which the actual costs of assistance provided to, or for the benefit of, an insured depository institution during the preceding year exceeded the estimated costs of such assistance reported in a previous year under paragraph (A);
 
-&emsp;&emsp;(D) the exposure of the Deposit Insurance Fund to changes in those economic factorsmost likely to affect the condition of that fund;
+&emsp;&emsp;(D) the exposure of the Deposit Insurance Fund to changes in those economic factors most likely to affect the condition of that fund;
 
 &emsp;&emsp;(E) a current estimate of the resources needed for the Deposit Insurance Fund or the FSLIC Resolution Fund to achieve the purposes of this chapter; and
 
@@ -24,7 +24,7 @@
 
 #### (3) Coordination with other report requirements
 
-&emsp;The report required under this subsection shall include the report required under section 57a(f)(7) of title 15.
+&emsp;The report required under this subsection shall include the report required under section 57a(f)(7) <sup>1</sup> of title 15.
 
 #### (b) Quarterly reports to Treasury
 
@@ -62,11 +62,11 @@
 
 #### (1) Audit required
 
-&emsp;The Comptroller General shall audit annually the financial transactions of the Corporation <sup>1</sup> the Deposit Insurance Fund and the FSLIC Resolution Fund in accordance with generally accepted government auditing standards.
+&emsp;The Comptroller General shall audit annually the financial transactions of the Corporation <sup>2</sup> the Deposit Insurance Fund and the FSLIC Resolution Fund in accordance with generally accepted government auditing standards.
 
 #### (2) Access to books and records
 
-&emsp;All books, records, accounts, reports, files, and property belonging to or used by the Corporation <sup>1</sup> the Deposit Insurance Fund and the FSLIC Resolution Fund, or by an independent certified public accountant retained to audit the Fund's financial statements, shall be made available to the Comptroller General.
+&emsp;All books, records, accounts, reports, files, and property belonging to or used by the Corporation <sup>2</sup> the Deposit Insurance Fund and the FSLIC Resolution Fund, or by an independent certified public accountant retained to audit the Fund's financial statements, shall be made available to the Comptroller General.
 
 #### (e) Audit of Corporation
 
@@ -74,17 +74,23 @@ The financial transactions of the Corporation shall be audited by the Government
 
 #### (f) Report of audit
 
-A report of each audit conducted under subsection (b) of this section shall be made by the Comptroller General to the Congress not later than six and one-half months following the close of the last year covered by such audit. The report to the Congress shall set forth the scope of the audit and shall include a statement of assetsand liabilities and surplus or deficit; a statement of surplus or deficit analysis; a statement of income and expenses; a statement of sources and application of funds and such comments and information as may be deemed necessary to inform Congress of the financial operations and condition of the Corporation, together with such recommendations with respect thereto as the Comptroller General may deem advisable. The report shall also show specifically any program, expenditure, or other financial transaction or undertaking observed in the course of the audit, which, in the opinion of the Comptroller General, has been carried on or made without authority of law. A copy of each report shall be furnished to the President, to the Secretary of the Treasury, and to the Corporation at the time submitted to the Congress.
+A report of each audit conducted under subsection (b) of this section shall be made by the Comptroller General to the Congress not later than six and one-half months following the close of the last year covered by such audit. The report to the Congress shall set forth the scope of the audit and shall include a statement of assets and liabilities and surplus or deficit; a statement of surplus or deficit analysis; a statement of income and expenses; a statement of sources and application of funds and such comments and information as may be deemed necessary to inform Congress of the financial operations and condition of the Corporation, together with such recommendations with respect thereto as the Comptroller General may deem advisable. The report shall also show specifically any program, expenditure, or other financial transaction or undertaking observed in the course of the audit, which, in the opinion of the Comptroller General, has been carried on or made without authority of law. A copy of each report shall be furnished to the President, to the Secretary ofthe Treasury, and to the Corporation at the time submitted to the Congress.
 
 #### (g) Assistance in audit; costs
 
-For the purpose of conducting such audit the Comptroller General is authorized in his discretion to employ by contract, without regard to section 5 of title 41, professional services of firms and organizations of certified public accountants, with the concurrence of the Corporation, for temporary periods or for special purposes. The Corporation shall reimburse the Government Accountability Office for the cost of any such audit as billed therefor by the Comptroller General, and the Government Accountability Office shall deposit the sums so reimbursed into the Treasury as miscellaneous receipts.
+For the purpose of conducting such audit the Comptroller General is authorized in his discretion to employ by contract, without regard to section 6101 of title 41, professional services of firms and organizations of certified public accountants, with the concurrence of the Corporation, for temporary periods or for special purposes. The Corporation shall reimburse the Government Accountability Office for the cost of any such audit as billed therefor by the Comptroller General, and the Government Accountability Office shall deposit the sums so reimbursed into the Treasury as miscellaneous receipts.
 
 (Sept. 21, 1950, ch. 967, §2\[17\], 64 Stat. 890; Pub. L. 93–604, title VI, §602, Jan. 2, 1975, 88 Stat. 1963; Pub. L. 101–73, title II, §220(a), Aug. 9, 1989, 103 Stat. 263; Pub. L. 102–242, title IV, §427, Dec. 19, 1991, 105 Stat. 2378; Pub. L. 104–208, div. A, title II, §2704(d)(14)(S), (T), Sept. 30, 1996, 110 Stat. 3009–493, 3009–494; Pub. L. 106–569, title XI, §§1103(a), 1104(b), Dec. 27, 2000, 114 Stat. 3030, 3032; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §8(a)(26), (27), Feb. 15, 2006, 119 Stat. 3614, 3615.)
 
 #### References in Text
 
+Par. (7) of section 57a(f) of title 15, referred to in subsec. (a)(3), was repealed by Pub. L. 111–203, title X, §1092(3), July 21, 2010, 124 Stat. 2095.
+
 The effective date of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, referred to in subsec. (c)(1), probably means the date of enactment of Pub. L. 101–73, which was approved Aug. 9, 1989.
+
+#### Codification
+
+In subsec. (g), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Prior Provisions
 
@@ -92,7 +98,7 @@ Subsec. (a) is derived from subsec. (r) of former section 264 of this title. See
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–173, §8(a)(26)(A), substituted “the Deposit Insurance Fund” for “BIF, SAIF,” in heading.
+<b>2006</b>—Subsec. (a). Pub. L. 109–173, §8(a)(26)(A), substituted “the Deposit Insurance Fund” for “BIF, SAIF,” in heading.
 
 Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(14)(S). See 1996 Amendment note below.
 
@@ -106,23 +112,23 @@ Subsec. (d). Pub. L. 109–173, §8(a)(27), substituted “the Deposit Insurance
 
 Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(14)(T). See 1996 Amendment note below.
 
-2004—Subsecs. (e), (g). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in two places.
+<b>2004</b>—Subsecs. (e), (g). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in two places.
 
-2000—Subsec. (a)(3). Pub. L. 106–569, §1103(a), added par. (3).
+<b>2000</b>—Subsec. (a)(3). Pub. L. 106–569, §1103(a), added par. (3).
 
 Subsec. (h). Pub. L. 106–569, §1104(b), struck out subsec. (h) which related to additional reports.
 
-1996—Subsec. (a). Pub. L. 104–208, §2704(d)(14)(S), which directed substitution of “the Deposit Insurance Fund” for “BIF, SAIF,” in heading and “the Deposit Insurance Fund” for “the Bank Insurance Fund, the Savings Association Insurance Fund,” wherever appearing in par. (1), was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+<b>1996</b>—Subsec. (a). Pub. L. 104–208, §2704(d)(14)(S), which directed substitution of “the Deposit Insurance Fund” for “BIF, SAIF,” in heading and “the Deposit Insurance Fund” for “the Bank Insurance Fund, the Savings Association Insurance Fund,” wherever appearing in par. (1), was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
 Subsec. (d). Pub. L. 104–208, §2704(d)(14)(T), which directed substitution of “the Deposit Insurance Fund” for “the Bank Insurance Fund, the Savings Association Insurance Fund,” in two places, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
-1991—Subsec. (h). Pub. L. 102–242 added subsec. (h).
+<b>1991</b>—Subsec. (h). Pub. L. 102–242 added subsec. (h).
 
-1989—Subsec. (a). Pub. L. 101–73, §220(a)(1), added heading and text and struck out former subsec. (a) which read as follows: “The Corporation shall annually make a report of its operations to the Congress as soon as practicable after the 1st day of January in each year.”
+<b>1989</b>—Subsec. (a). Pub. L. 101–73, §220(a)(1), added heading and text and struck out former subsec. (a) which read as follows: “The Corporation shall annually make a report of its operations to the Congress as soon as practicable after the 1st day of January in each year.”
 
 Subsecs. (b) to (g). Pub. L. 101–73, §220(a)(2), (3), added subsecs. (b) to (d) and redesignated former subsecs. (b) to (d) as (e) to (g), respectively.
 
-1975—Subsec. (b). Pub. L. 93–604, §602(a), inserted provisions that the Corporation shall be audited at least once in every three years.
+<b>1975</b>—Subsec. (b). Pub. L. 93–604, §602(a), inserted provisions that the Corporation shall be audited at least once in every three years.
 
 Subsec. (c). Pub. L. 93–604, §602(b), substituted provisions that a report of each audit conducted under subsec. (b) of this section shall be made by the Comptroller General to the Congress not later than six and one-half months following the close of previous year covered by such audit, for provisions that a report of the audit for each fiscal year ending on June 30 shall be made by the Comptroller General to the Congress not later than Jan. 15 following the close of such fiscal year.
 
@@ -150,7 +156,7 @@ RTC report.—The Chairperson of the Thrift Depositor Protection Oversight Board
 
 &emsp;“(2)
 
-SAIF report.—The Chairperson of the Federal Deposit Insurance Corporation shall prepare and submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives a final report containing a detailed description of the purposes for which the funds made available to the Savings Association Insurance Fund under this Act were used.
+SAIF report.—The Chairperson of the Federal Deposit Insurance Corporation shall prepare and submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives a final report containing a detaileddescription of the purposes for which the funds made available to the Savings Association Insurance Fund under this Act were used.
 
 “(b)
 
@@ -164,5 +170,7 @@ Time for Submission.—The reports described in subsection (a) shall be transmit
 
 Section 220(b)(1) of Pub. L. 101–73 directed Federal Deposit Insurance Corporation to study establishment of premium assessment categories related to types of risk to insurance funds and report its recommendations to Congress not later than Jan. 1, 1991; if Corporation recommended establishment of such a risk-based assessment plan, it was to provide a timetable and plan for implementation; and not later than 180 days after receipt of report and accompanying plan and timetable, Congress was to make a recommendation to Chairperson of Board of Directors regarding disposition of such plan and timetable.
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

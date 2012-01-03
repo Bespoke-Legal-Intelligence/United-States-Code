@@ -16,7 +16,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) a group of physicians that is organized at least in part for the purpose of providing physician's services under this subchapter;
 
-&emsp;&emsp;&emsp;(ii) an integrated health care delivery system that delivers care through coordinated hospitals, clinics, home health agencies, ambulatory surgery centers, skilled nursing facilities, rehabilitation facilities and clinics, and employed, independent, or contracted physicians; or
+&emsp;&emsp;&emsp;(ii) an integrated health care delivery system that delivers care through coordinated hospitals, clinics, home health agencies, ambulatory surgery centers, skilled nursing facilities, rehabilitation facilitiesand clinics, and employed, independent, or contracted physicians; or
 
 &emsp;&emsp;&emsp;(iii) an organization representing regional coalitions of groups or systems described in clause (i) or (ii).
 
@@ -109,8 +109,6 @@ In carrying out the demonstration program under this section, the Secretary may 
 (Aug. 14, 1935, ch. 531, title XVIII, §1866C, as added Pub. L. 108–173, title VI, §646, Dec. 8, 2003, 117 Stat. 2324; amended Pub. L. 111–148, title III, §3021(c), Mar. 23, 2010, 124 Stat. 395.)
 
 #### References in Text
-
-Parts A, B, and C of this subchapter, referred to in subsecs. (a)(1) and (c)(3), are classified to sections 1395c et seq., 1395j et seq., and 1395w–21 et seq., respectively, of this title.
 
 The Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (h)(3), is Pub. L. 104–191, Aug. 21, 1996, 110 Stat. 1936. For complete classification of this Act to the Code, see section 1(a) of Pub. L. 104–191, set out as a Short Title of 1996 Amendments note under section 201 of this title and Tables.
 

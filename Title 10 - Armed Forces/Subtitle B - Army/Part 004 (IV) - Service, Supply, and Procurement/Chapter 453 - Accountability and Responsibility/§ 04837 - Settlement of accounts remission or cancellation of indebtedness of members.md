@@ -12,7 +12,7 @@ Retroactive Applicability to Certain Debts.—The authority in subsection (a) ma
 
 Regulations.—This section shall be administered under regulations prescribed by the Secretary of Defense.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 273; Pub. L. 85–861, §33(a)(27), Sept. 2, 1958, 72 Stat. 1566; Pub. L. 87–649, §14c(10), Sept. 7, 1962, 76 Stat. 501; Pub. L. 96–513, title V, §512(24)(A), (B), Dec. 12, 1980, 94Stat. 2930; Pub. L. 109–163, div. A, title VI, §683(a)(1), Jan. 6, 2006, 119 Stat. 3322; Pub. L. 109–364, div. A, title VI, §673(a)(1), (2), (e)(1), Oct. 17, 2006, 120 Stat. 2271, 2272; Pub. L. 110–181, div. A, title X, §1063(c)(7)(A), Jan. 28, 2008, 122 Stat. 323.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 273; Pub. L. 85–861, §33(a)(27), Sept. 2, 1958, 72 Stat. 1566; Pub. L. 87–649, §14c(10), Sept. 7, 1962, 76 Stat. 501; Pub. L. 96–513, title V, §512(24)(A), (B), Dec. 12, 1980, 94 Stat. 2930; Pub. L. 109–163, div. A, title VI, §683(a)(1), Jan. 6, 2006, 119 Stat. 3322; Pub. L. 109–364, div. A, title VI, §673(a)(1), (2), (e)(1), Oct. 17, 2006, 120 Stat. 2271, 2272; Pub. L. 110–181, div. A, title X, §1063(c)(7)(A), Jan. 28, 2008, 122 Stat. 323.)
 
 Historical and Revision Notes<br>1956
 
@@ -138,5 +138,5 @@ Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub.
 
 #### Regulations
 
-Pub. L. 109–364, div. A, title VI, §673(d), Oct. 17, 2006, 120 Stat. 2272, provided that: “The Secretary of Defenseshall prescribe the regulations required for purposes of sections 4837, 6161, and 9837 of title 10, United States Code, as amended by this section, not later than March 1, 2007.”
+Pub. L. 109–364, div. A, title VI, §673(d), Oct. 17, 2006, 120 Stat. 2272, provided that: “The Secretary of Defense shall prescribe the regulations required for purposes of sections 4837, 6161, and 9837 of title 10, United States Code, as amended by this section, not later than March 1, 2007.”
 

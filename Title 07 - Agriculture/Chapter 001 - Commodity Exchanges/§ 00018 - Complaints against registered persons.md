@@ -10,7 +10,7 @@
 
 (2)(A) An action may be brought under this subsection by any one or more persons described in this subsection for and in behalf of such person or persons and other persons similarly situated, if the Commission permits such actions pursuant to a final rule issued by the Commission.
 
-(B) Not later than two hundred and seventy days after October 28, 1992, the Commission shall propose and publish for public comment suchrules as are necessary to carry out subparagraph (A). In developing such rules, the Commission shall consider the potential impact of such actions on resources available to the reparations system established under this chapter and the relative merits of bringing such actions in Federal court.
+(B) Not later than two hundred and seventy days after October 28, 1992, the Commission shall propose and publish for public comment such rules as are necessary to carry out subparagraph (A). In developing such rules, the Commission shall consider the potential impact of such actions on resources available to the reparations system established under this chapter and the relative merits of bringing such actions in Federal court.
 
 #### (b) Rules and regulations; control over right of appeal
 
@@ -28,7 +28,7 @@ In case a complaint is made by a nonresident of the United States, the complaina
 
 #### (e) Review
 
-Any order of the Commission entered hereunder shall be reviewable on petition of any party aggrieved thereby, by the United States Court of Appeals for any circuit in which a hearing was held, or if no hearing was held, any circuit in which the appellee is located, under the procedure provided in sections 9 and 15 of this title. Such appeal shall not be effective unless within 30 days from and after the date of the reparation order the appellant also files with the clerk of the court a bond in double the amount of the reparation awarded against the appellant conditioned upon the payment of the judgment entered by the court, plus interest and costs, including a reasonable attorney's fee for the appellee, if the appellee shall prevail. Such bond shall be in the form of cash, negotiable securities having a market value at least equivalent to the amount of bond prescribed, or the undertaking of a surety company on the approved list of sureties issued by the Treasury Department of the United States. The appellee shall not be liable for costs in said court. If the appellee prevails, he shall be allowed a reasonable attorney's fee to be taxed and collected as a part of his costs.
+Any order of the Commission entered hereunder shall be reviewable on petition of any party aggrieved thereby, by the United States Court of Appeals for any circuit in which a hearing was held, or if no hearing was held, any circuit in which the appellee is located, under the procedure provided in section 9 of this title. Such appeal shall not be effective unless within 30 days from and after the date of the reparation order the appellant also files with the clerk of the court a bond in double the amount of the reparation awarded against the appellant conditioned upon the payment of the judgment entered by the court, plus interest and costs, including a reasonable attorney's fee for the appellee, if the appellee shall prevail. Such bond shall be in the form of cash, negotiable securities having a market value at least equivalent to the amount of bond prescribed, or the undertaking of a surety company on the approved list of sureties issued by the Treasury Department of the United States. The appellee shall not be liable for costs in said court. If the appellee prevails, he shall be allowed a reasonable attorney's fee to be taxed and collected as a part of his costs.
 
 #### (f) Automatic bar from trading and suspension for noncompliance; effect of appeal
 
@@ -38,7 +38,7 @@ Unless the party against whom a reparation order has been issued shows to the sa
 
 Nothing in this section prohibits a registered futures commission merchant from requiring a customer that is an eligible contract participant, as a condition to the commission merchant's conducting a transaction for the customer, to enter into an agreement waiving the right to file a claim under this section.
 
-(Sept. 21, 1922, ch. 369, §14, as added Pub. L. 93–463, title I, §106, Oct. 23, 1974, 88 Stat. 1393; amended Pub. L. 94–16, §3, Apr. 16, 1975, 89 Stat. 77; Pub. L. 95–405, §21, Sept. 30, 1978, 92 Stat. 875; Pub. L. 97–444, title II, §231, Jan. 11, 1983, 96 Stat. 2319; Pub. L. 102–546, title II, §§209(b)(7), 222(b), 224, title IV, §402(11), Oct. 28, 1992, 106 Stat. 3607, 3615, 3617, 3625; Pub. L. 106–554, §1(a)(5) \[title I, §§118, 123(a)(23)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–403, 2763A–410; Pub. L. 110–234, title XIII, §13105(k), May 22, 2008, 122 Stat. 1435; Pub. L. 110–246, §4(a), title XIII, §13105(k), June 18, 2008, 122 Stat. 1664, 2197.)
+(Sept. 21, 1922, ch. 369, §14, as added Pub. L. 93–463, title I, §106, Oct. 23, 1974, 88 Stat. 1393; amended Pub. L. 94–16, §3, Apr. 16, 1975, 89 Stat. 77; Pub. L. 95–405, §21, Sept. 30, 1978, 92 Stat. 875; Pub. L. 97–444, title II, §231, Jan. 11, 1983, 96 Stat. 2319; Pub. L. 102–546, title II, §§209(b)(7), 222(b), 224, title IV, §402(11), Oct. 28, 1992, 106 Stat. 3607, 3615, 3617, 3625; Pub. L. 106–554, §1(a)(5) \[title I,§§118, 123(a)(23)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–403, 2763A–410; Pub. L. 110–234, title XIII, §13105(k), May 22, 2008, 122 Stat. 1435; Pub. L. 110–246, §4(a), title XIII, §13105(k), June 18, 2008, 122 Stat. 1664, 2197.)
 
 #### Codification
 
@@ -46,15 +46,15 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (d). Pub. L. 110–246, §13105(k), designated existing provisions as par. (1) and added par. (2).
+<b>2008</b>—Subsec. (d). Pub. L. 110–246, §13105(k), designated existing provisions as par. (1) and added par. (2).
 
-2000—Subsec. (a)(1)(B). Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(23)(A)\], substituted “registered entity” for “ contract market”.
+<b>2000</b>—Subsec. (a)(1)(B). Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(23)(A)\], substituted “registered entity” for “ contract market”.
 
 Subsec. (f). Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(23)(B)\], substituted “registered entities” for “ contract markets”.
 
 Subsec. (g). Pub. L. 106–554, §1(a)(5) \[title I, §118\], added subsec. (g) and struck out former subsec. (g) which read as follows: “The provisions of this section shall not become effective until fifteen months after October 23, 1974: <i>Provided</i>, That claims which arise within one year immediately prior to the effective date of this section may be heard by the Commission after such 15-month period.”
 
-1992—Subsec. (a). Pub. L. 102–546, §224, designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
+<b>1992</b>—Subsec. (a). Pub. L. 102–546, §224, designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
 
 Pub. L. 102–546, §222(b), substituted “awarding—” and pars. (1) and (2) for “awarding actual damages proximately caused by such violation.”
 
@@ -62,7 +62,7 @@ Subsec. (e). Pub. L. 102–546, §209(b)(7), made technical amendment to referen
 
 Subsec. (g). Pub. L. 102–546, §402(11), substituted “15-month” for second reference to “fifteen months”.
 
-1983—Subsec. (a). Pub. L. 97–444, §231(1), substituted provisions relating to complaints against violations by persons “registered under this chapter” for provisions relating to complaints against persons “registered or required to be registered under section 6d, 6e, 6j, or 6m of this title”, and substituted provisions for application to Commission for an award of actual damages caused by such violation, for provisions authorizing application to Commission by petition, and forwarding of complaint, if warranted, to respondent for satisfaction or answer.
+<b>1983</b>—Subsec. (a). Pub. L. 97–444, §231(1), substituted provisions relating to complaints against violations by persons “registered under this chapter” for provisions relating to complaints against persons “registered or required to be registered under section 6d, 6e, 6j, or 6m of this title”, and substituted provisions for application to Commission for an award of actual damages caused by such violation, for provisions authorizing application to Commission by petition, and forwarding of complaint, if warranted, to respondent for satisfaction or answer.
 
 Subsec. (b). Pub. L. 97–444, §231(2), substituted provisions relating to promulgation by Commission of rules, regulations, and orders necessary or appropriate for administration of this section, including rules of practice and procedure governing proceedings before the Commission, for provisions relating to investigation and service of complaint by Commission, and hearing thereon before an Administrative Law Judge, except that where amount claimed as damages did not exceed $5,000, hearing need not be held, and proofs could be supplied by deposition or verified statements of fact.
 
@@ -76,11 +76,11 @@ Subsec. (f). Pub. L. 97–444, §231(4), (6), redesignated subsec. (h) as (f), m
 
 Subsecs. (g) to (i). Pub. L. 97–444, §231(4), redesignated subsecs. (g), (h), and (i), as (e), (f), and (g), respectively.
 
-1978—Subsec. (a). Pub. L. 95–405, §21(1), substituted “who is registered or required to be registered” for “registered”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–405, §21(1), substituted “who is registered or required to be registered” for “registered”.
 
 Subsecs. (b), (c). Pub. L. 95–405, §21(2), (3), substituted “$5,000” for “$2,500” wherever appearing.
 
-1975—Subsec. (i). Pub. L. 94–16 substituted “fifteen months” for “one year” in two places, and “one year” for “nine months”.
+<b>1975</b>—Subsec. (i). Pub. L. 94–16 substituted “fifteen months” for “one year” in two places, and “one year” for “nine months”.
 
 #### Effective Date of 2008 Amendment
 

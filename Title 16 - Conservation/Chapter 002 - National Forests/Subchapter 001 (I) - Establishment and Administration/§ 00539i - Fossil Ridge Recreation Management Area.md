@@ -24,7 +24,7 @@ The designation of the recreation management area shall not be construed to proh
 
 #### (f) Development
 
-No developed campgrounds shall be constructed within the recreation management area. After August 13, 1993, no new roads ortrails may be constructed within the recreation management area.
+No developed campgrounds shall be constructed within the recreation management area. After August 13, 1993, no new roads or trails may be constructed within the recreation management area.
 
 #### (g) Off-road recreation
 

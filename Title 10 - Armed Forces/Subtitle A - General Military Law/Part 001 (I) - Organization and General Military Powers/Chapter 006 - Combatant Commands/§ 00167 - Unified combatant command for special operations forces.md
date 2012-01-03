@@ -118,7 +118,7 @@ Special Operations Activities.—For purposes of this section, special operation
 
 &emsp;(5) Civil affairs.
 
-&emsp;(6) Psychological operations.
+&emsp;(6) Military information support operations.
 
 &emsp;(7) Counterterrorism.
 
@@ -134,7 +134,7 @@ Budget Support for Reserve Elements.—(1) Before the budget proposal for the sp
 
 (2) Before the budget proposal for a military department for any fiscal year is submitted to the Secretary of Defense, the Secretary of that military department shall consult with the commander of the special operations command concerning funding for special operations forces in the military personnel budget for a reserve component in that military department. If the commander of that command does not concur in the recommended level of funding with respect to reserve component special operations units, the Secretary shall include with the budget proposal submitted to the Secretary of Defense the views of the commander of that command.
 
-(Added Pub. L. 99–500, §101(c) \[title IX, §9115(b)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–122, and Pub. L. 99–591, §101(c) \[title IX, §9115(b)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–122; Pub. L. 99–661, div. A, title XIII, §1311(b)(1), Nov. 14, 1986, 100 Stat. 3983; amended Pub. L. 100–180, div. A, title XII, §1211(d), Dec. 4, 1987, 101 Stat. 1156; Pub. L. 100–456, div. A, title VII, §712, Sept. 29, 1988, 102 Stat. 1997; Pub. L. 102–88, title VI, §602(c)(3), Aug. 14, 1991, 105 Stat. 444; Pub. L. 103–337, div. A, title IX, §925, Oct. 5, 1994, 108 Stat. 2832; Pub. L. 110–181, div. A, title VIII, §810, Jan. 28, 2008, 122 Stat. 217.)
+(Added Pub. L. 99–500, §101(c) \[title IX, §9115(b)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–122, and Pub. L. 99–591, §101(c) \[title IX, §9115(b)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–122; Pub. L. 99–661, div. A, title XIII, §1311(b)(1), Nov. 14, 1986, 100 Stat. 3983; amended Pub. L. 100–180, div. A, title XII, §1211(d), Dec. 4, 1987, 101 Stat. 1156; Pub. L. 100–456, div. A, title VII, §712, Sept. 29, 1988, 102 Stat. 1997; Pub. L. 102–88, title VI, §602(c)(3), Aug. 14, 1991, 105 Stat. 444; Pub. L. 103–337, div. A, title IX, §925, Oct. 5, 1994, 108 Stat. 2832; Pub. L. 110–181, div. A, title VIII, §810, Jan. 28, 2008, 122 Stat. 217; Pub. L. 112–81, div. A, title X, §1086(1), Dec. 31, 2011, 125 Stat. 1603.)
 
 #### References in Text
 
@@ -147,6 +147,8 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 Pub. L. 99–661 and Pub. L. 99–500 added identical sections.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (j)(6). Pub. L. 112–81 added par. (6) and struck out former par. (6) which read as follows: “Psychological operations.”
 
 <b>2008</b>—Subsec. (e)(4)(C), (D). Pub. L. 110–181 added subpar. (C) and redesignated former subpar. (C) as (D).
 
@@ -192,9 +194,41 @@ Pub. L. 99–661 and Pub. L. 99–500 added identical sections.
 
 Section 101(c) \[§9115(i)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 1311(i) of Pub. L. 99–661, provided that: “Section 167 of title 10, United States Code (as added by subsection (b)), shall be implemented not later than 180 days after the date of the enactment of this Act \[Oct. 18, 1986\].”
 
+#### Memoranda of Agreement on Identification and Dedication of Enabling Capabilities of General Purpose Forces to Fulfill Certain Requirements of Special Operations Forces
+
+Pub. L. 112–81, div. A, title IX, §904, Dec. 31, 2011, 125 Stat. 1533, provided that:
+
+“(a)
+
+Requirement.—By not later than 180 days after the date of the enactment of this Act \[Dec. 31, 2011\] and annually thereafter, each Secretary of a military department shall enter into a memorandum of agreement with the Commander of the United States Special Operations Command that identifies or establishes processes and associated milestones by which numbers and types of enabling capabilities of the general purpose forces of the Armed Forces under the jurisdiction of such Secretary can be identified and dedicated to fulfill the training and operational requirements of special operations forces under the United States Special Operations Command.
+
+“(b)
+
+Format.—Such agreements may be accomplished in an annex to existing memoranda of agreement or through separate memoranda of agreement.”
+
+#### Counterterrorism Operational Briefing Requirement
+
+Pub. L. 112–81, div. A, title X, §1031, Dec. 31, 2011, 125 Stat. 1570, provided that:
+
+“(a)
+
+Briefings Required.—Beginning not later than March 1, 2012, the Secretary of Defense shall provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] quarterly briefings outlining Department of Defense counterterrorism operations and related activities involving special operations forces.
+
+“(b)
+
+Elements.—Each briefing under subsection (a) shall include each of the following:
+
+&emsp;“(1) A global update on activity within each geographic combatant command.
+
+&emsp;“(2) An overview of authorities and legal issues including limitations.
+
+&emsp;“(3) An outline of interagency activities and initiatives.
+
+&emsp;“(4) Any other matters the Secretary considers appropriate.”
+
 #### Quarterly Reports on Use of Combat Mission Requirements Funds
 
-Pub. L. 111–383, div. A, title I, §123, Jan. 7, 2011, 124 Stat. 4158, provided that:
+Pub. L. 111–383, div. A, title I, §123, Jan. 7, 2011, 124 Stat. 4158, as amended by Pub. L. 112–81, div. A, title I, §145, Dec. 31, 2011, 125 Stat. 1326, provided that:
 
 “(a)
 
@@ -226,6 +260,16 @@ Elements.—Each report under subsection (a) shall include, for the fiscal quart
 
 &emsp;“(5) With respect to each description of a requirement under paragraph (4), the amount of Combat Mission Requirements funds committed to the procurement or approved procurement of such requirement.
 
+&emsp;“(6) A table setting forth the Combat Mission Requirements approved during the fiscal year in which such report is submitted and the two preceding fiscal years, including for each such Requirement—
+
+&emsp;&emsp;“(A) the title of such Requirement;
+
+&emsp;&emsp;“(B) the date of approval of such Requirement; and
+
+&emsp;&emsp;“(C) the amount of funding approved for such Requirement, and the source of such approved funds.
+
+&emsp;“(7) A statement of the amount of any unspent Combat Mission Requirements funds from the fiscal year in which such report is submitted and the two preceding fiscal years.
+
 “(c)
 
 Form.—Each report under subsection (a) shall be submitted in unclassified form, but may include a classified annex.”
@@ -238,7 +282,7 @@ Section 1211(b) of Pub. L. 100–180, as amended by Pub. L. 104–106, div. A, t
 
 &emsp;“(2) Providing advice and assistance to the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict in the Assistant Secretary's overall supervision of the preparation and justification of the program recommendations and budget proposals for special operations forces.
 
-&emsp;“(3) Managing assigned resources from the major force program category for special operations forces of the Five-Year Defense Plan of the Department of Defense (as required to be created pursuant to subsection (e)).”
+&emsp;“(3) Managing assigned resources from the major force program category for special operations forcesof the Five-Year Defense Plan of the Department of Defense (as required to be created pursuant to subsection (e)).”
 
 #### Major Force Program Category; Program and Budget Execution; Grade for Commanders of Certain Area Special Operations Commands
 

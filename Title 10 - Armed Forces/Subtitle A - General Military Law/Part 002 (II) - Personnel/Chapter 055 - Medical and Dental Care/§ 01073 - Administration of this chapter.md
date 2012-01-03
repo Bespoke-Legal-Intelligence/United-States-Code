@@ -122,7 +122,7 @@ Pub. L. 110–329, div. C, title VIII, §8095, Sept. 30, 2008, 122 Stat. 3642, p
 
 #### Surveys on Continued Viability of TRICARE Standard and TRICARE Extra
 
-Pub. L. 110–181, div. A, title VII, §711, Jan. 28, 2008, 122 Stat. 190, provided that:
+Pub. L. 110–181, div. A, title VII, §711, Jan. 28, 2008, 122 Stat. 190, as amended by Pub. L. 112–81, div. A, title VII, §721, Dec. 31, 2011, 125 Stat. 1478, provided that:
 
 “(a)
 
@@ -146,7 +146,7 @@ Benchmarks.—The Secretary shall establish for purposes of the surveys required
 
 Scope of surveys.—The Secretary shall carry out the surveys required by paragraph (1) as follows:
 
-&emsp;&emsp;“(A) In the case of the surveys required by subparagraph (A) of that paragraph, in at least 20 TRICARE Prime service areas in the United States in each of fiscal years 2008 through 2011.
+&emsp;&emsp;“(A) In the case of the surveys required by subparagraph (A) of that paragraph, in at least 20 TRICARE Prime service areas in the United States in each of fiscal years 2008 through 2015.
 
 &emsp;&emsp;“(B) In the case of the surveys required by subparagraph (B) of that paragraph, in 20 geographic areas in which TRICARE Prime is not offered and in which significant numbers of beneficiaries who are members of the Selected Reserve reside.
 
@@ -196,7 +196,7 @@ Ongoing review.—The Comptroller General shall, on an ongoing basis, review—
 
 &emsp;“(2)
 
-Reports.—The Comptroller General shall submit to the Committees on Armed Services of the Senate and the House of Representatives on a bi-annual basis a report on the results of the review under paragraph (1). Each report shall include the following:
+Reports.—The Comptroller General shall submit to the Committees on Armed Services of the Senate and the House of Representatives on a biennial basis a report on the results of the review under paragraph (1). Each report shall include the following:
 
 &emsp;&emsp;“(A) An analysis of the adequacy of the surveys under subsection (a).
 
@@ -238,7 +238,7 @@ Definitions.—In this section:
 
 &emsp;“(6) The term ‘member of the Selected Reserve’ means a member of the Selected Reserve of the Ready Reserve of a reserve component of the Armed Forces.
 
-&emsp;“(7) The term ‘United States’ means the United States (as defined in section 101(a) of title 10, United States Code), its possessions (as defined in such section), and the Commonwealth of Puerto Rico.”
+&emsp;“(7) The term ‘United States’ means the United States (as defined in section 101(a) of title 10, UnitedStates Code), its possessions (as defined in such section), and the Commonwealth of Puerto Rico.”
 
 #### Regulations To Establish Criteria for Licensed or Certified Mental Health Counselors Under TRICARE
 
@@ -310,7 +310,7 @@ Report on Standards.—In the event no standards for the maintenance and operati
 
 #### Requirements for Support of Military Treatment Facilities by Civilian Contractors Under TRICARE
 
-Pub. L. 109–364, div. A, title VII, §732, Oct. 17, 2006, 120 Stat. 2296, provided that:
+Pub. L. 109–364, div. A, title VII, §732, Oct. 17, 2006, 120 Stat. 2296, as amended by Pub. L. 112–81, div. A, title X, §1062(d)(3), Dec. 31, 2011, 125 Stat. 1585, provided that:
 
 “(a)
 
@@ -370,29 +370,7 @@ Actions.—In taking actions under paragraph (1), the Secretary shall—
 
 &emsp;&emsp;“(F) provide for a system for monitoring the performance of significant projects for support of military treatment facilities by a civilian contractor under the TRICARE program.
 
-“(d)
-
-Reports to Congress.—
-
-&emsp;“(1)
-
-Annual reports required.—Not later than February 1, 2008, and each year thereafter, the Secretary, in coordination with the military departments, shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the support of military treatment facilities by civilian contractors under the TRICARE program during the preceding fiscal year.
-
-&emsp;“(2)
-
-Elements.—Each report shall set forth, for the fiscal year covered by such report, the following:
-
-&emsp;&emsp;“(A) The level of support of military health treatment facilities that is provided by contract civilian health care personnel under the TRICARE program in each region of the TRICARE program.
-
-&emsp;&emsp;“(B) An assessment of the compliance of such support with regional requirements under subsection (a).
-
-&emsp;&emsp;“(C) The number and type of agreements for the support of military treatment facilities by contract civilian health care personnel.
-
-&emsp;&emsp;“(D) The standards of quality in effect under the requirements under subsection (a).
-
-&emsp;&emsp;“(E) The savings anticipated, and any savings achieved, as a result of the implementation of the requirements under subsection (a).
-
-&emsp;&emsp;“(F) An assessment of the compliance of contracts for health care staffing services for Department of Defense facilities with the requirements of subsection (c)(2)(A).
+“\[(d) Repealed. Pub. L. 112–81, div. A, title X, §1062(d)(3), Dec. 31, 2011, 125 Stat. 1585.\]
 
 “(e)
 
@@ -400,11 +378,11 @@ Effective Date.—This section shall take effect on October 1, 2006.”
 
 #### TRICARE Standard in TRICARE Regional Offices
 
-Pub. L. 109–163, div. A, title VII, §716, Jan. 6, 2006, 119 Stat. 3345, provided that:
+Pub. L. 109–163, div. A, title VII, §716, Jan. 6, 2006, 119 Stat. 3345, as amended by Pub. L. 112–81, div. A, title X, §1062(e), Dec. 31, 2011, 125 Stat. 1585, provided that:
 
 “(a)
 
-Responsibilities of TRICARE Regional Office.—The responsibilities of each TRICARE RegionalOffice shall include the monitoring, oversight, and improvement of the TRICARE Standard option in the TRICARE region concerned, including—
+Responsibilities of TRICARE Regional Office.—The responsibilities of each TRICARE Regional Office shall include the monitoring, oversight, and improvement of the TRICARE Standard option in the TRICARE region concerned, including—
 
 &emsp;“(1) identifying health care providers who will participate in the TRICARE program and provide the TRICARE Standard option under that program;
 
@@ -415,16 +393,6 @@ Responsibilities of TRICARE Regional Office.—The responsibilities of each TRIC
 &emsp;“(4) publication of information that identifies health care providers in the TRICARE region concerned who provide the TRICARE Standard option.
 
 “(b)
-
-Annual Report.—The Secretary of Defense shall submit an annual report to the Committees on Armed Services of the Senate and the House of Representatives on the monitoring, oversight, and improvement of TRICARE Standard activities of each TRICARE Regional Office. The report shall include—
-
-&emsp;“(1) a description of the activities of the TRICARE Regional Office to monitor, oversee, and improve the TRICARE Standard option;
-
-&emsp;“(2) an assessment of the participation of eligible health care providers in TRICARE Standard in each TRICARE region; and
-
-&emsp;“(3) a description of any problems or challenges that have been identified by both providers and beneficiaries with respect to use of the TRICARE Standard option and the actions undertaken to address such problems or challenges.
-
-“(c)
 
 Definition.—In this section, the term ‘TRICARE Standard’ or ‘TRICARE standard option’ means the Civilian Health and Medical Program of the Uniformed Services option under the TRICARE program.”
 
@@ -502,7 +470,7 @@ Elements.—The report under paragraph (1) shall include—
 
 #### Surveys on Continued Viability of TRICARE Standard
 
-Pub. L. 108–136, div. A, title VII, §723, Nov. 24, 2003, 117 Stat. 1532, as amended by Pub. L. 109–163, div. A, title VII, §711, Jan. 6, 2006, 119 Stat. 3343, required the Secretary of Defense to conduct surveys in the TRICARE market areas in the United States to determine how many health care providers were accepting new patients under TRICARE Standard in each such market area, and required the Comptroller General to review the processes, procedures, and analysis used by the Department of Defense to determine the adequacy of the number of health care providers and the actions taken by the Department of Defense to ensure ready access of TRICARE Standard beneficiaries to health care under TRICARE Standard in each TRICARE market area, prior to repeal by Pub. L. 110–181, div. A, title VII, §711(d), Jan. 28, 2008, 122 Stat. 193, eff. Oct. 1, 2007.
+Pub. L. 108–136, div. A, title VII, §723, Nov. 24, 2003, 117 Stat. 1532, as amended by Pub. L. 109–163, div. A, title VII, §711, Jan. 6, 2006, 119 Stat. 3343, required the Secretary of Defense to conduct surveys in the TRICARE market areas in the United States to determine how many health care providers were accepting new patients under TRICARE Standard in each such market area, and required the Comptroller General to review the processes, procedures, and analysis used by the Department of Defense to determine the adequacy of the number of health care providers and the actions takenby the Department of Defense to ensure ready access of TRICARE Standard beneficiaries to health care under TRICARE Standard in each TRICARE market area, prior to repeal by Pub. L. 110–181, div. A, title VII, §711(d), Jan. 28, 2008, 122 Stat. 193, eff. Oct. 1, 2007.
 
 #### Modernization of TRICARE Business Practices and Increase of Use of Military Treatment Facilities
 
@@ -718,7 +686,7 @@ Requirement To Establish System.—(1) The Secretary of Defense shall establish 
 
 &emsp;“(B) to measure performance in increasing such access against the primary care access standards established by the Secretary under the TRICARE program.
 
-“(2) In implementing the system described in paragraph (1), the Secretary shall collect data on the timeliness of appointments and precise waiting times for appointments in order to measure performance in meeting the primary care access standards established under the TRICARE program.
+“(2) In implementing the system described in paragraph (1), the Secretary shall collect data on the timeliness of appointments and precise waiting times for appointments in order to measure performance inmeeting the primary care access standards established under the TRICARE program.
 
 “(b)
 
@@ -820,13 +788,13 @@ Completion of Existing Orders.—Subsection (a) shall not apply to orders for op
 
 #### Inclusion of Certain Designated Providers in Uniformed Services Health Care Delivery System
 
-Pub. L. 104–201, div. A, title VII, subtitle C, Sept. 23, 1996, 110 Stat. 2592, as amended by Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8131(a)\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–117; Pub. L. 105–85, div. A, title VII, §§721–723, Nov. 18, 1997, 111 Stat. 1809, 1810; Pub. L. 106–65, div. A, title VII, §707, Oct. 5, 1999, 113 Stat. 684; Pub. L. 107–296, title XVII, §1704(e)(2), Nov. 25, 2002, 116 Stat. 2315; Pub. L. 108–136, div. A, title VII, §714, Nov. 24, 2003, 117 Stat. 1531; Pub. L. 108–199, div. H, §109, Jan. 23, 2004, 118 Stat. 438, provided that:
+Pub. L. 104–201, div. A, title VII, subtitle C, Sept. 23, 1996, 110 Stat. 2592, as amended by Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8131(a)\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–117; Pub. L. 105–85, div. A, title VII, §§721–723, Nov. 18, 1997, 111 Stat. 1809, 1810; Pub. L. 106–65, div. A, title VII, §707, Oct. 5, 1999, 113 Stat. 684; Pub. L. 107–296, title XVII, §1704(e)(2), Nov. 25, 2002, 116 Stat. 2315; Pub. L. 108–136, div. A, title VII, §714, Nov. 24, 2003, 117 Stat. 1531; Pub. L. 108–199, div. H, §109, Jan. 23, 2004, 118 Stat. 438; Pub. L. 112–81, div. A, title VII, §708, Dec. 31, 2011, 125 Stat. 1474, provided that:
 
 #### “SEC. 721. DEFINITIONS.
 
 “In this subtitle:
 
-&emsp;“(1) The term ‘administering Secretaries’ means the Secretary of Defense, the Secretary of Homeland Security, and the Secretary of Health and Human Services.
+&emsp;“(1) The term ‘administering Secretaries’ means the Secretary of Defense, the Secretary of HomelandSecurity, and the Secretary of Health and Human Services.
 
 &emsp;“(2) The term ‘agreement’ means the agreement required under section 722(b) between the Secretary of Defense and a designated provider.
 
@@ -838,7 +806,7 @@ Pub. L. 104–201, div. A, title VII, subtitle C, Sept. 23, 1996, 110 Stat. 2592
 
 &emsp;“(6) The term ‘enrollee’ means a covered beneficiary who enrolls with a designated provider.
 
-&emsp;“(7) The term ‘health care services’ means the health care services provided under the health planknown as the ‘TRICARE PRIME’ option under the TRICARE program.
+&emsp;“(7) The term ‘health care services’ means the health care services provided under the health plan known as the ‘TRICARE PRIME’ option under the TRICARE program.
 
 &emsp;“(8) The term ‘Secretary’ means the Secretary of Defense.
 
@@ -912,7 +880,7 @@ Fiscal Year 1997
 
 Limitation.—(1) During fiscal year 1997, the number of covered beneficiaries who are enrolled in managed care plans offered by designated providers may not exceed the number of such enrollees as of October 1, 1995.
 
-“(2) The Secretary may waive the limitation under paragraph (1) if the Secretary determines that additional enrollment authority for a designated provider is required to accommodate covered beneficiaries who are dependents of members of the uniformed services entitled to health care under section 1074(a) of title 10, United States Code.
+“(2) The Secretary may waive the limitation under paragraph (1) if the Secretary determines that additional enrollment authority for a designated provider is required to accommodate covered beneficiaries who aredependents of members of the uniformed services entitled to health care under section 1074(a) of title 10, United States Code.
 
 “(b)
 
@@ -944,7 +912,9 @@ Additional Enrollment Authority.—(1) Subject to paragraph (2), other covered b
 
 “(e)
 
-Special Rule for Medicare-Eligible Beneficiaries.—If a covered beneficiary who desires to enroll in the managed care program of a designated provider is also entitled to hospital insurance benefits under part A of title XVIII of the Social Security Act (42 U.S.C. 1395c et seq.), the covered beneficiary shall elect whether to receive health care services as an enrollee or under part A of title XVIII of the Social Security Act. The Secretary may disenroll an enrollee who subsequently violates the election made under this subsection and receives benefits under part A of title XVIII of the Social Security Act.
+Special Rule for Medicare-Eligible Beneficiaries.—(1) Except as provided in paragraph (2), if a covered beneficiary who desires to enroll in the managed care program of a designated provider is also entitled to hospital insurance benefits under part A of title XVIII of the Social Security Act (42 U.S.C. 1395c et seq.), the covered beneficiary shall elect whether to receive health care services as an enrollee or under part A of title XVIII of the Social Security Act. The Secretary may disenroll an enrollee who subsequently violates the election made under this subsection and receives benefits under part A of title XVIII of the Social Security Act.
+
+“(2) After September 30, 2012, a covered beneficiary (other than a beneficiary under section 1079 of title 10, United States Code) who is also entitled to hospital insurance benefits under part A of title XVIII of the Social Security Act \[42 U.S.C. 1395c et seq.\] due to age may not enroll in the managed care program of a designated provider unless the beneficiary was enrolled in that program on September 30, 2012.
 
 “(f)
 
@@ -1010,7 +980,7 @@ Effective Date.—The amendments made by paragraphs (1), (2), and (3) of subsect
 
 #### Definition of TRICARE Program
 
-Pub. L. 104–106, div. A, title VII, §711, Feb. 10, 1996, 110 Stat. 374, provided that: “For purposes of this subtitle\[subtitle B (§§711–718) of title VII of div. A of Pub. L. 104–106, amending section 1097 of this title, enacting provisions set out as notes below, and amending provisions set out as a note below\], the term ‘TRICARE program’ means the managed health care program that is established by the Secretary of Defense under the authority of chapter 55 of title 10, United States Code, principally section 1097 of such title, and includes the competitive selection of contractors to financially underwrite the delivery of health care services under the Civilian Health and Medical Program of the Uniformed Services.”
+Pub. L. 104–106, div. A, title VII, §711, Feb. 10, 1996, 110 Stat. 374, provided that: “For purposes of this subtitle \[subtitle B (§§711–718) of title VII of div. A of Pub. L. 104–106, amending section 1097 of this title, enacting provisions set out as notes below, and amending provisions set out as a note below\], the term ‘TRICARE program’ means the managed health care program that is established by the Secretary of Defense under the authority of chapter 55 of title 10, United States Code, principally section 1097 of such title, and includes the competitive selection of contractors to financially underwrite the delivery of health care services under the Civilian Health and Medical Program of the Uniformed Services.”
 
 #### Training in Health Care Management and Administration for TRICARE Lead Agents
 
@@ -1134,7 +1104,7 @@ Pub. L. 102–484, div. A, title VII, §712, Oct. 23, 1992, 106 Stat. 2435, as a
 
 “(a)
 
-Condition.—(1) Except as provided in subsection (b), the Secretary of Defense may not expand the CHAMPUS reform initiative underway in the States of California and Hawaii to another location until not less than 90 days after the date on which the Secretary certifies to Congress that expansion of the initiative to that location is the most efficient method of providing health care to covered beneficiaries in that location. In determining whether the expansion of the CHAMPUS reform initiative to a location is the most efficient method of providing health care to covered beneficiaries in that location, the Secretary shall consider the cost-effectiveness of the initiative (while assuring that the combined cost of care in military treatment facilities and under the Civilian Health and Medical Program of the Uniformed Services will not be increased as a result of the expansion) and the effect of the expansion of the initiative on the access of covered beneficiaries to health care and on the quality of health care received by covered beneficiaries.
+Condition.—(1) Except as provided in subsection (b), the Secretary of Defense may not expand theCHAMPUS reform initiative underway in the States of California and Hawaii to another location until not less than 90 days after the date on which the Secretary certifies to Congress that expansion of the initiative to that location is the most efficient method of providing health care to covered beneficiaries in that location. In determining whether the expansion of the CHAMPUS reform initiative to a location is the most efficient method of providing health care to covered beneficiaries in that location, the Secretary shall consider the cost-effectiveness of the initiative (while assuring that the combined cost of care in military treatment facilities and under the Civilian Health and Medical Program of the Uniformed Services will not be increased as a result of the expansion) and the effect of the expansion of the initiative on the access of covered beneficiaries to health care and on the quality of health care received by covered beneficiaries.
 
 “(2) To the extent any revision of the CHAMPUS reform initiative is necessary in order to make the certification required by this subsection, the Secretary shall assure that enrolled covered beneficiaries may obtain health care services with reduced out-of-pocket costs, as compared to standard CHAMPUS.
 
@@ -1144,7 +1114,7 @@ Exception.—The Secretary of Defense may waive the operation of the condition o
 
 “(c)
 
-Evaluation of Certification.—The Comptroller General of the United States and the Director of theCongressional Budget Office shall evaluate each certification made by the Secretary of Defense under subsection (a) that expansion of the CHAMPUS reform initiative to another location is the most efficient method of providing health care to covered beneficiaries in that location. They shall submit their findings to Congress if these findings differ substantially from the findings upon which the Secretary made the decision to expand the CHAMPUS reform initiative.
+Evaluation of Certification.—The Comptroller General of the United States and the Director of the Congressional Budget Office shall evaluate each certification made by the Secretary of Defense under subsection (a) that expansion of the CHAMPUS reform initiative to another location is the most efficient method of providing health care to covered beneficiaries in that location. They shall submit their findings to Congress if these findings differ substantially from the findings upon which the Secretary made the decision to expand the CHAMPUS reform initiative.
 
 “(d)
 

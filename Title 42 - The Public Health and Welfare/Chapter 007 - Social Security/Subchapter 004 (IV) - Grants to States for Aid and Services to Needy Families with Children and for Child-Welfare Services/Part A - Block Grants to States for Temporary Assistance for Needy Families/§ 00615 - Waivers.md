@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), if any waiver granted to a State under section 1315 of this title or otherwise which relates to the provision of assistance under a State plan under this part (as in effect on September 30, 1996) is in effect as of August 22, 1996, the amendments made by the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (other than by section 103(c) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996) shall not apply with respect to the State before the expiration (determined without regard to any extensions) of the waiver to the extent such amendments are inconsistent with the waiver.
+&emsp;&emsp;Except as provided in subparagraph (B), if any waiver granted to a State under section1315 of this title or otherwise which relates to the provision of assistance under a State plan under this part (as in effect on September 30, 1996) is in effect as of August 22, 1996, the amendments made by the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (other than by section 103(c) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996) shall not apply with respect to the State before the expiration (determined without regard to any extensions) of the waiver to the extent such amendments are inconsistent with the waiver.
 
 #### (B) Financing limitation
 
@@ -70,5 +70,5 @@ Amendment by Pub. L. 105–33 effective as if included in the provision of Pub. 
 
 #### Effective Date
 
-Section effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as a note under section 601 of this title.
+Section effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing outof accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as a note under section 601 of this title.
 

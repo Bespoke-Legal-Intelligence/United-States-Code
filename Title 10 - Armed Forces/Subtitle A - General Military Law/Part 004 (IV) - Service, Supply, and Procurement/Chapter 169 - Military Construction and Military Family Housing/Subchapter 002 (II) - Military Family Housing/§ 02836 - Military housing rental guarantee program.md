@@ -6,9 +6,7 @@ Authority.—Subject to subsection (b), the Secretary of a military department, 
 
 (b)
 
-Submission and Authorization of Proposed Agreements.—(1) The Secretary of a military department, or the Secretary of Homeland Security with respect to the Coast Guard, may enter into agreements pursuant to subsection (a) for such military housing rental guaranty projects as are authorized by law.
-
-(2) The budget material submitted to Congress by the Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard, in connection with the budget submitted pursuant to section 1105 of title 31 for each fiscal year shall include materials that identify the military housing rental guaranty projects for which agreements are proposed to be entered into under subsection (a) in that fiscal year.
+Submission and Authorization of Proposed Agreements.—The Secretary of a military department, or the Secretary of Homeland Security with respect to the Coast Guard, may enter into agreements pursuant to subsection (a) for such military housing rental guaranty projects as are authorized by law.
 
 (c)
 
@@ -58,21 +56,13 @@ Conditions on Obligation of Funds.—An agreement entered into for a project pur
 
 (e)
 
-Competitive Process.—An agreement under subsection (a) shall be made through theuse of publicly advertised, competitively bid, or competitively negotiated, contracting procedures as provided in chapter 137 of this title. In accordance with such procedures, the Secretary of a military department, or the Secretary of Homeland Security, as the case may be, shall solicit bids or proposals for a guaranty agreement for each military housing rental guaranty project authorized in accordance with subsection (b).
+Competitive Process.—An agreement under subsection (a) shall be made through the use of publicly advertised, competitively bid, or competitively negotiated, contracting procedures as provided in chapter 137 of this title. In accordance with such procedures, the Secretary of a military department, or the Secretary of Homeland Security, as the case may be, shall solicit bids or proposals for a guaranty agreement for each military housing rental guaranty project authorized in accordance with subsection (b).
 
 (f)
 
-Notice and Wait Requirements.—An agreement may not be entered into under subsection (a) until—
-
-&emsp;(1) the Secretary of Defense, or the Secretary of Homeland Security with respect to the Coast Guard, submits to the appropriate committees of Congress, in writing, an economic analysis (based upon accepted life cycle costing procedures) which demonstrates that the proposed agreement is cost effective when compared with alternative means of furnishing the same housing facilities; and
-
-&emsp;(2) a period of 21 days has expired following the date on which the economic analysis is received by those committees or, if over sooner, a period of 14 days has expired following the date on which a copy of the economic analysis is provided in an electronic medium pursuant to section 480 of this title.
-
-(g)
-
 Disputes.—The Secretary concerned may require that disputes arising under an agreement entered into under subsection (a) be decided in accordance with the procedures provided for by chapter 71 of title 41.
 
-(Added Pub. L. 102–190, div. B, title XXVIII, §2809(a)(1), Dec. 5, 1991, 105 Stat. 1541; amended Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title X, §1031(a)(43), Nov. 24, 2003, 117 Stat. 1602; Pub. L. 111–350, §5(b)(48), Jan. 4, 2011, 124 Stat. 3846.)
+(Added Pub. L. 102–190, div. B, title XXVIII, §2809(a)(1), Dec. 5, 1991, 105 Stat. 1541; amended Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title X, §1031(a)(43), Nov. 24, 2003, 117 Stat. 1602; Pub. L. 111–350, §5(b)(48), Jan. 4, 2011, 124 Stat. 3846; Pub. L. 112–81, div. A, title X, §1061(25), Dec. 31, 2011, 125 Stat. 1584.)
 
 #### Prior Provisions
 
@@ -80,7 +70,17 @@ Similar provisions were contained in Pub. L. 98–115, title VIII, §802, Oct. 1
 
 #### Amendments
 
-<b>2011</b>—Subsec. (g). Pub. L. 111–350 substituted “chapter 71 of title 41” for “the Contract Disputes Act of 1978 (41 U.S.C. 601 et seq.)”.
+<b>2011</b>—Subsec. (b). Pub. L. 112–81, §1061(25)(A), struck out par. (1) designation before “The Secretary of a military department” and struck out par. (2) which read as follows: “The budget material submitted to Congress by the Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard, in connection with the budget submitted pursuant to section 1105 of title 31 for each fiscal year shall include materials that identify the military housing rental guaranty projects for which agreements are proposed to be entered into under subsection (a) in that fiscal year.”
+
+Subsec. (f). Pub. L. 112–81, §1061(25)(B), (C), redesignated subsec. (g) as (f) and struck out former subsec. (f). Prior to amendment, text of subsec. (f) read as follows: “An agreement may not be entered into under subsection (a) until—
+
+&emsp;“(1) the Secretary of Defense, or the Secretary of Homeland Security with respect to the Coast Guard, submits to the appropriate committees of Congress, in writing, an economic analysis (based upon accepted life cycle costing procedures) which demonstrates that the proposed agreement is cost effective when compared with alternative means of furnishing the same housing facilities; and
+
+&emsp;“(2) a period of 21 days has expired following the date on which the economic analysis is received by those committees or, if over sooner, a period of 14 days has expired following the date on which a copy of the economic analysis is provided in an electronic medium pursuant to section 480 of this title.”
+
+Subsec. (g). Pub. L. 112–81, §1061(25)(C), redesignated subsec. (g) as (f).
+
+Pub. L. 111–350 substituted “chapter 71 of title 41” for “the Contract Disputes Act of 1978 (41 U.S.C. 601 et seq.)”.
 
 <b>2003</b>—Subsec. (f)(2). Pub. L. 108–136 substituted “21 days” for “21 calendar days” and inserted before period at end “or, if over sooner, a period of 14 days has expired following the date on which a copy of the economic analysis is provided in an electronic medium pursuant to section 480 of this title”.
 

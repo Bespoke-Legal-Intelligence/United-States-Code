@@ -8,7 +8,7 @@
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–550 inserted “or any person willfully causing a violation of the regulation,” after “applies,”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–550 inserted “or any person willfully causing a violation of the regulation,” after “applies,”.
 
-1988—Subsec. (a). Pub. L. 100–690 inserted “or grossly negligent” after “willful” and “or through gross negligence” after “willfully” and substituted “$10,000” for “$1,000”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–690 inserted “or grossly negligent” after “willful” and “or through gross negligence” after “willfully” and substituted “$10,000” for “$1,000”.
 

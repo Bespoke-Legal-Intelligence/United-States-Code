@@ -16,9 +16,23 @@ Information to Civilian Entities.—For the purpose of assisting members covered
 
 Employment Preference by Nonappropriated Fund Instrumentalities.—The Secretary of Defense shall take such steps as necessary to provide that members of Army, Navy, Air Force, or Marine Corps who are involuntarily separated, and the dependents of such members, shall be provided a preference in hiring by nonappropriated fund instrumentalities of the Department. Such preference shall be administered in the same manner as the preference for military spouses provided under section 1784(a)(2) of this title, except that a preference under that section shall have priority over a preference under this subsection. A person may receive a preference in hiring under this subsection only once. The Secretary of Homeland Security shall provide the same preference in hiring to involuntarily separated members of the Coast Guard, and the dependents of such members, in Coast Guard nonappropriated fund instrumentalities.
 
-(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1553; amended Pub. L. 103–337, div. A, title V, §542(a)(2), Oct. 5, 1994, 108 Stat. 2767; Pub. L. 105–85, div. A, title X, §1073(a)(21), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+(e)
+
+Employment Skills Training.—(1) The Secretary of a military department may carry out one or more programs to provide eligible members of the armed forces under the jurisdiction of the Secretary with job training and employment skills training, including apprenticeship programs, to help prepare such members for employment in the civilian sector.
+
+(2) A member of the armed forces is an eligible member for purposes of a program under this subsection if the member—
+
+&emsp;(A) has completed at least 180 days on active duty in the armed forces; and
+
+&emsp;(B) is expected to be discharged or released from active duty in the armed forces within 180 days of the date of commencement of participation in such a program.
+
+(3) Any program under this subsection shall be carried out in accordance with regulations prescribed by the Secretary of Defense.
+
+(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1553; amended Pub. L. 103–337, div. A, title V, §542(a)(2), Oct. 5, 1994, 108 Stat. 2767; Pub. L. 105–85, div. A, title X, §1073(a)(21), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 112–81, div. A, title V, §551, Dec. 31, 2011, 125 Stat. 1412.)
 
 #### Amendments
+
+<b>2011</b>—Subsec. (e). Pub. L. 112–81 added subsec. (e).
 
 <b>2002</b>—Subsecs. (a) to (d). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
@@ -41,6 +55,22 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–337 applicable only to members of the Coast Guard who are separated after Sept. 30, 1994, see section 542(e) of Pub. L. 103–337, set out as a note under section 1141 of this title.
+
+#### Department of Defense Pilot Program on Work Experience for Members of the Armed Forces on Terminal Leave
+
+Pub. L. 112–56, title II, §236, Nov. 21, 2011, 125 Stat. 724, provided that:
+
+“(a)
+
+In General.—The Secretary of Defense may establish a pilot program to assess the feasibility and advisability of providing to members of the Armed Forces on terminal leave work experience with civilian employees and contractors of the Department of Defense to facilitate the transition of the individuals from service in the Armed Forces to employment in the civilian labor market.
+
+“(b)
+
+Duration.—The pilot program shall be carried out during the two-year period beginning on the date of the commencement of the pilot program.
+
+“(c)
+
+Report.—Not later than 540 days after the date of the commencement of the pilot program, the Secretary shall submit to the Committee on Armed Services and the Committee on Veterans’ Affairs of the Senate and the Committee on Armed Services and the Committee on Veterans’ Affairs of the House of Representatives an interim report on the pilot program that includes the findings of the Secretary with respect to the feasibility and advisability of providing covered individuals with work experience as described in subsection (a).”
 
 #### Demonstration Program for Training Recently Discharged Veterans for Employment in Construction and Hazardous Waste Remediation
 

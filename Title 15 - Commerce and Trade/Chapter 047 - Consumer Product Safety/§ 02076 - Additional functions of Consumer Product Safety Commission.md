@@ -12,7 +12,7 @@ The Commission shall also have the power—
 
 &emsp;(2) to administer oaths;
 
-&emsp;(3) to require by subpena the attendance and testimony of witnesses and the production of all documentary evidence relating to the execution of its duties;
+&emsp;(3) to require by subpena the attendance and testimony of witnesses and the production of all documentary and physical evidence relating to the execution of its duties;
 
 &emsp;(4) in any proceeding or investigation to order testimony to be taken by deposition before any person who is designated by the Commission and has the power to administer oaths and, in such instances, to compel testimony and the production of evidence in the same manner as authorized under paragraph (3) of this subsection;
 
@@ -28,11 +28,13 @@ The Commission shall also have the power—
 
 > &emsp;for the purpose of enforcing the laws subject to its jurisdiction;
 
-&emsp;(8) to lease buildings or parts of buildings in the District of Columbia, without regard tosection 8141 of title 40, for the use of the Commission; and
+&emsp;(8) to lease buildings or parts of buildings in the District of Columbia, without regard to section 8141 of title 40, for the use of the Commission;
 
-&emsp;(9) to delegate any of its functions or powers, other than the power to issue subpenas under paragraph (3), to any officer or employee of the Commission.
+&emsp;(9) to delegate to the general counsel of the Commission the authority to issue subpoenas solely to Federal, State, or local government agencies for evidence described in paragraph (3); and
 
-> An order issued under paragraph (1) shall contain a complete statement of the reason the Commission requires the report or answers specified in the order to carry out a specific regulatory or enforcement function of the Commission. Such an order shall be designed to place the least burden on the person subject to the order as is practicable taking into account the purpose for which the order was issued.
+&emsp;(10) to delegate any of its functions or powers, other than the power to issue subpenas under paragraph (3) (except as provided in paragraph (9)), to any officer or employee of the Commission.
+
+> An order issued under paragraph (1) shall contain a complete statement of the reason the Commission requires the report or answers specified in the order to carry out a specific regulatory or enforcement function of the Commission. Such an order shall be designed to place the least burden on the person subject to theorder as is practicable taking into account the purpose for which the order was issued.
 
 #### (c) Noncompliance with subpena or Commission order; contempt
 
@@ -118,7 +120,7 @@ Notwithstanding section 3003 of the Federal Reports Elimination and Sunset Act o
 
 (2) Whenever the Commission submits any legislative recommendations, or testimony, or comments on legislation to the President or the Office of Management and Budget, it shall concurrently transmit a copy thereof to the Congress. No officer or agency of the United States shall have any authority to require the Commission to submit its legislative recommendations, or testimony, or comments on legislation, to any officer or agency of the United States for approval, comments, or review, prior to the submission of such recommendations, testimony, or comments to the Congress.
 
-(Pub. L. 92–573, §27, Oct. 27, 1972, 86 Stat. 1227; Pub. L. 94–273, §31, Apr. 21, 1976, 90 Stat. 380; Pub. L. 94–284, §§8(b), 11(c), (d), 14, May 11, 1976, 90 Stat. 506–509; Pub. L. 95–631, §11, Nov. 10, 1978, 92 Stat. 3748; Pub. L. 97–35, title XII, §§1207(b), 1208, 1209(c), 1211(d), Aug. 13, 1981, 95 Stat. 718, 720, 721; Pub. L. 110–314, title II, §209(a), Aug. 14, 2008, 122 Stat. 3046.)
+(Pub. L. 92–573, §27, Oct. 27, 1972, 86 Stat. 1227; Pub. L. 94–273, §31, Apr. 21, 1976, 90 Stat. 380; Pub. L. 94–284, §§8(b), 11(c), (d), 14, May 11, 1976, 90 Stat. 506–509; Pub. L. 95–631, §11, Nov. 10, 1978, 92 Stat. 3748; Pub. L. 97–35, title XII, §§1207(b), 1208, 1209(c), 1211(d), Aug. 13, 1981, 95 Stat. 718, 720, 721; Pub. L. 110–314, title II, §209(a), Aug. 14, 2008, 122 Stat. 3046; Pub. L. 112–28, §8, Aug. 12, 2011, 125 Stat. 282.)
 
 #### References in Text
 
@@ -131,6 +133,12 @@ In subsec. (b)(6), “section 1342 of title 31” substituted for “section 367
 “Section 8141 of title 40” substituted in subsec. (b)(8) for “the Act of March 3, 1877 (40 U.S.C. 34)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (b)(3). Pub. L. 112–28, §8(1), inserted “and physical” after “documentary”.
+
+Subsec. (b)(9). Pub. L. 112–28, §8(2), (3), added par. (9). Former par. (9) redesignated (10).
+
+Subsec. (b)(10). Pub. L. 112–28, §8(3), (4), redesignated par. (9) as (10) and inserted “(except as provided in paragraph (9))” after “paragraph (3)”.
 
 <b>2008</b>—Subsec. (j). Pub. L. 110–314, §209(a)(1), substituted “Notwithstanding section 3003 of the Federal Reports Elimination and Sunset Act of 1995 (31 U.S.C. 1113 note), the Commission” for “The Commission” in introductory provisions.
 

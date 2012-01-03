@@ -6,7 +6,7 @@ There are authorized to be appropriated to the Librarian for the first fiscal ye
 
 #### Amendments
 
-2008—Pub. L. 110–336 substituted “for the first fiscal year beginning on or after November 9, 2000, and each succeeding fiscal year through fiscal year 2016” for “for each of the first 7 fiscal years beginning on or after November 9, 2000,”.
+<b>2008</b>—Pub. L. 110–336 substituted “for the first fiscal year beginning on or after November 9, 2000, and each succeeding fiscal year through fiscal year 2016” for “for each of the first 7 fiscal years beginning on or after November 9, 2000,”.
 
 #### Effective Date of 2008 Amendment
 

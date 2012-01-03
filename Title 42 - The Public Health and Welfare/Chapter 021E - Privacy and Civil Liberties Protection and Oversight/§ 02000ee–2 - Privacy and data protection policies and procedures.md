@@ -30,7 +30,7 @@ Each agency shall have a Chief Privacy Officer to assume primary responsibility 
 
 #### (c) Recording
 
-Each agency shall prepare a written report of its use of information in an identifiable form, along with its privacy and data protection policies and procedures and record it with the Inspector General of the agency to serve as abenchmark for the agency. Each report shall be signed by the agency privacy officer to verify that the agency intends to comply with the procedures in the report. By signing the report the privacy officer also verifies that the agency is only using information in identifiable form as detailed in the report.
+Each agency shall prepare a written report of its use of information in an identifiable form, along with its privacy and data protection policies and procedures and record it with the Inspector General of the agency to serve as a benchmark for the agency. Each report shall be signed by the agency privacy officer to verify that the agency intends to comply with the procedures in the report. By signing the report the privacy officer also verifies that the agency is only using information in identifiable form as detailed in the report.
 
 #### (d) Inspector General review
 
@@ -48,7 +48,7 @@ The Inspector General of each agency shall periodically conduct a review of the 
 
 #### (f) Definition
 
-In this section, the definition of “identifiable form” is consistent with Public Law 107–347, the E-Government Act of 2002, and means any representation of information that permits the identity of an individual to whom the information applies to be reasonably inferred by either direct or indirect means.
+In this section, the definition of “identifiable form” is consistent with Public Law 107–347, theE-Government Act of 2002, and means any representation of information that permits the identity of an individual to whom the information applies to be reasonably inferred by either direct or indirect means.
 
 (Pub. L. 108–447, div. H, title V, §522, Dec. 8, 2004, 118 Stat. 3268; Pub. L. 110–161, div. D, title VII, §742(b), Dec. 26, 2007, 121 Stat. 2032.)
 

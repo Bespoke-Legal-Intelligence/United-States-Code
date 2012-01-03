@@ -20,7 +20,7 @@ Provisions similar to those comprising this section were contained in Pub. L. 85
 
 <b>1976</b>—Pub. L. 94–502 substituted “unless the Administrator finds” for “unless he finds”, “the veteran or person” for “he”, and “the veteran's or person's” for “his” in two places.
 
-<b>1972</b>—Pub. L. 92–540 inserted provision authorizing any person on active duty, after consultation with the appropriate service education officer, to submit an application to the Administrator.
+<b>1972</b>—Pub. L. 92–540 inserted provision authorizing any person on active duty, after consultation with theappropriate service education officer, to submit an application to the Administrator.
 
 #### Effective Date of 2003 Amendment
 

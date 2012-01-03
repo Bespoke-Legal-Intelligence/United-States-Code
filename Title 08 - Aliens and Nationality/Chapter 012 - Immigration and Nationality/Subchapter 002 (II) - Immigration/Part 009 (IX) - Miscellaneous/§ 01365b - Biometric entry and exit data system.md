@@ -282,7 +282,7 @@ Section was enacted as part of the Intelligence Reform and Terrorism Prevention 
 
 #### Amendments
 
-2007—Subsec. (k)(3). Pub. L. 110–161 amended heading and text of par. (3) generally. Prior to amendment, text related to development and implementation of a registered traveler program.
+<b>2007</b>—Subsec. (k)(3). Pub. L. 110–161 amended heading and text of par. (3) generally. Prior to amendment, text related to development and implementation of a registered traveler program.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “(Public Law 106–215)”.</i>
 

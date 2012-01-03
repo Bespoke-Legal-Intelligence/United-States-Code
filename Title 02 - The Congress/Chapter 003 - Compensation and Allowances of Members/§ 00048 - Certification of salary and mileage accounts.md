@@ -14,5 +14,5 @@ R.S. §47 constitutes first clause and R.S. §48 constitutes remainder.
 
 #### Amendments
 
-2004—Pub. L. 108–447 substituted “of Representatives and Delegates shall be certified” for “of Senators shall be certified by the President of the Senate, and those of Representatives and Delegates”.
+<b>2004</b>—Pub. L. 108–447 substituted “of Representatives and Delegates shall be certified” for “of Senators shall be certified by the President of the Senate, and those of Representatives and Delegates”.
 

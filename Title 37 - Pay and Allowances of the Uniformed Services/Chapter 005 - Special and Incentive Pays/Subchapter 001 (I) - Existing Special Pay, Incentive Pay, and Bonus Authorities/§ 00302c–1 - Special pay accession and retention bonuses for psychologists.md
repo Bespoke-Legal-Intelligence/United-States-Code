@@ -76,13 +76,15 @@ Retention bonus.—An officer who does not complete the period of active duty sp
 
 (f)
 
-Termination of Authority.—No agreement under subsection (a) or (b) may be entered into after December 31, 2011.
+Termination of Authority.—No agreement under subsection (a) or (b) may be entered into after December 31, 2012.
 
-(Added Pub. L. 110–417, \[div. A\], title VI, §620(b)(1), Oct. 14, 2008, 122 Stat. 4490; amended Pub. L. 111–84, div. A, title VI, §612(b)(1), Oct. 28, 2009, 123 Stat. 2353; Pub. L. 111–383, div. A, title VI, §612(b)(1), Jan. 7, 2011, 124 Stat. 4236.)
+(Added Pub. L. 110–417, \[div. A\], title VI, §620(b)(1), Oct. 14, 2008, 122 Stat. 4490; amended Pub. L. 111–84, div. A, title VI, §612(b)(1), Oct. 28, 2009, 123 Stat. 2353; Pub. L. 111–383, div. A, title VI, §612(b)(1), Jan. 7, 2011, 124 Stat. 4236; Pub. L. 112–81, div. A, title VI, §612(b)(1), Dec. 31, 2011, 125 Stat. 1449.)
 
 #### Amendments
 
-<b>2011</b>—Subsec. (f). Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
+<b>2011</b>—Subsec. (f). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
+
+Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
 
 <b>2009</b>—Subsec. (f). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
 

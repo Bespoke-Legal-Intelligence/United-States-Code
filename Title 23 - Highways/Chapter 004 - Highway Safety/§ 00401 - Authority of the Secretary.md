@@ -18,7 +18,7 @@ Section 3(c) of Pub. L. 98–363 provided that: “The amendments made by subsec
 
 #### Short Title of 1991 Amendment
 
-Pub. L. 102–240, title II, §2001, Dec. 18, 1991, 105 Stat. 2070, provided that: “This part \[part A (§§2001–2009) oftitle II of Pub. L. 102–240, amending sections 402, 403, and 410 of this title, enacting provisions set out as notes under sections 402, 403, and 410 of this title, and amending provisions set out below\] may be cited as the ‘Highway Safety Act of 1991’.”
+Pub. L. 102–240, title II, §2001, Dec. 18, 1991, 105 Stat. 2070, provided that: “This part \[part A (§§2001–2009) of title II of Pub. L. 102–240, amending sections 402, 403, and 410 of this title, enacting provisions set out as notes under sections 402, 403, and 410 of this title, and amending provisions set out below\] may be cited as the ‘Highway Safety Act of 1991’.”
 
 #### Short Title of 1988 Amendment
 
@@ -58,7 +58,7 @@ Pub. L. 109–59, title I, §1119(n), Aug. 10, 2005, 119 Stat. 1190, provided th
 
 “(1)
 
-In general.—The Secretary \[of Transportation\] shall conduct a study of methods to reduce collisions between motor vehicles and wildlife (in this subsection referred to as ‘wildlife vehicle collisions’).
+In general.—The Secretary \[of Transportation\] shall conduct a study of methods to reduce collisionsbetween motor vehicles and wildlife (in this subsection referred to as ‘wildlife vehicle collisions’).
 
 “(2)
 
@@ -272,7 +272,7 @@ Pub. L. 97–424, title II, §207, Jan. 6, 1983, 96 Stat. 2139, provided that: �
 
 #### National Driver Registration
 
-Pub. L. 97–364, title II, §§201–211, Oct. 25, 1982, 96 Stat. 1740–1748, as amended by Pub. L. 100–223, title III, §305, Dec. 30, 1987, 101 Stat. 1525; Pub. L. 100–342, §4(b), June 22, 1988, 102 Stat. 626; Pub. L. 101–380, title IV, §4105(a), Aug. 18, 1990, 104 Stat. 512; Pub. L. 102–240, title II, §2007, Dec. 18, 1991, 105 Stat. 2080, directed Secretary of Transportation to establish and maintain a National Driver Register to assist States in exchange of information on motor vehicle driving records of individuals and provided for reports by State officials, accessibility of Register information, a pilot test program, criminal penalties, an advisory committee, and a report to Congress by the Secretary, prior to repeal by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, and Pub. L. 103–429, §8(10), Oct. 31, 1994, 108 Stat. 4390, and was restated in part in chapter 303 of Title 49, Transportation.
+Pub. L. 97–364, title II, §§201–211, Oct. 25, 1982, 96 Stat. 1740–1748, as amended by Pub. L. 100–223, title III, §305, Dec. 30, 1987, 101 Stat. 1525; Pub. L. 100–342, §4(b), June 22, 1988, 102 Stat. 626; Pub. L. 101–380, title IV, §4105(a), Aug. 18, 1990, 104 Stat. 512; Pub. L. 102–240, title II, §2007, Dec. 18, 1991, 105 Stat. 2080, directed Secretary of Transportation to establish and maintain a National Driver Register to assist States in exchange of information on motor vehicle driving records of individuals and provided for reports by State officials, accessibility of Register information, a pilot test program, criminalpenalties, an advisory committee, and a report to Congress by the Secretary, prior to repeal by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, and Pub. L. 103–429, §8(10), Oct. 31, 1994, 108 Stat. 4390, and was restated in part in chapter 303 of Title 49, Transportation.
 
 #### Pilot Projects for Highway Safety Education and Information
 
@@ -294,7 +294,7 @@ National Highway Safety Campaign.—Utilizing those techniques, methods, and pra
 
 “(g) The Secretary of Transportation shall submit a report to the Congress on July 1 of each year in which the campaign is in progress on the results of such evaluation and on the steps being taken by the Secretary of Transportation to implement the recommendations of such evaluation.
 
-“(h) For the purpose of carrying out subsections (d), (e), (f), and (g) of this section, there is authorized to be appropriated out of the Highway Trust Fund,$10,000,000, to remain available until expended. None of the amounts authorized by this subsection shall be available for obligation for any education or information program conducted in connection with the implementation of Federal Motor Vehicle Safety Standard 208 (49 C.F.R. 571.208).
+“(h) For the purpose of carrying out subsections (d), (e), (f), and (g) of this section, there is authorized to be appropriated out of the Highway Trust Fund, $10,000,000, to remain available until expended. None of the amounts authorized by this subsection shall be available for obligation for any education or information program conducted in connection with the implementation of Federal Motor Vehicle Safety Standard 208 (49 C.F.R. 571.208).
 
 “(i) All provisions of chapter 1 of title 23, United States Code, that are applicable to Federal-aid primary highway funds, other than provisions relating to the apportionment formula and provisions limiting the expenditure of such funds to the Federal-aid systems, shall apply to the funds authorized to be appropriated to carry out this section, except as determined by the Secretary to be inconsistent with this section and except that the funds authorized to be appropriated to carry out this section shall not be subject to any obligation limitation.”
 
@@ -340,7 +340,7 @@ Section 202 of Pub. L. 89–564, as amended by Pub. L. 93–87, title II, §224,
 
 #### Detailed Cost Estimate of Highway Safety Act of 1966
 
-Section 207 of Pub. L. 89–564 directed Secretary, in cooperation with the Governors of appropriate State highway safety agencies, make a detailed estimate of the cost of carrying out the Highway Safety Act of 1966 in order to provide a basis for evaluating continuingprograms under the Act and to furnish Congress information necessary for authorization of appropriations for fiscal years beginning after June 30, 1969, such estimates to be submitted to Congress not later than Jan. 10, 1968.
+Section 207 of Pub. L. 89–564 directed Secretary, in cooperation with the Governors of appropriate State highway safety agencies, make a detailed estimate of the cost of carrying out the Highway Safety Act of 1966 in order to provide a basis for evaluating continuing programs under the Act and to furnish Congress information necessary for authorization of appropriations for fiscal years beginning after June 30, 1969, such estimates to be submitted to Congress not later than Jan. 10, 1968.
 
 #### Interstate Compacts for Highway Safety
 

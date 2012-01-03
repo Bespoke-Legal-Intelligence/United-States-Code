@@ -38,7 +38,7 @@ There are authorized to be appropriated $1,800,000 for each of the fiscal years 
 
 #### Amendments
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–116, which directed the amendment of subsec. (a) by substituting “Papa OlaLokahi” for “Kamehameha School/Bishop Estate”, was executed by making the substitution for “Kamehameha Schools/Bishop Estate” to reflect the probable intent of Congress.
+<b>2002</b>—Subsec. (a). Pub. L. 107–116, which directed the amendment of subsec. (a) by substituting “Papa Ola Lokahi” for “Kamehameha School/Bishop Estate”, was executed by making the substitution for “Kamehameha Schools/Bishop Estate” to reflect the probable intent of Congress.
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–644, which directed the general amendment of subsec. (a) of section 338J of the Public Health Service Act, was executed to subsec. (a) of this section, to reflect the probable intent of Congress and the intervening renumbering of section 338J as 338K by Pub. L. 101–597. Prior to amendment, subsec. (a) read as follows: “Subject to the availability of funds appropriated under the authority of subsection (d) of this section, the Secretary shall provide scholarship assistance, pursuant to a contract with the Kamehameha Schools/Bishop Estate, to students who—
 

@@ -10,7 +10,7 @@ For the purpose of this subchapter—
 
 &emsp;(2) the term “health care provider” means—
 
-&emsp;&emsp;(A) a doctor of medicine or osteopathy who is authorized to practice medicine or surgery\(as appropriate) by the State in which the doctor practices; and
+&emsp;&emsp;(A) a doctor of medicine or osteopathy who is authorized to practice medicine or surgery (as appropriate) by the State in which the doctor practices; and
 
 &emsp;&emsp;(B) any other person determined by the Director of the Office of Personnel Management to be capable of providing health care services;
 
@@ -62,21 +62,21 @@ For the purpose of this subchapter—
 
 #### Amendments
 
-2009—Par. (7). Pub. L. 111–84, §565(b)(1)(A), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “the term ‘active duty’ means duty under a call or order to active duty under a provision of law referred to in section 101(a)(13)(B) of title 10;”.
+<b>2009</b>—Par. (7). Pub. L. 111–84, §565(b)(1)(A), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “the term ‘active duty’ means duty under a call or order to active duty under a provision of law referred to in section 101(a)(13)(B) of title 10;”.
 
 Par. (8). Pub. L. 111–84, §565(b)(2), amended par. (8) generally. Prior to amendment, par. (8) read as follows: “the term ‘covered servicemember’ means a member of the Armed Forces, including a member of the National Guard or Reserves, who is undergoing medical treatment, recuperation, or therapy, is otherwise in an outpatient status, or is otherwise on the temporary disability retired list, for a serious injury or illness;”.
 
 Pars. (11), (12). Pub. L. 111–84, §565(b)(3), added pars. (11) and (12) and struck out former par. (11) which read as follows: “the term ‘serious injury or illness’, in the case of a member of the Armed Forces, means an injury or illness incurred by the member in line of duty on active duty in the Armed Forces that may render the member medically unfit to perform the duties of the member's office, grade, rank, or rating.”
 
-2008—Pars. (7) to (11). Pub. L. 110–181 added pars. (7) to (11).
+<b>2008</b>—Pars. (7) to (11). Pub. L. 110–181 added pars. (7) to (11).
 
-2004—Par. (1)(A). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Par. (1)(A). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-1995—Par. (1)(A). Pub. L. 104–1 struck out “and” after “District of Columbia” and inserted “, and any employee of the General Accounting Office or the Library of Congress” before semicolon.
+<b>1995</b>—Par. (1)(A). Pub. L. 104–1 struck out “and” after “District of Columbia” and inserted “, and any employee of the General Accounting Office or the Library of Congress” before semicolon.
 
 #### Effective Date of 1995 Amendment
 
-Amendment by Pub. L. 104–1 effective 1 year after transmission to Congress of the study under section1371 of Title 2, The Congress, see section 1312(e)(2) of Title 2. The study required under section 1371 of Title 2, dated Dec. 31, 1996, was transmitted to Congress by the Board of Directors of the Office of Compliance on Dec. 30, 1996.
+Amendment by Pub. L. 104–1 effective 1 year after transmission to Congress of the study under section 1371 of Title 2, The Congress, see section 1312(e)(2) of Title 2. The study required under section 1371 of Title 2, dated Dec. 31, 1996, was transmitted to Congress by the Board of Directors of the Office of Compliance on Dec. 30, 1996.
 
 #### Effective Date
 

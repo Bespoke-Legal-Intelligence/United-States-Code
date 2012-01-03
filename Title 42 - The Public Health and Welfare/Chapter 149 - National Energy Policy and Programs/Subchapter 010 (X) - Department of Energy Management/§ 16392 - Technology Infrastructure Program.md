@@ -138,5 +138,5 @@ There are authorized to be appropriated to the Secretary for activities under th
 
 #### Codification
 
-In subsec. (e)(3)(C), “section 1303(a)(1) of title 41” substituted for “section 25(c)(1) of the Office of FederalProcurement Policy Act (41 U.S.C. 421(c)(1))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (e)(3)(C), “section 1303(a)(1) of title 41” substituted for “section 25(c)(1) of the Office of Federal Procurement Policy Act (41 U.S.C. 421(c)(1))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 

@@ -18,7 +18,7 @@
 
 &emsp;&emsp;&emsp;(v) Any election official in the State, including any local election official, may obtain immediate electronic access to the information contained in the computerized list.
 
-&emsp;&emsp;&emsp;(vi) All voter registration information obtained by any local election official in the State shall be electronically entered into the computerized list on an expedited basis at the time the information is provided to the local official.
+&emsp;&emsp;&emsp;(vi) All voter registration information obtained by any local election official in the State shall be electronically entered into the computerized list on an expeditedbasis at the time the information is provided to the local official.
 
 &emsp;&emsp;&emsp;(vii) The chief State election official shall provide such support as may be required so that local election officials are able to enter information as described in clause (vi).
 
@@ -176,7 +176,7 @@
 
 &emsp;&emsp;&emsp;(i) The question “Are you a citizen of the United States of America?” and boxes for the applicant to check to indicate whether the applicant is or is not a citizen of the United States.
 
-&emsp;&emsp;&emsp;(ii) The question “Will you be 18 years of age on or before election day?” and boxes for the applicant to check to indicate whether or not the applicant will be 18 years of age or older on election day.
+&emsp;&emsp;&emsp;(ii) The question “Will you be 18 years of age on or before election day?” and boxesfor the applicant to check to indicate whether or not the applicant will be 18 years of age or older on election day.
 
 &emsp;&emsp;&emsp;(iii) The statement “If you checked ‘no’ in response to either of these questions, do not complete this form.”.
 
@@ -204,7 +204,7 @@ The last 4 digits of a social security number described in subsections (a)(5)(A)
 
 #### (B) Waiver
 
-&emsp;&emsp;If a State or jurisdiction certifies to the Commission not later than January 1, 2004, that the State or jurisdiction will not meet the deadline described in subparagraph (A) for good cause and includes in the certification the reasons for the failure to meet such deadline, subparagraph (A) shall applyto the State or jurisdiction as if the reference in such subparagraph to “January 1, 2004” were a reference to “January 1, 2006”.
+&emsp;&emsp;If a State or jurisdiction certifies to the Commission not later than January 1, 2004, that the State or jurisdiction will not meet the deadline described in subparagraph (A) for good cause and includes in the certification the reasons for the failure to meet such deadline, subparagraph (A) shall apply to the State or jurisdiction as if the reference in such subparagraph to “January 1, 2004” were a reference to “January 1, 2006”.
 
 #### (2) Requirement for voters who register by mail
 

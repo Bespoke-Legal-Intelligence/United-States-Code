@@ -46,7 +46,7 @@ delegate, as appropriate, to the Under Secretary for Arms Control and Internatio
 
 make, promulgate, issue, rescind, and amend such rules and regulations as may be necessary or desirable to the exercise of any authority conferred upon the Secretary of State by the provisions of this chapter.
 
-(Pub. L. 87–297, title IV, §401, formerly §41, Sept. 26, 1961, 75 Stat. 635; Pub. L. 93–332, §1(a), July 8, 1974, 88 Stat. 289; Pub. L. 95–108, §5, Aug. 17, 1977, 91 Stat. 872; Pub. L. 102–228, title IV, §401(b), Dec. 12, 1991, 105 Stat. 1698; Pub. L. 103–236, title VII, §715, Apr. 30, 1994, 108 Stat. 498; renumbered §401 and amended Pub. L. 105–277, div. G, subdiv. A, title XII, §1223(13), (21), Oct. 21, 1998, 112 Stat. 2681–770, 2681–772.)
+(Pub. L. 87–297, title IV, §401, formerly §41, Sept. 26, 1961, 75 Stat. 635; Pub. L. 93–332, §1(a), July 8, 1974, 88 Stat. 289; Pub. L. 95–108, §5, Aug. 17, 1977,91 Stat. 872; Pub. L. 102–228, title IV, §401(b), Dec. 12, 1991, 105 Stat. 1698; Pub. L. 103–236, title VII, §715, Apr. 30, 1994, 108 Stat. 498; renumbered §401 and amended Pub. L. 105–277, div. G, subdiv. A, title XII, §1223(13), (21), Oct. 21, 1998, 112 Stat. 2681–770, 2681–772.)
 
 #### References in Text
 

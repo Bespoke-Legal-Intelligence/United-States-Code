@@ -36,7 +36,7 @@
 
 (B) The aggregate amount granted under this subsection in any fiscal year may not exceed 10 percent of the total amount appropriated for purposes of this section for such year.
 
-(3) The Governor of a State receiving a grant under this subsection for developing a plan shallsubmit a copy of such plan to the Secretary of Agriculture as soon as practicable after it has been prepared.
+(3) The Governor of a State receiving a grant under this subsection for developing a plan shall submit a copy of such plan to the Secretary of Agriculture as soon as practicable after it has been prepared.
 
 #### (c) Land acquisition and development grants
 
@@ -94,7 +94,7 @@ For the purposes of this section—
 
 &emsp;(1) The term “coal or uranium development activities” means the production, processing, or transportation of coal or uranium.
 
-&emsp;(2) The term “site development” means necessary off-site improvements, such as the construction of sewer and water connections, construction of access roads, and appropriate siterestoration, but does not include any portion of the construction of housing or public facilities.
+&emsp;(2) The term “site development” means necessary off-site improvements, such as the construction of sewer and water connections, construction of access roads, and appropriate site restoration, but does not include any portion of the construction of housing or public facilities.
 
 #### (f) Reports
 
@@ -106,7 +106,7 @@ Any person regularly engaged in any coal or uranium development activity within 
 
 &emsp;(3) the projected quantity of coal (or uranium) to be produced, processed, or transported by such person during each of such calendar years; and
 
-&emsp;(4) actions such companies plan to take or are taking to provide needed housing and other facilities for their employees directly or by providing funds to the States or local communities for this purpose.
+&emsp;(4) actions such companies plan to take or are taking to provide needed housing andother facilities for their employees directly or by providing funds to the States or local communities for this purpose.
 
 > Copies of the report shall be provided to the Secretary of Energy and the Secretary shall, subject to the provisions of section 796(d) of title 15, provide the report to the Secretary of Agriculture, the Governor, and the appropriate county or local officials and make it available for public review.
 

@@ -44,11 +44,11 @@ Sections 2279a–2 and 2279a–3 of this title shall apply to banks merged under
 
 &emsp;Notwithstanding paragraph (2), the bylaws of the merged bank may, with the approval of the Farm Credit Administration, provide for a different number of directors to be selected in a different manner, except that the bylaws shall provide for at least one outside director.
 
-(Pub. L. 92–181, title VII, §7.12, as added Pub. L. 100–233, title IV, §416, Jan. 6, 1988, 101 Stat. 1652; amended Pub. L. 100–399, title IV, §408(q), (r), Aug. 17, 1988, 102 Stat. 1002, 1003.)
+(Pub. L. 92–181, title VII, §7.12, as added Pub. L. 100–233, title IV, §416, Jan. 6, 1988, 101 Stat. 1652;amended Pub. L. 100–399, title IV, §408(q), (r), Aug. 17, 1988, 102 Stat. 1002, 1003.)
 
 #### Amendments
 
-1988—Subsec. (b). Pub. L. 100–399, §408(q), substituted “Powers and capitalization” for “Procedures” in heading and, in amending text generally, substituted “Sections 2279a–2 and 2279a–3 of this title” for “The provisions of sections 2279a–2 through 2279a–4 of this title”.
+<b>1988</b>—Subsec. (b). Pub. L. 100–399, §408(q), substituted “Powers and capitalization” for “Procedures” in heading and, in amending text generally, substituted “Sections 2279a–2 and 2279a–3 of this title” for “The provisions of sections 2279a–2 through 2279a–4 of this title”.
 
 Subsec. (c)(2)(B). Pub. L. 100–399, §408(r), substituted “directors” for “members”.
 

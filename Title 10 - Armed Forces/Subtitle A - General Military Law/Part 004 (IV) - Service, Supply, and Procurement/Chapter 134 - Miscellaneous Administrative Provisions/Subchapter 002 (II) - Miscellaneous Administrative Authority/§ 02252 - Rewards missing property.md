@@ -1,6 +1,6 @@
 ### §2252. Rewards: missing property
 
-The Secretary of Defense and the Secretary of each military department may pay a reward of not more than $500 in any case for informationleading to the discovery of missing property under the jurisdiction of that Secretary or leading to the recovery of such property.
+The Secretary of Defense and the Secretary of each military department may pay a reward of not more than $500 in any case for information leading to the discovery of missing property under the jurisdiction of that Secretary or leading to the recovery of such property.
 
 (Added Pub. L. 100–370, §1(e)(1), July 19, 1988, 102 Stat. 845.)
 

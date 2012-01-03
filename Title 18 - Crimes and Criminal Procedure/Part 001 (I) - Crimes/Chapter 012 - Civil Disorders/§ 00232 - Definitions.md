@@ -14,7 +14,7 @@ For purposes of this chapter:
 
 (6) The term “fireman” means any member of a fire department (including a volunteer fire department) of any State, any political subdivision of a State, or the District of Columbia.
 
-(7) The term “law enforcement officer” means any officer or employee of the United States, any State, any political subdivision of a State, or the District of Columbia, while engaged in the enforcement or prosecution of any of the criminal laws of the United States, a State, any political subdivision of a State, or the District of Columbia; and such term shall specifically include members of the National Guard (as defined in section 101 of title 10), members of the organized militia of any State, or territory of the United States, the Commonwealth of Puerto Rico, or the District of Columbia not included within the National Guard (as defined in section 101 of title 10), and members of the Armed Forces of the United States, while engaged in suppressing acts of violence or restoring law and order during a civil disorder.
+(7) The term “law enforcement officer” means any officer or employee of the United States, any State, any political subdivision of a State, or the District of Columbia, while engaged in the enforcement or prosecution of any of the criminal laws of the United States, a State, any political subdivision of a State, or the District of Columbia; and such term shall specifically include members of the National Guard (as defined in section 101 of title 10), members of the organized militia of any State, or territory of the United States, the Commonwealth of Puerto Rico, or the District of Columbia not included within the National Guard (as defined in section 101 of title 10), and members of the ArmedForces of the United States, while engaged in suppressing acts of violence or restoring law and order during a civil disorder.
 
 (8) The term “State” includes a State of the United States, and any commonwealth, territory, or possession of the United States.
 
@@ -22,7 +22,7 @@ For purposes of this chapter:
 
 #### Amendments
 
-<b>1992</b>—Par. (7). Pub. L. 102–484 substituted “members of the National Guard (as defined in section 101 of title10),” for “, but shall not be limited to, members of the National Guard, as defined in section 101(9) of title 10, United States Code,” and “not included within the National Guard (as defined in section 101 of title 10),” for “, not included within the definition of National Guard as defined by such section 101(9),”.
+<b>1992</b>—Par. (7). Pub. L. 102–484 substituted “members of the National Guard (as defined in section 101 of title 10),” for “, but shall not be limited to, members of the National Guard, as defined in section 101(9) of title 10, United States Code,” and “not included within the National Guard (as defined in section 101 of title 10),” for “, not included within the definition of National Guard as defined by such section 101(9),”.
 
 <b>1990</b>—Par. (8). Pub. L. 101–647 added par. (8).
 

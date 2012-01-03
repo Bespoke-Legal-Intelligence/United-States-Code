@@ -24,5 +24,5 @@ The Secretary shall monitor the compliance of World Trade Organization member co
 
 #### Amendments
 
-1996—Subsec. (c). Pub. L. 104–127 added subsec. (c).
+<b>1996</b>—Subsec. (c). Pub. L. 104–127 added subsec. (c).
 

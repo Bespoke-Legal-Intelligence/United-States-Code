@@ -20,7 +20,7 @@ The members shall not receive any compensation for their services as members of 
 
 #### (d) Consultation by Secretary with private groups, etc.; cooperation with other Federal, State, etc., agencies and organizations
 
-In addition to his consultation with the advisory council, the Secretary shall seek the views of other private groups, individuals, and the public, and shall seek the views and assistance of, and cooperate with all other Federal, State, and local agencies with responsibilities for zoning, planning, migratory fish, waterfowl, andmarine animals, water, and natural resources, and all nonprofit agencies and organizations which may contribute information or expertise about the resources, and the management, of the Area, in order that the knowledge, expertise and views of all agencies and groups may contribute affirmatively to the most sensitive present and future use of the Area and its various subareas for the benefit of the public.
+In addition to his consultation with the advisory council, the Secretary shall seek the views of other private groups, individuals, and the public, and shall seek the views and assistance of, and cooperate with all other Federal, State, and local agencies with responsibilities for zoning, planning, migratory fish, waterfowl, and marine animals, water, and natural resources, and all nonprofit agencies and organizations which may contribute information or expertise about the resources, and the management, of the Area, in order that the knowledge, expertise and views of all agencies and groups may contribute affirmatively to the most sensitive present and future use of the Area and its various subareas for the benefit of the public.
 
 (Pub. L. 93–535, §8, Dec. 22, 1974, 88 Stat. 1733.)
 
@@ -30,5 +30,5 @@ The Federal Advisory Committee Act, referred to in subsec. (a), is Pub. L. 92–
 
 #### Termination of Advisory Councils
 
-Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment,unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 

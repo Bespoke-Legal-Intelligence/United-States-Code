@@ -2,7 +2,7 @@
 
 #### (a) Nutritional requirements
 
-(1)(A) Lunches served by schools participating in the school lunch program under this chapter shall meet minimum nutritional requirements prescribed by the Secretary on the basis of tested nutritional research, except that the minimum nutritional requirements—
+(1)(A) Lunches served by schools participating in the school lunch program under this chaptershall meet minimum nutritional requirements prescribed by the Secretary on the basis of tested nutritional research, except that the minimum nutritional requirements—
 
 &emsp;(i) shall not be construed to prohibit the substitution of foods to accommodate the medical or other special dietary needs of individual students; and
 
@@ -30,7 +30,7 @@ Substitutes.—
 
 &emsp;&emsp;(i)
 
-Standards for substitution.—A school may substitute for the fluid milk provided under subparagraph (A), a nondairy beverage that is nutritionally equivalent to fluid milk and meets nutritional standards established by the Secretary (which shall, among other requirements to be determined by the Secretary, include fortification of calcium, protein, vitamin A, and vitamin D to levels found in cow's milk) for students who cannot consume fluid milk because of a medical or other special dietary need otherthan a disability described in subparagraph (A)(iii).
+Standards for substitution.—A school may substitute for the fluid milk provided under subparagraph (A), a nondairy beverage that is nutritionally equivalent to fluid milk and meets nutritional standards established by the Secretary (which shall, among other requirements to be determined by the Secretary, include fortification of calcium, protein, vitamin A, and vitamin D to levels found in cow's milk) for students who cannot consume fluid milk because of a medical or other special dietary need other than a disability described in subparagraph (A)(iii).
 
 &emsp;&emsp;(ii)
 
@@ -90,7 +90,7 @@ Water.—Schools participating in the school lunch program under this chapter sh
 
 &emsp;(ii) the percentage change in the Consumer Price Index during the annual or other interval immediately preceding the time at which the adjustment is made.
 
-> Revisions under this subparagraph shall be made not more than 30 days after the date on whichthe consumer price index data required to compute the adjustment becomes available.
+> Revisions under this subparagraph shall be made not more than 30 days after the date on which the consumer price index data required to compute the adjustment becomes available.
 
 (2)(A) Following the determination by the Secretary under paragraph (1) of this subsection of the income eligibility guidelines for each school year, each State educational agency shall announce the income eligibility guidelines, by family size, to be used by schools in the State in making determinations of eligibility for free and reduced price lunches. Local school authorities shall, each year, publicly announce the income eligibility guidelines for free and reduced price lunches on or before the opening of school.
 
@@ -368,7 +368,7 @@ General deadline.—
 
 &emsp;&emsp;&emsp;(I)
 
-In general.—Subject to subclause (II), not later than November 15 of eachschool year, a local educational agency shall complete the verification activities required for the school year (including followup activities).
+In general.—Subject to subclause (II), not later than November 15 of each school year, a local educational agency shall complete the verification activities required for the school year (including followup activities).
 
 &emsp;&emsp;&emsp;(II)
 
@@ -434,7 +434,7 @@ Procedures.—Subject to paragraph (6), the agreement shall establish procedures
 
 &emsp;(C)
 
-Certification.—Subject to paragraph (6), under the agreement, the local educational agency conducting eligibility determinations for a school lunch program under this chapter and a school breakfast program under the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) shall certify a child who is a member of a household receiving assistance under the supplemental nutrition assistance program as eligible for free lunches under this chapter and free breakfasts under the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.), without further application.
+Certification.—Subject to paragraph (6), under the agreement, the local educationalagency conducting eligibility determinations for a school lunch program under this chapter and a school breakfast program under the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) shall certify a child who is a member of a household receiving assistance under the supplemental nutrition assistance program as eligible for free lunches under this chapter and free breakfasts under the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.), without further application.
 
 &emsp;(D)
 
@@ -550,7 +550,7 @@ Clarification.—A requirement that a household return a letter notifying the ho
 
 (5)
 
-Discretionary certification.—Subject to paragraph (6), any local educational agency may certify any child as eligible for free lunches or breakfasts, without further application, by directly communicating with the appropriate State or local agency to obtain documentation of the status of the child as—
+Discretionary certification.—Subject to paragraph (6), any local educational agency may certify any child as eligible for free lunches orbreakfasts, without further application, by directly communicating with the appropriate State or local agency to obtain documentation of the status of the child as—
 
 &emsp;(A) a member of a family that is receiving assistance under the temporary assistance for needy families program funded under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.) that the Secretary determines complies with standards established by the Secretary that ensure that the standards under the State program are comparable to or more restrictive than those in effect on June 1, 1995;
 
@@ -728,7 +728,7 @@ Eligible child.—The term “eligible child” means a child—
 
 &emsp;&emsp;&emsp;(bb) who is a member of a family with an income as measured by the Medicaid program before the application of any expense, block, or other income disregard, that does not exceed 133 percent of the poverty line (as defined in section 9902(2) of this title, including any revision required by such section)applicable to a family of the size used for purposes of determining eligibility for the Medicaid program; or
 
-&emsp;&emsp;&emsp;(II) who is a member of a household (as that term is defined in section 245.2 of title7, Code of Federal Regulations (or successor regulations) <sup>2</sup> with a child described in subclause (I).
+&emsp;&emsp;&emsp;(II) who is a member of a household (as that term is defined in section 245.2 of title 7, Code of Federal Regulations (or successor regulations) <sup>2</sup> with a child described in subclause (I).
 
 &emsp;&emsp;(ii)
 
@@ -816,7 +816,7 @@ Considerations.—In selecting States and local educational agencies for partici
 
 Access to data.—For purposes of conducting the demonstration project under this paragraph, the Secretary shall have access to—
 
-&emsp;&emsp;(i) educational and other records of State and local educational and other agencies andinstitutions receiving funding or providing benefits for 1 or more programs authorized under this chapter or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.); and
+&emsp;&emsp;(i) educational and other records of State and local educational and other agencies and institutions receiving funding or providing benefits for 1 or more programs authorized under this chapter or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.); and
 
 &emsp;&emsp;(ii) income and program participation information from public agencies administering the Medicaid program.
 
@@ -858,7 +858,7 @@ School lunch programs under this chapter shall be operated on a nonprofit basis.
 
 &emsp;(B) documentation showing that the household is participating in the supplemental nutrition assistance program under the Food and Nutrition Act of 2008 \[7 U.S.C. 2011 et seq.\] has been provided to the appropriate local educational agency;
 
-&emsp;(C) documentation has been provided to the appropriate local educational agency showing that the family is receiving assistance under the State program funded under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\] that the Secretary determines complies with standards established by the Secretary that ensure that the standards under the State program are comparable to or more restrictive than those in effect on June 1, 1995;
+&emsp;(C) documentation has been provided to the appropriate local educational agency showing that the family is receiving assistance under the State program funded under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\] that the Secretary determines complies with standards established by the Secretarythat ensure that the standards under the State program are comparable to or more restrictive than those in effect on June 1, 1995;
 
 &emsp;(D) documentation has been provided to the appropriate local educational agency showing that the child meets the criteria specified in clauses (iv) or (v) of subsection (b)(12)(A) of this section;
 
@@ -1002,7 +1002,31 @@ The Secretary shall—
 
 &emsp;There are authorized to be appropriated to carry out this subsection such sums as are necessary for each of fiscal years 2011 through 2015.
 
-(June 4, 1946, ch. 281, §9, 60 Stat. 233; Pub. L. 90–302, §2(b), May 8, 1968, 82 Stat. 117; Pub. L. 91–248, §6(a), (b), (d), (e), May 14, 1970, 84 Stat. 210; Pub. L. 92–153, §5, Nov. 5, 1971, 85 Stat. 420; Pub. L. 92–433, §5, Sept. 26, 1972, 86 Stat. 726; Pub. L. 93–150, §9, Nov. 7, 1973, 87 Stat. 564; Pub. L. 93–326, §4, June 30, 1974, 88 Stat. 286; Pub. L. 94–105, §6, Oct. 7, 1975, 89 Stat. 512; Pub. L. 95–166, §8, Nov. 10, 1977, 91 Stat. 1335; Pub. L. 95–627, §8, Nov. 10, 1978, 92 Stat. 3622; Pub. L. 97–35, title VIII, §§803(a), (b), 811, Aug. 13, 1981, 95 Stat. 524, 525, 529; Pub. L. 99–500, title III, §§322–324, Oct. 18, 1986, 100 Stat. 1783–361, and Pub. L. 99–591, title III, §§322–324, Oct. 30, 1986, 100 Stat. 3341–364; Pub. L. 99–661, div. D, title II, §§4202–4204, Nov. 14, 1986, 100 Stat. 4072; Pub. L. 100–356, §1, June 28, 1988, 102 Stat. 669; Pub. L. 101–147, title I, §101, title II, §202(a)(1), (2)(A), (b), title III, §§305, 312(1), (2), Nov. 10, 1989, 103 Stat. 878, 908, 914, 916; Pub. L. 103–448, title I, §§105(a), 106–109(a), 110, Nov. 2, 1994, 108 Stat. 4701–4705; Pub. L. 104–149, §2, May 29, 1996, 110 Stat. 1379; Pub. L. 104–193, title I, §109(g), title VII, §§702, 703, Aug. 22, 1996, 110 Stat. 2170, 2288, 2289; Pub. L. 105–336, title I, §102, Oct. 31, 1998, 112 Stat. 3144; Pub. L. 106–224, title II, §242(a), June 20, 2000, 114 Stat. 411; Pub. L. 107–171, title IV, §§4302(a), 4303, May 13, 2002, 116 Stat. 330, 331; Pub. L. 108–134, §1, Nov. 22, 2003, 117 Stat. 1389; Pub. L. 108–211, §1, Mar. 31, 2004, 118 Stat. 566; Pub. L. 108–265, title I, §§102–104(b)(1), (d)(1), (2), 105(a), 106–108(a), 109–112, June 30, 2004, 118 Stat. 731–734, 737, 738, 745–747; Pub. L. 108–447, div. A, title VII, §788(a), Dec. 8, 2004, 118 Stat. 2851; Pub. L. 110–134, §29(c)(1), Dec. 12, 2007, 121 Stat. 1449; Pub. L. 110–234, title IV, §§4002(b)(1)(A), (B), (E), (2)(Z), 4302, May 22, 2008, 122 Stat. 1095–1097, 1125; Pub. L. 110–246, §4(a), title IV, §§4002(b)(1)(A), (B), (E), (2)(Z), 4302, June 18, 2008, 122 Stat. 1664, 1857, 1859, 1887; Pub. L. 111–80, title VII, §§734(a), 749(b), (c), Oct. 21, 2009, 123 Stat. 2125, 2131; Pub. L. 111–296, title I, §§101—103(b), title II, §§202, 203, 209, 242, title III, §§301, 302, title IV, §§402, 441(a)(1), Dec. 13, 2010, 124 Stat. 3185–3191, 3216, 3222, 3236, 3240, 3259, 3261.)
+#### (<i>l</i>) Food donation program
+
+#### (1) In general
+
+&emsp;Each school and local educational agency participating in the school lunch program under this chapter may donate any food not consumed under such program to eligible local food banks or charitable organizations.
+
+#### (2) Guidance
+
+#### (A) In general
+
+&emsp;&emsp;Not later than 180 days after November 18, 2011, the Secretary shall develop and publish guidance to schools and local educational agencies participating in the school lunch program under this chapter to assist such schools and local educational agencies in donating food under this subsection.
+
+#### (B) Updates
+
+&emsp;&emsp;The Secretary shall update such guidance as necessary.
+
+#### (3) Liability
+
+&emsp;Any school or local educational agency making donations pursuant to this subsection shall be exempt from civil and criminal liability to the extent provided under section 1791 of this title.
+
+#### (4) Definition
+
+&emsp;In this subsection, the term “eligible local food banks or charitable organizations” means any food bank or charitable organization which is exempt from tax under section 501(c)(3) of title 26.
+
+(June 4, 1946, ch. 281, §9, 60 Stat. 233; Pub. L. 90–302, §2(b), May 8, 1968, 82 Stat. 117; Pub. L. 91–248, §6(a), (b), (d), (e), May 14, 1970, 84 Stat. 210; Pub. L. 92–153, §5, Nov. 5, 1971, 85 Stat. 420; Pub. L. 92–433, §5, Sept. 26, 1972, 86 Stat. 726; Pub. L. 93–150, §9, Nov. 7, 1973, 87 Stat. 564; Pub. L. 93–326, §4, June 30, 1974, 88 Stat. 286; Pub. L.94–105, §6, Oct. 7, 1975, 89 Stat. 512; Pub. L. 95–166, §8, Nov. 10, 1977, 91 Stat. 1335; Pub. L. 95–627, §8, Nov. 10, 1978, 92 Stat. 3622; Pub. L. 97–35, title VIII, §§803(a), (b), 811, Aug. 13, 1981, 95 Stat. 524, 525, 529; Pub. L. 99–500, title III, §§322–324, Oct. 18, 1986, 100 Stat. 1783–361, and Pub. L. 99–591, title III, §§322–324, Oct. 30, 1986, 100 Stat. 3341–364; Pub. L. 99–661, div. D, title II, §§4202–4204, Nov. 14, 1986, 100 Stat. 4072; Pub. L. 100–356, §1, June 28, 1988, 102 Stat. 669; Pub. L. 101–147, title I, §101, title II, §202(a)(1), (2)(A), (b), title III, §§305, 312(1), (2), Nov. 10, 1989, 103 Stat. 878, 908, 914, 916; Pub. L. 103–448, title I, §§105(a), 106–109(a), 110, Nov. 2, 1994, 108 Stat. 4701–4705; Pub. L. 104–149, §2, May 29, 1996, 110 Stat. 1379; Pub. L. 104–193, title I, §109(g), title VII, §§702, 703, Aug. 22, 1996, 110 Stat. 2170, 2288, 2289; Pub. L. 105–336, title I, §102, Oct. 31, 1998, 112 Stat. 3144; Pub. L. 106–224, title II, §242(a), June 20, 2000, 114 Stat. 411; Pub. L. 107–171, title IV, §§4302(a), 4303, May 13, 2002, 116 Stat. 330, 331; Pub. L. 108–134, §1, Nov. 22, 2003, 117 Stat. 1389; Pub. L. 108–211, §1, Mar. 31, 2004, 118 Stat. 566; Pub. L. 108–265, title I, §§102–104(b)(1), (d)(1), (2), 105(a), 106–108(a), 109–112, June 30, 2004, 118 Stat. 731–734, 737, 738, 745–747; Pub. L. 108–447, div. A, title VII, §788(a), Dec. 8, 2004, 118 Stat. 2851; Pub. L. 110–134, §29(c)(1), Dec. 12, 2007, 121 Stat. 1449; Pub. L. 110–234, title IV, §§4002(b)(1)(A), (B), (E), (2)(Z), 4302, May 22, 2008, 122 Stat. 1095–1097, 1125; Pub. L. 110–246, §4(a), title IV, §§4002(b)(1)(A), (B), (E), (2)(Z), 4302, June 18, 2008, 122 Stat. 1664, 1857, 1859, 1887; Pub. L. 111–80, title VII, §§734(a), 749(b), (c), Oct. 21, 2009, 123 Stat. 2125, 2131; Pub. L. 111–296, title I, §§101—103(b), title II, §§202, 203, 209, 242, title III, §§301, 302, title IV, §§402, 441(a)(1), Dec. 13, 2010, 124 Stat. 3185–3191, 3216, 3222, 3236, 3240, 3259, 3261; Pub. L. 112–55, div. A, title VII, §734, Nov. 18, 2011, 125 Stat. 587.)
 
 #### References in Text
 
@@ -1023,6 +1047,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (<i>l</i>). Pub. L. 112–55 added subsec. (<i>l</i>).
 
 <b>2010</b>—Subsec. (a)(2)(A)(i). Pub. L. 111–296, §202, added cl. (i) and struck out former cl. (i) which read as follows: “shall offer students fluid milk in a variety of fat contents;”.
 
@@ -1074,7 +1100,7 @@ Subsec. (b)(12)(A)(i). Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(Z), substitu
 
 Subsec. (b)(12)(B). Pub. L. 110–246, §4002(b)(1)(E), (2)(Z), substituted “supplemental nutrition assistance program benefits” for “food stamps”.
 
-Subsec. (d)(2)(B). Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(Z), substituted “supplemental nutrition assistance program” for “food stamp program” and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
+Subsec. (d)(2)(B). Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(Z), substituted “supplemental nutrition assistanceprogram” for “food stamp program” and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
 
 Subsec. (j). Pub. L. 110–246, §4302, amended subsec. (j) generally. Prior to amendment, subsec. (j) related to encouragement of purchases of locally produced foods, provision of startup grants, and authorization of appropriations.
 
@@ -1184,7 +1210,7 @@ Subsec. (i). Pub. L. 105–336, §102(d), added subsec. (i).
 
 <b>1996</b>—Subsec. (a)(2). Pub. L. 104–193, §702(a)(1), redesignated par. (2)(A) as (2) and cls. (i) and (ii) of former subpar. (A) as subpars. (A) and (B), respectively, and struck out former subpar. (B) which read as follows:
 
-“(B)(i) The Secretary shall purchase in each calendar year to carry out the school lunch program under this chapter, and the school breakfast program under section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773), lowfat cheese on a bid basis in a quantity that is the milkfat equivalent of the quantity of milkfat the Secretary estimates the Commodity Credit Corporation will purchase each calendar year as a result of the elimination of the requirement that schools offer students fluid whole milk and fluid unflavored lowfat milk, based on data provided by the Director of Office of Management and Budget.
+“(B)(i) The Secretary shall purchase in each calendar year to carry out the school lunch program under thischapter, and the school breakfast program under section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773), lowfat cheese on a bid basis in a quantity that is the milkfat equivalent of the quantity of milkfat the Secretary estimates the Commodity Credit Corporation will purchase each calendar year as a result of the elimination of the requirement that schools offer students fluid whole milk and fluid unflavored lowfat milk, based on data provided by the Director of Office of Management and Budget.
 
 “(ii) Not later than 30 days after the Secretary provides an estimate required under clause (i), the Director of the Congressional Budget Office shall provide to the appropriate committees of Congress a report on whether the Director concurs with the estimate of the Secretary.
 
@@ -1206,7 +1232,7 @@ Pub. L. 104–193, §702(b)(1), substituted “provision of law” for “of the
 
 Subsec. (d)(2)(C). Pub. L. 104–193, §109(g)(2), substituted “State program funded” for “program for aid to families with dependent children” and inserted before period at end “that the Secretary determines complies with standards established by the Secretary that ensure that the standards under the State program are comparable to or more restrictive than those in effect on June 1, 1995”.
 
-Subsec. (f). Pub. L. 104–193, §702(c)(1)–(3), struck out “(2)” designation before “(A) Except as provided”, redesignated subpars. (A) to (D) as pars. (1) to (4), respectively, and struck out former par. (1) which read as follows: “Not later than the first day of the 1996–97 school year, the Secretary, State educational agencies,schools, and school food service authorities shall, to the maximum extent practicable, inform students who participate in the school lunch and school breakfast programs, and parents and guardians of the students, of—
+Subsec. (f). Pub. L. 104–193, §702(c)(1)–(3), struck out “(2)” designation before “(A) Except as provided”, redesignated subpars. (A) to (D) as pars. (1) to (4), respectively, and struck out former par. (1) which read as follows: “Not later than the first day of the 1996–97 school year, the Secretary, State educational agencies, schools, and school food service authorities shall, to the maximum extent practicable, inform students who participate in the school lunch and school breakfast programs, and parents and guardians of the students, of—
 
 &emsp;“(A) the nutritional content of the lunches and breakfasts that are served under the programs; and
 
@@ -1282,7 +1308,7 @@ Subsec. (d). Pub. L. 97–35, §803(b), added subsec. (d).
 
 Subsec. (b)(1). Pub. L. 94–105, §6(b), designated existing provisions as subsec. (b)(1), struck out “if a school elects to serve reduced-price lunches” after “reduced price not to exceed 20 cents”, inserted provision for a reduced price lunch for any child eligible under reduced price lunch income guidelines, established income guidelines for reduced price lunches, beginning with fiscal year ending June 30, 1976, at 95 per centum above applicable family size income levels in income poverty guidelines, and provided for a reduced price lunch not to exceed 20 cents to any child belonging to a household whose income falls between guidelines for a free lunch and 95 per centum above income levels in the income poverty guidelines.
 
-Pub. L. 94–105, §6(c), substituted provision adjusting income poverty guidelines that take effect July 1 of each year according to percentage change in Consumer Price Index for 12-month period ending in April of that year, except that the first adjustment, effective July 1, 1976, shall be made according to percentage change between average Consumer Price Index for 1974, on which the 1975–1976 guidelines are based, and Consumer Price Index for April 1976 for provision basing the guidelines on average Consumer Price Index for previous calendar year.
+Pub. L. 94–105, §6(c), substituted provision adjusting income poverty guidelines that take effect July 1 of each year according to percentage change in Consumer Price Index for 12-month period ending in April of that year, except that the first adjustment, effective July 1,1976, shall be made according to percentage change between average Consumer Price Index for 1974, on which the 1975–1976 guidelines are based, and Consumer Price Index for April 1976 for provision basing the guidelines on average Consumer Price Index for previous calendar year.
 
 Subsec. (b)(2). Pub. L. 94–105, §6(d), added par. (2).
 
@@ -1306,7 +1332,7 @@ Subsec. (c). Pub. L. 92–433, §5(c), designated eighth through thirteenth sent
 
 #### Change of Name
 
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Effective Date of 2010 Amendment
 
@@ -1452,7 +1478,7 @@ Section 803(c) of Pub. L. 97–35 provided that: “Notwithstanding any other pr
 
 #### Procedures for Implementing New Income Eligibility Guidelines for Free and Reduced-Price Lunches
 
-Section 803(d) of Pub. L. 97–35 provided that for school year ending June 30, 1982, Secretary could prescribe procedures for implementing the revisions made by section 803 of Pub. L. 97–35, amending this section, to the income eligibility guidelines for free and reduced-price lunches under this section, and that such procedures could allow school food authorities to use applications distributed at beginning of school year when making eligibility determinations or to distribute new applications.
+Section 803(d) of Pub. L. 97–35 provided that for school year ending June 30, 1982, Secretary could prescribe procedures for implementing the revisions made by section 803 of Pub. L. 97–35, amending this section, to the income eligibility guidelines for free and reduced-price lunches under this section, and that such procedures could allow school food authorities to useapplications distributed at beginning of school year when making eligibility determinations or to distribute new applications.
 
 #### Lowering Minimum Standard of Eligibility and Reduction in Number of Children Served, Fiscal Year 1972
 

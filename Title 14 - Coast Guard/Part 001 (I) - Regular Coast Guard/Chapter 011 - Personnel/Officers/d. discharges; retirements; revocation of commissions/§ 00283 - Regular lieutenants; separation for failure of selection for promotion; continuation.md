@@ -1,6 +1,6 @@
 ### §283. Regular lieutenants; separation for failure of selection for promotion; continuation
 
-(a) Each officer of the Regular Coast Guard appointed under section 211 of this title who isserving in the grade of lieutenant and who has failed of selection for promotion to the grade of lieutenant commander for the second time shall:
+(a) Each officer of the Regular Coast Guard appointed under section 211 of this title who is serving in the grade of lieutenant and who has failed of selection for promotion to the grade of lieutenant commander for the second time shall:
 
 &emsp;(1) be honorably discharged on June 30 of the promotion year in which his second failure of selection occurs; or
 
@@ -26,15 +26,15 @@
 
 #### Amendments
 
-2002—Subsec. (b)(2)(A). Pub. L. 107–295 substituted “separation” for “severance”.
+<b>2002</b>—Subsec. (b)(2)(A). Pub. L. 107–295 substituted “separation” for “severance”.
 
-1996—Subsec. (b). Pub. L. 104–324 designated existing provisions as par. (1), struck out “Upon the completion of such a term he shall, unless selected for further continuation, be honorably discharged with severance pay computed under section 286 of this title, or, if eligible for retirement under any law, be retired.” at end of par. (1), and added par. (2).
+<b>1996</b>—Subsec. (b). Pub. L. 104–324 designated existing provisions as par. (1), struck out “Upon the completion of such a term he shall, unless selected for further continuation, be honorably discharged with severance pay computed under section 286 of this title, or, if eligible for retirement under any law, be retired.” at end of par. (1), and added par. (2).
 
-1982—Subsec. (b). Pub. L. 97–295 substituted “of this title” for “of this chapter” after “section 251”.
+<b>1982</b>—Subsec. (b). Pub. L. 97–295 substituted “of this title” for “of this chapter” after “section 251”.
 
-1976—Subsec. (a)(1). Pub. L. 94–546 substituted “promotion year” for “fiscal year”.
+<b>1976</b>—Subsec. (a)(1). Pub. L. 94–546 substituted “promotion year” for “fiscal year”.
 
-1974—Subsec. (a)(3). Pub. L. 93–283 substituted “he has completed at least 20 years of active service or is eligible” for “he is eligible”.
+<b>1974</b>—Subsec. (a)(3). Pub. L. 93–283 substituted “he has completed at least 20 years of active service or is eligible” for “he is eligible”.
 
 #### Effective Date of 2002 Amendment
 

@@ -40,9 +40,9 @@ The following shall be exempt from the specific provisions of this chapter under
 
 #### Amendments
 
-1993—Subsec. (a)(1). Pub. L. 103–188 substituted “75,000” for “30,000”.
+<b>1993</b>—Subsec. (a)(1). Pub. L. 103–188 substituted “75,000” for “30,000”.
 
-1989—Pub. L. 101–220 amended section generally. Prior to amendment, section read as follows: “The following may be exempt from specific provisions of this chapter under such conditions and procedures as may be prescribed in the order or rules and regulations issued thereunder:
+<b>1989</b>—Pub. L. 101–220 amended section generally. Prior to amendment, section read as follows: “The following may be exempt from specific provisions of this chapter under such conditions and procedures as may be prescribed in the order or rules and regulations issued thereunder:
 
 “(a) Any egg producer whose aggregate number of laying hens at any time during a three-consecutive-month period immediately prior to the date assessments are due and payable has not exceeded three thousand laying hens.
 

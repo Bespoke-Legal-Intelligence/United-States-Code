@@ -60,17 +60,17 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1993—Par. (2)(A). Pub. L. 103–89 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “an employee as defined by section 2105 of this title, but does not include an employee covered by the performance management and recognition system established under chapter 54 of this title; and”.
+<b>1993</b>—Par. (2)(A). Pub. L. 103–89 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “an employee as defined by section 2105 of this title, but does not include an employee covered by the performance management and recognition system established under chapter 54 of this title; and”.
 
-1990—Par. (1). Pub. L. 101–474 redesignated subpars. (C) to (H) as (B) to (G), respectively, and struck out former subpar. (B) which included Administrative Office of United States Courts within definition of “agency”.
+<b>1990</b>—Par. (1). Pub. L. 101–474 redesignated subpars. (C) to (H) as (B) to (G), respectively, and struck out former subpar. (B) which included Administrative Office of United States Courts within definition of “agency”.
 
-1988—Par. (1)(H). Pub. L. 100–690 added subpar. (H).
+<b>1988</b>—Par. (1)(H). Pub. L. 100–690 added subpar. (H).
 
-1984—Par. (2)(A). Pub. L. 98–615 substituted “the performance management and recognition system established under chapter 54” for “the merit pay system established under section 5402”.
+<b>1984</b>—Par. (2)(A). Pub. L. 98–615 substituted “the performance management and recognition system established under chapter 54” for “the merit pay system established under section 5402”.
 
-1981—Pub. L. 97–35 substituted “subchapter” for “chapter” in provision preceding par. (1).
+<b>1981</b>—Pub. L. 97–35 substituted “subchapter” for “chapter” in provision preceding par. (1).
 
-1978—Par. (2)(A). Pub. L. 95–454 inserted reference to an employee covered by merit pay system established under section 5402 of this title.
+<b>1978</b>—Par. (2)(A). Pub. L. 95–454 inserted reference to an employee covered by merit pay system established under section 5402 of this title.
 
 #### Effective Date of 1993 Amendment
 
@@ -82,7 +82,7 @@ Section 205 of Pub. L. 98–615 provided that amendment by Pub. L. 98–615 was 
 
 #### Effective Date of 1981 Amendment
 
-Section 1703(c) of Pub. L. 97–35 provided that: “The amendments made by this section \[enacting subchapter II of this chapter, designating this section and sections 4502 to 4507 of this title as subchapter I, and amending this section and sections 4502, 4505, and 4506 of this title\] shall take effect on October 1, 1981.”
+Section 1703(c) of Pub. L. 97–35 provided that: “The amendments made by this section \[enacting subchapterII of this chapter, designating this section and sections 4502 to 4507 of this title as subchapter I, and amending this section and sections 4502, 4505, and 4506 of this title\] shall take effect on October 1, 1981.”
 
 #### Effective Date of 1978 Amendment
 

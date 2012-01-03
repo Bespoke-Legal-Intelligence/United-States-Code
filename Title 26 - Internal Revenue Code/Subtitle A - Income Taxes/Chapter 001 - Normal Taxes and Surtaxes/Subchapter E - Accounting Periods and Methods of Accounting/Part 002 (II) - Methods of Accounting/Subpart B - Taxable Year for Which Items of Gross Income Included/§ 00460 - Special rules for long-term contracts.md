@@ -14,7 +14,7 @@ In the case of any long-term contract, the taxable income from such contract sha
 
 &emsp;&emsp;(B) upon completion of the contract (or, with respect to any amount properly taken into account after completion of the contract, when such amount is so properly taken into account), the taxpayer shall pay (or shall be entitled to receive) interest computed under the look-back method of paragraph (2).
 
-> &emsp;In the case of any long-term contract with respect to which the percentage of completion method is used, except for purposes of applying the look-back method of paragraph (2), any income under the contract (to the extent not previously includible in gross income) shall be included in gross income for the taxable year following the taxable year in which the contract was completed. For purposes of subtitle F (other than sections 6654 and 6655), any interest required to be paid by the taxpayer under subparagraph (B) shall be treated as an increase in the tax imposed by this chapter for the taxable year in which the contract is completed (or, in the case of interest payable with respect to any amount properly taken into account after completion of the contract, for the taxable year in which the amount is so properly taken into account).
+> &emsp;In the case of any long-term contract with respect to which the percentage of completion method is used, except for purposes of applying the look-back method of paragraph (2), any income under the contract (to the extentnot previously includible in gross income) shall be included in gross income for the taxable year following the taxable year in which the contract was completed. For purposes of subtitle F (other than sections 6654 and 6655), any interest required to be paid by the taxpayer under subparagraph (B) shall be treated as an increase in the tax imposed by this chapter for the taxable year in which the contract is completed (or, in the case of interest payable with respect to any amount properly taken into account after completion of the contract, for the taxable year in which the amount is so properly taken into account).
 
 #### (2) Look-back method
 
@@ -98,7 +98,7 @@ In the case of any long-term contract, the taxable income from such contract sha
 
 #### (iii) Closely held pass-thru entity
 
-&emsp;&emsp;&emsp;The term “closely held pass-thru entity” means any pass-thru entity if, at any time during any taxable year for which there is income under the contract, 50 percent or more (by value) of the beneficial interests in such entity are held (directly or indirectly) by or for 5 or fewer persons. For purposes of the preceding sentence, rules similar to the constructive ownership rules of section 1563(e) shall apply.
+&emsp;&emsp;&emsp;The term “closely held pass-thru entity” means any pass-thru entity if, at any time during any taxable year for which there is income under the contract, 50 percent or more (by value) of the beneficial interestsin such entity are held (directly or indirectly) by or for 5 or fewer persons. For purposes of the preceding sentence, rules similar to the constructive ownership rules of section 1563(e) shall apply.
 
 #### (5) Election to use 10-percent method
 
@@ -194,7 +194,7 @@ In the case of any long-term contract, the taxable income from such contract sha
 
 #### (2) Costs identified under cost-plus and certain Federal contracts
 
-&emsp;In the case of a cost-plus long-term contract or a Federal long-term contract, any cost not allocated to such contract under paragraph (1) shall be allocated to such contract if such cost is identified by the taxpayer (or a related person), pursuant to the contract or Federal, State, or local law or regulation, as being attributable to such contract.
+&emsp;In the case of a cost-plus long-term contract or a Federal long-term contract, any cost notallocated to such contract under paragraph (1) shall be allocated to such contract if such cost is identified by the taxpayer (or a related person), pursuant to the contract or Federal, State, or local law or regulation, as being attributable to such contract.
 
 #### (3) Allocation of production period interest to contract
 
@@ -240,7 +240,7 @@ In the case of any long-term contract, the taxable income from such contract sha
 
 #### (A) In general
 
-&emsp;&emsp;Solely for purposes of determining the percentage of completion under subsection (b)(1)(A), the cost of qualified property shallbe taken into account as a cost allocated to the contract as if subsection (k) of section 168 had not been enacted.
+&emsp;&emsp;Solely for purposes of determining the percentage of completion under subsection (b)(1)(A), the cost of qualified property shall be taken into account as a cost allocated to the contract as if subsection (k) of section 168 had not been enacted.
 
 #### (B) Qualified property
 
@@ -292,7 +292,7 @@ For purposes of this section—
 
 &emsp;&emsp;(C) any predecessor of the taxpayer or a person described in subparagraph (A) or (B),
 
-> &emsp;for the 3 taxable years of such persons preceding the taxable year in which the contract described in paragraph (1) is entered into shall be included in the gross receipts of the taxpayer for the period described in paragraph (1)(B). The Secretary shall prescribe regulations which provide attribution rules that take into account, in addition to the persons and entities described in the preceding sentence, taxpayers who engage in construction contracts through partnerships, joint ventures, and corporations.
+> &emsp;for the 3 taxable years of such persons preceding the taxable year in which the contract described in paragraph (1) is entered into shall be included in the gross receipts of the taxpayer for the period described in paragraph\(1)(B). The Secretary shall prescribe regulations which provide attribution rules that take into account, in addition to the persons and entities described in the preceding sentence, taxpayers who engage in construction contracts through partnerships, joint ventures, and corporations.
 
 #### (3) Controlled group of corporations
 
@@ -482,7 +482,7 @@ Subsec. (e)(6). Pub. L. 100–647, §5041(b)(3), added par. (6).
 
 Subsec. (h). Pub. L. 100–647, §5041(c), added subsec. (h).
 
-<b>1987</b>—Subsec. (a). Pub. L. 100–203 substituted “70 percent” for “40 percent” in par. (1)(A) and in heading and text of par. (2), and “30 percent” for “60 percent” in par. (1)(B).
+<b>1987</b>—Subsec. (a). Pub. L. 100–203 substituted “70 percent” for “40 percent” in par. (1)(A) and in heading andtext of par. (2), and “30 percent” for “60 percent” in par. (1)(B).
 
 #### Effective Date of 2010 Amendment
 
@@ -540,7 +540,7 @@ and (c).—
 
 &emsp;“(A)
 
-In general.—Except as otherwise provided in this paragraph, the amendments made by subsections (a), (b), and (c) \[amending this section and section 56of this title\] shall apply to contracts entered into on or after June 21, 1988.
+In general.—Except as otherwise provided in this paragraph, the amendments made by subsections (a), (b), and (c) \[amending this section and section 56 of this title\] shall apply to contracts entered into on or after June 21, 1988.
 
 &emsp;“(B)
 
@@ -608,7 +608,7 @@ Section 804(b) of Pub. L. 99–514 provided that: “The Secretary of the Treasu
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certaintransactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Method of Accounting for Naval Shipbuilders
 

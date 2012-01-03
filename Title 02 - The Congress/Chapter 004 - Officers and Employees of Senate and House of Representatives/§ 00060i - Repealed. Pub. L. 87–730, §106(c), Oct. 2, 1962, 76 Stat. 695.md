@@ -8,5 +8,5 @@ Repeal effective Sept. 1, 1962, see section 106(e) of Pub. L. 87–730, set out 
 
 #### Prohibition Against Payment of Longevity Increase After September 1, 1962
 
-Section 106(c) of Pub. L. 87–730 provided in part that no longevity increase payable under authority of this section prior to Sept. 1, 1962, shall be payable on or after Sept. 1, 1962.
+Section 106(c) of Pub. L. 87–730 provided in part that no longevity increase payable under authority of thissection prior to Sept. 1, 1962, shall be payable on or after Sept. 1, 1962.
 

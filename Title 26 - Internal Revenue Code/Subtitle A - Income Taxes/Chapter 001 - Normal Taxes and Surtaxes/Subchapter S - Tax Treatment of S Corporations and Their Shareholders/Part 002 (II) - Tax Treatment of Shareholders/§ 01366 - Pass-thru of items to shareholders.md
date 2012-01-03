@@ -42,7 +42,7 @@ In any case where it is necessary to determine the gross income of a shareholder
 
 #### (B) Transfers of stock between spouses or incident to divorce
 
-&emsp;&emsp;In the case of any transfer described in section 1041(a) of stock of an S corporation, any loss or deduction described in subparagraph (A) with respect such stock shall be treated as incurred by the corporation in the succeeding taxable year with respect to the transferee.
+&emsp;&emsp;In the case of any transfer described in section 1041(a) of stock of an S corporation, any loss or deduction described in subparagraph (A) with respect such stock shall be treated as incurred by the corporation in thesucceeding taxable year with respect to the transferee.
 
 #### (3) Carryover of disallowed losses and deductions to post-termination transition period
 
@@ -52,7 +52,7 @@ In any case where it is necessary to determine the gross income of a shareholder
 
 #### (B) Cannot exceed shareholder's basis in stock
 
-&emsp;&emsp;The aggregate amount of losses and deductions taken into account by a shareholder under subparagraph (A) shall not exceed the adjusted basis of the shareholder's stock inthe corporation (determined at the close of the last day of the post-termination transition period and without regard to this paragraph).
+&emsp;&emsp;The aggregate amount of losses and deductions taken into account by a shareholder under subparagraph (A) shall not exceed the adjusted basis of the shareholder's stock in the corporation (determined at the close of the last day of the post-termination transition period and without regard to this paragraph).
 
 #### (C) Adjustment in basis of stock
 
@@ -128,7 +128,7 @@ Subsec. (f)(1). Pub. L. 98–369, §735(c)(16), substituted “and special fuels
 
 #### Effective Date of 2007 Amendment
 
-Amendment by Pub. L. 110–172 effective as if included in the provisions of the Pension Protection Act of 2006,Pub. L. 109–280, to which such amendment relates, see section 3(j) of Pub. L. 110–172, set out as a note under section 170 of this title.
+Amendment by Pub. L. 110–172 effective as if included in the provisions of the Pension Protection Act of 2006, Pub. L. 109–280, to which such amendment relates, see section 3(j) of Pub. L. 110–172, set out as a note under section 170 of this title.
 
 #### Effective Date of 2004 Amendment
 

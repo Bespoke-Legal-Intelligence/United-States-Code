@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary may, in accordance with chapter 5 of title 5, prescribe rules and regulations to carry out this chapter only to the extent necessary to administer and ensure compliance with the requirements of this chapter. Such rules and regulations may include provisions making adjustments authorized by section 6504 of title 31. All such rules and regulations shall be published in the Federal Register at least 30 days prior to their effective dates. Copies of each such rule or regulation shall be transmitted to the appropriate committees of Congress on the date of such publication and shall contain, with respect to each material provision of such rule or regulation, a citation to the particular substantive section of law that is the basis for the provision.
+The Secretary may, in accordance with chapter 5 of title 5, prescribe rules and regulations to carry out this chapter only to the extent necessary to administer and ensure compliance with the requirements of this chapter. Suchrules and regulations may include provisions making adjustments authorized by section 6504 of title 31. All such rules and regulations shall be published in the Federal Register at least 30 days prior to their effective dates. Copies of each such rule or regulation shall be transmitted to the appropriate committees of Congress on the date of such publication and shall contain, with respect to each material provision of such rule or regulation, a citation to the particular substantive section of law that is the basis for the provision.
 
 #### (b) Acquisition of certain property and services
 
@@ -46,7 +46,7 @@ Notwithstanding any other provision of this chapter, the Secretary shall have no
 
 #### (2) Availability
 
-&emsp;Funds obligated for any program year for a program or activity carried out under this chapter may be expended by each State receiving such funds during that program year and the 2 succeeding program years. Funds obligated for any program year for a program or activity carried out under section 2916 or 2917 of this title shall remain available until expended. Funds received by local areas from States under this chapter during a program year may be expended during that program year and the succeeding program year. No amount of the funds described in this paragraph shall be deobligated on account of a rate of expenditure that is consistent with a State plan, an operating plan described in section 2891 of this title, or a plan, grant agreement, contract, application, or other agreement described in subchapter IV of this chapter, as appropriate.
+&emsp;Funds obligated for any program year for a program or activity carried out under this chapter may be expended by each State receiving such funds during that program year and the 2 succeeding program years. Funds obligated for any program year for a program or activity carried out under section 2916 or 2917 of this title shall remain available until expended. Funds received by local areas from States under this chapter during a program year may be expended during that program year and the succeeding program year. No amount of the funds described in this paragraph shall be deobligated on account of a rate of expenditure that is consistent with a State plan, an operating plan described in section 2891 of this title, or a plan, grant agreement, contract, application, or other agreement described in subchapter IV, as appropriate.
 
 #### (h) Enforcement of Military Selective Service Act
 
@@ -56,7 +56,7 @@ The Secretary shall ensure that each individual participating in any program or 
 
 #### (1) Existing waivers
 
-&emsp;With respect to a State that has been granted a waiver under the provisions relating to training and employment services of the Department of Labor in title I of the Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 1998 (Public Law 105–78; 111 Stat. 1467), the authority provided under such waiver shall continue in effect and apply, and include a waiver of the related provisions of subchapter II of this chapter and this subchapter, for the duration of the initial waiver.
+&emsp;With respect to a State that has been granted a waiver under the provisions relating to training and employment services of the Department of Labor in title I of the Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 1998 (Public Law 105–78; 111Stat. 1467), the authority provided under such waiver shall continue in effect and apply, and include a waiver of the related provisions of subchapter II of this chapter and this subchapter, for the duration of the initial waiver.
 
 #### (2) Special rule regarding designated areas
 
@@ -102,6 +102,8 @@ The Secretary shall ensure that each individual participating in any program or 
 
 #### References in Text
 
+This chapter, referred to in subsecs. (a) to (c), (d)(1), (2), (e), (f), (g)(1)(A), (2), (h), and (i)(2), (3), was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
+
 Title I of the Departments of Labor, Health and Human Services, and Education, and related Agencies Appropriations Act, 1998, referred to in subsec. (i)(1), is title I of Pub. L. 105–78, Nov. 13, 1997, 111 Stat. 1467.
 
 #### Codification
@@ -116,7 +118,7 @@ Provisions similar to this section were contained in sections 1504, 1571, and 15
 
 <b>2006</b>—Subsec. (g)(1)(A). Pub. L. 109–281 inserted “and section 2918a of this title” after “Except as provided in subparagraph (B)”.
 
-<b>1998</b>—Subsec. (i)(1). Pub. L. 105–277 substituted “1998 (Public Law 105–78; 111 Stat. 1467)” for “1997 (Public Law 104–208; 110 Stat. 3009–234)”. The substitution was made to reflect the probable intent of Congress, in the absence of closing quotation marks designating the provisions to be inserted.
+<b>1998</b>—Subsec. (i)(1). Pub. L. 105–277 substituted “1998 (Public Law 105–78; 111 Stat. 1467)” for “1997 (PublicLaw 104–208; 110 Stat. 3009–234)”. The substitution was made to reflect the probable intent of Congress, in the absence of closing quotation marks designating the provisions to be inserted.
 
 #### Effective Date of 2006 Amendment
 

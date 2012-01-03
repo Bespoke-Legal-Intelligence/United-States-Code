@@ -150,7 +150,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;“(2) In order to facilitate this transition, the international community has provided multilateral and bilateral technical assistance, and the United States’ contribution to these efforts has played an important role in developing new institutions built on democratic and liberal economic foundations and the rule of law.
 
-&emsp;“(3)(A) Since 1992, United States Government democratic reform programs and public diplomacy programs, including training, and small grants have provided access to and training in the use of the Internet, brought nearly 40,000 Russian citizens to the United States, and have led to the establishment ofmore than 65,000 nongovernmental organizations, thousands of independent local media outlets, despite governmental opposition, and numerous political parties.
+&emsp;“(3)(A) Since 1992, United States Government democratic reform programs and public diplomacy programs, including training, and small grants have provided access to and training in the use of the Internet, brought nearly 40,000 Russian citizens to the United States, and have led to the establishment of more than 65,000 nongovernmental organizations, thousands of independent local media outlets, despite governmental opposition, and numerous political parties.
 
 &emsp;“(B) These efforts contributed to the substantially free and fair Russian parliamentary elections in 1995 and 1999.
 
@@ -236,7 +236,7 @@ Assistance Programs.—In providing assistance to the Russian Federation under c
 
 &emsp;“(2) establish civic education programs relating to democracy, public policy, the rule of law, and the importance of independent media, including the establishment of ‘American Centers’ and public policy schools at Russian universities and encourage cooperative programs with universities in the United States to offer courses through Internet-based off-site learning centers at Russian universities; and
 
-&emsp;“(3) support the Regional Initiatives (RI) program, which provides targeted assistance in those regions of the Russian Federation that have demonstrated a commitment to reform, democracy, and the rule of law, and which promotes the concept of such programs as a model for all regions of the Russian Federation.
+&emsp;“(3) support the Regional Initiatives (RI) program, which provides targeted assistance in those regions ofthe Russian Federation that have demonstrated a commitment to reform, democracy, and the rule of law, and which promotes the concept of such programs as a model for all regions of the Russian Federation.
 
 “(b)
 

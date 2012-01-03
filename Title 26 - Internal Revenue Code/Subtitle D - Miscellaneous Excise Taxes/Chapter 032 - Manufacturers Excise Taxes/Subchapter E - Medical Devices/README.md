@@ -16,7 +16,7 @@ Section 4192, acts Aug. 16, 1954, ch. 736, 68A Stat. 491; Sept. 2, 1958, Pub. L.
 
 Section 4201, acts Aug. 16, 1954, ch. 736, 68A Stat. 492; Sept. 14, 1960, Pub. L. 86–779, §9(a), 74 Stat. 1003, imposed a tax equivalent to 10 percent of the selling price on mechanical pencils, fountain pens, and ballpoint pens and 10 cents on mechanical cigarette lighters.
 
-Section 4211, act Aug. 16, 1954, ch. 736, 68A Stat. 492, imposed a tax of 2 cents per 1,000 for matches, except fancy wooden matches, and a tax of 51/2 cents per 1,000 on fancy wooden matches.
+Section 4211, act Aug. 16, 1954, ch. 736, 68A Stat. 492, imposed a tax of 2 cents per 1,000 for matches, except fancy wooden matches, and a tax of 5½ cents per 1,000 on fancy wooden matches.
 
 
 ---

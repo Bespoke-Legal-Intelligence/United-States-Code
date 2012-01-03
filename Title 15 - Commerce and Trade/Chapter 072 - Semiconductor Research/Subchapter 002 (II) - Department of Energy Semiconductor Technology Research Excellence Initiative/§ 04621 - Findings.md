@@ -6,7 +6,7 @@ Congress makes the following findings:
 
 &emsp;(2) Aggregate sales of such equipment, in excess of $230,000,000,000 annually, comprise a significant portion of the gross national product of the United States.
 
-&emsp;(3) The leadership position of the United States in advanced technology is threatened by (A) competition from foreign businesses which is promoted and facilitated by the increasingly active involvement of foreign governments, and (B) other changes in the nature of foreign competition.
+&emsp;(3) The leadership position of the United States in advanced technology is threatened by (A) competition from foreign businesseswhich is promoted and facilitated by the increasingly active involvement of foreign governments, and (B) other changes in the nature of foreign competition.
 
 &emsp;(4) The principal cause of the relative shift in strength of the United States and its semiconductor competitors is the establishment of a long-term goal by a major foreign competitor to achieve world superiority in semiconductor research and manufacturing technology and the pursuit of such goal by that competitor by effectively marshalling all of the government, industry, and academic resources needed to achieve that goal.
 

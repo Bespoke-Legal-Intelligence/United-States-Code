@@ -6,7 +6,7 @@ The Commission shall receive and determine in accordance with applicable substan
 
 &emsp;(2) pay effective compensation for the nationalization, compulsory liquidation, or other taking, prior to August 9, 1955, of property of nationals of the United States in Bulgaria, Hungary, and Rumania;
 
-&emsp;(3) meet obligations expressed in currency of the United States arising out of contractual or other rights acquired by nationals of the United States prior to April 24, 1941, in the case of Bulgaria, and prior to September 1, 1939, in the case of Hungary and Rumania, and which became payable prior to September 15, 1947;
+&emsp;(3) meet obligations expressed in currency of the United States arising out of contractual orother rights acquired by nationals of the United States prior to April 24, 1941, in the case of Bulgaria, and prior to September 1, 1939, in the case of Hungary and Rumania, and which became payable prior to September 15, 1947;
 
 &emsp;(4) pay effective compensation for the nationalization, compulsory liquidation, or other taking of property of nationals of the United States in Bulgaria and Rumania, between August 9, 1955, and the effective date of the claims agreement between the respective country and the United States; and
 

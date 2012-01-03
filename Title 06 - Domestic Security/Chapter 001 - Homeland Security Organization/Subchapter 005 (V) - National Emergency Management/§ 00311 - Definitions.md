@@ -42,7 +42,7 @@ A prior section 311, Pub. L. 107–296, title V, §501, Nov. 25, 2002, 116 Stat.
 
 #### Amendments
 
-2007—Pars. (4) to (12). Pub. L. 110–53, §401(a)(1)–(4), added pars. (4) and (11) and redesignated former pars. (4) to (10) as (5) to (10) and (12), respectively. Former par. (11) redesignated (13).
+<b>2007</b>—Pars. (4) to (12). Pub. L. 110–53, §401(a)(1)–(4), added pars. (4) and (11) and redesignated former pars. (4) to (10) as (5) to (10) and (12), respectively. Former par. (11) redesignated (13).
 
 Par. (13). Pub. L. 110–53, §502(c)(1), substituted “101(11)(B)” for “101(10)(B)”.
 

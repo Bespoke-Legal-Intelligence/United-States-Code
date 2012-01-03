@@ -6,11 +6,11 @@ A non-Federal interest may on its own undertake a feasibility study of a propose
 
 #### (b) Review by Secretary
 
-The Secretary shall review each study submitted under subsection (a) of this section for the purpose of determining whether or not such study and the process under which such study was developed comply with Federal laws and regulations applicable to feasibility studies of navigation projects for harbors or inland harbors.
+The Secretary shall review each study submitted under subsection (a) of this section for thepurpose of determining whether or not such study and the process under which such study was developed comply with Federal laws and regulations applicable to feasibility studies of navigation projects for harbors or inland harbors.
 
 #### (c) Submission to Congress
 
-Not later than 180 days after receiving any study submitted under subsection (a) of this section, the Secretary shall transmit to the Congress, in writing, the results of such review andany recommendations the Secretary may have concerning the project described in such plan and design.
+Not later than 180 days after receiving any study submitted under subsection (a) of this section, the Secretary shall transmit to the Congress, in writing, the results of such review and any recommendations the Secretary may have concerning the project described in such plan and design.
 
 #### (d) Credit and reimbursement
 

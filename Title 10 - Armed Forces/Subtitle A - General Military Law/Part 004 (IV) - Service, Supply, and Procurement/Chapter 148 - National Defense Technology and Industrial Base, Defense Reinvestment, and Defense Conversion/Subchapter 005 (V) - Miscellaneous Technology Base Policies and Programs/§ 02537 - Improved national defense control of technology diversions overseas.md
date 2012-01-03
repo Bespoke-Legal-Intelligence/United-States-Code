@@ -6,7 +6,7 @@ Collection of Information on Foreign-Controlled Contractors.—The Secretary of 
 
 (b)
 
-Annual Report to Congress.—The Secretary of Defense, the Secretary of Energy, and the Secretary of Commerce shall submit to the Congress, by March 31 of each year, beginning in1994, a report containing a summary and analysis of the information collected under subsection (a) for the year covered by the report. The report shall include an analysis of accumulated foreign ownership of United States firms engaged in the development of defense critical technologies.
+Annual Report to Congress.—The Secretary of Defense, the Secretary of Energy, and the Secretary of Commerce shall submit to the Congress, by March 31 of each year, beginning in 1994, a report containing a summary and analysis of the information collected under subsection (a) for the year covered by the report. The report shall include an analysis of accumulated foreign ownership of United States firms engaged in the development of defense critical technologies.
 
 (c)
 

@@ -2,13 +2,13 @@
 
 #### (a) Basis of assessment
 
-Except as otherwise provided in this section, the Secretary is authorized to assess fees, basedon fair market value, for access to environmental data and information and products derived therefrom collected and/or archived by the National Oceanic and Atmospheric Administration.
+Except as otherwise provided in this section, the Secretary is authorized to assess fees, based on fair market value, for access to environmental data and information and products derived therefrom collected and/or archived by the National Oceanic and Atmospheric Administration.
 
 #### (b) Eligible recipients; waiver of fees in cases of foreign governments and international organizations
 
 (1) The Secretary shall provide data, information, and products described in subsection (a) of this section to Federal, State, and local government agencies, to universities, and to other nonprofit institutions at the cost of reproduction and transmission, if such data, information, and products are to be used for research and not for commercial purposes.
 
-(2) The Secretary shall waive the assessment of fees under subsection (a) of this section as necessary to continue to provide data, information, or products to foreign governments and international organizations on a basis of exchanging such data, information, and products or as otherwise provided by international agreement.
+(2) The Secretary shall waive the assessment of fees under subsection (a) of this section asnecessary to continue to provide data, information, or products to foreign governments and international organizations on a basis of exchanging such data, information, and products or as otherwise provided by international agreement.
 
 (3) The Secretary shall waive the assessment of fees authorized by subsection (a) of this section as necessary to continue to provide weather warnings, watches, and similar products and services essential to the mission of the National Oceanic Atmospheric <sup>1</sup> Administration.
 
@@ -63,10 +63,6 @@ Subsec. (d)(1). Pub. L. 101–508, §10201(a)(5), amended par. (1) generally. Pr
 Subsecs. (e), (f)(1). Pub. L. 101–508, §10201(a)(6), inserted “by the National Environmental Satellite, Data, and Information Service for archived data” after “under this section”.
 
 Subsec. (g). Pub. L. 101–508, §10201(a)(7), inserted before period at end “, including the authority of the Secretary pursuant to section 1307 of title 44. Nothing in this section shall be construed to authorize the Secretary to assess fees for nautical and aeronautical products of the National Oceanic and Atmospheric Administration in addition to those fees authorized under section 1307 of title 44”.
-
-#### Change of Name
-
-Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effect of Amendments
 

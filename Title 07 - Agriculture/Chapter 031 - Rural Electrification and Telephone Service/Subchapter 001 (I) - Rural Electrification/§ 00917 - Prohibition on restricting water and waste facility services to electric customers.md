@@ -6,7 +6,7 @@ Assistance under any rural development program administered by the Secretary or 
 
 #### (b) Ensuring compliance
 
-The Secretary shall establish, by regulation, adequate safeguards to ensure that assistance under any rural development program is not subject to such a condition. The safeguards shall include periodic certifications and audits, and appropriate measures and sanctions against any person violating, or attempting to violate subsection (a) of this section.
+The Secretary shall establish, by regulation, adequate safeguards to ensure that assistance under any rural development program is not subject to such a condition. The safeguards shallinclude periodic certifications and audits, and appropriate measures and sanctions against any person violating, or attempting to violate subsection (a) of this section.
 
 #### (c) “Rural development programs” defined
 

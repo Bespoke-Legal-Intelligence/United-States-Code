@@ -44,6 +44,10 @@ Section 2 of Pub. L. 92–14, as amended by Pub. L. 93–126, §8, Oct. 18, 1973
 
 Amendment by Pub. L. 90–428 effective on thirtieth day following July 26, 1968, see section 4 of Pub. L. 90–428, set out as a note under section 217a of this title.
 
+#### Extension of Authority
+
+Pub. L. 112–74, div. I, title VII, §7034(m)(1), Dec. 23, 2011, 125 Stat. 1216, provided that: “Section 1(b)(2) of the Passport Act of June 4, 1920 (22 U.S.C. 214(b)(2)) shall be applied by substituting ‘September 30, 2012’ for ‘September 30, 2010’.”
+
 #### Deposit of Receipts From Expedited Passport Processing
 
 Pub. L. 103–317, title V, Aug. 26, 1994, 108 Stat. 1760, provided in part “That hereafter all receipts received from a new charge from expedited passport processing shall be deposited in this account as an offsetting collection and shall be available until expended”.

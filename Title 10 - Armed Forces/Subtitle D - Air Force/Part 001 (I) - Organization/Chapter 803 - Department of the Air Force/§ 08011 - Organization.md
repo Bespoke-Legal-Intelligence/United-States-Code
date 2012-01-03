@@ -2,7 +2,7 @@
 
 The Department of the Air Force is separately organized under the Secretary of the Air Force. It operates under the authority, direction, and control of the Secretary of Defense.
 
-(Added Pub. L. 87–651, title II, §213(a), Sept. 7, 1962, 76 Stat. 524, §8010; renumbered §8011, Pub. L. 99–433, title V, §521(a)(1), Oct. 1, 1986, 100 Stat. 1055.)
+(Added Pub. L. 87–651, title II, §213(a), Sept. 7, 1962, 76 Stat. 524, §8010; renumbered §8011, Pub.L. 99–433, title V, §521(a)(1), Oct. 1, 1986, 100 Stat. 1055.)
 
 Historical and Revision Notes<br>1962
 

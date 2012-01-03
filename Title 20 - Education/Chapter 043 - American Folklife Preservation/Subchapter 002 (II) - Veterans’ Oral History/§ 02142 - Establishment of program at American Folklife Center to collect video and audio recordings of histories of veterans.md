@@ -16,7 +16,7 @@ The Director may carry out the activities described in paragraphs (1) and (3) of
 
 #### (c) Timing
 
-As soon as practicable after October 27, 2000, the Director shall begin collecting video andaudio recordings under subsection (a)(1) of this section, and shall attempt to collect the first such recordings from the oldest veterans.
+As soon as practicable after October 27, 2000, the Director shall begin collecting video and audio recordings under subsection (a)(1) of this section, and shall attempt to collect the first such recordings from the oldest veterans.
 
 (Pub. L. 106–380, §3, Oct. 27, 2000, 114 Stat. 1448.)
 

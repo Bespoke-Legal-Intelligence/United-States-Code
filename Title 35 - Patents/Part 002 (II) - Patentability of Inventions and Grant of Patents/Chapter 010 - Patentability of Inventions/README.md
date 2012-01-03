@@ -11,7 +11,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Amendment of Analysis
+
+<i>Pub. L. 112–29, §3(b)(3), (d), (n), Sept. 16, 2011, 125 Stat. 287, 293, provided that, effective upon the expiration of the 18-month period beginning on Sept. 16, 2011, and applicable to certain applications for patent and any patents issuing thereon, this analysis is amended by amending item 102 to read “Conditions for patentability; novelty” and by striking out item 104. See 2011 Amendment note below.</i>
+
 #### Amendments
+
+<b>2011</b>—Pub. L. 112–29, §3(b)(3), (d), Sept. 16, 2011, 125 Stat. 287, substituted in item 102 “Conditions for patentability; novelty” for “Conditions for patentability; novelty and loss of right to patent” and struck out item 104 “Invention made abroad”.
 
 <b>1990</b>—Pub. L. 101–580, §1(b), Nov. 15, 1990, 104 Stat. 2863, added item 105.
 

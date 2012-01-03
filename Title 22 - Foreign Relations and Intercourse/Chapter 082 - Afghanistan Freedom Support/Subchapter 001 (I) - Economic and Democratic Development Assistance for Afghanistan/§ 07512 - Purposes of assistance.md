@@ -6,9 +6,9 @@ The purposes of assistance authorized by this subchapter are—
 
 &emsp;(2) to support the continued efforts of the United States and the international community to address the humanitarian crisis in Afghanistan and among Afghan refugees in neighboring countries;
 
-&emsp;(3) to fight the production and flow of illicit narcotics, to control the flow of precursor chemicals used in the production of heroin, and to enhance and bolster the capacities of Afghan governmental authorities to control poppy cultivation and related activities;
+&emsp;(3) to fight the production and flow of illicit narcotics, to control the flow of precursor chemicals used in the production of heroin,and to enhance and bolster the capacities of Afghan governmental authorities to control poppy cultivation and related activities;
 
-&emsp;(4) to help achieve a broad-based, multi-ethnic, gender-sensitive, and fully representative government in Afghanistan that is freely chosen by the people of Afghanistan and that respects the human rights of all Afghans, particularly women, including authorizing assistance for the rehabilitation and reconstruction of Afghanistan with a particular emphasis on meeting the educational, health, and sustenance needs of women and children to betterenable their full participation in Afghan society;
+&emsp;(4) to help achieve a broad-based, multi-ethnic, gender-sensitive, and fully representative government in Afghanistan that is freely chosen by the people of Afghanistan and that respects the human rights of all Afghans, particularly women, including authorizing assistance for the rehabilitation and reconstruction of Afghanistan with a particular emphasis on meeting the educational, health, and sustenance needs of women and children to better enable their full participation in Afghan society;
 
 &emsp;(5) to support the Government of Afghanistan in its development of the capacity to facilitate, organize, develop, and implement projects and activities that meet the needs of the Afghan people;
 

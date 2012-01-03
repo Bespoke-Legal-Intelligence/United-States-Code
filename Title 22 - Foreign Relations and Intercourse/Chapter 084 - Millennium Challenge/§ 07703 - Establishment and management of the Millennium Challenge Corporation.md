@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established in the executive branch a corporation to be known as the “Millennium Challenge Corporation” that shall be responsible for carrying out this chapter. The Corporation shall be a government corporation, as defined in section 103 of title 5.
+There is established in the executive branch a corporation to be known as the “MillenniumChallenge Corporation” that shall be responsible for carrying out this chapter. The Corporation shall be a government corporation, as defined in section 103 of title 5.
 
 #### (b) Chief Executive Officer
 

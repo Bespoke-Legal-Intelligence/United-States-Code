@@ -60,7 +60,7 @@ Pub. L. 105–393, title I, §101, Nov. 13, 1998, 112 Stat. 3597, provided that:
 
 #### Short Title of 1976 Amendment
 
-Pub. L. 94–487, §101, Oct. 12, 1976, 90 Stat. 2331, provided that: “This Act \[enacting sections 3137, 3144, 3173, and 3246h of this title, amending this section and sections 3131, 3132, 3135, 3141, 3142, 3151a, 3152, 3153, 3161, 3171, 3172, 3188a, 3214, 3241, 3243, 3245, 3246a to 3246c, and 3246e to 3246g of this title, repealing section 3246d of this title, enacting provisions set out as notes under this section, and amending provisions set out as a note under section 3162 of this title\] may be cited as the‘Public Works and Economic Development Act Amendments of 1976’.”
+Pub. L. 94–487, §101, Oct. 12, 1976, 90 Stat. 2331, provided that: “This Act \[enacting sections 3137, 3144, 3173, and 3246h of this title, amending this section and sections 3131, 3132, 3135, 3141, 3142, 3151a, 3152, 3153, 3161, 3171, 3172, 3188a, 3214, 3241, 3243, 3245, 3246a to 3246c, and 3246e to 3246g of this title, repealing section 3246d of this title, enacting provisions set out as notes under this section, and amending provisions set out as a note under section 3162 of this title\] may be cited as the ‘Public Works and Economic Development Act Amendments of 1976’.”
 
 #### Short Title of 1975 Amendments
 
@@ -276,7 +276,7 @@ Gifts.—The Commission may accept, use, and dispose of gifts or donations of se
 
 “(a)
 
-Compensation of Members.—Each member of the Commission who is not an officer or employee of the Federal Government shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day (including travel time) during the time such member is engaged in the performance of the duties of the Commission. The Federal Cochairperson shall becompensated at the annual rate prescribed for level IV of the Executive Schedule under section 5315 of title 5, United States Code. All members of the Commission who are officers or employees of the United States shall serve without compensation that is in addition to that received for their services as officers or employees of the United States.
+Compensation of Members.—Each member of the Commission who is not an officer or employee of the Federal Government shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day (including travel time) during the time such member is engaged in the performance of the duties of the Commission. The Federal Cochairperson shall be compensated at the annual rate prescribed for level IV of the Executive Schedule under section 5315 of title 5, United States Code. All members of the Commission who are officers or employees of the United States shall serve without compensation that is in addition to that received for their services as officers or employees of the United States.
 
 “(b)
 
@@ -308,7 +308,7 @@ Offices.—The principal office of the Commission shall be located in Alaska, at
 
 “(g)
 
-Administrative Expenses and Records.—The Commission is hereby prohibited from using more than 5 percent of the amounts appropriated under the authority of this Act \[probably means this title\] or transferred pursuant to section 329 of the Department of Transportation and Related Agencies Appropriations Act, 1999 (section 101(g) of division A of this Act) \[43 U.S.C. 1653 note\] for administrative expenses. The Commission and its grantees shall maintain accurate and complete records which shall be available for audit and examination by the Comptroller General or his or her designee.
+Administrative Expenses and Records.—The Commission is hereby prohibited from using more than 5 percent of the amounts appropriated under the authority of this Act \[probably means this title\] or transferred pursuant to section 329 of the Department of Transportation and Related Agencies Appropriations Act, 1999 (section 101(g) of division A of this Act) \[43 U.S.C. 1653 note\] for administrative expenses. The Commission and its grantees shall maintain accurate and complete records which shall be available for audit andexamination by the Comptroller General or his or her designee.
 
 “(h)
 
@@ -422,7 +422,7 @@ Maintenance.—Funding for a construction project under this section may include
 
 “(g)
 
-Lead Agency Designation.—For purposes of projects carried out under this section, the Commission shall be designated as the lead agency for purposes of accepting Federal funds and for purposes of carrying out this project.
+Lead Agency Designation.—For purposes of projects carried out under this section, the Commissionshall be designated as the lead agency for purposes of accepting Federal funds and for purposes of carrying out this project.
 
 “(h)
 
@@ -500,7 +500,7 @@ Pub. L. 101–161, title II, Nov. 21, 1989, 103 Stat. 969, extended date for sub
 
 #### Public Works Improvement
 
-Pub. L. 98–501, title I, Oct. 19, 1984, 98 Stat. 2320, known as the “Public Works Improvement Act of 1984”, established the National Council on Public Works Improvement, to prepare and submit to the President and Congress reports in 1986, 1987, and 1988 on the state of the Nation's infrastructure. Pursuant to section 109 of Pub. L. 98–501, the Council ceased to exist on Apr. 15, 1988.
+Pub. L. 98–501, title I, Oct. 19, 1984, 98 Stat. 2320, known as the “Public Works Improvement Act of 1984”,established the National Council on Public Works Improvement, to prepare and submit to the President and Congress reports in 1986, 1987, and 1988 on the state of the Nation's infrastructure. Pursuant to section 109 of Pub. L. 98–501, the Council ceased to exist on Apr. 15, 1988.
 
 #### White House Conference on Balanced National Growth and Economic Development
 

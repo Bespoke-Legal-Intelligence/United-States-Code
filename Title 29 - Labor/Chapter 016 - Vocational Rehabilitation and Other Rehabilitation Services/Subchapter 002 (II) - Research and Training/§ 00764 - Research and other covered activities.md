@@ -106,7 +106,7 @@
 
 &emsp;&emsp;(I) innovative models for the delivery, to rural and urban areas, of cost-effective rehabilitation technology services that promote utilization of assistive technology devices; and
 
-&emsp;&emsp;(II) other scientific research to assist in meeting the employment and independent living needs of individuals with significant disabilities; or
+&emsp;&emsp;(II) other scientific research to assist in meeting the employment and independentliving needs of individuals with significant disabilities; or
 
 &emsp;(iii) conducting research or demonstration activities that facilitate service delivery systems change by demonstrating, evaluating, documenting, and disseminating—
 
@@ -162,7 +162,7 @@
 
 (B) Any agency or organization carrying out a project or demonstration project assisted by a grant under this paragraph that provides services to individuals with spinal cord injuries shall—
 
-&emsp;(i) establish, on an appropriate regional basis, a multidisciplinary system of providing vocational and other rehabilitation services, specifically designed to meet the special needs of individuals with spinal cord injuries, including acute care as well as periodic inpatient or outpatient followup and services;
+&emsp;(i) establish, on an appropriate regional basis, a multidisciplinary system of providing vocational and other rehabilitation services,specifically designed to meet the special needs of individuals with spinal cord injuries, including acute care as well as periodic inpatient or outpatient followup and services;
 
 &emsp;(ii) demonstrate and evaluate the benefits to individuals with spinal cord injuries served in, and the degree of cost-effectiveness of, such a regional system;
 
@@ -184,7 +184,7 @@
 
 (6) Research grants may be used to conduct a program for international rehabilitation research, demonstration, and training for the purpose of developing new knowledge and methods in the rehabilitation of individuals with disabilities in the United States, cooperating with and assisting in developing and sharing information found useful in other nations in the rehabilitation of individuals with disabilities, and initiating a program to exchange experts and technical assistance in the field of rehabilitation of individuals with disabilities with other nations as a means of increasing the levels of skill of rehabilitation personnel.
 
-(7) Research grants may be used to conduct a research program concerning the use of existing telecommunications systems (including telephone, television, satellite, radio, and other similar systems) which have the potential forsubstantially improving service delivery methods, and the development of appropriate programming to meet the particular needs of individuals with disabilities.
+(7) Research grants may be used to conduct a research program concerning the use of existing telecommunications systems (including telephone, television, satellite, radio, and other similar systems) which have the potential for substantially improving service delivery methods, and the development of appropriate programming to meet the particular needs of individuals with disabilities.
 
 (8) Research grants may be used to conduct a program of joint projects with the National Institutes of Health, the National Institute of Mental Health, the Health Services Administration, the Administration on Aging, the National Science Foundation, the Veterans’ Administration, the Department of Health and Human Services, the National Aeronautics and Space Administration, other Federal agencies, and private industry in areas of joint interest involving rehabilitation.
 

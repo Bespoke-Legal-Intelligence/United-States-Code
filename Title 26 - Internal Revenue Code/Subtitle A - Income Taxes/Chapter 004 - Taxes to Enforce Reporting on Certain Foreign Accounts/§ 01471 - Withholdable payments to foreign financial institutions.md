@@ -148,7 +148,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) as a substantial portion of its business, holds financial assets for the account of others, or
 
-&emsp;&emsp;(C) is engaged (or holding itself out as being engaged) primarily in the business of investing, reinvesting, or trading in securities (as defined in section 475(c)(2) without regard to the last sentence thereof), partnership interests, commodities (as defined in section 475(e)(2)), or any interest (including a futures or forward contract or option) in such securities, partnership interests, or commodities.
+&emsp;&emsp;(C) is engaged (or holding itself out as being engaged) primarily in the business of investing, reinvesting, or trading in securities (as defined in section 475(c)(2) without regard to the last sentence thereof), partnership interests, commodities (as defined in section 475(e)(2)), or any interest (includinga futures or forward contract or option) in such securities, partnership interests, or commodities.
 
 #### (6) Recalcitrant account holder
 
@@ -206,7 +206,7 @@ Pub. L. 111–147, title V, §501(d), Mar. 18, 2010, 124 Stat. 106, provided tha
 
 “(1)
 
-In general.—Except as otherwise provided in this subsection, the amendments made by this section\[enacting this chapter and amending sections 6414, 6501, 6513, 6611, and 6724 of this title\] shall apply to payments made after December 31, 2012.
+In general.—Except as otherwise provided in this subsection, the amendments made by this section \[enacting this chapter and amending sections 6414, 6501, 6513, 6611, and 6724 of this title\] shall apply to payments made after December 31, 2012.
 
 “(2)
 

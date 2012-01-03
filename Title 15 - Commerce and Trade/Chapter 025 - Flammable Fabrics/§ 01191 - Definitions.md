@@ -32,7 +32,7 @@ The Federal Trade Commission Act, referred to in par. (j), is act Sept. 26, 1914
 
 <b>2008</b>—Par. (i). Pub. L. 110–314 added par. (i) and struck out former par. (i) which read as follows: “The term ‘Commission’ means the Federal Trade Commission.”
 
-<b>1967</b>—Par. (b). Pub. L. 90–189, §1(1), reduced from capital to lower-case the first letter of “territory” wherever appearing and redefined “commerce” to include commerce between the Commonwealth of Puerto Rico and any State or territory or foreign nation or the District of Columbia.
+<b>1967</b>—Par. (b). Pub. L. 90–189, §1(1), reduced from capital to lower-case the first letter of “territory” wherever appearing and redefined “commerce” to includecommerce between the Commonwealth of Puerto Rico and any State or territory or foreign nation or the District of Columbia.
 
 Par. (c). Pub. L. 90–189, §1(2), reduced from capital to lower-case the first letter of “territory” wherever appearing.
 

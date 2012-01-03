@@ -60,7 +60,7 @@
 
 (c) The Office may provide for the application of this subchapter to any position or group of positions excepted from the competitive service by regulation of the Office which is not otherwise covered by this subchapter.
 
-(Added Pub. L. 95–454, title II, §204(a), Oct. 13, 1978, 92 Stat. 1135; amended Pub. L. 101–376, §2(a), Aug. 17, 1990, 104 Stat. 461; Pub. L. 102–378, §6(a), Oct. 2, 1992, 106 Stat. 1358; Pub. L. 103–359, title V, §501(<i>l</i>), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–201, div. A, title XVI, §1634(b), Sept. 23, 1996,110 Stat. 2752; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–435, title VI, §604(b), (f), Dec. 20, 2006, 120 Stat. 3241, 3242.)
+(Added Pub. L. 95–454, title II, §204(a), Oct. 13, 1978, 92 Stat. 1135; amended Pub. L. 101–376, §2(a), Aug. 17, 1990, 104 Stat. 461; Pub. L. 102–378, §6(a), Oct. 2, 1992, 106 Stat. 1358; Pub. L. 103–359, title V, §501(<i>l</i>), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–201, div. A, title XVI, §1634(b), Sept. 23, 1996, 110 Stat. 2752; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–435, title VI, §604(b), (f), Dec. 20, 2006, 120 Stat. 3241, 3242.)
 
 #### References in Text
 
@@ -72,21 +72,21 @@ A prior section 7511, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 528; Pub. L. 94�
 
 #### Amendments
 
-2006—Subsec. (a)(1)(B)(ii). Pub. L. 109–435, §604(b), substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
+<b>2006</b>—Subsec. (a)(1)(B)(ii). Pub. L. 109–435, §604(b), substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
 
 Subsec. (b)(8). Pub. L. 109–435, §604(f), substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
 
-2004—Subsec. (b)(7). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (b)(7). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-1996—Subsec. (b)(8). Pub. L. 104–201 substituted “an intelligence component of the Department of Defense (as defined in section 1614 of title 10), or an intelligence activity of a military department covered under subchapter I of chapter 83 of title 10” for “the National Security Agency, the Defense Intelligence Agency, the Central Imagery Office, or an intelligence activity of a military department covered under section 1590 of title 10”.
+<b>1996</b>—Subsec. (b)(8). Pub. L. 104–201 substituted “an intelligence component of the Department of Defense (as defined in section 1614 of title 10), or an intelligence activity of a military department covered under subchapter I of chapter 83 of title 10” for “the National Security Agency, the Defense Intelligence Agency, the Central Imagery Office, or an intelligence activity of a military department covered under section 1590 of title 10”.
 
-1994—Subsec. (b)(8). Pub. L. 103–359 inserted “the Central Imagery Office,” after “Defense Intelligence Agency,”.
+<b>1994</b>—Subsec. (b)(8). Pub. L. 103–359 inserted “the Central Imagery Office,” after “Defense Intelligence Agency,”.
 
-1992—Subsec. (b)(7). Pub. L. 102–378, §6(a)(1), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “whose position is with the Central Intelligence Agency, the General Accounting Office, or the Veterans Health Services and Research Administration;”.
+<b>1992</b>—Subsec. (b)(7). Pub. L. 102–378, §6(a)(1), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “whose position is with the Central Intelligence Agency, the General Accounting Office, or the Veterans Health Services and Research Administration;”.
 
 Subsec. (b)(10). Pub. L. 102–378, §6(a)(2)–(4), added par. (10).
 
-1990—Pub. L. 101–376 amended section generally. Prior to amendment, section read as follows:
+<b>1990</b>—Pub. L. 101–376 amended section generally. Prior to amendment, section read as follows:
 
 “(a) For the purpose of this subchapter—
 

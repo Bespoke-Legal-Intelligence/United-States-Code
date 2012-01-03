@@ -4,7 +4,7 @@
 
 (1) In determining the maximum dollar amount of any federally assisted mortgage loan (as defined in subsection (b) of this section) or the maximum per unit or other cost or floor area limitation of any federally constructed housing (as defined in subsection (c) of this section), where the law establishing the program under which the loan is made or the housing is constructed specifies such maximum per unit or other cost on floor area limitation and the structure involved is furnished with solar heating or combined solar heating and cooling equipment under the demonstration program established by section 5503, 5504, or 5507 of this title, the maximum amount or cost or floor area limitation so specified which is applicable to such structure shall be deemed to be increased by the amount by which (as determined by the Secretary or the Secretary of Defense, as appropriate) the price or cost or floor area limitation of the structure including such solar heating or combined solar heating and cooling equipment exceeds the price or cost or floor area limitation of the structure with such equipment replaced by conventional heating equipment or conventional heating and cooling equipment (as the case may be).
 
-(2) In addition, in the case of a federally assisted mortgage loan, the cost excess specified in subsection (a) of this section shall be fully taken into account in determining the value or cost of the structure involved for purposes of applying any statutory provision specifying the maximum loan-to-value or -cost ratio; except that, if the law specifies different rates of downpayment for successive increments of such value or cost, the lowest such rate shall apply to the additional cost attributable to the solar heating or combined solar heating and cooling equipment, and such equipment shall otherwise be excluded in determining the total value or cost of the structure.
+(2) In addition, in the case of a federally assisted mortgage loan, the cost excess specified in subsection (a) of this section shall be fully taken into account in determining the value or cost of the structure involved for purposes of applying any statutory provision specifying themaximum loan-to-value or -cost ratio; except that, if the law specifies different rates of downpayment for successive increments of such value or cost, the lowest such rate shall apply to the additional cost attributable to the solar heating or combined solar heating and cooling equipment, and such equipment shall otherwise be excluded in determining the total value or cost of the structure.
 
 #### (b) “Mortgage loan” and “federally assisted mortgage loan” defined
 
@@ -16,11 +16,17 @@ As used in subsection (a) of this section, the term “mortgage loan” means a 
 
 &emsp;(3) is eligible for purchase by the Federal National Mortgage Association, the Government National Mortgage Association, or the Federal Home Loan Mortgage Corporation, or from any financial institution from which it could be purchased by the Federal Home Loan Mortgage Corporation; or
 
-&emsp;(4) is made in whole or in part by any “creditor,” as defined in section 1602(f) of title 15, who makes or invests in residential real estate loans aggregating more than $1,000,000 per year.
+&emsp;(4) is made in whole or in part by any “creditor,” as defined in section 1602(f) <sup>1</sup> of title 15, who makes or invests in residential real estate loans aggregating more than $1,000,000 per year.
 
 #### (c) “Federally constructed housing” defined
 
 As used in subsection (a) of this section, the term “federally constructed housing” means (1) residential or multifamily housing which is constructed by agencies of the Federal Government to provide dwelling accommodations for particular types or classes of persons under programs administered by such Federal agencies (including all housing constructed by the Department of Defense to provide dwelling accommodations for personnel of the armed services or for such personnel and their families), and (2) residential or multifamily housing which is constructed by agencies of State or local government, with financial assistance in any form from the Federal Government, to provide dwelling accommodations for particular types or classes of persons under programs administered by such State or local agencies.
 
 (Pub. L. 93–409, §13, Sept. 3, 1974, 88 Stat. 1076.)
+
+#### References in Text
+
+Section 1602(f) of title 15, referred to in subsec. (b)(4), was redesignated section 1602(g) of title 15 by Pub. L. 111–203, title X, §1100A(1)(A), July 21, 2010, 124 Stat. 2107.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

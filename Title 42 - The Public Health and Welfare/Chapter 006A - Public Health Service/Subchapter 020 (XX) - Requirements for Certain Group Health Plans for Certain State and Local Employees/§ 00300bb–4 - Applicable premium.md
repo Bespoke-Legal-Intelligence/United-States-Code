@@ -4,7 +4,7 @@ For purposes of this subchapter—
 
 #### (1) In general
 
-&emsp;The term “applicable premium” means, with respect to any period of continuation coverage of qualified beneficiaries, the cost to the plan for such period of the coverage for similarly situated beneficiaries with respect to whom a qualifying event has not occurred (without regard to whether such cost is paid by the employer or employee).
+&emsp;The term “applicable premium” means, with respect to any period of continuation coverageof qualified beneficiaries, the cost to the plan for such period of the coverage for similarly situated beneficiaries with respect to whom a qualifying event has not occurred (without regard to whether such cost is paid by the employer or employee).
 
 #### (2) Special rule for self-insured plans
 
@@ -32,7 +32,7 @@ For purposes of this subchapter—
 
 #### (3) Determination period
 
-&emsp;The determination of any applicable premium shall be made for a period of 12 monthsand shall be made before the beginning of such period.
+&emsp;The determination of any applicable premium shall be made for a period of 12 months and shall be made before the beginning of such period.
 
 (July 1, 1944, ch. 373, title XXII, §2204, as added Pub. L. 99–272, title X, §10003(a), Apr. 7, 1986, 100 Stat. 234.)
 

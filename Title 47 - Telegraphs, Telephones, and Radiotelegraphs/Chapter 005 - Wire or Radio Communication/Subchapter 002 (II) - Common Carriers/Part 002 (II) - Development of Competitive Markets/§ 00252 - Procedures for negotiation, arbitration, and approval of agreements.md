@@ -4,7 +4,7 @@
 
 #### (1) Voluntary negotiations
 
-&emsp;Upon receiving a request for interconnection, services, or network elements pursuantto section 251 of this title, an incumbent local exchange carrier may negotiate and enter into a binding agreement with the requesting telecommunications carrier or carriers without regard to the standards set forth in subsections (b) and (c) of section 251 of this title. The agreement shall include a detailed schedule of itemized charges for interconnection and each service or network element included in the agreement. The agreement, including any interconnection agreement negotiated before February 8, 1996, shall be submitted to the State commission under subsection (e) of this section.
+&emsp;Upon receiving a request for interconnection, services, or network elements pursuant to section 251 of this title, an incumbent local exchange carrier may negotiate and enter into a binding agreement with the requesting telecommunications carrier or carriers without regard to the standards set forth in subsections (b) and (c) of section 251 of this title. The agreement shall include a detailed schedule of itemized charges for interconnection and each service or network element included in the agreement. The agreement, including any interconnection agreement negotiated before February 8, 1996, shall be submitted to the State commission under subsection (e) of this section.
 
 #### (2) Mediation
 
@@ -94,7 +94,7 @@ In resolving by arbitration under subsection (b) of this section any open issues
 
 #### (1) Approval required
 
-&emsp;Any interconnection agreement adopted by negotiation or arbitration shall be submitted for approval to the State commission. A State commission to which an agreement is submitted shall approve or reject the agreement, with written findings as to any deficiencies.
+&emsp;Any interconnection agreement adopted by negotiation or arbitration shall be submittedfor approval to the State commission. A State commission to which an agreement is submitted shall approve or reject the agreement, with written findings as to any deficiencies.
 
 #### (2) Grounds for rejection
 
@@ -167,4 +167,8 @@ A local exchange carrier shall make available any interconnection, service, or n
 For purposes of this section, the term “incumbent local exchange carrier” has the meaning provided in section 251(h) of this title.
 
 (June 19, 1934, ch. 652, title II, §252, as added Pub. L. 104–104, title I, §101(a), Feb. 8, 1996, 110 Stat. 66.)
+
+#### References in Text
+
+This chapter, referred to in subsec. (g), was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 

@@ -50,9 +50,9 @@ The remedy for a violation of subsection (a) of this section shall be such remed
 
 #### Amendments
 
-2010—Subsec. (b). Pub. L. 111–275 substituted “under section 4323(d) of title 38” for “under paragraphs (1), (2)(A), and (3) of section 4323(c) of title 38”.
+<b>2010</b>—Subsec. (b). Pub. L. 111–275 substituted “under section 4323(d) of title 38” for “under paragraphs (1), (2)(A), and (3) of section 4323(c) of title 38”.
 
-2004—Subsec. (a)(2)(B), (C). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (a)(2)(B), (C). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
 Subsec. (d)(2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in heading and text.
 

@@ -8,7 +8,7 @@ The Secretary may not make a grant under this part unless, in the case of any en
 
 The Secretary may not make a grant under this part unless the applicant for the grant agrees that, in testing an individual for HIV/AIDS, the applicant will test an individual only after the individual confirms that the decision of the individual with respect to undergoing such testing is voluntarily made.
 
-(July 1, 1944, ch. 373, title XXVI, §2661, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104 Stat. 609; amended Pub. L. 106–345, title III, §301(b)(2), Oct. 20, 2000, 114 Stat. 1345; Pub. L.109–415, title III, §304, title VII, §703, Dec. 19, 2006, 120 Stat. 2807, 2820; Pub. L. 111–87, §2(a)(1), (3)(A), Oct. 30, 2009, 123 Stat. 2885.)
+(July 1, 1944, ch. 373, title XXVI, §2661, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104 Stat. 609; amended Pub. L. 106–345, title III, §301(b)(2), Oct. 20, 2000, 114 Stat. 1345; Pub. L. 109–415, title III, §304, title VII, §703, Dec. 19, 2006, 120 Stat. 2807, 2820; Pub. L. 111–87, §2(a)(1), (3)(A), Oct. 30, 2009, 123 Stat. 2885.)
 
 #### Amendments
 

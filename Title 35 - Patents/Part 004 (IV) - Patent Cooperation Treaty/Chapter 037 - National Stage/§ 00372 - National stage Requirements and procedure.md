@@ -10,9 +10,15 @@
 
 &emsp;(3) the Director may require a verification of the translation of the international application or any other document pertaining to the application if the application or other document was filed in a language other than English.
 
-(Added Pub. L. 94–131, §1, Nov. 14, 1975, 89 Stat. 689; amended Pub. L. 98–622, title IV, §§402(e), (f), 403(a), Nov. 8, 1984, 98 Stat. 3392; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
+(Added Pub. L. 94–131, §1, Nov. 14, 1975, 89 Stat. 689; amended Pub. L. 98–622, title IV, §§402(e), (f), 403(a), Nov. 8, 1984, 98 Stat. 3392; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, §20(j), Sept. 16, 2011, 125 Stat. 335.)
+
+#### Amendment of Section
+
+<i>Pub. L. 112–29, §20(j), (l), Sept. 16, 2011, 125 Stat. 335, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, this section is amended by striking “of this title” each place that term appears. See 2011 Amendment note below.</i>
 
 #### Amendments
+
+<b>2011</b>—Subsec. (b)(2). Pub. L. 112–29 struck out “of this title” after “121”.
 
 <b>2002</b>—Subsec. (b). Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
 
@@ -23,6 +29,10 @@
 Subsec. (b)(3). Pub. L. 98–622, §402(e), added par. (3).
 
 Subsec. (c). Pub. L. 98–622, §402(f), struck out subsec. (c) which related to cancellation of claims and payment of special fees.
+
+#### Effective Date of 2011 Amendment
+
+Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(<i>l</i>) of Pub. L. 112–29, set out as a note under section 2 of this title.
 
 #### Effective Date of 1999 Amendment
 

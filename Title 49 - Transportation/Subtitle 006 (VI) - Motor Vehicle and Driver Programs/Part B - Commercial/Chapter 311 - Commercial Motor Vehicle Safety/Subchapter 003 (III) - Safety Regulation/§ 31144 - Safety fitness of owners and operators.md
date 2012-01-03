@@ -18,7 +18,7 @@ In General.—The Secretary shall—
 
 (b)
 
-Procedure.—The Secretary shall maintain by regulation a procedure for determining the safety fitness of an owner or operator. The procedure shall include, at a minimum, the following elements:
+Procedure.—The Secretary shall maintain by regulation a procedure for determining thesafety fitness of an owner or operator. The procedure shall include, at a minimum, the following elements:
 
 &emsp;(1) Specific initial and continuing requirements with which an owner or operator must comply to demonstrate safety fitness.
 
@@ -36,7 +36,7 @@ In general.—Except as provided in section 521(b)(5)(A) and this subsection, an
 
 &emsp;(2)
 
-Owners or operators transporting passengers.—With regard to owners or operators of commercial motor vehicles designed or used to transport passengers, an owner or operator who the Secretary determines is not fit may not operate in interstate commerce beginningon the 46th day after the date of such fitness determination and until the Secretary determines such owner or operator is fit.
+Owners or operators transporting passengers.—With regard to owners or operators of commercial motor vehicles designed or used to transport passengers, an owner or operator who the Secretary determines is not fit may not operate in interstate commerce beginning on the 46th day after the date of such fitness determination and until the Secretary determines such owner or operator is fit.
 
 &emsp;(3)
 
@@ -92,7 +92,7 @@ Phase-in of requirement.—The Secretary shall phase in the requirements of para
 
 &emsp;(4)
 
-New entrant authority.—Notwithstanding any other provision of this title, any new operating authority granted after the date on which section 31148(b) is first implemented shall be designated as new entrant authority until the safety review required by paragraph (1) is completed.
+New entrant authority.—Notwithstanding any other provision of this title, any new operating authority granted after the date on which section 31148(b) is first implemented shall be designated as new entrant authorityuntil the safety review required by paragraph (1) is completed.
 
 &emsp;(5)
 
@@ -104,13 +104,13 @@ Grants.—The Secretary may make grants to States and local governments for new 
 
 &emsp;&emsp;(B)
 
-Set aside.—The Secretary shall set aside from amounts made available by section 31104(a) up to $29,000,000 per fiscal year (and up to $12,315,000 for the period beginning October 1, 2010, and ending on March 4, 2011) for audits of new entrant motor carriers conducted pursuant to this paragraph.
+Set aside.—The Secretary shall set aside from amounts made available by section 31104(a) up to $29,000,000 per fiscal year and up to $14,500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012, for audits of new entrant motor carriers conducted pursuant to this paragraph.
 
 &emsp;&emsp;(C)
 
 Determination.—If the Secretary determines that a State or local government is not able to use government employees to conduct new entrant motor carrier audits, the Secretary may use the funds set aside under this paragraph to conduct audits for such States or local governments.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1012; Pub. L. 104–88, title I, §104(g), Dec. 29, 1995, 109 Stat. 920; Pub. L. 105–178, title IV, §4009(a), June9, 1998, 112 Stat. 405; Pub. L. 106–159, title II, §210(a), Dec. 9, 1999, 113 Stat. 1764; Pub. L. 109–59, title IV, §§4107(b), 4114, title VII, §7112(b), (c), Aug. 10, 2005, 119 Stat. 1720, 1725, 1899; Pub. L. 110–244, title III, §301(b), (c), June 6, 2008, 122 Stat. 1616; Pub. L. 111–147, title IV, §422(e), Mar. 18, 2010, 124 Stat. 87; Pub. L. 111–322, title II, §2202(e), Dec. 22, 2010, 124 Stat. 3525.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1012; Pub. L. 104–88, title I, §104(g), Dec. 29, 1995, 109 Stat. 920; Pub. L. 105–178, title IV, §4009(a), June 9, 1998, 112 Stat. 405; Pub. L. 106–159, title II, §210(a), Dec. 9, 1999, 113 Stat. 1764; Pub. L. 109–59, title IV, §§4107(b), 4114, title VII, §7112(b), (c), Aug. 10, 2005, 119 Stat. 1720, 1725, 1899; Pub. L. 110–244, title III, §301(b), (c), June 6, 2008, 122 Stat. 1616; Pub. L. 111–147, title IV, §422(e), Mar. 18, 2010, 124 Stat. 87; Pub. L. 111–322, title II, §2202(e), Dec. 22, 2010, 124 Stat. 3525; Pub. L. 112–5, title II, §202(e), Mar. 4, 2011, 125 Stat. 17; Pub. L. 112–30, title I, §122(e), Sept. 16, 2011, 125 Stat. 349.)
 
 Historical and Revision Notes
 
@@ -141,6 +141,10 @@ In subsection (a), the word “regulation” is substituted for “rule” for c
 In subsection (a)(1), the words “after notice and opportunity for comment” are omitted as unnecessary because of 5:553. The text of 49 App.:2512(b) is omitted as executed.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (g)(5)(B). Pub. L. 112–30 substituted “fiscal year and up to $14,500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,” for “fiscal year”.
+
+Pub. L. 112–5 struck out “(and up to $12,315,000 for the period beginning October 1, 2010, and ending on March 4, 2011)” after “year”.
 
 <b>2010</b>—Subsec. (g)(5)(B). Pub. L. 111–322 substituted “(and up to $12,315,000 for the period beginning October 1, 2010, and ending on March 4, 2011)” for “(and up to $7,310,000 for the period beginning on October 1, 2010, and ending on December 31, 2010)”.
 

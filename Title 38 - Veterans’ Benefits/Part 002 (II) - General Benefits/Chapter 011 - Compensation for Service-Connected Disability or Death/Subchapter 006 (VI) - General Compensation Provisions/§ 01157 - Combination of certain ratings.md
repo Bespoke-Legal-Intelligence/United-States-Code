@@ -1,6 +1,6 @@
 ### §1157. Combination of certain ratings
 
-The Secretary shall provide for the combination of ratings and pay compensation at the rates prescribed in subchapter II of this chapter to those veterans who served during a period of war and during any other time, who have suffered disability in line of duty in each period of service.
+The Secretary shall provide for the combination of ratings and pay compensation at the rates prescribed in subchapter II of this chapterto those veterans who served during a period of war and during any other time, who have suffered disability in line of duty in each period of service.
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1125, §357; renumbered §1157 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
 

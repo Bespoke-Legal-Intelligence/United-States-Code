@@ -16,7 +16,7 @@ In this chapter—
 
 #### Historical and Revision Notes
 
-I74senate report no. 95–989
+#### senate report no. 95–989
 
 This section contains definitions of three terms that are used in chapter 11. Paragraph (1) defines debtor in possession to mean the debtor, except when a trustee who has qualified in serving in the case.
 

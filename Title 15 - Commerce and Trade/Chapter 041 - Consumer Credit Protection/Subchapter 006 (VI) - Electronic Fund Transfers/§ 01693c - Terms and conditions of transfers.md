@@ -2,13 +2,13 @@
 
 #### (a) Disclosures; time; form; contents
 
-The terms and conditions of electronic fund transfers involving a consumer's account shall be disclosed at the time the consumer contracts for an electronic fund transfer service, in accordance with regulations of the Board. Such disclosures shall be in readily understandable language and shall include, to the extent applicable—
+The terms and conditions of electronic fund transfers involving a consumer's account shall be disclosed at the time the consumer contracts for an electronic fund transfer service, in accordance with regulations of the Bureau. Such disclosures shall be in readily understandable language and shall include, to the extent applicable—
 
 &emsp;(1) the consumer's liability for unauthorized electronic fund transfers and, at the financial institution's option, notice of the advisability of prompt reporting of any loss, theft, or unauthorized use of a card, code, or other means of access;
 
 &emsp;(2) the telephone number and address of the person or office to be notified in the event the consumer believes than <sup>1</sup> an unauthorized electronic fund transfer has been or may be effected;
 
-&emsp;(3) the type and nature of electronic fund transfers which the consumer may initiate, including any limitations on the frequency or dollar amount of such transfers, except that the details of such limitations need not be disclosed if their confidentiality is necessary to maintain the security of an electronic fund transfer system, as determined by the Board;
+&emsp;(3) the type and nature of electronic fund transfers which the consumer may initiate, including any limitations on the frequency or dollar amount of such transfers, except that the details of such limitations need not be disclosed if their confidentiality is necessary to maintain the security of an electronic fund transfer system, as determined by the Bureau;
 
 &emsp;(4) any charges for electronic fund transfers or for the right to make such transfers;
 
@@ -16,7 +16,7 @@ The terms and conditions of electronic fund transfers involving a consumer's acc
 
 &emsp;(6) the consumer's right to receive documentation of electronic fund transfers under section 1693d of this title;
 
-&emsp;(7) a summary, in a form prescribed by regulations of the Board, of the error resolution provisions of section 1693f of this title and the consumer's rights thereunder. The financial institution shall thereafter transmit such summary at least once per calendar year;
+&emsp;(7) a summary, in a form prescribed by regulations of the Bureau, of the error resolution provisions of section 1693f of this title and the consumer's rights thereunder. The financial institution shall thereafter transmit such summary at least once per calendar year;
 
 &emsp;(8) the financial institution's liability to the consumer under section 1693h of this title;
 
@@ -30,7 +30,7 @@ The terms and conditions of electronic fund transfers involving a consumer's acc
 
 #### (b) Notification of changes to consumer
 
-A financial institution shall notify a consumer in writing at least twenty-one days prior to the effective date of any change in any term or condition of the consumer's account required to be disclosed under subsection (a) of this section if such change would result in greater cost or liability for such consumer or decreased access to the consumer's account. A financial institution may, however, implement a change in the terms or conditions of an account without prior notice when such change is immediately necessary to maintain or restore the security of an electronic fund transfer system or a consumer's account. Subject to subsection (a)(3) of this section, the Board shall require subsequent notification if such a change is made permanent.
+A financial institution shall notify a consumer in writing at least twenty-one days prior to the effective date of any change in any term or condition of the consumer's account required to be disclosed under subsection (a) of this section if such change would result in greater cost or liability for such consumer or decreased access to the consumer's account. A financial institution may, however, implement a change in the terms or conditions of an account without prior notice when such change is immediately necessary to maintain or restore the security of an electronic fund transfer system or a consumer's account. Subject to subsection (a)(3) of this section, the Bureau shall require subsequent notification if such a change is made permanent.
 
 #### (c) Time for disclosures respecting accounts accessible prior to effective date of this subchapter
 
@@ -42,15 +42,13 @@ For any account of a consumer made accessible to electronic fund transfers prior
 
 (Pub. L. 90–321, title IX, §905, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3730; amended Pub. L. 106–102, title VII, §703, Nov. 12, 1999, 113 Stat. 1464; Pub. L. 111–203, title X, §1084(1), July 21, 2010, 124 Stat. 2081.)
 
-#### Amendment of Section
-
-<i>Pub. L. 111–203, title X, §§1084(1), 1100H, July 21, 2010, 124 Stat. 2081, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Board” each place that term appears and inserting “Bureau”. See Effective Date of 2010 Amendment note below.</i>
-
 #### References in Text
 
 For effective date of this subchapter, referred to in subsec. (c), see section 921 of Pub. L. 90–321, set out as an Effective Date note under section 1693 of this title.
 
 #### Amendments
+
+<b>2010</b>—Subsecs. (a), (b). Pub. L. 111–203 substituted “Bureau” for “Board” wherever appearing.
 
 <b>1999</b>—Subsec. (a)(10). Pub. L. 106–102 added par. (10).
 

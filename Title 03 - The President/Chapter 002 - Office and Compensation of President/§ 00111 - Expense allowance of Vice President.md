@@ -6,9 +6,9 @@ There shall be paid to the Vice President in equal monthly installments an expen
 
 #### Amendments
 
-2003—Pub. L. 108–7 substituted “$20,000” for “$10,000”.
+<b>2003</b>—Pub. L. 108–7 substituted “$20,000” for “$10,000”.
 
-1951—Act Oct. 20, 1951, made Vice President's expense allowance taxable.
+<b>1951</b>—Act Oct. 20, 1951, made Vice President's expense allowance taxable.
 
 #### Effective Date of 2003 Amendment
 
@@ -36,7 +36,7 @@ Sec. 3. The Secretary of the Navy shall, subject to the supervision and control 
 
 “
 
-Sec. 4. There is hereby authorized to be appropriated such sums as may be necessary from time to time to carry out the foregoing provisions of this joint resolution. During any interim period until and before any such funds are so appropriated, the Secretary of the Navy shall make provision for staffing and other appropriate services in connection with the temporary official residence of the Vice President from funds available to the Department of the Navy, subject to reimbursement therefor from funds subsequently appropriated to carry out the purposes of this joint resolution.
+Sec. 4. There is hereby authorized to be appropriated such sums as may be necessary from time to time to carry out the foregoing provisions of this joint resolution. During any interim period until and before any such funds are so appropriated, the Secretary of the Navy shall make provision for staffing and other appropriate services in connection with the temporary official residence of the Vice President from fundsavailable to the Department of the Navy, subject to reimbursement therefor from funds subsequently appropriated to carry out the purposes of this joint resolution.
 
 “
 
@@ -76,7 +76,7 @@ Sec. 4. The Administrator of General Services is further authorized to accept ca
 
 “
 
-Sec. 5. There is authorized to be appropriated to the General Services Administration, the sum of $750,000for planning, design, construction, and costs incidental thereto, including the cost of initial furnishings.
+Sec. 5. There is authorized to be appropriated to the General Services Administration, the sum of $750,000 for planning, design, construction, and costs incidental thereto, including the cost of initial furnishings.
 
 “
 

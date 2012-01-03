@@ -18,7 +18,7 @@ The Secretary, acting through the Director for Emergency Communications, shall e
 
 #### (2) Standards
 
-&emsp;The Secretary, in coordination with the Federal Communications Commission, the National Institute of Standards and Technology, and other Federal departments and agencies with responsibility for standards, shall support the development, promulgation, and updating as necessary of national voluntary consensus standards for interoperable emergency communications.
+&emsp;The Secretary, in coordination with the Federal Communications Commission, the National Institute of Standards and Technology, and other Federal departments and agencieswith responsibility for standards, shall support the development, promulgation, and updating as necessary of national voluntary consensus standards for interoperable emergency communications.
 
 (Pub. L. 107–296, title XVIII, §1804, as added Pub. L. 109–295, title VI, §671(b), Oct. 4, 2006, 120 Stat. 1438.)
 

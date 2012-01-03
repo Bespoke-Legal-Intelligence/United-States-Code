@@ -1,6 +1,6 @@
 ### §60a–2a. Rates of compensation disbursed by Chief Administrative Officer of House; adjustments by Speaker; “Member of the House of Representatives” defined
 
-(1) Notwithstanding any other provision of this Act, or any other provision of law, rule, or regulation, on and after December 22, 1987, each time the President pro tempore of the Senate exercises any authority pursuant to any of the amendments made by this section with respect to rates of pay or any other matter relating to personnel whose pay is disbursed by the Secretary of the Senate, or whenever any of the events described in paragraph (2) occurs, the Speaker of the House of Representatives may adjust the rates of pay (and any minimum or maximum rate, limitation, or allowance) applicable to personnel whose pay is disbursed by the Chief Administrative Officer of the House of Representatives to the extent necessary to ensure—
+(1) Notwithstanding any other provision of this Act, or any other provision of law, rule, or regulation, on and after December 22, 1987, each time the President pro tempore of the Senate exercises any authority pursuant to any of theamendments made by this section with respect to rates of pay or any other matter relating to personnel whose pay is disbursed by the Secretary of the Senate, or whenever any of the events described in paragraph (2) occurs, the Speaker of the House of Representatives may adjust the rates of pay (and any minimum or maximum rate, limitation, or allowance) applicable to personnel whose pay is disbursed by the Chief Administrative Officer of the House of Representatives to the extent necessary to ensure—
 
 &emsp;(A) appropriate pay levels and relationships between and among positions held by personnel of the House of Representatives; and
 
@@ -20,7 +20,7 @@
 
 &emsp;(B) an adjustment in rates of pay for Members of the House of Representatives (other than an adjustment which occurs by virtue of an adjustment described in subparagraph (A)).
 
-(3) For the purpose of this section, the term “Member of the House of Representatives”means a Member of the House of Representatives, a Delegate to the House of Representatives, and the Resident Commissioner from Puerto Rico.
+(3) For the purpose of this section, the term “Member of the House of Representatives” means a Member of the House of Representatives, a Delegate to the House of Representatives, and the Resident Commissioner from Puerto Rico.
 
 (Pub. L. 100–202, §101(i) \[title III, §311(d)\], Dec. 22, 1987, 101 Stat. 1329–290, 1329–310; Pub. L. 101–520, title III, §308, Nov. 5, 1990, 104 Stat. 2277; Pub. L. 102–90, title III, §308, Aug. 14, 1991, 105 Stat. 466; Pub. L. 104–186, title II, §204(2), Aug. 20, 1996, 110 Stat. 1729.)
 
@@ -38,15 +38,15 @@ Section is from the Congressional Operations Appropriations Act, 1988, which is 
 
 #### Amendments
 
-1996—Par. (1). Pub. L. 104–186 substituted “Chief Administrative Officer of the House of Representatives” for “Clerk of the House of Representatives”.
+<b>1996</b>—Par. (1). Pub. L. 104–186 substituted “Chief Administrative Officer of the House of Representatives” for “Clerk of the House of Representatives”.
 
-1991—Par. (2)(A). Pub. L. 102–90 substituted “5303” for “5305”.
+<b>1991</b>—Par. (2)(A). Pub. L. 102–90 substituted “5303” for “5305”.
 
-1990—Pub. L. 101–520 designated existing provisions as par. (1), inserted “or whenever any of the events described in par. (2) occurs,” after “Secretary of the Senate,”, substituted “may adjust the rates of pay (and any minimum or maximum rate, limitation, or allowance) applicable to personnel whose pay is disbursed by the Clerk of the House of Representatives to the extent necessary to ensure—” and subpars. (A) and (B) for “may, with respect to personnel whose pay is disbursed by the Clerk of the House of Representatives, exercise the same authority to the extent necessary to ensure parity of treatment between personnel of the respective Houses of Congress having comparable duties and responsibilities.”, and added pars. (2) and (3).
+<b>1990</b>—Pub. L. 101–520 designated existing provisions as par. (1), inserted “or whenever any of the events described in par. (2) occurs,” after “Secretary of the Senate,”, substituted “may adjust the rates of pay (and any minimum or maximum rate, limitation, or allowance) applicable to personnel whose pay is disbursed by the Clerk of the House of Representatives to the extent necessary to ensure—” and subpars. (A) and (B) for “may, with respect to personnel whose pay is disbursed by the Clerk of the House of Representatives, exercise the same authority to the extent necessary to ensure parity of treatment between personnel of the respective Houses of Congress having comparable duties and responsibilities.”, and added pars. (2) and (3).
 
 #### Order of the Speaker of the House of Representatives
 
-I74January 9, 2009
+#### January 9, 2009
 
 Pursuant to the authority vested in the Speaker by section 311(d) of the Legislative Branch Appropriations Act, 1988 (2 U.S.C. 60a–2a), in order to ensure parity of treatment between employees of the House of Representatives and certain other employees of the Government, it is hereby—
 
@@ -82,7 +82,7 @@ Sec. 2. (a) Subject to the maximums under subsection (b), the following Members,
 
 (b)(1) The maximum annual rate under subsection (a) is $172,500 for—
 
-&emsp;(A) any employee whose maximum annual rate of pay, but for the pay authority of the Speaker under section 311(d) of the Legislative Branch Appropriations Act, 1988 (2 U.S.C. 60a–2a), would be subject to a maximum equal to the rate payable for level III or IV of the Executive Schedule; and
+&emsp;(A) any employee whose maximum annual rate of pay, but for the pay authority of the Speaker under section 311(d) of the Legislative Branch Appropriations Act, 1988 (2 U.S.C. 60a–2a), would be subject toa maximum equal to the rate payable for level III or IV of the Executive Schedule; and
 
 &emsp;(B)(i) one employee of the Republican Conference and one employee of the Democratic Steering and Policy Committee, (ii) any employee in a position under 77 Stat. 817, (iii) 6 minority employees, (iv) the employee in the position in the Office of the Speaker created in 1967, (v) 3 employees in the Speaker's Office for Legislative Floor Activities, and (vi) 3 further minority employees.
 

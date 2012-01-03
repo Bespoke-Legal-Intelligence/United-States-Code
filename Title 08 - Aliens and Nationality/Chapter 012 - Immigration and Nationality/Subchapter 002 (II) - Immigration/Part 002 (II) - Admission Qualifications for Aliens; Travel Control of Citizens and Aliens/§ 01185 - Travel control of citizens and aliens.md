@@ -36,9 +36,9 @@ The revocation of any rule, regulation, or order issued in pursuance of this sec
 
 #### (f) Permits to enter
 
-Passports, visas, reentry permits, and other documents required for entry under this chapter may be considered as permits to enter for the purposes of this section.
+Passports, visas, reentry permits, and other documents required for entry under this chaptermay be considered as permits to enter for the purposes of this section.
 
-(June 27, 1952, ch. 477, title II, ch. 2, §215, 66 Stat. 190; Pub. L. 95–426, title VII, §707(a)–(d), Oct. 7, 1978, 92 Stat. 992, 993; Pub. L. 103–416, title II, §204(a), Oct. 25, 1994, 108 Stat 4311.)
+(June 27, 1952, ch. 477, title II, ch. 2, §215, 66 Stat. 190; Pub. L. 95–426, title VII, §707(a)–(d), Oct. 7, 1978, 92 Stat. 992, 993; Pub. L. 103–416, title II, §204(a), Oct. 25, 1994, 108 Stat. 4311.)
 
 #### References in Text
 
@@ -48,9 +48,9 @@ This chapter, referred to in subsecs. (d) and (f), was in the original, “this 
 
 #### Amendments
 
-1994—Subsec. (b). Pub. L. 103–416 inserted “United States” after “valid”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–416 inserted “United States” after “valid”.
 
-1978—Subsec. (a). Pub. L. 95–426, §707(a), substituted provision that the enumerated acts would, unless otherwise ordered by the President, be deemed unlawful for provisions declaring it unlawful when the United States is at war or during a proclaimed national emergency, or, as to aliens, when there exists a state of war between two or more states and the President finds that the interests of the United States require restrictions to be imposed upon departure of persons from and their entry into the United States.
+<b>1978</b>—Subsec. (a). Pub. L. 95–426, §707(a), substituted provision that the enumerated acts would, unless otherwise ordered by the President, be deemed unlawful for provisions declaring it unlawful when the United States is at war or during a proclaimed national emergency, or, as to aliens, when there exists a state of war between two or more states and the President finds that the interests of the United States require restrictions to be imposed upon departure of persons from and their entry into the United States.
 
 Subsec. (b). Pub. L. 95–426, §707(b), substituted provisions prohibiting departure or entry except as otherwise provided by the President and subject to such limitations and exceptions as he may authorize or prescribe, for provisions prohibiting such departure or entry after proclamation of a national emergency has been made, published and in force.
 
@@ -74,13 +74,71 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 Authority of President under subsec. (a)(1) of this section to maintain custody and conduct screening of any undocumented person seeking to enter the United States who is encountered in a vessel interdicted on the high seas through Dec. 31, 2000, delegated to Attorney General by Memorandum of President of the United States, Sept. 24, 1999, 64 F.R. 55809, set out as a note under section 1182 of this title.
 
+#### Asia-Pacific Economic Cooperation Business Travel Cards
+
+Pub. L. 112–54, Nov. 12, 2011, 125 Stat. 550, provided that:
+
+#### “SECTION 1. SHORT TITLE.
+
+“This Act may be cited as the ‘Asia-Pacific Economic Cooperation Business Travel Cards Act of 2011’.
+
+#### “SEC. 2. ASIA-PACIFIC ECONOMIC COOPERATION BUSINESS TRAVEL CARDS.
+
+“(a)
+
+In General.—During the 7-year period ending on September 30, 2018, the Secretary of Homeland Security, in coordination with the Secretary of State, is authorized to issue Asia-Pacific Economic Cooperation Business Travel Cards (referred to in this section as ‘ABT Cards’) to any eligible person, including business leaders and United States Government officials who are actively engaged in Asia-Pacific Economic Cooperation business. An individual may not receive an ABT Card under this section unless the individual has been approved and is in good standing in an international trusted traveler program of the Department of Homeland Security.
+
+“(b)
+
+Integration With Existing Travel Programs.—The Secretary of Homeland Security may integrate application procedures for, and issuance, suspension, and revocation of, ABT Cards with other appropriate international trusted traveler programs of the Department of Homeland Security.
+
+“(c)
+
+Cooperation With Private Entities.—In carrying out this section, the Secretary of Homeland Security may consult with appropriate private sector entities.
+
+“(d)
+
+Rulemaking.—The Secretary of Homeland Security, in coordination with the Secretary of State, may prescribe such regulations as may be necessary to carry out this section, including regulations regarding conditions of or limitations on eligibility for an ABT Card.
+
+“(e)
+
+Fee.—
+
+&emsp;“(1)
+
+In general.—The Secretary of Homeland Security may—
+
+&emsp;&emsp;“(A) prescribe and collect a fee for the issuance of ABT Cards; and
+
+&emsp;&emsp;“(B) adjust such fee to the extent the Secretary determines to be necessary to comply with paragraph (2).
+
+&emsp;“(2)
+
+Limitation.—The Secretary of Homeland Security shall ensure that the total amount of the fees collected under paragraph (1) during any fiscal year is sufficient to offset the direct and indirect costs associated with carrying out this section during such fiscal year, including the costs associated with establishing the program.
+
+&emsp;“(3)
+
+Account for collections.—There is established in the Treasury of the United States an ‘APEC Business Travel Card Account’ into which the fees collected under paragraph (1) shall be deposited as offsetting receipts.
+
+&emsp;“(4)
+
+Use of funds.—Amounts deposited into the APEC Business Travel Card Account—
+
+&emsp;&emsp;“(A) shall be credited to the appropriate account of the Department of Homeland Security for expenses incurred in carrying out this section; and
+
+&emsp;&emsp;“(B) shall remain available until expended.
+
+“(f)
+
+Termination of Program.—The Secretary of Homeland Security, in coordination with the Secretary of State, may terminate activities under this section if the Secretary of Homeland Security determines such action to be in the interest of the United States.”
+
 #### Western Hemisphere Travel Initiative
 
 Pub. L. 110–53, title VII, §724, Aug. 3, 2007, 121 Stat. 350, provided that: “Before the Secretary of Homeland Security publishes a final rule in the Federal Register implementing section 7209 of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458; 8 U.S.C. 1185 note) \[set out below\]—
 
 &emsp;“(1) the Secretary of Homeland Security shall complete a cost-benefit analysis of the Western Hemisphere Travel Initiative, authorized under such section 7209; and
 
-&emsp;“(2) the Secretary of State shall develop proposals for reducing the execution fee charged for the passport card, proposed at 71 Fed. Reg. 60928–32 (October 17, 2006), including the use of mobile application teams, during implementation of the land and sea phase of the Western Hemisphere Travel Initiative, in order to encourage United States citizens to apply for the passport card.”
+&emsp;“(2) the Secretary of State shall develop proposals for reducing the execution fee charged for the passport card, proposed at 71 Fed. Reg. 60928–32 (October17, 2006), including the use of mobile application teams, during implementation of the land and sea phase of the Western Hemisphere Travel Initiative, in order to encourage United States citizens to apply for the passport card.”
 
 Pub. L. 108–458, title VII, §7209, Dec. 17, 2004, 118 Stat. 3823, as amended by Pub. L. 109–295, title V, §546, Oct. 4, 2006, 120 Stat. 1386; Pub. L. 110–53, title VII, §723, Aug. 3, 2007, 121 Stat. 349; Pub. L. 110–161, div. E, title V, §545, Dec. 26, 2007, 121 Stat. 2080, provided that:
 
@@ -156,7 +214,7 @@ Technical and Conforming Amendments.—After the complete implementation of the 
 
 “(d)
 
-Transit Without Visa Program.—The Secretary of State shall not use any authorities granted under section 212(d)(4)(C) of such Act \[8 U.S.C. 1182(d)(4)(C)\] until the Secretary, in conjunction with the Secretary of Homeland Security, completely implements a security plan to fully ensure secure transit passage areas to prevent aliens proceeding in immediate and continuous transit through the United States from illegally entering the United States.”
+Transit Without Visa Program.—The Secretary of State shall not use any authorities granted undersection 212(d)(4)(C) of such Act \[8 U.S.C. 1182(d)(4)(C)\] until the Secretary, in conjunction with the Secretary of Homeland Security, completely implements a security plan to fully ensure secure transit passage areas to prevent aliens proceeding in immediate and continuous transit through the United States from illegally entering the United States.”
 
 \[Amendment by Pub. L. 110–161, §545, to section 7209 of Pub. L. 108–458, set out above, was executed to reflect the probable intent of Congress, notwithstanding errors in the directory language.\]
 

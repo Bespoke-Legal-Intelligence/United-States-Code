@@ -32,7 +32,7 @@ The Delta Development Act, referred to in par. (2), is S. 2836 of the 100th Cong
 
 #### Amendments
 
-2000—Par. (4). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §153(b)\], added par. (4).
+<b>2000</b>—Par. (4). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §153(b)\], added par. (4).
 
 #### Findings and Purposes
 
@@ -48,7 +48,7 @@ Findings.—Congress finds that—
 
 &emsp;“(3) the greatest hope for economic growth and revitalization in the region lies in the development of transportation infrastructure, creation of jobs, expansion of businesses, and development of entrepreneurial local economies;
 
-&emsp;“(4) the economic progress of the region requires an adequate transportation and physical infrastructure, a skilled and trained workforce, and greater opportunities for enterprise development and entrepreneurship;
+&emsp;“(4) the economic progress of the region requires an adequate transportation and physical infrastructure,a skilled and trained workforce, and greater opportunities for enterprise development and entrepreneurship;
 
 &emsp;“(5) a concerted and coordinated effort among Federal, State, and local agencies, the private sector, and nonprofit groups is needed if the region is to achieve its full potential for economic development;
 

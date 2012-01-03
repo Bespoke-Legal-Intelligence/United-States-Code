@@ -32,7 +32,7 @@
 
 #### Amendments
 
-2008—Subsec. (a)(1). Pub. L. 110–289, §1153(b)(1)(B)(i), substituted “section 4631, 4636(c), or 4636a of this title” for “section 4631 or 4636(c) of this title”.
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–289, §1153(b)(1)(B)(i), substituted “section 4631, 4636(c), or 4636a of this title” for “section 4631 or 4636(c) of this title”.
 
 Subsec. (a)(2). Pub. L. 110–289, §1153(b)(1)(B)(ii), inserted “or 4636a” after “section 4631”.
 

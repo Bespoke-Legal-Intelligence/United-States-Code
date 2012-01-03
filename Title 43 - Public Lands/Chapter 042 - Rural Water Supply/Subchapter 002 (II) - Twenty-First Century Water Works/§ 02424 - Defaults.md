@@ -30,7 +30,7 @@
 
 #### (c) Payment of principal and interest by Secretary
 
-With respect to any obligation guaranteed under this section, the Secretary may enter intoa contract to pay, and pay, holders of the obligation, for and on behalf of the non-Federal borrower, from funds appropriated for that purpose, the principal and interest payments that become due and payable on the unpaid balance of the obligation if the Secretary finds that—
+With respect to any obligation guaranteed under this section, the Secretary may enter into a contract to pay, and pay, holders of the obligation, for and on behalf of the non-Federal borrower, from funds appropriated for that purpose, the principal and interest payments that become due and payable on the unpaid balance of the obligation if the Secretary finds that—
 
 &emsp;(1)(A) the non-Federal borrower is unable to meet the payments and is not in default;
 

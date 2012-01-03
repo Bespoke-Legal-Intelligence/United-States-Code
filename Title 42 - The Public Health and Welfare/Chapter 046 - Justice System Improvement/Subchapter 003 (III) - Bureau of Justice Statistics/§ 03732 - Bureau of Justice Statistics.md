@@ -100,7 +100,7 @@ This Act, referred to in subsecs. (b) and (c)(11), is Pub. L. 90–351, June 19,
 
 #### Prior Provisions
 
-A prior section 3732, Pub. L. 90–351, title I, §302, June 19, 1968, 82 Stat. 200; Pub. L. 93–83, §2, Aug. 6, 1973, 87Stat. 201; Pub. L. 94–503, title I, §110, Oct. 15, 1976, 90 Stat. 2412, related to establishment of State planning agencies to develop comprehensive State plans for grants for law enforcement and criminal justice purposes, prior to the general amendment of this chapter by Pub. L. 96–157.
+A prior section 3732, Pub. L. 90–351, title I, §302, June 19, 1968, 82 Stat. 200; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 201; Pub. L. 94–503, title I, §110, Oct. 15, 1976, 90 Stat. 2412, related to establishment of State planning agencies to develop comprehensive State plans for grants for law enforcement and criminal justice purposes, prior to the general amendment of this chapter by Pub. L. 96–157.
 
 #### Amendments
 
@@ -208,7 +208,7 @@ Issues Addressed.—The study conducted under this section shall include an anal
 
 #### Inclusion of Seniors in National Crime Victimization Survey
 
-Pub. L. 106–534, §6, Nov. 22, 2000, 114 Stat. 2557, provided that: “Beginning not later than 2 years after the date of enactment of this Act \[Nov. 22, 2000\], as part ofeach National Crime Victimization Survey, the Attorney General shall include statistics relating to—
+Pub. L. 106–534, §6, Nov. 22, 2000, 114 Stat. 2557, provided that: “Beginning not later than 2 years after the date of enactment of this Act \[Nov. 22, 2000\], as part of each National Crime Victimization Survey, the Attorney General shall include statistics relating to—
 
 &emsp;“(1) crimes targeting or disproportionately affecting seniors;
 

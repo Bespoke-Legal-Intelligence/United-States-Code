@@ -48,7 +48,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 726(a)(4) adopts a provision contained in the Senate amendment subordinating prepetition penalties and penalties arising in the involuntary gap period to the extent the penalties are not compensation for actual pecuniary laws.
 
@@ -62,7 +62,7 @@ First, property is distributed among priority claimants, as determined by sectio
 
 Paragraph (4) provides that punitive penalties, including prepetition tax penalties, are subordinated to the payment of all other classes of claims, except claims for interest accruing during the case. In effect, these penalties are payable out of the estate's assets only if and to the extent that a surplus of assets would otherwise remain at the close of the case for distribution back to the debtor.
 
-Paragraph (5) provides that postpetition interest on prepetition claims is also to be paid to the creditor ina subordinated position. Like prepetition penalties, such interest will be paid from the estate only if and to the extent that a surplus of assets would otherwise remain for return to the debtor at the close of the case.
+Paragraph (5) provides that postpetition interest on prepetition claims is also to be paid to the creditor in a subordinated position. Like prepetition penalties, such interest will be paid from the estate only if and to the extent that a surplus of assets would otherwise remain for return to the debtor at the close of the case.
 
 This section also specifies that interest accrued on all claims (including priority and nonpriority tax claims) which accrued before the date of the filing of the title 11 petition is to be paid in the same order of distribution of the estate's assets as the principal amount of the related claims.
 
@@ -78,21 +78,21 @@ The marshalling rules in this section apply only to property of the estate. Howe
 
 #### Amendments
 
-2010—Subsec. (b). Pub. L. 111–327 substituted “(8), (9), or (10)” for “or (8)”.
+<b>2010</b>—Subsec. (b). Pub. L. 111–327 substituted “(8), (9), or (10)” for “or (8)”.
 
-2005—Subsec. (a)(1). Pub. L. 109–8, §713, substituted “on or before the earlier of—” and subpars. (A) and (B) for “before the date on which the trustee commences distribution under this section;”.
+<b>2005</b>—Subsec. (a)(1). Pub. L. 109–8, §713, substituted “on or before the earlier of—” and subpars. (A) and (B) for “before the date on which the trustee commences distribution under this section;”.
 
 Subsec. (b). Pub. L. 109–8, §1215, struck out “1009,” before “1112”.
 
-1994—Subsec. (a)(1). Pub. L. 103–394, §213(b), inserted before semicolon at end “, proof of which is timely filed under section 501 of this title or tardily filed before the date on which the trustee commences distribution under this section”.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–394, §213(b), inserted before semicolon at end “, proof of which is timely filed under section 501 of this title or tardily filed before the date on which the trustee commences distribution under this section”.
 
 Subsec. (b). Pub. L. 103–394, §§304(h)(5), 501(d)(24), substituted “, (7), or (8)” for “or (7)” and “chapter under section 1009, 1112,” for “chapter under section 1112”.
 
-1986—Subsec. (b). Pub. L. 99–554, §283(s), inserted reference to par. (7) of section 507(a) of this title.
+<b>1986</b>—Subsec. (b). Pub. L. 99–554, §283(s), inserted reference to par. (7) of section 507(a) of this title.
 
 Pub. L. 99–554, §257(r), inserted reference to section 1208 of this title.
 
-1984—Subsec. (b). Pub. L. 98–353, §479(a), substituted “each such particular paragraph” for “a particular paragraph”, “a claim allowed under section 503(b) of this title” for “administrative expenses” in two places, and “has priority over” for “have priority over”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–353, §479(a), substituted “each such particular paragraph” for “a particular paragraph”, “a claim allowed under section 503(b) of this title” for “administrative expenses” in two places, and “has priority over” for “have priority over”.
 
 Subsec. (c)(1). Pub. L. 98–353, §479(b)(1), substituted “Claims allowed under section 503 of this title” for “Administrative expenses”.
 

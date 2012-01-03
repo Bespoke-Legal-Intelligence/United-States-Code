@@ -50,7 +50,7 @@ The Director shall conduct a national youth anti-drug media campaign (referred t
 
 #### (B) Testing and evaluation of advertising
 
-&emsp;&emsp;In using amounts for testing and evaluation of advertising under paragraph (1)(D), the Director shall test all advertisements prior to use in the national media campaign to ensure that the advertisements are effective and meet industry-accepted standards. The Director may waive this requirement for advertisements using no more than 10 percent of the purchase of advertising time purchased under this section in a fiscal year and no more than 10 percent of the advertising space purchased under this section in a fiscal year, if the advertisements respond to emergent and time-sensitive campaign needs or the advertisements will not be widely utilized in the national media campaign.
+&emsp;&emsp;In using amounts for testing and evaluation of advertising under paragraph (1)(D), the Director shall test all advertisements prior to use in the national media campaign to ensure that the advertisements are effective and meet industry-accepted standards. The Director may waive this requirement for advertisements using no more than 10 percent of the purchase of advertising time purchased under this section in a fiscal year and no more than 10 percent of the advertising space purchased under this section in a fiscal year, if the advertisements respond to emergent and time-sensitive campaign needsor the advertisements will not be widely utilized in the national media campaign.
 
 #### (C) Evaluation of effectiveness of media campaign
 
@@ -164,7 +164,7 @@ The Director shall submit on an annual basis a report to Congress that describes
 
 &emsp;(1) the strategy of the national media campaign and whether specific objectives of the media campaign were accomplished;
 
-&emsp;(2) steps taken to ensure that the national media campaign operates in an effective andefficient manner consistent with the overall strategy and focus of the national media campaign;
+&emsp;(2) steps taken to ensure that the national media campaign operates in an effective and efficient manner consistent with the overall strategy and focus of the national media campaign;
 
 &emsp;(3) plans to purchase advertising time and space;
 
@@ -242,7 +242,7 @@ In subsec. (g)(2), “chapter 43 of title 41” substituted for “section 306 o
 
 #### Ex. Ord. No. 12992. President's Council on Counter-Narcotics
 
-Ex. Ord. No. 12992, Mar. 15, 1996, 61 F.R. 11287, as amended by Ex. Ord. No. 13023, §§2, 3, Nov. 6, 1996, 61F.R. 57767; Ex. Ord. No. 13284, §8, Jan. 23, 2003, 68 F.R. 4076, provided:
+Ex. Ord. No. 12992, Mar. 15, 1996, 61 F.R. 11287, as amended by Ex. Ord. No. 13023, §§2, 3, Nov. 6, 1996, 61 F.R. 57767; Ex. Ord. No. 13284, §8, Jan. 23, 2003, 68 F.R. 4076, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, it is hereby ordered as follows:
 

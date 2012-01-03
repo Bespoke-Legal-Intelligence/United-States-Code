@@ -32,7 +32,7 @@ For purposes of this subpart—
 
 &emsp;&emsp;(A) the amount of such discount, divided by
 
-&emsp;&emsp;(B) the number of days after the day on which the taxpayer acquired the obligation and up to (and including) the day of its maturity.
+&emsp;&emsp;(B) the number of days after the day on which the taxpayer acquired the obligationand up to (and including) the day of its maturity.
 
 #### (2) Election of accrual on basis of constant interest rate (in lieu of ratable accrual)
 

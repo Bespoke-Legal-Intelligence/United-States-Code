@@ -16,5 +16,5 @@ Said section would in no way be affected. 81st Congress, House Report No. 557.
 
 #### Amendments
 
-1984—Pub. L. 98–557 substituted reference to enlisted members for reference to enlisted men.
+<b>1984</b>—Pub. L. 98–557 substituted reference to enlisted members for reference to enlisted men.
 

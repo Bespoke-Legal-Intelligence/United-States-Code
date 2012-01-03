@@ -48,11 +48,11 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (<i>l</i>). Pub. L. 110–246, §1507(b)(1), added subsec. (<i>l</i>) and struck out former subsec. (<i>l</i>) which read as follows: “the term ‘United States’ as used in sections 4501 through 4508 of this title means the forty-eight contiguous States in the continental United States;”.
+<b>2008</b>—Subsec. (<i>l</i>). Pub. L. 110–246, §1507(b)(1), added subsec. (<i>l</i>) and struck out former subsec. (<i>l</i>) which read as follows: “the term ‘United States’ as used in sections 4501 through 4508 of this title means the forty-eight contiguous States in the continental United States;”.
 
 Subsec. (m). Pub. L. 110–246, §1507(b)(2), struck out “(as defined in subsection (<i>l</i>) of this section)” before “, including”.
 
-2002—Subsec. (d). Pub. L. 107–171, §1505(h)(2), struck out “produced in the United States” before semicolon at end.
+<b>2002</b>—Subsec. (d). Pub. L. 107–171, §1505(h)(2), struck out “produced in the United States” before semicolon at end.
 
 Subsec. (m) to (<i>o</i>). Pub. L. 107–171, §1505(a), added subsecs. (m) to (<i>o</i>).
 

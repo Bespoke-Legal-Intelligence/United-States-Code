@@ -24,7 +24,7 @@
 
 &emsp;&emsp;If the Board of Directors determines that—
 
-&emsp;&emsp;&emsp;(i) an insured depository institution or the directors or trustees of an insured depository institution have engaged or areengaging in unsafe or unsound practices in conducting the business of the depository institution;
+&emsp;&emsp;&emsp;(i) an insured depository institution or the directors or trustees of an insured depository institution have engaged or are engaging in unsafe or unsound practices in conducting the business of the depository institution;
 
 &emsp;&emsp;&emsp;(ii) an insured depository institution is in an unsafe or unsound condition to continue operations as an insured institution; or
 
@@ -60,7 +60,7 @@
 
 #### (7) Temporary insurance of deposits insured as of termination
 
-&emsp;After the termination of the insured status of any depository institution under the provisions of this subsection, the insured deposits of each depositor in the depository institution on the date of such termination, less all subsequent withdrawals from any deposits of such depositor, shall continue for a period of at least 6 months or up to 2 years, within the discretion of the Board of Directors, to be insured, and the depository institution shall continue to pay to the Corporation assessments as in the case of an insured depository institution during such period. No additions to any such deposits and no new deposits in such depository institution made after the date of such termination shall be insured by the Corporation, and the depository institution shall not advertise or hold itself out as having insured deposits unless in the same connection it shall also state with equal prominence that such additions to deposits and new deposits made after such date are not so insured. Such depository institution shall, in all other respects, be subject to the duties and obligations of an insured depository institution for the period referred to in the 1st sentence from the date of such termination, and in the event that such depository institution shall be closed on account of inability to meet the demands of its depositors within such period, the Corporation shall have the same powers andrights with respect to such depository institution as in case of an insured depository institution.
+&emsp;After the termination of the insured status of any depository institution under the provisions of this subsection, the insured deposits of each depositor in the depository institution on the date of such termination, less all subsequent withdrawals from any deposits of such depositor, shall continue for a period of at least 6 months or up to 2 years, within the discretion of the Board of Directors, to be insured, and the depository institution shall continue to pay to the Corporation assessments as in the case of an insured depository institution during such period. No additions to any such deposits and no new deposits in such depository institution made after the date of such termination shall be insured by the Corporation, and the depository institution shall not advertise or hold itself out as having insured deposits unless in the same connection it shall also state with equal prominence that such additions to deposits and new deposits made after such date are not so insured. Such depository institution shall, in all other respects, be subject to the duties and obligations of an insured depository institution for the period referred to in the 1st sentence from the date of such termination, and in the event that such depository institution shall be closed on account of inability to meet the demands of its depositors within such period, the Corporation shall have the same powers and rights with respect to such depository institution as in case of an insured depository institution.
 
 #### (8) Temporary suspension of insurance
 
@@ -86,7 +86,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(IV) that such association (or its directors or officers) has violated any applicable law, rule, regulation, or order, or any condition imposed in writing by a Federal banking agency, or any written agreement including a capital improvement plan entered into with any Federal banking agency, or that the association has failed to enter into a capital improvement plan which is acceptable to the Corporation within the time period set forth in section 1464(t) of this title.
 
-&emsp;&emsp;&nbsp;Nothing in this paragraph limits the right of the Corporation or the Director of the Office of Thrift Supervision to enforce a contractual provision which authorizes the Corporation or the Director of the Office of Thrift Supervision, as a successor to the Federal Savings and Loan Insurance Corporation or the Federal Home Loan Bank Board, to require a savings association to write down or amortize goodwill at a faster rate than otherwise required under this chapter or under applicable accounting standards.
+&emsp;&emsp;&nbsp;Nothing in this paragraph limits the right of the Corporation or the Comptroller of the Currency to enforce a contractual provision which authorizes the Corporation or the Comptroller of the Currency, as a successor to the Federal Savings and Loan Insurance Corporation or the Federal Home Loan Bank Board, to require a savings association to write down or amortize goodwill at a faster rate than otherwise required under this chapter or under applicable accounting standards.
 
 #### (C) Effective period of temporary order
 
@@ -136,7 +136,7 @@
 
 (2) A cease-and-desist order shall become effective at the expiration of thirty days after the service of such order upon the depository institution or other person concerned (except in the case of a cease-and-desist order issued upon consent, which shall become effective at the time specified therein), and shall remain effective and enforceable as provided therein, except to such extent as it is stayed, modified, terminated, or set aside by action of the agency or a reviewing court.
 
-(3) This subsection, subsections (c) through (s) and subsection (u) of this section, and section 1831aa of this title shall apply to any bank holding company, and to any subsidiary (other than a bank) of a bank holding company, as those terms are defined in the Bank Holding Company Act of 1956 \[12 U.S.C. 1841 et seq.\], and to any organization organized and operated under section 25(a) <sup>2</sup> of the Federal Reserve Act \[12 U.S.C. 611 et seq.\] or operating under section 25 of the Federal Reserve Act \[12 U.S.C. 601 et seq.\], in the same manner as they apply to a State member insured bank. Nothing in this subsection or in subsection (c) of this section shall authorize any Federal banking agency, other than the Board of Governors of the Federal Reserve System, to issue a notice of charges or cease-and-desist order against a bank holding company or any subsidiary thereof (other than a bank or subsidiary of that bank).
+(3) This subsection, subsections (c) through (s) and subsection (u) of this section, and section 1831aa of this title shall apply to any bank holding company, and to any subsidiary (other than a bank) of a bank holding company, as those terms are defined in the Bank Holding Company Act of 1956 \[12 U.S.C. 1841 et seq.\], any savings and loan holding company and any subsidiary (other than a depository institution) of a savings and loan holding company (as such terms are defined in section 1467a of this title)),<sup>2</sup> any noninsured State member bank and to any organization organized and operated under section 25(a) <sup>1</sup> of the Federal Reserve Act \[12 U.S.C. 611 et seq.\] or operating under section 25 of the Federal Reserve Act \[12 U.S.C. 601 et seq.\], in the same manner as they apply to a State member insured bank. Nothing in this subsection or in subsection (c) of this section shall authorize any Federal banking agency, other than the Board of Governors of the Federal Reserve System, to issue a notice of charges or cease-and-desist order against a bank holding company or any subsidiary thereof (other than a bank or subsidiary of that bank) or against a savings and loan holding company or any subsidiary thereof (other than a depository institution or a subsidiary of such depository institution).
 
 (4) This subsection, subsections (c) through (s) and subsection (u) of this section, and section 1831aa of this title shall apply to any foreign bank or company to which subsection (a) of section 3106 of this title applies and to any subsidiary (other than a bank) of any such foreign bank or company in the same manner as they apply to a bank holding company and any subsidiary thereof (other than a bank) under paragraph (3) of this subsection. For the purposes of this paragraph, the term “subsidiary” shall have the meaning assigned to it in section 2 of the Bank Holding Company Act of 1956 \[12 U.S.C. 1841\].
 
@@ -170,9 +170,7 @@ Authority to limit activities.—The authority to issue an order under this subs
 
 Unsatisfactory asset quality, management, earnings, or liquidity as unsafe or unsound practice.—If an insured depository institution receives, in its most recent report of examination, a less-than-satisfactory rating for asset quality, management, earnings, or liquidity, the appropriate Federal banking agency may (if the deficiency is not corrected) deem the institution to be engaging in an unsafe or unsound practice for purposes of this subsection.
 
-(9)
-
-Expansion of authority to savings and loan affiliates and entities.—Subsections (a) through (s) of this section and subsection (u) of this section shall apply to any savings and loan holding company and to any subsidiary (other than a bank or subsidiary of that bank) of a savings and loan holding company,,<sup>3</sup> whether wholly or partly owned, in the same manner as such subsections apply to a savings association.
+(9) \[Repealed\]
 
 (10)
 
@@ -296,7 +294,7 @@ In general.—Whenever the appropriate Federal banking agency determines that—
 
 &emsp;&emsp;(iii) an officer or director of an insured depository institution has committed any violation of the Depository Institution Management Interlocks Act \[12 U.S.C. 3201 et seq.\]; or
 
-&emsp;&emsp;(iv) an institution-affiliated party of a subsidiary (other than a bank) of a bank holding company or of a subsidiary (other than a savings association) of a savings and loanholding company has been convicted of any criminal offense involving dishonesty or a breach of trust or a criminal offense under section 1956, 1957, or 1960 of title 18 or has agreed to enter into a pretrial diversion or similar program in connection with a prosecution for such an offense,
+&emsp;&emsp;(iv) an institution-affiliated party of a subsidiary (other than a bank) of a bank holding company or of a subsidiary (other than a savings association) of a savings and loan holding company has been convicted of any criminal offense involving dishonesty or a breach of trust or a criminal offense under section 1956, 1957, or 1960 of title 18 or hasagreed to enter into a pretrial diversion or similar program in connection with a prosecution for such an offense,
 
 > &emsp;the agency may serve upon such party, officer, or director a written notice of the agency's intention to remove such party from office.
 
@@ -358,17 +356,15 @@ In general.—Except as provided in subparagraph (B), any person who, pursuant t
 
 &emsp;&emsp;(i) any insured depository institution;
 
-&emsp;&emsp;(ii) any institution treated as an insured bank under subsection (b)(3) or (b)(4) of this section, or as a savings association under subsection (b)(9) of this section;
+&emsp;&emsp;(ii) any institution treated as an insured bank under subsection (b)(3) or (b)(4) of this section, or as a savings association under subsection (b)(9) <sup>1</sup> of this section;
 
 &emsp;&emsp;(iii) any insured credit union under the Federal Credit Union Act \[12 U.S.C. 1751 et seq.\];
 
 &emsp;&emsp;(iv) any institution chartered under the Farm Credit Act of 1971 \[12 U.S.C. 2001 et seq.\];
 
-&emsp;&emsp;(v) any appropriate Federal depository institution regulatory agency;
+&emsp;&emsp;(v) any appropriate Federal depository institution regulatory agency; and
 
-&emsp;&emsp;(vi) the Federal Housing Finance Board and any Federal home loan bank; and
-
-&emsp;&emsp;(vii) the Resolution Trust Corporation.
+&emsp;&emsp;(vi) the Federal Housing Finance Agency and any Federal home loan bank.
 
 &emsp;(B)
 
@@ -392,11 +388,9 @@ Violation of paragraph treated as violation of order.—Any violation of subpara
 
 &emsp;&emsp;(ii) the Farm Credit Administration, in the case of an institution chartered under the Farm Credit Act of 1971 \[12 U.S.C. 2001 et seq.\];
 
-&emsp;&emsp;(iii) the National Credit Union Administration Board, in the case of an insured credit union (as defined in section 101(7) of the Federal Credit Union Act \[12 U.S.C. 1752(7)\]);
+&emsp;&emsp;(iii) the National Credit Union Administration Board, in the case of an insured credit union (as defined in section 101(7) of the Federal Credit Union Act \[12 U.S.C. 1752(7)\]); and
 
-&emsp;&emsp;(iv) the Secretary of the Treasury, in the case of the Federal Housing Finance Board and any Federal home loan bank; and
-
-&emsp;&emsp;(v) the Thrift Depositor Protection Oversight Board, in the case of the Resolution Trust Corporation.
+&emsp;&emsp;(iv) the Secretary of the Treasury, in the case of the Federal Housing Finance Agency and any Federal home loan bank.
 
 &emsp;(E)
 
@@ -444,7 +438,7 @@ Removal or prohibition.—
 
 &emsp;&emsp;(i)
 
-In general.—If a judgment of conviction or an agreement to enter a pretrial diversion or other similar program is entered against an institution-affiliated party in connection with a crime described in subparagraph (A)(i), at such time as such judgment is not subject to further appellate review, the appropriate Federal banking agency may, if continued service or participation by such party posed, poses, or may pose a threat to the interests of the depositors of,or threatened, threatens, or may threaten to impair public confidence in, any relevant depository institution (as defined in subparagraph (E)), issue and serve upon such party an order removing such party from office or prohibiting such party from further participation in any manner in the conduct of the affairs of any depository institution without the prior written consent of the appropriate agency.
+In general.—If a judgment of conviction or an agreement to enter a pretrial diversion or other similar program is entered against an institution-affiliated party in connection with a crime described in subparagraph (A)(i), at such time as such judgment is not subject to further appellate review, the appropriate Federal banking agency may, if continued service or participation by such party posed, poses, or may pose a threat to the interests of the depositors of, or threatened, threatens, or may threaten to impair public confidence in, any relevant depository institution (as defined in subparagraph (E)), issue and serve upon such party an order removing such party from office or prohibiting such party from further participation in any manner in the conduct of the affairs of any depository institution withoutthe prior written consent of the appropriate agency.
 
 &emsp;&emsp;(ii)
 
@@ -476,13 +470,13 @@ Relevant depository institution.—For purposes of this subsection, the term “
 
 (2) If at any time, because of the suspension of one or more directors pursuant to this section, there shall be on the board of directors of a national bank less than a quorum of directors not so suspended, all powers and functions vested in or exercisable by such board shall vest in and be exercisable by the director or directors on the board not so suspended, until such time as there shall be a quorum of the board of directors. In the event all of the directors of a national bank are suspended pursuant to this section, the Comptroller of the Currency shall appoint persons to serve temporarily as directors in their place and stead pending the termination of such suspensions, or until such time as those who have been suspended, cease to be directors of the bank and their respective successors take office.
 
-(3) Within thirty days from service of any notice of suspension or order of removal issued pursuant to paragraph (1) of this subsection, the institution-affiliated party concerned may request in writing an opportunity to appear before the agency to show that the continued service to or participation in the conduct of the affairs of the depository institution by such party does not, or is not likely to, pose a threat to the interests of the bank's <sup>4</sup> depositors or threaten to impair public confidence in the depository institution. Upon receipt of any such request, the appropriate Federal banking agency shall fix a time (not more than thirty days after receipt of such request, unless extended at the request of such party) and place at which such party may appear, personally or through counsel, before one or more members of the agency or designated employees of the agency to submit written materials (or, at the discretion of the agency, oral testimony) and oral argument. Within sixty days of such hearing, the agency shall notify such party whether the suspension or prohibition from participation in any manner in the conduct of the affairs of the depository institution will be continued, terminated, or otherwise modified, or whether the order removing such party from office or prohibiting such party from further participation in any manner in the conduct of the affairs of the depository institution will be rescinded or otherwise modified. Such notification shall contain a statement of the basis for the agency's decision, if adverse to such party. The Federal banking agencies are authorized to prescribe such rules as may be necessary to effectuate the purposes of this subsection.
+(3) Within thirty days from service of any notice of suspension or order of removal issued pursuant to paragraph (1) of this subsection, the institution-affiliated party concerned may request in writing an opportunity to appear before the agency to show that the continued service to or participation in the conduct of the affairs of the depository institution by such party does not, or is not likely to, pose a threat to the interests of the bank's <sup>3</sup> depositors or threaten to impair public confidence in the depository institution. Upon receipt of any such request, the appropriate Federal banking agency shall fix a time (not more than thirty days after receipt of such request, unless extended at the request of such party) and place at which such party may appear, personally or through counsel, before one or more members of the agency or designated employees of the agency to submit written materials (or, at the discretion of the agency, oral testimony) and oral argument. Within sixty days of such hearing, the agency shall notify such party whether the suspension or prohibition from participation in any manner in the conduct of the affairs of the depository institution will be continued, terminated, or otherwise modified, or whether the order removing such party from office or prohibiting such party from further participation in any manner in the conduct of the affairs of the depository institution will be rescinded or otherwise modified. Such notification shall contain a statement of the basis for the agency's decision, if adverse to such party. The Federal banking agencies are authorized to prescribe such rules as may be necessary to effectuate the purposes of this subsection.
 
 #### (h) Hearings and judicial review
 
-(1) Any hearing provided for in this section (other than the hearing provided for in subsection (g)(3) of this section) shall be held in the Federal judicial district or in the territory in which the home office of the depository institution is located unless the party afforded the hearing consents to another place, and shall be conducted in accordance with the provisions of chapter 5 of title 5. After such hearing, and within ninety days after the appropriate Federal banking agency or Board of Governors of the Federal Reserve System has notified the parties that the case has been submitted to it for final decision, it shall render its decision (which shall include findings of fact upon which its decision is predicated) and shall issue and serve upon each party to the proceeding an order or orders consistent with the provisions of this section. Judicial review of any such order shall be exclusively as provided in this subsection (h). Unless a petition for review is timely filed in a court of appeals of the United States, as hereinafter provided in paragraph (2) of this subsection, and thereafter until the record in the proceeding has been filed as so provided, the issuing agencymay at any time, upon such notice and in such manner as it shall deem proper, modify, terminate, or set aside any such order. Upon such filing of the record, the agency may modify, terminate, or set aside any such order with permission of the court.
+(1) Any hearing provided for in this section (other than the hearing provided for in subsection (g)(3) of this section) shall be held in the Federal judicial district or in the territory in which the home office of the depository institution is located unless the party afforded the hearing consents to another place, and shall be conducted in accordance with the provisions of chapter 5 of title 5. After such hearing, and within ninety days after the appropriate Federal banking agency or Board of Governors of the Federal Reserve System has notified the parties that the case has been submitted to it for final decision, it shall render its decision (which shall include findings of fact upon which its decision is predicated) and shall issue and serve upon each party to the proceeding an order or orders consistent with the provisions of this section. Judicial review of any such order shall be exclusively as provided in this subsection (h). Unless a petition for review is timely filed in a court of appeals of the United States, as hereinafter provided in paragraph (2) of this subsection, and thereafter until the record in the proceeding has been filed as so provided, the issuing agency may at any time, upon such notice and in such manner as it shall deem proper, modify, terminate, or set aside any such order. Upon such filing of the record, the agency may modify, terminate, or set aside any such order with permission of the court.
 
-(2) Any party to any proceeding under paragraph (1) may obtain a review of any order served pursuant to paragraph (1) of this subsection (other than an order issued with the consent of the depository institution or the institution-affiliated party concerned, or an order issued under paragraph (1) of subsection (g) of this section) by the filing in the court of appeals of the United States for the circuit in which the home office of the depository institution is located, or in the United States Court of Appeals for the District of Columbia Circuit, within thirty days after the date of service of such order, a written petition praying that the order of the agency be modified, terminated, or set aside. A copy of such petition shall be forthwith transmitted by the clerk of the court to the agency, and thereupon the agency shall file in the court the record in the proceeding, as provided in section 2112 of title 28. Upon the filing of such petition, such court shall have jurisdiction, which upon the filing of the record shall except as provided in the last sentence of said paragraph (1) be exclusive, to affirm, modify, terminate, or set aside, in whole or in part, the order of the agency. Review of such proceedings shall be had as provided in chapter 7 of title 5. The judgment and decree of the court shall be final, except that the same shall be subject to review by the Supreme Court upon certiorari, as provided in section 1254 of title 28.
+(2) Any party to any proceeding under paragraph (1) may obtain a review of any orderserved pursuant to paragraph (1) of this subsection (other than an order issued with the consent of the depository institution or the institution-affiliated party concerned, or an order issued under paragraph (1) of subsection (g) of this section) by the filing in the court of appeals of the United States for the circuit in which the home office of the depository institution is located, or in the United States Court of Appeals for the District of Columbia Circuit, within thirty days after the date of service of such order, a written petition praying that the order of the agency be modified, terminated, or set aside. A copy of such petition shall be forthwith transmitted by the clerk of the court to the agency, and thereupon the agency shall file in the court the record in the proceeding, as provided in section 2112 of title 28. Upon the filing of such petition, such court shall have jurisdiction, which upon the filing of the record shall except as provided in the last sentence of said paragraph (1) be exclusive, to affirm, modify, terminate, or set aside, in whole or in part, the order of the agency. Review of such proceedings shall be had as provided in chapter 7 of title 5. The judgment and decree of the court shall be final, except that the same shall be subject to review by the Supreme Court upon certiorari, as provided in section 1254 of title 28.
 
 (3) The commencement of proceedings for judicial review under paragraph (2) of this subsection shall not, unless specifically ordered by the court, operate as a stay of any order issued by the agency.
 
@@ -562,7 +556,7 @@ Assessment.—
 
 &emsp;&emsp;(i)
 
-Written notice.—Any penalty imposed under subparagraph (A), (B), or (C) may beassessed and collected by the appropriate Federal banking agency by written notice.
+Written notice.—Any penalty imposed under subparagraph (A), (B), or (C) may be assessed and collected by the appropriate Federal banking agency by written notice.
 
 &emsp;&emsp;(ii)
 
@@ -642,13 +636,11 @@ Whoever, being subject to an order in effect under subsection (e) or (g) of this
 
 &emsp;(1) any insured depository institution;
 
-&emsp;(2) any institution treated as an insured bank under subsection (b)(3) or (b)(4) of this section, or as a savings association under subsection (b)(9) of this section;
+&emsp;(2) any institution treated as an insured bank under subsection (b)(3) or (b)(4) of this section;
 
-&emsp;(3) any insured credit union (as defined in section 101(7) of the Federal Credit Union Act \[12 U.S.C. 1752(7)\]);
+&emsp;(3) any insured credit union (as defined in section 101(7) of the Federal Credit Union Act \[12 U.S.C. 1752(7)\]); or
 
-&emsp;(4) any institution chartered under the Farm Credit Act of 1971 \[12 U.S.C. 2001 et seq.\]; or
-
-&emsp;(5) the Resolution Trust Corporation,
+&emsp;(4) any institution chartered under the Farm Credit Act of 1971 \[12 U.S.C. 2001 et seq.\],
 
 > shall be fined not more than $1,000,000, imprisoned for not more than 5 years, or both.
 
@@ -656,7 +648,7 @@ Whoever, being subject to an order in effect under subsection (e) or (g) of this
 
 #### (<i>l</i>) Notice of service
 
-Any service required or authorized to be made by the appropriate Federal banking agency under this section may be made by registered mail, or in such other manner reasonably calculated to give actual notice as the agency may by regulation or otherwise provide. Copies of any notice or order served by the agency uponany State depository institution or any institution-affiliated party, pursuant to the provisions of this section, shall also be sent to the appropriate State supervisory authority.
+Any service required or authorized to be made by the appropriate Federal banking agency under this section may be made by registered mail, or in such other manner reasonably calculated to give actual notice as the agency may by regulation or otherwise provide. Copies of any notice or order served by the agency upon any State depository institution or any institution-affiliated party, pursuant to the provisions of this section, shall also be sent to the appropriate State supervisory authority.
 
 #### (m) Notice to State authorities
 
@@ -668,7 +660,7 @@ In the course of or in connection with any proceeding under this section, or in 
 
 #### (<i>o</i>) Termination of membership of State bank in Federal Reserve System
 
-Whenever the insured status of a State member bank shall be terminated by action of the Board of Directors, the Board of Governors of the Federal Reserve System shall terminate its membership in the Federal Reserve System in accordance with the provisions of subchapter VIII of chapter 3 of this title, and whenever the insured status of a national member bank shall be so terminated the Comptroller of the Currency shall appoint a receiver for the bank, which shall be the Corporation. Except as provided in subsection (c) or (d) of section 1814 of this title, whenever a member bank shall cease to be a member of the Federal Reserve System, its status as an insured depository institution shall, without notice or other action by the Board of Directors, terminate on the date the bank shall cease to be a member of the Federal Reserve System, with like effect as if its insured status had been terminated on said date by the Board of Directors after proceedings under subsection (a) of this section. Whenever the insured status of an insured Federal savings bank shall be terminated by action of the Board of Directors, the Director of the Office of Thrift Supervision shall appoint a receiver for the bank, which shall be the Corporation.
+Whenever the insured status of a State member bank shall be terminated by action of the Board of Directors, the Board of Governors of the Federal Reserve System shall terminate its membership in the Federal Reserve System in accordance with the provisions of subchapter VIII of chapter 3 of this title, and whenever the insured status of a national member bank shall be so terminated the Comptroller of the Currency shall appoint a receiver for the bank, which shall be the Corporation. Except as provided in subsection (c) or (d) of section 1814 of this title, whenever a member bank shall cease to be a member of the Federal Reserve System, its status as an insured depository institution shall, without notice or other action by the Board of Directors, terminate on the date the bank shall cease to be a member of the Federal Reserve System, with like effect as if its insured status had been terminated on said date by the Board of Directors after proceedings under subsection (a) of this section. Whenever the insured status of an insured Federal savings bank shall be terminated by action of the Board of Directors, the Comptroller of the Currency shall appoint a receiver for the bank, which shall be the Corporation.
 
 #### (p) Banks not receiving deposits
 
@@ -676,7 +668,7 @@ Notwithstanding any other provision of law, whenever the Board of Directors shal
 
 #### (q) Assumption of liabilities
 
-Whenever the liabilities of an insured depository institution for deposits shall have been assumed by another insured depository institution or depository institutions, whether by way of merger, consolidation, or other statutory assumption, or pursuant to contract (1) the insured status of the depository institution whose liabilities are so assumed shall terminate on the date of receipt by the Corporation of satisfactory evidence of such assumption; (2) the separate insurance of all deposits so assumed shall terminate at the end of six months from the date such assumption takes effect or, in the case of any time deposit, the earliest maturity date after the six-month period. Where the deposits of an insured depository institution are assumed by a newly insured depository institution, the depository institution whose deposits are assumed shall not be required to pay any assessment with respect to the deposits which have been so assumed after the assessment period in which the assumption takes effect.
+Whenever the liabilities of an insured depository institution for deposits shall have been assumed by another insured depository institution or depository institutions, whether by way of merger, consolidation, or other statutory assumption, or pursuant to contract (1) the insured status of the depository institution whose liabilities are so assumed shall terminate on the date of receipt by the Corporation of satisfactory evidence of such assumption; (2) the separate insurance of all deposits so assumed shall terminate at the end of six months from the date such assumption takes effect or, in the case of any time deposit, the earliest maturity dateafter the six-month period. Where the deposits of an insured depository institution are assumed by a newly insured depository institution, the depository institution whose deposits are assumed shall not be required to pay any assessment with respect to the deposits which have been so assumed after the assessment period in which the assumption takes effect.
 
 #### (r) Action or proceeding against foreign bank; basis; removal of officer or other person; venue; service of process
 
@@ -724,7 +716,7 @@ Whenever the liabilities of an insured depository institution for deposits shall
 
 #### (1) Recommending action by appropriate Federal banking agency
 
-&emsp;The Corporation, based on an examination of an insured depository institution by the Corporation or by the appropriate Federal banking agency or on other information, may recommend in writing to the appropriate Federal banking agency that the agency take any enforcement action authorized under section 1817(j) of this title, this section, or section 1828(j) of this title with respect to any insured depository institution or any institution-affiliated party. The recommendation shall be accompanied by a written explanation of the concerns giving rise to the recommendation.
+&emsp;The Corporation, based on an examination of an insured depository institution by the Corporation or by the appropriate Federal banking agency or on other information, may recommend in writing to the appropriate Federal banking agency that the agency take any enforcement action authorized under section 1817(j) of this title, this section, or section 1828(j) of this title with respect to any insured depository institution, any depository institution holding company, or any institution-affiliated party. The recommendation shall be accompanied by a written explanation of the concerns giving rise to the recommendation.
 
 #### (2) FDIC's authority to act if appropriate Federal banking agency fails to follow recommendation
 
@@ -732,9 +724,11 @@ Whenever the liabilities of an insured depository institution for deposits shall
 
 &emsp;&emsp;(A) the insured depository institution is in an unsafe or unsound condition;
 
-&emsp;&emsp;(B) the institution or institution-affiliated party is engaging in unsafe or unsound practices, and the recommended enforcement action will prevent the institution or institution-affiliated party from continuing such practices; or
+&emsp;&emsp;(B) the institution or institution-affiliated party is engaging in unsafe or unsound practices, and the recommended enforcement action will prevent the institution or institution-affiliated party from continuing such practices;
 
-&emsp;&emsp;(C) the conduct or threatened conduct (including any acts or omissions) poses a risk to the Deposit Insurance Fund, or may prejudice the interests of the institution's depositors.
+&emsp;&emsp;(C) the conduct or threatened conduct (including any acts or omissions) poses a risk to the Deposit Insurance Fund, or may prejudice the interests of the institution's depositors or <sup>4</sup>
+
+&emsp;&emsp;(D) the conduct or threatened conduct (including any acts or omissions) of the depository institution holding company poses a risk to the Deposit Insurance Fund, provided that such authority may not be used with respect to a depository institution holding company that is in generally sound condition and whose conduct does not pose a foreseeable and material risk of loss to the Deposit Insurance Fund; <sup>5</sup>
 
 #### (3) Effect of exigent circumstances
 
@@ -764,6 +758,18 @@ Whenever the liabilities of an insured depository institution for deposits shall
 
 &emsp;&emsp;Each appropriate Federal banking agency shall report semiannually to the Corporation on the status or disposition of all requests under subparagraph (A), including the reasons for any decision by the agency to approve or deny such requests.
 
+#### (6) <sup>6</sup> Powers and duties with respect to depository institution holding companies
+
+&emsp;For purposes of exercising the backup authority provided in this subsection—
+
+&emsp;&emsp;(A) the Corporation shall have the same powers with respect to a depository institution holding company and its affiliates as the appropriate Federal banking agency has with respect to the holding company and its affiliates; and
+
+&emsp;&emsp;(B) the holding company and its affiliates shall have the same duties and obligations with respect to the Corporation as the holding company and its affiliates have with respect to the appropriate Federal banking agency.
+
+#### (6) <sup>6</sup> Referral to Bureau of Consumer Financial Protection
+
+&emsp;Subject to subtitle B of the Consumer Financial Protection Act of 2010 \[12 U.S.C. 5511 et seq.\], each appropriate Federal banking agency shall make a referral to the Bureau of Consumer Financial Protection when the Federal banking agency has a reasonable belief that a violation of an enumerated consumer law, as defined in the Consumer Financial Protection Act of 2010, has been committed by any insured depository institution or institution-affiliated party within the jurisdiction of that appropriate Federal banking agency.
+
 #### (u) Public disclosures of final orders and agreements
 
 #### (1) In general
@@ -778,7 +784,7 @@ Whenever the liabilities of an insured depository institution for deposits shall
 
 #### (2) Hearings
 
-&emsp;All hearings on the record with respect to any notice of charges issued by a Federal banking agency shall be open to the public, unless the agency, in its discretion, determines that holding an open hearing would be contrary to the public interest.
+&emsp;All hearings on the record with respect to any notice of charges issued by a Federalbanking agency shall be open to the public, unless the agency, in its discretion, determines that holding an open hearing would be contrary to the public interest.
 
 #### (3) Transcript of hearing
 
@@ -848,7 +854,7 @@ Whenever the liabilities of an insured depository institution for deposits shall
 
 #### (ii) Notice of termination; pretermination hearing
 
-&emsp;&emsp;&emsp;After receipt of written notification from the Attorney General by the Corporation of such a conviction, the Board of Directors shall issue to the insured depository institution a notice of its intention to terminate the insured status of the insured depository institution and schedule a hearing on the matter, which shall be conducted in all respects as a termination hearing pursuant to paragraphs (3) through (5) of subsection (a) of this section.
+&emsp;&emsp;&emsp;After receipt of written notification from the Attorney General by the Corporation of such a conviction, the Board of Directors shall issue to the insured depository institution a notice of its intention to terminate the insured status of the insured depository institution and schedule a hearing on the matter, which shall be conducted in all respects as a termination hearing pursuant to paragraphs (3)through (5) of subsection (a) of this section.
 
 #### (B) Conviction of title 31 offenses
 
@@ -876,7 +882,7 @@ Whenever the liabilities of an insured depository institution for deposits shall
 
 &emsp;When the order to terminate insured status initiated pursuant to this subsection is final, the Board of Directors shall—
 
-&emsp;&emsp;(A) notify the State banking supervisor of any State depository institution described in paragraph (1) and the Office of Thrift Supervision, where appropriate, at least 10 days prior to the effective date of the order of termination of the insured status of such depository institution, including a State branch of a foreign bank; and
+&emsp;&emsp;(A) notify the State banking supervisor of any State depository institution described in paragraph (1), where appropriate, at least 10 days prior to the effective date of the order of termination of the insured status of such depository institution, including a State branch of a foreign bank; and
 
 &emsp;&emsp;(B) publish notice of the termination of the insured status of the depository institution in the Federal Register.
 
@@ -892,25 +898,29 @@ Whenever the liabilities of an insured depository institution for deposits shall
 
 &emsp;The term “senior executive officer” has the same meaning as in regulations prescribed under section 1831i(f) of this title.
 
-(Sept. 21, 1950, ch. 967, §2\[8\], 64 Stat. 879; Pub. L. 89–695, title II, §§202, 204, Oct. 16, 1966, 80 Stat. 1046, 1054; Pub. L. 93–495, title I, §110, Oct. 28, 1974, 88 Stat. 1506; Pub. L. 95–369, §§6(c)(14), (15), 11, Sept. 17, 1978, 92 Stat. 618, 624; Pub. L. 95–630, title I, §§107(a)(1), (b), (c)(1), (d)(1), (e)(1), 111(a), title II, §208(a), title III, §§303, 304, Nov. 10, 1978, 92 Stat. 3649, 3653, 3654, 3656, 3660, 3665, 3674, 3676; Pub. L. 97–320, title I, §113(g), (h), title IV, §§404(c), 424(c), (d)(6), (e), 425(b), (c), 427(d), 433(a), Oct. 15, 1982, 96 Stat. 1473, 1474, 1512, 1523–1527; Pub. L. 99–570, title I, §1359(a), Oct. 27, 1986, 100 Stat. 3207–27; Pub. L. 101–73, title II, §201, title IX, §§901(b)(1), (d), 902(a), 903(a), 904(a), 905(a), 906(a), 907(a), 908(a), 912, 913(a), 920(a), (c), 926, Aug. 9, 1989, 103 Stat. 187, 446, 450, 453, 457, 459, 462, 477, 482, 483, 488; Pub. L. 101–647, title XXV, §§2521(b)(1), 2532(a), 2547(a)(1), (2), 2596(a), (b), Nov. 29, 1990, 104 Stat. 4864, 4880, 4886, 4887, 4908; Pub. L. 102–233, title III, §302(a), Dec. 12, 1991, 105 Stat. 1767; Pub. L. 102–242, title I, §131(c)(1), (2), title III, §§302(e)(5), formerly (e)(4), 307, Dec. 19, 1991, 105 Stat. 2266, 2349, 2360; Pub. L. 102–550, title XV, §§1503(a), 1504(a), title XVI, §§1603(d)(2)–(4), 1605(a)(5)(A), (11), Oct. 28, 1992, 106 Stat. 4048, 4051, 4080, 4085, 4086; Pub. L. 102–558, title III, §§303(b)(6)(A), 305, Oct. 28, 1992, 106 Stat. 4225, 4226; Pub. L. 103–204, §25, Dec. 17, 1993, 107 Stat. 2408; Pub. L. 103–325, title IV, §411(c)(2)(A), title VI, §602(a)(11)–(18), Sept. 23, 1994, 108 Stat. 2253, 2289; Pub. L. 105–164, §3(a)(2), Mar. 20, 1998, 112 Stat. 35; Pub. L. 105–362, title X, §1001(d), Nov. 10, 1998, 112 Stat. 3291; Pub. L. 106–569, title XII, §1232, Dec. 27, 2000, 114 Stat. 3037; Pub. L. 109–173, §§3(a)(6), (7), 8(a)(10), Feb. 15, 2006, 119 Stat. 3605, 3611; Pub. L. 109–351, title III, §303, title VII, §§702(c), 708(a), 710(b), 715(a), 716(a), 717, Oct. 13, 2006, 120 Stat. 1970, 1985, 1988, 1991, 1995, 1996; Pub. L. 110–343, div. A, title I, §126(b), Oct. 3, 2008, 122 Stat. 3795.)
+(Sept. 21, 1950, ch. 967, §2\[8\], 64 Stat. 879; Pub. L. 89–695, title II, §§202, 204, Oct. 16, 1966, 80 Stat. 1046, 1054; Pub. L. 93–495, title I, §110, Oct. 28, 1974, 88 Stat. 1506; Pub. L. 95–369, §§6(c)(14), (15), 11, Sept. 17, 1978, 92 Stat. 618, 624; Pub. L. 95–630, title I, §§107(a)(1), (b), (c)(1), (d)(1), (e)(1), 111(a), title II, §208(a), title III, §§303, 304, Nov. 10, 1978, 92 Stat. 3649, 3653, 3654, 3656, 3660, 3665, 3674, 3676; Pub. L. 97–320, title I, §113(g), (h), title IV, §§404(c), 424(c), (d)(6), (e), 425(b), (c), 427(d), 433(a), Oct. 15, 1982, 96 Stat. 1473, 1474, 1512, 1523–1527; Pub. L. 99–570, title I, §1359(a), Oct. 27, 1986, 100 Stat. 3207–27; Pub. L. 101–73, title II, §201, title IX, §§901(b)(1), (d), 902(a), 903(a), 904(a), 905(a), 906(a), 907(a), 908(a), 912, 913(a), 920(a), (c), 926, Aug. 9, 1989, 103 Stat. 187, 446, 450, 453, 457, 459, 462, 477, 482, 483, 488; Pub. L. 101–647, title XXV, §§2521(b)(1), 2532(a), 2547(a)(1), (2), 2596(a), (b), Nov. 29, 1990, 104 Stat. 4864, 4880, 4886, 4887, 4908; Pub. L. 102–233, title III, §302(a), Dec. 12, 1991, 105 Stat. 1767; Pub. L. 102–242, title I, §131(c)(1), (2), title III, §§302(e)(5), formerly (e)(4), 307, Dec. 19, 1991, 105 Stat. 2266, 2349, 2360; Pub. L. 102–550, title XV, §§1503(a), 1504(a), title XVI, §§1603(d)(2)–(4), 1605(a)(5)(A), (11), Oct. 28, 1992, 106 Stat. 4048, 4051, 4080, 4085, 4086; Pub. L. 102–558, title III, §§303(b)(6)(A), 305, Oct. 28, 1992, 106 Stat. 4225, 4226; Pub. L. 103–204, §25, Dec. 17, 1993, 107 Stat. 2408; Pub. L. 103–325, title IV, §411(c)(2)(A), title VI, §602(a)(11)–(18), Sept. 23, 1994, 108 Stat. 2253, 2289; Pub. L. 105–164, §3(a)(2), Mar. 20, 1998, 112 Stat. 35; Pub. L. 105–362, title X, §1001(d), Nov. 10, 1998, 112 Stat. 3291; Pub. L. 106–569, title XII, §1232, Dec. 27, 2000, 114 Stat. 3037; Pub. L. 109–173, §§3(a)(6), (7), 8(a)(10), Feb. 15, 2006, 119 Stat. 3605, 3611; Pub. L. 109–351, title III, §303, title VII, §§702(c), 708(a), 710(b), 715(a), 716(a), 717, Oct. 13, 2006, 120 Stat. 1970, 1985, 1988, 1991, 1995, 1996; Pub. L. 110–343, div. A, title I, §126(b), Oct. 3, 2008, 122 Stat. 3795; Pub. L. 111–203, title I, §172(b), title III, §363(3), title X, §1090(1), July 21, 2010, 124 Stat. 1439, 1551, 2093.)
 
 #### References in Text
 
 Subsections (a) and (b) of section 3104 of this title, referred to in subsec. (a)(1)(E), were redesignated subsections (b) and (c), respectively, of section 3104 of this title by Pub. L. 103–328, title I, §107(a)(1), Sept. 29, 1994, 108 Stat. 2358.
 
-The Bank Holding Company Act of 1956, referred to in subsec. (b)(3), is act May 9, 1956, ch. 240, 70 Stat. 133, as amended, which is classified principally to chapter 17 (§1841 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1841 of this title and Tables.
+The Bank Holding Company Act of 1956, referred to in subsec. (b)(3), is act May 9, 1956, ch. 240, 70 Stat. 133, which is classified principally to chapter 17 (§1841 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1841 of this title and Tables.
 
-Section 25(a) of the Federal Reserve Act, referred to in subsec. (b)(3), which is classified to subchapter II (§611 et seq.) of chapter 6 of this title, was renumbered section 25A of that Act by Pub. L. 102–242, title I, §142(e)(2), Dec. 19, 1991, 105 Stat. 2281. Section 25 of the Federal Reserve Act is classified to subchapter I (§601 et seq.) of chapter 6 of this title.
+Section 25(a) of the Federal Reserve Act, referred to in subsec. (b)(3), which is classified to subchapter II\(§611 et seq.) of chapter 6 of this title, was renumbered section 25A of that Act by Pub. L. 102–242, title I, §142(e)(2), Dec. 19, 1991, 105 Stat. 2281. Section 25 of the Federal Reserve Act is classified to subchapter I (§601 et seq.) of chapter 6 of this title.
 
 The Federal Rules of Civil Procedure, referred to in subsecs. (b)(10) and (i)(4)(B), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-The Depository Institution Management Interlocks Act, referred to in subsec. (e)(2)(A)(iii), is title II of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3672, as amended, which is classified principally to chapter 33 (§3201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3201 of this title and Tables.
+The Depository Institution Management Interlocks Act, referred to in subsec. (e)(2)(A)(iii), is title II of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3672, which is classified principally to chapter 33 (§3201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3201 of this title and Tables.
 
-The Federal Credit Union Act, referred to in subsec. (e)(7)(A)(iii), is act June 26, 1934, ch. 750, 48 Stat. 1216, as amended, which is classified generally to chapter 14 (§1751 et seq.) of this title. For complete classification of this Act to the Code, see section 1751 of this title and Tables.
+Subsection (b)(9) of this section, referred to in subsec. (e)(7)(A)(ii), was repealed by Pub. L. 111–203, §363(3)(C). See 2010 Amendment note below.
 
-The Farm Credit Act of 1971, referred to in subsecs. (e)(7)(A)(iv), (D)(ii) and (j)(4), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, as amended, which is classified generally to chapter 23 (§2001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of this title and Tables.
+The Federal Credit Union Act, referred to in subsec. (e)(7)(A)(iii), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified generally to chapter 14 (§1751 et seq.) of this title. For complete classification of this Act to the Code, see section 1751 of this title and Tables.
 
-Subchapter VIII of chapter 3 of this title, referred to in subsec. (<i>o</i>), was in the original “section 9 of the Federal Reserve Act”, meaning section 9 of act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, which is classified generally to subchapter VIII (§321 et seq.) of chapter 3 of this title.
+The Farm Credit Act of 1971, referred to in subsecs. (e)(7)(A)(iv), (D)(ii) and (j)(4), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, which is classified generally to chapter 23 (§2001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of this title and Tables.
+
+Subchapter VIII of chapter 3 of this title, referred to in subsec. (<i>o</i>), was in the original “section 9 of the Federal Reserve Act”, meaning section 9 of act Dec. 23, 1913, ch. 6, 38 Stat. 251, which is classified generally to subchapter VIII (§321 et seq.) of chapter 3 of this title.
+
+The Consumer Financial Protection Act of 2010, referred to in subsec. (t)(6), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, which enacted subchapter V (§5481 et seq.) of chapter 53 of this title and enacted, amended, and repealed numerous other sections and notes in the Code. Subtitle B of the Act is classified generally to part B (§5511 et seq.) of subchapter V of chapter 53 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 #### Prior Provisions
 
@@ -918,9 +928,35 @@ Section is derived from subsec. (i) of former section 264 of this title. See Cod
 
 #### Amendments
 
-2008—Subsec. (c)(4). Pub. L. 110–343 added par. (4).
+<b>2010</b>—Subsec. (a)(8)(B)(ii). Pub. L. 111–203, §363(3)(A), substituted “Comptroller of the Currency” for “Director of the Office of Thrift Supervision” in two places in concluding provisions.
 
-2006—Subsec. (b)(1). Pub. L. 109–351, §§716(a)(1), 717(1), in first sentence, substituted “in writing by a Federal banking agency” for “in writing by the agency”, “any action on any application, notice, or other request by the depository institution or institution-affiliated party,” for “the granting of any application or other request by the depository institution”, and “the appropriate Federal banking agency for the depository institution may issue and serve” for “the agency may issue and serve”.
+Subsec. (b)(3). Pub. L. 111–203, §363(3)(B), inserted “any savings and loan holding company and any subsidiary (other than a depository institution) of a savings and loan holding company (as such terms are defined in section 1467a of this title)), any noninsured State member bank” before “and to any organization” and “or against a savings and loan holding company or any subsidiary thereof (other than a depository institution or a subsidiary of such depository institution)” before the period at the end.
+
+Subsec. (b)(9). Pub. L. 111–203, §363(3)(C), substituted “\[Repealed\]” for heading and text. Text read as follows: “Subsections (a) through (s) of this section and subsection (u) of this section shall apply to any savings and loan holding company and to any subsidiary (other than a bank or subsidiary of that bank) of a savings and loan holding company,, \[sic\] whether wholly or partly owned, in the same manner as such subsections apply to a savings association.”
+
+Subsec. (e)(7)(A)(v) to (vii). Pub. L. 111–203, §363(3)(D)(i), inserted “and” after the semicolon in cl. (v), substituted “Agency” for “Board” and a period at the end for “; and” in cl. (vi), and struck out cl. (vii) which read as follows: “the Resolution Trust Corporation.”
+
+Subsec. (e)(7)(D)(iii) to (v). Pub. L. 111–203, §363(3)(D)(ii), inserted “and” after the semicolon in cl. (iii), substituted “Agency” for “Board” and a period at the end for “; and” in cl. (iv), and struck out cl. (v) which read as follows: “the Thrift Depositor Protection Oversight Board, in the case of the Resolution Trust Corporation.”
+
+Subsec. (j)(2). Pub. L. 111–203, §363(3)(E)(i), which directed striking out “, or as a savings association under subsection (b)(9) of this section”, was executed by striking out “, or as a savings association under subsection (b)(9)” before the semicolon at the end, to reflect the probable intent of Congress, because original text did not include the phrase “of this section”.
+
+Subsec. (j)(3) to (5). Pub. L. 111–203, §363(3)(E)(ii)–(iv), inserted “or” after the semicolon in par. (3), substituted a comma at the end for “; or” in par. (4), and struck out par. (5) which read as follows: “the Resolution Trust Corporation,”.
+
+Subsec. (<i>o</i>). Pub. L. 111–203, §363(3)(F), substituted “Directors, the Comptroller of the Currency” for “Directors, the Director of the Office of Thrift Supervision”.
+
+Subsec. (t)(1). Pub. L. 111–203, §172(b)(1), inserted “, any depository institution holding company,” before “or any institution-affiliated party”.
+
+Subsec. (t)(2)(D). Pub. L. 111–203, §172(b)(2), added subpar. (D).
+
+Subsec. (t)(6). Pub. L. 111–203, §1090(1), added par. (6) relating to referral to Bureau of Consumer Financial Protection.
+
+Pub. L. 111–203, §172(b)(3), added par. (6) relating to powers and duties with respect to depository institution holding companies.
+
+Subsec. (w)(3)(A). Pub. L. 111–203, §363(3)(G), struck out “and the Office of Thrift Supervision” after “paragraph (1)”.
+
+<b>2008</b>—Subsec. (c)(4). Pub. L. 110–343 added par. (4).
+
+<b>2006</b>—Subsec. (b)(1). Pub. L. 109–351, §§716(a)(1), 717(1), in first sentence, substituted “in writing by a Federal banking agency” for “in writing by the agency”, “any action on any application, notice, or other request by the depository institution or institution-affiliated party,” for “the granting of any application or other request by the depository institution”, and “the appropriate Federal banking agency for the depository institution may issue and serve” for “the agency may issue and serve”.
 
 Subsec. (b)(3). Pub. L. 109–351, §702(c)(1), substituted “This subsection, subsections (c) through (s) and subsection (u) of this section, and section 1831aa of this title” for “This subsection and subsections (c) through (s) and subsection (u) of this section”.
 
@@ -932,7 +968,7 @@ Subsec. (e)(1)(A)(i)(III). Pub. L. 109–351, §§716(a)(2), 717(2)(A), substitu
 
 Subsec. (e)(2)(A)(iv). Pub. L. 109–351, §710(b), added cl. (iv).
 
-Subsec. (e)(4). Pub. L. 109–351, §303, struck out “In any action brought under this section by the Comptroller of the Currency in respect to any such party with respect to a national banking association or a District depository institution, the findings and conclusions of the Administrative Law Judge shall be certified to the Board of Governors of the Federal Reserve System for the determination of whether any order shall issue.” before “Any such order shall become effective”.
+Subsec. (e)(4). Pub. L. 109–351, §303, struck out “In any action brought under this section by the Comptroller of the Currency in respect to any such party with respect to a national banking association or a District depository institution, the findings and conclusions of the Administrative Law Judge shall be certified to the Board of Governors of the Federal Reserve System forthe determination of whether any order shall issue.” before “Any such order shall become effective”.
 
 Subsec. (g). Pub. L. 109–351, §708(a)(2), inserted heading.
 
@@ -958,9 +994,9 @@ Subsec. (q). Pub. L. 109–173, §3(a)(7), substituted “assessment period” f
 
 Subsec. (t)(2)(C). Pub. L. 109–173, §8(a)(10), substituted “Deposit Insurance Fund” for “deposit insurance fund”.
 
-2000—Subsec. (<i>o</i>). Pub. L. 106–569 substituted “subsection (c) or (d) of section 1814” for “subsection (d) of section 1814”.
+<b>2000</b>—Subsec. (<i>o</i>). Pub. L. 106–569 substituted “subsection (c) or (d) of section 1814” for “subsection (d) of section 1814”.
 
-1998—Subsec. (b)(9). Pub. L. 105–164, §3(a)(2)(A), struck out “to any service corporation of a savings association and to any subsidiary of such service corporation” after “of a savings and loan holding company,”.
+<b>1998</b>—Subsec. (b)(9). Pub. L. 105–164, §3(a)(2)(A), struck out “to any service corporation of a savings association and to any subsidiary of such service corporation” after “of a savings and loan holding company,”.
 
 Subsec. (e)(7)(A)(ii). Pub. L. 105–164, §3(a)(2)(B), substituted “(b)(9)” for “(b)(8)”.
 
@@ -968,7 +1004,7 @@ Subsec. (j)(2). Pub. L. 105–164, §3(a)(2)(C), substituted “(b)(9)” for �
 
 Subsec. (u)(3) to (8). Pub. L. 105–362 redesignated pars. (4) to (8) as (3) to (7), respectively, and struck out heading and text of former par. (3). Text read as follows: “A written report shall be made part of a determination not to hold a public hearing pursuant to paragraph (2) or not to publish a document pursuant to paragraph (1)(A). At the end of each calendar quarter, all such reports shall be transmitted to the Congress.”
 
-1994—Subsec. (a)(3). Pub. L. 103–325, §602(a)(11), substituted “paragraph (2)(B)” for “subparagraph (B) of this subsection”.
+<b>1994</b>—Subsec. (a)(3). Pub. L. 103–325, §602(a)(11), substituted “paragraph (2)(B)” for “subparagraph (B) of this subsection”.
 
 Subsec. (a)(7). Pub. L. 103–325, §602(a)(12), inserted comma after “Board of Directors” in first sentence and substituted “the period” for “the period the period” in third sentence.
 
@@ -988,11 +1024,11 @@ Subsec. (r)(2). Pub. L. 103–325, §602(a)(18), substituted “agent thereof”
 
 Subsec. (w)(1)(B). Pub. L. 103–325, §411(c)(2)(A), substituted “section 5322 or 5324 of title 31” for “section 5322 of title 31”.
 
-1993—Subsec. (b)(10). Pub. L. 103–204, §25(2), added par. (10).
+<b>1993</b>—Subsec. (b)(10). Pub. L. 103–204, §25(2), added par. (10).
 
 Subsec. (i)(4)(B). Pub. L. 103–204, §25(1), added subpar. (B) and struck out former subpar. (B) which read as follows: “A permanent or temporary injunction or restraining order shall be granted without bond upon a prima facie showing that money damages, restitution, or civil money penalties, as sought by such agency, is appropriate.”
 
-1992—Subsec. (a)(3). Pub. L. 102–550, §1503(a)(2), inserted “of this subsection or subsection (w) of this section” after “subparagraph (B)”.
+<b>1992</b>—Subsec. (a)(3). Pub. L. 102–550, §1503(a)(2), inserted “of this subsection or subsection (w) of this section” after “subparagraph (B)”.
 
 Subsec. (e)(2). Pub. L. 102–550, §1504(a)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Whenever, in the opinion of the appropriate Federal banking agency, any director or officer of an insured depository institution has committed any violation of the Depository Institution Management Interlocks Act, the agency may serve upon such director or officer a written notice of its intention to remove him from office.”
 
@@ -1014,7 +1050,7 @@ Subsec. (t)(5)(A). Pub. L. 102–550, §1605(a)(11)(C), inserted “or instituti
 
 Subsec. (w). Pub. L. 102–550, §1503(a)(1), added subsec. (w).
 
-1991—Subsec. (b)(8), (9). Pub. L. 102–242, §131(c)(1), added par. (8) and redesignated former par. (8) as (9).
+<b>1991</b>—Subsec. (b)(8), (9). Pub. L. 102–242, §131(c)(1), added par. (8) and redesignated former par. (8) as (9).
 
 Subsec. (i)(1). Pub. L. 102–242, §131(c)(2)(A), as amended by Pub. L. 102–550, §1603(d)(2), inserted “or under section 1831<i>o</i> of this title” after first and second references to “section”.
 
@@ -1024,7 +1060,7 @@ Subsec. (q). Pub. L. 102–242, §302(e)(5), as renumbered by Pub. L. 102–558,
 
 Subsec. (t). Pub. L. 102–242, §307, amended subsec. (t) generally, substituting present provisions for provisions relating to authority of Board to take enforcement action against savings associations.
 
-1990—Subsec. (b)(4). Pub. L. 101–647, §2596(a)(2), substituted “subsections (c) through (s) and subsection (u) of this section” for “subsections (c), (d), (h), (i), (k), (<i>l</i>), (m), and (n) of this section”.
+<b>1990</b>—Subsec. (b)(4). Pub. L. 101–647, §2596(a)(2), substituted “subsections (c) through (s) and subsection (u) of this section” for “subsections (c), (d), (h), (i), (k), (<i>l</i>), (m), and (n) of this section”.
 
 Subsec. (b)(6). Pub. L. 101–647, §2596(a)(1), inserted “or remedy” after “to correct”.
 
@@ -1050,7 +1086,7 @@ Delay of publication under exceptional circumstances.—If the appropriate Feder
 
 Subsec. (v). Pub. L. 101–647, §2532(a), added subsec. (v).
 
-1989—Pub. L. 101–73, §201(a), substituted references to insured depository institutions for references to insured banks wherever appearing in this section.
+<b>1989</b>—Pub. L. 101–73, §201(a), substituted references to insured depository institutions for references to insured banks wherever appearing in this section.
 
 Subsec. (a). Pub. L. 101–73, §926(1), inserted heading.
 
@@ -1182,11 +1218,11 @@ Subsec. (t). Pub. L. 101–73, §912, added subsec. (t).
 
 Subsec. (u). Pub. L. 101–73, §913(a), added subsec. (u).
 
-1986—Subsec. (i)(2)(i). Pub. L. 99–570, §1359(a)(2), inserted reference to subsec. (s) of this section.
+<b>1986</b>—Subsec. (i)(2)(i). Pub. L. 99–570, §1359(a)(2), inserted reference to subsec. (s) of this section.
 
 Subsec. (s). Pub. L. 99–570, §1359(a)(1), added subsec. (s).
 
-1982—Subsec. (a). Pub. L. 97–320, §113(g), inserted “to the Federal Home Loan Bank Board in the case of an insured Federal savings bank,” after “national bank or a district bank,” and “or the Federal Home Loan Bank Board in the case of an insured Federal savings bank,” after “Currency in the case of a national bank,”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–320, §113(g), inserted “to the Federal Home Loan Bank Board in the case of an insured Federal savings bank,” after “national bank or a district bank,” and “or the Federal Home Loan Bank Board in the case of an insured Federal savings bank,” after “Currency in the case of a national bank,”.
 
 Subsec. (b)(3). Pub. L. 97–320, §425(b), substituted “25(a)” for “25A”.
 
@@ -1214,7 +1250,7 @@ Subsec. (<i>o</i>). Pub. L. 97–320, §113(h), inserted provision that whenever
 
 Subsec. (q). Pub. L. 97–320, §433(a), struck out item (3) provisions requiring the assuming or resulting bank to give notice of an assumption to each of the depositors of the bank whose liabilities are assumed within thirty days after such assumption takes effect.
 
-1978—Subsec. (a). Pub. L. 95–369, §6(c)(14), inserted “a foreign bank having an insured branch which is a Federal branch, a foreign bank having an insured branch which is required to be insured under section 3104(a) or (b) of this title” after “(except a national member bank”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–369, §6(c)(14), inserted “a foreign bank having an insured branch which is a Federal branch, a foreign bank having an insured branch which is required to be insured under section 3104(a) or (b) of this title” after “(except a national member bank”.
 
 Subsec. (b)(1), (2). Pub. L. 95–630, §107(a)(1), extended coverage of par. (1) to include directors, officers, employees, agents, or other persons participating in the conduct of the affairs of an insured bank or a bank which has insured deposits, and reenacted par. (2) without change.
 
@@ -1244,15 +1280,23 @@ Subsec. (q). Pub. L. 95–630, §304, among other changes, substituted provision
 
 Subsec. (r). Pub. L. 95–369, §6(c)(15), added subsec. (r).
 
-1974—Subsec. (b)(3). Pub. L. 93–495 added par. (3).
+<b>1974</b>—Subsec. (b)(3). Pub. L. 93–495 added par. (3).
 
-1966—Subsec. (a). Pub. L. 89–695, §204, enlarged the authority of the Corporation to institute involuntary termination proceedings against an insured bank which had engaged in or whose directors or trustees had engaged in, rather than merely continued unsafe or unsound practices, or was in an unsafe or unsound condition to continue operations as an insured bank, or had violated any law, rule, regulation or order, or any condition imposed in writing by the Corporation or any written agreement entered into with the Corporation; made it clear that the Corporation would be required to give the State authority a copy of the statement dealing the practices or violations where the State bank involved was a State member bank; provided for an alternative and shortened correction period of not less than twenty days in those cases where the Board of Directors of the Corporation on its discretion determined that the insurance risk of the Corporation was unduly jeopardized; provided the State authority with power to shorten the correction period in those cases involving State banks whether member or nonmember banks; transposed the position of the fourth and fifth sentences; and provided a bank whose insured status had been terminated with right of judicial review to the extent provided in subsec. (h) of this section.
+<b>1966</b>—Subsec. (a). Pub. L. 89–695, §204, enlarged the authority of the Corporation to institute involuntary termination proceedings against an insured bank which had engaged in or whose directors or trustees had engaged in, rather than merely continued unsafe or unsound practices, or was in an unsafe or unsound condition to continue operations as an insured bank, or had violated any law, rule, regulation or order, or any condition imposed in writing by the Corporation or any written agreement entered into with the Corporation; made it clear that the Corporation would be required to give the State authority a copy of the statement dealing the practices or violations where the State bank involved was a State member bank; provided for an alternative and shortened correction period of not less than twenty days in those cases where the Board of Directors of the Corporation on its discretion determined that the insurance risk of the Corporation was unduly jeopardized; provided the State authority with power to shorten the correction period in those cases involving State banks whether member or nonmember banks; transposed the position of the fourth and fifth sentences; and provided a bank whose insured status had been terminated with right of judicial review to the extent provided in subsec. (h) of this section.
 
 Subsecs. (b) to (q). Pub. L. 89–695, §202, added subsecs. (b) to (n) and redesignated former subsecs. (b) to (d) as (<i>o</i>) to (q), respectively.
 
 #### Change of Name
 
-Oversight Board redesignated Thrift Depositor Protection Oversight Board, effective Feb. 1, 1992, see section 302(a) of Pub. L. 102–233, set out as a note under section 1441a of this title. Thrift Depositor Protection Oversight Board abolished, see section 14(a)–(d) of Pub. L. 105–216, set out as a note under section 1441a of this title.
+Oversight Board redesignated Thrift Depositor Protection Oversight Board, effective Feb. 1, 1992, see section 302(a) of Pub. L. 102–233, formerly set out as a note under section 1441a of this title. Thrift Depositor Protection Oversight Board abolished, see section 14(a)–(d) of Pub. L. 105–216, formerly set out as a note under section 1441a of this title.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by section 172(b) of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of this title.
+
+Amendment by section 363(3) of Pub. L. 111–203 effective on the transfer date, see section 351 of Pub. L. 111–203, set out as a note under section 906 of Title 2, The Congress.
+
+Amendment by section 1090(1) of Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2006 Amendment
 
@@ -1270,7 +1314,7 @@ Amendment by sections 1603(d)(2)–(4) and 1605(a)(5)(A), (11) of Pub. L. 102–
 
 Amendment by section 131(c)(1), (2) of Pub. L. 102–242 effective 1 year after Dec. 19, 1991, see section 131(f) of Pub. L. 102–242, set out as a note under section 1464 of this title.
 
-Amendment by section 302(e)(4) of Pub. L. 102–242 effective on earlier of 180 days after date on which final regulations promulgated in accordance with section 302(c) of Pub. L. 102–242, set out as a note under section 1817 of this title, become effective or Jan. 1, 1994, seesection 302(g) of Pub. L. 102–242, set out as a note under section 1817 of this title.
+Amendment by section 302(e)(4) of Pub. L. 102–242 effective on earlier of 180 days after date on which final regulations promulgated in accordance with section 302(c) of Pub. L. 102–242, set out as a note under section 1817 of this title, become effective or Jan. 1, 1994, see section 302(g) of Pub. L. 102–242, set out as a note under section 1817 of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -1280,7 +1324,7 @@ Section 2547(a)(3) of Pub. L. 101–647 provided that: “The amendment made by 
 
 Amendment by section 903(a) of Pub. L. 101–73 applicable with respect to violations committed and activities engaged in after Aug. 9, 1989, see section 903(e) of Pub. L. 101–73, set out as a note under section 1786 of this title.
 
-Amendment by section 907(a) of Pub. L. 101–73 applicable to conduct engaged in after Aug. 9, 1989, except that increased maximum penalties of $5,000 and $25,000 may apply to conduct engaged in before such date if such conduct is not already subject to a notice issued by the appropriate agency and occurred after completion of the last report of the examination of the institution by the appropriate agency occurring before Aug. 9, 1989, see section 907(<i>l</i>) of Pub. L. 101–73, set out as a note under section 93 of this title.
+Amendment by section 907(a) of Pub. L. 101–73 applicable to conduct engaged in after Aug. 9, 1989, except that increased maximum penalties of $5,000 and $25,000may apply to conduct engaged in before such date if such conduct is not already subject to a notice issued by the appropriate agency and occurred after completion of the last report of the examination of the institution by the appropriate agency occurring before Aug. 9, 1989, see section 907(<i>l</i>) of Pub. L. 101–73, set out as a note under section 93 of this title.
 
 #### Effective Date of Regulations Prescribed Under 1986 Amendment
 
@@ -1306,7 +1350,7 @@ Section 917 of Pub. L. 101–73 directed appropriate Federal banking agencies (a
 
 #### Credit Standards Advisory Committee
 
-Section 1205 of Pub. L. 101–73, as amended by Pub. L. 102–242, title IV, §422, Dec. 19, 1991, 105 Stat. 2377, provided that:
+Pub. L. 101–73, title XII, §1205, Aug. 9, 1989, 103 Stat. 521, as amended by Pub. L. 102–242, title IV, §422, Dec. 19, 1991, 105 Stat. 2377; Pub. L. 111–203, title III, §367(7), July 21, 2010, 124 Stat. 1557, provided that:
 
 “(a)
 
@@ -1322,23 +1366,21 @@ Appointment.—The Committee shall consist of 11 members, as follows:
 
 &emsp;&emsp;“(A) The Chairman of the Board of Governors of the Federal Reserve System, or the Chairman's designee.
 
-&emsp;&emsp;“(B) The Director of the Office of Thrift Supervision, or the Director's designee.
+&emsp;&emsp;“(B) The Chairperson of the Federal Deposit Insurance Corporation, or the Chairperson's designee.
 
-&emsp;&emsp;“(C) The Chairperson of the Federal Deposit Insurance Corporation, or the Chairperson's designee.
+&emsp;&emsp;“(C) The Comptroller of the Currency, or the Comptroller's designee.
 
-&emsp;&emsp;“(D) The Comptroller of the Currency, or the Comptroller's designee.
+&emsp;&emsp;“(D) The Chairman of the National Credit Union Administration, or the Chairman's designee.
 
-&emsp;&emsp;“(E) The Chairman of the National Credit Union Administration, or the Chairman's designee.
-
-&emsp;&emsp;“(F) 6 members of the public appointed by the President who are knowledgeable with the credit standards and lending practices of insured depository institutions, no more than 3 of whom shall be from the same political party.
+&emsp;&emsp;“(E) 6 members of the public appointed by the President who are knowledgeable with the credit standards and lending practices of insured depository institutions, no more than 3 of whom shall be from the same political party.
 
 &emsp;“(2)
 
-Terms.—Each member appointed under paragraph (1)(F) shall serve for the life of the Committee.
+Terms.—Each member appointed under paragraph (1)(E) shall serve for the life of the Committee.
 
 &emsp;“(3)
 
-Chairperson.—The Chairperson of the Committee shall be designated by the President from among the members appointed under paragraph (1)(F).
+Chairperson.—The Chairperson of the Committee shall be designated by the President from among the members appointed under paragraph (1)(F) \[now (1)(E)\].
 
 &emsp;“(4)
 
@@ -1396,9 +1438,13 @@ Nothing contained in sections 202 and 204 of Pub. L. 89–695 amending this sect
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> See References in Text note below.</i>
+<i><sup>2</sup></i><i> So in original. The second closing parenthesis probably should not appear.</i>
 
-<i><sup>3</sup></i><i> So in original.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be “depository institution's”.</i>
 
-<i><sup>4</sup></i><i> So in original. Probably should be “depository institution's”.</i>
+<i><sup>4</sup></i><i> So in original. Probably should be “; or”.</i>
+
+<i><sup>5</sup></i><i> So in original. The semicolon probably should be a period.</i>
+
+<i><sup>6</sup></i><i> So in original. Two pars. (6) have been enacted.</i>
 

@@ -16,5 +16,5 @@ Section 401 of title IV of Pub. L. 94–385 provided that: “This title \[enact
 
 #### Transfer of Functions
 
-“Secretary”, meaning Secretary of Energy, substituted for “Federal Energy Administration” in subsec. (b) pursuant to sections 301(a), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(a), 7293, and 7297 of this title and which terminated Federal Energy Administration and transferred its functions (with certain exceptions) to Secretary of Energy.
+“Secretary”, meaning Secretary of Energy, substituted for “Federal Energy Administration” in subsec. (b) pursuant to sections 301(a), 703, and 707 of Pub.L. 95–91, which are classified to sections 7151(a), 7293, and 7297 of this title and which terminated Federal Energy Administration and transferred its functions (with certain exceptions) to Secretary of Energy.
 

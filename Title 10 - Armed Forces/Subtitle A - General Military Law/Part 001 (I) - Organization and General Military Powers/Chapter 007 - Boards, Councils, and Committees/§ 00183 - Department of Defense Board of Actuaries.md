@@ -8,7 +8,7 @@ In General.—There shall be in the Department of Defense a Department of Defens
 
 Members.—(1) The Board shall consist of three members who shall be appointed by the Secretary of Defense from among qualified professional actuaries who are members of the Society of Actuaries.
 
-(2) The members of the Board shall serve for a term of 15 years, except that a member of the Board appointed to fill a vacancy occurring before the end of the term for which the member's predecessor was appointed shall only serve until the end of such term. A member may serve after the end of the member's term until the member's successor takes office.
+(2) The members of the Board shall serve for a term of 15 years, except that a member of the Board appointed to fill a vacancy occurring before the end of the term for which the member's predecessor was appointed shall only serve until the end of such term. A member may serve afterthe end of the member's term until the member's successor takes office.
 
 (3) A member of the Board may be removed by the Secretary of Defense only for misconduct or failure to perform functions vested in the Board.
 
@@ -30,7 +30,7 @@ Records.—The Secretary of Defense shall ensure that the Board has access to su
 
 (e)
 
-Reports.—(1) The Board shall submit to the Secretary of Defense on an annual basis areport on the actuarial status of each of the following:
+Reports.—(1) The Board shall submit to the Secretary of Defense on an annual basis a report on the actuarial status of each of the following:
 
 &emsp;(A) The Department of Defense Military Retirement Fund.
 

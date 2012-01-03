@@ -54,7 +54,7 @@ The purpose of the Institute is to assist patients, clinicians, purchasers, and 
 
 #### (A) Identifying research priorities
 
-&emsp;&emsp;The Institute shall identify national priorities for research, taking into account factors of disease incidence, prevalence, and burden in the United States (with emphasis on chronic conditions), gaps in evidence in terms of clinical outcomes, practice variations and health disparities in terms of delivery and outcomes of care, the potential for new evidence to improve patient health, well-being, and the quality of care, the effect on national expenditures associated with a health care treatment, strategy, or healthconditions, as well as patient needs, outcomes, and preferences, the relevance to patients and clinicians in making informed health decisions, and priorities in the National Strategy for quality care established under section 399H <sup>2</sup> of the Public Health Service Act that are consistent with this section.
+&emsp;&emsp;The Institute shall identify national priorities for research, taking into account factors of disease incidence, prevalence, and burden in the United States (with emphasis on chronic conditions), gaps in evidence in terms of clinical outcomes, practice variations and health disparities in terms of delivery and outcomes of care, the potential for new evidence to improve patient health, well-being, and the quality of care, the effect on national expenditures associated with a health care treatment, strategy, or health conditions, as well as patient needs, outcomes, and preferences, the relevance to patients and clinicians in making informed health decisions, and priorities in the National Strategy for quality care established under section 399H <sup>2</sup> of the Public Health Service Act that are consistent with this section.
 
 #### (B) Establishing research project agenda
 
@@ -64,7 +64,7 @@ The purpose of the Institute is to assist patients, clinicians, purchasers, and 
 
 #### (A) Research
 
-&emsp;&emsp;The Institute shall carry out the research project agenda established under paragraph (1)(B) in accordance with the methodological standards adopted under paragraph (9) using methods, including the following:
+&emsp;&emsp;The Institute shall carry out the research project agenda established under paragraph\(1)(B) in accordance with the methodological standards adopted under paragraph (9) using methods, including the following:
 
 &emsp;&emsp;&emsp;(i) Systematic reviews and assessments of existing and future research and evidence including original research conducted subsequent to March 23, 2010.
 
@@ -120,7 +120,7 @@ The purpose of the Institute is to assist patients, clinicians, purchasers, and 
 
 #### (D) Taking into account potential differences
 
-&emsp;&emsp;Research shall be designed, as appropriate, to take into account the potential for differences in the effectiveness of health care treatments, services, and items as used with various subpopulations, such as racial and ethnic minorities, women, age, and groups of individuals with different comorbidities, genetic and molecular sub-types, or quality oflife preferences and include members of such subpopulations as subjects in the research as feasible and appropriate.
+&emsp;&emsp;Research shall be designed, as appropriate, to take into account the potential for differences in the effectiveness of health care treatments, services, and items as used with various subpopulations, such as racial and ethnic minorities, women, age, and groups of individuals with different comorbidities, genetic and molecular sub-types, or quality of life preferences and include members of such subpopulations as subjects in the research as feasible and appropriate.
 
 #### (E) Differences in treatment modalities
 
@@ -134,7 +134,7 @@ The purpose of the Institute is to assist patients, clinicians, purchasers, and 
 
 #### (B) Use of data
 
-&emsp;&emsp;The Institute shall only use data provided to the Institute under subparagraph (A) in accordance with laws and regulations governing the release and use of such data, including applicable confidentiality and privacy standards.
+&emsp;&emsp;The Institute shall only use data provided to the Institute under subparagraph (A) inaccordance with laws and regulations governing the release and use of such data, including applicable confidentiality and privacy standards.
 
 #### (4) Appointing expert advisory panels
 
@@ -174,7 +174,7 @@ The purpose of the Institute is to assist patients, clinicians, purchasers, and 
 
 &emsp;&emsp;Subject to subparagraph (D), the methodology committee shall work to develop and improve the science and methods of comparative clinical effectiveness research by, not later than 18 months after the establishment of the Institute, directly or through subcontract, developing and periodically updating the following:
 
-&emsp;&emsp;&emsp;(i) Methodological standards for research. Such methodological standards shall provide specific criteria for internal validity, generalizability, feasibility, and timeliness of research and for health outcomes measures, risk adjustment, and other relevant aspects of research and assessment with respect to the design of research. Any methodological standards developed and updated under this subclause <sup>3</sup> shall be scientifically based and include methods by which new information, data,or advances in technology are considered and incorporated into ongoing research projects by the Institute, as appropriate. The process for developing and updating such standards shall include input from relevant experts, stakeholders, and decisionmakers, and shall provide opportunities for public comment. Such standards shall also include methods by which patient subpopulations can be accounted for and evaluated in different types of research. As appropriate, such standards shall build on existing work on methodological standards for defined categories of health interventions and for each of the major categories of comparative clinical effectiveness research methods (determined as of March 23, 2010).
+&emsp;&emsp;&emsp;(i) Methodological standards for research. Such methodological standards shall provide specific criteria for internal validity, generalizability, feasibility, and timeliness of research and for health outcomes measures, risk adjustment, and other relevant aspects of research and assessment with respect to the design of research. Any methodological standards developed and updated under this subclause <sup>3</sup> shall be scientifically based and include methods by which new information, data, or advances in technology are considered and incorporated into ongoing research projects by the Institute, as appropriate. The process for developing and updating such standards shall include input from relevant experts, stakeholders, and decisionmakers, and shall provide opportunities for public comment. Such standards shall also include methods by which patient subpopulations can be accounted for and evaluated in different types of research. As appropriate, such standards shall build on existing work on methodological standards for defined categories of health interventions and for each of the major categories of comparative clinical effectiveness research methods (determined as of March 23, 2010).
 
 &emsp;&emsp;&emsp;(ii) A translation table that is designed to provide guidance and act as a reference for the Board to determine research methods that are most likely to address each specific research question.
 
@@ -376,11 +376,11 @@ The Institute shall establish procedures to ensure that the following requiremen
 
 #### (i) Rules
 
-The Institute,<sup>8</sup> its Board or staff, shall be prohibited from accepting gifts, bequeaths,<sup>9</sup> or donations of services or property. In addition, the Institute shall be prohibited from establishing a corporation or generating revenues from activities other than as provided under this section.
+The Institute,<sup>7</sup> its Board or staff, shall be prohibited from accepting gifts, bequeaths,<sup>8</sup> or donations of services or property. In addition, the Institute shall be prohibited from establishing acorporation or generating revenues from activities other than as provided under this section.
 
 #### (j) Rules of construction
 
-#### (1) <sup>10</sup> Coverage
+#### (1) <sup>9</sup> Coverage
 
 &emsp;Nothing in this section shall be construed—
 
@@ -422,9 +422,7 @@ Subsec. (f)(1)(C)(ii). Pub. L. 111–148, §10602(3), amended cl. (ii) generally
 
 <i><sup>7</sup></i><i> So in original.</i>
 
-<i><sup>8</sup></i><i> So in original. Probably should be “Institute or”.</i>
+<i><sup>8</sup></i><i> So in original. Probably should be “bequests”.</i>
 
-<i><sup>9</sup></i><i> So in original. Probably should be “bequests”.</i>
-
-<i><sup>10</sup></i><i> So in original. No par. (2) has been enacted.</i>
+<i><sup>9</sup></i><i> So in original. No par. (2) has been enacted.</i>
 

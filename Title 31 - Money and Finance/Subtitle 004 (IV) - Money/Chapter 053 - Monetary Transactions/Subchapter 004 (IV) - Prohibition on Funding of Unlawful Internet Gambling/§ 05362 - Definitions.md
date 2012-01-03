@@ -74,7 +74,7 @@ Interactive computer service.—The term “interactive computer service” has 
 
 &emsp;(7)
 
-Restricted transaction.—The term “restricted transaction” means any transactionor transmittal involving any credit, funds, instrument, or proceeds described in any paragraph of section 5363 which the recipient is prohibited from accepting under section 5363.
+Restricted transaction.—The term “restricted transaction” means any transaction or transmittal involving any credit, funds, instrument, or proceeds described in any paragraph of section 5363 which the recipient is prohibited from accepting under section 5363.
 
 &emsp;(8)
 

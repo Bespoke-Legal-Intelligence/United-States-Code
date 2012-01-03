@@ -12,7 +12,21 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Amendment of Analysis
+
+<i>Pub. L. 112–29, §6(g)(2), (3), Sept. 16, 2011, 125 Stat. 312, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to any patent issued before, on, or after that effective date, the item relating to section 301 in this analysis is amended to read as follows:</i>
+
+|  |  |
+| :--- | ---: |
+| <i>301.</i> | <i>Citation of prior art and written statements.</i> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<i>See 2011 Amendment note below.</i>
+
 #### Amendments
+
+<b>2011</b>—Pub. L. 112–29, §6(g)(2), Sept. 16, 2011, 125 Stat. 312, amended item 301 generally, substituting “Citation of prior art and written statements” for “Citation of prior art”.
 
 <b>2002</b>—Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906, made technical correction to directory language of Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582. See 1999 Amendment note below.
 

@@ -16,7 +16,7 @@ A national bank may not—
 
 A national bank may not permit—
 
-&emsp;(1) the use of any part of any of its banking offices by any persons for any purpose forbidden to the bank under subsection (a) of this section, or
+&emsp;(1) the use of any part of any of its banking offices by any person for any purpose forbidden to the bank under subsection (a) of this section, or
 
 &emsp;(2) direct access by the public from any of its banking offices to any premises used by any person for any purpose forbidden to the bank under subsection (a) of this section.
 

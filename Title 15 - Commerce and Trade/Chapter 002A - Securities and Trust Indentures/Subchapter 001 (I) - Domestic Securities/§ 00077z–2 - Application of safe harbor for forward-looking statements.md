@@ -72,7 +72,7 @@ Except to the extent otherwise specifically provided by rule, regulation, or ord
 
 &emsp;&emsp;&emsp;&emsp;(I) made by or with the approval of an executive officer of that entity, and
 
-&emsp;&emsp;&emsp;&emsp;(II) made or approved by such officer with actual knowledge by that officerthat the statement was false or misleading.
+&emsp;&emsp;&emsp;&emsp;(II) made or approved by such officer with actual knowledge by that officer that the statement was false or misleading.
 
 #### (2) Oral forward-looking statements
 
@@ -154,7 +154,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (4) Going private transaction
 
-&emsp;The term “going private transaction” has the meaning given that term under the rulesor regulations of the Commission issued pursuant to section 78m(e) of this title.
+&emsp;The term “going private transaction” has the meaning given that term under the rules or regulations of the Commission issued pursuant to section 78m(e) of this title.
 
 #### (5) Securities laws
 

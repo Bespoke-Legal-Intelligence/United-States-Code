@@ -2,23 +2,51 @@
 
 #### (a) In general
 
-There are authorized to be appropriated to the Department of Labor, for the period beginning October 1, 2001, and ending February 12, 2011, such sums as may be necessary to carry out the purposes of this part.
+There are authorized to be appropriated to the Department of Labor, for the period beginning October 1, 2001, and ending December 31, 2013, such sums as may be necessary to carry out the purposes of this part.
 
 #### (b) Period of expenditure
 
 Funds obligated for any fiscal year to carry out activities under sections 2295 through 2298 of this title may be expended by each State receiving such funds during that fiscal year and the succeeding two fiscal years.
 
-(Pub. L. 93–618, title II, §245, Jan. 3, 1975, 88 Stat. 2026; Pub. L. 97–35, title XXV, §2510, Aug. 13, 1981, 95 Stat. 888; Pub. L. 98–120, §2(a), Oct. 12, 1983, 97 Stat. 809; Pub. L. 99–272, title XIII, §13008(a), Apr. 7, 1986, 100 Stat. 305; Pub. L. 100–418, title I, §1426(b)(1), Aug. 23, 1988, 102 Stat. 1251; Pub. L. 103–66, title XIII, §13803(a)(2), Aug. 10, 1993, 107 Stat. 668; Pub. L. 103–182, title V, §504, Dec. 8, 1993, 107 Stat. 2151; Pub. L. 105–277, div. J, title I, §1012(a), Oct. 21, 1998, 112 Stat. 2681–900; Pub. L. 106–113, div. B, §1000(a)(5) \[title VII, §702(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–319; Pub. L. 107–210, div. A, title I, §§111(a), 120, Aug. 6, 2002, 116 Stat. 936, 942; Pub. L. 109–280, title XIV, §1635(f)(3), Aug. 17, 2006, 120 Stat. 1171; Pub. L. 110–89, §1(a), Sept. 28, 2007, 121 Stat. 982; Pub. L. 111–5, div. B, title I, §1892(a), Feb. 17, 2009, 123 Stat. 421; Pub. L. 111–344, title I, §101(c)(2), Dec. 29, 2010, 124 Stat. 3613.)
+#### (c) Reallotment of funds
 
-#### Amendment of Section
+#### (1) In general
 
-<i>For termination of amendment by section 1893 of Pub. L. 111–5, see Effective and Termination Dates of 2009 Amendment note below.</i>
+&emsp;The Secretary may—
+
+&emsp;&emsp;(A) reallot funds that were allotted to any State to carry out sections 2295 through 2298 of this title and that remain unobligated by the State during the second or third fiscal year after the fiscal year in which the funds were provided to the State; and
+
+&emsp;&emsp;(B) provide such realloted funds to States to carry out sections 2295 through 2298 of this title in accordance with procedures established by the Secretary.
+
+#### (2) Requests by States
+
+&emsp;In establishing procedures under paragraph (1)(B), the Secretary shall include procedures that provide for the distribution of realloted funds under that paragraph pursuant to requests submitted by States in need of such funds.
+
+#### (3) Availability of amounts
+
+&emsp;The reallotment of funds under paragraph (1) shall not extend the period for which such funds are available for expenditure.
+
+(Pub. L. 93–618, title II, §245, Jan. 3, 1975, 88 Stat. 2026; Pub. L. 97–35, title XXV, §2510, Aug. 13, 1981, 95 Stat. 888; Pub. L. 98–120, §2(a), Oct. 12, 1983, 97 Stat. 809; Pub. L. 99–272, title XIII, §13008(a), Apr. 7, 1986, 100 Stat. 305; Pub. L. 100–418, title I, §1426(b)(1), Aug. 23, 1988, 102 Stat. 1251; Pub. L. 103–66, title XIII, §13803(a)(2), Aug. 10, 1993, 107 Stat. 668; Pub. L. 103–182, title V, §504, Dec. 8, 1993, 107 Stat. 2151; Pub. L. 105–277, div. J, title I, §1012(a), Oct. 21, 1998, 112 Stat. 2681–900; Pub. L. 106–113, div. B, §1000(a)(5) \[title VII, §702(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–319; Pub. L. 107–210, div. A, title I, §§111(a), 120, Aug. 6, 2002, 116 Stat. 936, 942; Pub. L. 109–280, title XIV, §1635(f)(3), Aug. 17, 2006, 120 Stat. 1171; Pub. L. 110–89, §1(a), Sept. 28, 2007, 121 Stat. 982; Pub. L. 111–5, div. B, title I, §1892(a), Feb. 17, 2009, 123 Stat. 421; Pub. L. 111–344, title I, §101(c)(2), Dec. 29, 2010, 124 Stat. 3613; Pub. L. 112–40, title II, §§201(b), (c), 214(c), 217, Oct. 21, 2011, 125 Stat. 403, 405, 409.)
+
+#### Reversion to Provisions in Effect on February 13, 2011
+
+<i>For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to section 233(b) of Pub. L. 112–40, see Codification and Effective and Termination Dates of 2011 Revival notes below.</i>
+
+#### Codification
+
+Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination of amendment by Pub. L. 111–5, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, and the provisions of this section, as amended by Pub. L. 111–5 and Pub. L. 111–344 and as in effect on Feb. 12, 2011, were temporarily revived, effective Oct. 21, 2011, until Jan. 1, 2014, by Pub. L. 112–40, §§201(b), (c), 233. See 2009, 2010, and 2011 Amendment notes, Effective and Termination Dates of 2009 Amendment notes, Effective Date of 2010 Amendment note, and Effective and Termination Dates of 2011 Revival note below.
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–344 substituted “February 12, 2011” for “December 31, 2010”.
+<b>2011</b>—Pub. L. 112–40, §§201(b), (c), 233, temporarily revived the provisions of this section, as in effect on Feb. 12, 2011. See Codification note above and 2009 and 2010 Amendment and Effective and Termination Dates of 2011 Revival notes below.
 
-<b>2009</b>—Subsec. (a). Pub. L. 111–5, §§1892(a), 1893, temporarily substituted “December 31, 2010” for “December 31, 2007”. See Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (a). Pub. L. 112–40, §§217, 233, temporarily substituted “December 31, 2013” for “February 12, 2011”. See Codification note above and Effective and Termination Dates of 2011 Revival note below.
+
+Subsec. (c). Pub. L. 112–40, §§214(c), 233, temporarily added subsec. (c). See Codification note above and Effective and Termination Dates of 2011 Revival note below.
+
+<b>2010</b>—Subsec. (a). Pub. L. 111–344 substituted “February 12, 2011” for “December 31, 2010”. See Codification note above.
+
+<b>2009</b>—Subsec. (a). Pub. L. 111–5, §§1892(a), 1893, temporarily substituted “December 31, 2010” for “December 31, 2007”. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
 <b>2007</b>—Subsec. (a). Pub. L. 110–89 substituted “December 31, 2007” for “September 30, 2007”.
 
@@ -48,6 +76,10 @@ Pub. L. 103–66 substituted “1993, 1994, 1995, 1996, 1997, and 1998” for �
 
 <b>1981</b>—Pub. L. 97–35 substituted provisions relating to authorization of appropriations for fiscal years 1982 and 1983 for provisions relating to establishment of the Adjustment Assistance Trust Fund.
 
+#### Effective and Termination Dates of 2011 Revival
+
+For temporary revival and applicability of provisions as in effect on Feb. 12, 2011, see sections 201(b), (c) and 233 of Pub. L. 112–40, set out as notes preceding section 2271 of this title. For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to section 233(b) of Pub. L. 112–40, see section 233 of Pub. L. 112–40, set out as a note preceding section 2271 of this title.
+
 #### Effective Date of 2010 Amendment
 
 Amendment by Pub. L. 111–344 effective Jan. 1, 2011, see section 101(d) of Pub. L. 111–344, set out as a note preceding section 2271 of this title.
@@ -56,7 +88,7 @@ Amendment by Pub. L. 111–344 effective Jan. 1, 2011, see section 101(d) of Pub
 
 Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title.
 
-Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and this section to be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, except that this section shall be applied and administered by substituting “February 12, 2012” for “December 31, 2007”, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
+Section 1893 of Pub. L. 111–5, which provided that, except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and that this section be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, with certain exceptions, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403. See Codification note above.
 
 #### Effective Date of 2007 Amendment
 
@@ -80,7 +112,7 @@ Amendment by Pub. L. 103–182 effective on the date the North American Free Tra
 
 #### Effective Date of 1986 Amendment
 
-Parts 2 and 3 of this subchapter applicable as if the amendment of this section by Pub. L. 99–272 had taken effect Dec. 18, 1985, see section 13009(c) of Pub. L. 99–272, set out as a note under section 2291 of this title.
+Parts 2 and 3 of this subchapter to be applied as if the amendment of this section by Pub. L. 99–272 had taken effect Dec. 18, 1985, see section 13009(c) of Pub. L. 99–272, set out as a note under section 2291 of this title.
 
 #### Effective Date of 1981 Amendment and Transition Provisions
 
@@ -88,5 +120,5 @@ Amendment by Pub. L. 97–35 effective Aug. 13, 1981, with transition provisions
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after Feb. 12, 2011, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after Dec. 31, 2013, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 

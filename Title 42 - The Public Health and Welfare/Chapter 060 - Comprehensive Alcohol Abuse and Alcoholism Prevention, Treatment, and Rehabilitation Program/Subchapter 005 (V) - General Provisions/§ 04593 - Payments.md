@@ -10,5 +10,5 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### Codification
 
-Pub. L. 94–371, §7, July 26, 1976, 90 Stat. 1038, redesignated title V of Pub. L. 91–616, which was classified tosubchapter IV of this chapter, as title VI without renumbering the sections therein. Section 503 of Pub. L. 91–616 was renumbered 603, as the probable intent of Congress.
+Pub. L. 94–371, §7, July 26, 1976, 90 Stat. 1038, redesignated title V of Pub. L. 91–616, which was classified to subchapter IV of this chapter, as title VI without renumbering the sections therein. Section 503 of Pub. L. 91–616 was renumbered 603, as the probable intent of Congress.
 

@@ -28,7 +28,7 @@ This chapter, referred to in subsec. (b), was in the original “this title”, 
 
 #### Amendments
 
-<b>2000</b>—Subsec. (a)(3). Pub. L. 106–555, which directed amendment of par. (3) of this section by substituting“such resources is” for “such resources in”, was executed by making the substitution in par. (3) of subsec. (a), to reflect the probable intent of Congress.
+<b>2000</b>—Subsec. (a)(3). Pub. L. 106–555, which directed amendment of par. (3) of this section by substituting “such resources is” for “such resources in”, was executed by making the substitution in par. (3) of subsec. (a), to reflect the probable intent of Congress.
 
 #### Short Title of 2000 Amendment
 

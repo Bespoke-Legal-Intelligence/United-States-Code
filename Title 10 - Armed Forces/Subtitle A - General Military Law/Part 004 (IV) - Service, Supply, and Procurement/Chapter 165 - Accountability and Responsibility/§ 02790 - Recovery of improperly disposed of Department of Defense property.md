@@ -2,7 +2,7 @@
 
 (a)
 
-Prohibition.—No member of the armed forces, civilian employee of the United StatesGovernment, contractor personnel, or other person may sell, lend, pledge, barter, or give any clothing, arms, articles, equipment, or other military or Department of Defense property except in accordance with the statutes and regulations governing Government property.
+Prohibition.—No member of the armed forces, civilian employee of the United States Government, contractor personnel, or other person may sell, lend, pledge, barter, or give any clothing, arms, articles, equipment, or other military or Department of Defense property except in accordance with the statutes and regulations governing Government property.
 
 (b)
 

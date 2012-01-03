@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Each educational organization, prior to enrolling a minor and prior to accepting funds for the cost of a minor's participation in an educational program operated by such organization, shall disclose the following information in written form to the minor or the minor's parent.
+Each educational organization, prior to enrolling a minor and prior to accepting funds for thecost of a minor's participation in an educational program operated by such organization, shall disclose the following information in written form to the minor or the minor's parent.
 
 #### (1) Method of solicitation and selection
 
@@ -104,7 +104,7 @@ As used in this section:
 
 &emsp;(B) The definition in subparagraph (A) shall not include—
 
-&emsp;&emsp;(i) a local educational agency, State educational agency, a State department of education, or an elementary or secondary school as defined by the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\];
+&emsp;&emsp;(i) a local educational agency, State educational agency, a State department of education, or an elementary or secondaryschool as defined by the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\];
 
 &emsp;&emsp;(ii) an institution of higher education as defined by section 1001 of this title; or
 

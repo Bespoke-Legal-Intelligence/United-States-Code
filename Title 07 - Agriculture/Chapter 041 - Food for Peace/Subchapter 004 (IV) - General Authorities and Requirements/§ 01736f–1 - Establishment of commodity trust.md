@@ -106,7 +106,7 @@ To provide for a trust solely to meet emergency humanitarian food needs in devel
 
 #### (D) Waiver relating to minimum tonnage requirements
 
-&emsp;&emsp;Nothing in this paragraph requires a waiver by the Administrator of the Agency for International Development under section 204(a)(3) of the Food for Peace Act (7 U.S.C. 1724(a)(3)) as a condition for a release of funds or commodities under subparagraph (B).
+&emsp;&emsp;Nothing in this paragraph requires a waiver by the Administrator of the Agency forInternational Development under section 204(a)(3) of the Food for Peace Act (7 U.S.C. 1724(a)(3)) as a condition for a release of funds or commodities under subparagraph (B).
 
 #### (2) Processing of eligible commodities
 
@@ -192,7 +192,7 @@ Any determination by the Secretary under this section shall be final.
 
 &emsp;Eligible commodities remaining in the trust after September 30, 2012, shall be disposed of by release for use in providing for emergency humanitarian food needs in developing countries as provided in this section.
 
-(Pub. L. 96–494, title III, §302, as added Pub. L. 104–127, title II, §225(a), Apr. 4, 1996, 110 Stat. 959; amended Pub. L. 105–385, title II, §212(a), (b)(3), Nov. 13, 1998, 112 Stat. 3465, 3467; Pub. L. 107–171, title III, §3202, May 13, 2002, 116 Stat. 300; Pub. L. 110–246, title III, §§3001(b)(1)(A), (2)(E), 3201, June 18, 2008, 122 Stat. 1820, 1834.)
+(Pub. L. 96–494, title III, §302, as added Pub. L. 104–127, title II, §225(a), Apr. 4, 1996, 110 Stat. 959; amended Pub. L. 105–385, title II, §212(a), (b)(3), Nov. 13, 1998, 112 Stat. 3465, 3467; Pub. L. 107–171, title III, §3202, May 13, 2002, 116 Stat. 300; Pub. L.110–246, title III, §§3001(b)(1)(A), (2)(E), 3201, June 18, 2008, 122 Stat. 1820, 1834.)
 
 #### References in Text
 
@@ -210,7 +210,7 @@ A prior section 1736f–1, Pub. L. 96–494, title III, §302, Dec. 3, 1980, 94 
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–246, §3201(1), substituted “establish and maintain a trust” for “establish a trust stock” and “any combination of the commodities, or funds” for “or any combination of the commodities, totaling not more than 4,000,000 metric tons”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–246, §3201(1), substituted “establish and maintain a trust” for “establish a trust stock” and “any combination of the commodities, or funds” for “or any combination of the commodities, totaling not more than 4,000,000 metric tons”.
 
 Subsec. (b)(1)(D). Pub. L. 110–246, §3201(2)(A), added subpar. (D) and struck out former subpar. (D) which read as follows: “funds made available under paragraph (2)(B) which shall be used solely to replenish commodities in the trust.”
 
@@ -228,11 +228,11 @@ Subsecs. (e)(1), (f)(2)(A). Pub. L. 110–246, §3001(b)(1)(A), (2)(E), substitu
 
 Subsec. (h). Pub. L. 110–246, §3201(5), substituted “2012” for “2007” in pars. (1) and (2).
 
-2002—Subsec. (b)(2)(B)(i). Pub. L. 107–171 substituted “2007” for “2002” in two places.
+<b>2002</b>—Subsec. (b)(2)(B)(i). Pub. L. 107–171 substituted “2007” for “2002” in two places.
 
 Subsec. (h). Pub. L. 107–171 substituted “2007” for “2002” in pars. (1) and (2).
 
-1998—Pub. L. 105–385, §212(b)(3)(A), substituted “trust” for “reserve” in section catchline.
+<b>1998</b>—Pub. L. 105–385, §212(b)(3)(A), substituted “trust” for “reserve” in section catchline.
 
 Subsec. (a). Pub. L. 105–385, §212(b)(3)(B), substituted “trust” for “reserve” in two places.
 

@@ -84,7 +84,7 @@ No person shall become ineligible under section 3821 of this title for program l
 
 &emsp;&emsp;(E) A wetland, if—
 
-&emsp;&emsp;&emsp;(i) the wetland was determined by the Natural Resources Conservation Service to have been manipulated for the production of an agricultural commodity or forage prior to December 23, 1985, and was returned to wetland conditions through a voluntary restoration, enhancement, or creation action subsequent to that determination;
+&emsp;&emsp;&emsp;(i) the wetland was determined by the Natural Resources Conservation Service to have been manipulated for the production of an agricultural commodity or forage prior to December 23, 1985, and was returned to wetland conditions through a voluntary restoration, enhancement, orcreation action subsequent to that determination;
 
 &emsp;&emsp;&emsp;(ii) technical determinations regarding the prior site conditions and the restoration, enhancement, or creation action have been adequately documented by the Natural Resources Conservation Service;
 
@@ -102,7 +102,7 @@ For purposes of applying the minimal effect exemption under subsection (f)(1) of
 
 #### (e) Nonwetlands
 
-The Secretary shall exempt from the ineligibility provisions of section 3821 of this title any action by a person upon lands in any case inwhich the Secretary determines that any one of the following does not apply with respect to such lands:
+The Secretary shall exempt from the ineligibility provisions of section 3821 of this title any action by a person upon lands in any case in which the Secretary determines that any one of the following does not apply with respect to such lands:
 
 &emsp;(1) Such lands have a predominance of hydric soils.
 

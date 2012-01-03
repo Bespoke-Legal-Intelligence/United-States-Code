@@ -8,7 +8,7 @@
 
 #### Amendments
 
-1994—Subsec. (b). Pub. L. 103–349 substituted “the” for “his” before “claim has been denied”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–349 substituted “the” for “his” before “claim has been denied”.
 
 #### Effective Date of 1994 Amendment
 

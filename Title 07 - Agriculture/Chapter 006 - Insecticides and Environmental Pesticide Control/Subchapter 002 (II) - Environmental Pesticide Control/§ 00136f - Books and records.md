@@ -16,11 +16,11 @@ A prior section 8 of act June 25, 1947, was classified to section 135f of this t
 
 #### Amendments
 
-1991—Subsec. (a). Pub. L. 102–237 substituted “the Administrator” for “he” before “determines”.
+<b>1991</b>—Subsec. (a). Pub. L. 102–237 substituted “the Administrator” for “he” before “determines”.
 
-1988—Subsec. (a). Pub. L. 100–532 inserted “, registrants, and applicants for registration” after “requiring producers” and “and to make the records available for inspection and copying in the same manner as provided in subsection (b) of this section” before period at end of first sentence.
+<b>1988</b>—Subsec. (a). Pub. L. 100–532 inserted “, registrants, and applicants for registration” after “requiring producers” and “and to make the records available for inspection and copying in the same manner as provided in subsection (b) of this section” before period at end of first sentence.
 
-1978—Subsec. (b). Pub. L. 95–396 required, in connection with inspection of records and information, the presentation of credentials, written statement as to the reason for inspection, including statement of suspected violation, or an alternative but sufficient reason, and commencement and completion of inspection with reasonable promptness.
+<b>1978</b>—Subsec. (b). Pub. L. 95–396 required, in connection with inspection of records and information, the presentation of credentials, written statement as to the reason for inspection, including statement of suspected violation, or an alternative but sufficient reason, andcommencement and completion of inspection with reasonable promptness.
 
 #### Effective Date of 1988 Amendment
 

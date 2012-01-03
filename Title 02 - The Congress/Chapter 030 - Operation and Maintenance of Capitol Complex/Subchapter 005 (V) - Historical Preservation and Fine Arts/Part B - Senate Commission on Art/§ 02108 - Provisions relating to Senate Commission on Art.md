@@ -24,7 +24,7 @@
 
 #### (1) Curatorial Advisory Board
 
-&emsp;There is established a Board which shall be chaired by the Senate Curator. The CuratorialAdvisory Board shall provide advice and assistance to the Commission on the acquisition, care, and disposition of items for or within the United States Senate Collection, and on such other matters as the Commission determines appropriate.
+&emsp;There is established a Board which shall be chaired by the Senate Curator. The Curatorial Advisory Board shall provide advice and assistance to the Commission on the acquisition, care, and disposition of items for or within the United States Senate Collection, and on such other matters as the Commission determines appropriate.
 
 #### (2) Additional advisory boards
 
@@ -94,7 +94,7 @@
 
 #### (A) Deposits
 
-&emsp;&emsp;The Commission shall deposit in the fund amounts appropriated for use of the fund, gifts of money, and proceeds of transactions under subsection (a) of this section.
+&emsp;&emsp;The Commission shall deposit in the fund amounts appropriated for use of the fund,gifts of money, and proceeds of transactions under subsection (a) of this section.
 
 #### (B) Credits
 
@@ -112,7 +112,7 @@
 
 #### (B) Type of obligation
 
-&emsp;&emsp;Each investment required by this paragraph shall be made in an interest bearingobligation of the United States or an obligation guaranteed as to the principal and interest by the United States that, as determined by the Commission, has a maturity suitable for the fund.
+&emsp;&emsp;Each investment required by this paragraph shall be made in an interest bearing obligation of the United States or an obligation guaranteed as to the principal and interest by the United States that, as determined by the Commission, has a maturity suitable for the fund.
 
 #### (C) Commission approval
 
@@ -136,5 +136,5 @@ Section is from the Legislative Branch Appropriations Act, 2004.
 
 #### Amendments
 
-2005—Subsec. (c)(2). Pub. L. 109–55 substituted “for any purposes for which funds from the contingent fund of the Senate may be used under section 2107(a) of this title, and for expenditures, not to exceed $10,000 in any fiscal year, for meals and refreshments in Capitol facilities in connection with official activities of the Commission or other authorized programs or activities” for “and for any purposes for which funds from the contingent fund of the Senate may be used under section 2107(a) of this title”.
+<b>2005</b>—Subsec. (c)(2). Pub. L. 109–55 substituted “for any purposes for which funds from the contingent fund of the Senate may be used under section 2107(a) of this title, and for expenditures, not to exceed $10,000 in any fiscal year, for meals and refreshments in Capitol facilities in connection with official activities of the Commission or other authorized programs or activities” for “and for any purposes for which funds from the contingent fund of the Senate may be used under section 2107(a) of this title”.
 

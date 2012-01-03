@@ -14,7 +14,7 @@
 
 &emsp;(6) Oversee, periodically review, and make recommendations to heads of agencies on the administrative structure of agencies with respect to their financial management activities.
 
-&emsp;(7) Develop and maintain qualification standards for agency Chief Financial Officersand for agency Deputy Chief Financial Officers appointed under sections 901 and 903, respectively (excluding any officer designated or appointed under section 901(c)).
+&emsp;(7) Develop and maintain qualification standards for agency Chief Financial Officers and for agency Deputy Chief Financial Officers appointed under sections 901 and 903, respectively (excluding any officer designated or appointed under section 901(c)).
 
 &emsp;(8) Provide advice to agency heads with respect to the selection of agency Chief Financial Officers and Deputy Chief Financial Officers (excluding any officer designated or appointed under section 901(c)).
 

@@ -32,7 +32,7 @@ For purposes of section 38, the renewable electricity production credit for any 
 
 #### (3) Credit reduced for grants, tax-exempt bonds, subsidized energy financing, and other credits
 
-&emsp;The amount of the credit determined under subsection (a) with respect to any project for any taxable year (determined after the application of paragraphs (1) and (2)) shall be reduced by the amount which is the product of the amount so determined for such year and the lesser of 1/2 or a fraction—
+&emsp;The amount of the credit determined under subsection (a) with respect to any project for any taxable year (determined after the application of paragraphs (1) and (2)) shall be reduced by the amount which is the product of the amount so determined for such year and the lesser of ½ or a fraction—
 
 &emsp;&emsp;(A) the numerator of which is the sum, for the taxable year and all prior taxable years, of—
 
@@ -62,7 +62,7 @@ For purposes of section 38, the renewable electricity production credit for any 
 
 #### (ii) Certain open-loop biomass facilities
 
-&emsp;&emsp;&emsp;In the case of any facility described in subsection (d)(3)(A)(ii) placed in service before the date of the enactment of this paragraph, the 5-year period beginning on January 1, 2005, shall be substituted for the 10-year period in subsection (a)(2)(A)(ii).
+&emsp;&emsp;&emsp;In the case of any facility described in subsection (d)(3)(A)(ii) placed in service before the date of the enactment of thisparagraph, the 5-year period beginning on January 1, 2005, shall be substituted for the 10-year period in subsection (a)(2)(A)(ii).
 
 #### (iii) Termination
 
@@ -140,7 +140,7 @@ For purposes of this section:
 
 #### (6) Municipal solid waste
 
-&emsp;The term “municipal solid waste” has the meaning given the term “solid waste” undersection 2(27) <sup>1</sup> of the Solid Waste Disposal Act (42 U.S.C. 6903).
+&emsp;The term “municipal solid waste” has the meaning given the term “solid waste” under section 2(27) <sup>1</sup> of the Solid Waste Disposal Act (42 U.S.C. 6903).
 
 #### (7) Refined coal
 
@@ -174,7 +174,7 @@ For purposes of this section:
 
 #### (ii) Coal waste sludge
 
-&emsp;&emsp;&emsp;The term “coal waste sludge” means the tar decanter sludge and related byproducts of the coking process, including such materials that have been stored in ground, in tanks and in lagoons, that have been treated as hazardous wastes under applicable Federal environmental rules absent liquefaction and processing with coal into a feedstock for the manufacture of coke.
+&emsp;&emsp;&emsp;The term “coal waste sludge” means the tar decanter sludge and related byproductsof the coking process, including such materials that have been stored in ground, in tanks and in lagoons, that have been treated as hazardous wastes under applicable Federal environmental rules absent liquefaction and processing with coal into a feedstock for the manufacture of coke.
 
 #### (8) Qualified hydropower production
 
@@ -298,7 +298,7 @@ For purposes of this section:
 
 #### (5) Small irrigation power facility
 
-&emsp;In the case of a facility using small irrigation power to produce electricity, the term “qualified facility” means any facility owned by the taxpayer which is originally placed inservice after the date of the enactment of this paragraph and before October 3, 2008.
+&emsp;In the case of a facility using small irrigation power to produce electricity, the term “qualified facility” means any facility owned by the taxpayer which is originally placed in service after the date of the enactment of this paragraph and before October 3, 2008.
 
 #### (6) Landfill gas facilities
 
@@ -566,7 +566,7 @@ The date of the enactment of this paragraph, the date of the enactment of this c
 
 The date of the enactment of this clause and the date of the enactment of this paragraph, referred to in subsecs. (b)(4)(B)(iii), (c)(8), and (d)(9)(A), (B), are the date of enactment of Pub. L. 109–58, which was approved Aug. 8, 2005.
 
-Section 2(27) of the Solid Waste Disposal Act, referred to in subsec. (c)(6), probably should be section 1004(27) of such Act which is classified to section 6903(27) of Title 42, The Public Health and Welfare.
+Section 2(27) of the Solid Waste Disposal Act, referred to in subsec. (c)(6), probably should be section 1004(27)of such Act which is classified to section 6903(27) of Title 42, The Public Health and Welfare.
 
 The Federal Power Act, referred to in subsec. (c)(8)(C), is act June 10, 1920, ch. 285, 41 Stat. 1063. Part I of the Act is classified generally to subchapter I (§791a et seq.) of chapter 12 of Title 16, Conservation. For complete classification of this Act to the Code, see section 791a of Title 16 and Tables.
 
@@ -714,7 +714,7 @@ Subsec. (e)(11). Pub. L. 109–58, §1302(a), added par. (11).
 
 Subsec. (b)(2). Pub. L. 108–357, §710(b)(3)(C), substituted “The 1.5 cent amount in subsection (a), the 8 cent amount in paragraph (1), the $4.375 amount in subsection (e)(8)(A), and in subsection (e)(8)(B)(i) the reference price of fuel used as a feedstock (within the meaning of subsection (c)(7)(A)) in 2002” for “The 1.5 cent amount in subsection (a) and the 8 cent amount in paragraph (1)”.
 
-Subsec. (b)(3). Pub. L. 108–357, §710(f), inserted “the lesser of 1/2 or” before “a fraction” in introductory provisions and “This paragraph shall not apply with respect to any facility described in subsection (d)(2)(A)(ii)” in concluding provisions.
+Subsec. (b)(3). Pub. L. 108–357, §710(f), inserted “the lesser of ½ or” before “a fraction” in introductory provisions and “This paragraph shall not apply with respect to any facility described in subsection (d)(2)(A)(ii)” in concluding provisions.
 
 Subsec. (b)(4). Pub. L. 108–357, §710(c), added par. (4).
 
@@ -782,9 +782,9 @@ Expansion of biomass facilities.—The amendments made by subsection (d) \[amend
 
 Pub. L. 110–343, div. B, title I, §102(f), Oct. 3, 2008, 122 Stat. 3811, provided that: “The amendments made by this section \[amending this section\] shall apply to electricity produced and sold after the date of the enactment of this Act \[Oct. 3, 2008\], in taxable years ending after such date.”
 
-Amendment by section 106(c)(3)(B) of Pub. L. 110–343 applicable to taxable years beginning after Dec. 31, 2007, see section 106(f)(1) of Pub. L. 110–343, set out as an Effective and Termination Dates of 2008 Amendment note under section 36C of this title.
+Amendment by section 106(c)(3)(B) of Pub. L. 110–343 applicable to taxable years beginning after Dec. 31, 2007, see section 106(f)(1) of Pub. L. 110–343, set out as an Effective and Termination Dates of 2008 Amendment note under section 23 of this title.
 
-Pub. L. 110–343, div. B, title I, §108(e), Oct. 3, 2008, 122 Stat. 3821, provided that: “The amendments made by this section \[amending this section and section 45K of this title\] shall apply to fuel produced and sold after September 30, 2008.”
+Pub. L. 110–343, div. B, title I, §108(e), Oct. 3, 2008, 122 Stat. 3821, provided that: “The amendments made by this section \[amending this section and section 45K ofthis title\] shall apply to fuel produced and sold after September 30, 2008.”
 
 #### Effective Date of 2007 Amendment
 
@@ -794,7 +794,7 @@ Pub. L. 110–172, §9(c), Dec. 29, 2007, 121 Stat. 2484, provided that: “The 
 
 #### Effective Date of 2005 Amendments
 
-Amendment by section 402(b) of Pub. L. 109–135 effective as if included in the provision of the Energy Policy Act of 2005, Pub. L. 109–58, to which such amendment relates, see section 402(m)(1) of Pub. L. 109–135, set out as an Effective and Termination Dates of 2005 Amendments note under section 36C of this title.
+Amendment by section 402(b) of Pub. L. 109–135 effective as if included in the provision of the Energy Policy Act of 2005, Pub. L. 109–58, to which such amendment relates, see section 402(m)(1) of Pub. L. 109–135, set out as an Effective and Termination Dates of 2005 Amendments note under section 23 of this title.
 
 Amendment by section 403(t) of Pub. L. 109–135 effective as if included in the provisions of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
 
@@ -853,6 +853,8 @@ Section applicable to taxable years ending after Dec. 31, 1992, see section 1914
 #### Inflation Adjusted Items for Certain Tax Years
 
 Provisions relating to inflation adjustment of items in this section for certain tax years were contained in the following:
+
+<b>2011</b>—Internal Revenue Notice 2011–40.
 
 <b>2010</b>—Internal Revenue Notice 2010–37.
 

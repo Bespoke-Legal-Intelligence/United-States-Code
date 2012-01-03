@@ -44,11 +44,11 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–246, §7307(1), substituted “grants” for “grant” in heading.
+<b>2008</b>—Subsec. (a). Pub. L. 110–246, §7307(1), substituted “grants” for “grant” in heading.
 
 Subsec. (e). Pub. L. 110–246, §7307(2), substituted “2012” for “2007”.
 
-2002—Pub. L. 107–171, §7207(d)(4)(A), substituted “, triticale, and barley caused by Fusarium graminearum or by Tilletia indica” for “and barley caused by Fusarium graminearum” in section catchline.
+<b>2002</b>—Pub. L. 107–171, §7207(d)(4)(A), substituted “, triticale, and barley caused by Fusarium graminearum or by Tilletia indica” for “and barley caused by Fusarium graminearum” in section catchline.
 
 Subsec. (a). Pub. L. 107–171, §7207(d)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The Secretary of Agriculture may make a grant to a consortium of land-grant colleges and universities to enhance the ability of the consortium to carry out a multi-State research project aimed at understanding and combating diseases of wheat and barley caused by Fusarium graminearum and related fungi (referred to in this section as ‘wheat scab’).”
 

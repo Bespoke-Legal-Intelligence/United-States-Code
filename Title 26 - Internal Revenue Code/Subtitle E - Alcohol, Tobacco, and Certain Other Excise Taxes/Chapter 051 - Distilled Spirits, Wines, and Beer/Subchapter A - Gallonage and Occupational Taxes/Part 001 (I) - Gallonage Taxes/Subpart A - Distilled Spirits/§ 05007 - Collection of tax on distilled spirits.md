@@ -6,7 +6,7 @@ The tax on domestic distilled spirits and on distilled spirits removed from cust
 
 #### (b) Collection of tax on imported distilled spirits
 
-The internal revenue tax imposed by section 5001(a)(1) and (2) upon imported distilled spiritsshall be collected by the Secretary and deposited as internal revenue collections, under such regulations as the Secretary may prescribe. Section 5688 shall be applicable to the disposition of imported spirits.
+The internal revenue tax imposed by section 5001(a)(1) and (2) upon imported distilled spirits shall be collected by the Secretary and deposited as internal revenue collections, under such regulations as the Secretary may prescribe. Section 5688 shall be applicable to the disposition of imported spirits.
 
 #### (c) Cross references
 

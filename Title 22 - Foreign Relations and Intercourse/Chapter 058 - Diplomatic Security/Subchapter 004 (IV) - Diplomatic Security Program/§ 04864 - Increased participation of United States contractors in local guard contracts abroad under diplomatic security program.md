@@ -32,7 +32,7 @@ With respect to local guard contracts for a Foreign Service building which excee
 
 &emsp;(5) ensure that United States diplomatic and consular posts assist United States firms in obtaining local licenses and permits; and
 
-&emsp;(6) establish procedures to ensure that appropriate measures are taken by diplomaticand consular post management to assure that United States persons and qualified United States joint venture persons are not disadvantaged during the solicitation and bid evaluation process.
+&emsp;(6) establish procedures to ensure that appropriate measures are taken by diplomatic and consular post management to assure that United States persons and qualified United States joint venture persons are not disadvantaged during the solicitation and bid evaluation process.
 
 #### (d) Definitions
 
@@ -108,5 +108,5 @@ Subsec. (d)(4). Pub. L. 103–236, §141(2)(B)–(D), added par. (4).
 
 #### Authority of Secretary of State
 
-Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in any official or office of Department of State and references to such officials or offices deemed to refer to Secretary of State or Department of State, as appropriate, see section 2651a of this title and section 161(d) of Pub. L. 103–236, set out as a note under section 2651a of this title.
+Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in any official or office of Department of State and references to such officials or offices deemed to refer to Secretaryof State or Department of State, as appropriate, see section 2651a of this title and section 161(d) of Pub. L. 103–236, set out as a note under section 2651a of this title.
 

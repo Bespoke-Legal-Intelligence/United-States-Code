@@ -8,7 +8,7 @@
 
 (3) For purposes of this section—
 
-&emsp;(A) the term “implementing bill” means a bill introduced in either House of Congress with respect to one or more contracts oramendments to contracts submitted to the House of Representatives and the Senate under this section and which contains—
+&emsp;(A) the term “implementing bill” means a bill introduced in either House of Congress with respect to one or more contracts or amendments to contracts submitted to the House of Representatives and the Senate under this section and which contains—
 
 &emsp;&emsp;(i) a provision approving such contracts or amendments, or both; and
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-To be eligible to receive a subgrant under this subpart, a local educational agency shall submit an application to the State educational agency at such time, in such manner, and containing such information as the State educational agency may reasonably require.
+To be eligible to receive a subgrant under this subpart, a local educational agency shall submit an application to the State educational agencyat such time, in such manner, and containing such information as the State educational agency may reasonably require.
 
 #### (b) Contents
 
@@ -28,7 +28,7 @@ Each application submitted under this section shall be based on the needs assess
 
 &emsp;(4) A description of how the local educational agency will coordinate professional development activities authorized under this subpart with professional development activities provided through other Federal, State, and local programs.
 
-&emsp;(5) A description of the professional development activities that will be made available toteachers and principals under this subpart and how the local educational agency will ensure that the professional development (which may include teacher mentoring) needs of teachers and principals will be met using funds under this subpart.
+&emsp;(5) A description of the professional development activities that will be made available to teachers and principals under this subpart and how the local educational agency will ensure that the professional development (which may include teacher mentoring) needs of teachers and principals will be met using funds under this subpart.
 
 &emsp;(6) A description of how the local educational agency will integrate funds under this subpart with funds received under part D of this subchapter that are used for professional development to train teachers to integrate technology into curricula and instruction to improve teaching, learning, and technology literacy.
 

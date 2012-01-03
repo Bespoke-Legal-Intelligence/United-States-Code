@@ -22,7 +22,7 @@ To qualify for appointment as the Chief Operating Officer, a person shall—
 
 (1) The Chief Operating Officer shall be responsible to the Secretary of Defense for the overall direction, operation, and management of the Retirement Home and shall report to the Secretary on those matters.
 
-(2) The Chief Operating Officer shall supervise the operation and administration of the Armed Forces Retirement Home—Washington and the Armed Forces Retirement Home—Gulfport, including the Local Boards of those facilities.
+(2) The Chief Operating Officer shall supervise the operation and administration of the Armed Forces Retirement Home—Washington and the Armed Forces Retirement Home—Gulfport.
 
 (3) The Chief Operating Officer shall perform the following duties:
 
@@ -58,9 +58,11 @@ To qualify for appointment as the Chief Operating Officer, a person shall—
 
 (2) Monies received as gifts, or realized from the disposition of property and facilities received as gifts, shall be deposited in the Armed Forces Retirement Home Trust Fund.
 
-(Pub. L. 101–510, div. A, title XV, §1515, Nov. 5, 1990, 104 Stat. 1726; Pub. L. 102–190, div. A, title X, §1062(a)(4), Dec. 5, 1991, 105 Stat. 1475; Pub. L. 103–160, div. A, title III, §366(b), Nov. 30, 1993, 107 Stat. 1630; Pub. L. 104–201, div. A, title X, §1051(a), (b)(1), Sept. 23, 1996, 110 Stat. 2648; Pub. L. 107–107, div. A, title XIV, §1404(a), Dec. 28, 2001, 115 Stat. 1259.)
+(Pub. L. 101–510, div. A, title XV, §1515, Nov. 5, 1990, 104 Stat. 1726; Pub. L. 102–190, div. A, title X, §1062(a)(4), Dec. 5, 1991, 105 Stat. 1475; Pub. L. 103–160, div. A, title III, §366(b), Nov. 30, 1993, 107 Stat. 1630; Pub. L. 104–201, div. A, title X, §1051(a), (b)(1), Sept. 23, 1996, 110 Stat. 2648; Pub. L. 107–107, div. A, title XIV, §1404(a), Dec. 28, 2001, 115 Stat. 1259; Pub. L. 112–81, div. A, title V, §563(b)(2), Dec. 31, 2011, 125 Stat. 1423.)
 
 #### Amendments
+
+<b>2011</b>—Subsec. (c)(2). Pub. L. 112–81 struck out “, including the Local Boards of those facilities” before period at end.
 
 <b>2001</b>—Pub. L. 107–107 amended section catchline and text generally, substituting provisions relating to the Chief Operating Officer of the Retirement Home for provisions relating to the composition and operation of Retirement Home Board.
 
@@ -80,5 +82,5 @@ Section effective one year after Nov. 5, 1990, except that provisions of this se
 
 #### Savings Provision
 
-Section 1051(b)(2) of Pub. L. 104–201 provided that: “The amendment made by this subsection \[amending this section\] shall not affect the staggered terms of members of the Armed Forces Retirement Home Board or a Local Board of the Retirement Home under section 1515(f) of such Act \[subsec. (f) of this section\], as suchsection is in effect before the date of the enactment of this Act \[Sept. 23, 1996\].”
+Section 1051(b)(2) of Pub. L. 104–201 provided that: “The amendment made by this subsection \[amending this section\] shall not affect the staggered terms of members of the Armed Forces Retirement Home Board or a Local Board of the Retirement Home under section 1515(f) of such Act \[subsec. (f) of this section\], as such section is in effect before the date of the enactment of this Act \[Sept. 23, 1996\].”
 

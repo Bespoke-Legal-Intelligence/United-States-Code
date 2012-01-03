@@ -28,13 +28,13 @@ The Secretary shall, whenever the Secretary finds that the order or any provisio
 
 #### Amendments
 
-2002—Pub. L. 107–171 redesignated subsecs. (b) and (c) as (a) and (b), respectively, and struck out heading and text of former subsec. (a). Text read as follows: “Any order effective under this chapter shall be terminated December 31, 2002. The Secretary shall—
+<b>2002</b>—Pub. L. 107–171 redesignated subsecs. (b) and (c) as (a) and (b), respectively, and struck out heading and text of former subsec. (a). Text read as follows: “Any order effective under this chapter shall be terminated December 31, 2002. The Secretary shall—
 
 &emsp;“(1) terminate the collection of assessments under the order upon such date; and
 
 &emsp;“(2) terminate activities under the order in an orderly manner as soon as practicable after such date.”
 
-1996—Subsec. (a). Pub. L. 104–127, §146(e), substituted “2002” for “1996” in introductory provisions.
+<b>1996</b>—Subsec. (a). Pub. L. 104–127, §146(e), substituted “2002” for “1996” in introductory provisions.
 
 Subsec. (c)(1). Pub. L. 104–127, §146(d)(2)(A), substituted “fluid milk processors voting in the preceding referendum” for “all processors”.
 

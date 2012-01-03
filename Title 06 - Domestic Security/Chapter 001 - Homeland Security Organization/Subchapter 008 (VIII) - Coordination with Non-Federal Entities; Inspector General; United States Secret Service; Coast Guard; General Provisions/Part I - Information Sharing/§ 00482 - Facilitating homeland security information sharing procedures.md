@@ -8,7 +8,7 @@
 
 &emsp;(B) identify and safeguard homeland security information that is sensitive but unclassified; and
 
-&emsp;(C) to the extent such information is in classified form, determine whether, how, and to what extent to remove classified information, as appropriate, and with which such personnel it may be shared after such information is removed.
+&emsp;(C) to the extent such information is in classified form, determine whether, how, and to what extent to remove classified information, as appropriate, and with which such personnelit may be shared after such information is removed.
 
 (2) The President shall ensure that such procedures apply to all agencies of the Federal Government.
 
@@ -74,7 +74,7 @@
 
 &emsp;(iv) understanding the mission and roles of the intelligence community to promote more effective information sharing among Federal, State, and local officials and representatives of the private sector to prevent terrorist attacks against the United States.
 
-(B) The officials referred to in subparagraph (A) are officials of State and local government agencies and representatives of private sector entities with responsibilities relating to the oversight and management of first responders, counterterrorism activities, or critical infrastructure.
+(B) The officials referred to in subparagraph (A) are officials of State and local governmentagencies and representatives of private sector entities with responsibilities relating to the oversight and management of first responders, counterterrorism activities, or critical infrastructure.
 
 (C) The Secretary shall consult with the Attorney General to ensure that the training program established in subparagraph (A) does not duplicate the training program established in section 908 of the USA PATRIOT Act (Public Law 107–56; 28 U.S.C. 509 note).
 
@@ -132,7 +132,7 @@ This chapter, referred to in subsecs. (d) and (g), was in the original “this A
 
 #### Amendments
 
-2003—Subsec. (c)(3). Pub. L. 108–177 added par. (3).
+<b>2003</b>—Subsec. (c)(3). Pub. L. 108–177 added par. (3).
 
 #### Change of Name
 

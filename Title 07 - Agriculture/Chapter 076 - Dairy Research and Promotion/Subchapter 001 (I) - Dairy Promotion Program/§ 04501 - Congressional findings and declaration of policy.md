@@ -18,7 +18,7 @@
 
 #### Amendments
 
-2002—Subsec. (b). Pub. L. 107–171 inserted “and on imported dairy products” after “commercial use” and struck out “produced in the United States” after “fluid milk and dairy products” in first sentence and inserted “or the right of any person to import dairy products” before period at end of second sentence.
+<b>2002</b>—Subsec. (b). Pub. L. 107–171 inserted “and on imported dairy products” after “commercial use” and struck out “produced in the United States” after “fluid milk and dairy products” in first sentence and inserted “or the right of any person to import dairy products” before period at end of second sentence.
 
 #### Short Title
 

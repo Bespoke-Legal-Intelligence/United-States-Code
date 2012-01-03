@@ -62,7 +62,7 @@ Notwithstanding section 7701(a)(4), a foreign corporation shall be treated for p
 
 #### (4) Certain transfers disregarded
 
-&emsp;The transfer of properties or liabilities (including by contribution or distribution) shallbe disregarded if such transfers are part of a plan a principal purpose of which is to avoid the purposes of this section.
+&emsp;The transfer of properties or liabilities (including by contribution or distribution) shall be disregarded if such transfers are part of a plan a principal purpose of which is to avoid the purposes of this section.
 
 #### (5) Special rule for related partnerships
 

@@ -1,6 +1,6 @@
 ### §107. Certain service deemed not to be active service
 
-(a) Service before July 1, 1946, in the organized military forces of the Government of the Commonwealth of the Philippines, while such forces were in the service of the Armed Forces of the United States pursuant to the military order of the President dated July 26, 1941, including among such military forces organized guerrilla forces under commanders appointed, designated, or subsequently recognized by the Commander in Chief, Southwest Pacific Area, or other competent authority in the Army of the United States, shall not be deemed to have been active military, naval, or air service for the purposes of any law of the United States conferring rights, privileges, or benefits upon any person by reason of the service of such person or the service of any other person in the Armed Forces, except benefits under—
+(a) Service before July 1, 1946, in the organized military forces of the Government of the Commonwealth of the Philippines, while such forces were in the service of the Armed Forces of the United States pursuant to the military order of the President dated July 26, 1941, including among such military forces organized guerrilla forces under commanders appointed, designated, or subsequently recognized by the Commander in Chief, Southwest Pacific Area, or other competent authority in the Army of the United States, shall not be deemed to have been active military, naval, or air service for the purposes of any law of the United States conferring rights,privileges, or benefits upon any person by reason of the service of such person or the service of any other person in the Armed Forces, except benefits under—
 
 &emsp;(1) contracts of National Service Life Insurance entered into before February 18, 1946;
 
@@ -144,7 +144,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;“(5) Filipino veterans who were granted benefits prior to the enactment of the so-called Rescissions Acts of 1946 (Public Laws 79–301 \[60 Stat. 6\] and 79–391 \[60 Stat. 221\]) currently receive full benefits under laws administered by the Secretary of Veterans Affairs, but under section 107 of title 38, United States Code, the service of certain other Filipino veterans is deemed not to be active service for purposes of such laws.
 
-&emsp;“(6) These other Filipino veterans only receive certain benefits under title 38, United States Code, and, depending on where they legally reside, are paid such benefit amounts at reduced rates.
+&emsp;“(6) These other Filipino veterans only receive certain benefits under title 38, United States Code, and,depending on where they legally reside, are paid such benefit amounts at reduced rates.
 
 &emsp;“(7) The benefits such veterans receive include service-connected compensation benefits paid under chapter 11 of title 38, United States Code, dependency indemnity compensation survivor benefits paid under chapter 13 of title 38, United States Code, and burial benefits under chapters 23 and 24 of title 38, United States Code, and such benefits are paid to beneficiaries at the rate of $0.50 per dollar authorized, unless they lawfully reside in the United States.
 
@@ -160,7 +160,7 @@ In General.—There is in the general fund of the Treasury a fund to be known as
 
 &emsp;“(2)
 
-Availability of Funds.—Subject to the availability of appropriations for such purpose, amounts in the fund shall be available to the Secretary of Veterans Affairs without fiscal year limitation to makepayments to eligible persons in accordance with this section.
+Availability of Funds.—Subject to the availability of appropriations for such purpose, amounts in the fund shall be available to the Secretary of Veterans Affairs without fiscal year limitation to make payments to eligible persons in accordance with this section.
 
 “(c)
 

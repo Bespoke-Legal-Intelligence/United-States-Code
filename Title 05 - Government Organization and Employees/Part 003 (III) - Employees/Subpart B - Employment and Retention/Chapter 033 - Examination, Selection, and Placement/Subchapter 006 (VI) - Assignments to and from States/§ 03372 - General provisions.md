@@ -22,7 +22,7 @@
 
 (2) Each agreement required under paragraph (1) of this subsection shall provide that in the event the employee fails to carry out the agreement (except for good and sufficient reason, as determined by the head of the Federal agency from which assigned) the employee shall be liable to the United States for payment of all expenses (excluding salary) of the assignment. The amount shall be treated as a debt due the United States.
 
-(d) Where the employee is assigned to a tribal organization, the employee shall be eligible forpromotions, periodic step-increases, and additional step-increases, as defined in chapter 53 of this title, on the same basis as other Federal employees.
+(d) Where the employee is assigned to a tribal organization, the employee shall be eligible for promotions, periodic step-increases, and additional step-increases, as defined in chapter 53 of this title, on the same basis as other Federal employees.
 
 (e) Under regulations prescribed pursuant to section 3376 of this title—
 
@@ -30,25 +30,25 @@
 
 &emsp;(2) an assignment of an employee of an other organization or an institution of higher education to a Federal agency, and an employee so assigned, shall be treated in the same way as an assignment of an employee of a State or local government to a Federal agency, and an employee so assigned, is treated under the provisions of this subchapter governing an assignment of an employee of a State or local government to a Federal agency.
 
-(Added Pub. L. 91–648, title IV, §402(a), Jan. 5, 1971, 84 Stat. 1921; amended Pub. L. 93–638, title I, §104(k), (<i>l</i>), as added Pub. L. 100–472, title II, §203(f), Oct. 5, 1988, 102 Stat. 2290; Pub. L. 95–454, title VI, §603(b), (c), Oct. 13, 1978, 92 Stat. 1190; Pub. L. 98–146, title II, Nov. 4, 1983, 97 Stat. 946; Pub. L. 103–89, §3(b)(1)(A), Sept. 30, 1993, 107 Stat. 981; Pub. L. 103–337, div. A, title X, §1068(b), Oct. 5, 1994, 108 Stat. 2852.)
+(Added Pub. L. 91–648, title IV, §402(a), Jan. 5, 1971, 84 Stat. 1921; amended Pub. L. 93–638, title I, §104(k), (<i>l</i>), as added Pub. L. 100–472, title II, §203(f), Oct. 5, 1988, 102 Stat. 2290; Pub. L. 95–454, title VI, §603(b), (c), Oct. 13, 1978, 92 Stat. 1190; Pub. L. 98–146, title II, Nov. 4, 1983, 97 Stat. 946;Pub. L. 103–89, §3(b)(1)(A), Sept. 30, 1993, 107 Stat. 981; Pub. L. 103–337, div. A, title X, §1068(b), Oct. 5, 1994, 108 Stat. 2852.)
 
 #### Amendments
 
-1994—Subsec. (e). Pub. L. 103–337 added subsec. (e).
+<b>1994</b>—Subsec. (e). Pub. L. 103–337 added subsec. (e).
 
-1993—Subsec. (d). Pub. L. 103–89 substituted “and additional step-increases, as defined in chapter 53” for “additional step-increases, merit pay, and cash awards, as defined in chapters 53 and 54”.
+<b>1993</b>—Subsec. (d). Pub. L. 103–89 substituted “and additional step-increases, as defined in chapter 53” for “additional step-increases, merit pay, and cash awards, as defined in chapters 53 and 54”.
 
-1988—Subsecs. (a), (d). Pub. L. 100–472 added Pub. L. 93–638, §104(k), (<i>l</i>). See 1975 Amendment note below.
+<b>1988</b>—Subsecs. (a), (d). Pub. L. 100–472 added Pub. L. 93–638, §104(k), (<i>l</i>). See 1975 Amendment note below.
 
-1983—Subsec. (a). Pub. L. 98–146 inserted sentence providing that, in the case of assignments made to Indian tribes or tribal organizations as defined in section 3371(2)(C) of this title, the head of an executive agency may extend the period of assignment for any period of time where it is determined that this will continue to benefit both the executive agency and the Indian tribe or tribal organization.
+<b>1983</b>—Subsec. (a). Pub. L. 98–146 inserted sentence providing that, in the case of assignments made to Indian tribes or tribal organizations as defined in section 3371(2)(C) of this title, the head of an executive agency may extend the period of assignment for any period of time where it is determined that this will continue to benefit both the executive agency and the Indian tribe or tribal organization.
 
-1978—Subsec. (a). Pub. L. 95–454, §603(b), (c)(1), substituted “a Federal” for “an executive” wherever appearing, and in cl. (1) inserted provisions relating to a noncareer appointee, limited term appointee, or limited emergency appointee, and an employee excepted from the competitive service.
+<b>1978</b>—Subsec. (a). Pub. L. 95–454, §603(b), (c)(1), substituted “a Federal” for “an executive” wherever appearing, and in cl. (1) inserted provisions relating to a noncareer appointee, limited term appointee, or limited emergency appointee, and an employee excepted from the competitive service.
 
 Subsec. (b). Pub. L. 95–454, §603(b), (c)(2)–(4), in cls. (1) and (2) substituted “a Federal” for “an executive”, and added cls. (3) and (4).
 
 Subsec. (c). Pub. L. 95–454, §603(c)(5), added subsec. (c).
 
-1975—Subsec. (a). Pub. L. 93–638, §104(k), as added by Pub. L. 100–472, inserted at end “If the assigned employee fails to complete the period of assignment and there is another employee willing and available to do so, the Secretary may assign the employee to complete the period of assignment and may execute an agreement with the tribal organization with respect to the replacement employee. That agreement may provide for a different period of assignment as may be agreed to by the Secretary and the tribal organization.”
+<b>1975</b>—Subsec. (a). Pub. L. 93–638, §104(k), as added by Pub. L. 100–472, inserted at end “If the assigned employee fails to complete the period of assignment and there is another employee willing and available to do so, the Secretary may assign the employee to complete the period of assignment and may execute an agreement with the tribal organization with respect to the replacement employee. That agreement may provide for a different period of assignment as may be agreed to by the Secretary and the tribal organization.”
 
 Subsec. (d). Pub. L. 93–638, §104(<i>l</i>), as added by Pub. L. 100–472, added subsec. (d).
 

@@ -74,7 +74,7 @@ Every organization described in section 501(c)(3) which is subject to the requir
 
 &emsp;&emsp;(D) the grass roots nontaxable amount (as defined in section 4911(c)(4)),
 
-&emsp;(9) such other information with respect to direct or indirect transfers to, and other direct or indirect transactions and relationshipswith, other organizations described in section 501(c) (other than paragraph (3) thereof) or section 527 as the Secretary may require to prevent—
+&emsp;(9) such other information with respect to direct or indirect transfers to, and other direct or indirect transactions and relationships with, other organizations described in section 501(c) (other than paragraph (3) thereof) or section 527 as the Secretary may require to prevent—
 
 &emsp;&emsp;(A) diversion of funds from the organization's exempt purpose, or
 
@@ -144,7 +144,7 @@ The following organizations shall comply with the requirements of this section i
 
 &emsp;&emsp;If this subsection applies to an organization for any taxable year, such organization—
 
-&emsp;&emsp;&emsp;(i) shall include on any return required to be filed under subsection (a) for such year information setting forth the total expenditures of the organization to which section 162(e)(1) applies and the total amount of the dues or other similaramounts paid to the organization to which such expenditures are allocable, and
+&emsp;&emsp;&emsp;(i) shall include on any return required to be filed under subsection (a) for such year information setting forth the total expenditures of the organization to which section 162(e)(1) applies and the total amount of the dues or other similar amounts paid to the organization to which such expenditures are allocable, and
 
 &emsp;&emsp;&emsp;(ii) except as provided in paragraphs (2)(A)(i) and (3), shall, at the time of assessment or payment of such dues or other similar amounts, provide notice to each person making such payment which contains a reasonable estimate of the portion of such dues or other similar amounts to which such expenditures are so allocable.
 
@@ -390,7 +390,7 @@ Subsec. (m). Pub. L. 109–280, §1245(b), redesignated subsec. (<i>l</i>) as (m
 
 Subsec. (b)(10)(C). Pub. L. 105–34, §1603(b)(1)(B), inserted at end “except to the extent that, by reason of section 4962, the taxes imposed under such section are not required to be paid or are credited or refunded,”.
 
-Subsec. (b)(11). Pub. L. 105–34, §1603(b)(2), amended par. (11) generally. Prior to amendment, par. (11) read as follows: “the respective amounts (if any) of the taxes paid by the organization, or any disqualified person with respect to such organization, during the taxable year under section 4958 (relating to taxes on private excess benefit from certain charitable organizations),”.
+Subsec. (b)(11). Pub. L. 105–34, §1603(b)(2), amended par. (11) generally. Prior to amendment, par. (11) readas follows: “the respective amounts (if any) of the taxes paid by the organization, or any disqualified person with respect to such organization, during the taxable year under section 4958 (relating to taxes on private excess benefit from certain charitable organizations),”.
 
 <b>1996</b>—Subsec. (b)(10) to (14). Pub. L. 104–168, §1312(a), added pars. (10) to (13) and redesignated former par. (10) as (14).
 
@@ -484,7 +484,7 @@ Section 10703(b) of Pub. L. 100–203 provided that: “The amendments made by s
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1986, see section 1501(e) of Pub. L. 99–514, set out as an Effective Date note under section 6721 of this title.
+Amendment by Pub. L. 99–514 applicable to returns the due date for which (determined without regard toextensions) is after Dec. 31, 1986, see section 1501(e) of Pub. L. 99–514, set out as an Effective Date note under section 6721 of this title.
 
 #### Effective Date of 1980 Amendment
 

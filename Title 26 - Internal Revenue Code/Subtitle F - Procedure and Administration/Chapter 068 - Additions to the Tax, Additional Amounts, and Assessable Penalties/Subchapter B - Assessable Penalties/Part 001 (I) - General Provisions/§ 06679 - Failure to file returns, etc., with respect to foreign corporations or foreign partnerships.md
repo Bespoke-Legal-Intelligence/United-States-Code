@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;In addition to any criminal penalty provided by law, any person required to file a return under section <sup>1</sup> 6046 and 6046A who fails to file such return at the time provided in such section, or who files a return which does not show the information required pursuant to such section, shall pay a penalty of $10,000, unless it is shown that such failure is due to reasonable cause.
+&emsp;In addition to any criminal penalty provided by law, any person required to file a return under section <sup>1</sup> 6046 and 6046A who fails to file such return at the time provided in such section, or who files a return which does not showthe information required pursuant to such section, shall pay a penalty of $10,000, unless it is shown that such failure is due to reasonable cause.
 
 #### (2) Increase in penalty where failure continues after notification
 
@@ -40,7 +40,7 @@ Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporatio
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable to transfers and changes after Aug. 5, 1997, see section 1143(c) ofPub. L. 105–34, set out as a note under section 6046A of this title.
+Amendment by Pub. L. 105–34 applicable to transfers and changes after Aug. 5, 1997, see section 1143(c) of Pub. L. 105–34, set out as a note under section 6046A of this title.
 
 #### Effective Date of 1983 Amendment
 

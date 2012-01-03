@@ -95,7 +95,7 @@
 
 <b>1974</b>—Pub. L. 93–508, title III, §303(b), Dec. 3, 1974, 88 Stat. 1592, added item 1737.
 
-<b>1972</b>—Pub. L. 92–540, title IV, §405, Oct. 24, 1972, 86 Stat. 1091, substituted in item 1733 “Special assistance for the educationally disadvantaged” for “Measurement of courses”, in item 1734 “Apprenticeship or other on-job training; correspondence courses” for “Overcharges by educational institutions”, and in item 1736 “Specialized vocational training courses” for “Discontinuance of allowances”, and struck out item 1722 “Change of program”, item 1725 “Period of operation for approval”, and item 1737 “Specialized vocational training courses”.
+<b>1972</b>—Pub. L. 92–540, title IV, §405, Oct. 24, 1972, 86 Stat. 1091, substituted in item 1733 “Special assistance for the educationally disadvantaged” for “Measurement of courses”, in item 1734 “Apprenticeship or other on-job training; correspondence courses” for “Overcharges by educational institutions”, and in item 1736“Specialized vocational training courses” for “Discontinuance of allowances”, and struck out item 1722 “Change of program”, item 1725 “Period of operation for approval”, and item 1737 “Specialized vocational training courses”.
 
 <b>1970</b>—Pub. L. 91–219, title II, §207(b), Mar. 26, 1970, 84 Stat. 82, inserted item 1763.
 

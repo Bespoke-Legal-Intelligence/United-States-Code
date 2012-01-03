@@ -60,13 +60,41 @@ Waivers by State Authorities.—If a certification under section 60105 of this t
 
 (e)
 
-Operator Assistance in Investigations.—If the Secretary or the National Transportation Safety Board investigate <sup>1</sup> an accident involving a pipeline facility, the operator of the facility shall make available to the Secretary or the Board all records and information that in any way pertain to the accident (including integrity management plans and test results), and shall afford all reasonable assistance in the investigation of the accident.
+Operator Assistance in Investigations.—
+
+&emsp;(1)
+
+Assistance and access.—If the Secretary or the National Transportation Safety Board investigates an accident or incident involving a pipeline facility, the operator of the facility shall—
+
+&emsp;&emsp;(A) make available to the Secretary or the Board all records and information that in any way pertain to the accident or incident, including integrity management plans and test results; and
+
+&emsp;&emsp;(B) afford all reasonable assistance in the investigation of the accident or incident.
+
+&emsp;(2)
+
+Operator assistance in investigations.—
+
+&emsp;&emsp;(A)
+
+In general.—The Secretary may impose a civil penalty under section 60122 on a person who obstructs or prevents the Secretary from carrying out inspections or investigations under this chapter.
+
+&emsp;&emsp;(B)
+
+Obstructs defined.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—In this paragraph, the term “obstructs” includes actions that were known, or reasonably should have been known, to prevent, hinder, or impede an investigation without good cause.
+
+&emsp;&emsp;&emsp;(ii)
+
+Good cause.—In clause (i), the term “good cause” may include actions such as restricting access to facilities that are not secure or safe for nonpipeline personnel or visitors.
 
 (f)
 
 Limitation on Statutory Construction.—Nothing in this section may be construed to infringe upon the constitutional rights of an operator or its employees.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1322; Pub. L. 104–304, §13, Oct. 12, 1996, 110 Stat. 3802; Pub. L. 107–355, §§10(a), (c), 14(c), Dec. 17, 2002, 116 Stat. 2995, 2996, 3005; Pub. L. 109–468, §10, Dec. 29, 2006, 120 Stat. 3494.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1322; Pub. L. 104–304, §13, Oct. 12, 1996, 110 Stat. 3802; Pub. L. 107–355, §§10(a), (c), 14(c), Dec. 17, 2002, 116 Stat. 2995, 2996, 3005; Pub. L. 109–468, §10, Dec. 29, 2006, 120 Stat. 3494; Pub. L. 112–90, §2(b), Jan. 3, 2012, 125 Stat. 1905.)
 
 Historical and Revision Notes
 
@@ -130,6 +158,8 @@ In subsection (d), the words “to which the certification or agreement applies�
 
 #### Amendments
 
+<b>2012</b>—Subsec. (e). Pub. L. 112–90 amended subsec. (e) generally. Prior to amendment, text read as follows: “If the Secretary or the National Transportation Safety Board investigate an accident involving a pipeline facility, the operator of the facility shall make available to the Secretary or the Board all records and information that in any way pertain to the accident (including integrity management plans and test results), and shall afford all reasonable assistance in the investigation of the accident.”
+
 <b>2006</b>—Subsec. (c). Pub. L. 109–468 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “On application of a person owning or operating a pipeline facility, the Secretary by order may waive compliance with any part of an applicable standard prescribed under this chapter on terms the Secretary considers appropriate, if the waiver is not inconsistent with pipeline safety. The Secretary shall state the reasons for granting a waiver under this subsection. The Secretary may act on a waiver only after notice and an opportunity for a hearing.”
 
 <b>2002</b>—Subsec. (a)(4). Pub. L. 107–355, §14(c), added par. (4).
@@ -145,6 +175,4 @@ Subsec. (a)(1). Pub. L. 104–304, §13(a)(2), added par. (1) and struck out for
 Subsec. (b). Pub. L. 104–304, §13(b), reenacted subsec. heading without change and amended text generally. Prior to amendment, text read as follows: “The Secretary of Transportation may issue orders directing compliance with this chapter or a regulation prescribed under this chapter. An order shall state clearly the action a person must take to comply.”
 
 Subsec. (c). Pub. L. 104–304, §13(c), substituted “owning” for “transporting gas or hazardous liquid”.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “investigates”.</i>
 

@@ -18,7 +18,7 @@ Subsec. (b). Pub. L. 95–105, §106(a)(2), substituted “to carry out” for �
 
 <b>1966</b>—Pub. L. 89–636 designated existing provisions as subsec. (a) and added subsec. (b).
 
-<b>1963</b>—Pub. L. 88–94 struck out “, subject to the direction of the commission hereinafter established,” after “is empowered”, “under such terms and conditions as in the judgment of the commission may best protect the interests of the United States,” after “in part,” and “, to the extent deemed advisable by the commission,” after “consolidating” and substituted “. The space in such buildings shall be allotted by the Secretary of State” for “, which buildings shall be appropriately designated by the commission, and the space in which shall be allotted by the Secretary of State under the direction of the commission.”
+<b>1963</b>—Pub. L. 88–94 struck out “, subject to the direction of the commission hereinafter established,” after “is empowered”, “under such terms and conditions as in the judgment of the commission may best protect the interests of the United States,” after “in part,” and “, to the extent deemed advisable by the commission,” after “consolidating” and substituted “. The space in such buildings shall be allotted by the Secretary of State” for “, which buildings shall be appropriately designated by the commission, and the space in whichshall be allotted by the Secretary of State under the direction of the commission.”
 
 <b>1928</b>—Act May 29, 1928, inserted “or by exchange, in whole or in part, under such terms and conditions as in the judgment of the commission may best protect the interest of the United States, of any building or grounds of the United States in foreign countries and under the jurisdiction and control of the Secretary of State”.
 

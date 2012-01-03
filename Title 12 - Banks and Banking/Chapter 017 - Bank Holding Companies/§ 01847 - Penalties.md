@@ -16,7 +16,7 @@
 
 #### (2) Assessment; etc.
 
-&emsp;Any penalty imposed under paragraph (1) may be assessed and collected by the Board in the manner provided in subparagraphs (E), (F), (G), and (I) of section 1818(i)(2) of this title for penalties imposed (under such section) and any such assessment shall be subject to the provisions of such section.
+&emsp;Any penalty imposed under paragraph (1) may be assessed and collected by the Board inthe manner provided in subparagraphs (E), (F), (G), and (I) of section 1818(i)(2) of this title for penalties imposed (under such section) and any such assessment shall be subject to the provisions of such section.
 
 #### (3) Hearing
 
@@ -36,7 +36,7 @@
 
 #### (c) Notice under this section after separation from service
 
-The resignation, termination of employment or participation, or separation of an institution-affiliated party (within the meaning of section 1813(u) of this title) with respect to a bank holding company (including a separation caused bythe deregistration of such a company) shall not affect the jurisdiction and authority of the Board to issue any notice and proceed under this section against any such party, if such notice is served before the end of the 6-year period beginning on the date such party ceased to be such a party with respect to such holding company (whether such date occurs before, on, or after August 9, 1989).
+The resignation, termination of employment or participation, or separation of an institution-affiliated party (within the meaning of section 1813(u) of this title) with respect to a bank holding company (including a separation caused by the deregistration of such a company) shall not affect the jurisdiction and authority of the Board to issue any notice and proceed under this section against any such party, if such notice is served before the end of the 6-year period beginning on the date such party ceased to be such a party with respect to such holding company (whether such date occurs before, on, or after August 9, 1989).
 
 #### (d) Penalty for failure to make reports
 
@@ -80,11 +80,11 @@ The resignation, termination of employment or participation, or separation of an
 
 #### Amendments
 
-1989—Subsec. (a). Pub. L. 101–73, §907(j)(1), substituted heading and pars. (1) and (2) for first two sentences which read as follows: “Any company which willfully violates any provision of this chapter, or any regulation or order issued by the Board pursuant thereto, shall upon conviction be fined not more than $1,000 for each day during which the violation continues. Any individual who willfully participates in a violation of any provision of this chapter shall upon conviction be fined not more than $10,000 or imprisoned not more than one year, or both.”
+<b>1989</b>—Subsec. (a). Pub. L. 101–73, §907(j)(1), substituted heading and pars. (1) and (2) for first two sentences which read as follows: “Any company which willfully violates any provision of this chapter, or any regulation or order issued by the Board pursuant thereto, shall upon conviction be fined not more than $1,000 for each day during which the violation continues. Any individual who willfully participates in a violation of any provision of this chapter shall upon conviction be fined not more than $10,000 or imprisoned not more than one year, or both.”
 
 Subsec. (b). Pub. L. 101–73, §907(j)(2), added headings and amended text generally. Prior to amendment, subsec. (b) read as follows:
 
-“(1) Any company which violates or any individual who participates in a violation of any provision of this chapter, or any regulation or order issued pursuant thereto, shall forfeit and pay a civil penalty of not more than $1,000 per day for each day during which such violation continues: <i>Provided</i>, That the Board may, in its discretion, compromise, modify, or remit any civil money penalty which is subject to imposition or has been imposed under authority of this subsection. The penalty may be assessed and collected by the Board by written notice. As used in the section, the term ‘violates’ includes without any limitation any action (alone or with another or others) for or toward causing, bringing about, participating in, counseling, or aiding or abetting a violation.
+“(1) Any company which violates or any individual who participates in a violation of any provision of thischapter, or any regulation or order issued pursuant thereto, shall forfeit and pay a civil penalty of not more than $1,000 per day for each day during which such violation continues: <i>Provided</i>, That the Board may, in its discretion, compromise, modify, or remit any civil money penalty which is subject to imposition or has been imposed under authority of this subsection. The penalty may be assessed and collected by the Board by written notice. As used in the section, the term ‘violates’ includes without any limitation any action (alone or with another or others) for or toward causing, bringing about, participating in, counseling, or aiding or abetting a violation.
 
 “(2) In determining the amount of the penalty the Board shall take into account the appropriateness of the penalty with respect to the size of financial resources and good faith of the company or person charged, the gravity of the violation, the history of previous violations, and such other matters as justice may require.
 
@@ -100,9 +100,9 @@ Subsec. (c). Pub. L. 101–73, §905(i), added subsec. (c).
 
 Subsec. (d). Pub. L. 101–73, §911(e), added subsec. (d).
 
-1982—Subsec. (b)(1). Pub. L. 97–320 inserted proviso giving the Board discretionary authority to compromise, etc., any civil money penalty imposed under this subsection, and substituted “may be assessed” for “shall be assessed”.
+<b>1982</b>—Subsec. (b)(1). Pub. L. 97–320 inserted proviso giving the Board discretionary authority to compromise, etc., any civil money penalty imposed under this subsection, and substituted “may be assessed” for “shall be assessed”.
 
-1978—Pub. L. 95–630 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1978</b>—Pub. L. 95–630 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 1989 Amendment
 

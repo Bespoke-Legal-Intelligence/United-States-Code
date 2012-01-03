@@ -14,7 +14,7 @@ For purposes of section 148, the yield on a qualified bond shall be reduced by t
 
 #### (d) Interest payment date
 
-For purposes of this subsection, the term “interest payment date” means each date on which interest is payable by the issuer under the terms of the bond.
+For purposes of this subsection, the term “interest payment date” means each date on whichinterest is payable by the issuer under the terms of the bond.
 
 #### (e) Qualified bond
 

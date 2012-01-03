@@ -132,7 +132,7 @@ Operation.—An electronic benefit transfer system should take into account gene
 
 &emsp;&emsp;(ii) in the case of other participating stores, at a sufficient number of registers to provide service that is comparable to service provided individuals who are not members of households receiving supplemental nutrition assistance program benefits, as determined by the Secretary.
 
-(4) Administrative costs incurred in connection with activities under this subsection shallbe eligible for reimbursement in accordance with section 2025 of this title, subject to the limitations in section 2025(g) of this title.
+(4) Administrative costs incurred in connection with activities under this subsection shall be eligible for reimbursement in accordance with section 2025 of this title, subject to the limitations in section 2025(g) of this title.
 
 (5) The Secretary shall periodically inform State agencies of the advantages of using electronic benefit systems to issue benefits in accordance with this subsection in lieu of issuing coupons to households.
 
@@ -214,7 +214,7 @@ In general.—A State agency shall establish a procedure for recovering electron
 
 &emsp;(B)
 
-Benefit storage.—A State agency may store recovered electronic benefits off-line in accordance with subparagraph (D), if the household has not accessed the account after 6 months.
+Benefit storage.—A State agency may store recovered electronic benefits off-line inaccordance with subparagraph (D), if the household has not accessed the account after 6 months.
 
 &emsp;(C)
 
@@ -312,7 +312,7 @@ Interchange fees.—No interchange fees shall apply to electronic benefit transf
 
 #### (H) Switching
 
-&emsp;&emsp;The term “switching” means the routing of an interstate transaction that consists of transmitting the details of a transaction electronically recorded through the use of an electronic benefit transfer card in 1 State to the issuer of the card that is in another State.
+&emsp;&emsp;The term “switching” means the routing of an interstate transaction that consists of transmitting the details of a transaction electronically recorded through the use ofan electronic benefit transfer card in 1 State to the issuer of the card that is in another State.
 
 #### (2) Requirement
 
@@ -380,9 +380,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2010—Subsec. (h)(10). Pub. L. 111–203 amended par. (10) generally. Prior to amendment, text read as follows: “Disclosures, protections, responsibilities, and remedies established by the Federal Reserve Board under section 1693b of title 15 shall not apply to benefits under this chapter delivered through any electronic benefit transfer system.”
+<b>2010</b>—Subsec. (h)(10). Pub. L. 111–203 amended par. (10) generally. Prior to amendment, text read as follows:“Disclosures, protections, responsibilities, and remedies established by the Federal Reserve Board under section 1693b of title 15 shall not apply to benefits under this chapter delivered through any electronic benefit transfer system.”
 
-2008—Pub. L. 110–246, §4115(a)(1), substituted “program benefits” for “coupons” in section catchline.
+<b>2008</b>—Pub. L. 110–246, §4115(a)(1), substituted “program benefits” for “coupons” in section catchline.
 
 Subsec. (a). Pub. L. 110–246, §4115(a)(1), inserted heading and substituted “Except as provided in subsection (i), EBT cards shall be” for “Coupons shall be printed under such arrangements and in such denominations as may be determined by the Secretary to be necessary, and (except as provided in subsection (j) of this section) shall be”.
 
@@ -454,15 +454,15 @@ Pub. L. 110–246, §4001(b), substituted “supplemental nutrition assistance p
 
 Subsec. (k)(5)(B)(ii), (C). Pub. L. 110–246, §4001(b), substituted “supplemental nutrition assistance program” for “food stamp program” wherever appearing.
 
-2002—Subsec. (i)(2). Pub. L. 107–171 redesignated subpars. (B) to (I) as (A) to (H), respectively, and struck out former subpar. (A) which read as follows: “determining the cost-effectiveness of the system to ensure that its operational cost, including the pro rata cost of capital expenditures and other reasonable startup costs, does not exceed the operational cost of issuance systems in use prior to the implementation of the electronic benefit transfer system;”.
+<b>2002</b>—Subsec. (i)(2). Pub. L. 107–171 redesignated subpars. (B) to (I) as (A) to (H), respectively, and struck out former subpar. (A) which read as follows: “determining the cost-effectiveness of the system to ensure that its operational cost, including the pro rata cost of capital expenditures and other reasonable startup costs, does not exceed the operational cost of issuance systems in use prior to the implementation of the electronic benefit transfer system;”.
 
-2000—Subsec. (k). Pub. L. 106–171 added subsec. (k).
+<b>2000</b>—Subsec. (k). Pub. L. 106–171 added subsec. (k).
 
-1997—Subsec. (a). Pub. L. 105–18, title VII, \[(a)(1)\], inserted “(except as provided in subsection (j) of this section)” after “necessary, and”.
+<b>1997</b>—Subsec. (a). Pub. L. 105–18, title VII, \[(a)(1)\], inserted “(except as provided in subsection (j) of this section)” after “necessary, and”.
 
 Subsec. (j). Pub. L. 105–18, title VII, \[(a)(2)\], added subsec. (j).
 
-1996—Subsec. (i). Pub. L. 104–193, §825(a)(1), inserted subsec. heading.
+<b>1996</b>—Subsec. (i). Pub. L. 104–193, §825(a)(1), inserted subsec. heading.
 
 Subsec. (i)(1). Pub. L. 104–193, §825(a)(1), added par. (1) and struck out former par. (1) which read as follows:
 
@@ -480,33 +480,33 @@ Subsec. (i)(2)(I). Pub. L. 104–193, §825(a)(2)(D)–(F), added subpar. (I).
 
 Subsec. (i)(7) to (11). Pub. L. 104–193, §825(a)(3), added pars. (7) to (11).
 
-1994—Subsec. (h)(1). Pub. L. 103–225 inserted second sentence and struck out former second sentence which read as follows: “The State agency shall establish such a procedure for eligible households residing on reservations.”
+<b>1994</b>—Subsec. (h)(1). Pub. L. 103–225 inserted second sentence and struck out former second sentence which read as follows: “The State agency shall establish such a procedure for eligible households residing on reservations.”
 
-1990—Subsec. (h). Pub. L. 101–624, §1728, amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “The State agency may implement a procedure for staggering the issuance of coupons to eligible households throughout the entire month: <i>Provided</i>, That the procedure ensures that, in the transition period from other issuance procedures, no eligible household experiences an interval between coupon issuances of more than 40 days, either through regular issuances by the State agency or through supplemental issuances.”
+<b>1990</b>—Subsec. (h). Pub. L. 101–624, §1728, amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “The State agency may implement a procedure for staggering the issuance of coupons to eligible households throughout the entire month: <i>Provided</i>, That the procedure ensures that, in the transition period from other issuance procedures, no eligible household experiences an interval between coupon issuances of more than 40 days, either through regular issuances by the State agency or through supplemental issuances.”
 
 Subsec. (i). Pub. L. 101–624, §1729(a), added subsec. (i).
 
-1988—Subsec. (h). Pub. L. 100–435 struck out par. (1) designation and par. (2) which read as follows: “For any eligible household that applies for participation in the food stamp program during the last fifteen days of a month and is issued benefits within that period, coupons shall be issued for the first full month of participation by the the \[sic\] eighth day of the first full month of participation.”
+<b>1988</b>—Subsec. (h). Pub. L. 100–435 struck out par. (1) designation and par. (2) which read as follows: “For any eligible household that applies for participation in the food stamp program during the last fifteen days of a month and is issued benefits within that period, coupons shall be issued for the first full month of participation by the the \[sic\] eighth day of the first full month of participation.”
 
-1985—Subsec. (g)(1). Pub. L. 99–198, §1519, substituted “shall” for “may” in provisions preceding subpar. (A).
+<b>1985</b>—Subsec. (g)(1). Pub. L. 99–198, §1519, substituted “shall” for “may” in provisions preceding subpar. (A).
 
 Subsec. (h). Pub. L. 99–198, §1518, added subsec. (h).
 
-1982—Subsec. (f). Pub. L. 97–253, §190(c)(2), substituted reference to section 2020(e)(20) of this title for former reference to section 2020(e)(21) of this title.
+<b>1982</b>—Subsec. (f). Pub. L. 97–253, §190(c)(2), substituted reference to section 2020(e)(20) of this title for former reference to section 2020(e)(21) of this title.
 
 Subsec. (g). Pub. L. 97–253, §162, added subsec. (g).
 
-1981—Subsec. (f). Pub. L. 97–98 substituted “strictly liable” for “responsible” and inserted provision including any losses involving failure of a coupon issuer to comply with the requirements of section 2020(e)(21) ofthis title, except that in the case of losses resulting from the issuance and replacement of authorizations for coupons and allotments sent through the mail, State agency liability be to the extent prescribed in regulations.
+<b>1981</b>—Subsec. (f). Pub. L. 97–98 substituted “strictly liable” for “responsible” and inserted provision including any losses involving failure of a coupon issuer to comply with the requirements of section 2020(e)(21) of this title, except that in the case of losses resulting from the issuance and replacement of authorizations for coupons and allotments sent through the mail, State agency liability be to the extent prescribed in regulations.
 
-1977—Pub. L. 95–113 substituted revised provisions relating to issuance and use of coupons for provisions relating to value of the coupon allotment which are now covered by section 2017 of this title.
+<b>1977</b>—Pub. L. 95–113 substituted revised provisions relating to issuance and use of coupons for provisions relating to value of the coupon allotment which are now covered by section 2017 of this title.
 
-1976—Subsec. (d). Pub. L. 94–339 designated existing provisions as par. (1) and added pars. (2) to (7).
+<b>1976</b>—Subsec. (d). Pub. L. 94–339 designated existing provisions as par. (1) and added pars. (2) to (7).
 
-1973—Subsec. (a). Pub. L. 93–125 substituted “for households of a given size unless the increase in the face value” for “for value”.
+<b>1973</b>—Subsec. (a). Pub. L. 93–125 substituted “for households of a given size unless the increase in the face value” for “for value”.
 
 Pub. L. 93–86 substituted provisions relating to determination of semiannual adjustments in face value of coupon allotment for provisions relating to determination of annual adjustments in such allotment.
 
-1971—Subsec. (a). Pub. L. 91–671 substituted provision for issuance of coupon allotment in such amount as the Secretary determines to be the cost of a nutritionally adequate diet, adjusted annually to reflect changes in prices of food published by Bureau of Labor Statistics for prior provision for issuance in such amount as will provide households with an opportunity more nearly to obtain a low-cost nutritionally adequate diet and inserted “any” before “households”.
+<b>1971</b>—Subsec. (a). Pub. L. 91–671 substituted provision for issuance of coupon allotment in such amount as the Secretary determines to be the cost of a nutritionally adequate diet, adjusted annually to reflect changes in prices of food published by Bureau of Labor Statistics for prior provision for issuance in such amount as will provide households with an opportunity more nearly to obtain a low-cost nutritionally adequate diet and inserted “any” before “households”.
 
 Subsec. (b). Pub. L. 91–671 substituted provisions respecting charges to households for coupon allotments representing reasonable investment on part of the households, issuance of coupon allotments without charge where monthly income is less than $30 for a family of four, and election of coupon allotment with a lesser face value than the face value authorized to be issued for prior provision for a charge determined to be equivalent to normal expenditures for food.
 
@@ -552,7 +552,7 @@ Section 1301 of Pub. L. 95–113 provided that the amendment made by that sectio
 
 #### Report on Electronic Benefit Transfer Systems
 
-Pub. L. 107–171, title IV, §4111, May 13, 2002, 116 Stat. 309, as amended by Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(C), May 22, 2008, 122 Stat. 1095, 1096; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(C), June 18, 2008, 122 Stat. 1664, 1857, 1858, provided that:
+Pub. L. 107–171, title IV, §4111, May 13, 2002, 116 Stat. 309, as amended by Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(C), May 22, 2008, 122 Stat. 1095,1096; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(C), June 18, 2008, 122 Stat. 1664, 1857, 1858, provided that:
 
 “(a)
 
@@ -590,7 +590,7 @@ Report.—Not later than October 1, 2003, the Secretary of Agriculture shall sub
 
 &emsp;&emsp;“(B) strategies that the State agency is considering to address those issues;
 
-&emsp;“(7) describes initiatives being considered or taken by the Department of Agriculture, food retailers,EBT-system vendors, and client advocates to address any outstanding issues with respect to EBT systems; and
+&emsp;“(7) describes initiatives being considered or taken by the Department of Agriculture, food retailers, EBT-system vendors, and client advocates to address any outstanding issues with respect to EBT systems; and
 
 &emsp;“(8) examines areas of potential advances in electronic benefit delivery in the 5- to 10-year period beginning on the date of the report, including—
 

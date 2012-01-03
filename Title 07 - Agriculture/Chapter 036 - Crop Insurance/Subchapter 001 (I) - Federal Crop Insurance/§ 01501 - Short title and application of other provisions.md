@@ -14,7 +14,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Pub. L. 110–246, §12033(c), inserted section catchline and substituted “subchapter” for “chapter” wherever appearing in text.
+<b>2008</b>—Pub. L. 110–246, §12033(c), inserted section catchline and substituted “subchapter” for “chapter” wherever appearing in text.
 
 #### Effective Date of 2008 Amendment
 

@@ -20,7 +20,7 @@ Except as provided in section 1123(a)(4) of this title, a class of claims or int
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 1124 of the House amendment is derived from a similar provision in the House bill and Senate amendment. The section defines the new concept of “impairment” of claims or interests; the concept differs significantly from the concept of “materially and adversely affected” under the Bankruptcy Act \[former title 11\]. Section 1124(3) of the House amendment provides that a holder of a claim or interest is not impaired, if the plan provides that the holder will receivethe allowed amount of the holder's claim, or in the case of an interest with a fixed liquidation preference or redemption price, the greater of such price. This adopts the position contained in the House bill and rejects the contrary standard contained in the Senate amendment.
 
@@ -58,11 +58,11 @@ Third, the plan may leave a claim or interest unimpaired by paying its amount in
 
 #### Amendments
 
-2005—Par. (2)(A). Pub. L. 109–8, §328(b)(1), inserted “or of a kind that section 365(b)(2) expressly does not require to be cured” before semicolon at end.
+<b>2005</b>—Par. (2)(A). Pub. L. 109–8, §328(b)(1), inserted “or of a kind that section 365(b)(2) expressly does not require to be cured” before semicolon at end.
 
 Par. (2)(D), (E). Pub. L. 109–8, §328(b)(2)–(4), added subpar. (D) and redesignated former subpar. (D) as (E).
 
-1994—Par. (3). Pub. L. 103–394 struck out par. (3) which read as follows: “provides that, on the effective date of the plan, the holder of such claim or interest receives, on account of such claim or interest, cash equal to—
+<b>1994</b>—Par. (3). Pub. L. 103–394 struck out par. (3) which read as follows: “provides that, on the effective date of the plan, the holder of such claim or interest receives, on account of such claim or interest, cash equal to—
 
 &emsp;“(A) with respect to a claim, the allowed amount of such claim; or
 
@@ -72,7 +72,7 @@ Par. (2)(D), (E). Pub. L. 109–8, §328(b)(2)–(4), added subpar. (D) and rede
 
 &emsp;&emsp;“(ii) any fixed price at which the debtor, under the terms of such security, may redeem such security from such holder.”
 
-1984—Par. (2)(A). Pub. L. 98–353, §508(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “cures any such default, other than a default of a kind specified in section 365(b)(2) of this title, that occurred before or after the commencement of the case under this title;”.
+<b>1984</b>—Par. (2)(A). Pub. L. 98–353, §508(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “cures any such default, other than a default of a kind specified in section 365(b)(2) of this title, that occurred before or after the commencement of the case under this title;”.
 
 Par. (3)(B)(i). Pub. L. 98–353, §508(2), substituted “or” for “and”.
 

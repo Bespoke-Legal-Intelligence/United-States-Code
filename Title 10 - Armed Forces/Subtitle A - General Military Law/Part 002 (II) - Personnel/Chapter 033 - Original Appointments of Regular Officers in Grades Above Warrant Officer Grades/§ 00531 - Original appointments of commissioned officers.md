@@ -1,6 +1,6 @@
 ### §531. Original appointments of commissioned officers
 
-(a)(1) Original appointments in the grades of second lieutenant, first lieutenant, and captainin the Regular Army, Regular Air Force, and Regular Marine Corps and in the grades of ensign, lieutenant (junior grade), and lieutenant in the Regular Navy shall be made by the President alone.
+(a)(1) Original appointments in the grades of second lieutenant, first lieutenant, and captain in the Regular Army, Regular Air Force, and Regular Marine Corps and in the grades of ensign, lieutenant (junior grade), and lieutenant in the Regular Navy shall be made by the President alone.
 
 (2) Original appointments in the grades of major, lieutenant colonel, and colonel in the Regular Army, Regular Air Force, and Regular Marine Corps and in the grades of lieutenant commander, commander, and captain in the Regular Navy shall be made by the President, by and with the advice and consent of the Senate.
 

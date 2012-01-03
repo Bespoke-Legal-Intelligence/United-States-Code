@@ -18,9 +18,9 @@
 
 (3) In any case where there is no adverse party, a copy of the complaint shall be served on the Director, and, unless the court finds the expenses to be unreasonable, all the expenses of the proceeding shall be paid by the party bringing the case, whether the final decision is in favor of such party or not. In suits brought hereunder, the record in the United States Patent and Trademark Office shall be admitted on motion of any party, upon such terms and conditions as to costs, expenses, and the further cross-examination of the witnesses as the court imposes, without prejudice to the right of any party to take further testimony. The testimony and exhibits of the record in the United States Patent and Trademark Office, when admitted, shall have the same effect as if originally taken and produced in the suit.
 
-(4) Where there is an adverse party, such suit may be instituted against the party in interest as shown by the records of the United States Patent and Trademark Office at the time of the decision complained of, but any party in interest may become a party to the action. If there are adverse parties residing in a plurality of districts not embraced within the same State, or an adverse party residing in a foreign country, the United States District Court for the District of Columbia shall have jurisdiction and may issue summons against the adverse parties directed to the marshal of any district in which any adverse party resides. Summons against adverse parties residing in foreign countries may be served by publication or otherwise as the court directs.
+(4) Where there is an adverse party, such suit may be instituted against the party in interest as shown by the records of the United States Patent and Trademark Office at the time of the decision complained of, but any party in interest may become a party to the action. If there are adverse parties residing in a plurality of districts not embraced within the same State, or an adverse party residing in a foreign country, the United States District Court for the Eastern District of Virginia shall have jurisdiction and may issue summons against the adverse parties directed to the marshal of any district in which any adverse party resides. Summons against adverse parties residing in foreign countries may be served by publication or otherwise as the court directs.
 
-(July 5, 1946, ch. 540, title I, §21, 60 Stat. 435; July 19, 1952, ch. 950, §2, 66 Stat. 814; Pub. L. 85–609, §1(c), Aug. 8, 1958, 72 Stat. 540; Pub. L. 87–772, §12, Oct. 9, 1962, 76 Stat. 771; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 93–600, §2, Jan. 2, 1975, 88 Stat. 1955; Pub. L. 97–164, title I, §162(1), Apr. 2, 1982, 96 Stat. 49; Pub. L. 98–620, title IV, §414(b), Nov. 8, 1984, 98 Stat. 3363; Pub. L. 100–667, title I, §120, Nov. 16, 1988, 102 Stat. 3942; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 111–146, §3(c), Mar. 17, 2010, 124 Stat. 67.)
+(July 5, 1946, ch. 540, title I, §21, 60 Stat. 435; July 19, 1952, ch. 950, §2, 66 Stat. 814; Pub. L. 85–609, §1(c), Aug. 8, 1958, 72 Stat. 540; Pub. L. 87–772, §12, Oct. 9, 1962, 76 Stat. 771; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 93–600, §2, Jan. 2, 1975, 88 Stat. 1955; Pub. L. 97–164, title I, §162(1), Apr. 2, 1982, 96 Stat. 49; Pub. L. 98–620, title IV, §414(b), Nov. 8, 1984, 98 Stat. 3363; Pub. L. 100–667, title I, §120, Nov. 16, 1988, 102 Stat. 3942; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 111–146, §3(c), Mar. 17, 2010, 124 Stat. 67; Pub. L. 112–29, §9(a), Sept. 16, 2011, 125 Stat. 316.)
 
 #### Codification
 
@@ -31,6 +31,8 @@ Pub. L. 93–596, which provided for the substitution of “Patent and Trademark
 Acts Feb. 20, 1905, ch. 592, §§9, 22, 33 Stat. 727, 729; Mar. 2, 1929, ch. 488, §2(b), 45 Stat. 1478.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (b)(4). Pub. L. 112–29 substituted “United States District Court for the Eastern District of Virginia” for “United States District Court for the District of Columbia”.
 
 <b>2010</b>—Subsec. (a)(1). Pub. L. 111–146, §3(c)(2), inserted “or section 1141k of this title” after “section 1058 of this title”.
 
@@ -76,9 +78,13 @@ Subsec. (b)(3), (4). Pub. L. 93–596 substituted “Patent and Trademark Office
 
 <b>1952</b>—Act July 19, 1952, substituted references to new title 35 for repealed section of title 35.
 
+#### Effective Date of 2011 Amendment
+
+Pub. L. 112–29, §9(b), Sept. 16, 2011, 125 Stat. 316, provided that: “The amendments made by this section \[amending this section and sections 32, 145, 146, 154, and 293 of Title 35, Patents\] shall take effect on the date of the enactment of this Act \[Sept. 16, 2011\] and shall apply to any civil action commenced on or after that date.”
+
 #### Effective Date of 1999 Amendment
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\]of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
 #### Effective Date of 1988 Amendment
 

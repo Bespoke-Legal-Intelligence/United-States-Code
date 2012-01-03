@@ -24,7 +24,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding sections 563(a) and 565(a) of title 5, all regulations required under thischapter, including any regulations that may be required pursuant to amendments made to this chapter after October 26, 1996, shall be issued according to a negotiated rulemaking procedure under subchapter III of chapter 5 of title 5.
+&emsp;&emsp;Notwithstanding sections 563(a) and 565(a) of title 5, all regulations required under this chapter, including any regulations that may be required pursuant to amendments made to this chapter after October 26, 1996, shall be issued according to a negotiated rulemaking procedure under subchapter III of chapter 5 of title 5.
 
 #### (B) Committee
 

@@ -4,7 +4,7 @@
 
 In accordance with regulations prescribed by the Secretary—
 
-&emsp;(1) the group health plan shall provide, at the time of commencement of coverage underthe plan, written notice to each covered employee and spouse of the employee (if any) of the rights provided under this subsection,
+&emsp;(1) the group health plan shall provide, at the time of commencement of coverage under the plan, written notice to each covered employee and spouse of the employee (if any) of the rights provided under this subsection,
 
 &emsp;(2) the employer of an employee under a plan must notify the administrator of a qualifying event described in paragraph (1), (2), (4), or (6) of section 1163 of this title within 30 days (or, in the case of a group health plan which is a multiemployer plan, such longer period of time as may be provided in the terms of the plan) of the date of the qualifying event,
 
@@ -62,7 +62,7 @@ Amendment by section 7891(d)(1)(A) of Pub. L. 101–239 applicable with respect 
 
 #### Effective Date of 1986 Amendments
 
-Amendment by Pub. L. 99–514 applicable only with respect to qualifying events occurring after Oct. 22, 1986,see section 1895(d)(6)(D) of Pub. L. 99–514, set out as a note under section 162 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 99–514 applicable only with respect to qualifying events occurring after Oct. 22, 1986, see section 1895(d)(6)(D) of Pub. L. 99–514, set out as a note under section 162 of Title 26, Internal Revenue Code.
 
 Amendment by Pub. L. 99–509 effective, except as otherwise provided, as if included in title X of the Consolidated Omnibus Budget Reconciliation Act of 1985, Pub. L. 99–272, see section 9501(e) of Pub. L. 99–509, set out as a note under section 162 of Title 26.
 

@@ -8,7 +8,7 @@ The Commission shall have authority from time to time to make, amend, and rescin
 
 #### (1) In general
 
-&emsp;In carrying out its authority under subsection (a) of this section and under section 13(b) of the Securities Exchange Act of 1934 \[15 U.S.C. 78m(b)\], the Commission may recognize, as “generally accepted” for purposes of the securities laws, any accounting principles established by a standard setting body—
+&emsp;In carrying out its authority under subsection (a) of this section and under section 13(b) of the Securities Exchange Act of 1934 \[15 U.S.C. 78m(b)\], the Commission may recognize,as “generally accepted” for purposes of the securities laws, any accounting principles established by a standard setting body—
 
 &emsp;&emsp;(A) that—
 
@@ -46,7 +46,7 @@ For the purpose of all investigations which, in the opinion of the Commission, a
 
 &emsp;(D) a substantial reduction in costs and paperwork to diminish the burdens of raising investment capital (particularly by small business) and to diminish the costs of the administration of the Government programs involved.
 
-(3) The purpose of this subsection is to engender cooperation between the Commission, anysuch association of State securities officials, and other duly constituted securities associations in the following areas:
+(3) The purpose of this subsection is to engender cooperation between the Commission, any such association of State securities officials, and other duly constituted securities associations in the following areas:
 
 &emsp;(A) the sharing of information regarding the registration or exemption of securities issues applied for in the various States;
 
@@ -62,7 +62,7 @@ For the purpose of all investigations which, in the opinion of the Commission, a
 
 &emsp;(A) any association referred to in paragraph (1) or (3) or any conference or meeting referred to in paragraph (4), while such association, conference, or meeting is carrying out activities in furtherance of the provisions of this subsection; or
 
-&emsp;(B) any forum, agency, or organization, or group referred to in section 80c–1 of this title, while such forum, agency, organization, or group is carrying out activities in furtherance of the provisions of such section 80c–1.
+&emsp;(B) any forum, agency, or organization, or group referred to in section 80c–1 of this title, while such forum, agency, organization, orgroup is carrying out activities in furtherance of the provisions of such section 80c–1.
 
 > As used in this paragraph, the terms “association”, “conference”, “meeting”, “forum”, “agency”, “organization”, and “group” include any committee, subgroup, or representative of such entities.
 
@@ -148,7 +148,7 @@ Subsec. (g). Pub. L. 111–203, §978(a), added subsec. (g).
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
 #### Effective Date of 1980 Amendment
 

@@ -8,7 +8,7 @@ Repeal effective 18 months after Oct. 30, 2000, see section 206(d) of Pub. L. 10
 
 #### Prior Provisions
 
-A prior section 5178, Pub. L. 93–288, title IV, §408, May 22, 1974, 88 Stat. 156, related to individual and family grant programs, prior to repeal by Pub. L. 100–707, §106(g).
+A prior section 5178, Pub. L. 93–288, title IV, §408, May 22, 1974, 88 Stat. 156, related to individual and familygrant programs, prior to repeal by Pub. L. 100–707, §106(g).
 
 A prior section 411 of Pub. L. 93–288 was renumbered section 414 by Pub. L. 100–707 and is classified to section 5181 of this title.
 

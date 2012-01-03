@@ -4,7 +4,7 @@ Section, added Pub. L. 88–272, title II, §235(a), Feb. 26, 1964, 78 Stat. 117
 
 #### Effective Date of Repeal
 
-Repeal applicable with respect to taxable years beginning after Dec. 31, 1974, see section 401(h)(1) of Pub.L. 91–172, set out as an Effective Date of 1969 Amendment note under section 1561 of this title.
+Repeal applicable with respect to taxable years beginning after Dec. 31, 1974, see section 401(h)(1) of Pub. L. 91–172, set out as an Effective Date of 1969 Amendment note under section 1561 of this title.
 
 #### Retroactive Termination of Elections
 

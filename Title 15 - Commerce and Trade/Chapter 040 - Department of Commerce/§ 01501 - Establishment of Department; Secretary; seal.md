@@ -60,11 +60,11 @@ The Secretary of Commerce may from time to time effect such transfers within the
 
 I transmit herewith Reorganization Plan No. 5 of 1950, prepared in accordance with the Reorganization Act of 1949 and providing for reorganizations in the Department of Commerce. My reasons for transmitting this plan are stated in an accompanying general message.
 
-After investigation I have found and hereby declare that each reorganization included in Reorganization Plan No. 5 of 1950 is necessary to accomplish one or more of the purposes set forth in section 2(a) of the Reorganization Act of 1949.
+After investigation I have found and hereby declare that each reorganization included in ReorganizationPlan No. 5 of 1950 is necessary to accomplish one or more of the purposes set forth in section 2(a) of the Reorganization Act of 1949.
 
 I have found and hereby declare that it is necessary to include in the accompanying reorganization plan, by reason of reorganizations made thereby, provisions for the appointment and compensation of an Administrative Assistant Secretary of Commerce. The rate of compensation fixed for this officer is that which I have found to prevail in respect to comparable officers in the executive branch of the Government.
 
-The taking effect of the reorganizations included in this plan may not in itself result in substantial immediate savings. However, many benefits in improved operations are probable during the next years which willresult in a reduction in expenditures as compared with those that would be otherwise necessary. An itemization of these reductions in advance of actual experience under this plan is not practicable.
+The taking effect of the reorganizations included in this plan may not in itself result in substantial immediate savings. However, many benefits in improved operations are probable during the next years which will result in a reduction in expenditures as compared with those that would be otherwise necessary. An itemization of these reductions in advance of actual experience under this plan is not practicable.
 
 Harry S. Truman.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -80,7 +80,7 @@ Ex. Ord. No. 13339, May 13, 2004, 69 F.R. 28037, as amended by Ex. Ord. No. 1340
 
 #### Ex. Ord. No. 13515. Increasing Participation of Asian Americans and Pacific Islanders in Federal Programs
 
-Ex. Ord. No. 13515, Oct. 14, 2009, 74 F.R. 53635, provided:
+Ex. Ord. No. 13515, Oct. 14, 2009, 74 F.R. 53635, as amended by Ex. Ord. No. 13585, §4, Oct. 7, 2011, 76 F.R. 62282, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
@@ -92,19 +92,19 @@ The purpose of this order is to establish a President's Advisory Commission on A
 
 Sec. 2. <i>President's Advisory Commission on Asian Americans and Pacific Islanders</i>. There is established in the Department of Education the President's Advisory Commission on Asian Americans and Pacific Islanders (Commission).
 
-(a) <i>Mission and Function of the Commission</i>. The Commission shall provide advice to the President, through the Secretaries of Education and Commerce, as Co-Chairs of the Initiative described in section 3 of this order, on: (i) the development, monitoring, and coordination of executive branch efforts to improve the quality of life of AAPIs through increased participation in Federal programs in which such persons may be underserved; (ii) the compilation of research and data related to AAPI populations and subpopulations; (iii) the development, monitoring, and coordination of Federal efforts to improve the economic and community development of AAPI businesses; and (iv) strategies to increase public and private-sector collaboration, and community involvement in improving the health, education, environment, and well-being of AAPIs.
+(a) <i>Mission and Function of the Commission</i>. The Commission shall provide advice to the President, through the Co-Chairs of the Initiative, on: (i) the development, monitoring, and coordination of executive branch efforts to improve the quality of life of AAPIs through increased participation in Federal programs in which such persons may be underserved; (ii) the compilation of research and data related to AAPI populations and subpopulations; (iii) the development, monitoring, and coordination of Federal efforts to improve the economic and community development of AAPI businesses; and (iv) strategies to increase public and private-sector collaboration, and community involvement in improving the health, education, environment, and well-being of AAPIs.
 
 (b) <i>Membership of the Commission</i>. The Commission shall consist of not more than 20 members appointed by the President. The Commission shall include members who: (i) have a history of involvement with the AAPI communities; (ii) are from the fields of education, commerce, business, health, human services, housing, environment, arts, agriculture, labor and employment, transportation, justice, veterans affairs, and economic and community development; (iii) are from civic associations representing one or more of the diverse AAPI communities; or (iv) have such other experience as the President deems appropriate. The President shall designate one member of the Commission to serve as Chair, who shall convene regular meetings of the Commission, determine its agenda, and direct its work.
 
-(c) <i>Administration of the Commission</i>. The Secretary of Education, in consultation with the Secretary of Commerce, shall designate an Executive Director for the Commission. The Department of Education shall provide funding and administrative support for the Commission to the extent permitted by law and within existing appropriations. Members of the Commission shall serve without compensation, but shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the Government service (5 U.S.C. 5701–5707). Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (the “Act”), may apply to the administration of the Commission, any functions of the President under the Act, except that of reporting to the Congress, shall be performed by the Secretary of Education, in accordance with the guidelines issued by the Administrator of General Services.
+(c) <i>Administration of the Commission</i>. The Co-Chairs of the Initiative shall designate an Executive Director for the Commission. The Department of Education shall provide funding and administrative support for the Commission to the extent permitted by law and within existing appropriations. Members of the Commission shall serve without compensation, but shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the Government service (5 U.S.C. 5701–5707). Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (the “Act”), may apply to the administration of the Commission, any functions of the President under the Act, except that of reporting to the Congress, shall be performed by the Secretary of Education, in accordance with the guidelines issued by the Administrator of General Services.
 
 (d) <i>Termination Date</i>. The Commission shall terminate 2 years from the date of this order, unless renewed by the President.
 
-Sec. 3. <i>White House Initiative on Asian Americans and Pacific Islanders</i>. There is established the White House Initiative on Asian Americans and Pacific Islanders (Initiative), a Federal interagency working group whose members shall be selected by their respective agencies. The Secretary of Commerce and the Secretary of Education shall serve as the Co-Chairs of the Initiative. The Executive Director of the Commission established in section 2 of this order shall also serve as the Executive Director of the Initiative and shall report to the Secretaries on Initiative matters.
+Sec. 3. <i>White House Initiative on Asian Americans and Pacific Islanders</i>. There is established the White House Initiative on Asian Americans and Pacific Islanders (Initiative), a Federal interagency working group whose members shall be selected by their respectiveagencies. The Secretary of Education and a senior official to be designated by the President from the membership of the Initiative shall serve as Co-Chairs of the Initiative. The Executive Director of the Commission established in section 2 of this order shall also serve as the Executive Director of the Initiative and shall report to the Co-Chairs on Initiative matters.
 
 (a) <i>Mission and Function of the Initiative</i>. The Initiative shall work to improve the quality of life of AAPIs through increased participation in Federal programs in which AAPIs may be underserved. The Initiative shall advise the Co-Chairs on the implementation and coordination of Federal programs as they relate to AAPIs across executive departments and agencies.
 
-(b) <i>Membership of the Initiative</i>. In addition to the Co-Chairs, the Initiative shall consist of senior officialsfrom the following executive branch departments, agencies, and offices:
+(b) <i>Membership of the Initiative</i>. In addition to the Co-Chairs, the Initiative shall consist of senior officials from the following executive branch departments, agencies, and offices:
 
 (i) the Department of State;
 
@@ -118,41 +118,45 @@ Sec. 3. <i>White House Initiative on Asian Americans and Pacific Islanders</i>. 
 
 (vi) the Department of Agriculture;
 
-(vii) the Department of Labor;
+(vii) the Department of Commerce;
 
-(viii) the Department of Housing and Urban Development;
+(viii) the Department of Labor;
 
-(ix) the Department of Transportation;
+(ix) the Department of Housing and Urban Development;
 
-(x) the Department of Energy;
+(x) the Department of Transportation;
 
-(xi) the Department of Health and Human Services;
+(xi) the Department of Energy;
 
-(xii) the Department of Veterans Affairs;
+(xii) the Department of Education;
 
-(xiii) the Department of Homeland Security;
+(xiii) the Department of Health and Human Services;
 
-(xiv) the Office of Management and Budget;
+(xiv) the Department of Veterans Affairs;
 
-(xv) the Environmental Protection Agency;
+(xv) the Department of Homeland Security;
 
-(xvi) the Small Business Administration;
+(xvi) the Office of Management and Budget;
 
-(xvii) the Office of Personnel Management;
+(xvii) the Environmental Protection Agency;
 
-(xviii) the Social Security Administration;
+(xviii) the Small Business Administration;
 
-(xix) the White House Office of Cabinet Affairs;
+(xix) the Office of Personnel Management;
 
-(xx) the White House Office of Intergovernmental Affairs and Public Engagement;
+(xx) the Social Security Administration;
 
-(xxi) the National Economic Council;
+(xxi) the White House Office of Cabinet Affairs;
 
-(xxii) the Domestic Policy Council;
+(xxii) the White House Office of Intergovernmental Affairs and Public Engagement;
 
-(xxiii) the Office of Science and Technology Policy; and
+(xxiii) the National Economic Council;
 
-(xxiv) other executive branch departments, agencies, and offices as the President may, from time to time, designate.
+(xxiv) the Domestic Policy Council;
+
+(xxv) the Office of Science and Technology Policy; and
+
+(xxvi) other executive branch departments, agencies, and offices as the President may, from time to time, designate.
 
 At the direction of the Co-Chairs, the Initiative may establish subgroups consisting exclusively of Initiative members or their designees under this section, as appropriate.
 
@@ -193,4 +197,8 @@ Sec. 4. <i>General Provisions</i>.
 (f) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Extension of Term of Commission on Asian Americans and Pacific Islanders
+
+Term of Commission on Asian Americans and Pacific Islanders extended until Sept. 30, 2013, by Ex. Ord. No. 13585, Sept. 30, 2011, 76 F.R. 62281, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 

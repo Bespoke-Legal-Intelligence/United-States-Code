@@ -30,7 +30,7 @@ Amendment by Pub. L. 100–418 applicable to crude oil removed from the premises
 
 Amendment by Pub. L. 96–223 applicable to periods after Feb. 29, 1980, see section 101(i) of Pub. L. 96–223, set out as a note under section 6161 of this title.
 
-Amendment by Pub. L. 96–222 effective as if included in the provisions of the Black Lung Benefits Revenue Act of 1977, Pub. L. 95–227, see section 108(b)(4) of Pub.L. 96–222, set out as a note under section 192 of this title.
+Amendment by Pub. L. 96–222 effective as if included in the provisions of the Black Lung Benefits Revenue Act of 1977, Pub. L. 95–227, see section 108(b)(4) of Pub. L. 96–222, set out as a note under section 192 of this title.
 
 #### Effective Date of 1974 Amendment
 

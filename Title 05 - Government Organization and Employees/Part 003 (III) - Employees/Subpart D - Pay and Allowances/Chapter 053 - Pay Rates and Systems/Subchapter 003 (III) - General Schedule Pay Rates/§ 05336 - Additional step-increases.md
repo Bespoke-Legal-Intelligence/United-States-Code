@@ -36,11 +36,11 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1993—Subsec. (c). Pub. L. 103–89 struck out “covered by the performance management and recognition system established under chapter 54 of this title, or,” after “individual”.
+<b>1993</b>—Subsec. (c). Pub. L. 103–89 struck out “covered by the performance management and recognition system established under chapter 54 of this title, or,” after “individual”.
 
-1984—Subsec. (c). Pub. L. 98–615 substituted “the performance management and recognition system established under chapter 54” for “the merit pay system established under section 5402”.
+<b>1984</b>—Subsec. (c). Pub. L. 98–615 substituted “the performance management and recognition system established under chapter 54” for “the merit pay system established under section 5402”.
 
-1978—Subsec. (a). Pub. L. 95–454, §906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–454, §906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
 
 Subsec. (c). Pub. L. 95–454, §503(h), inserted reference to merit pay system established under section 5402 of this title.
 

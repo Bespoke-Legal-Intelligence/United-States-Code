@@ -40,7 +40,7 @@ In the case of any franchise in effect on the effective date of this subchapter,
 
 #### (e) Technical standards
 
-Within one year after October 5, 1992, the Commission shall prescribe regulations which establish minimum technical standards relating to cable systems’ technical operation and signal quality. The Commission shall update such standards periodically to reflect improvements in technology. No State or franchising authority may prohibit, condition, or restrict a cable system's use of any type of subscriber equipment or any transmission technology.
+Within one year after October 5, 1992, the Commission shall prescribe regulations which establish minimum technical standards relating tocable systems’ technical operation and signal quality. The Commission shall update such standards periodically to reflect improvements in technology. No State or franchising authority may prohibit, condition, or restrict a cable system's use of any type of subscriber equipment or any transmission technology.
 
 #### (f) Limitation on regulatory powers of Federal agencies, States, or franchising authorities; exceptions
 

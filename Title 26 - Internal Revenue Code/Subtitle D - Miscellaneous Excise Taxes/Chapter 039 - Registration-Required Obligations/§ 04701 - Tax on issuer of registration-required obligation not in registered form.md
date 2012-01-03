@@ -14,7 +14,23 @@ For purposes of this section—
 
 #### (1) Registration-required obligation
 
-&emsp;The term “registration-required obligation” has the same meaning as when used in section 163(f), except that such term shall not include any obligation required to be registered under section 149(a).
+#### (A) In general
+
+&emsp;&emsp;The term “registration-required obligation” has the same meaning as when used in section 163(f), except that such term shall not include any obligation which—
+
+&emsp;&emsp;&emsp;(i) is required to be registered under section 149(a), or
+
+&emsp;&emsp;&emsp;(ii) is described in subparagraph (B).
+
+#### (B) Certain obligations not included
+
+&emsp;&emsp;An obligation is described in this subparagraph if—
+
+&emsp;&emsp;&emsp;(i) there are arrangements reasonably designed to ensure that such obligation will be sold (or resold in connection with the original issue) only to a person who is not a United States person,
+
+&emsp;&emsp;&emsp;(ii) interest on such obligation is payable only outside the United States and its possessions, and
+
+&emsp;&emsp;&emsp;(iii) on the face of such obligation there is a statement that any United States person who holds such obligation will be subject to limitations under the United States income tax laws.
 
 #### (2) Registered form
 
@@ -22,31 +38,9 @@ For purposes of this section—
 
 (Added Pub. L. 97–248, title III, §310(b)(4)(A), Sept. 3, 1982, 96 Stat. 598; amended Pub. L. 99–514, title XIII, §1301(j)(5), Oct. 22, 1986, 100 Stat. 2657; Pub. L. 111–147, title V, §502(e), Mar. 18, 2010, 124 Stat. 108.)
 
-#### Amendment of Subsection (b)(1)
-
-<i>Pub. L. 111–147, title V, §502(e), (f), Mar. 18, 2010, 124 Stat. 108, provided that, applicable to obligations issued after the date which is 2 years after Mar. 18, 2010, subsection (b)(1) of this section is amended to read as follows:</i>
-
-#### <i>(1) Registration-required obligation</i>
-
-#### <i>(A) In general</i>
-
-&emsp;&emsp;<i>The term “registration-required obligation” has the same meaning as when used in section 163(f), except that such term shall not include any obligation which—</i>
-
-&emsp;&emsp;&emsp;<i>(i) is required to be registered under section 149(a), or</i>
-
-&emsp;&emsp;&emsp;<i>(ii) is described in subparagraph (B).</i>
-
-#### <i>(B) Certain obligations not included</i>
-
-&emsp;&emsp;<i>An obligation is described in this subparagraph if—</i>
-
-&emsp;&emsp;&emsp;<i>(i) there are arrangements reasonably designed to ensure that such obligation will be sold (or resold in connection with the original issue) only to a person who is not a United States person,</i>
-
-&emsp;&emsp;&emsp;<i>(ii) interest on such obligation is payable only outside the United States and its possessions, and</i>
-
-&emsp;&emsp;&emsp;<i>(iii) on the face of such obligation there is a statement that any United States person who holds such obligation will be subject to limitations under the United States income tax laws.</i>
-
 #### Amendments
+
+<b>2010</b>—Subsec. (b)(1). Pub. L. 111–147 amended par. (1) generally. Prior to amendment, text read as follows: “The term ‘registration-required obligation’ has the same meaning as when used in section 163(f), except that such term shall not include any obligation required to be registered under section 149(a).”
 
 <b>1986</b>—Subsec. (b)(1). Pub. L. 99–514 substituted “section 149(a)” for “section 103(j)”.
 

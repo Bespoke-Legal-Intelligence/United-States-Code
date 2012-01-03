@@ -12,7 +12,7 @@
 
 #### (3) Appointment
 
-&emsp;Commissioned officers of the Ready Reserve Corps shall be appointed by the President and commissioned officers of the Regular Corps shall be appointed by the President with the advice and consent of the Senate.
+&emsp;Commissioned officers of the Ready Reserve Corps shall be appointed by the President andcommissioned officers of the Regular Corps shall be appointed by the President with the advice and consent of the Senate.
 
 #### (4) Active duty
 
@@ -46,7 +46,7 @@ Effective on March 23, 2010, all individuals classified as officers in the Reser
 
 #### (d) Funding
 
-For the purpose of carrying out the duties and responsibilities of the Commissioned Corpsunder this section, there are authorized to be appropriated $5,000,000 for each of fiscal years 2010 through 2014 for recruitment and training and $12,500,000 for each of fiscal years 2010 through 2014 for the Ready Reserve Corps.
+For the purpose of carrying out the duties and responsibilities of the Commissioned Corps under this section, there are authorized to be appropriated $5,000,000 for each of fiscal years 2010 through 2014 for recruitment and training and $12,500,000 for each of fiscal years 2010 through 2014 for the Ready Reserve Corps.
 
 (July 1, 1944, ch. 373, title II, §203, 58 Stat. 683; Feb. 28, 1948, ch. 83, §2, 62 Stat. 39; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Pub. L. 96–76, title III, §302(a), Sept. 29, 1979, 93 Stat. 584; Pub. L. 111–148, title V, §5210, Mar. 23, 2010, 124 Stat. 614.)
 
@@ -91,6 +91,16 @@ Memorandum of President of the United States, June 1, 2010, 75 F.R. 32245, provi
 Memorandum for the Secretary of Health and Human Services
 
 By virtue of the authority vested in me as President by the Constitution and the laws of the United States, including section 301 of title 3, United States Code, I hereby assign to you the functions of the President under section 203 of the Public Health Service Act, as amended by Public Law 111–148, to appoint commissioned officers of the Ready Reserve Corps. The exercise of this authority is limited to appointments of individuals who were extended offers of employment for appointment and call to active duty in the Reserve Corps of the Public Health Service with an appointment date subsequent to March 23, 2010, the date of enactment of Public Law 111–148, but who were not on active duty on that date, and those individuals who are selected for the 2010 Commissioned Officer Student Training and Extern Program. This authority may not be re-delegated.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+Memorandum of President of the United States, May 31, 2011, 76 F.R. 33117, provided:
+
+Memorandum for the Secretary of Health and Human Services
+
+By virtue of the authority vested in me as President by the Constitution and the laws of the United States, including section 301 of title 3, United States Code, I hereby assign to you the functions of the President under section 203 of the Public Health Service Act, as amended by Public Law 111–148, to appoint commissioned officers of the Ready Reserve Corps of the Public Health Service. Commissions issued under this delegation of authority may not be for a term longer than 6 months. Officers appointed pursuant to this delegation may not be appointed to the Ready Reserve Corps of the Public Health Service for a term greater than 6 months other than by the President or to the Regular Corps of the Public Health Service other than by the President with the advice and consent of the Senate. This authority may not be redelegated.
 
 You are authorized and directed to publish this memorandum in the Federal Register.
 

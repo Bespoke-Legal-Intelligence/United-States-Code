@@ -20,7 +20,7 @@ This chapter, referred to in subsecs. (a) and (c), was in the original a referen
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–208, §308(d)(4)(P)(i), substituted “removal” for “exclusion” in two places.
+<b>1996</b>—Subsec. (a). Pub. L. 104–208, §308(d)(4)(P)(i), substituted “removal” for “exclusion” in two places.
 
 Subsec. (c). Pub. L. 104–208, §308(d)(4)(P)(ii), substituted “denied admission” for “excluded from admission”.
 

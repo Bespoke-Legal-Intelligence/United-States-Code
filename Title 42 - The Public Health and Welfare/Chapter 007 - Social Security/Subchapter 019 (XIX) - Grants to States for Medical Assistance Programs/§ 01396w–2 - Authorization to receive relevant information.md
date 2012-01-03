@@ -8,7 +8,7 @@ Notwithstanding any other provision of law, a Federal or State agency or private
 
 Data or information may be conveyed pursuant to subsection (a) only if the following requirements are met:
 
-&emsp;(1) The individual whose circumstances are described in the data or information (or such individual's parent, guardian, caretaker relative, or authorized representative) has eitherprovided advance consent to disclosure or has not objected to disclosure after receiving advance notice of disclosure and a reasonable opportunity to object.
+&emsp;(1) The individual whose circumstances are described in the data or information (or such individual's parent, guardian, caretaker relative, or authorized representative) has either provided advance consent to disclosure or has not objected to disclosure after receiving advance notice of disclosure and a reasonable opportunity to object.
 
 &emsp;(2) Such data or information are used solely for the purposes of—
 

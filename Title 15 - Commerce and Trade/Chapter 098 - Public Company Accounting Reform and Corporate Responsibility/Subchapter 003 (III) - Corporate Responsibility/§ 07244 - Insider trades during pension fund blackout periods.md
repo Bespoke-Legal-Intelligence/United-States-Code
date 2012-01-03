@@ -24,7 +24,7 @@
 
 &emsp;For purposes of this subsection, the term “blackout period”, with respect to the equity securities of any issuer—
 
-&emsp;&emsp;(A) means any period of more than 3 consecutive business days during which theability of not fewer than 50 percent of the participants or beneficiaries under all individual account plans maintained by the issuer to purchase, sell, or otherwise acquire or transfer an interest in any equity of such issuer held in such an individual account plan is temporarily suspended by the issuer or by a fiduciary of the plan; and
+&emsp;&emsp;(A) means any period of more than 3 consecutive business days during which the ability of not fewer than 50 percent of the participants or beneficiaries under all individual account plans maintained by the issuer to purchase, sell, or otherwise acquire or transfer an interest in any equity of such issuer held in such an individual account plan is temporarily suspended by the issuer or by a fiduciary of the plan; and
 
 &emsp;&emsp;(B) does not include, under regulations which shall be prescribed by the Commission—
 
@@ -56,7 +56,7 @@
 
 &emsp;If any amendment made by this subsection requires an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after the effective date of this section, if—
 
-&emsp;&emsp;(A) during the period after such amendment made by this subsection takes effect and before such first plan year, the plan is operated in good faith compliance with the requirements of such amendment made by this subsection, and
+&emsp;&emsp;(A) during the period after such amendment made by this subsection takes effectand before such first plan year, the plan is operated in good faith compliance with the requirements of such amendment made by this subsection, and
 
 &emsp;&emsp;(B) such plan amendment applies retroactively to the period after such amendment made by this subsection takes effect and before such first plan year.
 

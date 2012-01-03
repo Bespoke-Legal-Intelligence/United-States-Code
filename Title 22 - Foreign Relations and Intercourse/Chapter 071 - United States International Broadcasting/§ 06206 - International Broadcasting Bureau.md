@@ -54,5 +54,7 @@ Conditions.—The Director is authorized to use the authority of subsection (a) 
 
 Termination of Authority.—The authority to award personal services contracts under the pilot program authorized by this section shall terminate on December 31, 2009. A contract entered into prior to the termination date under this subsection may remain in effect for a period not to exceed 6 months after such termination date.”
 
+\[Pub. L. 112–74, div. I, title I, Dec. 23, 2011, 125 Stat. 1171, provided in part: “That the authority provided by section 504(c) of the Foreign Relations Authorization Act, Fiscal Year 2003 (Public Law 107–228; 22 U.S.C. 6206 note) shall remain in effect through September 30, 2012”.\]
+
 \[Pub. L. 111–117, div. F, title I, Dec. 16, 2009, 123 Stat. 3318, provided in part: “That the authority provided by section 504(c) of the Foreign Relations Authorization Act, Fiscal Year 2003 (Public Law 107–228; 22 U.S.C. 6206 note) shall remain in effect through September 30, 2010”.\]
 

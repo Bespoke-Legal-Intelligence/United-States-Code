@@ -22,7 +22,7 @@ Notwithstanding section 1395x(v) of this title, the Secretary shall provide, for
 
 &emsp;&emsp;&emsp;Under such system the Secretary shall provide for computation of a standard prospective payment amount (or amounts) as follows:
 
-&emsp;&emsp;&emsp;&emsp;(I) Such amount (or amounts) shall initially be based on the most current audited cost report data available to the Secretary and shall be computed in a manner so that the total amounts payable under the system for the 12-month period beginning on the date the Secretary implements the system shall be equal to the total amount that would have been made if the system had not been in effect and if section 1395x(v)(1)(L)(ix) of this title had not been enacted.
+&emsp;&emsp;&emsp;&emsp;(I) Such amount (or amounts) shall initially be based on the most current audited cost report data available to the Secretary and shall be computed in amanner so that the total amounts payable under the system for the 12-month period beginning on the date the Secretary implements the system shall be equal to the total amount that would have been made if the system had not been in effect and if section 1395x(v)(1)(L)(ix) of this title had not been enacted.
 
 &emsp;&emsp;&emsp;&emsp;(II) For the 12-month period beginning after the period described in subclause (I), such amount (or amounts) shall be equal to the amount (or amounts) determined under subclause (I), updated under subparagraph (B).
 
@@ -38,7 +38,7 @@ Notwithstanding section 1395x(v) of this title, the Secretary shall provide, for
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Subject to subclause (II), for 2014 and subsequent years, the amount (or amounts) that would otherwise be applicable under clause (i)(III) shall be adjusted by a percentage determined appropriate by the Secretary to reflect such factors as changes in the number of visits in an episode, the mix of services in an episode, the level of intensity of services in an episode, the average cost of providing care per episode, and other factors that the Secretary considers to be relevant. In conducting the analysis under the preceding sentence, the Secretary may consider differences between hospital-based and freestanding agencies, between for-profit and nonprofit agencies, and between the resource costs of urban and rural agencies. Such adjustment shall be made before the updateunder subparagraph (B) is applied for the year.
+&emsp;&emsp;&emsp;&emsp;Subject to subclause (II), for 2014 and subsequent years, the amount (or amounts) that would otherwise be applicable under clause (i)(III) shall be adjusted by a percentage determined appropriate by the Secretary to reflect such factors as changes in the number of visits in an episode, the mix of services in an episode, the level of intensity of services in an episode, the average cost of providing care per episode, and other factors that the Secretary considers to be relevant. In conducting the analysis under the preceding sentence, the Secretary may consider differences between hospital-based and freestanding agencies, between for-profit and nonprofit agencies, and between the resource costs of urban and rural agencies. Such adjustment shall be made before the update under subparagraph (B) is applied for the year.
 
 #### (II) Transition
 
@@ -70,7 +70,7 @@ Notwithstanding section 1395x(v) of this title, the Secretary shall provide, for
 
 #### (iv) Adjustment for case mix changes
 
-&emsp;&emsp;&emsp;Insofar as the Secretary determines that the adjustments under paragraph (4)(A)(i) for a previous fiscal year or year (or estimates that such adjustments for a future fiscal year or year) did (or are likely to) result in a change in aggregate payments under this subsection during the fiscal year or year that are a result of changes in the coding or classification of different units of services that do not reflect real changes in case mix, the Secretary may adjust the standard prospective payment amount (or amounts) under paragraph (3) for subsequent fiscal years or years so as to eliminate the effect of such coding or classification changes.
+&emsp;&emsp;&emsp;Insofar as the Secretary determines that the adjustments under paragraph (4)(A)(i) for a previous fiscal year or year (or estimates that such adjustments for a future fiscal year or year) did (or are likely to)result in a change in aggregate payments under this subsection during the fiscal year or year that are a result of changes in the coding or classification of different units of services that do not reflect real changes in case mix, the Secretary may adjust the standard prospective payment amount (or amounts) under paragraph (3) for subsequent fiscal years or years so as to eliminate the effect of such coding or classification changes.
 
 #### (v) Adjustment if quality data not submitted
 
@@ -166,7 +166,7 @@ There shall be no administrative or judicial review under section 1395ff of this
 
 &emsp;Nothing in this section shall be construed as preventing a home health agency furnishing a home health unit of service for which payment is made under the prospective payment system established by this section for such units of service from furnishing services via a telecommunication system if such services—
 
-&emsp;&emsp;(A) do not substitute for in-person home health services ordered as part of a plan ofcare certified by a physician pursuant to section 1395f(a)(2)(C) or 1395n(a)(2)(A) of this title; and
+&emsp;&emsp;(A) do not substitute for in-person home health services ordered as part of a plan of care certified by a physician pursuant to section 1395f(a)(2)(C) or 1395n(a)(2)(A) of this title; and
 
 &emsp;&emsp;(B) are not considered a home health visit for purposes of eligibility or payment under this subchapter.
 
@@ -396,7 +396,7 @@ In general.—Subject to paragraph (2), the amount of payment for an episode of 
 
 &emsp;“(2)
 
-Adjustment in case of overutilization of substitute adult day-care services to ensure budget neutrality.—The Secretary shall monitor the expenditures under the demonstration project and under title XVIII of the Social Security Act \[this subchapter\] for home health services. If the Secretary estimates that the total expenditures under the demonstration project and under such title XVIII for home health services for a period determined by the Secretary exceed expenditures that would have been made under such title XVIII for home health services for such period if the demonstration project had not been conducted, the Secretary shall adjust the rate of payment to medical adult day-care facilities under paragraph (1) in order to eliminate such excess.
+Adjustment in case of overutilization of substitute adult day-care services to ensure budget neutrality.—The Secretary shall monitor the expenditures under the demonstration project and under title XVIII of the Social Security Act \[this subchapter\] for home health services. If the Secretaryestimates that the total expenditures under the demonstration project and under such title XVIII for home health services for a period determined by the Secretary exceed expenditures that would have been made under such title XVIII for home health services for such period if the demonstration project had not been conducted, the Secretary shall adjust the rate of payment to medical adult day-care facilities under paragraph (1) in order to eliminate such excess.
 
 “(c)
 
@@ -508,7 +508,7 @@ Pub. L. 108–173, title VII, §705, Dec. 8, 2003, 117 Stat. 2339, provided that
 
 “(a)
 
-Study.—The Medicare Payment Advisory Commission shall conduct a study of payment margins of home health agencies under the home health prospective payment system under section 1895 of the Social Security Act (42 U.S.C. 1395fff). Such study shall examine whether systematic differences in payment margins are related to differences in case mix (as measured by home health resource groups (HHRGs)) among such agencies. The study shall use the partial or full-year cost reports filed by home health agencies.
+Study.—The Medicare Payment Advisory Commission shall conduct a study of payment margins of home health agencies under the home health prospective payment system under section 1895 of the Social Security Act (42 U.S.C. 1395fff). Such study shall examine whether systematic differences in payment margins are related to differences in case mix (as measured by home health resource groups (HHRGs)) among suchagencies. The study shall use the partial or full-year cost reports filed by home health agencies.
 
 “(b)
 
@@ -612,7 +612,7 @@ Definitions.—In this subsection:
 
 &emsp;&emsp;“(A)
 
-Home health agency.—The term ‘home health agency’ has the meaning given that term under section 1861(<i>o</i>) of the Social Security Act (42 U.S.C. 1395x(<i>o</i>)).
+Home health agency.—The term ‘home health agency’ has the meaning given that termunder section 1861(<i>o</i>) of the Social Security Act (42 U.S.C. 1395x(<i>o</i>)).
 
 &emsp;&emsp;“(B)
 

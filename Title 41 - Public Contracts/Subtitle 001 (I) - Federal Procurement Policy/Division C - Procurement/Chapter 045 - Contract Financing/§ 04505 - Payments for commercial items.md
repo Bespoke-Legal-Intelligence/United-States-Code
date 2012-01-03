@@ -10,7 +10,7 @@ Security for Payments.—The head of the executive agency shall obtain adequate 
 
 (c)
 
-Limitation on Advance Payments.—Advance payments made under section 4501 of thistitle for commercial items may include payments, in a total amount not more than 15 percent of the contract price, in advance of any performance of work under the contract.
+Limitation on Advance Payments.—Advance payments made under section 4501 of this title for commercial items may include payments, in a total amount not more than 15 percent of the contract price, in advance of any performance of work under the contract.
 
 (d)
 

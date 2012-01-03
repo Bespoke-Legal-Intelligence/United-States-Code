@@ -2,7 +2,7 @@
 
 #### (a) Limitation
 
-No funds authorized to be appropriated or otherwise made available to the Department of Energy for fiscal year 1997 under section 3101 of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201) may be obligated or expended for activities under the Department of Energy Laboratory Directed Research and Development Program, or under any Department of Energy technology transfer program or cooperative research and development agreement, unless such activities support the national security mission of the Department of Energy.
+No funds authorized to be appropriated or otherwise made available to the Department of Energy for fiscal year 1997 under section 3101 of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201) may be obligated or expended for activities under the Department of Energy Laboratory Directed Research and Development Program, or under any Department of Energy technology transfer program or cooperative research and development agreement, unless such activities support thenational security mission of the Department of Energy.
 
 #### (b) Annual report
 
@@ -12,7 +12,7 @@ No funds authorized to be appropriated or otherwise made available to the Depart
 
 (3) Each report shall set forth the criteria utilized by the officials preparing the report in determining whether or not the activities reviewed by such officials support the national security mission of the Department.
 
-(Pub. L. 107–314, div. D, title XLVIII, §4812A, formerly Pub. L. 104–201, div. C, title XXXI, §3136, Sept. 23, 1996, 110 Stat. 2830; Pub. L. 107–314, div. D, title XLVIII, §4812(c), formerly Pub. L. 105–85, div. C, title XXXI, §3137(c), Nov. 18, 1997, 111 Stat. 2039, renumbered Pub. L. 107–314, div. D, title XLVIII, §4812(c), by Pub. L. 108–136, div. C, title XXXI, §3141(k)(7)(A)(i)–(iii), Nov. 24, 2003,117 Stat. 1784; renumbered Pub. L. 107–314, div. D, title XLVIII, §4812A, and amended Pub. L. 108–136, div. C, title XXXI, §3141(k)(7)(B), Nov. 24, 2003, 117 Stat. 1784.)
+(Pub. L. 107–314, div. D, title XLVIII, §4812A, formerly Pub. L. 104–201, div. C, title XXXI, §3136, Sept. 23, 1996, 110 Stat. 2830; Pub. L. 107–314, div. D, title XLVIII, §4812(c), formerly Pub. L. 105–85, div. C, title XXXI, §3137(c), Nov. 18, 1997, 111 Stat. 2039, renumbered Pub. L. 107–314, div. D, title XLVIII, §4812(c), by Pub. L. 108–136, div. C, title XXXI, §3141(k)(7)(A)(i)–(iii), Nov. 24, 2003, 117 Stat. 1784; renumbered Pub. L. 107–314, div. D, title XLVIII, §4812A, and amended Pub. L. 108–136, div. C, title XXXI, §3141(k)(7)(B), Nov. 24, 2003, 117 Stat. 1784.)
 
 #### References in Text
 

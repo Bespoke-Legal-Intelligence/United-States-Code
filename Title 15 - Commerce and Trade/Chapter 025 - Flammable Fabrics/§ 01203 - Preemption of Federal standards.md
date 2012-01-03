@@ -2,7 +2,7 @@
 
 #### (a) Standards or regulations designed to protect against same risk as State standards or regulations; identical State standards
 
-Except as provided in subsections (b) and (c) of this section, whenever a flammability standardor other regulation for a fabric, related material, or product is in effect under this chapter, no State or political subdivision of a State may establish or continue in effect a flammability standard or other regulation for such fabric, related material, or product if the standard or other regulation is designed to protect against the same risk of occurrence of fire with respect to which the standard or other regulation under this chapter is in effect unless the State or political subdivision standard or other regulation is identical to the Federal standard or other regulation.
+Except as provided in subsections (b) and (c) of this section, whenever a flammability standard or other regulation for a fabric, related material, or product is in effect under this chapter, no State or political subdivision of a State may establish or continue in effect a flammability standard or other regulation for such fabric, related material, or product if the standard or other regulation is designed to protect against the same risk of occurrence of fire with respect to which the standard or other regulation under this chapter is in effect unless the State or political subdivision standard or other regulation is identical to the Federal standard or other regulation.
 
 #### (b) State standards or regulations which afford a higher degree of protection
 
@@ -14,7 +14,7 @@ The Federal Government and the government of any State or political subdivision 
 
 &emsp;(A) compliance with the State or political subdivision requirement would not cause the fabric, related material, or product to be in violation of the standard or other regulation in effect under this chapter, and
 
-&emsp;(B) the State or political subdivision standard or other regulation (i) provides a significantly higher degree of protection from the risk of occurrence of fire with respect to which the Federal standard or other regulation is in effect, and (ii) does not unduly burden interstate commerce.
+&emsp;(B) the State or political subdivision standard or other regulation (i) provides a significantly higher degree of protection from the risk of occurrence of fire with respect to which the Federal standard or other regulation is ineffect, and (ii) does not unduly burden interstate commerce.
 
 > In determining the burden, if any, of a State or political subdivision flammability standard or other regulation on interstate commerce the Commission shall consider and make appropriate (as determined by the Commission in its discretion) findings on the technological and economic feasibility of complying with such flammability standard or other regulation, the cost of complying with such flammability standard or other regulation, the geographic distribution of the fabric, related material, or product to which the flammability standard or other regulation would apply, the probability of other States or political subdivisions applying for an exemption under this subsection for a similar flammability standard or other regulation, and the need for a national, uniform flammability standard or other regulation under this chapter for such fabric, related material, or product.
 

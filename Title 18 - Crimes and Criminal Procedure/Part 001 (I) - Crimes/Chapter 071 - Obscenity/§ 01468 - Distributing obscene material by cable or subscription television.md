@@ -1,6 +1,6 @@
 ### §1468. Distributing obscene material by cable or subscription television
 
-(a) Whoever knowingly utters any obscene language or distributes any obscene matter by means of cable television or subscription services on television, shall be punished by imprisonment for not more than 2 years or by a fine in accordance with this title, or both.
+(a) Whoever knowingly utters any obscene language or distributes any obscene matter bymeans of cable television or subscription services on television, shall be punished by imprisonment for not more than 2 years or by a fine in accordance with this title, or both.
 
 (b) As used in this section, the term “distribute” means to send, transmit, retransmit, telecast, broadcast, or cablecast, including by wire, microwave, or satellite, or to produce or provide material for such distribution.
 
@@ -10,5 +10,5 @@
 
 #### References in Text
 
-The Cable Communications Policy Act of 1984, referred to in subsec. (c), is Pub. L. 98–549, Oct. 30, 1984,98 Stat. 2779, which is classified principally to subchapter V–A (§521 et seq.) of chapter 5 of Title 47, Telegraphs, Telephones, and Radiotelegraphs. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under section 609 of Title 47 and Tables.
+The Cable Communications Policy Act of 1984, referred to in subsec. (c), is Pub. L. 98–549, Oct. 30, 1984, 98 Stat. 2779, which is classified principally to subchapter V–A (§521 et seq.) of chapter 5 of Title 47, Telegraphs, Telephones, and Radiotelegraphs. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under section 609 of Title 47 and Tables.
 

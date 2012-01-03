@@ -82,7 +82,7 @@ The Librarian shall establish rules and procedures to address any potential conf
 
 #### Amendments
 
-2008—Subsec. (a)(1)(E). Pub. L. 110–336, §3(a)(3)(A), substituted “Cinema and Media” for “Cinema”.
+<b>2008</b>—Subsec. (a)(1)(E). Pub. L. 110–336, §3(a)(3)(A), substituted “Cinema and Media” for “Cinema”.
 
 Subsec. (a)(1)(G). Pub. L. 110–336, §3(a)(3)(B), substituted “Department of Film, Television, and Digital Media” for “Department of Film and Television”.
 
@@ -90,7 +90,7 @@ Subsec. (a)(1)(H). Pub. L. 110–336, §3(a)(3)(C), substituted “Cinema Studie
 
 Subsec. (a)(1)(L). Pub. L. 110–336, §3(a)(3)(D), amended subpar. (L) generally. Prior to amendment, subpar. (L) read as follows: “The Screen Actors Guild of America.”
 
-2005—Subsec. (a)(1). Pub. L. 109–9, §302(b)(1), substituted “22” for “20” in introductory provisions.
+<b>2005</b>—Subsec. (a)(1). Pub. L. 109–9, §302(b)(1), substituted “22” for “20” in introductory provisions.
 
 Subsec. (a)(2). Pub. L. 109–9, §302(b)(2), substituted “5” for “three”.
 

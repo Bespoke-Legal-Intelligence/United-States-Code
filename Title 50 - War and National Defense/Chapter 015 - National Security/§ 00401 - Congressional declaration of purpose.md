@@ -6,7 +6,7 @@ In enacting this legislation, it is the intent of Congress to provide a comprehe
 
 #### References in Text
 
-This legislation, referred to in text, means act July 26, 1947, ch. 343, 61 Stat. 495, as amended, known as theNational Security Act of 1947. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This legislation, referred to in text, means act July 26, 1947, ch. 343, 61 Stat. 495, as amended, known as the National Security Act of 1947. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Amendments
 
@@ -110,7 +110,7 @@ Transfer of Personnel.—In addition to any other authorities available under la
 
 &emsp;“(1) is authorized within the Office of the Director of National Intelligence the total of 500 new personnel positions; and
 
-&emsp;“(2) with the approval of the Director of the Office of Management and Budget, may detail not morethan 150 personnel funded within the National Intelligence Program to the Office of the Director of National Intelligence for a period of not more than 2 years.
+&emsp;“(2) with the approval of the Director of the Office of Management and Budget, may detail not more than 150 personnel funded within the National Intelligence Program to the Office of the Director of National Intelligence for a period of not more than 2 years.
 
 #### “SEC. 1097. EFFECTIVE DATES.
 

@@ -170,7 +170,7 @@ The Farm Security and Rural Investment Act of 2002, referred to in subsecs. (b)(
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 Section was enacted as part of the Food Security Act of 1985, and not as part of the Agricultural Adjustment Act of 1938 which comprises this chapter.
 
@@ -180,7 +180,7 @@ A prior section 1001D of Pub. L. 99–198 was renumbered section 1001E and is cl
 
 #### Amendments
 
-2008—Pub. L. 110–246, §1604(a), amended section generally, substituting subsecs. (a) to (f) for former provisions which related to: in subsec. (a), definition of “average adjusted gross income”; in subsec. (b), limitation on benefits if average adjusted gross income exceeded $2,500,000; in subsec. (c), certification that average adjusted gross income did not exceed limitation; in subsec. (d), reduction of benefits commensurate with ownership interest; and in subsec. (e), applicability of section during 2003 through 2007 crop years.
+<b>2008</b>—Pub. L. 110–246, §1604(a), amended section generally, substituting subsecs. (a) to (f) for former provisions which related to: in subsec. (a), definition of “average adjusted gross income”; in subsec. (b), limitation on benefits if average adjusted gross income exceeded $2,500,000; in subsec. (c), certification that average adjusted gross income did not exceed limitation; in subsec. (d), reduction of benefits commensurate with ownership interest; and in subsec. (e), applicability of section during 2003 through 2007 crop years.
 
 #### Effective Date of 2008 Amendment
 

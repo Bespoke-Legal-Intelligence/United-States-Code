@@ -10,7 +10,7 @@ The compensation of the Deputy Director shall be fixed by the President at a rat
 
 #### (c) Employment of personnel, experts, and consultants; compensation
 
-The Director is authorized to employ such officers and employees (including experts and consultants) as may be necessary to enable the Office to carry out its functions under this chapter and Public Law 91–190, except that he may employ no more than ten specialists and other experts without regard to the provisions of title 5, governing appointments in the competitive service, and pay such specialists and experts without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates,but no such specialist or expert shall be paid at a rate in excess of the maximum rate for GS–18 of the General Schedule under section 5332 of title 5.
+The Director is authorized to employ such officers and employees (including experts and consultants) as may be necessary to enable the Office to carry out its functions under this chapter and Public Law 91–190, except that he may employ no more than ten specialists and other experts without regard to the provisions of title 5, governing appointments in the competitive service, and pay such specialists and experts without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, but no such specialist or expert shall be paid at a rate in excess of the maximum rate for GS–18 of the General Schedule under section 5332 of title 5.
 
 #### (d) Duties and functions of Director
 
@@ -52,7 +52,7 @@ Functions vested by law (including reorganization plan) in Bureau of the Budget 
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “encouraging”.</i>
 

@@ -6,7 +6,7 @@
 
 (c) The remaining ten members of the Board shall be selected as follows:
 
-&emsp;(1) Five shall be appointed initially by the Attorney General of the United States for staggered terms; one member shall serve for one year, one member for two years, and three members for three years. Upon the expiration of each member's term, the Attorney General shall appoint successors who will each serve for a term of three years. Each member selected shall be qualified as a practitioner (Federal, State, or local) in the field of corrections, probation, or parole.
+&emsp;(1) Five shall be appointed initially by the Attorney General of the United States for staggered terms; one member shall serve for one year, one member for two years, and threemembers for three years. Upon the expiration of each member's term, the Attorney General shall appoint successors who will each serve for a term of three years. Each member selected shall be qualified as a practitioner (Federal, State, or local) in the field of corrections, probation, or parole.
 
 &emsp;(2) Five shall be appointed initially by the Attorney General of the United States for staggered terms, one member shall serve for one year, three members for two years, and one member for three years. Upon the expiration of each member's term the Attorney General shall appoint successors who will each serve for a term of three years. Each member selected shall be from the private sector, such as business, labor, and education, having demonstrated an active interest in corrections, probation, or parole.
 
@@ -18,7 +18,7 @@
 
 (g) The Board is authorized to delegate its powers under this title to such persons as it deems appropriate.
 
-(h) The Institute shall be under the supervision of an officer to be known as the Director, who shall be appointed by the Attorney General after consultation with the Board. The Directorshall have authority to supervise the organization, employees, enrollees, financial affairs, and all other operations of the Institute and may employ such staff, faculty, and administrative personnel, subject to the civil service and classification laws, as are necessary to the functioning of the Institute. The Director shall have the power to acquire and hold real and personal property for the Institute and may receive gifts, donations, and trusts on behalf of the Institute. The Director shall also have the power to appoint such technical or other advisory councils comprised of consultants to guide and advise the Board. The Director is authorized to delegate his powers under this title to such persons as he deems appropriate.
+(h) The Institute shall be under the supervision of an officer to be known as the Director, who shall be appointed by the Attorney General after consultation with the Board. The Director shall have authority to supervise the organization, employees, enrollees, financial affairs, and all other operations of the Institute and may employ such staff, faculty, and administrative personnel, subject to the civil service and classification laws, as are necessary to the functioning of the Institute. The Director shall have the power to acquire and hold real and personal property for the Institute and may receive gifts, donations, and trusts on behalf of the Institute. The Director shall also have the power to appoint such technical or other advisory councils comprised of consultants to guide and advise the Board. The Director is authorized to delegate his powers under this title to such persons as he deems appropriate.
 
 (Added Pub. L. 93–415, title V, §521, Sept. 7, 1974, 88 Stat. 1139; amended Pub. L. 95–115, §8(a), Oct. 3, 1977, 91 Stat. 1060; Pub. L. 98–473, title II, §223(<i>o</i>), Oct. 12, 1984, 98 Stat. 2030; Pub. L. 103–322, title XXXIII, §330001(i), Sept. 13, 1994, 108 Stat. 2140.)
 
@@ -52,7 +52,7 @@ Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistanc
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 #### Termination of Advisory Boards
 

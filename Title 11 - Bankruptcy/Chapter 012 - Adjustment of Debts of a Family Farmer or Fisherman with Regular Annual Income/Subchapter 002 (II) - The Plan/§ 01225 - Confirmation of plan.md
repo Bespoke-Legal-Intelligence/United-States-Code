@@ -48,7 +48,7 @@ For repeal of section effective Oct. 1, 1998, and subsequent reenactment of sect
 
 #### Amendments
 
-2005—Subsec. (a)(7). Pub. L. 109–8, §213(5), added par. (7).
+<b>2005</b>—Subsec. (a)(7). Pub. L. 109–8, §213(5), added par. (7).
 
 Subsec. (b)(1)(C). Pub. L. 109–8, §1006(a), added subpar. (C).
 

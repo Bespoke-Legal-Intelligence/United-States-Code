@@ -70,7 +70,11 @@ The Commission shall, within 180 days after October 5, 1992, initiate a rulemaki
 
 &emsp;&emsp;&emsp;&emsp;(III) a cable system.
 
-(June 19, 1934, ch. 652, title III, §335, as added Pub. L. 102–385, §25(a), Oct. 5, 1992, 106 Stat. 1501;amended Pub. L. 111–175, title II, §209, May 27, 2010, 124 Stat. 1254.)
+(June 19, 1934, ch. 652, title III, §335, as added Pub. L. 102–385, §25(a), Oct. 5, 1992, 106 Stat. 1501; amended Pub. L. 111–175, title II, §209, May 27, 2010, 124 Stat. 1254.)
+
+#### References in Text
+
+This chapter, referred to in subsec. (a), was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
 #### Amendments
 

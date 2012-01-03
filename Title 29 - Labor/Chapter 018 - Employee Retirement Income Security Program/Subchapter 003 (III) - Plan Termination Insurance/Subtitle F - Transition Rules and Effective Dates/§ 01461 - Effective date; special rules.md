@@ -16,7 +16,7 @@
 
 (c)(1) Except as provided in paragraphs (2), (3), and (4), the corporation shall not pay benefits guaranteed under this subchapter with respect to a multiemployer plan which terminates before August 1, 1980. Whenever the corporation exercises the authority granted under paragraph (2) or (3), the corporation shall notify the Committee on Education and Labor and the Committee on Ways and Means of the House of Representatives, and the Committee on Labor and Public Welfare and the Committee on Finance of the Senate.
 
-(2) The corporation may, in its discretion, pay benefits guaranteed under this subchapter withrespect to a multiemployer plan which terminates after September 2, 1974 and before August 1, 1980, if—
+(2) The corporation may, in its discretion, pay benefits guaranteed under this subchapter with respect to a multiemployer plan which terminates after September 2, 1974 and before August 1, 1980, if—
 
 &emsp;(A) the plan was maintained during the 60 months immediately preceding the date on which the plan terminates, and
 
@@ -34,7 +34,7 @@
 
 &emsp;(A) may establish requirements for the continuation of payments which commenced before January 2, 1974, with respect to retired participants under the plan,
 
-&emsp;(B) may not, notwithstanding any other provision of this subchapter, make payments with respect to any participant under such a plan who, on January 1, 1974, was receiving payment of retirement benefits, in excess of the amounts and rates payable with respect to such participant on that date,
+&emsp;(B) may not, notwithstanding any other provision of this subchapter, make payments with respect to any participant under such a planwho, on January 1, 1974, was receiving payment of retirement benefits, in excess of the amounts and rates payable with respect to such participant on that date,
 
 &emsp;(C) may not make any payments with respect to benefits guaranteed under this subchapter in connection with such a plan which are derived, directly or indirectly, from amounts borrowed under section 1305(c) of this title, and
 
@@ -98,7 +98,7 @@
 
 > any withdrawal liability incurred by the employer pursuant to part 1 of subtitle E of this subchapter as a result of the complete or partial withdrawal of the employer from the multiemployer plan before June 30, 1981, shall be void.
 
-(i) The preceding provisions of this section shall not apply with respect to amendments made to this subchapter in provisions enacted after October 22, 1986.
+(i) The preceding provisions of this section shall not apply with respect to amendmentsmade to this subchapter in provisions enacted after October 22, 1986.
 
 (Pub. L. 93–406, title IV, §4402, formerly §4082, Sept. 2, 1974, 88 Stat. 1034; S. Res. 4, Feb. 4, 1977; Pub. L. 95–214, §1, Dec. 19, 1977, 91 Stat. 1501; S. Res. 30, Mar. 7, 1979; Pub. L. 96–24, June 19, 1979, 93 Stat. 70; Pub. L. 96–239, Apr. 30, 1980, 94 Stat. 341; Pub. L. 96–293, §1, June 30, 1980, 94 Stat. 610; renumbered and amended Pub. L. 96–364, title I, §108(a)–(c)(1), Sept. 26, 1980, 94 Stat. 1267; Pub. L. 98–369, div. A, title V, §558(b)(1)(B), (C), July 18, 1984, 98 Stat. 899; Pub. L. 99–514, title XVIII, §1852(i), Oct. 22, 1986, 100 Stat. 2869; Pub. L. 101–239, title VII, §§7862(a), 7894(h)(5)(A), Dec. 19, 1989, 103 Stat. 2431, 2451.)
 
@@ -163,6 +163,8 @@ Subsec. (c)(4)(D). Pub. L. 95–214, §1(a)(5), substituted “June 30, 1979” 
 Subsecs. (d), (e). Pub. L. 95–214, §1(b), added subsecs. (d) and (e).
 
 #### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 Committee on Labor and Public Welfare of Senate abolished and replaced by Committee on Human Resources of Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of Senate, as amended by Senate Resolution No. 4 (popularly cited as the “Committee System Reorganization Amendments of 1977”), approved Feb. 4, 1977. Committee on Human Resources of Senate changed to Committee on Labor and Human Resources of Senate, effective Mar. 7, 1979, by Senate Resolution No. 30, 96th Congress. See, also, Rule XXV of Standing Rules of Senate adopted Nov. 14, 1979. Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 

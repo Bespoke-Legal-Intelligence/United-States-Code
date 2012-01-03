@@ -22,7 +22,7 @@ Ratification of enrollment corrections and printed enrollment.—
 
 &emsp;“(A)
 
-In general.—Except as provided in subparagraph (B), the enrollment corrections noted in footnotes numbered 9 through 72 of OBRA are hereby ratified and shall be considered to have been enacted as part of OBRA. The printed enrollment of title IV of OBRA \[Pub. L. 100–203, title IV, Dec. 22, 1987, 101 Stat. 1330–39\], as prepared and printed under section 8004 of OBRA \[section 8004 of Pub. L. 100–203, set out below\] (including the footnote corrections described in subparagraph (B) and as incorporating the clarifications described in subparagraph (C)), shall be deemed to constitute title IV of OBRA as enacted.
+In general.—Except as provided in subparagraph (B), the enrollment corrections noted in footnotes numbered 9 through 72 of OBRA are hereby ratified and shall be considered to have been enactedas part of OBRA. The printed enrollment of title IV of OBRA \[Pub. L. 100–203, title IV, Dec. 22, 1987, 101 Stat. 1330–39\], as prepared and printed under section 8004 of OBRA \[section 8004 of Pub. L. 100–203, set out below\] (including the footnote corrections described in subparagraph (B) and as incorporating the clarifications described in subparagraph (C)), shall be deemed to constitute title IV of OBRA as enacted.
 
 &emsp;“(B)
 
@@ -36,7 +36,7 @@ Footnote corrections.—(i) With respect to the reference to which footnote 28 r
 
 Clarifications of illegible matter.—(i) Section 1842(n)(1)(A) of the Social Security Act, as added by section 4051(a) of OBRA (101 Stat. 1330–93) \[42 U.S.C. 1395m(n)(1)(A)\], is deemed to have the phrase ‘the supplier's reasonable charge to individuals enrolled under this part for the test’ immediately after ‘or, if lower, the’.
 
-&emsp;“(ii) Section 1834(a)(7)(B)(i) of the Social Security Act, as inserted by section 4062(b) of OBRA (101 Stat. 1330–103) \[42 U.S.C. 1395m(a)(7)(B)(i)\], is deemed tohave a reference to ‘1987’ immediately after ‘December’.”
+&emsp;“(ii) Section 1834(a)(7)(B)(i) of the Social Security Act, as inserted by section 4062(b) of OBRA (101 Stat. 1330–103) \[42 U.S.C. 1395m(a)(7)(B)(i)\], is deemed to have a reference to ‘1987’ immediately after ‘December’.”
 
 #### Printed Enrollments Prepared After Enactment
 
@@ -102,7 +102,7 @@ Reconciliation bill.—The term ‘reconciliation bill’ means a bill that is a
 
 Identical provisions were contained in Pub. L. 104–54, title II, §§201, 202, Nov. 19, 1995, 109 Stat. 545.
 
-Pub. L. 102–387, Oct. 6, 1992, 106 Stat. 1519, provided: “That the provisions of sections 106 and 107 of title 1, United States Code, are waived with respect to the printing (on parchment or otherwise) of the enrollment of any appropriation bill of the One Hundred Second Congress hereafter to be presented to the President. Such an enrollment shall be in such form as the Committee on House Administration of the House of Representatives certifies to be a true enrollment. As used in this resolution, the term ‘appropriation bill’ means a bill or joint resolution making or continuing appropriations for the fiscal year ending September 30, 1993.”
+Pub. L. 102–387, Oct. 6, 1992, 106 Stat. 1519, provided: “That the provisions of sections 106 and 107 of title 1, United States Code, are waived with respect to the printing (on parchment or otherwise) of the enrollment of any appropriation bill of the One Hundred Second Congress hereafter to be presented to the President. Such an enrollment shall be in such form as the Committee on House Administration of the House of Representatives certifies to be a true enrollment. As used in this resolution, the term ‘appropriation bill’ meansa bill or joint resolution making or continuing appropriations for the fiscal year ending September 30, 1993.”
 
 Pub. L. 102–260, Mar. 20, 1992, 106 Stat. 85, provided that:
 
@@ -120,7 +120,7 @@ Pub. L. 101–497, Oct. 31, 1990, 104 Stat. 1205, provided that:
 
 “(a)
 
-Waiver.—The provisions of sections 106 and 107 of title 1, United States Code, are waived with respectto the printing (on parchment or otherwise) of the enrollment of S. 2830 \[Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3359\].
+Waiver.—The provisions of sections 106 and 107 of title 1, United States Code, are waived with respect to the printing (on parchment or otherwise) of the enrollment of S. 2830 \[Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3359\].
 
 “(b)
 
@@ -238,7 +238,7 @@ Preparation.—
 
 &emsp;“(1)
 
-In general.—Upon the enactment of a bill following presentment of such bill to the President in the form of a hand enrollment pursuant to the authority of section 1 of this resolution, the Clerk of the House of Representatives shall prepare a printed enrollment of that bill as in the case of a bill towhich sections 106 and 107 of title 1, United States Code, apply.
+In general.—Upon the enactment of a bill following presentment of such bill to the President in the form of a hand enrollment pursuant to the authority of section 1 of this resolution, the Clerk of the House of Representatives shall prepare a printed enrollment of that bill as in the case of a bill to which sections 106 and 107 of title 1, United States Code, apply.
 
 &emsp;“(2)
 
@@ -296,7 +296,7 @@ Pub. L. 100–202, §101(n), Dec. 22, 1987, 101 Stat. 1329–432, provided that:
 
 “(5) A printed enrollment certified by the President under subsection (n)(4) shall be transmitted to the Archivist of the United States, who shall preserve it with the hand enrollment. In preparing this resolution for publication in slip form and in the United States Statutes at Large pursuant to section 112 of title 1, United States Code, the Archivist of the United States shall use the printed enrollment certified by the President under subsection (n)(4) in lieu of the hand enrollment.
 
-“(6) As used in this section, the term ‘hand enrollment’ means enrollment in a form other than the printed form required by sections 106 and 107 of title 1, United States Code, as authorized by the joint resolution entitled ‘Joint resolution authorizing the hand enrollment of the budget reconciliation bill and of the full-year continuing resolution for fiscal year 1988’, approved December 1987 (H.J. Res. 426 of the 100th Congress) \[Pub. L. 100–199, Dec. 21, 1987, 101 Stat. 1326\].”
+“(6) As used in this section, the term ‘hand enrollment’ means enrollment in a form other than the printed form required by sections 106 and 107 of title 1, United States Code, as authorized by the joint resolution entitled ‘Joint resolution authorizing the hand enrollment of the budget reconciliation bill and of thefull-year continuing resolution for fiscal year 1988’, approved December 1987 (H.J. Res. 426 of the 100th Congress) \[Pub. L. 100–199, Dec. 21, 1987, 101 Stat. 1326\].”
 
 #### Certification of Printed Enrollments of Certain Public Laws
 

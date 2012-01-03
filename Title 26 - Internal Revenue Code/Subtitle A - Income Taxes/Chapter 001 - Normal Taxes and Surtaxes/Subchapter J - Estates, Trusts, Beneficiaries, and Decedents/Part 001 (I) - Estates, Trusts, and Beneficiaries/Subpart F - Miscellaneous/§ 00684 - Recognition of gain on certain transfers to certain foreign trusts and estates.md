@@ -30,7 +30,7 @@ Another section 1131(b) of Pub. L. 105–34 amended sections 367, 721, and 1035 
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–312, §§301(a), 304, temporarily amended catchline, introductory provisions of subsec. (a), and subsec. (b) to read as if amendment by Pub. L. 107–16, §542(e)(1)(A)–(C), had never been enacted. See 2001 Amendment note and Effective and Termination Dates of 2010 Amendment note below. Prior to amendment, subsec. (b) read as follows: “
+<b>2010</b>—Pub. L. 111–312, §§301(a), 304, temporarily amended catchline, introductory provisions of subsec.\(a), and subsec. (b) to read as if amendment by Pub. L. 107–16, §542(e)(1)(A)–(C), had never been enacted. See 2001 Amendment note and Effective and Termination Dates of 2010 Amendment note below. Prior to amendment, subsec. (b) read as follows: “
 
 Exceptions.—
 

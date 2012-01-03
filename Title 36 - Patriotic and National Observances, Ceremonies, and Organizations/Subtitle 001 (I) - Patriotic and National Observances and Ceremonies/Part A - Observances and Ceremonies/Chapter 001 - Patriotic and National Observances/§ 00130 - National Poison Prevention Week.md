@@ -34,7 +34,7 @@ In the event of an accidental poisoning, crucial information and immediate actio
 
 To encourage Americans to learn more about the dangers of accidental poisonings and to take appropriate preventive measures, the Congress, by joint resolution approved September 26, 1961, as amended (75 Stat. 681), has authorized and requested the President to issue a proclamation designating the third week of March each year as “National Poison Prevention Week.”
 
-NOW, THEREFORE, I, BARACK OBAMA, President of the United States of America, do hereby proclaim the third week of March of each year as National Poison Prevention Week. I call upon all Americans to observe this week by taking actions to protect their families from hazardous household materials and from the misuse of prescription medications.
+NOW, THEREFORE, I, BARACK OBAMA, President of the United States of America, do hereby proclaimthe third week of March of each year as National Poison Prevention Week. I call upon all Americans to observe this week by taking actions to protect their families from hazardous household materials and from the misuse of prescription medications.
 
 IN WITNESS WHEREOF, I have hereunto set my hand this fifteenth day of March, in the year of our Lord two thousand ten, and of the Independence of the United States of America the two hundred and thirty-fourth.
 

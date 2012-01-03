@@ -10,7 +10,7 @@
 
 &emsp;(C) the entity agrees to comply with the requirements of section 254g of this title; and
 
-&emsp;(D) the Secretary has (i) conducted an evaluation of the need and demand for health manpower for the area, the intended use of Corps members to be assigned to the area, community support for the assignment of Corps members to the area, the area's efforts to securehealth manpower for the area, and the fiscal management capability of the entity to which Corps members would be assigned and (ii) on the basis of such evaluation has determined that—
+&emsp;(D) the Secretary has (i) conducted an evaluation of the need and demand for health manpower for the area, the intended use of Corps members to be assigned to the area, community support for the assignment of Corps members to the area, the area's efforts to secure health manpower for the area, and the fiscal management capability of the entity to which Corps members would be assigned and (ii) on the basis of such evaluation has determined that—
 
 &emsp;&emsp;(I) there is a need and demand for health manpower for the area;
 

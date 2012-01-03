@@ -10,7 +10,7 @@ The Secretary shall conduct a study—
 
 #### (b) Pilot program
 
-The Secretary shall conduct a pilot program, commencing not later than 30 days after the transmission of the study required in subsection (b) <sup>1</sup> of this section, to educate such governmental entities, consumer cooperatives, or other organizations on the prudent and cost-effective use of energy futures and options contracts to increase their protection against unanticipated surges in the price of fuel and thereby increase the efficiency of their fuel purchase or assistance programs.
+The Secretary shall conduct a pilot program, commencing not later than 30 days after thetransmission of the study required in subsection (b) <sup>1</sup> of this section, to educate such governmental entities, consumer cooperatives, or other organizations on the prudent and cost-effective use of energy futures and options contracts to increase their protection against unanticipated surges in the price of fuel and thereby increase the efficiency of their fuel purchase or assistance programs.
 
 #### (c) Authorization of appropriations
 
@@ -24,7 +24,7 @@ Subsection (b) of this section, referred to in subsec. (b), was repealed and sub
 
 #### Amendments
 
-<b>1998</b>—Subsecs. (b) to (d). Pub. L. 105–362 redesignated subsecs. (c) and (d) as (b) and (c), respectively, andstruck out heading and text of former subsec. (b). Text read as follows: “The Secretary, no later than 12 months after October 24, 1992, shall transmit the study required in this section to the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate.”
+<b>1998</b>—Subsecs. (b) to (d). Pub. L. 105–362 redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out heading and text of former subsec. (b). Text read as follows: “The Secretary, no later than 12 months after October 24, 1992, shall transmit the study required in this section to the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

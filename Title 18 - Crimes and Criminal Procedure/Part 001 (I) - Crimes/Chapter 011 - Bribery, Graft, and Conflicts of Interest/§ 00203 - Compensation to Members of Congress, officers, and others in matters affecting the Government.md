@@ -18,13 +18,13 @@
 
 &emsp;(1) demands, seeks, receives, accepts, or agrees to receive or accept any compensation for any representational services, as agent or attorney or otherwise, rendered or to be rendered either personally or by another, at a time when such person is an officer or employee of the District of Columbia, in relation to any proceeding, application, request for a ruling or other determination, contract, claim, controversy, charge, accusation, arrest, or other particular matter in which the District of Columbia is a party or has a direct and substantial interest, before any department, agency, court, officer, or commission; or
 
-&emsp;(2) knowingly gives, promises, or offers any compensation for any such representational services rendered or to be rendered at a time when the person to whom the compensation is given, promised, or offered, is or was an officer or employee of the District of Columbia;
+&emsp;(2) knowingly gives, promises, or offers any compensation for any such representational services rendered or to be rendered at a timewhen the person to whom the compensation is given, promised, or offered, is or was an officer or employee of the District of Columbia;
 
 > shall be subject to the penalties set forth in section 216 of this title.
 
 (c) A special Government employee shall be subject to subsections (a) and (b) only in relation to a particular matter involving a specific party or parties—
 
-&emsp;(1) in which such employee has at any time participated personally and substantially as aGovernment employee or as a special Government employee through decision, approval, disapproval, recommendation, the rendering of advice, investigation or otherwise; or
+&emsp;(1) in which such employee has at any time participated personally and substantially as a Government employee or as a special Government employee through decision, approval, disapproval, recommendation, the rendering of advice, investigation or otherwise; or
 
 &emsp;(2) which is pending in the department or agency of the Government in which such employee is serving except that paragraph (2) of this subsection shall not apply in the case of a special Government employee who has served in such department or agency no more than sixty days during the immediately preceding period of three hundred and sixty-five consecutive days.
 

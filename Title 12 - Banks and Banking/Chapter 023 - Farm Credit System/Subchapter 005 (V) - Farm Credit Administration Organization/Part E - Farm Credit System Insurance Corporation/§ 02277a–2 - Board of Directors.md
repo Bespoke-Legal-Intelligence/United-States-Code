@@ -12,9 +12,9 @@ The Board of Directors shall be chaired by any Board member other than the Chair
 
 #### Amendments
 
-1996—Pub. L. 104–105 amended section generally. Prior to amendment, section related to Board of Directors, including provisions relating to establishment, appointment, chairperson, postemployment prohibition, terms of office, succession, vacancies, oath, quorum, meetings, rules and records, compensation, and expenses.
+<b>1996</b>—Pub. L. 104–105 amended section generally. Prior to amendment, section related to Board of Directors, including provisions relating to establishment, appointment, chairperson, postemployment prohibition, terms of office, succession, vacancies, oath, quorum, meetings, rules and records, compensation, and expenses.
 
-1992—Pub. L. 102–552 amended section generally. Prior to amendment, section read as follows:
+<b>1992</b>—Pub. L. 102–552 amended section generally. Prior to amendment, section read as follows:
 
 “(a)
 

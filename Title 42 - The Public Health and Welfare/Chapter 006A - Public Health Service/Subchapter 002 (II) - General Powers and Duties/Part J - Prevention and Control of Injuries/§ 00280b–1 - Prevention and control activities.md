@@ -24,7 +24,7 @@ The Occupational Safety and Health Act of 1970, referred to in subsec. (b)(3), i
 
 A prior section 280b–1, act July 1, 1944, ch. 373, title III, §391, as added Oct. 22, 1965, Pub. L. 89–291, §2, 79 Stat. 1059; amended Mar. 13, 1970, Pub. L. 91–212, §10(b)(3), 84 Stat. 66; July 23, 1974, Pub. L. 93–353, title II, §202(b), 88 Stat. 372, defined “sciences related to health”, “National Medical Libraries Assistance Advisory Board”, “Board”, and “medical library”, prior to repeal by Pub. L. 99–158, §3(b), Nov. 20, 1985, 99 Stat. 879.
 
-A prior section 392 of act July 1, 1944, ch. 373, title III, as added Oct. 22, 1965, Pub. L. 89–291, §2, 79 Stat. 1060;amended Mar. 13, 1970, Pub. L. 91–212, §10(b)(4), (d)(2)(A), 84 Stat. 66, 67; July 23, 1974, Pub. L. 93–353, title II, §202(c), 88 Stat. 372, which related to composition, functions, etc., of the National Medical Libraries Assistance Advisory Board, was classified to section 280b–2 of this title, prior to repeal by Pub. L. 99–158, §3(b), Nov. 20, 1985, 99 Stat. 879.
+A prior section 392 of act July 1, 1944, ch. 373, title III, as added Oct. 22, 1965, Pub. L. 89–291, §2, 79 Stat. 1060; amended Mar. 13, 1970, Pub. L. 91–212, §10(b)(4), (d)(2)(A), 84 Stat. 66, 67; July 23, 1974, Pub. L. 93–353, title II, §202(c), 88 Stat. 372, which related to composition, functions, etc., of the National Medical Libraries Assistance Advisory Board, was classified to section 280b–2 of this title, prior to repeal by Pub. L. 99–158, §3(b), Nov. 20, 1985, 99 Stat. 879.
 
 #### Amendments
 

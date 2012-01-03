@@ -12,6 +12,12 @@ Appointment of “judges of the Supreme Court” by the President by and with th
 
 #### Short Title of 2011 Amendment
 
+Pub. L. 112–63, §1(a), Dec. 7, 2011, 125 Stat. 758, provided that: “This Act \[enacting sections 1390 and 1455 of this title, amending sections 1332, 1391, 1404, 1441, 1446, and 1453 of this title, repealing section 1392 of this title, and enacting provisions set out as notes under sections 1332 and 1390 of this title\] may be cited as the ‘Federal Courts Jurisdiction and Venue Clarification Act of 2011’.”
+
+Pub. L. 112–62, §1, Nov. 29, 2011, 125 Stat. 756, provided that: “This Act \[amending section 2107 of this title and enacting provisions set out as notes under section 2107 of this title\] may be cited as the ‘Appeal Time Clarification Act of 2011’.”
+
+Pub. L. 112–51, §1, Nov. 9, 2011, 125 Stat. 545, provided that: “This Act \[amending sections 1442, 1446, and 1447 of this title\] may be cited as the ‘Removal Clarification Act of 2011’.”
+
 Pub. L. 111–369, §1, Jan. 4, 2011, 124 Stat. 4068, provided that: “This Act \[amending section 534 of this title\] may be cited as the ‘Access to Criminal History Records for State Sentencing Commissions Act of 2010’.”
 
 #### Short Title of 2010 Amendment
@@ -88,11 +94,11 @@ Pub. L. 101–650, title I, §101, Dec. 1, 1990, 104 Stat. 5089, provided that: 
 
 Pub. L. 101–650, title II, §201, Dec. 1, 1990, 104 Stat. 5098, provided that: “This title \[amending sections 44 and 133 of this title and enacting provisions set out as notes under sections 44, 133, and 331 of this title\] may be cited as the ‘Federal Judgeship Act of 1990’.”
 
-Pub. L. 101–650, title III, §301, Dec. 1, 1990, 104 Stat. 5104, provided that: “This title \[enacting sections 178, 1367, and 1658 of this title and section 8440b of Title 5, Government Organization and Employees, amending sections 108, 112, 122, 133, 152, 158, 332, 333, 375, 376, 377, 601, 602, 604, 631, 636, 995, 996, 1334, 1391, 1441, 1452, 1499, 1605, 1610, 1821, 1871, and 2072 of this title, sections 8331, 8334, 8336, 8339, and 8402 of Title 5, provisions set out in the Appendix to Title 5, and section 305 of Title 11, Bankruptcy, renumbering section 15 of Title 9, Arbitration, as section 16 of Title 9, enacting provisions set out as notes under sections 376, 620, 631, 1367, and 1658 of this title, section 8331 of Title 5, section 307 of Title 11, and sections 3006A and 3551 of Title 18, Crimes and Criminal Procedure, and amending provisions set out as notes under sections 533 and 581 of this title\] may be cited as the ‘Federal Courts Study Committee Implementation Act of 1990’.”
+Pub. L. 101–650, title III, §301, Dec. 1, 1990, 104 Stat. 5104, provided that: “This title \[enacting sections 178, 1367, and 1658 of this title and section 8440b of Title 5, Government Organization and Employees, amending sections 108, 112, 122, 133, 152, 158, 332, 333, 375, 376, 377, 601, 602, 604, 631, 636, 995, 996, 1334, 1391, 1441, 1452, 1499, 1605, 1610, 1821, 1871, and 2072 of this title, sections 8331, 8334, 8336, 8339, and 8402 of Title 5, provisions set out in the Appendix to Title 5, and section 305 of Title 11, Bankruptcy, renumbering section 15 of Title 9, Arbitration, as section 16 of Title 9, enacting provisions set outas notes under sections 376, 620, 631, 1367, and 1658 of this title, section 8331 of Title 5, section 307 of Title 11, and sections 3006A and 3551 of Title 18, Crimes and Criminal Procedure, and amending provisions set out as notes under sections 533 and 581 of this title\] may be cited as the ‘Federal Courts Study Committee Implementation Act of 1990’.”
 
 Pub. L. 101–650, title IV, §401, Dec. 1, 1990, 104 Stat. 5122, provided that: “This title \[amending sections 332, 372, 453, and 2077 of this title and provisions set out in the Appendix to Title 5, Government Organization and Employees, and enacting provisions set out as notes under sections 332 and 372 of this title\] may be cited as the ‘Judicial Discipline and Removal Reform Act of 1990’.”
 
-Pub. L. 101–647, title XXXVI, §3601, Nov. 29, 1990, 104 Stat. 4933, provided that: “This title \[enacting chapter 176 and section 2044 of this title, amending sections 550,1962, 1963, and 2410 of this title, section 523 of Title 11, Bankruptcy, and sections 3142 and 3552 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as a note under section 3001 of this title\] may be cited as the ‘Federal Debt Collection Procedures Act of 1990’.”
+Pub. L. 101–647, title XXXVI, §3601, Nov. 29, 1990, 104 Stat. 4933, provided that: “This title \[enacting chapter 176 and section 2044 of this title, amending sections 550, 1962, 1963, and 2410 of this title, section 523 of Title 11, Bankruptcy, and sections 3142 and 3552 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as a note under section 3001 of this title\] may be cited as the ‘Federal Debt Collection Procedures Act of 1990’.”
 
 #### Short Title of 1988 Amendments
 
@@ -158,7 +164,7 @@ For short title of Pub. L. 96–82, as the “Federal Magistrate Act of 1979”,
 
 For short title of Pub. L. 95–572 as the “Jury System Improvements Act of 1978”, see section 1 of Pub. L. 95–572, set out as a note under section 1861 of this title.
 
-Pub. L. 95–539, §1, Oct. 28, 1978, 92 Stat. 2040, provided: “That this Act \[enacting sections 1827 and 1828 of this title, amending sections 602 to 604 and 1920 of this title, enacting provisions set out as notes under section 602of this title, and repealing provisions set out as a note under section 602 of this title\] may be cited as the ‘Court Interpreters Act’.”
+Pub. L. 95–539, §1, Oct. 28, 1978, 92 Stat. 2040, provided: “That this Act \[enacting sections 1827 and 1828 of this title, amending sections 602 to 604 and 1920 of this title, enacting provisions set out as notes under section 602 of this title, and repealing provisions set out as a note under section 602 of this title\] may be cited as the ‘Court Interpreters Act’.”
 
 Pub. L. 95–408, §1, Oct. 2, 1978, 92 Stat. 883, provided that: “This Act \[amending sections 89, 93, 97, 98, 104, 112, 114, 133 of this title and enacting provisions set out as a note under section 89 of this title\] may be cited as the ‘Federal District Court Organization Act of 1978’.”
 

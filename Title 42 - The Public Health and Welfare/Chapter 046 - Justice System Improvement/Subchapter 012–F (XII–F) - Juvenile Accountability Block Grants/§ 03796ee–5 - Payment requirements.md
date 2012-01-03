@@ -48,7 +48,7 @@ Funds made available under this subchapter to States and units of local governme
 
 #### Prior Provisions
 
-A prior section 3796ee–5, Pub. L. 90–351, title I, §1806, as added Pub. L. 103–322, title II, §20201(a)(3), Sept. 13, 1994, 108 Stat. 1822, required each State and unit of local government to submit an annual evaluation of programs, prior to the general amendment of this subchapter by Pub.L. 107–273.
+A prior section 3796ee–5, Pub. L. 90–351, title I, §1806, as added Pub. L. 103–322, title II, §20201(a)(3), Sept. 13, 1994, 108 Stat. 1822, required each State and unit of localgovernment to submit an annual evaluation of programs, prior to the general amendment of this subchapter by Pub.L. 107–273.
 
 A prior section 1805 of Pub. L. 90–351 was classified to section 3796ee–4 of this title prior to the general amendment of this subchapter by Pub. L. 107–273.
 

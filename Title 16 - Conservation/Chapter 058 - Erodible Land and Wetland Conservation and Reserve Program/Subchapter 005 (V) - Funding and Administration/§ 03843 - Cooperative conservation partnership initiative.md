@@ -2,7 +2,7 @@
 
 #### (a) Establishment of Initiative
 
-The Secretary shall establish a cooperative conservation partnership initiative (in this section referred to as the “Initiative”) to work with eligible partners to provide assistance to producers enrolled in a program described in subsection (c)(1) that will enhance conservation outcomes on agricultural and nonindustrial private forest land.
+The Secretary shall establish a cooperative conservation partnership initiative (in this section referred to as the “Initiative”) to work with eligible partners to provide assistance to producers enrolled in a program described in subsection (c)(1) that will enhance conservationoutcomes on agricultural and nonindustrial private forest land.
 
 #### (b) Purposes
 

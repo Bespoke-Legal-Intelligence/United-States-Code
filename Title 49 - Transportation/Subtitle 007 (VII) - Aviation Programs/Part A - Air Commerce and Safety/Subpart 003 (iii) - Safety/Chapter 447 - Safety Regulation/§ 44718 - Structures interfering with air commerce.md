@@ -44,7 +44,11 @@ In general.—No person shall construct or establish a municipal solid waste lan
 
 Limitation on applicability.—Paragraph (1) shall not apply in the State of Alaska and shall not apply to the construction, establishment, expansion, or modification of, or to any other activity undertaken with respect to, a municipal solid waste landfill if the construction or establishment of the landfill was commenced on or before the date of the enactment of this subsection.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1200; Pub. L. 104–264, title XII, §1220(a), Oct. 9, 1996, 110 Stat. 3286; Pub. L. 106–181, title V, §503(b), Apr. 5, 2000, 114 Stat. 133.)
+(e)
+
+Review of Aeronautical Studies.—The Administrator of the Federal Aviation Administration shall develop procedures to allow the Department of Defense and the Department of Homeland Security to review and comment on an aeronautical study conducted pursuant to subsection (b) prior to the completion of the study.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1200; Pub. L. 104–264, title XII, §1220(a), Oct. 9, 1996, 110 Stat. 3286; Pub. L. 106–181, title V, §503(b), Apr. 5, 2000, 114 Stat. 133; Pub. L. 112–81, div. A, title III, §332, Dec. 31, 2011, 125 Stat. 1369.)
 
 Historical and Revision Notes
 
@@ -80,7 +84,9 @@ The date of the enactment of this subsection, referred to in subsec. (d), probab
 
 #### Amendments
 
-<b>2000</b>—Subsec. (d). Pub. L. 106–181 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “For the purposes of enhancing aviation safety, in a case in which 2 landfills have been proposed to be constructed or established within 6 miles of a commercial service airport with fewer than 50,000 enplanements per year, no person shall construct or establish either landfill if an official of the Federal Aviation Administration has stated in writing within the 3-year period ending on the date of the enactment of this subsection that 1 of the landfills would be incompatible with aircraft operations at the airport, unless the landfill is already active on such date of enactment or the airport operator agrees to the construction or establishment of the landfill.”
+<b>2011</b>—Subsec. (e). Pub. L. 112–81 added subsec. (e).
+
+<b>2000</b>—Subsec. (d). Pub. L. 106–181 amended heading and text of subsec. (d) generally. Prior to amendment,text read as follows: “For the purposes of enhancing aviation safety, in a case in which 2 landfills have been proposed to be constructed or established within 6 miles of a commercial service airport with fewer than 50,000 enplanements per year, no person shall construct or establish either landfill if an official of the Federal Aviation Administration has stated in writing within the 3-year period ending on the date of the enactment of this subsection that 1 of the landfills would be incompatible with aircraft operations at the airport, unless the landfill is already active on such date of enactment or the airport operator agrees to the construction or establishment of the landfill.”
 
 <b>1996</b>—Subsec. (d). Pub. L. 104–264 added subsec. (d).
 
@@ -94,7 +100,7 @@ Except as otherwise specifically provided, amendment by Pub. L. 104–264 applic
 
 #### Study of Effects of New Construction of Obstructions on Military Installations and Operations
 
-Pub. L. 111–383, div. A, title III, §358, Jan. 7, 2011, 124 Stat. 4198, provided that:
+Pub. L. 111–383, div. A, title III, §358, Jan. 7, 2011, 124 Stat. 4198, as amended by Pub. L. 112–81, div. A, title III, §331, Dec. 31, 2011, 125 Stat. 1369, provided that:
 
 “(a)
 
@@ -158,7 +164,7 @@ Elements.—In developing the strategy required by paragraph (1), the Secretary 
 
 &emsp;&emsp;&emsp;“(iii) recommended upgrades or modifications to existing systems or procedures by the Department of Defense;
 
-&emsp;&emsp;&emsp;“(iv) acquisition of new systems by the Department and other departments and agencies of the Federal Government and timelines for fielding such new systems; and
+&emsp;&emsp;&emsp;“(iv) acquisition of new systems by the Department and other departments and agencies of theFederal Government and timelines for fielding such new systems; and
 
 &emsp;&emsp;&emsp;“(v) modifications to the projects for which such applications are filed, including changes in size, location, or technology.
 
@@ -218,7 +224,7 @@ Contents of report.—Each report submitted under paragraph (1) shall include—
 
 “(g)
 
-Authority to Accept Contributions of Funds.—The Secretary of Defense is authorized to accept a voluntary contribution of funds from an applicant for a project filed with the Secretary of Transportation pursuant to section 44718 of title 49, United States Code. Amounts so accepted shall be available for the purpose of offsetting the cost of measures undertaken by the Secretary of Defense to mitigate adverse impacts of such project on military operations and readiness.
+Authority to Accept Contributions of Funds.—The Secretary of Defense is authorized to accept a voluntary contribution of funds from an applicant for a project filed with the Secretary of Transportation pursuant to section 44718 of title 49, United States Code. Amounts so accepted shall remain available until expended for the purpose of offsetting the cost of measures undertaken by the Secretary of Defense to mitigate adverse impacts of such project on military operations and readiness or to conduct studies of potential measures to mitigate such impacts.
 
 “(h)
 

@@ -18,7 +18,7 @@ The Commission shall be composed of the following Members of Congress:
 
 &emsp;(2) The Chairman and Vice-Chairman of the Joint Committee on the Library.
 
-&emsp;(3) The Chairman and the ranking minority party member of the Committee on Rules and Administration of the Senate, and the Chairman and the ranking minority party member of the Committee on House Oversight of the House of Representatives.
+&emsp;(3) The Chairman and the ranking minority party member of the Committee on Rules andAdministration of the Senate, and the Chairman and the ranking minority party member of the Committee on House Oversight of the House of Representatives.
 
 &emsp;(4) The majority leader and the minority leader of the Senate.
 
@@ -50,7 +50,7 @@ Section was classified to section 188a of former Title 40, prior to the enactmen
 
 #### Amendments
 
-1996—Subsec. (b)(3). Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
+<b>1996</b>—Subsec. (b)(3). Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
 
 #### Change of Name
 

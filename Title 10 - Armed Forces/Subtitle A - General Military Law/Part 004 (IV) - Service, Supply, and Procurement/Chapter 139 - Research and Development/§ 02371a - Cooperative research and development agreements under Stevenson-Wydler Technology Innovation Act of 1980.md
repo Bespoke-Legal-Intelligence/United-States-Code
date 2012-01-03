@@ -12,5 +12,5 @@ The text of section 2371(i) of this title, which was transferred to this section
 
 <b>1997</b>—Pub. L. 105–85 inserted “Defense” before “Advanced Research Projects Agency”.
 
-<b>1996</b>—Pub. L. 104–201 transferred section 2371(i) of this title to this section, added section catchline, andstruck out subsec. (i) designation and heading which read as follows: “Cooperative Research and Development Agreements Under Stevenson-Wydler Technology Innovation Act of 1980”. See Codification note above.
+<b>1996</b>—Pub. L. 104–201 transferred section 2371(i) of this title to this section, added section catchline, and struck out subsec. (i) designation and heading which read as follows: “Cooperative Research and Development Agreements Under Stevenson-Wydler Technology Innovation Act of 1980”. See Codification note above.
 

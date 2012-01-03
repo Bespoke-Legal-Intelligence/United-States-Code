@@ -228,7 +228,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In the case of an individual who is an eligible student (as defined in section 25A(b)(3)) for any academic period, such term shall also include reasonable costs for such period (as determined under thequalified tuition program) incurred by the designated beneficiary for room and board while attending such institution. For purposes of subsection (b)(6), a designated beneficiary shall be treated as meeting the requirements of this clause.
+&emsp;&emsp;&emsp;In the case of an individual who is an eligible student (as defined in section 25A(b)(3)) for any academic period, such term shall also include reasonable costs for such period (as determined under the qualified tuition program) incurred by the designated beneficiary for room and board while attending such institution. For purposes of subsection (b)(6), a designated beneficiary shall be treated as meeting the requirements of this clause.
 
 #### (ii) Limitation
 
@@ -258,7 +258,7 @@ Notwithstanding any other provision of this section, the Secretary shall prescri
 
 #### References in Text
 
-The date of the enactment of the Economic Growth and Tax Relief Reconciliation Act of 2001, referred to in subsec. (e)(3)(B)(ii)(I), is the date of enactment of Pub. L. 107–16, which was approved June 7, 2001.
+The date of the enactment of the Economic Growth and Tax Relief Reconciliation Act of 2001, referred to insubsec. (e)(3)(B)(ii)(I), is the date of enactment of Pub. L. 107–16, which was approved June 7, 2001.
 
 The date of the enactment of this paragraph, referred to in subsec. (e)(5)(A), probably means the date of enactment of Pub. L. 105–34, which enacted subsec. (e)(5) and which was approved Aug. 5, 1997.
 
@@ -438,7 +438,7 @@ Estate tax changes.—Paragraph (4) of such section 529(c) shall apply to estate
 
 Transition rule for pre-august 20, 1996 contracts.—In the case of any contract issued prior to August 20, 1996, section 529(c)(3)(C) of the Internal Revenue Code of 1986 shall be applied for taxable years ending after August 20, 1996, without regard to the requirement that a distribution be transferred to a member of the family or the requirement that a change in beneficiaries may be made only to a member of the family.”
 
-Amendment by section 1601(h)(1)(A), (B) of Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 36C of this title.
+Amendment by section 1601(h)(1)(A), (B) of Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 23 of this title.
 
 #### Effective Date
 

@@ -10,7 +10,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning a
 
 #### Codification
 
-Section is comprised of opening par. of section 14 of act Dec. 23, 1913. Subsecs. (a) to (e) of section 14 and subsec. (f) of section 14, as added Mar. 4, 1923, ch. 252, title IV, §405, 42 Stat. 1480, are set out as sections 354 to 359 of this title, respectively.
+Section is comprised of introductory provisions of section 14 of act Dec. 23, 1913. Subsecs. (a) to (g) of section 14 are set out as sections 354 to 359 and 348a of this title, respectively.
 
 #### Change of Name
 

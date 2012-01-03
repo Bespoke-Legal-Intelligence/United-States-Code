@@ -8,7 +8,7 @@ Neither a Bell operating company, nor any affiliate of a Bell operating company,
 
 #### (1) In-region services
 
-&emsp;A Bell operating company, or any affiliate of that Bell operating company, may provide interLATA services originating in any of itsin-region States (as defined in subsection (i) of this section) if the Commission approves the application of such company for such State under subsection (d)(3) of this section.
+&emsp;A Bell operating company, or any affiliate of that Bell operating company, may provide interLATA services originating in any of its in-region States (as defined in subsection (i) of this section) if the Commission approves the application of such company for such State under subsection (d)(3) of this section.
 
 #### (2) Out-of-region services
 
@@ -74,7 +74,7 @@ Neither a Bell operating company, nor any affiliate of a Bell operating company,
 
 &emsp;&emsp;&emsp;(viii) White pages directory listings for customers of the other carrier's telephone exchange service.
 
-&emsp;&emsp;&emsp;(ix) Until the date by which telecommunications numbering administration guidelines, plan, or rules are established, nondiscriminatory access to telephone numbers for assignment to the other carrier's telephone exchange service customers. After that date, compliance with such guidelines, plan, or rules.
+&emsp;&emsp;&emsp;(ix) Until the date by which telecommunications numbering administration guidelines, plan, or rules are established, nondiscriminatory access to telephone numbers for assignment to the othercarrier's telephone exchange service customers. After that date, compliance with such guidelines, plan, or rules.
 
 &emsp;&emsp;&emsp;(x) Nondiscriminatory access to databases and associated signaling necessary for call routing and completion.
 
@@ -146,7 +146,7 @@ Neither a Bell operating company, nor any affiliate of a Bell operating company,
 
 #### (1) Joint marketing of local and long distance services
 
-&emsp;Until a Bell operating company is authorized pursuant to subsection (d) of this section to provide interLATA services in an in-region State, or until 36 months have passed since February 8, 1996, whichever is earlier, a telecommunications carrier that serves greater than 5 percent of the Nation's presubscribed access lines may not jointly market in such State telephone exchange service obtained from such company pursuant to section 251(c)(4) of this title with interLATA services offered by that telecommunications carrier.
+&emsp;Until a Bell operating company is authorized pursuant to subsection (d) of this sectionto provide interLATA services in an in-region State, or until 36 months have passed since February 8, 1996, whichever is earlier, a telecommunications carrier that serves greater than 5 percent of the Nation's presubscribed access lines may not jointly market in such State telephone exchange service obtained from such company pursuant to section 251(c)(4) of this title with interLATA services offered by that telecommunications carrier.
 
 #### (2) IntraLATA toll dialing parity
 

@@ -16,7 +16,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any nonresident alien individual, the taxable excess for purposes ofsection 55(b)(1)(A) shall not be less than the lesser of—
+&emsp;&emsp;In the case of any nonresident alien individual, the taxable excess for purposes of section 55(b)(1)(A) shall not be less than the lesser of—
 
 &emsp;&emsp;&emsp;(i) the individual's alternative minimum taxable income (as defined in section 55(b)(2)) for the taxable year, or
 
@@ -92,7 +92,7 @@ For purposes of this section—
 
 #### (B) Interests held by partnerships, etc.
 
-&emsp;&emsp;Under regulations prescribed by the Secretary, assets held by a partnership, trust, or estate shall be treated as held proportionately by its partners or beneficiaries. Any asset treated as held by a partner or beneficiary by reason of this subparagraph which is used or held for use by the partnership, trust, or estate in a trade or business shall be treated as so used or held by the partner or beneficiary. Any asset treated as held by a partner or beneficiary by reason of this subparagraph shall be so treated for purposes of applying this subparagraph successively to partnerships, trusts, or estates which are above the first partnership, trust, or estate in a chain thereof.
+&emsp;&emsp;Under regulations prescribed by the Secretary, assets held by a partnership, trust, or estate shall be treated as held proportionately by its partners or beneficiaries. Any asset treated as held by a partner or beneficiary by reason of this subparagraph which is used or held for use by the partnership, trust, or estate in a trade or business shallbe treated as so used or held by the partner or beneficiary. Any asset treated as held by a partner or beneficiary by reason of this subparagraph shall be so treated for purposes of applying this subparagraph successively to partnerships, trusts, or estates which are above the first partnership, trust, or estate in a chain thereof.
 
 #### (5) Treatment of controlling interests
 
@@ -104,7 +104,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the first corporation shall be treated as holding a portion of each asset of the second corporation equal to the percentage of the fair market value of the stock of the second corporation represented by the stock held by the first corporation, and
 
-&emsp;&emsp;&emsp;(iii) any asset treated as held by the first corporation by reason of clause (ii) whichis used or held for use by the second corporation in a trade or business shall be treated as so used or held by the first corporation.
+&emsp;&emsp;&emsp;(iii) any asset treated as held by the first corporation by reason of clause (ii) which is used or held for use by the second corporation in a trade or business shall be treated as so used or held by the first corporation.
 
 > &emsp;&emsp;Any asset treated as held by the first corporation by reason of the preceding sentence shall be so treated for purposes of applying the preceding sentence successively to corporations which are above the first corporation in a chain of corporations.
 
@@ -172,7 +172,7 @@ For purposes of this section—
 
 #### (g) Special rule for sales of interest in partnerships, trusts, and estates
 
-Under regulations prescribed by the Secretary, the amount of any money, and the fair market value of any property, received by a nonresident alien individual or foreign corporation in exchange for all or part of its interest in a partnership, trust, or estate shall, to the extent attributable to United States real property interests, be considered as an amount received from the sale or exchange in the United States of such property.
+Under regulations prescribed by the Secretary, the amount of any money, and the fair marketvalue of any property, received by a nonresident alien individual or foreign corporation in exchange for all or part of its interest in a partnership, trust, or estate shall, to the extent attributable to United States real property interests, be considered as an amount received from the sale or exchange in the United States of such property.
 
 #### (h) Special rules for certain investment entities
 
@@ -252,7 +252,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) any other similar payment specified in regulations which the Secretary determines necessary to prevent avoidance of the purposes of this paragraph.
 
-&emsp;&emsp;&nbsp;The portion of any such payment treated by the taxpayer as gain from the sale orexchange of a United States real property interest under subparagraph (A) by reason of this clause shall be equal to the portion of the distribution such payment is in lieu of which would have been so treated but for the transaction giving rise to such payment.
+&emsp;&emsp;&nbsp;The portion of any such payment treated by the taxpayer as gain from the sale or exchange of a United States real property interest under subparagraph (A) by reason of this clause shall be equal to the portion of the distribution such payment is in lieu of which would have been so treated but for the transaction giving rise to such payment.
 
 #### (iii) Exception where distribution actually received
 
@@ -304,7 +304,7 @@ Except to the extent otherwise provided in regulations, gain shall be recognized
 
 &emsp;&emsp;(B) the amount of gain, if any, recognized to the transferor under any other provision at the time of the transfer.
 
-(Added Pub. L. 96–499, title XI, §1122(a), Dec. 5, 1980, 94 Stat. 2682; amended Pub. L. 97–34, title VIII, §831(a)(1), (b)–(d), (f), (g), Aug. 13, 1981, 95 Stat. 352–354; Pub. L. 97–248, title II, §201(d)(6), formerly §201(c)(6), Sept. 3, 1982, 96 Stat. 419, renumbered §201(d)(6), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 99–514, title VI, §631(e)(12), title VII, §701(e)(4)(G), title XVIII, §1810(f)(1), Oct. 22, 1986, 100 Stat. 2275, 2343, 2826; Pub. L. 100–647, title I, §1006(e)(19), Nov. 10, 1988, 102 Stat. 3403; Pub. L. 101–508, title XI, §11801(a)(30), Nov. 5, 1990, 104 Stat. 1388–521; Pub. L. 103–66, title XIII, §13203(c)(2), Aug. 10, 1993, 107 Stat. 462; Pub. L. 104–188, title I, §1702(g)(2), Aug. 20, 1996, 110 Stat. 1873; Pub. L. 108–357, title IV, §§411(c), 418(a), Oct. 22, 2004, 118 Stat. 1504, 1512; Pub. L. 109–135, title IV, §403(p)(1), Dec. 21, 2005, 119 Stat. 2626; Pub. L. 109–222, title V, §§504(a), 505(a), 506(a), May 17, 2006, 120 Stat. 355, 357; Pub. L. 110–343, div. C, title II, §208(a), Oct. 3, 2008, 122 Stat. 3865; Pub. L. 111–312, title VII, §749(a), Dec. 17, 2010, 124 Stat. 3320.)
+(Added Pub. L. 96–499, title XI, §1122(a), Dec. 5, 1980, 94 Stat. 2682; amended Pub. L. 97–34, title VIII, §831(a)(1), (b)–(d), (f), (g), Aug. 13, 1981, 95 Stat. 352–354; Pub. L. 97–248, title II, §201(d)(6), formerly §201(c)(6), Sept. 3, 1982, 96 Stat. 419, renumbered §201(d)(6), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub.L. 99–514, title VI, §631(e)(12), title VII, §701(e)(4)(G), title XVIII, §1810(f)(1), Oct. 22, 1986, 100 Stat. 2275, 2343, 2826; Pub. L. 100–647, title I, §1006(e)(19), Nov. 10, 1988, 102 Stat. 3403; Pub. L. 101–508, title XI, §11801(a)(30), Nov. 5, 1990, 104 Stat. 1388–521; Pub. L. 103–66, title XIII, §13203(c)(2), Aug. 10, 1993, 107 Stat. 462; Pub. L. 104–188, title I, §1702(g)(2), Aug. 20, 1996, 110 Stat. 1873; Pub. L. 108–357, title IV, §§411(c), 418(a), Oct. 22, 2004, 118 Stat. 1504, 1512; Pub. L. 109–135, title IV, §403(p)(1), Dec. 21, 2005, 119 Stat. 2626; Pub. L. 109–222, title V, §§504(a), 505(a), 506(a), May 17, 2006, 120 Stat. 355, 357; Pub. L. 110–343, div. C, title II, §208(a), Oct. 3, 2008, 122 Stat. 3865; Pub. L. 111–312, title VII, §749(a), Dec. 17, 2010, 124 Stat. 3320.)
 
 #### Amendments
 
@@ -312,7 +312,7 @@ Except to the extent otherwise provided in regulations, gain shall be recognized
 
 <b>2008</b>—Subsec. (h)(4)(A)(ii). Pub. L. 110–343 substituted “December 31, 2009” for “December 31, 2007”.
 
-<b>2006</b>—Subsec. (h)(1). Pub. L. 109–222, §505(a)(1), in first sentence, substituted “a nonresident alien individual, a foreign corporation, or other qualified investment entity” for “a nonresident alien individual or a foreign corporation” and “such nonresident alien individual, foreign corporation, or other qualified investment entity” for “such nonresident alien individual or foreigncorporation” and inserted second sentence and struck out former second sentence which read as follows: “Notwithstanding the preceding sentence, any distribution by a real estate investment trust with respect to any class of stock which is regularly traded on an established securities market located in the United States shall not be treated as gain recognized from the sale or exchange of a United States real property interest if the shareholder did not own more than 5 percent of such class of stock at any time during the 1-year period ending on the date of the distribution.”
+<b>2006</b>—Subsec. (h)(1). Pub. L. 109–222, §505(a)(1), in first sentence, substituted “a nonresident alien individual, a foreign corporation, or other qualified investment entity” for “a nonresident alien individual or a foreign corporation” and “such nonresident alien individual, foreign corporation, or other qualified investment entity” for “such nonresident alien individual or foreign corporation” and inserted second sentence and struck out former second sentence which read as follows: “Notwithstanding the preceding sentence, any distribution by a real estate investment trust with respect to any class of stock which is regularly traded on an established securities market located in the United States shall not be treated as gain recognized from the sale or exchange of a United States real property interest if the shareholder did not own more than 5 percent of such class of stock at any time during the 1-year period ending on the date of the distribution.”
 
 Subsec. (h)(4)(A)(i)(II). Pub. L. 109–222, §504(a), inserted “which is a United States real property holding corporation or which would be a United States real property holding corporation if the exceptions provided in subsections (c)(3) and (h)(2) did not apply to interests in any real estate investment trust or regulated investment company” after “any regulated investment company”.
 
@@ -370,7 +370,7 @@ Distributions by Domestic Corporations to Foreign Shareholders.—If a domestic 
 
 &emsp;“(ii) the individual's net United States real property gain for the taxable year.”
 
-Subsec. (d). Pub. L. 99–514, §631(e)(12), in heading, struck out “, etc.,” after “distributions”, and in text, struck out heading and designation for par. (1), redesignated subpar. (A) as par. (1), redesignated subpar. (B) as par. (2) and substituted “paragraph (1)” for “subparagraph (A)” in introductory provisions, redesignated cl. (i) and its subcls. (I) and (II) as subpar. (A) and cls. (i) and (ii), respectively, redesignated cl. (ii) as subpar. (B), and struck out former par. (2) which provided that section 337 not apply to any sale or exchange of a United States real property interest by a foreign corporation.
+Subsec. (d). Pub. L. 99–514, §631(e)(12), in heading, struck out “, etc.,” after “distributions”, and in text,struck out heading and designation for par. (1), redesignated subpar. (A) as par. (1), redesignated subpar. (B) as par. (2) and substituted “paragraph (1)” for “subparagraph (A)” in introductory provisions, redesignated cl. (i) and its subcls. (I) and (II) as subpar. (A) and cls. (i) and (ii), respectively, redesignated cl. (ii) as subpar. (B), and struck out former par. (2) which provided that section 337 not apply to any sale or exchange of a United States real property interest by a foreign corporation.
 
 Subsec. (i)(1), (4). Pub. L. 99–514, §1810(f)(1), inserted reference to section 1445.
 
@@ -378,7 +378,7 @@ Subsec. (i)(1), (4). Pub. L. 99–514, §1810(f)(1), inserted reference to secti
 
 <b>1981</b>—Subsec. (c)(1)(A)(i). Pub. L. 97–34, §831(a)(1), defined “United States real property interest” to also mean an interest in real property located in the Virgin Islands.
 
-Subsec. (c)(4)(B). Pub. L. 97–34, §831(b), substituted “Assets” for “Interests” in heading and in first sentence “Under regulations prescribed by the Secretary,assets held by a partnership, trust or estate shall be treated as held” for “United States real property interests held by a partnership, trust, or estate shall be treated as owned” before “proportionately by its partners or beneficiaries”, and inserted provisions respecting treatment of an asset as used or held for use in a trade or business by a partner or beneficiary when used or held by the partnership, trust, or estate in a trade or business and attributing chain treatment of such trade or business to partnership, trust, or estate which are above the first such entity.
+Subsec. (c)(4)(B). Pub. L. 97–34, §831(b), substituted “Assets” for “Interests” in heading and in first sentence “Under regulations prescribed by the Secretary, assets held by a partnership, trust or estate shall be treated as held” for “United States real property interests held by a partnership, trust, or estate shall be treated as owned” before “proportionately by its partners or beneficiaries”, and inserted provisions respecting treatment of an asset as used or held for use in a trade or business by a partner or beneficiary when used or held by the partnership, trust, or estate in a trade or business and attributing chain treatment of such trade or business to partnership, trust, or estate which are above the first such entity.
 
 Subsec. (d)(1)(B). Pub. L. 97–34, §831(c), substituted “Exceptions” for “Exception where there is a carryover basis” in heading, inserted introductory text “Gain shall not be recognized under subparagraph (A)”, inserted cls. (i)(I) and (ii), and substituted cl. (i)(II) the basis of the distributed property in the hands of the distributee is no greater than the adjusted basis of such property before the distribution, increased by the amount of gain (if any) recognized by the distributing corporation” for subpar. (B) provision “Subparagraph (A) shall not apply if the basis of the distributed property in the hands of the distributee is the same as the adjusted basis of such property before the distribution increased by the amount of any gain recognized by the distributing corporation.”
 
@@ -440,7 +440,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 631(e)(12) of Pub. L. 99–514 applicable to any distribution in complete liquidation, and any sale or exchange, made by a corporation after July 31, 1986, unless such corporation is completely liquidated before Jan. 1, 1987, any transaction described insection 338 of this title for which the acquisition date occurs after Dec. 31, 1986, and any distribution, not in complete liquidation, made after Dec. 31, 1986, with exceptions and special and transitional rules, see section 633 of Pub. L. 99–514, set out as an Effective Date note under section 336 of this title.
+Amendment by section 631(e)(12) of Pub. L. 99–514 applicable to any distribution in complete liquidation, and any sale or exchange, made by a corporation after July 31, 1986, unless such corporation is completely liquidated before Jan. 1, 1987, any transaction described in section 338 of this title for which the acquisition date occurs after Dec. 31, 1986, and any distribution, not in complete liquidation, made after Dec. 31, 1986, with exceptions and special and transitional rules, see section 633 of Pub. L. 99–514, set out as an Effective Date note under section 336 of this title.
 
 Amendment by section 701(e)(4)(G) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 701(f) of Pub. L. 99–514, set out as an Effective Date note under section 55 of this title.
 

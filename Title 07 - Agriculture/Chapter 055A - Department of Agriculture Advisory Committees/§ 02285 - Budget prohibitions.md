@@ -10,5 +10,5 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 
 #### Amendments
 
-1981—Pub. L. 97–98 substituted provision relating to budget prohibitions for provision relating to membership on advisory committees. See section 2283 of this title.
+<b>1981</b>—Pub. L. 97–98 substituted provision relating to budget prohibitions for provision relating to membership on advisory committees. See section 2283 of this title.
 

@@ -18,7 +18,7 @@
 
 #### (b) Loans to nonprofit organizations or public housing agencies; purpose and terms; repayment; authorization of appropriations; deposit of appropriations in Low and Moderate Income Sponsor Fund
 
-(1) The Secretary is authorized to make loans to nonprofit organizations or public housing agencies for the necessary expenses, prior to construction, in planning, and obtaining financing for, the rehabilitation or construction of housing for low or moderate income families under section 235 of the National Housing Act \[12 U.S.C. 1715z\] or any other federally assisted program. Such loans shall be made without interest and shall not exceed 80 per centum of the reasonable costs expected to be incurred in planning, and in obtaining financing for, such housing prior to the availability of financing, including, but not limited to, preliminary surveys and analyses of market needs, preliminary site engineering and architectural fees, site acquisition, application and mortgage commitment fees, and construction loan fees and discounts. The Secretary shall require repayment of loans made under this subsection, under such terms and conditions as he may require, upon completion of the project or sooner, and may cancel any part or all of a loan if he determines that it cannot be recovered from the proceeds of any permanent loan made to finance the rehabilitation or construction of the housing.
+(1) The Secretary is authorized to make loans to nonprofit organizations or public housing agencies for the necessary expenses, prior to construction, in planning, and obtaining financing for, the rehabilitation or construction of housing for low or moderate income families under section 235 of the National Housing Act \[12 U.S.C. 1715z\] or any other federally assisted program. Such loans shall be made without interest and shall not exceed 80 per centum of thereasonable costs expected to be incurred in planning, and in obtaining financing for, such housing prior to the availability of financing, including, but not limited to, preliminary surveys and analyses of market needs, preliminary site engineering and architectural fees, site acquisition, application and mortgage commitment fees, and construction loan fees and discounts. The Secretary shall require repayment of loans made under this subsection, under such terms and conditions as he may require, upon completion of the project or sooner, and may cancel any part or all of a loan if he determines that it cannot be recovered from the proceeds of any permanent loan made to finance the rehabilitation or construction of the housing.
 
 (2) The Secretary shall determine prior to the making of any loan that the nonprofit organization or public housing agency meets such requirements with respect to financial responsibility and stability as he may prescribe.
 
@@ -244,7 +244,7 @@
 
 #### (A) Designation of counseling target areas
 
-&emsp;&emsp;The Secretary shall designate 3 counseling target areas (as provided in subparagraph (B)), which shall be located in not less than 2 separate metropolitan areas. The Secretary shall provide for counseling under the demonstration program under this subsection with respect to only such counseling target areas.
+&emsp;&emsp;The Secretary shall designate 3 counseling target areas (as provided in subparagraph\(B)), which shall be located in not less than 2 separate metropolitan areas. The Secretary shall provide for counseling under the demonstration program under this subsection with respect to only such counseling target areas.
 
 #### (B) Counseling target areas
 
@@ -268,7 +268,7 @@
 
 #### (E) Designation of control areas
 
-&emsp;&emsp;For purposes of determining the effectiveness of counseling under the demonstration program, the Secretary shall designate 3 control areas, each of which shall correspondto 1 of the counseling target areas designated under subparagraph (A). Each control area shall be located in the metropolitan area in which the corresponding counseling target area is located, shall meet the requirements of subparagraph (B), and shall be similar to such area with respect to size, age of housing stock, median income, and racial makeup of the population. Each control area shall also comply with the requirements of subclause (I) or (II) of subparagraph (B)(iv), according to the subclause with which the corresponding counseling target area complies.
+&emsp;&emsp;For purposes of determining the effectiveness of counseling under the demonstration program, the Secretary shall designate 3 control areas, each of which shall correspond to 1 of the counseling target areas designated under subparagraph (A). Each control area shall be located in the metropolitan area in which the corresponding counseling target area is located, shall meet the requirements of subparagraph (B), and shall be similar to such area with respect to size, age of housing stock, median income, and racial makeup of the population. Each control area shall also comply with the requirements of subclause (I) or (II) of subparagraph (B)(iv), according to the subclause with which the corresponding counseling target area complies.
 
 #### (8) Evaluation
 
@@ -402,7 +402,337 @@
 
 &emsp;There are authorized to be appropriated to carry out this subsection $2,000,000 for fiscal year 1993 and $2,084,000 for 1994.
 
-(Pub. L. 90–448, title I, §106, Aug. 1, 1968, 82 Stat. 490; Pub. L. 91–609, title IX, §903(a), (b), Dec. 31, 1970, 84 Stat. 1808; Pub. L. 93–383, title VIII, §811, Aug. 22, 1974, 88 Stat. 735; Pub. L. 95–128, title IX, §903, Oct. 12, 1977, 91 Stat. 1149; Pub. L. 97–35, title III, §339A, Aug. 13, 1982, 95 Stat. 417; Pub. L. 98–181, title IV, §465, Nov. 30, 1983, 97 Stat. 1236; Pub. L. 98–479, title II, §204(f), Oct. 17, 1984, 98 Stat. 2233; Pub. L. 100–242, title I, §169, Feb. 5, 1988, 101 Stat. 1865; Pub. L. 100–628, title X, §1009, Nov. 7, 1988, 102 Stat. 3266; Pub. L. 101–137, §8, Nov. 3, 1989, 103 Stat. 826; Pub. L. 101–625, title V, §577, title VII, §706(c), Nov. 28, 1990, 104 Stat. 4238, 4286; Pub. L. 102–550, title I, §162(a)–(d), Oct. 28, 1992, 106 Stat. 3719–3721; Pub. L. 104–316, title I, §106(a), Oct. 19, 1996, 110 Stat. 3830; Pub. L. 105–276, title V, §594(a), (b), Oct. 21, 1998, 112 Stat. 2655; Pub. L. 107–73, title II, §205, Nov. 26, 2001, 115 Stat. 674; Pub. L. 109–163, div. A, title VI, §688(a), Jan. 6, 2006, 119 Stat. 3336; Pub. L. 110–289, div. B, title I, §2127, July 30, 2008, 122 Stat. 2841.)
+(Pub. L. 90–448, title I, §106, Aug. 1, 1968, 82 Stat. 490; Pub. L. 91–609, title IX, §903(a), (b), Dec. 31, 1970, 84 Stat. 1808; Pub. L. 93–383, title VIII, §811, Aug. 22, 1974, 88 Stat. 735; Pub. L. 95–128, title IX, §903, Oct. 12, 1977, 91 Stat. 1149; Pub. L. 97–35, title III, §339A, Aug. 13, 1982, 95 Stat. 417; Pub. L. 98–181, title IV, §465, Nov. 30, 1983, 97 Stat. 1236; Pub. L. 98–479, title II, §204(f), Oct. 17, 1984, 98 Stat. 2233; Pub. L. 100–242, title I, §169, Feb. 5, 1988, 101 Stat. 1865; Pub. L. 100–628, title X, §1009, Nov. 7, 1988, 102 Stat. 3266; Pub. L. 101–137, §8, Nov. 3, 1989, 103 Stat. 826; Pub. L. 101–625, title V, §577, title VII, §706(c), Nov. 28, 1990, 104 Stat. 4238, 4286; Pub. L. 102–550, title I, §162(a)–(d), Oct. 28, 1992, 106 Stat. 3719–3721; Pub. L. 104–316, title I, §106(a), Oct. 19, 1996, 110 Stat. 3830; Pub. L. 105–276, title V, §594(a), (b), Oct. 21, 1998, 112 Stat. 2655; Pub. L. 107–73, title II, §205, Nov. 26, 2001, 115 Stat. 674; Pub. L. 109–163, div. A, title VI, §688(a), Jan. 6, 2006, 119 Stat. 3336; Pub. L. 110–289, div. B, title I, §2127, July 30, 2008, 122 Stat. 2841; Pub. L. 111–203, title XIV, §§1443–1445, 1448, 1449, July 21, 2010, 124 Stat. 2165–2171, 2173, 2174.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title XIV, §§1400(c), 1443–1445, 1448, 1449, July 21, 2010, 124 Stat. 2136, 2165–2171, 2173, 2174, provided that this section is amended, effective on the date on which final regulations implementing such amendments take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date:</i>
+
+<i>(1) in subsection (a), by adding at the end the following:</i>
+
+<i>“(4)</i>
+
+<i>Homeownership and Rental Counseling Assistance.—</i>
+
+&emsp;<i>“(A)</i>
+
+<i>In general.—The Secretary shall make financial assistance available under this paragraph to HUD-approved housing counseling agencies and State housing finance agencies.</i>
+
+&emsp;<i>“(B)</i>
+
+<i>Qualified entities.—The Secretary shall establish standards and guidelines for eligibility of organizations (including governmental and nonprofit organizations) to receive assistance under this paragraph, in accordance with subparagraph (D).</i>
+
+&emsp;<i>“(C)</i>
+
+<i>Distribution.—Assistance made available under this paragraph shall be distributed in a manner that encourages efficient and successful counseling programs and that ensures adequate distribution of amounts for rural areas having traditionally low levels of access to such counseling services, including areas with insufficient access to the Internet. In distributing such assistance, the Secretary may give priority consideration to entities serving areas with the highest home foreclosure rates.</i>
+
+&emsp;<i>“(D)</i>
+
+<i>Limitation on distribution of assistance.—</i>
+
+&emsp;&emsp;<i>“(i)</i>
+
+<i>In general.—None of the amounts made available under this paragraph shall be distributed to—</i>
+
+&emsp;&emsp;&emsp;<i>“(I) any organization which has been convicted for a violation under Federal law relating to an election for Federal office; or</i>
+
+&emsp;&emsp;&emsp;<i>“(II) any organization which employs applicable individuals.</i>
+
+&emsp;&emsp;<i>“(ii)</i>
+
+<i>Definition of applicable individuals.—In this subparagraph, the term ‘applicable individual’ means an individual who—</i>
+
+&emsp;&emsp;&emsp;<i>“(I) is—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(aa) employed by the organization in a permanent or temporary capacity;</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(bb) contracted or retained by the organization; or</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(cc) acting on behalf of, or with the express or apparent authority of, the organization; and</i>
+
+&emsp;&emsp;&emsp;<i>“(II) has been convicted for a violation under Federal law relating to an election for Federal office.</i>
+
+&emsp;<i>“(E)</i>
+
+<i>Grantmaking process.—In making assistance available under this paragraph, the Secretary shall consider appropriate ways of streamlining and improving the processes for grant application, review, approval, and award.</i>
+
+&emsp;<i>“(F)</i>
+
+<i>Authorization of appropriations.—There are authorized to be appropriated $45,000,000 for each of fiscal years 2009 through 2012 for—</i>
+
+&emsp;&emsp;<i>“(i) the operations of the Office of Housing Counseling of the Department of Housing and Urban Development;</i>
+
+&emsp;&emsp;<i>“(ii) the responsibilities of the Director of Housing Counseling under paragraphs (2) through (5) of subsection (g); and</i>
+
+&emsp;&emsp;<i>“(iii) assistance pursuant to this paragraph for entities providing homeownership and rental counseling.”;</i>
+
+<i>(2) in subsection (c)(5)(A)(ii)—</i>
+
+<i>(A) in subclause (III), by striking “and” at the end;</i>
+
+<i>(B) in subclause (IV), by substituting “; and” for the period at the end; and</i>
+
+<i>(C) by inserting after subclause (IV) the following:</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(V) notify the housing or mortgage applicant of the availability of mortgage software systems provided pursuant to subsection (g)(3).”;</i>
+
+<i>(3) in subsection (e)—</i>
+
+<i>(A) by striking paragraph (1) and inserting the following:</i>
+
+#### <i>“(1) Requirement for assistance</i>
+
+&emsp;<i>“An organization may not receive assistance for counseling activities under subsection (a)(1)(iii), (a)(2), (a)(4), (c), or (d) of this section, or under section 1701w of this title, unless the organization, or the individuals through which the organization provides such counseling, has been certified by the Secretary under this subsection as competent to provide such counseling.”;</i>
+
+<i>(B) in paragraph (2), by inserting “and for certifying organizations” before the period at the end of the first sentence and substituting “, for certification of an organization, that each individual through which the organization</i><i>provides counseling shall demonstrate, and, for certification of an individual,” for “for certification” in the second sentence;</i>
+
+<i>(C) in paragraph (3), by inserting “organizations and” before “individuals”;</i>
+
+<i>(D) by redesignating paragraph (3) as (5); and</i>
+
+<i>(E) by inserting after paragraph (2) the following:</i>
+
+#### <i>“(3) Requirement under HUD programs</i>
+
+&emsp;<i>“Any homeownership counseling or rental housing counseling (as such terms are defined in subsection (g)(1)) required under, or provided in connection with, any program administered by the Department of Housing and Urban Development shall be provided only by organizations or counselors certified by the Secretary under this subsection as competent to provide such counseling.</i>
+
+#### <i>“(4) Outreach</i>
+
+&emsp;<i>“The Secretary shall take such actions as the Secretary considers appropriate to ensure that individuals and organizations providing homeownership or rental housing counseling are aware of the certification requirements and standards of this subsection and of the training and certification programs under subsection (f).”; and</i>
+
+<i>(4) by adding at the end the following:</i>
+
+#### <i>“(g) Procedures and activities</i>
+
+#### <i>“(1) Counseling procedures</i>
+
+#### <i>“(A) In general</i>
+
+&emsp;&emsp;<i>“The Secretary shall establish, coordinate, and monitor the administration by the Department of Housing and Urban Development of the counseling procedures for homeownership counseling and rental housing counseling provided in connection with any program of the Department, including all requirements, standards, and performance measures that relate to homeownership and rental housing counseling.</i>
+
+#### <i>“(B) Homeownership counseling</i>
+
+&emsp;&emsp;<i>“For purposes of this subsection and as used in the provisions referred to in this subparagraph, the term ‘homeownership counseling’ means counseling related to homeownership and residential mortgage loans. Such term includes counseling related to homeownership and residential mortgage loans that is provided pursuant to—</i>
+
+&emsp;&emsp;&emsp;<i>“(i) section 105(a)(20) of the Housing and Community Development Act of 1974 (42 U.S.C. 5305(a)(20));</i>
+
+&emsp;&emsp;&emsp;<i>“(ii) in the United States Housing Act of 1937—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(I) section 9(e) (42 U.S.C. 1437g(e));</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(II) section 8(y)(1)(D) (42 U.S.C. 1437f(y)(1)(D));</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(III) section 18(a)(4)(D) (42 U.S.C. 1437p(a)(4)(D));</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(IV) section 23(c)(4) (42 U.S.C. 1437u(c)(4));</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(V) section 32(e)(4) (42 U.S.C. 1437z–4(e)(4));</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(VI) section 33(d)(2)(B) (42 U.S.C. 1437z–5(d)(2)(B));</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(VII) sections 302(b)(6) and 303(b)(7) (42 U.S.C. 1437aaa–1(b)(6), 1437aaa–2(b)(7)); and</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(VIII) section 304(c)(4) (42 U.S.C. 1437aaa–3(c)(4));</i>
+
+&emsp;&emsp;&emsp;<i>“(iii) section 302(a)(4) of the American Homeownership and Economic Opportunity Act of 2000 (42 U.S.C. 1437f note);</i>
+
+&emsp;&emsp;&emsp;<i>“(iv) sections 12773(b)(2) and 12808(b) of title 42;</i>
+
+&emsp;&emsp;&emsp;<i>“(v) this section and section 1701w of this title;</i>
+
+&emsp;&emsp;&emsp;<i>“(vi) section 4110(d)(2)(G) of this title;</i>
+
+&emsp;&emsp;&emsp;<i>“(vii) sections 12872(b)(6), 12873(b)(7), 12874(c)(4), 12892(b)(6), and 12893(b)(6) of title 42;</i>
+
+&emsp;&emsp;&emsp;<i>“(viii) section 11408(b)(1)(F)(iii) of title 42;</i>
+
+&emsp;&emsp;&emsp;<i>“(ix) sections 202(3) and 810(b)(2)(A) of the Native American Housing and Self-Determination Act of 1996 (25 U.S.C. 4132(3), 4229(b)(2)(A));</i>
+
+&emsp;&emsp;&emsp;<i>“(x) in the National Housing Act—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(I) in section 203 (12 U.S.C. 1709), the penultimate undesignated paragraph of paragraph (2) of subsection (b), subsection (c)(2)(A), and subsection (r)(4);</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(II) subsections (a) and (c)(3) of section 237; and</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(III) subsections (d)(2)(B) and (m)(1) of section 255 (12 U.S.C. 1715z–20);</i>
+
+&emsp;&emsp;&emsp;<i>“(xi) section 502(h)(4)(B) of the Housing Act of 1949 (42 U.S.C. 1472(h)(4)(B));</i>
+
+&emsp;&emsp;&emsp;<i>“(xii) section 1701z–7 of this title; and</i>
+
+&emsp;&emsp;&emsp;<i>“(xiii) section 1701z–16 of this title.</i>
+
+#### <i>“(C) Rental housing counseling</i>
+
+&emsp;&emsp;<i>“For purposes of this subsection, the term ‘rental housing counseling’ means counseling related to rental of residential property, which may include counseling regarding future homeownership opportunities and providing referrals for renters and prospective renters to entities providing counseling and shall include counseling related to such topics that is provided pursuant to—</i>
+
+&emsp;&emsp;&emsp;<i>“(i) section 105(a)(20) of the Housing and Community Development Act of 1974 (42 U.S.C. 5305(a)(20));</i>
+
+&emsp;&emsp;&emsp;<i>“(ii) in the United States Housing Act of 1937—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(I) section 9(e) (42 U.S.C. 1437g(e));</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(II) section 18(a)(4)(D) (42 U.S.C. 1437p(a)(4)(D));</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(III) section 23(c)(4) (42 U.S.C. 1437u(c)(4));</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(IV) section 32(e)(4) (42 U.S.C. 1437z–4(e)(4));</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(V) section 33(d)(2)(B) (42 U.S.C. 1437z–5(d)(2)(B)); and</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(VI) section 302(b)(6) (42 U.S.C. 1437aaa–1(b)(6));</i>
+
+&emsp;&emsp;&emsp;<i>“(iii) section 12773(b)(2) of title 42;</i>
+
+&emsp;&emsp;&emsp;<i>“(iv) this section;</i>
+
+&emsp;&emsp;&emsp;<i>“(v) section 12872(b)(6) of title 42;</i>
+
+&emsp;&emsp;&emsp;<i>“(vi) section 11408(b)(1)(F)(iii) of title 42;</i>
+
+&emsp;&emsp;&emsp;<i>“(vii) sections 202(3) and 810(b)(2)(A) of the Native American Housing and Self-Determination Act of 1996 (25 U.S.C. 4132(3), 4229(b)(2)(A)); and</i>
+
+&emsp;&emsp;&emsp;<i>“(viii) the rental assistance program under section 8 of the United States Housing Act of 1937 (42 U.S.C. 1437f).</i>
+
+#### <i>“(2) Standards for materials</i>
+
+&emsp;<i>“The Secretary, in consultation with the advisory committee established under subsection (g)(4)</i><i>of the Department of Housing and Urban Development Act, shall establish standards for materials and forms to be used, as appropriate, by organizations providing homeownership counseling services, including any recipients of assistance pursuant to subsection (a)(4).</i>
+
+#### <i>“(3) Mortgage software systems</i>
+
+#### <i>“(A) Certification</i>
+
+&emsp;&emsp;<i>“The Secretary shall provide for the certification of various computer software programs for consumers to use in evaluating different residential mortgage loan proposals. The Secretary shall require, for such certification, that the mortgage software systems take into account—</i>
+
+&emsp;&emsp;&emsp;<i>“(i) the consumer's financial situation and the cost of maintaining a home, including insurance, taxes, and utilities;</i>
+
+&emsp;&emsp;&emsp;<i>“(ii) the amount of time the consumer expects to remain in the home or expected time to maturity of the loan; and</i>
+
+&emsp;&emsp;&emsp;<i>“(iii) such other factors as the Secretary considers appropriate to assist the consumer in evaluating whether to pay points, to lock in an interest rate, to select an adjustable or fixed rate loan, to select a conventional or government-insured or guaranteed loan and to make other choices during the loan application process.</i>
+
+> &emsp;&emsp;<i>If the Secretary determines that available existing software is inadequate to assist consumers during the residential mortgage loan application process, the Secretary shall arrange for the development by private sector software companies of new mortgage software systems that meet the Secretary's specifications.</i>
+
+#### <i>“(B) Use and initial availability</i>
+
+&emsp;&emsp;<i>“Such certified computer software programs shall be used to supplement, not replace, housing counseling. The Secretary shall provide that such programs are initially used only in connection with the assistance of housing counselors certified pursuant to subsection (e).</i>
+
+#### <i>“(C) Availability</i>
+
+&emsp;&emsp;<i>“After a period of initial availability under subparagraph (B) as the Secretary considers appropriate, the Secretary shall take reasonable steps to make mortgage software systems certified pursuant to this paragraph widely available through the Internet and at public locations, including public libraries, senior-citizen centers, public housing sites, offices of public housing agencies that administer rental housing assistance vouchers, and housing counseling centers.</i>
+
+#### <i>“(D) Budget compliance</i>
+
+&emsp;&emsp;<i>“This paragraph shall be effective only to the extent that amounts to carry out this paragraph are made available in advance in appropriations Acts.</i>
+
+#### <i>“(4) National public service multimedia campaigns to promote housing counseling</i>
+
+#### <i>“(A) In general</i>
+
+&emsp;&emsp;<i>“The Director of Housing Counseling shall develop, implement, and conduct national public service multimedia campaigns designed to make persons facing mortgage foreclosure, persons considering a subprime mortgage loan to purchase a home, elderly persons, persons who face language barriers, low-income persons, minorities, and other potentially vulnerable consumers aware that it is advisable, before seeking or maintaining a residential mortgage loan, to obtain homeownership counseling from an unbiased and reliable sources and that such homeownership counseling is available, including through programs sponsored by the Secretary of Housing and Urban Development.</i>
+
+#### <i>“(B) Contact information</i>
+
+&emsp;&emsp;<i>“Each segment of the multimedia campaign under subparagraph (A) shall publicize the toll-free telephone number and website of the Department of Housing and Urban Development through which persons seeking housing counseling can locate a housing counseling agency in their State that is certified by the Secretary of Housing and Urban Development and can provide advice on buying a home, renting, defaults, foreclosures, credit issues, and reverse mortgages.</i>
+
+#### <i>“(C) Authorization of appropriations</i>
+
+&emsp;&emsp;<i>“There are authorized to be appropriated to the Secretary, not to exceed $3,000,000 for fiscal years 2009, 2010, and 2011, for the development, implementation, and conduct of national public service multimedia campaigns under this paragraph.</i>
+
+#### <i>“(D) Foreclosure rescue education programs</i>
+
+#### <i>“(i) In general</i>
+
+&emsp;&emsp;&emsp;<i>“Ten percent of any funds appropriated pursuant to the authorization under subparagraph (C) shall be used by the Director of Housing Counseling to conduct an education program in areas that have a high density of foreclosure. Such program shall involve direct mailings to persons living in such areas describing—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(I) tips on avoiding foreclosure rescue scams;</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(II) tips on avoiding predatory lending mortgage agreements;</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(III) tips on avoiding for-profit foreclosure counseling services; and</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(IV) local counseling resources that are approved by the Department of Housing and Urban Development.</i>
+
+#### <i>“(ii) Program emphasis</i>
+
+&emsp;&emsp;&emsp;<i>“In conducting the education program described under clause (i), the Director of Housing Counseling shall also place an emphasis on serving communities that have a high percentage of retirement communities or a high percentage of low-income minority communities.</i>
+
+#### <i>“(iii) Terms defined</i>
+
+&emsp;&emsp;&emsp;<i>“For purposes of this subparagraph:</i>
+
+#### <i>“(I) High density of foreclosures</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“An area has a ‘high density of foreclosures’ if such area is one of the metropolitan statistical areas (as that term is defined by the Director of the Office of Management and Budget) with the highest home foreclosure rates.</i>
+
+#### <i>“(II) High percentage of retirement communities</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“An area has a ‘high percentage of retirement communities’ if such area is one of the</i><i>metropolitan statistical areas (as that term is defined by the Director of the Office of Management and Budget) with the highest percentage of residents aged 65 or older.</i>
+
+#### <i>“(III) High percentage of low-income minority communities</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“An area has a ‘high percentage of low-income minority communities’ if such area contains a higher-than-normal percentage of residents who are both minorities and low-income, as defined by the Director of Housing Counseling.</i>
+
+#### <i>“(5) Education programs</i>
+
+&emsp;<i>“The Secretary shall provide advice and technical assistance to States, units of general local government, and nonprofit organizations regarding the establishment and operation of, including assistance with the development of content and materials for, educational programs to inform and educate consumers, particularly those most vulnerable with respect to residential mortgage loans (such as elderly persons, persons facing language barriers, low-income persons, minorities, and other potentially vulnerable consumers), regarding home mortgages, mortgage refinancing, home equity loans, home repair loans, and where appropriate by region, any requirements and costs associated with obtaining flood or other disaster-specific insurance coverage.</i>
+
+#### <i>“(h) Definitions</i>
+
+<i>“For purposes of this section:</i>
+
+#### <i>“(1) Nonprofit organization</i>
+
+&emsp;<i>“The term ‘nonprofit organization’ has the meaning given such term in section 12704(5) of title 42, except that subparagraph (D) of such section shall not apply for purposes of this section.</i>
+
+#### <i>“(2) State</i>
+
+&emsp;<i>“The term ‘State’ means each of the several States, the Commonwealth of Puerto Rico, the District of Columbia, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, the Trust Territories of the Pacific, or any other possession of the United States.</i>
+
+#### <i>“(3) Unit of general local government</i>
+
+&emsp;<i>“The term ‘unit of general local government’ means any city, county, parish, town, township, borough, village, or other general purpose political subdivision of a State.</i>
+
+#### <i>“(4) HUD-approved counseling agency</i>
+
+&emsp;<i>“The term ‘HUD-approved counseling agency’ means a private or public nonprofit organization that is—</i>
+
+&emsp;&emsp;<i>“(A) exempt from taxation under section 501(c) of title 26; and</i>
+
+&emsp;&emsp;<i>“(B) certified by the Secretary to provide housing counseling services.</i>
+
+#### <i>“(5) State housing finance agency</i>
+
+&emsp;<i>“The term ‘State housing finance agency’ means any public body, agency, or instrumentality specifically created under State statute that is authorised to finance activities designed to provide housing and related facilities throughout an entire State through land acquisition, construction, or rehabilitation.</i>
+
+#### <i>“(i) Accountability for recipients of covered assistance</i>
+
+#### <i>“(1) Tracking of funds</i>
+
+&emsp;<i>“The Secretary shall—</i>
+
+&emsp;&emsp;<i>“(A) develop and maintain a system to ensure that any organization or entity that receives any covered assistance uses all amounts of covered assistance in accordance with this section, the regulations issued under this section, and any requirements or conditions under which such amounts were provided; and</i>
+
+&emsp;&emsp;<i>“(B) require any organization or entity, as a condition of receipt of any covered assistance, to agree to comply with such requirements regarding covered assistance as the Secretary shall establish, which shall include—</i>
+
+&emsp;&emsp;&emsp;<i>“(i) appropriate periodic financial and grant activity reporting, record retention, and audit requirements for the duration of the covered assistance to the organization or entity to ensure compliance with the limitations and requirements of this section, the regulations under this section, and any requirements or conditions under which such amounts were provided; and</i>
+
+&emsp;&emsp;&emsp;<i>“(ii) any other requirements that the Secretary determines are necessary to ensure appropriate administration and compliance.</i>
+
+#### <i>“(2) Misuse of funds</i>
+
+&emsp;<i>“If any organization or entity that receives any covered assistance is determined by the Secretary to have used any covered assistance in a manner that is materially in violation of this section, the regulations issued under this section, or any requirements or conditions under which such assistance was provided—</i>
+
+&emsp;&emsp;<i>“(A) the Secretary shall require that, within 12 months after the determination of such misuse, the organization or entity shall reimburse the Secretary for such misused amounts and return to the Secretary any such amounts that remain unused or uncommitted for use; and</i>
+
+&emsp;&emsp;<i>“(B) such organization or entity shall be ineligible, at any time after such determination, to apply for or receive any further covered assistance.</i>
+
+> &emsp;<i>“The remedies under this paragraph are in addition to any other remedies that may be available under law.</i>
+
+#### <i>“(3) Covered assistance</i>
+
+&emsp;<i>“For purposes of this subsection, the term ‘covered assistance’ means any grant or other financial assistance provided under this section.”</i>
+
+<i>See Effective Date of 2010 Amendment note below.</i>
 
 #### References in Text
 
@@ -422,17 +752,17 @@ Section was enacted as part of the Housing and Urban Development Act of 1968, an
 
 #### Amendments
 
-2008—Subsec. (c)(4). Pub. L. 110–289, §2127(2), struck out concluding provisions which read as follows: “An applicant for a mortgage shall be eligible for homeownership counseling under this subsection if the applicant is a first-time homebuyer who meets the requirements of section 12852(b)(1) of title 42 and the mortgage involves a principal obligation (including such initial service charges, appraisal, inspection, and other fees as the Secretary shall approve) in excess of 97 percent of the appraised value of the property and is to be insured pursuant to section 203 of the National Housing Act.”
+<b>2008</b>—Subsec. (c)(4). Pub. L. 110–289, §2127(2), struck out concluding provisions which read as follows: “An applicant for a mortgage shall be eligible for homeownership counseling under this subsection if the applicant is a first-time homebuyer who meets the requirements of section 12852(b)(1) of title 42 and the mortgage involves a principal obligation (including such initial service charges, appraisal, inspection, and other fees as the Secretary shall approve) in excess of 97 percent of the appraised value of the property and is to be insured pursuant to section 203 of the National Housing Act.”
 
 Subsec. (c)(4)(C)(iii), (iv). Pub. L. 110–289, §2127(1), added cls. (iii) and (iv).
 
 Subsec. (c)(4)(D). Pub. L. 110–289, §2127(3), added subpar. (D).
 
-2006—Subsec. (c)(5)(A)(ii)(IV). Pub. L. 109–163 added subcl. (IV).
+<b>2006</b>—Subsec. (c)(5)(A)(ii)(IV). Pub. L. 109–163 added subcl. (IV).
 
-2001—Subsec. (c)(9). Pub. L. 107–73 struck out heading and text of par. (9). Text read as follows: “The provisions of this subsection shall not be effective after September 30, 2000.”
+<b>2001</b>—Subsec. (c)(9). Pub. L. 107–73 struck out heading and text of par. (9). Text read as follows: “The provisions of this subsection shall not be effective after September 30, 2000.”
 
-1998—Subsec. (c)(5)(C). Pub. L. 105–276, §594(b), amended heading and text of subpar. (C) generally. Prior to amendment, text read as follows: “Notification under subparagraph (A) shall not be required with respect to any loan—
+<b>1998</b>—Subsec. (c)(5)(C). Pub. L. 105–276, §594(b), amended heading and text of subpar. (C) generally. Prior to amendment, text read as follows: “Notification under subparagraph (A) shall not be required with respect to any loan—
 
 &emsp;“(i) insured or guaranteed under chapter 37 of title 38; or
 
@@ -440,13 +770,13 @@ Subsec. (c)(4)(D). Pub. L. 110–289, §2127(3), added subpar. (D).
 
 Subsec. (c)(9). Pub. L. 105–276, §594(a), substituted “2000” for “1994”.
 
-1996—Subsec. (d)(5)(A). Pub. L. 104–316, §106(a)(2), substituted “(9)” for “(10)(K)” in introductory provisions.
+<b>1996</b>—Subsec. (d)(5)(A). Pub. L. 104–316, §106(a)(2), substituted “(9)” for “(10)(K)” in introductory provisions.
 
 Subsec. (d)(8). Pub. L. 104–316, §106(a)(3), struck out “(for purposes of the study and report under paragraph (9))” before “may require”.
 
 Subsec. (d)(9) to (13). Pub. L. 104–316, §106(a)(1), (4), redesignated pars. (10) to (13) as (9) to (12), respectively, and struck out former par. (9) which related to GAO study and report on demonstration program.
 
-1992—Subsec. (a)(3). Pub. L. 102–550, §162(a), substituted “except that for such purposes there are authorized to be appropriated $6,025,000 for fiscal year 1993 and $6,278,050 for fiscal year 1994. Of the amounts appropriated for each of fiscal years 1993 and 1994, up to $500,000 shall be available for use for counseling and other activities in connection with the demonstration program under section 152 of the Housing and Community Development Act of 1992.” for “except that for such purposes there are authorized to be appropriated $3,600,000 for fiscal year 1991 and $3,700,000 for fiscal year 1992.”
+<b>1992</b>—Subsec. (a)(3). Pub. L. 102–550, §162(a), substituted “except that for such purposes there are authorized to be appropriated $6,025,000 for fiscal year 1993 and $6,278,050 for fiscal year 1994. Of the amounts appropriated for each of fiscal years 1993 and 1994, up to $500,000 shall be available for use for counseling and other activities in connection with the demonstration program under section 152 of the Housing and Community Development Act of 1992.” for “except that for such purposes there are authorized to be appropriated $3,600,000 for fiscal year 1991 and $3,700,000 for fiscal year 1992.”
 
 Subsec. (c)(3)(A)(iii). Pub. L. 102–550, §162(b)(3), added cl. (iii).
 
@@ -470,7 +800,7 @@ Subsec. (d)(12). Pub. L. 102–550, §162(c), amended par. (12) generally. Prior
 
 Subsecs. (e), (f). Pub. L. 102–550, §162(d), added subsecs. (e) and (f).
 
-1990—Subsec. (a)(2)(A) to (C). Pub. L. 101–625, §706(c), designated portions of existing text as cls. (A) and (C), and added cl. (B).
+<b>1990</b>—Subsec. (a)(2)(A) to (C). Pub. L. 101–625, §706(c), designated portions of existing text as cls. (A) and (C), and added cl. (B).
 
 Subsec. (a)(3). Pub. L. 101–625, §577(a), substituted provisions authorizing appropriations of $3,600,000 for fiscal year 1991 and $3,700,000 for fiscal year 1992, for provisions authorizing appropriations of $3,500,000 for each of the fiscal years 1988 and 1989.
 
@@ -488,23 +818,23 @@ Subsec. (c)(9). Pub. L. 101–625, §577(b)(2), substituted “September 30, 199
 
 Subsec. (d). Pub. L. 101–625, §577(c), added subsec. (d).
 
-1989—Subsec. (c)(9). Pub. L. 101–137 substituted “September 30, 1990” for “September 30, 1989”.
+<b>1989</b>—Subsec. (c)(9). Pub. L. 101–137 substituted “September 30, 1990” for “September 30, 1989”.
 
-1988—Subsec. (a)(2). Pub. L. 100–628 inserted before period at end of first sentence “or guaranteed or insured under chapter 37 of title 38”.
+<b>1988</b>—Subsec. (a)(2). Pub. L. 100–628 inserted before period at end of first sentence “or guaranteed or insured under chapter 37 of title 38”.
 
 Subsec. (a)(3). Pub. L. 100–242, §169(a), substituted “except that for each of the fiscal years 1988 and 1989 there are authorized to be appropriated $3,500,000 for such purposes” for “except that for the fiscal year 1984, there are authorized to be appropriated not to exceed $3,500,000 for such purposes”.
 
 Subsec. (c). Pub. L. 100–242, §169(b), added subsec. (c).
 
-1984—Subsec. (b)(1). Pub. L. 98–479 substituted “architectural” for “architechtual”.
+<b>1984</b>—Subsec. (b)(1). Pub. L. 98–479 substituted “architectural” for “architechtual”.
 
-1983—Subsec. (a)(3). Pub. L. 98–181 substituted “1984” for “1982”, and “$3,500,000” for “$4,000,000”.
+<b>1983</b>—Subsec. (a)(3). Pub. L. 98–181 substituted “1984” for “1982”, and “$3,500,000” for “$4,000,000”.
 
-1981—Subsec. (a)(3). Pub. L. 97–35 inserted provisions authorizing appropriations for fiscal year 1982.
+<b>1981</b>—Subsec. (a)(3). Pub. L. 97–35 inserted provisions authorizing appropriations for fiscal year 1982.
 
-1977—Subsec. (a)(2). Pub. L. 95–128 authorized the Secretary to provide the services for other owners of single family dwelling units insured under subchapter II of this chapter.
+<b>1977</b>—Subsec. (a)(2). Pub. L. 95–128 authorized the Secretary to provide the services for other owners of single family dwelling units insured under subchapter II of this chapter.
 
-1974—Subsec. (a)(1). Pub. L. 93–383, §811(b)(1), (c), in cl. (iii) substituted provisions authorizing counseling and advice to tenants and homeowners with respect to property maintenance, etc., for provisions authorizing counseling on household management, self-help, etc., for families receiving assistance under this chapter or the United States Housing Act of 1937, and added cl. (iv).
+<b>1974</b>—Subsec. (a)(1). Pub. L. 93–383, §811(b)(1), (c), in cl. (iii) substituted provisions authorizing counseling and advice to tenants and homeowners with respect to property maintenance, etc., for provisions authorizing counseling on household management, self-help, etc., for families receiving assistance under this chapter or the United States Housing Act of 1937, and added cl. (iv).
 
 Subsec. (a)(2). Pub. L. 93–383, §811(b)(2), added par. (2). Former par. (2) redesignated (3).
 
@@ -512,9 +842,13 @@ Subsec. (a)(3). Pub. L. 93–383, §811(b)(2), (d), redesignated former par. (2)
 
 Subsec. (b)(1), (2). Pub. L. 93–383, §811(e), (f), inserted reference to public housing agencies.
 
-1970—Subsec. (a). Pub. L. 91–609, §903(a), designated existing provisions as par. (1), inserted provision respecting specific authorities without limitation to such authorities, redesignated former par. (1) as cl. (i), struck out introductory text relating to assistance with respect to construction, rehabilitation, and operation by nonprofit organizations of housing for low or moderate income families now incorporated in cl. (i), redesignated former par. (2) as cl. (ii), inserting therein provision for assistance to public bodies or to nonprofit or cooperative organizations, including assistance with respect to self-help and mutual self-help programs, and added cl. (iii) and par. (2).
+<b>1970</b>—Subsec. (a). Pub. L. 91–609, §903(a), designated existing provisions as par. (1), inserted provision respecting specific authorities without limitation to such authorities, redesignated former par. (1) as cl. (i), struck out introductory text relating to assistance with respect to construction, rehabilitation, and operation by nonprofit organizations of housing for low or moderate income families now incorporated in cl. (i), redesignated former par. (2) as cl. (ii), inserting therein provision for assistance to public bodies or to nonprofit or cooperative organizations, including assistance with respect to self-help and mutual self-help programs, and added cl. (iii) and par. (2).
 
 Subsec. (b)(1). Pub. L. 91–609, §903(b), substituted “section 1715z of this title or any other federally assisted program” for “any federally assisted program” in first sentence.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as a note under section 1601 of Title 15, Commerce and Trade.
 
 #### Effective Date of 2006 Amendment
 
@@ -538,19 +872,19 @@ Pub. L. 109–163, div. A, title VI, §688(b), Jan. 6, 2006, 119 Stat. 3337, pro
 
 #### Financial Education and Counseling
 
-Pub. L. 110–289, div. A, title I, §1132, July 30, 2008, 122 Stat. 2727, provided that:
+Pub. L. 110–289, div. A, title I, §1132, July 30, 2008, 122 Stat. 2727, as amended by Pub. L. 111–203, title X, §1072(a), July 21, 2010, 124 Stat. 2059, provided that:
 
 “(a)
 
 Goals.—Financial education and counseling under this section shall have the goal of—
 
-&emsp;“(1) increasing the financial knowledge and decision making capabilities of prospective homebuyers;
+&emsp;“(1) increasing the financial knowledge and decision making capabilities of prospective homebuyers or economically vulnerable individuals and families;
 
-&emsp;“(2) assisting prospective homebuyers to develop monthly budgets, build personal savings, finance or plan for major purchases, reduce their debt, improve their financial stability, and set and reach their financial goals;
+&emsp;“(2) assisting prospective homebuyers or economically vulnerable individuals and families to develop monthly budgets, build personal savings, finance or plan for major purchases, reduce their debt, improve their financial stability, and set and reach their financial goals;
 
-&emsp;“(3) helping prospective homebuyers to improve their credit scores by understanding the relationship between their credit histories and their credit scores; and
+&emsp;“(3) helping prospective homebuyers or economically vulnerable individuals and families to improve their credit scores by understanding the relationship between their credit histories and their credit scores; and
 
-&emsp;“(4) educating prospective homebuyers about the options available to build savings for short- and long-term goals.
+&emsp;“(4) educating prospective homebuyers or economically vulnerable individuals and families about the options available to build savings for short- and long-term goals.
 
 “(b)
 
@@ -558,7 +892,7 @@ Grants.—
 
 &emsp;“(1)
 
-In general.—The Secretary of the Treasury (in this section referred to as the ‘Secretary’) shall make grants to eligible organizations to enable such organizations to provide a range of financial education and counseling services to prospective homebuyers.
+In general.—The Secretary of the Treasury (in this section referred to as the ‘Secretary’) shall make grants to eligible organizations to enable such organizations to provide a range of financial education and counseling services to prospective homebuyers or economically vulnerable individuals and families.
 
 &emsp;“(2)
 
@@ -572,9 +906,15 @@ Eligible Organizations.—
 
 In general.—For purposes of this section, the term ‘eligible organization’ means an organization that is—
 
-&emsp;&emsp;“(A) certified in accordance with section 106(e)(1) of the Housing and Urban Development Act of 1968 (12 U.S.C. 1701x(e)\[1\]); or
+&emsp;&emsp;“(A) certified in accordance with section 106(e)(1) of the Housing and Urban Development Act of 1968 (12 U.S.C. 1701x(e)\[1\]);
 
-&emsp;&emsp;“(B) certified by the Office of Financial Education of the Department of the Treasury for purposes of this section, in accordance with paragraph (2).
+&emsp;&emsp;“(B) certified by the Office of Financial Education of the Department of the Treasury for purposes of this section, in accordance with paragraph (2); or
+
+&emsp;&emsp;“(C) a nonprofit corporation that—
+
+&emsp;&emsp;&emsp;“(i) is exempt from taxation under section 501(c)(3) of the Internal Revenue Code of 1986 \[26 U.S.C. 501(c)(3)\]; and
+
+&emsp;&emsp;&emsp;“(ii) specializes or has expertise in working with economically vulnerable individuals and families, but whose primary purpose is not provision of credit counseling services.
 
 &emsp;“(2) OFE
 
@@ -584,7 +924,7 @@ certification.—To be certified by the Office of Financial Education for purpos
 
 &emsp;&emsp;“(B) a State, local, or tribal government agency;
 
-&emsp;&emsp;“(C) a community development financial institution (as defined in section 103(5) of the Community Development Banking and Financial Institutions Act of 1994 (12 U.S.C. 4702(5)) or a credit union; or
+&emsp;&emsp;“(C) a community development financial institution (as defined in section 103(5) of the CommunityDevelopment Banking and Financial Institutions Act of 1994 (12 U.S.C. 4702(5)) or a credit union; or
 
 &emsp;&emsp;“(D) any collaborative effort of entities described in any of subparagraphs (A) through (C).
 
@@ -594,7 +934,7 @@ Authority for Pilot Projects.—
 
 &emsp;“(1)
 
-In general.—The Secretary of the Treasury shall authorize not more than 5 pilot project grants to eligible organizations under subsection (c) in order to—
+In general.—The Secretary of the Treasury shall authorize pilot project grants to eligible organizations under subsection (c) in order to—
 
 &emsp;&emsp;“(A) carry out the services under this section; and
 
@@ -633,6 +973,8 @@ Content of study.—The study required under paragraph (1) shall include an eval
 “(g)
 
 Regulations.—The Secretary is authorized to promulgate such regulations as may be necessary to implement and administer the grant program authorized by this section.”
+
+\[Pub. L. 111–203, title X, §1072(b), July 21, 2010, 124 Stat. 2060, provided that: “Amendments made by subsection (a) \[amending section 1132 of Pub. L. 110–289, set out above\] shall not apply to programs authorized by section 1132 of the Housing and Economic Recovery Act of 2008 \[Pub. L. 110–289\] (12 U.S.C. 1701x note) that are funded with appropriations prior to fiscal year 2011.”\]
 
 #### Pre-Purchase Homeownership Counseling Demonstration
 

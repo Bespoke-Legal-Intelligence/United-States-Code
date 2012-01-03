@@ -76,13 +76,13 @@ The Board shall prescribe regulations establishing such procedures as may be nec
 
 #### References in Text
 
-This section, referred to in pars. (1) and (8), means section 19 of act Dec. 23, 1913, as amended, which is classified to sections 142, 371a, 371b, 371b–1, 374, 374a, 461, 463 to 466, 505, and 506 of this title.
+This section, referred to in pars. (1) and (8), means section 19 of act Dec. 23, 1913, which is classified to sections 142, 371b, 371b–1, 374, 374a, 461, 463 to 466, 505, and 506 of this title.
 
 #### Amendments
 
-1989—Pub. L. 101–73 amended section generally, revising and restating as pars. (1) to (9) provisions of former pars. (1) to (7) which related to civil penalty respecting depository, reserve, etc., requirements; amount; hearing; review; action by Attorney General; and regulations.
+<b>1989</b>—Pub. L. 101–73 amended section generally, revising and restating as pars. (1) to (9) provisions of former pars. (1) to (7) which related to civil penalty respecting depository, reserve, etc., requirements; amount; hearing; review; action by Attorney General; and regulations.
 
-1982—Par. (1). Pub. L. 97–320, §424(a), (d)(2), inserted proviso giving Board discretionary authority to compromise, etc., any civil money penalty imposed under this section, and substituted “may be assessed” for “shall be assessed”.
+<b>1982</b>—Par. (1). Pub. L. 97–320, §424(a), (d)(2), inserted proviso giving Board discretionary authority to compromise, etc., any civil money penalty imposed under this section, and substituted “may be assessed” for “shall be assessed”.
 
 Par. (4). Pub. L. 97–320, §424(e), substituted “twenty days from the service” for “ten days from the date”.
 

@@ -30,7 +30,7 @@ For purposes of section 38, the enhanced oil recovery credit for any taxable yea
 
 #### (B) Inflation adjustment factor
 
-&emsp;&emsp;The term “inflation adjustment factor” means, with respect to any calendar year, a fraction the numerator of which is the GNP implicit price deflator for the preceding calendar year and the denominator of which is the GNP implicit price deflator for 1990. For purposes of the preceding sentence, the term “GNP implicit price deflator” means the first revision of the implicit price deflator for the gross national product as computed and published by the Secretary of Commerce. Not later than April 1 of any calendar year, the Secretary shall publish the inflation adjustment factor for the preceding calendar year.
+&emsp;&emsp;The term “inflation adjustment factor” means, with respect to any calendar year, afraction the numerator of which is the GNP implicit price deflator for the preceding calendar year and the denominator of which is the GNP implicit price deflator for 1990. For purposes of the preceding sentence, the term “GNP implicit price deflator” means the first revision of the implicit price deflator for the gross national product as computed and published by the Secretary of Commerce. Not later than April 1 of any calendar year, the Secretary shall publish the inflation adjustment factor for the preceding calendar year.
 
 #### (c) Qualified enhanced oil recovery costs
 
@@ -86,7 +86,7 @@ For purposes of this section—
 
 #### (4) Special rule for certain gas displacement projects
 
-&emsp;For purposes of this section, immiscible non-hydrocarbon gas displacement shall be treatedas a tertiary recovery method under section 193(b)(3).
+&emsp;For purposes of this section, immiscible non-hydrocarbon gas displacement shall be treated as a tertiary recovery method under section 193(b)(3).
 
 #### (5) Alaska natural gas
 
@@ -191,6 +191,8 @@ Special rule for significant expansion of projects.—For purposes of section 43
 #### Inflation Adjusted Items for Certain Tax Years
 
 Provisions relating to inflation adjustment of items in this section for certain tax years were contained in the following:
+
+<b>2011</b>—Internal Revenue Notice 2011–57.
 
 <b>2010</b>—Internal Revenue Notice 2010–72.
 

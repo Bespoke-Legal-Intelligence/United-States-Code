@@ -30,7 +30,7 @@ If the petitioner, or any other person, organization, or group found by the Secr
 
 &emsp;&emsp;&emsp;(I) the average annual sales or production for the article or service during the 24-month period preceding that 12-month period, or
 
-&emsp;&emsp;&emsp;(II) the average annual sales or production for the article or service during the 36-month period preceding that 12-month period, and
+&emsp;&emsp;&emsp;(II) the average annual sales or production for the article or service during the36-month period preceding that 12-month period, and
 
 &emsp;(C) increases of imports of articles or services like or directly competitive with articles which are produced or services which are supplied by such firm contributed importantly to such total or partial separation, or threat thereof, and to such decline in sales or production.
 
@@ -54,17 +54,23 @@ For purposes of subsection (c)(1)(C), the Secretary may determine that there are
 
 Upon receiving notice from the Secretary of Labor under section 2275 of this title of the identity of a firm that is covered by a certification issued under section 2273 of this title, the Secretary of Commerce shall notify the firm of the availability of adjustment assistance under this part.
 
-(Pub. L. 93–618, title II, §251, Jan. 3, 1975, 88 Stat. 2030; Pub. L. 99–272, title XIII, §13002(b), Apr. 7, 1986, 100 Stat. 300; Pub. L. 100–418, title I,§1421(a)(2), (b)(2), Aug. 23, 1988, 102 Stat. 1243, 1244; Pub. L. 111–5, div. B, title I, §§1861(a), (c), 1862, 1863, 1867(a), Feb. 17, 2009, 123 Stat. 396, 397, 400.)
+(Pub. L. 93–618, title II, §251, Jan. 3, 1975, 88 Stat. 2030; Pub. L. 99–272, title XIII, §13002(b), Apr. 7, 1986, 100 Stat. 300; Pub. L. 100–418, title I, §1421(a)(2), (b)(2), Aug. 23, 1988, 102 Stat. 1243, 1244; Pub. L. 111–5, div. B, title I, §§1861(a), (c), 1862, 1863, 1867(a), Feb. 17, 2009, 123 Stat. 396, 397, 400; Pub. L. 112–40, title II, §201(b), (c), Oct. 21, 2011, 125 Stat. 403.)
 
-#### Amendment of Section
+#### Reversion to Provisions in Effect on February 13, 2011
 
-<i>For termination of amendment by section 1893 of Pub. L. 111–5, see Effective and Termination Dates of 2009 Amendment note below.</i>
+<i>For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to section 233(b) of Pub. L. 112–40, see Codification and Effective and Termination Dates of 2011 Revival notes below.</i>
+
+#### Codification
+
+Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination of amendment by Pub. L. 111–5, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, and the provisions of this section, as amended by Pub. L. 111–5 and as in effect on Feb. 12, 2011, were temporarily revived, effective Oct. 21, 2011, until Jan. 1, 2014, by Pub. L. 112–40, §§201(b), (c), 233. See 2009 and 2011 Amendment notes, Effective and Termination Dates of 2009 Amendment notes, and Effective and Termination Dates of 2011 Revival note below.
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a). Pub. L. 111–5, §§1861(a), 1867(a)(1), 1893, temporarily inserted “or service sector firm” after “agricultural firm” and substituted “the Secretary has” for “he has”. See Effective and Termination Dates of 2009 Amendment note below.
+<b>2011</b>—Pub. L. 112–40, §§201(b), (c), 233, temporarily revived the provisions of this section, as in effect on Feb. 12, 2011. See Codification note above and 2009 Amendment and Effective and Termination Dates of 2011 Revival notes below.
 
-Subsec. (c)(1). Pub. L. 111–5, §§1861(a), 1893, temporarily inserted “or service sector firm” after “agricultural firm” in introductory provisions. See Effective and Termination Dates of 2009 Amendment note below.
+<b>2009</b>—Subsec. (a). Pub. L. 111–5, §§1861(a), 1867(a)(1), 1893, temporarily inserted “or service sector firm” after “agricultural firm” and substituted “the Secretary has” for “he has”. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+
+Subsec. (c)(1). Pub. L. 111–5, §§1861(a), 1893, temporarily inserted “or service sector firm” after “agricultural firm” in introductory provisions. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
 Subsec. (c)(1)(B). Pub. L. 111–5, §§1862, 1893, temporarily amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “that—
 
@@ -72,15 +78,15 @@ Subsec. (c)(1)(B). Pub. L. 111–5, §§1862, 1893, temporarily amended subpar. 
 
 &emsp;“(ii) sales or production, or both, of an article that accounted for not less than 25 percent of the total production or sales of the firm during the 12-month period preceding the most recent 12-month period for which data are available have decreased absolutely, and”.
 
-> See Effective and Termination Dates of 2009 Amendment note below.
+> See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (c)(1)(C). Pub. L. 111–5, §§1861(c)(1), 1893, temporarily inserted “or services” after “imports of articles” and “or services which are supplied” after “produced”. See Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (c)(1)(C). Pub. L. 111–5, §§1861(c)(1), 1893, temporarily inserted “or services” after “imports of articles” and “or services which are supplied” after “produced”. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (c)(2)(B)(ii). Pub. L. 111–5, §§1861(c)(2), 1893, temporarily amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “Any firm that engages in exploration or drilling for oil or natural gas, or otherwise produces oil or natural gas, shall be considered to be producing articles directly competitive with imports of oil and with imports of natural gas.” See Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (c)(2)(B)(ii). Pub. L. 111–5, §§1861(c)(2), 1893, temporarily amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “Any firm that engages in exploration or drilling for oil or natural gas, or otherwise produces oil or natural gas, shall be considered to be producing articles directly competitive with imports of oil and with imports of natural gas.” See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (d). Pub. L. 111–5, §§1867(a)(2), 1893, temporarily substituted “40 days” for “60 days”. See Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (d). Pub. L. 111–5, §§1867(a)(2), 1893, temporarily substituted “40 days” for “60 days”. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsecs. (e), (f). Pub. L. 111–5, §§1863, 1893, temporarily added subsecs. (e) and (f). See Effective and Termination Dates of 2009 Amendment note below.
+Subsecs. (e), (f). Pub. L. 111–5, §§1863, 1893, temporarily added subsecs. (e) and (f). See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
 <b>1988</b>—Subsec. (c). Pub. L. 100–418, §1421(a)(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Secretary shall certify a firm (including any agricultural firm) as eligible to apply for adjustment assistance under this part if he determines—
 
@@ -102,15 +108,19 @@ Subsec. (c)(1)(C). Pub. L. 100–418, §1421(b)(2), directed the general amendme
 
 Subsec. (c)(2). Pub. L. 99–272, §13002(b)(2), amended par. (2) generally, designating existing provisions as subpar. (A), substituting “of the firm have decreased absolutely, or” for “of such firm have decreased absolutely, and”, and adding subpar. (B).
 
+#### Effective and Termination Dates of 2011 Revival
+
+For temporary revival and applicability of provisions as in effect on Feb. 12, 2011, see sections 201(b), (c) and 233 of Pub. L. 112–40, set out as notes preceding section 2271 of this title. For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to section 233(b) of Pub. L. 112–40, see section 233 of Pub. L. 112–40, set out as a note preceding section 2271 of this title.
+
 #### Effective and Termination Dates of 2009 Amendment
 
 Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title.
 
-Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and this section to be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
+Section 1893 of Pub. L. 111–5, which provided that, except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and that this section be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403. See Codification note above.
 
 #### Termination Date
 
-Except as otherwise provided, technical assistance and grants may not be provided under this section after Feb. 12, 2011, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
+Except as otherwise provided, technical assistance and grants may not be provided under this section after Dec. 31, 2013, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “data”.</i>
 

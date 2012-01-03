@@ -2,7 +2,7 @@
 
 #### (a) Retirement of stock
 
-Notwithstanding any other section of this chapter, each institution of the Farm CreditSystem, when retiring eligible borrower stock in accordance with this chapter, shall retire such stock at par value.
+Notwithstanding any other section of this chapter, each institution of the Farm Credit System, when retiring eligible borrower stock in accordance with this chapter, shall retire such stock at par value.
 
 #### (b) Certain powers not affected
 
@@ -68,7 +68,7 @@ A prior section 4.9A of Pub. L. 92–181, which authorized a central reserve for
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–399, §101(b), struck out provision that an institution whose capital stock is impaired coordinate retirement of stock under this section with the activities of the Assistance Board and the Financial Assistance Corporation.
+<b>1988</b>—Subsec. (a). Pub. L. 100–399, §101(b), struck out provision that an institution whose capital stock is impaired coordinate retirement of stock under this section with the activities of the Assistance Board and the Financial Assistance Corporation.
 
 Subsec. (c). Pub. L. 100–399, §101(c), inserted “stock” in subsec. heading and amended text generally. Prior to amendment, text read as follows: “If an institution is unable to retire eligible borrower stock at par value due to the freezing of such stock during a liquidation of the institution, the receiver of the institution shall retire such stock at par value as would have been retired in the ordinary course of business of the institution and the Financial Assistance Corporation, on request of the Assistance Board, shall provide the receiver with sufficient funds to enable the receiver to carry out this subsection.”
 

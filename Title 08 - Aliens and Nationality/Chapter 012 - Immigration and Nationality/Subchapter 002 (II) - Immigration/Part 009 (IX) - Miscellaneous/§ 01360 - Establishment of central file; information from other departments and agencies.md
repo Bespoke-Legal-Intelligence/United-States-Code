@@ -26,11 +26,11 @@ This chapter, referred to in subsec. (a), was in the original, “this Act”, m
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–208, §308(d)(4)(M), substituted “admitted or denied admission to the United States” for “admitted to the United States, or excluded therefrom” in two places.
+<b>1996</b>—Subsec. (a). Pub. L. 104–208, §308(d)(4)(M), substituted “admitted or denied admission to the United States” for “admitted to the United States, or excluded therefrom” in two places.
 
 Subsec. (c). Pub. L. 104–208, §414(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Secretary of Health and Human Services shall notify the Attorney General upon request whenever any alien is issued a social security account number and social security card. The Secretary shall also furnish such available information as may be requested by the Attorney General regarding the identity and location of aliens in the United States.”
 
-1988—Subsec. (c). Pub. L. 100–525 substituted “Secretary of Health and Human Services” for “Federal Security Administrator” and “The Secretary” for “The Administrator”.
+<b>1988</b>—Subsec. (c). Pub. L. 100–525 substituted “Secretary of Health and Human Services” for “Federal Security Administrator” and “The Secretary” for “The Administrator”.
 
 #### Effective Date of 1996 Amendment
 

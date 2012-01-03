@@ -78,7 +78,7 @@
 - [&sect; 00404f - Repealed. Pub. L. 108&#8211;458, title I, &sect;1075, Dec. 17, 2004, 118 Stat. 3694](%C2%A7%2000404f%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93458%2C%20title%20I%2C%20%C2%A71075%2C%20Dec.%2017%2C%202004%2C%20118%20Stat.%203694.md)
 - [&sect; 00404g - Restrictions on intelligence sharing with United Nations](%C2%A7%2000404g%20-%20Restrictions%20on%20intelligence%20sharing%20with%20United%20Nations.md)
 - [&sect; 00404h - Detail of intelligence community personnel&#8212;Intelligence Community Assignment Program](%C2%A7%2000404h%20-%20Detail%20of%20intelligence%20community%20personnel%E2%80%94Intelligence%20Community%20Assignment%20Program.md)
-- [&sect; 00404h&#8211;1 - Detail of other personnel](%C2%A7%2000404h%E2%80%931%20-%20Detail%20of%20other%20personnel.md)
+- [&sect; 00404h&#8211;1 - Non-reimbursable detail of other personnel](%C2%A7%2000404h%E2%80%931%20-%20Non-reimbursable%20detail%20of%20other%20personnel.md)
 - [&sect; 00404i - Additional annual reports from the Director of National Intelligence](%C2%A7%2000404i%20-%20Additional%20annual%20reports%20from%20the%20Director%20of%20National%20Intelligence.md)
 - [&sect; 00404i&#8211;1 - Repealed. Pub. L. 111&#8211;259, title III, &sect;347(c), Oct. 7, 2010, 124 Stat. 2698](%C2%A7%2000404i%E2%80%931%20-%20Repealed.%20Pub.%20L.%20111%E2%80%93259%2C%20title%20III%2C%20%C2%A7347%28c%29%2C%20Oct.%207%2C%202010%2C%20124%20Stat.%202698.md)
 - [&sect; 00404j - Limitation on establishment or operation of diplomatic intelligence support centers](%C2%A7%2000404j%20-%20Limitation%20on%20establishment%20or%20operation%20of%20diplomatic%20intelligence%20support%20centers.md)

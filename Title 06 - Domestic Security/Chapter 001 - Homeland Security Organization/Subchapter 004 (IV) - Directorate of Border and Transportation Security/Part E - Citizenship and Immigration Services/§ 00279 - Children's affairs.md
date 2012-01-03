@@ -60,7 +60,7 @@ There are transferred to the Director of the Office of Refugee Resettlement of t
 
 #### (3) Duties with respect to foster care
 
-&emsp;In carrying out the duties described in paragraph (1), the Director of the Office of Refugee Resettlement is encouraged to use the refugee children foster care system established pursuant to section 412(d) of the Immigration and Nationality Act (8 U.S.C. 1522(d)) for the placement of unaccompanied alien children.
+&emsp;In carrying out the duties described in paragraph (1), the Director of the Office of Refugee Resettlement is encouraged to use the refugeechildren foster care system established pursuant to section 412(d) of the Immigration and Nationality Act (8 U.S.C. 1522(d)) for the placement of unaccompanied alien children.
 
 #### (4) Rule of construction
 
@@ -130,7 +130,7 @@ In subsec. (f)(3), “section 1531 of title 31” substituted for “section 202
 
 #### Amendments
 
-2008—Subsec. (b)(1)(L). Pub. L. 110–457, §235(f)(1), substituted “, including regular follow-up visits to such facilities, placements, and other entities, to assess the continued suitability of such placements.” for period at end.
+<b>2008</b>—Subsec. (b)(1)(L). Pub. L. 110–457, §235(f)(1), substituted “, including regular follow-up visits to such facilities, placements, and other entities, to assess the continued suitability of such placements.” for period at end.
 
 Subsec. (b)(3). Pub. L. 110–457, §235(f)(2)(A), substituted “paragraph (1),” for “paragraph (1)(G),”.
 
@@ -139,4 +139,6 @@ Subsec. (b)(4). Pub. L. 110–457, §235(f)(2)(B), added par. (4).
 #### Change of Name
 
 Bureau of Border Security, referred to in subsec. (b)(2)(A), changed to Bureau of Immigration and Customs Enforcement by Reorganization Plan Modification for the Department of Homeland Security, eff. Mar. 1, 2003, H. Doc. No. 108–32, 108th Congress, 1st Session, set out as a note under section 542 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -4,10 +4,6 @@ For purposes of subchapters I, X, XIV, and XVI of this chapter, and part A of su
 
 (Aug. 14, 1935, ch. 531, title XI, §1111, as added Pub. L. 85–840, title V, §511(a), Aug. 28, 1958, 72 Stat. 1051; amended Pub. L. 87–543, title I, §141(d), July 25, 1962, 76 Stat. 205; Pub. L. 90–248, title II, §241(c)(3), Jan. 2, 1968, 81 Stat. 917.)
 
-#### References in Text
-
-Part A of subchapter IV of this chapter, referred to in text, is classified to section 601 et seq. of this title.
-
 #### Amendments
 
 <b>1968</b>—Pub. L. 90–248 struck out “IV,” after “I,” and inserted “and part A of subchapter IV of this chapter,” after “XVI of this chapter,”.

@@ -10,7 +10,7 @@ Another section 1101 of Pub. L. 90–351, title VI, June 19, 1968, 82 Stat. 236,
 
 #### Prior Provisions
 
-A prior section 3795, Pub. L. 90–351, title I, §670, as added Pub. L. 91–644, title I, §12, Jan. 2, 1971, 84 Stat. 1889; amended Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 218, related to reports to Congress and President, prior to the general amendment of this chapter by Pub. L. 96–157. See section 3789e of this title.
+A prior section 3795, Pub. L. 90–351, title I, §670, as added Pub. L. 91–644, title I, §12, Jan. 2, 1971, 84 Stat.1889; amended Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 218, related to reports to Congress and President, prior to the general amendment of this chapter by Pub. L. 96–157. See section 3789e of this title.
 
 #### Amendments
 

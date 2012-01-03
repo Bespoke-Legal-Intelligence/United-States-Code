@@ -54,7 +54,7 @@ The Director may take, with respect to an undercapitalized regulated entity, any
 
 #### Amendments
 
-2008—Subsec. (a)(1). Pub. L. 110–289, §1143(4)(B), added par. (1). Former par. (1) redesignated (2).
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–289, §1143(4)(B), added par. (1). Former par. (1) redesignated (2).
 
 Pub. L. 110–289, §1143(2), substituted “A regulated entity” for “An enterprise”.
 

@@ -8,7 +8,7 @@ Regular Officers.—(1) A regular officer who is discharged under chapter 36 of 
 
 (3) Notwithstanding paragraphs (1) and (2), an officer discharged under any provision of chapter 36 of this title for twice failing of selection for promotion to the next higher grade is not entitled to separation pay under this section if either (or both) of those failures of selection for promotion was by the action of a selection board to which the officer submitted a request in writing not to be selected for promotion or who otherwise directly caused his nonselection through written communication to the Board under section 614(b) of this title.
 
-(4) Notwithstanding paragraphs (1) and (2), an officer who is subject to discharge under any provision of chapter 36 of this title or under section 580 or 6383 of this title by reason of having twice failed of selection for promotion to the next higher grade is not entitled to separation pay under this section if that officer, after such second failure of selection for promotion, is selected for, and declines, continuation on active duty for a period that is equal to or more than the amount of service required to qualify the officer for retirement.
+(4) Notwithstanding paragraphs (1) and (2), an officer who is subject to discharge under any provision of chapter 36 of this title or under section 580 or 6383 of this title by reason of having twice failed of selection for promotion to the next higher grade is not entitled to separationpay under this section if that officer, after such second failure of selection for promotion, is selected for, and declines, continuation on active duty for a period that is equal to or more than the amount of service required to qualify the officer for retirement.
 
 (b)
 
@@ -26,7 +26,7 @@ Other Members.—(1) Except as provided in paragraphs (2) and (3), a member of a
 
 (2) If the Secretary concerned determines that the conditions under which a member described in paragraph (1) is discharged or separated do not warrant separation pay under this section, that member is not entitled to that pay.
 
-(3) A member described in paragraph (1) who was not on the active-duty list when discharged or separated is not entitled to separation payunder this section unless such member had completed at least six years of continuous active duty immediately before such discharge or release. For purposes of this paragraph, a period of active duty is continuous if it is not interrupted by a break in service of more than 30 days.
+(3) A member described in paragraph (1) who was not on the active-duty list when discharged or separated is not entitled to separation pay under this section unless such member had completed at least six years of continuous active duty immediately before such discharge or release. For purposes of this paragraph, a period of active duty is continuous if it is not interrupted by a break in service of more than 30 days.
 
 (4) In the case of an officer who is subject to discharge or release from active duty under a law or regulation requiring that an officer who has failed of selection for promotion to the next higher grade for the second time be discharged or released from active duty and who, after such second failure of selection for promotion, is selected for, and declines, continuation on active duty—
 
@@ -74,7 +74,7 @@ Coordination With Retired or Retainer Pay and Disability Compensation.—(1) A m
 
 (i)
 
-Special Rule for Members Receiving Sole Survivorship Discharge.—(1) A memberof the armed forces who receives a sole survivorship discharge shall be entitled to separation pay under this section even though the member has completed less than six years of active service immediately before that discharge. Subsection (e) shall not apply to a member who receives a sole survivorship discharge.
+Special Rule for Members Receiving Sole Survivorship Discharge.—(1) A member of the armed forces who receives a sole survivorship discharge shall be entitled to separation pay under this section even though the member has completed less than six years of active service immediately before that discharge. Subsection (e) shall not apply to a member who receives a sole survivorship discharge.
 
 (2) The amount of the separation pay to be paid to a member pursuant to this subsection shall be based on the years of active service actually completed by the member before the member's sole survivorship discharge.
 
@@ -206,7 +206,7 @@ Amendment by Pub. L. 105–261 applicable with respect to selection boards conve
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 105–178, title VIII, §8208, June 9, 1998, 112 Stat. 495, provided that: “The amendment made by section 653 of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; 110 Stat. 2583) to subsection (h)(2) of section 1174 of title 10, United States Code, shall apply to any payment of separation pay under the special separation benefits program under section 1174a of that title that was made during the period beginning on December 5, 1991, and ending on September 30, 1996.”
+Pub. L. 105–178, title VIII, §8208, June 9, 1998, 112 Stat. 495, provided that: “The amendment made by section653 of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; 110 Stat. 2583) to subsection (h)(2) of section 1174 of title 10, United States Code, shall apply to any payment of separation pay under the special separation benefits program under section 1174a of that title that was made during the period beginning on December 5, 1991, and ending on September 30, 1996.”
 
 Section 653(b) of Pub. L. 104–201 provided that: “The amendments made by this section \[amending this section\] shall take effect on October 1, 1996, and shall apply to payments of separation pay, severance pay, or readjustment pay that are made after September 30, 1996.”
 

@@ -52,7 +52,7 @@ The authority to issue an order under this section or section 4632 of this title
 
 #### (f) Effective date
 
-An order under this section shall become effective upon the expiration of the 30-day period beginning on the service of the order upon the regulated entity, finance facility,,<sup>2</sup> executive officer, director, or entity-affiliated party concerned (except in the case of an order issuedupon consent, which shall become effective at the time specified therein), and shall remain effective and enforceable as provided in the order, except to the extent that the order is stayed, modified, terminated, or set aside by action of the Director or otherwise, as provided in this subchapter.
+An order under this section shall become effective upon the expiration of the 30-day period beginning on the service of the order upon the regulated entity, finance facility,,<sup>2</sup> executive officer, director, or entity-affiliated party concerned (except in the case of an order issued upon consent, which shall become effective at the time specified therein), and shall remain effective and enforceable as provided in the order, except to the extent that the order is stayed, modified, terminated, or set aside by action of the Director or otherwise, as provided in this subchapter.
 
 (Pub. L. 102–550, title XIII, §1371, Oct. 28, 1992, 106 Stat. 3986; Pub. L. 110–289, div. A, title I, §1151, July 30, 2008, 122 Stat. 2767.)
 
@@ -62,7 +62,7 @@ This chapter, referred to in subsec. (a)(2), was in the original “this title�
 
 #### Amendments
 
-2008—Subsecs. (a), (b). Pub. L. 110–289, §1151(1), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which related to grounds for issuance against adequately capitalized enterprises and grounds for issuance against undercapitalized, significantly undercapitalized, and critically undercapitalized enterprises, respectively.
+<b>2008</b>—Subsecs. (a), (b). Pub. L. 110–289, §1151(1), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which related to grounds for issuance against adequately capitalized enterprises and grounds for issuance against undercapitalized, significantly undercapitalized, and critically undercapitalized enterprises, respectively.
 
 Subsec. (c)(1). Pub. L. 110–289, §1151(2)(A), (3)(C), substituted “practice” for “conduct” in two places and inserted “, unless the party served with a notice of charges shall appear at the hearing personally or by a duly authorized representative, the party shall be deemed to have consented to the issuance of the cease and desist order” before period at end.
 

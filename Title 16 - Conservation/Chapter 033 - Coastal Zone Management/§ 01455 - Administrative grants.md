@@ -38,7 +38,7 @@ Before approving a management program submitted by a coastal state, the Secretar
 
 &emsp;&emsp;(G) A definition of the term “beach” and a planning process for the protection of, and access to, public beaches and other public coastal areas of environmental, recreational, historical, esthetic, ecological, or cultural value.
 
-&emsp;&emsp;(H) A planning process for energy facilities likely to be located in, or which may significantly affect, the coastal zone, including a process for anticipating the management of the impacts resulting from such facilities.
+&emsp;&emsp;(H) A planning process for energy facilities likely to be located in, or which may significantly affect, the coastal zone, including aprocess for anticipating the management of the impacts resulting from such facilities.
 
 &emsp;&emsp;(I) A planning process for assessing the effects of, and studying and evaluating ways to control, or lessen the impact of, shoreline erosion, and to restore areas adversely affected by such erosion.
 

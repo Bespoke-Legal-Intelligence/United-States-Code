@@ -28,7 +28,7 @@ General rule.—In the case of an eligible combat-related disabled uniformed ser
 
 &emsp;&emsp;(B)
 
-Special rule for retirees with fewer than 20 years of service.—In the case of an eligible combat-related disabled uniformed services retiree who is retired under chapter 61 of this title with fewer than 20 years of creditable service, the amount of the payment under paragraph (1) for any month shall be reduced by the amount (if any) by which the amount of the member's retired pay under chapter 61 of this title exceeds the amount equal to 21/2 percent of the member's years of creditable service multiplied by the member's retired pay base under section 1406(b)(1) or 1407 of this title, whichever is applicable to the member.
+Special rule for retirees with fewer than 20 years of service.—In the case of an eligible combat-related disabled uniformed services retiree who is retired under chapter 61 of this title with fewer than 20 years of creditable service, the amount of the payment under paragraph (1) for any month shall be reduced by the amount (if any) by which the amount of the member's retired pay under chapter 61 of this title exceeds the amount equal to 2½ percent of the member's years of creditable service multiplied by the member's retired pay base under section 1406(b)(1) or 1407 of this title, whichever is applicable to the member.
 
 (c)
 

@@ -76,7 +76,7 @@ Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pu
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date,see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
+Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
 
 #### Issuance by Commissioner of Social Security of Receipts To Acknowledge Submission of Reports of Changes in Work or Earnings Status of Disabled Beneficiaries
 
@@ -98,7 +98,7 @@ Required Minimum Level of Access to Local Offices.—In addition to such other a
 
 “(b)
 
-Telephone Listings.—The Secretary shall make such requests of local telephone utilities in the United States as are necessary to ensure that the listings subsequently maintained and published by such utilities for each locality include the address and telephone number for each local office of the Social Security Administration to which direct telephone access is maintained under subsection (a) in such locality. Such listing may also include information concerning the availability of a toll-free number which may be called for general information.
+Telephone Listings.—The Secretary shall make such requests of local telephone utilities in the United States as are necessary to ensure that the listings subsequently maintained and published by such utilitiesfor each locality include the address and telephone number for each local office of the Social Security Administration to which direct telephone access is maintained under subsection (a) in such locality. Such listing may also include information concerning the availability of a toll-free number which may be called for general information.
 
 “(c)
 

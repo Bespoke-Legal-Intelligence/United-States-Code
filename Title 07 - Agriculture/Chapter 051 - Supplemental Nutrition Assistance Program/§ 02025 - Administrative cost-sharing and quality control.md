@@ -114,7 +114,7 @@ Subject to subsection (k) of this section, the Secretary is authorized to pay to
 
 #### (i) Reduction of other amounts due to State agency
 
-&emsp;&emsp;&emsp;In the case of a State agency that fails to comply with a requirement for new investment under subparagraph (D)(i)(II) or clause (iii)(I), the Secretary may reduce any amount due to the State agency under any other provision of this section by the portion of the liability amount that has not been used in accordance with that requirement.
+&emsp;&emsp;&emsp;In the case of a State agency that fails to comply with a requirement for new investment under subparagraph (D)(i)(II) or clause (iii)(I), the Secretary may reduce any amount due to the State agency under any other provision of this section by theportion of the liability amount that has not been used in accordance with that requirement.
 
 #### (ii) Effect of State agency's wholly prevailing on appeal
 
@@ -124,7 +124,7 @@ Subject to subsection (k) of this section, the Secretary is authorized to pay to
 
 &emsp;&emsp;&emsp;If a State agency does not begin required new investment under subparagraph (D)(i)(II), the State agency appeals the liability amount of the State agency, and the determination by the Secretary of the liability amount is wholly upheld on administrative or judicial review, the Secretary shall—
 
-&emsp;&emsp;&emsp;&emsp;(I) require all or any portion of the new investment amount to be used by theState agency for new investment, approved by the Secretary, to improve administration by the State agency of the supplemental nutrition assistance program, which amount shall not be matched by Federal funds; and
+&emsp;&emsp;&emsp;&emsp;(I) require all or any portion of the new investment amount to be used by the State agency for new investment, approved by the Secretary, to improve administration by the State agency of the supplemental nutrition assistance program, which amount shall not be matched by Federal funds; and
 
 &emsp;&emsp;&emsp;&emsp;(II) require payment of any remaining portion of the new investment amount in accordance with subparagraph (E)(ii).
 
@@ -268,7 +268,7 @@ Subject to subsection (k) of this section, the Secretary is authorized to pay to
 
 &emsp;&emsp;&emsp;(i) measure the performance of each State agency with respect to the criteria established under subparagraph (A)(i); and
 
-&emsp;&emsp;&emsp;(ii) subject to paragraph (3), award performance bonus payments in the following fiscal year, in a total amount of $48,000,000 for each fiscal year, to State agencies that meet standards for high or most improvedperformance established by the Secretary under subparagraph (A)(ii).
+&emsp;&emsp;&emsp;(ii) subject to paragraph (3), award performance bonus payments in the following fiscal year, in a total amount of $48,000,000 for each fiscal year, to State agencies that meet standards for high or most improved performance established by the Secretary under subparagraph (A)(ii).
 
 #### (2) Fiscal years 2005 and thereafter
 
@@ -322,7 +322,7 @@ Notwithstanding any other provision of law, counsel may be employed and counsel 
 
 &emsp;&emsp;(C) are likely to provide more efficient and effective administration of the supplemental nutrition assistance program;
 
-&emsp;&emsp;(D) would be compatible with other systems used in the administration of State programs, including the program funded under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.);
+&emsp;&emsp;(D) would be compatible with other systems used in the administration of State programs, including the program fundedunder part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.);
 
 &emsp;&emsp;(E) would be tested adequately before and after implementation, including through pilot projects in limited areas for major systems changes as determined under rules promulgated by the Secretary, data from which shall be thoroughly evaluated before the Secretary approves the system to be implemented more broadly; and
 
@@ -400,7 +400,7 @@ Eligibility.—To be eligible for an additional allocation under clause (i), a S
 
 #### (i) Geographical error-prone profiles
 
-(1) The Department of Agriculture may use quality control information made available under this section to determine which project areas have payment error rates (as defined in subsection (d)(1) of this section) that impair the integrity of the supplemental nutrition assistance program.
+(1) The Department of Agriculture may use quality control information made available under this section to determine which project areas have payment error rates (as defined in subsection (d)(1) of this section) that impair theintegrity of the supplemental nutrition assistance program.
 
 (2) The Secretary may require a State agency to carry out new or modified procedures for the certification of households in areas identified under paragraph (1) if the Secretary determines such procedures would improve the integrity of the supplemental nutrition assistance program and be cost effective.
 
@@ -540,7 +540,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Pub. L. 110–246, §4001(b), substituted “supplemental nutrition assistance program” for “food stamp program” wherever appearing in subsecs. (a) to (c), (e), (i), and (k).
+<b>2008</b>—Pub. L. 110–246, §4001(b), substituted “supplemental nutrition assistance program” for “food stamp program” wherever appearing in subsecs. (a) to (c), (e), (i), and (k).
 
 Subsec. (a)(2), (3). Pub. L. 110–246, §4115(b)(11), substituted “benefits” for “coupons”.
 
@@ -562,7 +562,7 @@ Subsec. (k)(3)(A). Pub. L. 110–246, §4406(a)(4)(A), struck out “effective f
 
 Subsec. (k)(3)(B)(ii). Pub. L. 110–246, §4406(a)(4)(B), struck out “through fiscal year 2007” after “for each subsequent fiscal year”.
 
-2002—Subsec. (c). Pub. L. 107–171, §4118(a)(1), inserted heading.
+<b>2002</b>—Subsec. (c). Pub. L. 107–171, §4118(a)(1), inserted heading.
 
 Subsec. (c)(1). Pub. L. 107–171, §4118(a)(1), added par. (1) and struck out former par. (1) which related to payment error improvement system.
 
@@ -614,7 +614,7 @@ Allocation formula.—The Secretary shall allocate the amounts reserved under su
 
 &emsp;&emsp;“(aa) do not reside in an area subject to a waiver granted by the Secretary under section 2015(<i>o</i>)(4) of this title; or
 
-&emsp;&emsp;“(bb) do reside in an area subject to a waiver granted by the Secretary under section 2015(<i>o</i>)(4) ofthis title, if the State agency provides employment and training services in the area to food stamp recipients who are not eligible for an exception under section 2015(<i>o</i>)(3) of this title.
+&emsp;&emsp;“(bb) do reside in an area subject to a waiver granted by the Secretary under section 2015(<i>o</i>)(4) of this title, if the State agency provides employment and training services in the area to food stamp recipients who are not eligible for an exception under section 2015(<i>o</i>)(3) of this title.
 
 “(ii)
 
@@ -632,9 +632,9 @@ Subsec. (k)(3)(A). Pub. L. 107–171, §4122(a)(1), substituted “2007” for �
 
 Subsec. (k)(3)(B)(ii). Pub. L. 107–171, §4122(a)(2), substituted “2007” for “2002”.
 
-1999—Subsec. (a). Pub. L. 106–78, which directed the amendment of “the Food Stamp Act (Public Law 95–113, section 16(a))” by inserting “or in a Native village within the State of Alaska identified in section 1610(b) of title 43.” before “such amounts”, was executed by making the amendment to this section, which is section 16(a) of the Food Stamp Act of 1977, Pub. L. 88–525, as amended by Pub. L. 95–113, to reflect the probable intent of Congress.
+<b>1999</b>—Subsec. (a). Pub. L. 106–78, which directed the amendment of “the Food Stamp Act (Public Law 95–113, section 16(a))” by inserting “or in a Native village within the State of Alaska identified in section 1610(b) of title 43.” before “such amounts”, was executed by making the amendment to this section, which is section 16(a) of the Food Stamp Act of 1977, Pub. L. 88–525, as amended by Pub. L. 95–113, to reflect the probable intent of Congress.
 
-1998—Subsec. (a). Pub. L. 105–185, §502(a)(1), substituted “Subject to subsection (k) of this section, the Secretary” for “The Secretary” in first sentence.
+<b>1998</b>—Subsec. (a). Pub. L. 105–185, §502(a)(1), substituted “Subject to subsection (k) of this section, the Secretary” for “The Secretary” in first sentence.
 
 Subsec. (h)(1)(A)(iv)(II). Pub. L. 105–185, §501(1), substituted “$31,000,000” for “$131,000,000”.
 
@@ -642,9 +642,9 @@ Subsec. (h)(1)(A)(v)(II). Pub. L. 105–185, §501(2), substituted “$86,000,00
 
 Subsec. (k). Pub. L. 105–185, §502(a)(2), added subsec. (k).
 
-1997—Subsec. (h)(1). Pub. L. 105–33 added par. (1) and struck out former par. (1) consisting of subpars. (A) to (D) requiring the Secretary to reserve for allocation to State agencies specified amounts for fiscal years 1996 to 2002 to carry out employment and training programs.
+<b>1997</b>—Subsec. (h)(1). Pub. L. 105–33 added par. (1) and struck out former par. (1) consisting of subpars. (A) to (D) requiring the Secretary to reserve for allocation to State agencies specified amounts for fiscal years 1996 to 2002 to carry out employment and training programs.
 
-1996—Subsec. (a). Pub. L. 104–193, §§844(c), 847, inserted “but not including recruitment activities,” before “(5) fair” and substituted “35 percent of the value of all funds or allotments recovered or collected pursuant to sections 2015(b) and 2022(c) of this title and 20 percent of the value of any other funds or allotments recovered or collected, except the value of funds or allotments recovered or collected that arise” for “25 percent during the period beginning October 1, 1990, and ending September 30, 1995, and 50 percent thereafter of the value of all funds or allotments recovered or collected pursuant to subsections (b)(1) and (c) of section 2022 of this title and 10 percent during the period beginning October 1, 1990, and ending September 30, 1995, and 25 percent thereafter of the value of all funds or allotments recovered or collected pursuant to section 2022(b)(2) of this title, except the value of funds or allotments recovered or collected pursuant to section 2022(b)(2) of this title which arise”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–193, §§844(c), 847, inserted “but not including recruitment activities,” before “(5) fair” and substituted “35 percent of the value of all funds or allotments recovered or collected pursuant to sections 2015(b) and 2022(c) of this title and 20 percent of the value of any other funds or allotments recovered or collected, except the value of funds or allotments recovered or collected that arise” for “25 percent during the period beginning October 1, 1990, and ending September 30, 1995, and 50 percent thereafter of the value of all funds or allotments recovered or collected pursuant to subsections (b)(1) and (c) of section 2022 of this title and 10 percent during the period beginning October 1, 1990, and ending September 30, 1995, and 25 percent thereafter of the value of all funds or allotments recovered or collected pursuant to section 2022(b)(2) of this title, except the value of funds or allotments recovered or collected pursuant to section 2022(b)(2) of this title which arise”.
 
 Subsec. (b). Pub. L. 104–193, §§848(a), 849, added subsec. (b) and struck out former subsec. (b) which read as follows: “The Secretary shall (1) establish standards for the efficient and effective administration of the food stamp program by the States, including standards for the periodic review of the hours that food stamp offices are open during the day, week, or month to ensure that employed individuals are adequately served by the food stamp program, and (2) instruct each State to submit, at regular intervals, reports which shall specify the specific administrative actions proposed to be taken and implemented in order to meet the efficiency and effectiveness standards established pursuant to clause (1) of this subsection.”
 
@@ -662,19 +662,19 @@ Subsec. (h)(2). Pub. L. 104–193, §817(c), inserted before period at end “,�
 
 Subsec. (h)(5). Pub. L. 104–193, §817(d)(1), struck out “(A)” before “The Secretary shall” and struck out subpar. (B) which read as follows: “The Secretary shall, not later than January 1, 1989, report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on the effectiveness of such employment and training programs.”
 
-Subsec. (h)(6). Pub. L. 104–193, §817(d)(2), struck out par. (6) which read as follows: “The Secretary shall develop, and transmit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, a proposal for modifying the rate of Federal payments under this subsection so as to reflect the relative effectiveness of the various States in carrying out employment and training programs under section 2015(d)(4) of this title.”
+Subsec. (h)(6). Pub. L. 104–193, §817(d)(2), struck out par. (6) which read as follows: “The Secretary shall develop, and transmit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, a proposal for modifying the rate of Federal paymentsunder this subsection so as to reflect the relative effectiveness of the various States in carrying out employment and training programs under section 2015(d)(4) of this title.”
 
-1995—Subsec. (i)(3). Pub. L. 104–66 struck out par. (3) which read as follows: “Not later than 12 months after December 23, 1985, and each 12 months thereafter, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that lists project areas identified under paragraph (1) and describes any procedures required to be carried out under paragraph (2).”
+<b>1995</b>—Subsec. (i)(3). Pub. L. 104–66 struck out par. (3) which read as follows: “Not later than 12 months after December 23, 1985, and each 12 months thereafter, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that lists project areas identified under paragraph (1) and describes any procedures required to be carried out under paragraph (2).”
 
-1994—Subsec. (e). Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary of Health and Human Services” in two places.
+<b>1994</b>—Subsec. (e). Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary of Health and Human Services” in two places.
 
-1993—Subsec. (a). Pub. L. 103–66, §13961(1), added cls. (6) to (8) and in proviso struck out “authorized to pay each State agency an amount not less than 75 per centum of the costs of State food stamp program investigations and prosecutions, and is further” after “That the Secretary is”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–66, §13961(1), added cls. (6) to (8) and in proviso struck out “authorized to pay each State agency an amount not less than 75 per centum of the costs of State food stamp program investigations and prosecutions, and is further” after “That the Secretary is”.
 
 Subsec. (c)(1)(C). Pub. L. 103–66, §13951(c)(1), substituted “national performance measure” for “payment error tolerance level” and substituted “equal to—” followed by cl. (i) for “equal to its payment error rate less such tolerance level times the total value of allotments issued in such a fiscal year by such State agency.”
 
 Subsec. (c)(3)(A). Pub. L. 103–66, §13951(c)(2), substituted “120 days” for “60 days (or 90 days at the discretion of the Secretary)”.
 
-Subsec. (c)(6). Pub. L. 103–66, §13951(c)(3), struck out “shall be used to establish a payment-error tolerance level. Such tolerance level for any fiscal year will be one percentage point added to the lowest national performance measure ever announced up to and including such fiscal year under this section. The payment-errortolerance level” after “The announced national performance measure”.
+Subsec. (c)(6). Pub. L. 103–66, §13951(c)(3), struck out “shall be used to establish a payment-error tolerance level. Such tolerance level for any fiscal year will be one percentage point added to the lowest national performance measure ever announced up to and including such fiscal year under this section. The payment-error tolerance level” after “The announced national performance measure”.
 
 Subsec. (c)(8), (9). Pub. L. 103–66, §13951(c)(4), added pars. (8) and (9).
 
@@ -686,17 +686,17 @@ Subsec. (h)(3). Pub. L. 103–66, §13922(c), substituted “equal to the paymen
 
 Subsecs. (j), (k). Pub. L. 103–66, §13961(3), (4), redesignated subsec. (k) as (j) and struck out former subsec. (j) which read as follows: “The Secretary is authorized to pay to each State agency an amount equal to 100 per centum of the costs incurred by the State agency in implementing and operating the immigration status verification system described in section 1137(d) of the Social Security Act.”
 
-1991—Subsec. (g). Pub. L. 102–237, §941(7)(A), inserted a comma after “1991”.
+<b>1991</b>—Subsec. (g). Pub. L. 102–237, §941(7)(A), inserted a comma after “1991”.
 
 Subsec. (h)(4). Pub. L. 102–237, §941(7)(B), substituted “this chapter” for “the chapter”.
 
-1990—Subsec. (a). Pub. L. 101–624, §1750, substituted “25 percent during the period beginning October 1, 1990, and ending September 30, 1995, and 50 percent thereafter” for “50 per centum”, and “10 percent during the period beginning October 1, 1990, and ending September 30, 1995, and 25 percent thereafter” for “25 per centum”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–624, §1750, substituted “25 percent during the period beginning October 1, 1990, and ending September 30, 1995, and 50 percent thereafter” for “50 per centum”, and “10 percent during the period beginning October 1, 1990, and ending September 30, 1995, and 25 percent thereafter” for “25 per centum”.
 
 Subsec. (g). Pub. L. 101–624, §1752(a), substituted “The” for “Effective October 1, 1980, the” and “63 percent effective on October 1, 1991” for “75 per centum”.
 
 Subsec. (h)(1). Pub. L. 101–624, §1753, amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Secretary shall allocate among the State agencies in each fiscal year, from funds appropriated for such fiscal year under section 2027(a)(1) of this title, the amount of $40,000,000 for the fiscal year ending September 30, 1986, $50,000,000 for the fiscal year ending September 30, 1987, $60,000,000 for the fiscal year ending September 30, 1988, and $75,000,000 for each of the fiscal years ending September 30, 1989 and September 30, 1990, to carry out the employment and training program under section 2015(d)(4) of this title, except as provided in paragraph (3), during such fiscal year.”
 
-1988—Subsec. (a)(4). Pub. L. 100–435, §204(b), substituted “, including those undertaken” for “permitted”.
+<b>1988</b>—Subsec. (a)(4). Pub. L. 100–435, §204(b), substituted “, including those undertaken” for “permitted”.
 
 Subsec. (c). Pub. L. 100–435, §604(1), added subsec. (c) and struck out former subsec. (c) which related to State incentives for reducing error.
 
@@ -712,11 +712,11 @@ Subsec. (j). Pub. L. 100–435, §321(c), redesignated subsec. (h), relating to 
 
 Subsec. (k). Pub. L. 100–435, §321(b), added subsec. (k).
 
-1987—Subsec. (a). Pub. L. 100–77 substituted “(4) food stamp informational activities permitted under section 2020(e)(1)(A) of this title, and (5)” for “and (4)” in first sentence.
+<b>1987</b>—Subsec. (a). Pub. L. 100–77 substituted “(4) food stamp informational activities permitted under section 2020(e)(1)(A) of this title, and (5)” for “and (4)” in first sentence.
 
-1986—Subsec. (h). Pub. L. 99–603 added, at end of section, subsec. (h) relating to payment of costs of immigration status verification system.
+<b>1986</b>—Subsec. (h). Pub. L. 99–603 added, at end of section, subsec. (h) relating to payment of costs of immigration status verification system.
 
-1985—Subsec. (a). Pub. L. 99–198, §1535(c)(1), substituted “subsections (b)(1) and (c) of section 2022 of this title” for “section 2022(b)(1) of this title”.
+<b>1985</b>—Subsec. (a). Pub. L. 99–198, §1535(c)(1), substituted “subsections (b)(1) and (c) of section 2022 of this title” for “section 2022(b)(1) of this title”.
 
 Subsec. (b)(1). Pub. L. 99–198, §1524, inserted “, including standards for the periodic review of the hours that food stamp offices are open during the day, week, or month to ensure that employed individuals are adequately served by the food stamp program,” after “States”.
 
@@ -728,7 +728,7 @@ Subsec. (h). Pub. L. 99–198, §1517(c), added subsec. (h) relating to authoriz
 
 Subsec. (i). Pub. L. 99–198, §1539, added subsec. (i).
 
-1982—Subsec. (a). Pub. L. 97–253, §179, inserted “, except the value of funds or allotments recovered or collected pursuant to section 2022(b)(2) of this title which arise from an error of a State agency”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–253, §179, inserted “, except the value of funds or allotments recovered or collected pursuant to section 2022(b)(2) of this title which arise from an error of a State agency”.
 
 Subsec. (c). Pub. L. 97–253, §180(a)(1), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Secretary is authorized to adjust a State agency's federally funded share of administrative costs pursuant to subsection (a) of this section, other than the costs already shared in excess of 50 per centum as described in the exception clause of subsection (a) of this section, by increasing such share to (1) effective October 1, 1978, 60 per centum of all such administrative costs in the case of a State agency whose (A) semiannual cumulative allotment error rates with respect to eligibility, overissuance, and underissuance as calculated in the quality control program undertaken pursuant to subsection (d)(1) of this section are less than five per centum and (B) whose rate of invalid decisions in denying eligibility as calculated in the quality control program conducted under subsection (d)(1) of this section is less than a nationwide percentage that the Secretary determines to be reasonable; (2) effective October 1, 1980, 65 per centum of all such administrative costs in the case of a State agency meeting the standards contained in paragraph (1) of this subsection; (3) effective October 1, 1980, 60 per centum of all such administrative costs in the case of a State agency whose cumulative allotment error rate as determined under paragraph (1)(A) of this subsection is greater than 5 per centum but less than 8 per centum or the national standard payment error rate for the base period, whichever is lower, and which also meets the standard contained in paragraph (1)(B) of this subsection; and (4) effective October 1, 1980, 55 per centum of all such administrative costs in the case of a State agency whose annual rate of error reduction is equal to or exceeds 25 per centum, and, effective October 1, 1981, which also meets the standard contained in paragraph (1)(B) of this subsection. No State agency shall receive more than one of the increased federally funded shares of administrative costs set forth in paragraphs (1) through (4) of this subsection.”
 
@@ -742,7 +742,7 @@ Subsec. (g). Pub. L. 97–253, §180(a)(2), redesignated former subsec. (i) as (
 
 Subsecs. (h), (i). Pub. L. 97–253, §180(a)(2), redesignated subsecs. (h) and (i) as (f) and (g), respectively.
 
-1981—Subsec. (a). Pub. L. 97–35 substituted provisions relating to recovery through section 2022(b)(1) and (2) of this title for provisions relating to recovery through prosecutions or other State activities, substituted “determinations of ineligibility” for “determinations of fraud”, struck out “(1) outreach,” and redesignated cls. (2) to (5) as (1) to (4), respectively.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35 substituted provisions relating to recovery through section 2022(b)(1) and (2) of this title for provisions relating to recovery through prosecutions or other State activities, substituted “determinations of ineligibility” for “determinations of fraud”, struck out “(1) outreach,” and redesignated cls. (2) to (5) as (1) to (4), respectively.
 
 Subsec. (b)(1). Pub. L. 97–98, §1325, struck out “, including, but not limited to, staffing standards such as caseload per certification worker limitations,” after “by the States”.
 
@@ -752,7 +752,7 @@ Subsec. (d). Pub. L. 97–98, §1326(2), substituted in provision preceding par.
 
 Subsec. (f). Pub. L. 97–98, §1327, substituted “State agencies shall” for “State agencies may”.
 
-1980—Subsec. (b). Pub. L. 96–249, §121, struck out provisions requiring that if the Secretary finds that a State has failed without good cause to meet any of the Secretary's standards, or has failed to carry out the approved State plan of operation under section 2020(d) of this title, the Secretary withhold from the State such funds authorized under subsections (a) and (c) of this section as the Secretary determines to be appropriate.
+<b>1980</b>—Subsec. (b). Pub. L. 96–249, §121, struck out provisions requiring that if the Secretary finds that a State has failed without good cause to meet any of the Secretary's standards, or has failed to carry out the approved State plan of operation under section 2020(d) of this title, the Secretary withhold from the State such funds authorized under subsections (a) and (c) of this section as the Secretary determines to be appropriate.
 
 Subsec. (c). Pub. L. 96–249, §125, designated existing provisions as par. (1), substituted “(A) semiannual cumulative” for “cumulative”, and added subpar. (B) and pars. (2) to (4).
 
@@ -762,21 +762,21 @@ Subsec. (h). Pub. L. 96–249, §128, added subsec. (h).
 
 Subsec. (i). Pub. L. 96–249, §129, added subsec. (i).
 
-1979—Subsec. (a). Pub. L. 96–58, §6, authorized the Secretary to permit each State to retain 50 per centum of the value of all funds or allotments recovered or collected through prosecutions or other State activities directed against individuals who fraudulently obtain allotments as determined in accordance with this chapter but directed that officials responsible for making determinations of fraud under this chapter should not receive or benefit from revenues retained by the State under the provisions of this subsection.
+<b>1979</b>—Subsec. (a). Pub. L. 96–58, §6, authorized the Secretary to permit each State to retain 50 per centum of the value of all funds or allotments recovered or collected through prosecutions or other State activities directed against individuals who fraudulently obtain allotments as determined in accordance with this chapter but directed that officials responsible for making determinations of fraud under this chapter should not receive or benefit from revenues retained by the State under the provisions of this subsection.
 
 Subsec. (f). Pub. L. 96–58, §4, added subsec. (f).
 
-1977—Pub. L. 95–113 substituted revised provisions relating to administrative cost-sharing and quality control for provisions authorizing appropriations and relating to the financial operation of the program which are now covered by section 2027 of this title.
+<b>1977</b>—Pub. L. 95–113 substituted revised provisions relating to administrative cost-sharing and quality control for provisions authorizing appropriations and relating to the financial operation of the program which are now covered by section 2027 of this title.
 
-1973—Subsec. (a). Pub. L. 93–86 extended authorization of appropriations from June 30, 1973, to June 30, 1977, and inserted provision relating to availability of appropriated sums.
+<b>1973</b>—Subsec. (a). Pub. L. 93–86 extended authorization of appropriations from June 30, 1973, to June 30, 1977, and inserted provision relating to availability of appropriated sums.
 
-1971—Subsec. (a). Pub. L. 91–671 is substituted appropriation authorization of “$1,750,000,000 for the fiscal year ending June 30, 1971; and for the fiscal years ending June 30, 1972 and June 30, 1973 such sums as the Congress may appropriate” for “$170,000,000 for the six months ending December 31, 1970”.
+<b>1971</b>—Subsec. (a). Pub. L. 91–671 is substituted appropriation authorization of “$1,750,000,000 for the fiscal year ending June 30, 1971; and for the fiscal years ending June 30, 1972 and June 30, 1973 such sums as the Congress may appropriate” for “$170,000,000 for the six months ending December 31, 1970”.
 
-1969—Subsec. (a). Pub. L. 91–116 increased appropriation authorization limitation for fiscal year ending June 30, 1970, from $340,000,000 to $610,000,000.
+<b>1969</b>—Subsec. (a). Pub. L. 91–116 increased appropriation authorization limitation for fiscal year ending June 30, 1970, from $340,000,000 to $610,000,000.
 
-1968—Subsec. (a). Pub. L. 90–552 increased appropriations authorization limitation for fiscal year ending June 30, 1969, from $225,000,000 to $315,000,000, authorized appropriations of $340,000,000 and $170,000,000 for fiscal year ending June 30, 1970, and for six months ending Dec. 31, 1970, substituted “fiscal period” for “fiscal year”, and provided for submission of reports to Congress on or before January 20 of each year setting forth operations under this chapter during preceding calendar year and projecting needs for ensuing calendar year.
+<b>1968</b>—Subsec. (a). Pub. L. 90–552 increased appropriations authorization limitation for fiscal year ending June 30, 1969, from $225,000,000 to $315,000,000, authorized appropriations of $340,000,000 and $170,000,000 for fiscal year ending June 30, 1970, and for six months ending Dec. 31, 1970, substituted “fiscal period” for “fiscal year”, and provided for submission of reports to Congress on or before January 20 of each year setting forth operations under this chapter during preceding calendar year and projecting needs for ensuing calendar year.
 
-1967—Subsec. (a). Pub. L. 90–91 provided for appropriations for the fiscal years ending June 30, 1968 and 1969, and inserted provision dealing with the carrying out of this chapter only with funds appropriated from the general fund of the Treasury for the purposes of this chapter.
+<b>1967</b>—Subsec. (a). Pub. L. 90–91 provided for appropriations for the fiscal years ending June 30, 1968 and 1969, and inserted provision dealing with the carrying out of this chapter only with funds appropriated from the general fund of the Treasury for the purposes of this chapter.
 
 #### Effective Date of 2008 Amendment
 
@@ -810,7 +810,7 @@ Amendment by Pub. L. 105–33 effective Oct. 1, 1997, without regard to whether 
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 109(c) of Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for FamilySupport, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of Title 42, The Public Health and Welfare.
+Amendment by section 109(c) of Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1994 Amendment
 
@@ -860,7 +860,7 @@ Amendment by sections 204(b), 321(b), and 404(e) of Pub. L. 100–435 to be effe
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–603 effective Oct. 1, 1987, see section 121(c)(2) of Pub. L. 99–603, set out as a note under section 502 of Title 42, The Public Health and Welfare.
+Amendment by Pub. L. 99–603 effective Oct. 1, 1987, see section 121(c)(2) of Pub. L. 99–603, set out as a noteunder section 502 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1985 Amendment
 

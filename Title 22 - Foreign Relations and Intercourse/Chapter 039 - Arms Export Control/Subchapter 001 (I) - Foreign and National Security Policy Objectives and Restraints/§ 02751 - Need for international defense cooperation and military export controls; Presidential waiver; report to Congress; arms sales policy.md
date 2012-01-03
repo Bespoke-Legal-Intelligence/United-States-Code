@@ -10,7 +10,7 @@ It is the sense of the Congress that all such sales be approved only when they a
 
 It shall be the policy of the United States to exert leadership in the world community to bring about arrangements for reducing the international trade in implements of war and to lessen the danger of outbreak of regional conflict and the burdens of armaments. United States programs for or procedures governing the export, sale, and grant of defense articles and defense services to foreign countries and international organizations shall be administered in a manner which will carry out this policy.
 
-It is the sense of the Congress that the President should seek to initiate multilateral discussions for the purpose of reaching agreements among the principal arms suppliers and arms purchasers and other countries with respect to the control of the international trade in armaments. It is further the sense of Congress that the President should work actively with all nations to check and control the international sale and distribution of conventional weapons of death and destruction and to encourage regional arms control arrangements. In furtherance of this policy, the President should undertake a concerted effort to convene an international conference of major arms-supplying and arms-purchasing nations which shall consider measures to limit conventional arms transfers in the interest of international peace and stability.
+It is the sense of the Congress that the President should seek to initiate multilateral discussions for the purpose of reaching agreements among the principal arms suppliers and arms purchasers and other countries with respect to the control of the international trade in armaments. It is further the sense of Congress that the President should work actively with all nations to check and control the international saleand distribution of conventional weapons of death and destruction and to encourage regional arms control arrangements. In furtherance of this policy, the President should undertake a concerted effort to convene an international conference of major arms-supplying and arms-purchasing nations which shall consider measures to limit conventional arms transfers in the interest of international peace and stability.
 
 It is the sense of the Congress that the aggregate value of defense articles and defense services—
 
@@ -68,11 +68,11 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, §1001\], Nov. 29, 1999, 113 S
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–194, §1, July 14, 1998, 112 Stat. 627, provided that: “This Act \[amending section 2799aa–1 of this title and enacting provisions set out as notes under section 2799aa–1 of this title\] may be cited as the ‘Agriculture Export Relief Act of 1998’.”
+Pub. L. 105–194, §1, July 14, 1998, 112 Stat. 627, provided that: “This Act \[amending section 2799aa–1 ofthis title and enacting provisions set out as notes under section 2799aa–1 of this title\] may be cited as the ‘Agriculture Export Relief Act of 1998’.”
 
 #### Short Title of 1991 Amendment
 
-Pub. L. 102–228, §1, Dec. 12, 1991, 105 Stat. 1691, provided that: “This Act \[enacting sections 2595b–1 and 2799 to 2799d of this title, amending sections 2581, 2589, 2595, and 2595c of this title, and enacting provisions setout as notes under section 2551 of this title\] may be cited as the ‘Conventional Forces in Europe Treaty Implementation Act of 1991’.”
+Pub. L. 102–228, §1, Dec. 12, 1991, 105 Stat. 1691, provided that: “This Act \[enacting sections 2595b–1 and 2799 to 2799d of this title, amending sections 2581, 2589, 2595, and 2595c of this title, and enacting provisions set out as notes under section 2551 of this title\] may be cited as the ‘Conventional Forces in Europe Treaty Implementation Act of 1991’.”
 
 #### Short Title
 
@@ -196,7 +196,7 @@ Export and Transfer Control Policy.—The President shall implement a policy to 
 
 “(b)
 
-Requirement to Implement Control System.—No defense articles may be provided to the Government of Iraq or any other group, organization, citizen, or resident of Iraq until the President certifies to the specified congressional committees that a registration and monitoring system meeting the requirements set forth in subsection (c) has been established.
+Requirement to Implement Control System.—No defense articles may be provided to the Government of Iraq or any other group, organization, citizen, or resident of Iraq until the President certifies to the specified congressional committees that a registrationand monitoring system meeting the requirements set forth in subsection (c) has been established.
 
 “(c)
 
@@ -346,7 +346,7 @@ United States Policy on Nonproliferation and Export Control.—
 
 &emsp;“(1)
 
-To limit availability and transfer of manpads.—The President shall pursue, on an urgent basis, further strong international diplomatic and cooperative efforts, including bilateral and multilateral treaties, in the appropriate forum to limit the availability, transfer, and proliferation of MANPADSs worldwide.
+To limit availability and transfer of manpads.—The President shall pursue, on an urgentbasis, further strong international diplomatic and cooperative efforts, including bilateral and multilateral treaties, in the appropriate forum to limit the availability, transfer, and proliferation of MANPADSs worldwide.
 
 &emsp;“(2)
 
@@ -454,7 +454,7 @@ Appropriate congressional committees.—The term ‘appropriate congressional co
 
 &emsp;&emsp;“(B) any other surface-to-air missile system designed to be operated and fired by more than one individual acting as a crew and portable by several individuals.”
 
-\[Functions of President under subsecs. (a)(4)(A), (c)(2) of section 4026 of Pub. L. 108–458, set out above, assigned to Secretary of State by section 1 of Memorandum of President of the United States, Apr. 21, 2005, 70F.R. 48633, set out as a note under section 301 of title 3, The President.\]
+\[Functions of President under subsecs. (a)(4)(A), (c)(2) of section 4026 of Pub. L. 108–458, set out above, assigned to Secretary of State by section 1 of Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 48633, set out as a note under section 301 of title 3, The President.\]
 
 #### Bilateral Exchanges and Trade in Defense Articles and Defense Services Between the United States and the United Kingdom and Australia
 
@@ -652,7 +652,7 @@ Purposes of the Committee.—The purposes of the committee are as follows:
 
 Duties.—The committee shall—
 
-&emsp;“(1) identify and review existing and proposed capabilities and technologies for support of United Statesnonproliferation policy and counterproliferation policy with regard to—
+&emsp;“(1) identify and review existing and proposed capabilities and technologies for support of United States nonproliferation policy and counterproliferation policy with regard to—
 
 &emsp;&emsp;“(A) intelligence;
 
@@ -728,7 +728,7 @@ Section 734(c) of Pub. L. 97–113 provided that: “Except as otherwise explici
 
 #### Report to Congress by President on Multilateral Discussions Concerning Arms Transfer Policy
 
-Section 15(b) of Pub. L. 95–384 directed President, not later than Dec. 31, 1979, to transmit to Congress a detailed report assessing results and commenting on implications of multilateral discussion referred to in paragraph added to this section by section 15(a) of Pub. L. 95–384, relating to adherence to a policy of restraint in conventional arms transfer, prior to repeal by Pub. L. 97–113, title VII, §734(a)(12), Dec. 29, 1981, 95 Stat. 1560.
+Section 15(b) of Pub. L. 95–384 directed President, not later than Dec. 31, 1979, to transmit to Congress a detailed report assessing results and commenting on implications of multilateral discussion referred to inparagraph added to this section by section 15(a) of Pub. L. 95–384, relating to adherence to a policy of restraint in conventional arms transfer, prior to repeal by Pub. L. 97–113, title VII, §734(a)(12), Dec. 29, 1981, 95 Stat. 1560.
 
 #### Report by President on Review of Arms Sales Controls on Non-Lethal Items
 
@@ -786,7 +786,7 @@ Section 6 of Pub. L. 91–672 provided that: “It is the sense of the Congress 
 
 &emsp;&emsp;“(B) to commence a general debate in the United Nations with respect to the control of the conventional arms trade, and
 
-&emsp;&emsp;“(C) to use the power and prestige of his office to signify the intention of the United States to work actively with all nations to check and control the international sales and distribution of conventional weapons of death and destruction.”
+&emsp;&emsp;“(C) to use the power and prestige of his office to signify the intention of the United States to work actively with all nations to check and control theinternational sales and distribution of conventional weapons of death and destruction.”
 
 #### Executive Order No. 11501
 

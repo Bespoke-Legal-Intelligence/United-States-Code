@@ -12,5 +12,5 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### Amendments
 
-1996—Pub. L. 104–324 struck out “specific” after “be assigned” and after “when assigned to”.
+<b>1996</b>—Pub. L. 104–324 struck out “specific” after “be assigned” and after “when assigned to”.
 

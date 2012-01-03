@@ -80,7 +80,7 @@ Section 108(c)(2) of Pub. L. 96–364 provided that:
 
 &emsp;“(i) the employer is engaged in the trade or business of shipping bulk cargoes in the Great Lakes Maritime Industry, and whose fleet consists of vessels the gross registered tonnage of which was at least 7,800, as stated in the American Bureau of Shipping Record, and
 
-&emsp;“(ii) whose fleet during any 5 years from the period 1970 through and including 1979 has experienced a 33 percent or more increase in the contribution units as measured from the average annual contribution units for the calendar years 1970 and 1971.”
+&emsp;“(ii) whose fleet during any 5 years from the period 1970 through and including 1979 has experienced a 33 percent or more increase in the contribution units asmeasured from the average annual contribution units for the calendar years 1970 and 1971.”
 
 #### Applicability to Specified Plan Year, Cessation of Contribution Obligations, and Contribution Base Units of Employer
 

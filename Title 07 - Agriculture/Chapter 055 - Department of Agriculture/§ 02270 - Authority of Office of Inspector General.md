@@ -14,7 +14,7 @@ Any person who is employed in the Office of the Inspector General, Department of
 
 #### References in Text
 
-The Food and Nutrition Act of 2008, referred to in text, is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, whichis classified generally to chapter 51 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under 2011 of this title and Tables.
+The Food and Nutrition Act of 2008, referred to in text, is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under 2011 of this title and Tables.
 
 Sections 6 and 9 of the Inspector General Act of 1978, referred to in text, are sections 6 and 9 of Pub. L. 95–452, which are set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -24,7 +24,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Pub. L. 110–246, §4002(b)(1)(B), (2)(II), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977” in introductory provisions.
+<b>2008</b>—Pub. L. 110–246, §4002(b)(1)(B), (2)(II), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977” in introductory provisions.
 
 #### Effective Date of 2008 Amendment
 

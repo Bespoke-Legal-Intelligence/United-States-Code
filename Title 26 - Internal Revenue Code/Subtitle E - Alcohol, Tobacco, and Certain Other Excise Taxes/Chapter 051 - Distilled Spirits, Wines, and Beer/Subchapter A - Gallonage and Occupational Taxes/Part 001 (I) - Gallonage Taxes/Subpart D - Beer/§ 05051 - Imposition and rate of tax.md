@@ -10,7 +10,7 @@
 
 #### (A) $7 a barrel rate
 
-&emsp;&emsp;In the case of a brewer who produces not more than 2,000,000 barrels of beer during thecalendar year, the per barrel rate of the tax imposed by this section shall be $7 on the first 60,000 barrels of beer which are removed in such year for consumption or sale and which have been brewed or produced by such brewer at qualified breweries in the United States.
+&emsp;&emsp;In the case of a brewer who produces not more than 2,000,000 barrels of beer during the calendar year, the per barrel rate of the tax imposed by this section shall be $7 on the first 60,000 barrels of beer which are removed in such year for consumption or sale and which have been brewed or produced by such brewer at qualified breweries in the United States.
 
 #### (B) Controlled groups
 
@@ -76,7 +76,7 @@ Amendment by Pub. L. 95–458 effective on first day of first calendar month beg
 
 #### Effective Date of 1976 Amendment
 
-Section 2 of Pub. L. 94–529 provided that: “The amendment made by the first section of this Act\[amending this section\] shall take effect on the first day of the first calendar year which begins after the date of the enactment of this Act \[Oct. 17, 1976\].”
+Section 2 of Pub. L. 94–529 provided that: “The amendment made by the first section of this Act \[amending this section\] shall take effect on the first day of the first calendar year which begins after the date of the enactment of this Act \[Oct. 17, 1976\].”
 
 #### Effective Date of 1965 Amendment
 

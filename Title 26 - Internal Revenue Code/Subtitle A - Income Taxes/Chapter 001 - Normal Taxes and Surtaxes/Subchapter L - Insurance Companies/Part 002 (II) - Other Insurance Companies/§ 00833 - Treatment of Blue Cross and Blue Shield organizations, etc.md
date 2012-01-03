@@ -166,7 +166,7 @@ Subsec. (b)(1)(A)(ii). Pub. L. 105–34, §1604(d)(2)(A)(ii), inserted “or in 
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–148, title IX, §9016(b), Mar. 23, 2010, 124 Stat. 872, provided that: “The amendment made by thissection \[amending this section\] shall apply to taxable years beginning after December 31, 2009.”
+Pub. L. 111–148, title IX, §9016(b), Mar. 23, 2010, 124 Stat. 872, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2009.”
 
 #### Effective Date of 1997 Amendment
 

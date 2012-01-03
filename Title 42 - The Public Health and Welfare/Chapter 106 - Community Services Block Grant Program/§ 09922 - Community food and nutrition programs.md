@@ -66,7 +66,7 @@ The Secretary may, through grants to public and private, nonprofit agencies, pro
 
 #### (c) Report
 
-For each fiscal year, the Secretary shall prepare and submit, to the Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate, a report concerning the grants made under this section. Such report shall include—
+For each fiscal year, the Secretary shall prepare and submit, to the Committee on Education and the Workforce of the House of Representatives and the Committee on Labor andHuman Resources of the Senate, a report concerning the grants made under this section. Such report shall include—
 
 &emsp;(1) a list of grant recipients;
 
@@ -85,8 +85,6 @@ There are authorized to be appropriated to carry out this section such sums as m
 A prior section 681 of Pub. L. 97–35 was classified to section 9910 of this title, prior to the general amendment of this chapter by Pub. L. 105–285.
 
 #### Change of Name
-
-Committee on Education and the Workforce of the House of Representatives changed to Committee on Education and Labor of the House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 

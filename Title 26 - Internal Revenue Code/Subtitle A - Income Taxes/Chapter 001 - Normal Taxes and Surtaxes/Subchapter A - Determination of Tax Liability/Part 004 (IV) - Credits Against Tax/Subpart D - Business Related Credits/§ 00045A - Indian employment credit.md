@@ -96,7 +96,7 @@ For purposes of this section—
 
 #### (2) Carrybacks and carryovers adjusted
 
-&emsp;In the case of any termination of employment to which paragraph (1) applies, the carrybacks and carryovers under section 39 shall be properly adjusted.
+&emsp;In the case of any termination of employment to which paragraph (1) applies, thecarrybacks and carryovers under section 39 shall be properly adjusted.
 
 #### (3) Subsection not to apply in certain cases
 
@@ -156,7 +156,7 @@ For purposes of this section—
 
 This section shall not apply to taxable years beginning after December 31, 2011.
 
-(Added Pub. L. 103–66, title XIII, §13322(b), Aug. 10, 1993, 107 Stat. 559; amended Pub. L. 104–188, title I, §1201(e)(1), Aug. 20, 1996, 110 Stat. 1772; Pub. L. 105–206, title VI, §6023(1), July 22, 1998, 112 Stat. 824; Pub. L. 107–147, title VI, §613(a),Mar. 9, 2002, 116 Stat. 61; Pub. L. 108–311, title III, §315, title IV, §404(b)(1), Oct. 4, 2004, 118 Stat. 1181, 1188; Pub. L. 109–432, div. A, title I, §111(a), Dec. 20, 2006, 120 Stat. 2940; Pub. L. 110–343, div. C, title III, §314(a), Oct. 3, 2008, 122 Stat. 3872; Pub. L. 111–312, title VII, §732(a), Dec. 17, 2010, 124 Stat. 3317.)
+(Added Pub. L. 103–66, title XIII, §13322(b), Aug. 10, 1993, 107 Stat. 559; amended Pub. L. 104–188, title I, §1201(e)(1), Aug. 20, 1996, 110 Stat. 1772; Pub. L. 105–206, title VI, §6023(1), July 22, 1998, 112 Stat. 824; Pub. L. 107–147, title VI, §613(a), Mar. 9, 2002, 116 Stat. 61; Pub. L. 108–311, title III, §315, title IV, §404(b)(1), Oct. 4, 2004, 118 Stat. 1181, 1188; Pub. L. 109–432, div. A, title I, §111(a), Dec. 20, 2006, 120 Stat. 2940; Pub. L. 110–343, div. C, title III, §314(a), Oct. 3, 2008, 122 Stat. 3872; Pub. L. 111–312, title VII, §732(a), Dec. 17, 2010, 124 Stat. 3317.)
 
 #### Inflation Adjusted Items for Certain Years
 

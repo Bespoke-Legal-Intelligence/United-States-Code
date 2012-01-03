@@ -6,7 +6,7 @@ The Director of the Center for Substance Abuse Prevention (referred to in this s
 
 &emsp;(1) to carry out school-based programs concerning the dangers of methamphetamine or inhalant abuse and addiction, using methods that are effective and evidence-based, including initiatives that give students the responsibility to create their own anti-drug abuse education programs for their schools; and
 
-&emsp;(2) to carry out community-based methamphetamine or inhalant abuse and addiction prevention programs that are effective and evidence-based.
+&emsp;(2) to carry out community-based methamphetamine or inhalant abuse and addictionprevention programs that are effective and evidence-based.
 
 #### (b) Use of funds
 
@@ -28,7 +28,7 @@ Amounts made available under a grant, contract or cooperative agreement under su
 
 &emsp;&emsp;(E) for planning, administration, and educational activities related to the prevention of methamphetamine or inhalant abuse and addiction;
 
-&emsp;&emsp;(F) for the monitoring and evaluation of methamphetamine or inhalant preventionactivities, and reporting and disseminating resulting information to the public; and
+&emsp;&emsp;(F) for the monitoring and evaluation of methamphetamine or inhalant prevention activities, and reporting and disseminating resulting information to the public; and
 
 &emsp;&emsp;(G) for targeted pilot programs with evaluation components to encourage innovation and experimentation with new methodologies.
 

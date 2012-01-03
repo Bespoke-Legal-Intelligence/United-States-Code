@@ -54,41 +54,19 @@
 
 (c) Duties and powers of officers and employees of the Department are vested in the Secretary except duties and powers—
 
-&emsp;(1) vested by subchapter II of chapter 5 of title 5 in administrative law judges employed by the Secretary;
+&emsp;(1) vested by subchapter II of chapter 5 of title 5 in administrative law judges employed by the Secretary; and
 
-&emsp;(2) of the Comptroller of the Currency; and
-
-&emsp;(3) of the Director of the Office of Thrift Supervision; <sup>1</sup>
+&emsp;(2) of the Comptroller of the Currency.
 
 (d)(1) The Secretary of the Treasury may accept, hold, administer, and use gifts and bequests of property, both real and personal, for the purpose of aiding or facilitating the work of the Department of the Treasury. Gifts and bequests of money and the proceeds from sales of other property received as gifts or bequests shall be deposited in the Treasury in a separate fund and shall be disbursed on order of the Secretary of the Treasury. Property accepted under this paragraph, and the proceeds thereof, shall be used as nearly as possible in accordance with the terms of the gift or bequest.
 
 (2) For purposes of the Federal income, estate, and gift taxes, property accepted under paragraph (1) shall be considered as a gift or bequest to or for the use of the United States.
 
-(3) The Secretary of the Treasury may invest and reinvest the fund in public debt securities with maturities suitable for the needs of the fund and bearing interest at rates determined by the Secretary of the Treasury, taking into consideration the current average market yield on outstanding marketable obligations of the United States of comparable maturities. Income accruing from the securities, and from any otherproperty accepted under paragraph (1), shall be deposited to the credit of the fund, and shall be disbursed on order of the Secretary of the Treasury for purposes as nearly as possible in accordance with the terms of the gifts or bequests.
+(3) The Secretary of the Treasury may invest and reinvest the fund in public debt securitieswith maturities suitable for the needs of the fund and bearing interest at rates determined by the Secretary of the Treasury, taking into consideration the current average market yield on outstanding marketable obligations of the United States of comparable maturities. Income accruing from the securities, and from any other property accepted under paragraph (1), shall be deposited to the credit of the fund, and shall be disbursed on order of the Secretary of the Treasury for purposes as nearly as possible in accordance with the terms of the gifts or bequests.
 
 (4) The Secretary of the Treasury shall, not less frequently than annually, make a public disclosure of the amount (and sources) of the gifts and bequests received under this subsection, and the purposes for which amounts in the separate fund established under this subsection are expended.
 
-(e)
-
-Certain Reorganization Prohibited.—The Secretary of the Treasury may not merge or consolidate the Office of Thrift Supervision, or any of the functions or responsibilities of the Office or the Director of such office, with the Office of the Comptroller of the Currency or the Comptroller of the Currency.
-
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 880; Pub. L. 98–369, div. A, title IV, §445, July 18, 1984, 98 Stat. 816; Pub. L. 101–73, title III, §307(b), (d), Aug. 9, 1989, 103 Stat. 353; Pub. L. 104–66, title I, §1132(b), Dec. 21, 1995, 109 Stat. 725; Pub. L. 111–203, title III, §378(1), title V, §502(b), July 21, 2010, 124 Stat. 1570, 1588.)
-
-#### Amendment of Section
-
-<i>Pub. L. 111–203, title III, §§351, 378(1), July 21, 2010, 124 Stat. 1546, 1570, provided that, effective on the transfer date, this section is amended as follows:</i>
-
-<i>(1) in subsection (c)—</i>
-
-<i>(A) in paragraph (1), by adding “and” at the end;</i>
-
-<i>(B) in paragraph (2), by striking “; and” and inserting a period; and</i>
-
-<i>(C) by striking paragraph (3); and</i>
-
-<i>(2) by striking subsection (e).</i>
-
-<i>See Effective Date of 2010 Amendment note below.</i>
 
 Historical and Revision Notes
 
@@ -220,7 +198,7 @@ In subsection (a)(7), the words “Secretary of the Treasury” are substituted 
 
 In subsection (a)(8), before subclause (A), the word “maintain” is substituted for “shall be kept” for consistency. The words “all moneys” and “internal” are omitted as unnecessary because of the restatement. The words “duties or” are omitted as being included in “taxes”. The word “possession” is added for consistency in the revised title and with other titles of the Code. The word “listing” is substituted for “so as to exhibit, as far as may be” for clarity and to eliminate unnecessary words. In subclause (A), the word “kind” is substituted for “species” for consistency. The words “that shall accrue” are omitted as surplus. In subclause (B), the words “each tax” are substituted for “each source of revenue” for clarity. In subclause (C), the word “pay” is substituted for “compensation” for consistency. The words “officers and employees” are substituted for “collectors and deputy collectors, inspectors, and other officers” for consistency and to eliminate unnecessary words.
 
-Subsection (b)(1) is included as a general statement of the authority of the Secretary of the Treasury to prescribe regulations to avoid repeating each time specific authority of the Secretary to carry out certain provisions of law.
+Subsection (b)(1) is included as a general statement of the authority of the Secretary of the Treasury toprescribe regulations to avoid repeating each time specific authority of the Secretary to carry out certain provisions of law.
 
 In subsection (b)(2), the words “make such provisions” in 31:1001(note) are omitted as unnecessary. The words “or by any agency” are omitted and the words “duties and powers” are substituted for “function”, for consistency in the revised title and with other titles of the Code. The words “including any function transferred to the Secretary by the provisions of this reorganization plan” are omitted as executed.
 
@@ -235,6 +213,10 @@ In subsection (b)(6), the word “buy” is substituted for “make expenditures
 #### Amendments
 
 <b>2010</b>—Subsec. (a)(9). Pub. L. 111–203, §502(b), added par. (9).
+
+Subsec. (c). Pub. L. 111–203, §378(1)(A), inserted “and” at end of par. (1), substituted period for “; and” at end of par. (2), and struck out par. (3) which read as follows: “of the Director of the Office of Thrift Supervision;”.
+
+Subsec. (e). Pub. L. 111–203, §378(1)(B), struck out subsec. (e). Text read as follows: “The Secretary of the Treasury may not merge or consolidate the Office of Thrift Supervision, or any of the functions or responsibilities of the Office or the Director of such office, with the Office of the Comptroller of the Currency or the Comptroller of the Currency.”
 
 <b>1995</b>—Subsec. (b)(7). Pub. L. 104–66 added par. (7).
 
@@ -257,6 +239,4 @@ For assignment of certain emergency preparedness functions to Secretary of the T
 #### Use of Aircraft in Emergency Law Enforcement Support
 
 Pub. L. 104–52, title I, §107, Nov. 19, 1995, 109 Stat. 476, provided that: “The Secretary of the Treasury is authorized in fiscal year 1996 and hereafter, to use Treasury Department aircraft, with or without reimbursement, to assist bureaus within the Department of the Treasury or other Federal agencies, Departments or offices outside of the Department of the Treasury to provide emergency law enforcement support to protect human life, property, public health, or safety.”
-
-<i><sup>1</sup></i><i> So in original. The semicolon probably should be a period.</i>
 

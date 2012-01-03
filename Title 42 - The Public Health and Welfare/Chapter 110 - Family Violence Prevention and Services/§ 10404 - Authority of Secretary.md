@@ -28,7 +28,7 @@ The Secretary shall—
 
 &emsp;&emsp;(B) collecting and reporting data on the provision of family violence, domestic violence, and dating violence services, including assistance and programs supported by Federal funds made available under this chapter and by other governmental or nongovernmental sources of funds; and
 
-&emsp;&emsp;(C) coordinating family violence, domestic violence, and dating violence research efforts within the Department of Health and Human Services with relevant research administered or carried out by other Federal agencies and other researchers, including research on the provision of assistance foradult and youth victims of family violence, domestic violence, or dating violence; and
+&emsp;&emsp;(C) coordinating family violence, domestic violence, and dating violence research efforts within the Department of Health and Human Services with relevant research administered or carried out by other Federal agencies and other researchers, including research on the provision of assistance for adult and youth victims of family violence, domestic violence, or dating violence; and
 
 &emsp;(4) support the development and implementation of effective policies, protocols, and programs within the Department and at other Federal agencies that address the safety and support needs of adult and youth victims of family violence, domestic violence, or dating violence.
 
@@ -47,4 +47,8 @@ The CAPTA Reauthorization Act of 2010, referred to in subsec. (a)(4), is Pub. L.
 A prior section 10404, Pub. L. 98–457, title III, §305, Oct. 9, 1984, 98 Stat. 1760; Pub. L. 102–295, title III, §313, May 28, 1992, 106 Stat. 204; Pub. L. 108–36, title IV, §§402, 415(4), June 25, 2003, 117 Stat. 825, 830, related to Secretarial responsibilities, prior to the general amendment of this chapter by Pub. L. 111–320.
 
 A prior section 304 of Pub. L. 98–457 was classified to section 10403 of this title prior to the general amendment of this chapter by Pub. L. 111–320.
+
+#### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 

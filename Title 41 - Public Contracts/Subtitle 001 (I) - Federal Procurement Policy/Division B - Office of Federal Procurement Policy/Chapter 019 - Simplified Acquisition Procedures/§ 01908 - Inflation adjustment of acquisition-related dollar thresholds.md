@@ -148,3 +148,7 @@ In subsection (e)(1), the words “Secretary of Labor” are substituted for “
 
 The Trade Agreements Act of 1979, referred to in subsec. (b)(2)(C), is Pub. L. 96–39, July 26, 1979, 93 Stat. 144. Title III of the Act is classified generally to subchapter I (§2511 et seq.) of chapter 13 of Title 19, Customs Duties. For complete classification of this Act to the Code, see References in Text note set out under section 2501 of Title 19 and Tables.
 
+#### Adjustment for Inflation of Right-hand Drive Passenger Sedans
+
+Pub. L. 112–81, div. A, title VIII, §814(b), Dec. 31, 2011, 125 Stat. 1491, provided that: “The Department of Defense representative to the Federal Acquisition Regulatory Council established under section 1302 of title 41, United States Code, shall ensure that the threshold established in section 2253 of title 10, United States Code, for the acquisition of right-hand drive passenger sedans is included on the list of dollar thresholds that are subject to adjustment for inflation in accordance with the requirements of section 1908 of title 41, United States Code, and is adjusted pursuant to such provision, as appropriate.”
+

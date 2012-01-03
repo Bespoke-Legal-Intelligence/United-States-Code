@@ -64,7 +64,7 @@ The categories of institutions described in subsection (a) shall be the followin
 
 &emsp;An institution of higher education that does not provide a program of instruction for which it awards a bachelor's degree complies with the requirements of this paragraph if—
 
-&emsp;&emsp;(A) for a public institution of higher education, such institution's tuition is in thelowest quartile of institutions in the same category as described under subsection (b); or
+&emsp;&emsp;(A) for a public institution of higher education, such institution's tuition is in the lowest quartile of institutions in the same category as described under subsection (b); or
 
 &emsp;&emsp;(B) for any institution of higher education, such institution guarantees that for any academic year (or the equivalent) beginning on or after July 1, 2009, and for each of the 1.5 succeeding continuous academic years, the tuition and fees charged to an undergraduate student will not exceed—
 

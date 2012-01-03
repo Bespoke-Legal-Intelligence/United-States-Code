@@ -500,23 +500,19 @@ Membership.—The senior interagency group shall be chaired by the Special Couns
 
 &emsp;&emsp;“(B) the Department of the Treasury;
 
-&emsp;&emsp;“(C) the Office of Thrift Supervision;
+&emsp;&emsp;“(C) the Federal Deposit Insurance Corporation;
 
-&emsp;&emsp;“(D) the Resolution Trust Corporation;
+&emsp;&emsp;“(D) the Office of the Comptroller of the Currency;
 
-&emsp;&emsp;“(E) the Federal Deposit Insurance Corporation;
+&emsp;&emsp;“(E) the Board of Governors of the Federal Reserve System; and
 
-&emsp;&emsp;“(F) the Office of the Comptroller of the Currency;
-
-&emsp;&emsp;“(G) the Board of Governors of the Federal Reserve System; and
-
-&emsp;&emsp;“(H) the National Credit Union Administration.
+&emsp;&emsp;“(F) the National Credit Union Administration.
 
 &emsp;“(3)
 
 Duties.—This senior interagency group shall enhance interagency coordination and assist in accelerating the investigations and prosecution of financial institutions fraud.”
 
-\[Pub. L. 111–203, title III, §§351, 359(1), July 21, 2010, 124 Stat. 1546, 1548, provided that, effective on the transfer date, section 2539(c)(2) of Pub. L. 101–647, set out above, is amended by striking subparagraphs (C) and (D) and by redesignating subparagraphs (E) through (H) as subparagraphs (C) through (G), respectively. See Effective Date of 2010 Amendment note set out under section 906 of Title 2, The Congress.\]
+\[Pub. L. 111–203, title III, §§351, 359(1), July 21, 2010, 124 Stat. 1546, 1548, which provided that, effective on the transfer date (see section 5411 of Title 12, Banks and Banking), section 2539(c)(2) of Pub. L. 101–647, set out above, is amended by striking out subpars. (C) and (D) and redesignating subpars. (E) to (H) as “(C) through (G), respectively”, was executed by redesignating subpars. (E) to (H) as (C) to (F), respectively, and striking out former subpars. (C) and (D), to reflect the probable intent of Congress.\]
 
 #### Authorization of Appropriations for Humanitarian Expenses Incurred by Federal Bureau of Investigation and Drug Enforcement Administration
 

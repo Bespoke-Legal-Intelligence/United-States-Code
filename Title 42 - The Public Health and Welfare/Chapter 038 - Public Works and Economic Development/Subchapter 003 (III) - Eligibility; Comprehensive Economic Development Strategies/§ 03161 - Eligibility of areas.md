@@ -42,7 +42,7 @@ For the effective date of the Economic Development Administration Reform Act of 
 
 #### Prior Provisions
 
-A prior section 3161, Pub. L. 89–136, title IV, §401, Aug. 26, 1965, 79 Stat. 560; Pub. L. 89–794, title XI, §1102, Nov. 8, 1966, 80 Stat. 1477; Pub. L. 91–123, title III, §304, Nov. 25, 1969, 83 Stat. 219; Pub. L. 92–65, title I, §106, Aug. 5,1971, 85 Stat. 167; Pub. L. 93–423, §§3(a), 6, Sept. 27, 1974, 88 Stat. 1158, 1161; Pub. L. 94–487, title I, §§113, 114, Oct. 12, 1976, 90 Stat. 2334, set forth criteria for determining eligible redevelopment areas, prior to repeal by Pub. L. 105–393, §102(a).
+A prior section 3161, Pub. L. 89–136, title IV, §401, Aug. 26, 1965, 79 Stat. 560; Pub. L. 89–794, title XI, §1102, Nov. 8, 1966, 80 Stat. 1477; Pub. L. 91–123, title III, §304, Nov. 25, 1969, 83 Stat. 219; Pub. L. 92–65, title I, §106, Aug. 5, 1971, 85 Stat. 167; Pub. L. 93–423, §§3(a), 6, Sept. 27, 1974, 88 Stat. 1158, 1161; Pub. L. 94–487, title I, §§113, 114, Oct. 12, 1976, 90 Stat. 2334, set forth criteria for determining eligible redevelopment areas, prior to repeal by Pub. L. 105–393, §102(a).
 
 A prior section 301 of Pub. L. 89–136 was classified to section 3151 of this title prior to repeal by Pub. L. 105–393, §102(a).
 

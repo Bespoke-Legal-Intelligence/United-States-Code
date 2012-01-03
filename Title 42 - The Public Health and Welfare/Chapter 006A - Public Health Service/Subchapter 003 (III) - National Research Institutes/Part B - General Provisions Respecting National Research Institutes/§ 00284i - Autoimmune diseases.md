@@ -28,7 +28,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;With respect to autoimmune diseases, the Chair of the Committee shall serve as the principal advisor to the Secretary, the Assistant Secretary for Health, and the Director of NIH, and shall provide advice to the Director of the Centers for Disease Control and Prevention, the Commissioner of Food and Drugs, and other relevant agencies.
+&emsp;&emsp;With respect to autoimmune diseases, the Chair of the Committee shall serve as theprincipal advisor to the Secretary, the Assistant Secretary for Health, and the Director of NIH, and shall provide advice to the Director of the Centers for Disease Control and Prevention, the Commissioner of Food and Drugs, and other relevant agencies.
 
 #### (B) Director of NIH
 
@@ -38,7 +38,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 1 year after October 17, 2000, the Coordinating Committee shall develop a plan for conducting and supporting research and education on autoimmune diseasesthrough the national research institutes and shall periodically review and revise the plan. The plan shall—
+&emsp;Not later than 1 year after October 17, 2000, the Coordinating Committee shall develop a plan for conducting and supporting research and education on autoimmune diseases through the national research institutes and shall periodically review and revise the plan. The plan shall—
 
 &emsp;&emsp;(A) provide for a broad range of research and education activities relating to biomedical, psychosocial, and rehabilitative issues, including studies of the disproportionate impact of such diseases on women;
 

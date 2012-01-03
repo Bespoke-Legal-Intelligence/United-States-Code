@@ -6,5 +6,5 @@ The Secretary may, by regulation, exempt from compliance with the provisions of 
 
 #### Amendments
 
-1961—Pub. L. 87–105 added cl. (1) and designated existing provisions as cl. (2).
+<b>1961</b>—Pub. L. 87–105 added cl. (1) and designated existing provisions as cl. (2).
 

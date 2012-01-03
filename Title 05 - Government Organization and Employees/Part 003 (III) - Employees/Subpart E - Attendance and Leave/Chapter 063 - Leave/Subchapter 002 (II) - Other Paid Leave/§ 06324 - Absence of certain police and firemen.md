@@ -36,15 +36,15 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-2010—Subsec. (a). Pub. L. 111–282, §2(c)(1), substituted “United States Secret Service Uniformed Division” for “Executive Protective Service force”.
+<b>2010</b>—Subsec. (a). Pub. L. 111–282, §2(c)(1), substituted “United States Secret Service Uniformed Division” for “Executive Protective Service force”.
 
 Subsec. (b)(3). Pub. L. 111–282, §2(c)(2), substituted “Homeland Security for the United States Secret Service Uniformed Division” for “the Treasury for the Executive Protective Service force”.
 
 Subsec. (c). Pub. L. 111–282, §2(c)(3), added subsec. (c).
 
-1975—Subsecs. (a), (b)(3). Pub. L. 94–183 substituted “Executive Protective Service” for “White House Police”.
+<b>1975</b>—Subsecs. (a), (b)(3). Pub. L. 94–183 substituted “Executive Protective Service” for “White House Police”.
 
-1968—Subsec. (b)(1). Pub. L. 90–623 substituted “District of Columbia Council” for “Commissioners of the District of Columbia”.
+<b>1968</b>—Subsec. (b)(1). Pub. L. 90–623 substituted “District of Columbia Council” for “Commissioners of the District of Columbia”.
 
 #### Effective Date of 2010 Amendment
 

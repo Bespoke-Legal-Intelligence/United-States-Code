@@ -54,7 +54,7 @@ Nothing in this section shall be construed to authorize any refunding of any rep
 
 #### (f) List
 
-If the list of schools in which a teacher may perform service pursuant to subsection (b) of this section is not available before May 1 of anyyear, the Secretary may use the list for the year preceding the year for which the determination is made to make such service determination.
+If the list of schools in which a teacher may perform service pursuant to subsection (b) of this section is not available before May 1 of any year, the Secretary may use the list for the year preceding the year for which the determination is made to make such service determination.
 
 #### (g) Additional eligibility provisions
 
@@ -86,7 +86,7 @@ If the list of schools in which a teacher may perform service pursuant to subsec
 
 For purposes of this section, the term “year”, where applied to service as a teacher, means an academic year as defined by the Secretary.
 
-(Pub. L. 89–329, title IV, §428J, as added Pub. L. 102–325, title IV, §422, July 23, 1992, 106 Stat. 541; amended Pub. L. 103–82, title I, §102(c)(2), Sept. 21, 1993, 107 Stat. 824; Pub. L. 103–208, §2(c)(47)–(51), Dec. 20, 1993, 107 Stat. 2467; Pub. L. 105–244, title IV, §424, Oct. 7, 1998, 112 Stat. 1698; Pub. L. 108–409, §3(a)(1)(A), (b)(1), Oct. 30, 2004, 118 Stat. 2300; Pub. L. 109–171, title VIII, §8013(e)(1), Feb. 8, 2006, 120 Stat. 167; Pub. L. 110–315, title IV, §429, Aug. 14, 2008, 122 Stat. 3236; Pub. L. 111–39, title IV, §402(f)(6), July 1, 2009, 123 Stat. 1944.)
+(Pub. L. 89–329, title IV, §428J, as added Pub. L. 102–325, title IV, §422, July 23, 1992, 106 Stat. 541;amended Pub. L. 103–82, title I, §102(c)(2), Sept. 21, 1993, 107 Stat. 824; Pub. L. 103–208, §2(c)(47)–(51), Dec. 20, 1993, 107 Stat. 2467; Pub. L. 105–244, title IV, §424, Oct. 7, 1998, 112 Stat. 1698; Pub. L. 108–409, §3(a)(1)(A), (b)(1), Oct. 30, 2004, 118 Stat. 2300; Pub. L. 109–171, title VIII, §8013(e)(1), Feb. 8, 2006, 120 Stat. 167; Pub. L. 110–315, title IV, §429, Aug. 14, 2008, 122 Stat. 3236; Pub. L. 111–39, title IV, §402(f)(6), July 1, 2009, 123 Stat. 1944.)
 
 #### References in Text
 
@@ -134,7 +134,7 @@ Subsec. (c)(5). Pub. L. 103–82, §102(c)(2)(B), added par. (5).
 
 Subsec. (d). Pub. L. 103–208, §2(c)(50), substituted “to eligible” for “of eligibility” in heading.
 
-Subsec. (e). Pub. L. 103–208, §2(c)(51), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Each eligible individual desiring loan repayment under this section shall submit an application tothe Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require.”
+Subsec. (e). Pub. L. 103–208, §2(c)(51), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Each eligible individual desiring loan repayment under this section shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require.”
 
 #### Effective Date of 2009 Amendment
 

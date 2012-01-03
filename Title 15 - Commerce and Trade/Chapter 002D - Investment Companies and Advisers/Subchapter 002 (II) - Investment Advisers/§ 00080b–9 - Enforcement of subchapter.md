@@ -64,7 +64,7 @@ Whenever it shall appear to the Commission that any person has engaged, is engag
 
 #### (f) Aiding and abetting
 
-For purposes of any action brought by the Commission under subsection (e), any person that knowingly or recklessly has aided, abetted, counseled, commanded, induced, or procured a violation of any provision of this chapter, or of any rule, regulation, or order hereunder, shall be deemed to be in violation of such provision, rule, regulation, or order to the same extent as the person that committed such violation.
+For purposes of any action brought by the Commission under subsection (e), any person that knowingly or recklessly has aided, abetted, counseled, commanded, induced, or procured a violation of any provision of this subchapter, or of any rule, regulation, or order hereunder, shall be deemed to be in violation of such provision, rule, regulation, or order to the same extent as the person that committed such violation.
 
 (Aug. 22, 1940, ch. 686, title II, §209, 54 Stat. 853; Pub. L. 86–750, §12, Sept. 13, 1960, 74 Stat. 887; Pub. L. 91–452, title II, §216, Oct. 15, 1970, 84 Stat. 929; Pub. L. 100–181, title VII, §704, Dec. 4, 1987, 101 Stat. 1264; Pub. L. 101–429, title IV, §402, Oct. 15, 1990, 104 Stat. 949; Pub. L. 107–204, title III, §308(d)(5), July 30, 2002, 116 Stat. 785; Pub. L. 111–203, title IX, §§923(a)(3), 929N, July 21, 2010, 124 Stat. 1849, 1862.)
 

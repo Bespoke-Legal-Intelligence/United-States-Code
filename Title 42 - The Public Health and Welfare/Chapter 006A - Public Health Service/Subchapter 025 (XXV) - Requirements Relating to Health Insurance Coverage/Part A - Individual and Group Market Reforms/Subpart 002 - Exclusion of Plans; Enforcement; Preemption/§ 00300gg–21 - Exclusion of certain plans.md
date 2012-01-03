@@ -50,7 +50,7 @@ The requirements of subparts 1 and 2 <sup>1</sup> shall not apply to any indivi
 
 #### (1) Limited, excepted benefits
 
-&emsp;The requirements of subparts 1 and 2 <sup>1</sup> shall not apply to any individual coverage or any group health plan (and group health insurancecoverage offered in connection with a group health plan) in relation to its provision of excepted benefits described in section 300gg–91(c)(2) of this title if the benefits—
+&emsp;The requirements of subparts 1 and 2 <sup>1</sup> shall not apply to any individual coverage or any group health plan (and group health insurance coverage offered in connection with a group health plan) in relation to its provision of excepted benefits described in section 300gg–91(c)(2) of this title if the benefits—
 
 &emsp;&emsp;(A) are provided under a separate policy, certificate, or contract of insurance; or
 
@@ -110,7 +110,7 @@ exclusion of plans; enforcement; preemption” (preceding section 300gg–21 of 
 
 Section 2701, referred to in subsec. (a)(2)(C)(ii), (D), is a reference to section 2701 of act July 1, 1944. Section 2701, which was classified to section 300gg of this title, was renumbered section 2704, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by Pub. L. 111–148, title I, §§1201(2), 1563(c)(1), formerly §1562(c)(1), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911, and was transferred to section 300gg–3 of this title. A new section 2701 of act July 1, 1944, related to fair health insurance premiums, was added, effective for plan years beginning on or after Jan. 1, 2014, and amended, by Pub. L. 111–148, title I, §1201(4), title X, §10103(a), Mar. 23, 2010, 124 Stat. 155, 892, and is classified to section 300gg of this title.
 
-Section 2702, referred to in subsec. (a)(2)(D), is a reference to section 2702 of act July 1, 1944. Section 2702, which was classified to section 300gg–1 of this title, was amended by Pub. L. 111–148, title I, §1201(3), Mar. 23, 2010, 124 Stat. 154, and was transferred to subsecs. (d) to (f) of section 300gg–4 of this title, effective for plan years beginning on or after Jan. 1, 2014. A new section 2702 of act July 1, 1944, related to guaranteed availability of coverage, was added by Pub. L. 111–148, title I, §1201(4), Mar. 23, 2010, 124 Stat. 156, effective for plan years beginning on or after Jan. 1, 2014, and is classified to section 300gg–1 of this title.
+Section 2702, referred to in subsec. (a)(2)(D), is a reference to section 2702 of act July 1, 1944. Section 2702, which was classified to section 300gg–1 of this title, was amended by Pub. L. 111–148, title I, §1201(3), Mar. 23, 2010, 124 Stat. 154, and was transferred to subsecs. (b) to (f) of section 300gg–4 of this title, effective for plan years beginning on or after Jan. 1, 2014. A new section 2702 of act July 1, 1944, related to guaranteed availability of coverage, was added by Pub. L. 111–148, title I, §1201(4), Mar. 23, 2010, 124 Stat. 156, effective for plan years beginning on or after Jan. 1, 2014, and is classified to section 300gg–1 of this title.
 
 Section 300gg–91(c)(4) of this title, referred to in subsec. (c)(3), was in the original “section 27971(c)(4)” and was translated as reading “section 2791(c)(4)”, meaning section 2791(c)(4) of act July 1, 1944, as added by Pub. L. 104–191, §102(a), to reflect the probable intent of Congress. Act July 1, 1944, does not contain a section 27971.
 
@@ -120,7 +120,7 @@ A prior section 2722 of act July 1, 1944, was renumbered section 2723 and is cla
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–148, §1563(c)(12)(B), formerly §1562(c)(12)(B), as renumbered by Pub. L. 111–148,§10107(b)(1), which directed amendment of section by substituting “subpart 1” for “subparts 1 through 3” wherever appearing, could not be executed because the words “subparts 1 through 3” did not appear subsequent to amendments by section 1563(a)(2)(A), (B)(ii), (3), (4)(A), (B)(i) of Pub. L. 111–148. See below.
+<b>2010</b>—Pub. L. 111–148, §1563(c)(12)(B), formerly §1562(c)(12)(B), as renumbered by Pub. L. 111–148, §10107(b)(1), which directed amendment of section by substituting “subpart 1” for “subparts 1 through 3” wherever appearing, could not be executed because the words “subparts 1 through 3” did not appear subsequent to amendments by section 1563(a)(2)(A), (B)(ii), (3), (4)(A), (B)(i) of Pub. L. 111–148. See below.
 
 Subsec. (a). Pub. L. 111–148, §1563(c)(12)(C), formerly §1562(c)(12)(C), as renumbered by Pub. L. 111–148, §10107(b)(1), redesignated subsec. (b) as (a).
 
@@ -146,7 +146,7 @@ Subsec. (d). Pub. L. 111–148, §1563(c)(12)(C), formerly §1562(c)(12)(C), as 
 
 Pub. L. 111–148, §1563(a)(4)(A), formerly §1562(a)(4)(A), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted “subparts 1 and 2 shall not apply to any individual coverage or any group” for “subparts 1 through 3 shall not apply to any group” in introductory provisions.
 
-Pub. L. 111–148, §1563(a)(4)(B)(i), formerly §1562(a)(4)(B)(i), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted “subparts 1 and 2 shall not apply to any individual coverage or any group” for “subparts 1 through 3 shall not apply to any group” in introductory provisions.
+Pub. L. 111–148, §1563(a)(4)(B)(i), formerly §1562(a)(4)(B)(i), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted “subparts 1 and 2 shall notapply to any individual coverage or any group” for “subparts 1 through 3 shall not apply to any group” in introductory provisions.
 
 Subsec. (d)(2)(C). Pub. L. 111–148, §1563(a)(4)(B)(ii), formerly §1562(a)(4)(B)(ii), as renumbered by Pub. L. 111–148, §10107(b)(1), which directed amendment of subpar. (C) by inserting “or, with respect to individual coverage, under any health insurance coverage maintained by the same health insurance issuer” without language specifying placement, was executed by making the insertion before period at end to reflect the probable intent of Congress.
 

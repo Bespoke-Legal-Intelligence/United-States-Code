@@ -26,7 +26,7 @@ Penalty.—
 
 &emsp;(1)
 
-In general.—On October 1, 2003, and October 1 of each fiscal year thereafter, if aState has not enacted or is not enforcing a law described in subsection (a), the Secretary shall withhold from amounts apportioned to the State on that date under each of paragraphs (1), (3), and (4) of section 104(b) an amount equal to the amount specified in paragraph (2).
+In general.—On October 1, 2003, and October 1 of each fiscal year thereafter, if a State has not enacted or is not enforcing a law described in subsection (a), the Secretary shall withhold from amounts apportioned to the State on that date under each of paragraphs (1), (3), and (4) of section 104(b) an amount equal to the amount specified in paragraph (2).
 
 &emsp;(2)
 

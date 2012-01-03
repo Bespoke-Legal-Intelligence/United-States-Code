@@ -10,7 +10,7 @@ It is unlawful—
 
 &emsp;&emsp;(C) to violate any provision of, or regulation under, an applicable governing international fishery agreement entered into pursuant to section 1821(c) of this title;
 
-&emsp;&emsp;(D) to refuse to permit any officer authorized to enforce the provisions of this chapter (as provided for in section 1861 of this title) to board a fishing vessel subject to such person's control for purposes of conducting any search or inspection in connection with the enforcement of this chapter or any regulation, permit, or agreement referred to in subparagraph (A) or (C);
+&emsp;&emsp;(D) to refuse to permit any officer authorized to enforce the provisions of this chapter\(as provided for in section 1861 of this title) to board a fishing vessel subject to such person's control for purposes of conducting any search or inspection in connection with the enforcement of this chapter or any regulation, permit, or agreement referred to in subparagraph (A) or (C);
 
 &emsp;&emsp;(E) to forcibly assault, resist, oppose, impede, intimidate, or interfere with any such authorized officer in the conduct of any search or inspection described in subparagraph (D);
 
@@ -174,7 +174,7 @@ Amendment by Pub. L. 97–191 effective June 1, 1982, see section 3 of Pub. L. 9
 
 #### Effective Date
 
-Section 312 of Pub. L. 94–265, provided that this section and sections 1858 to 1861 of this title were to takeeffect Mar. 1, 1977, prior to the general amendment of section 312 by Pub. L. 104–297, title I, §116(a), Oct. 11, 1996, 110 Stat. 3600. See section 1861a of this title.
+Section 312 of Pub. L. 94–265, provided that this section and sections 1858 to 1861 of this title were to take effect Mar. 1, 1977, prior to the general amendment of section 312 by Pub. L. 104–297, title I, §116(a), Oct. 11, 1996, 110 Stat. 3600. See section 1861a of this title.
 
 #### Savings Clause
 

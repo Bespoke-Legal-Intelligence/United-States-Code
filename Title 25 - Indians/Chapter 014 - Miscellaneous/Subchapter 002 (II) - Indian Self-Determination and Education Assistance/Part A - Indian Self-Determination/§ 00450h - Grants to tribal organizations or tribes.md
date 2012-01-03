@@ -54,7 +54,7 @@ A prior section 103 of Pub. L. 93–638 was classified to section 450g of this t
 
 <b>1990</b>—Subsec. (a)(3). Pub. L. 101–644, which directed the substitution of “Indian country (as defined in chapter 53 of title 18)” for “reservation boundaries” in “section 301(a)(3) of the Indian Self-Determination Act (25 U.S.C. 450h(a)(3))”, was executed to this section, section 103(a)(3) of that Act, to reflect the probable intent of Congress.
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–472, §202(b), inserted “or” at end of par. (2), substituted a period for “; or” at end of par. (3), and struck out par. (4) which read asfollows: “the planning, designing, monitoring, and evaluating of Federal programs serving the tribe.”
+<b>1988</b>—Subsec. (a). Pub. L. 100–472, §202(b), inserted “or” at end of par. (2), substituted a period for “; or” at end of par. (3), and struck out par. (4) which read as follows: “the planning, designing, monitoring, and evaluating of Federal programs serving the tribe.”
 
 Subsec. (b). Pub. L. 100–472, §202(c), substituted “Health and Human Services” for “Health, Education, and Welfare”.
 

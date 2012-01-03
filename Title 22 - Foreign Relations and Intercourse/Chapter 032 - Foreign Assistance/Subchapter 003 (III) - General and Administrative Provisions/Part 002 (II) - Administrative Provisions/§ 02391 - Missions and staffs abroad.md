@@ -36,7 +36,7 @@ References to subchapter I of this chapter are deemed to include parts IV (§234
 
 Subsec. (c). Pub. L. 96–465, §2203(d), among other changes, substituted references to the Foreign Service Act of 1980, for references to the Foreign Service Act of 1946, and inserted provisions relating to employee status for purposes of chapters 81, 83, 87 and 89 of title 5.
 
-<b>1977</b>—Subsec. (d). Pub. L. 95–92 substituted reference to subchapter I of this chapter for reference to thischapter and struck out provisions requiring administration of assistance by the senior military officer of the mission for assistance under subchapter II of this chapter.
+<b>1977</b>—Subsec. (d). Pub. L. 95–92 substituted reference to subchapter I of this chapter for reference to this chapter and struck out provisions requiring administration of assistance by the senior military officer of the mission for assistance under subchapter II of this chapter.
 
 <b>1965</b>—Subsec. (d). Pub. L. 89–171 added subsec. (d).
 

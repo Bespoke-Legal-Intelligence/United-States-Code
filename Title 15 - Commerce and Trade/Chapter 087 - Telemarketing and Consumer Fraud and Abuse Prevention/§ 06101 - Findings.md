@@ -40,7 +40,7 @@ Pub. L. 106–534, §2, Nov. 22, 2000, 114 Stat. 2555, provided that: “Congres
 
 &emsp;“(5) Congress should continue to support TRIAD and similar community partnerships that improve the safety and quality of life for millions of senior citizens.
 
-&emsp;“(6) There are few other community-based efforts that forge partnerships to coordinate criminal justiceand social service resources to improve the safety and security of the elderly.
+&emsp;“(6) There are few other community-based efforts that forge partnerships to coordinate criminal justice and social service resources to improve the safety and security of the elderly.
 
 &emsp;“(7) According to the National Consumers League, telemarketing fraud costs consumers nearly $40,000,000,000 each year.
 

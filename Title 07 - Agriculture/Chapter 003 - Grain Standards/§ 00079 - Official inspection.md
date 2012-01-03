@@ -80,7 +80,7 @@ Geographic boundaries for official agencies.—Not more than one official agency
 
 (2) A designation of an official agency may be amended at any time upon application by the official agency if the Secretary determines that the amendment will be consistent with the provisions and objectives of this chapter; and a designation will be cancelled upon request by the official agency with ninety days written notice to the Secretary. A fee as prescribed by regulations of the Secretary shall be paid by the official agency to the Secretary for each such amendment, to cover the costs incurred by the Secretary in connection therewith, and it shall be deposited in the fund created in subsection (j) of this section.
 
-(3) The Secretary may revoke a designation of an official agency whenever, after opportunity for hearing is afforded the agency, the Secretary determines that the agency has failed to meet one or more of the criteria specified in subsection (f) of this section or the regulations under this chapter for the performance of official functions, or otherwise has not complied with any provision of this chapter or any regulation prescribed or instruction issued to such agency under this chapter, or has been convicted of any violation of other Federal law involving the handling or official inspection of grain: <i>Provided</i>, That the Secretary may, without first affording the official agency an opportunity for a hearing, suspend any designation pending final determination of the proceeding whenever the Secretary has reason to believe there is causefor revocation of the designation and considers such action to be in the best interest of the official inspection system under this chapter. The Secretary shall afford any such agency an opportunity for a hearing within thirty days after temporarily suspending such designation.
+(3) The Secretary may revoke a designation of an official agency whenever, after opportunity for hearing is afforded the agency, the Secretary determines that the agency has failed to meet one or more of the criteria specified in subsection (f) of this section or the regulations under this chapter for the performance of official functions, or otherwise has not complied with any provision of this chapter or any regulation prescribed or instruction issued to such agency under this chapter, or has been convicted of any violation of other Federal law involving the handling or official inspection of grain: <i>Provided</i>, That the Secretary may, without first affording the official agency an opportunity for a hearing, suspend any designation pending final determination of the proceeding whenever the Secretary has reason to believe there is cause for revocation of the designation and considers such action to be in the best interest of the official inspection system under this chapter. The Secretary shall afford any such agency an opportunity for a hearing within thirty days after temporarily suspending such designation.
 
 #### (h) Official inspections at locations other than export port locations when designated official agencies are not available
 
@@ -88,7 +88,7 @@ If the Secretary determines that official inspection by an official agency desig
 
 #### (i) Official inspections in Canadian ports
 
-The Secretary is authorized to cause official inspection under this chapter to be made, as provided in subsection (a) of section 77 of this title, in Canadian ports of United States export grain transshipped through Canadian ports, and pursuant thereto the Secretary is authorized to enter into an agreement with the Canadian Government for such inspection. All or specified functions of such inspections shall be performed by official inspection personnel employed by the Secretary or, except for appeals, by persons operating under a contract with the Secretary or as otherwise provided by agreement with the Canadian Government.
+The Secretary is authorized to cause official inspection under this chapter to be made, asprovided in subsection (a) of section 77 of this title, in Canadian ports of United States export grain transshipped through Canadian ports, and pursuant thereto the Secretary is authorized to enter into an agreement with the Canadian Government for such inspection. All or specified functions of such inspections shall be performed by official inspection personnel employed by the Secretary or, except for appeals, by persons operating under a contract with the Secretary or as otherwise provided by agreement with the Canadian Government.
 
 #### (j) Fees; establishment, amount, payment, etc.
 
@@ -110,17 +110,17 @@ In subsec. (c), “chapters 1 to 11 of title 40 and division C (except sections 
 
 #### Amendments
 
-2005—Subsec. (j)(4). Pub. L. 109–83 substituted “2015” for “2005”.
+<b>2005</b>—Subsec. (j)(4). Pub. L. 109–83 substituted “2015” for “2005”.
 
-2004—Subsec. (e)(3). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (e)(3). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-2000—Subsec. (f)(2). Pub. L. 106–472, §102(a), added heading and text of par. (2) and struck out former par. (2) which read as follows: “Not more than one official agency or State delegated authority pursuant to subsection (e)(2) of this section for carrying out the inspection provisions of this chapter shall be operative at one time for any geographic area as determined by the Secretary to effectuate the objectives stated in section 74 of this title, except that the Secretary may conduct pilot programs to allow more than 1 official agency to carry out inspections within a single geographical area without undermining the policy stated in section 74 of this title.”
+<b>2000</b>—Subsec. (f)(2). Pub. L. 106–472, §102(a), added heading and text of par. (2) and struck out former par. (2) which read as follows: “Not more than one official agency or State delegated authority pursuant to subsection (e)(2) of this section for carrying out the inspection provisions of this chapter shall be operative at one time for any geographic area as determined by the Secretary to effectuate the objectives stated in section 74 of this title, except that the Secretary may conduct pilot programs to allow more than 1 official agency to carry out inspections within a single geographical area without undermining the policy stated in section 74 of this title.”
 
 Subsec. (j)(4). Pub. L. 106–472, §103(a), substituted “2005” for “2000” in first sentence.
 
-1994—Pub. L. 103–354 substituted “supervision by the Secretary of the Secretary's field office personnel” for “supervision of Service personnel of its field office personnel” in first sentence of subsec. (j)(2) and substituted “Secretary” for “Administrator” and “Service” wherever appearing.
+<b>1994</b>—Pub. L. 103–354 substituted “supervision by the Secretary of the Secretary's field office personnel” for “supervision of Service personnel of its field office personnel” in first sentence of subsec. (j)(2) and substituted “Secretary” for “Administrator” and “Service” wherever appearing.
 
-1993—Pub. L. 103–156, §12(d), which directed amendment of “Section 7”, without specifying the name of the Act being amended, was executed to this section, which is section 7 of the United States Grain Standards Act, to reflect the probable intent of Congress.
+<b>1993</b>—Pub. L. 103–156, §12(d), which directed amendment of “Section 7”, without specifying the name of the Act being amended, was executed to this section, which is section 7 of the United States Grain Standards Act, to reflect the probable intent of Congress.
 
 Subsec. (a). Pub. L. 103–156, §12(d)(1), substituted “regulations as the Administrator” for “regulations as he”.
 
@@ -136,15 +136,15 @@ Subsec. (i). Pub. L. 103–156, §4(a)(2), inserted before period at end “or a
 
 Subsec. (j)(4). Pub. L. 103–156, §14(a), added par. (4).
 
-1988—Subsec. (j). Pub. L. 100–518 reenacted subsec. (j) without change.
+<b>1988</b>—Subsec. (j). Pub. L. 100–518 reenacted subsec. (j) without change.
 
-1984—Subsec. (j)(3). Pub. L. 98–469 temporarily added par. (3). See Effective and Termination Dates of 1984 Amendment note below.
+<b>1984</b>—Subsec. (j)(3). Pub. L. 98–469 temporarily added par. (3). See Effective and Termination Dates of 1984 Amendment note below.
 
-1981—Subsec. (e)(2). Pub. L. 97–98 inserted provision authorizing the Administrator to delegate authority to perform grain inspection functions at export port locations to any State agency that performed official inspection at an export port location at any time prior to July 1, 1976, was designated under subsec. (f) of this section on Dec. 22, 1981, to perform inspections at locations other than export port locations, and operates in a State from which the total annual exports of grain do not exceed 5 per centum of the total amount of grain exported from the United States.
+<b>1981</b>—Subsec. (e)(2). Pub. L. 97–98 inserted provision authorizing the Administrator to delegate authority to perform grain inspection functions at export port locations to any State agency that performed official inspection at an export port location at any time prior to July 1, 1976, was designated under subsec. (f) of this section on Dec. 22, 1981, to perform inspections at locations other than export port locations, and operates in a State from which the total annual exports of grain do not exceed 5 per centum of the total amount of grain exported from the United States.
 
 Subsec. (j). Pub. L. 97–35 temporarily designated existing provisions as par. (1), made changes in nomenclature and provided for inclusion, rather than exclusion, of administrative and supervisory costs, and added par. (2). See Effective and Termination Dates of 1981 Amendments note below.
 
-1977—Subsec. (b). Pub. L. 95–113, §1606(d), struck out reference to a determination of the quantity of sacks of grain.
+<b>1977</b>—Subsec. (b). Pub. L. 95–113, §1606(d), struck out reference to a determination of the quantity of sacks of grain.
 
 Subsec. (e). Pub. L. 95–113, §1604(d)(1), designated as par. (4) provisions, formerly forming a part of par. (2), authorizing the Administrator to provide that grain loaded at an interior point in the United States into a rail car, barge, or other container as the final carrier in which it is to be transported from the United States be inspected in the manner provided in this subsection or subsec. (f) of this section, as the Administrator determines best meets the objectives of this chapter.
 
@@ -160,7 +160,7 @@ Subsec. (i). Pub. L. 95–113, §1604(d)(4), inserted provision that all or spec
 
 Subsec. (j). Pub. L. 95–113, §1602(a), revised provisions relating to fees so as to remove requirement that field supervision of inspection be supported by fees.
 
-1976—Subsec. (a). Pub. L. 94–582, §8(1), formerly §8(a)(1), as renumbered by Pub. L. 106–472, §110(a)(1), substituted “Administrator” for “Secretary”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–582, §8(1), formerly §8(a)(1), as renumbered by Pub. L. 106–472, §110(a)(1), substituted “Administrator” for “Secretary”.
 
 Subsec. (b). Pub. L. 94–582, §8(1), (2), formerly §8(a)(1), (2), as renumbered by Pub. L. 106–472, §110(a)(1), substituted “Administrator” for “Secretary” in two places and struck out from first sentence “or with respect to United States grain in Canadian ports” after “within the United States”.
 
@@ -168,13 +168,13 @@ Subsec. (c). Pub. L. 94–582, §8(1), (3), formerly §8(a)(1), (3), as renumber
 
 Subsec. (d). Pub. L. 94–582, §8(4), formerly §8(a)(4), as renumbered by Pub. L. 106–472, §110(a)(1), substituted “Official certificates setting out the results of official inspection” for “Certificates”.
 
-Subsec. (e). Pub. L. 94–582, §8(5), formerly §8(a)(5), as renumbered by Pub. L. 106–472, §110(a)(1), added subsec. (e) and struck out former subsec. (e) which authorized charging and collection of reasonable fees to cover cost of official inspection and to cover costs of Department of Agriculture incident to performance of appeal andCanadian port inspection services for which fees are collected, including supervisory and administrative costs, and for deposit of fees and proceeds from sale of samples obtained for purposes of official inspection which become property of the United States into a fund to be available without fiscal year limitation for expenses of the Department of Agriculture incident to providing official inspection services. Fee provisions are now covered in subsec. (j)(2) of this section.
+Subsec. (e). Pub. L. 94–582, §8(5), formerly §8(a)(5), as renumbered by Pub. L. 106–472, §110(a)(1), added subsec. (e) and struck out former subsec. (e) which authorized charging and collection of reasonable fees to cover cost of official inspection and to cover costs of Department of Agriculture incident to performance of appeal and Canadian port inspection services for which fees are collected, including supervisory and administrative costs, and for deposit of fees and proceeds from sale of samples obtained for purposes of official inspection which become property of the United States into a fund to be available without fiscal year limitation for expenses of the Department of Agriculture incident to providing official inspection services. Fee provisions are now covered in subsec. (j)(2) of this section.
 
 Subsec. (f). Pub. L. 94–582, §8(5), formerly §8(a)(5), as renumbered by Pub. L. 106–472, §110(a)(1), added par. (1) and second and third sentences of par. (2), and designated existing provisions as par. (2), substituting “one official agency for carrying out the provisions of this chapter shall be operative at one time for any geographic area as determined by the Administrator to effectuate the objectives stated in section 74 of this title” for “one inspection agency for carrying out the provisions of this section shall be operative at one time for any one city, town, or other area”.
 
 Subsecs. (g) to (j). Pub. L. 94–582, §8(5), formerly §8(a)(5), as renumbered by Pub. L. 106–472, §110(a)(1), added subsecs. (g) to (j).
 
-1968—Pub. L. 90–487 substituted provisions covering the authority and funding of official inspections for provisions covering the licensing of inspectors and the utilization by the Secretary of Agriculture of State inspectors.
+<b>1968</b>—Pub. L. 90–487 substituted provisions covering the authority and funding of official inspections for provisions covering the licensing of inspectors and the utilization by the Secretary of Agriculture of State inspectors.
 
 #### Effective Date of 2005 Amendment
 
@@ -182,7 +182,7 @@ Pub. L. 109–83, §1(b), Sept. 30, 2005, 119 Stat. 2053, provided that: “The 
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–472, title I, §111, Nov. 9, 2000, 114 Stat. 2061, provided that: “The amendments made by sections 103, 105, 108, and 109 \[amending this section and sections 79a, 79d, 87h, and 87j of this title\] shall take effect as if enacted on September 30, 2000.”
+Pub. L. 106–472, title I, §111, Nov. 9, 2000, 114 Stat. 2061, provided that: “The amendments made by sections103, 105, 108, and 109 \[amending this section and sections 79a, 79d, 87h, and 87j of this title\] shall take effect as if enacted on September 30, 2000.”
 
 #### Effective and Termination Dates of 1988 Amendment
 

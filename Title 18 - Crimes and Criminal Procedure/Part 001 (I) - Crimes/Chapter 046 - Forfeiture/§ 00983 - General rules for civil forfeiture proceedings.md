@@ -14,7 +14,7 @@ Notice; Claim; Complaint.—
 
 &emsp;&emsp;(II) terminate the nonjudicial civil forfeiture proceeding, and take the steps necessary to preserve its right to maintain custody of the property as provided in the applicable criminal forfeiture statute.
 
-&emsp;(iv) In a case in which the property is seized by a State or local law enforcement agency and turned over to a Federal law enforcement agency for the purpose of forfeiture under Federal law, notice shall be sent not more than 90 days after the date of seizure by the State or local law enforcement agency.
+&emsp;(iv) In a case in which the property is seized by a State or local law enforcement agency and turned over to a Federal law enforcementagency for the purpose of forfeiture under Federal law, notice shall be sent not more than 90 days after the date of seizure by the State or local law enforcement agency.
 
 &emsp;(v) If the identity or interest of a party is not determined until after the seizure or turnover but is determined before a declaration of forfeiture is entered, notice shall be sent to such interested party not later than 60 days after the determination by the Government of the identity of the party or the party's interest.
 
@@ -72,7 +72,7 @@ Notice; Claim; Complaint.—
 
 &emsp;(D) No complaint may be dismissed on the ground that the Government did not have adequate evidence at the time the complaint was filed to establish the forfeitability of the property.
 
-&emsp;(4)(A) In any case in which the Government files in the appropriate United States district court a complaint for forfeiture of property, any person claiming an interest in the seized property may file a claim asserting such person's interest in the property in the manner set forth in the Supplemental Rules for Certain Admiralty and Maritime Claims, except that such claim may be filed not later than 30 days after the date of service of the Government's complaint or, as applicable, not later than 30 days after the date of final publication of notice of the filing of the complaint.
+&emsp;(4)(A) In any case in which the Government files in the appropriate United States district court a complaint for forfeiture of property, any person claiming an interest in the seized property may file a claim asserting such person's interest in the property in the manner set forth in the Supplemental Rules for Certain Admiralty and Maritime Claims, exceptthat such claim may be filed not later than 30 days after the date of service of the Government's complaint or, as applicable, not later than 30 days after the date of final publication of notice of the filing of the complaint.
 
 &emsp;(B) A person asserting an interest in seized property, in accordance with subparagraph (A), shall file an answer to the Government's complaint for forfeiture not later than 20 days after the date of the filing of the claim.
 
@@ -298,7 +298,7 @@ Restraining Orders; Protective Orders.—
 
 &emsp;&emsp;(A) upon the filing of a civil forfeiture complaint alleging that the property with respect to which the order is sought is subject to civil forfeiture; or
 
-&emsp;&emsp;(B) prior to the filing of such a complaint, if, after notice to persons appearing to have an interest in the property and opportunity for a hearing, the court determines that—
+&emsp;&emsp;(B) prior to the filing of such a complaint, if, after notice to persons appearing to havean interest in the property and opportunity for a hearing, the court determines that—
 
 &emsp;&emsp;&emsp;(i) there is a substantial probability that the United States will prevail on the issue of forfeiture and that failure to enter the order will result in the property being destroyed, removed from the jurisdiction of the court, or otherwise made unavailable for forfeiture; and
 
@@ -306,7 +306,7 @@ Restraining Orders; Protective Orders.—
 
 &emsp;(2) An order entered pursuant to paragraph (1)(B) shall be effective for not more than 90 days, unless extended by the court for good cause shown, or unless a complaint described in paragraph (1)(A) has been filed.
 
-&emsp;(3) A temporary restraining order under this subsection may be entered upon application of the United States without notice or opportunity for a hearing when a complaint has not yet been filed with respect to the property, ifthe United States demonstrates that there is probable cause to believe that the property with respect to which the order is sought is subject to civil forfeiture and that provision of notice will jeopardize the availability of the property for forfeiture. Such a temporary order shall expire not more than 14 days after the date on which it is entered, unless extended for good cause shown or unless the party against whom it is entered consents to an extension for a longer period. A hearing requested concerning an order entered under this paragraph shall be held at the earliest possible time and prior to the expiration of the temporary order.
+&emsp;(3) A temporary restraining order under this subsection may be entered upon application of the United States without notice or opportunity for a hearing when a complaint has not yet been filed with respect to the property, if the United States demonstrates that there is probable cause to believe that the property with respect to which the order is sought is subject to civil forfeiture and that provision of notice will jeopardize the availability of the property for forfeiture. Such a temporary order shall expire not more than 14 days after the date on which it is entered, unless extended for good cause shown or unless the party against whom it is entered consents to an extension for a longer period. A hearing requested concerning an order entered under this paragraph shall be held at the earliest possible time and prior to the expiration of the temporary order.
 
 &emsp;(4) The court may receive and consider, at a hearing held pursuant to this subsection, evidence and information that would be inadmissible under the Federal Rules of Evidence.
 

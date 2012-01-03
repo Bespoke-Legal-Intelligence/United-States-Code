@@ -3,6 +3,7 @@
 | Sec. |  |
 | :--- | ---: |
 | [9511\.](%C2%A7%2009511%20-%20Definitions.md) | Definitions. |
+| [9511a.](%C2%A7%2009511a%20-%20Civil%20Reserve%20Air%20Fleet%20contracts%20payment%20rate.md) | Civil Reserve Air Fleet contracts: payment rate. |
 | [9512\.](%C2%A7%2009512%20-%20Contracts%20for%20the%20inclusion%20or%20incorporation%20of%20defense%20features.md) | Contracts for the inclusion or incorporation of defense features. |
 | [9513\.](%C2%A7%2009513%20-%20Use%20of%20military%20installations%20by%20Civil%20Reserve%20Air%20Fleet%20contractors.md) | Use of military installations by Civil Reserve Air Fleet contractors. |
 | [9514\.](%C2%A7%2009514%20-%20Indemnification%20of%20Department%20of%20Transportation%20for%20losses%20covered%20by%20defense-related%20aviation%20insurance.md) | Indemnification of Department of Transportation for losses covered by defense-related aviation insurance. |
@@ -30,6 +31,8 @@ Prior section 9507, act Aug. 10, 1956, ch. 1041, 70A Stat. 575, related to sale 
 
 #### Amendments
 
+<b>2011</b>—Pub. L. 112–81, div. A, title III, §366(b), Dec. 31, 2011, 125 Stat. 1381, added item 9511a.
+
 <b>2009</b>—Pub. L. 111–84, div. A, title X, §1073(a)(32), Oct. 28, 2009, 123 Stat. 2474, transferred item 9515 from chapter 941 of this title to this chapter.
 
 <b>1996</b>—Pub. L. 104–201, div. A, title X, §1079(a)(2), Sept. 23, 1996, 110 Stat. 2669, added item 9514.
@@ -48,6 +51,7 @@ Prior section 9507, act Aug. 10, 1956, ch. 1041, 70A Stat. 575, related to sale 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 09511 - Definitions](%C2%A7%2009511%20-%20Definitions.md)
+- [&sect; 09511a - Civil Reserve Air Fleet contracts payment rate](%C2%A7%2009511a%20-%20Civil%20Reserve%20Air%20Fleet%20contracts%20payment%20rate.md)
 - [&sect; 09512 - Contracts for the inclusion or incorporation of defense features](%C2%A7%2009512%20-%20Contracts%20for%20the%20inclusion%20or%20incorporation%20of%20defense%20features.md)
 - [&sect; 09513 - Use of military installations by Civil Reserve Air Fleet contractors](%C2%A7%2009513%20-%20Use%20of%20military%20installations%20by%20Civil%20Reserve%20Air%20Fleet%20contractors.md)
 - [&sect; 09514 - Indemnification of Department of Transportation for losses covered by defense-related aviation insurance](%C2%A7%2009514%20-%20Indemnification%20of%20Department%20of%20Transportation%20for%20losses%20covered%20by%20defense-related%20aviation%20insurance.md)

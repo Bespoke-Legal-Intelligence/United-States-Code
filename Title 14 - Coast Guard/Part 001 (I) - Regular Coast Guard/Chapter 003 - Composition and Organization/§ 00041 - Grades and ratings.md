@@ -38,19 +38,19 @@ May 29, 1954, ch. 249, §3(a) (less 3d and last sentences, as applicable to temp
 
 #### Amendments
 
-1994—Pub. L. 103–337 substituted “chief warrant officers; cadets; warrant officers;” for “chief warrant officers, W–4; chief warrant officers, W–3; chief warrant officers, W–2; cadets; warrant officers, W–1;”.
+<b>1994</b>—Pub. L. 103–337 substituted “chief warrant officers; cadets; warrant officers;” for “chief warrant officers, W–4; chief warrant officers, W–3; chief warrant officers, W–2; cadets; warrant officers, W–1;”.
 
-1985—Pub. L. 99–145 substituted “rear admirals (lower half)” for “commodores”.
+<b>1985</b>—Pub. L. 99–145 substituted “rear admirals (lower half)” for “commodores”.
 
-1984—Pub. L. 98–557 substituted “members” for “men” in two places.
+<b>1984</b>—Pub. L. 98–557 substituted “members” for “men” in two places.
 
-1983—Pub. L. 97–417 inserted “commodores;” after “rear admirals;”.
+<b>1983</b>—Pub. L. 97–417 inserted “commodores;” after “rear admirals;”.
 
-1972—Pub. L. 92–451 substituted “vice admirals” for “a vice admiral”.
+<b>1972</b>—Pub. L. 92–451 substituted “vice admirals” for “a vice admiral”.
 
-1960—Pub. L. 86–474 inserted the grade of admiral.
+<b>1960</b>—Pub. L. 86–474 inserted the grade of admiral.
 
-1956—Act Aug. 10, 1956, repealed and reenacted section by general amendment thereby substituting “chief warrant officers, W–4; chief warrant officers, W–3; chief warrant officers, W–2” for “commissioned warrant officers”, and “warrant officers, W–1” for “warrant officers”.
+<b>1956</b>—Act Aug. 10, 1956, repealed and reenacted section by general amendment thereby substituting “chief warrant officers, W–4; chief warrant officers, W–3; chief warrant officers, W–2” for “commissioned warrant officers”, and “warrant officers, W–1” for “warrant officers”.
 
 #### Effective Date of 1994 Amendment
 
@@ -58,5 +58,5 @@ Amendment by Pub. L. 103–337 effective on the first day of the fourth month be
 
 #### Effective Date of 1972 Amendment
 
-Amendment by Pub. L. 92–451 effective Oct. 2, 1972, except that continuation boards may not be held until one year thereafter, see section 3 of Pub. L. 92–451, set out as a note under section 290 of this title.
+Amendment by Pub. L. 92–451 effective Oct. 2, 1972, except that continuation boards may not be held untilone year thereafter, see section 3 of Pub. L. 92–451, set out as a note under section 290 of this title.
 

@@ -28,7 +28,7 @@ Other Major Information Technology Investment Program.—In this chapter, the te
 
 &emsp;(1) An investment that is designated by the Secretary of Defense, or a designee of the Secretary, as a “pre-Major Automated Information System” or “pre-MAIS” program.
 
-&emsp;(2) Any other investment in automated information system products or services that is expected to exceed the thresholds established in subsection (a), as adjusted under subsection (b), but is not considered to be a major automated information system program because a formal acquisition decision has not yet been made with respect to such investment.
+&emsp;(2) Any other investment in automated information system products or services that isexpected to exceed the thresholds established in subsection (a), as adjusted under subsection (b), but is not considered to be a major automated information system program because a formal acquisition decision has not yet been made with respect to such investment.
 
 (e)
 

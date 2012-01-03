@@ -24,13 +24,13 @@
 
 #### Amendments
 
-2001—Subsec. (a)(1)(A)(i). Pub. L. 107–107 amended directory language of Pub. L. 106–398. See 2000 Amendment note below.
+<b>2001</b>—Subsec. (a)(1)(A)(i). Pub. L. 107–107 amended directory language of Pub. L. 106–398. See 2000 Amendment note below.
 
-2000—Subsec. (a)(1)(A)(i). Pub. L. 106–398, as amended by Pub. L. 107–107, substituted “, (b)(1)(B), or (d)” for “or (b)(1)(B)”.
+<b>2000</b>—Subsec. (a)(1)(A)(i). Pub. L. 106–398, as amended by Pub. L. 107–107, substituted “, (b)(1)(B), or (d)” for “or (b)(1)(B)”.
 
-1999—Subsec. (a)(1)(A)(i). Pub. L. 106–58 repealed Pub. L. 105–261, §1109(c)(2). See 1998 Amendment note below.
+<b>1999</b>—Subsec. (a)(1)(A)(i). Pub. L. 106–58 repealed Pub. L. 105–261, §1109(c)(2). See 1998 Amendment note below.
 
-1998—Subsec. (a)(1)(A)(i). Pub. L. 105–261, §1109(c)(2), which directed substitution of “, (b)(1)(B), or (d)” for “or (b)(1)(B)”, was repealed by Pub. L. 106–58.
+<b>1998</b>—Subsec. (a)(1)(A)(i). Pub. L. 105–261, §1109(c)(2), which directed substitution of “, (b)(1)(B), or (d)” for “or (b)(1)(B)”, was repealed by Pub. L. 106–58.
 
 #### Effective Date of 2001 Amendment
 

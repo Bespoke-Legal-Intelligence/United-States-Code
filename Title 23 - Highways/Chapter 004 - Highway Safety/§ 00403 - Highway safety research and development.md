@@ -50,7 +50,7 @@ Collaborative Research and Development.—
 
 &emsp;(1)
 
-In general.—For the purpose of encouraging innovative solutions to highway safety problems, stimulating voluntary improvements in highway safety, and stimulating the marketing of new highway safety-related technology by private industry, the Secretary is authorized to undertake, on a cost-shared basis, collaborative research and development with non-Federal entities, including State andlocal governments, colleges, and universities and corporations, partnerships, sole proprietorships, and trade associations that are incorporated or established under the laws of any State or the United States. This collaborative research may include crash data collection and analysis; driver and pedestrian behavior; and demonstrations of technology.
+In general.—For the purpose of encouraging innovative solutions to highway safety problems, stimulating voluntary improvements in highway safety, and stimulating the marketing of new highway safety-related technology by private industry, the Secretary is authorized to undertake, on a cost-shared basis, collaborative research and development with non-Federal entities, including State and local governments, colleges, and universities and corporations, partnerships, sole proprietorships, and trade associations that are incorporated or established under the laws of any State or the United States. This collaborative research may include crash data collection and analysis; driver and pedestrian behavior; and demonstrations of technology.
 
 &emsp;(2)
 
@@ -122,7 +122,7 @@ Pub. L. 109–59, title II, §2003(d), Aug. 10, 2005, 119 Stat. 1523, provided t
 
 #### Drug-Impaired Driving Enforcement
 
-Pub. L. 109–59, title II, §2013, Aug. 10, 2005, 119 Stat. 1539, as amended by Pub. L. 111–147, title IV, §421(m), Mar. 18, 2010, 124 Stat. 86, provided that:
+Pub. L. 109–59, title II, §2013, Aug. 10, 2005, 119 Stat. 1539, as amended by Pub. L. 111–147, title IV, §421(m), Mar. 18, 2010, 124 Stat. 86; Pub. L. 112–30, title I, §121(m), Sept. 16, 2011, 125 Stat. 348, provided that:
 
 “(a)
 
@@ -150,7 +150,7 @@ Contents.—The report shall include, at a minimum, the following:
 
 &emsp;&emsp;“(A) An assessment of methodologies and technologies for measuring driver impairment resulting from use of the most common illicit drugs (including the use of such drugs in combination with alcohol).
 
-&emsp;&emsp;“(B) Effective and efficient methods for training law enforcement personnel, including drug recognition experts, to detect or measure the level of impairment of a driver who is under the influence of an illicit drug by the use of technology or otherwise.
+&emsp;&emsp;“(B) Effective and efficient methods for training law enforcement personnel, including drug recognition experts, to detect or measure the level of impairment of a driver who is under the influence ofan illicit drug by the use of technology or otherwise.
 
 &emsp;&emsp;“(C) A description of the role of drugs as causal factor in traffic crashes and the extent of the problem of drug-impaired driving.
 
@@ -188,7 +188,7 @@ Research and Development.—\[Amended section 403(b) of this title.\]
 
 “(f)
 
-Funding.—Out of amounts made available to carry out section 403 of title 23, United States Code, for each of fiscal years 2006 through 2011, the Secretary \[of Transportation\] shall make available $1,200,000 for such fiscal year to carry out this section.”
+Funding.—Out of amounts made available to carry out section 403 of title 23, United States Code, for each of fiscal years 2006 through 2012, the Secretary \[of Transportation\] shall make available $1,200,000 for such fiscal year to carry out this section.”
 
 #### Safety Studies
 
@@ -392,7 +392,7 @@ Pub. L. 95–599, title II, §212, Nov. 6, 1978, 92 Stat. 2734, directed Secreta
 
 #### Form and Use of Reports of Highway Traffic Accidents or Research Projects in Court; Availability to Public
 
-Pub. L. 89–564, title I, §106, Sept. 9, 1966, 80 Stat. 735, as amended by Pub. L. 105–178, title V, §5119(f), June 9, 1998, 112 Stat. 452, provided that: “All facts contained in any report of any Federal department or agency or any officer, employee, or agent thereof, relating to any highway traffic accident or the investigation thereof conducted pursuant to chapter 4 of title 23 of the United States Code shall be available for use in any civil, criminal, or other judicial proceeding arising out of such accident, and any such officer, employee, or agent may be required to testify in such proceedings as to the facts developed in such investigation. Any such report shall be made available to the public in a manner which does not identify individuals. All completed reports on research projects, demonstration projects, and other related activities conducted under section 403 and chapter 5 of title 23, United States Code, shall be made available to the public in a manner which does not identify individuals.”
+Pub. L. 89–564, title I, §106, Sept. 9, 1966, 80 Stat. 735, as amended by Pub. L. 105–178, title V, §5119(f), June 9, 1998, 112 Stat. 452, provided that: “All facts contained in any report of any Federal department or agency or any officer, employee, or agent thereof, relating to any highway traffic accident or the investigation thereof conducted pursuant to chapter 4 of title 23 of the United States Code shall be available for use in any civil, criminal, or other judicial proceeding arising out of such accident, and any such officer, employee, or agent may be required to testify in such proceedings asto the facts developed in such investigation. Any such report shall be made available to the public in a manner which does not identify individuals. All completed reports on research projects, demonstration projects, and other related activities conducted under section 403 and chapter 5 of title 23, United States Code, shall be made available to the public in a manner which does not identify individuals.”
 
 #### Appropriations Authorizations
 

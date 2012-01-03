@@ -120,7 +120,7 @@ For purposes of this subchapter—
 
 #### (7) Special rule for xylene
 
-&emsp;Except in the case of any substance imported into the United States or exported from the United States, the term “xylene” does not include any separated isomer of xylene.
+&emsp;Except in the case of any substance imported into the United States or exported fromthe United States, the term “xylene” does not include any separated isomer of xylene.
 
 #### (8) Recycled chromium, cobalt, and nickel
 
@@ -218,7 +218,7 @@ For purposes of this subchapter—
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in this paragraph, in any case in which a manufacturer, producer, or importer of a taxable chemical exchanges such chemical as part of an inventory exchange with another person—
+&emsp;&emsp;Except as provided in this paragraph, in any case in which a manufacturer, producer,or importer of a taxable chemical exchanges such chemical as part of an inventory exchange with another person—
 
 &emsp;&emsp;&emsp;(i) such exchange shall not be treated as a sale, and
 

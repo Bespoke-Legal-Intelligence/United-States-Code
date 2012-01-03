@@ -62,7 +62,7 @@ A nonresident alien individual described in subsection (a) shall be taxable for 
 
 &emsp;&emsp;(B) neither parent of such individual was a citizen of the United States at the time of such birth,
 
-&emsp;&emsp;(C) the individual's loss of United States citizenship occurs before such individual attains age 181/2, and
+&emsp;&emsp;(C) the individual's loss of United States citizenship occurs before such individual attains age 18½, and
 
 &emsp;&emsp;(D) the individual was not present in the United States for more than 30 days during any calendar year which is 1 of the 10 calendar years preceding the individual's loss of United States citizenship.
 
@@ -98,7 +98,7 @@ For purposes of subsection (b)—
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any exchange of property to which this paragraph applies, notwithstanding any other provision of this title, such property shall be treated as sold for its fair market value on the date of such exchange,and any gain shall be recognized for the taxable year which includes such date.
+&emsp;&emsp;In the case of any exchange of property to which this paragraph applies, notwithstanding any other provision of this title, such property shall be treated as sold for its fair market value on the date of such exchange, and any gain shall be recognized for the taxable year which includes such date.
 
 #### (B) Exchanges to which paragraph applies
 
@@ -244,7 +244,7 @@ If the Secretary establishes that it is reasonable to believe that an individual
 
 #### (h) Termination
 
-This section shall not apply to any individual whose expatriation date (as defined in section877A(g)(3)) is on or after the date of the enactment of this subsection.
+This section shall not apply to any individual whose expatriation date (as defined in section 877A(g)(3)) is on or after the date of the enactment of this subsection.
 
 (Added Pub. L. 89–809, title I, §103(f)(1), Nov. 13, 1966, 80 Stat. 1551; amended Pub. L. 93–406, title II, §2005(c)(8), Sept. 2, 1974, 88 Stat. 992; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title IV, §421(e)(5), Nov. 6, 1978, 92 Stat. 2876; Pub. L. 96–222, title I, §104(a)(1), (4)(H)(v), Apr. 1, 1980, 94 Stat. 214, 217; Pub. L. 99–514, title XII, §1243(a), Oct. 22, 1986, 100 Stat. 2580; Pub. L. 102–318, title V, §521(b)(31), July 3, 1992, 106 Stat. 312; Pub. L. 104–188, title I, §1401(b)(11), Aug. 20, 1996, 110 Stat. 1789; Pub. L. 104–191, title V, §511(a)–(d), (f)(1), Aug. 21, 1996, 110 Stat. 2093–2098; Pub. L. 105–34, title XVI, §1602(g)(1)–(4), (h)(3), Aug. 5, 1997, 111 Stat. 1095, 1096; Pub. L. 108–357, title VIII, §804(a)(1), (2), (c), Oct. 22, 2004, 118 Stat. 1569, 1570; Pub. L. 109–135, title IV, §403(v)(1), Dec. 21, 2005, 119 Stat. 2628; Pub. L. 110–245, title III, §301(c)(2)(A), (d), June 17, 2008, 122 Stat. 1646.)
 

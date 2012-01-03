@@ -30,7 +30,7 @@ Responsibilities.—The Deputy Assistant Secretary of Defense for Manufacturing 
 
 &emsp;(11) Carrying out the activities of the Department of Defense relating to the Defense Production Act Committee established under section 722 of the Defense Production Act of 1950 (50 U.S.C. App. 2171).
 
-&emsp;(12) Consistent with section 2(b) of the Defense Production Act of 1950 (50 U.S.C. App. 2062(b)), executing other applicable authorities provided under the Defense Production Act of 1950 (50 U.S.C. App. 2061 et seq.), including authorities under titles I and II of such Act.
+&emsp;(12) Consistent with section 2(b) of the Defense Production Act of 1950 (50 U.S.C. App. 2062(b)), executing other applicable authorities provided under the Defense Production Act of 1950 (50 U.S.C. App. 2061 et seq.), including authorities under titles I and III of such Act.
 
 &emsp;(13) Establishing policies related to international technology security and export control issues.
 
@@ -42,11 +42,11 @@ Responsibilities.—The Deputy Assistant Secretary of Defense for Manufacturing 
 
 Rule of Construction.—Nothing in subsection (b)(9) may be construed to limit the authority or modify the policies of the Committee on Foreign Investment in the United States established under section 721(k) of the Defense Production Act of 1950 (50 U.S.C. App. 2170(k)).
 
-(Added §139e and renumbered §139c, Pub. L. 111–383, div. A, title VII, §896(a), title IX, §901(f), Jan. 7, 2011, 124 Stat. 4314, 4322.)
+(Added §139e and renumbered §139c, Pub. L. 111–383, div. A, title VII, §896(a), title IX, §901(f), Jan. 7, 2011, 124 Stat. 4314, 4322; amended Pub. L. 112–81, div. A, title VIII, §855, Dec. 31, 2011, 125 Stat. 1521.)
 
 #### References in Text
 
-The Defense Production Act of 1950, referred to in subsec. (b)(12), is act Sept. 8, 1950, ch. 932, 64 Stat. 798,which is classified generally to section 2061 et seq. of Title 50, Appendix, War and National Defense. Title I of the Act is classified generally to section 2071 et seq. of Title 50, Appendix. Title II of the Act was classified to section 2081 of Title 50, Appendix, prior to repeal by Pub. L. 111–67, §2(a)(2), Sept. 30, 2009, 123 Stat. 2007. For complete classification of this Act to the Code, see section 2061 of Title 50, Appendix, and Tables.
+The Defense Production Act of 1950, referred to in subsec. (b)(12), is act Sept. 8, 1950, ch. 932, 64 Stat. 798, which is classified generally to section 2061 et seq. of Title 50, Appendix, War and National Defense. Title I of the Act is classified generally to section 2071 et seq. of Title 50, Appendix. Title III of the Act is classified generally to section 2091 et seq. of Title 50, Appendix. For complete classification of this Act to the Code, see section 2061 of Title 50, Appendix, and Tables.
 
 #### Prior Provisions
 
@@ -57,6 +57,8 @@ Another prior section 139c was renumbered section 2434 of this title.
 #### Amendments
 
 <b>2011</b>—Pub. L. 111–383, §901(f), renumbered section 139e of this title as this section.
+
+Subsec. (b)(12). Pub. L. 112–81, which directed amendment of section 139e of this title by substituting “titles I and III” for “titles I and II” in subsec. (b)(12), was executed to this section, to reflect the probable intent of Congress and the renumbering of section 139e of this title as this section by Pub. L. 111–383, §901(f). See above.
 
 #### Effective Date of 2011 Amendment
 

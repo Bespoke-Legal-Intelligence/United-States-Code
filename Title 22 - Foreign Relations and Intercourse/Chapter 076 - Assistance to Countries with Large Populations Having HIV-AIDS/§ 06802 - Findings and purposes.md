@@ -42,7 +42,7 @@ Congress makes the following findings:
 
 &emsp;(19) AIDS, like all diseases, knows no national boundaries, and there is no certitude that the scale of the problem in one continent can be contained within that region.
 
-&emsp;(20) Accordingly, United States financial support for medical research, education, and disease containment as a global strategy has beneficial ramifications for millions of Americans and their families who are affected by this disease, and the entire population which is potentially susceptible.
+&emsp;(20) Accordingly, United States financial support for medical research, education, anddisease containment as a global strategy has beneficial ramifications for millions of Americans and their families who are affected by this disease, and the entire population which is potentially susceptible.
 
 #### (b) Purposes
 

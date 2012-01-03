@@ -16,11 +16,11 @@ No registered investment company shall—
 
 #### (c) Officers, directors, or employees of one bank or bank holding company as majority of board of directors of company; exceptions
 
-No registered investment company shall have a majority of its board of directors consisting of persons who are officers, directors, or employees of any one bank (together with its affiliates and subsidiaries) or any one bank holding company (together with its affiliates and subsidiaries) (as such terms are defined in section 1841 of title 12) or any one savings and loan holding company, together with its affiliates and subsidiaries (as such terms are defined in section 1467a of title 12),,<sup>1</sup> except that, if on March 15, 1940, any registered investment company had a majority ofits directors consisting of persons who are directors, officers, or employees of any one bank, such company may continue to have the same percentage of its board of directors consisting of persons who are directors, officers, or employees of such bank.
+No registered investment company shall have a majority of its board of directors consisting of persons who are officers, directors, or employees of any one bank (together with its affiliates and subsidiaries) or any one bank holding company (together with its affiliates and subsidiaries) (as such terms are defined in section 1841 of title 12) or any one savings and loan holding company, together with its affiliates and subsidiaries (as such terms are defined in section 1467a of title 12),,<sup>1</sup> except that, if on March 15, 1940, any registered investment company had a majority of its directors consisting of persons who are directors, officers, or employees of any one bank, such company may continue to have the same percentage of its board of directors consisting of persons who are directors, officers, or employees of such bank.
 
 #### (d) Exception to limitation of number of interested persons who may serve on board of directors
 
-Notwithstanding subsections (a) and (b)(2) of this section, a registered investment company may have a board of directors all the members of which, except one, are interested persons of the investment adviser of such company, or are officers or employees of such company, if—
+Notwithstanding subsections (a) and (b)(2) of this section, a registered investment companymay have a board of directors all the members of which, except one, are interested persons of the investment adviser of such company, or are officers or employees of such company, if—
 
 &emsp;(1) such investment company is an open-end company;
 

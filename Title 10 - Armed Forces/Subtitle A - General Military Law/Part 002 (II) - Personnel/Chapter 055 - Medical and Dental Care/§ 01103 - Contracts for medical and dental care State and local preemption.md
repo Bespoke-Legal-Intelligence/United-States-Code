@@ -34,7 +34,7 @@ Section 715(b) of Pub. L. 103–160 provided that: “Section 1103 of title 10, 
 
 #### Effective Date
 
-Section 725(b) of Pub. L. 100–180 provided that: “Section 1103 of such title, as added by subsection (a), shall apply with respect to any contract entered into after October 1, 1987.”
+Section 725(b) of Pub. L. 100–180 provided that: “Section 1103 of such title, as added by subsection (a), shallapply with respect to any contract entered into after October 1, 1987.”
 
 #### Applicability of Preemption Provisions to Certain Contracts
 

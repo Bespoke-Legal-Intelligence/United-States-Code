@@ -28,7 +28,7 @@ A State educational agency, in consultation with the Governor of the State, that
 
 &emsp;&emsp;(B) maintain such records, provide such information to the Secretary, and afford such access to the records as the Secretary may find necessary to carry out the Secretary's duties; and
 
-&emsp;(7) before the plan or application was submitted to the Secretary, the State afforded a reasonable opportunity for public comment on the plan or application and considered such comment.
+&emsp;(7) before the plan or application was submitted to the Secretary, the State afforded a reasonable opportunity for public comment onthe plan or application and considered such comment.
 
 #### (b) GEPA provision
 

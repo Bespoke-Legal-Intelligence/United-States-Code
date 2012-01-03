@@ -8,7 +8,7 @@
 
 &emsp;(2) prepare and keep up to date, to the extent practicable, a comprehensive, coordinated, joint plan for Federal, State, interstate, local and nongovernmental development of water and related resources: <i>Provided</i>, That the plan shall include an evaluation of all reasonable alternative means of achieving optimum development of water and related land resources of the basin or basins, and it may be prepared in stages, including recommendations with respect to individual projects;
 
-&emsp;(3) recommend long-range schedules of priorities for the collection and analysis of basicdata and for investigation, planning, and construction of projects; and
+&emsp;(3) recommend long-range schedules of priorities for the collection and analysis of basic data and for investigation, planning, and construction of projects; and
 
 &emsp;(4) foster and undertake such studies of water and related land resources problems in its area, river basin, or group of river basins as are necessary in the preparation of the plan described in clause (2) of this subsection.
 
@@ -32,7 +32,7 @@ Ex. Ord. No. 11371, Sept. 6, 1967, 32 F.R. 12903, as amended by Ex. Ord. No. 115
 
 #### Executive Order No. 11578
 
-Ex. Ord. No. 11578, Jan. 13, 1971, 36 F.R. 683, as amended by Ex. Ord. No. 11882, Oct. 6, 1975, 40 F.R. 46293; Ex. Ord. No. 12038, Feb. 3, 1978, 43 F.R. 4957; Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239, which provided for the establishment, jurisdiction, functions, etc., of the Ohio River Basin Commission, was revoked, effective Oct. 1, 1981, by section 5(a)(4) of Ex. Ord. No. 12319, Sept. 9, 1981, 46 F.R. 45592, set out below.
+Ex. Ord. No. 11578, Jan. 13, 1971, 36 F.R. 683, as amended by Ex. Ord. No. 11882, Oct. 6, 1975, 40 F.R. 46293; Ex. Ord. No. 12038, Feb. 3, 1978, 43 F.R. 4957; Ex. Ord. No.12148, July 20, 1979, 44 F.R. 43239, which provided for the establishment, jurisdiction, functions, etc., of the Ohio River Basin Commission, was revoked, effective Oct. 1, 1981, by section 5(a)(4) of Ex. Ord. No. 12319, Sept. 9, 1981, 46 F.R. 45592, set out below.
 
 #### Executive Order No. 11613
 
@@ -76,7 +76,7 @@ Section 1. In accord with the decision of the Water Resources Council pursuant t
 
 Sec. 2. All Federal agencies shall cooperate with the commissions and the member States to achieve an orderly close out of commission activities and, if the member States so elect, to carry out an orderly transition of appropriate commission activities to the member States.
 
-Sec. 3. To the extent permitted by law, the assets of the commissions which the Federal Government might otherwise be entitled to claim are to be transferred to the member States of the commissions, or such entitiesas the States acting through their representatives on the commissions may designate, to be used for such water and related land resources planning purposes as the States may decide among themselves. The terms and conditions for transfer of assets under this Section shall be subject to the approval of the Director of the Office of Management and Budget, or such Federal agency as he designates, before the transfer is effective.
+Sec. 3. To the extent permitted by law, the assets of the commissions which the Federal Government might otherwise be entitled to claim are to be transferred to the member States of the commissions, or such entities as the States acting through their representatives on the commissions may designate, to be used for such water and related land resources planning purposes as the States may decide among themselves. The terms and conditions for transfer of assets under this Section shall be subject to the approval of the Director of the Office of Management and Budget, or such Federal agency as he designates, before the transfer is effective.
 
 Sec. 4. Federal agency members of river basin commissions are directed to continue coordination and cooperation in future State and inter-State basin planning arrangements.
 

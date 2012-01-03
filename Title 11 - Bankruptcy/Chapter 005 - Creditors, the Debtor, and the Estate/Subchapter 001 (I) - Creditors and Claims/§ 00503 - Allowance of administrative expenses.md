@@ -78,11 +78,11 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 503(a) of the House amendment represents a compromise between similar provisions in the House bill and the Senate amendment by leaving to the Rules of Bankruptcy Procedure the determination of the location at which a request for payment of an administrative expense may be filed. The preamble to section 503(b) of the House bill makes a similar change with respect to the allowance of administrative expenses.
 
-Section 503(b)(1) adopts the approach taken in the House bill as modified by some provisions contained in the Senate amendment. The preamble to section 503(b) makes clear that none of the paragraphs of section 503(b) apply to claims or expenses of the kind specified in section 502(f) that arise in the ordinary course of the debtor's business or financial affairs and that arise during the gap between the commencement of an involuntary case and the appointment of a trustee or the order for relief, whichever first occurs. The remainder of section 503(b) represents a compromise between H.R. 8200 as passed by the House and the Senate amendments. Section 503(b)(3)(E) codifies present law in cases such as <i>Randolph v. Scruggs</i>, 190 U.S. 533, which accords administrative expense status to services rendered by a prepetition custodian or other party to the extent such services actually benefit the estate. Section 503(b)(4) of the House amendment conforms to the provision contained in H.R. 8200 as passed by the House and deletes language contained in the Senate amendment providing a different standard of compensation under section 330 of that amendment.
+Section 503(b)(1) adopts the approach taken in the House bill as modified by some provisions contained in the Senate amendment. The preamble to section 503(b) makes clear that none of the paragraphs of section 503(b) apply to claims or expenses of the kind specified in section 502(f) that arise in the ordinary course of the debtor's business or financial affairs and that arise during the gap between the commencement of an involuntary case and the appointment of a trustee or the order for relief, whichever first occurs. The remainder of section 503(b) represents a compromise between H.R. 8200 as passed by the House and the Senate amendments.Section 503(b)(3)(E) codifies present law in cases such as <i>Randolph v. Scruggs</i>, 190 U.S. 533, which accords administrative expense status to services rendered by a prepetition custodian or other party to the extent such services actually benefit the estate. Section 503(b)(4) of the House amendment conforms to the provision contained in H.R. 8200 as passed by the House and deletes language contained in the Senate amendment providing a different standard of compensation under section 330 of that amendment.
 
 #### senate report no. 95–989
 
@@ -102,7 +102,7 @@ Paragraph (4) permits reasonable compensation for professional services rendered
 
 #### Amendments
 
-2005—Subsec. (b)(1)(A). Pub. L. 109–8, §329, amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the actual, necessary costs and expenses of preserving the estate, including wages, salaries, or commissions for services rendered after the commencement of the case;”.
+<b>2005</b>—Subsec. (b)(1)(A). Pub. L. 109–8, §329, amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the actual, necessary costs and expenses of preserving the estate, including wages, salaries, or commissions for services rendered after the commencement of the case;”.
 
 Subsec. (b)(1)(B)(i). Pub. L. 109–8, §712(b), inserted “whether secured or unsecured, including property taxes for which liability is in rem, in personam, or both,” before “except”.
 
@@ -118,19 +118,19 @@ Subsec. (b)(9). Pub. L. 109–8, §1227(b), added par. (9).
 
 Subsec. (c). Pub. L. 109–8, §331, added subsec. (c).
 
-1994—Subsec. (a). Pub. L. 103–394, §213(c), inserted “timely” after “may” and “, or may tardily file such request if permitted by the court for cause” before period at end.
+<b>1994</b>—Subsec. (a). Pub. L. 103–394, §213(c), inserted “timely” after “may” and “, or may tardily file such request if permitted by the court for cause” before period at end.
 
 Subsec. (b)(1)(B)(i). Pub. L. 103–394, §304(h)(2), substituted “507(a)(8)” for “507(a)(7)”.
 
 Subsec. (b)(3)(F). Pub. L. 103–394, §110, added subpar. (F).
 
-1986—Subsec. (b)(1)(B)(i). Pub. L. 99–554, §283(g)(1), substituted “507(a)(7)” for “507(a)(6)”.
+<b>1986</b>—Subsec. (b)(1)(B)(i). Pub. L. 99–554, §283(g)(1), substituted “507(a)(7)” for “507(a)(6)”.
 
 Subsec. (b)(5). Pub. L. 99–554, §283(g)(2), inserted “and” after “title;”.
 
 Subsec. (b)(6). Pub. L. 99–554, §283(g)(3), substituted a period for “; and”.
 
-1984—Subsec. (b). Pub. L. 98–353, §446(1), struck out the comma after “be allowed” in provisions preceding par. (1).
+<b>1984</b>—Subsec. (b). Pub. L. 98–353, §446(1), struck out the comma after “be allowed” in provisions preceding par. (1).
 
 Subsec. (b)(1)(C). Pub. L. 98–353, §446(2), struck out the comma after “credit”.
 

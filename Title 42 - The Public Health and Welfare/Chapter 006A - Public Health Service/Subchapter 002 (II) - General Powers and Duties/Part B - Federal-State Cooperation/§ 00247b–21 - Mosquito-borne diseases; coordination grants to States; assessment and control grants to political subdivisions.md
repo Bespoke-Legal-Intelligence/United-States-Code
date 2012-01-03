@@ -76,7 +76,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;With respect to the costs of a control program to be carried out under paragraph (1)by a political subdivision or consortium of political subdivisions, a grant under such paragraph may be made only if the subdivision or consortium agrees to make available (directly or through donations from public or private entities) non-Federal contributions toward such costs in an amount that is not less than 1/3 of such costs ($1 for each $2 of Federal funds provided in the grant).
+&emsp;&emsp;With respect to the costs of a control program to be carried out under paragraph (1) by a political subdivision or consortium of political subdivisions, a grant under such paragraph may be made only if the subdivision or consortium agrees to make available (directly or through donations from public or private entities) non-Federal contributions toward such costs in an amount that is not less than 1/3 of such costs ($1 for each $2 of Federal funds provided in the grant).
 
 #### (B) Determination of amount contributed
 

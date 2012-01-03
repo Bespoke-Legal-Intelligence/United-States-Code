@@ -6,7 +6,7 @@ Additional Forms of Transactions Authorized.—The Secretary of Defense and the 
 
 (b)
 
-Exercise of Authority by Secretary of Defense.—In any exercise of the authority insubsection (a), the Secretary of Defense shall act through the Defense Advanced Research Projects Agency or any other element of the Department of Defense that the Secretary may designate.
+Exercise of Authority by Secretary of Defense.—In any exercise of the authority in subsection (a), the Secretary of Defense shall act through the Defense Advanced Research Projects Agency or any other element of the Department of Defense that the Secretary may designate.
 
 (c)
 
@@ -74,7 +74,7 @@ Protection of Certain Information From Disclosure.—(1) Disclosure of informati
 
 &emsp;(iii) Technical information submitted on a confidential basis.
 
-(Added Pub. L. 101–189, div. A, title II, §251(a)(1), Nov. 29, 1989, 103 Stat. 1403; amended Pub. L. 101–510, div. A, title XIV, §1484(k)(9), Nov. 5, 1990, 104 Stat. 1719; Pub. L. 102–190, div. A, title VIII, §826, Dec. 5, 1991, 105 Stat. 1442; Pub. L. 102–484, div. A, title II, §217, Oct. 23, 1992, 106 Stat. 2352; Pub. L. 103–35, title II, §201(c)(4), May 31, 1993, 107 Stat. 98; Pub. L. 103–160, div. A, title VIII, §827(b), title XI, §1182(a)(6), Nov. 30, 1993, 107 Stat. 1712, 1771; Pub. L. 103–355, title I, §1301(b), Oct. 13, 1994, 108 Stat. 3285; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat.502; Pub. L. 104–201, div. A, title II, §267(a)–(c)(1)(A), title X, §1073(e)(1)(B), Sept. 23, 1996, 110 Stat. 2467, 2468, 2658; Pub. L. 105–85, div. A, title VIII, §832, Nov. 18, 1997, 111 Stat. 1842; Pub. L. 105–261, div. A, title VIII, §817, Oct. 17, 1998, 112 Stat. 2089; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §1031(a)(19), Nov. 24, 2003, 117 Stat. 1597.)
+(Added Pub. L. 101–189, div. A, title II, §251(a)(1), Nov. 29, 1989, 103 Stat. 1403; amended Pub. L. 101–510, div. A, title XIV, §1484(k)(9), Nov. 5, 1990, 104 Stat. 1719; Pub. L. 102–190, div. A, title VIII, §826, Dec. 5, 1991, 105 Stat. 1442; Pub. L. 102–484, div. A, title II, §217, Oct. 23, 1992, 106 Stat. 2352; Pub. L. 103–35, title II, §201(c)(4), May 31, 1993, 107 Stat. 98; Pub. L. 103–160, div. A, title VIII, §827(b), title XI, §1182(a)(6), Nov. 30, 1993, 107 Stat. 1712, 1771; Pub. L. 103–355, title I, §1301(b), Oct. 13, 1994, 108 Stat. 3285; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 104–201, div. A, title II, §267(a)–(c)(1)(A), title X, §1073(e)(1)(B), Sept. 23, 1996, 110 Stat. 2467, 2468, 2658; Pub. L. 105–85, div. A, title VIII, §832, Nov. 18, 1997, 111 Stat. 1842; Pub. L. 105–261, div. A, title VIII, §817, Oct. 17, 1998, 112 Stat. 2089; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §1031(a)(19), Nov. 24, 2003, 117 Stat. 1597.)
 
 #### Amendments
 
@@ -112,7 +112,7 @@ Pub. L. 104–201, §267(c)(1)(A), renumbered subsec. (i) of this section as sec
 
 <b>1994</b>—Pub. L. 103–355 amended section generally. Prior to amendment section related to cooperative agreements and other transactions for advanced research projects.
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–160, §827(b)(1)(C), substituted “section 2358 of this title” for “subsection (a)” in par. (1) and “subsection (d)” for “subsection (e)” in par. (2).
+<b>1993</b>—Subsec. (a). Pub. L. 103–160, §827(b)(1)(C), substituted “section 2358 of this title” for “subsection (a)”in par. (1) and “subsection (d)” for “subsection (e)” in par. (2).
 
 Pub. L. 103–160, §827(b)(1)(A), (B), redesignated subsec. (b) as (a) and struck out former subsec. (a), as amended by Pub. L. 103–160, §1182(a)(6), (h), which read as follows: “The Secretary of Defense, in carrying out advanced research projects through the Advanced Research Projects Agency, and the Secretary of each military department, in carrying out advanced research projects, may enter into cooperative agreements and other transactions with any person, any agency or instrumentality of the United States, any unit of State or local government, any educational institution, and any other entity.”
 
@@ -214,7 +214,7 @@ Appropriate Use of Authority.—(1) The Secretary of Defense shall ensure that n
 
 &emsp;“(B) no nontraditional defense contractor is participating to a significant extent in the prototype project, but at least one of the following circumstances exists:
 
-&emsp;&emsp;“(i) At least one third of the total cost of the prototype project is to be paid out of funds providedby parties to the transaction other than the Federal Government.
+&emsp;&emsp;“(i) At least one third of the total cost of the prototype project is to be paid out of funds provided by parties to the transaction other than the Federal Government.
 
 &emsp;&emsp;“(ii) The senior procurement executive for the agency (as designated for the purposes of section 16(3) of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 414(3))) \[see 41 U.S.C. 1702(c)\] determines in writing that exceptional circumstances justify the use of a transaction that provides for innovative business arrangements or structures that would not be feasible or appropriate under a contract.
 

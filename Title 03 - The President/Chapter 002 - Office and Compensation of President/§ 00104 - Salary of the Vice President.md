@@ -1,6 +1,6 @@
 ### §104. Salary of the Vice President
 
-(a) The per annum rate of salary of the Vice President of the United States shall be the rate determined for such position under chapter 11 of title 2, as adjusted under this section. Subject to subsection (b), effective at the beginning of the first month in which an adjustment takes effect under section 5303 of title 5 in the rates of pay under the General Schedule, the salary of the Vice President shall be adjusted by an amount, rounded to the nearest multiple of $100 (or if midway between multiples of $100, to the nearest higher multiple of $100), equal to the percentage of such per annum rate which corresponds to the most recent percentage change in the ECI (relative to the date described in the next sentence), as determined under section 704(a)(1) of the Ethics Reform Act of 1989. The appropriate date under this sentence is the first day of the fiscal year in which such adjustment in the rates of pay under the General Schedule takes effect.
+(a) The per annum rate of salary of the Vice President of the United States shall be the ratedetermined for such position under chapter 11 of title 2, as adjusted under this section. Subject to subsection (b), effective at the beginning of the first month in which an adjustment takes effect under section 5303 of title 5 in the rates of pay under the General Schedule, the salary of the Vice President shall be adjusted by an amount, rounded to the nearest multiple of $100 (or if midway between multiples of $100, to the nearest higher multiple of $100), equal to the percentage of such per annum rate which corresponds to the most recent percentage change in the ECI (relative to the date described in the next sentence), as determined under section 704(a)(1) of the Ethics Reform Act of 1989. The appropriate date under this sentence is the first day of the fiscal year in which such adjustment in the rates of pay under the General Schedule takes effect.
 
 (b) In no event shall the percentage adjustment taking effect under the second and third sentences of subsection (a) in any calendar year (before rounding) exceed the percentage adjustment taking effect in such calendar year under section 5303 of title 5 in the rates of pay under the General Schedule.
 
@@ -14,23 +14,23 @@ Section 704(a)(1) of the Ethics Reform Act of 1989, referred to in subsec. (a), 
 
 #### Amendments
 
-1994—Pub. L. 103–356 designated existing provisions as subsec. (a), substituted “Subject to subsection (b), effective” for “Effective” in second sentence, and added subsec. (b).
+<b>1994</b>—Pub. L. 103–356 designated existing provisions as subsec. (a), substituted “Subject to subsection (b), effective” for “Effective” in second sentence, and added subsec. (b).
 
-1990—Pub. L. 101–509 substituted “5303” for “5305”.
+<b>1990</b>—Pub. L. 101–509 substituted “5303” for “5305”.
 
-1989—Pub. L. 101–194 substituted “corresponds to the most recent percentage change in the ECI (relative to the date described in the next sentence), as determined under section 704(a)(1) of the Ethics Reform Act of 1989. The appropriate date under this sentence is the first day of the fiscal year in which such adjustment in the rates of pay under the General Schedule takes effect” for “corresponds to the overall average percentage (as set forth in the report transmitted to the Congress under section 5305 of title 5) of the adjustment in such rates of pay”.
+<b>1989</b>—Pub. L. 101–194 substituted “corresponds to the most recent percentage change in the ECI (relative to the date described in the next sentence), as determined under section 704(a)(1) of the Ethics Reform Act of 1989. The appropriate date under this sentence is the first day of the fiscal year in which such adjustment in the rates of pay under the General Schedule takes effect” for “corresponds to the overall average percentage (as set forth in the report transmitted to the Congress under section 5305 of title 5) of the adjustment in such rates of pay”.
 
-1982—Pub. L. 97–257 struck out requirement for payment of salary on a monthly basis.
+<b>1982</b>—Pub. L. 97–257 struck out requirement for payment of salary on a monthly basis.
 
-1975—Pub. L. 94–82 substituted provisions for a rate of salary to be determined under chapter 11 of title 2, as adjusted under this section, with adjustments equal to the percentage of such per annum rate which corresponds to the overall average percentage of the adjustment in such rates of pay for provisions for a per annum rate of salary of $62,500.
+<b>1975</b>—Pub. L. 94–82 substituted provisions for a rate of salary to be determined under chapter 11 of title 2, as adjusted under this section, with adjustments equal to the percentage of such per annum rate which corresponds to the overall average percentage of the adjustment in such rates of pay for provisions for a per annum rate of salary of $62,500.
 
-1969—Pub. L. 91–67 increased salary from $43,000 to $62,500.
+<b>1969</b>—Pub. L. 91–67 increased salary from $43,000 to $62,500.
 
-1964—Pub. L. 88–426 increased salary from $35,000 to $43,000.
+<b>1964</b>—Pub. L. 88–426 increased salary from $35,000 to $43,000.
 
-1955—Act Mar. 2, 1955, increased salary from $30,000 to $35,000.
+<b>1955</b>—Act Mar. 2, 1955, increased salary from $30,000 to $35,000.
 
-1949—Act Jan. 19, 1949, increased salary from $20,000 to $30,000.
+<b>1949</b>—Act Jan. 19, 1949, increased salary from $20,000 to $30,000.
 
 #### Effective Date of 1994 Amendment
 

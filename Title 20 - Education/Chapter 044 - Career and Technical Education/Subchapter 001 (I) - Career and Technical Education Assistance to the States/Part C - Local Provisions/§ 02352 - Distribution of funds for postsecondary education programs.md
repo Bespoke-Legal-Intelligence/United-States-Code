@@ -8,7 +8,7 @@
 
 #### (2) Formula
 
-&emsp;Each eligible institution or consortium of eligible institutions shall be allocated an amount that bears the same relationship to the portion of funds made available under section 2322(a)(1) of this title to carry out thissection for any fiscal year as the sum of the number of individuals who are Federal Pell Grant recipients and recipients of assistance from the Bureau of Indian Affairs enrolled in programs meeting the requirements of section 2355 of this title offered by such institution or consortium in the preceding fiscal year bears to the sum of the number of such recipients enrolled in such programs within the State for such year.
+&emsp;Each eligible institution or consortium of eligible institutions shall be allocated an amount that bears the same relationship to the portion of funds made available under section 2322(a)(1) of this title to carry out this section for any fiscal year as the sum of the number of individuals who are Federal Pell Grant recipients and recipients of assistance from the Bureau of Indian Affairs enrolled in programs meeting the requirements of section 2355 of this title offered by such institution or consortium in the preceding fiscal year bears to the sum of the number of such recipients enrolled in such programs within the State for such year.
 
 #### (3) Consortium requirements
 
@@ -26,7 +26,7 @@
 
 #### (4) Waiver
 
-&emsp;The eligible agency may waive the application of paragraph (3)(A)(i) in any case in which the eligible institution is located in a rural, sparsely populated area.
+&emsp;The eligible agency may waive the application of paragraph (3)(A)(i) in any case in whichthe eligible institution is located in a rural, sparsely populated area.
 
 #### (b) Waiver for more equitable distribution
 

@@ -44,21 +44,59 @@ Use of Personnel and Organizations.—In carrying out the program established un
 
 &emsp;(4) use representatives of military and veterans’ service organizations;
 
-&emsp;(5) enter into contracts with public or private entities; and
+&emsp;(5) enter into contracts with public entities;
 
-&emsp;(6) take other necessary action to develop and furnish the information and services to be provided under this section.
+&emsp;(6) enter into contracts with private entities, particularly with qualified private entities that have experience with instructing members of the armed forces eligible for assistance under the program carried out under this section on—
 
-(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1553; amended Pub. L. 102–190, div. A, title X, §1061(a)(6), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. D, title XLIV, §§4462(c), 4469, Oct. 23, 1992, 106 Stat. 2740, 2752; Pub. L. 103–337, div. A, title V, §543(b), Oct. 5, 1994, 108 Stat. 2769; Pub. L. 107–103, title III, §302(b), Dec. 27, 2001, 115 Stat. 992; Pub. L. 107–107, div. A, title X, §1048(e)(1), Dec. 28, 2001, 115 Stat. 1227; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+&emsp;&emsp;(A) private sector culture, resume writing, career networking, and training on job search technologies;
+
+&emsp;&emsp;(B) academic readiness and educational opportunities; or
+
+&emsp;&emsp;(C) other relevant topics; and
+
+&emsp;(7) take other necessary action to develop and furnish the information and services to be provided under this section.
+
+(e)
+
+Participation in Apprenticeship Programs.—As part of the program carried out under this section, the Secretary of Defense and the Secretary of Homeland Security may permit a member of the armed forces eligible for assistance under the program to participate in an apprenticeship program registered under the Act of August 16, 1937 (commonly known as the “National Apprenticeship Act”; 50 Stat. 664, chapter 663; 29 U.S.C. 50 et seq.), or a pre-apprenticeshipprogram that provides credit toward a program registered under such Act, that provides members of the armed forces with the education, training, and services necessary to transition to meaningful employment that leads to economic self-sufficiency.
+
+(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1553; amended Pub. L. 102–190, div. A, title X, §1061(a)(6), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. D, title XLIV, §§4462(c), 4469, Oct. 23, 1992, 106 Stat. 2740, 2752; Pub. L. 103–337, div. A, title V, §543(b), Oct. 5, 1994, 108 Stat. 2769; Pub. L. 107–103, title III, §302(b), Dec. 27, 2001, 115 Stat. 992; Pub. L. 107–107, div. A, title X, §1048(e)(1), Dec. 28, 2001, 115 Stat. 1227; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 112–56, title II, §§221(a), 224, 225, Nov. 21, 2011, 125 Stat. 715, 718.)
+
+#### Amendment of Subsection (c)
+
+<i>Pub. L. 112–56, title II, §221(a), (c), Nov. 21, 2011, 125 Stat. 715, 716, provided that, effective on the date that is 1 year after Nov. 21, 2011, subsection (c) of this section is amended to read as follows:</i>
+
+<i>(c)</i>
+
+<i>Participation.—(1) Except as provided in paragraph (2), the Secretary of Defense and the Secretary of Homeland Security shall require the participation in the program carried out under this section of the members eligible for assistance under the program.</i>
+
+<i>(2) The Secretary of Defense and the Secretary of Homeland Security may, under regulations such Secretaries shall prescribe, waive the participation requirement of paragraph (1) with respect to—</i>
+
+&emsp;<i>(A) such groups or classifications of members as the Secretaries determine, after consultation with the Secretary of Labor and the Secretary of Veterans Affairs, for whom participation is not and would not be of assistance to such members based on the Secretaries’ articulable justification that there is extraordinarily high reason to believe the exempted members are unlikely to face major readjustment, health care, employment, or other challenges associated with transition to civilian life; and</i>
+
+&emsp;<i>(B) individual members possessing specialized skills who, due to unavoidable circumstances, are needed to support a unit's imminent deployment.</i>
+
+<i>See 2011 Amendment note below.</i>
 
 #### References in Text
 
 Section 408 of Public Law 101–237, referred to in subsec. (b)(2), is set out as a note under section 4100 of Title 38, Veterans’ Benefits.
 
+The National Apprenticeship Act, referred to in subsec. (e), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, which is classified generally to chapter 4C (§50 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 50 of Title 29 and Tables.
+
 #### Amendments
+
+<b>2011</b>—Subsec. (c). Pub. L. 112–56, §221(a), amended subsec. (c) generally. Prior to amendment, text read as follows: “The Secretary of Defense and the Secretary of Homeland Security shall encourage and otherwise promote maximum participation by members of the armed forces eligible for assistance under the program carried out under this section.”
+
+Subsec. (d)(5). Pub. L. 112–56, §224(1), substituted “public entities;” for “public or private entities; and”.
+
+Subsec. (d)(6), (7). Pub. L. 112–56, §224(2), (3), added par. (6) and redesignated former par. (6) as (7).
+
+Subsec. (e). Pub. L. 112–56, §225, added subsec. (e).
 
 <b>2002</b>—Subsecs. (a)(1), (2), (b)(4), (c), (d)(2). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-<b>2001</b>—Subsec. (a)(1). Pub. L. 107–103, in second sentence, substituted “within the time periods providedunder paragraph (3) of section 1142(a) of this title, except that the Secretary concerned shall not provide preseparation counseling to a member described in paragraph (4)(A) of such section” for “during the 180-day period before the member is separated from active duty”.
+<b>2001</b>—Subsec. (a)(1). Pub. L. 107–103, in second sentence, substituted “within the time periods provided under paragraph (3) of section 1142(a) of this title, except that the Secretary concerned shall not provide preseparation counseling to a member described in paragraph (4)(A) of such section” for “during the 180-day period before the member is separated from active duty”.
 
 Subsec. (a)(3). Pub. L. 107–107, §1048(e)(1)(A), struck out at end “The agreement shall be entered into no later than 60 days after the date of the enactment of this section.”
 
@@ -90,9 +128,73 @@ Subsec. (b)(3). Pub. L. 102–190, §1061(a)(6)(B), substituted “veterans’ s
 
 Subsec. (b)(6). Pub. L. 102–190, §1061(a)(6)(C), substituted “those areas” for “such area”.
 
+#### Effective Date of 2011 Amendment
+
+Amendment by section 221(a) of Pub. L. 112–56 effective on the date that is 1 year after Nov. 21, 2011, see section 221(c) of Pub. L. 112–56, set out as a note under section 1142 of this title.
+
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
+
+#### Individualized Assessment for Members of the Armed Forces Under Transition Assistance on Equivalence Between Skills Developed in Military Occupational Specialties and Qualifications Required for Civilian Employment With the Private Sector
+
+Pub. L. 112–56, title II, §222, Nov. 21, 2011, 125 Stat. 716, provided that:
+
+“(a)
+
+Study on Equivalence Required.—
+
+&emsp;“(1)
+
+In general.—The Secretary of Labor shall, in consultation with the Secretary of Defense and the Secretary of Veterans Affairs, enter into a contract with a qualified organization to conduct a study to identify any equivalences between the skills developed by members of the Armed Forces through various military occupational specialties (MOS), successful completion of resident training courses, attaining various military ranks or rates, or other military experiences and the qualifications required for various positions of civilian employment in the private sector.
+
+&emsp;“(2)
+
+Cooperation of federal agencies.—The departments and agencies of the Federal Government, including the Office of Personnel Management, the General Services Administration, the Government Accountability Office, the Department of Education, and other appropriate departments and agencies, shall cooperate with the contractor under paragraph (1) to conduct the study required under that paragraph.
+
+&emsp;“(3)
+
+Report.—Upon completion of the study conducted under paragraph (1), the contractor under that paragraph shall submit to the Secretary of Defense, the Secretary of Veterans Affairs, and the Secretary of Labor a report setting forth the results of the study. The report shall include such information as the Secretaries shall specify in the contract under paragraph (1) for purposes of this section.
+
+&emsp;“(4)
+
+Transmittal to congress.—The Secretary of Labor shall transmit to the appropriate committees of Congress the report submitted under paragraph (3), together with such comments on the report as the Secretary considers appropriate.
+
+&emsp;“(5)
+
+Appropriate committees of congress defined.—In this subsection, the term ‘appropriate committees of Congress’ means—
+
+&emsp;&emsp;“(A) the Committee on Veterans’ Affairs, the Committee on Armed Services, and the Committee on Health, Education, Labor, and Pension of the Senate; and
+
+&emsp;&emsp;“(B) the Committee on Veterans’ Affairs, the Committee on Armed Services, and the Committee on Education and the Workforce of the House of Representatives.
+
+“(b)
+
+Publication.—The secretaries described in subsection (a)(1) shall ensure that the equivalences identified under subsection (a)(1) are—
+
+&emsp;“(1) made publicly available on an Internet website; and
+
+&emsp;“(2) regularly updated to reflect the most recent findings of the secretaries with respect to such equivalences.
+
+“(c)
+
+Individualized Assessment of Civilian Positions Available Through Military Experiences.—The Secretary of Defense shall ensure that each member of the Armed Forces who is participating in the Transition Assistance Program (TAP) of the Department of Defense receives, as part of such member's participation in that program, an individualized assessment of the various positions of civilian employment in the private sector for which such member may be qualified as a result of the skills developed by such member through various military occupational specialties (MOS), successful completion of resident training courses, attaining various military ranks or rates, or other military experiences. The assessment shall be performed using the results of the study conducted under subsection (a) and such other information as the Secretary of Defense, in consultation with the Secretary of Veterans Affairs and the Secretary of Labor, considers appropriate for that purpose.
+
+“(d)
+
+Further Use in Employment-related Transition Assistance.—
+
+&emsp;“(1)
+
+Transmittal of assessment.—The Secretary of Defense shall make the individualized assessment provided a member under subsection (a) available electronically to the Secretary of Veterans Affairs and the Secretary of Labor.
+
+&emsp;“(2)
+
+Use in assistance.—The Secretary of Veterans Affairs and the Secretary of Labor may use an individualized assessment with respect to an individual under paragraph (1) for employment-related assistance in the transition from military service to civilian life provided the individual by such Secretary and to otherwise facilitate and enhance the transition of the individual from military service to civilian life.
+
+“(e)
+
+Effective Date.—This section shall take effect on the date that is one year after the date of the enactment of this Act \[Nov. 21, 2011\].”
 
 #### Implementation Reports
 

@@ -24,7 +24,7 @@ The Secretary shall conduct in the Service, and encourage, cooperate with, and r
 
 #### (b) Testing for carcinogenicity, teratogenicity, mutagenicity, and other harmful biological effects; consultation
 
-(1) The Secretary shall conduct and may support through grants and contracts studies and testing of substances for carcinogenicity, teratogenicity, mutagenicity, and other harmful biological effects. In carrying out this paragraph, the Secretary shall consult with entities of the Federal Government, outside of the Department of Health and Human Services, engaged in comparable activities. The Secretary, upon request of such an entity and under appropriate arrangements for the payment of expenses, may conduct for such entity studies and testing of substancesfor carcinogenicity, teratogenicity, mutagenicity, and other harmful biological effects.
+(1) The Secretary shall conduct and may support through grants and contracts studies and testing of substances for carcinogenicity, teratogenicity, mutagenicity, and other harmful biological effects. In carrying out this paragraph, the Secretary shall consult with entities of the Federal Government, outside of the Department of Health and Human Services, engaged in comparable activities. The Secretary, upon request of such an entity and under appropriate arrangements for the payment of expenses, may conduct for such entity studies and testing of substances for carcinogenicity, teratogenicity, mutagenicity, and other harmful biological effects.
 
 (2)(A) The Secretary shall establish a comprehensive program of research into the biological effects of low-level ionizing radiation under which program the Secretary shall conduct such research and may support such research by others through grants and contracts.
 
@@ -148,7 +148,7 @@ Amendment by Pub. L. 92–218 effective 60 days after Dec. 23, 1971, or on such 
 
 #### Coordination of Data Surveys and Reports
 
-Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §703(e)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–402, provided that: “The Secretary of Health and Human Services, through the Assistant Secretary for Planning and Evaluation, shall establish a clearinghouse for the consolidation and coordination of all Federal databases and reports regarding children's health.”
+Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §703(e)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–402, provided that: “The Secretary of Health and Human Services, through the Assistant Secretary for Planning and Evaluation,shall establish a clearinghouse for the consolidation and coordination of all Federal databases and reports regarding children's health.”
 
 #### Female Genital Mutilation
 
@@ -186,7 +186,7 @@ Section 162 of Pub. L. 100–607 directed Secretary of Health and Human Services
 
 #### Research With Respect to Health Resources and Services Administration
 
-Section 632 of Pub. L. 100–607 provided that with respect to any program of research pursuant to this chapter, any such program carried out in fiscal year 1987 by an agency other than Health Resources and Services Administration (or appropriate to be carried out bysuch an agency) could not, for each of fiscal years 1989 through 1991, be carried out by such Administration.
+Section 632 of Pub. L. 100–607 provided that with respect to any program of research pursuant to this chapter, any such program carried out in fiscal year 1987 by an agency other than Health Resources and Services Administration (or appropriate to be carried out by such an agency) could not, for each of fiscal years 1989 through 1991, be carried out by such Administration.
 
 #### Continuing Care for Psychiatric Patients in Former Clinical Research Center at National Institute on Drug Abuse
 
@@ -204,7 +204,7 @@ Pub. L. 97–414, §7, Jan. 4, 1983, 96 Stat. 2059, as amended by Pub. L. 109–
 
 &emsp;“(3) conduct scientific research and prepare analyses necessary to develop valid and credible assessments of the exposure to Iodine 131 that the American people received from the Nevada atmospheric nuclear bomb tests.
 
-“(b)(1) Within one year after the date of enactment of this Act \[Jan. 4, 1983\], the Secretary of Health and Human Services shall devise and publish radioepidemiological tables that estimate the likelihood that persons who have or have had any of the radiation related cancers and who have received specific doses prior to the onset of such disease developed cancer as a result of these doses. These tables shall show a probability of causation of developing each radiation related cancer associated with receipt of doses ranging from 1 millirad to 1,000 rads in terms of sex, age at time of exposure, time from exposure to the onset of the cancer in question, and such other categories as the Secretary, after consulting with appropriate scientific experts, determines to be relevant. Each probability of causation shall be calculated and displayed as a single percentage figure.
+“(b)(1) Within one year after the date of enactment of this Act \[Jan. 4, 1983\], the Secretary of Health and Human Services shall devise and publish radioepidemiological tables that estimate the likelihood that persons who have or have had any of the radiation related cancers and who have received specific doses prior to the onset of such disease developed cancer as a result of these doses. These tables shall show a probability of causation of developing each radiation related cancer associated with receipt of doses ranging from 1 millirad to 1,000 rads in terms of sex, age at time of exposure, time from exposure to the onset of the cancer in question, and such other categories as the Secretary,after consulting with appropriate scientific experts, determines to be relevant. Each probability of causation shall be calculated and displayed as a single percentage figure.
 
 “(2) At the time the Secretary of Health and Human Services publishes the tables pursuant to paragraph (1), such Secretary shall also publish—
 

@@ -20,7 +20,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;&emsp;(ii) which is registered as a clearing agency under the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], or is exempt from such registration by order of the Securities and Exchange Commission; or
 
-&emsp;&emsp;(B) that is registered as a derivatives clearing organization under section 7a–1 of title 7, that has been granted an exemption under section 6(c)(1) of title 7, or that is a multilateral clearing organization (as defined in section 4421 of this title).
+&emsp;&emsp;(B) that is registered as a derivatives clearing organization under section 7a–1 of title 7, that has been granted an exemption under section 6(c)(1) of title 7, or that is a multilateral clearing organization (as defined in section 4421 <sup>1</sup> of this title).
 
 #### (3) Covered clearing obligation
 
@@ -74,7 +74,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;(B) has commenced or had commenced against it insolvency, liquidation, reorganization, receivership (including the appointment of a receiver), conservatorship, or similar proceedings, or
 
-&emsp;&emsp;(C) has generally ceased to meet its obligations when dud.
+&emsp;&emsp;(C) has generally ceased to meet its obligations when due.
 
 #### (9) Financial institution
 
@@ -120,13 +120,15 @@ For purposes of this subchapter—
 
 This title, referred to in par. (1)(B), means title IV of Pub. L. 102–242, Dec. 19, 1991, 105 Stat. 2371. For complete classification of title IV to the Code, see Tables.
 
-The Securities Exchange Act of 1934, referred to in par. (2)(A)(ii), is act June 6, 1934, ch. 404, 48 Stat. 881, asamended, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
+The Securities Exchange Act of 1934, referred to in par. (2)(A)(ii), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
+
+Section 4421 of this title, referred to in par. (2)(B), was repealed by Pub. L. 111–203, title VII, §740, July 21, 2010, 124 Stat. 1729.
 
 Section 25(a) of the Federal Reserve Act, referred to in par. (6), which is classified to subchapter II (§611 et seq.) of chapter 6 of this title, was renumbered section 25A of that act by Pub. L. 102–242, title I, §142(e)(2), Dec. 19, 1991, 105 Stat. 2281. Section 25 of the Federal Reserve Act is classified to subchapter I (§601 et seq.) of chapter 6 of this title.
 
 #### Amendments
 
-2005—Par. (2)(A)(ii). Pub. L. 109–8, §906(a)(1)(A), inserted before semicolon “, or is exempt from such registration by order of the Securities and Exchange Commission”.
+<b>2005</b>—Par. (2)(A)(ii). Pub. L. 109–8, §906(a)(1)(A), inserted before semicolon “, or is exempt from such registration by order of the Securities and Exchange Commission”.
 
 Par. (2)(B). Pub. L. 109–8, §906(a)(1)(B), inserted before period at end “, that has been granted an exemption under section 6(c)(1) of title 7, or that is a multilateral clearing organization (as defined in section 4421 of this title)”.
 
@@ -146,11 +148,11 @@ Par. (14)(A)(i). Pub. L. 109–8, §906(a)(4), amended cl. (i) generally. Prior 
 
 Par. (15). Pub. L. 109–8, §906(a)(5), added par. (15).
 
-2000—Pub. L. 106–554, §1(a)(5) \[title I, §112(a)(2)\], substituted “this subchapter” for “this chapter” in introductory provisions.
+<b>2000</b>—Pub. L. 106–554, §1(a)(5) \[title I, §112(a)(2)\], substituted “this subchapter” for “this chapter” in introductory provisions.
 
 Par. (2)(B). Pub. L. 106–554, §1(a)(5) \[title I, §123(b)\], added subpar. (B) and struck out former subpar. (B) which read as follows: “that performs clearing functions for a contract market designated pursuant to the Commodity Exchange Act.”
 
-1992—Par. (14)(B). Pub. L. 102–550 substituted “Federal law” for “Federal commodities law”.
+<b>1992</b>—Par. (14)(B). Pub. L. 102–550 substituted “Federal law” for “Federal commodities law”.
 
 #### Effective Date of 2005 Amendment
 

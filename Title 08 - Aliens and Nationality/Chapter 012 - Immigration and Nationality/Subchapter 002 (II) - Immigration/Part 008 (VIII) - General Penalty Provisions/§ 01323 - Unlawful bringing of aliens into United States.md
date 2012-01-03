@@ -32,7 +32,7 @@ This chapter, referred to in subsec. (a)(1), was in the original, “this Act”
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–208, §308(c)(3), designated existing provisions as par. (1) and added par. (2).
+<b>1996</b>—Subsec. (a). Pub. L. 104–208, §308(c)(3), designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (b). Pub. L. 104–208, §671(b)(7), made technical amendment to directory language of Pub. L. 103–416, §209(a)(1). See 1994 Amendment note below.
 
@@ -42,7 +42,7 @@ Subsec. (d). Pub. L. 104–208, §371(b)(8), substituted “immigration judges�
 
 Pub. L. 104–208, §308(e)(13), struck out subsec. (d) which read as follows: “The owner, charterer, agent, consignee, commanding officer, or master of any vessel or aircraft arriving at the United States from any place outside the United States who fails to deport any alien stowaway on the vessel or aircraft on which such stowaway arrived or on another vessel or aircraft at the expense of the vessel or aircraft on which such stowaway arrived when required to do so by an immigration officer, shall pay to the Commissioner a fine of $3,000 for each alien stowaway, in respect of whom any such failure occurs. Pending final determination of liability for such fine, no such vessel or aircraft shall be granted clearance, except that clearance may be granted upon the deposit of an amount sufficient to cover such fine,or of a bond with sufficient surety to secure the payment thereof approved by the Commissioner. The provisions of section 1225 of this title for detention of aliens for examination before immigration judges and the right of appeal provided for in section 1226 of this title shall not apply to aliens who arrive as stowaways and no such alien shall be permitted to land in the United States, except temporarily for medical treatment, or pursuant to such regulations as the Attorney General may prescribe for the ultimate departure or removal or deportation of such alien from the United States.”
 
-1994—Subsec. (b). Pub. L. 103–416, §219(p), in first sentence substituted “Commissioner” for “collector of customs” before “to the alien”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–416, §219(p), in first sentence substituted “Commissioner” for “collector of customs” before “to the alien”.
 
 Pub. L. 103–416, §209(a)(1), as amended by Pub. L. 104–208, §671(b)(7), substituted “a fine of $3,000” for “the sum of $3,000”.
 
@@ -58,9 +58,9 @@ Pub. L. 103–416, §209(a)(3), in second sentence substituted “an amount” f
 
 Subsec. (e). Pub. L. 103–416, §209(a)(6), added subsec. (e).
 
-1991—Subsec. (b). Pub. L. 102–232 substituted “Commissioner” for “collector of customs” before period at end of second sentence.
+<b>1991</b>—Subsec. (b). Pub. L. 102–232 substituted “Commissioner” for “collector of customs” before period at end of second sentence.
 
-1990—Subsec. (a). Pub. L. 101–649, §201(b)(1), inserted “a valid passport and” before “an unexpired visa”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–649, §201(b)(1), inserted “a valid passport and” before “an unexpired visa”.
 
 Subsec. (b). Pub. L. 101–649, §543(a)(10)(A), substituted “Commissioner the sum of $3,000” for “collector of customs of the customs district in which the port of arrival is located the sum of $1,000”.
 

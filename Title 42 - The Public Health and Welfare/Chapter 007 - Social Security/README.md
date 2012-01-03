@@ -140,6 +140,14 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### subpart 3—common provisions
+
+|  |  |
+| :--- | ---: |
+| [629m.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20B%20-%20Child%20and%20Family%20Services/Subpart%20003%20-%20Common%20Provisions/%C2%A7%2000629m%20-%20Data%20standardization%20for%20improved%20data%20matching.md) | Data standardization for improved data matching. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Part C—Work Incentive Program for Recipients of Aid Under State Plan Approved Under Part A
 
 |  |  |
@@ -416,9 +424,9 @@
 |  |  |
 | :--- | ---: |
 | [1320c.](Subchapter%20011%20%28XI%29%20-%20General%20Provisions%2C%20Peer%20Review%2C%20and%20Administrative%20Simplification/Part%20B%20-%20Peer%20Review%20of%20Utilization%20and%20Quality%20of%20Health%20Care%20Services/%C2%A7%2001320c%20-%20Purpose.md) | Purpose. |
-| 1320c–1. | “Utilization and quality control peer review organization” defined. |
-| 1320c–2. | Contracts with utilization and quality control peer review organizations. |
-| 1320c–3. | Functions of peer review organizations. |
+| 1320c–1. | Definition of quality improvement organization. |
+| 1320c–2. | Contracts with quality improvement organizations. |
+| 1320c–3. | Functions of quality improvement organizations. |
 | 1320c–4. | Right to hearing and judicial review. |
 | 1320c–5. | Obligations of health care practitioners and providers of health care services; sanctions and penalties; hearings and review. |
 | 1320c–6. | Limitation on liability. |
@@ -427,7 +435,7 @@
 | 1320c–9. | Prohibition against disclosure of information. |
 | 1320c–10. | Annual reports. |
 | 1320c–11. | Exemptions for religious nonmedical health care institutions. |
-| 1320c–12. | Medical officers in American Samoa, Northern Mariana Islands, and Trust Territory of Pacific Islands to be included in utilization and quality control peer review program. |
+| 1320c–12. | Medical officers in American Samoa, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands to be included in the quality improvement program. |
 | 1320c–13 to 1320c–22. Repealed or Omitted. |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -726,7 +734,7 @@
 | [1395nn.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395nn%20-%20Limitation%20on%20certain%20physician%20referrals.md) | Limitation on certain physician referrals. |
 | 1395<i>oo.</i> | Provider Reimbursement Review Board. |
 | [1395pp.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395pp%20-%20Limitation%20on%20liability%20where%20claims%20are%20disallowed.md) | Limitation on liability where claims are disallowed. |
-| [1395qq.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395qq%20-%20Indian%20Health%20Service%20Facilities.md) | Indian Health Service Facilities. |
+| [1395qq.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395qq%20-%20Indian%20Health%20Service%20facilities.md) | Indian Health Service facilities. |
 | [1395rr.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395rr%20-%20End%20stage%20renal%20disease%20program.md) | End stage renal disease program. |
 | 1395rr–1. | Medicare coverage for individuals exposed to environmental health hazards. |
 | [1395ss.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395ss%20-%20Certification%20of%20medicare%20supplemental%20health%20insurance%20policies.md) | Certification of medicare supplemental health insurance policies. |

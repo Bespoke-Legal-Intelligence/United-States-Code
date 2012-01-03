@@ -16,7 +16,7 @@
 
 (b)(1) An officer in a grade below brigadier general or rear admiral (lower half) who is recommended for early retirement under this section or section 638a of this title and whose early retirement is approved by the Secretary concerned shall—
 
-&emsp;(A) be retired, under any provision of law under which he is eligible to retire, on the date requested by him and approved by the Secretary concerned, which date shall be not later than the first day of the seventh calendar month beginning after the month in which the Secretary concerned approves the report of the board which recommended the officer for early retirement; or
+&emsp;(A) be retired, under any provision of law under which he is eligible to retire, on the date requested by him and approved by the Secretary concerned, which date shall be notlater than the first day of the seventh calendar month beginning after the month in which the Secretary concerned approves the report of the board which recommended the officer for early retirement; or
 
 &emsp;(B) if the officer is not eligible for retirement under any provision of law, be retained on active duty until he is qualified for retirement under section 3911, 6323, or 8911 of this title, and then be retired under that section, unless he is sooner retired or discharged under some other provision of law.
 
@@ -30,7 +30,7 @@
 
 (e)(1) The Secretary of Defense shall prescribe regulations for the administration of this section.
 
-(2)(A) Such regulations shall require that when the Secretary of the military departmentconcerned submits a list of officers to a selection board convened under section 611(b) of this title to consider officers for selection for early retirement under this section, such list (except as provided in subparagraph (B)) shall include each officer on the active-duty list in the same grade and competitive category whose position on the active-duty list is between that of the most junior officer in that grade and competitive category whose name is submitted to the board and that of the most senior officer in that grade and competitive category whose name is submitted to the board.
+(2)(A) Such regulations shall require that when the Secretary of the military department concerned submits a list of officers to a selection board convened under section 611(b) of this title to consider officers for selection for early retirement under this section, such list (except as provided in subparagraph (B)) shall include each officer on the active-duty list in the same grade and competitive category whose position on the active-duty list is between that of the most junior officer in that grade and competitive category whose name is submitted to the board and that of the most senior officer in that grade and competitive category whose name is submitted to the board.
 
 (B) A list under subparagraph (A) may not include an officer in that grade and competitive category (i) who has been approved for voluntary retirement under section 3911, 6323, or 8911 of this title, or (ii) who is to be involuntarily retired under any provision of law during the fiscal year in which the selection board is convened or during the following fiscal year.
 

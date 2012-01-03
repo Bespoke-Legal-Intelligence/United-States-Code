@@ -46,7 +46,7 @@ For purposes of section 46, the qualifying advanced energy project credit for an
 
 #### (B) Exception
 
-&emsp;&emsp;Such term shall not include any portion of a project for the production of any propertywhich is used in the refining or blending of any transportation fuel (other than renewable fuels).
+&emsp;&emsp;Such term shall not include any portion of a project for the production of any property which is used in the refining or blending of any transportation fuel (other than renewable fuels).
 
 #### (2) Eligible property
 

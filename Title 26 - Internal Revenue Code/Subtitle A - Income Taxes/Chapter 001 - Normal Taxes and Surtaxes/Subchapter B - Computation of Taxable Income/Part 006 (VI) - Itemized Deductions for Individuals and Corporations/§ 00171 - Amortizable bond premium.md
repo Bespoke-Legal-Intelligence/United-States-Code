@@ -10,7 +10,7 @@ In the case of any bond, as defined in subsection (d), the following rules shall
 
 #### (2) Tax-exempt bonds
 
-&emsp;In the case of any bond the interest on which is excludable from gross income, no deductionshall be allowed for the amortizable bond premium for the taxable year.
+&emsp;In the case of any bond the interest on which is excludable from gross income, no deduction shall be allowed for the amortizable bond premium for the taxable year.
 
 #### (3) Cross reference
 
@@ -48,7 +48,7 @@ In the case of any bond, as defined in subsection (d), the following rules shall
 
 #### (B) Special rule where earlier call date is used
 
-&emsp;&emsp;For purposes of subparagraph (A), if the amount payable on an earlier call date is used under paragraph (1)(B)(ii) in determining the amortizable bond premium attributable to the period before the earlier call date, such bond shall be treated as maturing on such date for the amount so payable and then reissued on such date for the amount so payable.
+&emsp;&emsp;For purposes of subparagraph (A), if the amount payable on an earlier call date isused under paragraph (1)(B)(ii) in determining the amortizable bond premium attributable to the period before the earlier call date, such bond shall be treated as maturing on such date for the amount so payable and then reissued on such date for the amount so payable.
 
 #### (4) Treatment of certain bonds acquired in exchange for other property
 
@@ -192,7 +192,7 @@ Section 1951(b)(5)(B) of Pub. L. 94–455 provided that: “Notwithstanding the 
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L.99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

@@ -10,11 +10,11 @@ The Secretary of the Interior, with respect to lands added or transferred by thi
 
 #### (c) Transfer of certain areas by the Bureau of Land Management
 
-The Federal lands within the administrative jurisdiction of the Bureau of Land Management and within the areas referred to as E–2 and GL–3 on the map referred to in subsection (a) of this section shall be transferred to Rocky Mountain National Park without transfer of funds.
+The Federal lands within the administrative jurisdiction of the Bureau of Land Management and within the areas referred to as E–2 and GL–3on the map referred to in subsection (a) of this section shall be transferred to Rocky Mountain National Park without transfer of funds.
 
 #### (d) City of Longmont, Colorado; retention of certain areas for the development of a reservoir
 
-If the city of Longmont, Colorado, notifies the Secretary of the Interior that lands within the area referred to as E–8 on the map referred to insubsection (a) of this section that are owned by such city are necessary for the development of a reservoir, the Secretary shall by publication of a revised boundary description in the Federal Register revise the boundary of Rocky Mountain Park within such area to exclude the lands which are necessary for the development of the reservoir: <i>Provided</i>, That the authority of such Secretary to revise the boundary for this purpose shall expire on November 1, 1981; and the only lands which may be excluded are the approximately one hundred twenty-nine acres owned by such city.
+If the city of Longmont, Colorado, notifies the Secretary of the Interior that lands within the area referred to as E–8 on the map referred to in subsection (a) of this section that are owned by such city are necessary for the development of a reservoir, the Secretary shall by publication of a revised boundary description in the Federal Register revise the boundary of Rocky Mountain Park within such area to exclude the lands which are necessary for the development of the reservoir: <i>Provided</i>, That the authority of such Secretary to revise the boundary for this purpose shall expire on November 1, 1981; and the only lands which may be excluded are the approximately one hundred twenty-nine acres owned by such city.
 
 #### (e) Old McGregor Ranch; retention by owners
 

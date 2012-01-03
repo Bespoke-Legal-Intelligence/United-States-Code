@@ -114,7 +114,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (g). Pub. L. 110–246, §11001(a)(1), amended subsec. (g) generally. Prior to amendment, text read as follows: “The Secretary shall, to the maximum extent practicable, provide for the reporting and publishing of the information required under this subchapter by electronic means.”
+<b>2008</b>—Subsec. (g). Pub. L. 110–246, §11001(a)(1), amended subsec. (g) generally. Prior to amendment, text read as follows: “The Secretary shall, to the maximum extent practicable, provide for the reporting and publishing of the information required under this subchapter by electronic means.”
 
 #### Effective Date of 2008 Amendment
 

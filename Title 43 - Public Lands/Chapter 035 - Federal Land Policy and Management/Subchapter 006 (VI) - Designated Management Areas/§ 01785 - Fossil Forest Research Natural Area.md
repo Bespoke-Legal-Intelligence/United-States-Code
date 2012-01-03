@@ -74,7 +74,7 @@ Not later than 3 full fiscal years after November 12, 1996, the Secretary of the
 
 &emsp;&emsp;(C) procedures for the excavation and collection of fossil remains, including botanical fossils, and the use of motorized and mechanical equipment to the minimum extent necessary to accomplish an individual scientific project; and
 
-&emsp;&emsp;(D) mitigation and reclamation standards for activities that disturb the surface to thedetriment of scenic and environmental values.
+&emsp;&emsp;(D) mitigation and reclamation standards for activities that disturb the surface to the detriment of scenic and environmental values.
 
 (Pub. L. 98–603, title I, §103, Oct. 30, 1984, 98 Stat. 3156; Pub. L. 104–333, div. I, title X, §1022(e), Nov. 12, 1996, 110 Stat. 4213; Pub. L. 106–176, title I, §124, Mar. 10, 2000, 114 Stat. 30.)
 
@@ -82,7 +82,7 @@ Not later than 3 full fiscal years after November 12, 1996, the Secretary of the
 
 This Act, referred to in subsecs. (b)(2) and (c)(1)(B), is Pub. L. 98–603, Oct. 30, 1984, 98 Stat. 3155, as amended, known as the San Juan Basin Wilderness Protection Act of 1984. For complete classification of this Act to the Code, see Tables.
 
-The Federal Land Policy and Management Act of 1976, as amended, referred to in subsec. (c)(1)(B), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of this title and Tables.
+The Federal Land Policy and Management Act of 1976, as amended, referred to in subsec. (c)(1)(B), is Pub.L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of this title and Tables.
 
 #### Codification
 

@@ -64,7 +64,7 @@ In its dealings with its affiliate described in subsection (a) of this section, 
 
 &emsp;&emsp;(A) the independent auditor, the Commission, and the State commission shall have access to the financial accounts and records of each company and of its affiliates necessary to verify transactions conducted with that company that are relevant to the specific activities permitted under this section and that are necessary for the regulation of rates;
 
-&emsp;&emsp;(B) the Commission and the State commission shall have access to the working papersand supporting materials of any auditor who performs an audit under this section; and
+&emsp;&emsp;(B) the Commission and the State commission shall have access to the working papers and supporting materials of any auditor who performs an audit under this section; and
 
 &emsp;&emsp;(C) the State commission shall implement appropriate procedures to ensure the protection of any proprietary information submitted to it under this section.
 
@@ -113,4 +113,8 @@ A Bell operating company and an affiliate that is subject to the requirements of
 With respect to any activity in which a Bell operating company is engaged on February 8, 1996, such company shall have one year from February 8, 1996, to comply with the requirements of this section.
 
 (June 19, 1934, ch. 652, title II, §272, as added Pub. L. 104–104, title I, §151(a), Feb. 8, 1996, 110 Stat. 92.)
+
+#### References in Text
+
+This chapter, referred to in subsec. (f)(3), was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 

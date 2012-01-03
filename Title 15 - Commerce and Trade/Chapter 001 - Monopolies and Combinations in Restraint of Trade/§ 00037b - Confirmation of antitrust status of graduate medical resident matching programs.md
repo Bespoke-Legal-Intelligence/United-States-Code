@@ -58,7 +58,7 @@
 
 #### (2) Confirmation of antitrust status
 
-&emsp;It shall not be unlawful under the antitrust laws to sponsor, conduct, or participate in agraduate medical education residency matching program, or to agree to sponsor, conduct, or participate in such a program. Evidence of any of the conduct described in the preceding sentence shall not be admissible in Federal court to support any claim or action alleging a violation of the antitrust laws.
+&emsp;It shall not be unlawful under the antitrust laws to sponsor, conduct, or participate in a graduate medical education residency matching program, or to agree to sponsor, conduct, or participate in such a program. Evidence of any of the conduct described in the preceding sentence shall not be admissible in Federal court to support any claim or action alleging a violation of the antitrust laws.
 
 #### (3) Applicability
 

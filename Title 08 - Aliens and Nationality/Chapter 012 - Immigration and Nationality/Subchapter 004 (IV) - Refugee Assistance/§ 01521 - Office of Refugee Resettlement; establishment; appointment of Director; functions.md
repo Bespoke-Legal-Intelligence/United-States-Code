@@ -8,7 +8,7 @@
 
 #### Amendments
 
-1994—Subsec. (b). Pub. L. 103–236 substituted “the Secretary of State” for “and under the general policy guidance of the United States Coordinator for Refugee Affairs (hereinafter in this subchapter referred to as the ‘Coordinator’)”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–236 substituted “the Secretary of State” for “and under the general policy guidance of the United States Coordinator for Refugee Affairs (hereinafter in this subchapter referred to as the ‘Coordinator’)”.
 
 #### Effective Date of 1994 Amendment
 

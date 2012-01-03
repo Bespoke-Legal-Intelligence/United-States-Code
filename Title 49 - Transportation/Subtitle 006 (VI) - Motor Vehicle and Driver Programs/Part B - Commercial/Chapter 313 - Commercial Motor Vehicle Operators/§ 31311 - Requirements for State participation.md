@@ -28,7 +28,7 @@ General.—To avoid having amounts withheld from apportionment under section 313
 
 > &emsp;the State in which the violation occurred shall notify a State official designated by the issuing State of the violations not later than 10 days after the date the individual is found to have committed the violation.
 
-&emsp;(10)(A) The State may not issue a commercial driver's license to an individual during a period in which the individual is disqualified from operating a commercial motor vehicle or the individual's driver's license is revoked, suspended, or canceled.
+&emsp;(10)(A) The State may not issue a commercial driver's license to an individual during a period in which the individual is disqualifiedfrom operating a commercial motor vehicle or the individual's driver's license is revoked, suspended, or canceled.
 
 &emsp;(B) The State may not issue a special license or permit (including a provisional or temporary license) to an individual who holds a commercial driver's license that permits the individual to drive a commercial motor vehicle during a period in which—
 

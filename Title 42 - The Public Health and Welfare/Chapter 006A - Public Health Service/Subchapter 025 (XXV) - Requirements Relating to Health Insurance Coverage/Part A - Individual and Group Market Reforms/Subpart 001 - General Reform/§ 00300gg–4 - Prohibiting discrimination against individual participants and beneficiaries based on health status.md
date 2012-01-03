@@ -60,7 +60,7 @@ A group health plan and a health insurance issuer offering group or individual h
 
 #### (A) In general
 
-&emsp;&emsp;Nothing in paragraph (1) shall be construed to preclude a group health plan, or a health insurance issuer offering health insurance coverage in connection with a group health plan, from obtaining and using the results of a genetic test in making a determination regarding payment (as such term is defined for the purposes of applying the regulations promulgated by the Secretary under part C of title XI of the Social Security Act \[42 U.S.C. 1320d et seq.\] and section 264 of the Health Insurance Portability and Accountability Act of 1996, as may be revised from time to time) consistent with subsection (a).
+&emsp;&emsp;Nothing in paragraph (1) shall be construed to preclude a group health plan, or a health insurance issuer offering health insurance coverage in connection with a group health plan, from obtaining and using the results of a genetic test in making a determination regarding payment (as such term is defined for the purposes of applying theregulations promulgated by the Secretary under part C of title XI of the Social Security Act \[42 U.S.C. 1320d et seq.\] and section 264 of the Health Insurance Portability and Accountability Act of 1996, as may be revised from time to time) consistent with subsection (a).
 
 #### (B) Limitation
 
@@ -124,7 +124,7 @@ Any reference in this part to genetic information concerning an individual or fa
 
 #### (C) Conditions based on health status factor
 
-&emsp;&emsp;If any of the conditions for obtaining a premium discount or rebate or other reward for participation in a wellness program is based on an individual satisfying a standard that is related to a health status factor, such wellness program shall not violate this section if the requirements of paragraph (3) are complied with.
+&emsp;&emsp;If any of the conditions for obtaining a premium discount or rebate or other reward for participation in a wellness program is based on an individual satisfying a standard that is related to a health status factor,such wellness program shall not violate this section if the requirements of paragraph (3) are complied with.
 
 #### (2) Wellness programs not subject to requirements
 
@@ -148,7 +148,7 @@ Any reference in this part to genetic information concerning an individual or fa
 
 &emsp;&emsp;(B) The wellness program shall be reasonably designed to promote health or prevent disease. A program complies with the preceding sentence if the program has a reasonable chance of improving the health of, or preventing disease in, participating individuals and it is not overly burdensome, is not a subterfuge for discriminating based on a health status factor, and is not highly suspect in the method chosen to promote health or prevent disease.
 
-&emsp;&emsp;(C) The plan shall give individuals eligible for the program the opportunity to qualifyfor the reward under the program at least once each year.
+&emsp;&emsp;(C) The plan shall give individuals eligible for the program the opportunity to qualify for the reward under the program at least once each year.
 
 &emsp;&emsp;(D) The full reward under the wellness program shall be made available to all similarly situated individuals. For such purpose, among other things:
 
@@ -164,7 +164,7 @@ Any reference in this part to genetic information concerning an individual or fa
 
 #### (k) Existing programs
 
-Nothing in this section shall prohibit a program of health promotion or disease prevention that was established prior to March 23, 2010, and applied with all applicable regulations, and that is operating on such date, from continuing to be carried out for as long as such regulations remain in effect.
+Nothing in this section shall prohibit a program of health promotion or disease prevention that was established prior to March 23, 2010, and applied with all applicable regulations, and thatis operating on such date, from continuing to be carried out for as long as such regulations remain in effect.
 
 #### (<i>l</i>) Wellness program demonstration project
 
@@ -216,7 +216,7 @@ Nothing in this section shall prohibit a program of health promotion or disease 
 
 &emsp;&emsp;(B) the impact of such wellness programs on the access to care and affordability of coverage for participants and non-participants of such programs;
 
-&emsp;&emsp;(C) the impact of premium-based and cost-sharing incentives on participant behaviorand the role of such programs in changing behavior; and
+&emsp;&emsp;(C) the impact of premium-based and cost-sharing incentives on participant behavior and the role of such programs in changing behavior; and
 
 &emsp;&emsp;(D) the effectiveness of different types of rewards.
 
@@ -244,7 +244,7 @@ Section 300gg–21(a) of this title, referred to in subsec. (e), was in the orig
 
 #### Codification
 
-The text of section 300gg–1 of this title, which was amended and transferred to subsecs. (b) to (f) of this section by Pub. L. 111–148, §1201(3), was based on act July 1, 1944, ch. 373, title XXVII, §2702, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1961; amended Pub. L. 110–233, title I, §102(a)(1)–(3), May 21, 2008, 122 Stat. 888, 890. For text of section 300gg–1 prior to amendment and transfer by Pub. L. 111–148, see Prior Provisions note under section 300gg–1 of this title.
+The text of section 300gg–1 of this title, which was amended and transferred to subsecs. (b) to (f) of thissection by Pub. L. 111–148, §1201(3), was based on act July 1, 1944, ch. 373, title XXVII, §2702, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1961; amended Pub. L. 110–233, title I, §102(a)(1)–(3), May 21, 2008, 122 Stat. 888, 890. For text of section 300gg–1 prior to amendment and transfer by Pub. L. 111–148, see Prior Provisions note under section 300gg–1 of this title.
 
 #### Prior Provisions
 
@@ -256,7 +256,7 @@ Another prior section 2705 of act July 1, 1944, was successively renumbered by s
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–148, §1201(3), transferred section 300gg–1 of this title to subsecs. (d) to (f) of this section after amending it by striking out the section catchline “Prohibiting discrimination against individual participants and beneficiaries based on health status”, by striking subsec. (a) which prohibited discrimination against individual participants in group health plans based on certain health status-related factors, by amending subsec. (b) by substituting “health insurance issuer offering group or individual health insurance coverage” for “health insurance issuer offering health insurance coverage in connection with a group health plan” in pars. (1) and (3)(B) and by inserting “or individual” after “employer” and “or individual health coverage, as the case may be” before semicolon in par. (2)(A), and by amending subsec. (e) by substituting “(a)(6)” for “(a)(1)(F)” and “300gg–3” for “300gg” and making technical amendment to reference in original act which appears in text as reference to section 300gg–21(a) of this title.
+<b>2010</b>—Pub. L. 111–148, §1201(3), transferred section 300gg–1 of this title to subsecs. (b) to (f) of this section after amending it by striking out the section catchline “Prohibiting discrimination against individual participants and beneficiaries based on health status”, by striking subsec. (a) which prohibited discrimination against individual participants in group health plans based on certain health status-related factors, by amending subsec. (b) by substituting “health insurance issuer offering group or individual health insurance coverage” for “health insurance issuer offering health insurance coverage in connection with a group health plan” in pars. (1) and (3)(B) and by inserting “or individual” after “employer” and “or individual health coverage, as the case may be” before semicolon in par. (2)(A), and by amending subsec. (e) by substituting “(a)(6)” for “(a)(1)(F)” and “300gg–3” for “300gg” and making technical amendment to reference in original act which appears in text as reference to section 300gg–21(a) of this title.
 
 #### Effective Date
 

@@ -30,7 +30,7 @@ Section 4201 of this title, referred to in subsec. (a), was in the original “s
 
 #### Amendments
 
-2004—Subsec. (a)(5). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (a)(5). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

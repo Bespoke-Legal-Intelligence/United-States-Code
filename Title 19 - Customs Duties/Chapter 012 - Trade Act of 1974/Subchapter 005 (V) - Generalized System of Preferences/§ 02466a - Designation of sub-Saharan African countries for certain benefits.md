@@ -22,7 +22,7 @@
 
 #### (1) In general
 
-&emsp;The President may provide duty-free treatment for any article described in section 2463(b)(1)(B) through (G) of this title that isthe growth, product, or manufacture of a beneficiary sub-Saharan African country described in subsection (a) of this section, if, after receiving the advice of the International Trade Commission in accordance with section 2463(e) of this title, the President determines that such article is not import-sensitive in the context of imports from beneficiary sub-Saharan African countries.
+&emsp;The President may provide duty-free treatment for any article described in section 2463(b)(1)(B) through (G) of this title that is the growth, product, or manufacture of a beneficiary sub-Saharan African country described in subsection (a) of this section, if, after receiving the advice of the International Trade Commission in accordance with section 2463(e) of this title, the President determines that such article is not import-sensitive in the context of imports from beneficiary sub-Saharan African countries.
 
 #### (2) Rules of origin
 

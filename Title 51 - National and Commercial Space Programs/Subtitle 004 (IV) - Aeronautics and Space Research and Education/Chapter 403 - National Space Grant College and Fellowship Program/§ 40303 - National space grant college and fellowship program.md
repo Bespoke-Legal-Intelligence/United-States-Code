@@ -1,0 +1,52 @@
+### §40303. National space grant college and fellowship program
+
+(a)
+
+Establishment.—The Administrator shall establish and maintain, within the Administration, a program to be known as the national space grant college and fellowship program. The national space grant college and fellowship program shall consist of the financial assistance and other activities provided for in this chapter. The Administrator shall establish long-range planning guidelines and priorities, and adequately evaluate the program.
+
+(b)
+
+Functions.—Within the Administration, the program shall—
+
+&emsp;(1) apply the long-range planning guidelines and the priorities established by the Administrator under subsection (a);
+
+&emsp;(2) advise the Administrator with respect to the expertise and capabilities which are available through the national space grant collegeand fellowship program, and make such expertise available to the Administration as directed by the Administrator;
+
+&emsp;(3) evaluate activities conducted under grants and contracts awarded pursuant to sections 40304 and 40305 of this title to ensure that the purposes set forth in section 40301 of this title are implemented;
+
+&emsp;(4) encourage other Federal departments, agencies, and instrumentalities to use and take advantage of the expertise and capabilities which are available through the national space grant college and fellowship program, on a cooperative or other basis;
+
+&emsp;(5) encourage cooperation and coordination with other Federal programs concerned with the development of space resources and fields related to space;
+
+&emsp;(6) advise the Administrator on the designation of recipients supported by the national space grant college and fellowship program and, in appropriate cases, on the termination or suspension of any such designation; and
+
+&emsp;(7) encourage the formation and growth of space grant and fellowship programs.
+
+(c)
+
+General Authorities.—To carry out the provisions of this chapter, the Administrator may—
+
+&emsp;(1) accept conditional or unconditional gifts or donations of services, money, or property, real, personal or mixed, tangible or intangible;
+
+&emsp;(2) accept and use funds from other Federal departments, agencies, and instrumentalities to pay for fellowships, grants, contracts, and other transactions; and
+
+&emsp;(3) issue such rules and regulations as may be necessary and appropriate.
+
+(Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3383.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+40303
+
+42 U.S.C. 2486c.
+
+Pub. L. 100–147, title II, §205, Oct. 30, 1987, 101 Stat. 871.
+

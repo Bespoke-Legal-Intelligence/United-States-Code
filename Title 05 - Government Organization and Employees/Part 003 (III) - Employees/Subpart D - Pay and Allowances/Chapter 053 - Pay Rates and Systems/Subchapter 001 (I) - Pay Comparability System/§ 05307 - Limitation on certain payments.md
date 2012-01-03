@@ -26,13 +26,13 @@
 
 (3)(A) The Office of Personnel Management and the Office of Management and Budget jointly shall promulgate such regulations as may be necessary to carry out this subsection, including the criteria and procedures in accordance with which any determinations under this subsection shall be made.
 
-(B) The certification of an agency performance appraisal system under this subsection shall befor a period not to exceed 24 months beginning on the date of certification, unless extended by the Director of the Office of Personnel Management for up to 6 additional months, except that such certification may be terminated at any time upon a finding that the actions of such agency have not remained in conformance with applicable requirements.
+(B) The certification of an agency performance appraisal system under this subsection shall be for a period not to exceed 24 months beginning on the date of certification, unless extended by the Director of the Office of Personnel Management for up to 6 additional months, except that such certification may be terminated at any time upon a finding that the actions of such agency have not remained in conformance with applicable requirements.
 
 (C) Any certification or decertification under this subsection shall be made by the Office of Personnel Management, with the concurrence of the Office of Management and Budget.
 
 (4) Notwithstanding any provision of paragraph (3), any regulations, certifications, or other measures necessary to carry out this subsection with respect to employees within the judicial branch shall be the responsibility of the Director of the Administrative Office of the United States Courts. However, the regulations under this paragraph shall be consistent with those promulgated under paragraph (3).
 
-(Added Pub. L. 91–656, §3(a), Jan. 8, 1971, 84 Stat. 1950; amended Pub. L. 97–258, §3(a)(10), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 101–509, title V, §529 \[title I, §101(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1438; Pub. L. 102–77, §2, July 26, 1991, 105 Stat. 369; Pub. L. 107–273, div. A, title II, §207(b), Nov. 2, 2002, 116 Stat. 1780; Pub. L. 107–296, title XIII, §1322, Nov. 25, 2002, 116 Stat. 2297; Pub. L. 110–372, §3(a), Oct. 8, 2008, 122 Stat. 4045.)
+(Added Pub. L. 91–656, §3(a), Jan. 8, 1971, 84 Stat. 1950; amended Pub. L. 97–258, §3(a)(10), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 101–509, title V, §529 \[title I, §101(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1438; Pub. L. 102–77, §2, July 26, 1991, 105 Stat. 369; Pub. L. 107–273, div. A, title II, §207(b), Nov. 2, 2002, 116 Stat. 1780; Pub. L. 107–296, title XIII,§1322, Nov. 25, 2002, 116 Stat. 2297; Pub. L. 110–372, §3(a), Oct. 8, 2008, 122 Stat. 4045.)
 
 #### References in Text
 
@@ -42,11 +42,11 @@ Section 5757, referred to in subsec. (a)(2)(B), probably means the section 5757 
 
 #### Amendments
 
-2008—Subsec. (d)(2). Pub. L. 110–372, §3(a)(1), substituted “applying the limitation in the calendar year involved, has a performance appraisal system certified under this subsection as making, in its design and application, meaningful distinctions based on relative performance” for “the calendar year involved, has been certified under this subsection as having a performance appraisal system which (as designed and applied) makes meaningful distinctions based on relative performance”.
+<b>2008</b>—Subsec. (d)(2). Pub. L. 110–372, §3(a)(1), substituted “applying the limitation in the calendar year involved, has a performance appraisal system certified under this subsection as making, in its design and application, meaningful distinctions based on relative performance” for “the calendar year involved, has been certified under this subsection as having a performance appraisal system which (as designed and applied) makes meaningful distinctions based on relative performance”.
 
 Subsec. (d)(3)(B). Pub. L. 110–372, §3(a)(2), substituted “The certification of an agency performance appraisal system under this subsection shall be for a period not to exceed 24 months beginning on the date of certification, unless extended by the Director of the Office of Personnel Management for up to 6 additional months” for “An agency's certification under this subsection shall be for a period of 2 calendar years” and struck out “, for purposes of either or both of those years,” after “time”.
 
-2002—Subsec. (a)(1). Pub. L. 107–296, §1322(b)(1), inserted “or as otherwise provided under subsection (d),” after “under law,”.
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–296, §1322(b)(1), inserted “or as otherwise provided under subsection (d),” after “under law,”.
 
 Subsec. (a)(2)(B). Pub. L. 107–273 substituted “5755, or 5757” for “or 5755”.
 
@@ -54,13 +54,13 @@ Subsec. (c). Pub. L. 107–296, §1322(b)(2), substituted “this section (subje
 
 Subsec. (d). Pub. L. 107–296, §1322(a), added subsec. (d).
 
-1991—Subsec. (a). Pub. L. 102–77, §2(1)–(3), designated existing provisions as par. (1), substituted “cause the” for “cause to the”, and added par. (2).
+<b>1991</b>—Subsec. (a). Pub. L. 102–77, §2(1)–(3), designated existing provisions as par. (1), substituted “cause the” for “cause to the”, and added par. (2).
 
 Subsec. (b)(3). Pub. L. 102–77, §2(4), struck out par. (3) which read as follows: “Paragraph (1) shall not apply to an amount if, or to the extent that, it is attributable to a payment the authority for which would derive from section 4505a(d), 5753(e), or 5754(e).”
 
-1990—Pub. L. 101–509 amended section generally, substituting provisions prohibiting cash payments to employees in excess of annual rate of basic pay payable for level I of Executive Schedule in a calendar year, for provisions authorizing adjustments in rates of pay, minimum or maximum rates of pay, and monetary limitations or allowances with respect to pay of certain Federal employees.
+<b>1990</b>—Pub. L. 101–509 amended section generally, substituting provisions prohibiting cash payments to employees in excess of annual rate of basic pay payable for level I of Executive Schedule in a calendar year, for provisions authorizing adjustments in rates of pay, minimum or maximum rates of pay, and monetary limitations or allowances with respect to pay of certain Federal employees.
 
-1982—Subsec. (a). Pub. L. 97–258 substituted “sections 1341, 1342, and 1349–1351 and subchapter II of chapter 15” for “section 665”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–258 substituted “sections 1341, 1342, and 1349–1351 and subchapter II of chapter 15” for “section 665”.
 
 #### Effective Date of 2008 Amendment
 
@@ -124,7 +124,7 @@ As a next step in this effort, I direct you to suspend cash awards, quality step
 
 In addition to these actions freezing discretionary payments, I have proposed in my Budget for Fiscal Year 2011 a salary freeze for senior political appointees throughout the Federal Government. Unlike the administrative action I have taken today in this memorandum, my proposed salary freeze requires legislation, so it cannot be implemented absent legislative action by the Congress.
 
-I appreciate the hard work of our Federal workforce, and understand how important these payments can be to many workers and their families. Yet like households and businesses across the country, we need to make tough choices about how to spend our funds.
+I appreciate the hard work of our Federal workforce, and understand how important these payments can beto many workers and their families. Yet like households and businesses across the country, we need to make tough choices about how to spend our funds.
 
 This memorandum shall be carried out to the extent permitted by law and consistent with executive departments’ and agencies’ legal authorities. Nothing in this memorandum shall be construed to affect payments or salary adjustments for Federal employees who are not political appointees. This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 

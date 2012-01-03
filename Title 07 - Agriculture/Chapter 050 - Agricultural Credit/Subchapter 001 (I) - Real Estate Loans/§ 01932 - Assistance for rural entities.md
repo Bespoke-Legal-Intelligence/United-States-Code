@@ -76,7 +76,7 @@ The Secretary may make grants to nonprofit organizations for the provision of re
 
 (1) The Secretary may participate in joint financing to facilitate development of private business enterprises in rural areas with the Economic Development Administration, the Small Business Administration, and the Department of Housing and Urban Development and other Federal and State agencies and with private and quasi-public financial institutions, through joint loans to applicants eligible under subsection (a) of this section for the purpose of improving, developing, or financing business, industry, and employment and improving the economic and environmental climate in rural areas or through joint grants to applicants eligible under subsection (c) of this section for such purposes, including in the case of loans or grants the development, construction, or acquisition of land, buildings, plants, equipment, access streets and roads, parking areas, utility extensions, necessary water supply and waste disposal facilities, refining, service and fees.
 
-(2) No financial or other assistance shall be extended under any provision of this section, except for cases in which such assistance does not exceed $1,000,000 or for cases in which direct employment will not be increased by more than fifty employees, that is calculated to or is likely to result in the transfer from one area to another of any employment or business activity provided by operations of the applicant, but this limitation shall not be construed to prohibit assistance for the expansion of an existing business entity through the establishment of a new branch, affiliate, or subsidiary of such entity if the establishment of such branch, affiliate, or subsidiary will not result in an increase in unemployment in the area of original location orin any other area where such entity conducts business operations unless there is reason to believe that such branch, affiliate, or subsidiary is being established with the intention of closing down the operations of the existing business entity in the area of its original location or in any other area where it conducts such operations.
+(2) No financial or other assistance shall be extended under any provision of this section, except for cases in which such assistance does not exceed $1,000,000 or for cases in which direct employment will not be increased by more than fifty employees, that is calculated to or is likely to result in the transfer from one area to another of any employment or business activity provided by operations of the applicant, but this limitation shall not be construed to prohibit assistance for the expansion of an existing business entity through the establishment of a new branch, affiliate, or subsidiary of such entity if the establishment of such branch, affiliate, or subsidiary will not result in an increase in unemployment in the area of original location or in any other area where such entity conducts business operations unless there is reason to believe that such branch, affiliate, or subsidiary is being established with the intention of closing down the operations of the existing business entity in the area of its original location or in any other area where it conducts such operations.
 
 (3) No financial or other assistance shall be extended under any provision of this section, except for cases in which such assistance does not exceed $1,000,000 or for cases in which direct employment will not be increased by more than fifty employees, which is calculated to or likely to result in an increase in the production of goods, materials, or commodities, or the availability of services or facilities in the area, when there is not sufficient demand for such goods, materials, commodities, services, or facilities, to employ the efficient capacity of existing competitive commercial or industrial enterprises, unless such financial or other assistance will not have an adverse effect upon existing competitive enterprises in the area.
 
@@ -184,7 +184,7 @@ The Secretary may make grants to nonprofit organizations for the provision of re
 
 #### (9) Grants to defray administrative costs
 
-&emsp;The Secretary may make grants to defray not to exceed 75 percent of the costs incurred by organizations and public bodies to carry out projects for which grants or loans are made under this subsection. For purposes of determining the non-Federal share of the costs, the Secretary shall consider contributions in cash and in kind, fairly evaluated, including premises, equipment, and services.
+&emsp;The Secretary may make grants to defray not to exceed 75 percent of the costs incurred by organizations and public bodies to carryout projects for which grants or loans are made under this subsection. For purposes of determining the non-Federal share of the costs, the Secretary shall consider contributions in cash and in kind, fairly evaluated, including premises, equipment, and services.
 
 #### (10) Cooperative research program
 
@@ -200,7 +200,7 @@ The Secretary may make grants to nonprofit organizations for the provision of re
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If the total amount appropriated under paragraph (12) for a fiscal year exceeds$7,500,000, the Secretary shall reserve an amount equal to 20 percent of the total amount appropriated for grants for cooperative development centers, individual cooperatives, or groups of cooperatives—
+&emsp;&emsp;&emsp;If the total amount appropriated under paragraph (12) for a fiscal year exceeds $7,500,000, the Secretary shall reserve an amount equal to 20 percent of the total amount appropriated for grants for cooperative development centers, individual cooperatives, or groups of cooperatives—
 
 &emsp;&emsp;&emsp;&emsp;(I) that serve socially disadvantaged groups; and
 
@@ -356,7 +356,7 @@ The Secretary may make grants to nonprofit organizations for the provision of re
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary shall make or guarantee loans to individuals, cooperatives, cooperative organizations, businesses, and other entities to establish and facilitate enterprises that process, distribute, aggregate, store, and market locally or regionally produced agricultural food products to support community development and farm and ranch income.
+&emsp;&emsp;&emsp;The Secretary shall make or guarantee loans to individuals, cooperatives, cooperative organizations, businesses, and other entities to establish and facilitate enterprises that process, distribute, aggregate,store, and market locally or regionally produced agricultural food products to support community development and farm and ranch income.
 
 #### (ii) Requirement
 
@@ -434,7 +434,7 @@ The Secretary may guarantee loans made under subsection (a) of this section to f
 
 Effective beginning on the date of enactment of this subsection through September 30, 2012, the Secretary shall carry out those rural economic area partnership zones administratively in effect on the date of enactment of this subsection in accordance with the terms and conditions contained in the memorandums of agreement entered into by the Secretary for the rural economic area partnership zones, except as otherwise provided in this subsection.
 
-(Pub. L. 87–128, title III, §310B, as added Pub. L. 92–419, title I, §118(a), Aug. 30, 1972, 86 Stat. 663; amended Pub. L. 91–524, title VIII, §817, as added Pub. L. 93–86, §1(27)(B), Aug. 10, 1973, 87 Stat. 241; Pub. L. 95–113, title XV, §1503(b), Sept. 29, 1977, 91 Stat. 1021; Pub. L. 95–334, title I, §112, Aug. 4, 1978, 92 Stat. 424; Pub. L. 96–358, §5, Sept. 25, 1980, 94 Stat. 1187; Pub. L. 96–438, §1(2), Oct. 13, 1980, 94 Stat. 1871; Pub. L. 99–409, §2, Aug. 28, 1986, 100 Stat. 923; Pub. L. 100–203, title I, §1504, Dec. 22, 1987, 101 Stat. 1330–28; Pub. L. 101–624, title XXIII, §§2325, 2337, 2347, formerly 2347(a), 2386, 2388(b), (c), Nov. 28, 1990, 104 Stat. 4013, 4022, 4034, 4051, 4052; Pub. L. 102–237, title VII, §701(c), (h)(1)(C), (D), Dec. 13, 1991, 105 Stat. 1879, 1880; Pub. L. 102–552, title V, §516(d), Oct. 28, 1992, 106 Stat. 4137; Pub. L. 102–554, §6, Oct. 28, 1992, 106 Stat. 4144; Pub. L. 104–127, title VI, §§635(b), 661(d), title VII, §§705(1), 747(a), 759B, Apr. 4, 1996, 110 Stat. 1093, 1107, 1112, 1125, 1138; Pub. L. 104–180, title VII, §731, Aug. 6, 1996, 110 Stat. 1600; Pub. L. 107–171, title VI, §§6007(b), 6013–6017, May 13, 2002, 116 Stat. 355, 358, 359; Pub. L. 110–234, title VI, §§6012(a), (b)(2), 6013–6017, May 22, 2008, 122 Stat. 1164–1169; Pub. L. 110–246, §4(a), title VI, §§6012(a), (b)(2), 6013–6017, June 18, 2008, 122 Stat. 1664, 1925, 1927–1931.)
+(Pub. L. 87–128, title III, §310B, as added Pub. L. 92–419, title I, §118(a), Aug. 30, 1972, 86 Stat. 663; amended Pub. L. 91–524, title VIII, §817, as added Pub. L. 93–86, §1(27)(B), Aug. 10, 1973, 87 Stat. 241; Pub. L. 95–113, title XV, §1503(b), Sept. 29, 1977, 91 Stat. 1021; Pub. L. 95–334, title I, §112, Aug. 4, 1978, 92 Stat. 424; Pub. L. 96–358, §5, Sept. 25, 1980, 94 Stat. 1187; Pub. L. 96–438, §1(2), Oct. 13, 1980, 94 Stat. 1871; Pub. L. 99–409, §2, Aug. 28, 1986, 100 Stat. 923; Pub. L. 100–203, title I, §1504, Dec. 22, 1987, 101 Stat. 1330–28; Pub. L. 101–624, title XXIII, §§2325, 2337, 2347, formerly 2347(a), 2386, 2388(b), (c), Nov. 28, 1990, 104 Stat. 4013, 4022, 4034, 4051, 4052; Pub. L. 102–237, title VII, §701(c), (h)(1)(C), (D), Dec. 13, 1991, 105 Stat. 1879, 1880; Pub. L. 102–552, title V, §516(d), Oct. 28, 1992, 106 Stat. 4137; Pub. L. 102–554, §6, Oct. 28, 1992, 106 Stat. 4144; Pub. L. 104–127, title VI, §§635(b), 661(d), title VII, §§705(1), 747(a), 759B, Apr. 4, 1996,110 Stat. 1093, 1107, 1112, 1125, 1138; Pub. L. 104–180, title VII, §731, Aug. 6, 1996, 110 Stat. 1600; Pub. L. 107–171, title VI, §§6007(b), 6013–6017, May 13, 2002, 116 Stat. 355, 358, 359; Pub. L. 110–234, title VI, §§6012(a), (b)(2), 6013–6017, May 22, 2008, 122 Stat. 1164–1169; Pub. L. 110–246, §4(a), title VI, §§6012(a), (b)(2), 6013–6017, June 18, 2008, 122 Stat. 1664, 1925, 1927–1931.)
 
 #### References in Text
 
@@ -444,7 +444,7 @@ For definition of “this chapter”, referred to in subsec. (d)(5), (7), see no
 
 Title V of the Housing Act of 1949, referred to in subsec. (d)(7), is title V of act July 15, 1949, ch. 338, 63 Stat. 432, as amended, which is classified generally to subchapter III (§1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the code, see References in Text note set out under section 1441 of Title 42 and Tables.
 
-The date of enactment of this paragraph and the date of enactment of this subsection, referred to in subsecs.\(g)(9)(B)(iv) and (j), respectively, is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
+The date of enactment of this paragraph and the date of enactment of this subsection, referred to in subsecs. (g)(9)(B)(iv) and (j), respectively, is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
 #### Codification
 
@@ -454,7 +454,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Pub. L. 110–246, §6012(a)(1), inserted section catchline.
+<b>2008</b>—Pub. L. 110–246, §6012(a)(1), inserted section catchline.
 
 Subsec. (a). Pub. L. 110–246, §6012(a)(1), (2), inserted subsec. heading, inserted par. (1) heading and introductory provisions, designated former fourth sentence as subpar. (A), inserted subpar. heading, substituted “The” for “As used in this subsection, the”, designated former second sentence as subpar. (B), inserted subpar. heading, substituted “The” for “For the purposes of this subsection, the”, designated former first sentence as par. (2), inserted par. heading, in introductory provisions, substituted “The Secretary may” for “The Secretary may also” and inserted “and private investment funds that invest primarily in cooperative organizations” after “nonprofit”, redesignated former cls. (1) to (4) as subpars. (A) to (D), respectively, designated former third sentence as par. (3), inserted par. heading, substituted “Loans described in paragraph (2)” for “Such loans”, and designated former fifth sentence as par. (4) and inserted par. heading.
 
@@ -490,7 +490,7 @@ Subsec. (g)(9). Pub. L. 110–246, §6015, added par. (9).
 
 Subsecs. (i), (j). Pub. L. 110–246, §§6016, 6017, added subsecs. (i) and (j).
 
-2002—Subsec. (a)(3). Pub. L. 107–171, §6013, inserted “and other renewable energy systems (including wind energy systems and anaerobic digestors for the purpose of energy generation)” after “solar energy systems”.
+<b>2002</b>—Subsec. (a)(3). Pub. L. 107–171, §6013, inserted “and other renewable energy systems (including wind energy systems and anaerobic digestors for the purpose of energy generation)” after “solar energy systems”.
 
 Subsec. (c)(1). Pub. L. 107–171, §6014, substituted “Grants” for “In general” in heading, designated existing provisions as subpar. (A) and inserted heading, and added subpar. (B).
 
@@ -516,7 +516,7 @@ Eligibility.—To be eligible for a loan guarantee under this subsection, a farm
 
 Subsec. (h). Pub. L. 107–171, §6007(b), added subsec. (h).
 
-1996—Subsec. (a). Pub. L. 104–127, §747(a)(1), in first sentence, struck out “and” before “(3)” and inserted before period at end “, and (4) to facilitate economic opportunity for industries undergoing adjustment from terminated Federal agricultural price and income support programs or increased competition from foreign trade”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–127, §747(a)(1), in first sentence, struck out “and” before “(3)” and inserted before period at end “, and (4) to facilitate economic opportunity for industries undergoing adjustment from terminated Federal agricultural price and income support programs or increased competition from foreign trade”.
 
 Pub. L. 104–127, §635(b), in third sentence, substituted “(4) of” for “(3) of”.
 
@@ -528,7 +528,7 @@ Subsec. (d)(2) to (4). Pub. L. 104–127, §661(d)(1), substituted “provision 
 
 Subsec. (d)(6). Pub. L. 104–127, §661(d)(2), substituted “this section” for “this section, section 1924 of this title, or section 1942 of this title”.
 
-Subsec. (e). Pub. L. 104–127, §747(a)(4), added subsec. (e) and struck out former subsec. (e) which authorizedthe insuring or guaranteeing of loans for the purpose of constructing or improving subterminal facilities.
+Subsec. (e). Pub. L. 104–127, §747(a)(4), added subsec. (e) and struck out former subsec. (e) which authorized the insuring or guaranteeing of loans for the purpose of constructing or improving subterminal facilities.
 
 Subsec. (e)(2). Pub. L. 104–180 amended Pub. L. 104–127, §747(a)(4), which enacted subsec. (e), to insert “effective October 1, 1996,” after “The Secretary shall make grants” in par. (2).
 
@@ -550,11 +550,11 @@ Subsec. (i). Pub. L. 104–127, §747(a)(5), struck out subsec. (i) which author
 
 Subsec. (j). Pub. L. 104–127, §747(a)(6), redesignated subsec. (j) as (f).
 
-1992—Subsec. (c). Pub. L. 102–554 designated existing provisions as par. (1) and added par. (2).
+<b>1992</b>—Subsec. (c). Pub. L. 102–554 designated existing provisions as par. (1) and added par. (2).
 
 Pub. L. 102–552, which directed the substitution of “business enterprises or the creation, expansion, and operation of rural distance learning networks or rural learning programs that provide educational instruction or job training instruction related to potential employment or job advancement to adult students,” for “business enterprises,” in section 310B(c) without specifying the name of the act, was executed to this section, which is section 310B of the Consolidated Farm and Rural Development Act, to reflect the probable intent of Congress.
 
-1991—Subsec. (d)(5), (7). Pub. L. 102–237, §701(h)(1)(C), (D), substituted “this chapter” for “this Act”.
+<b>1991</b>—Subsec. (d)(5), (7). Pub. L. 102–237, §701(h)(1)(C), (D), substituted “this chapter” for “this Act”.
 
 Subsec. (f)(4). Pub. L. 102–237, §701(c)(3), (4), redesignated par. (4), relating to grants to statewide private nonprofit public television systems, as subsec. (j), and transferred such provision to follow subsec. (i).
 
@@ -564,11 +564,11 @@ Subsec. (i)(5)(A). Pub. L. 102–237, §701(c)(2), inserted closing parenthesis 
 
 Subsec. (j). Pub. L. 102–237, §701(c)(3)–(5), redesignated subsec. (f)(4), relating to grants to statewide private nonprofit public television systems, as subsec. (j), transferred such provision to follow subsec. (i), and inserted heading.
 
-1990—Subsec. (a). Pub. L. 101–624, §2388(b), substituted “paragraphs (1) and (3)” for “subsections (a) and (c)”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–624, §2388(b), substituted “paragraphs (1) and (3)” for “subsections (a) and (c)”.
 
 Subsec. (b). Pub. L. 101–624, §2325, designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (d). Pub. L. 101–624, §2388(c), designated first par. and and pars. (1) to (6) as (1) to (7), respectively, substituted “paragraphs (2) and (3)” for “paragraph (1) and (2)” in par. (4), and realigned margins of pars. (5) to (7).
+Subsec. (d). Pub. L. 101–624, §2388(c), designated first par. and pars. (1) to (6) as (1) to (7), respectively, substituted “paragraphs (2) and (3)” for “paragraph (1) and (2)” in par. (4), and realigned margins of pars. (5) to (7).
 
 Subsec. (f). Pub. L. 101–624, §2386, added par. (4) relating to grants to statewide private nonprofit public television systems.
 
@@ -584,23 +584,23 @@ Subsecs. (g), (h). Pub. L. 101–624, §2347, formerly §2347(a), as renumbered 
 
 Subsec. (i). Pub. L. 101–624, §2337, added subsec. (i).
 
-1987—Subsec. (c). Pub. L. 100–203 inserted “and private nonprofit corporations” after “to public bodies” and substituted “to finance and facilitate development of small and emerging” for “to facilitate development of”.
+<b>1987</b>—Subsec. (c). Pub. L. 100–203 inserted “and private nonprofit corporations” after “to public bodies”and substituted “to finance and facilitate development of small and emerging” for “to facilitate development of”.
 
-1986—Subsec. (a). Pub. L. 99–409, §2(1), inserted provision that no loan may be made, insured, or guaranteed under this subsection that exceeds $25,000,000 in principal amount.
+<b>1986</b>—Subsec. (a). Pub. L. 99–409, §2(1), inserted provision that no loan may be made, insured, or guaranteed under this subsection that exceeds $25,000,000 in principal amount.
 
 Subsec. (f). Pub. L. 99–409, §2(2), added subsec. (f).
 
-1980—Subsec. (a). Pub. L. 96–438 authorized the Secretary to make and insure loans for the purpose of reducing the reliance on nonrenewable energy resources by encouraging the development and construction of solar energy systems, including the modification of existing systems, in rural areas and defined term “solar energy”, for purposes of subsection (a) of this section, as meaning energy derived from sources, other than fossil fuels, and technologies included in the Federal Nonnuclear Energy Research and Development Act of 1974, as amended.
+<b>1980</b>—Subsec. (a). Pub. L. 96–438 authorized the Secretary to make and insure loans for the purpose of reducing the reliance on nonrenewable energy resources by encouraging the development and construction of solar energy systems, including the modification of existing systems, in rural areas and defined term “solar energy”, for purposes of subsection (a) of this section, as meaning energy derived from sources, other than fossil fuels, and technologies included in the Federal Nonnuclear Energy Research and Development Act of 1974, as amended.
 
 Subsec. (e). Pub. L. 96–358 added subsec. (e).
 
-1978—Subsec. (d)(1), (2). Pub. L. 95–334, §112(1), inserted exception for assistance less than $1,000,000, or where direct employment will not be increased by more than 50 employees.
+<b>1978</b>—Subsec. (d)(1), (2). Pub. L. 95–334, §112(1), inserted exception for assistance less than $1,000,000, or where direct employment will not be increased by more than 50 employees.
 
 Subsec. (d)(3). Pub. L. 95–334, §112, inserted exception for assistance less than $1,000,000, or where direct employment will not be increased by more than 50 employees and substituted “30” for “60”.
 
-1977—Subsec. (a). Pub. L. 95–113 inserted reference to the conservation, development, and utilization of waterfor aquaculture purposes and inserted definition of “aquaculture”.
+<b>1977</b>—Subsec. (a). Pub. L. 95–113 inserted reference to the conservation, development, and utilization of water for aquaculture purposes and inserted definition of “aquaculture”.
 
-1973—Subsec. (d)(4) to (6). Pub. L. 91–524, §817, as added by Pub. L. 93–86, added pars. (4) to (6).
+<b>1973</b>—Subsec. (d)(4) to (6). Pub. L. 91–524, §817, as added by Pub. L. 93–86, added pars. (4) to (6).
 
 #### Effective Date of 2008 Amendment
 
@@ -676,7 +676,7 @@ Pub. L. 99–198, title XIII, §1323, Dec. 23, 1985, 99 Stat. 1534, as amended b
 
 > &emsp;specified in the first, second, and last sentences of section 623(a) of the Community Economic Development Act of 1981 (42 U.S.C. 9812(a)). For purposes of this subparagraph, any reference in such sentences to the Secretary shall be deemed to be a reference to the Secretary of Agriculture.”
 
-Pub. L. 99–500, §101(a) \[title VI, §641\], Oct. 18, 1986, 100 Stat. 1783, 1783–35, and Pub. L. 99–591, §101(a) \[title VI,§641\], Oct. 30, 1986, 100 Stat. 3341, 3341–35, provided in part: “That such grant funds \[probably means grant funds under section 1323(b)(1) of Pub. L. 99–198, set out above\] may be used by such corporation to provide technical assistance and financial assistance, including capitalizing revolving loan programs, pursuant to the Act.”
+Pub. L. 99–500, §101(a) \[title VI, §641\], Oct. 18, 1986, 100 Stat. 1783, 1783–35, and Pub. L. 99–591, §101(a) \[title VI, §641\], Oct. 30, 1986, 100 Stat. 3341, 3341–35, provided in part: “That such grant funds \[probably means grant funds under section 1323(b)(1) of Pub. L. 99–198, set out above\] may be used by such corporation to provide technical assistance and financial assistance, including capitalizing revolving loan programs, pursuant to the Act.”
 
 #### Limits on Grants for Fiscal Years 1982, 1983, and 1984
 

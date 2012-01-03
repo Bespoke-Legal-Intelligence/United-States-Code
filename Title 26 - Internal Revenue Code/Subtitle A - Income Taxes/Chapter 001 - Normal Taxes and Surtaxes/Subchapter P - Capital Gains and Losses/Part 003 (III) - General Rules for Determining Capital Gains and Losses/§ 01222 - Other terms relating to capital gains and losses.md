@@ -52,7 +52,7 @@ For purposes of this subtitle—
 
 #### References in Text
 
-The Tax Reform Act of 1976, referred to in last sentence, is Pub. L. 94–455, Oct. 4, 1976, 90 Stat. 1520, as amended. For complete classification of this Act and of section 1402 of such Act to the Code, see Tables.
+The Tax Reform Act of 1976, referred to in last sentence, is Pub. L. 94–455, Oct. 4, 1976, 90 Stat. 1520, asamended. For complete classification of this Act and of section 1402 of such Act to the Code, see Tables.
 
 #### Amendments
 

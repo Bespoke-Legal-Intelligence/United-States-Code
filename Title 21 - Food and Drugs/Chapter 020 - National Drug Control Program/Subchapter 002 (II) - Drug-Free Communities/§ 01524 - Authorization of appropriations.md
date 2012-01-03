@@ -48,7 +48,7 @@ There are authorized to be appropriated to the Office of National Drug Control P
 
 #### Codification
 
-Pub. L. 109–469, §801, which directed amendment of section 1024 of the “Drug-Free Communities Act of 1997”, was executed to this section, which is section1024 of the National Narcotics Leadership Act of 1988, to reflect the probable intent of Congress. See 2006 Amendment notes below.
+Pub. L. 109–469, §801, which directed amendment of section 1024 of the “Drug-Free Communities Act of 1997”, was executed to this section, which is section 1024 of the National Narcotics Leadership Act of 1988, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 
 #### Amendments
 

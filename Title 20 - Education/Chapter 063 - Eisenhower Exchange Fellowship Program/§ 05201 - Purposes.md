@@ -22,7 +22,7 @@ The purposes of this chapter are—
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 101–454, Oct. 24, 1990, 104Stat. 1063, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 101–454, Oct. 24, 1990, 104 Stat. 1063, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 #### Short Title
 

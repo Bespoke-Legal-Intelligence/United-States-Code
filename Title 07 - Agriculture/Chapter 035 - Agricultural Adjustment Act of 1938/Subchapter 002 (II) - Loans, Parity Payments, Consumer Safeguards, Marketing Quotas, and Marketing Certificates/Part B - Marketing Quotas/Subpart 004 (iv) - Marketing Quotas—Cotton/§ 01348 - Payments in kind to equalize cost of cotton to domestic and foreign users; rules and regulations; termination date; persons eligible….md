@@ -10,7 +10,7 @@ A prior section 1348, acts Feb. 16, 1938, ch. 30, title III, §348, 52 Stat. 59;
 
 #### Amendments
 
-1965—Pub. L. 89–321 authorized Secretary to extend period for performance of obligations incurred in connection with payments made for period ending July 31, 1966, or to make payments in raw cotton in inventory on July 31, 1966.
+<b>1965</b>—Pub. L. 89–321 authorized Secretary to extend period for performance of obligations incurred in connection with payments made for period ending July 31, 1966, or to make payments in raw cotton in inventory on July 31, 1966.
 
 #### Inapplicability of Section
 

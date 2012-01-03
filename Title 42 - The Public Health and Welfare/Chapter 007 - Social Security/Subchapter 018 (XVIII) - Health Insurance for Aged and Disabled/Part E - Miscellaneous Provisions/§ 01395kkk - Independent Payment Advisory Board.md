@@ -10,7 +10,7 @@ It is the purpose of this section to, in accordance with the following provision
 
 &emsp;(1) by requiring the Chief Actuary of the Centers for Medicare \& Medicaid Services to determine in each year to which this section applies (in this section referred to as “a determination year”) the projected per capita growth rate under Medicare for the second year following the determination year (in this section referred to as “an implementation year”);
 
-&emsp;(2) if the projection for the implementation year exceeds the target growth rate for that year, by requiring the Board to develop and submit during the first year following the determination year (in this section referred to as “a proposal year”) a proposal containing recommendations to reduce the Medicare per capita growth rate to the extent required by this section; and
+&emsp;(2) if the projection for the implementation year exceeds the target growth rate for thatyear, by requiring the Board to develop and submit during the first year following the determination year (in this section referred to as “a proposal year”) a proposal containing recommendations to reduce the Medicare per capita growth rate to the extent required by this section; and
 
 &emsp;(3) by requiring the Secretary to implement such proposals unless Congress enacts legislation pursuant to this section.
 
@@ -32,7 +32,7 @@ It is the purpose of this section to, in accordance with the following provision
 
 &emsp;&emsp;Each proposal submitted under this section in a proposal year shall meet each of the following requirements:
 
-&emsp;&emsp;&emsp;(i) If the Chief Actuary of the Centers for Medicare \& Medicaid Services has made a determination under paragraph (7)(A) in the determination year, the proposal shall include recommendations so that the proposal as a whole (after taking into account recommendations under clause (v)) will result in a net reduction in total Medicare program spending in the implementation year that is at least equal to the applicable savings target established under paragraph (7)(B) for such implementation year. In determining whether a proposal meets the requirement of the preceding sentence, reductions in Medicare program spending during the 3-month period immediatelypreceding the implementation year shall be counted to the extent that such reductions are a result of the implementation of recommendations contained in the proposal for a change in the payment rate for an item or service that was effective during such period pursuant to subsection (e)(2)(A).
+&emsp;&emsp;&emsp;(i) If the Chief Actuary of the Centers for Medicare \& Medicaid Services has made a determination under paragraph (7)(A) in the determination year, the proposal shall include recommendations so that the proposal as a whole (after taking into account recommendations under clause (v)) will result in a net reduction in total Medicare program spending in the implementation year that is at least equal to the applicable savings target established under paragraph (7)(B) for such implementation year. In determining whether a proposal meets the requirement of the preceding sentence, reductions in Medicare program spending during the 3-month period immediately preceding the implementation year shall be counted to the extent that such reductions are a result of the implementation of recommendations contained in the proposal for a change in the payment rate for an item or service that was effective during such period pursuant to subsection (e)(2)(A).
 
 &emsp;&emsp;&emsp;(ii) The proposal shall not include any recommendation to ration health care, raise revenues or Medicare beneficiary premiums under section 1395i–2, 1395i–2a, or 1395r of this title, increase Medicare beneficiary cost-sharing (including deductibles, coinsurance, and copayments), or otherwise restrict benefits or modify eligibility criteria.
 
@@ -120,7 +120,7 @@ It is the purpose of this section to, in accordance with the following provision
 
 #### (4) Presidential submission to Congress
 
-&emsp;Upon receiving a proposal from the Secretary under paragraph (5), the President shall within 2 days submit such proposal to Congress.
+&emsp;Upon receiving a proposal from the Secretary under paragraph (5), the President shallwithin 2 days submit such proposal to Congress.
 
 #### (5) Contingent secretarial development of proposal
 
@@ -152,7 +152,7 @@ It is the purpose of this section to, in accordance with the following provision
 
 &emsp;&emsp;&emsp;&emsp;(I) to the extent that there is projected to be a negative update to the single conversion factor applicable to payments for physicians’ services under section 1395w–4(d) of this title furnished in the proposal year or the implementation year, assume that such update for such services is 0 percent rather than the negative percent that would otherwise apply; and
 
-&emsp;&emsp;&emsp;&emsp;(II) take into account any delivery system reforms or other payment changes that have been enacted or published infinal rules but not yet implemented as of the making of such calculation.
+&emsp;&emsp;&emsp;&emsp;(II) take into account any delivery system reforms or other payment changes that have been enacted or published in final rules but not yet implemented as of the making of such calculation.
 
 #### (C) Medicare per capita target growth rate
 
@@ -206,7 +206,7 @@ It is the purpose of this section to, in accordance with the following provision
 
 #### (A) In general
 
-&emsp;&emsp;On the day on which a proposal is submitted by the Board or the President to the House of Representatives and the Senate under subsection (c)(3)(A)(i) or subsection (c)(4), the legislative proposal (described in subsection (c)(3)(B)(iv)) contained in the proposal shall be introduced (by request) in the Senate by the majority leader of the Senate or by Members of the Senate designated by the majority leader of the Senate and shall be introduced (by request) in the House by the majority leader of the House or by Members of the House designated by the majority leader of the House.
+&emsp;&emsp;On the day on which a proposal is submitted by the Board or the President to theHouse of Representatives and the Senate under subsection (c)(3)(A)(i) or subsection (c)(4), the legislative proposal (described in subsection (c)(3)(B)(iv)) contained in the proposal shall be introduced (by request) in the Senate by the majority leader of the Senate or by Members of the Senate designated by the majority leader of the Senate and shall be introduced (by request) in the House by the majority leader of the House or by Members of the House designated by the majority leader of the House.
 
 #### (B) Not in session
 
@@ -304,7 +304,7 @@ It is the purpose of this section to, in accordance with the following provision
 
 #### (iii) After passage
 
-&emsp;&emsp;&emsp;If a bill introduced pursuant to paragraph (1) is received by one House from theother House, after such a bill is passed by the receiving House, then the vote on passage of the bill that originates in the receiving House shall be considered to be the vote on passage of the bill received from the other House as amended by the language of the receiving House.
+&emsp;&emsp;&emsp;If a bill introduced pursuant to paragraph (1) is received by one House from the other House, after such a bill is passed by the receiving House, then the vote on passage of the bill that originates in the receiving House shall be considered to be the vote on passage of the bill received from the other House as amended by the language of the receiving House.
 
 #### (iv) Disposition
 
@@ -374,7 +374,7 @@ It is the purpose of this section to, in accordance with the following provision
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of law, the Secretary shall, except as provided inparagraph (3), implement the recommendations contained in a proposal submitted by the Board or the President to Congress pursuant to this section on August 15 of the year in which the proposal is so submitted.
+&emsp;Notwithstanding any other provision of law, the Secretary shall, except as provided in paragraph (3), implement the recommendations contained in a proposal submitted by the Board or the President to Congress pursuant to this section on August 15 of the year in which the proposal is so submitted.
 
 #### (2) Application
 
@@ -414,7 +414,7 @@ It is the purpose of this section to, in accordance with the following provision
 
 #### (ii) Limited additional exception may not be applied in two consecutive years
 
-&emsp;&emsp;&emsp;This subparagraph shall not apply if the recommendations contained in a proposal submitted by the Board or the President to Congress pursuant to this section in the year preceding the proposal year were not required to be implemented by reason of this subparagraph.
+&emsp;&emsp;&emsp;This subparagraph shall not apply if the recommendations contained in a proposal submitted by the Board or the President toCongress pursuant to this section in the year preceding the proposal year were not required to be implemented by reason of this subparagraph.
 
 #### (iii) No affect on requirement to submit proposals or for congressional consideration of proposals
 
@@ -444,7 +444,7 @@ It is the purpose of this section to, in accordance with the following provision
 
 &emsp;&emsp;(C) the title of which is as follows: “Joint resolution approving the discontinuation of the process for consideration and automatic implementation of the annual proposal of the Independent Payment Advisory Board under section 1899A of the Social Security Act”; and
 
-&emsp;&emsp;(D) the matter after the resolving clause of which is as follows: “That Congress approvesthe discontinuation of the process for consideration and automatic implementation of the annual proposal of the Independent Payment Advisory Board under section 1899A of the Social Security Act.”.
+&emsp;&emsp;(D) the matter after the resolving clause of which is as follows: “That Congress approves the discontinuation of the process for consideration and automatic implementation of the annual proposal of the Independent Payment Advisory Board under section 1899A of the Social Security Act.”.
 
 #### (2) Procedure
 
@@ -560,7 +560,7 @@ It is the purpose of this section to, in accordance with the following provision
 
 &emsp;&emsp;(A) a member may not serve more than 2 full consecutive terms (but may be reappointed to 2 full consecutive terms after being appointed to fill a vacancy on the Board);
 
-&emsp;&emsp;(B) a member appointed to fill a vacancy occurring prior to the expiration of the term for which that member's predecessor was appointed shall be appointed for the remainder of such term;
+&emsp;&emsp;(B) a member appointed to fill a vacancy occurring prior to the expiration of the termfor which that member's predecessor was appointed shall be appointed for the remainder of such term;
 
 &emsp;&emsp;(C) a member may continue to serve after the expiration of the member's term until a successor has taken office; and
 
@@ -748,7 +748,7 @@ In this section:
 
 &emsp;&emsp;(A) The quality and costs of care for the population at the most local level determined practical by the Board (with quality and costs compared to national benchmarks and reflecting rates of change, taking into account quality measures described in section 1395aaa(b)(7)(B) of this title).
 
-&emsp;&emsp;(B) Beneficiary and consumer access to care, patient and caregiver experience of care, and the cost-sharing or out-of-pocket burden on patients.
+&emsp;&emsp;(B) Beneficiary and consumer access to care, patient and caregiver experience ofcare, and the cost-sharing or out-of-pocket burden on patients.
 
 &emsp;&emsp;(C) Epidemiological shifts and demographic changes.
 
@@ -828,7 +828,7 @@ Subsec. (d)(2)(A). Pub. L. 111–148, §10320(a)(2)(B), inserted “the Board or
 
 Subsec. (e)(1). Pub. L. 111–148, §10320(a)(3)(A), inserted “the Board or” after “a proposal submitted by”.
 
-Subsec. (e)(3). Pub. L. 111–148, §10320(a)(3)(B), substituted “Exceptions” for “Exception” in par. heading, designated existing provisions as subpar. (A) and inserted heading, substituted “The Secretary shall not implement the recommendations contained in a proposal submitted in a proposal year by the Board or” for “The Secretary shall not be required to implement the recommendations contained in a proposal submitted in a proposal year by”, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A) and realigned margins, and added subpar. (B).
+Subsec. (e)(3). Pub. L. 111–148, §10320(a)(3)(B), substituted “Exceptions” for “Exception” in par. heading, designated existing provisions as subpar. (A) and inserted heading, substituted “The Secretary shall not implement the recommendations contained in a proposal submitted in a proposal year by the Board or” for “The Secretary shall not be required to implement therecommendations contained in a proposal submitted in a proposal year by”, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A) and realigned margins, and added subpar. (B).
 
 Subsec. (f)(3)(B). Pub. L. 111–148, §10320(a)(4), substituted “, advisory reports, or advisory recommendations” for “or advisory reports to Congress” and inserted “or produce the public report under subsection (n)” after “this section”.
 

@@ -6,7 +6,7 @@
 
 (c) Except as otherwise provided by law or Rule of Procedure, the United States Marshals Service shall execute all lawful writs, process, and orders issued under the authority of the United States, and shall command all necessary assistance to execute its duties.
 
-(d) Each United States marshal, deputy marshal, and any other official of the Service asmay be designated by the Director may carry firearms and make arrests without warrant for any offense against the United States committed in his or her presence, or for any felony cognizable under the laws of the United States if he or she has reasonable grounds to believe that the person to be arrested has committed or is committing such felony.
+(d) Each United States marshal, deputy marshal, and any other official of the Service as may be designated by the Director may carry firearms and make arrests without warrant for any offense against the United States committed in his or her presence, or for any felony cognizable under the laws of the United States if he or she has reasonable grounds to believe that the person to be arrested has committed or is committing such felony.
 
 (e)(1) The United States Marshals Service is authorized to—
 

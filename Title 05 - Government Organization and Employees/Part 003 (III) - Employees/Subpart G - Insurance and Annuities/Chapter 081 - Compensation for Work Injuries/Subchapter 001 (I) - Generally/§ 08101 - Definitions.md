@@ -232,13 +232,13 @@ Act of August 25, 1958, 72 Stat. 838, referred to in par. (1)(E), is set out as 
 
 #### Amendments
 
-1991—Par. (20). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+<b>1991</b>—Par. (20). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-1983—Par. (1)(F). Pub. L. 97–463 struck out “and who is otherwise an employee for the purposes of this subchapter as defined by paragraph (A), (B), (C), (D), and (E) of this subsection” after “petit or grand juror”.
+<b>1983</b>—Par. (1)(F). Pub. L. 97–463 struck out “and who is otherwise an employee for the purposes of this subchapter as defined by paragraph (A), (B), (C), (D), and (E) of this subsection” after “petit or grand juror”.
 
-1980—Pars. (19) to (21). Pub. L. 96–499 struck out par. (19) which defined “base month” as the month of July 1966 and each later month which was used as a basis for calculating an increase under section 8146a of this title, and redesignated pars. (20) and (21) as (19) and (20), respectively.
+<b>1980</b>—Pars. (19) to (21). Pub. L. 96–499 struck out par. (19) which defined “base month” as the month of July 1966 and each later month which was used as a basis for calculating an increase under section 8146a of this title, and redesignated pars. (20) and (21) as (19) and (20), respectively.
 
-1974—Par. (1)(D). Pub. L. 93–416, §1(g), struck out “and” after the semicolon.
+<b>1974</b>—Par. (1)(D). Pub. L. 93–416, §1(g), struck out “and” after the semicolon.
 
 Par. (1)(F). Pub. L. 93–416, §1(a), added par. (1)(F).
 
@@ -252,7 +252,7 @@ Par. (11). Pub. L. 93–416, §1(e), substituted “the husband living with or d
 
 Pars. (20), (21). Pub. L. 93–416, §1(f), added pars. (20) and (21).
 
-1967—Par. (1)(iii). Pub. L. 90–83, §1(4), substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey”. See Historical and Revision Notes under section 2101 of this title.
+<b>1967</b>—Par. (1)(iii). Pub. L. 90–83, §1(4), substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey”. See Historical and Revision Notes under section 2101 of this title.
 
 #### Effective Date of 1980 Amendment
 

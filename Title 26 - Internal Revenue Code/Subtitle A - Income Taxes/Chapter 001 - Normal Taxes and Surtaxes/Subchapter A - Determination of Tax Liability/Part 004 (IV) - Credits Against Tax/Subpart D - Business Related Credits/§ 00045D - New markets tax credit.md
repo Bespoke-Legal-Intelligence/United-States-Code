@@ -40,7 +40,7 @@ For purposes of this section—
 
 #### (2) Limitation
 
-&emsp;The maximum amount of equity investments issued by a qualified community development entity which may be designated underparagraph (1)(C) by such entity shall not exceed the portion of the limitation amount allocated under subsection (f) to such entity.
+&emsp;The maximum amount of equity investments issued by a qualified community development entity which may be designated under paragraph (1)(C) by such entity shall not exceed the portion of the limitation amount allocated under subsection (f) to such entity.
 
 #### (3) Safe harbor for determining use of cash
 
@@ -324,7 +324,7 @@ Pub. L. 111–5, div. B, title I, §1403(b), Feb. 17, 2009, 123 Stat. 352, provi
 
 #### Guidance on Allocation of National Limitation
 
-Pub. L. 106–554, §1(a)(7) \[title I, §121(f)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–610, provided that: “Not later than120 days after the date of the enactment of this Act \[Dec. 21, 2000\], the Secretary of the Treasury or the Secretary's delegate shall issue guidance which specifies—
+Pub. L. 106–554, §1(a)(7) \[title I, §121(f)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–610, provided that: “Not later than 120 days after the date of the enactment of this Act \[Dec. 21, 2000\], the Secretary of the Treasury or the Secretary's delegate shall issue guidance which specifies—
 
 &emsp;“(1) how entities shall apply for an allocation under section 45D(f)(2) of the Internal Revenue Code of 1986, as added by this section;
 

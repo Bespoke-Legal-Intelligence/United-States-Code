@@ -16,7 +16,7 @@ Disclosure.—(1) Notwithstanding section 552 of title 5 and the establishment o
 
 (2) Paragraph (1) of this subsection does not authorize information to be withheld from a committee of Congress authorized to have the information.
 
-(3) Nothing in paragraph (1) shall be construed to authorize the designation of information as sensitive security information (as defined in section 15.5 of title 49, Code of Federal Regulations)—
+(3) Nothing in paragraph (1) shall be construed to authorize the designation of information assensitive security information (as defined in section 15.5 of title 49, Code of Federal Regulations)—
 
 &emsp;(A) to conceal a violation of law, inefficiency, or administrative error;
 

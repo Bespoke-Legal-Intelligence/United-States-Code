@@ -8,7 +8,7 @@
 
 #### (2) Transfer for valuable consideration
 
-&emsp;In the case of a transfer for a valuable consideration, by assignment or otherwise, of a life insurance contract or any interest therein, the amount excluded from gross income by paragraph (1) shall not exceed an amountequal to the sum of the actual value of such consideration and the premiums and other amounts subsequently paid by the transferee. The preceding sentence shall not apply in the case of such a transfer—
+&emsp;In the case of a transfer for a valuable consideration, by assignment or otherwise, of a life insurance contract or any interest therein, the amount excluded from gross income by paragraph (1) shall not exceed an amount equal to the sum of the actual value of such consideration and the premiums and other amounts subsequently paid by the transferee. The preceding sentence shall not apply in the case of such a transfer—
 
 &emsp;&emsp;(A) if such contract or interest therein has a basis for determining gain or loss in the hands of a transferee determined in whole or in part by reference to such basis of such contract or interest therein in the hands of the transferor, or
 
@@ -96,7 +96,7 @@ If any amount excluded from gross income by subsection (a) is held under an agre
 
 #### (E) Adjustments
 
-&emsp;&emsp;The guideline single premium and guideline level premium shall be adjusted in the event of a change in the future benefits or any qualified additional benefit under the contract which was not reflected in any guideline single premiums or guideline level premium previously determined.
+&emsp;&emsp;The guideline single premium and guideline level premium shall be adjusted in the event of a change in the future benefits or any qualified additional benefit under thecontract which was not reflected in any guideline single premiums or guideline level premium previously determined.
 
 #### (3) Other definitions and special rules
 
@@ -192,7 +192,7 @@ If any amount excluded from gross income by subsection (a) is held under an agre
 
 &emsp;&emsp;&emsp;The term “viatical settlement provider” means any person regularly engaged in the trade or business of purchasing, or taking assignments of, life insurance contracts on the lives of insureds described in paragraph (1) if—
 
-&emsp;&emsp;&emsp;&emsp;(I) such person is licensed for such purposes (with respect to insureds described in the same subparagraph of paragraph (1) as the insured) in the State in which the insured resides, or
+&emsp;&emsp;&emsp;&emsp;(I) such person is licensed for such purposes (with respect to insureds describedin the same subparagraph of paragraph (1) as the insured) in the State in which the insured resides, or
 
 &emsp;&emsp;&emsp;&emsp;(II) in the case of an insured who resides in a State not requiring the licensing of such persons for such purposes with respect to such insured, such person meets the requirements of clause (ii) or (iii), whichever applies to such insured.
 
@@ -440,7 +440,7 @@ Subsec. (g). Pub. L. 104–191 added subsec. (g).
 
 Subsec. (d)(2)(B). Pub. L. 99–514, §1001(c)(2), substituted “equal” for “is equal” in introductory provisions.
 
-Subsec. (d)(2)(B)(ii). Pub. L. 99–514, §1001(b), amended cl. (ii) generally. Prior to amendment, cl. (ii) read asfollows: “as discounted on the basis of the interest rate and mortality tables used by the insurer in calculating payments under the agreement.”
+Subsec. (d)(2)(B)(ii). Pub. L. 99–514, §1001(b), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “as discounted on the basis of the interest rate and mortality tables used by the insurer in calculating payments under the agreement.”
 
 Subsec. (d)(3), (4). Pub. L. 99–514, §1001(c)(1), redesignated par. (4) as (3), and struck out former par. (3), “Surviving spouse”, which read as follows: “For purposes of this subsection, the term ‘surviving spouse’ means the spouse of the insured as of the date of death, including a spouse legally separated but not under a decree of absolute divorce.”
 

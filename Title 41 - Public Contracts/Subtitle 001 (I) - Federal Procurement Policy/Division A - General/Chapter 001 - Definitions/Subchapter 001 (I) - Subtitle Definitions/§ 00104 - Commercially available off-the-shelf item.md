@@ -8,7 +8,7 @@ In this subtitle, the term “commercially available off-the-shelf item”—
 
 &emsp;&emsp;(B) is sold in substantial quantities in the commercial marketplace; and
 
-&emsp;&emsp;(C) is offered to the Federal Government, without modification, in the same form inwhich it is sold in the commercial marketplace; but
+&emsp;&emsp;(C) is offered to the Federal Government, without modification, in the same form in which it is sold in the commercial marketplace; but
 
 &emsp;(2) does not include bulk cargo, as defined in section 40102(4) of title 46, such as agricultural products and petroleum products.
 

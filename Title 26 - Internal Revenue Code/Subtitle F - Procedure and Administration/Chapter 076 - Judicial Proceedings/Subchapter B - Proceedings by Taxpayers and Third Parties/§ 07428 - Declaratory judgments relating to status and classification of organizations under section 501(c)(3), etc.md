@@ -62,7 +62,7 @@ In a case of actual controversy involving—
 
 &emsp;Paragraph (1) shall apply only—
 
-&emsp;&emsp;(A) with respect to individuals, and only to the extent that the aggregate of the contributions made by any individual to or for the use of the organization during the periodspecified in paragraph (1) does not exceed $1,000 (for this purpose treating a husband and wife as one contributor), and
+&emsp;&emsp;(A) with respect to individuals, and only to the extent that the aggregate of the contributions made by any individual to or for the use of the organization during the period specified in paragraph (1) does not exceed $1,000 (for this purpose treating a husband and wife as one contributor), and
 
 &emsp;&emsp;(B) with respect to organizations described in section 170(c)(2) which are exempt from tax under section 501(a) (for this purpose excluding any such organization with respect to which there is pending a proceeding to revoke the determination under section 170(c)(2)).
 
@@ -74,7 +74,7 @@ In a case of actual controversy involving—
 
 In any action brought under this section in the district court of the United States for the District of Columbia, a subpoena requiring the attendance of a witness at a trial or hearing may be served at any place in the United States.
 
-(Added Pub. L. 94–455, title XIII, §1306(a), Oct. 4, 1976, 90 Stat. 1717; amended Pub. L. 95–600, title VII, §701(dd)(2), Nov. 6, 1978, 92 Stat. 2924; Pub. L. 97–164, title I, §152, Apr. 2, 1982, 96 Stat. 46; Pub. L. 98–369, div. A, title X, §1033(b), July 18, 1984, 98 Stat. 1039; Pub. L. 102–572, title IX, §902(b), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 108–357, title III, §317(a), Oct. 22, 2004, 118 Stat. 1470; Pub. L. 109–280, title XII, §1223(c), Aug. 17, 2006, 120 Stat. 1091.)
+(Added Pub. L. 94–455, title XIII, §1306(a), Oct. 4, 1976, 90 Stat. 1717; amended Pub. L. 95–600, title VII, §701(dd)(2), Nov. 6, 1978, 92 Stat. 2924; Pub. L. 97–164, title I, §152, Apr. 2, 1982, 96 Stat. 46; Pub. L. 98–369, div. A, title X, §1033(b), July 18, 1984, 98 Stat. 1039; Pub. L. 102–572, title IX, §902(b),Oct. 29, 1992, 106 Stat. 4516; Pub. L. 108–357, title III, §317(a), Oct. 22, 2004, 118 Stat. 1470; Pub. L. 109–280, title XII, §1223(c), Aug. 17, 2006, 120 Stat. 1091.)
 
 #### Prior Provisions
 

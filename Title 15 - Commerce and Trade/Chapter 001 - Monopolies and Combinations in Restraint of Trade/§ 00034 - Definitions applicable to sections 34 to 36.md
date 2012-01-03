@@ -16,5 +16,5 @@ For purposes of sections 34 to 36 of this title—
 
 #### Effective Date
 
-Section 6 of Pub. L. 98–544 provided that: “This Act \[enacting this section, sections 35 and 36 of this title, and provisions set out as a note under section 1 of this title\] shall take effect thirty days before the date of the enactment of this Act \[Oct. 24, 1984\].”
+Pub. L. 98–544, §6, Oct. 24, 1984, 98 Stat. 2751, provided that: “This Act \[enacting this section, sections 35 and 36 of this title, and provisions set out as a note under section 1 of this title\] shall take effect thirty days before the date of the enactment of this Act \[Oct. 24, 1984\].”
 

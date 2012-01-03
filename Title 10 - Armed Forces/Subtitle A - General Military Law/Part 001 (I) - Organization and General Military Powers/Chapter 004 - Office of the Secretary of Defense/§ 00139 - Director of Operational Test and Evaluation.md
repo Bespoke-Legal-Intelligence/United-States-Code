@@ -34,7 +34,7 @@
 
 (2) The Director may require that such observers as he designates be present during the preparation for and the conduct of the test part of any operational test and evaluation conducted in the Department of Defense.
 
-(3) The Director shall have access to all records and data in the Department of Defense (including the records and data of each military department) that the Director considers necessary to review in order to carry out his duties under this section.
+(3) The Director shall have access to all records and data in the Department of Defense\(including the records and data of each military department) that the Director considers necessary to review in order to carry out his duties under this section.
 
 (f)(1) The Director of the Missile Defense Agency shall make available to the Director of Operational Test and Evaluation the results of all tests and evaluations conducted by the Missile Defense Agency and of all studies conducted by the Missile Defense Agency in connection with tests and evaluations in the Missile Defense Agency.
 
@@ -50,7 +50,7 @@
 
 (3) If the Director submits the report to Congress in a classified form, the Director shall concurrently submit an unclassified version of the report to Congress.
 
-(4) The report shall include such comments and recommendations as the Director considers appropriate, including comments and recommendations on resources and facilities available for operational test and evaluation and levels of funding made available for operational test and evaluation activities. The report for a fiscal year shall also include an assessment of the waivers of and deviations from requirements in test and evaluation master plans and other testing requirements that occurred during the fiscalyear, any concerns raised by the waivers or deviations, and the actions that have been taken or are planned to be taken to address the concerns.
+(4) The report shall include such comments and recommendations as the Director considers appropriate, including comments and recommendations on resources and facilities available for operational test and evaluation and levels of funding made available for operational test and evaluation activities. The report for a fiscal year shall also include an assessment of the waivers of and deviations from requirements in test and evaluation master plans and other testing requirements that occurred during the fiscal year, any concerns raised by the waivers or deviations, and the actions that have been taken or are planned to be taken to address the concerns.
 
 (5) The Secretary may comment on any report of the Director to Congress under this subsection.
 
@@ -192,7 +192,7 @@ Issues To Be Addressed.—In carrying out subsection (b), the Under Secretary sh
 
 &emsp;&emsp;“(A) items that are acquired pursuant to the authority for rapid acquisition and deployment of items in section 806 of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 \[Pub. L. 107–314\] (10 U.S.C. 2302 note);
 
-&emsp;&emsp;“(B) programs that are conducted pursuant to the authority for spiral development in section 803 ofthe Bob Stump National Defense Authorization Act for Fiscal Year 2003 (Public Law 107–314; 116 Stat. 2603; 10 U.S.C. 2430 note), or other authority for the conduct of incremental acquisition programs;
+&emsp;&emsp;“(B) programs that are conducted pursuant to the authority for spiral development in section 803 of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 (Public Law 107–314; 116 Stat. 2603; 10 U.S.C. 2430 note), or other authority for the conduct of incremental acquisition programs;
 
 &emsp;&emsp;“(C) systems that are acquired pursuant to other emerging acquisition approaches, as approved by the Under Secretary; and
 

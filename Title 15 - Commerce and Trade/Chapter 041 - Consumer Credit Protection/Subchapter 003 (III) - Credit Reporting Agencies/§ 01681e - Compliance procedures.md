@@ -26,7 +26,7 @@ A consumer reporting agency may not prohibit a user of a consumer report furnish
 
 #### (2) Content of notice
 
-&emsp;The Federal Trade Commission shall prescribe the content of notices under paragraph (1), and a consumer reporting agency shall be in compliance with this subsection if it provides a notice under paragraph (1) that is substantially similar to the Federal Trade Commission prescription under this paragraph.
+&emsp;The Bureau shall prescribe the content of notices under paragraph (1), and a consumer reporting agency shall be in compliance with this subsection if it provides a notice under paragraph (1) that is substantially similar to the Bureau prescription under this paragraph.
 
 #### (e) Procurement of consumer report for resale
 
@@ -62,15 +62,13 @@ A consumer reporting agency may not prohibit a user of a consumer report furnish
 
 (Pub. L. 90–321, title VI, §607, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1130; amended Pub. L. 104–208, div. A, title II, §2407, Sept. 30, 1996, 110 Stat. 3009–435; Pub. L. 105–107, title III, §311(b), Nov. 20, 1997, 111 Stat. 2256; Pub. L. 111–203, title X, §1088(a)(2)(A), July 21, 2010, 124 Stat. 2087.)
 
-#### Amendment of Section
-
-<i>Pub. L. 111–203, title X, §§1088(a)(2)(A), 1100H, July 21, 2010, 124 Stat. 2087, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Federal Trade Commission” each place that term appears and inserting “Bureau”. See Effective Date of 2010 Amendment note below.</i>
-
 #### References in Text
 
 Section 1681b(b)(4) of this title, referred to in subsec. (e)(3)(A), was subsequently amended, and section 1681b(b)(4)(E) no longer defines the term “classified information”. However, such term is defined elsewhere in that section.
 
 #### Amendments
+
+<b>2010</b>—Subsec. (d)(2). Pub. L. 111–203 substituted “Bureau” for “Federal Trade Commission” in two places.
 
 <b>1997</b>—Subsec. (e)(3). Pub. L. 105–107 added par. (3).
 

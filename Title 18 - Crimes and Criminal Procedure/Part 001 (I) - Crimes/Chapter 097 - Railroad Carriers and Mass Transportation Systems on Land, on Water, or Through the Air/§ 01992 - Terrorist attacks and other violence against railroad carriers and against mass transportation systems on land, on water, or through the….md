@@ -12,7 +12,7 @@ General Prohibitions.—Whoever, in a circumstance described in subsection (c), 
 
 &emsp;(4) sets fire to, undermines, makes unworkable, unusable, or hazardous to work on or use, or places any biological agent or toxin, destructive substance, or destructive device in, upon, or near any—
 
-&emsp;&emsp;(A) tunnel, bridge, viaduct, trestle, track, electromagnetic guideway, signal, station, depot, warehouse, terminal, or any other way, structure, property, or appurtenance used in the operation of, or in support of the operation of, a railroad carrier, and with intent to, or knowing or having reason to know,<sup>1</sup> such activity would likely, derail, disable, or wreck railroad on-track equipment; or
+&emsp;&emsp;(A) tunnel, bridge, viaduct, trestle, track, electromagnetic guideway, signal, station, depot, warehouse, terminal, or any other way, structure, property, or appurtenance used in the operation of, or in support of the operation of, a railroad carrier, and with intent to, or knowing or having reason to know,<sup>1</sup> such activity would likely, derail,disable, or wreck railroad on-track equipment; or
 
 &emsp;&emsp;(B) garage, terminal, structure, track, electromagnetic guideway, supply, or facility used in the operation of, or in support of the operation of, a mass transportation vehicle, and with intent to, or knowing or having reason to know,<sup>1</sup> such activity would likely, derail, disable, or wreck a mass transportation vehicle used, operated, or employed by a mass transportation provider;
 

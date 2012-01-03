@@ -112,3 +112,5 @@ Review and inclusion of relevant information.—The Chair and Vice Chair of the 
 
 The date of enactment of this chapter, referred to in subsecs. (b)(1) and (c)(1)(A), is the date of enactment of Pub. L. 111–292, which was approved Dec. 9, 2010.
 
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by “the”.</i>
+

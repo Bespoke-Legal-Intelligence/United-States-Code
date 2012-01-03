@@ -238,7 +238,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (b)(2)(B). Pub. L. 110–246, §10104(a)(1), substituted “3 regions” for “4 regions”.
+<b>2008</b>—Subsec. (b)(2)(B). Pub. L. 110–246, §10104(a)(1), substituted “3 regions” for “4 regions”.
 
 Subsec. (b)(2)(D). Pub. L. 110–246, §10104(a)(2), substituted “50,000,000 pounds” for “35,000,000 pounds”.
 
@@ -246,7 +246,7 @@ Subsec. (b)(2)(E). Pub. L. 110–246, §10104(a)(3), added subpar. (E) and struc
 
 Subsec. (c)(6) to (9). Pub. L. 110–246, §10104(b), added par. (6) and redesignated former pars. (6) to (8) as (7) to (9), respectively.
 
-1991—Subsec. (h). Pub. L. 102–237 substituted “governmental” for “government”.
+<b>1991</b>—Subsec. (h). Pub. L. 102–237 substituted “governmental” for “government”.
 
 #### Effective Date of 2008 Amendment
 

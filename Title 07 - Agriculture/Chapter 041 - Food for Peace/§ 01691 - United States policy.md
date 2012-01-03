@@ -1,6 +1,6 @@
 ### §1691. United States policy
 
-It is the policy of the United States to use its abundant agricultural productivity to promotethe foreign policy of the United States by enhancing the food security of the developing world through the use of agricultural commodities and local currencies accruing under this chapter to—
+It is the policy of the United States to use its abundant agricultural productivity to promote the foreign policy of the United States by enhancing the food security of the developing world through the use of agricultural commodities and local currencies accruing under this chapter to—
 
 &emsp;(1) combat world hunger and malnutrition and their causes;
 
@@ -16,17 +16,17 @@ It is the policy of the United States to use its abundant agricultural productiv
 
 #### Amendments
 
-2008—Pars. (4) to (6). Pub. L. 110–246 redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out former par. (4) which read as follows: “develop and expand export markets for United States agricultural commodities;”.
+<b>2008</b>—Pars. (4) to (6). Pub. L. 110–246 redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out former par. (4) which read as follows: “develop and expand export markets for United States agricultural commodities;”.
 
-2002—Par. (6). Pub. L. 107–171 added par. (6).
+<b>2002</b>—Par. (6). Pub. L. 107–171 added par. (6).
 
-1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions declaring policy of United States to expand trade, develop export markets, encourage economic development and private enterprise in developing countries, improve local food production and promote foreign policy, and requiring President to give priority to countries most affected by food shortages, encourage other donors, link assistance to local agricultural and related development, seek expanded markets for American commodities, and recognize and support American farm economy.
+<b>1990</b>—Pub. L. 101–624 amended section generally, substituting present provisions for provisions declaring policy of United States to expand trade, develop export markets, encourage economic development and private enterprise in developing countries, improve local food production and promote foreign policy, and requiring President to give priority to countries most affected by food shortages, encourage other donors, link assistance to local agricultural and related development, seek expanded markets for American commodities, and recognize and support American farm economy.
 
-1985—Pub. L. 99–198 included Congressional declaration of policy to use accrued foreign currencies to foster and encourage the development of private enterprise in developing countries and to enhance food security in developing countries through local food production in first sentence.
+<b>1985</b>—Pub. L. 99–198 included Congressional declaration of policy to use accrued foreign currencies to foster and encourage the development of private enterprise in developing countries and to enhance food security in developing countries through local food production in first sentence.
 
-1975—Pub. L. 94–161 inserted provisions of second sentence, including cls. (1) to (5), respecting considerations in furnishing food aid under this chapter.
+<b>1975</b>—Pub. L. 94–161 inserted provisions of second sentence, including cls. (1) to (5), respecting considerations in furnishing food aid under this chapter.
 
-1966—Pub. L. 89–808 restated the Congressional declaration of policy to include the use of the abundant agricultural productivity of the United States to combat hunger and malnutrition and the emphasis on assistance to those developing countries that are determined to improve their own agricultural production and to exclude statement of a policy to facilitate the convertibility of currency, to make maximum efficient use of surplus agricultural commodities in furtherance of the foreign policy of the United States, to purchase strategic materials, to pay United States obligations abroad, and to promote collective strength.
+<b>1966</b>—Pub. L. 89–808 restated the Congressional declaration of policy to include the use of the abundant agricultural productivity of the United States to combat hunger and malnutrition and the emphasis on assistance to those developing countries that are determined to improve their own agricultural production and to exclude statement of a policy to facilitate the convertibility of currency, to make maximum efficient use of surplus agricultural commodities in furtherance of the foreign policy of the United States, to purchase strategic materials, to pay United States obligations abroad, and to promote collective strength.
 
 #### Change of Name
 

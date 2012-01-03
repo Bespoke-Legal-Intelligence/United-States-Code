@@ -6,7 +6,7 @@ The identification of project residents eligible to participate in a congregate 
 
 #### (b) Participation of other residents in meal services program
 
-Other residents may participate in a congregate meal service program assisted under this chapter if the local public housing agency or nonprofit corporation determines that the participation of these individuals will not adversely affect the cost-effectiveness or operation of the program.
+Other residents may participate in a congregate meal service program assisted underthis chapter if the local public housing agency or nonprofit corporation determines that the participation of these individuals will not adversely affect the cost-effectiveness or operation of the program.
 
 #### (c) Notification of change in membership of professional assessment committee
 

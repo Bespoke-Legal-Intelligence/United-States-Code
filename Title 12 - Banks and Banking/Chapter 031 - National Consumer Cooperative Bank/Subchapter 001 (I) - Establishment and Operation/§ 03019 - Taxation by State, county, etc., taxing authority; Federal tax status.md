@@ -22,9 +22,9 @@ Subchapter T of chapter 1 of title 26, referred to in subsec. (b), is set out as
 
 #### Amendments
 
-1986—Subsec. (b). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsec. (b). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-1981—Pub. L. 97–35 designated existing provisions as subsec. (a), struck out applicability of Final Government Equity Redemption Date to provisions, and added subsec. (b).
+<b>1981</b>—Pub. L. 97–35 designated existing provisions as subsec. (a), struck out applicability of Final Government Equity Redemption Date to provisions, and added subsec. (b).
 
 #### Effective Date of 1981 Amendment
 

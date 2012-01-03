@@ -4,7 +4,7 @@ Section, acts Aug. 26, 1954, ch. 937, ch. II, §414, 68 Stat. 848; June 30, 1958
 
 #### Reference to Former Section 1934 of This Title Deemed Reference to Section 2778
 
-Section 212(b)(1) of Pub. L. 94–329 provided in part that: “Any reference to such section \[this section\] shall be deemed to be a reference to section 38 of the Arms Export Control Act \[section 2778 of this title\] and anyreference to licenses issued under section 38 of the Arms Export Control Act shall be deemed to include a reference to licenses issued under section 414 of the Mutual Security Act of 1954.”
+Section 212(b)(1) of Pub. L. 94–329 provided in part that: “Any reference to such section \[this section\] shall be deemed to be a reference to section 38 of the Arms Export Control Act \[section 2778 of this title\] and any reference to licenses issued under section 38 of the Arms Export Control Act shall be deemed to include a reference to licenses issued under section 414 of the Mutual Security Act of 1954.”
 
 #### Saving Provision
 

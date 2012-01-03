@@ -166,7 +166,7 @@ Term of President's Council of Advisors on Science and Technology extended until
 
 Term of President's Council of Advisors on Science and Technology extended until Sept. 30, 2009, by Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of President's Council of Advisors on Science and Technology extended until Sept. 30, 2011, by Ex. Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of President's Council of Advisors on Science and Technology extended until Sept. 30, 2011, by Ex.Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 #### Executive Order No. 13237
 
@@ -246,15 +246,19 @@ Sec. 6. <i>General Provisions</i>.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Extension of Term of Presidential Commission for the Study of Bioethical Issues
+
+Term of the Presidential Commission for the Study of Bioethical Issues extended until Sept. 30, 2013, by Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
 #### Ex. Ord. No. 13539. President's Council of Advisors on Science and Technology
 
-Ex. Ord. No. 13539, Apr. 21, 2010, 75 F.R. 21973, provided:
+Ex. Ord. No. 13539, Apr. 21, 2010, 75 F.R. 21973, as amended by Ex. Ord. No. 13596, §2, Dec. 19, 2011, 76 F.R. 80725, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to establish an advisory council on science, technology, and innovation, it is hereby ordered as follows:
 
 Section 1. <i>Establishment</i>. The President's Council of Advisors on Science and Technology (PCAST) is hereby established. The PCAST shall be composed of not more than 21 members, one of whom shall be the Assistant to the President for Science and Technology (the “Science Advisor”), and 20 of whom shall include distinguished individuals and representatives from sectors outside of the Federal Government appointed by the President. These nonfederal members shall have diverse perspectives and expertise in science, technology, and innovation. The Science Advisor shall serve as a Co-Chair of the PCAST. The President shall also designate at least one, but not more than two, of the nonfederal members to serve as a Co-Chair of the PCAST with the Science Advisor.
 
-Sec. 2. <i>Functions</i>. (a) The PCAST shall advise the President, directly at its meetings with the President and also through the Science Advisor, on matters involving science, technology, and innovation policy. This advice shall include, but not be limited to, policy that affects science, technology, and innovation, as well as scientific and technical information that isneeded to inform public policy relating to the economy, energy, environment, public health, national and homeland security, and other topics. The PCAST shall meet regularly and shall:
+Sec. 2. <i>Functions</i>. (a) The PCAST shall advise the President, directly at its meetings with the President and also through the Science Advisor, on matters involving science, technology, and innovation policy. This advice shall include, but not be limited to, policy that affects science, technology, and innovation, as well as scientific and technical information that is needed to inform public policy relating to the economy, energy, environment, public health, national and homeland security, and other topics. The PCAST shall meet regularly and shall:
 
 (i) respond to requests from the President or the Science Advisor for information, analysis, evaluation, or advice;
 
@@ -272,13 +276,13 @@ Sec. 3. <i>Administration</i>. (a) The heads of executive departments and agenci
 
 (c) So that the PCAST may provide advice and analysis regarding classified matters, the Science Advisor may request that members of the PCAST, its standing subcommittees, or ad hoc groups who do not hold a current clearance for access to classified information, receive security clearance and access determinations pursuant to Executive Order 12968 of August 2, 1995, as amended, or any successor order.
 
-(d) The Office of Science and Technology Policy (OSTP) shall provide such funding and administrative and technical support as the PCAST may require.
+(d) The Department of Energy shall provide such funding and administrative and technical support as the PCAST may require.
 
 (e) Members of the PCAST shall serve without any compensation for their work on the PCAST, but may receive travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the government service (5 U.S.C. 5701–5707).
 
 Sec. 4. <i>Termination</i>. The PCAST shall terminate 2 years from the date of this order unless extended by the President.
 
-Sec. 5. <i>General Provisions</i>. (a) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (FACA) may apply to the PCAST, any functions of the President under the FACA, except that of reporting to the Congress, shall be performed by the Director of the OSTP in accordance with the guidelines and procedures established by the Administrator of General Services.
+Sec. 5. <i>General Provisions</i>. (a) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (FACA), may apply to the PCAST, any functions of the President under the FACA, except that of reporting to the Congress, shall be performed by the Secretary of Energy in accordance with the guidelines and procedures established by the Administrator of General Services.
 
 (b) Nothing in this order shall be construed to impair or otherwise affect:
 
@@ -293,6 +297,10 @@ Sec. 5. <i>General Provisions</i>. (a) Insofar as the Federal Advisory Committee
 Sec. 6. <i>Revocation</i>. Executive Order 13226 of September 30, 2001, as amended, is hereby revoked.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Extension of Term of President's Council of Advisors on Science and Technology
+
+Term of the President's Council of Advisors on Science and Technology extended until Sept. 30, 2013, by Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 #### Strengthened Protections for Human Subjects of Classified Research
 
@@ -350,7 +358,7 @@ These steps, set forth in detail below, will preserve the government's ability t
 
 3\. <i>Agency Head Approval of Classified Research Projects</i>. Agencies may not conduct any classified human research project subject to the Common Rule unless the agency head has personally approved the specific project.
 
-4\. <i>Annual Public Disclosure of the Number of Classified Research Projects</i>. Each agency head shall inform the Director of OSTP by September 30 of each year of the number of classified research projects involving human subjects underway on that date, the number completed in the previous 12-month period, and the number of human subjects in each project. The Director of OSTP shall report the total number of classified research projects and participating subjects to the President and shall then report to the congressional armed services and intelligence committees and further shall publish the numbers in the Federal Register.
+4\. <i>Annual Public Disclosure of the Number of Classified Research Projects</i>. Each agency head shall inform theDirector of OSTP by September 30 of each year of the number of classified research projects involving human subjects underway on that date, the number completed in the previous 12-month period, and the number of human subjects in each project. The Director of OSTP shall report the total number of classified research projects and participating subjects to the President and shall then report to the congressional armed services and intelligence committees and further shall publish the numbers in the Federal Register.
 
 5\. <i>Definitions</i>. For purposes of this memorandum, the terms “research” and “human subject” shall have the meaning set forth in the Common Rule. “Classified human research” means research involving “classified information” as defined in Executive Order 12958 \[50 U.S.C. 435 note\].
 

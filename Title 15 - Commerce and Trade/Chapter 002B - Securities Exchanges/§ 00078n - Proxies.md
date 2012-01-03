@@ -30,7 +30,7 @@ Unless proxies, consents, or authorizations in respect of a security registered 
 
 (4) Any solicitation or recommendation to the holders of such a security to accept or reject a tender offer or request or invitation for tenders shall be made in accordance with such rules and regulations as the Commission may prescribe as necessary or appropriate in the public interest or for the protection of investors.
 
-(5) Securities deposited pursuant to a tender offer or request or invitation for tenders may be withdrawn by or on behalf of the depositor at any time until the expiration of seven days after the time definitive copies of the offer or request or invitation are first published or sent or given to security holders, and at any time after sixty days from the date of the original tender offer or request or invitation, except as the Commission may otherwise prescribe by rules, regulations, or order as necessary or appropriate in the public interest or for the protection of investors.
+(5) Securities deposited pursuant to a tender offer or request or invitation for tenders may bewithdrawn by or on behalf of the depositor at any time until the expiration of seven days after the time definitive copies of the offer or request or invitation are first published or sent or given to security holders, and at any time after sixty days from the date of the original tender offer or request or invitation, except as the Commission may otherwise prescribe by rules, regulations, or order as necessary or appropriate in the public interest or for the protection of investors.
 
 (6) Where any person makes a tender offer, or request or invitation for tenders, for less than all the outstanding equity securities of a class, and where a greater number of securities is deposited pursuant thereto within ten days after copies of the offer or request or invitation are first published or sent or given to security holders than such person is bound or willing to take up and pay for, the securities taken up shall be taken up as nearly as may be pro rata, disregarding fractions, according to the number of securities deposited by each depositor. The provisions of this subsection shall also apply to securities deposited within ten days after notice of an increase in the consideration offered to security holders, as described in paragraph (7), is first published or sent or given to security holders.
 
@@ -56,57 +56,33 @@ If, pursuant to any arrangement or understanding with the person or persons acqu
 
 (1)(A) At the time of filing such preliminary proxy solicitation material as the Commission may require by rule pursuant to subsection (a) of this section that concerns an acquisition, merger, consolidation, or proposed sale or other disposition of substantially all the assets of a company, the person making such filing, other than a company registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\], shall pay to the Commission the following fees:
 
-&emsp;(i) for preliminary proxy solicitation material involving an acquisition, merger, or consolidation, if there is a proposed payment of cash or transfer of securities or property to shareholders, a fee at a rate that, subject to paragraphs (5) and (6), is equal to $92 per $1,000,000 of such proposed payment, or of the value of such securities or other property proposed to be transferred; and
+&emsp;(i) for preliminary proxy solicitation material involving an acquisition, merger, or consolidation, if there is a proposed payment of cash or transfer of securities or property to shareholders, a fee at a rate that, subject to paragraph (4), is equal to $92 per $1,000,000 of such proposed payment, or of the value of such securities or other property proposed to be transferred; and
 
-&emsp;(ii) for preliminary proxy solicitation material involving a proposed sale or other disposition of substantially all of the assets of a company, a fee at a rate that, subject to paragraphs (5) and (6), is equal to $92 per $1,000,000 of the cash or of the value of any securities or other property proposed to be received upon such sale or disposition.
+&emsp;(ii) for preliminary proxy solicitation material involving a proposed sale or other disposition of substantially all of the assets of a company, a fee at a rate that, subject to paragraph (4), is equal to $92 per $1,000,000 of the cash or of the value of any securities or other property proposed to be received upon such sale or disposition.
 
 (B) The fee imposed under subparagraph (A) shall be reduced with respect to securities in an amount equal to any fee paid to the Commission with respect to such securities in connection with the proposed transaction under section 77f(b) of this title, or the fee paid under that section shall be reduced in an amount equal to the fee paid to the Commission in connection with such transaction under this subsection. Where two or more companies involved in an acquisition, merger, consolidation, sale, or other disposition of substantially all the assets of a company must file such proxy material with the Commission, each shall pay a proportionate share of such fee.
 
 (2) At the time of filing such preliminary information statement as the Commission may require by rule pursuant to subsection (c) of this section, the issuer shall pay to the Commission the same fee as required for preliminary proxy solicitation material under paragraph (1) of this subsection.
 
-(3) At the time of filing such statement as the Commission may require by rule pursuant to subsection (d)(1) of this section, the person making the filing shall pay to the Commission a fee at a rate that, subject to paragraphs (5) and (6), is equal to $92 per $1,000,000 of the aggregate amount of cash or of the value of securities or other property proposed to be offered. The fee shall be reduced with respect to securities in an amount equal to any fee paid with respect to such securities in connection with the proposed transaction under section 6(b) of the Securities Act of 1933 (15 U.S.C. 77f(b)), or the fee paid under that section shall be reduced in an amount equal to the fee paid to the Commission in connection with such transaction under this subsection.
+(3) At the time of filing such statement as the Commission may require by rule pursuant to subsection (d)(1) of this section, the person making the filing shall pay to the Commission a fee at a rate that, subject to paragraph (4), is equal to $92 per $1,000,000 of the aggregate amount of cash or of the value of securities or other property proposed to be offered. The fee shall be reduced with respect to securities in an amount equal to any fee paid with respect to such securities in connection with the proposed transaction under section 6(b) of the Securities Act of 1933 (15 U.S.C. 77f(b)), or the fee paid under that section shall be reduced in an amount equal to the fee paid to the Commission in connection with such transaction under this subsection.
 
 (4)
 
-Offsetting collections.—Fees collected pursuant to this subsection for any fiscal year shall be deposited and credited as offsetting collections to the account providing appropriations to the Commission, and, except as provided in paragraph (9), shall not be collected for any fiscal year except to the extent provided in advance in appropriation Acts. No fees collected pursuant to this subsection for fiscal year 2002 or any succeeding fiscal year shall be deposited and credited as general revenue of the Treasury.
+Annual adjustment.—For each fiscal year, the Commission shall by order adjust the rate required by paragraphs (1) and (3) for such fiscal year to a rate that is equal to the rate (expressed in dollars per million) that is applicable under section 6(b) of the Securities Act of 1933 (15 U.S.C. 77f(b)) for such fiscal year.
 
 (5)
 
-Annual adjustment.—For each of the fiscal years 2003 through 2011, the Commission shall by order adjust each of the rates required by paragraphs (1) and (3) for such fiscal year to a rate that is equal to the rate (expressed in dollars per million) that is applicable under section 6(b) of the Securities Act of 1933 \[15 U.S.C. 77f(b)\] for such fiscal year.
+Fee collection.—Fees collected pursuant to this subsection for fiscal year 2012 and each fiscal year thereafter shall be deposited and credited as general revenue of the Treasury and shall not be available for obligation.
 
 (6)
 
-Final rate adjustment.—For fiscal year 2012 and all of the succeeding fiscal years, the Commission shall by order adjust each of the rates required by paragraphs (1) and (3) for all of such fiscal years to a rate that is equal to the rate (expressed in dollars per million) that is applicable under section 6(b) of the Securities Act of 1933 \[15 U.S.C. 77f(b)\] for all of such fiscal years.
+Review; effective date; publication.—In exercising its authority under this subsection, the Commission shall not be required to comply with the provisions of section 553 of title 5. An adjusted rate prescribed under paragraph (4) shall be published and take effect in accordance with section 6(b) of the Securities Act of 1933 (15 U.S.C. 77f(b)).
 
 (7)
 
 Pro rata application.—The rates per $1,000,000 required by this subsection shall be applied pro rata to amounts and balances of less than $1,000,000.
 
-(8)
-
-Review and effective date.—In exercising its authority under this subsection, the Commission shall not be required to comply with the provisions of section 553 of title 5. An adjusted rate prescribed under paragraph (5) or (6) and published under paragraph (10) shall not be subject to judicial review. Subject to paragraphs (4) and (9)—
-
-&emsp;(A) an adjusted rate prescribed under paragraph (5) shall take effect on the later of—
-
-&emsp;&emsp;(i) the first day of the fiscal year to which such rate applies; or
-
-&emsp;&emsp;(ii) five days after the date on which a regular appropriation to the Commission for such fiscal year is enacted; and
-
-&emsp;(B) an adjusted rate prescribed under paragraph (6) shall take effect on the later of—
-
-&emsp;&emsp;(i) the first day of fiscal year 2012; or
-
-&emsp;&emsp;(ii) five days after the date on which a regular appropriation to the Commission for fiscal year 2012 is enacted.
-
-(9)
-
-Lapse of appropriation.—If on the first day of a fiscal year a regular appropriation to the Commission has not been enacted, the Commission shall continue to collect fees (as offsetting collections) under this subsection at the rate in effect during the preceding fiscal year, until 5 days after the date such a regular appropriation is enacted.
-
-(10)
-
-Publication.—The rate applicable under this subsection for each fiscal year is published pursuant to section 6(b)(10) of the Securities Act of 1933 \[15 U.S.C. 77f(b)(10)\].
-
-(11) Notwithstanding any other provision of law, the Commission may impose fees, charges, or prices for matters not involving any acquisition, merger, consolidation, sale, or other disposition of assets described in this subsection, as authorized by section 9701 of title 31, or otherwise.
+(8) Notwithstanding any other provision of law, the Commission may impose fees, charges, or prices for matters not involving any acquisition, merger, consolidation, sale, or other disposition of assets described in this subsection, as authorized by section 9701 of title 31, or otherwise.
 
 #### (h) Proxy solicitations and tender offers in connection with limited partnership rollup transactions
 
@@ -130,13 +106,13 @@ Publication.—The rate applicable under this subsection for each fiscal year is
 
 &emsp;&emsp;(D) set forth disclosure requirements for soliciting material distributed in connection with a limited partnership rollup transaction, including requirements for clear, concise, and comprehensible disclosure with respect to—
 
-&emsp;&emsp;&emsp;(i) any changes in the business plan, voting rights, form of ownership interest, orthe compensation of the general partner in the proposed limited partnership rollup transaction from each of the original limited partnerships;
+&emsp;&emsp;&emsp;(i) any changes in the business plan, voting rights, form of ownership interest, or the compensation of the general partner in the proposed limited partnership rollup transaction from each of the original limited partnerships;
 
 &emsp;&emsp;&emsp;(ii) the conflicts of interest, if any, of the general partner;
 
 &emsp;&emsp;&emsp;(iii) whether it is expected that there will be a significant difference between the exchange values of the limited partnerships and the trading price of the securities to be issued in the limited partnership rollup transaction;
 
-&emsp;&emsp;&emsp;(iv) the valuation of the limited partnerships and the method used to determine the value of the interests of the limited partners to be exchanged for the securities in the limited partnership rollup transaction;
+&emsp;&emsp;&emsp;(iv) the valuation of the limited partnerships and the method used to determinethe value of the interests of the limited partners to be exchanged for the securities in the limited partnership rollup transaction;
 
 &emsp;&emsp;&emsp;(v) the differing risks and effects of the limited partnership rollup transaction for investors in different limited partnerships proposed to be included, and the risks and effects of completing the limited partnership rollup transaction with less than all limited partnerships;
 
@@ -182,7 +158,7 @@ Publication.—The rate applicable under this subsection for each fiscal year is
 
 &emsp;&emsp;(B) any of the investors’ limited partnership securities are not, as of the date of filing, reported under a transaction reporting plan declared effective before December 17, 1993, by the Commission under section 78k–1 of this title;
 
-&emsp;&emsp;(C) investors in any of the limited partnerships involved in the transaction are subject to a significant adverse change with respect to voting rights, the term of existence of the entity, management compensation, or investment objectives; and
+&emsp;&emsp;(C) investors in any of the limited partnerships involved in the transaction are subjectto a significant adverse change with respect to voting rights, the term of existence of the entity, management compensation, or investment objectives; and
 
 &emsp;&emsp;(D) any of such investors are not provided an option to receive or retain a security under substantially the same terms and conditions as the original issue.
 
@@ -224,30 +200,6 @@ The Commission shall, by rule, require each issuer to disclose in any proxy or c
 
 (June 6, 1934, ch. 404, title I, §14, 48 Stat. 895; Pub. L. 88–467, §5, Aug. 20, 1964, 78 Stat. 569; Pub. L. 90–439, §3, July 29, 1968, 82 Stat. 455; Pub. L. 91–567, §§3–5, Dec. 22, 1970, 84 Stat. 1497; Pub. L. 98–38, §2(b), June 6, 1983, 97 Stat. 205; Pub. L. 99–222, §2, Dec. 28, 1985, 99 Stat. 1737; Pub. L. 101–550, title III, §302, Nov. 15, 1990, 104 Stat. 2721; Pub. L. 103–202, title III, §302(a), Dec. 17, 1993, 107 Stat. 2359; Pub. L. 105–353, title III, §301(b)(7), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 107–123, §6, Jan. 16, 2002, 115 Stat. 2396; Pub. L. 111–203, title IX, §§953(a), 955, 971(a), 991(b)(3), July 21, 2010, 124 Stat. 1903, 1904, 1915, 1953.)
 
-#### Amendment of Subsection (g)
-
-<i>Pub. L. 111–203, title IX, §991(b)(3), (4), July 21, 2010, 124 Stat. 1953, provided that, effective Oct. 1, 2011, subsection (g) of this section is amended as follows:</i>
-
-<i>(1) in paragraph (1), by striking “paragraphs (5) and (6)” each time that term appears and inserting “paragraph (4)”;</i>
-
-<i>(2) in paragraph (3), by striking “paragraphs (5) and (6)” and inserting “paragraph (4)”;</i>
-
-<i>(3) by striking paragraphs (4), (5), and (6) and inserting after paragraph (3) the following:</i>
-
-<i>“(4)</i>
-
-<i>Annual adjustment</i>.—<i>For each fiscal year, the Commission shall by order adjust the rate required by paragraphs (1) and (3) for such fiscal year to a rate that is equal to the rate (expressed in dollars per million) that is applicable under section 6(b) of the Securities Act of 1933 (15 U.S.C. 77f(b)) for such fiscal year.</i>
-
-<i>“(5)</i>
-
-<i>Fee collection</i>.—<i>Fees collected pursuant to this subsection for fiscal year 2012 and each fiscal year thereafter shall be deposited and credited as general revenue of the Treasury and shall not be available for obligation.</i>
-
-<i>“(6)</i>
-
-<i>Review; effective date; publication</i>.—<i>In exercising its authority under this subsection, the Commission shall not be required to comply with the provisions of section 553 of title 5. An adjusted rate prescribed under paragraph (4) shall be published and take effect in accordance with section 6(b) of the Securities Act of 1933 (15 U.S.C. 77f(b)).”; and</i>
-
-<i>(4) by striking paragraphs (8), (9), and (10) and redesignating paragraph (11) as paragraph (8).</i>
-
 #### References in Text
 
 This chapter, referred to in subsecs. (b) and (h)(1)(A), (2), (3), was in the original “this title”. See References in Text note set out under section 78a of this title.
@@ -259,6 +211,14 @@ The Securities Act of 1933, referred to in subsec. (h)(5)(C), is act May 27, 193
 #### Amendments
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–203, §971(a), designated existing provisions as par. (1) and added par. (2).
+
+Subsec. (g)(1)(A). Pub. L. 111–203, §991(b)(3)(A), substituted “paragraph (4)” for “paragraphs (5) and (6)” in cls. (i) and (ii).
+
+Subsec. (g)(3). Pub. L. 111–203, §991(b)(3)(B), substituted “paragraph (4)” for “paragraphs (5) and (6)”.
+
+Subsec. (g)(4) to (6). Pub. L. 111–203, §991(b)(3)(C), (D), added pars. (4) to (6) and struck out former pars. (4) to (6) which related to deposit and crediting of fees as offsetting collections, annual adjustment of rates, and final rate adjustment, respectively.
+
+Subsec. (g)(8) to (11). Pub. L. 111–203, §991(b)(3)(E), (F), redesignated par. (11) as (8) and struck out former pars. (8) to (10) which related to review and effective date of adjusted rate, collection of fees upon lapse of appropriation, and publication of rate, respectively.
 
 Subsec. (i). Pub. L. 111–203, §953(a), added subsec. (i).
 
@@ -306,11 +266,11 @@ Amendment by Pub. L. 107–123 effective Oct. 1, 2001, except that authorities p
 
 #### Effective Date of 1990 Amendment
 
-Section 303 of Pub. L. 101–550 provided that: “The amendments made by section 302 of this title \[amending this section\] shall take effect upon the expiration of 180 days after the date of enactment of this Act \[Nov. 15, 1990\].”
+Pub. L. 101–550, title III, §303, Nov. 15, 1990, 104 Stat. 2721, provided that: “The amendments made by section 302 of this title \[amending this section\] shall take effect upon the expiration of 180 days after the date of enactment of this Act \[Nov. 15, 1990\].”
 
 #### Effective Date of 1985 Amendment
 
-Section 3 of Pub. L. 99–222 provided that: “The amendments made by this Act \[amending this section\]shall become effective one year after the date of enactment of this Act \[Dec. 28, 1985\].”
+Pub. L. 99–222, §3, Dec. 28, 1985, 99 Stat. 1737, provided that: “The amendments made by this Act \[amending this section\] shall become effective one year after the date of enactment of this Act \[Dec. 28, 1985\].”
 
 #### Effective Date of 1964 Amendment
 
@@ -330,7 +290,7 @@ Exemptions.—The Commission may, by rule or order, exempt an issuer or class of
 
 \[For definitions of terms used in section 971(b), (c) of Pub. L. 111–203, set out above, see section 5301 of Title 12, Banks and Banking.\]
 
-Section 302(b) of Pub. L. 103–202 provided that: “The Securities and Exchange Commission shall conduct rulemaking proceedings and prescribe final regulations under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] and the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\] to implement the requirements of section 14(h) of the Securities Exchange Act of 1934 \[15 U.S.C. 78n(h)\], as amended by subsection (a), and such regulations shall become effective not later than 12 months after the date of enactment of this Act \[Dec. 17, 1993\].”
+Pub. L. 103–202, title III, §302(b), Dec. 17, 1993, 107 Stat. 2363, provided that: “The Securities and Exchange Commission shall conduct rulemaking proceedings and prescribe final regulations under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] and the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\] to implement the requirements of section 14(h) of the Securities Exchange Act of 1934 \[15 U.S.C. 78n(h)\], as amended by subsection\(a), and such regulations shall become effective not later than 12 months after the date of enactment of this Act \[Dec. 17, 1993\].”
 
 #### Construction of 1993 Amendment
 
@@ -358,7 +318,7 @@ Report.—Not later than 1 year after the date of enactment of this Act \[Oct. 1
 
 #### Evaluation of Fairness Opinion Preparation, Disclosure, and Use
 
-Section 302(c) of Pub. L. 103–202 provided that:
+Pub. L. 103–202, title III, §302(c), Dec. 17, 1993, 107 Stat. 2363, provided that:
 
 “(1)
 

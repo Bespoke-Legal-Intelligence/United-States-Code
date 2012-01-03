@@ -34,7 +34,7 @@ In this section and section 2279f of this title, the term “Secretary concerned
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–296, §421(h)(1), inserted “or the Department of Homeland Security” after “Department of Agriculture” and “or the Secretary of Homeland Security” after “Secretary of Agriculture”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–296, §421(h)(1), inserted “or the Department of Homeland Security” after “Department of Agriculture” and “or the Secretary of Homeland Security” after “Secretary of Agriculture”.
 
 Subsecs. (b) to (d)(1). Pub. L. 107–296, §421(h)(2), substituted “Secretary concerned” for “Secretary” wherever appearing.
 

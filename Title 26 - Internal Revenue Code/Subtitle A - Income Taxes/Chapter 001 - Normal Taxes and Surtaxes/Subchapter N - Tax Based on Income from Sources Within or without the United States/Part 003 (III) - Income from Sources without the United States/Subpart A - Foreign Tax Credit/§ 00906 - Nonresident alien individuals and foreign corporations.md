@@ -2,7 +2,7 @@
 
 #### (a) Allowance of credit
 
-A nonresident alien individual or a foreign corporation engaged in trade or business within the United States during the taxable year shall be allowed a credit under section 901 for the amount of any income, war profits, and excess profits taxes paid or accrued during the taxable year (or deemed, under section 902, paid or accrued during the taxable year) to any foreign country or possession of the United States with respect to income effectively connected with the conduct of a trade or business within the United States.
+A nonresident alien individual or a foreign corporation engaged in trade or business within the United States during the taxable year shall be allowed a credit under section 901 for the amount of any income, war profits, and excess profits taxes paid or accrued during the taxable year (or deemed, under section 902, paid or accrued during the taxable year) to any foreigncountry or possession of the United States with respect to income effectively connected with the conduct of a trade or business within the United States.
 
 #### (b) Special rules
 
@@ -14,7 +14,7 @@ A nonresident alien individual or a foreign corporation engaged in trade or busi
 
 (2) For purposes of subsection (a), in applying section 904 the taxpayer's taxable income shall be treated as consisting only of the taxable income effectively connected with the taxpayer's conduct of a trade or business within the United States.
 
-(3) The credit allowed pursuant to subsection (a) shall not be allowed against any tax imposed by section 871(a) (relating to income of nonresident alien individual not connected withUnited States business) or 881 (relating to income of foreign corporations not connected with United States business).
+(3) The credit allowed pursuant to subsection (a) shall not be allowed against any tax imposed by section 871(a) (relating to income of nonresident alien individual not connected with United States business) or 881 (relating to income of foreign corporations not connected with United States business).
 
 (4) For purposes of sections 902(a) and 78, a foreign corporation choosing the benefits of this subpart which receives dividends shall, with respect to such dividends, be treated as a domestic corporation.
 

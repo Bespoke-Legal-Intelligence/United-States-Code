@@ -18,5 +18,5 @@ Historical and Revision Notes
 
 Aug. 29, 1916, ch. 417 (2d proviso under heading “Pay, Miscellaneous”), 39 Stat. 557.
 
-The words “anywhere in the world” are substituted for “abroad and at home”, and the words “decides thatan expenditure should not be made public” are substituted for “may think it advisable not to specify”, for clarity and consistency.
+The words “anywhere in the world” are substituted for “abroad and at home”, and the words “decides that an expenditure should not be made public” are substituted for “may think it advisable not to specify”, for clarity and consistency.
 

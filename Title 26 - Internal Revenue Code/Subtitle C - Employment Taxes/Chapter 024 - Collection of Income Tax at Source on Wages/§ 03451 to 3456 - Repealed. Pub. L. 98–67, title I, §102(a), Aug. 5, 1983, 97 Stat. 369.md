@@ -38,7 +38,7 @@ In general.—If, notwithstanding the repeal made by subsection (a) (and the pro
 
 &emsp;“(2)
 
-Election to have paragraph (1) not apply.—Paragraph (1) shall not apply with respect to any payor who elects (at the time and in the manner prescribed by the Secretary of the Treasury or his delegate) to have paragraph (1) not apply.
+Election to have paragraph (1) not apply.—Paragraph (1) shall not apply with respect to anypayor who elects (at the time and in the manner prescribed by the Secretary of the Treasury or his delegate) to have paragraph (1) not apply.
 
 “(d)
 

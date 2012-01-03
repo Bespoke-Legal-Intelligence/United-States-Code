@@ -6,7 +6,7 @@
 
 (b) No unit may be established or maintained at an institution unless—
 
-&emsp;(1) the number of physically fit students in such unit who are in a grade above the 8th grade and are citizens or nationals of the United States, or aliens lawfully admitted to the United States for permanent residence, is not less than (A) 10 percent of the number of students enrolled in the institution who are ina grade above the 8th grade, or (B) 100, whichever is less;
+&emsp;(1) the number of physically fit students in such unit who are in a grade above the 8th grade and are citizens or nationals of the United States, or aliens lawfully admitted to the United States for permanent residence, is not less than (A) 10 percent of the number of students enrolled in the institution who are in a grade above the 8th grade, or (B) 100, whichever is less;
 
 &emsp;(2) the institution has adequate facilities for classroom instruction, storage of arms and other equipment which may be furnished in support of the unit, and adequate drill areas at or in the immediate vicinity of the institution, as determined by the Secretary of the military department concerned;
 

@@ -136,7 +136,7 @@ Section 2455 of the Federal Acquisition Streamlining Act of 1994, referred to in
 
 #### Amendments
 
-1998—Subsec. (a)(1)(D). Pub. L. 105–266, §2(a)(1)(A), added subpar. (D).
+<b>1998</b>—Subsec. (a)(1)(D). Pub. L. 105–266, §2(a)(1)(A), added subpar. (D).
 
 Subsec. (a)(2)(A). Pub. L. 105–266, §2(a)(1)(B), substituted “subsection (b), (c), or (d)” for “subsection (b) or (c)”.
 

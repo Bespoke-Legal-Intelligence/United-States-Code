@@ -50,7 +50,7 @@ This amendment reflects the authority contained in section 8067(e) and (f) of th
 
 #### Amendments
 
-<b>1980</b>—Pub. L. 96–513 substituted provision prohibiting an officer designated as a medical, dental, veterinary, medical service, or biomedical sciences officer or as a nurse from exercising command because of rank, except within the categories prescribed in section 8067(a) to (f) or (i) of this title, or over persons placed under his charge for provision prohibiting an officer designatedas a medical, dental, veterinary, or medical service officer from exercising command because of rank, except within categories prescribed in section 8067(a) to (d) of this title, and authorizing an Air Force nurse or medical specialist to exercise command only within his category, or over persons placed under his charge.
+<b>1980</b>—Pub. L. 96–513 substituted provision prohibiting an officer designated as a medical, dental, veterinary, medical service, or biomedical sciences officer or as a nurse from exercising command because of rank, except within the categories prescribed in section 8067(a) to (f) or (i) of this title, or over persons placed under his charge for provision prohibiting an officer designated as a medical, dental, veterinary, or medical service officer from exercising command because of rank, except within categories prescribed in section 8067(a) to (d) of this title, and authorizing an Air Force nurse or medical specialist to exercise command only within his category, or over persons placed under his charge.
 
 <b>1958</b>—Subsec. (b). Pub. L. 85–861 struck out “woman” before “medical specialist”, and substituted “his” for “her” in two places.
 

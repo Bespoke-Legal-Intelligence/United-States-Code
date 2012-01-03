@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(E) the amount of the shareholder's deduction for depletion for any oil and gas property held by the S corporation to the extent such deduction does not exceed the proportionate share of the adjusted basis of such property allocated to such shareholder under section 613A(c)(11)(B).
 
-> &emsp;The decrease under subparagraph (B) by reason of a charitable contribution (as defined in section 170(c)) of property shall be the amount equal to the shareholder's pro rata share of the adjusted basis of such property. The preceding sentence shall not apply to contributions made in taxable years beginning after December 31, 2011.
+> &emsp;The decrease under subparagraph (B) by reason of a charitable contribution (as defined insection 170(c)) of property shall be the amount equal to the shareholder's pro rata share of the adjusted basis of such property. The preceding sentence shall not apply to contributions made in taxable years beginning after December 31, 2011.
 
 #### (b) Special rules
 
@@ -38,7 +38,7 @@
 
 #### (A) Reduction of basis
 
-&emsp;&emsp;If for any taxable year the amounts specified in subparagraphs (B), (C), (D), and (E) ofsubsection (a)(2) exceed the amount which reduces the shareholder's basis to zero, such excess shall be applied to reduce (but not below zero) the shareholder's basis in any indebtedness of the S corporation to the shareholder.
+&emsp;&emsp;If for any taxable year the amounts specified in subparagraphs (B), (C), (D), and (E) of subsection (a)(2) exceed the amount which reduces the shareholder's basis to zero, such excess shall be applied to reduce (but not below zero) the shareholder's basis in any indebtedness of the S corporation to the shareholder.
 
 #### (B) Restoration of basis
 

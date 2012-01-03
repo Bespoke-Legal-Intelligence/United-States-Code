@@ -14,7 +14,7 @@
 
 #### (2) Mandatory funds for eligible not-for-profit servicers
 
-&emsp;For fiscal years 2010 through 2019, there shall be available to the Secretary, in addition toany other amounts appropriated to carry out this paragraph and out of any money in the Treasury not otherwise appropriated, funds to be obligated for administrative costs of servicing contracts with eligible not-for-profit servicers as described in section 1087f of this title.
+&emsp;For fiscal years 2010 through 2019, there shall be available to the Secretary, in addition to any other amounts appropriated to carry out this paragraph and out of any money in the Treasury not otherwise appropriated, funds to be obligated for administrative costs of servicing contracts with eligible not-for-profit servicers as described in section 1087f of this title.
 
 #### (3) Authorization for administrative costs beginning in fiscal years 2007 through 2014
 
@@ -22,7 +22,7 @@
 
 #### (4) Continuing mandatory funds for account maintenance fees
 
-&emsp;For each of the fiscal years 2007 through 2014, there shall be available to the Secretary, from funds not otherwise appropriated, funds to be obligated for account maintenance fees payable to guaranty agencies under part B and calculated in accordance with subsection (b).
+&emsp;For each of the fiscal years 2007 through 2014, there shall be available to the Secretary,from funds not otherwise appropriated, funds to be obligated for account maintenance fees payable to guaranty agencies under part B and calculated in accordance with subsection (b).
 
 #### (5) Account maintenance fees
 

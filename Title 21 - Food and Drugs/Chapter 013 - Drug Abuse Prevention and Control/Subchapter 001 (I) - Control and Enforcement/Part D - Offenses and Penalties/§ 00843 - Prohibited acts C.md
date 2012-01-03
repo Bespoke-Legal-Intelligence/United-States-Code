@@ -16,7 +16,7 @@ It shall be unlawful for any person knowingly or intentionally—
 
 &emsp;(6) to possess any three-neck round-bottom flask, tableting machine, encapsulating machine, or gelatin capsule, or any equipment, chemical, product, or material which may be used to manufacture a controlled substance or listed chemical, knowing, intending, or having reasonable cause to believe, that it will be used to manufacture a controlled substance or listed chemical in violation of this subchapter or subchapter II of this chapter;
 
-&emsp;(7) to manufacture, distribute, export, or import any three-neck round-bottom flask,tableting machine, encapsulating machine, or gelatin capsule, or any equipment, chemical, product, or material which may be used to manufacture a controlled substance or listed chemical, knowing, intending, or having reasonable cause to believe, that it will be used to manufacture a controlled substance or listed chemical in violation of this subchapter or subchapter II of this chapter or, in the case of an exportation, in violation of this subchapter or subchapter II of this chapter or of the laws of the country to which it is exported;
+&emsp;(7) to manufacture, distribute, export, or import any three-neck round-bottom flask, tableting machine, encapsulating machine, or gelatin capsule, or any equipment, chemical, product, or material which may be used to manufacture a controlled substance or listed chemical, knowing, intending, or having reasonable cause to believe, that it will be used to manufacture a controlled substance or listed chemical in violation of this subchapter or subchapter II of this chapter or, in the case of an exportation, in violation of this subchapter or subchapter II of this chapter or of the laws of the country to which it is exported;
 
 &emsp;(8) to create a chemical mixture for the purpose of evading a requirement of section 830 of this title or to receive a chemical mixture created for that purpose; or
 
@@ -32,7 +32,7 @@ It shall be unlawful for any person knowingly or intentionally to use any commun
 
 (2)(A) It shall be unlawful for any person to knowingly or intentionally use the Internet, or cause the Internet to be used, to advertise the sale of, or to offer to sell, distribute, or dispense, a controlled substance where such sale, distribution, or dispensing is not authorized by this subchapter or by the Controlled Substances Import and Export Act \[21 U.S.C. 951 et seq.\].
 
-(B) Examples of activities that violate subparagraph (A) include, but are not limited to, knowingly or intentionally causing the placement on the Internet of an advertisement that refers to or directs prospective buyers to Internet sellers of controlled substances who are not registered with a modification under section 823(f) of this title.
+(B) Examples of activities that violate subparagraph (A) include, but are not limited to, knowingly or intentionally causing the placement on the Internet of an advertisement thatrefers to or directs prospective buyers to Internet sellers of controlled substances who are not registered with a modification under section 823(f) of this title.
 
 (C) Subparagraph (A) does not apply to material that either—
 
@@ -62,7 +62,7 @@ In addition to any other applicable penalty, any person convicted of a felony vi
 
 (1) In addition to any penalty provided in this section, the Attorney General is authorized to commence a civil action for appropriate declaratory or injunctive relief relating to violations of this section, section 842 of this title, or 856 <sup>2</sup> of this title.
 
-(2) Any action under this subsection may be brought in the district court of the UnitedStates for the district in which the defendant is located or resides or is doing business.
+(2) Any action under this subsection may be brought in the district court of the United States for the district in which the defendant is located or resides or is doing business.
 
 (3) Any order or judgment issued by the court pursuant to this subsection shall be tailored to restrain violations of this section or section 842 of this title.
 

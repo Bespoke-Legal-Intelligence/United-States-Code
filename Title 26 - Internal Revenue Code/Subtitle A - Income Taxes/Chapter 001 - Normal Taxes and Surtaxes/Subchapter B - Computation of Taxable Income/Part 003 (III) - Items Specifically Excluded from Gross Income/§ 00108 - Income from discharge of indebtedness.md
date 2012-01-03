@@ -100,7 +100,7 @@
 
 #### (C) Reductions under subparagraphs (B) and (G) of paragraph (2)
 
-&emsp;&emsp;The reductions described in subparagraphs (B) and (G) of paragraph (2) shall be made in the order in which carryovers are taken intoaccount under this chapter for the taxable year of the discharge.
+&emsp;&emsp;The reductions described in subparagraphs (B) and (G) of paragraph (2) shall be made in the order in which carryovers are taken into account under this chapter for the taxable year of the discharge.
 
 #### (5) Election to apply reduction first against depreciable property
 
@@ -110,7 +110,7 @@
 
 #### (B) Limitation
 
-&emsp;&emsp;The amount to which an election under subparagraph (A) applies shall not exceed the aggregate adjusted bases of the depreciable property held by the taxpayer as of the beginning of the taxable year following the taxable year in which the discharge occurs.
+&emsp;&emsp;The amount to which an election under subparagraph (A) applies shall not exceedthe aggregate adjusted bases of the depreciable property held by the taxpayer as of the beginning of the taxable year following the taxable year in which the discharge occurs.
 
 #### (C) Other tax attributes not reduced
 
@@ -198,7 +198,7 @@
 
 #### (B) Reduction in carryover of disallowed losses and deductions
 
-&emsp;&emsp;In the case of an S corporation, for purposes of subparagraph (A) of subsection (b)(2), any loss or deduction which is disallowed for the taxable year of the discharge under section 1366(d)(1) shall be treated as a net operating loss for such taxable year. The preceding sentence shall not apply to any discharge to the extent that subsection (a)(1)(D) applies to such discharge.
+&emsp;&emsp;In the case of an S corporation, for purposes of subparagraph (A) of subsection (b)(2), any loss or deduction which is disallowed for the taxable year of the dischargeunder section 1366(d)(1) shall be treated as a net operating loss for such taxable year. The preceding sentence shall not apply to any discharge to the extent that subsection (a)(1)(D) applies to such discharge.
 
 #### (C) Coordination with basis adjustments under section 1367(b)(2)
 
@@ -274,7 +274,7 @@ For purposes of this title—
 
 #### (6) Indebtedness contributed to capital
 
-&emsp;Except as provided in regulations, for purposes of determining income of the debtorfrom discharge of indebtedness, if a debtor corporation acquires its indebtedness from a shareholder as a contribution to capital—
+&emsp;Except as provided in regulations, for purposes of determining income of the debtor from discharge of indebtedness, if a debtor corporation acquires its indebtedness from a shareholder as a contribution to capital—
 
 &emsp;&emsp;(A) section 118 shall not apply, but
 
@@ -364,7 +364,7 @@ For purposes of this title—
 
 &emsp;&emsp;(D) any educational organization described in section 170(b)(1)(A)(ii) if such loan is made—
 
-&emsp;&emsp;&emsp;(i) pursuant to an agreement with any entity described in subparagraph (A), (B), or (C) under which the funds from which the loan was made were provided to such educational organization, or
+&emsp;&emsp;&emsp;(i) pursuant to an agreement with any entity described in subparagraph (A), (B), or (C) under which the funds from whichthe loan was made were provided to such educational organization, or
 
 &emsp;&emsp;&emsp;(ii) pursuant to a program of such educational organization which is designed to encourage its students to serve in occupations with unmet needs or in areas with unmet needs and under which the services provided by the students (or former students) are for or under the direction of a governmental unit or an organization described in section 501(c)(3) and exempt from tax under section 501(a).
 
@@ -428,7 +428,7 @@ For purposes of this title—
 
 #### (2) Qualified principal residence indebtedness
 
-&emsp;For purposes of this section, the term “qualified principal residence indebtedness”means acquisition indebtedness (within the meaning of section 163(h)(3)(B), applied by substituting “$2,000,000 ($1,000,000” for “$1,000,000 ($500,000” in clause (ii) thereof) with respect to the principal residence of the taxpayer.
+&emsp;For purposes of this section, the term “qualified principal residence indebtedness” means acquisition indebtedness (within the meaning of section 163(h)(3)(B), applied by substituting “$2,000,000 ($1,000,000” for “$1,000,000 ($500,000” in clause (ii) thereof) with respect to the principal residence of the taxpayer.
 
 #### (3) Exception for certain discharges not related to taxpayer's financial condition
 
@@ -436,7 +436,7 @@ For purposes of this title—
 
 #### (4) Ordering rule
 
-&emsp;If any loan is discharged, in whole or in part, and only a portion of such loan is qualified principal residence indebtedness, subsection (a)(1)(E) shall apply only to so much of the amount discharged as exceeds the amount of the loan (as determined immediately before such discharge) which is not qualified principal residence indebtedness.
+&emsp;If any loan is discharged, in whole or in part, and only a portion of such loan is qualifiedprincipal residence indebtedness, subsection (a)(1)(E) shall apply only to so much of the amount discharged as exceeds the amount of the loan (as determined immediately before such discharge) which is not qualified principal residence indebtedness.
 
 #### (5) Principal residence
 
@@ -502,7 +502,7 @@ For purposes of this title—
 
 #### (B) Acquisition
 
-&emsp;&emsp;The term “acquisition” shall, with respect to any applicable debt instrument, include an acquisition of the debt instrument for cash, the exchange of the debt instrument for another debt instrument (including anexchange resulting from a modification of the debt instrument), the exchange of the debt instrument for corporate stock or a partnership interest, and the contribution of the debt instrument to capital. Such term shall also include the complete forgiveness of the indebtedness by the holder of the debt instrument.
+&emsp;&emsp;The term “acquisition” shall, with respect to any applicable debt instrument, include an acquisition of the debt instrument for cash, the exchange of the debt instrument for another debt instrument (including an exchange resulting from a modification of the debt instrument), the exchange of the debt instrument for corporate stock or a partnership interest, and the contribution of the debt instrument to capital. Such term shall also include the complete forgiveness of the indebtedness by the holder of the debt instrument.
 
 #### (5) Other definitions and rules
 
@@ -516,7 +516,7 @@ For purposes of this title—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;An election under this subsection with respect to any applicable debt instrument shall be made by including with the return of tax imposed by chapter 1 for the taxable year in which the reacquisition of the debt instrument occurs a statement which—
+&emsp;&emsp;&emsp;An election under this subsection with respect to any applicable debt instrumentshall be made by including with the return of tax imposed by chapter 1 for the taxable year in which the reacquisition of the debt instrument occurs a statement which—
 
 &emsp;&emsp;&emsp;&emsp;(I) clearly identifies such instrument, and
 
@@ -750,7 +750,7 @@ Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Se
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–148, title X, §10908(b), Mar. 23, 2010, 124 Stat. 1021, provided that: “The amendment made by this section \[amending this section\] shall apply to amounts received by an individual in taxable years beginning after December 31, 2008.”
+Pub. L. 111–148, title X, §10908(b), Mar. 23, 2010, 124 Stat. 1021, provided that: “The amendment made bythis section \[amending this section\] shall apply to amounts received by an individual in taxable years beginning after December 31, 2008.”
 
 #### Effective Date of 2009 Amendment
 
@@ -840,7 +840,7 @@ Amendment by section 11813(b)(6) of Pub. L. 101–508 applicable to property pla
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -928,7 +928,7 @@ Transitional rule.—In the case of any discharge of indebtedness to which subpa
 
 &emsp;&emsp;“(A) section 108(b)(2) of the such Code (relating to reduction of tax attributes), as so amended, shall be applied without regard to subparagraphs (A), (B), (C), and (E) thereof, and
 
-&emsp;&emsp;“(B) the basis of any property shall not be reduced under section 1017 of such Code (relating toreduction in basis in connection with discharges of indebtedness), as so amended, below the fair market value of such property on the date the debt is discharged.
+&emsp;&emsp;“(B) the basis of any property shall not be reduced under section 1017 of such Code (relating to reduction in basis in connection with discharges of indebtedness), as so amended, below the fair market value of such property on the date the debt is discharged.
 
 “(b)
 

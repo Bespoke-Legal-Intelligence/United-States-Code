@@ -58,7 +58,7 @@ For purposes of this section—
 
 #### (3) Related terminal services
 
-&emsp;The term “related terminal services” includes only services, and the use of facilities, taken into account in computing related terminal income.
+&emsp;The term “related terminal services” includes only services, and the use of facilities,taken into account in computing related terminal income.
 
 #### (e) Regulations
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;For each fiscal year, the Secretary shall reserve 5 percent of the amount appropriated under section 6302(b)(3) of this title (or, if such appropriated amount exceeds $200,000,000, 6 percent of such amount) for programs, under such terms and conditions as the Secretary shall establish, that are consistent with the purpose of this subpart, and according to their relative needs, for—
+&emsp;For each fiscal year, the Secretary shall reserve 5 percent of the amount appropriatedunder section 6302(b)(3) of this title (or, if such appropriated amount exceeds $200,000,000, 6 percent of such amount) for programs, under such terms and conditions as the Secretary shall establish, that are consistent with the purpose of this subpart, and according to their relative needs, for—
 
 &emsp;&emsp;(A) children of migratory workers;
 
@@ -82,7 +82,7 @@
 
 #### (4) Technical assistance
 
-&emsp;The Secretary shall provide, directly or through a grant or contract with an organization with experience in the development and operation of successful family literacy services, technical assistance to State educational agencies receiving a grant under this subsection.
+&emsp;The Secretary shall provide, directly or through a grant or contract with an organization with experience in the development andoperation of successful family literacy services, technical assistance to State educational agencies receiving a grant under this subsection.
 
 #### (5) Matching requirement
 

@@ -2,7 +2,7 @@
 
 #### (a) Submission and contents of applications
 
-A State which desires to obtain a payment under this subpart for any fiscal year shall submit annually an application therefor throughthe State agency administering its program under this subpart as of July 1, 1985, unless the Governor of that State so designates, in writing, a different agency to administer the program. The application shall contain such information as may be required by, or pursuant to, regulation for the purpose of enabling the Secretary to make the determinations required under this subpart.
+A State which desires to obtain a payment under this subpart for any fiscal year shall submit annually an application therefor through the State agency administering its program under this subpart as of July 1, 1985, unless the Governor of that State so designates, in writing, a different agency to administer the program. The application shall contain such information as may be required by, or pursuant to, regulation for the purpose of enabling the Secretary to make the determinations required under this subpart.
 
 #### (b) Payment of Federal share of grants made by qualified program
 
@@ -48,7 +48,7 @@ Upon his approval of any application for a payment under this subpart, the Secre
 
 #### Prior Provisions
 
-A prior section 1070c–2, Pub. L. 89–329, title IV, §415C, as added Pub. L. 92–318, title I, §131(b)(1), June 23, 1972, 86 Stat. 256; amended Pub. L. 94–482, title I, §123(b), Oct.12, 1976, 90 Stat. 2094; Pub. L. 95–43, §1(a)(6), June 15, 1977, 91 Stat. 213; Pub. L. 95–566, §3, Nov. 1, 1978, 92 Stat. 2403; Pub. L. 96–374, title IV, §404(c), title XIII, §1391(a)(1), (2), Oct. 3, 1980, 94 Stat. 1407, 1503, related to payment of grants to States for State student incentives, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1070c–2, Pub. L. 89–329, title IV, §415C, as added Pub. L. 92–318, title I, §131(b)(1), June 23, 1972, 86 Stat. 256; amended Pub. L. 94–482, title I, §123(b), Oct. 12, 1976, 90 Stat. 2094; Pub. L. 95–43, §1(a)(6), June 15, 1977, 91 Stat. 213; Pub. L. 95–566, §3, Nov. 1, 1978, 92 Stat. 2403; Pub. L. 96–374, title IV, §404(c), title XIII, §1391(a)(1), (2), Oct. 3, 1980, 94 Stat. 1407, 1503, related to payment of grants to States for State student incentives, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 

@@ -40,5 +40,5 @@ The Global Environmental Protection Assistance Act of 1989, referred to in subse
 
 #### Amendments
 
-1991—Subsec. (a)(1). Pub. L. 102–237 substituted “2281 et seq.);” for “462), and—”.
+<b>1991</b>—Subsec. (a)(1). Pub. L. 102–237 substituted “2281 et seq.);” for “462), and—”.
 

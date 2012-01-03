@@ -80,31 +80,31 @@ Any member of the Board who fails to attend 4 consecutive Board meetings schedul
 
 #### Amendments
 
-2010—Subsec. (b). Pub. L. 111–200 added subsec. (b) and struck out former subsec. (b) which related to terms of appointed members and reappointment of members.
+<b>2010</b>—Subsec. (b). Pub. L. 111–200 added subsec. (b) and struck out former subsec. (b) which related to terms of appointed members and reappointment of members.
 
-2005—Subsec. (a)(1)(B), (C). Pub. L. 109–143, §1(c)(1)(A), substituted “a local” for “a a local”.
+<b>2005</b>—Subsec. (a)(1)(B), (C). Pub. L. 109–143, §1(c)(1)(A), substituted “a local” for “a a local”.
 
 Subsec. (b)(3)(B). Pub. L. 109–143, §1(c)(1)(B), substituted “subsection” for “section” in two places.
 
-2000—Subsec. (i). Pub. L. 106–533, §1(b)(5), made technical amendment to reference in original act which appears in text as reference to section 806 of this title.
+<b>2000</b>—Subsec. (i). Pub. L. 106–533, §1(b)(5), made technical amendment to reference in original act which appears in text as reference to section 806 of this title.
 
-1999—Subsec. (a)(1)(A). Pub. L. 106–63, §1(b)(1), substituted “recipient of the Congressional Award” for “member of the Congressional Award Association”.
+<b>1999</b>—Subsec. (a)(1)(A). Pub. L. 106–63, §1(b)(1), substituted “recipient of the Congressional Award” for “member of the Congressional Award Association”.
 
 Subsec. (a)(1)(B), (C). Pub. L. 106–63, §1(b)(2), substituted “a local Congressional Award program volunteer” for “representative of a local Congressional Award Council”.
 
 Subsec. (a)(1)(D). Pub. L. 106–63, §1(b)(1), substituted “recipient of the Congressional Award” for “member of the Congressional Award Association”.
 
-1990—Subsec. (a)(4). Pub. L. 101–525, §4, added par. (4).
+<b>1990</b>—Subsec. (a)(4). Pub. L. 101–525, §4, added par. (4).
 
 Subsec. (b). Pub. L. 101–525, §5, designated existing provision as par. (1) and substituted “and (unless reappointed under paragraph (3)) shall serve for a term of 4 years” for “but (unless reappointed) shall not serve for more than four years”, and added pars. (2) and (3).
 
 Subsec. (j). Pub. L. 101–525, §6, added subsec. (j).
 
-1988—Subsec. (a)(1). Pub. L. 100–674, §2(b)(1), in introductory provisions, substituted “25” for “thirty-three”, in subpars. (A) to (D), substituted “Six members” for “Eight members”, in subpars. (A) and (D), inserted “, 1 of whom shall be a member of the Congressional Award Association”, and in subpars. (B) and (C), inserted “, 1 of whom shall be a representative of a local Congressional Award Council”.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–674, §2(b)(1), in introductory provisions, substituted “25” for “thirty-three”, in subpars. (A) to (D), substituted “Six members” for “Eight members”, in subpars. (A) and (D), inserted “, 1 of whom shall be a member of the Congressional Award Association”, and in subpars. (B) and (C), inserted “, 1 of whom shall be a representative of a local Congressional Award Council”.
 
 Subsec. (d). Pub. L. 100–674, §2(b)(2), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “A majority of the members of the Board shall constitute a quorum.”
 
-1985—Subsec. (a)(2). Pub. L. 99–161, §2(1), inserted “One of the members appointed under each of subparagraphs (A) through (D) of paragraph (1) shall be a member of the Congress.”
+<b>1985</b>—Subsec. (a)(2). Pub. L. 99–161, §2(1), inserted “One of the members appointed under each of subparagraphs (A) through (D) of paragraph (1) shall be a member of the Congress.”
 
 Subsec. (b). Pub. L. 99–161, §2(2), amended subsec. (b) generally, substituting provisions for continuance of service of appointed members at pleasure of appointing officer, but unless reappointed, for not more than four years, for provisions limiting term of service to six years with exceptions for first appointed members and individuals appointed to Board after March 31, 1983, whose terms were limited.
 
@@ -114,7 +114,7 @@ Subsec. (f). Pub. L. 99–161, §4(d), substituted “meet at least twice a year
 
 Subsec. (i). Pub. L. 99–161, §4(e), inserted requirement that bylaws and other regulations include provisions preventing conflict of interest, and include appropriate fiscal control, funds accountability, etc., to comply with section 806 of this title, and inserted provisions requiring transmittal of a copy of such bylaws to each House of Congress within specified periods of time.
 
-1983—Subsec. (a)(1). Pub. L. 98–33, §1(a)(1), (2), substituted “thirty-three” for “seventeen” in the matter preceding subpar. (A), and substituted “Eight” for “Four” in each of subpars. (A) through (D).
+<b>1983</b>—Subsec. (a)(1). Pub. L. 98–33, §1(a)(1), (2), substituted “thirty-three” for “seventeen” in the matter preceding subpar. (A), and substituted “Eight” for “Four” in each of subpars. (A) through (D).
 
 Subsec. (a)(2). Pub. L. 98–33, §1(a)(3), struck out “or the Committee for the Establishment and Promotion of the Congressional Award” after “member of the Board”.
 

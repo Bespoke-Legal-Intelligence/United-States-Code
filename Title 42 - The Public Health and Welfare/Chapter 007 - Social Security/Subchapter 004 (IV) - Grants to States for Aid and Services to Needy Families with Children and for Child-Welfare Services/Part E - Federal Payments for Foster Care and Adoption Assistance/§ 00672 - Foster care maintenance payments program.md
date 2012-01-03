@@ -26,7 +26,7 @@
 
 &emsp;&emsp;&emsp;(ii) any other public agency with which the State agency administering or supervising the administration of the State plan has made an agreement which is in effect; or
 
-&emsp;&emsp;&emsp;(iii) an Indian tribe or a tribal organization (as defined in section 679c(a) of this title) or a tribal consortium that has a plan approved under section 671 of thistitle in accordance with section 679c of this title; and
+&emsp;&emsp;&emsp;(iii) an Indian tribe or a tribal organization (as defined in section 679c(a) of this title) or a tribal consortium that has a plan approved under section 671 of this title in accordance with section 679c of this title; and
 
 &emsp;&emsp;(C) the child has been placed in a foster family home or child-care institution.
 
@@ -72,7 +72,7 @@ No Federal payment may be made under this part with respect to amounts expended 
 
 #### (f) “Voluntary placement” and “voluntary placement agreement” defined
 
-For the purposes of this part and part B of this subchapter, (1) the term “voluntary placement” means an out-of-home placement of a minor, by or with participation of a State agency, afterthe parents or guardians of the minor have requested the assistance of the agency and signed a voluntary placement agreement; and (2) the term “voluntary placement agreement” means a written agreement, binding on the parties to the agreement, between the State agency, any other agency acting on its behalf, and the parents or guardians of a minor child which specifies, at a minimum, the legal status of the child and the rights and obligations of the parents or guardians, the child, and the agency while the child is in placement.
+For the purposes of this part and part B of this subchapter, (1) the term “voluntary placement” means an out-of-home placement of a minor, by or with participation of a State agency, after the parents or guardians of the minor have requested the assistance of the agency and signed a voluntary placement agreement; and (2) the term “voluntary placement agreement” means a written agreement, binding on the parties to the agreement, between the State agency, any other agency acting on its behalf, and the parents or guardians of a minor child which specifies, at a minimum, the legal status of the child and the rights and obligations of the parents or guardians, the child, and the agency while the child is in placement.
 
 #### (g) Revocation of voluntary placement agreement
 
@@ -111,8 +111,6 @@ Expenditures by a State that would be considered administrative expenditures for
 #### References in Text
 
 The Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in subsec. (a)(4), is Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2105. Title IV of the Act is classified principally to chapter 14 (§1601 et seq.) of Title 8, Aliens and Nationality. For complete classification of title IV to the Code, see Tables.
-
-Parts A and B of this subchapter, referred to in subsecs. (f) and (h), are classified to sections 601 et seq. and 620 et seq., respectively, of this title.
 
 Division A of subchapter XX, referred to in subsec. (h)(1), was in the original a reference to subtitle 1 of title XX, which was translated as if referring to subtitle A of title XX of the Social Security Act, to reflect the probable intent of Congress. Title XX of the Act, enacting subchapter XX of this chapter, does not contain a subtitle 1.
 
@@ -172,7 +170,7 @@ Subsecs. (d) to (h). Pub. L. 96–272, §102(a)(2), added subsecs. (d) to (g). F
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–351, title II, §201(d), Oct. 7, 2008, 122 Stat. 3959, provided that: “The amendments made by this section \[amending this section and sections 673 and 675 of this title\] shall take effect on October 1, 2010.”
+Pub. L. 110–351, title II, §201(d), Oct. 7, 2008, 122 Stat. 3959, provided that: “The amendments made by thissection \[amending this section and sections 673 and 675 of this title\] shall take effect on October 1, 2010.”
 
 Amendment by section 301(a)(2) of Pub. L. 110–351 effective Oct. 1, 2009, without regard to whether implementing regulations have been promulgated, see section 301(f) of Pub. L. 110–351, set out as a note under section 671 of this title.
 
@@ -194,7 +192,7 @@ Amendment by section 5592(b) of Pub. L. 105–33 effective as if included in the
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 108(d)(3), (4) of Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts forterminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, set out as an Effective Date note under section 601 of this title.
+Amendment by section 108(d)(3), (4) of Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, set out as an Effective Date note under section 601 of this title.
 
 #### Effective Date of 1994 Amendment
 

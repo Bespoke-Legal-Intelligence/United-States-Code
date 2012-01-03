@@ -134,7 +134,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (e)(2). Pub. L. 110–246, §1507(a), substituted “2012” for “2007”.
+<b>2008</b>—Subsec. (e)(2). Pub. L. 110–246, §1507(a), substituted “2012” for “2007”.
 
 Subsec. (g)(3). Pub. L. 110–246, §1507(d), added par. (3) and struck out former par. (3) which read as follows: “The rate of assessment for milk produced in the United States and imported dairy products prescribed by the order shall be 15 cents per hundredweight of milk for commercial use or the equivalent thereof, as determined by the Secretary.”
 
@@ -142,7 +142,7 @@ Subsec. (g)(6)(B), (C). Pub. L. 110–246, §1507(e), redesignated subpar. (C) a
 
 Subsec. (g)(7). Pub. L. 110–246, §1507(f), added par. (7).
 
-2002—Subsec. (b). Pub. L. 107–171, §1505(b), inserted heading, designated first to ninth sentences as pars. (1) to (5) and (7) to (10), respectively, and realigned margins, substituted “Except as provided in paragraph (6), the members of the Board” for “Members of the Board” in par. (2) and “is produced as well as importers of dairy products” for “is produced” in par. (8), and added par. (6).
+<b>2002</b>—Subsec. (b). Pub. L. 107–171, §1505(b), inserted heading, designated first to ninth sentences as pars. (1) to (5) and (7) to (10), respectively, and realigned margins, substituted “Except as provided in paragraph (6), the members of the Board” for “Members of the Board” in par. (2) and “is produced as well as importers of dairy products” for “is produced” in par. (8), and added par. (6).
 
 Subsec. (e). Pub. L. 107–171, §1505(c), inserted heading, designated existing provisions as par. (1), inserted heading, and struck out “For each of fiscal years 1997 through 2001, the Board's budget may provide for the expenditure of revenues available to the Board to develop international markets for, and to promote within such markets, the consumption of dairy products produced in the United States from milk produced in the United States.” at end, and added par. (2).
 
@@ -150,7 +150,7 @@ Subsec. (g). Pub. L. 107–171, §1505(d), inserted heading, designated first to
 
 Subsec. (k). Pub. L. 107–171, §1505(e), substituted “importer of imported dairy products, each person receiving milk from farmers” for “person receiving milk from farmers” in first sentence.
 
-1996—Subsec. (e). Pub. L. 104–127 inserted at end “For each of fiscal years 1997 through 2001, the Board's budget may provide for the expenditure of revenues available to the Board to develop international markets for, and to promote within such markets, the consumption of dairy products produced in the United States from milk produced in the United States.”
+<b>1996</b>—Subsec. (e). Pub. L. 104–127 inserted at end “For each of fiscal years 1997 through 2001, the Board's budget may provide for the expenditure of revenues available to the Board to develop international markets for, and to promote within such markets, the consumption of dairy products produced in the United States from milk produced in the United States.”
 
 #### Effective Date of 2008 Amendment
 

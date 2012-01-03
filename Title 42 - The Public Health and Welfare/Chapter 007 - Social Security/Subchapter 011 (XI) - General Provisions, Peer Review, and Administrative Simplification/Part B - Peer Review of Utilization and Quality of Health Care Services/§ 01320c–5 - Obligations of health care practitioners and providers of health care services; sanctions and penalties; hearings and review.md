@@ -8,11 +8,11 @@ It shall be the obligation of any health care practitioner and any other person 
 
 &emsp;(2) will be of a quality which meets professionally recognized standards of health care; and
 
-&emsp;(3) will be supported by evidence of medical necessity and quality in such form and fashion and at such time as may reasonably be required by a reviewing peer review organization in the exercise of its duties and responsibilities.
+&emsp;(3) will be supported by evidence of medical necessity and quality in such form and fashion and at such time as may reasonably be required by a reviewing quality improvement organization in the exercise of its duties and responsibilities.
 
 #### (b) Sanctions and penalties; hearings and review
 
-(1) If after reasonable notice and opportunity for discussion with the practitioner or person concerned, and, if appropriate, after the practitioner or person has been given a reasonable opportunity to enter into and complete a corrective action plan (which may include remedial education) agreed to by the organization, and has failed successfully to complete such plan, any organization having a contract with the Secretary under this part determines that such practitioner or person has—
+(1) If after reasonable notice and opportunity for discussion with the practitioner or person concerned, and, if appropriate, after the practitioner or person has been given a reasonable opportunity to enter into and complete a corrective action plan (which may include remedial education) agreed to by the organization, and has failed successfully to complete such plan,any organization having a contract with the Secretary under this part determines that such practitioner or person has—
 
 &emsp;(A) failed in a substantial number of cases substantially to comply with any obligation imposed on him under subsection (a) of this section, or
 
@@ -24,7 +24,7 @@ It shall be the obligation of any health care practitioner and any other person 
 
 (3) In lieu of the sanction authorized by paragraph (1), the Secretary may require that (as a condition to the continued eligibility of such practitioner or person to provide such health care services on a reimbursable basis) such practitioner or person pays <sup>1</sup> to the United States, in case such acts or conduct involved the provision or ordering by such practitioner or person of health care services which were medically improper or unnecessary, an amount not in excess of up to $10,000 for each instance of the medically improper or unnecessary services so provided. Such amount may be deducted from any sums owing by the United States (or any instrumentality thereof) to the practitioner or person from whom such amount is claimed.
 
-(4) Any practitioner or person furnishing services described in paragraph (1) who is dissatisfied with a determination made by the Secretary under this subsection shall be entitled to reasonable notice and opportunity for a hearing thereon by the Secretary to the same extent as is provided in section 405(b) of this title, and to judicial review of the Secretary's final decisionafter such hearing as is provided in section 405(g) of this title.
+(4) Any practitioner or person furnishing services described in paragraph (1) who is dissatisfied with a determination made by the Secretary under this subsection shall be entitled to reasonable notice and opportunity for a hearing thereon by the Secretary to the same extent as is provided in section 405(b) of this title, and to judicial review of the Secretary's final decision after such hearing as is provided in section 405(g) of this title.
 
 (5) Before the Secretary may effect an exclusion under paragraph (2) in the case of a provider or practitioner located in a rural health professional shortage area or in a county with a population of less than 70,000, the provider or practitioner adversely affected by the determination is entitled to a hearing before an administrative law judge (described in section 405(b) of this title) respecting whether the provider or practitioner should be able to continue furnishing services to individuals entitled to benefits under this chapter, pending completion of the administrative review procedure under paragraph (4). If the judge does not determine, by a preponderance of the evidence, that the provider or practitioner will pose a serious risk to such individuals if permitted to continue furnishing such services, the Secretary shall not effect the exclusion under paragraph (2) until the provider or practitioner has been provided reasonable notice and opportunity for an administrative hearing thereon under paragraph (4).
 
@@ -32,9 +32,9 @@ It shall be the obligation of any health care practitioner and any other person 
 
 #### (c) Enlistment of support of other organizations to assure practitioner's or provider's compliance with obligations
 
-It shall be the duty of each utilization and quality control peer review organization to use such authority or influence it may possess as a professional organization, and to enlist the support of any other professional or governmental organization having influence or authority over health care practitioners and any other person (including a hospital or other health care facility, organization, or agency) providing health care services in the area served by such review organization, in assuring that each practitioner or person (referred to in subsection (a) of this section) providing health care services in such area shall comply with all obligations imposed on him under subsection (a) of this section.
+It shall be the duty of each quality improvement organization to use such authority or influence it may possess as a professional organization, and to enlist the support of any other professional or governmental organization having influence or authority over health care practitioners and any other person (including a hospital or other health care facility, organization, or agency) providing health care services in the area served by such review organization, in assuring that each practitioner or person (referred to in subsection (a) of this section) providing health care services in such area shall comply with all obligations imposed on him under subsection (a) of this section.
 
-(Aug. 14, 1935, ch. 531, title XI, §1156, as added Pub. L. 97–248, title I, §143, Sept. 3, 1982, 96 Stat. 388; amended Pub. L. 100–93, §6, Aug. 18, 1987, 101 Stat. 691; Pub. L. 100–203, title IV, §4095(a), Dec. 22, 1987, 101 Stat. 1330–138; Pub. L. 100–203, title IV, §4039(h)(5), Dec. 22, 1987, as added Pub. L. 100–360, title IV, §411(e)(3), July 1, 1988, 102 Stat. 775; Pub. L. 101–508, title IV, §4205(a)(1), (d)(2)(A), Nov. 5, 1990, 104 Stat. 1388–112, 1388–114; Pub. L. 101–597, title IV, §401(c)(1), Nov. 16, 1990, 104 Stat. 3035; Pub. L. 103–432, title I, §156(b)(1), Oct. 31, 1994, 108 Stat. 4441; Pub. L. 104–191, title II, §§214, 231(f), Aug. 21, 1996, 110 Stat. 2005, 2014.)
+(Aug. 14, 1935, ch. 531, title XI, §1156, as added Pub. L. 97–248, title I, §143, Sept. 3, 1982, 96 Stat. 388; amended Pub. L. 100–93, §6, Aug. 18, 1987, 101 Stat. 691; Pub. L. 100–203, title IV, §4095(a), Dec. 22, 1987, 101 Stat. 1330–138; Pub. L. 100–203, title IV, §4039(h)(5), Dec. 22, 1987, as added Pub. L. 100–360, title IV, §411(e)(3), July 1, 1988, 102 Stat. 775; Pub. L. 101–508, title IV, §4205(a)(1), (d)(2)(A), Nov. 5, 1990, 104 Stat. 1388–112, 1388–114; Pub. L. 101–597, title IV, §401(c)(1), Nov. 16, 1990, 104 Stat. 3035; Pub. L. 103–432, title I, §156(b)(1), Oct. 31, 1994, 108 Stat. 4441; Pub. L. 104–191, title II, §§214, 231(f), Aug. 21, 1996, 110 Stat. 2005, 2014; Pub. L. 112–40, title II, §261(a)(2)(C), Oct. 21, 2011, 125 Stat. 423.)
 
 #### Prior Provisions
 
@@ -42,7 +42,11 @@ A prior section 1320c–5, act Aug. 14, 1935, ch. 531, title XI, §1156, as adde
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b)(1). Pub. L. 104–191, §214(b)(2), struck out in concluding provisions “In determining whether a practitioner or person has demonstrated an unwillingness or lack of ability substantially to comply with such obligations, the Secretary shall consider the practitioner's or person's willingness or lack of ability, during the period before the organization submits its report and recommendations, to enter into and successfully complete a corrective action plan.” after “chapter on a reimbursable basis.”
+<b>2011</b>—Subsec. (a)(3). Pub. L. 112–40 substituted “quality improvement” for “peer review”.
+
+Subsec. (c). Pub. L. 112–40 substituted “quality improvement” for “utilization and quality control peer review”.
+
+<b>1996</b>—Subsec. (b)(1). Pub. L. 104–191, §214(b)(2), struck out in concluding provisions “In determining whether apractitioner or person has demonstrated an unwillingness or lack of ability substantially to comply with such obligations, the Secretary shall consider the practitioner's or person's willingness or lack of ability, during the period before the organization submits its report and recommendations, to enter into and successfully complete a corrective action plan.” after “chapter on a reimbursable basis.”
 
 Pub. L. 104–191, §214(b)(1), struck out in concluding provisions “and determines that such practitioner or person, in providing health care services over which such organization has review responsibility and for which payment (in whole or in part) may be made under this chapter, has demonstrated an unwillingness or a lack of ability substantially to comply with such obligations,” after “agrees with such determination,”.
 
@@ -73,6 +77,10 @@ Subsec. (b)(2). Pub. L. 100–203, §4039(h)(5)(B), as added by Pub. L. 100–36
 Pub. L. 100–93, §6(2), substituted “this chapter” for “subchapter XVIII of this chapter”.
 
 Subsec. (b)(5). Pub. L. 100–203 added par. (5).
+
+#### Effective Date of 2011 Amendment
+
+Amendment by Pub. L. 112–40 applicable to contracts entered into or renewed on or after Jan. 1, 2012, see section 261(e) of Pub. L. 112–40, set out as a note under section 1320c of this title.
 
 #### Effective Date of 1996 Amendment
 

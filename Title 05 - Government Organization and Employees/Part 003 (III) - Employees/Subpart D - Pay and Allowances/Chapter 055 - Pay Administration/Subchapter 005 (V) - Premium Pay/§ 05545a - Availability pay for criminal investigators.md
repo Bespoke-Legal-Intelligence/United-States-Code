@@ -106,17 +106,17 @@
 
 Title II of Public Law 99–399, referred to in subsecs. (a)(2) and (k)(1), is title II of Pub. L. 99–399, Aug. 27, 1986, 100 Stat. 858, as amended, which is classified generally to subchapter II (§4821 et seq.) of chapter 58 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 4801 of Title 22 and Tables.
 
-Sections 609(b)(1), 805, 806, and 856 of the Foreign Service Act of 1980, referred to in subsec. (k)(2)(B), are classified to sections 4009(b)(1), 4045, 4046, and 4071e, respectively, of Title 22, Foreign Relations and Intercourse.
+Sections 609(b)(1), 805, 806, and 856 of the Foreign Service Act of 1980, referred to in subsec. (k)(2)(B), areclassified to sections 4009(b)(1), 4045, 4046, and 4071e, respectively, of Title 22, Foreign Relations and Intercourse.
 
 #### Amendments
 
-1998—Subsec. (a)(2). Pub. L. 105–277, §101(b) \[title IV, §407(c)(1)\] and §2316(c)(1), amended subsec. (a)(2) identically, substituting “Public Law 99–399, subject to subsection (k))” for “Public Law 99–399)” in introductory provisions.
+<b>1998</b>—Subsec. (a)(2). Pub. L. 105–277, §101(b) \[title IV, §407(c)(1)\] and §2316(c)(1), amended subsec. (a)(2) identically, substituting “Public Law 99–399, subject to subsection (k))” for “Public Law 99–399)” in introductory provisions.
 
 Subsec. (k). Pub. L. 105–277, §101(b) \[title IV, §407(a)\] and §2316(a), amended section identically, adding subsec. (k).
 
-1996—Subsec. (h)(2)(A). Pub. L. 104–208 struck out “8431,” after “8331(3),”.
+<b>1996</b>—Subsec. (h)(2)(A). Pub. L. 104–208 struck out “8431,” after “8331(3),”.
 
-1995—Subsec. (a)(2). Pub. L. 104–19, §901(1)(A), inserted “who” before “is required to” in introductory provisions.
+<b>1995</b>—Subsec. (a)(2). Pub. L. 104–19, §901(1)(A), inserted “who” before “is required to” in introductory provisions.
 
 Subsec. (a)(2)(E)(v). Pub. L. 104–19, §901(1)(B), inserted “and” at end.
 

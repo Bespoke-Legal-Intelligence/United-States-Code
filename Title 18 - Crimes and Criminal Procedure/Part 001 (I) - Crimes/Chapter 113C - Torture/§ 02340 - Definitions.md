@@ -16,7 +16,7 @@ As used in this chapter—
 
 &emsp;(3) “United States” means the several States of the United States, the District of Columbia, and the commonwealths, territories, and possessions of the United States.
 
-(Added Pub. L. 103–236, title V, §506(a), Apr. 30, 1994, 108 Stat. 463; amended Pub. L. 103–415, §1(k), Oct. 25, 1994, 108 Stat. 4301; Pub. L. 103–429, §2(2), Oct. 31, 1994, 108 Stat. 4377; Pub. L. 108–375, div. A, title X, §1089, Oct. 28, 2004, 118 Stat. 2067.)
+(Added Pub. L. 103–236, title V, §506(a), Apr. 30, 1994, 108 Stat. 463; amended Pub. L. 103–415, §1(k), Oct. 25, 1994, 108 Stat. 4301; Pub. L. 103–429,§2(2), Oct. 31, 1994, 108 Stat. 4377; Pub. L. 108–375, div. A, title X, §1089, Oct. 28, 2004, 118 Stat. 2067.)
 
 #### Amendments
 

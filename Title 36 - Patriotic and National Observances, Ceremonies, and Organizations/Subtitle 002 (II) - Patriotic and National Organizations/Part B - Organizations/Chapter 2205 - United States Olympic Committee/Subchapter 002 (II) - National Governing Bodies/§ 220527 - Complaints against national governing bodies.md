@@ -2,7 +2,7 @@
 
 (a)
 
-General.—(1) An amateur sports organization or person that belongs to or is eligible tobelong to a national governing body may seek to compel the national governing body to comply with sections 220522, 220524, and 220525 of this title by filing a written complaint with the corporation. A copy of the complaint shall be served on the national governing body.
+General.—(1) An amateur sports organization or person that belongs to or is eligible to belong to a national governing body may seek to compel the national governing body to comply with sections 220522, 220524, and 220525 of this title by filing a written complaint with the corporation. A copy of the complaint shall be served on the national governing body.
 
 (2) The corporation shall establish procedures for the filing and disposition of complaints under this section.
 
@@ -26,7 +26,7 @@ Disposition of Complaint.—(1) If the corporation decides, as a result of the h
 
 &emsp;(B) revoke the recognition of the national governing body.
 
-(3) If the corporation places a national governing body on probation under paragraph (2) of this subsection, it may extend the probationary period if the national governing body has proven by clear and convincing evidence that, through no fault of its own, it needs additional time to comply with sections 220522, 220524, and 220525 of this title. If, at the end of the period allowed by the corporation, the national governing body has not complied with those sections, the corporation shall revoke the recognition of the national governing body.
+(3) If the corporation places a national governing body on probation under paragraph (2) ofthis subsection, it may extend the probationary period if the national governing body has proven by clear and convincing evidence that, through no fault of its own, it needs additional time to comply with sections 220522, 220524, and 220525 of this title. If, at the end of the period allowed by the corporation, the national governing body has not complied with those sections, the corporation shall revoke the recognition of the national governing body.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1476.)
 

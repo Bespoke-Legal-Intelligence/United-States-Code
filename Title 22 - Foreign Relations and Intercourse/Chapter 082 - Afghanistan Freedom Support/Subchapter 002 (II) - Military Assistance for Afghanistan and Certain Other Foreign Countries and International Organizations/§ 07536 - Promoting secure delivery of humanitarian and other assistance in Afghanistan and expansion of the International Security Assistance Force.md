@@ -4,7 +4,7 @@
 
 Congress finds the following:
 
-&emsp;(1) The President has declared his view that the United States should provide significantassistance to Afghanistan so that it is no longer a haven for terrorism.
+&emsp;(1) The President has declared his view that the United States should provide significant assistance to Afghanistan so that it is no longer a haven for terrorism.
 
 &emsp;(2) The delivery of humanitarian and reconstruction assistance from the international community is necessary for the safe return of refugees and is critical to the future stability of Afghanistan.
 

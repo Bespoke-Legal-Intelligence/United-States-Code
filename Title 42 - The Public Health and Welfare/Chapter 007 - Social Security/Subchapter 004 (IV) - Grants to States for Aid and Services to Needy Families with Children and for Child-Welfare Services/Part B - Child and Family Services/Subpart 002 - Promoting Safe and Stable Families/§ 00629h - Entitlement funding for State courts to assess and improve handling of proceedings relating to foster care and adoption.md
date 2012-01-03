@@ -24,13 +24,17 @@ The Secretary shall make grants, in accordance with this section, to the highest
 
 &emsp;(2) to implement improvements the highest state <sup>3</sup> courts deem necessary as a result of the assessments, including—
 
-&emsp;&emsp;(A) to provide for the safety, well-being, and permanence of children in foster care, as set forth in the Adoption and Safe Families Act of 1997 (Public Law 105–89); and
+&emsp;&emsp;(A) to provide for the safety, well-being, and permanence of children in foster care, as set forth in the Adoption and Safe Families Act of 1997 (Public Law 105–89), including the requirements in the Act related to concurrent planning;
 
-&emsp;&emsp;(B) to implement a corrective action plan, as necessary, resulting from reviews of child and family service programs under section 1320a–2a of this title;
+&emsp;&emsp;(B) to implement a corrective action plan, as necessary, resulting from reviews of child and family service programs under section 1320a–2a of this title; and
+
+&emsp;&emsp;(C) to increase and improve engagement of the entire family in court processes relating to child welfare, family preservation, family reunification, and adoption;
 
 &emsp;(3) to ensure that the safety, permanence, and well-being needs of children are met in a timely and complete manner; and
 
-&emsp;(4) to provide for the training of judges, attorneys and other legal personnel in child welfare cases.
+&emsp;(4)(A) to provide for the training of judges, attorneys and other legal personnel in child welfare cases; and
+
+&emsp;(B) to increase and improve engagement of the entire family in court processes relating to child welfare, family preservation, family reunification, and adoption.
 
 #### (b) Applications
 
@@ -42,43 +46,57 @@ The Secretary shall make grants, in accordance with this section, to the highest
 
 &emsp;&emsp;(B) in the case of a grant for the purpose described in subsection (a)(4), a demonstration that a portion of the grant will be used for cross-training initiatives that are jointly planned and executed with the State agency or any other agency under contract with the State to administer the State program under the State plan under subpart 1, the State plan approved under section 629d of this title, or the State plan approved under part E; and
 
-&emsp;&emsp;(C) in the case of a grant for any purpose described in subsection (a), a demonstration of meaningful and ongoing collaboration among the courts in the State, the State agency or any other agency under contract with the State who is responsible for administering the State program under this part or part E, and, where applicable, Indian tribes.
+&emsp;&emsp;(C) in the case of a grant for any purpose described in subsection (a), a demonstration of meaningful and ongoing collaboration among the courts in the State, the State agency or any other agency under contractwith the State who is responsible for administering the State program under this part or part E, and, where applicable, Indian tribes.
 
-#### (2) Separate applications
+#### (2) Single grant application
 
-&emsp;A highest State court desiring grants under this section for 2 or more purposes shall submit separate applications for the following grants:
+&emsp;Pursuant to the requirements under paragraph (1) of this subsection, a highest State court desiring a grant under this section shall submit a single application to the Secretary that specifies whether the application is for a grant for—
 
-&emsp;&emsp;(A) A grant for the purposes described in paragraphs (1) and (2) of subsection (a).
+&emsp;&emsp;(A) the purposes described in paragraphs (1) and (2) of subsection (a);
 
-&emsp;&emsp;(B) A grant for the purpose described in subsection (a)(3).
+&emsp;&emsp;(B) the purpose described in subsection (a)(3);
 
-&emsp;&emsp;(C) A grant for the purpose described in subsection (a)(4).
+&emsp;&emsp;(C) the purpose described in subsection (a)(4); or
 
-#### (c) Allotments
+&emsp;&emsp;(D) the purposes referred to in 2 or more (specifically identified) of subparagraphs (A), (B), and (C) of this paragraph.
 
-#### (1) Grants to assess and improve handling of court proceedings relating to foster care and adoption
+#### (c) Amount of grant
 
-#### (A) In general
+#### (1) In general
 
-&emsp;&emsp;Each highest State court which has an application approved under subsection (b) of this section for a grant described in subsection (b)(2)(A) of this section, and is conducting assessment and improvement activities in accordance with this section, shall be entitled to payment, for each of fiscal years 2002 through 2011, from the amount reserved pursuant to section 629f(b)(2) of this title (and the amount, if any, reserved pursuant to section 629g(b)(2) of this title), of an amount equal to the sum of $85,000 plus the amount described in subparagraph (B) of this paragraph for the fiscal year.
+&emsp;With respect to each of subparagraphs (A), (B), and (C) of subsection (b)(2) that refers to 1 or more grant purposes for which an application of a highest State court is approved under this section, the court shall be entitled to payment, for each of fiscal years 2012 through 2016, from the amount allocated under paragraph (3) of this subsection for grants for the purpose or purposes, of an amount equal to $85,000 plus the amount described in paragraph (2) of this subsection with respect to the purpose or purposes.
 
-#### (B) Formula
+#### (2) Amount described
 
-&emsp;&emsp;The amount described in this subparagraph for any fiscal year is the amount that bears the same ratio to the amount reserved pursuant to section 629f(b)(2) of this title (and the amount, if any, reserved pursuant to section 629g(b)(2) of this title) for the fiscal year (reduced by the dollar amount specified in subparagraph (A) of this paragraph for the fiscal year) as the number of individuals in the State who have not attained 21 years of age bears to the total number of such individuals in all States the highest State courts of which have approved applications under subsection (b) for such a grant.
+&emsp;The amount described in this paragraph for any fiscal year with respect to the purpose or purposes referred to in a subparagraph of subsection (b)(2) is the amount that bears the same ratio to the total of the amounts allocated under paragraph (3) of this subsection for grants for the purpose or purposes as the number of individuals in the State who have not attained 21 years of age bears to the total number of such individuals in all States the highest State courts of which have approved applications under this section for grants for the purpose or purposes.
 
-#### (2) Grants for improved data collection and training
+#### (3) Allocation of funds
 
-#### (A) In general
+#### (A) Mandatory funds
 
-&emsp;&emsp;Each highest State court which has an application approved under subsection (b) of this section for a grant referred to in subparagraph (B) or (C) of subsection (b)(2) shall be entitled to payment, for each of fiscal years 2006 through 2011, from the amount made available under whichever of paragraph (1) or (2) of subsection (e) applies with respect to the grant, of an amount equal to the sum of $85,000 plus the amount described in subparagraph (B) of this paragraph for the fiscal year with respect to the grant.
+&emsp;&emsp;Of the amounts reserved under section 629f(b)(2) of this title for any fiscal year, the Secretary shall allocate—
 
-#### (B) Formula
+&emsp;&emsp;&emsp;(i) $9,000,000 for grants for the purposes described in paragraphs (1) and (2) of subsection (a);
 
-&emsp;&emsp;The amount described in this subparagraph for any fiscal year with respect to a grant referred to in subparagraph (B) or (C)of subsection (b)(2) is the amount that bears the same ratio to the amount made available under subsection (e) for such a grant (reduced by the dollar amount specified in subparagraph (A) of this paragraph) as the number of individuals in the State who have not attained 21 years of age bears to the total number of such individuals in all States the highest State courts of which have approved applications under subsection (b) for such a grant.
+&emsp;&emsp;&emsp;(ii) $10,000,000 for grants for the purpose described in subsection (a)(3);
+
+&emsp;&emsp;&emsp;(iii) $10,000,000 for grants for the purpose described in subsection (a)(4); and
+
+&emsp;&emsp;&emsp;(iv) $1,000,000 for grants to be awarded on a competitive basis among the highest courts of Indian tribes or tribal consortia that—
+
+&emsp;&emsp;&emsp;&emsp;(I) are operating a program under part E, in accordance with section 679c of this title;
+
+&emsp;&emsp;&emsp;&emsp;(II) are seeking to operate a program under part E and have received an implementation grant under section 676 of this title; or
+
+&emsp;&emsp;&emsp;&emsp;(III) has <sup>4</sup> a court responsible for proceedings related to foster care or adoption.
+
+#### (B) Discretionary funds
+
+&emsp;&emsp;The Secretary shall allocate all of the amounts reserved under section 629g(b)(2) of this title for grants for the purposes described in paragraphs (1) and (2) of subsection (a).
 
 #### (d) Federal share
 
-Each highest State court which receives funds paid under this section may use such funds to pay not more than 75 percent of the cost of activities under this section in each of fiscal years 2002 through 2011.
+Each highest State court which receives funds paid under this section may use such funds to pay not more than 75 percent of the cost of activities under this section in each of fiscal years 2012 through 2016.
 
 #### (e) Funding for grants for improved data collection and training
 
@@ -90,15 +108,11 @@ Out of any money in the Treasury of the United States not otherwise appropriated
 
 > For fiscal year 2011, out of the amount reserved pursuant to section 629f(b)(2) of this title for such fiscal year, there are available $10,000,000 for grants referred to in subsection (b)(2)(B), and $10,000,000 for grants referred to in subsection (b)(2)(C).
 
-(Aug. 14, 1935, ch. 531, title IV, §438, formerly Pub. L. 103–66, title XIII, §13712, Aug. 10, 1993, 107 Stat. 655, as amended Pub. L. 105–89, title III, §305(a)(3), Nov. 19, 1997, 111 Stat. 2130; renumbered §438 of act Aug. 14, 1935, and amended Pub. L. 107–133, title I, §107, Jan. 17, 2002, 115 Stat. 2418; Pub. L. 109–171, title VII, §7401(a), Feb. 8, 2006, 120 Stat. 148; Pub. L. 109–239, §§8(b), 9, July 3, 2006, 120 Stat. 513; Pub. L. 109–288, §9, Sept. 28, 2006, 120 Stat. 1255; Pub. L. 111–242, §133(2), Sept. 30, 2010, 124 Stat. 2613.)
+(Aug. 14, 1935, ch. 531, title IV, §438, formerly Pub. L. 103–66, title XIII, §13712, Aug. 10, 1993, 107 Stat. 655, as amended Pub. L. 105–89, title III, §305(a)(3), Nov. 19, 1997, 111 Stat. 2130; renumbered §438 of act Aug. 14, 1935, and amended Pub. L. 107–133, title I, §107, Jan. 17, 2002, 115 Stat. 2418; Pub. L. 109–171, title VII, §7401(a), Feb. 8, 2006, 120 Stat. 148; Pub. L. 109–239, §§8(b), 9, July 3, 2006, 120 Stat. 513; Pub. L. 109–288, §9, Sept. 28, 2006, 120 Stat. 1255; Pub. L. 111–242, §133(2), Sept. 30, 2010, 124 Stat. 2613; Pub. L. 112–34, title I, §104, Sept. 30, 2011, 125 Stat. 374.)
 
 #### References in Text
 
-Part E of this subchapter, referred to in subsecs. (a) and (b)(1)(B), (C), is classified to section 670 et seq. of this title.
-
-The Adoption and Safe Families Act of 1997, referred to in subsec. (a)(2)(A), is Pub. L. 105–89, Nov. 19, 1997, 111 Stat. 2115, as amended. For complete classification of this Act to the Code, see Short Title of 1997 Amendment note set out under section 1305 of this title and Tables.
-
-Subpart 1, referred to in subsec. (b)(1)(B), is classified to section 620 et seq. of this title.
+The Adoption and Safe Families Act of 1997, referred to in subsec. (a)(2)(A), is Pub. L. 105–89, Nov. 19, 1997, 111 Stat. 2115. For complete classification of this Act to the Code, see Short Title of 1997 Amendment note set out under section 1305 of this title and Tables.
 
 #### Codification
 
@@ -110,6 +124,26 @@ A prior section 438 of act Aug. 14, 1935, was classified to section 638 of this 
 
 #### Amendments
 
+<b>2011</b>—Subsec. (a)(2)(A). Pub. L. 112–34, §104(a)(1)(A), substituted “, including the requirements in the Act related to concurrent planning;” for “; and”.
+
+Subsec. (a)(2)(C). Pub. L. 112–34, §104(a)(1)(B), (C), added subpar. (C).
+
+Subsec. (a)(4). Pub. L. 112–34, §104(a)(2), designated existing provisions as subpar. (A) and added subpar. (B).
+
+Subsec. (b)(1). Pub. L. 112–34, §104(e), made technical amendment to directory language of Pub. L. 109–239, §8(b). See 2006 Amendment note below.
+
+Subsec. (b)(2). Pub. L. 112–34, §104(b), amended par. (2) generally. Prior to amendment, text read as follows: “A highest State court desiring grants under this section for 2 or more purposes shall submit separate applications for the following grants:
+
+&emsp;“(A) A grant for the purposes described in paragraphs (1) and (2) of subsection (a).
+
+&emsp;“(B) A grant for the purpose described in subsection (a)(3).
+
+&emsp;“(C) A grant for the purpose described in subsection (a)(4).”
+
+Subsec. (c). Pub. L. 112–34, §104(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) related to allotments.
+
+Subsec. (d). Pub. L. 112–34, §104(d), substituted “2012 through 2016” for “2002 through 2011”.
+
 <b>2010</b>—Subsec. (c)(2)(A). Pub. L. 111–242, §133(2)(A), substituted “2011” for “2010”.
 
 Subsec. (e). Pub. L. 111–242, §133(2)(B), inserted concluding provisions.
@@ -118,9 +152,9 @@ Subsec. (e). Pub. L. 111–242, §133(2)(B), inserted concluding provisions.
 
 Subsec. (a)(3), (4). Pub. L. 109–171, §7401(a)(1), added pars. (3) and (4).
 
-Subsec. (b). Pub. L. 109–239, §8(b), which directed amendment of subsec. (b) by inserting “shall have in effect a rule requiring State courts to ensure that foster parents, pre-adoptive parents, and relative caregivers of a child in foster care under the responsibility of the State are notified of any proceeding to be held with respect to the child, and” after “highest State court”, was executed by making the insertion after “highest State court” in introductory provisions of par. (1), to reflect the probable intent of Congress.
+Subsec. (b). Pub. L. 109–171, §7401(a)(2), amended subsec. (b) generally. Prior to amendment, text read as follows: “In order to be eligible for a grant under this section, a highest State court shall submit to the Secretary an application at such time, in such form, and including such information and assurances as the Secretary shall require.”
 
-Pub. L. 109–171, §7401(a)(2), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “In order to be eligible for a grant under this section, a highest State court shall submit to the Secretary an application at such time, in such form, and including such information and assurances as the Secretary shall require.”
+Subsec. (b)(1). Pub. L. 109–239, §8(b), as amended by Pub. L. 112–34, §104(e), inserted “shall have in effect a rule requiring State courts to ensure that foster parents, pre-adoptive parents, and relative caregivers of a child in foster care under the responsibility of the State are notified of any proceeding to be held with respect to the child, and” after “highest State court” in introductory provisions.
 
 Subsec. (c). Pub. L. 109–171, §7401(a)(3), designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), in subpar. (A), inserted “of this section for a grant described in subsection (b)(2)(A) of this section” after “subsection (b)” and substituted “subparagraph (B) of this paragraph” for “paragraph (2) of this subsection”, in subpar. (B), substituted “this subparagraph” for “this paragraph” and “subparagraph (A) of this paragraph” for “paragraph (1) of this subsection” and inserted “for such a grant” after “subsection (b)”, and added par. (2).
 
@@ -154,6 +188,12 @@ Subsec. (d). Pub. L. 107–133, §107(c), in heading substituted “Federal shar
 
 Subsec. (d)(2). Pub. L. 105–89, §305(a)(3)(B), substituted “1998, 1999, 2000, and 2001” for “and 1998”.
 
+#### Effective Date of 2011 Amendment
+
+Pub. L. 112–34, title I, §104(e), Sept. 30, 2011, 125 Stat. 376, provided that the amendment by section 104(e) of Pub. L. 112–34 is effective as if included in the enactment of Pub. L. 109–239.
+
+Amendment by section 104(a)–(d) of Pub. L. 112–34 effective Oct. 1, 2011, and applicable to payments under this part and part E of this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 107 of Pub. L. 112–34, set out as a note under section 622 of this title.
+
 #### Effective Date of 2010 Amendment
 
 Pub. L. 111–242, §133, Sept. 30, 2010, 124 Stat. 2613, provided that the amendment made by section 133 is effective Oct. 1, 2010.
@@ -172,11 +212,13 @@ Amendment by Pub. L. 107–133 effective Jan. 17, 2002, with delay permitted if 
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–89 effective Nov. 19, 1997, except as otherwise provided, with delay permitted if State legislation is required, see section 501 of Pub. L. 105–89, set out as a note under section 622 of this title.
+Amendment by Pub. L. 105–89 effective Nov. 19, 1997, except as otherwise provided, with delay permitted ifState legislation is required, see section 501 of Pub. L. 105–89, set out as a note under section 622 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “and”.</i>
 
 <i><sup>2</sup></i><i> So in original. The word “and” probably should not appear.</i>
 
 <i><sup>3</sup></i><i> So in original. Probably should be capitalized.</i>
+
+<i><sup>4</sup></i><i> So in original. Probably should be “have”.</i>
 

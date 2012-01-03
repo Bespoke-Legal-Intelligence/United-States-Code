@@ -6,7 +6,7 @@ A cabin user fee shall be prepaid annually by the cabin owner.
 
 #### (b) Payment of equal or lesser fee
 
-If, in accordance with section 6206 of this title, the Secretary determines that the amount of a new base cabin user fee is equal to or less than the amount of the current base cabin user fee, the Secretary shall require payment of the newbase cabin user fee by the cabin owner in accordance with subsection (a) of this section.
+If, in accordance with section 6206 of this title, the Secretary determines that the amount of a new base cabin user fee is equal to or less than the amount of the current base cabin user fee, the Secretary shall require payment of the new base cabin user fee by the cabin owner in accordance with subsection (a) of this section.
 
 #### (c) Payment of greater fee
 

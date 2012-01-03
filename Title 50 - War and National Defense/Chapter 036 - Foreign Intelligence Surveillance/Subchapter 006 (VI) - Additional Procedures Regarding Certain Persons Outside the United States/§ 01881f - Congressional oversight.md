@@ -66,7 +66,7 @@ Each report under subsection (a) shall include—
 
 #### References in Text
 
-Senate Resolution 400 of the 94th Congress, referred to in subsec. (a), was agreed to May 19, 1976, and was subsequently amended by both Senate resolution andpublic law. The Resolution, which established the Senate Select Committee on Intelligence, is not classified to the Code.
+Senate Resolution 400 of the 94th Congress, referred to in subsec. (a), was agreed to May 19, 1976, and was subsequently amended by both Senate resolution and public law. The Resolution, which established the Senate Select Committee on Intelligence, is not classified to the Code.
 
 #### Effective Date of Repeal
 

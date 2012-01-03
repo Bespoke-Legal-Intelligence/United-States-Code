@@ -8,7 +8,7 @@ The Farm Credit Administration shall have the following powers, functions, and r
 
 &emsp;(2) Where necessary or appropriate to carry out the policy and objectives of this chapter, issue and approve amendments to Federal charters of institutions of the System; approve change in names of banks operating under this chapter; approve the merger of districts when agreed to by the district bank boards involved and by a majority vote of the voting stockholders and contributors to the guaranty funds of each bank for each of such districts, voting in the same manner as is provided in section 2279a of this title; approve mergers and any related activities as provided for in subchapter VII of this chapter; and approve the consolidation or division of the territories of institutions when agreed to by a majority vote of the voting stockholders or contributors to the guaranty fund of each of the institutions involved; and approve consolidations of boards of directors when agreed to by a majority vote of the voting stockholders or contributors to the guaranty fund of each of the institutions involved. In issuing charters and certificates of territory for district-wide mergers of associations where stockholders of one or more associations did not approve the merger, the charter of the new or merged association shall not include the territory of the disagreeing association or associations; charters issued during calendar year 1985 for district-wide new or merged associations which included the territory of a disagreeing association shall be revoked and reissued to exclude such territory, unless subsequently agreed to by the board of directors of such association or associations. The Farm Credit Administration Board shall ensure that disapproving associations (A) shall not be charged any assessment under this chapter at a rate higher than that charged other like associations in the district, and (B) shall be provided with financial services and assistance on the same basis as other like associations in the district (including, but not limited to, access to credit and rates of interest on loans and discounts) by a district Farm Credit bank to the association and its member-borrowers. The Farm Credit Administration Board, after consultation with the respective boards of directors of the affected banks, may require two or more banks operating under the same or different titles to merge if the Board determines that one of such banks has failed to meet its outstanding obligations.
 
-&emsp;(3) Make annual reports directly to Congress on the condition of the System and its institutions, based on the examinations carried out under section 2254 of this title, and on the manner and extent to which the purposes and objectives of this chapter are being carried out and, from time to time, recommend directly legislative changes. The annual reports shall include a summary and analysis of the reports submitted to the Farm Credit Administration by the Farm Credit Banks under section 2207(b) of this title relating to programs for serving young, beginning, and small farmers and ranchers.
+&emsp;(3) Make annual reports directly to Congress on the condition of the System and its institutions, based on the examinations carried out under section 2254 of this title, and on the manner and extent to which the purposes and objectives of this chapter are being carried out and, from time to time, recommend directly legislative changes. The annual reports shall include a summary and analysis of the reports submitted to the Farm Credit Administrationby the Farm Credit Banks under section 2207(b) of this title relating to programs for serving young, beginning, and small farmers and ranchers.
 
 &emsp;(4) Approve the issuance of obligations of the System under subsections (c) and (d) of section 2153 of this title for the purpose of funding the authorized operations of the institutions of the System, and prescribe collateral therefor.
 
@@ -24,7 +24,7 @@ The Farm Credit Administration shall have the following powers, functions, and r
 
 &emsp;&emsp;&emsp;(i) who has resigned before the time for filing the applicable report with the Farm Credit Administration; or
 
-&emsp;&emsp;&emsp;(ii) whose term of office will expire no later than the date of the meeting ofstockholders to which the report relates; or
+&emsp;&emsp;&emsp;(ii) whose term of office will expire no later than the date of the meeting of stockholders to which the report relates; or
 
 &emsp;&emsp;(B) to a member of the immediate family of a director of the institution unless—
 
@@ -68,7 +68,7 @@ The Farm Credit Administration shall have the following powers, functions, and r
 
 &emsp;&emsp;(iii) the respective boards of directors of the Farm Credit Banks that, if the charter request is approved, would exercise, either directly or through associations, like lending authority in any of the territory described in subparagraph (A)(i).
 
-&emsp;(15)(A) Approve amendments to the charters of institutions of the Farm Credit System to implement the equalization of loan-making powers of a Farm Credit System association under section 2279c of this title.
+&emsp;(15)(A) Approve amendments to the charters of institutions of the Farm Credit System to implement the equalization of loan-makingpowers of a Farm Credit System association under section 2279c of this title.
 
 &emsp;(B) Amendments described in subparagraph (A) to the charters of an association and the related Farm Credit Bank shall be approved by the Farm Credit Administration, subject to any conditions of approval imposed, by not later than 30 days after the date on which the Farm Credit Administration receives all approvals required by section 2279c(a)(2) of this title.
 
@@ -108,23 +108,23 @@ A prior section 5.17 of Pub. L. 92–181 was renumbered section 5.16 and is clas
 
 #### Amendments
 
-2008—Subsec. (a)(2). Pub. L. 110–246, §5407(c)(1), substituted “(2)” for “(2)(A)” and struck out pars. (B) and (C) which prohibited issuance or amendment of the charter of any institution of the Farm Credit System that would authorize the institution to exercise lending authority in a territory in which the charter of another such institution authorized the other institution to exercise like authority, unless specified approvals were obtained, and provided that such prohibition would apply only in geographic areas where, due to the failure of a merger, the Federal intermediate credit bank or its successor was chartered to provide short- and intermediate-term credit, and a neighboring Farm Credit Bank that was not the successor to the Federal intermediate credit bank was chartered to provide long-term credit, in the same geographic territory.
+<b>2008</b>—Subsec. (a)(2). Pub. L. 110–246, §5407(c)(1), substituted “(2)” for “(2)(A)” and struck out pars. (B) and\(C) which prohibited issuance or amendment of the charter of any institution of the Farm Credit System that would authorize the institution to exercise lending authority in a territory in which the charter of another such institution authorized the other institution to exercise like authority, unless specified approvals were obtained, and provided that such prohibition would apply only in geographic areas where, due to the failure of a merger, the Federal intermediate credit bank or its successor was chartered to provide short- and intermediate-term credit, and a neighboring Farm Credit Bank that was not the successor to the Federal intermediate credit bank was chartered to provide long-term credit, in the same geographic territory.
 
 Subsec. (a)(15). Pub. L. 110–246, §5407(b), added par. (15).
 
-1996—Subsec. (a)(2)(A). Pub. L. 104–105, §210, struck out “or management agreements” after “consolidations of boards of directors” in first sentence.
+<b>1996</b>—Subsec. (a)(2)(A). Pub. L. 104–105, §210, struck out “or management agreements” after “consolidations of boards of directors” in first sentence.
 
 Subsec. (a)(8). Pub. L. 104–105, §211, inserted “the requirements of the Farm Credit Administration governing the dissemination to stockholders of quarterly reports of System institutions may not be more burdensome or costly than the requirements applicable to national banks, and” after “except that”.
 
-1992—Subsec. (a)(2). Pub. L. 102–552, §401(c), designated existing provisions as subpar. (A) and added subpars. (B) and (C).
+<b>1992</b>—Subsec. (a)(2). Pub. L. 102–552, §401(c), designated existing provisions as subpar. (A) and added subpars. (B) and (C).
 
 Subsec. (a)(13), (14). Pub. L. 102–552, §511, added pars. (13) and (14).
 
-1991—Subsec. (a)(8)(B)(ii). Pub. L. 102–237 struck out second period at end.
+<b>1991</b>—Subsec. (a)(8)(B)(ii). Pub. L. 102–237 struck out second period at end.
 
-1990—Subsec. (a)(13). Pub. L. 101–624 struck out par. (13) which read as follows: “Except for associations, approve the salary scale for employees of the institutions of the System, and approve the compensation of the chief executive officer of such institutions: <i>Provided</i>, That no salary scale or rate of compensation shall be approved under this provision unless determined by the Board to be fair and reasonable. The Board may not delegate its responsibilities under this paragraph.”
+<b>1990</b>—Subsec. (a)(13). Pub. L. 101–624 struck out par. (13) which read as follows: “Except for associations, approve the salary scale for employees of the institutions of the System, and approve the compensation of the chief executive officer of such institutions: <i>Provided</i>, That no salary scale or rate of compensation shall be approved under this provision unless determined by the Board to be fair and reasonable. The Board may not delegate its responsibilities under this paragraph.”
 
-1988—Subsec. (a)(1). Pub. L. 100–399, §901(m)(1), substituted “district banks” for “district boards”.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–399, §901(m)(1), substituted “district banks” for “district boards”.
 
 Subsec. (a)(2). Pub. L. 100–399, §901(m)(2), substituted “district bank boards” for “boards of the districts”.
 
@@ -170,11 +170,11 @@ Subsec. (d)(1). Pub. L. 100–399, §901(n)(1), made technical amendment to refe
 
 Pub. L. 100–399, §901(n), substituted “section 2015(b) of this title” for “section 2074 of this title”.
 
-1986—Subsec. (a)(5)(A). Pub. L. 99–509 struck out “and on loans made or discounted by such institutions” after “Farm Credit System institutions”.
+<b>1986</b>—Subsec. (a)(5)(A). Pub. L. 99–509 struck out “and on loans made or discounted by such institutions” after “Farm Credit System institutions”.
 
-1985—Subsec. (a). Pub. L. 99–205 amended subsec. (a) generally, revising and reorganizing the enumerated powers of the Farm Credit Administration by substituting pars. (1) to (15) for former pars. (1) to (17).
+<b>1985</b>—Subsec. (a). Pub. L. 99–205 amended subsec. (a) generally, revising and reorganizing the enumerated powers of the Farm Credit Administration by substituting pars. (1) to (15) for former pars. (1) to (17).
 
-1980—Pub. L. 96–592 designated existing provisions as subsec. (a), in par. (3) inserted provisions relating to summary and analysis of reports, and added subsecs. (b) and (c).
+<b>1980</b>—Pub. L. 96–592 designated existing provisions as subsec. (a), in par. (3) inserted provisions relating to summary and analysis of reports, and added subsecs. (b) and (c).
 
 #### Effective Date of 2008 Amendment
 
@@ -190,7 +190,7 @@ Amendment by Pub. L. 102–237 effective as if included in the provision of the 
 
 #### Effective Date of 1988 Amendments
 
-Amendment by sections 205 and 409(a), (e) of Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6,1988, and amendment by section 901(m), (n) of Pub. L. 100–399 effective immediately after amendment made by section 401 of Pub. L. 100–233, which was effective 6 months after Jan. 6, 1988, see section 1001 of Pub. L. 100–399, set out as a note under section 2002 of this title.
+Amendment by sections 205 and 409(a), (e) of Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, and amendment by section 901(m), (n) of Pub. L. 100–399 effective immediately after amendment made by section 401 of Pub. L. 100–233, which was effective 6 months after Jan. 6, 1988, see section 1001 of Pub. L. 100–399, set out as a note under section 2002 of this title.
 
 Amendment by section 207(a)(2) of Pub. L. 100–233 effective 15 days after Jan. 6, 1988, see section 207(b) of Pub. L. 100–233 set out as an Effective Date of Repeal note under section 2152 of this title.
 

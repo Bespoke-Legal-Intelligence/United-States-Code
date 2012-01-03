@@ -31,12 +31,14 @@
 | [1051\.](%C2%A7%2001051%20-%20Multilateral%2C%20bilateral%2C%20or%20regional%20cooperation%20programs%20payment%20of%20personnel%20expenses.md) | Multilateral, bilateral, or regional cooperation programs: payment of personnel expenses. |
 | [1051a.](%C2%A7%2001051a%20-%20Liaison%20officers%20of%20certain%20foreign%20nations%3B%20administrative%20services%20and%20support%3B%20travel%2C%20subsistence%2C%20medical%20care%2C%20and%20other%20personal%E2%80%A6.md) | Liaison officers of certain foreign nations; administrative services and support; travel, subsistence, medical care, and other personal expenses. |
 | [1051b.](%C2%A7%2001051b%20-%20Bilateral%20or%20regional%20cooperation%20programs%20awards%20and%20mementos%20to%20recognize%20superior%20noncombat%20achievements%20or%20performance.md) | Bilateral or regional cooperation programs: awards and mementos to recognize superior noncombat achievements or performance. |
+| [1051c.](%C2%A7%2001051c%20-%20Multilateral%2C%20bilateral%2C%20or%20regional%20cooperation%20programs%20assignments%20to%20improve%20education%20and%20training%20in%20information%20security.md) | Multilateral, bilateral, or regional cooperation programs: assignments to improve education and training in information security. |
 | [1052\.](%C2%A7%2001052%20-%20Adoption%20expenses%20reimbursement.md) | Adoption expenses: reimbursement. |
 | [1053\.](%C2%A7%2001053%20-%20Financial%20institution%20charges%20incurred%20because%20of%20Government%20error%20in%20direct%20deposit%20of%20pay%20reimbursement.md) | Financial institution charges incurred because of Government error in direct deposit of pay: reimbursement. |
 | [1053a.](%C2%A7%2001053a%20-%20Expenses%20incurred%20in%20connection%20with%20leave%20canceled%20due%20to%20contingency%20operations%20reimbursement.md) | Expenses incurred in connection with leave canceled due to contingency operations: reimbursement. |
 | [1054\.](%C2%A7%2001054%20-%20Defense%20of%20certain%20suits%20arising%20out%20of%20legal%20malpractice.md) | Defense of certain suits arising out of legal malpractice. |
 | [1055\.](%C2%A7%2001055%20-%20Waiver%20of%20security%20deposits%20for%20members%20renting%20private%20housing%3B%20authority%20to%20indemnify%20landlord.md) | Waiver of security deposits for members renting private housing; authority to indemnify landlord. |
 | [1056\.](%C2%A7%2001056%20-%20Relocation%20assistance%20programs.md) | Relocation assistance programs. |
+| [1056a.](%C2%A7%2001056a%20-%20Reintegration%20of%20recovered%20Department%20of%20Defense%20personnel%3B%20post-isolation%20support%20activities%20for%20other%20recovered%20personnel.md) | Reintegration of recovered Department of Defense personnel; post-isolation support activities for other recovered personnel. |
 | [1057\.](%C2%A7%2001057%20-%20Use%20of%20armed%20forces%20insignia%20on%20State%20license%20plates.md) | Use of armed forces insignia on State license plates. |
 | [1058\.](%C2%A7%2001058%20-%20Responsibilities%20of%20military%20law%20enforcement%20officials%20at%20scenes%20of%20domestic%20violence.md) | Responsibilities of military law enforcement officials at scenes of domestic violence. |
 | [1059\.](%C2%A7%2001059%20-%20Dependents%20of%20members%20separated%20for%20dependent%20abuse%20transitional%20compensation%3B%20commissary%20and%20exchange%20benefits.md) | Dependents of members separated for dependent abuse: transitional compensation; commissary and exchange benefits. |
@@ -48,7 +50,9 @@
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 111–383, div. A, title XII, §1204(b), Jan. 7, 2011, 124 Stat. 4387, added item 1050a.
+<b>2011</b>—Pub. L. 112–81, div. A, title V, §588(b), title IX, §951(a)(2), Dec. 31, 2011, 125 Stat. 1437, 1549, added items 1051c and 1056a.
+
+Pub. L. 111–383, div. A, title XII, §1204(b), Jan. 7, 2011, 124 Stat. 4387, added item 1050a.
 
 <b>2008</b>—Pub. L. 110–417, \[div. A\], title XII, §1231(c)(2), Oct. 14, 2008, 122 Stat. 4637, added item 1051 and struck out former item 1051 “Bilateral or regional cooperation programs: payment of personnel expenses”.
 
@@ -78,7 +82,7 @@ Pub. L. 103–337, div. A, title X, §1070(b)(4), Oct. 5, 1994, 108 Stat. 2856, 
 
 <b>1993</b>—Pub. L. 103–160, div. A, title V, §§551(a)(2), 574(b), title XIV, §1433(b)(2), Nov. 30, 1993, 107 Stat. 1662, 1675, 1834, added item 1044b and items 1058 “Responsibilities of military law enforcement officials at scenes of domestic violence” and 1058 “Military service of retired members with newly democratic nations: consent of Congress”.
 
-Pub. L. 103–160, div. A, title V, §554(a)(2), Nov. 30, 1993, 107 Stat. 1666, as amended by Pub. L. 103–337, div. A,title X, §1070(b)(4), Oct. 5, 1994, 108 Stat. 2856, added item 1058 “Dependents of members separated for dependent abuse: transitional compensation”.
+Pub. L. 103–160, div. A, title V, §554(a)(2), Nov. 30, 1993, 107 Stat. 1666, as amended by Pub. L. 103–337, div. A, title X, §1070(b)(4), Oct. 5, 1994, 108 Stat. 2856, added item 1058 “Dependents of members separated for dependent abuse: transitional compensation”.
 
 <b>1992</b>—Pub. L. 102–484, div. A, title VI, §651(b), title X, §1080(b), Oct. 23, 1992, 106 Stat. 2426, 2514, added items 1046 and 1057.
 
@@ -127,6 +131,10 @@ Pub. L. 89–132, §9(b), Aug. 21, 1965, 79 Stat. 548, added item 1040 “Free p
 Pub. L. 86–142, §1(2), Aug. 7, 1959, 73 Stat. 289, added item 1038.
 
 <b>1958</b>—Pub. L. 85–861, §1(24)(B), Sept. 2, 1958, 72 Stat. 1445, added item 1037.
+
+#### Freedom of Conscience of Military Chaplains With Respect to the Performance of Marriages
+
+Pub. L. 112–81, div. A, title V, §544, Dec. 31, 2011, 125 Stat. 1412, provided that: “A military chaplain who, as a matter of conscience or moral principle, does not wish to perform a marriage may not be required to do so.”
 
 #### Prohibition on Infringing on the Individual Right to Lawfully Acquire, Possess, Own, Carry, and Otherwise Use Privately Owned Firearms, Ammunition, and Other Weapons
 
@@ -178,13 +186,13 @@ Military Installation Defined.—In this section, the term ‘military installat
 
 #### Department of Defense Telecommunications Benefit
 
-Pub. L. 108–136, div. A, title III, §344, Nov. 24, 2003, 117 Stat. 1448, as amended by Pub. L. 108–375, div. A, title III, §341, Oct. 28, 2004, 118 Stat. 1857; Pub. L. 109–163, div. A, title III, §375, Jan. 6, 2006, 119 Stat. 3213; Pub. L. 109–364, div. A, title III, §355(a)–(c), Oct. 17, 2006, 120Stat. 2162, 2163; Pub. L. 111–383, div. A, title X, §1075(g)(3), Jan. 7, 2011, 124 Stat. 4376, provided that:
+Pub. L. 108–136, div. A, title III, §344, Nov. 24, 2003, 117 Stat. 1448, as amended by Pub. L. 108–375, div. A, title III, §341, Oct. 28, 2004, 118 Stat. 1857; Pub. L. 109–163, div. A, title III, §375, Jan. 6, 2006, 119 Stat. 3213; Pub. L. 109–364, div. A, title III, §355(a)–(c), Oct. 17, 2006, 120 Stat. 2162, 2163; Pub. L. 111–383, div. A, title X, §1075(g)(3), Jan. 7, 2011, 124 Stat. 4376, provided that:
 
 “(a)
 
 Provision of Benefit.—(1) The Secretary of Defense shall provide, wherever practicable, prepaid phone cards, packet based telephony service, or an equivalent telecommunications benefit which includes access to telephone service, to members of the Armed Forces stationed outside the United States who (as determined by the Secretary) are eligible for combat zone tax exclusion benefits due to their service in direct support of a contingency operation to enable those members to make telephone calls without cost to the member.
 
-“(2) As soon as possible after the date of the enactment of the John Warner National Defense Authorization Act for Fiscal Year 2007 \[Oct. 17, 2006\], the Secretary shall provide, wherever practicable, prepaid phone cards, packet based telephony service, or an equivalent telecommunications benefit which includes access to telephone service to members of the Armed Forces who, although are no longer directly supporting a contingency operation, are hospitalized as a result of wounds or other injuries incurred while serving in direct support of a contingency operation.
+“(2) As soon as possible after the date of the enactment of the John Warner National Defense Authorization Act for Fiscal Year 2007 \[Oct. 17, 2006\], the Secretary shall provide, wherever practicable, prepaid phone cards, packet based telephony service, or an equivalent telecommunications benefit which includes access to telephone service to members of the Armed Forces who, although are no longer directly supporting a contingency operation, are hospitalized as a result ofwounds or other injuries incurred while serving in direct support of a contingency operation.
 
 “(b)
 
@@ -258,12 +266,14 @@ Contingency Operation Defined.—In this section, the term ‘contingency operat
 - [&sect; 01051 - Multilateral, bilateral, or regional cooperation programs payment of personnel expenses](%C2%A7%2001051%20-%20Multilateral%2C%20bilateral%2C%20or%20regional%20cooperation%20programs%20payment%20of%20personnel%20expenses.md)
 - [&sect; 01051a - Liaison officers of certain foreign nations; administrative services and support; travel, subsistence, medical care, and other personal&#8230;](%C2%A7%2001051a%20-%20Liaison%20officers%20of%20certain%20foreign%20nations%3B%20administrative%20services%20and%20support%3B%20travel%2C%20subsistence%2C%20medical%20care%2C%20and%20other%20personal%E2%80%A6.md)
 - [&sect; 01051b - Bilateral or regional cooperation programs awards and mementos to recognize superior noncombat achievements or performance](%C2%A7%2001051b%20-%20Bilateral%20or%20regional%20cooperation%20programs%20awards%20and%20mementos%20to%20recognize%20superior%20noncombat%20achievements%20or%20performance.md)
+- [&sect; 01051c - Multilateral, bilateral, or regional cooperation programs assignments to improve education and training in information security](%C2%A7%2001051c%20-%20Multilateral%2C%20bilateral%2C%20or%20regional%20cooperation%20programs%20assignments%20to%20improve%20education%20and%20training%20in%20information%20security.md)
 - [&sect; 01052 - Adoption expenses reimbursement](%C2%A7%2001052%20-%20Adoption%20expenses%20reimbursement.md)
 - [&sect; 01053 - Financial institution charges incurred because of Government error in direct deposit of pay reimbursement](%C2%A7%2001053%20-%20Financial%20institution%20charges%20incurred%20because%20of%20Government%20error%20in%20direct%20deposit%20of%20pay%20reimbursement.md)
 - [&sect; 01053a - Expenses incurred in connection with leave canceled due to contingency operations reimbursement](%C2%A7%2001053a%20-%20Expenses%20incurred%20in%20connection%20with%20leave%20canceled%20due%20to%20contingency%20operations%20reimbursement.md)
 - [&sect; 01054 - Defense of certain suits arising out of legal malpractice](%C2%A7%2001054%20-%20Defense%20of%20certain%20suits%20arising%20out%20of%20legal%20malpractice.md)
 - [&sect; 01055 - Waiver of security deposits for members renting private housing; authority to indemnify landlord](%C2%A7%2001055%20-%20Waiver%20of%20security%20deposits%20for%20members%20renting%20private%20housing%3B%20authority%20to%20indemnify%20landlord.md)
 - [&sect; 01056 - Relocation assistance programs](%C2%A7%2001056%20-%20Relocation%20assistance%20programs.md)
+- [&sect; 01056a - Reintegration of recovered Department of Defense personnel; post-isolation support activities for other recovered personnel](%C2%A7%2001056a%20-%20Reintegration%20of%20recovered%20Department%20of%20Defense%20personnel%3B%20post-isolation%20support%20activities%20for%20other%20recovered%20personnel.md)
 - [&sect; 01057 - Use of armed forces insignia on State license plates](%C2%A7%2001057%20-%20Use%20of%20armed%20forces%20insignia%20on%20State%20license%20plates.md)
 - [&sect; 01058 - Responsibilities of military law enforcement officials at scenes of domestic violence](%C2%A7%2001058%20-%20Responsibilities%20of%20military%20law%20enforcement%20officials%20at%20scenes%20of%20domestic%20violence.md)
 - [&sect; 01059 - Dependents of members separated for dependent abuse transitional compensation; commissary and exchange benefits](%C2%A7%2001059%20-%20Dependents%20of%20members%20separated%20for%20dependent%20abuse%20transitional%20compensation%3B%20commissary%20and%20exchange%20benefits.md)

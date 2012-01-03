@@ -22,7 +22,7 @@ Not later than 90 days after May 13, 2002, and annually thereafter, the Authorit
 
 #### (c) Transportation, telecommunication <sup>1</sup> renewable energy,,<sup>1</sup> and basic public infrastructure
 
-The Authority shall allocate at least 50 percent of any funds made available under section 2009bb–12 of this title for transportation, telecommunication,,<sup>1</sup> renewable energy, and basic public infrastructure projects authorized under paragraphs (1) and (3) of section 2009bb–2(a) of this title.
+The Authority shall allocate at least 50 percent of any funds made available under section 2009bb–12 of this title for transportation, telecommunication,,<sup>1</sup> renewable energy, and basic public infrastructure projects authorized underparagraphs (1) and (3) of section 2009bb–2(a) of this title.
 
 (Pub. L. 87–128, title III, §383G, formerly §383F, as added Pub. L. 107–171, title VI, §6028, May 13, 2002, 116 Stat. 384; renumbered §383G and amended Pub. L. 110–234, title VI, §6026(c)(1)(A), (2)(D), (g), May 22, 2008, 122 Stat. 1178, 1179, 1181, and Pub. L. 110–246, §4(a), title VI, §6026(c)(1)(A), (2)(D), (g), June 18, 2008, 122 Stat. 1664, 1940–1942.)
 
@@ -36,7 +36,7 @@ A prior section 383G of Pub. L. 87–128, title III, was renumbered section 383H
 
 #### Amendments
 
-2008—Subsec. (b)(1). Pub. L. 110–246, §6026(g)(1), substituted “50” for “75”.
+<b>2008</b>—Subsec. (b)(1). Pub. L. 110–246, §6026(g)(1), substituted “50” for “75”.
 
 Pub. L. 110–246, §6026(c)(2)(D)(i)(I), made technical amendment to reference in original act which appears in text as reference to section 2009bb–12 of this title.
 

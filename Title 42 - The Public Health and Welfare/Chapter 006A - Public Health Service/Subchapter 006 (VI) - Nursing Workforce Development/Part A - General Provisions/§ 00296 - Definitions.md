@@ -20,7 +20,7 @@ As used in this subchapter:
 
 #### (4) Associate degree school of nursing
 
-&emsp;The term “associate degree school of nursing” means a department, division, or other administrative unit in a junior college, community college, college, or university which provides primarily or exclusively a two-year program of education in professional nursing and allied subjects leading to an associate degree in nursing or to an equivalent degree, but only if such program, or such unit, college, or university is accredited.
+&emsp;The term “associate degree school of nursing” means a department, division, or otheradministrative unit in a junior college, community college, college, or university which provides primarily or exclusively a two-year program of education in professional nursing and allied subjects leading to an associate degree in nursing or to an equivalent degree, but only if such program, or such unit, college, or university is accredited.
 
 #### (5) Diploma school of nursing
 
@@ -92,7 +92,7 @@ A prior section 296, act July 1, 1944, ch. 373, title VIII, §801 as added Sept.
 
 #### Amendments
 
-<b>2010</b>—Par. (2). Pub. L. 111–148, §5002(c)(1), substituted “means an accredited (as defined in paragraph 6) collegiate, associate degree, or diploma school of nursing in a State where graduates are—” for “means a collegiate,associate degree, or diploma school of nursing in a State.” and added subpars. (A) and (B).
+<b>2010</b>—Par. (2). Pub. L. 111–148, §5002(c)(1), substituted “means an accredited (as defined in paragraph 6) collegiate, associate degree, or diploma school of nursing in a State where graduates are—” for “means a collegiate, associate degree, or diploma school of nursing in a State.” and added subpars. (A) and (B).
 
 Pars. (16), (17). Pub. L. 111–148, §5002(c)(2), added pars. (16) and (17).
 

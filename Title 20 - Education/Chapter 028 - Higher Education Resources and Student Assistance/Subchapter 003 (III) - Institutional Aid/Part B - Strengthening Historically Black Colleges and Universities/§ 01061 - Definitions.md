@@ -4,7 +4,7 @@ For the purpose of this part:
 
 &emsp;(1) The term “graduate” means an individual who has attended an institution for at least three semesters and fulfilled academic requirements for undergraduate studies in not more than 5 consecutive school years.
 
-&emsp;(2) The term “part B institution” means any historically Black college or university that was established prior to 1964, whose principal mission was, and is, the education of Black Americans, and that is accredited by a nationally recognized accrediting agency or association determined by the Secretary to be a reliable authority as to the quality of training offered or is, according to such an agency or association, making reasonable progress toward accreditation,,<sup>1</sup> except that any branch campus of a southern institution of higher education that prior to September 30, 1986, received a grant as an institution with special needs under section 1060 of this title and was formally recognized by the National Center for Education Statistics as a Historically Black College or University but was determined not to be a part B institution on or after October 17, 1986, shall, from July 18, 1988, be considered a part B institution.
+&emsp;(2) The term “part B institution” means any historically Black college or university that was established prior to 1964, whose principal mission was, and is, the education of Black Americans, and that is accredited by a nationally recognized accrediting agency or association determined by the Secretary to be a reliable authority as to the quality of training offered or is, according to such an agency or association, making reasonable progress toward accreditation,,<sup>1</sup> except that any branch campus of a southern institution of higher education that prior to September 30, 1986, received a grant as an institution with specialneeds under section 1060 of this title and was formally recognized by the National Center for Education Statistics as a Historically Black College or University but was determined not to be a part B institution on or after October 17, 1986, shall, from July 18, 1988, be considered a part B institution.
 
 &emsp;(3) The term “Pell Grant recipient” means a recipient of financial aid under subpart 1 of part A of subchapter IV of this chapter.
 
@@ -16,7 +16,7 @@ For the purpose of this part:
 
 #### Prior Provisions
 
-A prior section 1061, Pub. L. 89–329, title III, §322, as added Pub. L. 96–374, title III, §301, Oct. 3, 1980, 94 Stat.1393, defined terms used in this part, prior to the general revision of this subchapter by Pub. L. 99–498.
+A prior section 1061, Pub. L. 89–329, title III, §322, as added Pub. L. 96–374, title III, §301, Oct. 3, 1980, 94 Stat. 1393, defined terms used in this part, prior to the general revision of this subchapter by Pub. L. 99–498.
 
 Another prior section 1061, Pub. L. 89–329, title IV, §401, Nov. 8, 1965, 79 Stat. 1232; Pub. L. 90–575, title I, §101(a), (b)(1), Oct. 16, 1968, 82 Stat. 1017; Pub. L. 91–95, §4, Oct. 22, 1969, 83 Stat. 143; Pub. L. 92–318, title I, §131(a)(1)(A), June 23, 1972, 86 Stat. 247, related to statement of purpose and authorization of appropriations for educational opportunity grants, prior to the general revision of part A of subchapter IV of this chapter by Pub. L. 92–318, title I, §131(b)(1), June 23, 1972, 86 Stat. 247.
 

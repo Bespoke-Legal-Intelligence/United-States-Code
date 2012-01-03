@@ -128,7 +128,7 @@ Applicability.—This Act applies to—
 
 “(a)
 
-In General.—Each institution named in section 3(b) may conduct a demonstration project in accordance with the provisions of this Act. The conducting of any such demonstration project shall not be limited by any lack of specific authority under title 5, United States Code, to take the action contemplated, or by any provision of such title or any rule or regulation prescribed under such title which is inconsistent with the action, including any provision of law, rule, or regulation relating to—
+In General.—Each institution named in section 3(b) may conduct a demonstration project in accordance with the provisions of this Act. The conducting of any such demonstration project shall not be limited byany lack of specific authority under title 5, United States Code, to take the action contemplated, or by any provision of such title or any rule or regulation prescribed under such title which is inconsistent with the action, including any provision of law, rule, or regulation relating to—
 
 &emsp;“(1) the methods of establishing qualification requirements for, recruitment for, and appointment to positions;
 
@@ -294,7 +294,7 @@ Provisions relating to credit for leave upon separating while the demonstration 
 
 &emsp;&emsp;&emsp;“(i)
 
-Lump-sum credit for annual leave.—In the case of any individual who, at the time of becoming subject to the demonstration project, has any leave for which a lump-sum payment might be paid under subchapter VI of chapter 55 of title5, United States Code, such individual shall, if such individual separates from service (in the circumstances described in section 5551 or 5552 of such title 5, as applicable) while the demonstration project is still ongoing, be entitled to a lump-sum payment under such section 5551 or 5552 (as applicable) based on the amount of leave standing to such individual's credit at the time such individual became subject to the demonstration project or the amount of leave standing to such individual's credit at the time of separation, whichever is less.
+Lump-sum credit for annual leave.—In the case of any individual who, at the time of becoming subject to the demonstration project, has any leave for which a lump-sum payment might be paid under subchapter VI of chapter 55 of title 5, United States Code, such individual shall, if such individual separates from service (in the circumstances described in section 5551 or 5552 of such title 5, as applicable) while the demonstration project is still ongoing, be entitled to a lump-sum payment under such section 5551 or 5552 (as applicable) based on the amount of leave standing to such individual's credit at the time such individual became subject to the demonstration project or the amount of leave standing to such individual's credit at the time of separation, whichever is less.
 
 &emsp;&emsp;&emsp;“(ii)
 

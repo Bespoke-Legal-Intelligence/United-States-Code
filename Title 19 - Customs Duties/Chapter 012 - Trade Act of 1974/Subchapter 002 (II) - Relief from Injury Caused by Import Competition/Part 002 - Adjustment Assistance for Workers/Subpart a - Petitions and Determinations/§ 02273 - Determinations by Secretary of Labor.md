@@ -14,7 +14,7 @@ Upon reaching a determination on a petition, the Secretary shall promptly publis
 
 #### (d) Termination of certification
 
-Whenever the Secretary determines, with respect to any certification of eligibility of theworkers of a firm, that total or partial separations from such firm are no longer attributable to the conditions specified in section 2272 of this title, the Secretary shall terminate such certification and promptly have notice of such termination published in the Federal Register and on the website of the Department of Labor, together with the Secretary's reasons for making such determination. Such termination shall apply only with respect to total or partial separations occurring after the termination date specified by the Secretary.
+Whenever the Secretary determines, with respect to any certification of eligibility of the workers of a firm, that total or partial separations from such firm are no longer attributable to the conditions specified in section 2272 of this title, the Secretary shall terminate such certification and promptly have notice of such termination published in the Federal Register and on the website of the Department of Labor, together with the Secretary's reasons for making such determination. Such termination shall apply only with respect to total or partial separations occurring after the termination date specified by the Secretary.
 
 #### (e) Standards for investigations and determinations
 
@@ -26,13 +26,19 @@ Whenever the Secretary determines, with respect to any certification of eligibil
 
 &emsp;Not less than 90 days before issuing a final rule with respect to the standards required under paragraph (1), the Secretary shall consult with the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives with respect to such rule.
 
-(Pub. L. 93–618, title II, §223, Jan. 3, 1975, 88 Stat. 2019; Pub. L. 103–182, title V, §503(a), Dec. 8, 1993, 107 Stat. 2151; Pub. L. 107–210, div. A, title I, §112(b), Aug. 6, 2002, 116 Stat. 937; Pub. L. 111–5, div. B, title I, §§1803, 1858(a), Feb. 17, 2009, 123 Stat. 372, 395.)
+(Pub. L. 93–618, title II, §223, Jan. 3, 1975, 88 Stat. 2019; Pub. L. 103–182, title V, §503(a), Dec. 8, 1993, 107 Stat. 2151; Pub. L. 107–210, div. A, title I, §112(b), Aug. 6, 2002, 116 Stat. 937; Pub. L. 111–5, div. B, title I, §§1803, 1858(a), Feb. 17, 2009, 123Stat. 372, 395; Pub. L. 112–40, title II, §201(b), (c), Oct. 21, 2011, 125 Stat. 403.)
 
-#### Amendment of Section
+#### Reversion to Provisions in Effect on February 13, 2011
 
-<i>For termination of amendment by section 1893 of Pub. L. 111–5, see Effective and Termination Dates of 2009 Amendment note below.</i>
+<i>For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to section 233(b) of Pub. L. 112–40, see Codification and Effective and Termination Dates of 2011 Revival notes below.</i>
+
+#### Codification
+
+Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination of amendment by Pub. L. 111–5, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, and the provisions of this section, as amended by Pub. L. 111–5 and as in effect on Feb. 12, 2011, were temporarily revived, effective Oct. 21, 2011, until Jan. 1, 2014, by Pub. L. 112–40, §§201(b), (c), 233. See 2009 and 2011 Amendment notes, Effective and Termination Dates of 2009 Amendment notes, and Effective and Termination Dates of 2011 Revival note below.
 
 #### Amendments
+
+<b>2011</b>—Pub. L. 112–40, §§201(b), (c), 233, temporarily revived the provisions of this section, as in effect on Feb. 12, 2011. See Codification note above and 2009 Amendment and Effective and Termination Dates of 2011 Revival notes below.
 
 <b>2009</b>—Subsec. (b). Pub. L. 111–5, §§1803(1), 1893, temporarily substituted “before the worker's application under section 2291 of this title occurred more than one year before the date of the petition on which such certification was granted.” for “or appropriate subdivision of the firm before his application under section 2291 of this title occurred—
 
@@ -40,23 +46,27 @@ Whenever the Secretary determines, with respect to any certification of eligibil
 
 &emsp;“(2) more than 6 months before the effective date of this part.”
 
-> See Effective and Termination Dates of 2009 Amendment note below.
+> See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (c). Pub. L. 111–5, §§1803(2), 1858(a), 1893, temporarily substituted “a determination” for “his determination” and “and on the website of the Department of Labor, together with the Secretary's reasons” for “together with his reasons”. See Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (c). Pub. L. 111–5, §§1803(2), 1858(a), 1893, temporarily substituted “a determination” for “his determination” and “and on the website of the Department of Labor, together with the Secretary's reasons” for “together with his reasons”. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (d). Pub. L. 111–5, §§1803(3), 1893, temporarily substituted “, that total or partial separations from such firm are no longer attributable to the conditions specified in section 2272 of this title, the Secretary shall” for “or subdivision of the firm, that total or partial separations from such firm or subdivision are no longer attributable to the conditions specified in section 2272 of this title, he shall” and “and on the website of the Department of Labor, together with the Secretary's reasons” for “together with his reasons”. See Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (d). Pub. L. 111–5, §§1803(3), 1893, temporarily substituted “, that total or partial separations from such firm are no longer attributable to the conditions specified in section 2272 of this title, the Secretary shall” for “or subdivision of the firm, that total or partial separations from such firm or subdivision are no longer attributable to the conditions specified in section 2272 of this title, he shall” and “and on the website of the Department of Labor, together with the Secretary's reasons” for “together with his reasons”. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (e). Pub. L. 111–5, §§1803(4), 1893, temporarily added subsec. (e). See Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (e). Pub. L. 111–5, §§1803(4), 1893, temporarily added subsec. (e). See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
 <b>2002</b>—Subsec. (a). Pub. L. 107–210 substituted “40 days” for “60 days”.
 
 <b>1993</b>—Subsec. (a). Pub. L. 103–182 substituted “assistance under this subpart” for “assistance under this part”.
 
+#### Effective and Termination Dates of 2011 Revival
+
+For temporary revival and applicability of provisions as in effect on Feb. 12, 2011, see sections 201(b), (c) and 233 of Pub. L. 112–40, set out as notes preceding section 2271 of this title. For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to section 233(b) of Pub. L. 112–40, see section 233 of Pub. L. 112–40, set out as a note preceding section 2271 of this title.
+
 #### Effective and Termination Dates of 2009 Amendment
 
 Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title.
 
-Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and this section to be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
+Section 1893 of Pub. L. 111–5, which provided that, except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and that this section be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403. See Codification note above.
 
 #### Effective Date of 2002 Amendment
 
@@ -68,5 +78,5 @@ Amendment by Pub. L. 103–182 effective on the date the North American Free Tra
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after Feb. 12, 2011, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after Dec. 31, 2013, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 

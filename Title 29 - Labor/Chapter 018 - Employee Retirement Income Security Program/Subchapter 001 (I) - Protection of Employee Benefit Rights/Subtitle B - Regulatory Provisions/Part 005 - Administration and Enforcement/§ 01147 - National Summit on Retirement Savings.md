@@ -132,7 +132,7 @@ The scope of the National Summit shall consist of issues relating to individual 
 
 #### (g) Report
 
-The Secretary shall prepare a report describing the activities of the National Summit and shall submit the report to the President, the Speaker and Minority Leader of the House of Representatives, the Majority and Minority Leaders of the Senate, and the chief executive officers of the States not later than 90 days after the date on which the National Summit is adjourned.
+The Secretary shall prepare a report describing the activities of the National Summit and shall submit the report to the President, the Speaker and Minority Leader of the House of Representatives, the Majority and Minority Leaders of the Senate, and the chief executiveofficers of the States not later than 90 days after the date on which the National Summit is adjourned.
 
 #### (h) “State” defined
 
@@ -171,8 +171,6 @@ The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 5
 The Federal Advisory Committee Act, referred to in subsec. (f)(3), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Change of Name
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 

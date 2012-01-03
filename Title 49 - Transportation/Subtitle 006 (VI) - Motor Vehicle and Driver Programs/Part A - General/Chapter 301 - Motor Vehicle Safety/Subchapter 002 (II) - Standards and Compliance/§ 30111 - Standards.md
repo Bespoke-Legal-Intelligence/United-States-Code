@@ -162,7 +162,7 @@ Required Study and Report to Congress.—Not later than 48 months after the date
 
 #### “SEC. 4. FUNDING.
 
-“Notwithstanding any other provision of law, $2,000,000 of any amounts made available to the Secretary of Transportation under under section 406 of title 23, United States Code, shall be made available to the Administrator of the National Highway Transportation Safety Administration for carrying out section 3 of this Act.”
+“Notwithstanding any other provision of law, $2,000,000 of any amounts made available to the Secretary of Transportation under under \[sic\] section 406 of title 23, United States Code, shall be made available to the Administrator of the National Highway Transportation Safety Administration for carrying out section 3 of this Act.”
 
 #### Child Safety Standards for Motor Vehicles
 

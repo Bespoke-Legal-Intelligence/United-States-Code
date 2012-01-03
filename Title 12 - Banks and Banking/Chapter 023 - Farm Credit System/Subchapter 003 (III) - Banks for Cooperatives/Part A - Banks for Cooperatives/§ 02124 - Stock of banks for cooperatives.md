@@ -32,11 +32,11 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (b). Pub. L. 110–246, §5402, which directed substitution of “par” for “per”, could not be executed because “per” did not appear.
+<b>2008</b>—Subsec. (b). Pub. L. 110–246, §5402, which directed substitution of “par” for “per”, could not be executed because “per” did not appear.
 
 Subsec. (c)(ii), (iii). Pub. L. 110–246, §5403(a), added cl. (ii) and redesignated former cl. (ii) as (iii).
 
-1988—Subsec. (a). Pub. L. 100–233, §802(<i>o</i>)(1), struck out “, with the approval of Farm Credit Administration,” after “board determines”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–233, §802(<i>o</i>)(1), struck out “, with the approval of Farm Credit Administration,” after “board determines”.
 
 Subsec. (b). Pub. L. 100–233, §802(<i>o</i>)(2), struck out “with the approval of the Farm Credit Administration” after “board may determine”.
 
@@ -44,11 +44,11 @@ Subsec. (d). Pub. L. 100–233, §805(k), substituted “by” for “by by” a
 
 Subsec. (e). Pub. L. 100–233, §802(<i>o</i>)(3), struck out “and approved by the Farm Credit Administration” after “Board”.
 
-1985—Subsec. (d). Pub. L. 99–205, §205(e)(3), inserted “under regulations issued by” after “authorized”.
+<b>1985</b>—Subsec. (d). Pub. L. 99–205, §205(e)(3), inserted “under regulations issued by” after “authorized”.
 
 Subsec. (e). Pub. L. 99–205, §205(e)(4), struck out “, except for stock held by the Governor,” before “may be exchanged”.
 
-1980—Subsec. (f). Pub. L. 96–592 added subsec. (f).
+<b>1980</b>—Subsec. (f). Pub. L. 96–592 added subsec. (f).
 
 #### Effective Date of 2008 Amendment
 

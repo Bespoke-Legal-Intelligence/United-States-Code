@@ -53,11 +53,11 @@ Pub. L. 85–599, §11(1), Aug. 6, 1958, 72 Stat. 521, added item 716, relating 
 
 #### Reports on Members of the Armed Forces and Civilian Employees of the Department of Defense Serving in the Legislative Branch
 
-Pub. L. 109–364, div. A, title XI, §1104, Oct. 17, 2006, 120 Stat. 2409, provided that:
+Pub. L. 109–364, div. A, title XI, §1104, Oct. 17, 2006, 120 Stat. 2409, as amended by Pub. L. 112–81, div. A, title X, §1066(c), Dec. 31, 2011, 125 Stat. 1588, provided that:
 
 “(a)
 
-Quarterly Reports on Details and Fellowships of Long Duration.—Not later than 120 days after the date of the enactment of this Act \[Oct. 17, 2006\], and quarterly thereafter, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the members of the Armed Forces and civilian employees of the Department of Defense who, as of the date of such report, have served continuously in the Legislative Branch for more than 12 consecutive months in one or a combination of covered legislative details or fellowships.
+Reports on Details and Fellowships of Long Duration.—Whenever a member of the Armed Forces or a civilian employee of the Department of Defense serves continuously in the Legislative Branch for more than 12 consecutive months in one or a combination of covered legislative details or fellowships, the Secretary of Defense shall submit to the congressional defense committees, within 90 days, and quarterly thereafter for as long as the service continues, a report on the service of the member or employee.
 
 “(b)
 

@@ -134,7 +134,7 @@ For the purposes of this chapter—
 
 > and such other tropical diseases as the Secretary may add to this list.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1118, §301; Pub. L. 94–433, title IV, §§401(2), (3), 404(1), Sept. 30, 1976, 90 Stat. 1377, 1378; Pub. L. 98–160, title VII, §702(2), Nov. 21, 1983, 97 Stat. 1009; Pub. L. 100–322, title III, §313, May 20, 1988, 102 Stat. 535; renumbered §1101 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1118, §301; Pub. L. 94–433, title IV, §§401(2), (3), 404(1), Sept. 30, 1976, 90 Stat. 1377, 1378; Pub. L. 98–160, titleVII, §702(2), Nov. 21, 1983, 97 Stat. 1009; Pub. L. 100–322, title III, §313, May 20, 1988, 102 Stat. 535; renumbered §1101 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
 
 #### Amendments
 
@@ -344,7 +344,7 @@ Policy Regarding Fiscal Year 1991.—The fiscal year 1991 cost-of-living adjustm
 
 “(b)
 
-Increase Payable as of January 1992.—The amount of compensation or dependency and indemnity compensation payable to any individual for the month of January 1992 who is entitled to such benefits as of January 1, 1992, shall be increased for such month by the amount equal to the amount of the monthly increase provided for that individual's benefit level as of January 1, 1991, pursuant to the adjustments described in subsection (a).”
+Increase Payable as of January 1992.—The amount of compensation or dependency and indemnity compensation payable to any individual for the month of January 1992 who is entitled to such benefits as of January 1, 1992, shall be increased for such month bythe amount equal to the amount of the monthly increase provided for that individual's benefit level as of January 1, 1991, pursuant to the adjustments described in subsection (a).”
 
 #### Benefits and Services for Former Prisoners of War; Implementation of Programs; Records for Disposition of Claims; Definition
 

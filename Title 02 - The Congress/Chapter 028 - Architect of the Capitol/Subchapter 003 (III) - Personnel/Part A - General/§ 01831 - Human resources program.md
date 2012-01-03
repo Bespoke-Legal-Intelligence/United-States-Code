@@ -70,7 +70,7 @@ Section is comprised of section 312 of Pub. L. 103–283. Subsec. (f) of section
 
 #### Amendments
 
-1995—Subsec. (e). Pub. L. 104–1 struck out subsec. (e) which related to processing of discrimination complaints.
+<b>1995</b>—Subsec. (e). Pub. L. 104–1 struck out subsec. (e) which related to processing of discrimination complaints.
 
 #### Savings Provision
 
@@ -104,7 +104,7 @@ Pub. L. 107–68, title I, §133(a), Nov. 12, 2001, 115 Stat. 581, as amended by
 
 &emsp;“(C) An individual employed by the Architect of the Capitol as a temporary employee as of the date of the enactment of this Act \[Nov. 12, 2001\] who exercises in writing, not later than 90 days after such date, an option offered by the Architect to remain under the pay system (including benefits) provided for the individual as of such date.
 
-&emsp;“(D) An individual who becomes employed by the Architect of the Capitol after the date of the enactment of this Act \[Nov. 12, 2001\] who exercises in writing, prior to the individual's employment, an option offered by the Architect to receive pay and benefits under an alternative system which does not provide the benefits described in paragraph (1), except that under such an option the Architect shall be required to provide the individual with the benefits described in paragraph (1) as soon as the individual's period of service as a temporary employee exceeds 1 year in length.
+&emsp;“(D) An individual who becomes employed by the Architect of the Capitol after the date of the enactment of this Act \[Nov. 12, 2001\] who exercises in writing, prior to the individual's employment, an option offered by the Architect to receive pay and benefits under an alternative system which does not providethe benefits described in paragraph (1), except that under such an option the Architect shall be required to provide the individual with the benefits described in paragraph (1) as soon as the individual's period of service as a temporary employee exceeds 1 year in length.
 
 &emsp;“(E) An individual who is covered by a collective bargaining agreement entered into by the Architect of the Capitol establishing terms and conditions of employment which include eligibility for life insurance, health insurance, retirement, and other benefits.
 

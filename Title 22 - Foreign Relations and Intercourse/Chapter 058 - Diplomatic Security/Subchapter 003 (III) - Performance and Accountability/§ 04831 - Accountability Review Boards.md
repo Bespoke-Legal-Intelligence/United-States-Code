@@ -72,5 +72,7 @@ Committee on International Relations of House of Representatives changed to Comm
 
 #### Continuation of Review Boards for Facilities in Afghanistan and Iraq
 
+Pub. L. 112–74, div. I, title VII, §7034(m)(2), Dec. 23, 2011, 125 Stat. 1216, provided that: “The authority provided by section 301(a)(3) of the Omnibus Diplomatic Security and Antiterrorism Act of 1986 (22 U.S.C. 4831(a)(3)) shall remain in effect through September 30, 2012.”
+
 Pub. L. 111–117, div. F, title VII, §7034(r), Dec. 16, 2009, 123 Stat. 3363, provided that: “The authority provided by section 301(a)(3) of the Omnibus Diplomatic Security and Antiterrorism Act of 1986 (22 U.S.C. 4831(a)(3)) shall remain in effect through September 30, 2010.”
 

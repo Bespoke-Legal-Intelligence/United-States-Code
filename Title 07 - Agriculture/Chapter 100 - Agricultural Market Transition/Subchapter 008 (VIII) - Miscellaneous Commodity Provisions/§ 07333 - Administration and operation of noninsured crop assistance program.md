@@ -64,7 +64,7 @@
 
 #### (2) Records
 
-&emsp;To be eligible for assistance under this section, a producer shall provide annually to theSecretary records of crop acreage, acreage yields, and production for each crop, as required by the Secretary.
+&emsp;To be eligible for assistance under this section, a producer shall provide annually to the Secretary records of crop acreage, acreage yields, and production for each crop, as required by the Secretary.
 
 #### (3) Acreage reports
 
@@ -230,7 +230,7 @@ Noninsured crop disaster assistance under this section shall not cover losses du
 
 &emsp;The Secretary shall deposit service fees collected under this subsection in the Commodity Credit Corporation Fund.
 
-(Pub. L. 104–127, title I, §196, Apr. 4, 1996, 110 Stat. 947; Pub. L. 105–277, div. A, §101(a) \[title VIII, §803(b)\], Oct. 21, 1998, 112 Stat. 2681, 2681–38; Pub. L. 106–224, title I, §109, June 20, 2000, 114 Stat. 371; Pub. L. 107–171, title X, §10101, May 13, 2002, 116 Stat. 488; Pub. L. 110–234, title I, §1603(f)(1), title XII, §§12020(b), 12025(b), 12027, 12028, May 22, 2008, 122 Stat. 1010, 1381, 1390; Pub.L. 110–246, §4(a), title I, §1603(f)(1), title XII, §§12020(b), 12025(b), 12027, 12028, June 18, 2008, 122 Stat. 1664, 1739, 2143, 2152.)
+(Pub. L. 104–127, title I, §196, Apr. 4, 1996, 110 Stat. 947; Pub. L. 105–277, div. A, §101(a) \[title VIII, §803(b)\], Oct. 21, 1998, 112 Stat. 2681, 2681–38; Pub. L. 106–224, title I, §109, June 20, 2000, 114 Stat. 371; Pub. L. 107–171, title X, §10101, May 13, 2002, 116 Stat. 488; Pub. L. 110–234, title I, §1603(f)(1), title XII, §§12020(b), 12025(b), 12027, 12028, May 22, 2008, 122 Stat. 1010, 1381, 1390; Pub. L. 110–246, §4(a), title I, §1603(f)(1), title XII, §§12020(b), 12025(b), 12027, 12028, June 18, 2008, 122 Stat. 1664, 1739, 2143, 2152.)
 
 #### References in Text
 
@@ -248,7 +248,7 @@ Section is comprised of section 196 of Pub. L. 104–127. Subsec. (j) of section
 
 #### Amendments
 
-2008—Subsec. (a)(2)(B). Pub. L. 110–246, §12025(b), inserted “camelina,” after “sea oats,”.
+<b>2008</b>—Subsec. (a)(2)(B). Pub. L. 110–246, §12025(b), inserted “camelina,” after “sea oats,”.
 
 Subsec. (a)(4). Pub. L. 110–246, §12020(b), added par. (4).
 
@@ -262,9 +262,9 @@ Subsec. (i)(5). Pub. L. 110–246, §1603(f)(1)(C), designated part of existing 
 
 Subsec. (k)(1). Pub. L. 110–246, §12028, in subpar. (A) substituted “$250” for “$100” and in subpar. (B) substituted “$750” for “$300” and “$1,875” for “$900”.
 
-2002—Subsec. (a)(2)(B). Pub. L. 107–171 inserted “sea grass and sea oats,” after “fish),”.
+<b>2002</b>—Subsec. (a)(2)(B). Pub. L. 107–171 inserted “sea grass and sea oats,” after “fish),”.
 
-2000—Subsec. (a)(2)(C). Pub. L. 106–224, §109(a), added subpar. (C).
+<b>2000</b>—Subsec. (a)(2)(C). Pub. L. 106–224, §109(a), added subpar. (C).
 
 Subsec. (b)(1). Pub. L. 106–224, §109(b), substituted “not later than 30 days before the beginning of the coverage period, as determined by the Secretary” for “at such time as the Secretary may require” in second sentence.
 

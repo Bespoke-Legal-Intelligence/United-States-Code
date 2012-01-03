@@ -28,7 +28,7 @@ The Secretary of Energy may carry out a program to undertake an accelerated, com
 
 &emsp;(G) The management of proliferation-attractive fissile materials, radiological materials, and related equipment at secure facilities.
 
-&emsp;(H) Actions to ensure that security, including security upgrades at sites and facilities forthe storage or disposition of proliferation-attractive fissile materials, radiological materials, and related equipment, continues to function as intended.
+&emsp;(H) Actions to ensure that security, including security upgrades at sites and facilities for the storage or disposition of proliferation-attractive fissile materials, radiological materials, and related equipment, continues to function as intended.
 
 &emsp;(I) The provision of technical support to the International Atomic Energy Agency (IAEA), other countries, and other entities to facilitate removal of, and security upgrades to facilities that contain, proliferation-attractive fissile materials, radiological materials, and related equipment worldwide.
 

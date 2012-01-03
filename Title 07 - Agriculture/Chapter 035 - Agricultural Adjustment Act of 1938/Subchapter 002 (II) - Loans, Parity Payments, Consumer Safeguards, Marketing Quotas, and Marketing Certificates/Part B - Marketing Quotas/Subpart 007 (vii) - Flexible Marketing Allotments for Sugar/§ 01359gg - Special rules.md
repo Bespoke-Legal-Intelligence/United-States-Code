@@ -46,7 +46,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Any acreage base remaining unassigned after the transfers and processes described in subparagraphs (A) through (E) shall be made available to the State committee of the Farm Service Agency for allocation among the remaining county committees in the State representing counties with farms eligible for assignment of the base, based on a random drawing.
+&emsp;&emsp;&emsp;Any acreage base remaining unassigned after the transfers and processes describedin subparagraphs (A) through (E) shall be made available to the State committee of the Farm Service Agency for allocation among the remaining county committees in the State representing counties with farms eligible for assignment of the base, based on a random drawing.
 
 #### (ii) Allocation
 
@@ -62,7 +62,7 @@
 
 #### (b) Preservation of acreage base history
 
-If for reasons beyond the control of a producer on a farm, the producer is unable to harvest anacreage of sugarcane for sugar or seed with respect to all or a portion of the proportionate share established for the farm under section 1359ff(c) of this title, the Secretary, on the application of the producer and with the written consent of all owners of the farm, may preserve for a period of not more than 5 consecutive years the acreage base history of the farm to the extent of the proportionate share involved. The Secretary may permit the proportionate share to be redistributed to other farms, but no acreage base history for purposes of establishing acreage bases shall accrue to the other farms by virtue of the redistribution of the proportionate share.
+If for reasons beyond the control of a producer on a farm, the producer is unable to harvest an acreage of sugarcane for sugar or seed with respect to all or a portion of the proportionate share established for the farm under section 1359ff(c) of this title, the Secretary, on the application of the producer and with the written consent of all owners of the farm, may preserve for a period of not more than 5 consecutive years the acreage base history of the farm to the extent of the proportionate share involved. The Secretary may permit the proportionate share to be redistributed to other farms, but no acreage base history for purposes of establishing acreage bases shall accrue to the other farms by virtue of the redistribution of the proportionate share.
 
 #### (c) Revisions of allocations and proportionate shares
 
@@ -94,7 +94,7 @@ A prior section 1359gg, act Feb. 16, 1938, ch. 30, title III, §359g, as added P
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–246, §1403(g)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “For the purpose of establishing proportionate shares for sugarcane farms under section 1359ff(c) of this title, the Secretary, on application of any producer, with the written consent of all owners of a farm, may transfer the acreage base history of the farm to any other parcels of land of the applicant.”
+<b>2008</b>—Subsec. (a). Pub. L. 110–246, §1403(g)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “For the purpose of establishing proportionate shares for sugarcane farms under section 1359ff(c) of this title, the Secretary, on application of any producer, with the written consent of all owners of a farm, may transfer the acreage base history of the farm to any other parcels of land of the applicant.”
 
 Subsec. (d)(1). Pub. L. 110–246, §1403(g)(2)(A), inserted “affected” before “crop-share owners” in two places and struck out “, and from the processing company holding the applicable allocation for such shares,” before “may deliver”.
 

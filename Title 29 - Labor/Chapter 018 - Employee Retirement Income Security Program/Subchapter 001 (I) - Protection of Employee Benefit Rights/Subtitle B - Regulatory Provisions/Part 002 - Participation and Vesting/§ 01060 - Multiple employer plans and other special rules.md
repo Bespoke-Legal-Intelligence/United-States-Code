@@ -30,7 +30,7 @@ For purposes of sections 1052, 1053, and 1054 of this title, under regulations p
 
 #### (1) General rule
 
-&emsp;Except as provided in this subsection, this chapter shall be applied to any defined benefit plan or applicable individual account plan which are <sup>1</sup> part of an eligible combined plan in the same manner as if each such plan were not a part of the eligible combined plan. In the case of a termination of the defined benefit plan and the applicable defined contribution plan forming part of an eligible combined plan, the plan administrator shall terminate each such plan separately.
+&emsp;Except as provided in this subsection, this chapter shall be applied to any defined benefit plan or applicable individual account plan which are <sup>1</sup> part of an eligible combined plan in the same manner as if each such plan were not a part of the eligible combined plan. In the case of a termination of the defined benefit plan and the applicable defined contribution plan forming part of an eligible combinedplan, the plan administrator shall terminate each such plan separately.
 
 #### (2) Eligible combined plan
 
@@ -212,7 +212,7 @@ For purposes of sections 1052, 1053, and 1054 of this title, under regulations p
 
 #### References in Text
 
-This chapter, referred to in subsec. (e)(1), (2)(A)(iii), was in the original “this Act”, meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+This chapter, referred to in subsec. (e)(1), (2)(A)(iii), was in the original “this Act”, meaning Pub. L. 93–406,known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 #### Amendments
 

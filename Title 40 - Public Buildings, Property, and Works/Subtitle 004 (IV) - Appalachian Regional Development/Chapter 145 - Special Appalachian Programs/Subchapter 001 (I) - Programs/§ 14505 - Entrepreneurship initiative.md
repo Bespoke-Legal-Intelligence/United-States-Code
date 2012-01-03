@@ -38,7 +38,7 @@ Limitation on Available Amounts.—Of the cost of any activity eligible for a gr
 
 (d)
 
-Sources of Assistance.—Assistance under this section may be provided entirely fromamounts made available to carry out this section, in combination with amounts made available under other federal programs, or from any other source.
+Sources of Assistance.—Assistance under this section may be provided entirely from amounts made available to carry out this section, in combination with amounts made available under other federal programs, or from any other source.
 
 (e)
 

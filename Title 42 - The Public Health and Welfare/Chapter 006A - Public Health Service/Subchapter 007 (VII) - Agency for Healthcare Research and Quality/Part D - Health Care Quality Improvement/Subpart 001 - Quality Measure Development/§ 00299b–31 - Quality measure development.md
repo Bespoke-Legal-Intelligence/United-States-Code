@@ -62,7 +62,7 @@ In this subpart, the term “quality measure” means a standard for measuring t
 
 &emsp;&emsp;&emsp;(ii) the views of other parties who also will use the quality measures (such as patients, consumers, and health care purchasers);
 
-&emsp;&emsp;(C) collaborate with the entity with a contract under section 1890(a) of the Social Security Act \[42 U.S.C. 1395aaa(a)\] and other stakeholders, as practicable, and the Secretary so that quality measures developed by the eligible entity will meet the requirements to be considered for endorsement bythe entity with a contract under such section 1890(a);
+&emsp;&emsp;(C) collaborate with the entity with a contract under section 1890(a) of the Social Security Act \[42 U.S.C. 1395aaa(a)\] and other stakeholders, as practicable, and the Secretary so that quality measures developed by the eligible entity will meet the requirements to be considered for endorsement by the entity with a contract under such section 1890(a);
 
 &emsp;&emsp;(D) have transparent policies regarding governance and conflicts of interest; and
 

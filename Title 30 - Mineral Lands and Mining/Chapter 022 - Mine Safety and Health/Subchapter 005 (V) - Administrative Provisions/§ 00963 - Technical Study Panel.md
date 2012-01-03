@@ -34,7 +34,3 @@ Members appointed to the Panel, while carrying out the duties of the Panel shall
 
 (Pub. L. 91–173, title V, §514, as added Pub. L. 109–236, §11, June 15, 2006, 120 Stat. 501.)
 
-#### Change of Name
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
-

@@ -22,7 +22,7 @@ The non-Federal share of the separable costs of the project allocated to recreat
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–575 substituted “not less than one-half the costs of operation” for “all the costs of operation” in introductory provisions.
 
-<b>1974</b>—Subsec. (a). Pub. L. 93–251 substituted in text preceding item (1) “separable costs of the project allocated to recreation, and to bear one-quarter of such costs allocated to fish and wildlife enhancement” for “separable costs of the project allocated to either or both of said purposes, as the case may be” and in item (3) “separable costs of the project allocated to recreation and exactly three-quarters of such costs allocated to fish and wildlife enhancement” for “separable costs”, respectively.
+<b>1974</b>—Subsec. (a). Pub. L. 93–251 substituted in text preceding item (1) “separable costs of the project allocated to recreation, and to bear one-quarter of suchcosts allocated to fish and wildlife enhancement” for “separable costs of the project allocated to either or both of said purposes, as the case may be” and in item (3) “separable costs of the project allocated to recreation and exactly three-quarters of such costs allocated to fish and wildlife enhancement” for “separable costs”, respectively.
 
 #### Effective Date of 1974 Amendment
 

@@ -12,7 +12,7 @@ The Corporation shall conduct a study and submit a report to the authorizing com
 
 &emsp;(4) how existing programs and activities carried out under the national service laws could be improved to serve veterans, veterans service organizations, families of active-duty military, including gaps in services to veterans;
 
-&emsp;(5) the extent to which existing programs and activities carried out under the national service laws are coordinated and recommendations to improve such coordination includingthe methods for ensuring the efficient financial organization of services directed towards veterans; and
+&emsp;(5) the extent to which existing programs and activities carried out under the national service laws are coordinated and recommendations to improve such coordination including the methods for ensuring the efficient financial organization of services directed towards veterans; and
 
 &emsp;(6) how to improve utilization of veterans as resources and volunteers.
 

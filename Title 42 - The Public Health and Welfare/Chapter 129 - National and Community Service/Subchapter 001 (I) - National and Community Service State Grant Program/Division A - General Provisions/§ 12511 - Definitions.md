@@ -172,7 +172,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;&emsp;(i) for purposes of division C of this subchapter, an individual in an approved national service position; and
 
-&emsp;&emsp;&emsp;(ii) for purposes of any other provision of this chapter, an individual enrolled in a program that receives assistance under this subchapter.
+&emsp;&emsp;&emsp;(ii) for purposes of any other provision of this chapter, an individual enrolled in aprogram that receives assistance under this subchapter.
 
 #### (B) Rule
 
@@ -367,6 +367,10 @@ Par. (24). Pub. L. 102–10, §3(2), (6), redesignated par. (23) as (24) and in 
 Pars. (25) to (29). Pub. L. 102–10, §3(2), redesignated pars. (24) to (28) as (25) to (29), respectively. Former par. (29) redesignated (30).
 
 Par. (30). Pub. L. 102–10, §3(2), (7), redesignated par. (29) as (30) and inserted “corps” after “youth service”.
+
+#### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Effective Date of 2009 Amendment
 

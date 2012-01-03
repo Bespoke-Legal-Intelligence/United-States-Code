@@ -24,21 +24,21 @@ Jan. 31, 1965—Pub. L. 88–452, title III, §331, Aug. 20, 1964, 78 Stat. 525.
 
 #### Amendments
 
-2008—Pub. L. 110–246, §1505, substituted “2012” for “2007”.
+<b>2008</b>—Pub. L. 110–246, §1505, substituted “2012” for “2007”.
 
-2002—Pub. L. 107–171 substituted “2007” for “1995”.
+<b>2002</b>—Pub. L. 107–171 substituted “2007” for “1995”.
 
-1990—Pub. L. 101–624 substituted “1995” for “1990”.
+<b>1990</b>—Pub. L. 101–624 substituted “1995” for “1990”.
 
-1985—Pub. L. 99–198 substituted “1990” for “1985”.
+<b>1985</b>—Pub. L. 99–198 substituted “1990” for “1985”.
 
-1981—Pub. L. 97–98 substituted “1985” for “1981”.
+<b>1981</b>—Pub. L. 97–98 substituted “1985” for “1981”.
 
-1977—Pub. L. 95–113 substituted “September 30, 1981” for “June 30, 1977”.
+<b>1977</b>—Pub. L. 95–113 substituted “September 30, 1981” for “June 30, 1977”.
 
-1973—Pub. L. 93–86 substituted “1977” for “1973”.
+<b>1973</b>—Pub. L. 93–86 substituted “1977” for “1973”.
 
-1970—Pub. L. 91–524 substituted “1973” for “1970”.
+<b>1970</b>—Pub. L. 91–524 substituted “1973” for “1970”.
 
 #### Effective Date of 2008 Amendment
 

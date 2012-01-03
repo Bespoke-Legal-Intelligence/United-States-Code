@@ -68,7 +68,7 @@ Net obligations.—Notwithstanding any other provision of law (including a regul
 
 (e) <sup>1</sup> Funds made available to the State of Alaska and the Commonwealth of Puerto Rico under this title may be expended for construction of access and development roads that will serve resource development, recreational, residential, commercial, industrial, or other like purposes.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 897; Pub. L. 89–574, §7(a), Sept. 13, 1966, 80 Stat. 768; Pub. L. 94–280, title I, §117(a), May 5, 1976, 90 Stat. 436; Pub. L. 95–599, title I, §115(a), Nov. 6, 1978, 92 Stat. 2697; Pub. L. 96–106, §5(a), Nov. 9, 1979, 93 Stat. 797; Pub. L. 97–424, title I, §115, Jan. 6, 1983, 96 Stat. 2107; Pub. L. 100–17, title I, §§114(a)–(c), (e)(2)–(4), 115, Apr. 2, 1987, 101 Stat. 150–153; Pub. L. 102–240, title I, §1020, Dec. 18, 1991, 105 Stat. 1948; Pub. L. 102–388, title IV, §409, Oct. 6, 1992, 106 Stat. 1565; Pub. L. 105–178, title I,§§1106(c)(1)(B), 1107(b), 1226(b), June 9, 1998, 112 Stat. 136, 137; Pub. L. 105–206, title IX, §9003(a), July 22, 1998, 112 Stat. 837; Pub. L. 109–59, title I, §§1111(a), 1501(b), Aug. 10, 2005, 119 Stat. 1171, 1235.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 897; Pub. L. 89–574, §7(a), Sept. 13, 1966, 80 Stat. 768; Pub. L. 94–280, title I, §117(a), May 5, 1976, 90 Stat. 436; Pub. L. 95–599, title I, §115(a), Nov. 6, 1978, 92 Stat. 2697; Pub. L. 96–106, §5(a), Nov. 9, 1979, 93 Stat. 797; Pub. L. 97–424, title I, §115, Jan. 6, 1983, 96 Stat. 2107; Pub. L. 100–17, title I, §§114(a)–(c), (e)(2)–(4), 115, Apr. 2, 1987, 101 Stat. 150–153; Pub. L. 102–240, title I, §1020, Dec. 18, 1991, 105 Stat. 1948; Pub. L. 102–388, title IV, §409, Oct. 6, 1992, 106 Stat. 1565; Pub. L. 105–178, title I, §§1106(c)(1)(B), 1107(b), 1226(b), June 9, 1998, 112 Stat. 136, 137; Pub. L. 105–206, title IX, §9003(a), July 22, 1998, 112 Stat. 837; Pub. L. 109–59, title I, §§1111(a), 1501(b), Aug. 10, 2005, 119 Stat. 1171, 1235.)
 
 #### References in Text
 
@@ -128,7 +128,7 @@ Subsec. (f). Pub. L. 100–17, §115, inserted “and the Commonwealth of Puerto
 
 Subsecs. (c) to (f). Pub. L. 97–424, §115(b), added subsecs. (c) and (d) and redesignated former subsecs. (c) and (d) as (e) and (f), respectively.
 
-<b>1979</b>—Subsec. (b). Pub. L. 96–106 substituted “shall continue to be available for expenditure in that Statefor a period of two years after the close of the fiscal year for which such sums are authorized and any amounts so apportioned remaining unexpended at the end of such period shall lapse” for “remaining unexpended at the end of the period of its availability shall lapse”.
+<b>1979</b>—Subsec. (b). Pub. L. 96–106 substituted “shall continue to be available for expenditure in that State for a period of two years after the close of the fiscal year for which such sums are authorized and any amounts so apportioned remaining unexpended at the end of such period shall lapse” for “remaining unexpended at the end of the period of its availability shall lapse”.
 
 <b>1978</b>—Subsec. (b). Pub. L. 95–599 substituted provisions relating to the availability of funds until the end of the fiscal year for provisions relating to the availability of funds until two years after the close of the fiscal year and substituted provisions establishing requirements for eligibility for funds for provisions calling for immediate reapportionment of unexpended funds.
 
@@ -246,7 +246,7 @@ In general.—Notwithstanding the original source or period of availability of e
 
 &emsp;&emsp;“(A) shall remain available for obligation for a period of 3 fiscal years after the fiscal year in which this Act is enacted; and
 
-&emsp;&emsp;“(B) except as provided in paragraph (2), shall be subject to the requirements of title 23, UnitedStates Code, that apply to section 133 of that title, including provisions relating to Federal share.
+&emsp;&emsp;“(B) except as provided in paragraph (2), shall be subject to the requirements of title 23, United States Code, that apply to section 133 of that title, including provisions relating to Federal share.
 
 &emsp;“(2)
 

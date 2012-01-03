@@ -20,13 +20,21 @@ Leasing and Road Maintenance Authority.—The Secretary of Defense and the Secre
 
 &emsp;(2) The maintenance of defense access roads which are certified to the Secretary of Transportation as important to the national defense under the provisions of section 210 of title 23.
 
-\[(c) Renumbered §2664(b)\]
+(c)
+
+Prohibition on Naming Department of Defense Real Property After Member of Congress.—(1) Real property under the jurisdiction of the Secretary of Defense or the Secretary of a military department may not be named after, or otherwise officially identified by the name of, any individual who is a Member of Congress at the time the property is so named or identified.
+
+(2) In this subsection:
+
+&emsp;(A) The term “Member of Congress” includes a Delegate or Resident Commissioner to the Congress.
+
+&emsp;(B) The term “real property” includes structures, buildings, or other infrastructure of a military installation, roadways and defense access roads, and any other area on the grounds of a military installation.
 
 (d)
 
 Treatment of Pentagon Reservation.—In this chapter, the terms “Secretary concerned” and “Secretary of a military department” include the Secretary of Defense with respect to the Pentagon Reservation.
 
-(Added Pub. L. 100–370, §1(<i>l</i>)(3), July 19, 1988, 102 Stat. 849; amended Pub. L. 108–375, div. B, title XXVIII, §2821(a)(1), (e)(1), Oct. 28, 2004, 118 Stat. 2129, 2130; Pub. L. 109–163, div. B, title XXVIII, §2821(d), (e), Jan. 6, 2006, 119 Stat. 3512.)
+(Added Pub. L. 100–370, §1(<i>l</i>)(3), July 19, 1988, 102 Stat. 849; amended Pub. L. 108–375, div. B, title XXVIII, §2821(a)(1), (e)(1), Oct. 28, 2004, 118 Stat. 2129, 2130; Pub. L. 109–163, div. B, title XXVIII, §2821(d), (e), Jan. 6, 2006, 119 Stat. 3512; Pub. L. 112–81, div. B, title XXVIII, §2863(a), Dec. 31, 2011, 125 Stat. 1701.)
 
 #### Historical and Revision Notes
 
@@ -40,6 +48,8 @@ A prior section 2661, act Aug. 10, 1956, ch. 1041, 70A Stat. 147, related to pla
 
 #### Amendments
 
+<b>2011</b>—Subsec. (c). Pub. L. 112–81 added subsec. (c).
+
 <b>2006</b>—Subsec. (c). Pub. L. 109–163, §2821(d), redesignated subsec. (c) as section 2664(b) of this title.
 
 Subsec. (d). Pub. L. 109–163, §2821(e), added subsec. (d).
@@ -47,6 +57,10 @@ Subsec. (d). Pub. L. 109–163, §2821(e), added subsec. (d).
 <b>2004</b>—Subsecs. (a), (b). Pub. L. 108–375, §2821(e)(1), inserted headings.
 
 Subsec. (c). Pub. L. 108–375, §2821(a)(1), added subsec. (c).
+
+#### Effective Date of 2011 Amendment
+
+Pub. L. 112–81, div. B, title XXVIII, §2863(b), Dec. 31, 2011, 125 Stat. 1702, provided that: “The prohibition in subsection (c) of section 2661 of title 10, United States Code, as added by subsection (a), shall apply only with respect to real property of the Department of Defense named after the date of the enactment of this Act \[Dec. 31, 2011\].”
 
 #### Pilot Program to Provide Additional Tools for Efficient Operation of Military Installations
 

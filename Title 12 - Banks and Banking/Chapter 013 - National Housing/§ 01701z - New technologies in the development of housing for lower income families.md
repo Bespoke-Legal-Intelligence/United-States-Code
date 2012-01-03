@@ -18,11 +18,11 @@ The Secretary shall approve not more than five plans utilizing new housing techn
 
 #### (c) Number of dwelling units to be constructed for each type of technology; evaluation of projects
 
-In approving projects for mortgage insurance under section 1715x(a)(2) of this title, the Secretary shall seek to achieve the construction ofat least one thousand dwelling units a year over a five-year period for each of the various types of technologies proposed in approved plans under subsection (b) of this section. The Secretary shall evaluate each project with respect to which assistance is extended pursuant to this section with a view to determining (1) the detailed cost breakdown per dwelling unit, (2) the environmental quality achieved in each unit, and (3) the effect which local housing codes and zoning regulations have, or would have if applicable, on the cost per dwelling unit.
+In approving projects for mortgage insurance under section 1715x(a)(2) of this title, the Secretary shall seek to achieve the construction of at least one thousand dwelling units a year over a five-year period for each of the various types of technologies proposed in approved plans under subsection (b) of this section. The Secretary shall evaluate each project with respectto which assistance is extended pursuant to this section with a view to determining (1) the detailed cost breakdown per dwelling unit, (2) the environmental quality achieved in each unit, and (3) the effect which local housing codes and zoning regulations have, or would have if applicable, on the cost per dwelling unit.
 
 #### (d) Transfer of surplus property
 
-Notwithstanding the provisions of the Federal Property and Administrative Services Act of 1949, any land which is excess property within the meaning of such Act and which is determined by the Secretary to be suitable in furtherance of the purposes of this section may be transferred to the Secretary upon his request.
+Notwithstanding the provisions of chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, any land which is excess property within the meaning of chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41 and which is determined by the Secretary to be suitable in furtherance of the purposes of this section may be transferred to the Secretary upon his request.
 
 #### (e) Report of findings; legislative recommendations
 
@@ -30,11 +30,9 @@ The Secretary shall, at the earliest practicable date, report his findings with 
 
 (Pub. L. 90–448, title I, §108(a)–(e), Aug. 1, 1968, 82 Stat. 495, 496.)
 
-#### References in Text
-
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (d), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
-
 #### Codification
+
+In subsec. (d), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, any land which is excess property within the meaning of chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949, any land which is excess property within the meaning of such Act” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 Section was enacted as part of the Housing and Urban Development Act of 1968, and not as part of the National Housing Act which comprises this chapter.
 

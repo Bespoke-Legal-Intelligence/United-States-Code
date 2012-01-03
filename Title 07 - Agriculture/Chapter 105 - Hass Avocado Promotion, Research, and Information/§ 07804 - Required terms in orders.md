@@ -94,7 +94,7 @@ The order shall define the general responsibilities of the Avocado Board, which 
 
 &emsp;(4) employ such persons as the Board determines are necessary, and set the compensation and define the duties of the persons;
 
-&emsp;(5)(A) develop budgets for the implementation of the order and submit the budgets to the Secretary for approval under subsection (d) of this section; and
+&emsp;(5)(A) develop budgets for the implementation of the order and submit the budgets tothe Secretary for approval under subsection (d) of this section; and
 
 &emsp;(B) propose and develop (or receive and evaluate), approve, and submit to the Secretary for approval under subsection (d) of this section plans or projects for Hass avocado promotion, industry information, consumer information, or related research;
 
@@ -158,7 +158,7 @@ The order shall define the general responsibilities of the Avocado Board, which 
 
 #### (3) Approval by Secretary
 
-&emsp;A budget, plan, or project for Hass avocados promotion, industry information, consumer information, or related research may not be implemented prior to approval of the budget, plan, or project by the Secretary. Not later than 45 days after receipt of such a budget, plan, or project, the Secretary shall notify the Board whether the Secretary approves or disapproves the budget, plan, or project. If the Secretary fails to provide such notice before the end of the 45-day period, the budget, plan,or project shall be deemed to be approved and may be implemented by the Board.
+&emsp;A budget, plan, or project for Hass avocados promotion, industry information, consumer information, or related research may not be implemented prior to approval of the budget, plan, or project by the Secretary. Not later than 45 days after receipt of such a budget, plan, or project, the Secretary shall notify the Board whether the Secretary approves or disapproves the budget, plan, or project. If the Secretary fails to provide such notice before the end of the 45-day period, the budget, plan, or project shall be deemed to be approved and may be implemented by the Board.
 
 #### (e) Contracts and agreements
 
@@ -166,7 +166,7 @@ The order shall define the general responsibilities of the Avocado Board, which 
 
 #### (A) In general
 
-&emsp;&emsp;To ensure the efficient use of funds, the order shall provide that the Board, with the approval of the Secretary, shall enter into a contract or an agreement with an avocado organization established by State statute in a State with the majority of Hass avocado production in the United States, for the implementation of a plan or project for promotion, industry information, consumer information, or related research with respect to Hass avocados, and for the payment of the cost of the contract or agreement with funds received by the Board under the order.
+&emsp;&emsp;To ensure the efficient use of funds, the order shall provide that the Board, with the approval of the Secretary, shall enter into a contract or an agreement with an avocadoorganization established by State statute in a State with the majority of Hass avocado production in the United States, for the implementation of a plan or project for promotion, industry information, consumer information, or related research with respect to Hass avocados, and for the payment of the cost of the contract or agreement with funds received by the Board under the order.
 
 #### (B) Requirements
 
@@ -244,7 +244,7 @@ The order shall define the general responsibilities of the Avocado Board, which 
 
 #### (iii) Importers
 
-&emsp;&emsp;&emsp;The assessment on imported Hass avocados shall be paid by the importer to Customs at the time of entry into the United States and shall be remitted by Customs to the Board. Importation occurs when Hass avocados originating outside the United States are released from custody ofCustoms and introduced into the stream of commerce within the United States. Importers include persons who hold title to foreign-produced Hass avocados immediately upon release by Customs, as well as any persons who act on behalf of others, as agents, brokers, or consignees, to secure the release of Hass avocados from Customs and the introduction of the released Hass avocados into the current of commerce.
+&emsp;&emsp;&emsp;The assessment on imported Hass avocados shall be paid by the importer to Customs at the time of entry into the United States and shall be remitted by Customs to the Board. Importation occurs when Hass avocados originating outside the United States are released from custody of Customs and introduced into the stream of commerce within the United States. Importers include persons who hold title to foreign-produced Hass avocados immediately upon release by Customs, as well as any persons who act on behalf of others, as agents, brokers, or consignees, to secure the release of Hass avocados from Customs and the introduction of the released Hass avocados into the current of commerce.
 
 #### (2) Assessment rates
 
@@ -328,7 +328,7 @@ The order shall provide for reimbursing the Secretary—
 
 &emsp;(1) for expenses not to exceed $25,000 incurred by the Secretary in connection with any referendum conducted under section 7805 of this title;
 
-&emsp;(2) for administrative costs incurred by the Secretary for supervisory work of up to two employee years annually after an order or amendment to any order has been issued and made effective; and
+&emsp;(2) for administrative costs incurred by the Secretary for supervisory work of up to twoemployee years annually after an order or amendment to any order has been issued and made effective; and
 
 &emsp;(3) for costs incurred by the Secretary in implementation of the order issued under section 7803 of this title, for enforcement of the chapter and the order, for subsequent referenda conducted under section 7805 of this title, and in defending the Board in litigation arising out of action taken by the Board.
 
@@ -398,7 +398,7 @@ The Board may not engage in, and shall prohibit the employees and agents of the 
 
 #### (B) Customs Service
 
-&emsp;&emsp;On the request of the Secretary or the Board, the Commissioner of the UnitedStates Customs Service shall provide to the Secretary or the Board lists of importers of Hass avocados.
+&emsp;&emsp;On the request of the Secretary or the Board, the Commissioner of the United States Customs Service shall provide to the Secretary or the Board lists of importers of Hass avocados.
 
 #### (n) Consultations with industry experts
 

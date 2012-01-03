@@ -178,7 +178,7 @@ Allowances sold in the spot sale in any year are allowances which may only be us
 
 &emsp;(A) Notwithstanding section 3302 of title 31 or any other provision of law, within 90 days of receipt, the Administrator shall transfer the proceeds from the auction under this section, on a pro rata basis, to the owners or operators of the affected units at an affected source from whom allowances were withheld under subsection (b) of this section. No funds transferred from a purchaser to a seller of allowances under this paragraph shall be held by any officer or employee of the United States or treated for any purpose as revenue to the United States or the Administrator.
 
-&emsp;(B) At the end of each year, any allowances offered for sale but not sold at the auction shall be returned without charge, on a pro rata basis, to the owner or operator of the affected units from whose allocation the allowances were withheld.
+&emsp;(B) At the end of each year, any allowances offered for sale but not sold at the auction shall be returned without charge, on a pro ratabasis, to the owner or operator of the affected units from whose allocation the allowances were withheld.
 
 #### (4) Additional auction participants
 

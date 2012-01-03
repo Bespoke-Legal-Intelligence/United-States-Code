@@ -16,7 +16,7 @@ No person other than an officer or employee of the Department of Agriculture may
 
 #### Amendments
 
-1981—Pub. L. 97–98 substituted provision relating to membership on advisory committees for provision relating to establishment of advisory committees.
+<b>1981</b>—Pub. L. 97–98 substituted provision relating to membership on advisory committees for provision relating to establishment of advisory committees.
 
 #### Effective Date of 1981 Amendment
 

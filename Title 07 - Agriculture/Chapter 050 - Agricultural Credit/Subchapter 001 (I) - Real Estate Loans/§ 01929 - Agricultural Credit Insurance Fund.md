@@ -10,7 +10,7 @@ Moneys in the fund not needed for current operations shall be deposited in the T
 
 #### (c) Notes; form and denominations; maturities; terms and conditions; interest rate; purchase by Treasury; public debt transaction
 
-The Secretary is authorized to make and issue notes to the Secretary of the Treasury for the purpose of obtaining funds necessary for discharging obligations under this section and for authorized expenditures out of the fund. Such notes shall be in such form and denominations and have such maturities and be subject to such terms and conditions as may be prescribed by the Secretary with the approval of the Secretary of the Treasury. Such notes shall bear interest at a rate fixed by the Secretary of the Treasury, taking into consideration the current average market yield of outstanding marketableobligations of the United States having maturities comparable to the notes issued by the Secretary under this subchapter. The Secretary of the Treasury is authorized and directed to purchase any notes of the Secretary issued hereunder, and, for that purpose, the Secretary of the Treasury is authorized to use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, and the purposes for which such securities may be issued under such chapter are extended to include the purchase of notes issued by the Secretary. All redemptions, purchases, and sales by the Secretary of the Treasury of such notes shall be treated as public debt transactions of the United States.
+The Secretary is authorized to make and issue notes to the Secretary of the Treasury for the purpose of obtaining funds necessary for discharging obligations under this section and for authorized expenditures out of the fund. Such notes shall be in such form and denominations and have such maturities and be subject to such terms and conditions as may be prescribed by the Secretary with the approval of the Secretary of the Treasury. Such notes shall bear interest at a rate fixed by the Secretary of the Treasury, taking into consideration the current average market yield of outstanding marketable obligations of the United States having maturities comparable to the notes issued by the Secretary under this subchapter. The Secretary of the Treasury is authorized and directed to purchase any notes of the Secretary issued hereunder, and, for that purpose, the Secretary of the Treasury is authorized to use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, and the purposes for which such securities may be issued under such chapter are extended to include the purchase of notes issued by the Secretary. All redemptions, purchases, and sales by the Secretary of the Treasury of such notes shall be treated as public debt transactions of the United States.
 
 #### (d) Notes and security as part of fund; collection or sale of notes; deposit of net proceeds in fund
 
@@ -96,7 +96,7 @@ Amount of guarantee of loans for farm operations on tribal lands.—In the case 
 
 The Secretary may guarantee under this chapter a loan made under a State beginning farmer or rancher program, including a loan financed by the net proceeds of a qualified small issue agricultural bond for land or property described in section 144(a)(12)(B)(ii) of title 26.
 
-(Pub. L. 87–128, title III, §309, Aug. 8, 1961, 75 Stat. 309; Pub. L. 87–703, title IV, §401(3), Sept. 27, 1962, 76 Stat. 632; Pub. L. 89–240, §2(b), (c), Oct. 7, 1965, 79 Stat. 932; Pub. L. 89–633, Oct. 8, 1966, 80 Stat. 879; Pub. L. 90–488, §7, Aug. 15, 1968, 82 Stat. 771; Pub. L. 92–419, title I, §115, Aug. 30, 1972, 86 Stat. 660; Pub. L. 95–113, title XV, §1510(a), Sept. 29, 1977, 91 Stat. 1022; Pub. L. 95–334, title I, §109(a), Aug. 4, 1978, 92 Stat. 423; Pub. L. 101–624, title XXIII, §2302(a)(2), Nov. 28, 1990, 104 Stat. 3980; Pub. L. 102–554, §§4, 5(a), Oct. 28, 1992, 106 Stat. 4143; Pub. L. 104–127, title VI, §§606, 661(b), title VII, §§744, 749(b)(1), Apr. 4, 1996, 110 Stat. 1086, 1106, 1125, 1129; Pub. L. 107–171, title V, §§5003, 5004, May 13, 2002, 116 Stat. 342.)
+(Pub. L. 87–128, title III, §309, Aug. 8, 1961, 75 Stat. 309; Pub. L. 87–703, title IV, §401(3), Sept. 27, 1962, 76 Stat. 632; Pub. L. 89–240, §2(b), (c), Oct. 7, 1965, 79 Stat. 932; Pub. L. 89–633, Oct. 8, 1966, 80 Stat. 879; Pub. L. 90–488, §7, Aug. 15, 1968,82 Stat. 771; Pub. L. 92–419, title I, §115, Aug. 30, 1972, 86 Stat. 660; Pub. L. 95–113, title XV, §1510(a), Sept. 29, 1977, 91 Stat. 1022; Pub. L. 95–334, title I, §109(a), Aug. 4, 1978, 92 Stat. 423; Pub. L. 101–624, title XXIII, §2302(a)(2), Nov. 28, 1990, 104 Stat. 3980; Pub. L. 102–554, §§4, 5(a), Oct. 28, 1992, 106 Stat. 4143; Pub. L. 104–127, title VI, §§606, 661(b), title VII, §§744, 749(b)(1), Apr. 4, 1996, 110 Stat. 1086, 1106, 1125, 1129; Pub. L. 107–171, title V, §§5003, 5004, May 13, 2002, 116 Stat. 342.)
 
 #### References in Text
 
@@ -112,13 +112,13 @@ In subsec. (c), “chapter 31 of title 31” and “such chapter” substituted 
 
 #### Amendments
 
-2002—Subsec. (h)(4). Pub. L. 107–171, §5003(1), substituted “paragraphs (5), (6), and (7)” for “paragraphs (5) and (6)”.
+<b>2002</b>—Subsec. (h)(4). Pub. L. 107–171, §5003(1), substituted “paragraphs (5), (6), and (7)” for “paragraphs (5) and (6)”.
 
 Subsec. (h)(7). Pub. L. 107–171, §5003(2), added par. (7).
 
 Subsec. (j). Pub. L. 107–171, §5004, added subsec. (j).
 
-1996—Subsec. (f). Pub. L. 104–127, §744, redesignated pars. (2) to (6) as (1) to (5), respectively, and struck out former par. (1) which read as follows: “to make loans which could be insured under this subchapter whenever the Secretary has reasonable assurance that they can be sold without undue delay, and may sell and insure such loans;”.
+<b>1996</b>—Subsec. (f). Pub. L. 104–127, §744, redesignated pars. (2) to (6) as (1) to (5), respectively, and struck out former par. (1) which read as follows: “to make loans which could be insured under this subchapter whenever the Secretary has reasonable assurance that they can be sold without undue delay, and may sell and insure such loans;”.
 
 Subsec. (g)(1). Pub. L. 104–127, §749(b)(1), inserted “(before the amendment made by section 749(a)(1) of the Federal Agriculture Improvement and Reform Act of 1996)” after “section 1988(c) of this title”.
 
@@ -126,17 +126,17 @@ Pub. L. 104–127, §661(b), struck out “section 1928,” after “provisions 
 
 Subsec. (h)(4) to (6). Pub. L. 104–127, §606, added pars. (4) to (6).
 
-1992—Subsec. (h). Pub. L. 102–554, §4, designated existing provisions as par. (1) and added pars. (2) and (3).
+<b>1992</b>—Subsec. (h). Pub. L. 102–554, §4, designated existing provisions as par. (1) and added pars. (2) and (3).
 
 Subsec. (i). Pub. L. 102–554, §5(a), added subsec. (i).
 
-1990—Subsec. (e). Pub. L. 101–624 inserted “and the Rural Development Administration, in proportion to such charges collected in connection with the insurance of loans by such agency” and substituted “expenses for such agency” for “expenses”.
+<b>1990</b>—Subsec. (e). Pub. L. 101–624 inserted “and the Rural Development Administration, in proportion to such charges collected in connection with the insurance of loans by such agency” and substituted “expenses for such agency” for “expenses”.
 
-1978—Subsec. (f)(1), (6). Pub. L. 95–334 in par. (1) struck out provisions limiting amount of loans outstanding at any one time, and added par. (6).
+<b>1978</b>—Subsec. (f)(1), (6). Pub. L. 95–334 in par. (1) struck out provisions limiting amount of loans outstanding at any one time, and added par. (6).
 
-1977—Subsec. (f)(3). Pub. L. 95–113 substituted “any deferred or defaulted installment” for “any defaulted installment”.
+<b>1977</b>—Subsec. (f)(3). Pub. L. 95–113 substituted “any deferred or defaulted installment” for “any defaulted installment”.
 
-1972—Subsec. (f)(1). Pub. L. 92–419, §115(a)(1), substituted “$500,000,000” for “$100,000,000”.
+<b>1972</b>—Subsec. (f)(1). Pub. L. 92–419, §115(a)(1), substituted “$500,000,000” for “$100,000,000”.
 
 Subsec. (f)(2). Pub. L. 92–419, §115(a)(2), substituted “amounts” for “the interest” and “payments” for “prepayments” in three places and inserted “or until the next agreed annual or semi-annual remittance date” after “until due”.
 
@@ -144,15 +144,15 @@ Subsec. (f)(5). Pub. L. 92–419, §115(a)(3), (4), substituted “connection wi
 
 Subsecs. (g), (h). Pub. L. 92–419, §115(b), added subsecs. (g) and (h).
 
-1968—Subsec. (f)(1). Pub. L. 90–488 increased from $50,000,000 to $100,000,000 the aggregate amount of loans to be sold and insured and undisposed of at any one time.
+<b>1968</b>—Subsec. (f)(1). Pub. L. 90–488 increased from $50,000,000 to $100,000,000 the aggregate amount of loans to be sold and insured and undisposed of at any one time.
 
-1966—Subsec. (f)(2). Pub. L. 89–633 substituted “until due” for “until the due date of the annual installment”.
+<b>1966</b>—Subsec. (f)(2). Pub. L. 89–633 substituted “until due” for “until the due date of the annual installment”.
 
-1965—Subsec. (e). Pub. L. 89–240, §2(b), substituted “all or a portion, not to exceed one-half of 1 per centum of the unpaid principal balance of the loan of any charge collected in connection with the insurance of loans; and any remainder of any such charge” for “such portion of the charge collected in connection with the insurance of loans at least equal to a rate of one-half of 1 per centum per annum on the outstanding principal obligations and the remainder of such charge”.
+<b>1965</b>—Subsec. (e). Pub. L. 89–240, §2(b), substituted “all or a portion, not to exceed one-half of 1 per centum of the unpaid principal balance of the loan of any charge collected in connection with the insurance of loans; and any remainder of any such charge” for “such portion of the charge collected in connection with the insurance of loans at least equal to a rate of one-half of 1 per centum per annum on the outstanding principal obligations and the remainder of such charge”.
 
 Subsec. (f)(1). Pub. L. 89–240, §2(c), substituted “$50,000,000” for “$25,000,000”.
 
-1962—Subsec. (f)(1). Pub. L. 87–703 increased from $10,000,000 to $25,000,000 the aggregate amount of loans to be sold and insured and undisposed of at any one time.
+<b>1962</b>—Subsec. (f)(1). Pub. L. 87–703 increased from $10,000,000 to $25,000,000 the aggregate amount of loans to be sold and insured and undisposed of at any one time.
 
 #### Effective Date of 1996 Amendment
 

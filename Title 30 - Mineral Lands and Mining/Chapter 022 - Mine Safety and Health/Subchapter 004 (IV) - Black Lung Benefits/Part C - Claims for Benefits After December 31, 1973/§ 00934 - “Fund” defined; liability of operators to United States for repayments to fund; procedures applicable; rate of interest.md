@@ -72,7 +72,7 @@ Section 104(a)(3) of Pub. L. 97–119 provided that: “The amendment made by pa
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–222 effective as if included in the provisions of Pub. L. 95–227, which amended thissection effective Apr. 1, 1978, see section 108(b)(4) of Pub. L. 96–222, set out as a note under section 192 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 96–222 effective as if included in the provisions of Pub. L. 95–227, which amended this section effective Apr. 1, 1978, see section 108(b)(4) of Pub. L. 96–222, set out as a note under section 192 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1978 Amendment
 

@@ -116,7 +116,7 @@ Jan. 2, 1975, Pub. L. 93–604, §401, 88 Stat. 1962.
 
 Oct. 26, 1970, Pub. L. 91–510, §204(d)(last sentence), 84 Stat. 1168; restated July 12, 1974, Pub. L. 93–344, §702(a), 88 Stat. 326.
 
-In subsection (a), the text of 31:52(a) and (b) and 31:56 is omitted as superseded by the other source provisions restated in this subchapter and subchapter IV of this chapter. The word “remove” is added for consistency with other provisions of the subchapter. The words “officers (except the Deputy Comptroller General) and employees” are substituted for “personnel” in 31:52–1, and the word “powers” is substituted for “functions”, for consistency in the revised title and with other titles of the United States Code.
+In subsection (a), the text of 31:52(a) and (b) and 31:56 is omitted as superseded by the other source provisions restated in this subchapter and subchapter IV of this chapter. The word “remove” is added for consistency with other provisions of the subchapter. The words “officers (except the Deputy Comptroller General) and employees” are substituted for “personnel” in 31:52–1, and the word “powers” is substituted for “functions”, forconsistency in the revised title and with other titles of the United States Code.
 
 Subsection (b) is substituted for 31:52–4(b) to eliminate unnecessary words. The words “officers and” are added for consistency in the revised title and with other titles of the Code.
 

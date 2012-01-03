@@ -8,5 +8,5 @@
 
 #### Effective Date
 
-Section effective Aug. 13, 1981, except that any funds authorized to be appropriated shall not be available foruse or obligation prior to Oct. 1, 1981, see section 1372 of Pub. L. 97–35, set out as a note under section 290i of this title.
+Section effective Aug. 13, 1981, except that any funds authorized to be appropriated shall not be available for use or obligation prior to Oct. 1, 1981, see section 1372 of Pub. L. 97–35, set out as a note under section 290i of this title.
 

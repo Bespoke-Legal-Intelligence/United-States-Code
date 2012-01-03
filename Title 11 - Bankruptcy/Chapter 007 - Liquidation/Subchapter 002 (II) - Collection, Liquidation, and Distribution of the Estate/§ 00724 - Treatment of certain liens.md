@@ -4,9 +4,9 @@
 
 (b) Property in which the estate has an interest and that is subject to a lien that is not avoidable under this title (other than to the extent that there is a properly perfected unavoidable tax lien arising in connection with an ad valorem tax on real or personal property of the estate) and that secures an allowed claim for a tax, or proceeds of such property, shall be distributed—
 
-&emsp;(1) first, to any holder of an allowed claim secured by a lien on such property that is not avoidable under this title and that is senior to such tax lien;
+&emsp;(1) first, to any holder of an allowed claim secured by a lien on such property that is notavoidable under this title and that is senior to such tax lien;
 
-&emsp;(2) second, to any holder of a claim of a kind specified in section 507(a)(1)(C) or 507(a)(2) (except that such expenses under each such section, other than claims for wages, salaries, or commissions that arise after the date of the filing of the petition, shall be limited to expenses incurred under this chapter and shall not include expenses incurred under chapter 11 of this title), 507(a)(1)(A), 507(a)(1)(B), 507(a)(3),507(a)(4), 507(a)(5), 507(a)(6), or 507(a)(7) of this title, to the extent of the amount of such allowed tax claim that is secured by such tax lien;
+&emsp;(2) second, to any holder of a claim of a kind specified in section 507(a)(1)(C) or 507(a)(2) (except that such expenses under each such section, other than claims for wages, salaries, or commissions that arise after the date of the filing of the petition, shall be limited to expenses incurred under this chapter and shall not include expenses incurred under chapter 11 of this title), 507(a)(1)(A), 507(a)(1)(B), 507(a)(3), 507(a)(4), 507(a)(5), 507(a)(6), or 507(a)(7) of this title, to the extent of the amount of such allowed tax claim that is secured by such tax lien;
 
 &emsp;(3) third, to the holder of such tax lien, to any extent that such holder's allowed tax claim that is secured by such tax lien exceeds any amount distributed under paragraph (2) of this subsection;
 
@@ -36,7 +36,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 724 of the House amendment adopts the provision taken in the House bill and rejects the provision taken in the Senate amendment. In effect, a tax claim secured by a lien is treated as a claim between the fifth and sixth priority in a case under chapter 7 rather than as a secured claim.
 
@@ -60,21 +60,21 @@ Section 6323 of the Internal Revenue Code of 1986, referred to in subsec. (d), i
 
 #### Amendments
 
-2010—Subsec. (b)(2). Pub. L. 111–327 substituted “507(a)(1)(C) or 507(a)(2)” for “507(a)(1)”, “this chapter” for “chapter 7 of this title”, and “507(a)(1)(A), 507(a)(1)(B),” for “507(a)(2),” and inserted “under each such section” after “such expenses”.
+<b>2010</b>—Subsec. (b)(2). Pub. L. 111–327 substituted “507(a)(1)(C) or 507(a)(2)” for “507(a)(1)”, “this chapter” for “chapter 7 of this title”, and “507(a)(1)(A), 507(a)(1)(B),” for “507(a)(2),” and inserted “under each such section” after “such expenses”.
 
-2005—Subsec. (b). Pub. L. 109–8, §701(a)(1), inserted “(other than to the extent that there is a properly perfected unavoidable tax lien arising in connection with an ad valorem tax on real or personal property of the estate)” after “under this title” in introductory provisions.
+<b>2005</b>—Subsec. (b). Pub. L. 109–8, §701(a)(1), inserted “(other than to the extent that there is a properly perfected unavoidable tax lien arising in connection with an ad valorem tax on real or personal property of the estate)” after “under this title” in introductory provisions.
 
 Subsec. (b)(2). Pub. L. 109–8, §701(a)(2), inserted “(except that such expenses, other than claims for wages, salaries, or commissions that arise after the date of the filing of the petition, shall be limited to expenses incurred under chapter 7 of this title and shall not include expenses incurred under chapter 11 of this title)” after “section 507(a)(1)”.
 
 Subsecs. (e), (f). Pub. L. 109–8, §701(a)(3), added subsecs. (e) and (f).
 
-1994—Subsec. (b)(2). Pub. L. 103–394, §304(h)(4), substituted “507(a)(6), or 507(a)(7)” for “or 507(a)(6)”.
+<b>1994</b>—Subsec. (b)(2). Pub. L. 103–394, §304(h)(4), substituted “507(a)(6), or 507(a)(7)” for “or 507(a)(6)”.
 
 Subsec. (d). Pub. L. 103–394, §501(d)(23), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954 (26 U.S.C. 6323)”.
 
-1986—Subsec. (b)(2). Pub. L. 99–554 inserted reference to section 507(a)(6) of this title.
+<b>1986</b>—Subsec. (b)(2). Pub. L. 99–554 inserted reference to section 507(a)(6) of this title.
 
-1984—Subsec. (b). Pub. L. 98–353, §477(a)(1), substituted “a tax” for “taxes” in provisions preceding par. (1).
+<b>1984</b>—Subsec. (b). Pub. L. 98–353, §477(a)(1), substituted “a tax” for “taxes” in provisions preceding par. (1).
 
 Subsec. (b)(2). Pub. L. 98–353, §477(a)(2), substituted “any holder of a claim of a kind specified” for “claims specified”, “section 507(a)(1)” for “sections 507(a)(1)”, and “or 507(a)(5) of this title” for “and 507(a)(5) of this title”.
 

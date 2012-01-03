@@ -24,7 +24,7 @@
 
 #### (C) Expected levels of performance
 
-&emsp;&emsp;The Secretary and each grantee shall reach agreement on the expected levels of performance for each program year for each of the core indicators of performance specified in subparagraph (A)(i). The agreement shall take into account the requirement of subparagraph (B) and the factors described in subparagraph (D), and other appropriate factors as determined by the Secretary, and shall be consistent with the requirements of subparagraph (E). Funds may not be awarded under the grant until such agreement is reached. At the conclusion of negotiations concerning the levels with all grantees, the Secretary shall make available for public review the final negotiated expected levels ofperformance for each grantee, including any comments submitted by the grantee regarding the grantee's satisfaction with the negotiated levels.
+&emsp;&emsp;The Secretary and each grantee shall reach agreement on the expected levels of performance for each program year for each of the core indicators of performance specified in subparagraph (A)(i). The agreement shall take into account the requirement of subparagraph (B) and the factors described in subparagraph (D), and other appropriate factors as determined by the Secretary, and shall be consistent with the requirements of subparagraph (E). Funds may not be awarded under the grant until such agreement is reached. At the conclusion of negotiations concerning the levels with all grantees, the Secretary shall make available for public review the final negotiated expected levels of performance for each grantee, including any comments submitted by the grantee regarding the grantee's satisfaction with the negotiated levels.
 
 #### (D) Adjustment
 
@@ -34,7 +34,7 @@
 
 &emsp;&emsp;&emsp;(ii) Significant downturns in the areas served by the grantee or in the national economy.
 
-&emsp;&emsp;&emsp;(iii) Significant numbers or proportions of participants with 1 or more barriers to employment, including individuals described in subsection (a)(3)(B)(ii) or (b)(2) of section 3056p of this title, served by a grantee relative to such numbers or proportions for grantees serving other areas of the State or Nation.
+&emsp;&emsp;&emsp;(iii) Significant numbers or proportions of participants with 1 or more barriers to employment, including individuals described in subsection (a)(3)(B)(ii) or (b)(2)of section 3056p of this title, served by a grantee relative to such numbers or proportions for grantees serving other areas of the State or Nation.
 
 &emsp;&emsp;&emsp;(iv) Changes in Federal, State, or local minimum wage requirements.
 
@@ -134,7 +134,7 @@ The Secretary shall—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If the Secretary determines that a national grantee fails to meet the expected levels of performance described in subparagraph (A), the Secretary after each year of such failure, shall provide technical assistance and require such grantee to submit a corrective action plan not later than 160 days after the end of the program year.
+&emsp;&emsp;&emsp;If the Secretary determines that a national grantee fails to meet the expectedlevels of performance described in subparagraph (A), the Secretary after each year of such failure, shall provide technical assistance and require such grantee to submit a corrective action plan not later than 160 days after the end of the program year.
 
 #### (ii) Content
 

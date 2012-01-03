@@ -186,7 +186,7 @@ An order issued by the Secretary under this section shall be served—
 
 #### (1) Additional information
 
-&emsp;In the case of any tobacco product for which an order issued pursuant to subsection (c)(1)(A)(i) for an application filed under subsection (b) is in effect, the applicant shall establish and maintain such records, and makesuch reports to the Secretary, as the Secretary may by regulation, or by order with respect to such application, prescribe on the basis of a finding that such records and reports are necessary in order to enable the Secretary to determine, or facilitate a determination of, whether there is or may be grounds for withdrawing or temporarily suspending such order.
+&emsp;In the case of any tobacco product for which an order issued pursuant to subsection (c)(1)(A)(i) for an application filed under subsection (b) is in effect, the applicant shall establish and maintain such records, and make such reports to the Secretary, as the Secretary may by regulation, or by order with respect to such application, prescribe on the basis of a finding that such records and reports are necessary in order to enable the Secretary to determine, or facilitate a determination of, whether there is or may be grounds for withdrawing or temporarily suspending such order.
 
 #### (2) Access to records
 

@@ -16,5 +16,5 @@ The Chief Contracting Officer of the Federal Bureau of Investigation shall ensur
 
 #### Prior Provisions
 
-A prior section 302 of act July 26, 1947, ch. 343, title III, 61 Stat. 507; Aug. 10, 1949, ch. 412, §10(b), 63 Stat. 585; Aug. 10, 1956, ch. 1041, §21, 70A Stat. 629, was classified to section 171c–2 of former Title 5, Executive Departments and Government Officers and Employees, prior to repeal by Pub. L. 87–651, title III, §307A, Sept. 7, 1962, 76 Stat. 526.
+A prior section 302 of act July 26, 1947, ch. 343, title III, 61 Stat. 507; Aug. 10, 1949, ch. 412, §10(b), 63 Stat. 585; Aug. 10, 1956, ch. 1041, §21, 70A Stat. 629, was classifiedto section 171c–2 of former Title 5, Executive Departments and Government Officers and Employees, prior to repeal by Pub. L. 87–651, title III, §307A, Sept. 7, 1962, 76 Stat. 526.
 

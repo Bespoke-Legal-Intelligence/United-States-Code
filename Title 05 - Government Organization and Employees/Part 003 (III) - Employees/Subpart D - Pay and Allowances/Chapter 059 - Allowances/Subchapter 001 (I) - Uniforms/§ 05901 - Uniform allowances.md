@@ -8,7 +8,7 @@
 
 > The allowance may be paid only at the times and in the amounts authorized by the regulations prescribed under section 5903 of this title. When the agency pays direct to the uniform vendor, the head of the agency may deduct a service charge of not more than 4 percent.
 
-(b) When the furnishing of a uniform or the payment of a uniform allowance is authorized under another statute or regulation existing on September 1, 1954, the head of the agency concerned may continue the furnishing of the uniform or the payment of the uniform allowance under that statute or regulation, but in that event a uniform may not be furnished or allowance paid under this section.
+(b) When the furnishing of a uniform or the payment of a uniform allowance is authorizedunder another statute or regulation existing on September 1, 1954, the head of the agency concerned may continue the furnishing of the uniform or the payment of the uniform allowance under that statute or regulation, but in that event a uniform may not be furnished or allowance paid under this section.
 
 (c) An allowance paid under this section is not wages within the meaning of section 409 of title 42 or chapters 21 and 24 of title 26.
 
@@ -76,9 +76,9 @@ The amendment to the third sentence of subsection (a) of 5 U.S.C. 5901, and the 
 
 #### Amendments
 
-1992—Subsec. (a)(1), (2). Pub. L. 102–378 substituted “5902)” for “5902).”
+<b>1992</b>—Subsec. (a)(1), (2). Pub. L. 102–378 substituted “5902)” for “5902).”
 
-1990—Subsec. (a). Pub. L. 101–509, §529 \[title II, §202(a)(1)\], substituted “such sums as may be necessary to carry out this subchapter.” for “an amount not to exceed $125 multiplied by the number of employees of the agency who are required by regulation or statute to wear a prescribed uniform in the performance of official duties and who are not being furnished with the uniform.”
+<b>1990</b>—Subsec. (a). Pub. L. 101–509, §529 \[title II, §202(a)(1)\], substituted “such sums as may be necessary to carry out this subchapter.” for “an amount not to exceed $125 multiplied by the number of employees of the agency who are required by regulation or statute to wear a prescribed uniform in the performance of official duties and who are not being furnished with the uniform.”
 
 Subsec. (a)(1), (2). Pub. L. 101–509, §529 \[title II, §202(a)(2)\], substituted “$400 a year (or such higher maximum amount as the Office of Personnel Management may establish under section 5902).” for “$125 a year”.
 

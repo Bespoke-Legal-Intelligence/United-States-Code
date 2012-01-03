@@ -28,7 +28,7 @@ Section 6020 of the Internal Revenue Code of 1986, referred to in subsec. (c), i
 
 #### Amendments
 
-2010—Subsec. (b)(2). Pub. L. 111–327, §2(a)(42)(C), substituted “paragraph (1)” for “this subsection” wherever appearing in introductory provisions.
+<b>2010</b>—Subsec. (b)(2). Pub. L. 111–327, §2(a)(42)(C), substituted “paragraph (1)” for “this subsection” wherever appearing in introductory provisions.
 
 Subsec. (b)(2)(A). Pub. L. 111–327, §2(a)(42)(A), substituted “paragraph (1)(A)” for “paragraph (1)”.
 

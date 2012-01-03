@@ -58,9 +58,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1998—Subsec. (a)(2). Pub. L. 105–241 inserted “(not including the United States Postal Service)” after “Government of the United States”.
+<b>1998</b>—Subsec. (a)(2). Pub. L. 105–241 inserted “(not including the United States Postal Service)” after “Government of the United States”.
 
-1970—Subsec. (c)(1). Pub. L. 91–596 included representatives of labor organizations representing employees.
+<b>1970</b>—Subsec. (c)(1). Pub. L. 91–596 included representatives of labor organizations representing employees.
 
 #### Executive Order No. 10990
 
@@ -94,7 +94,7 @@ Heads of Agencies
 
 1–201. The head of each agency shall:
 
-(a) Furnish to employees places and conditions of employment that are free from recognized hazards that are causing or are likely to cause death or serious physical harm.
+(a) Furnish to employees places and conditions of employment that are free from recognized hazards thatare causing or are likely to cause death or serious physical harm.
 
 (b) Operate an occupational safety and health program in accordance with the requirements of this order and basic program elements promulgated by the Secretary.
 
@@ -158,7 +158,7 @@ Department of Labor
 
 (i) Conduct unannounced inspections of agency workplaces when the Secretary determines necessary if an agency does not have occupational safety and health committees; or in response to reports of unsafe or unhealthful working conditions, upon request of occupational safety and health committees under Section 1–3; or, in the case of a report of an imminent danger, when such a committee has not responded to an employee who has alleged to it that the agency has not adequately responded to a report as required in 1–201(h). When the Secretary or his designee performs an inspection and discovers unsafe or unhealthy conditions, a violation of any provisions of this order, or any safety or health standards adopted by an agency pursuant to this order, or any program element approved by the Secretary, he shall promptly issue a report to the head of the agency and to the appropriate occupational safety and health committee, if any. The report shall describe the nature of the findings and may make recommendations for correcting the violation.
 
-(j) Submit to the President each year a summary report of the status of the occupational safety and health of Federal employees, and, together with agency responses, evaluations of individual agency progress and problems in correcting unsafe and unhealthful working conditions, and recommendations for improving their performance.
+(j) Submit to the President each year a summary report of the status of the occupational safety and health of Federal employees, and, together with agency responses, evaluations of individual agency progress andproblems in correcting unsafe and unhealthful working conditions, and recommendations for improving their performance.
 
 (k) Submit to the President unresolved disagreements between the Secretary and agency heads, with recommendations.
 
@@ -194,7 +194,7 @@ General Provisions
 
 1–701. Employees shall be authorized official time to participate in the activities provided for by this order.
 
-1–702. Nothing in this order shall be construed to impair or alter the powers and duties of the Secretary or heads of other Federal agencies pursuant to Section 19 of the Occupational Safety and Health Act of 1970 \[29U.S.C. 668\]. Chapter 71 of Title 5 of the United States Code, Sections 7901, 7902, and 7903 of Title 5 of the United States Code, nor shall it be construed to alter any other provisions of law or Executive Order providing for collective bargaining agreements and related procedures, or affect the responsibilities of the Director of Central Intelligence to protect intelligence sources and methods (\[former\] 50 U.S.C. 403(d)(3)).
+1–702. Nothing in this order shall be construed to impair or alter the powers and duties of the Secretary or heads of other Federal agencies pursuant to Section 19 of the Occupational Safety and Health Act of 1970 \[29 U.S.C. 668\]. Chapter 71 of Title 5 of the United States Code, Sections 7901, 7902, and 7903 of Title 5 of the United States Code, nor shall it be construed to alter any other provisions of law or Executive Order providing for collective bargaining agreements and related procedures, or affect the responsibilities of the Director of Central Intelligence to protect intelligence sources and methods (\[former\] 50 U.S.C. 403(d)(3)).
 
 1–703. Executive Order No. 11807 of September 28, 1974, is revoked.
 
@@ -228,7 +228,7 @@ Term of the Federal Advisory Council on Occupational Safety and Health extended 
 
 Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 1997, by Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
 
-Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 1999, by Ex. Ord. No. 13062, §1(b), Sept. 29, 1997, 62 F.R. 51755, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 1999, by Ex. Ord. No. 13062, §1(b), Sept. 29, 1997, 62 F.R. 51755,formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
 
 Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 2001, by Ex. Ord. No. 13138, Sept. 30, 1999, 64 F.R. 53879, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
 
@@ -240,7 +240,9 @@ Term of the Federal Advisory Council on Occupational Safety and Health extended 
 
 Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 2009, by Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
 
-Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 2011, by Ex. Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 2011, by Ex. Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+
+Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 2013, by Ex. Ord. No. 13585, Sept. 30, 2011, 76 F.R. 62281, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
 
 #### The Presidential POWER Initiative: Protecting Our Workers and Ensuring Reemployment
 
@@ -268,7 +270,7 @@ Under the POWER Initiative, each executive department and agency will be expecte
 
 (vii) speeding employees’ return to work in cases of serious injury or illness.
 
-Executive departments and agencies (except the U.S. Postal Service) shall coordinate with the Department of Labor's Occupational Safety and Health Administration and Office of Workers’ Compensation Programs to establish performance targets in each category. TheSecretary of Labor shall lead the POWER Initiative by measuring both Government-wide and agency-level performance and reporting to me annually.
+Executive departments and agencies (except the U.S. Postal Service) shall coordinate with the Department of Labor's Occupational Safety and Health Administration and Office of Workers’ Compensation Programs to establish performance targets in each category. The Secretary of Labor shall lead the POWER Initiative by measuring both Government-wide and agency-level performance and reporting to me annually.
 
 Each executive department and agency shall bear its own costs for participating in the POWER Initiative, and nothing in this memorandum shall be construed to impair or otherwise affect the authority granted by law to an executive department or agency, or the head thereof.
 

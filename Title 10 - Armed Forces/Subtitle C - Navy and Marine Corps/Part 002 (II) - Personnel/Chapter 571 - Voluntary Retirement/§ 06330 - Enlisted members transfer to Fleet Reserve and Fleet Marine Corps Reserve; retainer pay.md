@@ -66,7 +66,7 @@ In subsection (b) reference to the date July 1, 1925, is omitted, since members 
 
 In subsections (b) and (c) the term “active service in the armed forces” is substituted for the term “active Federal service” to execute the definition in the last sentence of 34 U.S.C. 854c.
 
-In subsection (c) the words “is entitled, when not on active duty, to retainer pay at the rate of 21/2 percentof the basic pay that he received at the time of transfer” are substituted for the words “except when on active duty, shall be paid at the annual rate of 21/2 per centum of the annual base and longevity pay they are receiving at the time of transfer” to conform to the terminology of the Career Compensation Act of 1949 (37 U.S.C. 231 et seq.).
+In subsection (c) the words “is entitled, when not on active duty, to retainer pay at the rate of 2½ percent of the basic pay that he received at the time of transfer” are substituted for the words “except when on active duty, shall be paid at the annual rate of 2½ per centum of the annual base and longevity pay they are receiving at the time of transfer” to conform to the terminology of the Career Compensation Act of 1949 (37 U.S.C. 231 et seq.).
 
 Subsection (d) states the rule as to the method of counting minority and short-term enlistments, in connection with determining active service, in accordance with <i>White v. United States</i>, 97 F. Supp. 698.
 
@@ -80,7 +80,7 @@ Subsection (d) states the rule as to the method of counting minority and short-t
 
 &emsp;“(2) this section.”
 
-<b>1986</b>—Subsec. (c)(1). Pub. L. 99–348, §203(b)(6)(A), substituted provision that retainer pay be computed under section 6333 for provision that retainer pay, in the case of a member who first became a member of a uniformed service, as defined in section 1407(a)(2), before Sept. 8, 1980, be at the rate of 21/2 percent of the basic pay that he received at the time of transfer or, in the case of a member who served as master chief petty officer of the Navy or sergeant major of the Marine Corps, of the highest basic pay to which he was entitled while so serving, if that basic pay is higher than the basic pay received at the time of transfer, or in the case of a member who first became a member of a uniformed service, as defined in section 1407(a)(2), on or after Sept. 8, 1980, be at the rate of 21/2 percent of the monthly retainer pay base computed under section 1407(d), which rates were to be multiplied by the number of years of active service in the armed forces.
+<b>1986</b>—Subsec. (c)(1). Pub. L. 99–348, §203(b)(6)(A), substituted provision that retainer pay be computed under section 6333 for provision that retainer pay, in the case of a member who first became a member of a uniformed service, as defined in section 1407(a)(2), before Sept. 8, 1980, be at the rate of 2½ percent of the basic pay that he received at the time of transfer or, in the case of a member who served as master chief petty officer of the Navy or sergeant major of the Marine Corps, of the highest basic pay to which he was entitled while so serving, if that basic pay is higher than the basic pay received at the time of transfer, or in the case of a member who first became a member of a uniformed service, as defined in section 1407(a)(2), on or after Sept. 8, 1980, be at the rate of 2½ percent of the monthly retainer pay base computed under section 1407(d), which rates were to be multiplied by the number of years of active service in the armed forces.
 
 Subsec. (c)(4). Pub. L. 99–348, §203(b)(6)(B), struck out par. (4) which provided that in no case could a member's retainer pay be more than 75 percent of the basic pay or monthly retainer pay base upon which computation of retainer pay was based.
 
@@ -130,11 +130,11 @@ Act July 24, 1956, ch. 683, 70 Stat. 626, provided: “Upon application by any f
 
 “
 
-Sec. 2. Each person appointed to the Fleet Reserve or Fleet Marine Corps Reserve under the first section of this Act shall be transferred to the appropriate retired list (1) on the first day of the first calendar month beginning after such appointment, if his last discharge occurred ten or more years prior to the date of such appointment, and (2) in the case of individuals appointed under such section before the expiration of ten years from their last discharge, on the first day of the firstcalendar month, beginning after the expiration of ten years from the date of such discharge.
+Sec. 2. Each person appointed to the Fleet Reserve or Fleet Marine Corps Reserve under the first section of this Act shall be transferred to the appropriate retired list (1) on the first day of the first calendar month beginning after such appointment, if his last discharge occurred ten or more years prior to the date of such appointment, and (2) in the case of individuals appointed under such section before the expiration of ten years from their last discharge, on the first day of the first calendar month, beginning after the expiration of ten years from the date of such discharge.
 
 “
 
-Sec. 3. Each former member transferred to a retired list under clauses (1) and (2) of section 2 shall receive retired pay at the annual rate of 21/2 per centum of the annual base and longevity pay he was receiving at the time of his last discharge, multiplied by the number of his years of active Federal service at such time (not to exceed thirty), and adjusted to reflect the percentage increases made since such discharge in the retired pay of persons retired from the Armed Forces prior to October 12, 1949.
+Sec. 3. Each former member transferred to a retired list under clauses (1) and (2) of section 2 shall receive retired pay at the annual rate of 2½ per centum of the annual base and longevity pay he was receiving at the time of his last discharge, multiplied by the number of his years of active Federal service at such time (not to exceed thirty), and adjusted to reflect the percentage increases made since such discharge in the retired pay of persons retired from the Armed Forces prior to October 12, 1949.
 
 “
 

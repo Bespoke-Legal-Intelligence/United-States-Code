@@ -14,7 +14,7 @@ In any Y2K action in which the plaintiff alleges that there is a material defect
 
 #### (d) Required state of mind
 
-In any Y2K action in which a claim is asserted on which the plaintiff may prevail only on proof that the defendant acted with a particular state of mind, there shall be filed with the complaint, with respect to each element of that claim, a statement of the facts giving rise to a strong inference that the defendant acted with the required state of mind.
+In any Y2K action in which a claim is asserted on which the plaintiff may prevail only on proof that the defendant acted with a particular state of mind, there shall be filed with the complaint,with respect to each element of that claim, a statement of the facts giving rise to a strong inference that the defendant acted with the required state of mind.
 
 (Pub. L. 106–37, §8, July 20, 1999, 113 Stat. 198.)
 

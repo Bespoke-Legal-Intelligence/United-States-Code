@@ -2,7 +2,7 @@
 
 #### (a) Appointment; compensation; term of office
 
-The Director of the Foundation (referred to in this chapter as the “Director”) shall be appointed by the President, by and with the advice and consent of the Senate. Before any person is appointed as Director, the President shall afford the Board an opportunity to make recommendations to him with respect to such appointment.The Director shall receive basic pay at the rate provided for level II of the Executive Schedule under section 5313 of title 5, and shall serve for a term of six years unless sooner removed by the President.
+The Director of the Foundation (referred to in this chapter as the “Director”) shall be appointed by the President, by and with the advice and consent of the Senate. Before any person is appointed as Director, the President shall afford the Board an opportunity to make recommendations to him with respect to such appointment. The Director shall receive basic pay at the rate provided for level II of the Executive Schedule under section 5313 of title 5, and shall serve for a term of six years unless sooner removed by the President.
 
 #### (b) Exercise of authority of Foundation; actions as final and binding upon the Foundation
 
@@ -26,7 +26,7 @@ The formulation of programs in conformance with the policies of the Foundation s
 
 The Director, in his capacity as ex officio member of the Board, shall, except with respect to compensation and tenure, be coordinate with the other members of the Board. He shall be a voting member of the Board and shall be eligible for election by the Board as Chairman or Vice Chairman of the Board.
 
-(May 10, 1950, ch. 171, §5, 64 Stat. 151; Pub. L. 86–232, §3, Sept. 8, 1959, 73 Stat. 467; Pub. L. 90–407, §3, July 18, 1968, 82 Stat. 362; Pub. L. 99–159, title I, §109(b), Nov. 22, 1985, 99 Stat. 889; Pub. L. 103–437, §15(c)(1), Nov. 2, 1994, 108 Stat. 4591; Pub. L. 105–207, title II, §202(a)(2), July 29, 1998, 112 Stat. 873.)
+(May 10, 1950, ch. 171, §5, 64 Stat. 151; Pub. L. 86–232, §3, Sept. 8, 1959, 73 Stat. 467; Pub. L.90–407, §3, July 18, 1968, 82 Stat. 362; Pub. L. 99–159, title I, §109(b), Nov. 22, 1985, 99 Stat. 889; Pub. L. 103–437, §15(c)(1), Nov. 2, 1994, 108 Stat. 4591; Pub. L. 105–207, title II, §202(a)(2), July 29, 1998, 112 Stat. 873.)
 
 #### Amendments
 
@@ -48,7 +48,7 @@ Subsecs. (c) to (f). Pub. L. 90–407 added subsecs. (c) to (f).
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
-Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Effective Date of 1968 Amendment
 
@@ -76,7 +76,7 @@ Pub. L. 95–434, §8, Oct. 10, 1978, 92 Stat. 1050, provided that:
 
 “(b)(1) If the Foundation determines that such a feasibility study is necessary, the Foundation is authorized to conduct such a study directly or by grants or contracts with public agencies, private organizations, or academic institutions.
 
-“(2) At the conclusion of any such study the Foundation shall prepare and submit to the President and to the Congress a report of the study, together with such recommendations as the Foundation deems appropriate.
+“(2) At the conclusion of any such study the Foundation shall prepare and submit to the President and tothe Congress a report of the study, together with such recommendations as the Foundation deems appropriate.
 
 “(3) Of the funds authorized in section 2, $500,000 shall be available to carry out the provisions of this subsection.”
 

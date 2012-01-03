@@ -26,7 +26,7 @@
 
 #### (d) Reduction of payments; availability of reduced amounts; reduced amount as deemed paid to agency for purpose of determining amount of grant
 
-The Administrator, with the concurrence of any recipient of a grant under this section, may reduce the payments to such recipient by theamount of the pay, allowances, traveling expenses, and any other costs in connection with the detail of any officer or employee to the recipient under section 7601 of this title, when such detail is for the convenience of, and at the request of, such recipient and for the purpose of carrying out the provisions of this chapter. The amount by which such payments have been reduced shall be available for payment of such costs by the Administrator, but shall, for the purpose of determining the amount of any grant to a recipient under subsection (a) of this section, be deemed to have been paid to such agency.
+The Administrator, with the concurrence of any recipient of a grant under this section, may reduce the payments to such recipient by the amount of the pay, allowances, traveling expenses, and any other costs in connection with the detail of any officer or employee to the recipient under section 7601 of this title, when such detail is for the convenience of, and at the request of, such recipient and for the purpose of carrying out the provisions of this chapter. The amount by which such payments have been reduced shall be available for payment of such costs by the Administrator, but shall, for the purpose of determining the amount of any grantto a recipient under subsection (a) of this section, be deemed to have been paid to such agency.
 
 #### (e) Notice and opportunity for hearing when affected by adverse action
 
@@ -72,7 +72,7 @@ Subsecs. (a)(2), (3), (b), (c). Pub. L. 91–604, §15(c)(2), substituted “Adm
 
 Subsec. (d). Pub. L. 91–604, §3(b)(1), added subsec. (d).
 
-<b>1967</b>—Subsec. (a). Pub. L. 90–148 designated existing provisions as par. (1), substituted “regional air quality control program” for “regional air pollution controlprogram,” added planning to list of authorized activities, and added programs for implementation of air quality standards authorized by this chapter to list of authorized programs, and added pars. (2) and (3).
+<b>1967</b>—Subsec. (a). Pub. L. 90–148 designated existing provisions as par. (1), substituted “regional air quality control program” for “regional air pollution control program,” added planning to list of authorized activities, and added programs for implementation of air quality standards authorized by this chapter to list of authorized programs, and added pars. (2) and (3).
 
 Subsec. (b). Pub. L. 90–148 made minor changes in the order of provisions.
 

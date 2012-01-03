@@ -76,7 +76,7 @@
 
 &emsp;&emsp;(C) assess the information collection burden of proposed legislation affecting the agency;
 
-&emsp;(2)(A) except as provided under subparagraph (B) or section 3507(j), provide 60-day notice in the Federal Register, and otherwise consult with members of the public and affected agencies concerning each proposed collection of information, to solicit comment to—
+&emsp;(2)(A) except as provided under subparagraph (B) or section 3507(j), provide 60-day notice inthe Federal Register, and otherwise consult with members of the public and affected agencies concerning each proposed collection of information, to solicit comment to—
 
 &emsp;&emsp;(i) evaluate whether the proposed collection of information is necessary for the proper performance of the functions of the agency, including whether the information shall have practical utility;
 
@@ -124,7 +124,7 @@
 
 &emsp;&emsp;(A) encouraging a diversity of public and private sources for information based on government public information;
 
-&emsp;&emsp;(B) in cases in which the agency provides public information maintained in electronicformat, providing timely and equitable access to the underlying data (in whole or in part); and
+&emsp;&emsp;(B) in cases in which the agency provides public information maintained in electronic format, providing timely and equitable access to the underlying data (in whole or in part); and
 
 &emsp;&emsp;(C) agency dissemination of public information in an efficient, effective, and economical manner;
 
@@ -228,7 +228,7 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–398 effective 30 days after Oct. 30, 2000, see section 1 \[\[div. A\], title X, §1065\] of Pub. L. 106–398, set out as an Effective Date note under section 3531 of this title.
+Amendment by Pub. L. 106–398 effective 30 days after Oct. 30, 2000, see section 1 \[\[div. A\], title X, §1065\] ofPub. L. 106–398, set out as an Effective Date note under section 3531 of this title.
 
 #### Effective Date of 1996 Amendment
 

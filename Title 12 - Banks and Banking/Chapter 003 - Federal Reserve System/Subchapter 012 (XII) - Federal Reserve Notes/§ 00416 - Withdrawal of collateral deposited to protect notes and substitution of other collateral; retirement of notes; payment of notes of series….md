@@ -14,9 +14,9 @@ Section is comprised of the sixth par. (formerly the seventh par.) of section 16
 
 #### Amendments
 
-1968—Pub. L. 90–269 repealed fourth sentence which provided that Federal Reserve banks shall not be required to maintain the reserve or the redemption fund against Federal Reserve notes which have been retired, or as to which payment has been made to the Secretary of the Treasury under section 4 of the Old Series Currency Adjustment Act, on notes of series prior to 1928.
+<b>1968</b>—Pub. L. 90–269 repealed fourth sentence which provided that Federal Reserve banks shall not be required to maintain the reserve or the redemption fund against Federal Reserve notes which have been retired, or as to which payment has been made to the Secretary of the Treasury under section 4 of the Old Series Currency Adjustment Act, on notes of series prior to 1928.
 
-1961—Pub. L. 87–66 provided for recovery of collateral upon payment of notes of series prior to 1928 and removed requirement of reserve or redemption fund for such notes.
+<b>1961</b>—Pub. L. 87–66 provided for recovery of collateral upon payment of notes of series prior to 1928 and removed requirement of reserve or redemption fund for such notes.
 
 #### Change of Name
 

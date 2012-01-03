@@ -2,7 +2,7 @@
 
 #### (a) Authorization; purpose
 
-The Secretary is authorized and directed to conduct a comprehensive exploratory program designed to obtain sufficient data and information to evaluate the extent, location, and potential for developing the known recoverable coal resources within the coal lands subject to this chapter. This program shall be designed to obtain the resource information necessary for determining whether commercial quantities of coal are present and the geographical extent of the coal fields and for estimating the amount of such coal which is recoverable by deep mining operations and the amount of such coal which is recoverable by surface mining operations in order to provide a basis for—
+The Secretary is authorized and directed to conduct a comprehensive exploratory program designed to obtain sufficient data and information to evaluate the extent, location, and potential for developing the known recoverable coal resources within the coal lands subject to this chapter. This program shall be designed to obtain the resource information necessary for determining whether commercial quantities ofcoal are present and the geographical extent of the coal fields and for estimating the amount of such coal which is recoverable by deep mining operations and the amount of such coal which is recoverable by surface mining operations in order to provide a basis for—
 
 &emsp;(1) developing a comprehensive land use plan pursuant to section 2;
 
@@ -46,7 +46,7 @@ The stratigraphic drilling authorized in subsection (b) of this section shall be
 
 #### References in Text
 
-Section 2, referred to in subsec. (a)(1), means section 2 of act Feb. 25, 1920, as amended, and is comprised of subsecs. (a) to (d). Subsecs. (a) and (b) of section 2 are classified to section 201 of this title, subsec. (c) of section 2 is classified to section 202 of this title, and subsec. (d) of section 2, as added by section 5(b) of Pub. L. 94–377, is classified to section 202a of this title.
+Section 2, referred to in subsec. (a)(1), means section 2 of act Feb. 25, 1920, as amended, and is comprised ofsubsecs. (a) to (d). Subsecs. (a) and (b) of section 2 are classified to section 201 of this title, subsec. (c) of section 2 is classified to section 202 of this title, and subsec. (d) of section 2, as added by section 5(b) of Pub. L. 94–377, is classified to section 202a of this title.
 
 The date of enactment of this Act, referred to in subsecs. (f) and (g), probably means the date of enactment of Pub. L. 94–377, which was approved Aug. 4, 1976.
 

@@ -96,7 +96,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1985—Subsec. (h). Pub. L. 99–145 added subsec. (h).
+<b>1985</b>—Subsec. (h). Pub. L. 99–145 added subsec. (h).
 
 #### Effective Date of 1985 Amendment
 

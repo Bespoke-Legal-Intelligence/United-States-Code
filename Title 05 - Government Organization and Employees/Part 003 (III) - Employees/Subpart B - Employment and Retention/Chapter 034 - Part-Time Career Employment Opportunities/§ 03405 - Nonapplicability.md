@@ -1,6 +1,6 @@
 ### §3405. Nonapplicability
 
-(a) If, on the date of enactment of this chapter, there is in effect with respect to positionswithin an agency a collective-bargaining agreement which establishes the number of hours of employment a week, then this chapter shall not apply to those positions.
+(a) If, on the date of enactment of this chapter, there is in effect with respect to positions within an agency a collective-bargaining agreement which establishes the number of hours of employment a week, then this chapter shall not apply to those positions.
 
 (b) This chapter shall not require part-time career employment in positions the rate of basic pay for which is fixed at a rate equal to or greater than the minimum rate payable under section 5376.
 
@@ -12,9 +12,9 @@ The date of enactment of this chapter, referred to in subsec. (a), is the date o
 
 #### Amendments
 
-1990—Subsec. (b). Pub. L. 101–509 substituted “payable under section 5376” for “fixed for GS–16 of the General Schedule”.
+<b>1990</b>—Subsec. (b). Pub. L. 101–509 substituted “payable under section 5376” for “fixed for GS–16 of the General Schedule”.
 
-1978—Pub. L. 95–454, §906(c)(1)(B), renumbered section 3395 of this title as this section.
+<b>1978</b>—Pub. L. 95–454, §906(c)(1)(B), renumbered section 3395 of this title as this section.
 
 Subsecs. (a), (b). Pub. L. 95–454, §906(c)(2)(C), substituted “chapter” for “subchapter” wherever appearing.
 

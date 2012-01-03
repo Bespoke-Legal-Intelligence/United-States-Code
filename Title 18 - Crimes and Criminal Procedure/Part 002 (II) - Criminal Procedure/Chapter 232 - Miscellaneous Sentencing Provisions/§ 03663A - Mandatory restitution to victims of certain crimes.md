@@ -52,7 +52,7 @@
 
 &emsp;(A) the number of identifiable victims is so large as to make restitution impracticable; or
 
-&emsp;(B) determining complex issues of fact related to the cause or amount of the victim's losses would complicate or prolong the sentencing process to a degree that the need toprovide restitution to any victim is outweighed by the burden on the sentencing process.
+&emsp;(B) determining complex issues of fact related to the cause or amount of the victim's losses would complicate or prolong the sentencing process to a degree that the need to provide restitution to any victim is outweighed by the burden on the sentencing process.
 
 (d) An order of restitution under this section shall be issued and enforced in accordance with section 3664.
 

@@ -10,7 +10,7 @@ Authority.—Subject to subsection (b), the Secretary of Defense and the Secreta
 
 (b)
 
-Conditions.—The services of experts or consultants (or organizations thereof) may beprocured under subsection (a) only if the Secretary of Defense or the Secretary of the military department concerned, as the case may be, determines that—
+Conditions.—The services of experts or consultants (or organizations thereof) may be procured under subsection (a) only if the Secretary of Defense or the Secretary of the military department concerned, as the case may be, determines that—
 
 &emsp;(1) the procurement of such services is advantageous to the United States; and
 

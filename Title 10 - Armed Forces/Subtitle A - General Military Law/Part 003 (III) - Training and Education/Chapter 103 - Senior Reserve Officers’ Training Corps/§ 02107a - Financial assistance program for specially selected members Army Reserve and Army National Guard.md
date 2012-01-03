@@ -30,9 +30,9 @@
 
 &emsp;(iii) A cadet or former cadet under this section who signs an agreement under section 2122 of this title for participation in the Armed Forces Health Professions Scholarship and Financial Assistance program.
 
-(C) The modification of an agreement described in paragraph (1)(F) may be made only ifthe Secretary determines that it is in the best interests of the United States to do so.
+(C) The modification of an agreement described in paragraph (1)(F) may be made only if the Secretary determines that it is in the best interests of the United States to do so.
 
-(c)(1) The Secretary of the Army shall provide for the payment of all expenses of the Department of the Army in administering the financial assistance program under this section, including the cost of tuition, fees, books, and laboratory expenses which are incurred by members of the program appointed as cadets under this section while such members are students at a military junior college.
+(c)(1) The Secretary of the Army shall provide for the payment of all expenses of the Department of the Army in administering the financial assistance program under this section, includingthe cost of tuition, fees, books, and laboratory expenses which are incurred by members of the program appointed as cadets under this section while such members are students at a military junior college.
 
 (2) In the case of a cadet eligible to receive financial assistance under paragraph (1), the Secretary of the military department concerned may, in lieu of all or part of the financial assistance described in paragraph (1), provide financial assistance in the form of room and board expenses for such cadet and other expenses required by the educational institution.
 
@@ -80,7 +80,7 @@ Subsec. (h). Pub. L. 110–181, §523, substituted “each year under this secti
 
 Subsec. (b)(3). Pub. L. 109–364 inserted “or a cadet or former cadet under this section who signs an agreement under section 2122 of this title,” after “military junior college,” and “, or former cadet,” after “consent of the cadet” and after “submitted by the cadet”.
 
-Subsec. (c)(3). Pub. L. 109–163, §531(b), struck out par. (3) which read as follows: “The total amount of financial assistance, including the payment of room and board and any other educational expenses, provided to a cadet in an academic year under this subsection may not exceed an amount equal to the amount that could be provided as financial assistance for such cadet under paragraph (1), or another amount determined by the Secretary of the Army, without regard to whether the room and board and other educational expenses for such cadet are paid under paragraph (2).”
+Subsec. (c)(3). Pub. L. 109–163, §531(b), struck out par. (3) which read as follows: “The total amount of financial assistance, including the payment of room and board and any other educational expenses, provided to a cadet in an academic year under this subsection may not exceed an amount equal to the amount that couldbe provided as financial assistance for such cadet under paragraph (1), or another amount determined by the Secretary of the Army, without regard to whether the room and board and other educational expenses for such cadet are paid under paragraph (2).”
 
 Subsec. (h). Pub. L. 109–163, §532, substituted “416” for “208”.
 

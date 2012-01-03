@@ -64,7 +64,7 @@ In determining pursuant to subsection (a) of this section the amount or scope of
 
 (2) The findings of the Commissioner of Social Security with respect to questions of fact, if supported by substantial evidence on the record considered as a whole, shall be conclusive in the review described in paragraph (1). If any party shall apply to the court for leave to adduce additional evidence and shall show to the satisfaction of the court that such additional evidence is material and that there were reasonable grounds for the failure to adduce such evidence in the hearing before the Commissioner of Social Security, the court may order such additional evidence to be taken before the Commissioner of Social Security and to be made a part of the record. The Commissioner of Social Security may modify such findings as to the facts, or make new findings, by reason of additional evidence so taken and filed, and the Commissioner of Social Security shall file with the court such modified or new findings, which findings with respect to questions of fact, if supported by substantial evidence on the record considered as a whole shall be conclusive, and the Commissioner's recommendations, if any, for the modification or setting aside of the Commissioner's original order.
 
-(3) Upon the filing of the record and the Commissioner's original or modified order with the court, the jurisdiction of the court shall be exclusive and its judgment and decree shall be final, except that the same shall be subject to review by the Supreme Court of the United States, as provided in section 1254 of title 28.
+(3) Upon the filing of the record and the Commissioner's original or modified order with thecourt, the jurisdiction of the court shall be exclusive and its judgment and decree shall be final, except that the same shall be subject to review by the Supreme Court of the United States, as provided in section 1254 of title 28.
 
 #### (e) Compromise of money penalties and assessments; recovery; use of funds recovered
 
@@ -186,7 +186,7 @@ Subsec. (k). Pub. L. 103–296, §108(b)(10)(A)(iv), inserted “based on a reco
 
 Subsec. (<i>l</i>). Pub. L. 103–296, §206(e)(1), added subsec. (<i>l</i>).
 
-Pub. L. 103–296, §108(b)(10)(A)(i), (v), in subsec. (<i>l</i>) as added by Pub. L. 103–296, §206(e)(1), substituted “Social Security Administration” for “Department of Health and Human Services” and “Commissioner of Social Security” for “Secretary”.
+Pub. L. 103–296, §108(b)(10)(A)(i), (v), in subsec. (<i>l</i>) as added by Pub. L. 103–296, §206(e)(1), substituted “SocialSecurity Administration” for “Department of Health and Human Services” and “Commissioner of Social Security” for “Secretary”.
 
 #### Effective Date of 2004 Amendment
 

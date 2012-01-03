@@ -6,7 +6,7 @@ The Secretary may make such investigations as the Secretary deems necessary for 
 
 #### Amendments
 
-1985—Pub. L. 99–198 amended section generally, substituting provisions relating to investigations, power to subpoena and take oaths and affirmations, and aid of courts, for provisions relating to termination or suspension of orders.
+<b>1985</b>—Pub. L. 99–198 amended section generally, substituting provisions relating to investigations, power to subpoena and take oaths and affirmations, and aid of courts, for provisions relating to termination or suspension of orders.
 
 #### Effective Date of 1985 Amendment
 

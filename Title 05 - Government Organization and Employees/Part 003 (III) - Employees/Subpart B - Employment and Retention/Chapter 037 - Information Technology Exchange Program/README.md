@@ -12,8 +12,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<i><sup>1</sup></i><i> Another section 3598 is set out preceding this section.</i>
-
 
 ---
 

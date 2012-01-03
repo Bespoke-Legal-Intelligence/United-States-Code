@@ -4,7 +4,7 @@
 
 All orders, determinations, rules, regulations, permits, agreements, grants, contracts, certificates, licenses, registrations, privileges, and other administrative actions—
 
-&emsp;(1) that have been issued, made, granted, or allowed to become effective by the President,any Federal agency or official thereof, or by a court of competent jurisdiction, in the performance of functions that are transferred under any subchapter of this chapter; and
+&emsp;(1) that have been issued, made, granted, or allowed to become effective by the President, any Federal agency or official thereof, or by a court of competent jurisdiction, in the performance of functions that are transferred under any subchapter of this chapter; and
 
 &emsp;(2) that are in effect as of the effective date of such subchapter, or were final before the effective date of such subchapter and are to become effective on or after the effective date of such subchapter,
 
@@ -18,7 +18,7 @@ All orders, determinations, rules, regulations, permits, agreements, grants, con
 
 #### (2) Orders, appeals, payments
 
-&emsp;Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this chapter had not been enacted. Orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or revoked by the Secretary, by a court of competent jurisdiction, or by operation of law.
+&emsp;Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this chapter had not been enacted. Ordersissued in any such proceedings shall continue in effect until modified, terminated, superseded, or revoked by the Secretary, by a court of competent jurisdiction, or by operation of law.
 
 #### (3) Statutory construction
 

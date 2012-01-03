@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) to propose adoption of any grouping of such standards, implementation specifications, or certification criteria, the Secretary shall, by regulation under section 553 of title 5, determine whether or not to adopt such grouping of standards, implementation specifications, or certification criteria; or
 
-&emsp;&emsp;(B) not to propose adoption of any grouping of standards, implementation specifications, or certification criteria, the Secretary shall notify the National Coordinator andthe HIT Standards Committee in writing of such determination and the reasons for not proposing the adoption of such recommendation.
+&emsp;&emsp;(B) not to propose adoption of any grouping of standards, implementation specifications, or certification criteria, the Secretary shall notify the National Coordinator and the HIT Standards Committee in writing of such determination and the reasons for not proposing the adoption of such recommendation.
 
 #### (3) Publication
 
@@ -26,7 +26,7 @@
 
 #### (2) Application of current standards, implementation specifications, and certification criteria
 
-&emsp;The standards, implementation specifications, and certification criteria adopted before February 17, 2009, through the process existing through the Office of the National Coordinator for Health Information Technology may be applied towards meeting the requirement of paragraph (1).
+&emsp;The standards, implementation specifications, and certification criteria adopted beforeFebruary 17, 2009, through the process existing through the Office of the National Coordinator for Health Information Technology may be applied towards meeting the requirement of paragraph (1).
 
 #### (3) Subsequent standards activity
 

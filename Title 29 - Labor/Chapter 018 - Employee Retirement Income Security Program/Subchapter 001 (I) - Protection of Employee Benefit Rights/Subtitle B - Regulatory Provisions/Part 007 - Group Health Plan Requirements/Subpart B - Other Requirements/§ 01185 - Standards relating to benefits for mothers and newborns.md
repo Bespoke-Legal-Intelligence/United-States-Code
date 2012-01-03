@@ -46,7 +46,7 @@ A group health plan, and a health insurance issuer offering group health insuran
 
 #### (d) Notice under group health plan
 
-The imposition of the requirements of this section shall be treated as a material modification in the terms of the plan described in section 1022(a)(1) <sup>1</sup> of this title, for purposes of assuringnotice of such requirements under the plan; except that the summary description required to be provided under the last sentence of section 1024(b)(1) of this title with respect to such modification shall be provided by not later than 60 days after the first day of the first plan year in which such requirements apply.
+The imposition of the requirements of this section shall be treated as a material modification in the terms of the plan described in section 1022(a)(1) <sup>1</sup> of this title, for purposes of assuring notice of such requirements under the plan; except that the summary description required to be provided under the last sentence of section 1024(b)(1) of this title with respect to such modification shall be provided by not later than 60 days after the first day of the first plan year in which such requirements apply.
 
 #### (e) Level and type of reimbursements
 
@@ -76,7 +76,7 @@ Section 1022(a)(1) of this title, referred to in subsec. (d), was redesignated s
 
 #### Effective Date
 
-Section applicable with respect to group health plans for plan years beginning on and after Jan. 1, 1998, see section 603(c) of Pub. L. 104–204, set out as an Effective Date of 1996 Amendment note under section 1003 of this title.
+Section applicable with respect to group health plans for plan years beginning on and after Jan. 1, 1998, seesection 603(c) of Pub. L. 104–204, set out as an Effective Date of 1996 Amendment note under section 1003 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -12,7 +12,7 @@ Agreements.—Subject to paragraphs (2) through (4), the Secretary may enter int
 
 &emsp;&emsp;(B) to refinance interim construction financing of eligible project costs of any project selected under section 602; or
 
-&emsp;&emsp;(C) to refinance long-term project obligations or Federal credit instruments if suchrefinancing provides additional funding capacity for the completion, enhancement, or expansion of any project that—
+&emsp;&emsp;(C) to refinance long-term project obligations or Federal credit instruments if such refinancing provides additional funding capacity for the completion, enhancement, or expansion of any project that—
 
 &emsp;&emsp;&emsp;(i) is selected under section 602; or
 
@@ -40,7 +40,7 @@ In general.—A secured loan under this section with respect to a project shall 
 
 &emsp;(2)
 
-Maximum amount.—The amount of the secured loan shall not exceed the lesser of 33 percent of the reasonably anticipated eligible project costs or, if the secured loan does not receive an investment grade rating, the amount of the senior project obligations.
+Maximum amount.—The amount of the secured loan shall not exceed the lesser of 33percent of the reasonably anticipated eligible project costs or, if the secured loan does not receive an investment grade rating, the amount of the senior project obligations.
 
 &emsp;(3)
 
@@ -162,7 +162,7 @@ Subsec. (a)(3). Pub. L. 109–59, §1602(b)(3), substituted “602(b)(2)(B)” f
 
 Subsec. (a)(4). Pub. L. 109–59, §1601(d)(2), substituted “The execution” for “The funding” and struck out before period at end “, except that—
 
-&emsp;“(A) the Secretary may fund an amount of the secured loan not to exceed the capital reserve subsidy amount determined under paragraph (3) prior to the obligations receiving an investment-grade rating; and
+&emsp;“(A) the Secretary may fund an amount of the secured loan not to exceed the capital reserve subsidyamount determined under paragraph (3) prior to the obligations receiving an investment-grade rating; and
 
 &emsp;“(B) the Secretary may fund the remaining portion of the secured loan only after the obligations have received an investment-grade rating by at least 1 rating agency”.
 

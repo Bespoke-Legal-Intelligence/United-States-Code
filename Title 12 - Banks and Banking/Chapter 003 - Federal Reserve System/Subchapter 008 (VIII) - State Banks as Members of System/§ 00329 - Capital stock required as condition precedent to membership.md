@@ -14,7 +14,7 @@ Section is comprised of the eleventh par. of section 9 of act Dec. 23, 1913, as 
 
 #### Amendments
 
-1952—Act July 15, 1952, vested in Board of Governors discretion with respect to admission of State banks to membership.
+<b>1952</b>—Act July 15, 1952, vested in Board of Governors discretion with respect to admission of State banks to membership.
 
-1933—Act June 16, 1933, dropped alternative method of meeting the capital requirement and inserted proviso.
+<b>1933</b>—Act June 16, 1933, dropped alternative method of meeting the capital requirement and inserted proviso.
 

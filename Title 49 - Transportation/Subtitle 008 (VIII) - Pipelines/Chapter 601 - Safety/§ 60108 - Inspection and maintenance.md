@@ -2,7 +2,7 @@
 
 (a)
 
-Plans.—(1) Each person owning or operating an intrastate gas pipeline facility or hazardous liquid pipeline facility shall carry out a current written plan (including any changes) for inspection and maintenance of each facility used in the transportation and owned or operated by the person. A copy of the plan shall be kept at any office of the person the Secretary of Transportation considers appropriate. The Secretary also may require a person owning or operating a pipeline facility subject to this chapter to file a plan for inspection and maintenance for approval.
+Plans.—(1) Each person owning or operating a gas pipeline facility or hazardous liquid pipeline facility shall carry out a current written plan (including any changes) for inspection and maintenance of each facility used in the transportation and owned or operated by the person. A copy of the plan shall be kept at any office of the person the Secretary of Transportation considers appropriate. The Secretary also may require a person owning or operating a pipeline facility subject to this chapter to file a plan for inspection and maintenance for approval.
 
 (2) If the Secretary or a State authority responsible for enforcing standards prescribed under this chapter decides that a plan required under paragraph (1) of this subsection is inadequate for safe operation, the Secretary or authority shall require the person to revise the plan. Revision may be required only after giving notice and an opportunity for a hearing. A plan required under paragraph (1) must be practicable and designed to meet the need for pipeline safety and must include terms designed to enhance the ability to discover safety-related conditions described in section 60102(h)(1) of this title. In deciding on the adequacy of a plan, the Secretary or authority shall consider—
 
@@ -38,7 +38,7 @@ Inspection and Testing.—(1) The Secretary shall inspect and require appropriat
 
 &emsp;(I) other factors the Secretary decides are relevant to the safety of pipeline facilities.
 
-(2) To the extent and in amounts provided in advance in an appropriation law, the Secretary shall decide on the frequency of inspection under paragraph (1) of this subsection. The Secretary may reduce the frequency of an inspection of a master meter system.
+(2) To the extent and in amounts provided in advance in an appropriation law, the Secretaryshall decide on the frequency of inspection under paragraph (1) of this subsection. The Secretary may reduce the frequency of an inspection of a master meter system.
 
 (3) Testing under this subsection shall use the most appropriate technology practicable.
 
@@ -86,6 +86,8 @@ Pipeline Facilities Offshore and in Other Waters.—(1) In this subsection—
 
 (7) The Secretary may not exempt from this chapter an offshore hazardous liquid pipeline facility only because the pipeline facility transfers hazardous liquid in an underwater pipeline between a vessel and an onshore facility.
 
+(8) If, after reviewing existing Federal and State regulations for hazardous liquid gathering lines located offshore in the United States, including within the inlets of the Gulf of Mexico, the Secretary determines it is appropriate, the Secretary shall issue regulations, after notice and an opportunity for a hearing, subjecting offshore hazardous liquid gathering lines and hazardous liquid gathering lines located within the inlets of the Gulf of Mexico to the same standards and regulations as other hazardous liquid gathering lines. The regulations issued under this paragraph shall not apply to production pipelines or flow lines.
+
 (d)
 
 Replacing Cast Iron Gas Pipelines.—(1) The Secretary shall publish a notice on the availability of industry guidelines, developed by the Gas Piping Technology Committee, for replacing cast iron pipelines. Not later than 2 years after the guidelines become available, the Secretary shall conduct a survey of gas pipeline operators with cast iron pipe in their systems to establish—
@@ -100,7 +102,9 @@ Replacing Cast Iron Gas Pipelines.—(1) The Secretary shall publish a notice on
 
 (3) This subsection does not prevent the Secretary from developing Government guidelines or standards for cast iron gas pipelines as the Secretary considers appropriate.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1312; Pub. L. 104–304, §§6, 20(h), Oct. 12, 1996, 110 Stat. 3800, 3805.)
+(4) Not later than December 31, 2012, and every 2 years thereafter, the Secretary shall conduct a follow-up survey to measure the progress that owners and operators of pipeline facilities have made in adopting and implementing their plans for the safe management and replacement of cast iron gas pipelines.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1312; Pub. L. 104–304, §§6, 20(h), Oct. 12, 1996, 110 Stat. 3800, 3805; Pub. L. 112–90, §§7(a), 18(a), 21(c), Jan. 3, 2012, 125 Stat. 1910, 1916, 1917.)
 
 Historical and Revision Notes
 
@@ -260,9 +264,9 @@ Nov. 30, 1979, Pub. L. 96–129, 93 Stat. 989, §203(<i>l</i>)(5), (6); added Oc
 
 Aug. 12, 1968, Pub. L. 90–481, 82 Stat. 720, §13(c); added Oct. 24, 1992, Pub. L. 102–508, §107, 106 Stat. 3293.
 
-In subsection (a)(1), the word “prepare” is omitted as surplus. The words “or offices” are omitted because of 1:1. The words “in accordance with regulations prescribed by the Secretary or appropriate State agency” in 49 App.:1680(a) (1st sentence), “in accordance with regulations prescribed by the Secretary or, where a certification or agreement pursuant to section 2004 of this Appendix is in effect, by the appropriate State agency” in 49 App.:2009(a) (1st sentence), and “by regulation” are omitted as surplus because of 49:322(a) and sections 60102–60105 of the revised title.
+In subsection (a)(1), the word “prepare” is omitted as surplus. The words “or offices” are omitted because of 1:1. The words “in accordance with regulations prescribed by the Secretary or appropriate State agency”in 49 App.:1680(a) (1st sentence), “in accordance with regulations prescribed by the Secretary or, where a certification or agreement pursuant to section 2004 of this Appendix is in effect, by the appropriate State agency” in 49 App.:2009(a) (1st sentence), and “by regulation” are omitted as surplus because of 49:322(a) and sections 60102–60105 of the revised title.
 
-In subsection (a)(2), before clause (A), the words “the Secretary or” are added for clarity. The words “at anytime” in 49 App.:1680(a) (3d sentence) are omitted as surplus.
+In subsection (a)(2), before clause (A), the words “the Secretary or” are added for clarity. The words “at any time” in 49 App.:1680(a) (3d sentence) are omitted as surplus.
 
 In subsection (a)(3), the word “appropriate” is omitted as surplus.
 
@@ -298,6 +302,12 @@ Section 203(<i>l</i>)(1)(A) of the Hazardous Liquid Pipeline Safety Act of 1979,
 
 #### Amendments
 
+<b>2012</b>—Subsec. (a)(1). Pub. L. 112–90, §18(a), substituted “a gas pipeline” for “an intrastate gas pipeline”.
+
+Subsec. (c)(8). Pub. L. 112–90, §21(c), added par. (8).
+
+Subsec. (d)(4). Pub. L. 112–90, §7(a), added par. (4).
+
 <b>1996</b>—Subsec. (a)(1). Pub. L. 104–304, §6(1), struck out “transporting gas or hazardous liquid or” after “Each person” and “a person”.
 
 Subsec. (b)(2). Pub. L. 104–304, §6(2), struck out after first sentence “However, an inspection must occur at least once every 2 years.”
@@ -319,6 +329,64 @@ Subsecs. (c)(4)(B), (d)(3). Pub. L. 104–304, §20(h)(1), substituted “standa
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Leak Detection
+
+Pub. L. 112–90, §8, Jan. 3, 2012, 125 Stat. 1911, provided that:
+
+“(a)
+
+Leak Detection Report.—
+
+&emsp;“(1)
+
+In general.—Not later than 1 year after the date of enactment of this Act \[Jan. 3, 2012\], the Secretary of Transportation shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives a report on leak detection systems utilized by operators of hazardous liquid pipeline facilities and transportation-related flow lines.
+
+&emsp;“(2)
+
+Contents.—The report shall include—
+
+&emsp;&emsp;“(A) an analysis of the technical limitations of current leak detection systems, including the ability of the systems to detect ruptures and small leaks that are ongoing or intermittent, and what can be done to foster development of better technologies; and
+
+&emsp;&emsp;“(B) an analysis of the practicability of establishing technically, operationally, and economically feasible standards for the capability of such systems to detect leaks, and the safety benefits and adverse consequences of requiring operators to use leak detection systems.
+
+“(b)
+
+Rulemaking Requirements.—
+
+&emsp;“(1)
+
+Review period defined.—In this subsection, the term ‘review period’ means the period beginning on the date of enactment of this Act \[Jan. 3, 2012\] and ending on the earlier of—
+
+&emsp;&emsp;“(A) the date that is 1 year after the date of completion of the report under subsection (a); or
+
+&emsp;&emsp;“(B) the date that is 2 years after the date of enactment of this Act.
+
+&emsp;“(2)
+
+Congressional authority.—In order to provide Congress the necessary time to review the results of the report required by subsection (a) and implement appropriate recommendations, the Secretary, during the review period, shall not issue final regulations described in paragraph (3).
+
+&emsp;“(3)
+
+Standards.—As soon as practicable following the review period, if the report required by subsection (a) finds that it is practicable to establish technically, operationally, and economically feasible standards for the capability of leak detection systems to detect leaks, the Secretary shall issue final regulations that—
+
+&emsp;&emsp;“(A) require operators of hazardous liquid pipeline facilities to use leak detection systems where practicable; and
+
+&emsp;&emsp;“(B) establish technically, operationally, and economically feasible standards for the capability of such systems to detect leaks.
+
+&emsp;“(4)
+
+Savings clause.—
+
+&emsp;&emsp;“(A)
+
+In general.—Notwithstanding any other provision of this subsection, the Secretary, during the review period, may issue final regulations described in paragraph (3) if the Secretary determines that a condition that poses a risk to public safety, property, or the environment is present or an imminent hazard exists and that the regulations will address the risk or hazard.
+
+&emsp;&emsp;“(B)
+
+Imminent hazard defined.—In subparagraph (A), the term ‘imminent hazard’ means the existence of a condition related to pipelines or pipeline operations that presents a substantial likelihood that death, serious illness, severe personal injury, or substantial endangerment to health, property, or the environment may occur.”
+
+\[Terms used in section 8 of Pub. L. 112–90, set out above, have the meaning given those terms in this chapter, see section 1(c)(1) of Pub. L. 112–90, set out as a note under section 60101 of this title.\]
 
 #### Pipeline Bridge Risk Study
 

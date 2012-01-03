@@ -58,7 +58,7 @@ For a child who has not been identified for participation in a language instruct
 
 #### (2) Receipt of recommendations
 
-&emsp;The outreach described in paragraph (1) shall include holding, and sending notice of opportunities for, regular meetings for the purpose of formulating and responding to recommendations from parents described in such paragraph.
+&emsp;The outreach described in paragraph (1) shall include holding, and sending notice of opportunities for, regular meetings for thepurpose of formulating and responding to recommendations from parents described in such paragraph.
 
 #### (f) Basis for admission or exclusion
 

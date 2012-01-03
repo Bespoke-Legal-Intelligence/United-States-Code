@@ -128,7 +128,7 @@ The date of enactment of the National Defense Authorization Act for Fiscal Year 
 
 #### Amendments
 
-2009—Subsec. (i). Pub. L. 111–84, §1122(b)(2), added subsec. (i). Former subsec. (i) redesignated (j).
+<b>2009</b>—Subsec. (i). Pub. L. 111–84, §1122(b)(2), added subsec. (i). Former subsec. (i) redesignated (j).
 
 Subsec. (j). Pub. L. 111–84, §1122(b)(1), redesignated subsec. (i) as (j).
 
@@ -136,25 +136,25 @@ Subsec. (j)(1). Pub. L. 111–84, §1122(b)(3)(A), substituted “(i)” for “
 
 Subsec. (j)(2). Pub. L. 111–84, §1122(b)(3)(B), substituted “(h), or (i)” for “or (h)”.
 
-2004—Subsec. (i)(1). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (i)(1). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-2003—Subsec. (b)(1)(A). Pub. L. 108–176 substituted “through (h)” for “through (g)”.
+<b>2003</b>—Subsec. (b)(1)(A). Pub. L. 108–176 substituted “through (h)” for “through (g)”.
 
-1997—Subsec. (b)(1)(A). Pub. L. 105–61 substituted “through (g)” for “through (f)”.
+<b>1997</b>—Subsec. (b)(1)(A). Pub. L. 105–61 substituted “through (g)” for “through (f)”.
 
 Subsec. (h)(2)(B), (3). Pub. L. 105–55 substituted “the Committee on House Oversight of the House of Representatives” for “the Speaker of the House of Representatives”.
 
-1992—Subsec. (f). Pub. L. 102–378 repealed Pub. L. 101–510, §1206(j)(3). See 1990 Amendment note below.
+<b>1992</b>—Subsec. (f). Pub. L. 102–378 repealed Pub. L. 101–510, §1206(j)(3). See 1990 Amendment note below.
 
-1991—Subsec. (f)(3). Pub. L. 102–190, §655(c)(2), struck out par. (3) which read as follows: “An employee to whom a waiver under subparagraph (A) or (B) of paragraph (1) applies shall not be deemed an employee for the purposes of chapter 83 or this chapter while such waiver is in effect.”
+<b>1991</b>—Subsec. (f)(3). Pub. L. 102–190, §655(c)(2), struck out par. (3) which read as follows: “An employee to whom a waiver under subparagraph (A) or (B) of paragraph (1) applies shall not be deemed an employee for the purposes of chapter 83 or this chapter while such waiver is in effect.”
 
 Subsecs. (g) to (i). Pub. L. 102–190, §655(c)(1), added subsecs. (g) to (i).
 
-1990—Subsec. (f). Pub. L. 101–510, §1206(j)(3), added a subsec. (f) identical to that added by Pub. L. 101–509, see below. Pub. L. 102–378, §8(a), repealed Pub. L. 101–510, §1206(j)(3), and provided that this title shall read as if section 1206(j)(3) had not been enacted.
+<b>1990</b>—Subsec. (f). Pub. L. 101–510, §1206(j)(3), added a subsec. (f) identical to that added by Pub. L. 101–509, see below. Pub. L. 102–378, §8(a), repealed Pub. L. 101–510, §1206(j)(3), and provided that this title shall read as if section 1206(j)(3) had not been enacted.
 
 Pub. L. 101–509 added subsec. (f).
 
-1988—Pub. L. 100–238 amended section generally, substituting subsecs. (a) to (e) for former subsecs. (a) to (c).
+<b>1988</b>—Pub. L. 100–238 amended section generally, substituting subsecs. (a) to (e) for former subsecs. (a) to (c).
 
 #### Change of Name
 

@@ -24,7 +24,7 @@
 
 #### (2) Rule of construction
 
-&emsp;The provisions of paragraph (1) shall have no effect on authorities otherwise provided under the <sup>1</sup> chapter or regulations issued under this chapter.
+&emsp;The provisions of paragraph (1) shall have no effect on authorities otherwise provided underthe <sup>1</sup> chapter or regulations issued under this chapter.
 
 #### (b) Surveillance approval
 

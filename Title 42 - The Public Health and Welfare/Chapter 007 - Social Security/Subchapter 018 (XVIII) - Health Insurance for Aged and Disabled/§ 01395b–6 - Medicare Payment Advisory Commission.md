@@ -60,7 +60,7 @@ There is hereby established as an agency of Congress the Medicare Payment Adviso
 
 #### (5) Agenda and additional reviews
 
-&emsp;The Commission shall consult periodically with the chairmen and ranking minority members of the appropriate committees of Congress regarding the Commission's agenda and progress towards achieving the agenda. The Commission may conduct additional reviews, and submit additional reports to the appropriate committees of Congress, from time to time on such topics relating to the program under this subchapter as may be requested by such chairmen and members and as the Commission deems appropriate.
+&emsp;The Commission shall consult periodically with the chairmen and ranking minority members of the appropriate committees of Congress regarding the Commission's agenda and progress towards achieving the agenda.The Commission may conduct additional reviews, and submit additional reports to the appropriate committees of Congress, from time to time on such topics relating to the program under this subchapter as may be requested by such chairmen and members and as the Commission deems appropriate.
 
 #### (6) Availability of reports
 
@@ -186,11 +186,9 @@ Subject to such review as the Comptroller General deems necessary to assure the 
 
 &emsp;There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section. Sixty percent of such appropriation shall be payable from the Federal Hospital Insurance Trust Fund, and 40 percent of such appropriation shall be payable from the Federal Supplementary Medical Insurance Trust Fund.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1805, as added Pub. L. 105–33, title IV, §4022(a), Aug. 5, 1997, 111 Stat. 350; amended Pub. L. 105–277, div. J, title V, §5202(a), Oct. 21, 1998, 112 Stat. 2681–917; Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §211(a)(2)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–347; Pub. L. 106–554, §1(a)(6) \[title V, §544(a)(1), (b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–551; Pub. L. 108–173, title VII, §735(a)–(c)(1), (e)(1), Dec. 8, 2003, 117 Stat. 2353, 2354; Pub. L. 110–173, title III, §301, Dec. 29, 2007, 121 Stat. 2514; Pub. L. 111–148, title II, §2801(b), title III, §3403(c), title X, §10320(b), Mar. 23, 2010, 124 Stat. 332, 507, 952.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1805, as added Pub. L. 105–33, title IV, §4022(a), Aug. 5, 1997, 111 Stat. 350; amended Pub. L. 105–277, div. J, title V, §5202(a), Oct. 21, 1998, 112 Stat. 2681–917; Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §211(a)(2)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–347; Pub. L. 106–554, §1(a)(6) \[title V, §544(a)(1), (b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–551; Pub. L. 108–173, title VII, §735(a)–(c)(1), (e)(1), Dec. 8, 2003, 117 Stat. 2353, 2354; Pub. L. 110–173, title III, §301, Dec. 29, 2007,121 Stat. 2514; Pub. L. 111–148, title II, §2801(b), title III, §3403(c), title X, §10320(b), Mar. 23, 2010, 124 Stat. 332, 507, 952.)
 
 #### References in Text
-
-Parts A, B, and C of this subchapter, referred to in subsec. (b)(2)(A), (B), are classified to sections 1395c et seq., 1395j et seq., and 1395w–21 et seq., respectively, of this title.
 
 The Patient Protection and Affordable Care Act, referred to in subsec. (b)(10), is Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 119. The Act does not contain a section 2081. The Federal Coordinated Health Care Office is established in section 2602(a)(1) of the Act, which is classified to section 1315b(a)(1) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 18001 of this title and Tables.
 
@@ -242,7 +240,7 @@ References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subje
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–173, title VII, §735(c)(2), Dec. 8, 2003, 117 Stat. 2354, provided that: “The amendment made byparagraph (1) \[amending this section\] shall take effect on January 1, 2004.”
+Pub. L. 108–173, title VII, §735(c)(2), Dec. 8, 2003, 117 Stat. 2354, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on January 1, 2004.”
 
 #### Effective Date of 2000 Amendment
 
@@ -274,7 +272,7 @@ Pub. L. 108–173, title VII, §735(e)(2), Dec. 8, 2003, 117 Stat. 2354, provide
 
 #### MedPAC Analysis of Impact of Volume on Per Unit Cost of Rural Hospitals With Psychiatric Units
 
-Pub. L. 106–554, §1(a)(6) \[title II, §214\], Dec. 21, 2000, 114 Stat. 2763, 2763A–486, provided that: “The Medicare Payment Advisory Commission, in its study conducted pursuant to subsection (a) of section 411 of BBRA \[Pub. L. 106–113, §1000(a)(6) \[title IV, §411\], set out as a note below\] (113 Stat. 1501A–377), shall include—
+Pub. L. 106–554, §1(a)(6) \[title II, §214\], Dec. 21, 2000, 114 Stat. 2763, 2763A–486, provided that: “The MedicarePayment Advisory Commission, in its study conducted pursuant to subsection (a) of section 411 of BBRA \[Pub. L. 106–113, §1000(a)(6) \[title IV, §411\], set out as a note below\] (113 Stat. 1501A–377), shall include—
 
 &emsp;“(1) in such study an analysis of the impact of volume on the per unit cost of rural hospitals with psychiatric units; and
 
@@ -326,7 +324,7 @@ Study.—The Medicare Payment Advisory Commission shall conduct a study on the a
 
 “(2)
 
-Considerations.—Such study shall specifically examine the effects, costs, and feasibility of requiring entities, physicians, and other health care providersthat provide items and services under the original medicare fee-for-service program to comply with quality standards and related reporting requirements that are comparable to the quality standards and related reporting requirements that are applicable to Medicare+Choice organizations.
+Considerations.—Such study shall specifically examine the effects, costs, and feasibility of requiring entities, physicians, and other health care providers that provide items and services under the original medicare fee-for-service program to comply with quality standards and related reporting requirements that are comparable to the quality standards and related reporting requirements that are applicable to Medicare+Choice organizations.
 
 “(3)
 

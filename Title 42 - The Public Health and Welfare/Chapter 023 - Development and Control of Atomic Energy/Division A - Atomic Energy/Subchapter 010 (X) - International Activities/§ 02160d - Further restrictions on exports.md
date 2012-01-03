@@ -56,7 +56,7 @@ Except as provided in subsection (b) of this section, the Commission may issue a
 
 #### (B) Imposition of additional requirements
 
-&emsp;&emsp;If the Commission determines that additional physical protection requirements are necessary (including a limit on the quantityof highly enriched uranium that may be contained in a single shipment), the Commission shall impose such requirements as license conditions or through other appropriate means.
+&emsp;&emsp;If the Commission determines that additional physical protection requirements are necessary (including a limit on the quantity of highly enriched uranium that may be contained in a single shipment), the Commission shall impose such requirements as license conditions or through other appropriate means.
 
 #### (4) First report to Congress
 
@@ -88,7 +88,7 @@ Except as provided in subsection (b) of this section, the Commission may issue a
 
 &emsp;&emsp;&emsp;(i) contains the findings of the National Academy of Sciences made in the study under subparagraph (A); and
 
-&emsp;&emsp;&emsp;(ii) discloses the existence of any commitments from commercial producers to provide domestic requirements for medical isotopes without use of highly enriched uranium consistent with the feasibility criteria described in subparagraph (B) not later than the date that is 4 years after the date of submission of the report.
+&emsp;&emsp;&emsp;(ii) discloses the existence of any commitments from commercial producers to provide domestic requirements for medical isotopes without use of highly enriched uranium consistent with the feasibility criteria described in subparagraph (B) notlater than the date that is 4 years after the date of submission of the report.
 
 #### (5) Second report to Congress
 

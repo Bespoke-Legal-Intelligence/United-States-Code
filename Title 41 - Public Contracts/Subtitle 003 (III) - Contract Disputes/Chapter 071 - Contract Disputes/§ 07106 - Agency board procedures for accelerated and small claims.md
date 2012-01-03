@@ -12,7 +12,7 @@ Small Claims Procedure.—
 
 &emsp;(1)
 
-In general.—The rules of each agency board shall include a procedure for the expedited disposition of any appeal from a decision of a contracting officer where the amount in dispute is $50,000 or less, or in the case of a small business concern (as defined in the Small Business Act (15 U.S.C. 631 et seq.) andregulations under that Act), $150,000 or less. The small claims procedure is applicable at the sole election of the contractor.
+In general.—The rules of each agency board shall include a procedure for the expedited disposition of any appeal from a decision of a contracting officer where the amount in dispute is $50,000 or less, or in the case of a small business concern (as defined in the Small Business Act (15 U.S.C. 631 et seq.) and regulations under that Act), $150,000 or less. The small claims procedure is applicable at the sole election of the contractor.
 
 &emsp;(2)
 

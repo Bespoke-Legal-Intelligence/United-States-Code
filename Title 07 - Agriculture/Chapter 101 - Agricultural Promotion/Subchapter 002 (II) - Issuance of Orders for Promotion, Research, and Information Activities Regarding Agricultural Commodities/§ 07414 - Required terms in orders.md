@@ -134,7 +134,7 @@ A board may not engage in, and shall prohibit the employees and agents of the bo
 
 #### (4) Payment of expenses
 
-&emsp;Expenses incurred under paragraph (3) shall be paid by a board using assessments collected under section 7416 of this title, earnings obtained from assessments, and other income ofthe board. Any funds borrowed by the board shall be expended only for startup costs and capital outlays.
+&emsp;Expenses incurred under paragraph (3) shall be paid by a board using assessments collected under section 7416 of this title, earnings obtained from assessments, and other income of the board. Any funds borrowed by the board shall be expended only for startup costs and capital outlays.
 
 #### (5) Limitation on spending
 

@@ -70,7 +70,7 @@ Sec. 4. <i>Administrative enforcement.</i>
 
 (b) In addition, the designated investigating office may provide appropriate agency officials with a recommendation for any corrective and/or remedial action. The appropriate officials shall consider such recommendation and implement corrective and/or remedial action by the agency, when appropriate. Nothing in this order authorizes monetary relief to the complainant as a form of remedial or corrective action by an executive department or agency.
 
-4–403. Any action to discipline an employee who violates this order or its implementing rules, regulations, policies, or guidance, including removal from employment, where appropriate, shall be taken in compliance with otherwise applicable procedures, including theCivil Service Reform Act of 1978, Public Law No. 95–454, 92 Stat. 1111 \[see Tables for classification\].
+4–403. Any action to discipline an employee who violates this order or its implementing rules, regulations, policies, or guidance, including removal from employment, where appropriate, shall be taken in compliance with otherwise applicable procedures, including the Civil Service Reform Act of 1978, Public Law No. 95–454, 92 Stat. 1111 \[see Tables for classification\].
 
 Sec. 5. <i>Implementation and Agency Responsibilities.</i>
 
@@ -90,7 +90,7 @@ Sec. 5. <i>Implementation and Agency Responsibilities.</i>
 
 &emsp;g. such other matters as deemed appropriate.
 
-5–502. Within 90 days of the publication of final rules, regulations, policies, or guidance by the Attorney General, each executive department and agency shall establish a procedure to receive and address complaints regarding its Federally conducted education and training programs and activities. Each executive department and agency shall take all necessary steps to effectuate any subsequent rules, regulations, policies, or guidance issued by the Attorney General within 90 days of issuance.
+5–502. Within 90 days of the publication of final rules, regulations, policies, or guidance by the Attorney General, each executive department and agency shall establish a procedure to receive and address complaints regarding its Federally conducted education and training programs and activities. Each executive department and agency shall take all necessary steps to effectuate any subsequent rules, regulations, policies, orguidance issued by the Attorney General within 90 days of issuance.
 
 5–503. The head of each executive department and agency shall be responsible for ensuring compliance within this order.
 

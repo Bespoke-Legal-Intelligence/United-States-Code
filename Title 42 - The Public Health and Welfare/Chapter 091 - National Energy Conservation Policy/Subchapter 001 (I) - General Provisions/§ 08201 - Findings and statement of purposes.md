@@ -14,7 +14,7 @@ The Congress finds that—
 
 #### (b) Statement of purposes
 
-The purposes of this chapter are to provide for the regulation of interstate commerce, to reducethe growth in demand for energy in the United States, and to conserve nonrenewable energy resources produced in this Nation and elsewhere, without inhibiting beneficial economic growth.
+The purposes of this chapter are to provide for the regulation of interstate commerce, to reduce the growth in demand for energy in the United States, and to conserve nonrenewable energy resources produced in this Nation and elsewhere, without inhibiting beneficial economic growth.
 
 (Pub. L. 95–619, title I, §102, Nov. 9, 1978, 92 Stat. 3208; Pub. L. 99–412, title I, §101, Aug. 28, 1986, 100 Stat. 932.)
 

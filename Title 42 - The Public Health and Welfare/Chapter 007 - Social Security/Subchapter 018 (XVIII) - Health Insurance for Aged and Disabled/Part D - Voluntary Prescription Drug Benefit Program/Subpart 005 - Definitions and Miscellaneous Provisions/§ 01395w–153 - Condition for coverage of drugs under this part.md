@@ -26,7 +26,7 @@ Subsection (a) shall not apply to the dispensing of a covered part D drug if—
 
 In this section, the term “manufacturer” has the meaning given such term in section 1395w–114a(g)(5) of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1860D–43, as added Pub. L. 111–148, title III, §3301(a), Mar. 23, 2010, 124 Stat. 461; amended Pub. L. 111–152, title I, §1101(b)(1), Mar. 30, 2010, 124 Stat. 1037.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1860D–43, as added Pub. L. 111–148, title III, §3301(a), Mar. 23,2010, 124 Stat. 461; amended Pub. L. 111–152, title I, §1101(b)(1), Mar. 30, 2010, 124 Stat. 1037.)
 
 #### Amendments
 

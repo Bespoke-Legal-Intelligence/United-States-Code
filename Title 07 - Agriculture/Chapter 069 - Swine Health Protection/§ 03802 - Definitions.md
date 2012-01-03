@@ -14,5 +14,5 @@ For purposes of this chapter—
 
 #### Amendments
 
-1980—Par. (4). Pub. L. 96–592 added par. (4).
+<b>1980</b>—Par. (4). Pub. L. 96–592 added par. (4).
 

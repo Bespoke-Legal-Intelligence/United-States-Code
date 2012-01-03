@@ -40,7 +40,7 @@ As a condition of receiving a grant under subsection (a), an office of health in
 
 #### (1) Initial funding
 
-&emsp;There is hereby appropriated to the Secretary, out of any funds in the Treasury not otherwise appropriated, $30,000,000 for the first fiscal year for which this section applies to carry out this section. Such amount shall remain available without fiscal year limitation.
+&emsp;There is hereby appropriated to the Secretary, out of any funds in the Treasury nototherwise appropriated, $30,000,000 for the first fiscal year for which this section applies to carry out this section. Such amount shall remain available without fiscal year limitation.
 
 #### (2) Authorization for subsequent years
 

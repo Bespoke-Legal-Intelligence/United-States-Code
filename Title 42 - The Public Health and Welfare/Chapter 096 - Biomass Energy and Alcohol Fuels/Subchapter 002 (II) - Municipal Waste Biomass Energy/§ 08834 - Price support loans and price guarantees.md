@@ -36,7 +36,7 @@
 
 (1) In the case of any new municipal waste energy project which produces and sells biomass energy, the Secretary of Energy may commit to make, and make, a price guarantee for the operation of such project which guarantees that the price the owner or operator will receive for all or part of the production from that project shall not be less than a specified sales price determined as of the date of execution of the guarantee agreement.
 
-(2)(A) No price guarantee under this section may be based upon a cost-plus arrangement, orvariant thereof, which guarantees a profit to the owner or operator involved.
+(2)(A) No price guarantee under this section may be based upon a cost-plus arrangement, or variant thereof, which guarantees a profit to the owner or operator involved.
 
 (B) The use of a cost-of-service pricing mechanism by a person pursuant to law, or by a regulatory body establishing rates for a regulated person, shall not be deemed to be a cost-plus arrangement, or variant thereof, for purposes of subparagraph (A).
 

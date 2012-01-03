@@ -2,7 +2,7 @@
 
 #### (a) Study on condition of currently existing facilities; submission of report; contents
 
-The Secretary shall provide for the conduct of a study of facilities available for use by tribally controlled colleges or universities. Such study shall consider the condition of currently existing Bureau of Indian Affairs facilities which are vacant or underutilized and shall consider available alternatives for renovation, alteration, repair, and reconstruction of such facilities (including renovation, alteration, repair, and reconstruction necessary to bring such facilities into compliance with local building codes). Such study shall also identify the need for new construction. A report on the results of such study shall be submitted to the Congress not later than eighteen months after September 30, 1986. Such report shall also include an identification of property—
+The Secretary shall provide for the conduct of a study of facilities available for use by triballycontrolled colleges or universities. Such study shall consider the condition of currently existing Bureau of Indian Affairs facilities which are vacant or underutilized and shall consider available alternatives for renovation, alteration, repair, and reconstruction of such facilities (including renovation, alteration, repair, and reconstruction necessary to bring such facilities into compliance with local building codes). Such study shall also identify the need for new construction. A report on the results of such study shall be submitted to the Congress not later than eighteen months after September 30, 1986. Such report shall also include an identification of property—
 
 &emsp;(1) on which structurally sound buildings suitable for use as educational facilities are located, and
 
@@ -56,7 +56,7 @@ Subsec. (c)(2)(B). Pub. L. 105–244, §901(b)(6), substituted “colleges or un
 
 Subsec. (b). Pub. L. 99–428, §6(a)(1), substituted “Secretary” for “Administrator of General Services”.
 
-<b>1983</b>—Pub. L. 98–192 amended section generally, substituting provision requiring a study on the condition of currently existing facilities, submission of a report on the study, contents of the report, establishment of a renovation program, and defining term “reconstruction” for provision which required the Secretary of theInterior, not later than ninety days after Oct. 17, 1978, to prepare and submit a report to the Congress containing a survey of existing and planned physical facilities of tribally controlled community colleges.
+<b>1983</b>—Pub. L. 98–192 amended section generally, substituting provision requiring a study on the condition of currently existing facilities, submission of a report on the study, contents of the report, establishment of a renovation program, and defining term “reconstruction” for provision which required the Secretary of the Interior, not later than ninety days after Oct. 17, 1978, to prepare and submit a report to the Congress containing a survey of existing and planned physical facilities of tribally controlled community colleges.
 
 #### Effective Date of 1998 Amendment
 

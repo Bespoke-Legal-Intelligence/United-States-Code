@@ -32,7 +32,7 @@ Joint Duty Assignment.—(1) The Secretary of Defense shall by regulation define
 
 &emsp;(A) shall be limited to assignments in which the officer gains significant experience in joint matters; and
 
-&emsp;(B) shall exclude assignments for joint training and education, except an assignment as an instructor responsible for preparing and presenting courses in areas of the curricula designated in section 2155(c) of this title as part of a program designated by the Secretary of Defense as joint professional military education Phase II.
+&emsp;(B) shall exclude assignments for joint training and education, except an assignment as an instructor responsible for preparing and presenting courses in areas of the curricula designated in section 2155(c) of this title as part of a program designated by the Secretary ofDefense as joint professional military education Phase II.
 
 (2) The Secretary shall publish a joint duty assignment list showing—
 

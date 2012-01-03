@@ -20,7 +20,7 @@ In order to facilitate the acquisition by the United States of existing easement
 
 #### (d) Conservation easements
 
-The Secretary is authorized to accept donations of conservation easements on lands adjacent to the park. Such conservation easements shall have the effect of protecting the scenic and historic resources on park lands and the adjacent lands or preserving the undeveloped or historic appearance of the park when viewed from within or without the park.
+The Secretary is authorized to accept donations of conservation easements on lands adjacent to the park. Such conservation easements shall have the effect of protecting the scenic andhistoric resources on park lands and the adjacent lands or preserving the undeveloped or historic appearance of the park when viewed from within or without the park.
 
 #### (e) Other provisions
 

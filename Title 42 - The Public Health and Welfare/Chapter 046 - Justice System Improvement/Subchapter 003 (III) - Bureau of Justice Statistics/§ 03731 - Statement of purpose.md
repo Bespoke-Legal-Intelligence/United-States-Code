@@ -6,7 +6,7 @@ It is the purpose of this subchapter to provide for and encourage the collection
 
 #### Prior Provisions
 
-A prior section 3731, Pub. L. 90–351, title I, §301, June 19, 1968, 82 Stat. 199; Pub. L. 91–644, title I, §4(1)–(4), Jan. 2, 1971, 84 Stat. 1882; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 199; Pub. L. 94–503, title I, §§109, 128(b), Oct. 15,1976, 90 Stat. 2411, 2424, related to purposes and categories of grants for law enforcement and criminal justice purposes, prior to the general amendment of this chapter by Pub. L. 96–157.
+A prior section 3731, Pub. L. 90–351, title I, §301, June 19, 1968, 82 Stat. 199; Pub. L. 91–644, title I, §4(1)–(4), Jan. 2, 1971, 84 Stat. 1882; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 199; Pub. L. 94–503, title I, §§109, 128(b), Oct. 15, 1976, 90 Stat. 2411, 2424, related to purposes and categories of grants for law enforcement and criminal justice purposes, prior to the general amendment of this chapter by Pub. L. 96–157.
 
 #### Amendments
 

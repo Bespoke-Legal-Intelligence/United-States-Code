@@ -26,7 +26,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Pub. L. 110–246, §11002(3), redesignated subsec. (b) as (a) and substituted “retailer or person engaged in the business of supplying a covered commodity to a retailer” for “retailer” in introductory provisions, added subsec. (b), and struck out former subsecs. (a) and (c) which related to applicability of section 1636b of this title to a violation of this subchapter and fine for violation of section 1638a of this title. The substitution in subsec. (a) was made for “retailer” the first time appearing to reflect the probable intent of Congress.
+<b>2008</b>—Pub. L. 110–246, §11002(3), redesignated subsec. (b) as (a) and substituted “retailer or person engaged in the business of supplying a covered commodity to a retailer” for “retailer” in introductory provisions, added subsec. (b), and struck out former subsecs. (a) and (c) which related to applicability of section 1636b of this title to a violation of this subchapter and fine for violation of section 1638a of this title. The substitution in subsec. (a) was made for “retailer” the first time appearing to reflect the probable intent of Congress.
 
 #### Effective Date of 2008 Amendment
 

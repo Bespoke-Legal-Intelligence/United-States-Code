@@ -6,7 +6,7 @@ At the inaugural meeting of the Board of Governors of the Bank, the Governor and
 
 #### (b) Compensation
 
-Any person who serves as a governor of the Bank or as an alternate for the Governor may not receive any salary or other compensation from the United States by reason of such service.
+Any person who serves as a governor of the Bank or as an alternate for the Governor may not receive any salary or other compensationfrom the United States by reason of such service.
 
 (Pub. L. 104–208, div. A, title I, §101(c) \[title VII, §703\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–179.)
 

@@ -2,7 +2,7 @@
 
 #### (a) Effective and termination dates of preemptive provisions; law governing incidental taking of marine mammals in course of commercial yellowfin tuna fishing
 
-(1) During the period beginning on November 23, 1988, and until superseded by regulations prescribed under section 1387 of this title, or until September 1, 1995, whichever is earlier, except as provided in paragraph (2), the provisions of this section, rather than sections 1371, 1373, and 1374 of this title, shall govern the incidental taking of marine mammals in the course of commercialfishing operations by persons using vessels of the United States and vessels which have valid fishing permits issued by the Secretary in accordance with section 1824(b) of this title. In any event it shall be the immediate goal that the incidental kill or serious injury of marine mammals permitted in the course of commercial fishing operations be reduced to insignificant levels approaching a zero mortality and serious injury rate.
+(1) During the period beginning on November 23, 1988, and until superseded by regulations prescribed under section 1387 of this title, or until September 1, 1995, whichever is earlier, except as provided in paragraph (2), the provisions of this section, rather than sections 1371, 1373, and 1374 of this title, shall govern the incidental taking of marine mammals in the course of commercial fishing operations by persons using vessels of the United States and vessels which have valid fishing permits issued by the Secretary in accordance with section 1824(b) of this title. In any event it shall be the immediate goal that the incidental kill or serious injury of marine mammals permitted in the course of commercial fishing operations be reduced to insignificant levels approaching a zero mortality and serious injury rate.
 
 (2) The provisions of this section other than subsection (e)(6)(A) of this section shall not govern the incidental taking of marine mammals in the course of commercial yellowfin tuna fishing subject to section 1374(h)(2) of this title.
 
@@ -104,7 +104,7 @@ The owner of each vessel holding an exemption granted under subsection (b) of th
 
 &emsp;(D) where practicable, the need to minimize costs and avoid duplication.
 
-(3) If the Secretary finds that, for reasons beyond his or her control, the Secretary cannot assign observers to all the fisheries identified under subsection (b)(1)(A)(i) of this section at the level of observer coverage set forth in paragraph (1), the Secretary shall allocate availableobservers among such fisheries, consistent with paragraph (2), according to the following priority:
+(3) If the Secretary finds that, for reasons beyond his or her control, the Secretary cannot assign observers to all the fisheries identified under subsection (b)(1)(A)(i) of this section at the level of observer coverage set forth in paragraph (1), the Secretary shall allocate available observers among such fisheries, consistent with paragraph (2), according to the following priority:
 
 &emsp;(A) those fisheries that incidentally take marine mammals from any population stock designated as depleted;
 
@@ -274,7 +274,7 @@ Section 404(a)(2) of Pub. L. 104–43 provided that: “The amendment made by pa
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives byHouse Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

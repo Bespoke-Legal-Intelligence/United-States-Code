@@ -92,7 +92,7 @@ The Secretary shall, through a public process, examine issues of informed consen
 
 &emsp;&emsp;&emsp;(vi) coordinate with the qualified cord blood banks to support informational and educational activities in accordance with subsection (g) of this section;
 
-&emsp;&emsp;&emsp;(vii) maintain and expand medical contingency response capabilities, in coordination with Federal programs, to prepare for and respond effectively to biological, chemical, or radiological attacks, and other public health emergencies that can damage marrow, so that the capability ofsupporting patients with marrow damage from disease can be used to support casualties with marrow damage; and
+&emsp;&emsp;&emsp;(vii) maintain and expand medical contingency response capabilities, in coordination with Federal programs, to prepare for and respond effectively to biological, chemical, or radiological attacks, and other public health emergencies that can damage marrow, so that the capability of supporting patients with marrow damage from disease can be used to support casualties with marrow damage; and
 
 &emsp;&emsp;&emsp;(viii) with respect to the system under subparagraph (A), collect, analyze, and publish data in a standardized electronic format, as required by the Secretary, on the number and percentage of patients at each of the various stages of the search process, including data regarding the furthest stage reached, the number and percentage of patients who are unable to complete the search process, and the reasons underlying such circumstances.
 
@@ -182,7 +182,7 @@ The Secretary shall enforce, for participating entities, including the Program, 
 
 &emsp;&emsp;(B) prescribe the purposes for which the records described in subparagraph (A) may be disclosed, and the circumstances and extent of the disclosure; and
 
-&emsp;(6) in the case of a marrow donor center or marrow donor registry participating in the program, procedures to ensure the establishment of a method for integrating donor files, searches, and general procedures of the center or registry with the Program.
+&emsp;(6) in the case of a marrow donor center or marrow donor registry participating in the program, procedures to ensure the establishment of a method for integrating donor files,searches, and general procedures of the center or registry with the Program.
 
 #### (g) Cord blood recruitment; priorities; information and education
 
@@ -470,7 +470,7 @@ Extensions.—The Secretary may extend the period of funding under a contract un
 
 Extension eligibility.—A qualified cord blood bank shall be eligible for a 5-year extension of a contract awarded under this section, as described in paragraph (2), provided that the qualified cord blood bank—
 
-&emsp;&emsp;“(A) demonstrates a superior ability to satisfy the requirements described in subsection (b) andachieves the overall goals for which the contract was awarded;
+&emsp;&emsp;“(A) demonstrates a superior ability to satisfy the requirements described in subsection (b) and achieves the overall goals for which the contract was awarded;
 
 &emsp;&emsp;“(B) provides a plan for how the qualified cord blood bank will increase cord blood unit collections at collection sites that exist at the time of consideration for such extension of a contract, assist with the establishment of new collection sites, or contract with new collection sites; and
 
@@ -514,7 +514,7 @@ Pub. L. 105–196, §2(b)(2), July 16, 1998, 112 Stat. 632, directed the Secreta
 
 #### Study by GAO
 
-Pub. L. 105–196, §5, July 16, 1998, 112 Stat. 636, provided that the Comptroller General was to conduct a study of the National Bone Marrow Donor Registry under this section to determine the extent to which the Registry had increased the representation of racial and ethnic minority groups among potential donors enrolled with the Registry and whether the extent of increase resulted in a level of representation that met the standard established in subsec. (c)(1)(A) of this section, the extent to which patients in need of a transplant of bone marrow from a biologically unrelated donor, and the physicians of such patients, had been utilizing the Registry, the number of patients for whom the Registry began a preliminary but not complete search process and the reasons underlying such circumstances, the extent to which the plan required in section 2(b)(2) of Pub. L. 105–196 (42 U.S.C. 274k note) had been implemented, and the extent to which the Registry, donor centers, donor registries, collection centers, transplant centers, and other appropriate entities had been complying with subsec. (e) of this section; and provided that a report describing the findings of this study was to be submitted to Congress not later than Oct. 1, 2001, and not before Jan. 1, 2001.
+Pub. L. 105–196, §5, July 16, 1998, 112 Stat. 636, provided that the Comptroller General was to conduct a study of the National Bone Marrow Donor Registry under this section to determine the extent to which the Registry had increased the representation of racial and ethnic minority groups among potential donors enrolled with the Registry and whether the extent of increase resulted in a level of representation that met the standard established in subsec. (c)(1)(A) of this section, the extent to which patients in need of a transplant of bone marrow from a biologically unrelated donor, and the physicians of such patients, had been utilizing the Registry, the number of patients for whom the Registry began a preliminary but not complete search process and the reasons underlying such circumstances, the extent to which the plan required in section 2(b)(2) of Pub. L. 105–196 (42 U.S.C. 274k note) had been implemented, and the extent to which the Registry, donor centers, donor registries, collection centers, transplant centers, and other appropriate entities had been complying with subsec. (e) of this section; andprovided that a report describing the findings of this study was to be submitted to Congress not later than Oct. 1, 2001, and not before Jan. 1, 2001.
 
 #### Compliance With New Requirements for Office of Patient Advocacy
 

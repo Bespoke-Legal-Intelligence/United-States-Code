@@ -70,7 +70,7 @@ Not later than 120 days after December 17, 2004, the Secretary shall report to t
 
 #### (c) International interoperability
 
-Not later than 18 months after December 17, 2004, the President shall establish a mechanism for coordinating cross-border interoperability issues between—
+Not later than 18 months after December 17, 2004, the President shall establish a mechanismfor coordinating cross-border interoperability issues between—
 
 &emsp;(1) the United States and Canada; and
 
@@ -120,7 +120,7 @@ Not later than 18 months after December 17, 2004, the President shall establish 
 
 &emsp;&emsp;Nothing in this subsection shall be construed—
 
-&emsp;&emsp;&emsp;(i) to prohibit the obligation of amounts pursuant to a letter of intent under thissubsection in the same fiscal year as the letter of intent is issued; or
+&emsp;&emsp;&emsp;(i) to prohibit the obligation of amounts pursuant to a letter of intent under this subsection in the same fiscal year as the letter of intent is issued; or
 
 &emsp;&emsp;&emsp;(ii) to apply to, or replace, Federal assistance intended for interoperable communications that is not provided pursuant to a commitment under this subsection.
 
@@ -148,7 +148,7 @@ In this section:
 
 #### (1) Interoperable communications
 
-&emsp;The term “interoperable communications” means the ability of emergency response providers and relevant Federal, State, and local government agencies to communicate with each other as necessary, through a dedicated public safety network utilizing information technology systems and radio communications systems, and to exchange voice, data, and video with one another on demand, in real time, as necessary.
+&emsp;The term “interoperable communications” means the ability of emergency response providers and relevant Federal, State, and local government agencies to communicate with each other as necessary, through a dedicated public safety network utilizing information technology systems and radio communications systems, and to exchange voice, data, andvideo with one another on demand, in real time, as necessary.
 
 #### (2) Emergency response providers
 
@@ -186,7 +186,7 @@ Section 301(c) of Pub. L. 110–53, which directed the amendment of section 7303
 
 #### Amendments
 
-2007—Subsec. (f)(6), (7). Pub. L. 110–53, §301(c)(1), added pars. (6) and (7). See Codification note above.
+<b>2007</b>—Subsec. (f)(6), (7). Pub. L. 110–53, §301(c)(1), added pars. (6) and (7). See Codification note above.
 
 Subsec. (g)(1). Pub. L. 110–53, §301(c)(2), substituted “and video” for “or video”. See Codification note above.
 
@@ -196,7 +196,7 @@ Pub. L. 108–458, title VII, §7308, Dec. 17, 2004, 118 Stat. 3849, provided th
 
 #### Transfer of Functions
 
-For transfer of the SAFECOM Program, excluding elements related to research, development, testing, andevaluation and standards, to the Director for Emergency Communications, see section 571(d)(1) of this title.
+For transfer of the SAFECOM Program, excluding elements related to research, development, testing, and evaluation and standards, to the Director for Emergency Communications, see section 571(d)(1) of this title.
 
 #### Cross Border Interoperability Reports
 

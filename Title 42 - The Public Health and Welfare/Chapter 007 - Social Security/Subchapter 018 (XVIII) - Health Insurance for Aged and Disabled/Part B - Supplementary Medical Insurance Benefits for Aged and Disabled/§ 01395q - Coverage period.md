@@ -46,17 +46,13 @@ Notwithstanding subsection (a) of this section, in the case of an individual who
 
 &emsp;(1) in any month of the special enrollment period in which the individual is at any time enrolled in a plan (specified in subparagraph (A) or (B), as applicable, of section 1395p(i)(3) of this title or specified in section 1395p(i)(4)(A)(i) of this title) or in the first month following such a month, the coverage period shall begin on the first day of the month in which the individual so enrolls (or, at the option of the individual, on the first day of any of the following three months), or
 
-&emsp;(2) in any other month of the special enrollment period, the coverage period shall beginon the first day of the month following the month in which the individual so enrolls.
+&emsp;(2) in any other month of the special enrollment period, the coverage period shall begin on the first day of the month following the month in which the individual so enrolls.
 
 #### (f) Commencement of coverage for certain volunteers serving outside United States
 
 Notwithstanding subsection (a), in the case of an individual who enrolls during a special enrollment period pursuant to section 1395p(k) of this title, the coverage period shall begin on the first day of the month following the month in which the individual so enrolls.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1838, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 305; amended Pub. L. 90–248, title I, §145(c), Jan. 2, 1968, 81 Stat. 859; Pub. L. 92–603, title II, §§201(c)(3), 206(b), (c), 257(a), Oct. 30, 1972, 86 Stat. 1373, 1378, 1447; Pub. L. 96–499, title IX, §§945(c)(1), 947(b), Dec. 5, 1980, 94 Stat. 2642, 2643; Pub. L. 97–35, title XXI, §§2106(b)(2), 2151(a)(3), Aug. 13, 1981, 95 Stat. 792, 802; Pub. L. 98–369, div. B, title III, §2338(c), July 18, 1984, 98 Stat. 1092; Pub. L. 99–272, title IX, §9201(c)(2), Apr. 7, 1986, 100 Stat. 171; Pub. L. 99–509, title IX, §9344(b)(1), Oct. 21, 1986, 100 Stat. 2042; Pub. L. 103–432, title I, §147(f)(1)(B), Oct. 31, 1994, 108 Stat. 4430; Pub. L. 105–33, title IV, §4581(b)(2), Aug. 5, 1997, 111 Stat. 465; Pub. L. 108–173, title VII, §736(b)(6), Dec. 8, 2003, 117 Stat. 2356; Pub. L. 109–171, title V, §5115(a)(2)(B), Feb. 8, 2006, 120 Stat. 46.)
-
-#### References in Text
-
-Part A of this subchapter, referred to in subsec. (c), is classified to section 1395c et seq. of this title.
 
 #### Amendments
 
@@ -172,5 +168,5 @@ Pub. L. 89–384, §3(d), Apr. 8, 1966, 80 Stat. 105, provided that: “In the c
 
 #### Commencement of Coverage Period of Certain Enrollees
 
-Commencement of coverage period upon enrollment before Oct. 1, 1966 of eligible individuals failing for good cause to enroll before June 1, 1966, see section 102(b) of Pub. L. 89–97, set out as a note under section 1395p of this title.
+Commencement of coverage period upon enrollment before Oct. 1, 1966 of eligible individuals failing for goodcause to enroll before June 1, 1966, see section 102(b) of Pub. L. 89–97, set out as a note under section 1395p of this title.
 

@@ -24,5 +24,5 @@ Basic Training Defined.—In this section, the term “basic training” means t
 
 #### Implementation
 
-Pub. L. 105–261, div. A, title V, §521(c)(3), Oct. 17, 1998, 112 Stat. 2012, provided that: “The Secretary of the Air Force shall implement section 9319 of title 10, UnitedStates Code, as added by paragraph (1), as rapidly as feasible and shall ensure that the provisions of that section are applied to all recruit basic training classes beginning not later than the first such class that enters basic training on or after April 15, 1999.”
+Pub. L. 105–261, div. A, title V, §521(c)(3), Oct. 17, 1998, 112 Stat. 2012, provided that: “The Secretary of the Air Force shall implement section 9319 of title 10, United States Code, as added by paragraph (1), as rapidly as feasible and shall ensure that the provisions of that section are applied to all recruit basic training classes beginning not later than the first such class that enters basic training on or after April 15, 1999.”
 

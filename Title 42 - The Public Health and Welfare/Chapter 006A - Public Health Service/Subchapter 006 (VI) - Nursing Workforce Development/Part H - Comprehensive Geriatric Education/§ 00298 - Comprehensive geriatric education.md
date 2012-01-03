@@ -46,7 +46,7 @@ Section 298b, act July 1, 1944, ch. 373, title VIII, §853, formerly §843, as a
 
 Section 298b–1, act July 1, 1944, ch. 373, title VIII, §854, formerly §844, as added Pub. L. 92–158, §10, Nov. 18, 1971, 85 Stat. 479; renumbered §854, Pub. L. 94–63, title IX, §941(k)(1), July 29, 1975, 89 Stat. 366, authorized advance funding for grants, contracts, or other payments.
 
-A prior section 298b–2, act July 1, 1944, ch. 373, title VIII, §855, formerly §845, as added Pub. L. 92–158, §11, Nov. 18, 1971, 85 Stat. 479; renumbered §855, Pub. L. 94–63, title IX, §941(k)(1), July 29, 1975, 89 Stat. 366, which prohibited discrimination by schools on basis of sex, was renumbered section 810 of act July 1, 1944, byPub. L. 105–392 and transferred to section 296g of this title.
+A prior section 298b–2, act July 1, 1944, ch. 373, title VIII, §855, formerly §845, as added Pub. L. 92–158, §11, Nov. 18, 1971, 85 Stat. 479; renumbered §855, Pub. L. 94–63, title IX, §941(k)(1), July 29, 1975, 89 Stat. 366, which prohibited discrimination by schools on basis of sex, was renumbered section 810 of act July 1, 1944, by Pub. L. 105–392 and transferred to section 296g of this title.
 
 Prior sections 298b–3 to 298b–5 were repealed by Pub. L. 105–392, title I, §123(1), Nov. 13, 1998, 112 Stat. 3562.
 

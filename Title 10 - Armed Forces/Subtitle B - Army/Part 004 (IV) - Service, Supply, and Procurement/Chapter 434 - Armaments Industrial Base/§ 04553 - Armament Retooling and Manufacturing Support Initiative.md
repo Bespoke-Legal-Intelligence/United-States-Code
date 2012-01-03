@@ -42,7 +42,7 @@ Availability of Facilities.—The Secretary may make any eligible facility avail
 
 (d)
 
-Consideration for Leases.—Section 1302 of title 40 shall not apply to uses of property orfacilities in accordance with the ARMS Initiative.
+Consideration for Leases.—Section 1302 of title 40 shall not apply to uses of property or facilities in accordance with the ARMS Initiative.
 
 (e)
 

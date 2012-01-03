@@ -10,7 +10,7 @@
 
 (c) The President may authorize the Panama Canal Commission to waive, at its discretion, the making of the claim required by section 8121 of this title in the case of compensation to an employee of the Panama Canal Commission for temporary disability, either total or partial.
 
-(d) When administration is transferred under subsection (a) of this section to the general manager of The Alaska Railroad, the Secretary of Labor is not divested of jurisdiction and a claimant is entitled to appeal from the decision of the general manager of The Alaska Railroad to the Secretary of Labor. The Secretary on receipt of an appeal shall, or on his own motion may, review the decision of the general manager of The Alaska Railroad, and in accordance with the facts found on review may proceed under section 8128 of this title. The Secretary shall provide the form and manner of taking an appeal.
+(d) When administration is transferred under subsection (a) of this section to the general manager of The Alaska Railroad, the Secretaryof Labor is not divested of jurisdiction and a claimant is entitled to appeal from the decision of the general manager of The Alaska Railroad to the Secretary of Labor. The Secretary on receipt of an appeal shall, or on his own motion may, review the decision of the general manager of The Alaska Railroad, and in accordance with the facts found on review may proceed under section 8128 of this title. The Secretary shall provide the form and manner of taking an appeal.
 
 (e) The same right of appeal exists with respect to claims filed by employees of the Panama Canal Commission or their dependents in case of death, as is provided with respect to the claims of other employees to whom this subchapter applies, under section 8149 of this title. The Employees’ Compensation Appeals Board referred to by section 8149 of this title has jurisdiction, under regulations prescribed by the Secretary, over appeals relating to claims of the employees or their dependents.
 
@@ -48,7 +48,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1979—Pub. L. 96–70, §3302(e)(9)(A), substituted “Panama Canal Commission” for “Canal Zone” in section catchline.
+<b>1979</b>—Pub. L. 96–70, §3302(e)(9)(A), substituted “Panama Canal Commission” for “Canal Zone” in section catchline.
 
 Subsec. (a)(1). Pub. L. 96–70, §3302(e)(9)(B), substituted “Panama Canal Commission are concerned to the Commission” for “Canal Zone Government and of the Panama Canal Company are concerned to the Governor of the Canal Zone”.
 

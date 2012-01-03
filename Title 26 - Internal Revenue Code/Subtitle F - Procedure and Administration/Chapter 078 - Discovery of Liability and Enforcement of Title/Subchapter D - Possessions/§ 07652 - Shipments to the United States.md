@@ -4,7 +4,7 @@
 
 #### (1) Rate of tax
 
-&emsp;Except as provided in section 5314, articles of merchandise of Puerto Rican manufacture coming into the United States and withdrawnfor consumption or sale shall be subject to a tax equal to the internal revenue tax imposed in the United States upon the like articles of merchandise of domestic manufacture.
+&emsp;Except as provided in section 5314, articles of merchandise of Puerto Rican manufacture coming into the United States and withdrawn for consumption or sale shall be subject to a tax equal to the internal revenue tax imposed in the United States upon the like articles of merchandise of domestic manufacture.
 
 #### (2) Payment of tax
 
@@ -144,9 +144,9 @@ Subsec. (g)(1)(A). Pub. L. 109–59, §11125(b)(22)(B), substituted “section 5
 
 <b>2002</b>—Subsec. (f)(1). Pub. L. 107–147 substituted “January 1, 2004” for “January 1, 2002”.
 
-<b>2000</b>—Subsec. (b)(3). Pub. L. 106–200, §602(b), amended generally par. (3) heading and text of par. (3) introductory provisions and subpar. (A). Prior to amendment, text of par. (3) introductory provisions and subpar. (A) read as follows: “Beginning with the calendar quarter ending September 30, 1975, and quarterly thereafter, the Secretary shall determine the amount of all taxes imposed by, and collected during the quarter under, the internal revenue laws of the United States on articles produced in the Virgin Islands and transported to the United States. The amount so determined less 1 percent and less the estimated amount of refunds or credits shall be subject to disposition as follows:
+<b>2000</b>—Subsec. (b)(3). Pub. L. 106–200, §602(b), amended generally par. (3) heading and text of par. (3) introductory provisions and subpar. (A). Prior to amendment, text of par. (3) introductory provisions and subpar. (A) read as follows: “Beginning with the calendar quarter ending September 30, 1975, and quarterly thereafter, the Secretary shall determine the amount of all taxes imposed by, and collected during the quarter under, the internal revenue laws of the United States on articlesproduced in the Virgin Islands and transported to the United States. The amount so determined less 1 percent and less the estimated amount of refunds or credits shall be subject to disposition as follows:
 
-&emsp;“(A) There shall be transferred and paid over, as soon as practicable after the close of the quarter, to the Government of the Virgin Islands from theamounts so determined a sum equal to the total amount of the revenue collected by the Government of the Virgin Islands during the quarter, as certified by the Government Comptroller of the Virgin Islands. The moneys so transferred and paid over shall constitute a separate fund in the treasury of the Virgin Islands and may be expended as the legislature may determine.”
+&emsp;“(A) There shall be transferred and paid over, as soon as practicable after the close of the quarter, to the Government of the Virgin Islands from the amounts so determined a sum equal to the total amount of the revenue collected by the Government of the Virgin Islands during the quarter, as certified by the Government Comptroller of the Virgin Islands. The moneys so transferred and paid over shall constitute a separate fund in the treasury of the Virgin Islands and may be expended as the legislature may determine.”
 
 Subsec. (h). Pub. L. 106–200, §602(c), added subsec. (h).
 
@@ -354,7 +354,7 @@ Second transfer of incremental increase in cover over attributable to periods be
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, seesection 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Payment to Puerto Rico or Virgin Islands of Amounts With Respect to Medicines, etc. Unfit for Beverage Purposes
 

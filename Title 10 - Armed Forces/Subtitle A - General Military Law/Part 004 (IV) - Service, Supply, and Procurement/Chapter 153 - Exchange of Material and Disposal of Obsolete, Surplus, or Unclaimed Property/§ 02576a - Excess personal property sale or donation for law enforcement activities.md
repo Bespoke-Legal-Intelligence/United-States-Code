@@ -18,7 +18,7 @@ Conditions for Transfer.—The Secretary of Defense may transfer personal proper
 
 &emsp;(2) the recipient accepts the property on an as-is, where-is basis;
 
-&emsp;(3) the transfer is made without the expenditure of any funds available to the Departmentof Defense for the procurement of defense equipment; and
+&emsp;(3) the transfer is made without the expenditure of any funds available to the Department of Defense for the procurement of defense equipment; and
 
 &emsp;(4) all costs incurred subsequent to the transfer of the property are borne or reimbursed by the recipient.
 
@@ -34,5 +34,5 @@ Preference for Certain Transfers.—In considering applications for the transfer
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in Pub. L. 101–189, div. A, title XII, §1208, Nov. 29, 1989, 103 Stat. 1566, as amended, which was set out as a note under section 372 of this title, prior to repeal by Pub. L. 104–201, §1033(b)(1).
+Provisions similar to those in this section were contained in Pub. L. 101–189, div. A, title XII, §1208, Nov.29, 1989, 103 Stat. 1566, as amended, which was set out as a note under section 372 of this title, prior to repeal by Pub. L. 104–201, §1033(b)(1).
 

@@ -78,13 +78,13 @@
 
 #### (5) Requirements until stock sale
 
-&emsp;Notwithstanding subsection (d) of this section, the requirements of sections 1132f–3 and 1132f–9 of this title, as such sections were in effect on the day before September 30, 1996, shall continue to be effective until the day immediately following the date of closing of thepurchase of the Secretary of Education's stock (or the date of closing of the final purchase, in the case of multiple transactions) pursuant to subsection (c)(1) of this Act.<sup>1</sup>
+&emsp;Notwithstanding subsection (d) of this section, the requirements of sections 1132f–3 and 1132f–9 of this title, as such sections were in effect on the day before September 30, 1996, shall continue to be effective until the day immediately following the date of closing of the purchase of the Secretary of Education's stock (or the date of closing of the final purchase, in the case of multiple transactions) pursuant to subsection (c)(1) of this Act.<sup>1</sup>
 
 #### (c) Sale of federally owned stock
 
 #### (1) Purchase by the Corporation
 
-&emsp;The Secretary of the Treasury shall sell and the Corporation shall purchase, within 90 days after September 30, 1996, the stock of the Corporation held by the Secretary of Education at a price determined by the binding, independent appraisal of a nationally recognized financial firm, except that the 90-day period may be extended by mutual agreement of the Secretary of the Treasury and the Corporation to not more than 150 days after September 30, 1996. The appraiser shall be jointly selected by the Secretary of the Treasury and the Corporation. In the event that the Secretary of the Treasury and the Corporation cannot agree on the appraiser, then the Secretary of the Treasury and the Corporation shall name an independent third party to select the appraiser.
+&emsp;The Secretary of the Treasury shall sell and the Corporation shall purchase, within 90 daysafter September 30, 1996, the stock of the Corporation held by the Secretary of Education at a price determined by the binding, independent appraisal of a nationally recognized financial firm, except that the 90-day period may be extended by mutual agreement of the Secretary of the Treasury and the Corporation to not more than 150 days after September 30, 1996. The appraiser shall be jointly selected by the Secretary of the Treasury and the Corporation. In the event that the Secretary of the Treasury and the Corporation cannot agree on the appraiser, then the Secretary of the Treasury and the Corporation shall name an independent third party to select the appraiser.
 
 #### (2) Reimbursement of costs and expenses of sale
 
@@ -150,7 +150,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Using the amounts described in subparagraph (A)(ii), the Mayor of the District ofColumbia shall make grants to entities to carry out the purposes described in subparagraph (E).
+&emsp;&emsp;&emsp;Using the amounts described in subparagraph (A)(ii), the Mayor of the District of Columbia shall make grants to entities to carry out the purposes described in subparagraph (E).
 
 #### (ii) Participation of schools
 
@@ -218,11 +218,11 @@ Subsec. (e)(3)(E)(i)(IV). Pub. L. 108–335, §340, as amended by Pub. L. 108–
 
 Subsec. (e)(3)(F). Pub. L. 108–7, §143(c)(2), added subpar. (F).
 
-<b>2001</b>—Subsec. (e)(2)(B). Pub. L. 107–96, par. (2), which directed amendment of section 161 of Pub. L. 106–522, by inserting “revolving” after “enhancement” in second sentence of par. (2)(B), was executed by revising theamendment by Pub. L. 106–522, §161(1), which had amended the second sentence of subsec. (e)(2)(B) of this section, to reflect the probable intent of Congress. See 2000 Amendment note below.
+<b>2001</b>—Subsec. (e)(2)(B). Pub. L. 107–96, par. (2), which directed amendment of section 161 of Pub. L. 106–522, by inserting “revolving” after “enhancement” in second sentence of par. (2)(B), was executed by revising the amendment by Pub. L. 106–522, §161(1), which had amended the second sentence of subsec. (e)(2)(B) of this section, to reflect the probable intent of Congress. See 2000 Amendment note below.
 
 Subsec. (e)(3). Pub. L. 107–96, pars. (1), (3), amended Pub. L. 106–522, §161(2). See 2000 Amendment note below.
 
-Pub. L. 107–96, par. (2), which directed amendment of section 161 of Pub. L. 106–522, by inserting “revolving” after “enhancement” in heading of par. (3) and in par. (3)(A), was executed by revising the amendment by Pub. L. 106–522, §161(2), which had added subsec. (e)(3) to this section, to reflect the probable intent of Congress. See 2000 Amendment note below.
+Pub. L. 107–96, par. (2), which directed amendment of section 161 of Pub. L. 106–522, by inserting “revolving” after “enhancement” in heading of par. (3) and in par.\(3)(A), was executed by revising the amendment by Pub. L. 106–522, §161(2), which had added subsec. (e)(3) to this section, to reflect the probable intent of Congress. See 2000 Amendment note below.
 
 Subsec. (e)(3)(C)(iv). Pub. L. 107–96, proviso, which directed amendment of the cap on administrative costs as amended by Pub. L. 106–522, §161, by substituting “5 percent” for “10 percent”, could not be executed because the words “10 percent” did not appear in this section after the amendment of Pub. L. 106–522, §161(2), by Pub. L. 107–96, par. (3). See 2000 Amendment note below.
 

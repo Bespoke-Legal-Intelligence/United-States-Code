@@ -8,7 +8,7 @@ For purposes of this chapter:
 
 &emsp;(3) The term “State” means any State of the United States, the District of Columbia, Puerto Rico, the Northern Mariana Islands, and any territory or possession of the United States.
 
-&emsp;(4) The term “telemarketing” means a plan, program, or campaign which is conducted to induce purchases of goods or services, or acharitable contribution, donation, or gift of money or any other thing of value, by use of one or more telephones and which involves more than one interstate telephone call. The term does not include the solicitation of sales through the mailing of a catalog which—
+&emsp;(4) The term “telemarketing” means a plan, program, or campaign which is conducted to induce purchases of goods or services, or a charitable contribution, donation, or gift of money or any other thing of value, by use of one or more telephones and which involves more than one interstate telephone call. The term does not include the solicitation of sales through the mailing of a catalog which—
 
 &emsp;&emsp;(A) contains a written description, or illustration of the goods or services offered for sale,
 

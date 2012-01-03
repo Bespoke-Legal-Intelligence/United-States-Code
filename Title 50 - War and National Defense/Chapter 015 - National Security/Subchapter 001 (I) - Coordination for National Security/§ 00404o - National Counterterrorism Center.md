@@ -6,7 +6,7 @@ There is within the Office of the Director of National Intelligence a National C
 
 #### (b) Director of National Counterterrorism Center
 
-(1) There is a Director of the National Counterterrorism Center, who shall be the head of the National Counterterrorism Center, and who shall be appointed by the President, by and with the advice and consent of the Senate.
+(1) There is a Director of the National Counterterrorism Center, who shall be the head of the National Counterterrorism Center, andwho shall be appointed by the President, by and with the advice and consent of the Senate.
 
 (2) The Director of the National Counterterrorism Center may not simultaneously serve in any other capacity in the executive branch.
 
@@ -44,7 +44,7 @@ The primary missions of the National Counterterrorism Center shall be as follows
 
 (1) The Center may, consistent with applicable law, the direction of the President, and the guidelines referred to in section 403–1(b) of this title, receive intelligence pertaining exclusively to domestic counterterrorism from any Federal, State, or local government or other source necessary to fulfill its responsibilities and retain and disseminate such intelligence.
 
-(2) Any agency authorized to conduct counterterrorism activities may request information from the Center to assist it in its responsibilities, consistent with applicable law and theguidelines referred to in section 403–1(b) of this title.
+(2) Any agency authorized to conduct counterterrorism activities may request information from the Center to assist it in its responsibilities, consistent with applicable law and the guidelines referred to in section 403–1(b) of this title.
 
 #### (f) Duties and responsibilities of Director
 
@@ -106,5 +106,5 @@ Pub. L. 108–458, title VII, §7201(b), Dec. 17, 2004, 118 Stat. 3809, directed
 
 #### Executive Order No. 13354
 
-Ex. Ord. No. 13354, Aug. 27, 2004, 69 F.R. 53589, which established a National Counterterrorism Center, wasrevoked by Ex. Ord. No. 12333, §3.6, Dec. 4, 1981, 46 F.R. 59954, as amended by Ex. Ord. No. 13470, §4(j), July 30, 2008, 73 F.R. 45341, set out as a note under section 401 of this title.
+Ex. Ord. No. 13354, Aug. 27, 2004, 69 F.R. 53589, which established a National Counterterrorism Center, was revoked by Ex. Ord. No. 12333, §3.6, Dec. 4, 1981, 46 F.R. 59954, as amended by Ex. Ord. No. 13470, §4(j), July 30, 2008, 73 F.R. 45341, set out as a note under section 401 of this title.
 

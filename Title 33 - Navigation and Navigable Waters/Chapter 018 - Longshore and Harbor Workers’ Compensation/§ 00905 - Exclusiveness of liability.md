@@ -10,7 +10,7 @@ In the event of injury to a person covered under this chapter caused by the negl
 
 #### (c) Outer Continental Shelf
 
-In the event that the negligence of a vessel causes injury to a person entitled to receive benefits under this Act by virtue of section 1333 of title 43, then such person, or anyone otherwise entitled to recover damages by reason thereof, may bring an action against such vessel in accordance with the provisions of subsection (b) of this section. Nothing contained in subsection (b) of this section shall preclude the enforcement according to its terms of any reciprocal indemnity provision whereby the employer of a person entitled to receive benefits under this chapter by virtue of section 1333 of title 43 and the vessel agree to defend and indemnify the other for cost of defense and loss or liability for damages arising out of or resulting from death or bodily injury to their employees.
+In the event that the negligence of a vessel causes injury to a person entitled to receive benefits under this Act by virtue of section 1333 of title 43, then such person, or anyone otherwise entitled to recover damages by reason thereof, may bring an action against such vessel in accordance with the provisions of subsection (b) of this section. Nothing contained in subsection (b)of this section shall preclude the enforcement according to its terms of any reciprocal indemnity provision whereby the employer of a person entitled to receive benefits under this chapter by virtue of section 1333 of title 43 and the vessel agree to defend and indemnify the other for cost of defense and loss or liability for damages arising out of or resulting from death or bodily injury to their employees.
 
 (Mar. 4, 1927, ch. 509, §5, 44 Stat. 1426; Pub. L. 92–576, §18(a), Oct. 27, 1972, 86 Stat. 1263; Pub. L. 98–426, §§4(b), 5(a)(1), (b), Sept. 28, 1984, 98 Stat. 1641.)
 
@@ -26,7 +26,7 @@ Subsec. (c). Pub. L. 98–426, §5(b), added subsec. (c).
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 4(b) of Pub. L. 98–426 effective Sept. 28, 1984, and applicable both with respect toclaims filed after Sept. 28, 1984, and to claims pending on that date, and amendment by section 5(a)(1), (b) of Pub. L. 98–426 applicable with respect to any injury after Sept. 28, 1984, see section 28(a), (c) of Pub. L. 98–426, set out as a note under section 901 of this title.
+Amendment by section 4(b) of Pub. L. 98–426 effective Sept. 28, 1984, and applicable both with respect to claims filed after Sept. 28, 1984, and to claims pending on that date, and amendment by section 5(a)(1), (b) of Pub. L. 98–426 applicable with respect to any injury after Sept. 28, 1984, see section 28(a), (c) of Pub. L. 98–426, set out as a note under section 901 of this title.
 
 #### Effective Date of 1972 Amendment
 

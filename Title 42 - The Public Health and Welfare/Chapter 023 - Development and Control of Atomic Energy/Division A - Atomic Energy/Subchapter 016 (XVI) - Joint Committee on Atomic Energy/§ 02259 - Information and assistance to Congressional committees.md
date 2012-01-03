@@ -10,7 +10,7 @@ The Department of Defense and Department of State shall keep the committees of t
 
 #### (c) Government agencies
 
-Any Government agency shall furnish any information requested by the committees of the Senate and the House of Representatives which, under the rules of the Senate and the House, have jurisdiction over the development, utilization, or application of nuclear energy, with respect to the activities or responsibilities of suchagency in the field of nuclear energy which are within the jurisdiction of such committees.
+Any Government agency shall furnish any information requested by the committees of the Senate and the House of Representatives which, under the rules of the Senate and the House, have jurisdiction over the development, utilization, or application of nuclear energy, with respect to the activities or responsibilities of such agency in the field of nuclear energy which are within the jurisdiction of such committees.
 
 #### (d) Utilization of services, facilities, and personnel of Government agencies; reimbursement; prior written consent
 
@@ -28,5 +28,5 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 #### Transfer of Functions
 
-For transfer of certain functions from Nuclear Regulatory Commission to Chairman thereof, see Reorg. Plan No. 1 of 1980, 45 F.R. 40561, 94 Stat. 3585, set out as a note under section 5841 of this title.
+For transfer of certain functions from Nuclear Regulatory Commission to Chairman thereof, see Reorg.Plan No. 1 of 1980, 45 F.R. 40561, 94 Stat. 3585, set out as a note under section 5841 of this title.
 

@@ -22,7 +22,7 @@ A tobacco tax administrator or chief law enforcement officer who receives a memo
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–154, §2(b)(1), (2)(A), inserted heading and, in introductory provisions, substituted “cigarettes or smokeless tobacco” for “cigarettes” wherever appearing, “, transfers, or ships” for“or transfers”, and “, transfer, or shipment” for “or transfer and shipment”, inserted “, locality, or Indian country of an Indian tribe” after “a State”, and struck out “to other than a distributor licensed by or located in such State,” after “use of cigarettes or smokeless tobacco,”.
+<b>2010</b>—Subsec. (a). Pub. L. 111–154, §2(b)(1), (2)(A), inserted heading and, in introductory provisions, substituted “cigarettes or smokeless tobacco” for “cigarettes” wherever appearing, “, transfers, or ships” for “or transfers”, and “, transfer, or shipment” for “or transfer and shipment”, inserted “, locality, or Indian country of an Indian tribe” after “a State”, and struck out “to other than a distributor licensed by or located in such State,” after “use of cigarettes or smokeless tobacco,”.
 
 Subsec. (a)(1). Pub. L. 111–154, §2(b)(2)(B), substituted “with the Attorney General of the United States and with the tobacco tax administrators of the State and place” for “with the tobacco tax administrator of the State” and “, as well as telephone numbers for each place of business, a principal electronic mail address, any website addresses, and the name, address, and telephone number of an agent in the State authorized to accept service on behalf of the person;” for “; and”.
 
@@ -50,7 +50,5 @@ Act Aug. 9, 1955, ch. 695, §2, 69 Stat. 628, provided that:
 
 “(b) The provisions of section 2(a) of the Act of October 19, 1949, as amended by this Act \[15 U.S.C. 376(a)\], insofar as it requires the filing of memoranda or copies of invoices with the appropriate tax administrator for shipments of cigarettes into the District of Columbia, Alaska, Hawaii, and the Commonwealth of Puerto Rico, shall apply in respect of memoranda or copies of invoices covering shipments made during calendar months beginning after the month in which this Act is enacted \[August 1955\].”
 
-#### Effective Date of 1953 Amendment
-
-Section 201(b) of act Aug. 15, 1953, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply only in respect of memoranda or copies of invoices covering shipments made during the calendar month in which this Act is enacted \[August 1953\] and subsequent calendar months.”
+#### Effective Date of 1953 AmendmentAct Aug. 15, 1953, ch. 512, title II, §201(b), 67 Stat. 617, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply only in respect of memoranda or copies of invoices covering shipments made during the calendar month in which this Act is enacted \[August 1953\] and subsequent calendar months.”
 

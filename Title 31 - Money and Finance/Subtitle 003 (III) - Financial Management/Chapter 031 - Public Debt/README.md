@@ -5,6 +5,7 @@
 | Sec. |  |
 | :--- | ---: |
 | [3101\.](Subchapter%20001%20%28I%29%20-%20Borrowing%20Authority/%C2%A7%2003101%20-%20Public%20debt%20limit.md) | Public debt limit. |
+| [3101A.](Subchapter%20001%20%28I%29%20-%20Borrowing%20Authority/%C2%A7%2003101A%20-%20Presidential%20modification%20of%20the%20debt%20ceiling.md) | Presidential modification of the debt ceiling. |
 | [3102\.](Subchapter%20001%20%28I%29%20-%20Borrowing%20Authority/%C2%A7%2003102%20-%20Bonds.md) | Bonds. |
 | [3103\.](Subchapter%20001%20%28I%29%20-%20Borrowing%20Authority/%C2%A7%2003103%20-%20Notes.md) | Notes. |
 | [3104\.](Subchapter%20001%20%28I%29%20-%20Borrowing%20Authority/%C2%A7%2003104%20-%20Certificates%20of%20indebtedness%20and%20Treasury%20bills.md) | Certificates of indebtedness and Treasury bills. |
@@ -38,6 +39,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2011</b>—Pub. L. 112–25, title III, §301(b), Aug. 2, 2011, 125 Stat. 255, added item 3101A.
 
 <b>1993</b>—Pub. L. 103–202, title II, §201(b), Dec. 17, 1993, 107 Stat. 2356, added item 3130.
 

@@ -26,7 +26,7 @@ To make a finding under subsection (a)(2) of this section that a country is a fo
 
 #### (c) Priority
 
-In determining whether and to what extent agricultural commodities shall be made availableto least developed countries under this subchapter, the Administrator shall give priority to countries that—
+In determining whether and to what extent agricultural commodities shall be made available to least developed countries under this subchapter, the Administrator shall give priority to countries that—
 
 &emsp;(1) demonstrate the greatest need for food;
 
@@ -44,13 +44,13 @@ A prior section 302 of act July 10, 1954, ch. 469, title III, 68 Stat. 458, whic
 
 #### Amendments
 
-1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions setting out criteria for eligibility of developing countries for distribution of commodities, minimum aggregate value of agreements for such distribution, waiver of minimum, and participatory requirements.
+<b>1990</b>—Pub. L. 101–624 amended section generally, substituting present provisions for provisions setting out criteria for eligibility of developing countries for distribution of commodities, minimum aggregate value of agreements for such distribution, waiver of minimum, and participatory requirements.
 
-1985—Subsec. (c)(1)(C). Pub. L. 99–198 substituted “10” for “15” percent.
+<b>1985</b>—Subsec. (c)(1)(C). Pub. L. 99–198 substituted “10” for “15” percent.
 
 Subsec. (c)(4). Pub. L. 99–83 inserted “and of United States nonprofit voluntary agencies and cooperatives”.
 
-1979—Subsec. (c)(4). Pub. L. 96–53 added par. (4).
+<b>1979</b>—Subsec. (c)(4). Pub. L. 96–53 added par. (4).
 
 #### Effective Date of 1990 Amendment
 

@@ -64,7 +64,7 @@ A prior section 12553, Pub. L. 101–610, title I, §133, Nov. 16, 1990, 104 Sta
 
 A prior section 12554, Pub. L. 101–610, title I, §134, Nov. 16, 1990, 104 Stat. 3148, which related to joint programs, was successively renumbered section 199N, then 199L, of Pub. L. 101–610 by Pub. L. 103–82, §101(a), (e)(8)(B), and transferred to section 12655m of this title.
 
-A prior section 12555, Pub. L. 101–610, title I, §135, Nov. 16, 1990, 104 Stat. 3149, which related to Federal and State employee status, was successively renumbered section 199O, then 199M, of Pub. L. 101–610 by Pub. L. 103–82, §101(a), (e)(8)(B), and transferred to section 12655n of this title.
+A prior section 12555, Pub. L. 101–610, title I, §135, Nov. 16, 1990, 104 Stat. 3149, which related to Federal and State employee status, was successively renumbered section 199O, then 199M, of Pub. L. 101–610 by Pub.L. 103–82, §101(a), (e)(8)(B), and transferred to section 12655n of this title.
 
 A prior section 12556, Pub. L. 101–610, title I, §136, Nov. 16, 1990, 104 Stat. 3150, directed Commission on National and Community Service to promulgate regulations implementing American Conservation Youth Corps program and established procedures for promulgation, prior to repeal by Pub. L. 102–10, §5(7), Mar. 12, 1991, 105 Stat. 31.
 

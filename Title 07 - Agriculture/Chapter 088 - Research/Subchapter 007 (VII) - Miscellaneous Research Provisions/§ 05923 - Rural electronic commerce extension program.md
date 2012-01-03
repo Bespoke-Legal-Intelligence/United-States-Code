@@ -100,7 +100,7 @@ A prior section 5923, Pub. L. 101–624, title XVI, §1670, Nov. 28, 1990, 104 S
 
 #### Amendments
 
-2008—Subsec. (a)(4). Pub. L. 110–246, §7511(c)(22), substituted “Director of the National Institute of Food and Agriculture” for “Administrator of the Cooperative State Research, Education, and Extension Service”.
+<b>2008</b>—Subsec. (a)(4). Pub. L. 110–246, §7511(c)(22), substituted “Director of the National Institute of Food and Agriculture” for “Administrator of the Cooperative State Research, Education, and Extension Service”.
 
 #### Effective Date of 2008 Amendment
 

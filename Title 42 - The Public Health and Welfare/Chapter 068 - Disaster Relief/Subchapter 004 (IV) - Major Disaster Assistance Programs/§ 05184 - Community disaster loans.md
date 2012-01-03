@@ -28,13 +28,13 @@ Any loans made under this section shall not reduce or otherwise affect any grant
 
 (Pub. L. 93–288, title IV, §417, formerly §414(a), (b), May 22, 1974, 88 Stat. 158; renumbered §417, Pub. L. 100–707, title I, §106(j), Nov. 23, 1988, 102 Stat. 4705; Pub. L. 106–390, title II, §207, Oct. 30, 2000, 114 Stat. 1571; Pub. L. 109–347, title VI, §608, Oct. 13, 2006, 120 Stat. 1942.)
 
-#### Codification
-
-Prior to renumbering as section 417, section 414 of Pub. L. 93–288 contained a subsec. (c) which was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1082.
-
 #### References in Text
 
 This chapter, referred to in subsec. (d), was in the original “this Act”, meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
+
+#### Codification
+
+Prior to renumbering as section 417, section 414 of Pub. L. 93–288 contained a subsec. (c) which was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1082.
 
 #### Prior Provisions
 

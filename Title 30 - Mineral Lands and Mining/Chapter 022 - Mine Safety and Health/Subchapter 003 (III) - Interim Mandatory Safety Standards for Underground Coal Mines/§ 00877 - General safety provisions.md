@@ -10,7 +10,7 @@ Whenever any working place approaches within fifty feet of abandoned areas in th
 
 #### (c) Prohibition against smoking; implementation programs
 
-No person shall smoke, carry smoking materials, matches, or lighters underground, or smoke in or around oil houses, explosives magazines, or other surface areas where such practice may cause a fire or explosion. The operator shall institute a program, approved by the Secretary, to insure that any person entering the underground area of the mine does not carry smoking materials, matches, or lighters.
+No person shall smoke, carry smoking materials, matches, or lighters underground, or smoke in or around oil houses, explosives magazines, or other surface areas where such practice may cause a fire or explosion. The operator shall institute a program, approved by the Secretary,to insure that any person entering the underground area of the mine does not carry smoking materials, matches, or lighters.
 
 #### (d) Portable electric lamps; exceptions
 
@@ -22,7 +22,7 @@ Within nine months after the operative date of this subchapter, the Secretary sh
 
 #### (f) Escapeways; ventilation; maintenance; tests of passageways; protection of entrance; connection between mine openings
 
-(1) Except as provided in paragraphs (2) and (3) of this subsection, at least two separate and distinct travelable passageways which are maintained to insure passage at all times of any person, including disabled persons, and which are to be designated as escapeways, at least one of which is ventilated with intake air, shall be provided from each working section continuous to the surface escape drift opening, or continuous to the escape shaft or slope facilities to the surface, as appropriate, and shall be maintained insafe condition and properly marked. Mine openings shall be adequately protected to prevent the entrance into the underground area of the mine of surface fires, fumes, smoke, and flood water. Escape facilities approved by the Secretary or his authorized representative, properly maintained and frequently tested, shall be present at or in each escape shaft or slope to allow all persons, including disabled persons, to escape quickly to the surface in the event of an emergency.
+(1) Except as provided in paragraphs (2) and (3) of this subsection, at least two separate and distinct travelable passageways which are maintained to insure passage at all times of any person, including disabled persons, and which are to be designated as escapeways, at least one of which is ventilated with intake air, shall be provided from each working section continuous to the surface escape drift opening, or continuous to the escape shaft or slope facilities to the surface, as appropriate, and shall be maintained in safe condition and properly marked. Mine openings shall be adequately protected to prevent the entrance into the underground area of the mine of surface fires, fumes, smoke, and flood water. Escape facilities approved by the Secretary or his authorized representative, properly maintained and frequently tested, shall be present at or in each escape shaft or slope to allow all persons, including disabled persons, to escape quickly to the surface in the event of an emergency.
 
 (2) When new coal mines are opened, not more than twenty miners shall be allowed at any one time in any mine until a connection has been made between the two mine openings, and such connections shall be made as soon as possible.
 

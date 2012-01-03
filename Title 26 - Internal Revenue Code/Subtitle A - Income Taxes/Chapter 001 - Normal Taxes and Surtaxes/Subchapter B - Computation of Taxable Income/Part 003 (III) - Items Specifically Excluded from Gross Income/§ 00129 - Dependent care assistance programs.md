@@ -40,7 +40,7 @@
 
 #### (c) Payments to related individuals
 
-No amount paid or incurred during the taxable year of an employee by an employer in providing dependent care assistance to such employee shall be excluded under subsection (a) if such amount was paid or incurred to an individual—
+No amount paid or incurred during the taxable year of an employee by an employer in providing dependent care assistance to such employeeshall be excluded under subsection (a) if such amount was paid or incurred to an individual—
 
 &emsp;(1) with respect to whom, for such taxable year, a deduction is allowable under section 151(c) (relating to personal exemptions for dependents) to such employee or the spouse of such employee, or
 
@@ -50,7 +50,7 @@ No amount paid or incurred during the taxable year of an employee by an employer
 
 #### (1) In general
 
-&emsp;For purposes of this section a dependent care assistance program is a separate writtenplan of an employer for the exclusive benefit of his employees to provide such employees with dependent care assistance which meets the requirements of paragraphs (2) through (8) of this subsection. If any plan would qualify as a dependent care assistance program but for a failure to meet the requirements of this subsection, then, notwithstanding such failure, such plan shall be treated as a dependent care assistance program in the case of employees who are not highly compensated employees.
+&emsp;For purposes of this section a dependent care assistance program is a separate written plan of an employer for the exclusive benefit of his employees to provide such employees with dependent care assistance which meets the requirements of paragraphs (2) through (8) of this subsection. If any plan would qualify as a dependent care assistance program but for a failure to meet the requirements of this subsection, then, notwithstanding such failure, such plan shall be treated as a dependent care assistance program in the case of employees who are not highly compensated employees.
 
 #### (2) Discrimination
 
@@ -118,7 +118,7 @@ For purposes of this section—
 
 #### (A) Ownership of stock
 
-&emsp;&emsp;Ownership of stock in a corporation shall be determined in accordance with the rules provided under subsections (d) and (e) of section 1563 (without regard to section 1563(e)(3)(C)).
+&emsp;&emsp;Ownership of stock in a corporation shall be determined in accordance with the rulesprovided under subsections (d) and (e) of section 1563 (without regard to section 1563(e)(3)(C)).
 
 #### (B) Interest in unincorporated trade or business
 
@@ -126,7 +126,7 @@ For purposes of this section—
 
 #### (6) Utilization test not applicable
 
-&emsp;A dependent care assistance program shall not be held or considered to fail to meet anyrequirements of subsection (d) (other than paragraphs (4) and (8) thereof) merely because of utilization rates for the different types of assistance made available under the program.
+&emsp;A dependent care assistance program shall not be held or considered to fail to meet any requirements of subsection (d) (other than paragraphs (4) and (8) thereof) merely because of utilization rates for the different types of assistance made available under the program.
 
 #### (7) Disallowance of excluded amounts as credit or deduction
 
@@ -276,7 +276,7 @@ Section 204(d)(1), (2) of Pub. L. 101–140 provided that:
 
 #### Effective Date of 1988 Amendments
 
-Amendment by section 1011B(a)(14), (15), (18), (30), (31)(A), (c)(1) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by section 1011B(a)(14), (15), (18), (30), (31)(A), (c)(1) of Pub. L. 100–647 effective, except asotherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 Section 1011B(c)(2)(C) of Pub. L. 100–647 provided that:
 
@@ -284,7 +284,7 @@ Section 1011B(c)(2)(C) of Pub. L. 100–647 provided that:
 
 “(ii) A taxpayer may elect to have the amendment made by subparagraph (A) \[amending this section\] apply to taxable years beginning in 1987.
 
-“(iii) In the case of a taxpayer not making an election under clause (ii), any dependent care assistance provided in a taxable year beginning in 1987 with respect to which reimbursement was not received in suchtaxable year shall be treated as provided in the taxpayer's first taxable year beginning after December 31, 1987.”
+“(iii) In the case of a taxpayer not making an election under clause (ii), any dependent care assistance provided in a taxable year beginning in 1987 with respect to which reimbursement was not received in such taxable year shall be treated as provided in the taxpayer's first taxable year beginning after December 31, 1987.”
 
 Section 3021(d) of Pub. L. 100–647 provided that:
 

@@ -80,7 +80,7 @@ Any—
 
 The records required by subsections (a) and (b) of this section shall be kept for such periods of time as the Secretary shall prescribe; except that—
 
-&emsp;(1) no period of time for the retention of the records required under subsection (a) or (b)(3)of this section may exceed 5 years from the date of entry, filing of a reconciliation, or exportation, as appropriate;
+&emsp;(1) no period of time for the retention of the records required under subsection (a) or (b)(3) of this section may exceed 5 years from the date of entry, filing of a reconciliation, or exportation, as appropriate;
 
 &emsp;(2) the period of time for the retention of the records required under subsection (b)(2) of this section shall be at least 5 years from the date of signature of the NAFTA Certificate of Origin; and
 
@@ -174,7 +174,7 @@ For the purposes of this section and section 1509 of this title, a person orderi
 
 #### (A) Records and supporting documents
 
-&emsp;&emsp;The term “records and supporting documents” means, with respect to an exportedgood under paragraph (2), records and documents related to the origin of the good, including—
+&emsp;&emsp;The term “records and supporting documents” means, with respect to an exported good under paragraph (2), records and documents related to the origin of the good, including—
 
 &emsp;&emsp;&emsp;(i) the purchase, cost, and value of, and payment for, the good;
 
@@ -194,17 +194,107 @@ For the purposes of this section and section 1509 of this title, a person orderi
 
 &emsp;The person who issues a PTPA certification of origin shall keep the records and supporting documents relating to that certification of origin for a period of at least 5 years after the date on which the certification is issued.
 
-#### (i) Penalties
+#### (i) Certifications of origin for goods exported under the United States–Korea Free Trade Agreement
 
-Any person who fails to retain records and supporting documents required by subsection (f), (g), or (h) of this section or the regulations issued to implement any such subsection shall be liable for the greater of—
+#### (1) Definitions
+
+&emsp;In this subsection:
+
+#### (A) Records and supporting documents
+
+&emsp;&emsp;The term “records and supporting documents” means, with respect to an exported good under paragraph (2), records and documents related to the origin of the good, including—
+
+&emsp;&emsp;&emsp;(i) the purchase, cost, and value of, and payment for, the good;
+
+&emsp;&emsp;&emsp;(ii) the purchase, cost, and value of, and payment for, all materials, including indirect materials, used in the production of the good; and
+
+&emsp;&emsp;&emsp;(iii) the production of the good in the form in which it was exported.
+
+#### (B) KFTA certification of origin
+
+&emsp;&emsp;The term “KFTA certification of origin” means the certification established under article 6.15 of the United States–Korea Free Trade Agreement that a good qualifies as an originating good under such Agreement.
+
+#### (2) Exports to Korea
+
+&emsp;Any person who completes and issues a KFTA certification of origin for a good exported from the United States shall make, keep, and, pursuant to rules and regulations promulgated by the Secretary of the Treasury, render for examination and inspection all records and supporting documents related to the origin of the good (including the certification or copies thereof).
+
+#### (3) Retention period
+
+&emsp;The person who issues a KFTA certification of origin shall keep the records and supporting documents relating to that certification of origin for a period of at least 5 years after the date on which the certification is issued.
+
+#### (j) Certifications of origin for goods exported under the United States–Colombia Trade Promotion Agreement
+
+#### (1) Definitions
+
+&emsp;In this subsection:
+
+#### (A) Records and supporting documents
+
+&emsp;&emsp;The term “records and supporting documents” means, with respect to an exported good under paragraph (2), records and documents related to the origin of the good, including—
+
+&emsp;&emsp;&emsp;(i) the purchase, cost, and value of, and payment for, the good;
+
+&emsp;&emsp;&emsp;(ii) the purchase, cost, and value of, and payment for, all materials, including indirect materials, used in the production of the good; and
+
+&emsp;&emsp;&emsp;(iii) the production of the good in the form in which it was exported.
+
+#### (B) CTPA certification of origin
+
+&emsp;&emsp;The term “CTPA certification of origin” means the certification established under article 4.15 of the United States–Colombia Trade Promotion Agreement that a good qualifies as an originating good under such Agreement.
+
+#### (2) Exports to Colombia
+
+&emsp;Any person who completes and issues a CTPA certification of origin for a good exported from the United States shall make, keep, and, pursuant to rules and regulations promulgated by the Secretary of the Treasury, render for examination and inspection all records and supporting documents related to the origin of the good (including the certification or copies thereof).
+
+#### (3) Retention period
+
+&emsp;The person who issues a CTPA certification of origin shall keep the records and supporting documents relating to that certification of origin for a period of at least 5 years after the date on which the certification is issued.
+
+#### (k) Certifications of origin for goods exported under the United States–Panama Trade Promotion Agreement
+
+#### (1) Definitions
+
+&emsp;In this subsection:
+
+#### (A) Records and supporting documents
+
+&emsp;&emsp;The term “records and supporting documents” means, with respect to an exported good under paragraph (2), records and documents related to the origin of the good, including—
+
+&emsp;&emsp;&emsp;(i) the purchase, cost, and value of, and payment for, the good;
+
+&emsp;&emsp;&emsp;(ii) the purchase, cost, and value of, and payment for, all materials, including indirect materials, used in the production of the good; and
+
+&emsp;&emsp;&emsp;(iii) the production of the good in the form in which it was exported.
+
+#### (B) Panama TPA certification of origin
+
+&emsp;&emsp;The term “Panama TPA certification of origin” means the certification established under article 4.15 of the United States–Panama Trade Promotion Agreement that a good qualifies as an originating good under such Agreement.
+
+#### (2) Exports to Panama
+
+&emsp;Any person who completes and issues a Panama TPA certification of origin for a good exported from the United States shall make, keep, and, pursuant to rules and regulations promulgated by the Secretary of the Treasury, render for examination and inspection all records and supporting documents related to the origin of the good (including the certification or copies thereof).
+
+#### (3) Retention period
+
+&emsp;The person who issues a Panama TPA certification of origin shall keep the records and supporting documents relating to that certification of origin for a period of at least 5 years after the date on which the certification is issued.
+
+#### (<i>l</i>) Penalties
+
+Any person who fails to retain records and supporting documents required by subsection (f), (g), (h), (i), (j), or (k) of this section or the regulations issued to implement any such subsection shall be liable for the greater of—
 
 &emsp;(1) a civil penalty not to exceed $10,000; or
 
 &emsp;(2) the general record keeping penalty that applies under the customs laws of the United States.
 
-(June 17, 1930, ch. 497, title IV, §508, as added Pub. L. 95–410, title I, §104, Oct. 3, 1978, 92 Stat. 889; amended Pub. L. 100–449, title II, §205(b), Sept. 28, 1988, 102 Stat. 1864; Pub. L. 103–182, title II, §205(a), title VI, §614, Dec. 8, 1993, 107 Stat. 2093, 2174; Pub. L. 104–295, §3(a)(6)(B), Oct. 11, 1996, 110 Stat. 3515; Pub. L. 108–77, title II, §§207, 209, Sept. 3, 2003, 117 Stat. 931, 933; Pub. L. 109–53, title II, §208, Aug. 2, 2005, 119 Stat. 485; Pub. L. 110–138, title II, §207, Dec. 14, 2007, 121 Stat. 1476.)
+(June 17, 1930, ch. 497, title IV, §508, as added Pub. L. 95–410, title I, §104, Oct. 3, 1978, 92 Stat. 889; amended Pub. L. 100–449, title II, §205(b), Sept. 28, 1988, 102 Stat. 1864; Pub. L. 103–182, title II, §205(a), title VI, §614, Dec. 8, 1993, 107 Stat. 2093, 2174; Pub. L. 104–295, §3(a)(6)(B), Oct. 11, 1996, 110 Stat. 3515; Pub. L. 108–77, title II, §§207, 209, Sept. 3, 2003, 117 Stat. 931, 933; Pub. L. 109–53, title II, §208, Aug. 2, 2005, 119 Stat. 485; Pub. L. 110–138, title II, §207, Dec. 14, 2007, 121 Stat. 1476; Pub. L. 112–41, title II, §206, Oct. 21, 2011, 125 Stat. 449; Pub. L. 112–42, title II, §207, Oct. 21, 2011, 125 Stat. 484; Pub. L. 112–43, title II, §207, Oct. 21, 2011, 125 Stat. 520.)
 
 #### Amendment of Section
+
+<i>For termination of amendment by section 107(c) of Pub. L. 112–43, see Effective and Termination Dates of 2011 Amendment note below.</i>
+
+<i>For termination of amendment by section 107(c) of Pub. L. 112–42, see Effective and Termination Dates of 2011 Amendment note below.</i>
+
+<i>For termination of amendment by section 107(c) of Pub. L. 112–41, see Effective and Termination Dates of 2011 Amendment note below.</i>
 
 <i>For termination of amendment by section 107(c) of Pub. L. 110–138, see Effective and Termination Dates of 2007 Amendment note below.</i>
 
@@ -217,6 +307,18 @@ Any person who fails to retain records and supporting documents required by subs
 A prior section 1508, acts June 17, 1930, ch. 497, title IV, §508, 46 Stat. 732; Aug. 8, 1953, ch. 397, §19, 67 Stat. 518, related to commingling of goods, prior to repeal by Pub. L. 87–456, title III, §301(a), May 24, 1962, 76 Stat. 75, effective, pursuant to section 501(a) of Pub. L. 87–456, with respect to articles entered, or withdrawn from warehouse, for consumption on or after Aug. 31, 1963.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (i). Pub. L. 112–41, §§107(c), 206(2), temporarily added subsec. (i). Former subsec. (i) redesignated (j). See Effective and Termination Dates of 2011 Amendment note below.
+
+Subsec. (j). Pub. L. 112–42, §§107(c), 207(2), temporarily added subsec. (j). Former subsec. (j) redesignated (k). See Effective and Termination Dates of 2011 Amendment note below.
+
+Pub. L. 112–41, §§107(c), 206(1), (3), temporarily redesignated subsec. (i) as (j) and, in introductory provisions, substituted “(g), (h), or (i)” for “(g), or (h)”. See Effective and Termination Dates of 2011 Amendment note below.
+
+Subsec. (k). Pub. L. 112–43, §§107(c), 207(2), temporarily added subsec. (k). Former subsec. (k) redesignated (<i>l</i>). See Effective and Termination Dates of 2011 Amendment note below.
+
+Pub. L. 112–42, §§107(c), 207(1), (3), temporarily redesignated former subsec. (j) as (k) and, in introductory provisions, substituted “(h), (i), or (j)” for “(h), or (i)”. See Effective and Termination Dates of 2011 Amendment note below.
+
+Subsec. (<i>l</i>). Pub. L. 112–43, §§107(c), 207(1), (3), temporarily redesignated subsec. (k) as (<i>l</i>), and, in introductory provisions, substituted “(i), (j), or (k)” for “(i), or (j)”. See Effective and Termination Dates of 2011 Amendment note below.
 
 <b>2007</b>—Subsec. (h). Pub. L. 110–138, §§107(c), 207(2), temporarily added subsec. (h). Former subsec. (h) redesignated (i). See Effective and Termination Dates of 2007 Amendment note below.
 
@@ -249,6 +351,14 @@ Pub. L. 103–182, §614(2), amended subsec. (c) generally. Prior to amendment, 
 Subsec. (e). Pub. L. 103–182, §205(a)(3), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Any person who fails to retain records required by subsection (b) of this section or the regulations issued to implement that subsection shall be liable to a civil penalty not to exceed $10,000.”
 
 <b>1988</b>—Subsecs. (b) to (e). Pub. L. 100–449 added subsec. (b), redesignated former subsec. (b) as (c) and inserted “and (b)” after “subsection (a)”, redesignated former subsec. (c) as (d), and added subsec. (e).
+
+#### Effective and Termination Dates of 2011 Amendment
+
+Amendment by Pub. L. 112–43 effective Oct. 21, 2011, applicable with respect to Panama on the date the United States–Panama Trade Promotion Agreement enters into force, and to cease to be effective on the date the Agreement terminates, see section 107(b), (c) of Pub. L. 112–43, set out in a note under section 3805 of this title.
+
+Amendment by Pub. L. 112–42 effective Oct. 21, 2011, applicable with respect to Colombia on the date the United States–Columbia Trade Promotion Agreement enters into force, and to cease to be effective on the date the Agreement terminates, see section 107(b), (c) of Pub. L. 112–42, set out in a note under section 3805 of this title.
+
+Amendment by Pub. L. 112–41 effective Oct. 21, 2011, applicable with respect to Korea on the date the United States–Korea Free Trade Agreement enters into force (Mar. 15, 2012), and to cease to be effective on the date the Agreement terminates, see section 107(b), (c) of Pub. L. 112–41, set out in a note under section 3805 of this title.
 
 #### Effective and Termination Dates of 2007 Amendment
 

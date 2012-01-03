@@ -4,7 +4,7 @@
 
 The Secretary shall, from the amount appropriated under section 9903(a) of this title for each fiscal year that remains after the Secretary makes the reservations required in section 9903(b) of this title, allot to each State (subject to section 9911 of this title) an amount that bears the same ratio to such remaining amount as the amount received by the State for fiscal year 1981 under section 2808 <sup>1</sup> of this title bore to the total amount received by all States for fiscal year 1981 under such section, except—
 
-&emsp;(1) that no State shall receive less than ¼ of 1 percent of the amount appropriated undersection 9903(a) of this title for such fiscal year; and
+&emsp;(1) that no State shall receive less than ¼ of 1 percent of the amount appropriated under section 9903(a) of this title for such fiscal year; and
 
 &emsp;(2) as provided in subsection (b) of this section.
 

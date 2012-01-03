@@ -26,7 +26,7 @@ Section was not enacted as part of the Immigration and Nationality Act which com
 
 #### Amendments
 
-1981—Pub. L. 97–116 substituted “Section 1401(g)” for “Section 1401(a)(7)”.
+<b>1981</b>—Pub. L. 97–116 substituted “Section 1401(g)” for “Section 1401(a)(7)”.
 
 #### Effective Date of 1981 Amendment
 

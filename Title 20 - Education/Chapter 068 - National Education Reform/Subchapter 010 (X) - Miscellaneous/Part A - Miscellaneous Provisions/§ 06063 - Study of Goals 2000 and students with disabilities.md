@@ -16,7 +16,7 @@ The study conducted under subsection (a) of this section shall include—
 
 &emsp;(1) an evaluation of the National Education Goals and objectives, curriculum reforms, standards, and other programs and activities intended to achieve those goals;
 
-&emsp;(2) a review of the adequacy of assessments and measures used to gauge progress towardsmeeting National Education Goals and any national and State standards, and an examination of other methods or accommodations necessary or desirable to collect data on the educational progress of children with disabilities, and the costs of such methods and accommodations;
+&emsp;(2) a review of the adequacy of assessments and measures used to gauge progress towards meeting National Education Goals and any national and State standards, and an examination of other methods or accommodations necessary or desirable to collect data on the educational progress of children with disabilities, and the costs of such methods and accommodations;
 
 &emsp;(3) an examination of what incentives or assistance might be provided to States to develop improvement plans that adequately address the needs of children with disabilities;
 

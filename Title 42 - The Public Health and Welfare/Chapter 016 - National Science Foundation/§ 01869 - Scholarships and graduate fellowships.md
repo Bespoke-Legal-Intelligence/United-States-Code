@@ -42,7 +42,7 @@ Finding.—The Congress finds that—
 
 “(b)
 
-Equal Treatment of IGERT and GRF.—Beginning in fiscal year 2011, the Director shall increase or, if necessary, decrease funding for the Foundation's Integrative Graduate Education and Research Traineeship program (or any program by which it is replaced) at least at the same rate as it increases or decreasesfunding for the Graduate Research Fellowship program.”
+Equal Treatment of IGERT and GRF.—Beginning in fiscal year 2011, the Director shall increase or, if necessary, decrease funding for the Foundation's Integrative Graduate Education and Research Traineeship program (or any program by which it is replaced) at least at the same rate as it increases or decreases funding for the Graduate Research Fellowship program.”
 
 \[For definitions of terms used in section 510(a), (b) of Pub. L. 111–358, set out above, see section 2 of Pub. L. 111–358, set out as a note under section 6621 of this title, and section 502 of Pub. L. 111–358, set out as a note under section 1862p of this title.\]
 

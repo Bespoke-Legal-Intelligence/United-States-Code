@@ -12,7 +12,7 @@ The Corporation shall collect data on the involvement of minority- and women-own
 
 &emsp;(2) to the extent such information is available, the involvement of such businesses in procurement activities conducted or supported by the Corporation.
 
-> The Corporation shall include, in its annual report submitted to the Congress under section 2200a of this title, the aggregate data collected under this paragraph, in such form as to quantify the effectiveness of the Corporation's outreach activities to minority- and women-owned businesses.
+> The Corporation shall include, in its annual report submitted to the Congress under section2200a of this title, the aggregate data collected under this paragraph, in such form as to quantify the effectiveness of the Corporation's outreach activities to minority- and women-owned businesses.
 
 (Pub. L. 87–195, pt. I, §240, as added Pub. L. 95–268, §9, Apr. 24, 1978, 92 Stat. 216; amended Pub. L. 99–204, §9(b)(3), Dec. 23, 1985, 99 Stat. 1673; Pub. L. 108–158, §6(a), Dec. 3, 2003, 117 Stat. 1950.)
 

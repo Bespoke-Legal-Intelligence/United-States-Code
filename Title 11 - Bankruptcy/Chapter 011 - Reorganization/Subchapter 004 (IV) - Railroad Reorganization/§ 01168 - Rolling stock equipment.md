@@ -42,7 +42,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 1168 of the House amendment incorporates a provision contained in section 1166 of the House bill instead of the provision contained in section 1175 of the Senate amendment for the reasons stated in connection with the discussion of section 1110 of the House amendment.
 
@@ -56,9 +56,9 @@ Section 1175 \[enacted as section 1168\] continues the protection accorded in pr
 
 #### Amendments
 
-2000—Pub. L. 106–181 amended section catchline and text generally, substituting present provisions consisting of subsecs. (a) to (e) for former subsecs. (a) to (d) which contained somewhat similar provisions.
+<b>2000</b>—Pub. L. 106–181 amended section catchline and text generally, substituting present provisions consisting of subsecs. (a) to (e) for former subsecs. (a) to (d) which contained somewhat similar provisions.
 
-1994—Pub. L. 103–394 amended section generally. Prior to amendment, section read as follows:
+<b>1994</b>—Pub. L. 103–394 amended section generally. Prior to amendment, section read as follows:
 
 “(a) The right of a secured party with a purchase-money equipment security interest in, or of a lessor or conditional vendor of, whether as trustee or otherwise, rolling stock equipment or accessories used on such equipment, including superstructures and racks, that are subject to a purchase-money equipment security interest granted by, leased to, or conditionally sold to, the debtor to take possession of such equipment in compliance with the provisions of a purchase-money equipment security agreement, lease, or conditional sale contract, as the case may be, is not affected by section 362 or 363 of this title or by any power of the court to enjoin such taking of possession, unless—
 
@@ -76,7 +76,7 @@ Section 1175 \[enacted as section 1168\] continues the protection accorded in pr
 
 “(b) The trustee and the secured party, lessor, or conditional vendor, as the case may be, whose right to take possession is protected under subsection (a) of this section, may agree, subject to the court's approval, to extend the 60-day period specified in subsection (a)(1) of this section.”
 
-1984—Subsec. (b). Pub. L. 98–353 inserted a comma after “approval”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–353 inserted a comma after “approval”.
 
 #### Effective Date of 2000 Amendment
 

@@ -10,7 +10,7 @@ Housing and related facilities assisted under this section shall be safe and san
 
 #### (c) Contribution of land by applicant
 
-The applicant shall contribute the necessary land, or funds to acquire such land, from its own resources, including land acquired by donation or from funds repayable under subsection (e) of this section or borrowed from other sources.
+The applicant shall contribute the necessary land, or funds to acquire such land, from its ownresources, including land acquired by donation or from funds repayable under subsection (e) of this section or borrowed from other sources.
 
 #### (d) Conditions precedent to grant of financial assistance
 

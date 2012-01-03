@@ -86,21 +86,27 @@ For purposes of subsection (f), the term “representatives of the domestic indu
 
 &emsp;(3) any safeguard investigation described in subsection (d)(2) or (d)(3).
 
-(Pub. L. 93–618, title II, §224, Jan. 3, 1975, 88 Stat. 2020; Pub. L. 97–35, title XXV, §2513(a), Aug. 13,1981, 95 Stat. 889; Pub. L. 100–418, title I, §1401(b)(1)(B), Aug. 23, 1988, 102 Stat. 1239; Pub. L. 111–5, div. B, title I, §1811(a), Feb. 17, 2009, 123 Stat. 373.)
+(Pub. L. 93–618, title II, §224, Jan. 3, 1975, 88 Stat. 2020; Pub. L. 97–35, title XXV, §2513(a), Aug. 13, 1981, 95 Stat. 889; Pub. L. 100–418, title I, §1401(b)(1)(B), Aug. 23, 1988, 102 Stat. 1239; Pub. L. 111–5, div. B, title I, §1811(a), Feb. 17, 2009, 123 Stat. 373; Pub. L. 112–40, title II, §201(b), (c), Oct. 21, 2011, 125 Stat. 403.)
 
-#### Amendment of Section
+#### Reversion to Provisions in Effect on February 13, 2011
 
-<i>For termination of amendment by section 1893 of Pub. L. 111–5, see Effective and Termination Dates of 2009 Amendment note below.</i>
+<i>For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to section 233(b) of Pub. L. 112–40, see Codification and Effective and Termination Dates of 2011 Revival notes below.</i>
+
+#### Codification
+
+Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination of amendment by Pub. L. 111–5, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, and the provisions of this section, as amended by Pub. L. 111–5 and as in effect on Feb. 12, 2011, were temporarily revived, effective Oct. 21, 2011, until Jan. 1, 2014, by Pub. L. 112–40, §§201(b), (c), 233. See 2009 and 2011 Amendment notes, Effective and Termination Dates of 2009 Amendment notes, and Effective and Termination Dates of 2011 Revival note below.
 
 #### Amendments
 
-<b>2009</b>—Pub. L. 111–5, §§1811(a)(1), 1893, temporarily substituted “Study and notifications regarding certain affirmative determinations; industry notification of assistance” for “Study by Secretary of Labor when International Trade Commission begins investigation” in section catchline. See Effective and Termination Dates of 2009 Amendment note below.
+<b>2011</b>—Pub. L. 112–40, §§201(b), (c), 233, temporarily revived the provisions of this section, as in effect on Feb. 12, 2011. See Codification note above and 2009 Amendment and Effective and Termination Dates of 2011 Revival notes below.
 
-Subsec. (a). Pub. L. 111–5, §§1811(a)(2), 1893, temporarily inserted heading. See Effective and Termination Dates of 2009 Amendment note below.
+<b>2009</b>—Pub. L. 111–5, §§1811(a)(1), 1893, temporarily substituted “Study and notifications regarding certain affirmative determinations; industry notification of assistance” for “Study by Secretary of Labor when International Trade Commission begins investigation” in section catchline. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (b). Pub. L. 111–5, §§1811(a)(3), 1893, temporarily inserted heading and “and on the website of the Department of Labor” after “Federal Register” in text. See Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (a). Pub. L. 111–5, §§1811(a)(2), 1893, temporarily inserted heading. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsecs. (c) to (g). Pub. L. 111–5, §§1811(a)(4), 1893, temporarily added subsecs. (c) to (g). See Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (b). Pub. L. 111–5, §§1811(a)(3), 1893, temporarily inserted heading and “and on the website of the Department of Labor” after “Federal Register” in text. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+
+Subsecs. (c) to (g). Pub. L. 111–5, §§1811(a)(4), 1893, temporarily added subsecs. (c) to (g). See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–418 substituted “section 2252” for “section 2251”.
 
@@ -108,11 +114,15 @@ Subsec. (b). Pub. L. 100–418 substituted “section 2252(f)” for “section 
 
 <b>1981</b>—Subsec. (c). Pub. L. 97–35 struck out subsec. (c) which related to availability of information to workers.
 
+#### Effective and Termination Dates of 2011 Revival
+
+For temporary revival and applicability of provisions as in effect on Feb. 12, 2011, see sections 201(b), (c) and 233 of Pub. L. 112–40, set out as notes preceding section 2271 of this title. For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to section 233(b) of Pub. L. 112–40, see section 233 of Pub. L. 112–40, set out as a note preceding section 2271 of this title.
+
 #### Effective and Termination Dates of 2009 Amendment
 
 Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title.
 
-Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and this section to be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
+Section 1893 of Pub. L. 111–5, which provided that, except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and that this section be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403. See Codification note above.
 
 #### Effective Date of 1988 Amendment
 
@@ -124,7 +134,7 @@ Amendment by Pub. L. 97–35 effective Aug. 13, 1981, with transition provisions
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after Feb. 12, 2011, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after Dec. 31, 2013, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “1671a(b) and 1673a(b)”.</i>
 

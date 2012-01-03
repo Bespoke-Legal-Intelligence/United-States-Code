@@ -38,7 +38,7 @@ A nomination under subsection (a) shall include—
 
 #### (c) Submission deadline
 
-A Federal agency head shall submit each nomination under subsection (a) to the Office not later than February 15 of the year following the date on which the nominee performed the act of bravery described in subsection (a).
+A Federal agency head shall submit each nomination under subsection (a) to the Office not later than February 15 of the year following thedate on which the nominee performed the act of bravery described in subsection (a).
 
 (Pub. L. 110–298, title I, §102, July 31, 2008, 122 Stat. 2986.)
 

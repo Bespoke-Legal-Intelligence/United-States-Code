@@ -8,7 +8,7 @@ Where—
 
 &emsp;(2) both such individual and such provider of services or such other person, as the case may be, did not know, and could not reasonably have been expected to know, that payment would not be made for such items or services under such part A or part B of this subchapter,
 
-> then to the extent permitted by this subchapter, payment shall, notwithstanding such determination, be made for such items or services (and for such period of time as the Secretary finds will carry out the objectives of this subchapter), as though section 1395y(a)(1) and section 1395y(a)(9) of this title did not apply and as though the coverage denial described in subsection (g) of this section had not occurred. In each such case the Secretary shall notify both such individual and such provider of services or such other person, as the case may be, of the conditions under which payment for such items or services was made and in the case of comparable situations arising thereafter with respect to such individual or such provider or such other person, each shall, by reason of such notice (or similar notices provided before the enactment of this section), be deemed to have knowledge that payment cannot be made for such items or services or reasonably comparable items or services. Any provider or other person furnishing items or services for which payment may not be made by reason of section 1395y(a)(1) or (9) of this title or by reason of a coverage denial described in subsection (g) of this section shall be deemed to have knowledge that payment cannot be madefor such items or services if the claim relating to such items or services involves a case, provider or other person furnishing services, procedure, or test, with respect to which such provider or other person has been notified by the Secretary (including notification by a utilization and quality control peer review organization) that a pattern of inappropriate utilization has occurred in the past, and such provider or other person has been allowed a reasonable time to correct such inappropriate utilization.
+> then to the extent permitted by this subchapter, payment shall, notwithstanding such determination, be made for such items or services (and for such period of time as the Secretary finds will carry out the objectives of this subchapter), as though section 1395y(a)(1) and section 1395y(a)(9) of this title did not apply and as though the coverage denial described in subsection (g) of this section had not occurred. In each such case the Secretary shall notify both such individual and such provider of services or such other person, as the case may be, of the conditions under which payment for such items or services was made and in the case of comparable situations arising thereafter with respect to such individual or such provider or such other person, each shall, by reason of such notice (or similar notices provided before the enactment of this section), be deemed to have knowledge that payment cannot be made for such items or services or reasonably comparable items or services. Any provider or other person furnishing items or services for which payment may not be made by reason of section 1395y(a)(1) or (9) of this title or by reason of a coverage denial described in subsection (g) of this section shall be deemed to have knowledge that payment cannot be made for such items or services if the claim relating to such items or services involves a case, provider or other person furnishing services, procedure, or test, with respect to which such provider or other person has been notified by the Secretary (including notification by a quality improvement organization) that a pattern of inappropriate utilization has occurred in the past, and such provider or other person has been allowed a reasonable time to correct such inappropriate utilization.
 
 #### (b) Knowledge of person or provider that payment could not be made; indemnification of individual
 
@@ -24,7 +24,7 @@ In any case arising under subsection (b) of this section (but without regard to 
 
 #### (e) Payment where beneficiary not at fault
 
-Where payment for inpatient hospital services or extended care services may not be made under part A of this subchapter on behalf of an individual entitled to benefits under such part solely because of an unintentional, inadvertent, or erroneous action with respect to the transfer of such individual from a hospital or skilled nursing facility that meets the requirements of section 1395x(e) or (j) of this title by such a provider of services acting in good faith in accordance with the advice of a utilization review committee, quality control and peer review organization, or fiscal intermediary, or on the basis of a clearly erroneous administrative decision by a provider of services, the Secretary shall take such action with respect to the payment of such benefits as he determines may be necessary to correct the effects of such unintentional, inadvertent, or erroneous action.
+Where payment for inpatient hospital services or extended care services may not be made under part A of this subchapter on behalf of an individual entitled to benefits under such part solely because of an unintentional, inadvertent, or erroneous action with respect to the transfer of such individual from a hospital or skilled nursing facility that meets the requirements of section 1395x(e) or (j) of this title by such a provider of services acting in good faith in accordance with the advice of a utilization review committee, quality improvement organization, or fiscal intermediary, or on the basis of a clearly erroneous administrative decision by a provider of services, the Secretary shall take such action with respect to the payment of such benefits ashe determines may be necessary to correct the effects of such unintentional, inadvertent, or erroneous action.
 
 #### (f) Presumption with respect to coverage denial; rebuttal; requirements; “fiscal intermediary” defined
 
@@ -74,13 +74,13 @@ If a supplier of medical equipment and supplies (as defined in section 1395m(j)(
 
 > any expenses incurred for items and services furnished to an individual by such a supplier on an assignment-related basis shall be the responsibility of such supplier. The individual shall have no financial responsibility for such expenses and the supplier shall refund on a timely basis to the individual (and shall be liable to the individual for) any amounts collected from the individual for such items or services. The provisions of section 1395m(a)(18) of this title shall apply to refunds required under the previous sentence in the same manner as such provisions apply to refunds under such section.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1879, as added Pub. L. 92–603, title II, §213(a), Oct. 30, 1972, 86 Stat. 1384; amended Pub. L. 96–499, title IX, §956(a), Dec. 5, 1980, 94 Stat. 2648; Pub. L. 97–248, title I, §§145, 148(e), Sept. 3, 1982, 96 Stat. 393, 394; Pub. L. 99–509, title IX, §§9305(g)(1), 9341(a)(3), Oct. 21, 1986, 100 Stat. 1991, 2038; Pub. L. 100–203, title IV, §4096(b), Dec. 22, 1987, 101 Stat. 1330–139; Pub. L. 101–239, title VI, §6214(a), (b), Dec. 19, 1989, 103 Stat. 2252; Pub. L. 103–432, title I, §133(b), Oct. 31, 1994, 108 Stat. 4421; Pub. L. 105–33, title IV, §4447, Aug. 5, 1997, 111 Stat. 424.)
-
-#### References in Text
-
-Parts A and B of this subchapter, referred to in text, are classified to sections 1395c et seq. and 1395j et seq., respectively, of this title.
+(Aug. 14, 1935, ch. 531, title XVIII, §1879, as added Pub. L. 92–603, title II, §213(a), Oct. 30, 1972, 86 Stat. 1384; amended Pub. L. 96–499, title IX, §956(a), Dec. 5, 1980, 94 Stat. 2648; Pub. L. 97–248, title I, §§145, 148(e), Sept. 3, 1982, 96 Stat. 393, 394; Pub. L. 99–509, title IX, §§9305(g)(1), 9341(a)(3), Oct. 21, 1986, 100 Stat. 1991, 2038; Pub. L. 100–203, title IV, §4096(b), Dec. 22, 1987, 101 Stat. 1330–139; Pub. L. 101–239, title VI, §6214(a), (b), Dec. 19, 1989, 103 Stat. 2252; Pub. L. 103–432, title I, §133(b), Oct. 31, 1994, 108 Stat. 4421; Pub. L. 105–33, title IV, §4447, Aug. 5, 1997, 111 Stat. 424; Pub. L. 112–40, title II, §261(a)(3)(A), (B), Oct. 21, 2011, 125 Stat. 423.)
 
 #### Amendments
+
+<b>2011</b>—Subsec. (a). Pub. L. 112–40, §261(a)(3)(A), substituted “quality improvement” for “utilization and quality control peer review” in concluding provisions.
+
+Subsec. (e). Pub. L. 112–40, §261(a)(3)(B), substituted “quality improvement” for “quality control and peer review”.
 
 <b>1997</b>—Subsec. (g). Pub. L. 105–33 substituted “subsection is—” for “subsection is,”, redesignated remaining text as par. (1) and former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), realigned margins, substituted “; and” for period at end, and added par. (2).
 
@@ -92,7 +92,7 @@ Subsec. (f)(4). Pub. L. 101–239, §6214(a)(2), designated existing provisions 
 
 Subsec. (f)(6). Pub. L. 101–239, §6214(b), added par. (6).
 
-<b>1987</b>—Subsec. (b). Pub. L. 100–203 struck out “, subject to the deductible and coinsurance provisions of this subchapter,” after “(referred to in such paragraphs)” and inserted at end “No item or service for which an individual is indemnified under this subsection shall be taken into account in applying any limitation on the amount of items and services for which payment may be made to or on behalf of the individual under this subchapter.”
+<b>1987</b>—Subsec. (b). Pub. L. 100–203 struck out “, subject to the deductible and coinsurance provisions of this subchapter,” after “(referred to in such paragraphs)”and inserted at end “No item or service for which an individual is indemnified under this subsection shall be taken into account in applying any limitation on the amount of items and services for which payment may be made to or on behalf of the individual under this subchapter.”
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–509, §9305(g)(1)(A)–(C), inserted in par. (1) “or by reason of a coverage denial described in subsection (g) of this section”, and in concluding provisions inserted “and as though the coverage denial described in subsection (g) of this section had not occurred” and “or by reason of a coverage denial described in subsection (g) of this section”.
 
@@ -108,6 +108,10 @@ Subsec. (e). Pub. L. 97–248, §148(e), substituted “quality control and peer
 
 <b>1980</b>—Subsec. (e). Pub. L. 96–499 added subsec. (e).
 
+#### Effective Date of 2011 Amendment
+
+Amendment by Pub. L. 112–40 applicable to contracts entered into or renewed on or after Jan. 1, 2012, see section 261(e) of Pub. L. 112–40, set out as a note under section 1320c of this title.
+
 #### Effective Date of 1997 Amendment
 
 Amendment by Pub. L. 105–33 applicable to benefits provided on or after Aug. 5, 1997, except as otherwise provided, see section 4449 of Pub. L. 105–33, set out as a note under section 1395d of this title.
@@ -118,7 +122,7 @@ Amendment by Pub. L. 103–432 applicable to items or services furnished on or a
 
 #### Effective Date of 1989 Amendment
 
-Section 6214(c) of Pub. L. 101–239 provided that: “The amendments made by subsection (a) \[amending thissection\] shall apply to determinations for quarters beginning on or after the date of the enactment of this Act \[Dec. 19, 1989\].”
+Section 6214(c) of Pub. L. 101–239 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to determinations for quarters beginning on or after the date of the enactment of this Act \[Dec. 19, 1989\].”
 
 #### Effective Date of 1987 Amendment
 
@@ -180,7 +184,7 @@ report on use of prior determination process.—Not later than 36 months after t
 
 “(5)
 
-Advance beneficiary notice defined.—In this subsection, the term ‘advance beneficiary notice’ means a written notice provided under section 1879(a) of the Social Security Act (42 U.S.C. 1395pp(a)) to an individual entitled to benefits under part A or enrolled under part B of title XVIII of such Act \[part A and part B of this subchapter\] before items or services are furnished under such part in cases where a provider of services or other person that would furnish the item or service believes that payment will not be made for some or all of such items or services under such title \[this subchapter\].”
+Advance beneficiary notice defined.—In this subsection, the term ‘advance beneficiary notice’means a written notice provided under section 1879(a) of the Social Security Act (42 U.S.C. 1395pp(a)) to an individual entitled to benefits under part A or enrolled under part B of title XVIII of such Act \[part A and part B of this subchapter\] before items or services are furnished under such part in cases where a provider of services or other person that would furnish the item or service believes that payment will not be made for some or all of such items or services under such title \[this subchapter\].”
 
 #### Reports to Congress on Denials of Bills for Payment
 

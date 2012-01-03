@@ -8,7 +8,7 @@
 
 #### (b) Penalty for violation of regulations
 
-Whoever shall willfully violate any regulation of the Commission issued pursuant to subsection (a) of this section shall, upon conviction thereof, be punishable by a fine of not more than $1,000.
+Whoever shall willfully violate any regulation of the Commission issued pursuant to subsection\(a) of this section shall, upon conviction thereof, be punishable by a fine of not more than $1,000.
 
 #### (c) Penalty for violation of regulations regarding enclosed property
 

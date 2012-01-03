@@ -8,11 +8,15 @@ The Secretary may provide technical assistance, on such terms and conditions as 
 
 Expenditures for technical assistance under this section may be up to $10,000,000 annually per industry and shall be made under such terms and conditions as the Secretary deems appropriate.
 
-(Pub. L. 93–618, title II, §262, formerly §265, as added Pub. L. 97–35, title XXV, §2527, Aug. 13, 1981, 95 Stat. 893; amended Pub. L. 98–369, div. B, title VI, §2673, July 18, 1984, 98 Stat. 1172; renumbered §262, Pub. L. 111–5, div. B, title I, §1864(a)(2), Feb. 17, 2009, 123 Stat. 397.)
+(Pub. L. 93–618, title II, §262, formerly §265, as added Pub. L. 97–35, title XXV, §2527, Aug. 13, 1981, 95 Stat. 893; amended Pub. L. 98–369, div. B, title VI, §2673, July 18, 1984, 98 Stat. 1172; renumbered §262, Pub. L. 111–5, div. B, title I, §1864(a)(2), Feb. 17, 2009, 123 Stat. 397, and Pub. L. 112–40, title II, §201(b), (c), Oct. 21, 2011, 125 Stat. 403.)
 
 #### Renumbering of Section
 
-<i>For termination of renumbering of section by section 1893 of Pub. L. 111–5, see Termination Date of 2009 Amendment note set out preceding section 2271 of this title.</i>
+<i>For termination of renumbering of section, beginning on Jan. 1, 2014, see Codification and Effective and Termination Dates of 2011 Revival notes below.</i>
+
+#### Codification
+
+Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination of renumbering by Pub. L. 111–5, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, and the renumbering of this section by Pub. L. 111–5 was temporarily revived, effective Oct. 21, 2011, until Jan. 1, 2014, by Pub. L. 112–40, §§201(b), (c), 233. See Effective and Termination Dates of 2011 Revival note below.
 
 #### Prior Provisions
 
@@ -24,11 +28,15 @@ A prior section 262 of Pub. L. 93–618 was temporarily renumbered section 260 a
 
 Subsec. (b). Pub. L. 98–369, §2673(2), substituted “$10,000,000” for “$2,000,000”.
 
+#### Effective and Termination Dates of 2011 Revival
+
+For temporary revival and applicability of provisions as in effect on Feb. 12, 2011, see sections 201(b), (c) and 233 of Pub. L. 112–40, set out as notes preceding section 2271 of this title. For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to section 233(b) of Pub. L. 112–40, see section 233 of Pub. L. 112–40, set out as a note preceding section 2271 of this title.
+
 #### Effective Date
 
 Section effective Aug. 13, 1981, except as otherwise provided with respect to applications for adjustment assistance, see section 2529 of Pub. L. 97–35, set out as an Effective Date of 1981 Amendment note under section 2343 of this title.
 
 #### Termination Date
 
-Except as otherwise provided, technical assistance and grants may not be provided under this section after Feb. 12, 2011, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
+Except as otherwise provided, technical assistance and grants may not be provided under this section after Dec. 31, 2013, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 

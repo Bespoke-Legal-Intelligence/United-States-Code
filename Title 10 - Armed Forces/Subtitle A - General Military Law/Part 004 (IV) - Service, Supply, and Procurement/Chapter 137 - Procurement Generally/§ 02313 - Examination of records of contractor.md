@@ -60,7 +60,7 @@ Forms of Original Record Storage.—Nothing in this section shall be construed t
 
 (h)
 
-Use of Images of Original Records.—The head of an agency shall not require a contractor or subcontractor to provide original records in an audit carried out pursuant to this section if the contractor or subcontractor provides photographic or electronic images of the original records and meets the following requirements:
+Use of Images of Original Records.—The head of an agency shall not require a contractoror subcontractor to provide original records in an audit carried out pursuant to this section if the contractor or subcontractor provides photographic or electronic images of the original records and meets the following requirements:
 
 &emsp;(1) The contractor or subcontractor has established procedures to ensure that the imaging process preserves the integrity, reliability, and security of the original records.
 
@@ -133,6 +133,62 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–369 applicable with respect to any solicitation for bids or proposals issued after Mar. 31, 1985, see section 2751 of Pub. L. 98–369, set out as a note under section 2302 of this title.
+
+#### Additional Access to Contractor and Subcontractor Records in the United States Central Command Theater of Operations
+
+Pub. L. 112–81, div. A, title VIII, §842, Dec. 31, 2011, 125 Stat. 1513, provided that:
+
+“(a)
+
+Department of Defense Contracts, Grants, and Cooperative Agreements.—
+
+&emsp;“(1)
+
+In general.—Not later than 30 days after the date of the enactment of this Act \[Dec. 31, 2011\], the Secretary of Defense shall revise the Department of Defense Supplement to the Federal Acquisition Regulation to require that—
+
+&emsp;&emsp;“(A) the clause described in paragraph (2) shall be included in each covered contract, grant, and cooperative agreement of the Department of Defense that is awarded on or after the date of the enactment of this Act; and
+
+&emsp;&emsp;“(B) to the maximum extent practicable, each covered contract, grant, and cooperative agreement of the Department that is awarded before the date of the enactment of this Act shall be modified to include the clause described in paragraph (2).
+
+&emsp;“(2)
+
+Clause.—The clause described in this paragraph is a clause authorizing the Secretary, upon a written determination pursuant to paragraph (3), to examine any records of the contractor, the recipientof a grant or cooperative agreement, or any subcontractor or subgrantee under such contract, grant, or cooperative agreement to the extent necessary to ensure that funds available under the contract, grant, or cooperative agreement—
+
+&emsp;&emsp;“(A) are not subject to extortion or corruption; and
+
+&emsp;&emsp;“(B) are not provided directly or indirectly to persons or entities that are actively supporting an insurgency or otherwise actively opposing United States or coalition forces in a contingency operation.
+
+&emsp;“(3)
+
+Written determination.—The authority to examine records pursuant to the contract clause described in paragraph (2) may be exercised only upon a written determination by the contracting officer or comparable official responsible for a grant or cooperative agreement, upon a finding by the Commander of the United States Central Command, that there is reason to believe that funds available under the contract, grant, or cooperative agreement concerned may have been subject to extortion or corruption or may have been provided directly or indirectly to persons or entities that are actively supporting an insurgency or otherwise actively opposing United States or coalition forces in a contingency operation.
+
+&emsp;“(4)
+
+Flowdown.—A clause described in paragraph (2) shall also be required in any subcontract or subgrant under a covered contract, grant, or cooperative agreement if the subcontract or subgrant has an estimated value in excess of $100,000.
+
+“(b)
+
+Reports.—Not later than March 1 of each of 2013, 2014, and 2015, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the use of the authority provided by this section in the preceding calendar year. Each report shall identify, for the calendar year covered by such report, each instance in which the Department of Defense exercised the authority provided under this section to examine records, explain the basis for the action taken, and summarize the results of any examination of records so undertaken,\[.\] Any report under this subsection may be submitted in classified form.
+
+“(c)
+
+Definitions.—In this section:
+
+&emsp;“(1) The term ‘contingency operation’ has the meaning given that term in section 101(a)(13) of title 10, United States Code.
+
+&emsp;“(2) The term ‘covered contract, grant, or cooperative agreement’ means a contract, grant, or cooperative agreement with an estimated value in excess of $100,000 that will be performed in the United States Central Command theater of operations in support of a contingency operation.
+
+“(d)
+
+Sunset.—
+
+&emsp;“(1)
+
+In general.—The clause described by subsection (a)(2) shall not be required in any contract, grant, or cooperative agreement that is awarded after the date that is three years after the date of the enactment of this Act \[Dec. 31, 2011\].
+
+&emsp;“(2)
+
+Continuing effect of clauses included before sunset.—Any clause described by subsection (a)(2) that is included in a contract, grant, or cooperative agreement pursuant to this section before the date specified in paragraph (1) shall remain in effect in accordance with its terms.”
 
 #### Exemption of Functions
 

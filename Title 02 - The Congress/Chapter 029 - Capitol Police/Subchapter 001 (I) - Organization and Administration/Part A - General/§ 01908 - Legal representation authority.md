@@ -42,7 +42,7 @@ Section is from the Legislative Branch Appropriations Act, 2004.
 
 #### Amendments
 
-2010—Subsec. (a)(2)(A). Pub. L. 111–145, §3(b)(1), substituted “the General Counsel to the Chief of Police and the United States Capitol Police” for “the General Counsel for the United States Capitol Police Board and the Chief of the Capitol Police”.
+<b>2010</b>—Subsec. (a)(2)(A). Pub. L. 111–145, §3(b)(1), substituted “the General Counsel to the Chief of Police and the United States Capitol Police” for “the General Counsel for the United States Capitol Police Board and the Chief of the Capitol Police”.
 
 Subsec. (a)(2)(B). Pub. L. 111–145, §4(a)(1), substituted “the Employment Counsel to the Chief of Police and the United States Capitol Police” for “the Employment Counsel for the United States Capitol Police Board and the United States Capitol Police”.
 

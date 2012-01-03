@@ -78,7 +78,7 @@
 
 #### (2) Reporting of data
 
-&emsp;The Secretary shall report data and analyses described in (a) <sup>4</sup> and (b) through—
+&emsp;The Secretary shall report data and analyses described in (a) <sup>6</sup> and (b) through—
 
 &emsp;&emsp;(A) public postings on the Internet websites of the Department of Health and Human Services; and
 
@@ -145,4 +145,6 @@ Section 264(c) of the Health Insurance Portability and Accountability Act of 199
 <i><sup>4</sup></i><i> So in original. Probably should be preceded by “subsection”.</i>
 
 <i><sup>5</sup></i><i> So in original. Probably should be “Health;”.</i>
+
+<i><sup>6</sup></i><i> So in original. Probably should be preceded by “subsections”.</i>
 

@@ -16,7 +16,7 @@ Section was formerly classified to section 1763 of this title.
 
 #### Amendments
 
-1980—Pub. L. 96–465 substituted “chapter 9 of title I of the Foreign Service Act of 1980” for “title IX of the Foreign Service Act of 1946”.
+<b>1980</b>—Pub. L. 96–465 substituted “chapter 9 of title I of the Foreign Service Act of 1980” for “title IX of the Foreign Service Act of 1946”.
 
 #### Effective Date of 1980 Amendment
 

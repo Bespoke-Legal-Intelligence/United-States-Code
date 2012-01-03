@@ -48,7 +48,7 @@ In addition to the broadcast signals that subscribers may receive under section�
 
 &emsp;In addition to cable operators and television broadcast station licensees, the Commission shall permit a satellite carrier to petition for decisions and orders—
 
-&emsp;&emsp;(A) by which stations may be added to those that are eligible for retransmission under subsection (a) of this section, and by which communities may be added in whichsuch stations are eligible for such retransmission; and
+&emsp;&emsp;(A) by which stations may be added to those that are eligible for retransmission under subsection (a) of this section, and by which communities may be added in which such stations are eligible for such retransmission; and
 
 &emsp;&emsp;(B) by which network nonduplication or syndicated exclusivity regulations are applied to the retransmission in accordance with subsection (e) of this section.
 
@@ -114,7 +114,7 @@ Each satellite carrier that proposes to commence the retransmission of a station
 
 #### (2) Unified negotiations
 
-&emsp;In revising its regulations as required by paragraph (1), the Commission shall providethat any such station shall conduct a unified negotiation for the entire portion of its local market for which retransmission consent is elected.
+&emsp;In revising its regulations as required by paragraph (1), the Commission shall provide that any such station shall conduct a unified negotiation for the entire portion of its local market for which retransmission consent is elected.
 
 #### (3) Additional provisions
 
@@ -190,7 +190,7 @@ Amendment by Pub. L. 111–175 effective Feb. 27, 2010, see section 307(a) of Pu
 
 #### Rulemaking Required
 
-Pub. L. 111–175, title II, §203(b), May 27, 2010, 124 Stat. 1245, provided that: “Within 270 days after the date of the enactment of this Act \[deemed to refer to Feb. 27, 2010, see section 307(a) of Pub. L. 111–175, set out as an Effective Date of 2010 Amendment note under section111 of Title 17, Copyrights\], the Federal Communications Commission shall take all actions necessary to promulgate a rule to implement the amendments made by subsection (a) \[amending this section\].”
+Pub. L. 111–175, title II, §203(b), May 27, 2010, 124 Stat. 1245, provided that: “Within 270 days after the date of the enactment of this Act \[deemed to refer to Feb. 27, 2010, see section 307(a) of Pub. L. 111–175, set out as an Effective Date of 2010 Amendment note under section 111 of Title 17, Copyrights\], the Federal Communications Commission shall take all actions necessary to promulgate a rule to implement the amendments made by subsection (a) \[amending this section\].”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “sections”.</i>
 

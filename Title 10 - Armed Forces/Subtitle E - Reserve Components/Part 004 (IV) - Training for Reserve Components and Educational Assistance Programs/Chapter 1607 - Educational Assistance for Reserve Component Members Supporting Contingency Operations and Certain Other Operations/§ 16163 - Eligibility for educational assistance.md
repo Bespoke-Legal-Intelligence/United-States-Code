@@ -10,7 +10,7 @@ Eligibility.—On or after September 11, 2001, a member of a reserve component i
 
 (b)
 
-Disabled Members.—Notwithstanding the eligibility requirements in subsection (a), a member who was ordered to active service asprescribed under subsection (a)(1) or (a)(2) but is released from duty before completing 90 consecutive days because of an injury, illness or disease incurred or aggravated in the line of duty shall be entitled to educational assistance under this chapter at the rate prescribed in section 16162(c)(4)(A) of this title.
+Disabled Members.—Notwithstanding the eligibility requirements in subsection (a), a member who was ordered to active service as prescribed under subsection (a)(1) or (a)(2) but is released from duty before completing 90 consecutive days because of an injury, illness or disease incurred or aggravated in the line of duty shall be entitled to educational assistance under this chapter at the rate prescribed in section 16162(c)(4)(A) of this title.
 
 (c)
 

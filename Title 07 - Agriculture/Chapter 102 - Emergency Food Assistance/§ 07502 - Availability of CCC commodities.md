@@ -52,21 +52,21 @@ Section 1163 of the Food Security Act of 1985, referred to in subsec. (f), is se
 
 #### Amendments
 
-1990—Subsec. (g). Pub. L. 101–624 added subsec. (g).
+<b>1990</b>—Subsec. (g). Pub. L. 101–624 added subsec. (g).
 
-1988—Subsec. (f). Pub. L. 100–435 added subsec. (f).
+<b>1988</b>—Subsec. (f). Pub. L. 100–435 added subsec. (f).
 
-1987—Subsec. (a). Pub. L. 100–77, §811(b), inserted subsec. (a) designation.
+<b>1987</b>—Subsec. (a). Pub. L. 100–77, §811(b), inserted subsec. (a) designation.
 
 Subsec. (d). Pub. L. 100–77, §811(a), inserted “a variety of commodities and products thereof that are most useful to eligible recipient agencies, including” after “shall include”.
 
-1985—Pub. L. 99–198, §1565(a), struck out subsec. (a) designation and struck out subsec. (b) which read as follows: “Notwithstanding any other provision of law, if wheat stocks acquired by the Commodity Credit Corporation are not available for the purposes of this chapter, up to 300,000 metric tons of wheat designated under section 1736f–1(b)(1) of this title may be used for the purposes of this chapter. Any amount of wheat used from the Food Security Wheat Reserve under this chapter shall be replenished by an equivalent quantity of wheat under the provisions of section 1736f–1(b) of this title as soon as practicable, but before October 1, 1985.”
+<b>1985</b>—Pub. L. 99–198, §1565(a), struck out subsec. (a) designation and struck out subsec. (b) which read as follows: “Notwithstanding any other provision of law, if wheat stocks acquired by the Commodity Credit Corporation are not available for the purposes of this chapter, up to 300,000 metric tons of wheat designated under section 1736f–1(b)(1) of this title may be used for the purposes of this chapter. Any amount of wheat used from the Food Security Wheat Reserve under this chapter shall be replenished by an equivalent quantity of wheat under the provisions of section 1736f–1(b) of this title as soon as practicable, but before October 1, 1985.”
 
 Subsecs. (c) to (e). Pub. L. 99–198, §1564(a), added subsecs. (c) to (e).
 
-1983—Subsec. (a). Pub. L. 98–92, §2(3), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Notwithstanding any other provision of law, commodities acquired by the Commodity Credit Corporation that are in excess of quantities needed for the fiscal year to carry out a payment-in-kind acreage diversion program, maintain U.S. share of world markets, and meet international market development and food aid commitments, shall be made available by the Secretary of Agriculture (hereinafter in this chapter referred to as the ‘Secretary’) without charge or credit in such fiscal year for use by eligible recipient agencies. Upon request, commodities provided by the CCC shall be provided in a form suitable for individual household or institutional use.”
+<b>1983</b>—Subsec. (a). Pub. L. 98–92, §2(3), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Notwithstanding any other provision of law, commodities acquired by the Commodity Credit Corporation that are in excess of quantities needed for the fiscal year to carry out a payment-in-kind acreage diversion program, maintain U.S. share of world markets, and meet international market development and food aid commitments, shall be made available by the Secretary of Agriculture (hereinafter in this chapter referred to as the ‘Secretary’) without charge or credit in such fiscal year for use by eligible recipient agencies. Upon request, commodities provided by the CCC shall be provided in a form suitable for individual household or institutional use.”
 
-Subsec. (b). Pub. L. 98–92, §2(4), substituted “may be used” for “shall be used” and directed the substitution of “October 1, 1985” for “December 1, 1983”, which was executed by making the substitution for “December 31, 1983” to reflect the probable intent of Congress.
+Subsec. (b). Pub. L. 98–92, §2(4), substituted “may be used” for “shall be used” and directed the substitution of “October 1, 1985” for “December 1, 1983”, which wasexecuted by making the substitution for “December 31, 1983” to reflect the probable intent of Congress.
 
 #### Effective Date of 1988 Amendment
 

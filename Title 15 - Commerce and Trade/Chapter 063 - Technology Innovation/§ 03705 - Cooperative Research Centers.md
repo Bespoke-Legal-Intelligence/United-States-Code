@@ -56,7 +56,7 @@ The Secretary is authorized to make available nonrenewable planning grants to un
 
 In the promotion of technology from research and development efforts by Centers under this section, chapter 18 of title 35 shall apply to the extent not inconsistent with this section.
 
-(Pub. L. 96–480, §7, formerly §6, Oct. 21, 1980, 94 Stat. 2313; Pub. L. 99–502, §9(b)(6)–(10), Oct. 20, 1986, 100 Stat. 1796; renumbered §7, Pub. L. 100–418, title V, §5122(a)(1), Aug. 23, 1988, 102 Stat. 1438.)
+(Pub. L. 96–480, §7, formerly §6, Oct. 21, 1980, 94 Stat. 2313; Pub. L. 99–502, §9(b)(6)–(10), Oct. 20,1986, 100 Stat. 1796; renumbered §7, Pub. L. 100–418, title V, §5122(a)(1), Aug. 23, 1988, 102 Stat. 1438.)
 
 #### Prior Provisions
 

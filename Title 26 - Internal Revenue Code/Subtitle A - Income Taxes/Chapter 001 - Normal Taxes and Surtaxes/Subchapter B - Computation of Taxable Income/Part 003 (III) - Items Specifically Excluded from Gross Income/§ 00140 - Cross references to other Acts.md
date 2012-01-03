@@ -4,7 +4,7 @@
 
 &emsp;&emsp;&emsp;<b>(1) Allowances and expenditures to meet losses sustained by persons serving the United States abroad, due to appreciation of foreign currencies, see section 5943 of title 5, United States Code.</b>
 
-&emsp;&emsp;&emsp;<b>(2) Amounts credited to the Maritime Administration under section 9(b)(6) of the Merchant Ship Sales Act of 1946, see section 9(c)(1) of that Act (50 U.S.C. App. 1742).</b><b><sup>1</sup></b>
+&emsp;&emsp;&emsp;<b>(2) Amounts credited to the Maritime Administration under section 9(b)(6) of the Merchant Ship</b><b>Sales Act of 1946, see section 9(c)(1) of that Act (50 U.S.C. App. 1742).</b><b><sup>1</sup></b>
 
 &emsp;&emsp;&emsp;<b>(3) Benefits under laws administered by the Veterans’ Administration, see section 5301 of title 38, United States Code.</b>
 

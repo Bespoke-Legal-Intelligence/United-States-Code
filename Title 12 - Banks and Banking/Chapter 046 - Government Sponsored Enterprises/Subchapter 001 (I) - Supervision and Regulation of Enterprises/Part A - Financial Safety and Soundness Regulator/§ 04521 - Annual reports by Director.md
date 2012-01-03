@@ -12,7 +12,7 @@ The Director shall submit to the Committee on Financial Services of the House of
 
 &emsp;(4) a description of—
 
-&emsp;&emsp;(A) whether the procedures established by each regulated entity pursuant to section4012a(b)(3) of title 42 are adequate and being complied with, and
+&emsp;&emsp;(A) whether the procedures established by each regulated entity pursuant to section 4012a(b)(3) of title 42 are adequate and being complied with, and
 
 &emsp;&emsp;(B) the results and conclusions of any examination, as determined necessary by the Director, to determine the compliance of the regulated entities with the requirements of section 4012a(b)(3) of title 42, which shall include a description of the methods used to determine compliance and the types and sources of deficiencies (if any), and identify any corrective measures that have been taken to remedy any such deficiencies,
 
@@ -58,7 +58,7 @@ This chapter, referred to in subsec. (a)(1), was in the original “this title�
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–289, §1161(a)(6), substituted “Committee on Financial Services” for “Committee on Banking, Finance and Urban Affairs” in introductory provisions.
+<b>2008</b>—Subsec. (a). Pub. L. 110–289, §1161(a)(6), substituted “Committee on Financial Services” for “Committee on Banking, Finance and Urban Affairs” in introductory provisions.
 
 Subsec. (a)(2) to (4). Pub. L. 110–289, §1103(b)(1)–(4), substituted “regulated entity” for “enterprise” and “regulated entities” for “enterprises” wherever appearing and substituted a semicolon for “; and” at end of par. (3) and “1994; and” for “1994.” at end of par. (4).
 
@@ -66,7 +66,7 @@ Subsec. (a)(5) to (7). Pub. L. 110–289, §1103(b)(5), added pars. (5) to (7).
 
 Subsec. (b). Pub. L. 110–289, §1161(a)(6), substituted “Committee on Financial Services” for “Committee on Banking, Finance and Urban Affairs” in introductory provisions.
 
-1994—Subsec. (a)(4). Pub. L. 103–325 added par. (4).
+<b>1994</b>—Subsec. (a)(4). Pub. L. 103–325 added par. (4).
 
 <i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
 

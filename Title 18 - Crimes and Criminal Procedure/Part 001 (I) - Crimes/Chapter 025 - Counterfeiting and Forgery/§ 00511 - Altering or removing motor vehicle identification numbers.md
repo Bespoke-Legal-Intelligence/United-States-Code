@@ -46,7 +46,7 @@
 
 (d) For purposes of subsection (a) of this section, the term “tampers with” includes covering a program decal or device affixed to a motor vehicle pursuant to the Motor Vehicle Theft Prevention Act for the purpose of obstructing its visibility.
 
-(Added Pub. L. 98–547, title II, §201(a), Oct. 25, 1984, 98 Stat. 2768; amended Pub. L. 103–272, §5(e)(3), July 5, 1994, 108 Stat. 1373; Pub. L. 103–322, title XXII, §220003(a)–(c), Sept. 13, 1994, 108 Stat. 2076, 2077; Pub. L. 104–294, title VI, §604(b)(8), Oct. 11, 1996, 110 Stat. 3507.)
+(Added Pub. L. 98–547, title II, §201(a), Oct. 25, 1984, 98 Stat. 2768; amended Pub. L. 103–272, §5(e)(3), July 5, 1994, 108 Stat. 1373; Pub. L.103–322, title XXII, §220003(a)–(c), Sept. 13, 1994, 108 Stat. 2076, 2077; Pub. L. 104–294, title VI, §604(b)(8), Oct. 11, 1996, 110 Stat. 3507.)
 
 #### References in Text
 

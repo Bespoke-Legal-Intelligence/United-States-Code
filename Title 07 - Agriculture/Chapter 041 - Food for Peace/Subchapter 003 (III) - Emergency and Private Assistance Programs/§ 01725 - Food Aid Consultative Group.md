@@ -46,13 +46,13 @@ The Federal Advisory Committee Act, referred to in subsec. (e), is Pub. L. 92–
 
 #### Amendments
 
-2008—Subsec. (b)(7). Pub. L. 110–246, §3011(1), added par. (7).
+<b>2008</b>—Subsec. (b)(7). Pub. L. 110–246, §3011(1), added par. (7).
 
 Subsec. (f). Pub. L. 110–246, §3011(2), substituted “2012” for “2007”.
 
-2002—Subsec. (f). Pub. L. 107–171 substituted “2007” for “2002”.
+<b>2002</b>—Subsec. (f). Pub. L. 107–171 substituted “2007” for “2002”.
 
-1996—Subsec. (a). Pub. L. 104–127, §210(1), substituted “eligible organizations described in section 1722(d)(1) of this title” for “private voluntary organizations, cooperatives and indigenous non-governmental organizations”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–127, §210(1), substituted “eligible organizations described in section 1722(d)(1) of this title” for “private voluntary organizations, cooperatives and indigenous non-governmental organizations”.
 
 Subsec. (b)(2). Pub. L. 104–127, §210(2)(A), substituted “of Agriculture for Farm and Foreign Agricultural Services” for “for International Affairs and Commodity Programs”.
 
@@ -62,7 +62,7 @@ Subsec. (d). Pub. L. 104–127, §210(3), inserted “(but at least twice per ye
 
 Subsec. (f). Pub. L. 104–127, §210(4), substituted “2002” for “1995”.
 
-1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions declaring sense of Congress that President should encourage advanced nations to increase contributions for combating hunger, particularly through expansion of international food and agricultural assistance programs, and that United States should work for expansion of United Nations World food program.
+<b>1990</b>—Pub. L. 101–624 amended section generally, substituting present provisions for provisions declaring sense of Congress that President should encourage advanced nations to increase contributions for combating hunger, particularly through expansion of international food and agricultural assistance programs, and that United States should work for expansion of United Nations World food program.
 
 #### Effective Date of 2008 Amendment
 

@@ -12,7 +12,7 @@ Definitions.—In this section—
 
 (b)
 
-Testing Program for Public Transportation Employees.—(1)(A) In the interest of public transportation safety, the Secretary shall prescribe regulations that establish a program requiring public transportation operations thatreceive financial assistance under section 5307, 5309, or 5311 of this title to conduct preemployment, reasonable suspicion, random, and post-accident testing of public transportation employees responsible for safety-sensitive functions (as decided by the Secretary) for the use of a controlled substance in violation of law or a United States Government regulation, and to conduct reasonable suspicion, random, and post-accident testing of such employees for the use of alcohol in violation of law or a United States Government regulation. The regulations shall permit such operations to conduct preemployment testing of such employees for the use of alcohol.
+Testing Program for Public Transportation Employees.—(1)(A) In the interest of public transportation safety, the Secretary shall prescribe regulations that establish a program requiring public transportation operations that receive financial assistance under section 5307, 5309, or 5311 of this title to conduct preemployment, reasonable suspicion, random, and post-accident testing of public transportation employees responsible for safety-sensitive functions (as decided by the Secretary) for the use of a controlled substance in violation of law or a United States Government regulation, and to conduct reasonable suspicion, random, and post-accident testing of such employees for the use of alcohol in violation of law or a United States Government regulation. The regulations shall permit such operations to conduct preemployment testing of such employees for the use of alcohol.
 
 (B) When the Secretary of Transportation considers it appropriate in the interest of safety, the Secretary may prescribe regulations for conducting periodic recurring testing of public transportation employees responsible for safety-sensitive functions (as decided by the Secretary) for the use of alcohol or a controlled substance in violation of law or a Government regulation.
 
@@ -64,7 +64,7 @@ Rehabilitation.—The Secretary of Transportation shall prescribe regulations es
 
 (f)
 
-Relationship to Other Laws, Regulations, Standards, and Orders.—(1) A State orlocal government may not prescribe, issue, or continue in effect a law, regulation, standard, or order that is inconsistent with regulations prescribed under this section. However, a regulation prescribed under this section does not preempt a State criminal law that imposes sanctions for reckless conduct leading to loss of life, injury, or damage to property.
+Relationship to Other Laws, Regulations, Standards, and Orders.—(1) A State or local government may not prescribe, issue, or continue in effect a law, regulation, standard, or order that is inconsistent with regulations prescribed under this section. However, a regulation prescribed under this section does not preempt a State criminal law that imposes sanctions for reckless conduct leading to loss of life, injury, or damage to property.
 
 (2) In prescribing regulations under this section, the Secretary of Transportation—
 
@@ -138,7 +138,7 @@ In subsection (d)(5), the word “tested” is substituted for “assayed” for
 
 In subsection (d)(6), the word “Secretary” is substituted for “Department” for consistency in the revised title and with other titles of the United States Code.
 
-In subsection (f)(1), the word “prescribe” is substituted for “adopt” for consistency in the revised title and with other titles of the Code. The word “rule” is omitted as being synonymous with “regulation”. The word “ordinance” is omitted as being included in “law” and “regulation”. The words “whether the provisions apply specifically to mass transportation employees, or to the general public” are omitted as surplus.
+In subsection (f)(1), the word “prescribe” is substituted for “adopt” for consistency in the revised title and with other titles of the Code. The word “rule” is omitted as being synonymous with “regulation”. The word “ordinance” is omitted as being included in “law” and “regulation”. The words “whether the provisionsapply specifically to mass transportation employees, or to the general public” are omitted as surplus.
 
 In subsection (f)(3), the word “prevent” is substituted for “restrict the discretion of” to eliminate unnecessary words.
 

@@ -10,7 +10,7 @@
 
 (c) Authority under subsection (b) may be exercised with respect to any employee holding a position—
 
-&emsp;(1) to which chapter 51 applies, excluding any Senior Executive Service position and any position in the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service; and
+&emsp;(1) to which chapter 51 applies, excluding any Senior Executive Service position and anyposition in the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service; and
 
 &emsp;(2) which involves health care responsibilities.
 
@@ -40,11 +40,11 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1992—Subsec. (b). Pub. L. 102–378 substituted “chapter 74” for “chapter 73” in introductory provisions and inserted “subchapter V of chapter 55,” after “61,” in pars. (1) and (2).
+<b>1992</b>—Subsec. (b). Pub. L. 102–378 substituted “chapter 74” for “chapter 73” in introductory provisions and inserted “subchapter V of chapter 55,” after “61,” in pars. (1) and (2).
 
-1990—Pub. L. 101–509 amended section generally, substituting designated provisions directing that Office of Personnel Management may provide that chapter 73 of title 38 provisions apply to certain health care professionals for undesignated text authorizing agency heads to fix pay rates for scientific and professional positions at between GS–16 and GS–18 rates.
+<b>1990</b>—Pub. L. 101–509 amended section generally, substituting designated provisions directing that Office of Personnel Management may provide that chapter 73 of title 38 provisions apply to certain health care professionals for undesignated text authorizing agency heads to fix pay rates for scientific and professional positions at between GS–16 and GS–18 rates.
 
-1978—Pub. L. 95–454, §906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
+<b>1978</b>—Pub. L. 95–454, §906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
 
 #### Effective Date of 1990 Amendment
 

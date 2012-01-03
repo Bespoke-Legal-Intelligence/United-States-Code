@@ -40,7 +40,7 @@ Point of order.—It shall not be in order in either the House of Representative
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (c)(1)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, asamended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (c)(1)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The Internal Revenue Code of 1986, referred to in subsec. (c)(1)(B), is classified generally to Title 26, Internal Revenue Code.
 
@@ -52,7 +52,7 @@ Section was formerly classified to section 1351 of Title 31 prior to the general
 
 #### Amendments
 
-1997—Pub. L. 105–33, §10116(a)(1)(A), substituted “Budget-related legislation not subject to appropriations” for “Bills providing new spending authority” as section catchline.
+<b>1997</b>—Pub. L. 105–33, §10116(a)(1)(A), substituted “Budget-related legislation not subject to appropriations” for “Bills providing new spending authority” as section catchline.
 
 Subsec. (a). Pub. L. 105–33, §10116(a)(1)(B), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “It shall not be in order in either the House of Representatives or the Senate to consider any bill, joint resolution, amendment, motion, or conference report, as reported to its House which provides new spending authority described in subsection (c)(2)(A) or (B) of this section, unless that bill, resolution, conference report, or amendment also provides that such new spending authority as described in subsection (c)(2)(A) or (B) of this section is to be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts.”
 
@@ -72,13 +72,13 @@ Subsec. (d)(1). Pub. L. 105–33, §10116(a)(4)(A), which directed substitution 
 
 Subsec. (d)(2), (3). Pub. L. 105–33, §10116(a)(4)(B), (C), redesignated par. (3) as (2), substituted “new authority described in those subsections” for “new spending authority” in introductory provisions, and struck out former par. (2) which read as follows: “Subsections (a) and (b) of this section shall not apply to new spending authority which is an amendment to or extension of chapter 67 of title 31, or a continuation of the program of fiscal assistance to State and local governments provided by that chapter, to the extent so provided in the bill or resolution providing such authority.”
 
-1990—Subsec. (a). Pub. L. 101–508, §13207(a)(1)(F), substituted “bill, joint resolution, amendment, motion, or conference report” for “bill, resolution, or conference report” and struck out “(or any amendment which provides such new spending authority)” after “subsection (c)(2)(A) or (B) of this section”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–508, §13207(a)(1)(F), substituted “bill, joint resolution, amendment, motion, or conference report” for “bill, resolution, or conference report” and struck out “(or any amendment which provides such new spending authority)” after “subsection (c)(2)(A) or (B) of this section”.
 
 Subsec. (b)(1). Pub. L. 101–508, §13207(a)(1)(G), substituted “bill, joint resolution, amendment, motion, or conference report, as reported to its House” for “bill or resolution” and struck out “(or any amendment which provides such new spending authority)” after “subsection (c)(2)(C) of this section”.
 
-1986—Subsec. (d)(1)(B). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Subsec. (d)(1)(B). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-1985—Subsec. (a). Pub. L. 99–177 amended subsec. (a) generally, inserting provisions relating to applicability to conference reports.
+<b>1985</b>—Subsec. (a). Pub. L. 99–177 amended subsec. (a) generally, inserting provisions relating to applicability to conference reports.
 
 Subsec. (b). Pub. L. 99–177, in amending section generally, reenacted subsec. (b) without change.
 
@@ -88,7 +88,7 @@ Subsec. (d). Pub. L. 99–177, in amending subsec. (d) generally, reenacted pars
 
 #### Effective Date of 1985 Amendment
 
-Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, set out as an Effective and Termination Dates note under section 900 of this title.
+Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of this title prior to repeal by Pub. L. 112–25, title I, §104(a), Aug. 2, 2011, 125 Stat. 246.
 
 #### Effective Date
 

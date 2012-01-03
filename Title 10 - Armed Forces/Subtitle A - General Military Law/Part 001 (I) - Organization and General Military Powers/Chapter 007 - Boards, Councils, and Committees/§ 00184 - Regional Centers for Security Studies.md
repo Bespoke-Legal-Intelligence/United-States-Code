@@ -54,27 +54,17 @@ Payment of Costs.—(1) Participation in activities of a Regional Center shall b
 
 (5) Funds available for the payment of personnel expenses under the Latin American cooperation authority set forth in section 1050 of this title are also available for the costs of the operation of the Center for Hemispheric Defense Studies.
 
-(6) Funds available to carry out this section, including funds accepted under paragraph (4) and funds available under paragraph (5), shall beavailable, to the extent provided in appropriations Acts, for programs and activities under this section that begin in a fiscal year and end in the following fiscal year.
+(6) Funds available to carry out this section, including funds accepted under paragraph (4) and funds available under paragraph (5), shall be available, to the extent provided in appropriations Acts, for programs and activities under this section that begin in a fiscal year and end in the following fiscal year.
 
 (g)
 
 Support to Other Agencies.—The Director of a Regional Center may enter into agreements with the Secretaries of the military departments, the heads of the Defense Agencies, and, with the concurrence of the Secretary of Defense, the heads of other Federal departments and agencies for the provision of services by that Regional Center under this section. Any such participating department and agency shall transfer to the Regional Center funds to pay the full costs of the services received.
 
-(h)
-
-Annual Report.—Not later than February 1 of each year, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the operation of the Regional Centers for security studies during the preceding fiscal year. The annual report shall include, for each Regional Center, the following information:
-
-&emsp;(1) The status and objectives of the center.
-
-&emsp;(2) The budget of the center, including the costs of operating the center.
-
-&emsp;(3) A description of the extent of the international participation in the programs of the center, including the costs incurred by the United States for the participation of each foreign nation.
-
-&emsp;(4) A description of the foreign gifts and donations, if any, accepted under section 2611 of this title.
-
-(Added Pub. L. 106–398, §1 \[\[div. A\], title IX, §912(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–228; amended Pub. L. 107–107, div. A, title X, §1048(c)(2), Dec. 28, 2001, 115 Stat. 1226; Pub. L. 108–136, div. A, title IX, §931(b)(2), Nov. 24, 2003, 117 Stat. 1581; Pub. L. 109–163, div. A, title IX, §903(b), Jan. 6, 2006, 119 Stat. 3399; Pub. L. 109–364, div. A, title IX, §904(a)(1), Oct. 17, 2006, 120 Stat. 2351; Pub. L. 110–417, \[div. A\], title IX, §941(a)(1), Oct. 14, 2008, 122 Stat. 4576; Pub. L. 111–84, div. A, title X, §1073(a)(3), Oct. 28, 2009, 123 Stat. 2472.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title IX, §912(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–228; amended Pub. L. 107–107, div. A, title X, §1048(c)(2), Dec. 28, 2001, 115 Stat. 1226; Pub. L. 108–136, div. A, title IX, §931(b)(2), Nov. 24, 2003, 117 Stat. 1581; Pub. L. 109–163, div. A, title IX, §903(b), Jan. 6, 2006, 119 Stat. 3399; Pub. L. 109–364, div. A, title IX, §904(a)(1), Oct. 17, 2006, 120 Stat. 2351; Pub. L. 110–417, \[div. A\], title IX, §941(a)(1), Oct. 14, 2008, 122 Stat. 4576; Pub. L. 111–84, div. A, title X, §1073(a)(3), Oct. 28, 2009, 123 Stat. 2472; Pub. L. 112–81, div. A, title X, §1061(2), Dec. 31, 2011, 125 Stat. 1583.)
 
 #### Amendments
+
+<b>2011</b>—Subsec. (h). Pub. L. 112–81 struck out subsec. (h) which required the Secretary of Defense to submit an annual report on the operation of the Regional Centers for security studies during the preceding fiscal year.
 
 <b>2009</b>—Subsec. (b)(3). Pub. L. 111–84 substituted “October 17, 2006” for “the date of the enactment of this section”.
 
@@ -112,5 +102,5 @@ Limitation.—The amount of reimbursement that may be waived under paragraph (1)
 
 “(3)
 
-Annual report.—The Secretary of Defense shall include in the annual report under section 184(h) of title 10, United States Code, in each year through 2013 information on the attendance of personnel of nongovernmental and international organizations in activities of the Regional Centers during the preceding fiscal year for which a waiver of reimbursement was made under paragraph (1), including information on the costs incurred by the United States for the participation of personnel of each nongovernmental or international organization that so attended.”
+Annual report.—The Secretary of Defense shall include in the annual report under \[former\] section 184(h) of title 10, United States Code, in each year through 2013 information on the attendance of personnel of nongovernmental and international organizations in activities of the Regional Centers during the preceding fiscal year for which a waiver of reimbursement was made under paragraph (1), including information on the costs incurred by the United States for the participation of personnel of each nongovernmental or international organization that so attended.”
 

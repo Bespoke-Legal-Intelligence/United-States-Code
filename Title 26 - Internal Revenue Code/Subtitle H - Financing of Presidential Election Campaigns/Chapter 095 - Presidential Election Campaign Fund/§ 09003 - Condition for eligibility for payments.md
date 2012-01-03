@@ -36,11 +36,11 @@ In any case in which an individual ceases to be a candidate as a result of the o
 
 &emsp;(1) shall no longer be eligible to receive any payments under section 9006, except that such individual shall be eligible to receive payments under such section to defray qualified campaign expenses incurred while actively seeking election to the office of President of the United States or to the office of Vice President of the United States in more than one State; and
 
-&emsp;(2) shall pay to the Secretary, as soon as practicable after the date upon which such individual ceases to be a candidate, an amount equal to the amount of payments received by such individual under section 9006 which are not used to defray qualified campaign expenses.
+&emsp;(2) shall pay to the Secretary, as soon as practicable after the date upon which such individual ceases to be a candidate, an amount equal to the amount of payments received by such individual under section 9006 which arenot used to defray qualified campaign expenses.
 
 #### (e) Closed captioning requirement
 
-No candidate for the office of President or Vice President may receive amounts from thePresidential Election Campaign Fund under this chapter or chapter 96 unless such candidate has certified that any television commercial prepared or distributed by the candidate will be prepared in a manner which ensures that the commercial contains or is accompanied by closed captioning of the oral content of the commercial to be broadcast in line 21 of the vertical blanking interval, or is capable of being viewed by deaf and hearing impaired individuals via any comparable successor technology to line 21 of the vertical blanking interval.
+No candidate for the office of President or Vice President may receive amounts from the Presidential Election Campaign Fund under this chapter or chapter 96 unless such candidate has certified that any television commercial prepared or distributed by the candidate will be prepared in a manner which ensures that the commercial contains or is accompanied by closed captioning of the oral content of the commercial to be broadcast in line 21 of the vertical blanking interval, or is capable of being viewed by deaf and hearing impaired individuals via any comparable successor technology to line 21 of the vertical blanking interval.
 
 (Added Pub. L. 92–178, title VIII, §801, Dec. 10, 1971, 85 Stat. 564; amended Pub. L. 93–53, §6(c), July 1, 1973, 87 Stat. 139; Pub. L. 93–443, title IV, §§404(c)(4), (5), 405(b), Oct. 15, 1974, 88 Stat. 1292, 1294; Pub. L. 94–283, title III, §306(a)(2), May 11, 1976, 90 Stat. 500; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 102–393, title V, §534(a), Oct. 6, 1992, 106 Stat. 1764.)
 

@@ -24,7 +24,7 @@ When used in this chapter—
 
 (g) The term “animal” means any live or dead dog, cat, monkey (nonhuman primate mammal), guinea pig, hamster, rabbit, or such other warm-blooded animal, as the Secretary may determine is being used, or is intended for use, for research, testing, experimentation, or exhibition purposes, or as a pet; but such term excludes (1) birds, rats of the genus Rattus, and mice of the genus Mus, bred for use in research, (2) horses not used for research purposes, and (3) other farm animals, such as, but not limited to livestock or poultry, used or intended for use as food or fiber, or livestock or poultry used or intended for use for improving animal nutrition, breeding, management, or production efficiency, or for improving the quality of food or fiber. With respect to a dog, the term means all dogs including those used for hunting, security, or breeding purposes;
 
-(h) The term “exhibitor” means any person (public or private) exhibiting any animals,which were purchased in commerce or the intended distribution of which affects commerce, or will affect commerce, to the public for compensation, as determined by the Secretary, and such term includes carnivals, circuses, and zoos exhibiting such animals whether operated for profit or not; but such term excludes retail pet stores, organizations sponsoring and all persons participating in State and country fairs, livestock shows, rodeos, purebred dog and cat shows, and any other fairs or exhibitions intended to advance agricultural arts and sciences, as may be determined by the Secretary;
+(h) The term “exhibitor” means any person (public or private) exhibiting any animals, which were purchased in commerce or the intended distribution of which affects commerce, or will affect commerce, to the public for compensation, as determined by the Secretary, and such term includes carnivals, circuses, and zoos exhibiting such animals whether operated for profit or not; but such term excludes retail pet stores, organizations sponsoring and all persons participating in State and country fairs, livestock shows, rodeos, purebred dog and cat shows, and any other fairs or exhibitions intended to advance agricultural arts and sciences, as may be determined by the Secretary;
 
 (i) The term “intermediate handler” means any person including a department, agency, or instrumentality of the United States or of any State or local government (other than a dealer, research facility, exhibitor, any person excluded from the definition of a dealer, research facility, or exhibitor, an operator of an auction sale, or a carrier) who is engaged in any business in which he receives custody of animals in connection with their transportation in commerce;
 
@@ -44,11 +44,11 @@ When used in this chapter—
 
 #### Amendments
 
-2002—Subsec. (g). Pub. L. 107–171 substituted “excludes (1) birds, rats of the genus Rattus, and mice of the genus Mus, bred for use in research, (2) horses not used for research purposes, and (3)” for “excludes horses not used for research purposes and”.
+<b>2002</b>—Subsec. (g). Pub. L. 107–171 substituted “excludes (1) birds, rats of the genus Rattus, and mice of the genus Mus, bred for use in research, (2) horses not used for research purposes, and (3)” for “excludes horses not used for research purposes and”.
 
-1985—Subsecs. (k) to (<i>o</i>). Pub. L. 99–198 added subsecs. (k) to (<i>o</i>).
+<b>1985</b>—Subsecs. (k) to (<i>o</i>). Pub. L. 99–198 added subsecs. (k) to (<i>o</i>).
 
-1976—Subsec. (c). Pub. L. 94–279, §3(1), made changes in phraseology, restructured subsection and expanded definition of “commerce” by making it applicable to any activity affecting interstate commerce.
+<b>1976</b>—Subsec. (c). Pub. L. 94–279, §3(1), made changes in phraseology, restructured subsection and expanded definition of “commerce” by making it applicable to any activity affecting interstate commerce.
 
 Subsec. (d). Pub. L. 94–279, §3(1), substituted definition of “State” for definition of “affecting commerce”.
 
@@ -60,7 +60,7 @@ Subsec. (g). Pub. L. 94–279, §3(4), expanded definition of “animal” to in
 
 Subsecs. (i), (j). Pub. L. 94–279, §4, added subsecs. (i) and (j).
 
-1970—Subsec. (b). Pub. L. 91–579, §3(1), inserted “of the United States or his representative who shall be an employee of the United States Department of Agriculture” after “Secretary of Agriculture”.
+<b>1970</b>—Subsec. (b). Pub. L. 91–579, §3(1), inserted “of the United States or his representative who shall be an employee of the United States Department of Agriculture” after “Secretary of Agriculture”.
 
 Subsec. (c). Pub. L. 91–579, §3(2), substituted “trade, traffic, commerce, transportation among the several States, or between any State” for “commerce between any State”.
 
@@ -88,7 +88,7 @@ Pub. L. 107–171, title X, §10304, May 13, 2002, 116 Stat. 492, provided that:
 
 “(a)
 
-In General.—Not later than 1 year after the date of enactment of this Act \[May 13, 2002\], the National Research Council shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, a report on the implications of including rats, mice, and birds within the definition of animal under the regulations promulgated under the Animal Welfare Act (7 U.S.C. 2131 et seq.).
+In General.—Not later than 1 year after the date of enactment of this Act \[May 13, 2002\], the National Research Council shall submit to the Committee on Agriculture of the House of Representatives and theCommittee on Agriculture, Nutrition, and Forestry of the Senate, a report on the implications of including rats, mice, and birds within the definition of animal under the regulations promulgated under the Animal Welfare Act (7 U.S.C. 2131 et seq.).
 
 “(b)
 

@@ -10,27 +10,27 @@ Provisions covering the termination date for agreements to finance sales under s
 
 #### Amendments
 
-2008—Pub. L. 110–246 substituted “2012” for “2007”.
+<b>2008</b>—Pub. L. 110–246 substituted “2012” for “2007”.
 
-2002—Pub. L. 107–171 substituted “2007” for “2002”.
+<b>2002</b>—Pub. L. 107–171 substituted “2007” for “2002”.
 
-1996—Pub. L. 104–127 substituted “2002” for “1995”.
+<b>1996</b>—Pub. L. 104–127 substituted “2002” for “1995”.
 
-1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions relating to Presidential reports to Congress concerning activities carried out under this chapter, a global assessment of food production and needs and planned programming of food assistance, and a comparative cross-country evaluation of programs conducted under portions of this chapter, provisions requiring the Secretary to issue revised regulations governing operations of subchapter II of this chapter, and provisions relating to the delivery of bagged commodities.
+<b>1990</b>—Pub. L. 101–624 amended section generally, substituting present provisions for provisions relating to Presidential reports to Congress concerning activities carried out under this chapter, a global assessment of food production and needs and planned programming of food assistance, and a comparative cross-country evaluation of programs conducted under portions of this chapter, provisions requiring the Secretary to issue revised regulations governing operations of subchapter II of this chapter, and provisions relating to the delivery of bagged commodities.
 
-1985—Subsec. (b). Pub. L. 99–83 inserted reference to subchapter III in two places.
+<b>1985</b>—Subsec. (b). Pub. L. 99–83 inserted reference to subchapter III in two places.
 
-1981—Subsec. (a). Pub. L. 97–98 substituted “February 15” for “April 1”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–98 substituted “February 15” for “April 1”.
 
-1980—Subsec. (b). Pub. L. 96–470 struck out requirement that the President submit a report not later than March 31 of each year.
+<b>1980</b>—Subsec. (b). Pub. L. 96–470 struck out requirement that the President submit a report not later than March 31 of each year.
 
-1977—Subsec. (b). Pub. L. 95–88 substituted provisions that, not later than September 30 of each year, the President submit to the Congress a report containing a global assessment of food production and needs and setting forth planned programing of food assistance under subchapter II of this chapter for the coming fiscal year, and that, not later than December 31, March 31, and June 30 of each year, the President submit a report to the Congress showing the current status of planned programing of food assistance under subchapter II of this chapter for the current fiscal year, for provisions that, in his presentation to the Congress of planned programing of food assistance for each fiscal year, the President include a global assessment of food production and needs, self-help steps which are being taken by food-short countries under section 1709(a) of this title, steps which are being taken to encourage other countries to increase their participation in food assistance or the financing of food assistance, and the relationshipbetween food assistance provided to each country under this chapter and other foreign assistance provided to such country by the United States and other donors.
+<b>1977</b>—Subsec. (b). Pub. L. 95–88 substituted provisions that, not later than September 30 of each year, the President submit to the Congress a report containing a global assessment of food production and needs and setting forth planned programing of food assistance under subchapter II of this chapter for the coming fiscal year, and that, not later than December 31, March 31, and June 30 of each year, the President submit a report to the Congress showing the current status of planned programing of food assistance under subchapter II of this chapter for the current fiscal year, for provisions that, in his presentation to the Congress of planned programing of food assistance for each fiscal year, the President include a global assessment of food production and needs, self-help steps which are being taken by food-short countries under section 1709(a) of this title, steps which are being taken to encourage other countries to increase their participation in food assistance or the financing of food assistance, and the relationship between food assistance provided to each country under this chapter and other foreign assistance provided to such country by the United States and other donors.
 
 Subsec. (c). Pub. L. 95–88 substituted provisions that, beginning Oct. 1, 1978, and at each five-year interval thereafter, the President submit to the Congress a comparative cross-country evaluation of programs conducted under subchapters I, III, and III–A of this chapter, and that such evaluations cover no fewer than five countries sampled from the developing regions (Asia, Africa, Latin America, and Caribbean), and assess the nutritional and other impacts, achievements, problems, and future prospects for programs thereunder, for provisions that, not later than November 1 of each calendar year the President submit to the House Committee on Agriculture, the House Committee on International Relations, the Senate Committee on Agriculture and Forestry, and the Senate Committee on Foreign Relations a revised global assessment of food production and needs, and revised planned programming of food assistance for the current fiscal year, to reflect, to the maximum extent feasible, the actual availability of commodities for food assistance.
 
 Subsecs. (d), (e). Pub. L. 95–113 added subsecs. (d) and (e).
 
-1975—Pub. L. 94–161 designated existing provisions as subsec. (a), substituted “fiscal” for “calendar” in first sentence, and added subsecs. (b) and (c).
+<b>1975</b>—Pub. L. 94–161 designated existing provisions as subsec. (a), substituted “fiscal” for “calendar” in first sentence, and added subsecs. (b) and (c).
 
 #### Effective Date of 2008 Amendment
 

@@ -6,7 +6,7 @@ Beginning in fiscal year 1993, and in each year thereafter, only amounts for eme
 
 #### References in Text
 
-Section 901 of title 2, referred to in text, was amended by Pub. L. 105–33, title X, §10203(a)(4), Aug. 5, 1997, 111 Stat. 699, and, as so amended, section 901(b)(2)(D) no longer refers to “emergency requirements”. However, “emergency requirements” are referred to elsewhere in section 901.
+Section 901 of title 2, referred to in text, was amended, and as so amended, section 901(b)(2)(D) no longer refers to “emergency requirements”. However, “emergency requirements” are referred to elsewhere in section 901.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

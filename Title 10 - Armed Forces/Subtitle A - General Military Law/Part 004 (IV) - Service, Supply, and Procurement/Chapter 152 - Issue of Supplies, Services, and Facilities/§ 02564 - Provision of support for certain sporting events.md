@@ -2,7 +2,7 @@
 
 (a)
 
-Security and Safety Assistance.—At the request of a Federal, State, or local government agency responsible for providing law enforcement services, security services, or safety services, the Secretary of Defense may authorize thecommander of a military installation or other facility of the Department of Defense or the commander of a specified or unified combatant command to provide assistance for the World Cup Soccer Games, the Goodwill Games, the Olympics, and any other civilian sporting event in support of essential security and safety at such event, but only if the Attorney General certifies that such assistance is necessary to meet essential security and safety needs.
+Security and Safety Assistance.—At the request of a Federal, State, or local government agency responsible for providing law enforcement services, security services, or safety services, the Secretary of Defense may authorize the commander of a military installation or other facility of the Department of Defense or the commander of a specified or unified combatant command to provide assistance for the World Cup Soccer Games, the Goodwill Games, the Olympics, and any other civilian sporting event in support of essential security and safety at such event, but only if the Attorney General certifies that such assistance is necessary to meet essential security and safety needs.
 
 (b)
 
@@ -66,7 +66,7 @@ Relationship to Other Laws.—Assistance provided under this section shall be su
 
 (g)
 
-Funding for Support of Certain Events.—(1) Amounts for the provision of support for a sporting event described in paragraph (4) or (5) of subsection (c) may be derived from the Support for International Sporting Competitions, Defense account established by section 5802 of the Omnibus Consolidated Appropriations Act, 1997 (Public Law 104–208; 10 U.S.C. 2564 note), notwithstanding any limitation under that section relating to the availability of funds in such account for the provision of support for international sporting competitions.
+Funding for Support of Certain Events.—(1) Amounts for the provision of support for a sporting event described in paragraph (4) or (5) of subsection (c) may be derived from the Support for International Sporting Competitions, Defense account established by section 5802 of the Omnibus Consolidated Appropriations Act, 1997 (Public Law 104–208; 10 U.S.C. 2564 note), notwithstanding any limitation underthat section relating to the availability of funds in such account for the provision of support for international sporting competitions.
 
 (2) The total amount expended for any fiscal year to provide support for sporting events described in subsection (c)(5) may not exceed $1,000,000.
 

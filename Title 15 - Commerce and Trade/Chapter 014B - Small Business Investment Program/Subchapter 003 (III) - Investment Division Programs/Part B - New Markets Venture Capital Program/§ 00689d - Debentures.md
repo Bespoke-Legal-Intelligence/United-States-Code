@@ -34,7 +34,7 @@ The full faith and credit of the United States is pledged to pay all amounts tha
 
 #### (2) Limitation
 
-&emsp;Except to the extent approved by the Administrator, a covered New Markets Venture Capital company may not acquire or issue commitments for securities under this subchapter for any single enterprise in an aggregate amount equal to more than 10 percent of the sum of—
+&emsp;Except to the extent approved by the Administrator, a covered New Markets VentureCapital company may not acquire or issue commitments for securities under this subchapter for any single enterprise in an aggregate amount equal to more than 10 percent of the sum of—
 
 &emsp;&emsp;(A) the regulatory capital of the covered New Markets Venture Capital company; and
 

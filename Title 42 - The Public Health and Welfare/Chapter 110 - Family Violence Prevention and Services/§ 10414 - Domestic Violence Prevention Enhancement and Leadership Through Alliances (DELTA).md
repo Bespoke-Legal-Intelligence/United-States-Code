@@ -92,7 +92,7 @@ The Secretary shall enter into cooperative agreements under this section with or
 
 &emsp;&emsp;(B) develop comprehensive prevention plans to coordinate prevention efforts with other community sectors;
 
-&emsp;&emsp;(C) provide for periodic evaluation of the project, and analysis to assist in replication of the prevention strategies used in the project in other communities, and submit a report under subsection (h) that contains the evaluation and analysis;
+&emsp;&emsp;(C) provide for periodic evaluation of the project, and analysis to assist in replicationof the prevention strategies used in the project in other communities, and submit a report under subsection (h) that contains the evaluation and analysis;
 
 &emsp;&emsp;(D) develop, replicate, or conduct comprehensive, evidence-informed primary prevention programs that reduce risk factors and promote protective factors that reduce the likelihood of family violence, domestic violence, and dating violence, which may include—
 
@@ -114,11 +114,15 @@ The Secretary shall enter into cooperative agreements under this section with or
 
 #### (h) Reports and evaluation
 
-Each organization entering into a cooperative agreement under this section shall submit a performance report to the Secretary at such time as shall be reasonably required by the Secretary. Such performance report shall describeactivities that have been carried out with the funds made available through the agreement, contain an evaluation of the effectiveness of such activities, and provide such additional information as the Secretary may reasonably require. The Secretary shall make the evaluations received under this subsection publicly available on the Department of Health and Human Services website. The reports shall also be submitted to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate.
+Each organization entering into a cooperative agreement under this section shall submit a performance report to the Secretary at such time as shall be reasonably required by the Secretary. Such performance report shall describe activities that have been carried out with the funds made available through the agreement, contain an evaluation of the effectiveness of such activities, and provide such additional information as the Secretary may reasonably require. The Secretary shall make the evaluations received under this subsection publicly available on the Department of Health and Human Services website. The reports shall also be submitted to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate.
 
 (Pub. L. 98–457, title III, §314, as added Pub. L. 111–320, title II, §201, Dec. 20, 2010, 124 Stat. 3507.)
 
 #### Prior Provisions
 
 A prior section 10414, Pub. L. 98–457, title III, §314, as added Pub. L. 102–295, title III, §320, May 28, 1992, 106 Stat. 209, related to grants for public information campaigns, prior to the general amendment of this chapter by Pub. L. 111–320.
+
+#### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 

@@ -198,7 +198,7 @@ Section 227(c)(1) of Pub. L. 97–248 provided that: “The amendment made by su
 
 #### Effective Date of 1980 Amendment and Revival of Prior Law
 
-Amendment by Pub. L. 96–223 (repealing section 702(a)(1), (2) of Pub. L. 95–600 and the amendments made thereby, which had amended this section) applicable in respect of decedents dying after Dec. 31, 1976, and, except for certain elections, this title to be applied and administered as if those repealed provisions had not been enacted, see section 401(b), (e) of Pub. L. 96–223, set out as a note under section 1023 of this title.
+Amendment by Pub. L. 96–223 (repealing section 702(a)(1), (2) of Pub. L. 95–600 and the amendments made thereby, which had amended this section) applicable in respect of decedents dying after Dec. 31, 1976, and, except for certain elections, this title to be applied and administered as if those repealed provisions had notbeen enacted, see section 401(b), (e) of Pub. L. 96–223, set out as a note under section 1023 of this title.
 
 #### Effective Date of 1978 Amendment
 

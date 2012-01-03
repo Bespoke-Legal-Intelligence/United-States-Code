@@ -10,9 +10,9 @@ Deposit Required.—The Secretary of the military department concerned or, in th
 
 (b)
 
-Determination of Percentage.—The Armed Forces Retirement Home Board shall determine, on the basis of the financial needs of the Armed Forces Retirement Home, the percentage of the amounts referred to in subsection (a) to be deposited in the trust fund referred to in such subsection.
+Determination of Percentage.—The Chief Operating Officer of the Armed Forces Retirement Home shall determine, on the basis of the financial needs of the Armed Forces Retirement Home, the percentage of the amounts referred to in subsection (a) to be deposited in the trust fund referred to in such subsection.
 
-(Added Pub. L. 101–189, div. A, title III, §342(a)(1), Nov. 29, 1989, 103 Stat. 1419; amended Pub. L. 101–510, div. A, title XV, §1533(a)(3), (4)(A), Nov. 5, 1990, 104 Stat. 1733; Pub. L. 111–281, title II, §205(b)(1), Oct. 15, 2010, 124 Stat. 2911.)
+(Added Pub. L. 101–189, div. A, title III, §342(a)(1), Nov. 29, 1989, 103 Stat. 1419; amended Pub. L. 101–510, div. A, title XV, §1533(a)(3), (4)(A), Nov. 5, 1990, 104 Stat. 1733; Pub. L. 111–281, title II, §205(b)(1), Oct. 15, 2010, 124 Stat. 2911; Pub. L. 112–81, div. A, title V, §567(b)(2)(B), Dec. 31, 2011, 125 Stat. 1425.)
 
 #### Prior Provisions
 
@@ -20,11 +20,13 @@ A prior section 2772, act Aug. 10, 1956, ch. 1041, 70A Stat. 156, authorized wit
 
 #### Amendments
 
+<b>2011</b>—Subsec. (b). Pub. L. 112–81 substituted “Chief Operating Officer of the Armed Forces Retirement Home” for “Armed Forces Retirement Home Board”.
+
 <b>2010</b>—Subsec. (a). Pub. L. 111–281, §205(b)(1)(A), inserted “or, in the case of the Coast Guard, the Commandant” after “concerned” in introductory provisions.
 
 Subsec. (c). Pub. L. 111–281, §205(b)(1)(B), struck out subsec. (c). Text read as follows: “In this section, the term ‘armed forces’ does not include the Coast Guard when it is not operating as a service in the Navy.”
 
-<b>1990</b>—Pub. L. 101–510, §1533(a)(4)(A), substituted “Retirement Home” for “retirement homes” in section catchline and amended text generally, substituting subsecs. (a) to (c) relating to shares of fines and forfeitures to benefit the Armed Forces Retirement Home for former subsecs. (a) and (b) relating to shares of fines and forfeitures to benefit the Soldiers’ Home and the Naval Home.
+<b>1990</b>—Pub. L. 101–510, §1533(a)(4)(A), substituted “Retirement Home” for “retirement homes” in section catchline and amended text generally, substitutingsubsecs. (a) to (c) relating to shares of fines and forfeitures to benefit the Armed Forces Retirement Home for former subsecs. (a) and (b) relating to shares of fines and forfeitures to benefit the Soldiers’ Home and the Naval Home.
 
 Pub. L. 101–510, §1533(a)(3), inserted “and forfeitures” after “fines” in subsecs. (a)(1)(A) and (b)(1)(A) and substituted “, warrant officer, or limited duty officer” for “or warrant officer” wherever appearing.
 

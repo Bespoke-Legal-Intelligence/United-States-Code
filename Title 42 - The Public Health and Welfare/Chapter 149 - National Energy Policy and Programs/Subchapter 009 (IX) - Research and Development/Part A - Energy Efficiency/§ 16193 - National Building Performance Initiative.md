@@ -12,7 +12,7 @@
 
 #### (b) Integration of efforts
 
-The Initiative shall integrate Federal, State, and voluntary private sector efforts to reducethe costs of construction, operation, maintenance, and renovation of commercial, industrial, institutional, and residential buildings.
+The Initiative shall integrate Federal, State, and voluntary private sector efforts to reduce the costs of construction, operation, maintenance, and renovation of commercial, industrial, institutional, and residential buildings.
 
 #### (c) Plan
 

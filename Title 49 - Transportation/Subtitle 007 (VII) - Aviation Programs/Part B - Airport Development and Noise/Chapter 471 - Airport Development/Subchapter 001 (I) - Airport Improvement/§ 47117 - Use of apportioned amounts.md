@@ -64,7 +64,7 @@ Discretionary Use of Apportionments.—
 
 &emsp;(1)
 
-In general.—Subject to paragraph (2), if the Secretary finds that all or part of an amount of an apportionment under section 47114 is not required during a fiscal year to fund a grant for which the apportionment may be used, the Secretary may use during such fiscal year the amount not so required to make grants for any purpose for which grants may be made under section 48103. The finding may be based on the notifications that theSecretary receives under section 47105(f) or on other information received from airport sponsors.
+In general.—Subject to paragraph (2), if the Secretary finds that all or part of an amount of an apportionment under section 47114 is not required during a fiscal year to fund a grant for which the apportionment may be used, the Secretary may use during such fiscal year the amount not so required to make grants for any purpose for which grants may be made under section 48103. The finding may be based on the notifications that the Secretary receives under section 47105(f) or on other information received from airport sponsors.
 
 &emsp;(2)
 
@@ -186,7 +186,7 @@ In subsection (e)(1), the words “The Secretary shall use . . . (A) . . . f
 
 In subsection (e)(2), the words “for each fiscal year” are omitted as surplus.
 
-In subsection (e)(3), the words “an amount required to be used for grants under paragraph (1) of this subsection cannot be used” are substituted for “he will not be able to distribute the amount of funds required to be distributed under paragraph (1), (2), (3), or (4) of this subsection” for consistency. The words “submitted in compliance with this chapter” are omitted as surplus. The words “cannot be used” are substituted for “will not be distributed” for consistency. The words “for which amounts are” are added for clarity and consistency in this chapter.
+In subsection (e)(3), the words “an amount required to be used for grants under paragraph (1) of this subsection cannot be used” are substituted for “he will not be able to distribute the amount of funds required to be distributed under paragraph (1), (2), (3), or (4) of this subsection” for consistency. The words “submitted in compliance with this chapter” are omitted as surplus. The words “cannot be used” are substituted for “will not be distributed” for consistency. The words “forwhich amounts are” are added for clarity and consistency in this chapter.
 
 Subsection (f) is substituted for 49 App.:2206(b)(5)(D) for clarity and consistency in the revised title.
 
@@ -276,7 +276,7 @@ Pub. L. 104–264, §123(b)(2), (3), redesignated subpar. (B) as (A) and struck 
 
 Subsec. (e)(1)(B). Pub. L. 104–287, §5(82)(A), which directed the amendment of subpar. (B) by substituting “47504(c)” for “47504(c)(1)”, could not be executed because “47504(c)(1)” did not appear in text of subpar. (B) subsequent to amendment by Pub. L. 104–264. See below.
 
-Pub. L. 104–264, §124(d), which directed the amendment of subpar. (B) by substituting “1996, 1997, and 1998” for “and 1996,”, was repealed by Pub. L. 105–102, §3(c)(2).
+Pub. L. 104–264, §124(d), which directed the amendment of subpar. (B) by substituting “1996, 1997, and1998” for “and 1996,”, was repealed by Pub. L. 105–102, §3(c)(2).
 
 Pub. L. 104–264, §123(b)(6), as amended by Pub. L. 105–102, §3(c)(1)(A), substituted “at least 4 percent for each of fiscal years 1997 and 1998” for “at least 2.25 percent for the fiscal year ending September 30, 1993, and at least 2.5 percent for each of the fiscal years ending September 30, 1994, 1995, and 1996,”.
 

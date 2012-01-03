@@ -12,7 +12,7 @@ The words “foster homes” were inserted to remove any doubt as to the authori
 
 #### Codification
 
-Another section 506 of title V of Pub. L. 93–415, as added by Pub. L. 102–586, §5(a), Nov. 4, 1992, 106 Stat. 5029, was classified to section 5785 of Title 42, The Public Health and Welfare, prior to the general amendment of that title V by Pub. L. 107–273.
+Another section 506 of title V of Pub. L. 93–415, as added by Pub. L. 102–586, §5(a), Nov. 4, 1992, 106 Stat.5029, was classified to section 5785 of Title 42, The Public Health and Welfare, prior to the general amendment of that title V by Pub. L. 107–273.
 
 #### Amendments
 

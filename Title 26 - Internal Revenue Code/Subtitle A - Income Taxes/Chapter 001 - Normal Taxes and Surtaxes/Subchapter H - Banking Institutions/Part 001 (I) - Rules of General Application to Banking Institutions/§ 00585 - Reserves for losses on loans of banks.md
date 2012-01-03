@@ -50,7 +50,7 @@
 
 #### (2) Large banks
 
-&emsp;For purposes of this subsection, a bank is a large bank if, for the taxable year (or for any preceding taxable year beginning after December 31, 1986)—
+&emsp;For purposes of this subsection, a bank is a large bank if, for the taxable year (or for anypreceding taxable year beginning after December 31, 1986)—
 
 &emsp;&emsp;(A) the average adjusted bases of all assets of such bank exceeded $500,000,000, or
 
@@ -98,7 +98,7 @@
 
 #### (iii) Financially troubled bank
 
-&emsp;&emsp;&emsp;For purposes of clause (i), the term “financially troubled bank” means any bankif, for the taxable year, the nonperforming loan percentage of such bank exceeds 75 percent.
+&emsp;&emsp;&emsp;For purposes of clause (i), the term “financially troubled bank” means any bank if, for the taxable year, the nonperforming loan percentage of such bank exceeds 75 percent.
 
 #### (iv) Nonperforming loan percentage
 

@@ -60,7 +60,7 @@ The internal revenue taxes imposed by this part shall be in addition to any impo
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any taxpayer who reasonably expects to be liable for not more than $50,000 in taxes imposed with respect to distilled spirits, wines, and beer under subparts A, C, and D and section 7652 for the calendar year and who was liable for not more than $50,000 in such taxes in the preceding calendar year, the last day for the payment of tax on withdrawals, removals, and entries (and articles brought into the United States from Puerto Rico) under bond for deferred payment shall be the 14th day after the last day of the calendar quarter during which the action giving rise to the imposition of such tax occurs.
+&emsp;&emsp;In the case of any taxpayer who reasonably expects to be liable for not more than $50,000 in taxes imposed with respect to distilled spirits, wines, and beer under subparts A, C, and D and section 7652 for the calendar year and who was liable for not more than $50,000 in such taxes in the preceding calendar year, the last day for the payment of tax on withdrawals, removals, and entries (and articles brought into the United States from Puerto Rico) under bond for deferredpayment shall be the 14th day after the last day of the calendar quarter during which the action giving rise to the imposition of such tax occurs.
 
 #### (B) No application after limit exceeded
 
@@ -68,7 +68,7 @@ The internal revenue taxes imposed by this part shall be in addition to any impo
 
 #### (C) Calendar quarter
 
-&emsp;&emsp;For purposes of this paragraph, the term “calendar quarter” means the three-monthperiod ending on March 31, June 30, September 30, or December 31.
+&emsp;&emsp;For purposes of this paragraph, the term “calendar quarter” means the three-month period ending on March 31, June 30, September 30, or December 31.
 
 #### (5) Special rule for tax due in September
 
@@ -140,7 +140,7 @@ Subsec. (e)(3). Pub. L. 99–514 added par. (3).
 
 <b>1979</b>—Subsec. (a). Pub. L. 96–39, §807(a)(9)(A), struck out “rectified distilled spirits and wines,” after “distilled spirits, wines,”.
 
-Subsec. (b). Pub. L. 96–39, §807(a)(9)(B), in provisions preceding par. (1) struck out “rectified distilled spirits and wines” after “spirits, wines,” and redesignated pars. (4) to (7) as (3) to (6), respectively. Former par. (3),which made reference to section 5026(a)(2), was struck out.
+Subsec. (b). Pub. L. 96–39, §807(a)(9)(B), in provisions preceding par. (1) struck out “rectified distilled spirits and wines” after “spirits, wines,” and redesignated pars. (4) to (7) as (3) to (6), respectively. Former par. (3), which made reference to section 5026(a)(2), was struck out.
 
 Subsec. (d). Pub. L. 96–39, §804(b), added subsec. (d).
 

@@ -54,7 +54,7 @@ In this part—
 
 &emsp;&emsp;&emsp;(i) for contract year 1999 shall be not more than $6,000; and
 
-&emsp;&emsp;&emsp;(ii) for a subsequent contract year shall be not more than the maximum amount ofsuch deductible for the previous contract year under this subparagraph increased by the national per capita Medicare+Choice growth percentage under section 1395w–23(c)(6) of this title for the year.
+&emsp;&emsp;&emsp;(ii) for a subsequent contract year shall be not more than the maximum amount of such deductible for the previous contract year under this subparagraph increased by the national per capita Medicare+Choice growth percentage under section 1395w–23(c)(6) of this title for the year.
 
 > &emsp;&emsp;If the amount of the deductible under clause (ii) is not a multiple of $50, the amount shall be rounded to the nearest multiple of $50.
 
@@ -136,7 +136,7 @@ Nothing in this part shall be construed as preventing a State from coordinating 
 
 &emsp;For purposes of paragraph (2)(A), a “religious fraternal benefit society” described in this section is an organization that—
 
-&emsp;&emsp;(A) is described in section 501(c)(8) of the Internal Revenue Code of 1986 and is exemptfrom taxation under section 501(a) of such Act;
+&emsp;&emsp;(A) is described in section 501(c)(8) of the Internal Revenue Code of 1986 and is exempt from taxation under section 501(a) of such Act;
 
 &emsp;&emsp;(B) is affiliated with, carries out the tenets of, and shares a religious bond with, a church or convention or association of churches or an affiliated group of churches;
 
@@ -246,9 +246,9 @@ Nothing in this part shall be construed as preventing a State from coordinating 
 
 #### (1) In general
 
-&emsp;In the case of a Medicare Advantage senior housing facility plan described in paragraph (2), notwithstanding any other provision of this part to the contrary and in accordance with regulations of the Secretary, the service area of such plan may be limited to a senior housing facility in a geographic area.
+&emsp;In the case of a Medicare Advantage senior housing facility plan described in paragraph (2), notwithstanding any other provision of this part to the contrary and in accordance with regulations of the Secretary, the servicearea of such plan may be limited to a senior housing facility in a geographic area.
 
-#### (2) Medicare advantage senior housing facility plan described
+#### (2) Medicare Advantage senior housing facility plan described
 
 &emsp;For purposes of this subsection, a Medicare Advantage senior housing facility plan is a Medicare Advantage plan that—
 
@@ -263,8 +263,6 @@ Nothing in this part shall be construed as preventing a State from coordinating 
 (Aug. 14, 1935, ch. 531, title XVIII, §1859, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 325; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §523\], Nov. 29, 1999, 113 Stat. 1536, 1501A–387; Pub. L. 108–173, title II, §§221(b)(1), (d)(2), 231(b), (c), Dec. 8, 2003, 117 Stat. 2180, 2193, 2207, 2208; Pub. L. 110–173, title I, §108(a), Dec. 29, 2007, 121 Stat. 2496; Pub. L. 110–275, title I, §§162(b), 164(a), (c)(1), (d)(1), (e)(1), July 15, 2008, 122 Stat. 2571–2574; Pub. L. 111–148, title III, §§3205(a), (c), (e), (g), 3208(a), Mar. 23, 2010, 124 Stat. 457–459.)
 
 #### References in Text
-
-Parts A and B of this subchapter, referred to in subsec. (b)(3)(A), are classified to section 1395c et seq. and section 1395j et seq., respectively, of this title.
 
 The Internal Revenue Code of 1986, referred to in subsec. (e)(3)(A), is classified generally to Title 26, Internal Revenue Code.
 

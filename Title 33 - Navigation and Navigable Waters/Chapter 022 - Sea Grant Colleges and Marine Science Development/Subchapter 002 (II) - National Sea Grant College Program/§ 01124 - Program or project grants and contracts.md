@@ -46,7 +46,7 @@ Any person may apply to the Secretary for a grant or contract under this section
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–394, §6(1), substituted “1123(c)(4)(F) of this title or that are appropriatedunder section 1127(b) of this title.” for “1123(c)(4)(F) of this title.”
+<b>2008</b>—Subsec. (a). Pub. L. 110–394, §6(1), substituted “1123(c)(4)(F) of this title or that are appropriated under section 1127(b) of this title.” for “1123(c)(4)(F) of this title.”
 
 Subsec. (b). Pub. L. 110–394, §6(2), inserted concluding provisions and struck out former concluding provisions which read as follows: “The total amount which may be provided for grants under this subsection during any fiscal year shall not exceed an amount equal to 1 percent of the total funds appropriated for such year pursuant to section 1131 of this title.”
 

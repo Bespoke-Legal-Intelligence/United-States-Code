@@ -68,7 +68,7 @@ Pub. L. 108–458, title VI, §6601, Dec. 17, 2004, 118 Stat. 3761, provided tha
 
 #### Short Title of 2002 Amendment
 
-Pub. L. 107–197, title I, §101, June 25, 2002, 116 Stat. 721, provided that: “This title \[enacting section 2332f of this title and provisions set out as notes under section 2332f of this title\] may be cited as the ‘Terrorist Bombings Convention Implementation Act of 2002’.”
+Pub. L. 107–197, title I, §101, June 25, 2002, 116 Stat. 721, provided that: “This title \[enacting section 2332f ofthis title and provisions set out as notes under section 2332f of this title\] may be cited as the ‘Terrorist Bombings Convention Implementation Act of 2002’.”
 
 Pub. L. 107–197, title II, §201, June 25, 2002, 116 Stat. 724, provided that: “This title \[enacting section 2339C of this title and provisions set out as notes under section 2339C of this title\] may be cited as the ‘Suppression of the Financing of Terrorism Convention Implementation Act of 2002’.”
 

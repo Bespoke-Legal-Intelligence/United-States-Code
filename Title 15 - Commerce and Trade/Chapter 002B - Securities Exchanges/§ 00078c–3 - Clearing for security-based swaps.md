@@ -66,11 +66,11 @@
 
 #### (1) In general
 
-&emsp;After making a determination pursuant to subsection (b)(2), the Commission, on application of a counterparty to a security-based swap or on its own initiative, may stay the clearing requirement of subsection (a)(1) until the Commission completes a review of the terms of the security-based swap (or thegroup, category, type, or class of security-based swaps) and the clearing arrangement.
+&emsp;After making a determination pursuant to subsection (b)(2), the Commission, on application of a counterparty to a security-based swap or on its own initiative, may stay the clearing requirement of subsection (a)(1) until the Commission completes a review of the terms of the security-based swap (or the group, category, type, or class of security-based swaps) and the clearing arrangement.
 
 #### (2) Deadline
 
-&emsp;The Commission shall complete a review undertaken pursuant to paragraph (1) not later than 90 days after issuance of the stay, unless the clearing agency that clears the security-based swap, or group, category, type, or class of security-based swaps, agrees to an extension of the time limitation established under this paragraph.
+&emsp;The Commission shall complete a review undertaken pursuant to paragraph (1) notlater than 90 days after issuance of the stay, unless the clearing agency that clears the security-based swap, or group, category, type, or class of security-based swaps, agrees to an extension of the time limitation established under this paragraph.
 
 #### (3) Determination
 

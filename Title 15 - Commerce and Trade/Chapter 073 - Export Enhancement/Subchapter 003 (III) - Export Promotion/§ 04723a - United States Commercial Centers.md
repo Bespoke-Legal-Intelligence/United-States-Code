@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary of Commerce, in his or her role as chairperson of the Trade Promotion Coordinating Committee, is authorized and encouraged to establish United States Commercial Centers (hereinafter in this section referred to as “Centers”) in Asia, in Latin America, and in Africa.
+The Secretary of Commerce, in his or her role as chairperson of the Trade Promotion Coordinating Committee, is authorized and encouraged to establish United States Commercial Centers\(hereinafter in this section referred to as “Centers”) in Asia, in Latin America, and in Africa.
 
 #### (b) Purpose of Centers
 
@@ -68,7 +68,7 @@ Each Center shall be staffed by members of the United States and Foreign Commerc
 
 #### (h) Use of Market Development Cooperator Program
 
-The Secretary of Commerce shall, to the greatest extent feasible, use the Market Development Cooperator Program established undersection 4723 of this title to assist in carrying out the purposes of the Centers established under this section.
+The Secretary of Commerce shall, to the greatest extent feasible, use the Market Development Cooperator Program established under section 4723 of this title to assist in carrying out the purposes of the Centers established under this section.
 
 #### (i) Authorization of appropriations
 
@@ -92,7 +92,7 @@ For purposes of this section—
 
 &emsp;(2) the term “State” means any of the several States, the District of Columbia, or any commonwealth, territory, or possession of the United States; and
 
-&emsp;(3) the term “United States” means the several States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
+&emsp;(3) the term “United States” means the several States, the District of Columbia, and anycommonwealth, territory, or possession of the United States.
 
 (Pub. L. 102–549, title IV, §401, Oct. 28, 1992, 106 Stat. 3661; Pub. L. 104–66, title I, §1021(b), Dec. 21, 1995, 109 Stat. 712.)
 

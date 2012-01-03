@@ -2,15 +2,15 @@
 
 (a)
 
-Minimum Investment.—Each fiscal year, the Secretary of a military department shall invest in the capital budgets of the covered depots of that military department a total amount equal to not less than six percent of the average total combined workload funded at all the depots of that military department for the preceding three fiscal years.
+Minimum Investment.—Each fiscal year, the Secretary of a military department shall invest in the capital budgets of the covered depots of that military department a total amount equal to not less than six percent of the average total combined maintenance, repair, and overhaul workload funded at all the depots of that military department for the preceding three fiscal years.
 
 (b)
 
-Capital Budget.—For purposes of this section, the capital budget of a depot includes investment funds spent on depot infrastructure, equipment, and process improvement in direct support of depot operations.
+Capital Budget.—For purposes of this section, the capital budget of a depot includes investment funds spent to modernize or improve the efficiency of depot facilities, equipment, work environment, or processes in direct support of depot operations, but does not include funds spent for sustainment of existing facilities, infrastructure, or equipment.
 
 (c)
 
-Waiver.—The Secretary of Defense may waive the requirement under subsection (a) with respect to a military department for a fiscal year if the Secretary determines that the waiver is necessary for reasons of national security. Whenever the Secretary makes such a waiver, the Secretary shall notify the congressional defense committees of the waiver and the reasons for the waiver.
+Waiver.—The Secretary of Defense may waive the requirement under subsection (a) with respect to a military department for a fiscalyear if the Secretary determines that the waiver is necessary for reasons of national security. Whenever the Secretary makes such a waiver, the Secretary shall notify the congressional defense committees of the waiver and the reasons for the waiver.
 
 (d)
 
@@ -25,6 +25,8 @@ Annual Report.—(1) Not later than 45 days after the date on which the Presiden
 &emsp;(C) If the requirement under subsection (a) is not met for a military department for the fiscal year covered by the report, a statement of the reasons why the requirement was not met and a plan of actions for meeting the requirement for the fiscal year beginning in the year in which such report is submitted.
 
 &emsp;(D) Separate consideration and reporting of Navy depots and Marine Corps depots.
+
+&emsp;(E) A table showing the funded workload performed by each covered depot for the preceding three fiscal years and actual investment funds allocated to each depot for the period covered by the report.
 
 (e)
 
@@ -47,6 +49,8 @@ Covered Depot.—In this section, the term “covered depot” means any of the 
 &emsp;&emsp;(G) Rock Island Arsenal, Illinois.
 
 &emsp;&emsp;(H) Pine Bluff Arsenal, Arkansas.
+
+&emsp;&emsp;(I) Tooele Army Depot, Utah.
 
 &emsp;(2) With respect to the Department of the Navy:
 
@@ -80,11 +84,19 @@ Covered Depot.—In this section, the term “covered depot” means any of the 
 
 &emsp;&emsp;(C) Oklahoma City Air Logistics Center, Oklahoma.
 
-(Added Pub. L. 109–364, div. A, title III, §332(a), Oct. 17, 2006, 120 Stat. 2149; amended Pub. L. 110–417, \[div. A\], title III, §327, Oct. 14, 2008, 122 Stat. 4418; Pub. L. 111–383, div. A, title X, §1075(b)(36), Jan. 7, 2011, 124 Stat. 4371.)
+(Added Pub. L. 109–364, div. A, title III, §332(a), Oct. 17, 2006, 120 Stat. 2149; amended Pub. L. 110–417, \[div. A\], title III, §327, Oct. 14, 2008, 122 Stat. 4418; Pub. L. 111–383, div. A, title X, §1075(b)(36), Jan. 7, 2011, 124 Stat. 4371; Pub. L. 112–81, div. A, title III, §325, Dec. 31, 2011, 125 Stat. 1364.)
 
 #### Amendments
 
-<b>2011</b>—Subsec. (d)(2)(D). Pub. L. 111–383 substituted “Navy depots” for “Navy Depots”.
+<b>2011</b>—Subsec. (a). Pub. L. 112–81, §325(1), inserted “maintenance, repair, and overhaul” after “combined”.
+
+Subsec. (b). Pub. L. 112–81, §325(2), substituted “includes investment funds spent to modernize or improve the efficiency of depot facilities, equipment, work environment, or processes in direct support” for “includes investment funds spent on depot infrastructure, equipment, and process improvement in direct support” and inserted “, but does not include funds spent for sustainment of existing facilities, infrastructure, or equipment” before period at end.
+
+Subsec. (d)(2)(D). Pub. L. 111–383 substituted “Navy depots” for “Navy Depots”.
+
+Subsec. (d)(2)(E). Pub. L. 112–81, §325(3), which directed addition of subpar. (E) at end of subsec. (d), was executed by adding subpar. (E) at end of par. (2) of subsec. (d) to reflect the probable intent of Congress.
+
+Subsec. (e)(1)(I). Pub. L. 112–81, §325(4), added subpar. (I).
 
 <b>2008</b>—Subsec. (d)(2)(D). Pub. L. 110–417, §327(b)(1), added subpar. (D).
 

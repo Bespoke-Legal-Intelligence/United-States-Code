@@ -36,7 +36,7 @@ The period of limitations for assessment of any such liability of a transferee o
 
 #### (1) Initial transferee
 
-&emsp;In the case of the liability of an initial transferee, within 1 year after the expirationof the period of limitation for assessment against the transferor;
+&emsp;In the case of the liability of an initial transferee, within 1 year after the expiration of the period of limitation for assessment against the transferor;
 
 #### (2) Transferee of transferee
 

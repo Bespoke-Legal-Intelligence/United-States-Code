@@ -30,7 +30,7 @@ In subsec. (a)(1), “subchapter IV of chapter 5 of title 40” substituted for 
 
 #### Amendments
 
-2010—Subsec. (b). Pub. L. 111–245 substituted “title 10, by section 93 of title 14, or by section 321n or 464 of this title, gifts or donations” for “title 10 and by section 93 of title 14, gifts or donations”.
+<b>2010</b>—Subsec. (b). Pub. L. 111–245 substituted “title 10, by section 93 of title 14, or by section 321n or 464 of this title, gifts or donations” for “title 10 and by section 93 of title 14, gifts or donations”.
 
-2003—Subsec. (b). Pub. L. 108–7 substituted “Except as authorized by section 2601 of title 10 and by section 93 of title 14, gifts” for “Gifts”.
+<b>2003</b>—Subsec. (b). Pub. L. 108–7 substituted “Except as authorized by section 2601 of title 10 and by section 93 of title 14, gifts” for “Gifts”.
 

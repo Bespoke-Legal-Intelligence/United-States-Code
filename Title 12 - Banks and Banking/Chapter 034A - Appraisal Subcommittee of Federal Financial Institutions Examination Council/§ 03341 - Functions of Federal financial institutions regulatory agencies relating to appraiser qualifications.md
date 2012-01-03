@@ -26,25 +26,33 @@ Each Federal financial institutions regulatory agency and the Resolution Trust C
 
 &emsp;Upon completing each of the studies referred to in paragraph (1), the Comptroller General shall submit a report on the Comptroller General's findings and conclusions with respect to such study to the Federal financial institutions regulatory agencies, the Committee on Banking, Finance and Urban Affairs of the House of Representatives, and the Committee on Banking, Housing, and Urban Affairs of the Senate, together with such recommendations for legislative or administrative action as the Comptroller General determines to be appropriate.
 
-(Pub. L. 101–73, title XI, §1112, Aug. 9, 1989, 103 Stat. 514; Pub. L. 102–550, title IX, §954, Oct. 28, 1992, 106 Stat. 3894; Pub. L. 104–208, div. A, title II, §2704(d)(15)(B), Sept. 30, 1996, 110 Stat. 3009–495; Pub. L. 104–316, title I, §106(g), Oct. 19, 1996, 110 Stat. 3831; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §9(g)(2), Feb. 15, 2006, 119 Stat. 3618.)
+(Pub. L. 101–73, title XI, §1112, Aug. 9, 1989, 103 Stat. 514; Pub. L. 102–550, title IX, §954, Oct. 28, 1992, 106 Stat. 3894; Pub. L. 104–208, div. A, titleII, §2704(d)(15)(B), Sept. 30, 1996, 110 Stat. 3009–495; Pub. L. 104–316, title I, §106(g), Oct. 19, 1996, 110 Stat. 3831; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §9(g)(2), Feb. 15, 2006, 119 Stat. 3618; Pub. L. 111–203, title XIV, §1473(a), July 21, 2010, 124 Stat. 2190.)
+
+#### Amendment of Subsection (b)
+
+<i>Pub. L. 111–203, title XIV, §§1400(c), 1473(a), July 21, 2010, 124 Stat. 2136, 2190, provided that subsection (b) of this section is amended, effective on the date on which final regulations implementing such amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, by inserting “, and receives concurrence from the Bureau of Consumer Financial Protection that such threshold level provides reasonable protection for consumers who purchase 1–4 unit single-family residences” before the period. See Effective Date of 2010 Amendment note below.</i>
 
 #### Amendments
 
-2006—Subsec. (c)(1)(B). Pub. L. 109–173 substituted “Deposit Insurance Fund” for “Bank Insurance Fund, the Savings Association Insurance Fund,”.
+<b>2006</b>—Subsec. (c)(1)(B). Pub. L. 109–173 substituted “Deposit Insurance Fund” for “Bank Insurance Fund, the Savings Association Insurance Fund,”.
 
 Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(15)(B). See 1996 Amendment note below.
 
-1996—Subsec. (c)(1). Pub. L. 104–316, §106(g)(1)(A), (2), in heading substituted “GAO studies” for “Study required”, and in text substituted “The Comptroller General of the United States may conduct, under such conditions as the Comptroller General determines appropriate, studies” for “At the end of the 18-month period, and the end of the 36-month period, beginning on October 28, 1992, the Comptroller General of the United States shall conduct a study”.
+<b>1996</b>—Subsec. (c)(1). Pub. L. 104–316, §106(g)(1)(A), (2), in heading substituted “GAO studies” for “Study required”, and in text substituted “The Comptroller General of the United States may conduct, under such conditions as the Comptroller General determines appropriate, studies” for “At the end of the 18-month period, and the end of the 36-month period, beginning on October 28, 1992, the Comptroller General of the United States shall conduct a study”.
 
 Subsec. (c)(1)(B). Pub. L. 104–208, §2704(d)(15)(B), which directed substitution of “Deposit Insurance Fund” for “Bank Insurance Fund, the Savings Association Insurance Fund,”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
 Subsec. (c)(2). Pub. L. 104–316, §106(g)(1)(B), substituted “referred to in” for “required under”.
 
-1992—Pub. L. 102–550 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
+<b>1992</b>—Pub. L. 102–550 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
 
 #### Change of Name
 
 Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as a note under section 1601 of Title 15, Commerce and Trade.
 
 #### Effective Date of 2006 Amendment
 
@@ -54,5 +62,5 @@ Amendment by Pub. L. 109–171 effective no later than the first day of the firs
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L.104–208, formerly set out as a note under section 1821 of this title.
+Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L. 104–208, formerly set out as a note under section 1821 of this title.
 

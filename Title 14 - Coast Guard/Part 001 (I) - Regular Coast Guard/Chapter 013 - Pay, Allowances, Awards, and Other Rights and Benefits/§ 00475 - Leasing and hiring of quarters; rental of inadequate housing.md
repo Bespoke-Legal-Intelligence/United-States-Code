@@ -20,19 +20,19 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### Amendments
 
-1987—Subsecs. (b) to (d). Pub. L. 100–180 redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which read as follows: “Notwithstanding the provisions of any other law, members of the Coast Guard, with dependents, may occupy on a rental basis, without loss of basic allowance for quarters, inadequate quarters under the jurisdiction of the Coast Guard notwithstanding that such quarters may have been constructed or converted for assignment as public quarters. The net difference between the basic allowance for quarters and the fair rental value of such quarters shall be paid from otherwise available appropriations; however, no rental charge for such quarters shall be made against the basic allowance for quarters of a member of the Coast Guard in excess of 75 percent of such allowance except that in no event shall the net rental value charged to the member's basic allowance for quarters be less than the cost of maintaining and operating the housing.”
+<b>1987</b>—Subsecs. (b) to (d). Pub. L. 100–180 redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which read as follows: “Notwithstanding the provisions of any other law, members of the Coast Guard, with dependents, may occupy on a rental basis, without loss of basic allowance for quarters, inadequate quarters under the jurisdiction of the Coast Guard notwithstanding that such quarters may have been constructed or converted for assignment as public quarters. The net difference between the basic allowance for quarters and the fair rental value of such quarters shall be paid from otherwise available appropriations; however, no rental charge for such quarters shall be made against the basic allowance for quarters of a member of the Coast Guard in excess of 75 percent of such allowance except that in no event shall the net rental value charged to the member's basic allowance for quarters be less than the cost of maintaining and operating the housing.”
 
-1982—Subsec. (b). Pub. L. 97–295 substituted “percent” for “per centum”.
+<b>1982</b>—Subsec. (b). Pub. L. 97–295 substituted “percent” for “per centum”.
 
 Subsecs. (e), (f). Pub. L. 97–322 repealed subsec. (e) which required that the Secretary, annually and not later than April 1, file with the Speaker of the House and the President of the Senate a report of the utilization of subsecs. (a), (b), and (d) authority during the preceding calendar year, and subsec. (f) which prohibited utilization of subsecs. (a), (b), (c), or (d) authority after Apr. 1, 1973, unless all required subsec. (e) reports were filed with the Congress.
 
-1981—Subsec. (a). Pub. L. 97–136 inserted provisions authorizing the Secretary to lease housing facilities for assignment as public quarters, without rental charge, to military personnel who are on sea duty or duty at remote offshore Coast Guard stations and who do not have dependents, and further provided that such authority shall be effective in any fiscal year only to such extent or in such amounts as are provided in appropriation acts.
+<b>1981</b>—Subsec. (a). Pub. L. 97–136 inserted provisions authorizing the Secretary to lease housing facilities for assignment as public quarters, without rental charge, to military personnel who are on sea duty or duty at remote offshore Coast Guard stations and who do not have dependents, and further provided that such authority shall be effective in any fiscal year only to such extent or in such amounts as are provided in appropriation acts.
 
-1980—Subsec. (a). Pub. L. 96–376 substituted “multiyear basis” for “multi-year basis,” and authorized advance payment for any housing facilities lease in accordance with local custom and practice.
+<b>1980</b>—Subsec. (a). Pub. L. 96–376 substituted “multiyear basis” for “multi-year basis,” and authorized advance payment for any housing facilities lease in accordance with local custom and practice.
 
 Subsec. (e). Pub. L. 96–470 struck out reference to subsec. (c).
 
-1976—Subsec. (a). Pub. L. 94–546, §1(30)(a), substituted “Secretary” for “Secretary of the Department in which the Coast Guard is operating” wherever appearing.
+<b>1976</b>—Subsec. (a). Pub. L. 94–546, §1(30)(a), substituted “Secretary” for “Secretary of the Department in which the Coast Guard is operating” wherever appearing.
 
 Pub. L. 94–478 inserted provision allowing leases for housing facilities in foreign countries to be made on a multi-year basis.
 
@@ -42,15 +42,15 @@ Pub. L. 94–406, §4(1), redesignated subsec. (f) as (e). Former subsec. (e), w
 
 Subsecs. (f), (g). Pub. L. 94–406, §4(1), (2), redesignated subsec. (g) as (f) and substituted “(e)” for “(f)”. Former subsec. (f) redesignated (e).
 
-1973—Subsec. (e). Pub. L. 93–65 extended termination date of authority provided in subsecs. (b) and (c) from June 30, 1973, to June 30, 1976.
+<b>1973</b>—Subsec. (e). Pub. L. 93–65 extended termination date of authority provided in subsecs. (b) and (c) from June 30, 1973, to June 30, 1976.
 
-1972—Subsec. (a). Pub. L. 92–343, §4(1), substituted “The Secretary of the Department in which the Coast Guard is operating” for “The Secretary” in first sentence.
+<b>1972</b>—Subsec. (a). Pub. L. 92–343, §4(1), substituted “The Secretary of the Department in which the Coast Guard is operating” for “The Secretary” in first sentence.
 
 Subsec. (e). Pub. L. 92–343, §4(2), struck out reference to subsec. (a) and extended authority provided in subsecs. (b) and (c) to June 30, 1973.
 
 Subsecs. (f), (g). Pub. L. 92–343, §4(3), added subsecs. (f) and (g).
 
-1970—Pub. L. 91–278 substituted “Leasing and hiring of quarters; rental of inadequate housing” for “Hiring of quarters for personnel” in section catchline, designated existing provisions as subsec. (d), and added subsecs. (a) to (c) and (e).
+<b>1970</b>—Pub. L. 91–278 substituted “Leasing and hiring of quarters; rental of inadequate housing” for “Hiring of quarters for personnel” in section catchline, designated existing provisions as subsec. (d), and added subsecs. (a) to (c) and (e).
 
 #### Ex. Ord. No. 11645. Authority of Secretary of Homeland Security To Prescribe Certain Regulations Relating to Housing
 

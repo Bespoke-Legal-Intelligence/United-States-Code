@@ -64,7 +64,7 @@ The Secretary may require—
 
 > Any person who is required to report under this subsection and who has 25 or more reportable transactions in a month shall file such report in electronic format.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 484; Pub. L. 89–44, title VIII, §802(b)(2), June 21, 1965, 79 Stat. 159; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–424, title V, §515(b)(8), Jan. 6, 1983, 96 Stat. 2182; Pub. L. 99–514, title XVII, §1703(b)(1), Oct. 22, 1986, 100 Stat. 2776; Pub. L. 100–203, title X, §10502(d)(3), Dec. 22, 1987, 101 Stat. 1330–444; Pub. L. 101–508, title XI, §11212(b)(1), Nov. 5, 1990, 104 Stat. 1388–430; Pub. L. 103–66, title XIII, §13242(d)(1), Aug. 10, 1993, 107 Stat. 522; Pub. L. 105–34, title X, §1032(d), Aug. 5, 1997, 111 Stat. 934; Pub. L. 105–206, title VI, §6010(h)(5), July 22, 1998, 112 Stat. 815; Pub. L. 107–147, title VI, §615(a), Mar. 9, 2002, 116 Stat. 62; Pub. L. 108–357, title III, §301(b), title VIII, §§853(d)(2)(F), 861(a), 862(a), 864(a), Oct. 22, 2004, 118 Stat. 1461, 1613, 1618, 1619, 1621; Pub. L. 109–59, title XI, §§11113(c), 11163(a), 11164(a), Aug. 10, 2005, 119 Stat. 1949, 1973, 1975; Pub. L. 110–172, §11(a)(29), Dec. 29, 2007, 121 Stat. 2487; Pub. L. 110–234, title XV, §15321(b)(3)(A), May 22, 2008, 122 Stat. 1513; Pub. L. 110–246, §4(a), title XV, §15321(b)(3)(A), June 18, 2008, 122 Stat. 1664, 2275.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 484; Pub. L. 89–44, title VIII, §802(b)(2), June 21, 1965, 79 Stat. 159; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–424, title V, §515(b)(8), Jan. 6, 1983, 96 Stat. 2182; Pub. L. 99–514, title XVII, §1703(b)(1), Oct. 22, 1986, 100 Stat. 2776; Pub. L. 100–203, title X, §10502(d)(3), Dec. 22, 1987, 101 Stat. 1330–444; Pub. L. 101–508, title XI, §11212(b)(1), Nov. 5, 1990, 104 Stat. 1388–430; Pub. L. 103–66, title XIII, §13242(d)(1), Aug. 10, 1993, 107 Stat. 522; Pub. L. 105–34, title X, §1032(d), Aug. 5, 1997, 111 Stat. 934; Pub. L. 105–206, title VI, §6010(h)(5), July 22, 1998, 112 Stat. 815; Pub. L. 107–147, title VI, §615(a), Mar. 9, 2002, 116 Stat. 62; Pub. L. 108–357, title III, §301(b), title VIII, §§853(d)(2)(F), 861(a), 862(a), 864(a), Oct. 22, 2004, 118 Stat. 1461, 1613, 1618, 1619, 1621; Pub. L. 109–59, title XI, §§11113(c), 11163(a), 11164(a), Aug. 10, 2005, 119 Stat. 1949, 1973, 1975; Pub. L. 110–172, §11(a)(29), Dec. 29, 2007, 121 Stat. 2487; Pub. L. 110–234, title XV, §15321(b)(3)(A),May 22, 2008, 122 Stat. 1513; Pub. L. 110–246, §4(a), title XV, §15321(b)(3)(A), June 18, 2008, 122 Stat. 1664, 2275.)
 
 #### Codification
 
@@ -136,7 +136,7 @@ Amendment by section 15321(b)(3)(A) of Pub. L. 110–246 applicable to fuel prod
 
 #### Effective Date of 2005 Amendment
 
-Amendment by section 11113(c) of Pub. L. 109–59 applicable to any sale or use for any period after Sept. 30,2006, see section 11113(d) of Pub. L. 109–59, set out as a note under section 4041 of this title.
+Amendment by section 11113(c) of Pub. L. 109–59 applicable to any sale or use for any period after Sept. 30, 2006, see section 11113(d) of Pub. L. 109–59, set out as a note under section 4041 of this title.
 
 Pub. L. 109–59, title XI, §11163(e), Aug. 10, 2005, 119 Stat. 1975, provided that: “The amendments made by this section \[amending this section and sections 6206, 6416, 6427, and 6675 of this title\] shall apply to sales after December 31, 2005.”
 

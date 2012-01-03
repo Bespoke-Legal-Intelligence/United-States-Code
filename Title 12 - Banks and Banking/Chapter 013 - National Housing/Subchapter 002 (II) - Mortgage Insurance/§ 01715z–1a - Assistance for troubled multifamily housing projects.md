@@ -12,7 +12,7 @@ The Secretary of Housing and Urban Development (hereinafter referred to in this 
 
 A rental or cooperative housing project is eligible for assistance under this section only if such project—
 
-&emsp;(1)(A) is assisted under section 236 \[12 U.S.C. 1715z–1\] or the proviso of section 221(d)(5) of the National Housing Act \[12 U.S.C. 1715<i>l</i>(d)(5)\], or under section 101 of the Housing and Urban Development Act of 1965 \[12 U.S.C.1701s\], or received a loan under section 202 of the Housing Act of 1959 \[12 U.S.C. 1701q\] more than 15 years before the date on which assistance is made available under this section;
+&emsp;(1)(A) is assisted under section 236 \[12 U.S.C. 1715z–1\] or the proviso of section 221(d)(5) of the National Housing Act \[12 U.S.C. 1715<i>l</i>(d)(5)\], or under section 101 of the Housing and Urban Development Act of 1965 \[12 U.S.C. 1701s\], or received a loan under section 202 of the Housing Act of 1959 \[12 U.S.C. 1701q\] more than 15 years before the date on which assistance is made available under this section;
 
 &emsp;(B) is assisted under section 23 of the United States Housing Act of 1937 \[42 U.S.C. 1421b\], as in effect immediately before January 1, 1975, section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\] following conversion to such assistance from assistance under section 236 of the National Housing Act \[12 U.S.C. 1715z–1\] or section 101 of the Housing and Urban Development Act of 1965 \[12 U.S.C. 1701s\]; or
 
@@ -136,7 +136,7 @@ The Secretary may not use any of the assistance available under this section dur
 
 &emsp;(ii) such interest rate plus such allowance shall not exceed 6 percent per annum nor be less than 3 percent per annum.
 
-(C) Each loan for capital improvements provided under this section shall be considered tobe a liability of the project involved, and shall not be dischargeable in any bankruptcy proceeding under section 727, 1141, or 1328(b) of title 11.
+(C) Each loan for capital improvements provided under this section shall be considered to be a liability of the project involved, and shall not be dischargeable in any bankruptcy proceeding under section 727, 1141, or 1328(b) of title 11.
 
 (D) The Secretary may establish such additional conditions on loans provided under this section as the Secretary determines to be appropriate. The Secretary may require owners receiving assistance for capital improvements under this section to retain the housing as housing affordable for very low-income families or persons, low-income families or persons and moderate-income families or persons for the remaining useful life of the housing. For purposes of this section, the term “remaining useful life” means, with respect to housing assisted under this section, the period during which the physical characteristics of the housing remain in a condition suitable for occupancy, assuming normal maintenance and repairs are made and major systems and capital components are replaced as becomes necessary.
 
@@ -154,7 +154,7 @@ The Secretary may not use any of the assistance available under this section dur
 
 &emsp;(C) Increase the term of such loan to a term that does not exceed the remaining term of the mortgage on such project.
 
-&emsp;(D) Increase the amount of assistance to be provided by the owner of such project under subsection (k)(2) of this section, if applicable, to an amount not to exceed 30 percent of the total estimated cost of the capital improvements involved.
+&emsp;(D) Increase the amount of assistance to be provided by the owner of such project under subsection (k)(2) of this section, if applicable, to an amount not to exceed 30 percent of thetotal estimated cost of the capital improvements involved.
 
 &emsp;(E) Permit repayment of the debt service to be deferred as long as the low and moderate income character of the project is maintained in accordance with subsection (d) of this section.
 
@@ -196,7 +196,7 @@ The Secretary may not use any of the assistance available under this section dur
 
 #### (<i>o</i>) Coordination of assistance
 
-The Secretary shall coordinate the allocation of assistance under this section with assistancemade available under section 8(v) of the United States Housing Act of 1937 \[42 U.S.C. 1437f(v)\] and section 1701z–11 of this title to enhance the cost effectiveness of the Federal response to troubled multifamily housing.
+The Secretary shall coordinate the allocation of assistance under this section with assistance made available under section 8(v) of the United States Housing Act of 1937 \[42 U.S.C. 1437f(v)\] and section 1701z–11 of this title to enhance the cost effectiveness of the Federal response to troubled multifamily housing.
 
 #### (p) Enhanced voucher eligibility
 
@@ -230,11 +230,11 @@ Section was enacted as part of the Housing and Community Development Amendments 
 
 #### Amendments
 
-1999—Subsec. (p). Pub. L. 106–74 added subsec. (p).
+<b>1999</b>—Subsec. (p). Pub. L. 106–74 added subsec. (p).
 
-1998—Subsec. (m)(2)(A). Pub. L. 105–276 substituted “section 8” for “section 8(b)(1)”.
+<b>1998</b>—Subsec. (m)(2)(A). Pub. L. 105–276 substituted “section 8” for “section 8(b)(1)”.
 
-1994—Subsec. (i). Pub. L. 103–233, §103(b)(1), struck out subsec. (i) which read as follows: “Notwithstanding any other provision of law, in exercising any authority relating to the approval or disapproval of rentals charged tenants residing in projects which are eligible for assistance under this section, the Secretary—
+<b>1994</b>—Subsec. (i). Pub. L. 103–233, §103(b)(1), struck out subsec. (i) which read as follows: “Notwithstanding any other provision of law, in exercising any authority relating to the approval or disapproval of rentals charged tenants residing in projects which are eligible for assistance under this section, the Secretary—
 
 &emsp;“(1) shall consider whether the mortgagor could control increases in utility costs by securing more favorable utility rates, by undertaking energy conservation measures which are financially feasible and cost effective, or by taking other financially feasible and cost-effective actions to increase energy efficiency or to reduce energy consumption; and
 
@@ -244,7 +244,7 @@ Subsec. (k)(2). Pub. L. 103–233, §103(b)(2), substituted a period for “, e
 
 &emsp;“(A) such contribution shall not be less than 20 percent of the total estimated cost of the capital improvements involved, unless the Secretary, upon application of the owner, determines that such contribution is financially infeasible and waives or reduces such contribution to the extent necessary;
 
-&emsp;“(B) the Secretary may not require an amount to be contributed, from the reserve funds established by the owner of such projects for the purpose of making capital improvements, in excess of 50 percent of theamount of such reserve funds on the date of such loan;
+&emsp;“(B) the Secretary may not require an amount to be contributed, from the reserve funds established by the owner of such projects for the purpose of making capital improvements, in excess of 50 percent of the amount of such reserve funds on the date of such loan;
 
 &emsp;“(C) The Secretary shall waive the requirements of this paragraph if such owner is a private nonprofit corporation or an association; and
 
@@ -270,7 +270,7 @@ Subsec. (n). Pub. L. 103–233, §103(b)(3), amended subsec. (n) generally. Prio
 
 Subsecs. (<i>o</i>), (p). Pub. L. 103–233, §103(b)(4) redesignated subsec. (p) as (<i>o</i>) and struck out former subsec. (<i>o</i>) which read as follows: “Projects receiving assistance under this section are not eligible for prepayment incentives under the Emergency Low-Income Housing Preservation Act of 1987 or the Low-Income Housing Preservation and Resident Homeownership Act of 1990. Projects receiving financial assistance under such Acts are not eligible for assistance under this section.”
 
-1992—Subsec. (d)(5). Pub. L. 102–550, §405(a)(1), struck out “and” at end.
+<b>1992</b>—Subsec. (d)(5). Pub. L. 102–550, §405(a)(1), struck out “and” at end.
 
 Subsec. (d)(6). Pub. L. 102–550, §406, which directed insertion, before period at end, of “; and except that the Secretary shall review and approve or disapprove each plan not later than the expiration of the 30-day period beginning upon the date of submission of the plan to the Secretary by the owner, but if the Secretary fails to inform the owner of approval or disapproval of the plan within such period the plan shall be considered to have been approved”, was executed by making the insertion before the concluding semicolon to reflect the probable intent of Congress and the intervening amendment by Pub. L. 102–550, §405(a)(2). See below.
 
@@ -304,11 +304,11 @@ Subsec. (<i>o</i>). Pub. L. 102–550, §405(d), added subsec. (<i>o</i>).
 
 Subsec. (p). Pub. L. 102–550, §405(f), added subsec. (p).
 
-1990—Subsec. (j)(1). Pub. L. 101–625, §578(c), inserted before period at end “and shall not (except as provided in Public Law 100–4–4 (102 Stat. 1018), as in effect on October 1, 1988) be made available for any other purpose”.
+<b>1990</b>—Subsec. (j)(1). Pub. L. 101–625, §578(c), inserted before period at end “and shall not (except as provided in Public Law 100–4–4 (102 Stat. 1018), as in effect on October 1, 1988) be made available for any other purpose”.
 
 Subsec. (j)(5). Pub. L. 101–625, §578(b), added par. (5).
 
-1989—Subsec. (j)(2). Pub. L. 101–235, §109(c), added cl. (E).
+<b>1989</b>—Subsec. (j)(2). Pub. L. 101–235, §109(c), added cl. (E).
 
 Subsec. (m)(2). Pub. L. 101–235, §203(a)(2)(B)(i), (ii), struck out “not subject to paragraph (1)” after “for a project” and inserted “, or where appropriate to implement a plan of action under subtitle B of the Emergency Low Income Housing Preservation Act of 1987” after second reference to “residents”.
 
@@ -316,7 +316,7 @@ Subsec. (m)(2)(B). Pub. L. 101–235, §203(a)(2)(A), substituted “Notwithstan
 
 Subsec. (m)(2)(E). Pub. L. 101–235, §203(a)(2)(B)(iii), added subpar. (E).
 
-1988—Pub. L. 100–242, §185(h), struck out “Operating” before “assistance” in section catchline.
+<b>1988</b>—Pub. L. 100–242, §185(h), struck out “Operating” before “assistance” in section catchline.
 
 Subsec. (a). Pub. L. 100–242, §185(a), inserted “to permit capital improvements to be made to maintain certain projects as decent, safe, and sanitary housing,” after “management,”.
 
@@ -328,7 +328,7 @@ Subsec. (c)(1)(B). Pub. L. 100–242, §185(b), inserted “section 23 of the Un
 
 Subsec. (d)(1). Pub. L. 100–242, §185(c)(1), inserted “or physical” after “maintain the financial”.
 
-Subsec. (d)(6). Pub. L. 100–242, §185(c)(2), inserted at end “; except that the Secretary may excuse an owner from compliance with the plan requirement set forth in this paragraph in any case in which such owner seeksonly assistance for capital improvements under this section”.
+Subsec. (d)(6). Pub. L. 100–242, §185(c)(2), inserted at end “; except that the Secretary may excuse an owner from compliance with the plan requirement set forth in this paragraph in any case in which such owner seeks only assistance for capital improvements under this section”.
 
 Subsec. (f)(1). Pub. L. 100–242, §185(d)(1), inserted parenthetical exception relating to projects assisted only for capital improvements.
 
@@ -342,11 +342,11 @@ Subsec. (j)(4). Pub. L. 100–628 substituted “shall, to the extent of approva
 
 Subsecs. (k) to (m). Pub. L. 100–242, §185(g), added subsecs. (k) to (m).
 
-1984—Subsec. (c). Pub. L. 98–479, §204(n)(1), substituted “A” for “a” in provisions before subpar. (A).
+<b>1984</b>—Subsec. (c). Pub. L. 98–479, §204(n)(1), substituted “A” for “a” in provisions before subpar. (A).
 
 Subsec. (j). Pub. L. 98–479, §204(n)(2), substituted “section 236(f)(3)” for “section 236(f)(3)(B)”.
 
-1983—Subsec. (a). Pub. L. 98–181, §217(a)(1), (b)(1), inserted “without regard to whether such projects are insured under the National Housing Act”, and substituted “, the United States Housing Act of 1937, or” for “or under”.
+<b>1983</b>—Subsec. (a). Pub. L. 98–181, §217(a)(1), (b)(1), inserted “without regard to whether such projects are insured under the National Housing Act”, and substituted “, the United States Housing Act of 1937, or” for “or under”.
 
 Subsec. (b). Pub. L. 98–181, §217(a)(2), inserted “, without regard to whether such projects are insured under the National Housing Act”.
 
@@ -354,7 +354,7 @@ Subsec. (c)(1)(A). Pub. L. 98–181, §217(a)(3), struck out “; except that, 
 
 Subsec. (c)(1)(B), (C). Pub. L. 98–181, §217(b)(2), added subpar. (B) and redesignated former subpar. (B) as (C).
 
-1981—Subsec. (f)(1)(D). Pub. L. 97–35, §329C(1), added subpar. (D).
+<b>1981</b>—Subsec. (f)(1)(D). Pub. L. 97–35, §329C(1), added subpar. (D).
 
 Subsec. (h). Pub. L. 97–35, §321(f)(2), added subsec. (h). Former subsec. (h) redesignated (j).
 
@@ -362,9 +362,9 @@ Subsec. (i). Pub. L. 97–35, §329C(2), added subsec. (i).
 
 Subsec. (j). Pub. L. 97–35, §321(f)(1), (2)(A), redesignated former subsec. (h) as (j) and authorized appropriation for fiscal year 1982.
 
-1980—Subsec. (h). Pub. L. 96–399 authorized appropriations for fiscal year 1981.
+<b>1980</b>—Subsec. (h). Pub. L. 96–399 authorized appropriations for fiscal year 1981.
 
-1979—Subsec. (d)(1). Pub. L. 96–153, §211(c), inserted requirement that the owner agree to maintain the low- and moderate-income character of such project for a period at least equal to the remaining term of the project mortgage.
+<b>1979</b>—Subsec. (d)(1). Pub. L. 96–153, §211(c), inserted requirement that the owner agree to maintain the low- and moderate-income character of such project for a period at least equal to the remaining term of the project mortgage.
 
 Subsec. (h). Pub. L. 96–153, §205(a), authorized appropriations for fiscal year 1980.
 

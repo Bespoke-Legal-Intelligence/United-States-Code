@@ -8,7 +8,27 @@ The provisions of this title relating to applications for patent shall be applic
 
 No reissued patent shall be granted enlarging the scope of the claims of the original patent unless applied for within two years from the grant of the original patent.
 
-(July 19, 1952, ch. 950, 66 Stat. 808; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
+(July 19, 1952, ch. 950, 66 Stat. 808; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, §§4(b)(2), 20(d), Sept. 16, 2011, 125 Stat. 296, 333.)
+
+#### Amendment of Section
+
+<i>Pub. L. 112–29, §20(d), (l), Sept. 16, 2011, 125 Stat. 333, 335, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, this section is amended:</i>
+
+<i>(1) in the first undesignated paragraph—</i>
+
+<i>(A) by striking “Whenever” and inserting “(a) IN GENERAL.—Whenever”; and</i>
+
+<i>(B) by striking “without any deceptive intention”;</i>
+
+<i>(2) in the second undesignated paragraph, by striking “The Director” and inserting “(b) MULTIPLE REISSUED PATENTS.—The Director”;</i>
+
+<i>(3) in the third undesignated paragraph, by striking “The provisions” and inserting “(c) APPLICABILITY OF THIS TITLE.—The provisions”; and</i>
+
+<i>(4) in the last undesignated paragraph, by striking “No reissued patent” and inserting “(d) REISSUE PATENT ENLARGING SCOPE OF CLAIMS.—No reissued patent”.</i>
+
+<i>See 2011 Amendment note below.</i>
+
+<i>Pub. L. 112–29, §4(b)(2), (e), Sept. 16, 2011, 125 Stat. 296, 297, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to any patent application that is filed on or after that effective date, this section is amended in the third undesignated paragraph by inserting “or the application for the original patent was filed by the assignee of the entire interest” after “claims of the original patent”. See 2011 Amendment note below.</i>
 
 #### Historical and Revision Notes
 
@@ -22,9 +42,19 @@ A two year period of limitation on applying for broadened reissues is added, cod
 
 #### Amendments
 
+<b>2011</b>—Pub. L. 112–29, §20(d), designated first to fourth pars. as subsecs. (a) to (d), respectively, inserted headings, and in subsec. (a), struck out “without any deceptive intention” after “error”.
+
+Pub. L. 112–29, §4(b)(2), in third par., inserted “or the application for the original patent was filed by the assignee of the entire interest” after “claims of the original patent”.
+
 <b>2002</b>—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
 
 <b>1999</b>—Pub. L. 106–113, as amended by Pub. L. 107–273, substituted “Director” for “Commissioner” in first and second pars.
+
+#### Effective Date of 2011 Amendment
+
+Amendment by section 4(b)(2) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to any patent application that is filed on or after that effective date, see section 4(e) of Pub. L. 112–29, set out as a note under section 111 of this title.
+
+Amendment by section 20(d) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(<i>l</i>) of Pub. L. 112–29, set out as a note under section 2 of this title.
 
 #### Effective Date of 1999 Amendment
 

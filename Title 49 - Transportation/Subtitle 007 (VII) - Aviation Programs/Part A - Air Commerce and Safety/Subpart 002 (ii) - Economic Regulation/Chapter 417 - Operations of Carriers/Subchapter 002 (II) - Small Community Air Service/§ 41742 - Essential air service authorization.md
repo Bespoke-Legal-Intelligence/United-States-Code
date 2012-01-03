@@ -10,7 +10,7 @@ Authorization.—Out of the amounts received by the Federal Aviation Administrat
 
 &emsp;(2)
 
-Additional funds.—In addition to amounts authorized under paragraph (1), there is authorized to be appropriated $77,000,000 for each fiscal year to carry out the essential air service program under this subchapter of which not more than $12,000,000 per fiscal year may be used for the marketing incentive program for communities and for State marketing assistance.
+Additional funds.—In addition to amounts authorized under paragraph (1), there is authorized to be appropriated out of the Airport and Airway Trust Fund (established under section 9502 of the Internal Revenue Code of 1986) $150,000,000 for fiscal year 2011 and $50,309,016 for the period beginning on October 1, 2011, and ending on January 31, 2012, to carry out the essential air service program under this subchapter of which not more than $12,000,000 per fiscal year may be used for the marketing incentive program for communities and for State marketing assistance.
 
 &emsp;(3)
 
@@ -20,7 +20,7 @@ Authorization for additional employees.—In addition to amounts authorized unde
 
 Funding for Small Community Air Service.—Notwithstanding any other provision of law, moneys credited to the account established under section 45303(a) of this title, including the funds derived from fees imposed under the authority contained in section 45301(a) of this title, shall be used to carry out the essential air service program under this subchapter. Notwithstanding section 47114(g) <sup>1</sup> of this title, any amounts from those fees that are not obligated or expended at the end of the fiscal year for the purpose of funding the essential air service program under this subchapter shall be made available to the Administration for use in improving rural air safety under subchapter I of chapter 471 of this title and shall be used exclusively for projects at rural airports under this subchapter.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1152; Pub. L. 104–264, title II, §278(c), Oct. 9, 1996, 110 Stat. 3249; Pub. L. 106–181, title II, §209(a), Apr. 5, 2000, 114 Stat. 95; Pub. L. 108–176, title IV, §404, Dec. 12, 2003, 117 Stat. 2543.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1152; Pub. L. 104–264, title II, §278(c), Oct. 9, 1996, 110 Stat. 3249; Pub. L. 106–181, title II, §209(a), Apr. 5, 2000, 114 Stat. 95; Pub. L. 108–176, title IV, §404, Dec. 12, 2003, 117 Stat. 2543; Pub. L. 112–30, title II, §209, Sept. 16, 2011, 125 Stat. 359.)
 
 Historical and Revision Notes
 
@@ -40,9 +40,13 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §419(m); added Oct. 24, 1978, Pu
 
 #### References in Text
 
+Section 9502 of the Internal Revenue Code of 1986, referred to in subsec. (a)(2), is classified to section 9502 of Title 26, Internal Revenue Code.
+
 Section 47114 of this title, referred to in subsec. (b), does not contain a subsec. (g).
 
 #### Amendments
+
+<b>2011</b>—Subsec. (a)(2). Pub. L. 112–30 substituted “there is authorized to be appropriated out of the Airport and Airway Trust Fund (established under section 9502 of the Internal Revenue Code of 1986) $150,000,000 for fiscal year 2011 and $50,309,016 for the period beginning on October 1, 2011, and ending on January 31, 2012,” for “there is authorized to be appropriated $77,000,000 for each fiscal year”.
 
 <b>2003</b>—Subsec. (a)(2). Pub. L. 108–176, §404(1), substituted “$77,000,000” for “$15,000,000” and inserted “of which not more than $12,000,000 per fiscal year may be used for the marketing incentive program for communities and for State marketing assistance” before period at end.
 
@@ -67,6 +71,10 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 Amendment by Pub. L. 104–264 effective on date that is 30 days after Oct. 9, 1996, see section 203 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
 Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+
+#### Funding for Essential Air Service Program
+
+Pub. L. 112–55, div. C, title I, Nov. 18, 2011, 125 Stat. 644, provided in part: “That no funds made available under section 41742 of title 49, United States Code, and no funds made available in this Act \[div. C of Pub. L. 112–55, see Tables for classification\] or any other Act in any fiscal year, shall be available to carry out the essential air service program under sections 41731 through 41742 of such title 49 in communities in the 48 contiguous States unless the community received subsidized essential air service or received a 90-day notice of intent to terminate service and the Secretary required the air carrier to continue to provide service to the community at any time between September 30, 2010, and September 30, 2011, inclusive”.
 
 #### Findings
 

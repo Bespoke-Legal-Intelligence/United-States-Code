@@ -410,7 +410,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–246, §7204(b)(1), substituted “subsections (e) through (i)” for “subsections (e), (f), and (g)” in first sentence.
+<b>2008</b>—Subsec. (a). Pub. L. 110–246, §7204(b)(1), substituted “subsections (e) through (i)” for “subsections (e), (f), and (g)” in first sentence.
 
 Subsec. (b)(1). Pub. L. 110–246, §7204(b)(2)(A), substituted “paragraphs (4), (7), (8), and (11)(B)” for “paragraphs (1), (6), (7), and (11)”.
 
@@ -424,15 +424,15 @@ Subsec. (e)(3). Pub. L. 110–246, §7204(a)(1)(A), substituted “, improving,
 
 Subsecs. (h) to (j). Pub. L. 110–246, §7204(a)(2)–(4), added subsecs. (h) and (i), redesignated former subsec. (h) as (j), and substituted “2012” for “2007” in subsec. (j).
 
-2004—Subsec. (e)(45). Pub. L. 108–465 added par. (45).
+<b>2004</b>—Subsec. (e)(45). Pub. L. 108–465 added par. (45).
 
-2002—Subsec. (e)(25) to (44). Pub. L. 107–171, §7208(b), added pars. (25) to (44).
+<b>2002</b>—Subsec. (e)(25) to (44). Pub. L. 107–171, §7208(b), added pars. (25) to (44).
 
 Subsec. (h). Pub. L. 107–171, §7119, substituted “2007” for “2002”.
 
-1998—Pub. L. 105–185 amended section catchline and text generally, substituting present provisions for provisions which in subsecs. (a) to (f) which authorized specialized research programs relating to, respectively, brown citrus aphid and citrus tristeza virus, ethanol, aflatoxin, mesquite, prickly pear, and deer tick ecology and related research, and for provisions in subsec. (g) subjecting research to peer review, setting limitation on use of funds, and providing for general eligibility to participate in programs.
+<b>1998</b>—Pub. L. 105–185 amended section catchline and text generally, substituting present provisions for provisions which in subsecs. (a) to (f) which authorized specialized research programs relating to, respectively, brown citrus aphid and citrus tristeza virus, ethanol, aflatoxin, mesquite, prickly pear, and deer tick ecology and related research, and for provisions in subsec. (g) subjecting research to peer review, setting limitation on use of funds, and providing for general eligibility to participate in programs.
 
-1996—Subsec. (a). Pub. L. 104–127, §§863(1), 888, added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The Secretary of Agriculture is encouraged to fund research for the development of technology which will ascertain the lean content of animal carcasses to be used for human consumption.”
+<b>1996</b>—Subsec. (a). Pub. L. 104–127, §§863(1), 888, added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The Secretary of Agriculture is encouraged to fund research for the development of technology which will ascertain the lean content of animal carcasses to be used for human consumption.”
 
 Subsecs. (d)(4), (e)(4). Pub. L. 104–127, §836, substituted “1997” for “1995”.
 
@@ -468,7 +468,7 @@ Subsec. (j). Pub. L. 104–127, §863(1), struck out heading and text of subsec.
 
 Subsec. (k). Pub. L. 104–127, §863(2), redesignated subsec. (k) as (g).
 
-1991—Subsec. (c). Pub. L. 102–237, §407(11), redesignated pars. (A) to (I) as (1) to (9), respectively.
+<b>1991</b>—Subsec. (c). Pub. L. 102–237, §407(11), redesignated pars. (A) to (I) as (1) to (9), respectively.
 
 Subsec. (i). Pub. L. 102–237, §406(1), substituted “Secretary of Agriculture, acting through the Cooperative State Research Service, to make competitive grants” for “Agricultural Research Service”.
 

@@ -1,7 +1,5 @@
 ### SUBCHAPTER I—MANUFACTURES, MINERAL INDUSTRIES, AND OTHER BUSINESSES
 
-<i><sup>1</sup></i><i> Item 163 editorially inserted because section 163 is still in existence. Item 163 was eliminated in the general amendment of analysis by Pub. L. 85–207, §7, Aug. 28, 1957, 71 Stat. 482.</i>
-
 
 ---
 

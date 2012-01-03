@@ -64,7 +64,7 @@ Surrender of Persons.—
 
 Application of united states extradition laws.—Except as provided in paragraphs (2) and (3), the provisions of chapter 209 of title 18, United States Code, relating to the extradition of persons to a foreign country pursuant to a treaty or convention for extradition between the United States and a foreign government, shall apply in the same manner and extent to the surrender of persons, including United States citizens, to—
 
-&emsp;&emsp;“(A) the International Tribunal for Yugoslavia, pursuant to the Agreement Between the UnitedStates and the International Tribunal for Yugoslavia; and
+&emsp;&emsp;“(A) the International Tribunal for Yugoslavia, pursuant to the Agreement Between the United States and the International Tribunal for Yugoslavia; and
 
 &emsp;&emsp;“(B) the International Tribunal for Rwanda, pursuant to the Agreement Between the United States and the International Tribunal for Rwanda.
 

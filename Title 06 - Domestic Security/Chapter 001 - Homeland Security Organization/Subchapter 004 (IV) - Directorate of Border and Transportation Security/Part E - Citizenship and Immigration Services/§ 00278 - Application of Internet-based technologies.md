@@ -8,7 +8,7 @@ The Secretary, not later than 1 year after the effective date of this chapter, i
 
 #### (1) Online filing
 
-&emsp;The Secretary, in consultation with the Technology Advisory Committee established under subsection (c) of this section, shall conduct a feasibility study on the online filing ofthe filings described in subsection (a) of this section. The study shall include a review of computerization and technology of the Immigration and Naturalization Service relating to the immigration services and processing of filings related to immigrant services. The study shall also include an estimate of the timeframe and cost and shall consider other factors in implementing such a filing system, including the feasibility of fee payment online.
+&emsp;The Secretary, in consultation with the Technology Advisory Committee established under subsection (c) of this section, shall conduct a feasibility study on the online filing of the filings described in subsection (a) of this section. The study shall include a review of computerization and technology of the Immigration and Naturalization Service relating to the immigration services and processing of filings related to immigrant services. The study shall also include an estimate of the timeframe and cost and shall consider other factors in implementing such a filing system, including the feasibility of fee payment online.
 
 #### (2) Report
 
@@ -34,7 +34,7 @@ The Secretary, not later than 1 year after the effective date of this chapter, i
 
 #### References in Text
 
-The effective date of this chapter, referred to in subsecs. (a), (b)(2), and (c)(1), is 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of this title.
+The effective date of this chapter, referred to in subsecs. (a), (b)(2), and (c)(1), is 60 days after Nov. 25, 2002,see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of this title.
 
 The Immigration and Nationality Act, referred to in subsec. (a), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 

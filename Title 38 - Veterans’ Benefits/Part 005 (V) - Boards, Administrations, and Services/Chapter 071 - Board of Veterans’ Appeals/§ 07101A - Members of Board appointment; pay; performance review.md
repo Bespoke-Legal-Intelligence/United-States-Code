@@ -1,6 +1,6 @@
 ### §7101A. Members of Board: appointment; pay; performance review
 
-(a)(1) The members of the Board of Veterans’ Appeals other than the Chairman (and including the Vice Chairman) shall be appointed by theSecretary, with the approval of the President, based upon recommendations of the Chairman.
+(a)(1) The members of the Board of Veterans’ Appeals other than the Chairman (and including the Vice Chairman) shall be appointed by the Secretary, with the approval of the President, based upon recommendations of the Chairman.
 
 (2) Each member of the Board shall be a member in good standing of the bar of a State.
 
@@ -46,7 +46,7 @@
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–368, §1002(a), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (d)(2). Pub. L. 105–368, §1002(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Upon removal from the Board under paragraph (1), a member of the Board (other than the Chairman) who was a career or career-conditional employee in the civil service before commencement of service as amember of the Board shall revert to the civil service grade and series held by the member immediately before the appointment of the member to the Board.”
+Subsec. (d)(2). Pub. L. 105–368, §1002(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Upon removal from the Board under paragraph (1), a member of the Board (other than the Chairman) who was a career or career-conditional employee in the civil service before commencement of service as a member of the Board shall revert to the civil service grade and series held by the member immediately before the appointment of the member to the Board.”
 
 #### Effective Date
 

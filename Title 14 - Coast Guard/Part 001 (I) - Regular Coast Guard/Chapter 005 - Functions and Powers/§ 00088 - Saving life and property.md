@@ -34,13 +34,13 @@ This section broadens existing law in that it authorizes the Coast Guard to enga
 
 #### Amendments
 
-1996—Subsec. (d). Pub. L. 104–324 added subsec. (d).
+<b>1996</b>—Subsec. (d). Pub. L. 104–324 added subsec. (d).
 
-1990—Subsec. (c). Pub. L. 101–595 added subsec. (c).
+<b>1990</b>—Subsec. (c). Pub. L. 101–595 added subsec. (c).
 
-1988—Subsec. (b). Pub. L. 100–448 designated existing provisions as par. (1), substituted “Subject to paragraph (2), the Coast Guard” for “The Coast Guard”, and added par. (2).
+<b>1988</b>—Subsec. (b). Pub. L. 100–448 designated existing provisions as par. (1), substituted “Subject to paragraph (2), the Coast Guard” for “The Coast Guard”, and added par. (2).
 
-1970—Subsec. (a). Pub. L. 91–278 substituted “on and under the high seas and on and under the waters” for “on the high seas and on waters” in introductory text.
+<b>1970</b>—Subsec. (a). Pub. L. 91–278 substituted “on and under the high seas and on and under the waters” for “on the high seas and on waters” in introductory text.
 
 #### Transfer of Functions
 

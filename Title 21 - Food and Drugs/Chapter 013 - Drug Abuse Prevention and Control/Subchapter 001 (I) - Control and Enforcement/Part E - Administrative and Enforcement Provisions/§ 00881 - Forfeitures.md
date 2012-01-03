@@ -112,7 +112,7 @@ The provisions of section 981(g) of title 18 regarding the stay of a civil forfe
 
 #### (j) Venue
 
-In addition to the venue provided for in section 1395 of title 28 or any other provision of law, in the case of property of a defendant charged with a violation that is the basis for forfeitureof the property under this section, a proceeding for forfeiture under this section may be brought in the judicial district in which the defendant owning such property is found or in the judicial district in which the criminal prosecution is brought.
+In addition to the venue provided for in section 1395 of title 28 or any other provision of law, in the case of property of a defendant charged with a violation that is the basis for forfeiture of the property under this section, a proceeding for forfeiture under this section may be brought in the judicial district in which the defendant owning such property is found or in the judicial district in which the criminal prosecution is brought.
 
 #### (<i>l</i>) <sup>1</sup> Agreement between Attorney General and Postal Service for performance of functions
 
@@ -138,7 +138,7 @@ Schedules I and II, referred to in subsecs. (f) and (g), are set out in section 
 
 &emsp;“(C) no conveyance shall be forfeited under this paragraph to the extent of an interest of an owner, by reason of any act or omission established by that owner to have been committed or omitted without the knowledge, consent, or willful blindness of the owner”.
 
-Subsec. (a)(6). Pub. L. 106–185, §2(c)(2), struck out before period at end “, except that no property shall be forfeited under this paragraph, to the extent of the interest of an owner, by reason of any act or omission established by that owner to have been committed or omitted without the knowledge or consent of that owner”.
+Subsec. (a)(6). Pub. L. 106–185, §2(c)(2), struck out before period at end “, except that no property shall beforfeited under this paragraph, to the extent of the interest of an owner, by reason of any act or omission established by that owner to have been committed or omitted without the knowledge or consent of that owner”.
 
 Subsec. (a)(7). Pub. L. 106–185, §2(c)(2), struck out before period at end “, except that no property shall be forfeited under this paragraph, to the extent of an interest of an owner, by reason of any act or omission established by that owner to have been committed or omitted without the knowledge or consent of that owner”.
 
@@ -244,7 +244,7 @@ Section 6079 of Pub. L. 100–690 provided that:
 
 “(a)
 
-In General.—Not later than 90 days after the date of enactment of this Act \[Nov. 18, 1988\], the Attorney General and the Secretary of the Treasury shall consult, and after providing a 30-day public comment period, shall prescribe regulations for expedited administrative procedures for seizures under section 511(a)(4), (6), and (7) of the Controlled Substances Act (21 U.S.C. 881(a)(4), (6), and (7)); section 596 of the Tariff Act of 1930 (19 U.S.C. 1595a(a)); and section 2 of the Act of August 9, 1939 (53 Stat. 1291; 49 U.S.C. App. 782 \[now 49U.S.C. 80303\]) for violations involving the possession of personal use quantities of a controlled substance.
+In General.—Not later than 90 days after the date of enactment of this Act \[Nov. 18, 1988\], the Attorney General and the Secretary of the Treasury shall consult, and after providing a 30-day public comment period, shall prescribe regulations for expedited administrative procedures for seizures under section 511(a)(4), (6), and (7) of the Controlled Substances Act (21 U.S.C. 881(a)(4), (6), and (7)); section 596 of the Tariff Act of 1930 (19 U.S.C. 1595a(a)); and section 2 of the Act of August 9, 1939 (53 Stat. 1291; 49 U.S.C. App. 782 \[now 49 U.S.C. 80303\]) for violations involving the possession of personal use quantities of a controlled substance.
 
 “(b)
 

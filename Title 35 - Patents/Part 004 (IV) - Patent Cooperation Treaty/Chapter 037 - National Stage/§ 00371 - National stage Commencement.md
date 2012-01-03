@@ -22,9 +22,25 @@
 
 (f) At the express request of the applicant, the national stage of processing may be commenced at any time at which the application is in order for such purpose and the applicable requirements of subsection (c) of this section have been complied with.
 
-(Added Pub. L. 94–131, §1, Nov. 14, 1975, 89 Stat. 688; amended Pub. L. 98–622, title IV, §§402(a)–(d), 403(a), Nov. 8, 1984, 98 Stat. 3391, 3392; Pub. L. 99–616, §7, Nov. 6, 1986, 100 Stat. 3486; Pub. L. 102–204, §5(g)(2), Dec. 10, 1991, 105 Stat. 1641; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(a)(20), (b)(1)(B), Nov. 2, 2002, 116 Stat. 1905, 1906.)
+(Added Pub. L. 94–131, §1, Nov. 14, 1975, 89 Stat. 688; amended Pub. L. 98–622, title IV, §§402(a)–(d), 403(a), Nov. 8, 1984, 98 Stat. 3391, 3392; Pub. L. 99–616, §7, Nov. 6, 1986, 100 Stat. 3486; Pub. L. 102–204, §5(g)(2), Dec. 10, 1991, 105 Stat. 1641; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(a)(20), (b)(1)(B), Nov. 2, 2002, 116 Stat. 1905, 1906; Pub. L. 112–29, §20(i)(5), (j), Sept. 16, 2011, 125 Stat. 335.)
+
+#### Amendment of Section
+
+<i>Pub. L. 112–29, §20(i)(5), (j), (l), Sept. 16, 2011, 125 Stat. 335, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, this section is amended:</i>
+
+<i>(1) in subsection (b), by striking “of the treaty” and inserting “of the treaty.”; and</i>
+
+<i>(2) by striking “of this title” each place that term appears.</i>
+
+<i>See 2011 Amendment notes below.</i>
 
 #### Amendments
+
+<b>2011</b>—Subsec. (b). Pub. L. 112–29, §20(i)(5), substituted “of the treaty.” for “of the treaty”.
+
+Subsec. (c)(1). Pub. L. 112–29, §20(j), struck out “of this title” after “41(a)”.
+
+Subsec. (c)(4). Pub. L. 112–29, §20(j), struck out “of this title” after “11” and after “115”.
 
 <b>2002</b>—Subsec. (d). Pub. L. 107–273, §13206(b)(1)(B), made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
 
@@ -55,6 +71,10 @@ Subsec. (c). Pub. L. 98–622, §403(a), substituted “Patent and Trademark Off
 Subsec. (c)(2). Pub. L. 98–622, §402(c)(1), (2), substituted “communicated by” for “received from” and struck out “verified” before “translation”.
 
 Subsec. (d). Pub. L. 98–622, §402(d), substituted provisions setting forth time periods for compliance with the requirements of subsec. (c), payments of surcharges, and the effect of failure to comply for provisions related only to the effect of failure to comply with the requirements of subsec. (c).
+
+#### Effective Date of 2011 Amendment
+
+Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(<i>l</i>) of Pub. L. 112–29, set out as a note under section 2 of this title.
 
 #### Effective Date of 1999 Amendment
 

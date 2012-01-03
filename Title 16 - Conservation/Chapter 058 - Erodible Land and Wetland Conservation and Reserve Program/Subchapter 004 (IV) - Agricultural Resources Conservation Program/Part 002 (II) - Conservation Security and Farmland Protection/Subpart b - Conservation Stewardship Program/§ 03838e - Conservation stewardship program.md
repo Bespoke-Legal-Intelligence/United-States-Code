@@ -2,7 +2,7 @@
 
 #### (a) Establishment and purpose
 
-During each of fiscal years 2009 through 2012, the Secretary shall carry out a conservation stewardship program to encourage producers to address resource concerns in a comprehensive manner—
+During each of fiscal years 2009 through 2014, the Secretary shall carry out a conservation stewardship program to encourage producers to address resource concerns in a comprehensive manner—
 
 &emsp;(1) by undertaking additional conservation activities; and
 
@@ -52,7 +52,7 @@ During each of fiscal years 2009 through 2012, the Secretary shall carry out a c
 
 &emsp;&emsp;(C) the land is incidental land needed for efficient operation of the farm or ranch, as determined by the Secretary.
 
-(Pub. L. 99–198, title XII, §1238E, as added Pub. L. 110–234, title II, §2301(a)(2), May 22, 2008, 122 Stat. 1041, and Pub. L. 110–246, §4(a), title II, §2301(a)(2), June 18, 2008, 122 Stat. 1664, 1769.)
+(Pub. L. 99–198, title XII, §1238E, as added Pub. L. 110–234, title II, §2301(a)(2), May 22, 2008, 122 Stat. 1041, and Pub. L. 110–246, §4(a), title II, §2301(a)(2), June 18, 2008, 122 Stat. 1664, 1769; amended Pub. L. 112–55, div. A, title VII, §716(b), Nov. 18, 2011, 125 Stat. 582.)
 
 #### References in Text
 
@@ -65,6 +65,10 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 #### Prior Provisions
 
 A prior section 3838e, Pub. L. 99–198, title XII, §1238E, as added Pub. L. 101–624, title XIV, §1439, Nov. 28, 1990, 104 Stat. 3596, related to demonstration and pilot programs, prior to repeal by Pub. L. 104–127, title III, §336(h), Apr. 4, 1996, 110 Stat. 1007.
+
+#### Amendments
+
+<b>2011</b>—Subsec. (a). Pub. L. 112–55 substituted “2014” for “2012”.
 
 <i><sup>1</sup></i><i> So in original. The word “be” probably should not appear.</i>
 

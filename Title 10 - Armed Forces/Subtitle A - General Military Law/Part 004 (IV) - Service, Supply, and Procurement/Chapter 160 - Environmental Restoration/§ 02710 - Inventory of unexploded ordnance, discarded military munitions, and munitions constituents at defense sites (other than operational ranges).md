@@ -8,7 +8,7 @@ Inventory Required.—(1) The Secretary of Defense shall develop and maintain an
 
 &emsp;(A) A unique identifier for the defense site.
 
-&emsp;(B) An appropriate record showing the location, boundaries, and extent of the defensesite, including identification of the State and political subdivisions of the State, including the county, where applicable, in which the defense site is located and any Tribal lands encompassed by the defense site.
+&emsp;(B) An appropriate record showing the location, boundaries, and extent of the defense site, including identification of the State and political subdivisions of the State, including the county, where applicable, in which the defense site is located and any Tribal lands encompassed by the defense site.
 
 &emsp;(C) Known persons and entities, other than a military department, with any current ownership interest or control of lands encompassed by the defense site.
 
@@ -74,7 +74,7 @@ Definitions.—In this section:
 
 &emsp;(7) The term “United States”, in a geographic sense, means the States, territories, and possessions and associated navigable waters, contiguous zones, and ocean waters of which the natural resources are under the exclusive management authority of the United States.
 
-(Added Pub. L. 107–107, div. A, title III, §311(a)(1), Dec. 28, 2001, 115 Stat. 1048; amendedPub. L. 108–136, div. A, title X, §1042(b), Nov. 24, 2003, 117 Stat. 1610; Pub. L. 111–84, div. A, title III, §318(a), Oct. 28, 2009, 123 Stat. 2250.)
+(Added Pub. L. 107–107, div. A, title III, §311(a)(1), Dec. 28, 2001, 115 Stat. 1048; amended Pub. L. 108–136, div. A, title X, §1042(b), Nov. 24, 2003, 117 Stat. 1610; Pub. L. 111–84, div. A, title III, §318(a), Oct. 28, 2009, 123 Stat. 2250.)
 
 #### Amendments
 
@@ -152,7 +152,7 @@ Content.—The plan required by paragraph (1) shall include—
 
 &emsp;“(3)
 
-Updates.—Not later than March 15 of 2008, 2009, and 2010, the Secretary shall submit to the congressional defense committees an update of the plan required under paragraph (1). The Secretary may include the update in the report on environmental restoration activities that is submitted to Congress under section 2706(a) of title 10, United States Code, in the year in which that update is required and may include in the update any adjustment to the remediation goals established under subsection (a) that the Secretary determines necessary to respond to unforeseen circumstances.
+Updates.—Not later than March 15 of 2008, 2009, and 2010, the Secretary shall submit to the congressional defense committees an update of the plan required under paragraph (1). The Secretary may include the update in the report on environmental restoration activities that is submitted to Congress under \[former\] section 2706(a) of title 10, United States Code, in the year in which that update is required and may include in the update any adjustment to the remediation goals established under subsection (a) that the Secretary determines necessary to respond to unforeseen circumstances.
 
 “(c)
 
@@ -192,7 +192,7 @@ Interim reports.—The Secretary shall periodically, but no less often than annu
 
 &emsp;“(4)
 
-Inclusion of information in annual report on environmental restoration activities.—The Secretary shall include the information obtained pursuant to the review conducted under paragraph (1) in the annual report on environmental restoration activities submitted to Congress under section 2706 of title 10, United States Code.
+Inclusion of information in annual report on environmental restoration activities.—The Secretary shall include the information obtained pursuant to the review conducted under paragraph (1) in the annual report on environmental restoration activities submitted to Congress under \[former\] section 2706 of title 10, United States Code.
 
 &emsp;“(5)
 

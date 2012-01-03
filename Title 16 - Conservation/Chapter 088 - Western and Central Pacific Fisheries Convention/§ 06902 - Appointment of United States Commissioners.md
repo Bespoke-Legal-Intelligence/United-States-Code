@@ -6,7 +6,7 @@ The United States shall be represented on the Commission by 5 United States Comm
 
 #### (b) Alternate Commissioners
 
-The Secretary of State, in consultation with the Secretary, may designate from time to timeand for periods of time deemed appropriate Alternate United States Commissioners to the Commission. Any Alternate United States Commissioner may exercise at any meeting of the Commission, Council, any Panel, or the advisory committee established pursuant to subsection (d), all powers and duties of a United States Commissioner in the absence of any Commissioner appointed pursuant to subsection (a) of this section for whatever reason. The number of such Alternate United States Commissioners that may be designated for any such meeting shall be limited to the number of United States Commissioners appointed pursuant to subsection (a) of this section who will not be present at such meeting.
+The Secretary of State, in consultation with the Secretary, may designate from time to time and for periods of time deemed appropriate Alternate United States Commissioners to the Commission. Any Alternate United States Commissioner may exercise at any meeting of the Commission, Council, any Panel, or the advisory committee established pursuant to subsection (d), all powers and duties of a United States Commissioner in the absence of any Commissioner appointed pursuant to subsection (a) of this section for whatever reason. The number of such Alternate United States Commissioners that may be designated for any such meeting shall be limited to the number of United States Commissioners appointed pursuant to subsection (a) of this section who will not be present at such meeting.
 
 #### (c) Administrative matters
 
@@ -78,11 +78,19 @@ For highly migratory species in the Pacific, the Secretary, in coordination with
 
 (Pub. L. 109–479, title V, §503, Jan. 12, 2007, 120 Stat. 3636; Pub. L. 111–348, title III, §301, Jan. 4, 2011, 124 Stat. 3672.)
 
+#### References in Text
+
+This chapter, referred to in subsec. (d)(1)(C), probably should have been “this title” in the original, meaning title V of Pub. L. 109–479 which enacted this chapter.
+
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsecs. (d)(1)(C) and (f)(4), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+
+The Federal Advisory Committee Act, referred to in subsec. (d)(1)(C), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
 #### Amendments
 
 <b>2011</b>—Subsec. (a). Pub. L. 111–348, §301(1), substituted “Management Council, and one of whom shall be the chairman or a member of” for “Management Council and”.
 
-Subsec. (c)(1). Pub. L. 111–348, §301(2), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “Individuals serving as such Commissioners, other than officers or employees of the United States Government, shall be considered to be Federal employees while performing such service, only for purposes of—
+Subsec. (c)(1). Pub. L. 111–348, §301(2), added par. (1) and struck out former par. (1). Prior to amendment,text read as follows: “Individuals serving as such Commissioners, other than officers or employees of the United States Government, shall be considered to be Federal employees while performing such service, only for purposes of—
 
 &emsp;“(A) injury compensation under chapter 81 of title 5;
 
@@ -97,14 +105,6 @@ Subsec. (d)(2)(B)(ii). Pub. L. 111–348, §301(3), added cl. (ii) and struck ou
 &emsp;“(II) requirements concerning ethics, conflicts-of-interest, and corruption, as provided by title 18; and
 
 &emsp;“(III) any other criminal or civil statute or regulation governing the conduct of Federal employees in their capacity as Federal employees.”
-
-#### References in Text
-
-This chapter, referred to in subsec. (d)(1)(C), probably should have been “this title” in the original, meaning title V of Pub. L. 109–479 which enacted this chapter.
-
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsecs. (d)(1)(C) and (f)(4), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
-
-The Federal Advisory Committee Act, referred to in subsec. (d)(1)(C), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

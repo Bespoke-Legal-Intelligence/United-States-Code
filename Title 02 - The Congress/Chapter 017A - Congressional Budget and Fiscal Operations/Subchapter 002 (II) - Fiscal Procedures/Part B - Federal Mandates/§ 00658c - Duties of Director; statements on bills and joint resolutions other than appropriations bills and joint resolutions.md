@@ -52,7 +52,7 @@ For each bill or joint resolution of a public character reported by any committe
 
 #### (c) Legislation falling below direct costs thresholds
 
-If the Director estimates that the direct costs of a Federal mandate will not equal or exceed the thresholds specified in subsections (a) and (b) of this section, the Director shall so state and shall briefly explain the basis of the estimate.
+If the Director estimates that the direct costs of a Federal mandate will not equal or exceed the thresholds specified in subsections (a) and\(b) of this section, the Director shall so state and shall briefly explain the basis of the estimate.
 
 #### (d) Amended bills and joint resolutions; conference reports
 
@@ -62,5 +62,5 @@ If a bill or joint resolution is passed in an amended form (including if passed 
 
 #### Amendments
 
-1999—Subsec. (a)(3), (4). Pub. L. 106–141 added par. (3) and redesignated former par. (3) as (4).
+<b>1999</b>—Subsec. (a)(3), (4). Pub. L. 106–141 added par. (3) and redesignated former par. (3) as (4).
 

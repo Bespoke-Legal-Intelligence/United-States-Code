@@ -40,7 +40,7 @@ Actions to reduce non-defense accounts shall be taken in the following order:
 
 &emsp;(A) If additional reductions in non-defense accounts are required to be made, each remaining non-exempt, non-defense account shall be reduced by the uniform percentage necessary to make the reductions in non-defense outlays required by subsection (c) of this section, except that—
 
-&emsp;&emsp;(i) the medicare program specified in section 906(d) of this title shall not be reduced by more than 2 percent in total including any reduction of less than 2 percent made under section 902 of this title or, if it has been reduced by 2 percent or more under section 902 of this title, it may not be further reduced under this section; and
+&emsp;&emsp;(i) the medicare program specified in section 906(d) of this title shall not be reducedby more than 2 percent in total including any reduction of less than 2 percent made under section 902 of this title or, if it has been reduced by 2 percent or more under section 902 of this title, it may not be further reduced under this section; and
 
 &emsp;&emsp;(ii) the health programs set forth in section 906(e) of this title shall not be reduced by more than 2 percent in total (including any reduction made under section 901 of this title),
 
@@ -66,7 +66,7 @@ Actions to reduce non-defense accounts shall be taken in the following order:
 
 #### (1) Adjustments
 
-&emsp;&emsp;(A) When the President submits the budget for fiscal year 1992, the maximum deficitamounts for fiscal years 1992, 1993, 1994, and 1995 shall be adjusted to reflect up-to-date reestimates of economic and technical assumptions and any changes in concepts or definitions. When the President submits the budget for fiscal year 1993, the maximum deficit amounts for fiscal years 1993, 1994, and 1995 shall be further adjusted to reflect up-to-date reestimates of economic and technical assumptions and any changes in concepts or definitions.
+&emsp;&emsp;(A) When the President submits the budget for fiscal year 1992, the maximum deficit amounts for fiscal years 1992, 1993, 1994, and 1995 shall be adjusted to reflect up-to-date reestimates of economic and technical assumptions and any changes in concepts or definitions. When the President submits the budget for fiscal year 1993, the maximum deficit amounts for fiscal years 1993, 1994, and 1995 shall be further adjusted to reflect up-to-date reestimates of economic and technical assumptions and any changes in concepts or definitions.
 
 &emsp;&emsp;(B) When submitting the budget for fiscal year 1994, the President may choose to adjust the maximum deficit amounts for fiscal years 1994 and 1995 to reflect up-to-date reestimates of economic and technical assumptions. If the President chooses to adjust the maximum deficit amount when submitting the fiscal year 1994 budget, the President may choose to invoke the same adjustment procedure when submitting the budget for fiscal year 1995. In each case, the President must choose between making no adjustment or the full adjustment described in paragraph (2). If the President chooses to make that full adjustment, then those procedures for adjusting discretionary spending limits described in sections 901(b)(1)(C) <sup>1</sup> and 901(b)(2)(E) <sup>1</sup> of this title, otherwise applicable through fiscal year 1993 or 1994 (as the case may be), shall be deemed to apply for fiscal year 1994 (and 1995 if applicable).
 
@@ -106,17 +106,13 @@ Actions to reduce non-defense accounts shall be taken in the following order:
 
 (Pub. L. 99–177, title II, §253, Dec. 12, 1985, 99 Stat. 1078; Pub. L. 100–119, title I, §103, Sept. 29, 1987, 101 Stat. 775; Pub. L. 101–508, title XIII, §13101(a), Nov. 5, 1990, 104 Stat. 1388–583.)
 
-#### Termination of Section
-
-<i>Section expired Sept. 30, 2002. See section 275(b) of Pub. L. 99–177, as amended, set out as an Effective and Termination Dates note under section 900 of this title.</i>
-
 #### References in Text
 
 Section 906(a) of this title, referred to in subsec. (e)(1), was repealed by Pub. L. 111–139, title I, §10(a), Feb. 12, 2010, 124 Stat. 21.
 
 Section 906(c) of this title, referred to in subsec. (e)(2), was repealed by Pub. L. 111–139, title I, §10(c), Feb. 12, 2010, 124 Stat. 22.
 
-Section 901(b) of this title, referred to in subsec. (g)(1)(B), was amended by Pub. L. 105–33, title X, §10203(a)(4), Aug. 5, 1997, 111 Stat. 699; Pub. L. 105–178, title VIII, §8101(d), June 9, 1998, 112 Stat. 490; and Pub. L. 109–59, title VIII, §8002, Aug. 10, 2005, 119 Stat. 1916, and as so amended, section 901(b)(1)(C) relates to adjustments in the FY 2007, 2008, and 2009 budgets made by OMB to the limits on outlays for the highway and mass transit categories and section 901(b)(2)(E) relates to allowance for international arrearages.
+Section 901(b) of this title, referred to in subsec. (g)(1)(B), was amended by Pub. L. 105–33, title X, §10203(a)(4), Aug. 5, 1997, 111 Stat. 699; Pub. L. 105–178, title VIII, §8101(d), June 9, 1998, 112 Stat. 490; Pub. L. 109–59, title VIII, §8002, Aug. 10, 2005, 119 Stat. 1916; and Pub. L. 112–25, title I, §101, Aug. 2, 2011, 125 Stat. 241, and as so amended, no longer contains par. (1)(C) or (2)(E).
 
 Section 665 of this title, referred to in subsec. (g)(1), (2)(A), (D), was repealed by Pub. L. 105–33, title X, §10118(a), Aug. 5, 1997, 111 Stat. 695.
 
@@ -126,9 +122,9 @@ November 5, 1990, referred to in subsec. (g)(2)(B), was in the original “the d
 
 #### Amendments
 
-1990—Pub. L. 101–508 amended section generally, substituting provisions relating to enforcement of deficit targets for provisions relating to compliance report by Comptroller General.
+<b>1990</b>—Pub. L. 101–508 amended section generally, substituting provisions relating to enforcement of deficit targets for provisions relating to compliance report by Comptroller General.
 
-1987—Pub. L. 100–119 amended section generally, designating existing provisions as par. (1), substituting “(or December 15, 1987, in the case of the fiscal year 1988)” for “(or on or before April 1, 1986, in the case of the fiscal year 1986)”, and adding pars. (2) and (3).
+<b>1987</b>—Pub. L. 100–119 amended section generally, designating existing provisions as par. (1), substituting “(or December 15, 1987, in the case of the fiscal year 1988)” for “(or on or before April 1, 1986, in the case of the fiscal year 1986)”, and adding pars. (2) and (3).
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

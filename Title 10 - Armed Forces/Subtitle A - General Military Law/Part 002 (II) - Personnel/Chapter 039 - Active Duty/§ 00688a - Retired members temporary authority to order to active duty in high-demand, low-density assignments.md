@@ -26,9 +26,9 @@ Expiration of Authority.—A retired member may not be ordered to active duty un
 
 (g)
 
-High-Demand, Low-Density Military Capability Defined.—In this section, the term “high-demand, low-density military capability” means a combat, combat support or service support capability, unit, system, or occupational specialty that the Secretary of Defense determines has funding, equipment, or personnel levels that are substantially below the levels required to fully meet or sustain actual or expected operational requirements set by regional commanders.
+High-Demand, Low-Density Military Capability Defined.—In this section, the term “high-demand, low-density military capability”means a combat, combat support or service support capability, unit, system, or occupational specialty that the Secretary of Defense determines has funding, equipment, or personnel levels that are substantially below the levels required to fully meet or sustain actual or expected operational requirements set by regional commanders.
 
-(Added Pub. L. 107–314, div. A, title V, §503(a)(1), Dec. 2, 2002, 116 Stat. 2530; amended Pub. L.109–364, div. A, title VI, §621(b), (d)(2)(A), Oct. 17, 2006, 120 Stat. 2254, 2255; Pub. L. 111–383, div. A, title V, §531(a), Jan. 7, 2011, 124 Stat. 4215.)
+(Added Pub. L. 107–314, div. A, title V, §503(a)(1), Dec. 2, 2002, 116 Stat. 2530; amended Pub. L. 109–364, div. A, title VI, §621(b), (d)(2)(A), Oct. 17, 2006, 120 Stat. 2254, 2255; Pub. L. 111–383, div. A, title V, §531(a), Jan. 7, 2011, 124 Stat. 4215.)
 
 #### Amendments
 

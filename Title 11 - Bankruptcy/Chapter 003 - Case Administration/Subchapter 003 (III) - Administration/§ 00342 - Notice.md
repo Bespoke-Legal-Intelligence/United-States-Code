@@ -34,15 +34,15 @@
 
 (3) A notice filed under paragraph (1) may be withdrawn by such entity.
 
-(g)(1) Notice provided to a creditor by the debtor or the court other than in accordance with this section (excluding this subsection) shall not be effective notice until such notice is brought to the attention of such creditor. If such creditor designates a person or an organizational subdivision of such creditor to be responsible for receiving notices under this title and establishes reasonable procedures so that such notices receivable by such creditor are to be delivered to such person or such subdivision, then a notice provided to such creditor other than in accordance with this section (excluding this subsection) shall not be considered to have been brought to the attention of such creditor until such notice is received by such person or such subdivision.
+(g)(1) Notice provided to a creditor by the debtor or the court other than in accordance with this section (excluding this subsection) shall not be effective notice until such notice is brought to the attention of such creditor. If such creditor designates a person or an organizational subdivision of such creditor to be responsible for receiving notices under this title and establishes reasonable procedures so that suchnotices receivable by such creditor are to be delivered to such person or such subdivision, then a notice provided to such creditor other than in accordance with this section (excluding this subsection) shall not be considered to have been brought to the attention of such creditor until such notice is received by such person or such subdivision.
 
-(2) A monetary penalty may not be imposed on a creditor for a violation of a stay in effectunder section 362(a) (including a monetary penalty imposed under section 362(k)) or for failure to comply with section 542 or 543 unless the conduct that is the basis of such violation or of such failure occurs after such creditor receives notice effective under this section of the order for relief.
+(2) A monetary penalty may not be imposed on a creditor for a violation of a stay in effect under section 362(a) (including a monetary penalty imposed under section 362(k)) or for failure to comply with section 542 or 543 unless the conduct that is the basis of such violation or of such failure occurs after such creditor receives notice effective under this section of the order for relief.
 
 (Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2565; Pub. L. 98–353, title III, §§302, 435, July 10, 1984, 98 Stat. 352, 370; Pub. L. 103–394, title II, §225, Oct. 22, 1994, 108 Stat. 4131; Pub. L. 109–8, title I, §§102(d), 104, title II, §234(b), title III, §315(a), Apr. 20, 2005, 119 Stat. 33, 35, 75, 88; Pub. L. 111–16, §2(4), May 7, 2009, 123 Stat. 1607.)
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 342(b) and (c) of the Senate amendment are adopted in principle but moved to section 549(c), in lieu of section 342(b) of H.R. 8200 as passed by the House.
 
@@ -56,9 +56,9 @@ Subsections (b) and (c) \[enacted as section 549(c)\] are derived from section 2
 
 #### Amendments
 
-2009—Subsec. (e)(2). Pub. L. 111–16 substituted “7 days” for “5 days”.
+<b>2009</b>—Subsec. (e)(2). Pub. L. 111–16 substituted “7 days” for “5 days”.
 
-2005—Subsec. (b). Pub. L. 109–8, §104, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Prior to the commencement of a case under this title by an individual whose debts are primarily consumer debts, the clerk shall give written notice to such individual that indicates each chapter of this title under which such individual may proceed.”
+<b>2005</b>—Subsec. (b). Pub. L. 109–8, §104, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Prior to the commencement of a case under this title by an individual whose debts are primarily consumer debts, the clerk shall give written notice to such individual that indicates each chapter of this title under which such individual may proceed.”
 
 Subsec. (c). Pub. L. 109–8, §315(a)(1) designated existing provisions as par. (1), struck out “, but the failure of such notice to contain such information shall not invalidate the legal effect of such notice” after “number of the debtor”, and added par. (2).
 
@@ -68,9 +68,9 @@ Subsec. (d). Pub. L. 109–8, §102(d), added subsec. (d).
 
 Subsecs. (e) to (g). Pub. L. 109–8, §315(a)(2), added subsecs. (e) to (g).
 
-1994—Subsec. (c). Pub. L. 103–394 added subsec. (c).
+<b>1994</b>—Subsec. (c). Pub. L. 103–394 added subsec. (c).
 
-1984—Subsec. (a). Pub. L. 98–353, §435, amended subsec. (a) generally, inserting requirement respecting notice to any holder of a community claim.
+<b>1984</b>—Subsec. (a). Pub. L. 98–353, §435, amended subsec. (a) generally, inserting requirement respecting notice to any holder of a community claim.
 
 Pub. L. 98–353, §302(1), designated existing provisions as subsec. (a).
 

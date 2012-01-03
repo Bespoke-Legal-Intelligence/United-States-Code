@@ -2,7 +2,7 @@
 
 #### (a) Prohibition
 
-Except as described in subsection (b), nothing in this chapter and part C of subchapter I of chapter 34 of title 42 shall be construed to authorize the development, implementation, ormaintenance of a Federal database of personally identifiable information on individuals receiving assistance under this chapter and part C of subchapter I of chapter 34 of title 42, attending institutions receiving assistance under this chapter and part C of subchapter I of chapter 34 of title 42, or otherwise involved in any studies or other collections of data under this chapter and part C of subchapter I of chapter 34 of title 42, including a student unit record system, an education bar code system, or any other system that tracks individual students over time.
+Except as described in subsection (b), nothing in this chapter and part C of subchapter I of chapter 34 of title 42 shall be construed to authorize the development, implementation, or maintenance of a Federal database of personally identifiable information on individuals receiving assistance under this chapter and part C of subchapter I of chapter 34 of title 42, attending institutions receiving assistance under this chapter and part C of subchapter I of chapter 34 of title 42, or otherwise involved in any studies or other collections of data under this chapter and part C of subchapter I of chapter 34 of title 42, including a student unit record system, an education bar code system, or any other system that tracks individual students over time.
 
 #### (b) Exception
 

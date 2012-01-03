@@ -72,6 +72,150 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 Amendment by Pub. L. 106–398 effective 30 days after Oct. 30, 2000, see section 1 \[\[div. A\], title X, §1065\] of Pub. L. 106–398, set out as an Effective Date note under section 3531 of Title 44, Public Printing and Documents.
 
+#### Insider Threat Detection
+
+Pub. L. 112–81, div. A, title IX, §922, Dec. 31, 2011, 125 Stat. 1537, provided that:
+
+“(a)
+
+Program Required.—The Secretary of Defense shall establish a program for information sharing protection and insider threat mitigation for the information systems of the Department of Defense to detect unauthorized access to, use of, or transmission of classified or controlled unclassified information.
+
+“(b)
+
+Elements.—The program established under subsection (a) shall include the following:
+
+&emsp;“(1) Technology solutions for deployment within the Department of Defense that allow for centralized monitoring and detection of unauthorized activities, including—
+
+&emsp;&emsp;“(A) monitoring the use of external ports and read and write capability controls;
+
+&emsp;&emsp;“(B) disabling the removable media ports of computers physically or electronically;
+
+&emsp;&emsp;“(C) electronic auditing and reporting of unusual and unauthorized user activities;
+
+&emsp;&emsp;“(D) using data-loss prevention and data-rights management technology to prevent the unauthorized export of information from a network or to render such information unusable in the event of the unauthorized export of such information;
+
+&emsp;&emsp;“(E) a roles-based access certification system;
+
+&emsp;&emsp;“(F) cross-domain guards for transfers of information between different networks; and
+
+&emsp;&emsp;“(G) patch management for software and security updates.
+
+&emsp;“(2) Policies and procedures to support such program, including special consideration for policies and procedures related to international and interagency partners and activities in support of ongoing operations in areas of hostilities.
+
+&emsp;“(3) A governance structure and process that integrates information security and sharing technologies with the policies and procedures referred to in paragraph (2). Such structure and process shall include—
+
+&emsp;&emsp;“(A) coordination with the existing security clearance and suitability review process;
+
+&emsp;&emsp;“(B) coordination of existing anomaly detection techniques, including those used in counterintelligence investigation or personnel screening activities; and
+
+&emsp;&emsp;“(C) updating and expediting of the classification review and marking process.
+
+&emsp;“(4) A continuing analysis of—
+
+&emsp;&emsp;“(A) gaps in security measures under the program; and
+
+&emsp;&emsp;“(B) technology, policies, and processes needed to increase the capability of the program beyond the initially established full operating capability to address such gaps.
+
+&emsp;“(5) A baseline analysis framework that includes measures of performance and effectiveness.
+
+&emsp;“(6) A plan for how to ensure related security measures are put in place for other departments or agencies with access to Department of Defense networks.
+
+&emsp;“(7) A plan for enforcement to ensure that the program is being applied and implemented on a uniform and consistent basis.
+
+“(c)
+
+Operating Capability.—The Secretary shall ensure the program established under subsection (a)—
+
+&emsp;“(1) achieves initial operating capability not later than October 1, 2012; and
+
+&emsp;“(2) achieves full operating capability not later than October 1, 2013.
+
+“(d)
+
+Report.—Not later than 90 days after the date of the enactment of this Act \[Dec. 31, 2011\], the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report that includes—
+
+&emsp;“(1) the implementation plan for the program established under subsection (a);
+
+&emsp;“(2) the resources required to implement the program;
+
+&emsp;“(3) specific efforts to ensure that implementation does not negatively impact activities in support of ongoing operations in areas of hostilities;
+
+&emsp;“(4) a definition of the capabilities that will be achieved at initial operating capability and full operating capability, respectively; and
+
+&emsp;“(5) a description of any other issues related to such implementation that the Secretary considers appropriate.
+
+“(e)
+
+Briefing Requirement.—The Secretary shall provide briefings to the Committees on Armed Services of the House of Representatives and the Senate as follows:
+
+&emsp;“(1) Not later than 90 days after the date of the enactment of this Act \[Dec. 31, 2011\], a briefing describing the governance structure referred to in subsection (b)(3).
+
+&emsp;“(2) Not later than 120 days after the date of the enactment of this Act, a briefing detailing the inventory and status of technology solutions deployment referred to in subsection (b)(1), including an identification of the total number of host platforms planned for such deployment, the current number of host platforms that provide appropriate security, and the funding and timeline for remaining deployment.
+
+&emsp;“(3) Not later than 180 days after the date of the enactment of this Act, a briefing detailing the policies and procedures referred to in subsection (b)(2), including an assessment of the effectiveness of such policies and procedures and an assessment of the potential impact of such policies and procedures on information sharing within the Department of Defense and with interagency and international partners.
+
+“(f)
+
+Budget Submission.—On the date on which the President submits to Congress the budget under section 1105 of title 31, United States Code, for each of fiscal years 2014 through 2019, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] an identification of the resources requested in such budget to carry out the program established under subsection (a).”
+
+#### Strategy To Acquire Capabilities To Detect Previously Unknown Cyber Attacks
+
+Pub. L. 112–81, div. A, title IX, §953, Dec. 31, 2011, 125 Stat. 1550, provided that:
+
+“(a)
+
+In General.—The Secretary of Defense shall develop and implement a plan to augment the cybersecurity strategy of the Department of Defense through the acquisition of advanced capabilities to discover and isolate penetrations and attacks that were previously unknown and for which signatures have not been developed for incorporation into computer intrusion detection and prevention systems and anti-virus software systems.
+
+“(b)
+
+Capabilities.—
+
+&emsp;“(1)
+
+Nature of capabilities.—The capabilities to be acquired under the plan required by subsection (a) shall—
+
+&emsp;&emsp;“(A) be adequate to enable well-trained analysts to discover the sophisticated attacks conducted by nation-state adversaries that are categorized as ‘advanced persistent threats’;
+
+&emsp;&emsp;“(B) be appropriate for—
+
+&emsp;&emsp;&emsp;“(i) endpoints or hosts;
+
+&emsp;&emsp;&emsp;“(ii) network-level gateways operated by the Defense Information Systems Agency where the Department of Defense network connects to the public Internet; and
+
+&emsp;&emsp;&emsp;“(iii) global networks owned and operated by private sector Tier 1 Internet Service Providers;
+
+&emsp;&emsp;“(C) at the endpoints or hosts, add new discovery capabilities to the Host-Based Security System of the Department, including capabilities such as—
+
+&emsp;&emsp;&emsp;“(i) automatic blocking of unauthorized software programs and accepting approved and vetted programs;
+
+&emsp;&emsp;&emsp;“(ii) constant monitoring of all key computer attributes, settings, and operations (such as registry keys, operations running in memory, security settings, memory tables, event logs, and files); and
+
+&emsp;&emsp;&emsp;“(iii) automatic baselining and remediation of altered computer settings and files;
+
+&emsp;&emsp;“(D) at the network-level gateways and internal network peering points, include the sustainment and enhancement of a system that is based on full-packet capture, session reconstruction, extended storage, and advanced analytic tools, by—
+
+&emsp;&emsp;&emsp;“(i) increasing the number and skill level of the analysts assigned to query stored data, whether by contracting for security services, hiring and training Government personnel, or both; and
+
+&emsp;&emsp;&emsp;“(ii) increasing the capacity of the system to handle the rates for data flow through the gateways and the storage requirements specified by the United States Cyber Command; and
+
+&emsp;&emsp;“(E) include the behavior-based threat detection capabilities of Tier 1 Internet Service Providers and other companies that operate on the global Internet.
+
+&emsp;“(2)
+
+Source of capabilities.—The capabilities to be acquired shall, to the maximum extent practicable, be acquired from commercial sources. In making decisions on the procurement of such capabilities from among competing commercial and Government providers, the Secretary shall take into consideration the needs of other departments and agencies of the Federal Government, State and local governments, and critical infrastructure owned and operated by the private sector for unclassified, affordable, and sustainable commercial solutions.
+
+“(c)
+
+Integration and Management of Discovery Capabilities.—The plan required by subsection (a) shall include mechanisms for improving the standardization, organization, and management of the security information and event management systems that are widely deployed across the Department of Defense to improve the ability of United States Cyber Command to understand and control the status and condition of Department networks, including mechanisms to ensure thatthe security information and event management systems of the Department receive and correlate data collected and analyses conducted at the host or endpoint, at the network gateways, and by Internet Service Providers in order to discover new attacks reliably and rapidly.
+
+“(d)
+
+Provision for Capability Demonstrations.—The plan required by subsection (a) shall provide for the conduct of demonstrations, pilot projects, and other tests on cyber test ranges and operational networks in order to determine and verify that the capabilities to be acquired pursuant to the plan are effective, practical, and affordable.
+
+“(e)
+
+Report.—Not later than April 1, 2012, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the plan required by subsection (a). The report shall set forth the plan and include a comprehensive description of the actions being undertaken by the Department to implement the plan.”
+
 #### Strategy on Computer Software Assurance
 
 Pub. L. 111–383, div. A, title IX, §932, Jan. 7, 2011, 124 Stat. 4335, provided that:

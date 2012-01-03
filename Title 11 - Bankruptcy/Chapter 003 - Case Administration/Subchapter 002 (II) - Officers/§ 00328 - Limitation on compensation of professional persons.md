@@ -1,6 +1,6 @@
 ### §328. Limitation on compensation of professional persons
 
-(a) The trustee, or a committee appointed under section 1102 of this title, with the court's approval, may employ or authorize the employment of a professional person under section 327 or 1103 of this title, as the case may be, on any reasonable terms and conditions of employment, including on a retainer, on an hourly basis, on a fixed or percentage fee basis, or on a contingent fee basis. Notwithstanding such terms and conditions, the court may allow compensation different from the compensation provided under such terms and conditions after the conclusionof such employment, if such terms and conditions prove to have been improvident in light of developments not capable of being anticipated at the time of the fixing of such terms and conditions.
+(a) The trustee, or a committee appointed under section 1102 of this title, with the court's approval, may employ or authorize the employment of a professional person under section 327 or 1103 of this title, as the case may be, on any reasonable terms and conditions of employment, including on a retainer, on an hourly basis, on afixed or percentage fee basis, or on a contingent fee basis. Notwithstanding such terms and conditions, the court may allow compensation different from the compensation provided under such terms and conditions after the conclusion of such employment, if such terms and conditions prove to have been improvident in light of developments not capable of being anticipated at the time of the fixing of such terms and conditions.
 
 (b) If the court has authorized a trustee to serve as an attorney or accountant for the estate under section 327(d) of this title, the court may allow compensation for the trustee's services as such attorney or accountant only to the extent that the trustee performed services as attorney or accountant for the estate and not for performance of any of the trustee's duties that are generally performed by a trustee without the assistance of an attorney or accountant for the estate.
 
@@ -10,7 +10,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 328(c) adopts a technical amendment contained in the Senate amendment indicating that an attorney for the debtor in possession is not disqualified for compensation for services and reimbursement of expenses simply because of prior representation of the debtor.
 
@@ -24,9 +24,9 @@ Subsection (c) permits the court to deny compensation for services and reimburse
 
 #### Amendments
 
-2005—Subsec. (a). Pub. L. 109–8 inserted “on a fixed or percentage fee basis,” after “hourly basis,”.
+<b>2005</b>—Subsec. (a). Pub. L. 109–8 inserted “on a fixed or percentage fee basis,” after “hourly basis,”.
 
-1984—Subsec. (a). Pub. L. 98–353 substituted “not capable of being anticipated” for “unanticipatable”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–353 substituted “not capable of being anticipated” for “unanticipatable”.
 
 #### Effective Date of 2005 Amendment
 

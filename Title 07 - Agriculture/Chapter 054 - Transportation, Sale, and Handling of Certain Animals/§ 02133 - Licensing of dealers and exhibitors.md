@@ -6,7 +6,7 @@ The Secretary shall issue licenses to dealers and exhibitors upon application th
 
 #### Amendments
 
-1970—Pub. L. 91–579 inserted references to exhibitors and retail pet stores.
+<b>1970</b>—Pub. L. 91–579 inserted references to exhibitors and retail pet stores.
 
 #### Effective Date of 1970 Amendment
 

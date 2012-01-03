@@ -32,7 +32,7 @@ Section 2(b) of Pub. L. 98–347 provided that: “The amendments made by subsec
 
 #### Effective Date of 1956 Amendment
 
-Amendment by act July 2, 1956, applicable only with respect to fiscal years beginning after July 2, 1956, seesection 5 of such act July 2, 1956, set out as a note under section 669a of this title.
+Amendment by act July 2, 1956, applicable only with respect to fiscal years beginning after July 2, 1956, see section 5 of such act July 2, 1956, set out as a note under section 669a of this title.
 
 #### Increase of Annual Apportionments
 

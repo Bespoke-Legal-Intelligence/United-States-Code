@@ -76,9 +76,9 @@ For purposes of section 552b of title 5, the Telephone Bank Board shall be treat
 
 #### Amendments
 
-1994—Subsec. (b)(1)(A). Pub. L. 103–354 substituted “Secretary” for “Rural Electrification Administration”.
+<b>1994</b>—Subsec. (b)(1)(A). Pub. L. 103–354 substituted “Secretary” for “Rural Electrification Administration”.
 
-1990—Pub. L. 101–624, §2363(a), substituted “Board of directors” for “Telephone Bank Board” in section catchline.
+<b>1990</b>—Pub. L. 101–624, §2363(a), substituted “Board of directors” for “Telephone Bank Board” in section catchline.
 
 Subsecs. (a) to (f). Pub. L. 101–624, §2363(a), struck out subsecs. (a) to (f) and inserted new subsecs. (a) to (f): in subsec. (a) struck out provisions relating to size of board, in subsec. (b) substituted provisions relating to size of board and to appointment and election of all board members for provisions naming Administrator of Rural Electrification Administration and Governor of Farm Credit Administration to board, and authorizing presidential appointment of 5 other members, in subsec. (c) substituted provisions relating to election of 6 cooperative and commercial members for provisions authorizing presidential appointment of initial 6 cooperative and commercial members, in subsec. (d) substituted provisions relating to compensation for provisions relating to interim election of 6 cooperative and commercial members, in subsec. (e) substituted provisions relating to succession for provisions relating to regular election of 6 cooperative and commercial members, and in subsec. (f) substituted provisions relating to chairperson for provisions relating to service after expiration of term, compensation and expenses.
 
@@ -86,7 +86,7 @@ Subsecs. (g) to (i). Pub. L. 101–624, §2363(b)(1), inserted headings.
 
 Subsec. (j). Pub. L. 101–624, §2363(c), added subsec. (j).
 
-1973—Subsec. (e). Pub. L. 93–32 substituted provisions directing that the cooperative-type entities and organizations holding class B and class C stock, voting as a separate class, elect three directors to represent their class by a majority of the stockholders voting in such class and that the commercial-type entities and organizations holding class B and class C stock, voting as a separate class, elect three directors to represent their class by a majority of the stockholders voting in such class, for provisions that three directors be elected from among the directors, managers, and employees of cooperative-type entities and organizations controlled by such entities holding class B or class C stock and that three directors be elected from among the directors, managers, and employees of commercial-type entities and organizations controlled by such entities holding class B or class C stock, and inserted provisions prohibiting cumulative voting.
+<b>1973</b>—Subsec. (e). Pub. L. 93–32 substituted provisions directing that the cooperative-type entities and organizations holding class B and class C stock, voting as a separate class, elect three directors to represent their class by a majority of the stockholders voting in such class and that the commercial-type entities and organizations holding class B and class C stock, voting as a separate class, elect three directors to represent their class by a majority of the stockholders voting in such class, for provisions that three directors be elected from among the directors, managers, and employees of cooperative-type entities and organizations controlled by such entities holding class B or class C stock and that three directors be elected from among the directors, managers, and employees of commercial-type entities and organizations controlled by such entities holding class B or class C stock, and inserted provisions prohibiting cumulative voting.
 
 #### Effective Date of 1973 Amendment
 

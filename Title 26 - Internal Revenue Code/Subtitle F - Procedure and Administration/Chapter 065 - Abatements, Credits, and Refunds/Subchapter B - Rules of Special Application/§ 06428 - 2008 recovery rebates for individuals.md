@@ -28,7 +28,7 @@ In the case of an eligible individual, there shall be allowed as a credit agains
 
 &emsp;&emsp;&emsp;(i) net income tax liability which is greater than zero, and
 
-&emsp;&emsp;&emsp;(ii) gross income which is greater than the sum of the basic standard deductionplus the exemption amount (twice the exemption amount in the case of a joint return).
+&emsp;&emsp;&emsp;(ii) gross income which is greater than the sum of the basic standard deduction plus the exemption amount (twice the exemption amount in the case of a joint return).
 
 #### (c) Treatment of credit
 
@@ -126,7 +126,7 @@ For purposes of this section—
 
 &emsp;Paragraph (1) shall not apply to a joint return where at least 1 spouse was a member of the Armed Forces of the United States at any time during the taxable year.
 
-(Added Pub. L. 107–16, title I, §101(b)(1), June 7, 2001, 115 Stat. 42; amended Pub. L. 107–147, title IV, §411(a), Mar. 9, 2002, 116 Stat. 44; Pub. L.110–185, title I, §101(a), Feb. 13, 2008, 122 Stat. 613; Pub. L. 110–245, title I, §§101(a), 102(b), June 17, 2008, 122 Stat. 1625.)
+(Added Pub. L. 107–16, title I, §101(b)(1), June 7, 2001, 115 Stat. 42; amended Pub. L. 107–147, title IV, §411(a), Mar. 9, 2002, 116 Stat. 44; Pub. L. 110–185, title I, §101(a), Feb. 13, 2008, 122 Stat. 613; Pub. L. 110–245, title I, §§101(a), 102(b), June 17, 2008, 122 Stat. 1625.)
 
 #### Termination of Section
 
@@ -168,7 +168,7 @@ Joint returns.—In the case of a refund or credit made or allowed under subsect
 
 Coordination with estimated tax.—The credit under this section shall be treated for purposes of section 6654(f) in the same manner as a credit under subpart A of part IV of subchapter A of chapter 1.”
 
-Subsec. (e)(2). Pub. L. 107–147, §411(a)(2)(B), reenacted heading without change and amended text of par. (2) generally. Prior to amendment, text read as follows: “For purposes of paragraph (1), the advance refund amount is the amount that would have been allowed as a credit under this section for such first taxable year if this section (other than subsection (d) and this subsection) had applied to such taxable year.”
+Subsec. (e)(2). Pub. L. 107–147, §411(a)(2)(B), reenacted heading without change and amended text of par. (2)generally. Prior to amendment, text read as follows: “For purposes of paragraph (1), the advance refund amount is the amount that would have been allowed as a credit under this section for such first taxable year if this section (other than subsection (d) and this subsection) had applied to such taxable year.”
 
 #### Effective Date of 2008 Amendment
 
@@ -344,7 +344,7 @@ Payment on the basis of a title ii or ssi benefit.—Section 1129(a)(3) of the S
 
 &emsp;&emsp;“(B)
 
-Payment on the basis of a railroad retirement benefit.—Section 13 of the Railroad Retirement Act \[of 1974\] (45 U.S.C. 231<i>l</i>) shall apply to anypayment made on the basis of an entitlement to a benefit specified in paragraph (1)(B)(ii) of subsection (a) in the same manner as such section applies to a payment under such Act \[45 U.S.C. 231 et seq.\].
+Payment on the basis of a railroad retirement benefit.—Section 13 of the Railroad Retirement Act \[of 1974\] (45 U.S.C. 231<i>l</i>) shall apply to any payment made on the basis of an entitlement to a benefit specified in paragraph (1)(B)(ii) of subsection (a) in the same manner as such section applies to a payment under such Act \[45 U.S.C. 231 et seq.\].
 
 &emsp;&emsp;“(C)
 

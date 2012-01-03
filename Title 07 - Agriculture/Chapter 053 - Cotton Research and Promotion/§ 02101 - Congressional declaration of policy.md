@@ -10,7 +10,7 @@ It is therefore declared to be the policy of the Congress and the purpose of thi
 
 #### Amendments
 
-1990—Pub. L. 101–624, in first undesignated par., inserted “and also outside the United States”, struck out “in large part” before “in the channels of interstate”, “All cotton produced in the United States is in the current of interstate or foreign commerce or directly burdens, obstructs, or affects interstate or foreign commerce in cotton and cotton products.” before “The efficient production”, and “In the years since World War II, United States cotton and the products thereof have been confronted with intensive competition, both at home and abroad, from foreign-grown cotton and from other fibers, primarily manmade fibers.” after “economy of the Nation.”, and substituted “The great inroads on the market and uses for” for “The great inroads on the market and uses for United States” and, in third undesignated par., substituted “marketed” for “harvested” and inserted “and on imports of cotton”.
+<b>1990</b>—Pub. L. 101–624, in first undesignated par., inserted “and also outside the United States”, struck out “in large part” before “in the channels of interstate”, “All cotton produced in the United States is in the current of interstate or foreign commerce or directly burdens, obstructs, or affects interstate or foreign commerce in cotton and cotton products.” before “The efficient production”, and “In the years since World War II, United States cotton and the products thereof have been confronted with intensive competition, both at home and abroad, from foreign-grown cotton and from other fibers, primarily manmade fibers.” after “economy of the Nation.”, and substituted “The great inroads on the market and uses for” for “The great inroads on the market and uses for United States” and, in third undesignated par., substituted “marketed” for “harvested” and inserted “and on imports of cotton”.
 
 #### Effective Date
 
@@ -18,7 +18,7 @@ Section 20 of Pub. L. 89–502 provided that: “This Act \[enacting this chapte
 
 #### Short Title of 1990 Amendment
 
-Section 1990 of Pub. L. 101–624 provided that: “This subtitle \[subtitle G (§§1990–1998) of title XIX of Pub. L.101–624, amending this section and sections 2106 to 2110 and 2116 of this title, and enacting provisions set out below\] may be cited as the ‘Cotton Research and Promotion Act Amendments of 1990’.”
+Section 1990 of Pub. L. 101–624 provided that: “This subtitle \[subtitle G (§§1990–1998) of title XIX of Pub. L. 101–624, amending this section and sections 2106 to 2110 and 2116 of this title, and enacting provisions set out below\] may be cited as the ‘Cotton Research and Promotion Act Amendments of 1990’.”
 
 #### Short Title
 

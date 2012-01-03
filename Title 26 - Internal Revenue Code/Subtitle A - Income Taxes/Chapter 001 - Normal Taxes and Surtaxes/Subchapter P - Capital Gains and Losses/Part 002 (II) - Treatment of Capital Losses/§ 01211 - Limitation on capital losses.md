@@ -26,7 +26,7 @@ Subsec. (b)(2). Pub. L. 94–455, §1401(b), substituted provision relating to �
 
 Subsec. (b)(3). Pub. L. 94–455, §501(b)(6), struck out last sentence “If the taxpayer elects to pay the optional tax imposed by section 3, ‘taxable income’ as used in this subsection shall read as ‘adjusted gross income’.”
 
-<b>1969</b>—Subsec. (b). Pub. L. 91–172 provided for only 50 percent of an individual's long-term capital losses to be offset against his ordinary income up to the $1,000 limit although short-term capital losses continue to be fully deductible within the $1,000 limit and the deduction of capital losses against ordinary income for married persons filing separate returns to be limited to $500 for each spouse rather than the $1,000 formerly allowed.
+<b>1969</b>—Subsec. (b). Pub. L. 91–172 provided for only 50 percent of an individual's long-term capital losses to beoffset against his ordinary income up to the $1,000 limit although short-term capital losses continue to be fully deductible within the $1,000 limit and the deduction of capital losses against ordinary income for married persons filing separate returns to be limited to $500 for each spouse rather than the $1,000 formerly allowed.
 
 #### Effective Date of 1986 Amendment
 
@@ -34,7 +34,7 @@ Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1977 Amendment
 
-Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31, 1976, see section 106(a) ofPub. L. 95–30, set out as a note under section 1 of this title.
+Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31, 1976, see section 106(a) of Pub. L. 95–30, set out as a note under section 1 of this title.
 
 #### Effective Date of 1976 Amendment
 

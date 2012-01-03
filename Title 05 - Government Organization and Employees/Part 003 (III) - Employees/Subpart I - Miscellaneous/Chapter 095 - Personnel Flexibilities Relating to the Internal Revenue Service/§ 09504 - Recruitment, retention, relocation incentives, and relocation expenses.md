@@ -8,5 +8,5 @@
 
 #### Amendments
 
-2007—Subsecs. (a), (b). Pub. L. 110–161 substituted “Before July 23, 2013” for “For a period of 10 years after the date of enactment of this section”.
+<b>2007</b>—Subsecs. (a), (b). Pub. L. 110–161 substituted “Before July 23, 2013” for “For a period of 10 years after the date of enactment of this section”.
 

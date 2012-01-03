@@ -98,7 +98,9 @@ Public transportation on indian reservations.—Of the amounts made available or
 
 &emsp;&emsp;(E) $15,000,000 for fiscal year 2010.
 
-&emsp;&emsp;(F) $6,369,000 for the period beginning October 1, 2010 and ending March 4, 2011.
+&emsp;&emsp;(F) $15,000,000 for fiscal year 2011.
+
+&emsp;&emsp;(G) $7,500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012.
 
 &emsp;(2)
 
@@ -210,7 +212,7 @@ Relationship to Other Laws.—(1) Section 5333(b) applies to this section if the
 
 (2) This subsection does not affect or discharge a responsibility of the Secretary of Transportation under a law of the United States.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 809; Pub. L. 105–178, title III, §3014(a), June 9, 1998, 112 Stat. 359; Pub. L. 109–59, title III, §§3002(b)(4), 3013(a)–(h), Aug. 10, 2005, 119 Stat. 1545, 1593–1596; Pub. L. 110–244, title II, §201(e), June 6, 2008, 122 Stat. 1610; Pub. L. 111–147, title IV, §434, Mar. 18, 2010, 124 Stat. 89; Pub. L. 111–322, title II, §2304, Dec. 22, 2010, 124 Stat. 3527.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 809; Pub. L. 105–178, title III, §3014(a), June 9, 1998, 112 Stat. 359; Pub. L. 109–59, title III, §§3002(b)(4), 3013(a)–(h), Aug. 10, 2005, 119 Stat. 1545, 1593–1596; Pub. L. 110–244, title II, §201(e), June 6, 2008, 122 Stat. 1610; Pub. L. 111–147, title IV, §434, Mar. 18, 2010, 124 Stat. 89; Pub. L. 111–322, title II, §2304, Dec. 22, 2010, 124 Stat. 3527; Pub. L. 112–5, title III, §304, Mar. 4, 2011, 125 Stat. 19; Pub. L. 112–30, title I, §134, Sept. 16, 2011, 125 Stat. 351.)
 
 Historical and Revision Notes
 
@@ -328,6 +330,10 @@ In subsection (j)(1), the text of 49 App.:1614(f) (1st sentence) is omitted as u
 
 #### Amendments
 
+<b>2011</b>—Subsec. (c)(1)(F). Pub. L. 112–5 amended subpar. (F) generally. Prior to amendment, text read as follows: “$6,369,000 for the period beginning October 1, 2010 and ending March 4, 2011.”
+
+Subsec. (c)(1)(G). Pub. L. 112–30 added subpar. (G).
+
 <b>2010</b>—Subsec. (c)(1)(E). Pub. L. 111–147 added subpar. (E).
 
 Subsec. (c)(1)(F). Pub. L. 111–322 amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “$3,750,000 for the period beginning October 1, 2010, and ending December 31, 2010.”
@@ -354,7 +360,7 @@ Subsec. (e). Pub. L. 109–59, §3013(d), inserted “, Planning,” after “A
 
 Subsec. (e)(1). Pub. L. 109–59, §3002(b)(4), substituted “public transportation” for “mass transportation” in two places.
 
-Subsec. (f)(1). Pub. L. 109–59, §3013(e)(1), inserted heading, struck out “after September 30, 1993,” after “in each fiscal year” in introductory provisions and realigned margins of subpars. (A) to (D).
+Subsec. (f)(1). Pub. L. 109–59, §3013(e)(1), inserted heading, struck out “after September 30, 1993,” after“in each fiscal year” in introductory provisions and realigned margins of subpars. (A) to (D).
 
 Subsec. (f)(1)(E). Pub. L. 109–59, §3002(b)(4), substituted “public transportation” for “mass transportation”.
 

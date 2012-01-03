@@ -6,11 +6,15 @@ The Administrator shall take such action as may be necessary to insure that all 
 
 #### References in Text
 
-Reorganization Plan Numbered 14 of 1950, referred to in text, is Reorg. Plan No. 14 of 1950, eff. May 24, 1950,15 F.R. 3176, 64 Stat. 1267, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Reorganization Plan Numbered 14 of 1950, referred to in text, is Reorg. Plan No. 14 of 1950, eff. May 24, 1950, 15 F.R. 3176, 64 Stat. 1267, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
 
 In text, “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Act of March 3, 1931, as amended, known as the Davis-Bacon Act (46 Stat. 1494; 40 U.S.C., sec. 276a through 276a–5)” and “section 3145 of title 40” substituted for “section 2 of the Act of June 13, 1934, as amended (48 Stat. 948; 40 U.S.C. 276c)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+
+#### Applicability of Labor Standards to Construction of Treatment Works
+
+Pub. L. 112–74, div. E, title II, Dec. 23, 2011, 125 Stat. 1020, provided in part that: “For fiscal year 2012 and each fiscal year thereafter, the requirements of section 513 of the Federal Water Pollution Control Act (33 U.S.C. 1372) shall apply to the construction of treatment works carried out in whole or in part with assistance made available by a State water pollution control revolving fund as authorized by title VI of that Act (33 U.S.C. 1381 et seq.), or with assistance made available under section 205(m) of that Act (33 U.S.C. 1285(m)), or both.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section,”.</i>
 

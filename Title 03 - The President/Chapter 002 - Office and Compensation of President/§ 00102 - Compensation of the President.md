@@ -2,21 +2,21 @@
 
 The President shall receive in full for his services during the term for which he shall have been elected compensation in the aggregate amount of $400,000 a year, to be paid monthly, and in addition an expense allowance of $50,000 to assist in defraying expenses relating to or resulting from the discharge of his official duties. Any unused amount of such expense allowance shall revert to the Treasury pursuant to section 1552 of title 31, United States Code. No amount of such expense allowance shall be included in the gross income of the President. He shall be entitled also to the use of the furniture and other effects belonging to the United States and kept in the Executive Residence at the White House.
 
-(June 25, 1948, ch. 644, 62 Stat. 678; Jan. 19, 1949, ch. 2, §1(a), 63 Stat. 4; Oct. 20, 1951, ch. 521, title VI, §619(a), 65 Stat. 569; Pub. L. 91–1, §1, Jan. 17, 1969, 83 Stat. 3; Pub. L. 95–570, §5(a), Nov. 2, 1978, 92 Stat. 2450; Pub. L. 106–58, title VI, §644(a),Sept. 29, 1999, 113 Stat. 478; Pub. L. 108–199, div. F, title III, §301, Jan. 23, 2004, 118 Stat. 326.)
+(June 25, 1948, ch. 644, 62 Stat. 678; Jan. 19, 1949, ch. 2, §1(a), 63 Stat. 4; Oct. 20, 1951, ch. 521, title VI, §619(a), 65 Stat. 569; Pub. L. 91–1, §1, Jan. 17, 1969, 83 Stat. 3; Pub. L. 95–570, §5(a), Nov. 2, 1978, 92 Stat. 2450; Pub. L. 106–58, title VI, §644(a), Sept. 29, 1999, 113 Stat. 478; Pub. L. 108–199, div. F, title III, §301, Jan. 23, 2004, 118 Stat. 326.)
 
 #### Amendments
 
-2004—Pub. L. 108–199 substituted “. Any unused amount of such expense allowance shall revert to the Treasury pursuant to section 1552 of title 31, United States Code. No amount of such expense allowance shall be included in the gross income of the President.” for “, for which expense allowance no accounting, other than for income tax purposes, shall be made by him.”
+<b>2004</b>—Pub. L. 108–199 substituted “. Any unused amount of such expense allowance shall revert to the Treasury pursuant to section 1552 of title 31, United States Code. No amount of such expense allowance shall be included in the gross income of the President.” for “, for which expense allowance no accounting, other than for income tax purposes, shall be made by him.”
 
-1999—Pub. L. 106–58 substituted “$400,000” for “$200,000”.
+<b>1999</b>—Pub. L. 106–58 substituted “$400,000” for “$200,000”.
 
-1978—Pub. L. 95–570 substituted “Executive Residence at the White House” for “Executive Mansion”.
+<b>1978</b>—Pub. L. 95–570 substituted “Executive Residence at the White House” for “Executive Mansion”.
 
-1969—Pub. L. 91–1 substituted “$200,000” for “$100,000”.
+<b>1969</b>—Pub. L. 91–1 substituted “$200,000” for “$100,000”.
 
-1951—Act Oct. 20, 1951, made President's expense allowance taxable.
+<b>1951</b>—Act Oct. 20, 1951, made President's expense allowance taxable.
 
-1949—Act Jan. 19, 1949, increased salary from $75,000 to $100,000 per year, and gave President a yearly expense account of $50,000 for which he was to make no accounting and which was tax free.
+<b>1949</b>—Act Jan. 19, 1949, increased salary from $75,000 to $100,000 per year, and gave President a yearly expense account of $50,000 for which he was to make no accounting and which was tax free.
 
 #### Effective Date of 1999 Amendment
 
@@ -66,7 +66,7 @@ Reports.—
 
 &emsp;“(1)
 
-In general.—The President of the United States, or the President's delegate, shall provide to the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate reports describing the activities undertaken by the President and the Executive Departments and agencies to prepare for the transfer of power to a new President.
+In general.—The President of the United States, or the President's delegate, shall provide tothe Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate reports describing the activities undertaken by the President and the Executive Departments and agencies to prepare for the transfer of power to a new President.
 
 &emsp;“(2)
 
@@ -128,7 +128,7 @@ Sec. 3. (a) The Administrator of General Services, referred to hereafter in this
 
 &emsp;“(7) Reimbursement to the postal revenues in amounts equivalent to the postage that would otherwise be payable on mail matter referred to in subsection (d) of this section.
 
-&emsp;“(8)(A)(i) Not withstanding subsection (b), payment of expenses during the transition for briefings, workshops, or other activities to acquaint key prospective Presidential appointees with the types of problems and challenges that most typically confront new political appointees when they make the transition from campaign and other prior activities to assuming the responsibility for governance after inauguration.
+&emsp;“(8)(A)(i) Not withstanding subsection (b), payment of expenses during the transition for briefings, workshops, or other activities to acquaint key prospective Presidential appointees with the types of problemsand challenges that most typically confront new political appointees when they make the transition from campaign and other prior activities to assuming the responsibility for governance after inauguration.
 
 &emsp;“(ii) Activities under this paragraph may include interchange between such appointees and individuals who—
 
@@ -148,7 +148,7 @@ Sec. 3. (a) The Administrator of General Services, referred to hereafter in this
 
 &emsp;“(9)(A) Notwithstanding subsection (b), development of a transition directory by the Administrator of General Services Administration, in consultation with the Archivist of the United States (head of the National Archives and Records Administration) for activities conducted under paragraph (8).
 
-&emsp;“(B) The transition directory shall be a compilation of Federal publications and materials with supplementary materials developed by the Administratorthat provides information on the officers, organization, and statutory and administrative authorities, functions, duties, responsibilities, and mission of each department and agency.
+&emsp;“(B) The transition directory shall be a compilation of Federal publications and materials with supplementary materials developed by the Administrator that provides information on the officers, organization, and statutory and administrative authorities, functions, duties, responsibilities, and mission of each department and agency.
 
 &emsp;“(10) Notwithstanding subsection (b), consultation by the Administrator with any President-elect, Vice-President-elect, or eligible candidate (as defined in subsection (h)(4)) to develop a systems architecture plan for the computer and communications systems of the candidate to coordinate a transition to Federal systems if the candidate is elected.
 
@@ -182,7 +182,7 @@ Sec. 3. (a) The Administrator of General Services, referred to hereafter in this
 
 &emsp;“(i) in the case of a candidate of a major party (as defined in section 9002(6) of the Internal Revenue Code of 1986 \[26 U.S.C. 9002(6)\]), on one of the first 3 business days following the last nominating convention for such major parties; and
 
-&emsp;“(ii) in the case of any other candidate, as soon as practicable after an individual becomes an eligible candidate (or, if later, at the same time as notice is provided under clause (i)).
+&emsp;“(ii) in the case of any other candidate, as soon as practicable after an individual becomes an eligiblecandidate (or, if later, at the same time as notice is provided under clause (i)).
 
 “(C)(i) The Administrator shall, not later than 12 months before the date of each general election for President and Vice-President (beginning with the election to be held in 2012), prepare a report summarizing modern presidential transition activities, including a bibliography of relevant resources.
 
@@ -270,7 +270,7 @@ Sec. 6. (a) There are hereby authorized to be appropriated to the Administrator 
 
 &emsp;“(1) not more than $3,500,000 may be appropriated for the purposes of providing services and facilities to the President-elect and Vice President-elect under section 3, and
 
-&emsp;“(2) not more than $1,500,000 may be appropriated for the purposes of providing services and facilities tothe former President and former Vice President under section 4, except that any amount appropriated pursuant to this paragraph in excess of $1,250,000 shall be returned to the general fund of the Treasury in the case where the former Vice President is the incumbent President.
+&emsp;“(2) not more than $1,500,000 may be appropriated for the purposes of providing services and facilities to the former President and former Vice President under section 4, except that any amount appropriated pursuant to this paragraph in excess of $1,250,000 shall be returned to the general fund of the Treasury in the case where the former Vice President is the incumbent President.
 
 > The President shall include in the budget transmitted to Congress, for each fiscal year in which his regular term of office will expire, a proposed appropriation for carrying out the purposes of this Act.
 
@@ -350,7 +350,7 @@ Pub. L. 85–745, Aug. 25, 1958, 72 Stat. 838, as amended by Pub. L. 86–682, �
 
 “(a) Each former President shall be entitled for the remainder of his life to receive from the United States a monetary allowance at a rate per annum, payable monthly by the Secretary of the Treasury, which is equal to the annual rate of basic pay, as in effect from time to time, of the head of an executive department, as defined in section 101 of title 5, United States Code. However, such allowance shall not be paid for any period during which such former President holds an appointive or elective office or position in or under the Federal Government or the government of the District of Columbia to which is attached a rate of pay other than a nominal rate.
 
-“(b) The Administrator of General Services shall, without regard to the civil-service and classification laws, provide for each former President an office staff. Persons employed under this subsection shall be selected by the former President and shall be responsible only to him for the performance of their duties. Each former President shall fix basic rates of compensation for persons employed for him under this paragraph which in the aggregate shall not exceed $96,000 per annum except that for the first 30-month period during which a former President is entitled to staff assistance under this subsection, such rates of compensation in the aggregate shall not exceed $150,000 per annum. The annual rate of compensation payable to any such person shall not exceed the highest annual rate of basic pay now or hereafter provided by law for positions at level II of the Executive Schedule under section 5313 oftitle 5, United States Code. Amounts provided for ‘Allowances and Office Staff for Former Presidents’ may be used to pay fees of an independent contractor who is not a member of the staff of the office of a former President for the review of Presidential records of a former President in connection with the transfer of such records to the National Archives and Records Administration or a Presidential Library without regard to the limitation on staff compensation set forth herein.
+“(b) The Administrator of General Services shall, without regard to the civil-service and classification laws, provide for each former President an office staff. Persons employed under this subsection shall be selected by the former President and shall be responsible only to him for the performance of their duties. Each former President shall fix basic rates of compensation for persons employed for him under this paragraph which in the aggregate shall not exceed $96,000 per annum except that for the first 30-month period during which a former President is entitled to staff assistance under this subsection, such rates of compensation in the aggregate shall not exceed $150,000 per annum. The annual rate of compensation payable to any such person shall not exceed the highest annual rate of basic pay now or hereafter provided by law for positions at level II of the Executive Schedule under section 5313 of title 5, United States Code. Amounts provided for ‘Allowances and Office Staff for Former Presidents’ may be used to pay fees of an independent contractor who is not a member of the staff of the office of a former President for the review of Presidential records of a former President in connection with the transfer of such records to the National Archives and Records Administration or a Presidential Library without regard to the limitation on staff compensation set forth herein.
 
 “(c) The Administrator of General Services shall furnish for each former President suitable office space appropriately furnished and equipped, as determined by the Administrator, at such place within the United States as the former President shall specify.
 

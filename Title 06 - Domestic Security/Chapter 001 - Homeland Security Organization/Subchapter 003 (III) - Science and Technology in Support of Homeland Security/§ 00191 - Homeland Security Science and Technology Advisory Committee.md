@@ -74,13 +74,13 @@ The Department of Homeland Security Science and Technology Advisory Committee sh
 
 #### References in Text
 
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (i), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 14 of the Federal Advisory Committee Act, referred to in subsec. (i), is section 14 of Pub. L. 92–463,which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 
-2006—Subsec. (j). Pub. L. 109–347 substituted “on December 31, 2008” for “3 years after the effective date of this chapter”.
+<b>2006</b>—Subsec. (j). Pub. L. 109–347 substituted “on December 31, 2008” for “3 years after the effective date of this chapter”.
 
-2004—Subsec. (c)(2). Pub. L. 108–334 amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “The original members of the Advisory Committee shall be appointed to three classes of three members each. One class shall have a term of 1 year, 1 a term of 2 years, and the other a term of 3 years.”
+<b>2004</b>—Subsec. (c)(2). Pub. L. 108–334 amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “The original members of the Advisory Committee shall be appointed to three classes of three members each. One class shall have a term of 1 year, 1 a term of 2 years, and the other a term of 3 years.”
 
 #### Effective Date of 2006 Amendment
 

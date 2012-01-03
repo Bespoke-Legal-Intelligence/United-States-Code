@@ -10,7 +10,7 @@ It is the sense of Congress that—
 
 &emsp;(3) the UNHCR, in order to effectively carry out its mandate to protect refugees, should liberally employ as professionals or Experts on Mission persons with significant experience in humanitarian assistance work among displaced North Koreans in China;
 
-&emsp;(4) the UNHCR, in order to effectively carry out its mandate to protect refugees, should liberally contract with appropriate nongovernmental organizations that have a provenrecord of providing humanitarian assistance to displaced North Koreans in China;
+&emsp;(4) the UNHCR, in order to effectively carry out its mandate to protect refugees, should liberally contract with appropriate nongovernmental organizations that have a proven record of providing humanitarian assistance to displaced North Koreans in China;
 
 &emsp;(5) the UNHCR should pursue a multilateral agreement to adopt an effective “first asylum” policy that guarantees safe haven and assistance to North Korean refugees; and
 

@@ -10,7 +10,7 @@ The Bankruptcy Act, referred to in text, is act July 1, 1898, ch. 541, 30 Stat. 
 
 #### Amendments
 
-1978—Pub. L. 95–598 substituted “Bankruptcy Act or under title 11” for “Act entitled ‘An Act to establish a uniform system of bankruptcy throughout the United States’ ”.
+<b>1978</b>—Pub. L. 95–598 substituted “Bankruptcy Act or under title 11” for “Act entitled ‘An Act to establish a uniform system of bankruptcy throughout the United States’ ”.
 
 #### Effective Date of 1978 Amendment
 

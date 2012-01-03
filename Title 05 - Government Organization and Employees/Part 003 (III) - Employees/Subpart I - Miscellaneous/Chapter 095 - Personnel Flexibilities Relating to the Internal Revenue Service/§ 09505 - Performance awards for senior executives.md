@@ -18,11 +18,11 @@ The Government Performance and Results Act of 1993, referred to in subsec. (b), 
 
 #### Amendments
 
-2007—Subsec. (a). Pub. L. 110–161 substituted “Before July 23, 2013” for “For a period of 10 years after the date of enactment of this section”.
+<b>2007</b>—Subsec. (a). Pub. L. 110–161 substituted “Before July 23, 2013” for “For a period of 10 years after the date of enactment of this section”.
 
-2003—Subsec. (d). Pub. L. 108–7 substituted “Such amount may not exceed the maximum amount which would be allowable under paragraph (3) of section 5384(b) if such paragraph were applied by substituting ‘the Internal Revenue Service’ for ‘an agency’.” for “Such amount may not exceed an amount equal to 5 percent of the aggregate amount of basic pay paid to career senior executives in the Internal Revenue Service during the preceding fiscal year.”
+<b>2003</b>—Subsec. (d). Pub. L. 108–7 substituted “Such amount may not exceed the maximum amount which would be allowable under paragraph (3) of section 5384(b) if such paragraph were applied by substituting ‘the Internal Revenue Service’ for ‘an agency’.” for “Such amount may not exceed an amount equal to 5 percent of the aggregate amount of basic pay paid to career senior executives in the Internal Revenue Service during the preceding fiscal year.”
 
-2002—Subsec. (b). Pub. L. 107–217 substituted “subtitle III of title 40” for “division E of the Clinger-Cohen Act of 1996 (Public Law 104–106; 110 Stat. 679)”.
+<b>2002</b>—Subsec. (b). Pub. L. 107–217 substituted “subtitle III of title 40” for “division E of the Clinger-Cohen Act of 1996 (Public Law 104–106; 110 Stat. 679)”.
 
 #### Effective Date of 2003 Amendment
 

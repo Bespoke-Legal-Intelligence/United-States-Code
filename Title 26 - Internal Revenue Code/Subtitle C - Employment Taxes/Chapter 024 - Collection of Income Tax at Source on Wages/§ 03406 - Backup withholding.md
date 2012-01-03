@@ -82,7 +82,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) the aggregate amount of such payment and all previous payments described in such sections by the payor to the payee during such calendar year equals or exceeds $600,
 
-&emsp;&emsp;(B) the payor was required under section 6041(a) or 6041A(a) to file a return for the preceding calendar year with respect to payments to the payee, or
+&emsp;&emsp;(B) the payor was required under section 6041(a) or 6041A(a) to file a return for thepreceding calendar year with respect to payments to the payee, or
 
 &emsp;&emsp;(C) during the preceding calendar year, the payor made reportable payments to the payee with respect to which amounts were required to be deducted and withheld under subsection (a).
 
@@ -358,7 +358,7 @@ For purposes of this section—
 
 #### (4) Payor defined
 
-&emsp;The term “payor” means, with respect to any reportable payment, a person required to file a return described in paragraph (2) or (3) of subsection (b) with respect to such payment.
+&emsp;The term “payor” means, with respect to any reportable payment, a person required tofile a return described in paragraph (2) or (3) of subsection (b) with respect to such payment.
 
 #### (5) Broker
 
@@ -382,7 +382,7 @@ For purposes of this section—
 
 &emsp;The term “readily tradable instrument” means—
 
-&emsp;&emsp;(A) any instrument which is part of an issue any portion of which is traded on anestablished securities market (within the meaning of section 453(f)(5)), and
+&emsp;&emsp;(A) any instrument which is part of an issue any portion of which is traded on an established securities market (within the meaning of section 453(f)(5)), and
 
 &emsp;&emsp;(B) except as otherwise provided in regulations prescribed by the Secretary, any instrument which is regularly quoted by brokers or dealers making a market.
 
@@ -442,7 +442,7 @@ Pub. L. 110–289, div. C, title III, §3091(e), July 30, 2008, 122 Stat. 2911, 
 
 “(1)
 
-In general.—Except as otherwise provided in this subsection, the amendments made by this section \[enacting section 6050W of this title and amending this section and section 6724 of this title\] shall apply to returns for calendar years beginning after December 31, 2010.
+In general.—Except as otherwise provided in this subsection, the amendments made by this section \[enacting section 6050W of this title and amending thissection and section 6724 of this title\] shall apply to returns for calendar years beginning after December 31, 2010.
 
 “(2)
 
@@ -464,7 +464,7 @@ Eligibility for tin matching program.—Solely for purposes of carrying out any 
 
 Amendment by Pub. L. 107–16 applicable to amounts paid after the 60th day after June 7, 2001, and references to income brackets and rates of tax in such amendment to be applied without regard to section 1(i)(1)(D) of this title, see section 101(d)(2) of Pub. L. 107–16, set out as a note under section 1 of this title.
 
-Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied andadministered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1992 Amendment
 

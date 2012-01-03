@@ -2,7 +2,7 @@
 
 #### (a) Presentation of flag
 
-Upon the release of an officer of the commissioned corps of the Service from active commissioned service for retirement, the Secretary of Health and Human Services shall present a United States flag to the officer.
+Upon the release of an officer of the commissioned corps of the Service from active commissioned service for retirement, the Secretary ofHealth and Human Services shall present a United States flag to the officer.
 
 #### (b) Multiple presentations not authorized
 

@@ -92,7 +92,7 @@ Inclusions.—The term “alternative fueled vehicle” includes—
 
 #### References in Text
 
-This subchapter, referred to in introductory provisions, was in the original “this title”, meaning title III of Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2866, which enacted this subchapter, amended section 6374 of this title, and repealed provisions set out as a note under section 6374 of this title. For complete classification of title III to the Code, see Tables.
+This subchapter, referred to in introductory provisions, was in the original “this title”, meaning title IIIof Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2866, which enacted this subchapter, amended section 6374 of this title, and repealed provisions set out as a note under section 6374 of this title. For complete classification of title III to the Code, see Tables.
 
 Subchapter II of this chapter, referred to in introductory provisions, was in the original “title IV”, meaning title IV of Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2875, which enacted subchapter II (§13231 et seq.) of this chapter, amended sections 6374a and 6374b and former section 6374c of this title and sections 717, 717a, 2001, 2002, 2006, and 2013 of Title 15, Commerce and Trade, enacted provisions set out as notes under former section 79b and section 717 of Title 15, and repealed provisions set out as a note under section 717c of Title 15. For complete classification of title IV to the Code, see Tables.
 

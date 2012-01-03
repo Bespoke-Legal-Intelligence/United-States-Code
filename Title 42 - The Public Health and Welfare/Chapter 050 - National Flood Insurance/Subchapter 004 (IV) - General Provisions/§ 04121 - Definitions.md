@@ -30,7 +30,7 @@
 
 &emsp;(12) the term “natural and beneficial floodplain functions” means—
 
-&emsp;&emsp;(A) the functions associated with the natural or relatively undisturbed floodplain that (i) moderate flooding, retain flood waters, reduce erosion and sedimentation, and mitigate the effect of waves and storm surgefrom storms, and (ii) reduce flood related damage; and
+&emsp;&emsp;(A) the functions associated with the natural or relatively undisturbed floodplain that (i) moderate flooding, retain flood waters, reduce erosion and sedimentation, and mitigate the effect of waves and storm surge from storms, and (ii) reduce flood related damage; and
 
 &emsp;&emsp;(B) ancillary beneficial functions, including maintenance of water quality and recharge of ground water, that reduce flood related damage;
 
@@ -44,7 +44,7 @@
 
 (c) The term “flood” shall also include the collapse or subsidence of land along the shore of a lake or other body of water as a result of erosion or undermining caused by waves or currents of water exceeding anticipated cyclical levels, and all of the provisions of this chapter shall apply with respect to such collapse or subsidence in the same manner and to the same extent as with respect to floods described in subsection (a)(1) of this section, subject to and in accordance with such regulations, modifying the provisions of this chapter (including the provisions relating to land management and use) to the extent necessary to insure that they can be effectively so applied, as the Director may prescribe to achieve (with respect to such collapse or subsidence) the purposes of this chapter and the objectives of the program.
 
-(Pub. L. 90–448, title XIII, §1370, Aug. 1, 1968, 82 Stat. 588; Pub. L. 91–152, title IV, §409(b), Dec. 24, 1969, 83 Stat. 397; Pub. L. 93–234, title I, §§107, 108(b), Dec. 31, 1973, 87 Stat. 979, 980; Pub. L. 98–181, title IV, §451(d)(1), (8), Nov. 30, 1983, 97 Stat. 1229; Pub. L. 100–628, title X, §1086(b), Nov. 7, 1988, 102 Stat. 3278; Pub. L. 103–325, title V, §512(a), Sept. 23, 1994, 108 Stat. 2256; Pub. L. 108–264, title I, §105(b), June 30, 2004, 118 Stat. 723; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410.)
+(Pub. L. 90–448, title XIII, §1370, Aug. 1, 1968, 82 Stat. 588; Pub. L. 91–152, title IV, §409(b), Dec. 24, 1969, 83 Stat. 397; Pub. L. 93–234, title I, §§107, 108(b), Dec. 31, 1973, 87 Stat. 979, 980; Pub. L. 98–181, title IV, §451(d)(1), (8), Nov. 30, 1983, 97Stat. 1229; Pub. L. 100–628, title X, §1086(b), Nov. 7, 1988, 102 Stat. 3278; Pub. L. 103–325, title V, §512(a), Sept. 23, 1994, 108 Stat. 2256; Pub. L. 108–264, title I, §105(b), June 30, 2004, 118 Stat. 723; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410.)
 
 #### References in Text
 
@@ -81,6 +81,8 @@ Subsec. (c). Pub. L. 93–234, §108(b), added subsec. (c).
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+For transfer of functions of the Office of Thrift Supervision, including the functions of the Director of the Office of Thrift Supervision, to the Board of Governors of the Federal Reserve System, the Office of the Comptroller of the Currency and the Comptroller of the Currency, and the Federal Deposit Insurance Corporation, see sections 5412 and 5413 of Title 12, Banks and Banking.
 
 #### Termination of Trust Territory of the Pacific Islands
 

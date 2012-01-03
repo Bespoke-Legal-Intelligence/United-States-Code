@@ -12,9 +12,9 @@ This section was changed so as to make provisions for enlisted men parallel to s
 
 #### Amendments
 
-1984—Pub. L. 98–557 substituted reference to enlisted member for reference to enlisted man.
+<b>1984</b>—Pub. L. 98–557 substituted reference to enlisted member for reference to enlisted man.
 
-1950—Act Aug. 3, 1950, struck out all references to pay.
+<b>1950</b>—Act Aug. 3, 1950, struck out all references to pay.
 
 #### Delegation of Authority
 

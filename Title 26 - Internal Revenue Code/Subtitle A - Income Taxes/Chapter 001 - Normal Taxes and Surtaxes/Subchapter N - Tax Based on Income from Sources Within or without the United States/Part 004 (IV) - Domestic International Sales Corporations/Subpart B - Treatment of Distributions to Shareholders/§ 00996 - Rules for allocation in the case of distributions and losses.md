@@ -82,7 +82,7 @@ For purposes of this part:
 
 #### (3) Other earnings and profits
 
-&emsp;The earnings and profits for a taxable year which are described in neither paragraph (1) nor (2) shall constitute the other earnings and profits for such year.
+&emsp;The earnings and profits for a taxable year which are described in neither paragraph (1)nor (2) shall constitute the other earnings and profits for such year.
 
 #### (g) Effectively connected income
 

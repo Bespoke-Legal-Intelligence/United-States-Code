@@ -6,9 +6,9 @@ Experts and consultants or organizations thereof may, as authorized by section 3
 
 #### (b) Exemption from restrictions upon receipt of retirement benefits
 
-Service of an individual as a member of the Council authorized to be established by section 2511 <sup>1</sup> of this title or as an expert or consultantunder subsection (a) of this section shall not be considered as employment or holding of office or position bringing such individual within the provisions of sections 3323(b) and 8344 of title 5, section 4064 of this title, or any other law limiting the reemployment of retired officers or employees or governing the simultaneous receipt of compensation and retired pay or annuities.
+Service of an individual as a member of the Council authorized to be established by section 2511 <sup>1</sup> of this title or as an expert or consultant under subsection (a) of this section shall not be considered as employment or holding of office or position bringing such individual within the provisions of sections 3323(b) and 8344 of title 5, section 4064 of this title, or any other law limiting the reemployment of retired officers or employees or governing the simultaneous receipt of compensation and retired pay or annuities.
 
-(Pub. L. 87–293, title I, §13, Sept. 22, 1961, 75 Stat. 619; Pub. L. 88–200, §6, Dec. 13, 1963, 77 Stat. 360; Pub. L. 88–448, title IV, §401(c), Aug. 19, 1964, 78 Stat. 490; Pub. L. 91–352, §6, July 24, 1970, 84 Stat. 465; Pub. L. 96–465, title II, §2202(c), Oct. 17, 1980, 94 Stat. 2158; Pub. L. 107–107, div. A, title X, §1048(i)(9), Dec. 28, 2001, 115 Stat. 1229.)
+(Pub. L. 87–293, title I, §13, Sept. 22, 1961, 75 Stat. 619; Pub. L. 88–200, §6, Dec. 13, 1963, 77 Stat. 360;Pub. L. 88–448, title IV, §401(c), Aug. 19, 1964, 78 Stat. 490; Pub. L. 91–352, §6, July 24, 1970, 84 Stat. 465; Pub. L. 96–465, title II, §2202(c), Oct. 17, 1980, 94 Stat. 2158; Pub. L. 107–107, div. A, title X, §1048(i)(9), Dec. 28, 2001, 115 Stat. 1229.)
 
 #### References in Text
 

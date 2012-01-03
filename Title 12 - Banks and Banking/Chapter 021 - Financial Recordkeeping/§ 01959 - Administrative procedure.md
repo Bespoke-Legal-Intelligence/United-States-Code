@@ -8,3 +8,5 @@ The administrative procedure and judicial review provisions of subchapter II of 
 
 Section 1730d of this title, referred to in text, was repealed by Pub. L. 101–73, title IV, §407, Aug. 9, 1989, 103 Stat. 363.
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

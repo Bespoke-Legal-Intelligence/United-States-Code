@@ -24,7 +24,7 @@
 
 (IV) In addition, the debtor's monthly expenses may include the actual expenses for each dependent child less than 18 years of age, not to exceed $1,500 per year per child, to attend a private or public elementary or secondary school if the debtor provides documentation of such expenses and a detailed explanation of why such expenses are reasonable and necessary, and why such expenses are not already accounted for in the National Standards, Local Standards, or Other Necessary Expenses referred to in subclause (I).
 
-(V) In addition, the debtor's monthly expenses may include an allowance for housing and utilities, in excess of the allowance specified by the Local Standards for housing and utilities issued by the Internal Revenue Service, based on the actual expenses for home energy costs if the debtor provides documentation of such actual expenses and demonstrates that such actual expenses are reasonable and necessary.
+(V) In addition, the debtor's monthly expenses may include an allowance for housing and utilities, in excess of the allowance specified by theLocal Standards for housing and utilities issued by the Internal Revenue Service, based on the actual expenses for home energy costs if the debtor provides documentation of such actual expenses and demonstrates that such actual expenses are reasonable and necessary.
 
 (iii) The debtor's average monthly payments on account of secured debts shall be calculated as the sum of—
 
@@ -168,15 +168,15 @@
 
 (3) The court may not dismiss a case under paragraph (2) if the debtor establishes by a preponderance of the evidence that the filing of a case under this chapter is necessary to satisfy a claim for a domestic support obligation.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2606; Pub. L. 98–353, title III, §§312, 475, July 10, 1984, 98 Stat. 355, 381; Pub. L. 99–554, title II, §219, Oct. 27, 1986, 100 Stat. 3100; Pub. L. 105–183, §4(b), June 19, 1998, 112 Stat. 518; Pub. L. 109–8, title I, §102(a), (f), Apr. 20, 2005, 119 Stat. 27, 33; Pub. L. 110–438, §2, Oct. 20, 2008, 122 Stat. 5000; Pub. L. 111–320, title II, §202(a), Dec. 20, 2010, 124 Stat. 3509; Pub. L. 111–327, §2(a)(25), Dec. 22, 2010, 124 Stat. 3560.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2606; Pub. L. 98–353, title III, §§312, 475, July 10, 1984, 98 Stat. 355, 381; Pub. L. 99–554, title II, §219, Oct. 27, 1986,100 Stat. 3100; Pub. L. 105–183, §4(b), June 19, 1998, 112 Stat. 518; Pub. L. 109–8, title I, §102(a), (f), Apr. 20, 2005, 119 Stat. 27, 33; Pub. L. 110–438, §2, Oct. 20, 2008, 122 Stat. 5000; Pub. L. 111–320, title II, §202(a), Dec. 20, 2010, 124 Stat. 3509; Pub. L. 111–327, §2(a)(25), Dec. 22, 2010, 124 Stat. 3560.)
 
 #### Adjustment of Dollar Amounts
 
-<i>For adjustment of certain dollar amounts specified in this section, that is not reflected in</i><i>text, see Adjustment of Dollar Amounts note below.</i>
+<i>For adjustment of certain dollar amounts specified in this section, that is not reflected in text, see Adjustment of Dollar Amounts note below.</i>
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 707 of the House amendment indicates that the court may dismiss a case only after notice and a hearing.
 
@@ -192,7 +192,7 @@ The Federal Rules of Bankruptcy Procedure, referred to in subsec. (b)(4)(A), (B)
 
 #### Amendments
 
-2010—Subsec. (a)(3). Pub. L. 111–327, §2(a)(25)(A), substituted “521(a)” for “521”.
+<b>2010</b>—Subsec. (a)(3). Pub. L. 111–327, §2(a)(25)(A), substituted “521(a)” for “521”.
 
 Subsec. (b)(2)(A)(ii)(I). Pub. L. 111–320 substituted “section 302 of the Family Violence Prevention and Services Act” for “section 309 of the Family Violence Prevention and Services Act”.
 
@@ -200,25 +200,25 @@ Subsec. (b)(2)(A)(iii)(I). Pub. L. 111–327, §2(a)(25)(B)(i), inserted “of t
 
 Subsec. (b)(3). Pub. L. 111–327, §2(a)(25)(B)(ii), substituted “paragraph (2)(A)(i)” for “subparagraph (A)(i) of such paragraph” in introductory provisions.
 
-2008—Subsec. (b)(2)(D). Pub. L. 110–438 substituted “testing—” for “testing,” in introductory provisions, inserted cl. (i) designation before “if the debtor”, redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, of cl. (i) and added cl. (ii).
+<b>2008</b>—Subsec. (b)(2)(D). Pub. L. 110–438 substituted “testing—” for “testing,” in introductory provisions, inserted cl. (i) designation before “if the debtor”, redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, of cl. (i) and added cl. (ii).
 
-2005—Pub. L. 109–8, §102(a)(1), substituted “Dismissal of a case or conversion to a case under chapter 11 or 13” for “Dismissal” in section catchline.
+<b>2005</b>—Pub. L. 109–8, §102(a)(1), substituted “Dismissal of a case or conversion to a case under chapter 11 or 13” for “Dismissal” in section catchline.
 
 Subsec. (b). Pub. L. 109–8, §102(a)(2), designated existing provisions as par. (1), substituted “trustee (or bankruptcy administrator, if any), or” for “but not at the request or suggestion of” and “an abuse” for “a substantial abuse”, inserted “, or, with the debtor's consent, convert such a case to a case under chapter 11 or 13 of this title,” after “consumer debts”, struck out “There shall be a presumption in favor of granting the relief requested by the debtor.” before “In making”, and added pars. (2) to (7).
 
 Subsec. (c). Pub. L. 109–8, §102(f), added subsec. (c).
 
-1998—Subsec. (b). Pub. L. 105–183 inserted at end “In making a determination whether to dismiss a case under this section, the court may not take into consideration whether a debtor has made, or continues to make, charitable contributions (that meet the definition of ‘charitable contribution’ under section 548(d)(3)) to any qualified religious or charitable entity or organization (as that term is defined in section 548(d)(4)).”
+<b>1998</b>—Subsec. (b). Pub. L. 105–183 inserted at end “In making a determination whether to dismiss a case under this section, the court may not take into consideration whether a debtor has made, or continues to make, charitable contributions (that meet the definition of ‘charitable contribution’ under section 548(d)(3)) to any qualified religious or charitable entity or organization (as that term is defined in section 548(d)(4)).”
 
-1986—Subsec. (a)(3). Pub. L. 99–554, §219(a), added par. (3).
+<b>1986</b>—Subsec. (a)(3). Pub. L. 99–554, §219(a), added par. (3).
 
 Subsec. (b). Pub. L. 99–554, §219(b), substituted “motion or on a motion by the United States trustee, but” for “motion and”.
 
-1984—Pub. L. 98–353 designated existing provisions as subsec. (a) and in pars. (1) and (2) substituted “or” for “and”, and added subsec. (b).
+<b>1984</b>—Pub. L. 98–353 designated existing provisions as subsec. (a) and in pars. (1) and (2) substituted “or” for “and”, and added subsec. (b).
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–438, §4, Oct. 20, 2008, 122 Stat. 5002, provided that:
+Pub. L. 110–438, §4, Oct. 20, 2008, 122 Stat. 5002, as amended by Pub. L. 112–64, §2, Dec. 13, 2011, 125 Stat. 766, provided that:
 
 “(a)
 
@@ -226,7 +226,7 @@ Effective Date.—Except as provided in subsection (b), this Act \[amending this
 
 “(b)
 
-Application of Amendments.—The amendments made by this Act \[amending this section\] shall apply only with respect to cases commenced under title 11 of the United States Code in the 3-year period beginning on the effective date of this Act.”
+Application of Amendments.—The amendments made by this Act \[amending this section\] shall apply only with respect to cases commenced under title 11 of the United States Code in the 7-year period beginning on the effective date of this Act.”
 
 #### Effective Date of 2005 Amendment
 
@@ -252,9 +252,9 @@ Pub. L. 109–8, title I, §107, Apr. 20, 2005, 119 Stat. 42, provided that: “
 
 The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to section 104 of this title as follows:
 
-By notice dated Feb. 19, 2010, 75 F.R. 8747, effective Apr. 1, 2010, in subsec. (b)(2)(A)(i)(I), dollar amount “6,575” was adjusted to “7,025”; in subsec. (b)(2)(A)(i)(II), dollar amount “10,950” was adjusted to “11,725”; in subsec. (b)(2)(A)(ii)(IV), dollar amount “1,650” was adjusted to “1,775”; in subsec. (b)(2)(B)(iv)(I), dollar amount “6,575” was adjusted to “7,025”; in subsec. (b)(2)(B)(iv)(II), dollar amount “10,950” was adjusted to “11,725”; in subsec. (b)(5)(B), dollar amount “1,100” was adjusted to “1,175”; in subsec. (b)(6)(C), dollar amount “575” was adjusted to “625”; and, in subsec. (b)(7)(A)(iii), dollar amount “575” was adjusted to “625”. See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
+By notice dated Feb. 19, 2010, 75 F.R. 8747, effective Apr. 1, 2010, in subsec. (b)(2)(A)(i)(I), dollar amount “6,575” was adjusted to “7,025”; in subsec. (b)(2)(A)(i)(II), dollar amount “10,950” was adjusted to “11,725”; in subsec. (b)(2)(A)(ii)(IV), dollar amount “1,650” was adjusted to “1,775”; in subsec.\(b)(2)(B)(iv)(I), dollar amount “6,575” was adjusted to “7,025”; in subsec. (b)(2)(B)(iv)(II), dollar amount “10,950” was adjusted to “11,725”; in subsec. (b)(5)(B), dollar amount “1,100” was adjusted to “1,175”; in subsec. (b)(6)(C), dollar amount “575” was adjusted to “625”; and, in subsec. (b)(7)(A)(iii), dollar amount “575” was adjusted to “625”. See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
 
-By notice dated Feb. 7, 2007, 72 F.R. 7082, effective Apr. 1, 2007, in subsec. (b)(2)(A)(i)(I), dollar amount “6,000” was adjusted to “6,575”; in subsec. (b)(2)(A)(i)(II), dollar amount “10,000” was adjusted to “10,950”; in subsec. (b)(2)(A)(ii)(IV), dollar amount“1,500” was adjusted to “1,650”; in subsec. (b)(5)(B), dollar amount “1,000” was adjusted to “1,100”; in subsec. (b)(6)(C), dollar amount “525” was adjusted to “575”; and, in subsec. (b)(7)(A), dollar amount “525” was adjusted to “575”.
+By notice dated Feb. 7, 2007, 72 F.R. 7082, effective Apr. 1, 2007, in subsec. (b)(2)(A)(i)(I), dollar amount “6,000” was adjusted to “6,575”; in subsec. (b)(2)(A)(i)(II), dollar amount “10,000” was adjusted to “10,950”; in subsec. (b)(2)(A)(ii)(IV), dollar amount “1,500” was adjusted to “1,650”; in subsec. (b)(5)(B), dollar amount “1,000” was adjusted to “1,100”; in subsec. (b)(6)(C), dollar amount “525” was adjusted to “575”; and, in subsec. (b)(7)(A), dollar amount “525” was adjusted to “575”.
 
 #### Rules Promulgated by Supreme Court
 

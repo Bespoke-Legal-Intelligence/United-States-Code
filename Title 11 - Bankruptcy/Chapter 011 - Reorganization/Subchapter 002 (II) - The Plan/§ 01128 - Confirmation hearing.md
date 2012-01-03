@@ -8,7 +8,7 @@
 
 #### Historical and Revision Notes
 
-I74senate report no. 95–989
+#### senate report no. 95–989
 
 \[Section 1129 (enacted as section 1128)\] Subsection (a) requires that there be a hearing in every case on the confirmation of the plan. Notice is required.
 

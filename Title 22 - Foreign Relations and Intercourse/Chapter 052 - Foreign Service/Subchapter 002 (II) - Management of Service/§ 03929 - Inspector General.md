@@ -50,7 +50,7 @@ Conduct of investigations.—In conducting investigations of potential violation
 
 Final reports of investigations.—In order to ensure that final reports of investigations are thorough and accurate, the Inspector General shall—
 
-&emsp;&emsp;(i) make every reasonable effort to ensure that any person named in a final report of investigation has been afforded an opportunity to refute any allegation of wrongdoing or assertion with respect to a material fact made regarding that person's actions;
+&emsp;&emsp;(i) make every reasonable effort to ensure that any person named in a final report ofinvestigation has been afforded an opportunity to refute any allegation of wrongdoing or assertion with respect to a material fact made regarding that person's actions;
 
 &emsp;&emsp;(ii) include in every final report of investigation any exculpatory information, as well as any inculpatory information, that has been discovered in the course of the investigation.
 

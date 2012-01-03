@@ -54,7 +54,7 @@ Any agreement to maintain the low-income affordability restrictions for the rema
 
 #### (3) Owner petition
 
-&emsp;The Secretary shall establish a procedure under which owners of eligible low-income housing may petition the Secretary for a determination that the useful life of such housing has expired. The procedure shall not permit such a petition before the expiration of the 50-year period beginning upon the approval of a plan of action under this subchapter with respect to such housing. In making a determination pursuant to a petition under this paragraph, the Secretary shall presume that the useful life of the housing has not expired, and the owner shall have the burden of proof in establishing such expiration. The Secretary may not determine that the useful life of any housing has expired if such determination results primarily from failure to make regular and reasonable repairs and replacement, as became necessary.
+&emsp;The Secretary shall establish a procedure under which owners of eligible low-income housing may petition the Secretary for a determination that the useful life of such housing has expired. The procedure shall not permit such a petition before the expiration of the 50-year period beginning upon the approval of a plan of action under this subchapter with respect to such housing. In making a determination pursuant to a petition under this paragraph, the Secretary shall presume that the useful life of the housing has not expired, and the owner shall have the burden of proof in establishing such expiration. The Secretarymay not determine that the useful life of any housing has expired if such determination results primarily from failure to make regular and reasonable repairs and replacement, as became necessary.
 
 #### (4) Tenant and community comment and appeal
 
@@ -94,7 +94,7 @@ Any agreement to maintain the low-income affordability restrictions for the rema
 
 &emsp;&emsp;&emsp;(v) Take any other action authorized by law or the project regulatory agreement to ensure that the housing will be brought into compliance with the standards established under this subsection.
 
-(Pub. L. 100–242, title II, §222, as added Pub. L. 101–625, title VI, §601(a), Nov. 28, 1990, 104 Stat. 4260; amended Pub. L. 102–550, title III, §§308,317(a)(4), Oct. 28, 1992, 106 Stat. 3764, 3772; Pub. L. 103–327, title II, Sept. 28, 1994, 108 Stat. 2316.)
+(Pub. L. 100–242, title II, §222, as added Pub. L. 101–625, title VI, §601(a), Nov. 28, 1990, 104 Stat. 4260; amended Pub. L. 102–550, title III, §§308, 317(a)(4), Oct. 28, 1992, 106 Stat. 3764, 3772; Pub. L. 103–327, title II, Sept. 28, 1994, 108 Stat. 2316.)
 
 #### References in Text
 
@@ -108,7 +108,7 @@ Amendment by Pub. L. 103–327 is based on section 601(a)–(d) of title VI of S
 
 #### Amendments
 
-1994—Subsec. (a)(2)(D). Pub. L. 103–327 temporarily amended subpar. (D) to read as follows: “monthly rent contributions by current and future tenants, including tenants receiving assistance under section 1437f of title 42, shall not exceed the lesser of—
+<b>1994</b>—Subsec. (a)(2)(D). Pub. L. 103–327 temporarily amended subpar. (D) to read as follows: “monthly rent contributions by current and future tenants, including tenants receiving assistance under section 1437f of title 42, shall not exceed the lesser of—
 
 &emsp;“(i) 30 percent of the adjusted income of the tenant; or
 
@@ -132,7 +132,7 @@ Subsec. (a)(2)(E)(iii). Pub. L. 103–327 temporarily added cl. (iii) which read
 
 Subsec. (a)(2)(F). Pub. L. 103–327, which directed the temporary amendment of par. (1)(F) by substituting “to the extent practicable, the units becoming available to new tenants shall be” for “rents for units becoming available to new tenants shall be at levels approved by the Secretary that will ensure, to the extent practicable, that the units will be” in cl. (i), adding cl. (ii), and redesignating former cl. (ii) as (iii), was executed by making the amendments to par. (2)(F) to reflect the probable intent of Congress. Cl. (ii) read as follows: “in order to maintain the proportions of very low- and low-income families and persons required by clause (i), owners shall be required to apply any required Federal preference rules only with respect to tenants within each low- or very low-income category, in accordance with the approved tenant profile; and”. See Effective and Termination Dates of 1994 Amendment note below.
 
-1992—Subsec. (a)(2)(A). Pub. L. 102–550, §317(a)(4)(A), substituted “low-income” for “low income” after “families or persons,”.
+<b>1992</b>—Subsec. (a)(2)(A). Pub. L. 102–550, §317(a)(4)(A), substituted “low-income” for “low income” after “families or persons,”.
 
 Subsec. (a)(2)(G)(i). Pub. L. 102–550, §308(b), substituted “, where the owner is a priority purchaser, to the portion of rent attributable to project oversight costs” for “by making changes in the annual authorized return under section 4104 of this title”.
 

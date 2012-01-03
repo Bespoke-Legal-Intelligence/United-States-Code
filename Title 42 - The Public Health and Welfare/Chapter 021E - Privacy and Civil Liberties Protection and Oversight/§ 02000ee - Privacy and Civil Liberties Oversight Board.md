@@ -202,7 +202,7 @@ The Board shall—
 
 #### (2) Detailees
 
-&emsp;Any Federal employee may be detailed to the Board without reimbursement from the Board, and such detailee shall retain the rights, status, and privileges of the detailee's regular employment without interruption.
+&emsp;Any Federal employee may be detailed to the Board without reimbursement from theBoard, and such detailee shall retain the rights, status, and privileges of the detailee's regular employment without interruption.
 
 #### (3) Consultant services
 

@@ -74,7 +74,7 @@ On an annual basis, the Advisory Board shall review—
 
 #### (1) 1862 and 1890 Institutions
 
-&emsp;Effective October 1, 1999, to be eligible to obtain agricultural research or extension fundsfrom the Secretary for an activity, each 1862 Institution and 1890 Institution shall—
+&emsp;Effective October 1, 1999, to be eligible to obtain agricultural research or extension funds from the Secretary for an activity, each 1862 Institution and 1890 Institution shall—
 
 &emsp;&emsp;(A) establish a process for merit review of the activity; and
 
@@ -106,7 +106,7 @@ Section is comprised of section 103 of Pub. L. 105–185. Subsec. (f) of section
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–246, §7511(c)(30), substituted “National Institute of Food and Agriculture” for “Cooperative State Research, Education, and Extension Service” in heading and “the National Institute of Food and Agriculture” for “the Cooperative State Research, Education, and Extension Service” in text of pars. (1) and (2)(A).
+<b>2008</b>—Subsec. (a). Pub. L. 110–246, §7511(c)(30), substituted “National Institute of Food and Agriculture” for “Cooperative State Research, Education, and Extension Service” in heading and “the National Institute of Food and Agriculture” for “the Cooperative State Research, Education, and Extension Service” in text of pars. (1) and (2)(A).
 
 Subsec. (a)(3). Pub. L. 110–246, §7301, added par. (3).
 

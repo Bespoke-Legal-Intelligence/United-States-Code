@@ -228,7 +228,7 @@ The Housing Act of 1949, referred to in subsec. (d)(2), is act July 15, 1949, ch
 
 #### Amendments
 
-<b>1992</b>—Subsec. (a)(4)(B). Pub. L. 102–550, §834(a)(1), substituted “the date of the enactment of the Housing andCommunity Development Act of 1992 occurs” for “the effective date of the regulations described in subparagraph (A) occurs”.
+<b>1992</b>—Subsec. (a)(4)(B). Pub. L. 102–550, §834(a)(1), substituted “the date of the enactment of the Housing and Community Development Act of 1992 occurs” for “the effective date of the regulations described in subparagraph (A) occurs”.
 
 Subsec. (c)(3)(B). Pub. L. 102–550, §834(a)(2), substituted “October 28, 1992” for “February 5, 1988”.
 

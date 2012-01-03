@@ -70,5 +70,5 @@ The remedies provided in this chapter shall be in addition to, and not exclusive
 
 #### Amendments
 
-1991—Subsec. (b). Pub. L. 102–237 substituted “this section” for “this subsection” after “brought under”.
+<b>1991</b>—Subsec. (b). Pub. L. 102–237 substituted “this section” for “this subsection” after “brought under”.
 

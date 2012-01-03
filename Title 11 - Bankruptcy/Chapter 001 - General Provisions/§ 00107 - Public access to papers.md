@@ -22,11 +22,11 @@
 
 &emsp;(B) shall not disclose information specifically protected by the court under this title.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2556; Pub. L. 109–8, title II, §§233(c), 234(a), (c), Apr. 20, 2005,119 Stat. 74, 75; Pub. L. 111–327, §2(a)(5), Dec. 22, 2010, 124 Stat. 3557.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2556; Pub. L. 109–8, title II, §§233(c), 234(a), (c), Apr. 20, 2005, 119 Stat. 74, 75; Pub. L. 111–327, §2(a)(5), Dec. 22, 2010, 124 Stat. 3557.)
 
 #### Historical and Revision Notes
 
-I74senate report no. 95–989
+#### senate report no. 95–989
 
 Subsection (a) of this section makes all papers filed in a bankruptcy case and the dockets of the bankruptcy court public and open to examination at reasonable times without charge. “Docket” includes the claims docket, the proceedings docket, and all papers filed in a case.
 
@@ -34,9 +34,9 @@ Subsection (b) permits the court, on its own motion, and requires the court, on 
 
 #### Amendments
 
-2010—Subsec. (a). Pub. L. 111–327 substituted “subsections (b) and (c)” for “subsection (b) of this section”.
+<b>2010</b>—Subsec. (a). Pub. L. 111–327 substituted “subsections (b) and (c)” for “subsection (b) of this section”.
 
-2005—Subsec. (a). Pub. L. 109–8, §234(c), which directed the substitution of “subsections (b) and (c),” for “subsection (b),”, could not be executed because “subsection (b),” did not appear in text.
+<b>2005</b>—Subsec. (a). Pub. L. 109–8, §234(c), which directed the substitution of “subsections (b) and (c),” for “subsection (b),”, could not be executed because “subsection (b),” did not appear in text.
 
 Pub. L. 109–8, §233(c), inserted “and subject to section 112” after “section”.
 

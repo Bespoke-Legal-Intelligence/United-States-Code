@@ -10,9 +10,9 @@ Section was formerly classified to section 1328 of Title 31 prior to the general
 
 #### Amendments
 
-1985—Pub. L. 99–177 substituted “by June 10” for “before first appropriation bill is reported” in section catchline, and amended section generally. Prior to amendment, section read as follows: “Prior to reporting the first regular appropriation bill for each fiscal year, the Committee on Appropriations of the House of Representatives shall, to the extent practicable, complete subcommittee markup and full committee action on all regular appropriation bills for that year and submit to the House a summary report comparing the committee's recommendations with the appropriate levels of budget outlays and new budget authority as set forth in the most recently agreed to concurrent resolution on the budget for that year.”
+<b>1985</b>—Pub. L. 99–177 substituted “by June 10” for “before first appropriation bill is reported” in section catchline, and amended section generally. Prior to amendment, section read as follows: “Prior to reporting the first regular appropriation bill for each fiscal year, the Committee on Appropriations of the House of Representatives shall, to the extent practicable, complete subcommittee markup and full committee action on all regular appropriation bills for that year and submit to the House a summary report comparing the committee's recommendations with the appropriate levels of budget outlays and new budget authority as set forth in the most recently agreed to concurrent resolution on the budget for that year.”
 
 #### Effective Date of 1985 Amendment
 
-Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, set out as an Effective and Termination Dates note under section 900 of this title.
+Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of this title prior to repeal by Pub. L. 112–25, title I, §104(a), Aug. 2, 2011, 125 Stat. 246.
 

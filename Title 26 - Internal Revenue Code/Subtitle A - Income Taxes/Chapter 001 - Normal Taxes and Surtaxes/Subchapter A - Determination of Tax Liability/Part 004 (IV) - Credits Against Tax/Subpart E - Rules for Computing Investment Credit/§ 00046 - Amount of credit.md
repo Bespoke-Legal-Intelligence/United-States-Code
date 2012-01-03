@@ -108,7 +108,7 @@ Subsec. (c)(8)(F)(ii)(IV). Pub. L. 98–369, §431(d)(3), substituted “nonqual
 
 Subsec. (c)(9). Pub. L. 98–369, §431(b)(1), substituted provisions relating to subsequent decreases in nonqualified nonrecourse financing with respect to the property for provisions relating to subsequent increases in the taxpayer's amount at risk with respect to the property.
 
-Subsec. (e)(1). Pub. L. 98–369, §474(<i>o</i>)(3)(A), struck out “and the $25,000 amount specified under subparagraphs\(A) and (B) of subsection (a)(3)”, and substituted “such qualified investment” for “such items”, in provisions following subpar. (B).
+Subsec. (e)(1). Pub. L. 98–369, §474(<i>o</i>)(3)(A), struck out “and the $25,000 amount specified under subparagraphs (A) and (B) of subsection (a)(3)”, and substituted “such qualified investment” for “such items”, in provisions following subpar. (B).
 
 Subsec. (e)(2). Pub. L. 98–369, §474(<i>o</i>)(3)(B), substituted “qualified investment” for “the items described therein” in introductory provisions.
 
@@ -132,7 +132,7 @@ Subsec. (h)(1). Pub. L. 98–369, §474(<i>o</i>)(7), substituted “the credit 
 
 <b>1983</b>—Subsec. (a)(2)(C)(i). Pub. L. 97–424, §546(b), added section VII to the table.
 
-Subsec. (a)(2)(C)(iii)(I). Pub. L. 97–448, §202(f), substituted “before January 1, 1983, all engineering studies in connection with the commencement of the construction of the project have been completed and all environmental and construction permits required under Federal, State, or local law in connection with the commencement of the construction of the project have been applied for, and” for “before January 1, 1983, the taxpayer has completed all engineering studies in connection with the commencement of the construction of the project, and has applied for all environmental and construction permits required under Federal, State, or local law in connection with the commencement of the construction of the project, and”.
+Subsec. (a)(2)(C)(iii)(I). Pub. L. 97–448, §202(f), substituted “before January 1, 1983, all engineering studies in connection with the commencement of the construction of the project have been completed and all environmental and construction permits required under Federal, State, or local law in connection with the commencement of the construction of the project havebeen applied for, and” for “before January 1, 1983, the taxpayer has completed all engineering studies in connection with the commencement of the construction of the project, and has applied for all environmental and construction permits required under Federal, State, or local law in connection with the commencement of the construction of the project, and”.
 
 Subsec. (a)(2)(F)(iii)(II). Pub. L. 97–448, §102(f)(5)(A), substituted “a qualified rehabilitated building” for “any building”.
 
@@ -580,7 +580,7 @@ Special rule.—In the case of the rehabilitation of the Willard Hotel in Washin
 
 Section 421(c) of Pub. L. 99–514 provided that: “The amendments made by this section \[amending this section\] shall apply to periods beginning after December 31, 1985, under rules similar to rules under section 48(m) of the Internal Revenue Code of 1986.”
 
-Amendment by sections 1802(a)(6), (8), 1844(a), (b)(3), (5), 1847(b)(11), 1848(a) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by sections 1802(a)(6), (8), 1844(a), (b)(3), (5), 1847(b)(11), 1848(a) of Pub. L. 99–514 effective, exceptas otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -684,7 +684,7 @@ Payments may be made in two equal installments.—
 
 &emsp;&emsp;“(i)
 
-In general.—The taxpayer may make any payment required by reason of paragraph (3) in 2 equal installments, the first installment being due on the last date on which a taxpayer may enter into a closing agreement under paragraph (3)(B), and the second payment being due 1 year after the last date for the first payment.
+In general.—The taxpayer may make any payment required by reason of paragraph (3) in 2 equal installments, the first installment being due on the last date on which a taxpayer may enter intoa closing agreement under paragraph (3)(B), and the second payment being due 1 year after the last date for the first payment.
 
 &emsp;&emsp;“(ii)
 
@@ -854,7 +854,7 @@ Section 105(d) of Pub. L. 92–178, as amended by Pub. L. 99–514, §2, Oct. 22
 
 Section 106(d) of Pub. L. 92–178 provided that: “The amendments made by subsections (a), (b), and (c)(2) \[amending this section\] shall apply to taxable years beginning after December 31, 1970. The amendments made by subsection (c)(1) \[amending this section\] shall apply to taxable years ending after August 15, 1971.”
 
-Section 107(a)(2) of Pub. L. 92–178 provided that: “The repeals made by paragraph (1) \[amending this sectionand section 47 of this title\] shall apply to casualties and thefts occurring after August 15, 1971.”
+Section 107(a)(2) of Pub. L. 92–178 provided that: “The repeals made by paragraph (1) \[amending this section and section 47 of this title\] shall apply to casualties and thefts occurring after August 15, 1971.”
 
 Section 108(d) of Pub. L. 92–178 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 48 of this title\] shall apply to leases entered into after September 22, 1971. The amendment made by subsection (c) \[amending section 48 of this title\] shall apply to leases entered into after November 8, 1971.”
 

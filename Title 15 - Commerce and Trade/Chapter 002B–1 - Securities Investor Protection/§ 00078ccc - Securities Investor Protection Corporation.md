@@ -24,7 +24,7 @@
 
 #### (B) Commission review
 
-&emsp;&emsp;SIPC shall file with the Commission a copy of any determination made pursuant tosubparagraph (A)(i). Within thirty days after the date of such filing, or within such longer period as the Commission may designate of not more than ninety days after such date if it finds such longer period to be appropriate and publishes its reasons for so finding, the Commission shall, consistent with the public interest and the purposes of this chapter, affirm, reverse, or amend any such determination of SIPC.
+&emsp;&emsp;SIPC shall file with the Commission a copy of any determination made pursuant to subparagraph (A)(i). Within thirty days after the date of such filing, or within such longer period as the Commission may designate of not more than ninety days after such date if it finds such longer period to be appropriate and publishes its reasons for so finding, the Commission shall, consistent with the public interest and the purposes of this chapter, affirm, reverse, or amend any such determination of SIPC.
 
 #### (C) Additional members
 
@@ -32,7 +32,7 @@
 
 #### (D) Disclosure
 
-&emsp;&emsp;Any broker or dealer excluded from membership in SIPC under subparagraph (A)(i) shall, as required by the Commission by rule, make disclosures of its exclusion and other relevant information to the customers of such broker or dealer who are living in the United States or its territories and possessions.
+&emsp;&emsp;Any broker or dealer excluded from membership in SIPC under subparagraph (A)(i)shall, as required by the Commission by rule, make disclosures of its exclusion and other relevant information to the customers of such broker or dealer who are living in the United States or its territories and possessions.
 
 #### (b) Powers
 
@@ -104,7 +104,7 @@ In addition to the powers granted to SIPC elsewhere in this chapter, SIPC shall 
 
 > &emsp;&emsp;as designated by the President at the time they take office. Such designation shall be made in a manner which will assure that no two persons appointed under the authority of the same clause of paragraph (2)(C) shall have terms which expire simultaneously.
 
-&emsp;&emsp;(C) A vacancy in the Board shall be filled in the same manner as the original appointment was made. Any director appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed only for the remainder of such term. A director may serve after the expiration of his term until his successor has taken office.
+&emsp;&emsp;(C) A vacancy in the Board shall be filled in the same manner as the original appointment was made. Any director appointed tofill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed only for the remainder of such term. A director may serve after the expiration of his term until his successor has taken office.
 
 #### (5) Compensation
 
@@ -144,7 +144,7 @@ The Board of Directors shall meet at the call of its Chairman, or as otherwise p
 
 #### (D) Grounds for approval or disapproval
 
-&emsp;&emsp;The Commission shall approve a proposed rule change if it finds that such proposed rule change is in the public interest and is consistent with the purposes of this chapter, and any proposed rule change so approved shall be given force and effect as if promulgated by the Commission. The Commission shall disapprove a proposed rule change if it does not make the finding referred to in the preceding sentence. The Commission shallnot approve any proposed rule change prior to thirty days after the date of publication of notice of the filing thereof, unless the Commission finds good cause for so doing and publishes its reasons for so finding.
+&emsp;&emsp;The Commission shall approve a proposed rule change if it finds that such proposed rule change is in the public interest and is consistent with the purposes of this chapter, and any proposed rule change so approved shall be given force and effect as if promulgated by the Commission. The Commission shall disapprove a proposed rule change if it does not make the finding referred to in the preceding sentence. The Commission shall not approve any proposed rule change prior to thirty days after the date of publication of notice of the filing thereof, unless the Commission finds good cause for so doing and publishes its reasons for so finding.
 
 #### (E) Exception
 

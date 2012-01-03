@@ -26,7 +26,7 @@ As used in this chapter—
 
 (<i>l</i>) The term “mortgage insurance program” includes, in the case of a residential mortgage secured by a manufactured home, any manufactured home lending program under title I of the National Housing Act \[12 U.S.C. 1702 et seq.\].
 
-(Pub. L. 91–351, title III, §302, July 24, 1970, 84 Stat. 451; Pub. L. 95–619, title II, §245, Nov. 9, 1978, 92 Stat. 3233; Pub. L. 95–630, title XVII, §1702, Nov. 10, 1978, 92 Stat. 3718; Pub. L. 96–153, title III, §316(c), Dec. 21, 1979, 93 Stat. 1118; Pub. L. 96–294, title V, §534(a)(2), June 30, 1980, 94Stat. 741; Pub. L. 98–440, title II, §§202, 203(b)(1), 204, Oct. 3, 1984, 98 Stat. 1693–1695; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–550, title XIII, §1382(b), Oct. 28, 1992, 106 Stat. 4002.)
+(Pub. L. 91–351, title III, §302, July 24, 1970, 84 Stat. 451; Pub. L. 95–619, title II, §245, Nov. 9, 1978, 92 Stat. 3233; Pub. L. 95–630, title XVII, §1702, Nov. 10, 1978, 92 Stat. 3718; Pub. L. 96–153, title III, §316(c), Dec. 21, 1979, 93 Stat. 1118; Pub. L. 96–294, title V, §534(a)(2), June 30, 1980, 94 Stat. 741; Pub. L. 98–440, title II, §§202, 203(b)(1), 204, Oct. 3, 1984, 98 Stat. 1693–1695; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–550, title XIII, §1382(b), Oct. 28, 1992, 106 Stat. 4002.)
 
 #### References in Text
 
@@ -36,11 +36,11 @@ The National Energy Conservation Policy Act, referred to in subsec. (h), is Pub.
 
 #### Amendments
 
-1992—Subsec. (h). Pub. L. 102–550 substituted “purchased from any public utility carrying out activities in accordance with the requirements of title II of the National Energy Conservation Policy Act if the residential mortgage to be purchased is a loan or advance of credit the original proceeds of which are applied for in order to finance the purchase and installation of residential energy conservation measures (as defined in section 210(11) of the National Energy Conservation Policy Act) in residential real estate” for “made by a public utility and purchased by the Corporation pursuant to the first sentence of section 1454(a)(1) of this title”.
+<b>1992</b>—Subsec. (h). Pub. L. 102–550 substituted “purchased from any public utility carrying out activities in accordance with the requirements of title II of the National Energy Conservation Policy Act if the residential mortgage to be purchased is a loan or advance of credit the original proceeds of which are applied for in order to finance the purchase and installation of residential energy conservation measures (as defined in section 210(11) of the National Energy Conservation Policy Act) in residential real estate” for “made by a public utility and purchased by the Corporation pursuant to the first sentence of section 1454(a)(1) of this title”.
 
-1986—Subsec. (h). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsec. (h). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-1984—Subsec. (d). Pub. L. 98–440, §202(a), inserted reference to a manufactured home that is personal property under the laws of the State in which the manufactured home is located.
+<b>1984</b>—Subsec. (d). Pub. L. 98–440, §202(a), inserted reference to a manufactured home that is personal property under the laws of the State in which the manufactured home is located.
 
 Subsec. (h). Pub. L. 98–440, §203(b)(1), substituted “status as a lien” for “status as a first lien” and “Such term shall also include other secured loans that are secured by a subordinate lien against a property as to which the Corporation may purchase a residential mortgage as defined under the first sentence of this subsection” for “The maximum principal obligation of loans purchased by virtue of the preceding sentence shall not exceed the dollar limits prescribed by the Federal Home Loan Bank Board with respect to similar types of loans made by Federal savings and loan associations”.
 
@@ -50,11 +50,11 @@ Subsec. (i). Pub. L. 98–440, §204, substituted “any of its agencies or inst
 
 Subsec. (<i>l</i>). Pub. L. 98–440, §202(c), added subsec. (<i>l</i>).
 
-1980—Subsec. (h). Pub. L. 96–294 inserted provision relating to loans or advances of credit made by a public utility and purchased by the Corporation pursuant to section 1454(a)(1) of this title.
+<b>1980</b>—Subsec. (h). Pub. L. 96–294 inserted provision relating to loans or advances of credit made by a public utility and purchased by the Corporation pursuant to section 1454(a)(1) of this title.
 
-1979—Subsec. (h). Pub. L. 96–153 expanded definition of residential mortgage to include a mortgage, lien, or other security interest on the stock or membership certificate issued to a tenant-stockholder or resident-member by a cooperative housing corporation, and on the proprietary lease, occupancy agreement, or right of tenancy in the dwelling unit of the tenant-stockholder or resident-member in such cooperative housing corporation.
+<b>1979</b>—Subsec. (h). Pub. L. 96–153 expanded definition of residential mortgage to include a mortgage, lien, or other security interest on the stock or membership certificate issued to a tenant-stockholder or resident-member by a cooperative housing corporation, and on the proprietary lease, occupancy agreement, or right of tenancy in the dwelling unit of the tenant-stockholder or resident-member in such cooperative housing corporation.
 
-1978—Subsec. (h). Pub. L. 95–630 inserted provisions expanding definition of “residential mortgage” to include a secured loan or advance of credit the proceeds of which are intended to finance the rehabilitation, renovation, modernization, refurbishment, or improvement of properties as to which the Corporation may purchase a “residential mortgage” as defined under first sentence of this subsection, provisions relating to the maximum principal obligation of loans, and provisions defining “secured loan or advance of credit”.
+<b>1978</b>—Subsec. (h). Pub. L. 95–630 inserted provisions expanding definition of “residential mortgage” to include a secured loan or advance of credit the proceeds of which are intended to finance the rehabilitation, renovation, modernization, refurbishment, or improvement of properties as to which the Corporation may purchase a “residential mortgage” as defined under first sentence of this subsection, provisions relating to the maximum principal obligation of loans, and provisions defining “secured loan or advance of credit”.
 
 Pub. L. 95–619 inserted provisions relating to loans or advances of credit insured under title I of the National Housing Act whose original proceeds were applied for to finance energy conserving improvements or solar energy systems and provisions relating to certain loans or advances of credit for such purposes not so insured.
 

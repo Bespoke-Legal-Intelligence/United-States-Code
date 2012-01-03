@@ -2,7 +2,7 @@
 
 #### (a) Submission of plan
 
-Not later than 60 days after November 25, 2002, the President shall transmit to the appropriate congressional committees a reorganization plan regarding the following:
+Not later than 60 days after November 25, 2002, the President shall transmit to the appropriatecongressional committees a reorganization plan regarding the following:
 
 &emsp;(1) The transfer of agencies, personnel, assets, and obligations to the Department pursuant to this chapter.
 
@@ -80,7 +80,7 @@ This plan is subject to modification pursuant to Section 1502(d) of the Act, whi
 
 &emsp;&emsp;• Pursuant to Section 201(g)(1) of the Act \[6 U.S.C. 121(g)(1)\], the Computer Investigations and Operations Section (“CIOS”) of the National Infrastructure Protection Center (“NIPC”) of the Federal Bureau of Investigation (“FBI”) will not transfer to the Department with the rest of NIPC. CIOS is the FBI headquarters entity responsible for managing all FBI computer intrusion field office cases (whether law enforcement or national security related).
 
-&emsp;&emsp;• Pursuant to Sections 421(c) \& (d) of the Act \[6 U.S.C. 231(c), (d)\], the regulatory responsibilities and quarantine activities relating to agricultural import and entry inspection activities of the United States Department of Agriculture (“the USDA”) Animal and Plant Health Inspection Service (“APHIS”) will remain with the USDA, as will the Secretary of Agriculture's authority to issue regulations, policies, and procedures regarding the functions transferred pursuant to Sections 421(a) \& (b) of the Act.
+&emsp;&emsp;• Pursuant to Sections 421(c) \& (d) of the Act \[6 U.S.C. 231(c), (d)\], the regulatory responsibilities and quarantine activities relating to agricultural import and entry inspection activities of the United States Department of Agriculture (“the USDA”) Animal and Plant Health Inspection Service (“APHIS”) will remain with the USDA, as will theSecretary of Agriculture's authority to issue regulations, policies, and procedures regarding the functions transferred pursuant to Sections 421(a) \& (b) of the Act.
 
 &emsp;&emsp;• Pursuant to Subtitle B of Title IV of the Act \[6 U.S.C. 211 et seq.\], the authorities of the Secretary of the Treasury related to Customs revenue functions, as defined in the statute, will not transfer to the Department.
 
@@ -242,7 +242,7 @@ B. <i>Delegation or Assignment Among Officers of Functions Transferred to the De
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Treat information in such databases in a manner that complies with applicable Federal law on privacy.
 
-&emsp;&emsp;&emsp;• Coordinate training and other support to the elements and personnel of the Department, otheragencies of the Federal Government, and State and local governments that provide information to the Department, or are consumers of information provided by the Department, in order to facilitate the identification and sharing of information revealed in their ordinary duties and the optimal utilization of information received from the Department.
+&emsp;&emsp;&emsp;• Coordinate training and other support to the elements and personnel of the Department, other agencies of the Federal Government, and State and local governments that provide information to the Department, or are consumers of information provided by the Department, in order to facilitate the identification and sharing of information revealed in their ordinary duties and the optimal utilization of information received from the Department.
 
 &emsp;&emsp;&emsp;• Coordinate with elements of the intelligence community and with Federal, State, and local law enforcement agencies, and the private sector, as appropriate.
 
@@ -464,7 +464,7 @@ Enclosure.
 
 #### Introduction
 
-This Reorganization Plan Modification is submitted pursuant to the Homeland Security Act (“the Act”) of 2002 \[Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135\]. All elements of the Department of Homeland Security Reorganization Plan of November 25, 2002 (“the Plan”) \[set out above\] remain as submitted except for those modifications addressed herein.
+This Reorganization Plan Modification is submitted pursuant to the Homeland Security Act (“the Act”) of 2002 \[Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135\]. Allelements of the Department of Homeland Security Reorganization Plan of November 25, 2002 (“the Plan”) \[set out above\] remain as submitted except for those modifications addressed herein.
 
 #### Purpose of Modification
 
@@ -544,7 +544,7 @@ The White House, <i>Washington, January 30, 2003.</i>
 
 <i>Dear Mr. Speaker: (Dear Mr. President:)</i> <sup>1</sup>
 
-Pursuant to section 1502 of the Homeland Security Act of 2002 \[6 U.S.C. 542\] (Public Law 107–296) (the “Act”), I submit herewith the enclosed Reorganization Plan Modification for the Department of Homeland Security (DHS), which represents a modification of certain aspects of the DHS Reorganization Plan \[set out above\] I submitted to you on November 25, 2002. The modification involves organizational units within the DHS Border and Transportation Security Directorate. The enclosed Reorganization Plan Modification provides information concerning the elements identified in section 1502(b), and is itself subject to modification pursuant to section 1502(d) of the Act. In accordance with section 1502(a) of the Act, please transmit this Reorganization Plan Modification to the appropriate congressional committees.
+Pursuant to section 1502 of the Homeland Security Act of 2002 \[6 U.S.C. 542\] (Public Law 107–296) (the “Act”), I submit herewith the enclosed Reorganization Plan Modification for the Department of Homeland Security (DHS), which represents a modification of certain aspects of the DHS Reorganization Plan \[set out above\] I submitted to you on November 25, 2002. Themodification involves organizational units within the DHS Border and Transportation Security Directorate. The enclosed Reorganization Plan Modification provides information concerning the elements identified in section 1502(b), and is itself subject to modification pursuant to section 1502(d) of the Act. In accordance with section 1502(a) of the Act, please transmit this Reorganization Plan Modification to the appropriate congressional committees.
 
 > Sincerely,
 

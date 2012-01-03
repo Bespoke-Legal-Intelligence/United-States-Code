@@ -4,7 +4,7 @@
 
 The Counsel shall advise, consult, and cooperate with—
 
-&emsp;(1) the United States Attorney for the District of Columbia with respect to any criminal proceeding for contempt of Congress certified by the President pro tempore of the Senate pursuant to section 194 of this title;
+&emsp;(1) the United States Attorney for the District of Columbia with respect to any criminalproceeding for contempt of Congress certified by the President pro tempore of the Senate pursuant to section 194 of this title;
 
 &emsp;(2) the committee of the Senate with the responsibility to identify any court proceeding or action which is of vital interest to the Senate;
 
@@ -32,7 +32,7 @@ This chapter, referred to in subsecs. (a)(3) and (c), was in the original “thi
 
 #### Amendments
 
-2004—Subsec. (a)(3). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (a)(3). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “of the”.</i>
 

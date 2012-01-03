@@ -1,8 +1,12 @@
 ### §247. Reports to Congress
 
-The Board of Governors of the Federal Reserve System shall annually make a full report of its operations to the Speaker of the House of Representatives, who shall cause the same to be printed for the information of the Congress. The report required under this paragraph shall include the reports required under section 1691f of title 15, section 57a(f)(7) of title 15, section 1613 of title 15, and section 247a of this title.
+The Board of Governors of the Federal Reserve System shall annually make a full report of its operations to the Speaker of the House of Representatives, who shall cause the same to be printed for the information of the Congress. The report required under this paragraph shall include the reports required under section 1691f of title 15, section 57a(f)(7) <sup>1</sup> of title 15, section 1613 of title 15, and section 247a of this title.
 
 (Dec. 23, 1913, ch. 6, §10 (par.), 38 Stat. 261; June 3, 1922, ch. 205, 42 Stat. 621; Aug. 23, 1935, ch. 614, title II, §203(a), 49 Stat. 704; Pub. L. 106–569, title XI, §1103(b), Dec. 27, 2000, 114 Stat. 3030.)
+
+#### References in Text
+
+Section 57a(f)(7) of title 15, referred to in text, was repealed by Pub. L. 111–203, title X, §1092(3), July 21, 2010, 124 Stat. 2095.
 
 #### Codification
 
@@ -10,7 +14,7 @@ Section is comprised of seventh par. of section 10 of act Dec. 23, 1913. For cla
 
 #### Amendments
 
-2000—Pub. L. 106–569 inserted at end “The report required under this paragraph shall include the reports required under section 1691f of title 15, section 57a(f)(7) of title 15, section 1613 of title 15, and section 247a of this title.”
+<b>2000</b>—Pub. L. 106–569 inserted at end “The report required under this paragraph shall include the reports required under section 1691f of title 15, section 57a(f)(7) of title 15, section 1613 of title 15, and section 247a of this title.”
 
 #### Change of Name
 
@@ -23,4 +27,6 @@ Pub. L. 95–369, §3(g), Sept. 17, 1978, 92 Stat. 610, provided that the Board 
 #### Effect of International Banking Act of 1978 on International Banks; Report to Congress
 
 Pub. L. 95–369, §3(h), Sept. 17, 1978, 92 Stat. 610, provided that: “As part of its annual report pursuant to section 10 of the Federal Reserve Act \[this section\], the Board shall include its assessment of the effects of the amendments made by this Act \[see Short Title note set out under section 3101 of this title\] on the capitalization and activities of corporations organized or operating under section 25 or 25(a) of the Federal Reserve Act \[sections 601 to 604 and 611 to 631 of this title\], and on commercial banks and the banking system.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

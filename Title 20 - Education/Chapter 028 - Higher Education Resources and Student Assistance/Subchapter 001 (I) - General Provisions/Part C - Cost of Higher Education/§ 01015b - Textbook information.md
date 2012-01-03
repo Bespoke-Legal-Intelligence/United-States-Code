@@ -74,7 +74,7 @@ In this section:
 
 #### (2) Unbundling of college textbooks from supplemental materials
 
-&emsp;A publisher that sells a college textbook and any supplemental material accompanying such college textbook as a single bundle shall also make available the college textbook and each supplemental material as separate and unbundled items, each separately priced.
+&emsp;A publisher that sells a college textbook and any supplemental material accompanying such college textbook as a single bundle shallalso make available the college textbook and each supplemental material as separate and unbundled items, each separately priced.
 
 #### (3) Custom textbooks
 
@@ -156,7 +156,7 @@ Pub. L. 110–315, title VIII, §803, Aug. 14, 2008, 122 Stat. 3449, provided th
 
 “(a)
 
-Pilot Grant Program.—From the amounts appropriated pursuant to subsection (e), the Secretary of Education (referred to in this section as the ‘Secretary’) shall make grants on a competitive basis to not more than ten institutions of higher education to support pilot programs that expand the services of bookstores to provide the option for students to rent course materials in order to achieve savings for students.
+Pilot Grant Program.—From the amounts appropriated pursuant to subsection (e), the Secretary of Education (referred to in this section as the ‘Secretary’) shall make grants on a competitive basis tonot more than ten institutions of higher education to support pilot programs that expand the services of bookstores to provide the option for students to rent course materials in order to achieve savings for students.
 
 “(b)
 

@@ -8,7 +8,7 @@
 
 #### Amendments
 
-1985—Pub. L. 99–198 amended section generally, substituting provisions relating to issuance of orders for provisions relating to orders of Secretary to producers and slaughterers.
+<b>1985</b>—Pub. L. 99–198 amended section generally, substituting provisions relating to issuance of orders for provisions relating to orders of Secretary to producers and slaughterers.
 
 #### Effective Date of 1985 Amendment
 

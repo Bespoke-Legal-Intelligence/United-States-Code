@@ -2,7 +2,7 @@
 
 (a)
 
-Designation.—(1) The Secretary concerned, or the Secretary of Defense in the case of a Defense Agency, shall designate each depot-level activity of the military departments and the Defense Agencies (other than facilities approved for closure or major realignment under the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note)) as a Center of Industrial and Technical Excellence in the recognized core competencies of the designee.
+Designation.—(1) The Secretary concerned, or the Secretary of Defense in the case of a Defense Agency, shall designate each depot-level activity or military arsenal facility of the military departments and the Defense Agencies (other than facilities approved for closure or major realignment under the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note)) as a Center of Industrial and Technical Excellence in the recognized core competencies of the designee.
 
 (2) The Secretary of Defense shall establish a policy to encourage the Secretary of each military department and the head of each Defense Agency to reengineer industrial processes and adopt best-business practices at their Centers of Industrial and Technical Excellence in connection with their core competency requirements, so as to serve as recognized leaders in their core competencies throughout the Department of Defense and in the national technology and industrial base (as defined in section 2500(1) of this title).
 
@@ -12,7 +12,7 @@ Designation.—(1) The Secretary concerned, or the Secretary of Defense in the c
 
 Public-Private Partnerships.—(1) To achieve one or more objectives set forth in paragraph (2), the Secretary designating a Center of Industrial and Technical Excellence under subsection (a) may authorize and encourage the head of the Center to enter into public-private cooperative arrangements (in this section referred to as a “public-private partnership”) to provide for any of the following:
 
-&emsp;(A) For employees of the Center, private industry, or other entities outside the Department of Defense to perform (under contract, subcontract, or otherwise) work related to the core competencies of the Center, including anydepot-level maintenance and repair work that involves one or more core competencies of the Center.
+&emsp;(A) For employees of the Center, private industry, or other entities outside the Department of Defense to perform (under contract, subcontract, or otherwise) work related to the core competencies of the Center, including any depot-level maintenance and repair work that involves one or more core competencies of the Center.
 
 &emsp;(B) For private industry or other entities outside the Department of Defense to use, for any period of time determined to be consistent with the needs of the Department of Defense, any facilities or equipment of the Center that are not fully utilized for a military department's own production or maintenance requirements.
 
@@ -66,7 +66,7 @@ Exclusion of Certain Expenditures From Percentage Limitation.—Amounts expended
 
 Construction of Provision.—Nothing in this section may be construed to authorize a change, otherwise prohibited by law, from the performance of work at a Center of Industrial and Technical Excellence by Department of Defense personnel to performance by a contractor.
 
-(Added Pub. L. 105–85, div. A, title III, §361(a)(1), Nov. 18, 1997, 111 Stat. 1700; amended Pub. L. 106–398, §1 \[\[div. A\], title III, §341(a)–(e)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–61 to 1654A–63; Pub. L. 107–107, div. A, title III, §§342, 343(b), Dec. 28, 2001, 115 Stat. 1060, 1061; Pub. L. 107–314, div. A, title III, §334, Dec. 2, 2002, 116 Stat. 2514; Pub. L. 108–375, div. A, title III, §323, title X, §1084(d)(20), Oct. 28, 2004, 118 Stat. 1846, 2062; Pub. L. 109–364, div. A, title III, §331(a), Oct. 17, 2006, 120 Stat. 2149.)
+(Added Pub. L. 105–85, div. A, title III, §361(a)(1), Nov. 18, 1997, 111 Stat. 1700; amended Pub. L. 106–398, §1 \[\[div. A\], title III, §341(a)–(e)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–61 to 1654A–63; Pub. L. 107–107, div. A, title III, §§342, 343(b), Dec. 28, 2001, 115 Stat. 1060, 1061; Pub. L. 107–314, div. A, title III, §334, Dec. 2, 2002, 116 Stat. 2514; Pub. L. 108–375, div. A, title III, §323, title X, §1084(d)(20), Oct. 28, 2004, 118 Stat. 1846, 2062; Pub. L. 109–364, div. A, title III, §331(a), Oct. 17, 2006, 120 Stat. 2149; Pub. L. 112–81, div. A, title III, §322, Dec. 31, 2011, 125 Stat. 1362.)
 
 #### References in Text
 
@@ -74,7 +74,9 @@ Subsection (d) of section 2667 of this title, referred to in subsec. (d), was re
 
 #### Amendments
 
-<b>2006</b>—Subsec. (f). Pub. L. 109–364 struck out “(1)” before “Amounts”, “entered into during fiscal years 2003through 2009” before “shall not be counted”, and par. (2) which read as follows: “All funds covered by paragraph (1) shall be included as a separate item in the reports required under paragraphs (1), (2), and (3) of section 2466(d) of this title.”
+<b>2011</b>—Subsec. (a)(1). Pub. L. 112–81 inserted “or military arsenal facility” after “depot-level activity”.
+
+<b>2006</b>—Subsec. (f). Pub. L. 109–364 struck out “(1)” before “Amounts”, “entered into during fiscal years 2003 through 2009” before “shall not be counted”, and par. (2) which read as follows: “All funds covered by paragraph (1) shall be included as a separate item in the reports required under paragraphs (1), (2), and (3) of section 2466(d) of this title.”
 
 <b>2004</b>—Subsec. (f)(1). Pub. L. 108–375, §323, substituted “through 2009” for “through 2006”.
 

@@ -82,7 +82,7 @@ Subject to subsection (c), a disqualification under subsection (a) of this secti
 
 #### (f) Fines for unauthorized acceptance
 
-The Secretary may impose a fine against any person not approved by the Secretary to accept and redeem food coupons who violates any provision of this chapter or a regulation issued under this chapter, including violations concerning the acceptance of food coupons. The amount of any such fine shall be established by the Secretary and may be assessed and collected in accordance with regulations issued under this chapter separately or in combination with any fiscal claim established by the Secretary. The Attorney General of the United States may institute judicial action in any court of competent jurisdiction against the person to collect the fine.
+The Secretary may impose a fine against any person not approved by the Secretary to acceptand redeem food coupons who violates any provision of this chapter or a regulation issued under this chapter, including violations concerning the acceptance of food coupons. The amount of any such fine shall be established by the Secretary and may be assessed and collected in accordance with regulations issued under this chapter separately or in combination with any fiscal claim established by the Secretary. The Attorney General of the United States may institute judicial action in any court of competent jurisdiction against the person to collect the fine.
 
 #### (g) Disqualification of retailers who are disqualified under WIC program
 
@@ -128,7 +128,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Pub. L. 110–246, §4132(1), substituted “Civil penalties” for “Civil money penalties” in section catchline.
+<b>2008</b>—Pub. L. 110–246, §4132(1), substituted “Civil penalties” for “Civil money penalties” in section catchline.
 
 Subsec. (a). Pub. L. 110–246, §4132(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “Any approved retail food store or wholesale food concern may be disqualified for a specified period of time from further participation in the food stamp program, or subjected to a civil money penalty of up to $10,000 for each violation if the Secretary determines that its disqualification would cause hardship to food stamp households, on a finding, made as specified in the regulations, that such store or concern has violated any of the provisions of this chapter or the regulations issued pursuant to this chapter. Regulations issued pursuant to this chapter shall provide criteria for the finding of a violation and the suspension or disqualification of a retail food store or wholesale food concern on the basis of evidence that may include facts established through on-site investigations, inconsistent redemption data, or evidence obtained through a transaction report under an electronic benefit transfer system.”
 
@@ -150,7 +150,7 @@ Subsec. (e). Pub. L. 110–246, §4132(5), substituted “civil penalty” for �
 
 Subsec. (h). Pub. L. 110–246, §4132(6), added subsec. (h).
 
-1996—Subsec. (a). Pub. L. 104–193, §841, inserted at end “Regulations issued pursuant to this chapter shall provide criteria for the finding of a violation and the suspension or disqualification of a retail food store or wholesale food concern on the basis of evidence that may include facts established through on-site investigations, inconsistent redemption data, or evidence obtained through a transaction report under an electronic benefit transfer system.”
+<b>1996</b>—Subsec. (a). Pub. L. 104–193, §841, inserted at end “Regulations issued pursuant to this chapter shall provide criteria for the finding of a violation and the suspension or disqualification of a retail food store or wholesale food concern on the basis of evidence that may include facts established through on-site investigations, inconsistent redemption data, or evidence obtained through a transaction report under an electronic benefit transfer system.”
 
 Subsec. (b)(3)(B). Pub. L. 104–127, §401(a), struck out “(including evidence that neither the ownership nor management of the store or food concern was aware of, approved, benefited from, or was involved in the conduct or approval of the violation)” after “substantial evidence” and substituted “, including evidence that—” and cls. (i) and (ii) for “; or”.
 
@@ -158,21 +158,21 @@ Subsec. (b)(4). Pub. L. 104–193, §842, added par. (4).
 
 Subsec. (g). Pub. L. 104–193, §843, added subsec. (g).
 
-1993—Subsec. (b)(3)(B). Pub. L. 103–66, §13943, substituted “for violations occurring during a single investigation” for “during a 2-year period”.
+<b>1993</b>—Subsec. (b)(3)(B). Pub. L. 103–66, §13943, substituted “for violations occurring during a single investigation” for “during a 2-year period”.
 
-Subsec. (b)(3)(C). Pub. L. 103–66, §13944, substituted “substance (as” for “substances (as the term is” and“for violations occurring during a single investigation” for “during a 2-year period”.
+Subsec. (b)(3)(C). Pub. L. 103–66, §13944, substituted “substance (as” for “substances (as the term is” and “for violations occurring during a single investigation” for “during a 2-year period”.
 
-1990—Subsec. (b)(3). Pub. L. 101–624, §1743, in subpar. (A) struck out “or” after “disqualification;”, in subpar. (B) inserted “for each violation (except that the amount of civil money penalties imposed during a 2-year period may not exceed $40,000)” after “$20,000” and “(including evidence that neither the ownership nor management of the store or food concern was aware of, approved, benefited from, or was involved in the conduct or approval of the violation)” after “evidence”, and substituted “; or” for period at end, and added subpar. (C).
+<b>1990</b>—Subsec. (b)(3). Pub. L. 101–624, §1743, in subpar. (A) struck out “or” after “disqualification;”, in subpar. (B) inserted “for each violation (except that the amount of civil money penalties imposed during a 2-year period may not exceed $40,000)” after “$20,000” and “(including evidence that neither the ownership nor management of the store or food concern was aware of, approved, benefited from, or was involved in the conduct or approval of the violation)” after “evidence”, and substituted “; or” for period at end, and added subpar. (C).
 
 Subsec. (e)(3). Pub. L. 101–624, §1744, added par. (3).
 
 Subsec. (f). Pub. L. 101–624, §1745, added subsec. (f).
 
-1988—Subsec. (b)(3). Pub. L. 100–435 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “permanent upon the third occasion of disqualification or the first occasion of a disqualification based on the purchase of coupons or trafficking in coupons or authorization cards by a retail food store or wholesale food concern.”
+<b>1988</b>—Subsec. (b)(3). Pub. L. 100–435 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “permanent upon the third occasion of disqualification or the first occasion of a disqualification based on the purchase of coupons or trafficking in coupons or authorization cards by a retail food store or wholesale food concern.”
 
-1985—Subsec. (e). Pub. L. 99–198 added subsec. (e).
+<b>1985</b>—Subsec. (e). Pub. L. 99–198 added subsec. (e).
 
-1982—Subsec. (a). Pub. L. 97–253, §175(1)–(3), redesignated first sentence as subsec. (a), substituted “$10,000” for “$5,000”, and struck out second sentence relating to disqualification.
+<b>1982</b>—Subsec. (a). Pub. L. 97–253, §175(1)–(3), redesignated first sentence as subsec. (a), substituted “$10,000” for “$5,000”, and struck out second sentence relating to disqualification.
 
 Subsec. (b). Pub. L. 97–253, §175(3), added subsec. (b) relating to disqualification.
 
@@ -180,7 +180,7 @@ Subsec. (c). Pub. L. 97–253, §175(4), redesignated last sentence as subsec. (
 
 Subsec. (d). Pub. L. 97–253, §176(a), added subsec. (d).
 
-1977—Pub. L. 95–113 substituted revised provisions covering civil money penalties and disqualification of retail food stores and wholesale food concerns for provisions relating to the determination and disposition of claims which are now covered by section 2022 of this title.
+<b>1977</b>—Pub. L. 95–113 substituted revised provisions covering civil money penalties and disqualification of retail food stores and wholesale food concerns for provisions relating to the determination and disposition of claims which are now covered by section 2022 of this title.
 
 #### Change of Name
 

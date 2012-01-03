@@ -20,17 +20,17 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### Amendments
 
-1982—Pub. L. 97–322 authorized the Coast Guard to contractually establish, maintain, and operate aids to maritime navigation.
+<b>1982</b>—Pub. L. 97–322 authorized the Coast Guard to contractually establish, maintain, and operate aids to maritime navigation.
 
-1976—Pub. L. 94–546 substituted “Federal Aviation Administration” for “Federal Aviation Agency” in cl. (3)(c).
+<b>1976</b>—Pub. L. 94–546 substituted “Federal Aviation Administration” for “Federal Aviation Agency” in cl. (3)(c).
 
-1966—Pub. L. 89–662 expanded authorization for establishment, maintenance, and operation of aids to air navigation and electronic aids to navigation systems required to serve the needs of the armed forces to include needs peculiar to warfare and primarily of military concern as determined by the Secretary of Defense or the Secretary of any department within the Department of Defense, substituted “electronic aids to navigation systems” for “Loran stations”, and altered the list of locations where aids to navigation other than electronic aids to navigation could be located by adding the waters above the Continental Shelf and by striking out places where such aids to navigation had been established prior to June 26, 1948.
+<b>1966</b>—Pub. L. 89–662 expanded authorization for establishment, maintenance, and operation of aids to air navigation and electronic aids to navigation systems required to serve the needs of the armed forces to include needs peculiar to warfare and primarily of military concern as determined by the Secretary of Defense or the Secretary of any department within the Department of Defense, substituted “electronic aids to navigation systems” for “Loran stations”, and altered the list of locations where aids to navigation other than electronic aids to navigation could be located by adding the waters above the Continental Shelf and by striking out places where such aids to navigation had been established prior to June 26, 1948.
 
-1958—Pub. L. 85–726 substituted “Administrator of the Federal Aviation Agency” for “Administrator of Civil Aeronautics”.
+<b>1958</b>—Pub. L. 85–726 substituted “Administrator of the Federal Aviation Agency” for “Administrator of Civil Aeronautics”.
 
-1954—Act Sept. 3, 1954, substituted “Department of Defense” for “National Military Establishment”.
+<b>1954</b>—Act Sept. 3, 1954, substituted “Department of Defense” for “National Military Establishment”.
 
-1951—Act June 22, 1951, extended Coast Guard's authority to include the Trust Territory of the Pacific Islands.
+<b>1951</b>—Act June 22, 1951, extended Coast Guard's authority to include the Trust Territory of the Pacific Islands.
 
 #### Effective Date of 1958 Amendment
 
@@ -46,7 +46,7 @@ Pub. L. 105–383, title II, §208, Nov. 13, 1998, 112 Stat. 3416, provided that
 
 #### Report to Congress; Contractual Authority; Increase in Ratio of Civilian to Military Employees
 
-Section 105(b) of Pub. L. 97–322 provided that: “Not later than one year after the date of enactment of this title \[Oct. 15, 1982\], the Secretary of the department in which the Coast Guard is operating shall submit a report to the Congress evaluating—
+Pub. L. 97–322, title I, §105(b), Oct. 15, 1982, 96 Stat. 1582, provided that: “Not later than one year after the date of enactment of this title \[Oct. 15, 1982\], the Secretary of the department in which the Coast Guard is operating shall submit a report to the Congress evaluating—
 
 &emsp;“(1) the exercise by contract of the authority of the Coast Guard under section 81 of title 14, United States Code, to establish, maintain, and operate aids to navigation, including a discussion of any problems involved in exercising such authority by contract, the reasons for exercising or failing to exercise such authority by contract in particular areas, and the feasibility of expanding the exercise of such authority by contract; and
 
@@ -54,7 +54,7 @@ Section 105(b) of Pub. L. 97–322 provided that: “Not later than one year aft
 
 #### Contractual Authority Dependent Upon Availability of Appropriated Funds
 
-Section 105(c) of Pub. L. 97–322 provided that: “Any authority to enter into contracts provided in this section \[amending this section and enacting provision set out as Report to Congress note under this section\] shall be available only to the extent that appropriated funds are available for that purpose.”
+Pub. L. 97–322, title I, §105(c), Oct. 15, 1982, 96 Stat. 1582, provided that: “Any authority to enter into contracts provided in this section \[amending this section and enacting provision set out as Report to Congress note under this section\] shall be available only to the extent that appropriated funds are available for that purpose.”
 
 #### Ex. Ord. No. 7521. Use of Vessels for Ice-Breaking Operations in Channels and Harbors
 

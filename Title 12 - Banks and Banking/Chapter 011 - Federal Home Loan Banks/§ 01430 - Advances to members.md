@@ -42,7 +42,7 @@
 
 #### (b) Appraisals and other investigations; acceptance of home mortgages as collateral security only by approval of Director
 
-For the purposes of this section, each Home Loan Bank shall have power to make, or to cause or require to be made, such appraisals and other investigations as it may deem necessary. No home mortgage otherwise eligible to be accepted as collateral security for an advance by a Home Loan Bank shall be accepted if any director, officer, employee, attorney or agent of the Home Loan Bank or of the borrowing institution is personally liable thereon, unless the Director has specifically approved such acceptance.
+For the purposes of this section, each Home Loan Bank shall have power to make, or tocause or require to be made, such appraisals and other investigations as it may deem necessary. No home mortgage otherwise eligible to be accepted as collateral security for an advance by a Home Loan Bank shall be accepted if any director, officer, employee, attorney or agent of the Home Loan Bank or of the borrowing institution is personally liable thereon, unless the Director has specifically approved such acceptance.
 
 #### (c) Notes of borrowing members; interest rate; lien on stock
 
@@ -170,7 +170,7 @@ Notwithstanding any other provision of law, any security interest granted to a F
 
 #### (7) Failure to use amounts for affordable housing
 
-&emsp;If any Bank fails to utilize or commit the full amount provided in this subsection in any year, 90 percent of the amount that has not been utilized or committed in that year shall be deposited by the Bank in an Affordable Housing Reserve Fund administered by the Director. The 10 percent of the unutilized and uncommitted amount retained by a Bank should be fully utilized or committed by that Bank during the following year and any remaining portion must be deposited in the Affordable Housing Reserve Fund. Under regulations established by the Director, funds from the Affordable Housing Reserve Fund may be made available to any Bank to meet additional affordable housing needs in such Bank's district pursuant to this section.
+&emsp;If any Bank fails to utilize or commit the full amount provided in this subsection in any year, 90 percent of the amount that has not been utilized or committed in that year shall be deposited by the Bank in an Affordable Housing Reserve Fund administered by the Director. The 10 percent of the unutilized and uncommitted amount retained by a Bankshould be fully utilized or committed by that Bank during the following year and any remaining portion must be deposited in the Affordable Housing Reserve Fund. Under regulations established by the Director, funds from the Affordable Housing Reserve Fund may be made available to any Bank to meet additional affordable housing needs in such Bank's district pursuant to this section.
 
 #### (8) Net earnings
 
@@ -256,7 +256,7 @@ Submission to congress.—The Director shall submit the reports under subparagra
 
 #### (A) In general
 
-&emsp;&emsp;The Director shall make available to the public, in a form that is useful to the public\(including forms accessible electronically), and to the extent practicable, the data provided to the Director under paragraph (1).
+&emsp;&emsp;The Director shall make available to the public, in a form that is useful to the public (including forms accessible electronically), and to the extent practicable, the data provided to the Director under paragraph (1).
 
 #### (B) Proprietary information
 
@@ -272,7 +272,7 @@ The Home Mortgage Disclosure Act of 1975, referred to in subsec. (k)(1)(B), is t
 
 #### Amendments
 
-2008—Subsec. (a)(2)(B). Pub. L. 110–289, §1211(b)(1), struck out “and” before “small agri-businesses” and inserted “, and community development activities” before period at end.
+<b>2008</b>—Subsec. (a)(2)(B). Pub. L. 110–289, §1211(b)(1), struck out “and” before “small agri-businesses” and inserted “, and community development activities” before period at end.
 
 Subsec. (a)(3)(E). Pub. L. 110–289, §1211(b)(2), inserted “or community development activities” after “agriculture,”.
 
@@ -308,7 +308,7 @@ Subsec. (j)(12)(C), (D). Pub. L. 110–289, §1212(1), added subpars. (C) and (D
 
 Subsec. (k). Pub. L. 110–289, §1212(2), added subsec. (k).
 
-1999—Pub. L. 106–102, §604(b), amended section catchline generally.
+<b>1999</b>—Pub. L. 106–102, §604(b), amended section catchline generally.
 
 Subsec. (a). Pub. L. 106–102, §604(a), inserted heading, designated first sentence of introductory provisions as par. (1) and inserted heading, substituted par. (2) for former second sentence of introductory provisions which read as follows: “All long-term advances shall only be made for the purpose of providing funds for residential housing finance.”, designated third sentence of introductory provisions as par. (3), inserted heading, redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (3) and realigned margins, in subpar. (C), substituted “Cash or deposits” for “Deposits”, in subpar. (D), struck out at end “The aggregate amount of outstanding advances secured by such other real estate related collateral shall not exceed 30 percent of such member's capital.”, and added subpar. (E), redesignated former par. (5) as (4), inserted heading, substituted “Subparagraphs (A) through (E) of paragraph (3)” for “Paragraphs (1) through (4)”, struck out “and the Board” after “such collateral as the Bank” and substituted “determined by the Federal home loan bank” for “determined by the Board”, and added pars. (5) and (6).
 
@@ -318,9 +318,9 @@ Subsec. (d). Pub. L. 106–102, §606(f)(2)(B), struck out “and the approval o
 
 Subsec. (e). Pub. L. 106–102, §604(c), struck out subsec. (e) relating to qualified thrift lender status.
 
-1992—Subsec. (e)(2). Pub. L. 102–550 added sentence at end and struck out former second sentence which read as follows: “The aggregate amount of any Bank's advances to members that are not qualified thrift lenders shall not exceed 30 percent of a Bank's total advances.”
+<b>1992</b>—Subsec. (e)(2). Pub. L. 102–550 added sentence at end and struck out former second sentence which read as follows: “The aggregate amount of any Bank's advances to members that are not qualified thrift lenders shall not exceed 30 percent of a Bank's total advances.”
 
-1989—Subsec. (a). Pub. L. 101–73, §714(a), substituted “upon collateral sufficient, in the judgment of the Bank, to fully secure advances obtained from the Bank under this section or section 1431(g) of this title. All long-term advances shall only be made for the purpose of providing funds for residential housing finance. A Bank, at the time of origination or renewal of a loan or advance, shall obtain and maintain a security interest in collateral eligible pursuant to one or more of the following categories:” and pars. (1) to (5) for “upon such security as the Board may prescribe.”
+<b>1989</b>—Subsec. (a). Pub. L. 101–73, §714(a), substituted “upon collateral sufficient, in the judgment of the Bank, to fully secure advances obtained from the Bank under this section or section 1431(g) of this title. All long-term advances shall only be made for the purpose of providing funds for residential housing finance. A Bank, at the time of origination or renewal of a loan or advance, shall obtain and maintain a security interest in collateral eligible pursuant to one or more of the following categories:” and pars. (1) to (5) for “upon such security as the Board may prescribe.”
 
 Subsec. (b). Pub. L. 101–73, §701(b)(1), (3)(A), substituted “Board” for “board”.
 
@@ -338,11 +338,11 @@ Subsec. (h). Pub. L. 101–73, §714(c), added subsec. (h).
 
 Subsecs. (i), (j). Pub. L. 101–73, §721, added subsecs. (i) and (j).
 
-1987—Subsec. (e). Pub. L. 100–86, §306(d), added subsec. (e) relating to priority of certain secured interests.
+<b>1987</b>—Subsec. (e). Pub. L. 100–86, §306(d), added subsec. (e) relating to priority of certain secured interests.
 
 Pub. L. 100–86, §105, added subsec. (e) relating to reduced eligibility for advances for certain members which are not qualified thrift lenders.
 
-1982—Subsec. (a). Pub. L. 97–320, §352(1), as amended by Pub. L. 97–457, amended subsec. (a) generally. Prior to amendment subsec. (a) read as follows: “Each Federal Home Loan Bank is authorized to make advances to its members upon the security of home mortgages, or obligations of the United States, or obligations fully guaranteed by the United States, subject to such regulations, restrictions, and limitations as the Board may prescribe. Any such advance shall be subject to the following limitations as to amount:
+<b>1982</b>—Subsec. (a). Pub. L. 97–320, §352(1), as amended by Pub. L. 97–457, amended subsec. (a) generally. Prior to amendment subsec. (a) read as follows: “Each Federal Home Loan Bank is authorized to make advances to its members upon the security of home mortgages, or obligations of the United States, or obligations fully guaranteed by the United States, subject to such regulations, restrictions, and limitations as the Board may prescribe. Any such advance shall be subject to the following limitations as to amount:
 
 &emsp;“(1) If secured by a mortgage insured under the provisions of title I, title II, title VI, title VIII, or title IX of the National Housing Act \[12 U.S.C. 1702 et seq., 1707 et seq., 1736 et seq., 1748 et seq., and 1750 et seq., respectively\], the advance may be for an amount not in excess of 90 per centum of the unpaid principal of the mortgage loan.
 
@@ -356,33 +356,33 @@ Subsec. (b). Pub. L. 97–320, §352(2), struck out provisions relating to accep
 
 Subsec. (c). Pub. L. 97–320, §352(3), substituted “twenty” for “twelve” wherever appearing.
 
-1977—Subsec. (b). Pub. L. 95–128 substituted prohibition against acceptance of a home mortgage as collateral security for an advance by a Federal Home Loan Bank if, at the time the advance is made, the home mortgage exceeds a sum equal to the dollar limitation under the first proviso of the first sentence of section 1464(c) of this title for each home or other dwelling unit covered by such mortgage for prior prohibition where the home mortgage exceeded a sum equal to $55,000 (except that with respect to dwellings in Alaska, Guam, and Hawaii the foregoing limitation, might, by regulation of the Board, be increased by not to exceed 50 per centum) for each home or other dwelling unit covered by the mortgage.
+<b>1977</b>—Subsec. (b). Pub. L. 95–128 substituted prohibition against acceptance of a home mortgage as collateral security for an advance by a Federal Home Loan Bank if, at the time the advance is made, the home mortgage exceeds a sum equal to the dollar limitation under the first proviso of the first sentence of section 1464(c) of this title for each home or other dwelling unit covered by such mortgage for prior prohibition where the home mortgage exceeded a sum equal to $55,000 (except that with respect to dwellings in Alaska, Guam, and Hawaii the foregoing limitation, might, by regulation of the Board, be increased by not to exceed 50 per centum) for each home or other dwelling unit covered by the mortgage.
 
-1974—Subsec. (b). Pub. L. 93–449 substituted provisions limiting the home mortgage to a sum not to exceed $55,000, except with respect to dwellings in Alaska, Guam, etc., for provisions limiting the home mortgage to a sum not to exceed $40,000.
+<b>1974</b>—Subsec. (b). Pub. L. 93–449 substituted provisions limiting the home mortgage to a sum not to exceed $55,000, except with respect to dwellings in Alaska, Guam, etc., for provisions limiting the home mortgage to a sum not to exceed $40,000.
 
-1964—Subsec. (b). Pub. L. 88–560 substituted “thirty” for “twenty-five” in cl. (1) and “$40,000” for “$35,000” in cl. (2).
+<b>1964</b>—Subsec. (b). Pub. L. 88–560 substituted “thirty” for “twenty-five” in cl. (1) and “$40,000” for “$35,000” in cl. (2).
 
-1962—Subsec. (b). Pub. L. 87–779 substituted “exceeds a sum equal to $35,000 for each home or other dwelling unit covered by such mortgage” for “exceeds $35,000”.
+<b>1962</b>—Subsec. (b). Pub. L. 87–779 substituted “exceeds a sum equal to $35,000 for each home or other dwelling unit covered by such mortgage” for “exceeds $35,000”.
 
-1958—Subsec. (b). Pub. L. 85–857 inserted “chapter 37 of title 38,” after “Servicemen's Readjustment Act of 1944, as amended,”.
+<b>1958</b>—Subsec. (b). Pub. L. 85–857 inserted “chapter 37 of title 38,” after “Servicemen's Readjustment Act of 1944, as amended,”.
 
-1954—Subsec. (b)(2). Act Aug. 2, 1954, substituted “$35,000” for “$20,000”.
+<b>1954</b>—Subsec. (b)(2). Act Aug. 2, 1954, substituted “$35,000” for “$20,000”.
 
-1951—Subsec. (a)(1). Act Sept. 1, 1951, inserted a reference to subchapter X of chapter 13 of this title.
+<b>1951</b>—Subsec. (a)(1). Act Sept. 1, 1951, inserted a reference to subchapter X of chapter 13 of this title.
 
-1950—Subsec. (a) (1). Act Apr. 20, 1950, §501(1), substituted “subchapters I, II, VI, and VIII of chapter 13 of this title” for “sections 1707–1715b and 1736–1742 of this title”.
+<b>1950</b>—Subsec. (a) (1). Act Apr. 20, 1950, §501(1), substituted “subchapters I, II, VI, and VIII of chapter 13 of this title” for “sections 1707–1715b and 1736–1742 of this title”.
 
 Subsec. (b). Act Apr. 20, 1950, §501(2), inserted “unless such home mortgage is insured under the National Housing Act, as amended, or insured or guaranteed under the Servicemen's Readjustment Act of 1944, as amended” after “Maturity” in first sentence.
 
-1947—Subsec. (b). Act Aug. 1, 1947, increased period collateral security can run from twenty years to twenty-five years.
+<b>1947</b>—Subsec. (b). Act Aug. 1, 1947, increased period collateral security can run from twenty years to twenty-five years.
 
-1941—Subsec. (a)(1). Act Mar. 28, 1941, inserted reference to sections 1736–1742 of this title.
+<b>1941</b>—Subsec. (a)(1). Act Mar. 28, 1941, inserted reference to sections 1736–1742 of this title.
 
-1935—Subsec. (a). Act May 28, 1935, §5, added cl. (4).
+<b>1935</b>—Subsec. (a). Act May 28, 1935, §5, added cl. (4).
 
 Subsec. (b)(1). Act May 28, 1935, §6, substituted “twenty” for “fifteen” and omitted reference to value of real estate in cl. 2.
 
-1934—Subsec. (a). Act June 27, 1934, amended subsec. (a) generally.
+<b>1934</b>—Subsec. (a). Act June 27, 1934, amended subsec. (a) generally.
 
 Subsec. (b). Act Apr. 27, 1934, inserted “unless the amount,” etc. to end of first sentence.
 

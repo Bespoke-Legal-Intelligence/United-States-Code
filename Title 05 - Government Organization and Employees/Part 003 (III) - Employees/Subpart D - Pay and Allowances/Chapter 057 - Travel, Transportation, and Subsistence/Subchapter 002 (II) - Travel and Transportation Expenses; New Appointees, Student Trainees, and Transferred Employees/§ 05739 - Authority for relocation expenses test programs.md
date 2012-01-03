@@ -24,7 +24,7 @@
 
 #### Amendments
 
-2009—Subsec. (a)(3). Pub. L. 111–112, §1(a)(1), struck out par. (3) which read as follows: “Nothing in this section is intended to limit the authority of any agency to conduct test programs.”
+<b>2009</b>—Subsec. (a)(3). Pub. L. 111–112, §1(a)(1), struck out par. (3) which read as follows: “Nothing in this section is intended to limit the authority of any agency to conduct test programs.”
 
 Subsec. (b). Pub. L. 111–112, §1(a)(2), inserted “or extended” after “approved” and “or extension” after “of the program”.
 
@@ -34,7 +34,7 @@ Subsec. (d). Pub. L. 111–112, §1(a)(4), substituted “12” for “10”.
 
 Subsec. (e). Pub. L. 111–112, §1(a)(5), added subsec. (e) and struck out former subsec. (e) which read as follows: “The authority to conduct test programs under this section shall expire 11 years after the date of the enactment of the Travel and Transportation Reform Act of 1998.”
 
-2006—Subsec. (a)(1). Pub. L. 109–325, §1(a)(1), struck out “for a period not to exceed 24 months” after “disbursing official”.
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–325, §1(a)(1), struck out “for a period not to exceed 24 months” after “disbursing official”.
 
 Subsec. (e). Pub. L. 109–325, §1(a)(2), substituted “11 years” for “7 years”.
 

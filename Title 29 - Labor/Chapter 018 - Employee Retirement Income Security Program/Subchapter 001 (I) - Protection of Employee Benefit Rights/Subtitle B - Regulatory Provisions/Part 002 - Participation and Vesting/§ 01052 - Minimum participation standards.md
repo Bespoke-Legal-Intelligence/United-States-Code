@@ -34,7 +34,7 @@
 
 (3) In computing an employee's period of service for purposes of subsection (a)(1) of this section in the case of any participant who has any 1-year break in service (as defined in section 1053(b)(3)(A) of this title), service before such break shall not be required to be taken into account under the plan until he has completed a year of service (as defined in subsection (a)(3) of this section) after his return.
 
-(4)(A) For purposes of paragraph (1), in the case of a nonvested participant, years of service with the employer or employers maintaining the plan before any period of consecutive 1-yearbreaks in service shall not be required to be taken into account in computing the period of service if the number of consecutive 1-year breaks in service within such period equals or exceeds the greater of—
+(4)(A) For purposes of paragraph (1), in the case of a nonvested participant, years of service with the employer or employers maintaining the plan before any period of consecutive 1-year breaks in service shall not be required to be taken into account in computing the period of service if the number of consecutive 1-year breaks in service within such period equals or exceeds the greater of—
 
 &emsp;(i) 5, or
 

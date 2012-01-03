@@ -10,11 +10,11 @@ R.S. §5192 derived from act June 3, 1864, ch. 106, §31, 13 Stat. 108, which wa
 
 #### Amendments
 
-1959—Pub. L. 86–114 struck out “central reserve or” before “reserve cities”.
+<b>1959</b>—Pub. L. 86–114 struck out “central reserve or” before “reserve cities”.
 
 Pub. L. 86–70 struck out “in Alaska or” before “in a dependency”.
 
-1952—Act July 1, 1952, reduced the required amount of cash on hand from two-fifths to one-fifth of the required reserve of 15 per centum.
+<b>1952</b>—Act July 1, 1952, reduced the required amount of cash on hand from two-fifths to one-fifth of the required reserve of 15 per centum.
 
 #### Effective Date of 1959 Amendment
 

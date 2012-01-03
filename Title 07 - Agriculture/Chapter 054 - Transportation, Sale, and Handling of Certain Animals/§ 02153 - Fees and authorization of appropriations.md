@@ -6,5 +6,5 @@ The Secretary shall charge, assess, and cause to be collected reasonable fees fo
 
 #### Amendments
 
-1976—Pub. L. 94–279 authorized appropriations for the enforcement of section 2156 of this title.
+<b>1976</b>—Pub. L. 94–279 authorized appropriations for the enforcement of section 2156 of this title.
 

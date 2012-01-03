@@ -1,6 +1,8 @@
 ### §2397. Omitted
 
-Section, Pub. L. 93–618, title II, §287, as added Pub. L. 100–418, title I, §1428(b), Aug. 23, 1988, 102 Stat. 1255,which imposed an additional fee, did not become effective pursuant to section 1430(b) of Pub. L. 100–418, as amended, set out below.
+#### Codification
+
+Section, Pub. L. 93–618, title II, §287, as added Pub. L. 100–418, title I, §1428(b), Aug. 23, 1988, 102 Stat. 1255, which imposed an additional fee, did not become effective pursuant to section 1430(b) of Pub. L. 100–418, set out below.
 
 #### Effective Date
 
@@ -82,7 +84,7 @@ Section 1428(a) of Pub. L. 100–418 provided that:
 
 Determination of President of the United States, No. 90–34, Aug. 23, 1990, 55 F.R. 34889, provided:
 
-Pursuant to section 1428(a)(4)(B) of the Omnibus Trade and Competitiveness Act of 1988 \[Pub. L. 100–418,set out above\], I determine that it is not in the national economic interest to impose the fee described under subsection (b) of that section \[enacting this section\].
+Pursuant to section 1428(a)(4)(B) of the Omnibus Trade and Competitiveness Act of 1988 \[Pub. L. 100–418, set out above\], I determine that it is not in the national economic interest to impose the fee described under subsection (b) of that section \[enacting this section\].
 
 I hereby authorize and direct the United States Trade Representative to submit to the Congress and publish in the Federal Register written notice of this determination.
 

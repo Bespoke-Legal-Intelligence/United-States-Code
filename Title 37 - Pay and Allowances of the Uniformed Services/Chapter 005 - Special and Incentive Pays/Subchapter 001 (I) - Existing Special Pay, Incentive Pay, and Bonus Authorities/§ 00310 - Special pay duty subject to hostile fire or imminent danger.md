@@ -2,7 +2,7 @@
 
 (a)
 
-Eligibility.—Under regulations prescribed by the Secretary of Defense, a member of a uniformed service may be paid special pay under subsection (b) for any month or portion of a month in which—
+Eligibility.—Under regulations prescribed by the Secretary of Defense, a member of a uniformed service may be paid special pay under subsection (b) for any day or portion of a day in which—
 
 &emsp;(1) the member was entitled to basic pay or compensation under section 204 or 206 of this title; and
 
@@ -18,13 +18,15 @@ Eligibility.—Under regulations prescribed by the Secretary of Defense, a membe
 
 (b)
 
-Special Pay Amount; Proration.—(1) The special pay authorized by subsection (a) may not exceed $225 a month.
+Special Pay Amount.—(1) Except as provided in paragraph (2), the amount of special pay authorized by subsection (a) for qualifying service during a day or portion of a day shall be the amount equal to 1/30th of the maximum monthly amount of special pay payable to a member as specified in paragraph (3).
 
-(2) Except as provided in subsection (c), if a member does not satisfy the eligibility requirements specified in paragraphs (1) and (2) of subsection (a) for an entire month for receipt of special pay under subsection (a), the Secretary concerned may prorate the payment amount to reflect the duration of the member's actual qualifying service during the month.
+(2) In the case of a member who is exposed to hostile fire or a hostile mine explosion event in or for a day or portion of a day, the Secretary concerned may, at the election of the Secretary, pay the member special pay under subsection (a) for such service in an amount not to exceed the maximum monthly amount of special pay payable to a member as specified in paragraph (3).
+
+(3) The maximum monthly amount of special pay payable to a member under this subsection for any month is $225.
 
 (c)
 
-Continuation During Hospitalization.—(1) A member described in paragraph (2) may be paid special pay under this section for not more than three additional months during which the member is hospitalized as described in such paragraph.
+Continuation During Hospitalization.—(1) A member described in paragraph (2) may be paid special pay under this section for for <sup>1</sup> any day (or portion of a day) of not more than three additional months during which the member is hospitalized as described in such paragraph.
 
 (2) Paragraph (1) applies with respect to a member who—
 
@@ -36,15 +38,27 @@ Continuation During Hospitalization.—(1) A member described in paragraph (2) m
 
 Limitations and Administration.—(1) In the case of an area described in subparagraph (B) or (D) of subsection (a)(2), the Secretary of Defense shall be responsible for designating the period during which duty in the area will qualify members for special pay under this section. The effective date designated for the commencement of such a period may be a date occurring before, on, or after the actual date on which the Secretary makes the designation. If the commencement date for such a period is a date occurring before the date on which the Secretary makes the designation, the payment of special pay under this section for the period between the commencement date and the date on which the Secretary makes the designation shall be subject to the availability of appropriated funds for that purpose.
 
-(2) A member may not be paid more than one special pay under this section for any month. A member may be paid special pay under this section in addition to any other pay and allowances to which he may be entitled.
+(2) A member may not be paid more than one special pay under this section for any day. A member may be paid special pay under this section in addition to any other pay and allowances to which he may be entitled.
 
 (e)
 
 Determinations of Fact.—Any determination of fact that is made in administering this section is conclusive. Such a determination may not be reviewed by any other officer or agency of the United States unless there has been fraud or gross negligence. However, the determination may be changed on the basis of new evidence or for other good cause.
 
-(Added Pub. L. 88–132, §9(a)(1), Oct. 2, 1963, 77 Stat. 216; amended Pub. L. 89–132, §4, Aug. 21, 1965, 79 Stat. 547; Pub. L. 98–94, title IX, §905(a), (b)(1), Sept. 24, 1983, 97 Stat. 636, 637; Pub. L. 99–145, title VI, §638(a), Nov. 8, 1985, 99 Stat. 649; Pub. L. 101–510, div. A, title XIII, §1322(c)(6), Nov. 5, 1990, 104 Stat. 1672; Pub. L. 102–190, div. A, title VI, §§611(a), 613, Dec. 5, 1991, 105 Stat. 1376, 1377; Pub. L. 105–261, div. A, title VI, §621, Oct. 17, 1998, 112 Stat. 2042; Pub. L. 108–11, title I, §1316(a), (c)(2), Apr. 16, 2003, 117 Stat. 570; Pub. L. 108–136, div. A, title VI, §§618(a), (b), (d)(2), 619, Nov. 24, 2003, 117 Stat. 1503, 1504; Pub. L. 108–375, div. A, title VI, §623(a), Oct. 28, 2004, 118 Stat. 1955; Pub. L. 109–163, div. A, title VI, §§636, 642(b), Jan. 6, 2006, 119 Stat. 3300, 3306; Pub. L. 111–84, div. A, title VI, §618(a), Oct. 28, 2009, 123 Stat. 2355.)
+(Added Pub. L. 88–132, §9(a)(1), Oct. 2, 1963, 77 Stat. 216; amended Pub. L. 89–132, §4, Aug. 21, 1965, 79 Stat. 547; Pub. L. 98–94, title IX, §905(a), (b)(1), Sept. 24, 1983, 97 Stat. 636, 637; Pub. L. 99–145, title VI, §638(a), Nov. 8, 1985, 99 Stat. 649; Pub. L. 101–510, div. A, title XIII, §1322(c)(6), Nov. 5, 1990, 104 Stat. 1672; Pub. L. 102–190, div. A, title VI, §§611(a), 613, Dec. 5, 1991, 105 Stat. 1376, 1377; Pub. L. 105–261, div. A, title VI, §621, Oct. 17, 1998, 112 Stat. 2042; Pub. L. 108–11, title I, §1316(a), (c)(2), Apr. 16, 2003, 117 Stat. 570; Pub. L. 108–136, div. A, title VI, §§618(a), (b), (d)(2), 619, Nov. 24, 2003, 117 Stat. 1503, 1504; Pub. L. 108–375, div. A, title VI, §623(a), Oct. 28, 2004, 118 Stat. 1955; Pub. L. 109–163, div. A, title VI, §§636, 642(b), Jan. 6, 2006, 119 Stat. 3300, 3306; Pub. L. 111–84, div. A, title VI, §618(a), Oct. 28, 2009, 123 Stat. 2355; Pub. L. 112–81, div. A, title VI, §616(a), Dec. 31, 2011, 125 Stat. 1451.)
 
 #### Amendments
+
+<b>2011</b>—Subsec. (a). Pub. L. 112–81, §616(a)(1), substituted “for any day or portion of a day” for “for any month or portion of a month” in introductory provisions.
+
+Subsec. (b). Pub. L. 112–81, §616(a)(2), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows:
+
+“(1) The special pay authorized by subsection (a) may not exceed $225 a month.
+
+“(2) Except as provided in subsection (c), if a member does not satisfy the eligibility requirements specified in paragraphs (1) and (2) of subsection (a) for an entire month for receipt of special pay under subsection (a), the Secretary concerned may prorate the payment amount to reflect the duration of the member's actual qualifying service during the month.”
+
+Subsec. (c)(1). Pub. L. 112–81, §616(a)(3), inserted “for any day (or portion of a day) of” before “not more than three additional months”.
+
+Subsec. (d)(2). Pub. L. 112–81, §616(a)(4), substituted “any day” for “any month”.
 
 <b>2009</b>—Subsec. (a). Pub. L. 111–84, §618(a)(1), struck out “and Special Pay Amount” after “Eligibility” in heading and substituted “under subsection (b) for any month or portion of a month” for “at the rate of $225 for any month” in introductory provisions.
 
@@ -76,7 +90,7 @@ Pub. L. 108–375, §623(a)(1), substituted “December 31, 2005” for “Decem
 
 > A member covered by clause (3) who is hospitalized for the treatment of his injury or wound may be paid special pay under this section for not more than three additional months during which he is so hospitalized.”
 
-Pub. L. 108–11, §1316(a), (c), as amended by Pub. L. 108–136, §618(d)(2), temporarily substituted “$225” for “$150” in introductory provisions. See Effective and Termination Dates of 2003 Amendments note below.
+Pub. L. 108–11, §1316(a), (c), as amended by Pub. L. 108–136, §618(d)(2), temporarily substituted “$225” for“$150” in introductory provisions. See Effective and Termination Dates of 2003 Amendments note below.
 
 Subsec. (b). Pub. L. 108–136, §618(a)(2), added subsec. (b). Former subsec. (b) redesignated (c).
 
@@ -193,4 +207,6 @@ Period of Applicability.—Subsection (a) shall apply during the period beginnin
 #### Imminent Danger Pay in Connection With Operation Desert Shield
 
 Section 1111(a) of Pub. L. 101–510 provided that: “The Secretary of Defense may provide for the payment of imminent danger pay under section 310 of title 37, United States Code, to members of the Armed Forces assigned to duty in the Persian Gulf area in connection with Operation Desert Shield with respect to periods of duty served after August 1, 1990, and before the date of the enactment of this Act \[Nov. 5, 1990\].”
+
+<i><sup>1</sup></i><i> So in original.</i>
 

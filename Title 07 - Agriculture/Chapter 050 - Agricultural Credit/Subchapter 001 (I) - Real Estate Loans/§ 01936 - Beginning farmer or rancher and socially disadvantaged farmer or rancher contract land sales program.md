@@ -46,7 +46,7 @@ The period during which a loan guarantee under this section is in effect shall b
 
 &emsp;&emsp;&emsp;(i) 3 amortized annual installments; or
 
-&emsp;&emsp;&emsp;(ii) an amount equal to 3 annual installments (including an amount equal to the total cost of any tax and insurance incurred during the period covered by the annual installments); or
+&emsp;&emsp;&emsp;(ii) an amount equal to 3 annual installments (including an amount equal to thetotal cost of any tax and insurance incurred during the period covered by the annual installments); or
 
 &emsp;&emsp;(B) a standard guarantee plan, which shall cover an amount equal to 90 percent of the outstanding principal of the loan.
 
@@ -62,7 +62,7 @@ The period during which a loan guarantee under this section is in effect shall b
 
 #### (1) In general
 
-&emsp;The Secretary may phase-in the implementation of the changes to the Beginning Farmerand Rancher and Socially Disadvantaged Farmer or Rancher Contract Land Sales Program provided for in this section.
+&emsp;The Secretary may phase-in the implementation of the changes to the Beginning Farmer and Rancher and Socially Disadvantaged Farmer or Rancher Contract Land Sales Program provided for in this section.
 
 #### (2) Limitation
 
@@ -80,7 +80,7 @@ A prior section 1936, Pub. L. 87–128, title III, §310F, as added Pub. L. 102�
 
 #### Amendments
 
-2008—Pub. L. 110–246, §5005, amended section generally, substituting provisions relating to guarantee of a loan made by a private seller of a farm or ranch to a qualified beginning farmer or rancher or socially disadvantaged farmer or rancher on a contract land sales basis, for similar provisions relating to a pilot program in fiscal years 2003 through 2007.
+<b>2008</b>—Pub. L. 110–246, §5005, amended section generally, substituting provisions relating to guarantee of a loan made by a private seller of a farm or ranch to a qualified beginning farmer or rancher or socially disadvantaged farmer or rancher on a contract land sales basis, for similar provisions relating to a pilot program in fiscal years 2003 through 2007.
 
 #### Effective Date of 2008 Amendment
 

@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(C) Demonstrating the use of systems to provide parents and teachers with information and training concerning early diagnosis of, intervention for, and effective teaching strategies for, young children with reading disabilities.
 
-&emsp;&emsp;(D) Supporting the use of Internet-based communications for students with cognitive disabilities in order to maximize their academic and functional skills.
+&emsp;&emsp;(D) Supporting the use of Internet-based communications for students with cognitivedisabilities in order to maximize their academic and functional skills.
 
 #### (c) Educational media services
 
@@ -96,7 +96,7 @@
 
 #### (B) National Instructional Materials Accessibility Standard
 
-&emsp;&emsp;The term “National Instructional Materials Accessibility Standard” means thestandard established by the Secretary to be used in the preparation of electronic files suitable and used solely for efficient conversion into specialized formats.
+&emsp;&emsp;The term “National Instructional Materials Accessibility Standard” means the standard established by the Secretary to be used in the preparation of electronic files suitable and used solely for efficient conversion into specialized formats.
 
 #### (C) Print instructional materials
 

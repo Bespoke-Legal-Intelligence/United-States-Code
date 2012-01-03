@@ -12,7 +12,7 @@ Section is from the Congressional Operations Appropriations Act, 1989, which is 
 
 #### Amendments
 
-1990—Subsec. (a). Pub. L. 101–302 designated existing provisions as cl. (1) and added cl. (2).
+<b>1990</b>—Subsec. (a). Pub. L. 101–302 designated existing provisions as cl. (1) and added cl. (2).
 
 #### Prior Provisions
 

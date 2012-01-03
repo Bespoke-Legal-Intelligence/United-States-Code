@@ -50,7 +50,7 @@ The Director may delegate to officers and employees of the Agency any of the fun
 
 #### (1) In general
 
-&emsp;In enforcing any provision of this chapter, any regulation or order prescribed under this chapter, or any other provision of law, rule, regulation, or order, or in any other action, suit, or proceeding to which the Director is a party or in which the Director is interested, and in the administration of conservatorships and receiverships, the Director may act in the Director's own name and through the Director's own attorneys.
+&emsp;In enforcing any provision of this chapter, any regulation or order prescribed under this chapter, or any other provision of law, rule, regulation, or order, or in any other action, suit, or proceeding to which the Director is aparty or in which the Director is interested, and in the administration of conservatorships and receiverships, the Director may act in the Director's own name and through the Director's own attorneys.
 
 #### (2) Subject to suit
 
@@ -86,13 +86,13 @@ The Federal Rules of Civil Procedure, referred to in subsec. (c)(2), are set out
 
 #### Amendments
 
-2008—Pub. L. 110–289, §1102(a), amended section generally. Prior to amendment, section consisted of subsecs. (a) to (e) relating to duty and authority of the Director of Office of Federal Housing Enterprise Oversight.
+<b>2008</b>—Pub. L. 110–289, §1102(a), amended section generally. Prior to amendment, section consisted of subsecs. (a) to (e) relating to duty and authority of the Director of Office of Federal Housing Enterprise Oversight.
 
 Subsec. (a)(3). Pub. L. 110–289, §1118, added par. (3).
 
 Subsec. (f). Pub. L. 110–289, §1201, added subsec. (f).
 
-1998—Subsec. (b)(9) to (12). Pub. L. 105–276, which directed the amendment of subsec. (b) by redesignating pars. (9) to (11) as (10) to (12), respectively, and adding a new par. (9) which read “default loss protection levels under section 1454(a)(2)(D) of this title;” was repealed by Pub. L. 105–277, effective upon enactment of Pub. L. 105–276.
+<b>1998</b>—Subsec. (b)(9) to (12). Pub. L. 105–276, which directed the amendment of subsec. (b) by redesignating pars. (9) to (11) as (10) to (12), respectively, and adding a new par. (9) which read “default loss protection levels under section 1454(a)(2)(D) of this title;” was repealed by Pub. L. 105–277, effective upon enactment of Pub. L. 105–276.
 
 #### Effective Date of 1998 Amendment
 

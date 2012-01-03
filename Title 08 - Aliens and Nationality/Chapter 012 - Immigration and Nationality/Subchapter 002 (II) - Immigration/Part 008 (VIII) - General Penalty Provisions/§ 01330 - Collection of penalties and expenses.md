@@ -34,7 +34,7 @@ Section 605 of Public Law 104–134, referred to in subsec. (b)(3)(C), is sectio
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–208, §308(g)(4)(C), substituted “1224, 1253(c)(2)” for “1227, 1229, 1253”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–208, §308(g)(4)(C), substituted “1224, 1253(c)(2)” for “1227, 1229, 1253”.
 
 Subsec. (b). Pub. L. 104–208, §382(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Notwithstanding section 3302 of title 31, the increase in penalties collected resulting from the amendments made by sections 203(b), 543(a), and 544 of the Immigration Act of 1990 shall be credited to the appropriation—
 
@@ -48,9 +48,9 @@ Subsec. (b). Pub. L. 104–208, §382(a), amended subsec. (b) generally. Prior t
 
 &emsp;“(2) for the Executive Office for Immigration Review in the Department of Justice for the purpose of removing the backlogs in the preparation of transcripts of deportation proceedings conducted under section 1252 of this title.”
 
-1994—Subsec. (b)(1)(C). Pub. L. 103–416 substituted “maintenance” for “maintainance”.
+<b>1994</b>—Subsec. (b)(1)(C). Pub. L. 103–416 substituted “maintenance” for “maintainance”.
 
-1990—Pub. L. 101–649 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1990</b>—Pub. L. 101–649 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 1996 Amendment
 

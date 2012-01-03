@@ -14,7 +14,7 @@ Except in the case of amounts attributable to (and not in excess of) deductions 
 
 &emsp;(5) amounts received by an individual as disability income attributable to injuries incurred as a direct result of a terroristic or military action (as defined in section 692(c)(2)).
 
-> For purposes of paragraph (3), in the case of an individual who is, or has been, an employee within the meaning of section 401(c)(1) (relating to self-employed individuals), contributions made on behalf of such individual while he was such an employee to a trust described in section 401(a) which is exempt from tax under section 501(a), or under a plan described in section 403(a), shall, to the extent allowed as deductions under section 404, be treated as contributions by the employer which were not includible in thegross income of the employee. For purposes of paragraph (2), emotional distress shall not be treated as a physical injury or physical sickness. The preceding sentence shall not apply to an amount of damages not in excess of the amount paid for medical care (described in subparagraph (A) or (B) of section 213(d)(1)) attributable to emotional distress.
+> For purposes of paragraph (3), in the case of an individual who is, or has been, an employee within the meaning of section 401(c)(1) (relating to self-employed individuals), contributions made on behalf of such individual while he was such an employee to a trust described in section 401(a) which is exempt from tax under section 501(a), or under a plan described in section 403(a), shall, to the extent allowed as deductions under section 404, be treated as contributions by the employer which were not includible in the gross income of the employee. For purposes of paragraph (2), emotional distress shall not be treated as a physical injury or physical sickness. The preceding sentence shall not apply to an amount of damages not in excess of the amount paid for medical care (described in subparagraph (A) or (B) of section 213(d)(1)) attributable to emotional distress.
 
 #### (b) Termination of application of subsection (a)(4) in certain cases
 
@@ -90,7 +90,7 @@ Subsecs. (c), (d). Pub. L. 104–188, §1605(c), added subsec. (c) and redesigna
 
 <b>1989</b>—Subsec. (a). Pub. L. 101–239 inserted at end “Paragraph (2) shall not apply to any punitive damages in connection with a case not involving physical injury or physical sickness.”
 
-<b>1983</b>—Subsec. (a)(2). Pub. L. 97–473 substituted “whether by suit or agreement and whether as lumpsums or as periodic payments” for “whether by suit or agreement”.
+<b>1983</b>—Subsec. (a)(2). Pub. L. 97–473 substituted “whether by suit or agreement and whether as lump sums or as periodic payments” for “whether by suit or agreement”.
 
 <b>1980</b>—Subsec. (a)(4). Pub. L. 96–465 substituted reference to section 808 of the Foreign Service Act of 1980 for reference to section 831 of the Foreign Service Act of 1946.
 

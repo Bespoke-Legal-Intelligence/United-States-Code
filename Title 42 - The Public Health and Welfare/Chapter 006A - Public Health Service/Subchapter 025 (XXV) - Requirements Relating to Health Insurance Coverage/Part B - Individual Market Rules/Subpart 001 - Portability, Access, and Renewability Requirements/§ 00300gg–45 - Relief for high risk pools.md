@@ -30,7 +30,7 @@ The Secretary shall provide from the funds appropriated under subsection (d)(1)(
 
 #### (3) Special rule for pools charging higher premiums
 
-&emsp;In the case of a qualified high risk pool of a State which charges premiums that exceed 150 percent of the premium for applicable standard risks, the State shall use at least 50 percent of the amount of the grant provided to the State to carry out this subsection to reduce premiums for enrollees.
+&emsp;In the case of a qualified high risk pool of a State which charges premiums that exceed 150 percent of the premium for applicable standard risks, the State shall use at least 50 percent of the amount of the grant provided tothe State to carry out this subsection to reduce premiums for enrollees.
 
 #### (4) Limitation for territories
 
@@ -116,7 +116,7 @@ In this section:
 
 #### (A) <sup>1</sup> In general
 
-&emsp;&emsp;The term “qualified high risk pool” has the meaning given such term in section 300gg–44(c)(2) of this title, except that a State may elect to meet the requirement of subparagraph (A) of such section (insofar as it requires the provision of coverage to all eligible individuals) through providing for the enrollment of eligible individuals through an acceptable alternative mechanism (as defined for purposes of section 300gg–44 of this title) that includes a high risk pool as a component.
+&emsp;&emsp;The term “qualified high risk pool” has the meaning given such term in section 300gg–44(c)(2) of this title, except that a State may elect to meet the requirement of subparagraph (A) of such section (insofar as it requires the provision of coverage to all eligible individuals) through providing for the enrollment of eligible individuals through an acceptable alternative mechanism (as defined for purposes of section300gg–44 of this title) that includes a high risk pool as a component.
 
 #### (2) Standard risk rate
 

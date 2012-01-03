@@ -22,7 +22,7 @@ In general.—The net proceeds of a disposition or transfer of property describe
 
 &emsp;(3)
 
-Calculation of net proceeds.—For purposes of this subsection, the net proceeds of adisposition or transfer of property are the proceeds less all expenses incurred for the disposition or transfer, including care and handling.
+Calculation of net proceeds.—For purposes of this subsection, the net proceeds of a disposition or transfer of property are the proceeds less all expenses incurred for the disposition or transfer, including care and handling.
 
 &emsp;(4)
 

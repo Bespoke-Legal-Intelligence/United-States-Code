@@ -2,7 +2,7 @@
 
 Inventories of supplies for elements of the armed forces may not be increased for the purpose of transferring supplies under the authority of this subchapter.
 
-(Added Pub. L. 96–323, §2(a), Aug. 4, 1980, 94 Stat. 1018, §2328; amended Pub. L. 97–22, §11(a)(8), July 10, 1981, 95 Stat. 138; renumbered §2348, Pub. L. 99–145, title XIII, §1304(a)(1), Nov. 8, 1985, 99 Stat. 741; Pub. L. 99–661, div. A, title XI, §1104(e), Nov.14, 1986, 100 Stat. 3965; Pub. L. 101–189, div. A, title IX, §931(e)(1), Nov. 29, 1989, 103 Stat. 1535.)
+(Added Pub. L. 96–323, §2(a), Aug. 4, 1980, 94 Stat. 1018, §2328; amended Pub. L. 97–22, §11(a)(8), July 10, 1981, 95 Stat. 138; renumbered §2348, Pub. L. 99–145, title XIII, §1304(a)(1), Nov. 8, 1985, 99 Stat. 741; Pub. L. 99–661, div. A, title XI, §1104(e), Nov. 14, 1986, 100 Stat. 3965; Pub. L. 101–189, div. A, title IX, §931(e)(1), Nov. 29, 1989, 103 Stat. 1535.)
 
 #### Amendments
 

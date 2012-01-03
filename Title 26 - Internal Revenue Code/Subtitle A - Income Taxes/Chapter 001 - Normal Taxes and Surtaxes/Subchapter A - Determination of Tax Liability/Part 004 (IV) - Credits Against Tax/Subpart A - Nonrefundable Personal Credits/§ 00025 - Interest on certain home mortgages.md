@@ -94,7 +94,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(vii) if the issuing authority allocates a block of mortgage credit certificates for use in connection with a particular development, which requires the developer to furnish to the issuing authority and the homebuyer a certificate that the price for the residence is no higher than it would be without the use of a mortgage credit certificate.
 
-> &emsp;&emsp;Under regulations, rules similar to the rules of subparagraphs (B) and (C) of section 143(a)(2) shall apply to the requirements of this subparagraph.
+> &emsp;&emsp;Under regulations, rules similar to the rules of subparagraphs (B) and (C) of section143(a)(2) shall apply to the requirements of this subparagraph.
 
 #### (B) Modifications of section 143
 
@@ -160,9 +160,9 @@ For purposes of this section—
 
 &emsp;&emsp;For purposes of this paragraph, the term “applicable tax limit” means—
 
-&emsp;&emsp;&emsp;(i) in the case of a taxable year to which section 26(a)(2) applies, the limitation imposed by section 26(a)(2) for the taxable year reduced by the sum of the credits allowable under this subpart (other than this section and sections 25D,<sup>1</sup> and 1400C), and
+&emsp;&emsp;&emsp;(i) in the case of a taxable year to which section 26(a)(2) applies, the limitation imposed by section 26(a)(2) for the taxable year reduced by the sum of the credits allowable under this subpart (other than this section and sections 23, 25D, and 1400C), and
 
-&emsp;&emsp;&emsp;(ii) in the case of a taxable year to which section 26(a)(2) does not apply, the limitation imposed by section 26(a)(1) for the taxable year reduced by the sum of the credits allowable under this subpart (other than this section and sections 24, 25A(i), 25B, 25D, 30, 30B, 30D, and 1400C).
+&emsp;&emsp;&emsp;(ii) in the case of a taxable year to which section 26(a)(2) does not apply, the limitation imposed by section 26(a)(1) for the taxable year reduced by the sum of the credits allowable under this subpart (other than this section and sections 23, 24, 25A(i), 25B, 25D, 30, 30B, 30D, and 1400C).
 
 #### (2) Indebtedness not treated as certified where certain requirements not in fact met
 
@@ -184,7 +184,7 @@ For purposes of this section—
 
 #### (B) Certificate invalid unless indebtedness incurred within certain period
 
-&emsp;&emsp;A certificate shall not apply to any indebtedness which is incurred after the close of the second calendar year following the calendar year for which the issuing authority made the applicable election under subsection (c)(2)(A)(ii).
+&emsp;&emsp;A certificate shall not apply to any indebtedness which is incurred after the close ofthe second calendar year following the calendar year for which the issuing authority made the applicable election under subsection (c)(2)(A)(ii).
 
 #### (C) Notice to Secretary when certificate revoked
 
@@ -262,7 +262,7 @@ For purposes of this section—
 
 #### (4) Exception where certification program
 
-&emsp;The provisions of this subsection shall not apply in any case in which there is a certification program which is designed to ensure that the requirements of this section are met and which meets such requirements as the Secretary may by regulations prescribe.
+&emsp;The provisions of this subsection shall not apply in any case in which there is a certification program which is designed to ensure that the requirements of this section are metand which meets such requirements as the Secretary may by regulations prescribe.
 
 #### (5) Waiver
 
@@ -436,19 +436,19 @@ Amendment by Pub. L. 110–343 applicable to taxable years beginning after Dec. 
 
 #### Effective and Termination Dates of 2005 Amendments
 
-Amendment by section 402(i)(3)(C) of Pub. L. 109–135 subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, §901, in the same manner as the provisions of such Act to which such amendment relates, see section 402(i)(3)(H) of Pub. L. 109–135, set out as a note under section 36C of this title.
+Amendment by section 402(i)(3)(C) of Pub. L. 109–135 subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, §901, in the same manner as the provisions of such Act to which such amendment relates, see section 402(i)(3)(H) of Pub. L. 109–135, set out as a note under section 23 of this title.
 
-The Internal Revenue Code of 1986 to be applied and administered as if the amendments made by section 1335(b)(1)–(3) of Pub. L. 109–58 had never been enacted, see section 402(i)(4) of Pub. L. 109–135, set out as a note under section 36C of this title.
+The Internal Revenue Code of 1986 to be applied and administered as if the amendments made by section 1335(b)(1)–(3) of Pub. L. 109–58 had never been enacted, see section 402(i)(4) of Pub. L. 109–135, set out as a note under section 23 of this title.
 
-Amendments by Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which they relate, except that amendment by section 402(i)(3)(C) of Pub. L. 109–135 is applicable to taxable years beginning after Dec. 31, 2005, see section 402(m) of Pub. L. 109–135, set out as a note under section 36C of this title.
+Amendments by Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which they relate, except that amendment by section 402(i)(3)(C) of Pub. L. 109–135 is applicable to taxable years beginning after Dec. 31, 2005, see section 402(m) of Pub. L. 109–135, set out as a note under section 23 of this title.
 
-Amendment by Pub. L. 109–58 applicable to property placed in service after Dec. 31, 2005, in taxable years ending after such date, see section 1335(c) of Pub. L. 109–58, set out as a note under section 36C of this title.
+Amendment by Pub. L. 109–58 applicable to property placed in service after Dec. 31, 2005, in taxable years ending after such date, see section 1335(c) of Pub. L. 109–58, set out as a note under section 23 of this title.
 
 #### Effective and Termination Dates of 2001 Amendment
 
-Amendment by Pub. L. 107–16 inapplicable to taxable years beginning during 2004 or 2005, see section 312(b)(2) of Pub. L. 108–311, set out as a note under section 36C of this title.
+Amendment by Pub. L. 107–16 inapplicable to taxable years beginning during 2004 or 2005, see section 312(b)(2) of Pub. L. 108–311, set out as a note under section 23 of this title.
 
-Amendment by Pub. L. 107–16 inapplicable to taxable years beginning during 2002 and 2003, see section 601(b)(2) of Pub. L. 107–147, set out as a note under section 36C of this title.
+Amendment by Pub. L. 107–16 inapplicable to taxable years beginning during 2002 and 2003, see section 601(b)(2) of Pub. L. 107–147, set out as a note under section 23 of this title.
 
 Amendment by section 201(b)(2)(F) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 201(e)(2) of Pub. L. 107–16, set out as a note under section 24 of this title.
 
@@ -466,7 +466,7 @@ Amendment by Pub. L. 105–34 applicable to sales and exchanges after May 6, 199
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1807(e) of Pub. L. 104–188, set out as an Effective Date note under section 36C of this title.
+Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1807(e) of Pub. L. 104–188, set out as an Effective Date note under section 23 of this title.
 
 #### Effective Date of 1993 Amendment
 
@@ -490,7 +490,7 @@ Amendment by section 4005(g)(7) of Pub. L. 100–647 applicable to financing pro
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 1301(f)(1) of Pub. L. 99–514 applicable to nonissued bond amounts elected after Aug.15, 1986, and amendment by section 1301(f)(2) of Pub. L. 99–514 applicable to certificates issued with respect to nonissued bond amounts elected after Aug. 15, 1986, see section 1311(b) of Pub. L. 99–514, as amended, set out as an Effective Date; Transitional Rules note under section 141 of this title.
+Amendment by section 1301(f)(1) of Pub. L. 99–514 applicable to nonissued bond amounts elected after Aug. 15, 1986, and amendment by section 1301(f)(2) of Pub. L. 99–514 applicable to certificates issued with respect to nonissued bond amounts elected after Aug. 15, 1986, see section 1311(b) of Pub. L. 99–514, as amended, set out as an Effective Date; Transitional Rules note under section 141 of this title.
 
 Amendment by section 1862(a)–(d)(1) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
@@ -509,6 +509,4 @@ Elections.—The amendments made by this section shall apply to elections under 
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

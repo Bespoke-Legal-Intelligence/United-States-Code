@@ -22,7 +22,7 @@ Eligibility Criteria.—Except as provided in subsections (c) and (d), only pers
 
 &emsp;&emsp;&emsp;(ii) at least 24 semester credit hours (or the equivalent) from an accredited institution of higher education in the person's career field and 12 semester credit hours (or the equivalent) from such an institution from among the disciplines listed in clause (i) or equivalent training as prescribed by the Secretary to ensure proficiency in the disciplines listed in clause (i).
 
-&emsp;(2) The person must meet experience requirements prescribed by the Secretary of Defense.Such requirements shall, at a minimum, include a requirement for at least four years of experience in an acquisition position in the Department of Defense or in a comparable position in industry or government.
+&emsp;(2) The person must meet experience requirements prescribed by the Secretary of Defense. Such requirements shall, at a minimum, include a requirement for at least four years of experience in an acquisition position in the Department of Defense or in a comparable position in industry or government.
 
 &emsp;(3) The person must meet such other requirements as the Secretary of Defense or the Secretary of the military department concerned prescribes by regulation.
 
@@ -84,7 +84,7 @@ Subsec. (d)(2). Pub. L. 108–136, §831(b)(3)(B), substituted “The Secretary�
 
 Subsec. (e). Pub. L. 108–136, §833(2), substituted “the Acquisition Corps” for “an Acquisition Corps” in pars. (1) and (2).
 
-<b>2001</b>—Subsec. (a). Pub. L. 107–107, §1048(e)(4), as amended by Pub. L. 108–375, §1084(h)(2), struck out atend “Such criteria and procedures shall be in effect on and after October 1, 1993.”
+<b>2001</b>—Subsec. (a). Pub. L. 107–107, §1048(e)(4), as amended by Pub. L. 108–375, §1084(h)(2), struck out at end “Such criteria and procedures shall be in effect on and after October 1, 1993.”
 
 Subsec. (c)(2). Pub. L. 107–107, §824(b), inserted a comma after “business”.
 

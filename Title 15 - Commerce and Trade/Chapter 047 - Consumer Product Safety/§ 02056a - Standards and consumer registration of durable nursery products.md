@@ -26,6 +26,16 @@ This section may be cited as the “Danny Keysar Child Product Safety Notificati
 
 &emsp;Any person adversely affected by such standards may file a petition for review under the procedures set forth in section 2060(g) of this title, as added by section 236 of this Act.
 
+#### (4) Process for considering subsequent revisions to voluntary standard
+
+#### (A) Notice of adoption of voluntary standard
+
+&emsp;&emsp;When the Commission promulgates a consumer product safety standard under this subsection that is based, in whole or in part, on a voluntary standard, the Commission shall notify the organization that issued the voluntary standard of the Commission's action and shall provide a copy of the consumer product safety standard to the organization.
+
+#### (B) Commission action on revised voluntary standard
+
+&emsp;&emsp;If an organization revises a standard that has been adopted, in whole or in part, as a consumer product safety standard under this subsection, it shall notify the Commission. The revised voluntary standard shall be considered to be a consumer product safety standard issued by the Commission under section 2058 of this title, effective 180 days after the date on which the organization notifies the Commission (or such later date specified by the Commission in the Federal Register) unless, within 90 days after receiving that notice, the Commission notifies the organization that it has determined that the proposed revision does not improve the safety of the consumer product covered by the standard and that the Commission is retaining the existing consumer product safety standard.
+
 #### (c) Cribs
 
 #### (1) In general
@@ -44,7 +54,11 @@ This section may be cited as the “Danny Keysar Child Product Safety Notificati
 
 &emsp;&emsp;(D) owns or operates a place of public accommodation affecting commerce (as defined in section 2203 of this title applied without regard to the phrase “not owned by the Federal Government”).
 
-#### (3) Crib defined
+#### (3) Application of any revision
+
+&emsp;With respect to any revision of the standard promulgated under subsection (b)(1)(B) subsequent to the initial promulgation of a standard under such subsection, paragraph (1) shall apply only to a person that manufactures or imports cribs, unless the Commission determines that application to any other person described in paragraph (2) is necessary to protect against an unreasonable risk to health or safety. If the Commission determines that application to a person described in paragraph (2) is necessary, it shall provide not less than 12 months for such person to come into compliance.
+
+#### (4) Crib defined
 
 &emsp;In this subsection, the term “crib” includes—
 
@@ -88,7 +102,7 @@ This section may be cited as the “Danny Keysar Child Product Safety Notificati
 
 #### (3) Record keeping and notification requirements
 
-&emsp;The rules required under this section shall require each manufacturer of a durable infant or toddler product to maintain a record of registrants for each product manufactured that includes all of the information provided by each consumer registered, and to use such information to notify such consumers in theevent of a voluntary or involuntary recall of or safety alert regarding such product. Each manufacturer shall maintain such a record for a period of not less than 6 years after the date of manufacture of the product. Consumer information collected by a manufacturer under this Act may not be used by the manufacturer, nor disseminated by such manufacturer to any other party, for any purpose other than notification to such consumer in the event of a product recall or safety alert.
+&emsp;The rules required under this section shall require each manufacturer of a durable infant or toddler product to maintain a record of registrants for each product manufactured that includes all of the information provided by each consumer registered, and to use such information to notify such consumers in the event of a voluntary or involuntary recall of or safety alert regarding such product. Each manufacturer shall maintain such a record for a period of not less than 6 years after the date of manufacture of the product. Consumer information collected by a manufacturer under this Act may not be used by the manufacturer, nor disseminated by such manufacturer to any other party, for any purpose other than notification to such consumer in the event of a product recall or safety alert.
 
 #### (4) Study
 
@@ -144,7 +158,7 @@ As used in this section, the term “durable infant or toddler product”—
 
 &emsp;&emsp;(L) bassinets and cradles.
 
-(Pub. L. 110–314, title I, §104, Aug. 14, 2008, 122 Stat. 3028.)
+(Pub. L. 110–314, title I, §104, Aug. 14, 2008, 122 Stat. 3028; Pub. L. 112–28, §3, Aug. 12, 2011, 125 Stat. 279.)
 
 #### References in Text
 
@@ -157,6 +171,12 @@ This Act, referred to in subsec. (d)(3), is Pub. L. 110–314, Aug. 14, 2008, 12
 #### Codification
 
 Section was enacted as part of the Consumer Product Safety Improvement Act of 2008, and not as part of the Consumer Product Safety Act which comprises this chapter.
+
+#### Amendments
+
+<b>2011</b>—Subsec. (b)(4). Pub. L. 112–28, §3(a), added par. (4).
+
+Subsec. (c)(3), (4). Pub. L. 112–28, §3(b), added par. (3) and redesignated former par. (3) as (4).
 
 #### Definitions
 

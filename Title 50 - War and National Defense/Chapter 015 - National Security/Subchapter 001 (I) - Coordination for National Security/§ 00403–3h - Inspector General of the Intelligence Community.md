@@ -62,7 +62,7 @@ It shall be the duty and responsibility of the Inspector General of the Intellig
 
 &emsp;(2) to keep the Director of National Intelligence fully and currently informed concerning violations of law and regulations, fraud, and other serious problems, abuses, and deficiencies relating to the programs and activities within the responsibility and authority of the Director, to recommend corrective action concerning such problems, and to report on the progress made in implementing such corrective action;
 
-&emsp;(3) to take due regard for the protection of intelligence sources and methods in the preparation of all reports issued by the InspectorGeneral, and, to the extent consistent with the purpose and objective of such reports, take such measures as may be appropriate to minimize the disclosure of intelligence sources and methods described in such reports; and
+&emsp;(3) to take due regard for the protection of intelligence sources and methods in the preparation of all reports issued by the Inspector General, and, to the extent consistent with the purpose and objective of such reports, take such measures as may be appropriate to minimize the disclosure of intelligence sources and methods described in such reports; and
 
 &emsp;(4) in the execution of the duties and responsibilities under this section, to comply with generally accepted government auditing.
 
@@ -70,7 +70,7 @@ It shall be the duty and responsibility of the Inspector General of the Intellig
 
 (1) The Director of National Intelligence may prohibit the Inspector General of the Intelligence Community from initiating, carrying out, or completing any investigation, inspection, audit, or review if the Director determines that such prohibition is necessary to protect vital national security interests of the United States.
 
-(2) Not later than seven days after the date on which the Director exercises the authority under paragraph (1), the Director shall submit to the congressional intelligence committees an appropriately classified statement of the reasons for the exercise of such authority.
+(2) Not later than seven days after the date on which the Director exercises the authority under paragraph (1), the Director shall submit tothe congressional intelligence committees an appropriately classified statement of the reasons for the exercise of such authority.
 
 (3) The Director shall advise the Inspector General at the time a statement under paragraph (2) is submitted, and, to the extent consistent with the protection of intelligence sources and methods, provide the Inspector General with a copy of such statement.
 
@@ -112,7 +112,7 @@ It shall be the duty and responsibility of the Inspector General of the Intellig
 
 #### (h) Coordination among Inspectors General
 
-(1)(A) In the event of a matter within the jurisdiction of the Inspector General of the Intelligence Community that may be subject to an investigation, inspection, audit, or review by both the Inspector General of the Intelligence Community and an inspector general with oversight responsibility for an element of the intelligence community, the Inspector General of the Intelligence Community and such other inspector general shall expeditiously resolve the question of which inspector general shall conduct such investigation, inspection, audit, or review to avoid unnecessary duplication of the activities of the inspectors general.
+(1)(A) In the event of a matter within the jurisdiction of the Inspector General of the Intelligence Community that may be subject to an investigation, inspection, audit, or review byboth the Inspector General of the Intelligence Community and an inspector general with oversight responsibility for an element of the intelligence community, the Inspector General of the Intelligence Community and such other inspector general shall expeditiously resolve the question of which inspector general shall conduct such investigation, inspection, audit, or review to avoid unnecessary duplication of the activities of the inspectors general.
 
 (B) In attempting to resolve a question under subparagraph (A), the inspectors general concerned may request the assistance of the Intelligence Community Inspectors General Forum established under paragraph (2). In the event of a dispute between an inspector general within a department or agency of the United States Government and the Inspector General of the Intelligence Community that has not been resolved with the assistance of such Forum, the inspectors general shall submit the question to the Director of National Intelligence and the head of the affected department or agency for resolution.
 
@@ -150,7 +150,7 @@ It shall be the duty and responsibility of the Inspector General of the Intellig
 
 (4)(A) Subject to the concurrence of the Director of National Intelligence, the Inspector General may request such information or assistance as may be necessary for carrying out the duties and responsibilities of the Inspector General from any department, agency, or other element of the United States Government.
 
-(B) Upon request of the Inspector General for information or assistance under subparagraph\(A), the head of the department, agency, or element concerned shall, insofar as is practicable and not in contravention of any existing statutory restriction or regulation of the department, agency, or element, furnish to the Inspector General, such information or assistance.
+(B) Upon request of the Inspector General for information or assistance under subparagraph (A), the head of the department, agency, or element concerned shall, insofar as is practicable and not in contravention of any existing statutory restriction or regulation of the department, agency, or element, furnish to the Inspector General, such information or assistance.
 
 (C) The Inspector General of the Intelligence Community may, upon reasonable notice to the head of any element of the intelligence community and in coordination with that element's inspector general pursuant to subsection (h), conduct, as authorized by this section, an investigation, inspection, audit, or review of such element and may enter into any place occupied by such element for purposes of the performance of the duties of the Inspector General.
 
@@ -194,7 +194,7 @@ It shall be the duty and responsibility of the Inspector General of the Intellig
 
 &emsp;(iii) a matter requires a report by the Inspector General to the Department of Justice on possible criminal conduct by a current or former official described in clause (ii);
 
-&emsp;(iv) the Inspector General receives notice from the Department of Justice declining orapproving prosecution of possible criminal conduct of any current or former official described in clause (ii); or
+&emsp;(iv) the Inspector General receives notice from the Department of Justice declining or approving prosecution of possible criminal conduct of any current or former official described in clause (ii); or
 
 &emsp;(v) the Inspector General, after exhausting all possible alternatives, is unable to obtain significant documentary information in the course of an investigation, inspection, audit, or review,
 
@@ -238,7 +238,7 @@ It shall be the duty and responsibility of the Inspector General of the Intellig
 
 #### (<i>l</i>) Construction of duties regarding elements of Intelligence Community
 
-Except as resolved pursuant to subsection (h), the performance by the Inspector General of theIntelligence Community of any duty, responsibility, or function regarding an element of the intelligence community shall not be construed to modify or affect the duties and responsibilities of any other inspector general having duties and responsibilities relating to such element.
+Except as resolved pursuant to subsection (h), the performance by the Inspector General of the Intelligence Community of any duty, responsibility, or function regarding an element of the intelligence community shall not be construed to modify or affect the duties and responsibilities of any other inspector general having duties and responsibilities relating to such element.
 
 #### (m) Separate budget account
 
@@ -246,7 +246,7 @@ The Director of National Intelligence shall, in accordance with procedures issue
 
 #### (n) Budget
 
-(1) For each fiscal year, the Inspector General of the Intelligence Community shall transmit a budget estimate and request to the Director of National Intelligence that specifies for such fiscal year—
+(1) For each fiscal year, the Inspector General of the Intelligence Community shall transmit a budget estimate and request to the Director ofNational Intelligence that specifies for such fiscal year—
 
 &emsp;(A) the aggregate amount requested for the operations of the Inspector General;
 
@@ -276,11 +276,21 @@ The Director of National Intelligence shall, in accordance with procedures issue
 
 &emsp;(E) the comments of the Inspector General under paragraph (2)(D), if any, on the amounts requested pursuant to paragraph (2), including whether such amounts would substantially inhibit the Inspector General from performing the duties of the Office of the Inspector General.
 
-(July 26, 1947, ch. 343, title I, §103H, as added Pub. L. 111–259, title IV, §405(a)(1), Oct. 7, 2010, 124 Stat. 2709.)
+#### (<i>o</i>) Information on website
+
+(1) The Director of National Intelligence shall establish and maintain on the homepage of the publicly accessible website of the Office of the Director of National Intelligence information relating to the Office of the Inspector General of the Intelligence Community including methods to contact the Inspector General.
+
+(2) The information referred to in paragraph (1) shall be obvious and facilitate accessibility to the information related to the Office of the Inspector General of the Intelligence Community.
+
+(July 26, 1947, ch. 343, title I, §103H, as added Pub. L. 111–259, title IV, §405(a)(1), Oct. 7, 2010, 124 Stat. 2709; amended Pub. L. 112–87, title IV, §403, Jan. 3, 2012, 125 Stat. 1888.)
 
 #### References in Text
 
 Section 8H of the Inspector General Act of 1978, referred to in subsec. (k)(5)(H), is section 8H of Pub. L. 95–452, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Amendments
+
+<b>2012</b>—Subsec. (<i>o</i>). Pub. L. 112–87 added subsec. (<i>o</i>).
 
 #### Construction
 

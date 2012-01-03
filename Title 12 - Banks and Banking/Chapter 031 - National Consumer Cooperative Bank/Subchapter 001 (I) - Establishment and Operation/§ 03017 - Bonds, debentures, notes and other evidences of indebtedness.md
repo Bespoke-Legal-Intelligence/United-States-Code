@@ -16,7 +16,7 @@ Obligations issued under this section shall not be guaranteed by the United Stat
 
 #### Amendments
 
-1981—Subsec. (a). Pub. L. 97–35, §394(g)(1), struck out requirement respecting consultation with the Secretary of the Treasury.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35, §394(g)(1), struck out requirement respecting consultation with the Secretary of the Treasury.
 
 Subsecs. (b) to (d). Pub. L. 97–35, §396(d), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) relating to discretionary authority for issuance to and purchase by Secretary of Treasury.
 

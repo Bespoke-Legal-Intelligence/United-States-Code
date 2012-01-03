@@ -10,7 +10,7 @@ For purposes of this part:
 
 &emsp;(4) The term “significant aggravation” means any change for the worse in a preexisting condition which results in markedly greater disability, pain, or illness accompanied by substantial deterioration of health.
 
-&emsp;(5) The term “vaccine-related injury or death” means an illness, injury, condition, or death associated with one or more of the vaccines set forth in the Vaccine Injury Table, except that the term does not include an illness, injury, condition, or death associated with anadulterant or contaminant intentionally added to such a vaccine.
+&emsp;(5) The term “vaccine-related injury or death” means an illness, injury, condition, or death associated with one or more of the vaccines set forth in the Vaccine Injury Table, except that the term does not include an illness, injury, condition, or death associated with an adulterant or contaminant intentionally added to such a vaccine.
 
 &emsp;(6)(A) The term “Advisory Commission on Childhood Vaccines” means the Commission established under section 300aa–19 of this title.
 

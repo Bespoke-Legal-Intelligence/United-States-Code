@@ -36,7 +36,7 @@ For purposes of this part:
 
 #### (4) Declaration
 
-&emsp;The term “Declaration” means the Declaration Regarding Administration of Smallpox Countermeasures issued by the Secretary on January 24, 2003, and published in the Federal Register on January 28, 2003.
+&emsp;The term “Declaration” means the Declaration Regarding Administration of SmallpoxCountermeasures issued by the Secretary on January 24, 2003, and published in the Federal Register on January 28, 2003.
 
 #### (5) Effective period of the Declaration
 

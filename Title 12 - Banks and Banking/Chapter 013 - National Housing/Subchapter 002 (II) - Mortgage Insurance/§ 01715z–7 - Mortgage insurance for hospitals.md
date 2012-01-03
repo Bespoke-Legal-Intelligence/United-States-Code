@@ -14,7 +14,7 @@ For the purposes of this section—
 
 &emsp;&emsp;(B) not more than 50 per centum of the total patient days of which during any year are customarily assignable to the categories of chronic convalescent and rest, drug and alcoholic, epileptic, mentally deficient, mental, nervous and mental, and tuberculosis, unless the facility is a critical access hospital (as that term is defined in section 1861(mm)(1) of the Social Security Act (42 U.S.C. 1395x(mm)(1))); and
 
-&emsp;&emsp;(C) which is a public facility, proprietary facility, or facility of a private nonprofitcorporation or association, licensed or regulated by the State (or, if there is no State law providing for such licensing or regulation by the State, by the municipality or other political subdivision in which the facility is located); and
+&emsp;&emsp;(C) which is a public facility, proprietary facility, or facility of a private nonprofit corporation or association, licensed or regulated by the State (or, if there is no State law providing for such licensing or regulation by the State, by the municipality or other political subdivision in which the facility is located); and
 
 &emsp;(2) the terms “mortgage” and “mortgagor” shall have the meanings respectfully set forth in section 1713(a) of this title.
 
@@ -48,7 +48,7 @@ In order to carry out the purpose of this section, the Secretary is authorized t
 
 &emsp;&emsp;(A) a written application for such insurance or modification submitted at the express direction of the hospital has been submitted to the appropriate office of the Department of Health and Human Services prior to March 29, 1979; or
 
-&emsp;&emsp;(B) in the case of a nonprofit mortgagor which is seeking refinancing or modification of an existing mortgage insured pursuant to this section or section 1715n(f) of this title, the mortgagor (i) had engaged an investment banker for the purpose of obtaining such refinancing or modification, or had undertaken or arranged for the undertaking of a market or feasibility study with respect to the advisability of obtaining such refinancing or modification, and had made written notification of its interest in such refinancing or modification to the Department of Health and Human Services or the Department of Housing and Urban Developmentprior to June 7, 1979; and (ii) receives from the programs established under titles XVIII \[42 U.S.C. 1395 et seq.\] and XIX \[42 U.S.C. 1396 et seq.\] of the Social Security Act a percentage of its total revenue which is greater than 125 per centum of the national average for hospitals which derive revenue from such titles.
+&emsp;&emsp;(B) in the case of a nonprofit mortgagor which is seeking refinancing or modification of an existing mortgage insured pursuant to this section or section 1715n(f) of this title, the mortgagor (i) had engaged an investment banker for the purpose of obtaining such refinancing or modification, or had undertaken or arranged for the undertaking of a market or feasibility study with respect to the advisability of obtaining such refinancing or modification, and had made written notification of its interest in such refinancing or modification to the Department of Health and Human Services or the Department of Housing and Urban Development prior to June 7, 1979; and (ii) receives from the programs established under titles XVIII \[42 U.S.C. 1395 et seq.\] and XIX \[42 U.S.C. 1396 et seq.\] of the Social Security Act a percentage of its total revenue which is greater than 125 per centum of the national average for hospitals which derive revenue from such titles.
 
 > &emsp;This paragraph shall not limit the authority of the Secretary to approve a mortgage increase on any mortgage eligible for insurance under this paragraph at any time prior to final endorsement of the loan for insurance; except that such mortgage increase may not be approved for the cost of constructing any improvements not included in the original plans and specifications approved by the Department of Health and Human Services unless approved by the Secretary of Housing and Urban Development and by the Secretary of Health and Human Services.
 
@@ -98,15 +98,15 @@ The Social Security Act, referred to in subsec. (d)(5)(B), is act Aug. 14, 1935,
 
 #### Amendments
 
-2006—Subsec. (i)(1). Pub. L. 109–240 substituted “July 31, 2011” for “July 31, 2006”.
+<b>2006</b>—Subsec. (i)(1). Pub. L. 109–240 substituted “July 31, 2011” for “July 31, 2006”.
 
-2003—Subsec. (b)(1)(B). Pub. L. 108–91, §3(a)(1), inserted “, unless the facility is a critical access hospital (as that term is defined in section 1861(mm)(1) of the Social Security Act (42 U.S.C. 1395x(mm)(1)))” after “tuberculosis”.
+<b>2003</b>—Subsec. (b)(1)(B). Pub. L. 108–91, §3(a)(1), inserted “, unless the facility is a critical access hospital (as that term is defined in section 1861(mm)(1) of the Social Security Act (42 U.S.C. 1395x(mm)(1)))” after “tuberculosis”.
 
 Subsec. (d)(4). Pub. L. 108–91, §2(a), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The Secretary shall not insure any mortgage under this section unless he has received, from the State agency designated in accordance with section 604(a)(1) or section 1521 of the Public Health Service Act for the State in which is located the hospital covered by the mortgage, a certification that (A) there is a need for such hospital, and (B) there are in force in such State or the political subdivision of the State in which the proposed hospital would be located reasonable minimum standards of licensure and methods of operation for hospitals. No such mortgage shall be insured under this section unless the Secretary has received such assurance as he may deem satisfactory from the State agency that such standards will be applied and enforced with respect to any hospital located in the State for which mortgage insurance is provided under this section. If no such State agency exists, or if the State agency exists but is not empowered to provide a certification that there is a need for the hospital as set forth in clause (A) of the first sentence, the Secretary shall not insure any mortgage under this section unless (A) the State in which the hospital is located has conducted or commissioned and paid for the preparation of an independent study of market need and feasibility that (i) is prepared in accordance with the principles established by the American Institute of Certified Public Accountants; (ii) assesses, on a marketwide basis, the impact of the proposed hospital on, and its relationship to, other health care facilities and services, the percentage of excess beds, demographic projections, alternative health care delivery systems, and the reimbursement structure of the hospital; (iii) is addressed to and is acceptable to the Secretary in form and substance; and (iv) in the event the State does not prepare the study, is prepared by a financial consultant selected by the State and approved by the Secretary; and (B) the State complies with the other provisions of this paragraph that would otherwise be required to be met by a State agency designated in accordance with section 604(a)(1) or section 1521 of the Public Health Service Act. The proposed mortgagor may reimburse the State for the cost of the independent feasibility study required in the preceding sentence.”
 
 Subsec. (i). Pub. L. 108–91, §3(a)(2), added subsec. (i).
 
-1988—Subsec. (a). Pub. L. 100–242, §412(a), inserted at end “Such assistance shall be provided regardless of the amount of public financial or other support a hospital may receive, and the Secretary shall neither require additional security or collateral to guarantee such support, nor impose more stringent eligibility or other requirements on publicly owned or supported hospitals.”
+<b>1988</b>—Subsec. (a). Pub. L. 100–242, §412(a), inserted at end “Such assistance shall be provided regardless of the amount of public financial or other support a hospital may receive, and the Secretary shall neither require additional security or collateral to guarantee such support, nor impose more stringent eligibility or other requirements on publicly owned or supported hospitals.”
 
 Subsec. (d)(2). Pub. L. 100–242, §412(b), substituted “The mortgage shall involve a principal obligation in the amount requested by the mortgagor if such amount does not exceed 90 percent of the estimated replacement cost of the property or project including” for “The mortgage shall involve a principal obligation in an amount not to exceed 90 per centum of the estimated replacement cost of the property or project including”.
 
@@ -116,29 +116,29 @@ Subsec. (d)(6). Pub. L. 100–242, §412(c), added par. (6).
 
 Subsec. (f). Pub. L. 100–242, §412(d), inserted at end “The Secretary shall begin immediately to process applications of public facilities for mortgage insurance under this section in accordance with regulations, guidelines, and procedures applicable to facilities of private nonprofit corporations and associations.”
 
-1984—Subsec. (c). Pub. L. 98–479, §201(a)(1), substituted “Health and Human Services” for “Health, Education, and Welfare”.
+<b>1984</b>—Subsec. (c). Pub. L. 98–479, §201(a)(1), substituted “Health and Human Services” for “Health, Education, and Welfare”.
 
 Subsec. (d)(3)(A). Pub. L. 98–479, §204(a)(13), substituted a semicolon for the comma at end.
 
-1983—Subsec. (b)(1)(C). Pub. L. 98–181, §436(1), inserted “public facility,” after “which is a”.
+<b>1983</b>—Subsec. (b)(1)(C). Pub. L. 98–181, §436(1), inserted “public facility,” after “which is a”.
 
 Subsec. (d)(3)(B). Pub. L. 98–181, §404(b)(15), substituted provision that the interest rate be such a rate as agreed upon by the mortgagor and the mortgagee for provision that the interest rate, exclusive of premium charges for insurance and service charges, not exceed such per centum per annum, not in excess of 6 per centum, on the amount of the principal obligation outstanding at any time, as the Secretary finds necessary to meet the mortgage market.
 
 Subsec. (f). Pub. L. 98–181, §436(2), inserted “, and in the case of public hospitals, to encourage programs that are undertaken to provide essential health care services to all residents of a community regardless of ability to pay” after “defined population”.
 
-1981—Subsec. (d)(5). Pub. L. 97–35 inserted provisions respecting limitation on authority of the Secretary to approve mortgage increases on eligible mortgages.
+<b>1981</b>—Subsec. (d)(5). Pub. L. 97–35 inserted provisions respecting limitation on authority of the Secretary to approve mortgage increases on eligible mortgages.
 
-1980—Subsec. (d)(2). Pub. L. 96–399 revised existing provisions into introductory paragraph and subpar. (A) and added subpar. (B).
+<b>1980</b>—Subsec. (d)(2). Pub. L. 96–399 revised existing provisions into introductory paragraph and subpar. (A) and added subpar. (B).
 
-1979—Subsec. (d)(5). Pub. L. 96–153 added par. (5).
+<b>1979</b>—Subsec. (d)(5). Pub. L. 96–153 added par. (5).
 
-1977—Subsec. (c). Pub. L. 95–128, §308(b), prohibited charging any mortgage insurance premium with respect to the amount of principal and interest guaranteed by the Department of Health, Education, and Welfare under title VII of the Public Health Service Act.
+<b>1977</b>—Subsec. (c). Pub. L. 95–128, §308(b), prohibited charging any mortgage insurance premium with respect to the amount of principal and interest guaranteed by the Department of Health, Education, and Welfare under title VII of the Public Health Service Act.
 
 Subsec. (d)(4). Pub. L. 95–128, §308(a), inserted reference to section 1521.
 
-1974—Subsec. (d)(2). Pub. L. 93–383 struck out “not to exceed $50,000,000, and” after “an amount”.
+<b>1974</b>—Subsec. (d)(2). Pub. L. 93–383 struck out “not to exceed $50,000,000, and” after “an amount”.
 
-1970—Subsec. (b)(1)(C). Pub. L. 91–609, §110(a), substituted as definition of “hospital” a facility “which is a proprietary facility, or facility of a private nonprofit corporation or association, licensed or regulated by the State (or, if there is no State law providing for such licensing or regulation by the State, by the municipality or other political subdivision in which the facility is located)” for “prior definition as a facility which is owned and operated by one or more nonprofit corporations or associations no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual”.
+<b>1970</b>—Subsec. (b)(1)(C). Pub. L. 91–609, §110(a), substituted as definition of “hospital” a facility “which is a proprietary facility, or facility of a private nonprofit corporation or association, licensed or regulated by the State (or, if there is no State law providing for such licensing or regulation by the State, by the municipality or other political subdivision in which the facility is located)” for “prior definition as a facility which is owned and operated by one or more nonprofit corporations or associations no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual”.
 
 Subsec. (d)(2). Pub. L. 91–609, §109, increased limitation on amount of mortgage from $25,000,000 to $50,000,000.
 

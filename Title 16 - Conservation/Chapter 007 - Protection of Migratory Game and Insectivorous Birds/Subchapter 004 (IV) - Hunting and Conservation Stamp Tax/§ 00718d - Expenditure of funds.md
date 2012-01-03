@@ -24,7 +24,7 @@ All funds received into the fund are appropriated for the following purposes, to
 
 #### (3) Conditions on use of funds
 
-&emsp;The Secretary may use funds made available under paragraph (2) for the purposes of that paragraph, and such other funds as may be appropriated for the purposes of that paragraph or this paragraph, to acquire, or defray the expense incident to the acquisition by gift, devise, lease, purchase, or exchange of, small wetland and pothole areas, interests therein, and rights-of-way to provide access thereto. Such small areas, to be designated as “Waterfowl Production Areas”, may be acquired without regard to the limitations and requirements of the Migratory Bird Conservation Act (16 U.S.C. 715 et seq.), but all of the provisions of such Act which govern the administration and protection of lands acquired thereunder, except the inviolate sanctuary provisions of such Act, shall be applicable to areas acquired pursuant to this paragraph.
+&emsp;The Secretary may use funds made available under paragraph (2) for the purposes of that paragraph, and such other funds as may be appropriated for the purposes of that paragraph or this paragraph, to acquire, or defray the expense incident to the acquisition by gift, devise, lease, purchase, or exchange of, small wetland and pothole areas, interests therein, and rights-of-way to provide access thereto. Such small areas, to be designated as “Waterfowl Production Areas”, may be acquiredwithout regard to the limitations and requirements of the Migratory Bird Conservation Act (16 U.S.C. 715 et seq.), but all of the provisions of such Act which govern the administration and protection of lands acquired thereunder, except the inviolate sanctuary provisions of such Act, shall be applicable to areas acquired pursuant to this paragraph.
 
 #### (c) Promotion of stamp sales
 
@@ -54,7 +54,7 @@ Subsec. (b)(2). Pub. L. 109–266, §10(e)(4)(B), inserted “(16 U.S.C. 715 et 
 
 Pub. L. 109–266, §10(e)(4)(A), which directed amendment of par. (2) by substituting heading “Areas for refuges” and text “Except as provided in paragraph (3) and subsection (c)” for “Except as provided in subsections (c) and (d) of this section”, was executed by making the substitution for “Except as authorized in subsections (c) and (d) of this section” to reflect the probable intent of Congress.
 
-Subsec. (b)(3). Pub. L. 109–266, §10(e)(5), inserted heading, inserted “(16 U.S.C. 715 et seq.)” after “Migratory Bird Conservation Act”, and substituted “The Secretary may use funds made available under paragraph (2) for the purposes of that paragraph, and such other funds as may be appropriated for the purposes of that paragraph or this paragraph,” for “The Secretary ofthe Interior is authorized to utilize funds made available under subsection (b) of this section for the purposes of such subsection, and such other funds as may be appropriated for the purposes of such subsection, or of this subsection,” and “pursuant to this paragraph” for “pursuant to this subsection”.
+Subsec. (b)(3). Pub. L. 109–266, §10(e)(5), inserted heading, inserted “(16 U.S.C. 715 et seq.)” after “Migratory Bird Conservation Act”, and substituted “The Secretary may use funds made available under paragraph (2) for the purposes of that paragraph, and such other funds as may be appropriated for the purposes of that paragraph or this paragraph,” for “The Secretary of the Interior is authorized to utilize funds made available under subsection (b) of this section for the purposes of such subsection, and such other funds as may be appropriated for the purposes of such subsection, or of this subsection,” and “pursuant to this paragraph” for “pursuant to this subsection”.
 
 Subsec. (c). Pub. L. 109–266, §10(e)(6), redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b)(3).
 
@@ -90,7 +90,7 @@ For effective date of amendment by Pub. L. 85–585, see section 4 of Pub. L. 85
 
 #### Transfer of Functions
 
-Transfer of functions of Secretary of Agriculture to Secretary of the Interior by Reorg. Plan No. II of 1939, see Transfer of Functions note set out under section 718a of this title.
+Transfer of functions of Secretary of Agriculture to Secretary of the Interior by Reorg. Plan No. II of 1939,see Transfer of Functions note set out under section 718a of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

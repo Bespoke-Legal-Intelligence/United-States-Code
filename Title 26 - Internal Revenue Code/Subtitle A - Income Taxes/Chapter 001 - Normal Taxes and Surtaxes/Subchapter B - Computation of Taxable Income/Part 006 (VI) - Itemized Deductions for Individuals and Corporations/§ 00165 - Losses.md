@@ -44,7 +44,7 @@ Losses from sales or exchanges of capital assets shall be allowed only to the ex
 
 &emsp;&emsp;(B) a right to subscribe for, or to receive, a share of stock in a corporation; or
 
-&emsp;&emsp;(C) a bond, debenture, note, or certificate, or other evidence of indebtedness, issued bya corporation or by a government or political subdivision thereof, with interest coupons or in registered form.
+&emsp;&emsp;(C) a bond, debenture, note, or certificate, or other evidence of indebtedness, issued by a corporation or by a government or political subdivision thereof, with interest coupons or in registered form.
 
 #### (3) Securities in affiliated corporation
 
@@ -138,7 +138,7 @@ Losses from sales or exchanges of capital assets shall be allowed only to the ex
 
 #### (C) Determination of adjusted gross income in case of estates and trusts
 
-&emsp;&emsp;For purposes of paragraph (2), the adjusted gross income of an estate or trust shall becomputed in the same manner as in the case of an individual, except that the deductions for costs paid or incurred in connection with the administration of the estate or trust shall be treated as allowable in arriving at adjusted gross income.
+&emsp;&emsp;For purposes of paragraph (2), the adjusted gross income of an estate or trust shall be computed in the same manner as in the case of an individual, except that the deductions for costs paid or incurred in connection with the administration of the estate or trust shall be treated as allowable in arriving at adjusted gross income.
 
 #### (D) Coordination with estate tax
 
@@ -170,7 +170,7 @@ Losses from sales or exchanges of capital assets shall be allowed only to the ex
 
 #### (1) In general
 
-&emsp;Nothing in subsection (a) or in any other provision of law shall be construed to provide a deduction for any loss sustained on any registration-required obligation unless such obligation is in registered form (or the issuance of such obligation was subject to tax under section 4701).
+&emsp;Nothing in subsection (a) or in any other provision of law shall be construed to providea deduction for any loss sustained on any registration-required obligation unless such obligation is in registered form (or the issuance of such obligation was subject to tax under section 4701).
 
 #### (2) Definitions
 
@@ -178,7 +178,7 @@ Losses from sales or exchanges of capital assets shall be allowed only to the ex
 
 #### (A) Registration-required obligation
 
-&emsp;&emsp;The term “registration-required obligation” has the meaning given to such term by section 163(f)(2) except that clause (iv) of subparagraph (A), and subparagraph (B), of such section shall not apply.
+&emsp;&emsp;The term “registration-required obligation” has the meaning given to such term by section 163(f)(2).
 
 #### (B) Registered form
 
@@ -290,15 +290,13 @@ In the case of a taxpayer whose residence is located in an area which has been d
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 49; Pub. L. 85–866, title I, §§7, 57(c)(1), title II, §202(a), Sept. 2, 1958, 72 Stat. 1608, 1646, 1676; Pub. L. 87–426, §2(a), Mar. 31, 1962, 76 Stat. 51; Pub. L. 88–272, title II, §§208(a), 238, Feb. 26, 1964, 78 Stat. 43, 128; Pub. L. 88–348, §3(a), June 30, 1964, 78 Stat. 237; Pub. L. 91–606, title III, §301(h), Dec. 31, 1970, 84 Stat. 1759; Pub. L. 91–677, §1(a), Jan. 12, 1971, 84 Stat. 2061; Pub. L. 91–687, §1, Jan. 12, 1971, 84 Stat. 2071; Pub. L. 92–336, §2(a), July 1, 1972, 86 Stat. 406; Pub. L. 92–418, §2(a), Aug. 29, 1972, 86 Stat. 656, 657; Pub. L. 93–288, title VII, §702(h), formerly title VI, §602(h), May 22, 1974, 88 Stat. 164, renumbered title VII, §702(h), Pub. L. 103–337, div. C, title XXXIV, §3411(a)(1), (2), Oct. 5, 1994, 108 Stat. 3100; Pub. L. 94–455, title XIX, §1901(a)(26), Oct. 4, 1976, 90 Stat. 1767; Pub. L. 97–248, title II, §203(a), (b), title III, §310(b)(5), Sept. 3, 1982, 96 Stat. 422, 598; Pub. L. 98–369, div. A, title I, §42(a)(4), title VII, §711(c)(1), (2)(A)(i), (ii), title X, §1051(a), July 18, 1984, 98 Stat. 556, 943, 1044; Pub. L. 99–514, title IX, §905(a), title X, §1004(a), Oct. 22, 1986, 100 Stat. 2385, 2388; Pub. L. 100–647, title I, §1009(d)(1), Nov. 10, 1988, 102 Stat. 3449; Pub. L. 100–707, title I, §109(<i>l</i>), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 105–34, title IX, §912(a), Aug. 5, 1997, 111 Stat. 878; Pub. L. 106–554, §1(a)(7) \[title III, §318(b)(1), (2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–645; Pub. L. 108–311, title IV, §408(a)(7)(A), (B), Oct. 4, 2004, 118 Stat. 1191; Pub. L. 110–343, div. C, title VII, §706(a)(1), (2)(A)–(C), (c), Oct. 3, 2008, 122 Stat. 3921–3923; Pub. L. 111–147, title V, §502(a)(2)(D), Mar. 18, 2010, 124 Stat. 107.)
 
-#### Amendment of Subsection (j)(2)(A)
-
-<i>Pub. L. 111–147, title V, §502(a)(2)(D), (f), Mar. 18, 2010, 124 Stat. 107, 108, provided that, applicable to obligations issued after the date</i><i>which is 2 years after Mar. 18, 2010, subsection (j)(2)(A) of this section is amended by striking “except that clause (iv) of subparagraph (A), and subparagraph (B), of such section shall not apply”.</i>
-
 #### References in Text
 
 The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsecs. (h)(3)(C)(i) and (k), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2010</b>—Subsec. (j)(2)(A). Pub. L. 111–147 struck out “except that clause (iv) of subparagraph (A), and subparagraph (B), of such section shall not apply” before period.
 
 <b>2008</b>—Subsec. (h)(1). Pub. L. 110–343, §706(c), substituted “$500 ($100 for taxable years beginning after December 31, 2009)” for “$100”.
 
@@ -476,7 +474,7 @@ Section 2(b) of Pub. L. 87–426 provided that: “The amendments made by this s
 
 Section 1(c) of title I of Pub. L. 85–866, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Except as otherwise expressly provided—
 
-&emsp;“(1) amendments made by this title to subtitle A of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to income taxes) \[enacting section 558 of this title and amending this section and sections 152, 166, 168, 170, 172, 213, 337, 404, 421, 535, 545, 556, 582, 611, 613, 851, 1015, 1031, 1033, 1034, 1053, 1232, 1233, 1234, 1237, 1341, and 1347 of this title\] shall apply to taxable years beginning after December 31, 1953, and ending after August 16, 1954; and
+&emsp;“(1) amendments made by this title to subtitle A of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to income taxes) \[enacting section 558 of this title and amending this section and sections 152, 166, 168, 170, 172, 213, 337, 404, 421, 535, 545, 556, 582, 611, 613, 851, 1015, 1031, 1033, 1034, 1053, 1232, 1233, 1234,1237, 1341, and 1347 of this title\] shall apply to taxable years beginning after December 31, 1953, and ending after August 16, 1954; and
 
 &emsp;“(2) amendments made by this title to subtitle F of such Code (relating to procedure and administration) \[enacting sections 7513 and 7514 of this title and amending sections 6013, 6015, 6212, 6325, 6338, 6339, 6501, 6504, 6511, 6601, 6652, 6653, 6851, 6871, 7213, 7324, 7325, and 7422 of this title\] shall take effect as of August 17, 1954, and such subtitle, as so amended, shall apply as provided in section 7851 of the Internal Revenue Code of 1986”.
 
@@ -504,7 +502,7 @@ General Rule.—For purposes of chapter 1 of the Internal Revenue Code of 1986�
 
 “(b)
 
-FSLIC Assistance.—For purposes of this section, the term ‘FSLIC assistance’ means any assistance (or right to assistance) with respect to a domestic building and loan association (as defined in section 7701(a)(19) of such Code without regard to subparagraph (C) thereof) under section 406(f) of the National Housing Act \[former 12 U.S.C. 1729(f)\] or section 21A of the Federal Home Loan Bank Act \[12 U.S.C. 1441a\] (or under any similar provision of law).
+FSLIC Assistance.—For purposes of this section, the term ‘FSLIC assistance’ means any assistance (or right to assistance) with respect to a domestic building and loan association (as defined in section 7701(a)(19) of such Code without regard to subparagraph (C) thereof) under section 406(f) of the National Housing Act \[former 12 U.S.C. 1729(f)\] or \[former\] section 21A of the Federal Home Loan Bank Act \[12 U.S.C. 1441a\] (or under any similar provision of law).
 
 “(c)
 
@@ -516,7 +514,7 @@ In general.—Except as otherwise provided in this subsection—
 
 &emsp;&emsp;“(A) The provisions of this section shall apply to taxable years ending on or after March 4, 1991, but only with respect to FSLIC assistance not credited before March 4, 1991.
 
-&emsp;&emsp;“(B) If any FSLIC assistance not credited before March 4, 1991, is with respect to a loss sustained or charge-off in a taxable year ending before March 4, 1991, for purposes of determining the amount of anynet operating loss carryover to a taxable year ending on or after March 4, 1991, the provisions of this section shall apply to such assistance for purposes of determining the amount of the net operating loss for the taxable year in which such loss was sustained or debt written off. Except as provided in the preceding sentence, this section shall not apply to any FSLIC assistance with respect to a loss sustained or charge-off in a taxable year ending before March 4, 1991.
+&emsp;&emsp;“(B) If any FSLIC assistance not credited before March 4, 1991, is with respect to a loss sustained or charge-off in a taxable year ending before March 4, 1991, for purposes of determining the amount of any net operating loss carryover to a taxable year ending on or after March 4, 1991, the provisions of this section shall apply to such assistance for purposes of determining the amount of the net operating loss for the taxable year in which such loss was sustained or debt written off. Except as provided in the preceding sentence, this section shall not apply to any FSLIC assistance with respect to a loss sustained or charge-off in a taxable year ending before March 4, 1991.
 
 &emsp;“(2)
 

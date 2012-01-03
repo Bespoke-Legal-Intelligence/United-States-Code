@@ -1,6 +1,6 @@
 ### §3683. Conflicting interests
 
-(a) Every officer or employee of the Department of Veterans Affairs who has, while such an officer or employee, owned any interest in, or received any wages, salary, dividends, profits, gratuities, or services from, any educational institution operated for profit in which an eligible person or veteran was pursuing a program of education or course under this chapter or chapter 34 or 35 of this title shall be immediately dismissed from such officer's or employee's office or employment.
+(a) Every officer or employee of the Department of Veterans Affairs who has, while such an officer or employee, owned any interest in, or received any wages, salary, dividends, profits, gratuities, or services from, any educational institution operated for profit in which an eligible person or veteran was pursuing a program ofeducation or course under this chapter or chapter 34 or 35 of this title shall be immediately dismissed from such officer's or employee's office or employment.
 
 (b) If the Secretary finds that any person who is an officer or employee of a State approving agency has, while such person was such an officer or employee, owned any interest in, or received any wages, salary, dividends, profits, gratuities, or services from, an educational institution operated for profit in which an eligible person or veteran was pursuing a program of education or course under this chapter or chapter 34 or 35 of this title, the Secretary shall discontinue making payments under section 3674 of this title to such State approving agency unless such agency shall, without delay, take such steps as may be necessary to terminate the employment of such person and such payments shall not be resumed while such person is an officer or employee of the State approving agency, or State department of veterans’ affairs or State department of education.
 
@@ -26,7 +26,7 @@ Subsec. (b). Pub. L. 102–83, §5(c)(1), substituted “3674” for “1774”.
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–502, §513(a)(14), substituted “such officer's or employee's” for “his”.
 
-Subsec. (b). Pub. L. 94–502, §513(a)(15), substituted “while such person was” for “while he was” and “theAdministrator shall discontinue” for “he shall discontinue”.
+Subsec. (b). Pub. L. 94–502, §513(a)(15), substituted “while such person was” for “while he was” and “the Administrator shall discontinue” for “he shall discontinue”.
 
 Subsec. (d). Pub. L. 94–502, §513(a)(16), substituted “if the Administrator finds” for “if he finds”.
 

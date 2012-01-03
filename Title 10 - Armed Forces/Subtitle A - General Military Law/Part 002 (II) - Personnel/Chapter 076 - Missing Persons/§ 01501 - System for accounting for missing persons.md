@@ -22,7 +22,7 @@ Responsibility for Missing Personnel.—(1) The Secretary of Defense shall desig
 
 (B)(i) For any fiscal year, the number of military and civilian personnel, whether temporary or permanent, assigned or detailed activity may not be less than the number requested in the President's budget for fiscal year 2003, unless a level below such number is expressly required by law.
 
-(ii) If for any reason the number of military and civilian personnel assigned or detailed activity should fall below the required level underclause (i), the Secretary of Defense shall promptly notify the Committees on Armed Services of the Senate and House of Representatives of the number of personnel so assigned or detailed and of the Secretary's plan to restore the staffing level of the activity to at least the required minimum number under clause (i). The Secretary shall publish such notice and plan in the Federal Register.
+(ii) If for any reason the number of military and civilian personnel assigned or detailed activity should fall below the required level under clause (i), the Secretary of Defense shall promptly notify the Committees on Armed Services of the Senate and House of Representatives of the number of personnel so assigned or detailed and of the Secretary's plan to restore the staffing level of the activity to at least the required minimum number under clause (i). The Secretary shall publish such notice and plan in the Federal Register.
 
 (C) For any fiscal year, the level of funding allocated to the activity within the Department of Defense may not be below the level requested for such purposes in the President's budget for fiscal year 2003, unless such a level of funding is expressly required by law.
 

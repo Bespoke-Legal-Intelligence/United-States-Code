@@ -100,7 +100,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the term “capital gain net income” has themeaning given such term by section 1222(9) (determined by treating the 1-year period ending on October 31 of any calendar year as the company's taxable year).
+&emsp;&emsp;Except as provided in subparagraph (B), the term “capital gain net income” has the meaning given such term by section 1222(9) (determined by treating the 1-year period ending on October 31 of any calendar year as the company's taxable year).
 
 #### (B) Reduction by net ordinary loss for calendar year
 
@@ -184,7 +184,7 @@ For purposes of this section—
 
 #### (f) Exception for certain regulated investment companies
 
-This section shall not apply to any regulated investment company for any calendar year if atall times during such calendar year each shareholder in such company was—
+This section shall not apply to any regulated investment company for any calendar year if at all times during such calendar year each shareholder in such company was—
 
 &emsp;(1) a trust described in section 401(a) and exempt from tax under section 501(a),
 

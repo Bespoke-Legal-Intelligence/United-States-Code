@@ -156,7 +156,7 @@ If, under regulations prescribed by the Secretary, a person is required to make 
 
 &emsp;&emsp;Under regulations, any tax required to be paid by electronic fund transfer under section 5061(e) or 5703(b) shall be paid in such a manner as to ensure that the requirements of the second sentence of paragraph (1)(A) of this subsection are satisfied.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 775; June 29, 1956, ch. 462, title II, §206(b), 70 Stat. 391; Pub. L. 94–455, title XIX, §1906(a)(17), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1825, 1834; Pub. L. 95–147, §3(a), Oct. 28, 1977, 91 Stat. 1228; Pub. L. 95–600, title I, §105(e), Nov. 6, 1978, 92 Stat. 2776; Pub. L. 96–223, title I, §101(c)(2), Apr. 2, 1980, 94 Stat. 250; Pub. L. 98–369, div. A, title X, §1015(c), July 18, 1984, 98 Stat. 1018; Pub. L. 100–418, title I, §1941(b)(2)(G), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 100–647, title VI, §6107(a), Nov. 10, 1988, 102 Stat. 3712; Pub. L. 101–239, title VII, §§7502(a), 7507(a), 7632(a), Dec. 19, 1989, 103 Stat. 2362, 2369, 2379; Pub. L. 101–508, title XI, §§11217(b)(1), 11334(a), 11801(c)(22)(A), Nov. 5, 1990, 104 Stat. 1388–437, 1388–470, 1388–528; Pub. L. 103–66, title XIII, §13242(d)(15), Aug. 10, 1993, 107 Stat. 524; Pub. L. 103–182, title V, §523(a), Dec. 8, 1993, 107 Stat. 2161; Pub. L. 103–465, title VII, §712(a), (d), Dec. 8, 1994, 108 Stat. 4999, 5001; Pub. L. 104–188, title I, §§1702(c)(3), 1704(t)(52), Aug. 20, 1996, 110 Stat. 1869, 1890; Pub. L. 111–226, title II, §219(b)(2), Aug. 10, 2010, 124 Stat. 2403; Pub. L. 111–237, §2(a), Aug. 16, 2010, 124 Stat. 2497.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 775; June 29, 1956, ch. 462, title II, §206(b), 70 Stat. 391; Pub. L. 94–455, title XIX, §1906(a)(17), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1825, 1834; Pub. L. 95–147, §3(a), Oct. 28, 1977, 91 Stat. 1228; Pub. L. 95–600, title I, §105(e), Nov. 6, 1978, 92 Stat. 2776; Pub. L. 96–223, title I, §101(c)(2), Apr. 2, 1980, 94 Stat. 250; Pub. L. 98–369, div. A, title X, §1015(c), July 18, 1984, 98 Stat. 1018; Pub. L. 100–418, title I, §1941(b)(2)(G), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 100–647, title VI, §6107(a), Nov. 10, 1988, 102 Stat. 3712; Pub. L. 101–239, title VII, §§7502(a),7507(a), 7632(a), Dec. 19, 1989, 103 Stat. 2362, 2369, 2379; Pub. L. 101–508, title XI, §§11217(b)(1), 11334(a), 11801(c)(22)(A), Nov. 5, 1990, 104 Stat. 1388–437, 1388–470, 1388–528; Pub. L. 103–66, title XIII, §13242(d)(15), Aug. 10, 1993, 107 Stat. 524; Pub. L. 103–182, title V, §523(a), Dec. 8, 1993, 107 Stat. 2161; Pub. L. 103–465, title VII, §712(a), (d), Dec. 8, 1994, 108 Stat. 4999, 5001; Pub. L. 104–188, title I, §§1702(c)(3), 1704(t)(52), Aug. 20, 1996, 110 Stat. 1869, 1890; Pub. L. 111–226, title II, §219(b)(2), Aug. 10, 2010, 124 Stat. 2403; Pub. L. 111–237, §2(a), Aug. 16, 2010, 124 Stat. 2497.)
 
 #### Amendments
 
@@ -188,7 +188,7 @@ Subsecs. (h), (i). Pub. L. 103–182 added subsec. (h) and redesignated former s
 
 Subsec. (e). Pub. L. 101–508, §11217(b)(1), inserted “communications services and” before “airline” in heading and “section 4251 or” after “imposed by” in text.
 
-Subsec. (g). Pub. L. 101–508, §11334(a), amended subsec. (g) generally, striking out par. (1) designation andstriking heading, striking out “, for the years specified in paragraph (2),” after “such person shall”, substituting “on the 1st banking day” for “on the applicable banking day”, and striking out par. (2), which provided that for purposes of par. (1) the applicable banking day for 1990 is the 1st, for 1991 the 2nd, for 1992 the 3rd, for 1993 the 1st, and for 1994 the 1st.
+Subsec. (g). Pub. L. 101–508, §11334(a), amended subsec. (g) generally, striking out par. (1) designation and striking heading, striking out “, for the years specified in paragraph (2),” after “such person shall”, substituting “on the 1st banking day” for “on the applicable banking day”, and striking out par. (2), which provided that for purposes of par. (1) the applicable banking day for 1990 is the 1st, for 1991 the 2nd, for 1992 the 3rd, for 1993 the 1st, and for 1994 the 1st.
 
 <b>1989</b>—Subsec. (e). Pub. L. 101–239, §7502(a), added subsec. (e). Former subsec. (e) redesignated (f).
 
@@ -286,7 +286,7 @@ Section 3(c) of Pub. L. 95–147 provided that: “The amendments made by this s
 
 #### Regulations
 
-Section 523(b)(2) of Pub. L. 103–182 provided that: “Not later than 210 days after the date of enactment ofthis Act \[Dec. 8, 1993\], the Secretary of the Treasury or his delegate shall prescribe temporary regulations under section 6302(h) of the Internal Revenue Code of 1986 (as added by this section).”
+Section 523(b)(2) of Pub. L. 103–182 provided that: “Not later than 210 days after the date of enactment of this Act \[Dec. 8, 1993\], the Secretary of the Treasury or his delegate shall prescribe temporary regulations under section 6302(h) of the Internal Revenue Code of 1986 (as added by this section).”
 
 #### Savings Provision
 
@@ -320,7 +320,7 @@ Section 1809 of Pub. L. 104–188 provided that: “Notwithstanding any other pr
 
 #### Depositary Schedules
 
-Pub. L. 98–76, title II, §226, Aug. 12, 1983, 97 Stat. 426, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Effective on and after January 1, 1984, the times for making payments prescribed under section 6302 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] with respect to the taxes imposed by chapter 22 of such Code shall be the same as the times prescribed under such section which apply to the taxes imposed by chapters 21 and 24 of such Code.”
+Pub. L. 98–76, title II, §226, Aug. 12, 1983, 97 Stat. 426, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Effective on and after January 1, 1984, the times for making payments prescribed under section 6302 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] with respect to the taxes imposed by chapter 22 of such Code shall be the same as the timesprescribed under such section which apply to the taxes imposed by chapters 21 and 24 of such Code.”
 
 Pub. L. 98–76, title II, §227(c), Aug. 12, 1983, 97 Stat. 426, provided that: “Section 226 \[set out above\] shall take effect on January 1, 1984.”
 

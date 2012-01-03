@@ -1,12 +1,8 @@
 ### §670. Congressional declaration of purpose; authorization of appropriations
 
-For the purpose of enabling each State to provide, in appropriate cases, foster care and transitional independent living programs for children who otherwise would have been eligible forassistance under the State's plan approved under part A of this subchapter (as such plan was in effect on June 1, 1995) and adoption assistance for children with special needs, there are authorized to be appropriated for each fiscal year (commencing with the fiscal year which begins October 1, 1980) such sums as may be necessary to carry out the provisions of this part. The sums made available under this section shall be used for making payments to States which have submitted, and had approved by the Secretary, State plans under this part.
+For the purpose of enabling each State to provide, in appropriate cases, foster care and transitional independent living programs for children who otherwise would have been eligible for assistance under the State's plan approved under part A of this subchapter (as such plan was in effect on June 1, 1995) and adoption assistance for children with special needs, there are authorized to be appropriated for each fiscal year (commencing with the fiscal year which begins October 1, 1980) such sums as may be necessary to carry out the provisions of this part. The sums made available under this section shall be used for making payments to States which have submitted, and had approved by the Secretary, State plans under this part.
 
 (Aug. 14, 1935, ch. 531, title IV, §470, as added Pub. L. 96–272, title I, §101(a)(1), June 17, 1980, 94 Stat. 501; amended Pub. L. 99–272, title XII, §12307(d), Apr. 7, 1986, 100 Stat. 297; Pub. L. 99–514, title XVII, §1711(c)(1), Oct. 22, 1986, 100 Stat. 2784; Pub. L. 104–193, title I, §108(d)(1), Aug. 22, 1996, 110 Stat. 2166.)
-
-#### References in Text
-
-Part A of this subchapter, referred to in text, is classified to section 601 et seq. of this title.
 
 #### Amendments
 
@@ -44,7 +40,7 @@ Pub. L. 106–314, Oct. 17, 2000, 114 Stat. 1266, provided that:
 
 &emsp;“(4) To avoid unnecessary and lengthy stays in the foster care system, the Adoption and Safe Families Act of 1997 specifically requires, among other things, that States move to terminate the parental rights of the parents of those children who have been in foster care for 15 of the last 22 months.
 
-&emsp;“(5) While essential to protect children and to carry out the general purposes of the Adoption and Safe Families Act of 1997, the accelerated timelines for the termination of parental rights and the other requirements imposed under that Act increase the pressure on the Nation's already overburdened abuse and neglect courts.
+&emsp;“(5) While essential to protect children and to carry out the general purposes of the Adoption and SafeFamilies Act of 1997, the accelerated timelines for the termination of parental rights and the other requirements imposed under that Act increase the pressure on the Nation's already overburdened abuse and neglect courts.
 
 &emsp;“(6) The administrative efficiency and effectiveness of the Nation's abuse and neglect courts would be substantially improved by the acquisition and implementation of computerized case-tracking systems to identify and eliminate existing backlogs, to move abuse and neglect caseloads forward in a timely manner, and to move children into safe and stable families. Such systems could also be used to evaluate the effectiveness of such courts in meeting the purposes of the amendments made by, and provisions of, the Adoption and Safe Families Act of 1997.
 
@@ -274,7 +270,7 @@ Final report.—Not later than 90 days after the termination of all grants award
 
 “(g)
 
-Authorization of Appropriations.—There is authorized to be appropriated to carry out this section,$10,000,000 for the period of fiscal years 2001 through 2005.
+Authorization of Appropriations.—There is authorized to be appropriated to carry out this section, $10,000,000 for the period of fiscal years 2001 through 2005.
 
 #### “SEC. 5. GRANTS TO REDUCE PENDING BACKLOGS OF ABUSE AND NEGLECT CASES TO PROMOTE PERMANENCY FOR ABUSED AND NEGLECTED CHILDREN.
 
@@ -354,7 +350,7 @@ Grants To Expand CASA Programs in Underserved Areas.—The Administrator of the 
 
 “(b)
 
-Limitation on Administrative Expenditures.—Not more than 5 percent of the grant made under this subsection may be used for administrative expenditures.
+Limitation on Administrative Expenditures.—Not more than 5 percent of the grant made under thissubsection may be used for administrative expenditures.
 
 “(c)
 

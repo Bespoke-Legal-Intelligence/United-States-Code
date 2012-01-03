@@ -8,7 +8,7 @@ The tax imposed by section 4071 shall not apply to tires sold for the exclusive 
 
 <b>2004</b>—Pub. L. 108–357 amended section catchline and text generally. Prior to amendment, text read as follows: “The tax imposed by section 4071 shall not apply to tires of extruded tiring with an internal wire fastening agent.”
 
-<b>1984</b>—Pub. L. 98–369 substituted “Exemption for tires with internal wire fastening” for “Exemptions” in section catchline, and in text struck out subsec. (a) relating to exemption from tax on tires not more than 20 inches in diameter and not more than 13/4 inches in cross section, struck out subsec. (c) relating to exemption from tax on tread rubber in certain cases, and struck out letter designation “(b)” and subsection heading for subsec. (b) thereby designating text of former subsec. (b) as entire text of section.
+<b>1984</b>—Pub. L. 98–369 substituted “Exemption for tires with internal wire fastening” for “Exemptions” in section catchline, and in text struck out subsec. (a) relating to exemption from tax on tires not more than 20 inches in diameter and not more than 1¾ inches in cross section, struck out subsec. (c) relating to exemption from tax on tread rubber in certain cases, and struck out letter designation “(b)” and subsection heading for subsec. (b) thereby designating text of former subsec. (b) as entire text of section.
 
 <b>1976</b>—Subsec. (c). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 

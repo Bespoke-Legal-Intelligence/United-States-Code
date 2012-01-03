@@ -10,7 +10,7 @@
 
 &emsp;&emsp;&emsp;(I) $3,500, if such student is enrolled in a program whose length is at least one academic year in length (as determined under section 1088 of this title); and
 
-&emsp;&emsp;&emsp;(II) if such student is enrolled in a program of undergraduate education which isless than one academic year, the maximum annual loan amount that such student may receive may not exceed the amount that bears the same ratio to the amount specified in subclause (I) as the length of such program measured in semester, trimester, quarter, or clock hours bears to one academic year;
+&emsp;&emsp;&emsp;(II) if such student is enrolled in a program of undergraduate education which is less than one academic year, the maximum annual loan amount that such student may receive may not exceed the amount that bears the same ratio to the amount specified in subclause (I) as the length of such program measured in semester, trimester, quarter, or clock hours bears to one academic year;
 
 &emsp;&emsp;(ii) in the case of a student at an eligible institution who has successfully completed such first year but has not successfully completed the remainder of a program of undergraduate education—
 
@@ -88,7 +88,7 @@ Section 1078–1 of this title, referred to in subsec. (a)(2)(A), was repealed b
 
 #### Prior Provisions
 
-A prior section 1075, Pub. L. 89–329, title IV, §425, Nov. 8, 1965, 79 Stat. 1238; Pub. L. 90–575, title I, §§116(b)(1), 120(a)(2), Oct. 16, 1968, 82 Stat. 1023, 1027; Pub. L. 92–318, title I, §§132A(a), 132B(a), June 23, 1972, 86 Stat. 261, 262; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2104; Pub. L. 95–43, §1(a)(15)–(17), June 15, 1977, 91 Stat. 214; Pub. L. 95–566, §5(b)(2), Nov. 1, 1978, 92 Stat. 2403; Pub. L. 96–374, title IV, §412(a), (b), (f), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1416, 1417, 1503; Pub. L. 97–35, title V, §535(a), (b), Aug. 13, 1981, 95 Stat. 455; Pub. L. 99–272, title XVI, §16013(e)(1), Apr. 7, 1986, 100 Stat. 341, limited Federal loan insurance, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1075, Pub. L. 89–329, title IV, §425, Nov. 8, 1965, 79 Stat. 1238; Pub. L. 90–575, title I, §§116(b)(1),120(a)(2), Oct. 16, 1968, 82 Stat. 1023, 1027; Pub. L. 92–318, title I, §§132A(a), 132B(a), June 23, 1972, 86 Stat. 261, 262; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2104; Pub. L. 95–43, §1(a)(15)–(17), June 15, 1977, 91 Stat. 214; Pub. L. 95–566, §5(b)(2), Nov. 1, 1978, 92 Stat. 2403; Pub. L. 96–374, title IV, §412(a), (b), (f), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1416, 1417, 1503; Pub. L. 97–35, title V, §535(a), (b), Aug. 13, 1981, 95 Stat. 455; Pub. L. 99–272, title XVI, §16013(e)(1), Apr. 7, 1986, 100 Stat. 341, limited Federal loan insurance, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 
@@ -138,7 +138,7 @@ Subsec. (a)(1)(C). Pub. L. 103–208, §2(c)(3), added subpar. (C).
 
 Subsec. (a)(2)(A). Pub. L. 102–325, §413(2), added cls. (i) and (ii) and concluding provision and struck out former cls. (i) and (ii) which read as follows:
 
-“(i) $17,250, in the case of any student who has not successfully completed a program of undergraduateeducation, excluding loans made under section 1078–1 or 1078–2 of this title; and
+“(i) $17,250, in the case of any student who has not successfully completed a program of undergraduate education, excluding loans made under section 1078–1 or 1078–2 of this title; and
 
 “(ii) $54,750, in the case of any graduate or professional student (as defined by regulations of the Secretary and including any loans which are insured by the Secretary under this part, or by a guaranty agency, made to such person before he or she became a graduate or professional student), excluding loans made under section 1078–1 or 1078–2 of this title.”
 

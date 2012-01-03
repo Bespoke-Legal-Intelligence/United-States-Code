@@ -38,7 +38,7 @@
 
 #### Part B—Additional Authorities of the Director
 
-I74subpart 1—general authority
+#### subpart 1—general authority
 
 |  |  |
 | :--- | ---: |
@@ -48,7 +48,8 @@ I74subpart 1—general authority
 | [4544\.](Subchapter%20001%20%28I%29%20-%20Supervision%20and%20Regulation%20of%20Enterprises/Part%20B%20-%20Additional%20Authorities%20of%20the%20Director/Subpart%20001%20-%20General%20Authority/%C2%A7%2004544%20-%20Annual%20housing%20report.md) | Annual housing report. |
 | [4545\.](Subchapter%20001%20%28I%29%20-%20Supervision%20and%20Regulation%20of%20Enterprises/Part%20B%20-%20Additional%20Authorities%20of%20the%20Director/Subpart%20001%20-%20General%20Authority/%C2%A7%2004545%20-%20Fair%20housing.md) | Fair housing. |
 | [4546\.](Subchapter%20001%20%28I%29%20-%20Supervision%20and%20Regulation%20of%20Enterprises/Part%20B%20-%20Additional%20Authorities%20of%20the%20Director/Subpart%20001%20-%20General%20Authority/%C2%A7%2004546%20-%20Prohibition%20of%20public%20disclosure%20of%20proprietary%20information.md) | Prohibition of public disclosure of proprietary information. |
-| 4547, 4548. Repealed. |  |
+| [4547\.](Subchapter%20001%20%28I%29%20-%20Supervision%20and%20Regulation%20of%20Enterprises/Part%20B%20-%20Additional%20Authorities%20of%20the%20Director/Subpart%20001%20-%20General%20Authority/%C2%A7%2004547%20-%20Enterprise%20guarantee%20fees.md) | Enterprise guarantee fees. |
+| [4548\.](Subchapter%20001%20%28I%29%20-%20Supervision%20and%20Regulation%20of%20Enterprises/Part%20B%20-%20Additional%20Authorities%20of%20the%20Director/Subpart%20001%20-%20General%20Authority/%C2%A7%2004548%20-%20Repealed.%20Pub.%20L.%20110%E2%80%93289%2C%20div.%20A%20%2C%20title%20I%2C%20%C2%A71104%28b%29%2C%20July%2030%2C%202008%2C%20122%20Stat.%202667.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

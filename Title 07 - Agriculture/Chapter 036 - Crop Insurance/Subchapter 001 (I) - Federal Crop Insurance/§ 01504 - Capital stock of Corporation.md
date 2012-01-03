@@ -20,25 +20,25 @@ Within thirty days after September 26, 1980, the Secretary of the Treasury shall
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–354, §102(b)(2)(A), (4)(C), struck out “of Agriculture” after “Secretary” and “of Directors of the Corporation” after “Board”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–354, §102(b)(2)(A), (4)(C), struck out “of Agriculture” after “Secretary” and “of Directors of the Corporation” after “Board”.
 
 Subsec. (d). Pub. L. 103–354, §102(b)(2)(B), struck out “Federal Crop Insurance” before “Corporation outstanding”.
 
-1980—Subsec. (a). Pub. L. 96–365, §101(a), substituted “$500,000,000” for “$200,000,000”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–365, §101(a), substituted “$500,000,000” for “$200,000,000”.
 
 Subsec. (d). Pub. L. 96–365, §101(b), added subsec. (d).
 
-1977—Subsec. (a). Pub. L. 95–181 substituted “$200,000,000” for “$150,000,000”.
+<b>1977</b>—Subsec. (a). Pub. L. 95–181 substituted “$200,000,000” for “$150,000,000”.
 
 Pub. L. 95–47 substituted “$150,000,000” for “$100,000,000”.
 
-1949—Subsec. (a). Act Aug. 25, 1949, §4, struck out second sentence relating to restoration of impairment of capital stock.
+<b>1949</b>—Subsec. (a). Act Aug. 25, 1949, §4, struck out second sentence relating to restoration of impairment of capital stock.
 
 Subsec. (b). Act Aug. 25, 1949, §6, authorized appropriations for subscribing to corporation's capital stock in order to offset losses suffered prior to time program was placed on an experimental basis in 1947.
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–354 effective Oct. 13, 1994, and applicable to provision of crop insurance underFederal Crop Insurance Act (7 U.S.C. 1501 et seq.) beginning with 1995 crop year, with such Act, as in effect on the day before Oct. 13, 1994, to continue to apply with respect to 1994 crop year, see section 120 of Pub. L. 103–354, set out as a note under section 1502 of this title.
+Amendment by Pub. L. 103–354 effective Oct. 13, 1994, and applicable to provision of crop insurance under Federal Crop Insurance Act (7 U.S.C. 1501 et seq.) beginning with 1995 crop year, with such Act, as in effect on the day before Oct. 13, 1994, to continue to apply with respect to 1994 crop year, see section 120 of Pub. L. 103–354, set out as a note under section 1502 of this title.
 
 #### Effective Date of 1980 Amendment
 

@@ -28,7 +28,7 @@ The purposes of this subchapter are—
 
 &emsp;(10) to leverage those funds insofar as practicable with State and local matching contributions and private investment;
 
-&emsp;(11) to establish for each participating jurisdiction a HOME Investment Trust Fund with a line of credit for investment in affordable housing, with repayments back to its HOME Investment Trust Fund being made available for reinvestment by the jurisdiction;
+&emsp;(11) to establish for each participating jurisdiction a HOME Investment Trust Fund with aline of credit for investment in affordable housing, with repayments back to its HOME Investment Trust Fund being made available for reinvestment by the jurisdiction;
 
 &emsp;(12) to provide credit enhancement for affordable housing by utilizing the capacities of existing agencies and mortgage finance institutions when most efficient and supplementing their activities when appropriate; and
 

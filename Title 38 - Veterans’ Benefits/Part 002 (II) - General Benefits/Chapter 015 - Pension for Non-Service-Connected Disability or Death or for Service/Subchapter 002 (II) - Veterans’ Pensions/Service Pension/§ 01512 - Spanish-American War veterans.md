@@ -1,6 +1,6 @@
 ### §1512. Spanish-American War veterans
 
-(a)(1) The Secretary shall pay to each veteran of the Spanish-American War who meets theservice requirements of this subsection a pension at the following monthly rate:
+(a)(1) The Secretary shall pay to each veteran of the Spanish-American War who meets the service requirements of this subsection a pension at the following monthly rate:
 
 &emsp;(A) $101.59; or
 
@@ -50,7 +50,7 @@ Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administ
 
 Subsec. (b)(1). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions.
 
-<b>1978</b>—Subsec. (a)(3)(A). Pub. L. 95–588, §105(1), inserted “(except the rate provided under subsection (g) of such section)” after “of this title”, substituted “a period of war” for “World War I”, and struck out exception to pension elections formerly provided pursuant to subpar. (B).
+<b>1978</b>—Subsec. (a)(3)(A). Pub. L. 95–588, §105(1), inserted “(except the rate provided under subsection (g) of such section)” after “of this title”, substituted “a period of war” for “World War I”, and struck out exception topension elections formerly provided pursuant to subpar. (B).
 
 Subsec. (a)(3)(B). Pub. L. 95–588, §105(2), substituted “as in effect on December 31, 1978, under regulations which the Administrator shall prescribe” for “if such veteran has elected, or would be payable if such veteran were to elect, to receive pension under such section pursuant to subparagraph (A) of this paragraph”.
 

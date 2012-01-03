@@ -2,65 +2,85 @@
 
 For purposes of this chapter—
 
-#### (1) Director
-
-&emsp;The term “Director” means the Director of the Office of Thrift Supervision.
-
-#### (2) Corporation
+#### (1) Corporation
 
 &emsp;The term “Corporation” means the Federal Deposit Insurance Corporation.
 
-#### (3) Office
-
-&emsp;The term “Office” means the Office of Thrift Supervision.
-
-#### (4) Savings association
+#### (2) Savings association
 
 &emsp;The term “savings association” means a savings association, as defined in section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\], the deposits of which are insured by the Corporation.
 
-#### (5) Federal savings association
+#### (3) Federal savings association
 
 &emsp;The term “Federal savings association” means a Federal savings association or a Federal savings bank chartered under section 1464 of this title.
 
-#### (6) National bank
+#### (4) National bank
 
 &emsp;The term “national bank” has the same meaning as in section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\].
 
-#### (7) Federal banking agencies
+#### (5) Federal banking agencies
 
 &emsp;The term “Federal banking agencies” means the Office of the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, and the Federal Deposit Insurance Corporation.
 
-#### (8) State
+#### (6) State
 
 &emsp;The term “State” has the same meaning as in section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\].
 
-#### (9) Affiliate
+#### (7) Affiliate
 
 &emsp;The term “affiliate” means any person that controls, is controlled by, or is under common control with, a savings association, except as provided in section 1467a of this title.
 
-(June 13, 1933, ch. 64, §2, 48 Stat. 128; June 27, 1934, ch. 847, title V, §508(a), 48 Stat. 1264; May 28, 1935, ch. 150, §10, 49 Stat. 296; 1947 Reorg. Plan No. 3, eff. July 27, 1947, 12 F.R. 4981, 61 Stat. 954; Aug. 11, 1955, ch. 783, title I, §109(a)(3), 69 Stat. 640; Pub. L. 95–630, title XII, §1201, Nov. 10, 1978, 92 Stat. 3710; Pub. L. 97–320, title I, §114(a), Oct. 15, 1982, 96 Stat. 1475; Pub. L. 101–73, title III, §301, Aug. 9, 1989, 103 Stat. 277.)
+#### (8) Board
+
+&emsp;The term “Board”, other than in the context of the Board of Directors of the Corporation, means the Board of Governors of the Federal Reserve System.
+
+#### (9) Comptroller
+
+&emsp;The term “Comptroller” means the Comptroller of the Currency.
+
+#### (10) Appropriate Federal banking agency
+
+&emsp;The term “appropriate Federal banking agency” has the same meaning as in section 3(q) of the Federal Deposit Insurance Act (12 U.S.C. 1813(q)).
+
+#### (11) Functionally regulated subsidiary
+
+&emsp;The term “functionally regulated subsidiary” has the same meaning as in section 5(c)(5) of the Bank Holding Company Act of 1956 (12 U.S.C. 1844(c)(5)).
+
+(June 13, 1933, ch. 64, §2, 48 Stat. 128; June 27, 1934, ch. 847, title V, §508(a), 48 Stat. 1264; May 28, 1935, ch. 150, §10, 49 Stat. 296; 1947 Reorg. Plan No. 3, eff. July 27, 1947, 12 F.R. 4981, 61 Stat. 954; Aug. 11, 1955, ch. 783, title I, §109(a)(3), 69 Stat. 640; Pub. L. 95–630, title XII, §1201, Nov. 10, 1978, 92 Stat. 3710; Pub. L. 97–320, title I, §114(a), Oct. 15, 1982, 96 Stat. 1475; Pub. L. 101–73, title III, §301, Aug. 9, 1989, 103 Stat. 277; Pub. L. 111–203, title III, §369(2), title VI, §604(h)(1), July 21, 2010, 124 Stat. 1557, 1602.)
 
 #### Amendments
 
-1989—Pub. L. 101–73 amended section generally, substituting definition of “Director”, “Corporation”, “Office”, “savings association”, “Federal savings association”, “national bank”, “Federal banking agencies”, “State”, and “affiliate”, designated as pars. (1) to (9), for definition of “Board”, “Corporation”, “home mortgage”, “first mortgage”, and “association”, designated as subsecs. (a) to (d).
+<b>2010</b>—Pars. (1) to (9). Pub. L. 111–203, §369(2), redesignated pars. (2) and (4) to (9) as (1) and (2) to (7), respectively, added pars. (8) and (9), and struck out former pars. (1) and (3) which read as follows:
 
-1982—Subsec. (d). Pub. L. 97–320 substituted reference to Federal savings bank or Federal savings banks for reference to Federal mutual savings bank wherever appearing.
+“(1)
 
-1978—Subsec. (d). Pub. L. 95–630 included a Federal mutual savings bank chartered by the Board within definition of “association”, and inserted provisions that a reference to a Federal savings and loan association shall be deemed also a reference to a Federal mutual savings bank.
+Director.—The term ‘Director’ means the Director of the Office of Thrift Supervision.
 
-1935—Subsec. (c). Act May 28, 1935, inserted “or dwellings” and “in whole or in part” in cl. (2).
+“(3)
 
-1934—Subsec. (c). Act June 27, 1934, substituted “(1) under a lease for not less than ninety-nine years which is renewable, or (2) under a lease having a period of not less than fifty years to run from the date the mortgage was executed” for “under a lease renewable for not less than ninety nine years”.
+Office.—The term ‘Office’ means the Office of Thrift Supervision.”
 
-#### Change of Name
+Pars. (10), (11). Pub. L. 111–203, §604(h)(1), added pars. (10) and (11).
 
-“Home Loan Bank Board” changed to “Federal Home Loan Bank Board” by act Aug. 11, 1955, ch. 783, §109(a)(3), which was classified to section 1437(b) of this title prior to the repeal of section 1437 by Pub. L. 101–73, title VII, §703(a), Aug. 9, 1989, 103 Stat. 415.
+<b>1989</b>—Pub. L. 101–73 amended section generally, substituting definition of “Director”, “Corporation”, “Office”, “savings association”, “Federal savings association”, “national bank”, “Federal banking agencies”, “State”, and “affiliate”, designated as pars. (1) to (9), for definition of “Board”, “Corporation”, “home mortgage”, “first mortgage”, and “association”, designated as subsecs. (a) to (d).
+
+<b>1982</b>—Subsec. (d). Pub. L. 97–320 substituted reference to Federal savings bank or Federal savings banks for reference to Federal mutual savings bank wherever appearing.
+
+<b>1978</b>—Subsec. (d). Pub. L. 95–630 included a Federal mutual savings bank chartered by the Board within definition of “association”, and inserted provisions that a reference to a Federal savings and loan association shall be deemed also a reference to a Federal mutual savings bank.
+
+<b>1935</b>—Subsec. (c). Act May 28, 1935, inserted “or dwellings” and “in whole or in part” in cl. (2).
+
+<b>1934</b>—Subsec. (c). Act June 27, 1934, substituted “(1) under a lease for not less than ninety-nine years which is renewable, or (2) under a lease having a period of not less than fifty years to run from the date the mortgage was executed” for “under a lease renewable for not less than ninety nine years”.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by section 369(2) of Pub. L. 111–203 effective on the transfer date, see section 351 of Pub. L. 111–203, set out as a note under section 906 of Title 2, The Congress.
+
+Pub. L. 111–203, title VI, §604(j), July 21, 2010, 124 Stat. 1604, provided that: “The amendments made by this section \[amending this section and sections 1467a, 1828, and 1842 to 1844 of this title and repealing section 1848a of this title\] shall take effect on the transfer date.”
+
+\[For definition of “transfer date” as used in section 604(j) of Pub. L. 111–203, set out above, see section 5411 of this title.\]
 
 #### Effective Date of 1978 Amendment
 
 Amendment effective upon expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630 set out as an Effective Date note under section 375b of this title.
-
-#### Transfer of Functions
-
-Reorg. Plan No. 3 of 1947, set out in the Appendix to Title 5, Government Organization and Employees, abolished Federal Home Loan Bank Board and transferred its functions to Home Loan Bank Board created by the Plan.
 

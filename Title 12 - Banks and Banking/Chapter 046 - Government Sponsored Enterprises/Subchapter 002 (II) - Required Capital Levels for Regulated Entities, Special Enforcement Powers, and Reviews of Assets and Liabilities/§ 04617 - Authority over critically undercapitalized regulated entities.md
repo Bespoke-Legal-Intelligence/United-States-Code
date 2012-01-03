@@ -88,7 +88,7 @@
 
 &emsp;&emsp;The Director shall appoint the Agency as receiver for a regulated entity if the Director determines, in writing, that—
 
-&emsp;&emsp;&emsp;(i) the assets of the regulated entity are, and during the preceding 60 calendar days have been, less than the obligations of the regulated entity to its creditors and others; or
+&emsp;&emsp;&emsp;(i) the assets of the regulated entity are, and during the preceding 60 calendar dayshave been, less than the obligations of the regulated entity to its creditors and others; or
 
 &emsp;&emsp;&emsp;(ii) the regulated entity is not, and during the preceding 60 calendar days has not been, generally paying the debts of the regulated entity (other than debts that are the subject of a bona fide dispute) as such debts become due.
 
@@ -198,7 +198,7 @@
 
 #### (ii) Subpoena
 
-&emsp;&emsp;&emsp;A subpoena or subpoena duces tecum may be issued under clause (i) only by, orwith the written approval of, the Director, or the designee of the Director.
+&emsp;&emsp;&emsp;A subpoena or subpoena duces tecum may be issued under clause (i) only by, or with the written approval of, the Director, or the designee of the Director.
 
 #### (iii) Rule of construction
 
@@ -254,7 +254,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Before the end of the 180-day period beginning on the date on which any claim against a regulated entity is filed with the Agency as receiver, the Agency shall determine whether to allow or disallow the claim and shall notify the claimant of any determination with respect to such claim.
+&emsp;&emsp;&emsp;Before the end of the 180-day period beginning on the date on which any claimagainst a regulated entity is filed with the Agency as receiver, the Agency shall determine whether to allow or disallow the claim and shall notify the claimant of any determination with respect to such claim.
 
 #### (ii) Extension of time
 
@@ -342,7 +342,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Agency shall establish such alternative dispute resolution processes as may be appropriate for the resolution of claims filed under paragraph (5)(A)(i).
+&emsp;&emsp;&emsp;The Agency shall establish such alternative dispute resolution processes as maybe appropriate for the resolution of claims filed under paragraph (5)(A)(i).
 
 #### (ii) Criteria
 
@@ -518,7 +518,7 @@
 
 #### (B) Annual accounting or report
 
-&emsp;&emsp;With respect to each conservatorship or receivership, the Agency shall make an annual accounting or report available to the Board, the Comptroller General of the United States, the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Committee on Financial Services of the House of Representatives.
+&emsp;&emsp;With respect to each conservatorship or receivership, the Agency shall make an annual accounting or report available to the Board, the Comptroller General of theUnited States, the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Committee on Financial Services of the House of Representatives.
 
 #### (C) Availability of reports
 
@@ -590,7 +590,7 @@
 
 #### (iii) Liability of conservator or receiver
 
-&emsp;&emsp;&emsp;The liability of the conservator or receiver appointed under this section for damages shall, in the case of any contingent or unliquidated claim relating to the mortgages held in trust, be estimated in accordance with the regulations of the Director.
+&emsp;&emsp;&emsp;The liability of the conservator or receiver appointed under this section fordamages shall, in the case of any contingent or unliquidated claim relating to the mortgages held in trust, be estimated in accordance with the regulations of the Director.
 
 #### (c) Priority of expenses and unsecured claims
 
@@ -710,7 +710,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) may offset against any rent payment which accrues after the date of the repudiation of the lease, and any damages which accrue after such date due to the nonperformance of any obligation of the regulated entity under the lease after such date; and
 
-&emsp;&emsp;&emsp;(ii) the conservator or receiver shall not be liable to the lessee for any damagesarising after such date as a result of the repudiation, other than the amount of any offset allowed under clause (i)(II).
+&emsp;&emsp;&emsp;(ii) the conservator or receiver shall not be liable to the lessee for any damages arising after such date as a result of the repudiation, other than the amount of any offset allowed under clause (i)(II).
 
 #### (6) Contracts for the sale of real property
 
@@ -826,7 +826,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(VIII) means any option to enter into any agreement or transaction referred to in this clause;
 
-&emsp;&emsp;&emsp;&emsp;(IX) means a master agreement that provides for an agreement or transaction referred to in subclause (I), (III), (IV), (V), (VI), (VII), or (VIII), together with all supplements to any such master agreement, without regard to whether the master agreement provides for an agreement or transaction that is not a securities contract under this clause, except that the master agreement shall be considered to be a securities contract under this clause only with respect to each agreement or transaction under the master agreement that is referred to in subclause (I), (III), (IV), (V), (VI), (VII), or (VIII); and
+&emsp;&emsp;&emsp;&emsp;(IX) means a master agreement that provides for an agreement or transaction referred to in subclause (I), (III), (IV), (V), (VI), (VII), or (VIII), together with all supplements to any such master agreement, without regard to whether the master agreement provides for an agreement or transaction that is not a securities contract under this clause, except that the master agreement shall beconsidered to be a securities contract under this clause only with respect to each agreement or transaction under the master agreement that is referred to in subclause (I), (III), (IV), (V), (VI), (VII), or (VIII); and
 
 &emsp;&emsp;&emsp;&emsp;(X) means any security agreement or arrangement or other credit enhancement related to any agreement or transaction referred to in this clause, including any guarantee or reimbursement obligation in connection with any agreement or transaction referred to in this clause.
 
@@ -872,7 +872,7 @@
 
 &emsp;&emsp;&emsp;The term “repurchase agreement” (including a reverse repurchase agreement)—
 
-&emsp;&emsp;&emsp;&emsp;(I) means an agreement, including related terms, which provides for the transfer of one or more certificates of deposit, mortgage-related securities (as such term is defined in section 78c of title 15), mortgage loans, interests in mortgage-related securities or mortgage loans, eligible bankers’ acceptances, qualified foreign government securities (defined for purposes of this clause as a security that is a direct obligation of, or that is fully guaranteed by, the central government of a member of the Organization for Economic Cooperation and Development, as determined by regulation or order adopted by the appropriate Federal banking authority), or securities that are direct obligations of, or that are fully guaranteed by, the United States or any agency of the United States against the transfer of funds by the transferee of such certificates of deposit, eligible bankers’ acceptances, securities, mortgage loans, or interests with a simultaneous agreement by such transferee to transfer to the transferor thereof certificates of deposit, eligible bankers’ acceptances, securities, mortgage loans, or interests as described above, at a date certain not later than 1 year after such transfers or on demand, against the transfer of funds, or any other similar agreement;
+&emsp;&emsp;&emsp;&emsp;(I) means an agreement, including related terms, which provides for the transfer of one or more certificates of deposit, mortgage-related securities (as such term is defined in section 78c of title 15), mortgage loans, interests in mortgage-related securities or mortgage loans, eligible bankers’ acceptances, qualified foreign government securities (defined for purposes of this clause as a security that is a direct obligation of, or that is fully guaranteed by, the central government of a member of the Organization for Economic Cooperation and Development, as determined by regulation or order adopted by the appropriate Federal banking authority), or securities that are direct obligations of, or that are fully guaranteed by, the United States or any agency of the United States against the transfer of funds by the transferee of such certificates of deposit, eligiblebankers’ acceptances, securities, mortgage loans, or interests with a simultaneous agreement by such transferee to transfer to the transferor thereof certificates of deposit, eligible bankers’ acceptances, securities, mortgage loans, or interests as described above, at a date certain not later than 1 year after such transfers or on demand, against the transfer of funds, or any other similar agreement;
 
 &emsp;&emsp;&emsp;&emsp;(II) does not include any repurchase obligation under a participation in a commercial mortgage loan, unless the Agency determines by regulation, resolution, or order to include any such participation within the meaning of such term;
 
@@ -994,7 +994,7 @@
 
 #### (12) Certain security interests not avoidable
 
-&emsp;No provision of this subsection shall be construed as permitting the avoidance of any legally enforceable or perfected security interest in any of the assets of any regulated entity, except where such an interest is taken in contemplation of the insolvency of the regulated entity, or with the intent to hinder,delay, or defraud the regulated entity or the creditors of such regulated entity.
+&emsp;No provision of this subsection shall be construed as permitting the avoidance of any legally enforceable or perfected security interest in any of the assets of any regulated entity, except where such an interest is taken in contemplation of the insolvency of the regulated entity, or with the intent to hinder, delay, or defraud the regulated entity or the creditors of such regulated entity.
 
 #### (13) Authority to enforce contracts
 
@@ -1046,7 +1046,7 @@
 
 #### (2) Maximum liability
 
-&emsp;The maximum liability of the Agency, acting as receiver or in any other capacity, to any person having a claim against the receiver or the regulated entity for which such receiver is appointed shall be not more than the amount that such claimant would have received if the Agency had liquidated the assets and liabilities of the regulated entity without exercising the authority of the Agency under subsection (i).
+&emsp;The maximum liability of the Agency, acting as receiver or in any other capacity, to any person having a claim against the receiver or the regulated entity for which such receiver is appointed shall be not more than the amount that such claimant would have received if the Agency had liquidated the assets and liabilities of the regulated entity withoutexercising the authority of the Agency under subsection (i).
 
 #### (f) Limitation on court action
 
@@ -1072,7 +1072,7 @@ Except as provided in this section or at the request of the Director, no court m
 
 #### (h) Damages
 
-In any proceeding related to any claim against a director, officer, employee, agent, attorney, accountant, appraiser, or any other party employed by or providing services to a regulatedentity, recoverable damages determined to result from the improvident or otherwise improper use or investment of any assets of the regulated entity shall include principal losses and appropriate interest.
+In any proceeding related to any claim against a director, officer, employee, agent, attorney, accountant, appraiser, or any other party employed by or providing services to a regulated entity, recoverable damages determined to result from the improvident or otherwise improper use or investment of any assets of the regulated entity shall include principal losses and appropriate interest.
 
 #### (i) Limited-life regulated entities
 
@@ -1120,7 +1120,7 @@ In any proceeding related to any claim against a director, officer, employee, ag
 
 &emsp;&emsp;Notwithstanding subparagraph (A) or any other provision of law—
 
-&emsp;&emsp;&emsp;(i) a limited-life regulated entity shall assume, acquire, or succeed to the assets or liabilities of a regulated entity only to the extent that such assets or liabilities are transferred by the Agency to the limited-life regulated entity in accordance with, and subject to the restrictions set forth in, paragraph (1)(B);
+&emsp;&emsp;&emsp;(i) a limited-life regulated entity shall assume, acquire, or succeed to the assets or liabilities of a regulated entity only to the extent that such assets or liabilitiesare transferred by the Agency to the limited-life regulated entity in accordance with, and subject to the restrictions set forth in, paragraph (1)(B);
 
 &emsp;&emsp;&emsp;(ii) a limited-life regulated entity shall not assume, acquire, or succeed to any obligation that a regulated entity for which a receiver has been appointed may have to any shareholder of the regulated entity that arises as a result of the status of that person as a shareholder of the regulated entity; and
 
@@ -1338,13 +1338,13 @@ The Commodity Exchange Act, referred to in subsec. (d)(14), is act Sept. 21, 192
 
 The Federal National Mortgage Association Charter Act, referred to in subsec. (i)(2)(A)(i)(I), is title III of act June 27, 1934, ch. 847, 48 Stat. 1252, which is classified generally to subchapter III (§1716 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1716 of this title and Tables.
 
-This Act, referred to in subsec. (i)(2)(A)(i)(II), (ii)(II), is Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3672, known as the Housing and Community Development Act of 1992. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under section 5301 of Title 42, The Public Health and Welfare, and Tables.
+This Act, referred to in subsec. (i)(2)(A)(i)(II), (ii)(II), is Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3672, known asthe Housing and Community Development Act of 1992. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under section 5301 of Title 42, The Public Health and Welfare, and Tables.
 
 The Federal Home Loan Mortgage Corporation Charter Act, referred to in subsec. (i)(2)(A)(ii)(I), probably means the Federal Home Loan Mortgage Corporation Act, title III of Pub. L. 91–351, July 24, 1970, 84 Stat. 451, which is classified generally to chapter 11A (§1451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title and Statement of Purpose note set out under section 1451 of this title and Tables.
 
 #### Amendments
 
-2008—Pub. L. 110–289 amended section generally. Prior to amendment, section related to appointment of conservators for critically undercapitalized enterprises.
+<b>2008</b>—Pub. L. 110–289 amended section generally. Prior to amendment, section related to appointment of conservators for critically undercapitalized enterprises.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

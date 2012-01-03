@@ -46,7 +46,7 @@ Any person required to collect, truthfully account for, and pay over any tax imp
 
 #### (3) Bond
 
-&emsp;The bond referred to in paragraph (1) shall be in such form and with such sureties as the Secretary may by regulations prescribe and shall be in an amount equal to 11/2 times the amount of excess of the penalty assessed over the payment described in paragraph (1).
+&emsp;The bond referred to in paragraph (1) shall be in such form and with such sureties as the Secretary may by regulations prescribe and shall be in an amount equal to 1½ times the amount of excess of the penalty assessed over the payment described in paragraph (1).
 
 #### (4) Suspension of running of period of limitations on collection
 
@@ -76,7 +76,7 @@ No penalty shall be imposed by subsection (a) on any unpaid, volunteer member of
 
 > The preceding sentence shall not apply if it results in no person being liable for the penalty imposed by subsection (a).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 828; Pub. L. 95–628, §9(a), Nov. 10, 1978, 92 Stat. 3633; Pub. L. 101–239, title VII, §§7721(c)(9), 7737(a), Dec. 19,1989, 103 Stat. 2400, 2404; Pub. L. 104–168, title IX, §§901(a), 903(a), 904(a), July 30, 1996, 110 Stat. 1465–1467; Pub. L. 105–206, title III, §3307(a), (b), July 22, 1998, 112 Stat. 744.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 828; Pub. L. 95–628, §9(a), Nov. 10, 1978, 92 Stat. 3633; Pub. L. 101–239, title VII, §§7721(c)(9), 7737(a), Dec. 19, 1989, 103 Stat. 2400, 2404; Pub. L. 104–168, title IX, §§901(a), 903(a), 904(a), July 30, 1996, 110 Stat. 1465–1467; Pub. L. 105–206, title III, §3307(a), (b), July 22, 1998, 112 Stat. 744.)
 
 #### References in Text
 

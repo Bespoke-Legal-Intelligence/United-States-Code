@@ -52,7 +52,7 @@ Pub. L. 99–500, title III, §301(a), Oct. 18, 1986, 100 Stat. 1783–359, and 
 
 #### Short Title of 1978 Amendment
 
-Pub. L. 95–627, §1, Nov. 10, 1978, 92 Stat. 3603, provided: “That this Act \[enacting section 1769c of this title, amending sections 1755, 1757, 1758, 1759a to 1761, 1762a, 1766, 1769, 1772 to 1774, 1776, 1784, and 1786 of this title, and enacting provisions set out as notes under sections1755, 1773 and 1786 of this title\] may be cited as the ‘Child Nutrition Amendments of 1978’.”
+Pub. L. 95–627, §1, Nov. 10, 1978, 92 Stat. 3603, provided: “That this Act \[enacting section 1769c of this title, amending sections 1755, 1757, 1758, 1759a to 1761, 1762a, 1766, 1769, 1772 to 1774, 1776, 1784, and 1786 of this title, and enacting provisions set out as notes under sections 1755, 1773 and 1786 of this title\] may be cited as the ‘Child Nutrition Amendments of 1978’.”
 
 #### Short Title of 1977 Amendment
 
@@ -110,7 +110,7 @@ Regulations.—After conducting the study under subsection (b)(1) and identifyin
 
 “(d)
 
-Report.—Not later than October 1, 2013, the Secretary shall submit to the Committee on Education and Labor of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the results of the study under subsection (b).
+Report.—Not later than October 1, 2013, the Secretary shall submit to the Committee on Education andLabor of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the results of the study under subsection (b).
 
 “(e)
 
@@ -188,15 +188,15 @@ Plan and Recommendations.—
 
 &emsp;“(1)
 
-Plan for consolidation and simplification.—Not later than 180 days prior to implementing the regulations described in subsection (a), the Secretary shall prepare and submit to the Committee on Education and Labor of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a plan for the consolidation and simplification of the school lunch program and the school breakfast program.
+Plan for consolidation and simplification.—Not later than 180 days prior to implementing the regulations described in subsection (a), the Secretary shall prepare and submit to the Committee on Education and Labor \[now Committee on Education and the Workforce\] of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a plan for the consolidation and simplification of the school lunch program and the school breakfast program.
 
 &emsp;“(2)
 
-Recommendations with respect to change in payment amounts.—If the Secretary proposes to change the amount of the breakfast assistance payment or the food assistance payment under the comprehensive meal program, the Secretary shall not include the change in the consolidation and shall prepare and submit to the Committee on Education and Labor, and the Committee on Agriculture, of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate recommendations for legislation to effect the change.”
+Recommendations with respect to change in payment amounts.—If the Secretary proposes to change the amount of the breakfast assistance payment or the food assistance payment under the comprehensive meal program, the Secretary shall not include the change in the consolidation and shall prepare and submit to the Committee on Education and Labor \[now Committee on Education and the Workforce\], and the Committee on Agriculture, of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate recommendations for legislation to effect the change.”
 
 #### Study and Report Relating to Use of Private Food Establishments and Caterers Under School Lunch Program and School Breakfast Program
 
-Pub. L. 103–448, title III, §302, Nov. 2, 1994, 108 Stat. 4750, directed Comptroller General of the United States, in conjunction with the Director of the Office of Technology Assessment, to conduct a study and submit a report to Congress, not later than Sept. 1, 1996, on the use of private food establishments and caterers by schools that participate in the school lunch program under this chapter or the school breakfast program under section 1773 of this title.
+Pub. L. 103–448, title III, §302, Nov. 2, 1994, 108 Stat. 4750, directed Comptroller General of the United States, in conjunction with the Director of the Office of Technology Assessment, to conduct a study and submit a report to Congress, not later than Sept. 1, 1996, on the use of private food establishments and caterers by schoolsthat participate in the school lunch program under this chapter or the school breakfast program under section 1773 of this title.
 
 #### School Lunch Studies
 

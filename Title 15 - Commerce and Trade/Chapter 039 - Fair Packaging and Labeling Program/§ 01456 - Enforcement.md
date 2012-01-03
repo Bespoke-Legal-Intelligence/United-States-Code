@@ -10,11 +10,11 @@ Any violation of any of the provisions of this chapter, or the regulations issue
 
 #### (c) Imports
 
-In the case of any imports into the United States of any consumer commodity covered by this chapter, the provisions of sections 1453 and 1454 of this title shall be enforced by the Secretary of the Treasury pursuant to section 801(a) and (b) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 381).
+In the case of any imports into the United States of any consumer commodity covered bythis chapter, the provisions of sections 1453 and 1454 of this title shall be enforced by the Secretary of the Treasury pursuant to section 801(a) and (b) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 381).
 
 (Pub. L. 89–755, §7, Nov. 3, 1966, 80 Stat. 1300.)
 
 #### References in Text
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (a) and (c), is act June 25, 1938, ch. 675, 52Stat. 1040, as amended. Chapter III of the Act is classified generally to subchapter III (§331 et seq.) of chapter 9 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (a) and (c), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended. Chapter III of the Act is classified generally to subchapter III (§331 et seq.) of chapter 9 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 

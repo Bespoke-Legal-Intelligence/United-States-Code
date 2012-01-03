@@ -36,7 +36,7 @@ Notwithstanding the other provisions of this section or any other provision of l
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–351, §602(b)(3)(A), inserted “as permissible under subsection (c), (d), or (e) or” after “Except” in introductory provisions.
+<b>2006</b>—Subsec. (b). Pub. L. 109–351, §602(b)(3)(A), inserted “as permissible under subsection (c), (d), or (e) or” after “Except” in introductory provisions.
 
 Subsec. (c). Pub. L. 109–351, §602(b)(3)(B), inserted “or State savings association” after “State bank” wherever appearing.
 
@@ -46,9 +46,9 @@ Subsec. (e). Pub. L. 109–351, §602(b)(3)(D), inserted heading and amended tex
 
 Subsec. (f). Pub. L. 109–351, §602(b)(3)(E), inserted “or savings associations” after “location of banks”.
 
-1999—Subsec. (f). Pub. L. 106–102 inserted before period at end “as of the day before November 12, 1999”.
+<b>1999</b>—Subsec. (f). Pub. L. 106–102 inserted before period at end “as of the day before November 12, 1999”.
 
-1996—Pub. L. 104–208, §2613(e)(5), substituted “company” for “corporation” in section catchline.
+<b>1996</b>—Pub. L. 104–208, §2613(e)(5), substituted “company” for “corporation” in section catchline.
 
 Subsec. (a). Pub. L. 104–208, §2613(e)(1), substituted “company” for “corporation” in two places.
 
@@ -60,9 +60,9 @@ Subsec. (e). Pub. L. 104–208, §2613(e)(1), (4), substituted “company” for
 
 Subsec. (f). Pub. L. 104–208, §2613(e)(1), substituted “company” for “corporation”.
 
-1983—Subsecs. (d), (e). Pub. L. 97–457 substituted “under the law of the United States” for “under this chapter”.
+<b>1983</b>—Subsecs. (d), (e). Pub. L. 97–457 substituted “under the law of the United States” for “under this chapter”.
 
-1982—Pub. L. 97–320 substituted provisions relating to bank service corporation activities for other persons for provisions which read: “No bank service corporation may engage in any activity other than the performance of bank services for banks.”
+<b>1982</b>—Pub. L. 97–320 substituted provisions relating to bank service corporation activities for other persons for provisions which read: “No bank service corporation may engage in any activity other than the performance of bank services for banks.”
 
 #### Effective Date of 1999 Amendment
 

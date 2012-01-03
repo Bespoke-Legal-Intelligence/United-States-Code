@@ -56,7 +56,7 @@ The Secretary may not make a grant under subsection (a) of this section unless t
 
 #### (C) Consortium
 
-&emsp;&emsp;The condition specified in this subparagraph is that, in accordance with subsection (e)(1) of this section, the designated health profession school involved has with other health profession schools (designated or otherwise) formed a consortium to carry out the purposes described in subsection (b) of this section at the schools of the consortium.
+&emsp;&emsp;The condition specified in this subparagraph is that, in accordance with subsection\(e)(1) of this section, the designated health profession school involved has with other health profession schools (designated or otherwise) formed a consortium to carry out the purposes described in subsection (b) of this section at the schools of the consortium.
 
 #### (D) Application of criteria to other programs
 
@@ -204,7 +204,7 @@ In this section:
 
 #### (C) Funding in excess of $30,000,000
 
-&emsp;&emsp;If amounts appropriated under subsection (i) for a fiscal year exceed $30,000,000 but are less than $40,000,000, the Secretary shall make available—
+&emsp;&emsp;If amounts appropriated under subsection (i) for a fiscal year exceed $30,000,000 but areless than $40,000,000, the Secretary shall make available—
 
 &emsp;&emsp;&emsp;(i) not less than $12,000,000 for grants under subsection (a) to health professions schools that meet the conditions described in subsection (c)(2)(A);
 

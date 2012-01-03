@@ -18,7 +18,7 @@
 
 #### (b) Notification to Congress
 
-Within sixty days following certification by the Secretary of Commerce or the Secretary of the Interior, the President shall notify the Congress of any action taken by him pursuant to such certification. In the event the President fails to direct the Secretary of the Treasury to prohibit the importation of fish products or wildlife products of the offending country, or if such prohibition does not cover all fish products or wildlife products of the offending country, the President shall inform the Congress of the reasons therefor.
+Within sixty days following certification by the Secretary of Commerce or the Secretary of the Interior, the President shall notify the Congress of any action taken by him pursuant to such certification. In the event the President fails to direct the Secretary of the Treasury to prohibit the importation of fish products or wildlife products of the offending country, or if such prohibition does not cover all fish products or wildlife products of the offending country,the President shall inform the Congress of the reasons therefor.
 
 #### (c) Importation of fish products from offending country prohibited
 
@@ -90,7 +90,7 @@ Subsec. (h)(2). Pub. L. 102–582, §201(b)(1), amended par. (2) generally. Prio
 
 Subsec. (h)(3). Pub. L. 102–582, §201(b)(2), inserted “bilateral or” before “multilateral” and “, including marine mammals” before period at end.
 
-Subsec. (h)(4). Pub. L. 102–582, §201(b)(3), (4), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “The term ‘fish products’ means anyaquatic species (including marine mammals and plants) and all products thereof exported from an offending country, whether or not taken by fishing vessels of such country, or packed, processed, or otherwise prepared for export in such country or within the jurisdiction thereof.”
+Subsec. (h)(4). Pub. L. 102–582, §201(b)(3), (4), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “The term ‘fish products’ means any aquatic species (including marine mammals and plants) and all products thereof exported from an offending country, whether or not taken by fishing vessels of such country, or packed, processed, or otherwise prepared for export in such country or within the jurisdiction thereof.”
 
 Subsec. (h)(5). Pub. L. 102–582, §201(b)(5), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The term ‘taking’ means—
 

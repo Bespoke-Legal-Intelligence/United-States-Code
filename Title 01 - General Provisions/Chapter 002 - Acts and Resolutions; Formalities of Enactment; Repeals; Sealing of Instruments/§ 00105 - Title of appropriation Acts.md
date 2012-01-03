@@ -6,7 +6,7 @@ The style and title of all Acts making appropriations for the support of Governm
 
 #### Amendments
 
-1974—Pub. L. 93–344 substituted “September 30” for “June 30”.
+<b>1974</b>—Pub. L. 93–344 substituted “September 30” for “June 30”.
 
 #### Effective Date of 1974 Amendment
 

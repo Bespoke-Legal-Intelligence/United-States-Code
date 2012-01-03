@@ -6,13 +6,13 @@ General Rule.—Notwithstanding any other provision of law but subject to subsec
 
 (b)
 
-Application to Certain Set-Asides.—No funds may be transferred under this section that are subject to the last sentence of section 133(d)(1) <sup>1</sup> or to section 104(f) or to section 133(d)(3). The maximum amount that a State may transfer under this section of the State's set-aside under section 133(d)(1) <sup>1</sup> or 133(d)(2) for a fiscal year may not exceed 25 percent of (1) the amount of such set-aside, less (2) the amount of the State's set-aside under such section for fiscal year 1997.
+Application to Certain Set-Asides.—No funds may be transferred under this section thatare subject to the last sentence of section 133(d)(1) <sup>1</sup> or to section 104(f) or to section 133(d)(3). The maximum amount that a State may transfer under this section of the State's set-aside under section 133(d)(1) <sup>1</sup> or 133(d)(2) for a fiscal year may not exceed 25 percent of (1) the amount of such set-aside, less (2) the amount of the State's set-aside under such section for fiscal year 1997.
 
 (c)
 
 Application to Certain CMAQ Funds.—The maximum amount that a State may transfer under this section of the State's apportionment under section 104(b)(2) for a fiscal year may not exceed 50 percent of (1) the amount of such apportionment, less (2) the amount that the State's apportionment under section 104(b)(2) for such fiscal year would have been had the program been funded at $1,350,000,000. Any such funds apportioned under section 104(b)(2) and transferred under this section may only be obligated in geographic areas eligible for the obligation of funds apportioned under section 104(b)(2).
 
-(Added Pub. L. 105–178, title I, §1310(a), June 9, 1998, 112 Stat. 234, §110; renumbered §126, Pub. L. 106–159, title I, §102(a)(1), Dec. 9, 1999, 113 Stat.1752; amended Pub. L. 109–59, title I, §1401(a)(3)(B), Aug. 10, 2005, 119 Stat. 1225.)
+(Added Pub. L. 105–178, title I, §1310(a), June 9, 1998, 112 Stat. 234, §110; renumbered §126, Pub. L. 106–159, title I, §102(a)(1), Dec. 9, 1999, 113 Stat. 1752; amended Pub. L. 109–59, title I, §1401(a)(3)(B), Aug. 10, 2005, 119 Stat. 1225.)
 
 #### References in Text
 

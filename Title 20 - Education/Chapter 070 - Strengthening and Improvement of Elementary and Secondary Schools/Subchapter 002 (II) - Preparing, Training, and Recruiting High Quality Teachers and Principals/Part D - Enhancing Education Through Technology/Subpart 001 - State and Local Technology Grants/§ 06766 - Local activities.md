@@ -14,7 +14,7 @@
 
 &emsp;&emsp;&emsp;(ii) to retrieve Internet-based learning resources; and
 
-&emsp;&emsp;(C) to lead to improvements in classroom instruction in the core academic subjects, that effectively prepare students to meet challenging State academic content standards, including increasing student technology literacy, and student academic achievement standards.
+&emsp;&emsp;(C) to lead to improvements in classroom instruction in the core academic subjects,that effectively prepare students to meet challenging State academic content standards, including increasing student technology literacy, and student academic achievement standards.
 
 #### (2) Waivers
 

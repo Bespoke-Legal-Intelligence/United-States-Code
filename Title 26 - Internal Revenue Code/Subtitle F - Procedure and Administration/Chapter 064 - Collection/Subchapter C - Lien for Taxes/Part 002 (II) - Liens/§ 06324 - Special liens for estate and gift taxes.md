@@ -10,7 +10,7 @@ Except as otherwise provided in subsection (c)—
 
 #### (2) Liability of transferees and others
 
-&emsp;If the estate tax imposed by chapter 11 is not paid when due, then the spouse, transferee, trustee (except the trustee of an employees’ trust which meets the requirements of section 401(a)), surviving tenant, person in possession of the property by reason of the exercise, nonexercise, or release of a power of appointment, or beneficiary, who receives, or has on the date of the decedent's death, property included in the gross estate under sections 2034 to 2042, inclusive, to the extent of the value, at the time of the decedent's death, of such property, shall be personally liable for such tax. Any part of such property transferred by (or transferred by a transferee of) such spouse, transferee, trustee, surviving tenant, person in possession, or beneficiary, to a purchaser or holder of a security interest shall be divested of the lien provided in paragraph (1) and a like lien shall then attach to all the property of such spouse, transferee, trustee, surviving tenant, person in possession, or beneficiary, or transferee of any such person, except any part transferred to a purchaser or a holder of a security interest.
+&emsp;If the estate tax imposed by chapter 11 is not paid when due, then the spouse, transferee, trustee (except the trustee of an employees’ trust which meets the requirements of section 401(a)), surviving tenant, person in possession of the property by reason of the exercise, nonexercise, or release of a power of appointment, or beneficiary, who receives, or has on thedate of the decedent's death, property included in the gross estate under sections 2034 to 2042, inclusive, to the extent of the value, at the time of the decedent's death, of such property, shall be personally liable for such tax. Any part of such property transferred by (or transferred by a transferee of) such spouse, transferee, trustee, surviving tenant, person in possession, or beneficiary, to a purchaser or holder of a security interest shall be divested of the lien provided in paragraph (1) and a like lien shall then attach to all the property of such spouse, transferee, trustee, surviving tenant, person in possession, or beneficiary, or transferee of any such person, except any part transferred to a purchaser or a holder of a security interest.
 
 #### (3) Continuance after discharge of fiduciary
 
@@ -58,7 +58,7 @@ Amendment by section 102(d)(7) of Pub. L. 91–614 applicable with respect to gi
 
 #### Effective Date of 1966 Amendment
 
-Amendment by Pub. L. 89–719 applicable after Nov. 2, 1966, regardless of when title or lien of United States arose or when lien or interest of another person was acquired, with certain exceptions, see section 114(a)–(c) of Pub. L. 89–719, set out as a note under section 6323 of this title.
+Amendment by Pub. L. 89–719 applicable after Nov. 2, 1966, regardless of when title or lien of United Statesarose or when lien or interest of another person was acquired, with certain exceptions, see section 114(a)–(c) of Pub. L. 89–719, set out as a note under section 6323 of this title.
 
 #### Effective Date of 1964 Amendment
 

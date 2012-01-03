@@ -4,5 +4,5 @@ Section, added Pub. L. 91–172, title VII, §707(a), Dec. 30, 1969, 83 Stat. 67
 
 #### Effective Date of Repeal
 
-Repeal effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as an Effective Date of 1976 Amendment note under section 2 of this title.
+Repeal effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, setout as an Effective Date of 1976 Amendment note under section 2 of this title.
 

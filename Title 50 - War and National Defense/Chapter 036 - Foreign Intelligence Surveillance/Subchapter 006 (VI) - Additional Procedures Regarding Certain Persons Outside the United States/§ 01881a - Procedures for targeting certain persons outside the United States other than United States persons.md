@@ -48,7 +48,7 @@ An acquisition authorized under subsection (a)—
 
 #### (1) Requirement to adopt
 
-&emsp;The Attorney General, in consultation with the Director of National Intelligence, shall adopt targeting procedures that are reasonably designed to—
+&emsp;The Attorney General, in consultation with the Director of National Intelligence, shalladopt targeting procedures that are reasonably designed to—
 
 &emsp;&emsp;(A) ensure that any acquisition authorized under subsection (a) is limited to targeting persons reasonably believed to be located outside the United States; and
 
@@ -194,7 +194,7 @@ An acquisition authorized under subsection (a)—
 
 #### (D) Procedures for initial review
 
-&emsp;&emsp;A judge shall conduct an initial review of a petition filed under subparagraph (A) not later than 5 days after being assigned such petition. If the judge determines that such petition does not consist of claims, defenses, or other legal contentions that are warranted by existing law or by a nonfrivolous argument for extending, modifying, or reversing existing law or for establishing new law, the judge shall immediately deny such petition and affirm the directive or any part of the directive that is the subject of such petition and order the recipient to comply with the directive or any part of it. Uponmaking a determination under this subparagraph or promptly thereafter, the judge shall provide a written statement for the record of the reasons for such determination.
+&emsp;&emsp;A judge shall conduct an initial review of a petition filed under subparagraph (A) not later than 5 days after being assigned such petition. If the judge determines that such petition does not consist of claims, defenses, or other legal contentions that are warranted by existing law or by a nonfrivolous argument for extending, modifying, or reversing existing law or for establishing new law, the judge shall immediately deny such petition and affirm the directive or any part of the directive that is the subject of such petition and order the recipient to comply with the directive or any part of it. Upon making a determination under this subparagraph or promptly thereafter, the judge shall provide a written statement for the record of the reasons for such determination.
 
 #### (E) Procedures for plenary review
 
@@ -274,7 +274,7 @@ An acquisition authorized under subsection (a)—
 
 #### (C) Minimization procedures
 
-&emsp;&emsp;The minimization procedures adopted in accordance with subsection (e) to assess whether such procedures meet the definition of minimization procedures under section 1801(h) of this title or section 1821(4) of this title, as appropriate.
+&emsp;&emsp;The minimization procedures adopted in accordance with subsection (e) to assesswhether such procedures meet the definition of minimization procedures under section 1801(h) of this title or section 1821(4) of this title, as appropriate.
 
 #### (3) Orders
 
@@ -324,7 +324,7 @@ An acquisition authorized under subsection (a)—
 
 #### (B) Reauthorization of orders, authorizations, and directives
 
-&emsp;&emsp;If the Attorney General and the Director of National Intelligence seek to reauthorize or replace an authorization issued under subsection (a) by filing a certification pursuant to subparagraph (A), that authorization, and any directives issued thereunder and any order related thereto, shall remain in effect,notwithstanding the expiration provided for in subsection (a), until the Court issues an order with respect to such certification under paragraph (3) at which time the provisions of that paragraph and paragraph (4) shall apply with respect to such certification.
+&emsp;&emsp;If the Attorney General and the Director of National Intelligence seek to reauthorize or replace an authorization issued under subsection (a) by filing a certification pursuant to subparagraph (A), that authorization, and any directives issued thereunder and any order related thereto, shall remain in effect, notwithstanding the expiration provided for in subsection (a), until the Court issues an order with respect to such certification under paragraph (3) at which time the provisions of that paragraph and paragraph (4) shall apply with respect to such certification.
 
 #### (j) Judicial proceedings
 

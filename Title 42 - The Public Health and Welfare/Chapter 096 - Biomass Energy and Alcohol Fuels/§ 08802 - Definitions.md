@@ -62,7 +62,7 @@ As used in this chapter—
 
 &emsp;(B) Such term includes any commitment to provide such assistance.
 
-&emsp;(12) The term “Indian tribe” means any Indian tribe, band, nation, or other organized group or community, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\] which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
+&emsp;(12) The term “Indian tribe” means any Indian tribe, band, nation, or other organized group or community, including any Alaska Native village or regional or village corporation as defined in or established pursuant tothe Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\] which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
 
 &emsp;(13) The term “motor fuel” means gasoline, kerosene, and middle distillates (including diesel fuel).
 

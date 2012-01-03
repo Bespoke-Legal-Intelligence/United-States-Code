@@ -68,9 +68,9 @@ Nothing in this chapter may be construed to make Radio Free Asia a Federal agenc
 
 #### Amendments
 
-<b>2010</b>—Subsec. (c)(2). Pub. L. 111–202, §3(1), struck out “, and shall further specify that funds to carry out the activities of Radio Free Asia may not be available after September 30, 2010” after “Government”.
+<b>2010</b>—Subsec. (c)(2). Pub. L. 111–202, §3(1), struck out “, and shall further specify that funds to carry out theactivities of Radio Free Asia may not be available after September 30, 2010” after “Government”.
 
-Subsecs. (f) to (h). Pub. L. 111–202, §3(2)–(4), redesignated subsecs. (g) and (h) as (f) and (g), respectively,designated first sentence of subsec. (f) as par. (1), inserted heading, inserted subpar. (A) designation before “entering into any agreements for the utilization of Voice of America”, added subpar. (B), designated second sentence of subsec. (f) as par. (2), inserted heading, inserted “or Radio Free Asia broadcasting activities” before period at end, and struck out former subsec. (f) which related to sunset provisions.
+Subsecs. (f) to (h). Pub. L. 111–202, §3(2)–(4), redesignated subsecs. (g) and (h) as (f) and (g), respectively, designated first sentence of subsec. (f) as par. (1), inserted heading, inserted subpar. (A) designation before “entering into any agreements for the utilization of Voice of America”, added subpar. (B), designated second sentence of subsec. (f) as par. (2), inserted heading, inserted “or Radio Free Asia broadcasting activities” before period at end, and struck out former subsec. (f) which related to sunset provisions.
 
 <b>2009</b>—Subsec. (f). Pub. L. 111–71 substituted “2010” for “2009”.
 

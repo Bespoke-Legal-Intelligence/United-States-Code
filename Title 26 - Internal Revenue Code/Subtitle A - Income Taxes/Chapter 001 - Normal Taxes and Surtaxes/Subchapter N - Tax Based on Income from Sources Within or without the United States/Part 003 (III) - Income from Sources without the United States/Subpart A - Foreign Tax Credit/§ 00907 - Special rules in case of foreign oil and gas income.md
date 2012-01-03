@@ -38,7 +38,7 @@ For purposes of this section—
 
 #### (1) Foreign oil and gas extraction income
 
-&emsp;The term “foreign oil and gas extraction income” means the taxable income derived fromsources without the United States and its possessions from—
+&emsp;The term “foreign oil and gas extraction income” means the taxable income derived from sources without the United States and its possessions from—
 
 &emsp;&emsp;(A) the extraction (by the taxpayer or any other person) of minerals from oil or gas wells, or
 
@@ -190,7 +190,7 @@ For purposes of this chapter, in determining the amount of taxable income in the
 
 #### (B) 2009 credits
 
-&emsp;&emsp;In the case of any unused credit year beginning in 2009, the amendments made tothis subsection by the Energy Improvement and Extension Act of 2008 shall be treated as being in effect for any preceding year beginning before January 1, 2009, solely for purposes of determining how much of the unused foreign oil and gas taxes for such unused credit year may be deemed paid or accrued in such preceding year.
+&emsp;&emsp;In the case of any unused credit year beginning in 2009, the amendments made to this subsection by the Energy Improvement and Extension Act of 2008 shall be treated as being in effect for any preceding year beginning before January 1, 2009, solely for purposes of determining how much of the unused foreign oil and gas taxes for such unused credit year may be deemed paid or accrued in such preceding year.
 
 (Added Pub. L. 94–12, title VI, §601(a), Mar. 29, 1975, 89 Stat. 54; amended Pub. L. 94–455, title X, §§1031(b)(6), 1032(b), 1035(a), (b), (d)(1), (2), 1052(c)(4), Oct. 4, 1976, 90 Stat. 1623, 1626, 1630–1632, 1648; Pub. L. 95–600, title III, §301(b)(14), title VII, §701(u)(8)(A), (B), Nov. 6, 1978, 92 Stat. 2822, 2916; Pub. L. 97–248, title II, §211(a)–(c)(1), (d), Sept. 3, 1982, 96 Stat. 448–450; Pub. L. 100–647, title I, §1012(g)(6), Nov. 10, 1988, 102 Stat. 3501; Pub. L. 101–508, title XI, §11801(a)(32), Nov. 5, 1990, 104 Stat. 1388–521; Pub. L. 103–66, title XIII, §13235(a)(1), Aug. 10, 1993, 107 Stat. 504; Pub. L. 104–188, title I, §1704(t)(36), Aug. 20, 1996, 110 Stat. 1889; Pub. L. 108–357, title IV, §417(b), Oct. 22, 2004, 118 Stat. 1512; Pub. L. 110–343, div. B, title IV, §402(a)–(c), Oct. 3, 2008, 122 Stat. 3852, 3854.)
 
@@ -292,7 +292,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1982 Amendment
 
-Section 211(e) of Pub. L. 97–248, as amended by Pub. L. 97–448, title III, §306(a)(5), 96 Stat. 2401; Pub. L. 98–369, div. A, title VII, §712(e), July 18, 1984, 98 Stat. 947, provided that:
+Section 211(e) of Pub. L. 97–248, as amended by Pub. L. 97–448, title III, §306(a)(5), 96 Stat. 2401; Pub. L.98–369, div. A, title VII, §712(e), July 18, 1984, 98 Stat. 947, provided that:
 
 “(1)
 
@@ -326,7 +326,7 @@ Section 701(u)(8)(D) of Pub. L. 95–600, as amended by Pub. L. 99–514, §2, O
 
 “(i) The amendments made by this paragraph \[amending this section and section 904 of this title\] shall apply, in the case of individuals, to taxable years ending after December 31, 1974, and, in the case of corporations, to taxable years ending after December 31, 1976.
 
-“(ii) In the case of any taxable year ending after December 31, 1975, with respect to foreign oil related income (within the meaning of section 907(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]), theoverall limitation provided by section 904(a)(2) of such Code shall apply and the per-country limitation provided by section 904(a)(1) of such Code shall not apply.”
+“(ii) In the case of any taxable year ending after December 31, 1975, with respect to foreign oil related income (within the meaning of section 907(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]), the overall limitation provided by section 904(a)(2) of such Code shall apply and the per-country limitation provided by section 904(a)(1) of such Code shall not apply.”
 
 #### Effective Date of 1976 Amendment
 

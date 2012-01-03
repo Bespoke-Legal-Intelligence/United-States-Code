@@ -62,7 +62,7 @@ The Secretary shall, as part of the budget transmitted under section 1105(a) of 
 
 #### (f) Dual eligible individual defined
 
-In this section, the term “dual eligible individual” means an individual who is entitled to, or enrolled for, benefits under part A of title XVIII of the Social Security Act \[42 U.S.C. 1395c et seq.\], or enrolled for benefits under part B of title XVIII of such Act \[42 U.S.C. 1395j et seq.\], and is eligible for medical assistance under a State plan under title XIX of such Act or under a waiver of such plan.
+In this section, the term “dual eligible individual” means an individual who is entitled to, or enrolled for, benefits under part A of title XVIII of the Social Security Act \[42 U.S.C. 1395c et seq.\], or enrolled for benefits under part B of title XVIII of such Act \[42 U.S.C. 1395j et seq.\], and is eligible for medical assistance under aState plan under title XIX of such Act or under a waiver of such plan.
 
 (Pub. L. 111–148, title II, §2602, Mar. 23, 2010, 124 Stat. 315.)
 

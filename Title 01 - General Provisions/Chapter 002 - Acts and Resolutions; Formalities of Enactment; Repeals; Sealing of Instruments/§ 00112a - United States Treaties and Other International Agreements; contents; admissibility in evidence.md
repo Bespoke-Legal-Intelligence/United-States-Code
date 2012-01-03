@@ -22,9 +22,9 @@ The date of enactment of the Foreign Relations Authorization Act, Fiscal Years 1
 
 #### Amendments
 
-2004—Subsec. (d). Pub. L. 108–458 added subsec. (d).
+<b>2004</b>—Subsec. (d). Pub. L. 108–458 added subsec. (d).
 
-1994—Pub. L. 103–236 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
+<b>1994</b>—Pub. L. 103–236 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
 #### Effective Date of 2004 Amendment
 

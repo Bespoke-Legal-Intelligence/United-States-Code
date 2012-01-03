@@ -8,7 +8,7 @@ The Trade and Development Agency shall be an agency of the United States under t
 
 #### (1) Authority
 
-&emsp;The Director of the Trade and Development Agency is authorized to work with foreigncountries, including those in which the United States development programs have been concluded or those not receiving assistance under subchapter I of this chapter, to carry out the purpose of this section by providing funds for feasibility studies, architectural and engineering design, and other activities related to development projects which provide opportunities for the use of United States exports.
+&emsp;The Director of the Trade and Development Agency is authorized to work with foreign countries, including those in which the United States development programs have been concluded or those not receiving assistance under subchapter I of this chapter, to carry out the purpose of this section by providing funds for feasibility studies, architectural and engineering design, and other activities related to development projects which provide opportunities for the use of United States exports.
 
 #### (2) Use of funds
 
@@ -114,7 +114,7 @@ Subsec. (f)(2)(A). Pub. L. 106–158, §5(c)(2), substituted “in carrying out 
 
 <b>1992</b>—Pub. L. 102–549 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) which authorized a trade and development program to facilitate access to natural resources of interest to the United States and to stimulate reimbursable aid programs, established an agency called the Trade and Development Program to carry out the program, established an advisory board, and authorized appropriations for purposes of section.
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–418, §2204(b)(1), inserted sentence providing for use of funds for project planning, development, management, and procurement for bilateral and multilateral projects, for purpose of promoting use of United States exports in such projects.
+<b>1988</b>—Subsec. (a). Pub. L. 100–418, §2204(b)(1), inserted sentence providing for use of funds for project planning,development, management, and procurement for bilateral and multilateral projects, for purpose of promoting use of United States exports in such projects.
 
 Subsecs. (b) to (d). Pub. L. 100–418, §2204(b)(2), added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
 
@@ -131,6 +131,8 @@ Subsecs. (b) to (d). Pub. L. 100–418, §2204(b)(2), added subsecs. (b) and (c)
 <b>1977</b>—Pub. L. 95–88 struck out provisions authorizing the President to use up to $1,000,000 of the funds made available for the purposes of this chapter in the fiscal year 1975 and $2,000,000 in the fiscal year 1976, and inserted provisions authorizing the President to use $2,000,000 of the funds made available for the purposes of this chapter in the fiscal year 1978.
 
 <b>1975</b>—Pub. L. 94–161 increased usable funds in fiscal year 1976 to $2,000,000 from $1,000,000 and authorized use of $2,000,000 in fiscal year 1977.
+
+#### Change of Name
 
 Section 202(a), (e) of Pub. L. 102–549 provided that:
 

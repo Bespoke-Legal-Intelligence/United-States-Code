@@ -44,7 +44,7 @@ For purposes of this chapter, including the application of the Bankruptcy Act to
 
 &emsp;&emsp;(C) any cash or securities apportioned to customer property pursuant to section 78fff(d) of this title;
 
-&emsp;&emsp;(D) in the case of a portfolio margining account of a customer that is carried as a securities account pursuant to a portfolio margining program approved by the Commission, a futures contract or an option on a futures contract received, acquired, or held by or for the account of a debtor from or for such portfolio margining account, and the proceeds thereof; and
+&emsp;&emsp;(D) in the case of a portfolio margining account of a customer that is carried as a securities account pursuant to a portfolio margining program approved by the Commission, a futures contract or an option on a futures contract received, acquired, or held byor for the account of a debtor from or for such portfolio margining account, and the proceeds thereof; and
 
 &emsp;&emsp;(E) any other property of the debtor which, upon compliance with applicable laws, rules, and regulations, would have been set aside or held for the benefit of customers, unless the trustee determines that including such property within the meaning of such term would not significantly increase customer property.
 

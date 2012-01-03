@@ -41,7 +41,7 @@ References to Committees With New Names.—Except as provided in subsection (c),
 
 &emsp;“(2) the Committee on Banking, Finance and Urban Affairs of the House of Representatives shall be treated as referring to the Committee on Banking and Financial Services of the House of Representatives \[Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generallytransferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001\];
 
-&emsp;“(3) the Committee on Education and Labor of the House of Representatives shall be treated as referring to the Committee on Economic and Educational Opportunities of the House of Representatives \[Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997; Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007\];
+&emsp;“(3) the Committee on Education and Labor of the House of Representatives shall be treated as referring to the Committee on Economic and Educational Opportunities of the House of Representatives \[Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997; Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007; Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011\];
 
 &emsp;“(4) the Committee on Energy and Commerce of the House of Representatives shall be treated as referring to the Committee on Commerce of the House of Representatives \[Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001\];
 
@@ -55,7 +55,7 @@ References to Committees With New Names.—Except as provided in subsection (c),
 
 &emsp;“(9) the Committee on Public Works and Transportation of the House of Representatives shall be treated as referring to the Committee on Transportation and Infrastructure of the House of Representatives; and
 
-&emsp;“(10) the Committee on Science, Space, and Technology of the House of Representatives shall be treated as referring to the Committee on Science of the House of Representatives \[Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007\].
+&emsp;“(10) the Committee on Science, Space, and Technology of the House of Representatives shall be treated as referring to the Committee on Science of the House of Representatives \[Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007; Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011\].
 
 “(b)
 
@@ -73,7 +73,7 @@ References to Abolished Committees.—Any reference in any provision of law enac
 
 &emsp;&emsp;“(C) the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives, in the case of a provision of law relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography;
 
-&emsp;&emsp;“(D) the Committee on Science \[now Committee on Science and Technology\] of the House of Representatives, in the case of a provision of law relating to marine research; and
+&emsp;&emsp;“(D) the Committee on Science \[now Committee on Science, Space, and Technology\] of the House of Representatives, in the case of a provision of law relating to marine research; and
 
 &emsp;&emsp;“(E) the Committee on Transportation and Infrastructure of the House of Representatives, in the case of a provision of law relating to a matter other than a matter described in any of subparagraphs (A) through (D).
 
@@ -95,7 +95,7 @@ References to Committees With Jurisdiction Changes.—Any reference in any provi
 
 “Any reference in any provision of law enacted before January 4, 1995, to a function, duty, or authority—
 
-&emsp;“(1) of the Clerk of the House of Representatives shall be treated as referring, with respect to thatfunction, duty, or authority, to the officer of the House of Representatives exercising that function, duty, or authority, as determined by the Committee on House Oversight \[now Committee on House Administration\] of the House of Representatives;
+&emsp;“(1) of the Clerk of the House of Representatives shall be treated as referring, with respect to that function, duty, or authority, to the officer of the House of Representatives exercising that function, duty, or authority, as determined by the Committee on House Oversight \[now Committee on House Administration\] of the House of Representatives;
 
 &emsp;“(2) of the Doorkeeper of the House of Representatives shall be treated as referring, with respect to that function, duty, or authority, to the officer of the House of Representatives exercising that function, duty, or authority, as determined by the Committee on House Oversight \[now Committee on House Administration\] of the House of Representatives;
 

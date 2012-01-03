@@ -18,7 +18,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 322(a) is modified to include a trustee serving in a railroad reorganization under subchapter IV of chapter 11.
 
@@ -28,17 +28,17 @@ A trustee qualifies in a case by filing, within five days after selection, a bon
 
 #### Amendments
 
-2009—Subsec. (a). Pub. L. 111–16 substituted “seven days” for “five days”.
+<b>2009</b>—Subsec. (a). Pub. L. 111–16 substituted “seven days” for “five days”.
 
-1994—Subsec. (a). Pub. L. 103–394 substituted “1202, or 1302” for “1302, or 1202”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–394 substituted “1202, or 1302” for “1302, or 1202”.
 
-1986—Subsec. (a). Pub. L. 99–554, §257(d), inserted reference to section 1202 of this title.
+<b>1986</b>—Subsec. (a). Pub. L. 99–554, §257(d), inserted reference to section 1202 of this title.
 
 Pub. L. 99–554, §207(1), substituted “Except as provided in subsection (b)(1), a person” for “A person”.
 
 Subsec. (b). Pub. L. 99–554, §207(2), amended subsec. (b) generally, adding par. (1), designating existing provisions as par. (2), substituting “The United States trustee” for “The court”, “(A) the amount” for “(1) the amount”, and “(B) the sufficiency” for “(2) the sufficiency”.
 
-1984—Subsec. (b)(1). Pub. L. 98–353 inserted “required to be”.
+<b>1984</b>—Subsec. (b)(1). Pub. L. 98–353 inserted “required to be”.
 
 #### Effective Date of 2009 Amendment
 
@@ -46,7 +46,7 @@ Amendment by Pub. L. 111–16 effective Dec. 1, 2009, see section 7 of Pub. L. 1
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 ofPub. L. 103–394, set out as a note under section 101 of this title.
+Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
 
 #### Effective Date of 1986 Amendment
 

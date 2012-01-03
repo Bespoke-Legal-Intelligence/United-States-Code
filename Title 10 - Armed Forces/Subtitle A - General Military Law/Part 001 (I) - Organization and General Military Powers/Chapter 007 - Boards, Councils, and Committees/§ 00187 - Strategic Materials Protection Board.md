@@ -28,7 +28,7 @@ Duties.—In addition to other matters assigned to it by the Secretary of Defens
 
 &emsp;(3) recommend a strategy to the President to ensure a secure supply of materials designated as critical to national security;
 
-&emsp;(4) recommend such other strategies to the President as the Board considers appropriate to strengthen the industrial base with respect to materials critical to national security; and
+&emsp;(4) recommend such other strategies to the President as the Board considers appropriateto strengthen the industrial base with respect to materials critical to national security; and
 
 &emsp;(5) publish not less frequently than once every two years in the Federal Register recommendations regarding materials critical to national security, including a list of specialty metals, if any, recommended for addition to, or removal from, the definition of “specialty metal” for purposes of section 2533b of this title.
 

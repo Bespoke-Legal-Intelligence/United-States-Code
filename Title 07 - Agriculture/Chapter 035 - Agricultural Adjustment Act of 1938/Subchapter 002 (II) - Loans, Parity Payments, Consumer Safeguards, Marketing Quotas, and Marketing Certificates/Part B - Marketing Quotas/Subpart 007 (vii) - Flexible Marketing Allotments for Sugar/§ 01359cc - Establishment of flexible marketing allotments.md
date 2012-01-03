@@ -38,7 +38,7 @@ The overall allotment quantity for the crop year shall be allotted between—
 
 #### (2) Beet sugar
 
-&emsp;Each marketing allotment for beet sugar established under this section may only be filledwith sugar domestically processed from sugar beets or in-process beet sugar.
+&emsp;Each marketing allotment for beet sugar established under this section may only be filled with sugar domestically processed from sugar beets or in-process beet sugar.
 
 #### (e) State cane sugar allotments
 
@@ -100,7 +100,7 @@ Except as provided in section 1359ee of this title, a State cane sugar allotment
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Prior Provisions
 
@@ -108,7 +108,7 @@ A prior section 1359cc, act Feb. 16, 1938, ch. 30, title III, §359c, as added P
 
 #### Amendments
 
-2008—Subsec. (b). Pub. L. 110–246, §1403(c)(1), added subsec. (b) and struck out former subsec. (b) which related to: in par. (1), establishment of the overall allotment quantity by deducting from the sum of the estimated sugar consumption and reasonable carryover stocks for the crop year 1,532,000 short tons, raw value, and carry-in stocks of sugar, including sugar in Commodity Credit Corporation inventory; and in par. (2), adjustment of overall allotment quantity to avoid the forfeiture of sugar to the Commodity Credit Corporation.
+<b>2008</b>—Subsec. (b). Pub. L. 110–246, §1403(c)(1), added subsec. (b) and struck out former subsec. (b) which related to: in par. (1), establishment of the overall allotment quantity by deducting from the sum of the estimated sugar consumption and reasonable carryover stocks for the crop year 1,532,000 short tons, raw value, and carry-in stocks of sugar, including sugar in Commodity Credit Corporation inventory; and in par. (2), adjustment of overall allotment quantity to avoid the forfeiture of sugar to the Commodity Credit Corporation.
 
 Subsec. (d)(2). Pub. L. 110–246, §1403(c)(2), inserted “or in-process beet sugar” before period at end.
 

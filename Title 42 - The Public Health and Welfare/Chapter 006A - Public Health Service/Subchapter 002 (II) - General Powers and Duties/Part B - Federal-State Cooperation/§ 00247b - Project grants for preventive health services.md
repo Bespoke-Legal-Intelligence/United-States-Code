@@ -6,7 +6,7 @@ The Secretary may make grants to States, and in consultation with State health a
 
 #### (b) Application
 
-No grant may be made under subsection (a) of this section unless an application therefor hasbeen submitted to, and approved by, the Secretary. Such an application shall be in such form and be submitted in such manner as the Secretary shall by regulation prescribe and shall provide—
+No grant may be made under subsection (a) of this section unless an application therefor has been submitted to, and approved by, the Secretary. Such an application shall be in such form and be submitted in such manner as the Secretary shall by regulation prescribe and shall provide—
 
 &emsp;(1) a complete description of the type and extent of the program for which the applicant is seeking a grant under subsection (a) of this section;
 
@@ -158,7 +158,7 @@ The Secretary may provide technical assistance to States, State health authoriti
 
 #### (7) Authorization of appropriations
 
-&emsp;There is authorized to be appropriated to carry out this subsection, such sums as may be necessary for each of fiscal years 2010 through 2014.
+&emsp;There is authorized to be appropriated to carry out this subsection, such sums as maybe necessary for each of fiscal years 2010 through 2014.
 
 (July 1, 1944, ch. 373, title III, §317, as added Pub. L. 87–868, §2, Oct. 23, 1962, 76 Stat. 1155; amended Pub. L. 89–109, §2, Aug. 5, 1965, 79 Stat. 435; Pub. L. 91–464, §2, Oct. 16, 1970, 84 Stat. 988; Pub. L. 92–449, title I, §101, Sept. 30, 1972, 86 Stat. 748; Pub. L. 93–354, §4, July 23, 1974, 88 Stat. 376; Pub. L. 94–63, title VI, §601, July 29, 1975, 89 Stat. 346; Pub. L. 94–317, title II, §202(a), June 23, 1976, 90 Stat. 700; Pub. L. 94–380, §2, Aug. 12, 1976, 90 Stat. 1113; Pub. L. 95–626, title II, §§202, 204(b)(2), Nov. 10, 1978, 92 Stat. 3574, 3583; Pub. L. 96–32, §6(i), July 10, 1979, 93 Stat. 83; Pub. L. 97–35, title IX, §928, Aug. 13, 1981, 95 Stat. 569; Pub. L. 98–555, §2, Oct. 30, 1984, 98 Stat. 2854; Pub. L. 99–117, §11(c), Oct. 7, 1985, 99 Stat. 495; Pub. L. 100–177, title I, §§110(a), 111, Dec. 1, 1987, 101 Stat. 990, 991; Pub. L. 101–368, §2, Aug. 15, 1990, 104 Stat. 446; Pub. L. 101–502, §2(a), Nov. 3, 1990, 104 Stat. 1285; Pub. L. 103–183, title III, §301(b), Dec. 14, 1993, 107 Stat. 2235; Pub. L. 105–392, title III, §303, Nov. 13, 1998, 112 Stat. 3586; Pub. L. 106–310, div. A, title XVII, §1711, Oct. 17, 2000, 114 Stat. 1152; Pub. L. 111–148, title IV, §4204(a)–(c), Mar. 23, 2010, 124 Stat. 571, 572.)
 
@@ -186,7 +186,7 @@ Subsec. (j)(2). Pub. L. 105–392, §303(2), substituted “1997” for “1990�
 
 <b>1993</b>—Subsec. (j). Pub. L. 103–183, §301(b)(1), redesignated subpars. (A) and (B) of par. (1) as pars. (1) and (2), respectively, substituted “established in paragraph (2)” for “established in subparagraph (B)” in par. (1), and struck out former par. (2), which read as follows: “For grants under subsection (a) of this section for preventive health service programs for the prevention, control, and elimination of tuberculosis, and for grants under subsection (k)(2) of this section, there are authorized to be appropriated $24,000,000 for fiscal year 1988, $31,000,000 for fiscal year 1989, $36,000,000 for fiscal year 1990, $36,000,000 for fiscal year 1991, and such sums as may be necessary for each of the fiscal years 1992 through 1995. Not more than 10 percent of the total amount appropriated under the preceding sentence for any fiscal year shall be available for grants under subsection (k)(2) of this section for such fiscal year.”
 
-Subsec. (k)(2). Pub. L. 103–183, §301(b)(2)(A), (B), redesignated par. (3) as (2) and struck out former par. (2)which read as follows: “The Secretary may make grants to States, political subdivisions of States, and other public and nonprofit private entities for—
+Subsec. (k)(2). Pub. L. 103–183, §301(b)(2)(A), (B), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “The Secretary may make grants to States, political subdivisions of States, and other public and nonprofit private entities for—
 
 &emsp;“(A) research into the prevention, control, and elimination of tuberculosis, especially research concerning strains of tuberculosis resistant to drugs and research concerning cases of tuberculosis that affect certain populations;
 
@@ -258,7 +258,7 @@ Subsec. (i). Pub. L. 93–354, §4(1), substituted “communicable and other dis
 
 Subsec. (b). Pub. L. 92–449 substituted provisions of par. (1) respecting applications for grants, submission, approval, form, and content of applications; par. (2) respecting application requirements; and par. (3) incorporating former subsec. (g) provisions respecting consent of individuals for former definitions provision now incorporated in subsec. (h) of this section.
 
-Subsec. (c). Pub. L. 92–449 designated existing provisions as par. (1) and among minor punctuation changesinserted “under grants” after “Payments”; and redesignated former subsec. (d) as par. (2), inserted “of the Government” after “officer or employee”, substituted “in detailing the personnel” for “personal services”, and struck out provision that reduced amount shall, for purposes of subsec. (c), be deemed to have been paid to the agency.
+Subsec. (c). Pub. L. 92–449 designated existing provisions as par. (1) and among minor punctuation changes inserted “under grants” after “Payments”; and redesignated former subsec. (d) as par. (2), inserted “of the Government” after “officer or employee”, substituted “in detailing the personnel” for “personal services”, and struck out provision that reduced amount shall, for purposes of subsec. (c), be deemed to have been paid to the agency.
 
 Subsec. (d). Pub. L. 92–449 substituted provisions respecting authorization of appropriations and limitation on use of funds for provisions respecting grant reduction.
 
@@ -284,7 +284,7 @@ Subsec. (e). Pub. L. 91–464 struck out reference to title V of the Social Secu
 
 Subsecs. (f), (g). Pub. L. 91–464 added subsecs. (f) and (g).
 
-<b>1965</b>—Subsec. (a). Pub. L. 89–109, §2(a), (b), (d)(1), inserted “and each of the next three fiscal years”, substituted “any fiscal year ending prior to July 1, 1968” for “the fiscal years ending June 30, 1963, and June 30, 1964”, “tetanus, and measles” for “and tetanus”, “of preschool age” for “under the age of five years”, and “immunization” for “intensive community vaccination”, and permitted grants to be used to pay costs in connection with immunization of other infectious diseases.
+<b>1965</b>—Subsec. (a). Pub. L. 89–109, §2(a), (b), (d)(1), inserted “and each of the next three fiscal years”, substituted “any fiscal year ending prior to July 1, 1968” for “the fiscal years ending June 30, 1963, and June 30, 1964”, “tetanus, and measles” for “and tetanus”, “of preschool age” for “under the age of five years”, and “immunization” for “intensive community vaccination”, and permitted grants to be used to pay costs inconnection with immunization of other infectious diseases.
 
 Subsec. (b). Pub. L. 89–109, §2(c), (d)(1), substituted “against the diseases referred to in subsection (a) of this section” for “against poliomyelitis, diphtheria, whooping cough, and tetanus”, “of preschool age” for “who are under the age of five years” and “immunization” for “intensive community vaccination” in two places.
 
@@ -312,7 +312,7 @@ Pub. L. 111–148, title IV, §4204(d), Mar. 23, 2010, 124 Stat. 572, provided t
 
 #### Assistance of Administrator of Veterans’ Affairs in Administration of National Swine Flu Immunization Program of 1976; Claims for Damages
 
-Pub. L. 94–420, §3, Sept. 23, 1976, 90 Stat. 1301, provided that, in order to assist Secretary of Health, Education, and Welfare in carrying out National Swine Flu Immunization Program of 1976 pursuant to 42 U.S.C. 247b(j), as added by Pub. L. 94–380, Administrator of Veterans’Affairs, in accordance with 42 U.S.C. 247b(j), could authorize administration of vaccine, procured under such program and provided by Secretary at no cost to Veterans’ Administration, to eligible veterans (voluntarily requesting such vaccine) in connection with provision of care for a disability under chapter 17 of title 38, in any health care facility under jurisdiction of Administrator, and provided for consideration and processing of claims and suits for damages for personal injury or death, in connection with administration of vaccine.
+Pub. L. 94–420, §3, Sept. 23, 1976, 90 Stat. 1301, provided that, in order to assist Secretary of Health, Education, and Welfare in carrying out National Swine Flu Immunization Program of 1976 pursuant to 42 U.S.C. 247b(j), as added by Pub. L. 94–380, Administrator of Veterans’ Affairs, in accordance with 42 U.S.C. 247b(j), could authorize administration of vaccine, procured under such program and provided by Secretary at no cost to Veterans’ Administration, to eligible veterans (voluntarily requesting such vaccine) in connection with provision of care for a disability under chapter 17 of title 38, in any health care facility under jurisdiction of Administrator, and provided for consideration and processing of claims and suits for damages for personal injury or death, in connection with administration of vaccine.
 
 #### Study by Secretary of Scope and Extent of Liability Arising Out of Immunization Program; Alternative Protective Approaches; Report to Congress
 

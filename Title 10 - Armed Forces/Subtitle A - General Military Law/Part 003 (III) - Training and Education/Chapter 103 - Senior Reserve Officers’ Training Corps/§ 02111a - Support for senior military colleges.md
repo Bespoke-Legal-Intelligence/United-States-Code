@@ -6,7 +6,7 @@ Detail of Officers To Serve as Commandant or Assistant Commandant of Cadets.—(
 
 (2) In the case of an officer detailed as Commandant of Cadets, the officer may, upon the request of the college, be assigned from among the Professor of Military Science, the Professor of Naval Science (if any), and the Professor of Aerospace Science (if any) at that college or may be in addition to any other officer detailed to that college in support of the program.
 
-(3) In the case of an officer detailed as Assistant Commandant of Cadets, the officer may,upon the request of the college, be assigned from among officers otherwise detailed to duty at that college in support of the program or may be in addition to any other officer detailed to that college in support of the program.
+(3) In the case of an officer detailed as Assistant Commandant of Cadets, the officer may, upon the request of the college, be assigned from among officers otherwise detailed to duty at that college in support of the program or may be in addition to any other officer detailed to that college in support of the program.
 
 (b)
 

@@ -104,7 +104,7 @@ For purposes of this section—
 
 #### (B) Deduction items
 
-&emsp;&emsp;Any amount which is allowable as a deduction during the recognition period (determined without regard to any carryover) but which is attributable to periods before the 1st taxable year referred to in subparagraph (A) shall be treated as a recognized built-in loss for the taxable year for which it is allowable as a deduction.
+&emsp;&emsp;Any amount which is allowable as a deduction during the recognition period (determined without regard to any carryover) but which is attributable to periods before the 1st taxable year referred to in subparagraph\(A) shall be treated as a recognized built-in loss for the taxable year for which it is allowable as a deduction.
 
 #### (C) Adjustment to net unrealized built-in gain
 
@@ -184,7 +184,7 @@ A prior section 1374, added Pub. L. 85–866, title I, §64(a), Sept. 2, 1958, 7
 
 <b>2010</b>—Subsec. (d)(7)(B). Pub. L. 111–240 amended subpar. (B) generally. Prior to amendment, text read as follows: “In the case of any taxable year beginning in 2009 or 2010, no tax shall be imposed on the net recognized built-in gain of an S corporation if the 7th taxable year in the recognition period preceded such taxable year. The preceding sentence shall be applied separately with respect to any asset to which paragraph (8) applies.”
 
-<b>2009</b>—Subsec. (d)(7). Pub. L. 111–5 amended par. (7) generally. Prior to amendment, text read as follows: “The term ‘recognition period’ means the 10-year period beginning with the 1st day of the 1st taxable year for which the corporation was an S corporation. For purposes of applying this section to any amount includible in income by reason of section 593(e), the preceding sentence shall be applied without regard to the phrase ‘10-year’.”
+<b>2009</b>—Subsec. (d)(7). Pub. L. 111–5 amended par. (7) generally. Prior to amendment, text read as follows:“The term ‘recognition period’ means the 10-year period beginning with the 1st day of the 1st taxable year for which the corporation was an S corporation. For purposes of applying this section to any amount includible in income by reason of section 593(e), the preceding sentence shall be applied without regard to the phrase ‘10-year’.”
 
 <b>1997</b>—Subsec. (d)(7). Pub. L. 105–34 inserted at end “For purposes of applying this section to any amount includible in income by reason of section 593(e), the preceding sentence shall be applied without regard to the phrase ‘10-year’.”
 
@@ -234,7 +234,7 @@ Pub. L. 111–5, div. B, title I, §1251(b), Feb. 17, 2009, 123 Stat. 342, provi
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 36C of this title.
+Amendment by Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 23 of this title.
 
 #### Effective Date of 1989 Amendment
 

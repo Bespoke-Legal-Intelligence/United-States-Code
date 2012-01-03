@@ -6,17 +6,18 @@
 | [481\.](%C2%A7%2000481%20-%20Racial%20and%20ethnic%20issues%3B%20gender%20issues%20surveys.md) | Racial and ethnic issues; gender issues: surveys. |
 | [482\.](%C2%A7%2000482%20-%20Quarterly%20reports%20personnel%20and%20unit%20readiness.md) | Quarterly reports: personnel and unit readiness. |
 | [483\.](%C2%A7%2000483%20-%20Reports%20on%20transfers%20from%20high-priority%20readiness%20appropriations.md) | Reports on transfers from high-priority readiness appropriations. |
-| [484\.](%C2%A7%2000484%20-%20Annual%20report%20on%20aircraft%20inventory.md) | Annual report on aircraft inventory. |
-| [485\.](%C2%A7%2000485%20-%20Joint%20and%20service%20concept%20development%20and%20experimentation.md) | Joint and service concept development and experimentation. |
-| [486\.](%C2%A7%2000486%20-%20Quadrennial%20report%20on%20emerging%20operational%20concepts.md) | Quadrennial report on emerging operational concepts. |
-| [487\.](%C2%A7%2000487%20-%20Unit%20operations%20tempo%20and%20personnel%20tempo%20annual%20report.md) | Unit operations tempo and personnel tempo: annual report. |
+| \[484 to 487. Repealed.\] |  |
 | [488\.](%C2%A7%2000488%20-%20Management%20of%20electromagnetic%20spectrum%20biennial%20strategic%20plan.md) | Management of electromagnetic spectrum: biennial strategic plan. |
 | [489\.](%C2%A7%2000489%20-%20Annual%20report%20on%20Department%20of%20Defense%20operation%20and%20financial%20support%20for%20military%20museums.md) | Annual report on Department of Defense operation and financial support for military museums. |
-| [490\.](%C2%A7%2000490%20-%20Space%20cadre%20management%20biennial%20report.md) | Space cadre management: biennial report. |
+| \[490. | Repealed.\] |
+| [490a.](%C2%A7%2000490a%20-%20Biennial%20assessment%20and%20report%20on%20the%20delivery%20platforms%20for%20nuclear%20weapons%20and%20the%20nuclear%20command%20and%20control%20system.md) | Biennial assessment and report on the delivery platforms for nuclear weapons and the nuclear command and control system. |
+| [491\.](%C2%A7%2000491%20-%20Nuclear%20employment%20strategy%20of%20the%20United%20States%20reports%20on%20modification%20of%20strategy.md) | Nuclear employment strategy of the United States: reports on modification of strategy. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2011</b>—Pub. L. 112–81, div. A, title X, §§1041(c), 1046(b)(2), 1061(6)(B), (7)(B), (8)(B), (9)(B), (10)(B), Dec. 31, 2011, 125 Stat. 1575, 1579, 1583, added items 490a and 491 and struck out items 484 “Annual report on aircraft inventory”, 485 “Joint and service concept development and experimentation”, 486 “Quadrennial report on emerging operational concepts”, 487 “Unit operations tempo and personnel tempo: annual report”, and 490 “Space cadre management: biennial report”.
 
 <b>2008</b>—Pub. L. 110–417, \[div. A\], title II, §241(b), Oct. 14, 2008, 122 Stat. 4398, added item 485 and struck out former item 485 “Joint warfighting experimentation”.
 
@@ -51,10 +52,12 @@ Pub. L. 104–106, div. A, title III, §361(a)(2), Feb. 10, 1996, 110 Stat. 273,
 - [&sect; 00481 - Racial and ethnic issues; gender issues surveys](%C2%A7%2000481%20-%20Racial%20and%20ethnic%20issues%3B%20gender%20issues%20surveys.md)
 - [&sect; 00482 - Quarterly reports personnel and unit readiness](%C2%A7%2000482%20-%20Quarterly%20reports%20personnel%20and%20unit%20readiness.md)
 - [&sect; 00483 - Reports on transfers from high-priority readiness appropriations](%C2%A7%2000483%20-%20Reports%20on%20transfers%20from%20high-priority%20readiness%20appropriations.md)
-- [&sect; 00484 - Annual report on aircraft inventory](%C2%A7%2000484%20-%20Annual%20report%20on%20aircraft%20inventory.md)
-- [&sect; 00485 - Joint and service concept development and experimentation](%C2%A7%2000485%20-%20Joint%20and%20service%20concept%20development%20and%20experimentation.md)
-- [&sect; 00486 - Quadrennial report on emerging operational concepts](%C2%A7%2000486%20-%20Quadrennial%20report%20on%20emerging%20operational%20concepts.md)
-- [&sect; 00487 - Unit operations tempo and personnel tempo annual report](%C2%A7%2000487%20-%20Unit%20operations%20tempo%20and%20personnel%20tempo%20annual%20report.md)
+- [&sect; 00484 - Repealed. Pub. L. 112&#8211;81, div. A, title X, &sect;1061(6)(A), Dec. 31, 2011, 125 Stat. 1583](%C2%A7%2000484%20-%20Repealed.%20Pub.%20L.%20112%E2%80%9381%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71061%286%29%28A%29%2C%20Dec.%2031%2C%202011%2C%20125%20Stat.%201583.md)
+- [&sect; 00485 - Repealed. Pub. L. 112&#8211;81, div. A, title X, &sect;1061(7)(A), Dec. 31, 2011, 125 Stat. 1583](%C2%A7%2000485%20-%20Repealed.%20Pub.%20L.%20112%E2%80%9381%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71061%287%29%28A%29%2C%20Dec.%2031%2C%202011%2C%20125%20Stat.%201583.md)
+- [&sect; 00486 - Repealed. Pub. L. 112&#8211;81, div. A, title X, &sect;1061(8)(A), Dec. 31, 2011, 125 Stat. 1583](%C2%A7%2000486%20-%20Repealed.%20Pub.%20L.%20112%E2%80%9381%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71061%288%29%28A%29%2C%20Dec.%2031%2C%202011%2C%20125%20Stat.%201583.md)
+- [&sect; 00487 - Repealed. Pub. L. 112&#8211;81, div. A, title X, &sect;1061(9)(A), Dec. 31, 2011, 125 Stat. 1583](%C2%A7%2000487%20-%20Repealed.%20Pub.%20L.%20112%E2%80%9381%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71061%289%29%28A%29%2C%20Dec.%2031%2C%202011%2C%20125%20Stat.%201583.md)
 - [&sect; 00488 - Management of electromagnetic spectrum biennial strategic plan](%C2%A7%2000488%20-%20Management%20of%20electromagnetic%20spectrum%20biennial%20strategic%20plan.md)
 - [&sect; 00489 - Annual report on Department of Defense operation and financial support for military museums](%C2%A7%2000489%20-%20Annual%20report%20on%20Department%20of%20Defense%20operation%20and%20financial%20support%20for%20military%20museums.md)
-- [&sect; 00490 - Space cadre management biennial report](%C2%A7%2000490%20-%20Space%20cadre%20management%20biennial%20report.md)
+- [&sect; 00490 - Repealed. Pub. L. 112&#8211;81, div. A, title X, &sect;1061(10)(A), Dec. 31, 2011, 125 Stat. 1583](%C2%A7%2000490%20-%20Repealed.%20Pub.%20L.%20112%E2%80%9381%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71061%2810%29%28A%29%2C%20Dec.%2031%2C%202011%2C%20125%20Stat.%201583.md)
+- [&sect; 00490a - Biennial assessment and report on the delivery platforms for nuclear weapons and the nuclear command and control system](%C2%A7%2000490a%20-%20Biennial%20assessment%20and%20report%20on%20the%20delivery%20platforms%20for%20nuclear%20weapons%20and%20the%20nuclear%20command%20and%20control%20system.md)
+- [&sect; 00491 - Nuclear employment strategy of the United States reports on modification of strategy](%C2%A7%2000491%20-%20Nuclear%20employment%20strategy%20of%20the%20United%20States%20reports%20on%20modification%20of%20strategy.md)

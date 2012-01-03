@@ -28,7 +28,7 @@ The Secretary shall permit producers to repay a marketing assistance loan under 
 
 #### (c) Repayment rates for extra long staple cotton
 
-Repayment of a marketing assistance loan for extra long staple cotton shall be at the loan rateestablished for the commodity under section 7932 of this title, plus interest (determined in accordance with section 7283 of this title).
+Repayment of a marketing assistance loan for extra long staple cotton shall be at the loan rate established for the commodity under section 7932 of this title, plus interest (determined in accordance with section 7283 of this title).
 
 #### (d) Prevailing world market price
 
@@ -86,7 +86,7 @@ For the 2001 crop year only, in the case of the producers on a farm that markete
 
 #### Amendments
 
-2003—Subsec. (a). Pub. L. 108–7, §763(c)(1), substituted “extra long staple cotton, and confectionery and each other kind of sunflower seed (other than oil sunflower seed)” for “and extra long staple cotton”.
+<b>2003</b>—Subsec. (a). Pub. L. 108–7, §763(c)(1), substituted “extra long staple cotton, and confectionery and each other kind of sunflower seed (other than oil sunflower seed)” for “and extra long staple cotton”.
 
 Subsecs. (f) to (h). Pub. L. 108–7, §763(c)(2), (3), added subsecs. (f) and (g) and redesignated former subsec. (f) as (h).
 

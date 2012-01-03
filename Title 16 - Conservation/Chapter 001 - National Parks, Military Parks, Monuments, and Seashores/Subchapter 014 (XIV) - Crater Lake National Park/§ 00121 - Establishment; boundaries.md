@@ -12,5 +12,5 @@ In order to preserve for the benefit, education, and inspiration of the people o
 
 #### Disposition of Excluded Lands, Water, and Interests
 
-Section 1(b) of Pub. L. 97–250 provided that: “Lands, water, and interests therein excluded from the boundary of Crater Lake National Park by subsection (a) \[amending this section\] are hereby made a part of the Rogue River National Forest, and the boundary of such national forest is revised accordingly.”
+Pub. L. 97–250, §1(b), Sept. 8, 1982, 96 Stat. 709, provided that: “Lands, water, and interests therein excluded from the boundary of Crater Lake National Park by subsection (a) \[amending this section\] are hereby made a part of the Rogue River National Forest, and the boundary of such national forest is revised accordingly.”
 

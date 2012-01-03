@@ -44,9 +44,9 @@ Section 4 of the Act entitled “An Act to provide for the admission of the Stat
 
 #### Amendments
 
-2008—Subsec. (c). Pub. L. 110–289 substituted “Mutual Mortgage Insurance Fund” for “General Insurance Fund established in section 1735c of this title” and struck out “(1) all references in section 1710 of this title to the Mutual Mortgage Insurance Fund or the Fund shall be construed to refer to the General Insurance Fund; and (2)” after “except that”.
+<b>2008</b>—Subsec. (c). Pub. L. 110–289 substituted “Mutual Mortgage Insurance Fund” for “General Insurance Fund established in section 1735c of this title” and struck out “(1) all references in section 1710 of this title to the Mutual Mortgage Insurance Fund or the Fund shall be construed to refer to the General Insurance Fund; and (2)” after “except that”.
 
-2001—Subsec. (d)(1), (2). Pub. L. 107–73, §215(1), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
+<b>2001</b>—Subsec. (d)(1), (2). Pub. L. 107–73, §215(1), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 
 “(1) The term ‘native Hawaiian’ means any descendant of not less than one-half part of the blood of the races inhabiting the Hawaiian Islands before January 1, 1778 (or, in the case of an individual who succeeds a spouse or parent in an interest in a lease of Hawaiian home lands, such lower percentage as may be established for such succession under section 209 of the Hawaiian Homes Commission Act, 1920, or under the corresponding provision of the Constitution of the State of Hawaii adopted under section 4 of the Act entitled ‘An Act to provide for the admission of the State of Hawaii into the Union’, approved March 18, 1959 (73 Stat. 5)).
 
@@ -54,13 +54,13 @@ Section 4 of the Act entitled “An Act to provide for the admission of the Stat
 
 Subsec. (e). Pub. L. 107–73, §215(2), added subsec. (e).
 
-1988—Subsec. (a)(2). Pub. L. 100–242, §429(h), substituted “mortgagor” for “Mortgagor”.
+<b>1988</b>—Subsec. (a)(2). Pub. L. 100–242, §429(h), substituted “mortgagor” for “Mortgagor”.
 
 Subsecs. (c), (d). Pub. L. 100–628 clarified amendment by Pub. L. 100–242, §413(a), (b).
 
 Pub. L. 100–242, §413(a), (b), made amendment identical to Pub. L. 100–202. See 1987 Amendment note below.
 
-1987—Subsec. (c). Pub. L. 100–202 added subsec. (c). Former subsec. (c) redesignated (d).
+<b>1987</b>—Subsec. (c). Pub. L. 100–202 added subsec. (c). Former subsec. (c) redesignated (d).
 
 Subsec. (d). Pub. L. 100–202 extended subsec. (c)(1) term “native Hawaiian” to include in the case of succession in an interest in a lease of Hawaiian homelands any descendant of a percentage less than one-half of the blood of the races inhabiting the Hawaiian Islands before Jan. 1, 1778, as may be established under statute or constitution for succession; and redesignated subsec. (c), including such par. (1), as subsec. (d).
 

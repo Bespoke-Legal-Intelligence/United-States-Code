@@ -2,7 +2,7 @@
 
 (a) There are authorized to be appropriated—
 
-&emsp;(1) for the purpose of providing for the expenses of the National Institute on Disabilityand Rehabilitation Research under section 762 of this title, which shall include the expenses of the Rehabilitation Research Advisory Council under section 765 of this title, and shall not include the expenses of such Institute to carry out section 764 of this title, such sums as may be necessary for each of fiscal years 1999 through 2003; and
+&emsp;(1) for the purpose of providing for the expenses of the National Institute on Disability and Rehabilitation Research under section 762 of this title, which shall include the expenses of the Rehabilitation Research Advisory Council under section 765 of this title, and shall not include the expenses of such Institute to carry out section 764 of this title, such sums as may be necessary for each of fiscal years 1999 through 2003; and
 
 &emsp;(2) to carry out section 764 of this title, such sums as may be necessary for each of fiscal years 1999 through 2003.
 

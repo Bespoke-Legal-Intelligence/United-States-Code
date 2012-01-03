@@ -8,7 +8,7 @@ For the purpose of carrying out this part, there is authorized to be appropriate
 
 #### (1) In general
 
-&emsp;If the amounts made available under subsection (a) of this section for a fiscal year are insufficient for providing each State with an allotment under section 290cc–21 of this title of not less than the applicable amount under section 290cc–24(a)(1) of this title, the Secretary shall, from such amounts as are made available under such subsection, make grants to the States for providing to eligible homeless individuals the services specified in section 290cc–22(b) of this title.
+&emsp;If the amounts made available under subsection (a) of this section for a fiscal year areinsufficient for providing each State with an allotment under section 290cc–21 of this title of not less than the applicable amount under section 290cc–24(a)(1) of this title, the Secretary shall, from such amounts as are made available under such subsection, make grants to the States for providing to eligible homeless individuals the services specified in section 290cc–22(b) of this title.
 
 #### (2) Rule of construction
 
@@ -18,7 +18,7 @@ For the purpose of carrying out this part, there is authorized to be appropriate
 
 #### Prior Provisions
 
-A prior section 290cc–36, act July 1, 1944, ch. 373, title V, §536, as added July 22, 1987, Pub. L. 100–77, title VI,§611(3), 101 Stat. 523, and amended Nov. 4, 1988, Pub. L. 100–607, title VIII, §§802(b)(3), 812(a), 102 Stat. 3169, 3170; Nov. 7, 1988, Pub. L. 100–628, title VI, §§602(b)(3), 612(a), 102 Stat. 3242, 3243; Nov. 18, 1988, Pub. L. 100–690, title II, §2614(b), 102 Stat. 4239; Aug. 16, 1989, Pub. L. 101–93, §5(t)(1), 103 Stat. 615, defined terms used in this part, prior to the general revision of this part by Pub. L. 101–645.
+A prior section 290cc–36, act July 1, 1944, ch. 373, title V, §536, as added July 22, 1987, Pub. L. 100–77, title VI, §611(3), 101 Stat. 523, and amended Nov. 4, 1988, Pub. L. 100–607, title VIII, §§802(b)(3), 812(a), 102 Stat. 3169, 3170; Nov. 7, 1988, Pub. L. 100–628, title VI, §§602(b)(3), 612(a), 102 Stat. 3242, 3243; Nov. 18, 1988, Pub. L. 100–690, title II, §2614(b), 102 Stat. 4239; Aug. 16, 1989, Pub. L. 101–93, §5(t)(1), 103 Stat. 615, defined terms used in this part, prior to the general revision of this part by Pub. L. 101–645.
 
 #### Amendments
 

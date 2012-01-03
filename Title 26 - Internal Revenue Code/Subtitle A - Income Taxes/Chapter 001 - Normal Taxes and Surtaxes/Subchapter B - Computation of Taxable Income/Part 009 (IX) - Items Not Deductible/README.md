@@ -48,7 +48,7 @@
 
 <b>1986</b>—Pub. L. 99–514, title VIII, §803(c)(1), (3), Oct. 22, 1986, 100 Stat. 2356, added item 263A and struck out items 278 “Capital expenditures incurred in planting and developing citrus and almond groves” and 280 “Certain expenditures incurred in production of films, books, records, or similar property”.
 
-<b>1984</b>—Pub. L. 98–369, div. A, title I, §§67(d)(1), 136(b), 179(c), title X, §1063(b)(2), July 18, 1984, 98 Stat. 587, 670,718, 1047, added items 269B, 280F, and 280G, and struck out “certain historic” before “structures” in item 280B.
+<b>1984</b>—Pub. L. 98–369, div. A, title I, §§67(d)(1), 136(b), 179(c), title X, §1063(b)(2), July 18, 1984, 98 Stat. 587, 670, 718, 1047, added items 269B, 280F, and 280G, and struck out “certain historic” before “structures” in item 280B.
 
 <b>1983</b>—Pub. L. 97–414, §4(b)(2)(B), Jan. 4, 1983, 96 Stat. 2056, substituted “Certain expenses for which credits are allowable” for “Portion of wages for which credit is claimed under section 44B” in item 280C.
 

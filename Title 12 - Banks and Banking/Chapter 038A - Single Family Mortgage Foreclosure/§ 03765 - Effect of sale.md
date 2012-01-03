@@ -16,7 +16,7 @@ A sale, made and conducted as prescribed in this chapter to a bona fide purchase
 
 #### (4) Other persons
 
-&emsp;Any person claiming an interest in the property under a statutory lien or encumbrance created subsequent to the recording or filingof the mortgage being foreclosed, and attaching to the title or interest of any person designated in any of the foregoing paragraphs.
+&emsp;Any person claiming an interest in the property under a statutory lien or encumbrance created subsequent to the recording or filing of the mortgage being foreclosed, and attaching to the title or interest of any person designated in any of the foregoing paragraphs.
 
 (Pub. L. 103–327, title II, Sept. 28, 1994, 108 Stat. 2316.)
 

@@ -22,7 +22,7 @@ Loans guaranteed pursuant to this section shall meet the following requirements:
 
 #### (4) Lenders
 
-&emsp;The loan shall be made only by a lender approved by and meeting qualifications established by the Secretary, except that loans otherwise insured or guaranteed by an agency of the Federal Government or made by an organization of Indians from amounts borrowed from the United States shall not be eligible for guarantee under this section. The following lenders are deemed to be approved under this paragraph:
+&emsp;The loan shall be made only by a lender approved by and meeting qualifications established by the Secretary, except that loansotherwise insured or guaranteed by an agency of the Federal Government or made by an organization of Indians from amounts borrowed from the United States shall not be eligible for guarantee under this section. The following lenders are deemed to be approved under this paragraph:
 
 &emsp;&emsp;(A) Any mortgagee approved by the Secretary of Housing and Urban Development for participation in the single family mortgage insurance program under title II of the National Housing Act \[12 U.S.C. 1707 et seq.\].
 
@@ -120,7 +120,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (2) Limitations on liquidation
 
-&emsp;In the event of a default by the borrower on a loan guaranteed under this section involvinga security interest in restricted Indian land, the mortgagee or the Secretary shall only pursue liquidation after offering to transfer the account to an eligible tribal member, the tribe, or the Indian housing authority serving the tribe or tribes. If the mortgagee or the Secretary subsequently proceeds to liquidate the account, the mortgagee or the Secretary shall not sell, transfer, or otherwise dispose of or alienate the property except to one of the entities described in the preceding sentence.
+&emsp;In the event of a default by the borrower on a loan guaranteed under this section involving a security interest in restricted Indian land, the mortgagee or the Secretary shall only pursue liquidation after offering to transfer the account to an eligible tribal member, the tribe, or the Indian housing authority serving the tribe or tribes. If the mortgagee or the Secretary subsequently proceeds to liquidate the account, the mortgagee or the Secretary shall not sell, transfer, or otherwise dispose of or alienate the property except to one of the entities described in the preceding sentence.
 
 #### (i) Indian Housing Loan Guarantee Fund
 
@@ -204,7 +204,7 @@ The Secretary shall, by regulation, establish housing safety and quality standar
 
 &emsp;&emsp;(B) includes a kitchen sink and a partitional bathroom with lavatory, toilet, and bath or shower; and
 
-&emsp;&emsp;(C) uses water supply, plumbing, and sewage disposal systems that conform to anyapplicable tribal code or, if there is no applicable tribal code, the minimum standards established by the applicable county or State;
+&emsp;&emsp;(C) uses water supply, plumbing, and sewage disposal systems that conform to any applicable tribal code or, if there is no applicable tribal code, the minimum standards established by the applicable county or State;
 
 &emsp;(5) contain an electrical system using wiring and equipment properly installed to safely supply electrical energy for adequate lighting and for operation of appliances that conforms to any applicable tribal code or, if there is no applicable tribal code, an appropriate county, State, or National code;
 
@@ -278,7 +278,7 @@ The Housing Act of 1949, referred to in subsec. (b)(4)(C), is act July 15, 1949,
 
 The National Environmental Policy Act of 1969, referred to in subsec. (k), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-The Native American Housing Assistance and Self-Determination Act of 1996, referred to in subsecs. (k)(1) and (<i>l</i>)(5), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, as amended, which is classified principally to chapter43 (§4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 25 and Tables.
+The Native American Housing Assistance and Self-Determination Act of 1996, referred to in subsecs. (k)(1) and (<i>l</i>)(5), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, as amended, which is classified principally to chapter 43 (§4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 25 and Tables.
 
 The Alaska Native Claims Settlement Act, referred to in subsec. (<i>l</i>)(8), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
@@ -290,11 +290,11 @@ Section was enacted as part of the Housing and Community Development Act of 1992
 
 #### Amendments
 
-2007—Subsec. (i)(5)(C),(7). Pub. L. 110–37 substituted “fiscal years 2008 through 2012” for “fiscal years 1997 through 2007”.
+<b>2007</b>—Subsec. (i)(5)(C),(7). Pub. L. 110–37 substituted “fiscal years 2008 through 2012” for “fiscal years 1997 through 2007”.
 
-2002—Subsec. (i)(5)(C), (7). Pub. L. 107–292 substituted “each of fiscal years 1997 through 2007” for “each fiscal year”.
+<b>2002</b>—Subsec. (i)(5)(C), (7). Pub. L. 107–292 substituted “each of fiscal years 1997 through 2007” for “each fiscal year”.
 
-2000—Subsec. (a). Pub. L. 106–377, §1(a)(1) \[title II, §227(1)\], struck out “or as a result of a lack of access to private financial markets” after “legal status of Indian lands”.
+<b>2000</b>—Subsec. (a). Pub. L. 106–377, §1(a)(1) \[title II, §227(1)\], struck out “or as a result of a lack of access to private financial markets” after “legal status of Indian lands”.
 
 Subsec. (b)(2). Pub. L. 106–377, §1(a)(1) \[title II, §227(2)\], inserted “refinance,” after “acquire,”.
 
@@ -302,13 +302,13 @@ Subsec. (i)(5)(C). Pub. L. 106–568, §1002(1), and Pub. L. 106–569, §502(1)
 
 Subsec. (i)(7). Pub. L. 106–568, §1002(2), and Pub. L. 106–569, §502(2), amended par. (7) identically, substituting “each fiscal year” for “each of fiscal years 1997, 1998, 1999, 2000, and 2001”.
 
-1998—Subsec. (b)(2). Pub. L. 105–276, §595(e)(11), struck out before period at end “that is under the jurisdiction of an Indian tribe for which an Indian housing plan has been submitted and approved pursuant to sections 102 and 103 of the Native American Housing Assistance and Self-Determination Act of 1996 that provides for the use of loan guarantees under this section to provide affordable homeownership housing in such areas.”
+<b>1998</b>—Subsec. (b)(2). Pub. L. 105–276, §595(e)(11), struck out before period at end “that is under the jurisdiction of an Indian tribe for which an Indian housing plan has been submitted and approved pursuant to sections 102 and 103 of the Native American Housing Assistance and Self-Determination Act of 1996 that provides for the use of loan guarantees under this section to provide affordable homeownership housing in such areas.”
 
 Subsec. (i)(5)(C). Pub. L. 105–276, §595(e)(12), substituted “not” for “note”.
 
 Subsecs. (k), (<i>l</i>). Pub. L. 105–276, §595(e)(13), added subsec. (k) and redesignated former subsec. (k) as (<i>l</i>).
 
-1996—Subsec. (a). Pub. L. 104–330, §701(a)(1), (b), substituted “, Indian housing authorities, and Indian tribes,” for “and Indian housing authorities”, “lands or as a result of a lack of access to private financial markets” for “trust land”, and “, Indian housing authority, or Indian tribe” for “or Indian housing authority”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–330, §701(a)(1), (b), substituted “, Indian housing authorities, and Indian tribes,” for “and Indian housing authorities”, “lands or as a result of a lack of access to private financial markets” for “trust land”, and “, Indian housing authority, or Indian tribe” for “or Indian housing authority”.
 
 Subsec. (b)(1). Pub. L. 104–330, §701(a)(2), substituted “, Indian housing authorities, or Indian tribes” for “or Indian housing authorities”.
 
@@ -338,7 +338,7 @@ Subsec. (k)(8). Pub. L. 104–330, §701(h)(3), added par. (8) and struck out fo
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–276, title V, §595(f), Oct. 21, 1998, 112 Stat. 2659, provided that: “The amendments made by thissection \[enacting section 4168 of Title 25, Indians, amending this section, sections 4103, 4111 to 4113, 4131, 4135 to 4139 of Title 25, and sections 1437e and 12899h–1 of Title 42, The Public Health and Welfare, and repealing provisions set out as a note under section 1437 of Title 42\] are made and shall apply beginning upon the date of the enactment of this Act \[Oct. 21, 1998\].”
+Pub. L. 105–276, title V, §595(f), Oct. 21, 1998, 112 Stat. 2659, provided that: “The amendments made by this section \[enacting section 4168 of Title 25, Indians, amending this section, sections 4103, 4111 to 4113, 4131, 4135 to 4139 of Title 25, and sections 1437e and 12899h–1 of Title 42, The Public Health and Welfare, and repealing provisions set out as a note under section 1437 of Title 42\] are made and shall apply beginning upon the date of the enactment of this Act \[Oct. 21, 1998\].”
 
 <i><sup>1</sup></i><i> So in original. Probably should be section “3702(d)”.</i>
 

@@ -4,9 +4,9 @@
 
 Except as provided under subsection (b), no part of the Capitol Visitor Center may be designated or named without the approval of—
 
-&emsp;(1) not less than 3/4 of all members on the Capitol Preservation Commission who are members of the Democratic party; and
+&emsp;(1) not less than ¾ of all members on the Capitol Preservation Commission who are members of the Democratic party; and
 
-&emsp;(2) not less than 3/4 of all members on the Capitol Preservation Commission who are members of the Republican party.
+&emsp;(2) not less than ¾ of all members on the Capitol Preservation Commission who are members of the Republican party.
 
 #### (b) Exception
 

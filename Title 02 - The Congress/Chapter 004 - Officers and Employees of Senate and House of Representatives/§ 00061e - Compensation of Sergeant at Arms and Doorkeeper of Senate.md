@@ -10,9 +10,9 @@ A prior section 61e, act Aug. 5, 1955, ch. 568, §1, 69 Stat. 501, prescribed gr
 
 #### Amendments
 
-1975—Pub. L. 94–59 substituted “an annual rate of compensation of $40,000” for “a rate of $38,760 per annum”, effective July 1, 1975.
+<b>1975</b>—Pub. L. 94–59 substituted “an annual rate of compensation of $40,000” for “a rate of $38,760 per annum”, effective July 1, 1975.
 
-1974—Pub. L. 93–371 substituted provisions authorizing Sergeant at Arms and Doorkeeper to be paid at an annual rate of compensation of $38,760, for provisions setting forth compensation of Sergeant at Arms at rate of $27,500 per annum, effective July 1, 1974.
+<b>1974</b>—Pub. L. 93–371 substituted provisions authorizing Sergeant at Arms and Doorkeeper to be paid at an annual rate of compensation of $38,760, for provisions setting forth compensation of Sergeant at Arms at rate of $27,500 per annum, effective July 1, 1974.
 
 #### Effective Date
 

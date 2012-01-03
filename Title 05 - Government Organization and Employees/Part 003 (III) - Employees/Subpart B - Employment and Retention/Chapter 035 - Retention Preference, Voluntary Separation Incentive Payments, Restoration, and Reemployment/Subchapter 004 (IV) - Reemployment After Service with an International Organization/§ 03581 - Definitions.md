@@ -22,7 +22,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(B) the reemployment of a Congressional employee within 90 days from his separation from an international organization;
 
-> &emsp;following a term of employment not extending beyond the period named by the head of the agency at the time of consent to transfer or, in the absence of a named period, not extending beyond the first 5 consecutive years, or any extension thereof, after entering the employ of the international organization.
+> &emsp;following a term of employment not extending beyond the period named by the head of the agency at the time of consent to transfer or,in the absence of a named period, not extending beyond the first 5 consecutive years, or any extension thereof, after entering the employ of the international organization.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 429; Pub. L. 91–175, pt. V, §502(b), Dec. 30, 1969, 83 Stat. 825; Pub. L. 94–183, §2(9), Dec. 31, 1975, 89 Stat. 1057.)
 
@@ -52,9 +52,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1975—Subsec. (5)(A). Pub. L. 94–183 substituted “3582(b)” for “3582(a)”.
+<b>1975</b>—Subsec. (5)(A). Pub. L. 94–183 substituted “3582(b)” for “3582(a)”.
 
-1969—Par. (5). Pub. L. 91–175 substituted “the first 5 consecutive years, or any extension thereof, after entering the employ of the international organization” for “the first 3 consecutive years after entering the employ of the international organization”.
+<b>1969</b>—Par. (5). Pub. L. 91–175 substituted “the first 5 consecutive years, or any extension thereof, after entering the employ of the international organization” for “the first 3 consecutive years after entering the employ of the international organization”.
 
 #### Delegation of Authority
 

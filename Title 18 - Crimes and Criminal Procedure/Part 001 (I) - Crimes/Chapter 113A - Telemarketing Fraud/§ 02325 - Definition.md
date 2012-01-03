@@ -48,5 +48,5 @@ Hotline.—The Attorney General shall, subject to the availability of appropriat
 
 “(b)
 
-Action on Information Gathered.—The Attorney General shall work in cooperation with the FederalTrade Commission to ensure that information gathered through the hotline shall be acted on in an appropriate manner.”
+Action on Information Gathered.—The Attorney General shall work in cooperation with the Federal Trade Commission to ensure that information gathered through the hotline shall be acted on in an appropriate manner.”
 

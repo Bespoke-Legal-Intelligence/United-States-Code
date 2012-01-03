@@ -108,7 +108,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Any selected entity shall collaborate to develop procedures and requirements for the accreditation and certification processes under this subsection, in accordance with the program established under this subsection and guidelines developed under paragraph (2)(A)(ii).
+&emsp;&emsp;&emsp;Any selected entity shall collaborate to develop procedures and requirements forthe accreditation and certification processes under this subsection, in accordance with the program established under this subsection and guidelines developed under paragraph (2)(A)(ii).
 
 #### (ii) Contents and use
 
@@ -162,7 +162,7 @@
 
 #### (ii) Revocation
 
-&emsp;&emsp;&emsp;If the designated officer or any selected entity determines that a third party is notmeeting the procedures or requirements established under subparagraph (B), the selected entity shall—
+&emsp;&emsp;&emsp;If the designated officer or any selected entity determines that a third party is not meeting the procedures or requirements established under subparagraph (B), the selected entity shall—
 
 &emsp;&emsp;&emsp;&emsp;(I) revoke the accreditation of that third party to conduct certifications under this subsection; and
 

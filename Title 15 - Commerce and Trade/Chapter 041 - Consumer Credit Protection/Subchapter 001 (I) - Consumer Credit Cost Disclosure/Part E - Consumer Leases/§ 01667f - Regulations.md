@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Board shall prescribe regulations to update and clarify the requirements and definitions applicable to lease disclosures and contracts, and any other issues specifically related to consumer leasing, to the extent that the Board determines such action to be necessary—
+&emsp;The Bureau shall prescribe regulations to update and clarify the requirements and definitions applicable to lease disclosures and contracts, and any other issues specifically related to consumer leasing, to the extent that the Bureau determines such action to be necessary—
 
 &emsp;&emsp;(A) to carry out this part;
 
@@ -14,39 +14,31 @@
 
 #### (2) Classifications, adjustments
 
-&emsp;Any regulations prescribed under paragraph (1) may contain classifications and differentiations, and may provide for adjustments and exceptions for any class of transactions, as the Board considers appropriate.
+&emsp;Any regulations prescribed under paragraph (1) may contain classifications and differentiations, and may provide for adjustments and exceptions for any class of transactions, as the Bureau considers appropriate.
 
 #### (b) Model disclosure
 
 #### (1) Publication
 
-&emsp;The Board shall establish and publish model disclosure forms to facilitate compliance with the disclosure requirements of this part and to aid the consumer in understanding the transaction to which the subject disclosure form relates.
+&emsp;The Bureau shall establish and publish model disclosure forms to facilitate compliance with the disclosure requirements of this part and to aid the consumer in understanding the transaction to which the subject disclosure form relates.
 
 #### (2) Use of automated equipment
 
-&emsp;In establishing model forms under this subsection, the Board shall consider the use by lessors of data processing or similar automated equipment.
+&emsp;In establishing model forms under this subsection, the Bureau shall consider the use by lessors of data processing or similar automated equipment.
 
 #### (3) Use optional
 
-&emsp;A lessor may utilize a model disclosure form established by the Board under this subsection for purposes of compliance with this part, at the discretion of the lessor.
+&emsp;A lessor may utilize a model disclosure form established by the Bureau under this subsection for purposes of compliance with this part, at the discretion of the lessor.
 
 #### (4) Effect of use
 
-&emsp;Any lessor who properly uses the material aspects of any model disclosure form established by the Board under this subsection shall be deemed to be in compliance with the disclosure requirements to which the form relates.
+&emsp;Any lessor who properly uses the material aspects of any model disclosure form established by the Bureau under this subsection shall be deemed to be in compliance with the disclosure requirements to which the form relates.
 
 (Pub. L. 90–321, title I, §187, as added Pub. L. 104–208, div. A, title II, §2605(b)(1), Sept. 30, 1996, 110 Stat. 3009–471; amended Pub. L. 111–203, title X, §1100A(2), (10), July 21, 2010, 124 Stat. 2107, 2109.)
 
-#### Amendment of Section
+#### Amendments
 
-<i>Pub. L. 111–203, title X, §§1100A(2), (10), 1100H, July 21, 2010, 124 Stat. 2107, 2109, 2113, provided that, effective on the designated transfer date, this section is amended as follows:</i>
-
-<i>(1) by striking “Board” each place that term appears and inserting “Bureau”;</i>
-
-<i>(2) by striking “the Board” each place that term appears and inserting “the Bureau”; and</i>
-
-<i>(3) by striking “The Board” each place that term appears and inserting “The Bureau”.</i>
-
-<i>See Effective Date of 2010 Amendment note below.</i>
+<b>2010</b>—Pub. L. 111–203, §1100A(2), (10), substituted “Bureau” for “Board”, “the Bureau” for “the Board”, and “The Bureau” for “The Board ” wherever appearing.
 
 #### Effective Date of 2010 Amendment
 

@@ -14,7 +14,7 @@ In determining the taxable income of an organization to which this part applies,
 
 &emsp;(3) as per-unit retain allocations (as defined in section 1388(f)), to the extent paid in money, qualified per-unit retain certificates (as defined in section 1388(h)), or other property (except nonqualified per-unit retain certificates, as defined in section 1388(i)) with respect to marketing occurring during such taxable year; or
 
-&emsp;(4) in money or other property (except per-unit retain certificates) in redemption of a nonqualified per-unit retain certificate which was paid as a per-unit retain allocation during the payment period for the taxable year during which the marketing occurred.
+&emsp;(4) in money or other property (except per-unit retain certificates) in redemption of anonqualified per-unit retain certificate which was paid as a per-unit retain allocation during the payment period for the taxable year during which the marketing occurred.
 
 > For purposes of this title, any amount not taken into account under the preceding sentence shall, in the case of an amount described in paragraph (1) or (2), be treated in the same manner as an item of gross income and as a deduction therefrom, and in the case of an amount described in paragraph (3) or (4), be treated as a deduction in arriving at gross income.
 

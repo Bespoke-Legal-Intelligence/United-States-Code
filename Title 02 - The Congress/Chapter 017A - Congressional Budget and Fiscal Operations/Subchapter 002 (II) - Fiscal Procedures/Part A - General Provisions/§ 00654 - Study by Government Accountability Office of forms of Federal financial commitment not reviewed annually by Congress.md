@@ -10,11 +10,11 @@ A prior section 404 of Pub. L. 93–344, which is not classified to the Code, wa
 
 #### Amendments
 
-2004—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in section catchline and text.
+<b>2004</b>—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in section catchline and text.
 
-1997—Pub. L. 105–33, §10116(c)(2), substituted “mandatory spending” for “spending authority as described by section 651(c)(2) of this title and which provide permanent appropriations,”.
+<b>1997</b>—Pub. L. 105–33, §10116(c)(2), substituted “mandatory spending” for “spending authority as described by section 651(c)(2) of this title and which provide permanent appropriations,”.
 
 #### Effective Date
 
-Section effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, set out as an Effective and Termination Dates note under section 900 of this title.
+Section effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of this title prior to repeal by Pub. L. 112–25, title I, §104(a), Aug. 2, 2011, 125 Stat. 246.
 

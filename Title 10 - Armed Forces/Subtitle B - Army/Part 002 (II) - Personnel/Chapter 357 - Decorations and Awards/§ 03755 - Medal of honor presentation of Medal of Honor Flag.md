@@ -24,7 +24,7 @@ Living recipients.—The President shall provide for the presentation of the Med
 
 “(2)
 
-Survivors of deceased recipients.—In the case of presentation of the Medal of Honor Flag for a recipient of the Medal of Honor who was awarded the Medal of Honor before the date of the enactment of this Act \[Oct. 17, 2006\] and who is deceased as of such date (or who dies after such date and before the presentation required by paragraph (1)), the President shall provide for posthumous presentation of the Medal of Honor Flag, upon written application therefor, to the primary living next of kin, as determined under regulations or procedures prescribed by the Secretary of Defense for the purposes of this paragraph (and notwithstanding the amendments made by paragraph (2) of subsection (a) \[amending this section\]).
+Survivors of deceased recipients.—In the case of presentation of the Medal of Honor Flag for a recipient of the Medal of Honor who was awarded the Medal of Honor before the date of the enactment of this Act \[Oct. 17, 2006\] and who is deceased as of such date (or who dies after such date and before the presentation required by paragraph (1)), the President shall provide for posthumous presentation of the Medal of Honor Flag, upon written application therefor, to the primary living next of kin, as determined under regulations or procedures prescribed by the Secretary of Defense for thepurposes of this paragraph (and notwithstanding the amendments made by paragraph (2) of subsection (a) \[amending this section\]).
 
 “(3)
 

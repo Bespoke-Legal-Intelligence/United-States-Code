@@ -8,7 +8,7 @@ Authority To Award.—Subject to the requirements of this section, section 4106 
 
 Solicitation.—The solicitation for a task or delivery order contract shall include—
 
-&emsp;(1) the period of the contract, including the number of options to extend the contract andthe period for which the contract may be extended under each option;
+&emsp;(1) the period of the contract, including the number of options to extend the contract and the period for which the contract may be extended under each option;
 
 &emsp;(2) the maximum quantity or dollar value of the services or property to be procured under the contract; and
 
@@ -62,7 +62,7 @@ Notification of Congress.—The head of the executive agency shall notify Congre
 
 Regulations.—Regulations implementing this subsection shall establish—
 
-&emsp;&emsp;(A) a preference for awarding, to the maximum extent practicable, multiple task or delivery order contracts for the same or similar services or property under paragraph (1)(B); and
+&emsp;&emsp;(A) a preference for awarding, to the maximum extent practicable, multiple task ordelivery order contracts for the same or similar services or property under paragraph (1)(B); and
 
 &emsp;&emsp;(B) criteria for determining when award of multiple task or delivery order contracts would not be in the best interest of the Federal Government.
 

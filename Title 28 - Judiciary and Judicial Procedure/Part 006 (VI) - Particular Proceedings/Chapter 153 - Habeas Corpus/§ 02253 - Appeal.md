@@ -20,7 +20,7 @@
 
 #### 1948 Act
 
-Based on title 28, U.S.C., 1940 ed., §§463(a) and 466 (Mar. 10, 1908, ch. 76, 36 Stat. 40; Feb. 13, 1925, ch. 229, §§6, 13, 43 Stat. 940, 942; June 29, 1938, ch. 806, 52 Stat. 1232).
+Based on title 28, U.S.C., 1940 ed., §§463(a) and 466 (Mar. 10, 1908, ch. 76, 36 \[35\] Stat. 40; Feb. 13, 1925, ch. 229, §§6, 13, 43 Stat. 940, 942; June 29, 1938, ch. 806, 52 Stat. 1232).
 
 This section consolidates paragraph (a) of section 463, and section 466 of title 28, U.S.C., 1940 ed.
 

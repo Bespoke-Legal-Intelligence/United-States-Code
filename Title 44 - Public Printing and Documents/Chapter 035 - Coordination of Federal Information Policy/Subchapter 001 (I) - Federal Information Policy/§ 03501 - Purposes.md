@@ -360,7 +360,7 @@ Purposes.—The purposes of this section are to—
 
 “(b)
 
-Information Provided by Agencies Online.—To the extent practicable as determined by the agency inconsultation with the Director, each agency (as defined under section 551 of title 5, United States Code) shall ensure that a publicly accessible Federal Government website includes all information about that agency required to be published in the Federal Register under paragraphs (1) and (2) of section 552(a) of title 5, United States Code.
+Information Provided by Agencies Online.—To the extent practicable as determined by the agency in consultation with the Director, each agency (as defined under section 551 of title 5, United States Code) shall ensure that a publicly accessible Federal Government website includes all information about that agency required to be published in the Federal Register under paragraphs (1) and (2) of section 552(a) of title 5, United States Code.
 
 “(c)
 
@@ -806,7 +806,7 @@ In general.—In consultation with the Director of the Office of Management and 
 
 &emsp;&emsp;“(A) analyze, on an ongoing basis, the personnel needs of the Federal Government related to information technology and information resource management;
 
-&emsp;&emsp;“(B) identify where current information technology and information resource managementtraining do not satisfy the personnel needs described in subparagraph (A);
+&emsp;&emsp;“(B) identify where current information technology and information resource management training do not satisfy the personnel needs described in subparagraph (A);
 
 &emsp;&emsp;“(C) oversee the development of curricula, training methods, and training priorities that correspond to the projected personnel needs of the Federal Government related to information technology and information resource management; and
 
@@ -1166,7 +1166,7 @@ Study and Report.—Not later than 2 years after the effective date of this titl
 
 &emsp;&emsp;“(C) the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives; and
 
-&emsp;&emsp;“(D) the Committee on Education and the Workforce \[now Committee on Education and Labor\] of the House of Representatives.
+&emsp;&emsp;“(D) the Committee on Education and the Workforce of the House of Representatives.
 
 “(c)
 
@@ -1206,7 +1206,7 @@ Assistance.—
 
 &emsp;“(1)
 
-In general.—The Administrator, in consultation with the Secretary of Education, shall work with other relevant Federal agencies, and other interested persons in the private and nonprofit sectors to—
+In general.—The Administrator, in consultation with the Secretary of Education, shall work withother relevant Federal agencies, and other interested persons in the private and nonprofit sectors to—
 
 &emsp;&emsp;“(A) assist in the implementation of recommendations; and
 
@@ -1326,7 +1326,7 @@ Contents.—The report under subsection (a) shall include a study of—
 
 &emsp;&emsp;“(D) changes in the nature of personal and public Internet access that may alleviate or aggravate effective access to online Government services;
 
-&emsp;“(2) how the increase in online Government services is influencing the disparities in Internet access andhow technology development or diffusion trends may offset such adverse influences; and
+&emsp;“(2) how the increase in online Government services is influencing the disparities in Internet access and how technology development or diffusion trends may offset such adverse influences; and
 
 &emsp;“(3) related societal effects arising from the interplay of disparities in Internet access and the increase in online Government services.
 
@@ -1436,7 +1436,7 @@ Pub. L. 107–347, title V, Dec. 17, 2002, 116 Stat. 2962, provided that:
 
 &emsp;&emsp;“(B) includes the disclosure under section 552 of title 5, United States Code (popularly known as the Freedom of Information Act) of data that are acquired for exclusively statistical purposes under a pledge of confidentiality.
 
-&emsp;“(6) The term ‘respondent’ means a person who, or organization that, is requested or required to supply information to an agency, is the subject of information requested or required to be supplied to an agency, or provides that information to an agency.
+&emsp;“(6) The term ‘respondent’ means a person who, or organization that, is requested or required to supplyinformation to an agency, is the subject of information requested or required to be supplied to an agency, or provides that information to an agency.
 
 &emsp;“(7) The term ‘statistical activities’—
 
@@ -1614,7 +1614,7 @@ Purposes.—The purposes of this subtitle are the following:
 
 &emsp;“(2) To reduce the paperwork burdens imposed on businesses that provide requested information to the Federal Government.
 
-&emsp;“(3) To improve the comparability and accuracy of Federal economic statistics by allowing the Bureau of the Census, the Bureau of Economic Analysis, andthe Bureau of Labor Statistics to update sample frames, develop consistent classifications of establishments and companies into industries, improve coverage, and reconcile significant differences in data produced by the three agencies.
+&emsp;“(3) To improve the comparability and accuracy of Federal economic statistics by allowing the Bureau of the Census, the Bureau of Economic Analysis, and the Bureau of Labor Statistics to update sample frames, develop consistent classifications of establishments and companies into industries, improve coverage, and reconcile significant differences in data produced by the three agencies.
 
 &emsp;“(4) To increase understanding of the United States economy, especially for key industry and regional statistics, to develop more accurate measures of the impact of technology on productivity growth, and to enhance the reliability of the Nation's most important economic indicators, such as the National Income and Product Accounts.
 
@@ -1710,7 +1710,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Purpose</i>. This order establishes an open and uniform program for managing information that requires safeguarding or dissemination controls pursuant to and consistent with law, regulations, and Government-wide policies, excluding information that is classified under Executive Order 13526 of December 29, 2009, or the Atomic Energy Act, as amended.
 
-At present, executive departments and agencies (agencies) employ ad hoc, agency-specific policies, procedures, and markings to safeguard and control this information, such as information that involves privacy, security, proprietary business interests, and law enforcement investigations. This inefficient, confusing patchwork has resulted in inconsistent marking and safeguarding of documents, led to unclear or unnecessarily restrictive dissemination policies, and created impediments to authorized information sharing. Thefact that these agency-specific policies are often hidden from public view has only aggravated these issues.
+At present, executive departments and agencies (agencies) employ ad hoc, agency-specific policies, procedures, and markings to safeguard and control this information, such as information that involves privacy, security, proprietary business interests, and law enforcement investigations. This inefficient, confusing patchwork has resulted in inconsistent marking and safeguarding of documents, led to unclear or unnecessarily restrictive dissemination policies, and created impediments to authorized information sharing. The fact that these agency-specific policies are often hidden from public view has only aggravated these issues.
 
 To address these problems, this order establishes a program for managing this information, hereinafter described as Controlled Unclassified Information, that emphasizes the openness and uniformity of Government-wide practice.
 
@@ -1718,7 +1718,7 @@ Sec. 2. <i>Controlled Unclassified Information (CUI).</i>
 
 (a) The CUI categories and subcategories shall serve as exclusive designations for identifying unclassified information throughout the executive branch that requires safeguarding or dissemination controls, pursuant to and consistent with applicable law, regulations, and Government-wide policies.
 
-(b) The mere fact that information is designated as CUI shall not have a bearing on determinations pursuant to any law requiring the disclosure of information or permitting disclosure as a matter of discretion, including disclosures to the legislative or judicial branches.
+(b) The mere fact that information is designated as CUI shall not have a bearing on determinations pursuant to any law requiring the disclosure of informationor permitting disclosure as a matter of discretion, including disclosures to the legislative or judicial branches.
 
 (c) The National Archives and Records Administration shall serve as the Executive Agent to implement this order and oversee agency actions to ensure compliance with this order.
 
@@ -1775,6 +1775,50 @@ Sec. 6. <i>General Provisions.</i>
 (f) The Attorney General, upon request by the head of an agency or the Executive Agent, shall render an interpretation of this order with respect to any question arising in the course of its administration.
 
 (g) The Presidential Memorandum of May 7, 2008, entitled “Designation and Sharing of Controlled Unclassified Information (CUI)” is hereby rescinded.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Making It Easier for America's Small Businesses and America's Exporters to Access Government Services to Help Them Grow and Hire
+
+Memorandum of President of the United States, Oct. 28, 2011, 76 F.R. 68049, provided:
+
+Memorandum for the Heads of Executive Departments and Agencies
+
+As I outlined in my State of the Union address to the Congress on January 25, 2011, winning the future in the global economy will require a Government that wisely allocates its scarce resources to maximize efficiency and effectiveness so that it can best support American competitiveness, innovation, and job growth. If we are to thrive in the global economy, and make America the best place on Earth to do business, we need to equip our Government with the tools necessary to support innovation and job growth in the 21st century.
+
+Accordingly, we must make it easier for businesses to access the full range of Government programs and services without having to waste effort navigating their way through the Federal bureaucracy. At the same time, we must further streamline and coordinate Federal programs to reduce costs and provide customer-oriented service.
+
+Businesses looking for assistance from the Federal Government should feel like they are interacting with one entity, rather than a number of separate, albeit linked, components. This means adopting a “No Wrong Door” policy that uses technology to quickly connect businesses to the services and information relevant to them, regardless of which agency's website, call center, or office they go to for help.
+
+In addition, a business's interactions with the Federal Government should be individualized and efficient. If the private sector can allow consumers to customize interactions so that they receive only the information they want, in the form they want it, so can the Federal Government.
+
+Today, I am directing a first wave of changes focused on both small businesses and businesses of all sizes that want to begin or increase exporting (exporters), because those businesses help drive economic growth and have the most to gain from Federal assistance. We plan to use the resulting improvements as a model for future reforms so that, in time, all businesses and all citizens receive the highest level of customer service when they interact with the Federal Government.
+
+Accordingly, I direct the following:
+
+(1) All executive departments and agencies (agencies) shall work with a Steering Committee co-chaired by the Federal Chief Information Officer, Assistant to the President and Chief Technology Officer, and Chief Performance Officer (the Co-Chairs) to carry out the directives in this memorandum within 90 days of the date of this memorandum, unless a provision of this memorandum expressly states otherwise. The Steering Committee shall include senior policy and technical representatives, appointed by the heads of their respective agencies, from the Departments of State, Defense, Agriculture, Commerce, and Veterans Affairs, the Small Business Administration (SBA), the General Services Administration (GSA), the Export-Import Bank, and other agencies designated by the Co-Chairs. The Co-Chairs and representatives from the Department of Commerce and SBA shall serve as the Executive Committee of the Steering Committee, which shall coordinate the strategy, design, development, launch, and operation of BusinessUSA, a common, open, online platform and web service with dedicated resources that will, as a first step, disseminate core information regarding the Federal Government's programs and services relevant to small businesses and exporters.
+
+(2) Agencies shall work with the Steering Committee to develop and launch an introductory version of BusinessUSA. BusinessUSA shall be designed, tested, and built with the active feedback of U.S. businesses and relevant online communities. To the extent appropriate, practicable, and permitted by law, the BusinessUSA platform shall integrate related State and local government services as well as those of private sector partners.
+
+(3) Agencies shall make information regarding their small business and export programs and services accessible through BusinessUSA. To accomplish this in a uniform fashion, the Steering Committee shall develop a common set of standards for content available through BusinessUSA, which shall identify the types of programs and services to be included initially on BusinessUSA and a structure for organizing and presenting such information. These standards shall be used by all agencies in the creation, presentation, and delivery of information regarding their programs and services, to the extent practicable and permitted by law.
+
+(4) Agencies shall also work with the Steering Committee to develop new content for BusinessUSA that synthesizes information available across agencies to better serve small businesses and exporters. Among other things, agencies shall work together to aggregate on the BusinessUSA platform statistical, demographic, and other raw Government datasets of particular interest to small businesses and exporters, making Government data more easily accessible and spurring innovative uses of the data through business-oriented web or mobile applications.
+
+(5) Agencies shall integrate BusinessUSA, including ready access to the BusinessUSA website, into their current websites, call centers, and field offices to ensure that small businesses and exporters have access to the wide range of Government programs and services at each entry point into the Federal Government. During the year following the date of this memorandum, agencies shall work with GSA and the Office of Management and Budget to enhance the centralized call center for responding to public questions about Federal programs and services (1–800–FED–INFO) to add expertise with Government programs and services for small businesses and exporters.
+
+(6) (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+&emsp;(i) authority granted by law or Executive Order to an agency, or the head thereof; or
+
+&emsp;(ii) functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) BusinessUSA shall be operated by a single hosting agency under the Executive Committee's coordination. To the extent permitted by law, agencies shall reimburse the hosting agency for the cost of establishing, maintaining, and operating BusinessUSA.
+
+(c) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(d) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(7) The Director of the Office of Management and Budget is authorized and directed to publish this memorandum in the Federal Register.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

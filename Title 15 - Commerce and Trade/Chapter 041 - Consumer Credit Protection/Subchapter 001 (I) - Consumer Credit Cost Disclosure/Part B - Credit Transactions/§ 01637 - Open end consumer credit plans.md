@@ -12,17 +12,17 @@ Before opening any account under an open end consumer credit plan, the creditor 
 
 &emsp;(4) Where one or more periodic rates may be used to compute the finance charge, each such rate, the range of balances to which it is applicable, and the corresponding nominal annual percentage rate determined by multiplying the periodic rate by the number of periods in a year.
 
-&emsp;(5) Identification of other charges which may be imposed as part of the plan, and their method of computation, in accordance with regulations of the Board.
+&emsp;(5) Identification of other charges which may be imposed as part of the plan, and their method of computation, in accordance with regulations of the Bureau.
 
 &emsp;(6) In cases where the credit is or will be secured, a statement that a security interest has been or will be taken in (A) the property purchased as part of the credit transaction, or (B) property not purchased as part of the credit transaction identified by item or type.
 
-&emsp;(7) A statement, in a form prescribed by regulations of the Board of the protection provided by sections 1666 and 1666i of this title to an obligor and the creditor's responsibilities under sections 1666a and 1666i of this title. With respect to one billing cycle per calendar year, at intervals of not less than six months or more than eighteen months, the creditor shall transmit such statement to each obligor to whom the creditor is required to transmit a statement pursuant to subsection (b) of this section for such billing cycle.
+&emsp;(7) A statement, in a form prescribed by regulations of the Bureau of the protection provided by sections 1666 and 1666i of this title to an obligor and the creditor's responsibilities under sections 1666a and 1666i of this title. With respect to one billing cycle per calendar year, at intervals of not less than six months or more than eighteen months, the creditor shall transmit such statement to each obligor to whom the creditor is required to transmit a statement pursuant to subsection (b) of this section for such billing cycle.
 
 &emsp;(8) In the case of any account under an open end consumer credit plan which provides for any extension of credit which is secured by the consumer's principal dwelling, any information which—
 
 &emsp;&emsp;(A) is required to be disclosed under section 1637a(a) of this title; and
 
-&emsp;&emsp;(B) the Board determines is not described in any other paragraph of this subsection.
+&emsp;&emsp;(B) the Bureau determines is not described in any other paragraph of this subsection.
 
 #### (b) Statement required with each billing cycle
 
@@ -30,7 +30,7 @@ The creditor of any account under an open end consumer credit plan shall transmi
 
 &emsp;(1) The outstanding balance in the account at the beginning of the statement period.
 
-&emsp;(2) The amount and date of each extension of credit during the period, and a brief identification, on or accompanying the statement of each extension of credit in a form prescribed by the Board sufficient to enable the obligor either to identify the transaction or to relate it to copies of sales vouchers or similar instruments previously furnished, except that a creditor's failure to disclose such information in accordance with this paragraph shall not be deemed a failure to comply with this part or this subchapter if (A) the creditor maintains procedures reasonably adapted to procure andprovide such information, and (B) the creditor responds to and treats any inquiry for clarification or documentation as a billing error and an erroneously billed amount under section 1666 of this title. In lieu of complying with the requirements of the previous sentence, in the case of any transaction in which the creditor and seller are the same person, as defined by the Board, and such person's open end credit plan has fewer than 15,000 accounts, the creditor may elect to provide only the amount and date of each extension of credit during the period and the seller's name and location where the transaction took place if (A) a brief identification of the transaction has been previously furnished, and (B) the creditor responds to and treats any inquiry for clarification or documentation as a billing error and an erroneously billed amount under section 1666 of this title.
+&emsp;(2) The amount and date of each extension of credit during the period, and a brief identification, on or accompanying the statement of each extension of credit in a form prescribed by the Bureau sufficient to enable the obligor either to identify the transaction or to relate it to copies of sales vouchers or similar instruments previously furnished, except that a creditor's failure to disclose such information in accordance with this paragraph shall not be deemed a failure to comply with this part or this subchapter if (A) the creditor maintains procedures reasonably adapted to procure and provide such information, and (B) the creditor responds to and treats any inquiry for clarification or documentation as a billing error and an erroneously billed amount under section 1666 of this title. In lieu of complying with the requirements of the previous sentence, in the case of any transaction in which the creditor and seller are the same person, as defined by the Bureau, and such person's openend credit plan has fewer than 15,000 accounts, the creditor may elect to provide only the amount and date of each extension of credit during the period and the seller's name and location where the transaction took place if (A) a brief identification of the transaction has been previously furnished, and (B) the creditor responds to and treats any inquiry for clarification or documentation as a billing error and an erroneously billed amount under section 1666 of this title.
 
 &emsp;(3) The total amount credited to the account during the period.
 
@@ -48,7 +48,7 @@ The creditor of any account under an open end consumer credit plan shall transmi
 
 &emsp;(10) The address to be used by the creditor for the purpose of receiving billing inquiries from the obligor.
 
-&emsp;(11)(A) A written statement in the following form: “Minimum Payment Warning: Making only the minimum payment will increase the amount of interest you pay and the time it takes to repay your balance.”, or such similar statement as is established by the Board pursuant to consumer testing.
+&emsp;(11)(A) A written statement in the following form: “Minimum Payment Warning: Making only the minimum payment will increase the amount of interest you pay and the time it takes to repay your balance.”, or such similar statement as is established by the Bureau pursuant to consumer testing.
 
 &emsp;(B) Repayment information that would apply to the outstanding balance of the consumer under the credit plan, including—
 
@@ -66,23 +66,23 @@ The creditor of any account under an open end consumer credit plan shall transmi
 
 &emsp;(D) All of the information described in subparagraph (B) shall—
 
-&emsp;&emsp;(i) be disclosed in the form and manner which the Board shall prescribe, by regulation, and in a manner that avoids duplication; and
+&emsp;&emsp;(i) be disclosed in the form and manner which the Bureau shall prescribe, by regulation, and in a manner that avoids duplication; and
 
 &emsp;&emsp;(ii) be placed in a conspicuous and prominent location on the billing statement.
 
-&emsp;(E) In the regulations prescribed under subparagraph (D), the Board shall require that the disclosure of such information shall be in the form of a table that—
+&emsp;(E) In the regulations prescribed under subparagraph (D), the Bureau shall require that the disclosure of such information shall be in the form of a table that—
 
 &emsp;&emsp;(i) contains clear and concise headings for each item of such information; and
 
 &emsp;&emsp;(ii) provides a clear and concise form stating each item of information required to be disclosed under each such heading.
 
-&emsp;(F) In prescribing the form of the table under subparagraph (E), the Board shall require that—
+&emsp;(F) In prescribing the form of the table under subparagraph (E), the Bureau shall require that—
 
-&emsp;&emsp;(i) all of the information in the table, and not just a reference to the table, be placedon the billing statement, as required by this paragraph; and
+&emsp;&emsp;(i) all of the information in the table, and not just a reference to the table, be placed on the billing statement, as required by this paragraph; and
 
 &emsp;&emsp;(ii) the items required to be included in the table shall be listed in the order in which such items are set forth in subparagraph (B).
 
-&emsp;(G) In prescribing the form of the table under subparagraph (D), the Board shall employ terminology which is different than the terminology which is employed in subparagraph (B), if such terminology is more easily understood and conveys substantially the same meaning.
+&emsp;(G) In prescribing the form of the table under subparagraph (D), the Bureau shall employ terminology which is different than the terminology which is employed in subparagraph (B), if such terminology is more easily understood and conveys substantially the same meaning.
 
 &emsp;(12)
 
@@ -132,9 +132,9 @@ Payments at local branches.—If the creditor, in the case of a credit card acco
 
 #### (iv) Balance calculation method
 
-&emsp;&emsp;&emsp;(I) The name of the balance calculation method used in determining the balance on which the finance charge is computed if the method used has been defined by the Board, or a detailed explanation of the balance calculation method used if the method has not been so defined.
+&emsp;&emsp;&emsp;(I) The name of the balance calculation method used in determining the balance on which the finance charge is computed if the method used has been defined by the Bureau, or a detailed explanation of the balance calculation method used if the method has not been so defined.
 
-&emsp;&emsp;&emsp;(II) In prescribing regulations to carry out this clause, the Board shall define and name not more than the 5 balance calculation methods determined by the Board to be the most commonly used methods.
+&emsp;&emsp;&emsp;(II) In prescribing regulations to carry out this clause, the Bureau shall define and name not more than the 5 balance calculation methods determined by the Bureau to be the most commonly used methods.
 
 #### (B) Other information
 
@@ -156,7 +156,7 @@ Payments at local branches.—If the creditor, in the case of a credit card acco
 
 #### (A) In general
 
-&emsp;&emsp;In any telephone solicitation to open a credit card account for any person under an open end consumer credit plan, the person making the solicitation shall orally disclose the information described in paragraph (1)(A).
+&emsp;&emsp;In any telephone solicitation to open a credit card account for any person under anopen end consumer credit plan, the person making the solicitation shall orally disclose the information described in paragraph (1)(A).
 
 #### (B) Exception
 
@@ -226,7 +226,7 @@ Payments at local branches.—If the creditor, in the case of a credit card acco
 
 #### (E) Prompt response to information requests
 
-&emsp;&emsp;Upon receipt of a request for any of the information referred to in subparagraph (B), (C), or (D), the card issuer or the agent ofsuch issuer shall promptly disclose all of the information described in paragraph (1).
+&emsp;&emsp;Upon receipt of a request for any of the information referred to in subparagraph (B), (C), or (D), the card issuer or the agent of such issuer shall promptly disclose all of the information described in paragraph (1).
 
 #### (4) Charge card applications and solicitations
 
@@ -294,9 +294,9 @@ Payments at local branches.—If the creditor, in the case of a credit card acco
 
 &emsp;&emsp;For the purposes of this subsection, the term “charge card” means a card, plate, or other single credit device that may be used from time to time to obtain credit which is not subject to a finance charge.
 
-#### (5) Regulatory authority of the Board
+#### (5) Regulatory authority of the Bureau
 
-&emsp;The Board may, by regulation, require the disclosure of information in addition to that otherwise required by this subsection or subsection (d) of this section, and modify any disclosure of information required by this subsection or subsection (d) of this section, in any application to open a credit card account for any person under an open end consumer credit plan or any application to open a charge card account for any person, or a solicitation to open any such account without requiring an application, if the Board determines that such action is necessary to carry out the purposes of, or prevent evasions of, any paragraph of this subsection.
+&emsp;The Bureau may, by regulation, require the disclosure of information in addition to that otherwise required by this subsection or subsection (d) of this section, and modify any disclosure of information required by this subsection or subsection (d) of this section, in any application to open a credit card account for any person under an open end consumer credit plan or any application to open a charge card account for any person, or a solicitation to open any such account without requiring an application, if the Bureau determines that such action is necessary to carry out the purposes of, or prevent evasions of, any paragraph of this subsection.
 
 #### (6) Additional notice concerning “introductory rates”
 
@@ -368,11 +368,11 @@ Payments at local branches.—If the creditor, in the case of a credit card acco
 
 #### (A) Prohibition on issuance
 
-&emsp;&emsp;No credit card may be issued to, or open end consumer credit plan established by oron behalf of, a consumer who has not attained the age of 21, unless the consumer has submitted a written application to the card issuer that meets the requirements of subparagraph (B).
+&emsp;&emsp;No credit card may be issued to, or open end consumer credit plan established by or on behalf of, a consumer who has not attained the age of 21, unless the consumer has submitted a written application to the card issuer that meets the requirements of subparagraph (B).
 
 #### (B) Application requirements
 
-&emsp;&emsp;An application to open a credit card account by a consumer who has not attained the age of 21 as of the date of submission of the application shall require—
+&emsp;&emsp;An application to open a credit card account by a consumer who has not attainedthe age of 21 as of the date of submission of the application shall require—
 
 &emsp;&emsp;&emsp;(i) the signature of a cosigner, including the parent, legal guardian, spouse, or any other individual who has attained the age of 21 having a means to repay debts incurred by the consumer in connection with the account, indicating joint liability for debts incurred by the consumer in connection with the account before the consumer has attained the age of 21; or
 
@@ -380,7 +380,7 @@ Payments at local branches.—If the creditor, in the case of a credit card acco
 
 #### (C) Safe harbor
 
-&emsp;&emsp;The Board shall promulgate regulations providing standards that, if met, would satisfy the requirements of subparagraph (B)(ii).
+&emsp;&emsp;The Bureau shall promulgate regulations providing standards that, if met, would satisfy the requirements of subparagraph (B)(ii).
 
 #### (d) Disclosure prior to renewal
 
@@ -396,7 +396,7 @@ Payments at local branches.—If the creditor, in the case of a credit card acco
 
 #### (2) Short-term renewals
 
-&emsp;The Board may by regulation provide for fewer disclosures than are required by paragraph (1) in the case of an account which is renewable for a period of less than 6 months.
+&emsp;The Bureau may by regulation provide for fewer disclosures than are required by paragraph (1) in the case of an account which is renewable for a period of less than 6 months.
 
 #### (e) Other rules for disclosures under subsections (c) and (d)
 
@@ -430,9 +430,9 @@ If the amount of any fee required to be disclosed by a credit or charge card iss
 
 &emsp;No provision of this subsection shall be construed as superseding any provision of State law which is applicable to the regulation of insurance.
 
-#### (5) Board definition of substantial decrease in coverage or service
+#### (5) Bureau definition of substantial decrease in coverage or service
 
-&emsp;The Board shall define, in regulations, what constitutes a “substantial decrease in coverage or service” for purposes of paragraph (1).
+&emsp;The Bureau shall define, in regulations, what constitutes a “substantial decrease in coverage or service” for purposes of paragraph (1).
 
 #### (h) Prohibition on certain actions for failure to incur finance charges
 
@@ -446,11 +446,11 @@ A creditor of an account under an open end consumer credit plan may not terminat
 
 #### (2) Advance notice of other significant changes required
 
-&emsp;In the case of any credit card account under an open end consumer credit plan, a creditor shall provide a written notice of any significant change, as determined by rule of the Board, in the terms (including an increase in any fee or finance charge, other than as provided in paragraph (1)) of the cardholder agreement between the creditor and the obligor, not later than 45 days prior to the effective date of the change.
+&emsp;In the case of any credit card account under an open end consumer credit plan, a creditor shall provide a written notice of any significant change, as determined by rule of the Bureau, in the terms (including an increase in any fee or finance charge, other than as provided in paragraph (1)) of the cardholder agreement between the creditor and the obligor, not later than 45 days prior to the effective date of the change.
 
 #### (3) Notice of right to cancel
 
-&emsp;Each notice required by paragraph (1) or (2) shall be made in a clear and conspicuous manner, and shall contain a brief statement of the right of the obligor to cancel the account pursuant to rules established by the Board before the effective date of the subject rate increase or other change.
+&emsp;Each notice required by paragraph (1) or (2) shall be made in a clear and conspicuous manner, and shall contain a brief statement of the right of the obligor to cancel the account pursuant to rules established by the Bureau before the effective date of the subject rate increase or other change.
 
 #### (4) Rule of construction
 
@@ -482,11 +482,11 @@ A creditor of an account under an open end consumer credit plan may not terminat
 
 #### (2) Disclosure by creditor
 
-&emsp;No election by a consumer under paragraph (1) shall take effect unless the consumer, before making such election, received a notice from the creditor of any over-the-limit fee in the form and manner, and at the time, determined by the Board. If the consumer makes the election referred to in paragraph (1), the creditor shall provide notice to the consumer of the right to revoke the election, in the form prescribed by the Board, in any periodic statement that includes notice of the imposition of an over-the-limit fee during the period covered by the statement.
+&emsp;No election by a consumer under paragraph (1) shall take effect unless the consumer, before making such election, received a notice from the creditor of any over-the-limit fee in the form and manner, and at the time, determined by the Bureau. If the consumer makes the election referred to in paragraph (1), the creditor shall provide notice to the consumer of the right to revoke the election, in the form prescribed by the Bureau, in any periodic statement that includes notice of the imposition of an over-the-limit fee during the period covered by the statement.
 
 #### (3) Form of election
 
-&emsp;A consumer may make or revoke the election referred to in paragraph (1) orally, electronically, or in writing, pursuant to regulations prescribed by the Board. The Board shall prescribe regulations to ensure that the same options are available for both making and revoking such election.
+&emsp;A consumer may make or revoke the election referred to in paragraph (1) orally, electronically, or in writing, pursuant to regulations prescribed by the Bureau. The Bureau shall prescribe regulations to ensure that the same options are available for both making and revoking such election.
 
 #### (4) Time of election
 
@@ -494,7 +494,7 @@ A creditor of an account under an open end consumer credit plan may not terminat
 
 #### (5) Regulations
 
-&emsp;The Board shall prescribe regulations—
+&emsp;The Bureau shall prescribe regulations—
 
 &emsp;&emsp;(A) governing disclosures under this subsection; and
 
@@ -506,7 +506,7 @@ A creditor of an account under an open end consumer credit plan may not terminat
 
 #### (7) Restriction on fees charged for an over-the-limit transaction
 
-&emsp;With respect to a credit card account under an open end consumer credit plan, an over-the-limit fee may be imposed only once during a billing cycle if the credit limit on the account is exceeded, and an over-the-limit fee, with respect to such excess credit, may be imposed only once in each of the 2 subsequent billing cycles, unless the consumer has obtained an additional extension of credit in excess of such credit limit during any such subsequent cycle or the consumer reduces the outstanding balance below the credit limit as of the end of such billing cycle.
+&emsp;With respect to a credit card account under an open end consumer credit plan, an over-the-limit fee may be imposed only once during a billing cycle if the credit limit on the account is exceeded, and an over-the-limit fee, with respect to such excess credit, may be imposed only once in each of the 2 subsequent billingcycles, unless the consumer has obtained an additional extension of credit in excess of such credit limit during any such subsequent cycle or the consumer reduces the outstanding balance below the credit limit as of the end of such billing cycle.
 
 #### (<i>l</i>) Limit on fees related to method of payment
 
@@ -572,7 +572,7 @@ No increase may be made in the amount of credit authorized to be extended under 
 
 #### (A) In general
 
-&emsp;&emsp;Each creditor shall submit an annual report to the Board containing the terms and conditions of all business, marketing, and promotional agreements and college affinity card agreements with an institution of higher education, or an alumni organization or foundation affiliated with or related to such institution, with respect to any college student credit card issued to a college student at such institution.
+&emsp;&emsp;Each creditor shall submit an annual report to the Bureau containing the terms and conditions of all business, marketing, and promotional agreements and college affinity card agreements with an institution of higher education, or an alumni organization or foundation affiliated with or related to such institution, with respect to any college student credit card issued to a college student at such institution.
 
 #### (B) Details of report
 
@@ -590,19 +590,17 @@ No increase may be made in the amount of credit authorized to be extended under 
 
 #### (D) Initial report
 
-&emsp;&emsp;The initial report required under subparagraph (A) shall be submitted to the Board before the end of the 9-month period beginning on May 22, 2009.
+&emsp;&emsp;The initial report required under subparagraph (A) shall be submitted to the Bureau before the end of the 9-month period beginning on May 22, 2009.
 
-#### (3) Reports by Board
+#### (3) Reports by Bureau
 
-&emsp;The Board shall submit to the Congress, and make available to the public, an annual report that lists the information concerning credit card agreements submitted to the Board under paragraph (2) by each institution of higher education, alumni organization, or foundation.
+&emsp;The Bureau shall submit to the Congress, and make available to the public, an annual report that lists the information concerning credit card agreements submitted to the Bureau under paragraph (2) by each institution of higher education, alumni organization, or foundation.
 
 (Pub. L. 90–321, title I, §127, May 29, 1968, 82 Stat. 153; Pub. L. 93–495, title III, §§304, 305, title IV, §§411, 415, Oct. 28, 1974, 88 Stat. 1511, 1519, 1521; Pub. L. 96–221, title VI, §613(a)–(e), Mar. 31, 1980, 94 Stat. 176, 177; Pub. L. 100–583, §§2(a), 6, Nov. 3, 1988, 102 Stat. 2960, 2968; Pub. L. 100–709, §2(b), Nov. 23, 1988, 102 Stat. 4729; Pub. L. 109–8, title XIII, §§1301(a), 1303(a), 1304(a), 1305(a), 1306(a), Apr. 20, 2005, 119 Stat. 204, 209, 211, 212; Pub. L. 111–24, title I, §§101(a)(1), 102(a), 103, 105, 106(a), title II, §§201(a), 202, 203, title III, §§301, 303, 305(a), May 22, 2009, 123 Stat. 1735, 1738, 1741–1743, 1745–1749; Pub. L. 111–203, title X, §1100A(2), July 21, 2010, 124 Stat. 2107.)
 
-#### Amendment of Section
-
-<i>Pub. L. 111–203, title X, §§1100A(2), 1100H, July 21, 2010, 124 Stat. 2107, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Board” each place that term appears and inserting “Bureau”. See Effective Date of 2010 Amendment note below.</i>
-
 #### Amendments
+
+<b>2010</b>—Pub. L. 111–203 substituted “Bureau” for “Board” wherever appearing.
 
 <b>2009</b>—Subsec. (b)(11). Pub. L. 111–24, §201(a), amended par. (11) generally, revising the minimum payment disclosures required from creditors.
 
@@ -744,7 +742,7 @@ In general.—Not later than 6 months after the date of enactment of this Act \[
 
 Approved agencies.—Guidelines issued under this subsection shall ensure that referrals provided by the toll-free number referred to in paragraph (1) include only those nonprofit budget and credit counseling agencies approved by a United States bankruptcy trustee pursuant to section 111(a) of title 11, United States Code.”
 
-Pub. L. 109–8, title XIII, §1301(b)(1), Apr. 20, 2005, 119 Stat. 207, provided that: “The Board of Governors of the Federal Reserve System (hereafter in this title \[amending this section and sections 1637a, 1638, 1664, and 1665b of this title and enacting provisions set out as notes under this section and section 1637a of this title\] referred to as the ‘Board’) shall promulgate regulationsimplementing the requirements of section 127(b)(11) of the Truth in Lending Act \[subsec. (b)(11) of this section\], as added by subsection (a) of this section.”
+Pub. L. 109–8, title XIII, §1301(b)(1), Apr. 20, 2005, 119 Stat. 207, provided that: “The Board of Governors of the Federal Reserve System (hereafter in this title \[amending this section and sections 1637a, 1638, 1664, and 1665b of this title and enacting provisions set out as notes under this section and section 1637a of this title\] referred to as the ‘Board’) shall promulgate regulations implementing the requirements of section 127(b)(11) of the Truth in Lending Act \[subsec. (b)(11) of this section\], as added by subsection (a) of this section.”
 
 Pub. L. 109–8, title XIII, §1303(b)(1), Apr. 20, 2005, 119 Stat. 211, provided that: “The Board \[of Governors of the Federal Reserve System\] shall promulgate regulations implementing the requirements of section 127(c)(6) of the Truth in Lending Act \[subsec. (c)(6) of this section\], as added by this section.”
 

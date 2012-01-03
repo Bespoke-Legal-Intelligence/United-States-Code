@@ -86,7 +86,7 @@ Amounts distributed by an electing Settlement Trust during any taxable year shal
 
 &emsp;If—
 
-&emsp;&emsp;(A) stock in the sponsoring Native Corporation may be disposed of to a person in a manner which would not be permitted by section 7(h) of the Alaska Native Claims Settlement Act (43 U.S.C. 1606(h)) if such stock were Settlement Common Stock, and
+&emsp;&emsp;(A) stock in the sponsoring Native Corporation may be disposed of to a person in a manner which would not be permitted bysection 7(h) of the Alaska Native Claims Settlement Act (43 U.S.C. 1606(h)) if such stock were Settlement Common Stock, and
 
 &emsp;&emsp;(B) at any time after such disposition of stock is first permitted, such corporation transfers assets to a Settlement Trust,
 

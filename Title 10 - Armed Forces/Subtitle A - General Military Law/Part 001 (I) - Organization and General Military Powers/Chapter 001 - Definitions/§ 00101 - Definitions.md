@@ -54,7 +54,7 @@ In General.—The following definitions apply in this title:
 
 &emsp;&emsp;(A) is designated by the Secretary of Defense as an operation in which members of the armed forces are or may become involved in military actions, operations, or hostilities against an enemy of the United States or against an opposing military force; or
 
-&emsp;&emsp;(B) results in the call or order to, or retention on, active duty of members of the uniformed services under section 688, 12301(a), 12302, 12304, 12305, or 12406 of this title, chapter 15 of this title, or any other provision of law during a war or during a national emergency declared by the President or Congress.
+&emsp;&emsp;(B) results in the call or order to, or retention on, active duty of members of the uniformed services under section 688, 12301(a), 12302, 12304, 12304a, 12305, or 12406 of this title, chapter 15 of this title, or any other provision of law during a war or during a national emergency declared by the President or Congress.
 
 &emsp;(14) The term “supplies” includes material, equipment, and stores of all kinds.
 
@@ -104,7 +104,7 @@ Personnel Generally.—The following definitions relating to military personnel 
 
 &emsp;(12) The term “regular”, with respect to an enlistment, appointment, grade, or office, means enlistment, appointment, grade, or office in a regular component of an armed force.
 
-&emsp;(13) The term “active-duty list” means a single list for the Army, Navy, Air Force, or Marine Corps (required to be maintained under section 620 of this title) which contains the names of all officers of that armed force, other than officers described in section 641 of this title, who are serving on active duty.
+&emsp;(13) The term “active-duty list” means a single list for the Army, Navy, Air Force, or Marine Corps (required to be maintained under section 620 of this title) which contains thenames of all officers of that armed force, other than officers described in section 641 of this title, who are serving on active duty.
 
 &emsp;(14) The term “medical officer” means an officer of the Medical Corps of the Army, an officer of the Medical Corps of the Navy, or an officer in the Air Force designated as a medical officer.
 
@@ -178,7 +178,7 @@ Duty Status.—The following definitions relating to duty status apply in this t
 
 &emsp;&emsp;(A) duty prescribed for Reserves by the Secretary concerned under section 206 of title 37 or any other provision of law; and
 
-&emsp;&emsp;(B) special additional duties authorized for Reserves by an authority designated by the Secretary concerned and performed by themon a voluntary basis in connection with the prescribed training or maintenance activities of the units to which they are assigned.
+&emsp;&emsp;(B) special additional duties authorized for Reserves by an authority designated by the Secretary concerned and performed by them on a voluntary basis in connection with the prescribed training or maintenance activities of the units to which they are assigned.
 
 > &emsp;Such term includes those duties when performed by Reserves in their status as members of the National Guard.
 
@@ -262,7 +262,7 @@ Reference to Title 1
 
 Definitions.—For other definitions applicable to this title, see sections 1 through 5 of title 1.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 3; Pub. L. 85–861, §§1(1), 33(a)(1), Sept. 2, 1958, 72 Stat. 1437, 1564; Pub. L. 86–70, §6(a), June 25, 1959, 73 Stat. 142; Pub. L. 86–624, §4(a), July 12, 1960, 74 Stat. 411; Pub. L. 87–649, §6(f)(1), Sept. 7, 1962, 76 Stat. 494; Pub. L. 90–235, §7(a)(1), Jan. 2, 1968, 81 Stat. 762; Pub. L. 90–623, §2(1), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 92–492, §1, Oct. 13, 1972, 86 Stat. 810; Pub. L. 96–513, title I, §§101, 115(a), title V, §501(2), Dec. 12, 1980, 94 Stat. 2839, 2877, 2907; Pub. L. 97–22, §2(a), July 10, 1981, 95 Stat. 124; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 98–525, title IV, §414(a)(1), Oct. 19, 1984, 98 Stat. 2518; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–348, title III, §303, July 1, 1986, 100 Stat. 703; Pub. L. 99–433, title III, §302, Oct. 1, 1986, 100 Stat. 1022; Pub. L. 100–26, §7(i), (k)(1), Apr. 21, 1987, 101 Stat. 282, 283; Pub. L. 100–180, div. A, title XII, §§1231(1), (20), 1233(a)(2), Dec. 4, 1987, 101 Stat. 1160, 1161; Pub. L. 100–456, div. A, title XII, §1234(a)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 101–510, div. A, title XII, §1204, Nov. 5, 1990, 104 Stat. 1658; Pub. L. 102–190, div. A, title VI, §631(a), Dec. 5, 1991, 105 Stat. 1380; Pub. L. 102–484, div. A, title X, §1051(a), Oct. 23, 1992, 106 Stat. 2494; Pub. L. 103–337, div. A, title V, §514, title XVI, §§1621, 1671(c)(1), Oct. 5, 1994, 108 Stat. 2753, 2960, 3014; Pub. L. 104–106, div. A, title XV, §1501(c)(1), Feb. 10, 1996, 110 Stat. 498; Pub. L. 104–201, div. A, title V, §522, Sept. 23, 1996, 110 Stat. 2517; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title X, §§1042(a), 1043(a), 1045(a)(2), Nov. 24, 2003, 117 Stat. 1608, 1610, 1612; Pub. L. 108–375, div. A, title X, §1084(a), Oct. 28, 2004, 118 Stat. 2060;Pub. L. 109–163, div. A, title X, §§1056(c)(1), 1057(a)(1), (2), Jan. 6, 2006, 119 Stat. 3439, 3440; Pub. L. 109–364, div. A, title V, §524, Oct. 17, 2006, 120 Stat. 2193; Pub. L. 111–383, div. A, title VIII, §876, Jan. 7, 2011, 124 Stat. 4305.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 3; Pub. L. 85–861, §§1(1), 33(a)(1), Sept. 2, 1958, 72 Stat. 1437, 1564; Pub. L. 86–70, §6(a), June 25, 1959, 73 Stat. 142; Pub. L. 86–624, §4(a), July 12, 1960, 74 Stat. 411; Pub. L. 87–649, §6(f)(1), Sept. 7, 1962, 76 Stat. 494; Pub. L. 90–235, §7(a)(1), Jan. 2, 1968, 81 Stat. 762; Pub. L. 90–623, §2(1), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 92–492, §1, Oct. 13, 1972, 86 Stat. 810; Pub. L. 96–513, title I, §§101, 115(a), title V, §501(2), Dec. 12, 1980, 94 Stat. 2839, 2877, 2907; Pub. L. 97–22, §2(a), July 10, 1981, 95 Stat. 124; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 98–525, title IV, §414(a)(1), Oct. 19, 1984, 98 Stat. 2518; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–348, title III, §303, July 1, 1986, 100 Stat. 703; Pub. L. 99–433, title III, §302, Oct. 1, 1986, 100 Stat. 1022; Pub. L. 100–26, §7(i), (k)(1), Apr. 21, 1987, 101 Stat. 282, 283; Pub. L. 100–180, div. A, title XII, §§1231(1), (20), 1233(a)(2), Dec. 4, 1987, 101 Stat. 1160, 1161; Pub. L. 100–456, div. A, title XII, §1234(a)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 101–510, div. A, title XII, §1204, Nov. 5, 1990, 104 Stat. 1658; Pub. L. 102–190, div. A, title VI, §631(a), Dec. 5, 1991, 105 Stat. 1380; Pub. L. 102–484, div. A, title X, §1051(a), Oct. 23, 1992, 106 Stat. 2494; Pub. L. 103–337, div. A, title V, §514, title XVI, §§1621, 1671(c)(1), Oct. 5, 1994, 108 Stat. 2753, 2960, 3014; Pub. L. 104–106, div. A, title XV, §1501(c)(1), Feb. 10, 1996, 110 Stat. 498; Pub. L. 104–201, div. A, title V, §522, Sept. 23, 1996, 110 Stat. 2517; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title X, §§1042(a), 1043(a), 1045(a)(2), Nov. 24, 2003, 117 Stat. 1608, 1610, 1612; Pub. L. 108–375, div.A, title X, §1084(a), Oct. 28, 2004, 118 Stat. 2060; Pub. L. 109–163, div. A, title X, §§1056(c)(1), 1057(a)(1), (2), Jan. 6, 2006, 119 Stat. 3439, 3440; Pub. L. 109–364, div. A, title V, §524, Oct. 17, 2006, 120 Stat. 2193; Pub. L. 111–383, div. A, title VIII, §876, Jan. 7, 2011, 124 Stat. 4305; Pub. L. 112–81, div. A, title V, §515(b), Dec. 31, 2011, 125 Stat. 1395.)
 
 Historical and Revision Notes<br>1956
 
@@ -536,7 +536,9 @@ Pub. L. 107–296, §1704(b)(1), which directed amendment of section 101(9) of t
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a)(18). Pub. L. 111–383 added par. (18).
+<b>2011</b>—Subsec. (a)(13)(B). Pub. L. 112–81 inserted “12304a,” after “12304,”.
+
+Subsec. (a)(18). Pub. L. 111–383 added par. (18).
 
 <b>2006</b>—Subsec. (a)(2). Pub. L. 109–163, §1057(a)(1), struck out par. (2) which read as follows: “The term ‘Territory’ (except as provided in section 101(1) of title 32 for laws relating to the militia, the National Guard, the Army National Guard of the United States, and the Air National Guard of the United States) means any Territory organized after August 10, 1956, so long as it remains a Territory.”
 
@@ -704,7 +706,7 @@ Pub. L. 106–38, §1, July 22, 1999, 113 Stat. 205, provided that: “This Act 
 
 #### Short Title of 1991 Amendment
 
-Pub. L. 102–25, §1, Apr. 6, 1991, 105 Stat. 75, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Persian Gulf Conflict Supplemental Authorization and Personnel Benefits Act of 1991’.”
+Pub. L. 102–25, §1, Apr. 6, 1991, 105 Stat. 75, provided that: “This Act \[see Tables for classification\] may becited as the ‘Persian Gulf Conflict Supplemental Authorization and Personnel Benefits Act of 1991’.”
 
 #### Short Title of 1987 Amendment
 
@@ -766,6 +768,8 @@ Section 1055 of Pub. L. 102–484 provided that: “For purposes of applying the
 
 The following provisions provided that the term “congressional defense committees” for purposes of the Acts in which they were contained has the meaning given that term in subsec. (a)(16) of this section:
 
+Pub. L. 112–81, §3, Dec. 31, 2011, 125 Stat. 1316.
+
 Pub. L. 111–383, §3, Jan. 7, 2011, 124 Stat. 4151.
 
 Pub. L. 111–84, §3, Oct. 28, 2009, 123 Stat. 2208.
@@ -780,7 +784,7 @@ Pub. L. 109–163, §3, Jan. 6, 2006, 119 Stat. 3152.
 
 Pub. L. 108–375, §3, Oct. 28, 2004, 118 Stat. 1825.
 
-Pub. L. 109–148, div. A, title VIII, §8028, Dec. 30, 2005, 119 Stat. 2704, provided that for purposes of Pub. L. 109–148 the term “congressional defense committees” means the Armed Services Committee of the House of Representatives, the Armed Services Committee of the Senate, the Subcommittee on Defense of the Committee on Appropriations of the Senate, and the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives and, for any matter pertaining to basic allowance for housing, facilities sustainment, restoration and modernization, environmental restoration and the Defense Health Program, “congressional defense committees” also means the Subcommittee on Military Quality of Life and Veterans Affairs, and Related Agencies \[subcommittee jurisdiction now in Subcommittee on Military Construction, Veterans Affairs, and Related Agencies and Subcommittee on Defense\] of the Committee on Appropriations of the House of Representatives.
+Pub. L. 109–148, div. A, title VIII, §8028, Dec. 30, 2005, 119 Stat. 2704, provided that for purposes of Pub. L. 109–148 the term “congressional defense committees” means the Armed Services Committee of the House of Representatives, the Armed Services Committee of the Senate, the Subcommittee on Defense of the Committee on Appropriations of the Senate, and the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives and, for any matter pertaining to basic allowance for housing, facilitiessustainment, restoration and modernization, environmental restoration and the Defense Health Program, “congressional defense committees” also means the Subcommittee on Military Quality of Life and Veterans Affairs, and Related Agencies \[subcommittee jurisdiction now in Subcommittee on Military Construction, Veterans Affairs, and Related Agencies and Subcommittee on Defense\] of the Committee on Appropriations of the House of Representatives.
 
 The following provisions defined the term “congressional defense committees” for purposes of the Acts in which they were contained to mean the Armed Services Committee of the House of Representatives, the Armed Services Committee of the Senate, the Subcommittee on Defense of the Committee on Appropriations of the Senate, and the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives:
 
@@ -864,7 +868,7 @@ Pub. L. 102–25, §3, Apr. 6, 1991, 105 Stat. 77, as amended by Pub. L. 102–1
 
 &emsp;“(1) The term ‘Operation Desert Storm’ means operations of United States Armed Forces conducted as a consequence of the invasion of Kuwait by Iraq (including operations known as Operation Desert Shield, Operation Desert Storm, and Operation Provide Comfort).
 
-&emsp;“(2) The term ‘incremental costs associated with Operation Desert Storm’ means costs referred to in section 251(b)(2)(D)(ii) of the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 901(b)(2)(D)(ii)).
+&emsp;“(2) The term ‘incremental costs associated with Operation Desert Storm’ means costs referred to in \[former\] section 251(b)(2)(D)(ii) of the Balanced Budget and Emergency Deficit Control Act of 1985 (\[former\] 2 U.S.C. 901(b)(2)(D)(ii)).
 
 &emsp;“(3) The term ‘Persian Gulf conflict’ means the period beginning on August 2, 1990, and ending thereafter on the date prescribed by Presidential proclamation or by law.
 

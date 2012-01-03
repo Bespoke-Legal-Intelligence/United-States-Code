@@ -2,7 +2,73 @@
 
 #### (a) Appointment and compensation
 
-The Tax Court is authorized to appoint, in accordance with the provisions of title 5, United States Code, governing appointment in the competitive service, and to fix the basic pay of, in accordance with chapter 51 and subchapter III of chapter 53 of such title, such employees as may be necessary efficiently to execute the functions vested in the Tax Court.
+#### (1) Clerk
+
+&emsp;The Tax Court may appoint a clerk without regard to the provisions of title 5, United States Code, governing appointments in the competitive service. The clerk shall serve at the pleasure of the Tax Court.
+
+#### (2) Judge-appointed employees
+
+#### (A) In general
+
+&emsp;&emsp;The judges and special trial judges of the Tax Court may appoint employees, in such numbers as the Tax Court may approve, without regard to the provisions of title 5, United States Code, governing appointments in the competitive service. Any such employee shall serve at the pleasure of the appointing judge.
+
+#### (B) Exemption from Federal leave provisions
+
+&emsp;&emsp;A law clerk appointed under this subsection shall be exempt from the provisions of subchapter I of chapter 63 of title 5, United States Code. Any unused sick leave or annual leave standing to the law clerk's credit as of the effective date of this subsection shall remain credited to the law clerk and shall be available to the law clerk upon separation from the Federal Government.
+
+#### (3) Other employees
+
+&emsp;The Tax Court may appoint necessary employees without regard to the provisions of title 5, United States Code, governing appointments in the competitive service. Such employees shall be subject to removal by the Tax Court.
+
+#### (4) Pay
+
+&emsp;The Tax Court may fix and adjust the compensation for the clerk and other employees of the Tax Court without regard to the provisions of chapter 51, subchapter III of chapter 53, or section 5373 of title 5, United States Code. To the maximum extent feasible, the Tax Court shall compensate employees at rates consistent with those for employees holding comparable positions in courts established under Article III of the Constitution of the United States.
+
+#### (5) Programs
+
+&emsp;The Tax Court may establish programs for employee evaluations, incentive awards, flexible work schedules, premium pay, and resolution of employee grievances.
+
+#### (6) Discrimination prohibited
+
+&emsp;The Tax Court shall—
+
+&emsp;&emsp;(A) prohibit discrimination on the basis of race, color, religion, age, sex, national origin, political affiliation, marital status, or handicapping condition; and
+
+&emsp;&emsp;(B) promulgate procedures for resolving complaints of discrimination by employees and applicants for employment.
+
+#### (7) Experts and consultants
+
+&emsp;The Tax Court may procure the services of experts and consultants under section 3109 of title 5, United States Code.
+
+#### (8) Rights to certain appeals reserved
+
+&emsp;Notwithstanding any other provision of law, an individual who is an employee of the Tax Court on the day before the effective date of this subsection and who, as of that day, was entitled to—
+
+&emsp;&emsp;(A) appeal a reduction in grade or removal to the Merit Systems Protection Board under chapter 43 of title 5, United States Code,
+
+&emsp;&emsp;(B) appeal an adverse action to the Merit Systems Protection Board under chapter 75 of title 5, United States Code,
+
+&emsp;&emsp;(C) appeal a prohibited personnel practice described under section 2302(b) of title 5, United States Code, to the Merit Systems Protection Board under chapter 77 of that title,
+
+&emsp;&emsp;(D) make an allegation of a prohibited personnel practice described under section 2302(b) of title 5, United States Code, with the Office of Special Counsel under chapter 12 of that title for action in accordance with that chapter, or
+
+&emsp;&emsp;(E) file an appeal with the Equal Employment Opportunity Commission under part 1614 of title 29 of the Code of Federal Regulations,
+
+> &emsp;shall continue to be entitled to file such appeal or make such an allegation so long as the individual remains an employee of the Tax Court.
+
+#### (9) Competitive status
+
+&emsp;Notwithstanding any other provision of law, any employee of the Tax Court who has completed at least 1 year of continuous service under a non-temporary appointment with the Tax Court acquires a competitive status for appointment to any position in the competitive service for which the employee possesses the required qualifications.
+
+#### (10) Merit system principles, prohibited personnel practices, and preference eligibles
+
+&emsp;Any personnel management system of the Tax Court shall—
+
+&emsp;&emsp;(A) include the principles set forth in section 2301(b) of title 5, United States Code;
+
+&emsp;&emsp;(B) prohibit personnel practices prohibited under section 2302(b) of title 5, United States Code; and
+
+&emsp;&emsp;(C) in the case of any individual who would be a preference eligible in the executive branch, provide preference for that individual in a manner and to an extent consistent with preference accorded to preference eligibles in the executive branch.
 
 #### (b) Expenses for travel and subsistence
 
@@ -14,81 +80,13 @@ The employees of the Tax Court shall receive their necessary traveling expenses,
 
 (Aug. 6, 1954, ch. 736, 68A Stat. 888; Pub. L. 91–172, title IX, §960(g), Dec. 30, 1969, 83 Stat. 734; Pub. L. 94–455, title XIX, §1906(a)(47), Oct. 4, 1976, 90 Stat. 1831; Pub. L. 98–369, div. A, title IV, §464(d), July 18, 1984, 98 Stat. 825; Pub. L. 99–514, title XV, §1556(b)(2), Oct. 22, 1986, 100 Stat. 2755; Pub. L. 111–366, §1(a), Jan. 4, 2011, 124 Stat. 4063.)
 
-#### Amendment of Subsection (a)
+#### References in Text
 
-<i>Pub. L. 111–366, §1, Jan. 4, 2011, 124 Stat. 4063, provided that, effective on the date the United States Tax Court adopts a personnel management system after Jan. 4, 2011, subsection (a) of this section is amended to read as follows:</i>
-
-#### <i>(a) Appointment and compensation</i>
-
-#### <i>(1) Clerk</i>
-
-&emsp;<i>The Tax Court may appoint a clerk without regard to the provisions of title 5, United States Code, governing appointments in the competitive service. The clerk shall serve at the pleasure of the Tax Court.</i>
-
-#### <i>(2) Judge-appointed employees</i>
-
-#### <i>(A) In general</i>
-
-&emsp;&emsp;<i>The judges and special trial judges of the Tax Court may appoint employees, in such numbers as the Tax Court may approve, without regard to the provisions of title 5, United States Code,</i><i>governing appointments in the competitive service. Any such employee shall serve at the pleasure of the appointing judge.</i>
-
-#### <i>(B) Exemption from Federal leave provisions</i>
-
-&emsp;&emsp;<i>A law clerk appointed under this subsection shall be exempt from the provisions of subchapter I of chapter 63 of title 5, United States Code. Any unused sick leave or annual leave standing to the law clerk's credit as of the effective date of this subsection shall remain credited to the law clerk and shall be available to the law clerk upon separation from the Federal Government.</i>
-
-#### <i>(3) Other employees</i>
-
-&emsp;<i>The Tax Court may appoint necessary employees without regard to the provisions of title 5, United States Code, governing appointments in the competitive service. Such employees shall be subject to removal by the Tax Court.</i>
-
-#### <i>(4) Pay</i>
-
-&emsp;<i>The Tax Court may fix and adjust the compensation for the clerk and other employees of the Tax Court without regard to the provisions of chapter 51, subchapter III of chapter 53, or section 5373 of title 5, United States Code. To the maximum extent feasible, the Tax Court shall compensate employees at rates consistent with those for employees holding comparable positions in courts established under Article III of the Constitution of the United States.</i>
-
-#### <i>(5) Programs</i>
-
-&emsp;<i>The Tax Court may establish programs for employee evaluations, incentive awards, flexible work schedules, premium pay, and resolution of employee grievances.</i>
-
-#### <i>(6) Discrimination prohibited</i>
-
-&emsp;<i>The Tax Court shall—</i>
-
-&emsp;&emsp;<i>(A) prohibit discrimination on the basis of race, color, religion, age, sex, national origin, political affiliation, marital status, or handicapping condition; and</i>
-
-&emsp;&emsp;<i>(B) promulgate procedures for resolving complaints of discrimination by employees and applicants for employment.</i>
-
-#### <i>(7) Experts and consultants</i>
-
-&emsp;<i>The Tax Court may procure the services of experts and consultants under section 3109 of title 5, United States Code.</i>
-
-#### <i>(8) Rights to certain appeals reserved</i>
-
-&emsp;<i>Notwithstanding any other provision of law, an individual who is an employee of the Tax Court on the day before the effective date of this subsection and who, as of that day, was entitled to—</i>
-
-&emsp;&emsp;<i>(A) appeal a reduction in grade or removal to the Merit Systems Protection Board under chapter 43 of title 5, United States Code,</i>
-
-&emsp;&emsp;<i>(B) appeal an adverse action to the Merit Systems Protection Board under chapter 75 of title 5, United States Code,</i>
-
-&emsp;&emsp;<i>(C) appeal a prohibited personnel practice described under section 2302(b) of title 5, United States Code, to the Merit Systems Protection Board under chapter 77 of that title,</i>
-
-&emsp;&emsp;<i>(D) make an allegation of a prohibited personnel practice described under section 2302(b) of title 5, United States Code, with the Office of Special Counsel under chapter 12 of that title for action in accordance with that chapter, or</i>
-
-&emsp;&emsp;<i>(E) file an appeal with the Equal Employment Opportunity Commission under part 1614 of title 29 of the Code of Federal Regulations,</i>
-
-> &emsp;<i>shall continue to be entitled to file such appeal or make such an allegation so long as the individual remains an employee of the Tax Court.</i>
-
-#### <i>(9) Competitive status</i>
-
-&emsp;<i>Notwithstanding any other provision of law, any employee of the Tax Court who has completed at least 1 year of continuous service under a non-temporary appointment with the Tax Court acquires a competitive status for appointment to any position in the competitive service for which the employee possesses the required qualifications.</i>
-
-#### <i>(10) Merit system principles, prohibited personnel practices, and preference eligibles</i>
-
-&emsp;<i>Any personnel management system of the Tax Court shall—</i>
-
-&emsp;&emsp;<i>(A) include the principles set forth in section 2301(b) of title 5, United States Code;</i>
-
-&emsp;&emsp;<i>(B) prohibit personnel practices prohibited under section 2302(b) of title 5, United States Code; and</i>
-
-&emsp;&emsp;<i>(C) in the case of any individual who would be a preference eligible in the executive branch, provide preference for that individual in a manner and to an extent consistent with preference accorded to preference eligibles in the executive branch.</i>
+The effective date of this subsection, referred to in subsec. (a)(2)(B), (8), probably means the effective date of section 1(a) of Pub. L. 111–366, which amended subsec. (a) generally. See Effective Date of 2011 Amendment note below.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (a). Pub. L. 111–366 amended subsec. (a) generally. Prior to amendment, text read as follows: “The Tax Court is authorized to appoint, in accordance with the provisions of title 5, United States Code, governing appointment in the competitive service, and to fix the basic pay of, in accordance with chapter 51 and subchapter III of chapter 53 of such title, such employees as may be necessary efficiently to execute the functions vested in the Tax Court.”
 
 <b>1986</b>—Subsec. (c). Pub. L. 99–514 substituted “subsections (d) and (e) of section 7443A” for “section 7456(c)”.
 
@@ -102,7 +100,7 @@ Subsec. (b). Pub. L. 94–455, §1906(a)(47)(B), substituted “as provided in c
 
 #### Effective Date of 2011 Amendment
 
-Pub. L. 111–366, §1(b), Jan. 4, 2011, 124 Stat. 4065, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date the United States Tax Court adopts a personnel management system after the date of the enactment of this Act \[Jan. 4, 2011\].”
+Pub. L. 111–366, §1(b), Jan. 4, 2011, 124 Stat. 4065, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date the United States Tax Court adopts a personnel management system \[adopted effective Oct. 9, 2011\] after the date of the enactment of this Act \[Jan. 4, 2011\].”
 
 #### Effective Date of 1986 Amendment
 
@@ -114,7 +112,7 @@ Amendment by Pub. L. 98–369 effective July 18, 1984, see section 464(e)(1) of 
 
 #### Effective Date of 1976 Amendment
 
-Amendment by Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct.4, 1976, see section 1906(d)(1) of Pub. L. 94–455, set out as a note under section 6013 of this title.
+Amendment by Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1906(d)(1) of Pub. L. 94–455, set out as a note under section 6013 of this title.
 
 #### Effective Date of 1969 Amendment
 

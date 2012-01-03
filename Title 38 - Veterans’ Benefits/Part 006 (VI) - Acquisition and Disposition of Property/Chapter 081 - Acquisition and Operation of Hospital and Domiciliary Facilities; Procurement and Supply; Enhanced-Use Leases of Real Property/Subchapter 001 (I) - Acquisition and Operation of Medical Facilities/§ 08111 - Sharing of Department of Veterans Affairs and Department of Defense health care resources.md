@@ -2,7 +2,7 @@
 
 (a)
 
-Required Coordination and Sharing of Health Care Resources.—The Secretary of Veterans Affairs and the Secretary of Defenseshall enter into agreements and contracts for the mutually beneficial coordination, use, or exchange of use of the health care resources of the Department of Veterans Affairs and the Department of Defense with the goal of improving the access to, and quality and cost effectiveness of, the health care provided by the Veterans Health Administration and the Military Health System to the beneficiaries of both Departments.
+Required Coordination and Sharing of Health Care Resources.—The Secretary of Veterans Affairs and the Secretary of Defense shall enter into agreements and contracts for the mutually beneficial coordination, use, or exchange of use of the health care resources of the Department of Veterans Affairs and the Department of Defense with the goal of improving the access to, and quality and cost effectiveness of, the health care provided by the Veterans Health Administration and the Military Health System to the beneficiaries of both Departments.
 
 (b)
 
@@ -50,7 +50,7 @@ Guidelines and Policies for Implementation of Coordination and Sharing Recommend
 
 (F) Each proposal for an agreement under this paragraph shall be effective (i) on the 46th day after the receipt of such proposal by the Committee, unless earlier disapproved, or (ii) if earlier approved by the Committee, on the date of such approval.
 
-(G) Any funds received through such a uniform payment and reimbursement schedule shall be credited to funds that have been allotted to the facility of either Department that provided thecare or services, or is due the funds from, any such agreement.
+(G) Any funds received through such a uniform payment and reimbursement schedule shall be credited to funds that have been allotted to the facility of either Department that provided the care or services, or is due the funds from, any such agreement.
 
 (f)
 

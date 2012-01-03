@@ -2,7 +2,7 @@
 
 #### (a) Authority to issue obligations
 
-Each small business investment company shall have authority to borrow money and to issue its securities, promissory notes, or other obligations under such general conditions andsubject to such limitations and regulations as the Administration may prescribe.
+Each small business investment company shall have authority to borrow money and to issue its securities, promissory notes, or other obligations under such general conditions and subject to such limitations and regulations as the Administration may prescribe.
 
 #### (b) Debentures and participating securities
 
@@ -24,7 +24,7 @@ In general.—The maximum amount of outstanding leverage made available to any o
 
 &emsp;&emsp;(B)
 
-Multiple licenses under common control.—The maximum amount of outstanding leverage made available to two or more companies licensed under section 681(c) of this title that are commonly controlled (as determined by the Administrator) and not under capital impairment may not exceed $225,000,000.
+Multiple licenses under common control.—The maximum amount of outstanding leverage made available to two or more companies licensed under section 681(c) of this title that are commonly controlled (asdetermined by the Administrator) and not under capital impairment may not exceed $225,000,000.
 
 &emsp;&emsp;(C)
 
@@ -60,7 +60,7 @@ Maximum investment.—A company shall not make an Energy Saving qualified invest
 
 &emsp;&emsp;&emsp;&emsp;(III)
 
-Other terms.—The exclusion of amounts under clause (i) shall be subject to such terms as the Administrator may impose to ensure that there is no cost (as that term is defined in section 661a oftitle 2) with respect to purchasing or guaranteeing any debenture involved.
+Other terms.—The exclusion of amounts under clause (i) shall be subject to such terms as the Administrator may impose to ensure that there is no cost (as that term is defined in section 661a of title 2) with respect to purchasing or guaranteeing any debenture involved.
 
 &emsp;(3) Subject to the foregoing dollar and percentage limits, a company licensed under section 681(c) of this title may issue and have outstanding both guaranteed debentures and participating securities: <i>Provided</i>, That the total amount of participating securities outstanding shall not exceed 200 per centum of private capital.
 
@@ -108,7 +108,7 @@ In order to encourage small business investment companies to provide equity capi
 
 &emsp;(1) Participating securities shall be redeemed not later than 15 years after their date of issuance for an amount equal to 100 per centum of the original issue price plus the amount of any accrued prioritized payment: <i>Provided</i>, That if, at the time the securities are redeemed, whether as scheduled or in advance, the issuing company (A) has not paid all accrued prioritized payments in full as provided in paragraph (2) below and (B) has not sold or otherwise disposed of all investments subject to profit distributions pursuant to paragraph (11), the company's obligation to pay accrued and unpaid prioritized payments shall continue and payment shall be made from the realized gain, if any, on the disposition of such investments, but if on disposition there is no realized gain, the obligation to pay accrued and unpaid prioritized payments shall be extinguished: <i>Provided further</i>, That in the interim, the company shall not make any in-kind distributions of such investments unless it pays to the Administration such sums, up to the amount of the unrealized appreciation on such investments, as may be necessary to pay in full the accrued prioritized payments.
 
-&emsp;(2) Prioritized payments on participating securities shall be preferred and cumulative and payable out of the retained earnings available for distribution, as defined by the Administration, of the issuing company at a rate determined by the Secretary of the Treasury taking into consideration the current average marketyield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the average maturities on such securities, adjusted to the nearest one-eighth of 1 percent, plus, for participating securities obligated after September 30, 2001, an additional charge, in an amount established annually by the Administration, as necessary to reduce to zero the cost (as defined in section 661a of title 2) to the Administration of purchasing and guaranteeing participating securities under this chapter, which amount may not exceed 1.46 percent per year, and which shall be paid to and retained by the Administration.
+&emsp;(2) Prioritized payments on participating securities shall be preferred and cumulative and payable out of the retained earnings available for distribution, as defined by the Administration, of the issuing company at a rate determined by the Secretary of the Treasury taking into consideration the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the average maturities on such securities, adjusted to the nearest one-eighth of 1 percent, plus, for participating securities obligated after September 30, 2001, an additional charge, in an amount established annually by the Administration, as necessary to reduce to zero the cost (as defined in section 661a of title 2) to the Administration of purchasing and guaranteeing participating securities under this chapter, which amount may not exceed 1.46 percent per year, and which shall be paid to and retained by the Administration.
 
 &emsp;(3) In the event of liquidation of the company, participating securities shall be senior in priority for all purposes to all other equity interests in the issuing company, whenever created.
 
@@ -174,7 +174,7 @@ With respect to leverage granted by the Administration to a licensee, the Admini
 
 #### (j) Calculation of subsidy rate
 
-All fees, interest, and profits received and retained by the Administration under this section shall be included in the calculations made by the Director of the Office of Management andBudget to offset the cost (as that term is defined in section 661a of title 2) to the Administration of purchasing and guaranteeing debentures and participating securities under this chapter.
+All fees, interest, and profits received and retained by the Administration under this section shall be included in the calculations made by the Director of the Office of Management and Budget to offset the cost (as that term is defined in section 661a of title 2) to the Administration of purchasing and guaranteeing debentures and participating securities under this chapter.
 
 #### (k) Energy saving debentures
 
@@ -206,7 +206,7 @@ Subsec. (k). Pub. L. 110–140, §1205(a), added subsec. (k).
 
 <b>2003</b>—Subsec. (g)(2). Pub. L. 108–84 and Pub. L. 108–172 amended par. (2) identically, substituting “1.46 percent” for “1.38 percent”.
 
-<b>2001</b>—Subsec. (b). Pub. L. 107–100, §2(a)(1), in introductory provisions, substituted “September 30, 2001” for “September 30, 2000”, struck out “of not more than 1 percent per year” after “annually by the Administration,”, and inserted “which amount may not exceed 1.38 percent per year, and” before “which shall be paid”.
+<b>2001</b>—Subsec. (b). Pub. L. 107–100, §2(a)(1), in introductory provisions, substituted “September 30, 2001” for“September 30, 2000”, struck out “of not more than 1 percent per year” after “annually by the Administration,”, and inserted “which amount may not exceed 1.38 percent per year, and” before “which shall be paid”.
 
 Subsec. (g)(2). Pub. L. 107–100, §2(a)(2), substituted “September 30, 2001” for “September 30, 2000”, struck out “of not more than 1 percent per year” after “annually by the Administration,”, and inserted “which amount may not exceed 1.38 percent per year, and” before “which shall be paid”.
 
@@ -232,7 +232,7 @@ Exception.—During the last quarter of each fiscal year, if the Administrator d
 
 <b>1997</b>—Subsec. (b)(2)(D). Pub. L. 105–135, §215(b)(1)(A), added subpar. (D).
 
-Subsec. (b)(4). Pub. L. 105–135, §215(b)(1)(B), added par. (4) and struck out former par. (4) which read as follows: “In no event shall the aggregate amount of outstanding leverage of any such company or companies which arecommonly controlled as determined by the Administration exceed $90,000,000, unless the Administration determines on a case by case basis to permit a higher amount for companies under common control and imposes such additional terms and conditions as it determines appropriate to minimize the risk of loss to the Administration in the event of default.”
+Subsec. (b)(4). Pub. L. 105–135, §215(b)(1)(B), added par. (4) and struck out former par. (4) which read as follows: “In no event shall the aggregate amount of outstanding leverage of any such company or companies which are commonly controlled as determined by the Administration exceed $90,000,000, unless the Administration determines on a case by case basis to permit a higher amount for companies under common control and imposes such additional terms and conditions as it determines appropriate to minimize the risk of loss to the Administration in the event of default.”
 
 Subsec. (d). Pub. L. 105–135, §215(b)(2), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “The Administrator shall require each licensee, as a condition of approval of an application for leverage, to certify in writing that not less than 20 percent of the aggregate dollar amount of the financings of the licensee will be provided to smaller enterprises.”
 
@@ -316,7 +316,7 @@ Subsec. (c). Pub. L. 92–595, §2(d), added subsec. (c).
 
 <b>1964</b>—Subsec. (b). Pub. L. 88–273 provided for participation loans by Administration with lending institutions on an immediate or deferred basis and for a minimum interest rate measured by the average investment yield on marketable obligations of the United States outstanding at the time of the loan involved, and designated existing provisions as clauses (1) and (2).
 
-<b>1961</b>—Subsec. (b). Pub. L. 87–341 limited the Administration's authorization to lend funds to the extent that the funds are not available to the company involved from private sources on reasonable terms, and the total amount of obligations, including commitments to purchase such obligations, which can be purchased in anyone company to not more than 50 percent of the paid-in capital and surplus or $4,000,000, whichever is less, and inserted “All loans made by the Administration under this subsection shall be of such sound value as reasonably to assure repayment.”
+<b>1961</b>—Subsec. (b). Pub. L. 87–341 limited the Administration's authorization to lend funds to the extent that the funds are not available to the company involved from private sources on reasonable terms, and the total amount of obligations, including commitments to purchase such obligations, which can be purchased in any one company to not more than 50 percent of the paid-in capital and surplus or $4,000,000, whichever is less, and inserted “All loans made by the Administration under this subsection shall be of such sound value as reasonably to assure repayment.”
 
 #### Effective Date of 2007 Amendment
 
@@ -332,7 +332,7 @@ Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 
 
 #### Effective Date of 1990 Amendment
 
-Section 215(a)(2) of Pub. L. 101–574, as amended by Pub. L. 102–140, title VI, §609(c), Oct. 28, 1991, 105 Stat. 825, provided that: “The amendments made by paragraph (1) \[amending this section\] shall become effective on July 1, 1992.”
+Pub. L. 101–574, title II, §215(a)(2), Nov. 15, 1990, 104 Stat. 2822, as amended by Pub. L. 102–140, title VI, §609(c), Oct. 28, 1991, 105 Stat. 825, provided that: “The amendments made by paragraph (1) \[amending this section\] shall become effective on July 1, 1992.”
 
 #### Effective Date of 1967 Amendment
 
@@ -340,7 +340,7 @@ Amendment by Pub. L. 90–104 effective 90 days after Oct. 11, 1967, see section
 
 #### Regulations
 
-Section 208(d)(4)(B) of div. D of Pub. L. 104–208 provided that:
+Pub. L. 104–208, div. D, title II, §208(d)(4)(B), Sept. 30, 1996, 110 Stat. 3009–744, provided that:
 
 “(i)
 

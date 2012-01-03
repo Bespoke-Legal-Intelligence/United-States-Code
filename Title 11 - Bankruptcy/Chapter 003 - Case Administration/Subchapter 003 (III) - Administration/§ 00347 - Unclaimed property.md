@@ -8,19 +8,19 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 347(a) of the House amendment adopts a comparable provision contained in the Senate amendment instructing the trustee to stop payment on any check remaining unpaid more than 90 days after the final distribution in a case under Chapter 7 or 13. Technical changes are made in section 347(b) to cover distributions in a railroad reorganization.
 
 #### senate report no. 95–989
 
-Section 347 is derived from Bankruptcy Act §66 \[section 106 of former title 11\]. Subsection (a) requires the trustee to stop payment on any distribution check that is unpaid 90 days after the final distribution in a case under chapter 7 or 13. The unclaimed funds, and any other property of the estate are paid into the court and disposed of under chapter 129 \[§2041 et seq.\] of title 28, which requires the clerk of court to hold the funds for their owner for 5 years, after which they escheat to the Treasury.
+Section 347 is derived from Bankruptcy Act §66 \[section 106 of former title 11\]. Subsection (a) requires the trustee to stop payment on any distribution check that is unpaid 90 days after the final distribution in a case under chapter 7 or 13. The unclaimed funds, and any other property of the estate are paid into the court and disposed of under chapter 129 \[§2041 et seq.\] of title 28,which requires the clerk of court to hold the funds for their owner for 5 years, after which they escheat to the Treasury.
 
 Subsection (b) specifies that any property remaining unclaimed at the expiration of the time allowed in a chapter 9 or 11 case for presentation (exchange) of securities or the performance of any other act as a condition to participation in the plan reverts to the debtor or the entity acquiring the assets of the debtor under the plan. Conditions to participation under a plan include such acts as cashing a check, surrendering securities for cancellation, and so on. Similar provisions are found in sections 96(d) and 205 of current law \[sections 416(d) and 605 of former title 11\].
 
 #### Amendments
 
-1986—Subsec. (a). Pub. L. 99–554, §257(h)(1), inserted references to section 1226 and chapter 12 of this title.
+<b>1986</b>—Subsec. (a). Pub. L. 99–554, §257(h)(1), inserted references to section 1226 and chapter 12 of this title.
 
 Subsec. (b). Pub. L. 99–554, §257(h)(2), inserted references to chapter 12 and section 1225 of this title.
 

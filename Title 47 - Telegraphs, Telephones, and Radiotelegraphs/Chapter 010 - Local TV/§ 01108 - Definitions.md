@@ -28,7 +28,7 @@ In this chapter:
 
 #### (4) Common terms
 
-&emsp;Except as provided in paragraphs (1) through (3), any term used in this chapter that is defined in the Communications Act of 1934 (47 U.S.C. 151 et seq.) has the meaning given that term in the Communications Act of 1934.
+&emsp;Except as provided in paragraphs (1) through (3), any term used in this chapter that is defined in the Communications Act of 1934 (47U.S.C. 151 et seq.) has the meaning given that term in the Communications Act of 1934.
 
 (Pub. L. 106–553, §1(a)(2) \[title X, §1010\], Dec. 21, 2000, 114 Stat. 2762, 2762A–140.)
 

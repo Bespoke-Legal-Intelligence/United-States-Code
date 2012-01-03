@@ -148,7 +148,7 @@
 
 &emsp;&emsp;&emsp;(ii) except as provided in subparagraph (B), continue to provide assistance while implementing the school's plan, and, if determined appropriate by the Secretary, take corrective action with respect to the school if it fails to be accredited at the end of the third full year immediately following the date that the school's plan was first in effect under paragraph (7);
 
-&emsp;&emsp;&emsp;(iii) provide all students enrolled in a school that is eligible for a corrective action determination by the Secretary under clause (ii) with the option to transfer to another public or Bureau-funded school, including a public charter school, that is accredited;
+&emsp;&emsp;&emsp;(iii) provide all students enrolled in a school that is eligible for a corrective action determination by the Secretary underclause (ii) with the option to transfer to another public or Bureau-funded school, including a public charter school, that is accredited;
 
 &emsp;&emsp;&emsp;(iv) promptly notify the parents of children enrolled in a school that is eligible for a corrective action determination by the Secretary under clause (ii) of the option to transfer their child to another public or Bureau-funded school; and
 
@@ -190,7 +190,7 @@
 
 #### (iv) Accreditation
 
-&emsp;&emsp;&emsp;Upon accreditation of the school, the tribe shall have the option to assume the operation and administration of the school as a contract school after complying with the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\], or as a grant school, after complying with the Tribally Controlled Schools Act of 1988 \[25 U.S.C. 2501 et seq.\], at the beginning of the school year following the year in which the school obtains accreditation.
+&emsp;&emsp;&emsp;Upon accreditation of the school, the tribe shall have the option to assume the operation and administration of the school as a contract school after complying withthe Indian Self-Determination Act \[25 U.S.C. 450f et seq.\], or as a grant school, after complying with the Tribally Controlled Schools Act of 1988 \[25 U.S.C. 2501 et seq.\], at the beginning of the school year following the year in which the school obtains accreditation.
 
 #### (v) Retrocede
 
@@ -420,7 +420,7 @@ Another prior section 2001, Pub. L. 95–561, title XI, §1121, Nov. 1, 1978, 92
 
 #### Amendments
 
-<b>2005</b>—Subsec. (d)(7). Pub. L. 109–54 added par. (7) and struck out heading and text of former par. (7). Text read as follows: “The Secretary may, with the approval of the tribal governing body, terminate, contract,transfer to any other authority, consolidate, or substantially curtail the operation or facilities of—
+<b>2005</b>—Subsec. (d)(7). Pub. L. 109–54 added par. (7) and struck out heading and text of former par. (7). Text read as follows: “The Secretary may, with the approval of the tribal governing body, terminate, contract, transfer to any other authority, consolidate, or substantially curtail the operation or facilities of—
 
 &emsp;“(A) any Bureau-funded school that is operated on or after January 1, 1999;
 
@@ -430,7 +430,7 @@ Another prior section 2001, Pub. L. 95–561, title XI, §1121, Nov. 1, 1978, 92
 
 #### Change of Name
 
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives and Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

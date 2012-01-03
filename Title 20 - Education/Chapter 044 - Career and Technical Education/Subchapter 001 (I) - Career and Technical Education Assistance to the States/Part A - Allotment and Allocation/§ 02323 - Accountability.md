@@ -20,7 +20,7 @@ The purpose of this section is to establish and support State and local performa
 
 #### (A) Core indicators of performance for career and technical education students at the secondary level
 
-&emsp;&emsp;Each eligible agency shall identify in the State plan core indicators of performancefor career and technical education students at the secondary level that are valid and reliable, and that include, at a minimum, measures of each of the following:
+&emsp;&emsp;Each eligible agency shall identify in the State plan core indicators of performance for career and technical education students at the secondary level that are valid and reliable, and that include, at a minimum, measures of each of the following:
 
 &emsp;&emsp;&emsp;(i) Student attainment of challenging academic content standards and student academic achievement standards, as adopted by a State in accordance with section 6311(b)(1) of this title and measured by the State determined proficient levels on the academic assessments described in section 6311(b)(3) of this title.
 
@@ -42,7 +42,7 @@ The purpose of this section is to establish and support State and local performa
 
 #### (B) Core indicators of performance for career and technical education students at the postsecondary level
 
-&emsp;&emsp;Each eligible agency shall identify in the State plan core indicators of performance for career and technical education students at the postsecondary level that are valid and reliable, and that include, at a minimum, measures of each of the following:
+&emsp;&emsp;Each eligible agency shall identify in the State plan core indicators of performancefor career and technical education students at the postsecondary level that are valid and reliable, and that include, at a minimum, measures of each of the following:
 
 &emsp;&emsp;&emsp;(i) Student attainment of challenging career and technical skill proficiencies, including student achievement on technical assessments, that are aligned with industry-recognized standards, if available and appropriate.
 
@@ -88,7 +88,7 @@ The purpose of this section is to establish and support State and local performa
 
 #### (iii) Agreement on State adjusted levels of performance for first 2 years
 
-&emsp;&emsp;&emsp;The Secretary and each eligible agency shall reach agreement on the levels of performance for each of the core indicators ofperformance, for the first 2 program years covered by the State plan, taking into account the levels identified in the State plan under clause (ii) and the factors described in clause (vi). The levels of performance agreed to under this clause shall be considered to be the State adjusted level of performance for the State for such years and shall be incorporated into the State plan prior to the approval of such plan.
+&emsp;&emsp;&emsp;The Secretary and each eligible agency shall reach agreement on the levels of performance for each of the core indicators of performance, for the first 2 program years covered by the State plan, taking into account the levels identified in the State plan under clause (ii) and the factors described in clause (vi). The levels of performance agreed to under this clause shall be considered to be the State adjusted level of performance for the State for such years and shall be incorporated into the State plan prior to the approval of such plan.
 
 #### (iv) Role of the Secretary
 

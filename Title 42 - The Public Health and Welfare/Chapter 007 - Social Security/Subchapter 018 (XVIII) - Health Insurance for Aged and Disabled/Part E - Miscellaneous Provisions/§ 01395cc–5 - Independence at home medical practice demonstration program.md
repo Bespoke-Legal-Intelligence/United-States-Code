@@ -108,7 +108,7 @@
 
 #### (3) Beneficiary access to services
 
-&emsp;Nothing in this section shall be construed as encouraging physicians or nurse practitioners to limit applicable beneficiary access to services covered under this subchapter and applicable beneficiaries shall not be required to relinquish access to any benefit under this subchapter as a condition of receiving services from an independence at home medical practice.
+&emsp;Nothing in this section shall be construed as encouraging physicians or nurse practitionersto limit applicable beneficiary access to services covered under this subchapter and applicable beneficiaries shall not be required to relinquish access to any benefit under this subchapter as a condition of receiving services from an independence at home medical practice.
 
 #### (e) Implementation
 

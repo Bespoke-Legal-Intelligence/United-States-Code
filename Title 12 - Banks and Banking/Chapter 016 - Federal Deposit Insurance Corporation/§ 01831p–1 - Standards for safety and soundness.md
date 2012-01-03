@@ -28,7 +28,7 @@ Each appropriate Federal banking agency shall prescribe standards, by regulation
 
 Each appropriate Federal banking agency shall, for all insured depository institutions, prescribe—
 
-&emsp;(1) standards prohibiting as an unsafe and unsound practice any employment contract,compensation or benefit agreement, fee arrangement, perquisite, stock option plan, postemployment benefit, or other compensatory arrangement that—
+&emsp;(1) standards prohibiting as an unsafe and unsound practice any employment contract, compensation or benefit agreement, fee arrangement, perquisite, stock option plan, postemployment benefit, or other compensatory arrangement that—
 
 &emsp;&emsp;(A) would provide any executive officer, employee, director, or principal shareholder of the institution with excessive compensation, fees or benefits; or
 
@@ -150,7 +150,7 @@ Another section 2\[39\] of act Sept. 21, 1950, was renumbered section 2\[42\] an
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–325, §318(c)(1), struck out “and depository institution holding companies” before “, prescribe” in introductory provisions.
+<b>1994</b>—Subsec. (a). Pub. L. 103–325, §318(c)(1), struck out “and depository institution holding companies” before “, prescribe” in introductory provisions.
 
 Subsec. (b). Pub. L. 103–325, §318(a), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “Each appropriate Federal banking agency shall, for all insured depository institutions and depository institution holding companies, prescribe—
 
@@ -180,7 +180,7 @@ Subsec. (e)(2). Pub. L. 103–325, §318(c)(2)(B), struck out “or depository i
 
 Subsec. (e)(2)(A), (B). Pub. L. 103–325, §318(c)(2)(A), struck out “or company” after “institution” wherever appearing.
 
-1992—Subsec. (d). Pub. L. 102–550, §956(1), added subsec. (d) and struck out former subsec. (d) which read as follows: “Standards under subsections (a), (b), and (c) of this section shall be prescribed by regulation.”
+<b>1992</b>—Subsec. (d). Pub. L. 102–550, §956(1), added subsec. (d) and struck out former subsec. (d) which read as follows: “Standards under subsections (a), (b), and (c) of this section shall be prescribed by regulation.”
 
 Subsec. (e)(1)(A). Pub. L. 102–550, §956(2), substituted “(a) or (b)” for “(a), (b), or (c)”.
 

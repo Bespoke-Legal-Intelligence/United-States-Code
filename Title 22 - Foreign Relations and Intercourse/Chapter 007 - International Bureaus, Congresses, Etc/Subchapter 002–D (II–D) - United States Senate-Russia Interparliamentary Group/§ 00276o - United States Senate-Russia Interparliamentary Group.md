@@ -6,7 +6,7 @@ Not to exceed 12 Senators shall be appointed to meet annually with representativ
 
 #### (b) Appointment of Members
 
-The majority and minority leaders of the Senate shall appoint the Senators of the United States group. The majority leader of the Senate shall designate 1 Senator as the Chair of the United States group.
+The majority and minority leaders of the Senate shall appoint the Senators of the United States group. The majority leader of the Senateshall designate 1 Senator as the Chair of the United States group.
 
 #### (c) Funding
 
@@ -24,7 +24,7 @@ miscellaneous items” $75,000 for fiscal year 2004 to assist in meeting the off
 
 #### (f) Appropriations
 
-There are appropriated, out of any money in the Treasury not otherwise appropriated, for thefiscal year ending September 30, 2004, $100,000 for the United States Senate-Russia Interparliamentary Group.
+There are appropriated, out of any money in the Treasury not otherwise appropriated, for the fiscal year ending September 30, 2004, $100,000 for the United States Senate-Russia Interparliamentary Group.
 
 #### (g) Effective date
 

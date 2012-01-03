@@ -100,7 +100,7 @@
 
 #### (I) Eligibility determination
 
-&emsp;&emsp;&emsp;&emsp;Before the expiration of the period for interim assistance under clause (iii), the Secretary of Health and Human Services shall determine if the child referred to in clause (i) is eligible for assistance under this paragraph.
+&emsp;&emsp;&emsp;&emsp;Before the expiration of the period for interim assistance under clause (iii), theSecretary of Health and Human Services shall determine if the child referred to in clause (i) is eligible for assistance under this paragraph.
 
 #### (II) Consultation
 
@@ -154,7 +154,7 @@ Not later than 180 days after October 28, 2000, the Attorney General, the Secret
 
 #### (2) Access to information
 
-&emsp;Victims of severe forms of trafficking shall have access to information about their rights and translation services. To the extent practicable, victims of severe forms of trafficking shall have access to information about federally funded or administered anti-traffickingprograms that provide services to victims of severe forms of trafficking.
+&emsp;Victims of severe forms of trafficking shall have access to information about their rights and translation services. To the extent practicable, victims of severe forms of trafficking shall have access to information about federally funded or administered anti-trafficking programs that provide services to victims of severe forms of trafficking.
 
 #### (3) Authority to permit continued presence in the United States
 
@@ -218,7 +218,7 @@ Nothing in subsection (c) of this section shall be construed as creating any pri
 
 &emsp;&emsp;(B) provide a means to identify such providers; and
 
-&emsp;&emsp;(C) provide a means to make referrals to programs for which such victims are alreadyeligible, including programs administered by the Department of Justice and the Department of Health and Human Services.
+&emsp;&emsp;(C) provide a means to make referrals to programs for which such victims are already eligible, including programs administered by the Department of Justice and the Department of Health and Human Services.
 
 #### (3) Grants
 
@@ -236,7 +236,7 @@ Nothing in subsection (c) of this section shall be construed as creating any pri
 
 On or before October 31 of each year, the Secretary of Homeland Security shall submit a report to the appropriate congressional committees setting forth, with respect to the preceding fiscal year, the number, if any, of otherwise eligible applicants who did not receive visas under section 1101(a)(15)(T) of title 8, as added by subsection (e) of this section, or who were unable to adjust their status under section 1255(<i>l</i>) of title 8, solely on account of the unavailability of visas due to a limitation imposed by section 1184(<i>o</i>)(2) or 1255(<i>l</i>)(4)(A) of title 8.
 
-(Pub. L. 106–386, div. A, §107, Oct. 28, 2000, 114 Stat. 1474; Pub. L. 107–228, div. A, title VI, §682(a), Sept. 30, 2002, 116 Stat. 1409; Pub. L. 108–193, §§4(a)(1)–(3), 6(a)(2), 8(b)(2), Dec. 19, 2003, 117 Stat. 2877, 2880, 2887; Pub. L. 109–162, title VIII, §804, Jan. 5, 2006, 119 Stat. 3055; Pub. L. 109–164, title I, §102(a), Jan. 10, 2006, 119 Stat. 3560; Pub. L. 110–457, title I, §104, title II, §§205(a)(1), 212, 213(a)(1), (3), Dec. 23, 2008, 122 Stat. 5046, 5060, 5063, 5064, 5066.)
+(Pub. L. 106–386, div. A, §107, Oct. 28, 2000, 114 Stat. 1474; Pub. L. 107–228, div. A, title VI,§682(a), Sept. 30, 2002, 116 Stat. 1409; Pub. L. 108–193, §§4(a)(1)–(3), 6(a)(2), 8(b)(2), Dec. 19, 2003, 117 Stat. 2877, 2880, 2887; Pub. L. 109–162, title VIII, §804, Jan. 5, 2006, 119 Stat. 3055; Pub. L. 109–164, title I, §102(a), Jan. 10, 2006, 119 Stat. 3560; Pub. L. 110–457, title I, §104, title II, §§205(a)(1), 212, 213(a)(1), (3), Dec. 23, 2008, 122 Stat. 5046, 5060, 5063, 5064, 5066.)
 
 #### References in Text
 
@@ -282,7 +282,7 @@ Subsec. (c)(2). Pub. L. 109–164 inserted at end “To the extent practicable, 
 
 Subsec. (e)(5). Pub. L. 109–162, §804(a)(1), (c), made identical amendments, substituting “Secretary of Homeland Security” for “Attorney General” in two places.
 
-Subsec. (g). Pub. L. 109–162, §804(d), which directed the insertion of “or the Secretary of Homeland Security” after “Attorney General”, could not be executedbecause the words “Attorney General” did not appear subsequent to the amendment by Pub. L. 109–162, §804(a)(1). See below.
+Subsec. (g). Pub. L. 109–162, §804(d), which directed the insertion of “or the Secretary of Homeland Security” after “Attorney General”, could not be executed because the words “Attorney General” did not appear subsequent to the amendment by Pub. L. 109–162, §804(a)(1). See below.
 
 Pub. L. 109–162, §804(a)(1) substituted “Secretary of Homeland Security” for “Attorney General”.
 
@@ -306,7 +306,7 @@ Pub. L. 110–457, title II, §205(a)(2), Dec. 23, 2008, 122 Stat. 5061, provide
 
 &emsp;“(A) shall take effect on the date of the enactment of this Act \[Dec. 23, 2008\];
 
-&emsp;“(B) shall apply to pending requests for continued presence filed pursuant to section 107(c)(3) of the Trafficking Victims Protection Act \[of 2000\] (22 U.S.C. 7105(c)(3)) and requests filed on or after such date; and
+&emsp;“(B) shall apply to pending requests for continued presence filed pursuant to section 107(c)(3) of theTrafficking Victims Protection Act \[of 2000\] (22 U.S.C. 7105(c)(3)) and requests filed on or after such date; and
 
 &emsp;“(C) may not be applied to an alien who is not present in the United States.”
 

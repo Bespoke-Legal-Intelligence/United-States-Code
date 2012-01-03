@@ -28,6 +28,52 @@ Subsec. (a). Pub. L. 101–510, §1402(a)(1), (2), substituted “a multiyear”
 
 Subsecs. (b)(2)(A), (c). Pub. L. 101–510, §1402(a)(2)(A), substituted “multiyear” for “five-year”.
 
+#### Separate Procurement Line Item for Certain Littoral Combat Ship Mission Modules
+
+Pub. L. 112–81, div. A, title I, §122, Dec. 31, 2011, 125 Stat. 1319, provided that:
+
+“(a)
+
+In General.—In the budget materials submitted to the President by the Secretary of Defense in connection with the submission to Congress, pursuant to section 1105 of title 31, United States Code, of the budget for fiscal year 2013, and each subsequent fiscal year, the Secretary shall ensure that a separate, dedicated procurement line item is designated for each covered module that includes the quantity and cost of each such module requested.
+
+“(b)
+
+Form.—The Secretary shall ensure that any classified components of covered modules not included in a procurement line item under subsection (a) shall be included in a classified annex.
+
+“(c)
+
+Covered Module.—In this section, the term ‘covered module’ means, with respect to mission modules of the Littoral Combat Ship, the following modules:
+
+&emsp;“(1) Surface warfare.
+
+&emsp;“(2) Mine countermeasures.
+
+&emsp;“(3) Anti-submarine warfare.”
+
+#### Display of Procurement of Equipment for the Reserve Components of the Armed Forces Under Estimated Expenditures for Procurement in Future-Years Defense Programs
+
+Pub. L. 112–81, div. A, title X, §1003A, Dec. 31, 2011, 125 Stat. 1556, provided that: “Each future-years defense program submitted to Congress under section 221 of title 10, United States Code, shall, in setting forth estimated expenditures and item quantities for procurement for the Armed Forces for the fiscal years covered by such program, display separately under such estimated expenditures and item quantities the estimated expenditures for each such fiscal year for equipment for each reserve component of the Armed Forces that will receive items in any fiscal year covered by such program.”
+
+#### Display of Annual Budget Requirements for Organizational Clothing and Individual Equipment
+
+Pub. L. 112–81, div. A, title X, §1094, Dec. 31, 2011, 125 Stat. 1607, provided that:
+
+“(a)
+
+Submission With Annual Budget Justification Documents.—For fiscal year 2013 and each subsequent fiscal year, the Secretary of Defense shall submit to the President, for inclusion with the budget materials submitted to Congress under section 1105(a) of title 31, United States Code, a budget justification display thatcovers all programs and activities associated with the procurement of organizational clothing and individual equipment.
+
+“(b)
+
+Requirements for Budget Display.—The budget justification display under subsection (a) for a fiscal year shall include the following:
+
+&emsp;“(1) The funding requirements in each budget activity and for each Armed Force for organizational clothing and individual equipment.
+
+&emsp;“(2) The amount in the budget for each of the Armed Forces for organizational clothing and equipment for that fiscal year.
+
+“(c)
+
+Definition.—In this section, the term ‘organizational clothing and individual equipment’ means an item of organizational clothing or equipment prescribed for wear or use with the uniform.”
+
 #### Separate Program Elements Required for Research and Development of Joint Light Tactical Vehicle
 
 Pub. L. 111–383, div. A, title II, §213, Jan. 7, 2011, 124 Stat. 4163, provided that: “In the budget materials submitted to the President by the Secretary of Defense in connection with the submission to Congress, pursuant to section 1105 of title 31, United States Code, of the budget for fiscal year 2012, and each subsequent fiscal year, the Secretary shall ensure that within each research, development, test, and evaluation account of the Army and the Navy a separate, dedicated program element is assigned to the Joint Light Tactical Vehicle.”
@@ -90,7 +136,7 @@ Pub. L. 110–417, \[div. A\], title I, §111, Oct. 14, 2008, 122 Stat. 4373, pr
 
 #### Separate Procurement and Research, Development, Test, and Evaluation Line Items and Program Elements for Sky Warrior Unmanned Aerial Systems Project
 
-Pub. L. 110–417, \[div. A\], title II, §214, Oct. 14, 2008, 122 Stat. 4386, provided that: “Effective for fiscal year 2010 and for each fiscal year thereafter, the Secretary of Defense shall ensure that, in the annual budget submission of the Department of Defense to the President, within both the account for procurement and the account for research, development, test, and evaluation, a separate, dedicated line item and program element isdesignated for the Sky Warrior Unmanned Aerial Systems project, to the extent such accounts include funding for such project.”
+Pub. L. 110–417, \[div. A\], title II, §214, Oct. 14, 2008, 122 Stat. 4386, provided that: “Effective for fiscal year 2010 and for each fiscal year thereafter, the Secretary of Defense shall ensure that, in the annual budget submission of the Department of Defense to the President, within both the account for procurement and the account for research, development, test, and evaluation, a separate, dedicated line item and program element is designated for the Sky Warrior Unmanned Aerial Systems project, to the extent such accounts include funding for such project.”
 
 #### Display of Annual Budget Requirements for Air Sovereignty Alert Mission
 
@@ -162,9 +208,11 @@ Pub. L. 110–181, div. A, title IX, §901(b), (c), Jan. 28, 2008, 122 Stat. 272
 
 #### Major Force Program Category for Space
 
-Pub. L. 111–118, div. A, title VIII, §8099, Dec. 19, 2009, 123 Stat. 3450, provided that: “The Secretary of Defense shall create a major force program category for space for the Future Years Defense Program of the Department of Defense. The Secretary of Defense shall designate an official in the Office of the Secretary of Defense to provide overall supervision of the preparation and justification of program recommendations and budget proposals to be included in such major force program category.”
+Pub. L. 112–10, div. A, title VIII, §8092, Apr. 15, 2011, 125 Stat. 77, provided that: “The Secretary of Defense shall create a major force program category for space for each future-years defense program of the Department of Defense submitted to Congress under section 221 of title 10, United States Code, during fiscal year 2011. The Secretary of Defense shall designate an official in the Office of the Secretary of Defense to provide overall supervision of the preparation and justification of program recommendations and budget proposals to be included in such major force program category.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 111–118, div. A, title VIII, §8099, Dec. 19, 2009, 123 Stat. 3450.
 
 Pub. L. 110–329, div. C, title VIII, §8104, Sept. 30, 2008, 122 Stat. 3644.
 
@@ -176,25 +224,7 @@ Pub. L. 110–116, div. A, title VIII, §8116, Nov. 13, 2007, 121 Stat. 1340, pr
 
 #### Annual Report on Personnel Security Investigations for Industry and National Industrial Security Program
 
-Pub. L. 109–364, div. A, title III, §347(a), (b), Oct. 17, 2006, 120 Stat. 2158, provided that:
-
-“(a)
-
-Annual Report Required.—The Secretary of Defense shall include in the budget justification documents submitted to Congress in support of the President's budget for the Department of Defense for each fiscal year, a report on the future requirements of the Department of Defense with respect to the Personnel Security Investigations for Industry and the National Industrial Security Program of the Defense Security Service.
-
-“(b)
-
-Contents of Report.—Each report required to be submitted under subsection (a) shall include the following:
-
-&emsp;“(1) The funding requirements of the personnel security clearance investigation program and ability of the Secretary of Defense to fund the program.
-
-&emsp;“(2) The size of the personnel security clearance investigation process backlog.
-
-&emsp;“(3) The length of the average delay for an individual case pending in the personnel security clearance investigation process.
-
-&emsp;“(4) Any progress made by the Secretary of Defense during the 12 months preceding the date on which the report is submitted toward implementing planned changes in the personnel security clearance investigation process.
-
-&emsp;“(5) A determination certified by the Secretary of Defense of whether the personnel security clearance investigation process has improved during the 12 months preceding the date on which the report is submitted.”
+Pub. L. 109–364, div. A, title III, §347(a), (b), Oct. 17, 2006, 120 Stat. 2158, which required that the Secretary of Defense include in budget justification documents for each fiscal year a report on future requirements of the Department of Defense concerning Personnel Security Investigations for Industry and the National Industrial Security Program of the Defense Security Service, was repealed by Pub. L. 112–81, div. A, title X, §1062(d)(1), Dec. 31, 2011, 125 Stat. 1585.
 
 #### Budgeting for Ongoing Military Operations in Afghanistan and Iraq
 
@@ -322,6 +352,10 @@ Pub. L. 107–248, title VIII, §8132, Oct. 23, 2002, 116 Stat. 1568, provided t
 
 Similar provisions were contained in the following appropriation acts:
 
+Pub. L. 112–74, div. A, title VIII, §8077, Dec. 23, 2011, 125 Stat. 824.
+
+Pub. L. 112–10, div. A, title VIII, §8077, Apr. 15, 2011, 125 Stat. 74.
+
 Pub. L. 111–118, div. A, title VIII, §8083, Dec. 19, 2009, 123 Stat. 3447.
 
 Pub. L. 110–329, div. C, title VIII, §8086, Sept. 30, 2008, 122 Stat. 3641.
@@ -374,7 +408,7 @@ Pub. L. 104–106, div. A, title II, §251, Feb. 10, 1996, 110 Stat. 233, which 
 
 #### Budget Submissions on Salaries and Expenses Related to Administrative Activities
 
-Pub. L. 109–148, div. A, title VIII, §8032, Dec. 30, 2005, 119 Stat. 2705, provided that: “The President shall include with each budget for a fiscal year submitted to the Congress under section 1105 of title 31, United States Code, and hereafter, materials that shall identify clearly and separately the amounts requested in the budget for appropriation for that fiscal year for salaries and expenses related to administrative activities of the Department of Defense, the military departments, and the defense agencies.”
+Pub. L. 109–148, div. A, title VIII, §8032, Dec. 30, 2005, 119 Stat. 2705, provided that: “The President shall include with each budget for a fiscal year submitted to the Congress under section 1105 of title 31, United States Code, and hereafter, materials that shall identify clearly and separately the amounts requested inthe budget for appropriation for that fiscal year for salaries and expenses related to administrative activities of the Department of Defense, the military departments, and the defense agencies.”
 
 Similar provisions were contained in the following prior appropriation acts:
 

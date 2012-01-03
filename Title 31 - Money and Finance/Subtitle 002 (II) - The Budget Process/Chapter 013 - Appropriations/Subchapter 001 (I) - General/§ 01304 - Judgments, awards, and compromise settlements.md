@@ -22,7 +22,7 @@
 
 &emsp;(B) on a judgment of the Court of Appeals for the Federal Circuit or the United States Court of Federal Claims under section 2516(b) of title 28, only from the date of filing of the transcript of the judgment with the Secretary of the Treasury through the day before the date of the mandate of affirmance.
 
-(2) Interest payable under this subsection in a proceeding reviewed by the Supreme Court isnot allowed after the end of the term in which the judgment is affirmed.
+(2) Interest payable under this subsection in a proceeding reviewed by the Supreme Court is not allowed after the end of the term in which the judgment is affirmed.
 
 (c)(1) A judgment or compromise settlement against the Government shall be paid under this section and sections 2414, 2517, and 2518 <sup>1</sup> of title 28 when the judgment or settlement arises out of an express or implied contract made by—
 

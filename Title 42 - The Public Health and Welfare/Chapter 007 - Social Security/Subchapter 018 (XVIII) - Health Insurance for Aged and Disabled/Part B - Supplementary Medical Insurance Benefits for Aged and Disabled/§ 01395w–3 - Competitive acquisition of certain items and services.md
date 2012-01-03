@@ -282,7 +282,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;With respect to the competitive acquisition program for diabetic testing strips conducted after the first round of the competitive acquisition programs, if an entity does not demonstrate to the Secretary that its bid covers types of diabetic testing strip products that, in the aggregate and taking into account volume for the different products, cover 50 percent (or such higher percentage as the Secretary may specify) of all such types of products, the Secretary shall reject such bid. The volume for such types of products may be determined in accordance with such data (which may be market based data) as the Secretary recognizes.
+&emsp;&emsp;With respect to the competitive acquisition program for diabetic testing strips conducted after the first round of the competitive acquisition programs, if an entity does not demonstrate to the Secretary that its bid covers types of diabetic testing strip products that, in the aggregate and taking into account volume for the different products, cover 50 percent (or such higher percentage as the Secretary may specify) of all such types of products, the Secretary shall reject such bid. The volume for such types of products may be determined in accordancewith such data (which may be market based data) as the Secretary recognizes.
 
 #### (B) Study of types of testing strip products
 
@@ -364,7 +364,7 @@ The Federal Advisory Committee Act, referred to in subsec. (c)(4), is Pub. L. 92
 
 #### Prior Provisions
 
-A prior section 1395w–3, act Aug. 14, 1935, ch. 531, title XVIII, §1847, as added July 1, 1988, Pub. L. 100–360, title II, §202(j), 102 Stat. 719; amended Oct. 13, 1988, Pub. L. 100–485, title VI, §608(d)(5)(I), 102 Stat. 2414, provided for appointment of Prescription Drug Payment Review Commission by Director of Congressional Office of Technology Assessment, prior to repeal by Pub. L. 101–234, title II, §201(a), (c), Dec. 13, 1989, 103 Stat. 1981, effective Jan. 1, 1990.
+A prior section 1395w–3, act Aug. 14, 1935, ch. 531, title XVIII, §1847, as added July 1, 1988, Pub. L. 100–360, title II, §202(j), 102 Stat. 719; amended Oct. 13, 1988, Pub. L.100–485, title VI, §608(d)(5)(I), 102 Stat. 2414, provided for appointment of Prescription Drug Payment Review Commission by Director of Congressional Office of Technology Assessment, prior to repeal by Pub. L. 101–234, title II, §201(a), (c), Dec. 13, 1989, 103 Stat. 1981, effective Jan. 1, 1990.
 
 #### Amendments
 
@@ -414,7 +414,7 @@ Amendment by section 154 of Pub. L. 110–275 effective June 30, 2008, see secti
 
 #### Effective Date of 1999 Amendment
 
-Amendment by Pub. L. 106–113 effective as if included in the enactment of the Balanced Budget Act of 1997,Pub. L. 105–33, except as otherwise provided, see section 1000(a)(6) \[title III, §321(m)\] of Pub. L. 106–113, set out as a note under section 1395d of this title.
+Amendment by Pub. L. 106–113 effective as if included in the enactment of the Balanced Budget Act of 1997, Pub. L. 105–33, except as otherwise provided, see section 1000(a)(6) \[title III, §321(m)\] of Pub. L. 106–113, set out as a note under section 1395d of this title.
 
 #### GAO Report on Impact of Competitive Acquisition on Suppliers
 

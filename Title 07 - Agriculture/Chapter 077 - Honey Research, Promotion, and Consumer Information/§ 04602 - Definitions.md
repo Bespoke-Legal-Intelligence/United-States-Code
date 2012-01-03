@@ -102,7 +102,7 @@ Qualified national organization representing importer interests.—The term “q
 
 #### Amendments
 
-1998—Pars. (1) to (5). Pub. L. 105–185, §605(b)(3), redesignated pars. (14), (12), (19), (18), and (7) as (1) to (5), respectively. Former pars. (1) to (5) redesignated (7), (10), (22), (15), and (16), respectively.
+<b>1998</b>—Pars. (1) to (5). Pub. L. 105–185, §605(b)(3), redesignated pars. (14), (12), (19), (18), and (7) as (1) to (5), respectively. Former pars. (1) to (5) redesignated (7), (10), (22), (15), and (16), respectively.
 
 Par. (7). Pub. L. 105–185, §605(b)(3), redesignated par. (1) as (7). Former par. (7) redesignated (5).
 
@@ -116,7 +116,7 @@ Pars. (19) to (24). Pub. L. 105–185, §605(b)(3), redesignated pars. (23), (24
 
 Pub. L. 105–185, §605(b)(2), added pars. (19) to (24).
 
-1990—Par. (8). Pub. L. 101–624, §1982(1), substituted “or acts” for “or who acts”, and inserted before period at end “and who is listed in the import records as the importer of record for such honey or honey products”.
+<b>1990</b>—Par. (8). Pub. L. 101–624, §1982(1), substituted “or acts” for “or who acts”, and inserted before period at end “and who is listed in the import records as the importer of record for such honey or honey products”.
 
 Par. (18). Pub. L. 101–624, §1982(2), added par. (18).
 

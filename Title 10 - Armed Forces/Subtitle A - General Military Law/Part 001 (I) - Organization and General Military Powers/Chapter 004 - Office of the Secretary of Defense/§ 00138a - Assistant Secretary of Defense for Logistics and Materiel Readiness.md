@@ -6,7 +6,7 @@
 
 (c) The Assistant Secretary shall perform such duties relating to logistics and materiel readiness as the Under Secretary of Defense for Acquisition, Technology, and Logistics may assign, including—
 
-&emsp;(1) prescribing, by authority of the Secretary of Defense, policies and procedures forthe conduct of logistics, maintenance, materiel readiness, and sustainment support in the Department of Defense;
+&emsp;(1) prescribing, by authority of the Secretary of Defense, policies and procedures for the conduct of logistics, maintenance, materiel readiness, and sustainment support in the Department of Defense;
 
 &emsp;(2) advising and assisting the Secretary of Defense, the Deputy Secretary of Defense, and the Under Secretary of Defense for Acquisition, Technology, and Logistics providing guidance to and consulting with the Secretaries of the military departments, with respect to logistics, maintenance, materiel readiness, and sustainment support in the Department of Defense; and
 

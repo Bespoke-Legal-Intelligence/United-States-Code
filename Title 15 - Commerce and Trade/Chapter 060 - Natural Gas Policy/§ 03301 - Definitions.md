@@ -186,7 +186,7 @@ For purposes of this chapter—
 
 #### (29) Mcf
 
-&emsp;The term “Mcf”, when used with respect to natural gas, means 1,000 cubic feet of natural gas measured at a pressure of 14.73 pounds per square inch (absolute) and a temperature of 60 degrees Fahrenheit.
+&emsp;The term “Mcf”, when used with respect to natural gas, means 1,000 cubic feet of naturalgas measured at a pressure of 14.73 pounds per square inch (absolute) and a temperature of 60 degrees Fahrenheit.
 
 #### (30) Btu
 

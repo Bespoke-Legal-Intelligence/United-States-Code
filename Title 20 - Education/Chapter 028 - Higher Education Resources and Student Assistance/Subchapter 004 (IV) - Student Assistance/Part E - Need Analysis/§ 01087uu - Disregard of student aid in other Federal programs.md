@@ -1,12 +1,12 @@
 ### §1087uu. Disregard of student aid in other Federal programs
 
-Notwithstanding any other provision of law, student financial assistance received under this subchapter and part C of subchapter I of chapter 34 of title 42, or under Bureau of Indian Affairs student assistance programs, shall not be taken into account in determining the need or eligibility of any person for benefits or assistance, orthe amount of such benefits or assistance, under any Federal, State, or local program financed in whole or in part with Federal funds.
+Notwithstanding any other provision of law, student financial assistance received under this subchapter and part C of subchapter I of chapter 34 of title 42, or under Bureau of Indian Affairs student assistance programs, shall not be taken into account in determining the need or eligibility of any person for benefits or assistance, or the amount of such benefits or assistance, under any Federal, State, or local program financed in whole or in part with Federal funds.
 
 (Pub. L. 89–329, title IV, §479B, as added Pub. L. 100–50, §14(27), June 3, 1987, 101 Stat. 353; amended Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 606.)
 
 #### Prior Provisions
 
-A prior section 1087uu, Pub. L. 89–329, title IV, §479B, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1472, related to exclusion of student financial assistance for attendance costs in determining student eligibility for assistance under any other program funded in whole or part with Federal funds, prior to repeal by section 14(27) of Pub. L. 100–50.
+A prior section 1087uu, Pub. L. 89–329, title IV, §479B, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986,100 Stat. 1472, related to exclusion of student financial assistance for attendance costs in determining student eligibility for assistance under any other program funded in whole or part with Federal funds, prior to repeal by section 14(27) of Pub. L. 100–50.
 
 #### Amendments
 

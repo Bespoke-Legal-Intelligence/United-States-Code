@@ -8,7 +8,7 @@
 
 &emsp;(B) containing a projection by the Congressional Budget Office of how such measure will affect the levels of such budget authority, budget outlays, revenues, or tax expenditures under existing law for such fiscal year (or fiscal years) and each of the four ensuing fiscal years, if timely submitted before such report is filed; and
 
-&emsp;(C) containing an estimate by the Congressional Budget Office of the level of new budget authority for assistance to State and local governments provided by such measure, if timely submitted before such report is filed.
+&emsp;(C) containing an estimate by the Congressional Budget Office of the level of new budget authority for assistance to State and localgovernments provided by such measure, if timely submitted before such report is filed.
 
 (2) Whenever a conference report is filed in either House and such conference report or any amendment reported in disagreement or any amendment contained in the joint statement of managers to be proposed by the conferees in the case of technical disagreement on such bill or joint resolution provides new budget authority (other than continuing appropriations) or provides an increase or decrease in revenues for a fiscal year (or fiscal years), the statement of managers accompanying such conference report shall contain the information described in paragraph (1), if available on a timely basis. If such information is not available when the conference report is filed, the committee shall make such information available to Members as soon as practicable prior to the consideration of such conference report.
 
@@ -16,7 +16,7 @@
 
 paygo estimates.—
 
-&emsp;(A) The Chairs of the Committees on the Budget of the House and Senate, as applicable,shall request from the Director of the Congressional Budget Office an estimate of the budgetary effects of PAYGO legislation.
+&emsp;(A) The Chairs of the Committees on the Budget of the House and Senate, as applicable, shall request from the Director of the Congressional Budget Office an estimate of the budgetary effects of PAYGO legislation.
 
 &emsp;(B) Estimates shall be prepared using baseline estimates supplied by the Congressional Budget Office, consistent with section 907 of this title.
 
@@ -60,13 +60,13 @@ Section was formerly classified to section 1329 of Title 31 prior to the general
 
 #### Amendments
 
-2010—Subsec. (a). Pub. L. 111–139, §4(b)(1)(B), struck out “Reports on” before “Legislation” in heading.
+<b>2010</b>—Subsec. (a). Pub. L. 111–139, §4(b)(1)(B), struck out “Reports on” before “Legislation” in heading.
 
 Subsec. (a)(3). Pub. L. 111–139, §4(b)(1)(A), added par. (3).
 
 Subsec. (d). Pub. L. 111–139, §4(b)(2), added subsec. (d).
 
-1997—Subsec. (a). Pub. L. 105–33, §10110(1)(A), struck out “, new spending authority, or new credit authority,” after “new budget authority” in heading.
+<b>1997</b>—Subsec. (a). Pub. L. 105–33, §10110(1)(A), struck out “, new spending authority, or new credit authority,” after “new budget authority” in heading.
 
 Subsec. (a)(1). Pub. L. 105–33, §10110(4), in introductory provisions, substituted “bill or joint resolution” for “bill or resolution” in two places.
 
@@ -88,13 +88,13 @@ Pub. L. 105–33, §10110(2), struck out “, new spending authority described 
 
 Subsec. (c)(3) to (5). Pub. L. 105–33, §10110(3), inserted “and” at end of par. (3), substituted a period for “; and” at end of par. (4), and struck out par. (5) which read as follows: “credit authority for each fiscal year in such period.”
 
-1990—Subsec. (a)(1). Pub. L. 101–508, §13206(a)(1), inserted “(or fiscal years)” after “fiscal year” in introductory provisions and in subpars. (A) and (C).
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–508, §13206(a)(1), inserted “(or fiscal years)” after “fiscal year” in introductory provisions and in subpars. (A) and (C).
 
 Subsec. (a)(2). Pub. L. 101–508, §13206(b), inserted “(or fiscal years)” after “fiscal year”.
 
 Subsec. (b)(1). Pub. L. 101–508, §13206(c), substituted “for each fiscal year covered by a concurrent resolution on the budget” for “for a fiscal year” in first sentence, and “the first fiscal year covered by the appropriate concurrent resolution” for “such fiscal year” in second sentence.
 
-1985—Subsec. (a). Pub. L. 99–177, in amending subsec. (a) generally, designated existing provisions as par. (1),substituted provisions relating to reports on legislation providing new budget authority, new spending authority, or new credit authority, or providing an increase or decrease in revenues or tax expenditures, for provisions relating to reports on legislation providing new budget authority or tax expenditures, and added par. (2).
+<b>1985</b>—Subsec. (a). Pub. L. 99–177, in amending subsec. (a) generally, designated existing provisions as par. (1), substituted provisions relating to reports on legislation providing new budget authority, new spending authority, or new credit authority, or providing an increase or decrease in revenues or tax expenditures, for provisions relating to reports on legislation providing new budget authority or tax expenditures, and added par. (2).
 
 Subsec. (b). Pub. L. 99–177, in amending subsec. (b) generally, designated existing provisions as par. (1), substituted provisions relating to issuance of reports on a monthly basis and contents of such reports, for provisions relating to issuance of reports on a periodic basis and contents of such reports, and added par. (2).
 
@@ -102,5 +102,5 @@ Subsec. (c). Pub. L. 99–177 amended subsec. (c) generally, adding pars. (4) an
 
 #### Effective Date of 1985 Amendment
 
-Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, set out as an Effective and Termination Dates note under section 900 of this title.
+Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of this title prior to repeal by Pub. L. 112–25, title I, §104(a), Aug. 2, 2011, 125 Stat. 246.
 

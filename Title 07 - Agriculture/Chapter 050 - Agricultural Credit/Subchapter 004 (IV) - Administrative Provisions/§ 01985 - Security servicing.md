@@ -48,7 +48,7 @@ Except as provided in subsections (c) and (e) of this section, real property adm
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), any conveyance of real property under this subsectionshall include all of the interest of the United States in the property, including mineral rights.
+&emsp;&emsp;Subject to subparagraph (B), any conveyance of real property under this subsection shall include all of the interest of the United States in the property, including mineral rights.
 
 #### (B) Conservation
 
@@ -108,7 +108,7 @@ Except as provided in subsections (c) and (e) of this section, real property adm
 
 #### (d) Easements; condemnations
 
-With respect to any real property administered under this chapter, the Secretary is authorized to grant or sell easements or rights-of-way for roads, utilities, and other appurtenances not inconsistent with the public interest. With respect to any rights-of-way over land on which the United States has a lien administered under this chapter, the Secretary may release said lien upon payment to the United States of adequate consideration, and the interest of the United States arising under any such lien may be acquired for highway purposes by any State or political subdivision thereof in condemnation proceedings under State law by service by certified mail upon the United States attorney for the district, the State Director of the Farmers Home Administration for the State in which the farm is located, and the Attorney General of the United States: <i>Provided, however</i>, That the United States shall not be required to appear, answer, or respond to any notice or writ sooner than ninety days from the time such notice or writ is returnable or purports to be effective, and the taking or vesting of title to the interest of the United States shall not become final under any proceeding, order, or decree until adequate compensation and damages have been finally determined and paid to the United States or into the registry of the court.
+With respect to any real property administered under this chapter, the Secretary is authorized to grant or sell easements or rights-of-way for roads, utilities, and other appurtenances not inconsistent with the public interest. With respect to any rights-of-way over land on which the United States has a lien administered under this chapter, the Secretary may release said lien upon payment to the United States of adequate consideration, and the interest of the United States arising under any such lien may be acquired for highway purposes by any State or political subdivision thereof in condemnation proceedings under State law by service by certifiedmail upon the United States attorney for the district, the State Director of the Farmers Home Administration for the State in which the farm is located, and the Attorney General of the United States: <i>Provided, however</i>, That the United States shall not be required to appear, answer, or respond to any notice or writ sooner than ninety days from the time such notice or writ is returnable or purports to be effective, and the taking or vesting of title to the interest of the United States shall not become final under any proceeding, order, or decree until adequate compensation and damages have been finally determined and paid to the United States or into the registry of the court.
 
 #### (e) Real property located within Indian reservation; conservation practices; adverse effects prohibition
 
@@ -116,7 +116,7 @@ With respect to any real property administered under this chapter, the Secretary
 
 &emsp;(I) the Secretary acquires property under this chapter that is located within an Indian reservation; and
 
-&emsp;(II) the borrower-owner is the Indian tribe that has jurisdiction over the reservation inwhich the real property is located or the borrower-owner is a member of such Indian tribe;
+&emsp;(II) the borrower-owner is the Indian tribe that has jurisdiction over the reservation in which the real property is located or the borrower-owner is a member of such Indian tribe;
 
 > the Secretary shall dispose of or administer the property only as provided for in this subparagraph.
 
@@ -154,7 +154,7 @@ With respect to any real property administered under this chapter, the Secretary
 
 &emsp;(III) the capitalized value of the real property, as of the date of the transfer to the Secretary of the Interior.
 
-(viii) When the total amount that is required to be deposited under clause (vii) with respect to any real property has been deposited into the Treasury of the United States, title to the real property shall be held in trust by the United States for the benefit of the Indian tribe having jurisdiction over the Indian reservation within which the real property is located.
+(viii) When the total amount that is required to be deposited under clause (vii) with respect to any real property has been deposited into the Treasury of the United States, title to the real property shall be held in trust by the United States for the benefit of the Indian tribe havingjurisdiction over the Indian reservation within which the real property is located.
 
 (ix) Notwithstanding any other clause of this subparagraph, the Indian tribe having jurisdiction over the Indian reservation within which the real property described in clause (i) is located may, at any time after the real property has been transferred to the Secretary of the Interior under clause (v), offer to pay the remaining amount on the lien, or the fair market value of the real property, whichever is less. Upon payment of such amount, title to such real property shall be held by the United States in trust for the tribe and such trust or restricted lands that have been acquired by the Secretary under foreclosure or voluntary transfer under a loan made or insured under this chapter and transferred to an Indian person, entity, or tribe under the provisions of this subparagraph shall be deemed to have never lost trust or restricted status.
 
@@ -278,7 +278,7 @@ Assumed loans.—If an Indian tribe assumes a loan under subclause (I)—
 
 (B) Releases under such paragraph shall be made to qualified borrowers who have responded to the notice within 30 days after receipt.
 
-(C) Within 12 months after a borrower has requested restructuring under section 2001 of this title, the Secretary shall make a final determination on the request. Notwithstanding the 12-month limitation provided for in paragraph (3), releases shall continue to be made to the borrower until a denial or dismissal of the application of the borrower for restructuring under section 2001 of this title is made. The amount of essential household and farm operating expenses which may be released to any borrower eligible for such releases after 12 months may exceed $18,000, by an amount proportionate to the period of time beyond 12 months before a final determination is made by the Secretary.
+(C) Within 12 months after a borrower has requested restructuring under section 2001 of this title, the Secretary shall make a final determination on the request. Notwithstanding the12-month limitation provided for in paragraph (3), releases shall continue to be made to the borrower until a denial or dismissal of the application of the borrower for restructuring under section 2001 of this title is made. The amount of essential household and farm operating expenses which may be released to any borrower eligible for such releases after 12 months may exceed $18,000, by an amount proportionate to the period of time beyond 12 months before a final determination is made by the Secretary.
 
 (6) If a borrower is required to plan for or to report on how proceeds from the sale of collateral property will be used, the Secretary shall—
 
@@ -332,7 +332,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (c)(1)(B). Pub. L. 110–246, §5302(a)(1)(A), in heading, inserted “; socially disadvantaged farmer or rancher” at end, in cls. (i) and (iii), inserted “or a socially disadvantaged farmer or rancher” after “beginning farmer or rancher”, in cl. (ii), inserted “or socially disadvantaged farmer or rancher” after “beginning farmer or rancher”, and, in cl. (iv), substituted “beginning farmers or ranchers and socially disadvantaged farmers or ranchers” for “beginning farmers and ranchers”.
+<b>2008</b>—Subsec. (c)(1)(B). Pub. L. 110–246, §5302(a)(1)(A), in heading, inserted “; socially disadvantaged farmer or rancher” at end, in cls. (i) and (iii), inserted “or a socially disadvantaged farmer or rancher” after “beginning farmer or rancher”, in cl. (ii), inserted “or socially disadvantaged farmer or rancher” after “beginning farmer or rancher”, and, in cl. (iv), substituted “beginning farmers or ranchers and socially disadvantaged farmers or ranchers” for “beginning farmers and ranchers”.
 
 Subsec. (c)(1)(C). Pub. L. 110–246, §5302(a)(1)(B), inserted “or a socially disadvantaged farmer or rancher” after “beginning farmer or rancher”.
 
@@ -342,9 +342,9 @@ Subsec. (c)(5)(B)(ii). Pub. L. 110–246, §5302(a)(2)(B), in introductory provi
 
 Subsec. (c)(6)(A). Pub. L. 110–246, §5302(a)(3)(A), inserted “or a socially disadvantaged farmer or rancher” after “beginning farmer or rancher”.
 
-Subsec. (c)(6)(C). Pub. L. 110–246, §5302(a)(3)(B), in cl. (i)(I), substituted “beginning farmers or ranchers and socially disadvantaged farmers or ranchers” for “beginning farmers and ranchers” and, in cl. (ii), inserted “or socially disadvantaged farmers or ranchers” after “beginning farmers or ranchers”.
+Subsec. (c)(6)(C). Pub. L. 110–246, §5302(a)(3)(B), in cl. (i)(I), substituted “beginning farmers or ranchers and socially disadvantaged farmers or ranchers” for “beginning farmers and ranchers” and, in cl. (ii), inserted “orsocially disadvantaged farmers or ranchers” after “beginning farmers or ranchers”.
 
-2002—Subsec. (c)(1)(B)(i). Pub. L. 107–171, §5308(1)(A)(i), substituted “135 days” for “75 days”.
+<b>2002</b>—Subsec. (c)(1)(B)(i). Pub. L. 107–171, §5308(1)(A)(i), substituted “135 days” for “75 days”.
 
 Subsec. (c)(1)(B)(iv). Pub. L. 107–171, §5308(1)(A)(ii), added cl. (iv).
 
@@ -360,11 +360,11 @@ Previous lease.—In the case of real property acquired prior to April 4, 1996, 
 
 Previously in inventory.—In the case of real property acquired prior to April 4, 1996, that the Secretary has not leased, not later than 60 days after April 4, 1996, the Secretary shall offer to sell the property in accordance with paragraph (1).”
 
-1996—Subsec. (b). Pub. L. 104–127, §638(1), substituted “subsections (c) and (e)” for “subsection (e)”.
+<b>1996</b>—Subsec. (b). Pub. L. 104–127, §638(1), substituted “subsections (c) and (e)” for “subsection (e)”.
 
 Subsec. (c). Pub. L. 104–127, §638(2), added subsec. (c) and struck out former subsec. (c) which authorized Secretary to determine whether real property administered under this chapter was suitable for disposition to persons eligible for assistance under provisions of any law administered by Farmers Home Administration or Rural Development Administration.
 
-Subsec. (e)(1)(A). Pub. L. 104–127, §638(3)(A)(i)–(iii), redesignated subpar. (D) as (A), in cl. (i), substituted “(D)” for “(G)” in introductory provisions, added subcl.\(I) and struck out former subcl. (I) which read as follows: “the real property described in subparagraph (A)(i) is located within an Indian reservation,”, in subcl. (II), substituted a semicolon for “, and” at end, and struck out subcl. (III) which read as follows: “the period in which the right to purchase or lease such real property provided in clauses (i) and (ii) of subparagraph (A) has expired,”, in cl. (iii), substituted “Not later than 90 days after acquiring the property, the Secretary shall” for “The Secretary shall, within 90 days after the expiration of the period for which the right to purchase or lease real property described in clause (i) is provided in clauses (i) and (ii) of subparagraph (A),”, and struck out former subpar. (A) which authorized the Secretary, during 180-day period beginning on date of acquisition, or during applicable period under State law, to allow borrower-owner to purchase or lease property, if such borrower-owner had acted in good faith with the Secretary.
+Subsec. (e)(1)(A). Pub. L. 104–127, §638(3)(A)(i)–(iii), redesignated subpar. (D) as (A), in cl. (i), substituted “(D)” for “(G)” in introductory provisions, added subcl. (I) and struck out former subcl. (I) which read as follows: “the real property described in subparagraph (A)(i) is located within an Indian reservation,”, in subcl. (II), substituted a semicolon for “, and” at end, and struck out subcl. (III) which read as follows: “the period in which the right to purchase or lease such real property provided in clauses (i) and (ii) of subparagraph (A) has expired,”, in cl. (iii), substituted “Not later than 90 days after acquiring the property, the Secretary shall” for “The Secretary shall, within 90 days after the expiration of the period for which the right to purchase or lease real property described in clause (i) is provided in clauses (i) and (ii) of subparagraph (A),”, and struck out former subpar. (A) which authorized the Secretary, during 180-day period beginning on date of acquisition, or during applicable period under State law, to allow borrower-owner to purchase or lease property, if such borrower-owner had acted in good faith with the Secretary.
 
 Subsec. (e)(1)(B). Pub. L. 104–127, §638(3)(A)(i), (ii), redesignated subpar. (E) as (B) and struck out former subpar. (B) which read as follows: “Any purchase or lease under subparagraph (A) shall be on such terms and conditions as are established in regulations promulgated by the Secretary.”
 
@@ -410,7 +410,7 @@ Subsec. (g). Pub. L. 104–127, §639(1)(A), inserted heading.
 
 Subsec. (g)(1). Pub. L. 104–127, §639(1), inserted heading, substituted “Subject to paragraph (2)” for “Subject to paragraphs (2) through (5)”, and struck out “, as determined by the Secretary in accordance with title XII of the Food Security Act of 1985 (16 U.S.C. 3801 et seq.)” after “inventoried property”.
 
-Subsec. (g)(2). Pub. L. 104–127, §639(2), added par. (2) and struck out former par. (2) which read as follows: “In establishing the wetland conservation easements on land that is considered to be cropland as of November 28, 1990, the Secretary shall avoid, to the extent practicable, an adverse impact on the productivity of the croplands, as provided in this subsection.”
+Subsec. (g)(2). Pub. L. 104–127, §639(2), added par. (2) and struck out former par. (2) which read as follows: “In establishing the wetland conservation easements on land that is considered to be cropland as of November 28, 1990, the Secretary shall avoid, to the extentpracticable, an adverse impact on the productivity of the croplands, as provided in this subsection.”
 
 Subsec. (g)(3). Pub. L. 104–127, §639(3), (4), redesignated par. (6) as (3), inserted heading, and struck out former par. (3) which read as follows: “In order to avoid the adverse impact, the Secretary shall—
 
@@ -422,7 +422,7 @@ Subsec. (g)(3). Pub. L. 104–127, §639(3), (4), redesignated par. (6) as (3), 
 
 &emsp;“(D) ensure that access to other portions of the property for farming and other uses is provided.”
 
-Subsec. (g)(4). Pub. L. 104–127, §639(3), (5), redesignated par. (7) as (4), inserted heading, and struck out former par. (4) which read as follows: “The wetland conservation easements shall be placed on wetlands that have a history of haying and grazing, as determined by the Secretary, except that in no case shall the quantity of the wetland subject to the easements exceed 50 percent of the existing forage lands on the parcel of inventoried property. All haying and grazingpractices on the wetlands (including the timing and intensity of haying and grazing) shall conform to forage management standards designed to protect wetlands.”
+Subsec. (g)(4). Pub. L. 104–127, §639(3), (5), redesignated par. (7) as (4), inserted heading, and struck out former par. (4) which read as follows: “The wetland conservation easements shall be placed on wetlands that have a history of haying and grazing, as determined by the Secretary, except that in no case shall the quantity of the wetland subject to the easements exceed 50 percent of the existing forage lands on the parcel of inventoried property. All haying and grazing practices on the wetlands (including the timing and intensity of haying and grazing) shall conform to forage management standards designed to protect wetlands.”
 
 Subsec. (g)(5). Pub. L. 104–127, §639(3), struck out par. (5) which read as follows: “If, despite the limitations contained in paragraph (3), wetland conservation easements established under paragraph (1) would prevent a particular parcel of inventoried property that is to be sold or leased to a borrower described in clause (i), (ii), or (iii) of subsection (e)(1)(C) of this section, or to a borrower who is a beginning farmer or rancher, from being a marketable agricultural production unit that is comparable to the parcel as acquired, the Secretary may—
 
@@ -434,7 +434,7 @@ Subsec. (g)(6), (7). Pub. L. 104–127, §639(4), (5), redesignated pars. (6) an
 
 Subsec. (g)(8). Pub. L. 104–127, §639(3), struck out par. (8) which read as follows: “Notwithstanding the limitations described under paragraphs (3) and (4), the limitations may be voluntarily, knowingly waived by any person with respect to real property described in paragraph (3) or (4).”
 
-1992—Subsec. (c)(1). Pub. L. 102–554, §16, in fourth sentence, inserted “(A)” after “shall be” and “or (B) leased to persons eligible for assistance under the provisions of any law administered by the Farmers Home Administration or the Rural Development Administration under an annual lease or a lease with an option to purchase, with a preference for sale” before period at end.
+<b>1992</b>—Subsec. (c)(1). Pub. L. 102–554, §16, in fourth sentence, inserted “(A)” after “shall be” and “or (B) leased to persons eligible for assistance under the provisions of any law administered by the Farmers Home Administration or the Rural Development Administration under an annual lease or a lease with an option to purchase, with a preference for sale” before period at end.
 
 Subsec. (e)(1)(A)(i). Pub. L. 102–552, which, in amending directory language of Pub. L. 102–237, §501(f)(1), directed the substitution of “the borrower-owner (as defined in subparagraph (F))” for “borrower-owner (as defined in subparagraph (F))”, was executed by making the substitution in text which did not contain a closing parenthesis after “(F)”, to reflect the probable intent of Congress. See 1991 Amendment note below.
 
@@ -442,11 +442,11 @@ Subsec. (e)(1)(D)(i). Pub. L. 102–554, §17(1), substituted “Except as provi
 
 Subsec. (e)(1)(G). Pub. L. 102–554, §17(2), added subpar. (G).
 
-1991—Subsec. (e)(1)(A)(i). Pub. L. 102–237, §501(f)(1), as amended by Pub. L. 102–552, substituted “the borrower-owner (as defined in subparagraph (F))” for “the borrower from whom the Secretary acquired real farm or ranch property (including the principal residence of the borrower) used to secure any loan made to the borrower under this chapter (hereinafter referred to in this paragraph as the ‘borrower-owner’)”. See 1992 Amendment note above.
+<b>1991</b>—Subsec. (e)(1)(A)(i). Pub. L. 102–237, §501(f)(1), as amended by Pub. L. 102–552, substituted “the borrower-owner (as defined in subparagraph (F))” for “the borrower from whom the Secretary acquired real farm or ranch property (including the principal residence of the borrower) used to secure any loan made to the borrower under this chapter (hereinafter referred to in this paragraph as the ‘borrower-owner’)”. See 1992 Amendment note above.
 
 Subsec. (e)(1)(F). Pub. L. 102–237, §501(f)(2), added subpar. (F).
 
-1990—Subsec. (a). Pub. L. 101–624, §§1813(a), 2303(c)(1), inserted “or the Rural Development Administration” after “Farmers Home Administration” and substituted “12 months from the date first published under paragraph (2)(D)” for “three years from the date of acquisition”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–624, §§1813(a), 2303(c)(1), inserted “or the Rural Development Administration” after “Farmers Home Administration” and substituted “12 months from the date first published under paragraph (2)(D)” for “three years from the date of acquisition”.
 
 Subsec. (c)(1). Pub. L. 101–624, §2303(c)(2), inserted “or the Rural Development Administration” after “Farmers Home Administration”.
 
@@ -478,7 +478,7 @@ Pub. L. 101–624, §1813(b)(2), substituted “shall randomly” for “shall, 
 
 Subsec. (g). Pub. L. 101–624, §1813(h)(1), added subsec. (g).
 
-1988—Subsec. (c). Pub. L. 100–233, §610(a), designated existing provisions as par. (1), inserted provisions requiring the County Committee to classify or reclassify real property that is farmland, as being suitable for farming operation for such disposition unless property cannot be used to meet any of the purposes of section 1923 of this title, and added par. (2).
+<b>1988</b>—Subsec. (c). Pub. L. 100–233, §610(a), designated existing provisions as par. (1), inserted provisions requiring the County Committee to classify or reclassify real property that is farmland, as being suitable for farming operation for such disposition unless property cannot be used to meet any of the purposes of section 1923 of this title, and added par. (2).
 
 Subsec. (e)(1). Pub. L. 100–233, §610(b)(1), added par. (1) and struck out former par. (1) which read as follows: “The Secretary shall to the extent practicable sell or lease farmland administered under this chapter in the following order of priority:
 
@@ -486,7 +486,7 @@ Subsec. (e)(1). Pub. L. 100–233, §610(b)(1), added par. (1) and struck out fo
 
 &emsp;“(B) Lease of such farmland to operators (as of the time immediately before such lease is entered into) of not larger than family-size farms.”
 
-Subsec. (e)(3). Pub. L. 100–233, §610(b)(2), redesignated subpars. (B) to (D) as (A) to (C), respectively, in subpar. (B) substituted “Secretary shall determine if the lessee” for “Secretary shall give special consideration to a previous owner or operator of such land if such owner or operator”, added subpar. (D), and struck out formersubpar. (A) which read as follows: “The Secretary shall consider granting, and may grant, to an operator of not larger than a family-size farm, in conjunction with paragraph (3), a lease with an option to purchase farmland administered under this chapter.”
+Subsec. (e)(3). Pub. L. 100–233, §610(b)(2), redesignated subpars. (B) to (D) as (A) to (C), respectively, in subpar. (B) substituted “Secretary shall determine if the lessee” for “Secretary shall give special consideration to a previous owner or operator of such land if such owner or operator”, added subpar. (D), and struck out former subpar. (A) which read as follows: “The Secretary shall consider granting, and may grant, to an operator of not larger than a family-size farm, in conjunction with paragraph (3), a lease with an option to purchase farmland administered under this chapter.”
 
 Subsec. (e)(5)(A). Pub. L. 100–233, §610(b)(3), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “If the Secretary determines that farmland administered under this chapter is not suitable for sale or lease to an operator of not larger than a family-size farm because such farmland is in a tract or tracts that the Secretary determines to be larger than that necessary for family-size farms, the Secretary shall subdivide such land into tracts suitable for such operator.”
 
@@ -500,7 +500,7 @@ Subsec. (f). Pub. L. 100–233, §611, amended subsec. (f) generally. Prior to a
 
 “(2) Until such time as the Secretary accelerates a loan made or insured under this chapter, the Secretary shall release from the normal income security provided for such loan an amount sufficient to pay the essential household and farm operating expenses of the borrower, as determined by the Secretary.”
 
-1985—Subsec. (b). Pub. L. 99–198, §1314(a)(1), substituted “Except as provided in subsection (e) of this section, real property” for “Real property”.
+<b>1985</b>—Subsec. (b). Pub. L. 99–198, §1314(a)(1), substituted “Except as provided in subsection (e) of this section, real property” for “Real property”.
 
 Subsec. (c). Pub. L. 99–198, §1314(a)(2), substituted “Except as provided in subsection (e) of this section, the Secretary” for “The Secretary” and inserted sentence at end providing that notwithstanding the preceding sentence, the Secretary may for conservation purposes grant or sell an easement, restriction, development rights, or the equivalent thereof, to a unit of local or State government or a private nonprofit organization separately from the underlying fee or sum of all other rights possessed by the United States.
 
@@ -510,7 +510,7 @@ Subsec. (e). Pub. L. 99–198, §1314(a)(3), added subsec. (e).
 
 Subsec. (f). Pub. L. 99–198, §1315, added subsec. (f).
 
-1972—Subsec. (c). Pub. L. 92–419 substituted “the provisions of any law administered by the Farmers Home Administration” for “subchapter I of this chapter” in first sentence and “such provisions” for “the provisions of subchapter I of this chapter” in second sentence, struck out from fourth sentence initial minimum 20 per centum downpayment requirement and provision for payment of remainder in not more than five annual installments, and provided in such fourth sentence for interest rates and terms not more favorable than legally permissible for eligible borrowers.
+<b>1972</b>—Subsec. (c). Pub. L. 92–419 substituted “the provisions of any law administered by the Farmers Home Administration” for “subchapter I of this chapter” in first sentence and “such provisions” for “the provisions of subchapter I of this chapter” in second sentence, struck out from fourth sentence initial minimum 20 per centum downpayment requirement and provision for payment of remainder in not more than five annual installments, and provided in such fourth sentence for interest rates and terms not more favorable than legally permissible for eligible borrowers.
 
 #### Effective Date of 2008 Amendment
 

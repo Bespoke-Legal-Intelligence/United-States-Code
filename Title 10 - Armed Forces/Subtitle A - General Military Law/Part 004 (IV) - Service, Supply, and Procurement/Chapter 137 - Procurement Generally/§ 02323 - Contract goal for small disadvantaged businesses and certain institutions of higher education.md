@@ -134,7 +134,7 @@ Industry Categories.—(1) To the maximum extent practicable, the head of the ag
 
 &emsp;(B) ensure that contracts awarded to attain the goal established by subsection (a) are made across the broadest possible range of industry categories.
 
-(2) Under procedures prescribed by the head of the agency, a person may request the Secretary to determine whether the use of small disadvantaged business set asides by a contracting activity of the agency has caused a particular industry category to bear a disproportionate share of the contracts awarded to attain the goal established for that contracting activity for the purposes of this section. Upon making a determination that a particular industry category is bearing a disproportionate share, the head of the agency shall take appropriate actions to limit the contracting activity's use of set asides in awarding contracts in that particular industry category.
+(2) Under procedures prescribed by the head of the agency, a person may request the Secretaryto determine whether the use of small disadvantaged business set asides by a contracting activity of the agency has caused a particular industry category to bear a disproportionate share of the contracts awarded to attain the goal established for that contracting activity for the purposes of this section. Upon making a determination that a particular industry category is bearing a disproportionate share, the head of the agency shall take appropriate actions to limit the contracting activity's use of set asides in awarding contracts in that particular industry category.
 
 (h)
 
@@ -166,7 +166,7 @@ Effective Date.—(1) This section applies in the Department of Defense to each 
 
 (2) This section applies in the Coast Guard and the National Aeronautics and Space Administration in each of fiscal years 1995 through 2009.
 
-(Added and amended Pub. L. 102–484, div. A, title VIII, §§801(a)(1), (b)–(f), 802, Oct. 23, 1992, 106 Stat. 2442–2444, 2446; Pub. L. 103–35, title II, §202(a)(6), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. A, title VIII, §811(a)–(c), (e), Nov. 30,1993, 107 Stat. 1702; Pub. L. 103–355, title VII, §7105, Oct. 13, 1994, 108 Stat. 3369; Pub. L. 104–106, div. D, title XLIII, §4321(b)(8), Feb. 10, 1996, 110 Stat. 672; Pub. L. 105–135, title VI, §604(a), Dec. 2, 1997, 111 Stat. 2632; Pub. L. 105–261, div. A, title VIII, §801, Oct. 17, 1998, 112 Stat. 2080; Pub. L. 106–65, div. A, title VIII, §808, Oct. 5, 1999, 113 Stat. 705; Pub. L. 107–107, div. A, title X, §1048(a)(17), Dec. 28, 2001, 115 Stat. 1223; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VIII, §816, Dec. 2, 2002, 116 Stat. 2610; Pub. L. 108–136, div. A, title X, §1031(a)(15), Nov. 24, 2003, 117 Stat. 1597; Pub. L. 109–163, div. A, title VIII, §842, Jan. 6, 2006, 119 Stat. 3389; Pub. L. 109–364, div. A, title VIII, §858, Oct. 17, 2006, 120 Stat. 2349; Pub. L. 110–181, div. A, title VIII, §891, Jan. 28, 2008, 122 Stat. 270; Pub. L. 111–383, div. A, title X, §1075(b)(31), Jan. 7, 2011, 124 Stat. 4370.)
+(Added and amended Pub. L. 102–484, div. A, title VIII, §§801(a)(1), (b)–(f), 802, Oct. 23, 1992, 106 Stat. 2442–2444, 2446; Pub. L. 103–35, title II, §202(a)(6), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. A, title VIII, §811(a)–(c), (e), Nov. 30, 1993, 107 Stat. 1702; Pub. L. 103–355, title VII, §7105, Oct. 13, 1994, 108 Stat. 3369; Pub. L. 104–106, div. D, title XLIII, §4321(b)(8), Feb. 10, 1996, 110 Stat. 672; Pub. L. 105–135, title VI, §604(a), Dec. 2, 1997, 111 Stat. 2632; Pub. L. 105–261, div. A, title VIII, §801, Oct. 17, 1998, 112 Stat. 2080; Pub. L. 106–65, div. A, title VIII, §808, Oct. 5, 1999, 113 Stat. 705; Pub. L. 107–107, div. A, title X, §1048(a)(17), Dec. 28, 2001, 115 Stat. 1223; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VIII, §816, Dec. 2, 2002, 116 Stat. 2610; Pub. L. 108–136, div. A, title X, §1031(a)(15), Nov. 24, 2003, 117 Stat. 1597; Pub. L. 109–163, div. A, title VIII, §842, Jan. 6, 2006, 119 Stat. 3389; Pub. L. 109–364, div. A, title VIII, §858, Oct. 17, 2006, 120 Stat. 2349; Pub. L. 110–181, div. A, title VIII, §891, Jan. 28, 2008, 122 Stat. 270; Pub. L. 111–383, div. A, title X, §1075(b)(31), Jan. 7, 2011, 124 Stat. 4370.)
 
 #### References in Text
 
@@ -240,7 +240,7 @@ Subsec. (f)(2). Pub. L. 103–160, §811(c), amended par. (2) generally. Prior t
 
 &emsp;“(B) A prohibition on the award of a contract under this section to an entity described in subsection (a)(1) unless the entity agrees to comply with the requirements of section 15(<i>o</i>)(1) of the Small Business Act (15 U.S.C. 644(<i>o</i>)(1)).”
 
-Subsec. (i). Pub. L. 103–35 amended and made technical amendment to directory language of Pub. L.102–484, §801(f). See 1992 Amendment note for subsec. (h) below.
+Subsec. (i). Pub. L. 103–35 amended and made technical amendment to directory language of Pub. L. 102–484, §801(f). See 1992 Amendment note for subsec. (h) below.
 
 Subsec. (i)(3)(D). Pub. L. 103–160, §811(e), added subpar. (D).
 

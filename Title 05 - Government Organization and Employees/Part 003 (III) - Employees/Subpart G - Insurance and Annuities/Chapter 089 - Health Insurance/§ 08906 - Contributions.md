@@ -72,7 +72,7 @@
 
 (i) An annuitant whose annuity is insufficient to cover the withholdings required for enrollment in a particular health benefits plan may enroll (or remain enrolled) in such plan, notwithstanding any other provision of this section, if the annuitant elects, under conditions prescribed by regulations of the Office, to pay currently into the Employees Health Benefits Fund, through the retirement system that administers the annuitant's health benefits enrollment, an amount equal to the withholdings that would otherwise be required under this section.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 604; Pub. L. 90–83, §1(96), Sept. 11, 1967, 81 Stat. 219; Pub. L. 91–418, §1(a), Sept. 25, 1970, 84 Stat. 869; Pub. L. 93–246, §1, Jan. 31, 1974, 88 Stat. 3; Pub. L. 94–310, §3(a), June 15, 1976, 90 Stat. 687; Pub. L. 95–437, §4(c)(2)(A), Oct. 10, 1978, 92 Stat. 1059; Pub. L. 95–454, title IX, §906(a)(15), (c)(2)(F), Oct. 13, 1978, 92 Stat. 1226, 1227; Pub. L. 96–54, §2(a)(53), Aug. 14, 1979, 93 Stat. 384; Pub. L. 99–272, title XV, §15202(b), Apr. 7, 1986, 100 Stat. 334; Pub. L. 101–239, title IV, §4003(a), Dec. 19, 1989, 103 Stat. 2135; Pub. L. 101–303, §1(a), (b), May 29, 1990, 104 Stat. 250; Pub. L. 101–508, title VII, §7102(a), (b), Nov. 5, 1990, 104 Stat. 1388–333; Pub. L. 102–378, §2(78), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 104–186, title II, §215(19), Aug. 20, 1996, 110 Stat. 1747; Pub. L. 104–208, div. A, title I, §101(f) \[title IV, §422\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–343; Pub. L. 105–33, title VII, §7002(a), Aug. 5, 1997, 111 Stat. 662; Pub. L. 105–261, div. A, title VII, §721(b)(2),\(3), Oct. 17, 1998, 112 Stat. 2065; Pub. L. 107–107, div. A, title V, §519(a), (b), Dec. 28, 2001, 115 Stat. 1096; Pub. L. 108–375, div. A, title XI, §1101(b), Oct. 28, 2004, 118 Stat. 2072; Pub. L. 109–435, title VIII, §803(a)(1)(A), Dec. 20, 2006, 120 Stat. 3251.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 604; Pub. L. 90–83, §1(96), Sept. 11, 1967, 81 Stat. 219; Pub. L. 91–418, §1(a), Sept. 25, 1970, 84 Stat. 869; Pub. L. 93–246, §1, Jan. 31, 1974, 88 Stat. 3; Pub. L. 94–310, §3(a), June 15, 1976, 90 Stat. 687; Pub. L. 95–437, §4(c)(2)(A), Oct. 10, 1978, 92 Stat. 1059; Pub. L. 95–454, title IX, §906(a)(15), (c)(2)(F), Oct. 13, 1978, 92 Stat. 1226, 1227; Pub. L. 96–54, §2(a)(53), Aug. 14, 1979, 93 Stat. 384; Pub. L. 99–272, title XV, §15202(b), Apr. 7, 1986, 100 Stat. 334; Pub. L. 101–239, title IV, §4003(a), Dec. 19, 1989, 103 Stat. 2135; Pub. L. 101–303, §1(a), (b), May 29, 1990, 104 Stat. 250; Pub. L. 101–508, title VII, §7102(a), (b),Nov. 5, 1990, 104 Stat. 1388–333; Pub. L. 102–378, §2(78), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 104–186, title II, §215(19), Aug. 20, 1996, 110 Stat. 1747; Pub. L. 104–208, div. A, title I, §101(f) \[title IV, §422\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–343; Pub. L. 105–33, title VII, §7002(a), Aug. 5, 1997, 111 Stat. 662; Pub. L. 105–261, div. A, title VII, §721(b)(2), (3), Oct. 17, 1998, 112 Stat. 2065; Pub. L. 107–107, div. A, title V, §519(a), (b), Dec. 28, 2001, 115 Stat. 1096; Pub. L. 108–375, div. A, title XI, §1101(b), Oct. 28, 2004, 118 Stat. 2072; Pub. L. 109–435, title VIII, §803(a)(1)(A), Dec. 20, 2006, 120 Stat. 3251.)
 
 Historical and Revision Notes<br>1966
 
@@ -130,15 +130,15 @@ In subsection (e)(2), the words “as defined by section 8901 of this title” a
 
 #### Amendments
 
-2006—Subsec. (g)(2)(A). Pub. L. 109–435 substituted “shall through September 30, 2016, be paid by the United States Postal Service, and thereafter shall be paid first from the Postal Service Retiree Health Benefits Fund up to the amount contained in the Fund, with any remaining amount paid by the United States Postal Service” for “shall be paid by the United States Postal Service”.
+<b>2006</b>—Subsec. (g)(2)(A). Pub. L. 109–435 substituted “shall through September 30, 2016, be paid by the United States Postal Service, and thereafter shall be paid first from the Postal Service Retiree Health Benefits Fund up to the amount contained in the Fund, with any remaining amount paid by the United States Postal Service” for “shall be paid by the United States Postal Service”.
 
-2004—Subsec. (e)(3)(C). Pub. L. 108–375 substituted “24 months” for “18 months”.
+<b>2004</b>—Subsec. (e)(3)(C). Pub. L. 108–375 substituted “24 months” for “18 months”.
 
-2001—Subsec. (e)(3). Pub. L. 107–107, §519(a), added par. (3).
+<b>2001</b>—Subsec. (e)(3). Pub. L. 107–107, §519(a), added par. (3).
 
 Subsec. (f). Pub. L. 107–107, §519(b), amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “The Government contributions for health benefits for an employee shall be paid—”.
 
-1998—Subsec. (b)(1). Pub. L. 105–261, §721(b)(2)(A), substituted “paragraphs (2), (3), and (4)” for “paragraphs (2) and (3)”.
+<b>1998</b>—Subsec. (b)(1). Pub. L. 105–261, §721(b)(2)(A), substituted “paragraphs (2), (3), and (4)” for “paragraphs (2) and (3)”.
 
 Subsec. (b)(4). Pub. L. 105–261, §721(b)(2)(B), added par. (4).
 
@@ -146,7 +146,7 @@ Subsec. (g)(1). Pub. L. 105–261, §721(b)(3)(A), substituted “paragraphs (2)
 
 Subsec. (g)(3). Pub. L. 105–261, §721(b)(3)(B), added par. (3).
 
-1997—Subsec. (a). Pub. L. 105–33 added subsec. (a) and struck out former subsec. (a) which read as follows: “The Office of Personnel Management shall determine the average of the subscription charges in effect on the beginning date of each contract year with respect to self alone or self and family enrollments under this chapter, as applicable, for the highest level of benefits offered by—
+<b>1997</b>—Subsec. (a). Pub. L. 105–33 added subsec. (a) and struck out former subsec. (a) which read as follows: “The Office of Personnel Management shall determine the average of the subscription charges in effect on the beginning date of each contract year with respect to self alone or self and family enrollments under this chapter, as applicable, for the highest level of benefits offered by—
 
 &emsp;“(1) the service benefit plan;
 
@@ -158,15 +158,15 @@ Subsec. (g)(3). Pub. L. 105–261, §721(b)(3)(B), added par. (3).
 
 Subsec. (b)(1). Pub. L. 105–33 added par. (1) and struck out former par. (1) which read as follows: “Except as provided by paragraphs (2) and (3) of this subsection, the biweekly Government contribution for health benefits for an employee or annuitant enrolled in a health benefits plan under this chapter is adjusted to an amount equal to 60 percent of the average subscription charge determined under subsection (a) of this section. For an employee, the adjustment begins on the first day of the employee's first pay period of each year. For an annuitant, the adjustment begins on the first day of the first period of each year for which an annuity payment is made.”
 
-1996—Subsec. (e)(1). Pub. L. 104–208 struck out at end “The regulations may provide for the waiving of contributions by the employee and the Government.”, inserted subpar. (A) designation, and added subpars. (B) and (C).
+<b>1996</b>—Subsec. (e)(1). Pub. L. 104–208 struck out at end “The regulations may provide for the waiving of contributions by the employee and the Government.”, inserted subpar. (A) designation, and added subpars. (B) and (C).
 
 Subsec. (f)(3). Pub. L. 104–186 substituted “Chief Administrative Officer of the House of Representatives, from the applicable accounts of the House of Representatives” for “Clerk of the House of Representatives, from the contingent fund of the House”.
 
-1992—Subsec. (b)(3). Pub. L. 102–378, §2(78)(A), inserted period after “Office)”.
+<b>1992</b>—Subsec. (b)(3). Pub. L. 102–378, §2(78)(A), inserted period after “Office)”.
 
 Subsec. (c). Pub. L. 102–378, §2(78)(B), substituted “and (except” for “and except”.
 
-1990—Subsec. (c). Pub. L. 101–303, §1(b)(1), inserted “except as provided in subsection (i) of this section)” after “enrolled employee and”.
+<b>1990</b>—Subsec. (c). Pub. L. 101–303, §1(b)(1), inserted “except as provided in subsection (i) of this section)” after “enrolled employee and”.
 
 Subsec. (d). Pub. L. 101–303, §1(b)(2), inserted “(except as provided in subsection (i) of this section)” after “enrolled employee and”.
 
@@ -174,13 +174,13 @@ Subsec. (g)(2). Pub. L. 101–508 designated existing provisions as subpar. (A),
 
 Subsec. (i). Pub. L. 101–303, §1(a), added subsec. (i).
 
-1989—Subsec. (g)(2). Pub. L. 101–239 inserted “or for a survivor of such an individual or of an individual who died on or after October 1, 1986, while employed by the United States Postal Service,” after “1986,”.
+<b>1989</b>—Subsec. (g)(2). Pub. L. 101–239 inserted “or for a survivor of such an individual or of an individual who died on or after October 1, 1986, while employed by the United States Postal Service,” after “1986,”.
 
-1986—Subsec. (g). Pub. L. 99–272 designated existing provisions as par. (1) and added par. (2).
+<b>1986</b>—Subsec. (g). Pub. L. 99–272 designated existing provisions as par. (1) and added par. (2).
 
-1979—Subsec. (b)(1). Pub. L. 96–54 substituted provisions setting forth adjustment amount of the Government contribution of equal to 60 percent of the average subscription charge under subsec. (a) and determinations respecting the commencement date of the adjustment, for provisions setting forth adjustment amounts of the Government contribution of equal to 50 percent of the average subscription charge under subsec. (a) for applicable pay periods beginning in 1974, and equal to 60 percent for pay periods beginning in 1975 and after, and determinations respecting the commencement date of the adjustment.
+<b>1979</b>—Subsec. (b)(1). Pub. L. 96–54 substituted provisions setting forth adjustment amount of the Government contribution of equal to 60 percent of the average subscription charge under subsec. (a) and determinations respecting the commencement date of the adjustment, for provisions setting forth adjustment amounts of the Government contribution of equal to 50 percent of the average subscription charge under subsec. (a) for applicable pay periods beginning in 1974, and equal to 60 percent for pay periods beginning in 1975 and after, and determinations respecting the commencement date of the adjustment.
 
-1978—Subsec. (a). Pub. L. 95–454, §906(a)(15), substituted “Office of Personnel Management” for “Commission” in introductory material, and “Office” for “Commission” in cls. (3) and (4).
+<b>1978</b>—Subsec. (a). Pub. L. 95–454, §906(a)(15), substituted “Office of Personnel Management” for “Commission” in introductory material, and “Office” for “Commission” in cls. (3) and (4).
 
 Subsec. (b)(1). Pub. L. 95–437, §4(c)(2)(A)(i), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
 
@@ -190,9 +190,9 @@ Pub. L. 95–437, §4(c)(2)(A)(ii), added par. (3).
 
 Subsecs. (e)(1), (h). Pub. L. 95–454, §906(a)(15), substituted “Office” for “Commission”.
 
-1976—Subsec. (g). Pub. L. 94–310 provided for payment of Government contributions from annual appropriations which may be made available until expended.
+<b>1976</b>—Subsec. (g). Pub. L. 94–310 provided for payment of Government contributions from annual appropriations which may be made available until expended.
 
-1974—Subsec. (a). Pub. L. 93–246, §1(a), struck out introductory text “Except as provided by subsection (b) of this section, the biweekly Government contribution for health benefits for employees or annuitants enrolled in health benefits plans under this chapter shall be adjusted”, now incorporated in subsec. (b)(1) of this section, required Commission determination of average of subscription charges, and reenacted remainder of existing provisions, substituting “beginning date of each contract year” for “beginning date of the adjustment”.
+<b>1974</b>—Subsec. (a). Pub. L. 93–246, §1(a), struck out introductory text “Except as provided by subsection (b) of this section, the biweekly Government contribution for health benefits for employees or annuitants enrolled in health benefits plans under this chapter shall be adjusted”, now incorporated in subsec. (b)(1) of this section, required Commission determination of average of subscription charges, and reenacted remainder of existing provisions, substituting “beginning date of each contract year” for “beginning date of the adjustment”.
 
 Subsec. (b)(1). Pub. L. 93–246, §1(a), incorporated introductory text of former subsec. (a) reading “Except as provided by subsection (b) of this section, the biweekly Government contribution for health benefits for employees or annuitants enrolled in health benefits plans under this chapter shall be adjusted”, as initial text of provisions designated as subsec. (b)(1), substituted provision for amount of biweekly Government contribution equal to 50 percent of average subscription charge for applicable pay periods commencing in 1974 and 60 percent for applicable pay periods commencing in 1975, and annually thereafter, for former subsec. (a) provision for an amount equal to 40 percent of average of subscription charges and former subsec. (b) provision for 50 percent of subscription charge where the biweekly subscription charge was less than twice the Government contribution.
 
@@ -202,7 +202,7 @@ Subsec. (c). Pub. L. 93–246, §1(b), struck out reference to subsec. (a).
 
 Subsec. (g). Pub. L. 93–246, §1(c), substituted “by this section” for “by subsection (a) of this section”.
 
-1970—Subsec. (a). Pub. L. 91–418, in increasing the Government contribution to the cost of health benefits insurance, substituted provision for adjustment of such contribution, beginning on the first day of the first pay period of each year, to an amount equal to 40 percent of the adjustment, with respect to self alone or self and family enrollments, as applicable, for the highest level of benefits offered by the service benefit plan, the indemnity benefit plan, the two employee organization plans, and the two comprehensive medical plans, for prior provision for a contribution, in addition to requirement of subsec. (c) of this section, of $1.62 if the enrollment is for self or $3.94 if the enrollment is for self and family.
+<b>1970</b>—Subsec. (a). Pub. L. 91–418, in increasing the Government contribution to the cost of health benefits insurance, substituted provision for adjustment of such contribution, beginning on the first day of the first pay period of each year, to an amount equal to 40 percent of the adjustment, with respect to self alone or self and family enrollments, as applicable, for the highest level of benefits offered by the service benefit plan, the indemnity benefit plan, the two employee organization plans, and the two comprehensive medical plans, for prior provision for a contribution, in addition to requirement of subsec. (c) of this section, of $1.62 if the enrollment is for self or $3.94 if the enrollment is for self and family.
 
 #### Effective Date of 2006 Amendment
 
@@ -264,7 +264,7 @@ Pub. L. 103–66, title XI, §11101(b), Aug. 10, 1993, 107 Stat. 413, provided t
 
 #### Computation of Government Contributions to Federal Employees Health Benefits Program for 1990 Through 1993
 
-Pub. L. 101–76, Aug. 11, 1989, 103 Stat. 556, as amended by Pub. L. 101–508, title VII, §7002(e), Nov. 5, 1990, 104Stat. 1388–330; Pub. L. 103–66, title XI, §11005, Aug. 10, 1993, 107 Stat. 412, provided: “That (a)(1) in the administration of chapter 89 of title 5, United States Code, for each of contract years 1990 through 1998 (inclusive), in order to compute the average subscription charges under section 8906(a) of such title for such contract years, the subscription charges in effect for the indemnity benefit plan on the beginning date of each such contract year—
+Pub. L. 101–76, Aug. 11, 1989, 103 Stat. 556, as amended by Pub. L. 101–508, title VII, §7002(e), Nov. 5, 1990, 104 Stat. 1388–330; Pub. L. 103–66, title XI, §11005, Aug. 10, 1993, 107 Stat. 412, provided: “That (a)(1) in the administration of chapter 89 of title 5, United States Code, for each of contract years 1990 through 1998 (inclusive), in order to compute the average subscription charges under section 8906(a) of such title for such contract years, the subscription charges in effect for the indemnity benefit plan on the beginning date of each such contract year—
 
 &emsp;“(A) shall be deemed to be the subscription charges which were in effect for such plan on the beginning date of the preceding contract year as adjusted under paragraph (2); or
 

@@ -63,7 +63,7 @@
 
 tv–vnm
 
-�0A
+&nbsp;×&nbsp;
 
 100&nbsp;&nbsp;
 
@@ -98,7 +98,7 @@ tv
 
 nc–vnm
 
-�0A
+&nbsp;×&nbsp;
 
 100&nbsp;&nbsp;
 
@@ -122,7 +122,7 @@ nc
 
 #### (5) Net cost method must be used in certain cases
 
-&emsp;An exporter or producer shall calculate the regional value-content of a good solely on the basis of the net cost method described in paragraph (3), if—
+&emsp;An exporter or producer shall calculate the regional value-content of a good solely on thebasis of the net cost method described in paragraph (3), if—
 
 &emsp;&emsp;(A) there is no transaction value for the good;
 
@@ -268,7 +268,7 @@ nc
 
 &emsp;&emsp;&emsp;(ii) a good provided for in heading 8407 or 8408, or subheading 8708.40, that is for use in a motor vehicle identified in clause (i); and
 
-&emsp;&emsp;(B) for a producer's fiscal year beginning on the day closest to January 1, 1998, andthereafter, 55 percent calculated under the net cost method, and for a producer's fiscal year beginning on the day closest to January 1, 2002, and thereafter, 60 percent calculated under the net cost method, for—
+&emsp;&emsp;(B) for a producer's fiscal year beginning on the day closest to January 1, 1998, and thereafter, 55 percent calculated under the net cost method, and for a producer's fiscal year beginning on the day closest to January 1, 2002, and thereafter, 60 percent calculated under the net cost method, for—
 
 &emsp;&emsp;&emsp;(i) a good that is a motor vehicle provided for in heading 8701, subheading 8704.10, 8704.22, 8704.23, 8704.32, or 8704.90, or heading 8705 or 8706, or a motor vehicle for the transport of 16 or more persons provided for in subheading 8702.10.00 or 8702.90.00;
 
@@ -318,7 +318,7 @@ nc
 
 &emsp;Except as provided in paragraphs (3), (4), (5), and (6), a good shall be considered to be an originating good if—
 
-&emsp;&emsp;(A) the value of all nonoriginating materials used in the production of the good that do not undergo an applicable change in tariff classification (set out in Annex 401 of the Agreement) is not more than 7 percent of the transaction value of the good, adjusted to a F.O.B. basis, or
+&emsp;&emsp;(A) the value of all nonoriginating materials used in the production of the good thatdo not undergo an applicable change in tariff classification (set out in Annex 401 of the Agreement) is not more than 7 percent of the transaction value of the good, adjusted to a F.O.B. basis, or
 
 &emsp;&emsp;(B) where the transaction value of the good is unacceptable under Article 1 of the Customs Valuation Code, the value of all such nonoriginating materials is not more than 7 percent of the total cost of the good,
 
@@ -396,7 +396,7 @@ nc
 
 #### (6) Goods provided for in chapters 50 through 63 of the HTS
 
-&emsp;A good provided for in chapters 50 through 63 of the HTS, that does not originate because certain fibers or yarns used in the production of the component of the good that determinesthe tariff classification of the good do not undergo an applicable change in tariff classification set out in Annex 401 of the Agreement, shall be considered to be a good that originates if the total weight of all such fibers or yarns in that component is not more than 7 percent of the total weight of that component.
+&emsp;A good provided for in chapters 50 through 63 of the HTS, that does not originate because certain fibers or yarns used in the production of the component of the good that determines the tariff classification of the good do not undergo an applicable change in tariff classification set out in Annex 401 of the Agreement, shall be considered to be a good that originates if the total weight of all such fibers or yarns in that component is not more than 7 percent of the total weight of that component.
 
 #### (f) Fungible goods and materials
 

@@ -42,7 +42,7 @@ This section amends various sections \[§§3305, 3309, 3318\] of title 5, United
 
 #### Amendments
 
-1979—Subsec. (a). Pub. L. 96–54, §2(a)(14), substituted “Office of Personnel Management” for “Civil Service Commission”.
+<b>1979</b>—Subsec. (a). Pub. L. 96–54, §2(a)(14), substituted “Office of Personnel Management” for “Civil Service Commission”.
 
 Subsec. (b). Pub. L. 96–54, §2(a)(15), substituted “Office” for “Commission”.
 

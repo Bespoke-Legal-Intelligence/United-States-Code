@@ -226,7 +226,7 @@ Nothing in this chapter shall be construed to authorize the withholding of infor
 
 #### Amendments
 
-1993—Subsec. (b)(1)(A), (2)(B). Pub. L. 103–194, §4(a)(1), (2), substituted “3” for “7”.
+<b>1993</b>—Subsec. (b)(1)(A), (2)(B). Pub. L. 103–194, §4(a)(1), (2), substituted “3” for “7”.
 
 Subsec. (b)(2)(F). Pub. L. 103–194, §4(a)(3), inserted at end “The Secretary shall terminate the initial Board established under this subsection as soon as practicable after December 14, 1993.”
 
@@ -242,5 +242,5 @@ Subsec. (b)(4)(C). Pub. L. 103–194, §4(b)(4), substituted “3” for “4”
 
 Subsec. (d)(5). Pub. L. 103–194, §4(c), substituted “200,000” for “35,000”, wherever appearing.
 
-1991—Subsec. (e)(1)(B). Pub. L. 102–237 substituted “Government employees” for “government employees”.
+<b>1991</b>—Subsec. (e)(1)(B). Pub. L. 102–237 substituted “Government employees” for “government employees”.
 

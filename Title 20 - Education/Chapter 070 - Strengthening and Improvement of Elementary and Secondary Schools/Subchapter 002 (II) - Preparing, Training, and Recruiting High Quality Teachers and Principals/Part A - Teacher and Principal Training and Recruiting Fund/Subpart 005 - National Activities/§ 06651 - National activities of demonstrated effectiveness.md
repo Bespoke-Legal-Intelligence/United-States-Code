@@ -76,7 +76,7 @@ The Secretary is authorized to award a grant to the University of Northern Color
 
 &emsp;&emsp;&emsp;(II) another public or private entity that provides such professional development;
 
-&emsp;&emsp;&emsp;(ii) one or more public agencies ( <sup>1</sup> including local educational agencies, State educational agencies, State human services agencies, and State and local agencies administering programs under the Child Care and Development BlockGrant Act of 1990 (42 U.S.C. 9858 et seq.), Head Start agencies, or private organizations; and
+&emsp;&emsp;&emsp;(ii) one or more public agencies ( <sup>1</sup> including local educational agencies, State educational agencies, State human services agencies, and State and local agencies administering programs under the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9858 et seq.), Head Start agencies, or private organizations; and
 
 &emsp;&emsp;&emsp;(iii) to the extent feasible, an entity with demonstrated experience in providing training to educators in early childhood education programs concerning identifying and preventing behavior problems or working with children identified as or suspected to be victims of abuse.
 
@@ -124,7 +124,7 @@ The Secretary is authorized to award a grant to the University of Northern Color
 
 &emsp;&emsp;&emsp;(v) a description of—
 
-&emsp;&emsp;&emsp;&emsp;(I) the specific objectives that the partnership will seek to attain through the project, and the methods that the partnership will use to measure progress toward attainment of those objectives; and
+&emsp;&emsp;&emsp;&emsp;(I) the specific objectives that the partnership will seek to attain throughthe project, and the methods that the partnership will use to measure progress toward attainment of those objectives; and
 
 &emsp;&emsp;&emsp;&emsp;(II) how the objectives and the measurement methods align with the achievement indicators established by the Secretary under paragraph (6)(A);
 
@@ -294,7 +294,7 @@ The Secretary is authorized to award a grant to the University of Northern Color
 
 #### (A) Travel expenses
 
-&emsp;&emsp;The members of the panel shall not receive compensation for the performance of services for the panel, but shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, while away from their homes or regular places of business in the performance of services for the panel. Notwithstanding section 1342 of title 31, the Secretary may accept the voluntary and uncompensated services of members of the panel.
+&emsp;&emsp;The members of the panel shall not receive compensation for the performance of services for the panel, but shall be allowed travelexpenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, while away from their homes or regular places of business in the performance of services for the panel. Notwithstanding section 1342 of title 31, the Secretary may accept the voluntary and uncompensated services of members of the panel.
 
 #### (B) Detail of Government employees
 

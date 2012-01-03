@@ -28,13 +28,13 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (b). Pub. L. 110–246, §7511(c)(10)(A), substituted “National Institute of Food and Agriculture” for “Cooperative State Research, Education, and Extension Service”.
+<b>2008</b>—Subsec. (b). Pub. L. 110–246, §7511(c)(10)(A), substituted “National Institute of Food and Agriculture” for “Cooperative State Research, Education, and Extension Service”.
 
 Subsec. (d). Pub. L. 110–246, §7115, substituted “2012” for “2007”.
 
-2002—Subsec. (d). Pub. L. 107–171 substituted “2007” for “2002”.
+<b>2002</b>—Subsec. (d). Pub. L. 107–171 substituted “2007” for “2002”.
 
-1998—Subsec. (d). Pub. L. 105–185 substituted “each of fiscal years 1997 through 2002” for “fiscal year 1997”.
+<b>1998</b>—Subsec. (d). Pub. L. 105–185 substituted “each of fiscal years 1997 through 2002” for “fiscal year 1997”.
 
 #### Effective Date of 2008 Amendment
 

@@ -18,7 +18,7 @@ The approximately 410,000 acres of land added to the Craters of the Moon Nationa
 
 #### (2) Hunting
 
-&emsp;The Secretary of the Interior shall permit hunting on lands within the Craters of the Moon National Preserve in accordance with the applicable laws of the United States and the State of Idaho. The Secretary, in consultation with the State of Idaho, may designate zones where, and establish periods when, no hunting may be permitted for reasons of public safety, protection of the area's resources, administration, or public use and enjoyment. Except in emergencies, any regulations prescribing such restrictions relating to hunting shall be put into effect only after consultation with the State of Idaho.
+&emsp;The Secretary of the Interior shall permit hunting on lands within the Craters of the Moon National Preserve in accordance with the applicable laws of the United States and the State of Idaho. The Secretary, in consultation with the State of Idaho, may designate zones where, and establish periods when, nohunting may be permitted for reasons of public safety, protection of the area's resources, administration, or public use and enjoyment. Except in emergencies, any regulations prescribing such restrictions relating to hunting shall be put into effect only after consultation with the State of Idaho.
 
 (Pub. L. 107–213, §1, Aug. 21, 2002, 116 Stat. 1052.)
 

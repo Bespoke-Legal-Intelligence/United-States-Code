@@ -620,17 +620,17 @@ September 30, 1996, referred to in the concluding provisions of subsec. (a)(43),
 
 #### Amendments
 
-2010—Subsec. (a)(15)(F)(i). Pub. L. 111–306, §1(a)(1), substituted “an accredited language” for “a language”.
+<b>2010</b>—Subsec. (a)(15)(F)(i). Pub. L. 111–306, §1(a)(1), substituted “an accredited language” for “a language”.
 
 Subsec. (a)(52). Pub. L. 111–306, §1(a)(2), added par. (52).
 
 Subsec. (b)(1)(G). Pub. L. 111–287 amended subpar. (G) generally. Prior to amendment, subpar. (G) provided that the term “child” includes a child who is migrating from certain foreign states to the United States to be adopted if the Attorney General is satisfied that certain criteria are met.
 
-2009—Subsec. (a)(27)(C)(ii)(II), (III). Pub. L. 111–83 substituted “September 30, 2012,” for “September 30, 2009,”.
+<b>2009</b>—Subsec. (a)(27)(C)(ii)(II), (III). Pub. L. 111–83 substituted “September 30, 2012,” for “September 30, 2009,”.
 
 Pub. L. 111–9 substituted “September 30, 2009,” for “March 6, 2009,”.
 
-2008—Subsec. (a)(15)(D)(ii). Pub. L. 110–229, §702(j)(1), inserted “or the Commonwealth of the Northern Mariana Islands” after “Guam” in two places.
+<b>2008</b>—Subsec. (a)(15)(D)(ii). Pub. L. 110–229, §702(j)(1), inserted “or the Commonwealth of the Northern Mariana Islands” after “Guam” in two places.
 
 Subsec. (a)(15)(T)(i). Pub. L. 110–457, §201(a)(1)(A), substituted “Security, in consultation with the Attorney General,” for “Security and the Attorney General jointly;” in introductory provisions.
 
@@ -656,7 +656,7 @@ Subsec. (a)(27)(J)(iii)(I). Pub. L. 110–457, §235(d)(1)(B)(ii), substituted �
 
 Subsec. (a)(36), (38). Pub. L. 110–229, §702(j)(2), (3), substituted “the Virgin Islands of the United States, and the Commonwealth of the Northern Mariana Islands” for “and the Virgin Islands of the United States”.
 
-2006—Subsec. (a)(15)(K)(i), (ii). Pub. L. 109–248, which directed insertion of “(other than a citizen described in section 1154(a)(1)(A)(viii)(I) of this title)” after “citizen of the United States” each place appearing in section 101(a)(15)(K), without specifying the Act to be amended, was executed to subsec. (a)(15)(K) of this section, which is section 101 of the Immigration and Nationality Act, to reflect the probable intent of Congress.
+<b>2006</b>—Subsec. (a)(15)(K)(i), (ii). Pub. L. 109–248, which directed insertion of “(other than a citizen described in section 1154(a)(1)(A)(viii)(I) of this title)” after “citizen of the United States” each place appearing in section 101(a)(15)(K), without specifying the Act to be amended, was executed to subsec. (a)(15)(K) of this section, which is section 101 of the Immigration and Nationality Act, to reflect the probable intent of Congress.
 
 Subsec. (a)(15)(T)(i). Pub. L. 109–162, §801(a)(1)(A), substituted “Secretary of Homeland Security, or in the case of subclause (III)(aa) the Secretary of Homeland Security and the Attorney General jointly;” for “Attorney General”.
 
@@ -690,17 +690,17 @@ Subsec. (i)(1). Pub. L. 109–162, §801(c)(1), substituted “Secretary of Home
 
 Subsec. (i)(2). Pub. L. 109–162, §801(c)(2), substituted “Secretary of Homeland Security” for “Attorney General”.
 
-2005—Subsec. (a)(15)(E)(iii). Pub. L. 109–13 added cl. (iii).
+<b>2005</b>—Subsec. (a)(15)(E)(iii). Pub. L. 109–13 added cl. (iii).
 
 Subsec. (a)(15)(H)(ii)(a). Pub. L. 109–90 substituted “, agriculture as defined in section 203(f) of title 29, and the pressing of apples for cider on a farm,” for “and agriculture as defined in section 203(f) of title 29,” and made technical amendment to reference in original act which appears in text as reference to section 3121(g) of title 26.
 
-2004—Subsec. (a)(15)(Q). Pub. L. 108–449, §1(b)(1), substituted “Secretary of Homeland Security” for “Attorney General” in two places, “citizen of the United Kingdom or the Republic of Ireland, 21 to 35 years of age, unemployed for not less than 12 months, and having a residence for not less than 18 months” for “35 years of age or younger having a residence”, and “24 months)” for “36 months)”.
+<b>2004</b>—Subsec. (a)(15)(Q). Pub. L. 108–449, §1(b)(1), substituted “Secretary of Homeland Security” for “Attorney General” in two places, “citizen of the United Kingdom or the Republic of Ireland, 21 to 35 years of age, unemployed for not less than 12 months, and having a residence for not less than 18 months” for “35 years of age or younger having a residence”, and “24 months)” for “36 months)”.
 
 Pub. L. 108–449, §1(a)(2)(B), amended Pub. L. 105–319, §2(d)(2). See 1998 Amendment note below.
 
 Subsec. (f)(9). Pub. L. 108–458 added par. (9).
 
-2003—Subsec. (a)(15)(H)(i). Pub. L. 108–77, §§107(c), 402(a)(1), temporarily substituted “1182(n)(1) of this title, or (b1) who is entitled to enter the United States under and in pursuance of the provisions of an agreement listed in section 1184(g)(8)(A) of this title, who is engaged in a specialty occupation described in section 1184(i)(3) of this title, and with respect to whom the Secretary of Labor determines and certifies to the Secretary of Homeland Security and the Secretary of State that the intending employer has filed with the Secretary of Labor an attestation under section 1182(t)(1) of this title, or (c)” for “1182(n)(1) of this title, or (c)”. See Effective and Termination Dates of 2003 Amendment note below.
+<b>2003</b>—Subsec. (a)(15)(H)(i). Pub. L. 108–77, §§107(c), 402(a)(1), temporarily substituted “1182(n)(1) of this title, or (b1) who is entitled to enter the United States under and in pursuance of the provisions of an agreement listed in section 1184(g)(8)(A) of this title, who is engaged in a specialty occupation described in section 1184(i)(3) of this title, and with respect to whom the Secretary of Labor determines and certifies to the Secretary of Homeland Security and the Secretary of State that the intending employer has filed with the Secretary of Labor an attestation under section 1182(t)(1) of this title, or (c)” for “1182(n)(1) of this title, or (c)”. See Effective and Termination Dates of 2003 Amendment note below.
 
 Subsec. (a)(15)(T). Pub. L. 108–193, §8(a)(1)(A), (B), substituted “1184(<i>o</i>) of this title,” for “1184(n) of this title,” and realigned margins.
 
@@ -716,13 +716,13 @@ Subsec. (a)(27)(C)(ii)(II), (III). Pub. L. 108–99 substituted “2008,” for 
 
 Subsec. (a)(43)(K)(iii). Pub. L. 108–193, §4(b)(5), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “is described in section 1581, 1582, 1583, 1584, 1585, or 1588 of title 18 (relating to peonage, slavery, and involuntary servitude);”.
 
-2002—Subsec. (a)(15)(F)(ii), (iii). Pub. L. 107–274, §2(a), added cls. (ii) and (iii) and struck out former cl. (ii) which read as follows: “and (ii) the alien spouse and minor children of any such alien if accompanying him or following to join him;”.
+<b>2002</b>—Subsec. (a)(15)(F)(ii), (iii). Pub. L. 107–274, §2(a), added cls. (ii) and (iii) and struck out former cl. (ii) which read as follows: “and (ii) the alien spouse and minor children of any such alien if accompanying him or following to join him;”.
 
 Subsec. (a)(15)(L). Pub. L. 107–125 inserted “subject to section 1184(c)(2) of this title,” before “an alien who”.
 
 Subsec. (a)(15)(M)(ii), (iii). Pub. L. 107–274, §2(b), added cls. (ii) and (iii) and struck out former cl. (ii) which read as follows: “and (ii) the alien spouse and minor children of any such alien if accompanying him or following to join him;”.
 
-2000—Subsec. (a)(15)(K). Pub. L. 106–553, §1(a)(2) \[title XI, §1103(a)\], amended subpar. (K) generally. Prior to amendment, subpar. (K) read as follows: “an alien who is the fiance�AE1e or fiance�AE1 of a citizen of the United States and who seeks to enter the United States solely to conclude a valid marriage with the petitioner within ninety days after admission, and the minor children of such fiance�AE1e or fiance�AE1 accompanying him or following to join him;”.
+<b>2000</b>—Subsec. (a)(15)(K). Pub. L. 106–553, §1(a)(2) \[title XI, §1103(a)\], amended subpar. (K) generally. Prior to amendment, subpar. (K) read as follows: “an alien who is the fiance�AE1e or fiance�AE1 of a citizen of the United States and who seeks to enter the United States solely to conclude a valid marriage with the petitioner within ninety days after admission, and the minor children of such fiance�AE1e or fiance�AE1 accompanying him or following to join him;”.
 
 Subsec. (a)(15)(T). Pub. L. 106–386, §107(e)(1), added subpar. (T).
 
@@ -744,7 +744,7 @@ Subsec. (f). Pub. L. 106–395 inserted at end: “In the case of an alien who m
 
 Subsec. (i). Pub. L. 106–386, §107(e)(4), added subsec. (i).
 
-1999—Subsec. (a)(15)(H)(i)(a). Pub. L. 106–95, §2(c), struck out subcl. (a) which read as follows: “who is coming temporarily to the United States to perform services as a registered nurse, who meets the qualifications described in section 1182(m)(1) of this title, and with respect to whom the Secretary of Labor determines and certifies to the Attorney General that an unexpired attestation is on file and in effect under section 1182(m)(2) of this title for each facility (which facility shall include the petitioner and each worksite, other than a private household worksite, if the worksite is not the alien's employer or controlled by the employer) for which the alien will perform the services, or”.
+<b>1999</b>—Subsec. (a)(15)(H)(i)(a). Pub. L. 106–95, §2(c), struck out subcl. (a) which read as follows: “who is coming temporarily to the United States to perform services as a registered nurse, who meets the qualifications described in section 1182(m)(1) of this title, and with respect to whom the Secretary of Labor determines and certifies to the Attorney General that an unexpired attestation is on file and in effect under section 1182(m)(2) of this title for each facility (which facility shall include the petitioner and each worksite, other than a private household worksite, if the worksite is not the alien's employer or controlled by the employer) for which the alien will perform the services, or”.
 
 Subsec. (a)(15)(H)(i)(c). Pub. L. 106–95, §2(a), added subcl. (c).
 
@@ -754,7 +754,7 @@ Subsec. (b)(1)(F). Pub. L. 106–139, §1(a)(2), designated existing provisions 
 
 Subsec. (c)(1). Pub. L. 106–139, §1(b)(1), substituted “16 years (except to the extent that the child is described in subparagraph (E)(ii) or (F)(ii) of subsection (b)(1) of this section),” for “sixteen years,”.
 
-1998—Subsec. (a)(9). Pub. L. 105–277, §2222(e), inserted “or employee” after “other officer” and “or, when used in subchapter III, for the purpose of adjudicating nationality” before period at end.
+<b>1998</b>—Subsec. (a)(9). Pub. L. 105–277, §2222(e), inserted “or employee” after “other officer” and “or, when used in subchapter III, for the purpose of adjudicating nationality” before period at end.
 
 Subsec. (a)(15)(N). Pub. L. 105–277, §421(b), inserted “(or under analogous authority under paragraph (27)(L))” after “(27)(I)(i)” in cl. (i) and after “(27)(I)” in cl. (ii).
 
@@ -764,11 +764,11 @@ Pub. L. 105–319, §2(b)(1), designated existing provisions as cl. (i) and adde
 
 Subsec. (a)(27)(L). Pub. L. 105–277, §421(a), added subpar. (L).
 
-1997—Subsec. (a)(27)(C)(ii)(II), (III). Pub. L. 105–54 substituted “2000” for “1997”.
+<b>1997</b>—Subsec. (a)(27)(C)(ii)(II), (III). Pub. L. 105–54 substituted “2000” for “1997”.
 
 Subsec. (a)(27)(J). Pub. L. 105–119 amended subpar. (J) generally. Prior to amendment, subpar. (J) read as follows: “an immigrant (i) who has been declared dependent on a juvenile court located in the United States or whom such a court has legally committed to, or placed under the custody of, an agency or department of a State and who has been deemed eligible by that court for long-term foster care, and (ii) for whom it has been determined in administrative or judicial proceedings that it would not be in the alien's best interest to be returned to the alien's or parent's previous country of nationality or country of last habitual residence; except that no natural parent or prior adoptive parent of any alien provided special immigrant status under this subparagraph shall thereafter, by virtue of such parentage, be accorded any right, privilege, or status under this chapter; or”.
 
-1996—Subsec. (a)(6). Pub. L. 104–208, §104(a), inserted at end “Such regulations shall provide that (A) each such document include a biometric identifier (such as the fingerprint or handprint of the alien) that is machine readable and (B) an alien presenting a border crossing identification card is not permitted to cross over the border into the United States unless the biometric identifier contained on the card matches the appropriate biometric characteristic of the alien.”
+<b>1996</b>—Subsec. (a)(6). Pub. L. 104–208, §104(a), inserted at end “Such regulations shall provide that (A) each such document include a biometric identifier (such as the fingerprint or handprint of the alien) that is machine readable and (B) an alien presenting a border crossing identification card is not permitted to cross over the border into the United States unless the biometric identifier contained on the card matches the appropriate biometric characteristic of the alien.”
 
 Subsec. (a)(13). Pub. L. 104–208, §301(a), amended par. (13) generally. Prior to amendment, par. (13) read as follows: “The term ‘entry’ means any coming of an alien into the United States, from a foreign port or place or from an outlying possession, whether voluntarily or otherwise, except that an alien having a lawful permanent residence in the United States shall not be regarded as making an entry into the United States for the purposes of the immigration laws if the alien proves to the satisfaction of the Attorney General that his departure to a foreign port or place or to an outlying possession was not intended or reasonably to be expected by him or his presence in a foreign port or place or in an outlying possession was not voluntary: <i>Provided</i>, That no person whose departure from the United States was occasioned by deportation proceedings, extradition, or other legal process shall be held to be entitled to such exception.”
 
@@ -868,13 +868,13 @@ Subsec. (f)(3). Pub. L. 104–208, §308(d)(3)(A), substituted “inadmissible�
 
 Subsec. (g). Pub. L. 104–208, §308(e)(3), substituted “deported or removed” for “deported” in two places.
 
-1995—Subsec. (b)(1)(A). Pub. L. 104–51, §1(1)(A), substituted “child born in wedlock” for “legitimate child”.
+<b>1995</b>—Subsec. (b)(1)(A). Pub. L. 104–51, §1(1)(A), substituted “child born in wedlock” for “legitimate child”.
 
 Subsec. (b)(1)(D). Pub. L. 104–51, §1(1)(B), substituted “a child born out of wedlock” for “an illegitimate child”.
 
 Subsec. (b)(2). Pub. L. 104–51, §1(2) substituted “a child born out of wedlock” for “an illegitimate child”.
 
-1994—Subsec. (a)(1). Pub. L. 103–236 substituted “official designated by the Secretary of State pursuant to section 1104(b) of this title” for “Assistant Secretary of State for Consular Affairs”.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–236 substituted “official designated by the Secretary of State pursuant to section 1104(b) of this title” for “Assistant Secretary of State for Consular Affairs”.
 
 Subsec. (a)(15)(S). Pub. L. 103–322 added subpar. (S).
 
@@ -890,7 +890,7 @@ Subsec. (a)(27)(J)(i). Pub. L. 103–416, §219(a), substituted “or whom such 
 
 Subsec. (a)(43). Pub. L. 103–416, §222(a), amended par. (43) generally. Prior to amendment, par. (43) read as follows: “The term ‘aggravated felony’ means murder, any illicit trafficking in any controlled substance (as defined in section 802 of title 21), including any drug trafficking crime as defined in section 924(c)(2) of title 18, or any illicit trafficking in any firearms or destructive devices as defined in section 921 of such title, any offense described in section 1956 of title 18 (relating to laundering of monetary instruments), or any crime of violence (as defined in section 16 of title 18, not including a purely political offense) for which the term of imprisonment imposed (regardless of any suspension of such imprisonment) is at least 5 years, or any attempt or conspiracy to commit any such act. Such term applies to offenses described in the previous sentence whether in violation of Federal or State law and also applies to offenses described in the previous sentence in violation of foreign law for which the term of imprisonment was completed within the previous 15 years.”
 
-1991—Subsec. (a)(15)(D)(i). Pub. L. 102–232, §309(b)(1), inserted a comma after “States)”.
+<b>1991</b>—Subsec. (a)(15)(D)(i). Pub. L. 102–232, §309(b)(1), inserted a comma after “States)”.
 
 Subsec. (a)(15)(H)(i)(b). Pub. L. 102–232, §303(a)(7)(A), struck out “, and had approved by,” after “has filed with”.
 
@@ -926,7 +926,7 @@ Subsec. (a)(46). Pub. L. 102–232, §205(a), added par. (46).
 
 Subsec. (c)(1). Pub. L. 102–232, §309(b)(4), struck out reference to section 1434.
 
-1990—Subsec. (a)(15)(D)(i). Pub. L. 101–649, §203(c), substituted “a capacity” for “any capacity” and inserted “, as defined in section 1288(a) of this title” after “on board a vessel”.
+<b>1990</b>—Subsec. (a)(15)(D)(i). Pub. L. 101–649, §203(c), substituted “a capacity” for “any capacity” and inserted “, as defined in section 1288(a) of this title” after “on board a vessel”.
 
 Subsec. (a)(15)(E)(i). Pub. L. 101–649, §204(a), inserted “, including trade in services or trade in technology” after “substantial trade”.
 
@@ -982,11 +982,11 @@ Subsec. (h). Pub. L. 101–649, §603(a)(1)(C), substituted “1182(a)(2)(E) of 
 
 Pub. L. 101–246 added subsec. (h).
 
-1989—Subsec. (a)(15)(H)(i). Pub. L. 101–238 added subcl. (a), designated existing provisions as subcl. (b), and inserted “(other than services as a registered nurse)” after “to perform services”.
+<b>1989</b>—Subsec. (a)(15)(H)(i). Pub. L. 101–238 added subcl. (a), designated existing provisions as subcl. (b), and inserted “(other than services as a registered nurse)” after “to perform services”.
 
 Subsec. (b)(2). Pub. L. 101–162 inserted before period at end “, except that, for purposes of paragraph (1)(F) (other than the second proviso therein) in the case of an illegitimate child described in paragraph (1)(D) (and not described in paragraph (1)(C)), the term ‘parent’ does not include the natural father of the child if the father has disappeared or abandoned or deserted the child or if the father has in writing irrevocably released the child for emigration and adoption”.
 
-1988—Subsec. (a)(15)(J). Pub. L. 100–525, §9(a)(1), substituted “Director of the United States Information Agency” for “Secretary of State”.
+<b>1988</b>—Subsec. (a)(15)(J). Pub. L. 100–525, §9(a)(1), substituted “Director of the United States Information Agency” for “Secretary of State”.
 
 Subsec. (a)(27)(I)(i)(II), (ii)(II), (iii)(II). Pub. L. 100–525, §2(<i>o</i>)(1), substituted “October 24, 1988” for “November 6, 1986” and “applies for a visa or adjustment of status” for “applies for admission”.
 
@@ -1000,7 +1000,7 @@ Subsec. (c)(1). Pub. L. 100–525, §8(b), repealed Pub. L. 99–653, §3. See 1
 
 Subsec. (d). Pub. L. 100–525, §9(a)(3), struck out subsec. (d) defining “veteran”, “Spanish-American War”, “World War I”, “World War II”, and “Korean hostilities” as those terms were used in part III of subchapter III of this chapter.
 
-1986—Subsec. (a)(15)(D). Pub. L. 99–505 designated existing provisions as cl. (i) and added cl. (ii).
+<b>1986</b>—Subsec. (a)(15)(D). Pub. L. 99–505 designated existing provisions as cl. (i) and added cl. (ii).
 
 Subsec. (a)(15)(H). Pub. L. 99–603, §301(a), designated existing provisions of cl. (ii) as subcl. (b) and added subcl. (a) relating to persons performing agricultural labor or services as defined by the Secretary of Labor in regulations and including agricultural labor as defined in section 3121(g) of title 26 and agriculture as defined in section 203(f) of title 29 of a temporary or seasonal nature.
 
@@ -1014,9 +1014,9 @@ Subsec. (b)(1)(E). Pub. L. 99–653, §2, struck out “thereafter” after “t
 
 Subsec. (c)(1). Pub. L. 99–653, §3, which struck out par. (1) defining “child”, was repealed by Pub. L. 100–525, §8(b), and such par. (1) was revived as of Nov. 14, 1986, see Repeal and Revival note below.
 
-1984—Subsec. (a)(9). Priv. L. 98–47 struck out provisions which directed that in Canal Zone and outlying possessions of the United States “consular officer” meant an officer designated by the Governor of the Canal Zone, or the governors of the outlying possessions for purposes of issuing immigrant or nonimmigrant visas under this chapter.
+<b>1984</b>—Subsec. (a)(9). Priv. L. 98–47 struck out provisions which directed that in Canal Zone and outlying possessions of the United States “consular officer” meant an officer designated by the Governor of the Canal Zone, or the governors of the outlying possessions for purposes of issuing immigrant or nonimmigrant visas under this chapter.
 
-1981—Subsec. (a)(15)(F). Pub. L. 97–116, §§2(a)(1), 18(a)(1), substituted in cl. (i) “college, university, seminary, conservatory, academic high school, elementary school, or other academic institution or in a language training program” for “institution of learning or other recognized place of study”, and “Secretary of Education” for “Office of Education of the United States”.
+<b>1981</b>—Subsec. (a)(15)(F). Pub. L. 97–116, §§2(a)(1), 18(a)(1), substituted in cl. (i) “college, university, seminary, conservatory, academic high school, elementary school, or other academic institution or in a language training program” for “institution of learning or other recognized place of study”, and “Secretary of Education” for “Office of Education of the United States”.
 
 Subsec. (a)(15)(H), (J), (K), (L). Pub. L. 97–116, §18(a)(2), substituted a semicolon for a period at end of subpars. (H), (J), (K), and (L) and inserted “or” at end of subpar. (L).
 
@@ -1036,15 +1036,15 @@ Subsec. (b)(1)(F). Pub. L. 97–116, §2(b), substituted “sixteen” for “fo
 
 Subsec. (f). Pub. L. 97–116, §2(c), struck out par. (2) which provided that a person not be considered a person of good moral character if within the period for which good moral character is required to be established the person commits adultery, and substituted in par. (3) “paragraphs (9) and (10) of section 1182(a) of this title and paragraph (23) of such section (except as such paragraph relates to a single offense of simple possession of 30 grams or less of marihuana)” for “paragraphs (9), (10), and (23) of section 1182(a) of this title”.
 
-1980—Subsec. (a)(42). Pub. L. 96–212 added par. (42).
+<b>1980</b>—Subsec. (a)(42). Pub. L. 96–212 added par. (42).
 
-1979—Subsec. (a)(27)(E) to (G). Pub. L. 96–70 added subpars. (E) to (G).
+<b>1979</b>—Subsec. (a)(27)(E) to (G). Pub. L. 96–70 added subpars. (E) to (G).
 
-1977—Subsec. (a)(1). Pub. L. 95–105 substituted “Assistant Secretary of State for Consular Affairs” for “administrator of the Bureau of Security and Consular Affairs of the Department of State”.
+<b>1977</b>—Subsec. (a)(1). Pub. L. 95–105 substituted “Assistant Secretary of State for Consular Affairs” for “administrator of the Bureau of Security and Consular Affairs of the Department of State”.
 
 Subsec. (a)(41). Pub. L. 95–83 inserted “a” after “graduates of” and “, other than such aliens who are of national or international renown in the field of medicine” after “in a foreign state”.
 
-1976—Subsec. (a)(15)(H)(i). Pub. L. 94–484, §601(b)(1), inserted “, and who, in the case of a graduate of a medical school coming to the United States to perform services as a member of the medical profession, is coming pursuant to an invitation from a public or nonprofit private educational or research institution or agency in the United States to teach or conduct research, or both, at or for such institution or agency”.
+<b>1976</b>—Subsec. (a)(15)(H)(i). Pub. L. 94–484, §601(b)(1), inserted “, and who, in the case of a graduate of a medical school coming to the United States to perform services as a member of the medical profession, is coming pursuant to an invitation from a public or nonprofit private educational or research institution or agency in the United States to teach or conduct research, or both, at or for such institution or agency”.
 
 Subsec. (a)(15)(H)(ii). Pub. L. 94–484, §601(b)(2), inserted “, but this clause shall not apply to graduates of medical schools coming to the United States to perform services as members of the medical profession”.
 
@@ -1056,15 +1056,15 @@ Subsec. (a)(27). Pub. L. 94–571 struck out subpar. (A) provision defining term
 
 Subsec. (a)(41). Pub. L. 94–484, §601(e), added par. (41).
 
-1975—Subsec. (b)(1)(F). Pub. L. 94–155 provided for adoption of alien children under the age of fourteen by unmarried United States citizens who are at least twenty-five years of age and inserted requirement that before adoption the Attorney General be satisfied that proper care will be provided the child after admission.
+<b>1975</b>—Subsec. (b)(1)(F). Pub. L. 94–155 provided for adoption of alien children under the age of fourteen by unmarried United States citizens who are at least twenty-five years of age and inserted requirement that before adoption the Attorney General be satisfied that proper care will be provided the child after admission.
 
-1970—Subsec. (a)(15)(H). Pub. L. 91–225, §1(a), provided for nonimmigrant alien status for alien spouse and minor children of any alien specified in par. (H) if accompanying him or following to join him and struck out “temporary”, “other”, and “industrial” before “services”, “temporary services”, and “trainee” in cls. (i) to (iii), respectively.
+<b>1970</b>—Subsec. (a)(15)(H). Pub. L. 91–225, §1(a), provided for nonimmigrant alien status for alien spouse and minor children of any alien specified in par. (H) if accompanying him or following to join him and struck out “temporary”, “other”, and “industrial” before “services”, “temporary services”, and “trainee” in cls. (i) to (iii), respectively.
 
 Subsec. (a)(15)(K), (L). Pub. L. 91–225, §1(b), added subpars. (K) and (L).
 
-1966—Subsec. (a)(38). Pub. L. 89–710 inserted sentence providing that term “United States” as used in section 1452 of this title, for the purpose of issuing certificates of citizenship to persons who are citizens of the United States, shall include the Canal Zone.
+<b>1966</b>—Subsec. (a)(38). Pub. L. 89–710 inserted sentence providing that term “United States” as used in section 1452 of this title, for the purpose of issuing certificates of citizenship to persons who are citizens of the United States, shall include the Canal Zone.
 
-1965—Subsec. (a)(27). Pub. L. 89–236, §8(a), substituted “special immigrant” for “nonquota immigrant” as term being defined.
+<b>1965</b>—Subsec. (a)(27). Pub. L. 89–236, §8(a), substituted “special immigrant” for “nonquota immigrant” as term being defined.
 
 Subsec. (a)(32). Pub. L. 89–236, §8(b), substituted term “profession” and its definition for term “quota immigrant” and its definition.
 
@@ -1072,7 +1072,7 @@ Subsec. (b)(1)(F). Pub. L. 89–236, §8(c), expanded definition to include a ch
 
 Subsec. (b)(6). Pub. L. 89–236, §24, struck out par. (6) which defined term “eligible orphan”.
 
-1961—Subsec. (a)(15). Pub. L. 87–256 included the alien spouse and minor children of any such alien if accompanying him or following to join him in subpar. (F), and added subpar. (J).
+<b>1961</b>—Subsec. (a)(15). Pub. L. 87–256 included the alien spouse and minor children of any such alien if accompanying him or following to join him in subpar. (F), and added subpar. (J).
 
 Subsec. (b)(1)(F). Pub. L. 87–301, §2, added subpar. (F).
 
@@ -1082,11 +1082,11 @@ Subsec. (d)(1). Pub. L. 87–301, §7(a), inserted “or from June 25, 1950, to 
 
 Subsec. (d)(2). Pub. L. 87–301, §7(b), inserted definition of “Korean hostilities”.
 
-1959—Subsec. (a)(36). Pub. L. 86–3 struck out reference to Hawaii.
+<b>1959</b>—Subsec. (a)(36). Pub. L. 86–3 struck out reference to Hawaii.
 
-1958—Subsec. (a)(36). Pub. L. 85–508 struck out reference to Alaska.
+<b>1958</b>—Subsec. (a)(36). Pub. L. 85–508 struck out reference to Alaska.
 
-1957—Subsec. (b)(1). Pub. L. 85–316 inserted “whether or not born out of wedlock” in subpar. (B), and added subpars. (D) and (E).
+<b>1957</b>—Subsec. (b)(1). Pub. L. 85–316 inserted “whether or not born out of wedlock” in subpar. (B), and added subpars. (D) and (E).
 
 #### Effective Date of 2010 Amendment
 

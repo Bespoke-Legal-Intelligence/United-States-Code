@@ -28,7 +28,7 @@
 
 #### (5) Construction
 
-&emsp;Nothing in this subsection shall be construed to prohibit an employer from requiring an employee on leave under section 2612 of this title to report periodically to the employer on the status and intention of the employee to return to work.
+&emsp;Nothing in this subsection shall be construed to prohibit an employer from requiring an employee on leave under section 2612 of thistitle to report periodically to the employer on the status and intention of the employee to return to work.
 
 #### (b) Exemption concerning certain highly compensated employees
 
@@ -74,7 +74,7 @@
 
 &emsp;&emsp;&emsp;(ii) a certification issued by the health care provider of the eligible employee, in the case of an employee unable to return to work because of a condition specified in section 2612(a)(1)(D) of this title; or
 
-&emsp;&emsp;&emsp;(iii) a certification issued by the health care provider of the servicemember being cared for by the employee, in the case ofan employee unable to return to work because of a condition specified in section 2612(a)(3) of this title.
+&emsp;&emsp;&emsp;(iii) a certification issued by the health care provider of the servicemember being cared for by the employee, in the case of an employee unable to return to work because of a condition specified in section 2612(a)(3) of this title.
 
 #### (B) Copy
 

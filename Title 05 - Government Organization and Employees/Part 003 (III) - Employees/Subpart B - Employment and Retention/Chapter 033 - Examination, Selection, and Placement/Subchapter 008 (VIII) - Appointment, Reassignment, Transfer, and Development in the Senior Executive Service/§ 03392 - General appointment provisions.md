@@ -36,7 +36,7 @@ A prior section 3392, added Pub. L. 95–437, §3(a), Oct. 10, 1978, 92 Stat. 10
 
 #### Amendments
 
-1990—Subsec. (c). Pub. L. 101–335 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
+<b>1990</b>—Subsec. (c). Pub. L. 101–335 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
 
 #### Effective Date of 1990 Amendment
 

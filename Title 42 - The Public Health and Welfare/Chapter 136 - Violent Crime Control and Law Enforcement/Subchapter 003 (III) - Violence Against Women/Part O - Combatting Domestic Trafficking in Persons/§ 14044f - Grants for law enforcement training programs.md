@@ -52,5 +52,5 @@ There are authorized to be appropriated $10,000,000 for each of the fiscal years
 
 #### Codification
 
-Section was enacted as part of the Violence Against Women and Department of Justice Reauthorization Actof 2005, and not as part of the Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
+Section was enacted as part of the Violence Against Women and Department of Justice Reauthorization Act of 2005, and not as part of the Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
 

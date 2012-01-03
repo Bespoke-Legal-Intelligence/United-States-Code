@@ -24,5 +24,5 @@ Amendment by Pub. L. 111–144 effective as if included in the provisions of sec
 
 #### Effective Date
 
-Section applicable to failures occurring after Feb. 17, 2009, see section 3001(a)(13)(C) of Pub. L. 111–5, set outas a Premium Assistance for COBRA Benefits note under section 6432 of this title.
+Section applicable to failures occurring after Feb. 17, 2009, see section 3001(a)(13)(C) of Pub. L. 111–5, set out as a Premium Assistance for COBRA Benefits note under section 6432 of this title.
 

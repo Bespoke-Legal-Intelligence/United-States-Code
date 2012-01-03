@@ -6,7 +6,7 @@ A Y2K action involving a claim that a product or service is defective may be mai
 
 &emsp;(1) it satisfies all other prerequisites established by applicable Federal or State law, including applicable rules of civil procedure; and
 
-&emsp;(2) the court finds that the defect in a product or service as alleged would be a materialdefect for the majority of the members of the class.
+&emsp;(2) the court finds that the defect in a product or service as alleged would be a material defect for the majority of the members of the class.
 
 #### (b) Notification
 
@@ -40,7 +40,7 @@ In any Y2K action that is maintained as a class action, the court, in addition t
 
 &emsp;&emsp;(D) there are less than 100 members of the proposed plaintiff class.
 
-> &emsp;A party urging that any exception described in subparagraph (A), (B), (C), or (D) applies to an action shall bear the full burden of demonstrating the applicability of the exception.
+> &emsp;A party urging that any exception described in subparagraph (A), (B), (C), or (D) applies to anaction shall bear the full burden of demonstrating the applicability of the exception.
 
 #### (3) Procedure if requirements not met
 

@@ -80,7 +80,7 @@ The Secretary shall make the following 2 types of awards in accordance with this
 
 &emsp;&emsp;(B) is not a school of medicine or osteopathic medicine, the parent institution of such a school, or a branch campus or other subunit of a school of medicine or osteopathic medicine or its parent institution, or a consortium of such entities;
 
-&emsp;&emsp;(C) designates an underserved area or population to be served by the center which is in a location removed from the main location of the teaching facilities of the schools participating in the program with such center and does not duplicate, in whole or in part, the geographic area or population served by any other center;
+&emsp;&emsp;(C) designates an underserved area or population to be served by the center which is in a location removed from the main location of the teaching facilities of the schools participating in the program with such center and does not duplicate, in whole or inpart, the geographic area or population served by any other center;
 
 &emsp;&emsp;(D) fosters networking and collaboration among communities and between academic health centers and community-based centers;
 
@@ -92,7 +92,7 @@ The Secretary shall make the following 2 types of awards in accordance with this
 
 #### (e) Matching funds
 
-With respect to the costs of operating a program through a grant under this section, to be eligible for financial assistance under this section, an entity shall make available (directly or through contributions from State, county or municipal governments, or the private sector) recurring non-Federal contributions in cash or in kind, toward such costs in an amount that is equal to not less than 50 percent of such costs.At least 25 percent of the total required non-Federal contributions shall be in cash. An entity may apply to the Secretary for a waiver of not more than 75 percent of the matching fund amount required by the entity for each of the first 3 years the entity is funded through a grant under subsection (a)(1).
+With respect to the costs of operating a program through a grant under this section, to be eligible for financial assistance under this section, an entity shall make available (directly or through contributions from State, county or municipal governments, or the private sector) recurring non-Federal contributions in cash or in kind, toward such costs in an amount that is equal to not less than 50 percent of such costs. At least 25 percent of the total required non-Federal contributions shall be in cash. An entity may apply to the Secretary for a waiver of not more than 75 percent of the matching fund amount required by the entity for each of the first 3 years the entity is funded through a grant under subsection (a)(1).
 
 #### (f) Limitation
 
@@ -154,7 +154,7 @@ A prior section 294a, act July 1, 1944, ch. 373, title VII, §762, as added Pub.
 
 Another prior section 294a, act July 1, 1944, ch. 373, title VII, §728, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §401(b)(3), 90 Stat. 2257; amended Dec. 19, 1977, Pub. L. 95–215, §4(e)(2)–(4), 91 Stat. 1506; Dec. 17, 1980, Pub. L. 96–538, title IV, §401, 94 Stat. 3192; Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2726, 95 Stat. 916; Oct. 22, 1985, Pub. L. 99–129, title I, §101, title II, §208(h), 99 Stat. 523, 532; Nov. 4, 1988, Pub. L. 100–607, title VI, §§602(a)–(d), 636, title VII, §707, 102 Stat. 3122, 3149, 3159; Nov. 18, 1988, Pub. L. 100–690, title II, §2615(b), 102 Stat. 4239; Aug. 16, 1989, Pub. L. 101–93, §5(g)(1), 103 Stat. 612, related to Federal student loan insurance program, prior to the general amendment of this subchapter by Pub. L. 102–408. See section 292a of this title.
 
-Another prior section 294a, act July 1, 1944, ch. 373, title VII, §741, as added Sept. 24, 1963, Pub. L. 88–129, §2(b), 77 Stat. 171; amended Oct. 13, 1964, Pub. L. 88–654, §1(c), (d), 78 Stat. 1086; Oct. 22, 1965, Pub. L. 89–290, §4(b), (f)(3), (4), (g)(1), 79 Stat. 1057, 1058; Nov. 2, 1966, Pub. L. 89–709, §3(c), (d), 80 Stat. 1103; Nov. 3, 1966, Pub. L. 89–751, §4, 80 Stat. 1230; Aug. 16, 1968, Pub. L. 90–490, title I, §121(a)(3), (4), (5)(A), 82 Stat. 777; Nov. 18, 1971, Pub. L. 92–157, title I, §105(b)–(d), (e)(4), (f)(2), 85 Stat. 449–451; Oct. 27, 1972, Pub. L. 92–585, §4, 86 Stat. 1293; Oct. 12, 1976, Pub. L. 94–484, title IV, §§403(a), (b), (d), 407(d)(1), 90 Stat. 2266, 2279, which related to loan provisions, was transferred to section 294n of this title.
+Another prior section 294a, act July 1, 1944, ch. 373, title VII, §741, as added Sept. 24, 1963, Pub. L. 88–129, §2(b), 77 Stat. 171; amended Oct. 13, 1964, Pub. L. 88–654, §1(c), (d), 78 Stat. 1086; Oct. 22, 1965, Pub. L. 89–290, §4(b), (f)(3), (4), (g)(1), 79 Stat. 1057, 1058; Nov. 2, 1966, Pub. L. 89–709, §3(c), (d), 80 Stat. 1103; Nov. 3, 1966, Pub.L. 89–751, §4, 80 Stat. 1230; Aug. 16, 1968, Pub. L. 90–490, title I, §121(a)(3), (4), (5)(A), 82 Stat. 777; Nov. 18, 1971, Pub. L. 92–157, title I, §105(b)–(d), (e)(4), (f)(2), 85 Stat. 449–451; Oct. 27, 1972, Pub. L. 92–585, §4, 86 Stat. 1293; Oct. 12, 1976, Pub. L. 94–484, title IV, §§403(a), (b), (d), 407(d)(1), 90 Stat. 2266, 2279, which related to loan provisions, was transferred to section 294n of this title.
 
 A prior section 751 of act July 1, 1944, was classified to section 293<i>o</i> of this title prior to repeal by Pub. L. 105–392.
 

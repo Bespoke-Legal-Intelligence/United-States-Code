@@ -2,7 +2,7 @@
 
 #### (a) State development plan
 
-In accordance with policies established by the Authority, each State member shall submit adevelopment plan for the area of the region represented by the State member.
+In accordance with policies established by the Authority, each State member shall submit a development plan for the area of the region represented by the State member.
 
 #### (b) Content of plan
 
@@ -42,7 +42,7 @@ A prior section 383H of Pub. L. 87–128, title III, was renumbered section 383I
 
 #### Amendments
 
-2008—Subsec. (c)(1)(A). Pub. L. 110–246, §6026(h)(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “local development districts; and”.
+<b>2008</b>—Subsec. (c)(1)(A). Pub. L. 110–246, §6026(h)(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “local development districts; and”.
 
 Subsec. (d)(1). Pub. L. 110–246, §6026(h)(2), substituted “multistate, regional, and local development districts and organizations” for “State and local development districts”.
 

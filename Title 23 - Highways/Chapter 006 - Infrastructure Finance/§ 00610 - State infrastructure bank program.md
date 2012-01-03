@@ -36,7 +36,7 @@ Capitalization.—The term “capitalization” means the process used for depos
 
 &emsp;(5)
 
-Cooperative agreement.—The term “cooperative agreement” means written consent between a State and the Secretary which setsforth the manner in which the infrastructure bank established by the State in accordance with this section will be administered.
+Cooperative agreement.—The term “cooperative agreement” means written consent between a State and the Secretary which sets forth the manner in which the infrastructure bank established by the State in accordance with this section will be administered.
 
 &emsp;(6)
 
@@ -60,7 +60,7 @@ Leveraged.—The term “leveraged”, as used with respect to a State infrastru
 
 (b)
 
-Cooperative Agreements.—Subject to the provisions of this section, the Secretary may enter into cooperative agreements with States for the establishment of State infrastructure banks for making loans and providing other forms of credit assistance to public and private entities carrying out or proposing to carry out projects eligible for assistance under this section.
+Cooperative Agreements.—Subject to the provisions of this section, the Secretary may enter into cooperative agreements with States for the establishment of State infrastructure banks for making loans and providing otherforms of credit assistance to public and private entities carrying out or proposing to carry out projects eligible for assistance under this section.
 
 (c)
 

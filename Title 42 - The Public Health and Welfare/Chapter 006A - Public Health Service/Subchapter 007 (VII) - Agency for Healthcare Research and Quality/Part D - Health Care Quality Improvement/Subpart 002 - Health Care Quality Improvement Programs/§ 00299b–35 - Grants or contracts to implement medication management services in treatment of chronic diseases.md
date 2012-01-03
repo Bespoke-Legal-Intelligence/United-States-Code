@@ -76,7 +76,7 @@ The Secretary shall submit to the relevant committees of Congress a report which
 
 &emsp;(5) identify and evaluate other factors that may impact clinical and economic outcomes, including demographic characteristics, clinical characteristics, and health services use of the patient, as well as characteristics of the regimen, pharmacy benefit, and MTM services provided; and
 
-&emsp;(6) evaluate the extent to which participating pharmacists who maintain a dispensing role have a conflict of interest in the provision of MTM services, and if such conflict is found,provide recommendations on how such a conflict might be appropriately addressed.
+&emsp;(6) evaluate the extent to which participating pharmacists who maintain a dispensing role have a conflict of interest in the provision of MTM services, and if such conflict is found, provide recommendations on how such a conflict might be appropriately addressed.
 
 #### (h) Grants or contracts to fund development of performance measures
 

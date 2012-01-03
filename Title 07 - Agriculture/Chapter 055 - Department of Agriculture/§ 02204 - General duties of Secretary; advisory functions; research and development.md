@@ -14,13 +14,13 @@ Section was formerly classified to section 514 of Title 5 prior to the general r
 
 #### Amendments
 
-1980—Subsec. (b). Pub. L. 96–355 inserted provisions relating to technology appropriate to small- and moderate-sized family farming operations, and struck out provisions relating to the national rural development program and goals, and accompanying annual report.
+<b>1980</b>—Subsec. (b). Pub. L. 96–355 inserted provisions relating to technology appropriate to small- and moderate-sized family farming operations, and struck out provisions relating to the national rural development program and goals, and accompanying annual report.
 
-1977—Subsec. (a). Pub. L. 95–113 inserted references to aquaculture and human nutrition.
+<b>1977</b>—Subsec. (a). Pub. L. 95–113 inserted references to aquaculture and human nutrition.
 
-1976—Subsec. (b). Pub. L. 94–273 substituted “December” for “September”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–273 substituted “December” for “September”.
 
-1972—Subsec. (a). Pub. L. 92–419, §603(b)(1)–(3), designated existing provisions as subsec. (a), provided for information concerning rural development, and prescribed advisory functions of the Secretary, respectively.
+<b>1972</b>—Subsec. (a). Pub. L. 92–419, §603(b)(1)–(3), designated existing provisions as subsec. (a), provided for information concerning rural development, and prescribed advisory functions of the Secretary, respectively.
 
 Subsec. (b). Pub. L. 92–419, §603(b)(4), added subsec. (b).
 

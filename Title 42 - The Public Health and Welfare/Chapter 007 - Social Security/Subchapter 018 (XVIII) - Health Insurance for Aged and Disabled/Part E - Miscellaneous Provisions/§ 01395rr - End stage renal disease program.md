@@ -6,11 +6,11 @@ The benefits provided by parts A and B of this subchapter shall include benefits
 
 #### (b) Payments with respect to services; dialysis; regulations; physicians’ services; target reimbursement rates; home dialysis supplies and equipment; self-care home dialysis support services; self-care dialysis units; hepatitis B vaccine
 
-(1) Payments under this subchapter with respect to services, in addition to services for which payment would otherwise be made under this subchapter, furnished to individuals who have been determined to have end stage renal disease shall include (A) payments on behalf of such individuals to providers of services and renal dialysis facilities which meet such requirements as the Secretary shall by regulation prescribe for institutional dialysis services and supplies (including self-dialysis services in a self-care dialysis unit maintained by the provider or facility), transplantation services, self-care home dialysis support services which are furnished by the provider or facility, and routine professional services performed by a physician during a maintenance dialysis episode if payments for his other professional services furnished to an individual who has end stage renal disease are made on the basis specified in paragraph (3)(A) of this subsection, (B) payments to or on behalf of such individuals for home dialysis supplies and equipment, and (C) payments to a supplier of home dialysis supplies and equipment that is not a provider of services, a renal dialysis facility, or a physician for self-administered erythropoietin as described in section 1395x(s)(2)(P) <sup>1</sup> of this title if the Secretary finds that the patient receiving such drug from such a supplier can safely and effectively administer the drug (in accordance with the applicable methods and standards established by the Secretary pursuant to such section). The requirements prescribed by the Secretary under subparagraph (A) shall include requirements for a minimum utilization rate for transplantations.
+(1) Payments under this subchapter with respect to services, in addition to services for which payment would otherwise be made under this subchapter, furnished to individuals who have been determined to have end stage renal disease shall include (A) payments on behalf of such individuals to providers of services and renal dialysis facilities which meet such requirements as the Secretary shall by regulation prescribe for institutional dialysis services and supplies (including self-dialysis services in a self-care dialysis unit maintained by the provider or facility), transplantation services, self-care home dialysis support services which are furnished by the provider or facility, and routine professional services performed by a physician during a maintenance dialysis episode if payments for his other professional services furnished to an individual who has end stage renal disease are made on the basis specified in paragraph (3)(A) of this subsection, (B) payments to or on behalf of such individuals for home dialysis supplies and equipment, and (C) payments to a supplier of home dialysis supplies and equipment that is not a provider of services, a renal dialysis facility, or a physician for self-administered erythropoietin as described in section1395x(s)(2)(P) <sup>1</sup> of this title if the Secretary finds that the patient receiving such drug from such a supplier can safely and effectively administer the drug (in accordance with the applicable methods and standards established by the Secretary pursuant to such section). The requirements prescribed by the Secretary under subparagraph (A) shall include requirements for a minimum utilization rate for transplantations.
 
 (2)(A) With respect to payments for dialysis services furnished by providers of services and renal dialysis facilities to individuals determined to have end stage renal disease for which payments may be made under part B of this subchapter, such payments (unless otherwise provided in this section) shall be equal to 80 percent of the amounts determined in accordance with subparagraph (B); and with respect to payments for services for which payments may be made under part A of this subchapter, the amounts of such payments (which amounts shall not exceed, in respect to costs in procuring organs attributable to payments made to an organ procurement agency or histocompatibility laboratory, the costs incurred by that agency or laboratory) shall be determined in accordance with section 1395x(v) of this title or section 1395ww of this title (if applicable). Payments shall be made to a renal dialysis facility only if it agrees to accept such payments as payment in full for covered services, except for payment by the individual of 20 percent of the estimated amounts for such services calculated on the basis established by the Secretary under subparagraph (B) and the deductible amount imposed by section 1395<i>l</i>(b) of this title.
 
-(B) The Secretary shall prescribe in regulations any methods and procedures to (i) determine the costs incurred by providers of services and renal dialysis facilities in furnishing covered services to individuals determined to have end stage renal disease, and (ii) determine, on a cost-related basis or other economical and equitable basis (including any basis authorized under section 1395x(v) of this title) and consistent with any regulations promulgated under paragraph (7), the amounts of payments to bemade for part B services furnished by such providers and facilities to such individuals.
+(B) The Secretary shall prescribe in regulations any methods and procedures to (i) determine the costs incurred by providers of services and renal dialysis facilities in furnishing covered services to individuals determined to have end stage renal disease, and (ii) determine, on a cost-related basis or other economical and equitable basis (including any basis authorized under section 1395x(v) of this title) and consistent with any regulations promulgated under paragraph (7), the amounts of payments to be made for part B services furnished by such providers and facilities to such individuals.
 
 (C) Such regulations, in the case of services furnished by proprietary providers and facilities (other than hospital outpatient departments) may include, if the Secretary finds it feasible and appropriate, provision for recognition of a reasonable rate of return on equity capital, providing such rate of return does not exceed the rate of return stipulated in section 1395x(v)(1)(B) of this title.
 
@@ -76,7 +76,7 @@ The benefits provided by parts A and B of this subchapter shall include benefits
 
 (9) For purposes of this subchapter, the term “self-care home dialysis support services”, to the extent permitted in regulation, means—
 
-&emsp;(A) periodic monitoring of the patient's home adaptation, including visits by qualified provider or facility personnel (as defined in regulations), so long as this is done in accordance with a plan prepared and periodically reviewed by a professional team (as defined in regulations) including the individual's physician;
+&emsp;(A) periodic monitoring of the patient's home adaptation, including visits by qualifiedprovider or facility personnel (as defined in regulations), so long as this is done in accordance with a plan prepared and periodically reviewed by a professional team (as defined in regulations) including the individual's physician;
 
 &emsp;(B) installation and maintenance of dialysis equipment;
 
@@ -122,7 +122,7 @@ The benefits provided by parts A and B of this subchapter shall include benefits
 
 (E)(i) Such system shall be designed to result in the same aggregate amount of expenditures for such services, as estimated by the Secretary, as would have been made for 2005 if this paragraph did not apply.
 
-(ii) The adjustment made under subparagraph (B)(ii)(II) shall be done in a manner to result in the same aggregate amount of expenditures after such adjustment as would otherwise have been made for such services for 2006 or 2007, respectively, as estimated by the Secretary, if this paragraph did not apply.
+(ii) The adjustment made under subparagraph (B)(ii)(II) shall be done in a manner to result inthe same aggregate amount of expenditures after such adjustment as would otherwise have been made for such services for 2006 or 2007, respectively, as estimated by the Secretary, if this paragraph did not apply.
 
 (F) Beginning with 2006, the Secretary shall annually increase the basic case-mix adjusted payment amounts established under this paragraph, by an amount determined by—
 
@@ -142,7 +142,7 @@ The benefits provided by parts A and B of this subchapter shall include benefits
 
 &emsp;(iv) furnished on or after January 1, 2010, by 1.0 percent above the amount of such composite rate component for such services furnished on December 31, 2009.
 
-(H) There shall be no administrative or judicial review under section 1395ff of this title, section 1395<i>oo</i> of this title, or otherwise, of the case-mix system, relative weights, paymentamounts, the geographic adjustment factor, or the update for the system established under this paragraph, or the determination of the difference between medicare payment amounts and acquisition costs for separately billed drugs and biologicals (including erythropoietin) under this paragraph and paragraph (13).
+(H) There shall be no administrative or judicial review under section 1395ff of this title, section 1395<i>oo</i> of this title, or otherwise, of the case-mix system, relative weights, payment amounts, the geographic adjustment factor, or the update for the system established under this paragraph, or the determination of the difference between medicare payment amounts and acquisition costs for separately billed drugs and biologicals (including erythropoietin) under this paragraph and paragraph (13).
 
 (13)(A) Subject to paragraph (14), the payment amounts under this subchapter for separately billed drugs and biologicals furnished in a year, beginning with 2004, are as follows:
 
@@ -270,7 +270,7 @@ The benefits provided by parts A and B of this subchapter shall include benefits
 
 &emsp;(E) such other analyses relating to the treatment and management of end stage renal disease as will assist the Congress in evaluating the end stage renal disease program under this section.
 
-> The Secretary shall provide for such coordination of data collection activities, and such consolidation of existing end stage renal disease data systems, as is necessary to achieve the purpose of such registry, shall determine the appropriate location of the registry, and shall providefor the appointment of a professional advisory group to assist the Secretary in the formulation of policies and procedures relevant to the management of such registry.
+> The Secretary shall provide for such coordination of data collection activities, and such consolidation of existing end stage renal disease data systems, as is necessary to achieve the purpose of such registry, shall determine the appropriate location of the registry, and shall provide for the appointment of a professional advisory group to assist the Secretary in the formulation of policies and procedures relevant to the management of such registry.
 
 (8) The provisions of sections 1320c–6 and 1320c–9 of this title shall apply with respect to network administrative organizations (including such organizations as medical review boards) with which the Secretary has entered into agreements under this subsection.
 
@@ -298,7 +298,7 @@ Notwithstanding any provision to the contrary in section 426 of this title any i
 
 (1) The Secretary shall initiate and carry out, at selected locations in the United States, pilot projects under which financial assistance in the purchase of new or used durable medical equipment for renal dialysis is provided to individuals suffering from end stage renal disease at the time home dialysis is begun, with provision for a trial period to assure successful adaptation to home dialysis before the actual purchase of such equipment.
 
-(2) The Secretary shall conduct experiments to evaluate methods for reducing the costs of the end stage renal disease program. Such experiments shall include (without being limited to) reimbursement for nurses and dialysis technicians to assist with home dialysis, and reimbursement to family members assisting with home dialysis.
+(2) The Secretary shall conduct experiments to evaluate methods for reducing the costs of the end stage renal disease program. Such experiments shall include (without being limited to)reimbursement for nurses and dialysis technicians to assist with home dialysis, and reimbursement to family members assisting with home dialysis.
 
 (3) The Secretary shall conduct experiments to evaluate methods of dietary control for reducing the costs of the end stage renal disease program, including (without being limited to) the use of protein-controlled products to delay the necessity for, or reduce the frequency of, dialysis in the treatment of end stage renal disease.
 
@@ -312,7 +312,7 @@ Notwithstanding any provision to the contrary in section 426 of this title any i
 
 (B) With respect to dialysis services furnished on or after January 1, 1988 (or July 1, 1988, with respect to protocols that relate to the reuse of bloodlines), no dialysis facility may reuse dialysis supplies (other than dialyzer filters) unless the Secretary has established a protocol with respect to the reuse of such supplies and the facility follows the protocol so established.
 
-(C) The Secretary shall incorporate protocols established under this paragraph, and the requirement of subparagraph (B), into the requirements for facilities prescribed under subsection\(b)(1)(A) of this section and failure to follow such a protocol or requirement subjects such a facility to denial of participation in the program established under this section and to denial of payment for dialysis treatment not furnished in compliance with such a protocol or in violation of such requirement.
+(C) The Secretary shall incorporate protocols established under this paragraph, and the requirement of subparagraph (B), into the requirements for facilities prescribed under subsection (b)(1)(A) of this section and failure to follow such a protocol or requirement subjects such a facility to denial of participation in the program established under this section and to denial of payment for dialysis treatment not furnished in compliance with such a protocol or in violation of such requirement.
 
 (8) The Secretary shall submit to the Congress no later than October 1, 1979, a full report on the experiments conducted under paragraphs (1), (2), (3), and (7), and the studies under paragraphs (4), (5), (6), and (7). Such report shall include any recommendations for legislative changes which the Secretary finds necessary or desirable as a result of such experiments and studies.
 
@@ -382,7 +382,7 @@ Notwithstanding any provision to the contrary in section 426 of this title any i
 
 #### (D) Consideration
 
-&emsp;&emsp;In specifying measures under subparagraph (A), the Secretary shall consider theavailability of measures that address the unique treatment needs of children and young adults with kidney failure.
+&emsp;&emsp;In specifying measures under subparagraph (A), the Secretary shall consider the availability of measures that address the unique treatment needs of children and young adults with kidney failure.
 
 #### (3) Performance scores
 
@@ -474,8 +474,6 @@ Notwithstanding any provision to the contrary in section 426 of this title any i
 
 #### References in Text
 
-Parts A and B, referred to in text, are classified to sections 1395c et seq. and 1395j et seq., respectively, of this title.
-
 Section 1395x(s)(2)(P) of this title, referred to in subsec. (b)(1), was redesignated section 1395x(s)(2)(O) of this title by Pub. L. 103–432, title I, §147(f)(6)(B)(iii)(II), Oct. 31, 1994, 108 Stat. 4432.
 
 Section 422(a)(2) of the Medicare, Medicaid, and SCHIP Benefits Improvement and Protection Act of 2000, referred to in subsec. (b)(7), is section 1(a)(6) \[title IV, §422(a)(2)\] of Pub. L. 106–554, which is set out as a note under this section.
@@ -512,7 +510,7 @@ Pub. L. 109–171, §5106(3), added subpar. (G). Former subpar. (G) redesignated
 
 Subsec. (b)(12)(H). Pub. L. 109–171, §5106(2), redesignated subpar. (G) as (H).
 
-<b>2003</b>—Subsec. (b)(7). Pub. L. 108–173, §623(a), (b)(2), (d)(2), in first sentence substituted “Subject to paragraph (12), the Secretary” for “The Secretary”, in fourth sentence substituted “Subject to section 422(a)(2) of the Medicare, Medicaid, and SCHIP Benefits Improvement and Protection Act of 2000, the Secretary” for “The Secretary”, and, in concluding provisions, struck out “and” before “for such services furnished on or after January 1, 2001,”, inserted “and before January 1, 2005,” after “January 1, 2001,”, and inserted “, and for such services furnished on or after January 1, 2005, by 1.6 percent above such compositerate payment amounts for such services furnished on December 31, 2004” before period at end.
+<b>2003</b>—Subsec. (b)(7). Pub. L. 108–173, §623(a), (b)(2), (d)(2), in first sentence substituted “Subject to paragraph (12), the Secretary” for “The Secretary”, in fourth sentence substituted “Subject to section 422(a)(2) of the Medicare, Medicaid, and SCHIP Benefits Improvement and Protection Act of 2000, the Secretary” for “The Secretary”, and, in concluding provisions, struck out “and” before “for such services furnished on or after January 1, 2001,”, inserted “and before January 1, 2005,” after “January 1, 2001,”, and inserted “, and for such services furnished on or after January 1, 2005, by 1.6 percent above such composite rate payment amounts for such services furnished on December 31, 2004” before period at end.
 
 Subsec. (b)(11)(B). Pub. L. 108–173, §623(d)(3), inserted “subject to paragraphs (12) and (13)” before “payment for such item” in introductory provisions.
 
@@ -848,7 +846,7 @@ Auditing of Cost Reports.—Beginning with cost reports for 1996, the Secretary 
 
 “(b)
 
-Implementation of Quality Standards.—The Secretary of Health and Human Services shall develop,by not later than January 1, 1999, and implement, by not later than January 1, 2000, a method to measure and report quality of renal dialysis services provided under the medicare program under title XVIII of the Social Security Act \[this subchapter\].”
+Implementation of Quality Standards.—The Secretary of Health and Human Services shall develop, by not later than January 1, 1999, and implement, by not later than January 1, 2000, a method to measure and report quality of renal dialysis services provided under the medicare program under title XVIII of the Social Security Act \[this subchapter\].”
 
 #### PROPAC Study on ESRD Composite Rates
 
@@ -922,7 +920,7 @@ In general.—Under the demonstration project established under subsection (a), 
 
 Services described.—For purposes of subparagraph (A), the term ‘services of a home hemodialysis staff assistant’ means—
 
-&emsp;&emsp;&emsp;“(i) technical assistance with the operation of a hemodialysis machine in the patient's home and with such patient's care during in-home hemodialysis; and
+&emsp;&emsp;&emsp;“(i) technical assistance with the operation of a hemodialysis machine in the patient's home andwith such patient's care during in-home hemodialysis; and
 
 &emsp;&emsp;&emsp;“(ii) administration of medications within the patient's home to maintain the patency of the extra corporeal circuit.
 
@@ -952,7 +950,7 @@ Determination of payment amount.—(i) The amount of payment made under subparag
 
 &emsp;&emsp;&emsp;“(I) the national median hourly wage for a home hemodialysis staff assistant and the national median average time expended for home hemodialysis staff assistant services shall be determined annually on the basis of the most recent data available, and
 
-&emsp;&emsp;&emsp;“(II) the national median hourly wage for a home hemodialysis staff assistant shall be the sum of 65 percent of the national median hourly wage for a licensed practical nurse and 35 percentof the national median hourly wage for a registered nurse.
+&emsp;&emsp;&emsp;“(II) the national median hourly wage for a home hemodialysis staff assistant shall be the sum of 65 percent of the national median hourly wage for a licensed practical nurse and 35 percent of the national median hourly wage for a registered nurse.
 
 &emsp;&emsp;“(C)
 

@@ -42,7 +42,7 @@
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 96–478, Oct. 21, 1980, 94 Stat. 2297, known as the “Act to Prevent Pollution from Ships”. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 96–478, Oct. 21, 1980, 94 Stat. 2297, known as the “Act to Prevent Pollution from Ships”, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 Presidential Proclamation 5928, referred to in subsec. (a)(7), is set out under section 1331 of Title 43, Public Lands.
 
@@ -184,7 +184,7 @@ Pub. L. 106–554, §1(a)(4) \[div. B, title XIV\], Dec. 21, 2000, 114 Stat. 276
 
 “(b) The Administrator, in consultation with the Secretary, may promulgate regulations allowing the discharge of treated sewage or graywater, otherwise prohibited under paragraphs (a)(1) and (a)(2) of this section, where the discharge meets effluent standards determined by the Administrator as appropriate for discharges into the marine environment. In promulgating such regulations, the Administrator shall take into account the best available scientific information on the environmental effects of the regulated discharges. The effluent discharge standards promulgated under this section shall, at a minimum, be consistent with all relevant State of Alaska water quality standards in force at the time of the enactment of this title \[Dec. 21, 2000\].
 
-“(c) Until such time as the Administrator promulgates regulations under paragraph (b) of this section, treated sewage and graywater may be discharged from vessels subject to this title in circumstances otherwiseprohibited under paragraphs (a)(1) and (a)(2) of this section, provided that—
+“(c) Until such time as the Administrator promulgates regulations under paragraph (b) of this section, treated sewage and graywater may be discharged from vessels subject to this title in circumstances otherwise prohibited under paragraphs (a)(1) and (a)(2) of this section, provided that—
 
 &emsp;“(1) the discharge satisfies the minimum level of effluent quality specified in 40 CFR 133.102, as in effect on the date of enactment of this section \[Dec. 21, 2000\];
 
@@ -286,7 +286,7 @@ Collection.—If any person fails to pay an assessment of a civil penalty—
 
 &emsp;&emsp;“(A) after the assessment has become final, or
 
-&emsp;&emsp;“(B) after a court in an action brought under subsection (6) has entered a final judgment in favor of the Administrator or Secretary, as the case may be, the Administrator or Secretary shall request the Attorney General to bring a civil action in an appropriate district court to recover the amount assessed (plus interest at currently prevailing rates from the date of the final order or the date of the final judgment, as the case may be). In such an action, the validity, amount, and appropriateness of such penalty shall not be subject to review. Any person who fails to pay on a timely basis the amount of an assessment of a civil penalty as described in the first sentence of this subparagraph shall be required to pay, in addition to such amount and interest, attorneys fees and costs for collection proceedings and a quarterly nonpayment penalty for each quarter during which such failure to pay persists. Such nonpayment penalty shall be in an amount equal to 20 percent of the aggregate amount of such person's penalties and nonpayment penalties which are unpaid as of the beginning of such quarter.
+&emsp;&emsp;“(B) after a court in an action brought under subsection (6) has entered a final judgment in favor of the Administrator or Secretary, as the case may be, the Administrator or Secretary shall request the Attorney General to bring a civil action in an appropriate district court to recover the amount assessed (plus interest at currently prevailing rates from the date of the final order or the date of the final judgment, as the case may be). In such an action, the validity, amount, and appropriateness of such penalty shall not be subject to review. Any person who fails to pay on a timely basis the amount of an assessment of a civil penalty as described in the first sentence of this subparagraphshall be required to pay, in addition to such amount and interest, attorneys fees and costs for collection proceedings and a quarterly nonpayment penalty for each quarter during which such failure to pay persists. Such nonpayment penalty shall be in an amount equal to 20 percent of the aggregate amount of such person's penalties and nonpayment penalties which are unpaid as of the beginning of such quarter.
 
 &emsp;“(8)
 
@@ -332,7 +332,7 @@ False statements.—Any person who knowingly makes any false statement, represen
 
 Awards.—
 
-&emsp;“(1) The Secretary, the Administrator, or the court, when assessing any fines or civil penalties, as the case may be, may pay from any fines or civil penalties collected under this section an amount not to exceed one-half of the penalty or fine collected, to any individual who furnishes information which leads to the payment of the penalty or fine. If several individuals provide such information, the amount shallbe divided equitably among such individuals. No officer or employee of the United States, the State of Alaska or any federally recognized Tribe who furnishes information or renders service in the performance of his or her official duties shall be eligible for payment under this subsection.
+&emsp;“(1) The Secretary, the Administrator, or the court, when assessing any fines or civil penalties, as the case may be, may pay from any fines or civil penalties collected under this section an amount not to exceed one-half of the penalty or fine collected, to any individual who furnishes information which leads to the payment of the penalty or fine. If several individuals provide such information, the amount shall be divided equitably among such individuals. No officer or employee of the United States, the State of Alaska or any federally recognized Tribe who furnishes information or renders service in the performance of his or her official duties shall be eligible for payment under this subsection.
 
 &emsp;“(2) The Secretary, Administrator or the court, when assessing any fines or civil penalties, as the case may be, may pay, from any fines or civil penalties collected under this section, to the State of Alaska or to any federally recognized Tribe providing information or investigative assistance which leads to payment of the penalty or fine, an amount which reflects the level of information or investigative assistance provided. Should the State of Alaska or a federally recognized Tribe and an individual under paragraph (1) of this section be eligible for an award, the Secretary, the Administrator, or the court, as the case may be, shall divide the amount equitably.
 
@@ -358,7 +358,7 @@ Civil Actions.—The Administrator is authorized to commence a civil action for 
 
 #### “SEC. 1410. DESIGNATION OF CRUISE VESSEL NO-DISCHARGE ZONES.
 
-“If the State of Alaska determines that the protection and enhancement of the quality of some or all of the waters of the Alexander Archipelago or the navigable waters of the United States within the State of Alaska or within the Kachemak Bay National Estuarine Research Reserve require greater environmental protection, the State of Alaska may petition the Administrator to prohibit the discharge of graywater and sewage from cruise vessels operating in such waters. The establishment of such a prohibition shall be achieved in the same manner as the petitioning process and prohibition of the discharge of sewage pursuant to section 312(f) of the Federal Water Pollution Control Act \[33 U.S.C. 1322(f)\], as amended, and the regulations promulgated thereunder.
+“If the State of Alaska determines that the protection and enhancement of the quality of some or all of the waters of the Alexander Archipelago or the navigable waters of the United States within the State of Alaska or within the Kachemak Bay National Estuarine Research Reserve require greater environmental protection, the State of Alaska may petition the Administrator to prohibit the discharge of graywater and sewage from cruise vessels operating in such waters. The establishment of such a prohibition shall be achieved in the same manner as the petitioning process and prohibition of the discharge of sewage pursuant tosection 312(f) of the Federal Water Pollution Control Act \[33 U.S.C. 1322(f)\], as amended, and the regulations promulgated thereunder.
 
 #### “SEC. 1411. SAVINGS CLAUSE.
 

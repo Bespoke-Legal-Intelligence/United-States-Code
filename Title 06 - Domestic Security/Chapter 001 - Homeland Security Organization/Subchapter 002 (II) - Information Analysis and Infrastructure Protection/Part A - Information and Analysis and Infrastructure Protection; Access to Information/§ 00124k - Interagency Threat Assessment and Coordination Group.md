@@ -120,7 +120,7 @@ The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the ITACG 
 
 #### (i) Authorization of appropriations
 
-There are authorized to be appropriated such sums as may be necessary for each of fiscalyears 2008 through 2012 to carry out this section, including to obtain security clearances for the State, local, and tribal participants in the ITACG.
+There are authorized to be appropriated such sums as may be necessary for each of fiscal years 2008 through 2012 to carry out this section, including to obtain security clearances for the State, local, and tribal participants in the ITACG.
 
 (Pub. L. 107–296, title II, §210D, as added Pub. L. 110–53, title V, §521(a), Aug. 3, 2007, 121 Stat. 328; amended Pub. L. 111–258, §5(b)(2), (c), Oct. 7, 2010, 124 Stat. 2650, 2651.)
 
@@ -130,7 +130,7 @@ The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–
 
 #### Amendments
 
-2010—Subsec. (c). Pub. L. 111–258, §5(c)(1), struck out “, in consultation with the Information Sharing Council,” after “program manager” in introductory provisions.
+<b>2010</b>—Subsec. (c). Pub. L. 111–258, §5(c)(1), struck out “, in consultation with the Information Sharing Council,” after “program manager” in introductory provisions.
 
 Subsec. (c)(3). Pub. L. 111–258, §5(c)(2)–(4), added par. (3).
 

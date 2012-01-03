@@ -80,13 +80,13 @@ The paragraph added by this section is based on 5 U.S.C. 8713(a), and is restate
 
 #### Amendments
 
-1995—Subsec. (a). Pub. L. 104–52, §1(1)(B), struck out closing provisions which read as follows: “except that the Director may not delegate authority for competitive examinations with respect to positions that have requirements which are common to agencies in the Federal Government, other than in exceptional cases in which the interests of economy and efficiency require such delegation and in which such delegation will not weaken the application of the merit system principles.”
+<b>1995</b>—Subsec. (a). Pub. L. 104–52, §1(1)(B), struck out closing provisions which read as follows: “except that the Director may not delegate authority for competitive examinations with respect to positions that have requirements which are common to agencies in the Federal Government, other than in exceptional cases in which the interests of economy and efficiency require such delegation and in which such delegation will not weaken the application of the merit system principles.”
 
 Subsec. (a)(2). Pub. L. 104–52, §1(1)(A), inserted “, the cost of which examinations shall be reimbursed by payments from the agencies employing such judges to the revolving fund established under section 1304(e)” after “title” and substituted period for semicolon at end.
 
 Subsec. (b)(4). Pub. L. 104–52, §1(2), added par. (4).
 
-1978—Pub. L. 95–454 substituted “Delegation of authority for personnel management” for “Functions of Chairman” in section catchline, and in text provisions relating to the delegation of authority for personnel management for provisions relating to functions of the Chairman of the United States Civil Service Commission.
+<b>1978</b>—Pub. L. 95–454 substituted “Delegation of authority for personnel management” for “Functions of Chairman” in section catchline, and in text provisions relating to the delegation of authority for personnel management for provisions relating to functions of the Chairman of the United States Civil Service Commission.
 
 #### Effective Date of 1978 Amendment
 

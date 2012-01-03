@@ -50,8 +50,6 @@ To the extent funds are available therefor, the Secretary shall provide technica
 
 #### References in Text
 
-Part E of this subchapter, referred to in subsec. (a)(2)(A), is classified to section 670 et seq. of this title.
-
 The enactment of the Adoption and Safe Families Act of 1997, referred to in subsec. (c)(4), is the enactment of Pub. L. 105–89, which was approved Nov. 19, 1997.
 
 #### Prior Provisions

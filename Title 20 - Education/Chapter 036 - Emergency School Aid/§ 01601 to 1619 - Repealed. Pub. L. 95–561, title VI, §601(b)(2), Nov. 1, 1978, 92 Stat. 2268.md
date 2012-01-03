@@ -16,7 +16,7 @@ Section 1607, Pub. L. 92–318, title VII, §708, June 23, 1972, 86 Stat. 360; P
 
 Section 1608, Pub. L. 92–318, title VII, §709, June 23, 1972, 86 Stat. 361; Pub. L. 93–380, title II, §222, title VI, §642(b), Aug. 21, 1974, 88 Stat. 519, 587; Pub. L. 94–482, title V, §501(i), Oct. 12, 1976, 90 Stat. 2237, related to availability of sums for metropolitan area projects.
 
-Section 1609, Pub. L. 92–318, title VII, §710, June 23, 1972, 86 Stat. 362; Pub. L. 93–380, title VI, §643(c), Aug.21, 1974, 88 Stat. 587; Pub. L. 94–482, title III, §323(a)(5), Oct. 12, 1976, 90 Stat. 2218, related to applications for assistance.
+Section 1609, Pub. L. 92–318, title VII, §710, June 23, 1972, 86 Stat. 362; Pub. L. 93–380, title VI, §643(c), Aug. 21, 1974, 88 Stat. 587; Pub. L. 94–482, title III, §323(a)(5), Oct. 12, 1976, 90 Stat. 2218, related to applications for assistance.
 
 Section 1610, Pub. L. 92–318, title VII, §711, June 23, 1972, 86 Stat. 366, related to availability of funds for educational television.
 

@@ -46,7 +46,7 @@ The prohibitions contained in sections 3202 and 3203 of this title shall not app
 
 &emsp;(9) Any savings association (as defined in section 10(a)(1)(A) of the Home Owners’ Loan Act \[12 U.S.C. 1467a(a)(1)(A)\] or any savings and loan holding company (as defined in section 10(a)(1)(D) of such Act) which has issued stock in connection with a qualified stock issuance pursuant to section 10(q) of such Act, except that this paragraph shall apply only with respect to service as a single management official of such savings association or holding company, or any subsidiary of such savings association or holding company, by a single management official of the savings and loan holding company which purchased the stock issued in connection with such qualified stock issuance, and shall apply only when the Director of the Office of Thrift Supervision has determined that such service is consistent with the purposes of this chapter and the Home Owners’ Loan Act \[12 U.S.C. 1461 et seq.\].
 
-(Pub. L. 95–630, title II, §205, Nov. 10, 1978, 92 Stat. 3673; Pub. L. 97–320, title IV, §425(d), Oct. 15, 1982, 96 Stat. 1524; Pub. L. 100–650, §§4, 5(a), Nov. 10, 1988, 102 Stat. 3819; Pub. L. 101–73, title VI, §604(a), Aug. 9, 1989, 103 Stat. 410.)
+(Pub. L. 95–630, title II, §205, Nov. 10, 1978, 92 Stat. 3673; Pub. L. 97–320, title IV, §425(d), Oct.15, 1982, 96 Stat. 1524; Pub. L. 100–650, §§4, 5(a), Nov. 10, 1988, 102 Stat. 3819; Pub. L. 101–73, title VI, §604(a), Aug. 9, 1989, 103 Stat. 410.)
 
 #### References in Text
 
@@ -60,13 +60,13 @@ The Home Owners’ Loan Act, referred to in par. (9), is act June 13, 1933, ch. 
 
 #### Amendments
 
-1989—Par. (9). Pub. L. 101–73 added par. (9).
+<b>1989</b>—Par. (9). Pub. L. 101–73 added par. (9).
 
-1988—Par. (7). Pub. L. 100–650, §4, added par. (7).
+<b>1988</b>—Par. (7). Pub. L. 100–650, §4, added par. (7).
 
 Par. (8). Pub. L. 100–650, §5(a), added par. (8).
 
-1982—Par. (2). Pub. L. 97–320 substituted “25(a)” for “25A”.
+<b>1982</b>—Par. (2). Pub. L. 97–320 substituted “25(a)” for “25A”.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

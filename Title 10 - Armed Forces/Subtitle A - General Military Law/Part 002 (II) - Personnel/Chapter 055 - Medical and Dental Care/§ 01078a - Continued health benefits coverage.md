@@ -2,7 +2,7 @@
 
 (a)
 
-Provision of Continued Health Coverage.—The Secretary of Defense shall implement and carry out a program of continuedhealth benefits coverage in accordance with this section to provide persons described in subsection (b) with temporary health benefits comparable to the health benefits provided for former civilian employees of the Federal Government and other persons under section 8905a of title 5.
+Provision of Continued Health Coverage.—The Secretary of Defense shall implement and carry out a program of continued health benefits coverage in accordance with this section to provide persons described in subsection (b) with temporary health benefits comparable to the health benefits provided for former civilian employees of the Federal Government and other persons under section 8905a of title 5.
 
 (b)
 
@@ -36,7 +36,7 @@ Eligible Persons.—The persons referred to in subsection (a) are the following:
 
 (c)
 
-Notification of Eligibility.—(1) The Secretary of Defense shall prescribe regulations to provide for persons described in subsection (b) to be notified of eligibility to receive health benefits under this section.
+Notification of Eligibility.—(1) The Secretary of Defense shall prescribe regulations to provide for persons described in subsection (b) tobe notified of eligibility to receive health benefits under this section.
 
 (2) In the case of a member who becomes (or will become) eligible for continued coverage under subsection (b)(1), the regulations shall provide for the Secretary concerned to notify the member of the member's rights under this section as part of preseparation counseling conducted under section 1142 of this title or any other provision of other law.
 
@@ -68,7 +68,7 @@ Election of Coverage.—In order to obtain continued coverage under this section
 
 &emsp;(B) Notwithstanding subparagraph (A), if the Secretary concerned determines that the dependent's parent has failed to provide the notice referred to in subsection (c)(3)(A) with respect to the dependent in a timely fashion, the 60-day period under this paragraph shall be based only on the date under subparagraph (A)(i).
 
-&emsp;(3) In the case of a former spouse of a member or a former member who becomes eligiblefor continued coverage under subsection (b)(3), the written election shall be submitted to the Secretary concerned before the end of the 60-day period beginning on the later of—
+&emsp;(3) In the case of a former spouse of a member or a former member who becomes eligible for continued coverage under subsection (b)(3), the written election shall be submitted to the Secretary concerned before the end of the 60-day period beginning on the later of—
 
 &emsp;&emsp;(A) the date as of which the former spouse first ceases to meet the requirements for being considered a dependent under section 1072(2) of this title; or
 
@@ -122,7 +122,7 @@ Period of Continued Coverage.—(1) Continued coverage under this section may no
 
 &emsp;(II) for whom a court order (as defined in section 1408(a)(2) of this title) has been issued for payment of any portion of the retired or retainer pay or for whom a court order (as defined in section 1447(13) of this title) or a written agreement (whether voluntary or pursuant to a court order) provides for an election by the member or former member to provide an annuity to the former spouse.
 
-(Added Pub. L. 102–484, div. D, title XLIV, §4408(a)(1), Oct. 23, 1992, 106 Stat. 2708; amended Pub. L. 103–35, title II, §201(g)(1), May 31, 1993, 107 Stat. 99; Pub. L. 103–337, div. A, title VII, §702(c), Oct. 5, 1994, 108 Stat. 2798; Pub. L. 104–201, div. A, title X, §1074(a)(4), Sept. 23, 1996, 110 Stat. 2658; Pub. L. 105–85, div. A, title X,§1073(a)(17), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 108–136, div. A, title VII, §713(a), Nov. 24, 2003, 117 Stat. 1530; Pub. L. 110–181, div. A, title VII, §705, Jan. 28, 2008, 122 Stat. 189.)
+(Added Pub. L. 102–484, div. D, title XLIV, §4408(a)(1), Oct. 23, 1992, 106 Stat. 2708; amended Pub. L. 103–35, title II, §201(g)(1), May 31, 1993, 107 Stat. 99; Pub. L. 103–337, div. A, title VII, §702(c), Oct. 5, 1994, 108 Stat. 2798; Pub. L. 104–201, div. A, title X, §1074(a)(4), Sept. 23, 1996, 110 Stat. 2658; Pub. L. 105–85, div. A, title X, §1073(a)(17), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 108–136, div. A, title VII, §713(a), Nov. 24, 2003, 117 Stat. 1530; Pub. L. 110–181, div. A, title VII, §705, Jan. 28, 2008, 122 Stat. 189.)
 
 #### Amendments
 

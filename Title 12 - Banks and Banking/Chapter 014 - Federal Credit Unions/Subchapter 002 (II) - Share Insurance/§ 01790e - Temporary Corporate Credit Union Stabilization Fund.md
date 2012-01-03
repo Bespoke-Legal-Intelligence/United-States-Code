@@ -34,11 +34,21 @@ Money in the Stabilization Fund shall be available upon requisition by the Board
 
 #### (3) Repayment schedule
 
-&emsp;The Stabilization Fund shall repay the advances on a first-in, first-out basis, with interest on the amount repaid, at times and dates determined by the Board at its discretion. All advances shall be repaid not later than the date of the seventh anniversary of the first advance to the Stabilization Fund, unless the Board extends this final repayment date. The Board shall obtain the concurrence of the Secretary of the Treasury on any proposed extension, including the terms and conditions of the extended repayment.
+&emsp;The Stabilization Fund shall repay the advances on a first-in, first-out basis, with interest on the amount repaid, at times and dates determined by the Board at its discretion. All advances shall be repaid not later than the date of the seventh anniversary of the first advance to the Stabilization Fund, unless the Board extends this final repayment date. The Board shall obtain the concurrence of the Secretary of the Treasury on any proposed extension, including the terms and conditions of the extended repayment and any additional advances.
 
-#### (d) Assessment to repay advances
+#### (d) Assessment authority
 
-At least 90 days prior to each repayment described in subsection (c)(3), the Board shall set the amount of the upcoming repayment and determine if the Stabilization Fund will have sufficient funds to make the repayment. If the Stabilization Fund might not have sufficient funds to make the repayment, the Board shall assess each federally insured credit union a special premium due and payable within 60 days in an aggregate amount calculated to ensure the Stabilization Fund is able to make the repayment. The premium charge for each credit union shall be stated as a percentage of its insured shares as represented on the credit union's previous call report. The percentage shall be identical for each credit union. Any credit union that fails to make timely payment of the special premium is subject to the procedures and penalties described under subsections (d), (e), and (f) of section 1782 of this title.
+#### (1) Assessments relating to expenditures under subsection (b)
+
+&emsp;In order to make expenditures, as described in subsection (b), the Board may assess a special premium with respect to each insured credit union in an aggregate amount that is reasonably calculated to make any pending or future expenditure described in subsection (b), which premium shall be due and payable not later than 60 days after the date of the assessment. In setting the amount of any assessment under this subsection, the Board shall take into consideration any potential impact on credit union earnings that such an assessment may have.
+
+#### (2) Special premiums relating to repayments under subsection (c)(3)
+
+&emsp;Not later than 90 days before the scheduled date of each repayment described in subsection (c)(3), the Board shall set the amount of the upcoming repayment and shall determine whether the Stabilization Fund will have sufficient funds to make the repayment. If the Stabilization Fund is not likely to have sufficient funds to make the repayment, the Board shall assess with respect to each insured credit union a special premium, which shall be due and payable not later than 60 days after the date of the assessment, in an aggregate amount calculated to ensure that the Stabilization Fund is able to make the required repayment.
+
+#### (3) Computation
+
+&emsp;Any assessment or premium charge for an insured credit union under this subsection shall be stated as a percentage of its insuredshares, as represented on the previous call report of that insured credit union. The percentage shall be identical for each insured credit union. Any insured credit union that fails to make timely payment of the assessment or special premium is subject to the procedures and penalties described under subsections (d), (e), and (f) of section 1782 of this title.
 
 #### (e) Distributions from Insurance Fund
 
@@ -56,5 +66,13 @@ The Board shall submit an annual report to Congress on the financial condition a
 
 Within 90 days following the seventh anniversary of the initial Stabilization Fund advance, or earlier at the Board's discretion, the Board shall distribute any funds, property, or other assets remaining in the Stabilization Fund to the Insurance Fund and shall close the Stabilization Fund. If the Board extends the final repayment date as permitted under subsection (c)(3), the mandatory date for closing the Stabilization Fund shall be extended by the same number of days.
 
-(June 26, 1934, ch. 750, title II, §217, as added Pub. L. 111–22, div. A, title II, §204(f)(1), May 20, 2009, 123 Stat. 1651.)
+(June 26, 1934, ch. 750, title II, §217, as added Pub. L. 111–22, div. A, title II, §204(f)(1), May 20, 2009, 123 Stat. 1651; amended Pub. L. 111–382, §1, Jan. 4, 2011, 124 Stat. 4134.)
+
+#### Amendments
+
+<b>2011</b>—Subsec. (c)(3). Pub. L. 111–382, §1(a), inserted “and any additional advances” before period at end.
+
+Subsec. (d). Pub. L. 111–382, §1(b), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows:
+
+“At least 90 days prior to each repayment described in subsection (c)(3), the Board shall set the amount of the upcoming repayment and determine if the Stabilization Fund will have sufficient funds to make the repayment. If the Stabilization Fund might not have sufficient funds to make the repayment, the Board shall assess each federally insured credit union a special premium due and payable within 60 days in an aggregate amount calculated to ensure the Stabilization Fund is able to make the repayment. The premium charge for each credit union shall be stated as a percentage of its insured shares as represented on the credit union's previous call report. The percentage shall be identical for each credit union. Any credit union that fails to make timely payment of the special premium is subject to the procedures and penalties described under subsections (d), (e), and (f) of section 1782 of this title.”
 

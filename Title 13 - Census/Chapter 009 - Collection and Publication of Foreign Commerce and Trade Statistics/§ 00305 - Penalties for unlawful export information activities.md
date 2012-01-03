@@ -64,7 +64,7 @@ By the secretary of commerce.—The Secretary of Commerce may designate officers
 
 &emsp;(2)
 
-By the commissioner of customs.—The Commissioner of Customs may designate officers or employees of the Customs Service to enforce the provisions of this chapter, or to conduct investigations pursuant to this chapter.
+By the commissioner of customs.—The Commissioner of Customs may designate officers or employees of the Customs Service toenforce the provisions of this chapter, or to conduct investigations pursuant to this chapter.
 
 (e)
 
@@ -78,7 +78,7 @@ Exemption.—The criminal fines provided for in this section are exempt from the
 
 #### Amendments
 
-2002—Pub. L. 107–228 substituted “Penalties for unlawful export information activities” for “Violations, penalties” in section catchline and amended text generally. Prior to amendment, text read as follows: “Any person, including the owners or operators of carriers, violating the provisions of this chapter, or any rule, regulation, or order issued thereunder, except as provided in section 304 above, shall be liable to a penalty not to exceed $1,000 in addition to any other penalty imposed by law. The amount of any such penalty shall be payable into the Treasury of the United States and shall be recoverable in a civil suit in the name of the United States.”
+<b>2002</b>—Pub. L. 107–228 substituted “Penalties for unlawful export information activities” for “Violations, penalties” in section catchline and amended text generally. Prior to amendment, text read as follows: “Any person, including the owners or operators of carriers, violating the provisions of this chapter, or any rule, regulation, or order issued thereunder, except as provided in section 304 above, shall be liable to a penalty not to exceed $1,000 in addition to any other penalty imposed by law. The amount of any such penalty shall be payable into the Treasury of the United States and shall be recoverable in a civil suit in the name of the United States.”
 
 #### Transfer of Functions
 

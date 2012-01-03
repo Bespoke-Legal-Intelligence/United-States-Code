@@ -24,7 +24,7 @@ Historical and Revision Notes
 
 R.S. §1753 (less last 16 words).
 
-The words “civil service in the executive branch” are substituted for “civil service of the United States” to confirm the grant of authority in view of the definition of “civil service” in section 2101. The word “will” is substituted for “may”. The words “for the employment sought” are substituted for “for the branch of service into which he seeks to enter” as the latter are archaic since there are no “branches” within the executive branch. The word “applicant” is substituted for “candidate”.
+The words “civil service in the executive branch” are substituted for “civil service of the United States” to confirm the grant of authority in view of the definition of “civil service” in section 2101. The word “will” is substituted for “may”. The words “for the employment sought” are substituted for “for the branch of serviceinto which he seeks to enter” as the latter are archaic since there are no “branches” within the executive branch. The word “applicant” is substituted for “candidate”.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -132,7 +132,7 @@ Number and Appointment.—The Council shall be composed of 15 members as follows
 
 “(b)
 
-Continuation of Membership.—If any member of the Council whose appointment is based on that individual's holding a Government office or position leaves such office or position, or if any member of the Council under subsection (a)(4)(D) is appointed or elected to a Government office or position, that individual may continue to serve as such a member for not longer than the 90-day period beginning on the date of leaving that office or position, or entering into that office or position, as the case may be.
+Continuation of Membership.—If any member of the Council whose appointment is based on that individual's holding a Government office or position leaves such office or position, or if any member of the Council under subsection (a)(4)(D) is appointed or elected to a Government office or position, that individual may continue to serve as such a member for not longer thanthe 90-day period beginning on the date of leaving that office or position, or entering into that office or position, as the case may be.
 
 “(c)
 
@@ -262,7 +262,7 @@ Section 5. Persons who on the effective date of section 1 of this order are on f
 
 Section 6. (a) Any person who, in order to perform active service with the military or naval forces of the United States, has left a position (other than a temporary position) which is covered into the classified civil service under section 1 of this order, shall be reinstated in such position or to a position of like seniority, status, and pay in the same department or agency, and may, upon reinstatement, acquire a classified civil-service status: <i>Provided</i>, (1) that he has been honorably discharged from the military or naval service, (2) that he makes application for reinstatement within 90 days after termination of his service with the armed forces or of hospitalization continuing after discharge for a period of not more than one year, and (3) that he qualifies in such suitable noncompetitive examination as the Office may prescribe.
 
-(b) Any person who, in order to perform active service with the military or naval forces of the United States, has left a position in any department or agency (other than a temporary position) which is covered into the classified civil service under section 1 of this order, may, upon his applications and upon the request of the head of the same or any other department or agency, be reinstated in any position for which the Office finds he is qualified, and upon reinstatement shall acquire a classified civil-service status: <i>Provided</i>, (1) that he has been honorably discharged from the military or navalservice, and (2) that he qualifies in such suitable noncompetitive examination as the Office may prescribe.
+(b) Any person who, in order to perform active service with the military or naval forces of the United States, has left a position in any department or agency (other than a temporary position) which is covered into the classified civil service under section 1 of this order, may, upon his applications and upon the request of the head of the same or any other department or agency, be reinstated in any position for which the Office finds he is qualified, and upon reinstatement shall acquire a classified civil-service status: <i>Provided</i>, (1) that he has been honorably discharged from the military or naval service, and (2) that he qualifies in such suitable noncompetitive examination as the Office may prescribe.
 
 Section 7. Executive Order No. 8044 of January 31, 1939, is hereby revoked so far as it applies to positions covered into the classified civil service by this order.
 
@@ -272,7 +272,7 @@ Ex. Ord. No. 9367, Aug. 4, 1943, 8 F.R. 11017, which prohibited, with certain ex
 
 #### Ex. Ord. No. 10577. Civil Service Rules
 
-Ex. Ord. No. 10577, Nov. 22, 1954, 19 F.R. 7521, eff. Jan. 23, 1955, as amended by Ex. Ord. No. 10675, Aug. 21, 1956, 21 F.R. 6327; Ex. Ord. No. 10745, Dec. 12, 1957, 22 F.R. 10025; Ex. Ord. No. 12107, §2–101(a), Dec. 28, 1978, 44 F.R. 1055, amended generally the Civil Service Rules, provided for transition from the indefinite appointment system to the career-conditional appointment system, and revoked Ex. Ord. No. 9830, Feb. 24, 1947, 12 F.R. 1259; Ex. Ord. No. 9973, June 28, 1948, 13 F.R. 3600; Ex. Ord. No. 10180, Nov. 13, 1950, 15 F.R. 7745; Ex. Ord. No. 10440, Mar. 31, 1953, 18 F.R. 1823; and Ex. Ord. No. 10463, June 25, 1953, 18 F.R. 3655. The Civil Service Rules are set out in Parts 1 to 10 of Title 5, Code of Federal Regulations. The Civil Service Rules were also amended by the following Executive Orders:
+Ex. Ord. No. 10577, Nov. 22, 1954, 19 F.R. 7521, eff. Jan. 23, 1955, as amended by Ex. Ord. No. 10675, Aug. 21, 1956, 21 F.R. 6327; Ex. Ord. No. 10745, Dec. 12, 1957, 22 F.R.10025; Ex. Ord. No. 12107, §2–101(a), Dec. 28, 1978, 44 F.R. 1055, amended generally the Civil Service Rules, provided for transition from the indefinite appointment system to the career-conditional appointment system, and revoked Ex. Ord. No. 9830, Feb. 24, 1947, 12 F.R. 1259; Ex. Ord. No. 9973, June 28, 1948, 13 F.R. 3600; Ex. Ord. No. 10180, Nov. 13, 1950, 15 F.R. 7745; Ex. Ord. No. 10440, Mar. 31, 1953, 18 F.R. 1823; and Ex. Ord. No. 10463, June 25, 1953, 18 F.R. 3655. The Civil Service Rules are set out in Parts 1 to 10 of Title 5, Code of Federal Regulations. The Civil Service Rules were also amended by the following Executive Orders:
 
 Ex. Ord. No. 10641, Oct. 26, 1955, 20 F.R. 8137, as amended by Ex. Ord. No. 12107, §2–101(a), Dec. 28, 1978, 44 F.R. 1055.
 
@@ -344,7 +344,7 @@ Lyndon B. Johnson.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Executive Order No. 11162
 
-Ex. Ord. No. 11162, July 28, 1964, 29 F.R. 10563, which related to membership of the President's Committee onEqual Employment Opportunity, was superseded by Ex. Ord. No. 11246, Sept. 24, 1965, 30 F.R. 12319, set out as a note under section 2000e of Title 42, The Public Health and Welfare.
+Ex. Ord. No. 11162, July 28, 1964, 29 F.R. 10563, which related to membership of the President's Committee on Equal Employment Opportunity, was superseded by Ex. Ord. No. 11246, Sept. 24, 1965, 30 F.R. 12319, set out as a note under section 2000e of Title 42, The Public Health and Welfare.
 
 #### Executive Order No. 11202
 
@@ -412,7 +412,7 @@ Sec. 3. A person appointed to a nontemporary position in the competitive service
 
 Sec. 4. Any law, Executive order, or regulation that would disqualify an applicant for appointment in the competitive service shall also disqualify a person for appointment under Section 1 of this Order.
 
-Sec. 5. For the purpose of this Order, a person is deemed to be a member of the “Foreign Service” if he was appointed in any agency under authority of the Foreign Service Act of 1946, as amended \[former section801 et seq. of Title 22, Foreign Relations and Intercourse\], the Foreign Service Act of 1980 \[section 3901 et seq. of Title 22\], or legislation that supplements or replaces the latter Act.
+Sec. 5. For the purpose of this Order, a person is deemed to be a member of the “Foreign Service” if he was appointed in any agency under authority of the Foreign Service Act of 1946, as amended \[former section 801 et seq. of Title 22, Foreign Relations and Intercourse\], the Foreign Service Act of 1980 \[section 3901 et seq. of Title 22\], or legislation that supplements or replaces the latter Act.
 
 #### Executive Order No. 11315
 
@@ -602,47 +602,9 @@ Sec. 3. The Director of the Office of Personnel Management shall prescribe such 
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Ex. Ord. No. 13162. Federal Career Intern Program
+#### Executive Order No. 13162
 
-Ex. Ord. No. 13162, July 6, 2000, 65 F.R. 43211, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 3301 and 3302 of title 5, United States Code, and in order to provide for the recruitment and selection of exceptional employees for careers in the public sector, it is hereby ordered as follows:
-
-Section 1. There is hereby constituted the Federal Career Intern Program (Program). The purpose of the Program is to attract exceptional men and women to the Federal workforce who have diverse professional experiences, academic training, and competencies, and to prepare them for careers in analyzing and implementing public programs. “Career Intern” is a generic term, and agencies may use occupational titles as appropriate.
-
-Sec. 2. The Program is another step in the Administration's effort to recruit the highest caliber people to the Federal Government, develop their professional abilities, and retain them in Federal departments and agencies. Cabinet secretaries and agency administrators should view the Program as complementary to existing programs that provide career enhancement opportunities for Federal employees, and departments and agencies are encouraged to identify and make use of those programs, as well as the new Program, to meet department and agency needs.
-
-Sec. 3. (a) The Office of Personnel Management (OPM) shall develop appropriate merit-based procedures for the recruitment, screening, placement, and continuing career development of Career Interns.
-
-(b) In developing those procedures, the OPM shall provide for such actions as deemed appropriate to assure equal employment opportunity and the application of appropriate veterans’ preference criteria.
-
-Sec. 4. (a) A successful candidate shall be appointed to a position in Schedule B of the excepted service at the GS–5, 7, or 9 (and equivalent) or other trainee level appropriate for the Program, unless otherwise approved by the OPM. The appointment shall not exceed 2 years unless extended by the Federal department or agency, with the concurrence of the OPM, for up to 1 additional year.
-
-(b) Tenure for a Career Intern shall be governed by the following principles and policies:
-
-&emsp;(1) Assigned responsibilities shall be consistent with a Career Intern's competencies and career interests, and the purposes of the Program.
-
-&emsp;(2) Continuation in the Program shall be contingent upon satisfactory performance by the Career Intern throughout the internship period.
-
-&emsp;(3) Except as provided in subsections (4) and (5) of this section, service as a Career Intern confers no rights to further Federal employment in either the competitive or excepted service upon the expiration of the internship period.
-
-&emsp;(4) Competitive civil service status may be granted to a Career Intern who satisfactorily completes the internship and meets all other requirements prescribed by the OPM.
-
-&emsp;(5) Within an agency, an employee who formerly held a career or career-conditional appointment immediately before entering the Career Intern Program,and who fails to complete the Career Intern Program for reasons unrelated to misconduct or suitability, shall be placed in a career or career-conditional position in the current agency at no lower grade or pay than the one the employee left to accept the position in the Career Intern Program.
-
-Sec. 5. A Career Intern shall participate in a formal program of training and job assignments to develop competencies that the OPM identifies as core to the Program, and the employing agency identifies as appropriate to the agency's mission and needs.
-
-Sec. 6. The OPM shall prescribe such regulations as it determines necessary to carry out the purpose of this order.
-
-Sec. 7. The OPM shall provide oversight of the Program.
-
-Sec. 8. Executive Order 12596 of May 7, 1987, is revoked.
-
-Sec. 9. <i>Judicial Review</i>. This order is intended only to improve the internal management of the executive branch. It does not create any right or benefit, substantive or procedural, enforceable in law or equity, by a party against the United States, its agencies, its officers or employees, or any other person.
-
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-\[Ex. Ord. No. 13162, set out above, is revoked effective Mar. 1, 2011, see Ex. Ord. No. 13562, §8(a), Dec. 27, 2010, 75 F.R. 82588, set out below.\]
+Ex. Ord. No. 13162, July 6, 2000, 65 F.R. 43211, which established the Federal Career Intern Program and provided for its oversight by the Office of Personnel Management, was revoked, effective Mar. 1, 2011, by Ex. Ord. No. 13562, §8(a), Dec. 27, 2010, 75 F.R. 82588, set out as a note below.
 
 #### Ex. Ord. No. 13318. Presidential Management Fellows Program
 
@@ -750,7 +712,7 @@ By the authority vested in me by the Constitution and the laws of the United Sta
 
 Section 1. <i>Policy</i>. Veterans have served and sacrificed in defense of our Nation. When they complete their service, we must do everything in our power to assist them in re-entering civilian life and finding employment. Government as well as private employers should play a prominent role in helping veterans who may be struggling to find jobs. As one of the Nation's leading employers, the Federal Government is in need of highly skilled individuals to meet agency staffing needs and to support mission objectives. Our veterans, who have benefited from training and development during their military service, possess a wide variety of skills and experiences, as well as the motivation for public service, that will help fulfill Federal agencies’ staffing needs. It is therefore the policy of my Administration to enhance recruitment of and promote employment opportunities for veterans within the executive branch, consistent with merit system principles and veterans’ preferences prescribed by law. The Federal Government will thereby help lead by example in promoting veterans’ employment.
 
-Sec. 2. <i>Council on Veterans Employment</i>. There is hereby established an interagency Council on Veterans Employment (Council), to be co-chaired by the Secretaries of Labor and Veterans Affairs. The Director of the Office of Personnel Management (OPM) shall serve as Vice Chair of the Council.
+Sec. 2. <i>Council on Veterans Employment</i>. There is hereby established an interagency Council on Veterans Employment (Council), to be co-chaired by the Secretariesof Labor and Veterans Affairs. The Director of the Office of Personnel Management (OPM) shall serve as Vice Chair of the Council.
 
 (a) Mission and Function of the Council. The Council shall:
 
@@ -812,7 +774,7 @@ Sec. 2. <i>Council on Veterans Employment</i>. There is hereby established an in
 
 A member of the Council may designate, to perform the Council functions of the member, a senior official who is part of the member's agency, and who is a full-time officer or employee of the Federal Government.
 
-(c) Administration of the Council. The Co-Chairs shall convene meetings of the Council, determine its agenda, and direct its work. At the direction of the Co-Chairs, the Council may establish subgroups consistingexclusively of Council members or their designees, as appropriate. The Vice Chair shall designate an Executive Director for the Council to support the Vice Chair in managing the Council's activities. The OPM shall provide administrative support for the Council to the extent permitted by law and within existing appropriations.
+(c) Administration of the Council. The Co-Chairs shall convene meetings of the Council, determine its agenda, and direct its work. At the direction of the Co-Chairs, the Council may establish subgroups consisting exclusively of Council members or their designees, as appropriate. The Vice Chair shall designate an Executive Director for the Council to support the Vice Chair in managing the Council's activities. The OPM shall provide administrative support for the Council to the extent permitted by law and within existing appropriations.
 
 (d) Steering Committee. There is established within the Council a Steering Committee consisting of the Secretaries of Defense, Labor, Veterans Affairs, and Homeland Security, the Director of OPM, and any other Council member designated by the Co-Chairs. The Steering Committee shall be responsible for providing leadership, accountability, and strategic direction to the Council.
 
@@ -936,7 +898,7 @@ Sec. 6. <i>Appointment and Conversion</i>. (a) Appointments to any of the Pathwa
 
 (b) Appointments to the Recent Graduates or PMF Programs shall not exceed 2 years, unless extended by the employing agency for up to 120 days thereafter.
 
-(c) Appointment to a Pathways Program shall confer no right to further Federal employment in either the competitive or excepted service upon the expiration of the appointment, except that agencies may convert eligible participants noncompetitively to term, career, or career conditional appointments after satisfying requirements to be established by OPM, and agencies may noncompetitively convert participants who wereinitially converted to a term appointment under this section to a career or career-conditional appointment before the term appointment expires.
+(c) Appointment to a Pathways Program shall confer no right to further Federal employment in either the competitive or excepted service upon the expiration of the appointment, except that agencies may convert eligible participants noncompetitively to term, career, or career conditional appointments after satisfying requirements to be established by OPM, and agencies may noncompetitively convert participants who were initially converted to a term appointment under this section to a career or career-conditional appointment before the term appointment expires.
 
 Sec. 7. <i>Implementation</i>. (a) \[Amended Civil Service Rule VI.\]
 

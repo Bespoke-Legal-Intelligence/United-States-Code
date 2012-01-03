@@ -150,7 +150,7 @@ Subsec. (c)(3). Pub. L. 105–34, §1015(b)(2), inserted “and” at end of sub
 
 Subsec. (b)(3). Pub. L. 100–203, §10221(c)(1)(B), added par. (3).
 
-<b>1986</b>—Subsec. (a)(2)(B). Pub. L. 99–514, §1812(d)(1)(A), substituted “In” for “For purposes of subparagraph (A), in” in introductory provisions and substituted cl. (i)(II) for former cl. (i)(II) which read as follows: “which were not taken into account under subparagraph (A), bears to”.
+<b>1986</b>—Subsec. (a)(2)(B). Pub. L. 99–514, §1812(d)(1)(A), substituted “In” for “For purposes of subparagraph (A), in” in introductory provisions and substituted cl. (i)(II)for former cl. (i)(II) which read as follows: “which were not taken into account under subparagraph (A), bears to”.
 
 Subsec. (a)(2)(C), (D). Pub. L. 99–514, §1812(d)(1)(B), (C), added subpar. (C), redesignated former subpar. (C) as (D), and added cl. (iv) to subpar. (D).
 
@@ -200,7 +200,7 @@ Subsec. (c). Pub. L. 85–866, §18(a), added subsec. (c).
 
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which it relates, but not applicable with respect to any transaction ordered in compliance with the Public Utility Holding Company Act of 1935 (15 U.S.C. 79 et seq.) before its repeal, see section 402(m) of Pub. L. 109–135, set out as an Effective and Termination Dates of 2005 Amendments note under section 36C of this title.
+Amendment by Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which it relates, but not applicable with respect to any transaction ordered in compliance with the Public Utility Holding Company Act of 1935 (15 U.S.C. 79 et seq.) before its repeal, see section 402(m) of Pub. L. 109–135, set out as an Effective and Termination Dates of 2005 Amendments note under section 23 of this title.
 
 #### Effective Date of 2004 Amendments
 
@@ -256,7 +256,7 @@ Amendment relating to limitation on deductions.—The amendment made by subsecti
 
 Amendment by section 1275(a)(2)(B) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 1277 of Pub. L. 99–514, set out as a note under section 931 of this title.
 
-Section 1804(b)(1)(C) of Pub. L. 99–514 provided that: “The amendments made by this paragraph \[amending this section\] shall apply to stock acquired after March 1, 1986.”
+Section 1804(b)(1)(C) of Pub. L. 99–514 provided that: “The amendments made by this paragraph \[amendingthis section\] shall apply to stock acquired after March 1, 1986.”
 
 Amendment by section 1812(d)(1) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 

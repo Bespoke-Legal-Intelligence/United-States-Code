@@ -26,11 +26,11 @@ The Secretary shall notify each State of the amount of the additional commoditie
 
 If a State uses its own funds to provide commodities or services to organizations receiving funds or services under this section, such State shall not diminish the level of support it provides to such organizations.
 
-(Pub. L. 98–8, title II, §214, as added Pub. L. 100–435, title I, §104, Sept. 19, 1988, 102 Stat. 1648; amended Pub. L. 101–624, title XVII, §1772(g), (h)(1), Nov. 28, 1990, 104 Stat. 3809; Pub. L. 104–127, title IV, §403(c), Apr. 4, 1996, 110 Stat.1029; Pub. L. 104–193, title VIII, §871(d), Aug. 22, 1996, 110 Stat. 2345.)
+(Pub. L. 98–8, title II, §214, as added Pub. L. 100–435, title I, §104, Sept. 19, 1988, 102 Stat. 1648; amended Pub. L. 101–624, title XVII, §1772(g), (h)(1), Nov. 28, 1990, 104 Stat. 3809; Pub. L. 104–127, title IV, §403(c), Apr. 4, 1996, 110 Stat. 1029; Pub. L. 104–193, title VIII, §871(d), Aug. 22, 1996, 110 Stat. 2345.)
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–193, §871(d)(1), (2), redesignated subsec. (f) as (a) and struck out former subsec. (a) which provided for purpose of section.
+<b>1996</b>—Subsec. (a). Pub. L. 104–193, §871(d)(1), (2), redesignated subsec. (f) as (a) and struck out former subsec. (a) which provided for purpose of section.
 
 Pub. L. 104–127, §403(c)(1), substituted “2002” for “1995”.
 
@@ -52,7 +52,7 @@ Subsecs. (f) to (i). Pub. L. 104–193, §871(d)(2), redesignated subsecs. (f) t
 
 Subsec. (j). Pub. L. 104–193, §871(d)(1), struck out subsec. (j) which authorized Secretary to promulgate new formula for allocation of additional commodities to States.
 
-1990—Subsec. (a). Pub. L. 101–624, §1772(g)(1), substituted “fiscal years 1991 through 1995” for “fiscal years 1989 and 1990”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–624, §1772(g)(1), substituted “fiscal years 1991 through 1995” for “fiscal years 1989 and 1990”.
 
 Subsec. (e). Pub. L. 101–624, §1772(g)(2), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: “During each of the fiscal years 1989 and 1990, the Secretary shall spend $120,000,000 to purchase, process, and distribute additional commodities under this section.”
 

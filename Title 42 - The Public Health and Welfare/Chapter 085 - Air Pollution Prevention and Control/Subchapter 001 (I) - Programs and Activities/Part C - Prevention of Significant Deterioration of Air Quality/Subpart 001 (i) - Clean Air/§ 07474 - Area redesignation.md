@@ -10,7 +10,7 @@ Except as otherwise provided under subsection (c) of this section, a State may r
 
 > The extent of the areas referred to in paragraph <sup>1</sup> (1) and (2) shall conform to any changes in the boundaries of such areas which have occurred subsequent to August 7, 1977, or which may occur subsequent to November 15, 1990. Any area (other than an area referred to in paragraph (1) or (2) or an area established as class I under the first sentence of section 7472(a) of this title) may be redesignated by the State as class III if—
 
-&emsp;(A) such redesignation has been specifically approved by the Governor of the State, after consultation with the appropriate Committees of the legislature if it is in session or with the leadership of the legislature if it is not in session (unless State law provides that such redesignation must be specifically approved by State legislation) and if general purpose units of local government representing a majority of the residents of the area so redesignated enact legislation (including for such units of local government resolutions where appropriate) concurring in the State's redesignation;
+&emsp;(A) such redesignation has been specifically approved by the Governor of the State, after consultation with the appropriate Committees of the legislature if it is in session or with the leadership of the legislature if it is not in session (unless State law provides that such redesignation must be specifically approved by State legislation) and if general purpose units of local government representing a majority ofthe residents of the area so redesignated enact legislation (including for such units of local government resolutions where appropriate) concurring in the State's redesignation;
 
 &emsp;(B) such redesignation will not cause, or contribute to, concentrations of any air pollutant which exceed any maximum allowable increase or maximum allowable concentration permitted under the classification of any other area; and
 
@@ -44,7 +44,7 @@ If any State affected by the redesignation of an area by an Indian tribe or any 
 
 #### Amendments
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–549, which directed the insertion of “The extent of the areas referred to in paragraph (1) and (2) shall conform to any changes in the boundaries of such areas which have occurred subsequent to August 7, 1977, or which may occur subsequent to November 15, 1990.” before “Any area (other than an area referred to in paragraph (1) or (2))”, was executed by making the insertion before “Any area (other than an area referred to in paragraph (1) or (2)”, to reflect the probable intent of Congress.
+<b>1990</b>—Subsec. (a). Pub. L. 101–549, which directed the insertion of “The extent of the areas referred to in paragraph (1) and (2) shall conform to any changes in the boundaries of such areas which have occurred subsequent to August 7, 1977, or which may occur subsequent to November 15, 1990.” before “Any area (other than an area referred to in paragraph (1) or (2))”, was executed by making the insertion before “Any area\(other than an area referred to in paragraph (1) or (2)”, to reflect the probable intent of Congress.
 
 <b>1977</b>—Subsec. (b)(2). Pub. L. 95–190, §14(a)(42), inserted “or is inconsistent with the requirements of section 7472(a) of this title or of subsection (a) of this section” after “this section”.
 

@@ -126,7 +126,7 @@ As used in subsection (a) of this section:
 
 #### (5) Current support amount
 
-&emsp;The term “current support amount” means, with respect to amounts collected as support on behalf of a family, the amount designated as the monthly support obligation of the noncustodial parent in the order requiring the support or calculated by the State based on the order.
+&emsp;The term “current support amount” means, with respect to amounts collected as support on behalf of a family, the amount designated as the monthly support obligation of the noncustodial parent in the order requiring thesupport or calculated by the State based on the order.
 
 #### (d) Gap payments not subject to distribution under this section
 
@@ -144,11 +144,7 @@ Notwithstanding the preceding provisions of this section, amounts collected by a
 
 > and any balance shall be paid to the State agency responsible for supervising the placement of the child, for use by such agency in accordance with paragraph (2).
 
-(Aug. 14, 1935, ch. 531, title IV, §457, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2356;amended Pub. L. 95–171, §11, Nov. 12, 1977, 91 Stat. 1357; Pub. L. 97–35, title XXIII, §2332(e), Aug. 13, 1981, 95 Stat. 862; Pub. L. 98–369, div. B, title VI, §2640(b), July 18, 1984, 98 Stat. 1145; Pub. L. 98–378, §§7(a), 11(a), Aug. 16, 1984, 98 Stat. 1315, 1317; Pub. L. 99–514, title XVIII, §§1883(b)(6), 1899(a), Oct. 22, 1986, 100 Stat. 2917, 2957; Pub. L. 100–203, title IX, §9141(a)(1), Dec. 22, 1987, 101 Stat. 1330–321; Pub. L. 100–485, title I, §102(b), Oct. 13, 1988, 102 Stat. 2346; Pub. L. 104–193, title III, §302(a), Aug. 22, 1996, 110 Stat. 2200; Pub. L. 105–33, title V, §§5532(a), (b)(1), (c)–(h), 5547, Aug. 5, 1997, 111 Stat. 626, 627, 632; Pub. L. 106–169, title III, §301(a), (c), title IV, §401(j), (k), Dec. 14, 1999, 113 Stat. 1857, 1858; Pub. L. 109–171, title VII, §§7301(b)(1)(A), (B)(i), (iii), (2), (c), 7310(b), Feb. 8, 2006, 120 Stat. 141–143, 147.)
-
-#### References in Text
-
-Parts A and E of this subchapter, referred to in subsecs. (b)(1)(A), (2)(A), (c)(1), and (e), are classified to sections 601 et seq. and 670 et seq., respectively, of this title.
+(Aug. 14, 1935, ch. 531, title IV, §457, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2356; amended Pub. L. 95–171, §11, Nov. 12, 1977, 91 Stat. 1357; Pub. L. 97–35, title XXIII, §2332(e), Aug. 13, 1981, 95 Stat. 862; Pub. L. 98–369, div. B, title VI, §2640(b), July 18, 1984, 98 Stat. 1145; Pub. L. 98–378, §§7(a), 11(a), Aug. 16, 1984, 98 Stat. 1315, 1317; Pub. L. 99–514, title XVIII, §§1883(b)(6), 1899(a), Oct. 22, 1986, 100 Stat. 2917, 2957; Pub. L. 100–203, title IX, §9141(a)(1), Dec. 22, 1987, 101 Stat. 1330–321; Pub. L. 100–485, title I, §102(b), Oct. 13, 1988, 102 Stat. 2346; Pub. L. 104–193, title III, §302(a), Aug. 22, 1996, 110 Stat. 2200; Pub. L. 105–33, title V, §§5532(a), (b)(1), (c)–(h), 5547, Aug. 5, 1997, 111 Stat. 626, 627, 632; Pub. L. 106–169, title III, §301(a), (c), title IV, §401(j), (k), Dec. 14, 1999, 113 Stat. 1857, 1858; Pub. L. 109–171, title VII, §§7301(b)(1)(A), (B)(i), (iii), (2), (c), 7310(b), Feb. 8, 2006, 120 Stat. 141–143, 147.)
 
 #### Amendments
 
@@ -180,7 +176,7 @@ Subsec. (d). Pub. L. 106–169, §301(c)(2), (4), redesignated subsec. (e) as (d
 
 &emsp;“(2)(A) the State has distributed to families that include an adult receiving assistance under the program under part A of this subchapter at least 80 percent of the current support payments collected during the preceding fiscal year on behalf of such families, and the amounts distributed were disregarded in determining the amount or type of assistance provided under the program under part A of this subchapter; or
 
-&emsp;“(B) the State has distributed to families that formerly received assistance under the program under part A of this subchapter the State share of the amounts collected pursuant to section 664 of this title that could have been retained as reimbursement for assistance paid to such families,
+&emsp;“(B) the State has distributed to families that formerly received assistance under the program under part A of this subchapter the State share of theamounts collected pursuant to section 664 of this title that could have been retained as reimbursement for assistance paid to such families,
 
 > then the State share otherwise determined for the fiscal year shall be increased by an amount equal to one-half of the amount (if any) by which the State share for fiscal year 1995 exceeds the State share for the fiscal year (determined without regard to this subsection).”
 
@@ -254,7 +250,7 @@ Subsec. (c). Pub. L. 97–35, §2332(e)(2), substituted in provision preceding p
 
 Amendment by section 7301(b)(1)(A), (2), (c) of Pub. L. 109–171 effective Oct. 1, 2009, and applicable to payments under parts A and D of this subchapter for calendar quarters beginning on or after such date, subject to certain State options, see section 7301(e) of Pub. L. 109–171, set out as a note under section 608 of this title.
 
-Pub. L. 109–171, title VII, §7301(b)(1)(B)(ii), Feb. 8, 2006, 120 Stat. 143, provided that: “The amendment made by clause (i) \[amending this section\] shall take effect on October 1, 2008.”
+Pub. L. 109–171, title VII, §7301(b)(1)(B)(ii), Feb. 8, 2006, 120 Stat. 143, provided that: “The amendmentmade by clause (i) \[amending this section\] shall take effect on October 1, 2008.”
 
 Pub. L. 109–171, title VII, §7301(b)(1)(B)(iii), Feb. 8, 2006, 120 Stat. 143, provided that the amendment made by section 7301(b)(1)(B)(iii) is effective Oct. 1, 2009.
 
@@ -300,7 +296,7 @@ Section 1899(b) of Pub. L. 99–514 provided that: “The amendment made by this
 
 Section 7(b) of Pub. L. 98–378 provided that: “The amendments made by subsection (a) \[amending this section\] shall become effective October 1, 1984.”
 
-Amendment by section 11(a) of Pub. L. 98–378 effective Oct. 1, 1984, and applicable to collections made onor after that date, see section 11(e) of Pub. L. 98–378, set out as a note under section 654 of this title.
+Amendment by section 11(a) of Pub. L. 98–378 effective Oct. 1, 1984, and applicable to collections made on or after that date, see section 11(e) of Pub. L. 98–378, set out as a note under section 654 of this title.
 
 Section 2646 of Pub. L. 98–369 provided that: “Except as otherwise specifically provided in this subtitle \[subtitle B (§§2611–2646) of Pub. L. 98–369\], the provisions of parts 1 and 2 \[sections 2611 to 2642 of Pub. L. 98–369, enacting section 1320b–6 of this title, amending this section and sections 602, 609, 614, 615, 1320a–6, 1382 to 1382b, 1382j, and 1383 of this title and section 51 of Title 26, Internal Revenue Code, and enacting provisions set out as notes under sections 602, 609, 614, 1320a–6, 1382a, and 1383 of this title and section 51 of Title 26\] and the amendments made thereby shall take effect on October 1, 1984.”
 

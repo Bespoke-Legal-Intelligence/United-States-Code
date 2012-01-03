@@ -6,7 +6,7 @@ The review by the court shall be limited to questions of law, and the findings o
 
 #### Amendments
 
-1984—Pub. L. 98–620 substituted “The court” for “At the earliest convenient time, the court, in term time or vacation,”.
+<b>1984</b>—Pub. L. 98–620 substituted “The court” for “At the earliest convenient time, the court, in term time or vacation,”.
 
 #### Effective Date of 1984 Amendment
 

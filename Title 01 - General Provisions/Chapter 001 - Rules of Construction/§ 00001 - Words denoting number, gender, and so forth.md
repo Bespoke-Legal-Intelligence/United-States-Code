@@ -26,9 +26,9 @@ In determining the meaning of any Act of Congress, unless the context indicates 
 
 #### Amendments
 
-1951—Act Oct. 31, 1951, substituted, in fourth clause after opening clause, “used” for “use”.
+<b>1951</b>—Act Oct. 31, 1951, substituted, in fourth clause after opening clause, “used” for “use”.
 
-1948—Act June 25, 1948, included “tense”, “whoever”, “signature”, “subscription”, “writing” and a broader definition of “person”.
+<b>1948</b>—Act June 25, 1948, included “tense”, “whoever”, “signature”, “subscription”, “writing” and a broader definition of “person”.
 
 #### Short Title of 2002 Amendment
 
@@ -37,6 +37,18 @@ Pub. L. 107–207, §1, Aug. 5, 2002, 116 Stat. 926, provided that: “This Act 
 #### Short Title of 1996 Amendment
 
 Pub. L. 104–199, §1, Sept. 21, 1996, 110 Stat. 2419, provided that: “This Act \[enacting section 7 of this title and section 1738C of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Defense of Marriage Act’.”
+
+#### References in Pub. L. 112–74
+
+Pub. L. 112–74, §3, Dec. 23, 2011, 125 Stat. 787, provided that: “Except as expressly provided otherwise, any reference to ‘this Act’ contained in any division of this Act \[Consolidated Appropriations Act, 2012, see Tables for classification\] shall be treated as referring only to the provisions of that division.”
+
+#### References in Pub. L. 112–55
+
+Pub. L. 112–55, §3, Nov. 18, 2011, 125 Stat. 552, provided that: “Except as expressly provided otherwise, any reference to ‘this Act’ contained in any division of this Act \[Consolidated and Further Continuing Appropriations Act, 2012, see Tables for classification\] shall be treated as referring only to the provisions of that division.”
+
+#### References in Pub. L. 112–10
+
+Pub. L. 112–10, div. A, title IX, §9015, Apr. 15, 2011, 125 Stat. 102, provided that: “Any reference to ‘this Act’ in this division \[Department of Defense Appropriations Act, 2011, see Tables for classification\] shall apply solely to this division.”
 
 #### References in Pub. L. 111–118
 
@@ -76,7 +88,7 @@ Pub. L. 109–148, div. B, title V, §5002, Dec. 30, 2005, 119 Stat. 2813, provi
 
 #### References in Pub. L. 109–115
 
-Pub. L. 109–115, div. A, title VIII, §847, Nov. 30, 2005, 119 Stat. 2507, provided that: “Except as expressly provided otherwise, any reference to ‘this Act’ contained in this division \[Transportation, Treasury, Housing and Urban Development, the Judiciary, and Independent Agencies Appropriations Act, 2006, see Tables for classification\] shall be treated as referring only to the provisions of this division.”
+Pub. L. 109–115, div. A, title VIII, §847, Nov. 30, 2005, 119 Stat. 2507, provided that: “Except as expressly provided otherwise, any reference to ‘this Act’ containedin this division \[Transportation, Treasury, Housing and Urban Development, the Judiciary, and Independent Agencies Appropriations Act, 2006, see Tables for classification\] shall be treated as referring only to the provisions of this division.”
 
 #### References in Pub. L. 108–447
 

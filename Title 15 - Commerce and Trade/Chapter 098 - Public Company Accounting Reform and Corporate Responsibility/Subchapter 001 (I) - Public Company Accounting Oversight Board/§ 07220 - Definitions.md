@@ -32,7 +32,7 @@ For the purposes of this subchapter, the following definitions shall apply:
 
 &emsp;&emsp;(A) accounting principles that are—
 
-&emsp;&emsp;&emsp;(i) established by the standard setting body described in section 77s(b) of this title, as amended by this Act, or prescribed by the Commission under section 77s(a) of this title or section 78m(b) of this title; and
+&emsp;&emsp;&emsp;(i) established by the standard setting body described in section 77s(b) of this title, as amended by this Act, or prescribedby the Commission under section 77s(a) of this title or section 78m(b) of this title; and
 
 &emsp;&emsp;&emsp;(ii) relevant to audit reports for particular issuers, brokers, or dealers, or dealt with in the quality control system of a particular registered public accounting firm; and
 

@@ -38,7 +38,7 @@ The duties referred to in subsection (a) are that—
 
 #### (4) Insufficient information
 
-&emsp;(A) If a medical facility finds in evaluating facts for purposes of paragraph (1) that the facts are insufficient to make the determination described in such paragraph, the medical facility shall, in writing, inform the designated officer who submitted the request under subsection (c) of the insufficiency of the facts.
+&emsp;(A) If a medical facility finds in evaluating facts for purposes of paragraph (1) that thefacts are insufficient to make the determination described in such paragraph, the medical facility shall, in writing, inform the designated officer who submitted the request under subsection (c) of the insufficiency of the facts.
 
 &emsp;(B)(i) If a medical facility finds in making a determination under paragraph (1) that the facility possesses no information on whether the victim involved has an infectious disease included on the list under section 300ff–131(a) of this title, the medical facility shall, in writing, inform the designated officer who submitted the request under subsection (c) of the insufficiency of such medical information.
 

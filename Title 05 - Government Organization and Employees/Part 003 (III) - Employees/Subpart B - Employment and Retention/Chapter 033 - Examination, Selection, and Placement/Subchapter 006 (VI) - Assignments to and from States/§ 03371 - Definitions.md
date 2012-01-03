@@ -38,19 +38,19 @@ Section 4 of the Indian Self-Determination and Education Assistance Act, referre
 
 #### Amendments
 
-2006—Par. (3). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
+<b>2006</b>—Par. (3). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
 
-1994—Par. (4)(D). Pub. L. 103–337 added subpar. (D).
+<b>1994</b>—Par. (4)(D). Pub. L. 103–337 added subpar. (D).
 
-1990—Par. (2)(C). Pub. L. 101–301 substituted “section 4” for “section 4(m)”.
+<b>1990</b>—Par. (2)(C). Pub. L. 101–301 substituted “section 4” for “section 4(m)”.
 
-1988—Par. (2)(C). Pub. L. 100–472, §203(b), amended Pub. L. 93–638, by substituting “section 4(m)” for “section 4(c)” in the provision it added as par. (2)(C) of this section. See 1975 Amendment note below.
+<b>1988</b>—Par. (2)(C). Pub. L. 100–472, §203(b), amended Pub. L. 93–638, by substituting “section 4(m)” for “section 4(c)” in the provision it added as par. (2)(C) of this section. See 1975 Amendment note below.
 
-1978—Par. (1)(A). Pub. L. 95–454, §603(a)(1), inserted reference to the Trust Territory of the Pacific Islands.
+<b>1978</b>—Par. (1)(A). Pub. L. 95–454, §603(a)(1), inserted reference to the Trust Territory of the Pacific Islands.
 
 Pars. (3), (4). Pub. L. 95–454, §603(a)(2), added pars. (3) and (4).
 
-1975—Par. (2)(C). Pub. L. 93–638, as amended by Pub. L. 100–472, §203(b), added par. (2)(C).
+<b>1975</b>—Par. (2)(C). Pub. L. 93–638, as amended by Pub. L. 100–472, §203(b), added par. (2)(C).
 
 #### Effective Date of 1978 Amendment
 

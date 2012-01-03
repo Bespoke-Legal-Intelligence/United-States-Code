@@ -72,7 +72,7 @@ In determining the adequacy of reception facilities required by the MARPOL Proto
 
 Subsec. (b). Pub. L. 110–280, §7(2), inserted “or the Administrator” after “Secretary”.
 
-Subsec. (e)(2). Pub. L. 110–280, §7(3), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The Secretary may deny the entry of a ship to a port or terminal required by regulations issued under this section to provide adequate reception facilities for garbage if the port or terminal is not in compliance with those regulations.”
+Subsec. (e)(2). Pub. L. 110–280, §7(3), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The Secretary may deny the entry ofa ship to a port or terminal required by regulations issued under this section to provide adequate reception facilities for garbage if the port or terminal is not in compliance with those regulations.”
 
 Subsec. (f)(1). Pub. L. 110–280, §7(4), substituted “Secretary and the Administrator are” for “Secretary is”.
 
@@ -82,7 +82,7 @@ Subsec. (f)(2). Pub. L. 110–280, §7(5), struck out subpar. (A) designation be
 
 Subsec. (c)(2). Pub. L. 104–324, §801(a)(1), (2), designated existing provisions as subpar. (A), substituted “Subject to subparagraph (B), if” for “If”, and added subpars. (B) and (C).
 
-Subsec. (c)(3)(A). Pub. L. 104–324, §801(a)(3), added subpar. (A) and struck out former subpar. (A) which readas follows: “is valid until suspended or revoked by the Secretary for cause or because of changed conditions; and”.
+Subsec. (c)(3)(A). Pub. L. 104–324, §801(a)(3), added subpar. (A) and struck out former subpar. (A) which read as follows: “is valid until suspended or revoked by the Secretary for cause or because of changed conditions; and”.
 
 Subsec. (d). Pub. L. 104–324, §801(a)(4), added subsec. (d) and struck out former subsec. (d) which read as follows: “The Secretary shall periodically cause to be published in the Federal Register a list of the ports or terminals holding a valid certificate issued under this section.”
 

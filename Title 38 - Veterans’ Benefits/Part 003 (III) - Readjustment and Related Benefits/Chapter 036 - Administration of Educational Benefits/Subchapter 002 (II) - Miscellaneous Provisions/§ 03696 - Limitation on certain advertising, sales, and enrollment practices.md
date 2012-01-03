@@ -1,6 +1,6 @@
 ### §3696. Limitation on certain advertising, sales, and enrollment practices
 
-(a) The Secretary shall not approve the enrollment of an eligible veteran or eligible person inany course offered by an institution which utilizes advertising, sales, or enrollment practices of any type which are erroneous, deceptive, or misleading either by actual statement, omission, or intimation.
+(a) The Secretary shall not approve the enrollment of an eligible veteran or eligible person in any course offered by an institution which utilizes advertising, sales, or enrollment practices of any type which are erroneous, deceptive, or misleading either by actual statement, omission, or intimation.
 
 (b) To ensure compliance with this section, any institution offering courses approved for the enrollment of eligible persons or veterans shall maintain a complete record of all advertising, sales, or enrollment materials (and copies thereof) utilized by or on behalf of the institution during the preceding 12-month period. Such record shall be available for inspection by the State approving agency or the Secretary. Such materials shall include but are not limited to any direct mail pieces, brochures, printed literature used by sales persons, films, video tapes, and audio tapes disseminated through broadcast media, material disseminated through print media, tear sheets, leaflets, handbills, fliers, and any sales or recruitment manuals used to instruct sales personnel, agents, or representatives of such institution.
 

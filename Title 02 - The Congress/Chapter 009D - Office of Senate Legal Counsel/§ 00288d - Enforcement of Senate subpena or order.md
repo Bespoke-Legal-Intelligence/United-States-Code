@@ -12,7 +12,7 @@ Any directive to the Counsel to bring a civil action pursuant to subsection (a) 
 
 It shall not be in order in the Senate to consider a resolution to direct the Counsel to bring a civil action pursuant to subsection (a) of this section in the name of a committee or subcommittee unless—
 
-&emsp;(1) such resolution is reported by a majority of the members voting, a majority beingpresent, of such committee or committee of which such subcommittee is a subcommittee, and
+&emsp;(1) such resolution is reported by a majority of the members voting, a majority being present, of such committee or committee of which such subcommittee is a subcommittee, and
 
 &emsp;(2) the report filed by such committee or committee of which such subcommittee is a subcommittee contains a statement of—
 
@@ -54,5 +54,5 @@ Subsec. (f) of this section amended title 28 by adding section 1364 and by addin
 
 #### Amendments
 
-1986—Subsec. (a). Pub. L. 99–336 substituted “section 1365 of title 28” for “section 1364 of title 28”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–336 substituted “section 1365 of title 28” for “section 1364 of title 28”.
 

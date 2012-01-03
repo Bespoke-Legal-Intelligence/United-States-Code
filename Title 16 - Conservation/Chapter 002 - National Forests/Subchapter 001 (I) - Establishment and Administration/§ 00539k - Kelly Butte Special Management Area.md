@@ -92,7 +92,7 @@ Findings.—Congress finds that—
 
 &emsp;&emsp;&emsp;“(v) other popular recreation areas along the Interstate 90 corridor east of the Seattle-Tacoma Metropolitan Area;
 
-&emsp;&emsp;“(B) protection and enhancement of old growth forests and habitat for threatened, endangered andsensitive species, including a net gain of approximately 28,500 acres of habitat for the northern spotted owl;
+&emsp;&emsp;“(B) protection and enhancement of old growth forests and habitat for threatened, endangered and sensitive species, including a net gain of approximately 28,500 acres of habitat for the northern spotted owl;
 
 &emsp;&emsp;“(C) consolidation of National Forest holdings for more efficient administration and to meet a broad array of ecosystem protection and other public land management goals, including net public gains of approximately 283 miles of stream ownership, 14 miles of the route of the Pacific Crest Trail, 20,000 acres of unroaded land, and 7,360 acres of riparian land; and
 
@@ -156,7 +156,7 @@ Condition and Conveyance of Offered Land.—The exchange directed by this Act sh
 
 Conveyance of Selected Land by the United States.—Upon receipt of acceptable title to the offered land, as provided in section 604(a), and placement in escrow of acceptable title to Township 22 North, Range 11 East, Section 3, W.M., Township 22 North, Range 11 East, Section 19, W.M., Township 21 North, Range 12 East, Section 15, W.M., Township 21 North, Range 12 East, Section 23, W.M., Township 21 North, Range 12 East, Section 25, W.M., Township 19 North, Range 13 East, Section 7, W.M., Township 19 North, Range 15 East, Section 31, W.M., and Township 19 North, Range 14 East, Section 25, W.M., and lands and interests described in subsection (d), the Secretary shall simultaneously convey to Plum Creek all right, title and interest of the United States, subject to valid existing rights, in and to the following selected land except Township 19 North, Range 10 East, W.M., Section 4, Township 20 North, Range 10 East, W.M., Section 32, and Township 21 North, Range 14 East, W.M., W½W½ of Section 16, Township 12 North, Range 7 East, Sections 4 and 5, W.M., Township 13 North, Range 7 East, Sections 32 and 33, W.M., Township 8 North, Range 4 East, Section 17 and the S½ of 16, W.M., which shall be retained by the United States:
 
-&emsp;“(1) Certain land administered, as of the date of enactment of this Act \[Oct. 21, 1998\], by the Secretary of Agriculture as part of the Mt. Baker-Snoqualmie National Forest, Washington, and comprising approximately 5,697 acres, as generally depicted on amap entitled ‘Interstate 90 Land Exchange’, dated October 1998.
+&emsp;“(1) Certain land administered, as of the date of enactment of this Act \[Oct. 21, 1998\], by the Secretary of Agriculture as part of the Mt. Baker-Snoqualmie National Forest, Washington, and comprising approximately 5,697 acres, as generally depicted on a map entitled ‘Interstate 90 Land Exchange’, dated October 1998.
 
 &emsp;“(2) Certain land administered, as of the date of enactment of this Act, by the Secretary of Agriculture as part of the Wenatchee National Forest, Washington, and comprising approximately 5,197 acres, as generally depicted on a map entitled ‘Interstate 90 Land Exchange’, dated October 1998.
 
@@ -370,7 +370,7 @@ Parcel deletion.—The Secretary shall delete from the selected land those parce
 
 &emsp;“(4)
 
-Appraisal adjustment.—The fair market value of any parcels deleted under paragraph (3), orany modification in fair market value caused by the use restrictions or mitigation requirements on land accepted by Plum Creek, shall be based on their contributory value to the final approved appraised value of the selected land and subtracted from such value prior to consummation of the exchange.
+Appraisal adjustment.—The fair market value of any parcels deleted under paragraph (3), or any modification in fair market value caused by the use restrictions or mitigation requirements on land accepted by Plum Creek, shall be based on their contributory value to the final approved appraised value of the selected land and subtracted from such value prior to consummation of the exchange.
 
 “(h)
 
@@ -388,7 +388,7 @@ Purchase Consultation.—In furtherance of subsection (a), the Secretary is auth
 
 “(c)
 
-Other Agreements.—Nothing in this Act shall be construed to prohibit the Secretary from entering into additional agreements or contracts with Plum Creek to purchase, exchange or otherwise acquire lands from Plum Creek in Washington or any other state under the laws, rules and regulations generally applicable to Federal land acquisitions.
+Other Agreements.—Nothing in this Act shall be construed to prohibit the Secretary from enteringinto additional agreements or contracts with Plum Creek to purchase, exchange or otherwise acquire lands from Plum Creek in Washington or any other state under the laws, rules and regulations generally applicable to Federal land acquisitions.
 
 #### “SEC. 608. TIETON RIVER STUDY.
 

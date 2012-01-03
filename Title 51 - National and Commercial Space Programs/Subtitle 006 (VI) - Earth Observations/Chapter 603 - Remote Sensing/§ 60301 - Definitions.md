@@ -1,0 +1,34 @@
+### §60301. Definitions
+
+In this chapter:
+
+&emsp;(1)
+
+Geospatial information.—The term “geospatial information” means knowledge of the nature and distribution of physical and cultural features on the landscape based on analysis of data from airborne or spaceborne platforms or other types and sources of data.
+
+&emsp;(2)
+
+High resolution.—The term “high resolution” means resolution better than five meters.
+
+&emsp;(3)
+
+Institution of higher education.—The term “institution of higher education” has the meaning given the term in section 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a)).
+
+(Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3423.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+60301
+
+42 U.S.C. 16671.
+
+Pub. L. 109–155, title III, §311, Dec. 30, 2005, 119 Stat. 2920.
+

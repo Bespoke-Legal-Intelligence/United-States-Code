@@ -50,7 +50,7 @@ Protection of Existing Authority.—The regulations shall provide that, to the e
 
 (f)
 
-Cancellation or Termination for Insufficient Funding.—In the event funds are not made available for the continuation of a contract made under this section into a subsequent fiscal year, the contract shall be canceled or terminated. The costs of cancellation or termination may be paid from—
+Cancellation or Termination for Insufficient Funding.—In the event funds are not made available for the continuation of a contractmade under this section into a subsequent fiscal year, the contract shall be canceled or terminated. The costs of cancellation or termination may be paid from—
 
 &emsp;(1) appropriations originally available for the performance of the contract concerned;
 
@@ -96,7 +96,7 @@ Defense Acquisitions Specifically Authorized by Law.—(1) A multiyear contract 
 
 &emsp;(G) The proposed multiyear contract provides for production at not less than minimum economic rates given the existing tooling and facilities.
 
-(2) If for any fiscal year a multiyear contract to be entered into under this section is authorized by law for a particular procurement program and that authorization is subject to certain conditions established by law (including a condition as to cost savings to be achieved under the multiyear contract in comparison to specified other contracts) and if it appears (after negotiations with contractors) that such savings cannot be achieved, but that substantial savings could nevertheless be achieved through the use of a multiyear contract rather than specified other contracts, the President may submit to Congress a request for relief from the specifiedcost savings that must be achieved through multiyear contracting for that program. Any such request by the President shall include details about the request for a multiyear contract, including details about the negotiated contract terms and conditions.
+(2) If for any fiscal year a multiyear contract to be entered into under this section is authorized by law for a particular procurement program and that authorization is subject to certain conditions established by law (including a condition as to cost savings to be achieved under the multiyear contract in comparison to specified other contracts) and if it appears (after negotiations with contractors) that such savings cannot be achieved, but that substantial savings could nevertheless be achieved through the use of a multiyear contract rather than specified other contracts, the President may submit to Congress a request for relief from the specified cost savings that must be achieved through multiyear contracting for that program. Any such request by the President shall include details about the request for a multiyear contract, including details about the negotiated contract terms and conditions.
 
 (3) In the case of the Department of Defense, a multiyear contract in an amount equal to or greater than $500,000,000 may not be entered into for any fiscal year under this section unless the contract is specifically authorized by law in an Act other than an appropriations Act.
 
@@ -156,11 +156,11 @@ Various Additional Requirements With Respect to Multiyear Defense Contracts.—(
 
 &emsp;&emsp;(ii) the agency procurement total.
 
-&emsp;(D) The amount of total obligational authority under all Department of Defense multiyear procurements (determined without regard to the amount of the multiyear contract (or contract extension)), including any multiyearcontract (or contract extension) that has been authorized by the Congress but not yet entered into, and the percentage that such amount represents of the procurement accounts of the Department of Defense treated in the aggregate.
+&emsp;(D) The amount of total obligational authority under all Department of Defense multiyear procurements (determined without regard to the amount of the multiyear contract (or contract extension)), including any multiyear contract (or contract extension) that has been authorized by the Congress but not yet entered into, and the percentage that such amount represents of the procurement accounts of the Department of Defense treated in the aggregate.
 
 (5) The head of an agency may not enter into a multiyear contract (or extend an existing multiyear contract), the value of which would exceed $500,000,000 (when entered into or when extended, as the case may be), until the Secretary of Defense submits to the congressional defense committees a report containing the information described in paragraph (4) with respect to the contract (or contract extension).
 
-(6) The head of an agency may not terminate a multiyear procurement contract until 10 days after the date on which notice of the proposed termination is provided to the congressional defense committees.
+(6) The head of an agency may not terminate a multiyear procurement contract until 10 daysafter the date on which notice of the proposed termination is provided to the congressional defense committees.
 
 (7) The execution of multiyear contracting authority shall require the use of a present value analysis to determine lowest cost compared to an annual procurement.
 
@@ -295,6 +295,10 @@ Pub. L. 105–56, title VIII, §8008, Oct. 8, 1997, 111 Stat. 1221, provided tha
 &emsp;“(3) the Secretary of Defense makes such request in writing to the congressional defense committees.”
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 112–74, div. A, title VIII, §8010, Dec. 23, 2011, 125 Stat. 806.
+
+Pub. L. 112–10, div. A, title VIII, §8010, Apr. 15, 2011, 125 Stat. 57.
 
 Pub. L. 111–118, div. A, title VIII, §8011, Dec. 19, 2009, 123 Stat. 3428, as amended by Pub. L. 111–212, title I, §305, July 29, 2010, 124 Stat. 2311.
 

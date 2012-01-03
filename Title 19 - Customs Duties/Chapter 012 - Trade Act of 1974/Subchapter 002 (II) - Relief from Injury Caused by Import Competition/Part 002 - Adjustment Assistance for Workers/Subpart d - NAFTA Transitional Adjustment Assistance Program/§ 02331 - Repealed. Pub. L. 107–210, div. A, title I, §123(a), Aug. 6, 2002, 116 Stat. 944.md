@@ -12,7 +12,7 @@ Pub. L. 107–210, div. A, title I, §123(c), Aug. 6, 2002, 116 Stat. 944, provi
 
 “(1)
 
-In general.—The amendments made by this section \[amending sections 2275 and 2395 of this title and repealing this subpart and section 2322 of this title\] shall apply with respect to petitions filed under chapter 2 of title II of the Trade Act of 1974 \[this part\], on orafter the date that is 90 days after the date of enactment of this Act \[Aug. 6, 2002\].
+In general.—The amendments made by this section \[amending sections 2275 and 2395 of this title and repealing this subpart and section 2322 of this title\] shall apply with respect to petitions filed under chapter 2 of title II of the Trade Act of 1974 \[this part\], on or after the date that is 90 days after the date of enactment of this Act \[Aug. 6, 2002\].
 
 “(2)
 

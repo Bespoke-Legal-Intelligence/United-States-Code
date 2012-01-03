@@ -12,7 +12,7 @@ For purposes of subchapter II of chapter 5 of title 5—
 
 #### Amendments
 
-2008—Par. (1). Pub. L. 110–289 substituted “the Agency” for “the Office”.
+<b>2008</b>—Par. (1). Pub. L. 110–289 substituted “the Agency” for “the Office”.
 
 #### References in Text
 

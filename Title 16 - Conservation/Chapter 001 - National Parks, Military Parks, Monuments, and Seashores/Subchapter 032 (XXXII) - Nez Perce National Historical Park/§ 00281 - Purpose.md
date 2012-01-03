@@ -10,5 +10,5 @@ It is the purpose of this subchapter to facilitate protection and provide interp
 
 #### Short Title of 1992 Amendment
 
-Section 1 of Pub. L. 102–576 provided that: “This Act \[amending this section and sections 281a to 281c, 281e, and 281f of this title\] may be cited as the ‘Nez Perce National Historical Park Additions Act of 1991’.”
+Pub. L. 102–576, §1, Oct. 30, 1992, 106 Stat. 4770, provided that: “This Act \[amending this section and sections 281a to 281c, 281e, and 281f of this title\] may be cited as the ‘Nez Perce National Historical Park Additions Act of 1991’.”
 

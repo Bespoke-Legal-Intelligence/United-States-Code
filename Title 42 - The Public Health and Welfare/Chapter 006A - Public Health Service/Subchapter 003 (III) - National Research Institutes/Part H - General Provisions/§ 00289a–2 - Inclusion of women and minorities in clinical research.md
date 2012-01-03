@@ -58,7 +58,7 @@ In the case of any clinical trial in which women or members of minority groups w
 
 #### (1) Date certain
 
-&emsp;The guidelines required in subsection (d) of this section shall be established and published in the Federal Register not later than 180 days after June 10, 1993.
+&emsp;The guidelines required in subsection (d) of this section shall be established and publishedin the Federal Register not later than 180 days after June 10, 1993.
 
 #### (2) Applicability
 
@@ -80,5 +80,5 @@ For purposes of this section:
 
 #### Inapplicability to Current Projects
 
-Section 133 of Pub. L. 103–43 provided that: “Section 492B of the Public Health Service Act, as added by section 131 of this Act \[this section\], shall not apply with respect to projects of clinical research for which initial funding was provided prior to the date of the enactment of this Act \[June 10, 1993\]. With respect to the inclusion of women and minorities as subjects in clinical research conducted or supported by the National Institutes of Health, any policies of the Secretary of Health and Human Services regarding such inclusion that are in effect on the day before the date of the enactment ofthis Act shall continue to apply to the projects referred to in the preceding sentence.”
+Section 133 of Pub. L. 103–43 provided that: “Section 492B of the Public Health Service Act, as added by section 131 of this Act \[this section\], shall not apply with respect to projects of clinical research for which initial funding was provided prior to the date of the enactment of this Act \[June 10, 1993\]. With respect to the inclusion of women and minorities as subjects in clinical research conducted or supported by the National Institutes of Health, any policies of the Secretary of Health and Human Services regarding such inclusion that are in effect on the day before the date of the enactment of this Act shall continue to apply to the projects referred to in the preceding sentence.”
 

@@ -86,7 +86,7 @@ Subsec. (e). Pub. L. 99–159, §110(11), inserted applicability to engineering.
 
 Subsec. (b). Pub. L. 92–484 inserted provisions authorizing the Foundation to initiate and support specific scientific activities in connection with matters relating to the effects of scientific applications upon society, and substituted provisions relating to the initiation or support pursuant to requests of activities by any other Federal department or agency, including the Office of Technology Assessment, for provisions relating to the initiation or support pursuant to requests of activities by the Secretary of State or Secretary of Defense.
 
-<b>1968</b>—Subsec. (a)(1). Pub. L. 90–407 redesignated par. (2) as (1) and added social sciences to the enumerated list of sciences. Former par. (1) redesignated subsec. (d).
+<b>1968</b>—Subsec. (a)(1). Pub. L. 90–407 redesignated par. (2) as (1) and added social sciences to the enumeratedlist of sciences. Former par. (1) redesignated subsec. (d).
 
 Subsec. (a)(2). Pub. L. 90–407 redesignated par. (4) as (2) and added social sciences to the enumerated list of sciences. Former par. (2) redesignated (1).
 
@@ -162,7 +162,7 @@ Section 5 of Pub. L. 95–99 provided that:
 
 &emsp;“(1) qualified scientists and engineers to work on public policy issues with significant scientific and technical components in conjunction with units of State and local government, nonprofit organizations, or bona fide public interest groups;
 
-&emsp;“(2) internship programs for science and engineering undergraduate or graduate students to work on public policy issues with significant scientific and technical components in conjunction with units of State and local government, nonprofit organizations, or bona fide public interest groups as part of their academic training;
+&emsp;“(2) internship programs for science and engineering undergraduate or graduate students to work on public policy issues with significant scientific and technical components in conjunction with units of State and local government, nonprofit organizations,or bona fide public interest groups as part of their academic training;
 
 &emsp;“(3) forums, conferences, and workshops on public policy issues with significant scientific and technical components;
 
@@ -192,7 +192,7 @@ Pub. L. 94–471, §5, Oct. 11, 1976, 90 Stat. 2054, provided that:
 
 “(c) No contract, grant or other arrangement shall be made under this Section without the prior approval of the National Science Board.
 
-“(d) To assist the Congress in evaluating activities initiated pursuant to this Section, the Director of the National Science Foundation, in consultation with a review panel having a balanced representation from the scientific and nonscientific community and the public and private sectors, is directed to prepare a comprehensive analysis and assessment of such activities to be submitted to the House Committee on Science and Technology and the Senate Committee on Labor and Public Welfare \[now Committee on Health, Education, Labor, and Pensions\], not later than October 31, 1977. An interim report is required no later than March 1, 1977.”
+“(d) To assist the Congress in evaluating activities initiated pursuant to this Section, the Director of the National Science Foundation, in consultation with a review panel having a balanced representation from the scientific and nonscientific community and the public and private sectors, is directed to prepare a comprehensive analysis and assessment of such activities to be submitted to the House Committee on Science and Technology \[now Committee on Science, Space, and Technology\] and the Senate Committee on Labor and Public Welfare \[now Committee on Health, Education, Labor, and Pensions\], not later than October 31, 1977. An interim report is required no later than March 1, 1977.”
 
 #### Development of Program Plan for Continuing Education in Science and Engineering
 
@@ -236,7 +236,7 @@ Section 16 of Pub. L. 90–407 provided that: “Except as otherwise specificall
 
 #### Investigation of Need for Geophysical Institute in Territory of Hawaii
 
-Act Aug. 1, 1956, ch. 865, 70 Stat. 922, directed the National Science Foundation to conduct an investigation into the need for and the feasibility and usefulness of a geophysical institute located in the Territory \[now State\] of Hawaii. The Foundation was required to report the results of its investigations, together with itsrecommendations based thereon, to the Congress not later than 9 months after Aug. 1, 1956.
+Act Aug. 1, 1956, ch. 865, 70 Stat. 922, directed the National Science Foundation to conduct an investigation into the need for and the feasibility and usefulness of a geophysical institute located in the Territory \[now State\] of Hawaii. The Foundation was required to report the results of its investigations, together with its recommendations based thereon, to the Congress not later than 9 months after Aug. 1, 1956.
 
 #### Ex. Ord. No. 10521. Administration of Scientific Research
 
@@ -266,7 +266,7 @@ Sec. 8. To facilitate the efficient use of scientific research equipment and fac
 
 Sec. 9. The heads of the respective Federal agencies shall make such reports concerning activities within the purview of this order as may be required by the President.
 
-Sec. 10. The National Science Foundation shall provide leadership in the effective coordination of the scientific information activities of the Federal Government with a view to improving the availability and dissemination of scientific information. Federal agencies shall cooperate with and assist the National Science Foundation in the performance of this function, to the extent permitted by law.
+Sec. 10. The National Science Foundation shall provide leadership in the effective coordination of the scientific information activities of the Federal Government with a view to improving the availability and dissemination of scientific information. Federal agenciesshall cooperate with and assist the National Science Foundation in the performance of this function, to the extent permitted by law.
 
 #### Executive Order No. 10807
 

@@ -46,7 +46,7 @@ Pub. L. 107–110, title X, §1031, Jan. 8, 2002, 115 Stat. 1989, provided that:
 
 #### Short Title of 1994 Amendment
 
-Pub. L. 103–421, §1, Oct. 25, 1994, 108 Stat. 4346, provided that: “This Act \[amending section 11411 of this title and enacting and amending provisions set out as notes under section 2687 of Title 10, Armed Forces\] may cited as the ‘Base Closure Community Redevelopment and Homeless Assistance Act of 1994’.”
+Pub. L. 103–421, §1, Oct. 25, 1994, 108 Stat. 4346, provided that: “This Act \[amending section 11411 of thistitle and enacting and amending provisions set out as notes under section 2687 of Title 10, Armed Forces\] may cited as the ‘Base Closure Community Redevelopment and Homeless Assistance Act of 1994’.”
 
 #### Short Title of 1993 Amendment
 
@@ -64,7 +64,7 @@ Pub. L. 101–645, title VI, §601, Nov. 29, 1990, 104 Stat. 4734, provided that
 
 #### Short Title of 1988 Amendment
 
-Pub. L. 100–628, §1(a), Nov. 7, 1988, 102 Stat. 3224, provided that: “This Act \[enacting sections 3544, 11320, and 11402 of this title and sections 1583, 1791 to 1791j of Title 29, Labor, amending sections 254e, 256, 290bb–2, 290cc–21, 290cc–28, 290cc–29, 290cc–35, 290cc–36, 290dd, 290ee, 290ee–1, 503, 504, 602, 1437d, 1437f, 1437n, 1437<i>o</i>, 1437r, 1472, 1480, 1484 to 1486, 1490<i>o</i>, 3002, 3015, 3021, 3025 to 3027, 3031, 3035a, 3056e, 4013, 4121, 4822, 5302, 5304, 5306, 5318, 8103, 11304, 11313, 11318, 11319, 11352, 11361, 11373 to 11375, 11377, 11382 to 11385, 11387, 11388, 11392, 11394, 11401, 11411, 11421, 11432, 11433, 11435, 11447, 11449, 11462 to 11464, and 11501 ofthis title, sections 1454, 1701x, 1701z–11, 1709, 1710, 1715z–1a, 1715z–12, 1715z–20, 1717, 2805, and 2806 of Title 12, Banks and Banking, sections 1701 and 1719 of Title 15, Commerce and Trade, and sections 49, 49a, 49b, 49d to 49j, 49<i>l</i>, 49<i>l</i>–1, 1502, 1504, 1505, 1514, 1516, 1531, and 1602 of Title 29, enacting provisions set out as notes under this section and sections 256, 1437d, 1437f, 1472, 11303, 11374, 11381, 11383, 11384, 11392, 11401, and 11501 of this title, sections 1710 and 1715z–1a of Title 12, section 2661 of Title 15, and section 1501 of Title 29, and amending provisions set out as notes under sections 290aa–3, 1472, 1490m, and 4822 of this title, sections 1701z–6, 1709, 1715<i>l</i>, and 2802 of Title 12, and section 49 of Title 29\] may be cited as the ‘Stewart B. McKinney Homeless Assistance Amendments Act of 1988’.”
+Pub. L. 100–628, §1(a), Nov. 7, 1988, 102 Stat. 3224, provided that: “This Act \[enacting sections 3544, 11320, and 11402 of this title and sections 1583, 1791 to 1791j of Title 29, Labor, amending sections 254e, 256, 290bb–2, 290cc–21, 290cc–28, 290cc–29, 290cc–35, 290cc–36, 290dd, 290ee, 290ee–1, 503, 504, 602, 1437d, 1437f, 1437n, 1437<i>o</i>, 1437r, 1472, 1480, 1484 to 1486, 1490<i>o</i>, 3002, 3015, 3021, 3025 to 3027, 3031, 3035a, 3056e, 4013, 4121, 4822, 5302, 5304, 5306, 5318, 8103, 11304, 11313, 11318, 11319, 11352, 11361, 11373 to 11375, 11377, 11382 to 11385, 11387, 11388, 11392, 11394, 11401, 11411, 11421, 11432, 11433, 11435, 11447, 11449, 11462 to 11464, and 11501 of this title, sections 1454, 1701x, 1701z–11, 1709, 1710, 1715z–1a, 1715z–12, 1715z–20, 1717, 2805, and 2806 of Title 12, Banks and Banking, sections 1701 and 1719 of Title 15, Commerce and Trade, and sections 49, 49a, 49b, 49d to 49j, 49<i>l</i>, 49<i>l</i>–1, 1502, 1504, 1505, 1514, 1516, 1531, and 1602 of Title 29, enacting provisions set out as notes under this section and sections 256, 1437d, 1437f, 1472, 11303, 11374, 11381, 11383, 11384, 11392, 11401, and 11501 of this title, sections 1710 and 1715z–1a of Title 12, section 2661 of Title 15, and section 1501 of Title 29, and amending provisions set out as notes under sections 290aa–3, 1472, 1490m, and 4822 of this title, sections 1701z–6, 1709, 1715<i>l</i>, and 2802 of Title 12, and section 49 of Title 29\] may be cited as the ‘Stewart B. McKinney Homeless Assistance Amendments Act of 1988’.”
 
 #### Short Title
 
@@ -104,7 +104,7 @@ Findings.—The Congress finds that—
 
 Purposes.—The purposes of this division \[see Short Title of 2009 Amendment note above\] are—
 
-&emsp;“(1) to consolidate the separate homeless assistance programs carried out under title IV of the McKinney-Vento Homeless Assistance Act \[42 U.S.C. 11360 et seq.\] (consisting of the supportive housing program and related innovative programs, the safe havens program, the section 8 \[42 U.S.C. 1437f\] assistance program for single-room occupancy dwellings, and the shelter plus care program) into a single program with specific eligible activities;
+&emsp;“(1) to consolidate the separate homeless assistance programs carried out under title IV of the McKinney-Vento Homeless Assistance Act \[42 U.S.C. 11360 etseq.\] (consisting of the supportive housing program and related innovative programs, the safe havens program, the section 8 \[42 U.S.C. 1437f\] assistance program for single-room occupancy dwellings, and the shelter plus care program) into a single program with specific eligible activities;
 
 &emsp;“(2) to codify in Federal law the continuum of care planning process as a required and integral local function necessary to generate the local strategies for ending homelessness; and
 

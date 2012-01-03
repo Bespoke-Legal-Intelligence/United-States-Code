@@ -124,7 +124,7 @@
 
 #### (A) Finding
 
-&emsp;&emsp;Before the end of the 1-year period beginning on December 19, 1991, the Corporation shall make a finding whether savings banklife insurance activities of insured banks pose or may pose any significant risk to the Deposit Insurance Fund.
+&emsp;&emsp;Before the end of the 1-year period beginning on December 19, 1991, the Corporation shall make a finding whether savings bank life insurance activities of insured banks pose or may pose any significant risk to the Deposit Insurance Fund.
 
 #### (B) Actions
 
@@ -240,7 +240,7 @@ This section shall not be construed as limiting the authority of any appropriate
 
 #### References in Text
 
-The Investment Company Act of 1940, referred to in subsec. (f)(2)(A), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
+The Investment Company Act of 1940, referred to in subsec. (f)(2)(A), is title I of act Aug. 22, 1940, ch. 686, 54Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
 
 Section 1831u of this title, referred to in subsec. (j)(4), was subsequently amended, and subsec. (f) of section 1831u no longer defines the terms “host State”, “home State”, and “out-of-State bank”. However, such terms are defined elsewhere in that section.
 
@@ -254,7 +254,7 @@ Another prior section 1831a, act Sept. 21, 1950, ch. 967, §2\[24\], as added Oc
 
 #### Amendments
 
-2006—Subsecs. (a)(1)(A), (d)(1)(A). Pub. L. 109–173, §8(a)(31)(A), substituted “Deposit Insurance Fund” for “appropriate deposit insurance fund”.
+<b>2006</b>—Subsecs. (a)(1)(A), (d)(1)(A). Pub. L. 109–173, §8(a)(31)(A), substituted “Deposit Insurance Fund” for “appropriate deposit insurance fund”.
 
 Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(14)(W). See 1996 Amendment note below.
 
@@ -262,9 +262,9 @@ Subsec. (e)(2)(A). Pub. L. 109–173, §8(a)(31)(B), substituted “risk to the 
 
 Subsecs. (e)(2)(B)(ii), (f)(6)(B). Pub. L. 109–173, §8(a)(31)(C), substituted “the Deposit Insurance Fund” for “the insurance fund of which such bank is a member”.
 
-1997—Subsec. (j). Pub. L. 105–24 amended subsec. (j) generally, substituting pars. (1) to (4) for former pars. (1) to (3) relating to general provisions, activities of branches, and definitions, respectively.
+<b>1997</b>—Subsec. (j). Pub. L. 105–24 amended subsec. (j) generally, substituting pars. (1) to (4) for former pars. (1) to (3) relating to general provisions, activities of branches, and definitions, respectively.
 
-1996—Subsec. (a). Pub. L. 104–208, §2217(1), substituted “Permissible activities” for “In general” in heading, designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B) of par. (1), respectively, and realigned margins, and added par. (2).
+<b>1996</b>—Subsec. (a). Pub. L. 104–208, §2217(1), substituted “Permissible activities” for “In general” in heading, designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B) of par. (1), respectively, and realigned margins, and added par. (2).
 
 Subsec. (a)(1)(A). Pub. L. 104–208, §2704(d)(14)(W), which directed substitution of “Deposit Insurance Fund” for “appropriate deposit insurance fund”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
@@ -272,9 +272,9 @@ Subsec. (d)(1)(A). Pub. L. 104–208, §2704(d)(14)(W), which directed substitut
 
 Subsec. (d)(3). Pub. L. 104–208, §2217(2), added par. (3).
 
-1994—Subsec. (j). Pub. L. 103–328 added subsec. (j).
+<b>1994</b>—Subsec. (j). Pub. L. 103–328 added subsec. (j).
 
-1992—Subsec. (e)(1)(B). Pub. L. 102–550 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “meets the consumer disclosure requirements under section 1828(k) of this title with respect to such insurance.”
+<b>1992</b>—Subsec. (e)(1)(B). Pub. L. 102–550 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “meets the consumer disclosure requirements under section 1828(k) of this title with respect to such insurance.”
 
 #### Effective Date of 2006 Amendment
 

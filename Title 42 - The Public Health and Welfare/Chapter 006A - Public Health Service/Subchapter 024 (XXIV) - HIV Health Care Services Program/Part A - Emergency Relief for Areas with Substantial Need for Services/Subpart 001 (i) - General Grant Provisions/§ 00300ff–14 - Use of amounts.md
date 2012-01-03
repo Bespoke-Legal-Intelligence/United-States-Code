@@ -186,7 +186,7 @@ A chief elected official may not use amounts received under a grant awarded unde
 
 #### References in Text
 
-The Social Security Act, referred to in subsecs. (f)(2) and (g)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620.Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsecs. (f)(2) and (g)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Prior Provisions
 

@@ -10,7 +10,7 @@ Subject to subsections (b), (c), and (d), the trade readjustment allowance payab
 
 #### (b) Adversely affected workers who are undergoing training
 
-Any adversely affected worker who is entitled to trade readjustment allowances and who is undergoing training approved by the Secretary shall receive for each week in which he is undergoing any such training, a trade readjustment allowance in an amount (computed for such week) equal to the amount computed under subsection (a) of this section or (if greater) the amount of any weekly allowance for such training to which he would be entitled under any other Federal law for the training of workers, ifhe applied for such allowance. Such trade readjustment allowance shall be paid in lieu of any training allowance to which the worker would be entitled under such other Federal law.
+Any adversely affected worker who is entitled to trade readjustment allowances and who is undergoing training approved by the Secretary shall receive for each week in which he is undergoing any such training, a trade readjustment allowance in an amount (computed for such week) equal to the amount computed under subsection (a) of this section or (if greater) the amount of any weekly allowance for such training to which he would be entitled under any other Federal law for the training of workers, if he applied for such allowance. Such trade readjustment allowance shall be paid in lieu of any training allowance to which the worker would be entitled under such other Federal law.
 
 #### (c) Deduction from total number of weeks of allowance entitlement
 
@@ -24,23 +24,29 @@ Notwithstanding section 2291(a)(3)(B) of this title, an adversely affected worke
 
 &emsp;(2) is otherwise entitled to a trade readjustment allowance.
 
-(Pub. L. 93–618, title II, §232, Jan. 3, 1975, 88 Stat. 2021; Pub. L. 97–35, title XXV, §2504(a), Aug. 13, 1981, 95 Stat. 883; Pub. L. 99–272, title XIII, §13003(c), Apr. 7, 1986, 100 Stat. 301; Pub. L. 100–418, title I, §1423(b), Aug. 23, 1988, 102 Stat. 1246; Pub. L. 111–5, div. B, title I, §1822, Feb. 17, 2009, 123 Stat. 377.)
+(Pub. L. 93–618, title II, §232, Jan. 3, 1975, 88 Stat. 2021; Pub. L. 97–35, title XXV, §2504(a), Aug. 13, 1981, 95 Stat. 883; Pub. L. 99–272, title XIII, §13003(c), Apr. 7, 1986, 100 Stat. 301; Pub. L. 100–418, title I, §1423(b), Aug. 23, 1988, 102 Stat. 1246; Pub. L. 111–5, div. B, title I, §1822, Feb. 17, 2009, 123 Stat. 377; Pub. L. 112–40, title II, §201(b), (c), Oct. 21, 2011, 125 Stat. 403.)
 
-#### Amendment of Section
+#### Reversion to Provisions in Effect on February 13, 2011
 
-<i>For termination of amendment by section 1893 of Pub. L. 111–5, see Effective and Termination Dates of 2009 Amendment note below.</i>
+<i>For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to section 233(b) of Pub. L. 112–40, see Codification and Effective and Termination Dates of 2011 Revival notes below.</i>
 
 #### References in Text
 
 This chapter, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, which is classified principally to this chapter. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of this title and Tables.
 
+#### Codification
+
+Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination of amendment by Pub. L. 111–5, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21,2011, 125 Stat. 403, and the provisions of this section, as amended by Pub. L. 111–5 and as in effect on Feb. 12, 2011, were temporarily revived, effective Oct. 21, 2011, until Jan. 1, 2014, by Pub. L. 112–40, §§201(b), (c), 233. See 2009 and 2011 Amendment notes, Effective and Termination Dates of 2009 Amendment notes, and Effective and Termination Dates of 2011 Revival note below.
+
 #### Amendments
 
-<b>2009</b>—Subsec. (a). Pub. L. 111–5, §§1822(1)(A), (B), 1893, temporarily substituted “unemployment shall” for “total unemployment shall” and “subsections (b), (c), and (d)” for “subsections (b) and (c)” in introductory provisions. See Effective and Termination Dates of 2009 Amendment note below.
+<b>2011</b>—Pub. L. 112–40, §§201(b), (c), 233, temporarily revived the provisions of this section, as in effect on Feb. 12, 2011. See Codification note above and 2009 Amendment and Effective and Termination Dates of 2011 Revival notes below.
 
-Subsec. (a)(2). Pub. L. 111–5, §§1822(1)(C), 1893, temporarily inserted “, except that in the case of an adversely affected worker who is participating in training under this part, such income shall not include earnings from work for such week that are equal to or less than the most recent weekly benefit amount of the unemployment insurance payable to the worker for a week of total unemployment preceding the worker's first exhaustion of unemployment insurance (as determined for purposes of section 2291(a)(3)(B) of this title)” before period. See Effective and Termination Dates of 2009 Amendment note below.
+<b>2009</b>—Subsec. (a). Pub. L. 111–5, §§1822(1)(A), (B), 1893, temporarily substituted “unemployment shall” for “total unemployment shall” and “subsections (b), (c), and (d)” for “subsections (b) and (c)” in introductory provisions. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (d). Pub. L. 111–5, §§1822(2), 1893, temporarily added subsec. (d). See Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (a)(2). Pub. L. 111–5, §§1822(1)(C), 1893, temporarily inserted “, except that in the case of an adversely affected worker who is participating in training under this part, such income shall not include earnings from work for such week that are equal to or less than the most recent weekly benefit amount of the unemployment insurance payable to the worker for a week of total unemployment preceding the worker's first exhaustion of unemployment insurance (as determined for purposes of section 2291(a)(3)(B) of this title)” before period. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+
+Subsec. (d). Pub. L. 111–5, §§1822(2), 1893, temporarily added subsec. (d). See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
 <b>1988</b>—Subsec. (b). Pub. L. 100–418, §1423(b)(1), struck out “, including on-the-job training,” after “approved by the Secretary”.
 
@@ -56,11 +62,15 @@ Subsec. (e). Pub. L. 97–35, §2504(a)(2), struck out subsec. (e) which related
 
 Subsec. (f). Pub. L. 97–35, §2504(a)(2), struck out subsec. (f) which authorized rounding off to whole dollar amounts.
 
+#### Effective and Termination Dates of 2011 Revival
+
+For temporary revival and applicability of provisions as in effect on Feb. 12, 2011, see sections 201(b), (c) and 233 of Pub. L. 112–40, set out as notes preceding section 2271 of this title. For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to section 233(b) of Pub. L. 112–40, see section 233 of Pub. L. 112–40, set out as a note preceding section 2271 of this title.
+
 #### Effective and Termination Dates of 2009 Amendment
 
 Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title.
 
-Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and this section to be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
+Section 1893 of Pub. L. 111–5, which provided that, except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and that this section be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403. See Codification note above.
 
 #### Effective Date of 1988 Amendment
 
@@ -72,9 +82,9 @@ Amendment by Pub. L. 97–35 applicable to allowances payable for weeks of unemp
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be providedunder this section after Feb. 12, 2011, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after Dec. 31, 2013, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 
 #### Reference to Subsec. (d) Deemed Reference to (c)
 
-Section 2504(b) of Pub. L. 97–35 provided that: “Any reference in any law to subsection (d) of section 232 of the Trade Act of 1974 \[subsec. (d) of this section\] shall be considered a reference to subsection (c) thereof \[subsec. (c) of this section\].”
+Pub. L. 97–35, title XXV, §2504(b), Aug. 13, 1981, 95 Stat. 883, provided that: “Any reference in any law to subsection (d) of section 232 of the Trade Act of 1974 \[former subsec. (d) of this section\] shall be considered a reference to subsection (c) thereof \[subsec. (c) of this section\].”
 

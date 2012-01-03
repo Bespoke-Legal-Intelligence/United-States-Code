@@ -22,7 +22,7 @@
 
 #### (II) Disagreement with determination
 
-&emsp;&emsp;&emsp;&emsp;If an Indian tribe or tribal organization disagrees with State submitted data described under subclause (I), the Indiantribe or tribal organization may submit to the Secretary such additional information as may be relevant to making the determination under clause (i) and the Secretary may consider such information before making such determination.
+&emsp;&emsp;&emsp;&emsp;If an Indian tribe or tribal organization disagrees with State submitted data described under subclause (I), the Indian tribe or tribal organization may submit to the Secretary such additional information as may be relevant to making the determination under clause (i) and the Secretary may consider such information before making such determination.
 
 #### (2) Grants for Indian tribes that received jobs funds
 
@@ -88,7 +88,7 @@
 
 &emsp;&emsp;(D) provides that a family receiving assistance under the plan may not receive duplicative assistance from other State or tribal programs funded under this part;
 
-&emsp;&emsp;(E) identifies the employment opportunities in or near the service area or areas ofthe Indian tribe and the manner in which the Indian tribe will cooperate and participate in enhancing such opportunities for recipients of assistance under the plan consistent with any applicable State standards; and
+&emsp;&emsp;(E) identifies the employment opportunities in or near the service area or areas of the Indian tribe and the manner in which the Indian tribe will cooperate and participate in enhancing such opportunities for recipients of assistance under the plan consistent with any applicable State standards; and
 
 &emsp;&emsp;(F) applies the fiscal accountability provisions of section 5(f)(1) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450c(f)(1)), relating to the submission of a single-agency audit report required by chapter 75 of title 31.
 

@@ -24,7 +24,7 @@
 
 &emsp;(B) the financial assistance provided encourages and supplements, but does not compete with nor supplant, any private capital investment which otherwise would be available to the proposed municipal waste energy project on reasonable terms and conditions which would permit such project to be undertaken;
 
-&emsp;(C) assurances are provided that the project will not use, in any substantial quantities, waste paper which would otherwise be recycled for a use other than as a fuel and will not substantially compete with facilities in existence on the date of the financial assistancewhich are engaged in the separation or recovery of reuseable materials from municipal waste; and
+&emsp;(C) assurances are provided that the project will not use, in any substantial quantities, waste paper which would otherwise be recycled for a use other than as a fuel and will not substantially compete with facilities in existence on the date of the financial assistance which are engaged in the separation or recovery of reuseable materials from municipal waste; and
 
 &emsp;(D) that the amount of financial assistance provided for the project is not greater than is necessary to achieve the purposes of this chapter.
 

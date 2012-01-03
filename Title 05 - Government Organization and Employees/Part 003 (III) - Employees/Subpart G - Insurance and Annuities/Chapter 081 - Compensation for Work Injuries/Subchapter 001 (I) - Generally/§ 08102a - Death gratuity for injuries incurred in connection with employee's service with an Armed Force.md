@@ -58,9 +58,11 @@ Eligible Survivors.—
 
 &emsp;(3) Subparagraphs (C) and (D) of paragraph (1), so far as they apply to parents and persons in loco parentis, include fathers and mothers through adoption, and persons who stood in loco parentis to the decedent for a period of not less than one year at any time before the decedent became an employee. However, only one father and one mother, or their counterparts in loco parentis, may be recognized in any case, and preference shall be given to those who exercised a parental relationship on the date, or most nearly before the date, on which the decedent became an employee.
 
-&emsp;(4) Beginning on the date of the enactment of this paragraph, a person covered by this section may designate another person to receive not more than 50 percent of the amount payable under this section. The designation shall indicate the percentage of the amount, to be specified only in 10 percent increments up to the maximum of 50 percent, that the designated person may receive. The balance of the amount of the death gratuity shall be paid to or for the living survivors of the person concerned in accordance with subparagraphs (A) through (E) of paragraph (1).
+&emsp;(4) A person covered by this section may designate another person to receive an amount payable under this section. The designation shall indicate the percentage of the amount, to be specified only in 10 percent increments, that the designated person may receive. The balance of the amount of the death gratuity shall be paid to or for the living survivors of the person concerned in accordance with subparagraphs (A) through (E) of paragraph (1).
 
 &emsp;(5) If a person entitled to all or a portion of a death gratuity under paragraph (1) or (4) dies before the person receives the death gratuity, it shall be paid to the living survivor next in the order prescribed by paragraph (1).
+
+&emsp;(6) If a person covered by this section has a spouse, but designates a person other than the spouse to receive all or a portion of the amount payable under this section, the head of the agency, or other entity, in which that person is employed shall provide notice of the designation to the spouse.
 
 (e)
 
@@ -68,7 +70,7 @@ Definitions.—(1) The term “contingency operation” has the meaning given to
 
 (2) The term “employee” has the meaning provided in section 8101 of this title, but also includes a nonappropriated fund instrumentality employee, as defined in section 1587(a)(1) of title 10.
 
-(Added Pub. L. 110–181, div. A, title XI, §1105(a), Jan. 28, 2008, 122 Stat. 347.)
+(Added Pub. L. 110–181, div. A, title XI, §1105(a), Jan. 28, 2008, 122 Stat. 347; amended Pub. L. 112–81, div. A, title XI, §1121(a)(1), (b), Dec. 31, 2011, 125 Stat. 1616.)
 
 #### References in Text
 
@@ -79,4 +81,14 @@ Section 413 of the Foreign Service Act of 1980, referred to in subsec. (c), is c
 Section 1603 of the Emergency Supplemental Appropriations Act for Defense, the Global War on Terror, and Hurricane Recovery, 2006, referred to in subsec. (c), is section 1603 of Pub. L. 109–234, title I, June 15, 2006, 120 Stat. 443, which is not classified to the Code.
 
 The date of the enactment of this paragraph, referred to in subsec. (d)(4), is the date of enactment of Pub. L. 110–181, which was approved Jan. 28, 2008.
+
+#### Amendments
+
+<b>2011</b>—Subsec. (d)(4). Pub. L. 112–81, §1121(a)(1), substituted “A person covered by this section may designate another person to receive an amount payable under this section.” for “Beginning on the date of theenactment of this paragraph, a person covered by this section may designate another person to receive not more than 50 percent of the amount payable under this section.” and struck out “up to the maximum of 50 percent” after “increments”.
+
+Subsec. (d)(6). Pub. L. 112–81, §1121(b), added par. (6).
+
+#### Effective Date of 2011 Amendment
+
+Pub. L. 112–81, div. A, title XI, §1121(a)(2), Dec. 31, 2011, 125 Stat. 1616, provided that: “The amendments made by this subsection \[amending this section\] shall take effect on the date of enactment of this Act \[Dec. 31, 2011\] and apply to the payment of a death gratuity based on any death occurring on or after that date.”
 

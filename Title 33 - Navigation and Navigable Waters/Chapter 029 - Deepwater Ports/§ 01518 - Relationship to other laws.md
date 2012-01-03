@@ -4,7 +4,7 @@
 
 (1) The Constitution, laws, and treaties of the United States shall apply to a deepwater port licensed under this chapter and to activities connected, associated, or potentially interfering with the use or operation of any such port, in the same manner as if such port were an area of exclusive Federal jurisdiction located within a State. Nothing in this chapter shall be construed to relieve, exempt, or immunize any person from any other requirement imposed by Federal law, regulation, or treaty. Deepwater ports licensed under this chapter do not possess the status of islands and have no territorial seas of their own.
 
-(2) Except as otherwise provided by this chapter, nothing in this chapter shall in any way alter the responsibilities and authorities of a State or the United States within the territorial seas of the United States.
+(2) Except as otherwise provided by this chapter, nothing in this chapter shall in any wayalter the responsibilities and authorities of a State or the United States within the territorial seas of the United States.
 
 (3) The Secretary of State shall notify the government of each foreign state having vessels registered under its authority or flying its flag which may call at or otherwise utilize a deepwater port but which do not currently have an agreement in effect as provided in subsection (c)(2)(A)(i) of this section that the United States intends to exercise jurisdiction over vessels calling at or otherwise utilizing a deepwater port and the persons on board such vessels. The Secretary of State shall notify the government of each such state that, absent its objection, its vessels will be subject to the jurisdiction of the United States whenever they—
 
@@ -26,7 +26,7 @@ The law of the nearest adjacent coastal State, now in effect or hereafter adopte
 
 &emsp;(B) are within the safety zone of such a deepwater port, and are engaged in activities connected, associated, or potentially interfering with the use and operation of the deepwater port.
 
-> The jurisdiction of the United States under this paragraph shall not, however, apply to vesselsregistered in or flying the flag of any foreign state that has objected to the application of such jurisdiction.
+> The jurisdiction of the United States under this paragraph shall not, however, apply to vessels registered in or flying the flag of any foreign state that has objected to the application of such jurisdiction.
 
 (2) Except in a situation involving force majeure, a licensee shall not permit a vessel registered in or flying the flag of a foreign state to call at or otherwise utilize a deepwater port licensed under this chapter unless—
 

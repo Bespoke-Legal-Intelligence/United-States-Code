@@ -32,19 +32,19 @@ The Secretary of Housing and Urban Development is authorized and directed to con
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–550 substituted par. (1) and “(2) Expenditures under this subsection may be made for” for “The Secretary is authorized, with respect to any property improved by a one- to four-family dwelling that, before the beginning of construction, was approved for mortgage insurance under this chapter or for guaranty, insurance, or a direct loan under chapter 37 of title 38 and that the Secretary finds to have structural defects, to make expenditures for” and redesignated former cls. (1) to (3) appearing before proviso as cls. (A) to (C), respectively, of par. (2).
+<b>1992</b>—Subsec. (a). Pub. L. 102–550 substituted par. (1) and “(2) Expenditures under this subsection may be made for” for “The Secretary is authorized, with respect to any property improved by a one- to four-family dwelling that, before the beginning of construction, was approved for mortgage insurance under this chapter or for guaranty, insurance, or a direct loan under chapter 37 of title 38 and that the Secretary finds to have structural defects, to make expenditures for” and redesignated former cls. (1) to (3) appearing before proviso as cls. (A) to (C), respectively, of par. (2).
 
-1983—Subsec. (a). Pub. L. 98–181 substituted “that, before the beginning of construction, was approved for mortgage insurance under this chapter or for guaranty, insurance, or a direct loan under chapter 37 of title 38 and that the Secretary finds” for “approved for mortgage insurance prior to the beginning of construction which he finds”.
+<b>1983</b>—Subsec. (a). Pub. L. 98–181 substituted “that, before the beginning of construction, was approved for mortgage insurance under this chapter or for guaranty, insurance, or a direct loan under chapter 37 of title 38 and that the Secretary finds” for “approved for mortgage insurance prior to the beginning of construction which he finds”.
 
-1976—Subsec. (b). Pub. L. 94–375, §9(a), substituted “not more than four months after August 3, 1976” for “not more than 19 months after August 22, 1974”, andprovision requiring expenditures be made from the insurance fund chargeable for insurance benefits on the mortgage covering the structure and appropriating sums for expenditures not otherwise covered for provision requiring expenditures be made from the Special Risk Insurance Fund.
+<b>1976</b>—Subsec. (b). Pub. L. 94–375, §9(a), substituted “not more than four months after August 3, 1976” for “not more than 19 months after August 22, 1974”, andprovision requiring expenditures be made from the insurance fund chargeable for insurance benefits on the mortgage covering the structure and appropriating sums for expenditures not otherwise covered for provision requiring expenditures be made from the Special Risk Insurance Fund.
 
 Subsecs. (d), (e). Pub. L. 94–375, §9(b), added subsecs. (d) and (e).
 
-1975—Subsec. (b). Pub. L. 94–50 substituted “one, two, three, or four” for “one or two”, and “not more than 19 months” for “not more than one year”.
+<b>1975</b>—Subsec. (b). Pub. L. 94–50 substituted “one, two, three, or four” for “one or two”, and “not more than 19 months” for “not more than one year”.
 
-1974—Subsec. (b). Pub. L. 93–383 substituted provisions relating to authorization of the Secretary to make expenditures to correct, or to reimburse the owner for the correction of structural or other major defects of covered one or two family dwellings, for provisions relating to the authorization of the Secretary to make expenditures to correct, or to compensate the owner for, structural or other defects of covered single-family dwellings.
+<b>1974</b>—Subsec. (b). Pub. L. 93–383 substituted provisions relating to authorization of the Secretary to make expenditures to correct, or to reimburse the owner for the correction of structural or other major defects of covered one or two family dwellings, for provisions relating to the authorization of the Secretary to make expenditures to correct, or to compensate the owner for, structural or other defects of covered single-family dwellings.
 
-1970—Subsecs. (b), (c). Pub. L. 91–609 added subsec. (b) and redesignated former subsec. (b) as (c).
+<b>1970</b>—Subsecs. (b), (c). Pub. L. 91–609 added subsec. (b) and redesignated former subsec. (b) as (c).
 
-1967—Subsecs. (a), (b). Pub. L. 90–19 substituted “Secretary” for “Commissioner” wherever appearing.
+<b>1967</b>—Subsecs. (a), (b). Pub. L. 90–19 substituted “Secretary” for “Commissioner” wherever appearing.
 

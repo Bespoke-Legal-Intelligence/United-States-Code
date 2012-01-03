@@ -22,15 +22,15 @@ Section was classified to section 212a of former Title 40, prior to the enactmen
 
 #### Amendments
 
-2010—Subsec. (d). Pub. L. 111–145 repealed Pub. L. 110–161, §1004(d)(1)(A). See 2007 Amendment note below.
+<b>2010</b>—Subsec. (d). Pub. L. 111–145 repealed Pub. L. 110–161, §1004(d)(1)(A). See 2007 Amendment note below.
 
-2008—Subsec. (d). Pub. L. 110–178 added subsec. (d).
+<b>2008</b>—Subsec. (d). Pub. L. 110–178 added subsec. (d).
 
-2007—Subsec. (d). Pub. L. 110–161, §1004(d)(1)(A), which made an amendment identical to that made by Pub. L. 110–178, was repealed by Pub. L. 111–145. See Effective Date of 2010 Amendment note below.
+<b>2007</b>—Subsec. (d). Pub. L. 110–161, §1004(d)(1)(A), which made an amendment identical to that made by Pub. L. 110–178, was repealed by Pub. L. 111–145. See Effective Date of 2010 Amendment note below.
 
-2003—Subsec. (a). Pub. L. 108–7 substituted “this section, sections 1922, 1966, 1967, and 1969 of this title (and regulations promulgated under section 1969 of this title), and chapter 51 of title 40” for “sections 193a to 193m, 212a, 212a–2, and 212b of this title and regulations promulgated under section 212b of this title,”.
+<b>2003</b>—Subsec. (a). Pub. L. 108–7 substituted “this section, sections 1922, 1966, 1967, and 1969 of this title (and regulations promulgated under section 1969 of this title), and chapter 51 of title 40” for “sections 193a to 193m, 212a, 212a–2, and 212b of this title and regulations promulgated under section 212b of this title,”.
 
-2002—Subsec. (a). Pub. L. 107–117, §§901(c)(2)(A), 903(b)(2)(A), amended section identically, inserting “(a)” before “The Capitol Police shall police”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–117, §§901(c)(2)(A), 903(b)(2)(A), amended section identically, inserting “(a)” before “The Capitol Police shall police”.
 
 Subsec. (b). Pub. L. 107–206 redesignated subsec. (b) relating to buildings or facilities acquired by the Chief Administrative Officer of the House of Representatives as (c).
 
@@ -38,13 +38,13 @@ Pub. L. 107–117, §903(c)(2)(B), added subsec. (b) relating to buildings or fa
 
 Pub. L. 107–117, §901(c)(2)(B), added subsec. (b) relating to buildings or facilities acquired by the Sergeant at Arms of the Senate.
 
-Subsec. (c). Pub. L. 107–206 redesignated subsec. (b) relating to buildings or facilities acquired by the ChiefAdministrative Officer of the House of Representatives as (c).
+Subsec. (c). Pub. L. 107–206 redesignated subsec. (b) relating to buildings or facilities acquired by the Chief Administrative Officer of the House of Representatives as (c).
 
-1992—Pub. L. 102–392 and Pub. L. 102–397 amended directory language of Pub. L. 101–520 identically. See 1990 Amendment note below.
+<b>1992</b>—Pub. L. 102–392 and Pub. L. 102–397 amended directory language of Pub. L. 101–520 identically. See 1990 Amendment note below.
 
-1990—Pub. L. 101–520, as amended by Pub. L. 102–392 and Pub. L. 102–397, amended section generally. Prior to amendment, section read as follows: “The Capitol Police shall police the United States Capitol Buildings and Grounds under the direction of the Capitol Police Board, consisting of the Sergeant at Arms of the United States Senate, the Sergeant at Arms of the House of Representatives, and the Architect of the Capitol, and shall have the power to enforce the provisions of sections 193a to 193m, 212a, 212a–2, and 212b of this title and regulations promulgated under section 212b of this title, and to make arrests within the United States Capitol Buildings and Grounds for any violations of any law of the United States, of the District of Columbia, or of any State, or any regulation promulgated pursuant thereto: <i>Provided</i>, That the Metropolitan Police force of the District of Columbia are authorized to make arrests within the United States Capitol Buildings and Grounds for any violations of any such laws or regulations, but such authority shall not be construed as authorizing the Metropolitan Police force, except with the consent or upon the request of the Capitol Police Board, to enter such buildings to make arrests in response to complaints or to serve warrants or to patrol the United States Capitol Buildings and Grounds. For the purpose of this section, the word ‘grounds’ shall include the House Office Building parking area.”
+<b>1990</b>—Pub. L. 101–520, as amended by Pub. L. 102–392 and Pub. L. 102–397, amended section generally. Prior to amendment, section read as follows: “The Capitol Police shall police the United States Capitol Buildings and Grounds under the direction of the Capitol Police Board, consisting of the Sergeant at Arms of the United States Senate, the Sergeant at Arms of the House of Representatives, and the Architect of the Capitol, and shall have the power to enforce the provisions of sections 193a to 193m, 212a, 212a–2, and 212b of this title and regulations promulgated under section 212b of this title, and to make arrests within the United States Capitol Buildings and Grounds for any violations of any law of the United States, of the District of Columbia, or of any State, or any regulation promulgated pursuant thereto: <i>Provided</i>, That the Metropolitan Police force of the District of Columbia are authorized to make arrests within the United States Capitol Buildings and Grounds for any violations of any such laws or regulations, but such authority shall not be construed as authorizing the Metropolitan Police force, except with the consent or upon the request of the Capitol Police Board, to enter such buildings to make arrests in response to complaints or to serve warrants or to patrol the United States Capitol Buildings and Grounds. For the purpose of this section, the word ‘grounds’ shall include the House Office Building parking area.”
 
-1973—Pub. L. 93–198 inserted reference to violations of any law of the District of Columbia and struck out “, with the exception of the streets and roadways shown on the map referred to in section 193a of this title as being under the jurisdiction and control of the Commissioners of the District of Columbia” after “or to patrol the United States Capitol Buildings and Grounds”.
+<b>1973</b>—Pub. L. 93–198 inserted reference to violations of any law of the District of Columbia and struck out “, with the exception of the streets and roadways shown on the map referred to in section 193a of this title as being under the jurisdiction and control of the Commissioners of the District of Columbia” after “or to patrol the United States Capitol Buildings and Grounds”.
 
 #### Effective Date of 2010 Amendment
 

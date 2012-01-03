@@ -44,7 +44,7 @@ Section was formerly classified to section 729 of Title 28 prior to the general 
 
 <b>2000</b>—Subsec. (b). Pub. L. 106–274 inserted “the Religious Land Use and Institutionalized Persons Act of 2000,” after “Religious Freedom Restoration Act of 1993,” and deleted comma after “section 13981 of this title,”.
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–317 inserted before period at end “, except that in any action brought against a judicial officer for an act or omission takenin such officer's judicial capacity such officer shall not be held liable for any costs, including attorney's fees, unless such action was clearly in excess of such officer's jurisdiction”.
+<b>1996</b>—Subsec. (b). Pub. L. 104–317 inserted before period at end “, except that in any action brought against a judicial officer for an act or omission taken in such officer's judicial capacity such officer shall not be held liable for any costs, including attorney's fees, unless such action was clearly in excess of such officer's jurisdiction”.
 
 <b>1994</b>—Subsec. (b). Pub. L. 103–322, which directed the amendment of the last sentence of this section by striking “or” after “92–318,” and by inserting “, or section 13981 of this title,” after “1964”, was executed to subsec. (b) of this section by striking “or” after “Act of 1993,” and by inserting “, or section 13981 of this title,” after “1964”, to reflect the probable intent of Congress and amendments by Pub. L. 102–166 and Pub. L. 103–141. See 1993 and 1991 Amendment notes below.
 
@@ -56,7 +56,7 @@ Subsec. (b). Pub. L. 102–166, §§103, 113(a)(1), designated second sentence o
 
 Subsec. (c). Pub. L. 102–166, §113(a)(2), added subsec. (c).
 
-<b>1980</b>—Pub. L. 96–481 struck out “or in any civil action or proceeding, by or on behalf of the United States of America, to enforce, or charging a violation of, a provision of the United States Internal Revenue Code,”.
+<b>1980</b>—Pub. L. 96–481 struck out “or in any civil action or proceeding, by or on behalf of the United States ofAmerica, to enforce, or charging a violation of, a provision of the United States Internal Revenue Code,”.
 
 <b>1976</b>—Pub. L. 94–559 authorized the court, in its discretion, to allow a reasonable attorney's fee as part of the prevailing party's costs.
 

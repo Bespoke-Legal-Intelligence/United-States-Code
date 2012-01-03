@@ -32,7 +32,7 @@ Scope of Application.—Subchapter V of chapter 7 of this title shall apply only
 
 #### Historical and Revision Notes
 
-I74senate report no. 95–989
+#### senate report no. 95–989
 
 Section 103 prescribes which chapters of the proposed bankruptcy code apply in various cases. All cases, other than cases ancillary to foreign proceedings, are filed under chapter 7, 9, 11, or 13, the operative chapters of the proposed bankruptcy code. The general provisions that apply no matter which chapter a case is filed under are found in chapters 1, 3, and 5. Subsection (a) makes this explicit, with an exception for chapter 9. The other provisions, which are self-explanatory, provide the special rules for Stockbroker Liquidations, Commodity Broker Liquidations, Municipal Debt Adjustments, and Railroad Reorganizations.
 
@@ -44,21 +44,21 @@ Section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991
 
 #### Amendments
 
-2010—Subsec. (a). Pub. L. 111–327 substituted “362(<i>o</i>)” for “362(n)”.
+<b>2010</b>—Subsec. (a). Pub. L. 111–327 substituted “362(<i>o</i>)” for “362(n)”.
 
-2005—Subsec. (a). Pub. L. 109–8, §802(a)(1), inserted “, and this chapter, sections 307, 362(n), 555 through 557, and 559 through 562 apply in a case under chapter 15” before period.
+<b>2005</b>—Subsec. (a). Pub. L. 109–8, §802(a)(1), inserted “, and this chapter, sections 307, 362(n), 555 through 557, and 559 through 562 apply in a case under chapter 15” before period.
 
 Subsec. (k). Pub. L. 109–8, §802(a)(2), added subsec. (k).
 
-2000—Subsecs. (e) to (j). Pub. L. 106–554 added subsec. (e) and redesignated former subsecs. (e) to (i) as (f) to (j), respectively.
+<b>2000</b>—Subsecs. (e) to (j). Pub. L. 106–554 added subsec. (e) and redesignated former subsecs. (e) to (i) as (f) to (j), respectively.
 
-1986—Subsec. (a). Pub. L. 99–554, §252(1), inserted reference to chapter 12.
+<b>1986</b>—Subsec. (a). Pub. L. 99–554, §252(1), inserted reference to chapter 12.
 
 Subsec. (i). Pub. L. 99–554, §252(2), added subsec. (i).
 
-1984—Subsec. (c). Pub. L. 98–353 substituted “stockbroker” for “stockholder”.
+<b>1984</b>—Subsec. (c). Pub. L. 98–353 substituted “stockbroker” for “stockholder”.
 
-1982—Subsec. (d). Pub. L. 97–222 struck out “except with respect to section 746(c) which applies to margin payments made by any debtor to a commodity broker or forward contract merchant” after “concerning a commodity broker”.
+<b>1982</b>—Subsec. (d). Pub. L. 97–222 struck out “except with respect to section 746(c) which applies to margin payments made by any debtor to a commodity broker or forward contract merchant” after “concerning a commodity broker”.
 
 #### Effective Date of 2005 Amendment
 

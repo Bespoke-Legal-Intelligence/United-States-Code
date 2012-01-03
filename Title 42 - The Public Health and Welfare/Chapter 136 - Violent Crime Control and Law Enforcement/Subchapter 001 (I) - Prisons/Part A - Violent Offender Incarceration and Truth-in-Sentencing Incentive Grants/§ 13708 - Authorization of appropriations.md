@@ -24,7 +24,7 @@
 
 #### (B) Distribution of minimum amounts
 
-&emsp;&emsp;The Attorney General shall distribute minimum amounts allocated for section13703(a) of this title to an eligible State not later than 30 days after receiving an application that demonstrates that such State qualifies for a Violent Offender Incarceration grant under section 13703 of this title or a Truth-in-Sentencing Incentive grant under section 13704 of this title.
+&emsp;&emsp;The Attorney General shall distribute minimum amounts allocated for section 13703(a) of this title to an eligible State not later than 30 days after receiving an application that demonstrates that such State qualifies for a Violent Offender Incarceration grant under section 13703 of this title or a Truth-in-Sentencing Incentive grant under section 13704 of this title.
 
 #### (b) Limitations on funds
 

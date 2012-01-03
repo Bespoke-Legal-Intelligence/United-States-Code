@@ -30,7 +30,7 @@
 
 &emsp;(2) postal operations generally, including data on the speed and reliability of service provided for the various classes of mail and types of mail service, mail volume, productivity, trends in postal operations, and analyses of the impact of internal and external factors upon the Postal Service;
 
-&emsp;(3) a listing of the total expenditures and obligations incurred by the Postal Service forthe most recent fiscal year for which information is available, an estimate of the total expenditures and obligations to be incurred by the Postal Service during the fiscal year for which funds are requested to be appropriated, and the means by which these estimated expenses will be financed; and
+&emsp;(3) a listing of the total expenditures and obligations incurred by the Postal Service for the most recent fiscal year for which information is available, an estimate of the total expenditures and obligations to be incurred by the Postal Service during the fiscal year for which funds are requested to be appropriated, and the means by which these estimated expenses will be financed; and
 
 &emsp;(4) such other matters as the committees may determine necessary to ensure that the Congress is fully and currently consulted and informed on postal operations, plans, and policies.
 
@@ -74,7 +74,7 @@ Subsec. (g). Pub. L. 103–123, §704(b)(1)(B), (D), redesignated (i) as (g) and
 
 Subsecs. (h), (i). Pub. L. 103–123, §704(b)(1)(B), redesignated subsecs. (h) and (i) as (f) and (g), respectively.
 
-<b>1991</b>—Subsec. (c). Pub. L. 102–141 amended last sentence generally. Prior to amendment, last sentence read as follows: “In requesting an appropriation under this subsection for a fiscal year, the Postal Service shall include an amount to reconcile sums authorizedto be appropriated for prior fiscal years on the basis of estimated mail volume with sums which would have been authorized to be appropriated if based on the final audited mail volume.”
+<b>1991</b>—Subsec. (c). Pub. L. 102–141 amended last sentence generally. Prior to amendment, last sentence read as follows: “In requesting an appropriation under this subsection for a fiscal year, the Postal Service shall include an amount to reconcile sums authorized to be appropriated for prior fiscal years on the basis of estimated mail volume with sums which would have been authorized to be appropriated if based on the final audited mail volume.”
 
 <b>1990</b>—Subsec. (c). Pub. L. 101–509 substituted “3626(a)–(h) and (j)–(k)” for “3626(a)–(h)”.
 

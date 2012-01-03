@@ -36,7 +36,7 @@ Congress makes the following findings:
 
 &emsp;(9) Black market proliferation networks continue to flourish in the Middle East, allowing countries like Iran to gain access to sensitive dual-use technologies.
 
-&emsp;(10) Economic sanctions imposed pursuant to the provisions of this Act, the Iran SanctionsAct of 1996, as amended by this Act, and the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.), and other authorities available to the United States to impose economic sanctions to prevent Iran from developing nuclear weapons, are necessary to protect the essential security interests of the United States.
+&emsp;(10) Economic sanctions imposed pursuant to the provisions of this Act, the Iran Sanctions Act of 1996, as amended by this Act, and the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.), and other authorities available to the United States to impose economic sanctions to prevent Iran from developing nuclear weapons, are necessary to protect the essential security interests of the United States.
 
 (Pub. L. 111–195, §2, July 1, 2010, 124 Stat. 1313.)
 

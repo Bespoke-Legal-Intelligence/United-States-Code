@@ -6,7 +6,7 @@
 
 &emsp;The Secretary of Labor (in this section referred to as the “Secretary”) shall make grants to the Alaska Workforce Investment Board—
 
-&emsp;&emsp;(A) to recruit and train adult and dislocated workers in Alaska, including Alaska Natives, in the skills required to constructand operate an Alaska gas pipeline system; and
+&emsp;&emsp;(A) to recruit and train adult and dislocated workers in Alaska, including Alaska Natives, in the skills required to construct and operate an Alaska gas pipeline system; and
 
 &emsp;&emsp;(B) for the design and construction of a training facility to be located in Fairbanks, Alaska, to support an Alaska gas pipeline training program.
 

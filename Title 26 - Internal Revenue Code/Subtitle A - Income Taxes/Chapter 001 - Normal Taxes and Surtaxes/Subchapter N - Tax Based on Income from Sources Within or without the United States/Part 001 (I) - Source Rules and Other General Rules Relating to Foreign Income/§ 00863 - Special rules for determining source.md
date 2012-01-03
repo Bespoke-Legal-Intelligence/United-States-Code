@@ -158,7 +158,7 @@ Section 1212(f) of Pub. L. 99–514 provided that:
 
 “(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting section887 of this title and amending this section and sections 861, 872, and 883 of this title\] shall apply to taxable years beginning after December 31, 1986.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting section 887 of this title and amending this section and sections 861, 872, and 883 of this title\] shall apply to taxable years beginning after December 31, 1986.
 
 “(2)
 

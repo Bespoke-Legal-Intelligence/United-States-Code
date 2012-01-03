@@ -142,9 +142,9 @@ Subsec. (b)(3). Pub. L. 94–455, §1901(a)(135)(C)(iii), (b)(33)(L), substitute
 
 Subsec. (c). Pub. L. 94–455, §1901(a)(135)(B), substituted in heading “where capital gain exceeds $50,000” for “on capital gain in excess of subsection (d) gain”, struck out par. (1) designation, substituted “net capital gain” for “net section 1201 gain” and “50 percent of the sum referred to in subsection (b)(2)(A)” for “50 percent of the subsection (d) gain”, and struck out par. (2) limitation that the tax computed for purposes of subsec. (b) shall not exceed an amount equal to the following percentage of the excess of the net section 1201 gain over the subsec. (d) gain:
 
-&emsp;(A) 291/2 percent, in the case of a taxable year beginning after Dec. 31, 1969, and before Jan. 1, 1971, or
+&emsp;(A) 29½ percent, in the case of a taxable year beginning after Dec. 31, 1969, and before Jan. 1, 1971, or
 
-&emsp;(B) 321/2 percent, in the case of a taxable year beginning after Dec. 31, 1971, and before Jan. 1, 1972.
+&emsp;(B) 32½ percent, in the case of a taxable year beginning after Dec. 31, 1971, and before Jan. 1, 1972.
 
 Subsecs. (d), (e). Pub. L. 94–455, §1901(a)(135)(C)(i), redesignated subsec. (e) as (d) and struck out existing subsec. (d) defining “subsection (d) gain”.
 
@@ -256,7 +256,7 @@ Taxable years which begin in 1986 and end in 1987.—In the case of any taxable 
 
 #### Rate on Net Capital Gain for Portion of 1981;    20-Percent Maximum&nbsp;&nbsp;&nbsp;
 
-Pub. L. 97–34, title I, §102, Aug. 13, 1981, 95 Stat. 186, as amended by Pub. L. 97–448, title I, §101(aa), Jan. 12, 1983, 96 Stat. 2366; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 97–34, title I, §102, Aug. 13, 1981, 95 Stat. 186, as amended by Pub. L. 97–448, title I, §101(aa), Jan. 12,1983, 96 Stat. 2366; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(a)
 

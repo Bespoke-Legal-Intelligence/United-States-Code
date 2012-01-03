@@ -16,7 +16,7 @@ Each such plan supplement shall—
 
 &emsp;(4) demonstrate evidence of the efforts of the designated State agency to identify and make arrangements (including entering into cooperative agreements) with other State agencies and other appropriate entities to assist in the provision of supported employment services;
 
-&emsp;(5) demonstrate evidence of the efforts of the designated State agency to identify and make arrangements (including entering into cooperative agreements) with other public or nonprofit agencies or organizations within the State, employers, natural supports, and other entities with respect to the provision of extended services;
+&emsp;(5) demonstrate evidence of the efforts of the designated State agency to identify and make arrangements (including entering into cooperative agreements) with other public or nonprofit agencies or organizations within theState, employers, natural supports, and other entities with respect to the provision of extended services;
 
 &emsp;(6) provide assurances that—
 

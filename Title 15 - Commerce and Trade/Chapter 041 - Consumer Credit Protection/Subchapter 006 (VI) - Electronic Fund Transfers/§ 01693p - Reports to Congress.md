@@ -1,14 +1,10 @@
 ### §1693p. Reports to Congress
 
-(a) Not later than twelve months after the effective date of this subchapter and at one-year intervals thereafter, the Board shall make reports to the Congress concerning the administration of its functions under this subchapter, including such recommendations as the Board deems necessary and appropriate. In addition, each report of the Board shall include its assessment of the extent to which compliance with this subchapter is being achieved, and a summary of the enforcement actions taken under section 1693<i>o</i> <sup>1</sup> of this title. In such report, the Board shall particularly address the effects of this subchapter on the costs and benefits to financial institutions and consumers, on competition, on the introduction of new technology, on the operations of financial institutions, and on the adequacy of consumer protection.
+(a) Not later than twelve months after the effective date of this subchapter and at one-year intervals thereafter, the Bureau shall make reports to the Congress concerning the administration of its functions under this subchapter, including such recommendations as the Bureau deems necessary and appropriate. In addition, each report of the Bureau shall include its assessment of the extent to which compliance with this subchapter is being achieved, and a summary of the enforcement actions taken under section 1693<i>o</i> <sup>1</sup> of this title. In such report, the Bureau shall particularly address the effects of this subchapter on the costs and benefits to financial institutions and consumers, on competition, on the introduction of new technology, on the operations of financial institutions, and on the adequacy of consumer protection.
 
-(b) In the exercise of its functions under this subchapter, the Board may obtain upon request the views of any other Federal agency which, in the judgment of the Board, exercises regulatory or supervisory functions with respect to any class of persons subject to this subchapter.
+(b) In the exercise of its functions under this subchapter, the Bureau may obtain upon request the views of any other Federal agency which, in the judgment of the Bureau, exercises regulatory or supervisory functions with respect to any class of persons subject to this subchapter.
 
 (Pub. L. 90–321, title IX, §921, formerly §918, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3740; amended Pub. L. 97–375, title II, §209(a), Dec. 21, 1982, 96 Stat. 1825; renumbered §919, Pub. L. 111–24, title IV, §401(1), May 22, 2009, 123 Stat. 1751; renumbered §920, renumbered §921, and amended Pub. L. 111–203, title X, §§1073(a)(3), 1075(a)(1), 1084(1), July 21, 2010, 124 Stat. 2060, 2068, 2081.)
-
-#### Amendment of Section
-
-<i>Pub. L. 111–203, title X, §§1084(1), 1100H, July 21, 2010, 124 Stat. 2081, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Board” each place that term appears and inserting “Bureau”. See Effective Date of 2010 Amendment note below.</i>
 
 #### References in Text
 
@@ -27,6 +23,8 @@ Two prior sections 921 of Pub. L. 90–321 were renumbered section 922 and are c
 Another prior section 921 of Pub. L. 90–321 was renumbered section 923 and is classified as an Effective Date note under section 1693 of this title.
 
 #### Amendments
+
+<b>2010</b>—Pub. L. 111–203, §1084(1), substituted “Bureau” for “Board” wherever appearing.
 
 <b>1982</b>—Subsec. (a). Pub. L. 97–375 struck out requirement that the Attorney General make a report on the same terms as the Board, and that such report also contain an analysis of the impact of this subchapter on the operation, workload, and efficiency of the Federal courts, and substituted “necessary and appropriate” for “necessary or appropriate”.
 

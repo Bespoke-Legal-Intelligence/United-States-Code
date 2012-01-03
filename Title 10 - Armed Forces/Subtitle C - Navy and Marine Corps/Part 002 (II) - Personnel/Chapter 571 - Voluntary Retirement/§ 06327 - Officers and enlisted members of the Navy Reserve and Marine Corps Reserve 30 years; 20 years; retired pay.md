@@ -6,7 +6,7 @@
 
 &emsp;(2) at least 20 years of active service in the armed forces other than active duty for training, the last 10 of which he served in the 11-year period immediately preceding his transfer to the Retired Reserve.
 
-(b) Each member who is transferred to the Retired Reserve under subsection (a) is entitled,when not on active duty, to retired pay at the rate of 50 percent of the basic pay of the grade in which retired.
+(b) Each member who is transferred to the Retired Reserve under subsection (a) is entitled, when not on active duty, to retired pay at the rate of 50 percent of the basic pay of the grade in which retired.
 
 (c) This section applies only to persons who were members of the Navy Reserve or the Marine Corps Reserve on January 1, 1953.
 

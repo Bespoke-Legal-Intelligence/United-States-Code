@@ -80,7 +80,7 @@
 
 &emsp;(C) the balance between the components of the Program, including funding levels for the Program Component Areas;
 
-&emsp;(D) whether the research and development undertaken pursuant to the Program is helping to maintain United States leadership in high-performance computing, networking technology, and related software; and
+&emsp;(D) whether the research and development undertaken pursuant to the Program is helping to maintain United States leadership inhigh-performance computing, networking technology, and related software; and
 
 &emsp;(E) other issues identified by the Director.
 
@@ -144,13 +144,17 @@ Subsec. (b). Pub. L. 105–305, §4(b), struck out “High-performance computing
 
 <b>1995</b>—Subsec. (a)(4)(D) to (F). Pub. L. 104–66 struck out “and” at end of subpar. (D), added subpar. (E), and redesignated former subpar. (E) as (F).
 
+#### Change of Name
+
+Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+
 #### Termination of Advisory Committees
 
 Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Delegation of Functions
 
-President's Council of Advisors on Science and Technology to serve as the advisory committee identified in sections 5511(b) and 5513(b) of this title and to be known as the President's Innovation and Technology Advisory Committee when so serving, see section 2(a)(iii) of Ex. Ord. No. 13539, set out as a note under section 6601 of Title 42, The Public Health and Welfare.
+President's Council of Advisors on Science and Technology to serve as the advisory committee identified insections 5511(b) and 5513(b) of this title and to be known as the President's Innovation and Technology Advisory Committee when so serving, see section 2(a)(iii) of Ex. Ord. No. 13539, set out as a note under section 6601 of Title 42, The Public Health and Welfare.
 
 #### Ex. Ord. No. 13035. President's Information Technology Advisory Committee
 

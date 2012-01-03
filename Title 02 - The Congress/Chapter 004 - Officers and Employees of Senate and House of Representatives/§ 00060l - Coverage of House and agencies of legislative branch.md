@@ -42,7 +42,7 @@
 
 #### (4) Definition of instrumentalities
 
-&emsp;For purposes of this section, instrumentalities of the Congress include the following: the Architect of the Capitol, the Congressional Budget Office, the Government Accountability Office, the Government Printing Office, the Office of Technology Assessment, and the United States Botanic Garden.
+&emsp;For purposes of this section, instrumentalities of the Congress include the following: theArchitect of the Capitol, the Congressional Budget Office, the Government Accountability Office, the Government Printing Office, the Office of Technology Assessment, and the United States Botanic Garden.
 
 #### (5) Construction
 
@@ -62,7 +62,7 @@ Section 2000e–16a of title 42, referred to in subsec. (b)(2), was amended gene
 
 #### Amendments
 
-2004—Subsec. (b)(4). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (b)(4). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
 #### Effective Date
 

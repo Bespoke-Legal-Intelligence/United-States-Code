@@ -2,7 +2,7 @@
 
 (a)
 
-Order to Duty.—A member of the Army National Guard of the United States or the Air National Guard of the United States may be ordered to funeral honors duty, with the consent of the member, to prepare for or perform funeral honors functions at the funeral of a veteran under section 1491 of title 10. However, a member of the Army National Guard of the United States or the Air National Guard of the United States may not be ordered to perform funeral honors functions under this section without the consent of the Governor or other appropriate authority of the State concerned. Performance of funeral honors duty by such a member not on active duty or full-time National Guard duty shall be treated as inactive-duty training (including with respect to travel to and from such duty) for purposes of any provision of law other than sections 206 and 435 of title 37.
+Order to Duty.—A member of the Army National Guard of the United States or the Air National Guard of the United States may be ordered to funeral honors duty, with the consent of the member, to prepare for or perform funeral honors functions at the funeral of a veteran under section 1491 of title 10. However, a member of the Army National Guard of the United States or the Air National Guard of the United States may not be ordered to perform funeral honors functions under this section without the consent of the Governor or other appropriate authority of the State concerned. Performance of funeral honors duty by such a member not on active duty or full-time National Guard duty shall be treated as inactive-duty training (including with respect to travel to and from such duty) for purposes of any provision of law other than sections 206 and 495 of title 37.
 
 (b)
 
@@ -12,7 +12,7 @@ Service Credit.—A member ordered to funeral honors duty under this section sha
 
 &emsp;(2) as directed by the Secretary concerned, either—
 
-&emsp;&emsp;(A) the allowance under section 435 of title 37; or
+&emsp;&emsp;(A) the allowance under section 495 of title 37; or
 
 &emsp;&emsp;(B) compensation under section 206 of title 37.
 
@@ -24,9 +24,15 @@ Reimbursable Expenses.—A member who performs funeral honors duty under this se
 
 Regulations.—The exercise of authority under subsection (a) is subject to regulations prescribed by the Secretary of Defense.
 
-(Added Pub. L. 106–65, div. A, title V, §578(g)(2), Oct. 5, 1999, 113 Stat. 627; amended Pub. L. 106–398, §1 \[\[div. A\], title V, §575(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–138; Pub. L. 107–107, div. A, title V, §562(b), Dec. 28, 2001, 115 Stat. 1119.)
+(Added Pub. L. 106–65, div. A, title V, §578(g)(2), Oct. 5, 1999, 113 Stat. 627; amended Pub. L. 106–398, §1 \[\[div. A\], title V, §575(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–138; Pub. L. 107–107, div. A, title V, §562(b), Dec. 28, 2001, 115 Stat. 1119; Pub. L. 112–81, div. A, title VI, §631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465.)
+
+#### Codification
+
+Section 631(f)(4)(A) of Pub. L. 112–81, which directed that this title be amended by conforming any references to sections of title 37, United States Code, which were transferred and redesignated by “subsection (c)” of section 631, was executed by conforming the references to those sections as transferred and redesignated by subsection (d) of section 631, to reflect the probable intent of Congress.
 
 #### Amendments
+
+<b>2011</b>—Subsecs. (a), (b)(2)(A). Pub. L. 112–81 substituted “495” for “435”. See Codification note above.
 
 <b>2001</b>—Subsec. (a). Pub. L. 107–107 inserted at end “Performance of funeral honors duty by such a member not on active duty or full-time National Guard duty shall be treated as inactive-duty training (including with respect to travel to and from such duty) for purposes of any provision of law other than sections 206 and 435 of title 37.”
 

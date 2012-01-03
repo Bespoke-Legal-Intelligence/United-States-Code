@@ -20,7 +20,7 @@ Any State or political subdivision may petition the Administrator for a finding 
 
 #### (c) Violations; allowable continued operation
 
-Notwithstanding any permit which may have been granted by the State in which the source islocated (or intends to locate), it shall be a violation of this section and the applicable implementation plan in such State—
+Notwithstanding any permit which may have been granted by the State in which the source is located (or intends to locate), it shall be a violation of this section and the applicable implementation plan in such State—
 
 &emsp;(1) for any major proposed new (or modified) source with respect to which a finding has been made under subsection (b) of this section to be constructed or to operate in violation of the prohibition of section 7410(a)(2)(D)(ii) of this title or this section, or
 

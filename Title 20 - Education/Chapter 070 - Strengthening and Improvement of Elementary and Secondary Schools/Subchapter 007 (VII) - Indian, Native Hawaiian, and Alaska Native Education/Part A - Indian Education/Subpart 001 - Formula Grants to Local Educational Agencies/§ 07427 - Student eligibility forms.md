@@ -32,7 +32,7 @@ Nothing in this section shall be construed to affect a definition contained in s
 
 #### (d) Forms and standards of proof
 
-The forms and the standards of proof (including the standard of good faith compliance) that were in use during the 1985–86 academic year toestablish the eligibility of a child for entitlement under the Indian Elementary and Secondary School Assistance Act shall be the forms and standards of proof used—
+The forms and the standards of proof (including the standard of good faith compliance) that were in use during the 1985–86 academic year to establish the eligibility of a child for entitlement under the Indian Elementary and Secondary School Assistance Act shall be the forms and standards of proof used—
 
 &emsp;(1) to establish eligibility under this subpart; and
 
@@ -90,5 +90,5 @@ The Indian Elementary and Secondary School Assistance Act, referred to in subsec
 
 #### Prior Provisions
 
-A prior section 7427, Pub. L. 89–10, title VII, §7117, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3727, related to intensified instruction for limited English proficient students, prior to the general amendment of this subchapter by Pub. L. 107–110.
+A prior section 7427, Pub. L. 89–10, title VII, §7117, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3727, related to intensified instruction for limitedEnglish proficient students, prior to the general amendment of this subchapter by Pub. L. 107–110.
 

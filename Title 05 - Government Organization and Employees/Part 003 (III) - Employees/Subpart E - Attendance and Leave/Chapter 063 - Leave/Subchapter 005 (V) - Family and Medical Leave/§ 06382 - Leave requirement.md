@@ -36,7 +36,7 @@
 
 &emsp;(A) shall make a reasonable effort to schedule the treatment so as not to disrupt unduly the operations of the employing agency, subject to the approval of the health care provider of the employee or the health care provider of the son, daughter, spouse, parent, or covered servicemember of the employee, as appropriate; and
 
-&emsp;(B) shall provide the employing agency with not less than 30 days’ notice, before the datethe leave is to begin, of the employee's intention to take leave under such subparagraph, except that if the date of the treatment requires leave to begin in less than 30 days, the employee shall provide such notice as is practicable.
+&emsp;(B) shall provide the employing agency with not less than 30 days’ notice, before the date the leave is to begin, of the employee's intention to take leave under such subparagraph, except that if the date of the treatment requires leave to begin in less than 30 days, the employee shall provide such notice as is practicable.
 
 (3) In any case in which the necessity for leave under subsection (a)(1)(E) is foreseeable, whether because the spouse, or a son, daughter, or parent, of the employee is on covered active duty, or because of notification of an impending call or order to covered active duty, the employee shall provide such notice to the employer as is reasonable and practicable.
 
@@ -44,7 +44,7 @@
 
 #### Amendments
 
-2009—Subsec. (a)(1)(E). Pub. L. 111–84, §565(b)(1)(B)(i), added subpar. (E).
+<b>2009</b>—Subsec. (a)(1)(E). Pub. L. 111–84, §565(b)(1)(B)(i), added subpar. (E).
 
 Subsec. (b)(1). Pub. L. 111–84, §565(b)(1)(B)(ii), inserted after second sentence “Subject to subsection (e)(3) and section 6383(f), leave under subsection (a)(1)(E) may be taken intermittently or on a reduced leave schedule.”
 
@@ -54,7 +54,7 @@ Subsec. (e)(2)(A). Pub. L. 111–84, §565(b)(4), substituted “parent, or cove
 
 Subsec. (e)(3). Pub. L. 111–84, §565(b)(1)(B)(iv), added par. (3).
 
-2008—Subsec. (a)(3), (4). Pub. L. 110–181, §585(b)(2), added pars. (3) and (4).
+<b>2008</b>—Subsec. (a)(3), (4). Pub. L. 110–181, §585(b)(2), added pars. (3) and (4).
 
 Subsec. (b)(1). Pub. L. 110–181, §585(b)(3)(A)(i), in second sentence, substituted “subsection (b)(5) or (f) (as appropriate) of section 6383” for “section 6383(b)(5)” and inserted “or under subsection (a)(3)” after “subsection (a)(1)”.
 

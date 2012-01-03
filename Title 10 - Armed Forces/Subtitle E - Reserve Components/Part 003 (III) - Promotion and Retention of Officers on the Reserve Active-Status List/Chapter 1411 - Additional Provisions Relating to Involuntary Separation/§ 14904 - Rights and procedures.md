@@ -10,7 +10,7 @@ Procedural Rights.—Under regulations prescribed by the Secretary of Defense, a
 
 &emsp;(3) shall be allowed to appear in person and to be represented by counsel at proceedings before the board of inquiry; and
 
-&emsp;(4) shall be allowed full access to, and shall be furnished copies of, records relevant to the case, except that the board of inquiry shall withhold any record that the Secretary concerned determines should be withheld in the interest of national security.
+&emsp;(4) shall be allowed full access to, and shall be furnished copies of, records relevant to the case, except that the board of inquiry shallwithhold any record that the Secretary concerned determines should be withheld in the interest of national security.
 
 (b)
 

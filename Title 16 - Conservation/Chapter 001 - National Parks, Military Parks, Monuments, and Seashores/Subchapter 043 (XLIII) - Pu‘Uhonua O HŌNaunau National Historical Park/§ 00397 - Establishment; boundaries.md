@@ -34,7 +34,7 @@ Beginning at a one and one-half-inch pipe in concrete monument called “Kalani�
 
 12\. One hundred and seventy-two degrees twenty-eight minutes forty-eight and one-tenth feet along same;
 
-13\. Two hundred and twenty-six degrees twenty-three minutes two hundred twenty-eight and eight-tenths feet along remainder of L. C. Aw. 11216:34 to M. Kekauonohi to the south side of fifty-foot road;
+13\. Two hundred and twenty-six degrees twenty-three minutes two hundred twenty-eight and eight-tenths feet along remainder of L. C. Aw.11216:34 to M. Kekauonohi to the south side of fifty-foot road;
 
 14\. Two hundred and sixty-four degrees fifty-one minutes one hundred fifteen and two-tenths feet along the south side of fifty-foot road;
 
@@ -114,7 +114,7 @@ The Secretary of the Interior is authorized to acquire approximately 159 acres o
 
 #### Change of Name
 
-Pub. L. 106–510, §3(d)(2), Nov. 13, 2000, 114 Stat. 2364, provided that: “Any reference in any law (other than this Act \[see Short Title of 2000 Amendments note setout under section 1 of this title\]), regulation, document, record, map, or other paper of the United States to ‘Puuhonua o Honaunau National Historical Park\[’\] shall be considered a reference to ‘Pu‘uhonua o Hōnaunau National Historical Park’.”
+Pub. L. 106–510, §3(d)(2), Nov. 13, 2000, 114 Stat. 2364, provided that: “Any reference in any law (other than this Act \[see Short Title of 2000 Amendments note set out under section 1 of this title\]), regulation, document, record, map, or other paper of the United States to ‘Puuhonua o Honaunau National Historical Park\[’\] shall be considered a reference to ‘Pu‘uhonua o Hōnaunau National Historical Park’.”
 
 #### Short Title of 2002 Amendment
 

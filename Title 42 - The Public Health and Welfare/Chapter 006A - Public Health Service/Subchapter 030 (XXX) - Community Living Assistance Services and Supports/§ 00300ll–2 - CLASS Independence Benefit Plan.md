@@ -36,7 +36,7 @@
 
 #### (C) Benefit triggers
 
-&emsp;&emsp;A benefit trigger for provision of benefits that requires a determination that an individual has a functional limitation, as certified by a licensed health care practitioner,described in any of the following clauses that is expected to last for a continuous period of more than 90 days:
+&emsp;&emsp;A benefit trigger for provision of benefits that requires a determination that an individual has a functional limitation, as certified by a licensed health care practitioner, described in any of the following clauses that is expected to last for a continuous period of more than 90 days:
 
 &emsp;&emsp;&emsp;(i) The individual is determined to be unable to perform at least the minimum number (which may be 2 or 3) of activities of daily living as are required under the plan for the provision of benefits without substantial assistance (as defined by the Secretary) from another individual.
 
@@ -118,7 +118,7 @@
 
 &emsp;&emsp;An individual subject to a nominal premium on the basis of being described in subsection (a)(1)(A)(ii)(I)(bb) who ceases to be described in that subsection, beginning with the first month following the month in which the individual ceases to be so described, shall be subject to the same monthly premium as the monthly premium that applies to an individual of the same age who first enrolls in the program under the most similar circumstances as the individual (such as the first year of eligibility for enrollment in the program or in a subsequent year).
 
-#### (E) Penalty for reenollment after 5-year lapse
+#### (E) Penalty for reenollment <sup>1</sup> after 5-year lapse
 
 &emsp;&emsp;In the case of an individual who reenrolls in the CLASS program after the end of the 5-year period described in subparagraph (C)(ii), the monthly premium required for the individual shall be the age-adjusted premium that would be applicable to an initially enrolling individual who is the same age as the reenrolling individual, increased by the greater of—
 
@@ -142,7 +142,7 @@
 
 The Secretary shall establish procedures to—
 
-&emsp;(1) permit an individual who is eligible for the nominal premium required under subsection (a)(1)(A)(ii) to self-attest that their income does not exceed the poverty line or that their status as a full-time student who is actively employed; <sup>1</sup>
+&emsp;(1) permit an individual who is eligible for the nominal premium required under subsection (a)(1)(A)(ii) to self-attest that their income does not exceed the poverty line or that their status as a full-time student who is actively employed; <sup>2</sup>
 
 &emsp;(2) verify, using procedures similar to the procedures used by the Commissioner of Social Security under section 1383(e)(1)(B)(ii) of this title and consistent with the requirements applicable to the conveyance of data and information under section 1396w–2 of this title, the validity of such self-attestation; and
 
@@ -158,5 +158,7 @@ Subsec. (b)(1)(C)(i). Pub. L. 111–148, §10801(a)(1)(B), substituted “for re
 
 Subsec. (c)(1). Pub. L. 111–148, §10801(a)(1)(C), struck out “, as part of their automatic enrollment in the CLASS program,” after “subsection (a)(1)(A)(ii)”.
 
-<i><sup>1</sup></i><i> So in original.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “reenrollment”.</i>
+
+<i><sup>2</sup></i><i> So in original.</i>
 

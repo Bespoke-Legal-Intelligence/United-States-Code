@@ -98,17 +98,17 @@ The Food Stamp Act of 1977, referred to in subsec. (c)(2)(L), subsequently renam
 
 #### Amendments
 
-2002—Subsec. (c)(2)(L). Pub. L. 107–171 added subpar. (L).
+<b>2002</b>—Subsec. (c)(2)(L). Pub. L. 107–171 added subpar. (L).
 
-1999—Subsec. (c)(2)(C). Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act”.
+<b>1999</b>—Subsec. (c)(2)(C). Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act”.
 
-1998—Subsec. (c)(2)(K). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(3)(A)\], struck out “Job Training Partnership Act or” before “title I of”.
+<b>1998</b>—Subsec. (c)(2)(K). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(3)(A)\], struck out “Job Training Partnership Act or” before “title I of”.
 
 Pub. L. 105–277, §101(f) \[title VIII, §405(d)(3)(A)\], substituted “Job Training Partnership Act or title I of the Workforce Investment Act of 1998” for “Job Training Partnership Act”.
 
 Subsec. (d). Pub. L. 105–185 substituted “Benefits for certain groups” for “SSI and medicaid benefits for certain Indians” in heading, designated provisions beginning “an individual” as par. (1), substituted “to—” for “to”, “(a)(3)” for “(a)(3)(A)”, and “; or” for period at end, and added par. (2).
 
-1997—Subsec. (b)(1)(C). Pub. L. 105–33, §5562, substituted “section 243(h) of such Act (as in effect immediately before the effective date of section 307 of division C of Public Law 104–208) or section 241(b)(3) of such Act (as amended by section 305(a) of division C of Public Law 104–208)” for “section 243(h) of such Act”.
+<b>1997</b>—Subsec. (b)(1)(C). Pub. L. 105–33, §5562, substituted “section 243(h) of such Act (as in effect immediately before the effective date of section 307 of division C of Public Law 104–208) or section 241(b)(3) of such Act (as amended by section 305(a) of division C of Public Law 104–208)” for “section 243(h) of such Act”.
 
 Subsec. (b)(1)(D). Pub. L. 105–33, §5302(c)(1)(A), added subpar. (D).
 

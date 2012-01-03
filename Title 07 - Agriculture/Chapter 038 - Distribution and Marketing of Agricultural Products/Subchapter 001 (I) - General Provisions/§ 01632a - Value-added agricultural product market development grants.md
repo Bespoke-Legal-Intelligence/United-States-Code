@@ -166,13 +166,13 @@ Section was formerly set out as a note under section 1621 of this title.
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–246, §6202(a), added subsec. (a) and struck out former subsec. (a) which defined “value-added agricultural product”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–246, §6202(a), added subsec. (a) and struck out former subsec. (a) which defined “value-added agricultural product”.
 
 Subsec. (b)(1). Pub. L. 110–246, §6202(b)(1), substituted “paragraph (7)” for “paragraph (4)” in introductory provisions.
 
 Subsec. (b)(4) to (7). Pub. L. 110–246, §6202(b)(2), added pars. (4) to (7) and struck out former par. (4). Prior to amendment, text read as follows: “Not later than 30 days after May 13, 2002, on October 1, 2002, and on each October 1 thereafter through October 1, 2006, of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this subsection $40,000,000, to remain available until expended.”
 
-2002—Subsecs. (a), (b). Pub. L. 107–171, §6401(a)(2), added subsecs. (a) and (b) and struck out former subsec. (a) which related to establishment of grant program, maximum amount per grant recipient, and producer strategies. Former subsec. (b) redesignated (c).
+<b>2002</b>—Subsecs. (a), (b). Pub. L. 107–171, §6401(a)(2), added subsecs. (a) and (b) and struck out former subsec. (a) which related to establishment of grant program, maximum amount per grant recipient, and producer strategies. Former subsec. (b) redesignated (c).
 
 Subsec. (c). Pub. L. 107–171, §6401(a)(1), (3), redesignated subsec. (b) as (c) and, in par. (1), substituted “subsection (b)(2)” for “subsection (a)(2)”, “5 percent” for “$5,000,000”, and “subsection (b)” for “subsection (a)” in introductory provisions. Former subsec. (c) redesignated (d).
 

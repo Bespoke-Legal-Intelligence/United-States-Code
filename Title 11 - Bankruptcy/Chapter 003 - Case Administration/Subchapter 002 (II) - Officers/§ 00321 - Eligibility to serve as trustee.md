@@ -14,7 +14,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 321 indicates that an examiner may not serve as a trustee in the case.
 
@@ -24,11 +24,11 @@ Section 321 is adapted from current Bankruptcy Act §45 \[section 73 of former t
 
 #### Amendments
 
-1986—Subsec. (a). Pub. L. 99–554, §257(c), inserted reference to chapter 12 in two places.
+<b>1986</b>—Subsec. (a). Pub. L. 99–554, §257(c), inserted reference to chapter 12 in two places.
 
 Subsec. (c). Pub. L. 99–554, §206, added subsec. (c).
 
-1984—Subsec. (b). Pub. L. 98–353 substituted “the case” for “a case” after “an examiner in”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–353 substituted “the case” for “a case” after “an examiner in”.
 
 #### Effective Date of 1986 Amendment
 

@@ -46,6 +46,8 @@ The Commission shall maintain a principal office and such field offices as it de
 
 (4) The appointment of any officer (other than a Commissioner) or employee of the Commission shall not be subject, directly or indirectly, to review or approval by any officer or entity within the Executive Office of the President.
 
+(5) The Chairman may provide to officers and employees of the Commission who are appointed or assigned by the Commission to serve abroad (as defined in section 102 of the Foreign Service Act of 1980 (22 U.S.C. 3902)) travel benefits similar to those authorized for members of the Foreign Service of the United Service under chapter 9 <sup>1</sup> of such Act (22 U.S.C. 4081 et seq.).
+
 #### (h) Omitted
 
 #### (i) Civil action against United States
@@ -66,7 +68,11 @@ Subsections (a) and (h) of section 2680 of title 28 do not prohibit the bringing
 
 At least 30 days before the beginning of each fiscal year, the Commission shall establish an agenda for Commission action under the Acts under its jurisdiction and, to the extent feasible, shall establish priorities for such actions. Before establishing such agenda and priorities, the Commission shall conduct a public hearing on the agenda and priorities and shall provide reasonable opportunity for the submission of comments.
 
-(Pub. L. 92–573, §4, Oct. 27, 1972, 86 Stat. 1210; Pub. L. 94–284, §§4, 5(a), May 11, 1976, 90 Stat. 504; Pub. L. 95–631, §2, Nov. 10, 1978, 92 Stat. 3742; Pub. L. 96–373, Oct. 3, 1980, 94 Stat. 1366; Pub. L. 101–608, title I, §§102–105(a), Nov. 16, 1990, 104 Stat. 3110, 3111.)
+(Pub. L. 92–573, §4, Oct. 27, 1972, 86 Stat. 1210; Pub. L. 94–284, §§4, 5(a), May 11, 1976, 90 Stat. 504; Pub. L. 95–631, §2, Nov. 10, 1978, 92 Stat. 3742; Pub. L. 96–373, Oct. 3, 1980, 94 Stat. 1366; Pub. L. 101–608, title I, §§102–105(a), Nov. 16, 1990, 104 Stat. 3110, 3111; Pub. L. 112–74, div. C, title V, §501, Dec. 23, 2011, 125 Stat. 907.)
+
+#### References in Text
+
+The Foreign Service Act of 1980, referred to in subsec. (g)(5), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071. Chapter 9 of the Act probably means chapter 9 of title I of the Act which is classified generally to subchapter IX (§4081 et seq.) of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
 
 #### Codification
 
@@ -74,11 +80,13 @@ Subsec. (h) of this section amended sections 5314 and 5315 of Title 5, Governmen
 
 #### Amendments
 
+<b>2011</b>—Subsec. (g)(5). Pub. L. 112–74 added par. (5).
+
 <b>1990</b>—Subsec. (a). Pub. L. 101–608, §102, inserted after first sentence “In making such appointments, the President shall consider individuals who, by reason of their background and expertise in areas related to consumer products and protection of the public from risks to safety, are qualified to serve as members of the Commission.”
 
 Subsec. (d). Pub. L. 101–608, §103, inserted before period at end of first sentence “, except that if there are only three members serving on the Commission because of vacancies in the Commission, two members of the Commission shall constitute a quorum for the transaction of business, and if there are only two members serving on the Commission because of vacancies in the Commission, two members shall constitute a quorum for the six month period beginning on the date of the vacancy which caused the number of Commission members to decline to two”.
 
-Subsec. (g)(1). Pub. L. 101–608, §104, amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Chairman, subject to the approval of the Commission, shall appoint an Executive Director, a General Counsel, a Director of Engineering Sciences, a Director of Epidemiology, and a Director of Information. No individual so appointed may receive pay in excess of the annual rate of basic pay in effect for grade GS–18 of the General Schedule.”
+Subsec. (g)(1). Pub. L. 101–608, §104, amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Chairman, subject to the approval of the Commission, shall appoint an Executive Director, a GeneralCounsel, a Director of Engineering Sciences, a Director of Epidemiology, and a Director of Information. No individual so appointed may receive pay in excess of the annual rate of basic pay in effect for grade GS–18 of the General Schedule.”
 
 Subsec. (j). Pub. L. 101–608, §105(a), added subsec. (j).
 
@@ -96,7 +104,7 @@ Subsec (i). Pub. L. 94–284, §5, added subsec. (i).
 
 #### Effective Date of 1990 Amendment
 
-Section 105(b) of Pub. L. 101–608 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to fiscal years which begin more than 180 days after the date of the enactment of this Act \[Nov. 16, 1990\].”
+Pub. L. 101–608, title I, §105(b), Nov. 16, 1990, 104 Stat. 3111, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to fiscal years which begin more than 180 days after the date of the enactment of this Act \[Nov. 16, 1990\].”
 
 #### Effective Date
 
@@ -114,9 +122,11 @@ Pub. L. 110–314, title II, §212(b), Aug. 14, 2008, 122 Stat. 3052, provided t
 
 Pub. L. 102–389, title III, Oct. 6, 1992, 106 Stat. 1596, provided in part that funds would not be available for the personnel compensation and benefits of more than three Commissioners of the Consumer Product Safety Commission for fiscal year 1993 and thereafter, prior to repeal by Pub. L. 110–314, title II, §202(b)(1), Aug. 14, 2008, 122 Stat. 3040.
 
-\[Pub. L. 110–314, title II, §202(b)(2), Aug. 14, 2008, 122 Stat. 3040, provided that: “The amendment made byparagraph (1) \[repealing provisions of title III of Pub. L. 102–389, formerly set out above\] shall take effect 1 year after the date of enactment of this Act \[Aug. 14, 2008\].”\]
+\[Pub. L. 110–314, title II, §202(b)(2), Aug. 14, 2008, 122 Stat. 3040, provided that: “The amendment made by paragraph (1) \[repealing provisions of title III of Pub. L. 102–389, formerly set out above\] shall take effect 1 year after the date of enactment of this Act \[Aug. 14, 2008\].”\]
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

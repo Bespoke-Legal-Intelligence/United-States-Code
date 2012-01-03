@@ -1,12 +1,12 @@
 ### §1716. Unlawful representations
 
-The fact that a statement of record with respect to a subdivision has been filed or is in effect shall not be deemed a finding by the Secretary that the statement of record is true and accurate on its face, or be held to mean the Secretary has in any way passed upon the merits of, or given approval to, such subdivision. It shall be unlawful to make, or cause to be made, to any prospective purchaser any representation contrary to the foregoing.
+The fact that a statement of record with respect to a subdivision has been filed or is in effect shall not be deemed a finding by the Director that the statement of record is true and accurate on its face, or be held to mean the Director has in any way passed upon the merits of, or given approval to, such subdivision. It shall be unlawful to make, or cause to be made, to any prospective purchaser any representation contrary to the foregoing.
 
 (Pub. L. 90–448, title XIV, §1417, Aug. 1, 1968, 82 Stat. 598; Pub. L. 111–203, title X, §1098A(1), July 21, 2010, 124 Stat. 2105.)
 
-#### Amendment of Section
+#### Amendments
 
-<i>Pub. L. 111–203, title X, §§1098A(1), 1100H, July 21, 2010, 124 Stat. 2105, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Secretary” each place that term appears and inserting “Director”. See Effective Date of 2010 Amendment note below.</i>
+<b>2010</b>—Pub. L. 111–203 substituted “Director” for “Secretary” in two places.
 
 #### Effective Date of 2010 Amendment
 

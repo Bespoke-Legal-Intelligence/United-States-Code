@@ -18,7 +18,7 @@
 
 (2)(A) A member described in paragraph (1) may request termination of active duty under such paragraph at any time during the demobilization or disability evaluation process of such member.
 
-(B) Upon a request under subparagraph (A), a member described in paragraph (1) shall only be released from active duty after the member receives counseling about the consequences of termination of active duty.
+(B) Upon a request under subparagraph (A), a member described in paragraph (1) shall only bereleased from active duty after the member receives counseling about the consequences of termination of active duty.
 
 (C) Each release from active duty under subparagraph (B) shall be thoroughly documented.
 

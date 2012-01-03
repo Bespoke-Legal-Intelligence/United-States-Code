@@ -58,7 +58,7 @@ Section 4 of the Food for Peace Act of 1966 (7 U.S.C. 1707a), referred to in par
 
 #### Amendments
 
-2008—Pars. (8), (9). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
+<b>2008</b>—Pars. (8), (9). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
 
 #### Effective Date of 2008 Amendment
 

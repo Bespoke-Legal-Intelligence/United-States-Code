@@ -12,11 +12,17 @@
 
 &emsp;(C) is eligible for purchase by the Federal National Mortgage Association, the Government National Mortgage Association, or the Federal Home Loan Mortgage Corporation, or from any financial institution from which it could be purchased by the Federal Home Loan Mortgage Corporation; or
 
-&emsp;(D) is made in whole or in part by any “creditor”, as defined in section 1602(f) of title 15, who makes or invests in residential real estate loans aggregating more than $1,000,000 per year.
+&emsp;(D) is made in whole or in part by any “creditor”, as defined in section 1602(f) <sup>1</sup> of title 15, who makes or invests in residential real estate loans aggregating more than $1,000,000 per year.
 
 (June 27, 1934, ch. 847, title V, §527, as added Pub. L. 93–383, title VIII, §808(a), Aug. 22, 1974, 88 Stat. 728; amended Pub. L. 98–479, title II, §204(a)(22), Oct. 17, 1984, 98 Stat. 2233.)
 
+#### References in Text
+
+Section 1602(f) of title 15, referred to in subsec. (b)(2)(D), was redesignated section 1602(g) of title 15 by Pub. L. 111–203, title X, §1100A(1)(A), July 21, 2010, 124 Stat. 2107.
+
 #### Amendments
 
-1984—Subsec. (a). Pub. L. 98–479 designated first par. as subsec. (a).
+<b>1984</b>—Subsec. (a). Pub. L. 98–479 designated first par. as subsec. (a).
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

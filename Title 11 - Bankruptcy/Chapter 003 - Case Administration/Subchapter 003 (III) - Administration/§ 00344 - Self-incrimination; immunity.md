@@ -6,7 +6,7 @@ Immunity for persons required to submit to examination, to testify, or to provid
 
 #### Historical and Revision Notes
 
-I74senate report no. 95–989
+#### senate report no. 95–989
 
 Part V \[§6001 et seq.\] of title 18 of the United States Code governs the granting of immunity to witnesses before Federal tribunals. The immunity provided under part V is only use immunity, not transactional immunity. Part V applies to all proceedings before Federal courts, before Federal grand juries, before administrative agencies, and before Congressional committees. It requires the Attorney General or the U. S. attorney to request or to approve any grant of immunity, whether before a court, grand jury, agency, or congressional committee.
 

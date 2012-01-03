@@ -32,6 +32,10 @@ Except as otherwise specified, any reference in Federal law to an Office of Mino
 
 Pub. L. 111–148, title X, §10334(b)(2), Mar. 23, 2010, 124 Stat. 973, provided that: “Nothing in this subsection \[enacting this section and provisions set out as a note under this section\] and the amendments made by this subsection may be construed as establishing regulatory authority or modifying any existing regulatory authority.”
 
+#### Application of Allocation Requirements
+
+Pub. L. 112–10, div. B, title VIII, §1827, Apr. 15, 2011, 125 Stat. 162, provided that: “Hereafter, no funds appropriated by this division or by any previous or subsequent Act shall be subject to the allocation requirements of section 1707A(e) \[42 U.S.C. 300u–6a(e)\] of the PHS Act \[Public Health Service Act\].”
+
 #### Limitation on Termination
 
 Pub. L. 111–148, title X, §10334(b)(3), Mar. 23, 2010, 124 Stat. 973, provided that: “Notwithstanding any other provision of law, a Federal office of minority health or Federal appointive position with primary responsibility over minority health issues that is in existence in an office of \[or\] agency of the Department of Health and Human Services on the date of enactment of this section \[Mar. 23, 2010\] shall not be terminated, reorganized, or have any of its power or duties transferred unless such termination, reorganization, or transfer is approved by an Act of Congress.”

@@ -2,7 +2,7 @@
 
 #### (a) Necessity of transportation contract
 
-The Attorney General shall have power to enter into contracts with transportation lines for the inspection and admission of aliens coming to the United States from foreign territory or from adjacent islands. No such transportation line shall be allowed to land any such alien in the United States until and unless it has enteredinto any such contracts which may be required by the Attorney General.
+The Attorney General shall have power to enter into contracts with transportation lines for the inspection and admission of aliens coming to the United States from foreign territory or from adjacent islands. No such transportation line shall be allowed to land any such alien in the United States until and unless it has entered into any such contracts which may be required by the Attorney General.
 
 #### (b) Landing stations
 
@@ -32,7 +32,7 @@ A prior section 1223, act June 27, 1952, ch. 477, title II, ch. 4, §233, 66 Sta
 
 #### Amendments
 
-1996—Pub. L. 104–208, §362(a)(1), amended section catchline.
+<b>1996</b>—Pub. L. 104–208, §362(a)(1), amended section catchline.
 
 Subsec. (a). Pub. L. 104–208, §362(a)(2), struck out “contiguous” after “foreign”.
 
@@ -44,7 +44,7 @@ Subsec. (d). Pub. L. 104–208, §362(b), inserted “or railroad train” after
 
 Pub. L. 104–208, §362(a)(2), struck out “contiguous” after “foreign”.
 
-1986—Pub. L. 99–653 struck out subsec. (a) which authorized the Attorney General to enter into contracts with transportation lines for the entry and inspection of aliens and to prescribe regulations, and redesignated subsecs. (b) to (e) as (a) to (d), respectively.
+<b>1986</b>—Pub. L. 99–653 struck out subsec. (a) which authorized the Attorney General to enter into contracts with transportation lines for the entry and inspection of aliens and to prescribe regulations, and redesignated subsecs. (b) to (e) as (a) to (d), respectively.
 
 #### Effective Date of 1996 Amendment
 

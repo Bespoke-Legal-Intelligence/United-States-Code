@@ -22,15 +22,15 @@ Section was formerly classified to section 343d of this title.
 
 #### Amendments
 
-1986—Pub. L. 99–396 substituted “Guam, and the Northern Mariana Islands” for “and Guam” in five places, “$8,250,000” for “$8,100,000”, and “$4,380,000” for “$4,360,000”.
+<b>1986</b>—Pub. L. 99–396 substituted “Guam, and the Northern Mariana Islands” for “and Guam” in five places, “$8,250,000” for “$8,100,000”, and “$4,380,000” for “$4,360,000”.
 
-1972—Pub. L. 92–318 inserted references to Virgin Islands and Guam, and substituted “$8,100,000” and “$4,360,000” for “$7,800,000” and “$4,320,000”, respectively.
+<b>1972</b>—Pub. L. 92–318 inserted references to Virgin Islands and Guam, and substituted “$8,100,000” and “$4,360,000” for “$7,800,000” and “$4,320,000”, respectively.
 
-1968—Pub. L. 89–791, as added by Pub. L. 90–354, increased authorization for annual appropriations for Federal grants to States for support of resident teaching in land-grant colleges and universities from an authorization of $7,650,000 to $7,800,000, allocated equally among the States, and from an authorization of $4,300,000, allotted on basis of relative State population, to $4,320,000.
+<b>1968</b>—Pub. L. 89–791, as added by Pub. L. 90–354, increased authorization for annual appropriations for Federal grants to States for support of resident teaching in land-grant colleges and universities from an authorization of $7,650,000 to $7,800,000, allocated equally among the States, and from an authorization of $4,300,000, allotted on basis of relative State population, to $4,320,000.
 
-1960—Pub. L. 86–658 increased authorization for annual appropriations for Federal grants to States for support of resident teaching in land-grant colleges and universities from an authorization of $1,000,000, allocated equally among the States, to $7,650,000, and from an authorization of $1,501,500, allotted on basis of relative State population, to $4,300,000, struck out references to Territories of Alaska and Hawaii as now included in term “States” and included Puerto Rico in provisions of section.
+<b>1960</b>—Pub. L. 86–658 increased authorization for annual appropriations for Federal grants to States for support of resident teaching in land-grant colleges and universities from an authorization of $1,000,000, allocated equally among the States, to $7,650,000, and from an authorization of $1,501,500, allotted on basis of relative State population, to $4,300,000, struck out references to Territories of Alaska and Hawaii as now included in term “States” and included Puerto Rico in provisions of section.
 
-1952—Opening par. Act June 12, 1952, §1, made section applicable to Alaska.
+<b>1952</b>—Opening par. Act June 12, 1952, §1, made section applicable to Alaska.
 
 Par. (a). Act June 12, 1952, §2, increased allotment from $980,000 to $1,000,000.
 

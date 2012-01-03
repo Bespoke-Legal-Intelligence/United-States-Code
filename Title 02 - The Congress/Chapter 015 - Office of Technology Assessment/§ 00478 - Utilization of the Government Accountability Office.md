@@ -20,5 +20,5 @@ Services and assistance made available to the Office by the Government Accountab
 
 #### Amendments
 
-2004—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in section catchline and wherever appearing in text.
+<b>2004</b>—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in section catchline and wherever appearing in text.
 

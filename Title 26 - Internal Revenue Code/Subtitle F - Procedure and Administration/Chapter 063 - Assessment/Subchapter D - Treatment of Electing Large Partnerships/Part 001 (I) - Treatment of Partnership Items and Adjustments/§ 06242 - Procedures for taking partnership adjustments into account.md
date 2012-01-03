@@ -72,7 +72,7 @@
 
 #### (2) Interest
 
-&emsp;For purposes of determining interest, any payment required by subsection (a)(2) or\(b)(1)(A) shall be treated as an underpayment of tax.
+&emsp;For purposes of determining interest, any payment required by subsection (a)(2) or (b)(1)(A) shall be treated as an underpayment of tax.
 
 #### (3) Penalties
 
@@ -122,7 +122,7 @@ No deduction shall be allowed under subtitle A for any payment required to be ma
 
 #### Prior Provisions
 
-A prior section 6242, added Pub. L. 97–354, §4(a), Oct. 19, 1982, 96 Stat. 1691, directed that shareholder's return be consistent with corporate return, prior to repeal by Pub. L. 104–188, title I, §§1307(c)(1), 1317(a), Aug. 20, 1996, 110 Stat. 1781, 1787, applicable to taxable years beginning after Dec. 31, 1996.
+A prior section 6242, added Pub. L. 97–354, §4(a), Oct. 19, 1982, 96 Stat. 1691, directed that shareholder's returnbe consistent with corporate return, prior to repeal by Pub. L. 104–188, title I, §§1307(c)(1), 1317(a), Aug. 20, 1996, 110 Stat. 1781, 1787, applicable to taxable years beginning after Dec. 31, 1996.
 
 A prior section 6243, added Pub. L. 97–354, §4(a), Oct. 19, 1982, 96 Stat. 1691, directed that shareholders be notified of proceedings and given opportunity to participate, prior to repeal by Pub. L. 104–188, title I, §§1307(c)(1), 1317(a), Aug. 20, 1996, 110 Stat. 1781, 1787, applicable to taxable years beginning after Dec. 31, 1996.
 

@@ -38,7 +38,7 @@ Provisions similar to those in this section were contained in section 218(b) of 
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(1). Pub. L. 111–163, §1001(1)(A), amended par. (1) generally. Prior to amendment, par.\(1) read as follows: “Employees of the Department who are Department police officers shall, with respect to acts occurring on Department property, enforce—
+<b>2010</b>—Subsec. (a)(1). Pub. L. 111–163, §1001(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Employees of the Department who are Department police officers shall, with respect to acts occurring on Department property, enforce—
 
 &emsp;“(A) Federal laws;
 

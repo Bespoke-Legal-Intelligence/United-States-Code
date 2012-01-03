@@ -54,7 +54,7 @@ For purposes of this part, part II, and chapter 3, the term “trade or business
 
 &emsp;For purposes of this title—
 
-&emsp;&emsp;(A) In the case of a nonresident alien individual or a foreign corporation engaged in trade or business within the United States during the taxable year, the rules set forth in paragraphs (2), (3), (4), (6), and (7) shall apply in determining the income, gain, or loss which shall be treated as effectively connected with the conduct of a trade or business within the United States.
+&emsp;&emsp;(A) In the case of a nonresident alien individual or a foreign corporation engaged in trade or business within the United States during the taxable year, the rules set forthin paragraphs (2), (3), (4), (6), and (7) shall apply in determining the income, gain, or loss which shall be treated as effectively connected with the conduct of a trade or business within the United States.
 
 &emsp;&emsp;(B) Except as provided in paragraph (6) or (7) or in section 871(d) or sections 882(d) and (e), in the case of a nonresident alien individual or a foreign corporation not engaged in trade or business within the United States during the taxable year, no income, gain, or loss shall be treated as effectively connected with the conduct of a trade or business within the United States.
 
@@ -90,7 +90,7 @@ For purposes of this part, part II, and chapter 3, the term “trade or business
 
 &emsp;(D) No income from sources without the United States shall be treated as effectively connected with the conduct of a trade or business within the United States if it either—
 
-&emsp;&emsp;(i) consists of dividends, interest, or royalties paid by a foreign corporation in whichthe taxpayer owns (within the meaning of section 958(a)), or is considered as owning (by applying the ownership rules of section 958(b)), more than 50 percent of the total combined voting power of all classes of stock entitled to vote, or
+&emsp;&emsp;(i) consists of dividends, interest, or royalties paid by a foreign corporation in which the taxpayer owns (within the meaning of section 958(a)), or is considered as owning (by applying the ownership rules of section 958(b)), more than 50 percent of the total combined voting power of all classes of stock entitled to vote, or
 
 &emsp;&emsp;(ii) is subpart F income within the meaning of section 952(a).
 
@@ -240,7 +240,7 @@ For purposes of this subchapter—
 
 #### (iii) Stock owned through entities
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, stock owned (directly or indirectly) by a corporation, partnership, or trust shall be treated as being owned proportionately byits shareholders, partners, or beneficiaries. Stock considered to be owned by a person by reason of the application of the preceding sentence, shall, for purposes of applying such sentence, be treated as actually owned by such person.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, stock owned (directly or indirectly) by a corporation, partnership, or trust shall be treated as being owned proportionately by its shareholders, partners, or beneficiaries. Stock considered to be owned by a person by reason of the application of the preceding sentence, shall, for purposes of applying such sentence, be treated as actually owned by such person.
 
 #### (D) Coordination with subpart F, etc.
 
@@ -440,7 +440,7 @@ For purposes of this subchapter, at the election of the worldwide affiliated gro
 
 &emsp;&emsp;&emsp;(ii) that such expenditures are attributable to activities conducted outside the United States, 50 percent of such expenditures shall be allocated and apportioned to income from sources outside the United States and deducted from such income in determining the amount of taxable income from sources outside the United States.
 
-&emsp;&emsp;(C) The remaining portion of qualified research and experimental expenditures (not allocated under subparagraphs (A) and (B)) shall be apportioned, at the annual election of the taxpayer, on the basis of gross sales orgross income, except that, if the taxpayer elects to apportion on the basis of gross income, the amount apportioned to income from sources outside the United States shall at least be 30 percent of the amount which would be so apportioned on the basis of gross sales.
+&emsp;&emsp;(C) The remaining portion of qualified research and experimental expenditures (not allocated under subparagraphs (A) and (B)) shall be apportioned, at the annual election of the taxpayer, on the basis of gross sales or gross income, except that, if the taxpayer elects to apportion on the basis of gross income, the amount apportioned to income from sources outside the United States shall at least be 30 percent of the amount which would be so apportioned on the basis of gross sales.
 
 #### (2) Qualified research and experimental expenditures
 
@@ -808,9 +808,9 @@ year phase-in amount.—The 4-year phase-in amount is the lesser of—
 
 | <b>“In the case of the:</b> | <b>The applicable percentage for purposes of subclause (I) is:</b> | <b>The applicable percentage for purposes of subclause (II) is:</b> |
 | :--- | :---: | ---: |
-| 1st taxable year | 5 | 61/4 |
+| 1st taxable year | 5 | 6¼ |
 | 2nd taxable year | 10 | 162/3 |
-| 3rd taxable year | 15 | 371/2 |
+| 3rd taxable year | 15 | 37½ |
 | 4th taxable year | 20 | 100 |
 | 5th taxable year | 0 | &nbsp;0.&nbsp; |
 
@@ -944,13 +944,13 @@ Qualified corporation.—For purposes of subparagraph (A), the term ‘qualified
 
 “(4)
 
-Special rules for subsidiary.—The amendments made by this section shall not apply to interest on up to the applicable dollar amount of indebtednessof a subsidiary incorporated on February 11, 1975, the indebtedness of which on May 6, 1986, included—
+Special rules for subsidiary.—The amendments made by this section shall not apply to interest on up to the applicable dollar amount of indebtedness of a subsidiary incorporated on February 11, 1975, the indebtedness of which on May 6, 1986, included—
 
-&emsp;“(A) $100,000,000 face amount of 113/4 percent notes due in 1990,
+&emsp;“(A) $100,000,000 face amount of 11¾ percent notes due in 1990,
 
-&emsp;“(B) $100,000,000 of 83/4 percent notes due in 1989,
+&emsp;“(B) $100,000,000 of 8¾ percent notes due in 1989,
 
-&emsp;“(C) 63/4 percent Japanese yen notes due in 1991, and
+&emsp;“(C) 6¾ percent Japanese yen notes due in 1991, and
 
 &emsp;“(D) 53/8 percent Swiss franc bonds due in 1994.
 

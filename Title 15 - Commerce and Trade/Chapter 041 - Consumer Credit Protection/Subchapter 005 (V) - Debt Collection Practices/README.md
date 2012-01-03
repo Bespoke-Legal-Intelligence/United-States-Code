@@ -18,7 +18,7 @@
 - [&sect; 01692j - Furnishing certain deceptive forms](%C2%A7%2001692j%20-%20Furnishing%20certain%20deceptive%20forms.md)
 - [&sect; 01692k - Civil liability](%C2%A7%2001692k%20-%20Civil%20liability.md)
 - [&sect; 01692l - Administrative enforcement](%C2%A7%2001692l%20-%20Administrative%20enforcement.md)
-- [&sect; 01692m - Reports to Congress by the Commission; views of other Federal agencies](%C2%A7%2001692m%20-%20Reports%20to%20Congress%20by%20the%20Commission%3B%20views%20of%20other%20Federal%20agencies.md)
+- [&sect; 01692m - Reports to Congress by the Bureau; views of other Federal agencies](%C2%A7%2001692m%20-%20Reports%20to%20Congress%20by%20the%20Bureau%3B%20views%20of%20other%20Federal%20agencies.md)
 - [&sect; 01692n - Relation to State laws](%C2%A7%2001692n%20-%20Relation%20to%20State%20laws.md)
 - [&sect; 01692o - Exemption for State regulation](%C2%A7%2001692o%20-%20Exemption%20for%20State%20regulation.md)
 - [&sect; 01692p - Exception for certain bad check enforcement programs operated by private entities](%C2%A7%2001692p%20-%20Exception%20for%20certain%20bad%20check%20enforcement%20programs%20operated%20by%20private%20entities.md)

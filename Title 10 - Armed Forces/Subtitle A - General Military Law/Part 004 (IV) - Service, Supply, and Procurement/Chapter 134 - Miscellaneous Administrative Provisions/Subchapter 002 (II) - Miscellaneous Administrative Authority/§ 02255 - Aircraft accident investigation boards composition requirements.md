@@ -52,5 +52,5 @@ Definitions.—In this section:
 
 #### Effective Date
 
-Section 911(b) of Pub. L. 104–201 provided that: “Section 2255 of title 10, United States Code, as added by subsection (a), shall apply with respect to any aircraft accident investigation board convened by the Secretary of a military department after the end of the six-month period beginning on the date of the enactment of this Act \[Sept. 23, 1996\].”
+Section 911(b) of Pub. L. 104–201 provided that: “Section 2255 of title 10, United States Code, as added bysubsection (a), shall apply with respect to any aircraft accident investigation board convened by the Secretary of a military department after the end of the six-month period beginning on the date of the enactment of this Act \[Sept. 23, 1996\].”
 

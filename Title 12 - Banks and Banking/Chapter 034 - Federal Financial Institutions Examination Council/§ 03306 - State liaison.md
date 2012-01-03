@@ -6,5 +6,5 @@ To encourage the application of uniform examination principles and standards by 
 
 #### Amendments
 
-2006—Pub. L. 109–351 inserted at end “Members of the Liaison Committee shall elect a chairperson from among the members serving on the committee.”
+<b>2006</b>—Pub. L. 109–351 inserted at end “Members of the Liaison Committee shall elect a chairperson from among the members serving on the committee.”
 

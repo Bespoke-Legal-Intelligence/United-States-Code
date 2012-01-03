@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(ii) unless proposed by the head of the agency, has been concurred in by an employee who is in a higher position than the employee who proposed the action.
 
-(2) An agency may, under regulations prescribed by the head of such agency, extend thenotice period under subsection (b)(1)(A) of this section for not more than 30 days. An agency may extend the notice period for more than 30 days only in accordance with regulations issued by the Office of Personnel Management.
+(2) An agency may, under regulations prescribed by the head of such agency, extend the notice period under subsection (b)(1)(A) of this section for not more than 30 days. An agency may extend the notice period for more than 30 days only in accordance with regulations issued by the Office of Personnel Management.
 
 (c) The decision to retain, reduce in grade, or remove an employee—
 
@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(B) for which the notice and other requirements of this section are complied with.
 
-(d) If, because of performance improvement by the employee during the notice period, the employee is not reduced in grade or removed, and the employee's performance continues to be acceptable for 1 year from the date of the advance written notice provided under subsection (b)(1)(A) of this section, any entry or other notation of the unacceptable performance for which the action was proposed under this section shall be removed from any agency record relating to the employee.
+(d) If, because of performance improvement by the employee during the notice period, the employee is not reduced in grade or removed, and the employee's performance continues to be acceptable for 1 year from the date of the advancewritten notice provided under subsection (b)(1)(A) of this section, any entry or other notation of the unacceptable performance for which the action was proposed under this section shall be removed from any agency record relating to the employee.
 
 (e) Any employee who is—
 
@@ -74,9 +74,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1990—Subsec. (e). Pub. L. 101–376 amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Any employee who is a preference eligible or is in the competitive service and who has been reduced in grade or removed under this section is entitled to appeal the action to the Merit Systems Protection Board under section 7701 of this title.”
+<b>1990</b>—Subsec. (e). Pub. L. 101–376 amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Any employee who is a preference eligible or is in the competitive service and who has been reduced in grade or removed under this section is entitled to appeal the action to the Merit Systems Protection Board under section 7701 of this title.”
 
-1978—Pub. L. 95–454 substituted “Actions based on unacceptable performance” for “Performance-rating plans; requirements for” in section catchline and in text substituted provisions relating to actions based on unacceptable performance, for provisions relating to requirements for performance-rating plans.
+<b>1978</b>—Pub. L. 95–454 substituted “Actions based on unacceptable performance” for “Performance-rating plans; requirements for” in section catchline and in text substituted provisions relating to actions based on unacceptable performance, for provisions relating to requirements for performance-rating plans.
 
 #### Effective Date of 1990 Amendment
 

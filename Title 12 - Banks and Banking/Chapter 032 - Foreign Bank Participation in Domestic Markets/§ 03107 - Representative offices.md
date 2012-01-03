@@ -16,7 +16,7 @@ The Board may order the termination of the activities of a representative office
 
 #### (c) Examinations
 
-The Board may make examinations of each representative office of a foreign bank, the cost of which shall be assessed against and paid by such foreign bank. The Board may also make examinations of any affiliate of a foreign bank conducting business in any State if the Board deems it necessary to determine and enforce compliance with this chapter, the Bank Holding Company Act of 1956 \[12 U.S.C. 1841 et seq.\], or other applicable Federal banking law.
+The Board may make examinations of each representative office of a foreign bank, the cost of which shall be assessed against and paid by such foreign bank. The Board may also make examinations of any affiliate of a foreign bank conducting business in any State if the Board deems it necessary to determine and enforcecompliance with this chapter, the Bank Holding Company Act of 1956 \[12 U.S.C. 1841 et seq.\], or other applicable Federal banking law.
 
 #### (d) Compliance with State law
 
@@ -32,11 +32,11 @@ The Bank Holding Company Act of 1956, referred to in subsec. (c), is act May 9, 
 
 #### Amendments
 
-1999—Subsec. (c). Pub. L. 106–102 inserted at end “The Board may also make examinations of any affiliate of a foreign bank conducting business in any State if the Board deems it necessary to determine and enforce compliance with this chapter, the Bank Holding Company Act of 1956, or other applicable Federal banking law.”
+<b>1999</b>—Subsec. (c). Pub. L. 106–102 inserted at end “The Board may also make examinations of any affiliate of a foreign bank conducting business in any State if the Board deems it necessary to determine and enforce compliance with this chapter, the Bank Holding Company Act of 1956, or other applicable Federal banking law.”
 
-1992—Subsec. (b). Pub. L. 102–550 substituted “section 3105(e) of this title” for “paragraphs (1), (2), and (3) of section 3105(d) of this title”.
+<b>1992</b>—Subsec. (b). Pub. L. 102–550 substituted “section 3105(e) of this title” for “paragraphs (1), (2), and (3) of section 3105(d) of this title”.
 
-1991—Pub. L. 102–242 amended section generally. Prior to amendment, section read as follows:
+<b>1991</b>—Pub. L. 102–242 amended section generally. Prior to amendment, section read as follows:
 
 “(a) Any foreign bank that maintains an office other than a branch or agency in any State shall register with the Secretary of the Treasury in accordance with rules prescribed by him, within one hundred and eighty days after September 17, 1978, or the date on which the office is established, whichever is later.
 

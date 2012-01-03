@@ -8,7 +8,7 @@ To conduct, assist, and foster research, investigation, and experimentation to d
 
 #### (b) Determination of costs
 
-To determine costs of marketing agricultural products in their various forms and through the various channels and to foster and assist in the development and establishment of more efficient marketing methods (including analyses of methods and proposed methods), practices, and facilities, for the purpose of bringing about more efficient and orderly marketing, and reducing the price spread between the producer and the consumer.
+To determine costs of marketing agricultural products in their various forms and through thevarious channels and to foster and assist in the development and establishment of more efficient marketing methods (including analyses of methods and proposed methods), practices, and facilities, for the purpose of bringing about more efficient and orderly marketing, and reducing the price spread between the producer and the consumer.
 
 #### (c) Improvement of standards of quality, condition, etc.; standard of quality for ice cream
 
@@ -70,7 +70,7 @@ Identification of honey.—
 
 &emsp;(A)
 
-In general.—The use of a label or advertising material on, or in conjunction with, packaged honey that bears any official certificate of quality, grade mark or statement, continuous inspection mark or statement, sampling mark or statement, or any combination of the certificates, marks, or statements of the Department of Agriculture is hereby prohibited under this Act unless there appears legibly and permanently in close proximity (such as on the same side(s) or surface(s)) to the certificate, mark, or statement, and in at least a comparable size, the 1 or more names of the 1 or more countries of origin of the lotor container of honey, preceded by the words “Product of” or other words of similar meaning.
+In general.—The use of a label or advertising material on, or in conjunction with, packaged honey that bears any official certificate of quality, grade mark or statement, continuous inspection mark or statement, sampling mark or statement, or any combination of the certificates, marks, or statements of the Department of Agriculture is hereby prohibited under this Act unless there appears legibly and permanently in close proximity (such as on the same side(s) or surface(s)) to the certificate, mark, or statement, and in at least a comparable size, the 1 or more names of the 1 or more countries of origin of the lot or container of honey, preceded by the words “Product of” or other words of similar meaning.
 
 &emsp;(B)
 
@@ -124,27 +124,27 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (h). Pub. L. 110–246, §10402(a), designated the first to sixth sentences of existing provisions as pars. (1), (2)(A), (2)(B), and (3) to (5), respectively, and added par. (6).
+<b>2008</b>—Subsec. (h). Pub. L. 110–246, §10402(a), designated the first to sixth sentences of existing provisions as pars. (1), (2)(A), (2)(B), and (3) to (5), respectively, and added par. (6).
 
 Subsecs. (n), (<i>o</i>). Pub. L. 110–246, §11016(a), added subsec. (n) and redesignated former subsec. (n) as (<i>o</i>).
 
-2000—Subsec. (e). Pub. L. 106–472 inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, and added par. (2).
+<b>2000</b>—Subsec. (e). Pub. L. 106–472 inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, and added par. (2).
 
-1998—Subsec. (h). Pub. L. 105–277 inserted at end “Shell eggs packed under the voluntary grading program of the Department of Agriculture shall not have been shipped for sale previous to being packed under the program, as determined under a regulation promulgated by the Secretary.”
+<b>1998</b>—Subsec. (h). Pub. L. 105–277 inserted at end “Shell eggs packed under the voluntary grading program of the Department of Agriculture shall not have been shipped for sale previous to being packed under the program, as determined under a regulation promulgated by the Secretary.”
 
-1984—Subsec. (h). Pub. L. 98–403 inserted provisions relating to the credit of certain funds to the trust fund account which incurs the cost of services provided under this subsection, the future availability of those funds, and investment thereof by the Secretary of Agriculture or the Secretary of the Treasury.
+<b>1984</b>—Subsec. (h). Pub. L. 98–403 inserted provisions relating to the credit of certain funds to the trust fund account which incurs the cost of services provided under this subsection, the future availability of those funds, and investment thereof by the Secretary of Agriculture or the Secretary of the Treasury.
 
 Subsec. (j). Pub. L. 98–443 struck out “the Civil Aeronautics Board” after “the Maritime Commission,”.
 
-1981—Subsec. (j). Pub. L. 97–31 inserted reference to Secretary of Transportation.
+<b>1981</b>—Subsec. (j). Pub. L. 97–31 inserted reference to Secretary of Transportation.
 
-1977—Subsec. (c). Pub. L. 95–113 inserted provisions relating to the setting of a standard of quality for ice cream.
+<b>1977</b>—Subsec. (c). Pub. L. 95–113 inserted provisions relating to the setting of a standard of quality for ice cream.
 
-1955—Subsec. (h). Act Aug. 9, 1955, inserted sentence to provide penalties for forgery or alteration of inspection certificates, unauthorized use of official grade marks or designations, and false or deceptive reference to United States grade standards or services.
+<b>1955</b>—Subsec. (h). Act Aug. 9, 1955, inserted sentence to provide penalties for forgery or alteration of inspection certificates, unauthorized use of official grade marks or designations, and false or deceptive reference to United States grade standards or services.
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 Pub. L. 110–234, title X, §10402(b), May 22, 2008, 122 Stat. 1349, and Pub. L. 110–246, §4(a), title X, §10402(b), June 18, 2008, 122 Stat. 1664, 2111, provided that: “The amendments made by subsection (a) \[amending this section\] take effect on the date that is 1 year after the date of enactment of this Act \[June 18, 2008\].”
 

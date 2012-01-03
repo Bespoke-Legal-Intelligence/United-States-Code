@@ -40,35 +40,35 @@ Section 1715z–2 of this title, referred to in subsec. (e), was repealed by Pub
 
 #### Amendments
 
-2008—Subsec. (e). Pub. L. 110–289 substituted “1709 of this title, except as determined by the Secretary” for “1709(b) (except as provided in section 1709(v)), (h), and (i) of this title”.
+<b>2008</b>—Subsec. (e). Pub. L. 110–289 substituted “1709 of this title, except as determined by the Secretary” for “1709(b) (except as provided in section 1709(v)), (h), and (i) of this title”.
 
-1994—Subsec. (f). Pub. L. 103–233, §105(b), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: “There are authorized to be appropriated such sums as may be necessary to cover losses sustained by the General Insurance Fund.”
+<b>1994</b>—Subsec. (f). Pub. L. 103–233, §105(b), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: “There are authorized to be appropriated such sums as may be necessary to cover losses sustained by the General Insurance Fund.”
 
 Subsec. (g). Pub. L. 103–233, §105(b)(2), redesignated subsec. (g) as (f).
 
 Pub. L. 103–233, §103(g)(2), added subsec. (g).
 
-1992—Subsec. (e). Pub. L. 102–550 inserted “(except as provided in section 1709(v))” after “1709(b)”.
+<b>1992</b>—Subsec. (e). Pub. L. 102–550 inserted “(except as provided in section 1709(v))” after “1709(b)”.
 
-1983—Subsec. (f). Pub. L. 98–181 inserted “such sums as may be necessary” after “appropriated”, and struck out “not to exceed $1,738,000,000, which amount shall be increased by $126,673,000 on October 1, 1981” after “Insurance Fund”.
+<b>1983</b>—Subsec. (f). Pub. L. 98–181 inserted “such sums as may be necessary” after “appropriated”, and struck out “not to exceed $1,738,000,000, which amount shall be increased by $126,673,000 on October 1, 1981” after “Insurance Fund”.
 
-1981—Subsec. (f). Pub. L. 97–35 inserted provision increasing authorization on Oct. 1, 1981.
+<b>1981</b>—Subsec. (f). Pub. L. 97–35 inserted provision increasing authorization on Oct. 1, 1981.
 
-1980—Subsec. (f). Pub. L. 96–399 substituted “$1,738,000,000” for “$1,341,000,000, which amount shall be increased by $165,000,000 on October 1, 1978, which shall be increased by not to exceed $93,000,000 on October 1, 1979”.
+<b>1980</b>—Subsec. (f). Pub. L. 96–399 substituted “$1,738,000,000” for “$1,341,000,000, which amount shall be increased by $165,000,000 on October 1, 1978, which shall be increased by not to exceed $93,000,000 on October 1, 1979”.
 
-1979—Subsec. (f). Pub. L. 96–153 provided for an increase of $93,000,000 on October 1, 1979.
+<b>1979</b>—Subsec. (f). Pub. L. 96–153 provided for an increase of $93,000,000 on October 1, 1979.
 
-1978—Subsec. (f). Pub. L. 95–557 inserted “which amount shall be increased by $165,000,000 on October 1, 1978”.
+<b>1978</b>—Subsec. (f). Pub. L. 95–557 inserted “which amount shall be increased by $165,000,000 on October 1, 1978”.
 
-1977—Subsec. (f). Pub. L. 95–24 substituted “$1,341,000,000” for “$500,000,000”.
+<b>1977</b>—Subsec. (f). Pub. L. 95–24 substituted “$1,341,000,000” for “$500,000,000”.
 
-1976—Subsec. (f). Pub. L. 94–375 added subsec. (f).
+<b>1976</b>—Subsec. (f). Pub. L. 94–375 added subsec. (f).
 
-1970—Subsec. (c). Pub. L. 91–609 provided for guarantee as to principal and interest by any agency of the United States and for investment of moneys in bonds or other obligations the proceeds of which will be used to directly support the residential mortgage market.
+<b>1970</b>—Subsec. (c). Pub. L. 91–609 provided for guarantee as to principal and interest by any agency of the United States and for investment of moneys in bonds or other obligations the proceeds of which will be used to directly support the residential mortgage market.
 
-1968—Subsec. (e). Pub. L. 90–448 prohibited use of Fund for carrying out provisions of sections 1715n(e), 1715x(a)(2), 1715z, 1715z–1 and 1715z–2 of this title.
+<b>1968</b>—Subsec. (e). Pub. L. 90–448 prohibited use of Fund for carrying out provisions of sections 1715n(e), 1715x(a)(2), 1715z, 1715z–1 and 1715z–2 of this title.
 
-1967—Pub. L. 90–19 substituted “Department of Housing and Urban Development” for “Federal Housing Administration” wherever appearing in subsecs. (b) and (c) of this section and “Secretary” for “Commissioner” in subsecs. (a), (c), and (d) of this section, respectively.
+<b>1967</b>—Pub. L. 90–19 substituted “Department of Housing and Urban Development” for “Federal Housing Administration” wherever appearing in subsecs. (b) and (c) of this section and “Secretary” for “Commissioner” in subsecs. (a), (c), and (d) of this section, respectively.
 
 #### Effective Date of 1981 Amendment
 

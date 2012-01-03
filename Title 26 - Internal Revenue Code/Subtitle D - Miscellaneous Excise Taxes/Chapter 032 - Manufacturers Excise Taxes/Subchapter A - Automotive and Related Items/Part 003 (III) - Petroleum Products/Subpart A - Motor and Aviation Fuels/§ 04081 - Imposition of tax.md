@@ -126,7 +126,7 @@ If any person separates the taxable fuel from a diesel-water fuel emulsion on wh
 
 #### (1) In general
 
-&emsp;The rates of tax specified in clauses (i) and (iii) of subsection (a)(2)(A) shall be 4.3 cents per gallon after September 30, 2011.
+&emsp;The rates of tax specified in clauses (i) and (iii) of subsection (a)(2)(A) shall be 4.3 cents per gallon after March 31, 2012.
 
 #### (2) Aviation fuels
 
@@ -134,17 +134,17 @@ If any person separates the taxable fuel from a diesel-water fuel emulsion on wh
 
 &emsp;&emsp;(A) after December 31, 1996, and before the date which is 7 days after the date of the enactment of the Airport and Airway Trust Fund Tax Reinstatement Act of 1997, and
 
-&emsp;&emsp;(B) after March 31, 2011.
+&emsp;&emsp;(B) after January 31, 2012.
 
 #### (3) Leaking Underground Storage Tank Trust Fund financing rate
 
-&emsp;The Leaking Underground Storage Tank Trust Fund financing rate under subsection (a)(2) shall apply after September 30, 1997, and before October 1, 2011.
+&emsp;The Leaking Underground Storage Tank Trust Fund financing rate under subsection (a)(2) shall apply after September 30, 1997, and before April 1, 2012.
 
 #### (e) Refunds in certain cases
 
 Under regulations prescribed by the Secretary, if any person who paid the tax imposed by this section with respect to any taxable fuel establishes to the satisfaction of the Secretary that a prior tax was paid (and not credited or refunded) with respect to such taxable fuel, then an amount equal to the tax paid by such person shall be allowed as a refund (without interest) to such person in the same manner as if it were an overpayment of tax imposed by this section.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 483; Mar. 30, 1955, ch. 18, §3(a)(3), 69 Stat. 14; Mar. 29, 1956, ch. 115, §3(a)(3), 70 Stat. 66; June 29, 1956, ch. 462, title II, §205, 70 Stat. 389; Pub. L. 86–342, title II, §201(a), Sept. 21, 1959, 73 Stat. 613; Pub. L. 87–61, title II, §201(b)–(d), June 29, 1961, 75 Stat. 123, 124; Pub. L. 91–605, title III, §303(a)(6), Dec. 31, 1970, 84 Stat. 1744; Pub. L. 94–280, title III, §303(a)(6), May 5, 1976, 90 Stat. 456; Pub. L. 95–599, title V, §502(a)(5), Nov. 6, 1978, 92 Stat. 2756; Pub. L. 95–618, title II, §221(a)(1), Nov. 9, 1978, 92 Stat. 3185; Pub. L. 96–223, title II, §232(a)(1), (b)(3)(A), (d)(3), Apr. 2, 1980, 94 Stat. 273, 276, 277; Pub. L. 97–424, title V, §§511(a)(1), (d)(1), 516(a)(3), Jan. 6, 1983, 96 Stat. 2169, 2171, 2182; Pub. L. 98–369, div. A, title VII, §732(a)(1), (2), title IX, §912(b), (f), July 18, 1984, 98 Stat. 976, 977, 1007; Pub. L. 99–499, title V, §521(a)(1), Oct. 17, 1986, 100 Stat. 1774; Pub. L. 99–514, title XVII, §1703(a), Oct. 22, 1986, 100 Stat. 2774; Pub. L. 100–17, title V, §502(a)(4), (c)(2), Apr. 2, 1987, 101 Stat. 256, 257; Pub. L. 100–203, title X, §10502(d)(2), Dec. 22, 1987, 101 Stat. 1330–444; Pub. L. 100–647, title I, §1017(c)(1), (14), title II, §2001(d)(5), title VI, §6104(a), Nov. 10, 1988, 102 Stat. 3575, 3577, 3595, 3711; Pub. L. 101–508, title XI, §§11211(a)(1)–(3), (5)(A)–(C), (c)(3), (e)(3), 11212(a), (d)(1), (e)(2), 11215(a), Nov. 5, 1990, 104 Stat. 1388–423, 1388–424, 1388–426, 1388–427, 1388–430, 1388–432, 1388–436; Pub. L. 102–240, title VIII, §8002(a)(3), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 102–486, title XIX, §1920(a), (b), Oct. 24, 1992, 106 Stat. 3026; Pub. L. 103–66, title XIII, §§13241(a), 13242(a), Aug. 10, 1993, 107 Stat. 510, 514; Pub. L. 104–188, title I, §1609(a)(2), (g)(1), (2), (4)(B), Aug. 20, 1996, 110 Stat. 1841–1843; Pub. L. 105–2, §2(a)(2), Feb. 28, 1997, 111 Stat. 4; Pub. L. 105–34, title X, §§1031(a)(2), 1032(b), 1033, Aug. 5, 1997, 111 Stat. 929, 933, 937; Pub. L. 105–178, title IX, §§9002(a)(1)(F), 9003(a)(1)(C), (b)(2)(B), (C), June 9, 1998, 112 Stat. 499, 502, 503; Pub. L. 108–357, title III, §301(c)(7), title VIII, §§853(a)(1)–(3)(A), (4), 860(a), Oct. 22, 2004, 118 Stat. 1461, 1609–1611, 1618; Pub. L. 109–6, §1(a), Mar. 31, 2005, 119 Stat. 20; Pub. L. 109–58, title XIII, §§1343(a), (b)(2), 1362(a), Aug. 8, 2005, 119 Stat. 1051, 1052, 1059; Pub. L. 109–59, title XI, §§11101(a)(1)(F), 11151(b)(1), (2), 11161(a)(1)–(4)(D),11166(b)(1), Aug. 10, 2005, 119 Stat. 1944, 1968–1970, 1976; Pub. L. 110–161, div. K, title I, §116(a), Dec. 26, 2007, 121 Stat. 2381; Pub. L. 110–190, §2(a), Feb. 28, 2008, 122 Stat. 643; Pub. L. 110–253, §2(a), June 30, 2008, 122 Stat. 2417; Pub. L. 110–330, §2(a), Sept. 30, 2008, 122 Stat. 3717; Pub. L. 111–12, §2(a), Mar. 30, 2009, 123 Stat. 1457; Pub. L. 111–69, §2(a), Oct. 1, 2009, 123 Stat. 2054; Pub. L. 111–116, §2(a), Dec. 16, 2009, 123 Stat. 3031; Pub. L. 111–153, §2(a), Mar. 31, 2010, 124 Stat. 1084; Pub. L. 111–161, §2(a), Apr. 30, 2010, 124 Stat. 1126; Pub. L. 111–197, §2(a), July 2, 2010, 124 Stat. 1353; Pub. L. 111–216, title I, §101(a), Aug. 1, 2010, 124 Stat. 2349; Pub. L. 111–249, §2(a), Sept. 30, 2010, 124 Stat. 2627; Pub. L. 111–329, §2(a), Dec. 22, 2010, 124 Stat. 3566.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 483; Mar. 30, 1955, ch. 18, §3(a)(3), 69 Stat. 14; Mar. 29, 1956, ch. 115, §3(a)(3), 70 Stat. 66; June 29, 1956, ch. 462, title II,§205, 70 Stat. 389; Pub. L. 86–342, title II, §201(a), Sept. 21, 1959, 73 Stat. 613; Pub. L. 87–61, title II, §201(b)–(d), June 29, 1961, 75 Stat. 123, 124; Pub. L. 91–605, title III, §303(a)(6), Dec. 31, 1970, 84 Stat. 1744; Pub. L. 94–280, title III, §303(a)(6), May 5, 1976, 90 Stat. 456; Pub. L. 95–599, title V, §502(a)(5), Nov. 6, 1978, 92 Stat. 2756; Pub. L. 95–618, title II, §221(a)(1), Nov. 9, 1978, 92 Stat. 3185; Pub. L. 96–223, title II, §232(a)(1), (b)(3)(A), (d)(3), Apr. 2, 1980, 94 Stat. 273, 276, 277; Pub. L. 97–424, title V, §§511(a)(1), (d)(1), 516(a)(3), Jan. 6, 1983, 96 Stat. 2169, 2171, 2182; Pub. L. 98–369, div. A, title VII, §732(a)(1), (2), title IX, §912(b), (f), July 18, 1984, 98 Stat. 976, 977, 1007; Pub. L. 99–499, title V, §521(a)(1), Oct. 17, 1986, 100 Stat. 1774; Pub. L. 99–514, title XVII, §1703(a), Oct. 22, 1986, 100 Stat. 2774; Pub. L. 100–17, title V, §502(a)(4), (c)(2), Apr. 2, 1987, 101 Stat. 256, 257; Pub. L. 100–203, title X, §10502(d)(2), Dec. 22, 1987, 101 Stat. 1330–444; Pub. L. 100–647, title I, §1017(c)(1), (14), title II, §2001(d)(5), title VI, §6104(a), Nov. 10, 1988, 102 Stat. 3575, 3577, 3595, 3711; Pub. L. 101–508, title XI, §§11211(a)(1)–(3), (5)(A)–(C), (c)(3), (e)(3), 11212(a), (d)(1), (e)(2), 11215(a), Nov. 5, 1990, 104 Stat. 1388–423, 1388–424, 1388–426, 1388–427, 1388–430, 1388–432, 1388–436; Pub. L. 102–240, title VIII, §8002(a)(3), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 102–486, title XIX, §1920(a), (b), Oct. 24, 1992, 106 Stat. 3026; Pub. L. 103–66, title XIII, §§13241(a), 13242(a), Aug. 10, 1993, 107 Stat. 510, 514; Pub. L. 104–188, title I, §1609(a)(2), (g)(1), (2), (4)(B), Aug. 20, 1996, 110 Stat. 1841–1843; Pub. L. 105–2, §2(a)(2), Feb. 28, 1997, 111 Stat. 4; Pub. L. 105–34, title X, §§1031(a)(2), 1032(b), 1033, Aug. 5, 1997, 111 Stat. 929, 933, 937; Pub. L. 105–178, title IX, §§9002(a)(1)(F), 9003(a)(1)(C), (b)(2)(B), (C), June 9, 1998, 112 Stat. 499, 502, 503; Pub. L. 108–357, title III, §301(c)(7), title VIII, §§853(a)(1)–(3)(A), (4), 860(a), Oct. 22, 2004, 118 Stat. 1461, 1609–1611, 1618; Pub. L. 109–6, §1(a), Mar. 31, 2005, 119 Stat. 20; Pub. L. 109–58, title XIII, §§1343(a), (b)(2), 1362(a), Aug. 8, 2005, 119 Stat. 1051, 1052, 1059; Pub. L. 109–59, title XI, §§11101(a)(1)(F), 11151(b)(1), (2), 11161(a)(1)–(4)(D), 11166(b)(1), Aug. 10, 2005, 119 Stat. 1944, 1968–1970, 1976; Pub. L. 110–161, div. K, title I, §116(a), Dec. 26, 2007, 121 Stat. 2381; Pub. L. 110–190, §2(a), Feb. 28, 2008, 122 Stat. 643; Pub. L. 110–253, §2(a), June 30, 2008, 122 Stat. 2417; Pub. L. 110–330, §2(a), Sept. 30, 2008, 122 Stat. 3717; Pub. L. 111–12, §2(a), Mar. 30, 2009, 123 Stat. 1457; Pub. L. 111–69, §2(a), Oct. 1, 2009, 123 Stat. 2054; Pub. L. 111–116, §2(a), Dec. 16, 2009, 123 Stat. 3031; Pub. L. 111–153, §2(a), Mar. 31, 2010, 124 Stat. 1084; Pub. L. 111–161, §2(a), Apr. 30, 2010, 124 Stat. 1126; Pub. L. 111–197, §2(a), July 2, 2010, 124 Stat. 1353; Pub. L. 111–216, title I, §101(a), Aug. 1, 2010, 124 Stat. 2349; Pub. L. 111–249, §2(a), Sept. 30, 2010, 124 Stat. 2627; Pub. L. 111–329, §2(a), Dec. 22, 2010, 124 Stat. 3566; Pub. L. 112–7, §2(a), Mar. 31, 2011, 125 Stat. 31; Pub. L. 112–16, §2(a), May 31, 2011, 125 Stat. 218; Pub. L. 112–21, §2(a), June 29, 2011, 125 Stat. 233; Pub. L. 112–27, §2(a), Aug. 5, 2011, 125 Stat. 270; Pub. L. 112–30, title I, §142(a)(1)(C), (2)(D), title II, §202(a), Sept. 16, 2011, 125 Stat. 356, 357.)
 
 #### References in Text
 
@@ -153,6 +153,20 @@ Section 211 of the Clean Air Act, referred to in subsec. (a)(2)(D), is classifie
 The date of the enactment of the Airport and Airway Trust Fund Tax Reinstatement Act of 1997, referred to in subsec. (d)(2)(A), is the date of enactment of Pub. L. 105–2, which was approved Feb. 28, 1997.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (d)(1). Pub. L. 112–30, §142(a)(1)(C), substituted “March 31, 2012” for “September 30, 2011”.
+
+Subsec. (d)(2)(B). Pub. L. 112–30, §202(a), substituted “January 31, 2012” for “September 16, 2011”.
+
+Pub. L. 112–27 substituted “September 16, 2011” for “July 22, 2011”.
+
+Pub. L. 112–21 substituted “July 22, 2011” for “June 30, 2011”.
+
+Pub. L. 112–16 substituted “June 30, 2011” for “May 31, 2011”.
+
+Pub. L. 112–7 substituted “May 31, 2011” for “March 31, 2011”.
+
+Subsec. (d)(3). Pub. L. 112–30, §142(a)(2)(D), substituted “April 1, 2012” for “October 1, 2011”.
 
 <b>2010</b>—Subsec. (d)(2)(B). Pub. L. 111–329 substituted “March 31, 2011” for “December 31, 2010”.
 
@@ -378,7 +392,7 @@ Subsec. (e). Pub. L. 99–499, §521(a)(1)(B)(ii), added subsec. (e) to this sec
 
 <b>1984</b>—Subsec. (c)(1). Pub. L. 98–369, §912(b)(A), (B), substituted “3 cents” for “4 cents” in subpar. (A), and “31/3 cents” for “44/9 cents” in subpar. (B).
 
-Pub. L. 98–369, §732(a)(1), struck out “by substituting ‘4 cents’ for ‘9 cents’ in the case of the sale of any gasoline” after “shall be applied” in text preceding subpar. (A), substituted “by substituting ‘4 cents’ for ‘9 cents’ in the case of the sale of any gasohol (the gasoline in which was not taxed under subparagraph (B)), and” for “in a mixture with alcohol, if at least 10 percent of the mixture is alcohol, or” in subpar. (A), substituted “by substituting ‘44/9 cents’ for ‘9 cents’ in the case of the sale of any gasoline for use in producing gasohol” for “for use in producing a mixture at least 10 percent of which is alcohol” in subpar. (B) and inserted definition of “gasohol” after subpar. (B).
+Pub. L. 98–369, §732(a)(1), struck out “by substituting ‘4 cents’ for ‘9 cents’ in the case of the sale of any gasoline” after “shall be applied” in text preceding subpar. (A), substituted “by substituting ‘4 cents’ for ‘9 cents’ in the case of the sale of any gasohol (the gasoline in which was not taxed under subparagraph (B)), and” for “in a mixture with alcohol, if at least 10 percent of the mixture is alcohol, or” in subpar. (A), substituted “by substituting ‘44/9 cents’ for ‘9 cents’ in the case of the sale of any gasoline for use in producing gasohol” for “for use in producing a mixture at least 10 percent ofwhich is alcohol” in subpar. (B) and inserted definition of “gasohol” after subpar. (B).
 
 Subsec. (c)(2). Pub. L. 98–369, §912(b)(A), (C), substituted “3 cents” for “4 cents” and “52/3 cents” for “45/9 cents”.
 
@@ -388,7 +402,7 @@ Subsec. (c)(3). Pub. L. 98–369, §912(f), substituted “coal (including peat)
 
 <b>1983</b>—Subsec. (a). Pub. L. 97–424, §511(a)(1), increased tax from 4 to 9 cents a gallon.
 
-Subsec. (b). Pub. L. 97–424, §516(a)(3), substituted provision that, on and after Oct. 1, 1988, the taxes imposed by this section shall not apply, for provision that, on and after Oct. 1, 1984, the tax imposed by this section would be 11/2 cents a gallon.
+Subsec. (b). Pub. L. 97–424, §516(a)(3), substituted provision that, on and after Oct. 1, 1988, the taxes imposed by this section shall not apply, for provision that, on and after Oct. 1, 1984, the tax imposed by this section would be 1½ cents a gallon.
 
 Subsec. (c)(1). Pub. L. 97–424, §511(d)(1)(A), substituted “subsection (a) shall be applied by substituting ‘4 cents’ for ‘9 cents’ in the case of the sale of any gasoline” for “no tax shall be imposed by this section on the sale of any gasoline” after “Secretary,”.
 
@@ -423,6 +437,20 @@ Subsec. (a). Act June 29, 1956, redesignated first sentence as subsec. (a) and i
 Subsec. (b). Act June 29, 1956, redesignated second sentence as subsec. (b) and substituted “July 1, 1972” for “April 1, 1956”.
 
 <b>1955</b>—Act Mar. 30, 1955, substituted “April 1, 1956” for “April 1, 1955”.
+
+#### Effective Date of 2011 Amendment
+
+Amendment by section 142(a)(1)(C), (2)(D) of Pub. L. 112–30 effective Oct. 1, 2011, see section 142(f) of Pub. L. 112–30, set out as a note under section 460<i>l</i>–11 of Title 16, Conservation.
+
+Pub. L. 112–30, title II, §202(c), Sept. 16, 2011, 125 Stat. 357, provided that: “The amendments made by this section \[amending this section and sections 4261 and 4271 of this title\] shall take effect on September 17, 2011.”
+
+Pub. L. 112–27, §2(c), Aug. 5, 2011, 125 Stat. 270, provided that: “The amendments made by this section \[amending this section and sections 4261 and 4271 of this title\] shall take effect on July 23, 2011.”
+
+Pub. L. 112–21, §2(c), June 29, 2011, 125 Stat. 233, provided that: “The amendments made by this section \[amending this section and sections 4261 and 4271 of this title\] shall take effect on July 1, 2011.”
+
+Pub. L. 112–16, §2(c), May 31, 2011, 125 Stat. 218, provided that: “The amendments made by this section \[amending this section and sections 4261 and 4271 of this title\] shall take effect on June 1, 2011.”
+
+Pub. L. 112–7, §2(c), Mar. 31, 2011, 125 Stat. 31, provided that: “The amendments made by this section \[amending this section and sections 4261 and 4271 of this title\] shall take effect on April 1, 2011.”
 
 #### Effective Date of 2010 Amendment
 
@@ -462,7 +490,7 @@ Pub. L. 110–161, div. K, title I, §116(d), Dec. 26, 2007, 121 Stat. 2382, pro
 
 Pub. L. 109–59, title XI, §11151(f)(1), Aug. 10, 2005, 119 Stat. 1969, provided that: “The amendments made by subsections (a) and (b) \[amending this section and sections 6421 and 6427 of this title\] shall take effect as if included in the provisions of the American Jobs Creation Act of 2004 \[Pub. L. 108–357\] to which they relate.”
 
-Amendment by section 11161(a)(1)–(4)(D) of Pub. L. 109–59 applicable to fuels or liquids removed, entered, or sold after Sept. 30, 2005, see section 11161(e) of Pub. L. 109–59, set out as a note under section 4041 of this title.
+Amendment by section 11161(a)(1)–(4)(D) of Pub. L. 109–59 applicable to fuels or liquids removed, entered,or sold after Sept. 30, 2005, see section 11161(e) of Pub. L. 109–59, set out as a note under section 4041 of this title.
 
 Pub. L. 109–59, title XI, §11166(b)(2), Aug. 10, 2005, 119 Stat. 1977, provided that: “The amendment made by this subsection \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 10, 2005\].”
 
@@ -556,7 +584,7 @@ Amendment by section 232(b)(3)(A) of Pub. L. 96–223 applicable to sales or use
 
 #### Effective Date of 1978 Amendment
 
-Section 221(a)(2) of Pub. L. 95–618, as amended by Pub. L. 96–223, title II, §232(a)(3), Apr. 2, 1980, 94 Stat. 273, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to sales after December 31, 1978.”
+Section 221(a)(2) of Pub. L. 95–618, as amended by Pub. L. 96–223, title II, §232(a)(3), Apr. 2, 1980, 94 Stat. 273,provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to sales after December 31, 1978.”
 
 #### Effective Date of 1961 Amendment
 
@@ -962,7 +990,7 @@ In general.—No tax shall be imposed by paragraph (1)—
 
 &emsp;“(B)
 
-Exempt fuel.—For purposes of subparagraph (A), there shall not be taken into account fuel held byany person which is exempt from the tax imposed by paragraph (1) by reason of paragraph (4) or (5).
+Exempt fuel.—For purposes of subparagraph (A), there shall not be taken into account fuel held by any person which is exempt from the tax imposed by paragraph (1) by reason of paragraph (4) or (5).
 
 &emsp;“(C)
 

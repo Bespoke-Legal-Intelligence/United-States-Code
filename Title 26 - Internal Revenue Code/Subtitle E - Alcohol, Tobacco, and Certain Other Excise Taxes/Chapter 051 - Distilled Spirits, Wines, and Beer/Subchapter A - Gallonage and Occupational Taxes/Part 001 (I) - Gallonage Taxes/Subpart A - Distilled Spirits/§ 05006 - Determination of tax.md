@@ -18,7 +18,7 @@
 
 #### (2) Alternative method
 
-&emsp;Where there is evidence satisfactory to the Secretary that there has been access, other than is authorized by law, to the contents of casks or packages stored on bonded premises, and the extent of such access is such as to evidence a lack of due diligence or a failure to employ necessary and effective controls on thepart of the proprietor, the Secretary (in lieu of requiring the casks or packages to which such access has been had to be withdrawn and tax paid on the original quantity of distilled spirits entered for deposit on bonded premises in such casks or packages as provided in paragraph (1)) may assess an amount equal to the tax on 5 proof gallons of distilled spirits at the prevailing rate on each of the total number of such casks or packages as determined by him.
+&emsp;Where there is evidence satisfactory to the Secretary that there has been access, other than is authorized by law, to the contents of casks or packages stored on bonded premises, and the extent of such access is such as to evidence a lack of due diligence or a failure to employ necessary and effective controls on the part of the proprietor, the Secretary (in lieu of requiring the casks or packages to which such access has been had to be withdrawn and tax paid on the original quantity of distilled spirits entered for deposit on bonded premises in such casks or packages as provided in paragraph (1)) may assess an amount equal to the tax on 5 proof gallons of distilled spirits at the prevailing rate on each of the total number of such casks or packages as determined by him.
 
 #### (3) Application of subsection
 
@@ -80,5 +80,5 @@ Section 206(f) of Pub. L. 85–859, as amended by Pub. L. 99–514, §2, Oct. 22
 
 &emsp;“(A) a consent of surety which changes (for periods on and after the date of the enactment of this Act) the condition based on the withdrawal of spirits from the internal revenue bonded warehouse within 8 years from the date of original entry for deposit to a condition based on the withdrawal of spirits from the internal revenue bonded warehouse within 20 years from the date of original entry for deposit, or
 
-&emsp;“(B) a bond which applies to periods on and after the date of the enactment of this Act and which satisfies the requirements of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as amended by this section, and is conditioned on the withdrawal of spirits from the internal revenue bonded warehouse within 20 years from the date of original entry for deposit.”
+&emsp;“(B) a bond which applies to periods on and after the date of the enactment of this Act and which satisfies the requirements of the Internal Revenue Codeof 1986 \[formerly I.R.C. 1954\], as amended by this section, and is conditioned on the withdrawal of spirits from the internal revenue bonded warehouse within 20 years from the date of original entry for deposit.”
 

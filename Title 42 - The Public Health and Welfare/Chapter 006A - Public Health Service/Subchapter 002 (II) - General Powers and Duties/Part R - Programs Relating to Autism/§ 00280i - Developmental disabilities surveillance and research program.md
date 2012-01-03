@@ -48,9 +48,13 @@ In this part:
 
 #### (e) Sunset
 
-This section shall not apply after September 30, 2011.
+This section shall not apply after September 30, 2014.
 
-(July 1, 1944, ch. 373, title III, §399AA, as added Pub. L. 109–416, §3(a), Dec. 19, 2006, 120 Stat. 2822.)
+(July 1, 1944, ch. 373, title III, §399AA, as added Pub. L. 109–416, §3(a), Dec. 19, 2006, 120 Stat. 2822; amended Pub. L. 112–32, §2(1), Sept. 30, 2011, 125 Stat. 361.)
+
+#### Amendments
+
+<b>2011</b>—Subsec. (e). Pub. L. 112–32 substituted “2014” for “2011”.
 
 #### Termination of Trust Territory of the Pacific Islands
 

@@ -6,7 +6,7 @@ There is established, as a unit of the National Park System in the State of Ohio
 
 #### (b) Areas included
 
-The park shall consist of the following sites, as generally depicted on a map entitled “Dayton Aviation Heritage National Historical Park”, numbered 362–80,010 and dated September 1, 2000:
+The park shall consist of the following sites, as generally depicted on a map entitled “DaytonAviation Heritage National Historical Park”, numbered 362–80,010 and dated September 1, 2000:
 
 &emsp;(1) A core parcel in Dayton, Ohio, which shall consist of the Wright Cycle Company building, Hoover Block, and lands between.
 

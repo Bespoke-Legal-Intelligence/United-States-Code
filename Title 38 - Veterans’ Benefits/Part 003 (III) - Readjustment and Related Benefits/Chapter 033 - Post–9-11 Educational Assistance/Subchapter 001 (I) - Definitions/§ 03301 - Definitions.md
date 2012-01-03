@@ -54,7 +54,7 @@ One station unit training.—The amendment made by subsection (a)(2) \[amending 
 
 “(3)
 
-Entry level and skill training for the coast guard.—The amendment made by subsection (a)(3) \[amending this section\] shall take effect on the date ofthe enactment of this Act, and shall apply with respect to individuals entering service on or after that date.”
+Entry level and skill training for the coast guard.—The amendment made by subsection (a)(3) \[amending this section\] shall take effect on the date of the enactment of this Act, and shall apply with respect to individuals entering service on or after that date.”
 
 #### Effective Date
 
@@ -146,7 +146,7 @@ In general.—In the event educational assistance to which an individual making 
 
 &emsp;“(B)
 
-Charge for use of entitlement.—The utilization by an individual of entitlement under subparagraph (A) shall be chargeable against the entitlement of the individual to educational assistance under chapter 33 of title 38, United States Code (as so added), at the rate of one month of entitlement undersuch chapter 33 for each month of entitlement utilized by the individual under subparagraph (A) (as determined as if such entitlement were utilized under the provisions of chapter 30 of title 38, United States Code, or chapter 107, 1606, or 1607 of title 10, United States Code, as applicable).
+Charge for use of entitlement.—The utilization by an individual of entitlement under subparagraph (A) shall be chargeable against the entitlement of the individual to educational assistance under chapter 33 of title 38, United States Code (as so added), at the rate of one month of entitlement under such chapter 33 for each month of entitlement utilized by the individual under subparagraph (A) (as determined as if such entitlement were utilized under the provisions of chapter 30 of title 38, United States Code, or chapter 107, 1606, or 1607 of title 10, United States Code, as applicable).
 
 “(6)
 

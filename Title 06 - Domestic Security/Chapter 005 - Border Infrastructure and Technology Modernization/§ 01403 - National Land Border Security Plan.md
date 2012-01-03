@@ -24,7 +24,7 @@ In preparing the plan required under subsection (a), the Commissioner shall cons
 
 #### (d) Coordination with the Secure Border Initiative
 
-The plan required under subsection (a) shall include a description of activities undertaken during the previous year as part of the Secure Border Initiative and actions planned for the coming year as part of the Secure Border Initiative.
+The plan required under subsection (a) shall include a description of activities undertaken during the previous year as part of the Secure Border Initiative and actions planned for thecoming year as part of the Secure Border Initiative.
 
 (Pub. L. 110–161, div. E, title VI, §604, Dec. 26, 2007, 121 Stat. 2095.)
 

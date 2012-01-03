@@ -12,7 +12,7 @@
 
 &emsp;(D) There are authorized to be appropriated to carry out section 1059e of this title, $75,000,000 for fiscal year 2009 and each of the five succeeding fiscal years.
 
-&emsp;(E) There are authorized to be appropriated to carry out section 1059f of this title,$25,000,000 for fiscal year 2009, and such sums as may be necessary for each of the five succeeding fiscal years.
+&emsp;(E) There are authorized to be appropriated to carry out section 1059f of this title, $25,000,000 for fiscal year 2009, and such sums as may be necessary for each of the five succeeding fiscal years.
 
 &emsp;(F) There are authorized to be appropriated to carry out section 1059g of this title, $30,000,000 for fiscal year 2009, and such sums as may be necessary for each of the five succeeding fiscal years.
 
@@ -80,7 +80,7 @@ A prior section 1069f, Pub. L. 89–329, title III, §360, as added Pub. L. 99�
 
 <b>1998</b>—Subsec. (a)(1)(A). Pub. L. 105–244, §308(h)(1)(A), substituted “1999” for “1993”.
 
-Subsec. (a)(1)(B). Pub. L. 105–244, §308(h)(1)(B), redesignated cl. (i) as entire subpar., substituted “$10,000,000 for fiscal year 1999” for “$45,000,000 for fiscal year 1993”,and struck out cl. (ii) which read as follows: “No funds are authorized to be appropriated pursuant to clause (i) for any fiscal year unless the amount appropriated pursuant to paragraph (1)(A) for such fiscal year equals or exceeds $80,000,000.”
+Subsec. (a)(1)(B). Pub. L. 105–244, §308(h)(1)(B), redesignated cl. (i) as entire subpar., substituted “$10,000,000 for fiscal year 1999” for “$45,000,000 for fiscal year 1993”, and struck out cl. (ii) which read as follows: “No funds are authorized to be appropriated pursuant to clause (i) for any fiscal year unless the amount appropriated pursuant to paragraph (1)(A) for such fiscal year equals or exceeds $80,000,000.”
 
 Subsec. (a)(1)(C). Pub. L. 105–244, §308(h)(1)(C), added subpar. (C).
 

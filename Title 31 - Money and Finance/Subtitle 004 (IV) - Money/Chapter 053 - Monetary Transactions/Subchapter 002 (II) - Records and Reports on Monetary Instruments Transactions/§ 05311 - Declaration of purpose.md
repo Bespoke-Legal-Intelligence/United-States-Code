@@ -86,7 +86,7 @@ Sense of Congress Regarding Success in Multilateral Organizations.—It is the s
 
 #### “SEC. 7704. COORDINATION OF UNITED STATES GOVERNMENT EFFORTS.
 
-“The Secretary of the Treasury, or the designee of the Secretary, as the lead United States Government official to the Financial Action Task Force (FATF), shall continue to convene the interagency United States Government FATF working group. This group, which includes representatives from all relevant Federal agencies, shall meet at least once a year to advise the Secretary on policies to be pursued by the United States regarding the development of common international AML and CFT standards, to assess the adequacy and implementation of such standards, and to recommend to the Secretary improved or new standards, as necessary.”
+“The Secretary of the Treasury, or the designee of the Secretary, as the lead United States Government official to the Financial Action Task Force (FATF), shall continue to convene the interagency United States Government FATF working group. This group, which includes representatives from all relevant Federal agencies, shall meet at least once a year to advise the Secretary on policies to be pursued by the United States regarding the development of common international AML and CFT standards, to assess the adequacy and implementation of such standards, and torecommend to the Secretary improved or new standards, as necessary.”
 
 #### International Money Laundering Abatement and Financial Anti-Terrorism Act of 2001; Findings and Purposes
 
@@ -138,7 +138,7 @@ Purposes.—The purposes of this title \[see Short Title of 2001 Amendment note 
 
 &emsp;“(7) to provide guidance to domestic financial institutions on particular foreign jurisdictions, financial institutions operating outside of the United States, and classes of international transactions or types of accounts that are of primary money laundering concern to the United States Government;
 
-&emsp;“(8) to ensure that the forfeiture of any assets in connection with the anti-terrorist efforts of theUnited States permits for adequate challenge consistent with providing due process rights;
+&emsp;“(8) to ensure that the forfeiture of any assets in connection with the anti-terrorist efforts of the United States permits for adequate challenge consistent with providing due process rights;
 
 &emsp;“(9) to clarify the terms of the safe harbor from civil liability for filing suspicious activity reports;
 
@@ -152,7 +152,7 @@ Purposes.—The purposes of this title \[see Short Title of 2001 Amendment note 
 
 #### Four-Year Congressional Review; Expedited Consideration
 
-Pub. L. 107–56, title III, §303, Oct. 26, 2001, 115 Stat. 298, as amended by Pub. L. 108–458, title VI, §6202(d), Dec. 17, 2004, 118 Stat. 3745, which provided that, effective on and after the first day of fiscal year 2005, the provisions of title III of Pub. L. 107–56 and the amendments made by such title would terminate if the Congress enacted a joint resolution, the text after the resolving clause of which was as follows: “That provisions of the International Money Laundering Abatement and Financial Antiterrorism Act of 2001, and the amendments made thereby, shall no longer have the force of law.”, was repealed by Pub. L. 108–458, title VI, §§6204, 6205, Dec. 17, 2004, 118 Stat. 3747, effective as if included in Pub. L. 107–56, as of the date of enactment of such Act.
+Pub. L. 107–56, title III, §303, Oct. 26, 2001, 115 Stat. 298, as amended by Pub. L. 108–458, title VI, §6202(d), Dec. 17, 2004, 118 Stat. 3745, which provided that, effective on and after the first day of fiscal year 2005, theprovisions of title III of Pub. L. 107–56 and the amendments made by such title would terminate if the Congress enacted a joint resolution, the text after the resolving clause of which was as follows: “That provisions of the International Money Laundering Abatement and Financial Antiterrorism Act of 2001, and the amendments made thereby, shall no longer have the force of law.”, was repealed by Pub. L. 108–458, title VI, §§6204, 6205, Dec. 17, 2004, 118 Stat. 3747, effective as if included in Pub. L. 107–56, as of the date of enactment of such Act.
 
 #### Cooperative Efforts To Deter Money Laundering
 

@@ -82,27 +82,27 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-2008—Par. (1)(ii) Pub. L. 110–417 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
+<b>2008</b>—Par. (1)(ii) Pub. L. 110–417 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
-2004—Par. (1)(iii). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Par. (1)(iii). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-1996—Par. (1)(ii). Pub. L. 104–201 substituted “National Imagery and Mapping Agency” for “Central Imagery Office”.
+<b>1996</b>—Par. (1)(ii). Pub. L. 104–201 substituted “National Imagery and Mapping Agency” for “Central Imagery Office”.
 
-1994—Par. (1)(ii). Pub. L. 103–359 inserted “the Central Imagery Office,” after “Defense Intelligence Agency,”.
+<b>1994</b>—Par. (1)(ii). Pub. L. 103–359 inserted “the Central Imagery Office,” after “Defense Intelligence Agency,”.
 
-1991—Par. (2)(C). Pub. L. 102–54 substituted “Veterans Health Administration of the Department of Veterans Affairs” for “Department of Medicine and Surgery, Veterans’ Administration”.
+<b>1991</b>—Par. (2)(C). Pub. L. 102–54 substituted “Veterans Health Administration of the Department of Veterans Affairs” for “Department of Medicine and Surgery, Veterans’ Administration”.
 
-1990—Par. (1). Pub. L. 101–474 redesignated subpar. (C) as (B) and struck out former subpar. (B) which included Administrative Office of United States Courts within definition of “agency”.
+<b>1990</b>—Par. (1). Pub. L. 101–474 redesignated subpar. (C) as (B) and struck out former subpar. (B) which included Administrative Office of United States Courts within definition of “agency”.
 
 Par. (2)(H). Pub. L. 101–510 added subpar. (H).
 
-1988—Par. (2)(E). Pub. L. 100–325 inserted reference to Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service.
+<b>1988</b>—Par. (2)(E). Pub. L. 100–325 inserted reference to Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service.
 
-1978—Pub. L. 95–454 substituted provisions defining “agency”, “employee”, and “unacceptable performance” for provisions defining “agency” and “employee”.
+<b>1978</b>—Pub. L. 95–454 substituted provisions defining “agency”, “employee”, and “unacceptable performance” for provisions defining “agency” and “employee”.
 
 Par. (2)(E). Pub. L. 95–251 substituted “administrative law judge” for “hearing examiner”.
 
-1970—Par. (1)(ii). Pub. L. 91–375 repealed cl. (ii) which excluded postal field service from definition of “agency”.
+<b>1970</b>—Par. (1)(ii). Pub. L. 91–375 repealed cl. (ii) which excluded postal field service from definition of “agency”.
 
 #### Effective Date of 1996 Amendment
 

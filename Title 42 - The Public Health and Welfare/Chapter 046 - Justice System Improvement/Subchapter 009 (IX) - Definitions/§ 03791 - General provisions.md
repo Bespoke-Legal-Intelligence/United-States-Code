@@ -6,7 +6,7 @@ As used in this chapter—
 
 &emsp;(1) “criminal justice” means activities pertaining to crime prevention, control, or reduction, or the enforcement of the criminal law, including, but not limited to, police efforts to prevent, control, or reduce crime or to apprehend criminals, including juveniles, activities of courts having criminal jurisdiction, and related agencies (including but not limited to prosecutorial and defender services, juvenile delinquency agencies and pretrial service or release agencies), activities of corrections, probation, or parole authorities and related agencies assisting in the rehabilitation, supervision, and care of criminal offenders, and programs relating to the prevention, control, or reduction of narcotic addiction and juvenile delinquency;
 
-&emsp;(2) “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands: <i>Provided</i>, That for the purposes of section 3755(a) of this title, American Samoa and the Commonwealth of the Northern Mariana Islands shall be considered as one state <sup>1</sup> and that for these purposes 67 per centum of the amounts allocated shall be allocated to American Samoa, and 33 per centum to the Commonwealth of the Northern Mariana Islands.<sup>2</sup>
+&emsp;(2) “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands,American Samoa, Guam, and the Northern Mariana Islands: <i>Provided</i>, That for the purposes of section 3755(a) of this title, American Samoa and the Commonwealth of the Northern Mariana Islands shall be considered as one state <sup>1</sup> and that for these purposes 67 per centum of the amounts allocated shall be allocated to American Samoa, and 33 per centum to the Commonwealth of the Northern Mariana Islands.<sup>2</sup>
 
 &emsp;(3) “unit of local government” means—
 
@@ -98,7 +98,7 @@ A prior section 3792 of this title, Pub. L. 90–351, title I, §652, as added P
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a)(2). Pub. L. 109–162, §1111(c)(2)(F), which directed the substitution of “for the purposes ofsection 3755(a) of this title” for “for the purposes of section 3756(a) of this title”, was executed by making the substitution for “for the purpose of section 3756(a) of this title”, to reflect the probable intent of Congress.
+<b>2006</b>—Subsec. (a)(2). Pub. L. 109–162, §1111(c)(2)(F), which directed the substitution of “for the purposes of section 3755(a) of this title” for “for the purposes of section 3756(a) of this title”, was executed by making the substitution for “for the purpose of section 3756(a) of this title”, to reflect the probable intent of Congress.
 
 Subsec. (a)(3)(C). Pub. L. 109–162, §1156(1), struck out “(as that term is defined in section 5603 of this title)” after “an Indian Tribe”.
 

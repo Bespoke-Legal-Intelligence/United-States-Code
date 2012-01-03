@@ -48,5 +48,5 @@ The date of enactment of this subsection, referred to in subsec. (e), is the dat
 
 #### Amendments
 
-1996—Subsec. (e). Pub. L. 104–93 added subsec. (e).
+<b>1996</b>—Subsec. (e). Pub. L. 104–93 added subsec. (e).
 

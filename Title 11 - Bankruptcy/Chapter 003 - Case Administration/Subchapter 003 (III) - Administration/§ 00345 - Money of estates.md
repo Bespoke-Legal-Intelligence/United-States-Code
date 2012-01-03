@@ -24,13 +24,13 @@
 
 (c) An entity with which such moneys are deposited or invested is authorized to deposit or invest such moneys as may be required under this section.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2565; Pub. L. 97–258, §3(c), Sept. 13, 1982, 96 Stat. 1064; Pub. L. 98–353, title III, §437, July 10, 1984, 98 Stat. 370; Pub. L. 99–554, title II, §214, Oct. 27, 1986, 100 Stat. 3099; Pub. L. 103–394, title II, §210, Oct. 22, 1994, 108 Stat. 4125.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2565; Pub. L. 97–258, §3(c), Sept. 13, 1982, 96 Stat. 1064; Pub. L.98–353, title III, §437, July 10, 1984, 98 Stat. 370; Pub. L. 99–554, title II, §214, Oct. 27, 1986, 100 Stat. 3099; Pub. L. 103–394, title II, §210, Oct. 22, 1994, 108 Stat. 4125.)
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
-The House amendment moves section 345(c) of the House bill to chapter 15 as part of the pilot program forthe U.S. trustees. The bond required by section 345(b) may be a blanket bond posted by the financial depository sufficient to cover deposits by trustees in several cases, as is done under current law.
+The House amendment moves section 345(c) of the House bill to chapter 15 as part of the pilot program for the U.S. trustees. The bond required by section 345(b) may be a blanket bond posted by the financial depository sufficient to cover deposits by trustees in several cases, as is done under current law.
 
 #### senate report no. 95–989
 
@@ -42,13 +42,13 @@ These provisions do not address the question of aggregation of funds by a privat
 
 #### Amendments
 
-1994—Subsec. (b). Pub. L. 103–394 substituted semicolon for period at end of par. (2) and inserted concluding provisions after par. (2).
+<b>1994</b>—Subsec. (b). Pub. L. 103–394 substituted semicolon for period at end of par. (2) and inserted concluding provisions after par. (2).
 
-1986—Subsec. (b). Pub. L. 99–554 amended subsec. (b) generally, substituting “approved by the United States trustee for the district” for “approved by the court for the district” in par. (1)(B).
+<b>1986</b>—Subsec. (b). Pub. L. 99–554 amended subsec. (b) generally, substituting “approved by the United States trustee for the district” for “approved by the court for the district” in par. (1)(B).
 
-1984—Subsec. (c). Pub. L. 98–353 added subsec. (c).
+<b>1984</b>—Subsec. (c). Pub. L. 98–353 added subsec. (c).
 
-1982—Subsec. (b)(2). Pub. L. 97–258 substituted “section 9303 of title 31” for “section 15 of title 6”.
+<b>1982</b>—Subsec. (b)(2). Pub. L. 97–258 substituted “section 9303 of title 31” for “section 15 of title 6”.
 
 #### Effective Date of 1994 Amendment
 

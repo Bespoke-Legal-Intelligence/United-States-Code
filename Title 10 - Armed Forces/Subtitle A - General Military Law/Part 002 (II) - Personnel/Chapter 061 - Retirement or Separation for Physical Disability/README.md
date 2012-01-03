@@ -18,7 +18,7 @@
 | [1212\.](%C2%A7%2001212%20-%20Disability%20severance%20pay.md) | Disability severance pay. |
 | [1213\.](%C2%A7%2001213%20-%20Effect%20of%20separation%20on%20benefits%20and%20claims.md) | Effect of separation on benefits and claims. |
 | [1214\.](%C2%A7%2001214%20-%20Right%20to%20full%20and%20fair%20hearing.md) | Right to full and fair hearing. |
-| [1214a.](%C2%A7%2001214a%20-%20Members%20determined%20fit%20for%20duty%20in%20Physical%20Evaluation%20Board%20evaluation%20prohibition%20on%20involuntary%20administrative%20separation%20due%20to%E2%80%A6.md) | Members determined fit for duty in Physical Evaluation Board evaluation: prohibition on involuntary administrative separation due to unsuitability based on medical conditions considered in evaluation. |
+| [1214a.](%C2%A7%2001214a%20-%20Members%20determined%20fit%20for%20duty%20in%20Physical%20Evaluation%20Board%20prohibition%20on%20involuntary%20administrative%20separation%20or%20denial%20of%E2%80%A6.md) | Members determined fit for duty in Physical Evaluation Board: prohibition on involuntary administrative separation or denial of reenlistment due to unsuitability based on medical conditions considered in evaluation. |
 | [1215\.](%C2%A7%2001215%20-%20Members%20other%20than%20Regulars%20applicability%20of%20laws.md) | Members other than Regulars: applicability of laws. |
 | [1216\.](%C2%A7%2001216%20-%20Secretaries%20powers%2C%20functions%2C%20and%20duties.md) | Secretaries: powers, functions, and duties. |
 | [1216a.](%C2%A7%2001216a%20-%20Determinations%20of%20disability%20requirements%20and%20limitations%20on%20determinations.md) | Determinations of disability: requirements and limitations on determinations. |
@@ -34,7 +34,9 @@
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 111–383, div. A, title V, §534(a)(2), Jan. 7, 2011, 124 Stat. 4217, added item 1214a.
+<b>2011</b>—Pub. L. 112–81, div. A, title V, §527(c)(2), Dec. 31, 2011, 125 Stat. 1402, substituted “Members determined fit for duty in Physical Evaluation Board: prohibition on involuntary administrative separation or denial of reenlistment due to unsuitability based on medical conditions considered in evaluation” for “Members determined fit for duty in Physical Evaluation Board evaluation: prohibition on involuntary administrative separation due to unsuitability based on medical conditions considered in evaluation” in item 1214a.
+
+Pub. L. 111–383, div. A, title V, §534(a)(2), Jan. 7, 2011, 124 Stat. 4217, added item 1214a.
 
 <b>2009</b>—Pub. L. 111–84, div. A, title VI, §641(b), Oct. 28, 2009, 123 Stat. 2365, added item 1218a.
 
@@ -77,7 +79,7 @@
 - [&sect; 01212 - Disability severance pay](%C2%A7%2001212%20-%20Disability%20severance%20pay.md)
 - [&sect; 01213 - Effect of separation on benefits and claims](%C2%A7%2001213%20-%20Effect%20of%20separation%20on%20benefits%20and%20claims.md)
 - [&sect; 01214 - Right to full and fair hearing](%C2%A7%2001214%20-%20Right%20to%20full%20and%20fair%20hearing.md)
-- [&sect; 01214a - Members determined fit for duty in Physical Evaluation Board evaluation prohibition on involuntary administrative separation due to&#8230;](%C2%A7%2001214a%20-%20Members%20determined%20fit%20for%20duty%20in%20Physical%20Evaluation%20Board%20evaluation%20prohibition%20on%20involuntary%20administrative%20separation%20due%20to%E2%80%A6.md)
+- [&sect; 01214a - Members determined fit for duty in Physical Evaluation Board prohibition on involuntary administrative separation or denial of&#8230;](%C2%A7%2001214a%20-%20Members%20determined%20fit%20for%20duty%20in%20Physical%20Evaluation%20Board%20prohibition%20on%20involuntary%20administrative%20separation%20or%20denial%20of%E2%80%A6.md)
 - [&sect; 01215 - Members other than Regulars applicability of laws](%C2%A7%2001215%20-%20Members%20other%20than%20Regulars%20applicability%20of%20laws.md)
 - [&sect; 01216 - Secretaries powers, functions, and duties](%C2%A7%2001216%20-%20Secretaries%20powers%2C%20functions%2C%20and%20duties.md)
 - [&sect; 01216a - Determinations of disability requirements and limitations on determinations](%C2%A7%2001216a%20-%20Determinations%20of%20disability%20requirements%20and%20limitations%20on%20determinations.md)

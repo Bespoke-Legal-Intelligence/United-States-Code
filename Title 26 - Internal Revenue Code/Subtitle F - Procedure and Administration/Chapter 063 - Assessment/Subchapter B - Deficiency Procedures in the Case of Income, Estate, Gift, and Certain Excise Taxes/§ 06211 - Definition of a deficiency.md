@@ -20,11 +20,11 @@ For purposes of this section—
 
 &emsp;(2) The term “rebate” means so much of an abatement, credit, refund, or other repayment, as was made on the ground that the tax imposed by subtitle A or B or chapter 41, 42, 43, or 44 was less than the excess of the amount specified in subsection (a)(1) over the rebates previously made.
 
-&emsp;(3) The computation by the Secretary, pursuant to section 6014, of the tax imposed bychapter 1 shall be considered as having been made by the taxpayer and the tax so computed considered as shown by the taxpayer upon his return.
+&emsp;(3) The computation by the Secretary, pursuant to section 6014, of the tax imposed by chapter 1 shall be considered as having been made by the taxpayer and the tax so computed considered as shown by the taxpayer upon his return.
 
 &emsp;(4) For purposes of subsection (a)—
 
-&emsp;&emsp;(A) any excess of the sum of the credits allowable under sections 24(d), 25A by reason of subsection (i)(6) thereof, 32, 34, 35, 36, 36A, 36B, 36C, 53(e), 168(k)(4), 6428, and 6431 over the tax imposed by subtitle A (determined without regard to such credits), and
+&emsp;&emsp;(A) any excess of the sum of the credits allowable under sections 24(d), 25A by reason of subsection (i)(6) thereof, 32, 34, 35, 36, 36A, 36B, 53(e), 168(k)(4), 6428, and 6431 over the tax imposed by subtitle A (determined without regard to such credits), and
 
 &emsp;&emsp;(B) any excess of the sum of such credits as shown by the taxpayer on his return over the amount shown as the tax by the taxpayer on such return (determined without regard to such credits),
 
@@ -58,7 +58,7 @@ Pub. L. 111–5, §1001(e)(1), inserted “36A,” after “36,”.
 
 Pub. L. 110–185 substituted “53(e), and 6428” for “and 53(e)”.
 
-<b>2007</b>—Subsec. (b)(4)(A). Pub. L. 110–172, which directed amendment of subpar. (A) by substituting “34, and 35” for “and 34”, was executed by inserting “35,” after “34,”, to reflect the probable intent of Congress and the amendment of subpar. (A) by section 402(b)(1) of Pub. L. 109–432. See 2006 Amendment note below.
+<b>2007</b>—Subsec. (b)(4)(A). Pub. L. 110–172, which directed amendment of subpar. (A) by substituting “34, and 35” for “and 34”, was executed by inserting “35,” after“34,”, to reflect the probable intent of Congress and the amendment of subpar. (A) by section 402(b)(1) of Pub. L. 109–432. See 2006 Amendment note below.
 
 <b>2006</b>—Subsec. (b)(4)(A). Pub. L. 109–432 substituted “34, and 53(e)” for “and 34”.
 
@@ -158,7 +158,7 @@ Amendment by Pub. L. 100–418 applicable to crude oil removed from the premises
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as a note under section 21 of this title.
+Amendment by Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, and to carrybacksfrom such years, see section 475(a) of Pub. L. 98–369, set out as a note under section 21 of this title.
 
 #### Effective Date of 1980 Amendment
 

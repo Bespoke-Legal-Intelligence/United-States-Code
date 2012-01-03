@@ -100,7 +100,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) community property laws shall be disregarded,
 
-&emsp;&emsp;(B) stock held by a plan described in section 401(a) which is exempt from tax under section 501(a) shall be treated as held by an employee described in paragraph (2)(B)(i), and
+&emsp;&emsp;(B) stock held by a plan described in section 401(a) which is exempt from tax undersection 501(a) shall be treated as held by an employee described in paragraph (2)(B)(i), and
 
 &emsp;&emsp;(C) at the election of the common parent of an affiliated group (within the meaning of section 1504(a)), all members of such group may be treated as 1 taxpayer for purposes of paragraph (2)(B) if 90 percent or more of the activities of such group involve the performance of services in the same field described in paragraph (2)(A).
 

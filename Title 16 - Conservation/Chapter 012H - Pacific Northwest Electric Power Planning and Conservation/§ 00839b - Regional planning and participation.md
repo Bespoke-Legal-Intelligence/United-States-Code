@@ -186,7 +186,7 @@
 
 (10)(A) The Administrator shall use the Bonneville Power Administration fund and the authorities available to the Administrator under this chapter and other laws administered by the Administrator to protect, mitigate, and enhance fish and wildlife to the extent affected by the development and operation of any hydroelectric project of the Columbia River and its tributaries in a manner consistent with the plan, if in existence, the program adopted by the Council under this subsection, and the purposes of this chapter. Expenditures of the Administrator pursuant to this paragraph shall be in addition to, not in lieu of, other expenditures authorized or required from other entities under other agreements or provisions of law.
 
-(B) The Administrator may make expenditures from such fund which shall be included in the annual or supplementary budgets submitted to the Congress pursuant to the Federal Columbia River Transmission System Act \[16 U.S.C. 838 et seq.\]. Any amounts included in such budget for the construction of capital facilities with an estimated life of greater than 15 years and an estimated cost of at least $1,000,000 shall be funded in the same manner and in accordance with the same procedures as major transmission facilities under the Federal Columbia River Transmission System Act.
+(B) The Administrator may make expenditures from such fund which shall be included in the annual or supplementary budgets submitted to the Congress pursuant to the Federal Columbia River Transmission System Act \[16 U.S.C. 838 et seq.\]. Any amounts included in such budget for the construction of capital facilities with an estimated life of greater than 15 years and an estimated cost of at least $2,500,000 shall be funded in the same manner and in accordance with the same procedures as major transmission facilities under the Federal Columbia River Transmission System Act.
 
 (C) The amounts expended by the Administrator for each activity pursuant to this subsection shall be allocated as appropriate by the Administrator, in consultation with the Corps of Engineers and the Water and Power Resources Service, among the various hydroelectric projects of the Federal Columbia River Power System. Amounts so allocated shall be allocated to the various project purposes in accordance with existing accounting procedures for the Federal Columbia River Power System.
 
@@ -258,7 +258,7 @@ The Council may from time to time review the actions of the Administrator pursua
 
 (2) The Administrator may determine that section 839a(4)(D) of this title shall not apply to any proposed conservation measure or resource if the Administrator finds after receipt of such analysis from the Council that such measure or resource would have any result or effect described in subparagraph (A), (B) or (C) of paragraph (1).
 
-(Pub. L. 96–501, §4, Dec. 5, 1980, 94 Stat. 2700; Pub. L. 103–437, §6(u), Nov. 2, 1994, 108 Stat. 4587; Pub. L. 104–206, title V, §512, Sept. 30, 1996, 110 Stat. 3005; Pub. L. 106–60, title VI, §610, Sept. 29, 1999, 113 Stat. 502.)
+(Pub. L. 96–501, §4, Dec. 5, 1980, 94 Stat. 2700; Pub. L. 103–437, §6(u), Nov. 2, 1994, 108 Stat. 4587; Pub. L. 104–206, title V, §512, Sept. 30, 1996, 110 Stat. 3005; Pub. L. 106–60, title VI, §610, Sept. 29, 1999, 113 Stat. 502; Pub. L. 112–74, div. B, title III, §307, Dec. 23, 2011, 125 Stat. 877.)
 
 #### References in Text
 
@@ -273,6 +273,8 @@ The Federal Advisory Committee Act, referred to in subsec. (h)(10)(D)(iii), is P
 September 30, 1996, referred to in subsec. (h)(10)(D)(i), (ii), was in the original “the date of this enactment”, which was translated as meaning the date of enactment of Pub. L. 104–206, which enacted subsec. (h)(10)(D), to reflect the probable intent of Congress.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (h)(10)(B). Pub. L. 112–74, which directed amendment of “section 839b(h)(10)(B) of title 16, United States Code” by substituting “$2,500,000” for “$1,000,000”, was executed by making the substitution in subsec. (h)(10)(B) of this section, which is section 4 of the Pacific Northwest Electric Power Planning and Conservation Act, to reflect the probable intent of Congress.
 
 <b>1999</b>—Subsec. (h)(10)(D)(vii), (viii). Pub. L. 106–60 added cl. (vii) and struck out former cls. (vii) and (viii) which read as follows:
 

@@ -24,7 +24,7 @@ The Secretary shall, by regulation, prescribe the terms and conditions under whi
 
 #### (1) Designation of underserved area
 
-&emsp;The Secretary shall designate as targeted underserved areas 100 counties and communities in each fiscal year that have severe, unmet housing needs as determined by the Secretary. A county or community shall be eligible for designation if, during the 5-year period preceding the year in which the designation is made, it has received an average annual amount of assistance under this subchapter that is substantially lower than the average annual amount of such assistance received during that 5-year period by other counties and communities in the State that are eligible for such assistance calculated on a per capita basis, and has—
+&emsp;The Secretary shall designate as targeted underserved areas 100 counties and communities in each fiscal year that have severe,unmet housing needs as determined by the Secretary. A county or community shall be eligible for designation if, during the 5-year period preceding the year in which the designation is made, it has received an average annual amount of assistance under this subchapter that is substantially lower than the average annual amount of such assistance received during that 5-year period by other counties and communities in the State that are eligible for such assistance calculated on a per capita basis, and has—
 
 &emsp;&emsp;(A) 20 percent or more of its population at or below the poverty level; and
 
@@ -78,7 +78,7 @@ The Secretary shall, by regulation, prescribe the terms and conditions under whi
 
 #### (B) Use
 
-&emsp;&emsp;A grant under this paragraph shall not exceed an amount that the Secretary determines to equal the customary and reasonable costs incurred in preparing an application for a loan under section 1472, 1474, 1484, 1485, or 1490d of this title, or a grant under section 1490m of this title (including preapplication planning, site analysis, market analysis, and other necessary technical assistance). The Secretary shall adjust the loan or grant amount under such sections to take account of project preparation costs that have been paid from grant proceeds under this paragraph and that normallywould be reimbursed with proceeds of the loan or grant.
+&emsp;&emsp;A grant under this paragraph shall not exceed an amount that the Secretary determines to equal the customary and reasonable costs incurred in preparing an application for a loan under section 1472, 1474, 1484, 1485, or 1490d of this title, or a grant under section 1490m of this title (including preapplication planning, site analysis, market analysis, and other necessary technical assistance). The Secretary shall adjust the loan or grant amount under such sections to take account of project preparation costs that have been paid from grant proceeds under this paragraph and that normally would be reimbursed with proceeds of the loan or grant.
 
 #### (C) Approval
 

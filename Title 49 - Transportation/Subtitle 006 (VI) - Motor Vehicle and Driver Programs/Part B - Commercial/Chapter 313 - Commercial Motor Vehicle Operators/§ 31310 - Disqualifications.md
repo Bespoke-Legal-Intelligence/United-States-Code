@@ -2,7 +2,7 @@
 
 (a)
 
-Blood Alcohol Concentration Level.—In this section, the blood alcohol concentration level at or above which an individual when operating a commercial motor vehicle is deemed tobe driving under the influence of alcohol is .04 percent.
+Blood Alcohol Concentration Level.—In this section, the blood alcohol concentration level at or above which an individual when operating a commercial motor vehicle is deemed to be driving under the influence of alcohol is .04 percent.
 
 (b)
 

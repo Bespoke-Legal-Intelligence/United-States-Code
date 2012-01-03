@@ -1,6 +1,6 @@
 ### §5556. Regulations
 
-The regulations prescribed by the Secretary for enforcement of this chapter may make such distinctions in requirements relating to construction, equipment, or methods of operation as he deems necessary or desirable due to differences in materials or variations in methodsused in production, processing, or storage of distilled spirits.
+The regulations prescribed by the Secretary for enforcement of this chapter may make such distinctions in requirements relating to construction, equipment, or methods of operation as he deems necessary or desirable due to differences in materials or variations in methods used in production, processing, or storage of distilled spirits.
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1396; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 

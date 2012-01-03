@@ -30,7 +30,7 @@ It is the purpose of this chapter—
 
 &emsp;(3) to ensure that the Federal Government plays a central role in enforcing the standards established in this chapter on behalf of individuals with disabilities; and
 
-&emsp;(4) to invoke the sweep of congressional authority, including the power to enforce the fourteenth amendment and to regulate commerce, in order to address the major areas of discrimination faced day-to-day by people with disabilities.
+&emsp;(4) to invoke the sweep of congressional authority, including the power to enforce the fourteenth amendment and to regulate commerce, in order to address the major areas ofdiscrimination faced day-to-day by people with disabilities.
 
 (Pub. L. 101–336, §2, July 26, 1990, 104 Stat. 328; Pub. L. 110–325, §3, Sept. 25, 2008, 122 Stat. 3554.)
 
@@ -54,7 +54,7 @@ Pub. L. 110–325, §1, Sept. 25, 2008, 122 Stat. 3553, provided that: “This A
 
 #### Short Title
 
-Section 1(a) of Pub. L. 101–336 provided that: “This Act \[enacting this chapter and section 225 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, amending section 706 of Title 29, Labor, and sections 152, 221, and 611 of Title 47, and enacting provisions set out asnotes under sections 12111, 12131, 12141, 12161, and 12181 of this title\] may be cited as the ‘Americans with Disabilities Act of 1990’.”
+Section 1(a) of Pub. L. 101–336 provided that: “This Act \[enacting this chapter and section 225 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, amending section 706 of Title 29, Labor, and sections 152, 221, and 611 of Title 47, and enacting provisions set out as notes under sections 12111, 12131, 12141, 12161, and 12181 of this title\] may be cited as the ‘Americans with Disabilities Act of 1990’.”
 
 #### Findings and Purposes of Pub. L. 110–325
 

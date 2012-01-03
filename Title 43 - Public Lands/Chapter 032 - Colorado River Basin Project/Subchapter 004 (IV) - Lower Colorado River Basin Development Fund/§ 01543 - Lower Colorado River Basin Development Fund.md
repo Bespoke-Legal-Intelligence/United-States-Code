@@ -62,7 +62,7 @@ Except as provided in subsection (f) of this section, revenues credited to the d
 
 &emsp;&emsp;&emsp;&emsp;(III) section 304 of the Southern Arizona Water Rights Settlement Amendments Act of 2004;
 
-&emsp;&emsp;&emsp;(iv) to pay $52,396,000 for the rehabilitation of the San Carlos Irrigation Project as provided in section 203(d)(4) of the Arizona Water Settlements Act, of which not more than $9,000,000 shall be available annually, except that the total amount of $52,396,000 shall be increased or decreased, as appropriate, based on ordinary fluctuations since January 1, 2000, in construction cost indices applicable to the types of construction involved in the rehabilitation;
+&emsp;&emsp;&emsp;(iv) to pay $52,396,000 for the rehabilitation of the San Carlos Irrigation Project as provided in section 203(d)(4) of the Arizona Water Settlements Act, of which not more than $9,000,000 shall be available annually, except that the total amount of $52,396,000shall be increased or decreased, as appropriate, based on ordinary fluctuations since January 1, 2000, in construction cost indices applicable to the types of construction involved in the rehabilitation;
 
 &emsp;&emsp;&emsp;(v) to pay other costs specifically identified under—
 
@@ -70,7 +70,7 @@ Except as provided in subsection (f) of this section, revenues credited to the d
 
 &emsp;&emsp;&emsp;&emsp;(II) the Southern Arizona Water Rights Settlement Amendments Act of 2004;
 
-&emsp;&emsp;&emsp;(vi) to pay a total of not more than $250,000,000 to the credit of the Future Indian Water Settlement Subaccount of the Lower Colorado Basin Development Fund, for use for Indian water rights settlements in Arizona approved by Congress after the date of enactment of this Act, subject to the requirement that, notwithstanding any other provision of this chapter, any funds credited to the Future Indian WaterSettlement Subaccount that are not used in furtherance of a congressionally approved Indian water rights settlement in Arizona by December 31, 2030, shall be returned to the main Lower Colorado Basin Development Fund for expenditure on authorized uses pursuant to this chapter, provided that any interest earned on funds held in the Future Indian Water Settlement Subaccount shall remain in such subaccount until disbursed or returned in accordance with this section;
+&emsp;&emsp;&emsp;(vi) to pay a total of not more than $250,000,000 to the credit of the Future Indian Water Settlement Subaccount of the Lower Colorado Basin Development Fund, for use for Indian water rights settlements in Arizona approved by Congress after the date of enactment of this Act, subject to the requirement that, notwithstanding any other provision of this chapter, any funds credited to the Future Indian Water Settlement Subaccount that are not used in furtherance of a congressionally approved Indian water rights settlement in Arizona by December 31, 2030, shall be returned to the main Lower Colorado Basin Development Fund for expenditure on authorized uses pursuant to this chapter, provided that any interest earned on funds held in the Future Indian Water Settlement Subaccount shall remain in such subaccount until disbursed or returned in accordance with this section;
 
 &emsp;&emsp;&emsp;(vii) to pay costs associated with the installation of gages on the Gila River and its tributaries to measure the water level of the Gila River and its tributaries for purposes of the New Mexico Consumptive Use and Forbearance Agreement in an amount not to exceed $500,000; and
 
@@ -120,7 +120,7 @@ Except as provided in subsection (f) of this section, revenues credited to the d
 
 &emsp;&emsp;&emsp;&emsp;(I) Any investments referred to in the Act of June 24, 1938 (25 U.S.C. 162a).
 
-&emsp;&emsp;&emsp;&emsp;(II) Investments in obligations of government corporations and government-sponsored entities whose charter statutes provide that their obligations are lawful investments for federally managed funds.
+&emsp;&emsp;&emsp;&emsp;(II) Investments in obligations of government corporations and government-sponsored entities whose charter statutes provide that their obligations arelawful investments for federally managed funds.
 
 &emsp;&emsp;&emsp;&emsp;(III) The obligations referred to in section 401 of title 42.
 

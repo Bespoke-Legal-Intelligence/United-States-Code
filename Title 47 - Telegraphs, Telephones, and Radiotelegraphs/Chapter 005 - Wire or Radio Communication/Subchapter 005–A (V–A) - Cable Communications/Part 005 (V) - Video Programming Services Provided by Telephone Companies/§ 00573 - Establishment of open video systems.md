@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(ii) require an operator of an open video system to ensure that video programming providers or copyright holders (or both) are able suitably and uniquely to identify their programming services to subscribers;
 
-&emsp;&emsp;(iii) if such identification is transmitted as part of the programming signal, require thecarrier to transmit such identification without change or alteration; and
+&emsp;&emsp;(iii) if such identification is transmitted as part of the programming signal, require the carrier to transmit such identification without change or alteration; and
 
 &emsp;&emsp;(iv) prohibit an operator of an open video system from omitting television broadcast stations or other unaffiliated video programming services carried on such system from any navigational device, guide, or menu.
 
@@ -58,7 +58,7 @@
 
 #### (B) Fees
 
-&emsp;&emsp;An operator of an open video system under this part may be subject to the payment of fees on the gross revenues of the operator for the provision of cable service imposed by a local franchising authority or other governmental entity, in lieu of the franchise fees permitted under section 542 of this title. The rate at which such fees are imposed shall not exceed the rate at which franchise fees are imposed on any cable operator transmitting video programming in the franchise area, as determined in accordance with regulations prescribed by the Commission. An operator of an open video system may designate that portion of a subscriber's bill attributable to the fee under this subparagraph as a separate item on the bill.
+&emsp;&emsp;An operator of an open video system under this part may be subject to the payment of fees on the gross revenues of the operator for the provision of cable service imposed by a local franchising authority or other governmental entity, in lieu of the franchise fees permitted under section 542 of this title. The rate at which such fees are imposed shall not exceed the rate at which franchise fees are imposed on any cable operator transmitting video programming in the franchise area, as determined in accordance with regulations prescribed by the Commission. An operator of an open video system may designate that portion of a subscriber's bill attributable tothe fee under this subparagraph as a separate item on the bill.
 
 #### (3) Regulatory streamlining
 
@@ -73,4 +73,8 @@
 For purposes of this section, the term “telephone service area” when used in connection with a common carrier subject in whole or in part to subchapter II of this chapter means the area within which such carrier is offering telephone exchange service.
 
 (June 19, 1934, ch. 652, title VI, §653, as added Pub. L. 104–104, title III, §302(a), Feb. 8, 1996, 110 Stat. 121.)
+
+#### References in Text
+
+This chapter, referred to in subsecs. (a)(2) and (c)(4), was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 

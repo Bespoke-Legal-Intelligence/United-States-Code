@@ -18,9 +18,9 @@ The multi-purpose crew vehicle developed pursuant to subsection (a) shall be des
 
 &emsp;(2) The capability to conduct regular in-space operations, such as rendezvous, docking, and extra-vehicular activities, in conjunction with payloads delivered by the Space Launch System developed pursuant to section 18322 of this title, or other vehicles, in preparation for missions beyond low-Earth orbit or servicing of assets described in section 18383 of this title, or other assets in cis-lunar space.
 
-&emsp;(3) The capability to provide an alternative means of delivery of crew and cargo to theISS, in the event other vehicles, whether commercial vehicles or partner-supplied vehicles, are unable to perform that function.
+&emsp;(3) The capability to provide an alternative means of delivery of crew and cargo to the ISS, in the event other vehicles, whether commercial vehicles or partner-supplied vehicles, are unable to perform that function.
 
-&emsp;(4) The capacity for efficient and timely evolution, including the incorporation of new technologies, competition of sub-elements, and commercial operations.
+&emsp;(4) The capacity for efficient and timely evolution, including the incorporation of newtechnologies, competition of sub-elements, and commercial operations.
 
 (Pub. L. 111–267, title III, §303, Oct. 11, 2010, 124 Stat. 2815.)
 

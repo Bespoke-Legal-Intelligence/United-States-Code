@@ -6,7 +6,7 @@
 
 #### (A) New England Council
 
-&emsp;The New England Fishery Management Council shall consist of the States of Maine, New Hampshire, Massachusetts, Rhode Island,and Connecticut and shall have authority over the fisheries in the Atlantic Ocean seaward of such States (except as provided in paragraph (3)). The New England Council shall have 18 voting members, including 12 appointed by the Secretary in accordance with subsection (b)(2) of this section (at least one of whom shall be appointed from each such State).
+&emsp;The New England Fishery Management Council shall consist of the States of Maine, New Hampshire, Massachusetts, Rhode Island, and Connecticut and shall have authority over the fisheries in the Atlantic Ocean seaward of such States (except as provided in paragraph (3)). The New England Council shall have 18 voting members, including 12 appointed by the Secretary in accordance with subsection (b)(2) of this section (at least one of whom shall be appointed from each such State).
 
 #### (B) Mid-Atlantic Council
 
@@ -50,7 +50,7 @@
 
 &emsp;(C) The members required to be appointed by the Secretary in accordance with paragraphs (2) and (5).
 
-(2)(A) The members of each Council required to be appointed by the Secretary must be individuals who, by reason of their occupational orother experience, scientific expertise, or training, are knowledgeable regarding the conservation and management, or the commercial or recreational harvest, of the fishery resources of the geographical area concerned. Within nine months after November 28, 1990, the Secretary shall, by regulation, prescribe criteria for determining whether an individual satisfies the requirements of this subparagraph.
+(2)(A) The members of each Council required to be appointed by the Secretary must be individuals who, by reason of their occupational or other experience, scientific expertise, or training, are knowledgeable regarding the conservation and management, or the commercial or recreational harvest, of the fishery resources of the geographical area concerned. Within nine months after November 28, 1990, the Secretary shall, by regulation, prescribe criteria for determining whether an individual satisfies the requirements of this subparagraph.
 
 (B) The Secretary, in making appointments under this section, shall, to the extent practicable, ensure a fair and balanced apportionment, on a rotating or other basis, of the active participants (or their representatives) in the commercial and recreational fisheries under the jurisdiction of the Council. On January 31, 1991, and each year thereafter, the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Merchant Marine and Fisheries of the House of Representatives a report on the actions taken by the Secretary to ensure that such fair and balanced apportionment is achieved. The report shall—
 
@@ -198,7 +198,7 @@ Each Council shall, in accordance with the provisions of this chapter—
 
 &emsp;(2) prepare comments on any application for foreign fishing transmitted to it under section 1824(b)(4)(C) of this title or section 1824(d) of this title, and any fishery management plan or amendment transmitted to it under section 1854(c)(4) of this title;
 
-&emsp;(3) conduct public hearings, at appropriate times and in appropriate locations in the geographical area concerned, so as to allow all interested persons an opportunity to be heard in the development of fishery management plansand amendments to such plans, and with respect to the administration and implementation of the provisions of this chapter (and for purposes of this paragraph, the term “geographical area concerned” may include an area under the authority of another Council if the fish in the fishery concerned migrate into, or occur in, that area or if the matters being heard affect fishermen of that area; but not unless such other Council is first consulted regarding the conduct of such hearings within its area);
+&emsp;(3) conduct public hearings, at appropriate times and in appropriate locations in the geographical area concerned, so as to allow all interested persons an opportunity to be heard in the development of fishery management plans and amendments to such plans, and with respect to the administration and implementation of the provisions of this chapter (and for purposes of this paragraph, the term “geographical area concerned” may include an area under the authority of another Council if the fish in the fishery concerned migrate into, or occur in, that area or if the matters being heard affect fishermen of that area; but not unless such other Council is first consulted regarding the conduct of such hearings within its area);
 
 &emsp;(4) submit to the Secretary such periodic reports as the Council deems appropriate, and any other relevant report which may be requested by the Secretary;
 
@@ -242,13 +242,13 @@ Each Council shall, in accordance with the provisions of this chapter—
 
 > Subparagraphs (D) and (F) of paragraph (2) shall not apply to any meeting or portion thereof that is so closed.
 
-(B) If any meeting or portion is closed, the Council concerned shall provide notice by anymeans that will result in wide publicity in the major fishing ports of the region (and in other major fishing ports having a direct interest in the affected fishery), except that e-mail notification and website postings alone are not sufficient, including in that notification the time and place of the meeting. This subpararaph <sup>6</sup> does not require notification regarding any brief closure of a portion of a meeting in order to discuss employment or other internal administrative matters.
+(B) If any meeting or portion is closed, the Council concerned shall provide notice by any means that will result in wide publicity in the major fishing ports of the region (and in other major fishing ports having a direct interest in the affected fishery), except that e-mail notification and website postings alone are not sufficient, including in that notification the time and place of the meeting. This subpararaph <sup>6</sup> does not require notification regarding any brief closure of a portion of a meeting in order to discuss employment or other internal administrative matters.
 
 (4) Each Council shall establish appropriate procedures applicable to it and to its committee and advisory panels for ensuring the confidentiality of the statistics that may be submitted to it by Federal or State authorities, and may be voluntarily submitted to it by private persons; including, but not limited to, procedures for the restriction of Council employee access and the prevention of conflicts of interest; except that such procedures, in the case of statistics submitted to the Council by a State or by the Secretary under section 1881a(b) of this title, must be consistent with the laws and regulations of that State, or with the procedures of the Secretary, as the case may be, concerning the confidentiality of the statistics.
 
 (5) Each Council shall specify those procedures that are necessary or appropriate to ensure that the committees and advisory panels established under subsection (g) of this section are involved, on a continuing basis, in the development and amendment of fishery management plans.
 
-(6) At any time when a Council determines it appropriate to consider new information from a State or Federal agency or from a Council advisory body, the Council shall give comparable consideration to new information offered at that time by interested members of the public. Interested parties shall have a reasonable opportunity to respond to new data or information before the Council takes final action on conservation and management measures.
+(6) At any time when a Council determines it appropriate to consider new information from aState or Federal agency or from a Council advisory body, the Council shall give comparable consideration to new information offered at that time by interested members of the public. Interested parties shall have a reasonable opportunity to respond to new data or information before the Council takes final action on conservation and management measures.
 
 #### (j) Disclosure of financial interest and recusal
 
@@ -448,7 +448,7 @@ Subsec. (i)(1). Pub. L. 104–297, §107(h)(1), substituted “established under
 
 Subsec. (i)(2). Pub. L. 104–297, §107(h)(2), substituted “established under subsection (g) of this section” for “of a Council” in introductory provisions.
 
-Subsec. (i)(2)(C). Pub. L. 104–297, §107(h)(3), (4), struck out “Council's” after “fishing ports of the” and inserted at end “The published agenda of the meeting may not be modified to include additional matters for Council action without public notice or within 14 days prior to the meeting date, unless such modification is to address an emergency action under section 1855(c) of this title, in which case public notice shall be given immediately.”
+Subsec. (i)(2)(C). Pub. L. 104–297, §107(h)(3), (4), struck out “Council's” after “fishing ports of the” and inserted at end “The published agenda of the meeting may not be modified to include additional matters for Council action without public notice or within 14 days prior to the meeting date, unless such modification isto address an emergency action under section 1855(c) of this title, in which case public notice shall be given immediately.”
 
 Subsec. (i)(2)(D). Pub. L. 104–297, §107(h)(5), inserted at end “All written information submitted to a Council by an interested person shall include a statement of the source and date of such information. Any oral or written statement shall include a brief description of the background and interests of the person in the subject of the oral or written statement.”
 
@@ -498,7 +498,7 @@ Subsec. (b)(2). Pub. L. 101–627, §108(b), amended par. (2) generally. Prior t
 
 Subsec. (b)(3). Pub. L. 101–627, §108(c), inserted at end “No member appointed after January 1, 1986, may serve more than three consecutive terms. Any term completed prior to January 1, 1986, shall not be counted in determining the number of consecutive terms served by any Council member.”
 
-Subsec. (d). Pub. L. 101–627, §108(d), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The voting members of each Council, who are not employed by the Federal Government or any State or local government, shall receive compensation at the daily rate for GS–18 of the General Schedule when engaged in the actual performance of duties for such Council. The voting members of each Council, any nonvoting member described in subsection (c)(1)(C) of this section, and the nonvoting member appointed pursuant to subsection (c)(2) of this section shall be reimbursed for actual expenses incurred in the performance of suchduties, and other nonvoting members may be reimbursed for actual expenses.”
+Subsec. (d). Pub. L. 101–627, §108(d), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The voting members of each Council, who are not employed by the Federal Government or any State or local government, shall receive compensation at the daily rate for GS–18 of the General Schedule when engaged in the actual performance of duties for such Council. The voting members of each Council, any nonvoting member described in subsection (c)(1)(C) of this section, and the nonvoting member appointed pursuant to subsection (c)(2) of this section shall be reimbursed for actual expenses incurred in the performance of such duties, and other nonvoting members may be reimbursed for actual expenses.”
 
 Subsec. (e)(3). Pub. L. 101–627, §108(e)(1), substituted “at appropriate times and places in any of the constituent States of the Council” for “in the geographical area concerned”.
 
@@ -572,7 +572,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) ofPub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Disclosure of Financial Interest by Incumbent Voting Members and Executive Directors
 

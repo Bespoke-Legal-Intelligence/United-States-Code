@@ -58,5 +58,5 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to
 
 #### Amendments
 
-2007—Pub. L. 110–53 amended section catchline and text generally. Prior to amendment, text read as follows: “There is authorized to be appropriated for the Emergency Management Performance Grants Program for fiscal year 2008, an amount equal to the amount appropriated for the program for fiscal year 2007 and an additional $175,000,000.”
+<b>2007</b>—Pub. L. 110–53 amended section catchline and text generally. Prior to amendment, text read as follows: “There is authorized to be appropriated for the Emergency Management Performance Grants Program for fiscal year 2008, an amount equal to the amount appropriated for the program for fiscal year 2007 and an additional $175,000,000.”
 

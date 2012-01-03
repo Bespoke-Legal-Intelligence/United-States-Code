@@ -20,7 +20,7 @@ It shall not be in order in the House of Representatives to consider a rule or o
 
 #### (4) Debate and intervening motions
 
-&emsp;A question of consideration under this section shall be debatable for 10 minutes by each Member initiating a point of order and for 10minutes by an opponent on each point of order, but shall otherwise be decided without intervening motion except one that the House adjourn or that the Committee of the Whole rise, as the case may be.
+&emsp;A question of consideration under this section shall be debatable for 10 minutes by each Member initiating a point of order and for 10 minutes by an opponent on each point of order, but shall otherwise be decided without intervening motion except one that the House adjourn or that the Committee of the Whole rise, as the case may be.
 
 #### (5) Effect on amendment in order as original text
 

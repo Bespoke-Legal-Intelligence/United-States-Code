@@ -10,7 +10,7 @@ A prior section 674 was renumbered section 675 of this title.
 
 #### Amendments
 
-2002—Pub. L. 107–296, §1704(f)(1), which directed renumbering of the section 673 of this title that was added by Pub. L. 104–324, §309(a), as section 673a of this title, could not be executed because of the prior amendment by Pub. L. 107–295, see below.
+<b>2002</b>—Pub. L. 107–296, §1704(f)(1), which directed renumbering of the section 673 of this title that was added by Pub. L. 104–324, §309(a), as section 673a of this title, could not be executed because of the prior amendment by Pub. L. 107–295, see below.
 
 Pub. L. 107–296, §1704(a), which directed amendment of section 673a of this title by substituting “of Homeland Security” for “of Transportation”, was executed by making the substitution in this section, to reflect the probable intent of Congress.
 

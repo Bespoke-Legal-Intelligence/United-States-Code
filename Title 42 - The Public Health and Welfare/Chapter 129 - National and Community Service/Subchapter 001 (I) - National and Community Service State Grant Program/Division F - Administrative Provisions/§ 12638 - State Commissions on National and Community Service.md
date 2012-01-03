@@ -130,7 +130,7 @@ The State Commission or alternative administrative entity for a State shall be r
 
 &emsp;&emsp;(E) ensures outreach to diverse community-based agencies that serve underrepresented populations, through established networks and registries at the State level, or through the development of such networks and registries;
 
-&emsp;&emsp;(F) provides for effective coordination of funding applications submitted by the State and other organizations within the State under the national service laws;
+&emsp;&emsp;(F) provides for effective coordination of funding applications submitted by the Stateand other organizations within the State under the national service laws;
 
 &emsp;&emsp;(G) is updated annually, reflecting changes in practices and policies that will improve the coordination and effectiveness of Federal, State, and local resources for service and volunteerism within the State;
 
@@ -152,7 +152,7 @@ The State Commission or alternative administrative entity for a State shall be r
 
 &emsp;&emsp;(B) to apply for assistance under the national service laws using, if appropriate, information and materials available through a clearinghouse established under section 12653a <sup>1</sup> of this title.
 
-&emsp;(7) Assistance in the provision of health care and child care benefits under section 12594 ofthis title to participants in national service programs that receive assistance under section 12571 of this title.
+&emsp;(7) Assistance in the provision of health care and child care benefits under section 12594 of this title to participants in national service programs that receive assistance under section 12571 of this title.
 
 &emsp;(8) Development of a State system for the recruitment and placement of participants in programs that receive assistance under the national service laws and dissemination of information concerning national service programs that receive such assistance or approved national service positions.
 
@@ -216,7 +216,7 @@ Upon approval of a State plan submitted under subsection (e)(1), the Chief Execu
 
 #### (h) Activity ineligible for assistance
 
-A State Commission or alternative administrative entity may not directly carry out any national service program that receives assistance under section 12571 of this title.
+A State Commission or alternative administrative entity may not directly carry out anynational service program that receives assistance under section 12571 of this title.
 
 #### (i) Delegation
 
@@ -308,7 +308,7 @@ Subject to such requirements as the Corporation may prescribe, a State Commissio
 
 &emsp;&emsp;(C) to limit or alter in any way the immunities that are available under applicable law for State officials and employees not described in this subsection.
 
-(Pub. L. 101–610, title I, §178, as added and amended Pub. L. 103–82, title II, §201(a), title IV,§405(p)(1), Sept. 21, 1993, 107 Stat. 867, 922; Pub. L. 111–13, title I, §1606, Apr. 21, 2009, 123 Stat. 1530.)
+(Pub. L. 101–610, title I, §178, as added and amended Pub. L. 103–82, title II, §201(a), title IV, §405(p)(1), Sept. 21, 1993, 107 Stat. 867, 922; Pub. L. 111–13, title I, §1606, Apr. 21, 2009, 123 Stat. 1530.)
 
 #### References in Text
 

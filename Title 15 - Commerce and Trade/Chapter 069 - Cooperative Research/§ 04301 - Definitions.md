@@ -2,7 +2,7 @@
 
 (a) For purposes of this chapter:
 
-&emsp;(1) The term “antitrust laws” has the meaning given it in subsection (a) of section 12 ofthis title, except that such term includes section 45 of this title to the extent that such section 45 of this title applies to unfair methods of competition.
+&emsp;(1) The term “antitrust laws” has the meaning given it in subsection (a) of section 12 of this title, except that such term includes section 45 of this title to the extent that such section 45 of this title applies to unfair methods of competition.
 
 &emsp;(2) The term “Attorney General” means the Attorney General of the United States.
 

@@ -70,6 +70,10 @@ No provision of this chapter shall be construed to—
 
 (June 19, 1934, ch. 652, title VI, §621, as added Pub. L. 98–549, §2, Oct. 30, 1984, 98 Stat. 2786; amended Pub. L. 102–385, §§7(a)(1), (b), (c), Oct. 5, 1992, 106 Stat. 1483; Pub. L. 104–104, §3(d)(3), title III, §303(a), Feb. 8, 1996, 110 Stat. 61, 124.)
 
+#### References in Text
+
+This chapter, referred to in subsec. (f), was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
+
 #### Amendments
 
 <b>1996</b>—Subsec. (b)(3). Pub. L. 104–104, §303(a), added par. (3).

@@ -6,9 +6,9 @@ The term “State” means the States of the Union, Puerto Rico, the Virgin Isla
 
 #### Amendments
 
-1986—Pub. L. 99–396 amended section generally, expanding definition of “State” to include the Northern Mariana Islands.
+<b>1986</b>—Pub. L. 99–396 amended section generally, expanding definition of “State” to include the Northern Mariana Islands.
 
-1972—Pub. L. 92–318 inserted reference to Virgin Islands and Guam.
+<b>1972</b>—Pub. L. 92–318 inserted reference to Virgin Islands and Guam.
 
 #### Effective Date of 1972 Amendment
 

@@ -4,14 +4,15 @@
 | :--- | ---: |
 | [1461\.](%C2%A7%2001461%20-%20Short%20title.md) | Short title. |
 | [1462\.](%C2%A7%2001462%20-%20Definitions.md) | Definitions. |
-| [1462a.](%C2%A7%2001462a%20-%20Director%20of%20Office%20of%20Thrift%20Supervision.md) | Director of Office of Thrift Supervision. |
+| [1462a.](%C2%A7%2001462a%20-%20Administrative%20provisions.md) | Administrative provisions. |
 | [1463\.](%C2%A7%2001463%20-%20Supervision%20of%20savings%20associations.md) | Supervision of savings associations. |
 | [1464\.](%C2%A7%2001464%20-%20Federal%20savings%20associations.md) | Federal savings associations. |
-| [1465\.](%C2%A7%2001465%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93569%2C%20title%20XII%2C%20%C2%A71201%28a%29%2C%20Dec.%2027%2C%202000%2C%20114%20Stat.%203032.md) | Repealed. |
+| [1465\.](%C2%A7%2001465%20-%20State%20law%20preemption%20standards%20for%20Federal%20savings%20associations%20clarified.md) | State law preemption standards for Federal savings associations clarified. |
 | [1466\.](%C2%A7%2001466%20-%20Applicability.md) | Applicability. |
 | [1466a.](%C2%A7%2001466a%20-%20District%20associations.md) | District associations. |
 | [1467\.](%C2%A7%2001467%20-%20Examination%20fees.md) | Examination fees. |
 | [1467a.](%C2%A7%2001467a%20-%20Regulation%20of%20holding%20companies.md) | Regulation of holding companies. |
+| [1467b.](%C2%A7%2001467b%20-%20Intermediate%20holding%20companies.md) | Intermediate holding companies. |
 | [1468\.](%C2%A7%2001468%20-%20Transactions%20with%20affiliates%3B%20extensions%20of%20credit%20to%20executive%20officers%2C%20directors%2C%20and%20principal%20shareholders.md) | Transactions with affiliates; extensions of credit to executive officers, directors, and principal shareholders. |
 | [1468a.](%C2%A7%2001468a%20-%20Advertising.md) | Advertising. |
 | [1468b.](%C2%A7%2001468b%20-%20Powers%20of%20examiners.md) | Powers of examiners. |
@@ -28,14 +29,15 @@
 
 - [&sect; 01461 - Short title](%C2%A7%2001461%20-%20Short%20title.md)
 - [&sect; 01462 - Definitions](%C2%A7%2001462%20-%20Definitions.md)
-- [&sect; 01462a - Director of Office of Thrift Supervision](%C2%A7%2001462a%20-%20Director%20of%20Office%20of%20Thrift%20Supervision.md)
+- [&sect; 01462a - Administrative provisions](%C2%A7%2001462a%20-%20Administrative%20provisions.md)
 - [&sect; 01463 - Supervision of savings associations](%C2%A7%2001463%20-%20Supervision%20of%20savings%20associations.md)
 - [&sect; 01464 - Federal savings associations](%C2%A7%2001464%20-%20Federal%20savings%20associations.md)
-- [&sect; 01465 - Repealed. Pub. L. 106&#8211;569, title XII, &sect;1201(a), Dec. 27, 2000, 114 Stat. 3032](%C2%A7%2001465%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93569%2C%20title%20XII%2C%20%C2%A71201%28a%29%2C%20Dec.%2027%2C%202000%2C%20114%20Stat.%203032.md)
+- [&sect; 01465 - State law preemption standards for Federal savings associations clarified](%C2%A7%2001465%20-%20State%20law%20preemption%20standards%20for%20Federal%20savings%20associations%20clarified.md)
 - [&sect; 01466 - Applicability](%C2%A7%2001466%20-%20Applicability.md)
 - [&sect; 01466a - District associations](%C2%A7%2001466a%20-%20District%20associations.md)
 - [&sect; 01467 - Examination fees](%C2%A7%2001467%20-%20Examination%20fees.md)
 - [&sect; 01467a - Regulation of holding companies](%C2%A7%2001467a%20-%20Regulation%20of%20holding%20companies.md)
+- [&sect; 01467b - Intermediate holding companies](%C2%A7%2001467b%20-%20Intermediate%20holding%20companies.md)
 - [&sect; 01468 - Transactions with affiliates; extensions of credit to executive officers, directors, and principal shareholders](%C2%A7%2001468%20-%20Transactions%20with%20affiliates%3B%20extensions%20of%20credit%20to%20executive%20officers%2C%20directors%2C%20and%20principal%20shareholders.md)
 - [&sect; 01468a - Advertising](%C2%A7%2001468a%20-%20Advertising.md)
 - [&sect; 01468b - Powers of examiners](%C2%A7%2001468b%20-%20Powers%20of%20examiners.md)

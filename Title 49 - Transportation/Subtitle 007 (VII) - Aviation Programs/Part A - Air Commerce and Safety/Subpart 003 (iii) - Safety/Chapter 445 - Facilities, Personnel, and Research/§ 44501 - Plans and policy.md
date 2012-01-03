@@ -36,7 +36,7 @@ Airway Capital Investment Plan.—The Administrator of the Federal Aviation Admi
 
 National Aviation Research Plan.—(1) The Administrator of the Federal Aviation Administration shall prepare and publish annually a national aviation research plan and submit the plan to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science of the House of Representatives. The plan shall be submitted not later than the date of submission of the President's budget to Congress.
 
-(2)(A) The plan shall describe, for a 5-year period, the research, engineering, and developmentthat the Administrator of the Federal Aviation Administration considers necessary—
+(2)(A) The plan shall describe, for a 5-year period, the research, engineering, and development that the Administrator of the Federal Aviation Administration considers necessary—
 
 &emsp;(i) to ensure the continued capacity, safety, and efficiency of aviation in the United States, considering emerging technologies and forecasted needs of civil aeronautics; and
 
@@ -126,7 +126,7 @@ Subsec. (c)(3). Pub. L. 104–264, §1105(3), inserted “, including a descrip
 
 #### Change of Name
 
-Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Effective Date of 2000 Amendment
 

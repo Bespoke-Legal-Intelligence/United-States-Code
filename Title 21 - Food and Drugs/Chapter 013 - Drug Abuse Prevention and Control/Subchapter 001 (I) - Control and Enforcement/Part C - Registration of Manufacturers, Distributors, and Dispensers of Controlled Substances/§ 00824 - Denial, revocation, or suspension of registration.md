@@ -8,7 +8,7 @@ A registration pursuant to section 823 of this title to manufacture, distribute,
 
 &emsp;(2) has been convicted of a felony under this subchapter or subchapter II of this chapter or any other law of the United States, or of any State, relating to any substance defined in this subchapter as a controlled substance or a list I chemical;
 
-&emsp;(3) has had his State license or registration suspended, revoked, or denied by competent State authority and is no longer authorized byState law to engage in the manufacturing, distribution, or dispensing of controlled substances or list I chemicals or has had the suspension, revocation, or denial of his registration recommended by competent State authority;
+&emsp;(3) has had his State license or registration suspended, revoked, or denied by competent State authority and is no longer authorized by State law to engage in the manufacturing, distribution, or dispensing of controlled substances or list I chemicals or has had the suspension, revocation, or denial of his registration recommended by competent State authority;
 
 &emsp;(4) has committed such acts as would render his registration under section 823 of this title inconsistent with the public interest as determined under such section; or
 
@@ -26,7 +26,7 @@ Before taking action pursuant to this section, or pursuant to a denial of regist
 
 #### (d) Suspension of registration in cases of imminent danger
 
-The Attorney General may, in his discretion, suspend any registration simultaneously with the institution of proceedings under this section, in cases where he finds that there is an imminent danger to the public health or safety. A failure to comply with a standard referred to in section 823(g)(1) of this title may be treated under this subsection as grounds for immediate suspension of a registration granted under such section. A suspension under this subsection shall continue in effect until the conclusion of such proceedings, including judicial review thereof, unless sooner withdrawn by the Attorney General or dissolved by a court of competent jurisdiction.
+The Attorney General may, in his discretion, suspend any registration simultaneously with the institution of proceedings under this section, in cases where he finds that there is an imminent danger to the public health or safety. A failure to comply with a standard referred to in section 823(g)(1) of this title may be treated under this subsection as grounds for immediate suspension of a registration granted under such section. A suspension under this subsection shallcontinue in effect until the conclusion of such proceedings, including judicial review thereof, unless sooner withdrawn by the Attorney General or dissolved by a court of competent jurisdiction.
 
 #### (e) Suspension and revocation of quotas
 

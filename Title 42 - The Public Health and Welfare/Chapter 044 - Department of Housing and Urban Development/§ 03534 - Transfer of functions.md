@@ -12,7 +12,7 @@ The Government National Mortgage Association, together with its functions, power
 
 The President shall undertake studies of the organization of housing and urban development functions and programs within the Federal Government, and he shall provide the Congress with the findings and conclusions of such studies, together with his recommendations regarding the transfer of such functions and programs to or from the Department. Notwithstanding any other provision of this chapter, none of the functions of the Secretary of the Interior authorized under the Land and Water Conservation Fund Act of 1965 \[16 U.S.C. 460<i>l</i>–4 et seq.\] or other functions carried out by the Bureau of Outdoor Recreation shall be transferred from the Department of the Interior or in any way be limited geographically unless specifically provided for by reorganization plan pursuant to provisions of chapter 9 of title 5, or by statute.
 
-(Pub. L. 89–174, §5, Sept. 9, 1965, 79 Stat. 669; Pub. L. 90–83, §10(b), Sept. 11, 1967, 81 Stat. 223; Pub. L. 90–448, title VIII, §807(c), Aug. 1, 1968, 82 Stat. 544; Pub. L. 102–550, title XIII, §1352, Oct. 28, 1992, 106 Stat. 3969; Pub. L. 110–289, div. A, title I, §1161(f), July 30, 2008, 122 Stat. 2780.)
+(Pub. L. 89–174, §5, Sept. 9, 1965, 79 Stat. 669; Pub. L. 90–83, §10(b), Sept. 11, 1967, 81 Stat. 223; Pub.L. 90–448, title VIII, §807(c), Aug. 1, 1968, 82 Stat. 544; Pub. L. 102–550, title XIII, §1352, Oct. 28, 1992, 106 Stat. 3969; Pub. L. 110–289, div. A, title I, §1161(f), July 30, 2008, 122 Stat. 2780.)
 
 #### References in Text
 

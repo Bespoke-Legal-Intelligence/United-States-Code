@@ -24,7 +24,7 @@
 
 &emsp;Subject to the availability of appropriations, the amount of a grant to a protection and advocacy system under paragraph (2) for a fiscal year shall—
 
-&emsp;&emsp;(A) in the case of a protection and advocacy system located in American Samoa,Guam, the United States Virgin Islands, or the Commonwealth of the Northern Mariana Islands, not be less than $30,000; and
+&emsp;&emsp;(A) in the case of a protection and advocacy system located in American Samoa, Guam, the United States Virgin Islands, or the Commonwealth of the Northern Mariana Islands, not be less than $30,000; and
 
 &emsp;&emsp;(B) in the case of a protection and advocacy system located in a State not described in subparagraph (A), not be less than $50,000.
 
@@ -32,7 +32,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall make grants to the protection and advocacy system serving the American Indian Consortium to provide services in accordance with this section.
+&emsp;&emsp;The Secretary shall make grants to the protection and advocacy system serving theAmerican Indian Consortium to provide services in accordance with this section.
 
 #### (B) Amount of grants
 

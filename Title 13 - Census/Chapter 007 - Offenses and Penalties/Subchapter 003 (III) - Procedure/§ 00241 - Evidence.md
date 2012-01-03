@@ -20,9 +20,9 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1976—Pub. L. 94–521 struck out “as authorized by section 224 of this title” after “telegram”.
+<b>1976</b>—Pub. L. 94–521 struck out “as authorized by section 224 of this title” after “telegram”.
 
-1957—Pub. L. 85–207 inserted “or certified” after “registered”.
+<b>1957</b>—Pub. L. 85–207 inserted “or certified” after “registered”.
 
 #### Effective Date of 1976 Amendment
 

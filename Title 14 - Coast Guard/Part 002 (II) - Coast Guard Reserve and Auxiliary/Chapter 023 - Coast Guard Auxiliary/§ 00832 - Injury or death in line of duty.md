@@ -12,9 +12,9 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### Amendments
 
-1996—Pub. L. 104–324 struck out “specific” after “performing any” in two places and after “performance of a”.
+<b>1996</b>—Pub. L. 104–324 struck out “specific” after “performing any” in two places and after “performance of a”.
 
-1984—Pub. L. 98–557 substituted reference to members for reference to officers and enlisted men after “treatment afforded”.
+<b>1984</b>—Pub. L. 98–557 substituted reference to members for reference to officers and enlisted men after “treatment afforded”.
 
-1974—Pub. L. 93–283 included time engaged in traveling back and forth between the place of assigned duty and the permanent residence of a member of the Auxiliary as the performance of a specific duty.
+<b>1974</b>—Pub. L. 93–283 included time engaged in traveling back and forth between the place of assigned duty and the permanent residence of a member of the Auxiliary as the performance of a specific duty.
 

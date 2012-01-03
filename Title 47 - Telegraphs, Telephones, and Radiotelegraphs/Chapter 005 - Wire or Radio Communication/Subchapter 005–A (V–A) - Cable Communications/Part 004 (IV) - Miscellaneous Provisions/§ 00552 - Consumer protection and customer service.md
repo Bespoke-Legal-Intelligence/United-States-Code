@@ -34,6 +34,10 @@ A cable operator may provide notice of service and rate changes to subscribers u
 
 (June 19, 1934, ch. 652, title VI, §632, as added Pub. L. 98–549, §2, Oct. 30, 1984, 98 Stat. 2796; amended Pub. L. 102–385, §8, Oct. 5, 1992, 106 Stat. 1484; Pub. L. 104–104, title III, §301(g), Feb. 8, 1996, 110 Stat. 117.)
 
+#### References in Text
+
+This chapter, referred to in subsec. (c), was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
+
 #### Amendments
 
 <b>1996</b>—Subsecs. (c), (d). Pub. L. 104–104 added subsec. (c) and redesignated former subsec. (c) as (d).

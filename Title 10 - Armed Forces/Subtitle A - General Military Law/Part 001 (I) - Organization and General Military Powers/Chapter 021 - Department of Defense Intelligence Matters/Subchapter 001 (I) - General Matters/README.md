@@ -8,14 +8,19 @@
 | [424\.](%C2%A7%2000424%20-%20Disclosure%20of%20organizational%20and%20personnel%20information%20exemption%20for%20specified%20intelligence%20agencies.md) | Disclosure of organizational and personnel information: exemption for specified intelligence agencies. |
 | [425\.](%C2%A7%2000425%20-%20Prohibition%20of%20unauthorized%20use%20of%20name%2C%20initials%2C%20or%20seal%20specified%20intelligence%20agencies.md) | Prohibition of unauthorized use of name, initials, or seal: specified intelligence agencies. |
 | [426\.](%C2%A7%2000426%20-%20Integration%20of%20Department%20of%20Defense%20intelligence%2C%20surveillance%2C%20and%20reconnaissance%20capabilities.md) | Integration of Department of Defense intelligence, surveillance, and reconnaissance capabilities. |
-| [427\.](%C2%A7%2000427%20-%20Intelligence%20oversight%20activities%20of%20Department%20of%20Defense%20annual%20reports.md) | Intelligence oversight activities of Department of Defense: annual reports. |
+| \[427. | Repealed.\] |
 | [428\.](%C2%A7%2000428%20-%20Defense%20industrial%20security.md) | Defense industrial security. |
+| [429\.](%C2%A7%2000429%20-%20Appropriations%20for%20Defense%20intelligence%20elements%20accounts%20for%20transfers%3B%20transfer%20authority.md) | Appropriations for Defense intelligence elements: accounts for transfers; transfer authority. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 111–383, div. A, title X, §1075(d)(10), Jan. 7, 2011, 124 Stat. 4373, made technical correction to directory language of Pub. L. 111–84, §921(b)(2). See 2009 Amendment note below.
+<b>2012</b>—Pub. L. 112–87, title IV, §433(b), Jan. 3, 2012, 125 Stat. 1895, added item 429.
+
+<b>2011</b>—Pub. L. 112–81, div. A, title X, §1061(4)(B), Dec. 31, 2011, 125 Stat. 1583, struck out item 427 “Intelligence oversight activities of Department of Defense: annual reports”.
+
+Pub. L. 111–383, div. A, title X, §1075(d)(10), Jan. 7, 2011, 124 Stat. 4373, made technical correction to directory language of Pub. L. 111–84, §921(b)(2). See 2009 Amendment note below.
 
 <b>2009</b>—Pub. L. 111–84, div. A, title X, §1073(a)(5), Oct. 28, 2009, 123 Stat. 2472, redesignated item 438 as 428.
 
@@ -52,5 +57,6 @@ Pub. L. 111–84, div. A, title IX, §921(b)(2), Oct. 28, 2009, 123 Stat. 2432, 
 - [&sect; 00424 - Disclosure of organizational and personnel information exemption for specified intelligence agencies](%C2%A7%2000424%20-%20Disclosure%20of%20organizational%20and%20personnel%20information%20exemption%20for%20specified%20intelligence%20agencies.md)
 - [&sect; 00425 - Prohibition of unauthorized use of name, initials, or seal specified intelligence agencies](%C2%A7%2000425%20-%20Prohibition%20of%20unauthorized%20use%20of%20name%2C%20initials%2C%20or%20seal%20specified%20intelligence%20agencies.md)
 - [&sect; 00426 - Integration of Department of Defense intelligence, surveillance, and reconnaissance capabilities](%C2%A7%2000426%20-%20Integration%20of%20Department%20of%20Defense%20intelligence%2C%20surveillance%2C%20and%20reconnaissance%20capabilities.md)
-- [&sect; 00427 - Intelligence oversight activities of Department of Defense annual reports](%C2%A7%2000427%20-%20Intelligence%20oversight%20activities%20of%20Department%20of%20Defense%20annual%20reports.md)
+- [&sect; 00427 - Repealed. Pub. L. 112&#8211;81, div. A, title X, &sect;1061(4)(A), Dec. 31, 2011, 125 Stat. 1583](%C2%A7%2000427%20-%20Repealed.%20Pub.%20L.%20112%E2%80%9381%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71061%284%29%28A%29%2C%20Dec.%2031%2C%202011%2C%20125%20Stat.%201583.md)
 - [&sect; 00428 - Defense industrial security](%C2%A7%2000428%20-%20Defense%20industrial%20security.md)
+- [&sect; 00429 - Appropriations for Defense intelligence elements accounts for transfers; transfer authority](%C2%A7%2000429%20-%20Appropriations%20for%20Defense%20intelligence%20elements%20accounts%20for%20transfers%3B%20transfer%20authority.md)

@@ -36,7 +36,7 @@ Orders issued pursuant to this chapter shall contain the following terms and con
 
 > There shall also be included in the order a provision for reimbursing any agency of the Federal Government that assists in administering the import provisions of the order for a reasonable amount of the expenses incurred by that agency in connection therewith.
 
-(3) To facilitate the collection and payment of such assessments, the Cotton Board may designate different handlers or importers or classes of handlers or importers to recognize differences in marketing practices or procedures utilized in any State or area, except that no more than one such assessment shall be made on any bale of cotton, unless specifically authorized by provisions of this subsection.
+(3) To facilitate the collection and payment of such assessments, the Cotton Board may designate different handlers or importers or classesof handlers or importers to recognize differences in marketing practices or procedures utilized in any State or area, except that no more than one such assessment shall be made on any bale of cotton, unless specifically authorized by provisions of this subsection.
 
 (4) The rate of assessment prescribed by the order shall be $1 per bale of cotton handled, supplemented by an additional per bale amount not to exceed 1 percent of the value of cotton as determined by the Cotton Board and the Secretary. The rate of assessment on imports of cotton shall be determined in the same manner as the rate of assessment per bale of cotton handled, and the value to be placed on cotton imports for the purpose of determining the assessment on such imports shall be established by the Secretary in a fair and equitable manner. The Secretary shall establish procedures to ensure that the upland cotton content of imported products is not subject to more than one assessment under this chapter.
 
@@ -58,15 +58,15 @@ Orders issued pursuant to this chapter shall contain the following terms and con
 
 #### Amendments
 
-1991—Subsec. (e)(4). Pub. L. 102–237 made technical amendment to reference to this chapter to correct error in corresponding reference in original act.
+<b>1991</b>—Subsec. (e)(4). Pub. L. 102–237 made technical amendment to reference to this chapter to correct error in corresponding reference in original act.
 
-1990—Subsec. (a)(2). Pub. L. 101–624, §1992(1), substituted “person” for “handler” and struck out “producer” before “assessment”.
+<b>1990</b>—Subsec. (a)(2). Pub. L. 101–624, §1992(1), substituted “person” for “handler” and struck out “producer” before “assessment”.
 
 Subsec. (b). Pub. L. 101–624, §1992(2), inserted “(1)”, and substituted “, and (2) when imports of cotton are subject to an order, an appropriate number of representatives, as determined by the Secretary, of importers of cotton on which assessments are paid under this chapter. Such importer representatives shall be appointed by the Secretary after consultation with organizations representing importers, as determined by the Secretary. Each cotton-producing State shall be entitled to at least one representative on the Cotton Board.” for “: <i>Provided, however</i>, That each cotton-producing State shall be entitled to at least one representative on the Cotton Board. The Secretary may appoint a number of consumer advisors to the Cotton Board not to exceed 15 per centum of the membership of the Cotton Board. The Cotton Board shall reimburse the consumer advisors for expenses incurred in attending meetings of the Board in the same manner as the Cotton Board members.”
 
 Subsec. (e). Pub. L. 101–624, §1992(3), amended subsec. (e) generally, substituting present provisions for provisions relating to a producer-paid assessment at a rate of $1 per bale, with a possible per-bale supplement not to exceed 1 per centum of the value of the cotton, along with other provisions relating to use of assessment funds, referendums and procedures concerning any supplemental assessments, and judicial action to collect assessments.
 
-1976—Subsec. (b). Pub. L. 94–366, §3, inserted provisions which authorized Secretary to appoint consumer advisors up to 15 per centum of the membership of the Cotton Board, and authorized reimbursing such advisors for expenses incurred in attending the Board meetings.
+<b>1976</b>—Subsec. (b). Pub. L. 94–366, §3, inserted provisions which authorized Secretary to appoint consumer advisors up to 15 per centum of the membership of the Cotton Board, and authorized reimbursing such advisors for expenses incurred in attending the Board meetings.
 
 Subsec. (e). Pub. L. 94–366, §2, inserted provisions authorizing reimbursement of the Secretary up to $200,000 for expenses incurred in conducting a referendum pursuant to section 2107 of this title and for administrative costs incurred by him for supervisory work up to five employee years after an order or an amendment to an order has been issued and made effective, inserted provisions authorizing assessment of a bale of cotton more than once if called for by a provision in this subsection, and inserted provisions authorizing Secretary to amend the rate order to supplement the rate in each marketing year by an additional per bale amount not to exceed 1 per centum of the value of the cotton as determined by the Cotton Board and the Secretary.
 

@@ -14,7 +14,7 @@ At any time allotments are in effect under this subpart, the Secretary, from tim
 
 &emsp;&emsp;(B) if after the reassignments the deficit cannot be completely eliminated, the Secretary shall reassign the estimated quantity of the deficit proportionately to the allotments for other cane sugar States, depending on the capacity of each other State to fill the portion of the deficit to be assigned to it, with the reassigned quantity to each State to be allocated among processors in that State in proportion to the allocations of the processors;
 
-&emsp;&emsp;(C) if after the reassignments the deficit cannot be completely eliminated, the Secretary shall reassign the estimated quantity of the deficit to the Commodity Credit Corporation and shall sell such quantity of sugar from inventories of the Corporation unless the Secretary determines that such sales would have a significant effect on the price of sugar; and
+&emsp;&emsp;(C) if after the reassignments the deficit cannot be completely eliminated, the Secretary shall reassign the estimated quantityof the deficit to the Commodity Credit Corporation and shall sell such quantity of sugar from inventories of the Corporation unless the Secretary determines that such sales would have a significant effect on the price of sugar; and
 
 &emsp;&emsp;(D) if after the reassignments and sales, the deficit cannot be completely eliminated, the Secretary shall reassign the remainder to imports of raw cane sugar.
 
@@ -44,7 +44,7 @@ A prior section 1359ee, act Feb. 16, 1938, ch. 30, title III, §359e, as added P
 
 #### Amendments
 
-2008—Subsec. (b)(1)(D), (2)(C). Pub. L. 110–246, §1403(e), inserted “of raw cane sugar” after “imports”.
+<b>2008</b>—Subsec. (b)(1)(D), (2)(C). Pub. L. 110–246, §1403(e), inserted “of raw cane sugar” after “imports”.
 
 #### Effective Date of 2008 Amendment
 

@@ -16,7 +16,7 @@ Amounts reserved under section 12771 of this title may be used for activities el
 
 #### (3) Repayment
 
-&emsp;A community housing development organization that receives a loan under this subsection shall repay the loan to the participating jurisdiction's HOME Investment Trust Fund from construction loan proceeds or other project income. The participating jurisdiction may waive repayment of the loan, in part or in whole, if there are impediments to project development that the participating jurisdiction determines are reasonably beyond the control of the borrower.
+&emsp;A community housing development organization that receives a loan under this subsection shall repay the loan to the participating jurisdiction's HOME Investment Trust Fund from construction loan proceeds or other project income. The participating jurisdictionmay waive repayment of the loan, in part or in whole, if there are impediments to project development that the participating jurisdiction determines are reasonably beyond the control of the borrower.
 
 #### (c) Project-specific seed money loans
 

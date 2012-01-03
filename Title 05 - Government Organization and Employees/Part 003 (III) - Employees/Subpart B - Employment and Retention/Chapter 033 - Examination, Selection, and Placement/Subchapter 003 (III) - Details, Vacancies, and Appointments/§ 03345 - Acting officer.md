@@ -6,7 +6,7 @@
 
 &emsp;(2) notwithstanding paragraph (1), the President (and only the President) may direct a person who serves in an office for which appointment is required to be made by the President, by and with the advice and consent of the Senate, to perform the functions and duties of the vacant office temporarily in an acting capacity subject to the time limitations of section 3346; or
 
-&emsp;(3) notwithstanding paragraph (1), the President (and only the President) may direct anofficer or employee of such Executive agency to perform the functions and duties of the vacant office temporarily in an acting capacity, subject to the time limitations of section 3346, if—
+&emsp;(3) notwithstanding paragraph (1), the President (and only the President) may direct an officer or employee of such Executive agency to perform the functions and duties of the vacant office temporarily in an acting capacity, subject to the time limitations of section 3346, if—
 
 &emsp;&emsp;(A) during the 365-day period preceding the date of death, resignation, or beginning of inability to serve of the applicable officer, the officer or employee served in a position in such agency for not less than 90 days; and
 
@@ -46,7 +46,7 @@ A prior section 3345, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 425; Pub. L. 100
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in introductory provisions.
+<b>2004</b>—Subsec. (a). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in introductory provisions.
 
 #### Effective Date
 
@@ -90,7 +90,7 @@ Ex. Ord. No. 11487, Oct. 6, 1969, 34 F.R. 15593, as amended by Pub. L. 101–509
 
 #### Executive Order No. 11822
 
-Ex. Ord. No. 11822, Dec. 10, 1974, 39 F.R. 43275, which designated certain officers of the Department of the Treasury to act as Secretary of the Treasury during any period of unavailability of both the Secretary andthe Deputy Secretary of the Treasury, was revoked by Ex. Ord. No. 13246, §4, Dec. 18, 2001, 66 F.R. 66270, set out below.
+Ex. Ord. No. 11822, Dec. 10, 1974, 39 F.R. 43275, which designated certain officers of the Department of the Treasury to act as Secretary of the Treasury during any period of unavailability of both the Secretary and the Deputy Secretary of the Treasury, was revoked by Ex. Ord. No. 13246, §4, Dec. 18, 2001, 66 F.R. 66270, set out below.
 
 #### Executive Order No. 11880
 
@@ -132,7 +132,7 @@ Section 1. <i>Succession to the Authority of the Secretary of the Navy.</i>
 
 (d) Notwithstanding paragraph (a) and (b) of this section, an officer shall not act for or exercise the powers of the Secretary of the Navy under this order if that officer serves only in an acting capacity in the position that would otherwise entitle him to do so.
 
-Sec. 2. <i>Temporary Nature of Succession</i>. Succession to act for and exercise the powers of the Secretary of the Navy pursuant to this order shall be on a temporary or interim basis and shall not have the effect of vacating the statutory appointment held by the successor.
+Sec. 2. <i>Temporary Nature of Succession</i>. Succession to act for and exercise the powers of the Secretary of theNavy pursuant to this order shall be on a temporary or interim basis and shall not have the effect of vacating the statutory appointment held by the successor.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -182,7 +182,7 @@ Section 1. <i>Succession To Act as the Secretary of the Air Force.</i>
 
 &emsp;(3) The Chief of Staff of the Air Force.
 
-(b) In the event of the absence or temporary disability of the Secretary of the Air Force, the incumbentsholding the Department of the Air Force positions designated in paragraph (a) of this section, in the order indicated, shall act for and exercise the powers of the Secretary of the Air Force.
+(b) In the event of the absence or temporary disability of the Secretary of the Air Force, the incumbents holding the Department of the Air Force positions designated in paragraph (a) of this section, in the order indicated, shall act for and exercise the powers of the Secretary of the Air Force.
 
 &emsp;(1) The designation of an Acting Secretary of the Air Force applies only for the duration of the Secretary's absence or disability, and does not affect the authority of the Secretary to resume the powers of the Secretary's office.
 
@@ -282,7 +282,7 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 13244, Dec. 18, 2001, 66 F.R. 66267, as amended by Ex. Ord. No. 13261, §4(d), Mar. 19, 2002, 67 F.R. 13244, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica, including Subchapter III of Chapter 33 of title 5 of the United States Code, it is hereby ordered that:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including Subchapter III of Chapter 33 of title 5 of the United States Code, it is hereby ordered that:
 
 Section 1. Subject to the provisions of section 3 of this Executive Order, the officers named in section 2, in the order listed, shall act as and perform the functions and duties of the office of Secretary of the Interior (Secretary) during any period when both the Secretary and the Deputy Secretary of the Interior (Deputy Secretary) have died, resigned, or are otherwise unable to perform the functions and duties of the office of Secretary.
 
@@ -398,7 +398,7 @@ Sec. 2. <i>Order of Succession.</i>
 
 (d) General Counsel of the Department of Veterans Affairs;
 
-(e) Assistant Secretaries of Veterans Affairs, in the order in which they shall have taken the oath of officeas Assistant Secretaries, other than the Chief Financial Officer and, if an Assistant Secretary, the Chief Information Officer;
+(e) Assistant Secretaries of Veterans Affairs, in the order in which they shall have taken the oath of office as Assistant Secretaries, other than the Chief Financial Officer and, if an Assistant Secretary, the Chief Information Officer;
 
 (f) Chief Information Officer of the Department of Veterans Affairs, if the Chief Information Officer is an officer appointed by the President by and with the consent of the Senate;
 
@@ -658,7 +658,7 @@ Sec. 2. <i>Definitions</i>. As used in this order:
 
 &emsp;(ii) the United States Postal Service and the Postal Regulatory Commission; and
 
-(b) “order of succession” means a list of officials by position who shall act as and perform the functions and duties of the office of the head of the agency in the event that the office-holder has died, resigned, or otherwise become unable to perform the functions and duties of the office. “Order of succession” does not include any order, rule, memorandum, or other documentdelegating or partially delegating the authority of an office.
+(b) “order of succession” means a list of officials by position who shall act as and perform the functions and duties of the office of the head of the agency in the event that the office-holder has died, resigned, or otherwise become unable to perform the functions and duties of the office. “Order of succession” does not include any order, rule, memorandum, or other document delegating or partially delegating the authority of an office.
 
 Sec. 3. <i>Orders of Succession Requiring Presidential Action.</i>
 
@@ -806,7 +806,7 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 13542, May 13, 2010, 75 F.R. 27921, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Vacancies Reform Act of 1998, 5 U.S.C. 3345, <i>et seq</i>., it is hereby ordered that:
+By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica, including the Federal Vacancies Reform Act of 1998, 5 U.S.C. 3345, <i>et seq</i>., it is hereby ordered that:
 
 Section 1. <i>Order of Succession</i>. (a) Subject to the provisions of section 2 of this order, the following officials of the Department of Agriculture, in the order listed, shall act as and perform the functions and duties of the office of Secretary of Agriculture (Secretary) during any period in which both the Secretary and the Deputy Secretary of Agriculture (Deputy Secretary) have died, resigned, or are otherwise unable to perform the functions and duties of the office of Secretary, until such time as the Secretary or Deputy Secretary is able to perform the functions and duties of that office:
 
@@ -896,7 +896,7 @@ By the authority vested in me as President under the Constitution and laws of th
 
 Section 1.<i>Order of Succession.</i>
 
-During any period when the Secretary of Veterans Affairs (Secretary), the Deputy Secretary of Veterans Affairs (Deputy Secretary), and the officers designated by Executive Order 13247 of December 18, 2001 \[set out above\], to perform the functions and duties of the office of Secretary have died, resigned, or otherwise become unable to perform the functions and duties of the office of Secretary, the following officers of the Department of Veterans Affairs, in the order listed, shall perform the functions and duties of the office of Secretary, if they are eligible to act as Secretary under the provisions of the Federal Vacancies Reform Act of 1998, until such time as at least one of the officers mentioned above is able to perform the functions and duties of the office of Secretary:
+During any period when the Secretary of Veterans Affairs (Secretary), the Deputy Secretary of Veterans Affairs (Deputy Secretary), and the officers designated by Executive Order 13247 of December 18, 2001 \[set out above\], to perform the functions and duties of the office of Secretary have died, resigned, or otherwise become unable to perform the functions and duties of the office of Secretary, the following officers of the Department of Veterans Affairs, in the order listed, shall perform the functions and duties of the office of Secretary, if they are eligible to act as Secretary under the provisions of the Federal Vacancies Reform Act of 1998, untilsuch time as at least one of the officers mentioned above is able to perform the functions and duties of the office of Secretary:
 
 Veterans Integrated Service Network (VISN) 8 Director, Veterans Health Administration;
 
@@ -1088,47 +1088,45 @@ Sec. 4. You are authorized and directed to publish this memorandum in the Federa
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Designation of Officers of the Office of the Director of National Intelligence to Act as Director of National Intelligence
+#### Designation of Officers of the Office of the Director of National Intelligence To Act as Director of National Intelligence
 
-Memorandum of President of the United States, Dec. 20, 2005, 70 F.R. 76375, which provided for a designation of officers of the Office of the Director of National Intelligence to act as Director of National Intelligence, was superseded by Memorandum of President of the United States, §4, Oct. 3, 2008, 73 F.R. 58869, set out below.
+Memorandum of President of the United States, Dec. 20, 2005, 70 F.R. 76375, which provided for a designation of officers of the Office of the Director of National Intelligence to act as Director of National Intelligence, was superseded by Memorandum of President of the United States, §4, Oct. 3, 2008, 73 F.R. 58869, formerly set out below.
 
-Memorandum of President of the United States, Oct. 3, 2008, 73 F.R. 58869, provided:
+Memorandum of President of the United States, Oct. 3, 2008, 73 F.R. 58869, which provided for a designation of officers of the Office of the Director of National Intelligence to act as Director of National Intelligence, was revoked by Memorandum of President of the United States, §5, Mar. 8, 2011, 76 F.R. 13499, set out below.
+
+Memorandum of President of the United States, Mar. 8, 2011, 76 F.R. 13499, provided:
 
 Memorandum for the Director of National Intelligence
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Vacancies Reform Act of 1998, 5 U.S.C. 3345 <i>et seq</i>.,
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Vacancies Reform Act of 1998, 5 U.S.C. 3345 <i>et seq</i>., it is hereby ordered that:
 
-it is hereby ordered that:
+Section 1. Subject to the provisions of sections 3 and 4 of this memorandum, the officers of the Office of the Director of National Intelligence named in section 2, in the order listed, shall act as and perform the functions and duties of the Director of National Intelligence (DNI), during any period in which the DNI and the Principal Deputy Director of National Intelligence have died, resigned, or otherwise become unable to perform the functions and duties of the DNI, until such time as the DNI or the Principal Deputy Director of National Intelligence is able to perform the functions and duties of the DNI.
 
-Section 1. Subject to the provisions of sections 2 and 3 of this memorandum, the following officers of the office of the Director of National Intelligence, in the order listed, shall act as and perform the functions and duties of the office of the Director of National Intelligence (DNI), during any period in which the DNI and the Principal Deputy Director of National Intelligence have died, resigned, or otherwise become unable to perform the functions and duties of the office of the DNI, until such time as the DNI or the Principal Deputy Director is able to perform the functions and duties of the office of DNI:
+Sec. 2. <i>Order of Succession</i>.
 
-(a) Director of the Intelligence Staff;
+(a) Deputy Director of National Intelligence for Intelligence Integration;
 
-(b) Deputy Director of National Intelligence for Policy, Plans, and Requirements;
+(b) Director of the National Counterterrorism Center; and
 
-(c) Deputy Director of National Intelligence for Analysis;
+(c) National Counterintelligence Executive.
 
-(d) Deputy Director of National Intelligence for Collection;
+Sec. 3. <i>National Security Act of 1947</i>. This memorandum shall not supersede the authority of the Principal Deputy Director of National Intelligence to act for, and exercise the powers of, the DNI during the absence or disability of the DNI or during a vacancy in the position of the DNI (National Security Act of 1947, as amended, 50 U.S.C. 403–3a).
 
-(e) Director of the National Counterterrorism Center; and
+Sec. 4. <i>Exceptions</i>. (a) No individual who is serving in an office listed in section 2 of this memorandum in an acting capacity shall act as the DNI pursuant to this memorandum.
 
-(f) National Counterintelligence Executive.
-
-Sec. 2. <i>National Security Act of 1947</i>. This memorandum shall not supersede the authority of the Principal Deputy Director of National Intelligence to act for, and exercise the powers of, the Director of National Intelligence during the absence or disability of the Director of National Intelligence or during a vacancy in the position of Director of National Intelligence (National Security Act of 1947, as amended, 50 U.S.C. 403–3a).
-
-Sec. 3. <i>Exceptions</i>. (a) No individual who is serving in an office listed in section 1 in an acting capacity, by virtue of so serving, shall act as DNI pursuant to this memorandum.
-
-(b) No individual listed in section 1 shall act as DNI unless that individual is otherwise eligible to so serve under the Federal Vacancies Reform Act of 1998.
+(b) No individual listed in section 1 of this memorandum shall act as the DNI unless that individual is otherwise eligible to so serve under the Federal Vacancies Reform Act of 1998.
 
 (c) Notwithstanding the provisions of this memorandum, the President retains discretion, to the extent permitted by law, to depart from this memorandum in designating an acting DNI.
 
-Sec. 4. This memorandum supersedes the President's memorandum of December 20, 2005 (Designation of Officers of the Office of the Director of National Intelligence to Act as Director of National Intelligence).
+(d) In the event that the Director of the National Counterterrorism Center acts as and performs the functions and duties of the DNI pursuant to section 1 of this memorandum, that individual shall not simultaneously serve as Director of the National Counterterrorism Center during that time, in accordance with 50 U.S.C. 404o(b)(2).
 
-Sec. 5. This memorandum is intended to improve the internal management of the executive branch and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its agencies, instrumentalities, or entities, its officers, employees, or agents, or any other person.
+Sec. 5. <i>Revocation</i>. The Presidential Memorandum of October 3, 2008 (Designation of Officers of the Office of the Director of National Intelligence to Act as Director of National Intelligence), is hereby revoked.
 
-Sec. 6. You are authorized and directed to publish this memorandum in the Federal Register.
+Sec. 6. This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
-George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Sec. 7. You are authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Designation of Officers of the Social Security Administration to Act as the Commissioner of Social Security
 
@@ -1278,13 +1276,15 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Designation of Officers to Act as President of the Overseas Private Investment Corporation
 
-Memorandum of President of the United States, Jan. 16, 2009, 74 F.R. 4101, provided:
+Memorandum of President of the United States, Jan. 16, 2009, 74 F.R. 4101, which provided for a designation of officers to act as President of the Overseas Private Investment Corporation, was revoked by Memorandum of President of the United States, §3, June 6, 2011, 76 F.R. 33613, set out below.
+
+Memorandum of President of the United States, June 6, 2011, 76 F.R. 33613, provided:
 
 Memorandum for the President of the Overseas Private Investment Corporation
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Vacancies Reform Act of 1998, 5 U.S.C. 3345 <i>et seq</i>., it is hereby ordered that:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Vacancies Reform Act of 1998, 5 U.S.C. 3345 <i>et seq</i>. (the “Act”), it is hereby ordered that:
 
-Section 1. <i>Order of Succession</i>. Subject to the provisions of section 2 of this memorandum, the following officials of the Overseas Private Investment Corporation, in the order listed, shall act as and perform the functions and duties of the office of the President of the Overseas Private Investment Corporation (POPIC), during any period in which the POPIC has died, resigned, or otherwise become unable to perform the functions and duties of the office of POPIC, until such time as the POPIC is able to perform the functions and duties of that office:
+Section 1. <i>Order of Succession</i>. Subject to the provisions of section 2 of this memorandum, and to the limitations set forth in the Act, the following officers of the Overseas Private Investment Corporation (OPIC), in the order listed, shall act as and perform the functions and duties of the office of the President of OPIC during any period in which the President of OPIC has died, resigned, or otherwise become unable to perform the functions and duties of the office of the President of OPIC:
 
 (a) Executive Vice President;
 
@@ -1292,23 +1292,33 @@ Section 1. <i>Order of Succession</i>. Subject to the provisions of section 2 of
 
 (c) Vice President and Chief Financial Officer;
 
-(d) Deputy General Counsel; and
+(d) Chief of Staff;
 
-(e) Director of Operations.
+(e) Vice President, Investment Policy;
 
-Sec. 2. <i>Exceptions.</i>
+(f) Vice President, External Affairs;
 
-(a) No individual who is serving in an office listed in section 1 in an acting capacity, by virtue of so serving, shall act as POPIC pursuant to this memorandum.
+(g) Vice President, Investment Funds;
 
-(b) No individual listed in section 1 shall act as POPIC unless that individual is otherwise eligible to so serve under the Federal Vacancies Reform Act of 1998.
+(h) Vice President, Insurance;
 
-(c) Notwithstanding the provisions of this memorandum, the President retains discretion, to the extent permitted by law, to depart from this memorandum in designating an acting POPIC.
+(i) Vice President, Structured Finance; and
 
-Sec. 3. This memorandum is intended to improve the internal management of the executive branch and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, it \[sic\] agencies, instrumentalities, or entities, its officers, employees, or agents, or any other person.
+(j) Vice President, Small and Medium Enterprise Finance.
 
-Sec. 4. You are authorized and directed to publish this memorandum in the Federal Register.
+Sec. 2. <i>Exceptions</i>. (a) No individual who is serving in an office listed in section 1(a)–(j) of this memorandum in an acting capacity shall, by virtue of so serving, act as President of OPIC pursuant to this memorandum.
 
-George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+(b) No individual who is serving in an office listed in section 1 of this memorandum shall act as President of OPIC unless that individual is otherwise eligible to so serve under the Act.
+
+(c) Notwithstanding the provisions of this memorandum, the President retains discretion, to the extent permitted by law, to depart from this memorandum in designating an acting President of OPIC.
+
+Sec. 3. The Presidential Memorandum of January 16, 2009 (Designation of Officers to Act as President of the Overseas Private Investment Corporation), is hereby revoked.
+
+Sec. 4. This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Sec. 5. You are authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Designation of Officers of the Office of Science and Technology Policy to Act as Director
 

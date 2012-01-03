@@ -6,5 +6,5 @@ The Secretary may not make, insure, or guarantee any farmer program loan to a fa
 
 #### Amendments
 
-1994—Pub. L. 103–354 struck out “agricultural loan” before “mediation program”.
+<b>1994</b>—Pub. L. 103–354 struck out “agricultural loan” before “mediation program”.
 

@@ -62,7 +62,7 @@ For purposes of this section and section 6655(h) (relating to excessive adjustme
 
 If the corporation seeking an adjustment under this section paid its estimated income tax on a consolidated basis or expects to make a consolidated return for the taxable year, this section shall apply only to such extent and subject to such conditions, limitations, and exceptions as the Secretary may by regulations prescribe.
 
-(Added Pub. L. 90–364, title I, §103(d)(1), June 28, 1968, 82 Stat. 262; amended Pub. L. 94–455, titleXIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–499, title V, §516(b)(4)(C), Oct. 17, 1986, 100 Stat. 1771; Pub. L. 99–514, title VII, §701(d)(2), Oct. 22, 1986, 100 Stat. 2342; Pub. L. 100–203, title X, §10301(b)(4), Dec. 22, 1987, 101 Stat. 1330–429.)
+(Added Pub. L. 90–364, title I, §103(d)(1), June 28, 1968, 82 Stat. 262; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–499, title V, §516(b)(4)(C), Oct. 17, 1986, 100 Stat. 1771; Pub. L. 99–514, title VII, §701(d)(2), Oct. 22, 1986, 100 Stat. 2342; Pub. L. 100–203, title X, §10301(b)(4), Dec. 22, 1987, 101 Stat. 1330–429.)
 
 #### Amendments
 

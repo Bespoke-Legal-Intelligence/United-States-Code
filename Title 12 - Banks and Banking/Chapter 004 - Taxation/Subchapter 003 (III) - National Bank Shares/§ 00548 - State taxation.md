@@ -10,11 +10,11 @@ R.S. §5219 derived from act June 3, 1864, ch. 106, §41, 13 Stat. 111, which wa
 
 #### Amendments
 
-1969—Pub. L. 91–156, §2(a), substituted provisions directing that national banks, for purposes of both Federal and State tax laws, be treated as banks organized and existing under the laws of the State or other jurisdiction within which each bank's principal office is located for provisions placing restrictions on the taxation of national bank shares and, for the period until the effective date of such amendment, set out interim provisions regarding intangible personal property taxes of States and local governments on national banks.
+<b>1969</b>—Pub. L. 91–156, §2(a), substituted provisions directing that national banks, for purposes of both Federal and State tax laws, be treated as banks organized and existing under the laws of the State or other jurisdiction within which each bank's principal office is located for provisions placing restrictions on the taxation of national bank shares and, for the period until the effective date of such amendment, set out interim provisions regarding intangible personal property taxes of States and local governments on national banks.
 
 Pub. L. 91–156, §1(a), added par. 5.
 
-1926—Act Mar. 25, 1926, among other changes inserted “on their net income” in cl. (3) of former opening par., and added cl. (4) thereto, and inserted proviso in former subsec. 1(c).
+<b>1926</b>—Act Mar. 25, 1926, among other changes inserted “on their net income” in cl. (3) of former opening par., and added cl. (4) thereto, and inserted proviso in former subsec. 1(c).
 
 #### Effective Date of 1969 Amendment
 
@@ -48,9 +48,9 @@ Pub. L. 93–100, §7, Aug. 16, 1973, 87 Stat. 347, eff. on the 30th day after A
 
 #### Study by Board of Governors of Federal Reserve System; Report by June 22, 1972
 
-Section 4(b) of Pub. L. 92–213 required the Board of Governors of the Federal Reserve System to make a study of the probable impact on the revenues of State and local governments of the extension until Jan. 1, 1973, under subsection (a), of the termination date of interim provisions regarding intangible personal property taxes of State and local governments on national banks and to report the results of its study to the Congress not later than six months after Dec. 22, 1971.
+Section 4(b) of Pub. L. 92–213 required the Board of Governors of the Federal Reserve System to make astudy of the probable impact on the revenues of State and local governments of the extension until Jan. 1, 1973, under subsection (a), of the termination date of interim provisions regarding intangible personal property taxes of State and local governments on national banks and to report the results of its study to the Congress not later than six months after Dec. 22, 1971.
 
 #### Study by Board of Governors of Federal Reserve System; Report by Dec. 31, 1970
 
-Section 4 of Pub. L. 91–156 provided that the Board of Governors of the Federal Reserve System make a studyto determine the probable impact on the banking system and other economic effects of the changes in existing law made by section 2 of this Act \[amending this section\] and that such study include the Board's recommendation as to what additional Federal legislation may be needed to reconcile the promotion of economic efficiency in the banking system with the achievement of effectiveness and local autonomy in meeting the fiscal needs of the States and their political subdivisions. The results of the Board's study were to be made to Congress not later than December 31, 1970.
+Section 4 of Pub. L. 91–156 provided that the Board of Governors of the Federal Reserve System make a study to determine the probable impact on the banking system and other economic effects of the changes in existing law made by section 2 of this Act \[amending this section\] and that such study include the Board's recommendation as to what additional Federal legislation may be needed to reconcile the promotion of economic efficiency in the banking system with the achievement of effectiveness and local autonomy in meeting the fiscal needs of the States and their political subdivisions. The results of the Board's study were to be made to Congress not later than December 31, 1970.
 

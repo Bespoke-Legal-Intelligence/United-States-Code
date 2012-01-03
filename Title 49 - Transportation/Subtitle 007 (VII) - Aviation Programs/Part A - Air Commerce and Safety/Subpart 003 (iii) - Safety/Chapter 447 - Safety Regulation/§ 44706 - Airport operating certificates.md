@@ -66,7 +66,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §612(c); added July 12, 1976, Pu
 
 In subsection (a), before clause (1), the words “may file with the Administrator an application for an airport operating certificate” are omitted as surplus. In clause (3), the words “the requirements of” are omitted as surplus. The word “rules” is omitted as being synonymous with “regulations”.
 
-In subsection (b), before clause (1), the words “conditions, and limitations . . . reasonably” are omitted assurplus. In clause (2), the words “grooving or other” are omitted as surplus.
+In subsection (b), before clause (1), the words “conditions, and limitations . . . reasonably” are omitted as surplus. In clause (2), the words “grooving or other” are omitted as surplus.
 
 #### Amendments
 

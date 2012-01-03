@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The stamps required under section 718a of this title shall be sold by the Postal Serviceand may be sold by the Department of the Interior, pursuant to regulations promulgated jointly by the Postal Service and the Secretary, at—
+&emsp;The stamps required under section 718a of this title shall be sold by the Postal Service and may be sold by the Department of the Interior, pursuant to regulations promulgated jointly by the Postal Service and the Secretary, at—
 
 &emsp;&emsp;(A) any post office; and
 
@@ -40,7 +40,7 @@
 
 #### (B) Redemption of unused stamps
 
-&emsp;&emsp;The Department of the Interior, pursuant to regulations promulgated by the Secretary, shall provide for the redemption, on or before the 30th day of June of each year, of unused stamps issued for the year under this subchapter that—
+&emsp;&emsp;The Department of the Interior, pursuant to regulations promulgated by the Secretary, shall provide for the redemption, on or before the 30th day of June of each year,of unused stamps issued for the year under this subchapter that—
 
 &emsp;&emsp;&emsp;(i) were sold on consignment to any person authorized by the Secretary to sell stamps on consignment (including retail dealers for resale to customers); and
 

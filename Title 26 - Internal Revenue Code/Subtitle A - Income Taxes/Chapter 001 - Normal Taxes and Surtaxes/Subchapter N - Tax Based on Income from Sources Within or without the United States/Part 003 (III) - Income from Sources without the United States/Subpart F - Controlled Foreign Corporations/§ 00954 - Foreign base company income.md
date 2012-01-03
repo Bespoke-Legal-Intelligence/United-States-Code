@@ -52,7 +52,7 @@ For purposes of section 952(a)(2), the term “foreign base company income” me
 
 #### (6) Foreign base company oil related income not treated as another kind of base company income
 
-&emsp;Income of a corporation which is foreign base company oil related income shall not be considered foreign base company income ofsuch corporation under paragraph (2),<sup>2</sup> or (3) of subsection (a).
+&emsp;Income of a corporation which is foreign base company oil related income shall not be considered foreign base company income of such corporation under paragraph (2),<sup>2</sup> or (3) of subsection (a).
 
 #### (c) Foreign personal holding company income
 
@@ -132,7 +132,7 @@ For purposes of section 952(a)(2), the term “foreign base company income” me
 
 #### (C) Exception for dealers
 
-&emsp;&emsp;Except as provided by regulations, in the case of a regular dealer in property which is property described in paragraph (1)(B), forward contracts, option contracts, or similarfinancial instruments (including notional principal contracts and all instruments referenced to commodities), there shall not be taken into account in computing foreign personal holding company income—
+&emsp;&emsp;Except as provided by regulations, in the case of a regular dealer in property which is property described in paragraph (1)(B), forward contracts, option contracts, or similar financial instruments (including notional principal contracts and all instruments referenced to commodities), there shall not be taken into account in computing foreign personal holding company income—
 
 &emsp;&emsp;&emsp;(i) any item of income, gain, deduction, or loss (other than any item described in subparagraph (A), (E), or (G) of paragraph (1)) from any transaction (including hedging transactions and transactions involving physical settlement) entered into in the ordinary course of such dealer's trade or business as such a dealer, and
 
@@ -220,7 +220,7 @@ For purposes of section 952(a)(2), the term “foreign base company income” me
 
 #### (2) Certain branch income
 
-&emsp;For purposes of determining foreign base company sales income in situations in which the carrying on of activities by a controlled foreign corporation through a branch or similar establishment outside the country of incorporation of the controlled foreign corporation has substantially the same effect as if such branch or similar establishment were a wholly owned subsidiary corporation deriving such income, under regulations prescribed by the Secretary the income attributable to the carrying on of such activities of such branch or similar establishment shall be treated as income derived by a wholly owned subsidiary of the controlled foreign corporation and shall constitute foreign base company sales income of the controlled foreign corporation.
+&emsp;For purposes of determining foreign base company sales income in situations in which the carrying on of activities by a controlled foreign corporation through a branch or similar establishment outside the country of incorporation of the controlled foreign corporation has substantially the same effect as if such branch or similar establishment were a wholly owned subsidiary corporation deriving such income, under regulations prescribed by the Secretary the income attributable to the carrying on of such activities of such branch or similar establishment shall be treated asincome derived by a wholly owned subsidiary of the controlled foreign corporation and shall constitute foreign base company sales income of the controlled foreign corporation.
 
 #### (3) Related person defined
 
@@ -320,7 +320,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) more than 70 percent of the gross income of the controlled foreign corporation is derived directly from the active and regular conduct of a lending or finance business from transactions with customers which are not related persons,
 
-&emsp;&emsp;&emsp;(ii) it is engaged in the active conduct of a banking business and is an institution licensed to do business as a bank in theUnited States (or is any other corporation not so licensed which is specified by the Secretary in regulations), or
+&emsp;&emsp;&emsp;(ii) it is engaged in the active conduct of a banking business and is an institution licensed to do business as a bank in the United States (or is any other corporation not so licensed which is specified by the Secretary in regulations), or
 
 &emsp;&emsp;&emsp;(iii) it is engaged in the active conduct of a securities business and is registered as a securities broker or dealer under section 15(a) of the Securities Exchange Act of 1934 or is registered as a Government securities broker or dealer under section 15C(a) of such Act (or is any other corporation not so registered which is specified by the Secretary in regulations).
 
@@ -464,7 +464,7 @@ For purposes of this section—
 
 &emsp;The term “qualified insurance income” means income of a qualifying insurance company which is—
 
-&emsp;&emsp;(A) received from a person other than a related person (within the meaning of subsection (d)(3)) and derived from the investments made by a qualifying insurance company or a qualifying insurance company branch of its reserves allocable to exempt contracts or of 80 percent of its unearned premiums from exempt contracts (as both are determined in the manner prescribed under paragraph (4)), or
+&emsp;&emsp;(A) received from a person other than a related person (within the meaning of subsection (d)(3)) and derived from the investments made by a qualifying insurance company or a qualifying insurance companybranch of its reserves allocable to exempt contracts or of 80 percent of its unearned premiums from exempt contracts (as both are determined in the manner prescribed under paragraph (4)), or
 
 &emsp;&emsp;(B) received from a person other than a related person (within the meaning of subsection (d)(3)) and derived from investments made by a qualifying insurance company or a qualifying insurance company branch of an amount of its assets allocable to exempt contracts equal to—
 
@@ -526,7 +526,7 @@ For purposes of this section—
 
 &emsp;For purposes of this subsection, any term used in this subsection which is also used in section 953(e) shall have the meaning given such term by section 953.
 
-(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1009; amended Pub. L. 91–172, title IX, §909(a), Dec. 30, 1969, 83 Stat. 718; Pub. L. 94–12, title VI, §602(b), (c)(1), (2), (d)(1), (e), Mar. 29, 1975, 89 Stat. 58, 60, 64; Pub. L. 94–455, title X, §§1023(a), 1024(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1620, 1834; Pub. L. 97–248, title II, §212(a)–(e), Sept. 3, 1982, 96 Stat. 451, 452; Pub. L. 98–369, div. A, title I, §137(a), title VII, §712(f), July 18, 1984, 98 Stat. 672, 947; Pub. L. 99–514, title XII, §§1201(c), 1221(a)(1), (b)(3)(B), (c)(1)–(3)(A), (d), (e), 1223(a), title XVIII, §1810(k), Oct. 22, 1986, 100 Stat. 2525, 2549, 2553, 2557, 2830; Pub. L. 100–647, title I, §§1012(i)(12), (14)(A), (18), (20), (25)(B), 1018(u)(38), Nov. 10, 1988, 102 Stat. 3509–3512, 3592; Pub. L. 101–239, title VII, §7811(i)(3), Dec. 19, 1989, 103 Stat. 2409; Pub. L. 103–66, title XIII, §§13233(a)(1), 13235(a)(3), (b), 13239(d), Aug. 10, 1993, 107 Stat. 502, 504, 505, 509; Pub. L. 104–188, title I, §1704(t)(25), Aug. 20, 1996, 110 Stat. 1888; Pub. L. 105–34, title X, §1051(a), (b), title XI, §1175(a), (b), Aug. 5, 1997, 111 Stat. 940, 990, 993; Pub. L. 105–277, div. J, title I, §1005(a), (b)(2), (c)–(e), title IV, §4003(j), Oct. 21, 1998, 112 Stat. 2681–890, 2681–897, 2681–899, 2681–900, 2681–910; Pub. L. 106–170, title V, §§503(a), 532(c)(2)(Q), Dec. 17, 1999, 113 Stat. 1921, 1931; Pub. L. 107–147, title IV, §417(24)(B)(ii), title VI, §614(a)(2), (b)(1), Mar. 9, 2002, 116 Stat. 57, 61; Pub. L. 108–357, title IV, §§412(a), 413(b)(2), 414(a)–(c), 415(a), (b), (c)(2), 416(a), Oct. 22, 2004, 118 Stat. 1505, 1506, 1510, 1511; Pub. L. 109–135, title IV, §§403(m), 412(<i>ll</i>), (mm), Dec. 21, 2005, 119 Stat. 2626, 2639; Pub. L. 109–222, title I, §103(a)(2), (b)(1), May 17, 2006, 120 Stat. 346; Pub. L. 109–432, div. A, title IV, §426(a)(1), Dec. 20, 2006, 120 Stat. 2974; Pub. L. 110–172, §§4(a), 11(a)(19), (20), (g)(15)(B), Dec. 29, 2007, 121 Stat. 2475, 2486, 2491; Pub. L. 110–343, div. C, title III, §§303(b), 304(a), Oct. 3, 2008, 122 Stat. 3866, 3867; Pub. L. 111–312, title VII, §§750(a), 751(a), Dec. 17, 2010, 124 Stat. 3320, 3321.)
+(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1009; amended Pub. L. 91–172, title IX, §909(a), Dec. 30, 1969, 83 Stat. 718; Pub. L. 94–12, title VI, §602(b), (c)(1), (2), (d)(1), (e), Mar. 29, 1975, 89 Stat. 58, 60, 64; Pub. L. 94–455, title X, §§1023(a), 1024(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1620, 1834; Pub. L. 97–248, title II, §212(a)–(e), Sept. 3, 1982, 96 Stat. 451, 452; Pub. L.98–369, div. A, title I, §137(a), title VII, §712(f), July 18, 1984, 98 Stat. 672, 947; Pub. L. 99–514, title XII, §§1201(c), 1221(a)(1), (b)(3)(B), (c)(1)–(3)(A), (d), (e), 1223(a), title XVIII, §1810(k), Oct. 22, 1986, 100 Stat. 2525, 2549, 2553, 2557, 2830; Pub. L. 100–647, title I, §§1012(i)(12), (14)(A), (18), (20), (25)(B), 1018(u)(38), Nov. 10, 1988, 102 Stat. 3509–3512, 3592; Pub. L. 101–239, title VII, §7811(i)(3), Dec. 19, 1989, 103 Stat. 2409; Pub. L. 103–66, title XIII, §§13233(a)(1), 13235(a)(3), (b), 13239(d), Aug. 10, 1993, 107 Stat. 502, 504, 505, 509; Pub. L. 104–188, title I, §1704(t)(25), Aug. 20, 1996, 110 Stat. 1888; Pub. L. 105–34, title X, §1051(a), (b), title XI, §1175(a), (b), Aug. 5, 1997, 111 Stat. 940, 990, 993; Pub. L. 105–277, div. J, title I, §1005(a), (b)(2), (c)–(e), title IV, §4003(j), Oct. 21, 1998, 112 Stat. 2681–890, 2681–897, 2681–899, 2681–900, 2681–910; Pub. L. 106–170, title V, §§503(a), 532(c)(2)(Q), Dec. 17, 1999, 113 Stat. 1921, 1931; Pub. L. 107–147, title IV, §417(24)(B)(ii), title VI, §614(a)(2), (b)(1), Mar. 9, 2002, 116 Stat. 57, 61; Pub. L. 108–357, title IV, §§412(a), 413(b)(2), 414(a)–(c), 415(a), (b), (c)(2), 416(a), Oct. 22, 2004, 118 Stat. 1505, 1506, 1510, 1511; Pub. L. 109–135, title IV, §§403(m), 412(<i>ll</i>), (mm), Dec. 21, 2005, 119 Stat. 2626, 2639; Pub. L. 109–222, title I, §103(a)(2), (b)(1), May 17, 2006, 120 Stat. 346; Pub. L. 109–432, div. A, title IV, §426(a)(1), Dec. 20, 2006, 120 Stat. 2974; Pub. L. 110–172, §§4(a), 11(a)(19), (20), (g)(15)(B), Dec. 29, 2007, 121 Stat. 2475, 2486, 2491; Pub. L. 110–343, div. C, title III, §§303(b), 304(a), Oct. 3, 2008, 122 Stat. 3866, 3867; Pub. L. 111–312, title VII, §§750(a), 751(a), Dec. 17, 2010, 124 Stat. 3320, 3321.)
 
 #### References in Text
 
@@ -666,7 +666,7 @@ Subsec. (b)(3). Pub. L. 99–514, §1223(a), amended par. (3) generally. Prior t
 
 Subsec. (b)(4). Pub. L. 99–514, §1221(d), amended par. (4) generally. Prior to amendment, par. (4), exception for foreign corporations not availed of to reduce taxes, read as follows: “For purposes of subsection (a), foreign base company income does not include any item of income received by a controlled foreign corporation if it is established to the satisfaction of the Secretary that neither—
 
-&emsp;“(A) the creation or organization of such controlled foreign corporation under the laws of the foreign country in which it is incorporated (or, in the case of a controlled foreign corporation which is an acquired corporation, the acquisition of such corporation created or organized under the laws of the foreign country in which it is incorporated), nor
+&emsp;“(A) the creation or organization of such controlled foreign corporation under the laws of the foreigncountry in which it is incorporated (or, in the case of a controlled foreign corporation which is an acquired corporation, the acquisition of such corporation created or organized under the laws of the foreign country in which it is incorporated), nor
 
 &emsp;“(B) the effecting of the transaction giving rise to such income through the controlled foreign corporation,
 
@@ -676,7 +676,7 @@ Subsec. (b)(5). Pub. L. 99–514, §1201(c), inserted at end “Except to the ex
 
 Subsec. (c). Pub. L. 99–514, §1221(a)(1), amended subsec. (c) generally, substituting pars. (1) to (3) for former provisions which had provided: in par. (1), a reference to definition of “foreign personal holding company income” contained in section 553; in par. (2), that all rents would be included in “foreign personal holding company income” without regard to whether or not such rents constituted 50 percent or more of gross income; in par. (3), for exclusion of certain income derived in active conduct of a trade or business; and in par. (4), exclusion of certain income received from related persons from being included in “foreign personal holding company income”. See subsec. (c)(3).
 
-Subsec. (d)(3). Pub. L. 99–514, §1221(e), added subpars. (A) and (B) and concluding provisions and struck outformer subpars. (A) to (C) and concluding provisions which read as follows:
+Subsec. (d)(3). Pub. L. 99–514, §1221(e), added subpars. (A) and (B) and concluding provisions and struck out former subpars. (A) to (C) and concluding provisions which read as follows:
 
 &emsp;“(A) such person is an individual, partnership, trust, or estate which controls the controlled foreign corporation;
 
@@ -900,7 +900,7 @@ Section 212(f) of Pub. L. 97–248 provided that: “The amendments made by this
 
 Section 1023(b) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years of foreign corporations beginning after December 31, 1975, and to taxable years of United States shareholders (within the meaning of section 951(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) within which or with which such taxable years of such foreign corporations end.”
 
-Section 1024(b) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years of foreign corporations beginning after December 31, 1975, and to taxable years of United States shareholders (within the meaning of section 951(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) within which or with which such taxable years of such foreign corporations end.”
+Section 1024(b) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years of foreign corporations beginning after December 31, 1975, and to taxableyears of United States shareholders (within the meaning of section 951(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) within which or with which such taxable years of such foreign corporations end.”
 
 #### Effective Date of 1975 Amendment
 
@@ -916,7 +916,7 @@ Section 1175 of Pub. L. 105–34, amending this section and enacting provisions 
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 
-For applicability of amendment by section 1201(c) of Pub. L. 99–514 notwithstanding any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been includedin the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(2), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
+For applicability of amendment by section 1201(c) of Pub. L. 99–514 notwithstanding any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(2), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

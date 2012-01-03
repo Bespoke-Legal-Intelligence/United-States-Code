@@ -9,7 +9,7 @@ There is hereby imposed on the sale by the manufacturer of each automobile a tax
 | <b>If the fuel economy of the model type</b> in which the automobile falls is: | <b>The tax is:</b> |
 | :--- | ---: |
 | At least 22.5 | $0&nbsp;&nbsp; |
-| At least 21.5 but less than 22.5 | 1,000   |
+| At least 21.5 but less than 22.5 | 1,000&nbsp;&nbsp; |
 | At least 20.5 but less than 21.5 | 1,300&nbsp;&nbsp; |
 | At least 19.5 but less than 20.5 | 1,700&nbsp;&nbsp; |
 | At least 18.5 but less than 19.5 | 2,100&nbsp;&nbsp; |
@@ -85,7 +85,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;Fuel economy for any model type shall be measured in accordance with testing and calculation procedures established by the EPA Administrator by regulation. Procedures so established shall be the procedures utilized by the EPA Administrator for model year 1975 (weighted 55 percent urban cycle, and 45 percent highway cycle), or procedures which yield comparable results. Procedures under this subsection, to the extent practicable, shall require that fuel economy tests be conducted in conjunction with emissions tests conducted under section 206 of the Clean Air Act. The EPA Administrator shall report any measurements of fuel economy to the Secretary.
+&emsp;Fuel economy for any model type shall be measured in accordance with testing and calculation procedures established by the EPA Administrator by regulation. Procedures so established shall be the procedures utilized by the EPA Administrator for model year 1975 (weighted 55 percent urban cycle, and 45 percent highway cycle), or procedures which yield comparable results. Procedures under this subsection, to the extent practicable, shall require that fuel economy tests be conducted in conjunction with emissions tests conductedunder section 206 of the Clean Air Act. The EPA Administrator shall report any measurements of fuel economy to the Secretary.
 
 #### (2) Special rule for fuels other than gasoline
 
@@ -105,7 +105,7 @@ Section 206 of the Clean Air Act, referred to in subsec. (c)(1), is section 206 
 
 #### Amendments
 
-<b>2005</b>—Subsec. (b)(1)(A). Pub. L. 109–59 struck out concluding provisions which read as follows: “In the caseof a limousine, the preceding sentence shall be applied without regard to clause (ii).”
+<b>2005</b>—Subsec. (b)(1)(A). Pub. L. 109–59 struck out concluding provisions which read as follows: “In the case of a limousine, the preceding sentence shall be applied without regard to clause (ii).”
 
 <b>1994</b>—Subsec. (b)(1)(B). Pub. L. 103–272 substituted “section 32901 of title 49, United States Code,” for “section 501 of the Motor Vehicle Information and Cost Savings Act (15 U.S.C. 2001)”.
 

@@ -114,7 +114,7 @@ Section 285t of this title, referred to in subsec. (a)(2)(B)(viii), was in the o
 
 The Social Security Act, referred to in subsec. (a)(2)(D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
-The American Recovery and Reinvestment Act of 2009, referred to in subsec. (b)(2)(F), is Pub. L. 111–5, Feb. 17, 2009, 123 Stat. 115. For complete classificationof this Act to the Code, see Short Title of 2009 Amendment note set out under section 1 of Title 26, Internal Revenue Code, and Tables.
+The American Recovery and Reinvestment Act of 2009, referred to in subsec. (b)(2)(F), is Pub. L. 111–5, Feb. 17, 2009, 123 Stat. 115. For complete classification of this Act to the Code, see Short Title of 2009 Amendment note set out under section 1 of Title 26, Internal Revenue Code, and Tables.
 
 #### Amendments
 

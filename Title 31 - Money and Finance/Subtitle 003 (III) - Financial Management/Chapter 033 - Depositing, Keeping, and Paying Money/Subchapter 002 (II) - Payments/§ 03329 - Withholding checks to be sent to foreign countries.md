@@ -8,7 +8,7 @@
 
 (b)(1) If a check or warrant is prohibited from being sent to a foreign country under subsection (a) of this section, the drawer shall hold the check or warrant until the end of the calendar quarter after the date of the check or warrant.
 
-(2) The Secretary may release the check or warrant for delivery during the calendar quarter after the date of the check or warrant if the Secretary decides that conditions have changed to ensure reasonably that the payee—
+(2) The Secretary may release the check or warrant for delivery during the calendar quarterafter the date of the check or warrant if the Secretary decides that conditions have changed to ensure reasonably that the payee—
 
 &emsp;(A) will receive the check or warrant; and
 
@@ -90,7 +90,7 @@ In subsection (b)(3)(B), before subclause (i), the word “Secretary” is subst
 
 In subsection (b)(4), the word “withheld” is substituted for “undelivered” for clarity. The words “with the Treasurer of the United States” and the words “of the United States” after “Comptroller General” are omitted as unnecessary.
 
-In subsection (d)(1), the words “is now being, or . . . hereafter” and “as well as to all checks or warrants thedelivery of which is now being withheld pursuant to administrative action, which administrative action is ratified and confirmed” in 31:126 are omitted as executed.
+In subsection (d)(1), the words “is now being, or . . . hereafter” and “as well as to all checks or warrants the delivery of which is now being withheld pursuant to administrative action, which administrative action is ratified and confirmed” in 31:126 are omitted as executed.
 
 In subsection (d)(2), the words “do not affect a requirement for” are substituted for “nothing in sections 123 to 128 of this title shall be construed to dispense with the necessity of” in 31:126 to eliminate unnecessary words and because of the restatement. The words “obtaining . . . authorize” and “is now or hereafter” are omitted as surplus.
 

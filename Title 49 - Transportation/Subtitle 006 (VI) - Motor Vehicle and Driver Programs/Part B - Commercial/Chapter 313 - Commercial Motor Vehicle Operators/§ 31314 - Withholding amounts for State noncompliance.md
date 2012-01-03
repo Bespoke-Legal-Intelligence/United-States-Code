@@ -70,7 +70,7 @@ Pub. L. 105–178, §4011(g)(3), (4), redesignated subsec. (e) as (d) and struck
 
 “(1) If, before the last day of the period for which amounts withheld under this section from apportionment are to remain available for apportionment to a State under subsection (c)(1) of this section, the State substantially complies with all of the requirements of section 31311(a) of this title for a period of 365 days, the Secretary, on the day following the last day of that period, shall apportion to the State the withheld amounts remaining available for apportionment to that State.
 
-“(2) Amounts apportioned under paragraph (1) of this subsection remain available for expenditure until theend of the 3d fiscal year following the fiscal year in which the amounts are apportioned. Amounts not obligated at the end of that period lapse or, for amounts apportioned under section 104(b)(5) of title 23, lapse and are available for projects under section 118(b) of title 23.”
+“(2) Amounts apportioned under paragraph (1) of this subsection remain available for expenditure until the end of the 3d fiscal year following the fiscal year in which the amounts are apportioned. Amounts not obligated at the end of that period lapse or, for amounts apportioned under section 104(b)(5) of title 23, lapse and are available for projects under section 118(b) of title 23.”
 
 Subsec. (e). Pub. L. 105–178, §4011(g)(4), redesignated subsec. (e) as (d).
 

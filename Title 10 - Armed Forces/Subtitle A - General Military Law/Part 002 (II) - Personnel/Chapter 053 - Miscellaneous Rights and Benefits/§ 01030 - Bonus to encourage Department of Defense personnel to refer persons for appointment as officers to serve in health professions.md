@@ -58,7 +58,7 @@ Payment.—A bonus payable for a referral of a person under subsection (a) shall
 
 (f)
 
-Relation to Prohibition on Bounties.—The referral bonus authorized by this section is not a bounty for purposes of section 514(a) of this title.
+Relation to Prohibition on Bounties.—The referral bonus authorized by this section isnot a bounty for purposes of section 514(a) of this title.
 
 (g)
 

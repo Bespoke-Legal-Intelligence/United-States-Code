@@ -10,7 +10,7 @@
 
 (ii) Not later than 15 calendar days after the date an agency of the Department of Agriculture receives a request for information made pursuant to clause (i), the agency shall provide the Secretary with the requested information.
 
-(iii) If, not later than 20 calendar days after the date a request is made pursuant to clause (i) with respect to an application, the Secretary has not received the information requested, the Secretary shall notify the applicant and the district office of the Farmers Home Administration, in writing, of the outstanding information.
+(iii) If, not later than 20 calendar days after the date a request is made pursuant to clause (i)with respect to an application, the Secretary has not received the information requested, the Secretary shall notify the applicant and the district office of the Farmers Home Administration, in writing, of the outstanding information.
 
 (iv) A county office shall notify the district office of the Farmers Home Administration of each application for an operating loan or loan guarantee under subchapter II of this chapter that is pending more than 45 days after receipt, and the reasons the application is pending.
 
@@ -136,11 +136,11 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (g)(1)(B). Pub. L. 110–246, §6012(b)(3), substituted “1932(a)(2)(A)” for “1932(a)(1)” in introductory provisions.
+<b>2008</b>—Subsec. (g)(1)(B). Pub. L. 110–246, §6012(b)(3), substituted “1932(a)(2)(A)” for “1932(a)(1)” in introductory provisions.
 
-2002—Subsec. (g). Pub. L. 107–171, §6019, added subsec. (g) and struck out former subsec. (g) which read as follows:
+<b>2002</b>—Subsec. (g). Pub. L. 107–171, §6019, added subsec. (g) and struck out former subsec. (g) which read as follows:
 
-“(1) The Secretary shall provide to lenders a short, simplified application form for guarantees under this chapter of loans the principal amount of which is $125,000 or less.
+“(1) The Secretary shall provide to lenders a short, simplified application form for guarantees under thischapter of loans the principal amount of which is $125,000 or less.
 
 “(2) In developing the application, the Secretary shall—
 
@@ -158,19 +158,19 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 Subsec. (g)(1). Pub. L. 107–171, §5307, substituted “$125,000” for “$50,000”.
 
-1996—Subsec. (f)(4). Pub. L. 104–127, §637(1), inserted heading.
+<b>1996</b>—Subsec. (f)(4). Pub. L. 104–127, §637(1), inserted heading.
 
-Subsec. (f)(4)(A). Pub. L. 104–127, §637(1), designated first sentence of par. (4) as subpar. (A), inserted heading, and directed the substitution of “The Secretary shall provide a prospectus of a seasoned” for “With” and all that follows through “seasoned”, which was executed by making the substitution for all that followsthrough “seasoned” the first place appearing resulting in making the substitution for “With the approval of the borrower, the Secretary shall provide the prospectus of the seasoned”, to reflect the probable intent of Congress.
+Subsec. (f)(4)(A). Pub. L. 104–127, §637(1), designated first sentence of par. (4) as subpar. (A), inserted heading, and directed the substitution of “The Secretary shall provide a prospectus of a seasoned” for “With” and all that follows through “seasoned”, which was executed by making the substitution for all that follows through “seasoned” the first place appearing resulting in making the substitution for “With the approval of the borrower, the Secretary shall provide the prospectus of the seasoned”, to reflect the probable intent of Congress.
 
 Subsec. (f)(4)(B), (C). Pub. L. 104–127, §637(2), added subpar. (B), designated second sentence of par. (4) as subpar. (C), and inserted heading.
 
-1992—Subsec. (a)(2). Pub. L. 102–554, §13, designated existing provisions as subpar. (A), inserted “(other than under subchapter II of this chapter)” after “under this chapter”, and added subpar. (B).
+<b>1992</b>—Subsec. (a)(2). Pub. L. 102–554, §13, designated existing provisions as subpar. (A), inserted “(other than under subchapter II of this chapter)” after “under this chapter”, and added subpar. (B).
 
 Subsec. (f). Pub. L. 102–554, §14, added subsec. (f).
 
 Subsec. (g). Pub. L. 102–554, §15, added subsec. (g).
 
-1990—Subsec. (a)(4). Pub. L. 101–624, §1811, added par. (4).
+<b>1990</b>—Subsec. (a)(4). Pub. L. 101–624, §1811, added par. (4).
 
 Subsec. (c). Pub. L. 101–624, §2388(f), substituted “If” for “In”.
 

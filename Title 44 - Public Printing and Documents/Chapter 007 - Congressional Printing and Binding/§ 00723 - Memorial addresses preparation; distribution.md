@@ -6,7 +6,7 @@ After the final adjournment of each session of Congress, there shall be compiled
 
 &emsp;of the eulogies on deceased Senators there shall be furnished two hundred and fifty copies for each Senator of the State represented by the deceased and twenty copies for each Representative from that State;
 
-&emsp;of the eulogies on a deceased Representative and Resident Commissioner two hundred and fifty copies for his successor in office; twentycopies for each of the other Representatives, or Resident Commissioner of the State, or insular possession represented by the deceased; and twenty copies for each Senator from that State.
+&emsp;of the eulogies on a deceased Representative and Resident Commissioner two hundred and fifty copies for his successor in office; twenty copies for each of the other Representatives, or Resident Commissioner of the State, or insular possession represented by the deceased; and twenty copies for each Senator from that State.
 
 The “usual number” of memorial addresses may not be printed.
 

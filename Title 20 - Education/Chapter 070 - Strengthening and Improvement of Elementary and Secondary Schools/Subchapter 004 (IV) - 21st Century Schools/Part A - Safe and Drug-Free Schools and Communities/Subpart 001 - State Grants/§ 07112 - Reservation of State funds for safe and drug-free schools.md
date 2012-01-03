@@ -60,7 +60,7 @@
 
 #### (1) In general
 
-&emsp;A State educational agency may use not more than 5 percent of the amount madeavailable to the State under section 7111(b) of this title for each fiscal year less the amount reserved under subsection (a) of this section, for activities described in this subsection.
+&emsp;A State educational agency may use not more than 5 percent of the amount made available to the State under section 7111(b) of this title for each fiscal year less the amount reserved under subsection (a) of this section, for activities described in this subsection.
 
 #### (2) Activities
 

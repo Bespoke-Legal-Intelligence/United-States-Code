@@ -4,7 +4,7 @@ For the purposes of this subchapter—
 
 #### (a) Employment
 
-The term “employment” means any service performed after 1936 and prior to 1951 which was employment for the purposes of this subchapter under the law applicable to the period in which such service was performed, and any service, of whatever nature, performed after 1950 (A) by an employee for the person employing him, irrespective of the citizenship or residence of either, (i) within the United States, or (ii) on or in connection with an American vessel or American aircraft under a contract of service which is entered into within the United States or during the performance of which and while the employee is employed on the vessel or aircraft it touches at a port in the United States, if the employee is employed on and in connection with such vessel or aircraft when outside the United States, or (B) outside the United States by a citizen or resident of the United States as an employee (i) of an American employer (as defined in subsection (e) of this section), or (ii) of a foreign affiliate (as defined in section 3121(<i>l</i>)(6) of the Internal Revenue Code of 1986) of an American employer during any period for which there is in effect an agreement, entered into pursuant to section 3121(<i>l</i>) of such Code, with respect to such affiliate, or (C) if it is service, regardless of where or by whom performed, which is designated as employment or recognized as equivalent to employment under an agreement entered into under section 433 of this title; except that, in the case of service performed after 1950, such term shall not include—
+The term “employment” means any service performed after 1936 and prior to 1951 which wasemployment for the purposes of this subchapter under the law applicable to the period in which such service was performed, and any service, of whatever nature, performed after 1950 (A) by an employee for the person employing him, irrespective of the citizenship or residence of either, (i) within the United States, or (ii) on or in connection with an American vessel or American aircraft under a contract of service which is entered into within the United States or during the performance of which and while the employee is employed on the vessel or aircraft it touches at a port in the United States, if the employee is employed on and in connection with such vessel or aircraft when outside the United States, or (B) outside the United States by a citizen or resident of the United States as an employee (i) of an American employer (as defined in subsection (e) of this section), or (ii) of a foreign affiliate (as defined in section 3121(<i>l</i>)(6) of the Internal Revenue Code of 1986) of an American employer during any period for which there is in effect an agreement, entered into pursuant to section 3121(<i>l</i>) of such Code, with respect to such affiliate, or (C) if it is service, regardless of where or by whom performed, which is designated as employment or recognized as equivalent to employment under an agreement entered into under section 433 of this title; except that, in the case of service performed after 1950, such term shall not include—
 
 &emsp;(1) Service performed by foreign agricultural workers lawfully admitted to the United States from the Bahamas, Jamaica, and the other British West Indies, or from any other foreign country or possession thereof, on a temporary basis to perform agricultural labor;
 
@@ -38,7 +38,7 @@ The term “employment” means any service performed after 1936 and prior to 19
 
 &emsp;&emsp;&emsp;&emsp;(IV) if an individual performing service described in subparagraph (A) returns to the performance of such service after performing service as a member of a uniformed service (including, for purposes of this clause, service in the National Guard and temporary service in the Coast Guard Reserve) and after exercising restoration or reemployment rights as provided under chapter 43 of title 38, then the service so performed as a member of a uniformed service shall be considered service described in subparagraph (A), and
 
-&emsp;&emsp;&emsp;&emsp;(V) if an individual performing service described in subparagraph (A) returns to the performance of such service after employment (by a tribal organization) to which section 450i(e)(2) of title 25 applies, then the service performed for that tribal organization shall be considered service described in subparagraph (A); or
+&emsp;&emsp;&emsp;&emsp;(V) if an individual performing service described in subparagraph (A) returns to the performance of such service after employment (by a tribal organization) towhich section 450i(e)(2) of title 25 applies, then the service performed for that tribal organization shall be considered service described in subparagraph (A); or
 
 &emsp;&emsp;&emsp;(ii) is receiving an annuity from the Civil Service Retirement and Disability Fund, or benefits (for service as an employee) under another retirement system established by a law of the United States for employees of the Federal Government (other than for members of the uniformed services);
 
@@ -130,7 +130,7 @@ The term “employment” means any service performed after 1936 and prior to 19
 
 &emsp;&emsp;(A) a school, college, or university, or
 
-&emsp;&emsp;(B) an organization described in section 509(a)(3) of the Internal Revenue Code of 1986 if the organization is organized, and at all times thereafter is operated, exclusively for the benefit of, to perform the functions of, or to carry out the purposes of a school, college, or university and is operated, supervised, or controlled by or in connection with such school, college, or university, unless it is a school, college, or university of a State or a political subdivision thereof and the services in its employ performed by a student referred to in section 418(c)(5) of this title are covered under the agreement between the Commissioner of Social Security and such State entered into pursuant to section 418 of this title;
+&emsp;&emsp;(B) an organization described in section 509(a)(3) of the Internal Revenue Code of 1986 if the organization is organized, and at alltimes thereafter is operated, exclusively for the benefit of, to perform the functions of, or to carry out the purposes of a school, college, or university and is operated, supervised, or controlled by or in connection with such school, college, or university, unless it is a school, college, or university of a State or a political subdivision thereof and the services in its employ performed by a student referred to in section 418(c)(5) of this title are covered under the agreement between the Commissioner of Social Security and such State entered into pursuant to section 418 of this title;
 
 > &emsp;if such service is performed by a student who is enrolled and regularly attending classes at such school, college, or university;
 
@@ -286,7 +286,7 @@ The term “employee” means—
 
 &emsp;(D) prior to such acquisition rendered service in employment in connection with the operation of such part of the transportation system acquired by the State or political subdivision,
 
-> the service of such employee in connection with the operation of the transportation system shall constitute covered transportation service, commencing with the first day of the third calendar quarter following the calendar quarter in which the acquisition of such part took place, unless on such first day such service of such employee is covered by a general retirement system which does not, with respect to such employee, contain special provisions applicable only to employees described in subparagraph (C) of this paragraph.
+> the service of such employee in connection with the operation of the transportation system shall constitute covered transportation service, commencing with the first day of the third calendar quarter following the calendar quarter in which the acquisition of such part took place, unless on such first day such service of such employeeis covered by a general retirement system which does not, with respect to such employee, contain special provisions applicable only to employees described in subparagraph (C) of this paragraph.
 
 (3) All service performed in the employ of a State or political subdivision thereof in connection with its operation of a public transportation system shall constitute covered transportation service if the transportation system was not operated by the State or political subdivision prior to 1951 and, at the time of its first acquisition (after 1950) from private ownership of any part of its transportation system, the State or political subdivision did not have a general retirement system covering substantially all service performed in connection with the operation of the transportation system.
 
@@ -312,7 +312,7 @@ The term “employee” means—
 
 (4)(A) Paragraph (1) of this subsection shall not apply in the case of any service, performed by an individual as a member of a uniformed service, which is creditable under section 231b(i) of title 45. The Railroad Retirement Board shall notify the Commissioner of Social Security,<sup>3</sup> with respect to all such service which is so creditable.
 
-(B) In any case where benefits under this subchapter are already payable on the basis of such individual's wages and self-employment income at the time such notification (with respect to such individual) is received by the Commissioner of Social Security, the Commissioner of Social Security shall certify no further benefits for payment under this subchapter on the basis of such individual's wages and self-employment income, or shall recompute the amount of any further benefits payable on the basis of such wages and self-employment income, as may be required as a consequence of subparagraph (A) ofthis paragraph. No payment of a benefit to any person on the basis of such individual's wages and self-employment income, certified by the Commissioner of Social Security prior to the end of the month in which the Commissioner receives such notification from the Railroad Retirement Board, shall be deemed by reason of this subparagraph to have been an erroneous payment or a payment to which such person was not entitled. The Commissioner of Social Security shall, as soon as possible after the receipt of such notification from the Railroad Retirement Board, advise such Board whether or not any such benefit will be reduced or terminated by reason of subparagraph (A) of this paragraph, and if any such benefit will be so reduced or terminated, specify the first month with respect to which such reduction or termination will be effective.
+(B) In any case where benefits under this subchapter are already payable on the basis of such individual's wages and self-employment income at the time such notification (with respect to such individual) is received by the Commissioner of Social Security, the Commissioner of Social Security shall certify no further benefits for payment under this subchapter on the basis of such individual's wages and self-employment income, or shall recompute the amount of any further benefits payable on the basis of such wages and self-employment income, as may be required as a consequence of subparagraph (A) of this paragraph. No payment of a benefit to any person on the basis of such individual's wages and self-employment income, certified by the Commissioner of Social Security prior to the end of the month in which the Commissioner receives such notification from the Railroad Retirement Board, shall be deemed by reason of this subparagraph to have been an erroneous payment or a payment to which such person was not entitled. The Commissioner of Social Security shall, as soon as possible after the receipt of such notification from the Railroad Retirement Board, advise such Board whether or not any such benefit will be reduced or terminated by reason of subparagraph (A) of this paragraph, and if any such benefit will be so reduced or terminated, specify the first month with respect to which such reduction or termination will be effective.
 
 #### (m) Member of a uniformed service
 
@@ -412,7 +412,7 @@ The Internal Revenue Code of 1986, referred to in text, is classified to Title 2
 
 The Civil Service Retirement and Disability Fund, referred to in subsec. (a)(5)(B)(ii), (G), is provided for in section 8348 of Title 5, Government Organization and Employees.
 
-Section 301 of the Federal Employees’ Retirement System Act of 1986, referred to in subsec. (a)(5)(H)(i), issection 301 of Pub. L. 99–335, which is set out as a note under section 8331 of Title 5.
+Section 301 of the Federal Employees’ Retirement System Act of 1986, referred to in subsec. (a)(5)(H)(i), is section 301 of Pub. L. 99–335, which is set out as a note under section 8331 of Title 5.
 
 The Federal Employees’ Retirement System Open Enrollment Act of 1997, referred to in subsec. (a)(5)(H)(i), is section 642 of Pub. L. 105–61, title VI, Oct. 10, 1997, 111 Stat. 1318, which amended this section and section 3121 of Title 26, Internal Revenue Code, and enacted provisions set out as a note under section 8331 of Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Tables.
 
@@ -648,7 +648,7 @@ Pub. L. 86–624 struck out “Hawaii,” before “the District of Columbia.”
 
 Subsecs. (j) to (<i>o</i>). Pub. L. 86–778, §103(j)(2)(A), (B), repealed subsec. (j) and redesignated subsecs. (<i>l</i>) to (<i>o</i>) as (k) to (n), respectively.
 
-<b>1959</b>—Subsec. (a)(6)(B)(ii). Pub. L. 86–168 substituted “Federal land bank association” for “national farm loan association”, and included service in the employof Federal land banks, Federal intermediate credit banks and banks for cooperatives.
+<b>1959</b>—Subsec. (a)(6)(B)(ii). Pub. L. 86–168 substituted “Federal land bank association” for “national farm loan association”, and included service in the employ of Federal land banks, Federal intermediate credit banks and banks for cooperatives.
 
 Subsecs. (h), (i). Pub. L. 86–70 struck out “Alaska,” before “Hawaii”.
 
@@ -746,7 +746,7 @@ Amendment by section 1001(d)(2)(E) of Pub. L. 100–647 effective, except as oth
 
 Amendment by section 8015(b)(1) of Pub. L. 100–647 applicable as if such amendment had been included or reflected in section 304 of Federal Employees’ Retirement System Act of 1986, Pub. L. 99–335, at the time of its enactment (June 6, 1986), see section 8015(b)(3) of Pub. L. 100–647, set out as a note under section 3121 of Title 26.
 
-Amendment by section 8015(c)(1) of Pub. L. 100–647 applicable to any individual only upon the performance by such individual of service described in subpar. (C), (D), (E), (F), (G), or (H) of subsec. (a)(5) of this section on or after Nov. 10, 1988, see section 8015(c)(3) of Pub. L. 100–647, set out as a note under section 3121 of Title 26.
+Amendment by section 8015(c)(1) of Pub. L. 100–647 applicable to any individual only upon the performanceby such individual of service described in subpar. (C), (D), (E), (F), (G), or (H) of subsec. (a)(5) of this section on or after Nov. 10, 1988, see section 8015(c)(3) of Pub. L. 100–647, set out as a note under section 3121 of Title 26.
 
 Amendment by section 8016(a)(4)(B), (C) of Pub. L. 100–647 effective Nov. 10, 1988, except that any amendment to a provision of a particular Public Law which is referred to by its number, or to a provision of the Social Security Act \[42 U.S.C. 301 et seq.\], or to Title 26, as added or amended by a provision of a particular Public Law which is so referred to, effective as though included or reflected in the relevant provisions of that Public Law at the time of its enactment, see section 8016(b) of Pub. L. 100–647, set out as a note under section 3111 of Title 26.
 
@@ -792,7 +792,7 @@ Amendment by section 2663(a)(7), (j)(3)(A)(i) of Pub. L. 98–369 effective July
 
 #### Effective Date of 1983 Amendment
 
-Amendment by section 101(a) of Pub. L. 98–21 effective with respect to service performed after Dec. 31,1983, see section 101(d) of Pub. L. 98–21, as amended, set out as a note under section 3121 of Title 26, Internal Revenue Code.
+Amendment by section 101(a) of Pub. L. 98–21 effective with respect to service performed after Dec. 31, 1983, see section 101(d) of Pub. L. 98–21, as amended, set out as a note under section 3121 of Title 26, Internal Revenue Code.
 
 Amendment by section 102(a) of Pub. L. 98–21 effective with respect to service performed after Dec. 31, 1983, see section 102(c) of Pub. L. 98–21, set out as a note under section 3121 of Title 26.
 
@@ -854,7 +854,7 @@ Amendment by section 103(d) of Pub. L. 86–778 applicable only with respect to 
 
 Amendment by section 103(e), (f) of Pub. L. 86–778 applicable only with respect to service performed after 1960, except that insofar as the carrying on of a trade or business (other than performance of service as an employee) is concerned, the amendment shall be applicable only in the case of taxable years beginning after 1960, see section 103(v)(1), (3) of Pub. L. 86–778, set out as a note under section 402 of this title.
 
-Amendment by section 103(j)(2)(A), (B) of Pub. L. 86–778 effective Sept. 13, 1960, see section 103(v)(1), (3) ofPub. L. 86–778, set out as a note under section 402 of this title.
+Amendment by section 103(j)(2)(A), (B) of Pub. L. 86–778 effective Sept. 13, 1960, see section 103(v)(1), (3) of Pub. L. 86–778, set out as a note under section 402 of this title.
 
 Section 104(c) of Pub. L. 86–778 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 3121 of Title 26, Internal Revenue Code\] shall apply only with respect to services performed after 1960.”
 
@@ -920,7 +920,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, set out as a note under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 #### Federal Legislative Branch Employees Who Contribute Reduced Amounts by Reason of the Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983
 
@@ -966,7 +966,7 @@ Section 125(a) of Pub. L. 92–603, as amended by Pub. L. 99–514, §2, Oct. 22
 
 &emsp;“(1) with respect to all service performed in the employ of a Federal home loan bank on and after the first day of the first calendar quarter which begins on or after the date of the enactment of this Act \[Oct. 30, 1972\]; and
 
-&emsp;“(2) in the case of individuals who are in the employ of a Federal home loan bank on such first day, with respect to any service performed in the employ of a Federal home loan bank after the last day of thesixth calendar year preceding the year in which this Act is enacted \[1972\]; but this paragraph shall be effective only if an amount equal to the taxes imposed by sections 3101 and 3111 of such Code \[sections 3101 and 3111 of Title 26, Internal Revenue Code\] with respect to the services of all such individuals performed in the employ of Federal home loan banks after the last day of the sixth calendar year preceding the year in which this Act is enacted \[1972\] are paid under the provisions of section 3122 of such Code \[section 3122 of Title 26\] by July 1, 1973, or by such later date as may be provided in an agreement entered into before such date with the Secretary of the Treasury or his delegate for purposes of this paragraph.”
+&emsp;“(2) in the case of individuals who are in the employ of a Federal home loan bank on such first day, with respect to any service performed in the employ of a Federal home loan bank after the last day of the sixth calendar year preceding the year in which this Act is enacted \[1972\]; but this paragraph shall be effective only if an amount equal to the taxes imposed by sections 3101 and 3111 of such Code \[sections 3101 and 3111 of Title 26, Internal Revenue Code\] with respect to the services of all such individuals performed in the employ of Federal home loan banks after the last day of the sixth calendar year preceding the year in which this Act is enacted \[1972\] are paid under the provisions of section 3122 of such Code \[section 3122 of Title 26\] by July 1, 1973, or by such later date as may be provided in an agreement entered into before such date with the Secretary of the Treasury or his delegate for purposes of this paragraph.”
 
 #### Covered Employment Not Counted Under Other Federal Retirement Systems
 

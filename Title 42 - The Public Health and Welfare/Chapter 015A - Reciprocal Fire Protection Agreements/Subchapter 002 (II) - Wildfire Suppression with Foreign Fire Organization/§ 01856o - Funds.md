@@ -1,6 +1,14 @@
 ### §1856<i>o</i>. Funds
 
-Funds available to the Secretary of Agriculture or the Secretary of the Interior for wildfire protection resources in connection with activities under the jurisdiction of such Secretary may be used to carry out activities authorized under agreements or otherwise under this subchapter, or for reimbursements authorized under section 1856n(c) of this title: <i>Provided</i>, That no such funds may be expended for wildfire protection resources or personnel provided by a foreign fire organization unless the Secretary determines that no wildfire protection resources or personnel within the United States are reasonably available to provide wildfire protection.
+Funds available to the Secretary of Agriculture or the Secretary of the Interior for wildfire protection resources in connection with activities under the jurisdiction of such Secretary may be used to carry out activities authorized under agreements or otherwise under this subchapter, or for reimbursements authorized under this subchapter: <i>Provided</i>, That no such funds may be expended for wildfire protection resources (including personnel) provided by a foreign fire organization for wildfire suppression activities unless the Secretary determines that no wildfire protection resources (including personnel) within the United States are reasonably available to provide wildfire suppression.
 
-(Pub. L. 100–428, §4, Sept. 9, 1988, 102 Stat. 1616.)
+(Pub. L. 100–428, §5, formerly §4, Sept. 9, 1988, 102 Stat. 1616; renumbered §5 and amended Pub. L. 112–74, div. E, title IV, §411(4), (6), Dec. 23, 2011, 125 Stat. 1040, 1041.)
+
+#### Prior Provisions
+
+A prior section 5 of Pub. L. 100–428 was classified to section 1856p of this title prior to repeal by Pub. L. 101–11.
+
+#### Amendments
+
+<b>2011</b>—Pub. L. 112–74, §411(6), substituted “under this subchapter” for “under section 1856n(c) of this title”, “wildfire protection resources (including personnel)” for “wildfire protection resources or personnel” in two places, and “provide wildfire suppression” for “provide wildfire protection” and inserted “for wildfire suppression activities” before “unless”.
 

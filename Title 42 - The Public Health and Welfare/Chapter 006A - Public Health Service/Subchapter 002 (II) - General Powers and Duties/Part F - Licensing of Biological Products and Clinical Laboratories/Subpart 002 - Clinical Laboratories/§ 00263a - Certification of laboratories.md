@@ -70,7 +70,7 @@ No person may solicit or accept materials derived from the human body for labora
 
 #### (B) Changes
 
-&emsp;&emsp;If a laboratory makes changes in the examinations and other procedures performed by it only with respect to examinations and procedures which are described in paragraph (3), the laboratory shall report such changesto the Secretary not later than 6 months after the change has been put into effect. If a laboratory proposes to make changes in the examinations and procedures performed by it such that the laboratory will perform an examination or procedure not described in paragraph (3), the laboratory shall report such change to the Secretary before the change takes effect.
+&emsp;&emsp;If a laboratory makes changes in the examinations and other procedures performed by it only with respect to examinations and procedures which are described in paragraph (3), the laboratory shall report such changes to the Secretary not later than 6 months after the change has been put into effect. If a laboratory proposes to make changes in the examinations and procedures performed by it such that the laboratory will perform an examination or procedure not described in paragraph (3), the laboratory shall report such change to the Secretary before the change takes effect.
 
 #### (C) Effect
 
@@ -228,7 +228,7 @@ No person may solicit or accept materials derived from the human body for labora
 
 &emsp;&emsp;&emsp;(vii) requirements for the retention of cytology slides by laboratories for such periods of time as the Secretary considers appropriate, and
 
-&emsp;&emsp;&emsp;(viii) standards requiring periodic inspection of cytology services by persons capable of evaluating the quality of cytology services.
+&emsp;&emsp;&emsp;(viii) standards requiring periodic inspection of cytology services by personscapable of evaluating the quality of cytology services.
 
 #### (g) Inspections
 
@@ -260,7 +260,7 @@ No person may solicit or accept materials derived from the human body for labora
 
 #### (3) Procedures
 
-&emsp;The Secretary shall develop and implement procedures with respect to when and how each of the intermediate sanctions is to be imposed under paragraph (1). Such procedures shallprovide for notice to the laboratory and a reasonable opportunity to respond to the proposed sanction and appropriate procedures for appealing determinations relating to the imposition of intermediate sanctions <sup>4</sup>
+&emsp;The Secretary shall develop and implement procedures with respect to when and how each of the intermediate sanctions is to be imposed under paragraph (1). Such procedures shall provide for notice to the laboratory and a reasonable opportunity to respond to the proposed sanction and appropriate procedures for appealing determinations relating to the imposition of intermediate sanctions <sup>4</sup>
 
 #### (i) Suspension, revocation, and limitation
 
@@ -318,7 +318,7 @@ Whenever the Secretary has reason to believe that continuation of any activity b
 
 #### (2) Additional evidence
 
-&emsp;If the petitioner applies to the court for leave to adduce additional evidence, and shows to the satisfaction of the court that such additional evidence is material and that there were reasonable grounds for the failure to adduce such evidence in the proceeding before the Secretary, the court may order such additional evidence (and evidence in rebuttal of such additional evidence) to be taken before the Secretary, and to be adduced upon the hearing in such manner and upon such termsand conditions as the court may deem proper. The Secretary may modify the findings of the Secretary as to the facts, or make new findings, by reason of the additional evidence so taken, and the Secretary shall file such modified or new findings, and the recommendations of the Secretary, if any, for the modification or setting aside of his original action, with the return of such additional evidence.
+&emsp;If the petitioner applies to the court for leave to adduce additional evidence, and shows to the satisfaction of the court that such additional evidence is material and that there were reasonable grounds for the failure to adduce such evidence in the proceeding before the Secretary, the court may order such additional evidence (and evidence in rebuttal of such additional evidence) to be taken before the Secretary, and to be adduced upon the hearing in such manner and upon such terms and conditions as the court may deem proper. The Secretary may modify the findings of the Secretary as to the facts, or make new findings, by reason of the additional evidence so taken, and the Secretary shall file such modified or new findings, and the recommendations of the Secretary, if any, for the modification or setting aside of his original action, with the return of such additional evidence.
 
 #### (3) Judgment of court
 
@@ -388,7 +388,7 @@ In carrying out this section, the Secretary may, pursuant to agreement, use the 
 
 (1) Except as provided in paragraph (2), nothing in this section shall be construed as affecting the power of any State to enact and enforce laws relating to the matters covered by this section to the extent that such laws are not inconsistent with this section or with the regulations issued under this section.
 
-(2) If a State enacts laws relating to matters covered by this section which provide for requirements equal to or more stringent than therequirements of this section or than the regulations issued under this section, the Secretary may exempt clinical laboratories in that State from compliance with this section.
+(2) If a State enacts laws relating to matters covered by this section which provide for requirements equal to or more stringent than the requirements of this section or than the regulations issued under this section, the Secretary may exempt clinical laboratories in that State from compliance with this section.
 
 #### (q) Consultations
 
@@ -422,7 +422,7 @@ Amendment by Pub. L. 105–115 effective 90 days after Nov. 21, 1997, except as 
 
 #### Effective Date of 1988 Amendment; Exceptions; Continuing Applicability
 
-Section 3 of Pub. L. 100–578 provided that: “Subsections (g)(1), (h), (i), (j), (k), (<i>l</i>), and (m) of section 353 of the Public Health Service Act \[this section\], as amended by section 101 \[probably means section 2 of Pub. L. 100–578\], shall take effect January 1, 1989, except that any reference in such subsections to the standards established under subsection (f) shall be considered a reference to the standards established under subsection (d) of such section 353, as in effect on December 31, 1988. During the period beginning January 1, 1989, and ending December 31, 1989, subsections (a) through (d) and subsection (i) through (<i>l</i>) of such section 353 as in effect on December 31, 1988, shall continue to apply to clinical laboratories. The remaining subsections of such section 353, as so amended, shall take effect January 1, 1990, except that subsections (f)(1)(C) and (g)(2) shall take effect July 1, 1991, with respect to laboratories which were not subject to the requirements of such section 353 as in effect on December 31, 1988.”
+Section 3 of Pub. L. 100–578 provided that: “Subsections (g)(1), (h), (i), (j), (k), (<i>l</i>), and (m) of section 353 of the Public Health Service Act \[this section\], as amended by section 101 \[probably means section 2 of Pub. L. 100–578\], shall take effect January 1, 1989, except that any reference in such subsections to the standards established under subsection (f) shall be considered a reference to the standards established under subsection (d) of such section 353, as in effect on December 31, 1988. During the period beginning January 1, 1989, and ending December 31, 1989, subsections (a) through (d) and subsection (i) through (<i>l</i>) of such section 353 as in effect on December 31, 1988, shall continueto apply to clinical laboratories. The remaining subsections of such section 353, as so amended, shall take effect January 1, 1990, except that subsections (f)(1)(C) and (g)(2) shall take effect July 1, 1991, with respect to laboratories which were not subject to the requirements of such section 353 as in effect on December 31, 1988.”
 
 #### Effective Date
 

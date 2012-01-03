@@ -68,7 +68,7 @@
 
 &emsp;&emsp;&emsp;(ii) the sum of—
 
-&emsp;&emsp;&emsp;&emsp;(I) the amount the qualifying State was allotted under paragraph (2) for fiscal year 2006 (as such paragraph was ineffect on the day before August 12, 2006); and
+&emsp;&emsp;&emsp;&emsp;(I) the amount the qualifying State was allotted under paragraph (2) for fiscal year 2006 (as such paragraph was in effect on the day before August 12, 2006); and
 
 &emsp;&emsp;&emsp;&emsp;(II) the product of—
 
@@ -152,7 +152,7 @@ If the Secretary determines that any amount of any State's allotment under subse
 
 #### (d) Definition of State
 
-For the purpose of this section, the term “State” means each of the several States of theUnited States, the District of Columbia, the Commonwealth of Puerto Rico, and the United States Virgin Islands.
+For the purpose of this section, the term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and the United States Virgin Islands.
 
 (Pub. L. 88–210, title I, §111, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 691.)
 

@@ -6,5 +6,5 @@ There are authorized to be appropriated such sums as may be necessary for each o
 
 #### Amendments
 
-1996—Pub. L. 104–127 substituted “1997” for “1996”.
+<b>1996</b>—Pub. L. 104–127 substituted “1997” for “1996”.
 

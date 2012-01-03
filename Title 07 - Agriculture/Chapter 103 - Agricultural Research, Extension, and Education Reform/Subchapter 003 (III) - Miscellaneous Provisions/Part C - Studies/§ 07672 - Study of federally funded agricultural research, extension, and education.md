@@ -2,7 +2,7 @@
 
 #### (a) Study
 
-Not later than January 1, 1999, the Secretary of Agriculture shall request the National Academy of Sciences to conduct a study of the role and mission of federally funded agricultural research, extension, and education.
+Not later than January 1, 1999, the Secretary of Agriculture shall request the National Academy of Sciences to conduct a study of the roleand mission of federally funded agricultural research, extension, and education.
 
 #### (b) Requirements
 

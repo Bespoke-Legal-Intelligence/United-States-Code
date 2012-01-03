@@ -36,6 +36,10 @@ In subsection (a), the text of 41:10b–2(b) is omitted as unnecessary.
 
 Provisions similar to those in this section and section 8305 of this title were contained in the following acts:
 
+Pub. L. 112–74, div. A, title VIII, §8027, Dec. 23, 2011, 125 Stat. 811.
+
+Pub. L. 112–10, div. A, title VIII, §8028, Apr. 15, 2011, 125 Stat. 63.
+
 Pub. L. 111–118, div. A, title VIII, §8030, Dec. 19, 2009, 123 Stat. 3435.
 
 Pub. L. 110–329, div. C, title VIII, §8030, Sept. 30, 2008, 122 Stat. 3627.

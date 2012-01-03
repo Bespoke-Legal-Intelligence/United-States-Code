@@ -36,7 +36,7 @@ Section 10503, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1360, related to railro
 
 Section 10504, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1360; Pub. L. 97–449, §4(b)(4), Jan. 12, 1983, 96 Stat. 2441; Pub. L. 103–272, §4(j)(16), July 5, 1994, 108 Stat. 1369, related to jurisdiction of Commission over mass transportation provided by local governments. See section 10501 of this title.
 
-Section 10505, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1361; Pub. L. 96–448, title II, §213, Oct. 14, 1980, 94 Stat.1912; Pub. L. 103–311, title II, §205(a), (c)(1), Aug. 26, 1994, 108 Stat. 1683, 1684, related to authority of Commission to exempt rail carrier and motor carrier transportation. See sections 10502 and 13541 of this title.
+Section 10505, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1361; Pub. L. 96–448, title II, §213, Oct. 14, 1980, 94 Stat. 1912; Pub. L. 103–311, title II, §205(a), (c)(1), Aug. 26, 1994, 108 Stat. 1683, 1684, related to authority of Commission to exempt rail carrier and motor carrier transportation. See sections 10502 and 13541 of this title.
 
 Section 10521, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1361; Pub. L. 96–296, §31(b), July 1, 1980, 94 Stat. 824; Pub. L. 97–261, §6(f), Sept. 20, 1982, 96 Stat. 1107; Pub. L. 99–521, §6(a), Oct. 22, 1986, 100 Stat. 2994; Pub. L. 103–305, title VI, §601(b)(2)(C), Aug. 23, 1994, 108 Stat. 1606; Pub. L. 103–311, title II, §211(b)(1), Aug. 26, 1994, 108 Stat. 1689, related to jurisdiction of Commission over motor carrier transportation. See section 13501 of this title.
 

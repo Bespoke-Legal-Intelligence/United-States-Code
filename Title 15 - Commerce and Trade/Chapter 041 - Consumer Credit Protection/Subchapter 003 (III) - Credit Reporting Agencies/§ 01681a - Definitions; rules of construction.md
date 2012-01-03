@@ -36,7 +36,7 @@ Exclusions.—Except as provided in paragraph (3), the term “consumer report�
 
 &emsp;&emsp;(C) any report in which a person who has been requested by a third party to make a specific extension of credit directly or indirectly to a consumer conveys his or her decision with respect to such request, if the third party advises the consumer of the name and address of the person to whom the request was made, and such person makes the disclosures to the consumer required under section 1681m of this title; or
 
-&emsp;&emsp;(D) a communication described in subsection (<i>o</i>) or (x) of this section.
+&emsp;&emsp;(D) a communication described in subsection (<i>o</i>) or (x) <sup>1</sup> of this section.
 
 &emsp;(3)
 
@@ -66,7 +66,7 @@ Medical Information.—The term “medical information”—
 
 &emsp;&emsp;(B) the provision of health care to an individual; or
 
-&emsp;&emsp;(C) the payment for the provision of health care to an individual.<sup>1</sup>
+&emsp;&emsp;(C) the payment for the provision of health care to an individual.<sup>2</sup>
 
 &emsp;(2) does not include the age or gender of a consumer, demographic information about the consumer, including a consumer's residence address or e-mail address, or any other information about a consumer that does not relate to the physical, mental, or behavioral health or condition of a consumer, including the existence or value of any insurance policy.
 
@@ -108,7 +108,7 @@ Actions included.—The term “adverse action”—
 
 &emsp;(2)
 
-Applicable findings, decisions, commentary, and orders.—For purposes of any determination of whether an action is an adverse action under paragraph (1)(A), all appropriate final findings, decisions, commentary, and orders issued under section 1691(d)(6) of this title by the Board of Governors of the Federal Reserve System or any court shall apply.
+Applicable findings, decisions, commentary, and orders.—For purposes of any determination of whether an action is an adverse action under paragraph (1)(A), all appropriate final findings, decisions, commentary, and orders issued under section 1691(d)(6) of this title by the Bureau or any court shall apply.
 
 (<i>l</i>)
 
@@ -170,7 +170,7 @@ Excluded Communications.—A communication is described in this subsection if it
 
 &emsp;&emsp;&emsp;(iii) in the case of consent under clause (i) or (ii) given orally, is provided written confirmation of that consent by the person making the communication, not later than 3 business days after the receipt of the consent by that person;
 
-&emsp;&emsp;(B) the person who makes the communication does not, for the purpose of making the communication, make any inquiry that if made by a prospective employer of the consumer who is the subject of the communication would violate any applicable Federal or State equal employment opportunity law or regulation; and
+&emsp;&emsp;(B) the person who makes the communication does not, for the purpose of making the communication, make any inquiry that ifmade by a prospective employer of the consumer who is the subject of the communication would violate any applicable Federal or State equal employment opportunity law or regulation; and
 
 &emsp;&emsp;(C) the person who makes the communication—
 
@@ -208,21 +208,21 @@ Fraud alert; active duty alert.—The terms “fraud alert” and “active duty
 
 &emsp;(3)
 
-Identity theft.—The term “identity theft” means a fraud committed using the identifying information of another person, subject to such further definition as the Commission may prescribe, by regulation.
+Identity theft.—The term “identity theft” means a fraud committed using the identifying information of another person, subject to such further definition as the Bureau may prescribe, by regulation.
 
 &emsp;(4)
 
-Identity theft report.—The term “identity theft report” has the meaning given that term by rule of the Commission, and means, at a minimum, a report—
+Identity theft report.—The term “identity theft report” has the meaning given that term by rule of the Bureau, and means, at a minimum, a report—
 
 &emsp;&emsp;(A) that alleges an identity theft;
 
-&emsp;&emsp;(B) that is a copy of an official, valid report filed by a consumer with an appropriate Federal, State, or local law enforcement agency, including the United States Postal Inspection Service, or such other government agency deemed appropriate by the Commission; and
+&emsp;&emsp;(B) that is a copy of an official, valid report filed by a consumer with an appropriate Federal, State, or local law enforcement agency, including the United States Postal Inspection Service, or such other government agency deemed appropriate by the Bureau; and
 
 &emsp;&emsp;(C) the filing of which subjects the person filing the report to criminal penalties relating to the filing of false information if, in fact, the information in the report is false.
 
 &emsp;(5)
 
-New credit plan.—The term “new credit plan” means a new account under an open end credit plan (as defined in section 1602(i) of this title) or a new credit transaction not under an open end credit plan.
+New credit plan.—The term “new credit plan” means a new account under an open end credit plan (as defined in section 1602(i) <sup>1</sup> of this title) or a new credit transaction not under an open end credit plan.
 
 (r)
 
@@ -270,9 +270,11 @@ Reseller.—The term “reseller” means a consumer reporting agency that—
 
 (v)
 
-Commission.—The term “Commission” means the Federal Trade Commission.
+Commission.—The term “Commission” means the Bureau.<sup>3</sup>
 
-(w)
+(w) The term “Bureau” means the Bureau of Consumer Financial Protection.
+
+(x)
 
 Nationwide Specialty Consumer Reporting Agency.—The term “nationwide specialty consumer reporting agency” means a consumer reporting agency that compiles and maintains files on consumers on a nationwide basis relating to—
 
@@ -286,7 +288,7 @@ Nationwide Specialty Consumer Reporting Agency.—The term “nationwide special
 
 &emsp;(5) insurance claims.
 
-(x)
+(y)
 
 Exclusion of Certain Communications for Employee Investigations.—
 
@@ -326,29 +328,23 @@ Self-regulatory organization defined.—For purposes of this subsection, the ter
 
 (Pub. L. 90–321, title VI, §603, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1128; amended Pub. L. 102–537, §2(b), Oct. 27, 1992, 106 Stat. 3531; Pub. L. 104–208, div. A, title II, §2402, Sept. 30, 1996, 110 Stat. 3009–426; Pub. L. 105–347, §6(1)–(3), Nov. 2, 1998, 112 Stat. 3211; Pub. L. 108–159, title I, §111, title II, §214(c)(1), title IV, §411(b), (c), title VI, §611, Dec. 4, 2003, 117 Stat. 1954, 1983, 2001, 2010; Pub. L. 111–203, title X, §1088(a)(1), (2)(A), (C), (3), July 21, 2010, 124 Stat. 2086, 2087.)
 
-#### Amendment of Section
-
-<i>Pub. L. 111–203, title X, §§1088(a)(1), (2)(A), (C), (3), 1100H, July 21, 2010, 124 Stat. 2086, 2087, 2113, provided that, effective on the designated transfer date, this section is amended as follows:</i>
-
-<i>(1) by striking “Federal Trade Commission” each place that term appears and inserting “Bureau”;</i>
-
-<i>(2) by striking “the Commission” each place that term appears and inserting “the Bureau”;</i>
-
-<i>(3) in subsection (k)(2), by striking “Board of Governors of the Federal Reserve System” and inserting “Bureau”;</i>
-
-<i>(4) by redesignating subsections (w) and (x) as (x) and (y), respectively; and</i>
-
-<i>(5) by inserting after subsection (v) the following new subsection:</i>
-
-<i>“(w) The term ‘Bureau’ means the Bureau of Consumer Financial Protection.”</i>
-
-<i>See Effective Date of 2010 Amendment note below.</i>
-
 #### References in Text
 
-The Sarbanes-Oxley Act of 2002, referred to in subsec. (x)(3), is Pub. L. 107–204, July 30, 2002, 116 Stat. 745. Title I of the Act is classified principally to subchapter I (§7211 et seq.) of chapter 98 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7201 of this title and Tables.
+Subsection (x) of this section, referred to in subsec. (d)(2)(D), was redesignated subsection (y) of this section by Pub. L. 111–203, title X, §1088(a)(1), July 21, 2010, 124 Stat. 2086.
+
+Section 1602(i) of this title, referred to in subsec. (q)(5), was redesignated section 1602(j) of this title by Pub. L. 111–203, title X, §1100A(1)(A), July 21, 2010, 124 Stat. 2107.
+
+The Sarbanes-Oxley Act of 2002, referred to in subsec. (y)(3), is Pub. L. 107–204, July 30, 2002, 116 Stat. 745. Title I of the Act is classified principally to subchapter I (§7211 et seq.) of chapter 98 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7201 of this title and Tables.
 
 #### Amendments
+
+<b>2010</b>—Subsec. (k)(2). Pub. L. 111–203, §1088(a)(3), substituted “Bureau” for “Board of Governors of the Federal Reserve System”.
+
+Subsec. (q)(3), (4). Pub. L. 111–203, §1088(a)(2)(C), substituted “the Bureau” for “the Commission” wherever appearing.
+
+Subsec. (v). Pub. L. 111–203, §1088(a)(2)(A), substituted “Bureau” for “Federal Trade Commission”.
+
+Subsecs. (w) to (y). Pub. L. 111–203, §1088(a)(1), added subsec. (w) and redesignated former subsecs. (w) and (x) as (x) and (y), respectively.
 
 <b>2003</b>—Subsec. (d)(2). Pub. L. 108–159, §411(b)(1), substituted “Except as provided in paragraph (3), the term” for “The term” in introductory provisions.
 
@@ -370,7 +366,7 @@ Subsec. (<i>o</i>)(1). Pub. L. 105–347, §6(2), substituted “(d)(2)(D)” fo
 
 Subsec. (<i>o</i>)(4). Pub. L. 105–347, §6(3), substituted “and” for “or” at end.
 
-<b>1996</b>—Subsec. (d). Pub. L. 104–208, §2402(e), inserted subsec. heading, designated existing provisions as par. (1) and inserted heading, redesignated cls. (1) to (3) as subpars. (A) to (C), respectively, added par. (2), and struck out at end “The term does not include (A) any report containing information solely as to transactions or experiences between the consumer and the person making the report; (B) any authorization or approval of a specific extension of credit directly or indirectly by the issuer of a credit card or similar device; or (C) any report in which a person who has been requested by a third party to make a specific extension of credit directly or indirectly to a consumer conveys his decision with respect to such request, if the third party advises the consumer of the name and address of the person to whom the request was made and such person makes the disclosures to the consumer required under section 1681m of this title.”
+<b>1996</b>—Subsec. (d). Pub. L. 104–208, §2402(e), inserted subsec. heading, designated existing provisions as par. (1) and inserted heading, redesignated cls. (1) to (3) as subpars. (A) to (C), respectively, added par. (2), and struck out at end “The term does not include (A) any report containing information solely as to transactions or experiences between the consumer and the person making the report; (B) any authorization or approval ofa specific extension of credit directly or indirectly by the issuer of a credit card or similar device; or (C) any report in which a person who has been requested by a third party to make a specific extension of credit directly or indirectly to a consumer conveys his decision with respect to such request, if the third party advises the consumer of the name and address of the person to whom the request was made and such person makes the disclosures to the consumer required under section 1681m of this title.”
 
 Subsec. (k). Pub. L. 104–208, §2402(a), added subsec. (k).
 
@@ -424,5 +420,9 @@ Section 2(d) of Pub. L. 102–537 provided that: “The amendments made by this 
 
 Section 2421 of div. A of Pub. L. 104–208 provided that: “Nothing in this chapter \[chapter 1 (§§2401–2422) of subtitle D of title II of div. A of Pub. L. 104–208, see Short Title of 1996 Amendment note set out under section 1601 of this title\] or the amendments made by this chapter shall be considered to supersede or otherwise affect section 2721 of title 18, United States Code, with respect to motor vehicle records for surveys, marketing, or solicitations.”
 
-<i><sup>1</sup></i><i> So in original. The period probably should be “; and”.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. The period probably should be “; and”.</i>
+
+<i><sup>3</sup></i><i> So in original.</i>
 

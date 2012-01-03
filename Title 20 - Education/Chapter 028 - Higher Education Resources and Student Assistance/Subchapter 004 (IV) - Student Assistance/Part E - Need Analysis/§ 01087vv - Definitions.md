@@ -8,7 +8,7 @@ As used in this part:
 
 (B) Notwithstanding section 1087rr(a) of this title, the Secretary may provide for the use of data from the second preceding tax year when and to the extent necessary to carry out the simplification of applications (including simplification for a subset of applications) used for the estimation and determination of financial aid eligibility. Such simplification may include the sharing of data between the Internal Revenue Service and the Department, pursuant to the consent of the taxpayer.
 
-(2) No portion of any student financial assistance received from any program by an individual, no portion of veterans’ education benefits received by an individual, no portion of a national service educational award or post-service benefit received by an individual under title I of the National and Community Service Act of 1990 (42 U.S.C. 12511 et seq.), no portion of any tax credit taken under section 25A of title 26, and no distribution from any qualified education benefit described in subsection (f)(3) that is not subject to Federal income tax, shall be included as income or assets in the computation of expected family contribution for any program funded in whole or in part under this chapter and part C of subchapter I of chapter 34 of title 42.
+(2) No portion of any student financial assistance received from any program by an individual, no portion of veterans’ education benefits received by an individual, no portion of a national service educational award or post-service benefit received by an individual under title I of the National and Community Service Act of 1990 (42 U.S.C. 12511 et seq.), no portion of any tax credit taken under section 25A of title 26, and no distribution from any qualified education benefit described in subsection (f)(3) that is not subject to Federal income tax, shall be included as income or assets in the computation of expectedfamily contribution for any program funded in whole or in part under this chapter and part C of subchapter I of chapter 34 of title 42.
 
 #### (b) Untaxed income and benefits
 
@@ -102,7 +102,7 @@ As used in this part:
 
 &emsp;&emsp;(H) has been verified during the school year in which the application is submitted as either an unaccompanied youth who is a homeless child or youth (as such terms are defined in section 725 of the McKinney-Vento Homeless Assistance Act \[42 U.S.C. 11434a\]), or as unaccompanied, at risk of homelessness, and self-supporting, by—
 
-&emsp;&emsp;&emsp;(i) a local educational agency homeless liaison, designated pursuant to section 722(g)(1)(J)(ii) of the McKinney-Vento Homeless Assistance Act \[42 U.S.C. 11432(g)(1)(J)(ii)\];
+&emsp;&emsp;&emsp;(i) a local educational agency homeless liaison, designated pursuant to section722(g)(1)(J)(ii) of the McKinney-Vento Homeless Assistance Act \[42 U.S.C. 11432(g)(1)(J)(ii)\];
 
 &emsp;&emsp;&emsp;(ii) the director of a program funded under the Runaway and Homeless Youth Act \[42 U.S.C. 5701 et seq.\] or a designee of the director;
 
@@ -178,11 +178,11 @@ The term “net assets” means the current market value at the time of applicat
 
 #### (i) Current balance
 
-The term “current balance of checking and savings accounts” does not include any fundsover which an individual is barred from exercising discretion and control because of the actions of any State in declaring a bank emergency due to the insolvency of a private deposit insurance fund.
+The term “current balance of checking and savings accounts” does not include any funds over which an individual is barred from exercising discretion and control because of the actions of any State in declaring a bank emergency due to the insolvency of a private deposit insurance fund.
 
 #### (j) Other financial assistance
 
-(1) For purposes of determining a student's eligibility for funds under this subchapter and part C of subchapter I of chapter 34 of title 42, estimated financial assistance not received under this subchapter and part C of subchapter I of chapter 34 of title 42 shall include all scholarships, grants, loans, or other assistance known to the institution at the time the determination of the student's need is made, including national service educational awards or post-service benefits under title I of the National and Community Service Act of 1990 (42 U.S.C. 12511 et seq.), but excluding veterans’ education benefits as defined in subsection (c).
+(1) For purposes of determining a student's eligibility for funds under this subchapter and partC of subchapter I of chapter 34 of title 42, estimated financial assistance not received under this subchapter and part C of subchapter I of chapter 34 of title 42 shall include all scholarships, grants, loans, or other assistance known to the institution at the time the determination of the student's need is made, including national service educational awards or post-service benefits under title I of the National and Community Service Act of 1990 (42 U.S.C. 12511 et seq.), but excluding veterans’ education benefits as defined in subsection (c).
 
 (2) Notwithstanding paragraph (1), a tax credit taken under section 25A of title 26, or a distribution that is not includable in gross income under section 529 of such title, under another prepaid tuition plan offered by a State, or under a Coverdell education savings account under section 530 of such title, shall not be treated as estimated financial assistance for purposes of section 1087kk(3) of this title.
 
@@ -228,7 +228,7 @@ The National and Community Service Act of 1990, referred to in subsecs. (a)(2), 
 
 The Workforce Investment Act of 1998, referred to in subsec. (b)(1)(I), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of this title and Tables.
 
-The Social Security Act, referred to in subsecs. (b)(2)(B) and (e)(5), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A and E of title IV of the Act are classified generally to parts A (§601 et seq.) and E (§670 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (b)(2)(B) and (e)(5), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A and E of title IV of the Act are classified generally to parts A (§601 et seq.) and E (§670 et seq.)of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Section 903 of the Department of Defense Authorization Act, 1981, referred to in subsec. (c)(2)(J), is section 903 of Pub. L. 96–342, which is set out as a note under section 2141 of Title 10, Armed Forces.
 

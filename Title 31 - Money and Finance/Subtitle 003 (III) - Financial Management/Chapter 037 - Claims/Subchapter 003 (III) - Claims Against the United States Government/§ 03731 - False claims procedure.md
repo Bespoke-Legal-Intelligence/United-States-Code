@@ -10,7 +10,7 @@
 
 > whichever occurs last.
 
-(c) If the Government elects to intervene and proceed with an action brought under 3730(b),<sup>1</sup>the Government may file its own complaint or amend the complaint of a person who has brought an action under section 3730(b) to clarify or add detail to the claims in which the Government is intervening and to add any additional claims with respect to which the Government contends it is entitled to relief. For statute of limitations purposes, any such Government pleading shall relate back to the filing date of the complaint of the person who originally brought the action, to the extent that the claim of the Government arises out of the conduct, transactions, or occurrences set forth, or attempted to be set forth, in the prior complaint of that person.
+(c) If the Government elects to intervene and proceed with an action brought under 3730(b),<sup>1</sup> the Government may file its own complaint or amend the complaint of a person who has brought an action under section 3730(b) to clarify or add detail to the claims in which the Government is intervening and to add any additional claims with respect to which the Government contends it is entitled to relief. For statute of limitations purposes, any such Government pleading shall relate back to the filing date of the complaint of the person who originally brought the action, to the extent that the claim of the Government arises out of the conduct, transactions, or occurrences set forth, or attempted to be set forth, in the prior complaint of that person.
 
 (d) In any action brought under section 3730, the United States shall be required to prove all essential elements of the cause of action, including damages, by a preponderance of the evidence.
 

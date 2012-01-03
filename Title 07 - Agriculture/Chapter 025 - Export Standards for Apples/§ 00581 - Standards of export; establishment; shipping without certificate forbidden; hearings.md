@@ -6,7 +6,7 @@ It shall be unlawful for any person to ship or offer for shipment or for any car
 
 #### Amendments
 
-1999—Pub. L. 106–96 struck out “and/or pears” after “any apples” and “or pears” after “such apples”.
+<b>1999</b>—Pub. L. 106–96 struck out “and/or pears” after “any apples” and “or pears” after “such apples”.
 
 #### Short Title
 

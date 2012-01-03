@@ -104,7 +104,7 @@ A prior section 2484 was renumbered section 2483 of this title.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (h)(3) to (5). Pub. L. 110–417 added par. (3), redesignated former pars. (3) and (4) as (4) and (5),respectively, and substituted “paragraph (1), (2), or (3)” for “paragraph (1) or (2)” in par. (4).
+<b>2008</b>—Subsec. (h)(3) to (5). Pub. L. 110–417 added par. (3), redesignated former pars. (3) and (4) as (4) and (5), respectively, and substituted “paragraph (1), (2), or (3)” for “paragraph (1) or (2)” in par. (4).
 
 <b>2006</b>—Pub. L. 109–364, §1071(g)(6), made technical correction to directory language of Pub. L. 108–375, §651(a)(5)(C). See 2004 Amendment notes for subsecs. (a) to (d) below.
 
@@ -196,7 +196,7 @@ Pub. L. 100–180, div. A, title III, §313(b), Dec. 4, 1987, 101 Stat. 1074, re
 
 #### Savings Provision
 
-Pub. L. 104–201, div. A, title III, §342(b), Sept. 23, 1996, 110 Stat. 2489, provided that: “Section 2486(e) \[now 2484(e)\] of title 10, United States Code, as added by subsection (a), shall not affect the terms, conditions, or duration of any contract or other agreement entered into by the Secretary of Defense before the date of the enactment of this Act \[Sept. 23, 1996\] for the procurement of commercial items for resale in commissary stores.”
+Pub. L. 104–201, div. A, title III, §342(b), Sept. 23, 1996, 110 Stat. 2489, provided that: “Section 2486(e) \[now 2484(e)\] of title 10, United States Code, as added by subsection (a), shall not affect the terms, conditions, orduration of any contract or other agreement entered into by the Secretary of Defense before the date of the enactment of this Act \[Sept. 23, 1996\] for the procurement of commercial items for resale in commissary stores.”
 
 #### Test Program of Sale of Certain Items in Commissary Stores
 

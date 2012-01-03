@@ -18,7 +18,7 @@ The regulations under this section shall identify nonessential products that rel
 
 &emsp;&emsp;(B) to be nonessential.
 
-> In determining whether a product is nonessential, the Administrator shall consider thepurpose or intended use of the product, the technological availability of substitutes for such product and for such class I substance, safety, health, and other relevant factors.
+> In determining whether a product is nonessential, the Administrator shall consider the purpose or intended use of the product, the technological availability of substitutes for such product and for such class I substance, safety, health, and other relevant factors.
 
 #### (c) Effective date
 
@@ -26,7 +26,7 @@ Effective 24 months after November 15, 1990, it shall be unlawful for any person
 
 #### (d) Other products
 
-(1) Effective January 1, 1994, it shall be unlawful for any person to sell or distribute, or offer for sale or distribution, in interstate commerce—
+(1) Effective January 1, 1994, it shall be unlawful for any person to sell or distribute, or offerfor sale or distribution, in interstate commerce—
 
 &emsp;(A) any aerosol product or other pressurized dispenser which contains a class II substance; or
 

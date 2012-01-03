@@ -6,7 +6,7 @@ To effectuate the carrying out of the purposes of this subchapter, the Secretary
 
 #### (b) Titles; rank and privileges; appointments of Agricultural Counselors
 
-Officers or employees assigned or appointed to posts abroad under this subchapter shall have the designation of Agricultural Counselor, Agricultural Attache�AE1, or such other titles or designations that shall be agreed to by the Secretary of State and the Secretary of Agriculture, and shall be accorded the same rank and privileges as those of other counselors or attache�AE1s in United States embassies. An Agricultural Counselor shall be appointed in any nation—
+Officers or employees assigned or appointed to posts abroad under this subchapter shall have the designation of Agricultural Counselor, Agricultural Attache�AE1, or such other titles or designations that shall be agreed to by the Secretary of State and the Secretary of Agriculture, and shall be accorded the same rank and privilegesas those of other counselors or attache�AE1s in United States embassies. An Agricultural Counselor shall be appointed in any nation—
 
 &emsp;(1) to which a substantial number of governments with which the United States competes directly for agricultural markets in such nation assign agricultural representatives with the diplomatic status of counselor or its equivalent; or
 
@@ -24,7 +24,7 @@ Upon the request of the Secretary of Agriculture, the Secretary of State shall r
 
 #### (d) Assignment to United States
 
-Any officer or employee appointed and assigned to a post abroad pursuant to this subchapter may, in the discretion of the Secretary of Agriculture, be assigned for duty in the continental United States, without regard to thecivil service laws (and without reduction in grade if an appropriate position at the employee's grade is not available in any agency of the Department of Agriculture), for a period of not more than three years: <i>Provided,</i> That the total number of such employees assigned for duty in the continental United States under this provision shall not exceed fifteen at any one time: <i>Provided further,</i> That this Act shall not increase the number of persons employed at grade GS–16, GS–17, or GS–18.
+Any officer or employee appointed and assigned to a post abroad pursuant to this subchapter may, in the discretion of the Secretary of Agriculture, be assigned for duty in the continental United States, without regard to the civil service laws (and without reduction in grade if an appropriate position at the employee's grade is not available in any agency of the Department of Agriculture), for a period of not more than three years: <i>Provided,</i> That the total number of such employees assigned for duty in the continental United States under this provision shall not exceed fifteen at any one time: <i>Provided further,</i> That this Act shall not increase the number of persons employed at grade GS–16, GS–17, or GS–18.
 
 (Aug. 28, 1954, ch. 1041, title VI, §602(a)–(d), formerly §602(a)–(c), (e), 68 Stat. 908, 909; amended June 28, 1955, ch. 189, §12(c)(13), 69 Stat. 182; Pub. L. 89–106, §4, Aug. 4, 1965, 79 Stat. 431; Pub. L. 94–449, Oct. 1, 1976, 90 Stat. 1500; renumbered §602(a)–(d) and amended Pub. L. 95–501, title III, §301(4), (5), title IV, §401(3), (5), Oct. 21, 1978, 92 Stat. 1688, 1691.)
 
@@ -34,7 +34,7 @@ This Act, referred to in subsec. (d), is act Aug. 28, 1954, ch. 1041, 68 Stat. 8
 
 #### Amendments
 
-1978—Subsec. (a). Pub. L. 95–501, §301(4), substituted “this subchapter” for “this chapter”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–501, §301(4), substituted “this subchapter” for “this chapter”.
 
 Subsec. (b). Pub. L. 95–501, §301(5), inserted provisions relating to appointment of Agricultural Counselors and rank and privileges to be accorded such counselors or other officers or employees assigned abroad.
 
@@ -42,11 +42,11 @@ Subsecs. (d), (e). Pub. L. 95–501, §§301(4), 401(5), redesignated subsec. (e
 
 Subsec. (f). Pub. L. 95–501, §401(3), redesignated subsec. (f), relating to language training for families of officers and employees assigned abroad, as section 606C of act Aug. 28, 1954, which is classified to section 1766b of this title.
 
-1976—Subsec. (f). Pub. L. 94–449 added subsec. (f).
+<b>1976</b>—Subsec. (f). Pub. L. 94–449 added subsec. (f).
 
-1965—Subsec. (e). Pub. L. 89–106 added subsec. (e).
+<b>1965</b>—Subsec. (e). Pub. L. 89–106 added subsec. (e).
 
-1955—Subsec. (a). Act June 28, 1955, repealed provisions authorizing the Secretary of Agriculture to place not more than eight positions in grade 16 and two in grade 17 of the General Schedule of the Classification Act of 1949.
+<b>1955</b>—Subsec. (a). Act June 28, 1955, repealed provisions authorizing the Secretary of Agriculture to place not more than eight positions in grade 16 and two in grade 17 of the General Schedule of the Classification Act of 1949.
 
 #### Effective Date of 1955 Amendment
 

@@ -18,7 +18,7 @@ Not later than six months after June 14, 1980, the State educational agency of a
 
 &emsp;&emsp;(A) the presence of asbestos materials in school buildings of local educational agencies;
 
-&emsp;&emsp;(B) the asbestos detection, containment, or removal activities conducted by local educational agencies (including activities relating to the replacement of the asbestos materials removed from school buildings with other appropriate building materials); and
+&emsp;&emsp;(B) the asbestos detection, containment, or removal activities conducted by localeducational agencies (including activities relating to the replacement of the asbestos materials removed from school buildings with other appropriate building materials); and
 
 &emsp;&emsp;(C) repairs made to restore school buildings to conditions comparable to those existing before the containment or removal activities referred to in subparagraph (B) were undertaken; and
 

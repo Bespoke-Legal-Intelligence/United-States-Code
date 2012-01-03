@@ -10,7 +10,7 @@ Section is from the Legislative Branch Appropriations Act, 1991.
 
 #### Amendments
 
-1994—Pub. L. 103–283 inserted before period at end “, and in the case of each Senator, the allocation made to such Senator from the appropriation for official mail expenses”.
+<b>1994</b>—Pub. L. 103–283 inserted before period at end “, and in the case of each Senator, the allocation made to such Senator from the appropriation for official mail expenses”.
 
 #### Effective Date of 1994 Amendment
 

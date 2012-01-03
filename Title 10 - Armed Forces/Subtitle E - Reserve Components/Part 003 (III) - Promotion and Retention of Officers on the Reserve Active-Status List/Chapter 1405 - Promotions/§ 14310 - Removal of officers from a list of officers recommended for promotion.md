@@ -6,7 +6,7 @@ Removal by President.—The President may remove the name of any officer from a 
 
 (b)
 
-Removal for Withholding of Senate Advice and Consent.—If the Senate does not give its advice and consent to the appointment to the next higher grade of an officer whose name is on a list of officers approved by the President for promotion (except in the case of promotions to a reserve grade to which appointments may be made by the President alone), the name of that officer shall be removed from the list.
+Removal for Withholding of Senate Advice and Consent.—If the Senate does not give its advice and consent to the appointment to thenext higher grade of an officer whose name is on a list of officers approved by the President for promotion (except in the case of promotions to a reserve grade to which appointments may be made by the President alone), the name of that officer shall be removed from the list.
 
 (c)
 

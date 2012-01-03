@@ -14,7 +14,7 @@ Benchmark corporation.—The term “benchmark corporation”, with respect to a
 
 &emsp;(3)
 
-Compensation.—The term “compensation”, for a fiscal year, means the total amount of wages, salary, bonuses, and deferred compensation for the fiscal year, whether paid, earned, or otherwise accruing, as recorded in an employer's cost accounting records for the fiscal year.
+Compensation.—The term “compensation”, for a fiscal year, means the totalamount of wages, salary, bonuses, and deferred compensation for the fiscal year, whether paid, earned, or otherwise accruing, as recorded in an employer's cost accounting records for the fiscal year.
 
 &emsp;(4)
 

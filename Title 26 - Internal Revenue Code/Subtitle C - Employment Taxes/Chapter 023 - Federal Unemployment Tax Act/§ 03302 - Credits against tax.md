@@ -46,7 +46,7 @@ In addition to the credit allowed under subsection (a), a taxpayer may credit ag
 
 &emsp;(B) fulfilled its commitments under an agreement with the Secretary of Labor as described in section 239 of the Trade Act of 1974,
 
-> then, in the case of a taxpayer subject to the unemployment compensation law of such State, the total credits (after applying subsections (a) and (b) and paragraphs (1) and (2) of this section) otherwise allowable under this section for a year during which such State or agency does not enter into or fulfill such an agreement shall be reduced by 71/2 percent of the tax imposed with respect to wages paid by such taxpayer during such year which are attributable to such State.
+> then, in the case of a taxpayer subject to the unemployment compensation law of such State, the total credits (after applying subsections (a) and (b) and paragraphs (1) and (2) of this section) otherwise allowable under this section for a year during which such State or agency does not enter into or fulfill such an agreement shall be reduced by 7½ percent of the tax imposed with respect to wages paid by such taxpayer during such year which are attributable to such State.
 
 #### (d) Definitions and special rules relating to subsection (c)
 
@@ -276,7 +276,7 @@ Subsec. (c)(2). Pub. L. 97–248, §273(a), inserted provision at end that subpa
 
 Subsec. (c)(2)(A). Pub. L. 97–248, §271(c)(3)(A), substituted “5 percent” for “10 percent” in two places.
 
-Subsec. (c)(3). Pub. L. 97–248, §271(c)(3)(B), substituted “71/2 percent” for “15 percent” in provisions following subpar. (B).
+Subsec. (c)(3). Pub. L. 97–248, §271(c)(3)(B), substituted “7½ percent” for “15 percent” in provisions following subpar. (B).
 
 Subsec. (d)(1). Pub. L. 97–248, §271(c)(2)(B), substituted “6 percent” for “3 percent” in par. heading and text.
 

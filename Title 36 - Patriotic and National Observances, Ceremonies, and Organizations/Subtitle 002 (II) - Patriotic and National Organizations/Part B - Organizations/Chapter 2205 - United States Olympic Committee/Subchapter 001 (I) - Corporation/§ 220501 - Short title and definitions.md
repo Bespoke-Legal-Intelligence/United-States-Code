@@ -12,7 +12,7 @@ Definitions.—For purposes of this chapter—
 
 &emsp;(2) “amateur athletic competition” means a contest, game, meet, match, tournament, regatta, or other event in which amateur athletes compete.
 
-&emsp;(3) “amateur sports organization” means a not-for-profit corporation, association, orother group organized in the United States that sponsors or arranges an amateur athletic competition.
+&emsp;(3) “amateur sports organization” means a not-for-profit corporation, association, or other group organized in the United States that sponsors or arranges an amateur athletic competition.
 
 &emsp;(4) “corporation” means the United States Olympic Committee.
 

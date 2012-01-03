@@ -22,5 +22,5 @@ The Farm Security and Rural Investment Act of 2002, referred to in subsec. (b), 
 
 #### Amendments
 
-2002—Subsec. (b). Pub. L. 107–171 substituted “this chapter and title I of the Farm Security and Rural Investment Act of 2002” for “this chapter”.
+<b>2002</b>—Subsec. (b). Pub. L. 107–171 substituted “this chapter and title I of the Farm Security and Rural Investment Act of 2002” for “this chapter”.
 

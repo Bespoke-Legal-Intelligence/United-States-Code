@@ -18,5 +18,5 @@ Section 762, act Mar. 3, 1915, ch. 81, §8, 38 Stat. 928, related to wrongful in
 
 #### Effective Date of Repeal
 
-Repeal effective first day of third month after approval by President \[Aug. 4, 1949\], see section 19 of act Aug. 4, 1949, set out as an Effective Date note preceding chapter 1 of Title 14, Coast Guard.
+Repeal effective first day of third month after approval by President \[Aug. 4, 1949\], see section 19 of actAug. 4, 1949, set out as an Effective Date note preceding chapter 1 of Title 14, Coast Guard.
 

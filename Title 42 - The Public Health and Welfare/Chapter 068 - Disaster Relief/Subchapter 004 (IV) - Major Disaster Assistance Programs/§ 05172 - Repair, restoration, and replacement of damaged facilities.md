@@ -60,7 +60,7 @@
 
 #### (2) Reduced Federal share
 
-&emsp;The President shall promulgate regulations to reduce the Federal share of assistanceunder this section to not less than 25 percent in the case of the repair, restoration, reconstruction, or replacement of any eligible public facility or private nonprofit facility following an event associated with a major disaster—
+&emsp;The President shall promulgate regulations to reduce the Federal share of assistance under this section to not less than 25 percent in the case of the repair, restoration, reconstruction, or replacement of any eligible public facility or private nonprofit facility following an event associated with a major disaster—
 
 &emsp;&emsp;(A) that has been damaged, on more than one occasion within the preceding 10-year period, by the same type of event; and
 
@@ -136,7 +136,7 @@
 
 #### (4) Dissemination of information
 
-&emsp;The President shall disseminate information regarding the reduction in Federal assistanceprovided for by this subsection to State and local governments and the owners and operators of private nonprofit facilities who may be affected by such a reduction.
+&emsp;The President shall disseminate information regarding the reduction in Federal assistance provided for by this subsection to State and local governments and the owners and operators of private nonprofit facilities who may be affected by such a reduction.
 
 #### (e) Eligible cost
 
@@ -174,7 +174,7 @@
 
 #### (ii) Less than floor percentage of estimated cost
 
-&emsp;&emsp;&emsp;In any case in which the actual cost of repairing, restoring, reconstructing, or replacing a facility under this section is less than the floor percentage established under paragraph (3) of the cost estimated under paragraph (1), the State or local government or person receiving assistance under this section shall reimburse the President in the amount of the difference.
+&emsp;&emsp;&emsp;In any case in which the actual cost of repairing, restoring, reconstructing, or replacing a facility under this section is lessthan the floor percentage established under paragraph (3) of the cost estimated under paragraph (1), the State or local government or person receiving assistance under this section shall reimburse the President in the amount of the difference.
 
 #### (C) No effect on appeals process
 
@@ -212,7 +212,7 @@
 
 #### (4) Special rule
 
-&emsp;In any case in which the facility being repaired, restored, reconstructed, or replaced under this section was under construction on the date of the major disaster, the cost of repairing, restoring, reconstructing, or replacing the facility shall include, for the purposes of this section, only those costs that, under the contract for the construction, are the owner'sresponsibility and not the contractor's responsibility.
+&emsp;In any case in which the facility being repaired, restored, reconstructed, or replaced under this section was under construction on the date of the major disaster, the cost of repairing, restoring, reconstructing, or replacing the facility shall include, for the purposes of this section, only those costs that, under the contract for the construction, are the owner's responsibility and not the contractor's responsibility.
 
 (Pub. L. 93–288, title IV, §406, as added Pub. L. 100–707, title I, §106(b), Nov. 23, 1988, 102 Stat. 4699; amended Pub. L. 106–390, title II, §205(a)–(d)(1), (e), Oct. 30, 2000, 114 Stat. 1562–1564, 1566; Pub. L. 109–295, title VI, §689h, Oct. 4, 2006, 120 Stat. 1453; Pub. L. 109–347, title VI, §609, Oct. 13, 2006, 120 Stat. 1942; Pub. L. 111–351, §3(c)(2), Jan. 4, 2011, 124 Stat. 3864.)
 
@@ -276,5 +276,5 @@ Pub. L. 106–390, title II, §205(d)(2), Oct. 30, 2000, 114 Stat. 1566, provide
 
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto,to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

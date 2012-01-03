@@ -64,7 +64,7 @@ The Director shall award grants for the establishment of centers of excellence, 
 
 &emsp;The Director shall—
 
-&emsp;&emsp;(A) establish a program to encourage and make grants available to institutions of higher education that award associate degrees to recruit and train individuals from the fields of science, technology, engineering, and mathematics to mentor students who are described in section 1885a or 1885b of this title in order to assist those students in identifying, qualifying for, and enteringhigher-paying technical jobs in those fields; and
+&emsp;&emsp;(A) establish a program to encourage and make grants available to institutions of higher education that award associate degrees to recruit and train individuals from the fields of science, technology, engineering, and mathematics to mentor students who are described in section 1885a or 1885b of this title in order to assist those students in identifying, qualifying for, and entering higher-paying technical jobs in those fields; and
 
 &emsp;&emsp;(B) make grants available to associate-degree-granting colleges to carry out the program identified in subsection <sup>2</sup> (A).
 
@@ -114,7 +114,7 @@ As used in this section—
 
 Sections 1862h to 1862j of this title, referred to in subsecs. (a) and (f), was in the original “this Act”, meaning Pub. L. 102–476, Oct. 23, 1992, 106 Stat. 2297, known as the Scientific and Advanced-Technology Act of 1992, which enacted this section and sections 1862h and 1862j of this title and amended section 1862 of this title. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under section 1861 of this title and Tables.
 
-The Higher Education Act of 1965, referred to in subsecs. (c)(1)(C) and (d), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Part B of title I of the Act is classified generally to part B (§1011 et seq.) of subchapter I of chapter 28 of Title 20, Education. Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1585, amended title I of the Act generally and part B, which formerly related to articulation agreements, now relates to additional general provisions. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsecs. (c)(1)(C) and (d), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Part B of title I of the Act is classified generally to part B (§1011 et seq.) of subchapter I of chapter 28 of Title 20, Education. Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1585, amended title I of the Act generally and part B, whichformerly related to articulation agreements, now relates to additional general provisions. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 Section 2891(12) of title 20, referred to in subsec. (g)(5), was in the original “section 1471(12) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 2891(12)”, Pub. L. 89–10, and was omitted in the general amendment of that Act by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. For provisions relating to definitions, see section 7801 of Title 20, Education.
 

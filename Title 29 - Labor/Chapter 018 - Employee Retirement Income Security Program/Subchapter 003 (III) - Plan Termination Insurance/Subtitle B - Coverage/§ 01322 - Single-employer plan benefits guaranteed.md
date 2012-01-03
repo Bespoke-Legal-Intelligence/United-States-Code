@@ -16,7 +16,7 @@ Subject to the limitations contained in subsection (b) of this section, the corp
 
 (3) The amount of monthly benefits described in subsection (a) of this section provided by a plan, which are guaranteed under this section with respect to a participant, shall not have an actuarial value which exceeds the actuarial value of a monthly benefit in the form of a life annuity commencing at age 65 equal to the lesser of—
 
-&emsp;(A) his average monthly gross income from his employer during the 5 consecutive calendar year period (or, if less, during the number of calendar years in such period in which he actively participates in the plan) during which his gross income from that employer was greater than during any other such period with that employer determined by dividing 1/12 of the sum of all such gross income by thenumber of such calendar years in which he had such gross income, or
+&emsp;(A) his average monthly gross income from his employer during the 5 consecutive calendar year period (or, if less, during the number of calendar years in such period in which he actively participates in the plan) during which his gross income from that employer was greater than during any other such period with that employer determined by dividing 1/12 of the sum of all such gross income by the number of such calendar years in which he had such gross income, or
 
 &emsp;(B) $750 multiplied by a fraction, the numerator of which is the contribution and benefit base (determined under section 230 of the Social Security Act \[42 U.S.C. 430\]) in effect at the time the plan terminates and the denominator of which is such contribution and benefit base in effect in calendar year 1974.
 
@@ -28,7 +28,7 @@ Subject to the limitations contained in subsection (b) of this section, the corp
 
 &emsp;(i) the term “gross income” means “earned income” within the meaning of section 911(b) of title 26 (determined without regard to any community property laws),
 
-&emsp;(ii) in the case of a participant in a plan under which contributions are made by more than one employer, amounts received as gross income from any employer under that plan shall be aggregated with amounts received from any other employer under that plan during the same period, and
+&emsp;(ii) in the case of a participant in a plan under which contributions are made by more than one employer, amounts received as gross income from any employer under that planshall be aggregated with amounts received from any other employer under that plan during the same period, and
 
 &emsp;(iii) any non-basic benefit shall be disregarded.
 
@@ -64,7 +64,7 @@ Subject to the limitations contained in subsection (b) of this section, the corp
 
 #### (c) Payment by corporation to participants and beneficiaries of recovery percentage of outstanding amount of benefit liabilities
 
-(1) In addition to benefits paid under the preceding provisions of this section with respect toa terminated plan, the corporation shall pay the portion of the amount determined under paragraph (2) which is allocated with respect to each participant under section 1344(a) of this title. Such payment shall be made to such participant or to such participant's beneficiaries (including alternate payees, within the meaning of section 1056(d)(3)(K) of this title).
+(1) In addition to benefits paid under the preceding provisions of this section with respect to a terminated plan, the corporation shall pay the portion of the amount determined under paragraph (2) which is allocated with respect to each participant under section 1344(a) of this title. Such payment shall be made to such participant or to such participant's beneficiaries (including alternate payees, within the meaning of section 1056(d)(3)(K) of this title).
 
 (2) The amount determined under this paragraph is an amount equal to the product derived by multiplying—
 
@@ -84,7 +84,7 @@ In general.—Except as provided in subparagraph (C), the term “recovery ratio
 
 &emsp;(i) the corporation has determined the value of recoveries under section 1362, 1363, or 1364 of this title, and
 
-&emsp;(ii) notices of intent to terminate were provided (or in the case of a termination by the corporation, a notice of determination under section 1342 of this title was issued) during the 5-Federal fiscal year period ending with the third fiscal year preceding the fiscal year in which occurs the date of the notice of intent to terminate (or the notice of determination under section 1342 of this title) with respect to the plan termination for which the recovery ratio is being determined.
+&emsp;(ii) notices of intent to terminate were provided (or in the case of a termination by the corporation, a notice of determination under section 1342 of this title was issued) during the 5-Federal fiscal year period ending with the third fiscal year preceding the fiscal year inwhich occurs the date of the notice of intent to terminate (or the notice of determination under section 1342 of this title) with respect to the plan termination for which the recovery ratio is being determined.
 
 (C) In the case of a terminated plan with respect to which the outstanding amount of benefit liabilities exceeds $20,000,000, for purposes of this section, the term “recovery ratio” means, with respect to the termination of such plan, the ratio of—
 
@@ -130,7 +130,7 @@ If any plan makes an election under section 402(a)(1) of the Pension Protection 
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended.Titles II, and XVI of the Act are classified generally to subchapters II (§401 et seq.) and XVI (§1381 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II, and XVI of the Act are classified generally to subchapters II (§401 et seq.) and XVI (§1381 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Section 402(a)(1) of the Pension Protection Act of 2006, referred to in subsec. (h), is section 402(a)(1) of Pub. L. 109–280, which is set out as a note under section 430 of Title 26, Internal Revenue Code.
 
@@ -152,7 +152,7 @@ Subsec. (g). Pub. L. 109–280, §404(a), which directed amendment of this secti
 
 Subsec. (h). Pub. L. 109–280, §402(g)(2)(A), added subsec. (h).
 
-<b>1994</b>—Subsec. (b)(3). Pub. L. 103–465, §777(a), inserted at end “The maximum guaranteed monthly benefit shall not be reduced solely on account of the age of a participant in the case of a benefit payable by reason of disability that occurred on or before the termination date, if the participant demonstrates to the satisfaction of the corporation that the Social Security Administration has determined that the participant satisfies the definition of disability under title II or XVI of the Social Security Act, and the regulations thereunder. If a benefit payable by reason of disability is converted to an early or normal retirement benefit for reasons other than a change in the health of the participant, such early or normal retirement benefit shall be treated as a continuation of the benefit payable by reason of disability and this subparagraph shall continue to apply.”
+<b>1994</b>—Subsec. (b)(3). Pub. L. 103–465, §777(a), inserted at end “The maximum guaranteed monthly benefitshall not be reduced solely on account of the age of a participant in the case of a benefit payable by reason of disability that occurred on or before the termination date, if the participant demonstrates to the satisfaction of the corporation that the Social Security Administration has determined that the participant satisfies the definition of disability under title II or XVI of the Social Security Act, and the regulations thereunder. If a benefit payable by reason of disability is converted to an early or normal retirement benefit for reasons other than a change in the health of the participant, such early or normal retirement benefit shall be treated as a continuation of the benefit payable by reason of disability and this subparagraph shall continue to apply.”
 
 Subsec. (f). Pub. L. 103–465, §766(c), added subsec. (f).
 

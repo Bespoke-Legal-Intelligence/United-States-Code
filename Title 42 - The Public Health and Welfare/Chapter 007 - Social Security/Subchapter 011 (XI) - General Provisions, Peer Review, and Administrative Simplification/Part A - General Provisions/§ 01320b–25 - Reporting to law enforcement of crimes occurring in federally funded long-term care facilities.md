@@ -72,7 +72,7 @@
 
 &emsp;A long-term care facility may not—
 
-&emsp;&emsp;(A) discharge, demote, suspend, threaten, harass, or deny a promotion or other employment-related benefit to an employee, or in any other manner discriminate against an employee in the terms and conditions of employment because of lawful acts done by the employee; or
+&emsp;&emsp;(A) discharge, demote, suspend, threaten, harass, or deny a promotion or other employment-related benefit to an employee, or in any other manner discriminate against anemployee in the terms and conditions of employment because of lawful acts done by the employee; or
 
 &emsp;&emsp;(B) file a complaint or a report against a nurse or other employee with the appropriate State professional disciplinary agency because of lawful acts done by the nurse or employee,
 
@@ -84,7 +84,7 @@
 
 #### (3) Requirement to post notice
 
-&emsp;Each long-term care facility shall post conspicuously in an appropriate location a sign\(in a form specified by the Secretary) specifying the rights of employees under this section. Such sign shall include a statement that an employee may file a complaint with the Secretary against a long-term care facility that violates the provisions of this subsection and information with respect to the manner of filing such a complaint.
+&emsp;Each long-term care facility shall post conspicuously in an appropriate location a sign (in a form specified by the Secretary) specifying the rights of employees under this section. Such sign shall include a statement that an employee may file a complaint with the Secretary against a long-term care facility that violates the provisions of this subsection and information with respect to the manner of filing such a complaint.
 
 #### (e) Procedure
 

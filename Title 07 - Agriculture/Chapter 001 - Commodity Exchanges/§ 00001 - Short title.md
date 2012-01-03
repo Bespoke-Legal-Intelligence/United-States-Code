@@ -10,7 +10,7 @@ This chapter superseded act Aug. 24, 1921, ch. 86, 42 Stat. 187, known as “The
 
 #### Amendments
 
-1936—Act June 15, 1936, substituted “Commodity Exchange Act” for “The Grain Futures Act”.
+<b>1936</b>—Act June 15, 1936, substituted “Commodity Exchange Act” for “The Grain Futures Act”.
 
 #### Effective Date of 1936 Amendment
 
@@ -24,7 +24,7 @@ Pub. L. 110–234, title XIII, §13001, May 22, 2008, 122 Stat. 1427, and Pub. L
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(5) \[§1(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–365, provided that: “This Act \[H.R. 5660, as enacted by section 1(a)(5) of Pub. L. 106–554, enactingsections 5, 6<i>o</i>–1, 7 to 7a–3, 7b–1, 7b–2, 9c, and 27 to 27f of this title, sections 781 to 784 of Title 11, Bankruptcy, sections 339a, 4421, and 4422 of Title 12, Banks and Banking, and sections 77b–1 and 78c–1 of Title 15, Commerce and Trade, amending sections 1a, 2, 2a, 4, 4a, 6 to 6m, 6p, 7a–2, 7b, 8 to 9a, 10a, 11, 12, 12a to 12c, 13, 13a to 13b, 16, 18 to 21, and 25 of this title, sections 101, 103, 109, and 761 of Title 11, sections 624 and 4402 of Title 12, and sections 77b, 77c, 77<i>l</i>, 77q, 78c, 78f, 78g, 78i, 78j, 78k–1, 78<i>l</i>, 78<i>o</i>, 78<i>o</i>–3, 78p, 78q, 78q–1, 78s, 78t, 78u, 78u–1, 78bb, 78ee, 78ccc, 78<i>lll</i>, 80a–2, 80b–2, and 80b–3 of Title 15, repealing sections 5, 7, 7a, and 12e of this title, and enacting provisions set out as notes under this section, section 2 of this title, and section 78c of Title 15\] may be cited as the ‘Commodity Futures Modernization Act of 2000’.”
+Pub. L. 106–554, §1(a)(5) \[§1(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–365, provided that: “This Act \[H.R. 5660, as enacted by section 1(a)(5) of Pub. L. 106–554, enacting sections 5, 6<i>o</i>–1, 7 to 7a–3, 7b–1, 7b–2, 9c, and 27 to 27f of this title, sections 781 to 784 of Title 11, Bankruptcy,sections 339a, 4421, and 4422 of Title 12, Banks and Banking, and sections 77b–1 and 78c–1 of Title 15, Commerce and Trade, amending sections 1a, 2, 2a, 4, 4a, 6 to 6m, 6p, 7a–2, 7b, 8 to 9a, 10a, 11, 12, 12a to 12c, 13, 13a to 13b, 16, 18 to 21, and 25 of this title, sections 101, 103, 109, and 761 of Title 11, sections 624 and 4402 of Title 12, and sections 77b, 77c, 77<i>l</i>, 77q, 78c, 78f, 78g, 78i, 78j, 78k–1, 78<i>l</i>, 78<i>o</i>, 78<i>o</i>–3, 78p, 78q, 78q–1, 78s, 78t, 78u, 78u–1, 78bb, 78ee, 78ccc, 78<i>lll</i>, 80a–2, 80b–2, and 80b–3 of Title 15, repealing sections 5, 7, 7a, and 12e of this title, and enacting provisions set out as notes under this section, section 2 of this title, and section 78c of Title 15\] may be cited as the ‘Commodity Futures Modernization Act of 2000’.”
 
 Pub. L. 106–554, §1(a)(5) \[title IV, §401\], Dec. 21, 2000, 114 Stat. 2763, 2763A–457, provided that: “This title \[title IV of H.R. 5660, as enacted by section 1(a)(5) of Pub. L. 106–554, enacting sections 27 to 27f of this title\] may be cited as the ‘Legal Certainty for Bank Products Act of 2000’.”
 

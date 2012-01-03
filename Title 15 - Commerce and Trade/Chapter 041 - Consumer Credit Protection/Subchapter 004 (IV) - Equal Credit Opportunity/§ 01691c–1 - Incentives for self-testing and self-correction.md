@@ -4,7 +4,7 @@
 
 #### (1) Conditions for privilege
 
-&emsp;A report or result of a self-test (as that term is defined by regulations of the Board) shall be considered to be privileged under paragraph (2) if a creditor—
+&emsp;A report or result of a self-test (as that term is defined by regulations of the Bureau) shall be considered to be privileged under paragraph (2) if a creditor—
 
 &emsp;&emsp;(A) conducts, or authorizes an independent third party to conduct, a self-test of any aspect of a credit transaction by a creditor, in order to determine the level or effectiveness of compliance with this subchapter by the creditor; and
 
@@ -54,9 +54,9 @@ An applicant, department, or agency that challenges a privilege asserted under t
 
 (Pub. L. 90–321, title VII, §704A, as added Pub. L. 104–208, div. A, title II, §2302(a)(1), Sept. 30, 1996, 110 Stat. 3009–420; amended Pub. L. 111–203, title X, §1085(1), July 21, 2010, 124 Stat. 2083.)
 
-#### Amendment of Section
+#### Amendments
 
-<i>Pub. L. 111–203, title X, §§1085(1), 1100H, July 21, 2010, 124 Stat. 2083, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Board” each place that term appears and inserting “Bureau”. See Effective Date of 2010 Amendment note below.</i>
+<b>2010</b>—Subsec. (a)(1). Pub. L. 111–203 substituted “Bureau” for “Board” in introductory provisions.
 
 #### Effective Date of 2010 Amendment
 

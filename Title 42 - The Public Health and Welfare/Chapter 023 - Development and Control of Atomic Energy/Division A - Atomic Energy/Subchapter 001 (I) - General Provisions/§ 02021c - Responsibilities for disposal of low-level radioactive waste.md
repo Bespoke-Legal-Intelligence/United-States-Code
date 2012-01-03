@@ -54,7 +54,7 @@
 
 #### References in Text
 
-January 15, 1986, referred to in subsec. (b)(3), was in the original “the date of enactment of this Act” and was translated as meaning the date of enactment of Pub. L. 99–240 to reflect the probable intent of Congress.
+January 15, 1986, referred to in subsec. (b)(3), was in the original “the date of enactment of this Act” andwas translated as meaning the date of enactment of Pub. L. 99–240 to reflect the probable intent of Congress.
 
 #### Codification
 

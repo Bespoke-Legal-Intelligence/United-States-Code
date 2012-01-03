@@ -18,7 +18,7 @@ Within 120 days after November 16, 1990, the Secretary shall establish a committ
 
 (3) In the event vacancies shall occur, such vacancies shall be filled by the Secretary in the same manner as the original appointment within 90 days of the occurrence of such vacancy.
 
-(4) Members of the committee established under subsection (a) of this section shall serve without pay, but shall be reimbursed at a rate equal to the daily rate for GS–18 of the General Schedule for each day (including travel time) for which the member is actually engaged in committee business. Each member shall receive travel expenses, including per diem in lieu of subsistence, in accordance with sections 5702 and 5703 of title 5.
+(4) Members of the committee established under subsection (a) of this section shall serve without pay, but shall be reimbursed at a rate equal to the daily rate for GS–18 of the GeneralSchedule for each day (including travel time) for which the member is actually engaged in committee business. Each member shall receive travel expenses, including per diem in lieu of subsistence, in accordance with sections 5702 and 5703 of title 5.
 
 #### (c) Responsibilities
 

@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) the nutritional requirements of section 1758(f) of this title for school lunches; and
 
-&emsp;&emsp;(B) as applicable, the nutritional requirements for school breakfasts under section 4(e)(1) of the Child Nutrition Act of 1966 (42 U.S.C. 1773(e)(1)).
+&emsp;&emsp;(B) as applicable, the nutritional requirements for school breakfasts under section4(e)(1) of the Child Nutrition Act of 1966 (42 U.S.C. 1773(e)(1)).
 
 #### (b) Functions of system
 
@@ -16,7 +16,7 @@
 
 &emsp;Under the system described in subsection (a) of this section, each State educational agency shall—
 
-&emsp;&emsp;(A) require that local food service authorities comply with the nutritional requirements described in subparagraphs (A) and (B) of paragraph (1);
+&emsp;&emsp;(A) require that local food service authorities comply with the nutritional requirements described in subparagraphs (A) and (B) of paragraph (1); <sup>2</sup>
 
 &emsp;&emsp;(B) to the maximum extent practicable, ensure compliance through reasonable audits and supervisory assistance reviews;
 
@@ -238,7 +238,7 @@ A prior section 1769c, act June 4, 1946, ch. 281, §22, as added Nov. 10, 1978, 
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–296, §207(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “There shall be a unified system prescribed and administered by the Secretary for ensuring that local food service authoritiesthat participate in the school lunch program under this chapter comply with the provisions of this chapter. Such system shall be established through the publication of regulations and the provision of an opportunity for public comment, consistent with the provisions of section 553 of title 5.”
+<b>2010</b>—Subsec. (a). Pub. L. 111–296, §207(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “There shall be a unified system prescribed and administered by the Secretary for ensuring that local food service authorities that participate in the school lunch program under this chapter comply with the provisions of this chapter. Such system shall be established through the publication of regulations and the provision of an opportunity for public comment, consistent with the provisions of section 553 of title 5.”
 
 Subsec. (b)(1). Pub. L. 111–296, §207(2), added subpars. (A) to (D) and struck out former subpars. (A) and (B) which read as follows:
 
@@ -248,7 +248,7 @@ Subsec. (b)(1). Pub. L. 111–296, §207(2), added subpars. (A) to (D) and struc
 
 Subsec. (b)(6). Pub. L. 111–296, §304, added par. (6).
 
-Subsec. (d). Pub. L. 111–296, §408, substituted “$10,000,000 for each of fiscal years 2011 through 2015” for “$6,000,000 for each of fiscal years 2004 through 2009”.
+Subsec. (d). Pub. L. 111–296, §408, substituted “$10,000,000 for each of fiscal years 2011 through 2015”for “$6,000,000 for each of fiscal years 2004 through 2009”.
 
 Subsec. (e). Pub. L. 111–296, §303, added subsec. (e).
 
@@ -285,4 +285,6 @@ Section 110(b) of Pub. L. 101–147 provided that: “Not later than July 1, 199
 Pub. L. 108–265, title I, §126(b)(2), June 30, 2004, 118 Stat. 765, provided that: “Nothing in the amendment made by paragraph (1) \[amending this section\] affects the requirements for fiscal actions as described in the regulations issued pursuant to section 22(a) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1769c(a)).”
 
 <i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably means subpars. (A) and (B) of par. (1) of subsec. (a).</i>
 

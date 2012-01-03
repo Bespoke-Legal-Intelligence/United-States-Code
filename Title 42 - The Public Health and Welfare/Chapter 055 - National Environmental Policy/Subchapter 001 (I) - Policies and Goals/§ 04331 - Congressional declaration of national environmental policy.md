@@ -10,7 +10,7 @@
 
 &emsp;(3) attain the widest range of beneficial uses of the environment without degradation, risk to health or safety, or other undesirable and unintended consequences;
 
-&emsp;(4) preserve important historic, cultural, and natural aspects of our national heritage, andmaintain, wherever possible, an environment which supports diversity and variety of individual choice;
+&emsp;(4) preserve important historic, cultural, and natural aspects of our national heritage, and maintain, wherever possible, an environment which supports diversity and variety of individual choice;
 
 &emsp;(5) achieve a balance between population and resource use which will permit high standards of living and a wide sharing of life's amenities; and
 

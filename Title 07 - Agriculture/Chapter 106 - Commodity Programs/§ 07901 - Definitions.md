@@ -88,7 +88,7 @@ The Agricultural Act of 1949, referred to in par. (1), is act Oct. 31, 1949, ch.
 
 #### Amendments
 
-2003—Par. (9). Pub. L. 108–7 inserted “crambe, sesame seed,” after “mustard seed,”.
+<b>2003</b>—Par. (9). Pub. L. 108–7 inserted “crambe, sesame seed,” after “mustard seed,”.
 
 #### Effective Date of 2003 Amendment
 

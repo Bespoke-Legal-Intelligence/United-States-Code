@@ -44,7 +44,7 @@ During fiscal year 1997 and fiscal years thereafter, the Secretary may manage an
 
 &emsp;&emsp;&emsp;(ii) the Secretary shall offer qualified HUD properties that are single family properties for purchase by units of general local government at a cost of $1 for each property, but only to the extent that the costs to the Federal Government of disposal at such price do not exceed the costs to the Federal Government of disposing of property subject to the procedures for single family property established by the Secretary pursuant to the authority under the last sentence of section 1710(g) of this title;
 
-&emsp;&emsp;&emsp;(iii) the Secretary may accept an offer to purchase a property made by a community development corporation only if the offer provides for purchase on a cost recovery basis; and
+&emsp;&emsp;&emsp;(iii) the Secretary may accept an offer to purchase a property made by a communitydevelopment corporation only if the offer provides for purchase on a cost recovery basis; and
 
 &emsp;&emsp;&emsp;(iv) the Secretary shall accept an offer to purchase such a property that is made during such period by such a unit or corporation and that complies with the requirements of this paragraph; and
 
@@ -162,19 +162,19 @@ Section was enacted as part of the Departments of Veterans Affairs and Housing a
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–171 inserted at end “A grant provided under this subsection during fiscal years 2006 through 2010 shall be available only to the extent that appropriations are made in advance for such purposes and shall not be derived from the General Insurance Fund.”
+<b>2006</b>—Subsec. (a). Pub. L. 109–171 inserted at end “A grant provided under this subsection during fiscal years 2006 through 2010 shall be available only to the extent that appropriations are made in advance for such purposes and shall not be derived from the General Insurance Fund.”
 
-2000—Pub. L. 106–554 substituted “Disposition of HUD-owned properties” for “Flexible authority” in section catchline, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>2000</b>—Pub. L. 106–554 substituted “Disposition of HUD-owned properties” for “Flexible authority” in section catchline, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 Pub. L. 106–377 substituted “2000, and thereafter” for “and 2000”.
 
-1999—Pub. L. 106–74 substituted “1999, and 2000” for “and 1999” and “, demolition, or construction on the properties (which shall be eligible whether vacant or occupied)” for “or demolition”.
+<b>1999</b>—Pub. L. 106–74 substituted “1999, and 2000” for “and 1999” and “, demolition, or construction on the properties (which shall be eligible whether vacant or occupied)” for “or demolition”.
 
-1998—Pub. L. 105–276 substituted “fiscal years 1997, 1998, and 1999” for “fiscal years 1997 and 1998”.
+<b>1998</b>—Pub. L. 105–276 substituted “fiscal years 1997, 1998, and 1999” for “fiscal years 1997 and 1998”.
 
-1997—Pub. L. 105–65 inserted “, including, for fiscal years 1997 and 1998, the provision of grants and loans from the General Insurance Fund (12 U.S.C. 1735c) for the necessary costs of rehabilitation or demolition,” after “owned by the Secretary”.
+<b>1997</b>—Pub. L. 105–65 inserted “, including, for fiscal years 1997 and 1998, the provision of grants and loans from the General Insurance Fund (12 U.S.C. 1735c) for the necessary costs of rehabilitation or demolition,” after “owned by the Secretary”.
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–171 not applicable to any transaction that formally commences within one yearprior to Feb. 8, 2006, see section 2003(c) of Pub. L. 109–171, set out as a note under section 1701z–11 of this title.
+Amendment by Pub. L. 109–171 not applicable to any transaction that formally commences within one year prior to Feb. 8, 2006, see section 2003(c) of Pub. L. 109–171, set out as a note under section 1701z–11 of this title.
 

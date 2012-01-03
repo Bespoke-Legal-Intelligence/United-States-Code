@@ -6,5 +6,5 @@ The Republic of the Marshall Islands, the Federated States of Micronesia, and th
 
 #### Prior Provisions
 
-A prior section 1409, Pub. L. 91–230, title VI, §610, as added Pub. L. 101–476, title I, §104, Oct. 30, 1990, 104 Stat. 1106, provided administrative provisions applicable to former subchapters III to VII of this chapter and former section 1418 of this title, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
+A prior section 1409, Pub. L. 91–230, title VI, §610, as added Pub. L. 101–476, title I, §104, Oct. 30, 1990, 104 Stat. 1106, provided administrative provisions applicable toformer subchapters III to VII of this chapter and former section 1418 of this title, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 

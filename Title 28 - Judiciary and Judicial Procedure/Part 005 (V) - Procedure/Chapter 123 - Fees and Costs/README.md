@@ -54,7 +54,7 @@ Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §§805(b), 809(b)\], Apr
 
 #### Change of Name
 
-“United States magistrate judges” substituted for “United States magistrates” in item 1922 pursuant tosection 321 of Pub. L. 101–650, set out as a note under section 631 of this title. Previously, “United States magistrates” substituted for “United States commissioners” pursuant to Pub. L. 90–578. See chapter 43 (§631 et seq.) of this title.
+“United States magistrate judges” substituted for “United States magistrates” in item 1922 pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title. Previously, “United States magistrates” substituted for “United States commissioners” pursuant to Pub. L. 90–578. See chapter 43 (§631 et seq.) of this title.
 
 <i><sup>1</sup></i><i> So in original. Two sections 1932 have been enacted.</i>
 

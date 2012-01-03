@@ -30,7 +30,7 @@ Words “United States attorney” were substituted for district attorney, and r
 
 Reference to the territories in said section 482, was also omitted as covered by provisions of title 48, U.S.C., 1940 ed., Territories and Insular Possessions. See sections 109 and 112 of such title applicable to United States attorney in Alaska, and 1353 applicable in the Canal Zone, and 1405y applicable in the Virgin Islands.
 
-The provision as to the tenure of the assistant United States attorneys and special attorneys is new. Existinglaw contains no provision as to tenure or removal of such officials. While the Supreme Court has held that the power of removal of executive officials is incident to the power of appointment, this section expressly provides for removal. See <i>Meyers v. United States</i>, 1926 (47 S.Ct. 21, 272 U.S. 52, 71 L.Ed. 160).
+The provision as to the tenure of the assistant United States attorneys and special attorneys is new. Existing law contains no provision as to tenure or removal of such officials. While the Supreme Court has held that the power of removal of executive officials is incident to the power of appointment, this section expressly provides for removal. See <i>Meyers v. United States</i>, 1926 (47 S.Ct. 21, 272 U.S. 52, 71 L.Ed. 160).
 
 Said section 315 contained a provision that special attorneys appointed to assist United States attorneys should take the same oath required of the latter. This section was extended to assistant United States attorneys, respecting whom no provision existed as to oaths.
 

@@ -26,15 +26,15 @@ Any individual who knowingly establishes a commercial enterprise for the purpose
 
 #### Amendments
 
-1996—Subsecs. (b) to (d). Pub. L. 104–208 added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
+<b>1996</b>—Subsecs. (b) to (d). Pub. L. 104–208 added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
-1991—Subsec. (a). Pub. L. 102–232 substituted “fined under title 18” for “fined not more than $2,000 (or, if greater, the amount provided under title 18)”.
+<b>1991</b>—Subsec. (a). Pub. L. 102–232 substituted “fined under title 18” for “fined not more than $2,000 (or, if greater, the amount provided under title 18)”.
 
-1990—Subsec. (a). Pub. L. 101–649, §543(b)(2), inserted “or attempts to enter” after “(1) enters” and “attempts to enter or” after “or (3)”, and substituted “shall, for the first commission of any such offense, be fined not more than $2,000 (or, if greater, the amount provided under title 18) or imprisoned not more than 6 months, or both, and, for a subsequent commission of any such offense, be fined under title 18, or imprisoned not more than 2 years” for “shall, for the first commission of any such offenses, be guilty of a misdemeanor and upon conviction thereof be punished by imprisonment for not more than six months, or by a fine of not more than $500, or by both, and for a subsequent commission of any such offenses shall be guilty of a felony and upon conviction thereof shall be punished by imprisonment for not more than two years, or by a fine of not more than $1,000”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–649, §543(b)(2), inserted “or attempts to enter” after “(1) enters” and “attempts to enter or” after “or (3)”, and substituted “shall, for the first commission of any such offense, be fined not more than $2,000 (or, if greater, the amount provided under title 18) or imprisoned not more than 6 months, or both, and, for a subsequent commission of any such offense, be fined under title 18, or imprisoned not more than 2 years” for “shall, for the first commission of any such offenses, be guilty of a misdemeanor and upon conviction thereof be punished by imprisonment for not more than six months, or by a fine of not more than $500, or by both, and for a subsequent commission of any such offenses shall be guilty of a felony and upon conviction thereof shall be punished by imprisonment for not more than two years, or by a fine of not more than $1,000”.
 
 Subsec. (c). Pub. L. 101–649, §121(b)(3), added subsec. (c).
 
-1986—Pub. L. 99–639 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1986</b>—Pub. L. 99–639 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 1996 Amendment
 

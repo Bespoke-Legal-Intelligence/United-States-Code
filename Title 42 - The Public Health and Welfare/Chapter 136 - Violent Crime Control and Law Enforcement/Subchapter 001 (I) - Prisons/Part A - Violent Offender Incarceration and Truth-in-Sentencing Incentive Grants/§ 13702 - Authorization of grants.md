@@ -30,7 +30,7 @@ The Attorney General shall provide Violent Offender Incarceration grants under s
 
 Notwithstanding the eligibility requirements of section 13704 of this title, a State that certifies to the Attorney General that, as of April 26, 1996, such State has enacted legislation in reliance on this part, as enacted on September 13, 1994, and would in fact qualify under those provisions, shall be eligible to receive a grant for fiscal year 1996 as though such State qualifies under section 13704 of this title.
 
-(Pub. L. 103–322, title II, §20102, as added Pub. L. 104–134, title I, §101\[(a)\] \[title I, §114(a)\], Apr. 26, 1996, 110 Stat. 1321, 1321–15; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; amended Pub. L. 110–199, title I, §104(a), Apr. 9, 2008, 122 Stat. 669.)
+(Pub. L. 103–322, title II, §20102, as added Pub. L. 104–134, title I, §101\[(a)\] \[title I, §114(a)\], Apr. 26, 1996, 110 Stat. 1321, 1321–15; renumbered title I,Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; amended Pub. L. 110–199, title I, §104(a), Apr. 9, 2008, 122 Stat. 669.)
 
 #### Prior Provisions
 

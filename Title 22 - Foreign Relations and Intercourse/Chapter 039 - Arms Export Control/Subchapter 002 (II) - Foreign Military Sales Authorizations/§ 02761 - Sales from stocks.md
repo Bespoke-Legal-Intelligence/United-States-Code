@@ -20,7 +20,7 @@ Except as provided by subsection (d) of this section, payment shall be made in a
 
 (1) Personnel performing defense services sold under this chapter may not perform any duties of a combatant nature, including any duties related to training and advising that may engage United States personnel in combat activities, outside the United States in connection with the performance of those defense services.
 
-(2) Within forty-eight hours of the existence of, or a change in status of significant hostilities or terrorist acts or a series of such acts, which may endanger American lives or property, involving a country in which United States personnel are performing defense services pursuant to this chapter or the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], the President shall submit to the Speaker of the House of Representatives and to the President pro tempore of the Senate a report, in writing, classified if necessary, setting forth—
+(2) Within forty-eight hours of the existence of, or a change in status of significant hostilities or terrorist acts or a series of such acts, which may endanger American lives or property, involving a country in which United States personnel are performing defense services pursuant to this chapter or the Foreign Assistance Act of1961 \[22 U.S.C. 2151 et seq.\], the President shall submit to the Speaker of the House of Representatives and to the President pro tempore of the Senate a report, in writing, classified if necessary, setting forth—
 
 &emsp;(A) the identity of such country;
 
@@ -72,7 +72,7 @@ If the President determines it to be in the national interest pursuant to subsec
 
 #### (f) Public inspection of contracts
 
-Any contracts entered into between the United States and a foreign country under theauthority of this section or section 2762 of this title shall be prepared in a manner which will permit them to be made available for public inspection to the fullest extent possible consistent with the national security of the United States.
+Any contracts entered into between the United States and a foreign country under the authority of this section or section 2762 of this title shall be prepared in a manner which will permit them to be made available for public inspection to the fullest extent possible consistent with the national security of the United States.
 
 #### (g) North Atlantic Treaty Organization standardization agreements, similar agreements; reimbursement for costs; transmittal to Congress
 
@@ -182,9 +182,9 @@ Before entering into the sale under this chapter of defense articles that are ex
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
-The Foreign Assistance Act of 1961, referred to in subsecs. (a)(1)(C) and (c)(2), is Pub. L. 87–195, Sept. 4, 1961,75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. Chapter 5 of part II of such Act is classified generally to part V of subchapter II (§2347 et seq.) of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsecs. (a)(1)(C) and (c)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. Chapter 5 of part II of such Act is classified generally to part V of subchapter II (§2347 et seq.) of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 Section 814 of the act of October 7, 1975 (Public Law 94–106), referred to in subsec. (g), is not classified to the Code.
 

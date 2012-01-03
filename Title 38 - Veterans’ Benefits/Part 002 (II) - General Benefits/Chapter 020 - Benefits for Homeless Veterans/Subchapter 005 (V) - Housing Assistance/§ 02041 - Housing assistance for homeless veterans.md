@@ -30,7 +30,7 @@
 
 (4) The term of any lease under this subsection may not exceed three years.
 
-(5) An approved entity that leases a property from the Secretary under this section shall be responsible for the payment of any taxes, utilities, liability insurance, and other maintenance charges or similar charges that apply to the property.
+(5) An approved entity that leases a property from the Secretary under this section shall be responsible for the payment of any taxes, utilities, liability insurance, and other maintenancecharges or similar charges that apply to the property.
 
 (6) Any agreement, deed, or other instrument executed by the Secretary under this subsection shall be on such terms and conditions as the Secretary determines to be appropriate and necessary to carry out the purpose of such agreement.
 
@@ -44,11 +44,13 @@
 
 &emsp;(C) may waive the collection of a fee under section 3729 of this title in any case in which the Secretary determines that such a waiver would be appropriate.
 
-(c) The Secretary may not enter into agreements under subsection (a) after December 31, 2011.
+(c) The Secretary may not enter into agreements under subsection (a) after December 31, 2012.
 
-(Added Pub. L. 102–54, §9(a), June 13, 1991, 105 Stat. 272, §1835; renumbered §3735, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; amended Pub. L. 102–590, §§8, 9, Nov. 10, 1992, 106 Stat. 5140; Pub. L. 103–446, title XII, §1201(d)(13), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 104–110, title I, §101(h), Feb. 13, 1996, 110 Stat. 768; Pub. L. 105–114, title II, §203(a), Nov. 21, 1997, 111 Stat. 2288; Pub. L. 105–368, title VI, §602(e)(1)(G), Nov. 11, 1998, 112 Stat. 3347; Pub. L. 106–117, title IX, §902, Nov. 30, 1999, 113 Stat. 1587; renumbered §2041, Pub. L. 107–95, §5(c), Dec. 21, 2001, 115 Stat. 918; Pub. L. 108–170, title IV, §404, Dec. 6, 2003, 117 Stat. 2063; Pub. L. 109–444, §8(a)(5), Dec. 21, 2006, 120 Stat. 3313; Pub. L. 109–461, title VII, §705, title X, §§1004(a)(5), 1006(b), Dec. 22, 2006, 120 Stat. 3440, 3465, 3468.)
+(Added Pub. L. 102–54, §9(a), June 13, 1991, 105 Stat. 272, §1835; renumbered §3735, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; amended Pub. L. 102–590, §§8, 9, Nov. 10, 1992, 106 Stat. 5140; Pub. L. 103–446, title XII, §1201(d)(13), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 104–110, title I, §101(h), Feb. 13, 1996, 110 Stat. 768; Pub. L. 105–114, title II, §203(a), Nov. 21, 1997, 111 Stat. 2288; Pub. L. 105–368, title VI, §602(e)(1)(G), Nov. 11, 1998, 112 Stat. 3347; Pub. L. 106–117, title IX, §902, Nov. 30, 1999, 113 Stat. 1587; renumbered §2041, Pub. L. 107–95, §5(c), Dec. 21, 2001, 115 Stat. 918; Pub. L. 108–170, title IV, §404, Dec. 6, 2003, 117 Stat. 2063; Pub. L. 109–444, §8(a)(5), Dec. 21, 2006, 120 Stat. 3313; Pub. L. 109–461, title VII, §705, title X, §§1004(a)(5), 1006(b), Dec. 22, 2006, 120 Stat. 3440, 3465, 3468; Pub. L. 112–37, §10(e), Oct. 5, 2011, 125 Stat. 397.)
 
 #### Amendments
+
+<b>2011</b>—Subsec. (c). Pub. L. 112–37 substituted “December 31, 2012” for “December 31, 2011”.
 
 <b>2006</b>—Subsec. (a)(3)(A)(i). Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
 

@@ -12,7 +12,7 @@ The Secretary shall adjust the cabin user fee annually, using a rolling 5-year a
 
 #### (2) Statewide changes
 
-&emsp;In determining the annual adjustment to the cabin user fee for an authorization located in a county in which agricultural land prices are influenced by the criteria described in section 6205(b)(2) of this title, the Secretary shall use average statewide changes in the State in which the lot is located.
+&emsp;In determining the annual adjustment to the cabin user fee for an authorization located ina county in which agricultural land prices are influenced by the criteria described in section 6205(b)(2) of this title, the Secretary shall use average statewide changes in the State in which the lot is located.
 
 #### (c) New index
 

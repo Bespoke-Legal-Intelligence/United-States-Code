@@ -94,7 +94,7 @@ Pub. L. 103–355, title II, §2192, Oct. 13, 1994, 108 Stat. 3315, provided tha
 
 “(a)
 
-Costs Not Allowable.—(1) The costs of gifts or recreation for employees of a contractor or members of their families that are provided by the contractor to improve employee morale or performance or for any other purpose are not allowable under a covered contract unless, within 120 days after the date of the enactment of this Act \[Oct. 13, 1994\], the Federal Acquisition Regulatory Council prescribes amendments to the Federal Acquisition Regulation specifying circumstancesunder which such costs are allowable under a covered contract.
+Costs Not Allowable.—(1) The costs of gifts or recreation for employees of a contractor or members of their families that are provided by the contractor to improve employee morale or performance or for any other purpose are not allowable under a covered contract unless, within 120 days after the date of the enactment of this Act \[Oct. 13, 1994\], the Federal Acquisition Regulatory Council prescribes amendments to the Federal Acquisition Regulation specifying circumstances under which such costs are allowable under a covered contract.
 
 “(2) Not later than 90 days after the date of the enactment of this Act, the Federal Acquisition Regulatory Council shall amend the cost principle in the Federal Acquisition Regulation that is set out in section 31.205–14 of title 48, Code of Federal Regulations, relating to unallowability of entertainment costs—
 

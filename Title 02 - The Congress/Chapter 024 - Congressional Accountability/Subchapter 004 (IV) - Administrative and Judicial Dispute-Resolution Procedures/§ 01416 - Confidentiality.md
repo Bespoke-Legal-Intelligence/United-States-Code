@@ -26,3 +26,7 @@ A final decision entered under section 1405(g) or 1406(e) of this title shall be
 
 (Pub. L. 104–1, title IV, §416, Jan. 23, 1995, 109 Stat. 38.)
 
+#### Change of Name
+
+Committee on Standards of Official Conduct of House of Representatives changed to Committee on Ethics of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+

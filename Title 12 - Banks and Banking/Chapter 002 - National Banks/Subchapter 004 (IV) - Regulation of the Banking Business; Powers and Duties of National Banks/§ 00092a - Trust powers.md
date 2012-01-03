@@ -2,7 +2,7 @@
 
 #### (a) Authority of Comptroller of the Currency
 
-The Comptroller of the Currency shall be authorized and empowered to grant by special permit to national banks applying therefor, when not in contravention of State or local law, theright to act as trustee, executor, administrator, registrar of stocks and bonds, guardian of estates, assignee, receiver, committee of estates of lunatics, or in any other fiduciary capacity in which State banks, trust companies, or other corporations which come into competition with national banks are permitted to act under the laws of the State in which the national bank is located.
+The Comptroller of the Currency shall be authorized and empowered to grant by special permit to national banks applying therefor, when not in contravention of State or local law, the right to act as trustee, executor, administrator, registrar of stocks and bonds, guardian of estates, assignee, receiver, committee of estates of lunatics, or in any other fiduciary capacity in which State banks, trust companies, or other corporations which come into competition with national banks are permitted to act under the laws of the State in which the national bank is located.
 
 #### (b) Grant and exercise of powers deemed not in contravention of State or local law
 
@@ -26,7 +26,7 @@ Whenever the laws of a State require corporations acting in a fiduciary capacity
 
 #### (g) Officials’ oath or affidavit
 
-In any case in which the laws of a State require that a corporation acting as trustee, executor, administrator, or in any capacity specified in this section, shall take an oath or make an affidavit, the president, vice president, cashier, or trust officer of such national bank may take the necessary oath or execute the necessary affidavit.
+In any case in which the laws of a State require that a corporation acting as trustee, executor, administrator, or in any capacity specified in this section, shall take an oath or makean affidavit, the president, vice president, cashier, or trust officer of such national bank may take the necessary oath or execute the necessary affidavit.
 
 #### (h) Loans of trust funds to officers and employees prohibited; penalties
 
@@ -54,7 +54,7 @@ Any national banking association desiring to surrender its right to exercise the
 
 #### Amendments
 
-1980—Subsec. (k). Pub. L. 96–221 added subsec. (k).
+<b>1980</b>—Subsec. (k). Pub. L. 96–221 added subsec. (k).
 
 #### Savings Provision
 

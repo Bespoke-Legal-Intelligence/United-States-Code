@@ -10,7 +10,7 @@ This chapter, referred to in text, was in the original, “this Act”, meaning 
 
 #### Amendments
 
-1965—Pub. L. 89–236 struck out reference to sections 1154 and 1155 of this title and substituted “special immigrant or immediate relative” for “nonquota immigrant”.
+<b>1965</b>—Pub. L. 89–236 struck out reference to sections 1154 and 1155 of this title and substituted “special immigrant or immediate relative” for “nonquota immigrant”.
 
 #### Effective Date of 1965 Amendment
 

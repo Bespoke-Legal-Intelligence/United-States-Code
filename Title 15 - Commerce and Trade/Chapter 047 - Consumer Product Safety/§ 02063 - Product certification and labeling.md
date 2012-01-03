@@ -26,7 +26,7 @@ Schedule for implementation of third party testing.—
 
 &emsp;(A)
 
-General application.—Except as provided under subparagraph (F), the requirements of paragraph (2) shall apply to any children's product manufactured more than 90 days after the Commission has established and published notice of the requirements for accreditation of third party conformity assessment bodies to assess conformity with a children's product safety rule to which such children's product is subject.
+General application.—Except as provided under subparagraph (F), the requirements of paragraph (2) shall apply to any children's product manufactured more than 90days after the Commission has established and published notice of the requirements for accreditation of third party conformity assessment bodies to assess conformity with a children's product safety rule to which such children's product is subject.
 
 &emsp;(B)
 
@@ -78,15 +78,17 @@ Rulemaking.—Until the date that is 3 years after August 14, 2008, Commission p
 
 (4) In the case of a consumer product for which there is more than one manufacturer or more than one private labeler, the Commission may by rule designate one or more of such manufacturers or one or more of such private labelers (as the case may be) as the persons who shall issue the certificate required under paragraph (1), (2), or (3), and may exempt all other manufacturers of such product or all other private labelers of the product (as the case may be) from the requirement under paragraph (1), (2), or (3) to issue a certificate with respect to such product.
 
-(5) Effective 1 year after August 14, 2008, the manufacturer of a children's product shall place permanent, distinguishing marks on the product and its packaging, to the extent practicable, that will enable—
+(5)(A) Effective 1 year after August 14, 2008, the manufacturer of a children's product shall place permanent, distinguishing marks on the product and its packaging, to the extent practicable, that will enable—
 
-&emsp;(A) the manufacturer to ascertain the location and date of production of the product, cohort information (including the batch, run number, or other identifying characteristic), and any other information determined by the manufacturer to facilitate ascertaining the specific source of the product by reference to those marks; and
+&emsp;(i) the manufacturer to ascertain the location and date of production of the product, cohort information (including the batch, run number, or other identifying characteristic), and any other information determined by the manufacturer to facilitate ascertaining the specific source of the product by reference to those marks; and
 
-&emsp;(B) the ultimate purchaser to ascertain the manufacturer or private labeler, location and date of production of the product, and cohort information (including the batch, run number, or other identifying characteristic).
+&emsp;(ii) the ultimate purchaser to ascertain the manufacturer or private labeler, location and date of production of the product, and cohort information (including the batch, run number, or other identifying characteristic).
+
+(B) The Commission may, by regulation, exclude a specific product or class of products from the requirements in subparagraph (A) if the Commission determines that it is not practicable for such product or class of products to bear the marks required by such subparagraph. The Commission may establish alternative requirements for any product or class of products excluded under the preceding sentence consistent with the purposes described in clauses (i) and (ii) of subparagraph (A).
 
 #### (b) Rules to establish reasonable testing programs
 
-The Commission may by rule prescribe reasonable testing programs for any product which is subject to a consumer product safety rule under this chapter, or a similar rule, regulation, standard, or ban under any other Act enforced by the Commission, and for which a certificate is required under subsection (a) of this section. Any test or testing program on the basis of which a certificate is issued under subsection (a) of this section may, at the option of the person required to certify the product, be conducted by an independent third party qualified to perform such tests, unless the Commission, by rule, requires testing by an independent third party for a particular rule, regulation, standard, or ban, or for a particular class of products.
+The Commission may by rule prescribe reasonable testing programs for any product which is subject to a consumer product safety rule under this chapter, or a similar rule, regulation, standard, or ban under any other Act enforced by the Commission, and for which a certificate is required under subsection (a) of this section. Any test or testing program on the basis ofwhich a certificate is issued under subsection (a) of this section may, at the option of the person required to certify the product, be conducted by an independent third party qualified to perform such tests, unless the Commission, by rule, requires testing by an independent third party for a particular rule, regulation, standard, or ban, or for a particular class of products.
 
 #### (c) Form and contents of labels
 
@@ -102,7 +104,7 @@ The Commission may by rule require the use and prescribe the form and content of
 
 > Such labels, where practicable, may be required by the Commission to be permanently marked on or affixed to any such consumer product. The Commission may, in appropriate cases, permit information required under paragraphs (1) and (2) of this subsection to be coded.
 
-#### (d) <sup>2</sup> Additional regulations for third party testing
+#### (d) Additional regulations for third party testing
 
 #### (1) Audit
 
@@ -118,11 +120,111 @@ The Commission may by rule require the use and prescribe the form and content of
 
 &emsp;&emsp;&emsp;(i) for ensuring that a children's product tested for compliance with an applicable children's product safety rule is subject to testing periodically and when there has been a material change in the product's design or manufacturing process, including the sourcing of component parts;
 
-&emsp;&emsp;&emsp;(ii) for the testing of random samples to ensure continued compliance;
+&emsp;&emsp;&emsp;(ii) for the testing of representative samples to ensure continued compliance;
 
 &emsp;&emsp;&emsp;(iii) for verifying that a children's product tested by a conformity assessment body complies with applicable children's product safety rules; and
 
 &emsp;&emsp;&emsp;(iv) for safeguarding against the exercise of undue influence on a third party conformity assessment body by a manufacturer or private labeler.
+
+#### (3) Reducing third party testing burdens
+
+#### (A) Assessment
+
+&emsp;&emsp;Not later than 60 days after August 12, 2011, the Commission shall seek public comment on opportunities to reduce the cost of third party testing requirements consistent with assuring compliance with any applicable consumer product safety rule, ban, standard, or regulation. The request for public comment shall include the following:
+
+&emsp;&emsp;&emsp;(i) The extent to which the use of materials subject to regulations of another government agency that requires third party testing of those materials may provide sufficient assurance of conformity with an applicable consumer product safety rule, ban, standard, or regulation without further third party testing.
+
+&emsp;&emsp;&emsp;(ii) The extent to which modification of the certification requirements may have the effect of reducing redundant third party testing by or on behalf of 2 or more importers of a product that is substantially similar or identical in all material respects.
+
+&emsp;&emsp;&emsp;(iii) The extent to which products with a substantial number of different components subject to third party testing may be evaluated to show compliance with an applicable rule, ban, standard, or regulation by third party testing of a subset of such components selected by a third party conformity assessment body.
+
+&emsp;&emsp;&emsp;(iv) The extent to which manufacturers with a substantial number of substantially similar products subject to third party testing may reasonably make use of sampling procedures that reduce the overall test burden without compromising the benefits of third party testing.
+
+&emsp;&emsp;&emsp;(v) The extent to which evidence of conformity with other national or international governmental standards may provide assurance of conformity to consumer product safety rules, bans, standards, or regulations applicable under this chapter.
+
+&emsp;&emsp;&emsp;(vi) The extent to which technology, other than the technology already approved by the Commission, exists for third party conformity assessment bodies to test or to screen for testing consumer products subject to a third party testing requirement.
+
+&emsp;&emsp;&emsp;(vii) Other techniques for lowering the cost of third party testing consistent with assuring compliance with the applicable consumer product safety rules, bans, standards, and regulations.
+
+#### (B) Regulations
+
+&emsp;&emsp;Following the public comment period described in subparagraph (A), but not later than 1 year after August 12, 2011, the Commission shall review the public comments and may prescribe new or revised third party testing regulations if it determines thatsuch regulations will reduce third party testing costs consistent with assuring compliance with the applicable consumer product safety rules, bans, standards, and regulations.
+
+#### (C) Report
+
+&emsp;&emsp;If the Commission determines that it lacks authority to implement an opportunity for reducing the costs of third-party testing consistent with assuring compliance with the applicable consumer product safety rules, bans, standards, and regulations, it shall transmit a report to Congress reviewing those opportunities, along with any recommendations for any legislation to permit such implementation.
+
+#### (4) Special rules for small batch manufacturers
+
+#### (A) Special consideration; exemption
+
+#### (i) Consideration; alternative requirements
+
+&emsp;&emsp;&emsp;Subject to subparagraph (C), in implementing third party testing requirements under this section, the Commission shall take into consideration any economic, administrative, or other limits on the ability of small batch manufacturers to comply with such requirements and shall, after notice and a hearing, provide alternative testing requirements for covered products manufactured by small batch manufacturers in lieu of those required under subsection (a) or (b). Any such alternative requirements shall provide for reasonable methods to assure compliance with any applicable consumer product safety rule, ban, standard, or regulation. The Commission may allow such alternative testing requirements for small batch manufacturers with respect to a specific product or product class or with respect to a specific safety rule, ban, standard, or regulation, or portion thereof.
+
+#### (ii) Exemption
+
+&emsp;&emsp;&emsp;If the Commission determines that no alternative testing requirement is available or economically practicable, it shall exempt small batch manufacturers from third party testing requirements under subsections (a) and (b).
+
+#### (iii) Certification
+
+&emsp;&emsp;&emsp;In lieu of or as part of any alternative testing requirements provided under clause (i), the Commission may allow certification of a product to an applicable consumer product safety rule, ban, standard, or regulation, or portion thereof, based on documentation that the product complies with another national or international governmental standard or safety requirement that the Commission determines is the same or more stringent than the consumer product safety rule, ban, standard, or regulation, or portion thereof. Any such certification shall only be allowed to the extent of the equivalency with a consumer product safety rule, ban, standard, or regulation and not to any other part of the consumer product safety rule, ban, standard, or regulation.
+
+#### (iv) Restriction
+
+&emsp;&emsp;&emsp;Except as provided in subparagraph (C), and except where the Commission determines that the manufacturer does not meet the definition of a small batch manufacturer, for any small batch manufacturer registered pursuant to subparagraph (B), the Commission may not require third party testing of a covered product by a third party conformity assessment body until the Commission has provided either an alternative testing requirement or an exemption in accordance with clause (i) or (ii), respectively.
+
+#### (B) Registration
+
+&emsp;&emsp;Any small batch manufacturer that utilizes alternative requirements or an exemption under this paragraph shall register with the Commission prior to using such alternative requirements or exemptions pursuant to any guidelines issued by the Commission to carry out this requirement.
+
+#### (C) Limitation
+
+&emsp;&emsp;The Commission shall not provide or permit to continue in effect any alternative requirements or exemption from third party testing requirements under this paragraph where it determines, based on notice and a hearing, that full compliance with subsection (a) or (b) is reasonably necessary to protect public health or safety. The Commission shall not provide any alternative requirements or exemption for—
+
+&emsp;&emsp;&emsp;(i) any of the third party testing requirements described in clauses (i) through (v) of subsection (a)(3)(B); or
+
+&emsp;&emsp;&emsp;(ii) durable infant or toddler products, as defined in section 2056a(f) of this title.
+
+#### (D) Subsequent manufacturer
+
+&emsp;&emsp;Nothing in this paragraph shall be construed to affect third party testing or any other requirements with respect to a subsequent manufacturer or other entity that uses components provided by one or more small batch manufacturers.
+
+#### (E) Definitions
+
+&emsp;&emsp;For purposes of this paragraph—
+
+&emsp;&emsp;&emsp;(i) the term “covered product” means a consumer product manufactured by a small batch manufacturer where no more than 7,500 units of the same product were manufactured in the previous calendar year; and
+
+&emsp;&emsp;&emsp;(ii) the term “small batch manufacturer” means a manufacturer that had no more than $1,000,000 in total gross revenue from sales of all consumer products in the previous calendar year. The dollar amount contained in this paragraph shall be adjusted annually by the percentage increase in the Consumer Price Index for all urban consumers published by the Department of Labor.
+
+> &emsp;&emsp;For purposes of determining the total gross revenue for all sales of all consumer products of a manufacturer under this subparagraph, such total gross revenue shall be considered to include all gross revenue from allsales of all consumer products of each entity that controls, is controlled by, or is under common control with such manufacturer. The Commission shall take steps to ensure that all relevant business affiliations are considered in determining whether or not a manufacturer meets this definition.
+
+#### (5) Exclusion from third party testing
+
+#### (A) Certain printed materials
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The third party testing requirements established under subsection (a) shall not apply to ordinary books or ordinary paper-based printed materials.
+
+#### (ii) Definitions
+
+#### (I) Ordinary book
+
+&emsp;&emsp;&emsp;&emsp;The term “ordinary book” means a book printed on paper or cardboard, printed with inks or toners, and bound and finished using a conventional method, and that is intended to be read or has educational value. Such term does not include books with inherent play value, books designed or intended for a child 3 years of age or younger, and does not include any toy or other article that is not a book that is sold or packaged with an ordinary book.
+
+#### (II) Ordinary paper-based printed materials
+
+&emsp;&emsp;&emsp;&emsp;The term “ordinary paper-based printed materials” means materials printed on paper or cardboard, such as magazines, posters, greeting cards, and similar products, that are printed with inks or toners and bound and finished using a conventional method.
+
+#### (III) Exclusions
+
+&emsp;&emsp;&emsp;&emsp;Such terms do not include books or printed materials that contain components that are printed on material other than paper or cardboard or contain nonpaper-based components such as metal or plastic parts or accessories that are not part of the binding and finishing materials used in a conventional method.
+
+#### (B) Metal component parts of bicycles
+
+&emsp;&emsp;The third party testing requirements established under subsection (a) shall not apply to metal component parts of bicycles with respect to compliance with the lead content limits in place pursuant to section 1278a(b)(6) of this title.
 
 #### (e) Withdrawal of accreditation
 
@@ -162,7 +264,7 @@ In this section:
 
 #### (1) Children's product safety rule
 
-&emsp;The term “children's product safety rule” means a consumer product safety rule underthis chapter or similar rule, regulation, standard, or ban under any other Act enforced by the Commission, including a rule declaring a consumer product to be a banned hazardous product or substance.
+&emsp;The term “children's product safety rule” means a consumer product safety rule under this chapter or similar rule, regulation, standard, or ban under any other Act enforced by the Commission, including a rule declaring a consumer product to be a banned hazardous product or substance.
 
 #### (2) Third party conformity assessment body
 
@@ -224,17 +326,27 @@ In this section:
 
 Compliance of any children's product with third party testing and certification or general conformity certification requirements under this section shall not be construed to exempt such children's product from any requirement that such product actually be in conformity with all applicable rules, regulation, standards, or ban under any Act enforced by the Commission.
 
-#### (d) <sup>3</sup> Requirement for advertisements
+#### (i) Requirement for advertisements
 
 No advertisement for a consumer product or label or packaging of such product may contain a reference to a consumer product safety rule or a voluntary consumer product safety standard unless such product conforms with the applicable safety requirements of such rule or standard.
 
-(Pub. L. 92–573, §14, Oct. 27, 1972, 86 Stat. 1220; Pub. L. 110–314, title I, §§102(a)(1)(A), (2), (3), (b), (d), 103, Aug. 14, 2008, 122 Stat. 3022, 3024, 3027, 3028.)
+(Pub. L. 92–573, §14, Oct. 27, 1972, 86 Stat. 1220; Pub. L. 110–314, title I, §§102(a)(1)(A), (2), (3), (b), (d), 103, Aug. 14, 2008, 122 Stat. 3022, 3024, 3027, 3028; Pub. L. 112–28, §§2(a), 6, 10(a), Aug. 12, 2011, 125 Stat. 276, 281, 283.)
 
 #### References in Text
 
 The Federal Hazardous Substances Act, referred to in subsec. (f)(2)(C), is Pub. L. 86–613, July 12, 1960, 74 Stat. 372, which is classified generally to chapter 30 (§1261 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1261 of this title and Tables.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (a)(5). Pub. L. 112–28, §6, designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpar. (B).
+
+Subsec. (d). Pub. L. 112–28, §10(a), redesignated subsec. (d), relating to requirement for advertisements, as (i).
+
+Subsec. (d)(2)(B)(ii). Pub. L. 112–28, §2(a)(1), substituted “representative” for “random”.
+
+Subsec. (d)(3) to (5). Pub. L. 112–28, §2(a)(2), added pars. (3) to (5).
+
+Subsec. (i). Pub. L. 112–28, §10(a), redesignated subsec. (d), relating to requirement for advertisements, as (i).
 
 <b>2008</b>—Subsec. (a)(1). Pub. L. 110–314, §102(a)(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Every manufacturer of a product which is subject to a consumer product safety standard under this chapter and which is distributed in commerce (and the private labeler of such product if it bears a private label) shall issue a certificate which shall certify that such product conforms to all applicable consumer product safety standards, and shall specify any standard which is applicable. Such certificate shall accompany the product or shall otherwise be furnished to any distributor or retailer to whom the product is delivered. Any certificate under this subsection shall be based on a test of each product or upon a reasonable testing program; shall state the name of the manufacturer or private labeler issuing the certificate; and shall include the date and place of manufacture.”
 
@@ -267,8 +379,4 @@ Amendment by section 103(c) of Pub. L. 110–314 effective on the date that is 6
 Pub. L. 110–314, title I, §102(c), Aug. 14, 2008, 122 Stat. 3027, provided that: “In establishing standards for accreditation of a third party conformity assessment body under section 14(a)(3) of the Consumer Product Safety Act \[15 U.S.C. 2063(a)(3)\], as added by subsection (a), the \[Consumer Product Safety\] Commission may consider standards and protocols for accreditation of such conformity assessment bodies by independent accreditation organizations that are in effect on the date of enactment of this Act \[Aug. 14, 2008\], but shall ensure that the protocols, standards, and requirements prescribed under such section 14(a)(3) incorporate, as the standard for accreditation, the most current scientific and technological standards and techniques available.”
 
 <i><sup>1</sup></i><i> So in original. Such title refers to title 16, Code of Federal Regulations.</i>
-
-<i><sup>2</sup></i><i> So in original. Another subsec. (d) is set out after subsec. (h).</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be “(i)”.</i>
 

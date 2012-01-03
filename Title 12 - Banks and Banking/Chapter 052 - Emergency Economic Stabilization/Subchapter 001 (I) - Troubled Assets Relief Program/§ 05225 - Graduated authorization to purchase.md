@@ -8,7 +8,17 @@ The authority of the Secretary to purchase troubled assets under this chapter sh
 
 &emsp;(2) If at any time, the President submits to the Congress a written certification that the Secretary needs to exercise the authority under this paragraph, effective upon such submission, such authority shall be limited to $350,000,000,000 outstanding at any one time.
 
-&emsp;(3) If, at any time after the certification in paragraph (2) has been made, the President transmits to the Congress a written report detailing the plan of the Secretary to exercise the authority under this paragraph, unless there is enacted, within 15 calendar days of such transmission, a joint resolution described in subsection (c), effective upon the expiration of such 15-day period, such authority shall be limited to $700,000,000,000, as such amount is reduced by $1,259,000,000, outstanding at any one time.
+&emsp;(3) If, at any time after the certification in paragraph (2) has been made, the President transmits to the Congress a written report detailing the plan of the Secretary to exercise the authority under this paragraph, unless there is enacted, within 15 calendar days of such transmission, a joint resolution described in subsection (c), effective upon the expiration of such 15-day period, such authority shall be limited to $475,000,000,000.
+
+&emsp;(4) For purposes of this subsection, the amount of authority considered to be exercised by the Secretary shall not be reduced by—
+
+&emsp;&emsp;(A) any amounts received by the Secretary before, on, or after July 21, 2010, from repayment of the principal of financial assistance by an entity that has received financial assistance under the TARP or any other program enacted by the Secretary under the authorities granted to the Secretary under this chapter;
+
+&emsp;&emsp;(B) any amounts committed for any guarantees pursuant to the TARP that became or become uncommitted; or
+
+&emsp;&emsp;(C) any losses realized by the Secretary.
+
+&emsp;(5) No authority under this chapter may be used to incur any obligation for a program or initiative that was not initiated prior to June 25, 2010.
 
 #### (b) Aggregation of purchase prices
 
@@ -40,7 +50,7 @@ The amount of troubled assets purchased by the Secretary outstanding at any one 
 
 #### (2) Reporting and discharge
 
-&emsp;Any committee of the House of Representatives to which a joint resolution is referred shall report it to the House not later than 5 calendar days after the date of receipt of the report described in subsection (a)(3). If a committee fails to report the joint resolution within that period, the committee shall be discharged from further consideration of the joint resolution and the joint resolution shall be referred to the appropriate calendar.
+&emsp;Any committee of the House of Representatives to which a joint resolution is referredshall report it to the House not later than 5 calendar days after the date of receipt of the report described in subsection (a)(3). If a committee fails to report the joint resolution within that period, the committee shall be discharged from further consideration of the joint resolution and the joint resolution shall be referred to the appropriate calendar.
 
 #### (3) Proceeding to consideration
 
@@ -48,7 +58,7 @@ The amount of troubled assets purchased by the Secretary outstanding at any one 
 
 #### (4) Consideration
 
-&emsp;The joint resolution shall be considered as read. All points of order against the joint resolution and against its consideration are waived. The previous question shall be considered as ordered on the joint resolution to its passage without intervening motion except two hours of debate equally divided and controlled by the proponent and an opponent. Amotion to reconsider the vote on passage of the joint resolution shall not be in order.
+&emsp;The joint resolution shall be considered as read. All points of order against the joint resolution and against its consideration are waived. The previous question shall be considered as ordered on the joint resolution to its passage without intervening motion except two hours of debate equally divided and controlled by the proponent and an opponent. A motion to reconsider the vote on passage of the joint resolution shall not be in order.
 
 #### (e) Fast track consideration in Senate
 
@@ -104,7 +114,7 @@ The amount of troubled assets purchased by the Secretary outstanding at any one 
 
 #### (A) In general
 
-&emsp;&emsp;If Congress passes a joint resolution, the period beginning on the date the President is presented with the joint resolution and ending on the date the President takes action with respect to the joint resolution shall be disregarded in computing the 15-calendar day period described in subsection (a)(3).
+&emsp;&emsp;If Congress passes a joint resolution, the period beginning on the date the President ispresented with the joint resolution and ending on the date the President takes action with respect to the joint resolution shall be disregarded in computing the 15-calendar day period described in subsection (a)(3).
 
 #### (B) Vetoes
 
@@ -120,9 +130,9 @@ The amount of troubled assets purchased by the Secretary outstanding at any one 
 
 &emsp;&emsp;(A) as an exercise of the rulemaking power of the Senate and House of Representatives, respectively, and as such it is deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of a joint resolution, and it supersedes other rules only to the extent that it is inconsistent with such rules; and
 
-&emsp;&emsp;(B) with full recognition of the constitutional right of either House to change therules (so far as relating to the procedure of that House) at any time, in the same manner, and to the same extent as in the case of any other rule of that House.
+&emsp;&emsp;(B) with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner, and to the same extent as in the case of any other rule of that House.
 
-(Pub. L. 110–343, div. A, title I, §115, Oct. 3, 2008, 122 Stat. 3780; Pub. L. 111–22, div. A, title II, §202(b), title IV, §402(f), May 20, 2009, 123 Stat. 1643, 1658.)
+(Pub. L. 110–343, div. A, title I, §115, Oct. 3, 2008, 122 Stat. 3780; Pub. L. 111–22, div. A, title II, §202(b), title IV, §402(f), May 20, 2009, 123 Stat. 1643, 1658; Pub. L. 111–203, title XIII, §1302, July 21, 2010, 124 Stat. 2133.)
 
 #### References in Text
 
@@ -132,9 +142,19 @@ The Emergency Economic Stabilization Act of 2008, referred to in subsec. (c)(2)(
 
 #### Amendments
 
-2009—Subsec. (a)(3). Pub. L. 111–22, §402(f), which directed that “notwithstanding the amendment made by section 202(b) of” Pub. L. 111–22, par.(3) was to be amended by inserting “, as such amount is reduced by $1,259,000,000,” after “$700,000,000,000”, was executed in lieu of amendment by Pub. L. 111–22, §202(b), to reflect the probable intent of Congress. See below.
+<b>2010</b>—Subsec. (a)(3). Pub. L. 111–203, §1302(1)(B), struck out “outstanding at any one time” before the period at the end.
 
-Pub. L. 111–22, §202(b), which directed insertion of “, as such amount is reduced by $1,244,000,000,” after “$700,000,000,000”, was not executed to reflect the probable intent of Congress and the subsequent amendment by section 402(f) of Pub. L. 111–22. See above.
+Pub. L. 111–203, §1302(1)(A), which directed substitution of “$475,000,000,000” for “, $700,000,000,000, as such amount is reduced by $1,259,000,000, as such amount is reduced by $1,244,000,000”, was executed by making the substitution for “$700,000,000,000, as such amount is reduced by $1,259,000,000,, as such amount is reduced by $1,244,000,000,”, to reflect the probable intent of Congress.
+
+Subsec. (a)(4), (5). Pub. L. 111–203, §1302(2), added pars. (4) and (5).
+
+<b>2009</b>—Subsec. (a)(3). Pub. L. 111–22, §402(f), inserted “, as such amount is reduced by $1,259,000,000,” after “$700,000,000,000”.
+
+Pub. L. 111–22, §202(b), inserted of “, as such amount is reduced by $1,244,000,000,” after “$700,000,000,000”.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of this title.
 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a period.</i>
 

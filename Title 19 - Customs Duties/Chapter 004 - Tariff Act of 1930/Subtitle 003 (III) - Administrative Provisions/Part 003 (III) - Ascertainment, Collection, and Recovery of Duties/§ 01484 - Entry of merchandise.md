@@ -24,7 +24,7 @@
 
 #### (1) In general
 
-&emsp;A party may elect to file a reconciliation with regard to such entry elements as are identified by the party pursuant to regulations prescribed by the Secretary. If the party so elects, the party shall declare that a reconciliation will be filed. The declaration shall be made in such manner as the Secretary shall prescribe and at the time the documentation or information required by subsection (a)(1)(B) of this section or the import activity summary statement is filed with, or transmitted to, the Customs Service, or at such later time as the Customs Service may, in its discretion, permit. The reconciliation shall be filed by the importer of record at such time and in such manner as the Secretary prescribes but not later than 21 months after the date the importer declares his intent to file the reconciliation. In the case of reconciling issues relating to the assessment of antidumping and countervailing duties, the reconciliation shall be filed not later than 90 days after the date the Customs Service advises the importer that the period of review for antidumping or countervailing duty purposes has been completed. Before filing a reconciliation, an importer of record shall post bond or other security pursuant to such regulations as the Secretary may prescribe.
+&emsp;A party may elect to file a reconciliation with regard to such entry elements as are identified by the party pursuant to regulations prescribed by the Secretary. If the party so elects, the party shall declare that a reconciliation will be filed. The declaration shall be made in such manner as the Secretary shall prescribe and at the time the documentation or information required by subsection (a)(1)(B) of this section or the import activity summary statement is filed with, or transmitted to, the Customs Service, or at such later time as the Customs Service may, in its discretion, permit. The reconciliation shall be filed by the importer of record at such time and in such manner as the Secretary prescribes but not later than 21 months after the date the importer declares his intent to file the reconciliation. In the case of reconciling issues relatingto the assessment of antidumping and countervailing duties, the reconciliation shall be filed not later than 90 days after the date the Customs Service advises the importer that the period of review for antidumping or countervailing duty purposes has been completed. Before filing a reconciliation, an importer of record shall post bond or other security pursuant to such regulations as the Secretary may prescribe.
 
 #### (2) Regulations regarding AD/CV duties
 
@@ -42,7 +42,7 @@ The Customs Service may permit the entry and release of merchandise from customs
 
 #### (e) Production of invoice
 
-The Secretary may provide by regulation for the production of an invoice, parts thereof, orthe electronic equivalents thereof, in such manner and form, and under such terms and conditions, as the Secretary considers necessary.
+The Secretary may provide by regulation for the production of an invoice, parts thereof, or the electronic equivalents thereof, in such manner and form, and under such terms and conditions, as the Secretary considers necessary.
 
 #### (f) Statistical enumeration
 
@@ -76,7 +76,7 @@ Any entry or other information transmitted by means of an authorized electronic 
 
 #### (3) Exception
 
-&emsp;The provisions of paragraph (1) shall not apply to merchandise the entry of which is prohibited by law or merchandise for which the filing of an entry summary is required before the merchandise is released from customs custody.
+&emsp;The provisions of paragraph (1) shall not apply to merchandise the entry of which is prohibited by law or merchandise for whichthe filing of an entry summary is required before the merchandise is released from customs custody.
 
 #### (4) Foreign trade zone; zone
 
@@ -142,7 +142,7 @@ Subsec. (b)(1). Pub. L. 104–295, §18(b), substituted “A party may elect to 
 
 Subsec. (d). Pub. L. 104–153 designated existing provisions as par. (1) and added par. (2).
 
-<b>1993</b>—Pub. L. 103–182 amended section generally, substituting present provisions for provisions relating to entry of merchandise and providing specifically for requirement and time, production of certified invoice, production of bill of lading, signing and contents ofentry, statistical enumeration, packages included, statement of cost of production, certification of owner by carrier, acceptance of duplicate bill of lading, and release of merchandise from customs custody.
+<b>1993</b>—Pub. L. 103–182 amended section generally, substituting present provisions for provisions relating to entry of merchandise and providing specifically for requirement and time, production of certified invoice, production of bill of lading, signing and contents of entry, statistical enumeration, packages included, statement of cost of production, certification of owner by carrier, acceptance of duplicate bill of lading, and release of merchandise from customs custody.
 
 <b>1983</b>—Subsec. (a)(1). Pub. L. 97–446, §201(d)(1)(A), substituted “one of the parties qualifying as ‘importer of record’ under paragraph (2)(C) of this subsection” for “the consignee of imported merchandise”, and “authorized by him” for “authorized by the consignee”.
 
@@ -280,7 +280,7 @@ Matters to be included.—The report required under paragraph (1) shall include�
 
 &emsp;&emsp;“(A) the aggregate number of importers that declare the transaction value of the imported merchandise is determined on the basis of the method described in subsection (a)(2), including a description of the frequency of the use of such method;
 
-&emsp;&emsp;“(B) the tariff classification of such imported merchandise under the Harmonized Tariff Schedule of the United States on an aggregate basis, including an analysis of the tariff classification of such imported merchandise on a sectoral basis;
+&emsp;&emsp;“(B) the tariff classification of such imported merchandise under the Harmonized Tariff Scheduleof the United States on an aggregate basis, including an analysis of the tariff classification of such imported merchandise on a sectoral basis;
 
 &emsp;&emsp;“(C) the aggregate transaction value of such imported merchandise, including an analysis of the transaction value of such imported merchandise on a sectoral basis; and
 
@@ -322,7 +322,7 @@ Definitions.—In this section:
 
 &emsp;“(1)
 
-Appropriate congressional committees.—The term ‘appropriate congressional committees’ meansthe Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.
+Appropriate congressional committees.—The term ‘appropriate congressional committees’ means the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.
 
 &emsp;“(2)
 

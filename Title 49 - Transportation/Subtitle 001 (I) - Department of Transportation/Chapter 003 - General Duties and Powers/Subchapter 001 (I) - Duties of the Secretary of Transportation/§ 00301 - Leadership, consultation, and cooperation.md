@@ -80,7 +80,7 @@ Contents.—In conducting the study, the Comptroller General shall—
 
 “(c)
 
-Report.—Not later than 1 year after the date of enactment of this Act, the Comptroller General shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report containing the results of the study and any recommendations for enhanced coordination between the Department of Transportation and other Federal departments and agencies that provide funding for non-emergency transportation.”
+Report.—Not later than 1 year after the date of enactment of this Act, the Comptroller General shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and theCommittee on Banking, Housing, and Urban Affairs of the Senate a report containing the results of the study and any recommendations for enhanced coordination between the Department of Transportation and other Federal departments and agencies that provide funding for non-emergency transportation.”
 
 #### Establishment of Nationwide Differential Global Positioning System
 

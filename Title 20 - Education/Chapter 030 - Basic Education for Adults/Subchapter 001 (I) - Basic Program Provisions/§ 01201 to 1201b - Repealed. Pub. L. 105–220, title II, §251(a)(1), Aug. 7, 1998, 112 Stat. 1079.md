@@ -16,7 +16,7 @@ Pub. L. 102–73, §1, July 25, 1991, 105 Stat. 333, provided that Pub. L. 102�
 
 #### Short Title of 1988 Amendment
 
-Section 2101 of Pub. L. 100–297 provided that part B (§§2101, 2102) of title II of Pub. L. 100–297, enacting this chapter, was to be cited as the “Adult Education Amendments of 1988”.
+Section 2101 of Pub. L. 100–297 provided that part B (§§2101, 2102) of title II of Pub. L. 100–297, enacting thischapter, was to be cited as the “Adult Education Amendments of 1988”.
 
 #### Short Title
 

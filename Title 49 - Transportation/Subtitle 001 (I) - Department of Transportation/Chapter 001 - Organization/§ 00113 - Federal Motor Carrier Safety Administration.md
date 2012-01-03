@@ -80,7 +80,7 @@ Pub. L. 106–159, title I, §106, Dec. 9, 1999, 113 Stat. 1756, provided that:
 
 “(a)
 
-Transfer of Assets and Personnel.—Except as otherwise provided in this Act \[see Tables for classification\] and the amendments made by this Act, those personnel, property, and records employed, used, held, available, or to be made available in connection with afunction transferred to the Federal Motor Carrier Safety Administration by this Act shall be transferred to the Administration for use in connection with the functions transferred, and unexpended balances of appropriations, allocations, and other funds of the Office of Motor Carrier Safety (including any predecessor entity) shall also be transferred to the Administration.
+Transfer of Assets and Personnel.—Except as otherwise provided in this Act \[see Tables for classification\] and the amendments made by this Act, those personnel, property, and records employed, used, held, available, or to be made available in connection with a function transferred to the Federal Motor Carrier Safety Administration by this Act shall be transferred to the Administration for use in connection with the functions transferred, and unexpended balances of appropriations, allocations, and other funds of the Office of Motor Carrier Safety (including any predecessor entity) shall also be transferred to the Administration.
 
 “(b)
 

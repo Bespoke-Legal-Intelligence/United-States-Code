@@ -8,7 +8,7 @@
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–181 substituted “any provision of section 5542(b)(2) or 5544(a),” for “section 5542(b)(2),”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–181 substituted “any provision of section 5542(b)(2) or 5544(a),” for “section 5542(b)(2),”.
 
 #### Effective Date of 2008 Amendment
 

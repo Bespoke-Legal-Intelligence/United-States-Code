@@ -30,6 +30,26 @@ The words “That the provisions of existing law relating to the award of medals
 
 <b>1963</b>—Pub. L. 88–77 enlarged authority to award medal of honor, which was limited to those cases in which persons distinguished themselves in action involving actual conflict with an enemy, to permit its award for distinguished service while engaged in an action against an enemy of the United States, while engaged in military operations involving conflict with an opposing foreign force, or while serving with friendly foreign forces engaged in an armed conflict against an opposing armed force in which the United States is not a belligerent party.
 
+#### Review Regarding Award of Medal of Honor to Jewish American World War I Veterans
+
+Pub. L. 112–81, div. A, title V, §595, Dec. 31, 2011, 125 Stat. 1444, provided that:
+
+“(a)
+
+Review Required.—The Secretary of the Army and the Secretary of the Navy shall review the service of each Jewish American World War I veteran described in subsection (b) to determine whether such veteran should be posthumously awarded the Medal of Honor.
+
+“(b)
+
+Covered Jewish American War Veterans.—The Jewish American World War I veterans whose service is to be reviewed under subsection (a) are any Jewish American World War I veterans awarded the Distinguished Service Cross or the Navy Cross for heroism during World War I and whose name and supporting material for upgrade of the award are submitted to the Secretary concerned for such purpose before the end of the one-year period beginning on the date of the enactment of this Act \[Dec. 31, 2011\].
+
+“(c)
+
+Recommendation Based on Review.—If the Secretary concerned determines, based upon the review under subsection (a) that the award of the Medal of Honor to a veteran is warranted, the Secretary shall submit to the Secretary of Defense a recommendation that the Medal of Honor be awarded posthumously to the veteran.
+
+“(d)
+
+World War I Defined.—In this section, the term ‘World War I’ means the period beginning on April 6, 1917, and ending on November 11, 1918.”
+
 #### Review Regarding Award of Medal of Honor to Certain Jewish American and Hispanic American War Veterans
 
 Pub. L. 107–107, div. A, title V, §552, Dec. 28, 2001, 115 Stat. 1115, provided that:
@@ -80,7 +100,7 @@ Pub. L. 104–106, div. A, title V, §524, Feb. 10, 1996, 110 Stat. 312, provide
 
 “(a)
 
-Review Required.—(1) The Secretary of the Army shall review the records relating to each award of the Distinguished-Service Cross, and the Secretary of the Navy shall review the records relating to each award of the Navy Cross, that was awarded to an Asian-American or a Native American Pacific Islander with respect to service as a member of the Armed Forcesduring World War II. The purpose of the review shall be to determine whether any such award should be upgraded to the Medal of Honor.
+Review Required.—(1) The Secretary of the Army shall review the records relating to each award of the Distinguished-Service Cross, and the Secretary of the Navy shall review the records relating to each award of the Navy Cross, that was awarded to an Asian-American or a Native American Pacific Islander with respect to service as a member of the Armed Forces during World War II. The purpose of the review shall be to determine whether any such award should be upgraded to the Medal of Honor.
 
 “(2) If the Secretary concerned determines, based upon the review under paragraph (1), that such an upgrade is appropriate in the case of any person, the Secretary shall submit to the President a recommendation that the President award the Medal of Honor to that person.
 

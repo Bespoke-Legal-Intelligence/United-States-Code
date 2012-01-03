@@ -10,7 +10,7 @@ In this subpart:
 
 &emsp;&emsp;(B) is created by a developer as a public school, or is adapted by a developer from an existing public school, and is operated under public supervision and direction;
 
-&emsp;&emsp;(C) operates in pursuit of a specific set of educational objectives determined by the school's developer and agreed to by the authorized public chartering agency;
+&emsp;&emsp;(C) operates in pursuit of a specific set of educational objectives determined by theschool's developer and agreed to by the authorized public chartering agency;
 
 &emsp;&emsp;(D) provides a program of elementary or secondary education, or both;
 

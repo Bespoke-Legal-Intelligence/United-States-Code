@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) property of the estate, after the date of the filing of the petition;
 
-&emsp;(3) the debtor has concealed, destroyed, mutilated, falsified, or failed to keep or preserve any recorded information, including books, documents, records, and papers, from which the debtor's financial condition or business transactions might be ascertained, unless such act or failure to act was justified under all of the circumstances of the case;
+&emsp;(3) the debtor has concealed, destroyed, mutilated, falsified, or failed to keep or preserveany recorded information, including books, documents, records, and papers, from which the debtor's financial condition or business transactions might be ascertained, unless such act or failure to act was justified under all of the circumstances of the case;
 
 &emsp;(4) the debtor knowingly and fraudulently, in or in connection with the case—
 
@@ -72,7 +72,7 @@
 
 &emsp;&emsp;(A) a material misstatement in an audit referred to in section 586(f) of title 28; or
 
-&emsp;&emsp;(B) a failure to make available for inspection all necessary accounts, papers, documents, financial records, files, and all other papers, things, or property belonging to the debtor that are requested for an audit referred to in section 586(f) of title 28.
+&emsp;&emsp;(B) a failure to make available for inspection all necessary accounts, papers, documents, financial records, files, and all other papers, things, or property belonging to thedebtor that are requested for an audit referred to in section 586(f) of title 28.
 
 (e) The trustee, a creditor, or the United States trustee may request a revocation of a discharge—
 
@@ -88,7 +88,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Sections 727(a) (8) and (9) of the House amendment represent a compromise between provisions contained in section 727(a)(8) of the House bill and Senate amendment. Section 727(a)(8) of the House amendment adopts section 727(a)(8) of the House bill. However, section 727(a)(9) of the House amendment contains a compromise based on section 727(a)(8) of the Senate amendment with respect to the circumstances under which a plan by way of composition under Chapter XIII of the Bankruptcy Act \[chapter 13 of former title 11\] should be a bar to discharge in a subsequent proceeding under title 11. The paragraph provides that a discharge under section 660 or 661 of the Bankruptcy Act \[section 1060 or 1061 of former title 11\] or section 1328 of title 11 in a case commenced within 6 years before the date of the filing of the petition in a subsequent case, operates as a bar to discharge unless, first, payments under the plan totaled at least 100 percent of the allowed unsecured claims in the case; or second, payments under the plan totaled at least 70 percent of the allowed unsecured claims in the case and the plan was proposed by the debtor in good faith and was the debtor's best effort.
 
@@ -130,7 +130,7 @@ Sections 660 and 661 of the Bankruptcy Act, referred to in subsec. (a)(9), are s
 
 #### Amendments
 
-2005—Subsec. (a)(8). Pub. L. 109–8, §312(1), substituted “8 years” for “six years”.
+<b>2005</b>—Subsec. (a)(8). Pub. L. 109–8, §312(1), substituted “8 years” for “six years”.
 
 Subsec. (a)(11). Pub. L. 109–8, §106(b), added par. (11).
 
@@ -138,7 +138,7 @@ Subsec. (a)(12). Pub. L. 109–8, §330(a), added par. (12).
 
 Subsec. (d)(4). Pub. L. 109–8, §603(d), added par. (4).
 
-1986—Subsec. (a)(9). Pub. L. 99–554, §257(s), inserted reference to section 1228 of this title.
+<b>1986</b>—Subsec. (a)(9). Pub. L. 99–554, §257(s), inserted reference to section 1228 of this title.
 
 Subsec. (c). Pub. L. 99–554, §220, amended subsec. (c) generally, substituting “The trustee, a creditor, or the United States trustee may object” for “The trustee or a creditor may object” in par. (1).
 
@@ -146,7 +146,7 @@ Subsec. (d). Pub. L. 99–554, §220, amended subsec. (d) generally, substitutin
 
 Subsec. (e). Pub. L. 99–554, §220, amended subsec. (e) generally, substituting “The trustee, a creditor, or the United States trustee may” for “The trustee or a creditor may” in provisions preceding par. (1), “section within” for “section, within” and “discharge is granted” for “discharge was granted” in par. (1), “section before” for “section, before” in provisions of par. (2) preceding subpar. (A), and “discharge; and” for “discharge; or” in par. (2)(A).
 
-1984—Subsec. (a)(6)(C). Pub. L. 98–353, §480(a)(1), substituted “properly” for “property”.
+<b>1984</b>—Subsec. (a)(6)(C). Pub. L. 98–353, §480(a)(1), substituted “properly” for “property”.
 
 Subsec. (a)(7). Pub. L. 98–353, §480(a)(2), inserted “, under this title or under the Bankruptcy Act,” after “another case”.
 

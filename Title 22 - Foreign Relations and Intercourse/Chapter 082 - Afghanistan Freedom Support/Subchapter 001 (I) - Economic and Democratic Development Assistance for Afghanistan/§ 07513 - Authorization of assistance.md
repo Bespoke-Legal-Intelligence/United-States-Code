@@ -100,11 +100,11 @@ Notwithstanding any other provision of law, the President is authorized to provi
 
 &emsp;&emsp;&emsp;(i) support for the activities of the Government of Afghanistan to implement its constitution, to develop modern legal codes and court rules, to provide for the creation of legal assistance programs, and other initiatives to promote the rule of law in Afghanistan;
 
-&emsp;&emsp;&emsp;(ii) support for improvements in the capacity and physical infrastructure of the justice system in Afghanistan, such as for professional training (including for women) to improve the administration of justice, for programs to enhance prosecutorial and judicial capabilities and to protect participants in judicial cases, for improvements in the instruction of law enforcement personnel (including human rights training), and for the promotion of civilian police roles that support democracy;
+&emsp;&emsp;&emsp;(ii) support for improvements in the capacity and physical infrastructure of the justice system in Afghanistan, such as for professional training (including for women) to improve the administration ofjustice, for programs to enhance prosecutorial and judicial capabilities and to protect participants in judicial cases, for improvements in the instruction of law enforcement personnel (including human rights training), and for the promotion of civilian police roles that support democracy;
 
 &emsp;&emsp;&emsp;(iii) support for rehabilitation and rebuilding of courthouses and detention facilities;
 
-&emsp;&emsp;&emsp;(iv) support for the effective administration of justice at the national, regional,and local levels, including programs to improve penal institutions and the rehabilitation of prisoners, and to establish a responsible and community-based police force;
+&emsp;&emsp;&emsp;(iv) support for the effective administration of justice at the national, regional, and local levels, including programs to improve penal institutions and the rehabilitation of prisoners, and to establish a responsible and community-based police force;
 
 &emsp;&emsp;&emsp;(v) support to increase the transparency, accountability, and participatory nature of governmental institutions, including programs designed to combat corruption and other programs for the promotion of good governance, such as the development of regulations relating to financial disclosure for public officials, political parties, and candidates for public office, and transparent budgeting processes and financial management systems;
 
@@ -258,7 +258,7 @@ Subsec. (a)(3)(A)(i). Pub. L. 108–458, §7104(j)(1)(A), substituted “promote
 
 Subsec. (a)(3)(A)(ii). Pub. L. 108–458, §7104(j)(1)(B), inserted “, and to create special counternarcotics courts, prosecutors, and places of incarceration” before semicolon at end.
 
-Subsec. (a)(3)(A)(iii). Pub. L. 108–458, §7104(j)(1)(C), inserted before semicolon at end “, in particular, notwithstanding section 2420 of this title, by providingnon-lethal equipment, training (including training in internationally recognized standards of human rights, the rule of law, anti-corruption, and the promotion of civilian police roles that support democracy), and payments, during fiscal years 2005 through 2008, for salaries for special counternarcotics police and supporting units”.
+Subsec. (a)(3)(A)(iii). Pub. L. 108–458, §7104(j)(1)(C), inserted before semicolon at end “, in particular, notwithstanding section 2420 of this title, by providing non-lethal equipment, training (including training in internationally recognized standards of human rights, the rule of law, anti-corruption, and the promotion of civilian police roles that support democracy), and payments, during fiscal years 2005 through 2008, for salaries for special counternarcotics police and supporting units”.
 
 Subsec. (a)(3)(A)(vi). Pub. L. 108–458, §7104(j)(1)(D)–(F), added cl. (vi).
 
@@ -276,7 +276,7 @@ Committee on International Relations of House of Representatives changed to Comm
 
 #### Authority To Establish a Program To Develop and Carry Out Infrastructure Projects in Afghanistan
 
-Pub. L. 111–383, div. A, title XII, §1217, Jan. 7, 2011, 124 Stat. 4393, provided that:
+Pub. L. 111–383, div. A, title XII, §1217, Jan. 7, 2011, 124 Stat. 4393, as amended by Pub. L. 112–81, div. A, title XII, §1217, Dec. 31, 2011, 125 Stat. 1632, provided that:
 
 “(a)
 
@@ -324,15 +324,23 @@ Funding.—
 
 &emsp;“(1)
 
-In general.—The Secretary of Defense may use up to $400,000,000 of funds made available to the Department of Defense for operation and maintenance for fiscal year 2011 to carry out the program authorized under subsection (a).
+In general.—Subject to paragraph (2), the Secretary of Defense may use up to $400,000,000 of funds made available to the Department of Defense for operation and maintenance for fiscal year 2012 to carry out the program authorized under subsection (a).
 
 &emsp;“(2)
 
-Availability.—Funds made available by paragraph (1) are authorized to remain available until September 30, 2012.
+Limitation.—The Secretary of Defense may use not more than 85 percent of the amount specified in paragraph (1) to carry out the program authorized under subsection (a) until the Secretary of Defense, in consultation with the Secretary of State, submits to the appropriate congressional committees a plan for the allocation and use of funds under the program for fiscal year 2012.
+
+&emsp;“(3)
+
+Availability.—Funds made available by paragraph (1) are authorized to remain available as follows:
+
+&emsp;&emsp;“(A) In the case of funds for fiscal year 2011, until September 30, 2012.
+
+&emsp;&emsp;“(B) In the case of funds for fiscal year 2012, until September 30, 2013.
 
 “(g)
 
-Congressional Notification.—The Secretary of Defense shall notify the appropriate congressional committees not less than 30 days before obligating or expending funds to carry out a project or transferring funds to the Secretary of State for the purpose of implementing a project under the program authorized under subsection (a). Such notification shall be in writing and contain a description of the details of the proposed project, including—
+Congressional Notification.—The Secretary of Defense shall notify the appropriate congressional committees not less than 15 days before obligating or expending funds to carry out a project or transferring funds to the Secretary of State for the purpose of implementing a project under the program authorized under subsection (a). Such notification shall be in writing and contain a description of the details of the proposed project, including—
 
 &emsp;“(1) a plan for the sustainment of the project; and
 
@@ -458,7 +466,7 @@ Implementation.—(1) In providing assistance under subsection (a), the Presiden
 
 “(c)
 
-Availability of Funds.—Funds made available under the 2001 Emergency Supplemental Appropriations Act for Recovery from and Response to Terrorist Attacks on the United States (Public Law 107–38) \[115 Stat. 220\], shall be available to carry out this Act.”
+Availability of Funds.—Funds made available under the 2001 Emergency Supplemental Appropriations Act for Recovery from and Response to TerroristAttacks on the United States (Public Law 107–38) \[115 Stat. 220\], shall be available to carry out this Act.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “ordnance.”</i>
 

@@ -34,5 +34,5 @@ The site of any hearings held under section 6106 or 6107 of this title shall be 
 
 #### Amendments
 
-1991—Subsec. (b)(2). Pub. L. 102–237 struck out “section” after “6106 or”.
+<b>1991</b>—Subsec. (b)(2). Pub. L. 102–237 struck out “section” after “6106 or”.
 

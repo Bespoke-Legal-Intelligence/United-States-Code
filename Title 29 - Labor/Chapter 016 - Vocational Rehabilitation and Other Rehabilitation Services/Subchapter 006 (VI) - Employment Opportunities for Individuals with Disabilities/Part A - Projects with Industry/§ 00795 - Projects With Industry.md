@@ -68,7 +68,7 @@ Payments under this section with respect to any project may not exceed 80 per ce
 
 #### (d) Standards for evaluation; recommendations
 
-(1) The Commissioner shall develop standards for the evaluation described in subsection (a)(5) of this section and shall review and revise the evaluation standards as necessary, subject to paragraph (2).
+(1) The Commissioner shall develop standards for the evaluation described in subsection (a)(5)of this section and shall review and revise the evaluation standards as necessary, subject to paragraph (2).
 
 (2) In revising the standards for evaluation to be used by the grant recipients, the Commissioner shall obtain and consider recommendations for such standards from State vocational rehabilitation agencies, current and former grant recipients, professional organizations representing business and industry, organizations representing individuals with disabilities, individuals served by grant recipients, organizations representing community rehabilitation program providers, and labor organizations.
 

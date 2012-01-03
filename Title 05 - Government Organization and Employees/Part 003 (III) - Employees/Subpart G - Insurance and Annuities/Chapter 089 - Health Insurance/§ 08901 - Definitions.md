@@ -174,19 +174,19 @@ The date of enactment of section 8903a of this title, referred to in par. (8)(B)
 
 #### Amendments
 
-2007—Par. (1)(J). Pub. L. 110–74 added subpar. (J).
+<b>2007</b>—Par. (1)(J). Pub. L. 110–74 added subpar. (J).
 
-1998—Par. (7). Pub. L. 105–266 substituted “organization and an association of organizations or other entities described in this paragraph sponsoring a health benefits plan;” for “organization;”.
+<b>1998</b>—Par. (7). Pub. L. 105–266 substituted “organization and an association of organizations or other entities described in this paragraph sponsoring a health benefits plan;” for “organization;”.
 
-1992—Par. (3)(A)(iv). Pub. L. 102–378, §2(75)(A), substituted “8347(q)(2)” for “8347(p)(2)”.
+<b>1992</b>—Par. (3)(A)(iv). Pub. L. 102–378, §2(75)(A), substituted “8347(q)(2)” for “8347(p)(2)”.
 
 Par. (10)(C)(ii). Pub. L. 102–378, §2(75)(B), inserted comma after “8341(h)”.
 
-1990—Par. (3)(A)(iv). Pub. L. 101–508 added cl. (iv).
+<b>1990</b>—Par. (3)(A)(iv). Pub. L. 101–508 added cl. (iv).
 
-1988—Par. (1)(H), (I). Pub. L. 100–679 added subpars. (H) and (I).
+<b>1988</b>—Par. (1)(H), (I). Pub. L. 100–679 added subpars. (H) and (I).
 
-1986—Par. (1)(E). Pub. L. 99–335, §207(<i>l</i>)(1), amended subpar. (E) generally, substituting “first employed” for “employed” and inserting “before October 1, 1987”.
+<b>1986</b>—Par. (1)(E). Pub. L. 99–335, §207(<i>l</i>)(1), amended subpar. (E) generally, substituting “first employed” for “employed” and inserting “before October 1, 1987”.
 
 Par. (3)(A). Pub. L. 99–335, §207(<i>l</i>)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “an employee who retires on an immediate annuity under subchapter III of chapter 83 of this title or another retirement system for employees of the Government, after 5 or more years of service or for disability”.
 
@@ -200,19 +200,19 @@ Par. (10)(C)(ii). Pub. L. 99–335, §207(<i>l</i>)(5), substituted “8345(j), 
 
 Par. (11). Pub. L. 99–251 added par. (11).
 
-1985—Par. (8). Pub. L. 99–53 amended par. (8) generally, designating existing provisions as subpar. (A) and adding subpar. (B).
+<b>1985</b>—Par. (8). Pub. L. 99–53 amended par. (8) generally, designating existing provisions as subpar. (A) and adding subpar. (B).
 
-1984—Par. (10). Pub. L. 98–615 added par. (10).
+<b>1984</b>—Par. (10). Pub. L. 98–615 added par. (10).
 
-1980—Par. (5). Pub. L. 96–179, §2(1), inserted “dependent” after “unmarried” in provisions preceding subpar. (A) and in provisions following subpar. (B), inserted “or recognized natural child” after “child” in subpar. (A), and substituted “or foster child but only if the child;” for “, foster child, or recognized natural child who” in subpar. (B).
+<b>1980</b>—Par. (5). Pub. L. 96–179, §2(1), inserted “dependent” after “unmarried” in provisions preceding subpar. (A) and in provisions following subpar. (B), inserted “or recognized natural child” after “child” in subpar. (A), and substituted “or foster child but only if the child;” for “, foster child, or recognized natural child who” in subpar. (B).
 
 Par. (9). Pub. L. 96–179, §2(2)–(4), added par. (9).
 
-1979—Par. (1). Pub. L. 96–70 in cl. (ii) substituted provisions relating to an individual who was an employee for the purpose of this chapter on Sept. 30, 1979, by reason of service in an Executive agency, United States Postal Service, or Smithsonian Institution in area which was then known as Canal Zone for provisions relating to Panama Canal Zone.
+<b>1979</b>—Par. (1). Pub. L. 96–70 in cl. (ii) substituted provisions relating to an individual who was an employee for the purpose of this chapter on Sept. 30, 1979, by reason of service in an Executive agency, United States Postal Service, or Smithsonian Institution in area which was then known as Canal Zone for provisions relating to Panama Canal Zone.
 
 Pub. L. 96–54 struck out cl. (G) which related to coverage of a United States Commissioner as an “employee”, and redesignated cl. (H) as (G).
 
-1978—Par. (1)(iv). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
+<b>1978</b>—Par. (1)(iv). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
 
 Par. (3)(A). Pub. L. 95–583 reduced period of service to 5 from 12 years.
 
@@ -220,9 +220,9 @@ Par. (8). Pub. L. 95–454 substituted “Office” for “Commission”.
 
 Pub. L. 95–368 substituted “after December 31, 1978, and before January 1, 1980” for “before January 1, 1964”.
 
-1973—Par. (1)(ii). Pub. L. 93–160 excluded from definition of “employee” persons who are not nationals of United States and whose permanent duty station is outside United States and Panama Canal Zone.
+<b>1973</b>—Par. (1)(ii). Pub. L. 93–160 excluded from definition of “employee” persons who are not nationals of United States and whose permanent duty station is outside United States and Panama Canal Zone.
 
-1970—Par. (1)(ii). Pub. L. 91–418, §3(b), excluded from definition of “employee” a noncitizen employee whose permanent duty station is outside Panama Canal Zone.
+<b>1970</b>—Par. (1)(ii). Pub. L. 91–418, §3(b), excluded from definition of “employee” a noncitizen employee whose permanent duty station is outside Panama Canal Zone.
 
 Par. (3)(B). Pub. L. 91–418, §2(a), redefined “annuitant” to be a member of a family who receives an immediate annuity as the survivor of an employee ratherthan as the survivor of an employee who dies after completing 5 or more years of service.
 

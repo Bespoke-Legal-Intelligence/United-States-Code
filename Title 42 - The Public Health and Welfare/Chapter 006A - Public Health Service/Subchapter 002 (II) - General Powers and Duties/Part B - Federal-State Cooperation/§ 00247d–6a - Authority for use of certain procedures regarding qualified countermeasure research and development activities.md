@@ -54,7 +54,7 @@
 
 #### (B) Application of certain provisions
 
-&emsp;&emsp;Notwithstanding subparagraph (A) and the provision of law and regulations referred to in such subparagraph, each of the following provisions shall apply to procurements described in this paragraph to the same extent that such provisions would apply to such procurements in the absence of subparagraph (A):
+&emsp;&emsp;Notwithstanding subparagraph (A) and the provision of law and regulations referred toin such subparagraph, each of the following provisions shall apply to procurements described in this paragraph to the same extent that such provisions would apply to such procurements in the absence of subparagraph (A):
 
 &emsp;&emsp;&emsp;(i) Chapter 37 of title 40 (relating to contract work hours and safety standards).
 
@@ -90,7 +90,7 @@
 
 #### (C) Applicable government-wide regulations
 
-&emsp;&emsp;The Secretary shall implement this paragraph in accordance with government-wide regulations implementing such section 3304(a)(1) (including requirements that offers be solicited from as many potential sources as is practicable under the circumstances, that required notices be published, and that submitted offers be considered), as such regulations apply to procurements for which anagency has authority to use procedures other than competitive procedures when the property or services needed by the agency are available from only one responsible source or only from a limited number of responsible sources and no other type of property or services will satisfy the needs of the agency.
+&emsp;&emsp;The Secretary shall implement this paragraph in accordance with government-wide regulations implementing such section 3304(a)(1) (including requirements that offers be solicited from as many potential sources as is practicable under the circumstances, that required notices be published, and that submitted offers be considered), as such regulations apply to procurements for which an agency has authority to use procedures other than competitive procedures when the property or services needed by the agency are available from only one responsible source or only from a limited number of responsible sources and no other type of property or services will satisfy the needs of the agency.
 
 #### (3) Increased micropurchase threshold
 
@@ -128,7 +128,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary may, as the Secretary determines necessary to respond to pressing qualified countermeasure research and development needs under this section, employ such expedited peer review procedures (including consultation with appropriate scientific experts) as the Secretary, in consultation with the Director of NIH, deems appropriate to obtain assessment of scientific and technical merit and likely contribution to the field of qualified countermeasure research, in place of the peer review and advisory council review procedures that would be required under sections 241(a)(3), 284(b)(1)(B), 284(b)(2), 284a(a)(3)(A), 289a, and 289c of this title, as applicable to a grant, contract, or cooperative agreement—
+&emsp;The Secretary may, as the Secretary determines necessary to respond to pressing qualified countermeasure research and development needs under this section, employ such expedited peer review procedures (including consultation with appropriate scientific experts) as the Secretary, in consultation with the Director of NIH, deems appropriate to obtain assessment of scientific and technical merit and likely contribution to the field of qualifiedcountermeasure research, in place of the peer review and advisory council review procedures that would be required under sections 241(a)(3), 284(b)(1)(B), 284(b)(2), 284a(a)(3)(A), 289a, and 289c of this title, as applicable to a grant, contract, or cooperative agreement—
 
 &emsp;&emsp;(A) that is for performing, administering, or supporting qualified countermeasure research and development activities; and
 
@@ -158,7 +158,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Should payment be made by the United States to any claimant bringing a claimunder this paragraph, either by way of administrative determination, settlement, or court judgment, the United States shall have, notwithstanding any provision of State law, the right to recover against any entity identified in subparagraph (B) for that portion of the damages so awarded or paid, as well as interest and any costs of litigation, resulting from the failure of any such entity to carry out any obligation or responsibility assumed by such entity under a contract with the United States or from any grossly negligent or reckless conduct or intentional or willful misconduct on the part of such entity.
+&emsp;&emsp;&emsp;Should payment be made by the United States to any claimant bringing a claim under this paragraph, either by way of administrative determination, settlement, or court judgment, the United States shall have, notwithstanding any provision of State law, the right to recover against any entity identified in subparagraph (B) for that portion of the damages so awarded or paid, as well as interest and any costs of litigation, resulting from the failure of any such entity to carry out any obligation or responsibility assumed by such entity under a contract with the United States or from any grossly negligent or reckless conduct or intentional or willful misconduct on the part of such entity.
 
 #### (ii) Venue
 
@@ -220,7 +220,7 @@ In subsec. (b)(1)(A), “section 134 of title 41” substituted for “section 4
 
 In subsec. (b)(1)(A)(i), “section 3305(a)(1) of title 41” substituted for “section 303(g)(1)(A) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(g)(1)(A))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (b)(1)(A)(ii), “section 3101(b)(1)(B) of title 41” substituted for “section 302A(b) of such Act (41U.S.C. 252a(b))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (b)(1)(A)(ii), “section 3101(b)(1)(B) of title 41” substituted for “section 302A(b) of such Act (41 U.S.C. 252a(b))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 In subsec. (b)(1)(B)(ii), “Section 8703(a) of title 41” substituted for “Subsections (a) and (b) of section 7 of the Anti-Kickback Act of 1986 (41 U.S.C. 57(a) and (b))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
@@ -260,7 +260,7 @@ Meetings and consultations to discuss security countermeasures, qualified counte
 
 &emsp;&emsp;“(A)
 
-Authority to conduct meetings and consultations.—The Secretary of Health and Human Services (referred to in this subsection as the ‘Secretary’), in coordination with the Attorney General and the Secretary of Homeland Security, may conduct meetings and consultations with persons engaged in the development of a security countermeasure (as defined in section 319F–2 of the Public Health Service Act (42 U.S.C. 247d–6b)) (as amended by this Act), a qualified countermeasure (as defined in section 319F–1 of the Public Health Service Act (42 U.S.C. 247d–6a)) (as amended by this Act), or a qualified pandemic or epidemic product (as defined in section 319F–3 of the Public Health Service Act (42 U.S.C. 247d–6d)) for the purpose of the development, manufacture, distribution, purchase, or storage of a countermeasure or product. The Secretary may convene such meeting or consultation at the request of the Secretary of Homeland Security, the Attorney General, the Chairman of the Federal Trade Commission (referred to in this section as the ‘Chairman’), or any interested person, or upon initiation by the Secretary. The Secretary shall give prior notice of any such meeting or consultation, and the topics to be discussed, to the Attorney General, the Chairman, and the Secretary of Homeland Security.
+Authority to conduct meetings and consultations.—The Secretary of Health and Human Services (referred to in this subsection as the ‘Secretary’), in coordination with the Attorney Generaland the Secretary of Homeland Security, may conduct meetings and consultations with persons engaged in the development of a security countermeasure (as defined in section 319F–2 of the Public Health Service Act (42 U.S.C. 247d–6b)) (as amended by this Act), a qualified countermeasure (as defined in section 319F–1 of the Public Health Service Act (42 U.S.C. 247d–6a)) (as amended by this Act), or a qualified pandemic or epidemic product (as defined in section 319F–3 of the Public Health Service Act (42 U.S.C. 247d–6d)) for the purpose of the development, manufacture, distribution, purchase, or storage of a countermeasure or product. The Secretary may convene such meeting or consultation at the request of the Secretary of Homeland Security, the Attorney General, the Chairman of the Federal Trade Commission (referred to in this section as the ‘Chairman’), or any interested person, or upon initiation by the Secretary. The Secretary shall give prior notice of any such meeting or consultation, and the topics to be discussed, to the Attorney General, the Chairman, and the Secretary of Homeland Security.
 
 &emsp;&emsp;“(B)
 
@@ -402,7 +402,7 @@ Exception.—The term ‘covered activities’ shall not include, with respect t
 
 #### Outreach
 
-Pub. L. 108–276, §6, July 21, 2004, 118 Stat. 862, provided that: “The Secretary of Health and Human Services shall develop outreach measures to ensure to the extent practicable that diverse institutions, including Historically Black Colleges and Universities and those serving large proportions of Black or African Americans, American Indians, Appalachian Americans, Alaska Natives, Asians, Native Hawaiians, other Pacific Islanders, Hispanics or Latinos, or other underrepresented populations, are meaningfully aware of available research and development grants, contracts, cooperative agreements, and procurements conducted under sections 2 and 3 of this Act \[enacting this sectionand section 320 of Title 6, Domestic Security, amending sections 247d–6, 247d–6b, 287a–2, and 300aa–6 of this title and sections 312 and 313 of Title 6, renumbering section 300hh–12 of this title as section 247d–6b of this title, and enacting provisions set out as notes under this section and section 247d–6b of this title\].”
+Pub. L. 108–276, §6, July 21, 2004, 118 Stat. 862, provided that: “The Secretary of Health and Human Services shall develop outreach measures to ensure to the extent practicable that diverse institutions, including Historically Black Colleges and Universities and those serving large proportions of Black or African Americans, American Indians, Appalachian Americans, Alaska Natives, Asians, Native Hawaiians, other Pacific Islanders, Hispanics or Latinos, or other underrepresented populations, are meaningfully aware of available research and development grants, contracts, cooperative agreements, and procurements conducted under sections 2 and 3 of this Act \[enacting this section and section 320 of Title 6, Domestic Security, amending sections 247d–6, 247d–6b, 287a–2, and 300aa–6 of this title and sections 312 and 313 of Title 6, renumbering section 300hh–12 of this title as section 247d–6b of this title, and enacting provisions set out as notes under this section and section 247d–6b of this title\].”
 
 #### Recommendation for Export Controls on Certain Biomedical Countermeasures
 

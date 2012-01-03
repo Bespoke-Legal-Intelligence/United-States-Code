@@ -38,7 +38,7 @@ Contents of Solicitation.—In addition to the specifications described in subse
 
 &emsp;(1) a statement of—
 
-&emsp;&emsp;(A) all significant factors and significant subfactors that the executive agency reasonably expects to consider in evaluating sealedbids (including price) or competitive proposals (including cost or price, cost-related or price-related factors and subfactors, and noncost-related or nonprice-related factors and subfactors); and
+&emsp;&emsp;(A) all significant factors and significant subfactors that the executive agency reasonably expects to consider in evaluating sealed bids (including price) or competitive proposals (including cost or price, cost-related or price-related factors and subfactors, and noncost-related or nonprice-related factors and subfactors); and
 
 &emsp;&emsp;(B) the relative importance assigned to each of those factors and subfactors; and
 

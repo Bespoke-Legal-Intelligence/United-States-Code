@@ -124,7 +124,7 @@
 
 (e) Any institution-affiliated party of an insured depository institution shall be considered to be acting in a fiduciary capacity with respect to the purposes of subsection (a)(4) or (11).
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2590; Pub. L. 96–56, §3, Aug. 14, 1979, 93 Stat. 387; Pub. L. 97–35, title XXIII, §2334(b), Aug. 13, 1981, 95 Stat. 863; Pub. L. 98–353, title III, §§307, 371, 454, July 10, 1984, 98 Stat. 353, 364, 375; Pub. L. 99–554, title II, §§257(n), 281, 283(j), Oct. 27, 1986, 100 Stat. 3115–3117; Pub. L. 101–581, §2(a), Nov. 15, 1990, 104 Stat. 2865; Pub. L. 101–647, title XXV, §2522(a), title XXXI, §3102(a), title XXXVI, §3621, Nov. 29, 1990, 104 Stat. 4865, 4916, 4964; Pub. L. 103–322, title XXXII, §320934, Sept. 13, 1994, 108 Stat. 2135; Pub. L. 103–394, title II, §221, title III, §§304(e), (h)(3), 306, 309, title V, §501(d)(13), Oct. 22, 1994, 108 Stat. 4129, 4133–4135, 4137, 4145; Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §804(b)\], Apr. 26, 1996, 110 Stat. 1321, 1321–74; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–193, title III, §374(a), Aug. 22, 1996, 110 Stat. 2255; Pub. L. 105–244, title IX, §971(a), Oct. 7, 1998, 112 Stat. 1837; Pub. L. 107–204, title VIII, §803, July 30, 2002, 116 Stat. 801; Pub. L. 109–8, title II, §§215, 220, 224(c), title III, §§301, 310, 314(a), title IV, §412, title VII, §714, title XII, §§1209, 1235, title XIV, §1404(a), title XV, §1502(a)(2), Apr. 20, 2005, 119 Stat. 54, 59, 64, 75, 84, 88, 107, 128, 194, 204, 215, 216; Pub. L. 111–327, §2(a)(18), Dec. 22, 2010, 124 Stat. 3559.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2590; Pub. L. 96–56, §3, Aug. 14, 1979, 93 Stat. 387; Pub. L. 97–35, title XXIII, §2334(b), Aug. 13, 1981, 95 Stat. 863; Pub. L. 98–353, title III, §§307, 371, 454, July 10, 1984, 98 Stat. 353, 364, 375; Pub. L. 99–554, title II, §§257(n), 281, 283(j), Oct. 27, 1986, 100 Stat. 3115–3117; Pub. L. 101–581, §2(a), Nov. 15, 1990, 104 Stat. 2865; Pub. L. 101–647, title XXV, §2522(a),title XXXI, §3102(a), title XXXVI, §3621, Nov. 29, 1990, 104 Stat. 4865, 4916, 4964; Pub. L. 103–322, title XXXII, §320934, Sept. 13, 1994, 108 Stat. 2135; Pub. L. 103–394, title II, §221, title III, §§304(e), (h)(3), 306, 309, title V, §501(d)(13), Oct. 22, 1994, 108 Stat. 4129, 4133–4135, 4137, 4145; Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §804(b)\], Apr. 26, 1996, 110 Stat. 1321, 1321–74; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–193, title III, §374(a), Aug. 22, 1996, 110 Stat. 2255; Pub. L. 105–244, title IX, §971(a), Oct. 7, 1998, 112 Stat. 1837; Pub. L. 107–204, title VIII, §803, July 30, 2002, 116 Stat. 801; Pub. L. 109–8, title II, §§215, 220, 224(c), title III, §§301, 310, 314(a), title IV, §412, title VII, §714, title XII, §§1209, 1235, title XIV, §1404(a), title XV, §1502(a)(2), Apr. 20, 2005, 119 Stat. 54, 59, 64, 75, 84, 88, 107, 128, 194, 204, 215, 216; Pub. L. 111–327, §2(a)(18), Dec. 22, 2010, 124 Stat. 3559.)
 
 #### Adjustment of Dollar Amounts
 
@@ -132,7 +132,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 523(a)(1) represents a compromise between the position taken in the House bill and the Senate amendment. Section 523(a)(2) likewise represents a compromise between the position taken in the House bill and the Senate amendment with respect to the false financial statement exception to discharge. In order to clarify that a “renewal of credit” includes a “refinancing of credit”, explicit reference to a refinancing of credit is made in the preamble to section 523(a)(2). A renewal of credit or refinancing of credit that was obtained by a false financial statement within the terms of section 523(a)(2) is nondischargeable. However, each of the provisions of section 523(a)(2) must be proved. Thus, under section 523(a)(2)(A) a creditor must prove that the debt was obtained by false pretenses, a false representation, or actual fraud, other than a statement respecting the debtor's or an insider's financial condition. Subparagraph (A) is intended to codify current case law e.g., <i>Neal v. Clark</i>, 95 U.S. 704 (1887) \[24 L. Ed. 586\], which interprets “fraud” to mean actual or positive fraud rather than fraud implied in law. Subparagraph (A) is mutually exclusive from subparagraph (B). Subparagraph (B) pertains to the so-called false financial statement. In order for the debt to be nondischargeable, the creditor must prove that the debt was obtained by the use of a statement in writing (i) that is materially false; (ii) respecting the debtor's or an insider's financial condition; (iii) on which the creditor to whom the debtor is liable for obtaining money, property, services, or credit reasonably relied; (iv) that the debtor caused to be made or published with intent to deceive. Section 523(a)(2)(B)(iv) is not intended to change from present law since the statement that the debtor causes to be made or published with the intent to deceive automatically includes a statement that the debtor actually makes or publishes with an intent to deceive. Section 523(a)(2)(B) is explained in the House report. Under section 523(a)(2)(B)(i) a discharge is barred only as to that portion of a loan with respect to which a false financial statement is materially false.
 
@@ -160,7 +160,7 @@ Nondischargeable debts: The House amendment retains the basic categories of nond
 
 In the case of individuals in liquidation under chapter 7 or in reorganization under chapter 11 of title 11, section 1141(d)(2) incorporates by reference the exceptions to discharge continued in section 523. Different rules concerning the discharge of taxes where a partnership or corporation reorganizes under chapter 11, apply under section 1141.
 
-The House amendment also deletes the reduction rule contained in section 523(e) of the Senate amendment. Under that rule, the amount of an otherwise nondischargeable tax liability would be reduced by the amount which a governmental tax authority could have collected from the debtor's estate if it had filed a timely claim against the estate but which it did not collect because no such claim was filed. This provision is deleted in order not to effectively compel a tax authority to file claim against the estate in “no asset” cases, along with a dischargeability petition. In no-asset cases, therefore, if the tax authority is not potentially penalized by failing to file a claim, the debtor in such cases will have a better opportunity to choose the prepayment forum, bankruptcy court or the Tax Court, in which to litigate his personal liability for a nondischargeable tax.
+The House amendment also deletes the reduction rule contained in section 523(e) of the Senate amendment.Under that rule, the amount of an otherwise nondischargeable tax liability would be reduced by the amount which a governmental tax authority could have collected from the debtor's estate if it had filed a timely claim against the estate but which it did not collect because no such claim was filed. This provision is deleted in order not to effectively compel a tax authority to file claim against the estate in “no asset” cases, along with a dischargeability petition. In no-asset cases, therefore, if the tax authority is not potentially penalized by failing to file a claim, the debtor in such cases will have a better opportunity to choose the prepayment forum, bankruptcy court or the Tax Court, in which to litigate his personal liability for a nondischargeable tax.
 
 The House amendment also adopts the Senate amendment provision limiting the nondischargeability of punitive tax penalties, that is, penalties other than those which represent collection of a principal amount of tax liability through the form of a “penalty.” Under the House amendment, tax penalties which are basically punitive in nature are to be nondischargeable only if the penalty is computed by reference to a related tax liability which is nondischargeable or, if the amount of the penalty is not computed by reference to a tax liability, the transaction or event giving rise to the penalty occurred during the 3-year period ending on the date of the petition.
 
@@ -220,7 +220,7 @@ Paragraph (7) excepts from discharge a debt for a fine, penalty, or forfeiture p
 
 Paragraph (8) \[enacted as (9)\] excepts from discharge debts that the debtor owed before a previous bankruptcy case concerning the debtor in which the debtor was denied a discharge other than on the basis of the six-year bar.
 
-Subsection (d) is new. It provides protection to a consumer debtor that dealt honestly with a creditor who sought to have a debt excepted from discharge on grounds of falsity in the incurring of the debt. The debtor is entitled to costs of and a reasonable attorney's fee for the proceeding to determine the dischargeability of a debt under subsection (a)(2), if the creditor initiated the proceeding and the debt was determined to be dischargeable. The court is permitted to award any actual pecuniary loss that the debtor may have suffered as a result of the proceeding (such as loss of a day's pay). The purpose of the provision is to discourage creditors from initiating false financial statement exception to discharge actions in the hopes of obtaining a settlement from an honest debtor anxious to save attorney's fees. Such practices impair the debtor's fresh start.
+Subsection (d) is new. It provides protection to a consumer debtor that dealt honestly with a creditor who sought to have a debt excepted from discharge on grounds of falsity in the incurring of the debt. The debtor is entitled to costs of and a reasonable attorney's fee for the proceeding to determine the dischargeability of a debt under subsection (a)(2), if the creditor initiated the proceeding and the debt was determined to be dischargeable. The court is permitted to award any actual pecuniary loss that the debtor may have suffered as a result of the proceeding (such as loss of a day's pay). The purpose of the provision is to discourage creditors from initiating false financial statement exception to discharge actions in the hopes of obtaininga settlement from an honest debtor anxious to save attorney's fees. Such practices impair the debtor's fresh start.
 
 #### References in Text
 
@@ -240,11 +240,11 @@ Section 733(g) of the Public Health Service Act, referred to in subsec. (b), was
 
 #### Amendments
 
-2010—Subsec. (a)(2)(C)(ii)(II). Pub. L. 111–327, §2(a)(18)(A), substituted semicolon for period at end.
+<b>2010</b>—Subsec. (a)(2)(C)(ii)(II). Pub. L. 111–327, §2(a)(18)(A), substituted semicolon for period at end.
 
 Subsec. (a)(3). Pub. L. 111–327, §2(a)(18)(B), substituted “521(a)(1)” for “521(1)” in introductory provisions.
 
-2005—Pub. L. 109–8, §1209(1), transferred par. (15) and inserted it after subsec. (a)(14A). See 1994 Amendments note below.
+<b>2005</b>—Pub. L. 109–8, §1209(1), transferred par. (15) and inserted it after subsec. (a)(14A). See 1994 Amendments note below.
 
 Pub. L. 109–8, §215(3), in par. (15), inserted “to a spouse, former spouse, or child of the debtor and” before “not of the kind” and “or” after “court of record,” and substituted a semicolon for “unless—
 
@@ -300,17 +300,17 @@ Subsec. (c)(1). Pub. L. 109–8, §215(2), substituted “or (6)” for “(6), 
 
 Subsec. (e). Pub. L. 109–8, §1209(3), substituted “an insured” for “a insured”.
 
-2002—Subsec. (a)(19). Pub. L. 107–204 added par. (19).
+<b>2002</b>—Subsec. (a)(19). Pub. L. 107–204 added par. (19).
 
-1998—Subsec. (a)(8). Pub. L. 105–244 substituted “stipend, unless” for “stipend, unless—” and struck out “(B)” before “excepting such debt” and subpar. (A) which read as follows: “such loan, benefit, scholarship, or stipend overpayment first became due more than 7 years (exclusive of any applicable suspension of the repayment period) before the date of the filing of the petition; or”.
+<b>1998</b>—Subsec. (a)(8). Pub. L. 105–244 substituted “stipend, unless” for “stipend, unless—” and struck out “(B)” before “excepting such debt” and subpar. (A) which read as follows: “such loan, benefit, scholarship, or stipend overpayment first became due more than 7 years (exclusive of any applicable suspension of the repayment period) before the date of the filing of the petition; or”.
 
-1996—Subsec. (a)(5)(A). Pub. L. 104–193, §374(a)(4), substituted “section 408(a)(3)” for “section 402(a)(26)”.
+<b>1996</b>—Subsec. (a)(5)(A). Pub. L. 104–193, §374(a)(4), substituted “section 408(a)(3)” for “section 402(a)(26)”.
 
 Subsec. (a)(17). Pub. L. 104–134 added par. (17).
 
 Subsec. (a)(18). Pub. L. 104–193, §374(a)(1)–(3), added par. (18).
 
-1994—Par. (15). Pub. L. 103–394, §304(e)\[(1)\], amended this section by adding par. (15) at the end. See 2005 Amendment note above.
+<b>1994</b>—Par. (15). Pub. L. 103–394, §304(e)\[(1)\], amended this section by adding par. (15) at the end. See 2005 Amendment note above.
 
 Subsec. (a). Pub. L. 103–394, §501(d)(13)(A)(i), substituted “1141,” for “1141,,” in introductory provisions.
 
@@ -336,7 +336,7 @@ Subsec. (c)(1). Pub. L. 103–394, §304(e)(2), substituted “(6), or (15)” f
 
 Subsec. (e). Pub. L. 103–394, §501(d)(13)(C), substituted “insured depository institution” for “depository institution or insured credit union”.
 
-1990—Subsec. (a)(8). Pub. L. 101–647, §3621, substituted “for an educational benefit overpayment or loan made, insured or guaranteed by a governmental unit, or made under any program funded in whole or in part by a governmental unit or nonprofit institution, or for an obligation to repay funds received as an educational benefit, scholarship or stipend, unless” for “for an educational loan made, insured, or guaranteed by a governmental unit, or made under any program funded in whole or in part by a governmental unit or a nonprofit institution, unless” in introductory provisions and amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “such loan first became due before five years (exclusive of any applicable suspension of the repayment period) before the date of the filing of the petition; or”.
+<b>1990</b>—Subsec. (a)(8). Pub. L. 101–647, §3621, substituted “for an educational benefit overpayment or loan made, insured or guaranteed by a governmental unit, or made under any program funded in whole or in part by a governmental unit or nonprofit institution, or for an obligation to repay funds received as an educational benefit, scholarship or stipend, unless” for “for an educational loan made, insured, or guaranteed by a governmental unit, or made under any program funded in whole or in part by a governmental unit or a nonprofit institution, unless” in introductory provisions and amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “such loan first became due before five years (exclusive of any applicable suspension of the repayment period) before the date of the filing of the petition; or”.
 
 Subsec. (a)(9). Pub. L. 101–581 and Pub. L. 101–647, §3102(a), identically amended par. (9) generally. Prior to amendment, par. (9) read as follows: “to any entity, to the extent that such debt arises from a judgment or consent decree entered in a court of record against the debtor wherein liability was incurred by such debtor as a result of the debtor's operation of a motor vehicle while legally intoxicated under the laws or regulations of any jurisdiction within the United States or its territories wherein such motor vehicle was operated and within which such liability was incurred; or”.
 
@@ -346,7 +346,7 @@ Subsec. (c). Pub. L. 101–647, §2522(a)(3), designated existing provisions as 
 
 Subsec. (e). Pub. L. 101–647, §2522(a)(2), added subsec. (e).
 
-1986—Subsec. (a). Pub. L. 99–554, §257(n), inserted reference to sections 1228(a) and 1228(b) of this title.
+<b>1986</b>—Subsec. (a). Pub. L. 99–554, §257(n), inserted reference to sections 1228(a) and 1228(b) of this title.
 
 Subsec. (a)(1)(A). Pub. L. 99–554, §283(j)(1)(A), substituted “507(a)(7)” for “507(a)(6)”.
 
@@ -356,7 +356,7 @@ Subsec. (a)(9), (10). Pub. L. 99–554, §283(j)(1)(B), redesignated par. (9) re
 
 Subsec. (b). Pub. L. 99–554, §283(j)(2), substituted “Service” for “Services”.
 
-1984—Subsec. (a)(2). Pub. L. 98–353, §454(a)(1), in provisions preceding subpar. (A), struck out “obtaining” after “for”, and substituted “refinancing of credit, to the extent obtained” for “refinance of credit,”.
+<b>1984</b>—Subsec. (a)(2). Pub. L. 98–353, §454(a)(1), in provisions preceding subpar. (A), struck out “obtaining” after “for”, and substituted “refinancing of credit, to the extent obtained” for “refinance of credit,”.
 
 Subsec. (a)(2)(A). Pub. L. 98–353, §307(a)(1), struck out “or” at end.
 
@@ -378,9 +378,9 @@ Subsec. (c). Pub. L. 98–353, §454(c), inserted “of a kind” after “debt�
 
 Subsec. (d). Pub. L. 98–353, §307(b), substituted “the court shall grant judgment in favor of the debtor for the costs of, and a reasonable attorney's fee for, the proceeding if the court finds that the position of the creditor was not substantially justified, except that the court shall not award such costs and fees if special circumstances would make the award unjust” for “the court shall grant judgment against such creditor and in favor of the debtor for the costs of, and a reasonable attorney's fee for, the proceeding to determine dischargeability, unless such granting of judgment would be clearly inequitable”.
 
-1981—Subsec. (a)(5)(A). Pub. L. 97–35 substituted “law, or otherwise (other than debts assigned pursuant to section 402(a)(26) of the Social Security Act);” for “law, or otherwise;”.
+<b>1981</b>—Subsec. (a)(5)(A). Pub. L. 97–35 substituted “law, or otherwise (other than debts assigned pursuant to section 402(a)(26) of the Social Security Act);” for “law, or otherwise;”.
 
-1979—Subsec. (a)(8). Pub. L. 96–56 substituted “for an educational loan made, insured, or guaranteed by a governmental unit, or made under any program funded in whole or in part by a governmental unit or a nonprofit institution of higher education” for “to a governmental unit, or a nonprofit institution of higher education, for an educational loan” in the provisions preceding subpar. (A) and inserted “(exclusive of any applicable suspension of the repayment period)” after “before five years” in subpar. (A).
+<b>1979</b>—Subsec. (a)(8). Pub. L. 96–56 substituted “for an educational loan made, insured, or guaranteed by a governmental unit, or made under any program funded in whole or in part by a governmental unit or a nonprofit institution of higher education” for “to a governmental unit, or a nonprofit institution of higher education, for an educational loan” in the provisions preceding subpar. (A) and inserted “(exclusive of any applicable suspension of the repayment period)” after “before five years” in subpar. (A).
 
 #### Effective Date of 2005 Amendment
 

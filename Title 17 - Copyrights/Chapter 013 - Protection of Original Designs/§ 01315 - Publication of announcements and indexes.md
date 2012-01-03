@@ -2,7 +2,7 @@
 
 (a)
 
-Publications of the Administrator.—The Administrator shall publish lists and indexes of registered designs and cancellations of designsand may also publish the drawings or other pictorial representations of registered designs for sale or other distribution.
+Publications of the Administrator.—The Administrator shall publish lists and indexes of registered designs and cancellations of designs and may also publish the drawings or other pictorial representations of registered designs for sale or other distribution.
 
 (b)
 

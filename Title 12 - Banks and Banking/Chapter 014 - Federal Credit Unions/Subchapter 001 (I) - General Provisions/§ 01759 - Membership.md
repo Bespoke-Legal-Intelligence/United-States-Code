@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Subject to subsection (b) of this section, Federal credit union membership shall consist of the incorporators and such other persons and incorporated and unincorporated organizations, to the extent permitted by rules and regulations prescribed by the Board, as may be elected to membership and as such shall each, subscribe to at least one share of its stock and pay the initialinstallment thereon and a uniform entrance fee if required by the board of directors. Shares may be issued in joint tenancy with right of survivorship with any persons designated by the credit union member, but no joint tenant shall be permitted to vote, obtain loans, or hold office, unless he is within the field of membership and is a qualified member.
+Subject to subsection (b) of this section, Federal credit union membership shall consist of the incorporators and such other persons and incorporated and unincorporated organizations, to the extent permitted by rules and regulations prescribed by the Board, as may be elected to membership and as such shall each, subscribe to at least one share of its stock and pay the initial installment thereon and a uniform entrance fee if required by the board of directors. Shares may be issued in joint tenancy with right of survivorship with any persons designated by the credit union member, but no joint tenant shall be permitted to vote, obtain loans, or hold office, unless he is within the field of membership and is a qualified member.
 
 #### (b) Membership field
 
@@ -46,7 +46,7 @@ Subject to the other provisions of this section, the membership of any Federal c
 
 &emsp;&emsp;(A) the Board determines that the local community, neighborhood, or rural district—
 
-&emsp;&emsp;&emsp;(i) is an “investment area”, as defined in section 4702(16) of this title, and meets such additional requirements as the Board may impose; and
+&emsp;&emsp;&emsp;(i) is an “investment area”, as defined in section 4702(16) of this title, and meetssuch additional requirements as the Board may impose; and
 
 &emsp;&emsp;&emsp;(ii) is underserved, based on data of the Board and the Federal banking agencies (as defined in section 1813 of this title), by other depository institutions (as defined in section 461(b)(1)(A) of this title); and
 
@@ -134,11 +134,11 @@ Subject to the other provisions of this section, the membership of any Federal c
 
 #### Amendments
 
-2006—Subsec. (c)(2)(A)(i). Pub. L. 109–351 made technical amendment to reference in original act which appears in text as reference to section 4702(16) of this title.
+<b>2006</b>—Subsec. (c)(2)(A)(i). Pub. L. 109–351 made technical amendment to reference in original act which appears in text as reference to section 4702(16) of this title.
 
-1998—Subsec. (a). Pub. L. 105–219, §101(1)(A), designated existing provisions as subsec. (a) and inserted heading and “Subject to subsection (b) of this section,” before “Federal credit union membership shall consist of”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–219, §101(1)(A), designated existing provisions as subsec. (a) and inserted heading and “Subject to subsection (b) of this section,” before “Federal credit union membership shall consist of”.
 
-Pub. L. 105–219, §101(1)(B), which directed the amendment of subsec. (a) by striking out “, except that Federal credit union membership shall be limited to groupshaving a common bond of occupation or association, or to groups within a well-defined neighborhood, community, or rural district” after “directors”, was executed by striking out such language which began with a semicolon rather than a comma after “directors” to reflect the probable intent of Congress.
+Pub. L. 105–219, §101(1)(B), which directed the amendment of subsec. (a) by striking out “, except that Federal credit union membership shall be limited to groups having a common bond of occupation or association, or to groups within a well-defined neighborhood, community, or rural district” after “directors”, was executed by striking out such language which began with a semicolon rather than a comma after “directors” to reflect the probable intent of Congress.
 
 Subsecs. (b) to (e). Pub. L. 105–219, §101(2), added subsecs. (b) to (e).
 
@@ -146,15 +146,15 @@ Subsec. (f). Pub. L. 105–219, §102, added subsec. (f).
 
 Subsec. (g). Pub. L. 105–219, §103, added subsec. (g).
 
-1978—Pub. L. 95–630 substituted “Board” for “Administrator”.
+<b>1978</b>—Pub. L. 95–630 substituted “Board” for “Administrator”.
 
-1974—Pub. L. 93–383 substituted “a uniform entrance fee if required by the board of directors” for “the entrance fee”.
+<b>1974</b>—Pub. L. 93–383 substituted “a uniform entrance fee if required by the board of directors” for “the entrance fee”.
 
-1970—Pub. L. 91–206 substituted “Administrator” for “Director”.
+<b>1970</b>—Pub. L. 91–206 substituted “Administrator” for “Director”.
 
-1959—Pub. L. 86–354 substituted “persons” for “person” before “designated”.
+<b>1959</b>—Pub. L. 86–354 substituted “persons” for “person” before “designated”.
 
-1946—Act July 31, 1946, inserted sentence at end permitting a Federal credit union to issue shares in joint tenancy with a right of survivorship.
+<b>1946</b>—Act July 31, 1946, inserted sentence at end permitting a Federal credit union to issue shares in joint tenancy with a right of survivorship.
 
 #### Effective Date of 1978 Amendment
 

@@ -50,7 +50,7 @@ This chapter, referred to in subsecs. (a) to (d), (f), and (g), was in the origi
 
 Section 3651 of the Revised Statutes (31 U.S.C. 543), referred to in subsec. (b), was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, the first section of which enacted Title 31, Money and Finance.
 
-The Food for Peace Act, as amended, referred to in subsec. (d)(2)(ii), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified principally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
+The Food for Peace Act, as amended, referred to in subsec. (d)(2)(ii), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified principally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. For complete classificationof this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
 
 Sections 1513(b)(6) and 1513(h) of this title, referred to in subsec. (d)(2)(iv), were repealed by act Aug. 26, 1954, ch. 937, title V, §542(a), 68 Stat. 861.
 
@@ -74,7 +74,7 @@ United States Information Agency (other than Broadcasting Board of Governors and
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to Secretary of State, Director of United States Information Agency, Secretary of Commerce, and Secretary of Education, see Ex. Ord. No. 11034, June 25, 1962, 27F.R. 6071, set out as a note under section 2454 of this title.
+Functions of President under this section delegated to Secretary of State, Director of United States Information Agency, Secretary of Commerce, and Secretary of Education, see Ex. Ord. No. 11034, June 25, 1962, 27 F.R. 6071, set out as a note under section 2454 of this title.
 
 #### Increase in Grants for Exchange-of-Persons Activities; Funds for Specific Programs, Reductions, Other Use of Funds, Report to Congressional Committees
 

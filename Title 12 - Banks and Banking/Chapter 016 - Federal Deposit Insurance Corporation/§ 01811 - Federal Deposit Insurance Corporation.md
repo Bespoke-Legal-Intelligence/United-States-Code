@@ -32,13 +32,17 @@ Section is derived from subsec. (a) of former section 264 of this title. See Cod
 
 #### Amendments
 
-1993—Pub. L. 103–204 inserted “Federal Deposit Insurance Corporation” as section catchline, redesignated existing provisions as subsec. (a), inserted heading, and substituted “There is hereby established” for “There is hereby created”, and added subsec. (b).
+<b>1993</b>—Pub. L. 103–204 inserted “Federal Deposit Insurance Corporation” as section catchline, redesignated existing provisions as subsec. (a), inserted heading, and substituted “There is hereby established” for “There is hereby created”, and added subsec. (b).
 
-1989—Pub. L. 101–73 inserted “and savings associations” after “banks”.
+<b>1989</b>—Pub. L. 101–73 inserted “and savings associations” after “banks”.
 
 #### Effective Date of 1993 Amendment
 
 Section 22(b) of Pub. L. 103–204 provided that: “The amendments made by subsection (a) \[amending this section\] shall become effective on July 1, 1995.”
+
+#### Short Title of 2010 Amendment
+
+Pub. L. 111–203, title VI, §601, July 21, 2010, 124 Stat. 1596, provided that: “This title \[enacting sections 214d, 1467b, 1831c, 1831<i>o</i>–1, 1850a, 1851, and 1852 of this title and section 77z–2a of Title 15, Commerce and Trade, amending sections 35, 36, 84, 371a, 371c, 371c–1, 375, 375b, 1462, 1464, 1467a, 1468, 1828, 1831u, 1841 to 1844, 1848a, and 3907 of this title and section 78q of Title 15, and enacting provisions set out as notes under sections 35, 84, 371a, 371c, 375, 375b, 1462, 1467a, 1815, 1828, 1831c, and 1831u of this title and sections 77z–2a and 78q of Title 15\] may be cited as the ‘Bank and Savings Association Holding Company and Depository Institution Regulatory Improvements Act of 2010’.”
 
 #### Short Title of 2006 Amendment
 
@@ -46,7 +50,7 @@ Pub. L. 109–351, §1(a), Oct. 13, 2006, 120 Stat. 1966, provided that: “This
 
 Pub. L. 109–173, §1, Feb. 15, 2006, 119 Stat. 3601, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Federal Deposit Insurance Reform Conforming Amendments Act of 2005’.”
 
-Pub. L. 109–171, title II, §2101, Feb. 8, 2006, 120 Stat. 9, provided that: “This subtitle \[subtitle B (§§2101–2109) of title II of Pub. L. 109–171, amending sections 24, 338a, 347b, 1431, 1441a, 1441b, 1464, 1467a, 1723i, 1735f–14, 1813, 1815 to 1817, 1821, 1821a, 1823 to 1825, 1827, 1828, 1831a, 1831e, 1831h, 1831m, 1831<i>o</i>, 1833a, 1834, 1841, and 3341 ofthis title and section 905 of Title 2, The Congress, enacting provisions set out as notes under sections 1817 and 1821 of this title, and repealing provisions set out as notes under section 1821 of this title\] may be cited as the ‘Federal Deposit Insurance Reform Act of 2005’.”
+Pub. L. 109–171, title II, §2101, Feb. 8, 2006, 120 Stat. 9, provided that: “This subtitle \[subtitle B (§§2101–2109) of title II of Pub. L. 109–171, amending sections 24, 338a, 347b, 1431, 1441a, 1441b, 1464, 1467a, 1723i, 1735f–14, 1813, 1815 to 1817, 1821, 1821a, 1823 to 1825, 1827, 1828, 1831a, 1831e, 1831h, 1831m, 1831<i>o</i>, 1833a, 1834, 1841, and 3341 of this title and section 905 of Title 2, The Congress, enacting provisions set out as notes under sections 1817 and 1821 of this title, and repealing provisions set out as notes under section 1821 of this title\] may be cited as the ‘Federal Deposit Insurance Reform Act of 2005’.”
 
 #### Short Title of 2004 Amendment
 
@@ -54,7 +58,7 @@ Pub. L. 108–386, §1, Oct. 30, 2004, 118 Stat. 2228, provided that: “This Ac
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–569, title XII, §1200, Dec. 27, 2000, 114 Stat. 3032, provided that: “This title \[enacting sections 215a–2, 215a–3, and 4805a of this title, amending sections 11, 71 to 72, 83, 215b, 1426, 1464, 1467a, 1817, 1818, 1821, 1828, 1831n, and 3102 of this title, repealing sections 51, 1465, and 1831f–1 of this title, enacting provisions set out as a note under section 1817 of this title, and amending provisions set out as a note under section 1828 of this title\] may be cited as the ‘Financial Regulatory Relief and Economic Efficiency Act of 2000’.”
+Pub. L. 106–569, title XII, §1200, Dec. 27, 2000, 114 Stat. 3032, provided that: “This title \[enacting sections215a–2, 215a–3, and 4805a of this title, amending sections 11, 71 to 72, 83, 215b, 1426, 1464, 1467a, 1817, 1818, 1821, 1828, 1831n, and 3102 of this title, repealing sections 51, 1465, and 1831f–1 of this title, enacting provisions set out as a note under section 1817 of this title, and amending provisions set out as a note under section 1828 of this title\] may be cited as the ‘Financial Regulatory Relief and Economic Efficiency Act of 2000’.”
 
 #### Short Title of 1999 Amendment
 
@@ -126,7 +130,7 @@ Section 1 of act Sept. 21, 1950, provided: “That section 12B of the Federal Re
 
 #### Separability
 
-Pub. L. 102–242, title IV, §481, Dec. 19, 1991, 105 Stat. 2388, provided that: “If any provision of this Act \[see Short Title of 1991 Amendment note above\], or any application of any provision of this Act to any person or circumstance, is held invalid, the remainder of the Act, and the application of any remaining provision of the Act to any other person or circumstance, shall not be affected by such holding.”
+Pub. L. 102–242, title IV, §481, Dec. 19, 1991, 105 Stat. 2388, provided that: “If any provision of this Act \[seeShort Title of 1991 Amendment note above\], or any application of any provision of this Act to any person or circumstance, is held invalid, the remainder of the Act, and the application of any remaining provision of the Act to any other person or circumstance, shall not be affected by such holding.”
 
 Section 1221 of Pub. L. 101–73 provided that: “If any provision of this Act \[see Short Title of 1989 Amendment note above\] or the application thereof to any person or circumstance is held invalid, the remainder of the Act and the application of the provision to other persons not similarly situated or to other circumstances shall not be affected thereby.”
 
@@ -222,7 +226,7 @@ Model approaches.—
 
 &emsp;&emsp;“(A)
 
-In general.—Each Federal banking agency and the National Credit Union AdministrationBoard shall make available to each depository institution and insured credit union under the jurisdiction of such agency model approaches to common Year 2000 computer problems, such as model approaches with regard to project management, vendor contracts, testing regimes, and business continuity planning.
+In general.—Each Federal banking agency and the National Credit Union Administration Board shall make available to each depository institution and insured credit union under the jurisdiction of such agency model approaches to common Year 2000 computer problems, such as model approaches with regard to project management, vendor contracts, testing regimes, and business continuity planning.
 
 &emsp;&emsp;“(B)
 
@@ -230,7 +234,7 @@ Variety of approaches.—In developing model approaches to the Year 2000 compute
 
 &emsp;“(3)
 
-Cooperation.—In carrying out this section, the Federal banking agencies and the National Credit Union Administration Board may cooperate and coordinate their activities with each other, the Financial Institutions Examination Council, and appropriate organizations representing depository institutions and credit unions.”
+Cooperation.—In carrying out this section, the Federal banking agencies and the National CreditUnion Administration Board may cooperate and coordinate their activities with each other, the Financial Institutions Examination Council, and appropriate organizations representing depository institutions and credit unions.”
 
 #### Study and Report on United States Financial Services System
 
@@ -454,7 +458,7 @@ Final Report.—Not later than the close of the 18-month period beginning on the
 
 “(a)
 
-Annual Survey Required.—The Board of Governors of the Federal Reserve System shall obtain asample, which is representative by geographic location and size of the institution, of—
+Annual Survey Required.—The Board of Governors of the Federal Reserve System shall obtain a sample, which is representative by geographic location and size of the institution, of—
 
 &emsp;“(1) certain retail banking services provided by insured depository institutions; and
 
@@ -558,13 +562,13 @@ Reports to Congress.—The Comptroller General shall submit to the Congress 2 re
 
 &emsp;&emsp;“(A) the extent and nature of the activities of the government-sponsored enterprises; and
 
-&emsp;&emsp;“(B) the nature of any periodic reports that the Comptroller General believes should be submitted to the Congress relating to the capital conditionand operations of the government-sponsored enterprises; and
+&emsp;&emsp;“(B) the nature of any periodic reports that the Comptroller General believes should be submitted to the Congress relating to the capital condition and operations of the government-sponsored enterprises; and
 
 &emsp;“(4) any recommendations and opinions of the Secretary of Agriculture, the Secretary of Education, the Secretary of Housing and Urban Development, and the Secretary of the Treasury regarding the report, to the extent that the recommendations and views of such officers differ from the recommendations and opinions of the Comptroller General.
 
 “(f)
 
-Definition.—For purposes of this section, the term ‘government-sponsored enterprises’ means the Federal Home Loan Mortgage Corporation, the Federal National Mortgage Association, the Federal Home Loan Bank System, the Farm Credit Banks, the Banks for Cooperatives, the Federal Agricultural Mortgage Corporation, the College Construction Loan Insurance Corporation, the Student Loan Marketing Association.”
+Definition.—For purposes of this section, the term ‘government-sponsored enterprises’ means the Federal Home Loan Mortgage Corporation, the Federal National Mortgage Association, the Federal Home Loan Bank System, the Farm Credit Banks, the Banksfor Cooperatives, the Federal Agricultural Mortgage Corporation, the College Construction Loan Insurance Corporation, the Student Loan Marketing Association.”
 
 \[Pub. L. 103–328, title I, §108(b), Sept. 29, 1994, 108 Stat. 2362, provided that: “The requirements of subsection (a) \[amending section 1002 of Pub. L. 101–73, set out above\] shall not apply after the end of the 7-year period beginning on the date of enactment of this Act \[Sept. 29, 1994\].”\]
 
@@ -662,7 +666,7 @@ Exemption from public disclosure requirements.—The Department of the Treasury 
 
 Penalty for unauthorized disclosure.—Any officer or employee of the Department of the Treasury shall be subject to the penalties set forth in section 1906 of title 18, United States Code, if—
 
-&emsp;&emsp;&emsp;“(i) by virtue of his employment or official position, he has possession of or access to any book,record, or information made available under this subsection and determined by the Secretary to be confidential under subparagraph (A); and
+&emsp;&emsp;&emsp;“(i) by virtue of his employment or official position, he has possession of or access to any book, record, or information made available under this subsection and determined by the Secretary to be confidential under subparagraph (A); and
 
 &emsp;&emsp;&emsp;“(ii) he discloses the material in any manner other than—
 

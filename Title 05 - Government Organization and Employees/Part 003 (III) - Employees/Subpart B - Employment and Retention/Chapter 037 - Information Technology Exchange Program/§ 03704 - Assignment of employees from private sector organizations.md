@@ -30,7 +30,7 @@ Terms and Conditions.—An employee of a private sector organization assigned to
 
 &emsp;(4) is subject to such regulations as the President may prescribe.
 
-> The supervision of an employee of a private sector organization assigned to an agency under this chapter may be governed by agreement between the agency and the private sector organization concerned. Such an assignment may bemade with or without reimbursement by the agency for the pay, or a part thereof, of the employee during the period of assignment, or for any contribution of the private sector organization to employee benefit systems.
+> The supervision of an employee of a private sector organization assigned to an agency under this chapter may be governed by agreement between the agency and the private sector organization concerned. Such an assignment may be made with or without reimbursement by the agency for the pay, or a part thereof, of the employee during the period of assignment, or for any contribution of the private sector organization to employee benefit systems.
 
 (c)
 
@@ -44,7 +44,7 @@ Prohibition Against Charging Certain Costs to the Federal Government.—A privat
 
 #### References in Text
 
-The Federal Tort Claims Act, referred to in subsec. (b)(2)(D), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
+The Federal Tort Claims Act, referred to in subsec. (b)(2)(D), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat.842, which was classified principally to chapter 20 (§§921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
 
 The Ethics in Government Act of 1978, referred to in subsec. (b)(2)(E), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to this title and Tables.
 
@@ -52,5 +52,5 @@ Section 1043 of the Internal Revenue Code of 1986, referred to in subsec. (b)(2)
 
 #### Amendments
 
-2011—Subsec. (b)(2)(G). Pub. L. 111–350 substituted “chapter 21 of title 41” for “section 27 of the Office of Federal Procurement Policy Act”.
+<b>2011</b>—Subsec. (b)(2)(G). Pub. L. 111–350 substituted “chapter 21 of title 41” for “section 27 of the Office of Federal Procurement Policy Act”.
 

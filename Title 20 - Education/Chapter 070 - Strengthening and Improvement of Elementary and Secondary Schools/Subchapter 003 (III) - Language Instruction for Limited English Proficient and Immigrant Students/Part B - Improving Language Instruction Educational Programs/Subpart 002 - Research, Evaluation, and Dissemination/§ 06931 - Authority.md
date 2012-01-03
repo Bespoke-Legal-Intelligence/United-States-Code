@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary is authorized to conduct data collection, dissemination, research, and ongoingprogram evaluation activities in accordance with the provisions of this subpart for the purpose of improving language instruction educational programs and special alternative instruction programs for limited English proficient children.
+The Secretary is authorized to conduct data collection, dissemination, research, and ongoing program evaluation activities in accordance with the provisions of this subpart for the purpose of improving language instruction educational programs and special alternative instruction programs for limited English proficient children.
 
 #### (b) Competitive awards
 

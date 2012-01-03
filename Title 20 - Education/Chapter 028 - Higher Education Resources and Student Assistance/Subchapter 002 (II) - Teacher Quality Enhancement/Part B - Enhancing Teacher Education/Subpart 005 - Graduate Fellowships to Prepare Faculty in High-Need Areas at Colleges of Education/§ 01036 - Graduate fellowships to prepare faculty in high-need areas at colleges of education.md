@@ -68,7 +68,7 @@ An eligible institution that desires a grant under this section shall submit an 
 
 #### (D) Failure to comply
 
-&emsp;&emsp;If an individual who receives a graduate fellowship award under this section fails tocomply with the agreement signed pursuant to subparagraph (C), the sum of the amounts of any graduate fellowship award received by such recipient shall, upon a determination of such a failure, be treated as a Federal Direct Unsubsidized Stafford Loan under part C of subchapter IV, and shall be subject to repayment, together with interest thereon accruing from the date of the fellowship award, in accordance with terms and conditions specified by the Secretary in regulations under this subpart.
+&emsp;&emsp;If an individual who receives a graduate fellowship award under this section fails to comply with the agreement signed pursuant to subparagraph (C), the sum of the amounts of any graduate fellowship award received by such recipient shall, upon a determination of such a failure, be treated as a Federal Direct Unsubsidized Stafford Loan under part C of subchapter IV, and shall be subject to repayment, together with interest thereon accruing from the date of the fellowship award, in accordance with terms and conditions specified by the Secretary in regulations under this subpart.
 
 #### (E) Modified service requirement
 

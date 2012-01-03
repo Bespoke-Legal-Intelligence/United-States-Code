@@ -26,7 +26,7 @@ There is hereby established within the Department of the Interior the Office of 
 
 #### (3) Termination date
 
-&emsp;The Office shall terminate 180 legislative days after the date on which the notice to the Congress under paragraph (2) is provided, unless the Congress extends the authorities of the Special Trustee. For the purposes of thissection, a legislative day is a day on which either House of the Congress is in session.
+&emsp;The Office shall terminate 180 legislative days after the date on which the notice to the Congress under paragraph (2) is provided, unless the Congress extends the authorities of the Special Trustee. For the purposes of this section, a legislative day is a day on which either House of the Congress is in session.
 
 (Pub. L. 103–412, title III, §302, Oct. 25, 1994, 108 Stat. 4244.)
 

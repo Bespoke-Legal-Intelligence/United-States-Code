@@ -72,7 +72,7 @@ Section 320928(g) of Pub. L. 103–322 provided that:
 
 “(1)
 
-In general.—The Attorney General, in consultation with Federal, State, and local officials, including officials responsible for criminal history record systems, and representatives of public and private care organizations and health, legal, and social welfare organizations, shall develop guidelines for the adoption of appropriate safeguards by care providers and by Statesfor protecting children, the elderly, or individuals with disabilities from abuse.
+In general.—The Attorney General, in consultation with Federal, State, and local officials, including officials responsible for criminal history record systems, and representatives of public and private care organizations and health, legal, and social welfare organizations, shall develop guidelines for the adoption of appropriate safeguards by care providers and by States for protecting children, the elderly, or individuals with disabilities from abuse.
 
 “(2)
 

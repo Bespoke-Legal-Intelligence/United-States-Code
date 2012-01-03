@@ -2,7 +2,7 @@
 
 (a)
 
-Retirement.—Upon a determination by the Secretary concerned that a member described insubsection (c) is unfit to perform the duties of the member's office, grade, rank, or rating because of physical disability incurred while entitled to basic pay or while absent as described in subsection (c)(3), the Secretary may retire the member, with retired pay computed under section 1401 of this title, if the Secretary also makes the determinations with respect to the member and that disability specified in subsection (b).
+Retirement.—Upon a determination by the Secretary concerned that a member described in subsection (c) is unfit to perform the duties of the member's office, grade, rank, or rating because of physical disability incurred while entitled to basic pay or while absent as described in subsection (c)(3), the Secretary may retire the member, with retired pay computed under section 1401 of this title, if the Secretary also makes the determinations with respect to the member and that disability specified in subsection (b).
 
 (b)
 
@@ -96,7 +96,7 @@ The changes correct typographical errors.
 
 Pub. L. 110–181 amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “the member has at least eight years of service computed under section 1208 of this title;”.
 
-<b>1996</b>—Pub. L. 104–201 added subsecs. (a) and (c), designated existing provisions as subsec. (b), and substituted introductory provisions of subsec. (b) for “Upon a determination by the Secretary concerned that a member of a regular component of the armedforces entitled to basic pay, or any other member of the armed forces entitled to basic pay who has been called or ordered to active duty (other than for training under section 10148(a) of this title) for a period of more than 30 days, is unfit to perform the duties of his office, grade, rank, or rating because of physical disability incurred while entitled to basic pay, the Secretary may retire the member, with retired pay computed under section 1401 of this title, if the Secretary also determines that—”.
+<b>1996</b>—Pub. L. 104–201 added subsecs. (a) and (c), designated existing provisions as subsec. (b), and substituted introductory provisions of subsec. (b) for “Upon a determination by the Secretary concerned that a member of a regular component of the armed forces entitled to basic pay, or any other member of the armed forces entitled to basic pay who has been called or ordered to active duty (other than for training under section 10148(a) of this title) for a period of more than 30 days, is unfit to perform the duties of his office, grade, rank, or rating because of physical disability incurred while entitled to basic pay, the Secretary may retire the member, with retired pay computed under section 1401 of this title, if the Secretary also determines that—”.
 
 <b>1994</b>—Pub. L. 103–337 substituted “10148(a)” for “270(b)” in introductory provisions.
 

@@ -68,7 +68,7 @@ Pub. L. 87–866, §13, Oct. 23, 1962, 76 Stat. 1149, as amended by Pub. L. 97�
 
 &emsp;“(3) a feasible program for implementing such specific recommendations, including cost estimates, recommendations as to the sharing of cost responsibilities, and other pertinent matters.
 
-“(c) From time to time, either before or after submission of the report provided for in subsection (b) of this section, the Secretary of Transportation may submit recommendations to the Congress with respect to the construction of particular highways to carry out the purposes of this section.
+“(c) From time to time, either before or after submission of the report provided for in subsection (b) of this section, the Secretary of Transportation may submit recommendations to the Congress with respect to theconstruction of particular highways to carry out the purposes of this section.
 
 “(d) Nothing in this section shall be construed as creating any obligation in the Congress, express or implied, to carry out the recommendations referred to in subsections (b) and (c).
 

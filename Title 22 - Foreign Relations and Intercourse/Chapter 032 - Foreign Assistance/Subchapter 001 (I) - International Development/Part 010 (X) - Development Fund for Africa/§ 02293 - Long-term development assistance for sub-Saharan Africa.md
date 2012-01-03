@@ -182,7 +182,7 @@ The Comprehensive Anti/Apartheid Act of 1986, referred to in subsec. (n)(4), pro
 
 #### Prior Provisions
 
-A prior section 2293, Pub. L. 87–195, pt. I, §496, as added Pub. L. 93–559, §53, Dec. 30, 1974, 88 Stat. 1818;amended Pub. L. 94–161, title III, §314, Dec. 20, 1975, 89 Stat. 866, related to economic assistance, etc., to Portugal and Portuguese colonies in Africa gaining independence, prior to repeal by Pub. L. 99–83, title XII, §1211(a)(4), Aug. 8, 1985, 99 Stat. 279, effective Oct. 1, 1985.
+A prior section 2293, Pub. L. 87–195, pt. I, §496, as added Pub. L. 93–559, §53, Dec. 30, 1974, 88 Stat. 1818; amended Pub. L. 94–161, title III, §314, Dec. 20, 1975, 89 Stat. 866, related to economic assistance, etc., to Portugal and Portuguese colonies in Africa gaining independence, prior to repeal by Pub. L. 99–83, title XII, §1211(a)(4), Aug. 8, 1985, 99 Stat. 279, effective Oct. 1, 1985.
 
 #### Amendments
 
@@ -194,7 +194,7 @@ Subsec. (i)(2). Pub. L. 106–264 inserted at end “In addition, providing trai
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.
 
 #### Agricultural and Rural Development in Sub-Saharan Africa
 
@@ -258,7 +258,7 @@ Sense of the Congress.—It is the sense of the Congress that, if there is an in
 
 “(a)
 
-Bilateral Assistance.—In providing microenterprise assistance for sub-Saharan Africa, the Administrator of the United States Agency for International Development shall, to the extent practicable, use credit and microcredit assistance to improve the capacity and efficiency of agriculture production insub-Saharan Africa of small-scale farmers and small rural entrepreneurs. In providing assistance, the Administrator should use the applied research and technical assistance capabilities of United States land-grant universities.
+Bilateral Assistance.—In providing microenterprise assistance for sub-Saharan Africa, the Administrator of the United States Agency for International Development shall, to the extent practicable, use credit and microcredit assistance to improve the capacity and efficiency of agriculture production in sub-Saharan Africa of small-scale farmers and small rural entrepreneurs. In providing assistance, the Administrator should use the applied research and technical assistance capabilities of United States land-grant universities.
 
 “(b)
 

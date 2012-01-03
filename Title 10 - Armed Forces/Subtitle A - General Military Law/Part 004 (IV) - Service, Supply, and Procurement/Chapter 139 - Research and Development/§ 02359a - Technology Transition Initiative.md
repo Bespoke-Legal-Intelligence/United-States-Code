@@ -68,6 +68,10 @@ Definition.—In this section, the term “acquisition executive”, with respec
 
 (Added Pub. L. 107–314, div. A, title II, §242(a)(1), Dec. 2, 2002, 116 Stat. 2494; amended Pub. L. 109–163, div. A, title II, §255(a), Jan. 6, 2006, 119 Stat. 3180; Pub. L. 109–364, div. A, title X, §1071(a)(2), Oct. 17, 2006, 120 Stat. 2398; Pub. L. 110–181, div. A, title II, §233, Jan. 28, 2008, 122 Stat. 46; Pub. L. 110–417, \[div. A\], title II, §253(b), Oct. 14, 2008, 122 Stat. 4402.)
 
+#### Repeal of Section
+
+<i>Pub. L. 112–81, div. A, title II, §251(a)(1), (b), Dec. 31, 2011, 125 Stat. 1347, provided that this section is repealed effective Oct. 1, 2013.</i>
+
 #### References in Text
 
 Section 16(c) of the Office of Federal Procurement Policy Act, referred to in subsec. (h), which was classified to section 414(c) of former Title 41, Public Contracts, was repealed and restated as section 1702(c) of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855.
@@ -81,6 +85,10 @@ Subsecs. (h), (i). Pub. L. 110–417 redesignated subsec. (i) as (h) and struck 
 <b>2006</b>—Subsec. (g)(2). Pub. L. 109–163 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The duty of the Council shall be to provide advice and assistance to the Manager under this section.”
 
 Subsec. (i). Pub. L. 109–364 substituted “section 16(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(c))” for “section 16(3) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(3))”.
+
+#### Effective Date of Repeal
+
+Pub. L. 112–81, div. A, title II, §251(b), Dec. 31, 2011, 125 Stat. 1347, provided that: “The amendments made by subsection (a) \[repealing this section\] shall take effect on October 1, 2013.”
 
 #### Defense Research and Development Rapid Innovation Program
 
@@ -116,7 +124,7 @@ Transfer Authority.—The Secretary may transfer funds available for the program
 
 “(f)
 
-Report.—Not later than 60 days after the last day of a fiscal year during which the Secretary carries out a program under this section, the Secretary shall submit to the congressional defense committees a report that includes a list and description of each project funded under this section, including, for each such project, the amount of funding provided for the project, the defense acquisition program that the project supports, including the extent to which the project meets needs identified in its acquisition plan, the anticipated timeline for transition for the project, and the degree to which a competitive, merit-based process was usedto evaluate and select the performers of the projects selected under this program.
+Report.—Not later than 60 days after the last day of a fiscal year during which the Secretary carries out a program under this section, the Secretary shall submit to the congressional defense committees a report that includes a list and description of each project funded under this section, including, for each such project, the amount of funding provided for the project, the defense acquisition program that the project supports, including the extent to which the project meets needs identified in its acquisition plan, the anticipated timeline for transition for the project, and the degree to which a competitive, merit-based process was used to evaluate and select the performers of the projects selected under this program.
 
 “(g)
 

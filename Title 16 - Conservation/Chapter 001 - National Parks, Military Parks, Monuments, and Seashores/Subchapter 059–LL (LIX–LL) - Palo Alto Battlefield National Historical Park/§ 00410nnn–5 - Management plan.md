@@ -6,7 +6,7 @@ Within 3 years after June 23, 1992, the Secretary shall develop and transmit to 
 
 &emsp;(2) A general visitor use and interpretive program.
 
-&emsp;(3) A general development plan including such roads, trails, markers, structures, and other improvements and facilities as may be necessary for the accommodation of visitor use in accordance with the purposes of this subchapter and the need to preserve the integrity of the historical park.
+&emsp;(3) A general development plan including such roads, trails, markers, structures, andother improvements and facilities as may be necessary for the accommodation of visitor use in accordance with the purposes of this subchapter and the need to preserve the integrity of the historical park.
 
 &emsp;(4) A research plan.
 

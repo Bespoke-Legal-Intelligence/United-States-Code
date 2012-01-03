@@ -78,7 +78,7 @@ An applicable individual shall for each month beginning after 2013 ensure that t
 
 &emsp;&emsp;&emsp;(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year, determined by substituting “calendar year 2015” for “calendar year 1992” in subparagraph (B) thereof.
 
-> &emsp;&emsp;If the amount of any increase under clause (i) is not a multiple of $50, such increase shall be rounded to the next lowest multiple of $50.
+> &emsp;&emsp;If the amount of any increase under clause (i) is not a multiple of $50, such increaseshall be rounded to the next lowest multiple of $50.
 
 #### (4) Terms relating to income and families
 
@@ -170,7 +170,7 @@ No penalty shall be imposed under subsection (a) with respect to—
 
 &emsp;&emsp;&emsp;(i) in the case of an individual eligible to purchase minimum essential coverage consisting of coverage through an eligible-employer-sponsored plan, the portion of the annual premium which would be paid by the individual (without regard to whether paid through salary reduction or otherwise) for self-only coverage, or
 
-&emsp;&emsp;&emsp;(ii) in the case of an individual eligible only to purchase minimum essential coverage described in subsection (f)(1)(C), the annual premium for the lowest cost bronze plan available in the individual market through the Exchange in the State in the rating area in which the individual resides (without regard to whether the individual purchased a qualified health plan through the Exchange), reduced by the amount of the credit allowable under section 36B for the taxable year (determined as if the individual was covered by a qualified health plan offered through the Exchange for the entire taxable year).
+&emsp;&emsp;&emsp;(ii) in the case of an individual eligible only to purchase minimum essential coverage described in subsection (f)(1)(C), theannual premium for the lowest cost bronze plan available in the individual market through the Exchange in the State in the rating area in which the individual resides (without regard to whether the individual purchased a qualified health plan through the Exchange), reduced by the amount of the credit allowable under section 36B for the taxable year (determined as if the individual was covered by a qualified health plan offered through the Exchange for the entire taxable year).
 
 #### (C) Special rules for individuals related to employees
 
@@ -254,7 +254,7 @@ For purposes of this section—
 
 #### (2) Eligible employer-sponsored plan
 
-&emsp;The term “eligible employer-sponsored plan” means, with respect to any employee, a group health plan or group health insurance coverage offered by an employer to the employee which is—
+&emsp;The term “eligible employer-sponsored plan” means, with respect to any employee, agroup health plan or group health insurance coverage offered by an employer to the employee which is—
 
 &emsp;&emsp;(A) a governmental plan (within the meaning of section 2791(d)(8) of the Public Health Service Act), or
 
@@ -354,7 +354,7 @@ In general.—The term ‘poverty line’ has the meaning given that term in sec
 
 “(ii)
 
-Poverty line used.—In the case of any taxable year ending with or within a calendar year, the povertyline used shall be the most recently published poverty line as of the 1st day of such calendar year.”
+Poverty line used.—In the case of any taxable year ending with or within a calendar year, the poverty line used shall be the most recently published poverty line as of the 1st day of such calendar year.”
 
 Subsec. (d)(2)(A). Pub. L. 111–148, §10106(c), amended subpar. (A) generally. Prior to amendment, text read as follows: “Such term shall not include any individual for any month if such individual has in effect an exemption under section 1311(d)(4)(H) of the Patient Protection and Affordable Care Act which certifies that such individual is a member of a recognized religious sect or division thereof described in section 1402(g)(1) and an adherent of established tenets or teachings of such sect or division as described in such section.”
 

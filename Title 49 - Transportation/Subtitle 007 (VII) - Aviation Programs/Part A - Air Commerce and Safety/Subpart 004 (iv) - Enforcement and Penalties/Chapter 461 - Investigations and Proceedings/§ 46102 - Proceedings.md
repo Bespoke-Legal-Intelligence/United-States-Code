@@ -10,7 +10,7 @@ Appearance.—A person may appear and be heard before the Secretary, the Under S
 
 (c)
 
-Recording and Public Access.—Official action taken by the Secretary, Under Secretary, and Administrator under this part shall be recorded. Proceedings before the Secretary, Under Secretary, and Administrator shall be open to the public on the request of an interested party unless the Secretary, Under Secretary, or Administrator decides that secrecy is required because of national defense.
+Recording and Public Access.—Official action taken by the Secretary, Under Secretary, and Administrator under this part shall be recorded. Proceedings before the Secretary, Under Secretary, and Administrator shall be open to the public on the request of an interested partyunless the Secretary, Under Secretary, or Administrator decides that secrecy is required because of national defense.
 
 (d)
 

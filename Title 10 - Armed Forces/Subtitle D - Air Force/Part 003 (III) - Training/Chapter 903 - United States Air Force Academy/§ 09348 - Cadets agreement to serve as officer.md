@@ -22,7 +22,7 @@
 
 (2) A cadet who is transferred to the Air Force Reserve under paragraph (1) shall be transferred in an appropriate enlisted grade or rating, as determined by the Secretary.
 
-(3) For the purposes of paragraph (1), a cadet shall be considered to have breached an agreement under subsection (a) if the cadet is separated from the Academy under circumstances which the Secretary determines constitute abreach by the cadet of the cadet's agreement to complete the course of instruction at the Academy and accept an appointment as a commissioned officer upon graduation from the Academy.
+(3) For the purposes of paragraph (1), a cadet shall be considered to have breached an agreement under subsection (a) if the cadet is separated from the Academy under circumstances which the Secretary determines constitute a breach by the cadet of the cadet's agreement to complete the course of instruction at the Academy and accept an appointment as a commissioned officer upon graduation from the Academy.
 
 (c) The Secretary of the Air Force shall prescribe regulations to carry out this section. Those regulations shall include—
 
@@ -104,7 +104,7 @@ Amendment by section 511(d) of Pub. L. 101–189 applicable to persons who are f
 
 #### Effective Date of 1985 Amendment
 
-Amendment by Pub. L. 99–145 (other than with respect to the authority of the Secretary of the Air Force to prescribe regulations) effective on the date on which regulations prescribed by the Secretary take effect and applicable to agreements entered into under this section on or after the effective date of such regulations and also with respect to each such agreement that was entered into before the effective date of such regulations by an individual who is a cadet on such date, seesection 512(e) of Pub. L. 99–145, set out as a note under section 4348 of this title.
+Amendment by Pub. L. 99–145 (other than with respect to the authority of the Secretary of the Air Force to prescribe regulations) effective on the date on which regulations prescribed by the Secretary take effect and applicable to agreements entered into under this section on or after the effective date of such regulations and also with respect to each such agreement that was entered into before the effective date of such regulations by an individual who is a cadet on such date, see section 512(e) of Pub. L. 99–145, set out as a note under section 4348 of this title.
 
 #### Effective Date of 1984 Amendment
 

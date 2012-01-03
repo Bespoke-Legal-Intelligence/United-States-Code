@@ -162,7 +162,7 @@ Section 2(c) of Pub. L. 90–621 provided that: “The amendments made by subsec
 
 #### Effective Date of 1958 Amendment
 
-Section 21(b) of Pub. L. 85–866, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by subsection (a) \[amendingthis section\] shall apply as provided in section 393 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] as if the clause (iii) added by such amendment had been included in such Code at the time of its enactment \[Aug. 16, 1954\].”
+Section 21(b) of Pub. L. 85–866, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply as provided in section 393 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] as if the clause (iii) added by such amendment had been included in such Code at the time of its enactment \[Aug. 16, 1954\].”
 
 #### Savings Provision
 

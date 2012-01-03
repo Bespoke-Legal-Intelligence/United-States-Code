@@ -110,7 +110,7 @@
 
 &emsp;(12) Retirement funds to the extent that those funds are in a fund or account that is exempt from taxation under section 401, 403, 408, 408A, 414, 457, or 501(a) of the Internal Revenue Code of 1986.
 
-(e) A waiver of an exemption executed in favor of a creditor that holds an unsecured claim against the debtor is unenforceable in a case under this title with respect to such claim against property that the debtor may exempt under subsection (b) of this section. A waiver by the debtor of a power under subsection (f) or (h) of this section to avoid a transfer, under subsection (g) or (i) of this section to exempt property, or under subsection (i) of this section torecover property or to preserve a transfer, is unenforceable in a case under this title.
+(e) A waiver of an exemption executed in favor of a creditor that holds an unsecured claim against the debtor is unenforceable in a case under this title with respect to such claim against property that the debtor may exempt under subsection (b) of this section. A waiver by the debtor of a power under subsection (f) or (h) of this section to avoid a transfer, under subsection (g) or (i) of this section to exempt property, or under subsection (i) of this section to recover property or to preserve a transfer, is unenforceable in a case under this title.
 
 (f)(1) Notwithstanding any waiver of exemptions but subject to paragraph (3), the debtor may avoid the fixing of a lien on an interest of the debtor in property to the extent that such lien impairs an exemption to which the debtor would have been entitled under subsection (b) of this section, if such lien is—
 
@@ -190,7 +190,7 @@
 
 &emsp;(v) a computer (except as otherwise provided for in this section), motor vehicle (including a tractor or lawn tractor), boat, or a motorized recreational device, conveyance, vehicle, watercraft, or aircraft.
 
-(g) Notwithstanding sections 550 and 551 of this title, the debtor may exempt under subsection (b) of this section property that the trustee recovers under section 510(c)(2), 542, 543, 550, 551, or 553 of this title, to the extent that the debtor could have exempted such property under subsection (b) of this section if such property had not been transferred, if—
+(g) Notwithstanding sections 550 and 551 of this title, the debtor may exempt under subsection (b) of this section property that the trustee recovers under section 510(c)(2), 542, 543, 550, 551, or 553 of this title, to the extent that the debtor could have exempted such propertyunder subsection (b) of this section if such property had not been transferred, if—
 
 &emsp;(1)(A) such transfer was not a voluntary transfer of such property by the debtor; and
 
@@ -256,7 +256,7 @@
 
 &emsp;&emsp;(i) any violation of the Federal securities laws (as defined in section 3(a)(47) of the Securities Exchange Act of 1934), any State securities laws, or any regulation or order issued under Federal securities laws or State securities laws;
 
-&emsp;&emsp;(ii) fraud, deceit, or manipulation in a fiduciary capacity or in connection with thepurchase or sale of any security registered under section 12 or 15(d) of the Securities Exchange Act of 1934 or under section 6 of the Securities Act of 1933;
+&emsp;&emsp;(ii) fraud, deceit, or manipulation in a fiduciary capacity or in connection with the purchase or sale of any security registered under section 12 or 15(d) of the Securities Exchange Act of 1934 or under section 6 of the Securities Act of 1933;
 
 &emsp;&emsp;(iii) any civil remedy under section 1964 of title 18; or
 
@@ -272,7 +272,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 522 of the House amendment represents a compromise on the issue of exemptions between the position taken in the House bill, and that taken in the Senate amendment. Dollar amounts specified in section 522(d) of the House bill have been reduced from amounts as contained in H.R. 8200 as passed by the House. The States may, by passing a law, determine whether the Federal exemptions will apply as an alternative to State exemptions in bankruptcy cases.
 
@@ -316,11 +316,11 @@ As under current law, the debtor will be permitted to convert nonexempt property
 
 Subsection (c) insulates exempt property from prepetition claims other than tax claims (whether or not dischargeable), and other than alimony, maintenance, or support claims that are excepted from discharge. The bankruptcy discharge does not prevent enforcement of valid liens. The rule of <i>Long v. Bullard</i>, 117 U.S. 617 (1886), is accepted with respect to the enforcement of valid liens on nonexempt property as well as on exempt property. Cf. <i>Louisville Joint Stock Land Bank v. Radford</i>, 295 U.S. 555, 583 (1935).
 
-Subsection (c)(3) permits the collection of dischargeable taxes from exempt assets. Only assets exempted from levy under Section 6334 of the Internal Revenue Code \[title 26\] or under applicable state or local tax law cannot be applied to satisfy these tax claims. This rule applies to prepetition tax claims against the debtor regardless of whether the claims do or do not receive priority and whether they are dischargeable or nondischargeable. Thus, even if a tax is dischargeable vis-a-vis the debtor's after-acquired assets, it may nevertheless be collectible from exempt property held by the estate. (Taxes incurred by the debtor's estate which are collectible as first priority administrative expenses are not collectible from the debtor's estate which are collectible as first priority administrative expenses are not collectible from the debtor's exempt assets.)
+Subsection (c)(3) permits the collection of dischargeable taxes from exempt assets. Only assets exemptedfrom levy under Section 6334 of the Internal Revenue Code \[title 26\] or under applicable state or local tax law cannot be applied to satisfy these tax claims. This rule applies to prepetition tax claims against the debtor regardless of whether the claims do or do not receive priority and whether they are dischargeable or nondischargeable. Thus, even if a tax is dischargeable vis-a-vis the debtor's after-acquired assets, it may nevertheless be collectible from exempt property held by the estate. (Taxes incurred by the debtor's estate which are collectible as first priority administrative expenses are not collectible from the debtor's estate which are collectible as first priority administrative expenses are not collectible from the debtor's exempt assets.)
 
 Subsection (d) protects the debtor's exemptions, either Federal or State, by making unenforceable in a bankruptcy case a waiver of exemptions or a waiver of the debtor's avoiding powers under the following subsections.
 
-Subsection (e) protects the debtor's exemptions, his discharge, and thus his fresh start by permitting himto avoid certain liens on exempt property. The debtor may avoid a judicial lien on any property to the extent that the property could have been exempted in the absence of the lien, and may similarly avoid a nonpurchase-money security interest in certain household and personal goods. The avoiding power is independent of any waiver of exemptions.
+Subsection (e) protects the debtor's exemptions, his discharge, and thus his fresh start by permitting him to avoid certain liens on exempt property. The debtor may avoid a judicial lien on any property to the extent that the property could have been exempted in the absence of the lien, and may similarly avoid a nonpurchase-money security interest in certain household and personal goods. The avoiding power is independent of any waiver of exemptions.
 
 Subsection (f) gives the debtor the ability to exempt property that the trustee recovers under one of the trustee's avoiding powers if the property was involuntarily transferred away from the debtor (such as by the fixing of a judicial lien) and if the debtor did not conceal the property. The debtor is also permitted to exempt property that the trustee recovers as the result of the avoiding of the fixing of certain security interests to the extent that the debtor could otherwise have exempted the property.
 
@@ -372,7 +372,7 @@ As under current law, the debtor will be permitted to convert nonexempt property
 
 Subsection (c) insulates exempt property from prepetition claims, except tax and alimony, maintenance, or support claims that are excepted from discharge. The bankruptcy discharge will not prevent enforcement of valid liens. The rule of <i>Long v. Bullard</i>, 117 U.S. 617 (1886) \[6 S.Ct. 917, 29 L.Ed. 1004\], is accepted with respect to the enforcement of valid liens on nonexempt property as well as on exempt property. Cf. <i>Louisville Joint Stock Land Bank v. Radford</i>, 295 U.S. 555, 583 (1935) \[55 S.Ct. 854\].
 
-Subsection (d) specifies the Federal exemptions to which the debtor is entitled. They are derived in large part from the Uniform Exemptions Act, promulgated by the Commissioners of Uniform State Laws in August, 1976. Eleven categories of property are exempted. First is a homestead to the extent of $10,000, which may be claimed in real or personal property that the debtor or a dependent of the debtor uses as a residence. Second, the debtor may exempt a motor vehicle to the extent of $1500. Third, the debtor may exempt household goods, furnishings, clothing, and similar household items, held primarily for the personal, family, or household use of the debtor or a dependent of the debtor. “Animals” includes all animals, such as pets, livestock, poultry, and fish, if they are held primarily for personal, family or household use. The limitation forthird category items is $300 on any particular item. The debtor may also exempt up to $750 of personal jewelry.
+Subsection (d) specifies the Federal exemptions to which the debtor is entitled. They are derived in large part from the Uniform Exemptions Act, promulgated by the Commissioners of Uniform State Laws in August, 1976. Eleven categories of property are exempted. First is a homestead to the extent of $10,000, which may be claimed in real or personal property that the debtor or a dependent of the debtor uses as a residence. Second, the debtor may exempt a motor vehicle to the extent of $1500. Third, the debtor may exempt household goods, furnishings, clothing, and similar household items, held primarily for the personal, family, or household use of the debtor or a dependent of the debtor. “Animals” includes all animals, such as pets, livestock, poultry, and fish, if they are held primarily for personal, family or household use. The limitation for third category items is $300 on any particular item. The debtor may also exempt up to $750 of personal jewelry.
 
 Paragraph (5) permits the exemption of $500, plus any unused amount of the homestead exemption, in any property, in order not to discriminate against the nonhomeowner. Paragraph (6) grants the debtor up to $1000 in implements, professional books, or tools, of the trade of the debtor or a dependent. Paragraph (7) exempts a life insurance contract, other than a credit life insurance contract, owned by the debtor. This paragraph refers to the life insurance contract itself. It does not encompass any other rights under the contract, such as the right to borrow out the loan value. Because of this provision, the trustee may not surrender a life insurance contract, which remains property of the debtor if he chooses the Federal exemptions. Paragraph (8) permits the debtor to exempt up to $5000 in loan value in a life insurance policy owned by the debtor under which the debtor or an individual of whom the debtor is a dependent is the insured. The exemption provided by this paragraph and paragraph (7) will also include the debtor's rights in a group insurance certificate under which the insured is an individual of whom the debtor is a dependent (assuming the debtor has rights in the policy that could be exempted) or the debtor. A trustee is authorized to collect the entire loan value on every life insurance policy owned by the debtor as property of the estate. First, however, the debtor will choose which policy or policies under which the loan value will be exempted. The $5000 figure is reduced by the amount of any automatic premium loan authorized after the date of the filing of the petition under section 542(d). Paragraph (9) exempts professionally prescribed health aids.
 
@@ -410,11 +410,11 @@ Section 6 of the Securities Exchange Act of 1933, referred to in subsec. (q)(1)(
 
 #### Amendments
 
-2010—Subsec. (b)(3)(A). Pub. L. 111–327, §2(a)(17)(A), substituted “petition to the place” for “petition at the place” and “located in a single State” for “located at a single State”.
+<b>2010</b>—Subsec. (b)(3)(A). Pub. L. 111–327, §2(a)(17)(A), substituted “petition to the place” for “petition at the place” and “located in a single State” for “located at a single State”.
 
 Subsec. (c)(1). Pub. L. 111–327, §2(a)(17)(B), substituted “such paragraph” for “section 523(a)(5)”.
 
-2005—Subsec. (b). Pub. L. 109–8, §224(a)(1)(B)–(F), designated introductory provisions of subsec. (b) as par. (1), substituted “paragraph (3)” for “paragraph (2)” in two places and “paragraph (2)” for “paragraph (1)” wherever appearing, struck out “Such property is—” after “case is filed.”, and struck out former par. (1) which read: “property that is specified under subsection (d) of this section, unless the State law that is applicable to the debtor under paragraph (2)(A) of this subsection specifically does not so authorize; or, in the alternative,”.
+<b>2005</b>—Subsec. (b). Pub. L. 109–8, §224(a)(1)(B)–(F), designated introductory provisions of subsec. (b) as par. (1), substituted “paragraph (3)” for “paragraph (2)” in two places and “paragraph (2)” for “paragraph (1)” wherever appearing, struck out “Such property is—” after “case is filed.”, and struck out former par. (1) which read: “property that is specified under subsection (d) of this section, unless the State law that is applicable to the debtor under paragraph (2)(A) of this subsection specifically does not so authorize; or, in the alternative,”.
 
 Subsec. (b)(2). Pub. L. 109–8, §224(a)(1)(B), added par. (2). Former par. (2) redesignated (3).
 
@@ -456,9 +456,9 @@ Subsec. (<i>o</i>). Pub. L. 109–8, §308(2), added subsec. (<i>o</i>).
 
 Subsecs. (p), (q). Pub. L. 109–8, §322(a), added subsecs. (p) and (q).
 
-2000—Subsec. (c)(4). Pub. L. 106–420 added par. (4).
+<b>2000</b>—Subsec. (c)(4). Pub. L. 106–420 added par. (4).
 
-1994—Subsec. (b). Pub. L. 103–394, §501(d)(12)(A), substituted “Federal Rules of Bankruptcy Procedure” for “Bankruptcy Rules”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–394, §501(d)(12)(A), substituted “Federal Rules of Bankruptcy Procedure” for “Bankruptcy Rules”.
 
 Subsec. (d)(1) to (6). Pub. L. 103–394, §108(d)(1)–(6), substituted “$15,000” for “$7,500” in par. (1), “$2,400” for “$1,200” in par. (2), “$400” and “$8,000” for “$200” and “$4,000”, respectively, in par. (3), “$1,000” for “$500” in par. (4), “$800” and “$7,500” for “$400” and “$3,750”, respectively, in par. (5), and “$1,500” for “$750” in par. (6).
 
@@ -486,13 +486,13 @@ Subsec. (f)(2). Pub. L. 103–394, §303(4), added par. (2). Former par. (2) red
 
 Subsec. (f)(3). Pub. L. 103–394, §310(2), added par. (3).
 
-1990—Subsec. (c)(3). Pub. L. 101–647 added par. (3).
+<b>1990</b>—Subsec. (c)(3). Pub. L. 101–647 added par. (3).
 
-1986—Subsec. (h)(1). Pub. L. 99–554, §283(i)(1), substituted “553 of this title” for “553 of this tittle”.
+<b>1986</b>—Subsec. (h)(1). Pub. L. 99–554, §283(i)(1), substituted “553 of this title” for “553 of this tittle”.
 
 Subsec. (i)(2). Pub. L. 99–554, §283(i)(2), substituted “this” for “his” after “subsection (g) of”.
 
-1984—Subsec. (a)(2). Pub. L. 98–353, §453(a), inserted “or, with respect to property that becomes property of an estate after such date, as of the date such property becomes property of the estate”.
+<b>1984</b>—Subsec. (a)(2). Pub. L. 98–353, §453(a), inserted “or, with respect to property that becomes property of an estate after such date, as of the date such property becomes property of the estate”.
 
 Subsec. (b). Pub. L. 98–353, §306(a), inserted provision that in joint cases filed under section 302 of this title and individual cases filed under section 301 or 303 of this title by or against debtors who are husband and wife, and whose estates are ordered to be jointly administered under Rule 1015(b) of the Bankruptcy Rules, one debtor may not elect to exempt property listed in paragraph (1) and the other debtor elect to exempt property listed in paragraph (2) of this subsection, but that if the parties cannot agree on the alternative to be elected, they shall be deemed to elect paragraph (1), where such election is permitted under the law of the jurisdiction where the case is filed.
 
@@ -516,7 +516,7 @@ Subsec. (d)(5). Pub. L. 98–353, §306(c), amended par. (5) generally. Prior to
 
 Subsec. (e). Pub. L. 98–353, §453(c), substituted “an exemption” for “exemptions”.
 
-Subsec. (m). Pub. L. 98–353, §306(d), substituted “Subject to the limitation in subsection (b), this section shall apply separately with respect to each debtor in ajoint case” for “This section shall apply separately with respect to each debtor in a joint case”.
+Subsec. (m). Pub. L. 98–353, §306(d), substituted “Subject to the limitation in subsection (b), this section shall apply separately with respect to each debtor in a joint case” for “This section shall apply separately with respect to each debtor in a joint case”.
 
 #### Effective Date of 2005 Amendment
 

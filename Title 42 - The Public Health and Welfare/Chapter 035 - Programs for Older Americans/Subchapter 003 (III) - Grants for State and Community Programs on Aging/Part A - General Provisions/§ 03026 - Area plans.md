@@ -24,7 +24,7 @@ Each area agency on aging designated under section 3025(a)(2)(A) of this title s
 
 &emsp;&emsp;(aa) set specific objectives, consistent with State policy, for providing services to older individuals with greatest economic need, older individuals with greatest social need, and older individuals at risk for institutional placement;
 
-&emsp;&emsp;(bb) include specific objectives for providing services to low-income minority older individuals, older individuals with limitedEnglish proficiency, and older individuals residing in rural areas; and
+&emsp;&emsp;(bb) include specific objectives for providing services to low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas; and
 
 &emsp;(II) include proposed methods to achieve the objectives described in items (aa) and (bb) of subclause (I);
 
@@ -94,7 +94,7 @@ Each area agency on aging designated under section 3025(a)(2)(A) of this title s
 
 &emsp;&emsp;&emsp;(ii) entities conducting other Federal programs for older individuals at the local level, with particular emphasis on entities conducting programs described in section 3013(b) of this title, within the area;
 
-&emsp;&emsp;(F) in coordination with the State agency and with the State agency responsible for mental health services, increase public awareness of mental health disorders, remove barriers to diagnosis and treatment, and coordinate mental health services (including mental health screenings) provided with funds expended by the area agency on aging with mental health services provided by community health centers and by other public agencies and nonprofit private organizations;
+&emsp;&emsp;(F) in coordination with the State agency and with the State agency responsible for mental health services, increase public awareness of mental health disorders, remove barriers to diagnosis and treatment, and coordinate mental health services (including mental health screenings) provided with funds expended by the area agency on aging with mental health services provided by community health centers and by otherpublic agencies and nonprofit private organizations;
 
 &emsp;&emsp;(G) if there is a significant population of older individuals who are Indians in the planning and service area of the area agency on aging, the area agency on aging shall conduct outreach activities to identify such individuals in such area and shall inform such individuals of the availability of assistance under this chapter;
 
@@ -140,7 +140,7 @@ Each area agency on aging designated under section 3025(a)(2)(A) of this title s
 
 &emsp;(11) provide information and assurances concerning services to older individuals who are Native Americans (referred to in this paragraph as “older Native Americans”), including—
 
-&emsp;&emsp;(A) information concerning whether there is a significant population of older Native Americans in the planning and service areaand if so, an assurance that the area agency on aging will pursue activities, including outreach, to increase access of those older Native Americans to programs and benefits provided under this subchapter;
+&emsp;&emsp;(A) information concerning whether there is a significant population of older Native Americans in the planning and service area and if so, an assurance that the area agency on aging will pursue activities, including outreach, to increase access of those older Native Americans to programs and benefits provided under this subchapter;
 
 &emsp;&emsp;(B) an assurance that the area agency on aging will, to the maximum extent practicable, coordinate the services the agency provides under this subchapter with services provided under subchapter X of this chapter; and
 
@@ -216,7 +216,7 @@ Each area agency on aging designated under section 3025(a)(2)(A) of this title s
 
 #### (c) Waiver of requirements
 
-Each State, in approving area agency on aging plans under this section, shall waive the requirement described in paragraph (2) of subsection (a)of this section for any category of services described in such paragraph if the area agency on aging demonstrates to the State agency that services being furnished for such category in the area are sufficient to meet the need for such services in such area and had conducted a timely public hearing upon request.
+Each State, in approving area agency on aging plans under this section, shall waive the requirement described in paragraph (2) of subsection (a) of this section for any category of services described in such paragraph if the area agency on aging demonstrates to the State agency that services being furnished for such category in the area are sufficient to meet the need for such services in such area and had conducted a timely public hearing upon request.
 
 #### (d) Transportation services; funds
 
@@ -332,7 +332,7 @@ Subsec. (a)(5). Pub. L. 106–501, §305(a)(9), added par. (5). Former par. (5) 
 
 Subsec. (a)(6)(A). Pub. L. 106–501, §305(a)(10)(A), (B), redesignated subpar. (C) as (A) and struck out former subpar. (A) which read as follows: “conduct periodic evaluations of, and public hearings on, activities carried out under the area plan and an annual evaluation of the effectiveness of outreach conducted under paragraph (5)(B);”.
 
-Subsec. (a)(6)(B). Pub. L. 106–501, §305(a)(10)(A), (B), redesignated subpar. (D) as (B) and struck out formersubpar. (B) which read as follows: “furnish appropriate technical assistance, and timely information in a timely manner, to providers of supportive services, nutrition services, or multipurpose senior centers in the planning and service area covered by the area plan;”.
+Subsec. (a)(6)(B). Pub. L. 106–501, §305(a)(10)(A), (B), redesignated subpar. (D) as (B) and struck out former subpar. (B) which read as follows: “furnish appropriate technical assistance, and timely information in a timely manner, to providers of supportive services, nutrition services, or multipurpose senior centers in the planning and service area covered by the area plan;”.
 
 Subsec. (a)(6)(C). Pub. L. 106–501, §305(a)(10)(B), (C), redesignated subpar. (E) as (C) and substituted “, assistance to older individuals caring for relatives who are children” for “or adults” in cl. (i). Former subpar. (C) redesignated (A).
 
@@ -394,7 +394,7 @@ Subsec. (a)(2)(B). Pub. L. 102–375, §904(a)(12)(A)(ii), substituted “older 
 
 Subsec. (a)(3). Pub. L. 102–375, §306(b), designated existing provisions as subpar. (A), inserted “(including multipurpose senior centers operated by organizations referred to in paragraph (6)(E)(ii))” after “centers”, and added subpar. (B).
 
-Subsec. (a)(4). Pub. L. 102–375, §306(c)(1), inserted before semicolon at end “, with particular emphasis on linking services available to isolated older individualsand older individuals with Alzheimer's disease or related disorders with neurological and organic brain dysfunction (and the caretakers of individuals with such disease or disorders)”.
+Subsec. (a)(4). Pub. L. 102–375, §306(c)(1), inserted before semicolon at end “, with particular emphasis on linking services available to isolated older individuals and older individuals with Alzheimer's disease or related disorders with neurological and organic brain dysfunction (and the caretakers of individuals with such disease or disorders)”.
 
 Pub. L. 102–375, §102(b)(4), substituted “information and assistance” for “information and referral”.
 
@@ -476,7 +476,7 @@ Subsec. (a)(5)(B). Pub. L. 100–175, §136(b), inserted “and older individual
 
 Pub. L. 100–175, §132(b)(2), inserted “older individuals who have greatest economic need (with particular attention to low-income minority individuals), older individuals who have greatest social need (with particular attention to low-income minority individuals),” after “rural elderly”.
 
-Subsec. (a)(6)(A). Pub. L. 100–175, §§125, 132(b)(3), inserted “, and public hearings on,” after “evaluationsof” and “and an annual evaluation of the effectiveness of outreach conducted under paragraph (5)(B)” before semicolon at end.
+Subsec. (a)(6)(A). Pub. L. 100–175, §§125, 132(b)(3), inserted “, and public hearings on,” after “evaluations of” and “and an annual evaluation of the effectiveness of outreach conducted under paragraph (5)(B)” before semicolon at end.
 
 Subsec. (a)(6)(E). Pub. L. 100–175, §126, inserted “or adults, and respite for families,” after “for children” and “, adults, and families” after “to children”.
 

@@ -44,7 +44,7 @@ Pub. L. 96–399, title I, §105(b), Oct. 8, 1980, 94 Stat. 1618, directed Secre
 
 #### Adequacy, Effectiveness, and Equity of Formula for Allocation of Funds; Report to Congress
 
-Pub. L. 96–399, title I, §113, Oct. 8, 1980, 94 Stat. 1622, directed Secretary of Housing and Urban Development,not later than Jan. 1, 1983, to report to Congress with respect to adequacy, effectiveness, and equity of formula used for allocation of funds under title I of the Housing and Community Development Act of 1974 (this chapter), with specific analysis and recommendations concerning manner in which such formula is or could be affected by data derived from 1980 decennial census.
+Pub. L. 96–399, title I, §113, Oct. 8, 1980, 94 Stat. 1622, directed Secretary of Housing and Urban Development, not later than Jan. 1, 1983, to report to Congress with respect to adequacy, effectiveness, and equity of formula used for allocation of funds under title I of the Housing and Community Development Act of 1974 (this chapter), with specific analysis and recommendations concerning manner in which such formula is or could be affected by data derived from 1980 decennial census.
 
 #### Statement of Policy and Study on Housing Displacement
 

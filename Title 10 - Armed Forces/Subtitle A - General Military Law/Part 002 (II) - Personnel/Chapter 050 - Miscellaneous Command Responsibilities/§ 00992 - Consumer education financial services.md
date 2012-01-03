@@ -42,7 +42,7 @@ Counseling for Members and Spouses.—(1) The Secretary concerned shall, upon re
 
 (3) Each financial services counselor under paragraph (2)(A)(i), and any other individual providing counseling on financial services under paragraph (2), shall be an individual who, by reason of education, training, or experience, is qualified to provide helpful counseling to members of the armed forces and their spouses on financial services and marketing practices described in subsection (a)(1). Such individual may be a member of the armed forces or an employee of the Federal Government.
 
-(4) The Secretary concerned shall take such action as is necessary to ensure that each financial services counselor under paragraph (2)(A)(i), and any other individual providing counseling on financial services under paragraphs (2), is free from conflicts of interest relevant to the performance of duty under this section and, in the performance of that duty, is dedicated to furnishing members of the armed forces and their spouses with helpful information and counseling on financial services and related marketing practices.
+(4) The Secretary concerned shall take such action as is necessary to ensure that each financial services counselor under paragraph (2)(A)(i), and any other individual providing counseling on financial services under paragraphs (2), is free from conflicts of interest relevant to the performance of duty under this section and, in the performance of that duty, is dedicated to furnishing members of the armed forces andtheir spouses with helpful information and counseling on financial services and related marketing practices.
 
 (c)
 
@@ -172,7 +172,7 @@ Technical Amendment.—\[Amended section 80a–27 of Title 15.\]
 
 “(c)
 
-Report on Refunds, Sales Practices, and Revenues From Periodic Payment Plans.—Not later than 6 months after the date of enactment of this Act \[Sept. 29, 2006\], the Securities and Exchange Commission shall submit to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate, a report describing—
+Report on Refunds, Sales Practices, and Revenues From Periodic Payment Plans.—Not later than6 months after the date of enactment of this Act \[Sept. 29, 2006\], the Securities and Exchange Commission shall submit to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate, a report describing—
 
 &emsp;“(1) any measures taken by a broker or dealer registered with the Securities and Exchange Commission pursuant to section 15(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78<i>o</i>(b)) to voluntarily refund payments made by military service members on any periodic payment plan certificate, and the amounts of such refunds;
 

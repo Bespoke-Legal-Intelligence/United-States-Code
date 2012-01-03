@@ -42,7 +42,7 @@ The Secretary, under such regulations as he may prescribe, shall pay (without in
 
 #### (c) Destruction of distilled spirits, wines, or beer
 
-When the Secretary has made payment under this section in respect of the tax, or tax and duty, on the distilled spirits, wines, or beer condemned by a duly authorized official or rendered unmarketable, such distilled spirits, wines, or beer shall be destroyed under such supervision as the Secretary may prescribe, unless such distilled spirits, wines, or beer were previously destroyed under supervision satisfactory to the Secretary.
+When the Secretary has made payment under this section in respect of the tax, or tax andduty, on the distilled spirits, wines, or beer condemned by a duly authorized official or rendered unmarketable, such distilled spirits, wines, or beer shall be destroyed under such supervision as the Secretary may prescribe, unless such distilled spirits, wines, or beer were previously destroyed under supervision satisfactory to the Secretary.
 
 #### (d) Products of Puerto Rico
 
@@ -50,7 +50,7 @@ The provisions of this section shall not be applicable in respect of distilled s
 
 #### (e) Other laws applicable
 
-All provisions of law, including penalties, applicable in respect of internal revenue taxes ondistilled spirits, wines, and beer shall, insofar as applicable and not inconsistent with this section, be applied in respect of the payments provided for in this section to the same extent as if such payments constituted refunds of such taxes.
+All provisions of law, including penalties, applicable in respect of internal revenue taxes on distilled spirits, wines, and beer shall, insofar as applicable and not inconsistent with this section, be applied in respect of the payments provided for in this section to the same extent as if such payments constituted refunds of such taxes.
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1337; amended Pub. L. 91–606, title III, §301(i), Dec. 31, 1970, 84 Stat. 1759; Pub. L. 93–288, title VII, §702(i), formerly title VI, §602(i), May 22, 1974, 88 Stat. 164, renumbered title VII, §702(i), Pub. L. 103–337, div. C, title XXXIV, §3411(a)(1), (2), Oct. 5, 1994, 108 Stat. 3100; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–423, §1(a), Oct. 6, 1978, 92 Stat. 935; Pub. L. 96–39, title VIII, §807(a)(10), July 26, 1979, 93 Stat. 282; Pub. L. 100–707, title I, §109(<i>l</i>), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 108–311, title IV, §408(a)(7)(D), Oct. 4, 2004, 118 Stat. 1191.)
 

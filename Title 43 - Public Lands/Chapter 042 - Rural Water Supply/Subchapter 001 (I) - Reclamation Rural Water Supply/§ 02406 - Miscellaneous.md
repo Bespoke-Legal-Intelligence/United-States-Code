@@ -40,7 +40,7 @@ If the Secretary determines that a community to be served by a proposed rural wa
 
 #### (i) No additional requirements
 
-Nothing in this subchapter requires a feasibility study for, or imposes any other additionalrequirements with respect to, rural water supply projects or programs that are authorized before December 22, 2006.
+Nothing in this subchapter requires a feasibility study for, or imposes any other additional requirements with respect to, rural water supply projects or programs that are authorized before December 22, 2006.
 
 (Pub. L. 109–451, title I, §107, Dec. 22, 2006, 120 Stat. 3355.)
 

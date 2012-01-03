@@ -4,7 +4,7 @@
 
 Denial of Funds for Preventing ROTC Access to Campus.—No funds described in subsection (d)(1) may be provided by contract or by grant to an institution of higher education (including any subelement of such institution) if the Secretary of Defense determines that that institution (or any subelement of that institution) has a policy or practice (regardless of when implemented) that either prohibits, or in effect prevents—
 
-&emsp;(1) the Secretary of a military department from maintaining, establishing, or operating a unit of the Senior Reserve Officer Training Corps (in accordance with section 654 of this title and other applicable Federal laws) at that institution (or any subelement of that institution); or
+&emsp;(1) the Secretary of a military department from maintaining, establishing, or operating a unit of the Senior Reserve Officer Training Corps (in accordance with section 654 <sup>1</sup> of this title and other applicable Federal laws) at that institution (or any subelement of that institution); or
 
 &emsp;(2) a student at that institution (or any subelement of that institution) from enrolling in a unit of the Senior Reserve Officer Training Corps at another institution of higher education.
 
@@ -12,7 +12,7 @@ Denial of Funds for Preventing ROTC Access to Campus.—No funds described in su
 
 Denial of Funds for Preventing Military Recruiting on Campus.—No funds described in subsection (d)(1) may be provided by contract or by grant to an institution of higher education (including any subelement of such institution) if the Secretary of Defense determines that that institution (or any subelement of that institution) has a policy or practice (regardless of when implemented) that either prohibits, or in effect prevents—
 
-&emsp;(1) the Secretary of a military department or Secretary of Homeland Security from gaining access to campuses, or access to students (who are 17 years of age or older) on campuses,for purposes of military recruiting in a manner that is at least equal in quality and scope to the access to campuses and to students that is provided to any other employer; or
+&emsp;(1) the Secretary of a military department or Secretary of Homeland Security from gaining access to campuses, or access to students (who are 17 years of age or older) on campuses, for purposes of military recruiting in a manner that is at least equal in quality and scope to the access to campuses and to students that is provided to any other employer; or
 
 &emsp;(2) access by military recruiters for purposes of military recruiting to the following information pertaining to students (who are 17 years of age or older) enrolled at that institution (or any subelement of that institution):
 
@@ -50,7 +50,7 @@ Covered Funds.—(1) Except as provided in paragraph (2), the limitations establ
 
 Notice of Determinations.—Whenever the Secretary of Defense makes a determination under subsection (a), (b), or (c), the Secretary—
 
-&emsp;(1) shall transmit a notice of the determination to the Secretary of Education, to the head of each other department and agency the funds of which are subject to the determination, and to Congress; and
+&emsp;(1) shall transmit a notice of the determination to the Secretary of Education and to the head of each other department and agency the funds of which are subject to the determination; and
 
 &emsp;(2) shall publish in the Federal Register a notice of the determination and the effect of the determination on the eligibility of the institution of higher education (and any subelement of that institution) for contracts and grants.
 
@@ -58,13 +58,19 @@ Notice of Determinations.—Whenever the Secretary of Defense makes a determinat
 
 Semiannual Notice in Federal Register.—The Secretary of Defense shall publish in the Federal Register once every six months a list of each institution of higher education that is currently ineligible for contracts and grants by reason of a determination of the Secretary under subsection (a) or (b).
 
-(Added Pub. L. 104–106, div. A, title V, §541(a), Feb. 10, 1996, 110 Stat. 315; amended Pub. L. 106–65, div. A, title V, §549(a)(1), Oct. 5, 1999, 113 Stat. 609; Pub. L. 107–296, title XVII, §1704(b)(1), (3), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–375, div. A, title V, §552(a)–(d), Oct. 28, 2004, 118 Stat. 1911, 1912.)
+(Added Pub. L. 104–106, div. A, title V, §541(a), Feb. 10, 1996, 110 Stat. 315; amended Pub. L. 106–65, div. A, title V, §549(a)(1), Oct. 5, 1999, 113 Stat. 609; Pub. L. 107–296, title XVII, §1704(b)(1), (3), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–375, div. A, title V, §552(a)–(d), Oct. 28, 2004, 118 Stat. 1911, 1912; Pub. L. 112–81, div. A, title X, §1061(11), Dec. 31, 2011, 125 Stat. 1583.)
+
+#### References in Text
+
+Section 654 of this title, referred to in subsec. (a)(1), was repealed by Pub. L. 111–321, §2(f)(1)(A), Dec. 22, 2010, 124 Stat. 3516.
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in Pub. L. 103–337, div. A, title V, §558, Oct. 5, 1994, 108 Stat. 2776, as amended, and Pub. L. 104–208, div. A, title I, §101(e) \[title V, §514\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–270, which were set out as notes under section 503 of this title, prior to repeal by Pub. L. 106–65, §549(b).
 
 #### Amendments
+
+<b>2011</b>—Subsec. (e)(1). Pub. L. 112–81 substituted “Secretary of Education and” for “Secretary of Education,” and struck out “, and to Congress” after “determination”.
 
 <b>2004</b>—Subsec. (a). Pub. L. 108–375, §552(d), struck out “(including a grant of funds to be available for student aid)” after “by grant” in introductory provisions.
 
@@ -98,9 +104,11 @@ Pub. L. 108–375, div. A, title V, §552(f), Oct. 28, 2004, 118 Stat. 1912, pro
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department ofHomeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
 #### Funds Available Solely for Student Financial Assistance
 
 Pub. L. 106–79, title VIII, §8120, Oct. 25, 1999, 113 Stat. 1260, provided that during fiscal year 2000 and thereafter, any Federal grant of funds to an institution of higher education to be available solely for student financial assistance or related administrative costs could be used for the purpose for which the grant was made without regard to any provision to the contrary in section 101(e) \[title V, §514\] of Pub. L. 104–208 (formerly 10 U.S.C. 503 note), or section 983 of this title, prior to repeal by Pub. L. 108–375, div. A, title V, §552(e), Oct. 28, 2004, 118 Stat. 1912.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -30,7 +30,7 @@ No loan may be provided under this section to a qualifying hospital except pursu
 
 &emsp;&emsp;(B) has at least 1 existing memorandum of understanding or affiliation agreement with a hospital located in the State in which the entity is located; and
 
-&emsp;&emsp;(C) retains clinical outpatient treatment for cancer on site as well as lab research andeducation and outreach for cancer in the same facility.
+&emsp;&emsp;(C) retains clinical outpatient treatment for cancer on site as well as lab research and education and outreach for cancer in the same facility.
 
 #### (d) Projects
 

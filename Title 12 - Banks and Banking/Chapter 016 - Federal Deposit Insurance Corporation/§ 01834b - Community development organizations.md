@@ -6,21 +6,21 @@ For purposes of this subtitle, any insured depository institution, or a qualifie
 
 &emsp;(1) the institution—
 
-&emsp;&emsp;(A) is a community development bank, or controls any community development bank,which meets the requirements of subsection (b) of this section;
+&emsp;&emsp;(A) is a community development bank, or controls any community development bank, which meets the requirements of subsection (b) of this section;
 
 &emsp;&emsp;(B) controls any community development corporation, or maintains any community development unit within the institution, which meets the requirements of subsection (c) of this section;
 
-&emsp;&emsp;(C) invests in accounts in any community development credit union designated as a low-income credit union, subject to restrictions established for such credit unions by the National Credit Union Administration Board; or
+&emsp;&emsp;(C) invests in accounts in any community development credit union designated as a low-income credit union, subject to restrictions established for such credit unions bythe National Credit Union Administration Board; or
 
 &emsp;&emsp;(D) invests in a community development organization jointly controlled by two or more institutions;
 
 &emsp;(2) except in the case of an institution which is a community development bank, the amount of the capital invested, in the form of debt or equity, by the institution in the community development organization referred to in paragraph (1) (or, in the case of any community development unit, the amount which the institution irrevocably makes available to such unit for the purposes described in paragraph (3)) is not less than the greater of—
 
-&emsp;&emsp;(A) 1/2 of 1 percent of the capital, as defined by generally accepted accounting principles, of the institution; or
+&emsp;&emsp;(A) ½ of 1 percent of the capital, as defined by generally accepted accounting principles, of the institution; or
 
 &emsp;&emsp;(B) the sum of the amounts invested in such community development organization; and
 
-&emsp;(3) the community development organization provides loans for residential mortgages, home improvement, and community development and other financial services, other than financing for the purchase of automobiles or extension of credit under any open-end credit plan (as defined in section 1602(i) of title 15), to low- and moderate-income persons, nonprofit organizations, and small businesses located in qualified distressed communities in a manner consistent with the intent of this subtitle.
+&emsp;(3) the community development organization provides loans for residential mortgages, home improvement, and community development and other financial services, other than financing for the purchase of automobiles or extension of credit under any open-end credit plan (as defined in section 1602(i) <sup>1</sup> of title 15), to low- and moderate-income persons, nonprofit organizations, and small businesses located in qualified distressed communities in a manner consistent with the intent of this subtitle.
 
 #### (b) Community development bank requirements
 
@@ -74,7 +74,11 @@ For purposes of this section—
 
 This subtitle, referred to in subsecs. (a) and (d), is subtitle C (§§231–234) of title II of Pub. L. 102–242, Dec. 19, 1991, 105 Stat. 2308, known as the Bank Enterprise Act of 1991, which enacted this section and sections 1834 and 1834a of this title, amended section 1817 of this title, and enacted provisions set out as a note under section 1811 of this title. For complete classification of subtitle C to the Code, see section 231 of Pub. L. 102–242, set out as a Short Title of 1991 Amendment note under section 1811 of this title and Tables.
 
+Section 1602(i) of title 15, referred to in subsec. (a)(3), was redesignated section 1602(j) of title 15 by Pub. L. 111–203, title X, §1100A(1)(A), July 21, 2010, 124 Stat. 2107.
+
 #### Codification
 
 Section was enacted as part of the Bank Enterprise Act of 1991, and also as part of the Foreign Bank Supervision Enhancement Act of 1991 and as part of the Federal Deposit Insurance Corporation Improvement Act of 1991, and not as part of the Federal Deposit Insurance Act which comprises this chapter.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

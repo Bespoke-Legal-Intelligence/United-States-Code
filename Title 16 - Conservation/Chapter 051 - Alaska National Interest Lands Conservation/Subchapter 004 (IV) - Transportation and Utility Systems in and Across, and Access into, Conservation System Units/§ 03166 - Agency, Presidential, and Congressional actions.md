@@ -4,7 +4,7 @@
 
 (1) In the case of any application for the approval of any transportation or utility system to which section 3165 of this title does not apply or that does not occupy, use, or traverse any area within the National Wilderness Preservation System, if, in compliance with section 3164 of this title—
 
-&emsp;(A) each Federal agency concerned decides to approve each authorization within its jurisdiction with respect to that system, then thesystem shall be deemed to be approved and each such agency shall promptly issue, in accordance with applicable law, such rights-of-way, permits, licenses, leases, certificates, or other authorizations as are necessary with respect to the establishment of the system; or
+&emsp;(A) each Federal agency concerned decides to approve each authorization within its jurisdiction with respect to that system, then the system shall be deemed to be approved and each such agency shall promptly issue, in accordance with applicable law, such rights-of-way, permits, licenses, leases, certificates, or other authorizations as are necessary with respect to the establishment of the system; or
 
 &emsp;(B) one or more Federal agencies decide to disapprove any authorization within its jurisdiction with respect, to that system, then the system shall be deemed to be disapproved and the applicant for the system may appeal the disapproval to the President.
 
@@ -44,7 +44,7 @@
 
 &emsp;(B) with full recognition of the constitutional right of either House to change the rules (so far as those relate to the procedure of that House) at any time, in the same manner and to the same extent as in the case of any other rule of such House.
 
-(4) For the purposes of this subsection, the term “resolution” means a joint resolution, the resolving clause of which is as follows: “That the House of Representatives and Senate approve the application for      under title XI of the Alaska National Interest Lands Conservation Act submitted by the President to the Congress on       , 19 .”; the first blankspace therein to be filled in with the appropriate transportation or utility system and the second blank therein to be filled with the date on which the President submits the application to the House of Representatives and the Senate.
+(4) For the purposes of this subsection, the term “resolution” means a joint resolution, the resolving clause of which is as follows: “That the House of Representatives and Senate approve the application for      under title XI of the Alaska National Interest Lands Conservation Act submitted by the President to the Congress on       , 19 .”; the first blank space therein to be filled in with the appropriate transportation or utility system and the second blank therein to be filled with the date on which the President submits the application to the House of Representatives and the Senate.
 
 (5) Except as otherwise provided in this subsection, the provisions of section 719f(d) of title 15 shall apply to the consideration of the resolution.
 

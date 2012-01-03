@@ -46,7 +46,7 @@ It shall be an unlawful employment practice for a labor organization to request,
 
 &emsp;&emsp;&emsp;(ii) State genetic monitoring regulations, in the case of a State that is implementing genetic monitoring regulations under the authority of the Occupational Safety and Health Act of 1970 (29 U.S.C. 651 et seq.); and
 
-&emsp;&emsp;(E) the labor organization, excluding any licensed health care professional or boardcertified genetic counselor that is involved in the genetic monitoring program, receives the results of the monitoring only in aggregate terms that do not disclose the identity of specific members.
+&emsp;&emsp;(E) the labor organization, excluding any licensed health care professional or board certified genetic counselor that is involved in the genetic monitoring program, receives the results of the monitoring only in aggregate terms that do not disclose the identity of specific members.
 
 #### (c) Preservation of protections
 

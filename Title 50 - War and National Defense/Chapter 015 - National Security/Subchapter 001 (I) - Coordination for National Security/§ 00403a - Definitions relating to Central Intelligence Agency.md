@@ -6,7 +6,7 @@ When used in sections 403a to 403s of this title, the term—
 
 &emsp;(2) “Director” means the Director of the Central Intelligence Agency; and
 
-&emsp;(3) “Government agency” means any executive department, commission, council, independent establishment, corporation wholly orpartly owned by the United States which is an instrumentality of the United States, board, bureau, division, service, office, officer, authority, administration, or other establishment, in the executive branch of the Government.
+&emsp;(3) “Government agency” means any executive department, commission, council, independent establishment, corporation wholly or partly owned by the United States which is an instrumentality of the United States, board, bureau, division, service, office, officer, authority, administration, or other establishment, in the executive branch of the Government.
 
 (June 20, 1949, ch. 227, §1, 63 Stat. 208; Pub. L. 86–707, title V, §511(a)(3), (c)(1), Sept. 6, 1960, 74 Stat. 800, 801; Pub. L. 108–458, title I, §1077, Dec. 17, 2004, 118 Stat. 3695.)
 

@@ -8,7 +8,7 @@ The Congress finds that—
 
 &emsp;(3) considering the current operating procedures of the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, and the Federal Home Loan Banks, the enterprises and the Banks currently pose low financial risk of insolvency;
 
-&emsp;(4) neither the enterprises nor the Banks, nor any securities or obligations issued by the enterprises or the Banks, are backed by the full faith and credit of the United States;
+&emsp;(4) neither the enterprises nor the Banks, nor any securities or obligations issued by theenterprises or the Banks, are backed by the full faith and credit of the United States;
 
 &emsp;(5) an entity regulating the Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation should have sufficient autonomy from the enterprises and special interest groups;
 

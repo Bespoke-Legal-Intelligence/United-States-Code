@@ -24,7 +24,7 @@ Report on Investigation.—To the extent practicable, a commanding officer or of
 
 &emsp;(1) submit a final report on the results of the investigation, including any action taken as a result of the investigation, to the next superior officer referred to in subsection (b)(1) within 20 days after the date on which the investigation is commenced; or
 
-&emsp;(2) submit a report on the progress made in completing the investigation to the next superior officer referred to in subsection (b)(1) within 20 days after the date on which the investigation is commenced and every 14 days thereafter until the investigation is completed and, upon completion of the investigation, then submit a final report on the results of the investigation, including any action taken as a result of the investigation, to that next superior officer.
+&emsp;(2) submit a report on the progress made in completing the investigation to the next superior officer referred to in subsection (b)(1) within 20 days after the date on which the investigation is commenced and every 14 daysthereafter until the investigation is completed and, upon completion of the investigation, then submit a final report on the results of the investigation, including any action taken as a result of the investigation, to that next superior officer.
 
 (e)
 
@@ -56,9 +56,143 @@ Prior sections 1571 to 1577, Pub. L. 89–690, §1, Oct. 15, 1966, 80 Stat. 1016
 
 Pub. L. 107–311, §1, Dec. 2, 2002, 116 Stat. 2455, provided that: “This Act \[enacting section 1561a of this title\] may be cited as the ‘Armed Forces Domestic Security Act’.”
 
+#### Sexual Assault Response Coordinators and Sexual Assault Victim Advocates
+
+Pub. L. 112–81, div. A, title V, §584, Dec. 31, 2011, 125 Stat. 1432, provided that:
+
+“(a)
+
+Assignment of Coordinators.—
+
+&emsp;“(1)
+
+Assignment requirements.—At least one full-time Sexual Assault Response Coordinator shall be assigned to each brigade or equivalent unit level of the armed forces. The Secretary of the military department concerned may assign additional Sexual Assault Response Coordinators as necessary based on the demographics or needs of the unit. An additional Sexual Assault Response Coordinator may serve on a full-time or part-time basis at the discretion of the Secretary.
+
+&emsp;“(2)
+
+Eligible persons.—On and after October 1, 2013, only members of the armed forces and civilian employees of the Department of Defense may be assigned to duty as a Sexual Assault Response Coordinator.
+
+“(b)
+
+Assignment of Victim Advocates.—
+
+&emsp;“(1)
+
+Assignment requirements.—At least one full-time Sexual Assault Victim Advocate shall be assigned to each brigade or equivalent unit level of the armed forces. The Secretary of the military department concerned may assign additional Victim Advocates as necessary based on the demographics or needs of the unit. An additional Victim Advocate may serve on a full-time or part-time basis at the discretion of the Secretary.
+
+&emsp;“(2)
+
+Eligible persons.—On and after October 1, 2013, only members of the armed forces and civilian employees of the Department of Defense may be assigned to duty as a Victim Advocate.
+
+“(c)
+
+Training and Certification.—
+
+&emsp;“(1)
+
+Training and certification program.—As part of the sexual assault prevention and response program, the Secretary of Defense shall establish a professional and uniform training and certification program for Sexual Assault Response Coordinators assigned under subsection (a) and Sexual Assault Victim Advocates assigned under subsection (b). The program shall be structured and administered in a manner similar to the professional training available for Equal Opportunity Advisors through the Defense Equal Opportunity Management Institute.
+
+&emsp;“(2)
+
+Consultation.—In developing the curriculum and other components of the program, the Secretary of Defense shall work with experts outside of the Department of Defense who are experts in victim advocacy and sexual assault prevention and response training.
+
+&emsp;“(3)
+
+Effective date.—On and after October 1, 2013, before a member or civilian employee may be assigned to duty as a Sexual Assault Response Coordinator under subsection (a) or Victim Advocate under subsection (b), the member or employee must have completed the training program required by paragraph (1) and obtained the certification.
+
+“(d)
+
+Definitions.—In this section:
+
+&emsp;“(1) The term ‘armed forces’ means the Army, Navy, Air Force, and Marine Corps.
+
+&emsp;“(2) The term ‘sexual assault prevention and response program’ has the meaning given such term in section 1601(a) of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 (Public Law 111–383; 10 U.S.C. 1561 note).”
+
+#### Training and Education Programs for Sexual Assault Prevention and Response Program
+
+Pub. L. 112–81, div. A, title V, §585, Dec. 31, 2011, 125 Stat. 1434, provided that:
+
+“(a)
+
+Sexual Assault Prevention and Response Training and Education.—
+
+&emsp;“(1)
+
+Development of curriculum.—Not later than one year after the date of the enactment of this Act \[Dec. 31, 2011\], the Secretary of each military department shall develop a curriculum to provide sexual assault prevention and response training and education for members of the Armed Forces under the jurisdiction of the Secretary and civilian employees of the military department to strengthen individual knowledge, skills, and capacity to prevent and respond to sexual assault. In developing the curriculum, the Secretary shall work with experts outside of the Department of Defense who are experts \[in\] sexual assault prevention and response training.
+
+&emsp;“(2)
+
+Scope of training and education.—The sexual assault prevention and response training and education shall encompass initial entry and accession programs, annual refresher training, professional military education, peer education, and specialized leadership training. Training shall be tailored for specific leadership levels and local area requirements.
+
+&emsp;“(3)
+
+Consistent training.—The Secretary of Defense shall ensure that the sexual assault prevention and response training provided to members of the Armed Forces and Department of Defense civilian employees is consistent throughout the military departments.
+
+“(b)
+
+Inclusion in Professional Military Education.—The Secretary of Defense shall provide for the inclusion of a sexual assault prevention and response training module at each level of professional military education. The training shall be tailored to the new responsibilities and leadership requirements of members of the Armed Forces as they are promoted.
+
+“(c)
+
+Inclusion in First Responder Training.—
+
+&emsp;“(1)
+
+In general.—The Secretary of Defense shall direct that managers of specialty skills associated with first responders described in paragraph (2) integrate sexual assault response training in initial and recurring training courses.
+
+&emsp;“(2)
+
+Covered first responders.—First responders referred to in paragraph (1) include firefighters, emergency medical technicians, law enforcement officers, military criminal investigators, healthcare personnel, judge advocates, and chaplains.”
+
+#### Department of Defense Policy and Procedures on Retention and Access to Evidence and Records Relating to Sexual Assaults Involving Members of the Armed Forces
+
+Pub. L. 112–81, div. A, title V, §586(a)–(d), Dec. 31, 2011, 125 Stat. 1434, 1435, provided that:
+
+“(a)
+
+Comprehensive Policy on Retention and Access to Records.—Not later than October 1, 2012, the Secretary of Defense shall, in consultation with the Secretary of Veterans Affairs, develop a comprehensive policy for the Department of Defense on the retention of and access to evidence and records relating to sexual assaults involving members of the Armed Forces.
+
+“(b)
+
+Objectives.—The comprehensive policy required by subsection (a) shall include policies and procedures (including systems of records) necessary to ensure preservation of records and evidence for periods of time that ensure that members of the Armed Forces and veterans of military service who were the victims of sexual assault during military service are able to substantiate claims for veterans benefits, to support criminal or civil prosecutions by military or civil authorities, and for such purposes relating to the documentation of the incidence of sexual assault in the Armed Forces as the Secretary of Defense considers appropriate.
+
+“(c)
+
+Elements.—In developing the comprehensive policy required by subsection (a), the Secretary of Defense shall consider, at a minimum, the following matters:
+
+&emsp;“(1) Identification of records, including non-Department of Defense records, relating to an incident of sexual assault, that must be retained.
+
+&emsp;“(2) Criteria for collection and retention of records.
+
+&emsp;“(3) Identification of physical evidence and non-documentary forms of evidence relating to sexual assaults that must be retained.
+
+&emsp;“(4) Length of time records, including Department of Defense Forms 2910 and 2911, and evidence must be retained, except that—
+
+&emsp;&emsp;“(A) the length of time physical evidence and forensic evidence must be retained shall be not less than five years; and
+
+&emsp;&emsp;“(B) the length of time documentary evidence relating to sexual assaults must be retained shall be not less than the length of time investigative records relating to reports of sexual assaults of that type (restricted or unrestricted reports) must be retained.
+
+&emsp;“(5) Locations where records must be stored.
+
+&emsp;“(6) Media which may be used to preserve records and assure access, including an electronic systems \[sic\] of records.
+
+&emsp;“(7) Protection of privacy of individuals named in records and status of records under section 552 of title 5, United States Code (commonly referred to as the ‘Freedom of Information Act’), section 552a of title 5, United States Code (commonly referred to as the ‘Privacy Act’), restricted reporting cases, and laws related to privilege.
+
+&emsp;“(8) Access to records by victims of sexual assault, the Department of Veterans Affairs, and others, including alleged assailants and law enforcement authorities.
+
+&emsp;“(9) Responsibilities for record retention by the military departments.
+
+&emsp;“(10) Education and training on record retention requirements.
+
+&emsp;“(11) Uniform collection of data on the incidence of sexual assaults and on disciplinary actions taken in substantiated cases of sexual assault.
+
+“(d)
+
+Uniform Application to Military Departments.—The Secretary of Defense shall ensure that, to the maximum extent practicable, the policy developed under subsection (a) is implemented uniformly by the military departments.”
+
 #### Improved Sexual Assault Prevention and Response in the Armed Forces
 
-Pub. L. 111–383, div. A, title XVI, Jan. 7, 2011, 124 Stat. 4429, provided that:
+Pub. L. 111–383, div. A, title XVI, Jan. 7, 2011, 124 Stat. 4429, as amended by Pub. L. 112–81, div. A, title V, §583, Dec. 31, 2011, 125 Stat. 1432, provided that:
 
 #### “SEC. 1601. DEFINITION OF DEPARTMENT OF DEFENSE SEXUAL ASSAULT PREVENTION AND RESPONSE PROGRAM AND OTHER DEFINITIONS.
 
@@ -156,7 +290,7 @@ Recognizing operational differences.—In complying with this subsection, the Se
 
 “(a)
 
-Appointment of Director.—There shall be a Director of the Sexual Assault Prevention and Response Office. During the development and implementation of the comprehensive policy for the Department of Defense sexual assault prevention and response program, the Director shall operate under the oversight of the Advisory Working Group of the Deputy Secretary of Defense.
+Appointment of Director.—There shall be a Director of the Sexual Assault Prevention and Response Office, who shall be appointed from among general or flag officers of the Armed Forces or employees of the Department of Defense in a comparable Senior Executive Service position. During the development and implementation of the comprehensive policy for the Department of Defense sexual assault prevention and response program, the Director shall operate under the oversight of the Advisory Working Group of the Deputy Secretary of Defense.
 
 “(b)
 
@@ -186,7 +320,7 @@ Staff.—
 
 &emsp;“(1)
 
-Assignment.—Not later than 18 months after the date of the enactment of this Act \[Jan. 7, 2011\], an officer from each of the Armed Forces in the grade ofO–4 or above shall be assigned to the Sexual Assault Prevention and Response Office for a minimum tour length of at least 18 months.
+Assignment.—Not later than 18 months after the date of the enactment of this Act \[Jan. 7, 2011\], an officer from each of the Armed Forces in the grade of O–4 or above shall be assigned to the Sexual Assault Prevention and Response Office for a minimum tour length of at least 18 months.
 
 &emsp;“(2)
 
@@ -484,7 +618,7 @@ Report on Improvement of Capability To Respond to Sexual Assaults.—Not later t
 
 “(d)
 
-Application of Comprehensive Policy To Military Departments.—The Secretary of Defense shallensure that, to the maximum extent practicable, the policy developed under subsection (a) is implemented uniformly by the military departments.
+Application of Comprehensive Policy To Military Departments.—The Secretary of Defense shall ensure that, to the maximum extent practicable, the policy developed under subsection (a) is implemented uniformly by the military departments.
 
 “(e)
 

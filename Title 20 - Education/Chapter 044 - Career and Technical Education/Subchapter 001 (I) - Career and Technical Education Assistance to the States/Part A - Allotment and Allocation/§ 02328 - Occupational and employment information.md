@@ -74,7 +74,7 @@ The Secretary, in consultation with appropriate Federal agencies, shall prepare 
 
 &emsp;(2) a description of the specific products and services assisted under this section that were delivered in the prior program year; and
 
-&emsp;(3) an assessment of the extent to which States have effectively coordinated activities assisted under this section with activities authorized under section 15 of the Wagner-Peyser Act \[29 U.S.C. 49<i>l</i>–2\].
+&emsp;(3) an assessment of the extent to which States have effectively coordinated activitiesassisted under this section with activities authorized under section 15 of the Wagner-Peyser Act \[29 U.S.C. 49<i>l</i>–2\].
 
 #### (g) Authorization of appropriations
 

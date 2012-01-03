@@ -18,7 +18,7 @@
 
 #### (1) Minimum levels
 
-&emsp;Except as provided in paragraph (2), in making agricultural commodities available under this subchapter, the Administrator shall ensure that not less than 75 percent of the quantity of such commodities required to be distributed during each fiscal year under subsection (a)(2) of this section be in the form of processed, fortified, or bagged commodities and that not less than 50 percent of the quantity of the bagged commodities that are whole grain commodities be bagged in the United States.
+&emsp;Except as provided in paragraph (2), in making agricultural commodities available underthis subchapter, the Administrator shall ensure that not less than 75 percent of the quantity of such commodities required to be distributed during each fiscal year under subsection (a)(2) of this section be in the form of processed, fortified, or bagged commodities and that not less than 50 percent of the quantity of the bagged commodities that are whole grain commodities be bagged in the United States.
 
 #### (2) Waiver of minimum
 
@@ -28,15 +28,15 @@
 
 #### Amendments
 
-2008—Subsec. (a)(1), (2). Pub. L. 110–246 substituted “2008 through 2012” for “2002 through 2007”.
+<b>2008</b>—Subsec. (a)(1), (2). Pub. L. 110–246 substituted “2008 through 2012” for “2002 through 2007”.
 
-2004—Subsec. (a)(3). Pub. L. 108–199 substituted “the Committees on International Relations, Agricultureand Appropriations of the House of Representatives, and the Committees on Appropriations and” for “the Committee on Foreign Affairs and Committee on Agriculture of the House of Representatives, and the Committee on”.
+<b>2004</b>—Subsec. (a)(3). Pub. L. 108–199 substituted “the Committees on International Relations, Agriculture and Appropriations of the House of Representatives, and the Committees on Appropriations and” for “the Committee on Foreign Affairs and Committee on Agriculture of the House of Representatives, and the Committee on”.
 
-2002—Subsec. (a)(1). Pub. L. 107–171, §3004(1), (2), substituted “2002 through 2007” for “1996 through 2002” and “2,500,000 metric tons” for “2,025,000 metric tons”.
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–171, §3004(1), (2), substituted “2002 through 2007” for “1996 through 2002” and “2,500,000 metric tons” for “2,025,000 metric tons”.
 
 Subsec. (a)(2). Pub. L. 107–171, §3004(1), (3), substituted “2002 through 2007” for “1996 through 2002” and “1,875,000 metric tons” for “1,550,000 metric tons”.
 
-1996—Subsec. (a)(1). Pub. L. 104–127, §209(1)(A), substituted “amount that for each of fiscal years 1996 through 2002 is not less than 2,025,000 metric tons.” for “amount that—
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–127, §209(1)(A), substituted “amount that for each of fiscal years 1996 through 2002 is not less than 2,025,000 metric tons.” for “amount that—
 
 &emsp;“(A) for fiscal year 1991, is not less than 1,925,000 metric tons;
 
@@ -64,25 +64,25 @@ Subsec. (a)(3). Pub. L. 104–127, §209(1)(C), inserted at end “No waiver sha
 
 Subsec. (b)(1). Pub. L. 104–127, §209(2), inserted before period at end “and that not less than 50 percent of the quantity of the bagged commodities that are whole grain commodities be bagged in the United States”.
 
-1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions relating to authorization of appropriations for reimbursement of Commodity Credit Corporation for costs incurred in connection with programs of assistance undertaken under this subchapter, and appropriations for purchase of foreign currencies.
+<b>1990</b>—Pub. L. 101–624 amended section generally, substituting present provisions for provisions relating to authorization of appropriations for reimbursement of Commodity Credit Corporation for costs incurred in connection with programs of assistance undertaken under this subchapter, and appropriations for purchase of foreign currencies.
 
-1985—Pub. L. 99–198 substituted “fiscal” for “calendar” in two places in first sentence and authorized a waiver of limitation on assistance when the President determines waiver is necessary to undertake programs of assistance to meet humanitarian needs.
+<b>1985</b>—Pub. L. 99–198 substituted “fiscal” for “calendar” in two places in first sentence and authorized a waiver of limitation on assistance when the President determines waiver is necessary to undertake programs of assistance to meet humanitarian needs.
 
-1981—Pub. L. 97–98 substituted “$1,000,000,000” for “$750,000,000”.
+<b>1981</b>—Pub. L. 97–98 substituted “$1,000,000,000” for “$750,000,000”.
 
-1977—Pub. L. 95–113 substituted “$750,000,000” for “$600,000,000”.
+<b>1977</b>—Pub. L. 95–113 substituted “$750,000,000” for “$600,000,000”.
 
-1966—Pub. L. 89–808 substituted part of provisions of former section 1723 of this title relating to authorization of appropriations for reimbursement of the CCC, limitations on amount, and use of funds for purchase of foreign currencies for former provisions for termination date for assistance under this subchapter (Dec. 31, 1966), now provided for by section 1736c of this title.
+<b>1966</b>—Pub. L. 89–808 substituted part of provisions of former section 1723 of this title relating to authorization of appropriations for reimbursement of the CCC, limitations on amount, and use of funds for purchase of foreign currencies for former provisions for termination date for assistance under this subchapter (Dec. 31, 1966), now provided for by section 1736c of this title.
 
-1964—Pub. L. 88–638 extended termination date from Dec. 31, 1964, to Dec. 31, 1966.
+<b>1964</b>—Pub. L. 88–638 extended termination date from Dec. 31, 1964, to Dec. 31, 1966.
 
-1961—Pub. L. 87–128 extended termination date from Dec. 31, 1961, to Dec. 31, 1964.
+<b>1961</b>—Pub. L. 87–128 extended termination date from Dec. 31, 1961, to Dec. 31, 1964.
 
-1959—Pub. L. 86–341 extended termination date from Dec. 31, 1959, to Dec. 31, 1961.
+<b>1959</b>—Pub. L. 86–341 extended termination date from Dec. 31, 1959, to Dec. 31, 1961.
 
-1958—Pub. L. 85–931 extended termination date from June 30, 1958, to Dec. 31, 1959.
+<b>1958</b>—Pub. L. 85–931 extended termination date from June 30, 1958, to Dec. 31, 1959.
 
-1957—Pub. L. 85–128 extended termination date from June 30, 1957, to June 30, 1958.
+<b>1957</b>—Pub. L. 85–128 extended termination date from June 30, 1957, to June 30, 1958.
 
 #### Change of Name
 

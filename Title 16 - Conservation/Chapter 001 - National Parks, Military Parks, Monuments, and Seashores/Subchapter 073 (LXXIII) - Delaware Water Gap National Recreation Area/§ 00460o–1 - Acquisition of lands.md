@@ -12,7 +12,7 @@ The Secretary of the Army is authorized and directed to acquire, by such means a
 
 &emsp;(4) acquisition of lands of beneficial owners, not being a corporation, who are willing to sell their lands provided they are able to continue to use it for noncommercial residential purposes for a limited period of time which will not, in the judgment of the Secretary, unduly interfere with the development of public use facilities for such national recreation area, pursuant to the authorization for such area;
 
-&emsp;(5) acquisition of scenic easements when, in the judgment of the Secretary, such easements are sufficient to carry out the purposes for which such national recreation area was authorized; and
+&emsp;(5) acquisition of scenic easements when, in the judgment of the Secretary, such easements are sufficient to carry out the purposesfor which such national recreation area was authorized; and
 
 &emsp;(6) acquisition of lands necessary to preserve the integrity of the recreation area.
 
@@ -32,7 +32,7 @@ The beneficial owner, not being a corporation, of a freehold interest acquired b
 
 #### References in Text
 
-The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsec. (d), is Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, as amended, which is classified generally to chapter 61 (§4601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of Title 42 and Tables.
+The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsec. (d), is Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, which is classified principally to chapter 61 (§4601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of Title 42 and Tables.
 
 #### Amendments
 

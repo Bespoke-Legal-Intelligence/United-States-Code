@@ -4,7 +4,7 @@
 
 #### (1) Standards and protocols
 
-&emsp;Not later than 180 days after March 23, 2010, <sup>1</sup> the Secretary, in consultation with the HIT Policy Committee and the HIT Standards Committee, shall develop interoperable and secure standards and protocols that facilitate enrollment of individuals in Federal and State health and human services programs, as determined by the Secretary.
+&emsp;Not later than 180 days after March 23, 2010,<sup>1</sup> the Secretary, in consultation with the HIT Policy Committee and the HIT Standards Committee, shall develop interoperable and secure standards and protocols that facilitate enrollment of individuals in Federal and State health and human services programs, as determined by the Secretary.
 
 #### (2) Methods
 

@@ -10,7 +10,7 @@ It is the sense of the Congress that, as previously stated in title V of the Men
 
 &emsp;&emsp;&emsp;(ii) restrict such liberty only to the extent necessary consistent with such person's treatment needs, applicable requirements of law, and applicable judicial orders.
 
-&emsp;&emsp;(B) The right to an individualized, written, treatment or service plan (such plan to be developed promptly after admission of such person), the right to treatment based on such plan, the right to periodic review and reassessment of treatment and related service needs, and the right to appropriate revision of such plan, including any revision necessary to provide a description of mental health services that may be needed after such person is discharged from such program or facility.
+&emsp;&emsp;(B) The right to an individualized, written, treatment or service plan (such plan to be developed promptly after admission of such person), the right to treatment based on such plan, the right to periodic review and reassessment of treatment and related service needs, and the right to appropriate revision of such plan, including any revision necessary to provide a description of mentalhealth services that may be needed after such person is discharged from such program or facility.
 
 &emsp;&emsp;(C) The right to ongoing participation, in a manner appropriate to such person's capabilities, in the planning of mental health services to be provided such person (including the right to participate in the development and periodic revision of the plan described in subparagraph (B)), and, in connection with such participation, the right to be provided with a reasonable explanation, in terms and language appropriate to such person's condition and ability to understand, of—
 
@@ -90,7 +90,7 @@ It is the sense of the Congress that, as previously stated in title V of the Men
 
 &emsp;&emsp;(ii) the areas of the program or facility where such person has received treatment, resided, or had access; and
 
-&emsp;&emsp;(iii) pursuant to the written authorization of such person, the records and informationpertaining to such person's diagnosis, treatment, and related services described in paragraph (1)(I).
+&emsp;&emsp;(iii) pursuant to the written authorization of such person, the records and information pertaining to such person's diagnosis, treatment, and related services described in paragraph (1)(I).
 
 &emsp;(D) Each program and facility should post a notice listing and describing, in language and terms appropriate to the ability of the persons to whom such notice is addressed to understand, the rights described in this section of all persons admitted to such program or facility. Each such notice should conform to the format and content for such notices, and should be posted in all appropriate locations.
 

@@ -12,13 +12,13 @@ Each partnership required to file a return under subsection (a) for any partners
 
 Any person who holds an interest in a partnership as a nominee for another person—
 
-&emsp;(1) shall furnish to the partnership, in the manner prescribed by the Secretary, the name and address of such other person, and any other information for such taxable year as the Secretary may by form and regulation prescribe, and
+&emsp;(1) shall furnish to the partnership, in the manner prescribed by the Secretary, the nameand address of such other person, and any other information for such taxable year as the Secretary may by form and regulation prescribe, and
 
 &emsp;(2) shall furnish in the manner prescribed by the Secretary such other person the information provided by such partnership under subsection (b).
 
 #### (d) Separate statement of items of unrelated business taxable income
 
-In the case of any partnership regularly carrying on a trade or business (within the meaning of section 512(c)(1)), the information required under subsection (b) to be furnished to its partners shall include such information as is necessary to enable each partner to compute its distributive share of partnership income or loss from such trade or business in accordance withsection 512(a)(1), but without regard to the modifications described in paragraphs (8) through (15) of section 512(b).
+In the case of any partnership regularly carrying on a trade or business (within the meaning of section 512(c)(1)), the information required under subsection (b) to be furnished to its partners shall include such information as is necessary to enable each partner to compute its distributive share of partnership income or loss from such trade or business in accordance with section 512(a)(1), but without regard to the modifications described in paragraphs (8) through (15) of section 512(b).
 
 #### (e) Foreign partnerships
 
@@ -94,7 +94,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Returns Required From All Partnerships With United States Partners
 
-Section 404 of Pub. L. 97–248, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Except as hereafter provided in regulations prescribed by the Secretary of the Treasury or his delegate, nothing in section 6031 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall be treated as excluding any partnership from the filing requirements of such section for any taxable year if the income tax liability under subtitle A of such Code of any United States person is determined in whole or in part by taking into account (directly or indirectly) partnership items of such partnership for such taxable year.”
+Section 404 of Pub. L. 97–248, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:“Except as hereafter provided in regulations prescribed by the Secretary of the Treasury or his delegate, nothing in section 6031 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall be treated as excluding any partnership from the filing requirements of such section for any taxable year if the income tax liability under subtitle A of such Code of any United States person is determined in whole or in part by taking into account (directly or indirectly) partnership items of such partnership for such taxable year.”
 
 #### Special Rule for Certain International Satellite Partnerships
 

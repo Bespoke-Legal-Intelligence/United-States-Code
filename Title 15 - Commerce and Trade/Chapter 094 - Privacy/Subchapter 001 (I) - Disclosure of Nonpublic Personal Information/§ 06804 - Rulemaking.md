@@ -4,15 +4,29 @@
 
 #### (1) Rulemaking
 
-&emsp;The Federal banking agencies, the National Credit Union Administration, the Secretary of the Treasury, the Securities and Exchange Commission, and the Federal Trade Commission shall each prescribe, after consultation as appropriate with representatives of State insurance authorities designated by the National Association of Insurance Commissioners, such regulations as may be necessary to carry out the purposes of this subchapter with respect to the financial institutions subject to their jurisdiction under section 6805 of this title.
+#### (A) In general
+
+&emsp;&emsp;Except as provided in subparagraph (C), the Bureau of Consumer Financial Protection and the Securities and Exchange Commission shall have authority to prescribe such regulations as may be necessary to carry out the purposes of this subchapter with respect to financial institutions and other persons subject to their respective jurisdiction under section 6805 of this title (and notwithstanding subtitle B of the Consumer Financial Protection Act of 2010 \[12 U.S.C. 5511 et seq.\]), except that the Bureau of Consumer Financial Protection shall not have authority to prescribe regulations with respect to the standards under section 6801 of this title.
+
+#### (B) CFTC
+
+&emsp;&emsp;The Commodity Futures Trading Commission shall have authority to prescribe such regulations as may be necessary to carry out the purposes of this subchapter with respect to financial institutions and other persons subject to the jurisdiction of the Commodity Futures Trading Commission under section 7b–2 of title 7.
+
+#### (C) Federal Trade Commission authority
+
+&emsp;&emsp;Notwithstanding the authority of the Bureau of Consumer Financial Protection under subparagraph (A), the Federal Trade Commission shall have authority to prescribe such regulations as may be necessary to carry out the purposes of this subchapter with respect to any financial institution that is a person described in section 1029(a) of the Consumer Financial Protection Act of 2010 \[12 U.S.C. 5519(a)\].
+
+#### (D) Rule of construction
+
+&emsp;&emsp;Nothing in this paragraph shall be construed to alter, affect, or otherwise limit the authority of a State insurance authority to adopt regulations to carry out this subchapter.
 
 #### (2) Coordination, consistency, and comparability
 
-&emsp;Each of the agencies and authorities required under paragraph (1) to prescribe regulations shall consult and coordinate with the other such agencies and authorities for the purposes of assuring, to the extent possible, that the regulations prescribed by each such agency and authority are consistent and comparable with the regulations prescribed by the other such agencies and authorities.
+&emsp;Each of the agencies authorized under paragraph (1) to prescribe regulations shall consult and coordinate with the other such agencies and, as appropriate, and with <sup>1</sup> representatives of State insurance authorities designated by the National Association of Insurance Commissioners, for the purpose of assuring, to the extent possible, that the regulations prescribed by each such agency are consistent and comparable with the regulations prescribed by the other such agencies.
 
 #### (3) Procedures and deadline
 
-&emsp;Such regulations shall be prescribed in accordance with applicable requirements of title 5 and shall be issued in final form not later than 6 months after November 12, 1999.
+&emsp;Such regulations shall be prescribed in accordance with applicable requirements of title 5.
 
 #### (b) Authority to grant exceptions
 
@@ -20,39 +34,19 @@ The regulations prescribed under subsection (a) of this section may include such
 
 (Pub. L. 106–102, title V, §504, Nov. 12, 1999, 113 Stat. 1439; Pub. L. 111–203, title X, §1093(3), July 21, 2010, 124 Stat. 2095.)
 
-#### Amendment of Subsection (a)
+#### References in Text
 
-<i>Pub. L. 111–203, title X, §§1093(3), 1100H, July 21, 2010, 124 Stat. 2095, 2113, provided that, effective on the designated transfer date, subsection (a) of this section is amended:</i>
+The Consumer Financial Protection Act of 2010, referred to in subsec. (a)(1)(A), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955. Subtitle B (§§1021–1029A) of the Act is classified generally to part B (§5511 et seq.) of subchapter V of chapter 53 of Title 12, Banks and Banking. For complete classification of subtitle B to the Code, see Tables.
 
-<i>(1) by striking paragraphs (1) and (2) and inserting the following:</i>
+#### Amendments
 
-#### <i>“(1) Rulemaking</i>
+<b>2010</b>—Subsec. (a)(1), (2). Pub. L. 111–203, §1093(3)(A), added pars. (1) and (2) and struck out former pars. (1) and (2) which related, respectively, to rulemaking by the Federal banking agencies, the National Credit Union Administration, the Secretary of the Treasury, the Securities and Exchange Commission, and the Federal Trade Commission, and consultation and coordination among these agencies and authorities to assure consistency and comparability of regulations.
 
-#### <i>“(A) In general</i>
-
-&emsp;&emsp;<i>“Except as provided in subparagraph (C), the Bureau of Consumer Financial Protection and the Securities and Exchange Commission shall have authority to prescribe such regulations as may be necessary to carry out the purposes of this subchapter with respect to financial institutions and other persons subject to their respective jurisdiction under section 6805 of this title (and notwithstanding subtitle B of the Consumer Financial Protection Act of 2010), except that the Bureau of Consumer Financial Protection shall not have authority to prescribe regulations with respect to the standards under section 6801 of this title.</i>
-
-#### <i>“(B) CFTC</i>
-
-&emsp;&emsp;<i>“The Commodity Futures Trading Commission shall have authority to prescribe such regulations as may be necessary to carry out the purposes of this subchapter with respect to financial institutions and other persons subject to the jurisdiction of the Commodity Futures Trading Commission under section 7b–2 of title 7.</i>
-
-#### <i>“(C) Federal Trade Commission authority</i>
-
-&emsp;&emsp;<i>“Notwithstanding the authority of the Bureau of Consumer Financial Protection under subparagraph (A), the Federal Trade Commission shall have authority to prescribe such regulations as may be necessary to carry out the purposes of this subchapter with respect to any financial institution that is a person described in section 1029(a) of the Consumer Financial Protection Act of 2010.</i>
-
-#### <i>“(D) Rule of construction</i>
-
-&emsp;&emsp;<i>“Nothing in this paragraph shall be construed to alter, affect, or otherwise limit the authority of a State insurance authority to adopt regulations to carry out this subchapter.</i>
-
-#### <i>“(2) Coordination, consistency, and comparability</i>
-
-&emsp;<i>“Each of the agencies authorized under paragraph (1) to prescribe regulations shall consult and coordinate with the other such agencies and, as appropriate, and with representatives of State insurance authorities designated by the National Association of Insurance Commissioners, for the purpose of assuring, to the extent possible, that the regulations prescribed by each such agency are consistent and comparable with the regulations prescribed by the other such agencies.”; and</i>
-
-<i>(2) in paragraph (3), by striking “and shall be issued in final form not later than 6 months after November 12, 1999”.</i>
-
-<i>See Effective Date of 2010 Amendment note below.</i>
+Subsec. (a)(3). Pub. L. 111–203, §1093(3)(B), struck out “and shall be issued in final form not later than 6 months after November 12, 1999” after “title 5”.
 
 #### Effective Date of 2010 Amendment
 
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “and, as appropriate, with”.</i>
 

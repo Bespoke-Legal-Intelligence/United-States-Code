@@ -12,7 +12,7 @@ No immunity.—A foreign state shall not be immune from the jurisdiction of cour
 
 Claim heard.—The court shall hear a claim under this section if—
 
-&emsp;&emsp;(A)(i)(I) the foreign state was designated as a state sponsor of terrorism at the time the act described in paragraph (1) occurred, or was so designated as a result of such act, and, subject to subclause (II), either remainsso designated when the claim is filed under this section or was so designated within the 6-month period before the claim is filed under this section; or
+&emsp;&emsp;(A)(i)(I) the foreign state was designated as a state sponsor of terrorism at the time the act described in paragraph (1) occurred, or was so designated as a result of such act, and, subject to subclause (II), either remains so designated when the claim is filed under this section or was so designated within the 6-month period before the claim is filed under this section; or
 
 &emsp;&emsp;(II) in the case of an action that is refiled under this section by reason of section 1083(c)(2)(A) of the National Defense Authorization Act for Fiscal Year 2008 or is filed under this section by reason of section 1083(c)(3) of that Act, the foreign state was designated as a state sponsor of terrorism when the original action or the related action under section 1605(a)(7) (as in effect before the enactment of this section) or section 589 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1997 (as contained in section 101(c) of division A of Public Law 104–208) was filed;
 
@@ -154,7 +154,7 @@ Defenses waived.—The defenses of res judicata, collateral estoppel, and limita
 
 &emsp;&emsp;“(i) in any action with respect to which a motion is made under subparagraph (A), or
 
-&emsp;&emsp;“(ii) in any action that was originally brought, before the date of the enactment of this Act, under section 1605(a)(7) of title 28, United States Code, or section 589 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1997 (as contained in section 101(c) of division A of Public Law 104–208), and is refiled under section 1605A(c) of title 28, United States Code,
+&emsp;&emsp;“(ii) in any action that was originally brought, before the date of the enactment of this Act, under section 1605(a)(7) of title 28, United States Code, or section 589 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act,1997 (as contained in section 101(c) of division A of Public Law 104–208), and is refiled under section 1605A(c) of title 28, United States Code,
 
 > &emsp;to the extent such defenses are based on the claim in the action.
 
@@ -272,7 +272,7 @@ In general.—Notwithstanding any other provision of law, upon submission of a c
 
 &emsp;&emsp;“(A) Libya, an agency or instrumentality of Libya, and the property of Libya or an agency or instrumentality of Libya, shall not be subject to the exceptions to immunity from jurisdiction, liens, attachment, and execution contained in section 1605A, \[former\] 1605(a)(7), or 1610 (insofar as section 1610 relates to a judgment under such section 1605A or \[former\] 1605(a)(7)) of title 28, United States Code;
 
-&emsp;&emsp;“(B) section 1605A(c) of title 28, United States Code, section 1083(c) of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 342; 28 U.S.C. 1605A note), section 589 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1997 \[Pub. L. 104–208, div. A, title I, §101(c)\] (28 U.S.C. 1605 note), and any other private right of action relating to acts by a state sponsor of terrorism arising under Federal, State, or foreign law shall not apply with respect to claims against Libya, or any of its agencies, instrumentalities, officials, employees, or agents in any action in a Federal or State court; and
+&emsp;&emsp;“(B) section 1605A(c) of title 28, United States Code, section 1083(c) of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 342; 28 U.S.C. 1605A note), section 589 of the Foreign Operations, Export Financing,and Related Programs Appropriations Act, 1997 \[Pub. L. 104–208, div. A, title I, §101(c)\] (28 U.S.C. 1605 note), and any other private right of action relating to acts by a state sponsor of terrorism arising under Federal, State, or foreign law shall not apply with respect to claims against Libya, or any of its agencies, instrumentalities, officials, employees, or agents in any action in a Federal or State court; and
 
 &emsp;&emsp;“(C) any attachment, decree, lien, execution, garnishment, or other judicial process brought against property of Libya, or property of any agency, instrumentality, official, employee, or agent of Libya, in connection with an action that would be precluded by subparagraph (A) or (B) shall be void.
 
@@ -372,7 +372,7 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Waiver of Section 1083 of the National Defense Authorization Act for Fiscal Year 2008
 
-Determination of the President of the United States, No. 2008–9, Jan. 28, 2008, 73 F.R. 6571, provided:
+Determination of President of the United States, No. 2008–9, Jan. 28, 2008, 73 F.R. 6571, provided:
 
 Memorandum for the Secretary of State
 

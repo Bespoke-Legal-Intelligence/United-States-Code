@@ -52,7 +52,7 @@ In a civil action to recover a civil penalty under this section, the Attorney Ge
 
 &emsp;&emsp;(B) take evidence; and
 
-&emsp;&emsp;(C) by subpoena, summon witnesses and require the production of any books, papers,correspondence, memoranda, or other records which the Attorney General deems relevant or material to the inquiry. Such subpoena may require the attendance of witnesses and the production of any such records from any place in the United States at any place in the United States designated by the Attorney General.
+&emsp;&emsp;(C) by subpoena, summon witnesses and require the production of any books, papers, correspondence, memoranda, or other records which the Attorney General deems relevant or material to the inquiry. Such subpoena may require the attendance of witnesses and the production of any such records from any place in the United States at any place in the United States designated by the Attorney General.
 
 #### (2) Procedures applicable
 
@@ -74,11 +74,11 @@ Section was enacted as part of the Financial Institutions Reform, Recovery, and 
 
 #### Amendments
 
-2006—Subsec. (b)(3)(B). Pub. L. 109–173 inserted “and after the merger of such funds, the Deposit Insurance Fund,” after “the Savings Association Insurance Fund,”.
+<b>2006</b>—Subsec. (b)(3)(B). Pub. L. 109–173 inserted “and after the merger of such funds, the Deposit Insurance Fund,” after “the Savings Association Insurance Fund,”.
 
 Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(15)(A). See 1996 Amendment note below.
 
-2001—Subsec. (c). Pub. L. 107–100, §4(b)(2)(D), designated concluding provisions as (d) and inserted heading.
+<b>2001</b>—Subsec. (c). Pub. L. 107–100, §4(b)(2)(D), designated concluding provisions as (d) and inserted heading.
 
 Subsec. (c)(2). Pub. L. 107–100, §4(b)(2)(B)(i), which directed the substitution of “1341” for “1341;”, could not be executed because par. (2) does not contain a semicolon after “1341”.
 
@@ -86,11 +86,11 @@ Subsec. (c)(3). Pub. L. 107–100, §4(b)(2)(A), (B)(ii), (C), added par. (3).
 
 Subsec. (d) to (h). Pub. L. 107–100, §4(b)(1), (2)(D), designated concluding provisions of subsec. (c) as (d), inserted heading, and redesignated former subsecs. (d) to (g) as (e) to (h), respectively.
 
-1996—Subsec. (b)(3)(B). Pub. L. 104–208, §2704(d)(15)(A), which directed substitution of “Deposit Insurance Fund” for “Bank Insurance Fund, the Savings Association Insurance Fund,”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+<b>1996</b>—Subsec. (b)(3)(B). Pub. L. 104–208, §2704(d)(15)(A), which directed substitution of “Deposit Insurance Fund” for “Bank Insurance Fund, the Savings Association Insurance Fund,”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
-1994—Subsec. (c). Pub. L. 103–322 amended directory language of Pub. L. 101–647, §2596(d). See 1990 Amendment note below.
+<b>1994</b>—Subsec. (c). Pub. L. 103–322 amended directory language of Pub. L. 101–647, §2596(d). See 1990 Amendment note below.
 
-1990—Subsec. (c). Pub. L. 101–647, §2596(d)(2), as amended by Pub. L. 103–322, inserted at end a flush sentence “This section shall apply to violations occurring on or after August 10, 1984.”
+<b>1990</b>—Subsec. (c). Pub. L. 101–647, §2596(d)(2), as amended by Pub. L. 103–322, inserted at end a flush sentence “This section shall apply to violations occurring on or after August 10, 1984.”
 
 Subsec. (c)(2). Pub. L. 101–647, §2596(d)(1), as amended by Pub. L. 103–322, which directed insertion of “287, 1001, 1032,” before “1341;”, was executed by making the insertion before “1341 or 1343” to reflect the probable intent of Congress.
 

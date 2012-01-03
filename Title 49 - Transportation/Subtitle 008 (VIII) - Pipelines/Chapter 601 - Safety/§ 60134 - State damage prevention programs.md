@@ -56,5 +56,33 @@ Limitation on Use of Funds.—Funds provided to carry out this section may not b
 
 Damage Prevention Process Defined.—In this section, the term “damage prevention process” means a process that incorporates the principles described in sections 60114(b), 60114(d), and 60114(e).
 
-(Added Pub. L. 109–468, §2(b)(2), Dec. 29, 2006, 120 Stat. 3487.)
+(i)
+
+Authorization of Appropriations.—There is authorized to be appropriated to the Secretary to provide grants under this section $1,500,000 for each of fiscal years 2012 through 2015. Such funds shall remain available until expended.
+
+(Added Pub. L. 109–468, §2(b)(2), Dec. 29, 2006, 120 Stat. 3487; amended Pub. L. 112–90, §§3(b), 32(d), Jan. 3, 2012, 125 Stat. 1906, 1923.)
+
+#### Amendment of Subsection (a)
+
+<i>Pub. L. 112–90, §3(b), (c), Jan. 3, 2012, 125 Stat. 1906, provided that, effective 2 years after Jan. 3, 2012, subsec. (a) is amended as follows:</i>
+
+<i>(1) in paragraph (1) by striking “and” after the semicolon;</i>
+
+<i>(2) in paragraph (2)(B) by striking “(b).” and inserting “(b); and”; and</i>
+
+<i>(3) by adding at the end the following:</i>
+
+&emsp;<i>(3) does not provide any exemptions to municipalities, State agencies, or their contractors from the one-call notification system requirements of the program.</i>
+
+<i>See 2012 Amendment note below.</i>
+
+#### Amendments
+
+<b>2012</b>—Subsec. (a)(3). Pub. L. 112–90, §3(b), added par. (3).
+
+Subsec. (i). Pub. L. 112–90, §32(d), added subsec. (i).
+
+#### Effective Date of 2012 Amendment
+
+Amendment by section 3(b) of Pub. L. 112–90 effective 2 years after Jan. 3, 2012, see section 3(c) of Pub. L. 112–90, set out as a note under section 6103 of this title.
 

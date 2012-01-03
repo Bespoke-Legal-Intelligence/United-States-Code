@@ -1,6 +1,6 @@
 ### §714. Audit of Financial Institutions Examination Council, Federal Reserve Board, Federal reserve banks, Federal Deposit Insurance Corporation, and Office of Comptroller of the Currency
 
-(a) In this section, “agency” means the Financial Institutions Examination Council, the Board of Governors of the Federal Reserve System (in this section referred to as the “Board”), Federal reserve banks, the Federal Deposit Insurance Corporation, the Office of the Comptroller of the Currency, and the Office of Thrift Supervision.
+(a) In this section, “agency” means the Financial Institutions Examination Council, the Board of Governors of the Federal Reserve System (in this section referred to as the “Board”), Federal reserve banks, the Federal Deposit Insurance Corporation, and the Office of the Comptroller of the Currency.
 
 (b) Under regulations of the Comptroller General, the Comptroller General shall audit an agency, but may carry out an onsite examination of an open insured bank or bank holding company only if the appropriate agency has consented in writing. Audits of the Board and Federal reserve banks may not include—
 
@@ -108,10 +108,6 @@ Release of covered transaction information.—The Comptroller General shall rele
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 890; Pub. L. 101–73, title III, §307(c), Aug. 9, 1989, 103 Stat. 353; Pub. L. 104–316, title I, §115(a), Oct. 19, 1996, 110 Stat. 3834; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–22, div. A, title VIII, §801, May 20, 2009, 123 Stat. 1662; Pub. L. 111–203, title III, §378(2), title XI, §1102, July 21, 2010, 124 Stat. 1570, 2115.)
 
-#### Amendment of Subsection (a)
-
-<i>Pub. L. 111–203, title III, §§351, 378(2), July 21, 2010, 124 Stat. 1546, 1570, provided that, ef</i><i>fective on the transfer date, subsection (a) of this section is amended by striking “the Office of the Comptroller of the Currency, and the Office of Thrift Supervision.” and inserting “and the Office of the Comptroller of the Currency.” See Effective Date of 2010 Amendment note below.</i>
-
 Historical and Revision Notes
 
 <i>Revised Section</i>
@@ -162,7 +158,9 @@ Section 11(s) of the Federal Reserve Act, referred to in subsec. (f)(1)(B), (3)(
 
 #### Amendments
 
-<b>2010</b>—Subsec. (d)(2). Pub. L. 111–203, §1102(b)(1), inserted “or any person or entity described in paragraph (3)(A)” after “used by an agency”.
+<b>2010</b>—Subsec. (a). Pub. L. 111–203, §378(2), substituted “and the Office of the Comptroller of the Currency.” for “the Office of the Comptroller of the Currency, and the Office of Thrift Supervision.”
+
+Subsec. (d)(2). Pub. L. 111–203, §1102(b)(1), inserted “or any person or entity described in paragraph (3)(A)” after “used by an agency”.
 
 Subsec. (d)(3). Pub. L. 111–203, §1102(b)(2), inserted “or (f)” after “subsection (e)” wherever appearing.
 
@@ -170,7 +168,7 @@ Subsec. (d)(3)(A)(i). Pub. L. 111–203, §1102(b)(3), inserted “or the Federa
 
 Subsec. (d)(3)(A)(ii). Pub. L. 111–203, §1102(b)(3), (4), inserted “participating in or” after “any entity” and “or the Federal Reserve banks” after “by the Board”.
 
-Subsec. (d)(3)(B). Pub. L. 111–203, §1102(b)(5), inserted at end “The Comptroller General may make and retain copies of books, accounts, and other records provided under subparagraph (A) as the Comptroller General deems appropriate. The Comptroller General shall provide to any person or entity described in subparagraph (A) a current list of officers and employees to whom, with proper identification, records and property may be made available, and who may make notes or copies necessary to carry out a audit or examination under this subsection.”
+Subsec. (d)(3)(B). Pub. L. 111–203, §1102(b)(5), inserted at end “The Comptroller General may make and retain copies of books, accounts, and other records provided under subparagraph (A) as the Comptroller Generaldeems appropriate. The Comptroller General shall provide to any person or entity described in subparagraph (A) a current list of officers and employees to whom, with proper identification, records and property may be made available, and who may make notes or copies necessary to carry out a audit or examination under this subsection.”
 
 Subsec. (f). Pub. L. 111–203, §1102(a), added subsec. (f).
 

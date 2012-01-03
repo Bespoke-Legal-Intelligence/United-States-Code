@@ -106,7 +106,7 @@ The Secretary, to the extent practicable, shall—
 
 #### (2) Waiver
 
-&emsp;The Secretary may waive all or part of the matching requirement described in paragraph\(1) for any fiscal year for an eligible entity described in subparagraph (A) or (B) of section 9832(2) of this title, if the Secretary determines that applying the matching requirement to such eligible entity would result in serious hardship or an inability to carry out the authorized activities described in subsection (g).
+&emsp;The Secretary may waive all or part of the matching requirement described in paragraph (1) for any fiscal year for an eligible entity described in subparagraph (A) or (B) of section9832(2) of this title, if the Secretary determines that applying the matching requirement to such eligible entity would result in serious hardship or an inability to carry out the authorized activities described in subsection (g).
 
 #### (i) Supplement not supplant
 
@@ -157,4 +157,8 @@ There are authorized to be appropriated to carry out this section $75,000,000 fo
 <b>2011</b>—Subsec. (h)(1). Pub. L. 111–358, §1003(b)(1), substituted “50” for “100” and “100” for “200”.
 
 Subsec. (<i>l</i>). Pub. L. 111–358, §1003(b)(2), added subsec. (<i>l</i>) and struck out former subsec. (<i>l</i>). Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this section $75,000,000 for fiscal year 2008, and such sums as may be necessary for each of the 2 succeeding fiscal years.”
+
+#### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 

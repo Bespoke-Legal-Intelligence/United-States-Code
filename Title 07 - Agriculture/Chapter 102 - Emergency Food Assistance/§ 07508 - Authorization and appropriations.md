@@ -28,7 +28,7 @@
 
 (b) The value of the commodities made available under this chapter and the funds of the Corporation used to pay the costs of initial processing, packaging (including forms suitable for home use), and delivering commodities to the States shall not be charged against appropriations made or authorized under this section.
 
-(Pub. L. 98–8, title II, §204, Mar. 24, 1983, 97 Stat. 35; Pub. L. 98–92, §2(6), Sept. 2, 1983, 97 Stat. 610; Pub. L. 99–198, title XV, §1569, Dec. 23, 1985, 99 Stat. 1592; Pub. L. 100–77, title VIII, §813, July 22, 1987, 101 Stat. 537; Pub. L. 100–435, title I, §§103(a)–(c), 105(a), Sept. 19, 1988, 102 Stat. 1647, 1650; Pub. L. 101–624, title XVII, §1772(c), (d), Nov. 28, 1990, 104 Stat. 3808, 3809; Pub. L. 104–127, title IV, §403(a), Apr. 4, 1996, 110 Stat. 1029; Pub. L. 104–193, title VIII, §871(c), (e)(2), Aug. 22, 1996, 110 Stat. 2345; Pub. L. 107–171, title IV, §4204, May 13, 2002, 116 Stat. 330; Pub. L. 110–234, title IV, §§4201(c), 4406(b)(1), May 22, 2008, 122 Stat. 1121, 1141; Pub. L. 110–246, §4(a), title IV, §§4201(c), 4406(b)(1), June 18, 2008, 122 Stat. 1664, 1882, 1902.)
+(Pub. L. 98–8, title II, §204, Mar. 24, 1983, 97 Stat. 35; Pub. L. 98–92, §2(6), Sept. 2, 1983, 97 Stat. 610; Pub. L. 99–198, title XV, §1569, Dec. 23, 1985, 99 Stat. 1592; Pub. L. 100–77, title VIII, §813, July 22, 1987, 101 Stat. 537; Pub. L. 100–435, title I, §§103(a)–(c), 105(a), Sept. 19, 1988, 102 Stat. 1647, 1650; Pub. L. 101–624, title XVII, §1772(c), (d), Nov. 28, 1990, 104 Stat. 3808, 3809; Pub. L. 104–127, title IV, §403(a), Apr. 4, 1996, 110 Stat. 1029; Pub. L. 104–193, title VIII, §871(c), (e)(2), Aug. 22, 1996, 110 Stat. 2345; Pub. L. 107–171, title IV, §4204, May 13, 2002, 116 Stat. 330; Pub. L. 110–234, titleIV, §§4201(c), 4406(b)(1), May 22, 2008, 122 Stat. 1121, 1141; Pub. L. 110–246, §4(a), title IV, §§4201(c), 4406(b)(1), June 18, 2008, 122 Stat. 1664, 1882, 1902.)
 
 #### Codification
 
@@ -36,19 +36,19 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (a)(1). Pub. L. 110–246, §4406(b)(1), in first sentence, substituted “for fiscal year 2008 and each fiscal year thereafter” for “for each of the fiscal years 2003 through 2007”.
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–246, §4406(b)(1), in first sentence, substituted “for fiscal year 2008 and each fiscal year thereafter” for “for each of the fiscal years 2003 through 2007”.
 
 Pub. L. 110–246, §4201(c), in first sentence, substituted “$100,000,000” for “$60,000,000” and inserted “and donated wild game” before period at end.
 
-2002—Subsec. (a)(1). Pub. L. 107–171, in first sentence, substituted “$60,000,000” for “$50,000,000” and “2003 through 2007” for “1991 through 2002”, struck out “administrative” before “costs of the States”, and inserted “storage,” after “processing,” and “, including commodities secured by gleaning (as defined in section 111(a) of the Hunger Prevention Act of 1988 (7 U.S.C. 612c note; Public Law 100–435))” after “sources”.
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–171, in first sentence, substituted “$60,000,000” for “$50,000,000” and “2003 through 2007” for “1991 through 2002”, struck out “administrative” before “costs of the States”, and inserted “storage,” after “processing,” and “, including commodities secured by gleaning (as defined in section 111(a) of the Hunger Prevention Act of 1988 (7 U.S.C. 612c note; Public Law 100–435))” after “sources”.
 
-1996—Subsec. (a). Pub. L. 104–193, §871(e)(2), made technical amendment to reference in original act which appears in text as reference to “this chapter” in second sentence of par. (1), in second sentence of par. (2) immediately before concluding period, and in concluding provisions of par. (4)(A).
+<b>1996</b>—Subsec. (a). Pub. L. 104–193, §871(e)(2), made technical amendment to reference in original act which appears in text as reference to “this chapter” in second sentence of par. (1), in second sentence of par. (2) immediately before concluding period, and in concluding provisions of par. (4)(A).
 
 Subsec. (a)(1). Pub. L. 104–193, §871(c), in first sentence, substituted “to pay for the direct and indirect administrative costs of the States related to the processing, transporting, and distributing to eligible recipient agencies of commodities provided by the Secretary under this chapter and commodities secured from other sources” for “for State and local payments for costs associated with the distribution of commodities by emergency feeding organizations under this chapter” and struck out at end “States may also use funds provided under this paragraph to pay for the costs associated with the distribution of commodities under the program authorized under section 110 of the Hunger Prevention Act of 1988 \[section 110 of Pub. L. 100–435, set out above\], and to pay for the costs associated with the distribution of additional commodities provided pursuant to section 7515 of this title”.
 
 Pub. L. 104–127 substituted “2002” for “1995” in first sentence.
 
-1990—Subsec. (a). Pub. L. 101–624, §1772(c)(1), (2), redesignated subsec. (c) as (a) and struck out former subsec. (a) which read as follows: “There is appropriated for the period ending September 30, 1983, $50,000,000 for the Secretary to make available to the States for storage and distribution costs, of which not less than $10,000,000 shall be made available for paying the actual costs incurred by charitable institutions, food banks, hunger centers, soup kitchens, and similar nonprofit organizations providing nutrition assistance to relieve situations of emergency and distress through the provision of food to needy persons, including low-income and unemployed persons, provided that in no case shall such payments exceed five per centum of the value of commodities distributed by any such agency.”
+<b>1990</b>—Subsec. (a). Pub. L. 101–624, §1772(c)(1), (2), redesignated subsec. (c) as (a) and struck out former subsec. (a) which read as follows: “There is appropriated for the period ending September 30, 1983, $50,000,000 for the Secretary to make available to the States for storage and distribution costs, of which not less than $10,000,000 shall be made available for paying the actual costs incurred by charitable institutions, food banks, hunger centers, soup kitchens, and similar nonprofit organizations providing nutrition assistance to relieve situations of emergency and distress through the provision of food to needy persons, including low-income and unemployed persons, provided that in no case shall such payments exceed five per centum of the value of commodities distributed by any such agency.”
 
 Subsec. (a)(1). Pub. L. 101–624, §1772(c)(3), substituted “1991 through 1995” for “ending September 30, 1986, through September 30, 1990,”.
 
@@ -58,17 +58,17 @@ Subsec. (b). Pub. L. 101–624, §1772(c)(1), (2), redesignated subsec. (d) as (
 
 Subsecs. (c), (d). Pub. L. 101–624, §1772(c)(2), redesignated subsecs. (c) and (d) as (a) and (b), respectively.
 
-1988—Subsec. (c)(1). Pub. L. 100–435, §105(a), inserted at end “States may also use funds provided under this paragraph to pay for the costs associated with the distribution of commodities under the program authorized under section 110 of the Hunger Prevention Act of 1988, and to pay for the costs associated with the distribution of additional commodities provided pursuant to section 7515 of this title.”
+<b>1988</b>—Subsec. (c)(1). Pub. L. 100–435, §105(a), inserted at end “States may also use funds provided under this paragraph to pay for the costs associated with the distribution of commodities under the program authorized under section 110 of the Hunger Prevention Act of 1988, and to pay for the costs associated with the distribution of additional commodities provided pursuant to section 7515 of this title.”
 
 Pub. L. 100–435, §103(a), substituted “through September 30, 1990” for “through September 30, 1988” in first sentence.
 
 Subsec. (c)(2). Pub. L. 100–435, §103(b), (c), in first sentence, substituted “40” for “20” and, in second sentence, inserted “costs of providing information to persons receiving commodities under this chapter concerning the appropriate storage and preparation of such commodities;” after “documentation;”.
 
-1987—Subsec. (c)(1). Pub. L. 100–77 substituted “through September 30, 1988” for “and September 30, 1987” in first sentence.
+<b>1987</b>—Subsec. (c)(1). Pub. L. 100–77 substituted “through September 30, 1988” for “and September 30, 1987” in first sentence.
 
-1985—Subsecs. (c), (d). Pub. L. 99–198 added subsec. (c) and redesignated former subsec. (c) as (d).
+<b>1985</b>—Subsecs. (c), (d). Pub. L. 99–198 added subsec. (c) and redesignated former subsec. (c) as (d).
 
-1983—Subsecs. (b), (c). Pub. L. 98–92 added subsec. (b), designated former last sentence of subsec. (a) as (c), and substituted therein “appropriations made or authorized under this section” for “this appropriation”.
+<b>1983</b>—Subsecs. (b), (c). Pub. L. 98–92 added subsec. (b), designated former last sentence of subsec. (a) as (c), and substituted therein “appropriations made or authorized under this section” for “this appropriation”.
 
 #### Effective Date of 2008 Amendment
 
@@ -78,7 +78,7 @@ Amendment by sections 4201(c) and 4406(b)(1) of Pub. L. 110–246 effective Oct.
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–171 effective Oct. 1, 2002, except as otherwise provided, see section 4405 of Pub. L.107–171, set out as an Effective Date note under section 1161 of Title 2, The Congress.
+Amendment by Pub. L. 107–171 effective Oct. 1, 2002, except as otherwise provided, see section 4405 of Pub. L. 107–171, set out as an Effective Date note under section 1161 of Title 2, The Congress.
 
 #### Effective Date of 1990 Amendment
 

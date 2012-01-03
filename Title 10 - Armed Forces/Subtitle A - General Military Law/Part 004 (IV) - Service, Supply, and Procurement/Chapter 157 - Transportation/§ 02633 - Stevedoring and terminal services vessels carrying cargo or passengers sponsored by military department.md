@@ -6,7 +6,7 @@
 
 (c) The proceeds from furnishing services and facilities under this section shall be paid to the credit of the appropriation or fund out of which the services or facilities were supplied.
 
-(Added Pub. L. 85–44, §1, June 1, 1957, 71 Stat. 45; amended Pub. L. 87–651, title I, §111(a), Sept. 7,1962, 76 Stat. 510; Pub. L. 96–513, title V, §511(87), Dec. 12, 1980, 94 Stat. 2927; Pub. L. 97–258, §3(b)(7), Sept. 13, 1982, 96 Stat. 1063.)
+(Added Pub. L. 85–44, §1, June 1, 1957, 71 Stat. 45; amended Pub. L. 87–651, title I, §111(a), Sept. 7, 1962, 76 Stat. 510; Pub. L. 96–513, title V, §511(87), Dec. 12, 1980, 94 Stat. 2927; Pub. L. 97–258, §3(b)(7), Sept. 13, 1982, 96 Stat. 1063.)
 
 #### Historical and Revision Notes
 

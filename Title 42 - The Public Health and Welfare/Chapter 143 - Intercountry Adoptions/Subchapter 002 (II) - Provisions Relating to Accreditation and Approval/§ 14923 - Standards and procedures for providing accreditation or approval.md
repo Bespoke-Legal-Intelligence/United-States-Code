@@ -70,7 +70,7 @@
 
 #### (3) Renewal of accreditation or approval
 
-&emsp;The standards prescribed under subsection (a) of this section shall provide that the accreditation of an agency or approval of a person under this subchapter shall be for a periodof not less than 3 years and not more than 5 years, and may be renewed on a showing that the agency or person meets the requirements applicable to original accreditation or approval under this subchapter.
+&emsp;The standards prescribed under subsection (a) of this section shall provide that the accreditation of an agency or approval of a person under this subchapter shall be for a period of not less than 3 years and not more than 5 years, and may be renewed on a showing that the agency or person meets the requirements applicable to original accreditation or approval under this subchapter.
 
 #### (c) Temporary registration of community based agencies
 

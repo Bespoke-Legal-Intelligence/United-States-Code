@@ -18,5 +18,5 @@ The several district courts of the United States are vested with jurisdiction sp
 
 #### Amendments
 
-1998—Subsecs. (a), (b)(1). Pub. L. 105–185 substituted “order” for “plan” wherever appearing.
+<b>1998</b>—Subsecs. (a), (b)(1). Pub. L. 105–185 substituted “order” for “plan” wherever appearing.
 

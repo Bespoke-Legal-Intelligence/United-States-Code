@@ -22,7 +22,7 @@ Section 6421(i), referred to in subsec. (a)(2), was repealed by Pub. L. 103–66
 
 #### Prior Provisions
 
-A prior section 34, acts Aug. 16, 1954, ch. 736, 68A Stat. 13; June 25, 1959, Pub. L. 86–69, §3(a)(1), 73 Stat. 139; Sept. 14, 1960, Pub. L. 86–779, §10(e), 74 Stat. 1009; Feb. 26, 1964, Pub. L. 88–272, title II, §201(a), 78 Stat. 31, related to dividends received by individuals, prior to repealby Pub. L. 88–272, title II, §201(b), Feb. 26, 1964, 78 Stat. 31, effective with respect to dividends received after Dec. 31, 1964.
+A prior section 34, acts Aug. 16, 1954, ch. 736, 68A Stat. 13; June 25, 1959, Pub. L. 86–69, §3(a)(1), 73 Stat. 139; Sept. 14, 1960, Pub. L. 86–779, §10(e), 74 Stat. 1009; Feb. 26, 1964, Pub. L. 88–272, title II, §201(a), 78 Stat. 31, related to dividends received by individuals, prior to repeal by Pub. L. 88–272, title II, §201(b), Feb. 26, 1964, 78 Stat. 31, effective with respect to dividends received after Dec. 31, 1964.
 
 #### Amendments
 
@@ -56,7 +56,7 @@ Subsec. (b). Pub. L. 98–369, §911(d)(2)(A), substituted “6427(j)” for “
 
 <b>1983</b>—Pub. L. 97–424, §515(b)(6)(C), substituted “and special fuels” for “, special fuels, and lubricating oil” after “gasoline” in section catchline.
 
-Subsec. (a)(2) to (4). Pub. L. 97–424, §515(b)(6)(A), inserted “and” at end of par. (2), redesignated par. (4) as (3), and struck out former (3) which referred to amounts payable to the taxpayer under section 6424 with respect to lubricating oil used during the taxable year for certain nontaxable purposes (determined without regard to section 6424(f)).
+Subsec. (a)(2) to (4). Pub. L. 97–424, §515(b)(6)(A), inserted “and” at end of par. (2), redesignated par. (4) as (3), and struck out former (3) which referred to amounts payable to the taxpayer under section 6424 with respect to lubricating oil used during the taxableyear for certain nontaxable purposes (determined without regard to section 6424(f)).
 
 Subsec. (b). Pub. L. 97–424, §515(b)(6)(B)(i), substituted “6421 or 6427” for “6421, 6424, or 6427” after “amount payable under”.
 

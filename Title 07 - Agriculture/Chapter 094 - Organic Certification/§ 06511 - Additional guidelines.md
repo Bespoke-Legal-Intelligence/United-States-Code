@@ -36,5 +36,5 @@ Producers who operate a certified organic farm or handling operation under this 
 
 #### Amendments
 
-1991—Subsec. (b). Pub. L. 102–237 substituted “Preharvest” for “Pre-harvest” in heading.
+<b>1991</b>—Subsec. (b). Pub. L. 102–237 substituted “Preharvest” for “Pre-harvest” in heading.
 

@@ -20,7 +20,7 @@ Ombudsman.—
 
 &emsp;&emsp;(i) The Athletes’ Advisory Council shall provide the corporation's executive director with the name of one qualified person to serve as ombudsman for athletes.
 
-&emsp;&emsp;(ii) The corporation's executive director shall immediately transmit the name of such person to the corporation's executive committee.
+&emsp;&emsp;(ii) The corporation's executive director shall immediately transmit the name ofsuch person to the corporation's executive committee.
 
 &emsp;&emsp;(iii) The corporation's executive committee shall hire or not hire such person after fully considering the advice and counsel of the Athletes’ Advisory Council.
 

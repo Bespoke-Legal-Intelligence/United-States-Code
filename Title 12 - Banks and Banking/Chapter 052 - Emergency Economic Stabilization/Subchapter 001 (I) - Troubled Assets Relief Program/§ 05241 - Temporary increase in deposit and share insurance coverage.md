@@ -8,7 +8,7 @@
 
 #### (2) Borrowing limits temporarily lifted
 
-&emsp;During the period beginning on October 3, 2008, and ending on December 31, 2013, theBoard of Directors of the Corporation may request from the Secretary, and the Secretary shall approve, a loan or loans in an amount or amounts necessary to carry out this subsection, without regard to the limitations on such borrowing under section 14(a) and 15(c) of the Federal Deposit Insurance Act (12 U.S.C. 1824(a), 1825(c)).
+&emsp;During the period beginning on October 3, 2008, and ending on December 31, 2013, the Board of Directors of the Corporation may request from the Secretary, and the Secretary shall approve, a loan or loans in an amount or amounts necessary to carry out this subsection, without regard to the limitations on such borrowing under section 14(a) and 15(c) of the Federal Deposit Insurance Act (12 U.S.C. 1824(a), 1825(c)).
 
 #### (b) Federal Credit Union Act; temporary increase in share insurance
 
@@ -34,7 +34,7 @@ The Federal Credit Union Act, referred to in subsec. (c), is act June 26, 1934, 
 
 #### Amendments
 
-2009—Subsec. (a)(1). Pub. L. 111–22, §204(a)(1)(A), substituted “December 31, 2013” for “December 31, 2009”.
+<b>2009</b>—Subsec. (a)(1). Pub. L. 111–22, §204(a)(1)(A), substituted “December 31, 2013” for “December 31, 2009”.
 
 Subsec. (a)(2), (3). Pub. L. 111–22, §204(a)(1)(B)–(D), redesignated par. (3) as (2), substituted “December 31, 2013” for “December 31, 2009”, and struck out former par. (2). Prior to amendment, text read as follows: “The temporary increase in the standard maximum deposit insurance amount made under paragraph (1) shall not be taken into account by the Board of Directors of the Corporation for purposes of setting assessments under section 7(b)(2) of the Federal Deposit Insurance Act (12 U.S.C. 1817(b)(2)).”
 

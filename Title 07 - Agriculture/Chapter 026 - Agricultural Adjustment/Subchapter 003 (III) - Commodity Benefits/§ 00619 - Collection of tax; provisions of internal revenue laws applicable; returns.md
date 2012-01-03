@@ -16,13 +16,13 @@ Provisions of section 600 of the Revenue Act of 1926 and section 626 of the Reve
 
 #### Amendments
 
-1947—Subsec. (c). Act June 30, 1947, repealed subsec. (c) which related to loans by Reconstruction Finance Corporation.
+<b>1947</b>—Subsec. (c). Act June 30, 1947, repealed subsec. (c) which related to loans by Reconstruction Finance Corporation.
 
-1935—Subsec. (b). Act Aug. 24, 1935, §29(a), among other changes, inserted at end of proviso “but postponement of all taxes covered by returns under this chapter for a period not exceeding one hundred and eighty days may be permitted in cases in which the Secretary of the Treasury authorizes such taxes to be paid each month on the amount of the commodity marketed during the next preceding month”.
+<b>1935</b>—Subsec. (b). Act Aug. 24, 1935, §29(a), among other changes, inserted at end of proviso “but postponement of all taxes covered by returns under this chapter for a period not exceeding one hundred and eighty days may be permitted in cases in which the Secretary of the Treasury authorizes such taxes to be paid each month on the amount of the commodity marketed during the next preceding month”.
 
 Subsec. (d). Act Aug. 24, 1935, §29(b), added subsec. (d).
 
-1934—Subsec. (b). Act June 26, 1934, substituted “one hundred and eighty” for “ninety”.
+<b>1934</b>—Subsec. (b). Act June 26, 1934, substituted “one hundred and eighty” for “ninety”.
 
 #### Separability
 

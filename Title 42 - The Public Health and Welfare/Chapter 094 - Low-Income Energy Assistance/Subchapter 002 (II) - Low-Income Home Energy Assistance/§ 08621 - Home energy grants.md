@@ -10,7 +10,7 @@ There are authorized to be appropriated to carry out the provisions of this subc
 
 #### (c) Availability of appropriations
 
-Amounts appropriated under this section for any fiscal year for programs and activities under this subchapter shall be made available for obligation in the succeeding fiscal year.
+Amounts appropriated under this section for any fiscal year for programs and activitiesunder this subchapter shall be made available for obligation in the succeeding fiscal year.
 
 #### (d) Authorization of appropriations for leveraged resources
 
@@ -26,7 +26,7 @@ There is authorized to be appropriated in each fiscal year for payments under th
 
 #### References in Text
 
-Section 251 of the Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (e), is classified to section 901 of Title 2, The Congress. Section 251 was amended by Pub. L. 105–33, title X, §10203(a)(4), Aug. 5, 1997, 111 Stat. 699, and, as so amended, section 251(b)(2)(D) no longer refers to “emergency requirements”. However, “emergency requirements” is referred to elsewhere in section 251.
+Section 251 of the Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (e), is classified to section 901 of Title 2, The Congress. Section 251 was amended by Pub. L. 105–33, title X, §10203(a)(4), Aug. 5, 1997, 111 Stat. 699, and by Pub. L. 112–25, title I, §101, Aug. 2, 2011, 125 Stat. 241. As so amended, section 251(b)(2)(D) no longer refers to “emergency requirements”.
 
 The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (e), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, as amended, which enacted chapter 20 (§900 et seq.) and sections 654 to 656 of Title 2, The Congress, amended sections 602, 622, 631 to 642, and 651 to 653 of Title 2, sections 1104 to 1106, and 1109 of Title 31, Money and Finance, and section 911 of this title, repealed section 661 of Title 2, enacted provisions set out as notes under section 900 of Title 2 and section 911 of this title, and amended provisions set out as a note under section 621 of Title 2. For complete classification of this Act to the Code, see Short Title note set out under section 900 of Title 2 and Tables.
 
@@ -50,7 +50,7 @@ Subsec. (e). Pub. L. 105–285, §302(d), substituted “There is authorized” 
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–252, §302, amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary of Health and Human Services is authorized to make grants, in accordance with the provisions of this subchapter, to States to assist eligible households to meet the costs of home energy.”
 
-Subsec. (b). Pub. L. 103–252, §§303(a)(1), 311(c)(1)(A), substituted “this subchapter (other than section 8626a of this title), $2,000,000,000 for each of fiscal years 1995 through 1999” for “this subchapter (other than section 8626a of this title) $2,307,000,000 for fiscal year 1990,$2,150,000,000 for fiscal year 1991, $2,230,000,000 for fiscal year 1992, and such sums as may be necessary for each of the fiscal years 1993, 1994, and 1995” and struck out second period at end.
+Subsec. (b). Pub. L. 103–252, §§303(a)(1), 311(c)(1)(A), substituted “this subchapter (other than section 8626a of this title), $2,000,000,000 for each of fiscal years 1995 through 1999” for “this subchapter (other than section 8626a of this title) $2,307,000,000 for fiscal year 1990, $2,150,000,000 for fiscal year 1991, $2,230,000,000 for fiscal year 1992, and such sums as may be necessary for each of the fiscal years 1993, 1994, and 1995” and struck out second period at end.
 
 Subsec. (c)(1). Pub. L. 103–252, §311(c)(1)(B), made technical amendment to reference to this subchapter to correct reference to corresponding provision of original act.
 
@@ -66,7 +66,7 @@ Subsec. (d). Pub. L. 103–43, §2011(2), substituted “for each of the fiscal 
 
 <b>1990</b>—Subsec. (b). Pub. L. 101–501, §707(b)(1), which directed the amendment of this section by inserting “(other than section 8626a of this title)” after “subchapter”, was executed to subsec. (b) to reflect the probable intent of Congress.
 
-Pub. L. 101–501, §702, struck out “$2,050,000,000 for fiscal year 1987, $2,132,000,000 for fiscal year 1988, $2,218,000,000 for fiscal year 1989, and” before “$2,307,000,000” and inserted “, $2,150,000,000 for fiscal year 1991, $2,230,000,000 for fiscal year 1992, and such sums as may be necessary for each of the fiscal years 1993 and 1994. The authorizations of appropriations contained in this subsection are subject to the program year provisions of subsection (c) of this section.” after “1990”.
+Pub. L. 101–501, §702, struck out “$2,050,000,000 for fiscal year 1987, $2,132,000,000 for fiscal year 1988, $2,218,000,000 for fiscal year 1989, and” before“$2,307,000,000” and inserted “, $2,150,000,000 for fiscal year 1991, $2,230,000,000 for fiscal year 1992, and such sums as may be necessary for each of the fiscal years 1993 and 1994. The authorizations of appropriations contained in this subsection are subject to the program year provisions of subsection (c) of this section.” after “1990”.
 
 Subsec. (c). Pub. L. 101–501, §701, added subsec. (c).
 

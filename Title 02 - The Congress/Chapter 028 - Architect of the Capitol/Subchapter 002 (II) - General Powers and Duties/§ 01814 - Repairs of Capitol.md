@@ -14,7 +14,7 @@ Provision of R.S. §1816 relating to purchase of furniture or carpets for House 
 
 #### Amendments
 
-1951—Act Oct. 31, 1951, struck out requirement that such improvements, etc., should be paid for by Secretary of the Interior out of appropriations for Capitol extension, and from no other appropriation.
+<b>1951</b>—Act Oct. 31, 1951, struck out requirement that such improvements, etc., should be paid for by Secretary of the Interior out of appropriations for Capitol extension, and from no other appropriation.
 
 #### Change of Name
 

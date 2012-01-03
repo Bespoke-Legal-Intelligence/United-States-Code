@@ -20,13 +20,13 @@ The Under Secretary shall—
 
 #### (1) Principal function
 
-&emsp;The Secretary shall delegate to the Under Secretary those functions and duties under thejurisdiction of the Department that relate to research, education, and economics.
+&emsp;The Secretary shall delegate to the Under Secretary those functions and duties under the jurisdiction of the Department that relate to research, education, and economics.
 
 #### (2) Specific functions and duties
 
 &emsp;The Under Secretary shall—
 
-&emsp;&emsp;(A) identify, address, and prioritize current and emerging agricultural research, education, and extension needs (including funding);
+&emsp;&emsp;(A) identify, address, and prioritize current and emerging agricultural research,education, and extension needs (including funding);
 
 &emsp;&emsp;(B) ensure that agricultural research, education, and extension programs are effectively coordinated and integrated—
 
@@ -126,7 +126,7 @@ The Under Secretary shall—
 
 #### (A) Funding
 
-&emsp;&emsp;Notwithstanding any Act making appropriations for the Department of Agriculture, whether enacted before, on, or after the date of enactment of this paragraph unless the appropriation Act specifically refers to this subsection and specifically includes the administration of funds under this section, the Secretary may transfer funds made available to an agency in the research, education, and economics mission area to fund the costs of Division personnel.
+&emsp;&emsp;Notwithstanding any Act making appropriations for the Department of Agriculture,whether enacted before, on, or after the date of enactment of this paragraph unless the appropriation Act specifically refers to this subsection and specifically includes the administration of funds under this section, the Secretary may transfer funds made available to an agency in the research, education, and economics mission area to fund the costs of Division personnel.
 
 #### (B) Limitation
 
@@ -200,7 +200,7 @@ The Under Secretary shall—
 
 #### (D) Competitive program
 
-&emsp;&emsp;The term “competitive program” means each of the following agricultural research, extension, education, and related programs for which the Secretary has administrative or other authority as of the day before the date of enactment of the Food, Conservation, and Energy Act of 2008:
+&emsp;&emsp;The term “competitive program” means each of the following agricultural research, extension, education, and related programs for which the Secretary has administrative or other authority as of the day before thedate of enactment of the Food, Conservation, and Energy Act of 2008:
 
 &emsp;&emsp;&emsp;(i) The Agriculture and Food Research Initiative established under section 450i(b) of this title.
 
@@ -288,11 +288,11 @@ The Under Secretary shall—
 
 &emsp;&emsp;&emsp;&emsp;(I) research of the Institute is relevant to agriculture in the United States and otherwise serves the national interest; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the research of the Institute supplements and enhances, and does notsupplant, research conducted or funded by other Federal agencies.
+&emsp;&emsp;&emsp;&emsp;(II) the research of the Institute supplements and enhances, and does not supplant, research conducted or funded by other Federal agencies.
 
 #### (D) Compensation
 
-&emsp;&emsp;The Director shall receive basic pay at a rate not to exceed the maximum amount of compensation payable to a member of the Senior Executive Service under subsection (b) of section 5382 of title 5, except that the certification requirement in that subsection shall not apply to the compensation of the Director.
+&emsp;&emsp;The Director shall receive basic pay at a rate not to exceed the maximum amount of compensation payable to a member of theSenior Executive Service under subsection (b) of section 5382 of title 5, except that the certification requirement in that subsection shall not apply to the compensation of the Director.
 
 #### (E) Authority and responsibilities of Director
 
@@ -376,9 +376,9 @@ Section is comprised of section 251 of Pub. L. 103–354. Subsec. (g), formerly 
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–246, §7511(a)(1), inserted “(referred to in this section as the ‘Under Secretary’)” before period at end.
+<b>2008</b>—Subsec. (a). Pub. L. 110–246, §7511(a)(1), inserted “(referred to in this section as the ‘Under Secretary’)” before period at end.
 
-Subsecs. (b) to (f). Pub. L. 110–246, §7511(a)(2), (4), added subsecs. (b) to (f) and struck out former subsecs. (b) to (d) which related to Senate confirmation, functions of the Under Secretary, and establishment and functions of the Cooperative State Research, Education, and Extension Service.
+Subsecs. (b) to (f). Pub. L. 110–246, §7511(a)(2), (4), added subsecs. (b) to (f) and struck out former subsecs. (b) to (d) which related to Senate confirmation, functions of the Under Secretary, and establishment andfunctions of the Cooperative State Research, Education, and Extension Service.
 
 #### Effective Date of 2008 Amendment
 

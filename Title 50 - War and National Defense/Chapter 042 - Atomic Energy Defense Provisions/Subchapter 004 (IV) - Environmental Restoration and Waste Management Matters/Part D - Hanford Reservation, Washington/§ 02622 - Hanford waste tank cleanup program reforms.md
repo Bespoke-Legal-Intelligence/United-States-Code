@@ -8,7 +8,7 @@ The Secretary of Energy shall establish an office at the Hanford Reservation, Ri
 
 (1) The Office shall be headed by a senior official of the Department of Energy, who shall report to the Assistant Secretary of Energy for Environmental Management.
 
-(2) The head of the Office shall be responsible for managing, consistent with the policy direction established by the Department, all aspects of the River Protection Project, Richland, Washington.
+(2) The head of the Office shall be responsible for managingall aspects of the River Protection Project, Richland, Washington, including Hanford Tank Farm operations and the Waste Treatment Plant.
 
 (3)(A) The Assistant Secretary of Energy for Environmental Management shall delegate in writing responsibility for the management of the River Protection Project, Richland, Washington, to the head of the Office.
 
@@ -20,33 +20,23 @@ The Secretary of Energy shall establish an office at the Hanford Reservation, Ri
 
 The Secretary shall provide the head of the Office with the resources and personnel necessary to carry out the responsibilities specified in subsection (b)(2).
 
-#### (d) Report
+#### (d) Notification
 
-The Assistant Secretary of Energy for Environmental Management shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, not later than November 29, 2000, a copy of the delegation of authority required by subsection (b)(3).
+The Assistant Secretary of Energy for Environmental Management shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives written notification detailing any changes in the roles, responsibilities, and reporting relationships that involve the Office.
 
-#### (e) Report
+#### (e) Termination
 
-Not later than 2 years after the commencement of operations of the Office, the Secretary shall submit to the committees referred to in subsection (d) a report describing—
+The Office shall terminate on September 30, 2019. The Office may be extended beyond that date if the Assistant Secretary of Energy for Environmental Management determines in writing that termination would disrupt effective management of the Hanford Tank Farm operations.
 
-&emsp;(1) any progress in or resulting from the utilization of the Tank Waste Remediation System; and
-
-&emsp;(2) any improvements in the management structure of the Department at Hanford with respect to the Tank Waste Remediation System as a result of the Office.
-
-#### (f) Termination
-
-(1) The Office shall terminate on the later to occur of the following dates:
-
-&emsp;(A) September 30, 2010.
-
-&emsp;(B) The date on which the Assistant Secretary of Energy for Environmental Management determines, in consultation with the head of the Office, that continuation of the Office is no longer necessary to carry out the responsibilities of the Department of Energy under the Tri-Party Agreement.
-
-(2) The Assistant Secretary shall notify, in writing, the committees referred to in subsection (d) of a determination under paragraph (1).
-
-(3) In this subsection, the term “Tri-Party Agreement” means the Hanford Federal Facility Agreement and Consent Order entered into among the Department of Energy, the Environmental Protection Agency, and the State of Washington Department of Ecology.
-
-(Pub. L. 107–314, div. D, title XLIV, §4442, formerly Pub. L. 105–261, div. C, title XXXI, §3139, Oct. 17, 1998, 112 Stat. 2250; Pub. L. 106–398, §1 \[div. C, title XXXI, §3141(b)–(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–463; Pub. L. 107–107, div. C, title XXXI, §3135, Dec. 28, 2001, 115 Stat. 1368; renumbered Pub. L. 107–314, div. D, title XLIV, §4442, and amended Pub. L. 108–136, div. C, title XXXI, §3141(g)(17), Nov. 24, 2003, 117 Stat. 1767.)
+(Pub. L. 107–314, div. D, title XLIV, §4442, formerly Pub. L. 105–261, div. C, title XXXI, §3139, Oct. 17, 1998, 112 Stat. 2250; Pub. L. 106–398, §1 \[div. C, title XXXI, §3141(b)–(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–463; Pub. L. 107–107, div. C, title XXXI, §3135, Dec. 28, 2001, 115 Stat. 1368; renumbered Pub. L. 107–314, div. D, title XLIV, §4442, and amended Pub. L. 108–136, div. C, title XXXI, §3141(g)(17), Nov. 24, 2003, 117 Stat. 1767; Pub. L. 112–81, div. C, title XXXI, §3113, Dec. 31, 2011, 125 Stat. 1709.)
 
 #### Amendments
+
+<b>2011</b>—Subsec. (b)(2). Pub. L. 112–81, §3113(1), substituted “all aspects of the River Protection Project, Richland, Washington, including Hanford Tank Farm operations and the Waste Treatment Plant” for “, consistent with the policy direction established by the Department, all aspects of the River Protection Project, Richland, Washington”.
+
+Subsec. (d). Pub. L. 112–81, §3113(2), amended subsec. (d) generally. Prior to amendment, text read as follows: “The Assistant Secretary of Energy for Environmental Management shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, not later than November 29, 2000, a copy of the delegation of authority required by subsection (b)(3).”
+
+Subsecs. (e), (f). Pub. L. 112–81, §3113(3), added subsec. (e) and struck out former subsecs. (e) and (f), which, respectively, required the Secretary to submit a progress report not later than 2 years after the commencement of Office operations and provided for termination of the Office.
 
 <b>2003</b>—Subsec. (d). Pub. L. 108–136, §3141(g)(17)(D), substituted “November 29, 2000,” for “30 days after the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001,”.
 

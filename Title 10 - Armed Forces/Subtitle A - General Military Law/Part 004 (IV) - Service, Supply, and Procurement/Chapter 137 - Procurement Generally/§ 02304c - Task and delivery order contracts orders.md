@@ -2,7 +2,7 @@
 
 (a)
 
-Issuance of Orders.—The following actions are not required for issuance of a task or delivery order under a task or delivery order contract:
+Issuance of Orders.—The following actions are not required for issuance of a task ordelivery order under a task or delivery order contract:
 
 &emsp;(1) A separate notice for such order under section 1708 of title 41 or section 8(e) of the Small Business Act (15 U.S.C. 637(e)).
 

@@ -58,7 +58,7 @@ Each annual report required by subsection (a) of this section shall include an a
 
 Subsections (b) and (e) of this section do not require the inclusion in any report submitted pursuant to those subsections of any information which would not be required to be made available to the public pursuant to section 552 of title 5 (relating to freedom of information).
 
-(Pub. L. 87–195, pt. I, §240A, as added Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 818; amended Pub. L. 93–390, §2(7), Aug. 27, 1974, 88 Stat. 768; Pub. L. 95–268, §10, Apr. 24, 1978, 92 Stat. 216; Pub. L. 97–65, §9, formerly §9(a), Oct. 16, 1981, 95 Stat. 1024, renumbered §9, Pub. L. 99–204, §17(c)(1), Dec. 23, 1985, 99 Stat. 1677; Pub. L. 99–204, §14(a), Dec. 23, 1985, 99 Stat. 1674; Pub. L. 100–461, title V, §555, Oct. 1, 1988, 102 Stat. 2268–36; Pub. L. 102–549, title I, §108, Oct. 28, 1992, 106 Stat. 3654.)
+(Pub. L. 87–195, pt. I, §240A, as added Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 818;amended Pub. L. 93–390, §2(7), Aug. 27, 1974, 88 Stat. 768; Pub. L. 95–268, §10, Apr. 24, 1978, 92 Stat. 216; Pub. L. 97–65, §9, formerly §9(a), Oct. 16, 1981, 95 Stat. 1024, renumbered §9, Pub. L. 99–204, §17(c)(1), Dec. 23, 1985, 99 Stat. 1677; Pub. L. 99–204, §14(a), Dec. 23, 1985, 99 Stat. 1674; Pub. L. 100–461, title V, §555, Oct. 1, 1988, 102 Stat. 2268–36; Pub. L. 102–549, title I, §108, Oct. 28, 1992, 106 Stat. 3654.)
 
 #### Codification
 
@@ -94,5 +94,5 @@ Subsec. (b). Pub. L. 95–268 substituted provisions relating to report to be su
 
 #### Report to Congress Not Later Than June 30, 1982, on Methods for Estimating the Impact on Investments if Insurance or Other Support is Not Provided
 
-Section 9(b) of Pub. L. 97–65, which provided for a report to Congress by the Overseas Private InvestmentCorporation on the effect on investments of lack of insurance, was repealed by Pub. L. 99–204, §17(c)(2), Dec. 23, 1985, 99 Stat. 1677.
+Section 9(b) of Pub. L. 97–65, which provided for a report to Congress by the Overseas Private Investment Corporation on the effect on investments of lack of insurance, was repealed by Pub. L. 99–204, §17(c)(2), Dec. 23, 1985, 99 Stat. 1677.
 

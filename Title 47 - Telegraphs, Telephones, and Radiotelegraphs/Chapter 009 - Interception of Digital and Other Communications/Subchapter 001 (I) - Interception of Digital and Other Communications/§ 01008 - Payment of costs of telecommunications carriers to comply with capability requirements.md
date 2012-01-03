@@ -66,7 +66,7 @@ If a carrier has requested payment in accordance with procedures promulgated pur
 
 &emsp;&emsp;&emsp;(iii) the direct costs of deploying or installing such capabilities or capacities;
 
-&emsp;&emsp;(B) in the case of any modification that may be used for any purpose other than lawfully authorized electronic surveillance by a law enforcement agency of a government, permit recovery of only the incremental cost of making the modification suitable for such law enforcement purposes; and
+&emsp;&emsp;(B) in the case of any modification that may be used for any purpose other than lawfully authorized electronic surveillance by a law enforcement agency of a government,permit recovery of only the incremental cost of making the modification suitable for such law enforcement purposes; and
 
 &emsp;&emsp;(C) maintain the confidentiality of trade secrets.
 

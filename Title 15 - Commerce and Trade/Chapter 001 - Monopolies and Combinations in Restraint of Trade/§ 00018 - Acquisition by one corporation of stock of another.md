@@ -40,7 +40,7 @@ Amendment by Pub. L. 98–443 effective Jan. 1, 1985, see section 9(v) of Pub. L
 
 #### Effective Date of 1980 Amendment
 
-Section 6(b) of Pub. L. 96–349 provided that: “The amendments made by this section \[amending this section\] shall apply only with respect to acquisitions made after the date of the enactment of this Act \[Sept. 12, 1980\].”
+Pub. L. 96–349, §6(b), Sept. 12, 1980, 94 Stat. 1158, provided that: “The amendments made by this section \[amending this section\] shall apply only with respect to acquisitions made after the date of the enactment of this Act \[Sept. 12, 1980\].”
 
 #### Transfer of Functions
 

@@ -18,7 +18,7 @@ Subject to section 2082(d) of this title and subsection (b) of this section, a p
 
 #### (1) In general
 
-&emsp;Whenever a former participant becomes entitled to receive payment of the lump-sum credit under subsection (a) of this section, such lump-sum credit shall be paid to the former participant and to any former spouse or former wife or husband of the former participant in accordance with paragraphs (2) through (4). The former participant's lump-sum credit shall be reduced by the amount of the lump-sum credit payable to any former spouse or former wife or husband.
+&emsp;Whenever a former participant becomes entitled to receive payment of the lump-sumcredit under subsection (a) of this section, such lump-sum credit shall be paid to the former participant and to any former spouse or former wife or husband of the former participant in accordance with paragraphs (2) through (4). The former participant's lump-sum credit shall be reduced by the amount of the lump-sum credit payable to any former spouse or former wife or husband.
 
 #### (2) Pro rata share for former spouse
 
@@ -74,7 +74,7 @@ A lump-sum payment authorized by subsection (d) or (e) of this section 2121(d) 
 
 #### (e) Termination of all annuity rights
 
-If all annuity rights under this subchapter based on the service of a deceased participant orannuitant terminate before the total annuity paid equals the lump-sum credit, the difference shall be paid in accordance with subsection (c) of this section.
+If all annuity rights under this subchapter based on the service of a deceased participant or annuitant terminate before the total annuity paid equals the lump-sum credit, the difference shall be paid in accordance with subsection (c) of this section.
 
 #### (f) Payment of accrued and unpaid annuity when retired participant dies
 

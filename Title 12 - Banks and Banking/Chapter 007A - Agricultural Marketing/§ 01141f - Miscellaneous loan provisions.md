@@ -16,15 +16,15 @@ Section was formerly classified to section 528 of Title 7, Agriculture.
 
 #### Amendments
 
-1966—Subsec. (a). Pub. L. 89–525 repealed subsec. (a) which provided that loans to cooperative associations made by any bank for cooperatives shall bear such rates of interest as the board of directors of the bank shall from time to time determine with the approval of the Farm Credit Administration, but in no case shall the rate of interest exceed 6 per centum per annum on the unpaid principal of a loan. See section 2122 of this title.
+<b>1966</b>—Subsec. (a). Pub. L. 89–525 repealed subsec. (a) which provided that loans to cooperative associations made by any bank for cooperatives shall bear such rates of interest as the board of directors of the bank shall from time to time determine with the approval of the Farm Credit Administration, but in no case shall the rate of interest exceed 6 per centum per annum on the unpaid principal of a loan. See section 2122 of this title.
 
-1955—Subsec. (a). Act Aug. 11, 1955, provided that boards of directors for banks would prescribe interest rates on loans in place of requirements relating interest rates on loans made by banks for cooperatives to interest rates charged by Federal intermediate credit banks and Federal land banks.
+<b>1955</b>—Subsec. (a). Act Aug. 11, 1955, provided that boards of directors for banks would prescribe interest rates on loans in place of requirements relating interest rates on loans made by banks for cooperatives to interest rates charged by Federal intermediate credit banks and Federal land banks.
 
-1937—Subsec. (a). Act Aug. 19, 1937, substituted “farm credit district” for “land bank district”.
+<b>1937</b>—Subsec. (a). Act Aug. 19, 1937, substituted “farm credit district” for “land bank district”.
 
-1935—Subsec. (a). Act June 3, 1935, among other changes, inserted proviso.
+<b>1935</b>—Subsec. (a). Act June 3, 1935, among other changes, inserted proviso.
 
-1933—Subsec. (a). Act June 16, 1933, among other changes, modified interest rates.
+<b>1933</b>—Subsec. (a). Act June 16, 1933, among other changes, modified interest rates.
 
 #### Change of Name
 

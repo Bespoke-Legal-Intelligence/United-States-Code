@@ -54,7 +54,7 @@ Subsec. (c). Pub. L. 100–418 amended subsec. (c) generally. Prior to amendment
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–376 substituted “$100,000” for “$10,000”.
 
-<b>1977</b>—Subsec. (a). Pub. L. 95–213, §103(b)(1), inserted “(other than section 78dd–1 of this title)” after “Any person who willfully violates any provision of this chapter”.
+<b>1977</b>—Subsec. (a). Pub. L. 95–213, §103(b)(1), inserted “(other than section 78dd–1 of this title)” after “Anyperson who willfully violates any provision of this chapter”.
 
 Subsec. (c). Pub. L. 95–213, §103(b)(2), added subsec. (c).
 

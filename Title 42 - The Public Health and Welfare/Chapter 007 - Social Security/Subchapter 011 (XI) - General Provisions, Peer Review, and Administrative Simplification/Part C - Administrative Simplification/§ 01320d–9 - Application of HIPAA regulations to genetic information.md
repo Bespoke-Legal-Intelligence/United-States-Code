@@ -54,7 +54,7 @@ Section 264 of the Health Insurance Portability and Accountability Act of 1996, 
 
 #### Effective Date
 
-Pub. L. 110–233, title I, §105(b)(2), May 21, 2008, 122 Stat. 905, provided that: “The amendment made by subsection (a) \[enacting this section\] shall take effect onthe date that is 1 year after the date of the enactment of this Act \[May 21, 2008\].”
+Pub. L. 110–233, title I, §105(b)(2), May 21, 2008, 122 Stat. 905, provided that: “The amendment made by subsection (a) \[enacting this section\] shall take effect on the date that is 1 year after the date of the enactment of this Act \[May 21, 2008\].”
 
 #### Regulations
 

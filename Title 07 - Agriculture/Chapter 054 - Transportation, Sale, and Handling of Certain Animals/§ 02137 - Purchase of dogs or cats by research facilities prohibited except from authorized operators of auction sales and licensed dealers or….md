@@ -6,7 +6,7 @@ It shall be unlawful for any research facility to purchase any dog or cat from a
 
 #### Amendments
 
-1970—Pub. L. 91–579 added licensed exhibitors and operators of auction sales subject to section 2142 of this title to the enumeration of persons from whom research facilities may purchase dogs or cats.
+<b>1970</b>—Pub. L. 91–579 added licensed exhibitors and operators of auction sales subject to section 2142 of this title to the enumeration of persons from whom research facilities may purchase dogs or cats.
 
 #### Effective Date of 1970 Amendment
 

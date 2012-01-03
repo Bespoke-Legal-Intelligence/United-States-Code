@@ -6,7 +6,7 @@ To effectuate the declared policy of this chapter, the Secretary shall, subject 
 
 #### Amendments
 
-1998—Pub. L. 105–185 inserted “and regulations” after “orders”.
+<b>1998</b>—Pub. L. 105–185 inserted “and regulations” after “orders”.
 
 #### Conforming Amendment to Order
 

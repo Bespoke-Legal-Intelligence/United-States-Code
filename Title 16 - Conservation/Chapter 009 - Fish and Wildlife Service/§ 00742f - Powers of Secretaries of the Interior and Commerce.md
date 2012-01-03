@@ -94,7 +94,7 @@ Senior volunteer corps.—The Secretary of the Interior may establish a Senior V
 
 #### (ii) Use of Federal funds
 
-&emsp;&emsp;&emsp;Any Federal funds used to fund a project or program under a cooperative agreement may be used only for expenses directly related to the project or program and maynot be used for operation or administration of any non-Federal entity.
+&emsp;&emsp;&emsp;Any Federal funds used to fund a project or program under a cooperative agreement may be used only for expenses directly related to the project or program and may not be used for operation or administration of any non-Federal entity.
 
 #### (iii) Ownership of facilities
 
@@ -124,7 +124,7 @@ Senior volunteer corps.—The Secretary of the Interior may establish a Senior V
 
 Not later than 1 year after January 4, 2011, and every 5 years thereafter, the Secretary of the Interior shall submit a report to the Committee on Natural Resources of the House of Representatives and the Committee on Environment and Public Works of the Senate—
 
-&emsp;(1) evaluating the accomplishments of the volunteer program, the community partnerships program, and the refuge education programs authorized under this section, and of the National Volunteer Coordination Program and volunteer coordination strategy under section 742f–1(a) of this title; and
+&emsp;(1) evaluating the accomplishments of the volunteer program, the community partnerships program, and the refuge education programs authorized under this section, and of the National Volunteer Coordination Program and volunteer coordination strategy under section 742f–1 of this title; and
 
 &emsp;(2) making recommendations to improve the effectiveness of such programs, including regarding implementing subparagraphs (A), (B), and (C) of paragraph (1) of subsection (e).
 

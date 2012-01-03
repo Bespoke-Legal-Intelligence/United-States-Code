@@ -2,11 +2,11 @@
 
 #### (a) Application; contents
 
-(1) Any alien lawfully admitted for permanent residence, or (2) any alien lawfully admitted to the United States pursuant to clause 6 of section 3 of the Immigration Act of 1924, between July 1, 1924, and July 5, 1932, both dates inclusive, who intends to depart temporarily from the United States may make application to the Attorney General for a permit to reenter the United States, stating the length of his intended absence or absences, and the reasons therefor. Such applications shall be made under oath, and shall be in such form, contain such information, and be accompanied by such photographs of the applicant as may be by regulations prescribed.
+(1) Any alien lawfully admitted for permanent residence, or (2) any alien lawfully admitted to the United States pursuant to clause 6 of section 3 of the Immigration Act of 1924, between July 1, 1924, and July 5, 1932, both dates inclusive,who intends to depart temporarily from the United States may make application to the Attorney General for a permit to reenter the United States, stating the length of his intended absence or absences, and the reasons therefor. Such applications shall be made under oath, and shall be in such form, contain such information, and be accompanied by such photographs of the applicant as may be by regulations prescribed.
 
 #### (b) Issuance of permit; nonrenewability
 
-If the Attorney General finds (1) that the applicant under subsection (a)(1) of this section has been lawfully admitted to the United States for permanent residence, or that the applicantunder subsection (a)(2) of this section has since admission maintained the status required of him at the time of his admission and such applicant desires to visit abroad and to return to the United States to resume the status existing at the time of his departure for such visit, (2) that the application is made in good faith, and (3) that the alien's proposed departure from the United States would not be contrary to the interests of the United States, the Attorney General may, in his discretion, issue the permit, which shall be valid for not more than two years from the date of issuance and shall not be renewable. The permit shall be in such form as shall be by regulations prescribed for the complete identification of the alien.
+If the Attorney General finds (1) that the applicant under subsection (a)(1) of this section has been lawfully admitted to the United States for permanent residence, or that the applicant under subsection (a)(2) of this section has since admission maintained the status required of him at the time of his admission and such applicant desires to visit abroad and to return to the United States to resume the status existing at the time of his departure for such visit, (2) that the application is made in good faith, and (3) that the alien's proposed departure from the United States would not be contrary to the interests of the United States, the Attorney General may, in his discretion, issue the permit, which shall be valid for not more than two years from the date of issuance and shall not be renewable. The permit shall be in such form as shall be by regulations prescribed for the complete identification of the alien.
 
 #### (c) Multiple reentries
 
@@ -30,7 +30,7 @@ This chapter, referred to in subsec. (e), was in the original, “this Act”, m
 
 #### Amendments
 
-1981—Subsec. (b). Pub. L. 97–116 substituted “two years from the date of issuance and shall not be renewable” for “one year from the date of issuance: <i>Provided</i>, That the Attorney General may in his discretion extend the validity of the permit for a period or periods not exceeding one year in the aggregate”.
+<b>1981</b>—Subsec. (b). Pub. L. 97–116 substituted “two years from the date of issuance and shall not be renewable” for “one year from the date of issuance: <i>Provided</i>, That the Attorney General may in his discretion extend the validity of the permit for a period or periods not exceeding one year in the aggregate”.
 
 #### Effective Date of 1981 Amendment
 

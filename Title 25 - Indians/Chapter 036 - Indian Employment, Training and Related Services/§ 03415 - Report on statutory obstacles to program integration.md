@@ -2,7 +2,7 @@
 
 #### (a) Preliminary report
 
-Not later than two years after October 23, 1992, the Secretary shall submit a preliminary reportto the Committee on Indian Affairs of the Senate and the Committee on Natural Resources of the House of Representatives on the status of the implementation of the demonstration program authorized under this chapter.
+Not later than two years after October 23, 1992, the Secretary shall submit a preliminary report to the Committee on Indian Affairs of the Senate and the Committee on Natural Resources of the House of Representatives on the status of the implementation of the demonstration program authorized under this chapter.
 
 #### (b) Final report
 
@@ -13,4 +13,8 @@ Not later than five years after October 23, 1992, the Secretary shall submit a r
 #### Amendments
 
 <b>1994</b>—Subsecs. (a), (b). Pub. L. 103–437 substituted “Committee on Indian” for “Select Committee on Indian” and “Natural Resources” for “Interior and Insular Affairs”.
+
+#### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 

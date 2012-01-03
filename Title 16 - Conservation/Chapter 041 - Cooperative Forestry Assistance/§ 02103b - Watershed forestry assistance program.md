@@ -80,7 +80,7 @@ The Secretary, acting through the Chief of the Forest Service and (where appropr
 
 #### (ii) Other Federal funds
 
-&emsp;&emsp;&emsp;The percentage of the cost of a project described in clause (i) that is not covered by funds made available under this subsection may be paid using other Federal funding sources, except that the total Federal share of the costs of the project may not exceed 90 percent.
+&emsp;&emsp;&emsp;The percentage of the cost of a project described in clause (i) that is not coveredby funds made available under this subsection may be paid using other Federal funding sources, except that the total Federal share of the costs of the project may not exceed 90 percent.
 
 #### (B) Form
 
@@ -88,7 +88,7 @@ The Secretary, acting through the Chief of the Forest Service and (where appropr
 
 #### (5) Prioritization
 
-&emsp;The State Forest Stewardship Coordinating Committee for a State, or equivalent Statecommittee, shall prioritize watersheds in that State to target watershed forestry projects funded under this subsection.
+&emsp;The State Forest Stewardship Coordinating Committee for a State, or equivalent State committee, shall prioritize watersheds in that State to target watershed forestry projects funded under this subsection.
 
 #### (6) Watershed forester
 

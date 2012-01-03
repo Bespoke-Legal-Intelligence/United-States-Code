@@ -2,7 +2,7 @@
 
 As used in this subchapter—
 
-&emsp;(1) the term “agency” means any executive department, military department, Government corporation, Government controlled corporation, or other establishment in the executive branch of the Government (including theExecutive Office of the President), or any independent regulatory agency, but does not include—
+&emsp;(1) the term “agency” means any executive department, military department, Government corporation, Government controlled corporation, or other establishment in the executive branch of the Government (including the Executive Office of the President), or any independent regulatory agency, but does not include—
 
 &emsp;&emsp;(A) the Government Accountability Office;
 
@@ -38,7 +38,7 @@ As used in this subchapter—
 
 &emsp;(4) the term “Director” means the Director of the Office of Management and Budget;
 
-&emsp;(5) the term “independent regulatory agency” means the Board of Governors of the Federal Reserve System, the Commodity Futures Trading Commission, the Consumer Product Safety Commission, the Federal Communications Commission, the Federal Deposit Insurance Corporation, the Federal Energy Regulatory Commission, the Federal Housing Finance Agency, the Federal Maritime Commission, the Federal Trade Commission, the Interstate Commerce Commission, the Mine Enforcement Safety and Health Review Commission, the National Labor Relations Board, the Nuclear Regulatory Commission, the Occupational Safety and Health Review Commission, the Postal Regulatory Commission, the Securities and Exchange Commission, Office of the Comptroller of the Currency, and any other similar agency designated by statute as a Federal independent regulatory agency or commission;
+&emsp;(5) the term “independent regulatory agency” means the Board of Governors of the Federal Reserve System, the Commodity Futures Trading Commission, the Consumer Product Safety Commission, the Federal Communications Commission, the Federal Deposit Insurance Corporation, the Federal Energy Regulatory Commission, the Federal Housing Finance Agency, the Federal Maritime Commission, the Federal Trade Commission, the Interstate Commerce Commission, the Mine Enforcement Safety and Health Review Commission, the National Labor Relations Board, the Nuclear Regulatory Commission, the Occupational Safety and Health Review Commission, the Postal Regulatory Commission, the Securities and Exchange Commission, the Bureau of Consumer Financial Protection, the Office of Financial Research, Office of the Comptroller of the Currency, and any other similar agency designated by statute as a Federal independent regulatory agency or commission;
 
 &emsp;(6) the term “information resources” means information and related resources, such as personnel, equipment, funds, and information technology;
 
@@ -68,12 +68,6 @@ As used in this subchapter—
 
 (Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 164; amended Pub. L. 104–106, div. E, title LVI, §5605(a), Feb. 10, 1996, 110 Stat. 700; Pub. L. 105–85, div. A, title X, §1073(h)(5)(A), Nov. 18, 1997, 111 Stat. 1907; Pub. L. 106–398, §1 \[\[div. A\], title X, §1064(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–275; Pub. L. 107–217, §3(<i>l</i>)(4), Aug. 21, 2002, 116 Stat. 1301; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–435, title VI, §604(e), Dec. 20, 2006, 120 Stat. 3242; Pub. L. 110–289, div. A, title II, §1216(e), July 30, 2008, 122 Stat. 2792; Pub. L. 111–203, title III, §315, title X, §1100D(a), July 21, 2010, 124 Stat. 1524, 2111.)
 
-#### Amendment of Paragraph (5)
-
-<i>Pub. L. 111–203, title X, §§1100D(a), 1100H, July 21, 2010, 124 Stat. 2111, 2113, provided that,</i><i>effective on the designated transfer date, section 2(5) of the Paperwork Reduction Act (44 U.S.C. 3502(5)) is amended by inserting “the Bureau of Consumer Financial Protection, the Office of Financial Research,” after “the Securities and Exchange Commission,”.</i>
-
-<i>See Effective Date of 2010 Amendment note below.</i>
-
 #### Prior Provisions
 
 A prior section 3502, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 2813; amended Pub. L. 98–443, §9(h), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 99–500, §101(m) \[title VIII, §812\], Oct. 18, 1986, 100 Stat. 1783–308, 1783–335, and Pub. L. 99–591, §101(m) \[title VIII, §812\], Oct. 30, 1986, 100 Stat. 3341–308, 3341–335; Pub. L. 101–73, title VII, §744(e), Aug. 9, 1989, 103 Stat. 438, defined terms used in this chapter prior to the general amendment of this chapter by Pub. L. 104–13.
@@ -82,7 +76,9 @@ Another prior section 3502, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1302; Pub.
 
 #### Amendments
 
-<b>2010</b>—Par. (5). Pub. L. 111–203, §315, inserted “Office of the Comptroller of the Currency,” after “the Securities and Exchange Commission,”.
+<b>2010</b>—Par. (5). Pub. L. 111–203, §1100D(a), which directed amendment of section 2(5) of the Paperwork Reduction Act (44 U.S.C. 3502(5)) by inserting “the Bureau of Consumer Financial Protection, the Office of Financial Research,” after “the Securities and Exchange Commission,”, was executed to this section to reflect the probable intent of Congress.
+
+Pub. L. 111–203, §315, inserted “Office of the Comptroller of the Currency,” after “the Securities and Exchange Commission,”.
 
 <b>2008</b>—Par. (5). Pub. L. 110–289 substituted “Federal Housing Finance Agency” for “Federal Housing Finance Board”.
 

@@ -54,7 +54,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Sections 765 and 766 of the House amendment represent a consolidation and redraft of sections 765, 766, 767, and 768 of the House bill and sections 765, 766, 767, and 768 of the Senate amendment. In particular, section 765(a) of the House amendment is derived from section 765(a) of the House bill and section 767(a) of the Senate amendment. Under section 765(a) of the House amendment customers are notified of the opportunity to immediately file proofs of claim and to identify specifically identifiable securities, property, or commodity contracts. The customer is also afforded an opportunity to instruct the trustee regarding the customer's desires concerning disposition of the customer's commodity contracts. Section 767(b) \[probably should be 765(b)\] makes clear that the trustee must comply with instructions received to the extent practicable, but in the event the trustee has transferred commodity contracts to a commodity broker, such instructions shall be forwarded to the broker.
 
@@ -132,13 +132,13 @@ Subsection (c) \[enacted as section 766(a)\] permits the trustee to answer all m
 
 #### Amendments
 
-2005—Subsec. (h). Pub. L. 109–8, §1502(a)(4)(A), substituted “507(a)(2)” for “507(a)(1)” in introductory provisions.
+<b>2005</b>—Subsec. (h). Pub. L. 109–8, §1502(a)(4)(A), substituted “507(a)(2)” for “507(a)(1)” in introductory provisions.
 
 Subsec. (i). Pub. L. 109–8, §1502(a)(4)(B), substituted “507(a)(2)” for “507(a)(1)” in pars. (1) and (2).
 
-1984—Subsec. (j)(2). Pub. L. 98–353 substituted “section 726” for “section 726(a)”.
+<b>1984</b>—Subsec. (j)(2). Pub. L. 98–353 substituted “section 726” for “section 726(a)”.
 
-1982—Subsec. (a). Pub. L. 97–222, §19(a), inserted “to such customer” after “distribution”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–222, §19(a), inserted “to such customer” after “distribution”.
 
 Subsec. (b). Pub. L. 97–222, §19(b), struck out “that is being actively traded as of the date of the filing of the petition” after “any open commodity contract” and inserted “the” after “rules of”.
 

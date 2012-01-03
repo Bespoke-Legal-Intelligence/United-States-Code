@@ -2,7 +2,7 @@
 
 #### (a) Requirement of financial protection for licensees
 
-Each license issued under section 2133 or 2134 of this title and each construction permit issued under section 2235 of this title shall, and each license issued under section 2073, 2093, or 2111 of this title may, for the public purposes cited in section 2012(i) of this title, have as a condition of the license a requirement that the licensee have and maintain financial protection of such type and in such amounts as the Nuclear Regulatory Commission (in this section referred to as the “Commission”) in the exercise of its licensing and regulatory authority and responsibility shall require in accordance with subsection (b) of this section to cover public liability claims. Whenever such financial protection is required, it may be a further condition of the license that the licensee execute and maintain an indemnification agreement in accordance with subsection (c) of this section. The Commission may require, as a further condition of issuing a license, that an applicant waive any immunity from public liability conferred by Federal or State law.
+Each license issued under section 2133 or 2134 of this title and each construction permit issued under section 2235 of this title shall, and each license issued under section 2073, 2093, or 2111 of this title may, for the public purposes cited in section 2012(i) of this title, have as a condition of the license a requirement that the licensee have and maintain financial protection of such type and in such amounts as the Nuclear Regulatory Commission (in this section referred to as the “Commission”) in the exercise of its licensing and regulatory authority and responsibility shall require in accordance with subsection (b) of this section to cover public liability claims. Whenever such financial protection is required, it may be a further condition of the license that the licensee execute and maintain an indemnification agreement in accordance with subsection (c) of this section. The Commission mayrequire, as a further condition of issuing a license, that an applicant waive any immunity from public liability conferred by Federal or State law.
 
 #### (b) Amount and type of financial protection for licensees
 
@@ -14,7 +14,7 @@ Each license issued under section 2133 or 2134 of this title and each constructi
 
 &emsp;(ii) for any licensee licensed to operate more than one facility, if the Commission determines that the financial impact of assessing the standard annual deferred premium amount under paragraph (1) would result in undue financial hardship to such licensee or the ratepayers of such licensee.
 
-(B) In the event that the Commission assesses a lesser annual deferred premium amount under subparagraph (A), the Commission shall require payment of the difference between the standard annual deferred premium assessment under paragraph (1) and any such lesser annual deferred premium assessment within a reasonable period of time, with interest at a rate determined by the Secretary of the Treasury on the basis of the current average market yield on outstanding marketable obligations of the United States of comparable maturities during the month preceding the date that the standardannual deferred premium assessment under paragraph (1) would become due.
+(B) In the event that the Commission assesses a lesser annual deferred premium amount under subparagraph (A), the Commission shall require payment of the difference between the standard annual deferred premium assessment under paragraph (1) and any such lesser annual deferred premium assessment within a reasonable period of time, with interest at a rate determined by the Secretary of the Treasury on the basis of the current average market yield on outstanding marketable obligations of the United States of comparable maturities during the month preceding the date that the standard annual deferred premium assessment under paragraph (1) would become due.
 
 (3) The Commission shall establish such requirements as are necessary to assure availability of funds to meet any assessment of deferred premiums within a reasonable time when due, and may provide reinsurance or shall otherwise guarantee the payment of such premiums in the event it appears that the amount of such premiums will not be available on a timely basis through the resources of private industry and insurance. Any agreement by the Commission with a licensee or indemnitor to guarantee the payment of deferred premiums may contain such terms as the Commission deems appropriate to carry out the purposes of this section and to assure reimbursement to the Commission for its payments made due to the failure of such licensee or indemnitor to meet any of its obligations arising under or in connection with financial protection required under this subsection including without limitation terms creating liens upon the licensed facility and the revenues derived therefrom or any other property or revenues of such licensee to secure such reimbursement and consent to the automatic revocation of any license.
 
@@ -22,7 +22,7 @@ Each license issued under section 2133 or 2134 of this title and each constructi
 
 &emsp;(i) request the Congress to appropriate sufficient funds to satisfy such payments; or
 
-&emsp;(ii) to the extent approved in appropriation Acts, issue to the Secretary of the Treasury obligations in such forms and denominations, bearing such maturities, and subject to such terms and conditions as may be agreed to by the Commission and the Secretary of the Treasury.
+&emsp;(ii) to the extent approved in appropriation Acts, issue to the Secretary of the Treasuryobligations in such forms and denominations, bearing such maturities, and subject to such terms and conditions as may be agreed to by the Commission and the Secretary of the Treasury.
 
 (B) Except for funds appropriated for purposes of making reinsurance or guaranteed payments under paragraph (3), any funds appropriated under subparagraph (A)(i) shall be repaid to the general fund of the United States Treasury from amounts made available by standard deferred premium assessments, with interest at a rate determined by the Secretary of the Treasury on the basis of the current average market yield on outstanding marketable obligations of the United States of comparable maturities during the month preceding the date that the funds appropriated under such subparagraph are made available.
 
@@ -50,7 +50,7 @@ The Commission shall, with respect to licenses issued between August 30, 1954, a
 
 &emsp;(A) may require the contractor to provide and maintain financial protection of such a type and in such amounts as the Secretary shall determine to be appropriate to cover public liability arising out of or in connection with the contractual activity; and
 
-&emsp;(B) shall indemnify the persons indemnified against such liability above the amount of the financial protection required, in the amount of $10,000,000,000 (subject to adjustment for inflation under subsection (t) of this section), in the aggregate, for all persons indemnified in connection with the contract and for each nuclear incident, including such legal costs of the contractor as are approved by the Secretary.
+&emsp;(B) shall indemnify the persons indemnified against such liability above the amount of the financial protection required, in the amount of$10,000,000,000 (subject to adjustment for inflation under subsection (t) of this section), in the aggregate, for all persons indemnified in connection with the contract and for each nuclear incident, including such legal costs of the contractor as are approved by the Secretary.
 
 (3) All agreements of indemnification under which the Department of Energy (or its predecessor agencies) may be required to indemnify any person under this section shall be deemed to be amended, on August 8, 2005, to reflect the amount of indemnity for public liability and any applicable financial protection required of the contractor under this subsection.
 
@@ -88,7 +88,7 @@ The Commission or the Secretary, as appropriate, is authorized to collect a fee 
 
 #### (g) Use of services of private insurers
 
-In administering the provisions of this section, the Commission or the Secretary, as appropriate, shall use, to the maximum extent practicable, the facilities and services of private insurance organizations, and the Commission or the Secretary, as appropriate, may contract to pay a reasonable compensation for such services. Any contract made under the provisions of this subsection may be made without regard to the provisions of section 6101 of title 41 upon a showing by the Commission or the Secretary, as appropriate, that advertising is not reasonably practicable and advance payments may be made.
+In administering the provisions of this section, the Commission or the Secretary, as appropriate, shall use, to the maximum extent practicable, the facilities and services of private insurance organizations, and the Commission or the Secretary, as appropriate, may contract to pay a reasonable compensation for such services. Any contract made under the provisions ofthis subsection may be made without regard to the provisions of section 6101 of title 41 upon a showing by the Commission or the Secretary, as appropriate, that advertising is not reasonably practicable and advance payments may be made.
 
 #### (h) Conditions of agreements of indemnification
 
@@ -160,7 +160,7 @@ With respect to any license issued pursuant to section 2073, 2093, 2111, 2134(a)
 
 &emsp;(2) such contracts of indemnification shall cover public liability arising out of or in connection with the licensed activity; and shall include damage to property of persons indemnified, except property which is located at the site of and used in connection with the activity where the nuclear incident occurs; and
 
-&emsp;(3) such contracts of indemnification, when entered into with a licensee having immunity from public liability because it is a State agency, shall provide also that the Commission shall make payments under the contract on account of activities of the licensee in thesame manner and to the same extent as the Commission would be required to do if the licensee were not such a State agency.
+&emsp;(3) such contracts of indemnification, when entered into with a licensee having immunity from public liability because it is a State agency, shall provide also that the Commission shall make payments under the contract on account of activities of the licensee in the same manner and to the same extent as the Commission would be required to do if the licensee were not such a State agency.
 
 > Any licensee may waive an exemption to which it is entitled under this subsection. With respect to any production or utilization facility for which a construction permit is issued between August 30, 1954, and December 31, 2025, the requirements of this subsection shall apply to any license issued for such facility subsequent to December 31, 2025.
 
@@ -176,7 +176,7 @@ With respect to any license issued pursuant to section 2073, 2093, 2111, 2134(a)
 
 (B) The members of the study commission shall be appointed in a manner that ensures that not more than a mere majority of the members are of the same political party.
 
-(C) Each member of the study commission shall hold office until the termination of the study commission, but may be removed by the President for inefficiency, neglect of duty, or malfeasance in office.
+(C) Each member of the study commission shall hold office until the termination of thestudy commission, but may be removed by the President for inefficiency, neglect of duty, or malfeasance in office.
 
 (D) Any vacancy in the study commission shall be filled in the manner in which the original appointment was made.
 
@@ -260,7 +260,7 @@ The Commission or the Secretary, as appropriate, is authorized to enter into agr
 
 (1) Whenever the United States district court in the district where a nuclear incident occurs, or the United States District Court for the District of Columbia in case of a nuclear incident occurring outside the United States, determines upon the petition of any indemnitor or other interested person that public liability from a single nuclear incident may exceed the limit of liability under the applicable limit of liability under subparagraph (A), (B), or (C) of subsection (e)(1) of this section:
 
-&emsp;(A) Total payments made by or for all indemnitors as a result of such nuclear incident shall not exceed 15 per centum of such limit of liability without the prior approval of such court;
+&emsp;(A) Total payments made by or for all indemnitors as a result of such nuclear incidentshall not exceed 15 per centum of such limit of liability without the prior approval of such court;
 
 &emsp;(B) The court shall not authorize payments in excess of 15 per centum of such limit of liability unless the court determines that such payments are or will be in accordance with a plan of distribution which has been approved by the court or such payments are not likely to prejudice the subsequent adoption and implementation by the court of a plan of distribution pursuant to subparagraph (C); and
 
@@ -318,7 +318,7 @@ No court may award punitive damages in any action with respect to a nuclear inci
 
 &emsp;(B) the previous adjustment under this paragraph.
 
-(3) For purposes of this subsection, the term “Consumer Price Index” means the Consumer Price Index for all urban consumers published by the Secretary of Labor.
+(3) For purposes of this subsection, the term “Consumer Price Index” means the ConsumerPrice Index for all urban consumers published by the Secretary of Labor.
 
 (Aug. 1, 1946, ch. 724, title I, §170, as added Pub. L. 85–256, §4, Sept. 2, 1957, 71 Stat. 576; amended Pub. L. 85–602, §§2, 2\[3\], Aug. 8, 1958, 72 Stat. 525; Pub. L. 85–744, Aug. 23, 1958, 72 Stat. 837; Pub. L. 87–206, §15, Sept. 6, 1961, 75 Stat. 479; Pub. L. 87–615, §§6, 7, Aug. 29, 1962, 76 Stat. 410; Pub. L. 88–394, §§2, 3, Aug. 1, 1964, 78 Stat. 376; Pub. L. 89–210, §§1–5, Sept. 29, 1965, 79 Stat. 855–857; Pub. L. 89–645, §§2, 3, Oct. 13, 1966, 80 Stat. 891; Pub. L. 94–197, §§2–14, Dec. 31, 1975, 89 Stat. 1111–1115; Pub. L. 100–408, §§2–4(a), 5(c)–11(a), (c), (d)(1), 12–15, 16(a)(2), (b)(3)–(c), (d)(4)–(e), Aug. 20, 1988, 102 Stat. 1066–1068, 1070–1080; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 105–362, title XII, §1201(b), Nov. 10, 1998, 112 Stat. 3292; Pub. L. 107–314, div. C, title XXXI, §3171, Dec. 2, 2002, 116 Stat. 2743; Pub. L. 108–7, div. O, §101, Feb. 20, 2003, 117 Stat. 551; Pub. L. 108–375, div. C, title XXXI, §3141, Oct. 28, 2004, 118 Stat. 2171; Pub. L. 109–58, title VI, §§602–608, Aug. 8, 2005, 119 Stat. 779–781; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410.)
 
@@ -438,7 +438,7 @@ Pub. L. 100–408, §16(b)(4), inserted “or the Secretary, as appropriate,” 
 
 Subsec. (n). Pub. L. 100–408, §16(e)(10), inserted “Waiver of defenses and judicial procedures” as heading.
 
-Subsec. (n)(1). Pub. L. 100–408, §§10, 16(b)(5)(A), (d)(6), redesignated existing subpars. (a), (b), and (c) as (A),\(B), and (C), respectively, added subpars. (D), (E), and (F), substituted “a Department of Energy contractor” for “a Commission contractor” in subpar. (C), and, in closing provisions inserted “, or the Secretary, as appropriate,” after “the Commission”, struck out “, but in no event more than twenty years after the date of the nuclear incident” after “and the cause thereof”, and substituted “subsection e” for “subsection 170e”, which for purposes of codification was translated as “subsection (e) of this section”, requiring no change in text.
+Subsec. (n)(1). Pub. L. 100–408, §§10, 16(b)(5)(A), (d)(6), redesignated existing subpars. (a), (b), and (c) as (A), (B), and (C), respectively, added subpars. (D), (E), and (F), substituted “a Department of Energy contractor” for “a Commission contractor” in subpar. (C), and, in closing provisions inserted “, or the Secretary, as appropriate,” after “the Commission”, struck out “, but in no event more than twenty years after the date of the nuclear incident” after “and the cause thereof”, and substituted “subsection e” for “subsection 170e”, which for purposes of codification was translated as “subsection (e) of this section”, requiring no change in text.
 
 Subsec. (n)(2). Pub. L. 100–408, §16(b)(5)(B), inserted “or the Secretary, as appropriate” after “Commission”.
 
@@ -452,7 +452,7 @@ Subsec. (<i>o</i>)(1). Pub. L. 100–408, §7(b)(1), substituted “the applicab
 
 Subsec. (<i>o</i>)(1)(B). Pub. L. 100–408, §16(d)(7), substituted “subparagraph (C)” for “subparagraph (3) of this subsection (<i>o</i>)”.
 
-Subsec. (<i>o</i>)(1)(C). Pub. L. 100–408, §16(b)(6), inserted “or the Secretary, as appropriate,” after first reference to “Commission” and “or the Secretary as appropriate” after second reference to “Commission”.
+Subsec. (<i>o</i>)(1)(C). Pub. L. 100–408, §16(b)(6), inserted “or the Secretary, as appropriate,” after first referenceto “Commission” and “or the Secretary as appropriate” after second reference to “Commission”.
 
 Subsec. (<i>o</i>)(4). Pub. L. 100–408, §7(b)(2), struck out par. (4) which read as follows: “The Commission shall, within ninety days after a court shall have made such determination, deliver to the Joint Committee a supplement to the report prepared in accordance with subsection (i) of this section setting forth the estimated requirements for full compensation and relief of all claimants, and recommendations as to the relief to be provided.”
 
@@ -710,7 +710,7 @@ Claims Relating to Specified Diseases.—Any individual who—
 
 &emsp;&emsp;“(C) participated onsite in a test involving the atmospheric detonation of a nuclear device,
 
-> &emsp;and who submits written medical documentation that he or she, after such period of physical presence or such participation (as the case may be), contracted a specified disease, shall receive $50,000 (in the case of an individual described in subparagraph (A) or (B)) or $75,000 (in the case of an individual described in subparagraph (C)), if—
+> &emsp;and who submits written medical documentation that he or she, after such period of physical presence or such participation (as the case may be), contracted aspecified disease, shall receive $50,000 (in the case of an individual described in subparagraph (A) or (B)) or $75,000 (in the case of an individual described in subparagraph (C)), if—
 
 &emsp;&emsp;“(i) the claim for such payment is filed with the Attorney General by or on behalf of such individual, and
 
@@ -780,7 +780,7 @@ Definitions.—For purposes of this section—
 
 &emsp;“(1) the term ‘working level month of radiation’ means radiation exposure at the level of one working level every work day for a month, or an equivalent exposure over a greater or lesser amount of time;
 
-&emsp;“(2) the term ‘working level’ means the concentration of the short half-life daughters of radon that will release (1.3�0A10<sup>5</sup>) million electron volts of alpha energy per liter of air;
+&emsp;“(2) the term ‘working level’ means the concentration of the short half-life daughters of radon that will release (1.3 × 10<sup>5</sup>) million electron volts of alpha energy per liter of air;
 
 &emsp;“(3) the term ‘nonmalignant respiratory disease’ means fibrosis of the lung, pulmonary fibrosis, corpulmonale related to fibrosis of the lung, silicosis, and pneumoconiosis;
 
@@ -946,7 +946,7 @@ In general.—In the case of an individual who is deceased at the time of paymen
 
 &emsp;&emsp;&emsp;“(iv) If there is no surviving spouse described in clause (i), and if there are no children described in clause (ii) or parents described in clause (iii), such payment shall be made in equal shares to all grandchildren of the individual who are living at the time of payment.
 
-&emsp;&emsp;&emsp;“(v) If there is no surviving spouse described in clause (i), and if there are no children described in clause (ii), parents described in clause (iii), or grandchildren described in clause (iv), then such payment shall be made in equal shares to the grandparents of the individual who are living at the time of payment.
+&emsp;&emsp;&emsp;“(v) If there is no surviving spouse described in clause (i), and if there are no children described inclause (ii), parents described in clause (iii), or grandchildren described in clause (iv), then such payment shall be made in equal shares to the grandparents of the individual who are living at the time of payment.
 
 &emsp;&emsp;“(B)
 
@@ -1136,7 +1136,7 @@ Designation of convener.—Within 30 days of the date of the enactment of this A
 
 &emsp;“(3)
 
-Submission of recommendations of the convener.—The convener shall, not later than 7 months after the date of the enactment of this Act, submit to the Commission recommendations for a proposed rule regarding whether the Commission should enter into indemnity agreements under section 170 of the Atomic Energy Act of 1954 (42 U.S.C. 2210) with radiopharmaceutical licensees and, if so, the terms and conditions of such indemnification. If the convener recommends that such indemnity be provided forradiopharmaceutical licensees, the proposed rule submitted by the convener shall set forth the procedures for the execution of indemnification agreements with radiopharmaceutical licensees.
+Submission of recommendations of the convener.—The convener shall, not later than 7 months after the date of the enactment of this Act, submit to the Commission recommendations for a proposed rule regarding whether the Commission should enter into indemnity agreements under section 170 of the Atomic Energy Act of 1954 (42 U.S.C. 2210) with radiopharmaceutical licensees and, if so, the terms and conditions of such indemnification. If the convener recommends that such indemnity be provided for radiopharmaceutical licensees, the proposed rule submitted by the convener shall set forth the procedures for the execution of indemnification agreements with radiopharmaceutical licensees.
 
 &emsp;“(4)
 

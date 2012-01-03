@@ -78,7 +78,7 @@ For purposes of this section—
 
 <b>2004</b>—Subsec. (b). Pub. L. 108–357, §902(a)(2), substituted “deduct” for “amortize” in heading.
 
-Subsec. (b)(1). Pub. L. 108–357, §902(a)(1), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “Start-up expenditures may, at the election of the taxpayer, be treated as deferred expenses. Such deferred expenses shall be allowed as a deduction prorated equally over such period of not less than 60 months as may be selected by the taxpayer (beginning with the month in which the active trade or business begins).”
+Subsec. (b)(1). Pub. L. 108–357, §902(a)(1), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “Start-up expendituresmay, at the election of the taxpayer, be treated as deferred expenses. Such deferred expenses shall be allowed as a deduction prorated equally over such period of not less than 60 months as may be selected by the taxpayer (beginning with the month in which the active trade or business begins).”
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–369 amended subsec. (a) generally, substituting provisions dealing with capitalization of expenditures for provisions dealing with election to amortize.
 

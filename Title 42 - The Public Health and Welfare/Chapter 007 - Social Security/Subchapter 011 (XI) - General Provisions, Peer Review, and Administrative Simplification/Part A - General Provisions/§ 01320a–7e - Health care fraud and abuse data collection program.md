@@ -20,7 +20,7 @@ The Secretary shall maintain a national health care fraud and abuse data collect
 
 &emsp;&emsp;(C) The nature of the final adverse action and whether such action is on appeal.
 
-&emsp;&emsp;(D) A description of the acts or omissions and injuries upon which the final adverse action was based, and such other information as the Secretary determines by regulation is required for appropriate interpretation of information reported under this section.
+&emsp;&emsp;(D) A description of the acts or omissions and injuries upon which the final adverse action was based, and such other informationas the Secretary determines by regulation is required for appropriate interpretation of information reported under this section.
 
 #### (3) Confidentiality
 
@@ -130,7 +130,7 @@ For purposes of this section:
 
 #### (5) Determination of conviction
 
-&emsp;For purposes of paragraph (1), the existence of a conviction shall be determined underparagraphs (1) through (4) of section 1320a–7(i) of this title.
+&emsp;For purposes of paragraph (1), the existence of a conviction shall be determined under paragraphs (1) through (4) of section 1320a–7(i) of this title.
 
 (Aug. 14, 1935, ch. 531, title XI, §1128E, as added Pub. L. 104–191, title II, §221(a), Aug. 21, 1996, 110 Stat. 2009; amended Pub. L. 105–33, title IV, §4331(a)(2), (b), (d), Aug. 5, 1997, 111 Stat. 395, 396; Pub. L. 111–148, title VI, §6403(a), Mar. 23, 2010, 124 Stat. 763.)
 
@@ -220,7 +220,7 @@ Availability of fees.—Fees collected pursuant to section 1128E(d)(2) of the So
 
 &emsp;“(B)
 
-Availability of additional funds.—In addition to the fees described in subparagraph (A), anyfunds available to the Secretary or to the Inspector General of the Department of Health and Human Services for a purpose related to combating health care fraud, waste, or abuse shall be available to the extent necessary for operating the Healthcare Integrity and Protection Data Bank during the transition period, including systems testing and other activities necessary to ensure that information formerly reported to the Healthcare Integrity and Protection Data Bank will be accessible through the National Practitioner Data Bank after the end of such transition period.
+Availability of additional funds.—In addition to the fees described in subparagraph (A), any funds available to the Secretary or to the Inspector General of the Department of Health and Human Services for a purpose related to combating health care fraud, waste, or abuse shall be available to the extent necessary for operating the Healthcare Integrity and Protection Data Bank during the transition period, including systems testing and other activities necessary to ensure that information formerly reported to the Healthcare Integrity and Protection Data Bank will be accessible through the National Practitioner Data Bank after the end of such transition period.
 
 “(4)
 

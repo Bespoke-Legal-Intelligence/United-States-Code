@@ -2,7 +2,7 @@
 
 (a) There is authorized to be established a nonprofit corporation to be known as the Henry M. Jackson Foundation for the Advancement of Military Medicine (hereinafter in this section referred to as the “Foundation”) which shall not for any purpose be an agency or instrumentality of the United States Government. The Foundation shall be subject to the provisions of this section and, to the extent not inconsistent with this section, the Corporations and Associations Articles of the State of Maryland.
 
-(b) It shall be the purpose of the Foundation (1) to carry out medical research and educationprojects under cooperative arrangements with the Uniformed Services University of the Health Sciences, (2) to serve as a focus for the interchange between military and civilian medical personnel, and (3) to encourage the participation of the medical, dental, nursing, veterinary, and other biomedical sciences in the work of the Foundation for the mutual benefit of military and civilian medicine.
+(b) It shall be the purpose of the Foundation (1) to carry out medical research and education projects under cooperative arrangements with the Uniformed Services University of the Health Sciences, (2) to serve as a focus for the interchange between military and civilian medical personnel, and (3) to encourage the participation of the medical, dental, nursing, veterinary, and other biomedical sciences in the work of the Foundation for the mutual benefit of military and civilian medicine.
 
 (c)(1) The Foundation shall have a Council of Directors (hereinafter in this section referred to as the “Council”) composed of—
 
@@ -42,7 +42,7 @@
 
 &emsp;(6) enter into such other contracts, leases, cooperative agreements, and other transactions as the Executive Director considers appropriate to conduct the activities of the Foundation; and
 
-&emsp;(7) charge such fees for professional services furnished by the Foundation as the Executive Director determines reasonable and appropriate.
+&emsp;(7) charge such fees for professional services furnished by the Foundation as the ExecutiveDirector determines reasonable and appropriate.
 
 (h) A person who is a full-time or part-time employee of the Foundation may not be an employee (full-time or part-time) of the Federal Government.
 
@@ -66,5 +66,5 @@ Subsec. (a). Pub. L. 98–132, §2(a)(1)(B), inserted “Henry M. Jackson”.
 
 Section 1 of Pub. L. 98–132 provided: “That (a) the Foundation for the Advancement of Military Medicine established pursuant to section 178 of title 10, United States Code, shall be designated and hereafter known as the ‘Henry M. Jackson Foundation for the Advancement of Military Medicine’, in honor of the late Henry M. Jackson, United States Senator from the State of Washington. Any reference to the Foundation for the Advancement of Military Medicine in any law, regulation, document, record, or other paper of the United States shall be held and considered to be a reference to the ‘Henry M. Jackson Foundation for the Advancement of Military Medicine’.
 
-“(b) The Council of Directors referred to in subsection (c) of section 178 of such title shall take suchaction as is necessary under the Corporations and Associations Articles of the State of Maryland to amend the corporate name of the Foundation for the Advancement of Military Medicine established under such section to reflect the designation made by the first sentence of subsection (a).”
+“(b) The Council of Directors referred to in subsection (c) of section 178 of such title shall take such action as is necessary under the Corporations and Associations Articles of the State of Maryland to amend the corporate name of the Foundation for the Advancement of Military Medicine established under such section to reflect the designation made by the first sentence of subsection (a).”
 

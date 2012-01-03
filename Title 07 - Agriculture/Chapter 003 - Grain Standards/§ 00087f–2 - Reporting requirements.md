@@ -20,11 +20,11 @@ Section 612c–3 of this title, referred to in subsec. (b), was repealed by Pub.
 
 #### Amendments
 
-1994—Pub. L. 103–354 substituted “Secretary” for “Administrator” wherever appearing.
+<b>1994</b>—Pub. L. 103–354 substituted “Secretary” for “Administrator” wherever appearing.
 
-1991—Subsec. (a). Pub. L. 102–237 substituted “On December 1 of each year, the” for “The” and “Committee on Agriculture” for “committee on Agriculture” before “of the House” and struck out “one year after the effective date of the United States Grain Standards Act of 1976 setting forth the actions taken by him in implementing the provisions of that Act; and, on December 1 of each year thereafter, the Administrator shall report to such committees” before “regarding”.
+<b>1991</b>—Subsec. (a). Pub. L. 102–237 substituted “On December 1 of each year, the” for “The” and “Committee on Agriculture” for “committee on Agriculture” before “of the House” and struck out “one year after the effective date of the United States Grain Standards Act of 1976 setting forth the actions taken by him in implementing the provisions of that Act; and, on December 1 of each year thereafter, the Administrator shall report to such committees” before “regarding”.
 
-1977—Subsec. (a). Pub. L. 95–113, §1606(i), (j), substituted “Committee on Agriculture, Nutrition, and Forestry” for “Committee on Agriculture and Forestry” and “inspection and weighing” for “inspection”.
+<b>1977</b>—Subsec. (a). Pub. L. 95–113, §1606(i), (j), substituted “Committee on Agriculture, Nutrition, and Forestry” for “Committee on Agriculture and Forestry” and “inspection and weighing” for “inspection”.
 
 Subsec. (b). Pub. L. 95–113, §§1604(m), 1606(i), substituted “Committee on Agriculture, Nutrition, and Forestry” for “Committee on Agriculture and Forestry” in provisions preceding cl. (1) and, in cl. (2) substituted “notwithstanding the provisions of section 612c–3 of this title, within thirty days after receipt by the Administrator or the Secretary of notice of the cancellation” for “within thirty days after receipt by the Administrator or the Secretary of the cancellation”.
 

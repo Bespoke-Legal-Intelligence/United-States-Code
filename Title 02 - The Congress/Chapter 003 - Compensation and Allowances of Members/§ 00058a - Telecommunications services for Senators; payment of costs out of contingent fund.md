@@ -1,6 +1,6 @@
 ### §58a. Telecommunications services for Senators; payment of costs out of contingent fund
 
-The Sergeant at Arms and Doorkeeper of the Senate shall furnish each Senator local and long-distance telecommunications services in Washington, District of Columbia, and in such Senator's State in accordance with regulations prescribed by the Senate Committee on Rules and Administration; and the costs of such service shall be paid out of the contingent fund of the Senate from moneys made available to him for that purpose.
+The Sergeant at Arms and Doorkeeper of the Senate shall furnish each Senator local andlong-distance telecommunications services in Washington, District of Columbia, and in such Senator's State in accordance with regulations prescribed by the Senate Committee on Rules and Administration; and the costs of such service shall be paid out of the contingent fund of the Senate from moneys made available to him for that purpose.
 
 (Pub. L. 98–181, title I, §1205(a), Nov. 30, 1983, 97 Stat. 1290; Pub. L. 99–65, §1(b), July 12, 1985, 99 Stat. 163; Pub. L. 99–439, Oct. 2, 1986, 100 Stat. 1085.)
 
@@ -14,9 +14,9 @@ A prior section 58a, Pub. L. 95–94, title I, §112(g), Aug. 5, 1977, 91 Stat. 
 
 #### Amendments
 
-1986—Pub. L. 99–439 struck out “(except services for which the charge is based on the amount of time the service is used)” after “Senator's State”.
+<b>1986</b>—Pub. L. 99–439 struck out “(except services for which the charge is based on the amount of time the service is used)” after “Senator's State”.
 
-1985—Pub. L. 99–65 inserted “and in such Senator's State (except services for which the charge is based on the amount of time the service is used)”.
+<b>1985</b>—Pub. L. 99–65 inserted “and in such Senator's State (except services for which the charge is based on the amount of time the service is used)”.
 
 #### Effective Date of 1985 Amendment
 

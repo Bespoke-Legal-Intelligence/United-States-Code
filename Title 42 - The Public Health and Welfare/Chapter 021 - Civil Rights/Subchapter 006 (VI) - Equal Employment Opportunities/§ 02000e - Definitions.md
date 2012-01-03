@@ -24,13 +24,13 @@ For the purposes of this subchapter—
 
 &emsp;(f) The term “employee” means an individual employed by an employer, except that the term “employee” shall not include any person elected to public office in any State or political subdivision of any State by the qualified voters thereof, or any person chosen by such officer to be on such officer's personal staff, or an appointee on the policy making level or an immediate adviser with respect to the exercise of the constitutional or legal powers of the office. The exemption set forth in the preceding sentence shall not include employees subject to the civil service laws of a State government, governmental agency or political subdivision. With respect to employment in a foreign country, such term includes an individual who is a citizen of the United States.
 
-&emsp;(g) The term “commerce” means trade, traffic, commerce, transportation, transmission, or communication among the several States; or between a State and any place outside thereof; or within the District of Columbia, ora possession of the United States; or between points in the same State but through a point outside thereof.
+&emsp;(g) The term “commerce” means trade, traffic, commerce, transportation, transmission, or communication among the several States; or between a State and any place outside thereof; or within the District of Columbia, or a possession of the United States; or between points in the same State but through a point outside thereof.
 
 &emsp;(h) The term “industry affecting commerce” means any activity, business, or industry in commerce or in which a labor dispute would hinder or obstruct commerce or the free flow of commerce and includes any activity or industry “affecting commerce” within the meaning of the Labor-Management Reporting and Disclosure Act of 1959 \[29 U.S.C. 401 et seq.\], and further includes any governmental industry, business, or activity.
 
 &emsp;(i) The term “State” includes a State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, American Samoa, Guam, Wake Island, the Canal Zone, and Outer Continental Shelf lands defined in the Outer Continental Shelf Lands Act \[43 U.S.C. 1331 et seq.\].
 
-&emsp;(j) The term “religion” includes all aspects of religious observance and practice, as well as belief, unless an employer demonstrates that he is unable to reasonably accommodate to an employee's or prospective employee's religious observance or practice without undue hardship on the conduct of the employer's business.
+&emsp;(j) The term “religion” includes all aspects of religious observance and practice, as well as belief, unless an employer demonstrates that he is unable to reasonably accommodate to anemployee's or prospective employee's religious observance or practice without undue hardship on the conduct of the employer's business.
 
 &emsp;(k) The terms “because of sex” or “on the basis of sex” include, but are not limited to, because of or on the basis of pregnancy, childbirth, or related medical conditions; and women affected by pregnancy, childbirth, or related medical conditions shall be treated the same for all employment-related purposes, including receipt of benefits under fringe benefit programs, as other persons not so affected but similar in their ability or inability to work, and nothing in section 2000e–2(h) of this title shall be interpreted to permit otherwise. This subsection shall not require an employer to pay for health insurance benefits for abortion, except where the life of the mother would be endangered if the fetus were carried to term, or except where medical complications have arisen from an abortion: <i>Provided</i>, That nothing herein shall preclude an employer from providing abortion benefits or otherwise affect bargaining agreements in regard to abortion.
 
@@ -150,7 +150,7 @@ Sec. 202. Except in contracts exempted in accordance with Section 204 of this Or
 
 “(4) The contractor will comply with all provisions of Executive Order No. 11246 of Sept. 24, 1965, and of the rules, regulations, and relevant orders of the Secretary of Labor.
 
-“(5) The contractor will furnish all information and reports required by Executive Order No. 11246 of September 24, 1965, and by the rules, regulations, and orders of the Secretary of Labor, or pursuant thereto, and will permit access to his books, records, and accounts by the contracting agency and the Secretary of Labor for purposes of investigation to ascertain compliance with such rules, regulations, and orders.
+“(5) The contractor will furnish all information and reports required by Executive Order No. 11246 of September 24, 1965, and by the rules, regulations, and orders of the Secretary of Labor, or pursuant thereto, andwill permit access to his books, records, and accounts by the contracting agency and the Secretary of Labor for purposes of investigation to ascertain compliance with such rules, regulations, and orders.
 
 “(6) In the event of the contractor's noncompliance with the nondiscrimination clauses of this contract or with any of such rules, regulations, or orders, this contract may be cancelled, terminated or suspended in whole or in part and the contractor may be declared ineligible for further Government contracts in accordance with procedures authorized in Executive Order No. 11246 of Sept. 24, 1965, and such other sanctions may be imposed and remedies invoked as provided in Executive Order No. 11246 of September 24, 1965, or by rule, regulation, or order of the Secretary of Labor, or as otherwise provided by law.
 
@@ -174,7 +174,7 @@ Sec. 204. (a) The Secretary of Labor may, when the Secretary deems that special 
 
 #### subpart c—powers and duties of the secretary of labor and the contracting agencies
 
-Sec. 205. The Secretary of Labor shall be responsible for securing compliance by all Government contractorsand subcontractors with this Order and any implementing rules or regulations. All contracting agencies shall comply with the terms of this Order and any implementing rules, regulations, or orders of the Secretary of Labor. Contracting agencies shall cooperate with the Secretary of Labor and shall furnish such information and assistance as the Secretary may require.
+Sec. 205. The Secretary of Labor shall be responsible for securing compliance by all Government contractors and subcontractors with this Order and any implementing rules or regulations. All contracting agencies shall comply with the terms of this Order and any implementing rules, regulations, or orders of the Secretary of Labor. Contracting agencies shall cooperate with the Secretary of Labor and shall furnish such information and assistance as the Secretary may require.
 
 Sec. 206. (a) The Secretary of Labor may investigate the employment practices of any Government contractor or subcontractor to determine whether or not the contractual provisions specified in Section 202 of this Order have been violated. Such investigation shall be conducted in accordance with the procedures established by the Secretary of Labor.
 
@@ -220,7 +220,7 @@ Sec. 215. The Secretary of Labor may provide for the exemption of any employer, 
 
 #### Part III—Nondiscrimination Provisions in Federally Assisted Construction Contracts
 
-Sec. 301. Each executive department and agency which administers a program involving Federal financial assistance shall require as a condition for the approval of any grant, contract, loan, insurance, or guarantee thereunder, which may involve a constructioncontract, that the applicant for Federal assistance undertake and agree to incorporate, or cause to be incorporated, into all construction contracts paid for in whole or in part with funds obtained from the Federal Government or borrowed on the credit of the Federal Government pursuant to such grant, contract, loan, insurance, or guarantee, or undertaken pursuant to any Federal program involving such grant, contract, loan, insurance, or guarantee, the provisions prescribed for Government contracts by Section 202 of this Order or such modification thereof, preserving in substance the contractor's obligations thereunder, as may be approved by the Secretary of Labor; together with such additional provisions as the Secretary deems appropriate to establish and protect the interest of the United States in the enforcement of those obligations. Each such applicant shall also undertake and agree (1) to assist and cooperate actively with the Secretary of Labor in obtaining the compliance of contractors and subcontractors with those contract provisions and with the rules, regulations and relevant orders of the Secretary, (2) to obtain and to furnish to the Secretary of Labor such information as the Secretary may require for the supervision of such compliance, (3) to carry out sanctions and penalties for violation of such obligations imposed upon contractors and subcontractors by the Secretary of Labor pursuant to Part II, Subpart D, of this Order, and (4) to refrain from entering into any contract subject to this Order, or extension or other modification of such a contract with a contractor debarred from Government contracts under Part II, Subpart D, of this Order.
+Sec. 301. Each executive department and agency which administers a program involving Federal financial assistance shall require as a condition for the approval of any grant, contract, loan, insurance, or guarantee thereunder, which may involve a construction contract, that the applicant for Federal assistance undertake and agree to incorporate, or cause to be incorporated, into all construction contracts paid for in whole or in part with funds obtained from the Federal Government or borrowed on the credit of the Federal Government pursuant to such grant, contract, loan, insurance, or guarantee, or undertaken pursuant to any Federal program involving such grant, contract, loan, insurance, or guarantee, the provisions prescribed for Government contracts by Section 202 of this Order or such modification thereof, preserving in substance the contractor's obligations thereunder, as may be approved by the Secretary of Labor; together with such additional provisions as the Secretary deems appropriate to establish and protect the interest of the United States in the enforcement of those obligations. Each such applicant shall also undertake and agree (1) to assist and cooperate actively with the Secretary of Labor in obtaining the compliance of contractors and subcontractors with those contract provisions and with the rules, regulations and relevant orders of the Secretary, (2) to obtain and to furnish to the Secretary of Labor such information as the Secretary may require for the supervision of such compliance, (3) to carry out sanctions and penalties for violation of such obligations imposed upon contractors and subcontractors by the Secretary of Labor pursuant to Part II, Subpart D, of this Order, and (4) to refrain from entering into any contract subject to this Order, or extension or other modification of such a contract with a contractor debarred from Government contracts under Part II, Subpart D, of this Order.
 
 Sec. 302. (a) “Construction contract,” as used in this Order means any contract for the construction, rehabilitation, alteration, conversion, extension, or repair of buildings, highways, or other improvements to real property.
 
@@ -378,7 +378,7 @@ Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 12086, Oct. 5, 1978, 43 F.R. 46501, as amended by Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617, provided:
 
-By the authority vested in me as President by the Constitution and statutes of the United States ofAmerica, including Section 202 of the Budget and Accounting Procedures Act of 1950 (31 U.S.C. 581c) \[31 U.S.C. 1531\], in order to provide for the transfer to the Department of Labor of certain contract compliance functions relating to equal employment opportunity, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and statutes of the United States of America, including Section 202 of the Budget and Accounting Procedures Act of 1950 (31 U.S.C. 581c) \[31 U.S.C. 1531\], in order to provide for the transfer to the Department of Labor of certain contract compliance functions relating to equal employment opportunity, it is hereby ordered as follows:
 
 #### 1–1.
 
@@ -460,7 +460,7 @@ Sec. 206. (a) The Secretary of Labor may investigate the employment practices of
 
 “
 
-Sec. 210. Whenever the Secretary of Labor makes a determination under Section 209, the Secretary shall promptly notify the appropriate agency. The agency shall take the action directed by the Secretary and shall report the results of the action it has taken to the Secretary of Labor within such time as the Secretaryshall specify. If the contracting agency fails to take the action directed within thirty days, the Secretary may take the action directly.”.
+Sec. 210. Whenever the Secretary of Labor makes a determination under Section 209, the Secretary shall promptly notify the appropriate agency. The agency shall take the action directed by the Secretary and shall report the results of the action it has taken to the Secretary of Labor within such time as the Secretary shall specify. If the contracting agency fails to take the action directed within thirty days, the Secretary may take the action directly.”.
 
 “
 
@@ -564,7 +564,7 @@ Sec. 2. <i>Functions</i>. (a) The members of the Task Force shall be responsible
 
 (c) The Attorney General shall complete the review of Federal laws, regulations, policies, and practices which contain language that unjustifiably differentiates, or which effectively discriminates, on the basis of sex. The Attorney General or his designee shall, on a quarterly basis, report his findings to the President through the Cabinet Council on Legal Policy.
 
-Sec. 3. <i>Administration</i>. (a) The head of each Executive agency shall, to the extent permitted by law, providethe Task Force with such information and advice as the Task Force may identify as being useful to fulfill its functions.
+Sec. 3. <i>Administration</i>. (a) The head of each Executive agency shall, to the extent permitted by law, provide the Task Force with such information and advice as the Task Force may identify as being useful to fulfill its functions.
 
 (b) The agency with its representative chairing the Task Force shall, to the extent permitted by law, provide the Task Force with such administrative support as may be necessary for the effective performance of its functions.
 
@@ -731,6 +731,90 @@ Sec. 6. <i>General Provisions</i>. (a) The heads of executive departments and ag
 (c) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
 
 (d) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13583. Establishing a Coordinated Government-Wide Initiative to Promote Diversity and Inclusion in the Federal Workforce
+
+Ex. Ord. No. 13583, Aug. 18, 2011, 76 F.R. 52847, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to promote the Federal workplace as a model of equal opportunity, diversity, and inclusion, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. Our Nation derives strength from the diversity of its population and from its commitment to equal opportunity for all. We are at our best when we draw on the talents of all parts of our society, and our greatest accomplishments are achieved when diverse perspectives are brought to bear to overcome our greatest challenges.
+
+A commitment to equal opportunity, diversity, and inclusion is critical for the Federal Government as an employer. By law, the Federal Government's recruitment policies should “endeavor to achieve a work force from all segments of society.” (5 U.S.C. 2301(b)(1)). As the Nation's largest employer, the Federal Government has a special obligation to lead by example. Attaining a diverse, qualified workforce is one of the cornerstones of the merit-based civil service.
+
+Prior Executive Orders, including but not limited to those listed below, have taken a number of steps to address the leadership role and obligations of the Federal Government as an employer. For example, Executive Order 13171 of October 12, 2000 (Hispanic Employment in the Federal Government), directed executive departments and agencies to implement programs for recruitment and career development of Hispanic employees and established a mechanism for identifying best practices in doing so. Executive Order 13518 of November 9, 2009 (Employment of Veterans in the Federal Government), required the establishment of a Veterans Employment Initiative. Executive Order 13548 of July 26, 2010 (Increasing Federal Employment of Individuals with Disabilities), and its related predecessors, Executive Order 13163 of July 26, 2000 (Increasing the Opportunity for Individuals With Disabilities to be Employed in the Federal Government), and Executive Order 13078 of March 13, 1998 (Increasing Employment of Adults With Disabilities), sought to tap the skills of the millions of Americans living with disabilities.
+
+To realize more fully the goal of using the talents of all segments of society, the Federal Government must continue to challenge itself to enhance its ability to recruit, hire, promote, and retain a more diverse workforce. Further, the Federal Government must create a culture that encourages collaboration, flexibility, and fairness to enable individuals to participate to their full potential.
+
+Wherever possible, the Federal Government must also seek to consolidate compliance efforts established through related or overlapping statutory mandates, directions from Executive Orders, and regulatory requirements. By this order, I am directing executive departments and agencies (agencies) to develop and implement a more comprehensive, integrated, and strategic focus on diversity and inclusion as a key component of their human resources strategies. This approach should include a continuing effort to identify and adopt best practices, implemented in an integrated manner, to promote diversity and remove barriers to equal employment opportunity, consistent with merit system principles and applicable law.
+
+Sec. 2. <i>Government-Wide Diversity and Inclusion Initiative and Strategic Plan</i>. The Director of the Office of Personnel Management (OPM) and the Deputy Director for Management of the Office of Management and Budget (OMB), in coordination with the President's Management Council (PMC) and the Chair of the Equal Employment Opportunity Commission (EEOC), shall:
+
+(a) establish a coordinated Government-wide initiative to promote diversity and inclusion in the Federal workforce;
+
+(b) within 90 days of the date of this order:
+
+(i) develop and issue a Government-wide Diversity and Inclusion Strategic Plan (Government-wide Plan), to be updated as appropriate and at a minimum every 4 years, focusing on workforce diversity, workplace inclusion, and agency accountability and leadership. The Government-wide Plan shall highlight comprehensive strategies for agencies to identify and remove barriers to equal employment opportunity that may exist in the Federal Government's recruitment, hiring, promotion, retention, professional development, and training policies and practices;
+
+(ii) review applicable directives to agencies related to the development or submission of agency human capital and other workforce plans and reports in connection with recruitment, hiring, promotion, retention, professional development, and training policies and practices, and develop a strategy for consolidating such agency plans and reports where appropriate and permitted by law; and
+
+(iii) provide guidance to agencies concerning formulation of agency-specific Diversity and Inclusion Strategic Plans prepared pursuant to section 3(b) of this order;
+
+(c) identify appropriate practices to improve the effectiveness of each agency's efforts to recruit, hire, promote, retain, develop, and train a diverse and inclusive workforce, consistent with merit system principles and applicable law; and
+
+(d) establish a system for reporting regularly on agencies’ progress in implementing their agency-specific Diversity and Inclusion Strategic Plans and in meeting the objectives of this order.
+
+Sec. 3. <i>Responsibilities of Executive Departments and Agencies</i>. All agencies shall implement the Government-wide Plan prepared pursuant to section 2 of this order, and such other related guidance as issued from time to time by the Director of OPM and Deputy Director for Management of OMB. In addition, the head of each executive department and agency referred to under subsections (1) and (2) of section 901(b) of title 31, United States Code, shall:
+
+(a) designate the agency's Chief Human Capital Officer to be responsible for enhancing employment and promotion opportunities within the agency, in collaboration with the agency's Director of Equal Employment Opportunity and Director of Diversity and Inclusion, if any, and consistent with law and merit system principles, including development and implementation of the agency-specific Diversity and Inclusion Strategic Plan;
+
+(b) within 120 days of the issuance of the Government-wide Plan or its update under section 2(b)(i) of this order, develop and submit for review to the Director of OPM and the Deputy Director for Management of OMB an agency-specific Diversity and Inclusion Strategic Plan for recruiting, hiring, training, developing, advancing, promoting, and retaining a diverse workforce consistent with applicable law, the Government-wide Plan, merit system principles, the agency's overall strategic plan, its human capital plan prepared pursuant to Part 250 of title 5 of the Code of Federal Regulations, and other applicable workforce planning strategies and initiatives;
+
+(c) implement the agency-specific Diversity and Inclusion Strategic Plan after incorporating it into the agency's human capital plan; and
+
+(d) provide information as specified in the reporting requirements developed under section 2(d).
+
+Sec. 4. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) authority granted to a department or agency or the head thereof, including the authority granted to EEOC by other Executive Orders (including Executive Order 12067) or any agency's authority to establish an independent Diversity and Inclusion Office; or
+
+(ii) functions of the Director of OMB relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Enhanced Collection of Relevant Data and Statistics Relating to Women
+
+Memorandum of President of the United States, Mar. 4, 2011, 76 F.R. 12823, provided:
+
+Memorandum for the Heads of Executive Departments and Agencies
+
+I am proud to work with the White House Council on Women and Girls, the Office of Management and Budget, and the Department of Commerce on this week's release of <i>Women in America</i>, a report detailing the status of American women in the areas of families and income, health, employment, education, and violence and crime. This report provides a snapshot of the status of American women today, serving as a valuable resource for Government officials, academics, members of non-profit, nongovernmental, and news organizations, and others.
+
+My Administration is committed to ensuring that Federal programs achieve policy goals in the most cost-effective manner. The <i>Women in America</i> report, together with the accompanying website collection of relevant data, will assist Government officials in crafting policies in light of available statistical evidence. It will also assist the work of the nongovernmental sector, including journalists, public policy analysts, and academic researchers, by providing data that allow greater understanding of policies and programs.
+
+Preparation of this report revealed the vast data resources of the Federal statistical agencies. It also revealed some gaps in data collection. Gathering and analyzing additional data to fill in the gaps could help policymakers gather a more accurate and comprehensive view of the status and needs of American women.
+
+Accordingly, I hereby request the heads of executive departments and agencies, where possible within existing collections of data and in light of budgetary constraints, to identify and to seek to fill in gaps in statistics and improve survey methodology relating to women wherever appropriate, including in the broad areas covered by the <i>Women in America</i> report: families and income, health, employment, education, and violence and crime.
+
+Examples of some of the efforts that could be undertaken by departments and agencies with respect to the gathering or design of comprehensive data related to women include the following:
+
+(a) Maternal Mortality. I encourage the National Center for Health Statistics (NCHS) to continue to work with States and other registration areas to complete the expeditious adoption of the most current standards for the collection of information on vital events, as well as the transition to electronic reporting systems. Maternal mortality is an important indicator of women's health both internationally and nationally. In the United States, maternal mortality statistics are based upon the information recorded on death certificates and collected by State and local vital records offices. The NCHS compiles the data across the 50 States and other registration areas. Due to concerns about data quality in the ascertainment of maternal mortality statistics, the 2003 revision of the standard death certificate introduced improved standards for collecting data. Until all 50 States and registration areas adopt the new data standards, formulating a national-level maternal mortality ratio remains difficult.
+
+(b) Women in Leadership in Corporate America. Women participate in every sector of the workforce. Their current role in corporate leadership is an important indicator of their progress. I encourage the Chair of the Securities and Exchange Commission to seek to supplement the information it already collects by seeking to collect, among other data, information on the presence of women in governance positions in corporations, in order to shed further light on the role of women in corporate America.
+
+(c) Women in Leadership in Public Service. I encourage the Corporation for National and Community Service to include statistics about the role of women in diverse aspects of public service within its planned work on measuring civic engagement.
+
+This memorandum shall be carried out to the extent permitted by law, consistent with the legal authorities of executive departments and agencies and subject to the availability of appropriations. Nothing in this memorandum shall be construed to impair or otherwise affect the authority granted by law to a department or agency, or the head thereof; or the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+The Director of the Office of Management and Budget is hereby authorized and directed to publish this memorandum in the Federal Register.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

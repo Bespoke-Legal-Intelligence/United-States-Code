@@ -136,6 +136,38 @@ Subsec. (f)(4), (5). Pub. L. 110–181, §371(e), added pars. (4) and (5).
 
 Amendment by Pub. L. 110–417 effective Jan. 28, 2008, and as if included in Pub. L. 110–181 as enacted, see section 1061(b) of Pub. L. 110–417, set out as a note under section 6382 of Title 5, Government Organization and Employees.
 
+#### Implementation of Corrective Actions Resulting From Corrosion Study of the F–22 and F–35 Aircraft
+
+Pub. L. 112–81, div. A, title III, §324, Dec. 31, 2011, 125 Stat. 1362, provided that:
+
+“(a)
+
+Implementation; Congressional Briefing.—Not later than January 31, 2012, the Under Secretary of Defense for Acquisition, Technology, and Logistics shall implement the recommended actions described in subsection (b) and provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on the actions taken by the Under Secretary to implement such recommended actions.
+
+“(b)
+
+Recommended Actions.—The recommended actions described in this subsection are the following four recommended actions included in the report of the Government Accountability Office report numbered GAO–11–117R and titled ‘Defense Management: DOD Needs to Monitor and Assess Corrective Actions Resulting from Its Corrosion Study of the F–35 Joint Strike Fighter’:
+
+&emsp;“(1) The documentation of program-specific recommendations made as a result of the corrosion study described in subsection (d) with regard to the F–35 and F–22 aircraft and the establishment of a process for monitoring and assessing the effectiveness of the corrective actions taken with respect to such aircraft in response to such recommendations.
+
+&emsp;“(2) The documentation of program-specific recommendations made as a result of such corrosion study with regard to the other weapon systems identified in the study, specifically the CH–53K helicopter, the Joint High Speed Vessel, the Broad Area Maritime Surveillance Unmanned Aircraft System, and the Joint Light Tactical Vehicle, and the establishment of a process for monitoring and assessing the effectiveness of the corrosion prevention and control programs implemented for such weapons systems in response to such recommendations.
+
+&emsp;“(3) The documentation of Air Force-specific and Navy-specific recommendations made as a result of such corrosion study and the establishment of a process for monitoring and assessing the effectiveness of the corrective actions taken by the Air Force and the Navy in response to such recommendations.
+
+&emsp;“(4) The documentation of Department of Defense-wide recommendations made as a result of such corrosion study, the implementation of any needed changes in policies and practices to improve corrosion prevention and control in new systems acquired by the Department, and the establishment of a process for monitoring and assessing the effectiveness of the corrective actions taken by the Department in response to such recommendations.
+
+“(c)
+
+Deadline for Compliance.—Not later than December 31, 2012, the Under Secretary of Defense for Acquisition, Technology, and Logistics, in conjunction with the directors of the F–35 and F–22 program offices, the directors of the program offices for the weapons systems referred to in subsection (b)(2), the Secretary of the Army, the Secretary of the Air Force, and the Secretary of the Navy, shall—
+
+&emsp;“(1) take whatever steps necessary to comply with the recommendations documented pursuant to the required implementation under subsection (a) of the recommended actions described in subsection (b); or
+
+&emsp;“(2) submit to the congressional defense committees written justification of why compliance was not feasible or achieved.
+
+“(d)
+
+Corrosion Study.—The corrosion study described in this subsection is the study required in House Report 111–166 accompanying H.R. 2647 of the 111th Congress \[Pub. L. 111–84\] conducted by the Office of the Director of Corrosion Policy and Oversight of the Office of the Secretary of Defense and titled ‘Corrosion Evaluation of the F–22 Raptor and F–35 Lightning II Joint Strike Fighter’.”
+
 #### Corrosion Control and Prevention Executives for the Military Departments
 
 Pub. L. 110–417, \[div. A\], title IX, §903, Oct. 14, 2008, 122 Stat. 4566, provided that:
@@ -146,7 +178,7 @@ Requirement to Designate Corrosion Control and Prevention Executive.—Not later
 
 “(b)
 
-Duties.—(1) The corrosion control and prevention executive of a military department shall ensurethat corrosion control and prevention is maintained in the department's policy and guidance for management of each of the following:
+Duties.—(1) The corrosion control and prevention executive of a military department shall ensure that corrosion control and prevention is maintained in the department's policy and guidance for management of each of the following:
 
 &emsp;“(A) System acquisition and production, including design and maintenance.
 

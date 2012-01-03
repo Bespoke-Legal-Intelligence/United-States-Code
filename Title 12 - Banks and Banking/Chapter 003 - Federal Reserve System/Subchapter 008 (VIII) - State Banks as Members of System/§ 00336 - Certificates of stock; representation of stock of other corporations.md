@@ -14,5 +14,5 @@ Section is comprised of the twenty-first par. of section 9 of act Dec. 23, 1913,
 
 #### Amendments
 
-1935—Act Aug. 23, 1935, among other changes, inserted proviso.
+<b>1935</b>—Act Aug. 23, 1935, among other changes, inserted proviso.
 

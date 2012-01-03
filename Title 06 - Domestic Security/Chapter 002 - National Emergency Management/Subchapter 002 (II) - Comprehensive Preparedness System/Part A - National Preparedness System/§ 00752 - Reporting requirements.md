@@ -58,7 +58,7 @@
 
 &emsp;&emsp;(G) State, local, and tribal government catastrophic incident preparedness; and
 
-&emsp;&emsp;(H) covering increases in the fixed costs or expenses of the Agency, including rent or property acquisition costs or expenses, taxes, contributions to the working capital fund of the Department, and security costs for the year after the year in which such estimate is submitted.
+&emsp;&emsp;(H) covering increases in the fixed costs or expenses of the Agency, including rent or property acquisition costs or expenses, taxes, contributions to the working capital fund of the Department, and security costsfor the year after the year in which such estimate is submitted.
 
 #### (c) State preparedness report
 
@@ -88,7 +88,7 @@ The Homeland Security Act of 2002, referred to in subsec. (a)(2)(E), is Pub. L. 
 
 #### Amendments
 
-2007—Subsec. (a)(2)(C). Pub. L. 110–53, §406(1), substituted “section 751 of this title, including the number and type of credentialed personnel in each category of personnel trained and ready to respond to a natural disaster, act of terrorism, or other man-made disaster” for “section 751(a) of this title”.
+<b>2007</b>—Subsec. (a)(2)(C). Pub. L. 110–53, §406(1), substituted “section 751 of this title, including the number and type of credentialed personnel in each category of personnel trained and ready to respond to a natural disaster, act of terrorism, or other man-made disaster” for “section 751(a) of this title”.
 
 Subsec. (a)(2)(E). Pub. L. 110–53, §103(a), added subpar. (E).
 

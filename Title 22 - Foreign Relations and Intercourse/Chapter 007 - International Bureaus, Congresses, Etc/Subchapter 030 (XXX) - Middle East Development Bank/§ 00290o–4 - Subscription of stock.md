@@ -12,7 +12,7 @@
 
 #### (b) Limitations on authorization of appropriations
 
-For payment by the Secretary of the Treasury of the subscription of the United States for shares described in subsection (a) of this section,there are authorized to be appropriated $1,050,007,800 without fiscal year limitation.
+For payment by the Secretary of the Treasury of the subscription of the United States for shares described in subsection (a) of this section, there are authorized to be appropriated $1,050,007,800 without fiscal year limitation.
 
 #### (c) Limitations on obligation of appropriated amounts for shares of capital stock
 

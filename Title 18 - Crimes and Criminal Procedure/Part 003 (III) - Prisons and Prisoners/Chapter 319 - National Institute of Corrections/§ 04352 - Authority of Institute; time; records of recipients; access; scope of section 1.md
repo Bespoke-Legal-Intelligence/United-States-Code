@@ -38,7 +38,7 @@
 
 (e) The provision of this section shall apply to all recipients of assistance under this title, whether by direct grant or contract from the Institute or by subgrant or subcontract from primary grantees or contractors of the Institute.
 
-(Added Pub. L. 93–415, title V, §521, Sept. 7, 1974, 88 Stat. 1140; amended Pub. L. 97–375, title I, §109(a), Dec. 21, 1982, 96 Stat. 1820; Pub. L. 101–647, title XXXV, §3599F, Nov. 29, 1990, 104 Stat. 4932; Pub. L. 111–211, title II, §261(b), July 29, 2010, 124 Stat. 2299.)
+(Added Pub. L. 93–415, title V, §521, Sept. 7, 1974, 88 Stat. 1140; amended Pub. L. 97–375, title I,§109(a), Dec. 21, 1982, 96 Stat. 1820; Pub. L. 101–647, title XXXV, §3599F, Nov. 29, 1990, 104 Stat. 4932; Pub. L. 111–211, title II, §261(b), July 29, 2010, 124 Stat. 2299.)
 
 #### Amendments
 

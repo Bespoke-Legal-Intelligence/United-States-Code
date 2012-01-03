@@ -10,7 +10,7 @@ In accordance with subchapter XII of this chapter (relating to transition provis
 
 &emsp;(4) the Federal Law Enforcement Training Center of the Department of the Treasury; and
 
-&emsp;(5) the Office for Domestic Preparedness of the Office of Justice Programs, including thefunctions of the Attorney General relating thereto.
+&emsp;(5) the Office for Domestic Preparedness of the Office of Justice Programs, including the functions of the Attorney General relating thereto.
 
 (Pub. L. 107–296, title IV, §403, Nov. 25, 2002, 116 Stat. 2178.)
 

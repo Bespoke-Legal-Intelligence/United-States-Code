@@ -66,7 +66,7 @@ Components of Program.—The program of education for which such a grant is made
 
 (h)
 
-Grant Proposals.—The Secretary of Defense, in coordination with the Director of the National Science Foundation, shall solicit from institutions of higher education in the United States (and from consortia of such institutions) proposals for grants to be made pursuant to this section for the support of programs of manufacturing engineering education that are consistent with the purposes of this section.
+Grant Proposals.—The Secretary of Defense, in coordination with the Director of theNational Science Foundation, shall solicit from institutions of higher education in the United States (and from consortia of such institutions) proposals for grants to be made pursuant to this section for the support of programs of manufacturing engineering education that are consistent with the purposes of this section.
 
 (i)
 

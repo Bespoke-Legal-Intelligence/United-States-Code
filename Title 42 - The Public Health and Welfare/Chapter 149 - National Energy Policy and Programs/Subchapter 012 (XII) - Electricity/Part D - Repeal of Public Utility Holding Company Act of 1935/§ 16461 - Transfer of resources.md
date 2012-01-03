@@ -1,6 +1,6 @@
 ### §16461. Transfer of resources
 
-All books and records that relate primarily to the functions transferred to the Commissionunder this part shall be transferred from the Securities and Exchange Commission to the Commission.
+All books and records that relate primarily to the functions transferred to the Commission under this part shall be transferred from the Securities and Exchange Commission to the Commission.
 
 (Pub. L. 109–58, title XII, §1273, Aug. 8, 2005, 119 Stat. 977.)
 

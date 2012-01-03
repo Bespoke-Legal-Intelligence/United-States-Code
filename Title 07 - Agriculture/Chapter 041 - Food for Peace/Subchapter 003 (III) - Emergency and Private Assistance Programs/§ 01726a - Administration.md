@@ -106,7 +106,7 @@ The Administrator is encouraged to finalize program agreements and resource requ
 
 #### (A) In general
 
-&emsp;&emsp;Subject to section 1722(h)(3) of this title, in addition to other funds made available to the Administrator to carry out the monitoring of emergency food assistance, the Administrator may implement this subsection using up to $22,000,000 of the funds made available under this subchapter for each of fiscal years 2009 through 2012, except for paragraph (2)(F), for which only $2,500,000 shall be made available during fiscal year 2009.
+&emsp;&emsp;Subject to section 1722(h)(3) of this title, in addition to other funds made available tothe Administrator to carry out the monitoring of emergency food assistance, the Administrator may implement this subsection using up to $22,000,000 of the funds made available under this subchapter for each of fiscal years 2009 through 2012, except for paragraph (2)(F), for which only $2,500,000 shall be made available during fiscal year 2009.
 
 #### (B) Limitations
 
@@ -136,7 +136,7 @@ The Foreign Assistance Act of 1961, referred to in subsec. (f)(6)(B)(ii), is Pub
 
 #### Amendments
 
-2008—Subsec. (a)(3). Pub. L. 110–246, §3012(1), struck out “and the conditions that must be met for the approval of such proposal” before period at end.
+<b>2008</b>—Subsec. (a)(3). Pub. L. 110–246, §3012(1), struck out “and the conditions that must be met for the approval of such proposal” before period at end.
 
 Subsec. (c)(3). Pub. L. 110–246, §3012(2), struck out par. (3). Prior to amendment, text read as follows: “Handbooks developed by the Administrator to assist in carrying out the program under this subchapter shall be designed to foster the development of programs under this subchapter by eligible organizations.”
 
@@ -150,7 +150,7 @@ Subsec. (e). Pub. L. 110–246, §3018(b), struck out par. (1) designation and s
 
 Subsecs. (f), (g). Pub. L. 110–246, §3012(4), added subsecs. (f) and (g).
 
-2002—Subsec. (a). Pub. L. 107–171, §3007(1), added pars. (1) and (2), redesignated former par. (2) as (3), and struck out heading and text of former par. (1). Text read as follows: “Not later than 45 days after the receipt by the Administrator of a proposal submitted—
+<b>2002</b>—Subsec. (a). Pub. L. 107–171, §3007(1), added pars. (1) and (2), redesignated former par. (2) as (3), and struck out heading and text of former par. (1). Text read as follows: “Not later than 45 days after the receipt by the Administrator of a proposal submitted—
 
 &emsp;“(A) by an eligible organization, with the concurrence of the appropriate United States field mission, for commodities; or
 
@@ -162,15 +162,15 @@ Subsec. (b). Pub. L. 107–171, §3007(2), substituted “guideline or annual po
 
 Subsec. (e). Pub. L. 107–171, §3007(3), added subsec. (e).
 
-1996—Subsec. (a)(1)(A), (B). Pub. L. 104–127, §207(b)(1), substituted “an eligible organization” for “a private voluntary organization or cooperative”.
+<b>1996</b>—Subsec. (a)(1)(A), (B). Pub. L. 104–127, §207(b)(1), substituted “an eligible organization” for “a private voluntary organization or cooperative”.
 
 Subsec. (b)(1). Pub. L. 104–127, §207(b)(2)(A), substituted “eligible organizations” for “private voluntary organizations and cooperatives”.
 
 Subsec. (b)(2). Pub. L. 104–127, §207(b)(2)(B), substituted “eligible organizations” for “organizations, cooperatives,”.
 
-1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions relating to requests by nonprofit voluntary agency or cooperative for nonemergency food assistance agreements, and uses of foreign currency proceeds.
+<b>1990</b>—Pub. L. 101–624 amended section generally, substituting present provisions for provisions relating to requests by nonprofit voluntary agency or cooperative for nonemergency food assistance agreements, and uses of foreign currency proceeds.
 
-1987—Subsec. (a). Pub. L. 100–202, §14(1), inserted “or cooperative” after “agency”.
+<b>1987</b>—Subsec. (a). Pub. L. 100–202, §14(1), inserted “or cooperative” after “agency”.
 
 Subsec. (b). Pub. L. 100–202, §14(2), substituted “10 percent” for “5 percent”.
 

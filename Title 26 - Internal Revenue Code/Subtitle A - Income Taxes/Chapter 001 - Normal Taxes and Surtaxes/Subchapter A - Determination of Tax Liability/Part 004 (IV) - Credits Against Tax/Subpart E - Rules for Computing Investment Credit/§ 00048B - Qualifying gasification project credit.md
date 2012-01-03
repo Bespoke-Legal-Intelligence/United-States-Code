@@ -130,7 +130,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) give highest priority to projects with the greatest separation and sequestration percentage of total carbon dioxide emissions, and
 
-&emsp;&emsp;(B) give high priority to applicant participants who have a research partnership withan eligible educational institution (as defined in section 529(e)(5)).
+&emsp;&emsp;(B) give high priority to applicant participants who have a research partnership with an eligible educational institution (as defined in section 529(e)(5)).
 
 #### (e) Denial of double benefit
 

@@ -78,9 +78,9 @@ As used in this chapter—
 
 #### Amendments
 
-2002—Par. (5)(A)(ii) to (vi). Pub. L. 107–171 added cls. (ii) to (vi) and struck out former cl. (ii) which read as follows: “is unjustifiable, unreasonable, or discriminatory and burdens or restricts United States commerce.”
+<b>2002</b>—Par. (5)(A)(ii) to (vi). Pub. L. 107–171 added cls. (ii) to (vi) and struck out former cl. (ii) which read as follows: “is unjustifiable, unreasonable, or discriminatory and burdens or restricts United States commerce.”
 
-1996—Par. (7). Pub. L. 104–127 added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
+<b>1996</b>—Par. (7). Pub. L. 104–127 added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
 
 “(A) with respect to any agricultural commodity other than a product of an agricultural commodity, an agricultural commodity entirely produced in the United States; and
 
@@ -96,7 +96,7 @@ As used in this chapter—
 
 &emsp;&emsp;“(III) there is no acceptable substitute for such component that is commercially produced in the United States.”
 
-1992—Par. (1). Pub. L. 102–511, §702(a), substituted “feed, fiber, or livestock (including livestock as it is defined in section 1471(2) of this title and insects)” for “feed, or fiber”.
+<b>1992</b>—Par. (1). Pub. L. 102–511, §702(a), substituted “feed, fiber, or livestock (including livestock as it is defined in section 1471(2) of this title and insects)” for “feed, or fiber”.
 
 Par. (8). Pub. L. 102–511, §702(b), added par. (8).
 

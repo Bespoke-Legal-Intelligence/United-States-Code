@@ -30,7 +30,7 @@ The Administrator shall establish in the Environmental Protection Agency an iden
 
 #### (e) Financial disclosures
 
-(1) Except as provided under paragraph (3), each officer or employee of the EnvironmentalProtection Agency and the Department of Health and Human Services who—
+(1) Except as provided under paragraph (3), each officer or employee of the Environmental Protection Agency and the Department of Health and Human Services who—
 
 &emsp;(A) performs any function or duty under this chapter, and
 

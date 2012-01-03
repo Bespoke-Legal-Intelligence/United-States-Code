@@ -6,7 +6,7 @@ In any case on or after June 15, 1994, in which a vessel of the United States ex
 
 #### (b) Documentation
 
-In seeking such reimbursement, the vessel owner shall provide, together with such otherinformation as the Secretary of State may require—
+In seeking such reimbursement, the vessel owner shall provide, together with such other information as the Secretary of State may require—
 
 &emsp;(1) a copy of the receipt for payment;
 

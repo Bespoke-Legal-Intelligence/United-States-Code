@@ -52,7 +52,7 @@ The Secretary of Education (referred to in this section as the “Secretary”),
 
 #### (1) In general
 
-&emsp;Under the program under subsection (a), the Secretary may award scholarships to fully or partially pay the tuition costs of eligible individuals enrolled in undergraduate bachelor's degree, masters degree, and Ph.D. degree programs at accredited colleges or universities that provide the skills needed to augment and advance research in mine safety and to broaden, improve, and expand the universe of candidates for mine safety inspector and other regulatory positions in the Mine Safety and Health Administration.
+&emsp;Under the program under subsection (a), the Secretary may award scholarships to fully orpartially pay the tuition costs of eligible individuals enrolled in undergraduate bachelor's degree, masters degree, and Ph.D. degree programs at accredited colleges or universities that provide the skills needed to augment and advance research in mine safety and to broaden, improve, and expand the universe of candidates for mine safety inspector and other regulatory positions in the Mine Safety and Health Administration.
 
 #### (2) Skills
 

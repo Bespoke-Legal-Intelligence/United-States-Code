@@ -46,7 +46,7 @@ Pub. L. 93–383, title VI, §627, formerly §628, Aug. 22, 1974, 88 Stat. 714, 
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–569, title VI, §601(a), Dec. 27, 2000, 114 Stat. 2997, provided that: “This title \[amending this section and sections 5402 to 5404, 5406, 5407, 5409, 5412 to 5415, 5419, 5422, and 5426 of this title, repealing section 5425 of this title, and enacting and amending provisions set out as notes under this section\] may be cited as the ‘Manufactured Housing Improvement Act of 2000’.”
+Pub. L. 106–569, title VI, §601(a), Dec. 27, 2000, 114 Stat. 2997, provided that: “This title \[amending this section and sections 5402 to 5404, 5406, 5407, 5409, 5412 to 5415,5419, 5422, and 5426 of this title, repealing section 5425 of this title, and enacting and amending provisions set out as notes under this section\] may be cited as the ‘Manufactured Housing Improvement Act of 2000’.”
 
 #### Short Title
 

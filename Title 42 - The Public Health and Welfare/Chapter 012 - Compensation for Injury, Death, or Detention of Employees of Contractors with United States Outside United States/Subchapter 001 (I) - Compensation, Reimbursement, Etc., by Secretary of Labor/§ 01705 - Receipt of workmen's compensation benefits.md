@@ -20,7 +20,7 @@ Where a national of a foreign government is entitled to benefits on account of i
 
 #### (e) Receipt of benefits for prior accident or disease
 
-If at the time a person sustains an injury coming within the purview of this subchapter saidperson is receiving workmen's compensation benefits on account of a prior accident or disease, said person shall not be entitled to any benefits under this subchapter during the period covered by such workmen's compensation benefits unless the injury from a war-risk hazard increases his disability, and then only to the extent such disability has been so increased.
+If at the time a person sustains an injury coming within the purview of this subchapter said person is receiving workmen's compensation benefits on account of a prior accident or disease, said person shall not be entitled to any benefits under this subchapter during the period covered by such workmen's compensation benefits unless the injury from a war-risk hazard increases his disability, and then only to the extent such disability has been so increased.
 
 (Dec. 2, 1942, ch. 668, title I, §105, 56 Stat. 1032; Dec. 23, 1943, ch. 380, title I, 57 Stat. 627.)
 

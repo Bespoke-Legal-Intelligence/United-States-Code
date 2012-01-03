@@ -154,7 +154,7 @@ No effect on authority or restrictions.—Nothing in this subsection modifies or
 
 (g)
 
-Interagency Consultation.—The Secretary shall encourage States and metropolitan planning organizations to consult with State and local air quality agencies in nonattainment and maintenance areas on the estimated emission reductions from proposed congestion mitigation and air quality improvement programs and projects.
+Interagency Consultation.—The Secretary shall encourage States and metropolitanplanning organizations to consult with State and local air quality agencies in nonattainment and maintenance areas on the estimated emission reductions from proposed congestion mitigation and air quality improvement programs and projects.
 
 (h)
 
@@ -338,7 +338,7 @@ In general.—There are authorized to be appropriated to the Secretary from the 
 
 &emsp;“(B)
 
-Set-aside for projects not involving highway tolls.—Of the amounts made available to carry out this subsection, $3,000,000 for each of fiscal years2006 through 2009 shall be available only for congestion pricing pilot projects that do not involve highway tolls.
+Set-aside for projects not involving highway tolls.—Of the amounts made available to carry out this subsection, $3,000,000 for each of fiscal years 2006 through 2009 shall be available only for congestion pricing pilot projects that do not involve highway tolls.
 
 &emsp;“(C)
 

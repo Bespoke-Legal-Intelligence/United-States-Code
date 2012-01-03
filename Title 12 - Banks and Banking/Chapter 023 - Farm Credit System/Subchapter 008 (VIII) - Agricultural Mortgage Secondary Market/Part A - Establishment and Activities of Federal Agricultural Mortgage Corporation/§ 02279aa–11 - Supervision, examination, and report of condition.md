@@ -30,7 +30,7 @@
 
 &emsp;(B) The Farm Credit Administration Board shall carry out the authority set forth in this section through the Office of Secondary Market Oversight.
 
-&emsp;(C) The Office of Secondary Market Oversight shall be managed by a full-time Directorwho shall be selected by and report to the Farm Credit Administration Board.
+&emsp;(C) The Office of Secondary Market Oversight shall be managed by a full-time Director who shall be selected by and report to the Farm Credit Administration Board.
 
 #### (b) Examinations and audits
 
@@ -74,11 +74,11 @@ The Farm Credit Administration Board shall ensure that—
 
 #### Amendments
 
-1996—Subsec. (e). Pub. L. 104–105 substituted “section 2279aa(7) of this title” for “paragraphs (3) and (7), respectively, of section 2279aa of this title” and struck out “a certified facility or” before “an originator”.
+<b>1996</b>—Subsec. (e). Pub. L. 104–105 substituted “section 2279aa(7) of this title” for “paragraphs (3) and (7), respectively, of section 2279aa of this title” and struck out “a certified facility or” before “an originator”.
 
-1992—Subsec. (a)(1)(B)(ii). Pub. L. 102–552 substituted “December 13, 1991” for “the date of enactment of this section”.
+<b>1992</b>—Subsec. (a)(1)(B)(ii). Pub. L. 102–552 substituted “December 13, 1991” for “the date of enactment of this section”.
 
-1991—Subsec. (a)(1). Pub. L. 102–237, §503(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Notwithstanding any other provision of this chapter, the Farm Credit Administration shall have the authority to—
+<b>1991</b>—Subsec. (a)(1). Pub. L. 102–237, §503(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Notwithstanding any other provision of this chapter, the Farm Credit Administration shall have the authority to—
 
 &emsp;“(A) provide for the examination of the condition of the Corporation and its affiliates; and
 
@@ -88,11 +88,11 @@ Subsec. (a)(3). Pub. L. 102–237, §503(a)(2), added par. (3).
 
 Subsec. (f). Pub. L. 102–237, §503(a)(3), added subsec. (f).
 
-1990—Subsec. (a)(1). Pub. L. 101–624, §1840(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Notwithstanding any other provision of this chapter, the regulatory authority of the Farm Credit Administration with respect to the Corporation shall be confined to—
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–624, §1840(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Notwithstanding any other provision of this chapter, the regulatory authority of the Farm Credit Administration with respect to the Corporation shall be confined to—
 
 &emsp;“(A) providing for the examination of the condition of the Corporation; and
 
-&emsp;“(B) providing for the general supervision of the safe and sound performance of the powers, functions, and duties vested in the Corporation by this subchapter, including through the use of the enforcement powers of the Farm Credit Administration under part C of subchapter V of this chapter.”
+&emsp;“(B) providing for the general supervision of the safe and sound performance of the powers, functions,and duties vested in the Corporation by this subchapter, including through the use of the enforcement powers of the Farm Credit Administration under part C of subchapter V of this chapter.”
 
 Subsec. (e). Pub. L. 101–624, §1840(2), added subsec. (e).
 

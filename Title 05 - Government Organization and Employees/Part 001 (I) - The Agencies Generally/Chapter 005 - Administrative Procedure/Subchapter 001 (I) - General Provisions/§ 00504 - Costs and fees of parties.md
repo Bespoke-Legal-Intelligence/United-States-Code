@@ -44,9 +44,9 @@ Section 7430 of the Internal Revenue Code of 1986, referred to in subsec. (f), i
 
 #### Amendments
 
-2011—Subsec. (b)(1)(C)(ii). Pub. L. 111–350 substituted “section 7103 of title 41” for “section 6 of the Contract Disputes Act of 1978 (41 U.S.C. 605)” and “section 7105 of title 41” for “section 8 of that Act (41 U.S.C. 607)”.
+<b>2011</b>—Subsec. (b)(1)(C)(ii). Pub. L. 111–350 substituted “section 7103 of title 41” for “section 6 of the Contract Disputes Act of 1978 (41 U.S.C. 605)” and “section 7105 of title 41” for “section 8 of that Act (41 U.S.C. 607)”.
 
-1996—Subsec. (a)(4). Pub. L. 104–121, §231(a), added par. (4).
+<b>1996</b>—Subsec. (a)(4). Pub. L. 104–121, §231(a), added par. (4).
 
 Subsec. (b)(1)(A)(ii). Pub. L. 104–121, §231(b)(1), substituted “$125” for “$75”.
 
@@ -54,15 +54,15 @@ Subsec. (b)(1)(B). Pub. L. 104–121, §231(b)(2), inserted before semicolon at 
 
 Subsec. (b)(1)(F). Pub. L. 104–121, §231(b)(3)–(5), added subpar. (F).
 
-1993—Subsec. (b)(1)(C). Pub. L. 103–141 added cl. (iv).
+<b>1993</b>—Subsec. (b)(1)(C). Pub. L. 103–141 added cl. (iv).
 
-1988—Subsec. (f). Pub. L. 100–647 added subsec. (f).
+<b>1988</b>—Subsec. (f). Pub. L. 100–647 added subsec. (f).
 
-1986—Subsec. (b)(1)(B). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Subsec. (b)(1)(B). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
 Subsec. (b)(1)(C)(iii). Pub. L. 99–509 added cl. (iii).
 
-1985—Subsec. (a)(1). Pub. L. 99–80, §1(a)(1), (2), struck out “as a party to the proceeding” after “the position of the agency”, and inserted “Whether or not the position of the agency was substantially justified shall be determined on the basis of the administrative record, as a whole, which is made in the adversary adjudication for which fees and other expenses are sought.”
+<b>1985</b>—Subsec. (a)(1). Pub. L. 99–80, §1(a)(1), (2), struck out “as a party to the proceeding” after “the position of the agency”, and inserted “Whether or not the position of the agency was substantially justified shall be determined on the basis of the administrative record, as a whole, which is made in the adversary adjudication for which fees and other expenses are sought.”
 
 Subsec. (a)(2). Pub. L. 99–80, §1(b), inserted “When the United States appeals the underlying merits of an adversary adjudication, no decision on an application for fees and other expenses in connection with that adversary adjudication shall be made under this section until a final and unreviewable decision is rendered by the court on the appeal or until the underlying merits of the case have been finally determined pursuant to the appeal.”
 
@@ -82,7 +82,7 @@ Subsec. (d). Pub. L. 99–80, §1(e), amended subsec. (d) generally. Prior to am
 
 “(2) There is authorized to be appropriated to each agency for each of the fiscal years 1982, 1983, and 1984, such sums as may be necessary to pay fees and other expenses awarded under this section in such fiscal years.”
 
-1980—Pub. L. 96–481, §203(c), which provided for the repeal of this section effective Oct. 1, 1984, was itself repealed and this section was revived by section 6 of Pub. L. 99–80, set out as a note below.
+<b>1980</b>—Pub. L. 96–481, §203(c), which provided for the repeal of this section effective Oct. 1, 1984, was itself repealed and this section was revived by section 6 of Pub. L. 99–80, set out as a note below.
 
 #### Effective Date of 1996 Amendment
 

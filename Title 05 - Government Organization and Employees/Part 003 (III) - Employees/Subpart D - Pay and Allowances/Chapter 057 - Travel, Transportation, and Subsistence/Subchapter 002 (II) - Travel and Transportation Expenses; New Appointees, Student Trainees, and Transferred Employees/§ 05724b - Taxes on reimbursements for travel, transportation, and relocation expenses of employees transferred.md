@@ -12,9 +12,9 @@ Prior to amendment by Pub. L. 98–473, the words “as the case may be” were 
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–201 substituted “Under regulations prescribed under section 5738 of this title” for “Under such regulations as the President may prescribe”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–201 substituted “Under regulations prescribed under section 5738 of this title” for “Under such regulations as the President may prescribe”.
 
-1984—Pub. L. 98–473 amended section generally, substituting “reimbursement of substantially all of the Federal, State, and local income taxes” for “reimbursement of all or part of the Federal, State, and city income taxes” and “for which the employee and spouse, as the case may be” for “for which the employee, or the employee and spouse, as the case may be” in subsec. (a) and “5724c” for “5726(c)” in subsec. (b).
+<b>1984</b>—Pub. L. 98–473 amended section generally, substituting “reimbursement of substantially all of the Federal, State, and local income taxes” for “reimbursement of all or part of the Federal, State, and city income taxes” and “for which the employee and spouse, as the case may be” for “for which the employee, or the employee and spouse, as the case may be” in subsec. (a) and “5724c” for “5726(c)” in subsec. (b).
 
 #### Effective Date of 1996 Amendment
 

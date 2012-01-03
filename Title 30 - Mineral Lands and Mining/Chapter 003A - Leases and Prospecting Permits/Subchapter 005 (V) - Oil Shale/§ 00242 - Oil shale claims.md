@@ -6,7 +6,7 @@ Notwithstanding any other provision of law, within 60 days from October 24, 1992
 
 #### (b) Full patent
 
-The holder of a valid oil shale mining claim who has filed a patent application and received first half final certificate for patent by October24, 1992, may obtain a patent pursuant to the general mining laws of the United States.
+The holder of a valid oil shale mining claim who has filed a patent application and received first half final certificate for patent by October 24, 1992, may obtain a patent pursuant to the general mining laws of the United States.
 
 #### (c) Patent
 
@@ -44,7 +44,7 @@ In addition to other applicable requirements, any person who holds a limited pat
 
 #### (g) Reaffirmation of requirements
 
-Without comment on the adequacy of current or former standards for determining validity of oil shale claims, Congress reaffirms the requirements of law that a patent may issue only to persons who hold valid claims and the need for careful review of any applications.
+Without comment on the adequacy of current or former standards for determining validity of oil shale claims, Congress reaffirms the requirements of law that a patent may issue only topersons who hold valid claims and the need for careful review of any applications.
 
 #### (h) Issuance of patents
 
@@ -54,7 +54,7 @@ Notwithstanding any other provision of law, with respect to any oil shale mining
 
 #### References in Text
 
-This Act, referred to in subsec. (a), is Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2776, known as the Energy Policy Act of 1992. For complete classification of this Act tothe Code, see Short Title note set out under section 13201 of Title 42, The Public Health and Welfare, and Tables.
+This Act, referred to in subsec. (a), is Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2776, known as the Energy Policy Act of 1992. For complete classification of this Act to the Code, see Short Title note set out under section 13201 of Title 42, The Public Health and Welfare, and Tables.
 
 #### Codification
 

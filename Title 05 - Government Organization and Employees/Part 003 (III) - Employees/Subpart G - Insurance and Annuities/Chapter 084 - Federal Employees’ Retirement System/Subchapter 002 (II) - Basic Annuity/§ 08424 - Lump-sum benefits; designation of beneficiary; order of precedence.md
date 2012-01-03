@@ -68,9 +68,9 @@
 
 #### Amendments
 
-2009—Subsec. (a). Pub. L. 111–84 substituted “based, until the employee or Member is reemployed in the service subject to this chapter.” for “based.” in concluding provisions.
+<b>2009</b>—Subsec. (a). Pub. L. 111–84 substituted “based, until the employee or Member is reemployed in the service subject to this chapter.” for “based.” in concluding provisions.
 
-2000—Subsec. (b)(1). Pub. L. 106–361 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Payment of the lump-sum credit under subsection (a)—
+<b>2000</b>—Subsec. (b)(1). Pub. L. 106–361 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Payment of the lump-sum credit under subsection (a)—
 
 &emsp;“(A) may be made only if any current spouse and any former spouse of the employee or Member are notified of the application by the employee or Member; and
 

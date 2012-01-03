@@ -232,7 +232,7 @@ In subsection (d)(3), the word “both” in 49 App.:1303(c) is omitted as surpl
 
 In subsection (d)(5), the word “both” in 49 App.:1303(e) is omitted as surplus.
 
-In subsection (e), before clause (1), the words “the Congress intends that” are omitted as surplus. In clauses (1) and (4), the words “United States” are omitted as surplus because of the definition of “air carrier” in section 40102(a) of the revised title. In clause (2), the word “prices” is substituted for “fares and rates” because of the definition of “price” in section 40102(a). In clause (8), the words “places in the United States” are substituted for “United States points” for consistency in this chapter. The word “air” is added for clarity and consistency in this subtitle. In clause (9)(C), the word “unreasonable” is substituted for “undue” for consistency in the revised title and with other titles of the United States Code.
+In subsection (e), before clause (1), the words “the Congress intends that” are omitted as surplus. Inclauses (1) and (4), the words “United States” are omitted as surplus because of the definition of “air carrier” in section 40102(a) of the revised title. In clause (2), the word “prices” is substituted for “fares and rates” because of the definition of “price” in section 40102(a). In clause (8), the words “places in the United States” are substituted for “United States points” for consistency in this chapter. The word “air” is added for clarity and consistency in this subtitle. In clause (9)(C), the word “unreasonable” is substituted for “undue” for consistency in the revised title and with other titles of the United States Code.
 
 #### Amendments
 
@@ -254,6 +254,10 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
+#### Short Title of 2012 Amendment
+
+Pub. L. 112–86, §1, Jan. 3, 2012, 125 Stat. 1874, provided that: “This Act \[amending section 44903 of this title and enacting provisions set out as a note under section 44903 of this title\] may be cited as the ‘Risk-Based Security Screening for Members of the Armed Forces Act’.”
+
 #### Short Title of 2010 Amendment
 
 Pub. L. 111–216, §1, Aug. 1, 2010, 124 Stat. 2348, provided that: “This Act \[amending sections 106, 1135, 40117, 41712, 44302, 44303, 44703, 47104, 47107, 47115, 47141, 48101, 48102, and 49108 of this title and sections 4081, 4261, 4271, and 9502 of Title 26, Internal Revenue Code, enacting provisions set out as notes under sections 40117 and 44701 of this title and sections 4081 and 9502 of Title 26, and amending provisions set out as a note under section 47109 of this title\] may be cited as the ‘Airline Safety and Federal Aviation Administration Extension Act of 2010’.”
@@ -270,7 +274,7 @@ Pub. L. 108–297, §1, Aug. 9, 2004, 118 Stat. 1095, provided that: “This Act
 
 #### Short Title of 2003 Amendment
 
-Pub. L. 108–176, §1(a), Dec. 12, 2003, 117 Stat. 2490, provided that: “This Act \[see Tables for classification\]may be cited as the ‘Vision 100—Century of Aviation Reauthorization Act’.”
+Pub. L. 108–176, §1(a), Dec. 12, 2003, 117 Stat. 2490, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Vision 100—Century of Aviation Reauthorization Act’.”
 
 Pub. L. 108–176, title III, §301, Dec. 12, 2003, 117 Stat. 2533, provided that: “This title \[enacting subchapter III of chapter 471 of this title, amending sections 40104, 40128, 47106, 47503, and 47504 of this title, and enacting provisions set out as notes under this section and sections 40128, 47171, 47503, and 47508 of this title\] may be cited as ‘Aviation Streamlining Approval Process Act of 2003’.”
 
@@ -304,7 +308,7 @@ Pub. L. 105–137, §1, Dec. 2, 1997, 111 Stat. 2640, provided that: “This Act
 
 Section 1(a) of Pub. L. 104–264 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Federal Aviation Reauthorization Act of 1996’.”
 
-Section 201 of title II of Pub. L. 104–264 provided that: “This title \[enacting sections 40121, 40122, 45301, 45303, 48111, and 48201 of this title, amending sections 106 and 41742 of this title, renumbering section 45303 of this title as section 45304, repealing former section 45301 of this title, and enacting provisions set out as notes under this section and sections 106, 40110, and 41742 of this title\] may be cited as the ‘Air Traffic Management System Performance Improvement Act of 1996’.”
+Section 201 of title II of Pub. L. 104–264 provided that: “This title \[enacting sections 40121, 40122, 45301, 45303, 48111, and 48201 of this title, amending sections 106 and41742 of this title, renumbering section 45303 of this title as section 45304, repealing former section 45301 of this title, and enacting provisions set out as notes under this section and sections 106, 40110, and 41742 of this title\] may be cited as the ‘Air Traffic Management System Performance Improvement Act of 1996’.”
 
 Section 278(a) of Pub. L. 104–264 provided that: “This section \[amending section 41742 of this title and enacting provisions set out as a note under section 41742 of this title\] may be cited as the ‘Rural Air Service Survival Act’.”
 
@@ -324,6 +328,64 @@ Pub. L. 103–305, §1(a), Aug. 23, 1994, 108 Stat. 1569, provided that: “This
 
 Pub. L. 103–305, title III, §301, Aug. 23, 1994, 108 Stat. 1589, provided that: “This title \[enacting section 47509 of this title, amending sections 44505 and 48102 of this title, and enacting provisions set out as notes under this section and section 49101 of this title\] may be cited as the ‘Federal Aviation Administration Research, Engineering, and Development Authorization Act of 1994’.”
 
+#### Unmanned Aerial Systems and National Airspace
+
+Pub. L. 112–81, div. A, title X, §1097, Dec. 31, 2011, 125 Stat. 1608, provided that:
+
+“(a)
+
+Establishment.—Not later than 180 days after the date of the enactment of this Act \[Dec. 31, 2011\], the Administrator of the Federal Aviation Administration shall establish a program to integrate unmanned aircraft systems into the national airspace system at six test ranges.
+
+“(b)
+
+Program Requirements.—In establishing the program under subsection (a), the Administrator shall—
+
+&emsp;“(1) safely designate nonexclusionary airspace for integrated manned and unmanned flight operations in the national airspace system;
+
+&emsp;“(2) develop certification standards and air traffic requirements for unmanned flight operations at test ranges;
+
+&emsp;“(3) coordinate with and leverage the resources of the Department of Defense and the National Aeronautics and Space Administration;
+
+&emsp;“(4) address both civil and public unmanned aircraft systems;
+
+&emsp;“(5) ensure that the program is coordinated with the Next Generation Air Transportation System; and
+
+&emsp;“(6) provide for verification of the safety of unmanned aircraft systems and related navigation procedures before integration into the national airspace system.
+
+“(c)
+
+Locations.—In determining the location of a test range for the program under subsection (a), the Administrator shall—
+
+&emsp;“(1) take into consideration geographic and climatic diversity;
+
+&emsp;“(2) take into consideration the location of ground infrastructure and research needs; and
+
+&emsp;“(3) consult with the Department of Defense and the National Aeronautics and Space Administration.
+
+“(d)
+
+Test Range Operation.—A project at a test range shall be operational not later than 180 days after the date on which the project is established.
+
+“(e)
+
+Report.—Not later than 90 days after the date of completing each of the pilot projects, the Administrator shall submit to the appropriate congressional committees a report setting forth the Administrator's findings and conclusions concerning the projects that includes a description and assessment of the progress being made in establishing special use airspace to fill the immediate need of the Department of Defense to develop detection techniques for small unmanned aircraft systems and to validate sensor integration and operation of unmanned aircraft systems.
+
+“(f)
+
+Duration.—The program under subsection (a) shall terminate on the date that is five years after the date of the enactment of this Act \[Dec. 31, 2011\].
+
+“(g)
+
+Definition.—In this section:
+
+&emsp;“(1) The term ‘appropriate congressional committees’ means—
+
+&emsp;&emsp;“(A) the Committee on Armed Services, the Committee on Transportation and Infrastructure, and the Committee on Science, Space, and Technology of the House of Representatives; and
+
+&emsp;&emsp;“(B) the Committee on Armed Services and the Committee on Commerce, Science, and Transportation of the Senate.
+
+&emsp;“(2) The term ‘test range’ means a defined geographic area where research and development are conducted.”
+
 #### Findings
 
 Pub. L. 110–113, §2, Nov. 8, 2007, 121 Stat. 1039, provided that: “Congress finds the following:
@@ -332,7 +394,7 @@ Pub. L. 110–113, §2, Nov. 8, 2007, 121 Stat. 1039, provided that: “Congress
 
 &emsp;“(2) Rules 45(b)(2) and 45(c)(3)(A)(ii) of the Federal Rules of Civil Procedure \[28 U.S.C. App.\] effectively limit service of a subpoena to any place within, or within 100 miles of, the district of the court by which it is issued, unless a statute of the United States expressly provides that the court, upon proper application and cause shown, may authorize the service of a subpoena at any other place.
 
-&emsp;“(3) Litigating a Federal cause of action under the September 11 Victims Compensation Fund of 2001 is likely to involve the testimony and the production of other documents and tangible things by a substantialnumber of witnesses, many of whom may not reside, be employed, or regularly transact business in, or within 100 miles of, the Southern District of New York.”
+&emsp;“(3) Litigating a Federal cause of action under the September 11 Victims Compensation Fund of 2001 is likely to involve the testimony and the production of other documents and tangible things by a substantial number of witnesses, many of whom may not reside, be employed, or regularly transact business in, or within 100 miles of, the Southern District of New York.”
 
 #### Revitalization of Aviation and Aeronautics
 
@@ -470,7 +532,7 @@ Goals.—The Next Generation Air Transportation System shall—
 
 “(d)
 
-Reports.—The Administrator of the Federal Aviation Administration shall transmit to the Committee on Commerce, Science, and Transportation in the Senate and the Committee on Transportation and Infrastructure and the Committee on Science \[now Committee on Science and Technology\] in the House of Representatives—
+Reports.—The Administrator of the Federal Aviation Administration shall transmit to the Committee on Commerce, Science, and Transportation in the Senate and the Committee on Transportation and Infrastructure and the Committee on Science \[now Committee on Science, Space, and Technology\] in the House of Representatives—
 
 &emsp;“(1) not later than 1 year after the date of enactment of this Act \[Dec. 12, 2003\], the integrated plan required in subsection (b); and
 
@@ -530,7 +592,7 @@ Pub. L. 108–176, title VIII, §817, Dec. 12, 2003, 117 Stat. 2592, provided th
 
 “(a)
 
-In General.—The Secretary of Transportation may make grants to reimburse the following general aviation entities for the security costs incurred andrevenue foregone as a result of the restrictions imposed by the Federal Government following the terrorist attacks on the United States that occurred on September 11, 2001:
+In General.—The Secretary of Transportation may make grants to reimburse the following general aviation entities for the security costs incurred and revenue foregone as a result of the restrictions imposed by the Federal Government following the terrorist attacks on the United States that occurred on September 11, 2001:
 
 &emsp;“(1) General aviation entities that operate at Ronald Reagan Washington National Airport.
 
@@ -610,9 +672,11 @@ Pub. L. 107–71, title I, §145, Nov. 19, 2001, 115 Stat. 645, as amended by Pu
 
 #### Relationship of Eligible Crime Victim Compensation Programs to September 11th Victim Compensation Fund
 
-Pub. L. 107–56, title VI, §622(e)(2), Oct. 26, 2001, 115 Stat. 372, provided that: “With respect to any compensation payable under title IV of Public Law 107–42 \[set out as a note below\], the failure of a crime victim compensation program, after the effective date of final regulations issued pursuant to section 407 of Public Law 107–42, to provide compensation otherwise required pursuant to section 1403 of the Victims of Crime Act of1984 (42 U.S.C. 10602) shall not render that program ineligible for future grants under the Victims of Crime Act of 1984 \[42 U.S.C. 10601 et seq.\].”
+Pub. L. 107–56, title VI, §622(e)(2), Oct. 26, 2001, 115 Stat. 372, provided that: “With respect to any compensation payable under title IV of Public Law 107–42 \[set out as a note below\], the failure of a crime victim compensation program, after the effective date of final regulations issued pursuant to section 407 of Public Law 107–42, to provide compensation otherwise required pursuant to section 1403 of the Victims of Crime Act of 1984 (42 U.S.C. 10602) shall not render that program ineligible for future grants under the Victims of Crime Act of 1984 \[42 U.S.C. 10601 et seq.\].”
 
 #### Air Transportation Safety and System Stabilization
+
+Pub. L. 112–10, div. B, title III, §1347, Apr. 15, 2011, 125 Stat. 124, provided that: “Notwithstanding any otherprovision of law, in fiscal year 2012 and thereafter payments for costs described in subsection (a) of section 404 of Public Law 107–42, as amended \[set out below\], shall be considered to be, and included in, payments for compensation for the purposes of sections 406(b) and (d)(1) of such Act.”
 
 Pub. L. 107–42, Sept. 22, 2001, 115 Stat. 230, as amended by Pub. L. 107–71, title I, §124(a), (c), (d), title II, §201, Nov. 19, 2001, 115 Stat. 631, 645; Pub. L. 107–134, title I, §114(a), Jan. 23, 2002, 115 Stat. 2435; Pub. L. 107–296, title VIII, §890, title XII, §1201(2), Nov. 25, 2002, 116 Stat. 2251, 2286; Pub. L. 110–113, §3, Nov. 8, 2007, 121 Stat. 1039; Pub. L. 110–161, div. D, title I, Dec. 26, 2007, 121 Stat. 1974; Pub. L. 111–347, title II, Jan. 2, 2011, 124 Stat. 3659, provided that:
 

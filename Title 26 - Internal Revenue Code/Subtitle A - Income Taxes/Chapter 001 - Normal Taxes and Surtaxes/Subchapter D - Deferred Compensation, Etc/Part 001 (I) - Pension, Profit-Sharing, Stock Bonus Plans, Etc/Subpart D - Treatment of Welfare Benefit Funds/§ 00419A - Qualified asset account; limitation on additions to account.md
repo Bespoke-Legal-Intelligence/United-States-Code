@@ -82,7 +82,7 @@ For purposes of this section—
 
 #### (iv) Long-term disability or life insurance benefits
 
-&emsp;&emsp;&emsp;In the case of any long-term disability benefit or life insurance benefit, the safe harbor limit for any taxable year shall be the amount prescribed by regulations.
+&emsp;&emsp;&emsp;In the case of any long-term disability benefit or life insurance benefit, the safeharbor limit for any taxable year shall be the amount prescribed by regulations.
 
 #### (6) Additional reserve for medical benefits of bona fide association plans
 
@@ -170,7 +170,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;This subpart shall not apply in the case of any welfare benefit fund which is part of a 10 or more employer plan. The preceding sentence shall not apply to any plan which maintains experience-rating arrangements with respect to individual employers.
+&emsp;&emsp;This subpart shall not apply in the case of any welfare benefit fund which is part of a 10 or more employer plan. The preceding sentence shall not apply to any plan whichmaintains experience-rating arrangements with respect to individual employers.
 
 #### (B) 10 or more employer plan
 
@@ -306,7 +306,7 @@ Pub. L. 99–514, §1851(a)(4), which directed amendment of par. (5) by substitu
 
 Subsec. (f)(7)(C), (D). Pub. L. 99–514, §1851(a)(7), added subpars. (C) and (D) and struck out former subpar. (C) which read as follows: “For purposes of this paragraph, the term ‘existing excess reserve’ means the excess (if any) of—
 
-&emsp;“(i) the amount of assets set aside for purposes described in subsection (a) as of the close of the firsttaxable year ending after the date of the enactment of the Tax Reform Act of 1984, over
+&emsp;“(i) the amount of assets set aside for purposes described in subsection (a) as of the close of the first taxable year ending after the date of the enactment of the Tax Reform Act of 1984, over
 
 &emsp;“(ii) the account limit which would have applied under this section to such taxable year if this section had applied to such taxable year.”
 

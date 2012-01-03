@@ -12,7 +12,7 @@
 
 &emsp;(2) a fraction which is 1 minus a fraction—
 
-&emsp;&emsp;(A) the numerator of which is the employer's contribution base units for the plan yearfollowing the plan year in which the partial withdrawal occurs, and
+&emsp;&emsp;(A) the numerator of which is the employer's contribution base units for the plan year following the plan year in which the partial withdrawal occurs, and
 
 &emsp;&emsp;(B) the denominator of which is the average of the employer's contribution base units for—
 

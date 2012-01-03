@@ -128,7 +128,7 @@ In carrying out subsection (a) of this section, the Administrator, in cooperatio
 
 #### (g) Pollution prevention and emissions control
 
-In carrying out subsection (a) of this section, the Administrator shall conduct a basic engineering research and technology program to develop, evaluate, and demonstrate nonregulatory strategies and technologies for air pollution prevention. Such strategies and technologies shall be developed with priority on those pollutants which pose a significant risk to human health and the environment, and with opportunities for participation by industry, public interest groups, scientists, and other interested persons in the development of such strategies and technologies. Such program shall include the following elements:
+In carrying out subsection (a) of this section, the Administrator shall conduct a basic engineering research and technology program to develop, evaluate, and demonstrate nonregulatory strategies and technologies for air pollution prevention. Such strategies and technologies shall be developed with priority on those pollutants which pose a significant risk to human health and the environment, and with opportunities for participation by industry, public interestgroups, scientists, and other interested persons in the development of such strategies and technologies. Such program shall include the following elements:
 
 &emsp;(1) Improvements in nonregulatory strategies and technologies for preventing or reducing multiple air pollutants, including sulfur oxides, nitrogen oxides, heavy metals, PM–10 (particulate matter), carbon monoxide, and carbon dioxide, from stationary sources, including fossil fuel power plants. Such strategies and technologies shall include improvements in the relative cost effectiveness and long-range implications of various air pollutant reduction and nonregulatory control strategies such as energy conservation, including end-use efficiency, and fuel-switching to cleaner fuels. Such strategies and technologies shall be considered for existing and new facilities.
 
@@ -176,7 +176,7 @@ The Administrator shall develop and implement a plan for identifying areas in wh
 
 &emsp;&emsp;(i) continuous monitoring of emissions of precursors of acid deposition;
 
-&emsp;&emsp;(ii) maintenance, upgrading, and application of models, such as the Regional Acid Deposition Model, that describe the interactions of emissions with the atmosphere, and models that describe the response of ecosystems to acid deposition; and
+&emsp;&emsp;(ii) maintenance, upgrading, and application of models, such as the Regional Acid Deposition Model, that describe the interactions of emissions with the atmosphere,and models that describe the response of ecosystems to acid deposition; and
 
 &emsp;&emsp;(iii) analysis of the costs, benefits, and effectiveness of the acid deposition control program.
 
@@ -224,7 +224,7 @@ Section was formerly classified to section 1857b of this title.
 
 Provisions similar to those in subsec. (a)(3) of this section were contained in subsec. (a) of a prior section 1857b of this title, act July 14, 1955, ch. 360, §3, 69 Stat. 322, as amended Oct. 9, 1962, Pub. L. 87–761, §2, 76 Stat. 760, prior to the general amendment of this chapter by Pub. L. 88–206.
 
-Provisions similar to those in this section were contained in prior sections 1857a to 1857d of this title, actJuly 14, 1955, ch. 360, §§2 to 5, 69 Stat. 322 (section 1857b as amended Oct. 9, 1962, Pub. L. 87–761, §2, 76 Stat. 760; section 1857d as amended Sept. 22, 1959, Pub. L. 86–365, §1, 73 Stat. 646 and Oct. 9, 1962, Pub. L. 87–761, §1, 76 Stat. 760), prior to the general amendment of this chapter by Pub. L. 88–206.
+Provisions similar to those in this section were contained in prior sections 1857a to 1857d of this title, act July 14, 1955, ch. 360, §§2 to 5, 69 Stat. 322 (section 1857b as amended Oct. 9, 1962, Pub. L. 87–761, §2, 76 Stat. 760; section 1857d as amended Sept. 22, 1959, Pub. L. 86–365, §1, 73 Stat. 646 and Oct. 9, 1962, Pub. L. 87–761, §1, 76 Stat. 760), prior to the general amendment of this chapter by Pub. L. 88–206.
 
 #### Amendments
 
@@ -304,9 +304,9 @@ Section 901(g) of Pub. L. 101–549 provided that:
 
 “(2) The Administrator of the Environmental Protection Agency shall analyze data generated from the studies conducted under paragraph (1), data from the Western Lakes Survey, and other appropriate research and utilize predictive modeling techniques that take into account the unique geographic, climatological, and atmospheric conditions which exist in the western United States to determine the potential occurrence and effects of acid deposition due to any projected increases in the emission of sulfur dioxide and nitrogen oxides in that part of the United States located west of the Mississippi River. The Administrator shall include the results of the project conducted under this paragraph in the reports issued to Congress under paragraph (1).”
 
-#### Consultation With Committee on Science and Technology of House of Representatives
+#### Consultation With and Transmission of Reports and Studies to Congressional Committee
 
-Section 101(c) of Pub. L. 95–95 provided that: “The Administrator of the Environmental Protection Agency shall consult with the House Committee on Science and Technology on the environmental and atmospheric research, development, and demonstration aspects of this Act \[see Short Title of 1977 Amendment note set out under section 7401 of this title\]. In addition, the reports and studies required by this Act that relate to research, development, and demonstration issues shall be transmitted to the Committee on Science and Technology at the same time they are made available to other committees of the Congress.”
+Pub. L. 95–95, title I, §101(c), Aug. 7, 1977, 91 Stat. 687, provided that: “The Administrator of the Environmental Protection Agency shall consult with the House Committee on Science and Technology \[now Committee on Science, Space, and Technology\] on the environmental and atmospheric research, development, and demonstration aspects of this Act \[see Short Title of 1977 Amendment note set out under section 7401 of this title\]. In addition, the reports and studies required by this Act that relate to research, development, and demonstration issues shall be transmitted to the Committee on Science and Technology \[now Committee on Science, Space, and Technology\] at the same time they are made available to other committees of the Congress.”
 
 #### Study of Substances Discharged From Exhausts of Motor Vehicles
 

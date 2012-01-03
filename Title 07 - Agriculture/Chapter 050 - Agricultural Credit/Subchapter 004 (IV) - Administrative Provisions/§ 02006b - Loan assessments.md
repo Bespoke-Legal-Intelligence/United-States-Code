@@ -34,7 +34,7 @@ The Secretary may contract with a third party (including those entities eligible
 
 #### (3) Problem assessments
 
-&emsp;If a borrower is delinquent in payments on a direct or guaranteed loan made under this chapter, the Secretary or the contracting entity shall determine the cause of, and action necessary to correct, the delinquency.
+&emsp;If a borrower is delinquent in payments on a direct or guaranteed loan made under thischapter, the Secretary or the contracting entity shall determine the cause of, and action necessary to correct, the delinquency.
 
 #### (e) Guidelines
 
@@ -48,7 +48,7 @@ For definition of “this chapter”, referred to in subsecs. (a), (b)(5), and (
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–171, §5317, substituted “The Secretary” for “After an applicant is determined eligible for assistance under this chapter by the appropriate county committee established pursuant to section 1982 of this title, the Secretary”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–171, §5317, substituted “The Secretary” for “After an applicant is determined eligible for assistance under this chapter by the appropriate county committee established pursuant to section 1982 of this title, the Secretary”.
 
 Subsec. (d)(1). Pub. L. 107–171, §5318, substituted “annual review” for “biannual review”.
 

@@ -10,7 +10,7 @@ The purpose of this section is to establish a National Institute for Literacy th
 
 &emsp;(3) serves as a national resource for adult education and literacy programs by—
 
-&emsp;&emsp;(A) providing the best and most current information available, including the work of the Eunice Kennedy Shriver National Institute of Child Health and Human Development in the area of phonemic awareness, systematic phonics, fluency, and reading comprehension, to all recipients of Federal assistance that focuses on reading, including programs under titles I and VII of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq. and 7401 et seq.),the Head Start Act (42 U.S.C. 9831 et seq.), the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.), and this Act; and
+&emsp;&emsp;(A) providing the best and most current information available, including the work of the Eunice Kennedy Shriver National Institute of Child Health and Human Development in the area of phonemic awareness, systematic phonics, fluency, and reading comprehension, to all recipients of Federal assistance that focuses on reading, including programs under titles I and VII of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq. and 7401 et seq.), the Head Start Act (42 U.S.C. 9831 et seq.), the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.), and this Act; and
 
 &emsp;&emsp;(B) supporting the creation of new ways to offer services of proven effectiveness.
 
@@ -72,7 +72,7 @@ The purpose of this section is to establish a National Institute for Literacy th
 
 #### (2) Grants, contracts, and cooperative agreements
 
-&emsp;The Institute may award grants to, or enter into contracts or cooperative agreementswith, individuals, public or private institutions, agencies, organizations, or consortia of such institutions, agencies, or organizations to carry out the activities of the Institute.
+&emsp;The Institute may award grants to, or enter into contracts or cooperative agreements with, individuals, public or private institutions, agencies, organizations, or consortia of such institutions, agencies, or organizations to carry out the activities of the Institute.
 
 #### (d) Literacy leadership
 
@@ -162,7 +162,7 @@ The purpose of this section is to establish a National Institute for Literacy th
 
 #### (g) Mails
 
-The Board and the Institute may use the United States mails in the same manner andunder the same conditions as other departments and agencies of the United States.
+The Board and the Institute may use the United States mails in the same manner and under the same conditions as other departments and agencies of the United States.
 
 #### (h) Staff
 
@@ -215,8 +215,6 @@ Provisions similar to this section were contained in section 1213c of this title
 <b>2007</b>—Subsecs. (a)(3)(A), (c)(1)(D). Pub. L. 110–154 substituted “Eunice Kennedy Shriver National Institute of Child Health and Human Development” for “National Institute of Child Health and Human Development”.
 
 #### Change of Name
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 

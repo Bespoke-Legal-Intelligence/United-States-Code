@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(A) on or within 90 days before the date of the filing of the petition; or
 
-&emsp;&emsp;(B) between ninety days and one year before the date of the filing of the petition, if such creditor at the time of such transfer was an insider; and
+&emsp;&emsp;(B) between ninety days and one year before the date of the filing of the petition, ifsuch creditor at the time of such transfer was an insider; and
 
 &emsp;(5) that enables such creditor to receive more than such creditor would receive if—
 
@@ -110,7 +110,7 @@
 
 (h) The trustee may not avoid a transfer if such transfer was made as a part of an alternative repayment schedule between the debtor and any creditor of the debtor created by an approved nonprofit budget and credit counseling agency.
 
-(i) If the trustee avoids under subsection (b) a transfer made between 90 days and 1 year before the date of the filing of the petition, by the debtor to an entity that is not an insider for the benefit of a creditor that is an insider, such transfer shall be considered to be avoided underthis section only with respect to the creditor that is an insider.
+(i) If the trustee avoids under subsection (b) a transfer made between 90 days and 1 year before the date of the filing of the petition, by the debtor to an entity that is not an insider for the benefit of a creditor that is an insider, such transfer shall be considered to be avoided under this section only with respect to the creditor that is an insider.
 
 (Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2597; Pub. L. 98–353, title III, §§310, 462, July 10, 1984, 98 Stat. 355, 377; Pub. L. 99–554, title II, §283(m), Oct. 27, 1986, 100 Stat. 3117; Pub. L. 103–394, title II, §203, title III, §304(f), Oct. 22, 1994, 108 Stat. 4121, 4133; Pub. L. 109–8, title II, §§201(b), 217, title IV, §§403, 409, title XII, §§1213(a), 1222, Apr. 20, 2005, 119 Stat. 42, 55, 104, 106, 194, 196.)
 
@@ -120,7 +120,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 No limitation is provided for payments to commodity brokers as in section 766 of the Senate amendment other than the amendment to section 548 of title 11. Section 547(c)(2) protects most payments.
 
@@ -152,11 +152,11 @@ The trustee may avoid a transfer of a lien under this section even if the lien h
 
 Subsection (b)(2) of this section in effect exempts from the preference rules payments by the debtor of tax liabilities, regardless of their priority status.
 
-Subsection (c) contains exceptions to the trustee's avoiding power. If a creditor can qualify under any one of the exceptions, then he is protected to that extent. If he can qualify under several, he is protected by each to the extent that he can qualify under each.
+Subsection (c) contains exceptions to the trustee's avoiding power. If a creditor can qualify under any oneof the exceptions, then he is protected to that extent. If he can qualify under several, he is protected by each to the extent that he can qualify under each.
 
 The first exception is for a transfer that was intended by all parties to be a contemporaneous exchange for new value, and was in fact substantially contemporaneous. Normally, a check is a credit transaction. However, for the purposes of this paragraph, a transfer involving a check is considered to be “intended to be contemporaneous”, and if the check is presented for payment in the normal course of affairs, which the Uniform Commercial Code specifies as 30 days, U.C.C. §3–503(2)(a), that will amount to a transfer that is “in fact substantially contemporaneous.”
 
-The second exception protects transfers in the ordinary course of business (or of financial affairs, where a business is not involved) transfers. For the case of a consumer, the paragraph uses the phrase “financial affairs” to include such nonbusiness activities as payment of monthly utility bills. If the debt on account ofwhich the transfer was made was incurred in the ordinary course of both the debtor and the transferee, if the transfer was made not later than 45 days after the debt was incurred, if the transfer itself was made in the ordinary course of both the debtor and the transferee, and if the transfer was made according to ordinary business terms, then the transfer is protected. The purpose of this exception is to leave undisturbed normal financial relations, because it does not detract from the general policy of the preference section to discourage unusual action by either the debtor or his creditors during the debtor's slide into bankruptcy.
+The second exception protects transfers in the ordinary course of business (or of financial affairs, where a business is not involved) transfers. For the case of a consumer, the paragraph uses the phrase “financial affairs” to include such nonbusiness activities as payment of monthly utility bills. If the debt on account of which the transfer was made was incurred in the ordinary course of both the debtor and the transferee, if the transfer was made not later than 45 days after the debt was incurred, if the transfer itself was made in the ordinary course of both the debtor and the transferee, and if the transfer was made according to ordinary business terms, then the transfer is protected. The purpose of this exception is to leave undisturbed normal financial relations, because it does not detract from the general policy of the preference section to discourage unusual action by either the debtor or his creditors during the debtor's slide into bankruptcy.
 
 The third exception is for enabling loans in connection with which the debtor acquires the property that the loan enabled him to purchase after the loan is actually made.
 
@@ -176,7 +176,7 @@ Subsection (f) creates a presumption of insolvency for the 90 days preceding the
 
 #### Amendments
 
-2005—Subsec. (b). Pub. L. 109–8, §1213(a)(1), substituted “subsections (c) and (i)” for “subsection (c)” in introductory provisions.
+<b>2005</b>—Subsec. (b). Pub. L. 109–8, §1213(a)(1), substituted “subsections (c) and (i)” for “subsection (c)” in introductory provisions.
 
 Subsec. (c)(2). Pub. L. 109–8, §409(1), added par. (2) and struck out former par. (2) which read as follows: “to the extent that such transfer was—
 
@@ -202,15 +202,15 @@ Subsec. (h). Pub. L. 109–8, §201(b), added subsec. (h).
 
 Subsec. (i). Pub. L. 109–8, §1213(a)(2), added subsec. (i).
 
-1994—Subsec. (c)(3)(B). Pub. L. 103–394, §203(1), substituted “20” for “10”.
+<b>1994</b>—Subsec. (c)(3)(B). Pub. L. 103–394, §203(1), substituted “20” for “10”.
 
 Subsec. (c)(7), (8). Pub. L. 103–394, §304(f), added par. (7) and redesignated former par. (7) as (8).
 
 Subsec. (e)(2)(A). Pub. L. 103–394, §203(2), inserted before semicolon at end “, except as provided in subsection (c)(3)(B)”.
 
-1986—Subsec. (b)(4)(B). Pub. L. 99–554 inserted “and” after the semicolon.
+<b>1986</b>—Subsec. (b)(4)(B). Pub. L. 99–554 inserted “and” after the semicolon.
 
-1984—Subsec. (a)(2). Pub. L. 98–353, §462(a)(1), inserted “including proceeds of such property,” after “law,”.
+<b>1984</b>—Subsec. (a)(2). Pub. L. 98–353, §462(a)(1), inserted “including proceeds of such property,” after “law,”.
 
 Subsec. (a)(4). Pub. L. 98–353, §462(a)(2), struck out “, without penalty” after “any extension”, and inserted “without penalty” after “payable”.
 

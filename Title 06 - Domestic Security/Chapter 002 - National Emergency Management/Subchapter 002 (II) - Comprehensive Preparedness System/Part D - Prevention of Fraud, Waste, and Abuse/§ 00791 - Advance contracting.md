@@ -32,7 +32,7 @@
 
 #### (4) Prenegotiated State and local contracts for goods and services
 
-&emsp;The Administrator shall encourage State and local governments to establishprenegotiated contracts with vendors for goods and services in advance of natural disasters and acts of terrorism or other man-made disasters.
+&emsp;The Administrator shall encourage State and local governments to establish prenegotiated contracts with vendors for goods and services in advance of natural disasters and acts of terrorism or other man-made disasters.
 
 #### (c) Maintenance of contracts
 

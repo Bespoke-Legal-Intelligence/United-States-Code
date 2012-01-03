@@ -148,7 +148,7 @@ Pub. L. 110–181, div. A, title XVII, §§1702(b), 1703(b), 1708(a)(3), Jan. 28
 
 <b>2002</b>—Pub. L. 107–287, §4(a)(2), Nov. 7, 2002, 116 Stat. 2029, added item 1785.
 
-Pub. L. 107–135, title II, §§201(b)(2), 208(f)(1), Jan. 23, 2002, 115 Stat. 2457, 2464, substituted “Limitations” for “Restriction on use of funds for assisted suicide, euthanasia, or mercy killing” in item 1707, struck out item 1713 “Medical care for survivors and dependents of certain veterans”, substituted “guide dogs; service dogs”for “seeing-eye dogs” in item 1714, and added item for subchapter VIII and items 1781 to 1784.
+Pub. L. 107–135, title II, §§201(b)(2), 208(f)(1), Jan. 23, 2002, 115 Stat. 2457, 2464, substituted “Limitations” for “Restriction on use of funds for assisted suicide, euthanasia, or mercy killing” in item 1707, struck out item 1713 “Medical care for survivors and dependents of certain veterans”, substituted “guide dogs; service dogs” for “seeing-eye dogs” in item 1714, and added item for subchapter VIII and items 1781 to 1784.
 
 <b>2001</b>—Pub. L. 107–95, §5(g)(1), Dec. 21, 2001, 115 Stat. 918, struck out subchapter VII heading “TREATMENT AND REHABILITATION FOR SERIOUSLY MENTALLY ILL AND HOMELESS VETERANS” and items 1771 “General treatment”, 1772 “Therapeutic housing”, 1773 “Additional services at certain locations”, and 1774 “Coordination with other agencies and organizations”.
 
@@ -200,7 +200,7 @@ Pub. L. 99–272, title XIX, §§19011(c)(2), 19012(b)(2), Apr. 7, 1986, 100 Sta
 
 <b>1977</b>—Pub. L. 95–62, §4(b), July 5, 1977, 91 Stat. 263, struck out item 644 “Authorization of appropriations”.
 
-<b>1976</b>—Pub. L. 94–581, title II, §§202(a), 203(b), Oct. 21, 1976, 90 Stat. 2855, 2856, inserted “NURSING HOME,” in chapter heading, and, in analysis of subchapter headings and section catchlines, inserted “, NURSING HOME” in item for subchapter II, inserted “, nursing home” in item 610, substituted “Care” for “Hospitalization” in item 611, and inserted “AND NURSING HOME” in item for subchapter III.
+<b>1976</b>—Pub. L. 94–581, title II, §§202(a), 203(b), Oct. 21, 1976, 90 Stat. 2855, 2856, inserted “NURSING HOME,” inchapter heading, and, in analysis of subchapter headings and section catchlines, inserted “, NURSING HOME” in item for subchapter II, inserted “, nursing home” in item 610, substituted “Care” for “Hospitalization” in item 611, and inserted “AND NURSING HOME” in item for subchapter III.
 
 <b>1973</b>—Pub. L. 93–82, title I, §§103(c), 106(b), 107(b), 109(b), Aug. 2, 1973, 87 Stat. 182, 184, 186, 187, substituted “Medical care for survivors and dependents of certain veterans” and “Fitting and training in use of prosthetic appliances; seeing-eye dogs” for “Fitting and training in use of prosthetic appliances” and “Seeing-eye dogs” in items 613 and 614 respectively, substituted “natural disaster” for “fire” in item 626, added item 628, substituted “Assistance to the Republic of the Philippines” and “Contracts and grants to provide hospital care, medical services and nursing home care” for “Grants to the Republic of the Philippines” and “Modification of agreement with the Republic of the Philippines effectuating the Act of July 1, 1948” in items 631 and 632, respectively, and added “SUBCHAPTER VI—SICKLE CELL ANEMIA” comprising items 651 to 654.
 

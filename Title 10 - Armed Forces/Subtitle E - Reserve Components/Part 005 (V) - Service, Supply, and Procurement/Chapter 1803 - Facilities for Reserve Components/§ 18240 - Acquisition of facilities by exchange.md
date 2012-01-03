@@ -82,7 +82,7 @@ Pub. L. 108–375, div. B, title XXVIII, §2809(c), Oct. 28, 2004, 118 Stat. 212
 
 “(6) Not later than March 1, 2008, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the exercise of the authority provided by this subsection. The report shall include the following:
 
-&emsp;“(A) A description of the exchange agreements under section 18240 of title 10, United States Code,that included the authority to make or accept cash equalization payments.
+&emsp;“(A) A description of the exchange agreements under section 18240 of title 10, United States Code, that included the authority to make or accept cash equalization payments.
 
 &emsp;“(B) A description of the analysis and criteria used to select such agreements for inclusion of the authority to make or accept cash equalization payments.
 

@@ -94,7 +94,7 @@
 
 &emsp;(34) with respect to the amount of appropriations requested for use by the Export-Import Bank of the United States, a separate statement of the amount requested for its program budget, the amount requested for its administrative expenses, and of the amount requested for its administrative expenses, the amount requested for technology expenses.
 
-&emsp;(35)(A)(i) a detailed, separate analysis, by budget function, by agency, and by initiative area (as determined by the administration) for the prior fiscal year, the current fiscal year, the fiscal years for which the budget is submitted, and the ensuing fiscal year identifyingthe amounts of gross and net appropriations or obligational authority and outlays that contribute to homeland security, with separate displays for mandatory and discretionary amounts, including—
+&emsp;(35)(A)(i) a detailed, separate analysis, by budget function, by agency, and by initiative area (as determined by the administration) for the prior fiscal year, the current fiscal year, the fiscal years for which the budget is submitted, and the ensuing fiscal year identifying the amounts of gross and net appropriations or obligational authority and outlays that contribute to homeland security, with separate displays for mandatory and discretionary amounts, including—
 
 &emsp;&emsp;(I) summaries of the total amount of such appropriations or new obligational authority and outlays requested for homeland security;
 
@@ -142,7 +142,7 @@
 
 (d) When the President submits a budget or supporting information about a budget, the President shall include a statement on all changes about the current fiscal year that were made before the budget or information was submitted.
 
-(e)(1) The President shall submit with materials related to each budget transmitted undersubsection (a) on or after January 1, 1985, an analysis for the ensuing fiscal year that shall identify requested appropriations or new obligational authority and outlays for each major program that may be classified as a public civilian capital investment program and for each major program that may be classified as a military capital investment program, and shall contain summaries of the total amount of such appropriations or new obligational authority and outlays for public civilian capital investment programs and summaries of the total amount of such appropriations or new obligational authority and outlays for military capital investment programs. In addition, the analysis under this paragraph shall contain—
+(e)(1) The President shall submit with materials related to each budget transmitted under subsection (a) on or after January 1, 1985, an analysis for the ensuing fiscal year that shall identify requested appropriations or new obligational authority and outlays for each major program that may be classified as a public civilian capital investment program and for each major program that may be classified as a military capital investment program, and shall contain summaries of the total amount of such appropriations or new obligational authority and outlays for public civilian capital investment programs and summaries of the total amount of such appropriations or new obligational authority and outlays for military capital investment programs. In addition, the analysis under this paragraph shall contain—
 
 &emsp;(A) an estimate of the current service levels of public civilian capital investment and of military capital investment and alternative high and low levels of such investments over a period of ten years in current dollars and over a period of five years in constant dollars;
 
@@ -190,7 +190,7 @@
 
 (3) For purposes of this subsection, any appropriation, new obligational authority, or outlay shall be classified as a military capital investment to the extent that such appropriation, authority, or outlay will be used for the construction, acquisition, or rehabilitation of any physical asset that is capable of being used to produce services or other benefits for purposes of national defense and security for a number of years. Such assets shall include military bases, posts, installations, and facilities.
 
-(4) Criteria and guidelines for use in the identification of public civilian and military capital investments, for distinguishing between public civilian and military capital investments, and for distinguishing between major and nonmajor capital investment programs shall be issued by the Director of the Office of Management and Budget after consultation with the Comptroller General and the Congressional Budget Office. The analysis submitted under this subsection shall be accompanied by an explanation of such criteria and guidelines.
+(4) Criteria and guidelines for use in the identification of public civilian and military capitalinvestments, for distinguishing between public civilian and military capital investments, and for distinguishing between major and nonmajor capital investment programs shall be issued by the Director of the Office of Management and Budget after consultation with the Comptroller General and the Congressional Budget Office. The analysis submitted under this subsection shall be accompanied by an explanation of such criteria and guidelines.
 
 (5) For purposes of this subsection—
 
@@ -229,10 +229,6 @@
 #### Amendment of Subsection (a)
 
 <i>For contingent repeal of amendment by section 415 of Pub. L. 111–291, see Repeal on Failure To Meet Enforceability Date note below.</i>
-
-#### Termination of Subsection (f)
-
-<i>Subsection (f) of this section expired Sept. 30, 2002, pursuant to section 275(b) of Pub. L. 99–177, as amended. See 1985 Amendment note and Effective and Termination Dates of 1985 Amendment note below.</i>
 
 Historical and Revision Notes<br>1982
 
@@ -394,13 +390,13 @@ Section 5 of the Federal Workforce Restructuring Act of 1994, referred to in sub
 
 Section 257(b)(2) of the Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (a)(32), is classified to section 907(b)(2) of Title 2, The Congress.
 
-The Emergency Economic Stabilization Act of 2008, referred to in subsec. (a)(35), is div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, which is classified principally to chapter 52 (§5201 et seq.) of Title 12, Banks and Banking. Section 123 of the Act is classified to section 5232 of Title 12. For complete classification of this Act to the Code, see Short Title note set out under section 5201 of Title 12 and Tables.
+The Emergency Economic Stabilization Act of 2008, referred to in subsec. (a)(36), is div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, which is classified principally to chapter 52 (§5201 et seq.) of Title 12, Banks and Banking. Section 123 of the Act is classified to section 5232 of Title 12. For complete classification of this Act to the Code, see Short Title note set out under section 5201 of Title 12 and Tables.
 
-The Federal Credit Reform Act of 1990, referred to in subsec. (a)(35), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
+The Federal Credit Reform Act of 1990, referred to in subsec. (a)(36), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
 
 Section 411 of the Crow Tribe Water Rights Settlement Act of 2010, referred to in subsec. (a)(38), is section 411 of Pub. L. 111–291, title IV, Dec. 8, 2010, 124 Stat. 3113, subsec. (h) of which amended this section. Subsecs. (a) to (g) of section 411, which relate to establishment of the Crow Settlement Fund, are not classified to the Code.
 
-Section 801 of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003, referred to in subsec. (h), is section 801 of Pub. L. 108–173, which isset out as a note under section 1395i of Title 42, The Public Health and Welfare.
+Section 801 of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003, referred to in subsec. (h), is section 801 of Pub. L. 108–173, which is set out as a note under section 1395i of Title 42, The Public Health and Welfare.
 
 #### Amendments
 
@@ -486,7 +482,7 @@ Pub. L. 100–418, §§5301, 5303, temporarily added par. (26) which read as fol
 
 <b>1985</b>—Subsec. (a). Pub. L. 99–177, §241(a), substituted “On or before the first Monday after January 3 of each year (or on or before February 5 in 1986)” for “During the first 15 days of each regular session of Congress”.
 
-Subsec. (f). Pub. L. 99–177, §§241(b), 275(b), temporarily added subsec. (f). See Effective and Termination Dates of 1985 Amendment note below.
+Subsec. (f). Pub. L. 99–177, §241(b), added subsec. (f).
 
 <b>1984</b>—Subsec. (e). Pub. L. 98–501 added subsec. (e).
 
@@ -524,7 +520,7 @@ Amendment by Pub. L. 100–504 effective 180 days after Oct. 18, 1988, see secti
 
 #### Effective and Termination Dates of 1985 Amendment
 
-Amendment of subsec. (a) and enactment of subsec. (f) of this section by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, but with subsec. (f) to expire Sept. 30, 2002, see section 275(a)(1), (b) of Pub. L. 99–177, as amended, set out as an Effective and Termination Dates note under section 900 of Title 2, The Congress.
+Amendment of subsec. (a) and enactment of subsec. (f) of this section by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, but with subsec. (f) to expire Sept. 30, 2002, see section 275(a)(1), (b) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of Title 2, The Congress, prior to repeal by Pub. L. 112–25, title I, §104(a), Aug. 2, 2011, 125 Stat. 246.
 
 #### Repeal on Failure To Meet Enforceability Date
 
@@ -644,7 +640,7 @@ Fallback Procedure for Floor Consideration if the House Fails to Vote on Final P
 
 &emsp;“(3) Only one motion to discharge a particular committee may be adopted under this subsection in any session of a Congress.
 
-&emsp;“(4) Notwithstanding paragraph (1), it shall not be in order to move to discharge a committee from further consideration of medicare funding legislation pursuant to this subsection during a session of a Congress if, during the previous session of the Congress, the House passed medicare funding legislation for which there is an affirmative certification under subsection (b)(3)(A).
+&emsp;“(4) Notwithstanding paragraph (1), it shall not be in order to move to discharge a committee from further consideration of medicare funding legislation pursuant to this subsection during a session of a Congress if, during the previous session of the Congress, the House passed medicare funding legislation forwhich there is an affirmative certification under subsection (b)(3)(A).
 
 “(d)
 
@@ -822,7 +818,7 @@ Pub. L. 100–448, §24, Sept. 28, 1988, 102 Stat. 1847, provided that:
 
 “(a)
 
-Opinion of Congress.—It is the opinion of the Congress that the programs and activities of the Coast Guard could be more effectively and efficiently planned and managed if funds for the Coast Guard were provided on a 2-year cycle rather than annually.
+Opinion of Congress.—It is the opinion of the Congress that the programs and activities of the CoastGuard could be more effectively and efficiently planned and managed if funds for the Coast Guard were provided on a 2-year cycle rather than annually.
 
 “(b)
 
@@ -848,7 +844,7 @@ Pub. L. 100–202, §101(c) \[title I, §136\], Dec. 22, 1987, 101 Stat. 1329–
 
 #### Two-Year Budget Cycle for Department of Defense
 
-Pub. L. 99–145, title XIV, §1405, Nov. 8, 1985, 99 Stat. 744, which related to congressional findings concerning a two-year budget cycle for the Defense Department, requirement that President submit two-year budget proposals, and a report by the Secretary of Defense tobe submitted not later than Apr. 1, 1986, was repealed by Pub. L. 110–181, div. A, title X, §1006, Jan. 28, 2008, 122 Stat. 303.
+Pub. L. 99–145, title XIV, §1405, Nov. 8, 1985, 99 Stat. 744, which related to congressional findings concerning a two-year budget cycle for the Defense Department, requirement that President submit two-year budget proposals, and a report by the Secretary of Defense to be submitted not later than Apr. 1, 1986, was repealed by Pub. L. 110–181, div. A, title X, §1006, Jan. 28, 2008, 122 Stat. 303.
 
 #### Federal Capital Investment Program; Congressional Statement of Purposes
 

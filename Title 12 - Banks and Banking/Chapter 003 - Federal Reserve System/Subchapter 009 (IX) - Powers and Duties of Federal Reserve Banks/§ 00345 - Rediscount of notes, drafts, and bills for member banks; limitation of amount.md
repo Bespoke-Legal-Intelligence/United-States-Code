@@ -10,5 +10,5 @@ Section is comprised of the fifth par. of section 13 of act Dec. 23, 1913, as am
 
 #### Amendments
 
-1930—Act Apr. 12, 1930, among other changes, inserted proviso.
+<b>1930</b>—Act Apr. 12, 1930, among other changes, inserted proviso.
 

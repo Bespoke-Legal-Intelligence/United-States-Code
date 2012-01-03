@@ -24,9 +24,9 @@ This section shall not apply to investigations involving any security underlying
 
 #### Amendments
 
-2000—Subsec. (e). Pub. L. 106–554 added subsec. (e).
+<b>2000</b>—Subsec. (e). Pub. L. 106–554 added subsec. (e).
 
-1983—Subsec. (d). Pub. L. 97–444 prohibited disclosure of market positions.
+<b>1983</b>—Subsec. (d). Pub. L. 97–444 prohibited disclosure of market positions.
 
 #### Effective Date of 1983 Amendment
 

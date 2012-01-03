@@ -8,7 +8,7 @@ Not later than 1 year after August 3, 2007, the Secretary of Transportation, in 
 
 &emsp;(2) assess and characterize existing and proposed routes for the transportation of radioactive and nonradioactive hazardous materials by motor carrier for the purpose of identifying measurable criteria for selecting routes based on safety and security concerns;
 
-&emsp;(3) analyze current route-related hazardous materials regulations in the United States,Canada, and Mexico to identify cross-border differences and conflicting regulations;
+&emsp;(3) analyze current route-related hazardous materials regulations in the United States, Canada, and Mexico to identify cross-border differences and conflicting regulations;
 
 &emsp;(4) document the safety and security concerns of the public, motor carriers, and State, local, territorial, and tribal governments about the highway routing of hazardous materials;
 

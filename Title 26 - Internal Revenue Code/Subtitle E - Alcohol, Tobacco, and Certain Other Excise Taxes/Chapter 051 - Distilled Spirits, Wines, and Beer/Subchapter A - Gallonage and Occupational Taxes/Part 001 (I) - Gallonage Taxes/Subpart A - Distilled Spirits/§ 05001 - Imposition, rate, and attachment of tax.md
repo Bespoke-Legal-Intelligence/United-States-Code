@@ -32,11 +32,11 @@
 
 #### (8) Imported distilled spirits withdrawn for beverage purposes
 
-&emsp;There is hereby imposed on all imported distilled spirits withdrawn from customs custody under section 5232 without payment of the internal revenue tax, and thereafter withdrawn from bonded premises for beverage purposes, an additional tax equal to the duty which would have been paid had such spirits been imported for beverage purposes, less the duty previously paid thereon.
+&emsp;There is hereby imposed on all imported distilled spirits withdrawn from customs custody under section 5232 without payment of the internal revenue tax, and thereafter withdrawnfrom bonded premises for beverage purposes, an additional tax equal to the duty which would have been paid had such spirits been imported for beverage purposes, less the duty previously paid thereon.
 
 #### (9) Alcoholic compounds from Puerto Rico
 
-&emsp;Except as provided in section 5314, upon bay rum, or any article containing distilled spirits, brought from Puerto Rico into the United States for consumption or sale there is hereby imposed a tax on the spirits contained thereinat the rate imposed on distilled spirits produced in the United States.
+&emsp;Except as provided in section 5314, upon bay rum, or any article containing distilled spirits, brought from Puerto Rico into the United States for consumption or sale there is hereby imposed a tax on the spirits contained therein at the rate imposed on distilled spirits produced in the United States.
 
 #### (b) Time of attachment on distilled spirits
 
@@ -122,7 +122,7 @@ Amendment by Pub. L. 89–44 applicable on and after July 1, 1965, see section 7
 
 #### Effective Date
 
-Section 210(a)(1) of Pub. L. 85–859 provided that: “The amendments made by sections 201 and 205 \[amending this chapter and repealing acts Mar. 3, 1877, 114, 19 Stat. 393, and Oct. 18, 1888, ch. 1194, 25 Stat. 560\] shall take effect on July 1, 1959, except that any provision having the effect of a provision contained in such amendments may be made effective at an earlier date by the promulgation of regulations by the Secretary or his delegate to effectuate such provision, in which case the effective date shall be that prescribed in such regulations. The amendments made by paragraphs (17) and (18) of section 204 \[amending section 7652 of this title\] shall take effect on July 1, 1959. Except as provided in section 206(f), all other provisions of this title \[enacting sections 5849, 5854, 5855, and 7608 of this title, amending chapter 52 of this title and sections 5801, 5811, 5814, 5821, 5843, 5848,5851, 6071, 6207, 6422, 7214, 7272, 7301, 7324 to 7326, 7609, and 7655 of this title, and repealing former section 5854 of this title\] shall take effect on the day following the date of the enactment of this Act \[Sept. 2, 1958\].”
+Section 210(a)(1) of Pub. L. 85–859 provided that: “The amendments made by sections 201 and 205 \[amendingthis chapter and repealing acts Mar. 3, 1877, 114, 19 Stat. 393, and Oct. 18, 1888, ch. 1194, 25 Stat. 560\] shall take effect on July 1, 1959, except that any provision having the effect of a provision contained in such amendments may be made effective at an earlier date by the promulgation of regulations by the Secretary or his delegate to effectuate such provision, in which case the effective date shall be that prescribed in such regulations. The amendments made by paragraphs (17) and (18) of section 204 \[amending section 7652 of this title\] shall take effect on July 1, 1959. Except as provided in section 206(f), all other provisions of this title \[enacting sections 5849, 5854, 5855, and 7608 of this title, amending chapter 52 of this title and sections 5801, 5811, 5814, 5821, 5843, 5848, 5851, 6071, 6207, 6422, 7214, 7272, 7301, 7324 to 7326, 7609, and 7655 of this title, and repealing former section 5854 of this title\] shall take effect on the day following the date of the enactment of this Act \[Sept. 2, 1958\].”
 
 #### Short Title
 
@@ -232,7 +232,7 @@ Corporations.—In the case of a controlled group—
 
 &emsp;&emsp;“(ii) the $240, $270, and $87 amounts specified in paragraph (4),
 
-> &emsp;shall be apportioned among the dealers who are component members of such group in such manner as the Secretary shall by regulations prescribe. For purposes of the preceding sentence, the term ‘controlled group’ has the meaning given to such term by subsection (a) of section 1563 of such Code; except that for such purposes the phrase ‘more than 50 percent’ shall be substituted for the phrase ‘at least 80 percent’ each place it appears in such subsection.
+> &emsp;shall be apportioned among the dealers who are component members of such group in such manner as the Secretary shall by regulations prescribe. For purposes of the preceding sentence, the term ‘controlled group’ has the meaning given to such term by subsection (a) of section 1563 of such Code; except thatfor such purposes the phrase ‘more than 50 percent’ shall be substituted for the phrase ‘at least 80 percent’ each place it appears in such subsection.
 
 &emsp;“(B)
 
@@ -244,7 +244,7 @@ Other laws applicable.—
 
 &emsp;“(A)
 
-In general.—All provisions of law, including penalties, applicable to the comparable excise tax with respect to any tax-increased article shall, insofar as applicable and not inconsistent with the provisions of this subsection, apply to the floor stockstaxes imposed by paragraph (1) to the same extent as if such taxes were imposed by the comparable excise tax.
+In general.—All provisions of law, including penalties, applicable to the comparable excise tax with respect to any tax-increased article shall, insofar as applicable and not inconsistent with the provisions of this subsection, apply to the floor stocks taxes imposed by paragraph (1) to the same extent as if such taxes were imposed by the comparable excise tax.
 
 &emsp;“(B)
 
@@ -362,7 +362,7 @@ Nonincorporated dealers under common control.—Under regulations prescribed by 
 
 “(6)
 
-Other laws applicable.—All provisions of law, including penalties, applicable with respect to the taxes imposed by section 5001 of the Internal Revenue Code of 1986 shall, insofar as applicable and not inconsistent with the provisions of this subsection, apply in respect of the taxes imposed by paragraph (1) to the same extent as if such taxes were imposed by such section 5001.
+Other laws applicable.—All provisions of law, including penalties, applicable with respect to the taxes imposed by section 5001 of the Internal Revenue Code of 1986 shall, insofar as applicable and not inconsistent with the provisions of this subsection, apply inrespect of the taxes imposed by paragraph (1) to the same extent as if such taxes were imposed by such section 5001.
 
 “(7)
 

@@ -54,7 +54,7 @@ For purposes of this part—
 
 <b>1996</b>—Par. (1). Pub. L. 104–191, §321(d)(2), inserted at end “Such term shall not include any plan substantially all of the coverage under which is for qualified long-term care services (as defined in section 7702B(c) of title 26).”
 
-Par. (3)(A). Pub. L. 104–191, §421(b)(3), inserted at end “Such term shall also include a child who is born to orplaced for adoption with the covered employee during the period of continuation coverage under this part.”
+Par. (3)(A). Pub. L. 104–191, §421(b)(3), inserted at end “Such term shall also include a child who is born to or placed for adoption with the covered employee during the period of continuation coverage under this part.”
 
 <b>1989</b>—Pub. L. 101–239, §7891(d)(2)(B)(i)(I), inserted “and special rules” after “Definitions” in section catchline.
 
@@ -96,7 +96,7 @@ Amendment by Pub. L. 100–647 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 1986 Amendments
 
-Section 1895(d)(9)(B) of Pub. L. 99–514 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall take effect in the same manner and to the same extent as the amendments made by subsections (e) and (i) of section 1151 of this Act \[amending sections 132 and 414 of Title 26, Internal Revenue Code, see section 1151(k) of Pub. L. 99–514, set out as an Effective Date note under section 89 of Title 26\].”
+Section 1895(d)(9)(B) of Pub. L. 99–514 provided that: “The amendment made by subparagraph (A) \[amendingthis section\] shall take effect in the same manner and to the same extent as the amendments made by subsections (e) and (i) of section 1151 of this Act \[amending sections 132 and 414 of Title 26, Internal Revenue Code, see section 1151(k) of Pub. L. 99–514, set out as an Effective Date note under section 89 of Title 26\].”
 
 Amendment by section 1895(d)(8) of Pub. L. 99–514 effective, except as otherwise provided, as if included in enactment of the Consolidated Omnibus Budget Reconciliation Act of 1985, Pub. L. 99–272, see section 1895(e) of Pub. L. 99–514, set out as a note under section 162 of Title 26.
 

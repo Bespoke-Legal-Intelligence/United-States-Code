@@ -22,7 +22,7 @@ Upon application of the Commission, the district courts of the United States and
 
 #### (A) First tier
 
-&emsp;&emsp;The amount of the penalty shall be determined by the court in light of the facts andcircumstances. For each violation, the amount of the penalty shall not exceed the greater of (i) $5,000 for a natural person or $50,000 for any other person, or (ii) the gross amount of pecuniary gain to such defendant as a result of the violation.
+&emsp;&emsp;The amount of the penalty shall be determined by the court in light of the facts and circumstances. For each violation, the amount of the penalty shall not exceed the greater of (i) $5,000 for a natural person or $50,000 for any other person, or (ii) the gross amount of pecuniary gain to such defendant as a result of the violation.
 
 #### (B) Second tier
 

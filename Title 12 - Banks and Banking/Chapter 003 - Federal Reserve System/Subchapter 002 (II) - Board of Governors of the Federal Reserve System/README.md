@@ -13,6 +13,7 @@
 - [&sect; 00246 - Powers of Secretary of the Treasury as affected by chapter](%C2%A7%2000246%20-%20Powers%20of%20Secretary%20of%20the%20Treasury%20as%20affected%20by%20chapter.md)
 - [&sect; 00247 - Reports to Congress](%C2%A7%2000247%20-%20Reports%20to%20Congress.md)
 - [&sect; 00247a - Records of action on policy relating to open-market operation and policies determined generally; inclusion in report to Congress](%C2%A7%2000247a%20-%20Records%20of%20action%20on%20policy%20relating%20to%20open-market%20operation%20and%20policies%20determined%20generally%3B%20inclusion%20in%20report%20to%20Congress.md)
+- [&sect; 00247b - Appearances before Congress](%C2%A7%2000247b%20-%20Appearances%20before%20Congress.md)
 - [&sect; 00248 - Enumerated powers](%C2%A7%2000248%20-%20Enumerated%20powers.md)
 - [&sect; 00248&#8211;1 - Rules and regulations for transfer of funds and charges therefor among banks; clearing houses](%C2%A7%2000248%E2%80%931%20-%20Rules%20and%20regulations%20for%20transfer%20of%20funds%20and%20charges%20therefor%20among%20banks%3B%20clearing%20houses.md)
 - [&sect; 00248a - Pricing of services](%C2%A7%2000248a%20-%20Pricing%20of%20services.md)

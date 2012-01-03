@@ -20,7 +20,7 @@ As used in this chapter—
 
 &emsp;(9) The term “branch” includes any branch credit union, branch office, branch agency, additional office, or any branch place of business located in any State of the United States, the District of Columbia, the several territories, including the trust territories, and possessions of the United States, the Panama Canal Zone, or the Commonwealth of Puerto Rico, at which member accounts are established or money lent. The term “branch” also includes a suboffice, operated by a Federal credit union or by a credit union authorized by the Department of Defense, located on an American military installation in a foreign country or in the trust territories of the United States.
 
-(June 26, 1934, ch. 750, title I, §101, formerly §2, 48 Stat. 1216; 1947 Reorg. Plan No. 1, §401, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952; June 29, 1948, ch. 711, §§1, 2, 62 Stat. 1091; Pub. L. 86–354, §1, Sept. 22, 1959, 73 Stat. 628; Pub. L. 91–206, §1, Mar. 10, 1970, 84 Stat. 49, renumbered title I, §101, and amended Pub. L. 91–468, §§1(2), 2, Oct. 19, 1970, 84 Stat. 994, 1015; Pub. L. 95–22, title III, §308, Apr. 19, 1977, 91 Stat. 52; Pub. L. 95–630, title V, §§502(a), (b), 503, Nov. 10, 1978, 92 Stat. 3681; Pub. L. 96–161, title I, §103(a), Dec. 28, 1979, 93 Stat. 1233; Pub. L. 96–221, title III, §§305(a), 307, Mar. 31, 1980, 94 Stat. 146, 147; Pub. L. 97–320, title V, §501, Oct. 15, 1982, 96 Stat. 1528; Pub. L. 109–351, title VII, §726(1), (2), Oct. 13, 2006, 120 Stat. 2002.)
+(June 26, 1934, ch. 750, title I, §101, formerly §2, 48 Stat. 1216; 1947 Reorg. Plan No. 1, §401, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952; June 29, 1948, ch. 711, §§1, 2, 62 Stat. 1091; Pub. L. 86–354,§1, Sept. 22, 1959, 73 Stat. 628; Pub. L. 91–206, §1, Mar. 10, 1970, 84 Stat. 49, renumbered title I, §101, and amended Pub. L. 91–468, §§1(2), 2, Oct. 19, 1970, 84 Stat. 994, 1015; Pub. L. 95–22, title III, §308, Apr. 19, 1977, 91 Stat. 52; Pub. L. 95–630, title V, §§502(a), (b), 503, Nov. 10, 1978, 92 Stat. 3681; Pub. L. 96–161, title I, §103(a), Dec. 28, 1979, 93 Stat. 1233; Pub. L. 96–221, title III, §§305(a), 307, Mar. 31, 1980, 94 Stat. 146, 147; Pub. L. 97–320, title V, §501, Oct. 15, 1982, 96 Stat. 1528; Pub. L. 109–351, title VII, §726(1), (2), Oct. 13, 2006, 120 Stat. 2002.)
 
 #### References in Text
 
@@ -28,21 +28,21 @@ For definition of Canal Zone, referred to in text, see section 3602(b) of Title 
 
 #### Amendments
 
-2006—Par. (3). Pub. L. 109–351, §726(1), struck out “and” after semicolon.
+<b>2006</b>—Par. (3). Pub. L. 109–351, §726(1), struck out “and” after semicolon.
 
 Par. (5). Pub. L. 109–351, §726(2), substituted “share draft account” for “share draft account account” in two places and for “share draft account accounts” before “of nonmember”.
 
-1982—Par. (5). Pub. L. 97–320 inserted “, and such terms mean custodial accounts established for loans sold in whole or in part pursuant to section 1757(13) of this title” after “section 1787 of this title”.
+<b>1982</b>—Par. (5). Pub. L. 97–320 inserted “, and such terms mean custodial accounts established for loans sold in whole or in part pursuant to section 1757(13) of this title” after “section 1787 of this title”.
 
-1980—Par. (5). Pub. L. 96–221, §§305(a), 307, inserted provisions respecting applicability to share draft accounts substantially similar to provisions added by Pub. L. 96–161, and repealed the amendment made by Pub. L. 96–161. See Repeals and Effective Date of 1980 Amendment notes below.
+<b>1980</b>—Par. (5). Pub. L. 96–221, §§305(a), 307, inserted provisions respecting applicability to share draft accounts substantially similar to provisions added by Pub. L. 96–161, and repealed the amendment made by Pub. L. 96–161. See Repeals and Effective Date of 1980 Amendment notes below.
 
 Par. (10). Pub. L. 96–221, §307, struck out par. (10) which defined “share draft account”. See Repeals and Effective Date of 1980 Amendment notes below.
 
-1979—Par. (5). Pub. L. 96–161, §103(a)(1), inserted “, and such term also includes a share draft account” after “the equivalent of such accounts under State law”.
+<b>1979</b>—Par. (5). Pub. L. 96–161, §103(a)(1), inserted “, and such term also includes a share draft account” after “the equivalent of such accounts under State law”.
 
 Par. (10). Pub. L. 96–161, §103(a)(2)–(4), added par. (10).
 
-1978—Par. (2). Pub. L. 95–630, §502(a)(1), substituted provisions defining “Chairman” for provisions defining “Administrator”.
+<b>1978</b>—Par. (2). Pub. L. 95–630, §502(a)(1), substituted provisions defining “Chairman” for provisions defining “Administrator”.
 
 Par. (4). Pub. L. 95–630, §502(a)(2), inserted “Administration” after “National Credit Union”.
 
@@ -52,9 +52,9 @@ Pars. (6) to (8). Pub. L. 95–630, §503(a), redesignated former pars. (5) to (
 
 Par. (9). Pub. L. 95–630, §503(a), (c), redesignated former par. (8) as (9), inserted “, including the trust territories,” after “several territories”, and inserted provision that term “branch” also includes a suboffice, operated by a Federal credit union or by a credit union authorized by the Department of Defense, located on an American military installation in a foreign country or in the trust territories of the United States.
 
-1977—Par. (4). Pub. L. 95–22 inserted provision that such terms mean those accounts of nonmember credit unions and nonmember units of Federal, State, or local governments and political subdivisions thereof in which payments are received by a credit union pursuant to section 1757(6) of this title.
+<b>1977</b>—Par. (4). Pub. L. 95–22 inserted provision that such terms mean those accounts of nonmember credit unions and nonmember units of Federal, State, or local governments and political subdivisions thereof in which payments are received by a credit union pursuant to section 1757(6) of this title.
 
-1970—Par. (2). Pub. L. 91–206 substituting “Administrator” as meaning Administrator of the National Credit Union Administration for “Bureau” as meaning the Bureau of Federal Credit Unions.
+<b>1970</b>—Par. (2). Pub. L. 91–206 substituting “Administrator” as meaning Administrator of the National Credit Union Administration for “Bureau” as meaning the Bureau of Federal Credit Unions.
 
 Par. (3). Pub. L. 91–206 substituted “Administration” as meaning the National Credit Union Administration for “Director” as meaning Director of the Bureau of Federal Credit Unions.
 
@@ -62,15 +62,15 @@ Par. (4). Pub. L. 91–206 added par. (4).
 
 Pars. (4) to (8). Pub. L. 91–468, §2, added pars. (4) to (8).
 
-1959—Pub. L. 86–354 designated the terms defined as subsecs. (1) to (3).
+<b>1959</b>—Pub. L. 86–354 designated the terms defined as subsecs. (1) to (3).
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–221 effective at close of Mar. 31, 1980, see section 306 of Pub. L. 96–221, set out as a note under section 371a of this title.
+Amendment by Pub. L. 96–221 effective at close of Mar. 31, 1980, see section 306 of Pub. L. 96–221, set out as a note under section 1464 of this title.
 
 #### Effective and Termination Dates of 1979 Amendment
 
-Amendment by Pub. L. 96–161 effective Dec. 31, 1979, with that amendment to remain in effect until the close of Mar. 31, 1980, see section 104 of Pub. L. 96–161, set out as a note under section 371a of this title.
+Amendment by Pub. L. 96–161 effective Dec. 31, 1979, with that amendment to remain in effect until the close of Mar. 31, 1980, see section 104 of Pub. L. 96–161, formerly set out as a note under section 371a of this title.
 
 #### Effective Date of 1978 Amendment
 

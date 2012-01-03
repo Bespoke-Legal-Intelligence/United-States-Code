@@ -12,7 +12,7 @@ Section was formerly classified to section 514b of Title 5 prior to the general 
 
 #### Amendments
 
-1976—Pub. L. 94–561 substituted “Deputy Secretary of Agriculture” for Under Secretary of Agriculture.
+<b>1976</b>—Pub. L. 94–561 substituted “Deputy Secretary of Agriculture” for Under Secretary of Agriculture.
 
 #### Effective Date of 1976 Amendment
 

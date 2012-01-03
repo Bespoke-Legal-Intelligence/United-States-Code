@@ -4,11 +4,11 @@
 
 (b) The Farm Credit Bank for each district shall annually obtain from associations under its supervision reports of activities under programs developed pursuant to subsection (a) of this section and progress toward program objectives. On the basis of such reports, the bank shall provide to the Farm Credit Administration an annual report summarizing the operations and achievements in its district under such programs.
 
-(Pub. L. 92–181, title IV, §4.19, as added Pub. L. 96–592, title IV, §403, Dec. 24, 1980, 94 Stat. 3446; amended Pub. L. 100–399, title IX, §901(i), (j), Aug. 17, 1988, 102 Stat. 1007.)
+(Pub. L. 92–181, title IV, §4.19, as added Pub. L. 96–592, title IV, §403, Dec. 24, 1980, 94 Stat. 3446;amended Pub. L. 100–399, title IX, §901(i), (j), Aug. 17, 1988, 102 Stat. 1007.)
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–399, §901(i), inserted “Farm Credit Bank” after “district”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–399, §901(i), inserted “Farm Credit Bank” after “district”.
 
 Subsec. (b). Pub. L. 100–399, §901(j)(1), (2), (4), (5), substituted “The Farm Credit Bank for each district” for “The Federal land bank and the Federal intermediate credit bank for each district”, “under its supervision” for “under their supervision”, “the bank shall” for “the banks shall”, “an annual report” for “a joint annual report”, and “achievements in its district” for “achievements in their district”.
 

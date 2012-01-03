@@ -56,7 +56,7 @@ Subsec. (c)(6). Pub. L. 96–496, §106(b), added par. (6).
 
 Subsecs. (d), (e). Pub. L. 96–496, §106(c), added subsecs. (d) and (e).
 
-<b>1976</b>—Subsec. (c)(2), (3). Pub. L. 94–462, §208(1), (2), added par. (2), redesignated former par. (2) as (3), and as so redesignated inserted “and the Institute of MuseumServices,” after “Humanities,”. Former par. (3) redesignated (4).
+<b>1976</b>—Subsec. (c)(2), (3). Pub. L. 94–462, §208(1), (2), added par. (2), redesignated former par. (2) as (3), and as so redesignated inserted “and the Institute of Museum Services,” after “Humanities,”. Former par. (3) redesignated (4).
 
 Subsec. (c)(4), (5). Pub. L. 94–462, §208(1), (3), redesignated former par. (3) as (4), inserted “and the Institute of Museum Services” after “Foundation”, and redesignated former par. (4) as (5).
 

@@ -8,7 +8,7 @@ Each registration shall remain in force for 10 years, except that the registrati
 
 &emsp;(2) Within the 1-year period immediately preceding the expiration of 10 years following the date of registration, and each successive 10-year period following the date of registration.
 
-&emsp;(3) The owner may file the affidavit required under this section within the 6-month graceperiod immediately following the expiration of the periods established in paragraphs (1) and (2), together with the fee described in subsection (b) and the additional grace period surcharge prescribed by the Director.
+&emsp;(3) The owner may file the affidavit required under this section within the 6-month grace period immediately following the expiration of the periods established in paragraphs (1) and (2), together with the fee described in subsection (b) and the additional grace period surcharge prescribed by the Director.
 
 #### (b) Requirements for affidavit
 

@@ -1,7 +1,5 @@
 Part H—Miscellaneous Provisions
 
-<i><sup>1</sup></i><i> So in original. No subpar. (B) has been enacted.</i>
-
 
 ---
 
@@ -12,6 +10,7 @@ Part H—Miscellaneous Provisions
 - [&sect; 00453 - Use of appropriated funds](%C2%A7%2000453%20-%20Use%20of%20appropriated%20funds.md)
 - [&sect; 00453a - Additional uses of appropriated funds](%C2%A7%2000453a%20-%20Additional%20uses%20of%20appropriated%20funds.md)
 - [&sect; 00453b - Requirement to buy certain items related to national security interests from American sources; exceptions](%C2%A7%2000453b%20-%20Requirement%20to%20buy%20certain%20items%20related%20to%20national%20security%20interests%20from%20American%20sources%3B%20exceptions.md)
+- [&sect; 00453c - Disposition of equines unfit for service](%C2%A7%2000453c%20-%20Disposition%20of%20equines%20unfit%20for%20service.md)
 - [&sect; 00454 - Future Years Homeland Security Program](%C2%A7%2000454%20-%20Future%20Years%20Homeland%20Security%20Program.md)
 - [&sect; 00455 - Miscellaneous authorities](%C2%A7%2000455%20-%20Miscellaneous%20authorities.md)
 - [&sect; 00456 - Military activities](%C2%A7%2000456%20-%20Military%20activities.md)

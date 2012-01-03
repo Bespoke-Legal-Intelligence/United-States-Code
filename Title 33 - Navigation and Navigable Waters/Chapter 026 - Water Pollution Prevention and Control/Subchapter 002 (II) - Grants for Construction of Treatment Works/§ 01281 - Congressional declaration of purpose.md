@@ -26,7 +26,7 @@ The Administrator shall encourage waste treatment management which results in th
 
 #### (e) Waste treatment management integration of facilities
 
-The Administrator shall encourage waste treatment management which results in integrating facilities for sewage treatment and recycling with facilities to treat, dispose of, or utilize other industrial and municipal wastes, including but not limited to solid waste and waste heat and thermal discharges. Such integrated facilities shall be designed and operated to produce revenues in excess of capital and operation and maintenance costs and such revenues shall be used by the designated regional management agency to aid in financing other environmental improvement programs.
+The Administrator shall encourage waste treatment management which results in integrating facilities for sewage treatment and recycling with facilities to treat, dispose of, or utilize other industrial and municipal wastes, including but not limited to solid waste and wasteheat and thermal discharges. Such integrated facilities shall be designed and operated to produce revenues in excess of capital and operation and maintenance costs and such revenues shall be used by the designated regional management agency to aid in financing other environmental improvement programs.
 
 #### (f) Waste treatment management “open space” and recreational considerations
 
@@ -56,7 +56,7 @@ A grant may be made under this section to construct a privately owned treatment 
 
 &emsp;(1) a public body otherwise eligible for a grant under subsection (g) of this section has applied on behalf of a number of such units and certified that public ownership of such works is not feasible;
 
-&emsp;(2) such public body has entered into an agreement with the Administrator which guarantees that such treatment works will be properly operated and maintained and will comply with all other requirements of section 1284 of this title and includes a system of charges to assure that each recipient of waste treatment services under such a grant will pay its proportionate share of the cost of operation and maintenance (including replacement); and
+&emsp;(2) such public body has entered into an agreement with the Administrator which guarantees that such treatment works will be properly operated and maintained and will comply with all other requirements of section 1284 of this title and includes a system of charges to assure that each recipient of waste treatment services under such a grant will payits proportionate share of the cost of operation and maintenance (including replacement); and
 
 &emsp;(3) the total cost and environmental impact of providing waste treatment services to such residences or commercial establishments will be less than the cost of providing a system of collection and central treatment of such wastes.
 
@@ -264,7 +264,7 @@ Section 12 of Pub. L. 92–500, as amended by Pub. L. 97–258, §4(b), Sept. 13
 
 “(c) \[Congressional Declaration of Purpose\] The purpose of this section is to assure that inability to borrow necessary funds on reasonable terms does not prevent any State or local public body from carrying out any project for construction of waste treatment works determined eligible for assistance pursuant to subsection (e) of this section.
 
-“(d) \[Board of Directors\] (1) The Authority shall have a Board of Directors consisting of five persons, one of whom shall be the Secretary of the Treasury or his designee as Chairman of the Board, and four of whom shall be appointed by the President from among the officers or employees of the Authority or of any department or agency of the United States Government.
+“(d) \[Board of Directors\] (1) The Authority shall have a Board of Directors consisting of five persons, one ofwhom shall be the Secretary of the Treasury or his designee as Chairman of the Board, and four of whom shall be appointed by the President from among the officers or employees of the Authority or of any department or agency of the United States Government.
 
 “(2) The Board of Directors shall meet at the call of its Chairman. The Board shall determine the general policies which shall govern the operations of the Authority. The Chairman of the Board shall select and effect the appointment of qualified persons to fill the offices as may be provided for in the bylaws, with such executive functions, powers, and duties as may be prescribed by the bylaws or by the Board of Directors, and such persons shall be the executive officers of the Authority and shall discharge all such executive functions, powers, and duties. The members of the Board, as such, shall not receive compensation for their services.
 

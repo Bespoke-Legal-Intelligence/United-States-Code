@@ -2,12 +2,15 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [991\.](%C2%A7%2000991%20-%20Management%20of%20deployments%20of%20members.md) | Management of deployments of members. |
+| [991\.](%C2%A7%2000991%20-%20Management%20of%20deployments%20of%20members%20and%20measurement%20and%20data%20collection%20of%20unit%20operating%20and%20personnel%20tempo.md) | Management of deployments of members and measurement and data collection of unit operating and personnel tempo. |
 | [992\.](%C2%A7%2000992%20-%20Consumer%20education%20financial%20services.md) | Consumer education: financial services. |
+| [993\.](%C2%A7%2000993%20-%20Notification%20of%20permanent%20reduction%20of%20sizable%20numbers%20of%20members%20of%20the%20armed%20forces.md) | Notification of permanent reduction of sizable numbers of members of the armed forces. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2011</b>—Pub. L. 112–81, div. A, title V, §522(d)(2), div. B, title XXVIII, §2864(b), Dec. 31, 2011, 125 Stat. 1401, 1702, substituted “Management of deployments of members and measurement and data collection of unit operating and personnel tempo” for “Management of deployments of members” in item 991 and added item 993.
 
 <b>2006</b>—Pub. L. 109–163, div. A, title V, §578(a)(2), Jan. 6, 2006, 119 Stat. 3276, added item 992.
 
@@ -16,5 +19,6 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 00991 - Management of deployments of members](%C2%A7%2000991%20-%20Management%20of%20deployments%20of%20members.md)
+- [&sect; 00991 - Management of deployments of members and measurement and data collection of unit operating and personnel tempo](%C2%A7%2000991%20-%20Management%20of%20deployments%20of%20members%20and%20measurement%20and%20data%20collection%20of%20unit%20operating%20and%20personnel%20tempo.md)
 - [&sect; 00992 - Consumer education financial services](%C2%A7%2000992%20-%20Consumer%20education%20financial%20services.md)
+- [&sect; 00993 - Notification of permanent reduction of sizable numbers of members of the armed forces](%C2%A7%2000993%20-%20Notification%20of%20permanent%20reduction%20of%20sizable%20numbers%20of%20members%20of%20the%20armed%20forces.md)

@@ -6,7 +6,7 @@ The Secretary shall round any payments under this subchapter to the nearest whol
 
 #### (b) Other agencies
 
-Each Federal agency administering Federal property on which children reside, and eachagency principally responsible for an activity that may occasion assistance under this subchapter, shall, to the maximum extent practicable, comply with requests of the Secretary for information the Secretary may require to carry out this subchapter.
+Each Federal agency administering Federal property on which children reside, and each agency principally responsible for an activity that may occasion assistance under this subchapter, shall, to the maximum extent practicable, comply with requests of the Secretary for information the Secretary may require to carry out this subchapter.
 
 #### (c) Special rules
 

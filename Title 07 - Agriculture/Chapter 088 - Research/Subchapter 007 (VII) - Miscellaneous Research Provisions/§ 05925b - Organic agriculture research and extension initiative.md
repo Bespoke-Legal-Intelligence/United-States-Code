@@ -68,13 +68,13 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (a)(7), (8). Pub. L. 110–246, §7206(a)(1), added pars. (7) and (8).
+<b>2008</b>—Subsec. (a)(7), (8). Pub. L. 110–246, §7206(a)(1), added pars. (7) and (8).
 
 Subsec. (b). Pub. L. 110–246, §7406(d)(3), substituted “Paragraphs (4), (7), (8), and (11)(B)” for “Paragraphs (1), (6), (7), and (11)”.
 
 Subsec. (f). Pub. L. 110–246, §7206(a)(2), added subsec. (f).
 
-2002—Subsec. (a)(1). Pub. L. 107–171, §7218(1)(A), inserted “, breeding,” after “production”.
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–171, §7218(1)(A), inserted “, breeding,” after “production”.
 
 Subsec. (a)(4) to (6). Pub. L. 107–171, §7218(1)(B)–(D), added pars. (4) to (6).
 

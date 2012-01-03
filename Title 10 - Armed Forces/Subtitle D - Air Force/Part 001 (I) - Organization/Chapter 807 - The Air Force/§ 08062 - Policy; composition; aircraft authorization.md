@@ -26,7 +26,7 @@
 
 (f) There are authorized for the Air Force 24,000 serviceable aircraft or 225,000 airframe tons of serviceable aircraft, whichever the Secretary of the Air Force considers appropriate to carry out this section. This subsection does not apply to guided missiles.
 
-(g)(1) Effective October 1, 2009, the Secretary of the Air Force shall maintain a total aircraft inventory of strategic airlift aircraft of not less than 316 aircraft.
+(g)(1) Effective October 1, 2011, the Secretary of the Air Force shall maintain a total aircraft inventory of strategic airlift aircraft of not less than 301 aircraft.
 
 (2) In this subsection:
 
@@ -38,7 +38,7 @@
 
 &emsp;(B) The term “outsized cargo” means any single item of equipment that exceeds 1,090 inches in length, 117 inches in width, or 105 inches in height.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 493; Pub. L. 96–513, title V, §504(4), Dec. 12, 1980, 94 Stat. 2916; Pub. L. 99–433, title I, §110(g)(10), Oct. 1, 1986, 100 Stat. 1004; Pub. L. 100–26, §7(g)(3), Apr. 21, 1987, 101 Stat. 282; Pub. L. 100–180, div. A, title XIII, §1314(b)(9), Dec. 4, 1987, 101 Stat. 1176; Pub. L. 109–163, div. A, title X, §1057(a)(6), Jan. 6, 2006, 119 Stat. 3441; Pub. L. 109–364, div. A, title I, §132, Oct. 17, 2006, 120 Stat. 2112; Pub. L. 111–84, div. A, title I, §139, Oct. 28, 2009, 123 Stat. 2223.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 493; Pub. L. 96–513, title V, §504(4), Dec. 12, 1980, 94 Stat. 2916; Pub. L. 99–433, title I, §110(g)(10), Oct. 1, 1986, 100 Stat. 1004; Pub. L. 100–26, §7(g)(3), Apr. 21, 1987, 101 Stat. 282; Pub. L. 100–180, div. A, title XIII, §1314(b)(9), Dec. 4, 1987, 101 Stat. 1176; Pub. L. 109–163, div. A, title X, §1057(a)(6), Jan. 6, 2006, 119 Stat. 3441; Pub. L. 109–364, div. A, title I, §132, Oct. 17, 2006, 120 Stat. 2112; Pub. L. 111–84, div. A, title I, §139, Oct. 28, 2009, 123 Stat. 2223; Pub. L. 112–81, div. A, title I, §131, Dec. 31, 2011, 125 Stat. 1320.)
 
 Historical and Revision Notes
 
@@ -105,6 +105,8 @@ In subsection (e), the words “Effective on July 10, 1950” are omitted as exe
 In subsection (f), the word “considers” is substituted for the words “may determine is more”. The words “aggregate” and “amount” are omitted as surplusage. The words “carry out this section” are substituted for the words “fulfill the requirements of the Air Force of the United States for aircraft necessary to carry out the purposes of this chapter, section 481 of this title, and sections 235, 235a, 628, and 628a of title 5”, since the purposes to which the reference is made are stated in the revised section. The last sentence is substituted for 10:20t (proviso).
 
 #### Amendments
+
+<b>2011</b>—Subsec. (g)(1). Pub. L. 112–81 substituted “October 1, 2011” for “October 1, 2009” and “301 aircraft” for “316 aircraft”.
 
 <b>2009</b>—Subsec. (g)(1). Pub. L. 111–84 substituted “2009” for “2008” and “316” for “299”.
 

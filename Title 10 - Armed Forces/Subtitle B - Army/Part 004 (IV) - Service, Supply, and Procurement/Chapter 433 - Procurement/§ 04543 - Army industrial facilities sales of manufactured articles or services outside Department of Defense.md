@@ -14,7 +14,7 @@ Authority To Sell Outside DOD.—Regulations under section 2208(h) of this title
 
 &emsp;&emsp;(D) for use in commercial products;
 
-&emsp;(2) in the case of an article, the purchaser is determined by the Department of Defense to be qualified to carry out the proposed work involving the article to be purchased;
+&emsp;(2) in the case of an article, the purchaser is determined by the Department of Defense tobe qualified to carry out the proposed work involving the article to be purchased;
 
 &emsp;(3) the sale is to be made on a basis that does not interfere with performance of work by the facility for the Department of Defense or for a contractor of the Department of Defense;
 

@@ -140,7 +140,7 @@ Sec. 2. <i>Requirements Applicable to Employing Departments and Agencies.</i>
 
 &emsp;&emsp;(2) to an occupational or other health researcher, if the research conducted complies with the regulations and protections provided for under part 46 of title 45, of the Code of Federal Regulations;
 
-&emsp;&emsp;(3) if required by a Federal statute, congressional subpoena, or an order issued by a court of competent jurisdiction, except that if the subpoena or court order was secured without the knowledge of the individual to whom the information refers, the employer shall provide the individual with adequate notice to challenge the subpoena or court order, unless the subpoena or court order also imposes confidentiality requirements; or
+&emsp;&emsp;(3) if required by a Federal statute, congressional subpoena, or an order issued by a court of competent jurisdiction, except that if the subpoena or court order was secured without the knowledge of the individual to whom the information refers, theemployer shall provide the individual with adequate notice to challenge the subpoena or court order, unless the subpoena or court order also imposes confidentiality requirements; or
 
 &emsp;&emsp;(4) to executive branch officials investigating compliance with this order, if the information is relevant to the investigation.
 

@@ -60,11 +60,11 @@ Section is from the Legislative Branch Appropriations Act, 2005, which is div. G
 
 #### Amendments
 
-2009—Subsec. (a)(6). Pub. L. 111–8 added par. (6).
+<b>2009</b>—Subsec. (a)(6). Pub. L. 111–8 added par. (6).
 
-2007—Subsec. (b). Pub. L. 110–161 substituted “the Chief Administrative Officer, including purposes relating to energy and water conservation and environmental activities carried out in buildings, facilities, and grounds under the Chief Administrative Officer's jurisdiction,” for “the Chief Administrative Officer”.
+<b>2007</b>—Subsec. (b). Pub. L. 110–161 substituted “the Chief Administrative Officer, including purposes relating to energy and water conservation and environmental activities carried out in buildings, facilities, and grounds under the Chief Administrative Officer's jurisdiction,” for “the Chief Administrative Officer”.
 
-2005—Subsec. (a)(5). Pub. L. 109–13 added par. (5).
+<b>2005</b>—Subsec. (a)(5). Pub. L. 109–13 added par. (5).
 
 #### Effective Date of 2009 Amendment
 

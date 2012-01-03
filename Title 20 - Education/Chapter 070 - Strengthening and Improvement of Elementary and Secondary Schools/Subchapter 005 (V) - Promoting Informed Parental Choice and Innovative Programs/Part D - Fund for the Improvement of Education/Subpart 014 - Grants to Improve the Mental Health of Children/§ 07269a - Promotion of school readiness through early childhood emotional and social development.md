@@ -22,7 +22,7 @@ To be eligible to receive a grant under this section, a local educational agency
 
 &emsp;&emsp;(D) funds received under this section shall be used to supplement, and not supplant, non-Federal funds; and
 
-&emsp;&emsp;(E) parents of students participating in services under this section will be involved in the design and implementation of the services.
+&emsp;&emsp;(E) parents of students participating in services under this section will be involvedin the design and implementation of the services.
 
 #### (c) Uses of funds
 

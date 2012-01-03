@@ -2,7 +2,7 @@
 
 #### (a) Application requirements; contents; restrictions
 
-(1) Except as provided in paragraph (3) of this section,<sup>1</sup> any person may file with the Secretary an application for conditional approval of a new animal drug intended for a minor use or a minor species. Such an application may not be a supplement to an application approved under section 360b of this title. Such application must comply in all respects with the provisions of section 360b of this title except sections 360b(a)(4), 360b(b)(2), 360b(c)(1), 360b(c)(2), 360b(c)(3), 360b(d)(1), 360b(e), 360b(h), and 360b(n) of this title unless otherwise stated in this section, and any additional provisions of this section. New animal drugs are subject to application of thesame safety standards that would be applied to such drugs under section 360b(d) of this title (including, for antimicrobial new animal drugs, with respect to antimicrobial resistance).
+(1) Except as provided in paragraph (3) of this section,<sup>1</sup> any person may file with the Secretary an application for conditional approval of a new animal drug intended for a minor use or a minor species. Such an application may not be a supplement to an application approved under section 360b of this title. Such application must comply in all respects with the provisions of section 360b of this title except sections 360b(a)(4), 360b(b)(2), 360b(c)(1), 360b(c)(2), 360b(c)(3), 360b(d)(1), 360b(e), 360b(h), and 360b(n) of this title unless otherwise stated in this section, and any additional provisions of this section. New animal drugs are subject to application of the same safety standards that would be applied to such drugs under section 360b(d) of this title (including, for antimicrobial new animal drugs, with respect to antimicrobial resistance).
 
 (2) The applicant shall submit to the Secretary as part of an application for the conditional approval of a new animal drug—
 
@@ -60,7 +60,7 @@ A conditional approval under this section is effective for a 1-year period and i
 
 &emsp;&emsp;&emsp;(i) the applicant is making sufficient progress toward meeting approval requirements under section 360b(d)(1)(E) of this title, and is likely to be able to fulfill those requirements and obtain an approval under section 360b of this title before the expiration of the 5-year maximum term of the conditional approval;
 
-&emsp;&emsp;&emsp;(ii) the quantity of the drug that has been distributed is consistent with theconditionally approved intended use and conditions of use, unless there is adequate explanation that ensures that the drug is only used for its intended purpose; or
+&emsp;&emsp;&emsp;(ii) the quantity of the drug that has been distributed is consistent with the conditionally approved intended use and conditions of use, unless there is adequate explanation that ensures that the drug is only used for its intended purpose; or
 
 &emsp;&emsp;&emsp;(iii) the same drug in the same dosage form for the same intended use has not received approval under section 360b of this title, or if such a drug has been approved, that the holder of the approved application is unable to assure the availability of sufficient quantities of the drug to meet the needs for which the drug is intended; or
 
@@ -70,7 +70,7 @@ A conditional approval under this section is effective for a 1-year period and i
 
 #### (e) Withdrawal of conditional approval
 
-(1) The Secretary shall issue an order withdrawing conditional approval of an application filed pursuant to subsection (a) of this section if the Secretary finds that another person has received approval under section 360b of this title for the same drug in the same dosage form for the same intended use and that person is able to assure the availability of sufficient quantities of the drug to meet the needs for which the drug is intended.
+(1) The Secretary shall issue an order withdrawing conditional approval of an application filed pursuant to subsection (a) of this section if the Secretary finds that another person has received approval under section 360b of this title for the same drug in the same dosage form for the same intended use and that person is able to assure the availability of sufficient quantities ofthe drug to meet the needs for which the drug is intended.
 
 (2) The Secretary shall, after due notice and opportunity for an informal hearing to the applicant, issue an order withdrawing conditional approval of an application filed pursuant to subsection (a) of this section if the Secretary finds that—
 

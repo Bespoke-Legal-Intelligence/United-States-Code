@@ -56,7 +56,7 @@
 
 Subsec. (b)(2) to (16). Pub. L. 102–372, §5(2), (3), added pars. (2) to (5) and redesignated former pars. (2) to (12) as (6) to (16), respectively.
 
-<b>1981</b>—Pub. L. 97–63 substituted provisions setting out a detailed 4-point recital of Congressional findings and establishing a 12-point national tourism policy for provisions setting out the former declaration of purpose of this chapter which was to strengthen the domestic and foreign commerce of the United States, and promote friendly understanding and appreciation of the United States by encouraging foreign residents to visit the United States and by facilitating international travel generally.
+<b>1981</b>—Pub. L. 97–63 substituted provisions setting out a detailed 4-point recital of Congressional findings and establishing a 12-point national tourism policy for provisions setting out the former declaration of purpose ofthis chapter which was to strengthen the domestic and foreign commerce of the United States, and promote friendly understanding and appreciation of the United States by encouraging foreign residents to visit the United States and by facilitating international travel generally.
 
 #### Effective Date of 1981 Amendment
 
@@ -68,7 +68,7 @@ Pub. L. 104–288, §1, Oct. 11, 1996, 110 Stat. 3402, provided that: “This Ac
 
 #### Short Title of 1992 Amendment
 
-Section 1(a) of Pub. L. 102–372 provided that: “This Act \[enacting sections 2123a to 2123d and 2124c of thistitle, amending this section and sections 2122, 2123, 2124 to 2124b, and 2126 of this title, repealing sections 2123a and 2123b of this title, and enacting provisions set out as notes under this section and sections 2122 and 2124 of this title\] may be cited as the ‘Tourism Policy and Export Promotion Act of 1992’.”
+Section 1(a) of Pub. L. 102–372 provided that: “This Act \[enacting sections 2123a to 2123d and 2124c of this title, amending this section and sections 2122, 2123, 2124 to 2124b, and 2126 of this title, repealing sections 2123a and 2123b of this title, and enacting provisions set out as notes under this section and sections 2122 and 2124 of this title\] may be cited as the ‘Tourism Policy and Export Promotion Act of 1992’.”
 
 #### Short Title of 1981 Amendment
 
@@ -136,7 +136,7 @@ Pub. L. 91–477, §6, Oct. 21, 1970, 84 Stat. 1073, provided that:
 
 &emsp;“(5) determining whether a separate agency of the Government should be established, or whether an existing department, agency, or instrumentality within the Government should be designated, to consolidate and coordinate tourism research, planning, and development activities presently performed by different existing agencies of the Government.
 
-> The Commission shall submit a comprehensive report of its activities and the results of such study and investigation, together with its recommendations with respect thereto, to the President and to the Congress not later than two years after the first meeting of the Commission. The Commission shall cease to exist sixty days after the date of the submission of its comprehensive report. The comprehensive report of the Commission shall propose such legislative enactments and administrative actions as in its judgment are necessary to carry out its recommendations.
+> The Commission shall submit a comprehensive report of its activities and the results of such study and investigation, together with its recommendations with respect thereto, to the President and to the Congress not later than two years after the first meeting of the Commission. The Commission shall cease to exist sixtydays after the date of the submission of its comprehensive report. The comprehensive report of the Commission shall propose such legislative enactments and administrative actions as in its judgment are necessary to carry out its recommendations.
 
 “(c) \[<i>Secretarial, clerical, and other assistance by Secretary of Commerce; information and assistance by Governmental departments and agencies</i>\]. The Secretary of Commerce shall make available to the Commission such secretarial, clerical, and other assistance as the Commission may require to carry out its functions under this section. The Commission is authorized to request from any department, agency, or independent instrumentality of the Government any information and assistance it deems necessary to carry out its functions under this section; and each such department, agency, and instrumentality is authorized to cooperate with the Commission and, to the extent permitted by law, to furnish such information and assistance to the Commission upon request made by its Chairman.
 

@@ -22,17 +22,15 @@ Duties.—The head of the office shall ensure that the office—
 
 &emsp;(5) provides private firms with assistance to resolve problems associated with security clearances, proprietary rights, and other legal considerations involved in such a transition of technology.
 
-(d)
-
-Biennial Report.—The Secretary of Defense shall submit to the congressional defense committees a biennial report on the activities of the Office. The report shall be submitted each even-numbered year at the same time that the budget is submitted to Congress by the President pursuant to section 1105 of title 31. The report shall contain a discussion of the accomplishments of the Office during the two fiscal years preceding the fiscal year in which the report is submitted.
-
-(Added Pub. L. 102–484, div. D, title XLII, §4225(a), Oct. 23, 1992, 106 Stat. 2683; amended Pub. L. 104–106, div. A, title XV, §1502(a)(22), Feb. 10, 1996, 110 Stat. 505; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §1031(a)(23), Nov. 24, 2003, 117 Stat. 1598; Pub. L. 108–375, div. A, title X, §1084(b)(3), Oct. 28, 2004, 118 Stat. 2060.)
+(Added Pub. L. 102–484, div. D, title XLII, §4225(a), Oct. 23, 1992, 106 Stat. 2683; amended Pub. L. 104–106, div. A, title XV, §1502(a)(22), Feb. 10, 1996, 110 Stat. 505; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §1031(a)(23), Nov. 24, 2003, 117 Stat. 1598; Pub. L. 108–375, div. A, title X, §1084(b)(3), Oct. 28, 2004, 118 Stat. 2060; Pub. L. 112–81, div. A, title X, §1061(18), Dec. 31, 2011, 125 Stat. 1584.)
 
 #### Prior Provisions
 
 A prior section 2515, added Pub. L. 101–510, div. A, title VIII, §823(a)(3), Nov. 5, 1990, 104 Stat. 1602, related to computer-integrated manufacturing technology, prior to repeal by Pub. L. 102–484, §4202(a).
 
 #### Amendments
+
+<b>2011</b>—Subsec. (d). Pub. L. 112–81 struck out subsec. (d). Prior to amendment, text read as follows: “The Secretary of Defense shall submit to the congressional defense committees a biennial report on the activities of the Office. The report shall be submitted each even-numbered year at the same time that the budget is submitted to Congress by the President pursuant to section 1105 of title 31. The report shall contain a discussion of the accomplishments of the Office during the two fiscal years preceding the fiscal year in which the report is submitted.”
 
 <b>2004</b>—Subsec. (d). Pub. L. 108–375 struck out par. (1) designation before “The Secretary”, substituted “congressional defense committees” for “congressional committees specified in paragraph (2)”, and struck out par. (2) which read as follows: “The committees referred to in paragraph (1) are—
 
@@ -46,7 +44,7 @@ Subsec. (d)(1). Pub. L. 108–136, §1031(a)(23)(B), substituted “a biennial r
 
 <b>1999</b>—Subsec. (d)(2)(B). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
 
-<b>1996</b>—Subsec. (d). Pub. L. 104–106 substituted “Annual Report” for “Reporting Requirement” in heading, designated existing provisions as par. (1), substituted “The Secretary of Defense shall submit to the congressional committees specified in paragraph (2) an annual report on the activities of the Office. The report shall be submitted each year at the same time” for “The Secretary of Defense shall submit to the Committees on Armed Services and on Appropriations of the Senate and the House of Representatives an annual report on the activities of the Office at the same time”, and added par. (2).
+<b>1996</b>—Subsec. (d). Pub. L. 104–106 substituted “Annual Report” for “Reporting Requirement” in heading, designated existing provisions as par. (1), substituted “The Secretary of Defense shall submit to the congressional committees specified in paragraph (2) an annual report on the activities of the Office. The report shall be submitted each year at the same time” for “The Secretary of Defense shall submit to the Committees on ArmedServices and on Appropriations of the Senate and the House of Representatives an annual report on the activities of the Office at the same time”, and added par. (2).
 
 #### Schedule for Establishment of Office of Technology Transition
 

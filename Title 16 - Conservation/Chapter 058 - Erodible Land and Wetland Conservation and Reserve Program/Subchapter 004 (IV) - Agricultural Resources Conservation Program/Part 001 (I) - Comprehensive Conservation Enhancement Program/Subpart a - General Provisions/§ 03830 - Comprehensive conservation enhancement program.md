@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;During the 1996 through 2002 calendar years, the Secretary shall establish a comprehensive conservation enhancement program (referredto in this section as “CCEP”) to be implemented through contracts and the acquisition of easements to assist owners and operators of farms and ranches to conserve and enhance soil, water, and related natural resources, including grazing land, wetland, and wildlife habitat.
+&emsp;During the 1996 through 2002 calendar years, the Secretary shall establish a comprehensive conservation enhancement program (referred to in this section as “CCEP”) to be implemented through contracts and the acquisition of easements to assist owners and operators of farms and ranches to conserve and enhance soil, water, and related natural resources, including grazing land, wetland, and wildlife habitat.
 
 #### (2) Means
 

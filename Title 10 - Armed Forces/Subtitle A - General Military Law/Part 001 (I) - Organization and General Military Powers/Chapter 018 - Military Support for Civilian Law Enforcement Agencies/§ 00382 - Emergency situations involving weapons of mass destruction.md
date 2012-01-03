@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary of Defense, upon the request of the Attorney General, may provide assistance in support of Department of Justice activities relating to the enforcement of section 175, 229, or 2332a of title 18 during an emergency situation involving a biological or chemical weapon of mass destruction. Department of Defense resources, including personnel of the Department of Defense, may be used to provide such assistance if—
+In General.—The Secretary of Defense, upon the request of the Attorney General, may provide assistance in support of Department of Justice activities relating to the enforcement of section 175, 229, or 2332a of title 18 during an emergency situation involving a weapon of mass destruction. Department of Defense resources, including personnel of the Department of Defense, may be used to provide such assistance if—
 
 &emsp;(1) the Secretary of Defense and the Attorney General jointly determine that an emergency situation exists; and
 
@@ -10,7 +10,7 @@ In General.—The Secretary of Defense, upon the request of the Attorney General
 
 (b)
 
-Emergency Situations Covered.—In this section, the term “emergency situation involving a biological or chemical weapon of mass destruction” means a circumstance involving a biological or chemical weapon of mass destruction—
+Emergency Situations Covered.—In this section, the term “emergency situation involving a weapon of mass destruction” means a circumstance involving a weapon of mass destruction—
 
 &emsp;(1) that poses a serious threat to the interests of the United States; and
 
@@ -58,13 +58,19 @@ Delegations of Authority.—(1) Except to the extent otherwise provided by the S
 
 Relationship to Other Authority.—Nothing in this section shall be construed to restrict any executive branch authority regarding use of members of the armed forces or equipment of the Department of Defense that was in effect before September 23, 1996.
 
-(Added Pub. L. 104–201, div. A, title XIV, §1416(a)(1), Sept. 23, 1996, 110 Stat. 2721; amended Pub. L. 105–85, div. A, title X, §1073(a)(6), Nov. 18, 1997, 111 Stat. 1900; Pub. L. 111–383, div. A, title X, §1075(b)(10)(A), (B), Jan. 7, 2011, 124 Stat. 4369.)
+(Added Pub. L. 104–201, div. A, title XIV, §1416(a)(1), Sept. 23, 1996, 110 Stat. 2721; amended Pub. L. 105–85, div. A, title X, §1073(a)(6), Nov. 18, 1997, 111 Stat. 1900; Pub. L. 111–383, div. A, title X, §1075(b)(10)(A), (B), Jan. 7, 2011, 124 Stat. 4369; Pub. L. 112–81, div. A, title X, §1089, Dec. 31, 2011, 125 Stat. 1603.)
 
 #### Amendments
 
 <b>2011</b>—Pub. L. 111–383, §1075(b)(10)(B), struck out “chemical or biological” before “weapons” in section catchline.
 
-Subsecs. (a), (b)(2)(C), (d)(2)(A)(ii). Pub. L. 111–383, §1075(b)(10)(A), substituted “section 175, 229, or 2332a” for “section 175 or 2332c”.
+Subsec. (a). Pub. L. 112–81 struck out “biological or chemical” before “weapon of mass destruction” in introductory provisions.
+
+Pub. L. 111–383, §1075(b)(10)(A), substituted “section 175, 229, or 2332a” for “section 175 or 2332c”.
+
+Subsec. (b). Pub. L. 112–81 struck out “biological or chemical” before “weapon of mass destruction” in two places in introductory provisions.
+
+Subsecs. (b)(2)(C), (d)(2)(A)(ii). Pub. L. 111–383, §1075(b)(10)(A), substituted “section 175, 229, or 2332a” for “section 175 or 2332c”.
 
 <b>1997</b>—Subsec. (g). Pub. L. 105–85 substituted “September 23, 1996” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 1997”.
 

@@ -104,7 +104,7 @@ Deposit insurance fund available for intended purpose only.—
 
 &emsp;&emsp;(i)
 
-In general.—After December 31, 1994, or at such earlier time as the Corporationdetermines to be appropriate, the Corporation may not take any action, directly or indirectly, with respect to any insured depository institution that would have the effect of increasing losses to the Deposit Insurance Fund by protecting—
+In general.—After December 31, 1994, or at such earlier time as the Corporation determines to be appropriate, the Corporation may not take any action, directly or indirectly, with respect to any insured depository institution that would have the effect of increasing losses to the Deposit Insurance Fund by protecting—
 
 &emsp;&emsp;&emsp;(I) depositors for more than the insured portion of deposits (determined without regard to whether such institution is liquidated); or
 
@@ -130,11 +130,11 @@ Systemic risk.—
 
 Emergency determination by secretary of the treasury.—Notwithstanding subparagraphs (A) and (E), if, upon the written recommendation of the Board of Directors (upon a vote of not less than two-thirds of the members of the Board of Directors) and the Board of Governors of the Federal Reserve System (upon a vote of not less than two-thirds of the members of such Board), the Secretary of the Treasury (in consultation with the President) determines that—
 
-&emsp;&emsp;&emsp;(I) the Corporation's compliance with subparagraphs (A) and (E) with respect to an insured depository institution would have serious adverse effects on economic conditions or financial stability; and
+&emsp;&emsp;&emsp;(I) the Corporation's compliance with subparagraphs (A) and (E) with respect toan insured depository institution for which the Corporation has been appointed receiver would have serious adverse effects on economic conditions or financial stability; and
 
 &emsp;&emsp;&emsp;(II) any action or assistance under this subparagraph would avoid or mitigate such adverse effects,
 
-> &emsp;&emsp;the Corporation may take other action or provide assistance under this section as necessary to avoid or mitigate such effects.
+> &emsp;&emsp;the Corporation may take other action or provide assistance under this section for the purpose of winding up the insured depository institution for which the Corporation has been appointed receiver as necessary to avoid or mitigate such effects.
 
 &emsp;&emsp;(ii)
 
@@ -176,7 +176,7 @@ Notice.—
 
 &emsp;&emsp;&emsp;(I)
 
-In general.—The Secretary of the Treasury shall provide written notice of any determination under clause (i) to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives.
+In general.—Not later than 3 days after making a determination under clause (i), the Secretary of the Treasury shall provide written notice of any determination under clause (i) to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives.
 
 &emsp;&emsp;&emsp;(II)
 
@@ -298,7 +298,7 @@ Unenforceability of certain agreements.—No provision contained in any existing
 
 &emsp;An agreement to provide for the lawful collateralization of—
 
-&emsp;&emsp;(A) deposits of, or other credit extension by, a Federal, State, or local governmental entity, or of any depositor referred to in section 1821(a)(2) of this title, including an agreement to provide collateral in lieu of a surety bond;
+&emsp;&emsp;(A) deposits of, or other credit extension by, a Federal, State, or local governmentalentity, or of any depositor referred to in section 1821(a)(2) of this title, including an agreement to provide collateral in lieu of a surety bond;
 
 &emsp;&emsp;(B) bankruptcy estate funds pursuant to section 345(b)(2) of title 11;
 
@@ -342,7 +342,7 @@ Acquisition of a holding company or other bank affiliate.—If one or more out-o
 
 &emsp;(C)
 
-Request for assistance by corporate board of directors.—The Corporation mayassist an acquisition or merger authorized under subparagraph (A) only if the board of directors or trustees of each insured bank in danger of default which is being acquired has requested in writing that the Corporation assist the acquisition or merger.
+Request for assistance by corporate board of directors.—The Corporation may assist an acquisition or merger authorized under subparagraph (A) only if the board of directors or trustees of each insured bank in danger of default which is being acquired has requested in writing that the Corporation assist the acquisition or merger.
 
 &emsp;(D)
 
@@ -530,7 +530,7 @@ The powers conferred on the Board of Directors and the Corporation by this secti
 
 #### (1) Eligibility
 
-&emsp;The appropriate Federal banking agency shall permit an agricultural bank to take the actions referred to in paragraph (2) if it finds that—
+&emsp;The appropriate Federal banking agency shall permit an agricultural bank to take theactions referred to in paragraph (2) if it finds that—
 
 &emsp;&emsp;(A) there is no evidence that fraud or criminal abuse on the part of the bank led to the losses referred to in paragraph (2); and
 
@@ -598,7 +598,7 @@ The powers conferred on the Board of Directors and the Corporation by this secti
 
 #### (iv) Acquisitions by savings associations
 
-&emsp;&emsp;&emsp;Any Federal savings association that acquires another savings association pursuant to clause (i) may, with the concurrence of the Director of the Office of Thrift Supervision, hold that savings association as a subsidiary notwithstanding the percentage limitations of section 1464(c)(4)(B) of this title.
+&emsp;&emsp;&emsp;Any Federal savings association that acquires another savings association pursuant to clause (i) may, with the concurrence of the Comptroller of the Currency, hold that savings association as a subsidiary notwithstanding the percentage limitations of section 1464(c)(4)(B) of this title.
 
 #### (v) Dual service
 
@@ -682,7 +682,7 @@ The powers conferred on the Board of Directors and the Corporation by this secti
 
 &emsp;&emsp;&emsp;&emsp;(II) The member's negative tangible capital position is substantially attributable to its participation in acquisition and merger transactions that were instituted by the Federal Home Loan Bank Board or the Federal Savings and Loan Insurance Corporation for supervisory reasons.
 
-&emsp;&emsp;&emsp;&emsp;(III) The member is a qualified thrift lender (as defined in section 1467a(m) of this title) or would be a qualified thrift lender if commercial real estate owned and nonperforming commercial loans acquired in acquisition and merger transactions that were instituted by the Federal Home Loan Bank Board or the Federal Savings and Loan Insurance Corporation for supervisory reasons were excluded from the member's total assets.
+&emsp;&emsp;&emsp;&emsp;(III) The member is a qualified thrift lender (as defined in section 1467a(m) of this title) or would be a qualified thriftlender if commercial real estate owned and nonperforming commercial loans acquired in acquisition and merger transactions that were instituted by the Federal Home Loan Bank Board or the Federal Savings and Loan Insurance Corporation for supervisory reasons were excluded from the member's total assets.
 
 &emsp;&emsp;&emsp;&emsp;(IV) The appropriate Federal banking agency has determined that the member's management is competent and has complied with applicable laws, rules, and supervisory directives and orders.
 
@@ -698,13 +698,13 @@ The powers conferred on the Board of Directors and the Corporation by this secti
 
 &emsp;&emsp;For purposes of this paragraph, the term “economically depressed region” means any geographical region which the Corporation determines by regulation to be a region within which real estate values have suffered serious decline due to severe economic conditions, such as a decline in energy or agricultural values or prices.
 
-(Sept. 21, 1950, ch. 967, §2\[13\], 64 Stat. 888; Pub. L. 95–369, §6(c)(24), Sept. 17, 1978, 92 Stat. 619; Pub. L. 97–320, title I, §§111, 113(m), 116, 141(a)(1), (3), title II, §§203, 206, Oct. 15, 1982, 96 Stat. 1469, 1474, 1476, 1488, 1489, 1492, 1496; Pub. L. 97–457, §§1(a), 4, 10(a), Jan. 12, 1983, 96 Stat. 2507, 2508; Pub. L. 98–29, §1(a), May 16, 1983, 97 Stat. 189; Pub. L. 100–86, title V, §§502(a)–(g), (i), 509(a), title VIII, §801, Aug. 10, 1987, 101 Stat. 623–627, 629, 635, 656; Pub. L. 101–73, title II, §§201(a), 217, Aug. 9, 1989, 103 Stat. 187, 254; Pub. L. 102–242, title I, §§123(b), 141(a)(1), (e), Dec. 19, 1991, 105 Stat. 2252, 2273, 2278; Pub. L. 103–325, title III, §317, title VI, §602(a)(34)–(42), Sept. 23, 1994, 108 Stat. 2223, 2289, 2290; Pub. L. 104–208, div. A, title II, §2704(d)(14)(M), Sept. 30, 1996, 110 Stat. 3009–492; Pub. L. 109–8, title IX, §909, Apr. 20, 2005, 119 Stat. 183; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §§3(a)(8), 8(a)(19), Feb. 15, 2006, 119 Stat. 3606, 3613; Pub. L. 110–343, div. A, title I, §126(c), Oct. 3, 2008, 122 Stat. 3795; Pub. L. 111–22, div. A, title II, §204(d), May 20, 2009, 123 Stat. 1650.)
+(Sept. 21, 1950, ch. 967, §2\[13\], 64 Stat. 888; Pub. L. 95–369, §6(c)(24), Sept. 17, 1978, 92 Stat. 619; Pub. L. 97–320, title I, §§111, 113(m), 116, 141(a)(1), (3), title II, §§203, 206, Oct. 15, 1982, 96 Stat. 1469, 1474, 1476, 1488, 1489, 1492, 1496; Pub. L. 97–457, §§1(a), 4, 10(a), Jan. 12, 1983, 96 Stat. 2507, 2508; Pub. L. 98–29, §1(a), May 16, 1983, 97 Stat. 189; Pub. L. 100–86, title V, §§502(a)–(g), (i), 509(a), title VIII, §801, Aug. 10, 1987, 101 Stat. 623–627, 629, 635, 656; Pub. L. 101–73, title II, §§201(a), 217, Aug. 9, 1989, 103 Stat. 187, 254; Pub. L. 102–242, title I, §§123(b), 141(a)(1), (e), Dec. 19, 1991, 105 Stat. 2252, 2273, 2278; Pub. L. 103–325, title III, §317, title VI, §602(a)(34)–(42), Sept. 23, 1994, 108 Stat. 2223, 2289, 2290; Pub. L. 104–208, div. A, title II, §2704(d)(14)(M), Sept. 30, 1996, 110 Stat. 3009–492; Pub. L. 109–8, title IX, §909, Apr. 20, 2005, 119 Stat. 183; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §§3(a)(8), 8(a)(19), Feb. 15, 2006, 119 Stat. 3606, 3613; Pub. L. 110–343, div. A, title I, §126(c), Oct. 3, 2008, 122 Stat. 3795; Pub. L. 111–22, div. A, title II, §204(d), May 20, 2009, 123 Stat. 1650; Pub. L. 111–203, title III, §363(6), title XI, §1106(b), July 21, 2010, 124 Stat. 1553, 2125.)
 
 #### References in Text
 
 Section 1730a of this title, referred to in subsec. (f)(4)(A), was repealed by Pub. L. 101–73, title IV, §407, Aug. 9, 1989, 103 Stat. 363.
 
-The Depository Institution Management Interlocks Act, referred to in subsec. (k)(1)(A)(v), is title II of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3672, as amended, which is classified principally to chapter 33 (§3201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3201 of this title and Tables.
+The Depository Institution Management Interlocks Act, referred to in subsec. (k)(1)(A)(v), is title II of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3672, which is classified principally to chapter 33 (§3201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3201 of this title and Tables.
 
 #### Prior Provisions
 
@@ -712,15 +712,23 @@ Section is derived from subsec. (n) of former section 264 of this title. See Cod
 
 #### Amendments
 
-2009—Subsec. (c)(4)(G)(ii). Pub. L. 111–22 amended cl. (ii) generally. Prior to amendment, text read as follows: “The Corporation shall recover the loss to the Deposit Insurance Fund arising from any action taken or assistance provided with respect to an insured depository institution under clause (i) expeditiously from 1 or more emergency special assessments on insured depository institutions equal to the product of—
+<b>2010</b>—Subsec. (c)(4)(G)(i). Pub. L. 111–203, §1106(b)(1)(B), inserted “for the purpose of winding up the insured depository institution for which the Corporation has been appointed receiver” after “provide assistance under this section” in concluding provisions.
+
+Subsec. (c)(4)(G)(i)(I). Pub. L. 111–203, §1106(b)(1)(A), inserted “for which the Corporation has been appointed receiver” before “would have serious”.
+
+Subsec. (c)(4)(G)(v)(I). Pub. L. 111–203, §1106(b)(2), substituted “Not later than 3 days after making a determination under clause (i), the” for “The”.
+
+Subsec. (k)(1)(A)(iv). Pub. L. 111–203, §363(6), substituted “Comptroller of the Currency” for “Director of the Office of Thrift Supervision”.
+
+<b>2009</b>—Subsec. (c)(4)(G)(ii). Pub. L. 111–22 amended cl. (ii) generally. Prior to amendment, text read as follows: “The Corporation shall recover the loss to the Deposit Insurance Fund arising from any action taken or assistance provided with respect to an insured depository institution under clause (i) expeditiously from 1 or more emergency special assessments on insured depository institutions equal to the product of—
 
 &emsp;“(I) an assessment rate established by the Corporation; and
 
 &emsp;“(II) the amount of each insured depository institution's average total assets during the assessment period, minus the sum of the amount of the institution's average total tangible equity and the amount of the institution's average total subordinated debt.”
 
-2008—Subsec. (c)(11). Pub. L. 110–343 added par. (11).
+<b>2008</b>—Subsec. (c)(11). Pub. L. 110–343 added par. (11).
 
-2006—Subsec. (a)(1). Pub. L. 109–173, §8(a)(19)(B), substituted “Deposit Insurance Fund” for “Bank Insurance Fund, the Savings Association Insurance Fund,”.
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–173, §8(a)(19)(B), substituted “Deposit Insurance Fund” for “Bank Insurance Fund, the Savings Association Insurance Fund,”.
 
 Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(14)(M)(i). See 1996 Amendment note below.
 
@@ -760,9 +768,9 @@ Subsec. (k)(5)(A). Pub. L. 109–173, §8(a)(19)(H), substituted “savings asso
 
 Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(14)(M)(vii). See 1996 Amendment note below.
 
-2005—Subsec. (e)(2). Pub. L. 109–8 amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “An agreement to provide for the lawful collateralization of deposits of a Federal, State, or local governmental entity or of any depositor referred to in section 1821(a)(2) of this title shall not be deemed to be invalid pursuant to paragraph (1)(B) solely because such agreement was not executed contemporaneously with the acquisition of the collateral or with any changes in the collateral made in accordance with such agreement.”
+<b>2005</b>—Subsec. (e)(2). Pub. L. 109–8 amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “An agreement to provide for the lawful collateralization of deposits of a Federal, State, or local governmental entity or of any depositor referred to in section 1821(a)(2) of this title shall not be deemed to be invalid pursuant to paragraph (1)(B) solely because such agreement was not executed contemporaneously with the acquisition of the collateral or with any changes in the collateral made in accordance with such agreement.”
 
-1996—Subsec. (a)(1). Pub. L. 104–208, §2704(d)(14)(M)(i), which directed substitution of “Deposit Insurance Fund, the Special Reserve of the Deposit Insurance Fund,” for “Bank Insurance Fund, the Savings Association Insurance Fund,”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–208, §2704(d)(14)(M)(i), which directed substitution of “Deposit Insurance Fund, the Special Reserve of the Deposit Insurance Fund,” for “Bank Insurance Fund, the Savings Association Insurance Fund,”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
 Subsec. (c)(4)(E). Pub. L. 104–208, §2704(d)(14)(M)(ii), which directed substitution of “fund” for “funds” in heading and “the Deposit Insurance Fund” for “any insurance fund” in cl. (i), was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
@@ -776,7 +784,7 @@ Subsec. (k)(4)(B)(i). Pub. L. 104–208, §2704(d)(14)(M)(vi), which directed su
 
 Subsec. (k)(5)(A). Pub. L. 104–208, §2704(d)(14)(M)(vii), which directed substitution of “Deposit Insurance Fund” for “Savings Association Insurance Fund”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
-1994—Subsec. (c)(1)(B). Pub. L. 103–325, §602(a)(34), substituted “an insured bank in default” for “a in default insured bank” and “such insured bank” for “such in default insured bank”.
+<b>1994</b>—Subsec. (c)(1)(B). Pub. L. 103–325, §602(a)(34), substituted “an insured bank in default” for “a in default insured bank” and “such insured bank” for “such in default insured bank”.
 
 Subsec. (c)(2)(A). Pub. L. 103–325, §602(a)(35), substituted “with another insured depository institution” for “with an insured institution” and “by another depository institution” for “by an insured institution”.
 
@@ -800,11 +808,11 @@ Subsec. (f)(7)(A), (B). Pub. L. 103–325, §602(a)(41), struck out “or” at 
 
 Subsec. (f)(12)(A). Pub. L. 103–325, §602(a)(42), substituted “are” for “is”.
 
-1991—Subsec. (c)(4) to (10). Pub. L. 102–242, §141(a)(1), (e), redesignated former pars. (5) to (9) as (6) to (10), respectively, redesignated subpar. (B) of par. (4) as par. (5), amended par. (4)(A) generally and redesignated it as par. (4), further redesignated pars. (8) to (10) as (9) to (11), respectively, and added par. (8). Prior to amendment, par. (4)(A) read as follows: “No assistance shall be provided under this subsection in an amount in excess of that amount which the Corporation determines to be reasonably necessary to save the cost of liquidating, including paying the insured accounts of, such insured depository institution, except that such restriction shall not apply in any case in which the Corporation determines that the continued operation of such insured depository institution is essential to provide adequate depository services in its community. In calculating the cost of assistance, the Corporation shall include (i) the immediate and long-term obligations of the Corporation with respect to such assistance, including contingent liabilities, and (ii) the Federal tax revenues foregone by the Government, to the extent reasonably ascertainable.”
+<b>1991</b>—Subsec. (c)(4) to (10). Pub. L. 102–242, §141(a)(1), (e), redesignated former pars. (5) to (9) as (6) to (10), respectively, redesignated subpar. (B) of par. (4) as par. (5), amended par. (4)(A) generally and redesignated it as par. (4), further redesignated pars. (8) to (10) as (9) to (11), respectively, and added par. (8). Prior to amendment, par. (4)(A) read as follows: “No assistance shall be provided under this subsection in an amount in excess of that amount which the Corporation determines to be reasonably necessary to save the cost of liquidating, including paying the insured accounts of, such insured depository institution, except that such restriction shall not apply in any case in which the Corporation determines that the continued operation of such insured depository institution is essential to provide adequate depository services in its community. In calculating the cost of assistance, the Corporation shall include (i) the immediate and long-term obligations of the Corporation with respect to such assistance, including contingent liabilities, and (ii) the Federal tax revenues foregone by the Government, to the extent reasonably ascertainable.”
 
 Subsec. (d)(3)(D). Pub. L. 102–242, §123(b), added subpar. (D).
 
-1989—Subsec. (a). Pub. L. 101–73, §217(1), added heading and text of subsec. (a) and struck out former subsec. (a) which read as follows: “Money of the Corporation not otherwise employed shall be invested in obligations of the United States or in obligations guaranteed as to principal and interest by the United States: <i>Provided</i>, That the Corporation shall not sell or purchase any such obligations for its own account and in its own right and interest, at any one time aggregating in excess of $100,000, without the approval of the Secretary of the Treasury: <i>And provided further</i>, That the Secretary of the Treasury may waive the requirement of his approval with respect to any transaction or classes of transactions subject to the provisions of this subsection for such period of time and under such conditions as he may determine.”
+<b>1989</b>—Subsec. (a). Pub. L. 101–73, §217(1), added heading and text of subsec. (a) and struck out former subsec. (a) which read as follows: “Money of the Corporation not otherwise employed shall be invested in obligations of the United States or in obligations guaranteed as to principal and interest by the United States: <i>Provided</i>, That the Corporation shall not sell or purchase any such obligations for its own account and in its own right and interest, at any one time aggregating in excess of $100,000, without the approval of the Secretary of the Treasury: <i>And provided further</i>, That the Secretary of the Treasury may waive the requirement of his approval with respect to any transaction or classes of transactions subject to the provisions of this subsection for such period of time and under such conditions as he may determine.”
 
 Subsec. (b). Pub. L. 101–73, §217(2), substituted “depository accounts of the Corporation”, “temporary purposes of depository accounts”, and “depository accounts to facilitate” for “banking or checking accounts of the Corporation”, “temporary purposes of banking and checking accounts”, and “banking and checking accounts to facilitate”, respectively, and substituted “depository institution” for “bank” in four places.
 
@@ -928,7 +936,7 @@ Subsec. (i)(13). Pub. L. 101–73, §217(7)(A), inserted “depository” before
 
 Subsec. (k). Pub. L. 101–73, §217(8), added subsec. (k).
 
-1987—Pub. L. 100–86, §509(a), repealed Pub. L. 97–320, §141. See 1982 Amendment notes below.
+<b>1987</b>—Pub. L. 100–86, §509(a), repealed Pub. L. 97–320, §141. See 1982 Amendment notes below.
 
 Subsec. (f)(1). Pub. L. 100–86, §502(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Nothing contained in paragraph (2) or (3) shall be construed to limit the Corporation's powers in subsection (c) of this section to assist a transaction under paragraph (2) or (3).”
 
@@ -956,15 +964,15 @@ Subsec. (f)(9) to (11). Pub. L. 100–86, §502(c)(3)–(5), added pars. (9) to 
 
 Subsec. (j). Pub. L. 100–86, §801, added subsec. (j).
 
-1983—Subsec. (i)(1)(D). Pub. L. 98–29 inserted provision that issuance of net worth certificates in accordance with this subsection shall not constitute a default under the terms of any debt obligations subordinated to the claims of general creditors which were outstanding when such net worth certificates were issued.
+<b>1983</b>—Subsec. (i)(1)(D). Pub. L. 98–29 inserted provision that issuance of net worth certificates in accordance with this subsection shall not constitute a default under the terms of any debt obligations subordinated to the claims of general creditors which were outstanding when such net worth certificates were issued.
 
-1983—Subsec. (c)(5)(A). Pub. L. 97–457, §1(a), inserted “or dividends” after “interest”.
+<b>1983</b>—Subsec. (c)(5)(A). Pub. L. 97–457, §1(a), inserted “or dividends” after “interest”.
 
 Subsec. (f)(1). Pub. L. 97–457, §4, substituted “paragraph” for “paragraphs” wherever appearing.
 
 Subsec. (i)(9). Pub. L. 97–457, §10, inserted “or dividends” after “interest”.
 
-1982—Subsec. (c). Pub. L. 97–320, §111, substituted provisions contained in numbered pars. (1) through (8) relating to the Corporation's authority to assist insured banks for prior provisions contained in a single undesignated paragraph authorizing the Corporation, inorder to reopen a closed insured bank or, when the Corporation had determined that an insured bank was in danger of closing, in order to prevent such closing, in the discretion of its Board of Directors, to make loans to, or purchase the assets of, or make deposits in, such insured bank, upon such terms and conditions as the Board of Directors might prescribe, when in the opinion of the Board of Directors the continued operation of such bank was essential to provide adequate banking service in the community, with such loans and deposits to be in subordination to the rights of depositors and other creditors.
+<b>1982</b>—Subsec. (c). Pub. L. 97–320, §111, substituted provisions contained in numbered pars. (1) through (8) relating to the Corporation's authority to assist insured banks for prior provisions contained in a single undesignated paragraph authorizing the Corporation, in order to reopen a closed insured bank or, when the Corporation had determined that an insured bank was in danger of closing, in order to prevent such closing, in the discretion of its Board of Directors, to make loans to, or purchase the assets of, or make deposits in, such insured bank, upon such terms and conditions as the Board of Directors might prescribe, when in the opinion of the Board of Directors the continued operation of such bank was essential to provide adequate banking service in the community, with such loans and deposits to be in subordination to the rights of depositors and other creditors.
 
 Pub. L. 97–320, §141(a)(1), which directed the repeal of par. (5) effective Oct. 13, 1986, was repealed by Pub. L. 100–86, §509(a). See Effective and Termination Dates of 1982 Amendment note and Extension of Emergency Acquisition and Net Worth Guarantee Provisions of Pub. L. 97–320 note set out under section 1464 of this title.
 
@@ -976,11 +984,17 @@ Pub. L. 97–320, §141(a)(3), which directed that, effective Oct. 13, 1986, the
 
 Subsec. (i). Pub. L. 97–320, §§203, 206, added subsec. (i), relating to net worth certificates, and provided for its prospective repeal. See Effective Date of 1982 Amendment note below.
 
-1978—Subsec. (g). Pub. L. 95–369 added subsec. (g).
+<b>1978</b>—Subsec. (g). Pub. L. 95–369 added subsec. (g).
 
 #### Change of Name
 
 Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by section 363(6) of Pub. L. 111–203 effective on the transfer date, see section 351 of Pub. L. 111–203, set out as a note under section 906 of Title 2, The Congress.
+
+Amendment by section 1106(b) of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of this title.
 
 #### Effective Date of 2006 Amendment
 
@@ -1084,13 +1098,13 @@ Sections 141(a) and 206(a) of Pub. L. 97–320, which are set out as notes under
 
 Section 204 of Pub. L. 97–320 provided that: “The Federal Home Loan Bank Board and the Board of Directors of the Federal Deposit Insurance Corporation shall each transmit an annual report to each House of the Congress specifying the types and amounts of net worth certificates purchased from each depository institution and the conditions imposed on each such depository institution.”
 
-\[For termination, effective May 15, 2000, of reporting provisions relating to the Federal Deposit Insurance Corporation in section 204 of Pub. L. 97–320, set out above, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 167 of House Document No. 103–7.\]
+\[For termination, effective May 15, 2000, of reporting provisions relating to the Federal Deposit Insurance Corporation in section 204 of Pub. L. 97–320, set out above, see section 3003 of Pub. L. 104–66, set out as a note under section 1113 of Title 31, Money and Finance, and page 167 of House Document No. 103–7.\]
 
 #### Semiannual Audit by Comptroller General of Net Worth Certificate Programs of Federal Deposit Insurance Corporation and Federal Home Loan Bank Board
 
 Section 205 of Pub. L. 97–320 provided that: “The Comptroller General of the United States shall conduct on a semiannual basis an audit of the net worth certificate programs of the Federal Deposit Insurance Corporation and the Federal Home Loan Bank Board. A report on each such audit shall be transmitted to each House of the Congress.”
 
-\[For termination, effective May 15, 2000, of reporting provisions in section 205 of Pub. L. 97–320, set out above, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 3 of House Document No. 103–7.\]
+\[For termination, effective May 15, 2000, of reporting provisions in section 205 of Pub. L. 97–320, set out above, see section 3003 of Pub. L. 104–66, set out as a note under section 1113 of Title 31, Money and Finance, and page 3 of House Document No. 103–7.\]
 
 <i><sup>1</sup></i><i> So in original. Probably should be “an”.</i>
 

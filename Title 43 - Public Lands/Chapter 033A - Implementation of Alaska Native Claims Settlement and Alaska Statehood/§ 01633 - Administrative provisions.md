@@ -18,7 +18,7 @@ Offers for noncompetitive oil and gas leases under the Mineral Leasing Act of 19
 
 #### (d) Limitation
 
-This Act is not intended to modify, repeal, or otherwise affect any provision of the Act of January 2, 1976 (89 Stat. 1145), as amended or supplemented by Public Laws 94–456 and 95–178, andshall not be construed as imposing any additional restriction on the use or management of those lands described in section 22(k) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1621(k)\].
+This Act is not intended to modify, repeal, or otherwise affect any provision of the Act of January 2, 1976 (89 Stat. 1145), as amended or supplemented by Public Laws 94–456 and 95–178, and shall not be construed as imposing any additional restriction on the use or management of those lands described in section 22(k) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1621(k)\].
 
 (Pub. L. 96–487, title IX, §903, Dec. 2, 1980, 94 Stat. 2433.)
 

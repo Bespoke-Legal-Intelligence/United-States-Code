@@ -22,7 +22,7 @@ As used in this chapter—
 
 &emsp;(7) The term “University” means Gallaudet University.
 
-(Pub. L. 99–371, title II, §201, formerly title IV, §401, Aug. 4, 1986, 100 Stat. 789; renumbered title II, §201, and amended Pub. L. 102–421, title I, §§101(b)(5), (6), 131, 151(a)(3), (b), Oct. 16, 1992, 106 Stat. 2151, 2155, 2164; Pub. L. 103–73, title II, §204(a), Aug. 11, 1993, 107 Stat. 734; Pub. L. 105–244, title IX, §915, Oct. 7, 1998, 112 Stat. 1830.)
+(Pub. L. 99–371, title II, §201, formerly title IV, §401, Aug. 4, 1986, 100 Stat. 789; renumbered title II, §201, and amended Pub. L. 102–421, title I,§§101(b)(5), (6), 131, 151(a)(3), (b), Oct. 16, 1992, 106 Stat. 2151, 2155, 2164; Pub. L. 103–73, title II, §204(a), Aug. 11, 1993, 107 Stat. 734; Pub. L. 105–244, title IX, §915, Oct. 7, 1998, 112 Stat. 1830.)
 
 #### Prior Provisions
 

@@ -70,7 +70,7 @@
 
 #### Amendments
 
-1998—Subsecs. (a)(1)(B), (b)(1). Pub. L. 105–244 substituted “section 1001 of title 20)” for “section 1141 of title 20)”.
+<b>1998</b>—Subsecs. (a)(1)(B), (b)(1). Pub. L. 105–244 substituted “section 1001 of title 20)” for “section 1141 of title 20)”.
 
 #### Effective Date of 1998 Amendment
 

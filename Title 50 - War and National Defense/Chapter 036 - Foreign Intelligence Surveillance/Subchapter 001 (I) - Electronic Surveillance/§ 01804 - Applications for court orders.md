@@ -66,7 +66,7 @@ The judge may require the applicant to furnish such other information as may be 
 
 #### Amendments
 
-<b>2010</b>—Subsec. (e)(1)(A). Pub. L. 111–259 made technical amendment to directory language of Pub. L. 108–458. See 2004 Amendment note below.
+<b>2010</b>—Subsec. (e)(1)(A). Pub. L. 111–259 made technical amendment to directory language of Pub. L. 108–458, §1071(e). See 2004 Amendment note below.
 
 <b>2008</b>—Subsec. (a)(2) to (4). Pub. L. 110–261, §104(1)(A), (B), redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: “the authority conferred on the Attorney General by the President of the United States and the approval of the Attorney General to make the application;”.
 
@@ -78,11 +78,11 @@ Subsec. (a)(7). Pub. L. 110–261, §104(1)(B), (E), redesignated par. (8) as (7
 
 Subsec. (a)(8) to (11). Pub. L. 110–261, §104(1)(A), (B), redesignated pars. (9) and (10) as (8) and (9), respectively, and struck out par. (11) which read as follows: “whenever more than one electronic, mechanical or other surveillance device is to be used with respect to a particular proposed electronic surveillance, the coverage of the devices involved and what minimization procedures apply to information acquired by each device.” Former par. (8) redesignated (7).
 
-Subsecs. (b) to (e). Pub. L. 110–261, §104(2)–(4), redesignated subsecs. (c) to (e) as (b) to (d), respectively, in subsec. (d)(1)(A) substituted “the Director of National Intelligence, or the Director of the Central Intelligence Agency” for “or the Director of National Intelligence”, and struck out former subsec. (b) which related to exclusion of certain information respecting foreign power targets.
+Subsecs. (b) to (e). Pub. L. 110–261, §104(2)–(4), redesignated subsecs. (c) to (e) as (b) to (d), respectively, insubsec. (d)(1)(A) substituted “the Director of National Intelligence, or the Director of the Central Intelligence Agency” for “or the Director of National Intelligence”, and struck out former subsec. (b) which related to exclusion of certain information respecting foreign power targets.
 
 <b>2006</b>—Subsec. (a)(3). Pub. L. 109–177 inserted “specific” before “target”.
 
-<b>2004</b>—Subsec. (e)(1)(A). Pub. L. 108–458, as amended by Pub. L. 111–259, substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+<b>2004</b>—Subsec. (e)(1)(A). Pub. L. 108–458, §1071(e), as amended by Pub. L. 111–259, substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
 <b>2001</b>—Subsec. (a)(7)(B). Pub. L. 107–56 substituted “a significant purpose” for “the purpose”.
 

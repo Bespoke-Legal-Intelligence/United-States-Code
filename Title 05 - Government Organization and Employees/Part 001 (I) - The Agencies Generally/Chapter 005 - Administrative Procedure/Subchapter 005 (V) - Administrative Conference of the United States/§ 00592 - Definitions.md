@@ -36,5 +36,5 @@ A prior section 592 was renumbered section 582 of this title and was subsequentl
 
 #### Amendments
 
-1992—Pub. L. 102–354 renumbered section 572 of this title as this section.
+<b>1992</b>—Pub. L. 102–354 renumbered section 572 of this title as this section.
 

@@ -8,7 +8,7 @@ The Secretary shall establish in the Department of Health and Human Services an 
 
 In connection with carrying out the provisions of this subchapter, the Secretary shall—
 
-&emsp;(1) conduct (directly or by grant to or contract with public or private agencies or organizations) an education and training program on adoption, and prepare, publish, and disseminate (directly or by grant to or contract with public or private agencies and organizations) to all interested parties, public and private agencies and organizations (including, but not limited to, hospitals, health care and family planning clinics, and social services agencies), and governmental bodies, information and education and training materials regarding adoption, adoption assistance programs, and post-legal adoption services;
+&emsp;(1) conduct (directly or by grant to or contract with public or private agencies or organizations) an education and training program on adoption, and prepare, publish, and disseminate (directly or by grant to or contract with public or private agencies and organizations) to all interested parties, public and private agencies and organizations (including, but not limited to, hospitals, health care and family planning clinics, and social servicesagencies), and governmental bodies, information and education and training materials regarding adoption, adoption assistance programs, and post-legal adoption services;
 
 &emsp;(2) conduct, directly or by grant or contract with public or private organizations, ongoing, extensive recruitment efforts on a national level, including efforts to promote the adoption of older children, minority children, and children with special needs, develop national public awareness efforts to unite children in need of adoption with appropriate adoptive parents, and establish a coordinated referral system of recruited families with appropriate State or regional adoption resources to ensure that families are served in a timely fashion;
 
@@ -20,7 +20,7 @@ In connection with carrying out the provisions of this subchapter, the Secretary
 
 &emsp;(6) support the placement of children in kinship care arrangements, pre-adoptive, or adoptive homes;
 
-&emsp;(7) increase the effective use of public or private agencies (including community-based and other organizations) by States, or sectarian institutions, for the recruitment of potential adoptive and foster families and to provide assistance in the placement of children for adoption, including assisting in efforts to workwith organizations that promote the placement of older children, minority children, and children with special needs;
+&emsp;(7) increase the effective use of public or private agencies (including community-based and other organizations) by States, or sectarian institutions, for the recruitment of potential adoptive and foster families and to provide assistance in the placement of children for adoption, including assisting in efforts to work with organizations that promote the placement of older children, minority children, and children with special needs;
 
 &emsp;(8) consult with other appropriate Federal departments and agencies in order to promote maximum coordination of the services and benefits provided under programs carried out by such departments and agencies with those carried out by the Secretary, and provide for the coordination of such aspects of all programs within the Department of Health and Human Services relating to adoption;
 
@@ -64,7 +64,7 @@ In connection with carrying out the provisions of this subchapter, the Secretary
 
 &emsp;&emsp;(B) shall be subject to the condition that such grants or contracts may be renewed if documentation is provided to the Secretary demonstrating that appropriate and sufficient placements of such children have occurred during the previous funding period; and
 
-&emsp;(11) provide (directly or by grant to or contract with States, local government entities, or public or private licensed child welfare or adoption agencies) for the implementation of programs that are intended to increase the number of older children (who are in foster care and with the goal of adoption) placed in adoptive families, with a special emphasis on child-specific recruitment strategies, including—
+&emsp;(11) provide (directly or by grant to or contract with States, local government entities, or public or private licensed child welfare or adoption agencies) for the implementation of programs that are intended to increase the number of older children (who are in foster care and with the goal of adoption) placed inadoptive families, with a special emphasis on child-specific recruitment strategies, including—
 
 &emsp;&emsp;(A) outreach, public education, or media campaigns to inform the public of the needs and numbers of older youth available for adoption;
 
@@ -104,7 +104,7 @@ In connection with carrying out the provisions of this subchapter, the Secretary
 
 #### (1) In general
 
-&emsp;The Secretary shall make grants for improving State efforts to increase the placement offoster care children legally free for adoption, according to a pre-established plan and goals for improvement.
+&emsp;The Secretary shall make grants for improving State efforts to increase the placement of foster care children legally free for adoption, according to a pre-established plan and goals for improvement.
 
 #### (2) Applications; technical and other assistance
 
@@ -146,7 +146,7 @@ In connection with carrying out the provisions of this subchapter, the Secretary
 
 #### (1) In general
 
-&emsp;The Secretary shall award grants to, or enter into contracts with, States, local government entities, public or private child welfare or adoption agencies, adoption exchanges, or adoption family groups to carry out initiatives to improve efforts to eliminate barriers to placing children for adoption across jurisdictional boundaries.
+&emsp;The Secretary shall award grants to, or enter into contracts with, States, local government entities, public or private child welfare or adoption agencies, adoption exchanges,or adoption family groups to carry out initiatives to improve efforts to eliminate barriers to placing children for adoption across jurisdictional boundaries.
 
 #### (2) Services to supplement not supplant
 
@@ -172,7 +172,7 @@ Subsec. (b)(1). Pub. L. 111–320, §301(b)(2)(A), substituted a comma for “an
 
 Subsec. (b)(2). Pub. L. 111–320, §301(b)(2)(B), inserted “, including efforts to promote the adoption of older children, minority children, and children with special needs” after “national level”.
 
-Subsec. (b)(7). Pub. L. 111–320, §301(b)(2)(C), substituted “increase the effective use of” for “study theefficacy of States contracting with” and “by States,” for the comma after “organizations)” and inserted a comma after “institutions” and “, including assisting in efforts to work with organizations that promote the placement of older children, minority children, and children with special needs” after “children for adoption”.
+Subsec. (b)(7). Pub. L. 111–320, §301(b)(2)(C), substituted “increase the effective use of” for “study the efficacy of States contracting with” and “by States,” for the comma after “organizations)” and inserted a comma after “institutions” and “, including assisting in efforts to work with organizations that promote the placement of older children, minority children, and children with special needs” after “children for adoption”.
 
 Subsec. (b)(9)(D). Pub. L. 111–320, §301(b)(2)(D), added subpar. (D).
 

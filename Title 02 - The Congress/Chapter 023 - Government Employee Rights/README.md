@@ -1,7 +1,5 @@
 ### <b>CHAPTER 23—GOVERNMENT EMPLOYEE RIGHTS</b>
 
-<i><sup>1</sup></i><i> So in original. Probably should be “section:”.</i>
-
 
 ---
 

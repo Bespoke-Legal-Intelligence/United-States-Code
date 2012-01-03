@@ -38,7 +38,7 @@ The provisions of this chapter applicable to orders shall be applicable to amend
 
 #### Amendments
 
-1991—Subsec. (b). Pub. L. 102–237, §806(3)(B), redesignated second subsec. (b), relating to amendments to orders, as (c).
+<b>1991</b>—Subsec. (b). Pub. L. 102–237, §806(3)(B), redesignated second subsec. (b), relating to amendments to orders, as (c).
 
 Subsec. (b)(3). Pub. L. 102–237, §806(3)(A), substituted “section 6304(<i>l</i>)(4)” for “section 6304(k)(4)”.
 

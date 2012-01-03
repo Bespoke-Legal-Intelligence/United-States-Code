@@ -16,7 +16,7 @@ If—
 
 &emsp;(4) no portion of such earned income is transferred (directly or indirectly) between such individuals before the close of the calendar year,
 
-> then, for purposes of this title, any community income of such individuals for the calendar year shall be treated in accordance with the rules provided by section 879(a).
+> then, for purposes of this title, any community income of such individuals for the calendar yearshall be treated in accordance with the rules provided by section 879(a).
 
 #### (b) Secretary may disregard community property laws where spouse not notified of community income
 

@@ -28,7 +28,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 Previously, functions of Director of Office of Emergency Preparedness under Disaster Relief Act of 1970, transferred to President by Reorg. Plan No. 1 of 1973, had been transferred to Secretary of Housing and Urban Development by Ex. Ord. No. 11749, Dec. 10, 1973, 38 F.R. 34177, which superseded Ex. Ord. No. 11725, June 27, 1973, 38 F.R. 17175, which had provided for a similar transfer to Secretary of Housing and Urban Development. Both of these Executive Orders were subsequently revoked, see Delegation of Functions note below.
 
-Office of Emergency Preparedness \[formerly Office of Emergency Planning\], including offices of Director, Deputy Director, Assistant Directors, and Regional Directors, abolished and functions vested by law in Office of Emergency Preparedness or Director of Office of Emergency Preparedness transferred to President ofUnited States by sections 1 and 3(a)(1) of Reorg. Plan No. 1 of 1973, eff. July 1, 1973, set out in the Appendix to Title 5, Government Organization and Employees.
+Office of Emergency Preparedness \[formerly Office of Emergency Planning\], including offices of Director, Deputy Director, Assistant Directors, and Regional Directors, abolished and functions vested by law in Office of Emergency Preparedness or Director of Office of Emergency Preparedness transferred to President of United States by sections 1 and 3(a)(1) of Reorg. Plan No. 1 of 1973, eff. July 1, 1973, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Delegation of Functions
 

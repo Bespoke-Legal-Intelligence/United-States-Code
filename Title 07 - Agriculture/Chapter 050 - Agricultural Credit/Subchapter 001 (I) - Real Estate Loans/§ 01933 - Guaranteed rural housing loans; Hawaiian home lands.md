@@ -18,7 +18,7 @@ For definition of “this chapter”, referred to in subsec. (b), see note set o
 
 #### Amendments
 
-1990—Subsec. (b). Pub. L. 101–624 substituted “or this chapter” for “, as amended”.
+<b>1990</b>—Subsec. (b). Pub. L. 101–624 substituted “or this chapter” for “, as amended”.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

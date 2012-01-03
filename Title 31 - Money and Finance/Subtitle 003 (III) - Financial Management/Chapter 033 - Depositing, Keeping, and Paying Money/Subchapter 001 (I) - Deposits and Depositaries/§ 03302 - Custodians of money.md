@@ -80,7 +80,7 @@ In subsection (a), before clause (1), the words “Except as provided by another
 
 In subsection (b), the words “any abatement or” are omitted as surplus. The words “for any charge or claim” are substituted for “on account of salary, fees, costs, charges, expenses, or claim of any description whatever”, and the words “shall deposit the money in the Treasury” are substituted for “The gross amount of all moneys received from whatever source for the use of the United States, . . . shall be paid . . . into the Treasury”, to eliminate unnecessary words. The words “except as otherwise provided in section 487 of this title” are omitted because 31:487 is obsolete. The text of 31:484(last sentence) is omitted as superseded by title 39.
 
-In subsection (c), the word “Secretary” is substituted for “Treasurer” because of the source provisions restated in section 321(c) of the revised title. The balance of subsection (c) is substituted for 31:495(words beforeproviso) for clarity and consistency. The text of 31:495(proviso) is omitted as superseded by title 39.
+In subsection (c), the word “Secretary” is substituted for “Treasurer” because of the source provisions restated in section 321(c) of the revised title. The balance of subsection (c) is substituted for 31:495(words before proviso) for clarity and consistency. The text of 31:495(proviso) is omitted as superseded by title 39.
 
 Subsection (d) is substituted for 31:490 for clarity and consistency.
 

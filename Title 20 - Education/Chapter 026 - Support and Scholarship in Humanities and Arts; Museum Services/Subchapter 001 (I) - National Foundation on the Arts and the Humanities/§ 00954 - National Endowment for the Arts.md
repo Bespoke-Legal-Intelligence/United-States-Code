@@ -378,6 +378,8 @@ Subsecs. (j), (k). Pub. L. 90–348, §2(b), inserted “of exceptional talent�
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–512 effective Oct. 1, 1990, see section 318 \[title IV, §403(a)\] of Pub. L. 101–512, set out as a note under section 951 of this title.
@@ -392,7 +394,7 @@ Amendment by Pub. L. 93–133 effective on and after July 1, 1973, see section 2
 
 #### Effective Date of 1970 Amendment
 
-Amendment by section 5(a)(1), (2) of Pub. L. 91–346 effective after June 30, 1970, see section 5(d)(3)(A) of Pub.L. 91–346, set out as a note under section 955 of this title.
+Amendment by section 5(a)(1), (2) of Pub. L. 91–346 effective after June 30, 1970, see section 5(d)(3)(A) of Pub. L. 91–346, set out as a note under section 955 of this title.
 
 #### Termination of Reporting Requirements
 

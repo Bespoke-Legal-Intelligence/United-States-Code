@@ -50,7 +50,7 @@ Certain procurements.—The requirements of subsection (a)(2) do not apply to a 
 
 &emsp;&emsp;(A) under conditions described in paragraph (2), (3), (4), (5), or (7) of section 3304(a) of this title or paragraph (2), (3), (4), (5), or (7) of section 2304(c) of title 10; or
 
-&emsp;&emsp;(B) for which the head of the executive agency makes a determination in writing, after consultation with the Administrator and the Administrator of the Small Business Administration, that it is not appropriate or reasonable to publish a notice before issuing a solicitation.
+&emsp;&emsp;(B) for which the head of the executive agency makes a determination in writing,after consultation with the Administrator and the Administrator of the Small Business Administration, that it is not appropriate or reasonable to publish a notice before issuing a solicitation.
 
 &emsp;(3)
 

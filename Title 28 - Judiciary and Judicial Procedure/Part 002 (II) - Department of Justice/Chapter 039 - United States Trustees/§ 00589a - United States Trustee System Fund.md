@@ -68,7 +68,7 @@ Subsec. (b)(2). Pub. L. 109–8, §325(b)(2), as amended by Pub. L. 109–13, §
 
 Subsec. (b)(9). Pub. L. 106–113, §1000(a)(1) \[title I\], added par. (9).
 
-<b>1996</b>—Pub. L. 104–208 reenacted section catchline without change and amended text generally, revisingand restating as subsecs. (a) to (e) provisions of former subsecs. (a) to (f).
+<b>1996</b>—Pub. L. 104–208 reenacted section catchline without change and amended text generally, revising and restating as subsecs. (a) to (e) provisions of former subsecs. (a) to (f).
 
 Subsec. (b)(5). Pub. L. 104–91, as amended by Pub. L. 104–99, inserted “until a reorganization plan is confirmed” before semicolon.
 

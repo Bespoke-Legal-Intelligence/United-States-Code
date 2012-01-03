@@ -2,7 +2,7 @@
 
 For the purposes of this chapter, the term—
 
-&emsp;(1) “Secretary” means the Secretary of Housing and Urban Development;
+&emsp;(1) “Director” means the Director of the Bureau of Consumer Financial Protection;
 
 &emsp;(2) “person” means an individual, or an unincorporated organization, partnership, association, corporation, trust, or estate;
 
@@ -12,7 +12,7 @@ For the purposes of this chapter, the term—
 
 &emsp;(5) “developer” means any person who, directly or indirectly, sells or leases, or offers to sell or lease, or advertises for sale or lease any lots in a subdivision;
 
-&emsp;(6) “agent” means any person who represents, or acts for or on behalf of, a developer in selling or leasing, or offering to sell or lease, any lot or lots in a subdivision; but shall not include an attorney at law whose representation of another person consists solely of rendering legal services;
+&emsp;(6) “agent” means any person who represents, or acts for or on behalf of, a developerin selling or leasing, or offering to sell or lease, any lot or lots in a subdivision; but shall not include an attorney at law whose representation of another person consists solely of rendering legal services;
 
 &emsp;(7) “blanket encumbrance” means a trust deed, mortgage, judgment, or any other lien or encumbrance, including an option or contract to sell or a trust agreement, affecting a subdivision or affecting more than one lot offered within a subdivision except that such term shall not include any lien or other encumbrance arising as the result of the imposition of any tax assessment by any public authority;
 
@@ -20,31 +20,19 @@ For the purposes of this chapter, the term—
 
 &emsp;(9) “State” includes the several States, the District of Columbia, the Commonwealth of Puerto Rico, and the territories and possessions of the United States;
 
-&emsp;(10) “purchaser” means an actual or prospective purchaser or lessee of any lot in a subdivision; and
+&emsp;(10) “purchaser” means an actual or prospective purchaser or lessee of any lot in a subdivision;
 
-&emsp;(11) “offer” includes any inducement, solicitation, or attempt to encourage a person to acquire a lot in a subdivision.
+&emsp;(11) “offer” includes any inducement, solicitation, or attempt to encourage a person to acquire a lot in a subdivision; and
+
+&emsp;(12) “Bureau” means the Bureau of Consumer Financial Protection.
 
 (Pub. L. 90–448, title XIV, §1402, Aug. 1, 1968, 82 Stat. 590; Pub. L. 93–383, title VIII, §812(a), Aug. 22, 1974, 88 Stat. 736; Pub. L. 96–153, title IV, §401, Dec. 21, 1979, 93 Stat. 1122; Pub. L. 100–628, title X, §1089(a), Nov. 7, 1988, 102 Stat. 3283; Pub. L. 111–203, title X, §1098A(4), July 21, 2010, 124 Stat. 2105.)
 
-#### Amendment of Section
-
-<i>Pub. L. 111–203, title X, §§1098A(4), 1100H, July 21, 2010, 124 Stat. 2105, 2113, provided that, effective on the designated transfer date, this section is amended:</i>
-
-<i>(1) by striking paragraph (1) and inserting the following:</i>
-
-&emsp;<i>“(1) ‘Director’ means the Director of the Bureau of Consumer Financial Protection;”;</i>
-
-<i>(2) in paragraph (10), by striking “and” at the end;</i>
-
-<i>(3) in paragraph (11), by striking the period at the end and inserting “; and”; and</i>
-
-<i>(4) by adding at the end the following:</i>
-
-&emsp;<i>“(12) ‘Bureau’ means the Bureau of Consumer Financial Protection.”</i>
-
-<i>See Effective Date of 2010 Amendment note below.</i>
-
 #### Amendments
+
+<b>2010</b>—Par. (1). Pub. L. 111–203, §1098A(4)(A), added par. (1) and struck out former par. (1) which read as follows: “ ‘Secretary’ means the Secretary of Housing and Urban Development;”.
+
+Par. (12). Pub. L. 111–203, §1098A(4)(B)–(D), added par. (12).
 
 <b>1988</b>—Par. (10). Pub. L. 100–628 inserted “and” after semicolon.
 

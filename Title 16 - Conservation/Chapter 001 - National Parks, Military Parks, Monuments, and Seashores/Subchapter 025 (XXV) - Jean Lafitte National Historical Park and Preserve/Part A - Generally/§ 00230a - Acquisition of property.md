@@ -28,7 +28,7 @@
 
 #### (2) French Quarter
 
-&emsp;The Secretary may acquire by any of the methods referred to in paragraph (1)(A) such lands and interests therein, including leasehold interests, as he may designate in the French Quarter of New Orleans for development and operation as an interpretive and administrative facility.
+&emsp;The Secretary may acquire by any of the methods referred to in paragraph (1)(A) suchlands and interests therein, including leasehold interests, as he may designate in the French Quarter of New Orleans for development and operation as an interpretive and administrative facility.
 
 #### (3) Acquisition of State land
 

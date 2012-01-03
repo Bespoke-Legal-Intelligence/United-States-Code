@@ -20,7 +20,7 @@ The Commission shall make a requirements payment each year in an amount determin
 
 #### (3) Activities under Uniformed and Overseas Citizens Absentee Voting Act
 
-&emsp;A State shall use a requirements payment made using funds appropriated pursuant to the authorization under section 15407(a)(4) of this title only to meet the requirements under the Uniformed and Overseas Citizens Absentee Voting Act \[42 U.S.C. 1973ff et seq.\] imposed as a result of the provisions of and amendments made by the Military and Overseas Voter Empowerment Act.
+&emsp;A State shall use a requirements payment made using funds appropriated pursuant to the authorization under section 15407(a)(4) of this title only to meet the requirements under the Uniformed and Overseas Citizens Absentee Voting Act \[42 U.S.C. 1973ff et seq.\] imposed asa result of the provisions of and amendments made by the Military and Overseas Voter Empowerment Act.
 
 #### (c) Retroactive payments
 
@@ -38,7 +38,7 @@ Nothing in this subpart may be construed to require a State to implement any of 
 
 #### (e) Schedule of payments
 
-As soon as practicable after the initial appointment of all members of the Commission (but in no event later than 6 months thereafter), and not less frequently than once each calendaryear thereafter, the Commission shall make requirements payments to States under this subpart.
+As soon as practicable after the initial appointment of all members of the Commission (but in no event later than 6 months thereafter), and not less frequently than once each calendar year thereafter, the Commission shall make requirements payments to States under this subpart.
 
 #### (f) Limitation
 

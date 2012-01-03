@@ -26,9 +26,3 @@ The Bank shall have power—
 
 (Pub. L. 93–224, §10, Dec. 29, 1973, 87 Stat. 940.)
 
-#### References in Text
-
-The civil service laws, referred to in par. (8), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
-
-The classification laws, referred to in par. (8), are classified to chapter 51 (§5101 et seq.) and subchapter III (§5331 et seq.) of chapter 53 of Title 5.
-

@@ -46,7 +46,7 @@ As used in this chapter, the term—
 
 &emsp;&emsp;(C) has jurisdiction over, serves as forum for coordinating, or otherwise has a role or responsibility for the management of, any land or other natural resource;
 
-&emsp;(11) “nonindigenous species” means any species or other viable biological material that enters an ecosystem beyond its historic range, including any such organism transferred from one country into another;
+&emsp;(11) “nonindigenous species” means any species or other viable biological material thatenters an ecosystem beyond its historic range, including any such organism transferred from one country into another;
 
 &emsp;(12) “Secretary” means the Secretary of the department in which the Coast Guard is operating;
 

@@ -2,7 +2,7 @@
 
 (a) Such commodity set-aside shall be reduced by disposals made in accordance with the directions of the President as follows:
 
-&emsp;(1) Donation, sale, or other disposition for disaster or other relief purposes outside the United States pursuant to and subject to the limitations of subchapter III of chapter 41 of this title;
+&emsp;(1) Donation, sale, or other disposition for disaster or other relief purposes outside theUnited States pursuant to and subject to the limitations of subchapter III of chapter 41 of this title;
 
 &emsp;(2) Sale or barter (including barter for strategic materials) to develop new or expanded markets for American agricultural commodities, including but not limited to disposition pursuant to and subject to the limitations of subchapter II of chapter 41 of this title;
 
@@ -16,7 +16,7 @@
 
 &emsp;(7) Sale for unrestricted use to meet a need for increased supplies at not less than 105 per centum of the parity price in the case of agricultural commodities and a price reflecting 105 per centum of the parity price of the agricultural commodity in the case of products of agricultural commodities.
 
-The President shall prescribe such terms and conditions for the disposal of commodities in the commodity set-aside as he determines will provide adequate safeguards against interference with normal marketings of the supplies of such commodities outside the commodity set-aside. Strategic materials acquired by the Commodity Credit Corporation under paragraph (2) of this subsection shall be transferred to the National Defense Stockpile established by theStrategic and Critical Materials Stock Piling Act \[50 U.S.C. 98 et seq.\], and the Commodity Credit Corporation shall be reimbursed for the value of the commodities bartered for such strategic materials from funds appropriated for purposes of that Act. For the purpose of such reimbursement, the value of any commodity so bartered shall be the lower of the domestic market price or the Commodity Credit Corporation's investment therein as of the date of such barter, as determined by the Secretary of Agriculture.
+The President shall prescribe such terms and conditions for the disposal of commodities in the commodity set-aside as he determines will provide adequate safeguards against interference with normal marketings of the supplies of such commodities outside the commodity set-aside. Strategic materials acquired by the Commodity Credit Corporation under paragraph (2) of this subsection shall be transferred to the National Defense Stockpile established by the Strategic and Critical Materials Stock Piling Act \[50 U.S.C. 98 et seq.\], and the Commodity Credit Corporation shall be reimbursed for the value of the commodities bartered for such strategic materials from funds appropriated for purposes of that Act. For the purpose of such reimbursement, the value of any commodity so bartered shall be the lower of the domestic market price or the Commodity Credit Corporation's investment therein as of the date of such barter, as determined by the Secretary of Agriculture.
 
 (b) The quantity of any commodity in the commodity set-aside shall be reduced to the extent that the Commodity Credit Corporation inventory of such commodity is reduced, by natural or other cause beyond the control of the Corporation, below the quantity then charged to the commodity set-aside.
 
@@ -28,7 +28,7 @@ The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (a
 
 #### Amendments
 
-1979—Subsec. (a). Pub. L. 96–41 substituted “the National Defense Stockpile established by the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98 et seq.)” for “the national stockpile established pursuant to the Act of June 7, 1939, as amended,” in par. (4), and in the provisions following par. (7) substituted “the National Defense Stockpile established by the Strategic and Critical Materials Stock Piling Act” for “the national stockpile established pursuant to the Act of June 7, 1939, as amended,” and “funds appropriated for the purposes of that Act” for “funds appropriated pursuant to section 8 of such Act of June 7, 1939”.
+<b>1979</b>—Subsec. (a). Pub. L. 96–41 substituted “the National Defense Stockpile established by the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98 et seq.)” for “the national stockpile established pursuant to the Act of June 7, 1939, as amended,” in par. (4), and in the provisions following par. (7) substituted “the National Defense Stockpile established by the Strategic and Critical Materials Stock Piling Act” for “the national stockpile established pursuant to the Act of June 7, 1939, as amended,” and “funds appropriated for the purposes of that Act” for “funds appropriated pursuant to section 8 of such Act of June 7, 1939”.
 
 #### Change of Name
 

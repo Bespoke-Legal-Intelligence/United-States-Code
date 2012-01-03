@@ -12,7 +12,7 @@ For the purposes of this section, the corporation is authorized to issue, upon t
 
 #### (c) Purchase of obligations by Treasury; conditions and restrictions
 
-The Secretary of the Treasury is authorized in the Secretary's discretion to purchase any obligations issued pursuant to subsection (b) of this section, as now or hereafter in force, and for such purpose the Secretary of the Treasury is authorized to use as a public debt transaction the proceeds of the sale of any securities hereafter issued under chapter 31 of title 31, and the purposes for which securities may be issued under chapter 31 of title 31 are extended to include such purchases. The Secretary of the Treasury shall not at any time purchase any obligations under this subsection if such purchase would increase the aggregate principal amount of the Secretary's then outstanding holdings of such obligations under this subsection to an amount greater than $2,250,000,000. Each purchase of obligations by the Secretary of the Treasury under this subsection shall be upon such terms and conditions as to yield a return at a rate determined by the Secretary of the Treasury, taking into consideration the current average rate on outstanding marketable obligations of the United States as of the last day of the month preceding the making of such purchase. The Secretary of the Treasury may, at any time, sell, upon such terms and conditions and at such price or prices as the Secretary shall determine, any of the obligations acquired by the Secretary under this subsection. All redemptions, purchases, and sales by the Secretary of the Treasury of such obligations under this subsection shall be treated as public debt transactions of the United States.
+The Secretary of the Treasury is authorized in the Secretary's discretion to purchase any obligations issued pursuant to subsection (b) of this section, as now or hereafter in force, and for such purpose the Secretary of the Treasury is authorized to use as a public debt transaction the proceeds of the sale of any securities hereafter issued under chapter 31 of title 31, and the purposes for which securities may be issued under chapter 31 of title 31 are extended to include such purchases. The Secretary of the Treasury shall not at any time purchase any obligations under this subsection if such purchase would increase the aggregate principal amount of the Secretary's then outstanding holdings of such obligations under this subsection to anamount greater than $2,250,000,000. Each purchase of obligations by the Secretary of the Treasury under this subsection shall be upon such terms and conditions as to yield a return at a rate determined by the Secretary of the Treasury, taking into consideration the current average rate on outstanding marketable obligations of the United States as of the last day of the month preceding the making of such purchase. The Secretary of the Treasury may, at any time, sell, upon such terms and conditions and at such price or prices as the Secretary shall determine, any of the obligations acquired by the Secretary under this subsection. All redemptions, purchases, and sales by the Secretary of the Treasury of such obligations under this subsection shall be treated as public debt transactions of the United States.
 
 #### (d) Mortgage-backed securities; issuance; maturities; rates of interest; exempt securities; adequacy of mortgages to permit principal and interest payments; statement in securities
 
@@ -32,7 +32,7 @@ Except for fees paid pursuant to section 1723a(g) of this title and assessments 
 
 #### (A) General authority
 
-&emsp;&emsp;In addition to the authority under subsection (c) of this section, the Secretary of the Treasury is authorized to purchase any obligations and other securities issued by the corporation under any section of this chapter, on such terms and conditions as the Secretary may determine and in such amounts as the Secretary may determine. Nothing in this subsection requires the corporation to issue obligations or securities tothe Secretary without mutual agreement between the Secretary and the corporation. Nothing in this subsection permits or authorizes the Secretary, without the agreement of the corporation, to engage in open market purchases of the common securities of the corporation.
+&emsp;&emsp;In addition to the authority under subsection (c) of this section, the Secretary of the Treasury is authorized to purchase any obligations and other securities issued by the corporation under any section of this chapter, on such terms and conditions as the Secretary may determine and in such amounts as the Secretary may determine. Nothing in this subsection requires the corporation to issue obligations or securities to the Secretary without mutual agreement between the Secretary and the corporation. Nothing in this subsection permits or authorizes the Secretary, without the agreement of the corporation, to engage in open market purchases of the common securities of the corporation.
 
 #### (B) Emergency determination required
 
@@ -74,7 +74,15 @@ Except for fees paid pursuant to section 1723a(g) of this title and assessments 
 
 &emsp;&emsp;The Secretary of the Treasury may, at any time, subject to the terms of the security or otherwise upon terms and conditions and at prices determined by the Secretary, sell any obligation or security acquired by the Secretary under this subsection.
 
-#### (C) Application of sunset to purchased obligations or securities
+#### (C) Deficit reduction
+
+&emsp;&emsp;The Secretary of the Treasury shall deposit in the General Fund of the Treasury any amounts received by the Secretary from the sale of any obligation acquired by the Secretary under this subsection, where such amounts shall be—
+
+&emsp;&emsp;&emsp;(i) dedicated for the sole purpose of deficit reduction; and
+
+&emsp;&emsp;&emsp;(ii) prohibited from use as an offset for other spending increases or revenue reductions.
+
+#### (D) Application of sunset to purchased obligations or securities
 
 &emsp;&emsp;The authority of the Secretary of the Treasury to hold, exercise any rights received in connection with, or sell, any obligations or securities purchased is not subject to the provisions of paragraph (4).
 
@@ -90,7 +98,7 @@ Except for fees paid pursuant to section 1723a(g) of this title and assessments 
 
 &emsp;The Director shall have the power to approve, disapprove, or modify the executive compensation of the corporation, as defined under Regulation S-K, 17 C.F.R. 229.
 
-(June 27, 1934, ch. 847, title III, §304, 48 Stat. 1254; July 1, 1948, ch. 784, §1, 62 Stat. 1206; Aug. 2, 1954, ch. 649, title II, §201, 68 Stat. 615; Aug. 7, 1956, ch. 1029, title II, §§203, 204, 70 Stat. 1096; Pub. L. 85–10, §1(c), Mar. 27, 1957, 71 Stat. 7; Pub. L. 85–104, title II, §203, July 12, 1957, 71 Stat. 298; Pub. L. 86–372, title III, §§302, 305(a), Sept. 23, 1959, 73 Stat. 669, 670; Pub. L. 87–70, title VI, §603(d), (e), June 30, 1961, 75 Stat. 176, 177; Pub. L. 88–560, title VII, §§701(b)(2), 703, 704, Sept. 2, 1964, 78 Stat. 800, 802; Pub. L. 89–566, §1, Sept. 10, 1966, 80 Stat. 738; Pub. L. 89–754, title X, §1007, Nov. 3, 1966, 80 Stat. 1285; Pub. L. 90–448, title VIII, §§802(p)–(s), 804(a), 805, Aug. 1, 1968, 82 Stat. 538, 542, 543; Pub. L. 91–351, title V, §504, July 24, 1970, 84 Stat. 461; Pub. L. 93–383, title VIII, §806(j), Aug. 22, 1974, 88 Stat. 728; Pub. L. 97–320, title VII, §707(b), Oct. 15, 1982, 96 Stat. 1540; Pub. L. 98–479, title II, §203(a)(1), Oct. 17, 1984, 98 Stat. 2229; Pub. L. 100–242, title IV, §441(a), Feb. 5, 1988, 101 Stat. 1921; Pub. L. 101–73, title VII, §731(m)(2), Aug. 9, 1989, 103 Stat. 436; Pub. L. 102–550, title XIII, §1381(e)–(g), (s)(2), Oct. 28, 1992, 106 Stat. 3996, 4001; Pub. L. 110–289, div. A, title I, §1117(a), July 30, 2008, 122 Stat. 2683.)
+(June 27, 1934, ch. 847, title III, §304, 48 Stat. 1254; July 1, 1948, ch. 784, §1, 62 Stat. 1206; Aug. 2, 1954, ch. 649, title II, §201, 68 Stat. 615; Aug. 7, 1956, ch. 1029, title II, §§203, 204, 70 Stat. 1096; Pub. L. 85–10, §1(c), Mar. 27, 1957, 71 Stat. 7; Pub. L. 85–104, title II, §203, July 12, 1957, 71 Stat. 298; Pub. L. 86–372, title III, §§302, 305(a), Sept. 23, 1959, 73 Stat. 669, 670; Pub. L. 87–70, title VI, §603(d), (e), June 30, 1961, 75 Stat. 176, 177; Pub. L. 88–560, title VII, §§701(b)(2), 703, 704, Sept. 2, 1964, 78 Stat. 800, 802; Pub. L. 89–566, §1, Sept. 10, 1966, 80 Stat. 738; Pub. L. 89–754, title X, §1007, Nov. 3, 1966, 80 Stat. 1285; Pub. L. 90–448, title VIII, §§802(p)–(s), 804(a), 805, Aug. 1, 1968, 82 Stat. 538, 542, 543; Pub. L. 91–351, title V, §504, July 24, 1970, 84 Stat. 461; Pub. L. 93–383, title VIII, §806(j), Aug. 22, 1974, 88 Stat. 728; Pub. L. 97–320, title VII, §707(b), Oct. 15, 1982, 96 Stat. 1540; Pub. L. 98–479, title II, §203(a)(1), Oct. 17, 1984, 98 Stat. 2229; Pub. L. 100–242, title IV, §441(a), Feb. 5, 1988, 101 Stat. 1921; Pub. L. 101–73, title VII, §731(m)(2), Aug. 9, 1989, 103 Stat. 436; Pub. L. 102–550, title XIII, §1381(e)–(g), (s)(2), Oct. 28, 1992, 106 Stat. 3996, 4001; Pub. L. 110–289, div. A, title I, §1117(a), July 30, 2008, 122 Stat. 2683; Pub. L. 111–203, title XIII, §1304(a), July 21, 2010, 124 Stat. 2134.)
 
 #### References in Text
 
@@ -98,9 +106,11 @@ Paragraph (a) of section 1716 of this title, referred to in subsec. (a)(1), was 
 
 #### Amendments
 
-2008—Subsec. (g). Pub. L. 110–289 added subsec. (g).
+<b>2010</b>—Subsec. (g)(2)(C), (D). Pub. L. 111–203 added subpar. (C) and redesignated former subpar. (C) as (D).
 
-1992—Subsec. (b). Pub. L. 102–550, §1381(e)(1), substituted a period for “; but the aggregate amount of obligations of the corporation under this subsection outstanding at any one time shall not exceed fifteen times the sum of its capital, capital surplus, general surplus, reserves, and undistributed earnings unless a greater ratio shall be fixed at any time or from time to time by the Secretary of Housing and Urban Development. In no event shall any such obligations be issued if, at the time of such proposed issuance, and as a consequence thereof, the resulting aggregate amount of its outstanding obligations under this subsection would exceed the amount of the corporation's ownership pursuant to this section, free from any liens or encumbrances, of cash, mortgages or other security holdings, and obligations of the United States or guaranteed thereby, or obligations, participations, or other instruments which are lawful investments for fiduciary, trust, or public funds.” after “in such obligations”.
+<b>2008</b>—Subsec. (g). Pub. L. 110–289 added subsec. (g).
+
+<b>1992</b>—Subsec. (b). Pub. L. 102–550, §1381(e)(1), substituted a period for “; but the aggregate amount of obligations of the corporation under this subsection outstanding at any one time shall not exceed fifteen timesthe sum of its capital, capital surplus, general surplus, reserves, and undistributed earnings unless a greater ratio shall be fixed at any time or from time to time by the Secretary of Housing and Urban Development. In no event shall any such obligations be issued if, at the time of such proposed issuance, and as a consequence thereof, the resulting aggregate amount of its outstanding obligations under this subsection would exceed the amount of the corporation's ownership pursuant to this section, free from any liens or encumbrances, of cash, mortgages or other security holdings, and obligations of the United States or guaranteed thereby, or obligations, participations, or other instruments which are lawful investments for fiduciary, trust, or public funds.” after “in such obligations”.
 
 Subsec. (c). Pub. L. 102–550, §1381(s)(2), substituted “the Secretary's” for “his” in two places, “the Secretary” for “he” after “such price or prices as”, and “the Secretary” for “him” after “the obligations acquired by”.
 
@@ -110,19 +120,19 @@ Subsec. (e). Pub. L. 102–550, §1381(e)(2), struck out after third sentence �
 
 Subsec. (f). Pub. L. 102–550, §1381(g), inserted “of this title and assessments pursuant to section 4516 of this title” in first sentence.
 
-1989—Subsec. (a)(2). Pub. L. 101–73 inserted after third sentence “The corporation shall not be permitted to use its lending authority (A) to advance funds to a mortgage seller on an interim basis, using mortgage loans as collateral, pending the sale of the mortgages in the secondary market; or (B) to originate mortgage loans.” and struck out first two sentences which read as follows: “In the further interest of assuring sound operation, any loan made by the corporation in its secondary market operations under this section, and any extension or renewal thereof, shall not exceed 90 per centum of the unpaid principal balances of the mortgages securing the loan, and shall bear interest at a rate consistent with general loan policies established from time to time by the corporation's board of directors. Any such loan shall mature in not more than twelve months and the term of any extension or renewal shall not exceed twelve months.”
+<b>1989</b>—Subsec. (a)(2). Pub. L. 101–73 inserted after third sentence “The corporation shall not be permitted to use its lending authority (A) to advance funds to a mortgage seller on an interim basis, using mortgage loans as collateral, pending the sale of the mortgages in the secondary market; or (B) to originate mortgage loans.” and struck out first two sentences which read as follows: “In the further interest of assuring sound operation, any loan made by the corporation in its secondary market operations under this section, and any extension or renewal thereof, shall not exceed 90 per centum of the unpaid principal balances of the mortgages securing the loan, and shall bear interest at a rate consistent with general loan policies established from time to time by the corporation's board of directors. Any such loan shall mature in not more than twelve months and the term of any extension or renewal shall not exceed twelve months.”
 
-1988—Subsec. (f). Pub. L. 100–242 added subsec. (f).
+<b>1988</b>—Subsec. (f). Pub. L. 100–242 added subsec. (f).
 
-1984—Subsec. (c). Pub. L. 98–479 substituted “chapter 31 of title 31” for “the Second Liberty Bond Act, as now or hereafter in force” in two places.
+<b>1984</b>—Subsec. (c). Pub. L. 98–479 substituted “chapter 31 of title 31” for “the Second Liberty Bond Act, as now or hereafter in force” in two places.
 
-1982—Subsec. (e). Pub. L. 97–320 struck out provision that the total principal amount of subordinated obligations which could be outstanding at any one time could not exceed two times the sum of (1) the capital of the corporation represented by its outstanding common stock and (2) its surplus and undistributed earnings at such time.
+<b>1982</b>—Subsec. (e). Pub. L. 97–320 struck out provision that the total principal amount of subordinated obligations which could be outstanding at any one time could not exceed two times the sum of (1) the capital of the corporation represented by its outstanding common stock and (2) its surplus and undistributed earnings at such time.
 
-1974—Subsec. (a)(1). Pub. L. 93–383 substituted “section 243 of the National Housing Act”, classified to section 1715z–8 of this title, for “section 502 of the Emergency Home Finance Act of 1970”, which enacted such section 1715z–8. For purposes of amendment of subsec. (a)(1) of this section no change in text was required.
+<b>1974</b>—Subsec. (a)(1). Pub. L. 93–383 substituted “section 243 of the National Housing Act”, classified to section 1715z–8 of this title, for “section 502 of the Emergency Home Finance Act of 1970”, which enacted such section 1715z–8. For purposes of amendment of subsec. (a)(1) of this section no change in text was required.
 
-1970—Subsec. (a)(1). Pub. L. 91–351 inserted provision that nothing in this subchapter shall prohibit the corporation from purchasing, and making commitments to purchase, any mortgage with respect to which the Secretary of Housing and Urban Development has entered into a contract with the corporation to make interest subsidy payments pursuant to section 1715z–8 of this title.
+<b>1970</b>—Subsec. (a)(1). Pub. L. 91–351 inserted provision that nothing in this subchapter shall prohibit the corporation from purchasing, and making commitments to purchase, any mortgage with respect to which the Secretary of Housing and Urban Development has entered into a contract with the corporation to make interest subsidy payments pursuant to section 1715z–8 of this title.
 
-1968—Subsec. (a)(1). Pub. L. 90–448, §802(p), (s), substituted “corporation” for “Association” in six places, and “corporation's” for “Association's” in two places, and struck out provisions which prohibited the Association from purchasing any mortgage insured or guaranteed prior to Aug. 2, 1954.
+<b>1968</b>—Subsec. (a)(1). Pub. L. 90–448, §802(p), (s), substituted “corporation” for “Association” in six places, and “corporation's” for “Association's” in two places, and struck out provisions which prohibited the Association from purchasing any mortgage insured or guaranteed prior to Aug. 2, 1954.
 
 Subsec. (a)(2). Pub. L. 90–448, §802(s), substituted “corporation” for “Association” in five places, and “corporation's” for “Association's”, in three places.
 
@@ -134,35 +144,39 @@ Subsec. (d). Pub. L. 90–448, §804(a), added subsec. (d). A prior subsec. (d) 
 
 Subsec. (e). Pub. L. 90–448, §805, added subsec. (e).
 
-1966—Subsec. (a)(1). Pub. L. 89–754 struck out requirement that Association's advance commitments to purchase mortgages in its secondary market operations be issued at prices which are sufficient to facilitate home financing, but which are sufficiently below the price then offered by the Association for immediate purchase to prevent excessive sales to the Association pursuant to such commitments.
+<b>1966</b>—Subsec. (a)(1). Pub. L. 89–754 struck out requirement that Association's advance commitments to purchase mortgages in its secondary market operations be issued at prices which are sufficient to facilitate home financing, but which are sufficiently below the price then offered by the Association for immediate purchase to prevent excessive sales to the Association pursuant to such commitments.
 
 Subsec. (b). Pub. L. 89–566 raised limit on maximum amount of obligations outstanding under the subsection from ten times the sum of capital, capital surplus, general surplus, reserves, and undistributed earnings to fifteen times that sum.
 
-1964—Subsec. (a)(2). Pub. L. 88–560, §703, substituted “90 per centum” for “80 per centum”.
+<b>1964</b>—Subsec. (a)(2). Pub. L. 88–560, §703, substituted “90 per centum” for “80 per centum”.
 
 Subsec. (b). Pub. L. 88–560, §701(b)(2), substituted “or obligations, participations, or other instruments which are lawful investments” for “or obligations which are lawful investments”.
 
 Subsec. (d). Pub. L. 88–560, §704, repealed provisions which prohibited the Association from purchasing participations in its operations under this section.
 
-1961—Subsec. (a). Pub. L. 87–70, §603(d), designated existing provisions as par. (1) and added par. (2).
+<b>1961</b>—Subsec. (a). Pub. L. 87–70, §603(d), designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (b). Pub. L. 87–70, §603(e), inserted “or other security holdings” after “mortgages”.
 
-1959—Subsec. (a). Pub. L. 86–372, §302, substituted “home financing” for “advance planning of home construction” after “sufficient to facilitate”.
+<b>1959</b>—Subsec. (a). Pub. L. 86–372, §302, substituted “home financing” for “advance planning of home construction” after “sufficient to facilitate”.
 
 Subsec. (b). Pub. L. 86–372, §305(a), substituted “and obligations of the United States or guaranteed thereby, or obligations which are lawful investments for fiduciary, trust, or public funds” for “and bonds or other obligations of, or bonds or other obligations guaranteed as to principal and interest by, the United States”.
 
-1957—Subsec. (c). Pub. L. 85–104 substituted “$2,250,000,000” for “$1,350,000,000”.
+<b>1957</b>—Subsec. (c). Pub. L. 85–104 substituted “$2,250,000,000” for “$1,350,000,000”.
 
 Pub. L. 85–10 substituted “$1,350,000,000” for “$500,000,000” plus an amount equal to the total of such reductions in the maximum dollar amount prescribed by section 1721(c) of this title as have theretofore been effected pursuant to that section: <i>Provided</i>, That such aggregate principal amount under this subsection shall in no event exceed $1,000,000,000”.
 
-1956—Subsec. (a). Act Aug. 7, 1956, §§203, 204(a), substituted in second sentence “within the range of market prices” for “at the market prices”; and inserted sentence that advance commitments to purchase mortgages in secondary market operations shall be issued only at prices which are sufficient to facilitate advance planning of home construction but sufficiently below price then offered by Association for immediate purchase to prevent excessive sales to the Association pursuant to such commitments.
+<b>1956</b>—Subsec. (a). Act Aug. 7, 1956, §§203, 204(a), substituted in second sentence “within the range of market prices” for “at the market prices”; and inserted sentence that advance commitments to purchase mortgages in secondary market operations shall be issued only at prices which are sufficient to facilitate advance planning of home construction but sufficiently below price then offered by Association for immediate purchase to prevent excessive sales to the Association pursuant to such commitments.
 
 Subsec. (d). Act Aug. 7, 1956, §204(b), struck out provisions prohibiting Association from making advance contracts or commitments to purchase mortgages but allowed Association to issue a purchase contract in an amount not exceeding the amount of the sale of mortgages purchased from the Association, entitling the holder to sell to the Association mortgages in the amount of the contract, upon terms prescribed by the Association.
 
-1954—Act Aug. 2, 1954, amended section generally to substitute new provisions (formerly covered in sections 1716 and 1717 of this title) for provisions which related to exemption from taxation. See section 1723a(c) of this title.
+<b>1954</b>—Act Aug. 2, 1954, amended section generally to substitute new provisions (formerly covered in sections 1716 and 1717 of this title) for provisions which related to exemption from taxation. See section 1723a(c) of this title.
 
-1948—Act July 1, 1948, amended section generally to provide for exemption from taxation for the Association.
+<b>1948</b>—Act July 1, 1948, amended section generally to provide for exemption from taxation for the Association.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of this title.
 
 #### Effective Date of 1968 Amendment
 

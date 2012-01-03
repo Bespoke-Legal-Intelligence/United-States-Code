@@ -4,7 +4,7 @@
 
 #### (1) Authority
 
-&emsp;Under a local flexibility demonstration agreement entered into under this division, alocal educational agency may consolidate Federal funds made available to the agency under the provisions listed in subsection (b) of this section and use such funds for any educational purpose permitted under this chapter.
+&emsp;Under a local flexibility demonstration agreement entered into under this division, a local educational agency may consolidate Federal funds made available to the agency under the provisions listed in subsection (b) of this section and use such funds for any educational purpose permitted under this chapter.
 
 #### (2) Program requirements
 

@@ -18,7 +18,7 @@
 
 &emsp;(B) The implementation, operation, and effectiveness of recently concluded multilateral and bilateral trade agreements and resolution of trade disputes.
 
-&emsp;(C) The actions taken under the trade laws of the United States and the effectiveness ofsuch actions in achieving trade policy objectives.
+&emsp;(C) The actions taken under the trade laws of the United States and the effectiveness of such actions in achieving trade policy objectives.
 
 &emsp;(D) Important developments in other areas of trade for which there must be developed a proper policy response.
 
@@ -70,7 +70,7 @@ Committees established under subsection (c) of this section shall meet at the ca
 
 #### (e) Meeting of advisory committees at conclusion of negotiations
 
-(1) The Advisory Committee for Trade Policy and Negotiations, each appropriate policy advisory committee, and each sectoral or functional advisory committee, if the sector or area which such committee represents is affected, shall meet at the conclusion of negotiations for each trade agreement entered into under section 3803 of this title, to provide to the President, to Congress, and to the United States Trade Representative a report on such agreement. Each report that applies to a trade agreement entered into under section 3803 of this title shall be provided under the preceding sentence not later than the date on which the President notifies the Congress under section 3805(a)(1)(A) of this title of his intention to enter into that agreement.
+(1) The Advisory Committee for Trade Policy and Negotiations, each appropriate policy advisory committee, and each sectoral or functionaladvisory committee, if the sector or area which such committee represents is affected, shall meet at the conclusion of negotiations for each trade agreement entered into under section 3803 of this title, to provide to the President, to Congress, and to the United States Trade Representative a report on such agreement. Each report that applies to a trade agreement entered into under section 3803 of this title shall be provided under the preceding sentence not later than the date on which the President notifies the Congress under section 3805(a)(1)(A) of this title of his intention to enter into that agreement.
 
 (2) The report of the Advisory Committee for Trade Policy and Negotiations and each appropriate policy advisory committee shall include an advisory opinion as to whether and to what extent the agreement promotes the economic interests of the United States and achieves the applicable overall and principal negotiating objectives set forth in section 3802 of this title, as appropriate.
 
@@ -110,7 +110,7 @@ The provisions of the Federal Advisory Committee Act apply—
 
 #### (h) Advisory committee support
 
-The United States Trade Representative, and the Secretaries of Commerce, Labor, Defense, Agriculture, the Treasury, or other executivedepartments, as appropriate, shall provide such staff, information, personnel, and administrative services and assistance to advisory committees established under subsection (c) of this section as such committees may reasonably require to carry out their activities.
+The United States Trade Representative, and the Secretaries of Commerce, Labor, Defense, Agriculture, the Treasury, or other executive departments, as appropriate, shall provide such staff, information, personnel, and administrative services and assistance to advisory committees established under subsection (c) of this section as such committees may reasonably require to carry out their activities.
 
 #### (i) Consultation with advisory committees; procedures; nonacceptance of committee advice or recommendations
 
@@ -208,7 +208,7 @@ Subsec. (i). Pub. L. 96–39, §1103(18)(A)–(C), struck out in provision befor
 
 Subsec. (j). Pub. L. 96–39, §1103(19), substituted “matters referred to in subsection (a) of this section” for “trade agreement referred to in section 2111 or 2112 of this title”.
 
-Subsec. (k). Pub. L. 96–39, §1103(19), (20), substituted “matters referred to in subsection (a) of this section” for “trade agreement referred to in section 2111 or 2112 of this title” and provided for information to and consultations with committee members and appropriate parties and participation in international meetings without becoming spokesmen or negotiators for the United States.
+Subsec. (k). Pub. L. 96–39, §1103(19), (20), substituted “matters referred to in subsection (a) of this section”for “trade agreement referred to in section 2111 or 2112 of this title” and provided for information to and consultations with committee members and appropriate parties and participation in international meetings without becoming spokesmen or negotiators for the United States.
 
 Subsec. (<i>l</i>). Pub. L. 96–39, §1103(21), added subsec. (<i>l</i>).
 
@@ -282,13 +282,15 @@ Term of Trade and Environment Policy Advisory Committee extended until Sept. 30,
 
 Term of Trade and Environment Policy Advisory Committee extended until Sept. 30, 2003, by Ex. Ord. No. 13225, Sept. 28, 2001, 66 F.R. 50291, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of Trade and Environment Policy Advisory Committee extended until Sept. 30, 2005, by Ex. Ord. No. 13316, Sept. 17, 2003, 68 F.R. 55255, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of Trade and Environment Policy Advisory Committee extended until Sept. 30, 2005, by Ex. Ord. No. 13316, Sept. 17, 2003, 68 F.R. 55255, formerly set outas a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 Term of Trade and Environment Policy Advisory Committee extended until Sept. 30, 2007, by Ex. Ord. No. 13385, Sept. 29, 2005, 70 F.R. 57989, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 Term of Trade and Environment Policy Advisory Committee extended until Sept. 30, 2009, by Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of Trade and Environment Policy Advisory Committee extended until Sept. 30, 2011, by Ex. Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of Trade and Environment Policy Advisory Committee extended until Sept. 30, 2011, by Ex. Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of Trade and Environment Policy Advisory Committee extended until Sept. 30, 2013, by Ex. Ord. No. 13585, Sept. 30, 2011, 76 F.R. 62281, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

@@ -14,7 +14,7 @@ The Congress finds that—
 
 &emsp;(3) there is a pressing need for detailed and reliable information on the number of seabirds, sea turtles, nontarget fish, and marine mammals that become entangled and die in actively fished large-scale driftnets and in large-scale driftnets that are lost, abandoned, or discarded;
 
-&emsp;(4) increased efforts, including reliable observer data and enforcement mechanisms, areneeded to monitor, assess, control, and reduce the adverse impact of large-scale driftnet fishing on living marine resources;
+&emsp;(4) increased efforts, including reliable observer data and enforcement mechanisms, are needed to monitor, assess, control, and reduce the adverse impact of large-scale driftnet fishing on living marine resources;
 
 &emsp;(5) the nations of the world have agreed in the United Nations, through General Assembly Resolution Numbered 44–225, approved December 22, 1989, by the General Assembly, that a moratorium should be imposed by June 30, 1992, on the use of large-scale driftnets beyond the exclusive economic zone of any nation;
 
@@ -84,7 +84,7 @@ As used in this section, the term “living marine resources” includes fish, m
 
 #### References in Text
 
-The Driftnet Impact Monitoring, Assessment, and Control Act of 1987, referred to in subsec. (a), is title IV of Pub. L. 100–220, which is set out as a note under section 1822 of this title.
+The Driftnet Impact Monitoring, Assessment, and Control Act of 1987, referred to in subsec. (a), is title IVof Pub. L. 100–220, which is set out as a note under section 1822 of this title.
 
 Presidential Proclamation Numbered 5030, referred to in subsec. (g), is set out under section 1453 of this title.
 

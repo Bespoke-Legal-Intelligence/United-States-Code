@@ -20,7 +20,7 @@ General Rule.—No person may use, in connection with, or as a part of, any adve
 
 (b)
 
-Treatment of Disclaimers.—Any determination of whether a person has violated the provisions of subsection (a) shall be made without regard to any use of a disclaimer of affiliation with the United States Government or any particular agency or instrumentality thereof.
+Treatment of Disclaimers.—Any determination of whether a person has violated theprovisions of subsection (a) shall be made without regard to any use of a disclaimer of affiliation with the United States Government or any particular agency or instrumentality thereof.
 
 (c)
 

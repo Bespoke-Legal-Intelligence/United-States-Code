@@ -46,7 +46,7 @@ The authority provided by subsection (a) of this section may be exercised only i
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–189 substituted “principal” for “principle”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–189 substituted “principal” for “principle”.
 
 #### Delegation of Authority With Respect to Debt Reduction for Poorest Countries
 

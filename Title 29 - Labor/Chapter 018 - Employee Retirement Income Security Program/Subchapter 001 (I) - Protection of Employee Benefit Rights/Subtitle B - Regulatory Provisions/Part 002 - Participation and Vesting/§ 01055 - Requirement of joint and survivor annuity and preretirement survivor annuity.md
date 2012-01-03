@@ -38,7 +38,7 @@ Each pension plan to which this section applies shall provide that—
 
 (4) <sup>2</sup> This section shall not apply to a plan which the Secretary of the Treasury or his delegate has determined is a plan described in section 404(c) of title 26 (or a continuation thereof) in which participation is substantially limited to individuals who, before January 1, 1976, ceased employment covered by the plan.
 
-(4) <sup>2</sup> A plan shall not be treated as failing to meet the requirements of paragraph (1)(C) or (2) merely because the plan provides that benefits will not be payable to the surviving spouse of the participant unless the participant and suchspouse had been married throughout the 1-year period ending on the earlier of the participant's annuity starting date or the date of the participant's death.
+(4) <sup>2</sup> A plan shall not be treated as failing to meet the requirements of paragraph (1)(C) or (2) merely because the plan provides that benefits will not be payable to the surviving spouse of the participant unless the participant and such spouse had been married throughout the 1-year period ending on the earlier of the participant's annuity starting date or the date of the participant's death.
 
 #### (c) Plans meeting requirements of section
 
@@ -110,7 +110,7 @@ Each pension plan to which this section applies shall provide that—
 
 &emsp;(B) in the case of an election to waive the qualified preretirement survivor annuity, the period which begins on the first day of the plan year in which the participant attains age 35 and ends on the date of the participant's death.
 
-> In the case of a participant who is separated from service, the applicable election periodunder subparagraph (B) with respect to benefits accrued before the date of such separation from service shall not begin later than such date.
+> In the case of a participant who is separated from service, the applicable election period under subparagraph (B) with respect to benefits accrued before the date of such separation from service shall not begin later than such date.
 
 (8) Notwithstanding any other provision of this subsection—
 
@@ -214,7 +214,7 @@ For purposes of this section—
 
 &emsp;&emsp;(I) section 1083(h)(2)(D) of this title were applied by substituting the average yields for the month described in clause (ii) for the average yields for the 24-month period described in such section,
 
-&emsp;&emsp;(II) section 1083(h)(2)(G)(i)(II) of this title were applied by substituting “section 1055(g)(3)(A)(ii)(II) of this title” for “section 1082(b)(5)(B)(ii)(II) of this title”, and
+&emsp;&emsp;(II) section 1083(h)(2)(G)(i)(II) of this title were applied by substituting “section1055(g)(3)(A)(ii)(II) of this title” for “section 1082(b)(5)(B)(ii)(II) of this title”, and
 
 &emsp;&emsp;(III) the applicable percentage under section 1083(h)(2)(G) of this title were determined in accordance with the following table:
 
@@ -260,7 +260,7 @@ No consent of a spouse shall be effective for purposes of subsection (g)(1) or (
 
 In prescribing regulations under this section, the Secretary of the Treasury shall consult with the Secretary of Labor.
 
-(Pub. L. 93–406, title I, §205, Sept. 2, 1974, 88 Stat. 862; Pub. L. 98–397, title I, §103(a), Aug. 23, 1984, 98 Stat. 1429; Pub. L. 99–514, title XI, §§1139(c)(2), 1145(b), title XVIII, §1898(b)(1)(B), (2)(B), (3)(B),\(4)(B), (5)(B), (6)(B), (7)(B), (8)(B), (9)(B), (10)(B), (11)(B), (12)(B), (13)(B), (14)(B), Oct. 22, 1986, 100 Stat. 2488, 2491, 2945–2951; Pub. L. 101–239, title VII, §§7861(d)(2), 7862(d)(1)(B), (3), (6)–(9), 7891(a)(1), (b)(3), (c), (e), 7894(c)(7)(A), Dec. 19, 1989, 103 Stat. 2431, 2434, 2445, 2447, 2449; Pub. L. 103–465, title VII, §767(c)(2), Dec. 8, 1994, 108 Stat. 5039; Pub. L. 104–188, title I, §1451(b), Aug. 20, 1996, 110 Stat. 1815; Pub. L. 105–34, title X, §1071(b)(2), title XVI, §1601(d)(5), Aug. 5, 1997, 111 Stat. 948, 1089; Pub. L. 107–147, title IV, §411(r)(2), Mar. 9, 2002, 116 Stat. 51; Pub. L. 109–280, title III, §302(a), title X, §1004(b), title XI, §1102(a)(2)(A), Aug. 17, 2006, 120 Stat. 920, 1054, 1056; Pub. L. 110–458, title I, §103(b)(1), Dec. 23, 2008, 122 Stat. 5103.)
+(Pub. L. 93–406, title I, §205, Sept. 2, 1974, 88 Stat. 862; Pub. L. 98–397, title I, §103(a), Aug. 23, 1984, 98 Stat. 1429; Pub. L. 99–514, title XI, §§1139(c)(2), 1145(b), title XVIII, §1898(b)(1)(B), (2)(B), (3)(B), (4)(B), (5)(B), (6)(B), (7)(B), (8)(B), (9)(B), (10)(B), (11)(B), (12)(B), (13)(B), (14)(B), Oct. 22, 1986, 100 Stat. 2488, 2491, 2945–2951; Pub. L. 101–239, title VII, §§7861(d)(2), 7862(d)(1)(B), (3), (6)–(9), 7891(a)(1), (b)(3), (c), (e), 7894(c)(7)(A), Dec. 19, 1989, 103 Stat. 2431, 2434, 2445, 2447, 2449; Pub. L. 103–465, title VII, §767(c)(2), Dec. 8, 1994, 108 Stat. 5039; Pub. L. 104–188, title I, §1451(b), Aug. 20, 1996, 110 Stat. 1815; Pub. L. 105–34, title X, §1071(b)(2), title XVI, §1601(d)(5), Aug. 5, 1997, 111 Stat. 948, 1089; Pub. L. 107–147, title IV, §411(r)(2), Mar. 9, 2002, 116 Stat. 51; Pub. L. 109–280, title III, §302(a), title X, §1004(b), title XI, §1102(a)(2)(A), Aug. 17, 2006, 120 Stat. 920, 1054, 1056; Pub. L. 110–458, title I, §103(b)(1), Dec. 23, 2008, 122 Stat. 5103.)
 
 #### Amendments
 
@@ -298,7 +298,7 @@ Subsec. (g)(1), (2)(A). Pub. L. 105–34, §1071(b)(2), substituted “the dolla
 
 “(B) For purposes of subparagraph (A), the term ‘applicable interest rate’ means the interest rate which would be used (as of the date of the distribution) by the Pension Benefit Guaranty Corporation for purposes of determining the present value of a lump sum distribution on plan termination.”
 
-<b>1989</b>—Subsec. (b)(1)(C)(i). Pub. L. 101–239, §7862(d)(7), made technical correction to directory language of Pub. L. 99–514, §1898(b)(7)(B), see 1986 Amendment note below.
+<b>1989</b>—Subsec. (b)(1)(C)(i). Pub. L. 101–239, §7862(d)(7), made technical correction to directory language ofPub. L. 99–514, §1898(b)(7)(B), see 1986 Amendment note below.
 
 Subsec. (b)(2)(A)(i). Pub. L. 101–239, §7891(a)(1), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
@@ -450,7 +450,7 @@ Nothing in amendment by Pub. L. 98–397 to prevent any distribution required by
 
 #### Plan Amendments Not Required Until January 1, 1998
 
-For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L.104–188, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

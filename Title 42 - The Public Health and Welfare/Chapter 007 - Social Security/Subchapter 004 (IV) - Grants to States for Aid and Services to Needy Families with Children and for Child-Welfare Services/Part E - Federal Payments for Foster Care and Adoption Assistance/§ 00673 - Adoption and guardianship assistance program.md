@@ -68,7 +68,7 @@
 
 (D) In determining the eligibility for adoption assistance payments of a child in a legal guardianship arrangement described in section 671(a)(28) of this title, the placement of the child with the relative guardian involved and any kinship guardianship assistance payments made on behalf of the child shall be considered never to have been made.
 
-(3) The amount of the payments to be made in any case under clauses (i) and (ii) of paragraph (1)(B) shall be determined through agreement between the adoptive parents and the State or local agency administering the program under this section, which shall take into consideration the circumstances of the adopting parents and the needs of the child being adopted, and may be readjusted periodically, with the concurrence of the adopting parents (which may be specified in the adoption assistance agreement), depending upon changes in such circumstances. However, in no case may the amount of the adoption assistance payment made under clause (ii) of paragraph (1)(B) exceed the foster care maintenance payment which would have been paid during the period if the child with respect to whom the adoption assistance payment is made had been in a foster family home.
+(3) The amount of the payments to be made in any case under clauses (i) and (ii) of paragraph (1)(B) shall be determined through agreement between the adoptive parents and the State or local agency administering the program underthis section, which shall take into consideration the circumstances of the adopting parents and the needs of the child being adopted, and may be readjusted periodically, with the concurrence of the adopting parents (which may be specified in the adoption assistance agreement), depending upon changes in such circumstances. However, in no case may the amount of the adoption assistance payment made under clause (ii) of paragraph (1)(B) exceed the foster care maintenance payment which would have been paid during the period if the child with respect to whom the adoption assistance payment is made had been in a foster family home.
 
 (4)(A) Notwithstanding any other provision of this section, a payment may not be made pursuant to this section to parents or relative guardians with respect to a child—
 
@@ -84,7 +84,7 @@
 
 (B) Parents or relative guardians who have been receiving adoption assistance payments or kinship guardianship assistance payments under this section shall keep the State or local agency administering the program under this section informed of circumstances which would, pursuant to this subsection, make them ineligible for the payments, or eligible for the payments in a different amount.
 
-(5) For purposes of this part, individuals with whom a child (who has been determined by the State, pursuant to subsection (c) of this section, to be a child with special needs) is placed for adoption in accordance with applicable State and local law shall be eligible for such payments, during the period of the placement, onthe same terms and subject to the same conditions as if such individuals had adopted such child.
+(5) For purposes of this part, individuals with whom a child (who has been determined by the State, pursuant to subsection (c) of this section, to be a child with special needs) is placed for adoption in accordance with applicable State and local law shall be eligible for such payments, during the period of the placement, on the same terms and subject to the same conditions as if such individuals had adopted such child.
 
 (6)(A) For purposes of paragraph (1)(B)(i), the term “nonrecurring adoption expenses” means reasonable and necessary adoption fees, court costs, attorney fees, and other expenses which are directly related to the legal adoption of a child with special needs and which are not incurred in violation of State or Federal law.
 
@@ -100,7 +100,7 @@
 
 (B) Subparagraph (A) shall not be construed as prohibiting payments under this part for an applicable child described in subparagraph (A) that is placed in foster care subsequent to the failure, as determined by the State, of the initial adoption of the child by the parents described in subparagraph (A).
 
-(8) A State shall spend an amount equal to the amount of savings (if any) in State expenditures under this part resulting from the application of paragraph (2)(A)(ii) to all applicable children for a fiscal year to provide to children or families any service (including post-adoption services) that may be provided under this part or part B.
+(8) A State shall spend an amount equal to the amount of savings (if any) in State expenditures under this part resulting from the application of paragraph (2)(A)(ii) to all applicable children for a fiscal year to provide to children or families any service (including post-adoption services) that may be provided under this part or part B, and shall document how such amounts are spent, including on post-adoption services.
 
 #### (b) Aid for dependent children; assistance for minor children in needy families
 
@@ -184,7 +184,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) The child has been—
 
-&emsp;&emsp;&emsp;&emsp;(I) removed from his or her home pursuant to a voluntary placement agreement or as a result of a judicial determination to the effect that continuation in the home would be contrary to the welfare of the child; and
+&emsp;&emsp;&emsp;&emsp;(I) removed from his or her home pursuant to a voluntary placement agreement or as a result of a judicial determination to the effect that continuationin the home would be contrary to the welfare of the child; and
 
 &emsp;&emsp;&emsp;&emsp;(II) eligible for foster care maintenance payments under section 672 of this title while residing for at least 6 consecutive months in the home of the prospective relative guardian.
 
@@ -244,25 +244,23 @@ For purposes of this section—
 
 &emsp;&emsp;(C) meets the requirements of subsection (a)(2)(A)(ii).
 
-(Aug. 14, 1935, ch. 531, title IV, §473, as added and amended Pub. L. 96–272, title I, §§101(a)(1), 102(a)(3), June 17, 1980, 94 Stat. 504, 514; Pub. L. 99–272, title XII, §12305(a), (b)(1), Apr. 7, 1986, 100 Stat. 293; Pub. L. 99–514, title XVII, §1711(a), (b), (c)(3)–(5), Oct. 22, 1986, 100 Stat. 2783, 2784; Pub. L. 99–603, title II, §201(b)(2)(B), Nov. 6, 1986, 100 Stat. 3403; Pub. L. 100–203, title IX, §§9133(b)(3), (4), 9139(b), Dec. 22, 1987, 101 Stat. 1330–314, 1330–321; Pub. L. 103–432, title II, §§265(b), 266(a), Oct. 31, 1994, 108 Stat. 4469; Pub. L. 104–193, title I, §108(d)(5), (6), Aug. 22, 1996, 110 Stat. 2167; Pub. L. 105–33, title V, §5513(b)(3), (4), Aug. 5, 1997, 111 Stat. 620; Pub. L. 105–89, title III, §307(a), Nov. 19, 1997, 111 Stat. 2133; Pub. L. 109–171, title VII, §7404(b), Feb. 8, 2006, 120 Stat. 153; Pub. L. 110–351, title I, §101(b), (c)(1), (5), (f), title II, §201(c), title IV, §402, Oct. 7, 2008, 122 Stat. 3950, 3951, 3953, 3958, 3975; Pub. L. 111–148, title VI, §6703(d)(2)(B), Mar. 23, 2010, 124 Stat. 803.)
+(Aug. 14, 1935, ch. 531, title IV, §473, as added and amended Pub. L. 96–272, title I, §§101(a)(1), 102(a)(3), June 17, 1980, 94 Stat. 504, 514; Pub. L. 99–272, title XII, §12305(a), (b)(1), Apr. 7, 1986, 100 Stat. 293; Pub. L. 99–514, title XVII, §1711(a), (b), (c)(3)–(5), Oct. 22, 1986, 100 Stat. 2783, 2784; Pub. L. 99–603, title II, §201(b)(2)(B), Nov. 6, 1986, 100 Stat. 3403; Pub. L. 100–203, title IX, §§9133(b)(3), (4), 9139(b), Dec. 22, 1987, 101 Stat. 1330–314, 1330–321; Pub. L. 103–432, title II, §§265(b), 266(a), Oct. 31, 1994, 108 Stat. 4469; Pub. L. 104–193, title I, §108(d)(5), (6), Aug. 22, 1996, 110 Stat. 2167; Pub. L. 105–33, title V, §5513(b)(3), (4), Aug. 5, 1997, 111 Stat. 620; Pub. L. 105–89, title III, §307(a), Nov. 19, 1997, 111 Stat. 2133; Pub. L. 109–171, title VII, §7404(b), Feb. 8, 2006, 120 Stat. 153; Pub. L. 110–351, title I, §101(b), (c)(1), (5), (f), title II, §201(c), title IV, §402, Oct. 7, 2008, 122 Stat. 3950, 3951, 3953, 3958, 3975; Pub. L. 111–148, title VI, §6703(d)(2)(B), Mar. 23, 2010, 124 Stat. 803; Pub. L. 112–34, title I, §106(c), Sept. 30, 2011, 125 Stat. 377.)
 
 #### References in Text
 
 The Adoption and Safe Families Act of 1997, referred to in subsec. (a)(2)(C)(ii), is Pub. L. 105–89, Nov. 19, 1997, 111 Stat. 2115. For complete classification of this Act to the Code, see Short Title of 1997 Amendment note set out under section 1305 of this title and Tables.
 
-Part B, referred to in subsec. (a)(8), is classified to section 620 et seq. of this title.
-
-Part A of this subchapter, referred to in subsec. (b)(1), (2), is classified to section 601 et seq. of this title.
-
 Division A of subchapter XX, referred to in subsec. (b)(2), was in the original a reference to subtitle 1 of title XX, which was translated as if referring to subtitle A of title XX of the Social Security Act, to reflect the probable intent of Congress. Title XX of the Act, enacting subchapter XX of this chapter, does not contain a subtitle 1.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (a)(8). Pub. L. 112–34 inserted “, and shall document how such amounts are spent, including on post-adoption services” before the period.
 
 <b>2010</b>—Subsec. (b)(2). Pub. L. 111–148 inserted “division A of” before “subchapter XX”.
 
 <b>2008</b>—Pub. L. 110–351, §101(c)(5), inserted “and guardianship” after “Adoption” in section catchline.
 
-Subsec. (a)(2)(A). Pub. L. 110–351, §402(1)(A)(i), substituted “if—” for “if the child—” in introductory provisions, inserted cl. (i) designation and introductory provisions, redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, of cl. (i) and substituted “subsection (c)(1)” for “subsection (c)” in subcl. (II), redesignated former subcls. (I) to (III) of cl. (i) as items (aa) to (cc), respectively, of cl. (i)(I), redesignated former items (aa) and (bb) of cl. (i)(I) as subitems (AA) and (BB), respectively, of cl. (i)(I)(aa) and substituted “subitem (AA) of this item” for “item (aa) of this subclause” in subitem (BB), realigned margins, and added cl. (ii).
+Subsec. (a)(2)(A). Pub. L. 110–351, §402(1)(A)(i), substituted “if—” for “if the child—” in introductory provisions, inserted cl. (i) designation and introductory provisions, redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, of cl. (i) and substituted “subsection (c)(1)” for “subsection (c)” in subcl. (II), redesignated former subcls. (I) to (III) of cl. (i) as items (aa) to (cc), respectively, of cl. (i)(I), redesignated former items (aa) and (bb) of cl. (i)(I) assubitems (AA) and (BB), respectively, of cl. (i)(I)(aa) and substituted “subitem (AA) of this item” for “item (aa) of this subclause” in subitem (BB), realigned margins, and added cl. (ii).
 
 Subsec. (a)(2)(C). Pub. L. 110–351, §402(1)(A)(ii), substituted “if—” for “if the child—” in introductory provisions, inserted cl. (i) designation and introductory provisions, redesignated former cls. (i) to (iv) as subcls. (I) to (IV), respectively, of cl. (i) and substituted “subparagraph (A)(i)(II)” for “subparagraph (A)(ii)” in subcl. (I) and “subparagraph (A)(i)” for “subparagraph (A)” in subcl. (IV), redesignated former subcls. (I) and (II) of cl. (iii) as items (aa) and (bb), respectively, of cl. (i)(III), redesignated former subcls. (I) and (II) of cl. (iv) as items (aa) and (bb), respectively, of cl. (i)(IV), realigned margins, and added cl. (ii).
 
@@ -282,7 +280,7 @@ Subsec. (e). Pub. L. 110–351, §402(3), added subsec. (e).
 
 <b>2006</b>—Subsec. (a)(2). Pub. L. 109–171 amended par. (2) generally. Prior to amendment, par. (2) contained provisions relating to criteria used for determining whether a child met the requirements of par. (2) for purposes of par. (1)(B)(ii).
 
-<b>1997</b>—Subsec. (a)(2). Pub. L. 105–89 inserted at end “Any child who meets the requirements of subparagraph (C), who was determined eligible for adoption assistance payments under this part with respect to a prior adoption, who is available for adoption because the prior adoption has been dissolved and the parental rights of the adoptive parents have been terminated orbecause the child's adoptive parents have died, and who fails to meet the requirements of subparagraphs (A) and (B) but would meet such requirements if the child were treated as if the child were in the same financial and other circumstances the child was in the last time the child was determined eligible for adoption assistance payments under this part and the prior adoption were treated as never having occurred, shall be treated as meeting the requirements of this paragraph for purposes of paragraph (1)(B)(ii).”
+<b>1997</b>—Subsec. (a)(2). Pub. L. 105–89 inserted at end “Any child who meets the requirements of subparagraph (C), who was determined eligible for adoption assistance payments under this part with respect to a prior adoption, who is available for adoption because the prior adoption has been dissolved and the parental rights of the adoptive parents have been terminated or because the child's adoptive parents have died, and who fails to meet the requirements of subparagraphs (A) and (B) but would meet such requirements if the child were treated as if the child were in the same financial and other circumstances the child was in the last time the child was determined eligible for adoption assistance payments under this part and the prior adoption were treated as never having occurred, shall be treated as meeting the requirements of this paragraph for purposes of paragraph (1)(B)(ii).”
 
 Pub. L. 105–33, §5513(b)(3), substituted “July 16, 1996” for “June 1, 1995” wherever appearing.
 
@@ -336,6 +334,10 @@ Subsec. (c)(2). Pub. L. 99–272, §12305(b)(1), substituted “without providin
 
 <b>1980</b>—Subsec. (a)(1). Pub. L. 96–272, §102(a)(3), inserted references to voluntary placement agreements in subpars. (A)(i) and (B)(i), (ii).
 
+#### Effective Date of 2011 Amendment
+
+Amendment by Pub. L. 112–34 effective Oct. 1, 2011, and applicable to payments under this part and part B of this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 107 of Pub. L. 112–34, set out as a note under section 622 of this title.
+
 #### Effective Date of 2008 Amendment
 
 Amendment by section 201(c) of Pub. L. 110–351 effective Oct. 1, 2010, see section 201(d) of Pub. L. 110–351, set out as a note under section 672 of this title.
@@ -354,7 +356,7 @@ Amendment by Pub. L. 105–33 effective as if included in section 108 of the Per
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, andproceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, set out as an Effective Date note under section 601 of this title.
+Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, set out as an Effective Date note under section 601 of this title.
 
 #### Effective Date of 1994 Amendment
 

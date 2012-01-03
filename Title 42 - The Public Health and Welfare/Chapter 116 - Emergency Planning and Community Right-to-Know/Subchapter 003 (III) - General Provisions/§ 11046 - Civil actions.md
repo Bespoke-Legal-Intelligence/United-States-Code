@@ -46,7 +46,7 @@
 
 &emsp;&emsp;(iv) Complete and submit an inventory form under section 11022(a) of this title containing tier I information unless such requirement does not apply by reason of the second sentence of section 11022(a)(2) of this title.
 
-&emsp;(B) Any State emergency response commission or local emergency planning committee may commence a civil action against an owner or operator of a facility for failure to provideinformation under section 11003(d) of this title or for failure to submit tier II information under section 11022(e)(1) of this title.
+&emsp;(B) Any State emergency response commission or local emergency planning committee may commence a civil action against an owner or operator of a facility for failure to provide information under section 11003(d) of this title or for failure to submit tier II information under section 11022(e)(1) of this title.
 
 &emsp;(C) Any State may commence a civil action against the Administrator for failure to provide information to the State under section 11042(g) of this title.
 
@@ -86,7 +86,7 @@ Nothing in this section shall restrict or expand any right which any person (or 
 
 #### (2) By persons
 
-&emsp;In any action under this section, any person may intervene as a matter of right when such person has a direct interest which is or may be adversely affected by the action and the disposition of the action may, as a practical matter, impair or impede the person's ability to protect that interest unless the Administrator or the State shows that the person's interest is adequately represented by existing parties in the action.
+&emsp;In any action under this section, any person may intervene as a matter of right when suchperson has a direct interest which is or may be adversely affected by the action and the disposition of the action may, as a practical matter, impair or impede the person's ability to protect that interest unless the Administrator or the State shows that the person's interest is adequately represented by existing parties in the action.
 
 (Pub. L. 99–499, title III, §326, Oct. 17, 1986, 100 Stat. 1755.)
 

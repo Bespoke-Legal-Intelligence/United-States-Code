@@ -48,13 +48,15 @@ Regulations.—The Secretaries concerned shall prescribe regulations to carry ou
 
 (h)
 
-Termination of Authority.—No agreement under this section may be entered into after December 31, 2011.
+Termination of Authority.—No agreement under this section may be entered into after December 31, 2012.
 
-(Added and amended Pub. L. 109–163, div. A, title VI, §§641(a), 687(b)(35), Jan. 6, 2006, 119 Stat. 3304, 3333; Pub. L. 109–364, div. A, title VI, §§614(h), 620(a), Oct. 17, 2006, 120 Stat. 2249, 2252; Pub. L. 111–84, div. A, title VI, §615(7), Oct. 28, 2009, 123 Stat. 2354; Pub. L. 111–383, div. A, title VI, §615(7), Jan. 7, 2011, 124 Stat. 4237.)
+(Added and amended Pub. L. 109–163, div. A, title VI, §§641(a), 687(b)(35), Jan. 6, 2006, 119 Stat. 3304, 3333; Pub. L. 109–364, div. A, title VI, §§614(h), 620(a), Oct. 17, 2006, 120 Stat. 2249, 2252; Pub. L. 111–84, div. A, title VI, §615(7), Oct. 28, 2009, 123 Stat. 2354; Pub. L. 111–383, div. A, title VI, §615(7), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §615(7), Dec. 31, 2011, 125 Stat. 1451.)
 
 #### Amendments
 
-<b>2011</b>—Subsec. (h). Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
+<b>2011</b>—Subsec. (h). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
+
+Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
 
 <b>2009</b>—Subsec. (h). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
 

@@ -44,19 +44,19 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1998—Subsecs. (b), (c). Pub. L. 105–206 redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “The position held by the employee appointed under section 7802(b) of the Internal Revenue Code of 1986 shall be considered a position classified above GS–15 pursuant to section 5108.”
+<b>1998</b>—Subsecs. (b), (c). Pub. L. 105–206 redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “The position held by the employee appointed under section 7802(b) of the Internal Revenue Code of 1986 shall be considered a position classified above GS–15 pursuant to section 5108.”
 
-1994—Subsec. (c). Pub. L. 103–272 added subsec. (c).
+<b>1994</b>—Subsec. (c). Pub. L. 103–272 added subsec. (c).
 
-1990—Subsec. (b). Pub. L. 101–509 substituted “shall be considered a position classified above GS–15 pursuant to section 5108” for “is classified at GS–18, and is in addition to the number of positions authorized by section 5108(a) of this title”.
+<b>1990</b>—Subsec. (b). Pub. L. 101–509 substituted “shall be considered a position classified above GS–15 pursuant to section 5108” for “is classified at GS–18, and is in addition to the number of positions authorized by section 5108(a) of this title”.
 
-1986—Subsec. (b). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Subsec. (b). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-1978—Subsecs. (b), (c). Pub. L. 95–454, §906(b), redesignated subsec. (c) as (b). Former subsec. (b), which related to classification of position held by an employee appointed under section 1104(a)(2) of this title, was struck out.
+<b>1978</b>—Subsecs. (b), (c). Pub. L. 95–454, §906(b), redesignated subsec. (c) as (b). Former subsec. (b), which related to classification of position held by an employee appointed under section 1104(a)(2) of this title, was struck out.
 
-1974—Subsec. (c). Pub. L. 93–406 added subsec. (c). A prior subsec. (c) was repealed by Pub. L. 91–34.
+<b>1974</b>—Subsec. (c). Pub. L. 93–406 added subsec. (c). A prior subsec. (c) was repealed by Pub. L. 91–34.
 
-1969—Subsec. (c). Pub. L. 91–34 repealed subsec. (c) provisions classifying positions on National Zoological Park police force authorized pursuant to section 193n of title 40.
+<b>1969</b>—Subsec. (c). Pub. L. 91–34 repealed subsec. (c) provisions classifying positions on National Zoological Park police force authorized pursuant to section 193n of title 40.
 
 #### Effective Date of 1990 Amendment
 

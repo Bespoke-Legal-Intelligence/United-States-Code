@@ -1,16 +1,14 @@
 ### §1665a. Use of annual percentage rate in oral disclosures; exceptions
 
-In responding orally to any inquiry about the cost of credit, a creditor, regardless of the method used to compute finance charges, shall state rates only in terms of the annual percentage rate, except that in the case of an open end credit plan, the periodic rate also may be stated and, in the case of an other than open end credit plan where a major component of the finance charge consists of interest computed at a simple annual rate, the simple annual rate also may be stated. The Board may, by regulation, modify the requirements of this section or provide an exception from this section for a transaction or class of transactions for which the creditor cannot determine in advance the applicable annual percentage rate.
+In responding orally to any inquiry about the cost of credit, a creditor, regardless of the method used to compute finance charges, shall state rates only in terms of the annual percentage rate, except that in the case of an open end credit plan, the periodic rate also may be stated and, in the case of an other than open end credit plan where a major component of the finance charge consists of interest computed at a simple annual rate, the simple annual rate also may be stated. The Bureau may, by regulation, modify the requirements of this section or provide an exception from this section for a transaction or class of transactions for which the creditor cannot determine in advance the applicable annual percentage rate.
 
 (Pub. L. 90–321, title I, §146, as added Pub. L. 93–495, title IV, §401(a), Oct. 28, 1974, 88 Stat. 1517; amended Pub. L. 96–221, title VI, §623(a), Mar. 31, 1980, 94 Stat. 185; Pub. L. 111–203, title X, §1100A(2), July 21, 2010, 124 Stat. 2107.)
 
-#### Amendment of Section
-
-<i>Pub. L. 111–203, title X, §§1100A(2), 1100H, July 21, 2010, 124 Stat. 2107, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Board” each place that term appears and inserting “Bureau”. See Effective Date of 2010 Amendment note below.</i>
-
 #### Amendments
 
-<b>1980</b>—Pub. L. 96–221 substituted provisions relating to use of annual percentage rate in oral disclosures bycreditors, for provisions setting forth requirements for advertisements concerning consumer credit repayable in more than four installments.
+<b>2010</b>—Pub. L. 111–203 substituted “Bureau” for “Board”.
+
+<b>1980</b>—Pub. L. 96–221 substituted provisions relating to use of annual percentage rate in oral disclosures by creditors, for provisions setting forth requirements for advertisements concerning consumer credit repayable in more than four installments.
 
 #### Effective Date of 2010 Amendment
 

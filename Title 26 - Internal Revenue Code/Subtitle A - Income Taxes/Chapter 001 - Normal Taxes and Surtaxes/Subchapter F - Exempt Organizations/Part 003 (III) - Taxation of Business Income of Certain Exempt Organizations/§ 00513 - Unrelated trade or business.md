@@ -22,7 +22,7 @@ The term “unrelated trade or business” means, in the case of—
 
 #### (c) Advertising, etc., activities
 
-For purposes of this section, the term “trade or business” includes any activity which is carried on for the production of income from the sale of goods or the performance of services. For purposes of the preceding sentence, an activity does not lose identity as a trade or business merely because it is carried on within a larger aggregate of similar activities or within a larger complex of other endeavors which may, or may not, be related to the exempt purposes of the organization. Where an activity carried on for profit constitutes an unrelated trade or business, no part of such trade or business shall be excluded from such classification merely because it does not result in profit.
+For purposes of this section, the term “trade or business” includes any activity which is carried on for the production of income from the sale of goods or the performance of services. For purposes of the preceding sentence, an activity does not lose identity as a trade or businessmerely because it is carried on within a larger aggregate of similar activities or within a larger complex of other endeavors which may, or may not, be related to the exempt purposes of the organization. Where an activity carried on for profit constitutes an unrelated trade or business, no part of such trade or business shall be excluded from such classification merely because it does not result in profit.
 
 #### (d) Certain activities of trade shows, State fairs, etc.
 
@@ -260,7 +260,7 @@ Section 301(b) of Pub. L. 95–502 provided that: “The amendment made by subse
 
 #### Effective Date of 1976 Amendment
 
-Section 1305(b) of Pub. L. 94–455 provided that: “The amendments made by subsection (a) \[amending this section\] apply to qualified public entertainment activities in taxable years beginning after December 31, 1962, and to qualified convention and trade show activities in taxable years beginning after the date of enactment of this Act \[Oct. 4, 1976\].”
+Section 1305(b) of Pub. L. 94–455 provided that: “The amendments made by subsection (a) \[amending thissection\] apply to qualified public entertainment activities in taxable years beginning after December 31, 1962, and to qualified convention and trade show activities in taxable years beginning after the date of enactment of this Act \[Oct. 4, 1976\].”
 
 Section 1311(b) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by this section \[amending this section\] shall apply to all taxable years to which the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[this title\] applies.”
 

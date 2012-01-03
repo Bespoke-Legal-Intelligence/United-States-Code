@@ -24,7 +24,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1978—Pub. L. 95–251 substituted references to administrative law judges for references to hearing examiners in section catchline and wherever appearing in text.
+<b>1978</b>—Pub. L. 95–251 substituted references to administrative law judges for references to hearing examiners in section catchline and wherever appearing in text.
 
 #### References to Hearing Examiner Deemed References to Administrative Law Judge
 

@@ -16,7 +16,7 @@
 
 #### (3) Special rule for health and long-term care insurance
 
-&emsp;In the case of a plan of an eligible employer described in subsection (e)(1)(A), to the extentprovided in section 402(<i>l</i>), paragraph (1) shall not apply to amounts otherwise includible in gross income under this subsection.
+&emsp;In the case of a plan of an eligible employer described in subsection (e)(1)(A), to the extent provided in section 402(<i>l</i>), paragraph (1) shall not apply to amounts otherwise includible in gross income under this subsection.
 
 #### (b) Eligible deferred compensation plan defined
 
@@ -58,7 +58,7 @@ For purposes of this section, the term “eligible deferred compensation plan”
 
 #### (c) Limitation
 
-The maximum amount of the compensation of any one individual which may be deferred under subsection (a) during any taxable year shall not exceed the amount in effect under subsection (b)(2)(A) (as modified by any adjustment provided under subsection (b)(3)).
+The maximum amount of the compensation of any one individual which may be deferred undersubsection (a) during any taxable year shall not exceed the amount in effect under subsection (b)(2)(A) (as modified by any adjustment provided under subsection (b)(3)).
 
 #### (d) Distribution requirements
 
@@ -68,7 +68,7 @@ The maximum amount of the compensation of any one individual which may be deferr
 
 &emsp;&emsp;(A) under the plan amounts will not be made available to participants or beneficiaries earlier than—
 
-&emsp;&emsp;&emsp;(i) the calendar year in which the participant attains age 701/2,
+&emsp;&emsp;&emsp;(i) the calendar year in which the participant attains age 70½,
 
 &emsp;&emsp;&emsp;(ii) when the participant has a severance from employment with the employer, or
 
@@ -156,7 +156,7 @@ For purposes of this section—
 
 #### (10) Transfers between plans
 
-&emsp;A participant shall not be required to include in gross income any portion of the entire amount payable to such participant solely by reason of the transfer of such portion from 1 eligible deferred compensation plan to another eligible deferred compensation plan.
+&emsp;A participant shall not be required to include in gross income any portion of the entireamount payable to such participant solely by reason of the transfer of such portion from 1 eligible deferred compensation plan to another eligible deferred compensation plan.
 
 #### (11) Certain plans excluded
 
@@ -196,7 +196,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) such payments or supplements are made in coordination with a defined benefit plan which is described in section 401(a) and includes a trust exempt from tax under section 501(a) and which is maintained by an eligible employer described in paragraph (1)(A) or by an education association described in clause (ii)(II),
 
-&emsp;&emsp;&nbsp;such applicable plan shall be treated for purposes of subparagraph (A)(i) as a bona fide severance pay plan with respect tosuch payments or supplements to the extent such payments or supplements could otherwise have been provided under such defined benefit plan (determined as if section 411 applied to such defined benefit plan).
+&emsp;&emsp;&nbsp;such applicable plan shall be treated for purposes of subparagraph (A)(i) as a bona fide severance pay plan with respect to such payments or supplements to the extent such payments or supplements could otherwise have been provided under such defined benefit plan (determined as if section 411 applied to such defined benefit plan).
 
 #### (ii) Applicable voluntary early retirement incentive plan
 
@@ -360,7 +360,7 @@ $15,000.
 
 #### (i) Limitation
 
-&emsp;&emsp;&emsp;Paragraph (2)(F) shall only apply to the portion of the plan described in subparagraph (A) for years preceding the year in which such portion is paid or otherwise made available to the participant.
+&emsp;&emsp;&emsp;Paragraph (2)(F) shall only apply to the portion of the plan described in subparagraph (A) for years preceding the year inwhich such portion is paid or otherwise made available to the participant.
 
 #### (ii) Treatment
 
@@ -530,7 +530,7 @@ Subsec. (e)(12). Pub. L. 100–647, §6064(b)(1), added par. (12).
 
 Subsec. (e)(13). Pub. L. 100–647, §6064(c), added par. (13).
 
-<b>1986</b>—Pub. L. 99–514 amended section generally, substituting “Deferred compensation plans of State and local governments and tax-exempt organizations” for “Deferred compensation plans with respect to service for State and local governments” as section catchline and revising and restating as subsecs. (a) to (c), (e), and (f) provisions formerly contained in subsecs. (a) to (e) and adding provisions comprising subsec. (d).
+<b>1986</b>—Pub. L. 99–514 amended section generally, substituting “Deferred compensation plans of State and local governments and tax-exempt organizations” for “Deferred compensation plans with respect to servicefor State and local governments” as section catchline and revising and restating as subsecs. (a) to (c), (e), and (f) provisions formerly contained in subsecs. (a) to (e) and adding provisions comprising subsec. (d).
 
 <b>1984</b>—Subsec. (e)(2). Pub. L. 98–369, §491(d)(33), struck out subpar. (C) which provided that par. (1) of this subsection not apply to a qualified bond purchase plan described in section 405(a), and redesignated subpars. (D) and (E) as (C) and (D), respectively.
 
@@ -576,7 +576,7 @@ Pub. L. 107–16, title VI, §615(b), June 7, 2001, 115 Stat. 102, provided that
 
 Pub. L. 107–16, title VI, §632(c)(2), June 7, 2001, 115 Stat. 115, provided that: “The amendment made by this subsection \[amending this section\] shall apply to years beginning after December 31, 2001.”
 
-Amendment by section 641(a)(1)(A)–(C) of Pub. L. 107–16 applicable to distributions after Dec. 31, 2001, seesection 641(f)(1) of Pub. L. 107–16, set out as a note under section 402 of this title.
+Amendment by section 641(a)(1)(A)–(C) of Pub. L. 107–16 applicable to distributions after Dec. 31, 2001, see section 641(f)(1) of Pub. L. 107–16, set out as a note under section 402 of this title.
 
 Amendment by section 646(a)(3) of Pub. L. 107–16 applicable to distributions after Dec. 31, 2001, see section 646(b) of Pub. L. 107–16, set out as a note under section 401 of this title.
 
@@ -778,7 +778,7 @@ Meaning of terms.—Except as otherwise provided in this paragraph, terms used i
 
 #### Deferred Compensation Plans for State Judges
 
-Section 131(c)(3) of Pub. L. 95–600, as added by Pub. L. 97–248, title II, §252, Sept. 3, 1982, 96 Stat. 532, andamended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Section 131(c)(3) of Pub. L. 95–600, as added by Pub. L. 97–248, title II, §252, Sept. 3, 1982, 96 Stat. 532, and amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(A)
 

@@ -2,7 +2,7 @@
 
 #### (a) Grant program authorized
 
-From amounts made available to carry out this section, the Attorney General, through the National Institute of Justice, and in consultation with the National Institute on Drug Abuse, may make grants to public and private research entities (including consortia, single private research entities, and individual institutions of higher education) to evaluate the effectiveness of depot naltrexone for the treatment of heroin addiction.
+From amounts made available to carry out this section, the Attorney General, through theNational Institute of Justice, and in consultation with the National Institute on Drug Abuse, may make grants to public and private research entities (including consortia, single private research entities, and individual institutions of higher education) to evaluate the effectiveness of depot naltrexone for the treatment of heroin addiction.
 
 #### (b) Evaluation program
 

@@ -38,7 +38,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Pub. L. 110–246, §11003, in introductory provisions, substituted “In this chapter:” for “When used inthis chapter—”, redesignated subsecs. (e), (c), (a), and (b) as pars. (1) to (4), respectively, inserted par. headings, in pars. (2) and (3), inserted duplicate par. designations, designated existing provisions as subpar. (A), and added subpar. (B), in par. (3), redesignated cls. (1) to (4) as (i) to (iv), respectively, in cl. (iv), substituted “clause (i), (ii), or (iii)” for “clause (1), (2), or (3) of this paragraph”, and struck out subsec. (d) which read as follows: “The term ‘person’ includes individuals, partnerships, corporations, and associations.”
+<b>2008</b>—Pub. L. 110–246, §11003, in introductory provisions, substituted “In this chapter:” for “When used inthis chapter—”, redesignated subsecs. (e), (c), (a), and (b) as pars. (1) to (4), respectively, inserted par. headings, in pars. (2) and (3), inserted duplicate par. designations, designated existing provisions as subpar. (A), and added subpar. (B), in par. (3), redesignated cls. (1) to (4) as (i) to (iv), respectively, in cl. (iv), substituted “clause (i), (ii), or (iii)” for “clause (1), (2), or (3) of this paragraph”, and struck out subsec. (d) which read as follows: “The term ‘person’ includes individuals, partnerships, corporations, and associations.”
 
 #### Effective Date of 2008 Amendment
 

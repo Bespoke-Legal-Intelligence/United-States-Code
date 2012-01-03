@@ -20,7 +20,7 @@ The Administration is authorized to prescribe regulations governing the operatio
 
 #### (d) Forfeiture of rights, privileges, and franchises; jurisdiction
 
-Should any small business investment company violate or fail to comply with any of the provisions of this chapter or of regulations prescribed hereunder, all of its rights, privileges, and franchises derived therefrom may thereby be forfeited. Before any such company shall be declared dissolved, or its rights, privileges, and franchises forfeited, any noncompliance with or violation of this chapter shall be determined and adjudged by a court of the United States of competent jurisdiction in a suit brought for that purpose in the district, territory, or other place subject to the jurisdiction of the United States, in which the principal office of such company is located. Any such suit shall be brought by the United States at the instance of the Administration or the Attorney General.
+Should any small business investment company violate or fail to comply with any of theprovisions of this chapter or of regulations prescribed hereunder, all of its rights, privileges, and franchises derived therefrom may thereby be forfeited. Before any such company shall be declared dissolved, or its rights, privileges, and franchises forfeited, any noncompliance with or violation of this chapter shall be determined and adjudged by a court of the United States of competent jurisdiction in a suit brought for that purpose in the district, territory, or other place subject to the jurisdiction of the United States, in which the principal office of such company is located. Any such suit shall be brought by the United States at the instance of the Administration or the Attorney General.
 
 #### (e) Liability of United States
 
@@ -84,7 +84,7 @@ In the performance of, and with respect to the functions, powers, and duties ves
 
 (1) The purpose of this subsection is to facilitate the orderly and necessary flow of long-term loans and equity funds from small business investment companies to small business concerns.
 
-(2) In the case of a business loan, the small business investment company making such loan may charge interest on such loan at a rate which does not exceed the maximum rate prescribed by regulation by the Administration for loans made by any licensee (determined without regard to any State rate incorporated by such regulation). In this paragraph, the term “interest” includes only the maximum mandatory sum, expressed in dollars or as a percentage rate, that is payable with respect to the business loan amount received by the small business concern, and does not include the value, if any, of contingent obligations, including warrants, royalty, or conversion rights, granting the small business investment company an ownership interest in the equity or increased future revenueof the small business concern receiving the business loan.
+(2) In the case of a business loan, the small business investment company making such loan may charge interest on such loan at a rate which does not exceed the maximum rate prescribed by regulation by the Administration for loans made by any licensee (determined without regard to any State rate incorporated by such regulation). In this paragraph, the term “interest” includes only the maximum mandatory sum, expressed in dollars or as a percentage rate, that is payable with respect to the business loan amount received by the small business concern, and does not include the value, if any, of contingent obligations, including warrants, royalty, or conversion rights, granting the small business investment company an ownership interest in the equity or increased future revenue of the small business concern receiving the business loan.
 
 (3) A State law or constitutional provision shall be preempted for purposes of paragraph (2) with respect to any loan if such loan is made before the date, on or after April 1, 1980, on which such State adopts a law or certifies that the voters of such State have voted in favor of any provision, constitutional or otherwise, which states explicitly and by its terms that such State does not want the provisions of this subsection to apply with respect to loans made in such State, except that such State law or constitutional or other provision shall be preempted in the case of a loan made, on or after the date on which such law is adopted or such certification is made, pursuant to a commitment to make such loan which was entered into on or after April 1, 1980, and prior to the date on which such law is adopted or such certification is made.
 
@@ -164,21 +164,21 @@ Subsec. (g). Pub. L. 87–341, §11(d), redesignated subsec. (g) as (e).
 
 #### Effective Date of 1985 Amendment
 
-Section 2 of Pub. L. 99–226 provided that: “This Act \[amending this section\] shall apply to maximum interest rates prescribed by the Administration on or after April 1, 1980.”
+Pub. L. 99–226, §2, Dec. 28, 1985, 99 Stat. 1744, provided that: “This Act \[amending this section\] shall apply to maximum interest rates prescribed by the Administration on or after April 1, 1980.”
 
 #### Effective Date of 1980 Amendment
 
-Section 529 of Pub. L. 96–221 provided that the amendment made by that section is effective at the close of Mar. 31, 1980.
+Pub. L. 96–221, title V, §529, Mar. 31, 1980, 94 Stat. 168, provided that the amendment made by that section is effective at the close of Mar. 31, 1980.
 
 #### Effective Date of 1979 Amendments
 
-Section 207 of Pub. L. 96–161, which provided that amendment by Pub. L. 96–161 was applicable to loans made in any State during the period beginning on Dec. 28, 1979, and ending on the earliest of (1) in the case of a State statute, July 1, 1980; (2) the date, after Dec. 28, 1979, on which such State adopts a law stating in substance that such State does not want the amendment of this section made by Pub. L. 96–161 to apply with respect to loans made in such State; or (3) the date on which such State certifies that the voters of such State, after Dec. 28, 1979, have voted in favor of, or to retain, any law, provision of the constitution of such State, or amendment to the constitution of such State which prohibits the charging of interest at the rates provided in the amendment of this section by Pub. L. 96–161, was repealed by Pub. L. 96–221, title V, §529, Mar. 31, 1980, 94 Stat. 168.
+Pub. L. 96–161, title II, §207, Dec. 28, 1979, 93 Stat. 1238, which provided that amendment by Pub. L. 96–161 was applicable to loans made in any State during the period beginning on Dec. 28, 1979, and ending on the earliest of\(1) in the case of a State statute, July 1, 1980; (2) the date, after Dec. 28, 1979, on which such State adopts a law stating in substance that such State does not want the amendment of this section made by Pub. L. 96–161 to apply with respect to loans made in such State; or (3) the date on which such State certifies that the voters of such State, after Dec. 28, 1979, have voted in favor of, or to retain, any law, provision of the constitution of such State, or amendment to the constitution of such State which prohibits the charging of interest at the rates provided in the amendment of this section by Pub. L. 96–161, was repealed by Pub. L. 96–221, title V, §529, Mar. 31, 1980, 94 Stat. 168.
 
-Section 107 of Pub. L. 96–104, which provided that amendment by Pub. L. 96–104 was applicable to loans made by any State during the period beginning on Nov. 5, 1979, and ending on the earlier of July 1, 1981, or the date after Nov. 5, 1979, on which such State adopts a law stating in substance that such State does not want the amendment of this section to apply with respect to loans made in such State, or the date on which such State certifies that the voters of such State have voted in favor of, or to retain, any law, provision of the constitution of such State, or amendment of the constitution of such State, which prohibits the charging of interest at the rates provided in the amendment of this section, was repealed by Pub. L. 96–161, title II, §212, Dec. 28, 1979, 93 Stat. 1239.
+Pub. L. 96–104, title I, §107, Nov. 5, 1979, 93 Stat. 792, which provided that amendment by Pub. L. 96–104 was applicable to loans made by any State during the period beginning on Nov. 5, 1979, and ending on the earlier of July 1, 1981, or the date after Nov. 5, 1979, on which such State adopts a law stating in substance that such State does not want the amendment of this section to apply with respect to loans made in such State, or the date on which such State certifies that the voters of such State have voted in favor of, or to retain, any law, provision of the constitution of such State, or amendment of the constitution of such State, which prohibits the charging of interest at the rates provided in the amendment of this section, was repealed by Pub. L. 96–161, title II, §212, Dec. 28, 1979, 93 Stat. 1239.
 
 #### Effective Date of 1974 Amendment
 
-Section 206 of Pub. L. 93–501, which provided that amendment by Pub. L. 93–501 was applicable to loans made in any state after Oct. 29, 1974, but prior to the earlier of July 1, 1977 or the date of enactment by the state of a law prohibiting the charging of interest at the rates provided in the amendment of this section, was repealed by Pub. L. 96–104, §1, Nov. 5, 1979, 93 Stat. 789.
+Pub. L. 93–501, title II, §206, Oct. 29, 1974, 88 Stat. 1560, which provided that amendment by Pub. L. 93–501 was applicable to loans made in any state after Oct. 29, 1974, but prior to the earlier of July 1, 1977 or the date of enactment by the state of a law prohibiting the charging of interest at the rates provided in the amendment of this section, was repealed by Pub. L. 96–104, §1, Nov. 5, 1979, 93 Stat. 789.
 
 #### Effective Date of 1967 Amendment
 
@@ -186,7 +186,7 @@ Amendment by Pub. L. 90–104 effective 90 days after Oct. 11, 1967, see section
 
 #### Savings Provision
 
-Section 529 of Pub. L. 96–221 provided in part that, notwithstanding the repeal of Pub. L. 96–104 and title II of Pub. L. 96–161, the provisions of subsec. (h) of this section \[which had been added to this section by those repealed laws\] shall continue to apply to any loan made, any deposit made, or any obligation issued to any State during any period when those provisions were in effect in such State.
+Pub. L. 96–221, title V, §529, Mar. 31, 1980, 94 Stat. 168, provided in part that, notwithstanding the repeal of Pub. L. 96–104 and title II of Pub. L. 96–161, the provisions of subsec. (h) of this section \[which had been added to this section by those repealed laws\] shall continue to apply to any loan made, any deposit made, or any obligation issued to any State during any period when those provisions were in effect in such State.
 
 #### Effect of Small Business Equity Enhancement Act of 1992 on Securities Laws
 
@@ -202,7 +202,7 @@ In any case in which one or more provisions of, or amendments made by, title V o
 
 #### States Having Constitutional Provisions Regarding Maximum Interest Rates
 
-Section 213 of Pub. L. 96–161 provided that the provisions of title II of Pub. L. 96–161, which amended this section and repealed provisions which had formerly amended this section, to continue to apply until July 1, 1981, in the case of any State having a constitutional provision regarding maximum interest rates.
+Pub. L. 96–161, title II, §213, Dec. 28, 1979, 93 Stat. 1240, provided that the provisions of title II of Pub. L. 96–161, which amended this section and repealed provisions which had formerly amended this section, to continue to apply until July 1, 1981, in the case of any State having a constitutional provision regarding maximum interest rates.
 
 #### Definition of “State”
 

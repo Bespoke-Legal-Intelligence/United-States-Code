@@ -2,7 +2,7 @@
 
 #### (a) Authorization of appropriations
 
-For the procurement of security countermeasures under section 247d–6b(c) of title 42 (referred to in this section as the “security countermeasures program”), there is authorized to be appropriated up to $5,593,000,000 for the fiscal years 2004 through 2013. Of the amounts appropriated under the preceding sentence, not to exceed $3,418,000,000 may be obligated during the fiscal years 2004 through 2008, of which not to exceed $890,000,000 may be obligated during fiscal year 2004. None of the funds made available under this subsection shall be used to procure countermeasures to diagnose, mitigate, prevent, or treat harm resulting from any naturally occurring infectious disease or other public health threat that are not security countermeasures under section 247d–6b(c)(1)(B) of title 42.<sup>1</sup>
+For the procurement of security countermeasures under section 247d–6b(c) of title 42 (referred to in this section as the “security countermeasures program”), there is authorized tobe appropriated up to $5,593,000,000 for the fiscal years 2004 through 2013. Of the amounts appropriated under the preceding sentence, not to exceed $3,418,000,000 may be obligated during the fiscal years 2004 through 2008, of which not to exceed $890,000,000 may be obligated during fiscal year 2004. None of the funds made available under this subsection shall be used to procure countermeasures to diagnose, mitigate, prevent, or treat harm resulting from any naturally occurring infectious disease or other public health threat that are not security countermeasures under section 247d–6b(c)(1)(B) of title 42.<sup>1</sup>
 
 #### (b) Special reserve fund
 
@@ -38,11 +38,11 @@ Section was formerly classified to section 320 of this title prior to renumberin
 
 #### Amendments
 
-2007—Subsec. (d)(1). Pub. L. 110–53, §531(b)(1)(D)(i), substituted “Office of Intelligence and Analysis” for “Directorate for Information Analysis and Infrastructure Protection”.
+<b>2007</b>—Subsec. (d)(1). Pub. L. 110–53, §531(b)(1)(D)(i), substituted “Office of Intelligence and Analysis” for “Directorate for Information Analysis and Infrastructure Protection”.
 
 Subsec. (d)(2). Pub. L. 110–53, §531(b)(1)(D)(ii), substituted “Under Secretary for Intelligence and Analysis” for “Under Secretary for Information Analysis and Infrastructure Protection”.
 
-2006—Subsec. (a). Pub. L. 109–417, which directed amendment of section 510(a) of the Homeland Security Act of 2002, Pub. L. 107–296, by inserting a new last sentence, was executed to subsec. (a) of this section to reflect the probable intent of Congress and the redesignation of section 510(a) as 521(a) by Pub. L. 109–295, §611(7).
+<b>2006</b>—Subsec. (a). Pub. L. 109–417, which directed amendment of section 510(a) of the Homeland Security Act of 2002, Pub. L. 107–296, by inserting a new last sentence, was executed to subsec. (a) of this section to reflect the probable intent of Congress and the redesignation of section 510(a) as 521(a) by Pub. L. 109–295, §611(7).
 
 #### Change of Name
 

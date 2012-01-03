@@ -52,7 +52,7 @@ Not later than 45 days after the awarding of supplemental funds under this secti
 
 #### (e) Core medical services
 
-The provisions of section 300ff–22(b) of this title apply with respect to a grant under thissection to the same extent and in the same manner as such provisions apply with respect to a grant made pursuant to section 300ff–28(a)(1) of this title.
+The provisions of section 300ff–22(b) of this title apply with respect to a grant under this section to the same extent and in the same manner as such provisions apply with respect to a grant made pursuant to section 300ff–28(a)(1) of this title.
 
 #### (f) Applicability of grant authority
 

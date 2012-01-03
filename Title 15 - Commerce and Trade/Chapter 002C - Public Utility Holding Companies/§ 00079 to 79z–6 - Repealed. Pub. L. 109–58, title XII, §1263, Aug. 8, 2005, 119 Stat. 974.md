@@ -58,7 +58,7 @@ Section 79z–1, act Aug. 26, 1935, ch. 687, title I, §27, 49 Stat. 836, relate
 
 Section 79z–2, act Aug. 26, 1935, ch. 687, title I, §28, 49 Stat. 836, related to representation of guaranty or recommendation by United States.
 
-Section 79z–3, acts Aug. 26, 1935, ch. 687, title I, §29, 49 Stat. 836; Pub. L. 94–29, §27(c), June 4, 1975, 89 Stat. 163, related to penalties for violations of provisions, false statements, or destruction of records.
+Section 79z–3, acts Aug. 26, 1935, ch. 687, title I, §29, 49 Stat. 836; Pub. L. 94–29, §27(c), June 4, 1975, 89 Stat. 163,related to penalties for violations of provisions, false statements, or destruction of records.
 
 Section 79z–4, acts Aug. 26, 1935, ch. 687, title I, §30, 49 Stat. 837; Pub. L. 100–181, title IV, §405, Dec. 4, 1987, 101 Stat. 1260, related to studies and investigations of public utility companies.
 

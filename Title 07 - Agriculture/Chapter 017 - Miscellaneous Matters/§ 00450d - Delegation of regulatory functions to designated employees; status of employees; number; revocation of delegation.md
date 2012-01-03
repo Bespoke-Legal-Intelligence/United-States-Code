@@ -10,5 +10,5 @@ Section was formerly classified to section 516b of Title 5 prior to the general 
 
 #### Amendments
 
-1966—Pub. L. 89–554 repealed third sentence which related to grade of a position. See section 5109 of Title 5, Government Organization and Employees.
+<b>1966</b>—Pub. L. 89–554 repealed third sentence which related to grade of a position. See section 5109 of Title 5, Government Organization and Employees.
 

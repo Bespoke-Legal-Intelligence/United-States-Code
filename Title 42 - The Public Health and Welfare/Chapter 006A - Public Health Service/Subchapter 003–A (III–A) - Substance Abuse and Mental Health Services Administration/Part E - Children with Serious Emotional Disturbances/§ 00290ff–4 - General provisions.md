@@ -10,7 +10,7 @@ The period during which payments are made to a public entity from a grant under 
 
 &emsp;The Secretary shall, upon the request of a public entity receiving a grant under section 290ff(a) of this title—
 
-&emsp;&emsp;(A) provide technical assistance to the entity regarding the process of submitting to the Secretary applications for grants under section 290ff(a) of this title; and
+&emsp;&emsp;(A) provide technical assistance to the entity regarding the process of submitting tothe Secretary applications for grants under section 290ff(a) of this title; and
 
 &emsp;&emsp;(B) provide to the entity training and technical assistance with respect to the planning, development, and operation of systems of care pursuant to section 290ff–1 of this title.
 

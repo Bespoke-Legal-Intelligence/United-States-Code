@@ -128,7 +128,7 @@ Notification of waiver status.—When informing an applicant that a grant under 
 
 Pub. L. 109–415, §301(a), amended section catchline and text generally, reenacting subsec. (a) without change and substituting subsecs. (b) to (e) for former subsecs. (b) and (c), which related to purposes of grants and participation in a consortium, respectively.
 
-<b>1996</b>—Subsec. (b)(1). Pub. L. 104–146, §3(d)(1)(A), inserted before period “, and unless the applicant agrees to expend not less than 50 percent of the grant for such services that are specified in subparagraphs (B) through (E) of such paragraph for individuals with HIV disease”.
+<b>1996</b>—Subsec. (b)(1). Pub. L. 104–146, §3(d)(1)(A), inserted before period “, and unless the applicant agreesto expend not less than 50 percent of the grant for such services that are specified in subparagraphs (B) through (E) of such paragraph for individuals with HIV disease”.
 
 Subsec. (b)(3)(B). Pub. L. 104–146, §12(c)(7)(A), substituted “facilities” for “facility”.
 

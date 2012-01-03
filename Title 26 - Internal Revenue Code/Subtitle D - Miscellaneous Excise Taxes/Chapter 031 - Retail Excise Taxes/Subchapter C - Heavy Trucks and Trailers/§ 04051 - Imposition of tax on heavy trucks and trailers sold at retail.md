@@ -64,7 +64,7 @@ Under regulations prescribed by the Secretary—
 
 #### (c) Termination
 
-On and after October 1, 2011, the taxes imposed by this section shall not apply.
+On and after April 1, 2012, the taxes imposed by this section shall not apply.
 
 #### (d) Credit against tax for tire tax
 
@@ -76,13 +76,15 @@ If—
 
 > there shall be allowed as a credit against the tax imposed by this subchapter an amount equal to the tax (if any) imposed by section 4071 on such tires.
 
-(Added Pub. L. 97–424, title V, §512(b)(1), Jan. 6, 1983, 96 Stat. 2174; amended Pub. L. 98–369, div. A, title VII, §734(g), title IX, §921, July 18, 1984, 98 Stat. 980, 1009; Pub. L. 99–514, title XVIII, §§1877(c), 1899A(47), Oct. 22, 1986, 100 Stat. 2902, 2961; Pub. L. 100–17, title V, §502(a)(2), Apr. 2, 1987, 101 Stat. 256; Pub. L. 101–508, title XI, §11211(c)(1), Nov. 5, 1990, 104 Stat. 1388–426; Pub. L. 102–240, title VIII, §8002(a)(1), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 105–34, title XIV, §§1401(a), 1402(a), 1432(a), Aug. 5, 1997, 111 Stat. 1045, 1046, 1050; Pub. L. 105–178, title IX, §9002(a)(1)(D), June 9, 1998, 112 Stat. 499; Pub. L. 109–59, title XI, §§11101(a)(1)(D), 11112(a), Aug. 10, 2005, 119 Stat. 1943, 1946.)
+(Added Pub. L. 97–424, title V, §512(b)(1), Jan. 6, 1983, 96 Stat. 2174; amended Pub. L. 98–369, div. A, title VII, §734(g), title IX, §921, July 18, 1984, 98 Stat. 980, 1009; Pub. L. 99–514, title XVIII, §§1877(c), 1899A(47), Oct. 22, 1986, 100 Stat. 2902, 2961; Pub. L. 100–17, title V, §502(a)(2), Apr. 2, 1987, 101 Stat. 256; Pub. L. 101–508, title XI, §11211(c)(1), Nov. 5, 1990, 104 Stat. 1388–426; Pub. L. 102–240, title VIII, §8002(a)(1), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 105–34, title XIV, §§1401(a), 1402(a), 1432(a), Aug. 5, 1997, 111 Stat. 1045, 1046, 1050; Pub. L. 105–178, title IX, §9002(a)(1)(D), June 9, 1998, 112 Stat. 499; Pub. L. 109–59, title XI, §§11101(a)(1)(D), 11112(a), Aug. 10, 2005, 119 Stat. 1943, 1946; Pub. L. 112–30, title I, §142(a)(2)(B), Sept. 16, 2011, 125 Stat. 356.)
 
 #### Prior Provisions
 
 A prior section 4051, act Aug. 16, 1954, ch. 736, 68A Stat. 479, defined the price for which articles were sold for purposes of determining retailers excise taxes, prior to repeal by Pub. L. 94–455, title XIX, §1904(a)(1)(D), Oct. 4, 1976, 90 Stat. 1811.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (c). Pub. L. 112–30 substituted “April 1, 2012” for “October 1, 2011”.
 
 <b>2005</b>—Subsec. (a)(4), (5). Pub. L. 109–59, §11112(a), added par. (4) and redesignated former par. (4) as (5).
 
@@ -112,9 +114,13 @@ Subsec. (d)(3). Pub. L. 99–514, §1877(c), inserted at end “No tax shall be 
 
 Subsecs. (d), (e). Pub. L. 98–369, §921, added subsec. (d) and redesignated former subsec. (d) as (e).
 
+#### Effective Date of 2011 Amendment
+
+Amendment by Pub. L. 112–30 effective Oct. 1, 2011, see section 142(f) of Pub. L. 112–30, set out as a note under section 460<i>l</i>–11 of Title 16, Conservation.
+
 #### Effective Date of 2005 Amendment
 
-Pub. L. 109–59, title XI, §11112(b), Aug. 10, 2005, 119 Stat. 1946, provided that: “The amendments made by this section \[amending this section\] shall apply to sales after September 30, 2005.”
+Pub. L. 109–59, title XI, §11112(b), Aug. 10, 2005, 119 Stat. 1946, provided that: “The amendments made bythis section \[amending this section\] shall apply to sales after September 30, 2005.”
 
 #### Effective Date of 1997 Amendment
 
@@ -132,7 +138,7 @@ Section 736 of subtitle C (§§731–736) of title VII of div. A of Pub. L. 98�
 
 #### Effective Date
 
-Section 512(b)(3) of Pub. L. 97–424 provided that: “The amendments made by this subsection \[enacting thissubchapter and amending section 6416 of this title\] shall take effect on April 1, 1983.”
+Section 512(b)(3) of Pub. L. 97–424 provided that: “The amendments made by this subsection \[enacting this subchapter and amending section 6416 of this title\] shall take effect on April 1, 1983.”
 
 #### Plan Amendments Not Required Until January 1, 1989
 

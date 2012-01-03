@@ -12,7 +12,7 @@
 
 #### (b) Authority with respect to grants and contracts
 
-(1) For the purpose of conducting evaluations required in subsection (a) of this section, the Secretary may make grants to, and enter into cooperative agreements and contracts with, public and nonprofit private entities.
+(1) For the purpose of conducting evaluations required in subsection (a) of this section, theSecretary may make grants to, and enter into cooperative agreements and contracts with, public and nonprofit private entities.
 
 (2) Nonprofit private entities under paragraph (1) may include nonprofit private organizations that—
 

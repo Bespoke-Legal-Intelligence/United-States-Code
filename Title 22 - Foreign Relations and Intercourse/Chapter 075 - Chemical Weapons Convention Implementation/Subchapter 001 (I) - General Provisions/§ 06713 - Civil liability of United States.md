@@ -50,7 +50,7 @@ In any action under subsection (a) or (b) of this section, the United States may
 
 #### (2) United States actions in courts outside the United States
 
-&emsp;The Attorney General is authorized to seek any and all available redress in any international tribunal for indemnification to the United States for any liability imposed on the United States by virtue of the actions of an inspector of the Technical Secretariat, and toseek such redress in the courts of the foreign nation from which the inspector is a national.
+&emsp;The Attorney General is authorized to seek any and all available redress in any international tribunal for indemnification to the United States for any liability imposed on the United States by virtue of the actions of an inspector of the Technical Secretariat, and to seek such redress in the courts of the foreign nation from which the inspector is a national.
 
 #### (3) Actions brought by individuals and businesses
 
@@ -112,7 +112,7 @@ In any action under subsection (a) or (b) of this section, the United States may
 
 #### (i) Arms export transactions
 
-&emsp;&emsp;&emsp;The United States Government shall not sell a country described in subparagraph\(A) any item on the United States Munitions List, shall terminate sales of any defense articles, defense services, or design and construction services to that country under the Arms Export Control Act \[22 U.S.C. 2751 et seq.\], and shall terminate all foreign military financing for that country under the Arms Export Control Act.
+&emsp;&emsp;&emsp;The United States Government shall not sell a country described in subparagraph (A) any item on the United States Munitions List, shall terminate sales of any defense articles, defense services, or design and construction services to that country under the Arms Export Control Act \[22 U.S.C. 2751 et seq.\], and shall terminate all foreign military financing for that country under the Arms Export Control Act.
 
 #### (ii) Denial of certain licenses
 
@@ -128,7 +128,7 @@ In any action under subsection (a) or (b) of this section, the United States may
 
 #### (v) International financial assistance
 
-&emsp;&emsp;&emsp;The United States shall oppose any loan or financial or technical assistance by international financial institutions in accordance with section 262d of this title to a country described in subparagraph (A).
+&emsp;&emsp;&emsp;The United States shall oppose any loan or financial or technical assistance byinternational financial institutions in accordance with section 262d of this title to a country described in subparagraph (A).
 
 #### (vi) Termination of assistance under Foreign Assistance Act of 1961
 

@@ -140,7 +140,7 @@ In the case of insurance proceeds received as a result of destruction or damage 
 
 &emsp;For purposes of this subsection, the term “qualified gain” means, with respect to any qualifying electric transmission transaction in any taxable year—
 
-&emsp;&emsp;(A) any ordinary income derived from such transaction which would be required to be recognized under section 1245 or 1250 for suchtaxable year (determined without regard to this subsection), and
+&emsp;&emsp;(A) any ordinary income derived from such transaction which would be required to be recognized under section 1245 or 1250 for such taxable year (determined without regard to this subsection), and
 
 &emsp;&emsp;(B) any income derived from such transaction in excess of the amount described in subparagraph (A) which is required to be included in gross income for such taxable year (determined without regard to this subsection).
 

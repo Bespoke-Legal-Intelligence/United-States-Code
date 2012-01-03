@@ -72,7 +72,7 @@
 
 &emsp;&emsp;(A) availability and interrelation of any Federal or State work incentives programs designed to assist disabled beneficiaries that the individual may be eligible to participate in;
 
-&emsp;&emsp;(B) adequacy of any health benefits coverage that may be offered by an employer ofthe individual and the extent to which other health benefits coverage may be available to the individual; and
+&emsp;&emsp;(B) adequacy of any health benefits coverage that may be offered by an employer of the individual and the extent to which other health benefits coverage may be available to the individual; and
 
 &emsp;&emsp;(C) availability of protection and advocacy services for disabled beneficiaries and how to access such services.
 
@@ -144,15 +144,11 @@ The Rehabilitation Act of 1973, referred to in subsec. (b)(1)(C)(ii)(I), is Pub.
 
 Section 6024 of this title, referred to in subsec. (b)(1)(C)(ii)(I), was repealed by Pub. L. 106–402, title IV, §401(a), Oct. 30, 2000, 114 Stat. 1737. See section 15025 of this title.
 
-Part A of subchapter IV of this chapter, referred to in subsec. (b)(1)(C)(ii)(II), is classified to section 601 et seq. of this title.
-
 Section 212 of Public Law 93–66, referred to in subsec. (d)(2)(B), is set out as a note under section 1382 of this title.
-
-Part A of subchapter XVIII of this chapter, referred to in subsec. (d)(2)(D), is classified to section 1395c et seq. of this title.
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b)(4). Pub. L. 111–280, §3(b)(1), substituted “Funding” for “Allocation of costs” in par. (4)heading, designated existing provisions as subpar. (A), inserted subpar. (A) heading, and added subpar. (B).
+<b>2010</b>—Subsec. (b)(4). Pub. L. 111–280, §3(b)(1), substituted “Funding” for “Allocation of costs” in par. (4) heading, designated existing provisions as subpar. (A), inserted subpar. (A) heading, and added subpar. (B).
 
 Subsec. (c). Pub. L. 111–280, §3(a), added subsec. (c). Former subsec. (c) redesignated (d).
 

@@ -10,11 +10,11 @@ The General Insurance Fund, referred to in text, was established by section 1735
 
 #### Amendments
 
-1967—Pub. L. 90–19 substituted “Secretary” for “Commissioner” wherever appearing.
+<b>1967</b>—Pub. L. 90–19 substituted “Secretary” for “Commissioner” wherever appearing.
 
-1965—Pub. L. 89–117 substituted “General Insurance Fund” for “Housing Investment Insurance Fund”.
+<b>1965</b>—Pub. L. 89–117 substituted “General Insurance Fund” for “Housing Investment Insurance Fund”.
 
-1951—Act Sept. 1, 1951, inserted second sentence.
+<b>1951</b>—Act Sept. 1, 1951, inserted second sentence.
 
-1950—Act Apr. 20, 1950, substituted “Commissioner” for “Administrator” wherever appearing.
+<b>1950</b>—Act Apr. 20, 1950, substituted “Commissioner” for “Administrator” wherever appearing.
 

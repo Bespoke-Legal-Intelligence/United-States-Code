@@ -10,7 +10,7 @@ If the Attorney General determines that a cause of action referred to in section
 
 #### (c) Criminal conviction
 
-(1) When the United States obtains a criminal conviction and the Attorney General determines that the conviction was based in whole or in part on the information contained in a valid declaration filed under section 4201 of this titlethe Attorney General may, in his discretion, pay a reward to the declarant <sup>1</sup>
+(1) When the United States obtains a criminal conviction and the Attorney General determines that the conviction was based in whole or in part on the information contained in a valid declaration filed under section 4201 of this title the Attorney General may, in his discretion, pay a reward to the declarant <sup>1</sup>
 
 (2) In determining the size of any award under paragraph (1), the Attorney General may, in the Attorney General's discretion, consider any appropriate factor, including—
 
@@ -32,7 +32,7 @@ If the Attorney General determines that a cause of action referred to in section
 
 #### (d) Share of funds and assets
 
-(1) When the United States acquires funds or assets pursuant to the execution of a judgment, order, or settlement and the Attorney General determines that the judgment, order, or settlement was based in whole or in part on the information contained in a valid declaration filed under section 4201 of this title, the declarant shall have the right to share in the recovery as follows:
+(1) When the United States acquires funds or assets pursuant to the execution of a judgment, order, or settlement and the Attorney General determines that the judgment, order, or settlement was based in whole or in part on the information contained in a valid declaration filedunder section 4201 of this title, the declarant shall have the right to share in the recovery as follows:
 
 &emsp;(A)(i) The declarant shall be entitled to 20 percent to 30 percent of any recovery up to the first $1,000,000 recovered, 10 percent to 20 percent of the next $4,000,000 recovered, and 5 percent to 10 percent of the next $5,000,000 recovered.
 
@@ -54,7 +54,7 @@ For purposes of this section, funds or assets acquired by the United States shal
 
 #### Amendments
 
-2002—Subsec. (c)(1). Pub. L. 107–273 substituted “the Attorney General may, in his discretion, pay a reward to the declarant” for “, the declarant shall have the right to receive not less than $5,000 and not more than $100,000, any such award to be paid from the Financial Institution Information Award Fund established under section 4209 of this title.”
+<b>2002</b>—Subsec. (c)(1). Pub. L. 107–273 substituted “the Attorney General may, in his discretion, pay a reward to the declarant” for “, the declarant shall have the right to receive not less than $5,000 and not more than $100,000, any such award to be paid from the Financial Institution Information Award Fund established under section 4209 of this title.”
 
 Subsec. (e). Pub. L. 107–273 struck out heading and text of subsec. (e). Text read as follows:
 

@@ -8,7 +8,7 @@ Provision of development resources must be adapted to the needs and capabilities
 
 Bilateral assistance and United States participation in multilateral institutions shall emphasize programs in support of countries which pursue development strategies designed to meet basic human needs and achieve self-sustaining growth with equity.
 
-The Congress declares that the principal purpose of United States bilateral development assistance is to help the poor majority of people in developing countries to participate in a process of equitable growth through productive work and to influence decisions that shape their lives, with the goal of increasing their incomes and their access to public services which will enable them to satisfy their basic needs and lead lives of decency, dignity, and hope. Activities shall be emphasized that effectively involve the poor in development by expanding their access to the economy through services and institutions at the local level, increasing their participation in the making of decisions that affect their lives, increasing labor-intensive production and the use of appropriate technology, expanding productive investment and services out from major cities to small towns and rural areas, and otherwise providing opportunities for the poor to improve their lives through their own efforts. Participation of the United States in multilateral institutions shall also place appropriate emphasis on these principles.
+The Congress declares that the principal purpose of United States bilateral development assistance is to help the poor majority of people in developing countries to participate in a process of equitable growth through productive work and to influence decisions that shape their lives, with the goal of increasing their incomes and their access to public services which will enable them to satisfy their basic needs and lead lives of decency, dignity, and hope. Activities shall be emphasized that effectively involve the poor in development by expanding their access to the economy through services and institutions at the local level, increasing their participation inthe making of decisions that affect their lives, increasing labor-intensive production and the use of appropriate technology, expanding productive investment and services out from major cities to small towns and rural areas, and otherwise providing opportunities for the poor to improve their lives through their own efforts. Participation of the United States in multilateral institutions shall also place appropriate emphasis on these principles.
 
 #### (b) Form of assistance; principles governing assistance
 
@@ -44,13 +44,13 @@ Assistance under this part should be used not only for the purpose of transferri
 
 &emsp;(8) United States cooperation in development should be carried out to the maximum extent possible through the private sector, including those institutions which already have ties in the developing areas, such as educational institutions, cooperatives, credit unions, free labor unions, and private and voluntary agencies.
 
-&emsp;(9) To the maximum extent practicable, United States private investment should beencouraged in economic and social development programs to which the United States lends support.
+&emsp;(9) To the maximum extent practicable, United States private investment should be encouraged in economic and social development programs to which the United States lends support.
 
 &emsp;(10) Assistance shall be planned and utilized to encourage regional cooperation by developing countries in the solution of common problems and the development of shared resources.
 
 &emsp;(11) Assistance efforts of the United States shall be planned and furnished to the maximum extent practicable in coordination and cooperation with assistance efforts of other countries, including the planning and implementation of programs and projects on a multilateral and multidonor basis.
 
-&emsp;(12) United States bilateral development assistance should be concentrated on projects which do not involve large-scale capital transfers. However, to the extent that such assistance does involve large-scale capital transfers, it should be furnished in association with contributions from other countries working together in a multilateral framework.
+&emsp;(12) United States bilateral development assistance should be concentrated on projectswhich do not involve large-scale capital transfers. However, to the extent that such assistance does involve large-scale capital transfers, it should be furnished in association with contributions from other countries working together in a multilateral framework.
 
 &emsp;(13) United States encouragement of policy reforms is necessary if developing countries are to achieve economic growth with equity.
 

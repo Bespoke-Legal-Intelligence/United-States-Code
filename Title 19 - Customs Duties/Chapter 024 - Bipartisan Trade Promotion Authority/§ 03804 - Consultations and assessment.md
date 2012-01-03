@@ -90,7 +90,7 @@ Before initiating or continuing negotiations the subject matter of which is dire
 
 &emsp;&emsp;(i) At any time after the transmission of the report under subparagraph (A), if a resolution is introduced with respect to that report in either House of Congress, the procedures set forth in clauses (iii) through (vi) shall apply to that resolution if—
 
-&emsp;&emsp;&emsp;(I) no other resolution with respect to that report has previously been reported in that House of Congress by the Committeeon Ways and Means or the Committee on Finance, as the case may be, pursuant to those procedures; and
+&emsp;&emsp;&emsp;(I) no other resolution with respect to that report has previously been reported in that House of Congress by the Committee on Ways and Means or the Committee on Finance, as the case may be, pursuant to those procedures; and
 
 &emsp;&emsp;&emsp;(II) no procedural disapproval resolution under section 3805(b) of this title introduced with respect to a trade agreement entered into pursuant to the negotiations to which the report under subparagraph (A) relates has previously been reported in that House of Congress by the Committee on Ways and Means or the Committee on Finance, as the case may be.
 
@@ -140,7 +140,7 @@ The report required under section 135(e)(1) of the Trade Act of 1974 \[19 U.S.C.
 
 #### References in Text
 
-The Tariff Act of 1930, referred to in subsec. (d)(3)(A)(i), is act June 17, 1930, ch. 497, 46 Stat. 590, as amended. Title VII of the Act is classified generally to subtitle IV (§1671 et seq.) of chapter 4 of this title. For complete classification of this Act to the Code, see section 1654 of this title and Tables.
+The Tariff Act of 1930, referred to in subsec. (d)(3)(A)(i), is act June 17, 1930, ch. 497, 46 Stat. 590, as amended. Title VII of the Act is classified generally tosubtitle IV (§1671 et seq.) of chapter 4 of this title. For complete classification of this Act to the Code, see section 1654 of this title and Tables.
 
 The Trade Act of 1974, referred to in subsec. (d)(3)(A)(i), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Chapter 1 of title II of the Act is classified generally to part 1 (§2251 et seq.) of subchapter II of chapter 12 of this title. For complete classification of this Act to the Code, see section 2101 of this title and Tables.
 

@@ -1,6 +1,6 @@
 ### §527. Evaluation and data collection
 
-(a) The Secretary, pursuant to general standards which the Secretary shall prescribe in regulations, shall measure and evaluate on a continuing basis the effect of all programs authorized under this title, in order to determine their effectiveness in achieving stated goals in general, and in achieving such goals in relation to their cost, their effect on related programs, and their structure and mechanisms for delivery ofservices. Such information as the Secretary may consider necessary for purposes of such evaluations shall be made available to the Secretary, upon request, by all departments, agencies, and instrumentalities of the executive branch.
+(a) The Secretary, pursuant to general standards which the Secretary shall prescribe in regulations, shall measure and evaluate on a continuing basis the effect of all programs authorized under this title, in order to determine their effectiveness in achieving stated goals in general, and in achieving such goals in relation to their cost, their effect on related programs, and their structure and mechanisms for delivery of services. Such information as the Secretary may consider necessary for purposes of such evaluations shall be made available to the Secretary, upon request, by all departments, agencies, and instrumentalities of the executive branch.
 
 (b) In carrying out this section, the Secretary shall collect, collate, and analyze on a continuing basis full statistical data regarding participation (including the duration thereof), provision of services, categories of beneficiaries, planning and construction of facilities, acquisition of real property, proposed excessing of land, accretion and attrition of personnel, and categorized expenditures attributable thereto, under all programs carried out under this title.
 
@@ -58,7 +58,7 @@ Department of Defense Information.—The Secretary of Defense shall furnish to t
 
 “(e)
 
-Relation to Department of Defense Registry.—The Secretary of Veterans Affairs, in consultation with the Secretary of Defense, shall ensure that information is collected and maintained in the Registry in a manner that permits effective and efficient cross-reference between the Registry and the registry established under section 734 of the National Defense Authorization Act for Fiscal Years 1992 and 1993 (Public Law 102–190; 105 Stat. 1411; 10 U.S.C. 1074 note), as amended by section 704.
+Relation to Department of Defense Registry.—The Secretary of Veterans Affairs, in consultation with the Secretary of Defense, shall ensure that information is collected and maintained in the Registry in a manner that permits effective and efficient cross-reference between the Registry and the registry established under section 734 of the National Defense Authorization Act for Fiscal Years 1992 and 1993 (PublicLaw 102–190; 105 Stat. 1411; 10 U.S.C. 1074 note), as amended by section 704.
 
 “(f)
 

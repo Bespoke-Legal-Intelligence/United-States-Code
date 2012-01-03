@@ -70,7 +70,7 @@ Subsec. (c). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” fo
 
 Subsec. (b)(1). Pub. L. 94–581, §210(f)(3)(A), substituted “the Administrator” for “he” in provisions preceding subpar. (A).
 
-Subsec. (b)(2). Pub. L. 94–581, §§116(4), 210(f)(3)(A), substituted “section 5070(e) of this title and subsection (b)(1) of this section” for “subsections (a)(1) and (b)(1)of this section” and “as the Administrator deems” for “as he deems”.
+Subsec. (b)(2). Pub. L. 94–581, §§116(4), 210(f)(3)(A), substituted “section 5070(e) of this title and subsection (b)(1) of this section” for “subsections (a)(1) and (b)(1) of this section” and “as the Administrator deems” for “as he deems”.
 
 Subsec. (c). Pub. L. 94–581, §210(f)(3)(B), substituted “the Administrator” for “he” in provisions preceding par. (1) and in provisions following par. (3).
 

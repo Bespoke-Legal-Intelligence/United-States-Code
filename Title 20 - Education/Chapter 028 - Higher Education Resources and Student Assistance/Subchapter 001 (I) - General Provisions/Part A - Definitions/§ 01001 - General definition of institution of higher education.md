@@ -4,7 +4,7 @@
 
 For purposes of this chapter, other than subchapter IV, the term “institution of higher education” means an educational institution in any State that—
 
-&emsp;(1) admits as regular students only persons having a certificate of graduation from a school providing secondary education, or the recognized equivalent of such a certificate, or persons who meet the requirements of section 1091(d)(3) of this title;
+&emsp;(1) admits as regular students only persons having a certificate of graduation from a school providing secondary education, or the recognized equivalent of such a certificate, or persons who meet the requirements of section 1091(d) of this title;
 
 &emsp;(2) is legally authorized within such State to provide a program of education beyond secondary education;
 
@@ -30,7 +30,7 @@ For purposes of this chapter, other than subchapter IV, the term “institution 
 
 For purposes of this section and section 1002 of this title, the Secretary shall publish a list of nationally recognized accrediting agencies or associations that the Secretary determines, pursuant to subpart 2 of part G of subchapter IV of this chapter, to be reliable authority as to the quality of the education or training offered.
 
-(Pub. L. 89–329, title I, §101, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1585; amended Pub. L. 110–315, title I, §101(a), Aug. 14, 2008, 122 Stat. 3083.)
+(Pub. L. 89–329, title I, §101, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1585; amended Pub. L. 110–315, title I, §101(a), Aug. 14, 2008, 122 Stat. 3083; Pub. L. 112–74, div. F, title III, §309(c)(3), Dec. 23, 2011, 125 Stat. 1101.)
 
 #### Prior Provisions
 
@@ -42,15 +42,21 @@ Another prior section 1001, Pub. L. 89–329, title I, §101, as added Pub. L. 9
 
 Another prior section 1001, Pub. L. 89–329, title I, §101, as added Pub. L. 96–374, title I, §101(a), Oct. 3, 1980, 94 Stat. 1373, stated Congressional findings with respect to continuing postsecondary education program and planning, prior to the general amendment of this subchapter by Pub. L. 99–498.
 
-Another prior section 1001, Pub. L. 89–329, title I, §101, Nov. 8, 1965, 79 Stat. 1219; Pub. L. 90–575, title II, §201, Oct. 16, 1968, 82 Stat. 1035; Pub. L. 92–318, title I, §101(a), June 23, 1972, 86 Stat. 236; Pub. L. 94–482, title I, §101(a), Oct. 12, 1976, 90 Stat. 2083; Pub. L. 96–49, §2, Aug. 13, 1979, 93 Stat. 351, authorized appropriations for thecommunity service, continuing education, and lifelong learning program grant programs through fiscal year 1980, prior to the general amendment of this subchapter by Pub. L. 96–374.
+Another prior section 1001, Pub. L. 89–329, title I, §101, Nov. 8, 1965, 79 Stat. 1219; Pub. L. 90–575, title II, §201, Oct. 16, 1968, 82 Stat. 1035; Pub. L. 92–318, title I, §101(a), June 23, 1972, 86 Stat. 236; Pub. L. 94–482, title I, §101(a), Oct. 12, 1976, 90 Stat. 2083; Pub. L. 96–49, §2, Aug. 13, 1979, 93 Stat. 351, authorized appropriations for the community service, continuing education, and lifelong learning program grant programs through fiscal year 1980, prior to the general amendment of this subchapter by Pub. L. 96–374.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (a)(1). Pub. L. 112–74 substituted “section 1091(d)” for “section 1091(d)(3)”.
 
 <b>2008</b>—Subsec. (a)(1). Pub. L. 110–315, §101(a)(1)(A), inserted “, or persons who meet the requirements of section 1091(d)(3) of this title” before semicolon at end.
 
 Subsec. (a)(3). Pub. L. 110–315, §101(a)(1)(B), inserted “, or awards a degree that is acceptable for admission to a graduate or professional degree program, subject to review and approval by the Secretary” before semicolon at end.
 
 Subsec. (b)(2). Pub. L. 110–315, §101(a)(2), added par. (2) and struck out former par. (2) which read as follows: “a public or nonprofit private educational institution in any State that, in lieu of the requirement in subsection (a)(1) of this section, admits as regular students persons who are beyond the age of compulsory school attendance in the State in which the institution is located.”
+
+#### Effective Date of 2011 Amendment
+
+Pub. L. 112–74, div. F, title III, §309(g), Dec. 23, 2011, 125 Stat. 1103, provided that: “The amendments made by subsections (a), (b), and (c) \[amending this section and sections 1070a, 1087ss, and 1091 of this title, and enacting provisions set out as a note under section 1091 of this title\] shall take effect on July 1, 2012.”
 
 #### Effective Date of 2009 Amendment
 
@@ -182,7 +188,7 @@ Pub. L. 102–325, §1(a), July 23, 1992, 106 Stat. 448, provided that: “This 
 
 #### Short Title of 1991 Amendment
 
-Pub. L. 102–26, §1(a), Apr. 9, 1991, 105 Stat. 123, provided that: “This Act \[enacting section 1211b of thistitle, amending sections 1078, 1078–1, 1085, 1087ss, 1088, 1091, 1091a, 1092, 1094, and 1141 of this title, enacting provisions set out as notes under sections 1070, 1078–1, 1088, and 1091a of this title, amending provisions set out as a note under section 1092 of this title, and repealing provisions set out as a note under section 1088 of this title\] may be cited as the ‘Higher Education Technical Amendments of 1991’.”
+Pub. L. 102–26, §1(a), Apr. 9, 1991, 105 Stat. 123, provided that: “This Act \[enacting section 1211b of this title, amending sections 1078, 1078–1, 1085, 1087ss, 1088, 1091, 1091a, 1092, 1094, and 1141 of this title, enacting provisions set out as notes under sections 1070, 1078–1, 1088, and 1091a of this title, amending provisions set out as a note under section 1092 of this title, and repealing provisions set out as a note under section 1088 of this title\] may be cited as the ‘Higher Education Technical Amendments of 1991’.”
 
 #### Short Title of 1990 Amendments
 
@@ -222,7 +228,7 @@ Pub. L. 97–301, §1, Oct. 13, 1982, 96 Stat. 1400, which provided: “That thi
 
 #### Short Title of 1981 Amendment
 
-Pub. L. 97–35, title V, subtitle B, §531, Aug. 13, 1981, 95 Stat. 450, provided that: “This subtitle \[amending sections 1075, 1077, 1077a, 1078, 1078–1, 1078–2, 1087–1, 1087–2, 1087dd, 1089, 1096, and 1232 of this title, repealing section 1087–3a of this title, and enacting provisions set out as notes under section 1078 of this title\] may be cited as the ‘Postsecondary Student Assistance Amendments of 1981’.”
+Pub. L. 97–35, title V, subtitle B, §531, Aug. 13, 1981, 95 Stat. 450, provided that: “This subtitle \[amendingsections 1075, 1077, 1077a, 1078, 1078–1, 1078–2, 1087–1, 1087–2, 1087dd, 1089, 1096, and 1232 of this title, repealing section 1087–3a of this title, and enacting provisions set out as notes under section 1078 of this title\] may be cited as the ‘Postsecondary Student Assistance Amendments of 1981’.”
 
 #### Short Title of 1980 Amendment
 
@@ -262,7 +268,7 @@ Pub. L. 89–329, §1, Nov. 8, 1965, 79 Stat. 1219, provided: “That this Act \
 
 Pub. L. 89–329, title V, §509, as added by Pub. L. 90–35, §8, provided that title V of Pub. L. 89–329 could be cited as the “Education Professions Development Act”, prior to the general amendment of title V of Pub. L. 89–329 by Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1495.
 
-For short title of section 1092(f) of this title as the Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act, see section 1092(f)(15) of this title.
+For short title of section 1092(f) of this title as the Jeanne Clery Disclosure of Campus Security Policy andCampus Crime Statistics Act, see section 1092(f)(18) of this title.
 
 #### Higher Education Extension
 
@@ -312,7 +318,7 @@ Exception.—The programs described in subsection (a) for which the authorizatio
 
 \[Pub. L. 110–238, §1(b), May 30, 2008, 122 Stat. 1558, provided that: “Nothing in this section \[amending Pub. L. 109–81, set out above\], or in the Higher Education Extension Act of 2005 \[Pub. L. 109–81, set out above\] as amended by this Act, shall be construed to limit or otherwise alter the authorizations of appropriations for, or the durations of, programs contained in the amendments made by the Higher Education Reconciliation Act of 2005 (Public Law 109–171) \[see Short Title of 2006 Amendment note above\], by the College Cost Reduction and Access Act (Public Law 110–84) \[see Short Title of 2007 Amendment note above\], or by the Ensuring Continued Access to Student Loans Act of 2008 (Public Law 110–227) \[see Short Title of 2008 Amendment note above\] to the provisions of the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq., 42 U.S.C. 2751 et seq.\] and the Taxpayer-Teacher Protection Act of 2004 \[see Short Title of 2004 Amendment note above\].”\]
 
-\[Pub. L. 110–230, §1(b), May 13, 2008, 122 Stat. 877, provided that: “Nothing in this section \[enacting provisions set out above and amending Pub. L. 109–81, set out above\], or in the Higher Education Extension Act of 2005 \[Pub. L. 109–81, set out above\] as amended by this Act, shall be construed to limit or otherwise alter the authorizations of appropriations for, or the durations of, programs contained in the amendments made by the Higher Education Reconciliation Act of 2005 (Public Law 109–171) \[see Short Title of 2006 Amendment note above\] or by the College Cost Reduction and Access Act (Public Law 110–84) \[see Short Title of 2007 Amendment note above\] to the provisions of the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq., 42 U.S.C. 2751 et seq.\] and the Taxpayer-Teacher Protection Act of 2004 \[see Short Title of 2004 Amendment note above\].”\]
+\[Pub. L. 110–230, §1(b), May 13, 2008, 122 Stat. 877, provided that: “Nothing in this section \[enacting provisions set out above and amending Pub. L. 109–81, set out above\], or in the Higher Education Extension Act of 2005 \[Pub. L. 109–81, set out above\] as amended by this Act, shall be construed to limit or otherwise alter the authorizations of appropriations for, or the durations of, programs contained in the amendments made by the Higher Education Reconciliation Act of 2005 (Public Law 109–171) \[see Short Title of 2006 Amendment note above\] or by the College Cost Reduction and Access Act (Public Law 110–84) \[see Short Title of 2007 Amendment note above\] to the provisions of the Higher EducationAct of 1965 \[20 U.S.C. 1001 et seq., 42 U.S.C. 2751 et seq.\] and the Taxpayer-Teacher Protection Act of 2004 \[see Short Title of 2004 Amendment note above\].”\]
 
 \[Pub. L. 110–198, §3, Mar. 24, 2008, 122 Stat. 656, provided that: “Nothing in this Act \[see Short Title of 2008 Amendment note above\], or in the Higher Education Extension Act of 2005 \[Pub. L. 109–81, set out above\] as amended by this Act, shall be construed to limit or otherwise alter the authorizations of appropriations for, or the durations of, programs contained in the amendments made by the Higher Education Reconciliation Act of 2005 (Public Law 109–171) \[see Short Title of 2006 Amendment note above\] or by the College Cost Reduction and Access Act (Public Law 110–84) \[see Short Title of 2007 Amendment note above\] to the provisions of the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq., 42 U.S.C. 2751 et seq.\] and the Taxpayer-Teacher Protection Act of 2004 \[see Short Title of 2004 Amendment note above\].”\]
 

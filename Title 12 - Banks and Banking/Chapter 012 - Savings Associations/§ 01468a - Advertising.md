@@ -1,6 +1,14 @@
 ### §1468a. Advertising
 
-No savings association shall carry on any sale, plan, or practices, or any advertising, in violation of regulations promulgated by the Director.
+No savings association shall carry on any sale, plan, or practices, or any advertising, in violation of regulations promulgated by a Federal banking agency.
 
-(June 13, 1933, ch. 64, §12, as added Pub. L. 101–73, title III, §301, Aug. 9, 1989, 103 Stat. 343.)
+(June 13, 1933, ch. 64, §12, as added Pub. L. 101–73, title III, §301, Aug. 9, 1989, 103 Stat. 343; amended Pub. L. 111–203, title III, §369(10), July 21, 2010, 124 Stat. 1565.)
+
+#### Amendments
+
+<b>2010</b>—Pub. L. 111–203 substituted “a Federal banking agency” for “the Director”.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the transfer date, see section 351 of Pub. L. 111–203, set out as a note under section 906 of Title 2, The Congress.
 

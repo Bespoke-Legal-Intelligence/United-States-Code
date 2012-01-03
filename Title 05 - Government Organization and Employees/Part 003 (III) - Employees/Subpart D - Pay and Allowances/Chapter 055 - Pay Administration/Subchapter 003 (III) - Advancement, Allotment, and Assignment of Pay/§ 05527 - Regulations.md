@@ -28,7 +28,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1968—Subsec. (b). Pub. L. 90–623 inserted reference to the District of Columbia Council, with respect to the government of the District of Columbia.
+<b>1968</b>—Subsec. (b). Pub. L. 90–623 inserted reference to the District of Columbia Council, with respect to the government of the District of Columbia.
 
 #### Effective Date of 1968 Amendment
 
@@ -54,7 +54,7 @@ Section 1. As used in this order:
 
 Sec. 2. (a) Except as otherwise provided by section 2(b) and section 3(c) of this order, the Secretary of State in respect of civilian employees of Federal agencies who are located in foreign areas immediately prior to an emergency evacuation, and the Office of Personnel Management in respect of all other civilian employees of Federal agencies, are hereby designated and empowered, without the approval, ratification, or other action of the President, to perform the functions conferred upon the President by section 3(a), section 3(b), and section 6(a) of the act \[sections 5523(a), 5523(b), and 5527(a) of this title\].
 
-(b) The Office of Personnel Management is hereby designated and empowered to perform the functions conferred upon the President by the provisions of section 5527 of title 5, United States Code, with respect to allotments and assignments authorized by section 5525 of title 5, United States Code, and advance payments to new appointees authorized by section 5524a of title 5, United States Code, as added by section 107(a) of the Federal Employees Pay Comparability Act of 1990, as incorporated in section 529 of Public Law 101–509.
+(b) The Office of Personnel Management is hereby designated and empowered to perform the functions conferred upon the President by the provisions of section 5527 of title 5, United States Code, with respect to allotments and assignments authorized by section 5525 of title 5, United States Code, and advance payments to new appointees authorized by section 5524a of title 5,United States Code, as added by section 107(a) of the Federal Employees Pay Comparability Act of 1990, as incorporated in section 529 of Public Law 101–509.
 
 Sec. 3. The following regulations are hereby prescribed as necessary and appropriate to carry out the provisions, accomplish the purposes, and govern the administration of the act:
 

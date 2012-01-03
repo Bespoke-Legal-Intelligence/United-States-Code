@@ -144,7 +144,7 @@ Requirements.—The requirements referred to in subsection (a) are the following
 
 &emsp;&emsp;“(C) a certification that the United States will pursue efforts to ensure that any other nation that permits India to reprocess or otherwise alter in form or content nuclear material that the nation has transferred to India or nuclear material and by-product material used in or produced through the use of nuclear material, non-nuclear material, or equipment that it has transferred to India requires India to do so under similar arrangements and procedures.
 
-&emsp;“(2) A period of 30 days of continuous session (as defined by section 130 g.(2) of the Atomic Energy Act of1954 (42 U.S.C. 2159(g)(2)) has elapsed after transmittal of the report required under paragraph (1).
+&emsp;“(2) A period of 30 days of continuous session (as defined by section 130 g.(2) of the Atomic Energy Act of 1954 (42 U.S.C. 2159(g)(2)) has elapsed after transmittal of the report required under paragraph (1).
 
 “(c)
 
@@ -162,7 +162,7 @@ Resolution of Disapproval.—Notwithstanding the requirements in subsection (b) 
 
 “(a)
 
-Certification.—Before exchanging diplomatic notes pursuant to Article 16(1) of the Agreement, the President shall certify to the appropriate congressional committees that it is the policy of the United States to work with members of the Nuclear Suppliers Group (NSG), individually and collectively, to agree to further restrict the transfers of equipment and technology related to the enrichment of uranium and reprocessing of spent nuclear fuel.
+Certification.—Before exchanging diplomatic notes pursuant to Article 16(1) of the Agreement, the President shall certify to the appropriate congressional committees that it is the policy of the United States to work with members of the Nuclear Suppliers Group\(NSG), individually and collectively, to agree to further restrict the transfers of equipment and technology related to the enrichment of uranium and reprocessing of spent nuclear fuel.
 
 “(b)
 
@@ -190,7 +190,7 @@ Termination.—The requirement to transmit the report under paragraph (1) termin
 
 #### Certifications Pursuant to the United States-India Nuclear Cooperation Approval and Nonproliferation Enhancement Act (Public Law 110–369)
 
-Determination of the President of the United States, No. 2009–6, Oct. 20, 2008, 73 F.R. 63841, provided:
+Determination of President of the United States, No. 2009–6, Oct. 20, 2008, 73 F.R. 63841, provided:
 
 Memorandum for the Secretary of State
 
@@ -204,7 +204,7 @@ You are authorized and directed to publish this determination in the Federal Reg
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-Determination of the President of the United States, No. 2010–04, Feb. 3, 2010, 75 F.R. 7337, provided:
+Determination of President of the United States, No. 2010–04, Feb. 3, 2010, 75 F.R. 7337, provided:
 
 Memorandum for the Secretary of State
 

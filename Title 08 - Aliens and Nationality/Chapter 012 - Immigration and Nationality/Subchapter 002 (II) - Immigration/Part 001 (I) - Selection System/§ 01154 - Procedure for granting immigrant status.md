@@ -294,9 +294,9 @@ The Intercountry Adoption Act of 2000, referred to in subsec. (d)(2), is Pub. L.
 
 #### Amendments
 
-2009—Subsec. (<i>l</i>). Pub. L. 111–83 added subsec. (<i>l</i>).
+<b>2009</b>—Subsec. (<i>l</i>). Pub. L. 111–83 added subsec. (<i>l</i>).
 
-2006—Subsec. (a)(1)(A)(i). Pub. L. 109–248, §402(a)(1), substituted “Except as provided in clause (viii), any” for “Any”.
+<b>2006</b>—Subsec. (a)(1)(A)(i). Pub. L. 109–248, §402(a)(1), substituted “Except as provided in clause (viii), any” for “Any”.
 
 Subsec. (a)(1)(A)(vii). Pub. L. 109–162, §816, added cl. (vii).
 
@@ -318,11 +318,11 @@ Subsec. (a)(1)(K). Pub. L. 109–162, §814(b), added subpar. (K).
 
 Subsec. (a)(1)(L). Pub. L. 109–162, §814(e), added subpar. (L).
 
-2002—Subsec. (a)(1)(D)(iii). Pub. L. 107–208, §7, added cl. (iii).
+<b>2002</b>—Subsec. (a)(1)(D)(iii). Pub. L. 107–208, §7, added cl. (iii).
 
 Subsec. (k). Pub. L. 107–208, §6, added subsec. (k).
 
-2000—Subsec. (a)(1)(A)(iii). Pub. L. 106–386, §1503(b)(1)(A), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “An alien who is the spouse of a citizen of the United States, who is a person of good moral character, who is eligible to be classified as an immediate relative under section 1151(b)(2)(A)(i) of this title, and who has resided in the United States with the alien's spouse may file a petition with the Attorney General under this subparagraph for classification of the alien (and any child of the alien if such a child has not been classified under clause (iv)) under such section if the alien demonstrates to the Attorney General that—
+<b>2000</b>—Subsec. (a)(1)(A)(iii). Pub. L. 106–386, §1503(b)(1)(A), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “An alien who is the spouse of a citizen of the United States, who is a person of good moral character, who is eligible to be classified as an immediate relative under section 1151(b)(2)(A)(i) of this title, and who has resided in the United States with the alien's spouse may file a petition with the Attorney General under this subparagraph for classification of the alien (and any child of the alien if such a child has not been classified under clause (iv)) under such section if the alien demonstrates to the Attorney General that—
 
 &emsp;“(I) the alien is residing in the United States, the marriage between the alien and the spouse was entered into in good faith by the alien, and during the marriage the alien or a child of the alien has been battered by or has been the subject of extreme cruelty perpetrated by the alien's spouse; and
 
@@ -360,13 +360,13 @@ Subsec. (h). Pub. L. 106–386, §1507(b), inserted at end “Remarriage of an a
 
 Subsec. (j). Pub. L. 106–313 added subsec. (j).
 
-1996—Subsec. (a)(1)(A)(iii)(II), (iv)(II), (B)(iii)(II). Pub. L. 104–208, §308(e)(1)(A), substituted “removal” for “deportation”.
+<b>1996</b>—Subsec. (a)(1)(A)(iii)(II), (iv)(II), (B)(iii)(II). Pub. L. 104–208, §308(e)(1)(A), substituted “removal” for “deportation”.
 
 Subsec. (e). Pub. L. 104–208, §308(f)(2)(A), substituted “be admitted” for “enter”.
 
 Subsec. (i). Pub. L. 104–208, §624(b), added subsec. (i).
 
-1994—Subsec. (a)(1). Pub. L. 103–322, §40701(a), in subpar. (A), designated first sentence as cl. (i) and second sentence as cl. (ii) and added cls. (iii) and (iv), in subpar. (B), designated existing provisions as cl. (i) and added cls. (ii) and (iii), and added subpar. (H).
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–322, §40701(a), in subpar. (A), designated first sentence as cl. (i) and second sentence as cl. (ii) and added cls. (iii) and (iv), in subpar. (B), designated existing provisions as cl. (i) and added cls. (ii) and (iii), and added subpar. (H).
 
 Subsec. (a)(1)(A). Pub. L. 103–416 in second sentence inserted “spouse” after “alien” and “of the alien (and the alien's children)” after “for classification”.
 
@@ -374,7 +374,7 @@ Subsec. (a)(2). Pub. L. 103–322, §40701(b)(1), in subpar. (A), substituted �
 
 Subsec. (h). Pub. L. 103–322, §40701(c), added subsec. (h).
 
-1991—Subsec. (a)(1)(A). Pub. L. 102–232, §302(e)(4)(A), inserted sentence at end authorizing filing of petitions by aliens described in second sentence of section 1151(b)(2)(A)(i) of this title.
+<b>1991</b>—Subsec. (a)(1)(A). Pub. L. 102–232, §302(e)(4)(A), inserted sentence at end authorizing filing of petitions by aliens described in second sentence of section 1151(b)(2)(A)(i) of this title.
 
 Subsec. (a)(1)(F). Pub. L. 102–232, §302(e)(4)(B), substituted “Attorney General” for “Secretary of State”.
 
@@ -386,7 +386,7 @@ Subsec. (f)(4)(A)(ii)(II). Pub. L. 102–232, §309(b)(5), substituted “the se
 
 Subsec. (g). Pub. L. 102–232, §308(b), made technical correction to directory language of Pub. L. 101–649, §702(b). See 1990 Amendment note below.
 
-1990—Subsec. (a)(1). Pub. L. 101–649, §162(b)(1), added par. (1) and struck out former par. (1) which read as follows: “Any citizen of the United States claiming that an alien is entitled to a preference status by reason of a relationship described in paragraph (1), (4), or (5) of section 1153(a) of this title, or to an immediate relative status under section 1151(b) of this title, or any alien lawfully admitted for permanent residence claiming that an alien is entitled to a preference status by reason of the relationship described in section 1153(a)(2) of this title, or any alien desiring to be classified as a preference immigrant under section 1153(a)(3) of this title (or any person on behalf of such an alien), or any person desiring and intending to employ within the United States an alien entitled to classification as a preference immigrant under section 1153(a)(6) of this title, may file a petition with the Attorney General for such classification. The petition shall be in such form as the Attorney General may by regulations prescribe and shall contain such information and be supported by such documentary evidence as the Attorney General may require. The petition shall be made under oath administered by any individual having authority to administer oaths, if executed in the United States, but, if executed outside the United States, administered by a consular officer or an immigration officer.”
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–649, §162(b)(1), added par. (1) and struck out former par. (1) which read as follows: “Any citizen of the United States claiming that an alien is entitled to a preference status by reason of a relationship described in paragraph (1), (4), or (5) of section 1153(a) of this title, or to an immediate relative status under section 1151(b) of this title, or any alien lawfully admitted for permanent residence claiming that an alien is entitled to a preference status by reason of the relationship described in section 1153(a)(2) of this title, or any alien desiring to be classified as a preference immigrant under section 1153(a)(3) of this title (or any person on behalf of such an alien), or any person desiring and intending to employ within the United States an alien entitled to classification as a preference immigrant under section 1153(a)(6) of this title, may file a petition with the Attorney General for such classification. The petition shall be in such form as the Attorney General may by regulations prescribe and shall contain such information and be supported by such documentary evidence as the Attorney General may require. The petition shall be made under oath administered by any individual having authority to administer oaths, if executed in the United States, but, if executed outside the United States, administered by a consular officer or an immigration officer.”
 
 Subsec. (b). Pub. L. 101–649, §162(b)(2), substituted reference to section 1153(b)(2) or 1153(b)(3) of this title for reference to section 1153(a)(3) or (6) of this title, and reference to preference under section 1153(a) or (b) of this title for reference to a preference status under section 1153(a) of this title.
 
@@ -402,33 +402,33 @@ Pub. L. 101–649, §162(b)(6), redesignated subsec. (h) as (g). Former subsec. 
 
 Subsec. (h). Pub. L. 101–649, §162(b)(6), redesignated subsec. (h) as (g).
 
-1988—Subsec. (c). Pub. L. 100–525, §9(g)(1), substituted “an immediate relative” for “a nonquota”.
+<b>1988</b>—Subsec. (c). Pub. L. 100–525, §9(g)(1), substituted “an immediate relative” for “a nonquota”.
 
 Subsec. (g)(3)(A). Pub. L. 100–525, §9(g)(2), substituted “(C)(ii) of paragraph (2)” for “(C)(i) of paragraph 2”.
 
-1986—Subsec. (a). Pub. L. 99–639, §2(c), designated existing provisions as par. (1) and added par. (2).
+<b>1986</b>—Subsec. (a). Pub. L. 99–639, §2(c), designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (c). Pub. L. 99–639, §4(a), inserted “(1)” after “if” and “, or has sought to be accorded,” and added cl. (2).
 
 Subsec. (h). Pub. L. 99–639, §5(b), added subsec. (h).
 
-1982—Subsec. (g). Pub. L. 97–359 added subsec. (g).
+<b>1982</b>—Subsec. (g). Pub. L. 97–359 added subsec. (g).
 
-1981—Subsec. (a). Pub. L. 97–116, §18(d), substituted “of a relationship described in paragraph” for “of the relationships described in paragraphs”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–116, §18(d), substituted “of a relationship described in paragraph” for “of the relationships described in paragraphs”.
 
 Subsec. (d). Pub. L. 97–116, §3, redesignated subsec. (e) as (d). Former subsec. (d), directing that the Attorney General forward to the Congress a Statistical summary of petitions for immigrant status approved by him under section 1153(a)(3) or 1153(a)(6) of this title and that the reports be submitted to Congress on the first and fifteenth day of each calendar month in which Congress was in session, was struck out.
 
 Subsecs. (e), (f). Pub. L. 97–116, §3, redesignated as subsec. (e) the subsec. (f) relating to subsequent finding of non-entitlement. See 1978 Amendment note below. Former subsec. (e) redesignated (d).
 
-1980—Subsec. (d). Pub. L. 96–470 substituted provision requiring the Attorney General to forward to Congress a statistical summary of approved petitions for professional or occupational preferences for provision requiring the Attorney General to forward to Congress a report on each petition approved for professional or occupational preference stating the basis for his approval and the facts pertinent in establishing qualifications for preferential status.
+<b>1980</b>—Subsec. (d). Pub. L. 96–470 substituted provision requiring the Attorney General to forward to Congress a statistical summary of approved petitions for professional or occupational preferences for provision requiring the Attorney General to forward to Congress a report on each petition approved for professional or occupational preference stating the basis for his approval and the facts pertinent in establishing qualifications for preferential status.
 
-1978—Subsec. (c). Pub. L. 95–417, §2, struck out “no more than two petitions may be approved for one petitioner on behalf of a child as defined in section 1101(b)(1)(E) or 1101(b)(1)(F) of this title unless necessary to prevent the separation of brothers and sisters and” after “subsection (b) of this section”.
+<b>1978</b>—Subsec. (c). Pub. L. 95–417, §2, struck out “no more than two petitions may be approved for one petitioner on behalf of a child as defined in section 1101(b)(1)(E) or 1101(b)(1)(F) of this title unless necessary to prevent the separation of brothers and sisters and” after “subsection (b) of this section”.
 
 Subsecs. (e), (f). Pub. L. 95–417, §3, added subsec. (e) and redesignated former subsec. (e), relating to subsequent finding of non-entitlement, as subsec. (f) without regard to existing subsec. (f), relating to provisions applicable to qualified immigrants, added by Pub. L. 94–571.
 
-1976—Subsec. (f). Pub. L. 94–571 added subsec. (f).
+<b>1976</b>—Subsec. (f). Pub. L. 94–571 added subsec. (f).
 
-1965—Subsec. (a). Pub. L. 89–236 substituted provisions spelling out the statutory grounds for filing a petition for preference status and prescribing the authority of the Attorney General to require documentary evidence in support and the form of the petition, for provisions prohibiting consular officers from granting preference status before being authorized to do so in cases of applications based on membership in the ministry of a religious denomination or high education, technical training, or specialized experience which would be substantially beneficial to the United States.
+<b>1965</b>—Subsec. (a). Pub. L. 89–236 substituted provisions spelling out the statutory grounds for filing a petition for preference status and prescribing the authority of the Attorney General to require documentary evidence in support and the form of the petition, for provisions prohibiting consular officers from granting preference status before being authorized to do so in cases of applications based on membership in the ministry of a religious denomination or high education, technical training, or specialized experience which would be substantially beneficial to the United States.
 
 Subsec. (b). Pub. L. 89–236 substituted provisions authorizing investigation of petitions by the Attorney General, consultation with the Secretary of Labor, and authorization to consular officers, for provisions specifying the form of application for preference status on the basis of membership in the ministry of a religious denomination or high education, technical training, or specialized experience which would be substantially beneficial to the United States and the circumstances making an application appropriate.
 
@@ -438,7 +438,7 @@ Subsec. (d). Pub. L. 89–236 substituted provisions requiring the Attorney Gene
 
 Subsec. (e). Pub. L. 89–236 added subsec. (e).
 
-1962—Subsec. (c). Pub. L. 87–885 provided for submission of reports to Congress.
+<b>1962</b>—Subsec. (c). Pub. L. 87–885 provided for submission of reports to Congress.
 
 #### Effective Date of 2002 Amendment
 

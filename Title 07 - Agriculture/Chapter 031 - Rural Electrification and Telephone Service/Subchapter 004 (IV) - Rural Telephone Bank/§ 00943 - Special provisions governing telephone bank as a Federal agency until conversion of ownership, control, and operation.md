@@ -30,7 +30,7 @@ In subsec. (c), “chapter 91 of title 31” and “section 9101 of title 31” 
 
 #### Amendments
 
-1994—Subsec. (b). Pub. L. 103–354 substituted “Secretary” for “Rural Electrification Administration or of any other agency of the Department of Agriculture”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–354 substituted “Secretary” for “Rural Electrification Administration or of any other agency of the Department of Agriculture”.
 
 #### Effective Date
 

@@ -28,7 +28,7 @@ The Secretary of Labor shall take such actions as the Secretary determines to be
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2) and in accordance with regulations developed under subsection (c) of this section, States, grant recipients, administrative entities, and other recipients of financial assistance under the Job Training Partnership Act (29 U.S.C. 1501 et seq.) or under this Act may expend funds received under the Job Training Partnership Act or under this Act, prior to July 1, 2000, in orderto plan and implement programs and activities authorized under this Act.
+&emsp;Subject to paragraph (2) and in accordance with regulations developed under subsection (c) of this section, States, grant recipients, administrative entities, and other recipients of financial assistance under the Job Training Partnership Act (29 U.S.C. 1501 et seq.) or under this Act may expend funds received under the Job Training Partnership Act or under this Act, prior to July 1, 2000, in order to plan and implement programs and activities authorized under this Act.
 
 #### (2) Additional requirements
 

@@ -12,9 +12,9 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
-Section 326(a) of the House amendment modifies a provision as contained in H.R. 8200 as passed by the House. The percentage limitation on the fees of a trustee contained in the House bill is retained, but no additional percentage is specified for cases in which a trustee operates the business of the debtor. Section 326(b) of the Senate amendment is deleted as an unnecessary restatement of the limitation contained in section 326(a)as modified. The provision contained in section 326(a) of the Senate amendment authorizing a trustee to receive a maximum fee of $150 regardless of the availability of assets in the estate is deleted. It will not be necessary in view of the increase in section 326(a) and the doubling of the minimum fee as provided in section 330(b).
+Section 326(a) of the House amendment modifies a provision as contained in H.R. 8200 as passed by the House. The percentage limitation on the fees of a trustee contained in the House bill is retained, but no additional percentage is specified for cases in which a trustee operates the business of the debtor. Section 326(b) of the Senate amendment is deleted as an unnecessary restatement of the limitation contained in section 326(a) as modified. The provision contained in section 326(a) of the Senate amendment authorizing a trustee to receive a maximum fee of $150 regardless of the availability of assets in the estate is deleted. It will not be necessary in view of the increase in section 326(a) and the doubling of the minimum fee as provided in section 330(b).
 
 Section 326(b) of the House amendment derives from section 326(c) of H.R. 8200 as passed by the House. It is a conforming amendment to indicate a change with respect to the selection of a trustee in a chapter 13 case under section 1302(a) of title 11.
 
@@ -36,11 +36,11 @@ Subsection (e) \[enacted as (d)\] permits the court to deny compensation to a tr
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–394 substituted “25 percent on the first $5,000 or less, 10 percent on any amount in excess of $5,000 but not in excess of $50,000, 5 percent on any amount in excess of $50,000 but not in excess of $1,000,000, and reasonable compensation not to exceed 3 percent of such moneys in excess of $1,000,000” for “fifteen percent on the first $1,000 or less, six percent on any amount in excess of $1,000 but not in excess of $3,000, and three percent on any amount in excess of $3,000”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–394 substituted “25 percent on the first $5,000 or less, 10 percent on any amount in excess of $5,000 but not in excess of $50,000, 5 percent on any amount in excess of $50,000 but not in excess of $1,000,000, and reasonable compensation not to exceed 3 percent of such moneys in excess of $1,000,000” for “fifteen percent on the first $1,000 or less, six percent on any amount in excess of $1,000 but not in excess of $3,000, and three percent on any amount in excess of $3,000”.
 
-1986—Subsec. (b). Pub. L. 99–554 amended subsec. (b) generally, substituting “under chapter 12 or 13 of this title” for “under chapter 13 of this title”, “expenses of the United States trustee or of a standing trustee appointed under section 586(b) of title 28” for “expenses of a standing trustee appointed under section 1302(d) of this title”, and “under section 1202(a) or 1302(a) of this title” for “under section 1302(a) of this title”.
+<b>1986</b>—Subsec. (b). Pub. L. 99–554 amended subsec. (b) generally, substituting “under chapter 12 or 13 of this title” for “under chapter 13 of this title”, “expenses of the United States trustee or of a standing trustee appointed under section 586(b) of title 28” for “expenses of a standing trustee appointed under section 1302(d) of this title”, and “under section 1202(a) or 1302(a) of this title” for “under section 1302(a) of this title”.
 
-1984—Subsec. (a). Pub. L. 98–353, §430(a), substituted “and three percent on any amount in excess of $3000” for “three percent on any amount in excess of $3,000 but not in excess of $20,000, two percent on any amount in excess of $20,000 but not in excess of $50,000, and one percent on any amount in excess of $50,000”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–353, §430(a), substituted “and three percent on any amount in excess of $3000” for “three percent on any amount in excess of $3,000 but not in excess of $20,000, two percent on any amount in excess of $20,000 but not in excess of $50,000, and one percent on any amount in excess of $50,000”.
 
 Subsec. (d). Pub. L. 98–353, §430(b), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The court may deny allowance of compensation for services and reimbursement of expenses of the trustee if the trustee—
 

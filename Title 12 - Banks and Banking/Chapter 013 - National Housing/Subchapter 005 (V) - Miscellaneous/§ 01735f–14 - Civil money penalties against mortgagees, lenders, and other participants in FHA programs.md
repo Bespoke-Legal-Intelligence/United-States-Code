@@ -98,7 +98,7 @@
 
 #### (1) In general
 
-&emsp;After exhausting all administrative remedies established by the Secretary under subsection (c)(1) of this section, a mortgagee or lender or such other person or entity against whom the Secretary has imposed a civilmoney penalty under subsection (a) of this section may obtain a review of the penalty and such ancillary issues (such as any administrative sanctions under 24 C.F.R. parts 24 and 25) as may be addressed in the notice of determination to impose a penalty under subsection (c)(1)(A) of this section in the appropriate court of appeals of the United States, by filing in such court, within 20 days after the entry of such order or determination, a written petition praying that the Secretary's determination or order be modified or be set aside in whole or in part.
+&emsp;After exhausting all administrative remedies established by the Secretary under subsection (c)(1) of this section, a mortgagee or lender or such other person or entity against whom the Secretary has imposed a civil money penalty under subsection (a) of this section may obtain a review of the penalty and such ancillary issues (such as any administrative sanctions under 24 C.F.R. parts 24 and 25) as may be addressed in the notice of determination to impose a penalty under subsection (c)(1)(A) of this section in the appropriate court of appeals of the United States, by filing in such court, within 20 days after the entry of such order or determination, a written petition praying that the Secretary's determination or order be modified or be set aside in whole or in part.
 
 #### (2) Objections not raised in hearing
 
@@ -136,7 +136,7 @@ Notwithstanding any other provision of law, all civil money penalties collected 
 
 #### Amendments
 
-2009—Subsec. (b)(1). Pub. L. 111–22, §203(f)(1)(A)(i), inserted “or any of its owners, officers, or directors” after “mortgagee or lender” in introductory provisions.
+<b>2009</b>—Subsec. (b)(1). Pub. L. 111–22, §203(f)(1)(A)(i), inserted “or any of its owners, officers, or directors” after “mortgagee or lender” in introductory provisions.
 
 Subsec. (b)(1)(H). Pub. L. 111–22, §203(f)(1)(A)(ii), substituted “subchapter I or II of this chapter, or any implementing regulation, handbook, or mortgagee letter that is issued under this chapter.” for “subchapter I, II, or IX–A (as such subchapter existed immediately before December 15, 1989) of this chapter or any implementing regulation or handbook that is issued under this chapter.”
 
@@ -146,19 +146,19 @@ Subsec. (b)(2)(D). Pub. L. 111–22, §203(f)(1)(B), added subpar. (D).
 
 Subsec. (b)(3). Pub. L. 111–22, §203(f)(1)(C), amended par. (3) generally. Prior to amendment, text read as follows: “Before taking action to impose a civil money penalty for a violation under paragraph (1)(D) or (F), or paragraph (2)(A), (B), or (C), the Secretary shall inform the Attorney General of the United States.”
 
-Subsec. (g). Pub. L. 111–22, §203(f)(2), substituted “For purposes of this section, a person acts knowingly when a person has actual knowledge of acts or should have known of the acts.” for “The term ‘knowingly’ means having actual knowledge of or acting with deliberate ignorance of or reckless disregard for the prohibitions under this section.”
+Subsec. (g). Pub. L. 111–22, §203(f)(2), substituted “For purposes of this section, a person acts knowingly when a person has actual knowledge of acts or should have known of the acts.” for “The term ‘knowingly’ meanshaving actual knowledge of or acting with deliberate ignorance of or reckless disregard for the prohibitions under this section.”
 
-2006—Subsec. (b)(1)(B)(ii). Pub. L. 109–173 substituted “Deposit Insurance Fund” for “Bank Insurance Fund for banks and through the Savings Association Insurance Fund for savings associations”.
+<b>2006</b>—Subsec. (b)(1)(B)(ii). Pub. L. 109–173 substituted “Deposit Insurance Fund” for “Bank Insurance Fund for banks and through the Savings Association Insurance Fund for savings associations”.
 
 Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(13)(B). See 1996 Amendment note below.
 
-2004—Subsec. (b)(1)(J). Pub. L. 108–447 added subpar. (J).
+<b>2004</b>—Subsec. (b)(1)(J). Pub. L. 108–447 added subpar. (J).
 
-1998—Subsec. (a)(2). Pub. L. 105–276, §601(g), inserted second paragraph.
+<b>1998</b>—Subsec. (a)(2). Pub. L. 105–276, §601(g), inserted second paragraph.
 
 Subsec. (b)(1)(I). Pub. L. 105–276, §601(h), which directed the addition of subpar. (I) after subpar. “(h)”, was executed by adding subpar. (I) after subpar. (H), to reflect the probable intent of Congress.
 
-1997—Pub. L. 105–65, §553(a), amended section catchline generally, substituting “mortgagees, lenders, and other participants in FHA programs” for “mortgagees and lenders”.
+<b>1997</b>—Pub. L. 105–65, §553(a), amended section catchline generally, substituting “mortgagees, lenders, and other participants in FHA programs” for “mortgagees and lenders”.
 
 Subsec. (a)(1). Pub. L. 105–65, §553(b)(1), substituted “If a mortgagee approved under the chapter, a lender holding a contract of insurance under subchapter I of this chapter, or a principal, officer, or employee of such mortgagee or lender, or other person or entity participating in either an insured mortgage or subchapter I loan transaction under this chapter or providing assistance to the borrower in connection with any such loan, including sellers of the real estate involved, borrowers, closing agents, title companies, real estate agents, mortgage brokers, appraisers, loan correspondents and dealers, knowingly and materially violates any applicable provision of subsection (b) of this section, the Secretary may impose a civil money penalty on the mortgagee or lender, or such other person or entity, in accordance with this section. The penalty under this paragraph shall be in addition to any other available civil remedy or any available criminal penalty, and may be imposed whether or not the Secretary imposes other administrative sanctions.” for “Whenever a mortgagee approved under this chapter, or a lender holding a contract of insurance under subchapter I of this chapter, knowingly and materially violates any of the provisions of subsection (b) of this section, the Secretary may impose a civil money penalty on the mortgagee or lender in accordance with the provisions of this section.”
 
@@ -174,7 +174,7 @@ Subsec. (d)(1). Pub. L. 105–65, §553(d)(2), inserted “or such other person 
 
 Subsec. (e). Pub. L. 105–65, §553(d)(3), inserted “or such other person or entity” after “lender” in two places.
 
-1996—Subsec. (b)(1)(B)(ii). Pub. L. 104–208, §2704(d)(13)(B), which directed the amendment of section 526(b)(1)(B)(ii) of the National Housing Act by substituting “Deposit Insurance Fund” for “Bank Insurance Fund for banks and through the Savings Association Insurance Fund for savings associations” and which substitution was probably intended by Congress to be made in subsec. (b)(1)(B)(ii) of this section, section 536 of the National Housing Act, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+<b>1996</b>—Subsec. (b)(1)(B)(ii). Pub. L. 104–208, §2704(d)(13)(B), which directed the amendment of section 526(b)(1)(B)(ii) of the National Housing Act by substituting “Deposit Insurance Fund” for “Bank Insurance Fund for banks and through the Savings Association Insurance Fund for savings associations” and which substitution was probably intended by Congress to be made in subsec. (b)(1)(B)(ii) of this section, section 536 of the National Housing Act, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
 #### Effective Date of 2006 Amendment
 

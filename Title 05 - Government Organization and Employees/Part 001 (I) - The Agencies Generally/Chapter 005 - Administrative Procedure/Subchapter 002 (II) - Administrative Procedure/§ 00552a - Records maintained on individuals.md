@@ -494,29 +494,29 @@ Section 552a of former Title 5, Executive Departments and Government Officers an
 
 #### Amendments
 
-2010—Subsec. (a)(8)(B)(ix). Pub. L. 111–148 added cl. (ix).
+<b>2010</b>—Subsec. (a)(8)(B)(ix). Pub. L. 111–148 added cl. (ix).
 
 Subsec. (w). Pub. L. 111–203 added subsec. (w).
 
-2004—Subsec. (b)(10). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (b)(10). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-1999—Subsec. (a)(8)(B)(viii). Pub. L. 106–170 added cl. (viii).
+<b>1999</b>—Subsec. (a)(8)(B)(viii). Pub. L. 106–170 added cl. (viii).
 
-1998—Subsec. (u)(6), (7). Pub. L. 105–362 redesignated par. (7) as (6), substituted “paragraph (3)(D)” for “paragraphs (3)(D) and (6)”, and struck out former par. (6) which read as follows: “The Director of the Office of Management and Budget shall, annually during the first 3 years after the date of enactment of this subsection and biennially thereafter, consolidate in a report to the Congress the information contained in the reports from the various Data Integrity Boards under paragraph (3)(D). Such report shall include detailed information about costs and benefits of matching programs that are conducted during the period covered by such consolidated report, and shall identify each waiver granted by a Data Integrity Board of the requirement for completion and submission of a cost-benefit analysis and the reasons for granting the waiver.”
+<b>1998</b>—Subsec. (u)(6), (7). Pub. L. 105–362 redesignated par. (7) as (6), substituted “paragraph (3)(D)” for “paragraphs (3)(D) and (6)”, and struck out former par. (6) which read as follows: “The Director of the Office of Management and Budget shall, annually during the first 3 years after the date of enactment of this subsection and biennially thereafter, consolidate in a report to the Congress the information contained in the reports from the various Data Integrity Boards under paragraph (3)(D). Such report shall include detailed information about costs and benefits of matching programs that are conducted during the period covered by such consolidated report, and shall identify each waiver granted by a Data Integrity Board of the requirement for completion and submission of a cost-benefit analysis and the reasons for granting the waiver.”
 
-1997—Subsec. (a)(8)(B)(vii). Pub. L. 105–34 added cl. (vii).
+<b>1997</b>—Subsec. (a)(8)(B)(vii). Pub. L. 105–34 added cl. (vii).
 
-1996—Subsec. (a)(8)(B)(iv)(III). Pub. L. 104–193 substituted “section 404(e), 464,” for “section 464”.
+<b>1996</b>—Subsec. (a)(8)(B)(iv)(III). Pub. L. 104–193 substituted “section 404(e), 464,” for “section 464”.
 
 Subsec. (a)(8)(B)(v) to (vii). Pub. L. 104–226 inserted “or” at end of cl. (v), struck out “or” at end of cl. (vi), and struck out cl. (vii) which read as follows: “matches performed pursuant to section 6103(<i>l</i>)(12) of the Internal Revenue Code of 1986 and section 1144 of the Social Security Act;”.
 
 Subsecs. (b)(12), (m)(2). Pub. L. 104–316 substituted “3711(e)” for “3711(f)”.
 
-1993—Subsec. (a)(8)(B)(vii). Pub. L. 103–66 added cl. (vii).
+<b>1993</b>—Subsec. (a)(8)(B)(vii). Pub. L. 103–66 added cl. (vii).
 
-1990—Subsec. (p). Pub. L. 101–508 amended subsec. (p) generally, restating former pars. (1) and (3) as par. (1), adding provisions relating to Data Integrity Boards, and restating former pars. (2) and (4) as (2) and (3), respectively.
+<b>1990</b>—Subsec. (p). Pub. L. 101–508 amended subsec. (p) generally, restating former pars. (1) and (3) as par. (1), adding provisions relating to Data Integrity Boards, and restating former pars. (2) and (4) as (2) and (3), respectively.
 
-1988—Subsec. (a)(8) to (13). Pub. L. 100–503, §5, added pars. (8) to (13).
+<b>1988</b>—Subsec. (a)(8) to (13). Pub. L. 100–503, §5, added pars. (8) to (13).
 
 Subsec. (e)(12). Pub. L. 100–503, §3(a), added par. (12).
 
@@ -538,17 +538,17 @@ Subsec. (u). Pub. L. 100–503, §4, added subsec. (u).
 
 Subsec. (v). Pub. L. 100–503, §6(a), added subsec. (v).
 
-1984—Subsec. (b)(6). Pub. L. 98–497, §107(g)(1), substituted “National Archives and Records Administration” for “National Archives of the United States”, and “Archivist of the United States or the designee of the Archivist” for “Administrator of General Services or his designee”.
+<b>1984</b>—Subsec. (b)(6). Pub. L. 98–497, §107(g)(1), substituted “National Archives and Records Administration” for “National Archives of the United States”, and “Archivist of the United States or the designee of the Archivist” for “Administrator of General Services or his designee”.
 
 Subsec. (<i>l</i>)(1). Pub. L. 98–497, §107(g)(2), substituted “Archivist of the United States” for “Administrator of General Services” in two places.
 
 Subsec. (q). Pub. L. 98–477 designated existing provisions as par. (1) and added par. (2).
 
-1983—Subsec. (b)(12). Pub. L. 97–452 substituted “section 3711(f) of title 31” for “section 3(d) of the Federal Claims Collection Act of 1966 (31 U.S.C. 952(d))”.
+<b>1983</b>—Subsec. (b)(12). Pub. L. 97–452 substituted “section 3711(f) of title 31” for “section 3(d) of the Federal Claims Collection Act of 1966 (31 U.S.C. 952(d))”.
 
 Subsec. (m)(2). Pub. L. 97–452 substituted “section 3711(f) of title 31” for “section 3(d) of the Federal Claims Collection Act of 1966 (31 U.S.C. 952(d))”.
 
-1982—Subsec. (b)(12). Pub. L. 97–365, §2(a), added par. (12).
+<b>1982</b>—Subsec. (b)(12). Pub. L. 97–365, §2(a), added par. (12).
 
 Subsec. (e)(4). Pub. L. 97–375, §201(a), substituted “upon establishment or revision” for “at least annually” after “Federal Register”.
 
@@ -556,7 +556,7 @@ Subsec. (m). Pub. L. 97–365, §2(b), designated existing provisions as par. (1
 
 Subsec. (p). Pub. L. 97–375, §201(b), substituted provisions requiring annual submission of a report by the President to the Speaker of the House and President pro tempore of the Senate relating to the Director of the Office of Management and Budget, individual rights of access, changes or additions to systems of records, and other necessary or useful information, for provisions which had directed the President to submit to the Speaker of the House and the President of the Senate, by June 30 of each calendar year, a consolidated report, separately listing for each Federal agency the number of records contained in any system of records which were exempted from the application of this section under the provisions of subsections (j) and (k) of this section during the preceding calendar year, and the reasons for the exemptions, and such other information as indicate efforts to administer fully this section.
 
-1975—Subsec. (g)(5). Pub. L. 94–183 substituted “to September 27, 1975” for “to the effective date of this section”.
+<b>1975</b>—Subsec. (g)(5). Pub. L. 94–183 substituted “to September 27, 1975” for “to the effective date of this section”.
 
 #### Change of Name
 
@@ -570,7 +570,7 @@ Pub. L. 111–203, title X, §1082, July 21, 2010, 124 Stat. 2080, provided that
 
 Pub. L. 111–203, title X, §1100H, July 21, 2010, 124 Stat. 2113, provided that: “Except as otherwise provided in this subtitle \[subtitle H (§§1081–1100H) of title X of Pub. L. 111–203, see Tables for classification\] and the amendments made by this subtitle, this subtitle and the amendments made by this subtitle, other than sections 1081 \[amending section 8G of Pub. L. 95–452, set out in the Appendix to this title, and enacting provisions set out as a note under section 8G of Pub. L. 95–452\] and 1082 \[amending this section and enacting provisions set out as a note under this section\], shall become effective on the designated transfer date.”
 
-\[The term “designated transfer date” is defined in section 5481(9) of Title 12, Banks and Banking, as the date established under section 5582 of Title 12.\]
+\[The term “designated transfer date” is defined in section 5481(9) of Title 12, Banks and Banking, as the date established under section 5582 of Title 12, which is July 21, 2011.\]
 
 #### Effective Date of 1999 Amendment
 
@@ -676,7 +676,7 @@ Section 6(b) of Pub. L. 100–503 provided that: “The Director shall, pursuant
 
 Section 9 of Pub. L. 100–503 provided that: “Nothing in the amendments made by this Act \[amending this section and repealing provisions set out as a note below\] shall be construed to authorize—
 
-&emsp;“(1) the establishment or maintenance by any agency of a national data bank that combines, merges, or links information on individuals maintained in systems of records by other Federal agencies;
+&emsp;“(1) the establishment or maintenance by any agency of a national data bank that combines, merges, orlinks information on individuals maintained in systems of records by other Federal agencies;
 
 &emsp;“(2) the direct linking of computerized systems of records maintained by Federal agencies;
 
@@ -756,7 +756,7 @@ NOW, THEREFORE, by virtue of the authority vested in me as President of the Unit
 
 1\. Hereafter any Federal department, establishment, or agency may, whenever the head thereof finds it advisable to establish a new system of permanent account numbers pertaining to individual persons, utilize the Social Security Act account numbers assigned pursuant to title 20, section 422.103 of the Code of Federal Regulations and pursuant to paragraph 2 of this order.
 
-2\. The Social Security Administration shall provide for the assignment of an account number to each person who is required by any Federal agency to have such a number but who has not previously been assigned such number by the Administration. The Administration may accomplish this purpose by (a) assigning such numbers to individual persons, (b) assigning blocks of numbers to Federal agencies for reassignment to individual persons, or (c) making such other arrangements for the assignment of numbers as it may deem appropriate.
+2\. The Social Security Administration shall provide for the assignment of an account number to each person who is required by any Federal agency to have sucha number but who has not previously been assigned such number by the Administration. The Administration may accomplish this purpose by (a) assigning such numbers to individual persons, (b) assigning blocks of numbers to Federal agencies for reassignment to individual persons, or (c) making such other arrangements for the assignment of numbers as it may deem appropriate.
 
 3\. The Social Security Administration shall furnish, upon request of any Federal agency utilizing the numerical identification system of accounts provided for in this order, the account number pertaining to any person with whom such agency has an account or the name and other identifying data pertaining to any account number of any such person.
 

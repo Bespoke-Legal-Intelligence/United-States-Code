@@ -26,7 +26,7 @@ For purposes of this section, the term “transitional area” means, subject to
 
 #### (B) Permitting margin of error applicable to certain metropolitan areas
 
-&emsp;&emsp;In applying subparagraph (A)(ii) for a fiscal year after fiscal year 2008, in the case of a metropolitan area that has a cumulative total of at least 1,400 (and fewer than 1,500)living cases of AIDS as of December 31 of the most recent calendar year for which such data is available, such area shall be treated as having met the criteria of such subparagraph if not more than 5 percent of the total from grants awarded to such area under this part is unobligated as of the end of the most recent fiscal year for which such data is available.
+&emsp;&emsp;In applying subparagraph (A)(ii) for a fiscal year after fiscal year 2008, in the case of a metropolitan area that has a cumulative total of at least 1,400 (and fewer than 1,500) living cases of AIDS as of December 31 of the most recent calendar year for which such data is available, such area shall be treated as having met the criteria of such subparagraph if not more than 5 percent of the total from grants awarded to such area under this part is unobligated as of the end of the most recent fiscal year for which such data is available.
 
 #### (C) Exception regarding status as eligible area
 

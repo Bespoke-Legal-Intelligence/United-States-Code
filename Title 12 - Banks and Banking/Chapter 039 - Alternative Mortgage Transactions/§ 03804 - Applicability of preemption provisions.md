@@ -16,7 +16,7 @@
 
 #### Amendments
 
-1983—Subsec. (a). Pub. L. 98–181 inserted “(or to any class or type of alternative mortgage transaction)”.
+<b>1983</b>—Subsec. (a). Pub. L. 98–181 inserted “(or to any class or type of alternative mortgage transaction)”.
 
 #### Effective Date
 

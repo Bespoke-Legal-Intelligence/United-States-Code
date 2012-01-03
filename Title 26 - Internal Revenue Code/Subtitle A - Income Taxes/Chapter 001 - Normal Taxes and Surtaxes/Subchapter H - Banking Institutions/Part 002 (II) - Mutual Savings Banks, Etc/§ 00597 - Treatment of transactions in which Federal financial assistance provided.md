@@ -26,9 +26,9 @@ The treatment for purposes of this chapter of any transaction in which Federal f
 
 For purposes of this section, the term “Federal financial assistance” means—
 
-&emsp;(1) any money or other property provided with respect to a domestic building and loan association by the Federal Savings and Loan Insurance Corporation or the Resolution Trust Corporation pursuant to section 406(f) of the National Housing Act or section 21A of the Federal Home Loan Bank Act (or under any other similar provision of law), and
+&emsp;(1) any money or other property provided with respect to a domestic building and loan association by the Federal Savings and Loan Insurance Corporation or the Resolution Trust Corporation pursuant to section 406(f) of the National Housing Act or section 21A <sup>1</sup> of the Federal Home Loan Bank Act (or under any other similar provision of law), and
 
-&emsp;(2) any money or other property provided with respect to a bank or domestic building and loan association by the Federal Deposit Insurance Corporation pursuant to section 11(f) or 13(c) of the Federal Deposit Insurance Act (or under any other similar provision of law),
+&emsp;(2) any money or other property provided with respect to a bank or domestic building and loan association by the Federal Deposit Insurance Corporation pursuant to section 11(f) or 13(c) of the Federal Deposit InsuranceAct (or under any other similar provision of law),
 
 > regardless of whether any note or other instrument is issued in exchange therefor.
 
@@ -42,7 +42,7 @@ For purposes of this section, the term “domestic building and loan association
 
 Section 406 of the National Housing Act, referred to in subsec. (c)(1), which was classified to section 1729 of Title 12, Banks and Banking, was repealed by Pub. L. 101–73, title IV, §407, Aug. 9, 1989, 103 Stat. 363.
 
-Section 21A of the Federal Home Loan Bank Act, referred to in subsec. (c)(1), is classified to section 1441a of Title 12.
+Section 21A of the Federal Home Loan Bank Act, referred to in subsec. (c)(1), was classified to former section 1441a of Title 12, Banks and Banking, prior to repeal by Pub. L. 111–203, title III, §364(b), July 21, 2010, 124 Stat. 1555.
 
 Sections 11(f) and 13(c) of the Federal Deposit Insurance Act, referred to in subsec. (c)(2), are classified to sections 1821(f) and 1823(c), respectively, of Title 12.
 
@@ -133,4 +133,6 @@ Section 1401(c)(7) of Pub. L. 101–73 provided that: “Any reference to the Fe
 #### Annual Reports on Transactions in Which Federal Financial Assistance Provided
 
 Pub. L. 101–73, title XIV, §1403, Aug. 9, 1989, 103 Stat. 551, which required the Secretary of the Treasury to submit annual reports to the Senate and to the Committee on Ways and Means of the House of Representatives on transactions with respect to which Federal financial assistance subject to this section was provided, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 142 of House Document No. 103–7.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

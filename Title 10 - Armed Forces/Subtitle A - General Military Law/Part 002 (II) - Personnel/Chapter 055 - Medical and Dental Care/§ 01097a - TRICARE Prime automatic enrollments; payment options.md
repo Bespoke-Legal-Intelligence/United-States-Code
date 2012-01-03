@@ -6,7 +6,7 @@ Automatic Enrollment of Certain Dependents.—Each dependent of a member of the 
 
 (b)
 
-Automatic Renewal of Enrollments of Covered Beneficiaries.—(1) An enrollment of acovered beneficiary in TRICARE Prime shall be automatically renewed upon the expiration of the enrollment unless the renewal is declined.
+Automatic Renewal of Enrollments of Covered Beneficiaries.—(1) An enrollment of a covered beneficiary in TRICARE Prime shall be automatically renewed upon the expiration of the enrollment unless the renewal is declined.
 
 (2) Not later than 15 days before the expiration date for an enrollment of a covered beneficiary in TRICARE Prime, the Secretary concerned shall—
 

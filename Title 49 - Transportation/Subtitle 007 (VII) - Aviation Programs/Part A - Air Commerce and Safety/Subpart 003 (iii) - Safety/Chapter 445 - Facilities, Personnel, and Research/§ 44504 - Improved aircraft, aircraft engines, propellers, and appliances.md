@@ -82,7 +82,7 @@ Pub. L. 108–176, title VII, §708, Dec. 12, 2003, 117 Stat. 2582, provided tha
 
 “(a)
 
-In General.—The Administrator of the Federal Aviation Administration shall develop a Center for Excellence focused on applied research and training on the durability and maintainability of advanced materials in transport airframe structures. The Center shall—
+In General.—The Administrator of the Federal Aviation Administration shall develop a Center for Excellence focused on applied research and training onthe durability and maintainability of advanced materials in transport airframe structures. The Center shall—
 
 &emsp;“(1) promote and facilitate collaboration among academia, the Federal Aviation Administration's Transportation Division, and the commercial aircraft industry, including manufacturers, commercial air carriers, and suppliers; and
 
@@ -112,7 +112,7 @@ Objective.—The Administrator of the Federal Aviation Administration shall esta
 
 “(b)
 
-Implementation.—Within 180 days after the date of the enactment of this Act \[Dec. 12, 2003\], the Administrator of the Federal Aviation Administration, in cooperation with the Administrator of the National Aeronautics and Space Administration, shall provide a plan to the Committee on Science \[now Committee on Science and Technology\] of the House of Representatives and to the Committee on Commerce, Science, and Transportation of the Senate for the implementation of the initiative described in subsection (a).”
+Implementation.—Within 180 days after the date of the enactment of this Act \[Dec. 12, 2003\], the Administrator of the Federal Aviation Administration, in cooperation with the Administrator of the National Aeronautics and Space Administration, shall provide a plan to the Committee on Science \[now Committee on Science, Space, and Technology\] of the House of Representatives and to the Committee on Commerce, Science, and Transportation of the Senate for the implementation of the initiative described in subsection (a).”
 
 #### Specialty Metals Consortium
 

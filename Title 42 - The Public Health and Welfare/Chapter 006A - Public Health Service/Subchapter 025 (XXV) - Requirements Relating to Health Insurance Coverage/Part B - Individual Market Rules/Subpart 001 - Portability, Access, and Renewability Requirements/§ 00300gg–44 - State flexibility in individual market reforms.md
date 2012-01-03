@@ -82,7 +82,7 @@
 
 #### (1) Adoption of NAIC models
 
-&emsp;The model act referred to in subsection (a)(1)(D)(i) of this section is the Small Employer and Individual Health Insurance Availability Model Act (adopted by the National Association of Insurance Commissioners on June 3, 1996) insofar as it applies to individual health insurance coverage or the Individual Health Insurance Portability Model Act (also adopted by such Association on such date).
+&emsp;The model act referred to in subsection (a)(1)(D)(i) of this section is the Small Employer and Individual Health Insurance Availability Model Act (adopted by the NationalAssociation of Insurance Commissioners on June 3, 1996) insofar as it applies to individual health insurance coverage or the Individual Health Insurance Portability Model Act (also adopted by such Association on such date).
 
 #### (2) Qualified high risk pool
 

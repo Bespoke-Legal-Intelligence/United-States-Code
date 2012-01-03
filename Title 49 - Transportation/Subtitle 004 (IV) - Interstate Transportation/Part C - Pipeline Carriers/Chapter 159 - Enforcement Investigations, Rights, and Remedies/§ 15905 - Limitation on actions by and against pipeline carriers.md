@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—A pipeline carrier providing transportation or service subject to this partmust begin a civil action to recover charges for transportation or service provided by the carrier within 3 years after the claim accrues.
+In General.—A pipeline carrier providing transportation or service subject to this part must begin a civil action to recover charges for transportation or service provided by the carrier within 3 years after the claim accrues.
 
 (b)
 
@@ -14,7 +14,7 @@ Damages.—A person must file a complaint with the Board to recover damages unde
 
 (d)
 
-Extensions.—The limitation periods under subsection (b) are extended for 6 months from the time written notice is given to the claimant by the carrier of disallowance of any part of the claim specified in the notice if a written claim is given to the carrier within those limitation periods. The limitation periods under subsection (b) and the 2-year period under subsection (c) are extended for 90 days from the time the carrier begins a civil action under subsection (a) to recover charges related to the same transportation or service, or collects (without beginning a civil action under that subsection) the charge for that transportation or service if that action is begun or collection is made within the appropriate period.
+Extensions.—The limitation periods under subsection (b) are extended for 6 months fromthe time written notice is given to the claimant by the carrier of disallowance of any part of the claim specified in the notice if a written claim is given to the carrier within those limitation periods. The limitation periods under subsection (b) and the 2-year period under subsection (c) are extended for 90 days from the time the carrier begins a civil action under subsection (a) to recover charges related to the same transportation or service, or collects (without beginning a civil action under that subsection) the charge for that transportation or service if that action is begun or collection is made within the appropriate period.
 
 (e)
 

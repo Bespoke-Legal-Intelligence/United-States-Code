@@ -74,7 +74,7 @@ An application for designation as a Weed-and-Seed community for purposes of subs
 
 #### (2) Uses
 
-&emsp;For each grant under this subsection, the community receiving that grant may not use any of the grant amounts for construction, except that the Assistant Attorney General may authorize use of grant amounts for incidental or minor construction, renovation, or remodeling.
+&emsp;For each grant under this subsection, the community receiving that grant may not useany of the grant amounts for construction, except that the Assistant Attorney General may authorize use of grant amounts for incidental or minor construction, renovation, or remodeling.
 
 #### (3) Limitations
 

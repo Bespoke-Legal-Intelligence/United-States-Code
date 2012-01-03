@@ -6,7 +6,7 @@ Establishment.—There is a Commission of Fine Arts.
 
 (b)
 
-Composition.—The Commission is composed of seven well-qualified judges of the finearts, appointed by the President, who serve for four years each or until their successors are appointed and qualified.
+Composition.—The Commission is composed of seven well-qualified judges of the fine arts, appointed by the President, who serve for four years each or until their successors are appointed and qualified.
 
 (c)
 

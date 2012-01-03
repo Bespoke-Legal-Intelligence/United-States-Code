@@ -1,6 +1,6 @@
 ### §450jj–4. Transfer of land
 
-Where appropriate in the discretion of the Secretary of the Interior, he may transfer by lease or otherwise, to any appropriate person or governmental entity, land owned by the United States (or any interest therein) which has been acquired by the Secretary under section 450jj–3 of this title. Any such transfer shall be consistent with the management plan for the area and with the requirements of section 460<i>l</i>–22 of this title and shall be subject to such conditions and restrictions as the Secretary deems necessary to carry out the purposes of sections 450jj to 450jj–9 of this title, including terms and conditions which provide for—
+Where appropriate in the discretion of the Secretary of the Interior, he may transfer by leaseor otherwise, to any appropriate person or governmental entity, land owned by the United States (or any interest therein) which has been acquired by the Secretary under section 450jj–3 of this title. Any such transfer shall be consistent with the management plan for the area and with the requirements of section 460<i>l</i>–22 of this title and shall be subject to such conditions and restrictions as the Secretary deems necessary to carry out the purposes of sections 450jj to 450jj–9 of this title, including terms and conditions which provide for—
 
 &emsp;(1) the continuation of existing uses of the land which are compatible with the Memorial,
 

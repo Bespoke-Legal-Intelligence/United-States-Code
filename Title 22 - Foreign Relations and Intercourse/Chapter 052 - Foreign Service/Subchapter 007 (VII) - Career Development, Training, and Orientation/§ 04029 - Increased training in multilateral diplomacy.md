@@ -26,5 +26,5 @@ The Secretary shall ensure that employees of the Department of State who are mem
 
 #### Codification
 
-Section was enacted as part of the Intelligence Reform and Terrorism Prevention Act of 2004, and also as part of the 9/11 Commission Implementation Act of 2004, and not as part of the Foreign Service Act of 1980 which comprises this chapter.
+Section was enacted as part of the Intelligence Reform and Terrorism Prevention Act of 2004, and also aspart of the 9/11 Commission Implementation Act of 2004, and not as part of the Foreign Service Act of 1980 which comprises this chapter.
 

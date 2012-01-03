@@ -22,7 +22,7 @@ Each such application shall describe—
 
 &emsp;(4) how the State educational agency will evaluate annually the implementation of such reforms and measure the extent to which the reforms have resulted in increased student academic achievement; and
 
-&emsp;(5) how the State educational agency will provide technical assistance to the local educational agency or consortia of local educational agencies, and to participating schools, in evaluating, developing, and implementing comprehensive school reform.
+&emsp;(5) how the State educational agency will provide technical assistance to the local educational agency or consortia of local educational agencies, and to participatingschools, in evaluating, developing, and implementing comprehensive school reform.
 
 (Pub. L. 89–10, title I, §1603, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1602.)
 

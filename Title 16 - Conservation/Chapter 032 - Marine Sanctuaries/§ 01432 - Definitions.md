@@ -30,7 +30,7 @@ As used in this chapter, the term—
 
 &emsp;&emsp;(E) the cost of enforcement actions undertaken by the Secretary in response to the destruction or loss of, or injury to, a sanctuary resource;
 
-&emsp;(7) “response costs” means the costs of actions taken or authorized by the Secretary tominimize destruction or loss of, or injury to, sanctuary resources, or to minimize the imminent risks of such destruction, loss, or injury, including costs related to seizure, forfeiture, storage, or disposal arising from liability under section 1443 of this title;
+&emsp;(7) “response costs” means the costs of actions taken or authorized by the Secretary to minimize destruction or loss of, or injury to, sanctuary resources, or to minimize the imminent risks of such destruction, loss, or injury, including costs related to seizure, forfeiture, storage, or disposal arising from liability under section 1443 of this title;
 
 &emsp;(8) “sanctuary resource” means any living or nonliving resource of a national marine sanctuary that contributes to the conservation, recreational, ecological, historical, educational, cultural, archeological, scientific, or aesthetic value of the sanctuary; and
 
@@ -98,7 +98,7 @@ Section 210 of title II of Pub. L. 100–627 provided that: “Not later than on
 
 #### Additional Definitions
 
-Section 3 of Pub. L. 92–532, which is classified to section 1402 of Title 33, Navigation and Navigable Waters, defines for purposes of this chapter the terms “Administrator”, “Ocean waters”, “Material”, “United States”, “Person”, “Dumping”, “District Court of the United States”, “Dredged material”, “High-level radioactive waste”, and “Transport” or “Transportation”.
+Section 3 of Pub. L. 92–532, which is classified to section 1402 of Title 33, Navigation and Navigable Waters, defines for purposes of this chapter the terms “Administrator”, “Ocean waters”, “Material”, “United States”, “Person”, “Dumping”, “District Court of theUnited States”, “Dredged material”, “High-level radioactive waste”, and “Transport” or “Transportation”.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

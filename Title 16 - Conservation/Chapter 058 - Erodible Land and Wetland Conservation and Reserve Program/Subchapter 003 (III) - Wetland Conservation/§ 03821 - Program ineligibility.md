@@ -10,7 +10,7 @@ Except as provided in this subchapter and notwithstanding any other provision of
 
 #### (b) Ineligibility for certain loans and payments
 
-If a person is determined to have committed a violation under subsection (a) of this section during a crop year, the Secretary shall determine which of, and the amount of, the following loans and payments for which the person shall be ineligible:
+If a person is determined to have committed a violation under subsection (a) of this section during a crop year, the Secretary shall determine which of, and the amount of, the followingloans and payments for which the person shall be ineligible:
 
 &emsp;(1) Contract payments under a production flexibility contract, marketing assistance loans, and any type of price support or payment made available under the Agricultural Market Transition Act \[7 U.S.C. 7201 et seq.\], the Commodity Credit Corporation Charter Act (15 U.S.C. 714 et seq.), or any other Act.
 
@@ -28,7 +28,7 @@ If a person is determined to have committed a violation under subsection (a) of 
 
 #### (c) Wetland conversion
 
-Except as provided in section 3822 of this title and notwithstanding any other provision of law, any person who in any crop year beginning after November 28, 1990, converts a wetland by draining, dredging, filling, leveling, or any other means for the purpose, or to have the effect, of making the production of an agricultural commodity possible on such converted wetland shallbe ineligible for those payments, loans, or programs specified in subsection (b) of this section for that crop year and all subsequent crop years.
+Except as provided in section 3822 of this title and notwithstanding any other provision of law, any person who in any crop year beginning after November 28, 1990, converts a wetland by draining, dredging, filling, leveling, or any other means for the purpose, or to have the effect, of making the production of an agricultural commodity possible on such converted wetland shall be ineligible for those payments, loans, or programs specified in subsection (b) of this section for that crop year and all subsequent crop years.
 
 #### (d) Prior loans
 

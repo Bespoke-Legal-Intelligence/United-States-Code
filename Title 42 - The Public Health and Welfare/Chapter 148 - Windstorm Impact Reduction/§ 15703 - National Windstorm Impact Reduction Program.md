@@ -18,7 +18,7 @@ Not later than 90 days after October 25, 2004, the Director shall establish an I
 
 &emsp;(3) The National Oceanic and Atmospheric Administration shall support atmospheric sciences research to improve the understanding of the behavior of windstorms and their impact on buildings, structures, and lifelines.
 
-&emsp;(4) The Federal Emergency Management Agency shall support the development of risk assessment tools and effective mitigation techniques, windstorm-related data collection and analysis, public outreach, information dissemination, and implementation of mitigation measures consistent with the Agency's all-hazards approach.
+&emsp;(4) The Federal Emergency Management Agency shall support the development of riskassessment tools and effective mitigation techniques, windstorm-related data collection and analysis, public outreach, information dissemination, and implementation of mitigation measures consistent with the Agency's all-hazards approach.
 
 #### (d) Program components
 
@@ -48,7 +48,7 @@ Not later than 90 days after October 25, 2004, the Director shall establish an I
 
 &emsp;&emsp;(B) development of cost-effective and affordable windstorm-resistant systems, structures, and materials for use in new construction and retrofit of existing construction; and
 
-&emsp;&emsp;(C) outreach and information dissemination related to cost-effective and affordableconstruction techniques, loss estimation and risk assessment methodologies, and other pertinent information regarding windstorm phenomena to Federal, State, and local officials, the construction industry, and the general public.
+&emsp;&emsp;(C) outreach and information dissemination related to cost-effective and affordable construction techniques, loss estimation and risk assessment methodologies, and other pertinent information regarding windstorm phenomena to Federal, State, and local officials, the construction industry, and the general public.
 
 #### (e) Implementation plan
 

@@ -32,7 +32,7 @@ In this section:
 
 &emsp;&emsp;(A) described in section 1722(d) of this title; and
 
-&emsp;&emsp;(B) with respect to nongovernmental organizations, subject to regulations promulgated or guidelines issued to carry out this section, including United States audit requirements that are applicable to nongovernmental organizations.
+&emsp;&emsp;(B) with respect to nongovernmental organizations, subject to regulations promulgated or guidelines issued to carry out thissection, including United States audit requirements that are applicable to nongovernmental organizations.
 
 #### (b) Study; field-based projects
 
@@ -66,7 +66,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;Any eligible commodity that is procured for a field-based project carried out under subsection (b)(2) shall be procured through any approach or methodology that the Secretaryconsiders to be an effective approach or methodology to provide adequate information regarding the manner by which to expedite, to the maximum extent practicable, the provision of food aid to affected populations without significantly increasing commodity costs for low-income consumers who procure commodities sourced from the same markets at which the eligible commodity is procured.
+&emsp;Any eligible commodity that is procured for a field-based project carried out under subsection (b)(2) shall be procured through any approach or methodology that the Secretary considers to be an effective approach or methodology to provide adequate information regarding the manner by which to expedite, to the maximum extent practicable, the provision of food aid to affected populations without significantly increasing commodity costs for low-income consumers who procure commodities sourced from the same markets at which the eligible commodity is procured.
 
 #### (2) Requirements
 
@@ -132,7 +132,7 @@ In this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;To be eligible to receive a grant from, or enter into a cooperative agreement with, the Secretary under this subsection, an eligible organization shall submit to the Secretary an application by such date, in such manner, and containing such information as the Secretary may require.
+&emsp;&emsp;&emsp;To be eligible to receive a grant from, or enter into a cooperative agreement with,the Secretary under this subsection, an eligible organization shall submit to the Secretary an application by such date, in such manner, and containing such information as the Secretary may require.
 
 #### (ii) Other applicable requirements
 

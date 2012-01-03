@@ -22,7 +22,7 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 #### Codification
 
-Another section 620J of Pub. L. 87–195 is classified to section 2378d of this title.
+Another section 620J of Pub. L. 87–195 was renumbered section 620m and is classified to section 2378d of this title.
 
 #### Delegation of Functions
 

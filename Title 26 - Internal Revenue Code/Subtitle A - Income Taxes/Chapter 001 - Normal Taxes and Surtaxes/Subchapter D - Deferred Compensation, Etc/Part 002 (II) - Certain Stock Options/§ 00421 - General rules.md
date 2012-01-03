@@ -26,7 +26,7 @@ If the transfer of a share of stock to an individual pursuant to his exercise of
 
 #### (2) Deduction for estate tax
 
-&emsp;If an amount is required to be included under section 423(c) in gross income of the estate of the deceased employee or of a person described in paragraph (1), there shall be allowed to the estate or such person a deduction with respect to the estate tax attributable to the inclusion in the taxable estate of the deceased employee of the net value for estate tax purposes of the option. For this purpose, the deduction shall be determined under section 691(c) as if the option acquired from the deceased employee were an item of gross income in respect of the decedent under section 691 and as if the amount includible in gross income under section 423(c) were an amount included in gross income under section 691 in respect of such item of gross income.
+&emsp;If an amount is required to be included under section 423(c) in gross income of the estate of the deceased employee or of a persondescribed in paragraph (1), there shall be allowed to the estate or such person a deduction with respect to the estate tax attributable to the inclusion in the taxable estate of the deceased employee of the net value for estate tax purposes of the option. For this purpose, the deduction shall be determined under section 691(c) as if the option acquired from the deceased employee were an item of gross income in respect of the decedent under section 691 and as if the amount includible in gross income under section 423(c) were an amount included in gross income under section 691 in respect of such item of gross income.
 
 #### (3) Basis of shares acquired
 
@@ -96,7 +96,7 @@ Amendment by Pub. L. 97–34 applicable with respect to options granted on or af
 
 Section 221(e) of Pub. L. 88–272, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-“(1) Except as provided in paragraphs (2) and (3), the amendments made by this section \[enacting sections 422 to 425 and 6039, amending this section, sections 402, 691, 6652, 6678, and the analysis preceding sections 401 and 6031, and renumbering section 3039 as 3040 of this title\] shall apply to taxable years ending after December 31, 1963.
+“(1) Except as provided in paragraphs (2) and (3), the amendments made by this section \[enacting sections 422 to 425 and 6039, amending this section, sections 402, 691, 6652, 6678, and the analysis preceding sections 401 and 6031, and renumbering section 3039 as 3040 of thistitle\] shall apply to taxable years ending after December 31, 1963.
 
 “(2) The amendments made by paragraphs (1) and (3) of subsection (b) \[enacting section 3039, renumbering former section 3039 as 3040, and amending section 6678 of this title\] and paragraph (2) of section 6652(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by paragraph (2) of subsection (b)), shall apply to stock transferred pursuant to options exercised on or after January 1, 1964.
 

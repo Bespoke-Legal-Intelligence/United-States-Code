@@ -8,7 +8,7 @@
 
 #### (2) Extension of time
 
-&emsp;The 2-year period prescribed in paragraph (1) shall be extended for such period as may be agreed upon in writing between the taxpayer and the Secretary.
+&emsp;The 2-year period prescribed in paragraph (1) shall be extended for such period as may beagreed upon in writing between the taxpayer and the Secretary.
 
 #### (3) Waiver of notice of disallowance
 
@@ -50,7 +50,7 @@ Recovery of an erroneous refund by suit under section 7405 shall be allowed only
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–589 effective Oct. 1, 1979, but not applicable to proceedings under Title 11, Bankruptcy, commenced before Oct. 1, 1979, see section 7(e)of Pub. L. 96–589, set out as a note under section 108 of this title.
+Amendment by Pub. L. 96–589 effective Oct. 1, 1979, but not applicable to proceedings under Title 11, Bankruptcy, commenced before Oct. 1, 1979, see section 7(e) of Pub. L. 96–589, set out as a note under section 108 of this title.
 
 #### Effective Date of 1966 Amendment
 

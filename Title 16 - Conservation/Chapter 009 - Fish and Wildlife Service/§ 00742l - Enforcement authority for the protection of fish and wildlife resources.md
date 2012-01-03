@@ -30,7 +30,7 @@ Notwithstanding any other provision of law, the Secretary of the Interior and th
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), notwithstanding any other provision of law, all fish, wildlife, plants, or any other items abandoned or forfeited to the United States under any laws administered by the Secretary of the Interior or the Secretary of Commerce relating to fish, wildlife, or plants, shall be disposed of by either Secretary in such a manner as he deems appropriate (including, but not limited to, loan, gift, sale, or destruction).
+&emsp;Subject to paragraph (2), notwithstanding any other provision of law, all fish, wildlife, plants, or any other items abandoned or forfeited to the United States under any laws administered by the Secretary of the Interior or the Secretary of Commerce relating to fish, wildlife, or plants, shall be disposed of by either Secretary in such a manner as he deemsappropriate (including, but not limited to, loan, gift, sale, or destruction).
 
 #### (2) Prohibition on sale of certain items
 

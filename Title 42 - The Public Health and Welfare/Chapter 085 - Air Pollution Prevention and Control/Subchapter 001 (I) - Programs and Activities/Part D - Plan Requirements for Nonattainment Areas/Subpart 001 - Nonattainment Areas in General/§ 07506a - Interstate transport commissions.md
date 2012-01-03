@@ -2,7 +2,7 @@
 
 #### (a) Authority to establish interstate transport regions
 
-Whenever, on the Administrator's own motion or by petition from the Governor of any State, the Administrator has reason to believe that theinterstate transport of air pollutants from one or more States contributes significantly to a violation of a national ambient air quality standard in one or more other States, the Administrator may establish, by rule, a transport region for such pollutant that includes such States. The Administrator, on the Administrator's own motion or upon petition from the Governor of any State, or upon the recommendation of a transport commission established under subsection (b) of this section, may—
+Whenever, on the Administrator's own motion or by petition from the Governor of any State, the Administrator has reason to believe that the interstate transport of air pollutants from one or more States contributes significantly to a violation of a national ambient air quality standard in one or more other States, the Administrator may establish, by rule, a transport region for such pollutant that includes such States. The Administrator, on the Administrator's own motion or upon petition from the Governor of any State, or upon the recommendation of a transport commission established under subsection (b) of this section, may—
 
 &emsp;(1) add any State or portion of a State to any region established under this subsection whenever the Administrator has reason to believe that the interstate transport of air pollutants from such State significantly contributes to a violation of the standard in the transport region, or
 
@@ -28,7 +28,7 @@ Whenever, on the Administrator's own motion or by petition from the Governor of 
 
 #### (2) Recommendations
 
-&emsp;The transport commission shall assess the degree of interstate transport of the pollutant or precursors to the pollutant throughout the transport region, assess strategies for mitigating the interstate pollution, and recommend to the Administrator such measures as the Commission determines to be necessary to ensure that the plans for the relevant States meet the requirements of section 7410(a)(2)(D) of this title. Such commission shall not be subject to the provisions of the Federal Advisory Committee Act (5 U.S.C. App.).
+&emsp;The transport commission shall assess the degree of interstate transport of the pollutant or precursors to the pollutant throughout the transport region, assess strategies for mitigating the interstate pollution, and recommendto the Administrator such measures as the Commission determines to be necessary to ensure that the plans for the relevant States meet the requirements of section 7410(a)(2)(D) of this title. Such commission shall not be subject to the provisions of the Federal Advisory Committee Act (5 U.S.C. App.).
 
 #### (c) Commission requests
 

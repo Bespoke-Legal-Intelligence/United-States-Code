@@ -10,13 +10,17 @@
 
 (June 19, 1934, ch. 652, title III, §316, as added July 16, 1952, ch. 879, §12, 66 Stat. 717; amended Pub. L. 98–214, §4(a), Dec. 8, 1983, 97 Stat. 1467.)
 
+#### References in Text
+
+This chapter, referred to in subsec. (a)(1), was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
+
 #### Prior Provisions
 
 A prior section 316 of act June 19, 1934, related to lotteries and similar devices, prior to repeal by act June 25, 1948, ch. 645, §21, 62 Stat. 862, eff. Sept. 1, 1948. See section 1304 of Title 18, Crimes and Criminal Procedure.
 
 #### Amendments
 
-<b>1983</b>—Subsec. (a). Pub. L. 98–214, §4(a)(1), (2), designated existing provisions as par. (1), substituted “and shall be given reasonable opportunity, of at least thirty days, to protest such proposed order of modification; except that, where safety of life or property is involved,the Commission may by order provide, for a shorter period of notice” for “and shall have been given reasonable opportunity, in no event less than thirty days, to show cause by public hearing, if requested, why such order of modification should not issue: <i>Provided</i>, That where safety of life or property is involved, the Commission may by order provide for a shorter period of notice”, and added pars. (2) and (3).
+<b>1983</b>—Subsec. (a). Pub. L. 98–214, §4(a)(1), (2), designated existing provisions as par. (1), substituted “and shall be given reasonable opportunity, of at least thirty days, to protest such proposed order of modification; except that, where safety of life or property is involved, the Commission may by order provide, for a shorter period of notice” for “and shall have been given reasonable opportunity, in no event less than thirty days, to show cause by public hearing, if requested, why such order of modification should not issue: <i>Provided</i>, That where safety of life or property is involved, the Commission may by order provide for a shorter period of notice”, and added pars. (2) and (3).
 
 Subsec. (b). Pub. L. 98–214, §4(a)(3), inserted “; except that, with respect to any issue that addresses the question of whether the proposed action would modify the license or permit of a person described in subsection (a)(2) of this section, such burdens shall be as determined by the Commission”.
 

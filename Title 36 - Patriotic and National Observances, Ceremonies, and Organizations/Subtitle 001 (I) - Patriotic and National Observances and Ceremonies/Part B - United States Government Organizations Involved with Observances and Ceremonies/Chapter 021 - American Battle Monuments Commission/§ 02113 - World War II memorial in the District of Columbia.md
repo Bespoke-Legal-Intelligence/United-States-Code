@@ -42,7 +42,7 @@ Special Borrowing Authority.—(1) To assure that groundbreaking, construction, 
 
 (3) The obligations of the Commission shall be issued in amounts and at prices approved by the Secretary. The authority of the Commission to issue obligations under this subsection shall remain available without fiscal year limitation. The Secretary of the Treasury shall purchase any obligations of the Commission to be issued under this subsection, and for such purpose the Secretary of the Treasury may use as a public debt transaction of the United States the proceeds from the sale of any securities issued under chapter 31 of title 31. The purposes for which securities may be issued under such chapter are extended to include any purchase of the Commission's obligations under this subsection.
 
-(4) Repayment of the interest and principal on any funds borrowed by the Commission underparagraph (1) shall be made from amounts in the fund. The Commission may not use for such purpose any funds appropriated for any other activities of the Commission.
+(4) Repayment of the interest and principal on any funds borrowed by the Commission under paragraph (1) shall be made from amounts in the fund. The Commission may not use for such purpose any funds appropriated for any other activities of the Commission.
 
 (e)
 
@@ -70,7 +70,7 @@ Extension of Authority To Establish Memorial.—Notwithstanding section 8903(e) 
 
 #### References in Text
 
-The World War II 50th Anniversary Commemorative Coins Act, referred to in subsec. (b)(1)(C) is Pub. L. 102–414, Oct. 14, 1992, 106 Stat. 2106, which is classified as a note under section 5112 of Title 31, Money and Finance.
+The World War II 50th Anniversary Commemorative Coins Act, referred to in subsec. (b)(1)(C) is Pub. L.102–414, Oct. 14, 1992, 106 Stat. 2106, which is classified as a note under section 5112 of Title 31, Money and Finance.
 
 #### Amendments
 

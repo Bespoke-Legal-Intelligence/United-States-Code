@@ -18,7 +18,7 @@ The Secretary shall take such action as may be necessary to assure that persons 
 
 &emsp;&emsp;(B) excludes any Head Start agency expenditure for a health, medical, life insurance, disability, retirement, or any other employee welfare or pension benefit.
 
-(Pub. L. 97–35, title VI, §653, Aug. 13, 1981, 95 Stat. 507; Pub. L. 101–501, title I, §122, Nov. 3, 1990, 104 Stat. 1237; Pub. L. 110–134, §22, Dec. 12, 2007, 121 Stat. 1442.)
+(Pub. L. 97–35, title VI, §653, Aug. 13, 1981, 95 Stat. 507; Pub. L. 101–501, title I, §122, Nov. 3,1990, 104 Stat. 1237; Pub. L. 110–134, §22, Dec. 12, 2007, 121 Stat. 1442.)
 
 #### Amendments
 

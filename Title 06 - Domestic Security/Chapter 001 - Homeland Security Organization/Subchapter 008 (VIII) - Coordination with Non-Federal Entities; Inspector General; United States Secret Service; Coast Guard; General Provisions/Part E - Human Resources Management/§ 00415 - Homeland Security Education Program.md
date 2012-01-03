@@ -44,7 +44,7 @@ To maximize efficiency and effectiveness in carrying out the Program, the Admini
 
 #### (3) Recovery of payment
 
-&emsp;If an employee who is required to make a payment under this subsection does not make the payment, a sum equal to the amount ofthe expenses incurred by the Government for the education of that employee is recoverable by the Government from the employee or his estate by—
+&emsp;If an employee who is required to make a payment under this subsection does not make the payment, a sum equal to the amount of the expenses incurred by the Government for the education of that employee is recoverable by the Government from the employee or his estate by—
 
 &emsp;&emsp;(A) setoff against accrued pay, compensation, amount of retirement credit, or other amount due the employee from the Government; or
 
@@ -55,4 +55,6 @@ To maximize efficiency and effectiveness in carrying out the Program, the Admini
 #### Change of Name
 
 The reference to the “Administrator” in text probably means the Administrator of the Federal Emergency Management Agency. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “law”.</i>
 

@@ -130,7 +130,7 @@ As used in this part:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;An institution whose cohort default rate is equal to or greater than the threshold percentage specified in paragraph (2)(B)(iv)in any fiscal year shall establish a default prevention task force to prepare a plan to—
+&emsp;&emsp;&emsp;An institution whose cohort default rate is equal to or greater than the threshold percentage specified in paragraph (2)(B)(iv) in any fiscal year shall establish a default prevention task force to prepare a plan to—
 
 &emsp;&emsp;&emsp;&emsp;(I) identify the factors causing the institution's cohort default rate to exceed such threshold;
 
@@ -156,7 +156,7 @@ As used in this part:
 
 #### (A) In general
 
-&emsp;&emsp;An institution that demonstrates to the Secretary that the institution's participation rate index is equal to or less than 0.0375 for any of the 3 most recent fiscal years for which data is available shall not be subject to paragraph (2). The participation rate index shall be determined by multiplying the institution's cohort default rate for loans under this part or part C of this subchapter, or weighted average cohort default rate for loans under this part and part C of this subchapter, by the percentage of the institution's regular students, enrolled on at least a half-time basis, who received a loan made under this part or part C of this subchapter for a 12-month period ending during the 6 months immediately preceding the fiscal year for which the cohort of borrowers used to calculate the institution's cohort default rate is determined.
+&emsp;&emsp;An institution that demonstrates to the Secretary that the institution's participation rate index is equal to or less than 0.0625for any of the 3 most recent fiscal years for which data is available shall not be subject to paragraph (2). The participation rate index shall be determined by multiplying the institution's cohort default rate for loans under this part or part C of this subchapter, or weighted average cohort default rate for loans under this part and part C of this subchapter, by the percentage of the institution's regular students, enrolled on at least a half-time basis, who received a loan made under this part or part C of this subchapter for a 12-month period ending during the 6 months immediately preceding the fiscal year for which the cohort of borrowers used to calculate the institution's cohort default rate is determined.
 
 #### (B) Data
 
@@ -250,7 +250,7 @@ As used in this part:
 
 &emsp;&emsp;(B) the termination of the lender's status under paragraph (3) would be a hardship to the present or for prospective students of the eligible institution, after considering the management of that institution, the ability of that institution to improve the collection of loans, the opportunities that institution offers to economically disadvantaged students, and other related factors,
 
-> &emsp;the Secretary shall waive the provisions of paragraph (3) with respect to that institution. Any determination required under this paragraph shall be made by the Secretary prior to the termination of an eligible institution as a lender under the exception of paragraph (3). Whenever the Secretary grants a waiver pursuant to this paragraph, the Secretary shallprovide technical assistance to the institution concerned in order to improve the collection rate of such loans.
+> &emsp;the Secretary shall waive the provisions of paragraph (3) with respect to that institution. Any determination required under this paragraph shall be made by the Secretary prior to the termination of an eligible institution as a lender under the exception of paragraph (3). Whenever the Secretary grants a waiver pursuant to this paragraph, the Secretary shall provide technical assistance to the institution concerned in order to improve the collection rate of such loans.
 
 #### (5) Disqualification for use of certain incentives
 
@@ -262,7 +262,7 @@ As used in this part:
 
 &emsp;&emsp;(C) entered into any type of consulting arrangement, or other contract to provide services to a lender, with an employee who is employed in the financial aid office of an institution of higher education, or who otherwise has responsibilities with respect to student loans or other financial aid of the institution;
 
-&emsp;&emsp;(D) compensated an employee who is employed in the financial aid office of an institution of higher education, or who otherwise has responsibilities with respect to student loans or other financial aid of the institution, and who is serving on an advisory board, commission, or group established by a lender or group of lenders for providing such service, except that the eligible lender may reimburse such employee for reasonable expenses incurred in providing such service;
+&emsp;&emsp;(D) compensated an employee who is employed in the financial aid office of an institution of higher education, or who otherwise has responsibilities with respect to student loans or other financial aid of the institution, and who is serving on an advisoryboard, commission, or group established by a lender or group of lenders for providing such service, except that the eligible lender may reimburse such employee for reasonable expenses incurred in providing such service;
 
 &emsp;&emsp;(E) performed for an institution of higher education any function that such institution of higher education is required to perform under this title, except that a lender shall be permitted to perform functions on behalf of such institution in accordance with section 1092(b) or 1092(<i>l</i>) of this title;
 
@@ -302,7 +302,7 @@ As used in this part:
 
 &emsp;&emsp;&emsp;(iii) the requirements of clauses (iv) and (ix) of paragraph (2)(A) shall not apply to the eligible lender, institution, or organization; and
 
-&emsp;&emsp;&emsp;(iv) the eligible lender, institution, and organization shall ensure that the loans made or held by the eligible lender astrustee for the institution or organization, as the case may be, are included in a compliance audit in accordance with clause (vii) of paragraph (2)(A).
+&emsp;&emsp;&emsp;(iv) the eligible lender, institution, and organization shall ensure that the loans made or held by the eligible lender as trustee for the institution or organization, as the case may be, are included in a compliance audit in accordance with clause (vii) of paragraph (2)(A).
 
 #### (8) School as lender program audit
 
@@ -354,7 +354,7 @@ Except as provided in subsection (m) of this section, the term “default” inc
 
 &emsp;(A) In the case of a student who has attended and borrowed at more than one school, the student (and such student's subsequent repayment or default) is attributed to each school for attendance at which the student received a loan that entered repayment in the fiscal year.
 
-&emsp;(B) A loan on which a payment is made by the school, such school's owner, agent, contractor, employee, or any other entity or individual affiliated with such school, in order toavoid default by the borrower, is considered as in default for purposes of this subsection.
+&emsp;(B) A loan on which a payment is made by the school, such school's owner, agent, contractor, employee, or any other entity or individual affiliated with such school, in order to avoid default by the borrower, is considered as in default for purposes of this subsection.
 
 &emsp;(C) Any loan which has been rehabilitated before the end of the second fiscal year following the year in which the loan entered repayment is not considered as in default for purposes of this subsection. The Secretary may require guaranty agencies to collect data with respect to defaulted loans in a manner that will permit the identification of any defaulted loan for which (i) the borrower is currently making payments and has made not less than 6 consecutive on-time payments by the end of such second fiscal year, and (ii) a guaranty agency has renewed the borrower's title IV eligibility as provided in section 1078–6(b) of this title.
 
@@ -406,7 +406,7 @@ Except as provided in subsection (m) of this section, the term “default” inc
 
 &emsp;&emsp;(C) an entity described in section 501(c)(3) of such title; or
 
-&emsp;&emsp;(D) acting as a trustee on behalf of a State, political subdivision, authority, agency, instrumentality, or other entity described in subparagraph (A), (B), or (C), regardless of whether such State, political subdivision, authority, agency, instrumentality, or otherentity is an eligible lender under subsection (d).
+&emsp;&emsp;(D) acting as a trustee on behalf of a State, political subdivision, authority, agency, instrumentality, or other entity described in subparagraph (A), (B), or (C), regardless of whether such State, political subdivision, authority, agency, instrumentality, or other entity is an eligible lender under subsection (d).
 
 #### (2) Limitations
 
@@ -464,11 +464,7 @@ Except as provided in subsection (m) of this section, the term “default” inc
 
 &emsp;Not later than 1 year after September 27, 2007, the Secretary shall promulgate regulations in accordance with the provisions of this subsection.
 
-(Pub. L. 89–329, title IV, §435, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1408; amended Pub. L. 100–50, §10(aa), June 3, 1987, 101 Stat. 347; Pub. L. 101–239, title II, §§2003(a)(2), 2007(a), Dec. 19, 1989, 103 Stat. 2113, 2120; Pub. L. 101–508, title III, §3004(a), Nov. 5, 1990, 104 Stat. 1388–26; Pub. L. 101–542, title III, §301, Nov. 8, 1990, 104 Stat. 2387; Pub. L. 102–26, §2(a)(1), Apr. 9, 1991, 105 Stat. 123; Pub. L. 102–325, title IV, §§416(e)(2), 427(a), (b)(1), (c)–(g), July 23, 1992, 106 Stat. 519, 549, 550; Pub. L. 103–66, title IV, §§4046(b)(1), 4106(b), Aug. 10, 1993, 107 Stat. 362, 368; Pub. L. 103–208, §2(c)(55)–(62), Dec. 20, 1993, 107 Stat. 2468, 2469; Pub. L. 103–235, §1, Apr. 28, 1994, 108 Stat. 381; Pub. L. 103–382, title III, §357, Oct. 20, 1994, 108 Stat. 3967; Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §602(b)(1)(A)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–283; Pub. L. 105–244, title I, §102(b)(2), title IV, §429(a)–(c)(1), (d), title IX, §901(d), Oct. 7, 1998, 112 Stat. 1622, 1704–1709, 1828; Pub. L. 106–554, §1(a)(1) \[title III, §§308(a), 312\], Dec. 21, 2000, 114 Stat. 2763, 2763A–45, 2763A–46; Pub. L. 109–171, title VIII, §8011, Feb. 8, 2006, 120 Stat. 165; Pub. L. 109–292, §3(a), Sept. 30, 2006, 120 Stat. 1340; Pub. L. 110–84, title III, §304, Sept. 27, 2007, 121 Stat. 797; Pub. L. 110–109, §4, Oct. 31, 2007, 121 Stat. 1028; Pub. L. 110–315, title IV, §§436(a)(1), (b)–(e)(1), 438(a)(3), Aug. 14, 2008, 122 Stat. 3253–3256, 3258; Pub. L. 111–39, title IV, §402(b)(2), (f)(10), July 1, 2009, 123 Stat. 1940, 1944; Pub. L. 111–152, title II, §2101(b)(3), Mar. 30, 2010, 124 Stat. 1073.)
-
-#### Amendment of Subsection (a)(8)(A)
-
-<i>Pub. L. 110–315, title IV, §436(a)(1)(F), (2), Aug. 14, 2008, 122 Stat. 3254, provided that, effective for fiscal years beginning on or after October 1, 2011, subsection (a)(8)(A) of this section is amended by substituting “0.0625” for “0.0375”.</i>
+(Pub. L. 89–329, title IV, §435, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1408; amended Pub. L. 100–50, §10(aa), June 3, 1987, 101 Stat. 347; Pub. L. 101–239, title II, §§2003(a)(2), 2007(a), Dec. 19, 1989, 103 Stat. 2113, 2120; Pub. L. 101–508, title III, §3004(a), Nov. 5, 1990, 104 Stat. 1388–26; Pub. L. 101–542, title III, §301, Nov. 8, 1990, 104 Stat. 2387; Pub. L. 102–26, §2(a)(1), Apr. 9, 1991, 105 Stat. 123; Pub. L. 102–325, title IV, §§416(e)(2), 427(a), (b)(1), (c)–(g), July 23, 1992, 106 Stat. 519, 549, 550; Pub. L. 103–66, title IV, §§4046(b)(1), 4106(b), Aug. 10, 1993, 107 Stat. 362, 368; Pub. L. 103–208, §2(c)(55)–(62), Dec. 20, 1993, 107 Stat. 2468, 2469; Pub. L. 103–235, §1, Apr. 28, 1994, 108 Stat. 381; Pub. L. 103–382, title III, §357, Oct. 20, 1994, 108 Stat. 3967; Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §602(b)(1)(A)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–283; Pub. L. 105–244, title I, §102(b)(2), title IV, §429(a)–(c)(1), (d), title IX, §901(d), Oct. 7, 1998, 112 Stat. 1622, 1704–1709, 1828; Pub. L. 106–554, §1(a)(1) \[title III, §§308(a), 312\], Dec. 21, 2000, 114 Stat. 2763, 2763A–45, 2763A–46; Pub. L. 109–171, title VIII, §8011, Feb. 8, 2006, 120 Stat. 165; Pub. L. 109–292, §3(a), Sept. 30, 2006, 120 Stat. 1340; Pub. L. 110–84, title III, §304, Sept. 27, 2007, 121 Stat. 797; Pub. L. 110–109, §4, Oct. 31, 2007, 121Stat. 1028; Pub. L. 110–315, title IV, §§436(a)(1), (b)–(e)(1), 438(a)(3), Aug. 14, 2008, 122 Stat. 3253–3256, 3258; Pub. L. 111–39, title IV, §402(b)(2), (f)(10), July 1, 2009, 123 Stat. 1940, 1944; Pub. L. 111–152, title II, §2101(b)(3), Mar. 30, 2010, 124 Stat. 1073.)
 
 #### References in Text
 
@@ -511,6 +507,8 @@ Subsec. (p)(1). Pub. L. 111–39, §402(f)(10)(D), made technical amendment to r
 Subsec. (a)(2)(B)(iii), (iv). Pub. L. 110–315, §436(a)(1)(A)(ii), added cls. (iii) and (iv) and struck out former cl. (iii) which read as follows: “25 percent for any succeeding fiscal year.”
 
 Subsec. (a)(3) to (8). Pub. L. 110–315, §436(a)(1)(B)–(E), added pars. (3) and (7), redesignated former pars. (3), (4), (5), and (6), as (4), (5), (6), and (8), respectively, and, in introductory provisions of par. (5)(A), substituted “For purposes of this subsection, an institution of higher education shall be treated as having exceptional mitigating circumstances that make application of paragraph (2) inequitable, and that provide for regulatory relief under paragraph (3), if such institution, in the opinion of an independent auditor, meets the following criteria:” for “For purposes of paragraph (2)(A)(ii), an institution of higher education shall be treated as having exceptional mitigating circumstances that make application of that paragraph inequitable if such institution, in the opinion of an independent auditor, meets the following criteria:”.
+
+Subsec. (a)(8)(A). Pub. L. 110–315, §436(a)(1)(F), substituted “0.0625” for “0.0375”.
 
 Subsec. (d)(1)(A)(ii). Pub. L. 110–315, §436(b), substituted “part, (III)” for “part, or (III)” and inserted “, or (IV) it is a National or State chartered bank, or a credit union, with assets of less than $1,000,000,000” before semicolon at end.
 
@@ -598,7 +596,7 @@ Subsec. (a)(2)(C). Pub. L. 105–244, §429(a)(1)(B), substituted “July 1, 199
 
 Subsec. (a)(2)(C)(ii). Pub. L. 105–244, §901(d), made technical amendment to reference in original act which appears in text as reference to section 1801(a)(4) of title 25.
 
-Subsec. (a)(3). Pub. L. 105–244, §429(a)(2), in concluding provisions, inserted “for a reasonable period of time, not to exceed 30 days,” after “access” and substituted “used by a guaranty agency in determining whether to pay a claim on a defaulted loan or by the Department in determining an institution's default rate in the loan program under part C of this subchapter” for “of the affected guaranty agencies and loan servicers for a reasonable period of time, not to exceed 30 days”.
+Subsec. (a)(3). Pub. L. 105–244, §429(a)(2), in concluding provisions, inserted “for a reasonable period of time, not to exceed 30 days,” after “access” and substituted “used by a guaranty agency in determining whether to pay a claim on a defaulted loan or by the Department in determining an institution's default rate in the loan program under part C of this subchapter” for “of the affected guaranty agencies andloan servicers for a reasonable period of time, not to exceed 30 days”.
 
 Subsec. (a)(4) to (6). Pub. L. 105–244, §429(a)(3), added pars. (4) to (6).
 
@@ -732,7 +730,7 @@ Effective date.—The amendments made by paragraph (1) \[amending this section\]
 
 “(B)
 
-Transition.—Notwithstanding subparagraph (A), the method of calculating cohort default rates under section 435(m) of the Higher Education Act of 1965 \[20 U.S.C. 1085(m)\] as in effect on the day before the date of enactment of this Act \[Aug. 14, 2008\] shall continue in effect, and the rates so calculated shall be the basis for any sanctions imposed on institutions of higher education because of their cohort default rates, untilthree consecutive years of cohort default rates calculated in accordance with the amendments made by paragraph (1) are available.”
+Transition.—Notwithstanding subparagraph (A), the method of calculating cohort default rates under section 435(m) of the Higher Education Act of 1965 \[20 U.S.C. 1085(m)\] as in effect on the day before the date of enactment of this Act \[Aug. 14, 2008\] shall continue in effect, and the rates so calculated shall be the basis for any sanctions imposed on institutions of higher education because of their cohort default rates, until three consecutive years of cohort default rates calculated in accordance with the amendments made by paragraph (1) are available.”
 
 #### Effective Date of 2007 Amendment
 
@@ -760,7 +758,7 @@ Amendment by Pub. L. 104–208 effective on reorganization effective date as def
 
 #### Effective Date of 1993 Amendments
 
-Amendments by section 2(c)(55), (60)(B) of Pub. L. 103–208 applicable with respect to determination (and appeals from determinations) of cohort default rates for fiscal year 1989 and any succeeding fiscal year, amendments by section 2(c)(56)–(58), (61) of Pub. L. 103–208 effective, except as otherwise provided, as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, amendment by section 2(c)(59) of Pub. L. 103–208 effective on and after 30 days after Dec. 20, 1993, amendment by section 2(c)(60)(A) of Pub. L. 103–208 effective on and after Oct. 1, 1994, and amendment by section 2(c)(62) effective on and after Dec. 20, 1993, see section 5(a), (b)(2), (3), (7), (8) of Pub. L. 103–208, set out as a note under section 1051 of this title.
+Amendments by section 2(c)(55), (60)(B) of Pub. L. 103–208 applicable with respect to determination (and appeals from determinations) of cohort default rates for fiscal year 1989 and any succeeding fiscal year, amendments by section 2(c)(56)–(58), (61) of Pub. L. 103–208 effective, except as otherwise provided, as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, amendment by section 2(c)(59) of Pub. L. 103–208 effective on and after 30 days after Dec. 20, 1993, amendment by section 2(c)(60)(A) of Pub. L. 103–208effective on and after Oct. 1, 1994, and amendment by section 2(c)(62) effective on and after Dec. 20, 1993, see section 5(a), (b)(2), (3), (7), (8) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 
 Amendment by section 4046(b)(1) of Pub. L. 103–66 effective July 1, 1994, see section 4046(c) of Pub. L. 103–66, set out as a note under section 1078–3 of this title.
 

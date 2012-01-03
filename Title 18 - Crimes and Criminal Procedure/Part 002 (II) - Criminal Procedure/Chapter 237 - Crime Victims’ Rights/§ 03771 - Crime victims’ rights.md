@@ -50,7 +50,7 @@ Multiple victims.—In a case involving multiple victims, subsection (d)(2) shal
 
 &emsp;&emsp;(C)
 
-Limitation.—This paragraph relates to the duties of a court in relation to the rights of a crime victim in Federal habeas corpusproceedings arising out of a State conviction, and does not give rise to any obligation or requirement applicable to personnel of any agency of the Executive Branch of the Federal Government.
+Limitation.—This paragraph relates to the duties of a court in relation to the rights of a crime victim in Federal habeas corpus proceedings arising out of a State conviction, and does not give rise to any obligation or requirement applicable to personnel of any agency of the Executive Branch of the Federal Government.
 
 &emsp;&emsp;(D)
 

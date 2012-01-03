@@ -2,11 +2,11 @@
 
 #### (a) Consultation requirements respecting compliance of credit instruments issued to participating creditor
 
-Any department or agency of the United States which administers a credit program in which it extends, insures, or guarantees consumer credit and in which it provides instruments to a creditor which contain any disclosures required by this subchapter shall, prior to the issuance or continued use of such instruments, consult with the Board to assure that such instruments comply with this subchapter.
+Any department or agency of the United States which administers a credit program in which it extends, insures, or guarantees consumer credit and in which it provides instruments to a creditor which contain any disclosures required by this subchapter shall, prior to the issuance or continued use of such instruments, consult with the Bureau to assure that such instruments comply with this subchapter.
 
 #### (b) Inapplicability of Federal civil or criminal penalties to Federal, State, and local agencies
 
-No civil or criminal penalty provided under this subchapter for any violation thereof may be imposed upon the United States or any department or agency thereof, or upon any State or political subdivision thereof, or any agency of any State of political subdivision.
+No civil or criminal penalty provided under this subchapter for any violation thereof may beimposed upon the United States or any department or agency thereof, or upon any State or political subdivision thereof, or any agency of any State of political subdivision.
 
 #### (c) Inapplicability of Federal civil or criminal penalties to participating creditor where violating instrument issued by United States
 
@@ -18,11 +18,9 @@ A creditor participating in a credit program administered, insured, or guarantee
 
 (Pub. L. 90–321, title I, §113, May 29, 1968, 82 Stat. 151; Pub. L. 96–221, title VI, §622(a), Mar. 31, 1980, 94 Stat. 184; Pub. L. 111–203, title X, §1100A(2), July 21, 2010, 124 Stat. 2107.)
 
-#### Amendment of Section
-
-<i>Pub. L. 111–203, title X, §§1100A(2), 1100H, July 21, 2010, 124 Stat. 2107, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Board” each place that term appears and inserting “Bureau”. See Effective Date of 2010 Amendment note below.</i>
-
 #### Amendments
+
+<b>2010</b>—Subsec. (a). Pub. L. 111–203 substituted “Bureau” for “Board”.
 
 <b>1980</b>—Pub. L. 96–221 amended section generally, designating existing provisions as subsec. (b) and adding subsecs. (a), (c), and (d).
 

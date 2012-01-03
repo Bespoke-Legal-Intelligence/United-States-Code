@@ -42,7 +42,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) a qualifying individual described in paragraph (1)(A), or
 
-&emsp;&emsp;&emsp;(ii) a qualifying individual (not described in paragraph (1)(A)) who regularly spends at least 8 hours each day in the taxpayer's household.
+&emsp;&emsp;&emsp;(ii) a qualifying individual (not described in paragraph (1)(A)) who regularly spendsat least 8 hours each day in the taxpayer's household.
 
 #### (C) Dependent care centers
 
@@ -136,7 +136,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) with respect to whom, for the taxable year, a deduction under section 151(c) (relating to deduction for personal exemptions for dependents) is allowable either to the taxpayer or his spouse, or
 
-&emsp;&emsp;(B) who is a child of the taxpayer (within the meaning of section 152(f)(1)) who has not attained the age of 19 at the close of the taxable year.
+&emsp;&emsp;(B) who is a child of the taxpayer (within the meaning of section 152(f)(1)) who has notattained the age of 19 at the close of the taxable year.
 
 > &emsp;For purposes of this paragraph, the term “taxable year” means the taxable year of the taxpayer in which the service is performed.
 
@@ -166,7 +166,7 @@ For purposes of this section—
 
 The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section.
 
-(Added Pub. L. 94–455, title V, §504(a)(1), Oct. 4, 1976, 90 Stat. 1563, §44A; amended Pub. L. 95–600, title I, §121(a), Nov. 6, 1978, 92 Stat. 2779; Pub. L. 97–34, title I §124 (a)–(d), Aug. 13, 1981, 95 Stat.197, 198; Pub. L. 98–21, title I, §122(c)(1), Apr. 20, 1983, 97 Stat. 87; renumbered §21 and amended Pub. L. 98–369, div. A, title IV, §§423(c)(4), 471(c), 474(c), July 18, 1984, 98 Stat. 801, 826, 830; Pub. L. 99–514, title I, §104(b)(1), Oct. 22, 1986, 100 Stat. 2104; Pub. L. 100–203, title X, §10101(a), Dec. 22, 1987, 101 Stat. 1330–384; Pub. L. 100–485, title VII, §703(a)–(c)(1), Oct. 13, 1988, 102 Stat. 2426, 2427; Pub. L. 104–188, title I, §1615(b), Aug. 20, 1996, 110 Stat. 1853; Pub. L. 107–16, title II, §204(a), (b), June 7, 2001, 115 Stat. 49; Pub. L. 107–147, title IV, §418(b), Mar. 9, 2002, 116 Stat. 57; Pub. L. 108–311, title II, §§203, 207(2), (3), Oct. 4, 2004, 118 Stat. 1175, 1177; Pub. L. 109–135, title IV, §404(b), Dec. 21, 2005, 119 Stat. 2634; Pub. L. 110–172, §11(a)(1), Dec. 29, 2007, 121 Stat. 2484.)
+(Added Pub. L. 94–455, title V, §504(a)(1), Oct. 4, 1976, 90 Stat. 1563, §44A; amended Pub. L. 95–600, title I, §121(a), Nov. 6, 1978, 92 Stat. 2779; Pub. L. 97–34, title I §124 (a)–(d), Aug. 13, 1981, 95 Stat. 197, 198; Pub. L. 98–21, title I, §122(c)(1), Apr. 20, 1983, 97 Stat. 87; renumbered §21 and amended Pub. L. 98–369, div. A, title IV, §§423(c)(4), 471(c), 474(c), July 18, 1984, 98 Stat. 801, 826, 830; Pub. L. 99–514, title I, §104(b)(1), Oct. 22, 1986, 100 Stat. 2104; Pub. L. 100–203, title X, §10101(a), Dec. 22, 1987, 101 Stat. 1330–384; Pub. L. 100–485, title VII, §703(a)–(c)(1), Oct. 13, 1988, 102 Stat. 2426, 2427; Pub. L. 104–188, title I, §1615(b), Aug. 20, 1996, 110 Stat. 1853; Pub. L. 107–16, title II, §204(a), (b), June 7, 2001, 115 Stat. 49; Pub. L. 107–147, title IV, §418(b), Mar. 9, 2002, 116 Stat. 57; Pub. L. 108–311, title II, §§203, 207(2), (3), Oct. 4, 2004, 118 Stat. 1175, 1177; Pub. L. 109–135, title IV, §404(b), Dec. 21, 2005, 119 Stat. 2634; Pub. L. 110–172, §11(a)(1), Dec. 29, 2007, 121 Stat. 2484.)
 
 #### Amendment of Section
 
@@ -342,7 +342,7 @@ Amendment by Pub. L. 98–21 applicable to taxable years beginning after Dec. 31
 
 Section 124(f) of Pub. L. 97–34 provided that:
 
-“(1) Except as provided in paragraph (2), the amendments made by this section \[amending this section andenacting section 129 of this title\] shall apply to taxable years beginning after December 31, 1981.
+“(1) Except as provided in paragraph (2), the amendments made by this section \[amending this section and enacting section 129 of this title\] shall apply to taxable years beginning after December 31, 1981.
 
 “(2) The amendments made by subsection (e)(2) \[amending sections 3121, 3306, and 3401 of this title and section 409 of Title 42, The Public Health and Welfare\] shall apply to remuneration paid after December 31, 1981.”
 

@@ -132,7 +132,7 @@ Sections 1212(e) and 1244(b) of Pub. L. 109–280, which directed the amendment 
 
 <b>2006</b>—Subsec. (a)(1). Pub. L. 109–280, §1212(e)(1)(A), substituted “20 percent” for “10 percent”. See Codification note above.
 
-Subsec. (a)(2). Pub. L. 109–280, §1212(e)(1)(B), substituted “5 percent” for “21/2 percent”. See Codification note above.
+Subsec. (a)(2). Pub. L. 109–280, §1212(e)(1)(B), substituted “5 percent” for “2½ percent”. See Codification note above.
 
 Subsec. (c)(2). Pub. L. 109–280, §1212(e)(2), substituted “$10,000,” for “$5,000,” and “$20,000.” for “$10,000.” See Codification note above.
 

@@ -26,7 +26,7 @@ Limitations on Summons Power.—
 
 &emsp;(1)
 
-Scope of power.—The Secretary of the Treasury may take any action described in paragraph (3) or (4) of subsection (a) only in connection with investigations for the purpose of civil enforcement of violations of this subchapter, section 21 of the Federal Deposit Insurance Act, section 411 <sup>1</sup> of the National Housing Act, or chapter 2 of Public Law 91–508 (12 U.S.C. 1951 et seq.) or any regulation under any such provision.
+Scope of power.—The Secretary of the Treasury may take any action described in paragraph (3) or (4) of subsection (a) only inconnection with investigations for the purpose of civil enforcement of violations of this subchapter, section 21 of the Federal Deposit Insurance Act, section 411 <sup>1</sup> of the National Housing Act, or chapter 2 of Public Law 91–508 (12 U.S.C. 1951 et seq.) or any regulation under any such provision.
 
 &emsp;(2)
 
@@ -108,9 +108,9 @@ Notification prohibited.—
 
 In general.—If a financial institution or any director, officer, employee, or agent of any financial institution, voluntarily or pursuant to this section or any other authority, reports a suspicious transaction to a government agency—
 
-&emsp;&emsp;&emsp;(i) the financial institution, director, officer, employee, or agent may not notify any person involved in the transaction that the transaction has been reported; and
+&emsp;&emsp;&emsp;(i) neither the financial institution, director, officer, employee, or agent of such institution (whether or not any such person is still employed by the institution), nor any other current or former director, officer, or employee of, or contractor for, the financial institution or other reporting person, may notify any person involved in the transaction that the transaction has been reported; and
 
-&emsp;&emsp;&emsp;(ii) no officer or employee of the Federal Government or of any State, local, tribal,or territorial government within the United States, who has any knowledge that such report was made may disclose to any person involved in the transaction that the transaction has been reported, other than as necessary to fulfill the official duties of such officer or employee.
+&emsp;&emsp;&emsp;(ii) no current or former officer or employee of or contractor for the Federal Government or of or for any State, local, tribal, or territorial government within the United States, who has any knowledge that such report was made may disclose to any person involved in the transaction that the transaction has been reported, other than as necessary to fulfill the official duties of such officer or employee.
 
 &emsp;&emsp;(B)
 
@@ -122,7 +122,7 @@ Rule of construction.—Notwithstanding the application of subparagraph (A) in a
 
 &emsp;&emsp;&emsp;&emsp;(I) in a written employment reference that is provided in accordance with section 18(w) of the Federal Deposit Insurance Act in response to a request from another financial institution; or
 
-&emsp;&emsp;&emsp;&emsp;(II) in a written termination notice or employment reference that is provided in accordance with the rules of a self-regulatory organization registered with the Securities and Exchange Commission or the Commodity Futures Trading Commission,
+&emsp;&emsp;&emsp;&emsp;(II) in a written termination notice or employment reference that is provided in accordance with the rules of a self-regulatory organization registered with the Securities and Exchange Commissionor the Commodity Futures Trading Commission,
 
 &emsp;&emsp;&nbsp;except that such written reference or notice may not disclose that such information was also included in any such report, or that such report was made.
 
@@ -186,7 +186,7 @@ Regulations.—The Secretary of the Treasury, after consultation with the approp
 
 Concentration accounts.—The Secretary may prescribe regulations under this subsection that govern maintenance of concentration accounts by financial institutions, in order to ensure that such accounts are not used to prevent association of the identity of an individual customer with the movement of funds of which the customer is the direct or beneficial owner, which regulations shall, at a minimum—
 
-&emsp;&emsp;(A) prohibit financial institutions from allowing clients to direct transactions that move their funds into, out of, or through theconcentration accounts of the financial institution;
+&emsp;&emsp;(A) prohibit financial institutions from allowing clients to direct transactions that move their funds into, out of, or through the concentration accounts of the financial institution;
 
 &emsp;&emsp;(B) prohibit financial institutions and their employees from informing customers of the existence of, or the means of identifying, the concentration accounts of the institution; and
 
@@ -262,7 +262,7 @@ In general.—A financial institution described in subparagraphs (A) through (G)
 
 &emsp;(2)
 
-Prevention of indirect service to foreign shell banks.—A covered financial institution shall take reasonable steps to ensure that any correspondent account established, maintained, administered, or managed by that covered financial institution in the United States for a foreign bank is not being used bythat foreign bank to indirectly provide banking services to another foreign bank that does not have a physical presence in any country. The Secretary of the Treasury shall, by regulation, delineate the reasonable steps necessary to comply with this paragraph.
+Prevention of indirect service to foreign shell banks.—A covered financial institution shall take reasonable steps to ensure that any correspondent account established, maintained, administered, or managed by that covered financial institution in the United States for a foreign bank is not being used by that foreign bank to indirectly provide banking services to another foreign bank that does not have a physical presence in any country. The Secretary of the Treasury shall, by regulation, delineate the reasonable steps necessary to comply with this paragraph.
 
 &emsp;(3)
 
@@ -378,7 +378,7 @@ Minimum requirements.—The regulations shall, at a minimum, require financial i
 
 &emsp;(3)
 
-Factors to be considered.—In prescribing regulations under this subsection, the Secretary shall take into consideration the various types of accounts maintained by various types of financial institutions, the various methods of opening accounts, and the various types of identifying information available.
+Factors to be considered.—In prescribing regulations under this subsection, the Secretary shall take into consideration the various types of accounts maintained by varioustypes of financial institutions, the various methods of opening accounts, and the various types of identifying information available.
 
 &emsp;(4)
 
@@ -448,7 +448,7 @@ In general.—Subject to subparagraph (B), the regulations required by paragraph
 
 Technological feasibility.—No regulations shall be prescribed under this subsection before the Secretary certifies to the Congress that the Financial Crimes Enforcement Network has the technological systems in place to effectively and efficiently receive, keep, exploit, protect the security of, and disseminate information from reports of cross-border electronic transmittals of funds to law enforcement and other entities engaged in efforts against money laundering and terrorist financing.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 999; Pub. L. 99–570, title I, §1356(a), (b), (c)(2), Oct. 27, 1986, 100 Stat. 3207–23, 3207–24; Pub. L. 100–690, title VI, §§6185(e), 6469(c), Nov. 18, 1988, 102 Stat. 4357, 4377; Pub. L. 102–550, title XV, §§1504(d)(1), 1513, 1517(b), Oct. 28, 1992, 106 Stat. 4055, 4058, 4059; Pub. L. 103–322, title XXXIII, §330017(b)(1), Sept. 13, 1994, 108 Stat. 2149; Pub. L. 103–325, title IV, §§403(a), 410, 413(b)(1), Sept. 23, 1994, 108 Stat. 2245, 2252, 2254; Pub. L. 107–56, title III, §§312(a), 313(a), 319(b), 325, 326(a), 351, 352(a), 358(b), 359(c), 365(c)(2)(B), Oct. 26, 2001, 115 Stat. 304, 306, 312, 317, 320, 322, 326, 328, 335; Pub. L. 108–159, title VIII, §811(g), Dec. 4, 2003, 117 Stat. 2012; Pub. L. 108–458, title VI, §§6202(h), 6203(c), (d), 6302, Dec. 17, 2004, 118 Stat. 3746–3748; Pub. L. 109–177, title IV, §407, Mar. 9, 2006, 120 Stat. 245.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 999; Pub. L. 99–570, title I, §1356(a), (b), (c)(2), Oct. 27, 1986, 100 Stat. 3207–23, 3207–24; Pub. L. 100–690, title VI, §§6185(e), 6469(c), Nov. 18, 1988, 102 Stat. 4357, 4377; Pub. L. 102–550, title XV, §§1504(d)(1), 1513, 1517(b), Oct. 28, 1992, 106 Stat. 4055, 4058, 4059; Pub. L. 103–322, title XXXIII, §330017(b)(1), Sept. 13, 1994, 108 Stat. 2149; Pub. L. 103–325, title IV, §§403(a), 410, 413(b)(1), Sept. 23, 1994, 108 Stat. 2245, 2252, 2254; Pub. L. 107–56, title III, §§312(a), 313(a), 319(b), 325, 326(a), 351, 352(a), 358(b), 359(c), 365(c)(2)(B), Oct. 26, 2001, 115 Stat. 304, 306, 312, 317, 320, 322, 326, 328, 335; Pub. L. 108–159, title VIII, §811(g), Dec. 4, 2003, 117 Stat. 2012; Pub. L. 108–458, title VI, §§6202(h), 6203(c), (d), 6302, Dec. 17, 2004, 118 Stat. 3746–3748; Pub. L. 109–177, title IV, §407, Mar. 9, 2006, 120 Stat. 245; Pub. L. 112–74, div. C, title I, §118, Dec. 23, 2011, 125 Stat. 891.)
 
 Historical and Revision Notes
 
@@ -495,6 +495,10 @@ The date of enactment of the National Intelligence Reform Act of 2004, referred 
 For provisions relating to the Bank Secrecy Act Advisory Group, referred to in subsec. (n)(4)(B), see section 1564 of Pub. L. 102–550, which is set out as a note under section 5311 of this title.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (g)(2)(A)(i). Pub. L. 112–74, §118(1), added cl. (i) and struck out former cl. (i) which read as follows: “the financial institution, director, officer, employee, or agent may not notify any person involved in the transaction that the transaction has been reported; and”.
+
+Subsec. (g)(2)(A)(ii). Pub. L. 112–74, §118(2), substituted “no current or former officer or employee of or contractor for” for “no officer or employee of” and inserted “or for” before “any State”.
 
 <b>2006</b>—Subsec. (n)(4)(A). Pub. L. 109–177 substituted “Intelligence Reform and Terrorism Prevention Act of 2004” for “National Intelligence Reform Act of 2004” in introductory provisions.
 
@@ -608,7 +612,7 @@ Section 330017(b)(1) of Pub. L. 103–322 and section 413(b)(1) of Pub. L. 103�
 
 #### Regulations
 
-Pub. L. 107–56, title III, §312(b)(1), Oct. 26, 2001, 115 Stat. 305, provided that: “Not later than 180 days afterthe date of enactment of this Act \[Oct. 26, 2001\], the Secretary \[of the Treasury\], in consultation with the appropriate Federal functional regulators (as defined in section 509 of the Gramm-Leach-Bliley Act \[15 U.S.C. 6809\]) of the affected financial institutions, shall further delineate, by regulation, the due diligence policies, procedures, and controls required under section 5318(i)(1) of title 31, United States Code, as added by this section.”
+Pub. L. 107–56, title III, §312(b)(1), Oct. 26, 2001, 115 Stat. 305, provided that: “Not later than 180 days after the date of enactment of this Act \[Oct. 26, 2001\], the Secretary \[of the Treasury\], in consultation with the appropriate Federal functional regulators (as defined in section 509 of the Gramm-Leach-Bliley Act \[15 U.S.C. 6809\]) of the affected financial institutions, shall further delineate, by regulation, the due diligence policies, procedures, and controls required under section 5318(i)(1) of title 31, United States Code, as added by this section.”
 
 Pub. L. 107–56, title III, §352(c), Oct. 26, 2001, 115 Stat. 322, provided that: “Before the end of the 180-day period beginning on the date of enactment of this Act \[Oct. 26, 2001\], the Secretary \[of the Treasury\] shall prescribe regulations that consider the extent to which the requirements imposed under this section \[amending this section and enacting provisions set out as a note above\] are commensurate with the size, location, and activities of the financial institutions to which such regulations apply.”
 

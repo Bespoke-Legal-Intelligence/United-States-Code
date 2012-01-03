@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Solely for purposes of determining whether a transfer of an interest in a corporation orpartnership to (or for the benefit of) a member of the transferor's family is a gift (and the value of such transfer), the value of any right—
+&emsp;Solely for purposes of determining whether a transfer of an interest in a corporation or partnership to (or for the benefit of) a member of the transferor's family is a gift (and the value of such transfer), the value of any right—
 
 &emsp;&emsp;(A) which is described in subparagraph (A) or (B) of subsection (b)(1), and
 
@@ -156,7 +156,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Except as otherwise provided in this paragraph, the term “qualified payment” means any dividend payable on a periodic basis under any cumulative preferred stock (or a comparable payment under any partnership interest) to the extent that such dividend (or comparable payment) is determined at a fixed rate.
+&emsp;&emsp;Except as otherwise provided in this paragraph, the term “qualified payment” meansany dividend payable on a periodic basis under any cumulative preferred stock (or a comparable payment under any partnership interest) to the extent that such dividend (or comparable payment) is determined at a fixed rate.
 
 #### (B) Treatment of variable rate payments
 
@@ -246,7 +246,7 @@ For purposes of this section—
 
 #### (i) Deathtime transfers
 
-&emsp;&emsp;&emsp;Subparagraph (A)(i) shall not apply to any interest includible in the gross estate of the transferor if a deduction with respect to such interest is allowable under section 2056 or 2106(a)(3).
+&emsp;&emsp;&emsp;Subparagraph (A)(i) shall not apply to any interest includible in the gross estateof the transferor if a deduction with respect to such interest is allowable under section 2056 or 2106(a)(3).
 
 #### (ii) Lifetime transfers
 
@@ -336,7 +336,7 @@ For purposes of this section—
 
 Subsec. (a)(3)(C). Pub. L. 104–188, §1702(f)(1)(A), added subpar. (C).
 
-Subsec. (a)(4)(B)(i). Pub. L. 104–188, §1702(f)(2), inserted “(or, to the extent provided in regulations, the rights as to either income or capital)” after “income and capital”.
+Subsec. (a)(4)(B)(i). Pub. L. 104–188, §1702(f)(2), inserted “(or, to the extent provided in regulations, therights as to either income or capital)” after “income and capital”.
 
 Subsec. (b)(2)(C). Pub. L. 104–188, §1702(f)(3)(A), added subpar. (C).
 

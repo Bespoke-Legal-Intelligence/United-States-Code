@@ -8,7 +8,7 @@ When any property which is seized under the provisions of section 7301 or sectio
 
 #### (2) Appraisal
 
-&emsp;If, in the opinion of the Secretary, it shall be necessary that such property should be sold toprevent such waste or expense, the Secretary shall appraise the same; and thereupon
+&emsp;If, in the opinion of the Secretary, it shall be necessary that such property should be sold to prevent such waste or expense, the Secretary shall appraise the same; and thereupon
 
 #### (3) Return to owner under bond
 
@@ -22,7 +22,7 @@ When any property which is seized under the provisions of section 7301 or sectio
 
 #### (B) Manner of sale
 
-&emsp;&emsp;Such Treasury officer or employee or the marshal shall as soon as practicable make public sale of such property in accordance with such regulations as may be prescribed by the Secretary.
+&emsp;&emsp;Such Treasury officer or employee or the marshal shall as soon as practicable makepublic sale of such property in accordance with such regulations as may be prescribed by the Secretary.
 
 #### (C) Disposition of proceeds
 

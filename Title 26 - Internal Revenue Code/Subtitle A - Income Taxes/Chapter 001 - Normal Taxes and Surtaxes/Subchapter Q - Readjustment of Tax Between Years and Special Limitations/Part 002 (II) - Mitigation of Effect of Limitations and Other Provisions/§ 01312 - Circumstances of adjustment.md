@@ -14,7 +14,7 @@ The circumstances under which the adjustment provided in section 1311 is authori
 
 #### (A) Items included in income
 
-&emsp;&emsp;The determination requires the exclusion from gross income of an item included in areturn filed by the taxpayer or with respect to which tax was paid and which was erroneously excluded or omitted from the gross income of the taxpayer for another taxable year, or from the gross income of a related taxpayer; or
+&emsp;&emsp;The determination requires the exclusion from gross income of an item included in a return filed by the taxpayer or with respect to which tax was paid and which was erroneously excluded or omitted from the gross income of the taxpayer for another taxable year, or from the gross income of a related taxpayer; or
 
 #### (B) Items not included in income
 

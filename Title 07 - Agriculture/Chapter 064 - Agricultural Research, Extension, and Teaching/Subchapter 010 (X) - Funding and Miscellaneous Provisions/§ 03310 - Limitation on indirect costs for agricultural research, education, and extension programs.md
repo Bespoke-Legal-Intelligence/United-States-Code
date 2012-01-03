@@ -20,9 +20,9 @@ A prior section 1462 of Pub. L. 95–113 was classified to section 3304 of this 
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–246, §7132(a), substituted “any agricultural” for “a competitive agricultural” and “22 percent” for “19 percent”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–246, §7132(a), substituted “any agricultural” for “a competitive agricultural” and “22 percent” for “19 percent”.
 
-2002—Pub. L. 107–171 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>2002</b>—Pub. L. 107–171 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 #### Effective Date of 2008 Amendment
 

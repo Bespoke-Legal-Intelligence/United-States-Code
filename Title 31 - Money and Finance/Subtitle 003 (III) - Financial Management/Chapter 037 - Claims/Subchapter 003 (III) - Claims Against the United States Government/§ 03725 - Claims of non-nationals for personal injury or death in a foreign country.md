@@ -48,7 +48,7 @@ In subsection (a), the word “settle” is substituted for “consider, adjust,
 
 In subsection (b), the word “settlement” is substituted for “amount as may be found to be due to any claimant . . . as a legal claim” for clarity and consistency. The words “by Congress” are omitted as surplus.
 
-In subsection (c), the words “A claim may be paid under this section” are added for clarity. The words “ofthe settlement” are substituted for “determined under the provisions of this section” for consistency and to eliminate unnecessary words. The word “complete” is substituted for “full” for consistency. The word “satisfaction” is substituted for “settlement” for clarity.
+In subsection (c), the words “A claim may be paid under this section” are added for clarity. The words “of the settlement” are substituted for “determined under the provisions of this section” for consistency and to eliminate unnecessary words. The word “complete” is substituted for “full” for consistency. The word “satisfaction” is substituted for “settlement” for clarity.
 
 #### Transfer of Functions
 

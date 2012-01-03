@@ -30,7 +30,7 @@ Pub. L. 106–113, §1000(a)(9) \[title IV, §4507(7)(D)\], inserted “the publ
 
 #### Effective Date of 1999 Amendment
 
-Amendment by section 1000(a)(9) \[title IV, §4507(7)\] of Pub. L. 106–113 effective Nov. 29, 2000, and applicableonly to applications (including international applications designating the United States) filed on or after that date, see section 1000(a)(9) \[title IV, §4508\] of Pub. L. 106–113, as amended, set out as a note under section 10 of this title.
+Amendment by section 1000(a)(9) \[title IV, §4507(7)\] of Pub. L. 106–113 effective Nov. 29, 2000, and applicable only to applications (including international applications designating the United States) filed on or after that date, see section 1000(a)(9) \[title IV, §4508\] of Pub. L. 106–113, as amended, set out as a note under section 10 of this title.
 
 Amendment by section 1000(a)(9) \[title IV, §4732(a)(10)(B)\] of Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of this title.
 

@@ -76,7 +76,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 303(b)(1) is modified to make clear that unsecured claims against the debtor must be determined by taking into account liens securing property held by third parties.
 
@@ -100,9 +100,9 @@ Subsection (c) permits creditors other than the original petitioning creditors t
 
 Subsection (d) permits the debtor to file an answer to an involuntary petition. The subsection also permits a general partner in a partnership debtor to answer an involuntary petition against the partnership if he did not join in the petition. Thus, a partnership petition by less than all of the general partners is treated as an involuntary, not a voluntary, petition.
 
-The court may, under subsection (e), require the petitioners to file a bond to indemnify the debtor for such amounts as the court may later allow under subsection (i). Subsection (i) provides for costs, attorneys fees, and damages in certain circumstances. The bonding requirement will discourage frivolous petitions as well as spiteful petitions based on a desire to embarrass the debtor (who may be a competitor of a petitioning creditor) or to put the debtor out of business without good cause. An involuntary petition may put a debtor out of business even if it is without foundation and is later dismissed.
+The court may, under subsection (e), require the petitioners to file a bond to indemnify the debtor for such amounts as the court may later allow under subsection\(i). Subsection (i) provides for costs, attorneys fees, and damages in certain circumstances. The bonding requirement will discourage frivolous petitions as well as spiteful petitions based on a desire to embarrass the debtor (who may be a competitor of a petitioning creditor) or to put the debtor out of business without good cause. An involuntary petition may put a debtor out of business even if it is without foundation and is later dismissed.
 
-Subsection (f) is both a clarification and a change from existing law. It permits the debtor to continue tooperate any business of the debtor and to dispose of property as if the case had not been commenced. The court is permitted, however, to control the debtor's powers under this subsection by appropriate orders, such as where there is a fear that the debtor may attempt to abscond with assets, dispose of them at less than their fair value, or dismantle his business, all to the detriment of the debtor's creditors.
+Subsection (f) is both a clarification and a change from existing law. It permits the debtor to continue to operate any business of the debtor and to dispose of property as if the case had not been commenced. The court is permitted, however, to control the debtor's powers under this subsection by appropriate orders, such as where there is a fear that the debtor may attempt to abscond with assets, dispose of them at less than their fair value, or dismantle his business, all to the detriment of the debtor's creditors.
 
 The court may also, under subsection (g), appoint an interim trustee to take possession of the debtor's property and to operate any business of the debtor, pending trial on the involuntary petition. The court may make such an order only on the request of a party in interest, and after notice to the debtor and a hearing. There must be a showing that a trustee is necessary to preserve the property of the estate or to prevent loss to the estate. The debtor may regain possession by posting a sufficient bond.
 
@@ -118,9 +118,9 @@ Subsection (k) governs involuntary cases against foreign banks that are not enga
 
 #### Amendments
 
-2010—Subsecs. (k), (<i>l</i>). Pub. L. 111–327 redesignated subsec. (<i>l</i>) as (k).
+<b>2010</b>—Subsecs. (k), (<i>l</i>). Pub. L. 111–327 redesignated subsec. (<i>l</i>) as (k).
 
-2005—Subsec. (b)(1). Pub. L. 109–8, §1234(a)(1), inserted “as to liability or amount” after “bona fide dispute” and substituted “if such noncontingent, undisputed claims” for “if such claims”.
+<b>2005</b>—Subsec. (b)(1). Pub. L. 109–8, §1234(a)(1), inserted “as to liability or amount” after “bona fide dispute” and substituted “if such noncontingent, undisputed claims” for “if such claims”.
 
 Subsec. (h)(1). Pub. L. 109–8, §1234(a)(2), inserted “as to liability or amount” before semicolon.
 
@@ -128,9 +128,9 @@ Subsec. (k). Pub. L. 109–8, §802(d)(2), struck out subsec. (k) which read as 
 
 Subsec. (<i>l</i>). Pub. L. 109–8, §332(b), added subsec. (<i>l</i>).
 
-1994—Subsec. (b). Pub. L. 103–394 substituted “$10,000” for “$5,000” in pars. (1) and (2).
+<b>1994</b>—Subsec. (b). Pub. L. 103–394 substituted “$10,000” for “$5,000” in pars. (1) and (2).
 
-1986—Subsec. (a). Pub. L. 99–554, §254, inserted reference to family farmer.
+<b>1986</b>—Subsec. (a). Pub. L. 99–554, §254, inserted reference to family farmer.
 
 Subsec. (b). Pub. L. 99–554, §283(b)(1), substituted “subject of” for “subject on”.
 
@@ -140,7 +140,7 @@ Subsec. (h)(1). Pub. L. 99–554, §283(b)(2), substituted “are the” for “
 
 Subsec. (i)(1). Pub. L. 99–554, §204(2), inserted “or” at end of subpar. (A) and struck out subpar. (C) which read as follows: “any damages proximately caused by the taking of possession of the debtor's property by a trustee appointed under subsection (g) of this section or section 1104 of this title; or”.
 
-1984—Subsec. (b). Pub. L. 98–353, §426(a), inserted “against a person” after “involuntary case”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–353, §426(a), inserted “against a person” after “involuntary case”.
 
 Subsec. (b)(1). Pub. L. 98–353, §426(b)(1), inserted “or the subject on a bona fide dispute,”.
 
@@ -150,13 +150,13 @@ Subsec. (j)(2). Pub. L. 98–353, §427, substituted “debtor” for “debtors
 
 #### Effective Date of 2005 Amendment
 
-Pub. L. 109–8, title XII, §1234(b), Apr. 20, 2005, 119 Stat. 204, provided that: “This section \[amending this section\] and the amendments made by this section shall take effect on the date of the enactment of this Act \[Apr. 20, 2005\] and shall apply with respect to cases commenced under title 11 of the United States Code before, on, and after such date.”
+Pub. L. 109–8, title XII, §1234(b), Apr. 20, 2005, 119 Stat. 204, provided that: “This section \[amending this section\] and the amendments made by this section shall take effect on the date of the enactment of this Act\[Apr. 20, 2005\] and shall apply with respect to cases commenced under title 11 of the United States Code before, on, and after such date.”
 
 Amendment by sections 332(b) and 802(d)(2) of Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commencedunder this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
+Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
 
 #### Effective Date of 1986 Amendment
 

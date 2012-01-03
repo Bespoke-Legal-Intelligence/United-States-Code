@@ -24,7 +24,7 @@ The Director shall have full power to require any Federal Home Loan Bank to depo
 
 (B) A Federal Home Loan Bank shall make charges, to be determined and regulated by the Director consistent with the principles set forth in section 248a(c) of this title, or utilize the services of, or act as agent for, or be a member of, a Federal Reserve bank, clearinghouse, or any other public or private financial institution or other agency, in the exercise of any powers or functions pursuant to this paragraph.
 
-(C) The Director is authorized, with respect to participation in the collection and settlement of any items by Federal Home Loan Banks, and with respect to the collection and settlement (including payment by the payor institution) of items payable by Federal savings and loan associations and Federal mutual savings banks, to prescribe rules and regulations regarding the rights, powers, responsibilities, duties, and liabilities, including standards relating thereto, of such Federal Home Loan Banks, associations, or banks and other parties to any such items or their collection and settlement. In prescribing such rules and regulations, the Director may adopt or apply, in whole or in part, general banking usage and practices, and, in instances or respects in which they would otherwise not be applicable, Federal Reserve regulations and operating letters, the Uniform Commercial Code, and clearinghouse rules.
+(C) The Director is authorized, with respect to participation in the collection and settlement of any items by Federal Home Loan Banks, and with respect to the collection and settlement (including payment by the payor institution) of items payable by Federal savings and loan associations and Federal mutual savings banks, to prescribe rules and regulations regarding the rights, powers, responsibilities, duties, and liabilities, including standards relating thereto, of such Federal Home Loan Banks, associations, or banks and other parties to any such items or their collection and settlement. In prescribing such rules and regulations, the Director may adopt or apply, in whole or in part, generalbanking usage and practices, and, in instances or respects in which they would otherwise not be applicable, Federal Reserve regulations and operating letters, the Uniform Commercial Code, and clearinghouse rules.
 
 #### (f) Rediscount of notes held by other banks; purchase of bonds of other banks
 
@@ -116,7 +116,15 @@ Notwithstanding the provisions of section 9105(a)(1)(B) <sup>2</sup> of title 3
 
 &emsp;&emsp;The Secretary of the Treasury may, at any time, subject to the terms of the security or otherwise upon terms and conditions and at prices determined by the Secretary, sell any obligation acquired by the Secretary under this subsection.
 
-#### (C) Application of sunset to purchased obligations
+#### (C) Deficit reduction
+
+&emsp;&emsp;The Secretary of the Treasury shall deposit in the General Fund of the Treasury any amounts received by the Secretary from the sale of any obligation acquired by the Secretary under this subsection, where such amounts shall be—
+
+&emsp;&emsp;&emsp;(i) dedicated for the sole purpose of deficit reduction; and
+
+&emsp;&emsp;&emsp;(ii) prohibited from use as an offset for other spending increases or revenue reductions.
+
+#### (D) Application of sunset to purchased obligations
 
 &emsp;&emsp;The authority of the Secretary of the Treasury to hold, exercise any rights received in connection with, or sell, any obligations purchased is not subject to the provisions of paragraph (4).
 
@@ -130,9 +138,9 @@ Notwithstanding the provisions of section 9105(a)(1)(B) <sup>2</sup> of title 3
 
 #### (5) Authority of the Director with respect to executive compensation
 
-&emsp;The Director shall have the power to approve, disapprove, or modify the executive compensation of the Federal Home Loan Bank, as defined under Regulation S-K, 17 C.F.R. 229.
+&emsp;The Director shall have the power to approve, disapprove, or modify the executivecompensation of the Federal Home Loan Bank, as defined under Regulation S-K, 17 C.F.R. 229.
 
-(July 22, 1932, ch. 522, §11, 47 Stat. 733; June 27, 1934, ch. 847, §503, 48 Stat. 1261; June 27, 1950, ch. 369, §§3, 4, 64 Stat. 257; Aug. 2, 1954, ch. 649, title II, §204(a), 68 Stat. 622; Pub. L. 88–560, title VII, §701(d)(1), Sept. 2, 1964, 78 Stat. 800; Pub. L. 90–448, title VIII, §807(k), Aug. 1, 1968, 82 Stat. 545; Pub. L. 91–151, title I, §3, Dec. 23, 1969, 83 Stat. 374; Pub. L. 91–609, title IX, §914, Dec. 31, 1970, 84 Stat. 1815; Pub. L. 93–383, title VIII, §805(c)(2), Aug. 22, 1974, 88 Stat. 727; Pub. L. 93–495, title I, §112, Oct. 28, 1974, 88 Stat. 1506; Pub. L. 96–153, title III, §324, Dec. 21, 1979, 93 Stat. 1121; Pub. L. 96–221, title III, §311, Mar. 31, 1980, 94 Stat. 149; Pub. L. 97–320, title I, §125(c), Oct. 15, 1982, 96 Stat. 1485; Pub. L. 101–73, title VII, §§701(b)(1)–(3)(A), (c), 709, 710(b)(6), Aug. 9, 1989, 103 Stat. 412, 418; Pub. L. 104–208, div. A, title II, §2704(d)(11)(A), div. D, title II, §208(h)(2), Sept. 30, 1996, 110 Stat. 3009–489, 3009–747; Pub. L.108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §9(d)(1), Feb. 15, 2006, 119 Stat. 3616; Pub. L. 110–289, div. A, title I, §1117(c), title II, §1204(3), (8), (9), July 30, 2008, 122 Stat. 2686, 2786.)
+(July 22, 1932, ch. 522, §11, 47 Stat. 733; June 27, 1934, ch. 847, §503, 48 Stat. 1261; June 27, 1950, ch. 369, §§3, 4, 64 Stat. 257; Aug. 2, 1954, ch. 649, title II, §204(a), 68 Stat. 622; Pub. L. 88–560, title VII, §701(d)(1), Sept. 2, 1964, 78 Stat. 800; Pub. L. 90–448, title VIII, §807(k), Aug. 1, 1968, 82 Stat. 545; Pub. L. 91–151, title I, §3, Dec. 23, 1969, 83 Stat. 374; Pub. L. 91–609, title IX, §914, Dec. 31, 1970, 84 Stat. 1815; Pub. L. 93–383, title VIII, §805(c)(2), Aug. 22, 1974, 88 Stat. 727; Pub. L. 93–495, title I, §112, Oct. 28, 1974, 88 Stat. 1506; Pub. L. 96–153, title III, §324, Dec. 21, 1979, 93 Stat. 1121; Pub. L. 96–221, title III, §311, Mar. 31, 1980, 94 Stat. 149; Pub. L. 97–320, title I, §125(c), Oct. 15, 1982, 96 Stat. 1485; Pub. L. 101–73, title VII, §§701(b)(1)–(3)(A), (c), 709, 710(b)(6), Aug. 9, 1989, 103 Stat. 412, 418; Pub. L. 104–208, div. A, title II, §2704(d)(11)(A), div. D, title II, §208(h)(2), Sept. 30, 1996, 110 Stat. 3009–489, 3009–747; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §9(d)(1), Feb. 15, 2006, 119 Stat. 3616; Pub. L. 110–289, div. A, title I, §1117(c), title II, §1204(3), (8), (9), July 30, 2008, 122 Stat. 2686, 2786; Pub. L. 111–203, title XIII, §1304(c), July 21, 2010, 124 Stat. 2134.)
 
 #### References in Text
 
@@ -144,7 +152,9 @@ In subsecs. (i) (first par.) and (j), “chapter 31 of title 31” substituted f
 
 #### Amendments
 
-2008—Pub. L. 110–289, §1204(9), substituted “The Director” for “The Board” wherever appearing in subsecs. (d) to (f).
+<b>2010</b>—Subsec. (<i>l</i>)(2)(C), (D). Pub. L. 111–203 added subpar. (C) and redesignated former subpar. (C) as (D).
+
+<b>2008</b>—Pub. L. 110–289, §1204(9), substituted “The Director” for “The Board” wherever appearing in subsecs. (d) to (f).
 
 Pub. L. 110–289, §1204(8), substituted “the Director” for “the Board” wherever appearing in subsecs. (a) and (e) to (i).
 
@@ -156,17 +166,17 @@ Subsec. (f). Pub. L. 110–289, §1204(3)(C), struck out the two commas after �
 
 Subsec. (<i>l</i>). Pub. L. 110–289, §1117(c), added subsec. (<i>l</i>).
 
-2006—Subsec. (k). Pub. L. 109–173 substituted “the Deposit Insurance Fund” for “SAIF” in heading and “Deposit Insurance Fund” for “Savings Association Insurance Fund” in pars. (1) and (2).
+<b>2006</b>—Subsec. (k). Pub. L. 109–173 substituted “the Deposit Insurance Fund” for “SAIF” in heading and “Deposit Insurance Fund” for “Savings Association Insurance Fund” in pars. (1) and (2).
 
 Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(11)(A). See 1996 Amendment note below.
 
-2004—Subsec. (j). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (j). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-1996—Subsec. (h). Pub. L. 104–208, §208(h)(2), substituted “section 681 of title 15” for “section 681(d) of title 15”.
+<b>1996</b>—Subsec. (h). Pub. L. 104–208, §208(h)(2), substituted “section 681 of title 15” for “section 681(d) of title 15”.
 
 Subsec. (k). Pub. L. 104–208, §2704(d)(11)(A), which directed the amendment of subsec. (k) by substituting “the Deposit Insurance Fund” for “SAIF” in heading and “Deposit Insurance Fund” for “Savings Association Insurance Fund” in pars. (1) and (2), was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
-1989—Subsecs. (a) to (d). Pub. L. 101–73, §701(b)(1), (3)(A), substituted “Board” for “board” wherever appearing.
+<b>1989</b>—Subsecs. (a) to (d). Pub. L. 101–73, §701(b)(1), (3)(A), substituted “Board” for “board” wherever appearing.
 
 Subsec. (e)(1). Pub. L. 101–73, §709(1), inserted “incidental to activities” after “other business not”.
 
@@ -190,31 +200,35 @@ Pub. L. 101–73, §701(b)(1), (2), substituted “Chairperson of the Board” f
 
 Subsec. (k). Pub. L. 101–73, §709(3), amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows: “The Federal Home Loan Banks are hereby authorized, as directed by the Board, to make loans to the Federal Savings and Loan Insurance Corporation. All such loans shall be made in accordance with the provisions of section 1725(d) of this title.”
 
-1982—Subsec. (k). Pub. L. 97–320 added subsec. (k).
+<b>1982</b>—Subsec. (k). Pub. L. 97–320 added subsec. (k).
 
-1980—Subsec. (e). Pub. L. 96–221 designated existing provisions as par. (1) and added par. (2).
+<b>1980</b>—Subsec. (e). Pub. L. 96–221 designated existing provisions as par. (1) and added par. (2).
 
-1979—Subsec. (h). Pub. L. 96–153 inserted provisions relating to stock, obligations, or other securities of any small business investment company formed pursuant to section 681(d) of title 15, for the purpose of aiding members of the Federal Home Loan Bank System.
+<b>1979</b>—Subsec. (h). Pub. L. 96–153 inserted provisions relating to stock, obligations, or other securities of any small business investment company formed pursuant to section 681(d) of title 15, for the purpose of aiding members of the Federal Home Loan Bank System.
 
-1974—Subsec. (h). Pub. L. 93–383 inserted reference to mortgages, obligations, or other securities sold by the Federal Home Loan Mortgage Corporation pursuant to section 1454 or 1455 of this title.
+<b>1974</b>—Subsec. (h). Pub. L. 93–383 inserted reference to mortgages, obligations, or other securities sold by the Federal Home Loan Mortgage Corporation pursuant to section 1454 or 1455 of this title.
 
 Subsec. (i). Pub. L. 93–495 substituted “obligations under this paragraph” for “obligations under this subsection” wherever appearing in fourth sentence of initial par., in second par. substituted provisions authorizing purchase of obligations issued pursuant to this section in amounts not to exceed $2,000,000,000, for provisions relating to exercise of authority of this subsection by the Secretary of the Treasury, and added third par.
 
-1970—Subsec. (g). Pub. L. 91–609 substituted “five years” for “one year” in items (3) and (4).
+<b>1970</b>—Subsec. (g). Pub. L. 91–609 substituted “five years” for “one year” in items (3) and (4).
 
-1969—Subsec. (i). Pub. L. 91–151 increased the borrowing limit to $4,000,000,000 and made it a requirement that the rate charged on such borrowing be set at the current market yield on Treasury obligations and added a new paragraph which allows the Secretary to permit members of the Home Loan Bank System to continue to supply funds to the mortgage market during tight market conditions.
+<b>1969</b>—Subsec. (i). Pub. L. 91–151 increased the borrowing limit to $4,000,000,000 and made it a requirement that the rate charged on such borrowing be set at the current market yield on Treasury obligations and added a new paragraph which allows the Secretary to permit members of the Home Loan Bank System to continue to supply funds to the mortgage market during tight market conditions.
 
-1968—Subsec. (h). Pub. L. 90–448 inserted “or the Government National Mortgage Association, in the stock of the Federal National Mortgage Association”.
+<b>1968</b>—Subsec. (h). Pub. L. 90–448 inserted “or the Government National Mortgage Association, in the stock of the Federal National Mortgage Association”.
 
-1964—Subsec. (h). Pub. L. 88–560 substituted “in obligations, participations, or other instruments of or issued by the Federal National Mortgage Association” for “in obligations of the Federal National Mortgage Association”.
+<b>1964</b>—Subsec. (h). Pub. L. 88–560 substituted “in obligations, participations, or other instruments of or issued by the Federal National Mortgage Association” for “in obligations of the Federal National Mortgage Association”.
 
-1954—Subsec. (h). Act Aug. 2, 1954, inserted reference to obligations of the Federal National Mortgage Association.
+<b>1954</b>—Subsec. (h). Act Aug. 2, 1954, inserted reference to obligations of the Federal National Mortgage Association.
 
-1950—Subsec. (g). Act June 27, 1950, §3, struck out requirement that sums paid in on outstanding capital subscriptions of members from the base for determining the amount of money which the Federal Home Loan Banks shall at all times have invested.
+<b>1950</b>—Subsec. (g). Act June 27, 1950, §3, struck out requirement that sums paid in on outstanding capital subscriptions of members from the base for determining the amount of money which the Federal Home Loan Banks shall at all times have invested.
 
 Subsecs. (i), (j). Act June 27, 1950, §4, added subsecs. (i) and (j).
 
-1934—Subsecs. (i), (j). Act June 27, 1934, among other changes, struck out subsecs. (i) and (j).
+<b>1934</b>—Subsecs. (i), (j). Act June 27, 1934, among other changes, struck out subsecs. (i) and (j).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of this title.
 
 #### Effective Date of 2006 Amendment
 

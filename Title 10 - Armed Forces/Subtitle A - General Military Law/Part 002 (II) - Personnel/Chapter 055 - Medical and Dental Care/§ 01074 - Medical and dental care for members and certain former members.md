@@ -182,7 +182,7 @@ Pub. L. 106–398, §1 \[\[div. A\], title VII, §722(c)(1)\], Oct. 30, 2000, 11
 
 #### Effective Date of 1997 Amendment
 
-Section 731(a)(2) of Pub. L. 105–85 provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply with respect to coverage of medical care for, and the provision of such care to, a member of the Armed Forces under section 1074(c) of title 10, United States Code, on and after the later of the following:
+Section 731(a)(2) of Pub. L. 105–85 provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply with respect to coverage of medical care for, and the provision of such care to, a member ofthe Armed Forces under section 1074(c) of title 10, United States Code, on and after the later of the following:
 
 &emsp;“(A) April 1, 1998.
 
@@ -210,7 +210,7 @@ Pub. L. 110–417, \[div. A\], title VII, §713, Oct. 14, 2008, 122 Stat. 4503, 
 
 “(a) TRICARE
 
-Smoking Cessation Program.—Not later than 180 days after the date of the enactment of this Act \[Oct. 14, 2008\], the Secretary of Defense shallestablish a smoking cessation program under the TRICARE program, to be made available to all beneficiaries under the TRICARE program, subject to subsection (b). The Secretary may prescribe such regulations as may be necessary to implement the program.
+Smoking Cessation Program.—Not later than 180 days after the date of the enactment of this Act \[Oct. 14, 2008\], the Secretary of Defense shall establish a smoking cessation program under the TRICARE program, to be made available to all beneficiaries under the TRICARE program, subject to subsection (b). The Secretary may prescribe such regulations as may be necessary to implement the program.
 
 “(b)
 
@@ -318,7 +318,7 @@ Periodic and Final Reports.—After the third, seventh, eleventh, and fifteenth 
 
 &emsp;“(1) Current information on the cumulative outcomes of the study.
 
-&emsp;“(2) Such recommendations as the Secretary of Defense and the Secretary of Veterans Affairs jointly consider appropriate based on the outcomes of the study, including recommendations for legislative, programmatic, or administrative action to improve long-term care and rehabilitation programs and services for members of the Armed Forces with traumatic brain injuries.”
+&emsp;“(2) Such recommendations as the Secretary of Defense and the Secretary of Veterans Affairs jointly consider appropriate based on the outcomes of thestudy, including recommendations for legislative, programmatic, or administrative action to improve long-term care and rehabilitation programs and services for members of the Armed Forces with traumatic brain injuries.”
 
 #### Standards and Tracking of Access to Health Care Services for Wounded, Injured, or Ill Servicemembers Returning to the United States From a Combat Zone
 
@@ -342,7 +342,7 @@ Matters Covered.—The report required by subsection (a) shall describe in detai
 
 “(c)
 
-Referral to Providers Outside Military Health Care System.—The Secretary shall requirethat health care services and rehabilitation needs of members described in subsection (a) be met through whatever means or mechanisms possible, including through the referral of members described in that subsection to health care providers outside the military health care system.
+Referral to Providers Outside Military Health Care System.—The Secretary shall require that health care services and rehabilitation needs of members described in subsection (a) be met through whatever means or mechanisms possible, including through the referral of members described in that subsection to health care providers outside the military health care system.
 
 “(d)
 
@@ -422,7 +422,7 @@ Elements.—The report required by paragraph (1) shall include the following:
 
 &emsp;&emsp;&emsp;“(ii) the provision of outreach on post traumatic stress disorder and other mental health conditions to members of the National Guard and Reserves who have returned from deployment.
 
-&emsp;&emsp;“(D) A plan, in light of the pilot projects, for the improvement of the health care services provided to members of the Armed Forces in order to better assure the early diagnosis and treatment of post traumatic stress disorder and other mental health conditions among members of the Armed Forces, including a specific plan for outreach on post traumatic stress disorder and other mental health conditions to members of the National Guard and Reserves who have returned from deployment in order to facilitate and enhance the early diagnosis and treatment of post traumatic stress disorder and other mental health conditions among such members of the National Guard and Reserves.”
+&emsp;&emsp;“(D) A plan, in light of the pilot projects, for the improvement of the health care services provided to members of the Armed Forces in order to better assure the early diagnosis and treatment of post traumatic stress disorder and other mental health conditions among members of the Armed Forces,including a specific plan for outreach on post traumatic stress disorder and other mental health conditions to members of the National Guard and Reserves who have returned from deployment in order to facilitate and enhance the early diagnosis and treatment of post traumatic stress disorder and other mental health conditions among such members of the National Guard and Reserves.”
 
 #### Training Curricula for Family Caregivers on Care and Assistance for Members and Former Members of the Armed Forces With Traumatic Brain Injury
 
@@ -444,7 +444,7 @@ Members.—The Traumatic Brain Injury Family Caregiver Panel shall consist of 15
 
 &emsp;&emsp;“(B) Representatives of family caregivers or family caregiver associations.
 
-&emsp;&emsp;“(C) Health and medical personnel of the Department of Defense and the Department of Veterans Affairs with expertise in traumatic brain injury andpersonnel and readiness representatives of the Department of Defense with expertise in traumatic brain injury.
+&emsp;&emsp;“(C) Health and medical personnel of the Department of Defense and the Department of Veterans Affairs with expertise in traumatic brain injury and personnel and readiness representatives of the Department of Defense with expertise in traumatic brain injury.
 
 &emsp;&emsp;“(D) Psychologists or other individuals with expertise in the mental health treatment and care of individuals with traumatic brain injury.
 
@@ -586,7 +586,7 @@ Implementation and Report.—Not later than six months after the date of the ena
 
 #### Medical Readiness Plan and Joint Medical Readiness Oversight Committee
 
-Pub. L. 108–375, div. A, title VII, §731, Oct. 28, 2004, 118 Stat. 1993, as amended by Pub. L. 109–163, div. A, title V, §515(h), Jan. 6, 2006, 119 Stat. 3237; Pub. L. 109–364, div. A, title X, §1071(g)(8), Oct. 17, 2006, 120 Stat. 2402, provided that:
+Pub. L. 108–375, div. A, title VII, §731, Oct. 28, 2004, 118 Stat. 1993, as amended by Pub. L. 109–163, div. A, title V, §515(h), Jan. 6, 2006, 119 Stat. 3237; Pub. L. 109–364, div. A, title X, §1071(g)(8), Oct. 17, 2006, 120 Stat. 2402; Pub. L. 112–81, div. A, title X, §1062(f)(1), Dec. 31, 2011, 125 Stat. 1585, provided that:
 
 “(a)
 
@@ -666,29 +666,13 @@ Duties.—The duties of the Committee are as follows:
 
 First meeting.—The first meeting of the Committee shall be held not later than 120 days after the date of the enactment of this Act \[Oct. 28, 2004\].
 
-“(c)
-
-Annual Report.—
-
-&emsp;“(1)
-
-In general.—In addition to the duties described in subsection (b)(3), the Committee shall prepare and submit to the Secretary of Defense and to the Committees on Armed Services of the Senate and the House of Representatives, not later than February 1 of each year, a report on—
-
-&emsp;&emsp;“(A) the health status and medical readiness of the members of the Armed Forces, including the members of reserve components, based on the comprehensive plan required under subsection (a) and the actions required by this subtitle and the amendments made by this subtitle; and
-
-&emsp;&emsp;“(B) compliance with Department of Defense policies on medical readiness tracking and health surveillance.
-
-&emsp;“(2)
-
-Opportunity for comment.—Each year, before the Committee submits to Congress the report required under paragraph (1), the Secretary of Defense shall provide an opportunity for representatives of veterans and military health advocacy organizations, and others the Secretary of Defense considers appropriate, to comment on the report. The report submitted to Congress shall include a summary of the comments received and the Secretary's response to them.”
-
 #### Accountability for Medical Readiness of Individuals and Units of the Reserve Components
 
 Pub. L. 108–375, div. A, title VII, §732(b), Oct. 28, 2004, 118 Stat. 1997, provided that:
 
 “(1)
 
-Policy.—The Secretary of Defense shall take measures, in addition to those required by section 1074f of title 10, United States Code, to ensure that individual members and commanders of reserve componentunits fulfill their responsibilities and meet the requirements for medical and dental readiness of members of the units. Such measures may include—
+Policy.—The Secretary of Defense shall take measures, in addition to those required by section 1074f of title 10, United States Code, to ensure that individual members and commanders of reserve component units fulfill their responsibilities and meet the requirements for medical and dental readiness of members of the units. Such measures may include—
 
 &emsp;“(A) requiring more frequent health assessments of members than is required by section 1074f(b) of title 10, United States Code, with an objective of having every member of the Selected Reserve receive a health assessment as specified in section 1074f of such title not less frequently than once every two years; and
 
@@ -790,7 +774,7 @@ Pub. L. 108–375, div. A, title VII, §737, Oct. 28, 2004, 118 Stat. 2000, prov
 
 “(a)
 
-Health Care at Mobilization Installations.—The Secretary of Defense shall take such steps as necessary, including through the uniform policy established under subsection (c), to ensure that anticipated health care needs of members of the Armed Forces at mobilization installations can be met at those installations. Such steps may, within authority otherwise available to the Secretary, include the following with respect to any such installation:
+Health Care at Mobilization Installations.—The Secretary of Defense shall take such steps as necessary, including through the uniform policy established under subsection (c), to ensure that anticipated health care needs of members of the Armed Forces at mobilization installations can be met at those installations. Such steps may, within authority otherwiseavailable to the Secretary, include the following with respect to any such installation:
 
 &emsp;“(1) Arrangements for health care to be provided by the Secretary of Veterans Affairs.
 
@@ -800,7 +784,7 @@ Health Care at Mobilization Installations.—The Secretary of Defense shall take
 
 “(b)
 
-Mobilization Installations.—For purposes of this section, the term ‘mobilization installation’ meansa military installation at which members of the Armed Forces, in connection with a contingency operation or during a national emergency—
+Mobilization Installations.—For purposes of this section, the term ‘mobilization installation’ means a military installation at which members of the Armed Forces, in connection with a contingency operation or during a national emergency—
 
 &emsp;“(1) are mobilized;
 
@@ -912,7 +896,7 @@ Plan for Disclosure of Information.—Not later than 90 days after the date of t
 
 “(b)
 
-Plan Requirements.—(1) The records and information covered by the plan under subsection (a) shallbe the records and information necessary to permit the identification of members of the Armed Forces who were or may have been exposed to chemical or biological agents as a result of Project 112.
+Plan Requirements.—(1) The records and information covered by the plan under subsection (a) shall be the records and information necessary to permit the identification of members of the Armed Forces who were or may have been exposed to chemical or biological agents as a result of Project 112.
 
 “(2) The plan shall provide for completion of all activities contemplated by the plan not later than one year after the date of the enactment of this Act \[Dec. 2, 2002\].
 
@@ -1274,7 +1258,7 @@ Reports.—(1) Not later than March 31, 1995, the Secretary of Defense shall sub
 
 Definition.—In this section, the term ‘Persian Gulf War’ has the meaning given such term in section 101 of title 38, United States Code.”
 
-\[For provisions establishing the Persian Gulf War Veterans Health Registry, provisions requiring a studyby the Office of Technology Assessment of the Persian Gulf Registry and the Persian Gulf War Veterans Health Registry, provisions relating to an agreement with the National Academy of Sciences for review of health consequences of service during the Persian Gulf War, and coordination of government activities on health-related research on the Persian Gulf War, see title VII of Pub. L. 102–585, set out as a note under section 527 of Title 38, Veterans’ Benefits.\]
+\[For provisions establishing the Persian Gulf War Veterans Health Registry, provisions requiring a study by the Office of Technology Assessment of the Persian Gulf Registry and the Persian Gulf War Veterans Health Registry, provisions relating to an agreement with the National Academy of Sciences for review of health consequences of service during the Persian Gulf War, and coordination of government activities on health-related research on the Persian Gulf War, see title VII of Pub. L. 102–585, set out as a note under section 527 of Title 38, Veterans’ Benefits.\]
 
 #### Funding of Fisher Houses Associated With Army Medical Treatment Facilities
 
@@ -1282,7 +1266,7 @@ Pub. L. 103–335, title VIII, §8017, Sept. 30, 1994, 108 Stat. 2620, which pro
 
 #### Mental Health Evaluations of Members of Armed Forces
 
-Pub. L. 102–484, div. A, title V, §546(a)–(h), Oct. 23, 1992, 106 Stat. 2416–2419, directed Secretary of Defense, not later than 180 days after Oct. 23, 1992, to revise applicable regulations to incorporate certain requirements with respect to mental health evaluations of members of Armed Forces, including requirements relating to procedures for outpatient and inpatient evaluations, rights of members, additional rights of members and procedures for emergency or involuntary inpatient evaluations, and prohibition against use of referrals for mental health evaluations to retaliate against whistleblowers, and directed Secretary to submit to Committees on Armed Services of Senate and House of Representatives a report describing process of preparing regulations.
+Pub. L. 102–484, div. A, title V, §546(a)–(h), Oct. 23, 1992, 106 Stat. 2416–2419, which directed Secretary of Defense, not later than 180 days after Oct. 23, 1992, to revise applicable regulations to incorporate certain requirements with respect to mental health evaluations of members of Armed Forces and to submit a report describing process of preparing regulations, was repealed by Pub. L. 112–81, div. A, title VII, §711(b), Dec. 31, 2011, 125 Stat. 1476.
 
 #### Study on Risk-Sharing Contracts for Health Care
 
@@ -1352,7 +1336,7 @@ Pub. L. 99–661, div. A, title VII, §705(c), Nov. 14, 1986, 100 Stat. 3904, pr
 
 “(2) For purposes of paragraph (1):
 
-&emsp;“(A) The term ‘epidemiologic-assessment interview’ means questioning of a serum-positive member of theArmed Forces for purposes of medical treatment or counseling or for epidemiologic or statistical purposes.
+&emsp;“(A) The term ‘epidemiologic-assessment interview’ means questioning of a serum-positive member of the Armed Forces for purposes of medical treatment or counseling or for epidemiologic or statistical purposes.
 
 &emsp;“(B) The term ‘serum-positive member of the Armed Forces’ means a member of the Armed Forces who has been identified as having been exposed to a virus associated with the acquired immune deficiency syndrome.
 

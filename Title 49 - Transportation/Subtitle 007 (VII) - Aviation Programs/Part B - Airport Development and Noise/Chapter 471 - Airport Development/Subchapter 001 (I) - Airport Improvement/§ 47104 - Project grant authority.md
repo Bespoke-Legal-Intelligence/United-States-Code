@@ -10,13 +10,13 @@ Incurring Obligations.—The Secretary may incur obligations to make grants from
 
 (c)
 
-Expiration of Authority.—After March 31, 2011, the Secretary may not incur obligations under subsection (b) of this section, except for obligations of amounts—
+Expiration of Authority.—After January 31, 2012, the Secretary may not incur obligations under subsection (b) of this section, except for obligations of amounts—
 
 &emsp;(1) remaining available after that date under section 47117(b) of this title; or
 
 &emsp;(2) recovered by the United States Government from grants made under this chapter if the amounts are obligated only for increases under section 47108(b)(2) and (3) of this title in the maximum amount of obligations of the Government for any other grant made under this title.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1252; Pub. L. 103–305, title I, §101(b), Aug. 23, 1994, 108 Stat. 1571; Pub. L. 103–429, §6(63), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–264, title I, §101(b), Oct. 9, 1996, 110 Stat. 3216; Pub. L. 105–277, div. C, title I, §110(b)(2), Oct. 21, 1998, 112 Stat. 2681–587; Pub. L. 106–6, §2(b), Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–31, title VI, §6002(b), May 21, 1999, 113 Stat. 113; Pub. L. 106–59, §1(b), Sept. 29, 1999, 113 Stat. 482; Pub. L. 106–181, title I, §101(b), Apr. 5, 2000, 114 Stat. 65; Pub. L. 108–176, title I, §101(b), Dec. 12, 2003, 117 Stat. 2494; Pub. L. 110–190, §4(b), Feb. 28, 2008, 122 Stat. 644; Pub. L. 110–253, §4(b), June 30, 2008, 122 Stat. 2418; Pub. L. 110–330, §4(b), Sept. 30, 2008, 122 Stat. 3718; Pub. L. 111–12, §4(b), Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §4(b), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–116, §4(b), Dec. 16, 2009, 123 Stat. 3032; Pub. L. 111–153, §4(b), Mar. 31, 2010, 124 Stat. 1085; Pub. L. 111–161, §4(b), Apr. 30, 2010, 124 Stat. 1127; Pub. L. 111–197, §4(b), July 2, 2010, 124 Stat. 1354; Pub. L. 111–216, title I, §103, Aug. 1, 2010, 124 Stat. 2349; Pub. L. 111–249, §4(b), Sept. 30, 2010, 124 Stat. 2628; Pub. L. 111–329, §4(b), Dec. 22, 2010, 124 Stat. 3567.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1252; Pub. L. 103–305, title I, §101(b), Aug. 23, 1994, 108 Stat. 1571; Pub. L. 103–429, §6(63), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–264, title I, §101(b), Oct. 9, 1996, 110 Stat. 3216; Pub. L. 105–277, div. C, title I, §110(b)(2), Oct. 21, 1998, 112 Stat. 2681–587; Pub. L. 106–6, §2(b), Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–31, title VI, §6002(b), May 21, 1999, 113 Stat. 113; Pub. L. 106–59, §1(b), Sept. 29, 1999, 113 Stat. 482; Pub. L. 106–181, title I, §101(b), Apr. 5, 2000, 114 Stat. 65; Pub. L. 108–176, title I, §101(b), Dec. 12, 2003, 117 Stat. 2494; Pub. L. 110–190, §4(b), Feb. 28, 2008, 122 Stat. 644; Pub. L. 110–253, §4(b), June 30, 2008, 122 Stat. 2418; Pub. L. 110–330, §4(b), Sept. 30, 2008, 122 Stat. 3718; Pub. L. 111–12,§4(b), Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §4(b), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–116, §4(b), Dec. 16, 2009, 123 Stat. 3032; Pub. L. 111–153, §4(b), Mar. 31, 2010, 124 Stat. 1085; Pub. L. 111–161, §4(b), Apr. 30, 2010, 124 Stat. 1127; Pub. L. 111–197, §4(b), July 2, 2010, 124 Stat. 1354; Pub. L. 111–216, title I, §103, Aug. 1, 2010, 124 Stat. 2349; Pub. L. 111–249, §4(b), Sept. 30, 2010, 124 Stat. 2628; Pub. L. 111–329, §4(b), Dec. 22, 2010, 124 Stat. 3567; Pub. L. 112–7, §4(b), Mar. 31, 2011, 125 Stat. 32; Pub. L. 112–16, §4(b), May 31, 2011, 125 Stat. 219; Pub. L. 112–21, §4(b), June 29, 2011, 125 Stat. 234; Pub. L. 112–27, §4(b), Aug. 5, 2011, 125 Stat. 271; Pub. L. 112–30, title II, §204(b), Sept. 16, 2011, 125 Stat. 358.)
 
 Historical and Revision Notes
 
@@ -54,7 +54,7 @@ Sept. 3, 1982, Pub. L. 97–248, §505(b)(1), 96 Stat. 677; Nov. 5, 1990, Pub. L
 
 In subsection (a), the words “project grants” are substituted for “grants . . . for airport development and airport planning by project grants” in 49 App.:2204(a) to eliminate unnecessary words and because of the definitions of “project” and “project grant” in section 47102 of the revised title.
 
-In subsection (b), the words “and such authority shall exist with respect to funds available for the making ofgrants for any fiscal year or part thereof pursuant to subsection (a) of this section” are omitted as surplus.
+In subsection (b), the words “and such authority shall exist with respect to funds available for the making of grants for any fiscal year or part thereof pursuant to subsection (a) of this section” are omitted as surplus.
 
 In subsection (c), the words “except for obligations of amounts” are substituted for “except that nothing in this section shall preclude the obligation by grant agreement of apportioned funds” to eliminate unnecessary words.
 
@@ -79,6 +79,16 @@ Sept. 3, 1982, Pub. L. 97–248, §505(b)(1) (last sentence), as amended May 26,
 In subsection (c), the text of section 109(b) of the Airport Improvement Program Temporary Extension Act of 1994 (Public Law 103–260, 108 Stat. 700) is omitted as executed.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (c). Pub. L. 112–30 substituted “January 31, 2012,” for “September 16, 2011,” in introductory provisions.
+
+Pub. L. 112–27 substituted “September 16, 2011,” for “July 22, 2011,” in introductory provisions.
+
+Pub. L. 112–21 substituted “July 22, 2011,” for “June 30, 2011,” in introductory provisions.
+
+Pub. L. 112–16 substituted “June 30, 2011,” for “May 31, 2011,” in introductory provisions.
+
+Pub. L. 112–7 substituted “May 31, 2011,” for “March 31, 2011,” in introductory provisions.
 
 <b>2010</b>—Subsec. (c). Pub. L. 111–329 substituted “March 31, 2011,” for “December 31, 2010,” in introductory provisions.
 

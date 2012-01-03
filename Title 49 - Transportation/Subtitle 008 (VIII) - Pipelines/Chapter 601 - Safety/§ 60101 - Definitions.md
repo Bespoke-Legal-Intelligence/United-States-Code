@@ -20,9 +20,11 @@ General.—In this chapter—
 
 &emsp;(4) “hazardous liquid” means—
 
-&emsp;&emsp;(A) petroleum or a petroleum product; and
+&emsp;&emsp;(A) petroleum or a petroleum product;
 
-&emsp;&emsp;(B) a substance the Secretary of Transportation decides may pose an unreasonable risk to life or property when transported by a hazardous liquid pipeline facility in a liquid state (except for liquefied natural gas);
+&emsp;&emsp;(B) nonpetroleum fuel, including biofuel, that is flammable, toxic, or corrosive or would be harmful to the environment if released in significant quantities; and
+
+&emsp;&emsp;(C) a substance the Secretary of Transportation decides may pose an unreasonable risk to life or property when transported by a hazardous liquid pipeline facility in a liquid state (except for liquefied natural gas);
 
 &emsp;(5) “hazardous liquid pipeline facility” includes a pipeline, a right of way, a facility, a building, or equipment used or intended to be used in transporting hazardous liquid;
 
@@ -60,7 +62,7 @@ General.—In this chapter—
 
 &emsp;(14) “liquefied natural gas pipeline facility”—
 
-&emsp;&emsp;(A) means a gas pipeline facility used for transporting or storing liquefied natural gas, or for liquefied natural gas conversion, in interstate or foreign commerce; but
+&emsp;&emsp;(A) means a gas pipeline facility used for transporting or storing liquefied natural gas,or for liquefied natural gas conversion, in interstate or foreign commerce; but
 
 &emsp;&emsp;(B) does not include any part of a structure or equipment located in navigable waters (as defined in section 3 of the Federal Power Act (16 U.S.C. 796));
 
@@ -124,7 +126,7 @@ Gathering Lines.—(1)(A) Not later than October 24, 1994, the Secretary shall p
 
 (ii) The definition of “regulated gathering line” for hazardous liquid may not include a crude oil gathering line that has a nominal diameter of not more than 6 inches, is operated at low pressure, and is located in a rural area that is not unusually sensitive to environmental damage.
 
-(Pub. L. 103–272, §§1(e), 4(s), July 5, 1994, 108 Stat. 1301, 1371; Pub. L. 104–287, §5(90), Oct. 11, 1996, 110 Stat. 3398; Pub. L. 104–304, §§3, 20(f), Oct. 12, 1996, 110 Stat. 3793, 3805; Pub. L. 109–468, §7, Dec. 29, 2006, 120 Stat. 3491.)
+(Pub. L. 103–272, §§1(e), 4(s), July 5, 1994, 108 Stat. 1301, 1371; Pub. L. 104–287, §5(90), Oct. 11, 1996, 110 Stat. 3398; Pub. L. 104–304, §§3, 20(f), Oct. 12, 1996, 110 Stat. 3793, 3805; Pub. L. 109–468, §7, Dec. 29, 2006, 120 Stat. 3491; Pub. L. 112–90, §14, Jan. 3, 2012, 125 Stat. 1914.)
 
 Historical and Revision Notes
 
@@ -306,13 +308,15 @@ This amends 49:60101 for consistency with the style of title 49.
 
 #### References in Text
 
-The Natural Gas Act, referred to in subsecs. (a)(1)(A)(ii), (6)(B), (9) and (b)(1)(B)(ii), is act June 21, 1938, ch. 556, 52 Stat. 821, which is classified generally to chapter 15B (§717 et seq.) of Title 15, Commerce andTrade. For complete classification of this Act to the Code, see section 717w of Title 15 and Tables.
+The Natural Gas Act, referred to in subsecs. (a)(1)(A)(ii), (6)(B), (9) and (b)(1)(B)(ii), is act June 21, 1938, ch. 556, 52 Stat. 821, which is classified generally to chapter 15B (§717 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 717w of Title 15 and Tables.
 
 #### Codification
 
 The amendments by section 4(s) of Pub. L. 103–272 to pars. (21) and (22) of subsec. (a) of this section were executed after the amendments by Pub. L. 104–304 to those pars. pursuant to the effective date provisions of section 4(s). See Effective Date of 1994 Amendment note and 1994 and 1996 Amendment notes below.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a)(4)(B), (C). Pub. L. 112–90 added subpar. (B) and redesignated former subpar. (B) as (C).
 
 <b>2006</b>—Subsec. (a)(6). Pub. L. 109–468, §7(1), added par. (6) and struck out former par. (6) which defined “interstate gas pipeline facility”.
 
@@ -339,6 +343,10 @@ Subsec. (b)(2)(A). Pub. L. 104–304, §§3(b), 20(f), inserted “, if appropr
 #### Effective Date of 1994 Amendment
 
 Section 4(s) of Pub. L. 103–272 provided that the amendment made by that section is effective on the date the regulation required under subsec. (b) of this section is effective. See regulations effective Apr. 14, 2006, 71 F.R. 13289, and July 3, 2008, 73 F.R. 31634.
+
+#### Short Title of 2012 Amendment
+
+Pub. L. 112–90, §1(a), Jan. 3, 2012, 125 Stat. 1904, provided that: “This Act \[enacting sections 60138 to 60140 of this title, amending this section, sections 6103, 6107, 60102, 60107 to 60109, 60117 to 60120, 60122, 60125, 60130, 60132, and 60134 of this title, and section 1321 of Title 33, Navigation and Navigable Waters, enacting provisions set out as notes under this section and sections 6103, 60108, 60109, 60117, and 60132 of this title, and amending provisions set out as a note under this section\] may be cited as the ‘Pipeline Safety, Regulatory Certainty, and Job Creation Act of 2011’.”
 
 #### Short Title of 2006 Amendment
 
@@ -408,7 +416,7 @@ Authorization of Appropriations.—There are authorized to be appropriated such 
 
 #### Pipeline Integrity, Safety, and Reliability Research and Development
 
-Pub. L. 107–355, §12, Dec. 17, 2002, 116 Stat. 2997, as amended by Pub. L. 109–468, §26, Dec. 29, 2006, 120 Stat. 3501, provided that:
+Pub. L. 107–355, §12, Dec. 17, 2002, 116 Stat. 2997, as amended by Pub. L. 109–468, §26, Dec. 29, 2006, 120 Stat. 3501; Pub. L. 112–90, §32(f), Jan. 3, 2012, 125 Stat. 1923, provided that:
 
 “(a)
 
@@ -420,7 +428,7 @@ Memorandum of Understanding.—
 
 &emsp;“(1)
 
-In general.—Not later than 120 days after the date of enactment of this Act \[Dec. 17, 2002\], theheads of the participating agencies shall enter into a memorandum of understanding detailing their respective responsibilities in the program authorized by subsection (a).
+In general.—Not later than 120 days after the date of enactment of this Act \[Dec. 17, 2002\], the heads of the participating agencies shall enter into a memorandum of understanding detailing their respective responsibilities in the program authorized by subsection (a).
 
 &emsp;“(2)
 
@@ -432,7 +440,7 @@ Program Elements.—The program authorized by subsection (a) shall include resea
 
 &emsp;“(1) materials inspection;
 
-&emsp;“(2) stress and fracture analysis, detection of cracks, abrasion, and other abnormalities inside pipelines that lead to pipeline failure, and development of new equipment or technologies that are inserted into pipelines to detect anomalies;
+&emsp;“(2) stress and fracture analysis, detection of cracks, abrasion, and other abnormalities inside pipelines that lead to pipeline failure, and development ofnew equipment or technologies that are inserted into pipelines to detect anomalies;
 
 &emsp;“(3) internal inspection and leak detection technologies, including detection of leaks at very low volumes;
 
@@ -466,17 +474,45 @@ In general.—Not later than 1 year after the date of enactment of this section 
 
 Consultation.—In preparing the program plan and selecting and prioritizing appropriate project proposals, the Secretary of Transportation shall consult with or seek the advice of appropriate representatives of the natural gas, crude oil, and petroleum product pipeline industries, utilities, manufacturers, institutions of higher learning, Federal agencies, pipeline research institutions, national laboratories, State pipeline safety officials, labor organizations, environmental organizations, pipeline safety advocates, and professional and technical societies.
 
+&emsp;“(3)
+
+Ongoing pipeline transportation research and development.—
+
+&emsp;&emsp;“(A)
+
+In general.—After the initial 5-year program plan has been carried out by the participating agencies, the Secretary of Transportation, in coordination with the Director of the National Institute of Standards and Technology, as appropriate, shall prepare a research and development program plan every 5 years thereafter and shall transmit a report to Congress on the status and results-to-date of implementation of the program every 2 years. The biennial report shall include a summary of updated research needs and priorities identified through the consultation requirements of paragraph (2).
+
+&emsp;&emsp;“(B)
+
+Consultation.—The Secretary shall comply with the consultation requirements of paragraph (2) when preparing the program plan and in the selection and prioritization of research and development projects.
+
+&emsp;&emsp;“(C)
+
+Funding from non-federal sources.—The Secretary shall ensure at least 30 percent of the costs of program-wide research and development activities are carried out using non-Federal sources.
+
 “(e)
 
 Reports to Congress.—Not later than 1 year after the date of enactment of this Act \[Dec. 17, 2002\], and annually thereafter, the heads of the participating agencies shall transmit jointly to Congress a report on the status and results to date of the implementation of the program plan prepared under subsection (d).
 
 “(f)
 
-Pipeline Integrity Program.—Of the amounts available in the Oil Spill Liability Trust Fund established by section 9509 of the Internal Revenue Code of 1986 (26 U.S.C. 9509), $3,000,000 shall be transferred to the Secretary of Transportation, as provided in appropriation Acts, to carry out programs for detection, prevention, and mitigation of oil spills for each of the fiscal years 2003 through 2006.
+Pipeline Integrity Program.—Of the amounts available in the Oil Spill Liability Trust Fund established by section 9509 of the Internal Revenue Code of 1986 (26 U.S.C. 9509), $3,000,000 shall be transferred to the Secretary of Transportation, as provided in appropriation Acts, to carry out programs for detection, prevention, and mitigation of oil spills for each of the fiscal years 2012 through 2015.
 
 “(g)
 
 Participating Agencies Defined.—In this section, the term ‘participating agencies’ means the Department of Transportation, the Department of Energy, and the National Institute of Standards and Technology.”
+
+#### Definitions
+
+Pub. L. 112–90, §1(c), Jan. 3, 2012, 125 Stat. 1904, provided that:
+
+“(1)
+
+Applicability of chapter 601 definitions.—In this Act \[see Short Title of 2012 Amendment note above\], any term defined in chapter 601 of title 49, United States Code, has the meaning given that term in that chapter.
+
+“(2)
+
+High-consequence area.—In this Act, the term ‘high-consequence area’ means an area described in section 60109(a) of title 49, United States Code.”
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

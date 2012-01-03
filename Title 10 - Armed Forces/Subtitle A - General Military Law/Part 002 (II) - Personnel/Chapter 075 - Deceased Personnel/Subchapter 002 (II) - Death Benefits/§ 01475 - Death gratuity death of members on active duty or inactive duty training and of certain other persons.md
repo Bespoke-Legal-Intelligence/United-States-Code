@@ -6,7 +6,7 @@
 
 &emsp;(2) a Reserve of an armed force who dies while on inactive duty training (other than work or study in connection with a correspondence course of an armed force or attendance, in an inactive status, at an educational institution under the sponsorship of an armed force or the Public Health Service);
 
-&emsp;(3) any Reserve of an armed force who, when authorized or required by an authority designated by the Secretary, assumed an obligation to perform active duty for training, or inactive duty training (other than work or study in connection with a correspondence course of an armed force or attendance, in an inactive status, at an educational institution, under the sponsorship of an armed force or the Public Health Service), and who dies while traveling directly to or from that active duty for training or inactive duty training;
+&emsp;(3) any Reserve of an armed force who, when authorized or required by an authority designated by the Secretary, assumed an obligation to perform active duty for training, or inactive duty training (other than work or study in connection with a correspondence course of an armed force or attendance, in an inactive status, at an educational institution, under the sponsorship of an armed force or the Public Health Service), and who dies while traveling directly to or from that active duty for training or inactive duty training or while staying at the Reserve's residence, when so authorized by proper authority, during the period of such inactive duty training or between successive days of inactive duty training;
 
 &emsp;(4) any member of a reserve officers’ training corps who dies while performing annual training duty under orders for a period of more than 13 days, or while performing authorized travel to or from that annual training duty; or any applicant for membership in a reserve officers’ training corps who dies while attending field training or a practice cruise under section 2104(b)(6)(B) of this title or while performing authorized travel to or from the place where the training or cruise is conducted; or
 
@@ -18,7 +18,7 @@
 
 (b) This section does not apply to the survivors of persons who were temporary members of the Coast Guard Reserve at the time of their death.
 
-(Added Pub. L. 85–861, §1(32)(A), Sept. 2, 1958, 72 Stat. 1452; amended Pub. L. 88–647, title III, §301(1), Oct. 13, 1964, 78 Stat. 1071; Pub. L. 96–513, title V, §511(59), Dec. 12, 1980, 94 Stat. 2925; Pub. L. 99–661, div. A, title VI, §604(e)(1), Nov. 14, 1986, 100 Stat. 3877.)
+(Added Pub. L. 85–861, §1(32)(A), Sept. 2, 1958, 72 Stat. 1452; amended Pub. L. 88–647, title III, §301(1), Oct. 13, 1964, 78 Stat. 1071; Pub. L. 96–513, title V, §511(59), Dec. 12, 1980, 94 Stat. 2925; Pub. L. 99–661, div. A, title VI, §604(e)(1), Nov. 14, 1986, 100 Stat. 3877; Pub. L. 112–81, div. A, title VI, §651(a)(1), Dec. 31, 2011, 125 Stat. 1466.)
 
 Historical and Revision Notes
 
@@ -62,11 +62,17 @@ The Military Selective Service Act, referred to in subsec. (a)(5)(B), is act Jun
 
 #### Amendments
 
+<b>2011</b>—Subsec. (a)(3). Pub. L. 112–81 inserted “or while staying at the Reserve's residence, when so authorized by proper authority, during the period of such inactive duty training or between successive days of inactive duty training” before the semicolon at the end.
+
 <b>1986</b>—Subsec. (a)(3). Pub. L. 99–661 struck out “from an injury incurred by him after December 31, 1956,” before “while traveling directly to or from”.
 
 <b>1980</b>—Subsec. (a)(5)(B). Pub. L. 96–513 substituted “Military Selective Service Act (50 U.S.C. App. 451 et seq.)” for “Universal Military Training and Service Act (50 App. U.S.C. 451 et seq.)”.
 
 <b>1964</b>—Subsec. (a)(4). Pub. L. 88–647 inserted provisions covering applicants for membership in a reserve officers’ training corps while attending, or in travel to or from field training or a practice cruise.
+
+#### Effective Date of 2011 Amendment
+
+Pub. L. 112–81, div. A, title VI, §651(c), Dec. 31, 2011, 125 Stat. 1467, provided that: “The amendments made by this section \[amending this section and sections 1478 and 1481 of this title\] shall take effect on the date of the enactment of this Act \[Dec. 31, 2011\], and shall apply with respect to deaths that occur on or after that date.”
 
 #### Effective Date of 1986 Amendment
 
@@ -116,7 +122,7 @@ Incorporation of past experience and practice.—The policy developed under para
 
 &emsp;“(4)
 
-Procedures.—The policy shall include procedures to be followed by the military departments in the provision of casualty assistance to survivors and next of kin of military decedents. The procedures shall be uniform across the military departments except to the extent necessary to reflect the traditional practices or customs of a particular military department.
+Procedures.—The policy shall include procedures to be followed by the military departments in the provision of casualty assistance to survivors and next of kin of military decedents. The proceduresshall be uniform across the military departments except to the extent necessary to reflect the traditional practices or customs of a particular military department.
 
 “(b)
 

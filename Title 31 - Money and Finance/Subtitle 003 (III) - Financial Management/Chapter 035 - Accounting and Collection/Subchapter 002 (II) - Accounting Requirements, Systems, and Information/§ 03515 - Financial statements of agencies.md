@@ -80,7 +80,7 @@ Agencies described.—An agency referred to in paragraph (1) is any covered exec
 
 #### Report on Substantial Commercial Functions
 
-Section 303(c) of Pub. L. 101–576 directed Director of Office of Management and Budget, not later than 180 days after Nov. 15, 1990, to determine and report to Congress on which executive agencies or parts thereof perform substantial commercial functions for which financial statements can be prepared practicably under 31 U.S.C. 3515.
+Section 303(c) of Pub. L. 101–576 directed Director of Office of Management and Budget, not later than 180days after Nov. 15, 1990, to determine and report to Congress on which executive agencies or parts thereof perform substantial commercial functions for which financial statements can be prepared practicably under 31 U.S.C. 3515.
 
 #### Pilot Project for Preparation and Audit of Financial Statements; Report to Congress
 

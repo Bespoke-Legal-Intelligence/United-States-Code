@@ -26,7 +26,7 @@ A covered entity—
 
 &emsp;(3) may require that employees behave in conformance with the requirements established under chapter 81 of title 41;
 
-&emsp;(4) may hold an employee who engages in the illegal use of drugs or who is an alcoholic to the same qualification standards for employment or job performance and behavior thatsuch entity holds other employees, even if any unsatisfactory performance or behavior is related to the drug use or alcoholism of such employee; and
+&emsp;(4) may hold an employee who engages in the illegal use of drugs or who is an alcoholic to the same qualification standards for employment or job performance and behavior that such entity holds other employees, even if any unsatisfactory performance or behavior is related to the drug use or alcoholism of such employee; and
 
 &emsp;(5) may, with respect to Federal regulations regarding alcohol and the illegal use of drugs, require that—
 

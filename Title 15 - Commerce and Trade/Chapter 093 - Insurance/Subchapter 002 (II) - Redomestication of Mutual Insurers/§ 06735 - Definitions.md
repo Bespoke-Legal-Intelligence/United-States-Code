@@ -44,7 +44,7 @@ For purposes of this subchapter, the following definitions shall apply:
 
 #### (11) Redomestication or transfer
 
-&emsp;The term “redomestication” or “transfer” means the transfer of the domicile of a mutual insurer from one State to another State pursuant to this subchapter.
+&emsp;The term “redomestication” or “transfer” means the transfer of the domicile of a mutualinsurer from one State to another State pursuant to this subchapter.
 
 #### (12) State insurance regulator
 

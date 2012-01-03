@@ -12,7 +12,7 @@
 
 #### (2) Phasein
 
-&emsp;In the case of any taxable year beginning after 2004 and before 2010, paragraph (1) shall be applied by substituting for the percentagecontained therein the transition percentage determined under the following table:
+&emsp;In the case of any taxable year beginning after 2004 and before 2010, paragraph (1) shall be applied by substituting for the percentage contained therein the transition percentage determined under the following table:
 
 <b>For taxable years</b>
 
@@ -278,7 +278,7 @@ For purposes of this section—
 
 #### (B) Special rule for applying wage limitation
 
-&emsp;&emsp;In the case of any taxpayer described in subparagraph (A), for purposes of applying the limitation under subsection (b) for any taxable year, the determination of W–2 wages of such taxpayer shall be made without regard to any exclusion under section3401(a)(8) for remuneration paid for services performed in Puerto Rico.
+&emsp;&emsp;In the case of any taxpayer described in subparagraph (A), for purposes of applying the limitation under subsection (b) for any taxable year, the determination of W–2 wages of such taxpayer shall be made without regard to any exclusion under section 3401(a)(8) for remuneration paid for services performed in Puerto Rico.
 
 #### (C) Termination
 

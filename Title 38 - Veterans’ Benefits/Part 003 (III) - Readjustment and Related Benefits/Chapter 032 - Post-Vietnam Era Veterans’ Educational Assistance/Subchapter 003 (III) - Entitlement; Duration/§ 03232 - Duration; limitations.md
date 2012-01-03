@@ -16,7 +16,7 @@
 
 (B) If no application for refund of contributions under subparagraph (A) of this paragraph is received from a disenrolled veteran within one year after the date the notice referred to in such subparagraph is transmitted to the veteran, it shall be presumed that the veteran's whereabouts is unknown and the funds shall be transferred to the Secretary for payments for entitlement earned under subchapter II of chapter 30.
 
-(c)(1) Subject to paragraph (3), the amount of educational assistance payable under this chapter for a licensing or certification test describedin section 3452(b) of this title is the lesser of $2,000 or the fee charged for the test.
+(c)(1) Subject to paragraph (3), the amount of educational assistance payable under this chapter for a licensing or certification test described in section 3452(b) of this title is the lesser of $2,000 or the fee charged for the test.
 
 (2) The number of months of entitlement charged in the case of any individual for such licensing or certification test is equal to the number (including any fraction) determined by dividing the total amount paid to such individual for such test by the full-time monthly institutional rate of the educational assistance allowance which, except for paragraph (1), such individual would otherwise be paid under this chapter.
 

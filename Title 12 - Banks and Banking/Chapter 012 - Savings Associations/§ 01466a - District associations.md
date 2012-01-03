@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Director shall, with respect to all incorporated or unincorporated building, building or loan, building and loan, or homestead associations, and similar institutions, of or transacting or doing business in the District of Columbia, or maintaining any office in the District of Columbia (other than Federal savings associations), have the same powers and functions as to examination, operation, and regulation as the Director has with respect to Federal savings associations.
+The Comptroller shall, with respect to all incorporated or unincorporated building, building or loan, building and loan, or homestead associations, and similar institutions, of or transacting or doing business in the District of Columbia, or maintaining any office in the District of Columbia (other than Federal savings associations), have the same powers and functions as to examination, operation, and regulation as the Comptroller has with respect to Federal savings associations.
 
 #### (b) Additional powers
 
@@ -10,13 +10,13 @@ Any such association or institution incorporated under the laws of, or organized
 
 #### (c) Charter amendments
 
-Charters, certificates of incorporation, articles of incorporation, constitutions, bylaws, or other organic documents of associations or institutions referred to in subsection (b) of this section may, without regard to anything contained therein or otherwise, be amended in such manner and to such extent and upon such votes if any as the Director may by regulation or otherwise provide.
+Charters, certificates of incorporation, articles of incorporation, constitutions, bylaws, or other organic documents of associations or institutions referred to in subsection (b) of this section may, without regard to anything contained therein or otherwise, be amended in such manner and to such extent and upon such votes if any as the Comptroller may by regulation or otherwise provide.
 
 #### (d) Limitation
 
-Nothing in this section shall cause, or permit the Director to cause, District of Columbia associations to be or become Federal savings associations, or require the Director to impose on District of Columbia associations the same regulations as are imposed on Federal savings associations.
+Nothing in this section shall cause, or permit the Comptroller to cause, District of Columbia associations to be or become Federal savings associations, or require the Comptroller to impose on District of Columbia associations the same regulations as are imposed on Federal savings associations.
 
-(June 13, 1933, ch. 64, §8, as added Pub. L. 91–609, title IX, §913, Dec. 31, 1970, 84 Stat. 1815; amended Pub. L. 101–73, title III, §301, Aug. 9, 1989, 103 Stat. 315.)
+(June 13, 1933, ch. 64, §8, as added Pub. L. 91–609, title IX, §913, Dec. 31, 1970, 84 Stat. 1815; amended Pub. L. 101–73, title III, §301, Aug. 9, 1989, 103 Stat. 315; Pub. L. 111–203, title III, §369(6), July 21, 2010, 124 Stat. 1563.)
 
 #### Prior Provisions
 
@@ -24,5 +24,11 @@ A prior section 8 of act June 13, 1933, ch. 64, 48 Stat. 134, was classified to 
 
 #### Amendments
 
-1989—Pub. L. 101–73 amended section generally, substituting provisions relating to Director and Federal savings associations for former provisions relating to Federal Home Loan Bank Board and Federal savings and loan associations.
+<b>2010</b>—Pub. L. 111–203 substituted “Comptroller” for “Director” wherever appearing.
+
+<b>1989</b>—Pub. L. 101–73 amended section generally, substituting provisions relating to Director and Federal savings associations for former provisions relating to Federal Home Loan Bank Board and Federal savings and loan associations.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the transfer date, see section 351 of Pub. L. 111–203, set out as a note under section 906 of Title 2, The Congress.
 

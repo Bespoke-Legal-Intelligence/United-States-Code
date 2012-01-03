@@ -8,7 +8,7 @@ If any funds authorized for carrying out this chapter are subject to a reprogram
 
 #### (1) Requirement
 
-&emsp;The Secretary shall provide notice to the Committees on Science and Appropriations of the House of Representatives, and the Committees on Commerce, Science, and Transportation and Appropriations of the Senate, not later than 15 days before any major reorganization of any program, project, or activity of the Institute.
+&emsp;The Secretary shall provide notice to the Committees on Science and Appropriations of the House of Representatives, and the Committees on Commerce, Science, and Transportation and Appropriations of the Senate, notlater than 15 days before any major reorganization of any program, project, or activity of the Institute.
 
 #### (2) “Major reorganization” defined
 
@@ -18,5 +18,5 @@ If any funds authorized for carrying out this chapter are subject to a reprogram
 
 #### Change of Name
 
-Committee on Science of House of Representatives changed to Committee on Science and Technology ofHouse of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 

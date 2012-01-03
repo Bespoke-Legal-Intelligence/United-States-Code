@@ -42,7 +42,7 @@ Within 270 days after October 28, 1992, the Commission shall, by regulation, est
 
 &emsp;&emsp;(D) a statement of the pay-per-call service's name, business address, and business telephone; and
 
-&emsp;&emsp;(E) such other information as the Commission considers necessary for the enforcement of this section and other applicable Federal statutes and regulations.
+&emsp;&emsp;(E) such other information as the Commission considers necessary for the enforcementof this section and other applicable Federal statutes and regulations.
 
 #### (3) Compliance procedures
 
@@ -80,7 +80,7 @@ Within 270 days after October 28, 1992, the Commission shall, by regulation, est
 
 &emsp;&emsp;(C) the calling party being charged for information conveyed during the call unless—
 
-&emsp;&emsp;&emsp;(i) the calling party has a written agreement (including an agreement transmittedthrough electronic medium) that meets the requirements of paragraph (8); or
+&emsp;&emsp;&emsp;(i) the calling party has a written agreement (including an agreement transmitted through electronic medium) that meets the requirements of paragraph (8); or
 
 &emsp;&emsp;&emsp;(ii) the calling party is charged for the information in accordance with paragraph (9);
 
@@ -170,7 +170,7 @@ Within 270 days after October 28, 1992, the Commission shall, by regulation, est
 
 #### (11) “Calling card” defined
 
-&emsp;As used in this subsection, the term “calling card” means an identifying number or codeunique to the individual, that is issued to the individual by a common carrier and enables the individual to be charged by means of a phone bill for charges incurred independent of where the call originates.
+&emsp;As used in this subsection, the term “calling card” means an identifying number or code unique to the individual, that is issued to the individual by a common carrier and enables the individual to be charged by means of a phone bill for charges incurred independent of where the call originates.
 
 #### (d) Billing and collection practices
 
@@ -226,7 +226,7 @@ The regulations required by this section shall require that any common carrier t
 
 #### (2) Consumer protection laws
 
-&emsp;Nothing in this section shall relieve any provider of pay-per-call services, common carrier,local exchange carrier, or any other person from the obligation to comply with any Federal, State, or local statute or regulation relating to consumer protection or unfair trade.
+&emsp;Nothing in this section shall relieve any provider of pay-per-call services, common carrier, local exchange carrier, or any other person from the obligation to comply with any Federal, State, or local statute or regulation relating to consumer protection or unfair trade.
 
 #### (3) Gambling laws
 
@@ -267,6 +267,8 @@ For purposes of this section—
 (June 19, 1934, ch. 652, title II, §228, as added Pub. L. 102–556, title I, §101, Oct. 28, 1992, 106 Stat. 4182; amended Pub. L. 103–414, title III, §303(a)(13), (14), Oct. 25, 1994, 108 Stat. 4294; Pub. L. 104–104, title VII, §701(a)(1), (b)(2), Feb. 8, 1996, 110 Stat. 145, 148.)
 
 #### References in Text
+
+This chapter, referred to in subsec. (b), was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
 The Telephone Disclosure and Dispute Resolution Act, referred to in subsecs. (c)(1), (3), (d)(1)(A), (e), and (f)(1), is Pub. L. 102–556, Oct. 28, 1992, 106 Stat. 4181. Titles II and III of the Act are classified generally to subchapters I (§5711 et seq.) and II (§5721 et seq.), respectively, of chapter 83 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 5701(a) of Title 15 and Tables.
 

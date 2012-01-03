@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 18 months after August 14, 2008, the Secretary, in coordination with the Board of Governors of the Federal Reserve System, shall determine the minimum information that lenders, covered institutions, and institution-affiliated organizations of such covered institutions participating in preferred lender arrangements shall make available regarding education loans described in section 1019(3)(A) of this title that are offered to students and the families of such students.
+&emsp;&emsp;Not later than 18 months after August 14, 2008, the Secretary, in coordination with theBoard of Governors of the Federal Reserve System, shall determine the minimum information that lenders, covered institutions, and institution-affiliated organizations of such covered institutions participating in preferred lender arrangements shall make available regarding education loans described in section 1019(3)(A) of this title that are offered to students and the families of such students.
 
 #### (B) Consultation and content of minimum disclosures
 

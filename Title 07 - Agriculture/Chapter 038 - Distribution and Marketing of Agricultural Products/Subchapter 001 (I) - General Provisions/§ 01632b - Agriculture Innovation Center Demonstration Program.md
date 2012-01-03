@@ -150,7 +150,7 @@ An eligible entity to which a grant is made under the Program may use the grant 
 
 &emsp;The report under paragraph (1) shall—
 
-&emsp;&emsp;(A) include a description of the best practices and innovations found at each of the Agriculture Innovation Centers established under the Program; and
+&emsp;&emsp;(A) include a description of the best practices and innovations found at each of theAgriculture Innovation Centers established under the Program; and
 
 &emsp;&emsp;(B) specify the number and type of activities assisted, and the type of assistance provided, under the Program.
 
@@ -170,7 +170,7 @@ Section was formerly set out as a note under section 1621 of this title.
 
 #### Amendments
 
-2008—Subsec. (i). Pub. L. 110–246, §6203, added subsec. (i) and struck out former subsec. (i). Prior to amendment, text read as follows: “Of the amount made available under section 231(a)(1) of the Agricultural Risk Protection Act of 2000 (7 U.S.C. 1621 note; Public Law 106–224) for each fiscal year, the Secretary shall use to carry out this section—
+<b>2008</b>—Subsec. (i). Pub. L. 110–246, §6203, added subsec. (i) and struck out former subsec. (i). Prior to amendment, text read as follows: “Of the amount made available under section 231(a)(1) of the Agricultural Risk Protection Act of 2000 (7 U.S.C. 1621 note; Public Law 106–224) for each fiscal year, the Secretary shall use to carry out this section—
 
 &emsp;“(1) not less than $3,000,000 for fiscal year 2002; and
 
@@ -179,4 +179,6 @@ Section was formerly set out as a note under section 1621 of this title.
 #### Effective Date of 2008 Amendment
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “paragraph (1)”.</i>
 

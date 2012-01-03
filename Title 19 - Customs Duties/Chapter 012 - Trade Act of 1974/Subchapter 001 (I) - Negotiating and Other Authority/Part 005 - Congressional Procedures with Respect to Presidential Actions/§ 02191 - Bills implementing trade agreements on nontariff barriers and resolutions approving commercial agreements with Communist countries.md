@@ -48,7 +48,7 @@ No amendment to an implementing bill or approval resolution shall be in order in
 
 #### (f) Floor consideration in the House
 
-(1) A motion in the House of Representatives to proceed to the consideration of an implementing bill or approval resolution shall be highly privileged and not debatable. An amendment to the motion shall not be in order, nor shall it be in order to move to reconsider thevote by which the motion is agreed to or disagreed to.
+(1) A motion in the House of Representatives to proceed to the consideration of an implementing bill or approval resolution shall be highly privileged and not debatable. An amendment to the motion shall not be in order, nor shall it be in order to move to reconsider the vote by which the motion is agreed to or disagreed to.
 
 (2) Debate in the House of Representatives on an implementing bill or approval resolution shall be limited to not more than 20 hours, which shall be divided equally between those favoring and those opposing the bill or resolution. A motion further to limit debate shall not be debatable. It shall not be in order to move to recommit an implementing bill or approval resolution or to move to reconsider the vote by which an implementing bill or approval resolution is agreed to or disagreed to.
 

@@ -52,7 +52,7 @@ A prior section 300cc–13, act July 1, 1944, §2314, was successively renumbere
 
 #### Amendments
 
-<b>1991</b>—Pub. L. 102–96, §3(1), substituted “Terry Beirn Community-Based AIDS Research Initiative” for“Community-based evaluations of experimental therapies” in section catchline.
+<b>1991</b>—Pub. L. 102–96, §3(1), substituted “Terry Beirn Community-Based AIDS Research Initiative” for “Community-based evaluations of experimental therapies” in section catchline.
 
 Subsec. (c). Pub. L. 102–96, §3(2), substituted “, schools of medicine and primary providers” for “and schools of medicine” in heading and substituted “schools of medicine, osteopathic medicine, and existing consortia of primary care providers organized to conduct clinical research concerning acquired immune deficiency syndrome” for “schools of medicine and osteopathic medicine”.
 

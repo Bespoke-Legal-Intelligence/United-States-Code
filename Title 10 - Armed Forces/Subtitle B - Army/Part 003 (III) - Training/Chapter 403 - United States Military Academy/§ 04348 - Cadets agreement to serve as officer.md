@@ -32,7 +32,7 @@
 
 &emsp;(3) standards for determining the period of time for which a person may be ordered to serve on active duty under subsection (b).
 
-(d) In this section, the term “commissioned service obligation”, with respect to an officer who is a graduate of the Academy, means the period beginning on the date of the officer's appointment as a commissioned officer and ending on the sixth anniversary of such appointment or, at the discretion of the Secretary of Defense,any later date up to the eighth anniversary of such appointment.
+(d) In this section, the term “commissioned service obligation”, with respect to an officer who is a graduate of the Academy, means the period beginning on the date of the officer's appointment as a commissioned officer and ending on the sixth anniversary of such appointment or, at the discretion of the Secretary of Defense, any later date up to the eighth anniversary of such appointment.
 
 (e)(1) This section does not apply to a cadet who is not a citizen or national of the United States.
 
@@ -144,7 +144,7 @@ In general.—Not later than July 1, 2007, the Secretary of Defense shall prescr
 
 &emsp;“(2)
 
-Review of current policies.—In prescribing the policy, the Secretary shall review current policies, practices, and regulations of the military departments on the obligations for service on active duty as commissioned officers of graduates of the service academies and the Reserve Officers’ Training Corps, including policies on authorized leaves of absence and policies under excess leave programs.
+Review of current policies.—In prescribing the policy, the Secretary shall review current policies, practices, and regulations of the military departments on the obligations for service on active duty as commissioned officers of graduates of the service academies and the Reserve Officers’ TrainingCorps, including policies on authorized leaves of absence and policies under excess leave programs.
 
 &emsp;“(3)
 

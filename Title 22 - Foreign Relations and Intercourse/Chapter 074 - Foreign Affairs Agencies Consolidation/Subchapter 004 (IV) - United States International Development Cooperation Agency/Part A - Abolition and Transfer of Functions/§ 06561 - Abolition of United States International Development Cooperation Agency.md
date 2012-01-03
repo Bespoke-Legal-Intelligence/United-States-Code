@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Except for the components specified in subsection (b) of this section, the United States International Development Cooperation Agency (including the Institute for Scientific and Technological Cooperation) is abolished.
+Except for the components specified in subsection (b) of this section, the United StatesInternational Development Cooperation Agency (including the Institute for Scientific and Technological Cooperation) is abolished.
 
 #### (b) AID and OPIC exempted
 

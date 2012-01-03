@@ -14,7 +14,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 542(a) of the House amendment modifies similar provisions contained in the House bill and the Senate amendment treating with turnover of property to the estate. The section makes clear that any entity, other than a custodian, is required to deliver property of the estate to the trustee or debtor in possession whenever such property is acquired by the entity during the case, if the trustee or debtor in possession may use, sell, or lease the property under section 363, or if the debtor may exempt the property under section 522, unless the property is of inconsequential value or benefit to the estate. This section is not intended to require an entity to deliver property to the trustee if such entity has obtained an order of the court authorizing the entity to retain possession, custody or control of the property.
 
@@ -36,9 +36,9 @@ Subsection (e) requires an attorney, accountant, or other professional that hold
 
 #### Amendments
 
-1994—Subsec. (e). Pub. L. 103–394 substituted “to” for “to to” after “financial affairs,”.
+<b>1994</b>—Subsec. (e). Pub. L. 103–394 substituted “to” for “to to” after “financial affairs,”.
 
-1984—Subsec. (e). Pub. L. 98–353 inserted “to turn over or” before “disclose”.
+<b>1984</b>—Subsec. (e). Pub. L. 98–353 inserted “to turn over or” before “disclose”.
 
 #### Effective Date of 1994 Amendment
 

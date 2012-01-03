@@ -30,7 +30,7 @@ July 1, 1941, ch. 267, 55 Stat. 423.
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–343, which directed substitution of “an amount equal to the annual average of 25 percent of all amounts received for the applicable fiscal year and each of the preceding 6 fiscal years from each national forest shall be paid” for “twenty-five percentum” and all that follows through “shall be paid” in provisions of both acts May 23, 1908, and Mar. 1, 1911, on which this section is based, was executed by making the substitution for “twenty-five per centum of all moneys received during any fiscal year from each national forest shall be paid”, to reflect the probable intent of Congress.
+<b>2008</b>—Pub. L. 110–343, which directed substitution of “an amount equal to the annual average of 25 percentof all amounts received for the applicable fiscal year and each of the preceding 6 fiscal years from each national forest shall be paid” for “twenty-five percentum” and all that follows through “shall be paid” in provisions of both acts May 23, 1908, and Mar. 1, 1911, on which this section is based, was executed by making the substitution for “twenty-five per centum of all moneys received during any fiscal year from each national forest shall be paid”, to reflect the probable intent of Congress.
 
 <b>1976</b>—Pub. L. 94–588 inserted provision that beginning Oct. 1, 1976, the term “moneys received” would include all collections under the Act of June 9, 1930, and all amounts earned or allowed any purchaser of national forest timber and other forest products within such State as purchaser credits, for the construction of roads on the National Forest Transportation System within such national forests or parts thereof in connection with any Forest Service timber sales contract, and that the Secretary of Agriculture shall, from time to time as he goes through his process of developing the budget revenue estimates, make available to the States his current projections of revenues and payments estimated to be made under the Act of May 23, 1908, as amended, or any other special Acts making payments in lieu of taxes, for their use for local budget planning purposes.
 
@@ -120,7 +120,7 @@ Members.—The Advisory Committee shall be composed of the following members:
 
 &emsp;&emsp;“(C) The Director of the Office of Management and Budget, or the Director's designee.
 
-&emsp;&emsp;“(D) Two members who are elected members of the governing branches of eligible counties; one such member to be appointed by the President pro tempore of the Senate (in consultation with the chairmen and ranking members of the committees of jurisdiction of the Senate) and one such member to be appointed by the Speaker of the House of Representatives (in consultation with the chairmen and ranking members of the committees of jurisdiction of the House of Representatives) within 60 days of the date of the enactment of this Act \[Oct. 11, 2000\].
+&emsp;&emsp;“(D) Two members who are elected members of the governing branches of eligible counties; one such member to be appointed by the President pro tempore of the Senate (in consultation with the chairmen and ranking members of the committees of jurisdiction of the Senate) and one such memberto be appointed by the Speaker of the House of Representatives (in consultation with the chairmen and ranking members of the committees of jurisdiction of the House of Representatives) within 60 days of the date of the enactment of this Act \[Oct. 11, 2000\].
 
 &emsp;&emsp;“(E) Two members who are elected members of school boards for, superintendents from, or teachers employed by, school districts in eligible counties; one such member to be appointed by the President pro tempore of the Senate (in consultation with the chairmen and ranking members of the committees of jurisdiction of the Senate) and one such member to be appointed by the Speaker of the House of Representatives (in consultation with the chairmen and ranking members of the committees of jurisdiction of the House of Representatives) within 60 days of the date of the enactment of this Act \[Oct. 11, 2000\].
 
@@ -210,7 +210,7 @@ Termination of Advisory Committee.—The Advisory Committee shall terminate on S
 
 “(f)
 
-Funding Source.—At the request of the Executive Director of the Advisory Committee, the Secretary of Agriculture shall provide funds from any account available to the Secretary, not to exceed $200,000 in fiscal year 2001, for the work of the Advisory Committee necessary to meet the requirements of this section.”
+Funding Source.—At the request of the Executive Director of the Advisory Committee, the Secretaryof Agriculture shall provide funds from any account available to the Secretary, not to exceed $200,000 in fiscal year 2001, for the work of the Advisory Committee necessary to meet the requirements of this section.”
 
 \[Pub. L. 108–319, §1, Oct. 5, 2004, 118 Stat. 1212, provided that the amendment made by section 1 to section 320 of Pub. L. 106–291, set out above, is effective as of Oct. 11, 2003.\]
 

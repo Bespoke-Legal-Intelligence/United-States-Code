@@ -14,7 +14,7 @@
 
 #### (2) Government checks; certain other checks
 
-&emsp;Funds deposited in an account at a depository institution by check shall be available for withdrawal not later than the business day after the business day on which such funds are deposited in the case of—
+&emsp;Funds deposited in an account at a depository institution by check shall be available forwithdrawal not later than the business day after the business day on which such funds are deposited in the case of—
 
 &emsp;&emsp;(A) a check which—
 
@@ -42,7 +42,7 @@
 
 &emsp;&emsp;&emsp;(iv) is endorsed only by the person to whom it was issued;
 
-&emsp;&emsp;(D) the first $100 deposited by check or checks on any one business day;
+&emsp;&emsp;(D) the first $200 deposited by check or checks on any one business day;
 
 &emsp;&emsp;(E) a check deposited in a branch of a depository institution and drawn on the same or another branch of the same depository institution if both such branches are located in the same State or the same check processing region;
 
@@ -74,9 +74,9 @@
 
 &emsp;&emsp;Not more than $400 (or the maximum amount allowable in the case of a withdrawal from an automated teller machine but not more than $400) of funds deposited by one or more checks to which this paragraph applies shall be available for cash withdrawal not later than 5 o'clock post meridian of the business day on which such funds are available under paragraph (1) or (2). If funds deposited by checks described in both paragraph (1) and paragraph (2) become available for cash withdrawal under this paragraph on the same business day, the limitation contained in this subparagraph shall apply to the aggregate amount of such funds.
 
-#### (C) $100 availability
+#### (C) $200 availability
 
-&emsp;&emsp;Any amount available for withdrawal under this paragraph shall be in addition tothe amount available under subsection (a)(2)(D) of this section.
+&emsp;&emsp;Any amount available for withdrawal under this paragraph shall be in addition to the amount available under subsection (a)(2)(D) of this section.
 
 #### (4) Applicability
 
@@ -100,7 +100,7 @@
 
 &emsp;&emsp;&emsp;Not more than $400 (or the maximum amount allowable in the case of a withdrawal from an automated teller machine but not more than $400) of funds deposited by one or more checks to which this subparagraph applies shall be available for cash withdrawal not later than 5 o'clock post meridian of the business day on which such funds are available under subparagraph (A).
 
-#### (iii) $100 availability
+#### (iii) $200 availability
 
 &emsp;&emsp;&emsp;Any amount available for withdrawal under this subparagraph shall be in addition to the amount available under subsection (a)(2)(D) of this section.
 
@@ -116,7 +116,7 @@
 
 #### (1) Reduction generally
 
-&emsp;Notwithstanding any other provision of law, the Board shall, by regulation, reduce the time periods established under subsections (b), (c), and (e) of this section to as short a time as possible and equal to the period of time achievable under the improved check clearing system for a receiving depository institution to reasonably expect to learn of the nonpayment of most items for each category of checks.
+&emsp;Notwithstanding any other provision of law, the Board, jointly with the Director of the Bureau of Consumer Financial Protection, shall, by regulation, reduce the time periods established under subsections (b), (c), and (e) of this section to as short a time as possible and equal to the period of time achievable under the improved check clearing system for a receiving depository institution to reasonably expect to learn of the nonpayment of most items for each category of checks.
 
 #### (2) Extension for certain deposits in noncontiguous States or territories
 
@@ -152,7 +152,7 @@
 
 #### (3) Study and report on ATM's
 
-&emsp;The Board shall, either directly or through the Consumer Advisory Council, establish andmaintain a dialogue with depository institutions and their suppliers on the computer software and hardware available for use by automated teller machines, and shall, not later than September 1 of each of the first 3 calendar years beginning after August 10, 1987, report to the Congress regarding such software and hardware and regarding the potential for improving the processing of automated teller machine deposits.
+&emsp;The Board shall, either directly or through the Consumer Advisory Council, establish and maintain a dialogue with depository institutions and their suppliers on the computer software and hardware available for use by automated teller machines, and shall, not later than September 1 of each of the first 3 calendar years beginning after August 10, 1987, report to the Congress regarding such software and hardware and regarding the potential for improving the processing of automated teller machine deposits.
 
 #### (f) Check return; notice of nonpayment
 
@@ -162,21 +162,31 @@ No provision of this section shall be construed as requiring that, with respect 
 
 &emsp;(2) any notice of nonpayment of any such check be given to such depository institution within the times set forth in subsection (a), (b), (c), or (e) of this section or in the regulations issued under any such subsection.
 
-(Pub. L. 100–86, title VI, §603, Aug. 10, 1987, 101 Stat. 637; Pub. L. 101–625, title X, §1001, Nov. 28, 1990, 104 Stat. 4424; Pub. L. 102–242, title II, §227(a), (b)(1), Dec. 19, 1991, 105 Stat. 2307.)
+(Pub. L. 100–86, title VI, §603, Aug. 10, 1987, 101 Stat. 637; Pub. L. 101–625, title X, §1001, Nov. 28, 1990, 104 Stat. 4424; Pub. L. 102–242, title II, §227(a), (b)(1), Dec. 19, 1991, 105 Stat. 2307; Pub. L. 111–203, title X, §1086(a), (e), July 21, 2010, 124 Stat. 2085, 2086.)
 
 #### Amendments
 
-1991—Subsec. (e)(1). Pub. L. 102–242, §227(b)(1)(A), struck out “—temporary schedule” after “ATM” in heading.
+<b>2010</b>—Subsec. (a)(2)(D). Pub. L. 111–203, §1086(e)(1), substituted “$200” for “$100”.
+
+Subsecs. (b)(3)(C), (c)(1)(B)(iii). Pub. L. 111–203, §1086(e)(2), (3), substituted “$200” for “$100” in heading.
+
+Subsec. (d)(1). Pub. L. 111–203, §1086(a), inserted “, jointly with the Director of the Bureau of Consumer Financial Protection,” after “Board”.
+
+<b>1991</b>—Subsec. (e)(1). Pub. L. 102–242, §227(b)(1)(A), struck out “—temporary schedule” after “ATM” in heading.
 
 Subsec. (e)(1)(C). Pub. L. 102–242, §227(a), struck out subpar. (C) which read as follows: “This paragraph shall apply with respect to funds deposited at a nonproprietary automated teller machine after August 31, 1988, and prior to the expiration of the 2-year period beginning on November 28, 1990.”
 
 Subsec. (e)(2) to (4). Pub. L. 102–242, §227(a), (b)(1)(B), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which related to permanent schedule for funds deposited at nonproprietary automated teller machines.
 
-1990—Subsec. (e)(1)(A). Pub. L. 101–625, §1001(1), substituted “4” for “6”.
+<b>1990</b>—Subsec. (e)(1)(A). Pub. L. 101–625, §1001(1), substituted “4” for “6”.
 
 Subsec. (e)(1)(C). Pub. L. 101–625, §1001(2), substituted “prior to the expiration of the 2-year period beginning on November 28, 1990” for “before September 1, 1990”.
 
 Subsec. (e)(2)(D). Pub. L. 101–625, §1001(3), substituted “the expiration of the 2-year period beginning on November 28, 1990” for “September 1, 1990”.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date
 

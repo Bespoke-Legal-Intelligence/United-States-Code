@@ -8,15 +8,15 @@
 
 #### Amendments
 
-1995—Subsec. (a). Pub. L. 104–88 substituted “Surface Transportation Board” for “Interstate Commerce Commission” in last sentence.
+<b>1995</b>—Subsec. (a). Pub. L. 104–88 substituted “Surface Transportation Board” for “Interstate Commerce Commission” in last sentence.
 
-1985—Subsec. (a). Pub. L. 99–198 inserted provision requiring that the Secretary consult with the Secretary of Health and Human Services prior to the issuance of regulations.
+<b>1985</b>—Subsec. (a). Pub. L. 99–198 inserted provision requiring that the Secretary consult with the Secretary of Health and Human Services prior to the issuance of regulations.
 
-1984—Subsec. (a). Pub. L. 98–443 substituted “the Secretary of Transportation” for “the Civil Aeronautics Board”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–443 substituted “the Secretary of Transportation” for “the Civil Aeronautics Board”.
 
-1976—Subsec. (a). Pub. L. 94–279 inserted “, or administration of statutes regulating the transportation in commerce or handling in connection therewith of any animals” after “exhibition”, and inserted provisions requiring the Secretary, prior to promulgating standards governing air transportation of animals in commerce, to consult with the specified Federal agencies concerned.
+<b>1976</b>—Subsec. (a). Pub. L. 94–279 inserted “, or administration of statutes regulating the transportation in commerce or handling in connection therewith of any animals” after “exhibition”, and inserted provisions requiring the Secretary, prior to promulgating standards governing air transportation of animals in commerce, to consult with the specified Federal agencies concerned.
 
-1970—Subsec. (a). Pub. L. 91–579, §16(1), inserted reference to exhibition of animals.
+<b>1970</b>—Subsec. (a). Pub. L. 91–579, §16(1), inserted reference to exhibition of animals.
 
 Subsec. (b). Pub. L. 91–579, §16(2), substituted “carrying out” for “effectuating”.
 

@@ -64,7 +64,7 @@ Notwithstanding subsection (a) of this section, none of the following persons is
 
 &emsp;(6) Any company primarily engaged, directly or through majority-owned subsidiaries, in one or more of the businesses described in paragraphs (3), (4), and (5) of this subsection, or in one or more of such businesses (from which not less than 25 per centum of such company's gross income during its last fiscal year was derived) together with an additional business or businesses other than investing, reinvesting, owning, holding, or trading in securities.
 
-&emsp;(7)(A) Any issuer, the outstanding securities of which are owned exclusively by persons who, at the time of acquisition of such securities, are qualified purchasers, and which is not making and does not at that time propose tomake a public offering of such securities. Securities that are owned by persons who received the securities from a qualified purchaser as a gift or bequest, or in a case in which the transfer was caused by legal separation, divorce, death, or other involuntary event, shall be deemed to be owned by a qualified purchaser, subject to such rules, regulations, and orders as the Commission may prescribe as necessary or appropriate in the public interest or for the protection of investors.
+&emsp;(7)(A) Any issuer, the outstanding securities of which are owned exclusively by persons who, at the time of acquisition of such securities, are qualified purchasers, and which is not making and does not at that time propose to make a public offering of such securities. Securities that are owned by persons who received the securities from a qualified purchaser as a gift or bequest, or in a case in which the transfer was caused by legal separation, divorce, death, or other involuntary event, shall be deemed to be owned by a qualified purchaser, subject to such rules, regulations, and orders as the Commission may prescribe as necessary or appropriate in the public interest or for the protection of investors.
 
 &emsp;(B) Notwithstanding subparagraph (A), an issuer is within the exception provided by this paragraph if—
 
@@ -128,7 +128,7 @@ Notwithstanding subsection (a) of this section, none of the following persons is
 
 &emsp;(D) For purposes of this paragraph—
 
-&emsp;&emsp;(i) a trust or fund is “maintained” by a charitable organization if the organization serves as a trustee or administrator of the trust or fund or has the power to remove the trustees or administrators of the trust or fund and to designate new trustees or administrators;
+&emsp;&emsp;(i) a trust or fund is “maintained” by a charitable organization if the organizationserves as a trustee or administrator of the trust or fund or has the power to remove the trustees or administrators of the trust or fund and to designate new trustees or administrators;
 
 &emsp;&emsp;(ii) the term “pooled income fund” has the same meaning as in section 642(c)(5) of title 26;
 
@@ -174,7 +174,7 @@ Subsec. (a)(2)(C). Pub. L. 104–290, §209(c)(6), substituted “which (i) are�
 
 Subsec. (c)(1). Pub. L. 104–290, §209(a)(1), inserted after first sentence “Such issuer shall be deemed to be an investment company for purposes of the limitations set forth in subparagraphs (A)(i) and (B)(i) of section 80a–12(d)(1) of this title governing the purchase or other acquisition by such issuer of any security issued by any registered investment company and the sale of any security issued by any registered open-end investment company to any such issuer.”
 
-Subsec. (c)(1)(A). Pub. L. 104–290, §209(a)(2), inserted “and is or, but for the exception provided for in thisparagraph or paragraph (7), would be an investment company,” after “voting securities of the issuer,” and struck out “unless, as of the date of the most recent acquisition by such company of securities of that issuer, the value of all securities owned by such company of all issuers which are or would, but for the exception set forth in this subparagraph, be excluded from the definition of investment company solely by this paragraph, does not exceed 10 per centum of the value of the company's total assets. Such issuer nonetheless is deemed to be an investment company for purposes of section 80a–12(d)(1) of this title” after “(other than short-term paper)”.
+Subsec. (c)(1)(A). Pub. L. 104–290, §209(a)(2), inserted “and is or, but for the exception provided for in this paragraph or paragraph (7), would be an investment company,” after “voting securities of the issuer,” and struck out “unless, as of the date of the most recent acquisition by such company of securities of that issuer, the value of all securities owned by such company of all issuers which are or would, but for the exception set forth in this subparagraph, be excluded from the definition of investment company solely by this paragraph, does not exceed 10 per centum of the value of the company's total assets. Such issuer nonetheless is deemed to be an investment company for purposes of section 80a–12(d)(1) of this title” after “(other than short-term paper)”.
 
 Subsec. (c)(2). Pub. L. 104–290, §209(a)(3), designated existing provisions as subpar. (A), substituted “acting as broker, and acting as market intermediary,” for “and acting as broker,”, and added subpar. (B).
 
@@ -240,7 +240,7 @@ Amendment by Pub. L. 104–62 applicable as defense to any claim in administrati
 
 #### Effective Date of 1976 Amendment
 
-Section 308(d)(2), (3) of Pub. L. 94–210, as amended by Pub. L. 94–555, title II, §220(c), Oct. 19, 1976, 90 Stat. 2629, provided that:
+Pub. L. 94–210, title III, §308(d)(2), (3), Feb. 5, 1976, 90 Stat. 57, as amended by Pub. L. 94–555, title II, §220(c), Oct. 19, 1976, 90 Stat. 2629, provided that:
 
 “(2) The amendment made by subsection (b) of this section \[amending section 78m of this title\] shall not apply to any report by any person with respect to a fiscal year of such person which began before the date of enactment of this Act \[Feb. 5, 1976\].
 
@@ -252,7 +252,7 @@ Amendment by Pub. L. 91–547 effective Dec. 14, 1970, see section 30 of Pub. L.
 
 #### Effective Date of 1942 Amendment
 
-Section 162(d) of act Oct. 21, 1942 (Revenue Act of 1942), as amended by act Dec. 17, 1943, ch. 346, §3, 57 Stat. 602, provided: “
+Act Oct. 21, 1942, ch. 619, title I, §162(d), 56 Stat. 866 (Revenue Act of 1942), as amended by act Dec. 17, 1943, ch. 346, §3, 57 Stat. 602, provided: “
 
 Taxable Years to Which Amendments Applicable.—The amendments made by this section \[to this section and sections 22, 23, and 165 of Title 26, I.R.C. 1939\] shall be applicable as to both the employer and employees only with respect to taxable years of the employer beginning after December 31, 1941, except that—
 
@@ -272,11 +272,11 @@ Taxable Years to Which Amendments Applicable.—The amendments made by this sect
 
 #### Regulations
 
-Section 209(d)(1) of Pub. L. 104–290 provided that: “Not later than 1 year after the date of enactment of this Act \[Oct. 11, 1996\], the Commission shall prescribe rules to implement the requirements of section 3(c)(1)(B) of the Investment Company Act of 1940 (15 U.S.C. 80a–3(c)(1)(B)), as amended by this section.”
+Pub. L. 104–290, title II, §209(d)(1), Oct. 11, 1996, 110 Stat. 3435, provided that: “Not later than 1 year after the date of enactment of this Act \[Oct. 11, 1996\], the Commission shall prescribe rules to implement the requirements of section 3(c)(1)(B) of the Investment Company Act of 1940 (15 U.S.C. 80a–3(c)(1)(B)), as amended by this section.”
 
-Section 209(d)(3) of Pub. L. 104–290 provided that: “Not later than 1 year after the date of enactment of this Act \[Oct. 11, 1996\], the Commission shall prescribe rules pursuant to its authority under section 6 of the Investment Company Act of 1940 \[15 U.S.C. 80a–6\] to permit the ownership of securities by knowledgeable employees of the issuer of the securities or an affiliated person without loss of the exception of the issuer under paragraph (1) or (7) of section 3(c) of that Act \[15 U.S.C. 80a–3(c)\] from treatment as an investment company under that Act \[15 U.S.C. 80a–1 et seq.\].”
+Pub. L. 104–290, title II, §209(d)(3), Oct. 11, 1996, 110 Stat. 3436, provided that: “Not later than 1 year after the date of enactment of this Act \[Oct. 11, 1996\], the Commission shall prescribe rules pursuant to its authority under section 6 of the Investment Company Act of 1940 \[15 U.S.C. 80a–6\] to permit the ownership of securities by knowledgeable employees of the issuer of the securities or an affiliated person without loss of the exception of the issuer under paragraph (1) or (7) of section 3(c) of that Act \[15 U.S.C. 80a–3(c)\] from treatment as an investment company under that Act \[15 U.S.C. 80a–1 et seq.\].”
 
-Section 209(d)(4) of Pub. L. 104–290 provided that: “Not later than 180 days after the date of enactment of this Act \[Oct. 11, 1996\], the Commission shall prescribe rules defining the term ‘beneficial owner’ for purposes of section 3(c)(7)(B) of the Investment Company Act of 1940 \[15 U.S.C. 80a–3(c)(7)(B)\], as amended by this Act.”
+Pub. L. 104–290, title II, §209(d)(4), Oct. 11, 1996, 110 Stat. 3436, provided that: “Not later than 180 days after the date of enactment of this Act \[Oct. 11, 1996\], the Commission shall prescribe rules defining the term ‘beneficial owner’ for purposes of section 3(c)(7)(B) of the Investment Company Act of 1940 \[15 U.S.C. 80a–3(c)(7)(B)\], as amended by this Act.”
 
 #### Transfer of Functions
 
@@ -284,7 +284,7 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 
 #### Protection of Church Employee Benefit Plans Under State Law
 
-Section 508(f) of Pub. L. 104–290 provided that:
+Pub. L. 104–290, title V, §508(f), Oct. 11, 1996, 110 Stat. 3448, provided that:
 
 “(1)
 

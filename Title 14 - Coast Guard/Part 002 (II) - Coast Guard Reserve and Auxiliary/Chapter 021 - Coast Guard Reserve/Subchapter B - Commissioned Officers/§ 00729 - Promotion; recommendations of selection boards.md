@@ -12,7 +12,7 @@
 
 (d)(1) Before convening a selection board to recommend Reserve officers for promotion, the Secretary shall establish a promotion zone for officers serving in each grade to be considered by the board. The Secretary shall determine the number of officers in the promotion zone for officers serving in any grade from among officers who are eligible for promotion in that grade.
 
-(2)(A) Before convening a selection board to recommend Reserve officers for promotion to a grade (other than the grade of lieutenant (junior grade)), the Secretary shall determine the maximum number of officers in that grade that the board may recommend for promotion.
+(2)(A) Before convening a selection board to recommend Reserve officers for promotion to agrade (other than the grade of lieutenant (junior grade)), the Secretary shall determine the maximum number of officers in that grade that the board may recommend for promotion.
 
 (B) The Secretary shall make the determination under subparagraph (A) of the maximum number that may be recommended with a view to having in an active status a sufficient number of Reserve officers in each grade to meet the needs of the Coast Guard for Reserve officers in an active status.
 
@@ -42,7 +42,7 @@
 
 (i) A Reserve officer whose name is on a list of selectees for promotion shall, unless that officer's promotion is lawfully withheld, be tendered an appointment in the next higher grade on the date a vacancy occurs, or as soon thereafter as practicable in the grade to which the officer was selected for promotion or, if promotion was determined in accordance with a running mate system, at the same time, or as soon thereafter as practicable, as that officer's running mate is tendered a similar appointment.
 
-(Added Pub. L. 96–322, §1, Aug. 4, 1980, 94 Stat. 1010; amended Pub. L. 97–417, §2(13), Jan. 4, 1983,96 Stat. 2086; Pub. L. 99–145, title V, §514(c)(1), Nov. 8, 1985, 99 Stat. 629; Pub. L. 106–398, §1 \[\[div. A\], title V, §502(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–99; Pub. L. 107–295, title IV, §411(a), Nov. 25, 2002, 116 Stat. 2118.)
+(Added Pub. L. 96–322, §1, Aug. 4, 1980, 94 Stat. 1010; amended Pub. L. 97–417, §2(13), Jan. 4, 1983, 96 Stat. 2086; Pub. L. 99–145, title V, §514(c)(1), Nov. 8, 1985, 99 Stat. 629; Pub. L. 106–398, §1 \[\[div. A\], title V, §502(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–99; Pub. L. 107–295, title IV, §411(a), Nov. 25, 2002, 116 Stat. 2118.)
 
 #### Prior Provisions
 
@@ -50,13 +50,13 @@ Provisions similar to those in this section were contained in section 780 of thi
 
 #### Amendments
 
-2002—Subsec. (i). Pub. L. 107–295 inserted “on the date a vacancy occurs, or as soon thereafter as practicable in the grade to which the officer was selected for promotion or, if promotion was determined in accordance with a running mate system,” after “grade”.
+<b>2002</b>—Subsec. (i). Pub. L. 107–295 inserted “on the date a vacancy occurs, or as soon thereafter as practicable in the grade to which the officer was selected for promotion or, if promotion was determined in accordance with a running mate system,” after “grade”.
 
-2000—Subsec. (d). Pub. L. 106–398 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Before convening a selection board to recommend Reserve officers for promotion to a grade above lieutenant (junior grade), the Secretary shall determine the total number of Reserve officers to be selected for promotion to that grade. The number to be selected shall normally be equal to the number of vacancies existing in that grade, plus the number of vacancies anticipated over the next twelve months, minus the number of officers on the list of selectees for that grade. The Secretary may, however, prescribe regulations that provide for the establishment of promotion opportunity percentages for each grade to ensure that equitable promotion opportunities exist among successive groups of Reserve officers being considered for promotion. The number so determined may not cause the number of Reserve officers in an active status in a grade to exceed that authorized for the grade concerned.”
+<b>2000</b>—Subsec. (d). Pub. L. 106–398 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Before convening a selection board to recommend Reserve officers for promotion to a grade above lieutenant (junior grade), the Secretary shall determine the total number of Reserve officers to be selected for promotion to that grade. The number to be selected shall normally be equal to the number of vacancies existing in that grade, plus the number of vacancies anticipated over the next twelve months, minus the number of officers on the list of selectees for that grade. The Secretary may, however, prescribe regulations that provide for the establishment of promotion opportunity percentages for each grade to ensure that equitable promotion opportunities exist among successive groups of Reserve officers being considered for promotion. The number so determined may not cause the number of Reserve officers in an active status in a grade to exceed that authorized for the grade concerned.”
 
-1985—Subsec. (e). Pub. L. 99–145 substituted “rear admiral (lower half)” for “commodore” wherever appearing.
+<b>1985</b>—Subsec. (e). Pub. L. 99–145 substituted “rear admiral (lower half)” for “commodore” wherever appearing.
 
-1983—Subsec. (e). Pub. L. 97–417 substituted “the grades of commodore and rear admiral” for “the grade of rear admiral”, and inserted “for promotion to the grade of commodore” after “consideration”.
+<b>1983</b>—Subsec. (e). Pub. L. 97–417 substituted “the grades of commodore and rear admiral” for “the grade of rear admiral”, and inserted “for promotion to the grade of commodore” after “consideration”.
 
 #### Effective Date of 2000 Amendment
 

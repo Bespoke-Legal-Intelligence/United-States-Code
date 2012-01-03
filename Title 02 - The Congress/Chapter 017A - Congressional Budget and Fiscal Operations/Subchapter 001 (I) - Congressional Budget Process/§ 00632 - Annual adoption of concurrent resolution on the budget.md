@@ -28,7 +28,7 @@ The concurrent resolution on the budget may—
 
 &emsp;(2) include reconciliation directives described in section 641 of this title;
 
-&emsp;(3) require a procedure under which all or certain bills or resolutions providing newbudget authority or new entitlement authority for such fiscal year shall not be enrolled until the Congress has completed action on any reconciliation bill or reconciliation resolution or both required by such concurrent resolution to be reported in accordance with section 641(b) of this title;
+&emsp;(3) require a procedure under which all or certain bills or resolutions providing new budget authority or new entitlement authority for such fiscal year shall not be enrolled until the Congress has completed action on any reconciliation bill or reconciliation resolution or both required by such concurrent resolution to be reported in accordance with section 641(b) of this title;
 
 &emsp;(4) set forth such other matters, and require such other procedures, relating to the budget, as may be appropriate to carry out the purposes of this Act;
 
@@ -110,11 +110,11 @@ The Committee on the Budget of the House of Representatives shall consult with t
 
 It shall not be in order in the Senate to consider any concurrent resolution on the budget (or amendment, motion, or conference report on the resolution) that would decrease the excess of social security revenues over social security outlays in any of the fiscal years covered by the concurrent resolution. No change in chapter 1 of the Internal Revenue Code of 1986 \[26 U.S.C. 1 et seq.\] shall be treated as affecting the amount of social security revenues unless such provision changes the income tax treatment of social security benefits.
 
-(Pub. L. 93–344, title III, §301, July 12, 1974, 88 Stat. 306; Pub. L. 95–523, title III, §§303(a), 304, Oct. 27, 1978, 92 Stat. 1905, 1906; Pub. L. 99–177, title II, §201(b), Dec. 12, 1985, 99 Stat. 1040; Pub. L. 100–119, title I, §106(d), title II, §208(a), Sept. 29, 1987, 101 Stat. 781, 786; Pub. L. 100–418, title V, §5302, Aug. 23, 1988, 102 Stat. 1462; Pub. L. 101–508, title XIII, §§13112(a)(5), 13203, 13204, 13301(b), 13303(a), (b), Nov. 5, 1990, 104 Stat. 1388–608, 1388–615, 1388–616, 1388–623, 1388–625; Pub. L. 104–4, title I, §102(2), Mar. 22, 1995, 109 Stat. 62; Pub. L. 105–33, title X, §10105(a)–(f)(1), Aug. 5, 1997, 111 Stat. 679, 680.)
+(Pub. L. 93–344, title III, §301, July 12, 1974, 88 Stat. 306; Pub. L. 95–523, title III, §§303(a), 304, Oct. 27, 1978, 92 Stat. 1905, 1906; Pub. L. 99–177, title II, §201(b), Dec. 12, 1985, 99 Stat. 1040; Pub.L. 100–119, title I, §106(d), title II, §208(a), Sept. 29, 1987, 101 Stat. 781, 786; Pub. L. 100–418, title V, §5302, Aug. 23, 1988, 102 Stat. 1462; Pub. L. 101–508, title XIII, §§13112(a)(5), 13203, 13204, 13301(b), 13303(a), (b), Nov. 5, 1990, 104 Stat. 1388–608, 1388–615, 1388–616, 1388–623, 1388–625; Pub. L. 104–4, title I, §102(2), Mar. 22, 1995, 109 Stat. 62; Pub. L. 105–33, title X, §10105(a)–(f)(1), Aug. 5, 1997, 111 Stat. 679, 680.)
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (a), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally tosubchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (a), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The Internal Revenue Code of 1986, referred to in subsecs. (a) and (i), is classified generally to Title 26, Internal Revenue Code.
 
@@ -130,7 +130,7 @@ Section was formerly classified to section 1322 of Title 31 prior to the general
 
 #### Amendments
 
-1997—Subsec. (a). Pub. L. 105–33, §10105(a), in introductory provisions, substituted “and for at least each of the 4 ensuing fiscal years” for “, and planning levels for each of the two ensuing fiscal years,”.
+<b>1997</b>—Subsec. (a). Pub. L. 105–33, §10105(a), in introductory provisions, substituted “and for at least each of the 4 ensuing fiscal years” for “, and planning levels for each of the two ensuing fiscal years,”.
 
 Subsec. (a)(1), (4). Pub. L. 105–33, §10105(b), substituted “and outlays” for “, budget outlays, direct loan obligations, and primary loan guarantee commitments”.
 
@@ -144,9 +144,9 @@ Subsec. (e). Pub. L. 105–33, §10105(e), designated existing provisions as par
 
 Subsec. (i). Pub. L. 105–33, §10105(f)(1), inserted heading and substituted “(or amendment, motion, or conference report on the resolution)” for “as reported to the Senate”.
 
-1995—Subsec. (d). Pub. L. 104–4 inserted at end “Any Committee of the House of Representatives or the Senate that anticipates that the committee will consider any proposed legislation establishing, amending, or reauthorizing any Federal program likely to have a significant budgetary impact on any State, local, or tribal government, or likely to have a significant financial impact on the private sector, including any legislative proposal submitted by the executive branch likely to have such a budgetary or financial impact, shall include its views and estimates on that proposal to the Committee on the Budget of the applicable House.”
+<b>1995</b>—Subsec. (d). Pub. L. 104–4 inserted at end “Any Committee of the House of Representatives or the Senate that anticipates that the committee will consider any proposed legislation establishing, amending, or reauthorizing any Federal program likely to have a significant budgetary impact on any State, local, or tribal government, or likely to have a significant financial impact on the private sector, including any legislative proposal submitted by the executive branch likely to have such a budgetary or financial impact, shall include its views and estimates on that proposal to the Committee on the Budget of the applicable House.”
 
-1990—Subsec. (a). Pub. L. 101–508, §13301(b), inserted at end: “The concurrent resolution shall not include the outlays and revenue totals of the old age, survivors, and disability insurance program established under title II of the Social Security Act or the related provisions of the Internal Revenue Code of 1986 in the surplus or deficit totals required by this subsection or in any other surplus or deficit totals required by this subchapter.”
+<b>1990</b>—Subsec. (a). Pub. L. 101–508, §13301(b), inserted at end: “The concurrent resolution shall not include the outlays and revenue totals of the old age, survivors, and disability insurance program established under title II of the Social Security Act or the related provisions of the Internal Revenue Code of 1986 in the surplus or deficit totals required by this subsection or in any other surplus or deficit totals required by this subchapter.”
 
 Subsec. (a)(6), (7). Pub. L. 101–508, §13303(a), added pars. (6) and (7).
 
@@ -158,13 +158,13 @@ Subsec. (d). Pub. L. 101–508, §13112(a)(5), substituted “Within 6 weeks aft
 
 Subsec. (i). Pub. L. 101–508, §13303(b), amended subsec. (i) generally, substituting present provisions for former provisions relating to maximum deficit amounts.
 
-1988—Subsec. (e)(10). Pub. L. 100–418 temporarily added par. (10). See Effective and Termination Dates of 1988 Amendment note below.
+<b>1988</b>—Subsec. (e)(10). Pub. L. 100–418 temporarily added par. (10). See Effective and Termination Dates of 1988 Amendment note below.
 
-1987—Subsec. (g). Pub. L. 100–119, §208(a), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “The joint explanatory statement accompanying a conference report on a concurrent resolution on the budget shall set forth the common economic assumptions upon which such joint statement and conference report are based, or upon which any amendment contained in the joint explanatory statement to be proposed by the conferees in the case of technical disagreement is based.”
+<b>1987</b>—Subsec. (g). Pub. L. 100–119, §208(a), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “The joint explanatory statement accompanying a conference report on a concurrent resolution on the budget shall set forth the common economic assumptions upon which such joint statement and conference report are based, or upon which any amendment contained in the joint explanatory statement to be proposed by the conferees in the case of technical disagreement is based.”
 
 Subsec. (i)(2). Pub. L. 100–119, §106(d), designated existing provisions as subpar. (A) and added subpars. (B) and (C).
 
-1985—Pub. L. 99–177 substituted “Adoption of concurrent resolution on the budget” for “Adoption of first concurrent resolution” in section catchline.
+<b>1985</b>—Pub. L. 99–177 substituted “Adoption of concurrent resolution on the budget” for “Adoption of first concurrent resolution” in section catchline.
 
 Subsec. (a). Pub. L. 99–177 amended subsec. (a) generally, substituting provisions relating to content of concurrent resolution on the budget, for provisions relating to action required to be completed by May 15 of each year.
 
@@ -172,15 +172,15 @@ Subsec. (b). Pub. L. 99–177 amended subsec. (b) generally, inserting provision
 
 Subsec. (c). Pub. L. 99–177 amended subsec. (c) generally, substituting provisions relating to consideration of procedures or matters which have the effect of changing any rule of the House of Representatives, for provisions relating to submission on or before March 15 of each year of the views and estimates of other committees.
 
-Subsec. (d). Pub. L. 99–177 amended subsec. (d) generally, substituting provisions relating to views and estimates of other committees, for provisions relating to hearings and report in developing the first concurrent resolution on the budget.
+Subsec. (d). Pub. L. 99–177 amended subsec. (d) generally, substituting provisions relating to views and estimates of other committees, for provisions relating tohearings and report in developing the first concurrent resolution on the budget.
 
 Subsec. (e). Pub. L. 99–177 amended subsec. (e) generally, substituting provisions relating to hearings and report in developing the concurrent resolution on the budget, for provisions relating to achievement of goals for reducing unemployment.
 
 Subsecs. (f) to (i). Pub. L. 99–177, §§201(b), 275(b)(2)(B), in amending section generally, added subsecs. (f) to (i).
 
-1978—Subsec. (a)(6), (7). Pub. L. 95–523, §304(a), added par. (6) and redesignated former par. (6) as (7).
+<b>1978</b>—Subsec. (a)(6), (7). Pub. L. 95–523, §304(a), added par. (6) and redesignated former par. (6) as (7).
 
-Subsec. (d). Pub. L. 95–523, §303(a), which directed insertion in subsec. (c) provisions relating to consideration by the Committee on the Budget of each House respecting short-term and medium-term goals set forthin the Joint Economic Committee report and the reflection of its views in its report and insertion of “also” after “concurrent resolution shall” was executed to subsec. (d) to reflect the probable intent of Congress.
+Subsec. (d). Pub. L. 95–523, §303(a), which directed insertion in subsec. (c) provisions relating to consideration by the Committee on the Budget of each House respecting short-term and medium-term goals set forth in the Joint Economic Committee report and the reflection of its views in its report and insertion of “also” after “concurrent resolution shall” was executed to subsec. (d) to reflect the probable intent of Congress.
 
 Subsec. (e). Pub. L. 95–523, §304(b), added subsec. (e).
 
@@ -198,7 +198,7 @@ Amendment by Pub. L. 100–418 effective for fiscal years 1989, 1990, 1991, and 
 
 #### Effective Date of 1985 Amendment
 
-Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, set out as an Effective and Termination Dates note under section 900 of this title.
+Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of this title prior to repeal by Pub. L. 112–25, title I, §104(a), Aug. 2, 2011, 125 Stat. 246.
 
 #### Exclusion of Social Security From All Budgets
 
@@ -228,7 +228,7 @@ In General.—It shall not be in order in the House of Representatives to consid
 
 “(b)
 
-Application.—In applying paragraph (3) or (4) of subsection (a), any provision of any bill or joint resolution, as reported, or any amendment thereto, or conference report thereon, the effect of which is to provide for a net decrease for any period in taxes described in subsection (c)(2)(A) shall be disregarded if such bill, joint resolution, amendment, or conference report also includes a provision the effect of which is to provide for a net increase of at least an equivalent amount for such period in medicare taxes.
+Application.—In applying paragraph (3) or (4) of subsection (a), any provision of any bill or joint resolution, as reported, or any amendment thereto, or conference report thereon, the effect of which is to provide for a net decrease for any period in taxes described in subsection (c)(2)(A) shall be disregarded if such bill, joint resolution, amendment, or conference report also includes a provision the effect of which is to provide fora net increase of at least an equivalent amount for such period in medicare taxes.
 
 “(c)
 

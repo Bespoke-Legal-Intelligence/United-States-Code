@@ -14,7 +14,7 @@
 
 (B)(i) No action by the Commission or any person, and no information derived, in connection with any conciliation attempt by the Commission under subparagraph (A) may be made public by the Commission without the written consent of the respondent and the Commission.
 
-(ii) If a conciliation agreement is agreed upon by the Commission and the respondent, the Commission shall make public any conciliation agreement signed by both the Commission and the respondent. If the Commission makes a determination that a person has not violated this Act or chapter 95 or chapter 96 of title 26, the Commission shall make public such determination.
+(ii) If a conciliation agreement is agreed upon by the Commission and the respondent, the Commission shall make public any conciliation agreement signed by both the Commission and the respondent. If the Commission makes a determination that a person has not violated this Act or chapter 95 or chapter 96 of title 26, theCommission shall make public such determination.
 
 (C)(i) Notwithstanding subparagraph (A), in the case of a violation of any requirement of section 434(a) of this title, the Commission may—
 
@@ -22,7 +22,7 @@
 
 &emsp;(II) based on such finding, require the person to pay a civil money penalty in an amount determined under a schedule of penalties which is established and published by the Commission and which takes into account the amount of the violation involved, the existence of previous violations by the person, and such other factors as the Commission considers appropriate.
 
-(ii) The Commission may not make any determination adverse to a person under clause (i) until the person has been given written noticeand an opportunity to be heard before the Commission.
+(ii) The Commission may not make any determination adverse to a person under clause (i) until the person has been given written notice and an opportunity to be heard before the Commission.
 
 (iii) Any person against whom an adverse determination is made under this subparagraph may obtain a review of such determination in the district court of the United States for the district in which the person resides, or transacts business, by filing in such court (prior to the expiration of the 30-day period which begins on the date the person receives notification of the determination) a written petition requesting that the determination be modified or set aside.
 
@@ -54,7 +54,7 @@
 
 (10) Repealed. Pub. L. 98–620, title IV, §402(1)(A), Nov. 8, 1984, 98 Stat. 3357.
 
-(11) If the Commission determines after an investigation that any person has violated an order of the court entered in a proceeding brought under paragraph (6), it may petition thecourt for an order to hold such person in civil contempt, but if it believes the violation to be knowing and willful it may petition the court for an order to hold such person in criminal contempt.
+(11) If the Commission determines after an investigation that any person has violated an order of the court entered in a proceeding brought under paragraph (6), it may petition the court for an order to hold such person in civil contempt, but if it believes the violation to be knowing and willful it may petition the court for an order to hold such person in criminal contempt.
 
 (12)(A) Any notification or investigation made under this section shall not be made public by the Commission or by any person without the written consent of the person receiving such notification or the person with respect to whom such investigation is made.
 
@@ -110,7 +110,7 @@ This Act, referred to in subsecs. (a) and (d), means the Federal Election Campai
 
 #### Prior Provisions
 
-Provisions similar to those comprising subsec. (a) of this section were contained in section 308(d) of Pub. L.92–225, title III, Feb. 7, 1972, 86 Stat. 18 (section 438(d) of this title), prior to amendment of section 308 of Pub. L. 92–225 by Pub. L. 93–443.
+Provisions similar to those comprising subsec. (a) of this section were contained in section 308(d) of Pub. L. 92–225, title III, Feb. 7, 1972, 86 Stat. 18 (section 438(d) of this title), prior to amendment of section 308 of Pub. L. 92–225 by Pub. L. 93–443.
 
 A prior section 309 of Pub. L. 92–225 was renumbered section 306, and is classified to section 437c of this title.
 
@@ -120,9 +120,9 @@ Another prior section 309 of Pub. L. 92–225 was renumbered section 312, and is
 
 #### Amendments
 
-2008—Subsec. (a)(4)(C)(iv). Pub. L. 110–433 added cl. (iv).
+<b>2008</b>—Subsec. (a)(4)(C)(iv). Pub. L. 110–433 added cl. (iv).
 
-2002—Subsec. (a)(5)(B). Pub. L. 107–155, §315(a)(1), inserted before period at end “(or, in the case of a violation of section 441f of this title, which is not less than 300 percent of the amount involved in the violation and is not more than the greater of $50,000 or 1,000 percent of the amount involved in the violation)”.
+<b>2002</b>—Subsec. (a)(5)(B). Pub. L. 107–155, §315(a)(1), inserted before period at end “(or, in the case of a violation of section 441f of this title, which is not less than 300 percent of the amount involved in the violation and is not more than the greater of $50,000 or 1,000 percent of the amount involved in the violation)”.
 
 Subsec. (a)(6)(C). Pub. L. 107–155, §315(a)(2), inserted before period at end “(or, in the case of a violation of section 441f of this title, which is not less than 300 percent of the amount involved in the violation and is not more than the greater of $50,000 or 1,000 percent of the amount involved in the violation)”.
 
@@ -130,19 +130,19 @@ Subsec. (d)(1)(A). Pub. L. 107–155, §312(a), amended subpar. (A) generally. P
 
 Subsec. (d)(1)(D). Pub. L. 107–155, §315(b), added subpar. (D).
 
-1999—Subsec. (a)(4)(A)(i). Pub. L. 106–58, §640(a)(1), substituted “clauses (ii) and subparagraph (C)” for “clause (ii)”.
+<b>1999</b>—Subsec. (a)(4)(A)(i). Pub. L. 106–58, §640(a)(1), substituted “clauses (ii) and subparagraph (C)” for “clause (ii)”.
 
 Subsec. (a)(4)(C). Pub. L. 106–58, §640(a)(2), added subpar. (C).
 
 Subsec. (a)(6)(A). Pub. L. 106–58, §640(b), substituted “paragraph (4)” for “paragraph (4)(A)”.
 
-1986—Subsecs. (a)(1), (2), (4)(A)(i), (B)(ii), (5)(A) to (C), (6), (d)(2), (3). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsecs. (a)(1), (2), (4)(A)(i), (B)(ii), (5)(A) to (C), (6), (d)(2), (3). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-1984—Subsec. (a)(10). Pub. L. 98–620 struck out par. (10) which provided that any action brought under subsec. (a) be advanced on the docket of the court in which filed and put ahead of all other actions (other than other actions brought under this subsec. or under section 437h of this title).
+<b>1984</b>—Subsec. (a)(10). Pub. L. 98–620 struck out par. (10) which provided that any action brought under subsec. (a) be advanced on the docket of the court in which filed and put ahead of all other actions (other than other actions brought under this subsec. or under section 437h of this title).
 
-1980—Pub. L. 96–187, §108, substantially revised provisions of this section in order to facilitate the Commission's more expeditious handling of complaints, and implementation of enforcement proceedings.
+<b>1980</b>—Pub. L. 96–187, §108, substantially revised provisions of this section in order to facilitate the Commission's more expeditious handling of complaints, and implementation of enforcement proceedings.
 
-1976—Subsec. (a). Pub. L. 94–283, §109, generally revised provisions of subsec. (a) to reflect enactment of sections 441a to 441j of this title and repeal of sections 608 and 610 to 617 of title 18 and to update the operations of the Commission.
+<b>1976</b>—Subsec. (a). Pub. L. 94–283, §109, generally revised provisions of subsec. (a) to reflect enactment of sections 441a to 441j of this title and repeal of sections 608 and 610 to 617 of title 18 and to update the operations of the Commission.
 
 Subsecs. (b), (c). Pub. L. 94–283, §109, reenacted subsec. (b) without change and added subsec. (c).
 

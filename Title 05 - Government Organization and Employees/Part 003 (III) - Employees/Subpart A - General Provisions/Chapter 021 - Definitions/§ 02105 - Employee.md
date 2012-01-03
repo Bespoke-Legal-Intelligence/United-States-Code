@@ -46,7 +46,7 @@
 
 (f) For purposes of sections 1212, 1213, 1214, 1215, 1216, 1221, 1222, 2302, and 7701, employees appointed under chapter 73 or 74 of title 38 shall be employees.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 409; Pub. L. 90–486, §4, Aug. 13, 1968, 82 Stat. 757; Pub. L. 91–375, §6(c)(4), Aug. 12, 1970, 84 Stat. 775; Pub. L. 92–392, §2, Aug. 19, 1972, 86 Stat. 573; Pub. L. 95–454, title VII, §703(c)(2), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1217, 1224; Pub. L. 96–54, §2(a)(5), (6), Aug. 14, 1979, 93 Stat. 381; Pub. L. 99–335, title II, §207(a), June 6, 1986, 100 Stat. 594; Pub. L. 99–638, §2(b)(1), Nov. 10, 1986, 100 Stat. 3536; Pub. L. 101–508, title VII, §7202(b), Nov. 5, 1990, 104 Stat. 1388–335; Pub. L. 103–3, title II, §201(b), Feb. 5, 1993, 107 Stat. 23; Pub. L. 103–424,§7, Oct. 29, 1994, 108 Stat. 4364; Pub. L. 104–201, div. A, title III, §370(b), Sept. 23, 1996, 110 Stat. 2499; Pub. L. 105–85, div. B, title XXVIII, §2871(c)(2), Nov. 18, 1997, 111 Stat. 2015; Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 409; Pub. L. 90–486, §4, Aug. 13, 1968, 82 Stat. 757; Pub. L. 91–375, §6(c)(4), Aug. 12, 1970, 84 Stat. 775; Pub. L. 92–392, §2, Aug. 19, 1972, 86 Stat. 573; Pub. L. 95–454, title VII, §703(c)(2), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1217, 1224; Pub. L. 96–54, §2(a)(5), (6), Aug. 14, 1979, 93 Stat. 381; Pub. L. 99–335, title II, §207(a), June 6, 1986, 100 Stat. 594; Pub. L. 99–638, §2(b)(1), Nov. 10, 1986, 100 Stat. 3536; Pub. L. 101–508, title VII, §7202(b), Nov. 5, 1990, 104 Stat. 1388–335; Pub. L. 103–3, title II, §201(b), Feb. 5, 1993, 107 Stat. 23; Pub. L. 103–424, §7, Oct. 29, 1994, 108 Stat. 4364; Pub. L. 104–201, div. A, title III, §370(b), Sept. 23, 1996, 110 Stat. 2499; Pub. L. 105–85, div. B, title XXVIII, §2871(c)(2), Nov. 18, 1997, 111 Stat. 2015; Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242.)
 
 Historical and Revision Notes
 
@@ -114,35 +114,35 @@ The Fair Labor Standards Act of 1938, referred to in subsec. (c)(1)(C), is act J
 
 #### Amendments
 
-2006—Subsec. (e). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
+<b>2006</b>—Subsec. (e). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
 
-1997—Subsec. (b). Pub. L. 105–85 inserted “(if any)” after “Academy dairy”.
+<b>1997</b>—Subsec. (b). Pub. L. 105–85 inserted “(if any)” after “Academy dairy”.
 
-1996—Subsec. (b). Pub. L. 104–201 inserted “who is” after “An individual” and “and whose employment in such a position began before October 1, 1996, and has been uninterrupted in such a position since that date” after “Academy dairy,”.
+<b>1996</b>—Subsec. (b). Pub. L. 104–201 inserted “who is” after “An individual” and “and whose employment in such a position began before October 1, 1996, and has been uninterrupted in such a position since that date” after “Academy dairy,”.
 
-1994—Subsec. (f). Pub. L. 103–424 added subsec. (f).
+<b>1994</b>—Subsec. (f). Pub. L. 103–424 added subsec. (f).
 
-1993—Subsec. (c)(1)(E). Pub. L. 103–3 added subpar. (E).
+<b>1993</b>—Subsec. (c)(1)(E). Pub. L. 103–3 added subpar. (E).
 
-1990—Subsec. (c)(1). Pub. L. 101–508, §7202(b)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “laws (other than subchapter IV of chapter 53 of this title, subchapter III of chapter 83 of this title to the extent provided in section 8332(b)(16) of this title, and sections 5550 and 7204 of this title) administered by the Office of Personnel Management; or”.
+<b>1990</b>—Subsec. (c)(1). Pub. L. 101–508, §7202(b)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “laws (other than subchapter IV of chapter 53 of this title, subchapter III of chapter 83 of this title to the extent provided in section 8332(b)(16) of this title, and sections 5550 and 7204 of this title) administered by the Office of Personnel Management; or”.
 
 Subsec. (c)(2). Pub. L. 101–508, §7202(b)(2), inserted “(except to the extent specifically provided therein)” after “chapter 84”.
 
-1986—Subsec. (c)(1). Pub. L. 99–638 inserted “of this title, subchapter III of chapter 83 of this title to the extent provided in section 8332(b)(16) of this title,”.
+<b>1986</b>—Subsec. (c)(1). Pub. L. 99–638 inserted “of this title, subchapter III of chapter 83 of this title to the extent provided in section 8332(b)(16) of this title,”.
 
 Subsec. (c)(2). Pub. L. 99–335 substituted “chapter 81, chapter 84,” for “chapter 81”.
 
-1979—Subsec. (a)(1)(F). Pub. L. 96–54, §2(a)(5), substituted “an adjutant” for “the adjutants” and struck out “, United States Code” after “32”.
+<b>1979</b>—Subsec. (a)(1)(F). Pub. L. 96–54, §2(a)(5), substituted “an adjutant” for “the adjutants” and struck out “, United States Code” after “32”.
 
 Subsec. (c)(1). Pub. L. 96–54, §2(a)(6), amended subsec. (c)(1) in same manner as amendment by section 703(c)(2) of Pub. L. 95–454. See 1978 Amendment note set out below.
 
-1978—Subsec. (c)(1). Pub. L. 95–454 substituted “7204” for “7154”, and “Office of Personnel Management” for “Civil Service Commission”. Amendments by section 703(c)(1) and (c)(2) of Pub. L. 95–454 appear to have been inadvertently reversed. Subsec. (c)(1) purported to amend subsec. (c)(1) of this section, and subsec. (c)(2) purported to amend section 3302(2) of this title. However, the amendments specified by Pub. L. 95–454, §703(c)(1) and (2), were impossible to execute literally. Thus, the amendment by Pub. L. 95–454, §703(c)(2) was executed to this section, and the amendment by section 703(c)(1) was executed to section 3302(2) of this title as the probable intent of Congress.
+<b>1978</b>—Subsec. (c)(1). Pub. L. 95–454 substituted “7204” for “7154”, and “Office of Personnel Management” for “Civil Service Commission”. Amendments by section 703(c)(1) and (c)(2) of Pub. L. 95–454 appear to have been inadvertently reversed. Subsec. (c)(1) purported to amend subsec. (c)(1) of this section, and subsec. (c)(2) purported to amend section 3302(2) of this title. However, the amendments specified by Pub. L. 95–454, §703(c)(1) and (2), were impossible to execute literally. Thus, the amendment by Pub. L. 95–454, §703(c)(2) was executed to this section, and the amendment by section 703(c)(1) was executed to section 3302(2) of this title as the probable intent of Congress.
 
-1972—Subsec. (c)(1). Pub. L. 92–392 substituted “laws (other than subchapter IV of chapter 53 and sections 5550 and 7154 of this title)” for “laws”.
+<b>1972</b>—Subsec. (c)(1). Pub. L. 92–392 substituted “laws (other than subchapter IV of chapter 53 and sections 5550 and 7154 of this title)” for “laws”.
 
-1970—Subsec. (e). Pub. L. 91–375 added subsec. (e).
+<b>1970</b>—Subsec. (e). Pub. L. 91–375 added subsec. (e).
 
-1968—Subsec. (a)(1)(F). Pub. L. 90–486 added subpar. (F).
+<b>1968</b>—Subsec. (a)(1)(F). Pub. L. 90–486 added subpar. (F).
 
 #### Effective Date of 1996 Amendment
 
@@ -162,7 +162,7 @@ Section 7202(m) of Pub. L. 101–508 provided that:
 
 &emsp;“(B) moves without a break in service from employment in the Department of Defense or the Coast Guard that is not described in such section 2105(c) to employment in a nonappropriated fund instrumentality of the Department of Defense or the Coast Guard, respectively, that is described in such section 2105(c).
 
-“(2) The Secretary of Defense, the Secretary of Transportation, the Director of the Office of Personnel Management, and the Executive Director of the Federal Retirement Thrift Investment Board, as applicable, shall take such actions as may be practicable to ensure that each individual who has moved as described under paragraph (1) on or after January 1, 1987, and before the date of enactment of this Act \[Nov. 5, 1990\], receives the benefit of the amendments made by this section as if such amendments had been in effect at the time such individual so moved. Each such individual who wishes to make an election of retirement coverage under the amendments made by subsection (j) or (k) of this section \[amending sections 8331, 8347, 8401, and 8461 of this title\] shall complete such election within 180 days after the date of enactment of this Act.”
+“(2) The Secretary of Defense, the Secretary of Transportation, the Director of the Office of Personnel Management, and the Executive Director of the Federal Retirement Thrift Investment Board, as applicable, shall take such actions as may be practicable to ensure that each individual who has moved as describedunder paragraph (1) on or after January 1, 1987, and before the date of enactment of this Act \[Nov. 5, 1990\], receives the benefit of the amendments made by this section as if such amendments had been in effect at the time such individual so moved. Each such individual who wishes to make an election of retirement coverage under the amendments made by subsection (j) or (k) of this section \[amending sections 8331, 8347, 8401, and 8461 of this title\] shall complete such election within 180 days after the date of enactment of this Act.”
 
 #### Effective Date of 1986 Amendment
 

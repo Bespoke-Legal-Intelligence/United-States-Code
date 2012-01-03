@@ -56,15 +56,15 @@
 
 #### Amendments
 
-2007—Subsec. (d)(1), (2). Pub. L. 110–161 substituted “nuclear materials courier, or customs and border protection officer,” for “or nuclear materials courier,”.
+<b>2007</b>—Subsec. (d)(1), (2). Pub. L. 110–161 substituted “nuclear materials courier, or customs and border protection officer,” for “or nuclear materials courier,”.
 
-2000—Subsec. (d). Pub. L. 106–553 inserted “or Supreme Court Police” after “Capitol Police” in pars. (1) and (2).
+<b>2000</b>—Subsec. (d). Pub. L. 106–553 inserted “or Supreme Court Police” after “Capitol Police” in pars. (1) and (2).
 
-1998—Subsec. (d)(1), (2). Pub. L. 105–261 substituted “firefighter, or nuclear materials courier” for “or firefighter”.
+<b>1998</b>—Subsec. (d)(1), (2). Pub. L. 105–261 substituted “firefighter, or nuclear materials courier” for “or firefighter”.
 
-1990—Subsec. (d)(1), (2). Pub. L. 101–428 substituted “officer, member of the Capitol Police,” for “officer”.
+<b>1990</b>—Subsec. (d)(1), (2). Pub. L. 101–428 substituted “officer, member of the Capitol Police,” for “officer”.
 
-1986—Subsec. (g). Pub. L. 99–556 designated existing provisions as par. (1) and added par. (2).
+<b>1986</b>—Subsec. (g). Pub. L. 99–556 designated existing provisions as par. (1) and added par. (2).
 
 #### Effective Date of 2007 Amendment; Transition Rules
 

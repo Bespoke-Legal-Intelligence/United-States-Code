@@ -78,7 +78,7 @@ A State may use amounts provided under grants made under section 300ff–21 of t
 
 #### (2) Conditions
 
-&emsp;With respect to an entity that proposes to provide early intervention services underparagraph (1), such paragraph shall apply only if the entity demonstrates to the satisfaction of the chief elected official for the State involved that—
+&emsp;With respect to an entity that proposes to provide early intervention services under paragraph (1), such paragraph shall apply only if the entity demonstrates to the satisfaction of the chief elected official for the State involved that—
 
 &emsp;&emsp;(A) Federal, State, or local funds are otherwise inadequate for the early intervention services the entity proposes to provide; and
 

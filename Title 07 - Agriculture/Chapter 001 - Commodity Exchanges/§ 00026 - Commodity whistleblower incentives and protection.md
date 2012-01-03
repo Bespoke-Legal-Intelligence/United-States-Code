@@ -162,7 +162,7 @@ No contract with the Commission is necessary for any whistleblower to receive an
 
 #### (B) Additional amounts
 
-&emsp;&emsp;If the amounts deposited into or credited to the Fund under subparagraph (A) are not sufficient to satisfy an award made undersubsection (b), there shall be deposited into or credited to the Fund an amount equal to the unsatisfied portion of the award from any monetary sanction collected by the Commission in any judicial or administrative action brought by the Commission under this chapter that is based on information provided by a whistleblower.
+&emsp;&emsp;If the amounts deposited into or credited to the Fund under subparagraph (A) are not sufficient to satisfy an award made under subsection (b), there shall be deposited into or credited to the Fund an amount equal to the unsatisfied portion of the award from any monetary sanction collected by the Commission in any judicial or administrative action brought by the Commission under this chapter that is based on information provided by a whistleblower.
 
 #### (C) Investment income
 
@@ -244,7 +244,7 @@ No contract with the Commission is necessary for any whistleblower to receive an
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraphs (B) and (C), the Commission, and any officer or employee of the Commission, shall not disclose any information, including information provided by a whistleblower to the Commission, which could reasonably be expected to reveal the identity of a whistleblower, except in accordance with the provisions of section 552a of title 5, unless and until required to be disclosed to a defendantor respondent in connection with a public proceeding instituted by the Commission or any entity described in subparagraph (C). For purposes of section 552 of title 5, this paragraph shall be considered a statute described in subsection (b)(3)(B) of such section 552.
+&emsp;&emsp;Except as provided in subparagraphs (B) and (C), the Commission, and any officer or employee of the Commission, shall not disclose any information, including information provided by a whistleblower to the Commission, which could reasonably be expected to reveal the identity of a whistleblower, except in accordance with the provisions of section 552a of title 5, unless and until required to be disclosed to a defendant or respondent in connection with a public proceeding instituted by the Commission or any entity described in subparagraph (C). For purposes of section 552 of title 5, this paragraph shall be considered a statute described in subsection (b)(3)(B) of such section 552.
 
 #### (B) Effect
 

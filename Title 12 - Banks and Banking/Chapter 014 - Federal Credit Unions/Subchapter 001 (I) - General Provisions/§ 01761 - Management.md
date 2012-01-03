@@ -2,7 +2,7 @@
 
 #### (a) Board of directors, credit committee, and supervisory committee; election to board
 
-The management of a Federal credit union shall be by a board of directors, a supervisory committee, and where the bylaws so provide, a credit committee. The board shall consist of an odd number of directors, at least five in number, to be elected annually by and from the members as the bylaws provide. Any vacancy occurring on the board shall be filled until the next annual election by appointment by the remainder of the directors.
+The management of a Federal credit union shall be by a board of directors, a supervisorycommittee, and where the bylaws so provide, a credit committee. The board shall consist of an odd number of directors, at least five in number, to be elected annually by and from the members as the bylaws provide. Any vacancy occurring on the board shall be filled until the next annual election by appointment by the remainder of the directors.
 
 #### (b) Membership on supervisory committee; names and addresses of officers and committee members
 
@@ -16,31 +16,31 @@ No member of the board or of any other committee shall, as such, be compensated,
 
 #### Amendments
 
-1982—Pub. L. 97–320 substituted provisions divided into subsecs. (a), (b), and (c) relating to the management of a Federal credit union, including the board of directors, credit and supervisory committees, and the matter of their compensation, for provisions which read as follows: “The business affairs of a Federal credit union shall be managed by a board of not less than five directors, and a credit committee of not less than three members, all to be elected at the annual members’ meeting by and from the members, and by a supervisory committee of not less than three members nor more than five members, one of whom may be a director other than the treasurer, to be appointed by the board. Any vacancy occurring in the supervisory committee shall be filled in the same manner as original appointments to such committee. All members of the board and of such committees shall hold office for suchterms, respectively, as the bylaws may provide. A record of the names and addresses of the members of the board and such committees and of the officers of the credit union shall be filed with the Administration within ten days after their election or appointment. No member of the board or of either such committee shall, as such, be compensated: <i>Provided, however</i>, That reasonable health, accident, and similar insurance protection shall not be considered compensation under regulations promulgated by the Board.”
+<b>1982</b>—Pub. L. 97–320 substituted provisions divided into subsecs. (a), (b), and (c) relating to the management of a Federal credit union, including the board of directors, credit and supervisory committees, and the matter of their compensation, for provisions which read as follows: “The business affairs of a Federal credit union shall be managed by a board of not less than five directors, and a credit committee of not less than three members, all to be elected at the annual members’ meeting by and from the members, and by a supervisory committee of not less than three members nor more than five members, one of whom may be a director other than the treasurer, to be appointed by the board. Any vacancy occurring in the supervisory committee shall be filled in the same manner as original appointments to such committee. All members of the board and of such committees shall hold office for such terms, respectively, as the bylaws may provide. A record of the names and addresses of the members of the board and such committees and of the officers of the credit union shall be filed with the Administration within ten days after their election or appointment. No member of the board or of either such committee shall, as such, be compensated: <i>Provided, however</i>, That reasonable health, accident, and similar insurance protection shall not be considered compensation under regulations promulgated by the Board.”
 
-1978—Pub. L. 95–630 substituted “Board” for “Administrator”.
+<b>1978</b>—Pub. L. 95–630 substituted “Board” for “Administrator”.
 
-1974—Pub. L. 93–495 inserted proviso relating to compensation in the form of health, accident, and similar insurance protection.
+<b>1974</b>—Pub. L. 93–495 inserted proviso relating to compensation in the form of health, accident, and similar insurance protection.
 
-1970—Pub. L. 91–206 substituted “Administration” for “Bureau”.
+<b>1970</b>—Pub. L. 91–206 substituted “Administration” for “Bureau”.
 
-1964—Pub. L. 88–353 increased size of supervisory committee from three members to not less than three members nor more than five members.
+<b>1964</b>—Pub. L. 88–353 increased size of supervisory committee from three members to not less than three members nor more than five members.
 
-1959—Pub. L. 86–354 provided for appointment instead of election of members of supervisory committee and for filling of vacancies in such committee, and struck out former subsecs. (b) to (e) relating to officers, directors, credit committee and supervisory committee. See sections 1761a to 1761d of this title, respectively.
+<b>1959</b>—Pub. L. 86–354 provided for appointment instead of election of members of supervisory committee and for filling of vacancies in such committee, and struck out former subsecs. (b) to (e) relating to officers, directors, credit committee and supervisory committee. See sections 1761a to 1761d of this title, respectively.
 
-1954—Subsecs. (b), (c). Act Aug. 24, 1954, provided express authority for the Director of the Bureau of Federal Credit Unions to regulate the minimum amount and character of surety bonds for officers and employees.
+<b>1954</b>—Subsecs. (b), (c). Act Aug. 24, 1954, provided express authority for the Director of the Bureau of Federal Credit Unions to regulate the minimum amount and character of surety bonds for officers and employees.
 
 Subsec. (c). Act June 30, 1954, inserted provision with respect to interest refunds.
 
-1949—Subsec. (d). Act Oct. 25, 1949, substituted “$400” for “$300” wherever appearing.
+<b>1949</b>—Subsec. (d). Act Oct. 25, 1949, substituted “$400” for “$300” wherever appearing.
 
-1946—Subsec. (c). Act July 31, 1946, struck out “fix the amount and character of the surety bond required of any officer having custody of funds” and inserted “require any officer or employee having custody of or handling funds to give bond with good and sufficient surety in an amount and character to be determined, from time to time, by the board and authorize the payment of the premium or premiums therefor from the funds of the Federal credit union”.
+<b>1946</b>—Subsec. (c). Act July 31, 1946, struck out “fix the amount and character of the surety bond required of any officer having custody of funds” and inserted “require any officer or employee having custody of or handling funds to give bond with good and sufficient surety in an amount and character to be determined, from time to time, by the board and authorize the payment of the premium or premiums therefor from the funds of the Federal credit union”.
 
 Subsec. (d). Act July 31, 1946, struck out requirement that notice of meeting of the credit committee must be given by the treasurer and increased the maximum amount of an unsecured loan to a member from $100 to $300.
 
 Subsec. (e). Act July 31, 1946, inserted last sentence defining “passbook”.
 
-1940—Subsec. (d). Act June 15, 1940, substituted “$100” for “$50” in fourth sentence.
+<b>1940</b>—Subsec. (d). Act June 15, 1940, substituted “$100” for “$50” in fourth sentence.
 
 #### Effective Date of 1978 Amendment
 

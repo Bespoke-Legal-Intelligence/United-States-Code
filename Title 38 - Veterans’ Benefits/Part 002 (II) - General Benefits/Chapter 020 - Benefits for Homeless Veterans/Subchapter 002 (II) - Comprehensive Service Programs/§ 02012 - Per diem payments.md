@@ -52,7 +52,7 @@ Per Diem Payments to Nonconforming Entities.—(1) The Secretary may make funds 
 
 &emsp;&emsp;(ii) furnish services to homeless individuals, of which less than 75 percent are veterans.
 
-(2) Notwithstanding subsection (a)(2), in providing per diem payments under this subsection, the Secretary shall determine the rate of such per diem payments in accordance with the following order of priority:
+(2) Notwithstanding subsection (a)(2), in providing per diem payments under this subsection,the Secretary shall determine the rate of such per diem payments in accordance with the following order of priority:
 
 &emsp;(A) Grant recipients or eligible entities described by paragraph (1)(A).
 

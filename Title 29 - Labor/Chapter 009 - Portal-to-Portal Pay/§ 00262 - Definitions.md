@@ -14,7 +14,7 @@
 
 #### References in Text
 
-The Fair Labor Standards Act of 1938, as amended, referred to in subsec. (a), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§201 et seq.) of this title. For complete classification of this Act to the Code, see see section 201 of this title and Tables.
+The Fair Labor Standards Act of 1938, as amended, referred to in subsec. (a), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§201 et seq.) of this title. For complete classification of this Act to the Code, see section 201 of this title and Tables.
 
 The Walsh-Healey Act and the Act entitled “An Act to provide conditions for the purchase of supplies and the making of contracts by the United States, and for other purposes”, approved June 30, 1936, referred to in subsecs. (b) to (d), are act June 30, 1936, ch. 881, 49 Stat. 2036, which was classified principally to sections 35 to 45 of former Title 41, Public Contracts, and was substantially repealed and restated as chapter 65 (§6501 et seq.) of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For complete classification of this Act to the Code, see Short Title of 1936 Act note set out under section 101 of Title 41 and Tables. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
 

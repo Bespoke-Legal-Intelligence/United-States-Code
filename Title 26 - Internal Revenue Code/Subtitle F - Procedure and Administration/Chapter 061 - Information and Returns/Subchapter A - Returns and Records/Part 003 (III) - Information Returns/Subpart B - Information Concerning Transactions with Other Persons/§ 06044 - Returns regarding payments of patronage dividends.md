@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(A) the amount of any patronage dividend (as defined in section 1388(a)) which is paid in money, qualified written notices of allocation (as defined in section 1388(c)), or other property (except nonqualified written notices of allocation as defined in section 1388(d)),
 
-&emsp;&emsp;(B) any amount described in section 1382(c)(2)(A) (relating to certain nonpatronage distributions) which is paid in money, qualified written notices of allocation, or other property (except nonqualified written notices of allocation) by an organization exempt from tax under section 521 (relating toexemption of farmers’ cooperatives from tax),
+&emsp;&emsp;(B) any amount described in section 1382(c)(2)(A) (relating to certain nonpatronage distributions) which is paid in money, qualified written notices of allocation, or other property (except nonqualified written notices of allocation) by an organization exempt from tax under section 521 (relating to exemption of farmers’ cooperatives from tax),
 
 &emsp;&emsp;(C) any amount described in section 1382(b)(2) (relating to redemption of nonqualified written notices of allocation) and, in the case of an organization described in section 1381(a)(1), any amount described in section 1382(c)(2)(B) (relating to redemption of nonqualified written notices of allocation paid with respect to earnings derived from sources other than patronage), and
 

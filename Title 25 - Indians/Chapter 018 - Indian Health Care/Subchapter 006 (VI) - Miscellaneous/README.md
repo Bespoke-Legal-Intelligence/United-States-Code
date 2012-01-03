@@ -41,7 +41,7 @@ This subchapter was in the original title VIII, formerly VII, of Pub. L. 94–43
 - [&sect; 01680s - Disease and injury prevention report](%C2%A7%2001680s%20-%20Disease%20and%20injury%20prevention%20report.md)
 - [&sect; 01680t - Other GAO reports](%C2%A7%2001680t%20-%20Other%20GAO%20reports.md)
 - [&sect; 01680u - Traditional health care practices](%C2%A7%2001680u%20-%20Traditional%20health%20care%20practices.md)
-- [&sect; 01680v - Director of HIV-AIDS prevention and treatment](%C2%A7%2001680v%20-%20Director%20of%20HIV-AIDS%20prevention%20and%20treatment.md)
+- [&sect; 01680v - Director of HIV-AIDS Prevention and Treatment](%C2%A7%2001680v%20-%20Director%20of%20HIV-AIDS%20Prevention%20and%20Treatment.md)
 - [&sect; 01681 - Omitted](%C2%A7%2001681%20-%20Omitted.md)
 - [&sect; 01682 - Subrogation of claims by Indian Health Service](%C2%A7%2001682%20-%20Subrogation%20of%20claims%20by%20Indian%20Health%20Service.md)
 - [&sect; 01683 - Indian Catastrophic Health Emergency Fund](%C2%A7%2001683%20-%20Indian%20Catastrophic%20Health%20Emergency%20Fund.md)

@@ -26,7 +26,7 @@ For purposes of this section—
 
 #### (c) Installment method defined
 
-For purposes of this section, the term “installment method” means a method under which the income recognized for any taxable year from a disposition is that proportion of the payments received in that year which the gross profit (realized or to be realized when payment is completed) bears to the total contract price.
+For purposes of this section, the term “installment method” means a method under which the income recognized for any taxable year from a disposition is that proportion of the paymentsreceived in that year which the gross profit (realized or to be realized when payment is completed) bears to the total contract price.
 
 #### (d) Election out
 
@@ -122,7 +122,7 @@ For purposes of this section, the term “installment method” means a method u
 
 #### (8) Extension of statute of limitations
 
-&emsp;The period for assessing a deficiency with respect to a first disposition (to the extent such deficiency is attributable to the application of this subsection) shall not expire before the day which is 2 years after the date on which the person making the first disposition furnishes (in such manner as the Secretary may by regulations prescribe) a notice that there was a second disposition of the property to which this subsection may have applied. Such deficiency may be assessed notwithstanding the provisions of any law or rule of law which would otherwise prevent such assessment.
+&emsp;The period for assessing a deficiency with respect to a first disposition (to the extent suchdeficiency is attributable to the application of this subsection) shall not expire before the day which is 2 years after the date on which the person making the first disposition furnishes (in such manner as the Secretary may by regulations prescribe) a notice that there was a second disposition of the property to which this subsection may have applied. Such deficiency may be assessed notwithstanding the provisions of any law or rule of law which would otherwise prevent such assessment.
 
 #### (f) Definitions and special rules
 
@@ -168,7 +168,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) the total contract price shall be reduced to take into account the amount of any property permitted to be received in such exchange without recognition of gain,
 
-&emsp;&emsp;(B) the gross profit from such exchange shall be reduced to take into account anyamount not recognized by reason of section 1031(b), and
+&emsp;&emsp;(B) the gross profit from such exchange shall be reduced to take into account any amount not recognized by reason of section 1031(b), and
 
 &emsp;&emsp;(C) the term “payment”, when used in any provision of this section other than subsection (b)(1), shall not include any property permitted to be received in such exchange without recognition of gain.
 
@@ -216,7 +216,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;If, in a liquidation to which section 331 applies, the shareholder receives (in exchange for the shareholder's stock) an installment obligation acquired in respect of a sale or exchange by the corporation during the 12-month period beginning on the date a plan of complete liquidation is adopted and the liquidation is completed during such 12-month period, then, for purposes of this section, the receipt of payments under such obligation (but not the receipt of such obligation) by the shareholder shall be treated as the receipt of payment for the stock.
+&emsp;&emsp;If, in a liquidation to which section 331 applies, the shareholder receives (in exchange for the shareholder's stock) an installment obligation acquired in respect of a sale or exchange by the corporation during the 12-month period beginning on the date a plan ofcomplete liquidation is adopted and the liquidation is completed during such 12-month period, then, for purposes of this section, the receipt of payments under such obligation (but not the receipt of such obligation) by the shareholder shall be treated as the receipt of payment for the stock.
 
 #### (B) Obligations attributable to sale of inventory must result from bulk sale
 
@@ -342,7 +342,7 @@ For purposes of subsection (b)(2)(A)—
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any installment obligation to which paragraph (2)(B) applies, the taximposed by this chapter for any taxable year for which payment is received on such obligation shall be increased by the amount of interest determined in the manner provided under subparagraph (B).
+&emsp;&emsp;In the case of any installment obligation to which paragraph (2)(B) applies, the tax imposed by this chapter for any taxable year for which payment is received on such obligation shall be increased by the amount of interest determined in the manner provided under subparagraph (B).
 
 #### (B) Computation of interest
 
@@ -372,7 +372,7 @@ For purposes of subsection (b)(2)(A)—
 
 #### Prior Provisions
 
-A prior section 453, acts Aug. 16, 1954, ch. 736, 68A Stat. 154; Sept. 2, 1958, Pub. L. 85–866, title I, §27(a), 72 Stat. 1624; Oct. 16, 1962, Pub. L. 87–834, §13(f)(5), 76 Stat. 1035; Feb. 26, 1964, Pub. L. 88–272, title II, §§222(a), 231(b)(5), 78 Stat. 75, 105; Aug. 22, 1964, Pub. L. 88–484, §1(b)(2), 78 Stat. 597; Aug. 31, 1964, Pub. L. 88–539, §3(a), (b), 78 Stat. 746; Sept. 12, 1966, Pub. L. 89–570, §1(b)(5), 80 Stat. 762; Nov. 13, 1966, Pub. L. 89–809, title II, §202(c), 80 Stat. 1576; Dec. 30, 1969, Pub. L. 91–172, title II, §211(b)(5), title III, §301(b)(7), title IV, §412(a), title IX, §916(a), 83 Stat. 570, 585, 608, 723; Oct. 4, 1976, Pub. L. 94–455, title II, §205(c)(1)(E), title XIX, §§1901(a)(66), 1906(b)(13)(A), 1951(b)(7)(A), 90 Stat. 1535, 1775, 1834, 1838; Nov. 6, 1978, Pub. L. 95–600, title VII, §703(j)(3), 92 Stat. 2941; Apr. 1, 1980, Pub. L. 96–222, title I, §104(a)(4)(H)(iv), 94 Stat. 217; Apr. 2, 1980, Pub. L. 96–223, title IV, §403(b)(2)(B), 94 Stat. 305; Oct. 19, 1980, Pub. L. 96–471, §2(c)(4), 94 Stat. 2254, related to installment method in general, installment method for dealers in personal property, and gain or loss dispositions of installment obligations, prior to repeal by Pub. L. 96–471, §2(a), Oct. 19, 1980, 94 Stat. 2247. See sections 453A and 453B of this title.
+A prior section 453, acts Aug. 16, 1954, ch. 736, 68A Stat. 154; Sept. 2, 1958, Pub. L. 85–866, title I, §27(a), 72 Stat. 1624; Oct. 16, 1962, Pub. L. 87–834, §13(f)(5), 76 Stat. 1035; Feb. 26, 1964, Pub. L. 88–272, title II, §§222(a), 231(b)(5), 78 Stat. 75, 105; Aug. 22, 1964, Pub. L. 88–484, §1(b)(2), 78 Stat. 597; Aug. 31, 1964, Pub. L. 88–539, §3(a), (b), 78 Stat. 746; Sept. 12, 1966, Pub. L. 89–570, §1(b)(5), 80 Stat. 762; Nov. 13, 1966, Pub. L. 89–809, title II, §202(c), 80 Stat. 1576; Dec. 30, 1969, Pub. L. 91–172, title II, §211(b)(5), title III, §301(b)(7), title IV, §412(a), title IX, §916(a), 83 Stat. 570, 585, 608, 723; Oct. 4, 1976, Pub. L.94–455, title II, §205(c)(1)(E), title XIX, §§1901(a)(66), 1906(b)(13)(A), 1951(b)(7)(A), 90 Stat. 1535, 1775, 1834, 1838; Nov. 6, 1978, Pub. L. 95–600, title VII, §703(j)(3), 92 Stat. 2941; Apr. 1, 1980, Pub. L. 96–222, title I, §104(a)(4)(H)(iv), 94 Stat. 217; Apr. 2, 1980, Pub. L. 96–223, title IV, §403(b)(2)(B), 94 Stat. 305; Oct. 19, 1980, Pub. L. 96–471, §2(c)(4), 94 Stat. 2254, related to installment method in general, installment method for dealers in personal property, and gain or loss dispositions of installment obligations, prior to repeal by Pub. L. 96–471, §2(a), Oct. 19, 1980, 94 Stat. 2247. See sections 453A and 453B of this title.
 
 #### Amendments
 
@@ -456,7 +456,7 @@ Subsec. (i). Pub. L. 98–369, §112(a), amended subsec. (i) generally, substitu
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–357, title VIII, §897(b), Oct. 22, 2004, 118 Stat. 1649, provided that: “The amendment made by this section \[amending this section\] shall apply to sales occurring on or after the date of the enactment of this Act \[Oct. 22, 2004\].”
+Pub. L. 108–357, title VIII, §897(b), Oct. 22, 2004, 118 Stat. 1649, provided that: “The amendment made bythis section \[amending this section\] shall apply to sales occurring on or after the date of the enactment of this Act \[Oct. 22, 2004\].”
 
 #### Effective Date and Construction of 2000 Amendment
 
@@ -558,7 +558,7 @@ Coordination with tax reform act of 1986.—The amendments made by this section 
 
 Amendment by section 631(e)(8) of Pub. L. 99–514 applicable to any distribution in complete liquidation, and any sale or exchange, made by a corporation after July 31, 1986, unless such corporation is completely liquidated before Jan. 1, 1987, any transaction described in section 338 of this title for which the acquisition date occurs after Dec. 31, 1986, and any distribution, not in complete liquidation, made after Dec. 31, 1986, with exceptions and special and transitional rules, see section 633 of Pub. L. 99–514, set out as an Effective Date note under section 336 of this title.
 
-Amendment by section 642(a)(1)(D), (3), (b) of Pub. L. 99–514 applicable to sales after Oct. 22, 1986, in taxable years ending after such date, but not applicable to sales made after Aug. 14, 1986, which are made pursuant to a binding contract in effect on Aug. 14, 1986, and at all times thereafter, see section 642(c) of Pub. L. 99–514, set out as a note under section 1239 of this title.
+Amendment by section 642(a)(1)(D), (3), (b) of Pub. L. 99–514 applicable to sales after Oct. 22, 1986, in taxableyears ending after such date, but not applicable to sales made after Aug. 14, 1986, which are made pursuant to a binding contract in effect on Aug. 14, 1986, and at all times thereafter, see section 642(c) of Pub. L. 99–514, set out as a note under section 1239 of this title.
 
 Section 812(c) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1008(g)(3)–(6), Nov. 10, 1988, 102 Stat. 3443, provided that:
 

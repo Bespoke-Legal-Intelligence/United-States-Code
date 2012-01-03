@@ -16,6 +16,7 @@
 | [2562\.](%C2%A7%2002562%20-%20Limitation%20on%20use%20of%20excess%20construction%20or%20fire%20equipment%20from%20Department%20of%20Defense%20stocks%20in%20foreign%20assistance%20or%20military%20sales%E2%80%A6.md) | Limitation on use of excess construction or fire equipment from Department of Defense stocks in foreign assistance or military sales programs. |
 | [2563\.](%C2%A7%2002563%20-%20Articles%20and%20services%20of%20industrial%20facilities%20sale%20to%20persons%20outside%20the%20Department%20of%20Defense.md) | Articles and services of industrial facilities: sale to persons outside the Department of Defense. |
 | [2564\.](%C2%A7%2002564%20-%20Provision%20of%20support%20for%20certain%20sporting%20events.md) | Provision of support for certain sporting events. |
+| [2564a.](%C2%A7%2002564a%20-%20Provision%20of%20assistance%20for%20adaptive%20sports%20programs%20for%20members%20of%20the%20armed%20forces.md) | Provision of assistance for adaptive sports programs for members of the armed forces. |
 | [2565\.](%C2%A7%2002565%20-%20Nuclear%20test%20monitoring%20equipment%20furnishing%20to%20foreign%20governments.md) | Nuclear test monitoring equipment: furnishing to foreign governments. |
 | [2566\.](%C2%A7%2002566%20-%20Space%20and%20services%20provision%20to%20military%20welfare%20societies.md) | Space and services: provision to military welfare societies. |
 | \[2567. | Repealed.\] |
@@ -29,7 +30,9 @@ Chapter was comprised of subchapter I, former section 2540, and subchapter II, s
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 111–383, div. A, title X, §1074(b)(2), Jan. 7, 2011, 124 Stat. 4368, substituted “Excess nonlethal supplies: availability for humanitarian relief, domestic emergency assistance, and homeless veterans assistance” for “Excess nonlethal supplies: availability for homeless veteran initiatives and humanitarian relief” in item 2557.
+<b>2011</b>—Pub. L. 112–81, div. A, title V, §589(b), Dec. 31, 2011, 125 Stat. 1438, which directed amendment of table of sections at the beginning of this chapter by adding item 2564a after the item relating to section 717, was executed by adding item 2564a after item 2564, to reflect the probable intent of Congress.
+
+Pub. L. 111–383, div. A, title X, §1074(b)(2), Jan. 7, 2011, 124 Stat. 4368, substituted “Excess nonlethal supplies: availability for humanitarian relief, domestic emergency assistance, and homeless veterans assistance” for “Excess nonlethal supplies: availability for homeless veteran initiatives and humanitarian relief” in item 2557.
 
 <b>2008</b>—Pub. L. 110–181, div. A, title III, §376(b), title X, §§1063(a)(12), 1068(b)(2), Jan. 28, 2008, 122 Stat. 84, 322, 326, inserted period at end of item 2567 and then struck out item 2567 “Supplies, services, and equipment: provision in major public emergencies” and added item 2568.
 
@@ -88,6 +91,7 @@ Pub. L. 104–106, div. A, title XV, §1503(a)(29), Feb. 10, 1996, 110 Stat. 512
 - [&sect; 02562 - Limitation on use of excess construction or fire equipment from Department of Defense stocks in foreign assistance or military sales&#8230;](%C2%A7%2002562%20-%20Limitation%20on%20use%20of%20excess%20construction%20or%20fire%20equipment%20from%20Department%20of%20Defense%20stocks%20in%20foreign%20assistance%20or%20military%20sales%E2%80%A6.md)
 - [&sect; 02563 - Articles and services of industrial facilities sale to persons outside the Department of Defense](%C2%A7%2002563%20-%20Articles%20and%20services%20of%20industrial%20facilities%20sale%20to%20persons%20outside%20the%20Department%20of%20Defense.md)
 - [&sect; 02564 - Provision of support for certain sporting events](%C2%A7%2002564%20-%20Provision%20of%20support%20for%20certain%20sporting%20events.md)
+- [&sect; 02564a - Provision of assistance for adaptive sports programs for members of the armed forces](%C2%A7%2002564a%20-%20Provision%20of%20assistance%20for%20adaptive%20sports%20programs%20for%20members%20of%20the%20armed%20forces.md)
 - [&sect; 02565 - Nuclear test monitoring equipment furnishing to foreign governments](%C2%A7%2002565%20-%20Nuclear%20test%20monitoring%20equipment%20furnishing%20to%20foreign%20governments.md)
 - [&sect; 02566 - Space and services provision to military welfare societies](%C2%A7%2002566%20-%20Space%20and%20services%20provision%20to%20military%20welfare%20societies.md)
 - [&sect; 02567 - Repealed. Pub. L. 110&#8211;181, div. A, title X, &sect;1068(b)(1), Jan. 28, 2008, 122 Stat. 326](%C2%A7%2002567%20-%20Repealed.%20Pub.%20L.%20110%E2%80%93181%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71068%28b%29%281%29%2C%20Jan.%2028%2C%202008%2C%20122%20Stat.%20326.md)

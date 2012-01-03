@@ -10,7 +10,7 @@ The Administration is authorized, upon such terms and conditions as are deemed a
 
 #### (c) Full faith and credit of United States
 
-The full faith and credit of the United States is pledged to the payment of all amounts which may be required to be paid under any guarantee of such trust certificates issued by the Administration or its agent pursuant to this section.
+The full faith and credit of the United States is pledged to the payment of all amounts whichmay be required to be paid under any guarantee of such trust certificates issued by the Administration or its agent pursuant to this section.
 
 #### (d) Collection of fees
 

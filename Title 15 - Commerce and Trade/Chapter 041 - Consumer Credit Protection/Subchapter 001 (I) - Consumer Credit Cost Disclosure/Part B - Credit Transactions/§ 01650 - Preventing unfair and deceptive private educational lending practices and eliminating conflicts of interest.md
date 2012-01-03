@@ -62,7 +62,7 @@ As used in this section—
 
 &emsp;&emsp;&emsp;(ii) is issued expressly for postsecondary educational expenses to a borrower, regardless of whether the loan is provided through the educational institution that the subject student attends or directly to the borrower from the private educational lender; and
 
-&emsp;&emsp;(B) does not include an extension of credit under an open end consumer credit plan, areverse mortgage transaction, a residential mortgage transaction, or any other loan that is secured by real property or a dwelling; and
+&emsp;&emsp;(B) does not include an extension of credit under an open end consumer credit plan, a reverse mortgage transaction, a residential mortgage transaction, or any other loan that is secured by real property or a dwelling; and
 
 &emsp;(8) the term “revenue sharing” means an arrangement between a covered educational institution and a private educational lender under which—
 
@@ -86,7 +86,7 @@ A private educational lender may not use the name, emblem, mascot, or logo of th
 
 #### (d) Advisory Board compensation
 
-Any person who is employed in the financial aid office of a covered educational institution, or who otherwise has responsibilities with respect to private education loans or other financial aid of the institution, and who serves on an advisory board, commission, or group established by a private educational lender or group of such lenders shall be prohibited from receiving anything of value from the private educational lender or group of lenders. Nothing in this subsection prohibits the reimbursement of reasonable expenses incurred by an employee of a covered educational institution as part of their service on an advisory board, commission, or group described in this subsection.
+Any person who is employed in the financial aid office of a covered educational institution,or who otherwise has responsibilities with respect to private education loans or other financial aid of the institution, and who serves on an advisory board, commission, or group established by a private educational lender or group of such lenders shall be prohibited from receiving anything of value from the private educational lender or group of lenders. Nothing in this subsection prohibits the reimbursement of reasonable expenses incurred by an employee of a covered educational institution as part of their service on an advisory board, commission, or group described in this subsection.
 
 #### (e) Prohibition on prepayment or repayment fees or penalty
 
@@ -104,7 +104,7 @@ It shall be unlawful for any private educational lender to impose a fee or penal
 
 &emsp;&emsp;(A) on the campus of an institution of higher education;
 
-&emsp;&emsp;(B) near the campus of an institution of higher education, as determined by rule of the Board; or
+&emsp;&emsp;(B) near the campus of an institution of higher education, as determined by rule of the Bureau; or
 
 &emsp;&emsp;(C) at an event sponsored by or related to an institution of higher education.
 
@@ -120,15 +120,13 @@ It shall be unlawful for any private educational lender to impose a fee or penal
 
 (Pub. L. 90–321, title I, §140, as added Pub. L. 110–315, title X, §1011(a), Aug. 14, 2008, 122 Stat. 3479; amended Pub. L. 111–24, title III, §304, May 22, 2009, 123 Stat. 1749; Pub. L. 111–203, title X, §1100A(2), July 21, 2010, 124 Stat. 2107.)
 
-#### Amendment of Section
-
-<i>Pub. L. 111–203, title X, §§1100A(2), 1100H, July 21, 2010, 124 Stat. 2107, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Board” each place that term appears, other than in subsection (d), and inserting “Bureau”. See Effective Date of 2010 Amendment note below.</i>
-
 #### References in Text
 
 The Higher Education Act of 1965, referred to in subsec. (a)(2)(B)(iv)(II), (7)(A)(i), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 #### Amendments
+
+<b>2010</b>—Subsec. (f)(2)(B). Pub. L. 111–203 substituted “Bureau” for “Board”.
 
 <b>2009</b>—Subsec. (f). Pub. L. 111–24 added subsec. (f).
 

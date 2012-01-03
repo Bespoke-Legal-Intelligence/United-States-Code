@@ -38,13 +38,13 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Pub. L. 110–246, §6104, amended section generally. Prior to amendment, text read as follows: “Asused in this chapter the term ‘rural area’, except as provided in section 924(b) of this title, shall be deemed to mean any area of the United States not included within the boundaries of any urban area, as defined by the Bureau of the Census, and such term shall be deemed to include both the farm and nonfarm population thereof; the term ‘farm’ shall be deemed to mean a farm as defined in the publications of the Bureau of the Census; the term ‘person’ shall be deemed to mean any natural person, firm, corporation, or association; the term ‘Territory’ shall be deemed to include any insular possession of the United States; and the term ‘Secretary’ shall be deemed to mean the Secretary of Agriculture.”
+<b>2008</b>—Pub. L. 110–246, §6104, amended section generally. Prior to amendment, text read as follows: “As used in this chapter the term ‘rural area’, except as provided in section 924(b) of this title, shall be deemed to mean any area of the United States not included within the boundaries of any urban area, as defined by the Bureau of the Census, and such term shall be deemed to include both the farm and nonfarm population thereof; the term ‘farm’ shall be deemed to mean a farm as defined in the publications of the Bureau of the Census; the term ‘person’ shall be deemed to mean any natural person, firm, corporation, or association; the term ‘Territory’ shall be deemed to include any insular possession of the United States; and the term ‘Secretary’ shall be deemed to mean the Secretary of Agriculture.”
 
-1994—Pub. L. 103–354 inserted before period at end “; and the term ‘Secretary’ shall be deemed to mean the Secretary of Agriculture”.
+<b>1994</b>—Pub. L. 103–354 inserted before period at end “; and the term ‘Secretary’ shall be deemed to mean the Secretary of Agriculture”.
 
-1993—Pub. L. 103–129 inserted “, except as provided in section 924(b) of this title,” before “shall be deemed to mean” and substituted “urban area, as defined by the Bureau of the Census” for “city, village, or borough having a population in excess of fifteen hundred inhabitants,”.
+<b>1993</b>—Pub. L. 103–129 inserted “, except as provided in section 924(b) of this title,” before “shall be deemed to mean” and substituted “urban area, as defined by the Bureau of the Census” for “city, village, or borough having a population in excess of fifteen hundred inhabitants,”.
 
-1949—Act Oct. 28, 1949, inserted “title I,” in credit of act May 20, 1936.
+<b>1949</b>—Act Oct. 28, 1949, inserted “title I,” in credit of act May 20, 1936.
 
 #### Effective Date of 2008 Amendment
 

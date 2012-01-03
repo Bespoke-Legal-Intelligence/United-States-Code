@@ -128,7 +128,7 @@ In subsection (f)(1), the words “Except as otherwise provided in subsection (a
 
 In subsection (f)(2), the words “private sector” are substituted for “private life” for consistency with subsection (b)(1)(B) of the revised section.
 
-In subsection (f)(3), the words “Executive Schedule” are substituted for “Federal Executive Salary Schedule under section 5316 of title 5” for consistency and to eliminate unnecessary words.
+In subsection (f)(3), the words “Executive Schedule” are substituted for “Federal Executive Salary Scheduleunder section 5316 of title 5” for consistency and to eliminate unnecessary words.
 
 #### Senate Revision Amendment
 

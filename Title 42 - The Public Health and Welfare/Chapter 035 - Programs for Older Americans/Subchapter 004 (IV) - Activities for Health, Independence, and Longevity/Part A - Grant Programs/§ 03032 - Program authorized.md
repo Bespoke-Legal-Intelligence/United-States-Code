@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For the purpose of carrying out this section, the Assistant Secretary may make grants to and enter into contracts with States, public agencies, private nonprofit agencies, institutions of higher education, and organizations, including tribal organizations, for—
+For the purpose of carrying out this section, the Assistant Secretary may make grants to andenter into contracts with States, public agencies, private nonprofit agencies, institutions of higher education, and organizations, including tribal organizations, for—
 
 &emsp;(1) education and training to develop an adequately trained workforce to work with and on behalf of older individuals;
 
@@ -56,7 +56,7 @@ The Rehabilitation Act of 1973, referred to in subsec. (a)(7), is Pub. L. 93–1
 
 A prior section 3032, Pub. L. 89–73, title IV, §412, as added Pub. L. 97–115, §11(a), Dec. 29, 1981, 95 Stat. 1601; amended Pub. L. 98–459, title IV, §404, Oct. 9, 1984, 98 Stat. 1782; Pub. L. 100–175, title I, §§105(e)(2), 134(c)(4), 146(c), 156(b), Nov. 29, 1987, 101 Stat. 930, 941, 950, 954; Pub. L. 102–375, title I, §102(b)(10)(I), title IV, §405, title IX, §904(a)(17), Sept. 30, 1992, 106 Stat. 1202, 1245, 1308; Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990, related to establishment and support of multidisciplinary centers of gerontology and gerontology centers of special emphasis, prior to the general amendment of this subchapter by Pub. L. 106–501.
 
-Another prior section 3032, Pub. L. 89–73, title IV, §402, as added Pub. L. 93–29, title IV, §401, May 3, 1973,87 Stat. 45; amended Pub. L. 95–478, title I, §104(a)(2), Oct. 18, 1978, 92 Stat. 1537, related to appraisal and assessment of personnel needs of field of aging, prior to the general amendment of this subchapter by Pub. L. 97–115.
+Another prior section 3032, Pub. L. 89–73, title IV, §402, as added Pub. L. 93–29, title IV, §401, May 3, 1973, 87 Stat. 45; amended Pub. L. 95–478, title I, §104(a)(2), Oct. 18, 1978, 92 Stat. 1537, related to appraisal and assessment of personnel needs of field of aging, prior to the general amendment of this subchapter by Pub. L. 97–115.
 
 Another prior section 3032, Pub. L. 89–73, title IV, §402, July 14, 1965, 79 Stat. 224, related to payments of grants, providing in: subsec. (a) for contribution by recipients; subsec. (b) adjustments, advances or reimbursement, installments and conditions; and subsec. (c) consultation of Secretary with State agency prior to making grants or contracts, prior to repeal by Pub. L. 93–29, title IV, §401, May 3, 1973, 87 Stat. 45.
 

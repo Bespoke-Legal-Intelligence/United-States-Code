@@ -100,7 +100,7 @@ Subsec. (f)(1). Pub. L. 106–398, §1 \[\[div. A\], title V, §533(d)(1)(A), (B
 
 Subsec. (f)(1)(A). Pub. L. 106–398, §1 \[\[div. A\], title V, §533(d)(1)(C)\], inserted “or, if already a commissioned officer in the Marine Corps, refuses to accept an assignment on active duty when offered” after “when offered”.
 
-Subsec. (f)(2). Pub. L. 106–398, §1 \[\[div. A\], title V, §533(d)(2)\], added par. (2) and struck out former par. (2) which read as follows: “The Secretary of the Navy may waive the obligated service under paragraph (1) of a person who is not physically qualified for appointment under section 532 of this title and later is determinedby the Secretary of the Navy under section 505 of this title to be unqualified for service as an enlisted member of the Marine Corps due to a physical or medical condition that was not the result of misconduct or grossly negligent conduct.”
+Subsec. (f)(2). Pub. L. 106–398, §1 \[\[div. A\], title V, §533(d)(2)\], added par. (2) and struck out former par. (2) which read as follows: “The Secretary of the Navy may waive the obligated service under paragraph (1) of a person who is not physically qualified for appointment under section 532 of this title and later is determined by the Secretary of the Navy under section 505 of this title to be unqualified for service as an enlisted member of the Marine Corps due to a physical or medical condition that was not the result of misconduct or grossly negligent conduct.”
 
 #### Savings Provision
 

@@ -16,5 +16,5 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### Amendments
 
-1996—Pub. L. 104–324 amended text generally. Prior to amendment, text read as follows: “The Coast Guard may make expenditures as necessary in order to obtain recruits for the service and cadet applicants, including advertising.”
+<b>1996</b>—Pub. L. 104–324 amended text generally. Prior to amendment, text read as follows: “The Coast Guard may make expenditures as necessary in order to obtain recruits for the service and cadet applicants, including advertising.”
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall allocate one credit under this section to a fleet or covered person for each qualifying volume of the biodiesel component of fuel containing at least 20 percent biodiesel by volume purchased after the date of the enactment of this section, for use by the fleet or covered person in vehicles owned or operated by the fleet or covered person that weigh more than 8,500 pounds gross vehicle weight rating.
+&emsp;The Secretary shall allocate one credit under this section to a fleet or covered person for each qualifying volume of the biodieselcomponent of fuel containing at least 20 percent biodiesel by volume purchased after the date of the enactment of this section, for use by the fleet or covered person in vehicles owned or operated by the fleet or covered person that weigh more than 8,500 pounds gross vehicle weight rating.
 
 #### (2) Exceptions
 

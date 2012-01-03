@@ -46,7 +46,7 @@
 
 &emsp;(6) for a continuing program of maintenance and improvement designed to keep the prevailing rate system fully abreast of changing conditions, practices, and techniques both in and out of the Government of the United States.
 
-(d)(1) A lead agency, in making a wage survey, shall determine whether there exists in the local wage area a number of comparable positions in private industry sufficient to establish wage schedules and rates for the principal types of positions for which the survey is made. The determination shall be in writing and shall take into consideration all relevant evidence, including evidence submitted by employee organizations recognized as representative of prevailing rate employees in that area.
+(d)(1) A lead agency, in making a wage survey, shall determine whether there exists in the local wage area a number of comparable positions in private industry sufficient to establish wage schedules and rates for the principal types of positions for which the survey is made. The determination shall be in writing and shall take intoconsideration all relevant evidence, including evidence submitted by employee organizations recognized as representative of prevailing rate employees in that area.
 
 (2) When the lead agency determines that there is a number of comparable positions in private industry insufficient to establish the wage schedules and rates, such agency shall establish the wage schedules and rates on the basis of—
 
@@ -80,7 +80,7 @@
 
 (f) A prevailing rate employee is entitled to pay at his scheduled rate plus a night differential—
 
-&emsp;(1) amounting to 71/2 percent of that scheduled rate for regularly scheduled nonovertime work a majority of the hours of which occur between 3 p.m. and midnight; and
+&emsp;(1) amounting to 7½ percent of that scheduled rate for regularly scheduled nonovertime work a majority of the hours of which occur between 3 p.m. and midnight; and
 
 &emsp;(2) amounting to 10 percent of that scheduled rate for regularly scheduled nonovertime work a majority of the hours of which occur between 11 p.m. and 8 a.m.
 
@@ -100,9 +100,9 @@ Provisions similar to those comprising part of first sentence of subsec. (c) and
 
 #### Amendments
 
-2003—Subsec. (c)(4). Pub. L. 108–136 inserted before semicolon at end “, and for any hardship or hazard related to asbestos, such differentials shall be determined by applying occupational safety and health standards consistent with the permissible exposure limit promulgated by the Secretary of Labor under the Occupational Safety and Health Act of 1970”.
+<b>2003</b>—Subsec. (c)(4). Pub. L. 108–136 inserted before semicolon at end “, and for any hardship or hazard related to asbestos, such differentials shall be determined by applying occupational safety and health standards consistent with the permissible exposure limit promulgated by the Secretary of Labor under the Occupational Safety and Health Act of 1970”.
 
-2001—Subsec. (d)(2). Pub. L. 107–107 amended par. (2) generally. Prior to amendment, par. (2) read as follows:“When the lead agency determines that there is a number of comparable positions in private industry insufficient to establish the wage schedules and rates, such agency shall—
+<b>2001</b>—Subsec. (d)(2). Pub. L. 107–107 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “When the lead agency determines that there is a number of comparable positions in private industry insufficient to establish the wage schedules and rates, such agency shall—
 
 &emsp;“(A) establish the wage schedules and rates to be applicable to prevailing rate employees other than prevailing rate employees of the Department of Defense on the basis of—
 
@@ -112,13 +112,13 @@ Provisions similar to those comprising part of first sentence of subsec. (c) and
 
 &emsp;“(B) establish the wage schedules and rates to be applicable to prevailing rate employees of the Department of Defense only on the basis of local private industry rates.”
 
-1996—Subsec. (a)(5). Pub. L. 104–201 struck out “the areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements (as described in section 3(a) of the Panama Canal Act of 1979),” after “Puerto Rico,”.
+<b>1996</b>—Subsec. (a)(5). Pub. L. 104–201 struck out “the areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements (as described in section 3(a) of the Panama Canal Act of 1979),” after “Puerto Rico,”.
 
-1985—Subsec. (d)(2). Pub. L. 99–145 amended par. (2) generally, designating existing provisions as subpar. (A), inserting “to be applicable to prevailing rate employees other than prevailing rate employees of the Department of Defense”, redesignating as cls. (i) and (ii) provisions previously designated subpars. (A) and (B), and adding subpar. (B).
+<b>1985</b>—Subsec. (d)(2). Pub. L. 99–145 amended par. (2) generally, designating existing provisions as subpar. (A), inserting “to be applicable to prevailing rate employees other than prevailing rate employees of the Department of Defense”, redesignating as cls. (i) and (ii) provisions previously designated subpars. (A) and (B), and adding subpar. (B).
 
-1979—Subsec. (a)(5). Pub. L. 96–70 substituted “areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements (as described in section 3(a) of the Panama Canal Act of 1979)” for “Canal Zone”.
+<b>1979</b>—Subsec. (a)(5). Pub. L. 96–70 substituted “areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements (as described in section 3(a) of the Panama Canal Act of 1979)” for “Canal Zone”.
 
-1978—Subsecs. (a) to (c), (e)(3). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission” wherever appearing.
+<b>1978</b>—Subsecs. (a) to (c), (e)(3). Pub. L. 95–454 substituted “Office of Personnel Management” for “CivilService Commission” and “Office” for “Commission” wherever appearing.
 
 #### Effective Date of 2003 Amendment
 
@@ -292,7 +292,7 @@ Section 9(a) of Pub. L. 92–392 provided that:
 
 “(1) Except as provided by this subsection, an employee's initial rate of pay on conversion to a wage schedule established pursuant to the amendments made by this Act \[see Effective Date note under section 5341 of this title\] shall be determined under conversion rules prescribed by the Civil Service Commission. Service by an employee in a grade of a wage schedule performed before the effective date of the conversion of the employee to a wage schedule established pursuant to the amendments made by this Act shall be counted toward not to exceed one step increase under the time in step provisions of section 5343(e)(2) of title 5, United States Code, as amended by the first section of this Act \[subsec. (e)(2) of this section\].
 
-“(2) In the case of any employee described in section 2105(c), 5102(c)(7), (8), or (14) of title 5, United States Code, who is in the service as such an employee immediately before the effective date, with respect to him, of the amendments made by this Act \[see Effective Date note under section 5341 of this title\], such amendments shall not be construed to decrease his rate of basic pay in effect immediately before the date \[see Effective Date note under section 5341 of this title\] on which such amendments become effective with respect to him. In addition, if an employee is receiving retained pay by virtue of law or agency policy immediately before the date on which the first wage schedule applicable to him under this Act is effective, he shall continue to retain that pay in accordance with the specific instructions under which the retained pay was granted until he leaves his position or until he becomes entitled to a higher rate.”
+“(2) In the case of any employee described in section 2105(c), 5102(c)(7), (8), or (14) of title 5, United StatesCode, who is in the service as such an employee immediately before the effective date, with respect to him, of the amendments made by this Act \[see Effective Date note under section 5341 of this title\], such amendments shall not be construed to decrease his rate of basic pay in effect immediately before the date \[see Effective Date note under section 5341 of this title\] on which such amendments become effective with respect to him. In addition, if an employee is receiving retained pay by virtue of law or agency policy immediately before the date on which the first wage schedule applicable to him under this Act is effective, he shall continue to retain that pay in accordance with the specific instructions under which the retained pay was granted until he leaves his position or until he becomes entitled to a higher rate.”
 
 #### Labor Contracts Pertaining to Wages, Terms and Conditions of Employment, and Other Employment Benefits
 

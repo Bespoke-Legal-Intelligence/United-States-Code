@@ -40,7 +40,7 @@ Section 2 of Pub. L. 99–649 provided that:
 
 &emsp;“(3) Injury causes 50 percent of all deaths for children over the age of one year and two-thirds of all deaths for children over the age of 15 years, and is the leading cause of death for individuals under the age of 44 years. Individuals over the age of 65 years have the highest fatality rates for many injuries.
 
-&emsp;“(4) Injury control has not been given high priority in the United States, and the research being conducted on injury control and the number of personnel involved in injury control activities are not adequate.
+&emsp;“(4) Injury control has not been given high priority in the United States, and the research being conducted on injury control and the number of personnelinvolved in injury control activities are not adequate.
 
 “(b) The purposes of this Act \[enacting this part\] are—
 

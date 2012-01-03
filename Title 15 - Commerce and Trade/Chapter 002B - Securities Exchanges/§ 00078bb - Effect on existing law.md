@@ -1,12 +1,32 @@
 ### §78bb. Effect on existing law
 
-#### (a) Addition of rights and remedies; recovery of actual damages; State securities commissions
+#### (a) Limitation on judgments
 
-Except as provided in subsection (f) of this section, the rights and remedies provided by thischapter shall be in addition to any and all other rights and remedies that may exist at law or in equity; but no person permitted to maintain a suit for damages under the provisions of this chapter shall recover, through satisfaction of judgment in one or more actions, a total amount in excess of his actual damages on account of the act complained of. Except as otherwise specifically provided in this chapter, nothing in this chapter shall affect the jurisdiction of the securities commission (or any agency or officer performing like functions) of any State over any security or any person insofar as it does not conflict with the provisions of this chapter or the rules and regulations thereunder. No State law which prohibits or regulates the making or promoting of wagering or gaming contracts, or the operation of “bucket shops” or other similar or related activities, shall invalidate any put, call, straddle, option, privilege, or other security subject to this chapter, or apply to any activity which is incidental or related to the offer, purchase, sale, exercise, settlement, or closeout of any such security. No provision of State law regarding the offer, sale, or distribution of securities shall apply to any transaction in a security futures product, except that this sentence shall not be construed as limiting any State antifraud law of general applicability.
+#### (1) In general
+
+&emsp;No person permitted to maintain a suit for damages under the provisions of this chapter shall recover, through satisfaction of judgment in 1 or more actions, a total amount in excess of the actual damages to that person on account of the act complained of. Except as otherwise specifically provided in this chapter, nothing in this chapter shall affect the jurisdiction of the securities commission (or any agency or officer performing like functions) of any State over any security or any person insofar as it does not conflict with the provisions of this chapter or the rules and regulations under this chapter.
+
+#### (2) Rule of construction
+
+&emsp;Except as provided in subsection (f), the rights and remedies provided by this chapter shall be in addition to any and all other rights and remedies that may exist at law or in equity.
+
+#### (3) State bucket shop laws
+
+&emsp;No State law which prohibits or regulates the making or promoting of wagering or gaming contracts, or the operation of “bucket shops” or other similar or related activities, shall invalidate—
+
+&emsp;&emsp;(A) any put, call, straddle, option, privilege, or other security subject to this chapter (except any security that has a pari-mutuel payout or otherwise is determined by the Commission, acting by rule, regulation, or order, to be appropriately subject to such laws), or apply to any activity which is incidental or related to the offer, purchase, sale, exercise, settlement, or closeout of any such security;
+
+&emsp;&emsp;(B) any security-based swap between eligible contract participants; or
+
+&emsp;&emsp;(C) any security-based swap effected on a national securities exchange registered pursuant to section 78f(b) of this title.
+
+#### (4) Other State provisions
+
+&emsp;No provision of State law regarding the offer, sale, or distribution of securities shall apply to any transaction in a security-based swap or a security futures product, except that this paragraph may not be construed as limiting any State antifraud law of general applicability. A security-based swap may not be regulated as an insurance contract under any provision of State law.
 
 #### (b) Modification of disciplinary procedures
 
-Nothing in this chapter shall be construed to modify existing law with regard to the binding effect (1) on any member of or participant in any self-regulatory organization of any action taken by the authorities of such organization to settle disputes between its members or participants, (2) on any municipal securities dealer or municipal securities broker of any action taken pursuant to a procedure established by the Municipal Securities Rulemaking Board to settle disputes between municipal securities dealers and municipal securities brokers, or (3) of any action described in paragraph (1) or (2) on any person who has agreed to be bound thereby.
+Nothing in this chapter shall be construed to modify existing law with regard to the bindingeffect (1) on any member of or participant in any self-regulatory organization of any action taken by the authorities of such organization to settle disputes between its members or participants, (2) on any municipal securities dealer or municipal securities broker of any action taken pursuant to a procedure established by the Municipal Securities Rulemaking Board to settle disputes between municipal securities dealers and municipal securities brokers, or (3) of any action described in paragraph (1) or (2) on any person who has agreed to be bound thereby.
 
 #### (c) Continuing validity of disciplinary sanctions
 
@@ -130,33 +150,9 @@ No State or political subdivision thereof shall impose any tax on any change in 
 
 (June 6, 1934, ch. 404, title I, §28, 48 Stat. 903; Pub. L. 94–29, §21, June 4, 1975, 89 Stat. 160; Pub. L. 97–303, §4, Oct. 13, 1982, 96 Stat. 1409; Pub. L. 100–181, title III, §§327–329, Dec. 4, 1987, 101 Stat. 1259; Pub. L. 104–290, title I, §103(b), Oct. 11, 1996, 110 Stat. 3422; Pub. L. 105–353, title I, §101(b)(1), Nov. 3, 1998, 112 Stat. 3230; Pub. L. 106–554, §1(a)(5) \[title II, §§203(a)(2), 210\], Dec. 21, 2000, 114 Stat. 2763, 2763A–422, 2763A–436; Pub. L. 111–203, title VII, §767, July 21, 2010, 124 Stat. 1799.)
 
-#### Amendment of Subsection (a)
+#### Amendment of Section
 
-<i>Pub. L. 111–203, title VII, §§767, 774, July 21, 2010, 124 Stat. 1799, 1802, provided that, effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B (§§761–774) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, subsection (a) of this section is amended to read as follows:</i>
-
-#### <i>(a) Limitation on judgments</i>
-
-#### <i>(1) In general</i>
-
-&emsp;<i>No person permitted to maintain a suit for damages under the provisions of this chapter shall recover, through satisfaction of judgment in 1 or more actions, a total amount in excess of the actual damages to that person on account of the act complained of. Except as otherwise specifically provided in this chapter, nothing in this chapter shall affect the jurisdiction of the securities commission (or any agency or officer performing like functions) of any State over any security or any person insofar as it does not conflict with the provisions of this chapter or the rules and regulations under this chapter.</i>
-
-#### <i>(2) Rule of construction</i>
-
-&emsp;<i>Except as provided in subsection (f), the rights and remedies provided by this chapter shall be in addition to any and all other rights and remedies that may exist at law or in equity.</i>
-
-#### <i>(3) State bucket shop laws</i>
-
-&emsp;<i>No State law which prohibits or regulates the making or promoting of wagering or gaming contracts, or the operation of “bucket shops” or other similar or related activities, shall invalidate—</i>
-
-&emsp;&emsp;<i>(A) any put, call, straddle, option, privilege, or other security subject to this chapter (except any security that has a pari-mutuel payout or otherwise is determined by the Commission, acting by rule, regulation, or order, to be appropriately subject to such laws), or apply to any activity which is incidental or related to the offer, purchase, sale, exercise, settlement, or closeout of any such security;</i>
-
-&emsp;&emsp;<i>(B) any security-based swap between eligible contract participants; or</i>
-
-&emsp;&emsp;<i>(C) any security-based swap effected on a national securities exchange registered pursuant to section 78f(b) of this title.</i>
-
-#### <i>(4) Other State provisions</i>
-
-&emsp;<i>No provision of State law regarding the offer, sale, or distribution of securities shall apply to any transaction in a security-based swap or a security futures product, except that this paragraph may not be construed as limiting any State antifraud law of general applicability. A security-based swap may not be regulated as an insurance contract under any provision of State law.</i>
+<i>Unless otherwise provided, amendment by subtitle B (§§761–774) of title VII of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see 2010 Amendment notes and Effective Date of 2010 Amendment note below.</i>
 
 #### References in Text
 
@@ -165,6 +161,8 @@ This chapter, referred to in subsecs. (a) to (c) and (e), was in the original �
 The Securities Act of 1933, referred to in subsec. (f)(5)(E), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
 #### Amendments
+
+<b>2010</b>—Subsec. (a). Pub. L. 111–203 amended subsec. (a) generally. Prior to amendment, subsec. (a) related to rights and remedies provided by this chapter and applicability of certain State securities laws.
 
 <b>2000</b>—Subsec. (a). Pub. L. 106–554, §1(a)(5) \[title II, §210\], inserted “subject to this chapter” after “privilege, or other security”, substituted “any such security” for “any such instrument, if such instrument is traded pursuant to rules and regulations of a self-regulatory organization that are filed with the Commission pursuant to section 78s(b) of this title”, and inserted at end “No provision of State law regarding the offer, sale, or distribution of securities shall apply to any transaction in a security futures product, except that this sentence shall not be construed as limiting any State antifraud law of general applicability.”
 

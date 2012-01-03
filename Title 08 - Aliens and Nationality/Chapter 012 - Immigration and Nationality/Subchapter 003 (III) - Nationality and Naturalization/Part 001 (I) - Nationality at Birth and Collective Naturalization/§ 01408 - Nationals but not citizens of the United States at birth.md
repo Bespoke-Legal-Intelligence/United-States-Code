@@ -20,9 +20,9 @@ Unless otherwise provided in section 1401 of this title, the following shall be 
 
 #### Amendments
 
-1988—Par. (4). Pub. L. 100–525 amended Pub. L. 99–396. See 1986 Amendment note below.
+<b>1988</b>—Par. (4). Pub. L. 100–525 amended Pub. L. 99–396. See 1986 Amendment note below.
 
-1986—Par. (4). Pub. L. 99–396, as amended by Pub. L. 100–525, added par. (4).
+<b>1986</b>—Par. (4). Pub. L. 99–396, as amended by Pub. L. 100–525, added par. (4).
 
 #### Effective Date of 1988 Amendment
 

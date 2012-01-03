@@ -52,11 +52,11 @@ The word “performed” is substituted for “rendered” to conform to the sty
 
 #### Amendments
 
-1982—Subsec. (c). Pub. L. 97–258 substituted “section 9101(2)” for “section 856”, and “chapter 91” for “sections 841–869”.
+<b>1982</b>—Subsec. (c). Pub. L. 97–258 substituted “section 9101(2)” for “section 856”, and “chapter 91” for “sections 841–869”.
 
-1976—Subsec. (b). Pub. L. 94–273 inserted “during the first fifteen days of October following the furnishing of the statement” after “its control” and substituted “July 1 through June 30 expense period” for “fiscal year” and “the fiscal year beginning in the next calendar year” for “the next fiscal year”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–273 inserted “during the first fifteen days of October following the furnishing of the statement” after “its control” and substituted “July 1 through June 30 expense period” for “fiscal year” and “the fiscal year beginning in the next calendar year” for “the next fiscal year”.
 
-1974—Subsec. (a). Pub. L. 93–416, §26, substituted “Office of Management and Budget” for “Bureau of the Budget”.
+<b>1974</b>—Subsec. (a). Pub. L. 93–416, §26, substituted “Office of Management and Budget” for “Bureau of the Budget”.
 
 Subsec. (c). Pub. L. 93–416, §25, inserted reference to the United States Postal Service.
 
@@ -76,7 +76,7 @@ Pub. L. 103–112, title I, §102, Oct. 21, 1993, 107 Stat. 1089, Department of 
 
 #### Deposit Into Fund Between July 1, and July 15, 1976, of Specified Part of August 15, 1975, Statement
 
-Pub. L. 94–274, title I, §120, Apr. 21, 1976, 90 Stat. 389, provided that for the purposes of 5 U.S.C. 8147(b), each agency and instrumentality of the United States dependent upon an annual appropriation and having an employee who is or may be entitled to compensation benefits under this subchapter or any extension or application thereof shall deposit in the Treasury to the credit of the Employees’ Compensation Fund, no later than July 15, 1976, but no earlier than July 1, 1976, 25 per centum of the amount stated in the August 15, 1975, statement.
+Pub. L. 94–274, title I, §120, Apr. 21, 1976, 90 Stat. 389, provided that for the purposes of 5 U.S.C. 8147(b), each agency and instrumentality of the United States dependent upon an annual appropriation and having anemployee who is or may be entitled to compensation benefits under this subchapter or any extension or application thereof shall deposit in the Treasury to the credit of the Employees’ Compensation Fund, no later than July 15, 1976, but no earlier than July 1, 1976, 25 per centum of the amount stated in the August 15, 1975, statement.
 
 #### Personnel Not Affected by 1967 Increase
 

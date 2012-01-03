@@ -78,7 +78,7 @@ In subsec. (c)(2)(B), “chapter 83 of title 41” substituted for “title III 
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–465, §343(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “With respect to procurement covered by the Agreement, the President, in order to encourage additional countries to become parties to the Agreement and to provide appropriate reciprocal competitive government procurement opportunities to United States products and suppliers of such products—
 
-&emsp;“(1) shall prohibit the procurement, after the date on which any waiver under section 2511(a) of this title first takes effect, of products (A) which are products of a foreign country or instrumentality which is not designated pursuant to section 2511(b) of this title, and (B) which are products covered under the Agreement for procurement by the United States; and
+&emsp;“(1) shall prohibit the procurement, after the date on which any waiver under section 2511(a) of this title first takes effect, of products (A) which are products of a foreign country or instrumentality which is notdesignated pursuant to section 2511(b) of this title, and (B) which are products covered under the Agreement for procurement by the United States; and
 
 &emsp;“(2) may take such other actions within his authority as he deems necessary.”
 

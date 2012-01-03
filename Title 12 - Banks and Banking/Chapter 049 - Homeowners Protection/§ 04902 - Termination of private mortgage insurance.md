@@ -30,7 +30,7 @@ If a requirement for private mortgage insurance is not otherwise canceled or ter
 
 #### (d) Treatment of loan modifications
 
-If a mortgagor and mortgagee (or holder of the mortgage) agree to a modification of the terms or conditions of a loan pursuant to a residential mortgage transaction, the cancellation date, termination date, or final termination shall be recalculated to reflect the modified terms and conditions of such loan.
+If a mortgagor and mortgagee (or holder of the mortgage) agree to a modification of the terms or conditions of a loan pursuant to a residential mortgage transaction, the cancellation date, termination date, or final termination shall berecalculated to reflect the modified terms and conditions of such loan.
 
 #### (e) No further payments
 
@@ -104,7 +104,7 @@ The cancellation or termination under this section of the private mortgage insur
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–569, §404(1)(A), inserted “or any later date that the mortgagor fulfills all of the requirements under paragraphs (1) through (4)” after “cancellation date” in introductory provisions.
+<b>2000</b>—Subsec. (a). Pub. L. 106–569, §404(1)(A), inserted “or any later date that the mortgagor fulfills all of the requirements under paragraphs (1) through (4)” after “cancellation date” in introductory provisions.
 
 Subsec. (a)(3), (4). Pub. L. 106–569, §404(1)(B)–(D), added par. (3) and redesignated former par. (3) as (4).
 

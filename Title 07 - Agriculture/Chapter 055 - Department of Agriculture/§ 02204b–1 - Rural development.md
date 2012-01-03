@@ -20,7 +20,7 @@ Section was formerly classified to section 3122 of Title 42, The Public Health a
 
 #### Amendments
 
-1980—Subsec. (b). Pub. L. 96–355 struck out provisions respecting annual report to Congress by the President covering efforts, etc., made for locating all new facilities.
+<b>1980</b>—Subsec. (b). Pub. L. 96–355 struck out provisions respecting annual report to Congress by the President covering efforts, etc., made for locating all new facilities.
 
 Subsec. (c). Pub. L. 96–355 struck out subsec. (c) which related to planning assistance and annual report to Congress respecting such assistance.
 
@@ -30,11 +30,11 @@ Subsec. (e). Pub. L. 96–355 struck out subsec. (e) which related to provision 
 
 Subsec. (f). Pub. L. 96–355 struck out subsec. (f) which required report to Congress by July 1, 1971, relating to implementation of rural financial assistance requirements.
 
-1976—Subsec. (b). Pub. L. 94–273 substituted “December” for “September”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–273 substituted “December” for “September”.
 
 Subsec. (d). Pub. L. 94–273 substituted “December 1 of” for “September 1 of”.
 
-1972—Subsec. (b). Pub. L. 92–419 struck out “insofar as practicable,” after “maintain” and substituted “policies and procedures giving first priority to the location of new offices and other facilities in rural areas as defined in the private business enterprise exception in section 1926(a)(7) of this title”, for “policies and procedures with respect to the location of new offices and other facilities in areas or communities of lower population density in preference to areas or communities of high population densities”.
+<b>1972</b>—Subsec. (b). Pub. L. 92–419 struck out “insofar as practicable,” after “maintain” and substituted “policies and procedures giving first priority to the location of new offices and other facilities in rural areas as defined in the private business enterprise exception in section 1926(a)(7) of this title”, for “policies and procedures with respect to the location of new offices and other facilities in areas or communities of lower population density in preference to areas or communities of high population densities”.
 
 #### Effective Date of 1980 Amendment
 

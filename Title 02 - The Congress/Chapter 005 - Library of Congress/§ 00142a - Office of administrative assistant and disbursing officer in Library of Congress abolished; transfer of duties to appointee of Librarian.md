@@ -10,7 +10,7 @@ Section 142 of this title, referred to in text, was omitted from the Code.
 
 #### Amendments
 
-1972—Pub. L. 92–310 struck out provisions which required the person disbursing appropriations for Library of Congress and Botanic Garden to give a bond in sum of $30,000.
+<b>1972</b>—Pub. L. 92–310 struck out provisions which required the person disbursing appropriations for Library of Congress and Botanic Garden to give a bond in sum of $30,000.
 
 #### Transfer of Functions
 

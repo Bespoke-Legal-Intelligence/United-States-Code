@@ -6,7 +6,7 @@ The district courts of the United States shall have jurisdiction of all causes, 
 
 #### Amendments
 
-1996—Pub. L. 104–208, §381(a)(2), inserted at end “Nothing in this section shall be construed as providing jurisdiction for suits against the United States or its agencies or officers.”
+<b>1996</b>—Pub. L. 104–208, §381(a)(2), inserted at end “Nothing in this section shall be construed as providing jurisdiction for suits against the United States or its agencies or officers.”
 
 Pub. L. 104–208, §381(a)(1), amended first sentence generally. Prior to amendment, first sentence read as follows: “The district courts of the United States shall have jurisdiction of all causes, civil and criminal, arising under any of the provisions of this subchapter.”
 

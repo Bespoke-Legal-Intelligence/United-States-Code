@@ -360,9 +360,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (c)(12). Pub. L. 110–246, §10401, added par. (12).
+<b>2008</b>—Subsec. (c)(12). Pub. L. 110–246, §10401, added par. (12).
 
-1998—Subsec. (b)(2). Pub. L. 105–185, §605(f)(1)(A), substituted “except that the term of appointments to the Committee may be staggered periodically, as determined by the Secretary” for “except that the initial appointments to the Committee shall be staggered with an equal number of members appointed, to the maximum extent possible, to one-year, two-year, and three-year terms”.
+<b>1998</b>—Subsec. (b)(2). Pub. L. 105–185, §605(f)(1)(A), substituted “except that the term of appointments to the Committee may be staggered periodically, as determined by the Secretary” for “except that the initial appointments to the Committee shall be staggered with an equal number of members appointed, to the maximum extent possible, to one-year, two-year, and three-year terms”.
 
 Subsec. (b)(5). Pub. L. 105–185, §605(f)(1)(B), struck out “after the first annual meeting” after “except that” in second sentence and substituted “percent” for “per centum” in third sentence.
 
@@ -412,7 +412,7 @@ Subsec. (g). Pub. L. 105–185, §605(f)(5), substituted “by the Honey Board�
 
 Subsec. (h). Pub. L. 105–185, §605(f)(6), substituted “by the Honey Board under” for “through assessments authorized by”.
 
-1990—Subsec. (c)(2). Pub. L. 101–624, §1983(1)(B), (C), in concluding provisions, substituted “submit nominations for an alternate” for “nominate an alternate or alternates” and inserted at end “However, no producer-packer who, during any three of the preceding five years, purchased for resale more honey than such producer-packer produced shall be eligible for nomination or appointment to the Honey Board as a producer described in subparagraph (A) or as an alternate to such producer.”
+<b>1990</b>—Subsec. (c)(2). Pub. L. 101–624, §1983(1)(B), (C), in concluding provisions, substituted “submit nominations for an alternate” for “nominate an alternate or alternates” and inserted at end “However, no producer-packer who, during any three of the preceding five years, purchased for resale more honey than such producer-packer produced shall be eligible for nomination or appointment to the Honey Board as a producer described in subparagraph (A) or as an alternate to such producer.”
 
 Subsec. (c)(2)(C). Pub. L. 101–624, §1983(1)(A), added subpar. (C) and struck out former subpar. (C) which read as follows: “two members who are importers appointed from nominations submitted by the Committee from recommendations made by industry organizations representing importer interests;”.
 

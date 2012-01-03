@@ -16,21 +16,21 @@ It is declared to be the policy of Congress—
 
 #### Amendments
 
-1970—Subsec. (3). Pub. L. 91–292 inserted authority to establish and maintain the production research, marketing research, and development projects provided in section 608c(6)(I) of this title.
+<b>1970</b>—Subsec. (3). Pub. L. 91–292 inserted authority to establish and maintain the production research, marketing research, and development projects provided in section 608c(6)(I) of this title.
 
-1965—Subsec. (3). Pub. L. 89–330 inserted “such container and pack requirements provided in section 608c(6)(H) of this title”.
+<b>1965</b>—Subsec. (3). Pub. L. 89–330 inserted “such container and pack requirements provided in section 608c(6)(H) of this title”.
 
-1961—Subsec. (5). Pub. L. 87–128 added subsec. (5).
+<b>1961</b>—Subsec. (5). Pub. L. 87–128 added subsec. (5).
 
-1954—Subsec. (4). Act Aug. 28, 1954, added subsec. (4).
+<b>1954</b>—Subsec. (4). Act Aug. 28, 1954, added subsec. (4).
 
-1948—Subsec. (1). Act July 3, 1948, made definition of “parity” conform to definition stated in section 1301(a)(1) of this title.
+<b>1948</b>—Subsec. (1). Act July 3, 1948, made definition of “parity” conform to definition stated in section 1301(a)(1) of this title.
 
-1947—Subsec. (3). Act Aug. 1, 1947, added subsec. (3).
+<b>1947</b>—Subsec. (3). Act Aug. 1, 1947, added subsec. (3).
 
-1937—Act June 3, 1937, inserted “orderly marketing conditions for agricultural commodities in interstate commerce as will establish” before “as the prices to farmers”.
+<b>1937</b>—Act June 3, 1937, inserted “orderly marketing conditions for agricultural commodities in interstate commerce as will establish” before “as the prices to farmers”.
 
-1935—Subsec. (1). Act Aug. 24, 1935, ch. 641, §1, amended first sentence and act Aug. 24, 1935, ch. 641, §62, amended second and third sentences.
+<b>1935</b>—Subsec. (1). Act Aug. 24, 1935, ch. 641, §1, amended first sentence and act Aug. 24, 1935, ch. 641, §62, amended second and third sentences.
 
 Subsec. (2). Act Aug. 24, 1935, amended subsec. (2).
 
@@ -41,4 +41,6 @@ Amendment by act July 3, 1948, effective Jan. 1, 1950, see section 303 of act Ju
 #### Validity of Section Affirmed
 
 Section 1 of act June 3, 1937, affirmed and validated, and reenacted without change the provisions of this section except for the amendment to subsec. (1) by section 2 of said act. See note set out under section 601 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

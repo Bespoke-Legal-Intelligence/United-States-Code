@@ -14,7 +14,7 @@ In general.—The Secretary of Transportation shall issue a determination as to 
 
 &emsp;(2)
 
-Calculation of fee.—A fee subject to a determination of reasonableness under this section may be calculated pursuant to either a compensatory or residual fee methodology or any combination thereof.
+Calculation of fee.—A fee subject to a determination of reasonableness under thissection may be calculated pursuant to either a compensatory or residual fee methodology or any combination thereof.
 
 &emsp;(3)
 
@@ -96,7 +96,7 @@ Effect On Existing Agreements.—Nothing in this section shall adversely affect�
 
 (g)
 
-Definition.—In this section, the term “fee” means any rate, rental charge, landingfee, or other service charge for the use of airport facilities.
+Definition.—In this section, the term “fee” means any rate, rental charge, landing fee, or other service charge for the use of airport facilities.
 
 (Added Pub. L. 103–305, title I, §113(a)(2), Aug. 23, 1994, 108 Stat. 1577; amended Pub. L. 104–264, title I, §149(d), Oct. 9, 1996, 110 Stat. 3227; Pub. L. 104–287, §5(85), Oct. 11, 1996, 110 Stat. 3397.)
 

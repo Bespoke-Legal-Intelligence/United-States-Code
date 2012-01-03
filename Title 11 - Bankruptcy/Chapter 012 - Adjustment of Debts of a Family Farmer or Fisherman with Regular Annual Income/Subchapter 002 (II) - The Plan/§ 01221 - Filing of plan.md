@@ -10,7 +10,7 @@ For repeal of section effective Oct. 1, 1998, and subsequent reenactment of sect
 
 #### Amendments
 
-1993—Pub. L. 103–65 substituted “the need for an extension is attributable to circumstances for which the debtor should not justly be held accountable” for “an extension is substantially justified”.
+<b>1993</b>—Pub. L. 103–65 substituted “the need for an extension is attributable to circumstances for which the debtor should not justly be held accountable” for “an extension is substantially justified”.
 
 #### Effective Date of 1993 Amendment
 

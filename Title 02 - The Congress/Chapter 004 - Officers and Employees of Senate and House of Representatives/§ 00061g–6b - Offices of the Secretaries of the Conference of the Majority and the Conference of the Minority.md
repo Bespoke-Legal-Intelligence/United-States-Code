@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Upon the written request of the Secretary of the Conference of the Majority or the Secretary of the Conference of the Minority, the Secretary of the Senate shall transfer from the appropriations account appropriated under the subheading “
+Upon the written request of the Secretary of the Conference of the Majority or the Secretary of the Conference of the Minority, the Secretaryof the Senate shall transfer from the appropriations account appropriated under the subheading “
 
 offices of the secretaries of the conference of the majority and the conference of the minority” under the heading “
 

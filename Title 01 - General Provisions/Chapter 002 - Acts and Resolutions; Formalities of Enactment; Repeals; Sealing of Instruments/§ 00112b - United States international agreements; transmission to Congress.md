@@ -30,7 +30,7 @@
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–458, §7121(b), substituted “Committee on International Relations” for “Committee on Foreign Affairs”.
+<b>2004</b>—Subsec. (a). Pub. L. 108–458, §7121(b), substituted “Committee on International Relations” for “Committee on Foreign Affairs”.
 
 Subsec. (d). Pub. L. 108–458, §7121(c), added subsec. (d). Former subsec. (d) redesignated (e).
 
@@ -40,11 +40,11 @@ Pub. L. 108–458, §7121(c)(1), redesignated subsec. (d) as (e). Former subsec.
 
 Subsec. (f). Pub. L. 108–458, §7121(c)(1), redesignated subsec. (e) as (f).
 
-1994—Subsec. (a). Pub. L. 103–437 substituted “Committee on Foreign Affairs” for “Committee on International Relations”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–437 substituted “Committee on Foreign Affairs” for “Committee on International Relations”.
 
-1978—Pub. L. 95–426 designated existing provisions as subsec. (a), inserted “(including the text of any oral international agreement, which agreement shall be reduced to writing)”, and added subsecs. (b) to (e).
+<b>1978</b>—Pub. L. 95–426 designated existing provisions as subsec. (a), inserted “(including the text of any oral international agreement, which agreement shall be reduced to writing)”, and added subsecs. (b) to (e).
 
-1977—Pub. L. 95–45 substituted “Committee on International Relations of the House of Representatives” for “Committee on Foreign Affairs of the House of Representatives” and inserted requirement that any department or agency of the United States Government which enters into any international agreement on behalf of the United States transmit to the Department of State the text of such agreement not later than twenty days after the agreement has been signed.
+<b>1977</b>—Pub. L. 95–45 substituted “Committee on International Relations of the House of Representatives” for “Committee on Foreign Affairs of the House of Representatives” and inserted requirement that any department or agency of the United States Government which enters into any international agreement on behalf of the United States transmit to the Department of State the text of such agreement not later than twenty days after the agreement has been signed.
 
 #### Change of Name
 

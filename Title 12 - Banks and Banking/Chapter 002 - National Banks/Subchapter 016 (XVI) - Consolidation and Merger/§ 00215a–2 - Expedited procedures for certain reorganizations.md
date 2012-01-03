@@ -32,7 +32,7 @@ The corporate existence of a national bank that reorganizes in accordance with t
 
 #### (e) Approval under the Bank Holding Company Act
 
-This section does not affect in any way the applicability of the Bank Holding Company Act of 1956 \[12 U.S.C. 1841 et seq.\] to a transaction described in subsection (a) of this section.
+This section does not affect in any way the applicability of the Bank Holding Company Act of1956 \[12 U.S.C. 1841 et seq.\] to a transaction described in subsection (a) of this section.
 
 (Nov. 7, 1918, ch. 209, §5, as added Pub. L. 106–569, title XII, §1204(2), Dec. 27, 2000, 114 Stat. 3033.)
 

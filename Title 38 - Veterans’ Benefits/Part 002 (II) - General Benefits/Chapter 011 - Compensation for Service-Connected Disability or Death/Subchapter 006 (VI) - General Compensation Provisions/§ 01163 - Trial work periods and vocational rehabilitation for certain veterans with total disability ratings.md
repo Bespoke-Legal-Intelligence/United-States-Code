@@ -54,7 +54,7 @@ Subsec. (c)(2). Pub. L. 100–687, §1301(b)(1), (3)(B), added par. (2) and stru
 
 Subsec. (c)(3). Pub. L. 100–687, §1301(b)(1), struck out par. (3) which related to individualized written plan of vocational rehabilitation after completion of evaluation, and failure to pursue program of vocational rehabilitation described in such plan.
 
-Subsec. (c)(4). Pub. L. 100–687, §1301(b)(1), struck out par. (4) which read as follows: “This subsection doesnot apply with respect to a veteran as to whom the Administrator determines that an evaluation of vocational rehabilitation potential or achievement of a vocational goal is not reasonably feasible.”
+Subsec. (c)(4). Pub. L. 100–687, §1301(b)(1), struck out par. (4) which read as follows: “This subsection does not apply with respect to a veteran as to whom the Administrator determines that an evaluation of vocational rehabilitation potential or achievement of a vocational goal is not reasonably feasible.”
 
 #### Effective Date of 1992 Amendment
 

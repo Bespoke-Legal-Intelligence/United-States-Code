@@ -6,11 +6,9 @@ The programs under this part and part D of this subchapter shall be administered
 
 #### References in Text
 
-Part D of this subchapter, referred to in text, is classified to section 651 et seq. of this title.
-
 The Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in text, is Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2105. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 1305 of this title and Tables.
 
-Section 103 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in text, is section 103 of Pub. L. 104–193, which enacted this part, amended sections 602, 603, and 1308 of thistitle, and repealed provisions formerly set out as this part. For complete classification of section 103 to the Code, see Tables.
+Section 103 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in text, is section 103 of Pub. L. 104–193, which enacted this part, amended sections 602, 603, and 1308 of this title, and repealed provisions formerly set out as this part. For complete classification of section 103 to the Code, see Tables.
 
 #### Prior Provisions
 

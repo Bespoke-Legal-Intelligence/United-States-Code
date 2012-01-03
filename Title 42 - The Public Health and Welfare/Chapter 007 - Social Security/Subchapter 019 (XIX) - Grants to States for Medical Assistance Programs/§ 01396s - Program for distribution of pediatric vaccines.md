@@ -148,7 +148,7 @@ For purposes of this section:
 
 #### (5) Charges for shipping and handling
 
-&emsp;The Secretary may enter into a contract referred to in paragraph (1) only if the manufacturer involved agrees to submit to the Secretary such reports as the Secretary determines to be appropriate to assure compliance with the contract and if, with respect to a State program under this section that does not provide for the direct delivery of qualified pediatric vaccines, the manufacturer involved agrees that the manufacturer will provide for the delivery of the vaccines on behalf of the State in accordance with such program and will not impose any charges for the costs of such delivery (except to the extent such costs are provided for in the price established under paragraph (3)).
+&emsp;The Secretary may enter into a contract referred to in paragraph (1) only if the manufacturer involved agrees to submit to the Secretary such reports as the Secretary determines to be appropriate to assure compliance with the contract and if, with respect to a State program under this section that does not provide for the direct delivery of qualified pediatric vaccines, the manufacturer involved agrees that the manufacturer will provide for the delivery of the vaccines on behalf of the State in accordance with such program andwill not impose any charges for the costs of such delivery (except to the extent such costs are provided for in the price established under paragraph (3)).
 
 #### (6) Assuring adequate supply of vaccines
 
@@ -156,7 +156,7 @@ For purposes of this section:
 
 #### (7) Multiple suppliers
 
-&emsp;In the case of the pediatric vaccine involved, the Secretary shall, as appropriate, enter intoa contract referred to in paragraph (1) with each manufacturer of the vaccine that meets the terms and conditions of the Secretary for an award of such a contract (including terms and conditions regarding safety and quality). With respect to multiple contracts entered into pursuant to this paragraph, the Secretary may have in effect different prices under each of such contracts and, with respect to a purchase by States pursuant to paragraph (4)(B), the Secretary shall determine which of such contracts will be applicable to the purchase.
+&emsp;In the case of the pediatric vaccine involved, the Secretary shall, as appropriate, enter into a contract referred to in paragraph (1) with each manufacturer of the vaccine that meets the terms and conditions of the Secretary for an award of such a contract (including terms and conditions regarding safety and quality). With respect to multiple contracts entered into pursuant to this paragraph, the Secretary may have in effect different prices under each of such contracts and, with respect to a purchase by States pursuant to paragraph (4)(B), the Secretary shall determine which of such contracts will be applicable to the purchase.
 
 #### (e) Use of pediatric vaccines list
 

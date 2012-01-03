@@ -2,7 +2,7 @@
 
 In addition to other taxes imposed by this chapter, there is hereby imposed for each taxable year on the undistributed personal holding company income (as defined in section 545) of every personal holding company (as defined in section 542) a personal holding company tax equal to 15 percent of the undistributed personal holding company income.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 182; Pub. L. 88–272, title II, §225(a), Feb. 26, 1964, 78 Stat. 79; Pub. L. 97–34, title I, §101(d)(2), Aug. 13, 1981, 95 Stat. 184; Pub. L. 99–514, title I, §104(b)(8), Oct. 22, 1986, 100 Stat. 2105; Pub. L. 101–508, title XI, §11802(f)(1), Nov. 5, 1990, 104 Stat. 1388–530; Pub. L. 103–66, title XIII, §§13201(b)(2), 13202(b), Aug. 10, 1993, 107 Stat. 459, 461; Pub. L. 107–16, title I, §101(c)(5), June 7, 2001, 115 Stat. 43; Pub. L. 108–27, title III, §302(e)(6), May 28, 2003, 117 Stat. 764.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 182; Pub. L. 88–272, title II, §225(a), Feb. 26, 1964, 78 Stat. 79; Pub. L. 97–34, title I, §101(d)(2), Aug. 13, 1981, 95 Stat. 184; Pub. L. 99–514, title I, §104(b)(8), Oct. 22, 1986, 100 Stat. 2105; Pub. L. 101–508, title XI, §11802(f)(1), Nov. 5, 1990, 104 Stat. 1388–530; Pub.L. 103–66, title XIII, §§13201(b)(2), 13202(b), Aug. 10, 1993, 107 Stat. 459, 461; Pub. L. 107–16, title I, §101(c)(5), June 7, 2001, 115 Stat. 43; Pub. L. 108–27, title III, §302(e)(6), May 28, 2003, 117 Stat. 764.)
 
 #### Amendment of Section
 
@@ -46,7 +46,7 @@ Amendment by Pub. L. 103–66 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 151(a) ofPub. L. 99–514, set out as a note under section 1 of this title.
+Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 151(a) of Pub. L. 99–514, set out as a note under section 1 of this title.
 
 #### Effective Date of 1981 Amendment
 

@@ -14,5 +14,5 @@ Section formerly consisted of subsecs. (a) and (b) which were based on sections 
 
 #### Limitation on New Spending Authority
 
-Section 2 of Pub. L. 99–542 provided that: “Any new spending authority (within the meaning of section 401 of the Congressional Budget and Impoundment Control Act of 1974 \[2 U.S.C. 651\]) which is provided under this Act \[enacting sections 47–3 to 47–6 of this title and amending section 47–2 of this title\] shall be effective for any fiscal year only to the extent or in such amounts as provided in appropriation Acts or to the extent that proceeds are available from any leases issued by the Secretary pursuant to the first section of this Act \[probably means section 1 of Pub. L. 90–409, 16 U.S.C. 47–2\].”
+Pub. L. 99–542, §2, Oct. 27, 1986, 100 Stat. 3038, provided that: “Any new spending authority (within the meaning of section 401 of the Congressional Budget and Impoundment Control Act of 1974 \[2 U.S.C. 651\]) which is provided under this Act \[enacting sections 47–3 to 47–6 of this title and amending section 47–2 of this title\] shall be effective for any fiscal year only to the extent or in such amounts as provided in appropriation Acts or to the extent that proceeds are available from any leases issued by the Secretary pursuant to the first section of this Act \[probably means section 1 of Pub. L. 90–409, 16 U.S.C. 47–2\].”
 

@@ -10,7 +10,7 @@
 
 &emsp;(C) develop cost estimates for the closure and postclosure maintenance of such dumps.
 
-(2) The inventory and evaluation authorized under paragraph (1)(A) shall be carried out cooperatively with the Administrator of the Environmental Protection Agency. The Director shall obtain the concurrence of the Administrator in the determination of relative severity made under paragraph (1)(B).
+(2) The inventory and evaluation authorized under paragraph (1)(A) shall be carried out cooperatively with the Administrator of the Environmental Protection Agency. The Directorshall obtain the concurrence of the Administrator in the determination of relative severity made under paragraph (1)(B).
 
 #### (b) Assistance
 

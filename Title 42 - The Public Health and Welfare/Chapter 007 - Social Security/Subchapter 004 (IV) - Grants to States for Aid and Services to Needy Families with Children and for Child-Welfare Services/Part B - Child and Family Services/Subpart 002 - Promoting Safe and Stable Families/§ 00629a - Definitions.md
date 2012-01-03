@@ -26,7 +26,25 @@ As used in this subpart:
 
 #### (2) Family support services
 
-&emsp;The term “family support services” means community-based services to promote the safety and well-being of children and families designed to increase the strength and stability of families (including adoptive, foster, and extended families), to increase parents’ confidence and competence in their parenting abilities, to afford children a safe, stable, and supportive family environment, to strengthen parental relationships and promote healthy marriages, and otherwise to enhance child development.
+#### (A) In general
+
+&emsp;&emsp;The term “family support services” means community-based services designed to carry out the purposes described in subparagraph (B).
+
+#### (B) Purposes described
+
+&emsp;&emsp;The purposes described in this subparagraph are the following:
+
+&emsp;&emsp;&emsp;(i) To promote the safety and well-being of children and families.
+
+&emsp;&emsp;&emsp;(ii) To increase the strength and stability of families (including adoptive, foster, and extended families).
+
+&emsp;&emsp;&emsp;(iii) To increase parents’ confidence and competence in their parenting abilities.
+
+&emsp;&emsp;&emsp;(iv) To afford children a safe, stable, and supportive family environment.
+
+&emsp;&emsp;&emsp;(v) To strengthen parental relationships and promote healthy marriages.
+
+&emsp;&emsp;&emsp;(vi) To enhance child development, including through mentoring (as defined in section 629i(b)(2) of this title).
 
 #### (3) State agency
 
@@ -36,13 +54,13 @@ As used in this subpart:
 
 &emsp;The term “State” includes an Indian tribe or tribal organization, in addition to the meaning given such term for purposes of subpart 1.
 
-#### (5) Tribal organization
+#### (5) Indian tribe
 
-&emsp;The term “tribal organization” means the recognized governing body of any Indian tribe.
+&emsp;The term “Indian tribe” has the meaning given the term in section 628(c) of this title.
 
-#### (6) Indian tribe
+#### (6) Tribal organization
 
-&emsp;The term “Indian tribe” means any Indian tribe (as defined in section 682(i)(5) of this title, as in effect before August 22, 1996) and any Alaska Native organization (as defined in section 682(i)(7)(A) of this title, as so in effect).
+&emsp;The term “tribal organization” has the meaning given the term in section 628(c) of this title.
 
 #### (7) Time-limited family reunification services
 
@@ -64,7 +82,11 @@ As used in this subpart:
 
 &emsp;&emsp;&emsp;(v) Services designed to provide temporary child care and therapeutic services for families, including crisis nurseries.
 
-&emsp;&emsp;&emsp;(vi) Transportation to or from any of the services and activities described in this subparagraph.
+&emsp;&emsp;&emsp;(vi) Peer-to-peer mentoring and support groups for parents and primary caregivers.
+
+&emsp;&emsp;&emsp;(vii) Services and activities designed to facilitate access to and visitation of children by parents and siblings.
+
+&emsp;&emsp;&emsp;(viii) Transportation to or from any of the services and activities described in this subparagraph.
 
 #### (8) Adoption promotion and support services
 
@@ -78,17 +100,27 @@ As used in this subpart:
 
 For other definitions of other terms used in this subpart, see section 675 of this title.
 
-(Aug. 14, 1935, ch. 531, title IV, §431, as added Pub. L. 103–66, title XIII, §13711(a)(2), Aug. 10, 1993, 107 Stat. 650; amended Pub. L. 105–89, title III, §305(b)(2), (c)(2), (d)(1), Nov. 19, 1997, 111 Stat. 2131, 2132; Pub. L. 106–169, title IV, §401(e), Dec. 14, 1999, 113 Stat. 1858; Pub. L. 107–133, title I, §102, Jan. 17, 2002, 115 Stat. 2415; Pub. L. 109–288, §11(c), Sept. 28, 2006, 120 Stat. 1255.)
-
-#### References in Text
-
-Section 682 of this title, referred to in subsec. (a)(6), was repealed by Pub. L. 104–193, title I, §108(e), Aug. 22, 1996, 110 Stat. 2167.
+(Aug. 14, 1935, ch. 531, title IV, §431, as added Pub. L. 103–66, title XIII, §13711(a)(2), Aug. 10,1993, 107 Stat. 650; amended Pub. L. 105–89, title III, §305(b)(2), (c)(2), (d)(1), Nov. 19, 1997, 111 Stat. 2131, 2132; Pub. L. 106–169, title IV, §401(e), Dec. 14, 1999, 113 Stat. 1858; Pub. L. 107–133, title I, §102, Jan. 17, 2002, 115 Stat. 2415; Pub. L. 109–288, §11(c), Sept. 28, 2006, 120 Stat. 1255; Pub. L. 112–34, title I, §102(c), (d), Sept. 30, 2011, 125 Stat. 371, 372.)
 
 #### Prior Provisions
 
 A prior section 431 of act Aug. 14, 1935, was classified to section 631 of this title prior to repeal by Pub. L. 100–485.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (a)(2). Pub. L. 112–34, §102(c)(1), amended par. (2) generally. Prior to amendment, text read as follows: “The term ‘family support services’ means community-based services to promote the safety and well-being of children and families designed to increase the strength and stability of families (including adoptive, foster, and extended families), to increase parents’ confidence and competence in their parenting abilities, to afford children a safe, stable, and supportive family environment, to strengthen parental relationships and promote healthy marriages, and otherwise to enhance child development.”
+
+Subsec. (a)(5), (6). Pub. L. 112–34, §102(d), added pars. (5) and (6) and struck out former pars. (5) and (6) which read as follows:
+
+“(5)
+
+Tribal organization.—The term ‘tribal organization’ means the recognized governing body of any Indian tribe.
+
+“(6)
+
+Indian tribe.—The term ‘Indian tribe’ means any Indian tribe (as defined in section 682(i)(5) of this title, as in effect before August 22, 1996) and any Alaska Native organization (as defined in section 682(i)(7)(A) of this title, as so in effect).”
+
+Subsec. (a)(7)(B)(vi) to (viii). Pub. L. 112–34, §102(c)(2), added cls. (vi) and (vii) and redesignated former cl. (vi) as (viii).
 
 <b>2006</b>—Subsec. (a)(6). Pub. L. 109–288 substituted “1996” for “1986”.
 
@@ -107,6 +139,10 @@ Subsec. (a)(2). Pub. L. 105–89, §305(c)(2)(B), inserted “safety and” befo
 Subsec. (a)(7), (8). Pub. L. 105–89, §305(b)(2), added pars. (7) and (8).
 
 Subsec. (a)(9). Pub. L. 105–89, §305(d)(1), added par. (9).
+
+#### Effective Date of 2011 Amendment
+
+Amendment by Pub. L. 112–34 effective Oct. 1, 2011, and applicable to payments under this part and part E of this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 107 of Pub. L. 112–34, set out as a note under section 622 of this title.
 
 #### Effective Date of 2006 Amendment
 

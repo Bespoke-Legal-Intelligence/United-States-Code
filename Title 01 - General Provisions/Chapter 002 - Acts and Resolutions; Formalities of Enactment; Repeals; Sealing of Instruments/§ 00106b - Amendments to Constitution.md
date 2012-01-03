@@ -6,7 +6,7 @@ Whenever official notice is received at the National Archives and Records Admini
 
 #### Amendments
 
-1984—Pub. L. 98–497 substituted “National Archives and Records Administration” and “Archivist of the United States” for “General Services Administration” and “Administrator of General Services”, respectively.
+<b>1984</b>—Pub. L. 98–497 substituted “National Archives and Records Administration” and “Archivist of the United States” for “General Services Administration” and “Administrator of General Services”, respectively.
 
 #### Effective Date of 1984 Amendment
 
@@ -14,5 +14,5 @@ Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L.
 
 #### Similar Provisions; Repeal; Saving Clause; Delegation of Functions; Transfer of Property and Personnel
 
-Similar provisions were contained in R.S. §205; 1950 Reorg. Plan No. 20, §1, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1272. R.S. §205 was repealed by section 56(h) of act Oct. 31, 1951. Subsec. (<i>l</i>) of section 56 provided that the repeal should not affect any rights or liabilities existing under the repealed statute on the effective date of the repeal (Oct. 31, 1951). For delegation of functions under the repealed statute, and transfer of records, property, personnel, and funds, see sections 3 and 4 of 1950 Reorg. Plan No. 20, set out in the Appendix to Title 5, Government Organization and Employees.
+Similar provisions were contained in R.S. §205; 1950 Reorg. Plan No. 20, §1, eff. May 24, 1950, 15 F.R. 3178, 64Stat. 1272. R.S. §205 was repealed by section 56(h) of act Oct. 31, 1951. Subsec. (<i>l</i>) of section 56 provided that the repeal should not affect any rights or liabilities existing under the repealed statute on the effective date of the repeal (Oct. 31, 1951). For delegation of functions under the repealed statute, and transfer of records, property, personnel, and funds, see sections 3 and 4 of 1950 Reorg. Plan No. 20, set out in the Appendix to Title 5, Government Organization and Employees.
 

@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-In the case of returns under section 6012, 6013, 6017, or 6031 (relating to income tax under subtitle A), returns made on the basis of the calendar year shall be filed on or before the 15th day of April following the close of the calendar year and returns made on the basis of a fiscal year shall be filed on or before the 15th day of the fourth month following the close of the fiscal year, except as otherwise provided in the following subsections of this section.
+In the case of returns under section 6012, 6013, 6017, or 6031 (relating to income tax under subtitle A), returns made on the basis of the calendar year shall be filed on or before the 15thday of April following the close of the calendar year and returns made on the basis of a fiscal year shall be filed on or before the 15th day of the fourth month following the close of the fiscal year, except as otherwise provided in the following subsections of this section.
 
 #### (b) Returns of corporations
 
@@ -70,5 +70,5 @@ Amendment by Pub. L. 87–834 applicable to taxable years of organizations descr
 
 #### Filing of Income Tax Returns for 1958 by Life Insurance Companies
 
-Pub. L. 86–69, §3(i), June 25, 1959, 73 Stat. 140, required every life insurance company subject to the tax imposed by section 802(a) of this title to make a return after June 25, 1959, and on or before Sept. 15, 1959, whichreturn was to constitute the return for such taxable year for all purposes of this title, and no return filed pursuant to section 801 et seq. of this title, relating to life insurance companies, on or before June 25, 1959, was to be considered for any such purposes as a return for such taxable year.
+Pub. L. 86–69, §3(i), June 25, 1959, 73 Stat. 140, required every life insurance company subject to the tax imposed by section 802(a) of this title to make a return after June 25, 1959, and on or before Sept. 15, 1959, which return was to constitute the return for such taxable year for all purposes of this title, and no return filed pursuant to section 801 et seq. of this title, relating to life insurance companies, on or before June 25, 1959, was to be considered for any such purposes as a return for such taxable year.
 

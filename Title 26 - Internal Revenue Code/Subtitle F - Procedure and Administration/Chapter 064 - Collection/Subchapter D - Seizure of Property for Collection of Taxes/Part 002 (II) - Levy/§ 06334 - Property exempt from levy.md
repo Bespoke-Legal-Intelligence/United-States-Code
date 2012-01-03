@@ -158,7 +158,7 @@ Any payment described in subparagraph (B) or (C) of section 6331(h)(2) shall not
 
 #### References in Text
 
-The Railroad Retirement Act, referred to in subsec. (a)(6), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, known as the Railroad Retirement Act of 1974, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
+The Railroad Retirement Act, referred to in subsec. (a)(6), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, known as the Railroad Retirement Act of 1974, which isclassified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
 
 The Railroad Unemployment Insurance Act, referred to in subsec. (a)(6), is act June 25, 1938, ch. 680, 52 Stat. 1094, as amended, which is classified principally to chapter 11 (§351 et seq.) of Title 45. For complete classification of this Act to the Code, see section 367 of Title 45 and Tables.
 
@@ -264,7 +264,7 @@ Reference to United States magistrate or to magistrate deemed to refer to United
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–206, title III, §3431(d), July 22, 1998, 112 Stat. 758, provided that: “The amendments made by this section \[amending this section\] shall take effect with respect to levies issued after the date of the enactment of this Act \[July 22, 1998\].”
+Pub. L. 105–206, title III, §3431(d), July 22, 1998, 112 Stat. 758, provided that: “The amendments made bythis section \[amending this section\] shall take effect with respect to levies issued after the date of the enactment of this Act \[July 22, 1998\].”
 
 Pub. L. 105–206, title III, §3445(d), July 22, 1998, 112 Stat. 763, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[July 22, 1998\].”
 

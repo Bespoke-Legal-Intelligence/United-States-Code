@@ -48,9 +48,9 @@ Amounts in the Leaking Underground Storage Tank Trust Fund shall be available, a
 
 #### (2) Exception for prior obligations
 
-&emsp;Paragraph (1) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before October 1, 2011, in accordance with the provisions of this section.
+&emsp;Paragraph (1) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before April 1, 2012, in accordance with the provisions of this section.
 
-(Added Pub. L. 99–499, title V, §522(a), Oct. 17, 1986, 100 Stat. 1780; amended Pub. L. 100–203, title X, §10502(d)(16), (17), Dec. 22, 1987, 101 Stat. 1330–445; Pub. L. 101–239, title VII, §7822(b)(7), Dec. 19, 1989, 103 Stat. 2425; Pub. L. 103–66, title XIII, §§13163(c), 13242(d)(42), Aug. 10, 1993, 107 Stat. 454, 528; Pub. L. 105–34, title X, §1032(e)(13), Aug. 5, 1997, 111 Stat. 935; Pub. L. 108–357, title VIII, §853(d)(2)(P), (Q), Oct. 22, 2004, 118 Stat. 1614; Pub. L. 109–58, title XIII, §1362(c), Aug. 8, 2005, 119 Stat. 1059; Pub. L. 109–59, title XI, §11147(a), Aug. 10, 2005, 119 Stat. 1967; Pub. L. 109–432, div. A, title II, §210(a), Dec. 20, 2006, 120 Stat. 2947; Pub. L. 109–433, §1(a), Dec. 20, 2006, 120 Stat. 3196.)
+(Added Pub. L. 99–499, title V, §522(a), Oct. 17, 1986, 100 Stat. 1780; amended Pub. L. 100–203, title X, §10502(d)(16), (17), Dec. 22, 1987, 101 Stat. 1330–445; Pub. L. 101–239, title VII, §7822(b)(7), Dec. 19, 1989, 103 Stat. 2425; Pub. L. 103–66, title XIII, §§13163(c), 13242(d)(42), Aug. 10, 1993, 107 Stat. 454, 528; Pub. L. 105–34, title X, §1032(e)(13), Aug. 5, 1997, 111 Stat. 935; Pub. L. 108–357, title VIII, §853(d)(2)(P), (Q), Oct. 22, 2004, 118 Stat. 1614; Pub. L. 109–58, title XIII, §1362(c), Aug. 8, 2005, 119 Stat. 1059; Pub. L. 109–59, title XI, §11147(a), Aug. 10, 2005, 119 Stat. 1967; Pub. L. 109–432, div. A, title II, §210(a), Dec. 20, 2006, 120 Stat. 2947; Pub. L. 109–433, §1(a), Dec. 20, 2006, 120 Stat. 3196; Pub. L. 112–30, title I, §141(c), Sept. 16, 2011, 125 Stat. 355.)
 
 #### References in Text
 
@@ -63,6 +63,8 @@ The Comprehensive Environmental Response, Compensation, and Liability Act of 198
 The Superfund Amendments and Reauthorization Act of 1986, referred to in subsec. (d)(2), is Pub. L. 99–499, Oct. 17, 1986, 100 Stat. 1613. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under section 9601 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (e)(2). Pub. L. 112–30 substituted “April 1, 2012” for “October 1, 2011”.
 
 <b>2006</b>—Subsec. (c). Pub. L. 109–433, which directed an amendment of subsec. (c) identical to that by Pub. L. 109–432, to be treated as not having been enacted. See Amendment note and Construction of Amendment by Pub. L. 109–433 note below.
 
@@ -91,6 +93,10 @@ Subsec. (b)(3). Pub. L. 103–66, §13242(d)(42)(B), struck out “diesel fuel a
 <b>1987</b>—Subsec. (b)(3) to (5). Pub. L. 100–203, §10502(d)(16), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
 
 Subsec. (c)(2)(A). Pub. L. 100–203, §10502(d)(17), added cl. (ii) and closing provisions, and struck out former cl. (ii) which read as follows: “credits allowed under section 34, with respect to the taxes imposed by sections 4041(d) and 4081 (to the extent attributable to the Leaking Underground Storage Tank Trust Fund financing rate under section 4081).”
+
+#### Effective Date of 2011 Amendment
+
+Amendment by Pub. L. 112–30 effective Oct. 1, 2011, see section 141(d) of Pub. L. 112–30, set out as a note under section 9503 of this title.
 
 #### Effective Date of 2006 Amendment
 

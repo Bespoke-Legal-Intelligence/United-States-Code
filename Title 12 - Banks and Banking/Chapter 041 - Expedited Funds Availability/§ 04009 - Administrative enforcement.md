@@ -42,7 +42,7 @@ Compliance with the requirements imposed under this chapter, including regulatio
 
 &emsp;&emsp;(B) any other person subject to the authority of the Board under this chapter, including any person subject to the authority of the Board under section 4004(d)(2) or 4008(c) of this title,
 
-> &emsp;has failed to comply with any requirement imposed by this chapter or by the Board under this chapter, the Board may issue an order prohibiting any depository institution, any Federal Reserve bank, or any other person subject to the authority of the Board from engaging in any activity or transaction which directly or indirectly involves such noncomplying depository institution or person (including any activity or transaction involving the receipt, payment, collection, and clearing of checks and any related function of the payment system with respect to checks).
+> &emsp;has failed to comply with any requirement imposed by this chapter or by the Board underthis chapter, the Board may issue an order prohibiting any depository institution, any Federal Reserve bank, or any other person subject to the authority of the Board from engaging in any activity or transaction which directly or indirectly involves such noncomplying depository institution or person (including any activity or transaction involving the receipt, payment, collection, and clearing of checks and any related function of the payment system with respect to checks).
 
 #### (d) Procedural rules
 
@@ -56,7 +56,7 @@ The Federal Credit Union Act, referred to in subsec. (a)(3), is act June 26, 193
 
 #### Amendments
 
-1991—Subsec. (a). Pub. L. 102–242, §212(h)(2), inserted at end “The terms used in paragraph (1) that are not defined in this chapter or otherwise defined in section 3(s) of the Federal Deposit Insurance Act (12 U.S.C. 1813(s)) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101).”
+<b>1991</b>—Subsec. (a). Pub. L. 102–242, §212(h)(2), inserted at end “The terms used in paragraph (1) that are not defined in this chapter or otherwise defined in section 3(s) of the Federal Deposit Insurance Act (12 U.S.C. 1813(s)) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101).”
 
 Subsec. (a)(1). Pub. L. 102–242, §212(h)(1), added par. (1) and struck out former par. (1) which read as follows: “section 8 of the Federal Deposit Insurance Act in the case of—
 
@@ -66,7 +66,7 @@ Subsec. (a)(1). Pub. L. 102–242, §212(h)(1), added par. (1) and struck out fo
 
 &emsp;“(C) banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System), by the Board of Directors of the Federal Deposit Insurance Corporation;”.
 
-1989—Subsec. (a)(2). Pub. L. 101–73 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “section 5(d) of the Home Owners’ Loan Act of 1933, section 407 of the National Housing Act, and section 17 of the Federal Home Loan Bank Act, by the Federal Home Loan Bank Board (acting directly or through the Federal Savings and Loan Insurance Corporation), in the case of any institution subject to any of those provisions; and”.
+<b>1989</b>—Subsec. (a)(2). Pub. L. 101–73 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “section 5(d) of the Home Owners’ Loan Act of 1933, section 407 of the National Housing Act, and section 17 of the Federal Home Loan Bank Act, by the Federal Home Loan Bank Board (acting directly or through the Federal Savings and Loan Insurance Corporation), in the case of any institution subject to any of those provisions; and”.
 
 #### Effective Date
 

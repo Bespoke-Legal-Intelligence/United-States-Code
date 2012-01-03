@@ -28,7 +28,7 @@
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), the Secretary may not make a grant under section 300ff–51 of thistitle for the provision of services described in subsection (b) of such section in a State unless, in the case of any such service that is available pursuant to the State plan approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] for the State—
+&emsp;Subject to paragraph (2), the Secretary may not make a grant under section 300ff–51 of this title for the provision of services described in subsection (b) of such section in a State unless, in the case of any such service that is available pursuant to the State plan approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] for the State—
 
 &emsp;&emsp;(A) the applicant for the grant will provide the service directly, and the applicant has entered into a participation agreement under the State plan and is qualified to receive payments under such plan; or
 
@@ -52,7 +52,7 @@ The Social Security Act, referred to in subsec. (b)(1), is act Aug. 14, 1935, ch
 
 <b>2006</b>—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
 
-Subsec. (a). Pub. L. 109–415, §302(a), amended heading and text of subsec. (a) generally, substituting provisions listing eligible entities and directing that such entities serve underserved populations for provisions listing eligible entities.
+Subsec. (a). Pub. L. 109–415, §302(a), amended heading and text of subsec. (a) generally, substituting provisions listing eligible entities and directing that suchentities serve underserved populations for provisions listing eligible entities.
 
 <b>2003</b>—Subsec. (a)(2). Pub. L. 108–163 substituted “254b(h)” for “256”.
 

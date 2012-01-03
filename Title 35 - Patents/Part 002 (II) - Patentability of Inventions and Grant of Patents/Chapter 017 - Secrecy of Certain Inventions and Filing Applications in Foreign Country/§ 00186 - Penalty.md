@@ -2,7 +2,11 @@
 
 Whoever, during the period or periods of time an invention has been ordered to be kept secret and the grant of a patent thereon withheld pursuant to section 181 of this title, shall, with knowledge of such order and without due authorization, willfully publish or disclose or authorize or cause to be published or disclosed the invention, or material information with respect thereto, or whoever willfully, in violation of the provisions of section 184 of this title, shall file or cause or authorize to be filed in any foreign country an application for patent or for the registration of a utility model, industrial design, or model in respect of any invention made in the United States, shall, upon conviction, be fined not more than $10,000 or imprisoned for not more than two years, or both.
 
-(July 19, 1952, ch. 950, 66 Stat. 807; Pub. L. 100–418, title IX, §9101(b)(3), Aug. 23, 1988, 102 Stat. 1568.)
+(July 19, 1952, ch. 950, 66 Stat. 807; Pub. L. 100–418, title IX, §9101(b)(3), Aug. 23, 1988, 102 Stat. 1568; Pub. L. 112–29, §20(j), Sept. 16, 2011, 125 Stat. 335.)
+
+#### Amendment of Section
+
+<i>Pub. L. 112–29, §20(j), (l), Sept. 16, 2011, 125 Stat. 335, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, this sec</i><i>tion is amended by striking “of this title” each place that term appears. See 2011 Amendment note below.</i>
 
 #### Historical and Revision Notes
 
@@ -12,7 +16,13 @@ Language is changed.
 
 #### Amendments
 
+<b>2011</b>—Pub. L. 112–29 struck out “of this title” after “181” and after “184”.
+
 <b>1988</b>—Pub. L. 100–418, which directed the insertion of “willfully” after second reference to “whoever”, was executed by making the insertion after “or whoever”, as the probable intent of Congress.
+
+#### Effective Date of 2011 Amendment
+
+Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(<i>l</i>) of Pub. L. 112–29, set out as a note under section 2 of this title.
 
 #### Effective Date of 1988 Amendment
 

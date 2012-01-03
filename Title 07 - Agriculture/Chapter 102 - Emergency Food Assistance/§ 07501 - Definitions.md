@@ -4,7 +4,7 @@ In this chapter:
 
 #### (1) Additional commodities
 
-&emsp;The term “additional commodities” means commodities made available under section 7515of this title in addition to the commodities made available under sections 7502 and 7507 of this title.
+&emsp;The term “additional commodities” means commodities made available under section 7515 of this title in addition to the commodities made available under sections 7502 and 7507 of this title.
 
 #### (2) Average monthly number of unemployed persons
 
@@ -68,9 +68,9 @@ The Older Americans Act of 1965, referred to in par. (3)(A)(iv), is Pub. L. 89�
 
 #### Amendments
 
-1996—Pub. L. 104–193 amended section generally, substituting provisions containing an opening provision and pars. (1) to (10) defining “additional commodities”, “average monthly number of unemployed persons”, “eligible recipient agency”, “emergency feeding organization”, “food bank”, “food pantry”, “poverty line”, “soup kitchen”, “total value of additional commodities”, and “value of additional commodities allocated to each state” for an opening provision and pars. (1) to (6) defining “eligible recipient agencies”.
+<b>1996</b>—Pub. L. 104–193 amended section generally, substituting provisions containing an opening provision and pars. (1) to (10) defining “additional commodities”, “average monthly number of unemployed persons”, “eligible recipient agency”, “emergency feeding organization”, “food bank”, “food pantry”, “poverty line”, “soup kitchen”, “total value of additional commodities”, and “value of additional commodities allocated to each state” for an opening provision and pars. (1) to (6) defining “eligible recipient agencies”.
 
-1985—Par. (1). Pub. L. 99–198 inserted before semicolon at end “(including the activities and projects of charitable institutions, food banks, hunger centers, soup kitchens, and similar public or private nonprofit eligible recipient agencies) hereinafter in this chapter referred to as ‘emergency feeding organizations’ ”.
+<b>1985</b>—Par. (1). Pub. L. 99–198 inserted before semicolon at end “(including the activities and projects of charitable institutions, food banks, hunger centers, soup kitchens, and similar public or private nonprofit eligible recipient agencies) hereinafter in this chapter referred to as ‘emergency feeding organizations’ ”.
 
 #### Effective Date
 
@@ -78,5 +78,5 @@ Section 2 of Pub. L. 98–92 provided in part that the amendments made by that s
 
 #### Short Title
 
-Section 201 of title II of Pub. L. 98–8, as amended by Pub. L. 98–92, §2(1), Sept. 2, 1983, 97 Stat. 608; Pub. L.101–624, title XVII, §1772(a)(2), Nov. 28, 1990, 104 Stat. 3808, provided that: “This title \[enacting this chapter and amending provisions set out as a note under section 612c of this title\] may be cited as the ‘Emergency Food Assistance Act of 1983’, and is hereinafter in this title referred to as ‘this Act’.”
+Section 201 of title II of Pub. L. 98–8, as amended by Pub. L. 98–92, §2(1), Sept. 2, 1983, 97 Stat. 608; Pub. L. 101–624, title XVII, §1772(a)(2), Nov. 28, 1990, 104 Stat. 3808, provided that: “This title \[enacting this chapter and amending provisions set out as a note under section 612c of this title\] may be cited as the ‘Emergency Food Assistance Act of 1983’, and is hereinafter in this title referred to as ‘this Act’.”
 

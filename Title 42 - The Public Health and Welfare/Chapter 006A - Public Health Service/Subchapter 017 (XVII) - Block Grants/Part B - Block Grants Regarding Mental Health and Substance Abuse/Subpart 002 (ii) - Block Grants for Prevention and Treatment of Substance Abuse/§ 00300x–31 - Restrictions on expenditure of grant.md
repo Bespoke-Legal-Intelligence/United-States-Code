@@ -34,7 +34,7 @@
 
 #### (2) Rate of payment
 
-&emsp;In the case of an individual for whom a grant under section 300x–21 of this title is expended to provide inpatient hospital services described in paragraph (1), a funding agreement for the grant for the State involved is that the daily rate of payment provided to the hospital for providing the services to the individual will not exceed the comparable daily rate provided for community-based, nonhospital, residential programs of treatment for substance abuse.
+&emsp;In the case of an individual for whom a grant under section 300x–21 of this title is expendedto provide inpatient hospital services described in paragraph (1), a funding agreement for the grant for the State involved is that the daily rate of payment provided to the hospital for providing the services to the individual will not exceed the comparable daily rate provided for community-based, nonhospital, residential programs of treatment for substance abuse.
 
 #### (c) Waiver regarding construction of facilities
 

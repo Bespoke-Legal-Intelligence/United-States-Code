@@ -40,25 +40,25 @@ Section was enlarged to include computation of retired pay in all situations. It
 
 #### Amendments
 
-1986—Pub. L. 99–348 amended section generally. Prior to amendment, section provided that retired pay of a grade or rating would be computed at the rate of 21/2 percent of the sum of the basic pay of that grade or rating and all permanent additions thereto including longevity credit, multiplied by the number of years of service credited, with certain exceptions, and that retired pay of an officer or member of the Coast Guard who first became a member of a uniformed service, as defined in section 1407(a)(2) of title 10, after Sept. 7, 1980, would be computed at the rate of 21/2 percent of the monthly retired pay base computed under section 1407(f) of title 10, multiplied by the number of years of service credited, but that retired pay was not to be more than 75 percent of such monthly retired pay base.
+<b>1986</b>—Pub. L. 99–348 amended section generally. Prior to amendment, section provided that retired pay of a grade or rating would be computed at the rate of 2½ percent of the sum of the basic pay of that grade or rating and all permanent additions thereto including longevity credit, multiplied by the number of years of service credited, with certain exceptions, and that retired pay of an officer or member of the Coast Guard who first became a member of a uniformed service, as defined in section 1407(a)(2) of title 10, after Sept. 7, 1980, would be computed at the rate of 2½ percent of the monthly retired pay base computed under section 1407(f) of title 10, multiplied by the number of years of service credited, but that retired pay was not to be more than 75 percent of such monthly retired pay base.
 
-1984—Subsec. (a). Pub. L. 98–557 substituted reference to enlisted member concerned for reference to enlisted man concerned.
+<b>1984</b>—Subsec. (a). Pub. L. 98–557 substituted reference to enlisted member concerned for reference to enlisted man concerned.
 
-1983—Subsec. (a). Pub. L. 98–94, §923(d), substituted “In computing the number of years of service by which the rate of 21/2 percent is multiplied, each full month of service that is in addition to the number of full years of service creditable to a member is counted as one-twelfth of a year and any remaining fractional part of a month is disregarded” for “A fractional year of six months or more shall be considered a full year in computing the number of years of service by which the rate of 21/2 percent is multiplied”.
+<b>1983</b>—Subsec. (a). Pub. L. 98–94, §923(d), substituted “In computing the number of years of service by which the rate of 2½ percent is multiplied, each full month of service that is in addition to the number of full years of service creditable to a member is counted as one-twelfth of a year and any remaining fractional part of a month is disregarded” for “A fractional year of six months or more shall be considered a full year in computing the number of years of service by which the rate of 2½ percent is multiplied”.
 
 Pub. L. 98–94, §922(b), inserted “Retired pay, if not a multiple of $1, shall be rounded to the next lower multiple of $1.”
 
-1982—Subsec. (b). Pub. L. 97–295 substituted “after September 7, 1980” for “on or after the date of the enactment of the Department of Defense Authorization Act, 1981”.
+<b>1982</b>—Subsec. (b). Pub. L. 97–295 substituted “after September 7, 1980” for “on or after the date of the enactment of the Department of Defense Authorization Act, 1981”.
 
-1980—Pub. L. 96–342 designated existing provisions as subsec. (a), substituted “Except as provided in subsection (b), the” for “The”, and added subsec. (b).
+<b>1980</b>—Pub. L. 96–342 designated existing provisions as subsec. (a), substituted “Except as provided in subsection (b), the” for “The”, and added subsec. (b).
 
-1972—Pub. L. 92–455 provided for computation of retired pay of an enlisted member serving as the master chief petty officer of the Coast Guard at the highest basic pay applicable to him while he so served, if that basic pay is greater than the basic pay of the grade or rating to which he was otherwise entitled at the time of retirement.
+<b>1972</b>—Pub. L. 92–455 provided for computation of retired pay of an enlisted member serving as the master chief petty officer of the Coast Guard at the highest basic pay applicable to him while he so served, if that basic pay is greater than the basic pay of the grade or rating to which he was otherwise entitled at the time of retirement.
 
-1963—Pub. L. 88–132 substituted “basic” for “active-duty” wherever appearing.
+<b>1963</b>—Pub. L. 88–132 substituted “basic” for “active-duty” wherever appearing.
 
-1958—Pub. L. 85–422 substituted “that may be credited to him under section 1405 of title 10” for “for which he was entitled to credit in the computation of his pay when last on active duty”.
+<b>1958</b>—Pub. L. 85–422 substituted “that may be credited to him under section 1405 of title 10” for “for which he was entitled to credit in the computation of his pay when last on active duty”.
 
-1950—Act Aug. 3, 1950, struck out reference to computation of pay of retired personnel retired by reason of physical disability.
+<b>1950</b>—Act Aug. 3, 1950, struck out reference to computation of pay of retired personnel retired by reason of physical disability.
 
 #### Effective Date of 1983 Amendment
 

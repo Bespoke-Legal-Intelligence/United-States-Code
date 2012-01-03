@@ -26,7 +26,7 @@
 
 <b>1981</b>—Subsec. (a). Pub. L. 97–22 inserted “(22 U.S.C. 4021(b))” after “section 701(b) of the Foreign Service Act of 1980” in provisions preceding par. (1) and, in par. (2), inserted “(22 U.S.C. 4021(a))” after “section 701(a) of the Foreign Service Act of 1980”.
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–465, in provisions preceding par. (1) substituted “section 701(b) of the Foreign Service Act of 1980” for “section 1041 of title 22” and in par. (2) substituted “section 701(a) of the Foreign Service Act of 1980” for “section 1041 of title 22”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–465, in provisions preceding par. (1) substituted “section 701(b) of the ForeignService Act of 1980” for “section 1041 of title 22” and in par. (2) substituted “section 701(a) of the Foreign Service Act of 1980” for “section 1041 of title 22”.
 
 <b>1970</b>—Pub. L. 91–278, §2(1), substituted “armed forces” for “Army, Navy, Air Force, or Marine Corps” in section catchline.
 

@@ -98,7 +98,7 @@ A member of the Delegate Body shall serve without compensation, but may be reimb
 
 &emsp;&emsp;(i) not less than 23 persons for appointment to the Board, for the first year for which nominations are made; and
 
-&emsp;&emsp;(ii) not less than 11/2 persons (rounded up to the nearest person) for each vacancy in the Board that requires nominations thereafter; and
+&emsp;&emsp;(ii) not less than 1½ persons (rounded up to the nearest person) for each vacancy in the Board that requires nominations thereafter; and
 
 &emsp;(B) submit such nominations to the Secretary.
 

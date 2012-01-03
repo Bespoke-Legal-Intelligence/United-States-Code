@@ -28,7 +28,7 @@ In carrying out the duties described in subsection (b), the renewable energy com
 
 #### (f) Matters to be considered in budget recommendation
 
-In preparing the annual budget recommendations for the Department, the Secretary shall take into consideration those findings and recommendations contained in the most recent report of the renewable energy committee undersubsection (d) that are developed by the Advisory Committee.
+In preparing the annual budget recommendations for the Department, the Secretary shall take into consideration those findings and recommendations contained in the most recent report of the renewable energy committee under subsection (d) that are developed by the Advisory Committee.
 
 #### (g) Report by the Secretary
 

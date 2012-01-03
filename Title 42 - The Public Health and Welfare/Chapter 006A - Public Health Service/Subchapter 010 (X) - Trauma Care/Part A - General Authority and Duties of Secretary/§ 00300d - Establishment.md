@@ -10,7 +10,7 @@ The Secretary shall, with respect to trauma care—
 
 &emsp;(3) collect, compile, and disseminate information on the achievements of, and problems experienced by, State and local agencies and private entities in providing trauma care and emergency medical services and, in so doing, give special consideration to the unique needs of rural areas;
 
-&emsp;(4) provide to State and local agencies technical assistance to enhance each State's capability to develop, implement, and sustain the trauma care component of each State's planfor the provision of emergency medical services;
+&emsp;(4) provide to State and local agencies technical assistance to enhance each State's capability to develop, implement, and sustain the trauma care component of each State's plan for the provision of emergency medical services;
 
 &emsp;(5) sponsor workshops and conferences; and
 

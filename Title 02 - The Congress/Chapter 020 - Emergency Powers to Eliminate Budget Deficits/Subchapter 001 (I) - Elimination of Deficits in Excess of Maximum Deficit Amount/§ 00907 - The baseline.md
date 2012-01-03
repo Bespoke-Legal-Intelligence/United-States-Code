@@ -10,7 +10,7 @@ For the budget year and each outyear, the baseline shall be calculated using the
 
 #### (1) In general
 
-&emsp;Laws providing or creating direct spending and receipts are assumed to operate in themanner specified in those laws for each such year and funding for entitlement authority is assumed to be adequate to make all payments required by those laws.
+&emsp;Laws providing or creating direct spending and receipts are assumed to operate in the manner specified in those laws for each such year and funding for entitlement authority is assumed to be adequate to make all payments required by those laws.
 
 #### (2) Exceptions
 
@@ -42,7 +42,7 @@ For the budget year and each outyear, the baseline shall be calculated using the
 
 #### (3) Social insurance administrative expenses
 
-&emsp;Budgetary resources for the administrative expenses of the following trust funds shall be adjusted by the percentage change in the beneficiary population from the current year to that fiscal year: the Federal Hospital Insurance Trust Fund, the Supplementary Medical Insurance Trust Fund, the Unemployment Trust Fund, and the railroad retirement account.
+&emsp;Budgetary resources for the administrative expenses of the following trust funds shall beadjusted by the percentage change in the beneficiary population from the current year to that fiscal year: the Federal Hospital Insurance Trust Fund, the Supplementary Medical Insurance Trust Fund, the Unemployment Trust Fund, and the railroad retirement account.
 
 #### (4) Pay annualization; offset to pay absorption
 
@@ -66,10 +66,6 @@ Amounts realized from the sale of an asset shall not be included in estimates un
 
 (Pub. L. 99–177, title II, §257, formerly §§251(a)(6)(I), 257, Dec. 12, 1985, 99 Stat. 1092; Pub. L. 100–119, title I, §§102(a), (b)(4)–(8), 104(c)(2), 106(b), Sept. 29, 1987, 101 Stat. 754, 773, 774, 777, 780; renumbered §257 and amended Pub. L. 101–508, title XIII, §13101(b), (e)(1), (2), Nov. 5, 1990, 104 Stat. 1388–589, 1388–591, 1388–593; Pub. L. 105–33, title X, §10209(a), Aug. 5, 1997, 111 Stat. 710.)
 
-#### Termination of Section
-
-<i>Section expired Sept. 30, 2006. See section 275(b) of Pub. L. 99–177, as amended, set out as an Effective and Termination Dates note under section 900 of this title.</i>
-
 #### References in Text
 
 This Act, referred to in subsec. (b)(3), means Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1037, as amended, which enacted this chapter and sections 654 to 656 of this title, amended sections 602, 622, 631 to 642, and 651 to 653 of this title, sections 1104 to 1106, 1109, and 3101 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealed section 661 of this title, enacted provisions set out as notes under section 900 of this title and section 911 of Title 42, and amended provisions set out as a note under section 621 of this title. For complete classification of this Act to the Code, see Tables.
@@ -82,7 +78,7 @@ Pub. L. 101–508, §13101(e)(2), transferred section 251(a)(6)(I) of Pub. L. 99
 
 #### Amendments
 
-1997—Subsec. (b)(2)(A). Pub. L. 105–33, §10209(a)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “No program with estimated current-year outlays greater than $50 million shall be assumed to expire in the budget year or outyears.”
+<b>1997</b>—Subsec. (b)(2)(A). Pub. L. 105–33, §10209(a)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “No program with estimated current-year outlays greater than $50 million shall be assumed to expire in the budget year or outyears.”
 
 Subsec. (b)(2)(D). Pub. L. 105–33, §10209(a)(2), added subpar. (D).
 
@@ -90,11 +86,11 @@ Subsec. (c)(5). Pub. L. 105–33, §10209(a)(3), substituted “domestic product
 
 Subsec. (e). Pub. L. 105–33, §10209(a)(4), added subsec. (e) and struck out former subsec. (e) which read as follows: “The sale of an asset or prepayment of a loan shall not alter the deficit or produce any net deficit reduction in the budget baseline, except that the budget baseline estimate shall include asset sales mandated by law before September 18, 1987, and routine, ongoing asset sales and loan prepayments at levels consistent with agency operations in fiscal year 1986;”.
 
-1990—Pub. L. 101–508, §13101(e)(1), amended section generally, substituting provisions relating to baseline for provisions relating to definitions.
+<b>1990</b>—Pub. L. 101–508, §13101(e)(1), amended section generally, substituting provisions relating to baseline for provisions relating to definitions.
 
 Subsec. (e). Pub. L. 101–508, §13101(e)(2), redesignated section 901(a)(6)(I) of this title as subsec. (e) of this section, and substituted “The” for “assuming, for purposes of this paragraph and subparagraph (A)(i) of paragraph (3), that the”.
 
-1987—Pub. L. 100–119, §102(a), amended section 901 of this title generally, adding subsec. (a)(6)(I). See 1990 Amendment note above.
+<b>1987</b>—Pub. L. 100–119, §102(a), amended section 901 of this title generally, adding subsec. (a)(6)(I). See 1990 Amendment note above.
 
 Par. (1). Pub. L. 100–119, §104(c)(2), struck out provisions of former subpar. (A) that “automatic spending increase” meant increases in budget outlays due to changes in indexes in the following Federal programs:
 
@@ -154,7 +150,7 @@ Pub. L. 99–509, title VII, §7001, Oct. 21, 1986, 100 Stat. 1948, provided tha
 
 “(a)
 
-In General.—Benefits which are payable in calendar year 1987, 1988, 1989, 1990, or 1991, under programs listed in section 257(1)(A) of the Balanced Budget andEmergency Deficit Control Act of 1985 (Public Law 99–177), \[2 U.S.C. 907(1)(A)\], including any cost-of-living adjustment in such benefits, shall not be subject to modification, suspension, or reduction in such calendar year pursuant to a Presidential order issued under such Act \[see Short Title note set out under 2 U.S.C. 900\].
+In General.—Benefits which are payable in calendar year 1987, 1988, 1989, 1990, or 1991, under programs listed in section 257(1)(A) of the Balanced Budget and Emergency Deficit Control Act of 1985 (Public Law 99–177), \[2 U.S.C. 907(1)(A)\], including any cost-of-living adjustment in such benefits, shall not be subject to modification, suspension, or reduction in such calendar year pursuant to a Presidential order issued under such Act \[see Short Title note set out under 2 U.S.C. 900\].
 
 “(b)
 

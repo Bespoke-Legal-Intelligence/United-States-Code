@@ -6,7 +6,7 @@ As soon as practicable after the order for relief the Secretary of Transportatio
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 1163 of the House amendment represents a compromise between the House bill and Senate amendment with respect to the appointment of a trustee in a railroad reorganization. As soon as practicable after the order for relief, the Secretary of Transportation is required to submit a list of five disinterested persons who are qualified to serve as trustee and the court will than appoint one trustee from the list to serve as trustee in the case.
 
@@ -22,7 +22,7 @@ The House amendment deletes section 1163 of the Senate amendment in order to cov
 
 #### Amendments
 
-1986—Pub. L. 99–554 amended section generally, substituting “relief the Secretary” for “relief, the Secretary” and “The United States trustee shall appoint” for “The court shall appoint”.
+<b>1986</b>—Pub. L. 99–554 amended section generally, substituting “relief the Secretary” for “relief, the Secretary” and “The United States trustee shall appoint” for “The court shall appoint”.
 
 #### Effective Date of 1986 Amendment
 

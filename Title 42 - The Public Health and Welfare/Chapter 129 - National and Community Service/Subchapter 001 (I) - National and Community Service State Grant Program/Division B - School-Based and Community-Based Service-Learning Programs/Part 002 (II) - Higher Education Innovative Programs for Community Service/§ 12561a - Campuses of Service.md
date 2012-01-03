@@ -8,7 +8,7 @@ The Corporation, after consultation with the Secretary of Education, may annuall
 
 #### (1) In general
 
-&emsp;To be eligible for a nomination to receive designation under subsection (a), and have anopportunity to apply for funds under subsection (d) for a fiscal year, an institution of higher education in a State shall submit an application to the State Commission at such time, in such manner, and containing such information as the State Commission may require.
+&emsp;To be eligible for a nomination to receive designation under subsection (a), and have an opportunity to apply for funds under subsection (d) for a fiscal year, an institution of higher education in a State shall submit an application to the State Commission at such time, in such manner, and containing such information as the State Commission may require.
 
 #### (2) Contents
 
@@ -52,7 +52,7 @@ The Corporation, after consultation with the Secretary of Education, may annuall
 
 #### (1) In general
 
-&emsp;Using sums reserved under section 12681(a)(1)(C) of this title for Campuses of Service, the Corporation shall provide an award of funds to institutions designated under subsection (c), to be used by the institutions to develop or disseminate service-learning models and information on best practices regarding service-learning to other institutions of higher education.
+&emsp;Using sums reserved under section 12681(a)(1)(C) of this title for Campuses of Service, the Corporation shall provide anaward of funds to institutions designated under subsection (c), to be used by the institutions to develop or disseminate service-learning models and information on best practices regarding service-learning to other institutions of higher education.
 
 #### (2) Plan
 

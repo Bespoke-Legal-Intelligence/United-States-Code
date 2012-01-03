@@ -62,11 +62,11 @@ If a consumer reporting agency is notified pursuant to section 1681s–2(a)(3) o
 
 #### (1) In general
 
-&emsp;Except as otherwise provided in this subsection, no person that accepts credit cards or debit cards for the transaction of business shall print more than the last 5 digits of thecard number or the expiration date upon any receipt provided to the cardholder at the point of the sale or transaction.
+&emsp;Except as otherwise provided in this subsection, no person that accepts credit cards or debit cards for the transaction of business shall print more than the last 5 digits of the card number or the expiration date upon any receipt provided to the cardholder at the point of the sale or transaction.
 
 #### (2) Limitation
 
-&emsp;This subsection shall apply only to receipts that are electronically printed, and shall not apply to transactions in which the sole means of recording a credit card or debit card account number is by handwriting or by an imprint or copy of the card.
+&emsp;This subsection shall apply only to receipts that are electronically printed, and shall not apply to transactions in which the sole meansof recording a credit card or debit card account number is by handwriting or by an imprint or copy of the card.
 
 #### (3) Effective date
 
@@ -86,7 +86,7 @@ If a consumer reporting agency is notified pursuant to section 1681s–2(a)(3) o
 
 #### (A) Regulations required
 
-&emsp;&emsp;The Federal banking agencies, the National Credit Union Administration, and the Commission shall jointly, with respect to the entities that are subject to their respective enforcement authority under section 1681s of this title, prescribe regulations providing guidance regarding reasonable policies and procedures that a user of a consumer report should employ when such user has received a notice of discrepancy under paragraph (1).
+&emsp;&emsp;The Bureau shall,,<sup>2</sup> in consultation with the Federal banking agencies, the National Credit Union Administration, and the Federal Trade Commission,,<sup>2</sup> prescribe regulations providing guidance regarding reasonable policies and procedures that a user of a consumer report should employ when such user has received a notice of discrepancy under paragraph (1).
 
 #### (B) Policies and procedures to be included
 
@@ -98,21 +98,15 @@ If a consumer reporting agency is notified pursuant to section 1681s–2(a)(3) o
 
 (Pub. L. 90–321, title VI, §605, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1129; amended Pub. L. 95–598, title III, §312(b), Nov. 6, 1978, 92 Stat. 2676; Pub. L. 104–208, div. A, title II, §2406(a)–(e)(1), Sept. 30, 1996, 110 Stat. 3009–434, 3009–435; Pub. L. 105–347, §5, Nov. 2, 1998, 112 Stat. 3211; Pub. L. 108–159, title I, §113, title II, §212(d), title III, §315, title IV, §412(b), (c), title VIII, §811(c)(1), (2)(A), Dec. 4, 2003, 117 Stat. 1959, 1977, 1996, 2002, 2011; Pub. L. 111–203, title X, §1088(a)(2)(D), (5), July 21, 2010, 124 Stat. 2087.)
 
-#### Amendment of Section
-
-<i>Pub. L. 111–203, title X, §§1088(a)(2)(D), (5), 1100H, July 21, 2010, 124 Stat. 2087, 2113, provided that, effective on the designated transfer date, this section is amended as follows:</i>
-
-<i>(1) by striking “The Federal banking agencies, the National Credit Union Administration, and the Commission shall jointly” each place that term appears and inserting “The Bureau shall”; and</i>
-
-<i>(2) in subsection (h)(2)(A), by striking “with respect to the entities that are subject to their respective enforcement authority under section 1681s of this title” and inserting “, in consultation with the Federal banking agencies, the National Credit Union Administration, and the Federal Trade Commission,”.</i>
-
-<i>See Effective Date of 2010 Amendment note below.</i>
-
 #### References in Text
 
 The Bankruptcy Act, referred to in subsec. (a)(1), was act July 1, 1898, ch. 541, 30 Stat. 544, as amended, which was classified to section 1 et seq. of former Title 11, Bankruptcy, prior to its repeal by Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2549, section 101 of which enacted revised Title 11.
 
 #### Amendments
+
+<b>2010</b>—Subsec. (h)(2)(A). Pub. L. 111–203, §1088(a)(5), substituted “, in consultation with the Federal banking agencies, the National Credit Union Administration, and the Federal Trade Commission,” for “with respect to the entities that are subject to their respective enforcement authority under section 1681s of this title”.
+
+Pub. L. 111–203, §1088(a)(2)(D), substituted “The Bureau shall” for “The Federal banking agencies, the National Credit Union Administration, and the Commission shall jointly”.
 
 <b>2003</b>—Subsec. (a)(1). Pub. L. 108–159, §811(c)(1), substituted “(1) Cases” for “(1) cases”.
 
@@ -152,7 +146,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 #### Effective Date of 2003 Amendment
 
-Amendment by Pub. L. 108–159 subject to joint regulations establishing effective dates as prescribed by Federal Reserve Board and Federal Trade Commission, except as otherwise provided, see section 3 of Pub. L. 108–159, set out as a note under section 1681 of this title.
+Amendment by Pub. L. 108–159 subject to joint regulations establishing effective dates as prescribed byFederal Reserve Board and Federal Trade Commission, except as otherwise provided, see section 3 of Pub. L. 108–159, set out as a note under section 1681 of this title.
 
 Amendment by section 412 of Pub. L. 108–159 effective at end of 15-month period beginning on Dec. 4, 2003, see section 412(g) of Pub. L. 108–159, set out as a note under section 1681b of this title.
 
@@ -171,4 +165,6 @@ Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with spe
 Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub. L. 95–598, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “which”.</i>
+
+<i><sup>2</sup></i><i> So in original.</i>
 

@@ -64,7 +64,7 @@ Statements of Policy.—The following shall be the policies of the United States
 
 &emsp;&emsp;“(A) Facilitating greater communication, including through official mechanisms such as the Tripartite Commission and the Joint Intelligence Operations Center, and by promoting other forms of exchange between the parliaments and civil society of the two countries.
 
-&emsp;&emsp;“(B) Urging the Government of Afghanistan to enter into a political dialogue with Pakistan with respect to all issues relating to the border between the two countries, with the aim of establishing a mutually-recognized and monitored border, open to human and economic exchange, and with both countries fully responsible for border security.
+&emsp;&emsp;“(B) Urging the Government of Afghanistan to enter into a political dialogue with Pakistan with respect to all issues relating to the border between the two countries, with the aim of establishing amutually-recognized and monitored border, open to human and economic exchange, and with both countries fully responsible for border security.
 
 “(c)
 
@@ -76,7 +76,7 @@ Emergency Increase in Effective Police Training and Policing Operations.—
 
 &emsp;“(1)
 
-Congressional finding.—Congress finds that police training programs in Afghanistan have achieved far less return on substantial investment todate and require a substantive review and justification of the means and purposes of such assistance, consequent to any provision of additional resources.
+Congressional finding.—Congress finds that police training programs in Afghanistan have achieved far less return on substantial investment to date and require a substantive review and justification of the means and purposes of such assistance, consequent to any provision of additional resources.
 
 &emsp;“(2)
 

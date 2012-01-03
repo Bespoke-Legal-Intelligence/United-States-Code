@@ -14,7 +14,7 @@
 
 &emsp;(2) conduct regional surveys based upon such general plan, using innovative meteorological, oceanographic, and space-related techniques, in sufficient numbers to lead to a national inventory of solar energy resources in the United States;
 
-&emsp;(3) publish and make available maps, reports, and other documents developed fromsuch surveys to encourage and facilitate the commercial development of solar energy resources; and
+&emsp;(3) publish and make available maps, reports, and other documents developed from such surveys to encourage and facilitate the commercial development of solar energy resources; and
 
 &emsp;(4) make such recommendations for legislation as may appear to be necessary to establish policies for solar resources involving Federal lands and waters, consistent with known inventories of various resource types, with the state of technologies for solar energy development, and with evaluation of the environmental impacts of such development.
 

@@ -12,7 +12,7 @@
 
 #### (3) Response of committees
 
-&emsp;Committees instructed pursuant to paragraph (2), or affected thereby, shall submittheir responses to the Budget Committee no later than 10 days after the resolution referred to in paragraph (2) is agreed to, except that if only one such Committee is so instructed such Committee shall, by the same date, report to the Senate a reconciliation bill or reconciliation resolution containing its recommendations in response to such instructions. A committee shall be considered to have complied with all instructions to it pursuant to a resolution adopted under paragraph (2) if it has made recommendations with respect to matters within its jurisdiction which would result in a reduction in the deficit at least equal to the total reduction directed by such instructions.
+&emsp;Committees instructed pursuant to paragraph (2), or affected thereby, shall submit their responses to the Budget Committee no later than 10 days after the resolution referred to in paragraph (2) is agreed to, except that if only one such Committee is so instructed such Committee shall, by the same date, report to the Senate a reconciliation bill or reconciliation resolution containing its recommendations in response to such instructions. A committee shall be considered to have complied with all instructions to it pursuant to a resolution adopted under paragraph (2) if it has made recommendations with respect to matters within its jurisdiction which would result in a reduction in the deficit at least equal to the total reduction directed by such instructions.
 
 #### (4) Budget Committee action
 
@@ -61,8 +61,4 @@
 &emsp;For purposes of this subsection, the term “resolution” means a simple, joint, or concurrent resolution.
 
 (Pub. L. 99–177, title II, §258C, as added Pub. L. 101–508, title XIII, §13101(g), Nov. 5, 1990, 104 Stat. 1388–600.)
-
-#### Termination of Section
-
-<i>Section expired Sept. 30, 2006. See section 275(b) of Pub. L. 99–177, as amended, set out as an Effective and Termination Dates note under section 900 of this title.</i>
 

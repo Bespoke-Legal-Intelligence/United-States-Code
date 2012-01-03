@@ -2,7 +2,7 @@
 
 #### (a) Authority to approve loan guarantees
 
-Subject to the provisions of this section and consistent with the purpose of this chapter, theBoard may approve loan guarantees under this chapter.
+Subject to the provisions of this section and consistent with the purpose of this chapter, the Board may approve loan guarantees under this chapter.
 
 #### (b) Regulations
 
@@ -34,7 +34,7 @@ Subject to the provisions of this section and consistent with the purpose of thi
 
 #### (c) Authority limited by appropriations acts
 
-The Board may approve loan guarantees under this chapter only to the extent provided for in advance in appropriations Acts, and the Board may accept credit risk premiums from a non-Federal source in order to cover the cost of a loan guarantee under this chapter, to the extent that appropriations of budget authority are insufficient to cover such costs.
+The Board may approve loan guarantees under this chapter only to the extent provided for inadvance in appropriations Acts, and the Board may accept credit risk premiums from a non-Federal source in order to cover the cost of a loan guarantee under this chapter, to the extent that appropriations of budget authority are insufficient to cover such costs.
 
 #### (d) Requirements and criteria applicable to approval
 
@@ -146,7 +146,7 @@ The Board may approve loan guarantees under this chapter only to the extent prov
 
 #### (2) Guarantee level
 
-&emsp;A loan guarantee issued under this chapter may not exceed an amount equal to 80 percentof a loan meeting in its entirety the requirements of subsection (d)(2)(A) of this section. If only a portion of a loan meets the requirements of that subsection, the Board shall determine that percentage of the loan meeting such requirements (the “applicable portion”) and may issue a loan guarantee in an amount not exceeding 80 percent of the applicable portion.
+&emsp;A loan guarantee issued under this chapter may not exceed an amount equal to 80 percent of a loan meeting in its entirety the requirements of subsection (d)(2)(A) of this section. If only a portion of a loan meets the requirements of that subsection, the Board shall determine that percentage of the loan meeting such requirements (the “applicable portion”) and may issue a loan guarantee in an amount not exceeding 80 percent of the applicable portion.
 
 #### (g) Underwriting criteria
 
@@ -208,7 +208,7 @@ Except as otherwise provided in subsection (j) of this section, the provisions o
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, and was translated as reading “this title”.See References in Text note set out under section 1101 of this title.
+This chapter, referred to in text, was in the original “this Act”, and was translated as reading “this title”. See References in Text note set out under section 1101 of this title.
 
 #### Amendments
 

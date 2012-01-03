@@ -52,7 +52,7 @@ Except as otherwise provided in this section, the period for assessing any tax i
 
 #### (d) Suspension when Secretary makes administrative adjustment
 
-If notice of a final partnership administrative adjustment with respect to any taxable year is mailed to the tax matters partner, the running of the period specified in subsection (a) (as modified by other provisions of this section) shall be suspended—
+If notice of a final partnership administrative adjustment with respect to any taxable year is mailed to the tax matters partner, the runningof the period specified in subsection (a) (as modified by other provisions of this section) shall be suspended—
 
 &emsp;(1) for the period during which an action may be brought under section 6226 (and, if a petition is filed under section 6226 with respect to such administrative adjustment, until the decision of the court becomes final), and
 

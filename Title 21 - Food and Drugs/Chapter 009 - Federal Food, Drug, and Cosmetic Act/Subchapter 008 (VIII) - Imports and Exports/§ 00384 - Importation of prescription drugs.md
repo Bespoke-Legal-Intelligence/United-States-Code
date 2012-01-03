@@ -54,7 +54,7 @@ The regulations under subsection (b) of this section shall—
 
 &emsp;(2) require that an importer of a prescription drug under the regulations comply with subsections (d)(1) and (e) of this section; and
 
-&emsp;(3) contain any additional provisions determined by the Secretary to be appropriate as a safeguard to protect the public health or as ameans to facilitate the importation of prescription drugs.
+&emsp;(3) contain any additional provisions determined by the Secretary to be appropriate as a safeguard to protect the public health or as a means to facilitate the importation of prescription drugs.
 
 #### (d) Information and records
 

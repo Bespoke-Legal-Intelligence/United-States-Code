@@ -56,13 +56,13 @@ In paragraph (8), based on the act of September 26, 1966 (5 App. U.S.C. 2251(c))
 
 #### Amendments
 
-2010—Par. (4). Pub. L. 111–145, inserted “or employee” after “member”.
+<b>2010</b>—Par. (4). Pub. L. 111–145, inserted “or employee” after “member”.
 
-2008—Par. (9). Pub. L. 110–437 amended par. (9) generally. Prior to amendment, par. (9) read as follows: “an employee of the Capitol Guide Service.”
+<b>2008</b>—Par. (9). Pub. L. 110–437 amended par. (9) generally. Prior to amendment, par. (9) read as follows: “an employee of the Capitol Guide Service.”
 
-1996—Par. (5). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk”.
+<b>1996</b>—Par. (5). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk”.
 
-1970—Par. (9). Pub. L. 91—510 added par. (9).
+<b>1970</b>—Par. (9). Pub. L. 91—510 added par. (9).
 
 #### Effective Date of 2010 Amendment
 

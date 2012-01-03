@@ -6,9 +6,9 @@ The Council shall submit its budget annually as a related agency of the Departme
 
 #### (b) Transmittal of copies to Congressional committees
 
-Whenever the Council submits any budget estimate or request to the President or the Office of Management and Budget, it shall concurrently transmit copies of that estimate or request to the House and Senate Appropriations Committees and the House Committee on Natural Resources and the Senate Committee on Energy and Natural Resources.
+Whenever the Council submits any budget estimate or request to the President or the Officeof Management and Budget, it shall concurrently transmit copies of that estimate or request to the House and Senate Appropriations Committees and the House Committee on Natural Resources and the Senate Committee on Energy and Natural Resources.
 
-(Pub. L. 89–665, title II, §212, as added Pub. L. 94–422, title II, §201(9), Sept. 28, 1976, 90 Stat.1323; amended Pub. L. 95–625, title VI, §614, Nov. 10, 1978, 92 Stat. 3521; Pub. L. 96–205, title VI, §608(a)(3), Mar. 12, 1980, 94 Stat. 92; Pub. L. 96–244, §2, May 19, 1980, 94 Stat. 346; Pub. L. 96–515, title III, §302(b), Dec. 12, 1980, 94 Stat. 3000; Pub. L. 98–483, Oct. 17, 1984, 98 Stat. 2258; Pub. L. 101–70, Aug. 3, 1989, 103 Stat. 180; Pub. L. 102–575, title XL, §4017, Oct. 30, 1992, 106 Stat. 4763; Pub. L. 103–437, §6(d)(29), Nov. 2, 1994, 108 Stat. 4584; Pub. L. 104–333, div. I, title V, §509(a), Nov. 12, 1996, 110 Stat. 4157; Pub. L. 106–208, §3, May 26, 2000, 114 Stat. 318; Pub. L. 109–453, §1(f), Dec. 22, 2006, 120 Stat. 3368.)
+(Pub. L. 89–665, title II, §212, as added Pub. L. 94–422, title II, §201(9), Sept. 28, 1976, 90 Stat. 1323; amended Pub. L. 95–625, title VI, §614, Nov. 10, 1978, 92 Stat. 3521; Pub. L. 96–205, title VI, §608(a)(3), Mar. 12, 1980, 94 Stat. 92; Pub. L. 96–244, §2, May 19, 1980, 94 Stat. 346; Pub. L. 96–515, title III, §302(b), Dec. 12, 1980, 94 Stat. 3000; Pub. L. 98–483, Oct. 17, 1984, 98 Stat. 2258; Pub. L. 101–70, Aug. 3, 1989, 103 Stat. 180; Pub. L. 102–575, title XL, §4017, Oct. 30, 1992, 106 Stat. 4763; Pub. L. 103–437, §6(d)(29), Nov. 2, 1994, 108 Stat. 4584; Pub. L. 104–333, div. I, title V, §509(a), Nov. 12, 1996, 110 Stat. 4157; Pub. L. 106–208, §3, May 26, 2000, 114 Stat. 318; Pub. L. 109–453, §1(f), Dec. 22, 2006, 120 Stat. 3368.)
 
 #### Amendments
 

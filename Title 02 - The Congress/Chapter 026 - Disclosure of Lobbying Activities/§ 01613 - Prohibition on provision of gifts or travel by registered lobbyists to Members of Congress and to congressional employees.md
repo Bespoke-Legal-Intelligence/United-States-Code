@@ -2,7 +2,7 @@
 
 #### (a) Prohibition
 
-Any person described in subsection (b) may not make a gift or provide travel to a covered legislative branch official if the person has knowledge that the gift or travel may not be accepted by that covered legislative branch official under the Rules of the House of Representatives or the Standing Rules of the Senate (as the case may be).
+Any person described in subsection (b) may not make a gift or provide travel to a covered legislative branch official if the person hasknowledge that the gift or travel may not be accepted by that covered legislative branch official under the Rules of the House of Representatives or the Standing Rules of the Senate (as the case may be).
 
 #### (b) Persons subject to prohibition
 

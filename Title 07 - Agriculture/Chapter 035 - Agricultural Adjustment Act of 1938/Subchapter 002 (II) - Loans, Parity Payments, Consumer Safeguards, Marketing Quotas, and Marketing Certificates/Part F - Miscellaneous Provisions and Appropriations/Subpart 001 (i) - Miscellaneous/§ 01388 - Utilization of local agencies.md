@@ -26,7 +26,7 @@ Chapter 3B \[§590a et seq.\] of title 16, referred to in text, was in the origi
 
 #### Amendments
 
-1985—Subsecs. (b), (c). Pub. L. 99–198 designated existing provisions of subsec. (b) as par. (1), added par. (2), and added subsec. (c).
+<b>1985</b>—Subsecs. (b), (c). Pub. L. 99–198 designated existing provisions of subsec. (b) as par. (1), added par. (2), and added subsec. (c).
 
 #### Effective Date of 1985 Amendment
 

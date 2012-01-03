@@ -74,7 +74,7 @@ For purposes of this part—
 
 #### (C) TAA-eligible individuals
 
-&emsp;&emsp;In the case of plan years beginning before February 13, 2011—
+&emsp;&emsp;In the case of plan years beginning before January 1, 2014—
 
 #### (i) TAA pre-certification period rule
 
@@ -146,7 +146,7 @@ For purposes of this part—
 
 &emsp;&emsp;&emsp;(iii) on the request on behalf of an individual made not later than 24 months after the date of cessation of the coverage described in clause (i) or (ii), whichever is later.
 
-> &emsp;&emsp;The certification under clause (i) may be provided, to the extent practicable, at a time consistent with notices required under any applicable COBRA continuation provision.
+> &emsp;&emsp;The certification under clause (i) may be provided, to the extent practicable, at atime consistent with notices required under any applicable COBRA continuation provision.
 
 #### (B) Certification
 
@@ -242,7 +242,7 @@ For purposes of this part—
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Each employer that maintains a group health plan in a State that provides medical assistance under a State Medicaid plan under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\], or child health assistance under a State child health plan under title XXI of such Act \[42 U.S.C. 1397aa et seq.\], in the form of premium assistance for the purchase of coverage under a group health plan, shallprovide to each employee a written notice informing the employee of potential opportunities then currently available in the State in which the employee resides for premium assistance under such plans for health coverage of the employee or the employee's dependents. For purposes of compliance with this subclause, the employer may use any State-specific model notice developed in accordance with section 1181(f)(3)(B)(i)(II) of title 29.
+&emsp;&emsp;&emsp;&emsp;Each employer that maintains a group health plan in a State that provides medical assistance under a State Medicaid plan under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\], or child health assistance under a State child health plan under title XXI of such Act \[42 U.S.C. 1397aa et seq.\], in the form of premium assistance for the purchase of coverage under a group health plan, shall provide to each employee a written notice informing the employee of potential opportunities then currently available in the State in which the employee resides for premium assistance under such plans for health coverage of the employee or the employee's dependents. For purposes of compliance with this subclause, the employer may use any State-specific model notice developed in accordance with section 1181(f)(3)(B)(i)(II) of title 29.
 
 #### (II) Option to provide concurrent with provision of plan materials to employee
 
@@ -256,7 +256,7 @@ For purposes of this part—
 
 #### (1) In general
 
-&emsp;A health maintenance organization which offers health insurance coverage in connection with a group health plan and which does not impose any preexisting condition exclusion allowed under subsection (a) of this section with respect to any particular coverage option may impose an affiliation period for such coverage option, but only if—
+&emsp;A health maintenance organization which offers health insurance coverage in connection with a group health plan and which does not impose any preexisting condition exclusion allowed under subsection (a) of this section withrespect to any particular coverage option may impose an affiliation period for such coverage option, but only if—
 
 &emsp;&emsp;(A) such period is applied uniformly without regard to any health status-related factors; and
 
@@ -280,7 +280,7 @@ For purposes of this part—
 
 &emsp;A health maintenance organization described in paragraph (1) may use alternative methods, from those described in such paragraph, to address adverse selection as approved by the State insurance commissioner or official or officials designated by the State to enforce the requirements of this part for the State involved with respect to such issuer.
 
-(July 1, 1944, ch. 373, title XXVII, §2704, formerly §2701, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1955; amended Pub. L. 111–3, title III, §311(b)(2), Feb. 4, 2009, 123 Stat. 70; Pub. L. 111–5, div. B, title I, §1899D(c), Feb. 17, 2009, 123 Stat. 426; renumbered §2704 and amended Pub. L. 111–148, title I, §§1201(2), 1563(c)(1), formerly §1562(c)(1), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911; Pub. L. 111–344, title I, §114(c), Dec. 29, 2010, 124 Stat. 3615.)
+(July 1, 1944, ch. 373, title XXVII, §2704, formerly §2701, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1955; amended Pub. L. 111–3, title III, §311(b)(2), Feb. 4, 2009, 123 Stat. 70; Pub. L. 111–5, div. B, title I, §1899D(c), Feb. 17, 2009, 123 Stat. 426; renumbered §2704 and amended Pub. L. 111–148, title I, §§1201(2), 1563(c)(1), formerly §1562(c)(1), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911; Pub. L. 111–344, title I, §114(c), Dec. 29, 2010, 124 Stat. 3615; Pub. L. 112–40, title II, §242(a)(3), (4), Oct. 21, 2011, 125 Stat. 419.)
 
 #### Amendment of Section
 
@@ -290,13 +290,15 @@ For purposes of this part—
 
 Subsection (a) of this section, referred to in subsecs. (b)(1)(B) and (c)(3)(A), (B), was struck out, and a new subsec. (a) was added, by Pub. L. 111–148, title I, §1201(2)(A), Mar. 23, 2010, 124 Stat. 154, and as so amended, subsec. (a) no longer contains paragraphs.
 
-The Social Security Act, referred to in subsecs. (c)(1)(C), (D) and (f)(3)(A)(i), (B)(i)(I), (ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A and B of title XVIII of the Act are classified generally to parts A (§1395c et seq.) and B (§1395j et seq.), respectively, of subchapter XVIII of chapter 7 of this title. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, ofchapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsecs. (c)(1)(C), (D) and (f)(3)(A)(i), (B)(i)(I), (ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A and B of title XVIII of the Act are classified generally to parts A (§1395c et seq.) and B (§1395j et seq.), respectively, of subchapter XVIII of chapter 7 of this title. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 Section 311(b)(1)(C) of the Children's Health Insurance Program Reauthorization Act of 2009, referred to in subsec. (f)(3)(B)(ii), is section 311(b)(1)(C) of Pub. L. 111–3, which is set out as a note under section 1181 of Title 29, Labor.
 
 #### Codification
 
 Section was classified to section 300gg of this title prior to amendment and renumbering by Pub. L. 111–148. For text of section 300gg prior to amendment and renumbering, see Prior Provisions note under section 300gg of this title.
+
+Section 242(a)(3) of Pub. L. 112–40 amended section 2701 of act July 1, 1944, “as in effect for plan years beginning before January 1, 2014”, which was classified to section 300gg of this title prior to amendment and renumbering by Pub. L. 111–148. Section 242(a)(4) of Pub. L. 112–40 made identical amendment to section 2704 of act July 1, 1944, “as in effect for plan years beginning on or after January 1, 2014”, which is set out as this section. See 2011 Amendment note below. For effective date of renumbering by section 1201(2) of Pub. L. 111–148, see Effective Date of 2010 Amendment note below.
 
 #### Prior Provisions
 
@@ -306,9 +308,13 @@ Another prior section 2704 of act July 1, 1944, was successively renumbered by s
 
 #### Amendments
 
+<b>2011</b>—Subsec. (c)(2)(C). Pub. L. 112–40 substituted “January 1, 2014” for “February 13, 2011” in introductory provisions. See Codification note above.
+
 <b>2010</b>—Pub. L. 111–148, §1201(2)(A), substituted “Prohibition of preexisting condition exclusions or other discrimination based on health status” for “Increased portability through limitation on preexisting condition exclusions” in section catchline, added subsec. (a), and struck out former subsec. (a) which related to limitation on preexisting condition exclusion period.
 
-Subsec. (c)(2)(A), (B). Pub. L. 111–148, §1563(c)(1)(A)(i), formerly §1562(c)(1)(A)(i), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted “group or individual health plan” for “group health plan”.Subsec. (c)(2)(C). Pub. L. 111–344 substituted “February 13, 2011” for “January 1, 2011” in introductory provisions.
+Subsec. (c)(2)(A), (B). Pub. L. 111–148, §1563(c)(1)(A)(i), formerly §1562(c)(1)(A)(i), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted “group or individual health plan” for “group health plan”.
+
+Subsec. (c)(2)(C). Pub. L. 111–344 substituted “February 13, 2011” for “January 1, 2011” in introductory provisions.
 
 Subsec. (c)(3)(A), (B). Pub. L. 111–148, §1563(c)(1)(A)(ii)(I), formerly §1562(c)(1)(A)(ii)(I), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted “group or individual health insurance” for “group health insurance”.
 
@@ -321,6 +327,10 @@ Subsec. (e)(1)(A). Pub. L. 111–148, §1563(c)(1)(C), formerly §1562(c)(1)(C),
 <b>2009</b>—Subsec. (c)(2)(C). Pub. L. 111–5 added subpar. (C).
 
 Subsec. (f)(3). Pub. L. 111–3 added par. (3).
+
+#### Effective Date of 2011 Amendment
+
+Amendment by Pub. L. 112–40 applicable to plan years beginning after Feb. 12, 2011, with transitional rules,see section 242(b) of Pub. L. 112–40, set out as a note under section 9801 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 2010 Amendment
 

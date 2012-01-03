@@ -30,7 +30,7 @@ The words “now or hereafter”, in 10:948a, are omitted as surplusage. The wor
 
 #### 1958 Act
 
-The change makes clear that the Secretary of the Army is required to prescribe regulations in this case, and conforms this section to section 8914, its Air Force counterpart.
+The change makes clear that the Secretary of the Army is required to prescribe regulations in this case,and conforms this section to section 8914, its Air Force counterpart.
 
 #### Amendments
 

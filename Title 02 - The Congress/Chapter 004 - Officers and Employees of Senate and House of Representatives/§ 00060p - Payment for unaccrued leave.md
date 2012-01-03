@@ -14,7 +14,7 @@ Any payment accepted under this section shall be deposited in the general fund o
 
 #### (d) “Head of the employing office” defined
 
-As used in this section, the term “head of the employing office” means any person with thefinal authority to appoint, hire, discharge, and set the terms, conditions, or privileges of the employment of an individual whose pay is disbursed by the Secretary of the Senate.
+As used in this section, the term “head of the employing office” means any person with the final authority to appoint, hire, discharge, and set the terms, conditions, or privileges of the employment of an individual whose pay is disbursed by the Secretary of the Senate.
 
 #### (e) Applicability
 

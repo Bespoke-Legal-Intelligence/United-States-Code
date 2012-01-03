@@ -4,7 +4,7 @@
 
 (b)(1) The Secretary shall be responsible for the approval of courses of education offered by any agency of the Federal Government authorized under other laws to supervise such education. The Secretary may approve any course in any other educational institution in accordance with the provisions of this chapter and chapters 34 and 35 of this title.
 
-(2)(A) Subject to sections 3675(b)(1) and (b)(2), 3680A, 3684, and 3696 of this title, the followingprograms are deemed to be approved for purposes of this chapter:
+(2)(A) Subject to sections 3675(b)(1) and (b)(2), 3680A, 3684, and 3696 of this title, the following programs are deemed to be approved for purposes of this chapter:
 
 &emsp;(i) An accredited standard college degree program offered at a public or not-for-profit proprietary educational institution that is accredited by an agency or association recognized for that purpose by the Secretary of Education.
 

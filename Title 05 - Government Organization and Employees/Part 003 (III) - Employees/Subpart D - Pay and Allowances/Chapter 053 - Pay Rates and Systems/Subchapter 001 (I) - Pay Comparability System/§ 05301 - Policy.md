@@ -34,7 +34,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1990—Pub. L. 101–509 amended section generally. Prior to amendment, section read as follows:
+<b>1990</b>—Pub. L. 101–509 amended section generally. Prior to amendment, section read as follows:
 
 “(a) It is the policy of Congress that Federal pay fixing for employees under statutory pay systems be based on the principles that—
 
@@ -56,9 +56,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 &emsp;“(3) chapter 73 of title 38, relating to the Department of Medicine and Surgery, Veterans’ Administration.”
 
-1980—Subsec. (c)(2). Pub. L. 96–465 substituted “section 403 of the Foreign Service Act of 1980” for “subchapter IV of chapter 14 of title 22”.
+<b>1980</b>—Subsec. (c)(2). Pub. L. 96–465 substituted “section 403 of the Foreign Service Act of 1980” for “subchapter IV of chapter 14 of title 22”.
 
-1971—Pub. L. 91–656 designated provisions of first sentence as subsec. (a), incorporating former cl. (1) in cls. (1) and (2), and former cl. (2) in cl. (3), and inserted “for employees under statutory pay systems” after “Federal pay fixing”; substituted subsec. (b) reading “The pay rates of each statutory pay system shall be fixed and adjusted in accordance with the principles under subsection (a) of this section and the provisions of sections 5305, 5306, and 5308 of this title” for former second sentence providing “Pay levels for the several Federal statutory pay systems shall be interrelated, and pay levels shall be set and adjusted in accordance with these principles”; and added subsec. (c).
+<b>1971</b>—Pub. L. 91–656 designated provisions of first sentence as subsec. (a), incorporating former cl. (1) in cls. (1) and (2), and former cl. (2) in cl. (3), and inserted “for employees under statutory pay systems” after “Federal pay fixing”; substituted subsec. (b) reading “The pay rates of each statutory pay system shall be fixed and adjusted in accordance with the principles under subsection (a) of this section and the provisions of sections 5305, 5306, and 5308 of this title” for former second sentence providing “Pay levels for the several Federal statutory pay systems shall be interrelated, and pay levels shall be set and adjusted in accordance with these principles”; and added subsec. (c).
 
 #### Effective Date of 1990 Amendment
 
@@ -66,7 +66,7 @@ Section 529 \[title III, §305\] of Pub. L. 101–509 provided that:
 
 “(a)
 
-Generally.—Except as otherwise provided in this Act, this Act and the amendments made by this Act \[this Act means section 529 \[titles I–III, §§1–306\] of Pub. L. 101–509, but does not include section 529 \[title IV, §§401–412\] of Pub. L. 101–509, see Short Title of 1990Amendment; Rules of Construction note below, and see Tables for classification\] shall take effect on such date as the President shall determine \[see Ex. Ord. No. 12748, Feb. 1, 1991, 56 F.R. 4521, set out below\], but not earlier than 90 days, and not later than 180 days, after the date of enactment of this Act \[Nov. 5, 1990\].
+Generally.—Except as otherwise provided in this Act, this Act and the amendments made by this Act \[this Act means section 529 \[titles I–III, §§1–306\] of Pub. L. 101–509, but does not include section 529 \[title IV, §§401–412\] of Pub. L. 101–509, see Short Title of 1990 Amendment; Rules of Construction note below, and see Tables for classification\] shall take effect on such date as the President shall determine \[see Ex. Ord. No. 12748, Feb. 1, 1991, 56 F.R. 4521, set out below\], but not earlier than 90 days, and not later than 180 days, after the date of enactment of this Act \[Nov. 5, 1990\].
 
 “(b)
 
@@ -78,7 +78,7 @@ Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provi
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(4) \[div. B, title IX, §901\], Dec. 21, 2000, 114 Stat. 2763, 2763A–303, provided that: “This title \[enacting provisions set out as notes under sections 5304 and 5305 of this title and section 204 of Title 3, The President, and amending provisions set out as a note under section 5305 of this title\] may be cited as the ‘Law Enforcement Pay Equity Act of 2000’.”
+Pub. L. 106–554, §1(a)(4) \[div. B, title IX, §901\], Dec. 21, 2000, 114 Stat. 2763, 2763A–303, provided that: “This title\[enacting provisions set out as notes under sections 5304 and 5305 of this title and section 204 of Title 3, The President, and amending provisions set out as a note under section 5305 of this title\] may be cited as the ‘Law Enforcement Pay Equity Act of 2000’.”
 
 #### Short Title of 1993 Amendment
 

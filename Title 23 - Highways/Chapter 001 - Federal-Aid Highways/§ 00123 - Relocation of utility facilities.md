@@ -26,7 +26,7 @@ Study.—The Comptroller General shall conduct a study to assess the impact that
 
 &emsp;“(C) The extent to which States have used available technologies, such as subsurface utility engineering, early in the design of Federal-aid highway and bridge projects so as to eliminate or reduce the need for or delays due to utility relocations.
 
-&emsp;“(D) Whether individual States compensate transportation contractors for business costs incurred by the contractors when Federal-aid highway and bridge projects under contract to them are delayed by utility-company-caused delays in utility relocations and any methods used by States in making any such compensation.
+&emsp;“(D) Whether individual States compensate transportation contractors for business costs incurred by the contractors when Federal-aid highway and bridge projects under contract to them are delayed by utility-company-caused delays in utility relocations andany methods used by States in making any such compensation.
 
 “(2)
 

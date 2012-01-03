@@ -12,5 +12,5 @@ There is an Assistant Surgeon General for Dental Services in the Air Force who i
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–364, div. A, title V, §504(b), Oct. 17, 2006, 120 Stat. 2179, provided that: “The amendment made bysubsection (a) \[amending this section\] shall take effect on the date of the occurrence of the next vacancy in the position of Assistant Surgeon General for Dental Services in the Air Force that occurs after the date of the enactment of this Act \[Oct. 17, 2006\] or, if earlier, on the date of the appointment to the grade of major general of the officer who is the incumbent in that position on the date of the enactment of the Act.”
+Pub. L. 109–364, div. A, title V, §504(b), Oct. 17, 2006, 120 Stat. 2179, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the occurrence of the next vacancy in the position of Assistant Surgeon General for Dental Services in the Air Force that occurs after the date of the enactment of this Act \[Oct. 17, 2006\] or, if earlier, on the date of the appointment to the grade of major general of the officer who is the incumbent in that position on the date of the enactment of the Act.”
 

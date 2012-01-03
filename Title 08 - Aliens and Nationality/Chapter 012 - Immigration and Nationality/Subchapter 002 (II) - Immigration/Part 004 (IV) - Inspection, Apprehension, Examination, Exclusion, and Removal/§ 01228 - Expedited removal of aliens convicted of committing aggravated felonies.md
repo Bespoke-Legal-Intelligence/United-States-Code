@@ -20,7 +20,7 @@
 
 &emsp;(A) The Attorney General shall review and evaluate removal proceedings conducted under this section.
 
-&emsp;(B) The Comptroller General shall monitor, review, and evaluate removal proceedings conducted under this section. Within 18 months after the effective date of this section, the Comptroller General shall submit a report tosuch Committees concerning the extent to which removal proceedings conducted under this section may adversely affect the ability of such aliens to contest removal effectively.
+&emsp;(B) The Comptroller General shall monitor, review, and evaluate removal proceedings conducted under this section. Within 18 months after the effective date of this section, the Comptroller General shall submit a report to such Committees concerning the extent to which removal proceedings conducted under this section may adversely affect the ability of such aliens to contest removal effectively.
 
 #### (b) Removal of aliens who are not permanent residents
 
@@ -118,7 +118,7 @@ A prior section 1228, act June 27, 1952, ch. 477, title II, ch. 4, §238, 66 Sta
 
 #### Amendments
 
-1996—Pub. L. 104–208, §308(b)(5), substituted “removal” for “deportation” in section catchline.
+<b>1996</b>—Pub. L. 104–208, §308(b)(5), substituted “removal” for “deportation” in section catchline.
 
 Subsec. (a). Pub. L. 104–208, §308(e)(10), substituted “Removal” for “Deportation” in heading.
 
@@ -158,7 +158,7 @@ Pub. L. 104–132, §442(a)(2), substituted “14 calendar days” for “30 cal
 
 Subsec. (b)(4)(B). Pub. L. 104–132, §442(a)(3), substituted “proceedings” for “proccedings”.
 
-Subsec. (b)(4)(D). Pub. L. 104–208, §304(c)(1)(A), (B), redesignated subpar. (E) as (D) and amended it generally,and struck out former subpar. (D). Prior to amendments, subpars. (D) and (E) read as follows:
+Subsec. (b)(4)(D). Pub. L. 104–208, §304(c)(1)(A), (B), redesignated subpar. (E) as (D) and amended it generally, and struck out former subpar. (D). Prior to amendments, subpars. (D) and (E) read as follows:
 
 “(D) such proceedings are conducted in, or translated for the alien into, a language the alien understands;
 
@@ -232,7 +232,7 @@ Subsec. (d)(4). Pub. L. 104–208, §374(a)(2), struck out “without a decision
 
 Subsec. (d)(5). Pub. L. 104–208, §374(a)(3), added par. (5).
 
-1994—Pub. L. 103–322, §130004(c)(1), struck out “procedures for” after “Expedited” in section catchline.
+<b>1994</b>—Pub. L. 103–322, §130004(c)(1), struck out “procedures for” after “Expedited” in section catchline.
 
 Subsec. (a)(1). Pub. L. 103–322, §130004(c)(2), substituted subsec. heading for one which read “In general”, redesignated existing subsec. (a) as par. (1) of subsec. (a), and inserted heading.
 
@@ -254,9 +254,9 @@ Pub. L. 103–322, §130004(c)(5), redesignated subsec. (d) as par. (3) of subse
 
 Subsec. (e). Pub. L. 103–322, §130004(c)(6), redesignated subsec. (e) as par. (4) of subsec. (a).
 
-1991—Subsec. (a). Pub. L. 102–232 inserted closing parenthesis before period at end of first sentence.
+<b>1991</b>—Subsec. (a). Pub. L. 102–232 inserted closing parenthesis before period at end of first sentence.
 
-1990—Subsec. (d)(2). Pub. L. 101–649 struck out before period at end “, unless the chief prosecutor or the judge in whose jurisdiction conviction occurred submits a written request to the Attorney General that such alien be so deported”.
+<b>1990</b>—Subsec. (d)(2). Pub. L. 101–649 struck out before period at end “, unless the chief prosecutor or the judge in whose jurisdiction conviction occurred submits a written request to the Attorney General that such alien be so deported”.
 
 #### Effective Date of 1996 Amendments
 
@@ -270,7 +270,7 @@ Section 374(c) of div. C of Pub. L. 104–208 provided that: “The amendment ma
 
 Amendment by section 671(b)(13) of Pub. L. 104–208 effective as if included in the enactment of the Immigration and Nationality Technical Corrections Act of 1994, Pub. L. 103–416, see section 671(b)(14) of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
-Amendment by section 671(c)(5), (6) of Pub. L. 104–208 effective as if included in the enactment of subtitle Aof title IV of the Antiterrorism and Effective Death Penalty Act of 1996, Pub. L. 104–132, see section 671(c)(7) of Pub. L. 104–208, set out as a note under section 1189 of this title.
+Amendment by section 671(c)(5), (6) of Pub. L. 104–208 effective as if included in the enactment of subtitle A of title IV of the Antiterrorism and Effective Death Penalty Act of 1996, Pub. L. 104–132, see section 671(c)(7) of Pub. L. 104–208, set out as a note under section 1189 of this title.
 
 Section 442(d) of Pub. L. 104–132 provided that: “The amendments made by this section \[amending this section and section 1105a of this title\] shall become effective no later than 60 days after the publication by the Attorney General of implementing regulations that shall be published on or before January 1, 1997.”
 

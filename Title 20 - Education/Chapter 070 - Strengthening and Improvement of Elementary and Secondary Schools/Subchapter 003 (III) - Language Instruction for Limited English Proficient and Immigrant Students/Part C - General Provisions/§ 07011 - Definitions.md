@@ -16,7 +16,7 @@ Except as otherwise provided, in this subchapter:
 
 #### (4) Director
 
-&emsp;The term “Director” means the Director of the Office of English Language Acquisition, Language Enhancement, and Academic Achievement for Limited English Proficient Students established under section 3420 of this title.
+&emsp;The term “Director” means the Director of the Office of English Language Acquisition, Language Enhancement, and AcademicAchievement for Limited English Proficient Students established under section 3420 of this title.
 
 #### (5) Family education program
 
@@ -116,5 +116,5 @@ A prior section 3301 of Pub. L. 89–10 was classified to section 6921 of this t
 
 #### Amendments
 
-<b>2008</b>—Par. (3). Pub. L. 110–315 substituted “the Tribally Controlled Colleges and Universities AssistanceAct of 1978” for “the Tribally Controlled College or University Assistance Act of 1978”.
+<b>2008</b>—Par. (3). Pub. L. 110–315 substituted “the Tribally Controlled Colleges and Universities Assistance Act of 1978” for “the Tribally Controlled College or University Assistance Act of 1978”.
 

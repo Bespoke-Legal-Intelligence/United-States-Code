@@ -88,7 +88,7 @@ In order to further the purposes of the Foundation there shall be established a 
 
 #### (n) Nonprofit nature of the Foundation; conflict of interests
 
-The Foundation shall be a nonprofit corporation and shall have no capital stock. No part of its revenue earnings, or other income or property shall inure to the benefit of its directors,officers, and employees and such revenue, earnings, or other income, or property shall be used for the carrying out of the corporate purposes set forth in this section. No director, officer, or employee of the corporation shall in any manner directly or indirectly participate in the deliberation upon or the determination of any question affecting his personal interests or the interests of any corporation, partnership, or organization in which he is directly or indirectly interested.
+The Foundation shall be a nonprofit corporation and shall have no capital stock. No part of its revenue earnings, or other income or property shall inure to the benefit of its directors, officers, and employees and such revenue, earnings, or other income, or property shall be used for the carrying out of the corporate purposes set forth in this section. No director, officer, or employee of the corporation shall in any manner directly or indirectly participate in the deliberation upon or the determination of any question affecting his personal interests or the interests of any corporation, partnership, or organization in which he is directly or indirectly interested.
 
 #### (<i>o</i>) Personnel; service in foreign governments or agencies
 
@@ -118,7 +118,7 @@ The Foundation shall be subject to the provisions of chapter 91 of title 31.
 
 #### (u) Interest on funds invested pending disbursement
 
-When, with the permission of the Foundation, funds made available to a grantee under this section are invested pending disbursement, the resulting interest is not required to be deposited in the United States Treasury if the grantee uses the resulting interest for the purposes for which the grant was made. This subsection applies with respect to both interest earned before and interest earned after August 24, 1982.
+When, with the permission of the Foundation, funds made available to a grantee under thissection are invested pending disbursement, the resulting interest is not required to be deposited in the United States Treasury if the grantee uses the resulting interest for the purposes for which the grant was made. This subsection applies with respect to both interest earned before and interest earned after August 24, 1982.
 
 #### (v) Travel expenses
 
@@ -192,7 +192,7 @@ Part IV of Pub. L. 91–175, Dec. 30, 1969, 83 Stat. 821, as amended by Pub. L. 
 
 #### Abolition of Inter-American Foundation
 
-Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §586\], Nov. 29, 1999, 113 Stat. 1535, 1501A–117, as amended by Pub. L. 106–429, §101(a) \[title V, §591\], Nov. 6, 2000, 114 Stat. 1900, 1900A–59, authorized the President, during fiscal years 2000 and 2001, to abolish the Inter-American Foundation, provided for the termination and transfer of functions of the Foundation, disposition of funds, and responsibilities and authorities of the Director of the Office of Management and Budget to take actions necessary to wind-up the affairs of the Foundation, required the Director to certify to Congress the discharge of the Director's responsibilities, directed the repeal of sections 290f and 2182a(d) of this title and the amendment of section 290h of this title and section 36 of Pub. L. 93–189 (22 U.S.C. 1942 note), effective on the date of transmittal to Congress of the Director's certification, and provided that section 1000(a)(2) \[title V, §586\] of Pub. L. 106–113 would only be effective upon the effective date of the abolition of the Foundation. The President did not exercise his authority to abolish the Inter-American Foundation during fiscal years 2000 and 2001.
+Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §586\], Nov. 29, 1999, 113 Stat. 1535, 1501A–117, as amended by Pub. L.106–429, §101(a) \[title V, §591\], Nov. 6, 2000, 114 Stat. 1900, 1900A–59, authorized the President, during fiscal years 2000 and 2001, to abolish the Inter-American Foundation, provided for the termination and transfer of functions of the Foundation, disposition of funds, and responsibilities and authorities of the Director of the Office of Management and Budget to take actions necessary to wind-up the affairs of the Foundation, required the Director to certify to Congress the discharge of the Director's responsibilities, directed the repeal of sections 290f and 2182a(d) of this title and the amendment of section 290h of this title and section 36 of Pub. L. 93–189 (22 U.S.C. 1942 note), effective on the date of transmittal to Congress of the Director's certification, and provided that section 1000(a)(2) \[title V, §586\] of Pub. L. 106–113 would only be effective upon the effective date of the abolition of the Foundation. The President did not exercise his authority to abolish the Inter-American Foundation during fiscal years 2000 and 2001.
 
 #### Transition Rule for Board Appointments
 

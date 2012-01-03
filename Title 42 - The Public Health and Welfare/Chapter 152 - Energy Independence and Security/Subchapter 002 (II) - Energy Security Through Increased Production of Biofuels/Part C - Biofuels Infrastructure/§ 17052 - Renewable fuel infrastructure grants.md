@@ -86,7 +86,7 @@ The Secretary shall enter into contracts with entities with demonstrated experie
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), not later than 90 days after December 19, 2007, the Secretaryshall issue requirements for use in applying for grants under the pilot program.
+&emsp;&emsp;&emsp;Subject to clause (ii), not later than 90 days after December 19, 2007, the Secretary shall issue requirements for use in applying for grants under the pilot program.
 
 #### (ii) Minimum requirements
 
@@ -128,7 +128,7 @@ The Secretary shall enter into contracts with entities with demonstrated experie
 
 &emsp;&emsp;&emsp;(ii) are best able to incorporate existing infrastructure while maximizing, to the extent practicable, the use of advanced biofuels;
 
-&emsp;&emsp;&emsp;(iii) demonstrate the greatest commitment on the part of the applicant to ensure funding for the proposed project and the greatest likelihood that the project will be maintained or expanded after Federal assistance under this subsection is completed;
+&emsp;&emsp;&emsp;(iii) demonstrate the greatest commitment on the part of the applicant to ensure funding for the proposed project andthe greatest likelihood that the project will be maintained or expanded after Federal assistance under this subsection is completed;
 
 &emsp;&emsp;&emsp;(iv) represent a partnership of public and private entities; and
 
@@ -176,7 +176,7 @@ The Secretary shall enter into contracts with entities with demonstrated experie
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Not later than 2 years after December 19, 2007, the Secretary shall publish in the Federal Register, Commerce BusinessDaily, and such other publications as the Secretary considers to be appropriate, a notice and request for additional applications to carry out projects under the pilot program that incorporate the information and knowledge obtained through the implementation of the first round of projects authorized under the pilot program.
+&emsp;&emsp;&emsp;Not later than 2 years after December 19, 2007, the Secretary shall publish in the Federal Register, Commerce Business Daily, and such other publications as the Secretary considers to be appropriate, a notice and request for additional applications to carry out projects under the pilot program that incorporate the information and knowledge obtained through the implementation of the first round of projects authorized under the pilot program.
 
 #### (ii) Deadline
 

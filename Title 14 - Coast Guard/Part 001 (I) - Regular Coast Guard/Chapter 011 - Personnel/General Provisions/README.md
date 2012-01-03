@@ -11,3 +11,4 @@
 - [&sect; 00424 - Limitations on retirement and retired pay](%C2%A7%2000424%20-%20Limitations%20on%20retirement%20and%20retired%20pay.md)
 - [&sect; 00424a - Suspension of payment of retired pay of members who are absent from the United States to avoid prosecution](%C2%A7%2000424a%20-%20Suspension%20of%20payment%20of%20retired%20pay%20of%20members%20who%20are%20absent%20from%20the%20United%20States%20to%20avoid%20prosecution.md)
 - [&sect; 00425 - Board for Correction of Military Records deadline](%C2%A7%2000425%20-%20Board%20for%20Correction%20of%20Military%20Records%20deadline.md)
+- [&sect; 00426 - Emergency leave retention authority](%C2%A7%2000426%20-%20Emergency%20leave%20retention%20authority.md)

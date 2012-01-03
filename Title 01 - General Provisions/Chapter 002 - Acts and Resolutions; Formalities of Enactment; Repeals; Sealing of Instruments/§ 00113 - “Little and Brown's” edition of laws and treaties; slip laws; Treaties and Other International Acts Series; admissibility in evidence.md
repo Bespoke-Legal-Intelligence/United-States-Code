@@ -6,9 +6,9 @@ The edition of the laws and treaties of the United States, published by Little a
 
 #### Amendments
 
-1984—Pub. L. 98–497 substituted “Archivist of the United States” for “Administrator of General Services”.
+<b>1984</b>—Pub. L. 98–497 substituted “Archivist of the United States” for “Administrator of General Services”.
 
-1966—Pub. L. 89–497 made slip laws and the Treaties and Other International Acts Series competent legal evidence of the several acts of Congress and the treaties and other international agreements contained therein.
+<b>1966</b>—Pub. L. 89–497 made slip laws and the Treaties and Other International Acts Series competent legal evidence of the several acts of Congress and the treaties and other international agreements contained therein.
 
 #### Effective Date of 1984 Amendment
 

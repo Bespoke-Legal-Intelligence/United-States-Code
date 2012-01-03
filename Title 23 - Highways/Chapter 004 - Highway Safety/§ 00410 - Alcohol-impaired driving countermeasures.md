@@ -20,7 +20,7 @@ Federal share.—The Federal share of the cost of implementing and enforcing in 
 
 &emsp;&emsp;(B) in each of the third and fourth fiscal years in which the State receives a grant under this section, 50 percent; and
 
-&emsp;&emsp;(C) in each of the fifth through tenth fiscal years in which the State receives a grant under this section, 25 percent.
+&emsp;&emsp;(C) in each of the fifth through eleventh fiscal years in which the State receives a grant under this section, 25 percent.
 
 (b)
 
@@ -32,7 +32,7 @@ Eligibility Requirements.—To be eligible for a grant under subsection (a), a S
 
 &emsp;(B) for fiscal year 2007 by carrying out 4 of the programs and activities under subsection (c); or
 
-&emsp;(C) for fiscal years 2008, 2009, 2010, and 2011 by carrying out 5 of the programs and activities under subsection (c).
+&emsp;(C) for each of fiscal years 2008 through 2012 by carrying out 5 of the programs and activities under subsection (c).
 
 (c)
 
@@ -204,7 +204,7 @@ Impaired operator.—The term “impaired operator” means a person who, while 
 
 Impaired driving related fatality rate.—The term “impaired driving related fatality rate” means the rate of alcohol related fatalities, as calculated in accordance with regulations which the Administrator of the National Highway Traffic Safety Administration shall prescribe.
 
-(Added Pub. L. 100–690, title IX, §9002(a), Nov. 18, 1988, 102 Stat. 4521; amended Pub. L. 101–516, title III, §336, Nov. 5, 1990, 104 Stat. 2186; Pub. L. 102–240, title II, §2004(a), Dec. 18, 1991, 105 Stat. 2073; Pub. L. 102–388, title VI, §§601–606, Oct. 6, 1992, 106 Stat. 1569, 1570; Pub. L. 104–59, title III, §324, Nov. 28, 1995, 109 Stat. 591; Pub. L. 105–18, title II, §8003, June 12, 1997, 111 Stat. 195; Pub. L. 105–130, §6(b), Dec. 1, 1997, 111 Stat. 2558; Pub. L. 105–178, title II, §2004(a), June 9, 1998, 112 Stat. 328; Pub. L. 108–88, §6(e)(1), Sept. 30, 2003, 117 Stat. 1120; Pub. L. 108–310, §6(e)(1), Sept. 30, 2004, 118 Stat. 1152; Pub. L. 109–59, title II, §2007(a), (b), Aug. 10, 2005, 119 Stat. 1529; Pub. L. 110–244, title III, §303(c)(2), (3), June 6, 2008, 122 Stat. 1619; Pub. L. 111–147, title IV, §421(f)(1), Mar. 18, 2010, 124 Stat. 85.)
+(Added Pub. L. 100–690, title IX, §9002(a), Nov. 18, 1988, 102 Stat. 4521; amended Pub. L. 101–516, title III, §336, Nov. 5, 1990, 104 Stat. 2186; Pub. L. 102–240, title II, §2004(a), Dec. 18, 1991, 105 Stat. 2073; Pub. L. 102–388, title VI, §§601–606, Oct. 6, 1992, 106 Stat. 1569, 1570; Pub. L. 104–59, title III, §324, Nov. 28, 1995, 109 Stat. 591; Pub. L. 105–18, title II, §8003, June 12, 1997, 111 Stat. 195; Pub. L. 105–130, §6(b), Dec. 1, 1997, 111 Stat. 2558; Pub. L. 105–178, title II, §2004(a), June 9, 1998, 112 Stat. 328; Pub. L. 108–88, §6(e)(1), Sept. 30, 2003, 117 Stat. 1120; Pub. L. 108–310, §6(e)(1), Sept. 30, 2004, 118 Stat. 1152; Pub. L. 109–59, title II, §2007(a), (b), Aug. 10, 2005, 119 Stat. 1529; Pub. L. 110–244, title III, §303(c)(2), (3), June 6, 2008, 122 Stat. 1619; Pub. L. 111–147, title IV, §421(f)(1), Mar. 18, 2010, 124 Stat. 85; Pub. L. 112–30, title I, §121(f)(1), Sept. 16, 2011, 125 Stat. 347.)
 
 #### References in Text
 
@@ -213,6 +213,10 @@ The date of enactment of the SAFETEA–LU, referred to in subsec. (a)(2), is the
 The date of enactment of the Transportation Equity Act for the 21st Century, referred to in subsec. (c)(7)(A), is the date of enactment of Pub. L. 105–178, which was approved June 9, 1998.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (a)(3)(C). Pub. L. 112–30, §121(f)(1)(A), substituted “in each of the fifth through eleventh fiscal years” for “in each of the fifth through tenth fiscal years”.
+
+Subsec. (b)(2)(C). Pub. L. 112–30, §121(f)(1)(B), substituted “each of fiscal years 2008 through 2012” for “fiscal years 2008, 2009, 2010, and 2011”.
 
 <b>2010</b>—Subsec. (a)(3)(C). Pub. L. 111–147, §421(f)(1)(A), which directed the substitution of “fifth through tenth” for “fifth, sixth, seventh, and eighth”, was executed by making the substitution for “fifth, sixth,, seventh, and eighth” to reflect the probable intent of Congress.
 
@@ -324,7 +328,7 @@ Amendment by Pub. L. 102–240, except as otherwise provided, effective Dec. 18,
 
 #### Regulations
 
-Pub. L. 109–59, title II, §2007(c), Aug. 10, 2005, 119 Stat. 1533, provided that: “Not later than 12 months after the date of enactment of this Act \[Aug. 10, 2005\], the National Highway Traffic Safety Administration shall issue guidelines to the States specifying the types and formats of data that States should collect relating to drivers who are arrested or convicted for violation of laws prohibiting the impaired operation of motor vehicles.”
+Pub. L. 109–59, title II, §2007(c), Aug. 10, 2005, 119 Stat. 1533, provided that: “Not later than 12 months after thedate of enactment of this Act \[Aug. 10, 2005\], the National Highway Traffic Safety Administration shall issue guidelines to the States specifying the types and formats of data that States should collect relating to drivers who are arrested or convicted for violation of laws prohibiting the impaired operation of motor vehicles.”
 
 Pub. L. 100–690, title IX, §9002(c), Nov. 18, 1988, 102 Stat. 4525, provided that: “The Secretary of Transportation shall issue and publish in the Federal Register proposed regulations to implement section 410 of title 23, United States Code, not later than 6 months after the date of the enactment of this section \[Nov. 18, 1988\]. The final regulations for such implementation shall be issued, published in the Federal Register, and transmitted to Congress not later than 12 months after such date of enactment.”
 

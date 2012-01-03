@@ -24,7 +24,7 @@
 
 #### (C) Avoidance of conflict of interest of contractors
 
-&emsp;&emsp;Freight agents employed by the Secretary or the Commodity Credit Corporation under subchapter II of this chapter shall not represent any foreign government during the period of their contract with the United States Government.
+&emsp;&emsp;Freight agents employed by the Secretary or the Commodity Credit Corporation undersubchapter II of this chapter shall not represent any foreign government during the period of their contract with the United States Government.
 
 #### (2) Reasonable fees and commissions
 
@@ -46,7 +46,7 @@
 
 #### (4) Avoidance of conflict of interest
 
-&emsp;A person may not be an agent, broker, consultant, or other representative of the UnitedStates Government, an importer, or an importing country in connection with agricultural commodities provided under this chapter during a fiscal year in which such person provides or acts as an agent, broker, consultant, or other representative of a person engaged in providing ocean transportation or transportation-related services for such commodities. For the purpose of this paragraph, the term “transportation-related services” means lightening, stevedoring, bagging, or inland transportation to the destination point.
+&emsp;A person may not be an agent, broker, consultant, or other representative of the United States Government, an importer, or an importing country in connection with agricultural commodities provided under this chapter during a fiscal year in which such person provides or acts as an agent, broker, consultant, or other representative of a person engaged in providing ocean transportation or transportation-related services for such commodities. For the purpose of this paragraph, the term “transportation-related services” means lightening, stevedoring, bagging, or inland transportation to the destination point.
 
 #### (c) Subchapters III and III–A program
 
@@ -90,7 +90,7 @@
 
 #### (d) Timing of shipments
 
-In determining the timing of the shipment of agricultural commodities to be provided under this chapter, the Secretary or the Administrator, as appropriate, shall consider—
+In determining the timing of the shipment of agricultural commodities to be provided underthis chapter, the Secretary or the Administrator, as appropriate, shall consider—
 
 &emsp;(1) the time of harvest of any competing commodities in the recipient country; and
 
@@ -118,7 +118,7 @@ An agreement under subchapters II and III–A of this chapter shall, to the exte
 
 &emsp;&emsp;An annual report described in subparagraph (A) shall include, with respect to the prior fiscal year—
 
-&emsp;&emsp;&emsp;(i) a list that contains a description of each country and organization that receives food and other assistance under thischapter (including the quantity of food and assistance provided to each country and organization);
+&emsp;&emsp;&emsp;(i) a list that contains a description of each country and organization that receives food and other assistance under this chapter (including the quantity of food and assistance provided to each country and organization);
 
 &emsp;&emsp;&emsp;(ii) a general description of each project and activity implemented under this chapter (including each activity funded through the use of local currencies);
 
@@ -166,19 +166,19 @@ In subsec. (c)(2), “chapters 1 to 11 of title 40 and division C (except sectio
 
 #### Amendments
 
-2008—Subsec. (c)(4). Pub. L. 110–246, §3017(1), designated existing provisions as subpar. (A), inserted heading, substituted “2012” for “2007” and “$10,000,000” for “$2,000,000”, and added subpar. (B).
+<b>2008</b>—Subsec. (c)(4). Pub. L. 110–246, §3017(1), designated existing provisions as subpar. (A), inserted heading, substituted “2012” for “2007” and “$10,000,000” for “$2,000,000”, and added subpar. (B).
 
 Subsec. (c)(5). Pub. L. 110–246, §3017(2), added par. (5).
 
 Subsec. (f). Pub. L. 110–246, §3018(a), added subsec. (f) and struck out former subsec. (f) which directed President to prepare an annual report concerning programs and activities implemented under this chapter for the preceding fiscal year, described contents of report, and directed that it be submitted not later than Jan. 15 of each year to the Committee on Agriculture and the Committee on Foreign Affairs of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.
 
-2002—Subsec. (c)(1). Pub. L. 107–171, §3011, designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+<b>2002</b>—Subsec. (c)(1). Pub. L. 107–171, §3011, designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
 Subsec. (c)(4). Pub. L. 107–171, §3010, substituted “through 2007” for “and 2002”.
 
-2000—Subsec. (c)(4). Pub. L. 106–472 added par. (4).
+<b>2000</b>—Subsec. (c)(4). Pub. L. 106–472 added par. (4).
 
-1996—Pub. L. 104–127, §216(2)–(5), which directed amendment of subsecs. (c), (d), (g), and (h), respectively, of this section, was executed to subsecs. (b), (c), (f), and (g), respectively, of this section, to reflect the probable intent of Congress and the intervening amendment by Pub. L. 104–66 which struck out subsec. (b) and redesignated subsecs. (c) to (h) as (b) to (g), respectively. See 1995 Amendment note below.
+<b>1996</b>—Pub. L. 104–127, §216(2)–(5), which directed amendment of subsecs. (c), (d), (g), and (h), respectively, of this section, was executed to subsecs. (b), (c), (f), and (g), respectively, of this section, to reflect the probable intent of Congress and the intervening amendment by Pub. L. 104–66 which struck out subsec. (b) and redesignated subsecs. (c) to (h) as (b) to (g), respectively. See 1995 Amendment note below.
 
 Subsec. (a)(1). Pub. L. 104–127, §216(1)(A), inserted “or private entity that enters into an agreement under subchapter II of this chapter” after “importing country”.
 
@@ -188,15 +188,15 @@ Subsec. (b)(1)(A), (2)(A). Pub. L. 104–127, §216(2), inserted “importer or�
 
 Subsec. (c)(2). Pub. L. 104–127, §216(3)(A), added par. (2) and struck out heading and text of former par. (2). Text read as follows: “No purchase of agricultural commodities from private stocks or purchase of ocean transportation services by the United States Government shall be financed under subchapters III and III–A of this chapter unless such purchases are made on the basis of full and open competition utilizing such procedures as are determined necessary and appropriate by the Administrator.”
 
-Subsec. (c)(4). Pub. L. 104–127, §216(3)(B), struck out heading and text of par. (4). Text read as follows: “Notwithstanding any provision of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.) or other similar provisions relating to the makingor performance of Federal Government contracts, the Administrator may procure ocean transportation services under this chapter under such full and open competitive procedures as the Administrator determines are necessary and appropriate.”
+Subsec. (c)(4). Pub. L. 104–127, §216(3)(B), struck out heading and text of par. (4). Text read as follows: “Notwithstanding any provision of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.) or other similar provisions relating to the making or performance of Federal Government contracts, the Administrator may procure ocean transportation services under this chapter under such full and open competitive procedures as the Administrator determines are necessary and appropriate.”
 
 Subsec. (f)(2)(D). Pub. L. 104–127, §216(4), added subpar. (D).
 
 Subsec. (g). Pub. L. 104–127, §216(5), struck out heading and text of subsec. (g). Text read as follows: “On World Food Day, October 16 of each year, the President shall submit to the appropriate committees of Congress a report, prepared with the assistance of the Secretary and the Administrator, assessing progress towards food security in each country receiving United States Government food assistance. Special emphasis should be given in such report to the nutritional status of the poorest populations in such countries.”
 
-1995—Subsecs. (b) to (h). Pub. L. 104–66 redesignated subsecs. (c) to (h) as (b) to (g), respectively, and struck out former subsec. (b) which required reporting of agricultural commodity or ocean transportation supplier fees.
+<b>1995</b>—Subsecs. (b) to (h). Pub. L. 104–66 redesignated subsecs. (c) to (h) as (b) to (g), respectively, and struck out former subsec. (b) which required reporting of agricultural commodity or ocean transportation supplier fees.
 
-1991—Subsec. (b)(1). Pub. L. 102–237, §329, struck out “or agricultural commodity donated” after “ocean transportation financed”.
+<b>1991</b>—Subsec. (b)(1). Pub. L. 102–237, §329, struck out “or agricultural commodity donated” after “ocean transportation financed”.
 
 Subsec. (c)(1)(A). Pub. L. 102–237, §324, substituted “subchapter II of this chapter” for “this section”.
 
@@ -210,13 +210,13 @@ Subsec. (d)(3). Pub. L. 102–237, §328(b), struck out “other” before “fo
 
 Subsec. (d)(4). Pub. L. 102–237, §332, substituted “the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.)” for “the Federal Property Act of 1949, as amended,”.
 
-1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions which established an Advisory Committee to survey the general policies relating to the administration of this chapter, including implementation of self-help provisions, uses to be made of foreign currencies, amount of currencies to be reserved in sales agreements for loans to private industry, rates of exchange, interest rates, and terms under which dollar credit sales are made.
+<b>1990</b>—Pub. L. 101–624 amended section generally, substituting present provisions for provisions which established an Advisory Committee to survey the general policies relating to the administration of this chapter, including implementation of self-help provisions, uses to be made of foreign currencies, amount of currencies to be reserved in sales agreements for loans to private industry, rates of exchange, interest rates, and terms under which dollar credit sales are made.
 
 Subsec. (c)(4). Pub. L. 101–508 substituted “providing ocean transportation or” for “providing ocean”.
 
-1975—Pub. L. 94–161 inserted “, or their designees (who shall be members of such committees or, in the case of members from the executive branch, who shall have been confirmed by the Senate)” in first sentence.
+<b>1975</b>—Pub. L. 94–161 inserted “, or their designees (who shall be members of such committees or, in the case of members from the executive branch, who shall have been confirmed by the Senate)” in first sentence.
 
-1968—Pub. L. 90–436 struck out provisions that the vice chairman and one ranking minority member of the specified House committees and the next ranking majority member and one ranking minority member of the specified Senate committees be members of the Advisory Committee, and inserted provisions requiring the Advisory Committee to meet not less than four times during each calendar year and setting forth the order of precedence at such meetings.
+<b>1968</b>—Pub. L. 90–436 struck out provisions that the vice chairman and one ranking minority member of the specified House committees and the next ranking majority member and one ranking minority member of the specified Senate committees be members of the Advisory Committee, and inserted provisions requiring the Advisory Committee to meet not less than four times during each calendar year and setting forth the order of precedence at such meetings.
 
 #### Effective Date of 2008 Amendment
 

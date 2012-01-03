@@ -42,7 +42,7 @@ A partner's distributive share of income, gain, loss, deduction, or credit (or i
 
 &emsp;&emsp;(A) property contributed by a partner (hereinafter referred to as the “contributing partner”) is distributed by the partnership to another partner, and
 
-&emsp;&emsp;(B) other property of a like kind (within the meaning of section 1031) is distributed bythe partnership to the contributing partner not later than the earlier of—
+&emsp;&emsp;(B) other property of a like kind (within the meaning of section 1031) is distributed by the partnership to the contributing partner not later than the earlier of—
 
 &emsp;&emsp;&emsp;(i) the 180th day after the date of the distribution described in subparagraph (A), or
 
@@ -56,7 +56,7 @@ A partner's distributive share of income, gain, loss, deduction, or credit (or i
 
 #### (d) Limitation on allowance of losses
 
-A partner's distributive share of partnership loss (including capital loss) shall be allowed only to the extent of the adjusted basis of such partner's interest in the partnership at the end of the partnership year in which such loss occurred. Any excess of such loss over such basis shall be allowed as a deduction at the end of the partnership year in which such excess is repaid to the partnership.
+A partner's distributive share of partnership loss (including capital loss) shall be allowed only to the extent of the adjusted basis of suchpartner's interest in the partnership at the end of the partnership year in which such loss occurred. Any excess of such loss over such basis shall be allowed as a deduction at the end of the partnership year in which such excess is repaid to the partnership.
 
 #### (e) Family partnerships
 

@@ -92,7 +92,7 @@ The Authority shall—
 
 &emsp;(2) not later than 220 days after December 21, 2000, establish priorities in a development plan for the region (including 5-year regional outcome targets);
 
-&emsp;(3) assess the needs and assets of the region based on available research, demonstrations, investigations, assessments, and evaluations of the region prepared by Federal, State, and local agencies, universities, local development districts, and other nonprofit groups;
+&emsp;(3) assess the needs and assets of the region based on available research, demonstrations,investigations, assessments, and evaluations of the region prepared by Federal, State, and local agencies, universities, local development districts, and other nonprofit groups;
 
 &emsp;(4) formulate and recommend to the Governors and legislatures of States that participate in the Authority forms of interstate cooperation;
 
@@ -118,7 +118,7 @@ In carrying out subsection (d) of this section, the Authority may—
 
 &emsp;(4) adopt, amend, and repeal bylaws, rules, and regulations governing the conduct of Authority business and the performance of Authority duties;
 
-&emsp;(5) request the head of any Federal department or agency to detail to the Authority such personnel as the Authority requires to carry out duties of the Authority, each suchdetail to be without loss of seniority, pay, or other employee status;
+&emsp;(5) request the head of any Federal department or agency to detail to the Authority such personnel as the Authority requires to carry out duties of the Authority, each such detail to be without loss of seniority, pay, or other employee status;
 
 &emsp;(6) request the head of any State department or agency or local government to detail to the Authority such personnel as the Authority requires to carry out duties of the Authority, each such detail to be without loss of seniority, pay, or other employee status;
 
@@ -224,7 +224,7 @@ A Federal agency shall—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Authority may appoint and fix the compensation of an executive director andsuch other personnel as are necessary to enable the Authority to carry out the duties of the Authority.
+&emsp;&emsp;&emsp;The Authority may appoint and fix the compensation of an executive director and such other personnel as are necessary to enable the Authority to carry out the duties of the Authority.
 
 #### (ii) Exception
 
@@ -274,13 +274,13 @@ A Federal agency shall—
 
 #### (j) Validity of contracts, loans, and grants
 
-The Authority may declare void any contract, loan, or grant of or by the Authority in relation to which the Authority determines that there has been a violation of any provision under subsection (h)(4) of this section, subsection (i) of this section, or sections 202 through 209 of title 18.
+The Authority may declare void any contract, loan, or grant of or by the Authority in relation to which the Authority determines that therehas been a violation of any provision under subsection (h)(4) of this section, subsection (i) of this section, or sections 202 through 209 of title 18.
 
 (Pub. L. 87–128, title III, §382B, as added Pub. L. 106–554, §1(a)(4) \[div. B, title V, §503\], Dec. 21, 2000, 114 Stat. 2763, 2763A–269; amended Pub. L. 107–171, title VI, §6027(a), (b), May 13, 2002, 116 Stat. 373; Pub. L. 108–447, div. C, title V, §506, Dec. 8, 2004, 118 Stat. 2963; Pub. L. 111–85, title IV, §402, Oct. 28, 2009, 123 Stat. 2878.)
 
 #### Amendments
 
-2009—Subsec. (c)(1). Pub. L. 111–85, which directed amendment of section 382B(c) of the Delta Regional Authority Act of 2000 by adding par. (1) and striking out former par. (1), was executed to this section, which is section 382B of the Consolidated Farm and Rural Development Act, to reflect the probable intent of Congress. Prior to amendment, text read as follows:
+<b>2009</b>—Subsec. (c)(1). Pub. L. 111–85, which directed amendment of section 382B(c) of the Delta Regional Authority Act of 2000 by adding par. (1) and striking out former par. (1), was executed to this section, which is section 382B of the Consolidated Farm and Rural Development Act, to reflect the probable intent of Congress. Prior to amendment, text read as follows:
 
 “(A)
 
@@ -290,11 +290,11 @@ Temporary method.—During the period beginning on May 13, 2002, and ending on D
 
 Permanent method.—Effective beginning on January 1, 2009, a decision by the Authority shall require a majority vote of the Authority (not including any member representing a State that is delinquent under subsection (g)(2)(C) of this section) to be effective.”
 
-2004—Subsec. (c)(1)(A). Pub. L. 108–447, §506(1), substituted “2008” for “2004”.
+<b>2004</b>—Subsec. (c)(1)(A). Pub. L. 108–447, §506(1), substituted “2008” for “2004”.
 
 Subsec. (c)(1)(B). Pub. L. 108–447, §506(2), substituted “2009” for “2005”.
 
-2002—Subsec. (c)(1). Pub. L. 107–171, §6027(a), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “A decision by the Authority shall require a majority vote of the Authority (not including any member representing a State that is delinquent under subsection (g)(2)(C) of this section) to be effective.”
+<b>2002</b>—Subsec. (c)(1). Pub. L. 107–171, §6027(a), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “A decision by the Authority shall require a majority vote of the Authority (not including any member representing a State that is delinquent under subsection (g)(2)(C) of this section) to be effective.”
 
 Subsec. (e)(4). Pub. L. 107–171, §6027(b), substituted “, rules, and regulations” for “and rules”.
 

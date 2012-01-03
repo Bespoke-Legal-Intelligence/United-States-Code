@@ -42,7 +42,7 @@ Section 786, added Pub. L. 85–861, §5(2), Sept. 2, 1958, 72 Stat. 1552, relat
 
 Section 787, added Pub. L. 85–861, §5(2), Sept. 2, 1958, 72 Stat. 1552; amended Pub. L. 91–402, §1(10), Sept. 18, 1970, 84 Stat. 841; Pub. L. 93–174, §2(7), Dec. 5, 1973, 87 Stat. 692, related to failure of selection and elimination. See section 740 of this title.
 
-Section 787a, added Pub. L. 86–559, §2(3), June 30, 1960, 74 Stat. 281, provided for elimination from active statusof excessive numbers to provide a flow of promotions. See section 741 of this title.
+Section 787a, added Pub. L. 86–559, §2(3), June 30, 1960, 74 Stat. 281, provided for elimination from active status of excessive numbers to provide a flow of promotions. See section 741 of this title.
 
 Section 788, added Pub. L. 85–861, §5(2), Sept. 2, 1958, 72 Stat. 1553, related to effect of removal by President or failure of consent of Senate. See section 738 of this title.
 

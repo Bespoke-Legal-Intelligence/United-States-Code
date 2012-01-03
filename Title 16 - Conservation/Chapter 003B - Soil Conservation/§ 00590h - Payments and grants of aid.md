@@ -40,7 +40,7 @@
 
 #### (II) Combination or consolidation of areas
 
-&emsp;&emsp;&emsp;&emsp;A committee established by combining or consolidating 2 or more county or area committees shall consist of not fewer than 3 nor more than 11 members that—
+&emsp;&emsp;&emsp;&emsp;A committee established by combining or consolidating 2 or more county or area committees shall consist of notfewer than 3 nor more than 11 members that—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) are fairly representative of the agricultural producers within the area covered by the county, area, or local committee; and
 
@@ -108,7 +108,7 @@
 
 #### (VI) National report
 
-&emsp;&emsp;&emsp;&emsp;Not later than 90 days after the date on which the first election of a county, area, or local committee that occurs after May 13, 2002, is held, the Secretary shall complete a report that consolidatesall the election data reported to the Secretary under subclause (V).
+&emsp;&emsp;&emsp;&emsp;Not later than 90 days after the date on which the first election of a county, area, or local committee that occurs after May 13, 2002, is held, the Secretary shall complete a report that consolidates all the election data reported to the Secretary under subclause (V).
 
 #### (VII) Election reform
 
@@ -118,7 +118,7 @@
 
 #### (bb) Inclusion
 
-&emsp;&emsp;&emsp;&emsp;&emsp;The procedures promulgated by the Secretary under item (aa) shall ensure fair representation of socially disadvantaged groups described in subclause (III)(bb) in an area covered by the county, area, or local committee, in cases in which those groups are underrepresented on the county, area, or local committee for that area.
+&emsp;&emsp;&emsp;&emsp;&emsp;The procedures promulgated by the Secretary under item (aa) shall ensure fair representation of socially disadvantaged groups described in subclause (III)(bb) in an area covered by the county, area, or local committee,in cases in which those groups are underrepresented on the county, area, or local committee for that area.
 
 #### (cc) Methods of inclusion
 
@@ -182,7 +182,7 @@
 
 (1) In apportioning acreage allotments under this section in the case of wheat and corn, the National and State allotments and the allotments to counties shall be apportioned annually on the basis of the acreage seeded for the production of the commodity during the ten calendar years immediately preceding the calendar year in which the national acreage allotment is determined (plus, in applicable years, the acreage diverted under previous agricultural adjustment and conservation programs), with adjustments for abnormal weather conditions and trends in acreage during the applicable period.
 
-(2) In the case of wheat, the allotment to any county shall be apportioned annually by the Secretary, through the local committees, among the farms within such county on the basis of tillable acres, crop-rotation practices, type of soil, and topography. Not more than 3 per centum of such county allotment shall be apportioned to farms on which wheat has not been planted during any of the three marketing years immediately preceding the marketing year in which the allotment is made. Notwithstanding any other provision of this section, the allotments established, or which would have been established, for any farm acquired in 1940 or thereafter by the United States for national-defense purposes shall be placed in an allotment pool and shall be used only to establish allotments for other farms owned or acquired by the owner of the farm so acquired by the United States. The allotments so made for any farm, including a farm on which wheat has not been planted during any of the three marketing years preceding the marketing year in which the allotment is made, shall compare with the allotments established for other farms in the same area which are similar except for the past acreage of wheat.
+(2) In the case of wheat, the allotment to any county shall be apportioned annually by the Secretary, through the local committees, among the farms within such county on the basis of tillable acres, crop-rotation practices, type of soil, and topography. Not more than 3 per centum of such county allotment shall be apportioned to farms on which wheat has not been planted during any of the three marketing years immediately preceding the marketing year in which the allotment is made. Notwithstanding any other provision of this section, the allotments established, or which would have been established, for any farm acquired in 1940 or thereafter by the United States for national-defensepurposes shall be placed in an allotment pool and shall be used only to establish allotments for other farms owned or acquired by the owner of the farm so acquired by the United States. The allotments so made for any farm, including a farm on which wheat has not been planted during any of the three marketing years preceding the marketing year in which the allotment is made, shall compare with the allotments established for other farms in the same area which are similar except for the past acreage of wheat.
 
 (3) In the case of corn, the allotment to any county shall be apportioned annually by the Secretary, through the local committees, among the farms within such county on the basis of tillable acreage, type of soil, topography, and crop rotation practices.
 
@@ -202,7 +202,7 @@ A payment that may be made to a producer under this section may be assigned only
 
 #### References in Text
 
-The Food Security Act of 1985, referred to in subsec. (b)(1), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, asamended. Chapter 4 of subtitle D of title XII of the Act is classified generally to part IV (§3839aa et seq.) of subchapter IV of chapter 58 of this title. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of Title 7, Agriculture, and Tables.
+The Food Security Act of 1985, referred to in subsec. (b)(1), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. Chapter 4 of subtitle D of title XII of the Act is classified generally to part IV (§3839aa et seq.) of subchapter IV of chapter 58 of this title. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of Title 7, Agriculture, and Tables.
 
 The Consolidated Farm and Rural Development Act, referred to in subsec. (b)(5)(D), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to chapter 50 (§1921 et seq.) of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of Title 7 and Tables.
 
@@ -214,7 +214,7 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b)(5)(B)(ii). Pub. L. 110–246, §1615, designated existing provisions as subcl. (I), inserted heading, substituted “Except as provided in subclause (II), a committee established” for “A committee established” in introductory provisions, redesignated former subcls. (I) and (II) as items (aa) and (bb), respectively, and added subcls. (II) to (IV).
+<b>2008</b>—Subsec. (b)(5)(B)(ii). Pub. L. 110–246, §1615, designated existing provisions as subcl. (I), inserted heading, substituted “Except as provided in subclause (II), a committee established” for “A committee established” in introductory provisions, redesignated formersubcls. (I) and (II) as items (aa) and (bb), respectively, and added subcls. (II) to (IV).
 
 <b>2002</b>—Subsec. (b)(5)(B). Pub. L. 107–171 added subpar. (B) and struck out former subpar. (B) which read as follows:
 
@@ -248,7 +248,7 @@ Pub. L. 99–253, in fifth par., substituted “local committee” for “commun
 
 <b>1985</b>—Subsec. (b). Pub. L. 99–198, §1712, in first sentence of fifth par., substituted “In carrying out the provisions of this section in the States of the Union, except Alaska, and as otherwise directed by law with respect to other programs and functions, the Secretary is directed to utilize the services of local and State committees selected as hereinafter provided; and the Secretary may use the services of such committees in carrying out other programs and functions of the Department of Agriculture” for “In carrying out the provisions of this section in the States of the Union, except Alaska, the Secretary is directed to utilize the services of local and State committees selected as hereinafter provided”.
 
-Pub. L. 99–198, §1711(a)(1), in third sentence of fifth par., substituted “There shall be 3 local administrativeareas in each county, except that, in counties with less than one hundred and fifty farmers, the county committee selected as hereinafter provided may reduce the number of local administrative areas to one, and except that the Secretary may include more than one county or parts of different counties in a local administrative area when the Secretary determines that there are insufficient farmers in an area to establish a slate of candidates for a community committee and hold an election” for “No such local area shall include more than one county or parts of different counties”.
+Pub. L. 99–198, §1711(a)(1), in third sentence of fifth par., substituted “There shall be 3 local administrative areas in each county, except that, in counties with less than one hundred and fifty farmers, the county committee selected as hereinafter provided may reduce the number of local administrative areas to one, and except that the Secretary may include more than one county or parts of different counties in a local administrative area when the Secretary determines that there are insufficient farmers in an area to establish a slate of candidates for a community committee and hold an election” for “No such local area shall include more than one county or parts of different counties”.
 
 Pub. L. 99–198, §1711(a)(2), in fourth sentence of fifth par., struck out “annually” after “shall elect”.
 
@@ -316,7 +316,7 @@ Subsec. (b). Act June 21, 1941, inserted par. beginning “Notwithstanding any o
 
 Subsec. (f). Act May 14, 1940, struck out last sentence which provided “Such limitations shall apply only if the county committee finds that the change or reduction is not justified and disapproves such change or reduction” and substituted last two sentences.
 
-<b>1939</b>—Subsec. (c)(4). Act Apr. 10, 1939, repealed par. (4) which provided “Notwithstanding any other provision of this subsection, if, for any reason other than flood or drought, the acreage of wheat, cotton, corn, or rice planted on the farm is less than 80 per centum of the farm acreage allotment for such commodity for the purpose of payment, such farm acreage allotment shall be 25 per centum in excess of such planted acreage”.
+<b>1939</b>—Subsec. (c)(4). Act Apr. 10, 1939, repealed par. (4) which provided “Notwithstanding any other provision of this subsection, if, for any reason other than flood ordrought, the acreage of wheat, cotton, corn, or rice planted on the farm is less than 80 per centum of the farm acreage allotment for such commodity for the purpose of payment, such farm acreage allotment shall be 25 per centum in excess of such planted acreage”.
 
 <b>1938</b>—Subsecs. (b) and (c) amended generally by act Feb. 16, 1938.
 

@@ -32,7 +32,7 @@
 | [7139\.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20Department/%C2%A7%2007139%20-%20Office%20of%20Science%3B%20establishment%3B%20appointment%20of%20Director%3B%20compensation%3B%20duties.md) | Office of Science; establishment; appointment of Director; compensation; duties. |
 | [7140\.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20Department/%C2%A7%2007140%20-%20Leasing%20Liaison%20Committee%3B%20establishment%3B%20composition.md) | Leasing Liaison Committee; establishment; composition. |
 | [7141\.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20Department/%C2%A7%2007141%20-%20Office%20of%20Minority%20Economic%20Impact.md) | Office of Minority Economic Impact. |
-| [7142\.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20Department/%C2%A7%2007142%20-%20National%20Atomic%20Museum.md) | National Atomic Museum. |
+| [7142\.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20Department/%C2%A7%2007142%20-%20National%20Atomic%20Museum%20and%20National%20Atomic%20Testing%20Museum.md) | National Atomic Museum and National Atomic Testing Museum. |
 | [7142a.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20Department/%C2%A7%2007142a%20-%20Designation%20of%20American%20Museum%20of%20Science%20and%20Energy.md) | Designation of American Museum of Science and Energy. |
 | [7142b.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20Department/%C2%A7%2007142b%20-%20Authority.md) | Authority. |
 | [7142c.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20Department/%C2%A7%2007142c%20-%20Museum%20volunteers.md) | Museum volunteers. |
@@ -180,6 +180,7 @@
 | [7277\.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007277%20-%20Report%20concerning%20review%20of%20United%20States%20coal%20imports.md) | Report concerning review of United States coal imports. |
 | [7278\.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007278%20-%20Availability%20of%20appropriations%20for%20Department%20of%20Energy%20for%20transportation%2C%20uniforms%2C%20security%2C%20and%20price%20support%20and%20loan%20guarantee%E2%80%A6.md) | Availability of appropriations for Department of Energy for transportation, uniforms, security, and price support and loan guarantee programs; transfer of funds; acceptance of contributions. |
 | [7279\.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007279%20-%20Identification%20in%20budget%20materials%20of%20amounts%20for%20certain%20Department%20of%20Energy%20pension%20obligations.md) | Identification in budget materials of amounts for certain Department of Energy pension obligations. |
+| [7279a.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007279a%20-%20Future-years%20energy%20program%20annual%20submission%20and%20budgeting.md) | Future-years energy program annual submission and budgeting. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

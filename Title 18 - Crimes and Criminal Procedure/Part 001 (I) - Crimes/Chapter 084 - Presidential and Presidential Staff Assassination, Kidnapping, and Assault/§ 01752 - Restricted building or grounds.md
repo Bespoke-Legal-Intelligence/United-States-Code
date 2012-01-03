@@ -10,7 +10,7 @@
 
 &emsp;(4) willfully and knowingly to obstruct or impede ingress or egress to or from any building, grounds, or area described in paragraph (1) or (2); or
 
-&emsp;(5) willfully and knowingly to engage in any act of physical violence against any person or property in any building, grounds, or area described in paragraph (1) or (2).
+&emsp;(5) willfully and knowingly to engage in any act of physical violence against any person orproperty in any building, grounds, or area described in paragraph (1) or (2).
 
 (b) Violation of this section, and attempts or conspiracies to commit such violations, shall be punishable by—
 

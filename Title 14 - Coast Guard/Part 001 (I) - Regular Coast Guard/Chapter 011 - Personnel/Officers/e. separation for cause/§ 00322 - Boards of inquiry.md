@@ -12,5 +12,5 @@
 
 #### Amendments
 
-1982—Subsec. (d). Pub. L. 97–295 inserted “of this title” after “section 321”.
+<b>1982</b>—Subsec. (d). Pub. L. 97–295 inserted “of this title” after “section 321”.
 

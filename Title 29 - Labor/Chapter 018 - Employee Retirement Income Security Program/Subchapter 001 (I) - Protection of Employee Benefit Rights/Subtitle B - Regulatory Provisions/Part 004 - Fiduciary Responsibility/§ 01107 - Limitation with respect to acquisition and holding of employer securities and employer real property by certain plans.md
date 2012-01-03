@@ -26,7 +26,7 @@ Except as otherwise provided in this section and section 1114 of this title:
 
 &emsp;(4)(A) After December 31, 1979, a plan may not hold any employer securities or employer real property in excess of the amount specified in regulations under subparagraph (B). This subparagraph shall not apply to a plan after the earliest date after December 31, 1974, on which it complies with such regulations.
 
-&emsp;(B) Not later than December 31, 1976, the Secretary shall prescribe regulations which shall have the effect of requiring that a plan divest itself of 50 percent of the holdings of employer securities and employer real property which the plan would be required to divest before January 1, 1985, under paragraph (2) or subsection (c) of this section (whichever is applicable).
+&emsp;(B) Not later than December 31, 1976, the Secretary shall prescribe regulations which shall have the effect of requiring that a plan divest itself of 50 percent of the holdings of employer securities and employer real property which the plan would be required to divest before January 1, 1985, under paragraph\(2) or subsection (c) of this section (whichever is applicable).
 
 #### (b) Exception
 
@@ -84,7 +84,7 @@ For purposes of this section—
 
 &emsp;(2) The term “employer real property” means real property (and related personal property) which is leased to an employer of employees covered by the plan, or to an affiliate of such employer. For purposes of determining the time at which a plan acquires employer real property for purposes of this section, such property shall be deemed to be acquired by the plan on the date on which the plan acquires the property or on the date on which the lease to the employer (or affiliate) is entered into, whichever is later.
 
-&emsp;(3)(A) The term “eligible individual account plan” means an individual account plan which is (i) a profit-sharing, stock bonus, thrift, or savings plan; (ii) an employee stock ownership plan; or (iii) a money purchase plan which was in existence on September 2, 1974, and which on such date invested primarily in qualifying employer securities. Such term excludes an individual retirement account or annuity described in section 408 of title 26.
+&emsp;(3)(A) The term “eligible individual account plan” means an individual account plan which is (i) a profit-sharing, stock bonus, thrift, or savings plan; (ii) an employee stock ownership plan; or (iii) a money purchase plan which was in existence on September 2, 1974, and which on such date invested primarily in qualifyingemployer securities. Such term excludes an individual retirement account or annuity described in section 408 of title 26.
 
 &emsp;(B) Notwithstanding subparagraph (A), a plan shall be treated as an eligible individual account plan with respect to the acquisition or holding of qualifying employer real property or qualifying employer securities only if such plan explicitly provides for acquisition and holding of qualifying employer securities or qualifying employer real property (as the case may be). In the case of a plan in existence on September 2, 1974, this subparagraph shall not take effect until January 1, 1976.
 

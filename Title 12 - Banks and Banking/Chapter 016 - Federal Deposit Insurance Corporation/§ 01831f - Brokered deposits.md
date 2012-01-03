@@ -96,13 +96,13 @@ An insured depository institution that is undercapitalized, as defined in sectio
 
 #### Amendments
 
-1994—Subsec. (g)(3). Pub. L. 103–325 inserted “that is not well capitalized (as defined in section 1831<i>o</i> of this title)” after “includes any insured depository institution”, substituted “of such institution” for “of any insured depository institution”, and struck out “(with respect to such deposits)” after “offering rates of interest” and “having the same type of charter” after “other insured depository institutions”.
+<b>1994</b>—Subsec. (g)(3). Pub. L. 103–325 inserted “that is not well capitalized (as defined in section 1831<i>o</i> of this title)” after “includes any insured depository institution”, substituted “of such institution” for “of any insured depository institution”, and struck out “(with respect to such deposits)” after “offering rates of interest” and “having the same type of charter” after “other insured depository institutions”.
 
-1992—Subsec. (a). Pub. L. 102–550, §1605(a)(1)(A), substituted “An insured” for “A insured”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–550, §1605(a)(1)(A), substituted “An insured” for “A insured”.
 
 Subsec. (c). Pub. L. 102–550, §1605(a)(1)(B), substituted “capitalized (but not well capitalized)” for “capitalized”.
 
-1991—Subsec. (a). Pub. L. 102–242, §301(a)(1), substituted “insured depository institution that is not well capitalized” for “troubled institution”.
+<b>1991</b>—Subsec. (a). Pub. L. 102–242, §301(a)(1), substituted “insured depository institution that is not well capitalized” for “troubled institution”.
 
 Subsec. (c). Pub. L. 102–242, §301(a)(2), substituted “insured depository institution which is adequately capitalized” for “insured depositary institution”.
 

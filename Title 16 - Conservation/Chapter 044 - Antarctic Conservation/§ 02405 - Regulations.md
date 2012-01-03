@@ -34,9 +34,9 @@ The Act to Prevent Pollution from Ships, referred to in subsec. (b), is Pub. L. 
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–227 reenacted section catchline without change and amended text generally. Prior to amendment, text consisted of subsec. (a) “In General” which related to requirement that Director prescribe regulations to implement this chapter and subsec. (b) “Specific Regulations” which related to required content of regulations.
+<b>1996</b>—Pub. L. 104–227 reenacted section catchline without change and amended text generally. Prior toamendment, text consisted of subsec. (a) “In General” which related to requirement that Director prescribe regulations to implement this chapter and subsec. (b) “Specific Regulations” which related to required content of regulations.
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security,and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

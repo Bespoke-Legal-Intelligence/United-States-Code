@@ -22,21 +22,23 @@ Contingency Planning; Preparedness.—(A) Providing for the preparation and revi
 
 &emsp;(B) Preparing joint logistic and mobility plans to support those contingency plans and recommending the assignment of logistic and mobility responsibilities to the armed forces in accordance with those logistic and mobility plans.
 
-&emsp;(C) Advising the Secretary on critical deficiencies and strengths in force capabilities (including manpower, logistic, and mobility support) identified during the preparation and review of contingency plans and assessing the effect of such deficiencies and strengths on meeting national security objectives and policy and on strategic plans.
+&emsp;(C) Identifying the support functions that are likely to require contractor performance under those contingency plans, and the risks associated with the assignment of such functions to contractors.
 
-&emsp;(D) Establishing and maintaining, after consultation with the commanders of the unified and specified combatant commands, a uniformsystem of evaluating the preparedness of each such command to carry out missions assigned to the command.
+&emsp;(D) Advising the Secretary on critical deficiencies and strengths in force capabilities (including manpower, logistic, and mobility support) identified during the preparation and review of contingency plans and assessing the effect of such deficiencies and strengths on meeting national security objectives and policy and on strategic plans.
+
+&emsp;(E) Establishing and maintaining, after consultation with the commanders of the unified and specified combatant commands, a uniform system of evaluating the preparedness of each such command to carry out missions assigned to the command.
 
 &emsp;(4)
 
 Advice on Requirements, Programs, and Budget.—(A) Advising the Secretary, under section 163(b)(2) of this title, on the priorities of the requirements identified by the commanders of the unified and specified combatant commands.
 
-&emsp;(B) Advising the Secretary on the extent to which the program recommendations and budget proposals of the military departments and other components of the Department of Defense for a fiscal year conform with the priorities established in strategic plans and with the priorities established for the requirements of the unified and specified combatant commands.
+&emsp;(B) Advising the Secretary on the extent to which the program recommendations and budget proposals of the military departments and other components of the Department of Defense for a fiscal year conform with the priorities established in strategic plans and withthe priorities established for the requirements of the unified and specified combatant commands.
 
 &emsp;(C) Submitting to the Secretary alternative program recommendations and budget proposals, within projected resource levels and guidance provided by the Secretary, in order to achieve greater conformance with the priorities referred to in clause (B).
 
 &emsp;(D) Recommending to the Secretary, in accordance with section 166 of this title, a budget proposal for activities of each unified and specified combatant command.
 
-&emsp;(E) Advising the Secretary on the extent to which the major programs and policies of the armed forces in the area of manpower conform with strategic plans.
+&emsp;(E) Advising the Secretary on the extent to which the major programs and policies of the armed forces in the area of manpower and contractor support conform with strategic plans.
 
 &emsp;(F) Assessing military requirements for defense acquisition programs.
 
@@ -56,9 +58,13 @@ Other Matters.—(A) Providing for representation of the United States on the Mi
 
 (b)
 
-Risks Under National Military Strategy.—(1) Not later than January 1 of each odd-numbered year, the Chairman shall submit to the Secretary of Defense a report providing the Chairman's assessment of the nature and magnitude of the strategic and military risks associated with executing the missions called for under the current National Military Strategy.
+Risks Under National Military Strategy.—(1) Not later than January 1 of each odd-numbered year, the Chairman shall submit to the Secretary of Defense a report providing the Chairman's assessment of—
 
-(2) The Secretary shall forward the report received under paragraph (1) in any year, with the Secretary's comments thereon (if any), to Congress with the Secretary's next transmission to Congress of the annual Department of Defense budget justification materials in support of the Department of Defense component of the budget of the President submitted under section 1105 of title 31 for the next fiscal year. If the Chairman's assessment in such report in any year is that risk associated with executing the missions called for under the National Military Strategy is significant, the Secretary shall include with the report as submitted to Congress the Secretary's plan for mitigating that risk.
+&emsp;(A) the nature and magnitude of the strategic and military risks associated with executing the missions called for under the current National Military Strategy; and
+
+&emsp;(B) the critical deficiencies and strengths in force capabilities (including manpower, logistics, intelligence, and mobility support) identified during the preparation and review of contingency plans of each geographic combatant commander, and the effect of such deficiencies and strengths on strategic plans and on meeting national security objectives and policy.
+
+(2) The Secretary shall forward the report received under paragraph (1) in any year, with the Secretary's comments thereon (if any), to Congress with the Secretary's next transmission to Congress of the annual Department of Defense budget justification materials in support of the Department of Defense component of the budget of the President submitted under section 1105 of title 31 for the next fiscal year. If the Chairman's assessment in such report in any year is that risk associated with executing the missions called for under the National Military Strategy is significant, or that critical deficiencies in force capabilities exist for a contingency plan, the Secretary shall include with the report as submitted to Congress the Secretary's plan for mitigating that risk or deficiency.
 
 (c)
 
@@ -94,7 +100,7 @@ Biennial Review of National Military Strategy.—(1) Not later then February 15 
 
 &emsp;(D) A description of the international threats posed by terrorism, weapons of mass destruction, and asymmetric challenges to United States national security.
 
-&emsp;(E) Identification of United States national military objectives and the relationship ofthose objectives to the strategic environment, regional, and international threats.
+&emsp;(E) Identification of United States national military objectives and the relationship of those objectives to the strategic environment, regional, and international threats.
 
 &emsp;(F) Identification of the strategy, underlying concepts, and component elements that contribute to the achievement of United States national military objectives.
 
@@ -102,15 +108,29 @@ Biennial Review of National Military Strategy.—(1) Not later then February 15 
 
 &emsp;(H) Assessment of the capabilities, adequacy, and interoperability of regional allies of the United States and or other friendly nations to support United States forces in combat operations and other operations for extended periods of time.
 
+&emsp;(I) Assessment of the requirements for contractor support of the armed forces in conducting peacetime training, peacekeeping, overseas contingency operations, and major combat operations, and the risks associated with such support.
+
 (3)(A) As part of the assessment under this subsection, the Chairman, in conjunction with the other members of the Joint Chiefs of Staff and the commanders of the unified and specified commands, shall undertake an assessment of the nature and magnitude of the strategic and military risks associated with successfully executing the missions called for under the current National Military Strategy.
 
-(B) In preparing the assessment of risk, the Chairman should make assumptions pertaining to the readiness of United States forces (in both the active and reserve components), the length of conflict and the level of intensity of combat operations, and the levels of support from allies and other friendly nations.
+(B) In preparing the assessment of risk, the Chairman should make assumptions pertaining to the readiness of United States forces (in both the active and reserve components), the length of conflict and the level of intensity of combat operations, the levels of support from allies and other friendly nations, and the levels of contractor support.
 
 (4) Before submitting a report under this subsection to the Committees on Armed Services of the Senate and House of Representatives, the Chairman shall provide the report to the Secretary of Defense. The Secretary's assessment and comments thereon (if any) shall be included with the report. If the Chairman's assessment in such report in any year is that the risk associated with executing the missions called for under the National Military Strategy is significant, the Secretary shall include with the report as submitted to those committees the Secretary's plan for mitigating the risk.
 
-(Added Pub. L. 99–433, title II, §201, Oct. 1, 1986, 100 Stat. 1007; amended Pub. L. 106–65, div. A, title X, §1033, Oct. 5, 1999, 113 Stat. 751; Pub. L. 106–398, §1 \[\[div. A\], title IX, §905\], Oct. 30, 2000, 114 Stat. 1654, 1654A–226; Pub. L. 107–107, div. A, title IX, §921(b), Dec. 28, 2001, 115 Stat. 1198; Pub. L. 107–314, div. A, title X, §1062(a)(1), Dec. 2, 2002, 116 Stat. 2649; Pub. L. 108–136, div. A, title IX, §903, title X, §1043(b)(2), Nov. 24, 2003, 117 Stat. 1558, 1610.)
+(Added Pub. L. 99–433, title II, §201, Oct. 1, 1986, 100 Stat. 1007; amended Pub. L. 106–65, div. A, title X, §1033, Oct. 5, 1999, 113 Stat. 751; Pub. L. 106–398, §1 \[\[div. A\], title IX, §905\], Oct. 30, 2000, 114 Stat. 1654, 1654A–226; Pub. L. 107–107, div. A, title IX, §921(b), Dec. 28, 2001, 115 Stat. 1198; Pub. L. 107–314, div. A, title X, §1062(a)(1), Dec. 2, 2002, 116 Stat. 2649; Pub. L. 108–136, div. A, title IX, §903, title X, §1043(b)(2), Nov. 24, 2003, 117 Stat. 1558, 1610; Pub. L. 112–81, div. A, title VIII, §820(b), title IX, §941, Dec. 31, 2011, 125 Stat. 1501, 1548.)
 
 #### Amendments
+
+<b>2011</b>—Subsec. (a)(3)(C) to (E). Pub. L. 112–81, §820(b)(1), added subpar. (C) and redesignated former subpars. (C) and (D) as (D) and (E), respectively.
+
+Subsec. (a)(4)(E). Pub. L. 112–81, §820(b)(2), inserted “and contractor support” after “area of manpower”.
+
+Subsec. (b)(1). Pub. L. 112–81, §941(1), substituted “assessment of—” for “assessment of the nature and magnitude of the strategic and military risks associated with executing the missions called for under the current National Military Strategy.” and added subpars. (A) and (B).
+
+Subsec. (b)(2). Pub. L. 112–81, §941(2), inserted “or that critical deficiencies in force capabilities exist for a contingency plan,” after “National Military Strategy is significant,” and “or deficiency” before period at end.
+
+Subsec. (d)(2)(I). Pub. L. 112–81, §820(b)(3)(A), added subpar. (I).
+
+Subsec. (d)(3)(B). Pub. L. 112–81, §820(b)(3)(B), substituted “the levels of support from allies and other friendly nations, and the levels of contractor support” for “and the levels of support from allies and other friendly nations”.
 
 <b>2003</b>—Subsec. (b)(1). Pub. L. 108–136, §903(b), substituted “of each odd-numbered year” for “each year”.
 

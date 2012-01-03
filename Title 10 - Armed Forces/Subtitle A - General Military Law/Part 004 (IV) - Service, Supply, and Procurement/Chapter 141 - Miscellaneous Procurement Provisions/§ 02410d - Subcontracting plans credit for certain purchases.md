@@ -8,7 +8,7 @@ Purchases Benefiting Severely Handicapped Persons.—In the case of a business c
 
 Definitions.—In this section:
 
-&emsp;(1) The term “small business subcontracting plan” means a plan negotiated pursuant tosection 8(d) of the Small Business Act (15 U.S.C. 637(d)) that establishes a goal for the participation of small business concerns as subcontractors under a contract.
+&emsp;(1) The term “small business subcontracting plan” means a plan negotiated pursuant to section 8(d) of the Small Business Act (15 U.S.C. 637(d)) that establishes a goal for the participation of small business concerns as subcontractors under a contract.
 
 &emsp;(2) The term “qualified nonprofit agency for the blind or other severely handicapped” means—
 

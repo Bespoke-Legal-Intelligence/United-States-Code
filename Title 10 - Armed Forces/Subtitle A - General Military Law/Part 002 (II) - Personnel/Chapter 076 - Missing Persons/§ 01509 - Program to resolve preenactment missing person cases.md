@@ -70,7 +70,7 @@ Review of Status Requirements.—(1) If new information (as described in paragra
 
 Coordination Requirements.—(1) In establishing and carrying out the program, the Secretary of Defense shall coordinate with the Secretaries of the military departments, the Chairman of the Joint Chiefs of Staff, and the commanders of the combatant commands.
 
-(2) In carrying out the program, the Secretary of Defense shall establish close coordinationwith the Department of State, the Central Intelligence Agency, and the National Security Council to enhance the ability of the Department of Defense POW/MIA accounting community to account for persons covered by subsection (a).
+(2) In carrying out the program, the Secretary of Defense shall establish close coordination with the Department of State, the Central Intelligence Agency, and the National Security Council to enhance the ability of the Department of Defense POW/MIA accounting community to account for persons covered by subsection (a).
 
 (Added Pub. L. 104–106, div. A, title V, §569(b)(1), Feb. 10, 1996, 110 Stat. 348; amended Pub. L. 104–201, div. A, title V, §578(f)(1), (2)(A), Sept. 23, 1996, 110 Stat. 2537; Pub. L. 105–85, div. A, title V, §599(e), Nov. 18, 1997, 111 Stat. 1769; Pub. L. 106–65, div. A, title X, §1066(a)(14), Oct. 5, 1999, 113 Stat. 771; Pub. L. 111–84, div. A, title V, §541(a), Oct. 28, 2009, 123 Stat. 2296.)
 

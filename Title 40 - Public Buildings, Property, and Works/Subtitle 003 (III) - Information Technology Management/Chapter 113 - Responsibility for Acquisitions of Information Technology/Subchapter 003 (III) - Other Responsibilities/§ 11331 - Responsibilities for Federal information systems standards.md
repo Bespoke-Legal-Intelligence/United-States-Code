@@ -52,7 +52,7 @@ Deadline.—The decision regarding the promulgation of any standard by the Direc
 
 Notice and comment.—A decision by the Director to significantly modify, or not promulgate, a proposed standard submitted to the Director by the National Institute of Standards and Technology, as provided under section 20 of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3), shall be made after the public is given an opportunity to comment on the Director's proposed decision.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1243; Pub. L. 107–296, title X, §1002(a), Nov. 25, 2002, 116 Stat. 2268; Pub. L. 107–347, title III, §302(a), Dec. 17, 2002, 116 Stat. 2956.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1243; Pub. L. 107–296, title X, §1002(a), Nov. 25, 2002, 116Stat. 2268; Pub. L. 107–347, title III, §302(a), Dec. 17, 2002, 116 Stat. 2956.)
 
 Historical and Revision Notes
 
@@ -84,7 +84,7 @@ Authority to prescribe.—Except as provided under paragraph (2), the Secretary 
 
 &emsp;“(2)
 
-National security systems.—Standards and guidelines for national security systems (as definedunder this section) shall be developed, prescribed, enforced, and overseen as otherwise authorized by law and as directed by the President.
+National security systems.—Standards and guidelines for national security systems (as defined under this section) shall be developed, prescribed, enforced, and overseen as otherwise authorized by law and as directed by the President.
 
 “(b)
 

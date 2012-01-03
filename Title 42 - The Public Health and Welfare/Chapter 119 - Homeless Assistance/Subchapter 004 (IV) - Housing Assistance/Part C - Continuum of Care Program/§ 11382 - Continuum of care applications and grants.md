@@ -38,7 +38,7 @@ The Secretary shall release a notification of funding availability for grants aw
 
 #### (B) Acquisition, rehabilitation, or construction
 
-&emsp;&emsp;Not later than 24 months after the announcement referred to in subsection (c)(2), each recipient or project sponsor seeking the obligation of funds for acquisition of housing, rehabilitation of housing, or construction of new housing for a grant announced under subsection (c)(2) shall meet all requirements for the obligation of those funds, including site control, matching funds, and environmental review requirements.
+&emsp;&emsp;Not later than 24 months after the announcement referred to in subsection (c)(2),each recipient or project sponsor seeking the obligation of funds for acquisition of housing, rehabilitation of housing, or construction of new housing for a grant announced under subsection (c)(2) shall meet all requirements for the obligation of those funds, including site control, matching funds, and environmental review requirements.
 
 #### (C) Extensions
 
@@ -94,7 +94,7 @@ A solo applicant may submit an application to the Secretary for a grant under su
 
 #### (2) Limitations
 
-&emsp;The 10 percent limitation under paragraph (1) shall not apply to collaborative applicants in which the rate of homelessness, as calculated in the most recent point in time count, is less than one-tenth of 1 percent of total population.
+&emsp;The 10 percent limitation under paragraph (1) shall not apply to collaborative applicantsin which the rate of homelessness, as calculated in the most recent point in time count, is less than one-tenth of 1 percent of total population.
 
 #### (3) Treatment of certain populations
 

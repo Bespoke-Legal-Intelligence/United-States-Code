@@ -26,19 +26,19 @@
 
 #### Amendments
 
-2006—Subsec. (d)(1). Pub. L. 109–177 inserted “, Secretary of Homeland Security” after “Secretary of Veterans Affairs”.
+<b>2006</b>—Subsec. (d)(1). Pub. L. 109–177 inserted “, Secretary of Homeland Security” after “Secretary of Veterans Affairs”.
 
-1988—Subsec. (d)(1). Pub. L. 100–527 inserted reference to Secretary of Veterans Affairs.
+<b>1988</b>—Subsec. (d)(1). Pub. L. 100–527 inserted reference to Secretary of Veterans Affairs.
 
-1979—Subsec. (d)(1). Pub. L. 96–88 substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare” and inserted reference to Secretary of Education.
+<b>1979</b>—Subsec. (d)(1). Pub. L. 96–88 substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare” and inserted reference to Secretary of Education.
 
-1977—Subsec. (d)(1). Pub. L. 95–91 inserted reference to Secretary of Energy.
+<b>1977</b>—Subsec. (d)(1). Pub. L. 95–91 inserted reference to Secretary of Energy.
 
-1970—Subsec. (d)(1). Pub. L. 91–375 struck out “Postmaster General,” after “Attorney General,”.
+<b>1970</b>—Subsec. (d)(1). Pub. L. 91–375 struck out “Postmaster General,” after “Attorney General,”.
 
-1966—Subsec. (d)(1). Pub. L. 89–670 inserted reference to Secretary of Transportation.
+<b>1966</b>—Subsec. (d)(1). Pub. L. 89–670 inserted reference to Secretary of Transportation.
 
-1965—Subsec. (d)(1). Pub. L. 89–174 inserted reference to Secretary of Health, Education, and Welfare and Secretary of Housing and Urban Development.
+<b>1965</b>—Subsec. (d)(1). Pub. L. 89–174 inserted reference to Secretary of Health, Education, and Welfare and Secretary of Housing and Urban Development.
 
 #### Effective Date of 1988 Amendment
 

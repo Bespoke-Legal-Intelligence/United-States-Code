@@ -90,7 +90,7 @@ Subsecs. (e) to (g). Pub. L. 104–262, §301(c)(4), added subsecs. (e) and (f) 
 
 &emsp;“(1) for the mutual use, or exchange of use, of specialized medical resources when such an agreement will obviate the need for a similar resource to be provided in a Department health care facility; or
 
-&emsp;“(2) for the mutual use, or exchange of use, of specialized medical resources in a Department health care facility, which have been justified on the basis of veterans’ care, but which are not utilized to their maximum effective capacity.”
+&emsp;“(2) for the mutual use, or exchange of use, of specialized medical resources in a Department healthcare facility, which have been justified on the basis of veterans’ care, but which are not utilized to their maximum effective capacity.”
 
 <b>1991</b>—Pub. L. 102–40 renumbered section 5053 of this title as this section.
 

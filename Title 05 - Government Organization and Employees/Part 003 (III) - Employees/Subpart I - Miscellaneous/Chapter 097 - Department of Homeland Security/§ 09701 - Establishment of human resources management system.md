@@ -62,7 +62,7 @@ Provisions to Ensure Collaboration With Employee Representatives.—
 
 &emsp;(1)
 
-In general.—In order to ensure that the authority of this section is exercised in collaboration with, and in a manner that ensures the participation of employee representatives in the planning, development, and implementation of any human resources management system or adjustments to such system under this section, the Secretary of Homeland Security and the Director of the Office of Personnel Management shall provide for the following:
+In general.—In order to ensure that the authority of this section is exercised in collaboration with, and in a manner that ensures the participation of employee representatives in the planning, development, and implementation of any human resources managementsystem or adjustments to such system under this section, the Secretary of Homeland Security and the Director of the Office of Personnel Management shall provide for the following:
 
 &emsp;&emsp;(A)
 
@@ -70,7 +70,7 @@ Notice of proposal.—The Secretary and the Director shall, with respect to any 
 
 &emsp;&emsp;&emsp;(i) provide to each employee representative representing any employees who might be affected, a written description of the proposed system or adjustment (including the reasons why it is considered necessary);
 
-&emsp;&emsp;&emsp;(ii) give each representative 30 calendar days (unless extraordinary circumstancesrequire earlier action) to review and make recommendations with respect to the proposal; and
+&emsp;&emsp;&emsp;(ii) give each representative 30 calendar days (unless extraordinary circumstances require earlier action) to review and make recommendations with respect to the proposal; and
 
 &emsp;&emsp;&emsp;(iii) give any recommendations received from any such representatives under clause (ii) full and fair consideration in deciding whether or how to proceed with the proposal.
 
@@ -140,7 +140,7 @@ Requirements.—Any regulations under this section which relate to any matters w
 
 &emsp;&emsp;&emsp;(i) be consistent with requirements of due process; and
 
-&emsp;&emsp;&emsp;(ii) provide, to the maximum extent practicable, for the expeditious handling ofany matters involving the Department; and
+&emsp;&emsp;&emsp;(ii) provide, to the maximum extent practicable, for the expeditious handling of any matters involving the Department; and
 
 &emsp;&emsp;(C) shall modify procedures under chapter 77 only insofar as such modifications are designed to further the fair, efficient, and expeditious resolution of matters involving the employees of the Department.
 

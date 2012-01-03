@@ -22,5 +22,5 @@ The minerals in any Federal lands which constitute the bed or bank or are situat
 
 <b>1986</b>—Subsec. (b). Pub. L. 99–590 substituted “issuance of leases” for “issuance or leases”.
 
-<b>1980</b>—Subsec. (b). Pub. L. 96–487 inserted provision withdrawing, subject to valid existing rights, all public lands which constitute the bed or bank, or are within an area extending two miles from the bank of the river channel or both sides of the river segments referred to in section 1276(a)(77) through (88) of this title, from all forms of appropriations under the mining laws and operation of the mineral leasing laws during the periods specified in section 1278(b) of this title.
+<b>1980</b>—Subsec. (b). Pub. L. 96–487 inserted provision withdrawing, subject to valid existing rights, all public lands which constitute the bed or bank, or are withinan area extending two miles from the bank of the river channel or both sides of the river segments referred to in section 1276(a)(77) through (88) of this title, from all forms of appropriations under the mining laws and operation of the mineral leasing laws during the periods specified in section 1278(b) of this title.
 

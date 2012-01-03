@@ -12,5 +12,5 @@ Section, as it applies to funds provided under section 74a–4 of this title, is
 
 #### Amendments
 
-1996—Pub. L. 104–186 made technical amendment to reference in original act which appears in text as reference to section 333 of this title.
+<b>1996</b>—Pub. L. 104–186 made technical amendment to reference in original act which appears in text as reference to section 333 of this title.
 

@@ -44,7 +44,7 @@ Computation for Later Disability.—A member of an armed force covered by subsec
 
 | Column 1Take | Column 2Multiply by | Column 3Add |
 | --- | --- | --- |
-| The retired pay base computed under section 1407(b) of this title. | As member elects—  (1) 21/2 percent of years of service credited under section 1208 of this title; <sup>1</sup> or  (2) the highest percentage of disability, not to exceed 75 percent, attained while on active duty after retirement or after the date when his name was placed on temporary disability retired list, as the case may be. | Amount necessary to increase product of columns 1 and 2 to 50 percent of pay upon which computation is based, if member is on temporary disability retired list. |
+| The retired pay base computed under section 1407(b) of this title. | As member elects—  (1) 2½ percent of years of service credited under section 1208 of this title; <sup>1</sup> or  (2) the highest percentage of disability, not to exceed 75 percent, attained while on active duty after retirement or after the date when his name was placed on temporary disability retired list, as the case may be. | Amount necessary to increase product of columns 1 and 2 to 50 percent of pay upon which computation is based, if member is on temporary disability retired list. |
 
 <sup>1</sup> Before applying percentage factor, credit each full month of service that is in addition to the number of full years of service creditable to the member as one-twelfth of a year and disregard any remaining fractional part of a month.
 

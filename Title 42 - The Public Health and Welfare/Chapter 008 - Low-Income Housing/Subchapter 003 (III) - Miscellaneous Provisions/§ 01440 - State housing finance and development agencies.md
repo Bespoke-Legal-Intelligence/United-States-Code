@@ -2,7 +2,7 @@
 
 #### (a) Statement of purpose; participation by private and nonprofit developers in activities assisted
 
-It is the purpose of this section to encourage the formation and effective operation of State housing finance agencies and State development agencies which have authority to finance, to assist in carrying out, or to carry out activities designed to (1) provide housing and related facilities through land acquisition, construction,or rehabilitation, for persons and families of low, moderate, and middle income, (2) promote the sound growth and development of neighborhoods through the revitalization of slum and blighted areas, (3) increase and improve employment opportunities for the unemployed and underemployed through the development and redevelopment of industrial, manufacturing, and commercial facilities, or (4) implement the development aspects of State land use and preservation policies, including the advance acquisition of land where it is consistent with such policies. The Secretary of Housing and Urban Development shall encourage maximum participation by private and nonprofit developers in activities assisted under this section.
+It is the purpose of this section to encourage the formation and effective operation of State housing finance agencies and State development agencies which have authority to finance, to assist in carrying out, or to carry out activitiesdesigned to (1) provide housing and related facilities through land acquisition, construction, or rehabilitation, for persons and families of low, moderate, and middle income, (2) promote the sound growth and development of neighborhoods through the revitalization of slum and blighted areas, (3) increase and improve employment opportunities for the unemployed and underemployed through the development and redevelopment of industrial, manufacturing, and commercial facilities, or (4) implement the development aspects of State land use and preservation policies, including the advance acquisition of land where it is consistent with such policies. The Secretary of Housing and Urban Development shall encourage maximum participation by private and nonprofit developers in activities assisted under this section.
 
 #### (b) Determination of eligibility for assistance; definitions
 
@@ -72,7 +72,7 @@ All laborers and mechanics employed by contractors or subcontractors in housing 
 
 #### References in Text
 
-This Act, referred to in subsec. (c)(1), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended, known as the Housing and Community Development Act of 1974. Title I of the Housing and Community Development Act of 1974 is classified principally to chapter 69 (§5301 et seq.) of this title. For complete classification of thisAct to the Code, see Short Title note set out under section 5301 of this title and Tables.
+This Act, referred to in subsec. (c)(1), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended, known as the Housing and Community Development Act of 1974. Title I of the Housing and Community Development Act of 1974 is classified principally to chapter 69 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 Reorganization Plan Numbered 14 of 1950, referred to in subsec. (g), is Reorg. Plan No. 14 of 1950, eff. May 24, 1950, 15 F.R. 3176, 64 Stat. 1267, which is set out in the Appendix to Title 5, Government Organization and Employees.
 

@@ -8,7 +8,7 @@ The Secretary shall enter into contracts to provide educational training to all 
 
 #### (1) In general
 
-&emsp;The Secretary may contract with State or private providers of farm management andcredit counseling services (including a community college, the extension service of a State, a State department of agriculture, or a nonprofit organization) to carry out this section.
+&emsp;The Secretary may contract with State or private providers of farm management and credit counseling services (including a community college, the extension service of a State, a State department of agriculture, or a nonprofit organization) to carry out this section.
 
 #### (2) Consultation
 
@@ -50,11 +50,11 @@ For definition of “this chapter”, referred to in subsecs. (a) and (c), see n
 
 #### Amendments
 
-2002—Subsec. (c)(1). Pub. L. 107–171, §5501(c), struck out “established pursuant to section 1982 of this title,” after “appropriate county committee”.
+<b>2002</b>—Subsec. (c)(1). Pub. L. 107–171, §5501(c), struck out “established pursuant to section 1982 of this title,” after “appropriate county committee”.
 
 Subsec. (f). Pub. L. 107–171, §5316, added subsec. (f) and struck out heading and text of former subsec. (f). Text read as follows: “The Secretary may waive the requirements of this section for an individual borrower on a determination by the county committee that the borrower demonstrates adequate knowledge in areas described in this section.”
 
-1998—Subsec. (a). Pub. L. 105–277, §101(a) \[title VIII, §805(3)(A)\], struck out “and guaranteed” after “direct”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–277, §101(a) \[title VIII, §805(3)(A)\], struck out “and guaranteed” after “direct”.
 
 Subsec. (c). Pub. L. 105–277, §101(a) \[title VIII, §805(3)(B)\], struck out “or guaranteed” after “direct” in pars. (1) and (2).
 

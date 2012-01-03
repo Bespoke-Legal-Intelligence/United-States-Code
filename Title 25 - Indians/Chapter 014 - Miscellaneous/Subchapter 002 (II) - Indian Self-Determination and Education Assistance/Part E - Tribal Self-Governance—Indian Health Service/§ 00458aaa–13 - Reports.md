@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than January 1 of each year after August 18, 2000, the Secretary shall submit to the Committee on Indian Affairs of the Senate and the Committee on Resources of the House of Representatives a written report regarding the administration of this part.
+&emsp;Not later than January 1 of each year after August 18, 2000, the Secretary shall submit tothe Committee on Indian Affairs of the Senate and the Committee on Resources of the House of Representatives a written report regarding the administration of this part.
 
 #### (2) Analysis
 

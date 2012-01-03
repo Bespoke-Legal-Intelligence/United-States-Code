@@ -1,6 +1,6 @@
 ### §509. Claims of codebtors
 
-(a) Except as provided in subsection (b) or (c) of this section, an entity that is liable with the debtor on, or that has secured, a claim of a creditor against the debtor, and that pays such claim, is subrogated to the rights of such creditor to the extent of such payment.
+(a) Except as provided in subsection (b) or (c) of this section, an entity that is liable with thedebtor on, or that has secured, a claim of a creditor against the debtor, and that pays such claim, is subrogated to the rights of such creditor to the extent of such payment.
 
 (b) Such entity is not subrogated to the rights of such creditor to the extent that—
 
@@ -20,7 +20,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 509 of the House amendment represents a substantial revision of provisions contained in H.R. 8200 as passed by the House and in the Senate amendment. Section 509(a) states a general rule that a surety or co-debtor is subrogated to the rights of a creditor assured by the surety or co-debtor to the extent the surety or co-debtor pays such creditor. Section 509(b) states a general exception indicating that subrogation is not granted to the extent that a claim of a surety or co-debtor for reimbursement or contribution is allowed under section 502 or disallowed other than under section 502(e). Additionally, section 509(b)(1)(C) provides that such claims for subrogation are subordinated to the extent that a claim of the surety or co-debtor for reimbursement or contribution is subordinated under section 510(a)(1) or 510(b). Section 509(b)(2) reiterates the well-known rule that prevents a debtor that is ultimately liable on the debt from recovering from a surety or a co-debtor. Although the language in section 509(b)(2) focuses in terms of receipt of consideration, legislative history appearing elsewhere indicates that an agreement to share liabilities should prevail over an agreement to share profits throughout title 11. This is particularly important in the context of co-debtors who are partners. Section 509(c) subordinates the claim of a surety or co-debtor to the claim of an assured creditor until the creditor's claim is paid in full.
 
@@ -34,7 +34,7 @@ Subsection (b) permits a subrogated codebtor to receive payments in the bankrupt
 
 #### Amendments
 
-1984—Subsec. (a). Pub. L. 98–353, §450(a), substituted “subsection (b) or” for “subsections (b) and”, and inserted “against the debtor” after “a creditor”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–353, §450(a), substituted “subsection (b) or” for “subsections (b) and”, and inserted “against the debtor” after “a creditor”.
 
 Subsec. (b)(1). Pub. L. 98–353, §450(b), substituted “of such” for “of a” after “account”.
 

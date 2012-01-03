@@ -1,8 +1,8 @@
 ### §625. Limitations on authorization of appropriations
 
-To carry out this subpart (other than sections 626, 627, and 628b of this title), there are authorized to be appropriated to the Secretary notmore than $325,000,000 for each of fiscal years 2007 through 2011.
+To carry out this subpart (other than sections 626, 627, and 628b of this title), there are authorized to be appropriated to the Secretary not more than $325,000,000 for each of fiscal years 2012 through 2016.
 
-(Aug. 14, 1935, ch. 531, title IV, §425, as added Pub. L. 109–288, §6(a), Sept. 28, 2006, 120 Stat. 1244; amended Pub. L. 110–351, title I, §102(b), Oct. 7, 2008, 122 Stat. 3956.)
+(Aug. 14, 1935, ch. 531, title IV, §425, as added Pub. L. 109–288, §6(a), Sept. 28, 2006, 120 Stat. 1244; amended Pub. L. 110–351, title I, §102(b), Oct. 7, 2008, 122 Stat. 3956; Pub. L. 112–34, title I, §101(a), Sept. 30, 2011, 125 Stat. 369.)
 
 #### Prior Provisions
 
@@ -10,7 +10,13 @@ A prior section 625, act Aug. 14, 1935, ch. 531, title IV, §425, as added Pub. 
 
 #### Amendments
 
+<b>2011</b>—Pub. L. 112–34 substituted “2012 through 2016” for “2007 through 2011”.
+
 <b>2008</b>—Pub. L. 110–351 inserted “(other than sections 626, 627, and 628b of this title)” after “this subpart”.
+
+#### Effective Date of 2011 Amendment
+
+Amendment by Pub. L. 112–34 effective Oct. 1, 2011, and applicable to payments under this part and part E of this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 107 of Pub. L. 112–34, set out as a note under section 622 of this title.
 
 #### Effective Date of 2008 Amendment
 

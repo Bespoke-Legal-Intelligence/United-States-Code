@@ -18,7 +18,7 @@ Pub. L. 100–430, §1, Sept. 13, 1988, 102 Stat. 1619, provided that: “This A
 
 #### Short Title
 
-Section 1 of Pub. L. 90–284, as added by Pub. L. 100–430, §2, Sept. 13, 1988, 102 Stat. 1619, provided: “That this Act \[enacting this chapter, sections 231 to 233, 245, 2101, and 2102 of Title 18, Crimes and Criminal Procedure, and sections 1301 to 1303, 1311, 1312, 1321 to 1326,1331, and 1341 of Title 25, Indians, amending sections 1973j, 3533, 3535 of this title, and sections 241, 242, and 1153 of Title 18, enacting provisions set out as notes under sections 231 and 245 of Title 18, and repealing provisions set out as notes under section 1360 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Civil Rights Act of 1968’.”
+Section 1 of Pub. L. 90–284, as added by Pub. L. 100–430, §2, Sept. 13, 1988, 102 Stat. 1619, provided: “That this Act \[enacting this chapter, sections 231 to 233, 245, 2101, and 2102 of Title 18, Crimes and Criminal Procedure, and sections 1301 to 1303, 1311, 1312, 1321 to 1326, 1331, and 1341 of Title 25, Indians, amending sections 1973j, 3533, 3535 of this title, and sections 241, 242, and 1153 of Title 18, enacting provisions set out as notes under sections 231 and 245 of Title 18, and repealing provisions set out as notes under section 1360 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Civil Rights Act of 1968’.”
 
 Section 800 of Pub. L. 90–284, title VIII, as added by Pub. L. 100–430, §4, Sept. 13, 1988, 102 Stat. 1619, provided that: “This title \[enacting this subchapter and amending sections 3533 and 3535 of this title\] may be cited as the ‘Fair Housing Act’.”
 

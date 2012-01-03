@@ -32,7 +32,7 @@ The Attorney General may cancel removal in the case of an alien who is inadmissi
 
 &emsp;&emsp;&emsp;(i)(I) the alien has been battered or subjected to extreme cruelty by a spouse or parent who is or was a United States citizen (or is the parent of a child of a United States citizen and the child has been battered or subjected to extreme cruelty by such citizen parent);
 
-&emsp;&emsp;&emsp;(II) the alien has been battered or subjected to extreme cruelty by a spouse or parent who is or was a lawful permanent resident (or is the parent of a child of an alien who is or was a lawful permanent resident and the child has been battered or subjected to extreme cruelty by such permanent resident parent); or
+&emsp;&emsp;&emsp;(II) the alien has been battered or subjected to extreme cruelty by a spouse or parent who is or was a lawful permanentresident (or is the parent of a child of an alien who is or was a lawful permanent resident and the child has been battered or subjected to extreme cruelty by such permanent resident parent); or
 
 &emsp;&emsp;&emsp;(III) the alien has been battered or subjected to extreme cruelty by a United States citizen or lawful permanent resident whom the alien intended to marry, but whose marriage is not legitimate because of that United States citizen's or lawful permanent resident's bigamy;
 
@@ -148,7 +148,7 @@ The provisions of subsections (a) and (b)(1) of this section shall not apply to 
 
 #### (2) Treatment of certain breaks in presence
 
-&emsp;An alien shall be considered to have failed to maintain continuous physical presence in the United States under subsections (b)(1) and (b)(2) of this section if the alien has departed from the United States for any period in excess of 90 days or for any periods in the aggregate exceeding 180 days.
+&emsp;An alien shall be considered to have failed to maintain continuous physical presence in theUnited States under subsections (b)(1) and (b)(2) of this section if the alien has departed from the United States for any period in excess of 90 days or for any periods in the aggregate exceeding 180 days.
 
 #### (3) Continuity not required because of honorable service in Armed Forces and presence upon entry into service
 
@@ -188,9 +188,9 @@ Section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act o
 
 #### Amendments
 
-2008—Subsec. (b)(6). Pub. L. 110–457 added par. (6).
+<b>2008</b>—Subsec. (b)(6). Pub. L. 110–457 added par. (6).
 
-2006—Subsec. (b)(1)(C). Pub. L. 109–162, §813(c)(1)(A), substituted “, subject to paragraph (5)” for “(except in a case described in section 1227(a)(7) of this title where the Attorney General exercises discretion to grant a waiver)”.
+<b>2006</b>—Subsec. (b)(1)(C). Pub. L. 109–162, §813(c)(1)(A), substituted “, subject to paragraph (5)” for “(except in a case described in section 1227(a)(7) of this title where the Attorney General exercises discretion to grant a waiver)”.
 
 Subsec. (b)(2)(A)(iv). Pub. L. 109–162, §813(c)(1)(B), substituted “, subject to paragraph (5)” for “(except in a case described in section 1227(a)(7) of this title where the Attorney General exercises discretion to grant a waiver)”.
 
@@ -204,7 +204,7 @@ Subsec. (b)(4)(B). Pub. L. 109–271 substituted “the applicants were VAWA sel
 
 Subsec. (b)(5). Pub. L. 109–162, §813(c)(1)(C), added par. (5).
 
-2000—Subsec. (b)(1)(C). Pub. L. 106–386, §1505(b)(2), inserted before semicolon “(except in a case described in section 1227(a)(7) of this title where the Attorney General exercises discretion to grant a waiver)”.
+<b>2000</b>—Subsec. (b)(1)(C). Pub. L. 106–386, §1505(b)(2), inserted before semicolon “(except in a case described in section 1227(a)(7) of this title where the Attorney General exercises discretion to grant a waiver)”.
 
 Subsec. (b)(2). Pub. L. 106–386, §1504(a), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “(2) The Attorney General may cancel removal of, and adjust to the status of an alien lawfully admitted for permanent residence, an alien who is inadmissible or deportable from the United States if the alien demonstrates that—
 
@@ -224,7 +224,7 @@ Subsec. (b)(4). Pub. L. 106–386, §1504(b), added par. (4).
 
 Subsec. (d)(1). Pub. L. 106–386, §1506(b)(1), substituted “(A) except in the case of an alien who applies for cancellation of removal under subsection (b)(2) of this section, when the alien is served a notice to appear under section 1229(a) of this title, or (B)” for “when the alien is served a notice to appear under section 1229(a) of this title or”.
 
-1997—Subsec. (b)(1), (2). Pub. L. 105–100, §204(b), in introductory provisions, substituted “may cancel removal of, and adjust to the status of an alien lawfully admitted for permanent residence, an alien” for “may cancel removal in the case of an alien”.
+<b>1997</b>—Subsec. (b)(1), (2). Pub. L. 105–100, §204(b), in introductory provisions, substituted “may cancel removal of, and adjust to the status of an alien lawfully admitted for permanent residence, an alien” for “may cancel removal in the case of an alien”.
 
 Subsec. (b)(3). Pub. L. 105–100, §204(c), amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “The Attorney General may adjust to the status of an alien lawfully admitted for permanent residence any alien who the Attorney General determines meets the requirements of paragraph (1) or (2). The number of adjustments under this paragraph shall not exceed 4,000 for any fiscal year. The Attorney General shall record the alien's lawful admission for permanent residence as of the date the Attorney General's cancellation of removal under paragraph (1) or (2) or determination under this paragraph.”
 

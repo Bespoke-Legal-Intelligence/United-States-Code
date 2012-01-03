@@ -78,7 +78,7 @@
 
 &emsp;&emsp;&emsp;(iii) a description of the deductibles, coinsurance, and copayments applicable under the plan, and the actuarial value of such deductibles, coinsurance, and copayments, as described in subsection (e)(4)(A) of this section; and
 
-&emsp;&emsp;&emsp;(iv) if required under subsection (f)(1) of this section, a description of the additional benefits to be provided pursuant to such subsection and the value determined for such proposed benefits under such subsection.
+&emsp;&emsp;&emsp;(iv) if required under subsection (f)(1) of this section, a description of the additional benefits to be provided pursuant tosuch subsection and the value determined for such proposed benefits under such subsection.
 
 #### (B) Supplemental benefits
 
@@ -266,7 +266,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (iii), the Secretary shall determine, at the same time ratesare promulgated under section 1395w–23(b)(1) of this title (beginning with 2006) for each State, the average of the risk adjustment factors to be applied under section 1395w–23(a)(1)(C) of this title to payment for enrollees in that State for MA local plans.
+&emsp;&emsp;&emsp;Subject to clause (iii), the Secretary shall determine, at the same time rates are promulgated under section 1395w–23(b)(1) of this title (beginning with 2006) for each State, the average of the risk adjustment factors to be applied under section 1395w–23(a)(1)(C) of this title to payment for enrollees in that State for MA local plans.
 
 #### (ii) Treatment of States for first year in which local plan offered
 
@@ -286,7 +286,7 @@
 
 #### (C) Determination of average per capita monthly savings
 
-&emsp;&emsp;The average per capita monthly savings described in this subparagraph for an MA local plan is equal to the amount (if any) by which—
+&emsp;&emsp;The average per capita monthly savings described in this subparagraph for an MAlocal plan is equal to the amount (if any) by which—
 
 &emsp;&emsp;&emsp;(i) the risk-adjusted benchmark amount computed under subparagraph (B)(i); exceeds
 
@@ -338,7 +338,7 @@ Except as permitted under section 1395w–27(i) of this title, the MA monthly bi
 
 #### (2) Beneficiary's option of payment through withholding from social security payment or use of electronic funds transfer mechanism
 
-&emsp;In accordance with regulations, an MA organization shall permit each enrollee, at the enrollee's option, to make payment of premiums\(if any) under this part to the organization through—
+&emsp;In accordance with regulations, an MA organization shall permit each enrollee, at the enrollee's option, to make payment of premiums (if any) under this part to the organization through—
 
 &emsp;&emsp;(A) withholding from benefit payments in the manner provided under section 1395s of this title with respect to monthly premiums under section 1395r of this title;
 
@@ -352,7 +352,7 @@ Except as permitted under section 1395w–27(i) of this title, the MA monthly bi
 
 &emsp;In order to carry out paragraph (2)(A) with respect to an enrollee who has elected such paragraph to apply, the Secretary shall transmit to the Commissioner of Social Security—
 
-&emsp;&emsp;(A) by the beginning of each year, the name, social security account number, consolidated monthly beneficiary premium described in paragraph (4) owed by such enrollee for each month during the year, and other information determined appropriate by the Secretary, in consultation with the Commissioner of Social Security; and
+&emsp;&emsp;(A) by the beginning of each year, the name, social security account number, consolidated monthly beneficiary premium described in paragraph (4) owed by such enrollee for each month during the year, andother information determined appropriate by the Secretary, in consultation with the Commissioner of Social Security; and
 
 &emsp;&emsp;(B) periodically throughout the year, information to update the information previously transmitted under this paragraph for the year.
 
@@ -398,7 +398,7 @@ Except as permitted under section 1395w–27(i) of this title, the MA monthly bi
 
 #### (A) In general
 
-&emsp;&emsp;For years before 2006, each Medicare+Choice organization (in relation to a Medicare+Choice plan, other than an MSAplan, it offers) shall provide that if there is an excess amount (as defined in subparagraph (B)) for the plan for a contract year, subject to the succeeding provisions of this subsection, the organization shall provide to individuals such additional benefits (as the organization may specify) in a value which the Secretary determines is at least equal to the adjusted excess amount (as defined in subparagraph (C)).
+&emsp;&emsp;For years before 2006, each Medicare+Choice organization (in relation to a Medicare+Choice plan, other than an MSA plan, it offers) shall provide that if there is an excess amount (as defined in subparagraph (B)) for the plan for a contract year, subject to the succeeding provisions of this subsection, the organization shall provide to individuals such additional benefits (as the organization may specify) in a value which the Secretary determines is at least equal to the adjusted excess amount (as defined in subparagraph (C)).
 
 #### (B) Excess amount
 
@@ -420,7 +420,7 @@ Except as permitted under section 1395w–27(i) of this title, the MA monthly bi
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), as part of providing any additional benefits required under subparagraph (A), a Medicare+Choice organization may elect a reduction in its payments under section 1395w–23(a)(1)(A) of this title with respect to a Medicare+Choice plan and the Secretary shall apply such reduction to reduce the premium under section 1395r of this title of each enrollee in such plan as provided in section 1395s(i) of this title.
+&emsp;&emsp;&emsp;Subject to clause (ii), as part of providing any additional benefits required undersubparagraph (A), a Medicare+Choice organization may elect a reduction in its payments under section 1395w–23(a)(1)(A) of this title with respect to a Medicare+Choice plan and the Secretary shall apply such reduction to reduce the premium under section 1395r of this title of each enrollee in such plan as provided in section 1395s(i) of this title.
 
 #### (ii) Amount of reduction
 
@@ -450,7 +450,7 @@ Except as permitted under section 1395w–27(i) of this title, the MA monthly bi
 
 #### (4) Determination based on insufficient data
 
-&emsp;For purposes of this subsection, if the Secretary finds that there is insufficient enrollment experience to determine an average of the capitation payments to be made under this part at the beginning of a contract period or to determine (in the case of a newly operated provider-sponsored organization or other new organization) the adjusted community rate for the organization, the Secretary may determine such an average based on the enrollmentexperience of other contracts entered into under this part and may determine such a rate using data in the general commercial marketplace.
+&emsp;For purposes of this subsection, if the Secretary finds that there is insufficient enrollment experience to determine an average of the capitation payments to be made under this part at the beginning of a contract period or to determine (in the case of a newly operated provider-sponsored organization or other new organization) the adjusted community rate for the organization, the Secretary may determine such an average based on the enrollment experience of other contracts entered into under this part and may determine such a rate using data in the general commercial marketplace.
 
 #### (g) Prohibition of State imposition of premium taxes
 
@@ -463,10 +463,6 @@ The Secretary shall permit a Medicare+Choice organization to elect to apply the 
 (Aug. 14, 1935, ch. 531, title XVIII, §1854, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 308; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(k)(6)(C), title V, §§515(a), 516(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–367, 1501A–384; Pub. L. 106–554, §1(a)(6) \[title VI, §§606(a)(1), 622(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–557, 2763A–566; Pub. L. 107–188, title V, §532(b)(1), June 12, 2002, 116 Stat. 696; Pub. L. 108–173, title II, §§222(a)(1), (b), (c), (g), 232(b), title IX, §900(e)(1)(H), Dec. 8, 2003, 117 Stat. 2193, 2196, 2199, 2203, 2208, 2371; Pub. L. 111–148, title III, §§3201(a)(2)(B), (c)–(d)(2), (e)(2)(A)(v), 3202(b)(1), (3), 3209(a), Mar. 23, 2010, 124 Stat. 444, 447, 454, 455, 460; Pub. L. 111–152, title I, §1102(a), (d), Mar. 30, 2010, 124 Stat. 1040, 1045.)
 
 #### References in Text
-
-Part D of this subchapter, referred to in subsec. (a)(6)(B)(iii), is classified to section 1395w–101 et seq. of this title.
-
-Parts A and B of this subchapter, referred to in subsecs. (b)(1)(C)(ii)(III), (viii), (e)(1)(B), (4)(B), and (f)(1)(B)(ii), are classified to section 1395c et seq. and section 1395j et seq., respectively, of this title.
 
 Cl. (iii) of par. (1)(C), referred to in subsec. (b)(2)(C)(ii), was struck out and a new cl. (iii) was added by Pub. L. 111–152, §1102(d)(2). See 2010 Amendment note below. As so amended, par. (1)(C)(iii) no longer relates to purposes of rebates and no longer contains a subcl. (III).
 

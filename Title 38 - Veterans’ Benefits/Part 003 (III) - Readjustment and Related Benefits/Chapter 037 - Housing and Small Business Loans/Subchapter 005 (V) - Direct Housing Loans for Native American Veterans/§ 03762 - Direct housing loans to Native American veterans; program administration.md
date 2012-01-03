@@ -62,7 +62,7 @@
 
 &emsp;(4) in a manner consistent with the provisions of this chapter and with the Secretary's functions under this subchapter, employ, utilize, and compensate any persons, organizations, or departments or agencies (including departments and agencies of the United States) designated by the Secretary to carry out such functions.
 
-(h)(1) The Secretary may make direct loans to Native American veterans in order to enablesuch veterans to refinance existing loans made under this section.
+(h)(1) The Secretary may make direct loans to Native American veterans in order to enable such veterans to refinance existing loans made under this section.
 
 (2)(A) The Secretary may not make a loan under this subsection unless the loan meets the requirements set forth in subparagraphs (B), (C), and (E) of paragraph (1) of section 3710(e) of this title.
 

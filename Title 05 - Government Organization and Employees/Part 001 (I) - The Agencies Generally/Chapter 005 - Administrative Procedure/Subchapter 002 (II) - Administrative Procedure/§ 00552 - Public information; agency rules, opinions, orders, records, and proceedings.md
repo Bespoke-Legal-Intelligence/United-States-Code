@@ -374,9 +374,9 @@ Section 552 of former Title 5, Executive Departments and Government Officers and
 
 #### Amendments
 
-2009—Subsec. (b)(3). Pub. L. 111–83 added par. (3) and struck out former par. (3), which read as follows: “specifically exempted from disclosure by statute (other than section 552b of this title), provided that such statute (A) requires that the matters be withheld from the public in such a manner as to leave no discretion on the issue, or (B) establishes particular criteria for withholding or refers to particular types of matters to be withheld;”.
+<b>2009</b>—Subsec. (b)(3). Pub. L. 111–83 added par. (3) and struck out former par. (3), which read as follows: “specifically exempted from disclosure by statute (other than section 552b of this title), provided that such statute (A) requires that the matters be withheld from the public in such a manner as to leave no discretion on the issue, or (B) establishes particular criteria for withholding or refers to particular types of matters to be withheld;”.
 
-2007—Subsec. (a)(4)(A)(ii). Pub. L. 110–175, §3, inserted concluding provisions.
+<b>2007</b>—Subsec. (a)(4)(A)(ii). Pub. L. 110–175, §3, inserted concluding provisions.
 
 Subsec. (a)(4)(A)(viii). Pub. L. 110–175, §6(b)(1)(A), added cl. (viii).
 
@@ -410,11 +410,11 @@ Subsec. (f)(2). Pub. L. 110–175, §9, added par. (2) and struck out former par
 
 Subsecs. (h) to (<i>l</i>). Pub. L. 110–175, §10(a), added subsecs. (h) to (<i>l</i>).
 
-2002—Subsec. (a)(3)(A). Pub. L. 107–306, §312(1), inserted “and except as provided in subparagraph (E),” after “of this subsection,”.
+<b>2002</b>—Subsec. (a)(3)(A). Pub. L. 107–306, §312(1), inserted “and except as provided in subparagraph (E),” after “of this subsection,”.
 
 Subsec. (a)(3)(E). Pub. L. 107–306, §312(2), added subpar. (E).
 
-1996—Subsec. (a)(2). Pub. L. 104–231, §4(4), (5), in first sentence struck out “and” at end of subpar. (B) and inserted subpars. (D) and (E).
+<b>1996</b>—Subsec. (a)(2). Pub. L. 104–231, §4(4), (5), in first sentence struck out “and” at end of subpar. (B) and inserted subpars. (D) and (E).
 
 Pub. L. 104–231, §4(7), inserted after first sentence “For records created on or after November 1, 1996, within one year after such date, each agency shall make such records available, including by computer telecommunications or, if computer telecommunications means have not been established by the agency, by other electronic means.”
 
@@ -454,19 +454,19 @@ Subsec. (f). Pub. L. 104–231, §3, amended subsec. (f) generally. Prior to ame
 
 Subsec. (g). Pub. L. 104–231, §11, added subsec. (g).
 
-1986—Subsec. (a)(4)(A). Pub. L. 99–570, §1803, amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “In order to carry out the provisions of this section, each agency shall promulgate regulations, pursuant to notice and receipt of public comment, specifying a uniform schedule of fees applicable to all constituent units of such agency. Such fees shall be limited to reasonable standard charges for document search and duplication and provide for recovery of only the direct costs of such search and duplication. Documents shall be furnished without charge or at a reduced charge where the agency determines that waiver or reduction of the fee is in the public interest because furnishing the information can be considered as primarily benefiting the general public.”
+<b>1986</b>—Subsec. (a)(4)(A). Pub. L. 99–570, §1803, amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “In order to carry out the provisions of this section, each agency shall promulgate regulations, pursuant to notice and receipt of public comment, specifying a uniform schedule of fees applicable to all constituent units of such agency. Such fees shall be limited to reasonable standard charges for document search and duplication and provide for recovery of only the direct costs of such search and duplication. Documents shall be furnished without charge or at a reduced charge where the agency determines that waiver or reduction of the fee is in the public interest because furnishing the information can be considered as primarily benefiting the general public.”
 
 Subsec. (b)(7). Pub. L. 99–570, §1802(a), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “investigatory records compiled for law enforcement purposes, but only to the extent that the production of such records would (A) interfere with enforcement proceedings, (B) deprive a person of a right to a fair trial or an impartial adjudication, (C) constitute an unwarranted invasion of personal privacy, (D) disclose the identity of a confidential source and, in the case of a record compiled by a criminal law enforcement authority in the course of a criminal investigation, or by an agency conducting a lawful national security intelligence investigation, confidential information furnished only by the confidential source, (E) disclose investigative techniques and procedures, or (F) endanger the life or physical safety of law enforcement personnel;”.
 
 Subsecs. (c) to (f). Pub. L. 99–570, §1802(b), added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively.
 
-1984—Subsec. (a)(4)(D). Pub. L. 98–620 repealed subpar. (D) which provided for precedence on the docket and expeditious disposition of district court proceedings authorized by subsec. (a).
+<b>1984</b>—Subsec. (a)(4)(D). Pub. L. 98–620 repealed subpar. (D) which provided for precedence on the docket and expeditious disposition of district court proceedings authorized by subsec. (a).
 
-1978—Subsec. (a)(4)(F). Pub. L. 95–454 substituted references to the Special Counsel for references to the Civil Service Commission wherever appearing and reference to his findings for reference to its findings.
+<b>1978</b>—Subsec. (a)(4)(F). Pub. L. 95–454 substituted references to the Special Counsel for references to the Civil Service Commission wherever appearing and reference to his findings for reference to its findings.
 
-1976—Subsec. (b)(3). Pub. L. 94–409 inserted provision excluding section 552b of this title from applicability of exemption from disclosure and provision setting forth conditions for statute specifically exempting disclosure.
+<b>1976</b>—Subsec. (b)(3). Pub. L. 94–409 inserted provision excluding section 552b of this title from applicability of exemption from disclosure and provision setting forth conditions for statute specifically exempting disclosure.
 
-1974—Subsec. (a)(2). Pub. L. 93–502, §1(a), substituted provisions relating to maintenance and availability of current indexes, for provisions relating to maintenance and availability of a current index, and inserted provisions relating to publication and distribution of copies of indexes or supplements thereto.
+<b>1974</b>—Subsec. (a)(2). Pub. L. 93–502, §1(a), substituted provisions relating to maintenance and availability of current indexes, for provisions relating to maintenance and availability of a current index, and inserted provisions relating to publication and distribution of copies of indexes or supplements thereto.
 
 Subsec. (a)(3). Pub. L. 93–502, §1(b)(1), substituted provisions requiring requests to reasonably describe records for provisions requiring requests, for identifiable records, and struck out provisions setting forth procedures to enjoin agencies from withholding the requested records and ordering their production.
 
@@ -482,7 +482,7 @@ Subsec. (b), foll. par. (9). Pub. L. 93–502, §2(c), inserted provision relati
 
 Subsecs. (d), (e). Pub. L. 93–502, §3, added subsecs. (d) and (e).
 
-1967—Subsec. (a). Pub. L. 90–23 substituted introductory statement requiring every agency to make available to the public certain information for former introductory provision excepting from disclosure (1) any function of the United States requiring secrecy in the public interest or (2) any matter relating to internal management of an agency, covered in subsec. (b)(1) and (2) of this section.
+<b>1967</b>—Subsec. (a). Pub. L. 90–23 substituted introductory statement requiring every agency to make available to the public certain information for former introductory provision excepting from disclosure (1) any function of the United States requiring secrecy in the public interest or (2) any matter relating to internal management of an agency, covered in subsec. (b)(1) and (2) of this section.
 
 Subsec. (a)(1). Pub. L. 90–23 incorporated provisions of: former subsec. (b)(1) in (A), inserting requirement of publication of names of officers as sources of information and provision for public to obtain decisions, and striking out publication requirement for delegations by the agency of final authority; former subsec. (b)(2), introductory part, in (B); former subsec. (b)(2), concluding part, in (C), inserting publication requirement for rules of procedure and descriptions of forms available or the places at which forms may be obtained; former subsec. (b)(3), introductory part, in (D), inserting requirement of general applicability of substantive rules and interpretations, added clause (E), substituted exemption of any person from failure to resort to any matter or from being adversely affected by any matter required to be published in the Federal Register but not so published for former subsec. (b)(3), concluding part, excepting from publication rules addressed to and served upon named persons in accordance with laws and final sentence reading “A person may not be required to resort to organization or procedure not so published” and inserted provision deeming matter, which is reasonably available, as published in the Federal Register when such matter is incorporated by reference in the Federal Register with the approval of its Director.
 

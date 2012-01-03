@@ -44,7 +44,7 @@ For purposes of section 1(h)(11) (relating to maximum rate of tax on dividends) 
 
 #### (i) Subparagraph (a)
 
-&emsp;&emsp;&emsp;The aggregate amount which may be reported as dividends under subparagraph (A) shall not exceed the aggregate dividends received by the company for the taxable year.
+&emsp;&emsp;&emsp;The aggregate amount which may be reported as dividends under subparagraph\(A) shall not exceed the aggregate dividends received by the company for the taxable year.
 
 #### (ii) Subparagraph (b)
 
@@ -114,7 +114,7 @@ Subsec. (b)(1)(B)(iii), (iv). Pub. L. 108–311, §402(a)(5)(A)(i), struck out c
 
 Subsec. (b)(1)(C). Pub. L. 108–311, §402(a)(5)(B), amended heading and text of subpar. (C) generally. Prior to amendment, text read as follows: “The aggregate amount which may be designated as dividends under subparagraph (A) or (B) shall not exceed the aggregate dividends received by the company for the taxable year.”
 
-Subsec. (b)(2). Pub. L. 108–311, §402(a)(5)(C), substituted “as qualified dividend income for purposes of section 1(h)(11) and as dividends for purposes of” for “as a dividend for purposes of the maximum rate under section 1(h)(11) and”.
+Subsec. (b)(2). Pub. L. 108–311, §402(a)(5)(C), substituted “as qualified dividend income for purposes ofsection 1(h)(11) and as dividends for purposes of” for “as a dividend for purposes of the maximum rate under section 1(h)(11) and”.
 
 Subsec. (b)(5). Pub. L. 108–311, §402(a)(5)(D), amended heading and text of par. (5) generally. Prior to amendment, text read as follows: “For purposes of paragraph (1)(B), an amount shall be treated as a dividend only if the amount is qualified dividend income (within the meaning of section 1(h)(11)(B)).”
 
@@ -162,7 +162,7 @@ Subsec. (b). Pub. L. 88–272, §§201(d)(9), (10), 229(a)(4), substituted “45
 
 Amendment by Pub. L. 111–325 applicable to taxable years beginning after Dec. 22, 2010, see section 301(h) of Pub. L. 111–325, set out as an Effective Date of 2010 Amendment note under section 852 of this title.
 
-Pub. L. 111–325, title III, §301(i), Dec. 22, 2010, 124 Stat. 3547, provided that: “Section 303 of the Jobs andGrowth Tax Relief Reconciliation Act of 2003 \[Pub. L. 108–27, set out as an Effective and Termination Dates of 2003 Amendment note under section 1 of this title\] shall apply to the amendments made by subparagraphs (B) and (D) of subsection (e)(1) \[amending this section\] to the same extent and in the same manner as section 303 of such Act applies to the amendments made by section 302 of such Act \[amending this section and sections 1, 163, 301, 306, 338, 467, 531, 541, 584, 702, 857, 1255, and 1257 of this title and repealing section 341 of this title\].”
+Pub. L. 111–325, title III, §301(i), Dec. 22, 2010, 124 Stat. 3547, provided that: “Section 303 of the Jobs and Growth Tax Relief Reconciliation Act of 2003 \[Pub. L. 108–27, set out as an Effective and Termination Dates of 2003 Amendment note under section 1 of this title\] shall apply to the amendments made by subparagraphs (B) and (D) of subsection (e)(1) \[amending this section\] to the same extent and in the same manner as section 303 of such Act applies to the amendments made by section 302 of such Act \[amending this section and sections 1, 163, 301, 306, 338, 467, 531, 541, 584, 702, 857, 1255, and 1257 of this title and repealing section 341 of this title\].”
 
 #### Effective Date of 2004 Amendment
 

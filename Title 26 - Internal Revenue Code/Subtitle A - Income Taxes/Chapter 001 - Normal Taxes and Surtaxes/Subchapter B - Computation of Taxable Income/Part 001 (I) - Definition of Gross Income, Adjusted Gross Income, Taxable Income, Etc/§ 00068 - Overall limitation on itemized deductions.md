@@ -30,7 +30,7 @@ For purposes of this section, the term “itemized deductions” does not includ
 
 &emsp;(2) any deduction for investment interest (as defined in section 163(d)), and
 
-&emsp;(3) the deduction under section 165(a) for casualty or theft losses described in paragraph (2)or (3) of section 165(c) or for losses described in section 165(d).
+&emsp;(3) the deduction under section 165(a) for casualty or theft losses described in paragraph (2) or (3) of section 165(c) or for losses described in section 165(d).
 
 #### (d) Coordination with other limitations
 
@@ -44,7 +44,7 @@ This section shall not apply to any estate or trust.
 
 #### (1) In general
 
-&emsp;In the case of taxable years beginning after December 31, 2005, and before January 1, 2010, the reduction under subsection (a) shall be equal to the applicable fraction of the amount which would (but for this subsection) be the amount of such reduction.
+&emsp;In the case of taxable years beginning after December 31, 2005, and before January 1, 2010,the reduction under subsection (a) shall be equal to the applicable fraction of the amount which would (but for this subsection) be the amount of such reduction.
 
 #### (2) Applicable fraction
 

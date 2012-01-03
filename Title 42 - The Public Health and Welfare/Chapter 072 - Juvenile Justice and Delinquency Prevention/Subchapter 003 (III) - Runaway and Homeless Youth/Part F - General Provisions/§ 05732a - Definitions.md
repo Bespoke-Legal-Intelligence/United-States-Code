@@ -56,7 +56,7 @@ In this subchapter:
 
 #### (4) Runaway youth
 
-&emsp;The term “runaway”, used with respect to a youth, means an individual who is less than 18years of age and who absents himself or herself from home or a place of legal residence without the permission of a parent or legal guardian.
+&emsp;The term “runaway”, used with respect to a youth, means an individual who is less than 18 years of age and who absents himself or herself from home or a place of legal residence without the permission of a parent or legal guardian.
 
 #### (5) Street-based services
 

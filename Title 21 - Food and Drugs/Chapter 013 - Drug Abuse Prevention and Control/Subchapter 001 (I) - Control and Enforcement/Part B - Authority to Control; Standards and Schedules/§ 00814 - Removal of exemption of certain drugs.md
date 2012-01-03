@@ -16,7 +16,7 @@ In removing a drug or group of drugs from exemption under subsection (a) of this
 
 #### (c) Specificity of designation
 
-The Attorney General shall limit the designation of a drug or a group of drugs removed fromexemption under subsection (a) of this section to the most particularly identifiable type of drug or group of drugs for which evidence of diversion exists unless there is evidence, based on the pattern of diversion and other relevant factors, that the diversion will not be limited to that particular drug or group of drugs.
+The Attorney General shall limit the designation of a drug or a group of drugs removed from exemption under subsection (a) of this section to the most particularly identifiable type of drug or group of drugs for which evidence of diversion exists unless there is evidence, based on the pattern of diversion and other relevant factors, that the diversion will not be limited to that particular drug or group of drugs.
 
 #### (d) Reinstatement of exemption with respect to particular drug products
 
@@ -48,7 +48,7 @@ The Attorney General shall limit the designation of a drug or a group of drugs r
 
 #### (4) Amendment and modification
 
-&emsp;A regulation reinstating an exemption under paragraph (1) may be modified or revoked with respect to a particular drug product upon a finding that—
+&emsp;A regulation reinstating an exemption under paragraph (1) may be modified or revoked withrespect to a particular drug product upon a finding that—
 
 &emsp;&emsp;(A) applying the factors described in subsection (b) of this section to the drug product, the drug product is being diverted; or
 

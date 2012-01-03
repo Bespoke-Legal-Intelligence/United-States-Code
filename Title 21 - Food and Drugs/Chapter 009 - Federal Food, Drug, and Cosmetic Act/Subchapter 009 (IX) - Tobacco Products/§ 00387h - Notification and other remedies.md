@@ -24,7 +24,7 @@ Compliance with an order issued under this section shall not relieve any person 
 
 #### (A) In general
 
-&emsp;&emsp;If, after providing an opportunity for an informal hearing under paragraph (1), the Secretary determines that the order should be amended to include a recall of the tobacco product with respect to which the order was issued, the Secretary shall, except as provided in subparagraph (B), amend the order to require a recall. The Secretary shall specify a timetable in which the tobacco product recall will occur and shall require periodic reports to the Secretary describing the progress of the recall.
+&emsp;&emsp;If, after providing an opportunity for an informal hearing under paragraph (1), theSecretary determines that the order should be amended to include a recall of the tobacco product with respect to which the order was issued, the Secretary shall, except as provided in subparagraph (B), amend the order to require a recall. The Secretary shall specify a timetable in which the tobacco product recall will occur and shall require periodic reports to the Secretary describing the progress of the recall.
 
 #### (B) Notice
 

@@ -68,7 +68,7 @@ To be eligible for insurance under this section, a refinanced eligible mortgage 
 
 &emsp;&emsp;(A) be determined by the reasonable ability of the mortgagor to make his or her mortgage payments, as such ability is determined by the Secretary pursuant to section 1709(b)(4) of this title or by any other underwriting standards established by the Secretary; and
 
-&emsp;&emsp;(B) not exceed 90 percent of the appraised value of the property to which such mortgage relates (or such higher percentage asthe Secretary determines, in the discretion of the Secretary).
+&emsp;&emsp;(B) not exceed 90 percent of the appraised value of the property to which such mortgage relates (or such higher percentage as the Secretary determines, in the discretion of the Secretary).
 
 #### (3) Required waiver of prepayment penalties and fees
 
@@ -278,7 +278,7 @@ The aggregate original principal obligation of all mortgages insured under this 
 
 #### (n) Reports by the Secretary
 
-The Secretary shall submit monthly reports to the Congress identifying the progress of theHOPE for Homeowners Program, which shall contain the following information for each month:
+The Secretary shall submit monthly reports to the Congress identifying the progress of the HOPE for Homeowners Program, which shall contain the following information for each month:
 
 &emsp;(1) The number of new mortgages insured under this section, including the location of the properties subject to such mortgages by census tract.
 
@@ -314,7 +314,7 @@ The Secretary shall take such actions as may be necessary to—
 
 #### (2) Guarantee authority
 
-&emsp;To carry out the purposes of section 1721 of this title, the Government National Mortgage Association may enter into new commitments to issue guarantees of securities based on or backed by mortgages insured under this section, not exceeding $300,000,000,000. The amount of authority provided under the preceding sentence to enter into new commitments to issue guarantees is in addition to any amount of authority to make new commitments to issue guarantees that is provided to the Association under any other provision of law.
+&emsp;To carry out the purposes of section 1721 of this title, the Government National MortgageAssociation may enter into new commitments to issue guarantees of securities based on or backed by mortgages insured under this section, not exceeding $300,000,000,000. The amount of authority provided under the preceding sentence to enter into new commitments to issue guarantees is in addition to any amount of authority to make new commitments to issue guarantees that is provided to the Association under any other provision of law.
 
 #### (r) Sunset
 
@@ -448,13 +448,13 @@ Section 4568(b) of this title, referred to in subsec. (w)(2), was in the origina
 
 #### Codification
 
-Pub. L. 111–22, §202(a)(2), which directed amendment of subsecs. (e), (h)(1), (h)(3), (j), (<i>l</i>), (n), (s)(3), and (v) bysubstituting “Secretary” for “Board” each place such term appeared, was not executed to subsec. (e)(4)(A), (9), or the heading for subsec. (n), to reflect the probable intent of Congress and the amendments by Pub. L. 111–22, §202(a)(3)(B)(i), (D)(ii), (7). See 2010 Amendment notes below.
+Pub. L. 111–22, §202(a)(2), which directed amendment of subsecs. (e), (h)(1), (h)(3), (j), (<i>l</i>), (n), (s)(3), and (v) by substituting “Secretary” for “Board” each place such term appeared, was not executed to subsec. (e)(4)(A), (9), or the heading for subsec. (n), to reflect the probable intent of Congress and the amendments by Pub. L. 111–22, §202(a)(3)(B)(i), (D)(ii), (7). See 2010 Amendment notes below.
 
 Another section 257 of act June 27, 1934, was renumbered section 258 and is classified to section 1715z–24 of this title.
 
 #### Amendments
 
-2009—Subsec. (c)(1). Pub. L. 111–22, §202(a)(1)(A), (B), substituted “Secretary” for “the Board” in heading and “Secretary, after consultation with the Board,” for “Board” in introductory provisions.
+<b>2009</b>—Subsec. (c)(1). Pub. L. 111–22, §202(a)(1)(A), (B), substituted “Secretary” for “the Board” in heading and “Secretary, after consultation with the Board,” for “Board” in introductory provisions.
 
 Subsec. (c)(1)(A). Pub. L. 111–22, §202(a)(1)(C), inserted “consistent with section 1709(b) of this title to the maximum extent possible” before semicolon.
 
@@ -476,7 +476,7 @@ Subsec. (e)(7). Pub. L. 111–22, §202(a)(3)(C), struck out “; and provided 
 
 Pub. L. 111–22, §202(a)(2), substituted “Secretary” for “Board”.
 
-Subsec. (e)(9). Pub. L. 111–22, §202(a)(3)(D), substituted “in accordance with procedures and standards that the Secretary shall establish (provided that such procedures and standards are consistent with section 1709(b) of this title to the maximum extent possible) which may include requiring the mortgagee to procure” for “by procuring (A) an income tax return transcript of the income tax returns of the mortgagor, or (B)” and struck out “and by any other method, in accordance with procedures and standards that the Board shall establish” before period at end. See Codification note above.
+Subsec. (e)(9). Pub. L. 111–22, §202(a)(3)(D), substituted “in accordance with procedures and standards that the Secretary shall establish (provided that such procedures and standards are consistent with section 1709(b) of this title to the maximum extent possible) which may include requiring the mortgagee to procure” for “by procuring (A) an income tax return transcript of the income tax returns of the mortgagor, or (B)” and struck out “and by any other method, in accordancewith procedures and standards that the Board shall establish” before period at end. See Codification note above.
 
 Subsec. (e)(10). Pub. L. 111–22, §202(a)(3)(E), designated existing provisions as subpar. (A), inserted subpar. (A) heading, and added subpar. (B).
 
@@ -516,7 +516,7 @@ Subsec. (v). Pub. L. 111–22, §202(a)(2), (10), substituted “action of the S
 
 Subsecs. (x), (y). Pub. L. 111–22, §202(a)(11), added subsecs. (x) and (y).
 
-2008—Subsec. (e)(1)(B). Pub. L. 110–343, §124(1)(A), inserted “, or thereafter is likely to have, due to the terms of the mortgage being reset,” before “a ratio”.
+<b>2008</b>—Subsec. (e)(1)(B). Pub. L. 110–343, §124(1)(A), inserted “, or thereafter is likely to have, due to the terms of the mortgage being reset,” before “a ratio”.
 
 Subsec. (e)(2)(B). Pub. L. 110–343, §124(1)(B), inserted “(or such higher percentage as the Board determines, in the discretion of the Board)” before period at end.
 

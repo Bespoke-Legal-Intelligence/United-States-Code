@@ -34,7 +34,7 @@ Beginning at a stone bound set in the ground in the southeasterly side line of S
 
 &emsp;thence north 24 degrees 30 minutes east and following a southeasterly line of last mentioned land, 277 feet to an iron pipe driven in the ground;
 
-&emsp;thence following an easterly line of land belonging to the Jackson Laboratory along a curve to the left, 111 feet, the radius of said curve being 373 feet;
+&emsp;thence following an easterly line of land belonging to the Jackson Laboratory along acurve to the left, 111 feet, the radius of said curve being 373 feet;
 
 &emsp;thence north 23 degrees 40 minutes west and always following a northeasterly line of land belonging to the Jackson Laboratory, said land belonging formerly to the trustees of Louise D. Morrell, 492 feet to the point of beginning, and containing 4.632 acres.
 

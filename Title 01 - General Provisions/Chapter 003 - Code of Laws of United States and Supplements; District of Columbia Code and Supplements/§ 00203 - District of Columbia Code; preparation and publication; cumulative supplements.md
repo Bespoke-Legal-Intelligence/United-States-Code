@@ -1,6 +1,6 @@
 ### §203. District of Columbia Code; preparation and publication; cumulative supplements
 
-The Committee on the Judiciary of the House of Representatives is authorized to print bills to codify, revise, and reenact the general and permanent laws relating to the District of Columbia and cumulative supplements thereto, similar in style, respectively, to the Code of Laws of the United States, and supplements thereto, and to so continue until final enactment thereof in both Houses of the Congress of the United States.
+The Committee on the Judiciary of the House of Representatives is authorized to print bills to codify, revise, and reenact the general and permanent laws relating to the District of Columbia and cumulative supplements thereto, similarin style, respectively, to the Code of Laws of the United States, and supplements thereto, and to so continue until final enactment thereof in both Houses of the Congress of the United States.
 
 (July 30, 1947, ch. 388, 61 Stat. 638.)
 
@@ -10,7 +10,7 @@ Pub. L. 90–226, title X, Dec. 27, 1967, 81 Stat. 742, provided for creation an
 
 #### Cross References
 
-Council of the District of Columbia, functions respecting, see section 2 of Pub. L. 94–386, Aug. 14, 1976,90 Stat. 1170, set out as a note under section 285b of Title 2, The Congress.
+Council of the District of Columbia, functions respecting, see section 2 of Pub. L. 94–386, Aug. 14, 1976, 90 Stat. 1170, set out as a note under section 285b of Title 2, The Congress.
 
 Office of the Law Revision Counsel, functions respecting, see section 285b of Title 2.
 

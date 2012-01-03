@@ -46,7 +46,7 @@ A State receiving a grant under subsection (a) of this section may use funds rec
 
 &emsp;(11) the establishment of faculty recruitment programs at accredited dental training institutions whose mission includes community outreach and service and that have a demonstrated record of serving underserved States;
 
-&emsp;(12) the development of a State dental officer position or the augmentation of a State dental office to coordinate oral health and access issues in the State; and
+&emsp;(12) the development of a State dental officer position or the augmentation of a State dentaloffice to coordinate oral health and access issues in the State; and
 
 &emsp;(13) any other activities determined to be appropriate by the Secretary.
 

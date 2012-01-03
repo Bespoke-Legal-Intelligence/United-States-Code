@@ -26,7 +26,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1978—Pub. L. 95–454 substituted “Regulations” for “Review of ratings” in section catchline and in text substituted provisions relating to regulations to carry out this subchapter, for provisions relating to review of ratings.
+<b>1978</b>—Pub. L. 95–454 substituted “Regulations” for “Review of ratings” in section catchline and in text substituted provisions relating to regulations to carry out this subchapter, for provisions relating to review of ratings.
 
 #### Effective Date of 1978 Amendment
 

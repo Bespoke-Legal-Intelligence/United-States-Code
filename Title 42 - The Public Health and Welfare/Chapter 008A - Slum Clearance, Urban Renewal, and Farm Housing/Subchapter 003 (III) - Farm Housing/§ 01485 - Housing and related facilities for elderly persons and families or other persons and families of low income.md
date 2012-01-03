@@ -20,7 +20,7 @@ The Secretary is authorized to insure and make commitments to insure loans made 
 
 &emsp;(2) such a loan may be made for a period of up to 30 years from the making of the loan, but the Secretary may provide for periodic payments based on an amortization schedule of 50 years with a final payment of the balance due at the end of the term of the loan;
 
-&emsp;(3) for insuring such loans, the Secretary shall utilize the Agricultural Credit Insurance Fund subject to all the provisions of section 1929 of title 7 and the second and third sentences of section 1928 <sup>1</sup> of title 7, including the authority in section 1929(f)(1) <sup>1</sup> of title 7 to utilize the insurance fund to make, sell, and insure loans which could be insured under this subsection; but the aggregate of the principalamounts of such loans made by the Secretary and not disposed of shall not exceed $10,000,000 outstanding at any one time; and the Secretary may take liens running to the United States though the notes may be held by other lenders;
+&emsp;(3) for insuring such loans, the Secretary shall utilize the Agricultural Credit Insurance Fund subject to all the provisions of section 1929 of title 7 and the second and third sentences of section 1928 <sup>1</sup> of title 7, including the authority in section 1929(f)(1) <sup>1</sup> of title 7 to utilize the insurance fund to make, sell, and insure loans which could be insured under this subsection; but the aggregate of the principal amounts of such loans made by the Secretary and not disposed of shall not exceed $10,000,000 outstanding at any one time; and the Secretary may take liens running to the United States though the notes may be held by other lenders;
 
 &emsp;(4) such a loan, when made to a consumer cooperative for cooperative housing purposes, may, notwithstanding any other provision of law, be made upon the condition that any person who is admitted as an eligible member and tenant of the cooperative may not subsequently be deprived of his membership or tenancy by reason of his no longer meeting the income eligibility requirements established by the Secretary;
 
@@ -120,7 +120,7 @@ For purposes of determining the market feasibility of any project to be assisted
 
 &emsp;&emsp;(A) a market exists for persons and families eligible for such program of assistance;
 
-&emsp;&emsp;(B) such program of assistance will provide rental assistance for a period of not less than five years, and, at the option of the applicant, either that there is a reasonable assurance that the contract for assistance will be extended or renewed, or for the term of the loan remaining after the period of such assistance, that an adequate rental market exists for the project without such assistance; and
+&emsp;&emsp;(B) such program of assistance will provide rental assistance for a period of not less than five years, and, at the option of the applicant, either that there is a reasonable assurance that the contract for assistance will be extended or renewed, or for the term of the loan remaining after the period of suchassistance, that an adequate rental market exists for the project without such assistance; and
 
 &emsp;&emsp;(C) during the term of such rental assistance contracts, such State or political subdivision shall make available the amounts required for such rental assistance not less than annually.
 
@@ -226,7 +226,7 @@ The Secretary may provide for the assumption or transfer of a loan or loan oblig
 
 #### (2) Minimum State set-aside
 
-&emsp;If the amount set aside under paragraph (1) for any State is less than $750,000 in any fiscal year, the Secretary shall pool such amount together with set-aside amounts from other States whose set-aside is less than $750,000, and shall make such amounts available forsuch eligible entities under paragraph (1) in any such State. The Secretary shall establish a procedure to provide that any amounts pooled under this paragraph from the allocation for any State in any fiscal year that are not obligated during a reasonable period in such year shall be made available for any such eligible entities under paragraph (1) in such State. The Secretary may provide amounts available for reallocation under this subsection in excess of $750,000 in a given State, if such amounts are necessary to finance a project under this section.
+&emsp;If the amount set aside under paragraph (1) for any State is less than $750,000 in any fiscalyear, the Secretary shall pool such amount together with set-aside amounts from other States whose set-aside is less than $750,000, and shall make such amounts available for such eligible entities under paragraph (1) in any such State. The Secretary shall establish a procedure to provide that any amounts pooled under this paragraph from the allocation for any State in any fiscal year that are not obligated during a reasonable period in such year shall be made available for any such eligible entities under paragraph (1) in such State. The Secretary may provide amounts available for reallocation under this subsection in excess of $750,000 in a given State, if such amounts are necessary to finance a project under this section.
 
 #### (3) Unused amounts
 
@@ -294,7 +294,7 @@ The Secretary shall—
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may request the Attorney General to bring an action in a UnitedStates district court to recover any assets or income used by any person in violation of the provisions of a loan made or guaranteed by the Secretary under this section or in violation of any applicable statute or regulation.
+&emsp;&emsp;The Secretary may request the Attorney General to bring an action in a United States district court to recover any assets or income used by any person in violation of the provisions of a loan made or guaranteed by the Secretary under this section or in violation of any applicable statute or regulation.
 
 #### (B) Improper documentation
 
@@ -404,9 +404,9 @@ Subsec. (z). Pub. L. 104–180, §734(d)(2), (e)(2), added subsec. (z) and struc
 
 <b>1992</b>—Subsec. (b)(4). Pub. L. 102–550, §701(e), substituted “1994” for “1992”.
 
-Subsec. (e)(4). Pub. L. 102–550, §707(a), struck out “and” before “initial operating expenses up to”, inserted “, impact fees, local charges for installation, provision, or use of infrastructure, and local assessments for public improvements and services imposed by State and local governments” after “approved by the Secretary”, and inserted at end “Notwithstanding the first sentence of this paragraph, the term ‘development cost’ shall not include any initial operating expenses in the case of any nonprofit corporation or consumer cooperative that is financing housing under this section and has been allocated a low-income housing tax credit by a housing credit agency pursuant to section 42 of title 26.”
+Subsec. (e)(4). Pub. L. 102–550, §707(a), struck out “and” before “initial operating expenses up to”, inserted “, impact fees, local charges for installation, provision, or use of infrastructure, and local assessments for public improvements and services imposed by State and local governments” after “approved by theSecretary”, and inserted at end “Notwithstanding the first sentence of this paragraph, the term ‘development cost’ shall not include any initial operating expenses in the case of any nonprofit corporation or consumer cooperative that is financing housing under this section and has been allocated a low-income housing tax credit by a housing credit agency pursuant to section 42 of title 26.”
 
-Subsec. (<i>l</i>)(1). Pub. L. 102–550, §707(b)(1), added par. (1) and struck out former par. (1) which read as follows:“in the case of any applicant whose project is expected to utilize rental assistance payments under section 1490a of this title, the Secretary shall only require such applicant to demonstrate that a market exists for persons and families eligible for such rental assistance payments; and”.
+Subsec. (<i>l</i>)(1). Pub. L. 102–550, §707(b)(1), added par. (1) and struck out former par. (1) which read as follows: “in the case of any applicant whose project is expected to utilize rental assistance payments under section 1490a of this title, the Secretary shall only require such applicant to demonstrate that a market exists for persons and families eligible for such rental assistance payments; and”.
 
 Subsec. (p)(4). Pub. L. 102–550, §707(b)(2)(1), substituted period at end for “, except when the Secretary determines that the continued vacancy of units that have been unoccupied for at least 6 months threatens the financial viability of the project. The preceding sentence shall not be interpreted as authorizing the Secretary to—
 
@@ -604,7 +604,7 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 
 
 #### Regulations
 
-Section 707(f)(2) of Pub. L. 102–550 provided that: “The Secretary of Agriculture shall issue any regulations necessary to carry out the amendment made by paragraph (1) \[amending this section\] not later than the expiration of the 45-day period beginning on the date of the enactment of this Act \[Oct. 28, 1992\]. Not later than the expiration of the 30-day period beginning on the date of the enactment of this Act, the Secretary shall submit a copy of any regulations to be issued under this subsection to the Congress. The requirements of section 534(d) of the Housing Act of 1949 \[42 U.S.C. 1490n(d)\] and subsections (b) and (c) of section 553 of title 5, United States Code, shall apply to any such regulations.”
+Section 707(f)(2) of Pub. L. 102–550 provided that: “The Secretary of Agriculture shall issue any regulations necessary to carry out the amendment made by paragraph (1) \[amending this section\] not later than the expiration of the 45-day period beginning on the date ofthe enactment of this Act \[Oct. 28, 1992\]. Not later than the expiration of the 30-day period beginning on the date of the enactment of this Act, the Secretary shall submit a copy of any regulations to be issued under this subsection to the Congress. The requirements of section 534(d) of the Housing Act of 1949 \[42 U.S.C. 1490n(d)\] and subsections (b) and (c) of section 553 of title 5, United States Code, shall apply to any such regulations.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

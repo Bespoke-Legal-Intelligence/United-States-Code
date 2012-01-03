@@ -92,7 +92,7 @@ Availability of Funds.—Any amount made available or appropriated under this se
 
 &emsp;(2) that remains unobligated at the end of the period described in paragraph (1) shall be added to the amount made available in the following fiscal year.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 800; Pub. L. 105–178, title III, §3008(a), (c), June 9, 1998, 112 Stat. 348; Pub. L. 105–206, title IX, §9009(f), July 22, 1998, 112 Stat. 855; Pub. L. 109–59, title III, §3010(a), Aug. 10, 2005, 119 Stat. 1572.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 800; Pub. L. 105–178, title III, §3008(a), (c), June 9,1998, 112 Stat. 348; Pub. L. 105–206, title IX, §9009(f), July 22, 1998, 112 Stat. 855; Pub. L. 109–59, title III, §3010(a), Aug. 10, 2005, 119 Stat. 1572.)
 
 Historical and Revision Notes
 
@@ -152,7 +152,7 @@ Pub. L. 109–59, title III, §3045, Aug. 10, 2005, 119 Stat. 1705, provided tha
 
 “(a)
 
-Establishment.—The Secretary \[of Transportation\] shall establish a national fuel cell bus technology development program (in this section referred to as the ‘program’) to facilitate the development ofcommercially viable fuel cell bus technology and related infrastructure.
+Establishment.—The Secretary \[of Transportation\] shall establish a national fuel cell bus technology development program (in this section referred to as the ‘program’) to facilitate the development of commercially viable fuel cell bus technology and related infrastructure.
 
 “(b)
 

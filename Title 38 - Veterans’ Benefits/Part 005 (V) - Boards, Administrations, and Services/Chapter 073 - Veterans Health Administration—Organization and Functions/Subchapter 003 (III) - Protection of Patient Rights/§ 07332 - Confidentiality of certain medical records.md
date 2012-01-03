@@ -24,6 +24,8 @@
 
 &emsp;(ii) In this subparagraph, the term “representative” means an individual, organization, or other body authorized under section 7331 of this title and its implementing regulations to give informed consent on behalf of a patient who lacks decision-making capacity.
 
+&emsp;(G) To a State controlled substance monitoring program, including a program approved by the Secretary of Health and Human Services under section 399O of the Public Health Service Act (42 U.S.C. 280g–3), to the extent necessary to prevent misuse and diversion of prescription medicines.
+
 (3) In the event that the patient or subject who is the subject of any record referred to in subsection (a) is deceased, the content of any such record may be disclosed by the Secretary only upon the prior written request of the next of kin, executor, administrator, or other personal representative of such patient or subject and only if the Secretary determines that such disclosure is necessary for such survivor to obtain benefits to which such survivor may be entitled, including the pursuit of legal action, but then only to the extent, under such circumstances, and for such purposes as may be allowed in regulations prescribed pursuant to section 7334 of this title.
 
 (c) Except as authorized by a court order granted under subsection (b)(2)(D), no record referred to in subsection (a) may be used to initiate or substantiate any criminal charges against, or to conduct any investigation of, a patient or subject.
@@ -36,7 +38,7 @@
 
 &emsp;(2) between such components furnishing health care to veterans and the Armed Forces.
 
-(f)(1) Notwithstanding subsection (a) but subject to paragraph (2), a physician or a professional counselor may disclose information or records indicating that a patient or subject is infected with the human immunodeficiency virus if the disclosure is made to (A) the spouse of the patient or subject, or (B) to an individualwhom the patient or subject has, during the process of professional counseling or of testing to determine whether the patient or subject is infected with such virus, identified as being a sexual partner of such patient or subject.
+(f)(1) Notwithstanding subsection (a) but subject to paragraph (2), a physician or a professional counselor may disclose information or records indicating that a patient or subject is infected with the human immunodeficiency virus if the disclosure is made to (A) the spouse of the patient or subject, or (B) to an individual whom the patient or subject has, during the process of professional counseling or of testing to determine whether the patient or subject is infected with such virus, identified as being a sexual partner of such patient or subject.
 
 (2)(A) A disclosure under paragraph (1) may be made only if the physician or counselor, after making reasonable efforts to counsel and encourage the patient or subject to provide the information to the spouse or sexual partner, reasonably believes that the patient or subject will not provide the information to the spouse or sexual partner and that the disclosure is necessary to protect the health of the spouse or sexual partner.
 
@@ -44,9 +46,11 @@
 
 (g) Any person who violates any provision of this section or any regulation issued pursuant to this section shall be fined, in the case of a first offense, up to the maximum amount provided under section 5701(f) of this title for a first offense under that section and, in the case of a subsequent offense, up to the maximum amount provided under section 5701(f) of this title for a subsequent offense under that section.
 
-(Added Pub. L. 94–581, title I, §111(a)(1), Oct. 21, 1976, 90 Stat. 2849, §4132; amended Pub. L. 100–322, title I, §121, May 20, 1988, 102 Stat. 502; renumbered §7332 and amended Pub. L. 102–40, title IV, §§401(a)(4)(A), 402(d)(1), 403(a)(1), (2), (4), (5), May 7, 1991, 105 Stat. 221, 239; Pub. L. 109–461, title II, §204(b), Dec. 22, 2006, 120 Stat. 3411; Pub. L. 111–163, title V, §504, May 5, 2010, 124 Stat. 1157.)
+(Added Pub. L. 94–581, title I, §111(a)(1), Oct. 21, 1976, 90 Stat. 2849, §4132; amended Pub. L. 100–322, title I, §121, May 20, 1988, 102 Stat. 502; renumbered §7332 and amended Pub. L. 102–40, title IV, §§401(a)(4)(A), 402(d)(1), 403(a)(1), (2), (4), (5), May 7, 1991, 105 Stat. 221, 239; Pub. L. 109–461, title II, §204(b), Dec. 22, 2006, 120 Stat. 3411; Pub. L. 111–163, title V, §504, May 5, 2010, 124 Stat. 1157; Pub. L. 112–74, div. H, title II, §230(b), Dec. 23, 2011, 125 Stat. 1159.)
 
 #### Amendments
+
+<b>2011</b>—Subsec. (b)(2)(G). Pub. L. 112–74 added subpar. (G).
 
 <b>2010</b>—Subsec. (b)(2)(F). Pub. L. 111–163 added subpar. (F).
 

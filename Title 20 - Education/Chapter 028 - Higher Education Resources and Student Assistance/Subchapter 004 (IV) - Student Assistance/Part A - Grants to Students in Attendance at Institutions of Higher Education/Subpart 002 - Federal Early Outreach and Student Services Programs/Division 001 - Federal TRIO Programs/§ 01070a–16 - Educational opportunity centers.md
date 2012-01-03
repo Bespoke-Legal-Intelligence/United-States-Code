@@ -64,7 +64,7 @@ Pub. L. 110–315, §403(f)(2)(A), redesignated former par. (6) as (7). Former p
 
 Subsec. (b)(8) to (10). Pub. L. 110–315, §403(f)(2)(A), redesignated pars. (7) to (9) as (8) to (10), respectively. Former par. (10) redesignated (11).
 
-Subsec. (b)(11). Pub. L. 110–315, §403(f)(2)(D), added par. (11) and struck out former par. (11) which read as follows: “programs and activities as described in paragraphs (1) through (9) which are specially designed for students of limited English proficiency.”
+Subsec. (b)(11). Pub. L. 110–315, §403(f)(2)(D), added par. (11) and struck out former par. (11) which read asfollows: “programs and activities as described in paragraphs (1) through (9) which are specially designed for students of limited English proficiency.”
 
 Pub. L. 110–315, §403(f)(2)(A), redesignated par. (10) as (11).
 

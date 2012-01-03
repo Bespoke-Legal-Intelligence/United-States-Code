@@ -152,7 +152,7 @@ The Harmonized Tariff Schedule, referred to in subsecs. (b)(5)(D) and (c)(1)(C)(
 
 #### Amendments
 
-1999—Subsec. (a)(1). Pub. L. 106–78, §806(a)(1), substituted “or cash payments, at the option of the recipient,” for “or cash payments” in introductory provisions.
+<b>1999</b>—Subsec. (a)(1). Pub. L. 106–78, §806(a)(1), substituted “or cash payments, at the option of the recipient,” for “or cash payments” in introductory provisions.
 
 Subsec. (a)(1)(A), (2). Pub. L. 106–78, §806(a)(2), substituted “1.25 cents per pound” for “3 cents per pound”.
 
@@ -166,9 +166,9 @@ Subsec. (b)(1). Pub. L. 106–78, §806(b)(1), added par. (1) and struck out hea
 
 Subsec. (b)(7). Pub. L. 106–78, §806(b)(2), added par. (7).
 
-1998—Subsecs. (a)(1)(A), (2), (b)(1). Pub. L. 105–277 substituted “3 cents” for “1.25 cents”.
+<b>1998</b>—Subsecs. (a)(1)(A), (2), (b)(1). Pub. L. 105–277 substituted “3 cents” for “1.25 cents”.
 
-1997—Subsec. (a)(1). Pub. L. 105–86, §731(1), in introductory provisions substituted “During” for “Subject to paragraph (4), during” and in subpar. (B) substituted “134” for “130”.
+<b>1997</b>—Subsec. (a)(1). Pub. L. 105–86, §731(1), in introductory provisions substituted “During” for “Subject to paragraph (4), during” and in subpar. (B) substituted “134” for “130”.
 
 Subsec. (a)(4), (5). Pub. L. 105–86, §731(2), (3) redesignated par. (5) as (4) and struck out heading and text of former par. (4). Text read as follows: “The Secretary shall not issue marketing certificates or cash payments under paragraph (1) if, for the immediately preceding consecutive 10-week period, the Friday through Thursday average price quotation for the lowest priced United States growth, as quoted for Middling (M) 13/32-inch cotton, delivered C.I.F. Northern Europe, adjusted for the value of any certificate issued under this subsection, exceeds the Northern Europe price by more than 1.25 cents per pound.”
 

@@ -14,7 +14,7 @@ Notwithstanding the other provisions of this chapter—
 
 &emsp;(6) Whenever the planted acreage of the then current crop of wheat on any farm is less than the farm acreage allotment for such commodity, the total amount of the commodity from any previous crops required to be stored in order to postpone or avoid payment of penalty shall be reduced by that amount which is equal to the normal production of the number of acres by which the farm acreage allotment exceeds the planted acreage. The provisions of section 1326(b) and (c) of this title shall be applicable also to wheat.
 
-&emsp;(7) Until the farm marketing excess of wheat is stored or delivered to the Secretary or the penalty thereon is paid, each bushel of the commodity produced on the farm which is sold by the producer to any person within the United States shall be subject to the penalty as specified in paragraph (2) of this section. Such penalty shall be paid by the buyer, who may deduct an amount equivalent to the penalty from the price paid to the producer. If the buyer fails to collect such penalty, such buyer and all persons entitled to share in the wheat marketed from the farm or the proceeds thereof shall be jointly and severally liable for such penalty.
+&emsp;(7) Until the farm marketing excess of wheat is stored or delivered to the Secretary or the penalty thereon is paid, each bushel of the commodity produced on the farm which is sold by the producer to any person within the United States shall be subject to the penalty as specified in paragraph (2) of this section. Such penalty shall be paid by the buyer, whomay deduct an amount equivalent to the penalty from the price paid to the producer. If the buyer fails to collect such penalty, such buyer and all persons entitled to share in the wheat marketed from the farm or the proceeds thereof shall be jointly and severally liable for such penalty.
 
 &emsp;(8) The marketing penalty for rice produced in the calendar year in which any marketing year begins (if beginning with or after the 1941–1942 marketing year) shall be at a rate equal to 50 per centum of the basic rate of the loan for cooperators for such marketing year under section 1302 of this title and this section.
 
@@ -44,9 +44,9 @@ Par. (9), which directed the Commodity Credit Corporation to make loans upon the
 
 #### Amendments
 
-1965—Par. (1). Pub. L. 89–321 substituted “projected farm yield” for “normal yield of wheat per acre established for the farm”.
+<b>1965</b>—Par. (1). Pub. L. 89–321 substituted “projected farm yield” for “normal yield of wheat per acre established for the farm”.
 
-1962—Par. (1). Pub. L. 87–703, §319(1), substituted requirement that computation of the farm marketing excess initially be double the farm normal yield of wheat times the excess acres, such excess acres being reduced to the actual yield times the excess acres, upon proof by the producer of the actual yield, for provision that the farm marketing excess could not be more than the actual production of wheat on the farm less the normal production of the farm acreage allotment and provided that the acreage of wheat not disposed of by the prescribed date would be considered wheat acreage, with the wheat production thereon appraised for the purposes of determining the farm marketing quota and farm marketing excess, that wheat acreage disposed of prior to the disposal date would not be considered acreage and that the acreage of volunteer wheat not disposed of would be considered wheat acreage.
+<b>1962</b>—Par. (1). Pub. L. 87–703, §319(1), substituted requirement that computation of the farm marketing excess initially be double the farm normal yield of wheat times the excess acres, such excess acres being reduced to the actual yield times the excess acres, upon proof by the producer of the actual yield, for provision that the farm marketing excess could not be more than the actual production of wheat on the farm less the normal production of the farm acreage allotment and provided that the acreage of wheat not disposed of by the prescribed date would be considered wheat acreage, with the wheat production thereon appraised for the purposes of determining the farm marketing quota and farm marketing excess, that wheat acreage disposed of prior to the disposal date would not be considered acreage and that the acreage of volunteer wheat not disposed of would be considered wheat acreage.
 
 Par. (2). Pub. L. 87–703, §319(2), increased from 45 to 65 per centum the rate of penalty on farm marketing excess and provided for joint and several liability for such penalty.
 
@@ -64,15 +64,15 @@ Par. (11). Pub. L. 87–703, §319(9), added par. (11). Former par. (11) redesig
 
 Par. (12). Pub. L. 87–703, §319(9), added par. (12). Former par. (12), which limited farm marketing excess for any crop of wheat and provided for return to producer of difference between amount of penalty or storage as computed upon farm marketing excess before adjustment and as computed upon adjusted farm marketing excess, where a downward adjustment in amount of farm marketing excess was made, was repealed by such section 319(9).
 
-1961—Par. (7). Pub. L. 87–128 authorized Secretary to prescribe regulations relating to the exemption of farms from marketing quotas on any crop of wheat, specified the exemption for the 1962 crop and eliminated marketing penalty provisions relating to nonallotment farms under the Soil Conservation and Domestic Allotment Act.
+<b>1961</b>—Par. (7). Pub. L. 87–128 authorized Secretary to prescribe regulations relating to the exemption offarms from marketing quotas on any crop of wheat, specified the exemption for the 1962 crop and eliminated marketing penalty provisions relating to nonallotment farms under the Soil Conservation and Domestic Allotment Act.
 
-1954—Act Aug. 28, 1954, amended section generally to make it inapplicable to corn.
+<b>1954</b>—Act Aug. 28, 1954, amended section generally to make it inapplicable to corn.
 
-1953—Act July 14, 1953, omitted penalty for marketing corn in excess of quotas and changed penalty for marketing wheat in excess of quotas from 50 per centum of basic loan rate on commodity for cooperators to 45 per centum of parity price.
+<b>1953</b>—Act July 14, 1953, omitted penalty for marketing corn in excess of quotas and changed penalty for marketing wheat in excess of quotas from 50 per centum of basic loan rate on commodity for cooperators to 45 per centum of parity price.
 
-1949—Par. (9). Act Aug. 29, 1949, struck out “cotton and” after “penalty for”.
+<b>1949</b>—Par. (9). Act Aug. 29, 1949, struck out “cotton and” after “penalty for”.
 
-1941—Par. (10). Act Dec. 26, 1941, ch. 626, substituted “1941, 1942, 1943, 1944, 1945 and 1946 crops of the commodities cotton, corn, wheat, rice, tobacco and peanuts” for “1941 crop of the commodities cotton, corn, wheat, rice, or tobacco” and “for the marketing year beginning in the calendar year in which such crop is harvested” for “marketing year beginning in 1941.”
+<b>1941</b>—Par. (10). Act Dec. 26, 1941, ch. 626, substituted “1941, 1942, 1943, 1944, 1945 and 1946 crops of the commodities cotton, corn, wheat, rice, tobacco and peanuts” for “1941 crop of the commodities cotton, corn, wheat, rice, or tobacco” and “for the marketing year beginning in the calendar year in which such crop is harvested” for “marketing year beginning in 1941.”
 
 Par. (12). Act Dec. 26, 1941, ch. 636, added par. (12).
 

@@ -114,7 +114,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Pub. L. 110–246, §4002(a)(12)(A), substituted “Simplified supplemental nutrition assistance program” for “Simplified Food Stamp Program” in section catchline.
+<b>2008</b>—Pub. L. 110–246, §4002(a)(12)(A), substituted “Simplified supplemental nutrition assistance program” for “Simplified Food Stamp Program” in section catchline.
 
 Subsec. (b). Pub. L. 110–246, §4002(a)(12)(B), which directed amendment of subsec. (b) by substituting “simplified supplemental nutrition assistance program” for “simplified food stamp program”, was executed by making the substitution for “Simplified Food Stamp Program”, to reflect the probable intent of Congress.
 

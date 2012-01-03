@@ -64,13 +64,13 @@ For purposes of this section and section 301, the Secretary shall prescribe regu
 
 #### (1) In general
 
-&emsp;If any person purchases after April 30, 1993, any stripped preferred stock, then such person, while holding such stock, shall include in gross income amounts equal to the amounts which would have been so includible if such stripped preferred stock were a bond issued on the purchase date and having original issue discount equal to the excess, if any, of—
+&emsp;If any person purchases after April 30, 1993, any stripped preferred stock, then such person, while holding such stock, shall include in gross income amounts equal to the amounts which would have been so includible if suchstripped preferred stock were a bond issued on the purchase date and having original issue discount equal to the excess, if any, of—
 
 &emsp;&emsp;(A) the redemption price for such stock, over
 
 &emsp;&emsp;(B) the price at which such person purchased such stock.
 
-> &emsp;The preceding sentence shall also apply in the case of any person whose basis in such stock isdetermined by reference to the basis in the hands of such purchaser.
+> &emsp;The preceding sentence shall also apply in the case of any person whose basis in such stock is determined by reference to the basis in the hands of such purchaser.
 
 #### (2) Basis adjustments
 

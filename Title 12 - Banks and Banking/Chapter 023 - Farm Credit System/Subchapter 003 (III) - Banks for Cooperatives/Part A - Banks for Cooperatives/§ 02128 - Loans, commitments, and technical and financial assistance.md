@@ -2,7 +2,7 @@
 
 #### (a) Authorities
 
-The banks for cooperatives are authorized to make loans and commitments to eligible cooperative associations and to extend to them other technical and financial assistance at any time (whether or not they have a loan from the bank outstanding), including but not limited to discounting notes and other obligations, guarantees, currency exchange necessary to service individual transactions that may be financed under subsection (b) of this section, collateral custody, or participation with other banks for cooperatives and commercial banks or other financial institutions in loans to eligible cooperatives, under such terms and conditions as may be determined to be feasible by the board of directors of each bank for cooperatives under regulations of the Farm Credit Administration. Such regulations may include provisions for avoiding duplication between the Central Bank and district banks for cooperatives. Each bank may own and lease, or lease with option to purchase, to stockholders eligible to borrow from the bank equipment needed in the operations of the stockholder and may make or participate in loans or commitments and extend other technical and financial assistance to other domestic parties for the acquisition of equipment and facilities to be leased to such stockholders for use in their operations in the United States.
+The banks for cooperatives are authorized to make loans and commitments to eligible cooperative associations and to extend to them other technical and financial assistance at any time (whether or not they have a loan from the bank outstanding), including but not limited to discounting notes and other obligations, guarantees, currency exchange necessary to service individual transactions that may be financed under subsection (b) of this section, collateral custody, or participation with other banks for cooperatives and commercial banks or other financial institutions in loans to eligible cooperatives, under such terms and conditions as may be determined to be feasible by the board of directors of each bank for cooperatives under regulations of the Farm Credit Administration. Such regulations may include provisions foravoiding duplication between the Central Bank and district banks for cooperatives. Each bank may own and lease, or lease with option to purchase, to stockholders eligible to borrow from the bank equipment needed in the operations of the stockholder and may make or participate in loans or commitments and extend other technical and financial assistance to other domestic parties for the acquisition of equipment and facilities to be leased to such stockholders for use in their operations in the United States.
 
 #### (b) Additional authorities
 
@@ -54,7 +54,7 @@ The banks for cooperatives may, for the purpose of installing, maintaining, expa
 
 &emsp;(1) cooperatives formed specifically for the purpose of establishing or operating such facilities; and
 
-&emsp;(2) public and quasi-public agencies and bodies, and other public and private entities that, under authority of State or local law, establish or operate such facilities.
+&emsp;(2) public and quasi-public agencies and bodies, and other public and private entities that,under authority of State or local law, establish or operate such facilities.
 
 > For purposes of this subsection, the term “rural area” means all territory of a State that is not within the outer boundary of any city or town having a population of more than 20,000 based on the latest decennial census of the United States.
 
@@ -62,13 +62,13 @@ The banks for cooperatives may, for the purpose of installing, maintaining, expa
 
 #### Amendments
 
-2002—Subsec. (b)(1), (2)(A)(i). Pub. L. 107–171, §5402(1), substituted “agricultural supplies” for “farm supplies”.
+<b>2002</b>—Subsec. (b)(1), (2)(A)(i). Pub. L. 107–171, §5402(1), substituted “agricultural supplies” for “farm supplies”.
 
 Subsec. (b)(4). Pub. L. 107–171, §5402(2), added par. (4).
 
-1994—Subsec. (b)(1). Pub. L. 103–376, §3(A), substituted “assistance to” for “assistance to (A)”, “bank for the import” for “bank for the export or import”, and “if the bank for cooperatives” for “and (B) a domestic or foreign party in which such an association has at least the minimum ownership interest approved under regulations of the Farm Credit Administration for the purpose of facilitating the association's export or import operations of the type described in subparagraph (A): <i>Provided</i>, That a”.
+<b>1994</b>—Subsec. (b)(1). Pub. L. 103–376, §3(A), substituted “assistance to” for “assistance to (A)”, “bank for the import” for “bank for the export or import”, and “if the bank for cooperatives” for “and (B) a domestic or foreign party in which such an association has at least the minimum ownership interest approved under regulations of the Farm Credit Administration for the purpose of facilitating the association's export or import operations of the type described in subparagraph (A): <i>Provided</i>, That a”.
 
-Subsec. (b)(2). Pub. L. 103–376, §3(B), added par. (2) and struck out former par. (2) which read as follows: “A bank for cooperatives is authorized to make or participate in loans and commitments, and to extend other technical and financial assistance, to any domestic or foreign entity that is eligible for a guarantee or insurance as described in subparagraphs (A) and (B) with respect to transactions involving the Soviet Union (itssuccessor entities or any of the individual republics of the Soviet Union) or an emerging democracy (as defined in section 1542(f) of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 5622 note)) for the export of agricultural commodities and products thereof from the United States, including (where applicable) the cost of freight, if in each case—
+Subsec. (b)(2). Pub. L. 103–376, §3(B), added par. (2) and struck out former par. (2) which read as follows: “A bank for cooperatives is authorized to make or participate in loans and commitments, and to extend other technical and financial assistance, to any domestic or foreign entity that is eligible for a guarantee or insurance as described in subparagraphs (A) and (B) with respect to transactions involving the Soviet Union (its successor entities or any of the individual republics of the Soviet Union) or an emerging democracy (as defined in section 1542(f) of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 5622 note)) for the export of agricultural commodities and products thereof from the United States, including (where applicable) the cost of freight, if in each case—
 
 &emsp;“(A) the loan involved is unconditionally guaranteed or insured by a department, agency, bureau, board, commission, or establishment of the United States or any corporation wholly owned directly or indirectly by the United States; and
 
@@ -78,13 +78,13 @@ Subsec. (b)(2). Pub. L. 103–376, §3(B), added par. (2) and struck out former 
 
 &emsp;&emsp;“(ii) is issued on or before September 30, 1995.”
 
-1992—Subsec. (a). Pub. L. 102–552, §504, inserted “at any time (whether or not they have a loan from the bank outstanding)” after “assistance” in first sentence.
+<b>1992</b>—Subsec. (a). Pub. L. 102–552, §504, inserted “at any time (whether or not they have a loan from the bank outstanding)” after “assistance” in first sentence.
 
 Subsec. (f). Pub. L. 102–552, §505, in introductory provisions, substituted “installing, maintaining, expanding, improving, or operating” for “the installation, expansion, or improvement of” and “extending” for “to extend”.
 
-1991—Subsec. (b). Pub. L. 102–237 designated existing provisions as par. (1), redesignated cl. (1) as (A) and inserted “or products thereof” after “commodities”, redesignated cl. (2) as (B) and substituted “subparagraph (A)” for “clause (1) of this subsection”, and added pars. (2) and (3).
+<b>1991</b>—Subsec. (b). Pub. L. 102–237 designated existing provisions as par. (1), redesignated cl. (1) as (A) and inserted “or products thereof” after “commodities”, redesignated cl. (2) as (B) and substituted “subparagraph (A)” for “clause (1) of this subsection”, and added pars. (2) and (3).
 
-1990—Subsec. (f). Pub. L. 101–624 added subsec. (f).
+<b>1990</b>—Subsec. (f). Pub. L. 101–624 added subsec. (f).
 
-1980—Pub. L. 96–592 designated existing provisions as subsec. (a), inserted provisions relating to currency exchanges and provisions relating to loans, etc., to domestic parties, and added subsecs. (b) to (e).
+<b>1980</b>—Pub. L. 96–592 designated existing provisions as subsec. (a), inserted provisions relating to currency exchanges and provisions relating to loans, etc., to domestic parties, and added subsecs. (b) to (e).
 

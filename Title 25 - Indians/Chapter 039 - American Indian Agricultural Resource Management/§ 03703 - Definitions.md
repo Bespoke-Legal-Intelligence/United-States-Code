@@ -40,7 +40,7 @@ For the purposes of this chapter:
 
 &emsp;(11) The term “integrated resource management plan” means the plan developed pursuant to the process used by tribal governments to assess available resources and to provide identified holistic management objectives that include quality of life, production goals and landscape descriptions of all designated resources that may include (but not be limited to) water, fish, wildlife, forestry, agriculture, minerals, and recreation, as well as community and municipal resources, and may include any previously adopted tribal codes and plans related to such resources.
 
-&emsp;(12) The term “land management activity” means all activities, accomplished in supportof the management of Indian agricultural lands, including (but not limited to)—
+&emsp;(12) The term “land management activity” means all activities, accomplished in support of the management of Indian agricultural lands, including (but not limited to)—
 
 &emsp;&emsp;(A) preparation of soil and range inventories, farmland and rangeland management plans, and monitoring programs to evaluate management plans;
 

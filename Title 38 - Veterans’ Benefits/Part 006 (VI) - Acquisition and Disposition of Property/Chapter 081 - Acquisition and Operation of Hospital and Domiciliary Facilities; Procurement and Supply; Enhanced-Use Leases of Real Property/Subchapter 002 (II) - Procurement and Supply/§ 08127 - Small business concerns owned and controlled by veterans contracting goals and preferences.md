@@ -10,7 +10,7 @@ Contracting Goals.—(1) In order to increase contracting opportunities for smal
 
 (2) The goal for a fiscal year for participation under paragraph (1)(A) shall be determined by the Secretary.
 
-(3) The goal for a fiscal year for participation under paragraph (1)(B) shall be not less than theGovernment-wide goal for that fiscal year for participation by small business concerns owned and controlled by veterans with service-connected disabilities under section 15(g)(1) of the Small Business Act (15 U.S.C. 644(g)(1)).
+(3) The goal for a fiscal year for participation under paragraph (1)(B) shall be not less than the Government-wide goal for that fiscal year for participation by small business concerns owned and controlled by veterans with service-connected disabilities under section 15(g)(1) of the Small Business Act (15 U.S.C. 644(g)(1)).
 
 (4) The Secretary shall establish a review mechanism to ensure that, in the case of a subcontract of a Department contract that is counted for purposes of meeting a goal established pursuant to this section, the subcontract was actually awarded to a business concern that may be counted for purposes of meeting that goal.
 
@@ -34,7 +34,7 @@ Use of Restricted Competition.—Except as provided in subsections (b) and (c), 
 
 (e)
 
-Eligibility of Small Business Concerns.—A small business concern may be awarded a contract under this section only if the small business concern and the veteran owner of the small business concern are listed in the database of veteran-owned businesses maintained by the Secretary under subsection (f).
+Eligibility of Small Business Concerns.—A small business concern may be awarded a contract under this section only if thesmall business concern and the veteran owner of the small business concern are listed in the database of veteran-owned businesses maintained by the Secretary under subsection (f).
 
 (f)
 

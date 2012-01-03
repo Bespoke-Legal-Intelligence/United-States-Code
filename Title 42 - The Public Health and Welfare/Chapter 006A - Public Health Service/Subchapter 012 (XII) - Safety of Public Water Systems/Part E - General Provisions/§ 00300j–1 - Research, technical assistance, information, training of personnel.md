@@ -132,7 +132,7 @@ Subsec. (e). Pub. L. 95–190, §§2(a), 3(b), redesignated former subsec. (c) a
 
 #### Scientific Research Review
 
-Section 202 of Pub. L. 104–182 provided that:
+Pub. L. 104–182, title II, §202, Aug. 6, 1996, 110 Stat. 1682, provided that:
 
 “(a)
 
@@ -150,7 +150,7 @@ In General.—The Administrator shall—
 
 “(b)
 
-Plan.—The Administrator shall transmit the plan to the Committees on Commerce and Science of the House of Representatives and the Committee on Environment and Public Works of the Senate and the plan shall be made available to the public.”
+Plan.—The Administrator shall transmit the plan to the Committees on Commerce \[now Energy and Commerce\] and Science \[now Science, Space, and Technology\] of the House of Representatives and the Committee on Environment and Public Works of the Senate and the plan shall be made available to the public.”
 
 #### National Center for Ground Water Research
 

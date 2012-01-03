@@ -64,11 +64,11 @@ The Secretary of the Interior shall not use available amounts under subsection (
 
 #### (A) In general
 
-&emsp;&emsp;An audit under this subsection shall be performed under a contract that is awarded under competitive procedures (as defined insection 132 of title 41) by a person or entity that is not associated in any way with the Department of the Interior (except by way of a contract for the performance of an audit or other review).
+&emsp;&emsp;An audit under this subsection shall be performed under a contract that is awarded under competitive procedures (as defined in section 132 of title 41) by a person or entity that is not associated in any way with the Department of the Interior (except by way of a contract for the performance of an audit or other review).
 
 #### (B) Supervision of auditor
 
-&emsp;&emsp;The auditor selected under subparagraph (A) shall report to, and be supervised by, the Inspector General of the Department of the Interior, except that the auditor shall submit a copy of the biennial audit findings to the Secretary of the Interior at the time at which the findings are submitted to the Inspector General of the Department of the Interior.
+&emsp;&emsp;The auditor selected under subparagraph (A) shall report to, and be supervised by, theInspector General of the Department of the Interior, except that the auditor shall submit a copy of the biennial audit findings to the Secretary of the Interior at the time at which the findings are submitted to the Inspector General of the Department of the Interior.
 
 #### (3) Report to Congress
 

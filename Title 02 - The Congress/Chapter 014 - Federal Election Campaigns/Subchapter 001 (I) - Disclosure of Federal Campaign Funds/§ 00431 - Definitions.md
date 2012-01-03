@@ -26,7 +26,7 @@ When used in this Act:
 
 &emsp;(B) any separate segregated fund established under the provisions of section 441b(b) of this title; or
 
-&emsp;(C) any local committee of a political party which receives contributions aggregating in excess of $5,000 during a calendar year, or makes payments exempted from the definition of contribution or expenditure as defined in paragraphs (8) and (9) aggregating in excess of $5,000 during a calendar year, or makes contributions aggregating in excess of $1,000 during a calendar year or makes expenditures aggregating in excess of $1,000 during a calendar year.
+&emsp;(C) any local committee of a political party which receives contributions aggregating in excess of $5,000 during a calendar year, ormakes payments exempted from the definition of contribution or expenditure as defined in paragraphs (8) and (9) aggregating in excess of $5,000 during a calendar year, or makes contributions aggregating in excess of $1,000 during a calendar year or makes expenditures aggregating in excess of $1,000 during a calendar year.
 
 (5) The term “principal campaign committee” means a political committee designated and authorized by a candidate under section 432(e)(1) of this title.
 
@@ -78,7 +78,7 @@ When used in this Act:
 
 &emsp;&emsp;(3) such payments are not made from contributions designated to be spent on behalf of a particular candidate or particular candidates;
 
-&emsp;(x) the payment by a candidate, for nomination or election to any public office (including State or local office), or authorized committee of a candidate, of the costs of campaign materials which include information on or referenced to any other candidate and which are used in connection with volunteer activities\(including pins, bumper stickers, handbills, brochures, posters, and yard signs, but not including the use of broadcasting, newspapers, magazines, billboards, direct mail, or similar types of general public communication or political advertising): <i>Provided</i>, That such payments are made from contributions subject to the limitations and prohibitions of this Act;
+&emsp;(x) the payment by a candidate, for nomination or election to any public office (including State or local office), or authorized committee of a candidate, of the costs of campaign materials which include information on or referenced to any other candidate and which are used in connection with volunteer activities (including pins, bumper stickers, handbills, brochures, posters, and yard signs, but not including the use of broadcasting, newspapers, magazines, billboards, direct mail, or similar types of general public communication or political advertising): <i>Provided</i>, That such payments are made from contributions subject to the limitations and prohibitions of this Act;
 
 &emsp;(xi) the payment by a State or local committee of a political party of the costs of voter registration and get-out-the-vote activities conducted by such committee on behalf of nominees of such party for President and Vice President: <i>Provided</i>, That—
 
@@ -188,7 +188,7 @@ In general.—The term “Federal election activity” means—
 
 &emsp;&emsp;(ii) voter identification, get-out-the-vote activity, or generic campaign activity conducted in connection with an election in which a candidate for Federal office appears on the ballot (regardless of whether a candidate for State or local office also appears on the ballot);
 
-&emsp;&emsp;(iii) a public communication that refers to a clearly identified candidate for Federal office (regardless of whether a candidate for State or local office is also mentioned or identified) and that promotes or supports a candidate for that office, or attacks or opposes a candidate for that office (regardless of whether the communication expressly advocates a vote for or against a candidate); or
+&emsp;&emsp;(iii) a public communication that refers to a clearly identified candidate for Federal office (regardless of whether a candidate for State or local office is also mentioned oridentified) and that promotes or supports a candidate for that office, or attacks or opposes a candidate for that office (regardless of whether the communication expressly advocates a vote for or against a candidate); or
 
 &emsp;&emsp;(iv) services provided during any month by an employee of a State, district, or local committee of a political party who spends more than 25 percent of that individual's compensated time during that month on activities in connection with a Federal election.
 
@@ -250,7 +250,7 @@ Personal funds.—The term “personal funds” means an amount that is derived 
 
 &emsp;&emsp;(vii) proceeds from lotteries and similar legal games of chance; and
 
-&emsp;(C) a portion of assets that are jointly owned by the candidate and the candidate's spouse equal to the candidate's share of the asset under the instrument of conveyance or ownership, but if no specific share is indicated by an instrument of conveyance or ownership, the value of 1/2 of the property.
+&emsp;(C) a portion of assets that are jointly owned by the candidate and the candidate's spouse equal to the candidate's share of the asset under the instrument of conveyance or ownership, but if no specific share is indicated by an instrument of conveyance or ownership, the value of ½ of the property.
 
 (Pub. L. 92–225, title III, §301, Feb. 7, 1972, 86 Stat. 11; Pub. L. 93–443, title II, §§201(a), 208(c)(1), Oct. 15, 1974, 88 Stat. 1272, 1286; Pub. L. 94–283, title I, §§102, 115(d), (h), May 11, 1976, 90 Stat. 478, 495, 496; Pub. L. 96–187, title I, §101, Jan. 8, 1980, 93 Stat. 1339; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 106–346, §101(a) \[title V, §502(b)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–49; Pub. L. 107–155, title I, §§101(b), 103(b)(1), title II, §211, title III, §304(c), Mar. 27, 2002, 116 Stat. 85, 87, 92, 100.)
 
@@ -260,7 +260,7 @@ The Federal Election Campaign Act of 1971, as amended, referred to in par. (19),
 
 #### Amendments
 
-2002—Par. (8)(B)(viii) to (xv). Pub. L. 107–155, §103(b)(1), redesignated cls. (ix) to (xv) as (viii) to (xiv), respectively, and struck out former cl. (viii) which read as follows: “any gift, subscription, loan, advance, or deposit of money or anything of value to a national or a State committee of a political party specifically designated to defray any cost for construction or purchase of any office facility not acquired for the purpose of influencing the election of any candidate in any particular election for Federal office;”.
+<b>2002</b>—Par. (8)(B)(viii) to (xv). Pub. L. 107–155, §103(b)(1), redesignated cls. (ix) to (xv) as (viii) to (xiv), respectively, and struck out former cl. (viii) which read as follows: “any gift, subscription, loan, advance, or deposit of money or anything of value to a national or a State committee of a political party specifically designated to defray any cost for construction or purchase of any office facility not acquired for the purpose of influencing the election of any candidate in any particular election for Federal office;”.
 
 Par. (17). Pub. L. 107–155, §211, added par. (17) and struck out former par. (17) which read as follows: “The term ‘independent expenditure’ means an expenditure by a person expressly advocating the election or defeat of a clearly identified candidate which is made without cooperation or consultation with any candidate, or any authorized committee or agent of such candidate, and which is not made in concert with, or at the request or suggestion of, any candidate, or any authorized committee or agent of such candidate.”
 
@@ -268,13 +268,13 @@ Pars. (20) to (24). Pub. L. 107–155, §101(b), added pars. (20) to (24).
 
 Pars. (25), (26). Pub. L. 107–155, §304(c), added pars. (25) and (26).
 
-2000—Par. (8)(B)(xv). Pub. L. 106–346 added cl. (xv).
+<b>2000</b>—Par. (8)(B)(xv). Pub. L. 106–346 added cl. (xv).
 
-1986—Pars. (8)(B)(ix)(II), (9)(A)(vii)(II). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Pars. (8)(B)(ix)(II), (9)(A)(vii)(II). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-1980—Pub. L. 96–187 changed the section designations from letters to numbers, and as so redesignated, substantially redefined the terms applicable to the provisions of this Act.
+<b>1980</b>—Pub. L. 96–187 changed the section designations from letters to numbers, and as so redesignated, substantially redefined the terms applicable to the provisions of this Act.
 
-1976—Subsec. (a)(2). Pub. L. 94–283, §102(a), substituted “party which has authority to nominate” for “party held to nominate”.
+<b>1976</b>—Subsec. (a)(2). Pub. L. 94–283, §102(a), substituted “party which has authority to nominate” for “party held to nominate”.
 
 Subsec. (e)(2). Pub. L. 94–283, §102(b), substituted “written contract, promise, or agreement,” for “contract, promise, or agreement, expressed or implied,”.
 
@@ -288,7 +288,7 @@ Subsec. (n). Pub. L. 94–283, §115(h), substituted “section 432(e) (1) of th
 
 Subsec. (<i>o</i>) to (q). Pub. L. 94–283, §102(g)(3), added subsecs. (<i>o</i>) to (q).
 
-1974—Pub. L. 93–443, §201(a) (1), inserted introductory reference to title IV of this Act, which for purposes of codification is translated as subchapter II of this chapter.
+<b>1974</b>—Pub. L. 93–443, §201(a) (1), inserted introductory reference to title IV of this Act, which for purposes of codification is translated as subchapter II of this chapter.
 
 Subsec. (a)(5). Pub. L. 93–443, §201(a)(2), struck out from definition of “election” the election of delegates to a constitutional convention for proposing amendments to the Constitution of the United States.
 
@@ -376,7 +376,7 @@ In general.—Except as provided in paragraph (2), the Federal Election Commissi
 
 &emsp;“(2)
 
-Soft money of political parties.—Not later than 90 days after the date of enactment of this Act, the Federal Election Commission shall promulgate regulations to carry out title I of this Act \[enacting section 441i of this title and amending this sectionand sections 434, 441a, and 453 of this title\] and the amendments made by such title.”
+Soft money of political parties.—Not later than 90 days after the date of enactment of this Act, the Federal Election Commission shall promulgate regulations to carry out title I of this Act \[enacting section 441i of this title and amending this section and sections 434, 441a, and 453 of this title\] and the amendments made by such title.”
 
 #### Effective Date of 2000 Amendment
 
@@ -420,7 +420,7 @@ Section 1 of Pub. L. 94–283 provided that: “This Act \[enacting sections 441
 
 #### Short Title of 1974 Amendment
 
-Section 1 of Pub. L. 93–443 provided: “That this Act \[enacting sections 437a to 437h, 439a to 439c, 455, and 456 of this title, sections 614 to 617 of Title 18, Crimes and Criminal Procedure, and sections 9031 to 9042 of Title 26, Internal Revenue Code; amending this section and sections 432 to 437, 438, 439 and 451 to 453 of this title, sections 1501 to 1503 of Title 5, Government Organization and Employees, sections 591, 608, 610, 611, and 613 of Title 18, sections 276, 6012, 9002 to 9012 of Title 26, and section 315 of Title 47, Telegraphs, Telephones, and Radiotelegraphs; repealing section 440 of this title, section 9021 of Title 26, and sections 801 to 805 of Title 47; and enacting provisions set out as notes under this section and sections 434, 437c, and 438 of this title, sections 591 and 608 of Title 18, and section 9006 of Title 26\] may be cited as the ‘Federal Election Campaign Act Amendments of 1974’.”
+Section 1 of Pub. L. 93–443 provided: “That this Act \[enacting sections 437a to 437h, 439a to 439c, 455, and 456 of this title, sections 614 to 617 of Title 18, Crimes and Criminal Procedure, and sections 9031 to 9042 of Title 26, Internal Revenue Code; amending this section and sections 432 to 437, 438, 439 and 451 to 453 of this title, sections 1501 to 1503 of Title 5, Government Organization and Employees, sections 591, 608, 610, 611, and 613 of Title 18, sections 276, 6012, 9002 to 9012 of Title 26, and section 315 of Title 47, Telegraphs, Telephones, and Radiotelegraphs; repealing section 440 of this title, section 9021 of Title 26, and sections 801 to 805 of Title 47;and enacting provisions set out as notes under this section and sections 434, 437c, and 438 of this title, sections 591 and 608 of Title 18, and section 9006 of Title 26\] may be cited as the ‘Federal Election Campaign Act Amendments of 1974’.”
 
 #### Short Title
 
@@ -434,7 +434,7 @@ Federal Savings and Loan Insurance Corporation abolished and functions transferr
 
 Section 303 of Pub. L. 96–187 provided that:
 
-“(a) The Federal Election Commission shall transmit to the Congress proposed rules and regulations necessary for the purpose of implementing the provisions of this Act, and the amendments made by this Act \[seeShort Title of 1980 Amendment note set out above\], prior to February 29, 1980.
+“(a) The Federal Election Commission shall transmit to the Congress proposed rules and regulations necessary for the purpose of implementing the provisions of this Act, and the amendments made by this Act \[see Short Title of 1980 Amendment note set out above\], prior to February 29, 1980.
 
 “(b) The provisions of section 311(d) of the Federal Election Campaign Act of 1971 \[section 438(d) of this title\] allowing disapproval of rules and regulations by either House of Congress within 30 legislative days after receipt shall, with respect to rules and regulations required to be proposed under subsection (a) of this section, be deemed to allow such disapproval within 15 legislative days after receipt.”
 

@@ -62,7 +62,7 @@
 
 (e) Except as otherwise provided by law, the Commission shall maintain and make available for public inspection a record of the final vote of each member on any action taken by it.
 
-(Added Pub. L. 98–473, title II, §217(a), Oct. 12, 1984, 98 Stat. 2024; amended Pub. L. 100–690, title VII, §§7104, 7105, 7106(b), Nov. 18, 1988, 102 Stat. 4418; Pub. L. 101–650, title III, §325(b)(5), Dec. 1, 1990, 104 Stat. 5121; Pub. L. 103–322, title XXVIII, §280005(c)(1), Sept. 13, 1994, 108 Stat. 2097; Pub. L. 110–177, title V, §501(a), Jan. 7, 2008, 121 Stat. 2541.)
+(Added Pub. L. 98–473, title II, §217(a), Oct. 12, 1984, 98 Stat. 2024; amended Pub. L. 100–690, title VII, §§7104, 7105, 7106(b), Nov. 18, 1988, 102 Stat. 4418; Pub. L. 101–650, title III, §325(b)(5), Dec. 1, 1990, 104 Stat. 5121; Pub. L. 103–322, title XXVIII, §280005(c)(1), Sept. 13, 1994, 108 Stat. 2097; Pub. L.110–177, title V, §501(a), Jan. 7, 2008, 121 Stat. 2541.)
 
 #### Amendments
 

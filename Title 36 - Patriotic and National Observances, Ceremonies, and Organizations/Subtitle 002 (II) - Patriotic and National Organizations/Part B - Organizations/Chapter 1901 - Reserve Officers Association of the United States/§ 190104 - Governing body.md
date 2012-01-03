@@ -90,7 +90,7 @@ In subsection (d)(2), the words “If the president is absent or the office of p
 
 #### Amendments
 
-<b>2009</b>—Subsec. (b)(2). Pub. L. 111–113, §2(a), inserted “the president elect,” after “the president,” and “aminimum of” before “3 national executive committee members,” and substituted “except the president elect and the executive director,” for “except the executive director,”.
+<b>2009</b>—Subsec. (b)(2). Pub. L. 111–113, §2(a), inserted “the president elect,” after “the president,” and “a minimum of” before “3 national executive committee members,” and substituted “except the president elect and the executive director,” for “except the executive director,”.
 
 Subsec. (c)(1). Pub. L. 111–113, §2(b)(1), inserted “a president elect,” after “a president,” and “a minimum of” before “3 national executive committee members,”, struck out “a surgeon, a chaplain, a historian, a public relations officer,” after “a judge advocate,”, and substituted “specified in the constitution of the corporation” for “as decided at the national convention”.
 

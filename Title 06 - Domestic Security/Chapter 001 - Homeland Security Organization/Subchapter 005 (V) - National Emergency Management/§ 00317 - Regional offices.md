@@ -126,7 +126,7 @@ There are in the Agency 10 regional offices, as identified by the Administrator.
 
 #### (5) Preparedness
 
-&emsp;Each Regional Office strike team shall be trained as a unit on a regular basis andequipped and staffed to be well prepared to respond to natural disasters, acts of terrorism, and other man-made disasters, including catastrophic incidents.
+&emsp;Each Regional Office strike team shall be trained as a unit on a regular basis and equipped and staffed to be well prepared to respond to natural disasters, acts of terrorism, and other man-made disasters, including catastrophic incidents.
 
 #### (6) Authorities
 
@@ -140,7 +140,7 @@ A prior section 317, Pub. L. 107–296, title V, §507, Nov. 25, 2002, 116 Stat.
 
 #### Amendments
 
-2007—Subsec. (c)(2)(I) to (K). Pub. L. 110–53 added subpars. (I) and (J) and redesignated former subpar. (I) as (K).
+<b>2007</b>—Subsec. (c)(2)(I) to (K). Pub. L. 110–53 added subpars. (I) and (J) and redesignated former subpar. (I) as (K).
 
 #### Effective Date
 

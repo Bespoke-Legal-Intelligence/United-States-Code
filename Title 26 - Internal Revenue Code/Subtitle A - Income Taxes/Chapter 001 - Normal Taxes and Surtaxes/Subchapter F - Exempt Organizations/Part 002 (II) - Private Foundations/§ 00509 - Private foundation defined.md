@@ -200,5 +200,5 @@ In general.—The Secretary of the Treasury shall promulgate new regulations und
 
 “(2)
 
-Type iii supporting organization; functionally integrated type iii supporting organization.—For purposes of paragraph (1), the terms ‘type III supporting organization’ and ‘functionally integrated type III supporting organization’ have the meanings given such terms under subparagraphs (A) and (B) section 4943(f)(5) of the Internal Revenue Code of 1986 (as added by this Act), respectively.”
+Type iii supporting organization; functionally integrated type iii supporting organization.—For purposes of paragraph (1), the terms ‘type III supporting organization’ and ‘functionally integrated type IIIsupporting organization’ have the meanings given such terms under subparagraphs (A) and (B) section 4943(f)(5) of the Internal Revenue Code of 1986 (as added by this Act), respectively.”
 

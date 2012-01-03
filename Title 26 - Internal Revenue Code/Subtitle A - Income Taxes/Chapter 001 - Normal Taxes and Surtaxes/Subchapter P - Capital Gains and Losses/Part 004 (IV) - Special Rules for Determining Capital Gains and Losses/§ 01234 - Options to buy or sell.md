@@ -104,7 +104,7 @@ Section 2136(b) of Pub. L. 94–455 provided that: “The amendment made by subs
 
 #### Effective Date of 1966 Amendment
 
-Section 210(b) of Pub. L. 89–809 provided that: “The amendments made by subsection (a) \[amending thissection\] shall apply to straddle transactions entered into after January 25, 1965, in taxable years ending after such date.”
+Section 210(b) of Pub. L. 89–809 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to straddle transactions entered into after January 25, 1965, in taxable years ending after such date.”
 
 #### Effective Date of 1958 Amendment
 

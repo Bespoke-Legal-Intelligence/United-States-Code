@@ -12,7 +12,7 @@ Sexual Conduct in Circumstances Where Sexual Acts Are Punished by This Chapter.â
 
 &emsp;(4) subsection (b) of section 2243 of this title had the sexual contact been a sexual act, shall be fined under this title, imprisoned not more than two years, or both; or
 
-&emsp;(5) subsection (c) of section 2241 of this title had the sexual contact been a sexual act, shallbe fined under this title and imprisoned for any term of years or for life.
+&emsp;(5) subsection (c) of section 2241 of this title had the sexual contact been a sexual act, shall be fined under this title and imprisoned for any term of years or for life.
 
 (b)
 

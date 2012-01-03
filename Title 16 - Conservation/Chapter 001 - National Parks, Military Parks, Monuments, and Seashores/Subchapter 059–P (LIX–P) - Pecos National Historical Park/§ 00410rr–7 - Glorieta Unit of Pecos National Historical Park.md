@@ -6,11 +6,11 @@ In order to preserve and interpret the Battle of Glorieta for the benefit and en
 
 #### (b) Administration
 
-The Secretary shall administer the Glorieta Unit to preserve and interpret the Battle of Glorieta for the benefit and enjoyment of present and future generations, in accordance with the provisions of this section, applicable provisions of this subchapter, and provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 of this title and sections 461 to 467 of this title.
+The Secretary shall administer the Glorieta Unit to preserve and interpret the Battle ofGlorieta for the benefit and enjoyment of present and future generations, in accordance with the provisions of this section, applicable provisions of this subchapter, and provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 of this title and sections 461 to 467 of this title.
 
 #### (c) Acquisition
 
-The Secretary is authorized to acquire lands, waters, and interests therein within the boundaries of the Glorieta Unit by donation, purchase with donated or appropriated funds, or exchange. Lands may not be acquired for purposes of the Glorieta Unit without the consent of theowner thereof unless the Secretary determines that, in his judgment, the property is subject to, or threatened with, uses which are having, or would have, an adverse impact on the Glorieta Unit or on the management of the Glorieta Unit.
+The Secretary is authorized to acquire lands, waters, and interests therein within the boundaries of the Glorieta Unit by donation, purchase with donated or appropriated funds, or exchange. Lands may not be acquired for purposes of the Glorieta Unit without the consent of the owner thereof unless the Secretary determines that, in his judgment, the property is subject to, or threatened with, uses which are having, or would have, an adverse impact on the Glorieta Unit or on the management of the Glorieta Unit.
 
 #### (d) Transfer
 

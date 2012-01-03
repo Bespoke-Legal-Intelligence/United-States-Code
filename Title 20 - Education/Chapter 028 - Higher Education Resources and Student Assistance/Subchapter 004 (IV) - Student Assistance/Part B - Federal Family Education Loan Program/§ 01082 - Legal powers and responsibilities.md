@@ -80,7 +80,7 @@ Notwithstanding any other provision of law, the Secretary may provide to eligibl
 
 #### (2) Access to records
 
-&emsp;For the purpose of carrying out this subsection, the records of any entity described in subparagraph (A), (B), (C), or (D) <sup>1</sup> of paragraph (1) shall be available to the Comptroller General and the Inspector General of the Department of Education. For the purpose of section 716(c) of title 31, such records shall be considered to be records to which the Comptroller General has access by law, and for the purpose of section 6(a)(4) of the Inspector General Act of 1978, such records shall be considered to be records necessary in the performance of functions assigned by that Act to the Inspector General.
+&emsp;For the purpose of carrying out this subsection, the records of any entity described in subparagraph (A), (B), (C), or (D) <sup>1</sup> of paragraph (1) shall be available to the Comptroller General and the Inspector General of the Department of Education. For the purpose of section 716(c) of title 31, such records shall be considered to be records to which the Comptroller General has access by law, and for the purposeof section 6(a)(4) of the Inspector General Act of 1978, such records shall be considered to be records necessary in the performance of functions assigned by that Act to the Inspector General.
 
 #### (3) “Record” defined
 
@@ -124,7 +124,7 @@ Notwithstanding any other provision of law, the Secretary may provide to eligibl
 
 #### (6) Compromise
 
-&emsp;Until a matter is referred to the Attorney General, any civil penalty under paragraph (1)of this subsection may be compromised by the Secretary. In determining the amount of such penalty, or the amount agreed upon in compromise, the Secretary shall consider the appropriateness of the penalty to the resources of the lender or guaranty agency subject to the determination; the gravity of the violation, failure, or substantial misrepresentation; the frequency and persistence of the violation, failure, or substantial misrepresentation; and the amount of any losses resulting from the violation, failure, or substantial misrepresentation. The amount of such penalty, when finally determined, or the amount agreed upon in compromise, may be deducted from any sums owing by the United States to the lender or agency charged, unless the lender or agency has, in the case of a final agency determination, commenced proceedings for judicial review within 90 days of the determination, in which case the deduction may not be made during the pendency of the proceeding.
+&emsp;Until a matter is referred to the Attorney General, any civil penalty under paragraph (1) of this subsection may be compromised by the Secretary. In determining the amount of such penalty, or the amount agreed upon in compromise, the Secretary shall consider the appropriateness of the penalty to the resources of the lender or guaranty agency subject to the determination; the gravity of the violation, failure, or substantial misrepresentation; the frequency and persistence of the violation, failure, or substantial misrepresentation; and the amount of any losses resulting from the violation, failure, or substantial misrepresentation. The amount of such penalty, when finally determined, or the amount agreed upon in compromise, may be deducted from any sums owing by the United States to the lender or agency charged, unless the lender or agency has, in the case of a final agency determination, commenced proceedings for judicial review within 90 days of the determination, in which case the deduction may not be made during the pendency of the proceeding.
 
 #### (h) Authority of the Secretary to impose and enforce limitations, suspensions, and terminations
 
@@ -206,7 +206,7 @@ In the event that all other collection efforts have failed, the Secretary is aut
 
 &emsp;&emsp;(C) determines that the likelihood of loss outweighs the importance of following the limitation, suspension, or termination procedures authorized in subsection (h) of this section;
 
-> &emsp;the Secretary shall, effective on the date on which a notice and statement of the basis of the action is mailed to the lender (by registered mail, return receipt requested), take emergency action to stop the issuance of guarantee commitments and the payment of interest benefits and special allowance to the lender.
+> &emsp;the Secretary shall, effective on the date on which a notice and statement of the basis ofthe action is mailed to the lender (by registered mail, return receipt requested), take emergency action to stop the issuance of guarantee commitments and the payment of interest benefits and special allowance to the lender.
 
 #### (2) Length of emergency action
 
@@ -344,7 +344,7 @@ In the event that all other collection efforts have failed, the Secretary is aut
 
 #### (2) Allowable activities
 
-&emsp;Allowable activities for which such funds shall be expended by the Secretary shall include the following: (A) program reviews; (B) audits; (C) debt management programs; (D) training activities; and (E) such other management improvement activities approved by the Secretary.
+&emsp;Allowable activities for which such funds shall be expended by the Secretary shall include the following: (A) program reviews; (B)audits; (C) debt management programs; (D) training activities; and (E) such other management improvement activities approved by the Secretary.
 
 #### (3) Plan for use required
 
@@ -396,7 +396,7 @@ Subsec. (n)(3). Pub. L. 110–315, §103(b)(6)(B), substituted “authorizing co
 
 <b>2006</b>—Subsec. (<i>l</i>)(1)(H). Pub. L. 109–171 inserted “and anticipated graduation date” after “status change”.
 
-<b>2000</b>—Subsec. (m)(1)(D)(iv). Pub. L. 106–554, §1(a)(1) \[title III, §311(1)\], struck out heading and text of cl. (iv). Text read as follows: “Notwithstanding the provisions of any State law to the contrary, including the Uniform Commercial Code as in effect in any State, a security interest in loans made under this part created on behalf of any eligible lender as defined in section 1085(d) of this title may be perfected either through the taking of possession of such loans (which can be through taking possession of an original or copy of the master promissory note) or by the filing of notice of such security interest in such loans in the manner provided by such State law for perfection of security interests in accounts.”
+<b>2000</b>—Subsec. (m)(1)(D)(iv). Pub. L. 106–554, §1(a)(1) \[title III, §311(1)\], struck out heading and text of cl. (iv). Text read as follows: “Notwithstanding the provisions of any State law to the contrary, including the Uniform Commercial Code as in effect in any State, a security interest in loans made under this part created on behalf of any eligible lender as defined in section 1085(d) of this title may be perfected either through thetaking of possession of such loans (which can be through taking possession of an original or copy of the master promissory note) or by the filing of notice of such security interest in such loans in the manner provided by such State law for perfection of security interests in accounts.”
 
 Subsec. (m)(1)(E). Pub. L. 106–554, §1(a)(1) \[title III, §311(2)\], added subpar. (E).
 
@@ -446,7 +446,7 @@ Subsec. (g)(2). Pub. L. 102–325, §425(c)(1), amended par. (2) generally. Prio
 
 &emsp;“(B) the violation, failure, or substantial misrepresentation is material.”
 
-Subsec. (g)(3). Pub. L. 102–325, §425(c)(2), substituted “notification by the Secretary under that paragraph”for “the institution of an action under that paragraph”.
+Subsec. (g)(3). Pub. L. 102–325, §425(c)(2), substituted “notification by the Secretary under that paragraph” for “the institution of an action under that paragraph”.
 
 Subsec. (g)(4). Pub. L. 102–325, §425(c)(3), inserted “, and occurring prior to notification by the Secretary under that paragraph,” after “guaranty agency” and substituted “or both. The” for “or both, and the”.
 

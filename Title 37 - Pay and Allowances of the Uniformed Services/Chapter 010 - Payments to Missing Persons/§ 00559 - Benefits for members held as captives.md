@@ -48,7 +48,7 @@
 
 (d) A determination by the President under subsection (a)(1) or (c) is final and is not subject to judicial review.
 
-(Added Pub. L. 99–399, title VIII, §806(a)(1), Aug. 27, 1986, 100 Stat. 884; amended Pub. L. 100–26,§8(e)(11), Apr. 21, 1987, 101 Stat. 287; Pub. L. 101–510, div. A, title XIV, §1484(d)(4), (e)(2), Nov. 5, 1990, 104 Stat. 1717; Pub. L. 102–25, title VII, §702(b)(1)–(4), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title X, §1054(a)(6), (c)(2), Oct. 23, 1992, 106 Stat. 2502.)
+(Added Pub. L. 99–399, title VIII, §806(a)(1), Aug. 27, 1986, 100 Stat. 884; amended Pub. L. 100–26, §8(e)(11), Apr. 21, 1987, 101 Stat. 287; Pub. L. 101–510, div. A, title XIV, §1484(d)(4), (e)(2), Nov. 5, 1990, 104 Stat. 1717; Pub. L. 102–25, title VII, §702(b)(1)–(4), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title X, §1054(a)(6), (c)(2), Oct. 23, 1992, 106 Stat. 2502.)
 
 #### References in Text
 

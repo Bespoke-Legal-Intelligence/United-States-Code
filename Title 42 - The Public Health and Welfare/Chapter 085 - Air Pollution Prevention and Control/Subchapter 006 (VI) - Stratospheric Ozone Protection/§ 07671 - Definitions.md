@@ -38,7 +38,7 @@ As used in this subchapter—
 
 #### (7) Import
 
-&emsp;The term “import” means to land on, bring into, or introduce into, or attempt to land on, bring into, or introduce into, any place subject to the jurisdiction of the United States, whether or not such landing, bringing, or introduction constitutes an importation within the meaning of the customs laws of the United States.
+&emsp;The term “import” means to land on, bring into, or introduce into, or attempt to land on,bring into, or introduce into, any place subject to the jurisdiction of the United States, whether or not such landing, bringing, or introduction constitutes an importation within the meaning of the customs laws of the United States.
 
 #### (8) Medical device
 

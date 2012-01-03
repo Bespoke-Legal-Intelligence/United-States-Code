@@ -86,7 +86,7 @@
 
 #### (ii) Enforcement
 
-&emsp;&emsp;&emsp;In the case of contumacy or refusal to obey a subpoena, the Attorney General may in a Federal court of appropriate jurisdiction obtain an appropriate order to enforce the subpoena.
+&emsp;&emsp;&emsp;In the case of contumacy or refusal to obey a subpoena, the Attorney Generalmay in a Federal court of appropriate jurisdiction obtain an appropriate order to enforce the subpoena.
 
 #### (c) Reports
 
@@ -120,7 +120,7 @@
 
 #### (4) Categorization of prisons
 
-&emsp;The report shall divide the prisons surveyed into three categories. One category shall be composed of all Federal and State prisons. Theother two categories shall be defined by the Attorney General in order to compare similar institutions.
+&emsp;The report shall divide the prisons surveyed into three categories. One category shall be composed of all Federal and State prisons. The other two categories shall be defined by the Attorney General in order to compare similar institutions.
 
 #### (d) Contracts and grants
 

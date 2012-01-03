@@ -68,7 +68,7 @@ Pub. L. 107–303, title II, §201, Nov. 27, 2002, 116 Stat. 2358, provided that
 
 #### Short Title of 2000 Amendments
 
-Pub. L. 106–457, title II, §201, Nov. 7, 2000, 114 Stat. 1967, provided that: “This title \[amending section 1267of this title and enacting provisions set out as a note under section 1267 of this title\] may be cited as the ‘Chesapeake Bay Restoration Act of 2000’.”
+Pub. L. 106–457, title II, §201, Nov. 7, 2000, 114 Stat. 1967, provided that: “This title \[amending section 1267 of this title and enacting provisions set out as a note under section 1267 of this title\] may be cited as the ‘Chesapeake Bay Restoration Act of 2000’.”
 
 Pub. L. 106–457, title IV, §401, Nov. 7, 2000, 114 Stat. 1973, provided that: “This title \[amending section 1269 of this title\] may be cited as the ‘Long Island Sound Restoration Act’.”
 
@@ -116,7 +116,7 @@ Section 519, formerly section 518, of Act June 30, 1948, ch. 758, title V, as ad
 
 Section 4 of Pub. L. 92–500 provided that:
 
-“(a) No suit, action, or other proceeding lawfully commenced by or against the Administrator or any other officer or employee of the United States in his official capacity or in relation to the discharge of his official duties under the Federal Water Pollution Control Act as in effect immediately prior to the date of enactment of this Act \[Oct. 18, 1972\] shall abate by reason of the taking effect of the amendment made by section 2 of this Act \[which enacted this chapter\]. The court may, on its own motion or that of any party made at any time within twelve months after such taking effect, allow the same to be maintained by or against the Administrator or such officer or employee.
+“(a) No suit, action, or other proceeding lawfully commenced by or against the Administrator or anyother officer or employee of the United States in his official capacity or in relation to the discharge of his official duties under the Federal Water Pollution Control Act as in effect immediately prior to the date of enactment of this Act \[Oct. 18, 1972\] shall abate by reason of the taking effect of the amendment made by section 2 of this Act \[which enacted this chapter\]. The court may, on its own motion or that of any party made at any time within twelve months after such taking effect, allow the same to be maintained by or against the Administrator or such officer or employee.
 
 “(b) All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to the Federal Water Pollution Control Act as in effect immediately prior to the date of enactment of this Act \[Oct. 18, 1972\], and pertaining to any functions, powers, requirements, and duties under the Federal Water Pollution Control Act as in effect immediately prior to the date of enactment of this Act \[Oct. 18, 1972\] shall continue in full force and effect after the date of enactment of this Act \[Oct. 18, 1972\] until modified or rescinded in accordance with the Federal Water Pollution Control Act as amended by this Act \[this chapter\].
 
@@ -254,7 +254,7 @@ Section 7 of Pub. L. 92–500 provided that: “The President shall undertake to
 
 #### National Policies and Goal Study
 
-Section 10 of Pub. L. 92–500 directed President to make a full and complete investigation and study of all national policies and goals established by law to determine what the relationship should be between these policies and goals, taking into account the resources of the Nation, and to report results of his investigation and study together with his recommendations to Congress not later than two years after Oct. 18, 1972.
+Section 10 of Pub. L. 92–500 directed President to make a full and complete investigation and study of allnational policies and goals established by law to determine what the relationship should be between these policies and goals, taking into account the resources of the Nation, and to report results of his investigation and study together with his recommendations to Congress not later than two years after Oct. 18, 1972.
 
 #### Efficiency Study
 
@@ -270,7 +270,7 @@ For extension of contiguous zone of United States, see Proc. No. 7219, set out a
 
 #### Prevention, Control, and Abatement of Environmental Pollution at Federal Facilities
 
-Ex. Ord. No. 12088, Oct. 13, 1978, 43 F.R. 47707, set out as a note under section 4321 of Title 42, The PublicHealth and Welfare, provides for the prevention, control, and abatement of environmental pollution at federal facilities.
+Ex. Ord. No. 12088, Oct. 13, 1978, 43 F.R. 47707, set out as a note under section 4321 of Title 42, The Public Health and Welfare, provides for the prevention, control, and abatement of environmental pollution at federal facilities.
 
 #### Executive Order No. 11548
 

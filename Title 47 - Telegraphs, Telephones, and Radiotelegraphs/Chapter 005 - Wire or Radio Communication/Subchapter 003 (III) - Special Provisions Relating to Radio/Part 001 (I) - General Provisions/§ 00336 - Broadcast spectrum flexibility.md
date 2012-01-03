@@ -46,7 +46,7 @@ Nothing in this section shall be construed as relieving a television broadcastin
 
 &emsp;The program required by paragraph (1) shall—
 
-&emsp;&emsp;(A) be designed (i) to recover for the public a portion of the value of the public spectrum resource made available for such commercial use, and (ii) to avoid unjust enrichmentthrough the method employed to permit such uses of that resource;
+&emsp;&emsp;(A) be designed (i) to recover for the public a portion of the value of the public spectrum resource made available for such commercial use, and (ii) to avoid unjust enrichment through the method employed to permit such uses of that resource;
 
 &emsp;&emsp;(B) recover for the public an amount that, to the extent feasible, equals but does not exceed (over the term of the license) the amount that would have been recovered had such services been licensed pursuant to the provisions of section 309(j) of this title and the Commission's regulations thereunder; and
 
@@ -108,7 +108,7 @@ Nothing in this section shall be construed as relieving a television broadcastin
 
 &emsp;&emsp;&emsp;(I) such station broadcast a minimum of 18 hours per day;
 
-&emsp;&emsp;&emsp;(II) such station broadcast an average of at least 3 hours per week of programming that was produced within the market areaserved by such station, or the market area served by a group of commonly controlled low-power stations that carry common local programming produced within the market area served by such group; and
+&emsp;&emsp;&emsp;(II) such station broadcast an average of at least 3 hours per week of programming that was produced within the market area served by such station, or the market area served by a group of commonly controlledlow-power stations that carry common local programming produced within the market area served by such group; and
 
 &emsp;&emsp;&emsp;(III) such station was in compliance with the Commission's requirements applicable to low-power television stations; and
 
@@ -164,7 +164,7 @@ Nothing in this section shall be construed as relieving a television broadcastin
 
 #### (8) Priority for displaced low-power stations
 
-&emsp;Low-power stations that are displaced by an application filed under this section shall havepriority over other low-power stations in the assignment of available channels.
+&emsp;Low-power stations that are displaced by an application filed under this section shall have priority over other low-power stations in the assignment of available channels.
 
 #### (g) Evaluation
 
@@ -292,6 +292,8 @@ As used in this section:
 
 The date of enactment of LPTV Digital Data Services Act, referred to in subsec. (h)(3), probably means the date of enactment of Pub. L. 106–554, which enacted subsec. (h) of this section, and which was approved Dec. 21, 2000. There is no public law with that short title.
 
+This chapter, referred to in subsec. (h)(6), was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
+
 #### Amendments
 
 <b>2000</b>—Subsecs. (h), (i). Pub. L. 106–554 added subsec. (h) and redesignated former subsec. (h) as (i).
@@ -332,7 +334,7 @@ Construction deadline.—Any licensee or permittee receiving a paired digital ch
 
 &emsp;“(2)
 
-Prohibition of analog operation using digital pair.—Any licensee or permittee receiving apaired digital channel pursuant to this section shall be prohibited from giving up its current paired analog assignment and becoming a single-channel broadcaster and operating in analog on such paired digital channel.
+Prohibition of analog operation using digital pair.—Any licensee or permittee receiving a paired digital channel pursuant to this section shall be prohibited from giving up its current paired analog assignment and becoming a single-channel broadcaster and operating in analog on such paired digital channel.
 
 “(d)
 

@@ -4,9 +4,9 @@
 
 Congress finds that—
 
-&emsp;(1) most of the productive forest land of the United States is in private, State, and local governmental ownership, and the capacity of the United States to produce renewable forest resources is significantly dependent on such non-Federal forest lands;
+&emsp;(1) most of the productive forest land of the United States is in private, State, and local governmental ownership, and the capacity of the United States to produce renewable forestresources is significantly dependent on such non-Federal forest lands;
 
-&emsp;(2) adequate supplies of timber and other forest resources are essential to the UnitedStates, and adequate supplies are dependent on efficient methods for establishing, managing, and harvesting trees and processing, marketing, and using wood and wood products;
+&emsp;(2) adequate supplies of timber and other forest resources are essential to the United States, and adequate supplies are dependent on efficient methods for establishing, managing, and harvesting trees and processing, marketing, and using wood and wood products;
 
 &emsp;(3) nearly one-half of the wood supply of the United States comes from nonindustrial private timberlands and such percentage could rise with expanded assistance programs;
 
@@ -256,7 +256,7 @@ Records; Audits.—The Foundation shall ensure that—
 
 &emsp;&emsp;“(D) such other records as will facilitate an effective audit; and
 
-&emsp;“(2) the Foundation and any duly authorized representative of the Foundation shall have access, for the purpose of audit and examination, to any books, documents, papers, and records of the recipient that are pertinent to assistance provided through the Foundation under this section.
+&emsp;“(2) the Foundation and any duly authorized representative of the Foundation shall have access, for the purpose of audit and examination, to any books,documents, papers, and records of the recipient that are pertinent to assistance provided through the Foundation under this section.
 
 “(m)
 
@@ -264,7 +264,7 @@ Audits.—
 
 &emsp;“(1)
 
-Independent audits.—For the fiscal year in which the Foundation receives the grant awardedunder subsection (e), and for the succeeding 5 fiscal years, the accounts of the Foundation shall be audited annually in accordance with generally accepted auditing standards by an independent certified public accountant or an independent licensed public accountant certified or licensed by a regulatory authority of a State or other political subdivision of the United States. The report of each such independent audit shall be included in the annual report required by subsection (n).
+Independent audits.—For the fiscal year in which the Foundation receives the grant awarded under subsection (e), and for the succeeding 5 fiscal years, the accounts of the Foundation shall be audited annually in accordance with generally accepted auditing standards by an independent certified public accountant or an independent licensed public accountant certified or licensed by a regulatory authority of a State or other political subdivision of the United States. The report of each such independent audit shall be included in the annual report required by subsection (n).
 
 &emsp;“(2)
 

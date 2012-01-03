@@ -10,7 +10,7 @@ Third. To make contracts.
 
 Fourth. To sue and be sued, complain and defend, in any court of law or equity.
 
-Fifth. To appoint by its board of directors a president, vice presidents, and such officers and employees as are not otherwise provided for in this chapter, to define their duties, require bonds for them and fix the penalty thereof, and to dismiss at pleasure such officers or employees. The president shall be the chief executiveofficer of the bank and shall be appointed by the board of directors, with the approval of the Board of Governors of the Federal Reserve System, for a term of five years; and all other executive officers and all employees of the bank shall be directly responsible to him. The first vice president of the bank shall be appointed in the same manner and for the same term as the president, and shall, in the absence or disability of the president or during a vacancy in the office of president, serve as chief executive officer of the bank. Whenever a vacancy shall occur in the office of the president or the first vice president, it shall be filled in the manner provided for original appointments; and the person so appointed shall hold office until the expiration of the term of his predecessor.
+Fifth. To appoint by its board of directors a president, vice presidents, and such officers and employees as are not otherwise provided for in this chapter, to define their duties, require bonds for them and fix the penalty thereof, and to dismiss at pleasure such officers or employees. The president shall be the chief executive officer of the bank and shall be appointed by the Class B and Class C directors of the bank, with the approval of the Board of Governors of the Federal Reserve System, for a term of 5 years; and all other executive officers and all employees of the bank shall be directly responsible to the president. The first vice president of the bank shall be appointed in the same manner and for the same term as the president, and shall, in the absence or disability of the president or during a vacancy in the office of president, serve as chief executive officer of the bank. Whenever a vacancy shall occur in the office of the president or the first vice president, it shall be filled in the manner provided for original appointments; and the person so appointed shall hold office until the expiration of the term of his predecessor.
 
 Sixth. To prescribe by its board of directors, bylaws not inconsistent with law, regulating the manner in which its general business may be conducted, and the privileges granted to it by law may be exercised and enjoyed.
 
@@ -20,7 +20,7 @@ Eighth. Upon deposit with the Treasurer of the United States of any bonds of the
 
 But no Federal reserve bank shall transact any business except such as is incidental and necessarily preliminary to its organization until it has been authorized by the Comptroller of the Currency to commence business under the provisions of this chapter.
 
-(Dec. 23, 1913, ch. 6, §4 (pars.), 38 Stat. 254; Feb. 25, 1927, ch. 191, §18, 44 Stat. 1234; Aug. 23, 1935, ch. 614, title II, §201, 49 Stat. 703; Pub. L. 103–325, title VI, §602(g)(1), Sept. 23, 1994, 108 Stat. 2293.)
+(Dec. 23, 1913, ch. 6, §4 (pars.), 38 Stat. 254; Feb. 25, 1927, ch. 191, §18, 44 Stat. 1234; Aug. 23, 1935, ch. 614, title II, §201, 49 Stat. 703; Pub. L. 103–325, title VI, §602(g)(1), Sept. 23, 1994, 108 Stat. 2293; Pub. L. 111–203, title XI, §1107, July 21, 2010, 124 Stat. 2126.)
 
 #### References in Text
 
@@ -32,11 +32,17 @@ Section is comprised of pars. 4 and 5 of section 4 of act Dec. 23, 1913. For cla
 
 #### Amendments
 
-1994—Pub. L. 103–325 amended eighth power by substituting “Secretary of the Treasury” for “Comptroller of the Currency”.
+<b>2010</b>—Pub. L. 111–203 amended fifth power by substituting “The president shall be the chief executive officer of the bank and shall be appointed by the Class B and Class C directors of the bank, with the approval of the Board of Governors of the Federal Reserve System, for a term of 5 years; and all other executive officers and all employees of the bank shall be directly responsible to the president.” for “The president shall be the chief executive officer of the bank and shall be appointed by the board of directors, with the approval of the Board of Governors of the Federal Reserve System, for a term of five years; and all other executive officers and all employees of the bank shall be directly responsible to him.”
 
-1935—Act Aug. 23, 1935, amended fifth power.
+<b>1994</b>—Pub. L. 103–325 amended eighth power by substituting “Secretary of the Treasury” for “Comptroller of the Currency”.
 
-1927—Act Feb. 25, 1927, amended second power.
+<b>1935</b>—Act Aug. 23, 1935, amended fifth power.
+
+<b>1927</b>—Act Feb. 25, 1927, amended second power.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of this title.
 
 #### Effective Date of 1935 Amendment
 

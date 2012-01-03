@@ -38,13 +38,13 @@
 
 (b) The purposes of this chapter are—
 
-&emsp;(1) to establish national policy, priorities, and goals and to provide a Federal program plan for basic and applied scientific research with respect to the Arctic, including naturalresources and materials, physical, biological and health sciences, and social and behavioral sciences;
+&emsp;(1) to establish national policy, priorities, and goals and to provide a Federal program plan for basic and applied scientific research with respect to the Arctic, including natural resources and materials, physical, biological and health sciences, and social and behavioral sciences;
 
 &emsp;(2) to establish an Arctic Research Commission to promote Arctic research and to recommend Arctic research policy;
 
 &emsp;(3) to designate the National Science Foundation as the lead agency responsible for implementing Arctic research policy; and
 
-&emsp;(4) to establish an Interagency Arctic Research Policy Committee to develop a national Arctic research policy and a five year plan to implement that policy.
+&emsp;(4) to establish an Interagency Arctic Research Policy Committee to develop a nationalArctic research policy and a five year plan to implement that policy.
 
 (Pub. L. 98–373, title I, §102, July 31, 1984, 98 Stat. 1242; Pub. L. 103–199, title VI, §601, Dec. 17, 1993, 107 Stat. 2327.)
 

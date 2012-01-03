@@ -16,7 +16,7 @@ Each eligible partnership submitting an application for a grant under this part 
 
 &emsp;(C) the percentage of highly qualified teachers hired by the high-need local educational agency who teach high-need academic subject areas (such as reading, mathematics, science, and foreign language, including less commonly taught languages and critical foreign languages);
 
-&emsp;(D) the percentage of highly qualified teachers hired by the high-need local educational agency who teach in high-need areas (including special education, language instruction educational programs for limited English proficient students, and early childhood education);
+&emsp;(D) the percentage of highly qualified teachers hired by the high-need local educationalagency who teach in high-need areas (including special education, language instruction educational programs for limited English proficient students, and early childhood education);
 
 &emsp;(E) the percentage of highly qualified teachers hired by the high-need local educational agency who teach in high-need schools, disaggregated by the elementary school and secondary school levels;
 
@@ -46,7 +46,7 @@ If the Secretary determines that an eligible partnership receiving a grant under
 
 #### (d) Evaluation and dissemination
 
-The Secretary shall evaluate the activities funded under this part and report the findings regarding the evaluation of such activities tothe authorizing committees. The Secretary shall broadly disseminate—
+The Secretary shall evaluate the activities funded under this part and report the findings regarding the evaluation of such activities to the authorizing committees. The Secretary shall broadly disseminate—
 
 &emsp;(1) successful practices developed by eligible partnerships under this part; and
 

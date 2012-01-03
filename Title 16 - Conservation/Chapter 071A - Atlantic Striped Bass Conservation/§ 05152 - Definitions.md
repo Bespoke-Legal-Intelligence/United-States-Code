@@ -68,7 +68,7 @@ Section 3(6) of the Magnuson Act, referred to in par. (6), was redesignated sect
 
 <b>1996</b>—Par. (1). Pub. L. 104–208 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
 
-<b>1988</b>—Par. (1). Pub. L. 100–589 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘Act of 1976’ means the Act entitled ‘An Act toprovide for the conservation and management of the fisheries, and for other purposes’, approved April 13, 1976 (16 U.S.C. 1801 et seq.).”
+<b>1988</b>—Par. (1). Pub. L. 100–589 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘Act of 1976’ means the Act entitled ‘An Act to provide for the conservation and management of the fisheries, and for other purposes’, approved April 13, 1976 (16 U.S.C. 1801 et seq.).”
 
 <b>1986</b>—Pars. (2) to (4). Pub. L. 99–432 amended pars. (2) to (4) generally. Prior to amendment, pars. (2) to (4) read as follows:
 

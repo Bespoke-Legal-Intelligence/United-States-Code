@@ -12,11 +12,11 @@
 
 &emsp;(E) that the customer shall not obtain some other credit, property, or service from a competitor of such bank, a bank holding company of such bank, or any subsidiary of such bank holding company, other than a condition or requirement that such bank shall reasonably impose in a credit transaction to assure the soundness of the credit.
 
-> The Board may by regulation or order permit such exceptions to the foregoing prohibition and the prohibitions of section 1843(f)(9) and 1843(h)(2) of this title as it considers will not be contrary to the purposes of this chapter.
+> The Board may issue such regulations as are necessary to carry out this section, and, in consultation with the Comptroller of the Currency and the Federal Deposit Insurance Company, may by regulation or order permit such exceptions to the foregoing prohibition and the prohibitions of section 1843(f)(9) and 1843(h)(2) of this title as it considers will not be contrary to the purposes of this chapter.
 
 (2)(A) No bank which maintains a correspondent account in the name of another bank shall make an extension of credit to an executive officer or director of, or to any person who directly or indirectly or acting through or in concert with one or more persons owns, controls, or has the power to vote more than 10 per centum of any class of voting securities of, such other bank or to any related interest of such person unless such extension of credit is made on substantially the same terms, including interest rates and collateral as those prevailing at the time for comparable transactions with other persons and does not involve more than the normal risk of repayment or present other unfavorable features.
 
-(B) No bank shall open a correspondent account at another bank while such bank has outstanding an extension of credit to an executive officer or director of, or other person who directly or indirectly or acting through or in concert with one or more persons owns, controls, or has the power to vote more than 10 per centum of any class of voting securities of, the bank desiring to open the account or to any related interest of such person, unless such extension of credit was made on substantially the sameterms, including interest rates and collateral as those prevailing at the time for comparable transactions with other persons and does not involve more than the normal risk of repayment or present other unfavorable features.
+(B) No bank shall open a correspondent account at another bank while such bank has outstanding an extension of credit to an executive officer or director of, or other person who directly or indirectly or acting through or in concert with one or more persons owns, controls, or has the power to vote more than 10 per centum of any class of voting securities of, the bank desiring to open the account or to any related interest of such person, unless such extension of credit was made on substantially the same terms, including interest rates and collateral as those prevailing at the time for comparable transactions with other persons and does not involve more than the normal risk of repayment or present other unfavorable features.
 
 (C) No bank which maintains a correspondent account at another bank shall make an extension of credit to an executive officer or director of, or to any person who directly or indirectly acting through or in concert with one or more persons owns, controls, or has the power to vote more than 10 per centum of any class of voting securities of, such other bank or to any related interest of such person, unless such extension of credit is made on substantially the same terms, including interest rates and collateral as those prevailing at the time for comparable transactions with other persons and does not involve more than the normal risk of repayment or present other unfavorable features.
 
@@ -120,21 +120,23 @@ Regulations.—The Comptroller of the Currency, the Board, and the Federal Depos
 
 Notice Under This Section After Separation From Service.—The resignation, termination of employment or participation, or separation of an institution-affiliated party (within the meaning of section 1813(u) of this title) with respect to such a bank (including a separation caused by the closing of such a bank) shall not affect the jurisdiction and authority of the appropriate Federal banking agency to issue any notice and proceed under this section against any such party, if such notice is served before the end of the 6-year period beginning on the date such party ceased to be such a party with respect to such bank (whether such date occurs before, on, or after August 9, 1989).
 
-(Pub. L. 91–607, title I, §106(b), Dec. 31, 1970, 84 Stat. 1766; Pub. L. 95–630, title VIII, §801, Nov. 10, 1978, 92 Stat. 3690; Pub. L. 97–320, title IV, §§410(f), 424(c), (d)(11), (e), 428, Oct. 15, 1982, 96 Stat. 1520, 1523, 1526; Pub. L. 101–73, title IX, §§905(h), 907(i), Aug. 9, 1989, 103 Stat. 461, 473; Pub. L. 102–242, title III, §306(j), Dec. 19, 1991, 105 Stat. 2359; Pub. L. 104–208, div. A, title II, §2216(a), Sept. 30, 1996, 110 Stat. 3009–413; Pub. L. 109–351, title VI, §601(b), Oct. 13, 2006, 120 Stat. 1978.)
+(Pub. L. 91–607, title I, §106(b), Dec. 31, 1970, 84 Stat. 1766; Pub. L. 95–630, title VIII, §801, Nov. 10, 1978, 92 Stat. 3690; Pub. L. 97–320, title IV, §§410(f), 424(c), (d)(11), (e), 428, Oct. 15, 1982, 96 Stat. 1520, 1523, 1526; Pub. L. 101–73, title IX, §§905(h), 907(i), Aug. 9, 1989, 103 Stat. 461, 473; Pub. L. 102–242, title III, §306(j), Dec. 19, 1991, 105 Stat. 2359; Pub. L. 104–208, div. A, title II, §2216(a), Sept. 30, 1996, 110 Stat. 3009–413; Pub. L. 109–351, title VI, §601(b), Oct. 13, 2006, 120 Stat. 1978; Pub. L. 111–203, title III, §355, July 21, 2010, 124 Stat. 1547.)
 
 #### Amendments
 
-2006—Par. (2)(G) to (I). Pub. L. 109–351 redesignated subpars. (H) and (I) as (G) and (H), respectively, and struck out former subpar. (G) which related to written reporting requirements relating to bank loans to executive officers or stockholders with power to vote more than 10 per centum of any class of voting securities of an insured bank.
+<b>2010</b>—Par. (1). Pub. L. 111–203 inserted “issue such regulations as are necessary to carry out this section, and, in consultation with the Comptroller of the Currency and the Federal Deposit Insurance Company, may” after “The Board may” in concluding provisions.
 
-1996—Par. (1). Pub. L. 104–208, in concluding provisions, inserted “and the prohibitions of section 1843(f)(9) and 1843(h)(2) of this title” after “prohibition”.
+<b>2006</b>—Par. (2)(G) to (I). Pub. L. 109–351 redesignated subpars. (H) and (I) as (G) and (H), respectively, and struck out former subpar. (G) which related to written reporting requirements relating to bank loans to executive officers or stockholders with power to vote more than 10 per centum of any class of voting securities of an insured bank.
 
-1991—Par. (2)(H)(i). Pub. L. 102–242 inserted before semicolon at end “, a savings bank, and a savings association (as those terms are defined in section 1813 of this title)”.
+<b>1996</b>—Par. (1). Pub. L. 104–208, in concluding provisions, inserted “and the prohibitions of section 1843(f)(9) and 1843(h)(2) of this title” after “prohibition”.
 
-1989—Par. (2)(F). Pub. L. 101–73, §907(i), amended subpar. (F) generally, revising and restating as cls. (i) to (ix) provisions of former cls. (i) to (vii).
+<b>1991</b>—Par. (2)(H)(i). Pub. L. 102–242 inserted before semicolon at end “, a savings bank, and a savings association (as those terms are defined in section 1813 of this title)”.
+
+<b>1989</b>—Par. (2)(F). Pub. L. 101–73, §907(i), amended subpar. (F) generally, revising and restating as cls. (i) to (ix) provisions of former cls. (i) to (vii).
 
 Par. (2)(I). Pub. L. 101–73, §905(h), added subpar. (I).
 
-1982—Par. (2)(A) to (D). Pub. L. 97–320, §428(a)(1)–(4), inserted “or to any related interest of such person” after “such other bank” in subpar. (A), “desiring to open the account” in subpar. (B), “such other bank” in subpar. (C), and “another bank” in subpar. (D).
+<b>1982</b>—Par. (2)(A) to (D). Pub. L. 97–320, §428(a)(1)–(4), inserted “or to any related interest of such person” after “such other bank” in subpar. (A), “desiring to open the account” in subpar. (B), “such other bank” in subpar. (C), and “another bank” in subpar. (D).
 
 Par. (2)(E). Pub. L. 97–320, §410(f), substituted “the meaning prescribed by the Board pursuant to section 375b of this title” for “the same meaning given it in section 371c of this title”.
 
@@ -148,7 +150,11 @@ Par. (2)(G)(iii). Pub. L. 97–320, §428(b)(2), struck out cl. (iii) which requ
 
 Par. (2)(H). Pub. L. 97–320, §428(c), added subpar. (H).
 
-1978—Pub. L. 95–630 designated existing provisions as par. (1), redesignated former pars. (1) to (5) as subpars. (A) to (E), and added par. (2).
+<b>1978</b>—Pub. L. 95–630 designated existing provisions as par. (1), redesignated former pars. (1) to (5) as subpars. (A) to (E), and added par. (2).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the transfer date, see section 351 of Pub. L. 111–203, set out as a note under section 906 of Title 2, The Congress.
 
 #### Effective Date of 1991 Amendment
 

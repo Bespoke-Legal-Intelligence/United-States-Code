@@ -6,7 +6,7 @@ The Congress recognizes that the stated policy of the executive branch in 1997, 
 
 #### (b) Technical assistance to promote economic reforms and development
 
-In addition to continuing bilateral and multilateral economic and development assistance,the President shall target technical assistance toward—
+In addition to continuing bilateral and multilateral economic and development assistance, the President shall target technical assistance toward—
 
 &emsp;(1) developing relationships between United States firms and firms in sub-Saharan Africa through a variety of business associations and networks;
 

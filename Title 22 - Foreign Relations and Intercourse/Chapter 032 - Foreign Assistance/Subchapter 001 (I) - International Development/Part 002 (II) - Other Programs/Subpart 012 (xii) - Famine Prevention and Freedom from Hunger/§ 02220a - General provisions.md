@@ -6,7 +6,7 @@ The Congress declares that, in order to achieve the mutual goals among nations o
 
 The Congress so declares because it finds—
 
-&emsp;(A) that the establishment, endowment, and continuing support of land-grant universitiesin the United States by Federal, State, and county governments has led to agricultural progress with and through the private sector in this country and to understanding processes of economic development;
+&emsp;(A) that the establishment, endowment, and continuing support of land-grant universities in the United States by Federal, State, and county governments has led to agricultural progress with and through the private sector in this country and to understanding processes of economic development;
 
 &emsp;(B) that land-grant and other universities in the United States have demonstrated over many years their ability to cooperate with international agencies, educational and research institutions in other countries, the private sector, and nongovernmental organizations worldwide, in expanding global agricultural production, processing, business and trade, to the benefit of aid recipient countries and of the United States;
 
@@ -22,7 +22,7 @@ The Congress so declares because it finds—
 
 &emsp;(H) that there is a need to responsibly manage the world's agricultural and natural resources for sustained productivity, health and resilience to climate variability; and
 
-&emsp;(I) that universities and public and private partners of universities need a dependable source of funding in order to increase the impact of their own investments and those of their State governments and constituencies, in order to continue and expand their efforts to advance agricultural development in cooperating countries, to translate development into economic growth and trade for the United States and cooperating countries, and to prepare future teachers, researchers, extension specialists, entrepreneurs, managers, and decisionmakers for the world economy.
+&emsp;(I) that universities and public and private partners of universities need a dependable source of funding in order to increase the impact of their own investments and those of their State governments and constituencies,in order to continue and expand their efforts to advance agricultural development in cooperating countries, to translate development into economic growth and trade for the United States and cooperating countries, and to prepare future teachers, researchers, extension specialists, entrepreneurs, managers, and decisionmakers for the world economy.
 
 #### (b) Congressional declaration for collation of components to increase world food production
 
@@ -102,7 +102,7 @@ The Equity in Educational Land-Grant Status Act of 1994, referred to in subsec. 
 
 <b>2000</b>—Subsec. (a). Pub. L. 106–373, §2(a)(2)(A), in second sentence, redesignated pars. (1) to (7) as subpars. (A) to (G), respectively.
 
-Pub. L. 106–373, §2(a)(1), amended first sentence generally. Prior to amendment, first sentence read as follows: “The Congress declares that, in order to prevent famine and establish freedom from hunger, the United States should strengthen the capacities of the United States land-grant and other eligible universities in program-related agricultural institutional development and research, consistent with sections 2151a and 2151a–1 of this title, should improve their participation in the United States Government's international efforts to apply more effective agricultural sciences to the goal of increasing world food production, and in generalshould provide increased and longer term support to the application of science to solving food and nutrition problems of the developing countries.”
+Pub. L. 106–373, §2(a)(1), amended first sentence generally. Prior to amendment, first sentence read as follows: “The Congress declares that, in order to prevent famine and establish freedom from hunger, the United States should strengthen the capacities of the United States land-grant and other eligible universities in program-related agricultural institutional development and research, consistent with sections 2151a and 2151a–1 of this title, should improve their participation in the United States Government's international efforts to apply more effective agricultural sciences to the goal of increasing world food production, and in general should provide increased and longer term support to the application of science to solving food and nutrition problems of the developing countries.”
 
 Subsec. (a)(A). Pub. L. 106–373, §2(a)(2)(B), substituted “with and through the private sector in this country and to understanding processes of economic development” for “in this country”.
 
@@ -124,7 +124,7 @@ Subsec. (c)(1). Pub. L. 106–373, §2(c)(1), substituted “each of the program
 
 Subsec. (c)(2). Pub. L. 106–373, §2(c)(2)(A), inserted “and public and private partners of universities” after “for the universities”.
 
-Subsec. (c)(3). Pub. L. 106–373, §2(c)(3), inserted “and public and private partners of universities” after “such universities” in introductory provisions, added subpars. (C) to (E), and struck out concluding provisions which read as follows: “directed to strengthening their joint and respective capabilities and to engage them more effectively in research, teaching, and extension activities for solving problems in food production, distribution, storage, marketing, and consumption in agriculturally underdeveloped nations.”
+Subsec. (c)(3). Pub. L. 106–373, §2(c)(3), inserted “and public and private partners of universities” after “such universities” in introductory provisions, added subpars. (C) to (E), and struck out concluding provisions which read as follows: “directed to strengthening their jointand respective capabilities and to engage them more effectively in research, teaching, and extension activities for solving problems in food production, distribution, storage, marketing, and consumption in agriculturally underdeveloped nations.”
 
 Subsec. (c)(4), (5). Pub. L. 106–373, §2(c)(2)(B), (4), added pars. (4) and (5).
 

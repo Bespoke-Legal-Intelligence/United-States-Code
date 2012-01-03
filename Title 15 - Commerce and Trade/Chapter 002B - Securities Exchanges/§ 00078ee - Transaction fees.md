@@ -1,8 +1,8 @@
 ### §78ee. Transaction fees
 
-#### (a) Recovery of cost of services
+#### (a) Recovery of costs of annual appropriation
 
-The Commission shall, in accordance with this section, collect transaction fees and assessments that are designed to recover the costs to the Government of the supervision and regulation of securities markets and securities professionals, and costs related to such supervision and regulation, including enforcement activities, policy and rulemaking activities, administration, legal services, and international regulatory activities.
+The Commission shall, in accordance with this section, collect transaction fees and assessments that are designed to recover the costs to the Government of the annual appropriation to the Commission by Congress.
 
 #### (b) Exchange-traded securities
 
@@ -22,7 +22,7 @@ The fees and assessments required by subsections (b), (c), and (d) of this secti
 
 &emsp;(1) on or before March 15, with respect to transactions and sales occurring during the period beginning on the preceding September 1 and ending at the close of the preceding December 31; and
 
-&emsp;(2) on or before September 30, with respect to transactions and sales occurring during the period beginning on the preceding January 1 and ending at the close of the preceding August 31.
+&emsp;(2) on or before September 25, with respect to transactions and sales occurring during the period beginning on the preceding January 1 and ending at the close of the preceding August 31.
 
 #### (f) Exemptions
 
@@ -30,7 +30,7 @@ The Commission, by rule, may exempt any sale of securities or any class of sales
 
 #### (g) Publication
 
-The Commission shall publish in the Federal Register notices of the fee and assessment rates applicable under this section for each fiscal year not later than April 30 of the fiscal year preceding the fiscal year to which such rate applies, together with any estimates or projections on which such fees are based.
+The Commission shall publish in the Federal Register notices of the fee and assessment rates applicable under this section for each fiscal year not later than 30 days after the date on which an Act making a regular appropriation to the Commission for such fiscal year is enacted, together with any estimates or projections on which such fees are based.
 
 #### (h) Pro rata application
 
@@ -50,103 +50,41 @@ The rates per $1,000,000 required by this section shall be applied pro rata to a
 
 &emsp;No fees collected pursuant to subsections (b), (c), and (d) of this section for fiscal year 2002 or any succeeding fiscal year shall be deposited and credited as general revenue of the Treasury.
 
-#### (j) Recapture of projection windfalls for further rate reductions
+#### (j) Adjustments to fee rates
 
 #### (1) Annual adjustment
 
-&emsp;For each of the fiscal years 2003 through 2011, the Commission shall by order adjust each of the rates applicable under subsections (b) and (c) of this section for such fiscal year to a uniform adjusted rate that, when applied to the baseline estimate of the aggregate dollar amount of sales for such fiscal year, is reasonably likely to produce aggregate fee collections under this section (including assessments collected under subsection (d) of this section) that are equal to the target offsetting collection amount for such fiscal year.
+&emsp;Subject to subsections (i)(1)(B) and (k), for each fiscal year, the Commission shall by order adjust each of the rates applicable under subsections (b) and (c) for such fiscal year to a uniform adjusted rate that, when applied to the baseline estimate of the aggregate dollar amount of sales for such fiscal year, is reasonably likely to produce aggregate fee collections under this section (including assessments collected under subsection (d) of this section) that are equal to the regular appropriation to the Commission by Congress for such fiscal year.
 
 #### (2) Mid-year adjustment
 
-&emsp;For each of the fiscal years 2002 through 2011, the Commission shall determine, by March 1 of such fiscal year, whether, based on the actual aggregate dollar volume of sales during the first 5 months of such fiscal year, the baseline estimate of the aggregate dollar volume of sales used under paragraph (1) for such fiscal year (or $48,800,000,000,000 in the case of fiscal year 2002) is reasonably likely to be 10 percent (or more) greater or less than the actual aggregate dollar volume of sales for such fiscal year. If the Commission so determines, the Commission shall by order, no later than such March 1, adjust each of the rates applicable under subsections (b) and (c) of this section for such fiscal year to a uniform adjusted rate that, when applied to the revised estimate of the aggregate dollar amount of sales for the remainder of such fiscal year, is reasonably likely to produce aggregate fee collections under this section (including fees collected during such 5-month period and assessments collected under subsection (d) of this section) that are equal to the target offsetting collection amount for such fiscal year. In making such revised estimate, the Commission shall, after consultation with the Congressional Budget Office and the Office of Management and Budget, use the same methodology required by subsection (<i>l</i>)(2) of this section.
+&emsp;Subject to subsections (i)(1)(B) and (k), for each fiscal year, the Commission shall determine, by March 1 of such fiscal year, whether, based on the actual aggregate dollar volume of sales during the first 5 months of such fiscal year, the baseline estimate of the aggregate dollar volume of sales used under paragraph (1) for such fiscal year is reasonably likely to be 10 percent (or more) greater or less than the actual aggregate dollar volume of sales for such fiscal year. If the Commission so determines, the Commission shall by order, no later than March 1, adjust each of the rates applicable under subsections (b) and (c) for such fiscal year to a uniform adjusted rate that, when applied to the revised estimate of the aggregate dollar amount of sales for the remainder of such fiscal year, is reasonably likely to produce aggregate fee collections under this section (including fees collected during such five-month period and assessments collected under subsection (d) of this section) that are equal to the regular appropriation to the Commission by Congress for such fiscal year. In making such revised estimate, the Commission shall, after consultation with the Congressional Budget Office and the Office of Management and Budget, use the same methodology required by subsection (<i>l</i>).
 
-#### (3) Final rate adjustment
+#### (3) Review
 
-&emsp;For fiscal year 2012 and all of the succeeding fiscal years, the Commission shall by order adjust each of the rates applicable under subsections (b) and (c) of this section for all of such fiscal years to a uniform adjusted rate that, when applied to the baseline estimate of the aggregate dollar amount of sales for fiscal year 2012, is reasonably likely to produce aggregate fee collections under this section in fiscal year 2012 (including assessments collected under subsection (d) of this section) equal to the target offsetting collection amount for fiscal year 2011.
+&emsp;In exercising its authority under this subsection, the Commission shall not be required to comply with the provisions of section 553 of title 5. An adjusted rate prescribed under paragraph (1) or (2) and published under subsection (g) shall not be subject to judicial review.
 
-#### (4) Review and effective date
+#### (4) Effective date
 
-&emsp;In exercising its authority under this subsection, the Commission shall not be required to comply with the provisions of section 553 of title 5. An adjusted rate prescribed under paragraph (1), (2), or (3) and published under subsection (g) of this section shall not be subject to judicial review. Subject to subsections (i)(1)(B) and (k) of this section—
+#### (A) Annual adjustment
 
-&emsp;&emsp;(A) an adjusted rate prescribed under paragraph (1) shall take effect on the later of—
+&emsp;&emsp;Subject to subsections (i)(1)(B) and (k), an adjusted rate prescribed under paragraph (1) shall take effect on the later of—
 
 &emsp;&emsp;&emsp;(i) the first day of the fiscal year to which such rate applies; or
 
-&emsp;&emsp;&emsp;(ii) thirty days after the date on which a regular appropriation to the Commission for such fiscal year is enacted;
+&emsp;&emsp;&emsp;(ii) 60 days after the date on which an Act making a regular appropriation to the Commission for such fiscal year is enacted.
 
-&emsp;&emsp;(B) an adjusted rate prescribed under paragraph (2) shall take effect on April 1 of the fiscal year to which such rate applies; and
+#### (B) Mid-year adjustment
 
-&emsp;&emsp;(C) an adjusted rate prescribed under paragraph (3) shall take effect on the later of—
-
-&emsp;&emsp;&emsp;(i) the first day of fiscal year 2012; or
-
-&emsp;&emsp;&emsp;(ii) thirty days after the date on which a regular appropriation to the Commission for fiscal year 2012 is enacted.
+&emsp;&emsp;An adjusted rate prescribed under paragraph (2) shall take effect on April 1 of the fiscal year to which such rate applies.
 
 #### (k) Lapse of appropriation
 
-If on the first day of a fiscal year a regular appropriation to the Commission has not been enacted, the Commission shall continue to collect (as offsetting collections) the fees and assessments under subsections (b), (c), and (d) of this section at the rate in effect during the preceding fiscal year, until 30 days after the date such a regular appropriation is enacted.
+If on the first day of a fiscal year a regular appropriation to the Commission has not been enacted, the Commission shall continue to collect (as offsetting collections) the fees and assessments under subsections (b), (c), and (d) of this section at the rate in effect during the preceding fiscal year, until 60 days after the date such a regular appropriation is enacted.
 
-#### (<i>l</i>) Definitions
+#### (<i>l</i>) Baseline estimate of the aggregate dollar amount of sales
 
-For purposes of this section:
-
-#### (1) Target offsetting collection amount
-
-&emsp;The target offsetting collection amount for each of the fiscal years 2002 through 2011 is determined according to the following table:
-
-&nbsp;
-
-<b>Target offsetting</b>
-
-<b>Fiscal year:</b>
-
-<b>collection amount</b>
-
-&nbsp;2002
-
-$732,000,000
-
-&nbsp;2003
-
-$849,000,000
-
-&nbsp;2004
-
-$1,028,000,000
-
-&nbsp;2005
-
-$1,220,000,000
-
-&nbsp;2006
-
-$1,435,000,000
-
-&nbsp;2007
-
-$881,000,000
-
-&nbsp;2008
-
-$892,000,000
-
-&nbsp;2009
-
-$1,023,000,000
-
-&nbsp;2010
-
-$1,161,000,000
-
-&nbsp;2011
-
-$1,321,000,000
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### (2) Baseline estimate of the aggregate dollar amount of sales
-
-&emsp;The baseline estimate of the aggregate dollar amount of sales for any fiscal year is the baseline estimate of the aggregate dollar amount of sales of securities (other than bonds, debentures, other evidences of indebtedness, security futures products, and options on securities indexes (excluding a narrow-based security index)) to be transacted on each national securities exchange and by or through any member of each national securities association (otherwise than on a national securities exchange) during such fiscal year as determined by the Commission, after consultation with the Congressional Budget Office and the Office of Management and Budget, using the methodology required for making projections pursuant to section 907 of title 2.
+The baseline estimate of the aggregate dollar amount of sales for any fiscal year is the baseline estimate of the aggregate dollar amount of sales of securities (other than bonds, debentures, other evidences of indebtedness, security futures products, and options on securities indexes (excluding a narrow-based security index)) to be transacted on each national securities exchange and by or through any member of each national securities association (otherwise than on a national securities exchange) during such fiscal year as determined by the Commission, after consultation with the Congressional Budget Office and the Office of Management and Budget, using the methodology required for making projections pursuant to section 907 of title 2.
 
 #### (m) Transmittal of Commission budget requests
 
@@ -170,59 +108,21 @@ $1,321,000,000
 
 (June 6, 1934, ch. 404, title I, §31, 48 Stat. 904; Mar. 17, 1944, ch. 101, 58 Stat. 117; Pub. L. 94–29, §22, June 4, 1975, 89 Stat. 162; Pub. L. 104–290, title IV, §405(a), Oct. 11, 1996, 110 Stat. 3442; Pub. L. 105–353, title III, §301(b)(14), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 106–554, §1(a)(5) \[title II, §206(f)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–432; Pub. L. 107–123, §§2, 3, Jan. 16, 2002, 115 Stat. 2390; Pub. L. 111–203, title IX, §991(a)(1), (d)(1), July 21, 2010, 124 Stat. 1950, 1954.)
 
-#### Amendment of Section
-
-<i>Pub. L. 111–203, title IX, §991(a), July 21, 2010, 124 Stat. 1950, provided that, effective on the later of Oct. 1, 2011, or the date of enactment of an Act making a regular appropriation to the Commission for fiscal year 2012, this section is amended—</i>
-
-<i>(1) by striking subsection (a) and inserting the following:</i>
-
-#### <i>“(a) Recovery of costs of annual appropriation</i>
-
-<i>“The Commission shall, in accordance with this section, collect transaction fees and assessments that are designed to recover the costs to the Government of the annual appropriation to the Commission by Congress.”;</i>
-
-<i>(2) in subsection (e)(2), by striking “September 30” and inserting “September 25”;</i>
-
-<i>(3) in subsection (g), by striking “April 30 of the fiscal year preceding the fiscal year to which such rate applies” and inserting “30 days after the date on which an Act making a regular appropriation to the Commission for such fiscal year is enacted”;</i>
-
-<i>(4) by striking subsection (j) and inserting the following:</i>
-
-#### <i>“(j) Adjustments to fee rates</i>
-
-#### <i>“(1) Annual adjustment</i>
-
-&emsp;<i>“Subject to subsections (i)(1)(B) and (k), for each fiscal year, the Commission shall by order adjust each of the rates applicable under subsections (b) and (c) for such fiscal year to a uni</i><i>form adjusted rate that, when applied to the baseline estimate of the aggregate dollar amount of sales for such fiscal year, is reasonably likely to produce aggregate fee collections under this section (including assessments collected under subsection (d) of this section) that are equal to the regular appropriation to the Commission by Congress for such fiscal year.</i>
-
-#### <i>“(2) Mid-year adjustment</i>
-
-&emsp;<i>“Subject to subsections (i)(1)(B) and (k), for each fiscal year, the Commission shall determine, by March 1 of such fiscal year, whether, based on the actual aggregate dollar volume of sales during the first 5 months of such fiscal year, the baseline estimate of the aggregate dollar volume of sales used under paragraph (1) for such fiscal year is reasonably likely to be 10 percent (or more) greater or less than the actual aggregate dollar volume of sales for such fiscal year. If the Commission so determines, the Commission shall by order, no later than March 1, adjust each of the rates applicable under subsections (b) and (c) for such fiscal year to a uniform adjusted rate that, when applied to the revised estimate of the aggregate dollar amount of sales for the remainder of such fiscal year, is reasonably likely to produce aggregate fee collections under this section (including fees collected during such five-month period and assessments collected under subsection (d) of this section) that are equal to the regular appropriation to the Commission by Congress for such fiscal year. In making such revised estimate, the Commission shall, after consultation with the Congressional Budget Office and the Office of Management and Budget, use the same methodology required by subsection (l).</i>
-
-#### <i>“(3) Review</i>
-
-&emsp;<i>“In exercising its authority under this subsection, the Commission shall not be required to comply with the provisions of section 553 of title 5. An adjusted rate prescribed under paragraph (1) or (2) and published under subsection (g) shall not be subject to judicial review.</i>
-
-#### <i>“(4) Effective date</i>
-
-#### <i>“(A) Annual adjustment</i>
-
-&emsp;&emsp;<i>“Subject to subsections (i)(1)(B) and (k), an adjusted rate prescribed under paragraph (1) shall take effect on the later of—</i>
-
-&emsp;&emsp;&emsp;<i>“(i) the first day of the fiscal year to which such rate applies; or</i>
-
-&emsp;&emsp;&emsp;<i>“(ii) 60 days after the date on which an Act making a regular appropriation to the Commission for such fiscal year is enacted.</i>
-
-#### <i>“(B) Mid-year adjustment</i>
-
-&emsp;&emsp;<i>“An adjusted rate prescribed under paragraph (2) shall take effect on April 1 of the fiscal year to which such rate applies.”;</i>
-
-<i>(5) in subsection (k), by striking “30 days” and inserting “60 days”; and</i>
-
-<i>(6) in subsection (l), by striking “Definitions.—” and all that follows through “sales.—The baseline” and inserting “Baseline estimate of the aggregate dollar amount of sales.—The baseline”.</i>
-
-<i>See Effective Date of 2010 Amendment note below.</i>
-
 #### Amendments
 
-<b>2010</b>—Subsec. (m). Pub. L. 111–203, §991(d)(1), added subsec. (m).
+<b>2010</b>—Subsec. (a). Pub. L. 111–203, §991(a)(1)(A), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Commission shall, in accordance with this section, collect transaction fees and assessments that are designed to recover the costs to the Government of the supervision and regulation of securities markets and securities professionals, and costs related to such supervision and regulation, including enforcement activities, policy and rulemaking activities, administration, legal services, and international regulatory activities.”
+
+Subsec. (e)(2). Pub. L. 111–203, §991(a)(1)(B), substituted “September 25” for “September 30”.
+
+Subsec. (g). Pub. L. 111–203, §991(a)(1)(C), substituted “30 days after the date on which an Act making a regular appropriation to the Commission for such fiscal year is enacted” for “April 30 of the fiscal year preceding the fiscal year to which such rate applies”.
+
+Subsec. (j). Pub. L. 111–203, §991(a)(1)(D), added subsec. (j) and struck out former subsec. (j) which related to recapture of projection windfalls for further rate reductions.
+
+Subsec. (k). Pub. L. 111–203, §991(a)(1)(E), substituted “60 days” for “30 days”.
+
+Subsec. (<i>l</i>). Pub. L. 111–203, §991(a)(1)(F), substituted “Baseline estimate of the aggregate dollar amount of sales” for “Definitions” in heading and struck out introductory provisions “For purposes of this section:”, par. (2) designation and heading “Baseline estimate of the aggregate dollar amount of sales”, and par. (1) which provided table of target offsetting collection amounts for fiscal years 2002 through 2011.
+
+Subsec. (m). Pub. L. 111–203, §991(d)(1), added subsec. (m).
 
 <b>2002</b>—Subsec. (b). Pub. L. 107–123, §3(a)(1), substituted “Subject to subsection (j) of this section, each” for “Every” and struck out at end “Fees collected pursuant to this subsection shall be deposited and collected as general revenue of the Treasury.”
 
@@ -242,7 +142,7 @@ Subsec. (e). Pub. L. 107–123, §3(a)(5), (6), redesignated subsec. (f) as (e) 
 
 Subsec. (f). Pub. L. 107–123, §3(a)(6), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
 
-Subsec. (g). Pub. L. 107–123, §3(a)(6), (b)(2), redesignated subsec. (h) as (g) and inserted before period atend “not later than April 30 of the fiscal year preceding the fiscal year to which such rate applies, together with any estimates or projections on which such fees are based”. Former subsec. (g) redesignated (f).
+Subsec. (g). Pub. L. 107–123, §3(a)(6), (b)(2), redesignated subsec. (h) as (g) and inserted before period at end “not later than April 30 of the fiscal year preceding the fiscal year to which such rate applies, together with any estimates or projections on which such fees are based”. Former subsec. (g) redesignated (f).
 
 Subsec. (h). Pub. L. 107–123, §3(a)(6), redesignated subsec. (i), as enacted by Pub. L. 107–123, §2(6), as (h). See below. Former subsec. (h) redesignated (g).
 
@@ -284,7 +184,7 @@ Pub. L. 111–203, title IX, §991(a)(2), July 21, 2010, 124 Stat. 1951, provide
 
 &emsp;“(A) October 1, 2011; or
 
-&emsp;“(B) the date of enactment of an Act making a regular appropriation to the \[Securities and Exchange\] Commission for fiscal year 2012.”
+&emsp;“(B) the date of enactment of an Act making a regular appropriation to the \[Securities and Exchange\] Commission for fiscal year 2012 \[Div. C of Pub. L. 112–74, approved Dec. 23, 2011\].”
 
 #### Effective Date of 2002 Amendment
 
@@ -308,7 +208,7 @@ Additional Exceptions.—The authorities provided by section 6(b)(9) of the Secu
 
 #### Effective Date of 1996 Amendment
 
-Section 405(b) of Pub. L. 104–290 provided that:
+Pub. L. 104–290, title IV, §405(b), Oct. 11, 1996, 110 Stat. 3443, provided that:
 
 “(1)
 
@@ -342,7 +242,7 @@ Study.—The Office of Economic Analysis of the Securities and Exchange Commissi
 
 Factors for Consideration.—In conducting the study under subsection (a), the Office shall—
 
-&emsp;“(1) consider the various elements of the securities industry directly and indirectly benefiting from the fee reductions, including purchasers and sellers of securities, members of national securities exchanges,issuers, broker-dealers, underwriters, participants in investment companies, retirement programs, and others;
+&emsp;“(1) consider the various elements of the securities industry directly and indirectly benefiting from the fee reductions, including purchasers and sellers of securities, members of national securities exchanges, issuers, broker-dealers, underwriters, participants in investment companies, retirement programs, and others;
 
 &emsp;“(2) consider the impact on different types of investors, such as individual equity holders, individual investment company shareholders, businesses, and other types of investors;
 

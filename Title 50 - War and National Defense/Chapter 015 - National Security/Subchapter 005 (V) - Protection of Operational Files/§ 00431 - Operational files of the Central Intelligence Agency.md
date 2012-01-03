@@ -20,7 +20,7 @@ In this section, the term “operational files” means—
 
 Notwithstanding subsection (a) of this section, exempted operational files shall continue to be subject to search and review for information concerning—
 
-&emsp;(1) United States citizens or aliens lawfully admitted for permanent residence who have requested information on themselves pursuant to the provisions of section 552 of title 5 (Freedom of Information Act) or section 552a of title 5 (Privacy Act of 1974);
+&emsp;(1) United States citizens or aliens lawfully admitted for permanent residence who have requested information on themselves pursuantto the provisions of section 552 of title 5 (Freedom of Information Act) or section 552a of title 5 (Privacy Act of 1974);
 
 &emsp;(2) any special activity the existence of which is not exempt from disclosure under the provisions of section 552 of title 5 (Freedom of Information Act); or
 
@@ -40,7 +40,7 @@ The provisions of subsection (a) of this section shall not be superseded except 
 
 #### (f) Allegation; improper withholding of records; judicial review
 
-Whenever any person who has requested agency records under section 552 of title 5 (Freedom of Information Act), alleges that the Central Intelligence Agency has improperly withheld records because of failure to comply with any provision of this section, judicial review shall beavailable under the terms set forth in section 552(a)(4)(B) of title 5, except that—
+Whenever any person who has requested agency records under section 552 of title 5 (Freedom of Information Act), alleges that the Central Intelligence Agency has improperly withheld records because of failure to comply with any provision of this section, judicial review shall be available under the terms set forth in section 552(a)(4)(B) of title 5, except that—
 
 &emsp;(1) in any case in which information specifically authorized under criteria established by an Executive order to be kept secret in the interest of national defense or foreign relations which is filed with, or produced for, the court by the Central Intelligence Agency, such information shall be examined ex parte, in camera by the court;
 
@@ -92,7 +92,7 @@ Subsec. (g)(1). Pub. L. 108–458, §1071(a)(6)(B), substituted “Director of t
 
 <b>2003</b>—Pub. L. 108–136, §922(d)(1)(B), substituted “Operational files of the Central Intelligence Agency” for “Exemption of certain operational files from search, review, publication, or disclosure” in section catchline.
 
-Subsec. (b). Pub. L. 108–136, §922(b)(1), which directed the substitution of “In this section,” for “For purposesof this title”, was executed by making the substitution for “For the purposes of this title”, to reflect the probable intent of Congress.
+Subsec. (b). Pub. L. 108–136, §922(b)(1), which directed the substitution of “In this section,” for “For purposes of this title”, was executed by making the substitution for “For the purposes of this title”, to reflect the probable intent of Congress.
 
 Subsec. (g). Pub. L. 108–136, §922(b)(2)(C), inserted heading.
 

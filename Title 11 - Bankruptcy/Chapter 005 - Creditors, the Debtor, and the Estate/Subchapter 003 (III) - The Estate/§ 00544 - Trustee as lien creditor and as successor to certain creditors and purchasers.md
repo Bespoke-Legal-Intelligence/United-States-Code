@@ -16,7 +16,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 544(a)(3) modifies similar provisions contained in the House bill and Senate amendment so as not to require a creditor to perform the impossible in order to perfect his interest. Both the lien creditor test in section 544(a)(1), and the bona fide purchaser test in section 544(a)(3) should not require a transferee to perfect a transfer against an entity with respect to which applicable law does not permit perfection. The avoiding powers under section 544(a)(1), (2), and (3) are new. In particular, section 544(a)(1) overrules <i>Pacific Finance Corp. v. Edwards</i>, 309 F.2d 224 (9th Cir. 1962), and <i>In re Federals, Inc</i>., 553 F.2d 509 (6th Cir. 1977), insofar as those cases held that the trustee did not have the status of a creditor who extended credit immediately prior to the commencement of the case.
 
@@ -30,9 +30,9 @@ Subsection (b) is derived from current section 70e \[section 110(e) of former ti
 
 #### Amendments
 
-1998—Subsec. (b). Pub. L. 105–183 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), the trustee” for “The trustee”, and added par. (2).
+<b>1998</b>—Subsec. (b). Pub. L. 105–183 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), the trustee” for “The trustee”, and added par. (2).
 
-1984—Subsec. (a)(1). Pub. L. 98–353, §459(1), inserted “such” after “obtained”.
+<b>1984</b>—Subsec. (a)(1). Pub. L. 98–353, §459(1), inserted “such” after “obtained”.
 
 Subsec. (a)(2). Pub. L. 98–353, §459(2), substituted “; or” for “; and”.
 

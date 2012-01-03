@@ -66,7 +66,7 @@ Pub. L. 108–333, §1, Oct. 18, 2004, 118 Stat. 1287, provided that: “This Ac
 
 Pub. L. 110–346, §2, Oct. 7, 2008, 122 Stat. 3939, provided that: “Congress finds the following:
 
-&emsp;“(1) The North Korean Human Rights Act of 2004 (Public Law 108–333; 22 U.S.C. 7801 et seq.) (in this section referred to as ‘the Act’) was the product of broad, bipartisan consensus in Congress regarding thepromotion of human rights, transparency in the delivery of humanitarian assistance, and refugee protection.
+&emsp;“(1) The North Korean Human Rights Act of 2004 (Public Law 108–333; 22 U.S.C. 7801 et seq.) (in this section referred to as ‘the Act’) was the product of broad, bipartisan consensus in Congress regarding the promotion of human rights, transparency in the delivery of humanitarian assistance, and refugee protection.
 
 &emsp;“(2) In addition to the longstanding commitment of the United States to refugee and human rights advocacy, the United States is home to the largest Korean population outside of northeast Asia, and many in the two-million strong Korean-American community have family ties to North Korea.
 
@@ -80,7 +80,7 @@ Pub. L. 110–346, §2, Oct. 7, 2008, 122 Stat. 3939, provided that: “Congress
 
 &emsp;“(7) The Special Envoy appointed by the President has filled that position on a part-time basis only.
 
-&emsp;“(8) Since the passage of the North Korean Human Rights Act, Congress has on several occasions expressed interest in the status of North Korean refugees, and on February 21, 2006, a bipartisan group of senior Members of the House and Senate wrote Secretary of State Condoleezza Rice ‘to express \[their\] deep concern for the lack of progress in funding and implementing the key provisions of the North Korean Human Rights Act’, particularly the lack of North Korean refugee admissions to the United States.
+&emsp;“(8) Since the passage of the North Korean Human Rights Act, Congress has on several occasions expressed interest in the status of North Korean refugees, and on February 21, 2006, a bipartisan group of senior Members of the House and Senate wrote Secretary of State Condoleezza Rice ‘to express \[their\] deep concern for the lack of progress in funding and implementing the key provisions of the North KoreanHuman Rights Act’, particularly the lack of North Korean refugee admissions to the United States.
 
 &emsp;“(9) Although the United States refugee resettlement program remains the largest in the world by far, the United States has resettled only 37 North Koreans in the period from 2004 through 2007.
 

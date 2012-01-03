@@ -70,5 +70,5 @@ As used in this chapter:
 
 #### Amendments
 
-1993—Par. (6). Pub. L. 103–194 substituted “citrus latifolia” for “citrus aurantifolia”.
+<b>1993</b>—Par. (6). Pub. L. 103–194 substituted “citrus latifolia” for “citrus aurantifolia”.
 

@@ -58,7 +58,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### 1967 Act
 
-In the codification of 5 U.S.C. 5547, the words “premium pay under this subchapter” were substituted for “premium compensation provided by this Act” appearing in the source statute—section 603 of the Federal Employees Pay Act of 1945, as amended (former 5 U.S.C. 943). This amendment of 5 U.S.C. 5547 is made for clarity and precision of reference and in recognition that the source statutes for certain sections of subchapter V of chapter 55 of title 5 include statutes that were not a part of the Federal Employees Pay Act of 1949. Specifically, 5 U.S.C. 5544(a) is based in part on section 23 (2d proviso) of the act of March 28, 1934, as amended by 76 Stat. 360; and 5 U.S.C. 5545(d) is based on section 804 of the Classification Act of 1949, as added by Public Law 89–512, 80 Stat. 318. Also, 5 U.S.C. 5541(2)(xi) in effect excludes employees subject to 5 U.S.C. 5544 from the operation of 5 U.S.C. 5547.
+In the codification of 5 U.S.C. 5547, the words “premium pay under this subchapter” were substituted for “premium compensation provided by this Act” appearing in the source statute—section 603 of the Federal Employees Pay Act of 1945, as amended (former 5 U.S.C. 943). This amendment of 5 U.S.C. 5547 is made for clarity and precision of reference and in recognition that the source statutes for certain sections of subchapter V of chapter 55 of title 5 include statutes that were not a part of the Federal Employees Pay Act of 1949. Specifically, 5 U.S.C. 5544(a) is based in part on section 23 (2d proviso) of the act of March 28, 1934, as amended by 76Stat. 360; and 5 U.S.C. 5545(d) is based on section 804 of the Classification Act of 1949, as added by Public Law 89–512, 80 Stat. 318. Also, 5 U.S.C. 5541(2)(xi) in effect excludes employees subject to 5 U.S.C. 5544 from the operation of 5 U.S.C. 5547.
 
 #### References in Text
 
@@ -68,7 +68,7 @@ Level V of the Executive Schedule, referred to in subsecs. (a)(2) and (b)(2)(B),
 
 #### Amendments
 
-2001—Pub. L. 107–107 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows:
+<b>2001</b>—Pub. L. 107–107 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows:
 
 “(a) An employee may be paid premium pay under sections 5542, 5545(a), (b), and (c), 5545a, and 5546(a) and (b) of this title only to the extent that the payment does not cause his aggregate rate of pay for any pay period to exceed the maximum rate for GS–15 (including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law). The first sentence of this subsection shall not apply to any employee of the Federal Aviation Administration or the Department of Defense who is paid premium pay under section 5546a of this title.
 
@@ -84,21 +84,21 @@ Level V of the Executive Schedule, referred to in subsecs. (a)(2) and (b)(2)(B),
 
 &emsp;“(B) the rate payable for level V of the Executive Schedule.”
 
-1994—Subsec. (a). Pub. L. 103–329 inserted “5545a,” after “5545(a), (b), and (c),”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–329 inserted “5545a,” after “5545(a), (b), and (c),”.
 
-1992—Subsec. (c)(3). Pub. L. 102–378 struck out par. (3) which read as follows: “For the purposes of this subsection, ‘law enforcement officer’ means any law enforcement officer within the meaning of section 8331(20) or section 8401(17).”
+<b>1992</b>—Subsec. (c)(3). Pub. L. 102–378 struck out par. (3) which read as follows: “For the purposes of this subsection, ‘law enforcement officer’ means any law enforcement officer within the meaning of section 8331(20) or section 8401(17).”
 
-1990—Subsec. (a). Pub. L. 101–509, §529 \[title II, §204(1)\], inserted “(including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law)” after “GS–15”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–509, §529 \[title II, §204(1)\], inserted “(including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law)” after “GS–15”.
 
 Subsec. (b). Pub. L. 101–509, §529 \[title II, §204(2)\], amended subsec. (b) generally, substituting present provisions for former provisions consisting of pars. (1) to (3) that related to pay of forest firefighters working on forest wildfire emergencies.
 
 Subsec. (c). Pub. L. 101–509, §529 \[title IV, §410(b)\], added subsec. (c).
 
-1988—Pub. L. 100–523 amended section generally, designating existing provisions as subsec. (a) and adding subsec. (b).
+<b>1988</b>—Pub. L. 100–523 amended section generally, designating existing provisions as subsec. (a) and adding subsec. (b).
 
-1984—Pub. L. 98–525 inserted “or the Department of Defense”.
+<b>1984</b>—Pub. L. 98–525 inserted “or the Department of Defense”.
 
-1982—Pub. L. 97–276 inserted provision directing that first sentence of this section not apply to any employee of Federal Aviation Administration who is paid premium pay under section 5546a of this title.
+<b>1982</b>—Pub. L. 97–276 inserted provision directing that first sentence of this section not apply to any employee of Federal Aviation Administration who is paid premium pay under section 5546a of this title.
 
 #### Effective Date of 2001 Amendment
 

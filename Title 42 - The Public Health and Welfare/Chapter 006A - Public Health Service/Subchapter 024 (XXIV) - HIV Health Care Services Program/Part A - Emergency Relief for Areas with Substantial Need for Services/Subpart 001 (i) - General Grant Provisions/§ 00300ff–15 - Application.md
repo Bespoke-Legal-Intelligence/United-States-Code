@@ -76,7 +76,7 @@ An eligible area that desires to receive a grant under section 300ff–13(b) of 
 
 #### (2) Exception
 
-&emsp;The Secretary may extend the time for the submission of an application under paragraph\(1) for a period of not to exceed 60 days if the Secretary determines that the eligible area has made a good faith effort to comply with the requirement of such paragraph but has otherwise been unable to submit its application.
+&emsp;The Secretary may extend the time for the submission of an application under paragraph (1) for a period of not to exceed 60 days if the Secretary determines that the eligible area has made a good faith effort to comply with the requirement of such paragraph but has otherwise been unable to submit its application.
 
 #### (3) Distribution by Secretary
 

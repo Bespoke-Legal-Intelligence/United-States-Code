@@ -4,7 +4,7 @@
 
 Each State that receives assistance under this subchapter, and the Secretary of the Interior, shall provide data each year to the Secretary of Education and the public on the following:
 
-&emsp;(1)(A) The number and percentage of children with disabilities, by race, ethnicity, limited English proficiency status, gender, and disability category, who are in each of the following separate categories:
+&emsp;(1)(A) The number and percentage of children with disabilities, by race, ethnicity, limited English proficiency status, gender, anddisability category, who are in each of the following separate categories:
 
 &emsp;&emsp;(i) Receiving a free appropriate public education.
 

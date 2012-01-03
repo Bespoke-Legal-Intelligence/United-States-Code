@@ -1,6 +1,6 @@
 ### §580a. Enhanced authority for selective early discharges
 
-(a) The Secretary of Defense may authorize the Secretary of a military department, during the period beginning on November 30, 1993, and ending on October 1, 1999, to take the action set forth in subsection (b) with respect to regular warrant officers of an armed force under the jurisdiction of that Secretary.
+(a) The Secretary of Defense may authorize the Secretary of a military department, duringthe period beginning on November 30, 1993, and ending on October 1, 1999, to take the action set forth in subsection (b) with respect to regular warrant officers of an armed force under the jurisdiction of that Secretary.
 
 (b) The Secretary of a military department may, with respect to regular warrant officers of an armed force, when authorized to do so under subsection (a), convene selection boards under section 573(c) of this title to consider for discharge regular warrant officers on the warrant officer active-duty list—
 
@@ -22,7 +22,7 @@
 
 &emsp;(B) in each grade, year group, or specialty (or combination thereof) in each competitive category.
 
-(3) The total number of regular warrant officers described in subsection (b) from any of thearmed forces (or from any of the armed forces in a particular grade) who may be recommended during a fiscal year for discharge by a selection board convened pursuant to the authority of that subsection may not exceed 70 percent of the decrease, as compared to the preceding fiscal year, in the number of warrant officers of that armed force (or the number of warrant officers of that armed force in that grade) authorized to be serving on active duty as of the end of that fiscal year.
+(3) The total number of regular warrant officers described in subsection (b) from any of the armed forces (or from any of the armed forces in a particular grade) who may be recommended during a fiscal year for discharge by a selection board convened pursuant to the authority of that subsection may not exceed 70 percent of the decrease, as compared to the preceding fiscal year, in the number of warrant officers of that armed force (or the number of warrant officers of that armed force in that grade) authorized to be serving on active duty as of the end of that fiscal year.
 
 (4) A warrant officer who is recommended for discharge by a selection board convened pursuant to subsection (b) and whose discharge is approved by the Secretary concerned shall be discharged on a date specified by the Secretary concerned.
 

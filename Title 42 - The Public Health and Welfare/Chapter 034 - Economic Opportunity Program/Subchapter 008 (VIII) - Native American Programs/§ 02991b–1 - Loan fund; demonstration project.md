@@ -104,11 +104,11 @@ Subsec. (b)(2). Pub. L. 105–361, §3(a)(2)(B)(i), substituted “Each loan or 
 
 Subsec. (b)(2)(A). Pub. L. 105–361, §3(a)(2)(B)(ii), substituted “7 years” for “5 years”.
 
-Subsec. (b)(2)(B). Pub. L. 105–361, §3(a)(2)(B)(iii), substituted “that does not exceed a rate equal to the sum of—” for “that is 2 percentage points below the average market yield on the most recent public offering ofUnited States Treasury bills occurring before the date on which the loan is made.” and added cls. (I) and (II).
+Subsec. (b)(2)(B). Pub. L. 105–361, §3(a)(2)(B)(iii), substituted “that does not exceed a rate equal to the sum of—” for “that is 2 percentage points below the average market yield on the most recent public offering of United States Treasury bills occurring before the date on which the loan is made.” and added cls. (I) and (II).
 
 Subsec. (f)(1). Pub. L. 105–361, §3(a)(3), substituted “2000 and 2001,” for “1992, 1993, and 1994,”.
 
-<b>1993</b>—Subsecs. (b) to (d)(1). Pub. L. 103–171, §5(3)(A), struck out “to which a grant is awarded under subsection (a)(1) of this section” before “may make loans” in subsec. (b)(1), before “may require any borrower” in subsec. (b)(3), before “shall establish written” in subsec. (b)(4), before “may not lend” in subsec. (b)(5), before “shall provide the Commissioner” in subsec. (c)(1), before “shall notify the Commissioner” in subsec. (c)(2)(A), and before “shall, out of funds” in subsec. (d)(1).
+<b>1993</b>—Subsecs. (b) to (d)(1). Pub. L. 103–171, §5(3)(A), struck out “to which a grant is awarded under subsection (a)(1) of this section” before “may make loans” in subsec. (b)(1), before “may require any borrower” in subsec. (b)(3), before “shall establish written” in subsec. (b)(4), before “may not lend” in subsec. (b)(5), before “shall provide the Commissioner” in subsec. (c)(1), before “shall notify the Commissioner” in subsec.\(c)(2)(A), and before “shall, out of funds” in subsec. (d)(1).
 
 Subsec. (d)(2). Pub. L. 103–171, §5(3)(B), struck out “to which a grant is made under subsection (a)(1) of this section” after “Commissioner shall provide to the Office”.
 

@@ -14,7 +14,7 @@ For the purpose of this subchapter—
 
 #### Amendments
 
-1993—Par. (4). Pub. L. 103–103 inserted “the term” after par. designation and inserted before period at end “(disregarding any advanced leave)”.
+<b>1993</b>—Par. (4). Pub. L. 103–103 inserted “the term” after par. designation and inserted before period at end “(disregarding any advanced leave)”.
 
 #### Effective Date of 1993 Amendment
 
@@ -52,5 +52,5 @@ Section 2(e) of Pub. L. 100–566 provided that:
 
 #### Continuation of Temporary Leave Transfer Programs
 
-Section 2(f) of Pub. L. 100–566 provided that: “Any temporary program allowing for transfers of leave among officers or employees of the Federal Government may, if such program is being implemented with respect to an agency (or any unit thereof) as of the date of the enactment of this Act \[Oct. 31, 1988\], continue to be implemented with respect to such agency (or unit), notwithstanding any provision of law which would otherwise terminate the authority for such program, pending the commencement of a leave transfer program with respect to such agency pursuant to amendments made by this Act \[see Short Title of 1988 Amendment note set out under section 6301 of this title\]. The Office of Personnel Management (or, in the case of a program established by another agency, such other agency) shall prescribe regulations to ensure that any leave which has been transferred to the credit of an officer or employee and which remains unused as of the date on which any such temporary program terminates (and a successor program commences pursuant to amendments made by this Act) shall not be lost by reason of that termination.”
+Section 2(f) of Pub. L. 100–566 provided that: “Any temporary program allowing for transfers of leave among officers or employees of the Federal Government may, if such program is being implemented with respect to an agency (or any unit thereof) as of the date of the enactment of this Act \[Oct. 31, 1988\], continue to be implemented with respect to such agency (or unit), notwithstanding any provision of law which wouldotherwise terminate the authority for such program, pending the commencement of a leave transfer program with respect to such agency pursuant to amendments made by this Act \[see Short Title of 1988 Amendment note set out under section 6301 of this title\]. The Office of Personnel Management (or, in the case of a program established by another agency, such other agency) shall prescribe regulations to ensure that any leave which has been transferred to the credit of an officer or employee and which remains unused as of the date on which any such temporary program terminates (and a successor program commences pursuant to amendments made by this Act) shall not be lost by reason of that termination.”
 

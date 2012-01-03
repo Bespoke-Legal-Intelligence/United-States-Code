@@ -32,7 +32,7 @@ Deferred payment loans secured by second mortgages may be provided under the mod
 
 #### (1) Period of deferral
 
-&emsp;The payment of any principal and interest on a loan under this section shall be deferredfor not less than the 5-year period beginning on the date of the acquisition of the residence by the homebuyer.
+&emsp;The payment of any principal and interest on a loan under this section shall be deferred for not less than the 5-year period beginning on the date of the acquisition of the residence by the homebuyer.
 
 #### (2) Interest rate
 

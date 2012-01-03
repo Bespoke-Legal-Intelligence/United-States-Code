@@ -126,5 +126,5 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 
 #### Short Title
 
-For short title of title II of Pub. L. 95–502 as the “Inland Waterways Revenue Act of 1978”, see section 201 of Pub. L. 95–502, set out as a Short Title of 1978 Amendment note under section 1 of Title 26, Internal Revenue Code.
+For short title of title II of Pub. L. 95–502 as the “Inland Waterways Revenue Act of 1978”, see section 201 ofPub. L. 95–502, set out as a Short Title of 1978 Amendment note under section 1 of Title 26, Internal Revenue Code.
 

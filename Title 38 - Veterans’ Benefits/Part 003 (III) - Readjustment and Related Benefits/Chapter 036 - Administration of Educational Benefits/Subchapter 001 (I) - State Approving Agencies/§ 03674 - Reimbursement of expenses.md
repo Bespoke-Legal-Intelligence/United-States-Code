@@ -32,7 +32,7 @@
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(4). Pub. L. 110–252 substituted “shall be $19,000,000.” for “may not exceed $13,000,000 or, foreach of fiscal years 2001 and 2002, $14,000,000, for fiscal year 2003, $14,000,000, for fiscal year 2004, $18,000,000, for fiscal year 2005, $18,000,000, for fiscal year 2006, $19,000,000, and for fiscal year 2007, $19,000,000. For any fiscal year in which the total amount that would be made available under this section would exceed the amount applicable to that fiscal year under the preceding sentence except for the provisions of this paragraph, the Secretary shall provide that each agency shall receive the same percentage of the amount applicable to that fiscal year under the preceding sentence as the agency would have received of the total amount that would have been made available without the limitation of this paragraph.”
+<b>2008</b>—Subsec. (a)(4). Pub. L. 110–252 substituted “shall be $19,000,000.” for “may not exceed $13,000,000 or, for each of fiscal years 2001 and 2002, $14,000,000, for fiscal year 2003, $14,000,000, for fiscal year 2004, $18,000,000, for fiscal year 2005, $18,000,000, for fiscal year 2006, $19,000,000, and for fiscal year 2007, $19,000,000. For any fiscal year in which the total amount that would be made available under this section would exceed the amount applicable to that fiscal year under the preceding sentence except for the provisions of this paragraph, the Secretary shall provide that each agency shall receive the same percentage of the amount applicable to that fiscal year under the preceding sentence as the agency would have received of the total amount that would have been made available without the limitation of this paragraph.”
 
 <b>2002</b>—Subsec. (a)(4). Pub. L. 107–330 inserted “, for fiscal year 2003, $14,000,000, for fiscal year 2004, $18,000,000, for fiscal year 2005, $18,000,000, for fiscal year 2006, $19,000,000, and for fiscal year 2007, $19,000,000” before period at end of first sentence.
 
@@ -68,7 +68,7 @@ Subsec. (a)(2)(C). Pub. L. 101–237, §414(2), inserted before period at end �
 
 Subsec. (c). Pub. L. 101–237, §423(b)(1)(A), substituted “Secretary” for “Administrator” wherever appearing.
 
-<b>1988</b>—Subsec. (a)(1). Pub. L. 100–323, §13(b)(5), in subpar. (A) substituted “chapters 30 through 35 of this title and chapters 106 and 107 of title 10” for “chapters 34 and 35 of this title”, in subpar. (B) substituted “such chapters” for “chapters 34 and 35 of this title”, and in provisions following subpar. (B) substituted “provisions of such chapters” for “provisions of chapters 34 and 35 of this title” and “requirements of such chapters” for “requirements of chapter 32, 34, 35, or 36 of this title”.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–323, §13(b)(5), in subpar. (A) substituted “chapters 30 through 35 of this title and chapters 106 and 107 of title 10” for “chapters 34 and 35 of this title”, in subpar. (B) substituted “such chapters” for “chapters 34 and 35 of this title”, and in provisions following subpar. (B) substituted “provisions of such chapters” for “provisions of chapters 34 and 35 ofthis title” and “requirements of such chapters” for “requirements of chapter 32, 34, 35, or 36 of this title”.
 
 Pub. L. 100–323, §13(a)(1)(A), (B), substituted “(1) Subject to paragraphs (2) through (4) of this subsection, the Administrator is” for “The Administrator is”, and redesignated pars. (1) and (2) as subpars. (A) and (B), respectively.
 

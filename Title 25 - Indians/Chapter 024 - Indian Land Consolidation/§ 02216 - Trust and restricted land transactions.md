@@ -30,7 +30,7 @@ It is the policy of the United States to encourage and assist the consolidation 
 
 &emsp;&emsp;&emsp;(i) to an Indian person who is the owner's spouse, brother, sister, lineal ancestor, lineal descendant, or collateral heir; or
 
-&emsp;&emsp;&emsp;(ii) to an Indian co-owner or to the tribe with jurisdiction over the subject parcel of land, where the grantor owns a fractional interest that represents 5 percent or less of the parcel.
+&emsp;&emsp;&emsp;(ii) to an Indian co-owner or to the tribe with jurisdiction over the subject parcel ofland, where the grantor owns a fractional interest that represents 5 percent or less of the parcel.
 
 #### (2) Limitation
 
@@ -50,7 +50,7 @@ Notwithstanding any other provision of law, the names and mailing addresses of t
 
 &emsp;(1) other owners of interests in trust or restricted lands within the same reservation;
 
-&emsp;(2) the tribe that exercises jurisdiction over the land where the parcel is located or anyperson who is eligible for membership in that tribe; and
+&emsp;(2) the tribe that exercises jurisdiction over the land where the parcel is located or any person who is eligible for membership in that tribe; and
 
 &emsp;(3) any person that is leasing, using, or consolidating, or is applying to lease, use, or consolidate, such trust or restricted land or the interest in trust or restricted lands.
 

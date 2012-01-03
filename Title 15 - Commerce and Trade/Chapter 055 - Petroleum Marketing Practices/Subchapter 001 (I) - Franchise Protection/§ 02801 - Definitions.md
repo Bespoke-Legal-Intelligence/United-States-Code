@@ -28,7 +28,7 @@ As used in this subchapter:
 
 (2) The term “franchise relationship” means the respective motor fuel marketing or distribution obligations and responsibilities of a franchisor and a franchisee which result from the marketing of motor fuel under a franchise.
 
-(3) The term “franchisor” means a refiner or distributor (as the case may be) who authorizes or permits, under a franchise, a retailer or distributor to use a trademark in connection withthe sale, consignment, or distribution of motor fuel.
+(3) The term “franchisor” means a refiner or distributor (as the case may be) who authorizes or permits, under a franchise, a retailer or distributor to use a trademark in connection with the sale, consignment, or distribution of motor fuel.
 
 (4) The term “franchisee” means a retailer or distributor (as the case may be) who is authorized or permitted, under a franchise, to use a trademark in connection with the sale, consignment, or distribution of motor fuel.
 

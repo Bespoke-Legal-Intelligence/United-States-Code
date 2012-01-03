@@ -10,7 +10,7 @@ Section 2 of the Reconstruction Finance Corporation Act, referred to in text, re
 
 #### Amendments
 
-1947—Act June 30, 1947, substituted “Farm Credit Administration” for “Reconstruction Finance Corporation” wherever appearing.
+<b>1947</b>—Act June 30, 1947, substituted “Farm Credit Administration” for “Reconstruction Finance Corporation” wherever appearing.
 
 #### Change of Name
 

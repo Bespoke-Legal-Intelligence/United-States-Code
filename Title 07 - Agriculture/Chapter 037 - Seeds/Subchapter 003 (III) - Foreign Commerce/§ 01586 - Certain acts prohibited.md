@@ -16,7 +16,7 @@ It shall be unlawful for any person—
 
 #### Amendments
 
-1994—Subsec. (a)(4) to (7). Pub. L. 103–465, §441(4)(A), struck out pars. (4) to (7) which read as follows:
+<b>1994</b>—Subsec. (a)(4) to (7). Pub. L. 103–465, §441(4)(A), struck out pars. (4) to (7) which read as follows:
 
 “(4) any seed which has been stained to resemble seed stained in accordance with the provisions of this chapter and the rules and regulations made and promulgated thereunder;
 
@@ -28,7 +28,7 @@ It shall be unlawful for any person—
 
 Subsecs. (b), (c). Pub. L. 103–465, §441(4)(B), (C), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “To change the proportion of seeds stained under the provisions of this chapter and the rules and regulations made and promulgated thereunder or to alter, modify, conceal, or remove in any manner or by any means the color of such stained seeds.”
 
-1958—Subsec. (c). Pub. L. 85–581 added subsec. (c).
+<b>1958</b>—Subsec. (c). Pub. L. 85–581 added subsec. (c).
 
 #### Effective Date of 1994 Amendment
 

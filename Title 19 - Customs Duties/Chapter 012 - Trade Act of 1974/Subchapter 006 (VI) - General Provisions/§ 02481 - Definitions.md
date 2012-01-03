@@ -22,13 +22,13 @@ For purposes of this chapter—
 
 &emsp;(10) The term “commerce” includes services associated with international trade.
 
-(Pub. L. 93–618, title VI, §601, Jan. 3, 1975, 88 Stat. 2071; Pub. L. 96–39, title II, §202(c)(1), title XI, §1106(h)(1), July 26, 1979, 93 Stat. 202, 313; Pub. L. 100–418, title I, §1214(j)(5), Aug. 23, 1988, 102 Stat. 1158; Pub. L. 105–206, title V, §5003(b)(2)(B), July 22, 1998, 112 Stat. 789.)
+(Pub. L. 93–618, title VI, §601, Jan. 3, 1975, 88 Stat. 2071; Pub. L. 96–39, title II, §202(c)(1), title XI, §1106(h)(1), July 26, 1979, 93 Stat. 202, 313; Pub. L. 100–418, title I, §1214(j)(5), Aug. 23, 1988,102 Stat. 1158; Pub. L. 105–206, title V, §5003(b)(2)(B), July 22, 1998, 112 Stat. 789.)
 
 #### References in Text
 
 Section 1402 of this title, referred to in par. (4), was repealed by Pub. L. 96–39, title II, §201(b), July 26, 1979, 93 Stat. 201.
 
-The effective date of the amendments made by title II of the Trade Agreements Act of 1979, referred to inpar. (4), is July 1, 1980. See section 204(a) of Pub. L. 96–39, set out as an Effective Date of 1979 Amendment note under section 1401a of this title.
+The effective date of the amendments made by title II of the Trade Agreements Act of 1979, referred to in par. (4), is July 1, 1980. See section 204(a) of Pub. L. 96–39, set out as an Effective Date of 1979 Amendment note under section 1401a of this title.
 
 The Harmonized Tariff Schedule of the United States, referred to in par. (7), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 

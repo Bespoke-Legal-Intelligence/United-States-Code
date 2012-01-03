@@ -12,7 +12,7 @@
 
 &emsp;(D) The linking of all clearance and settlement facilities and the development of uniform standards and procedures for clearance and settlement will reduce unnecessary costs and increase the protection of investors and persons facilitating transactions by and acting on behalf of investors.
 
-(2)(A) The Commission is directed, therefore, having due regard for the public interest, the protection of investors, the safeguarding of securities and funds, and maintenance of fair competition among brokers and dealers, clearing agencies, and transfer agents, to use its authority under this chapter—
+(2)(A) The Commission is directed, therefore, having due regard for the public interest, theprotection of investors, the safeguarding of securities and funds, and maintenance of fair competition among brokers and dealers, clearing agencies, and transfer agents, to use its authority under this chapter—
 
 &emsp;(i) to facilitate the establishment of a national system for the prompt and accurate clearance and settlement of transactions in securities (other than exempt securities); and
 
@@ -30,7 +30,7 @@
 
 (3) A clearing agency shall not be registered unless the Commission determines that—
 
-&emsp;(A) Such clearing agency is so organized and has the capacity to be able to facilitate the prompt and accurate clearance and settlementof securities transactions and derivative agreements, contracts, and transactions for which it is responsible, to safeguard securities and funds in its custody or control or for which it is responsible, to comply with the provisions of this chapter and the rules and regulations thereunder, to enforce (subject to any rule or order of the Commission pursuant to section 78q(d) or 78s(g)(2) of this title) compliance by its participants with the rules of the clearing agency, and to carry out the purposes of this section.
+&emsp;(A) Such clearing agency is so organized and has the capacity to be able to facilitate the prompt and accurate clearance and settlement of securities transactions and derivative agreements, contracts, and transactions for which it is responsible, to safeguard securities and funds in its custody or control or for which it is responsible, to comply with the provisions of this chapter and the rules and regulations thereunder, to enforce (subject to any rule or order of the Commission pursuant to section 78q(d) or 78s(g)(2) of this title) compliance by its participants with the rules of the clearing agency, and to carry out the purposes of this section.
 
 &emsp;(B) Subject to the provisions of paragraph (4) of this subsection, the rules of the clearing agency provide that any (i) registered broker or dealer, (ii) other registered clearing agency, (iii) registered investment company, (iv) bank, (v) insurance company, or (vi) other person or class of persons as the Commission, by rule, may from time to time designate as appropriate to the development of a national system for the prompt and accurate clearance and settlement of securities transactions may become a participant in such clearing agency.
 
@@ -60,7 +60,7 @@
 
 &emsp;(iii) the sanction imposed and the reasons therefor.
 
-(B) In any proceeding by a registered clearing agency to determine whether a person shall be denied participation or prohibited or limited with respect to access to services offered by the clearing agency, the clearing agency shall notify such person of, and give him an opportunity to be heard upon, the specific grounds for denial or prohibition or limitation under considerationand keep a record. A determination by the clearing agency to deny participation or prohibit or limit a person with respect to access to services offered by the clearing agency shall be supported by a statement setting forth the specific grounds on which the denial or prohibition or limitation is based.
+(B) In any proceeding by a registered clearing agency to determine whether a person shall be denied participation or prohibited or limited with respect to access to services offered by the clearing agency, the clearing agency shall notify such person of, and give him an opportunity to be heard upon, the specific grounds for denial or prohibition or limitation under consideration and keep a record. A determination by the clearing agency to deny participation or prohibit or limit a person with respect to access to services offered by the clearing agency shall be supported by a statement setting forth the specific grounds on which the denial or prohibition or limitation is based.
 
 (C) A registered clearing agency may summarily suspend and close the accounts of a participant who (i) has been and is expelled or suspended from any self-regulatory organization, (ii) is in default of any delivery of funds or securities to the clearing agency, or (iii) is in such financial or operating difficulty that the clearing agency determines and so notifies the appropriate regulatory agency for such participant that such suspension and closing of accounts are necessary for the protection of the clearing agency, its participants, creditors, or investors. A participant so summarily suspended shall be promptly afforded an opportunity for a hearing by the clearing agency in accordance with the provisions of subparagraph (A) of this paragraph. The appropriate regulatory agency for such participant, by order, may stay any such summary suspension on its own motion or upon application by any person aggrieved thereby, if such appropriate regulatory agency determines summarily or after notice and opportunity for hearing (which hearing may consist solely of the submission of affidavits or presentation of oral arguments) that such stay is consistent with the public interest and protection of investors.
 
@@ -68,7 +68,7 @@
 
 (7)(A) A clearing agency that is regulated directly or indirectly by the Commodity Futures Trading Commission through its association with a designated contract market for security futures products that is a national securities exchange registered pursuant to section 78f(g) of this title, and that would be required to register pursuant to paragraph (1) of this subsection only because it performs the functions of a clearing agency with respect to security futures products effected pursuant to the rules of the designated contract market with which such agency is associated, is exempted from the provisions of this section and the rules and regulations thereunder, except that if such a clearing agency performs the functions of a clearing agency with respect to a security futures product that is not cash settled, it must have arrangements in place with a registered clearing agency to effect the payment and delivery of the securities underlying the security futures product.
 
-(B) Any clearing agency that performs the functions of a clearing agency with respect to security futures products must coordinate with and develop fair and reasonable links with any and all other clearing agencies that perform the functions of a clearing agency with respect to security futures products, in order to permit, as of the compliance date (as defined in section 78f(h)(6)(C) <sup>1</sup> of this title), security futures products to be purchased on one market and offset on another market that trades such products.
+(B) Any clearing agency that performs the functions of a clearing agency with respect to security futures products must coordinate with and develop fair and reasonable links with any and all other clearing agencies that perform the functions of a clearing agency with respect to security futures products, in order to permit, as of the compliance date (as defined in section78f(h)(6)(C) <sup>1</sup> of this title), security futures products to be purchased on one market and offset on another market that trades such products.
 
 (8) A registered clearing agency shall be permitted to provide facilities for the clearance and settlement of any derivative agreements, contracts, or transactions that are excluded from the Commodity Exchange Act \[7 U.S.C. 1 et seq.\], subject to the requirements of this section and to such rules and regulations as the Commission may prescribe as necessary or appropriate in the public interest, for the protection of investors, or otherwise in furtherance of the purposes of this chapter.
 
@@ -80,7 +80,7 @@
 
 (3) The appropriate regulatory agency for a transfer agent, by order, shall deny registration to, censure, place limitations on the activities, functions, or operations of, suspend for a period not exceeding 12 months, or revoke the registration of such transfer agent, if such appropriate regulatory agency finds, on the record after notice and opportunity for hearing, that such denial, censure, placing of limitations, suspension, or revocation is in the public interest and that such transfer agent, whether prior or subsequent to becoming such, or any person associated with such transfer agent, whether prior or subsequent to becoming so associated—
 
-&emsp;(A) has committed or omitted any act, or is subject to an order or finding, enumerated in subparagraph (A), (D), (E), (H), or (G) of paragraph (4) of section 78<i>o</i>(b) of this title, has been convicted of any offense specified in subparagraph (B) of such paragraph (4) within tenyears of the commencement of the proceedings under this paragraph, or is enjoined from any action, conduct, or practice specified in subparagraph (C) of such paragraph (4); or
+&emsp;(A) has committed or omitted any act, or is subject to an order or finding, enumerated in subparagraph (A), (D), (E), (H), or (G) of paragraph (4) of section 78<i>o</i>(b) of this title, has been convicted of any offense specified in subparagraph (B) of such paragraph (4) within ten years of the commencement of the proceedings under this paragraph, or is enjoined from any action, conduct, or practice specified in subparagraph (C) of such paragraph (4); or
 
 &emsp;(B) is subject to an order entered pursuant to subparagraph (C) of paragraph (4) of this subsection barring or suspending the right of such person to be associated with a transfer agent.
 
@@ -96,7 +96,7 @@
 
 (2) With respect to any clearing agency or transfer agent for which the Commission is not the appropriate regulatory agency, the appropriate regulatory agency for such clearing agency or transfer agent may, in accordance with section 1818 of title 12, enforce compliance by such clearing agency or transfer agent with the provisions of this section, sections 78q and 78s of this title, and the rules and regulations thereunder. For purposes of the preceding sentence, any violation of any such provision shall constitute adequate basis for the issuance of an order under section 1818(b) or 1818(c) of title 12, and the participants in any such clearing agency and the persons doing business with any such transfer agent shall be deemed to be “depositors” as that term is used in section 1818(c) of title 12.
 
-(3)(A) With respect to any clearing agency or transfer agent for which the Commission is not the appropriate regulatory agency, the Commission and the appropriate regulatory agency for such clearing agency or transfer agent shall consult and cooperate with each other, and, as may be appropriate, with State banking authorities having supervision over such clearing agency or transfer agent toward the end that, to the maximum extent practicable, their respective regulatory responsibilities may be fulfilled and the rules and regulations applicable to such clearing agency or transfer agent may be in accord with both sound banking practices and a nationalsystem for the prompt and accurate clearance and settlement of securities transactions. In accordance with this objective—
+(3)(A) With respect to any clearing agency or transfer agent for which the Commission is not the appropriate regulatory agency, the Commission and the appropriate regulatory agency for such clearing agency or transfer agent shall consult and cooperate with each other, and, as may be appropriate, with State banking authorities having supervision over such clearing agency or transfer agent toward the end that, to the maximum extent practicable, their respective regulatory responsibilities may be fulfilled and the rules and regulations applicable to such clearing agency or transfer agent may be in accord with both sound banking practices and a national system for the prompt and accurate clearance and settlement of securities transactions. In accordance with this objective—
 
 &emsp;(i) the Commission and such appropriate regulatory agency shall, at least fifteen days prior to the issuance for public comment of any proposed rule or regulation or adoption of any rule or regulation concerning such clearing agency or transfer agent, consult and request the views of the other; and
 
@@ -132,7 +132,7 @@ The Commission shall use its authority under this chapter to end the physical mo
 
 (3) Any State may, prior to the expiration of 2 years after the Commission adopts a rule under this subsection, enact a statute that specifically refers to this subsection and the specific rule thereunder and establishes, prospectively from the date of enactment of the State statute, a provision that differs from that applicable under the Commission's rule.
 
-(4)(A) Within 90 days after October 16, 1990, the Commission shall (and at such times thereafter as the Commission may determine, the Commission may), after consultation with the Secretary of the Treasury and the Board of Governors of the Federal Reserve System, establish an advisory committee under the Federal Advisory Committee Act (5 U.S.C. App.). The Advisory Committee shall be directed to consider and report to the Commission on such matters as the Commission, after consultation with the Secretary of the Treasury and the Board of Governors of the Federal Reserve System, determines, including the areas, if any, in which State commercial laws and related Federal laws concerning the transfer of certificated or uncertificated securities, limited interests (including security interests) in such securities, or thecreation or perfection of security interests in such securities do not provide the necessary certainty, uniformity, and clarity for purchasers, sellers, owners, lenders, borrowers, and financial intermediaries concerning their respective rights and obligations.
+(4)(A) Within 90 days after October 16, 1990, the Commission shall (and at such times thereafter as the Commission may determine, the Commission may), after consultation with the Secretary of the Treasury and the Board of Governors of the Federal Reserve System, establish an advisory committee under the Federal Advisory Committee Act (5 U.S.C. App.). The Advisory Committee shall be directed to consider and report to the Commission on such matters as the Commission, after consultation with the Secretary of the Treasury and the Board of Governors of the Federal Reserve System, determines, including the areas, if any, in which State commercial laws and related Federal laws concerning the transfer of certificated or uncertificated securities, limited interests (including security interests) in such securities, or the creation or perfection of security interests in such securities do not provide the necessary certainty, uniformity, and clarity for purchasers, sellers, owners, lenders, borrowers, and financial intermediaries concerning their respective rights and obligations.
 
 (B) The Advisory Committee shall consist of 15 members, of which—
 
@@ -142,7 +142,7 @@ The Commission shall use its authority under this chapter to end the physical mo
 
 (C) The Advisory Committee shall conduct its activities in accordance with the Federal Advisory Committee Act. Within 6 months of its designation, or such longer time as the Commission may designate, the Advisory Committee shall issue a report to the Commission, and shall cause copies of that report to be delivered to the Secretary of the Treasury and the Chairman of the Board of Governors of the Federal Reserve System.
 
-#### (g) Due diligence for the delivery of dividends, interest, and other valuable property rights
+#### (g) <sup>3</sup> Due diligence for the delivery of dividends, interest, and other valuable property rights
 
 #### (1) Revision of rules required
 
@@ -164,67 +164,71 @@ The Commission shall use its authority under this chapter to end the physical mo
 
 &emsp;The Commission shall adopt such rules, regulations, and orders necessary to implement this subsection no later than 1 year after July 21, 2010. In proposing such rules, the Commission shall seek to minimize disruptions to current systems used by or on behalf of paying agents to process payment to account holders and avoid requiring multiple paying agents to send written notification to a missing security holder regarding the same not yet negotiated check.
 
+#### (g) <sup>3</sup> Registration requirement
+
+It shall be unlawful for a clearing agency, unless registered with the Commission, directly or indirectly to make use of the mails or any means or instrumentality of interstate commerce to perform the functions of a clearing agency with respect to a security-based swap.
+
+#### (h) Voluntary registration
+
+A person that clears agreements, contracts, or transactions that are not required to be cleared under this chapter may register with the Commission as a clearing agency.
+
+#### (i) Standards for clearing agencies clearing security-based swap transactions
+
+To be registered and to maintain registration as a clearing agency that clears security-based swap transactions, a clearing agency shall comply with such standards as the Commission may establish by rule. In establishing any such standards, and in the exercise of its oversight of such a clearing agency pursuant to this chapter, the Commission may conform such standards or oversight to reflect evolving United States and international standards. Except where the Commission determines otherwise by rule or regulation, a clearing agency shall have reasonable discretion in establishing the manner in which it complies with any such standards.
+
+#### (j) Rules
+
+The Commission shall adopt rules governing persons that are registered as clearing agencies for security-based swaps under this chapter.
+
+#### (k) Exemptions
+
+The Commission may exempt, conditionally or unconditionally, a clearing agency from registration under this section for the clearing of security-based swaps if the Commission determines that the clearing agency is subject to comparable, comprehensive supervision and regulation by the Commodity Futures Trading Commission or the appropriate government authorities in the home country of the agency. Such conditions may include, but are not limited to, requiring that the clearing agency be available for inspection by the Commission and make available all information requested by the Commission.
+
+#### (<i>l</i>) Existing depository institutions and derivative clearing organizations
+
+#### (1) In general
+
+&emsp;A depository institution or derivative clearing organization registered with the Commodity Futures Trading Commission under the Commodity Exchange Act \[7 U.S.C. 1 et seq.\] that is required to be registered as a clearing agency under this section is deemed to be registered under this section solely for the purpose of clearing security-based swaps to the extent that, before July 21, 2010—
+
+&emsp;&emsp;(A) the depository institution cleared swaps as a multilateral clearing organization; or
+
+&emsp;&emsp;(B) the derivative clearing organization cleared swaps pursuant to an exemption from registration as a clearing agency.
+
+#### (2) Conversion of depository institutions
+
+&emsp;A depository institution to which this subsection applies may, by the vote of the shareholders owning not less than 51 percent of the voting interests of the depository institution, be converted into a State corporation, partnership, limited liability company, or similar legal form pursuant to a plan of conversion, if the conversion is not in contravention of applicable State law.
+
+#### (3) Sharing of information
+
+&emsp;The Commodity Futures Trading Commission shall make available to the Commission, upon request, all information determined to be relevant by the Commodity Futures Trading Commission regarding a derivatives clearing organization deemed to be registered with the Commission under paragraph (1).
+
+#### (m) Modification of core principles
+
+The Commission may conform the core principles established in this section to reflect evolving United States and international standards.
+
 (June 6, 1934, ch. 404, title I, §17A, as added Pub. L. 94–29, §15, June 4, 1975, 89 Stat. 141; amended Pub. L. 100–181, title III, §322, Dec. 4, 1987, 101 Stat. 1257; Pub. L. 101–429, title II, §206, Oct. 15, 1990, 104 Stat. 941; Pub. L. 101–432, §5, Oct. 16, 1990, 104 Stat. 973; Pub. L. 101–550, title II, §203(c)(1), Nov. 15, 1990, 104 Stat. 2718; Pub. L. 106–554, §1(a)(5) \[title II, §§206(d), 207\], Dec. 21, 2000, 114 Stat. 2763, 2763A–431, 2763A–434; Pub. L. 107–204, title VI, §604(c)(1)(C), July 30, 2002, 116 Stat. 796; Pub. L. 111–203, title VII, §763(b), title IX, §§925(a)(3), 929W, July 21, 2010, 124 Stat. 1768, 1851, 1869.)
 
 #### Amendment of Section
 
-<i>Pub. L. 111–203, title VII, §§763(b), 774, July 21, 2010, 124 Stat. 1768, 1802, provided that, effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B (§§761–774) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, this section is amended by adding at the end the following:</i>
-
-#### <i>(g) Registration requirement</i>
-
-<i>It shall be unlawful for a clearing agency, unless registered with the Commission, directly or indirectly to make use of the mails or any means or instrumentality of interstate commerce to perform the functions of a clearing agency with respect to a security-based swap.</i>
-
-#### <i>(h) Voluntary registration</i>
-
-<i>A person that clears agreements, contracts, or transactions that are not required to be cleared under this chapter may register with the Commission as a clearing agency.</i>
-
-#### <i>(i) Standards for clearing agencies clearing security-based swap transactions</i>
-
-<i>To be registered and to maintain registration as a clearing agency that clears security-based swap transactions, a clearing agency shall comply with such standards as the Commission may establish by rule. In establishing any such standards, and in the exercise of its oversight of such a clearing agency pursuant to this chapter, the Commission may conform such standards or oversight to reflect evolving United States and international standards. Except where the Commission determines otherwise by rule or regulation, a clearing agency shall have reasonable discretion in establishing the manner in which it complies with any such standards.</i>
-
-#### <i>(j) Rules</i>
-
-<i>The Commission shall adopt rules governing persons that are registered as clearing agencies for security-based swaps under this chapter.</i>
-
-#### <i>(k) Exemptions</i>
-
-<i>The Commission may exempt, conditionally or unconditionally, a clearing agency from registration</i><i>under this section for the clearing of security-based swaps if the Commission determines that the clearing agency is subject to comparable, comprehensive supervision and regulation by the Commodity Futures Trading Commission or the appropriate government authorities in the home country of the agency. Such conditions may include, but are not limited to, requiring that the clearing agency be available for inspection by the Commission and make available all information requested by the Commission.</i>
-
-#### <i>(l) Existing depository institutions and derivative clearing organizations</i>
-
-#### <i>(1) In general</i>
-
-&emsp;<i>A depository institution or derivative clearing organization registered with the Commodity Futures Trading Commission under the Commodity Exchange Act that is required to be registered as a clearing agency under this section is deemed to be registered under this section solely for the purpose of clearing security-based swaps to the extent that, before July 21, 2010—</i>
-
-&emsp;&emsp;<i>(A) the depository institution cleared swaps as a multilateral clearing organization; or</i>
-
-&emsp;&emsp;<i>(B) the derivative clearing organization cleared swaps pursuant to an exemption from registration as a clearing agency.</i>
-
-#### <i>(2) Conversion of depository institutions</i>
-
-&emsp;<i>A depository institution to which this subsection applies may, by the vote of the shareholders owning not less than 51 percent of the voting interests of the depository institution, be converted into a State corporation, partnership, limited liability company, or similar legal form pursuant to a plan of conversion, if the conversion is not in contravention of applicable State law.</i>
-
-#### <i>(3) Sharing of information</i>
-
-&emsp;<i>The Commodity Futures Trading Commission shall make available to the Commission, upon request, all information determined to be relevant by the Commodity Futures Trading Commission regarding a derivatives clearing organization deemed to be registered with the Commission under paragraph (1).</i>
-
-#### <i>(m) Modification of core principles</i>
-
-<i>The Commission may conform the core principles established in this section to reflect evolving United States and international standards.</i>
+<i>Unless otherwise provided, amendment by subtitle B (§§761–774) of title VII of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see 2010 Amendment notes and Effective Date of 2010 Amendment note below.</i>
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(2), (b)(3)(A), (F), (I), (8), (d)(1), (3)(B), (4), (5), and (e), was in the original “this title”. See References in Text note set out under section 78a of this title.
+This chapter, referred to in subsecs. (a)(2), (b)(3)(A), (F), (I), (8), (d)(1), (3)(B), (4), (5), and (e), and (h) to (j),was in the original “this title”. See References in Text note set out under section 78a of this title.
 
-The Commodity Exchange Act, referred to in subsec. (b)(8), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
+The Commodity Exchange Act, referred to in subsecs. (b)(8) and (<i>l</i>)(1), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (f)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (f)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 
 <b>2010</b>—Subsec. (c)(4)(C). Pub. L. 111–203, §925(a)(3), substituted “12 months or bar any such person from being associated with any transfer agent, broker, dealer, investment adviser, municipal securities dealer, municipal advisor, or nationally recognized statistical rating organization,” for “twelve months or bar any such person from being associated with the transfer agent,”.
 
-Subsec. (g). Pub. L. 111–203, §929W, added subsec. (g).
+Subsec. (g). Pub. L. 111–203, §929W, added subsec. (g) relating to due diligence for the delivery of dividends, interest, and other valuable property rights.
+
+Pub. L. 111–203, §763(b), added subsec. (g) relating to registration requirement.
+
+Subsecs. (h) to (m). Pub. L. 111–203, §763(b), added subsecs. (h) to (m).
 
 <b>2002</b>—Subsec. (c)(3)(A), (4)(C). Pub. L. 107–204 inserted “, or is subject to an order or finding,” before “enumerated” and substituted “(H), or (G)” for “or (G)”.
 
@@ -273,4 +277,6 @@ Section 8(b) of Pub. L. 101–432 directed Securities and Exchange Commission, i
 <i><sup>1</sup></i><i> So in original. Probably should be “section 78f(h)(7)(C)”.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be “of”.</i>
+
+<i><sup>3</sup></i><i> So in original. Two subsecs. (g) have been enacted.</i>
 

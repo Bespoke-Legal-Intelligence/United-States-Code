@@ -14,7 +14,7 @@ In carrying out subsection (a) of this section, the Director of the Center shall
 
 #### (d) Appropriate scientific expertise and coordination with institutes and Federal agencies
 
-The Director of the Center, after consultation with the advisory council for the Center and the division of research grants, shall ensure that scientists with appropriate expertise in research on complementary and alternative medicine are incorporated into the review, oversight, and management processes of all research projects and other activities funded by the Center. In carrying out this subsection, the Director of the Center, as necessary, may establish review groups with appropriate scientific expertise. The Director of the Center shall coordinate efforts with other Institutes and Federal agencies to ensure appropriate scientific input and management.
+The Director of the Center, after consultation with the advisory council for the Center and the division of research grants, shall ensure that scientists with appropriate expertise in research on complementary and alternative medicine are incorporated into the review, oversight, and management processes of all research projects and other activities funded by the Center. In carrying out this subsection, the Director of the Center, as necessary, may establish review groups with appropriate scientific expertise. TheDirector of the Center shall coordinate efforts with other Institutes and Federal agencies to ensure appropriate scientific input and management.
 
 #### (e) Evaluation of various disciplines and systems
 
@@ -46,7 +46,7 @@ In order to ensure high quality, rigorous scientific review of complementary and
 
 #### (2) Clearinghouse
 
-&emsp;The Director of the Center shall establish an information clearinghouse to facilitate andenhance, through the effective dissemination of information, knowledge and understanding of alternative medical treatment, diagnostic and prevention practices by health professionals, patients, industry, and the public.
+&emsp;The Director of the Center shall establish an information clearinghouse to facilitate and enhance, through the effective dissemination of information, knowledge and understanding of alternative medical treatment, diagnostic and prevention practices by health professionals, patients, industry, and the public.
 
 #### (h) Research centers
 

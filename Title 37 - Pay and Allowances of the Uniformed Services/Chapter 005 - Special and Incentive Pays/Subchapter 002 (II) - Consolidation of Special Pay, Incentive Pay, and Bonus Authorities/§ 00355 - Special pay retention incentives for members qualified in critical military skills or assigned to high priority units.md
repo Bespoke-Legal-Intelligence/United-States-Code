@@ -54,13 +54,15 @@ Repayment.—A member paid a bonus under this section who fails, during the peri
 
 (h)
 
-Termination of Bonus Authority.—No bonus may be paid under this section with respect to any reenlistment, or voluntary extension of an enlistment, in the armed forces entered into after December 31, 2011, and no agreement under this section may be entered into after that date.
+Termination of Bonus Authority.—No bonus may be paid under this section with respect to any reenlistment, or voluntary extension of an enlistment, in the armed forces entered into after December 31, 2012, and no agreement under this section may be entered into after that date.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title VI, §633(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–157, §323; amended Pub. L. 107–107, div. A, title VI, §614(d), Dec. 28, 2001, 115 Stat. 1136; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §§614(d), 618, Dec. 2, 2002, 116 Stat. 2568, 2570; Pub.L. 108–136, div. A, title VI, §§614(d), 622, title X, §1045(b)(1), Nov. 24, 2003, 117 Stat. 1501, 1505, 1612; Pub. L. 108–375, div. A, title VI, §§614(e), 621, title X, §1084(e)(2), Oct. 28, 2004, 118 Stat. 1948, 1954, 2064; Pub. L. 109–163, div. A, title VI, §§624(e), 640(a)–(f)(1), 687(b)(31), Jan. 6, 2006, 119 Stat. 3295, 3302, 3303, 3332; Pub. L. 109–364, div. A, title VI, §614(e), Oct. 17, 2006, 120 Stat. 2248; renumbered §355 and amended Pub. L. 110–181, div. A, title VI, §§614(d), 622, 661(c), Jan. 28, 2008, 122 Stat. 149, 152, 178; Pub. L. 110–417, \[div. A\], title VI, §614(h), Oct. 14, 2008, 122 Stat. 4485; Pub. L. 111–84, div. A, title VI, §614(9), Oct. 28, 2009, 123 Stat. 2354; Pub. L. 111–207, §4(a)(4), July 27, 2010, 124 Stat. 2251; Pub. L. 111–383, div. A, title VI, §614(9), Jan. 7, 2011, 124 Stat. 4237.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title VI, §633(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–157, §323; amended Pub. L. 107–107, div. A, title VI, §614(d), Dec. 28, 2001, 115 Stat. 1136; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §§614(d), 618, Dec. 2, 2002, 116 Stat. 2568, 2570; Pub. L. 108–136, div. A, title VI, §§614(d), 622, title X, §1045(b)(1), Nov. 24, 2003, 117 Stat. 1501, 1505, 1612; Pub. L. 108–375, div. A, title VI, §§614(e), 621, title X, §1084(e)(2), Oct. 28, 2004, 118 Stat. 1948, 1954, 2064; Pub. L. 109–163, div. A, title VI, §§624(e), 640(a)–(f)(1), 687(b)(31), Jan. 6, 2006, 119 Stat. 3295, 3302, 3303, 3332; Pub. L. 109–364, div. A, title VI, §614(e), Oct. 17, 2006, 120 Stat. 2248; renumbered §355 and amended Pub. L. 110–181, div. A, title VI, §§614(d), 622, 661(c), Jan. 28, 2008, 122 Stat. 149, 152, 178; Pub. L. 110–417, \[div. A\], title VI, §614(h), Oct. 14, 2008, 122 Stat. 4485; Pub. L. 111–84, div. A, title VI, §614(9), Oct. 28, 2009, 123 Stat. 2354; Pub. L. 111–207, §4(a)(4), July 27, 2010, 124 Stat. 2251; Pub. L. 111–383, div. A, title VI, §614(9), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §614(9), Dec. 31, 2011, 125 Stat. 1450.)
 
 #### Amendments
 
-<b>2011</b>—Subsec. (h). Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
+<b>2011</b>—Subsec. (h). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
+
+Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
 
 <b>2010</b>—Subsecs. (h), (i). Pub. L. 111–207 redesignated subsec. (i) as (h) and struck out former subsec. (h) which required the Secretaries of Defense and Homeland Security to submit to Congress annual reports on retention bonuses.
 
@@ -134,7 +136,7 @@ Amendment by section 614(d) of Pub. L. 110–181 effective as of Dec. 31, 2007, 
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department ofHomeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
 
 #### Effective Date
 

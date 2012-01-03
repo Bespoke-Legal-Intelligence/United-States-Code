@@ -54,7 +54,7 @@ Tenants seeking to purchase eligible low-income housing in accordance with secti
 
 #### (ii) Right to purchase
 
-&emsp;&emsp;&emsp;Where a resident management corporation, resident council, or cooperative hasjurisdiction over the unit, the corporation, council, or cooperative shall have the right to purchase the ownership interest in, or shares representing, the unit from the homeowner for the amount specified in a firm contract between the homeowner and a prospective buyer.
+&emsp;&emsp;&emsp;Where a resident management corporation, resident council, or cooperative has jurisdiction over the unit, the corporation, council, or cooperative shall have the right to purchase the ownership interest in, or shares representing, the unit from the homeowner for the amount specified in a firm contract between the homeowner and a prospective buyer.
 
 #### (iii) Promissory note required
 
@@ -106,7 +106,7 @@ Tenants seeking to purchase eligible low-income housing in accordance with secti
 
 #### (A) Maintenance
 
-&emsp;&emsp;Each resident council shall keep such records as may be reasonably necessary tofully disclose the amount and the disposition by such resident council of the proceeds of assistance received under this subchapter (including any proceeds from sales under paragraphs (4) and (5)(D)), the total cost of the homeownership program in connection with which such assistance is given or used, and the amount and nature of that portion of the program supplied by other sources, and such other sources as will facilitate an effective audit.
+&emsp;&emsp;Each resident council shall keep such records as may be reasonably necessary to fully disclose the amount and the disposition by such resident council of the proceeds of assistance received under this subchapter (including any proceeds from sales under paragraphs (4) and (5)(D)), the total cost of the homeownership program in connection with which such assistance is given or used, and the amount and nature of that portion of the program supplied by other sources, and such other sources as will facilitate an effective audit.
 
 #### (B) Access
 
@@ -124,9 +124,9 @@ Tenants seeking to purchase eligible low-income housing in accordance with secti
 
 #### Amendments
 
-1998—Subsec. (b)(6)(B). Pub. L. 105–276, which directed the substitution of “Any system for preferences established under section 1437f(d)(1)(A) or 1437f(<i>o</i>)(6)(A)” for “The requirement for giving preferences to certain categories of eligible families under sections 1437f(d)(1)(A) and 1437f(<i>o</i>)(3)” in second sentence, was executed by making the substitution for text which included the word “preference” rather than “preferences” to reflect the probable intent of Congress.
+<b>1998</b>—Subsec. (b)(6)(B). Pub. L. 105–276, which directed the substitution of “Any system for preferences established under section 1437f(d)(1)(A) or 1437f(<i>o</i>)(6)(A)” for “The requirement for giving preferences to certain categories of eligible families under sections 1437f(d)(1)(A) and 1437f(<i>o</i>)(3)” in second sentence, was executed by making the substitution for text which included the word “preference” rather than “preferences” to reflect the probable intent of Congress.
 
-1992—Subsec. (b)(2). Pub. L. 102–550, §309(1), inserted “and limitation on conditions of approval” in heading and inserted at end of text “The Secretary may not require the prepayment of the mortgage on eligible low-income housing for the approval of a plan of action involving a homeownership program for the housing.”
+<b>1992</b>—Subsec. (b)(2). Pub. L. 102–550, §309(1), inserted “and limitation on conditions of approval” in heading and inserted at end of text “The Secretary may not require the prepayment of the mortgage on eligible low-income housing for the approval of a plan of action involving a homeownership program for the housing.”
 
 Subsec. (b)(3)(E). Pub. L. 102–550, §309(2), added subpar. (E).
 

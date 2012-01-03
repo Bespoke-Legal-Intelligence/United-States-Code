@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-It shall be unlawful for a manufacturer or distributor, in conjunction with the sale or offerfor sale of fasteners from a single lot, to knowingly misrepresent or falsify—
+It shall be unlawful for a manufacturer or distributor, in conjunction with the sale or offer for sale of fasteners from a single lot, to knowingly misrepresent or falsify—
 
 &emsp;(1) the record of conformance for the lot of fasteners;
 
@@ -30,5 +30,5 @@ A prior section 5403, Pub. L. 101–592, §4, Nov. 16, 1990, 104 Stat. 2945, set
 
 #### Effective Date
 
-Pub. L. 106–34, §4(b), June 8, 1999, 113 Stat. 122, provided that: “Subsection (d) of section 4 of the Fastener Quality Act \[15 U.S.C. §5403(d)\], as added by subsection (a) of this section, shall take effect 2 years after the date of the enactment of this Act \[June 8, 1999\].”
+Pub. L. 106–34, §4(b), June 8, 1999, 113 Stat. 122, provided that: “Subsection (d) of section 4 of the FastenerQuality Act \[15 U.S.C. §5403(d)\], as added by subsection (a) of this section, shall take effect 2 years after the date of the enactment of this Act \[June 8, 1999\].”
 

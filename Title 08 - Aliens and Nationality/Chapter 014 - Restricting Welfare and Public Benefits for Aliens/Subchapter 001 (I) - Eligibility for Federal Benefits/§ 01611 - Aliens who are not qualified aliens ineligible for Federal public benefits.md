@@ -52,7 +52,7 @@ The Housing Act of 1949, referred to in subsec. (b)(1)(E), is act July 15, 1949,
 
 The Railroad Retirement Act of 1974, referred to in subsec. (b)(4), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
 
-The Railroad Unemployment Insurance Act, referred to in subsec. (b)(4), is act June 25, 1938, ch. 680, 52 Stat. 1094, as amended, which is classified principally to chapter 11 (§351 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see Tables.
+The Railroad Unemployment Insurance Act, referred to in subsec. (b)(4), is act June 25, 1938, ch. 680, 52 Stat. 1094, which is classified principally to chapter 11 (§351 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 367 of Title 45 and Tables.
 
 This chapter, referred to in subsec. (c)(1), was in the original “this title” meaning title IV of Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2260, which enacted this chapter, section 1183a of this title, and sections 611a and 1437y of Title 42, The Public Health and Welfare, amended section 1383 of this title, sections 32 and 6213 of Title 26, Internal Revenue Code, and sections 1436a and 1471 of Title 42, and enacted provisions set out as notes under section 1183a of this title and section 32 of Title 26. For complete classification of title IV to the Code, see Tables.
 
@@ -62,11 +62,11 @@ The Immigration and Nationality Act, referred to in subsec. (c)(2)(B), is act Ju
 
 #### Amendments
 
-1998—Subsec. (b)(5). Pub. L. 105–306, §2, added par. (5).
+<b>1998</b>—Subsec. (b)(5). Pub. L. 105–306, §2, added par. (5).
 
 Subsec. (c)(2)(C). Pub. L. 105–306, §5(a), added subpar. (C).
 
-1997—Subsec. (b)(3). Pub. L. 105–33, §5561(a), added par. (3).
+<b>1997</b>—Subsec. (b)(3). Pub. L. 105–33, §5561(a), added par. (3).
 
 Subsec. (b)(4). Pub. L. 105–33, §5561(b), added par. (4).
 

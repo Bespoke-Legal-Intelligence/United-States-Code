@@ -30,7 +30,7 @@ Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted “3452(a)(1)(B)” for �
 
 <b>1980</b>—Subsec. (c). Pub. L. 96–466 substituted “subchapter V of this chapter” for “subchapters V and VI of this chapter”.
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–502, §§203(1), 211(2), 403(a), substituted “45 months” for “36 months”, “the veteran's” for “his” in two places, and “the veteran” for “he”, inserted provision establishing the final date of entitlement for person serving on active duty on Dec. 31, 1976 or whose eligibility is based on section1652(a)(1)(B) of this title as the date of discharge or release from active duty after Dec. 31, 1976, and struck out provision which authorized an additional number of months not exceeding nine to be used for a program leading to a standard undergraduate degree.
+<b>1976</b>—Subsec. (a). Pub. L. 94–502, §§203(1), 211(2), 403(a), substituted “45 months” for “36 months”, “the veteran's” for “his” in two places, and “the veteran” for “he”, inserted provision establishing the final date of entitlement for person serving on active duty on Dec. 31, 1976 or whose eligibility is based on section 1652(a)(1)(B) of this title as the date of discharge or release from active duty after Dec. 31, 1976, and struck out provision which authorized an additional number of months not exceeding nine to be used for a program leading to a standard undergraduate degree.
 
 Subsec. (c). Pub. L. 94–502, §203(2), substituted “subsection (b)” for “subsections (a) and (b)” and “45 months” for “thirty-six months”.
 

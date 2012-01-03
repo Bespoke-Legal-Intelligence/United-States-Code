@@ -42,13 +42,13 @@ Chapter 86 of this title, referred to in subsecs. (a) and (d), was in the origin
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–127, §862(b)(3), struck out “section 5881 of this title,” before “and other appropriate”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–127, §862(b)(3), struck out “section 5881 of this title,” before “and other appropriate”.
 
 Subsec. (b). Pub. L. 104–127, §860(c)(3), substituted “Natural Resources Conservation Service” for “Advisory Council, the Soil Conservation Service,”.
 
 Subsec. (d). Pub. L. 104–127, §862(b)(3), struck out “section 5881 of this title,” before “and other appropriate” in introductory provisions.
 
-1991—Subsec. (c). Pub. L. 102–237 substituted “educational” for “education”.
+<b>1991</b>—Subsec. (c). Pub. L. 102–237 substituted “educational” for “education”.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

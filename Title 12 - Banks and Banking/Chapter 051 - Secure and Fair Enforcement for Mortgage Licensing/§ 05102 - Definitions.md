@@ -2,15 +2,19 @@
 
 For purposes of this chapter, the following definitions shall apply:
 
-#### (1) Federal banking agencies
+#### (1) Bureau
 
-&emsp;The term “Federal banking agencies” means the Board of Governors of the Federal Reserve System, the Comptroller of the Currency, the Director of the Office of Thrift Supervision, the National Credit Union Administration, and the Federal Deposit Insurance Corporation.
+&emsp;The term “Bureau” means the Bureau of Consumer Financial Protection.
 
-#### (2) Depository institution
+#### (2) Federal banking agency
+
+&emsp;The term “Federal banking agency” means the Board of Governors of the Federal Reserve System, the Office of the Comptroller of the Currency, the National Credit Union Administration, and the Federal Deposit Insurance Corporation.
+
+#### (3) Depository institution
 
 &emsp;The term “depository institution” has the same meaning as in section 1813 of this title, and includes any credit union.
 
-#### (3) Loan originator
+#### (4) Loan originator
 
 #### (A) In general
 
@@ -50,7 +54,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(v) offering to engage in any activity, or act in any capacity, described in clause (i), (ii), (iii), or (iv).
 
-#### (4) Loan processor or underwriter
+#### (5) Loan processor or underwriter
 
 #### (A) In general
 
@@ -68,15 +72,15 @@ For purposes of this chapter, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(ii) communicating with a consumer to obtain the information necessary for the processing or underwriting of a loan, to the extent that such communication does not include offering or negotiating loan rates or terms, or counseling consumers about residential mortgage loan rates or terms.
 
-#### (5) Nationwide mortgage licensing system and registry
+#### (6) Nationwide mortgage licensing system and registry
 
-&emsp;The term “Nationwide Mortgage Licensing System and Registry” means a mortgage licensing system developed and maintained by the Conference of State Bank Supervisors and the American Association of Residential Mortgage Regulators for the State licensing and registration of State-licensed loan originators and the registration of registered loan originators or any system established by the Secretary under section 5108 of this title.
+&emsp;The term “Nationwide Mortgage Licensing System and Registry” means a mortgage licensing system developed and maintained by the Conference of State Bank Supervisors and the American Association of Residential Mortgage Regulators for the State licensing and registration of State-licensed loan originators and the registration of registered loan originators or any system established by the Director under section 5108 of this title.
 
-#### (6) Nontraditional mortgage product
+#### (7) Nontraditional mortgage product
 
 &emsp;The term “nontraditional mortgage product” means any mortgage product other than a 30-year fixed rate mortgage.
 
-#### (7) Registered loan originator
+#### (8) Registered loan originator
 
 &emsp;The term “registered loan originator” means any individual who—
 
@@ -94,19 +98,19 @@ For purposes of this chapter, the following definitions shall apply:
 
 &emsp;&emsp;(B) is registered with, and maintains a unique identifier through, the Nationwide Mortgage Licensing System and Registry.
 
-#### (8) Residential mortgage loan
+#### (9) Residential mortgage loan
 
-&emsp;The term “residential mortgage loan” means any loan primarily for personal, family, or household use that is secured by a mortgage, deed of trust, or other equivalent consensual security interest on a dwelling (as defined in section 1602(v) of title 15) or residential real estate upon which is constructed or intended to be constructed a dwelling (as so defined).
+&emsp;The term “residential mortgage loan” means any loan primarily for personal, family, or household use that is secured by a mortgage, deed of trust, or other equivalent consensual security interest on a dwelling (as defined in section 1602(v) <sup>1</sup> of title 15) or residential real estate upon which is constructed or intended to be constructed a dwelling (as so defined).
 
-#### (9) Secretary
+#### (10) Director
 
-&emsp;The term “Secretary” means the Secretary of Housing and Urban Development.
+&emsp;The term “Director” means the Director of the Bureau of Consumer Financial Protection.
 
-#### (10) State
+#### (11) State
 
 &emsp;The term “State” means any State of the United States, the District of Columbia, any territory of the United States, Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Virgin Islands, and the Northern Mariana Islands.
 
-#### (11) State-licensed loan originator
+#### (12) State-licensed loan originator
 
 &emsp;The term “State-licensed loan originator” means any individual who—
 
@@ -124,9 +128,9 @@ For purposes of this chapter, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(iii) an institution regulated by the Farm Credit Administration; and
 
-&emsp;&emsp;(C) is licensed by a State or by the Secretary under section 5107 of this title and registered as a loan originator with, and maintains a unique identifier through, the Nationwide Mortgage Licensing System and Registry.
+&emsp;&emsp;(C) is licensed by a State or by the Director under section 5107 of this title and registered as a loan originator with, and maintains a unique identifier through, the Nationwide Mortgage Licensing System and Registry.
 
-#### (12) Unique identifier
+#### (13) Unique identifier
 
 #### (A) In general
 
@@ -134,7 +138,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(i) permanently identifies a loan originator;
 
-&emsp;&emsp;&emsp;(ii) is assigned by protocols established by the Nationwide Mortgage Licensing System and Registry and the Federal banking agencies to facilitate electronic tracking of loan originators and uniform identification of, and public access to, the employment history of and the publicly adjudicated disciplinary and enforcement actions against loan originators; and
+&emsp;&emsp;&emsp;(ii) is assigned by protocols established by the Nationwide Mortgage Licensing System and Registry and the Bureau to facilitate electronic tracking of loan originators and uniform identification of, and public access to, the employment history of and the publicly adjudicated disciplinary and enforcement actions against loan originators; and
 
 &emsp;&emsp;&emsp;(iii) shall not be used for purposes other than those set forth under this chapter.
 
@@ -142,9 +146,35 @@ For purposes of this chapter, the following definitions shall apply:
 
 &emsp;&emsp;To the greatest extent possible and to accomplish the purpose of this chapter, States shall use unique identifiers in lieu of social security numbers.
 
-(Pub. L. 110–289, div. A, title V, §1503, July 30, 2008, 122 Stat. 2811.)
+(Pub. L. 110–289, div. A, title V, §1503, July 30, 2008, 122 Stat. 2811; Pub. L. 111–203, title X, §1100(2)–(4), July 21, 2010, 124 Stat. 2106.)
+
+#### References in Text
+
+Section 1602(v) of title 15, referred to in par. (9), was redesignated section 1602(w) of title 15 by Pub. L. 111–203, title X, §1100A(1)(A), July 21, 2010, 124 Stat. 2107.
+
+#### Amendments
+
+<b>2010</b>—Pub. L. 111–203, §1100(4)(A), redesignated pars. (2) to (12) as (3) to (13), respectively.
+
+Par. (1). Pub. L. 111–203, §1100(4)(B), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The term ‘Federal banking agencies’ means the Board of Governors of the Federal Reserve System, the Comptroller of the Currency, the Director of the Office of Thrift Supervision, the National Credit Union Administration, and the Federal Deposit Insurance Corporation.”
+
+Par. (2). Pub. L. 111–203, §1100(4)(B), added par. (2). Former par. (2) redesignated (3).
+
+Par. (5). Pub. L. 111–203, §1100(3), substituted “Director” for “Secretary”.
+
+Par. (10). Pub. L. 111–203, §1100(4)(C), added par. (10) and struck out former par. (10). Prior to amendment, text read as follows: “The term ‘Secretary’ means the Secretary of Housing and Urban Development.”
+
+Par. (11)(C). Pub. L. 111–203, §1100(3), substituted “Director” for “Secretary”.
+
+Par. (12)(A)(ii). Pub. L. 111–203, §1100(2), substituted “Bureau” for “Federal banking agencies”.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

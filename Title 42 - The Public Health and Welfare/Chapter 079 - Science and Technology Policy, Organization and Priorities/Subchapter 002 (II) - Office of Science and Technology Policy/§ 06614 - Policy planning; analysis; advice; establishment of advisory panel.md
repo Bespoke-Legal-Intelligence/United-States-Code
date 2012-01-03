@@ -16,7 +16,7 @@
 
 &emsp;(7) provide the President with periodic reviews of Federal statutes and administrative regulations of the various departments and agencies which affect research and development activities, both internally and in relation to the private sector, or which may interfere with desirable technological innovation, together with recommendations for their elimination, reform, or updating as appropriate;
 
-&emsp;(8) develop, review, revise, and recommend criteria for determining scientific and technological activities warranting Federal support, and recommend Federal policies designed to advance (A) the development and maintenanceof broadly based scientific and technological capabilities, including human resources, at all levels of government, academia, and industry, and (B) the effective application of such capabilities to national needs;
+&emsp;(8) develop, review, revise, and recommend criteria for determining scientific and technological activities warranting Federal support, and recommend Federal policies designed to advance (A) the development and maintenance of broadly based scientific and technological capabilities, including human resources, at all levels of government, academia, and industry, and (B) the effective application of such capabilities to national needs;
 
 &emsp;(9) assess and advise on policies for international cooperation in science and technology which will advance the national and international objectives of the United States;
 

@@ -14,7 +14,7 @@ Loans under this section shall be on such terms and conditions as the Governor o
 
 #### (2) Preference in loans; election of loans for telephone system with certain subscriber density per mile
 
-&emsp;Funds to be loaned under this chapter to any borrower shall be loaned under this section in preference to section 922 of this title if the borrower is eligible for such a loan and funds are available therefor. Notwithstanding the foregoing or any other provision of law, all loans made pursuant to this chapter for facilities for telephone systems with an average subscriber density of three or fewer per mile shall be made under section 922 of this title; but this provision shall not preclude the making of such loans from the telephone bank at the election of the borrower.
+&emsp;Funds to be loaned under this chapter to any borrower shall be loaned under this section in preference to section 922 of this title if the borrower is eligible for such a loan and funds are available therefor. Notwithstanding the foregoing or any other provision of law, allloans made pursuant to this chapter for facilities for telephone systems with an average subscriber density of three or fewer per mile shall be made under section 922 of this title; but this provision shall not preclude the making of such loans from the telephone bank at the election of the borrower.
 
 #### (3) Interest rate
 
@@ -24,7 +24,7 @@ Loans under this section shall be on such terms and conditions as the Governor o
 
 &emsp;(C) The rate determined under this subparagraph shall be—
 
-&emsp;&emsp;(i) for the period beginning on the date the advance is made and ending at the close of the fiscal year in which the advance is made,the average yield (on the date of the advance) on outstanding marketable obligations of the United States having a final maturity comparable to the final maturity of the advance; and
+&emsp;&emsp;(i) for the period beginning on the date the advance is made and ending at the close of the fiscal year in which the advance is made, the average yield (on the date of the advance) on outstanding marketable obligations of the United States having a final maturity comparable to the final maturity of the advance; and
 
 &emsp;&emsp;(ii) after the fiscal year in which the advance is made, the cost of money rate for such fiscal year, as determined under subparagraph (D).
 
@@ -112,7 +112,7 @@ Loans under this section shall be on such terms and conditions as the Governor o
 
 > &emsp;For purposes of this paragraph, the term “fiscal year” means the 12-month period ending on September 30 of the designated year.
 
-&emsp;(F)(i) Notwithstanding subparagraph (B), if a borrower holds a commitment for a loan under this section made on or after October 1, 1987, and before December 22, 1987, part or all of the proceeds of which have not been advanced as of December 22, 1987, the borrower may, until the later of the date the next advance under the loan commitment is made or 90 days after December 22, 1987, elect to have the interest rate specified in the loan commitment apply to the unadvanced portion of the loan in lieu of the rate which (but for this clause) would apply to the unadvanced portion under this paragraph. If any borrower makes an election under this clause with respect to a loan, the Governor shall adjust the interest rate which applies to the unadvanced portion of the loan accordingly.
+&emsp;(F)(i) Notwithstanding subparagraph (B), if a borrower holds a commitment for a loan under this section made on or after October 1, 1987, and before December 22, 1987, part or all of the proceeds of which have not been advanced asof December 22, 1987, the borrower may, until the later of the date the next advance under the loan commitment is made or 90 days after December 22, 1987, elect to have the interest rate specified in the loan commitment apply to the unadvanced portion of the loan in lieu of the rate which (but for this clause) would apply to the unadvanced portion under this paragraph. If any borrower makes an election under this clause with respect to a loan, the Governor shall adjust the interest rate which applies to the unadvanced portion of the loan accordingly.
 
 &emsp;(ii)(I) If the telephone bank, pursuant to section 947(b) of this title, issues telephone debentures on any date to refinance telephone debentures or other obligations of the telephone bank, the telephone bank shall, in addition to any interest rate reduction required by any other provision of this paragraph, for the period applicable to the advance, reduce the interest rate charged on each advance made under this section during the fiscal year in which the refinanced debentures or other obligations were originally issued by the amount applicable to the advance.
 
@@ -154,7 +154,7 @@ Loans under this section shall be on such terms and conditions as the Governor o
 
 #### (8) Prepayment without penalty
 
-&emsp;(A) A borrower with a loan from the Rural Telephone Bank may prepay such loan (or any part thereof) by paying the face amount thereof without being required to pay the prepayment penalty set forth in the note covering such loan, except for any prepayment penalty provided for in a loan agreement entered into before November 1, 1993.
+&emsp;(A) A borrower with a loan from the Rural Telephone Bank may prepay such loan (or anypart thereof) by paying the face amount thereof without being required to pay the prepayment penalty set forth in the note covering such loan, except for any prepayment penalty provided for in a loan agreement entered into before November 1, 1993.
 
 &emsp;(B) If a borrower prepays part or all of a loan made under this section, then, notwithstanding section 947(b) of this title, the Governor of the telephone bank shall—
 
@@ -192,11 +192,11 @@ Loans and advances made under this section on or after November 5, 1990, shall b
 
 #### Amendments
 
-1995—Subsec. (b)(3)(I), (J). Pub. L. 104–66 redesignated subpar. (J) as (I) and struck out former subpar. (I) which read as follows: “The Comptroller General shall review, on an expedited basis, each determination a copy of which is received from the Governor and, within 15 days after the date of such receipt, furnish Congress a report on the accuracy of the determination.”
+<b>1995</b>—Subsec. (b)(3)(I), (J). Pub. L. 104–66 redesignated subpar. (J) as (I) and struck out former subpar. (I) which read as follows: “The Comptroller General shall review, on an expedited basis, each determination a copy of which is received from the Governor and, within 15 days after the date of such receipt, furnish Congress a report on the accuracy of the determination.”
 
-1994—Subsecs. (a), (b)(4)(B). Pub. L. 103–354 substituted “Secretary” for “Administrator”.
+<b>1994</b>—Subsecs. (a), (b)(4)(B). Pub. L. 103–354 substituted “Secretary” for “Administrator”.
 
-1993—Subsec. (a)(2). Pub. L. 103–129, §2(a)(2)(A), substituted “acquisition, purchase, and installation of telephone lines, systems, and facilities (other than buildings used primarily for administrative purposes, vehicles not used primarily in construction, and customer premise equipment) related to the furnishing, improvement, or extension of rural telecommunications service” for “purposes of financing, or refinancing, the construction, improvement, expansion, acquisition, and operation of telephone lines, facilities, or systems, in order to improve the efficiency, effectiveness, or financial stability of borrowers financed under section 922 of this title and this section”.
+<b>1993</b>—Subsec. (a)(2). Pub. L. 103–129, §2(a)(2)(A), substituted “acquisition, purchase, and installation of telephone lines, systems, and facilities (other than buildings used primarily for administrative purposes, vehicles not used primarily in construction, and customer premise equipment) related to the furnishing, improvement, or extension of rural telecommunications service” for “purposes of financing, or refinancing, the construction, improvement, expansion, acquisition, and operation of telephone lines, facilities, or systems, in order to improve the efficiency, effectiveness, or financial stability of borrowers financed under section 922 of this title and this section”.
 
 Subsec. (b)(4). Pub. L. 103–129, §2(a)(2)(B)(i), added par. (4) and struck out former par. (4) which related to adequacy of security and capacity for repayment of loans made under this section.
 
@@ -206,7 +206,7 @@ Subsec. (b)(9), (10). Pub. L. 103–129, §2(a)(2)(B)(iii), added pars. (9) and 
 
 Subsec. (e). Pub. L. 103–129, §2(a)(2)(C), added subsec. (e).
 
-1990—Subsec. (a). Pub. L. 101–624, §2365, substituted “shall make loans on behalf of the telephone bank, to the extent that there are qualifying applications therefor, subject only to limitations as to amounts authorized for loans and advances as may be imposed by law enacted by the Congress of the United States for loans to be made in any one year, and” for “is authorized on behalf of the telephone bank to make loans,”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–624, §2365, substituted “shall make loans on behalf of the telephone bank, to the extent that there are qualifying applications therefor, subject only to limitations as to amounts authorized for loans and advances as may be imposed by law enacted by the Congress of the United States for loans to be made in any one year, and” for “is authorized on behalf of the telephone bank to make loans,”.
 
 Subsec. (b)(3)(B). Pub. L. 101–624, §2367(b)(1), substituted “the date of enactment of this subparagraph” for “the date of enactment of this paragraph” in the original text before “advances”, which was translated as “December 22, 1987”, requiring no change in text.
 
@@ -216,13 +216,13 @@ Subsec. (b)(3)(E). Pub. L. 101–624, §2367(b)(3), substituted “paragraph” 
 
 Subsec. (d). Pub. L. 101–624, §2366, added subsec. (d).
 
-1987—Subsec. (b)(3). Pub. L. 100–203, §1411(c), designated existing provisions as subpar. (A) and added subpars. (B) to (J).
+<b>1987</b>—Subsec. (b)(3). Pub. L. 100–203, §1411(c), designated existing provisions as subpar. (A) and added subpars. (B) to (J).
 
 Subsec. (b)(4). Pub. L. 100–203, §1412, inserted at end “For purposes of determining the creditworthiness of a borrower for a loan under this paragraph, the Governor shall assume that the loan, if made, would bear interest at a rate equal to the average yield (on the date of the determination) on outstanding marketable obligations of the United States having a final maturity comparable to the final maturity of the loan.”
 
 Subsec. (b)(8). Pub. L. 100–203, §1411(b)(1), added par. (8).
 
-1973—Subsec. (a). Pub. L. 93–32, §8, inserted “or which have been certified by the Administrator to be eligible for such a loan or loan commitments,” preceding cl. (1) and inserted provision that loans and advances not be included in the totals of the budget of the United States Government and that such loans and advances be exempt from any general limitation imposed by statute expenditures and net lending (budget outlays) of the United States.
+<b>1973</b>—Subsec. (a). Pub. L. 93–32, §8, inserted “or which have been certified by the Administrator to be eligible for such a loan or loan commitments,” preceding cl. (1) and inserted provision that loans and advances not be included in the totals of the budget of the United States Government and that such loans and advances be exempt from any general limitation imposed by statute expenditures and net lending (budget outlays) of the United States.
 
 Subsec. (b)(3). Pub. L. 93–32, §9, substituted provisions for a “cost of money rate” of interest with a “not less than 5 per centum per annum” limit on such rate, for provisions for interest “at the highest rate which meets the requirements set forth in paragraph (4), consistent with the borrower's ability to pay such interest rate and with achievement of the objectives of this chapter” with a “not less than 4 per centum per annum” limit on such rate.
 

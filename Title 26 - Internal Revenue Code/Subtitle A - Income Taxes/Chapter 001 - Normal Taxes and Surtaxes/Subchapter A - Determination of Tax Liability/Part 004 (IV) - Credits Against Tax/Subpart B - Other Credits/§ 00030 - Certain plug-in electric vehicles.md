@@ -26,7 +26,7 @@ The amount of the credit allowed under subsection (a) with respect to any vehicl
 
 &emsp;&emsp;&emsp;(i) the sum of the regular tax liability (as defined in section 26(b)) plus the tax imposed by section 55, over
 
-&emsp;&emsp;&emsp;(ii) the sum of the credits allowable under subpart A (other than this sectionand sections 25D and 30D) and section 27 for the taxable year.
+&emsp;&emsp;&emsp;(ii) the sum of the credits allowable under subpart A (other than this section and sections 23, 25D, and 30D) and section 27 for the taxable year.
 
 #### (d) Qualified plug-in electric vehicle
 
@@ -72,7 +72,7 @@ For purposes of this section—
 
 #### (1) Basis reduction
 
-&emsp;For purposes of this subtitle, the basis of any property for which a credit is allowable under subsection (a) shall be reduced by the amount of such credit so allowed.
+&emsp;For purposes of this subtitle, the basis of any property for which a credit is allowableunder subsection (a) shall be reduced by the amount of such credit so allowed.
 
 #### (2) No double benefit
 
@@ -118,7 +118,7 @@ A prior section 30 was renumbered section 41 of this title.
 
 <b>2010</b>—Subsec. (c)(2)(B)(ii). Pub. L. 111–148, §10909(b)(2)(F), (c), as amended by Pub. L. 111–312, temporarily substituted “25D” for “23, 25D,”. See Effective and Termination Dates of 2010 Amendment note below.
 
-<b>2009</b>—Pub. L. 111–5 amended section generally. Prior to amendment, section provided for credit of 10 percent of the cost of any qualified electric vehicle, subject to a $4,000 per vehicle limitation, a 75 percent reductionfor any vehicle placed in service after Dec. 31, 2005, and a Dec. 31, 2006, termination date.
+<b>2009</b>—Pub. L. 111–5 amended section generally. Prior to amendment, section provided for credit of 10 percent of the cost of any qualified electric vehicle, subject to a $4,000 per vehicle limitation, a 75 percent reduction for any vehicle placed in service after Dec. 31, 2005, and a Dec. 31, 2006, termination date.
 
 <b>2005</b>—Subsec. (b)(3)(A). Pub. L. 109–58 substituted “section 27” for “sections 27 and 29” in introductory provisions.
 
@@ -162,7 +162,7 @@ Amendment by Pub. L. 109–58 applicable to credits determined under the Interna
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–311, title III, §318(b), Oct. 4, 2004, 118 Stat. 1182, provided that: “The amendments made by this section \[amending this section\] shall apply to property placed in service after December 31, 2003.”
+Pub. L. 108–311, title III, §318(b), Oct. 4, 2004, 118 Stat. 1182, provided that: “The amendments made by thissection \[amending this section\] shall apply to property placed in service after December 31, 2003.”
 
 #### Effective Date of 2002 Amendment
 

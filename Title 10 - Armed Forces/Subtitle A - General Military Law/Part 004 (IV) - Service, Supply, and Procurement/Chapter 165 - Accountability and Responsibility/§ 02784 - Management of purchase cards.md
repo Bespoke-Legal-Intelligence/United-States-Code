@@ -36,7 +36,7 @@ Required Safeguards and Internal Controls.—Regulations under subsection (a) sh
 
 &emsp;(9) That appropriate training is provided to each purchase card holder and each official with responsibility for overseeing the use of purchase cards issued by the Department of Defense.
 
-&emsp;(10) That the Department of Defense has specific policies regarding the number of purchase cards issued by various organizations and categories of organizations, the credit limits authorized for various categories of card holders, and categories of employees eligible to be issued purchase cards, and that those policies are designed to minimize the financial risk to the Federal Government of the issuance of thepurchase cards and to ensure the integrity of purchase card holders.
+&emsp;(10) That the Department of Defense has specific policies regarding the number of purchase cards issued by various organizations and categories of organizations, the credit limits authorized for various categories of card holders, and categories of employees eligible to be issued purchase cards, and that those policies are designed to minimize the financial risk to the Federal Government of the issuance of the purchase cards and to ensure the integrity of purchase card holders.
 
 (c)
 

@@ -42,7 +42,7 @@ The entity that transfers ownership interests in, or shares representing, units 
 
 #### (3) 6–20 years
 
-&emsp;In the case of a transfer during the period beginning 6 years after the acquisition andending 20 years after the acquisition, the homeownership program shall provide for the recapture by the Secretary or the program of an amount equal to the amount of the declining balance on the note described in paragraph (1)(C).
+&emsp;In the case of a transfer during the period beginning 6 years after the acquisition and ending 20 years after the acquisition, the homeownership program shall provide for the recapture by the Secretary or the program of an amount equal to the amount of the declining balance on the note described in paragraph (1)(C).
 
 #### (4) Use of recaptured funds
 

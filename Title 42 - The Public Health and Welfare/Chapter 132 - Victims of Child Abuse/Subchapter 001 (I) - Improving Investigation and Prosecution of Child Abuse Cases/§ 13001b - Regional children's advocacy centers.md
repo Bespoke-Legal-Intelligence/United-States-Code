@@ -150,7 +150,7 @@ The Administrator, in coordination with the Director and with the Director of th
 
 #### (A) Failure to implement program activities
 
-&emsp;&emsp;If a grant recipient under this section substantially fails in the implementation of the program activities, the Administrator shall not discontinue funding until reasonable notice and an opportunity for reconsideration is given.
+&emsp;&emsp;If a grant recipient under this section substantially fails in the implementation of theprogram activities, the Administrator shall not discontinue funding until reasonable notice and an opportunity for reconsideration is given.
 
 #### (B) Solicitation of new proposals
 

@@ -18,7 +18,7 @@
 | [1610\.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20A%20-%20General%20Provisions/%C2%A7%2001610%20-%20Effect%20on%20other%20laws.md) | Effect on other laws. |
 | [1611\.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20A%20-%20General%20Provisions/%C2%A7%2001611%20-%20Criminal%20liability%20for%20willful%20and%20knowing%20violation.md) | Criminal liability for willful and knowing violation. |
 | [1612\.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20A%20-%20General%20Provisions/%C2%A7%2001612%20-%20Effect%20on%20government%20agencies.md) | Effect on government agencies. |
-| [1613\.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20A%20-%20General%20Provisions/%C2%A7%2001613%20-%20Annual%20reports%20to%20Congress%20by%20Board.md) | Annual reports to Congress by Board. |
+| [1613\.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20A%20-%20General%20Provisions/%C2%A7%2001613%20-%20Annual%20reports%20to%20Congress%20by%20Bureau.md) | Annual reports to Congress by Bureau. |
 | [1614\.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20A%20-%20General%20Provisions/%C2%A7%2001614%20-%20Repealed.%20Pub.%20L.%2096%E2%80%93221%2C%20title%20VI%2C%20%C2%A7616%28b%29%2C%20Mar.%2031%2C%201980%2C%2094%20Stat.%20182.md) | Repealed. |
 | [1615\.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20A%20-%20General%20Provisions/%C2%A7%2001615%20-%20Prohibition%20on%20use%20of%20%E2%80%9CRule%20of%2078%27s%E2%80%9D%20in%20connection%20with%20mortgage%20refinancings%20and%20other%20consumer%20loans.md) | Prohibition on use of “Rule of 78's” in connection with mortgage refinancings and other consumer loans. |
 | [1616\.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20A%20-%20General%20Provisions/%C2%A7%2001616%20-%20Board%20review%20of%20consumer%20credit%20plans%20and%20regulations.md) | Board review of consumer credit plans and regulations. |
@@ -84,7 +84,7 @@
 
 |  |  |
 | :--- | ---: |
-| [1666\.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20D%20-%20Credit%20Billing/%C2%A7%2001666%20-%20Correction%20of%20billing%20errors.md) | Correction of billing errors. |
+| 1666\. | Correction of billing errors. |
 | [1666a.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20D%20-%20Credit%20Billing/%C2%A7%2001666a%20-%20Regulation%20of%20credit%20reports.md) | Regulation of credit reports. |
 | [1666b.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20D%20-%20Credit%20Billing/%C2%A7%2001666b%20-%20Timing%20of%20payments.md) | Timing of payments. |
 | [1666c.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20D%20-%20Credit%20Billing/%C2%A7%2001666c%20-%20Prompt%20and%20fair%20crediting%20of%20payments.md) | Prompt and fair crediting of payments. |
@@ -109,7 +109,7 @@
 | [1667b.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20E%20-%20Consumer%20Leases/%C2%A7%2001667b%20-%20Lessee%27s%20liability%20on%20expiration%20or%20termination%20of%20lease.md) | Lessee's liability on expiration or termination of lease. |
 | [1667c.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20E%20-%20Consumer%20Leases/%C2%A7%2001667c%20-%20Consumer%20lease%20advertising%3B%20liability%20of%20advertising%20media.md) | Consumer lease advertising; liability of advertising media. |
 | [1667d.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20E%20-%20Consumer%20Leases/%C2%A7%2001667d%20-%20Civil%20liability%20of%20lessors.md) | Civil liability of lessors. |
-| [1667e.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20E%20-%20Consumer%20Leases/%C2%A7%2001667e%20-%20Applicability%20of%20State%20laws%3B%20exemptions%20by%20Board%20from%20leasing%20requirements.md) | Applicability of State laws; exemptions by Board from leasing requirements. |
+| [1667e.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20E%20-%20Consumer%20Leases/%C2%A7%2001667e%20-%20Applicability%20of%20State%20laws%3B%20exemptions%20by%20Bureau%20from%20leasing%20requirements.md) | Applicability of State laws; exemptions by Bureau from leasing requirements. |
 | [1667f.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20E%20-%20Consumer%20Leases/%C2%A7%2001667f%20-%20Regulations.md) | Regulations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -189,7 +189,7 @@
 | :--- | ---: |
 | [1691\.](Subchapter%20004%20%28IV%29%20-%20Equal%20Credit%20Opportunity/%C2%A7%2001691%20-%20Scope%20of%20prohibition.md) | Scope of prohibition. |
 | [1691a.](Subchapter%20004%20%28IV%29%20-%20Equal%20Credit%20Opportunity/%C2%A7%2001691a%20-%20Definitions%3B%20rules%20of%20construction.md) | Definitions; rules of construction. |
-| [1691b.](Subchapter%20004%20%28IV%29%20-%20Equal%20Credit%20Opportunity/%C2%A7%2001691b%20-%20Promulgation%20of%20regulations%20by%20Board%3B%20establishment%20of%20Consumer%20Advisory%20Council%20by%20Board%3B%20duties%2C%20membership%2C%20etc.%2C%20of%20Council.md) | Promulgation of regulations by Board; establishment of Consumer Advisory Council by Board; duties, membership, etc., of Council. |
+| [1691b.](Subchapter%20004%20%28IV%29%20-%20Equal%20Credit%20Opportunity/%C2%A7%2001691b%20-%20Promulgation%20of%20regulations%20by%20the%20Bureau.md) | Promulgation of regulations by the Bureau. |
 | [1691c.](Subchapter%20004%20%28IV%29%20-%20Equal%20Credit%20Opportunity/%C2%A7%2001691c%20-%20Administrative%20enforcement.md) | Administrative enforcement. |
 | 1691c–1. | Incentives for self-testing and self-correction. |
 | 1691c–2. | Small business loan data collection. |
@@ -216,7 +216,7 @@
 | [1692j.](Subchapter%20005%20%28V%29%20-%20Debt%20Collection%20Practices/%C2%A7%2001692j%20-%20Furnishing%20certain%20deceptive%20forms.md) | Furnishing certain deceptive forms. |
 | [1692k.](Subchapter%20005%20%28V%29%20-%20Debt%20Collection%20Practices/%C2%A7%2001692k%20-%20Civil%20liability.md) | Civil liability. |
 | 1692<i>l.</i> | Administrative enforcement. |
-| [1692m.](Subchapter%20005%20%28V%29%20-%20Debt%20Collection%20Practices/%C2%A7%2001692m%20-%20Reports%20to%20Congress%20by%20the%20Commission%3B%20views%20of%20other%20Federal%20agencies.md) | Reports to Congress by the Commission; views of other Federal agencies. |
+| [1692m.](Subchapter%20005%20%28V%29%20-%20Debt%20Collection%20Practices/%C2%A7%2001692m%20-%20Reports%20to%20Congress%20by%20the%20Bureau%3B%20views%20of%20other%20Federal%20agencies.md) | Reports to Congress by the Bureau; views of other Federal agencies. |
 | [1692n.](Subchapter%20005%20%28V%29%20-%20Debt%20Collection%20Practices/%C2%A7%2001692n%20-%20Relation%20to%20State%20laws.md) | Relation to State laws. |
 | 1692<i>o.</i> | Exemption for State regulation. |
 | [1692p](Subchapter%20005%20%28V%29%20-%20Debt%20Collection%20Practices/%C2%A7%2001692p%20-%20Exception%20for%20certain%20bad%20check%20enforcement%20programs%20operated%20by%20private%20entities.md) | Exception for certain bad check enforcement programs operated by private entities. |

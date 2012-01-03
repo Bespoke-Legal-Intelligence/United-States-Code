@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall make grants to, and enter into contracts with, eligible entities to improvehealth care, increase retention, increase representation of minority faculty members, enhance the practice environment, and provide information dissemination and educational support to reduce professional isolation through the timely dissemination of research findings using relevant resources.
+The Secretary shall make grants to, and enter into contracts with, eligible entities to improve health care, increase retention, increase representation of minority faculty members, enhance the practice environment, and provide information dissemination and educational support to reduce professional isolation through the timely dissemination of research findings using relevant resources.
 
 #### (b) Eligible entities
 

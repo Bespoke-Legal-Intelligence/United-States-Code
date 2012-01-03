@@ -20,7 +20,7 @@
 
 #### (iii) Adjusted national average monthly bid amount defined
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “adjusted national average monthlybid amount” means the national average monthly bid amount computed under paragraph (4), as adjusted under section 1395w–115(c)(2) of this title.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “adjusted national average monthly bid amount” means the national average monthly bid amount computed under paragraph (4), as adjusted under section 1395w–115(c)(2) of this title.
 
 #### (C) Increase for supplemental prescription drug benefits
 
@@ -76,7 +76,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The monthly national average monthly bid amount computed under subparagraph (A) for a year shall be a weighted average, with the weight for each plan being equal to the average number of part D eligible individuals enrolled in such plan in the reference month (as defined in section 1395w–27a(f)(4) of this title).
+&emsp;&emsp;&emsp;The monthly national average monthly bid amount computed under subparagraph\(A) for a year shall be a weighted average, with the weight for each plan being equal to the average number of part D eligible individuals enrolled in such plan in the reference month (as defined in section 1395w–27a(f)(4) of this title).
 
 #### (ii) Special rule for 2006
 
@@ -108,7 +108,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In the case of an individual whose modified adjusted gross income exceeds the threshold amount applicable under paragraph (2) of section 1395r(i) of this title (including application of paragraph (5) of such section) for the calendar year, the monthly amount of the beneficiary premium applicable underthis section for a month after December 2010 shall be increased by the monthly adjustment amount specified in subparagraph (B).
+&emsp;&emsp;In the case of an individual whose modified adjusted gross income exceeds the threshold amount applicable under paragraph (2) of section 1395r(i) of this title (including application of paragraph (5) of such section) for the calendar year, the monthly amount of the beneficiary premium applicable under this section for a month after December 2010 shall be increased by the monthly adjustment amount specified in subparagraph (B).
 
 #### (B) Monthly adjustment amount
 
@@ -290,13 +290,7 @@
 
 &emsp;&emsp;In the case where the monthly benefit payments of an individual that are withheld under subparagraph (A) are insufficient to pay the amount described in such subparagraph, the Commissioner of Social Security shall enter into agreements with the Secretary, the Director of the Office of Personnel Management, and the Railroad Retirement Board as necessary in order to allow other agencies to collect the amount described in subparagraph (A) that was not withheld under such subparagraph.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1860D–13, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2102; amended Pub. L. 110–275, title I, §114(a)(1), July 15, 2008, 122 Stat. 2506; Pub. L. 111–148, title III, §3308(a), (b)(1), Mar. 23, 2010, 124 Stat. 472, 474.)
-
-#### References in Text
-
-Part A of this subchapter, referred to in subsec. (b)(7)(B), is classified to section 1395c et seq. of this title.
-
-Part C of this subchapter, referred to in subsec. (c)(1), is classified to section 1395w–21 et seq. of this title.
+(Aug. 14, 1935, ch. 531, title XVIII, §1860D–13, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2102; amended Pub. L. 110–275, title I, §114(a)(1), July 15, 2008, 122 Stat. 2506; Pub. L.111–148, title III, §3308(a), (b)(1), Mar. 23, 2010, 124 Stat. 472, 474.)
 
 #### Amendments
 

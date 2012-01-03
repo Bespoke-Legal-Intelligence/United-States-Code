@@ -20,7 +20,7 @@ Congress declares that—
 
 #### References in Text
 
-This chapter, referred to in par. (g), was in the original “this Act”, meaning Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, known as the Federal Mine Safety and Health Act of 1977, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in par. (g), was in the original “this Act”, meaning Pub. L. 91–173, Dec. 30, 1969, 83Stat. 742, known as the Federal Mine Safety and Health Act of 1977, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Amendments
 
@@ -34,7 +34,7 @@ Par. (g). Pub. L. 95–164, §102(a)(1), (2), inserted “or other” after “c
 
 #### Effective Date of 1977 Amendment
 
-Section 307 of Pub. L. 95–164 provided that: “Except as otherwise provided, this Act and the amendments madeby this Act \[see Short Title of 1977 Amendment note below\] shall take effect 120 days after the date of enactment of this Act \[Nov. 9, 1977\]. The Secretary of Labor and the Secretary of the Interior are authorized to establish such rules and regulations as may be necessary for the efficient transfer of functions provided under this Act. The amendment to the Federal Coal Mine Health and Safety Act of 1969 made by section 202 of this Act \[amending section 842(e) of this title and repealing subsec. (k) of section 878 of this title\] shall be effective on the date of enactment \[Nov. 9, 1977\].”
+Section 307 of Pub. L. 95–164 provided that: “Except as otherwise provided, this Act and the amendments made by this Act \[see Short Title of 1977 Amendment note below\] shall take effect 120 days after the date of enactment of this Act \[Nov. 9, 1977\]. The Secretary of Labor and the Secretary of the Interior are authorized to establish such rules and regulations as may be necessary for the efficient transfer of functions provided under this Act. The amendment to the Federal Coal Mine Health and Safety Act of 1969 made by section 202 of this Act \[amending section 842(e) of this title and repealing subsec. (k) of section 878 of this title\] shall be effective on the date of enactment \[Nov. 9, 1977\].”
 
 #### Effective Date
 

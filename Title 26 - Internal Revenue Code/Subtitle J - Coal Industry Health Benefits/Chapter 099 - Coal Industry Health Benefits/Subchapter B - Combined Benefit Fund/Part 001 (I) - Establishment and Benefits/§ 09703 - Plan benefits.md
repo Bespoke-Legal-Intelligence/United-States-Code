@@ -66,7 +66,7 @@ Each eligible beneficiary of the Combined Fund shall receive—
 
 #### (d) Reserves for administration
 
-The trustees of the Combined Fund may reserve for each plan year, for use in payment of the administrative costs of the Combined Fund, an amount not to exceed 5 percent of the premiums to be paid to the Combined Fund under section 9704(a) during the plan year.
+The trustees of the Combined Fund may reserve for each plan year, for use in payment ofthe administrative costs of the Combined Fund, an amount not to exceed 5 percent of the premiums to be paid to the Combined Fund under section 9704(a) during the plan year.
 
 #### (e) Limitation on enrollment
 
@@ -84,5 +84,5 @@ For purposes of this subchapter, the term “eligible beneficiary” means an in
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended.Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 

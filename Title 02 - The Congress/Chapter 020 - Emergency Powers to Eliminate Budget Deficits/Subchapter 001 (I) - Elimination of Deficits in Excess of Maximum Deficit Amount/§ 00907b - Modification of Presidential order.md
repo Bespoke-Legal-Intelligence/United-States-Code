@@ -20,7 +20,7 @@ At any time after the Director of OMB issues a final sequestration report under 
 
 &emsp;(B) A motion to postpone, or a motion to proceed to the consideration of other business is not in order. A motion to reconsider the vote by which the joint resolution is agreed to or disagreed to is not in order, and a motion to recommit the joint resolution is not in order.
 
-&emsp;(C)(i) No amendment that is not germane to the provisions of the joint resolution or to the order issued under section 904 of this title shall be in order in the Senate. In the Senate, an amendment, any amendment to an amendment, or any debatable motion or appeal is debatable for not to exceed 30 minutes to be equally divided between, and controlled by, the mover and the majority leader (or theirdesignees), except that in the event that the majority leader favors the amendment, motion, or appeal, the minority leader (or the minority leader's designee) shall control the time in opposition to the amendment, motion, or appeal.
+&emsp;(C)(i) No amendment that is not germane to the provisions of the joint resolution or to the order issued under section 904 of this title shall be in order in the Senate. In the Senate, an amendment, any amendment to an amendment, or any debatable motion or appeal is debatable for not to exceed 30 minutes to be equally divided between, and controlled by, the mover and the majority leader (or their designees), except that in the event that the majority leader favors the amendment, motion, or appeal, the minority leader (or the minority leader's designee) shall control the time in opposition to the amendment, motion, or appeal.
 
 &emsp;(ii) In the Senate, an amendment that is otherwise in order shall be in order notwithstanding the fact that it amends the joint resolution in more than one place or amends language previously amended. It shall not be in order in the Senate to vote on the question of agreeing to such a joint resolution or any amendment thereto unless the figures then contained in such joint resolution or amendment are mathematically consistent.
 
@@ -58,13 +58,9 @@ At any time after the Director of OMB issues a final sequestration report under 
 
 (Pub. L. 99–177, title II, §258A, as added Pub. L. 101–508, title XIII, §13101(f), Nov. 5, 1990, 104 Stat. 1388–595.)
 
-#### Termination of Section
-
-<i>Section expired Sept. 30, 2006. See section 275(b) of Pub. L. 99–177, as amended, set out as an Effective and Termination Dates note under section 900 of this title.</i>
-
 #### References in Text
 
-The Congressional Budget Act of 1974, referred to in subsec. (b)(6), is titles I to IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended. Titles III and IV of the Act are classified generally to subchapters I (§631 et seq.) and II (§651 et seq.), respectively, of chapter 17A of this title. Title VI of the Act was classified generally to subchapter IV (§665 et seq.) of chapter 17A of this title prior to repeal by Pub. L. 105–33, title X, §10118(a), Aug. 5, 1997, 111 Stat. 695. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
+The Congressional Budget Act of 1974, referred to in subsec. (b)(6), is titles I to IX of Pub. L. 93–344, July 12,1974, 88 Stat. 297, as amended. Titles III and IV of the Act are classified generally to subchapters I (§631 et seq.) and II (§651 et seq.), respectively, of chapter 17A of this title. Title VI of the Act was classified generally to subchapter IV (§665 et seq.) of chapter 17A of this title prior to repeal by Pub. L. 105–33, title X, §10118(a), Aug. 5, 1997, 111 Stat. 695. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

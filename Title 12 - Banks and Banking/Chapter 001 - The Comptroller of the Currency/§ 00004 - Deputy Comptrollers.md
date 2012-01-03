@@ -12,9 +12,9 @@ R.S. §327, contained after the word “Secretary” the following “who shall 
 
 #### Amendments
 
-1972—Pub. L. 92–310 struck out provisions which required each Deputy Comptroller to give a bond in the sum of $100,000.
+<b>1972</b>—Pub. L. 92–310 struck out provisions which required each Deputy Comptroller to give a bond in the sum of $100,000.
 
-1959—Pub. L. 86–251 provided for the appointment of four Deputy Comptrollers instead of one, the designation of one as the First Deputy, the fixing of salaries, increase in surety bond requirement from $50,000 to $100,000 and order of succession.
+<b>1959</b>—Pub. L. 86–251 provided for the appointment of four Deputy Comptrollers instead of one, the designation of one as the First Deputy, the fixing of salaries, increase in surety bond requirement from $50,000 to $100,000 and order of succession.
 
 #### Exception as to Transfer of Functions
 

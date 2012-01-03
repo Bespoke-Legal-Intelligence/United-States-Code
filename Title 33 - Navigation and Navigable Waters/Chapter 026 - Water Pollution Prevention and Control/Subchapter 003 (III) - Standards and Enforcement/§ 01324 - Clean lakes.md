@@ -82,7 +82,7 @@ The Administrator shall provide financial assistance to States in order to carry
 
 #### (ii) Distribution of funds
 
-&emsp;&emsp;&emsp;The Administrator shall provide for an equitable distribution of sums appropriated pursuant to this subparagraph among States carrying out approved methods and procedures. Such distribution shall be based on the relative needs of each such State for the mitigation of the harmful effects on lakes and other surface waters of high acidity that may reasonably be due to acid deposition or acid mine drainage.
+&emsp;&emsp;&emsp;The Administrator shall provide for an equitable distribution of sums appropriated pursuant to this subparagraph among States carrying out approved methods and procedures. Such distribution shall be based on the relative needs of each such State for the mitigation of the harmful effects on lakes and other surface waters ofhigh acidity that may reasonably be due to acid deposition or acid mine drainage.
 
 #### (iii) Grants as additional assistance
 

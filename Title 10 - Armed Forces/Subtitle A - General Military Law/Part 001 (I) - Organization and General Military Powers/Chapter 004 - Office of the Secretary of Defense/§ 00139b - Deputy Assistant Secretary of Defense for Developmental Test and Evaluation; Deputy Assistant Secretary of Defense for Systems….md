@@ -102,6 +102,38 @@ Access to records.—The Deputy Assistant Secretary shall have access to any rec
 
 (c)
 
+Support of Mdaps by Chief Developmental Tester and Lead Developmental Test and Evaluation Organization.—
+
+&emsp;(1)
+
+Support.—The Secretary of Defense shall require that each major defense acquisition program be supported by—
+
+&emsp;&emsp;(A) a chief developmental tester; and
+
+&emsp;&emsp;(B) a governmental test agency, serving as lead developmental test and evaluation organization for the program.
+
+&emsp;(2)
+
+Responsibilities of chief developmental tester.—The chief developmentaltester for a major defense acquisition program shall be responsible for—
+
+&emsp;&emsp;(A) coordinating the planning, management, and oversight of all developmental test and evaluation activities for the program;
+
+&emsp;&emsp;(B) maintaining insight into contractor activities under the program and overseeing the test and evaluation activities of other participating government activities under the program; and
+
+&emsp;&emsp;(C) helping program managers make technically informed, objective judgments about contractor developmental test and evaluation results under the program.
+
+&emsp;(3)
+
+Responsibilities of lead developmental test and evaluation organization.—The lead developmental test and evaluation organization for a major defense acquisition program shall be responsible for—
+
+&emsp;&emsp;(A) providing technical expertise on testing and evaluation issues to the chief developmental tester for the program;
+
+&emsp;&emsp;(B) conducting developmental testing and evaluation activities for the program, as directed by the chief developmental tester; and
+
+&emsp;&emsp;(C) assisting the chief developmental tester in providing oversight of contractors under the program and in reaching technically informed, objective judgments about contractor developmental test and evaluation results under the program.
+
+(d)
+
 Joint Annual Report.—Not later than March 31 each year, beginning in 2010, the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation and the Deputy Assistant Secretary of Defense for Systems Engineering shall jointly submit to the congressional defense committees a report on the activities undertaken pursuant to subsections (a) and (b) during the preceding year. Each report shall include a section on activities relating to the major defense acquisition programs which shall set forth, at a minimum, the following:
 
 &emsp;(1) A discussion of the extent to which the major defense acquisition programs are fulfilling the objectives of their systems engineering master plans and developmental test and evaluation plans.
@@ -112,7 +144,7 @@ Joint Annual Report.—Not later than March 31 each year, beginning in 2010, the
 
 &emsp;(4) Any comments on such report that the Secretary of Defense considers appropriate.
 
-(d)
+(e)
 
 Joint Guidance.—The Deputy Assistant Secretary of Defense for Developmental Test and Evaluation and the Deputy Assistant Secretary of Defense for Systems Engineering shall jointly, in coordination with the official designated by the Secretary of Defense under section 103 of the Weapon Systems Acquisition Reform Act of 2009, issue guidance on the following:
 
@@ -122,11 +154,11 @@ Joint Guidance.—The Deputy Assistant Secretary of Defense for Developmental Te
 
 &emsp;(3) A system for storing and tracking information relating to the achievement of the performance criteria and objectives specified pursuant to this subsection.
 
-(e)
+(f)
 
 Major Defense Acquisition Program Defined.—In this section, the term “major defense acquisition program” has the meaning given that term in section 2430 of this title.
 
-(Added Pub. L. 111–23, title I, §102(a)(1), May 22, 2009, 123 Stat. 1710, §139d; renumbered §139b and amended Pub. L. 111–383, div. A, title IX, §901(e), (f), (k)(1)(E), title X, §1075(b)(6), Jan. 7, 2011, 124 Stat. 4321, 4322, 4325, 4369.)
+(Added Pub. L. 111–23, title I, §102(a)(1), May 22, 2009, 123 Stat. 1710, §139d; renumbered §139b and amended Pub. L. 111–383, div. A, title IX, §901(e), (f), (k)(1)(E), title X, §1075(b)(6), Jan. 7, 2011, 124 Stat. 4321, 4322, 4325, 4369; Pub. L. 112–81, div. A, title VIII, §835(b), Dec. 31, 2011, 125 Stat. 1507.)
 
 #### References in Text
 
@@ -175,6 +207,8 @@ Coordination with director of developmental test and evaluation” in heading.
 Subsec. (b)(5). Pub. L. 111–383, §901(e)(4)(B), substituted “Deputy Assistant Secretary” for “Director” in introductory provisions.
 
 Subsec. (b)(6). Pub. L. 111–383, §901(e)(4)(B), (D), substituted “Deputy Assistant Secretary” for “Director” in two places and substituted “Deputy Assistant Secretary's” for “Director's”.
+
+Subsecs. (c) to (f). Pub. L. 112–81 added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively.
 
 #### Effective Date of 2011 Amendment
 

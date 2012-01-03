@@ -10,9 +10,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Pub. L. 110–246, §12033(c)(2)(B), substituted “this subchapter” for “this chapter”.
+<b>2008</b>—Pub. L. 110–246, §12033(c)(2)(B), substituted “this subchapter” for “this chapter”.
 
-1994—Pub. L. 103–354 in first sentence struck out “of Agriculture” after “Department” and “(herein called the Corporation)” before period at end, and in second sentence struck out “of Directors” after “Board”.
+<b>1994</b>—Pub. L. 103–354 in first sentence struck out “of Agriculture” after “Department” and “(herein called the Corporation)” before period at end, and in second sentence struck out “of Directors” after “Board”.
 
 #### Effective Date of 2008 Amendment
 

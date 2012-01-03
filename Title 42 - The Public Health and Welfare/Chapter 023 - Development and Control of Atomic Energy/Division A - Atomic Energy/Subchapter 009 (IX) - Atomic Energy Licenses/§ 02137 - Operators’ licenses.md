@@ -34,7 +34,7 @@ Pub. L. 96–395, title III, §307, June 30, 1980, 94 Stat. 791, provided that:
 
 &emsp;“(D) has participated in a requalification training program.
 
-> Such plan shall include criteria for suspending or revoking operator licenses. In addition, the Commissionshall also consider the feasibility of requiring such licensed operator to pass a requalification test every six months including—
+> Such plan shall include criteria for suspending or revoking operator licenses. In addition, the Commission shall also consider the feasibility of requiring such licensed operator to pass a requalification test every six months including—
 
 &emsp;“(i) written questions, and
 

@@ -32,7 +32,7 @@
 
 #### (2) Provision of information
 
-&emsp;To assist the Secretary in carrying out the responsibilities of the Secretary under this section, the Secretary may require States to provide relevant information, including the information required under subsection (d).
+&emsp;To assist the Secretary in carrying out the responsibilities of the Secretary under thissection, the Secretary may require States to provide relevant information, including the information required under subsection (d).
 
 #### (c) Corrective action and sanctions
 
@@ -94,9 +94,5 @@ This chapter (as in effect on the day before October 25, 2004) shall apply to fu
 
 #### References in Text
 
-The General Education Provisions Act, referred to in subsec. (e), is title IV of Pub. L. 90–247, Jan. 2, 1968, 81 Stat. 814, as amended. Part D of the Act is classified generally to subchapter IV (§1234 et seq.) of chapter 31 of Title 20, Education. For complete classification of this Act to the Code, see section 1221 of Title 20 and Tables.
-
-#### Change of Name
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+The General Education Provisions Act, referred to in subsec. (e), is title IV of Pub. L. 90–247, Jan. 2, 1968, 81 Stat. 814. Part D of the Act is classified generally to subchapter IV (§1234 et seq.) of chapter 31 of Title 20, Education. For complete classification of this Act to the Code, see section 1221 of Title 20 and Tables.
 

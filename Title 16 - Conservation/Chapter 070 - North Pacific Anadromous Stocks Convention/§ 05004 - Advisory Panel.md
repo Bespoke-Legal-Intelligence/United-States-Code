@@ -28,7 +28,7 @@ The Advisory Panel shall be invited to all nonexecutive meetings of the United S
 
 The members of the Advisory Panel shall receive no compensation or travel expenses for their services as such members.
 
-(Pub. L. 102–567, title VIII, §805, Oct. 29, 1992, 106 Stat. 4311; Pub. L. 102–587, title VIII, §8005, Nov.4, 1992, 106 Stat. 5100; Pub. L. 106–562, title III, §304(a), Dec. 23, 2000, 114 Stat. 2806.)
+(Pub. L. 102–567, title VIII, §805, Oct. 29, 1992, 106 Stat. 4311; Pub. L. 102–587, title VIII, §8005, Nov. 4, 1992, 106 Stat. 5100; Pub. L. 106–562, title III, §304(a), Dec. 23, 2000, 114 Stat. 2806.)
 
 #### Codification
 

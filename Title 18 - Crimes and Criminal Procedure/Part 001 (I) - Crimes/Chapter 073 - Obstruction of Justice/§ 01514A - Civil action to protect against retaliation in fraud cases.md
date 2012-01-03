@@ -4,7 +4,7 @@
 
 Whistleblower Protection for Employees of Publicly Traded Companies.—No company with a class of securities registered under section 12 of the Securities Exchange Act of 1934 (15 U.S.C. 78<i>l</i>), or that is required to file reports under section 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78<i>o</i>(d)) including any subsidiary or affiliate whose financial information is included in the consolidated financial statements of such company, or nationally recognized statistical rating organization (as defined in section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c),<sup>1</sup> or any officer, employee, contractor, subcontractor, or agent of such company or nationally recognized statistical rating organization, may discharge, demote, suspend, threaten, harass, or in any other manner discriminate against an employee in the terms and conditions of employment because of any lawful act done by the employee—
 
-&emsp;(1) to provide information, cause information to be provided, or otherwise assist in an investigation regarding any conduct which the employee reasonably believes constitutes a violation of section 1341, 1343, 1344, or 1348, any rule or regulation of the Securities and Exchange Commission, or any provision of Federal law relating to fraud against shareholders, when the information or assistance is provided to or the investigation is conducted by—
+&emsp;(1) to provide information, cause information to be provided, or otherwise assist in aninvestigation regarding any conduct which the employee reasonably believes constitutes a violation of section 1341, 1343, 1344, or 1348, any rule or regulation of the Securities and Exchange Commission, or any provision of Federal law relating to fraud against shareholders, when the information or assistance is provided to or the investigation is conducted by—
 
 &emsp;&emsp;(A) a Federal regulatory or law enforcement agency;
 
@@ -24,7 +24,7 @@ In general.—A person who alleges discharge or other discrimination by any pers
 
 &emsp;&emsp;(A) filing a complaint with the Secretary of Labor; or
 
-&emsp;&emsp;(B) if the Secretary has not issued a final decision within 180 days of the filing of thecomplaint and there is no showing that such delay is due to the bad faith of the claimant, bringing an action at law or equity for de novo review in the appropriate district court of the United States, which shall have jurisdiction over such an action without regard to the amount in controversy.
+&emsp;&emsp;(B) if the Secretary has not issued a final decision within 180 days of the filing of the complaint and there is no showing that such delay is due to the bad faith of the claimant, bringing an action at law or equity for de novo review in the appropriate district court of the United States, which shall have jurisdiction over such an action without regard to the amount in controversy.
 
 &emsp;(2)
 

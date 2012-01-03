@@ -12,7 +12,7 @@ For purposes of this chapter—
 
 &emsp;&emsp;(B) all associated aquatic habitats, including the adjacent wetlands, marshes, estuaries, inlets, and nearshore waters;
 
-> &emsp;but only if such feature and associated habitats contain few manmade structures and these structures, and man's activities on such feature and within such habitats, do not significantly impede geomorphic and ecological processes.
+> &emsp;but only if such feature and associated habitats contain few manmade structures and these structures, and man's activities on suchfeature and within such habitats, do not significantly impede geomorphic and ecological processes.
 
 &emsp;(2) The term “Committees” means the Committee on Resources of the House of Representatives and the Committee on Environment and Public Works of the Senate.
 

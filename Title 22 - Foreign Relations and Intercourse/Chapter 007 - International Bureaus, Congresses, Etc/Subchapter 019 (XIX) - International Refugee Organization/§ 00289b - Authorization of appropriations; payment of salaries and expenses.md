@@ -2,7 +2,7 @@
 
 There is hereby authorized to be appropriated annually to the Department of State—
 
-&emsp;(a) such sums, not to exceed $73,325,000 for the fiscal year beginning July 1, 1947, as may be necessary for the payment of United States contributions to the Organization (consisting of supplies, services, or funds and all necessary expenses related thereto) as determined in accordance with article 10 of the constitution of the Organization; and
+&emsp;(a) such sums, not to exceed $73,325,000 for the fiscal year beginning July 1, 1947, as may be necessary for the payment of United States contributions to the Organization (consistingof supplies, services, or funds and all necessary expenses related thereto) as determined in accordance with article 10 of the constitution of the Organization; and
 
 &emsp;(b) such sums, not to exceed $175,000 for the fiscal year beginning July 1, 1947, as may be necessary for the payment of—
 

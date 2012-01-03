@@ -14,7 +14,7 @@ Section 6055c, Pub. L. 103–227, title IX, §1024, formerly Pub. L. 89–10, ti
 
 Section 6055d, Pub. L. 103–227, title IX, §1025, formerly Pub. L. 89–10, title XIII, §13305, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3885; renumbered Pub. L. 103–227, title IX, §1025, and amended Pub. L. 107–110, title X, §§1023(a),(b), 1025(a)(13), Jan. 8, 2002, 115 Stat. 1987, 1988, related to payments and Federal and non-Federal shares.
 
-Section 6055e, Pub. L. 103–227, title IX, §1026, formerly Pub. L. 89–10, title XIII, §13306, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3885; renumbered Pub. L. 103–227, title IX, §1026, and amended Pub. L.107–110, title X, §§1023(a),(b), 1025(a)(22), Jan. 8, 2002, 115 Stat. 1987, 1989, related to evaluations and reports.
+Section 6055e, Pub. L. 103–227, title IX, §1026, formerly Pub. L. 89–10, title XIII, §13306, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3885; renumbered Pub. L. 103–227, title IX, §1026, and amended Pub. L. 107–110, title X, §§1023(a),(b), 1025(a)(22), Jan. 8, 2002, 115 Stat. 1987, 1989, related to evaluations and reports.
 
 Section 6055f, Pub. L. 103–227, title IX, §1027, formerly Pub. L. 89–10, title XIII, §13307, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3886; renumbered Pub. L. 103–227, title IX, §1027, and amended Pub. L. 107–110, title X, §§1023(a),(b), 1025(a)(4), (12) Jan. 8, 2002, 115 Stat. 1987, 1988, defined terms for purposes of this part.
 

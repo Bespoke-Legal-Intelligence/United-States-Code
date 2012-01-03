@@ -66,19 +66,19 @@ References to the Philippine Islands in subsec. (f) of this section were omitted
 
 #### Amendments
 
-1949—Subsec. (a). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
+<b>1949</b>—Subsec. (a). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
 
-1947—Subsec. (b)(2). Act Aug. 1, 1947, among other changes inserted subpar. (i), designated former first and second sentences of subsection as subpar. (ii) and inserted last sentence relating to the payment of assessments for the maintenance and functioning of such authority thereto, and designated former third and fourth sentences of subsection as subpar. (iii).
+<b>1947</b>—Subsec. (b)(2). Act Aug. 1, 1947, among other changes inserted subpar. (i), designated former first and second sentences of subsection as subpar. (ii) and inserted last sentence relating to the payment of assessments for the maintenance and functioning of such authority thereto, and designated former third and fourth sentences of subsection as subpar. (iii).
 
-1937—Subsec. (c). Act June 3, 1937, §2(g), struck out last clause of first sentence which related to regulations establishing conversion factors for any commodity and article processed therefrom to determine the amount of tax imposed or refunds to be made with respect thereto.
+<b>1937</b>—Subsec. (c). Act June 3, 1937, §2(g), struck out last clause of first sentence which related to regulations establishing conversion factors for any commodity and article processed therefrom to determine the amount of tax imposed or refunds to be made with respect thereto.
 
 Subsec. (f). Act June 3, 1937, §2(b), struck out sentence which authorized the President to attach by executive order any or all possessions to any internal-revenue district for the purpose of carrying out provisions with respect to the collection of taxes.
 
 Subsec. (j). Act June 3, 1937, §2(i), added subsec. (j).
 
-1936—Subsec. (d). Act June 22, 1936, reenacted subsec. (d) for refund purposes.
+<b>1936</b>—Subsec. (d). Act June 22, 1936, reenacted subsec. (d) for refund purposes.
 
-1935—Subsec. (b). Act Aug. 24, 1935, §16, among other changes inserted “The Secretary, in the administration of this chapter, shall accord such recognition and encouragement to producer-owned and producer-controlled cooperative associations as will be in harmony with the policy toward cooperative associations set forth in existing Acts of Congress, and as will tend to promote efficient methods of marketing and distribution.
+<b>1935</b>—Subsec. (b). Act Aug. 24, 1935, §16, among other changes inserted “The Secretary, in the administration of this chapter, shall accord such recognition and encouragement to producer-owned and producer-controlled cooperative associations as will be in harmony with the policy toward cooperative associations set forth in existing Acts of Congress, and as will tend to promote efficient methods of marketing and distribution.
 
 “(2) Each order issued by the Secretary under this chapter shall provide that each handler subject thereto shall pay to any authority or agency established under such order such handler's pro rata share (as approved by the Secretary) of such expenses as the Secretary may find will necessarily be incurred by such authority or agency, during any period specified by him, for the maintenance and functioning of such authority or agency, other than expenses incurred in receiving, handling, holding, or disposing of any quantity of a commodity received, handled, held, or disposed of by such authority or agency for the benefit or account of persons other than handlers subject to such order. The pro rata share of the expenses payable by a cooperative association of producers shall be computed on the basis of the quantity of the agricultural commodity or product thereof covered by such order which is distributed, processed, or shipped by such cooperative association of producers. Any such authority or agency may maintain in its own name, or in the names of its members, a suit against any handler subject to an order for the collection of such handler's pro rata share of expenses. The several District Courts of the United States are hereby vested with jurisdiction to entertain such suits regardless of the amount in controversy.”
 
@@ -88,9 +88,9 @@ Subsec. (f). Act Aug. 26, 1935, inserted sentence authorizing the President to a
 
 Subsec. (i). Act Aug. 24, 1935, §18, added subsec. (i).
 
-1934—Subsec. (f). Act May 9, 1934, inserted exception provision.
+<b>1934</b>—Subsec. (f). Act May 9, 1934, inserted exception provision.
 
-1933—Subsec. (a). Act June 16, 1933, inserted “<i>And provided further</i>, That the State Administrator appointed to administer this chapter in each State shall be appointed by the President, by and with the advice and consent of the Senate” at end of first sentence.
+<b>1933</b>—Subsec. (a). Act June 16, 1933, inserted “<i>And provided further</i>, That the State Administrator appointed to administer this chapter in each State shall be appointed by the President, by and with the advice and consent of the Senate” at end of first sentence.
 
 #### Repeals
 

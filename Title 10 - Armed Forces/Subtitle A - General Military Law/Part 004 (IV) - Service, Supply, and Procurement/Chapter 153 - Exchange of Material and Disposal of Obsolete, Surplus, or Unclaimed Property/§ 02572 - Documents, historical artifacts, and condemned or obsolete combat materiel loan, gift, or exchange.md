@@ -6,7 +6,7 @@
 
 &emsp;(2) A servicemen's monument association.
 
-&emsp;(3) A museum, historical society, or historical institution of a State or a foreign nation or a nonprofit military aviation heritage foundation or association incorporated in a State.
+&emsp;(3) A museum, historical society, or historical institution of a State or a foreign nationor a nonprofit military aviation heritage foundation or association incorporated in a State.
 
 &emsp;(4) An incorporated museum or memorial that is operated and maintained for educational purposes only and the charter of which denies it the right to operate for profit.
 
@@ -38,7 +38,7 @@
 
 (B) The Secretary concerned may, without cost to the recipient, demilitarize, prepare, and transport in the continental United States for donation to a recognized war veterans’ association an item authorized to be donated under this section if the Secretary determines the demilitarization, preparation, and transportation can be accomplished as a training mission without additional budgetary requirements for the unit involved.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 143; Pub. L. 96–513, title V, §511(82), Dec. 12, 1980, 94 Stat. 2927; Pub. L. 100–456, div. A, title III, §324(a), Sept. 29, 1988, 102 Stat. 1954; Pub. L. 101–510, div. A, title III, §325, Nov. 5, 1990, 104 Stat. 1531; Pub. L. 102–484, div. A, title III, §373, Oct. 23, 1992, 106 Stat. 2385; Pub. L. 103–337, div. A, title X, §1071, Oct. 5, 1994, 108 Stat. 2859; Pub. L. 104–106, div. A, title III, §372, Feb. 10, 1996, 110 Stat. 280; Pub. L. 107–107, div. A, title X, §1043(d), Dec. 28, 2001, 115 Stat. 1219; Pub. L. 107–217, §3(b)(9), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L.107–314, div. A, title III, §369, Dec. 2, 2002, 116 Stat. 2524; Pub. L. 110–417, \[div. A\], title III, §352, Oct. 14, 2008, 122 Stat. 4425.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 143; Pub. L. 96–513, title V, §511(82), Dec. 12, 1980, 94 Stat. 2927; Pub. L. 100–456, div. A, title III, §324(a), Sept. 29, 1988, 102 Stat. 1954; Pub. L. 101–510, div. A, title III, §325, Nov. 5, 1990, 104 Stat. 1531; Pub. L. 102–484, div. A, title III, §373, Oct. 23, 1992, 106 Stat. 2385; Pub. L. 103–337, div. A, title X, §1071, Oct. 5, 1994, 108 Stat. 2859; Pub. L. 104–106, div. A, title III, §372, Feb. 10, 1996, 110 Stat. 280; Pub. L. 107–107, div. A, title X, §1043(d), Dec. 28, 2001, 115 Stat. 1219; Pub. L. 107–217, §3(b)(9), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title III, §369, Dec. 2, 2002, 116 Stat. 2524; Pub. L. 110–417, \[div. A\], title III, §352, Oct. 14, 2008, 122 Stat. 4425.)
 
 Historical and Revision Notes
 
@@ -74,7 +74,7 @@ Subsec. (a)(2). Pub. L. 107–107, §1043(d)(2), substituted “servicemen's mon
 
 Subsec. (a)(4). Pub. L. 107–107, §1043(d)(3), inserted “or memorial” after “An incorporated museum”.
 
-<b>1996</b>—Subsec. (b)(1). Pub. L. 104–106 substituted “not needed by the armed forces for any of the following items or services if such items or services directly benefit the historical collection of the armed forces:” for “not needed by the armed forces for similar items held by any individual, organization, institution, agency, or nation or for search, salvage, transportation, and restoration services which directly benefit the historical collection of the armed forces.” and added subpars. (A) to (E).
+<b>1996</b>—Subsec. (b)(1). Pub. L. 104–106 substituted “not needed by the armed forces for any of the followingitems or services if such items or services directly benefit the historical collection of the armed forces:” for “not needed by the armed forces for similar items held by any individual, organization, institution, agency, or nation or for search, salvage, transportation, and restoration services which directly benefit the historical collection of the armed forces.” and added subpars. (A) to (E).
 
 <b>1994</b>—Subsec. (b)(1). Pub. L. 103–337 inserted “transportation,” after “salvage,”.
 

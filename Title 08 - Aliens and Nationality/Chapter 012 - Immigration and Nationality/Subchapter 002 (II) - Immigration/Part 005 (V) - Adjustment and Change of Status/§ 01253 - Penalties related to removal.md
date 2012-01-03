@@ -22,7 +22,7 @@
 
 #### (3) Suspension
 
-&emsp;The court may for good cause suspend the sentence of an alien under this subsection andorder the alien's release under such conditions as the court may prescribe. In determining whether good cause has been shown to justify releasing the alien, the court shall take into account such factors as—
+&emsp;The court may for good cause suspend the sentence of an alien under this subsection and order the alien's release under such conditions as the court may prescribe. In determining whether good cause has been shown to justify releasing the alien, the court shall take into account such factors as—
 
 &emsp;&emsp;(A) the age, health, and period of detention of the alien;
 
@@ -74,7 +74,7 @@ On being notified by the Attorney General that the government of a foreign count
 
 #### Amendments
 
-1996—Pub. L. 104–208 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (h) relating to countries to which aliens were to be deported.
+<b>1996</b>—Pub. L. 104–208 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (h) relating to countries to which aliens were to be deported.
 
 Subsec. (h)(2). Pub. L. 104–132, §413(a), inserted at end “For purposes of subparagraph (D), an alien who is described in section 1251(a)(4)(B) of this title shall be considered to be an alien for whom there are reasonable grounds for regarding as a danger to the security of the United States.”
 
@@ -84,17 +84,17 @@ Subsec. (h)(3). Pub. L. 104–132, §413(f), added par. (3) which read as follow
 
 &emsp;“(B) the application of paragraph (1) to such alien is necessary to ensure compliance with the 1967 United Nations Protocol Relating to the Status of Refugees.”
 
-1990—Subsec. (h)(1). Pub. L. 101–649, §603(b)(3), substituted “1251(a)(4)(D)” for “1251(a)(19)”.
+<b>1990</b>—Subsec. (h)(1). Pub. L. 101–649, §603(b)(3), substituted “1251(a)(4)(D)” for “1251(a)(19)”.
 
 Subsec. (h)(2). Pub. L. 101–649, §515(a)(2), inserted sentence at end relating to aliens who have been convicted of aggravated felonies.
 
-1981—Subsec. (a). Pub. L. 97–116 inserted a comma after “subject” in fourth sentence.
+<b>1981</b>—Subsec. (a). Pub. L. 97–116 inserted a comma after “subject” in fourth sentence.
 
-1980—Subsec. (h). Pub. L. 96–212 substituted provisions relating to deportation or return of an alien where the Attorney General determines that the return would threaten the life or freedom of the alien on account of race, religion, nationality, membership in a particular social group, or political opinion, for provisions relating to withholding of deportation for any necessary period of time where the Attorney General decides the alien would be subject to persecution on account of race, religion, or political opinion.
+<b>1980</b>—Subsec. (h). Pub. L. 96–212 substituted provisions relating to deportation or return of an alien where the Attorney General determines that the return would threaten the life or freedom of the alien on account of race, religion, nationality, membership in a particular social group, or political opinion, for provisions relating to withholding of deportation for any necessary period of time where the Attorney General decides the alien would be subject to persecution on account of race, religion, or political opinion.
 
-1978—Subsec. (h). Pub. L. 95–549 inserted “(other than an alien described in section 1251(a) of this title)” before “within the United States”.
+<b>1978</b>—Subsec. (h). Pub. L. 95–549 inserted “(other than an alien described in section 1251(a) of this title)” before “within the United States”.
 
-1965—Subsec. (h). Pub. L. 89–236 substituted “persecution on account of race, religion, or political opinion” for “physical persecution”.
+<b>1965</b>—Subsec. (h). Pub. L. 89–236 substituted “persecution on account of race, religion, or political opinion” for “physical persecution”.
 
 #### Effective Date of 1996 Amendments
 

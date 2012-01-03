@@ -382,7 +382,7 @@ Employer Requirements.—An employer who wants to employ employees at the wage a
 
 &emsp;“(1) notify the Secretary annually of the positions at which such employees are to be employed at such wage,
 
-&emsp;“(2) provide on-the-job training to such employees which meets general criteria of the Secretary issued by regulation after consultation with the Committee on Labor and Human Resources \[now Committee on Health, Education, Labor, and Pensions\] of the Senate and the Committee on Education and Labor of the House of Representatives and other interested persons,
+&emsp;“(2) provide on-the-job training to such employees which meets general criteria of the Secretary issued by regulation after consultation with the Committee on Labor and Human Resources \[now Committee on Health, Education, Labor, and Pensions\] of the Senate and the Committee on Education and Labor \[now Committee on Education and the Workforce\] of the House of Representatives and other interested persons,
 
 &emsp;“(3) keep on file a copy of the training program which the employer will provide such employees,
 

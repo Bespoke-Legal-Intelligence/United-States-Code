@@ -64,7 +64,7 @@ Subject to the availability of funds appropriated under section 2027 of this tit
 
 #### (E) Report
 
-&emsp;&emsp;Not later than 1 year after the date of enactment of this paragraph, and annually thereafter, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the activities carried out under this paragraph during the preceding calendar year.
+&emsp;&emsp;Not later than 1 year after the date of enactment of this paragraph, and annually thereafter, the Secretary shall submit to theCommittee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the activities carried out under this paragraph during the preceding calendar year.
 
 #### (F) Authorization of appropriations
 
@@ -74,7 +74,7 @@ Subject to the availability of funds appropriated under section 2027 of this tit
 
 The Secretary shall issue such regulations consistent with this chapter as the Secretary deems necessary or appropriate for the effective and efficient administration of the supplemental nutrition assistance program and shall promulgate all such regulations in accordance with the procedures set forth in section 553 of title 5. In addition, prior to issuing any regulation, the Secretary shall provide the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a copy of the regulation with a detailed statement justifying it.
 
-(Pub. L. 88–525, §4, Aug. 31, 1964, 78 Stat. 704; Pub. L. 91–671, §3, Jan. 11, 1971, 84 Stat. 2049; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 961; Pub. L. 99–198, title XV, §§1505(a), 1506, Dec. 23, 1985, 99 Stat. 1567; Pub. L. 110–234, title IV, §§4001(b), 4002(a)(1), 4111(a), 4115(b)(2), 4211(a),May 22, 2008, 122 Stat. 1092, 1102, 1106, 1122; Pub. L. 110–246, §4(a), title IV, §§4001(b), 4002(a)(1), 4111(a), 4115(b)(2), 4211(a), June 18, 2008, 122 Stat. 1664, 1853, 1863, 1867, 1884; Pub. L. 111–296, title II, §241(b)(1), Dec. 13, 2010, 124 Stat. 3236.)
+(Pub. L. 88–525, §4, Aug. 31, 1964, 78 Stat. 704; Pub. L. 91–671, §3, Jan. 11, 1971, 84 Stat. 2049; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 961; Pub. L. 99–198, title XV, §§1505(a), 1506, Dec. 23, 1985, 99 Stat. 1567; Pub. L. 110–234, title IV, §§4001(b), 4002(a)(1), 4111(a), 4115(b)(2), 4211(a), May 22, 2008, 122 Stat. 1092, 1102, 1106, 1122; Pub. L. 110–246, §4(a), title IV, §§4001(b), 4002(a)(1), 4111(a), 4115(b)(2), 4211(a), June 18, 2008, 122 Stat. 1664, 1853, 1863, 1867, 1884; Pub. L. 111–296, title II, §241(b)(1), Dec. 13, 2010, 124 Stat. 3236.)
 
 #### References in Text
 
@@ -86,9 +86,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2010—Subsec. (a). Pub. L. 111–296 struck out “and, through an approved State plan, nutrition education” after “issuance to them of an allotment” in first sentence.
+<b>2010</b>—Subsec. (a). Pub. L. 111–296 struck out “and, through an approved State plan, nutrition education” after “issuance to them of an allotment” in first sentence.
 
-2008—Pub. L. 110–246, §4002(a)(1), substituted “supplemental nutrition assistance program” for “food stamp program” in section catchline.
+<b>2008</b>—Pub. L. 110–246, §4002(a)(1), substituted “supplemental nutrition assistance program” for “food stamp program” in section catchline.
 
 Subsec. (a). Pub. L. 110–246, §4115(b)(2), substituted “benefits” for “coupons” in two places and “benefits issued” for “Coupons issued”.
 
@@ -100,17 +100,17 @@ Subsec. (b). Pub. L. 110–246, §4211(a), added subsec. (b) and struck out form
 
 Subsec. (c). Pub. L. 110–246, §4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
 
-1985—Subsec. (a). Pub. L. 99–198, §1505(a), inserted “, except that a State may not participate in the food stamp program if the Secretary determines that State or local sales taxes are collected within that State on purchases of food made with coupons issued under this chapter” at end of first sentence.
+<b>1985</b>—Subsec. (a). Pub. L. 99–198, §1505(a), inserted “, except that a State may not participate in the food stamp program if the Secretary determines that State or local sales taxes are collected within that State on purchases of food made with coupons issued under this chapter” at end of first sentence.
 
 Subsec. (b). Pub. L. 99–198, §1506, struck out first sentence which directed that in jurisdictions where the food stamp program is in operation, there shall be no distribution of federally donated foods to households under the authority of any law, except that distribution may be made (1) on a temporary basis under programs authorized by law to meet disaster relief needs, or (2) for the purpose of the commodity supplemental food program, and struck out “also” after “shall” in second sentence.
 
-1977—Subsec. (a). Pub. L. 95–113 made establishment of food stamp program subject to availability of funds appropriated under section 2027 of this title.
+<b>1977</b>—Subsec. (a). Pub. L. 95–113 made establishment of food stamp program subject to availability of funds appropriated under section 2027 of this title.
 
 Subsec. (b). Pub. L. 95–113 inserted provisions relating to requests by tribal organizations.
 
 Subsec. (c). Pub. L. 95–113 inserted provisions relating to transmittal of regulations and accompanying statement of justification to Congressional committees.
 
-1971—Subsec. (a). Pub. L. 91–671 substituted “the State agency” and “the charge to be paid for such allotment by eligible households” for “an appropriate State agency” and “their normal expenditures for food”, respectively, and struck out “more nearly” before “to obtain”.
+<b>1971</b>—Subsec. (a). Pub. L. 91–671 substituted “the State agency” and “the charge to be paid for such allotment by eligible households” for “an appropriate State agency” and “their normal expenditures for food”, respectively, and struck out “more nearly” before “to obtain”.
 
 Subsec. (b). Pub. L. 91–671 substituted “operation” for “effect”, “federally donated foods” for “federally owned foods” where first appearing, and exception provision for distributions to households: during temporary emergency situations, for period of time necessary to effect transition to a food stamp program as a replacement of distribution of federally donated foods, or on request of the State agency without simultaneous participation in both the food stamp program and distribution of federally donated foods for prior exception during emergency situations caused by a national or other disaster.
 

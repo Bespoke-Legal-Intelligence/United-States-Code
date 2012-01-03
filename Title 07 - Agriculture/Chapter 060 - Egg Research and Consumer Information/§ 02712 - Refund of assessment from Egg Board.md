@@ -40,5 +40,5 @@ Notwithstanding any other provisions of this chapter except as provided in subse
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–575 designated existing provisions as subsec. (a), inserted “except as provided in subsection (b) of this section”, and added subsec. (b).
+<b>1988</b>—Subsec. (a). Pub. L. 100–575 designated existing provisions as subsec. (a), inserted “except as provided in subsection (b) of this section”, and added subsec. (b).
 

@@ -112,7 +112,7 @@ Subsec. (e). Pub. L. 105–244, §306(b)(2), added subsec. (e).
 
 <b>1994</b>—Subsec. (b)(8)(A). Pub. L. 103–382, §360C(1)(A), inserted before semicolon “, with each eligible institution required to maintain in the escrow account an amount equal to 10 percent of the outstanding principal of all loans made to such institution under this part”.
 
-Subsec. (b)(8)(B)(ii). Pub. L. 103–382, §360C(1)(B), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “when all bonds under this part are retired or canceled, shall be divided among the eligible institutions making deposits into such account on the basis of the amount of each such institution's deposit;”.
+Subsec. (b)(8)(B)(ii). Pub. L. 103–382, §360C(1)(B), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “when all bonds under this part are retired or canceled, shall be divided among the eligibleinstitutions making deposits into such account on the basis of the amount of each such institution's deposit;”.
 
 Subsec. (b)(11). Pub. L. 103–382, §360C(2), substituted “conditions” for “regulations”.
 

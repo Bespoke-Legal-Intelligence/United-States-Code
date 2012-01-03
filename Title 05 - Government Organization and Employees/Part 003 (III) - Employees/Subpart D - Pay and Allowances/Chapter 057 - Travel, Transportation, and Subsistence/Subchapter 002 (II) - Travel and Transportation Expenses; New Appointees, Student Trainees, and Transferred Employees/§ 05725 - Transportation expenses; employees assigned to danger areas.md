@@ -32,5 +32,5 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–264 substituted “Government” for “United States” in introductory provisions.
+<b>1998</b>—Subsec. (a). Pub. L. 105–264 substituted “Government” for “United States” in introductory provisions.
 

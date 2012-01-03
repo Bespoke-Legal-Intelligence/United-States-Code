@@ -2,7 +2,7 @@
 
 #### (a) New accounts
 
-Notwithstanding section 4002 of this title, in the case of any account established at a depository institution by a new depositor, the following provisions shall apply with respect to any deposit in such account during the 30-day period (or such shorter period as the Board may establish) beginning on the date such account is established—
+Notwithstanding section 4002 of this title, in the case of any account established at a depository institution by a new depositor, the following provisions shall apply with respect to any deposit in such account during the 30-day period (or such shorter period as the Board, jointly with the Director of the Bureau of Consumer Financial Protection, may establish) beginning on the date such account is established—
 
 #### (1) Next business day availability of cash and certain items
 
@@ -32,7 +32,7 @@ Notwithstanding section 4002 of this title, in the case of any account establish
 
 #### (b) Large or redeposited checks; repeated overdrafts
 
-The Board may, by regulation, establish reasonable exceptions to any time limitation established under subsection (a)(2), (b), (c), or (e) of section 4002 of this title for—
+The Board, jointly with the Director of the Bureau of Consumer Financial Protection, may, by regulation, establish reasonable exceptions to any time limitation established under subsection (a)(2), (b), (c), or (e) of section 4002 of this title for—
 
 &emsp;(1) the amount of deposits by one or more checks that exceeds the amount of $5,000 in any one day;
 
@@ -44,7 +44,7 @@ The Board may, by regulation, establish reasonable exceptions to any time limita
 
 #### (1) In general
 
-&emsp;In accordance with regulations which the Board shall prescribe, subsections (a)(2), (b), (c), and (e) of section 4002 of this title shall not apply with respect to any check deposited in an account at a depository institution if the receiving depository institution has reasonable cause to believe that the check is uncollectible from the originating depository institution. For purposes of the preceding sentence, reasonable cause to believe requires the existence of facts which would cause a well-grounded belief in the mind of a reasonable person. Such reasons shall be included in the notice required under subsection (f) of this section.
+&emsp;In accordance with regulations which the Board, jointly with the Director of the Bureau of Consumer Financial Protection, shall prescribe, subsections (a)(2), (b), (c), and (e) of section 4002 of this title shall not apply with respect to any check deposited in an account at a depository institution if the receiving depository institution has reasonable cause to believe that the check is uncollectible from the originating depository institution. For purposes of the preceding sentence, reasonable cause to believe requires the existence of facts which would cause a well-grounded belief in the mind of a reasonable person. Such reasons shall be included in the notice required under subsection (f) of this section.
 
 #### (2) Basis for determination
 
@@ -52,7 +52,7 @@ The Board may, by regulation, establish reasonable exceptions to any time limita
 
 #### (3) Overdraft fees
 
-&emsp;If the receiving depository institution determines that a check deposited in an account is a check described in paragraph (1), the receiving depository institution shall not assess any fee for any subsequent overdraft with respect to such account, if—
+&emsp;If the receiving depository institution determines that a check deposited in an account is a check described in paragraph (1), the receiving depository institution shall not assess anyfee for any subsequent overdraft with respect to such account, if—
 
 &emsp;&emsp;(A) the depositor was not provided with the written notice required under subsection (f) of this section (with respect to such determination) at the time the deposit was made;
 
@@ -66,7 +66,7 @@ The Board may, by regulation, establish reasonable exceptions to any time limita
 
 #### (d) Emergency conditions
 
-Subject to such regulations as the Board may prescribe, subsections (a)(2), (b), (c), and (e) of section 4002 of this title shall not apply to funds deposited by check in any receiving depository institution in the case of—
+Subject to such regulations as the Board, jointly with the Director of the Bureau of Consumer Financial Protection, may prescribe, subsections (a)(2), (b), (c), and (e) of section 4002 of this title shall not apply to funds deposited by check in any receiving depository institution in the case of—
 
 &emsp;(1) any interruption of communication facilities;
 
@@ -82,7 +82,7 @@ Subject to such regulations as the Board may prescribe, subsections (a)(2), (b),
 
 #### (1) In general
 
-&emsp;The Board may, by regulation or order, suspend the applicability of this chapter, or any portion thereof, to any classification of checks if the Board determines that—
+&emsp;The Board, jointly with the Director of the Bureau of Consumer Financial Protection, may, by regulation or order, suspend the applicability of this chapter, or any portion thereof, to any classification of checks if the Board, jointly with the Director of the Bureau of Consumer Financial Protection, determines that—
 
 &emsp;&emsp;(A) depository institutions are experiencing an unacceptable level of losses due to check-related fraud, and
 
@@ -96,7 +96,7 @@ Subject to such regulations as the Board may prescribe, subsections (a)(2), (b),
 
 #### (A) Notice of each suspension
 
-&emsp;&emsp;Within 10 days of prescribing any regulation or issuing any order under paragraph (1), the Board shall transmit a report of such action to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate.
+&emsp;&emsp;Within 10 days of prescribing any regulation or issuing any order under paragraph (1), the Board, jointly with the Director of the Bureau of Consumer Financial Protection, shall transmit a report of such action to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate.
 
 #### (B) Contents of report
 
@@ -104,7 +104,7 @@ Subject to such regulations as the Board may prescribe, subsections (a)(2), (b),
 
 &emsp;&emsp;&emsp;(i) the specific reason for prescribing the regulation or issuing the order;
 
-&emsp;&emsp;&emsp;(ii) evidence considered by the Board in making the determination under paragraph (1) with respect to such regulation or order; and
+&emsp;&emsp;&emsp;(ii) evidence considered by the Board, jointly with the Director of the Bureau of Consumer Financial Protection, in making the determination under paragraph (1) with respect to such regulation or order; and
 
 &emsp;&emsp;&emsp;(iii) specific examples of the check-related fraud giving rise to such regulation or order.
 
@@ -120,7 +120,7 @@ Subject to such regulations as the Board may prescribe, subsections (a)(2), (b),
 
 &emsp;&emsp;&emsp;(ii) the reason the exception was invoked; and
 
-&emsp;&emsp;(B) except where other time periods are specifically provided in this chapter, the availability of the funds deposited shall be governed by the policy of the receiving depository institution, but shall not exceed a reasonable period of time as determined by the Board.
+&emsp;&emsp;(B) except where other time periods are specifically provided in this chapter, the availability of the funds deposited shall be governed by the policy of the receiving depository institution, but shall not exceed a reasonable period of time as determined by the Board, jointly with the Director of the Bureau of Consumer Financial Protection.
 
 #### (2) Time for notice
 
@@ -130,9 +130,9 @@ Subject to such regulations as the Board may prescribe, subsections (a)(2), (b),
 
 &emsp;&emsp;(B) In the case of any other deposit (other than a deposit described in subparagraph (C)), the receiving depository institution shall mail the notice to the depositor not later than the close of the next business day following the business day on which the deposit is received.
 
-&emsp;&emsp;(C) In the case of a deposit to which subsection (d) or (e) of this section applies, notice shall be provided by the depository institution in accordance with regulations of the Board.
+&emsp;&emsp;(C) In the case of a deposit to which subsection (d) or (e) of this section applies, notice shall be provided by the depository institution in accordance with regulations of the Board, jointly with the Director of the Bureau of Consumer Financial Protection.
 
-&emsp;&emsp;(D) In the case of a deposit to which subsection (b)(1) or (b)(2) of this section applies,the depository institution may, for nonconsumer accounts and other classes of accounts, as defined by the Board, that generally have a large number of such deposits, provide notice at or before the time it first determines that the subsection applies.
+&emsp;&emsp;(D) In the case of a deposit to which subsection (b)(1) or (b)(2) of this section applies, the depository institution may, for nonconsumer accounts and other classes of accounts, as defined by the Board, that generally have a large number of such deposits, provide notice at or before the time it first determines that the subsection applies.
 
 &emsp;&emsp;(E) In the case of a deposit to which subsection (b)(3) of this section applies, the depository institution may, subject to regulations of the Board, provide notice at the beginning of each time period it determines that the subsection applies. In addition to the requirements contained in paragraph (1)(A), the notice shall specify the time period for which the exception will apply.
 
@@ -140,11 +140,15 @@ Subject to such regulations as the Board may prescribe, subsections (a)(2), (b),
 
 &emsp;If the facts upon which the determination of the applicability of an exception contained in subsection (b) or (c) of this section to any deposit only become known to the receiving depository institution after the time notice is required under paragraph (2) with respect to such deposit, the depository institution shall mail such notice to the depositor as soon as practicable, but not later than the first business day following the day such facts become known to the depository institution.
 
-(Pub. L. 100–86, title VI, §604, Aug. 10, 1987, 101 Stat. 642; Pub. L. 102–242, title II, §§225, 227(b)(2), Dec. 19, 1991, 105 Stat. 2307, 2308.)
+(Pub. L. 100–86, title VI, §604, Aug. 10, 1987, 101 Stat. 642; Pub. L. 102–242, title II, §§225, 227(b)(2), Dec. 19, 1991, 105 Stat. 2307, 2308; Pub. L. 111–203, title X, §1086(b), July 21, 2010, 124 Stat. 2085.)
 
 #### Amendments
 
-1991—Subsec. (a)(2). Pub. L. 102–242, §227(b)(2), struck out “and (2)” after “paragraphs (1)”.
+<b>2010</b>—Subsecs. (a) to (e). Pub. L. 111–203, §1086(b)(1), inserted “, jointly with the Director of the Bureau of Consumer Financial Protection,” after “Board” wherever appearing.
+
+Subsec. (f)(1)(B), (2)(C). Pub. L. 111–203, §1086(b)(2), substituted “Board, jointly with the Director of the Bureau of Consumer Financial Protection.” for “Board.”
+
+<b>1991</b>—Subsec. (a)(2). Pub. L. 102–242, §227(b)(2), struck out “and (2)” after “paragraphs (1)”.
 
 Subsec. (b). Pub. L. 102–242, §225(1), inserted “(a)(2),” after “subsection”.
 
@@ -159,6 +163,10 @@ Subsec. (f)(2)(D), (E). Pub. L. 102–242, §225(5), added subpars. (D) and (E).
 #### Change of Name
 
 Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date
 

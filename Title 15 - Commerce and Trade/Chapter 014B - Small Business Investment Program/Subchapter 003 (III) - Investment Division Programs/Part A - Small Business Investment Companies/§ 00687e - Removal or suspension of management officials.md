@@ -60,7 +60,7 @@ In this section, the term “management official” means an officer, director, 
 
 #### (1) In general
 
-&emsp;The Administrator may, if the Administrator deems it necessary for the protection of the licensee or the interests of the Administration, suspend from office or prohibit fromfurther participation in any manner in the management or conduct of the affairs of the licensee, or both, any management official referred to in subsection (b)(1) of this section, by written notice to such effect served upon the management official.
+&emsp;The Administrator may, if the Administrator deems it necessary for the protection of the licensee or the interests of the Administration, suspend from office or prohibit from further participation in any manner in the management or conduct of the affairs of the licensee, or both, any management official referred to in subsection (b)(1) of this section, by written notice to such effect served upon the management official.
 
 #### (2) Effectiveness
 
@@ -94,7 +94,7 @@ In this section, the term “management official” means an officer, director, 
 
 #### (4) Authority upon dismissal or other disposition
 
-&emsp;A finding of not guilty or other disposition of charges described in paragraph (1) shall not preclude the Administrator from thereafter instituting proceedings to suspend or remove the management official from office, or to prohibit the management official from participation in the management or conduct of the affairs of the licensee, or both, pursuant to subsection (b) or (c) of this section.
+&emsp;A finding of not guilty or other disposition of charges described in paragraph (1) shall notpreclude the Administrator from thereafter instituting proceedings to suspend or remove the management official from office, or to prohibit the management official from participation in the management or conduct of the affairs of the licensee, or both, pursuant to subsection (b) or (c) of this section.
 
 #### (e) Notification to licensees
 

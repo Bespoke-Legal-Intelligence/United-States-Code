@@ -1,6 +1,6 @@
 ### §4411. Establishment: purpose
 
-The Secretary of the Army may maintain schools and camps for the military instruction and training of persons selected, upon their application, from warrant officers and enlisted members of the Army and civilians, to qualify them for appointment as reserve officers, or enlistment as reserve noncommissioned officers, for service in the Army Reserve.
+The Secretary of the Army may maintain schools and camps for the military instruction and training of persons selected, upon their application, from warrant officers and enlistedmembers of the Army and civilians, to qualify them for appointment as reserve officers, or enlistment as reserve noncommissioned officers, for service in the Army Reserve.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 249.)
 

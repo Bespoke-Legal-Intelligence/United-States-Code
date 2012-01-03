@@ -76,7 +76,7 @@ The Board may enter into and perform such contracts as may be appropriate to car
 
 > The Board may permit donors to use the name of the Board or the name “Congressional Award Program” in advertising.
 
-(2) Except as otherwise provided in this chapter, the Board may not receive any Federalfunds or resources. The Board may benefit from in-kind and indirect resources provided by Offices of Members of Congress or the Congress. Further, the Board is not prohibited from receiving indirect benefits from efforts or activities undertaken in collaboration with entities which receive Federal funds or resources.
+(2) Except as otherwise provided in this chapter, the Board may not receive any Federal funds or resources. The Board may benefit from in-kind and indirect resources provided by Offices of Members of Congress or the Congress. Further, the Board is not prohibited from receiving indirect benefits from efforts or activities undertaken in collaboration with entities which receive Federal funds or resources.
 
 #### (f) Acceptance and utilization of services of voluntary, uncompensated personnel
 
@@ -112,7 +112,7 @@ The Board shall have no power—
 
 #### Amendments
 
-2010—Subsec. (a)(1). Pub. L. 111–200, §2(d), added par. (1) and struck out former par. (1) which read as follows: “the Board shall carry out its functions and make expenditures with only such resources as are available to the Board from sources other than the Federal Government; and”.
+<b>2010</b>—Subsec. (a)(1). Pub. L. 111–200, §2(d), added par. (1) and struck out former par. (1) which read as follows: “the Board shall carry out its functions and make expenditures with only such resources as are available to the Board from sources other than the Federal Government; and”.
 
 Subsec. (c)(4). Pub. L. 111–200, §2(e), added par. (4) and struck out former par. (4) which read as follows: “Each Statewide Council established pursuant to this section is authorized to receive public monetary and in-kind contributions, which may be made available to local boards to supplement or defray operating expenses. The Board shall adopt appropriate financial management methods in order to ensure the proper accounting of these funds.”
 
@@ -132,7 +132,7 @@ Subsec. (i). Pub. L. 111–200, §2(g), added subsec. (i) and struck out former 
 
 “(3) No director, officer, or employee of any corporation established under this subsection may receive compensation, travel expenses, or benefits from both the corporation and the Board.”
 
-1990—Subsec. (a). Pub. L. 101–525, §7(a), which directed the insertion of “(a)” after the section designation, was not executed in view of existing subsec. (a) designation.
+<b>1990</b>—Subsec. (a). Pub. L. 101–525, §7(a), which directed the insertion of “(a)” after the section designation, was not executed in view of existing subsec. (a) designation.
 
 Subsec. (b)(2)(C). Pub. L. 101–525, §7(b)(1)(A), substituted “conduct” for “conducting” and struck out “State and” after “new”.
 
@@ -154,11 +154,11 @@ Subsec. (e). Pub. L. 101–525, §7(b)(2), (c), redesignated subsec. (d) as (e) 
 
 Subsecs. (f) to (i). Pub. L. 101–525, §7(b)(2), redesignated subsecs. (e) to (h) as (f) to (i), respectively.
 
-1988—Pub. L. 100–674, §2(c)(1), substituted “Powers, functions, and limitations” for “Powers and limitations of Board” in section catchline.
+<b>1988</b>—Pub. L. 100–674, §2(c)(1), substituted “Powers, functions, and limitations” for “Powers and limitations of Board” in section catchline.
 
 Subsecs. (b) to (h). Pub. L. 100–674, §2(c)(2), added subsec. (b) and redesignated former subsecs. (b) to (g) as (c) to (h), respectively.
 
-1986—Subsec. (a)(2). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsec. (a)(2). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-1985—Subsec. (c). Pub. L. 99–161 inserted at end “The Board may permit donors to use the name of the Board or the name ‘Congressional Award Program’ in advertising.”
+<b>1985</b>—Subsec. (c). Pub. L. 99–161 inserted at end “The Board may permit donors to use the name of the Board or the name ‘Congressional Award Program’ in advertising.”
 

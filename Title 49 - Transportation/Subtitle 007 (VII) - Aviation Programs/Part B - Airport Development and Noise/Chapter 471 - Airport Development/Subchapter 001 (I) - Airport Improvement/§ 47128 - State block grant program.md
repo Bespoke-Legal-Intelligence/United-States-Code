@@ -14,7 +14,7 @@ Applications and Selection.—A State wishing to participate in the program must
 
 &emsp;(3) deciding the State uses a programming process acceptable to the Secretary;
 
-&emsp;(4) finding that the State has agreed to comply with United States Government standard requirements for administering the block grant; and
+&emsp;(4) finding that the State has agreed to comply with United States Government standardrequirements for administering the block grant; and
 
 &emsp;(5) finding that the State has agreed to provide the Secretary with program information the Secretary requires.
 

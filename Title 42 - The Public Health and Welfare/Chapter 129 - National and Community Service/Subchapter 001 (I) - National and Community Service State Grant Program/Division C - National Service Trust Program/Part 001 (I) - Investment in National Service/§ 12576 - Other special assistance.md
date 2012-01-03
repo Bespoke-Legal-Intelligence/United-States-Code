@@ -20,7 +20,7 @@
 
 #### (B) Amounts greater than $100,000
 
-&emsp;&emsp;For grant amounts of more than $100,000 and not more than $250,000 provided by the Corporation, the State shall agree to provide matching funds from non-Federal sources ofnot less than $1 for every $2 provided by the Corporation, in excess of $100,000.
+&emsp;&emsp;For grant amounts of more than $100,000 and not more than $250,000 provided by the Corporation, the State shall agree to provide matching funds from non-Federal sources of not less than $1 for every $2 provided by the Corporation, in excess of $100,000.
 
 #### (C) Amounts greater than $250,000
 

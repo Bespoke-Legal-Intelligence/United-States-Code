@@ -44,7 +44,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1997—Par. (2). Pub. L. 105–85 substituted “section 2108(3)(A)–(B)” for “section 2108(3)(A)”.
+<b>1997</b>—Par. (2). Pub. L. 105–85 substituted “section 2108(3)(A)–(B)” for “section 2108(3)(A)”.
 
-1967—Cl. (1). Pub. L. 90–83 substituted “section 2108(3)(C)–(G)” for “section 2108(3)(B)–(F).” See Historical and Revision Notes under section 3305 of this title.
+<b>1967</b>—Cl. (1). Pub. L. 90–83 substituted “section 2108(3)(C)–(G)” for “section 2108(3)(B)–(F).” See Historical and Revision Notes under section 3305 of this title.
 

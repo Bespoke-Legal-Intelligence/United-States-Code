@@ -62,17 +62,17 @@ Sections 302 and 303 of the Central Intelligence Agency Retirement Act, referred
 
 #### Amendments
 
-2007—Subsec. (a)(1)(B)(i), (3)(A). Pub. L. 110–161 inserted “customs and border protection officers,” after “nuclear materials couriers,” wherever appearing.
+<b>2007</b>—Subsec. (a)(1)(B)(i), (3)(A). Pub. L. 110–161 inserted “customs and border protection officers,” after “nuclear materials couriers,” wherever appearing.
 
-2006—Subsec. (b)(1)(B). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
+<b>2006</b>—Subsec. (b)(1)(B). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
 
-2000—Subsec. (a). Pub. L. 106–553 inserted “members of the Supreme Court Police,” after “law enforcement officers,” wherever appearing.
+<b>2000</b>—Subsec. (a). Pub. L. 106–553 inserted “members of the Supreme Court Police,” after “law enforcement officers,” wherever appearing.
 
-1998—Subsec. (a)(1)(B)(i), (3)(A). Pub. L. 105–261 inserted “nuclear materials couriers,” after “firefighters,” wherever appearing.
+<b>1998</b>—Subsec. (a)(1)(B)(i), (3)(A). Pub. L. 105–261 inserted “nuclear materials couriers,” after “firefighters,” wherever appearing.
 
-1996—Subsec. (a)(3)(C). Pub. L. 104–186 substituted “Chief Administrative Officer of the House of Representatives, from the applicable accounts of the House of Representatives” for “Clerk of the House of Representatives, from the contingent fund of the House”.
+<b>1996</b>—Subsec. (a)(3)(C). Pub. L. 104–186 substituted “Chief Administrative Officer of the House of Representatives, from the applicable accounts of the House of Representatives” for “Clerk of the House of Representatives, from the contingent fund of the House”.
 
-1992—Subsec. (a)(1)(B)(i). Pub. L. 102–496 substituted “the Central Intelligence Agency Retirement Act” for “the Central Intelligence Agency Retirement Act of 1964 for Certain Employees”.
+<b>1992</b>—Subsec. (a)(1)(B)(i). Pub. L. 102–496 substituted “the Central Intelligence Agency Retirement Act” for “the Central Intelligence Agency Retirement Act of 1964 for Certain Employees”.
 
 Pub. L. 102–378 substituted “multiplied” for “multipled”.
 

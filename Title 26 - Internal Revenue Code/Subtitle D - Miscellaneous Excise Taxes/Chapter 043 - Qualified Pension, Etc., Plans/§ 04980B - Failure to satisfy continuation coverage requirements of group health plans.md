@@ -188,11 +188,11 @@ This section shall not apply to—
 
 #### (V) Special rule for PBGC recipients
 
-&emsp;&emsp;&emsp;&emsp;In the case of a qualifying event described in paragraph (3)(B) with respect to a covered employee who (as of such qualifying event) has a nonforfeitable right to a benefit any portion of which is to be paid by the Pension Benefit Guaranty Corporation under title IV of the Employee Retirement Income Security Act of 1974, notwithstanding subclause (I) or (II), the date of the death of the covered employee, or in the case of the surviving spouse or dependent children of the covered employee, 24 months after the date of the death of the covered employee. The preceding sentence shall not require any period of coverage to extend beyond February 12, 2011.
+&emsp;&emsp;&emsp;&emsp;In the case of a qualifying event described in paragraph (3)(B) with respect to a covered employee who (as of such qualifying event) has a nonforfeitable right to a benefit any portion of which is to be paid by the Pension Benefit Guaranty Corporation under title IV of the Employee Retirement Income Security Act of 1974, notwithstanding subclause (I) or (II), the date of the death of the covered employee, or in the case of the surviving spouse or dependent children of the covered employee, 24 months after the date of the death of the covered employee. The preceding sentence shall not require any period of coverage to extend beyond January 1, 2014.
 
 #### (VI) Special rule for TAA-eligible individuals
 
-&emsp;&emsp;&emsp;&emsp;In the case of a qualifying event described in paragraph (3)(B) with respect to a covered employee who is (as of the date that the period of coverage would, but for this subclause or subclause (VII), otherwise terminate under subclause (I) or (II)) a TAA-eligible individual (as defined in paragraph (5)(C)(iv)(II)), the period of coverage shall not terminate by reason of subclause (I) or (II), as the case may be, before the later of the date specified in such subclause or the date on which such individual ceases to be such a TAA-eligible individual. The preceding sentence shall not require any period of coverage to extend beyond February 12, 2011.
+&emsp;&emsp;&emsp;&emsp;In the case of a qualifying event described in paragraph (3)(B) with respect to a covered employee who is (as of the date that the period of coverage would, but for this subclause or subclause (VII), otherwise terminate under subclause (I) or (II)) a TAA-eligible individual (as defined in paragraph (5)(C)(iv)(II)), the period of coverage shall not terminate by reason of subclause (I) or (II), as the case may be, before the later of the date specified in such subclause or the date on which such individual ceases to be such a TAA-eligible individual. The preceding sentence shall not require any period of coverage to extend beyond January 1, 2014.
 
 #### (VII) Medicare entitlement followed by qualifying event
 
@@ -440,7 +440,7 @@ For purposes of this section—
 
 > &emsp;For purposes of applying subparagraph (B), the qualified beneficiary shall be treated as if he had elected the most favorable coverage in light of the expenses he incurred since the failure first occurred.
 
-(Added Pub. L. 100–647, title III, §3011(a), Nov. 10, 1988, 102 Stat. 3616; amended Pub. L. 101–239, title VI, §§6202(b)(3)(B), 6701(a)–(c), title VII, §§7862(c)(2)(B), (3)(C), (4)(B), (5)(A), 7891(d)(1)(B), (2)(A), Dec. 19, 1989, 103 Stat. 2233, 2294, 2295, 2432, 2433, 2446; Pub. L. 101–508, title XI, §11702(f), Nov. 5, 1990, 104 Stat. 1388–515; Pub. L. 103–66, title XIII, §13422(a), Aug. 10, 1993, 107 Stat. 566; Pub. L. 104–188, title I, §1704(g)(1)(A), (t)(21), Aug. 20, 1996, 110 Stat. 1880, 1888; Pub. L. 104–191, title III, §321(d)(1), title IV, §421(c), Aug. 21, 1996, 110 Stat. 2058, 2088; Pub. L. 107–210, div. A, title II, §203(e)(3), Aug. 6, 2002, 116 Stat. 971; Pub. L. 111–5, div. B, title I, §1899F(b), Feb. 17, 2009, 123 Stat. 429; Pub. L. 111–344, title I, §116(b), Dec. 29, 2010, 124 Stat. 3616.)
+(Added Pub. L. 100–647, title III, §3011(a), Nov. 10, 1988, 102 Stat. 3616; amended Pub. L. 101–239, title VI, §§6202(b)(3)(B), 6701(a)–(c), title VII, §§7862(c)(2)(B), (3)(C), (4)(B), (5)(A), 7891(d)(1)(B), (2)(A), Dec. 19, 1989, 103 Stat. 2233, 2294, 2295, 2432, 2433, 2446; Pub. L. 101–508, title XI, §11702(f), Nov. 5, 1990, 104 Stat. 1388–515; Pub. L. 103–66, title XIII, §13422(a), Aug. 10, 1993, 107 Stat. 566; Pub. L. 104–188, title I, §1704(g)(1)(A), (t)(21), Aug. 20, 1996, 110 Stat. 1880, 1888; Pub. L. 104–191, title III, §321(d)(1), title IV, §421(c), Aug. 21, 1996, 110 Stat. 2058, 2088; Pub. L. 107–210, div. A, title II, §203(e)(3), Aug. 6, 2002, 116 Stat. 971; Pub. L. 111–5, div. B, title I, §1899F(b), Feb. 17, 2009, 123 Stat. 429; Pub. L. 111–344, title I, §116(b), Dec. 29, 2010, 124 Stat. 3616; Pub. L. 112–40, title II, §243(a)(3), (4), Oct. 21, 2011, 125 Stat. 420.)
 
 #### References in Text
 
@@ -455,6 +455,8 @@ The Public Health Service Act, referred to in subsec. (f)(2)(B)(iv)(I), is act J
 Section 2701 of the Public Health Service Act, referred to in subsec. (f)(5)(C)(iii), was classified to section 300gg of Title 42, The Public Health and Welfare, was renumbered section 2704, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by Pub. L. 111–148, title I, §§1201(2), 1563(c)(1), formerly §1562(c)(1), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911, and was transferred to section 300gg–3 of Title 42. A new section 2701, related to fair health insurance premiums, was added and amended by Pub. L. 111–148, title I, §1201(4), title X, §10103(a), Mar. 23, 2010, 124 Stat. 155, 892, and is classified to section 300gg of Title 42.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (f)(2)(B)(i)(V), (VI). Pub. L. 112–40 substituted “January 1, 2014” for “February 12, 2011”.
 
 <b>2010</b>—Subsec. (f)(2)(B)(i)(V), (VI). Pub. L. 111–344 substituted “February 12, 2011” for “December 31, 2010”.
 
@@ -474,7 +476,7 @@ Pub. L. 104–188, §1704(t)(21), made technical amendment to directory language
 
 Subsec. (f)(2)(B)(i)(V). Pub. L. 104–188, §1704(g)(1)(A), substituted “Medicare entitlement followed by qualifying event” for “Qualifying event involving medicare entitlement” in heading and amended text generally. Prior to amendment, text read as follows: “In the case of an event described in paragraph (3)(D) (without regard to whether such event is a qualifying event), the period of coverage for qualified beneficiaries other than the covered employee for such event or any subsequent qualifying event shall not terminate before the close of the 36-month period beginning on the date the covered employee becomes entitled to benefits under title XVIII of the Social Security Act.”
 
-Subsec. (f)(2)(B)(iv)(I). Pub. L. 104–191, §421(c)(1)(B), inserted “(other than such an exclusion or limitation which does not apply to (or is satisfied by) such beneficiary by reason of chapter 100 of this title, part 7 of subtitle B of title I of the Employee Retirement Income Security Act of 1974, or title XXVII of the Public Health Service Act)” before “, or”.
+Subsec. (f)(2)(B)(iv)(I). Pub. L. 104–191, §421(c)(1)(B), inserted “(other than such an exclusion or limitationwhich does not apply to (or is satisfied by) such beneficiary by reason of chapter 100 of this title, part 7 of subtitle B of title I of the Employee Retirement Income Security Act of 1974, or title XXVII of the Public Health Service Act)” before “, or”.
 
 Subsec. (f)(2)(B)(v). Pub. L. 104–191, §421(c)(1)(C), substituted “at any time during the first 60 days of continuation coverage under this section” for “at the time of a qualifying event described in paragraph (3)(B)”.
 
@@ -513,6 +515,10 @@ Subsec. (f)(7). Pub. L. 101–239, §7862(c)(2)(B), substituted “the performan
 Subsec. (f)(8). Pub. L. 101–239, §7891(d)(2)(A), added par. (8).
 
 Subsec. (g)(2). Pub. L. 101–239, §6202(b)(3)(B), substituted “section 5000(b)(1)” for “section 162(i)”.
+
+#### Effective Date of 2011 Amendment
+
+Pub. L. 112–40, title II, §243(b), Oct. 21, 2011, 125 Stat. 420, provided that: “The amendments made by this section \[amending this section, section 1162 of Title 29, Labor, and section 300bb–2 of Title 42, The Public Health and Welfare\] shall apply to periods of coverage which would (without regard to the amendments made by this section) end on or after the date which is 30 days after the date of the enactment of this Act \[Oct. 21, 2011\].”
 
 #### Effective Date of 2010 Amendment
 

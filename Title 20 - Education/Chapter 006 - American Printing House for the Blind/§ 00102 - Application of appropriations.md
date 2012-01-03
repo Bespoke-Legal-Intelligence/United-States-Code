@@ -20,7 +20,7 @@ The Secretary of Education is authorized to pay over semiannually, to the truste
 
 #### (4) Income withheld when not properly used
 
-&emsp;Fourth. The Secretary of the Treasury of the United States shall have the authority to withhold the appropriation whenever he shallreceive satisfactory proof that the trustees of said American Printing House for the Blind, located in Louisville, Kentucky, are not using the appropriation for the benefit of the blind in the public and private nonprofit institutions for the education of the blind in the United States.
+&emsp;Fourth. The Secretary of the Treasury of the United States shall have the authority to withhold the appropriation whenever he shall receive satisfactory proof that the trustees of said American Printing House for the Blind, located in Louisville, Kentucky, are not using the appropriation for the benefit of the blind in the public and private nonprofit institutions for the education of the blind in the United States.
 
 #### (5) Bond of treasurer
 

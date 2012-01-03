@@ -34,7 +34,7 @@ The Administrator may study and develop emergency preparedness measures designed
 
 &emsp;(A) conduct or arrange, by contract or otherwise, for training programs for the instruction of emergency preparedness officials and other persons in the organization, operation, and techniques of emergency preparedness;
 
-&emsp;(B) conduct or operate schools or including the payment of travel expenses, in accordance with subchapter I of chapter 57 of title 5 and the Standardized Government Travel Regulations, and per diem allowances, in lieu of subsistence for trainees in attendance or the furnishing of subsistence and quarters for trainees and instructors on terms prescribed by the Administrator; and
+&emsp;(B) conduct or operate schools or including the payment of travel expenses, in accordancewith subchapter I of chapter 57 of title 5 and the Standardized Government Travel Regulations, and per diem allowances, in lieu of subsistence for trainees in attendance or the furnishing of subsistence and quarters for trainees and instructors on terms prescribed by the Administrator; and
 
 &emsp;(C) provide instructors and training aids as necessary.
 
@@ -90,7 +90,7 @@ The Administrator may publicly disseminate appropriate emergency preparedness in
 
 (4) The amounts authorized to be contributed by the Administrator to each State for organizational equipment shall be equally matched by such State from any source it determines is consistent with its laws.
 
-(5) Financial contributions to the States for shelters and other protective facilities shall be determined by taking the amount of funds appropriated or available to the Administrator for such facilities in each fiscal year and apportioning such funds among the States in the ratio which the urban population of the critical target areas (as determined by the Administrator) in each State, at the time of the determination, bears to the total urban population of the critical target areas of all of the States.
+(5) Financial contributions to the States for shelters and other protective facilities shall bedetermined by taking the amount of funds appropriated or available to the Administrator for such facilities in each fiscal year and apportioning such funds among the States in the ratio which the urban population of the critical target areas (as determined by the Administrator) in each State, at the time of the determination, bears to the total urban population of the critical target areas of all of the States.
 
 (6) The amounts authorized to be contributed by the Administrator to each State for such shelters and protective facilities shall be equally matched by such State from any source it determines is consistent with its laws and, if not matched within a reasonable time, the Administrator may reallocate such amounts to other States under the formula described in paragraph (4).<sup>1</sup> The value of any land contributed by any State or political subdivision thereof shall be excluded from the computation of the State share under this subsection.
 
@@ -174,7 +174,7 @@ Mutual aid agreement.—The term ‘mutual aid agreement’ means an agreement, 
 
 &emsp;“(7)
 
-National capital region or region.—The term ‘National Capital Region’ or ‘Region’ means the area defined under section 2674(f)(2) of title 10, UnitedStates Code, and those counties with a border abutting that area and any municipalities therein.
+National capital region or region.—The term ‘National Capital Region’ or ‘Region’ means the area defined under section 2674(f)(2) of title 10, United States Code, and those counties with a border abutting that area and any municipalities therein.
 
 &emsp;“(8)
 
@@ -274,7 +274,7 @@ Other state law.—No party shall be liable under the law of any State other tha
 
 “(f)
 
-Licenses and Permits.—If any person holds a license, certificate, or other permit issued by any responding party evidencing the meeting of qualifications for professional, mechanical, or other skills and assistance is requested by a receiving jurisdiction, such person will be deemed licensed, certified, or permitted by the receiving jurisdiction to render aid involvingsuch skill to meet a public service event, emergency or training for any such events.”
+Licenses and Permits.—If any person holds a license, certificate, or other permit issued by any responding party evidencing the meeting of qualifications for professional, mechanical, or other skills and assistance is requested by a receiving jurisdiction, such person will be deemed licensed, certified, or permitted by the receiving jurisdiction to render aid involving such skill to meet a public service event, emergency or training for any such events.”
 
 #### Pilot Program To Study Design and Construction of Buildings To Minimize Effects of Nuclear Explosions
 

@@ -4,7 +4,7 @@
 
 (1) The Secretary, the Commission, and other agencies involved in the construction, operation, or regulation of any aspect of a repository in a State shall provide to the Governor and legislature of such State, and to the governing body of any affected Indian tribe, timely and complete information regarding determinations or plans made with respect to the site characterization siting, development, design, licensing, construction, operation, regulation, or decommissioning of such repository.
 
-(2) Upon written request for such information by the Governor or legislature of such State, or by the governing body of any affected Indian tribe, as the case may be, the Secretary shallprovide a written response to such request within 30 days of the receipt of such request. Such response shall provide the information requested or, in the alternative, the reasons why the information cannot be so provided. If the Secretary fails to so respond within such 30 days, the Governor or legislature of such State, or the governing body of any affected Indian tribe, as the case may be, may transmit a formal written objection to such failure to respond to the President. If the President or Secretary fails to respond to such written request within 30 days of the receipt by the President of such formal written objection, the Secretary shall immediately suspend all activities in such State authorized by this part, and shall not renew such activities until the Governor or legislature of such State, or the governing body of any affected Indian tribe, as the case may be, has received the written response to such written request required by this subsection.
+(2) Upon written request for such information by the Governor or legislature of such State, or by the governing body of any affected Indian tribe, as the case may be, the Secretary shall provide a written response to such request within 30 days of the receipt of such request. Such response shall provide the information requested or, in the alternative, the reasons why the information cannot be so provided. If the Secretary fails to so respond within such 30 days, the Governor or legislature of such State, or the governing body of any affected Indian tribe, as the case may be, may transmit a formal written objection to such failure to respond to the President. If the President or Secretary fails to respond to such written request within 30 days of the receipt by the President of such formal written objection, the Secretary shall immediately suspend all activities in such State authorized by this part, and shall not renew such activities until the Governor or legislature of such State, or the governing body of any affected Indian tribe, as the case may be, has received the written response to such written request required by this subsection.
 
 #### (b) Consultation and cooperation
 
@@ -16,7 +16,7 @@ Not later than 60 days after (1) the approval of a site for site characterizatio
 
 &emsp;(1) by which such State or governing body of an affected Indian tribe, as the case may be, may study, determine, comment on, and make recommendations with regard to the possible public health and safety, environmental, social, and economic impacts of any such repository;
 
-&emsp;(2) by which the Secretary shall consider and respond to comments and recommendations made by such State or governing body of an affected Indian tribe, including the period in which the Secretary shall so respond;
+&emsp;(2) by which the Secretary shall consider and respond to comments and recommendations made by such State or governing body of anaffected Indian tribe, including the period in which the Secretary shall so respond;
 
 &emsp;(3) by which the Secretary and such State or governing body of an affected Indian tribe may review or modify the agreement periodically;
 
@@ -38,7 +38,7 @@ Not later than 60 days after (1) the approval of a site for site characterizatio
 
 #### (d) On-site representative
 
-The Secretary shall offer to any State, Indian tribe or unit of local government within whose jurisdiction a site for a repository or monitoredretrievable storage facility is located under this subchapter an opportunity to designate a representative to conduct on-site oversight activities at such site. Reasonable expenses of such representatives shall be paid out of the Waste Fund.
+The Secretary shall offer to any State, Indian tribe or unit of local government within whose jurisdiction a site for a repository or monitored retrievable storage facility is located under this subchapter an opportunity to designate a representative to conduct on-site oversight activities at such site. Reasonable expenses of such representatives shall be paid out of the Waste Fund.
 
 (Pub. L. 97–425, title I, §117, Jan. 7, 1983, 96 Stat. 2222; Pub. L. 100–202, §101(d) \[title III, §300\], Dec. 22, 1987, 101 Stat. 1329–104, 1329–121; Pub. L. 100–203, title V, §5011(m), Dec. 22, 1987, 101 Stat. 1330–231; Pub. L. 104–66, title I, §1051(i), Dec. 21, 1995, 109 Stat. 716.)
 

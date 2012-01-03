@@ -14,3 +14,7 @@ The Commission shall examine all contracts of common carriers subject to this ch
 
 (June 19, 1934, ch. 652, title II, §215, 48 Stat. 1076.)
 
+#### References in Text
+
+This chapter, referred to in subsecs. (a) and (c), was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
+

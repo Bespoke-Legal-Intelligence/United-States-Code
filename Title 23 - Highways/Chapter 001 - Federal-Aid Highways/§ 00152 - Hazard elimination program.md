@@ -6,7 +6,7 @@ In General.—
 
 &emsp;(1)
 
-Program.—Each State shall conduct and systematically maintain an engineering survey of all public roads to identify hazardous locations, sections, and elements, including roadside obstacles and unmarked or poorly marked roads, which may constitute a danger to motorists, bicyclists, and pedestrians, assign priorities for the correction of such locations, sections, and elements, and establish and implement a schedule of projects for their improvement.
+Program.—Each State shall conduct and systematically maintain an engineering survey of all public roads to identify hazardouslocations, sections, and elements, including roadside obstacles and unmarked or poorly marked roads, which may constitute a danger to motorists, bicyclists, and pedestrians, assign priorities for the correction of such locations, sections, and elements, and establish and implement a schedule of projects for their improvement.
 
 &emsp;(2)
 

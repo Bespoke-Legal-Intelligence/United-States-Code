@@ -68,7 +68,7 @@ Section was enacted as part of the Annunzio-Wylie Anti-Money Laundering Act and 
 
 #### Amendments
 
-1998—Subsec. (e). Pub. L. 105–362 struck out heading and text of subsec. (e). Text read as follows: “The Attorney General and the Secretary of the Treasury shall report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives, not later than 90 days after the end of each calendar year on their utilization of the exceptions provided in subsection (a)(1)(B) of this section.”
+<b>1998</b>—Subsec. (e). Pub. L. 105–362 struck out heading and text of subsec. (e). Text read as follows: “The Attorney General and the Secretary of the Treasury shall report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives, not later than 90 days after the end of each calendar year on their utilization of the exceptions provided in subsection (a)(1)(B) of this section.”
 
 #### Change of Name
 

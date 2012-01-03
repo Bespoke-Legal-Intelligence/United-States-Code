@@ -26,7 +26,7 @@ The Secretary shall direct the Director of the Office of Counternarcotics Enforc
 
 &emsp;(2) to ensure the adequacy of resources within the Department for stopping the entry of illegal drugs into the United States;
 
-&emsp;(3) to recommend the appropriate financial and personnel resources necessary to help theDepartment better fulfill its responsibility to stop the entry of illegal drugs into the United States;
+&emsp;(3) to recommend the appropriate financial and personnel resources necessary to help the Department better fulfill its responsibility to stop the entry of illegal drugs into the United States;
 
 &emsp;(4) within the Joint Terrorism Task Force construct to track and sever connections between illegal drug trafficking and terrorism; and
 
@@ -68,11 +68,11 @@ Nothing in this section shall be construed to authorize direct control of the op
 
 #### Amendments
 
-2006—Subsec. (c). Pub. L. 109–469, §103(f)(2)(A), substituted “The” for “Except as provided in subsection (d) of this section, the”.
+<b>2006</b>—Subsec. (c). Pub. L. 109–469, §103(f)(2)(A), substituted “The” for “Except as provided in subsection (d) of this section, the”.
 
 Subsecs. (d) to (g). Pub. L. 109–469, §103(f)(2)(B), redesignated subsecs. (e) to (g) as (d) to (f), respectively, and struck out heading and text of former subsec. (d). Text read as follows: “The Director of the Office of Counternarcotics Enforcement may be appointed as the United States Interdiction Coordinator by the Director of the Office of National Drug Control Policy, and shall be the only person at the Department eligible to be so appointed.”
 
-2004—Pub. L. 108–458 amended section catchline and text generally. Prior to amendment, text read as follows: “The Secretary shall appoint a senior official in the Department to assume primary responsibility for coordinating policy and operations within the Department and between the Department and other Federal departments and agencies with respect to interdicting the entry of illegal drugs into the United States, and tracking and severing connections between illegal drug trafficking and terrorism. Such official shall—
+<b>2004</b>—Pub. L. 108–458 amended section catchline and text generally. Prior to amendment, text read as follows: “The Secretary shall appoint a senior official in the Department to assume primary responsibility for coordinating policy and operations within the Department and between the Department and other Federal departments and agencies with respect to interdicting the entry of illegal drugs into the United States, and tracking and severing connections between illegal drug trafficking and terrorism. Such official shall—
 
 &emsp;“(1) ensure the adequacy of resources within the Department for illicit drug interdiction; and
 

@@ -36,11 +36,11 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-2011—Subsec. (a). Pub. L. 111–350 substituted “section 6101(b) to (d) of title 41” for “section 5 of title 41” in introductory provisions.
+<b>2011</b>—Subsec. (a). Pub. L. 111–350 substituted “section 6101(b) to (d) of title 41” for “section 5 of title 41” in introductory provisions.
 
-1980—Subsec. (d). Pub. L. 96–427 added subsec. (d).
+<b>1980</b>—Subsec. (d). Pub. L. 96–427 added subsec. (d).
 
-1978—Subsecs. (a) to (c). Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively, wherever appearing.
+<b>1978</b>—Subsecs. (a) to (c). Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively, wherever appearing.
 
 #### Effective Date of 1980 Amendment
 

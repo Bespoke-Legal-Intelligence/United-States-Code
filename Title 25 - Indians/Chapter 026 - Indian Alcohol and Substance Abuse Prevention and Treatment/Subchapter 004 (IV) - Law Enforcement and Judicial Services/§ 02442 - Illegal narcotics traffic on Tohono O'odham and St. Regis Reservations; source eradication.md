@@ -68,7 +68,7 @@ Subsec. (a). Pub. L. 100–690, §2208(a), amended subsec. (a) generally. Prior 
 
 “(1)
 
-Investigation and control.—The Secretary of the Interior shall provide assistance to the Papago Indian Tribe (Tohono O'odham) of Arizona for the investigation and control of illegal narcotics traffic on the Papago Reservation along the border with Mexico. TheSecretary shall ensure that tribal efforts are coordinated with appropriate Federal law enforcement agencies, including the United States Customs Service.
+Investigation and control.—The Secretary of the Interior shall provide assistance to the Papago Indian Tribe (Tohono O'odham) of Arizona for the investigation and control of illegal narcotics traffic on the Papago Reservation along the border with Mexico. The Secretary shall ensure that tribal efforts are coordinated with appropriate Federal law enforcement agencies, including the United States Customs Service.
 
 “(2)
 

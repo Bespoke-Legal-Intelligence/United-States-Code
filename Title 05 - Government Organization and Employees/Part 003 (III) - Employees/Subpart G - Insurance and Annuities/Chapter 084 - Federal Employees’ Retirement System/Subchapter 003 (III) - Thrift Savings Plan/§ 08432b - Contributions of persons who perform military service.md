@@ -82,7 +82,7 @@ Section 8433(h), referred to in subsec. (h)(2)(A), was redesignated section 8433
 
 #### Amendments
 
-1999—Subsec. (b)(2)(B). Pub. L. 106–65, §661(a)(3)(A), inserted “or 8440e” after “section 8432(a)”.
+<b>1999</b>—Subsec. (b)(2)(B). Pub. L. 106–65, §661(a)(3)(A), inserted “or 8440e” after “section 8432(a)”.
 
 Subsec. (c). Pub. L. 106–65, §661(a)(3)(C), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
 

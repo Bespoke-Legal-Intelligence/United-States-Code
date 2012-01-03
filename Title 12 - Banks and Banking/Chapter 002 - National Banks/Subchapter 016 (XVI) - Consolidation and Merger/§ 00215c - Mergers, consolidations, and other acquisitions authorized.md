@@ -26,7 +26,7 @@ No provision of this section shall be construed as authorizing a national bank o
 
 For purposes of this section, the term “acquire” means to acquire, directly or indirectly, ownership or control through a merger or consolidation or an acquisition of assets or assumption of liabilities, provided that following such merger, consolidation, or acquisition, an acquiring insured depository institution may not own the shares of the acquired insured depository institution.
 
-(R.S. 5156A, as added Pub. L. 102–242, title V, §502(b), Dec. 19, 1991, 105 Stat. 2393; amended Pub. L. 104–208, div. A, title II, §2201(b)(1), Sept. 30, 1996, 110 Stat. 3009–403.)
+(R.S. §5156A, as added Pub. L. 102–242, title V, §502(b), Dec. 19, 1991, 105 Stat. 2393; amended Pub. L. 104–208, div. A, title II, §2201(b)(1), Sept. 30, 1996, 110 Stat. 3009–403.)
 
 #### References in Text
 
@@ -40,5 +40,7 @@ Section was not enacted as part of act Nov. 7, 1918, ch. 209, as added Sept. 8, 
 
 #### Amendments
 
-1996—Subsec. (b)(1). Pub. L. 104–208 substituted “under any applicable law” for “by section 1815(d)(3) of this title or any other applicable law”.
+<b>1996</b>—Subsec. (b)(1). Pub. L. 104–208 substituted “under any applicable law” for “by section 1815(d)(3) of this title or any other applicable law”.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

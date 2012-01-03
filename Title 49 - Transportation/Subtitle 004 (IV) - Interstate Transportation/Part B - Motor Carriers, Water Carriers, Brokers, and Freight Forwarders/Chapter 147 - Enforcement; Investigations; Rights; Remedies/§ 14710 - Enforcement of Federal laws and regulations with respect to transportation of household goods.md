@@ -36,7 +36,7 @@ General references to “this title” deemed to refer also to chapters 509 and 
 
 #### Working Group for Development of Practices and Procedures To Enhance Federal-State Relations
 
-Pub. L. 109–59, title IV, §4213, Aug. 10, 2005, 119 Stat. 1759, as amended by Pub. L. 111–147, title IV, §422(j), Mar. 18, 2010, 124 Stat. 87; Pub. L. 111–322, title II, §2202(j), Dec. 22, 2010, 124 Stat. 3525, provided that:
+Pub. L. 109–59, title IV, §4213, Aug. 10, 2005, 119 Stat. 1759, as amended by Pub. L. 111–147, title IV, §422(j), Mar. 18, 2010, 124 Stat. 87; Pub. L. 111–322, title II, §2202(j), Dec. 22, 2010, 124 Stat. 3525; Pub. L. 112–5, title II, §202(j), Mar. 4, 2011, 125 Stat. 17; Pub. L. 112–30, title I, §122(i), Sept. 16, 2011, 125 Stat. 349, provided that:
 
 “(a)
 
@@ -52,7 +52,7 @@ Federal Advisory Committee Act Exemption.—The Federal Advisory Committee Act (
 
 “(d)
 
-Termination Date.—The working group shall remain in effect until March 4, 2011.”
+Termination Date.—The working group shall remain in effect until March 31, 2012.”
 
 \[For definitions of “household goods”, “Secretary”, and “transportation” as used in section 4213 of Pub. L. 109–59, set out above, see section 4202(a) of Pub. L. 109–59, set out as a note under section 13102 of this title.\]
 

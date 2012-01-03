@@ -22,7 +22,7 @@ Percentage.—
 
 General rule.—Subject to paragraphs (2) and (3), the percentage to be used under subsection (a) is the product (stated as a percentage) of—
 
-&emsp;&emsp;(A) 21/2, and
+&emsp;&emsp;(A) 2½, and
 
 &emsp;&emsp;(B) the member's years of creditable service (as defined in subsection (c)).
 
@@ -50,7 +50,7 @@ Retirement after december 31, 2006.—In the case of a member who retires after 
 
 &emsp;&emsp;&emsp;(ii) the product (stated as a percentage) of—
 
-&emsp;&emsp;&emsp;&emsp;(I) 21/2; and
+&emsp;&emsp;&emsp;&emsp;(I) 2½; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the member's years of creditable service (as defined in subsection (c)) in excess of 30 years of creditable service, under conditions authorized for purposes of this subparagraph during a period designated by the Secretary of Defense for purposes of this subparagraph.
 

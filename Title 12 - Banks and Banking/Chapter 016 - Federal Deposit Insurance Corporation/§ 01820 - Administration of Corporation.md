@@ -24,7 +24,13 @@ The Board of Directors shall administer the affairs of the Corporation fairly an
 
 #### (3) Special examination of any insured depository institution
 
-&emsp;In addition to the examinations authorized under paragraph (2), any examiner appointed under paragraph (1) shall have power, on behalf of the Corporation, to make any special examination of any insured depository institution whenever the Board of Directors determines a special examination of any such depository institution is necessary to determine the condition of such depository institution for insurance purposes.
+#### (A) In general
+
+&emsp;&emsp;In addition to the examinations authorized under paragraph (2), any examiner appointed under paragraph (1) shall have power, on behalf of the Corporation, to make any special examination of any insured depository institution or nonbank financial company supervised by the Board of Governors or a bank holding company described in section 165(a) of the Financial Stability Act of 2010 \[12 U.S.C. 5365(a)\], whenever the Board of Directors determines that a special examination of any such depository institution is necessary to determine the condition of such depository institution for insurance purposes, or of such nonbank financial company supervised by the Board of Governors or bank holding company described in section 165(a) of the Financial Stability Act of 2010 \[12 U.S.C. 5365(a)\], for the purpose of implementing its authority to provide for orderly liquidation of any such company under title II <sup>1</sup> of that Act, provided that such authority may not be used with respect to any such company that is in a generally sound condition.
+
+#### (B) Limitation
+
+&emsp;&emsp;Before conducting a special examination of a nonbank financial company supervised by the Board of Governors or a bank holding company described in section 165(a) of the Financial Stability Act of 2010 \[12 U.S.C. 5365(a)\], the Corporation shall review any available and acceptable resolution plan that the company has submitted in accordance with section 165(d) of that Act \[12 U.S.C. 5365(d)\], consistent with the nonbinding effect of such plan, and available reports of examination, and shall coordinate to the maximum extent practicable with the Board of Governors, in order to minimize duplicative or conflicting examinations.
 
 #### (4) Examination of affiliates
 
@@ -100,9 +106,9 @@ In connection with examinations of insured depository institutions and any State
 
 &emsp;Paragraph (1) does not apply to—
 
-&emsp;&emsp;(A) any institution for which the Corporation or the Resolution Trust Corporation is conservator; or
+&emsp;&emsp;(A) any institution for which the Corporation is conservator; or
 
-&emsp;&emsp;(B) any bridge depository institution, none of the voting securities of which are owned by a person or agency other than the Corporation or the Resolution Trust Corporation.
+&emsp;&emsp;(B) any bridge depository institution, none of the voting securities of which are owned by a person or agency other than the Corporation.
 
 #### (6) Coordinated examinations
 
@@ -144,7 +150,7 @@ In connection with examinations of insured depository institutions and any State
 
 #### (1) Regular and special examinations of depository institutions
 
-&emsp;The cost of conducting any regular examination or special examination of any depository institution under subsection (b)(2), (b)(3), or (d) of this section may be assessed by the Corporation against the institution to meet the Corporation's expenses in carrying out such examinations.
+&emsp;The cost of conducting any regular examination or special examination of any depository institution under subsection (b)(2), (b)(3), or (d) or of any entity described in section 1813(q)(2) of this title may be assessed by the Corporation against the institution or entity to meet the expenses of the Corporation in carrying out such examinations.
 
 #### (2) Examination of affiliates
 
@@ -172,7 +178,7 @@ In connection with examinations of insured depository institutions and any State
 
 &emsp;&emsp;If any affiliate of any insured depository institution—
 
-&emsp;&emsp;&emsp;(i) refuses to permit an examiner appointed by the Board of Directors undersubsection (b)(1) of this section to conduct an examination; or
+&emsp;&emsp;&emsp;(i) refuses to permit an examiner appointed by the Board of Directors under subsection (b)(1) of this section to conduct an examination; or
 
 &emsp;&emsp;&emsp;(ii) refuses to provide any information required to be disclosed in the course of any examination,
 
@@ -246,7 +252,7 @@ Except to the extent that authority under this chapter is conferred on any of th
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The State bank supervisor of the home State of an insured State bank shall notifythe State bank supervisor of each host State of the bank if there has been a final determination that the bank is in a troubled condition.
+&emsp;&emsp;&emsp;The State bank supervisor of the home State of an insured State bank shall notify the State bank supervisor of each host State of the bank if there has been a final determination that the bank is in a troubled condition.
 
 #### (ii) Timing of notice
 
@@ -302,7 +308,7 @@ Except to the extent that authority under this chapter is conferred on any of th
 
 #### (D) Final determination
 
-&emsp;&emsp;For purposes of paragraph (2)(B), the term “final determination” means the transmittal of a report of examination to the bank or transmittal of official notice of proceedings to the bank.
+&emsp;&emsp;For purposes of paragraph (2)(B), the term “final determination” means the transmittal of a report of examination to the bank ortransmittal of official notice of proceedings to the bank.
 
 #### (i) Flood insurance compliance by insured depository institutions
 
@@ -376,7 +382,7 @@ Except to the extent that authority under this chapter is conferred on any of th
 
 #### (A) Agency authority
 
-&emsp;&emsp;A Federal banking agency may grant a waiver, on a case by case basis, of the restriction imposed by this subsection to any officer or employee (including any special Government employee) of that agency, and the Board of Governors of the Federal Reserve System may grant a waiver of the restriction imposed by this subsection to any officer or employee of a Federal reserve bank, if the head of such agency certifies in writing that granting the waiver would not affect the integrity of the supervisory program of the relevant Federal banking agency.
+&emsp;&emsp;A Federal banking agency may grant a waiver, on a case by case basis, of the restriction imposed by this subsection to any officer or employee (including any specialGovernment employee) of that agency, and the Board of Governors of the Federal Reserve System may grant a waiver of the restriction imposed by this subsection to any officer or employee of a Federal reserve bank, if the head of such agency certifies in writing that granting the waiver would not affect the integrity of the supervisory program of the relevant Federal banking agency.
 
 #### (B) Definition
 
@@ -384,11 +390,9 @@ Except to the extent that authority under this chapter is conferred on any of th
 
 &emsp;&emsp;&emsp;(i) the Comptroller of the Currency, in the case of the Office of the Comptroller of the Currency;
 
-&emsp;&emsp;&emsp;(ii) the Chairman of the Board of Governors of the Federal Reserve System, in the case of the Board of Governors of the Federal Reserve System;
+&emsp;&emsp;&emsp;(ii) the Chairman of the Board of Governors of the Federal Reserve System, in the case of the Board of Governors of the Federal Reserve System; and
 
-&emsp;&emsp;&emsp;(iii) the Chairperson of the Board of Directors, in the case of the Corporation; and
-
-&emsp;&emsp;&emsp;(iv) the Director of the Office of Thrift Supervision, in the case of the Office of Thrift Supervision.
+&emsp;&emsp;&emsp;(iii) the Chairperson of the Board of Directors, in the case of the Corporation.
 
 #### (6) Penalties
 
@@ -416,7 +420,11 @@ Except to the extent that authority under this chapter is conferred on any of th
 
 &emsp;&emsp;Solely for purposes of this paragraph, the “appropriate Federal banking agency” for a company that is not a depository institution or depository institution holding company shall be the Federal banking agency on whose behalf the person described in paragraph (1) performed the functions described in paragraph (1)(B).
 
-(Sept. 21, 1950, ch. 967, §2\[10\], 64 Stat. 882; Pub. L. 86–671, §4, July 14, 1960, 74 Stat. 551; Pub. L. 89–695, title II, §203, Oct. 16, 1966, 80 Stat. 1053; Pub. L. 91–452, title II, §208, Oct. 15, 1970, 84 Stat. 929; Pub. L. 95–369, §6(c)(16), Sept. 17, 1978, 92 Stat. 619; Pub. L. 95–630, title III, §305, Nov. 10, 1978, 92 Stat. 3677; Pub. L. 97–320, title I, §113(i), title IV, §410(g), Oct. 15, 1982, 96 Stat. 1474, 1520; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 101–73, title II, §§201(a), 210, Aug. 9, 1989, 103 Stat. 187, 217; Pub. L. 102–242, title I, §§111(a), 113(a), (b), (c)(2), title II, §203(c), title III, §302(d), Dec. 19, 1991, 105 Stat. 2240, 2246–2248, 2292, 2349; Pub. L. 102–550, title XVI, §§1603(b)(1), (4), 1604(a)(3), 1605(a)(4), Oct. 28, 1992, 106 Stat. 4078, 4079, 4082, 4085; Pub. L. 102–558, title III, §§303(b)(5), 305, Oct. 28, 1992, 106 Stat. 4225, 4226; Pub. L. 103–325, title III, §§305(a), 306, 349(a), title V, §529(a), title VI, §602(a)(19), (20), Sept. 23, 1994, 108 Stat. 2216, 2217, 2242, 2266, 2289; Pub. L. 103–328, title I, §105, Sept. 29, 1994, 108 Stat. 2357; Pub. L. 104–208, div. A, title II, §§2221, 2244, Sept. 30, 1996, 110 Stat. 3009–414, 3009–419; Pub. L. 108–386, §8(a)(3), Oct. 30, 2004, 118 Stat. 2231; Pub. L. 108–458, title VI, §6303(b), Dec. 17, 2004, 118 Stat. 3751; Pub. L. 109–351, title VI, §605, title VII, §§711, 723(a), Oct. 13, 2006, 120 Stat. 1981, 1991, 2000; Pub. L. 109–473, §1, Jan. 11, 2007, 120 Stat. 3561; Pub. L. 110–289, div. A, title VI, §1604(b)(1)(B), July 30, 2008, 122 Stat. 2829.)
+(Sept. 21, 1950, ch. 967, §2\[10\], 64 Stat. 882; Pub. L. 86–671, §4, July 14, 1960, 74 Stat. 551; Pub. L. 89–695, title II, §203, Oct. 16, 1966, 80 Stat. 1053; Pub. L. 91–452, title II, §208, Oct. 15, 1970, 84 Stat. 929; Pub. L. 95–369, §6(c)(16), Sept. 17, 1978, 92 Stat. 619; Pub. L. 95–630, title III, §305, Nov. 10, 1978, 92 Stat. 3677; Pub. L. 97–320, title I, §113(i), title IV, §410(g), Oct. 15, 1982, 96 Stat. 1474, 1520; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 101–73, title II, §§201(a), 210, Aug. 9, 1989, 103 Stat. 187, 217; Pub. L. 102–242, title I, §§111(a), 113(a), (b), (c)(2), title II, §203(c), title III, §302(d), Dec. 19, 1991, 105 Stat. 2240, 2246–2248, 2292, 2349; Pub. L. 102–550, title XVI, §§1603(b)(1), (4), 1604(a)(3), 1605(a)(4), Oct. 28, 1992, 106 Stat. 4078, 4079, 4082, 4085; Pub. L. 102–558, title III, §§303(b)(5), 305, Oct. 28, 1992, 106 Stat. 4225, 4226; Pub. L. 103–325, title III, §§305(a), 306, 349(a), title V, §529(a), title VI, §602(a)(19), (20), Sept. 23, 1994, 108 Stat. 2216, 2217, 2242, 2266, 2289; Pub. L. 103–328, title I, §105, Sept. 29, 1994, 108 Stat. 2357; Pub. L. 104–208, div. A, title II, §§2221, 2244, Sept. 30, 1996, 110 Stat. 3009–414, 3009–419; Pub. L. 108–386, §8(a)(3), Oct. 30, 2004, 118 Stat. 2231; Pub. L. 108–458, title VI, §6303(b), Dec. 17, 2004, 118 Stat. 3751; Pub. L. 109–351, title VI, §605, title VII, §§711, 723(a), Oct. 13, 2006, 120 Stat. 1981, 1991, 2000; Pub. L. 109–473, §1, Jan. 11, 2007, 120 Stat. 3561; Pub. L. 110–289, div. A, title VI, §1604(b)(1)(B), July 30, 2008, 122 Stat. 2829; Pub. L. 111–203, title I, §172(a), title III, §§318(d), 363(4), July 21, 2010, 124 Stat. 1438, 1527, 1552.)
+
+#### References in Text
+
+Title II of that Act, referred to in subsec. (b)(3)(A), probably means title II of Pub. L. 111–203, known as the Dodd-Frank Wall Street Reform and Consumer Protection Act, which is classified principally to subchapter II (§5381 et seq.) of chapter 53 of this title. The Financial Stability Act of 2010, which is title I of Pub. L. 111–203, does not contain titles. For complete classification of title II to the Code, see Tables.
 
 #### Prior Provisions
 
@@ -424,21 +432,37 @@ Subsecs. (a), (b), \[former\] (e), and \[former\] (f) are derived from subsec. (
 
 #### Amendments
 
-2008—Subsec. (d)(5)(B). Pub. L. 110–289 substituted “bridge depository institution” for “bridge bank”.
+<b>2010</b>—Subsec. (b)(3). Pub. L. 111–203, §172(a)(2), which directed substitution of “or nonbank financial company supervised by the Board of Governors or a bankholding company described in section 165(a) of the Financial Stability Act of 2010, whenever the Board of Directors determines that a special examination of any such depository institution is necessary to determine the condition of such depository institution for insurance purposes, or of such nonbank financial company supervised by the Board of Governors or bank holding company described in section 165(a) of the Financial Stability Act of 2010, for the purpose of implementing its authority to provide for orderly liquidation of any such company under title II of that Act, provided that such authority may not be used with respect to any such company that is in a generally sound condition.
 
-2007—Subsec. (d)(10). Pub. L. 109–473 substituted “$500,000,000” for “$250,000,000”.
+&emsp;“(B)
 
-2006—Subsec. (d)(4)(A). Pub. L. 109–351, §605, substituted “$500,000,000” for “$250,000,000”.
+Limitation.—Before conducting a special examination of a nonbank financial company supervised by the Board of Governors or a bank holding company described in section 165(a) of the Financial Stability Act of 2010, the Corporation shall review any available and acceptable resolution plan that the company has submitted in accordance with section 165(d) of that Act, consistent with the nonbinding effect of such plan, and available reports of examination, and shall coordinate to the maximum extent practicable with the Board of Governors, in order to minimize duplicative or conflicting examinations.”
+
+> for “ ‘whenever the board of directors determines’ and all that follows through the period”, was executed by making the substitution for “whenever the Board of Directors determines” and all that followed through the period, to reflect the probable intent of Congress.
+
+Pub. L. 111–203, §172(a)(1), designated existing provisions as subpar. (A) and inserted heading.
+
+Subsec. (d)(5). Pub. L. 111–203, §363(4)(A), struck out “or the Resolution Trust Corporation” after “the Corporation” in subpars. (A) and (B).
+
+Subsec. (e)(1). Pub. L. 111–203, §318(d), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The cost of conducting any regular examination or special examination of any depository institution under subsection (b)(2), (b)(3), or (d) of this section may be assessed by the Corporation against the institution to meet the Corporation's expenses in carrying out such examinations.”
+
+Subsec. (k)(5)(B)(ii) to (iv). Pub. L. 111–203, §363(4)(B), inserted “and” after the semicolon in cl. (ii), substituted a period at the end for “; and” in cl. (iii), and struck out cl. (iv) which read as follows: “the Director of the Office of Thrift Supervision, in the case of the Office of Thrift Supervision.”
+
+<b>2008</b>—Subsec. (d)(5)(B). Pub. L. 110–289 substituted “bridge depository institution” for “bridge bank”.
+
+<b>2007</b>—Subsec. (d)(10). Pub. L. 109–473 substituted “$500,000,000” for “$250,000,000”.
+
+<b>2006</b>—Subsec. (d)(4)(A). Pub. L. 109–351, §605, substituted “$500,000,000” for “$250,000,000”.
 
 Subsec. (f). Pub. L. 109–351, §723(a), amended subsec. (f) generally. Prior to amendment, text read as follows: “The Corporation may cause any and all records, papers, or documents kept by it or in its possession or custody to be photographed or microphotographed or otherwise reproduced upon film, which photographic film shall comply with the minimum standards of quality approved for permanent photographic records by the National Institute of Standards and Technology. Such photographs, microphotographs, or photographic film or copies thereof shall be deemed to be an original record for all purposes, including introduction in evidence in all State and Federal courts or administrative agencies and shall be admissible to prove any act, transaction, occurrence, or event therein recorded. Such photographs, microphotographs, or reproduction shall be preserved in such manner as the Board of Directors of the Corporation shall prescribe and the original records, papers, or documents may be destroyed or otherwise disposed of as the Board shall direct.”
 
 Subsec. (h). Pub. L. 109–351, §711, amended subsec. (h) generally. Prior to amendment, subsec. (h) related to coordination of examination authority.
 
-2004—Subsec. (b)(2)(A). Pub. L. 108–386 struck out “(except a District bank)” after “State nonmember bank”.
+<b>2004</b>—Subsec. (b)(2)(A). Pub. L. 108–386 struck out “(except a District bank)” after “State nonmember bank”.
 
 Subsec. (k). Pub. L. 108–458 added subsec. (k).
 
-1996—Subsec. (d)(6)(B). Pub. L. 104–208, §2244(b), which directed insertion of “or State bank supervisors” after “one of the Federal agencies”, was executed by making the insertion after “one of the Federal banking agencies” to reflect the probable intent of Congress.
+<b>1996</b>—Subsec. (d)(6)(B). Pub. L. 104–208, §2244(b), which directed insertion of “or State bank supervisors” after “one of the Federal agencies”, was executed by making the insertion after “one of the Federal banking agencies” to reflect the probable intent of Congress.
 
 Subsec. (d)(8). Pub. L. 104–208, §2221(1), redesignated par. (8), relating to agencies authorized to increase maximum asset amount of institutions for certain purposes, as (10).
 
@@ -448,7 +472,7 @@ Pub. L. 104–208, §2221(1), redesignated par. (8), relating to agencies author
 
 Subsec. (j). Pub. L. 104–208, §2244(a), added subsec. (j).
 
-1994—Subsec. (b)(1). Pub. L. 103–325, §602(a)(19), substituted “claims” for “claim”.
+<b>1994</b>—Subsec. (b)(1). Pub. L. 103–325, §602(a)(19), substituted “claims” for “claim”.
 
 Subsec. (b)(2)(B). Pub. L. 103–325, §602(a)(20), inserted “and” at end.
 
@@ -476,7 +500,7 @@ Subsec. (h). Pub. L. 103–328 added subsec. (h).
 
 Subsec. (i). Pub. L. 103–325, §529(a), added subsec. (i).
 
-1992—Subsec. (b)(6)(A). Pub. L. 102–550, §1604(a)(3), substituted “paragraph (2), (3), (4), or (5);” for “ ‘paragraph (2)’ and all that follows through the semicolon” resulting in no change in text.
+<b>1992</b>—Subsec. (b)(6)(A). Pub. L. 102–550, §1604(a)(3), substituted “paragraph (2), (3), (4), or (5);” for “ ‘paragraph (2)’ and all that follows through the semicolon” resulting in no change in text.
 
 Subsec. (d)(5). Pub. L. 102–550, §1603(b)(1)(A), (B), inserted “or the Resolution Trust Corporation” in subpars. (A) and (B) and inserted a comma after “bank” in subpar. (B).
 
@@ -488,7 +512,7 @@ Subsec. (e). Pub. L. 102–550, §1603(b)(4), amended directory language of Pub.
 
 Subsec. (g). Pub. L. 102–558, §303(b)(5), redesignated subsec. (f), relating to authority to prescribe regulations and definitions, as (g). Pub. L. 102–550, §1605(a)(4), which contained an identical amendment, was repealed, effective Oct. 28, 1992, by Pub. L. 102–558, §305, set out as a Repeal of Duplicative Provisions note under section 1815 of this title.
 
-1991—Subsec. (b)(2)(B). Pub. L. 102–242, §113(b), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “any savings association, State nonmember bank, or State branch of a foreign bank, or other depository institution which files an application with the Corporation to become an insured depository institution; and”.
+<b>1991</b>—Subsec. (b)(2)(B). Pub. L. 102–242, §113(b), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “any savings association, State nonmember bank, or State branch of a foreign bank, or other depository institution which files an application with the Corporation to become an insured depository institution; and”.
 
 Subsec. (b)(4)(A). Pub. L. 102–242, §113(c)(2), struck out “insured” before “depository institution” in three places.
 
@@ -502,7 +526,7 @@ Subsec. (f). Pub. L. 102–242, §302(d), added subsec. (f) relating to authorit
 
 Pub. L. 102–242, §113(a)(1), redesignated subsec. (e), relating to preservation of records by photography, as (f).
 
-1989—Subsec. (b). Pub. L. 101–73, §210(a), amended subsec. (b) generally, revising and restating as pars. (1) to (6) provisions formerly contained in a single unnumbered paragraph.
+<b>1989</b>—Subsec. (b). Pub. L. 101–73, §210(a), amended subsec. (b) generally, revising and restating as pars. (1) to (6) provisions formerly contained in a single unnumbered paragraph.
 
 Subsec. (c). Pub. L. 101–73, §210(b)(1), substituted “and any State nonmember bank, savings association, or other institution” for “, State nonmember banks or other institutions”.
 
@@ -510,13 +534,13 @@ Pub. L. 101–73, §201(a), substituted “insured depository institutions” fo
 
 Subsec. (d). Pub. L. 101–73, §210(b)(2), struck out subsec. (d) which defined “affiliate” and “member bank” for purposes of this section.
 
-1988—Subsec. (e). Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “National Bureau of Standards”.
+<b>1988</b>—Subsec. (e). Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “National Bureau of Standards”.
 
-1982—Subsec. (b). Pub. L. 97–320, §113(i), inserted “or any insured Federal savings bank,” after “foreign bank, or District bank,”.
+<b>1982</b>—Subsec. (b). Pub. L. 97–320, §113(i), inserted “or any insured Federal savings bank,” after “foreign bank, or District bank,”.
 
 Subsec. (d). Pub. L. 97–320, §410(g), inserted “as in section 221a(b) of this title and”.
 
-1978—Subsec. (b). Pub. L. 95–630, §305(a), inserted “or other institution” after “any State nonmember bank” and struck out provisions that each claim agent have power to administer oaths and affirmations and to examine and to take and preserve testimony under oath as to any matter in respect to claims for insured deposits, and to issue subpenas and subpenas duces tecum, and, for the enforcement thereof, to apply to the United States district court for the judicial district or the United States court in any territory in which the main office of the bank or affiliate thereof is located, or in which the witness resides or carriers on business and that such courts have jurisdiction and power to order and require compliance with any such subpena.
+<b>1978</b>—Subsec. (b). Pub. L. 95–630, §305(a), inserted “or other institution” after “any State nonmember bank” and struck out provisions that each claim agent have power to administer oaths and affirmations and to examine and to take and preserve testimony under oath as to any matter in respect to claims for insured deposits, and to issue subpenas and subpenas duces tecum, and, for the enforcement thereof, to apply to the United States district court for the judicial district or the United States court in any territory in which the main office of the bank or affiliate thereof is located, or in which the witness resides or carriers on business and that such courts have jurisdiction and power to order and require compliance with any such subpena.
 
 Pub. L. 95–369 inserted “any insured State branch of a foreign bank, any State branch of a foreign bank making application to become an insured bank” after “(except a District bank)”, inserted “or branch” after “and any closed insured bank”, substituted “any national bank, insured Federal branch of a foreign bank, or District bank” for “any national bank or District bank” and inserted “and in the case of a foreign bank, a binding commitment by such bank to permit such examination to the extent determined by the Board of Directors to be necessary to carry out the purposes of this chapter shall be required as a condition to the insurance of any deposits” after “effect of such relations upon such banks”.
 
@@ -524,17 +548,25 @@ Subsec. (c). Pub. L. 95–630, §305(b), among other changes, inserted reference
 
 Subsec. (d). Pub. L. 95–630, §305(b), substituted provisions defining the terms “affiliate” and “member bank” for provisions relating to the enforcement of subpenas and orders.
 
-1970—Subsec. (d). Pub. L. 91–452 struck out provisions which granted immunity from prosecution for any individual compelled to testify or produce evidence, documentary or otherwise, after claiming his privilege against self-incrimination.
+<b>1970</b>—Subsec. (d). Pub. L. 91–452 struck out provisions which granted immunity from prosecution for any individual compelled to testify or produce evidence, documentary or otherwise, after claiming his privilege against self-incrimination.
 
-1966—Subsec. (b). Pub. L. 89–695 empowered Corporation examiners making examinations of insured banks to make such examinations of the affairs of all affiliates of such banks as shall be necessary to disclose fully the relations between such banks and their affiliates and the effect of such relations upon such banks, authorized Corporation claim agents to issue subpenas and subpenas duces tecum in connection with investigation and examination of claims for insured deposits and to apply to the proper United States district court for the enforcement of such subpenas and provided such courts with jurisdiction and power to order and require compliance with any such subpena.
+<b>1966</b>—Subsec. (b). Pub. L. 89–695 empowered Corporation examiners making examinations of insured banks to make such examinations of the affairs of all affiliates of such banks as shall be necessary to disclose fully the relations between such banks and their affiliates and the effect of such relations upon such banks, authorized Corporation claim agents to issue subpenas and subpenas duces tecum in connection with investigation and examination of claims for insured deposits and to apply to the proper United States district court for the enforcement of such subpenas and provided such courts with jurisdiction and power to order and require compliance with any such subpena.
 
 Subsec. (c). Pub. L. 89–695 provided that in connection with examinations of insured banks and affiliates thereof, the appropriate Federal banking agency, or its designated representatives, could administer oaths and affirmations, take and preserve testimony under oath as to any matter in respect of the affairs or ownership of such bank or affiliate thereof, issue subpenas and subpenas duces tecum, and apply to the proper United States district court for the enforcement of such subpenas, provided such courts with jurisdiction and power to order and require compliance with any such subpena, and defined “affiliate” and “member bank”.
 
-1960—Subsecs. (e) to (g). Pub. L. 86–671 struck out subsecs. (e) and (f) which related to reports of condition by insured nonmember State banks and access by Corporation to information of other bank supervisory authorities, and redesignated subsec. (g) as (e). See section 1817(a)(1) and (2) of this title.
+<b>1960</b>—Subsecs. (e) to (g). Pub. L. 86–671 struck out subsecs. (e) and (f) which related to reports of condition by insured nonmember State banks and access by Corporation to information of other bank supervisory authorities, and redesignated subsec. (g) as (e). See section 1817(a)(1) and (2) of this title.
 
 #### Change of Name
 
 Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by section 172(a) of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of this title.
+
+Amendment by section 318(d) of Pub. L. 111–203 effective on the transfer date, see section 318(e) of Pub. L. 111–203, set out as an Effective Date note under section 16 of this title.
+
+Amendment by section 363(4) of Pub. L. 111–203 effective on the transfer date, see section 351 of Pub. L. 111–203, set out as a note under section 906 of Title 2, The Congress.
 
 #### Effective Date of 2004 Amendments
 
@@ -585,4 +617,6 @@ Section 111(c) of Pub. L. 102–242 provided that: “Notwithstanding section 10
 #### Conditions Governing Employment of Personnel Not Repealed, Modified, or Affected
 
 Nothing contained in section 203 of Pub. L. 89–695 amending subsecs. (b) and (c) of this section to be construed as repealing, modifying, or affecting section 1829 of this title, see section 206 of Pub. L. 89–695, set out as a note under section 1813 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

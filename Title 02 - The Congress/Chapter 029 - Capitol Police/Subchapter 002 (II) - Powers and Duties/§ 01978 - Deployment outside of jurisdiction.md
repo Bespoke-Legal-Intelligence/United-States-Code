@@ -2,7 +2,7 @@
 
 #### (a) Requirements for prior notice and approval
 
-The Chief of the Capitol Police may not deploy any officer outside of the areas established by law for the jurisdiction of the Capitol Police unless—
+The Chief of the Capitol Police may not deploy any officer outside of the areas established bylaw for the jurisdiction of the Capitol Police unless—
 
 &emsp;(1) the Chief provides prior notification to the Committee on House Administration of the House of Representatives, the Committee on Rules and Administration of the Senate, and the Committees on Appropriations of the House of Representatives and Senate of the costs anticipated to be incurred with respect to the deployment; and
 
@@ -30,5 +30,5 @@ Section is from the Legislative Branch Appropriations Act, 2005, which is div. G
 
 #### Amendments
 
-2010—Subsec. (a)(1). Pub. L. 111–145 substituted “prior notification to the Committee on House Administration of the House of Representatives, the Committee on Rules and Administration of the Senate, and” for “prior notification to”.
+<b>2010</b>—Subsec. (a)(1). Pub. L. 111–145 substituted “prior notification to the Committee on House Administration of the House of Representatives, the Committee on Rules and Administration of the Senate, and” for “prior notification to”.
 

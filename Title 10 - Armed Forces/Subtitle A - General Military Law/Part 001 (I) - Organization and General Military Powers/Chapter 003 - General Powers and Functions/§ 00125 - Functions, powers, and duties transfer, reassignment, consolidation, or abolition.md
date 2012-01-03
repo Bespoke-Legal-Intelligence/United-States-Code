@@ -64,7 +64,7 @@ In subsection (d), the following substitutions are made: “In subsection (a) (1
 
 <b>1990</b>—Subsec. (c). Pub. L. 101–510 struck out at end “However, notwithstanding any other provision of this title or any other law, the Secretary of Defense shall not direct or approve a plan to initiate or effect a substantial reduction or elimination of a major weapons system until the Secretary of Defense has reported all the pertinent details of the proposed action to the Congress of the United States while the Congress is in session.”
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–433, §103(1), struck out provision under which the Secretary of Defense could substantially transfer, reassign, consolidate, or abolish functions, powers, or duties vested in the Departmentof Defense by law if the Secretary reported the details of the proposed transfer, reassignment, consolidation, or abolition to Congress and if Congress did not affirmatively reject the proposal.
+<b>1986</b>—Subsec. (a). Pub. L. 99–433, §103(1), struck out provision under which the Secretary of Defense could substantially transfer, reassign, consolidate, or abolish functions, powers, or duties vested in the Department of Defense by law if the Secretary reported the details of the proposed transfer, reassignment, consolidation, or abolition to Congress and if Congress did not affirmatively reject the proposal.
 
 Subsec. (b). Pub. L. 99–433, §§103(2), 514(c)(1), inserted “vested by law in the Department of Defense, or an officer, official, or agency thereof” and substituted “5062, 5063” for “5012, 5013”.
 

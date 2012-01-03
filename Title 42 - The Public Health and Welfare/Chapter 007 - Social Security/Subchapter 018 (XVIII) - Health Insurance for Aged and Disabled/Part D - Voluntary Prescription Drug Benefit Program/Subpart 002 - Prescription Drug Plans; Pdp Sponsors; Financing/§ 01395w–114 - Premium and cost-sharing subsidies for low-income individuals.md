@@ -108,7 +108,7 @@
 
 #### (vi) Special rule for widows and widowers
 
-&emsp;&emsp;&emsp;Notwithstanding the preceding provisions of this subparagraph, in the case of an individual whose spouse dies during the effective period for a determination or redetermination that has been made under this subparagraph, such effective period shall be extended through the date that is 1 year after the date on which the determination or redetermination would (but for the application of this clause) otherwise cease to be effective.
+&emsp;&emsp;&emsp;Notwithstanding the preceding provisions of this subparagraph, in the case ofan individual whose spouse dies during the effective period for a determination or redetermination that has been made under this subparagraph, such effective period shall be extended through the date that is 1 year after the date on which the determination or redetermination would (but for the application of this clause) otherwise cease to be effective.
 
 #### (C) Income determinations
 
@@ -124,7 +124,7 @@
 
 &emsp;&emsp;The resources requirement of this subparagraph is that an individual's resources (as determined under section 1382b of this title for purposes of the supplemental security income program subject to the life insurance policy exclusion provided under subparagraph (G)) do not exceed—
 
-&emsp;&emsp;&emsp;(i) for 2006 three times the maximum amount of resources that an individualmay have and obtain benefits under that program; and
+&emsp;&emsp;&emsp;(i) for 2006 three times the maximum amount of resources that an individual may have and obtain benefits under that program; and
 
 &emsp;&emsp;&emsp;(ii) for a subsequent year the resource limitation established under this clause for the previous year increased by the annual percentage increase in the consumer price index (all items; U.S. city average) as of September of such previous year.
 
@@ -196,7 +196,7 @@
 
 #### (5) Waiver of de minimis premiums
 
-&emsp;The Secretary shall, under procedures established by the Secretary, permit a prescriptiondrug plan or an MA–PD plan to waive the monthly beneficiary premium for a subsidy eligible individual if the amount of such premium is de minimis. If such premium is waived under the plan, the Secretary shall not reassign subsidy eligible individuals enrolled in the plan to other plans based on the fact that the monthly beneficiary premium under the plan was greater than the low-income benchmark premium amount.
+&emsp;The Secretary shall, under procedures established by the Secretary, permit a prescription drug plan or an MA–PD plan to waive the monthly beneficiary premium for a subsidy eligible individual if the amount of such premium is de minimis. If such premium is waived under the plan, the Secretary shall not reassign subsidy eligible individuals enrolled in the plan to other plans based on the fact that the monthly beneficiary premium under the plan was greater than the low-income benchmark premium amount.
 
 #### (b) Premium subsidy amount
 

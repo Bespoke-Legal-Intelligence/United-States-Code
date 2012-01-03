@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In all schools selected to receive funds under section 6313(c) of this title that are ineligible for a schoolwide program under section 6314 of this title, or that choose not to operate such a schoolwide program, a local educational agency serving such school may use funds received under this part only for programs that provide services to eligible children under subsection (b) of this section identified as having the greatest need for special assistance.
+In all schools selected to receive funds under section 6313(c) of this title that are ineligible for a schoolwide program under section 6314 of this title, or that choose not to operate such a schoolwide program, a local educational agency serving such school may use funds received under this part only for programs that provideservices to eligible children under subsection (b) of this section identified as having the greatest need for special assistance.
 
 #### (b) Eligible children
 
@@ -76,7 +76,7 @@ In all schools selected to receive funds under section 6313(c) of this title tha
 
 #### (2) Requirements
 
-&emsp;Each school conducting a program under this section shall assist participating children selected in accordance with subsection (b) of this section to meet the State's proficient and advanced levels of achievement by—
+&emsp;Each school conducting a program under this section shall assist participating childrenselected in accordance with subsection (b) of this section to meet the State's proficient and advanced levels of achievement by—
 
 &emsp;&emsp;(A) the coordinating of resources provided under this part with other resources; and
 

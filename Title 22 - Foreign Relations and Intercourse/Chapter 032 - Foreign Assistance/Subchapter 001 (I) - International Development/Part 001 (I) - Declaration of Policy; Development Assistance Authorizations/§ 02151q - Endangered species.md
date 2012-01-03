@@ -56,7 +56,7 @@ The Administrator of the Agency for International Development shall—
 
 Each annual report required by section 2394(a) of this title shall include, in a separate volume, a report on the implementation of this section.
 
-(Pub. L. 87–195, pt. I, §119, as added Pub. L. 98–164, title VII, §702, Nov. 22, 1983, 97 Stat. 1045; amended Pub. L. 99–529, title III, §302, Oct. 24, 1986, 100 Stat. 3017; Pub. L. 101–167, title V, §533(d)(4)(A), Nov. 21, 1989, 103 Stat. 1227.)
+(Pub. L. 87–195, pt. I, §119, as added Pub. L. 98–164, title VII, §702, Nov. 22, 1983, 97 Stat. 1045;amended Pub. L. 99–529, title III, §302, Oct. 24, 1986, 100 Stat. 3017; Pub. L. 101–167, title V, §533(d)(4)(A), Nov. 21, 1989, 103 Stat. 1227.)
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
 

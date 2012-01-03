@@ -28,7 +28,7 @@ Pub. L. 100–628, title I, §101, Nov. 7, 1988, 102 Stat. 3227, provided that:
 
 “(a)
 
-In General.—This Act and the amendments made by this Act \[see Short Title of 1988 Amendment note set out under section 11301 of this title\] may not be construed to provide for new budget authority, budget outlays, or new entitlement authority, for fiscal year 1989 or 1990 in excess of the appropriate aggregatelevels established by the concurrent resolution on the budget for such fiscal year for the programs authorized by this Act and the amendments made by this Act.
+In General.—This Act and the amendments made by this Act \[see Short Title of 1988 Amendment note set out under section 11301 of this title\] may not be construed to provide for new budget authority, budget outlays, or new entitlement authority, for fiscal year 1989 or 1990 in excess of the appropriate aggregate levels established by the concurrent resolution on the budget for such fiscal year for the programs authorized by this Act and the amendments made by this Act.
 
 “(b)
 

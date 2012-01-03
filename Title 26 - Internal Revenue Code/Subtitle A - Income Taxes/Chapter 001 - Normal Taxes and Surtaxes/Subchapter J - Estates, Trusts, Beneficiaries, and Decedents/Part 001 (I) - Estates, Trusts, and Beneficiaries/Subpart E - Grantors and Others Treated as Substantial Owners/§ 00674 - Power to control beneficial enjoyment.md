@@ -92,5 +92,5 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 applicable with respect to transfers in trust made after Mar. 1, 1986, except for transfers pursuant to a certain binding property settlement agreement, see section 1402(c) of Pub. L. 99–514, set out as a note under section 673 of this title.
+Amendment by Pub. L. 99–514 applicable with respect to transfers in trust made after Mar. 1, 1986, except fortransfers pursuant to a certain binding property settlement agreement, see section 1402(c) of Pub. L. 99–514, set out as a note under section 673 of this title.
 

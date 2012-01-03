@@ -48,7 +48,7 @@ The words “received after December 31, 1938,” are omitted as obsolete. The w
 
 #### Amendments
 
-1998—Pub. L. 105–261 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
+<b>1998</b>—Pub. L. 105–261 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
 
 #### Effective Date of 1998 Amendment
 
